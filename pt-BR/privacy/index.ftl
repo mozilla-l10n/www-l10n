@@ -42,7 +42,6 @@ privacy-index-thunderbird = { -brand-name-thunderbird }
 privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } para { -brand-name-fire-tv }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
-privacy-index-hubs = { -brand-name-mozilla-hubs }
 privacy-index-mozilla-subscription-services = Serviços da { -brand-name-mozilla } com assinatura
 # This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".
 privacy-index-mozilla-accounts = Contas { -brand-name-mozilla }

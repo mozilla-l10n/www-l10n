@@ -10,9 +10,6 @@ firefox-browsers-page-title = Stiahnite si { -brand-name-firefox } pre stolné p
 # HTML page description
 firefox-browsers-page-desc = Vyberte si z možností stolný počítač, { -brand-name-ios }, { -brand-name-android } alebo si nechajte poslať e‑mailom odkaz na stiahnutie do mobilu.
 firefox-browsers-main-heading = Prehliadače { -brand-name-firefox }
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = Získajte <strong>prehliadače</strong>, pre ktoré je súkromie to najdôležitejšie – a vždy bolo
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Získajte prehliadač, pre ktorý je vaše súkromie na prvom mieste – a <strong>vždy</strong> bolo
 firefox-browsers-desktop = Počítač

@@ -31,7 +31,7 @@ browser-history-the-browser-wars = Luftërat e Shfletuesve
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = Më 1995, { -brand-name-netscape } Navigator s’qe rruga e vetme për të përdorur internetin. Gjiganti i software-it kompjuterik { -brand-name-microsoft } licencoi kodin e vjetër të Mosaic-ut dhe krijoji dritaren e vet për në internet, <a href="{ $ie }">{ -brand-name-ie }</a>. Hedhja e tij në qarkullim nxiti një luftë. { -brand-name-netscape }-i dhe { -brand-name-microsoft }-i punuan në ethe për të krijuar versione të rinj të programeve të tyre, secili duke u përpjekur t’ia kalojë tjetrit me produkte më të shpejtë, më të mirë.
 # Variables:
-#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = { -brand-name-netscape }-i krijoi dhe hodhi në qarkullim JavaScript-in, që u dha sajteve aftësi të fuqishme përllogaritëse që nuk i kishin pasur kurrë më parë. (Ata krijuan gjithashtu famëkeqin <a href="{ $blink }">&lt;blink&gt; tag</a>.) { -brand-name-microsoft }-i u përgjigj me Cascading Style Sheets (CSS), që u bë standard për krijim faqesh web.
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1

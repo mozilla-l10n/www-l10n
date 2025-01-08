@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -10,9 +10,6 @@ facebook-container-millions-of-people-around = Milioin de personn-e in gio pe-o 
 facebook-container-facebook-well-contained-keep = Mantegni { -brand-name-facebook } sotto contròllo. E tegni o resto da teu vitta pe ti.
 facebook-container-get-the-facebook-container = Scarega l'estenscion { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Scarega { -brand-name-firefox } e piggite l'estenscion { -brand-name-facebook-container }
-facebook-container-the-facebook-container-extension = L'estenscion { -brand-name-facebook-container } o no gh'é pe dispoxitivi mòbili.
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Preuva <strong>{ -brand-name-firefox-focus }</strong>, o navagatô ch'o da a mente a privacy pe { -brand-name-android } e { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Diciddi cöse condividde
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

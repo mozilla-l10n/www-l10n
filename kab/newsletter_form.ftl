@@ -10,15 +10,10 @@ newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Fren tamnaḍt neγ tamurt
 newsletter-form-select-language = Fren tutlayt
 newsletter-form-your-email-here = IMAYL-INEK DA
-newsletter-form-format = Amasal
-newsletter-form-html = HTML
-newsletter-form-text = Aḍris
 newsletter-form-get-firefox-news = Awi isallen ɣef { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Qebleɣ akken { -brand-name-mozilla } ad tesseqdec talɣut-inu akken tella <a href="{ $url }">tsertit-a n tbaḍnit</a>
-newsletter-form-we-will-only-send = Ad ak-d-nazen kan talɣut yerzan { -brand-name-mozilla }.
-newsletter-form-we-will-only-send-firefox = Ad ak·am-n-nazen kan talɣut yeεnan { -brand-name-firefox }.
 newsletter-form-if-you-havent-previously = Ma yella ur tsentmeḍ ara yakan ajerred ɣer yizen n telɣutyerzan { -brand-name-mozilla }, ahat yessefk tura. Ma ulac aɣilif, senqed tirawt-inek neɣ imzizdig-inek n yispamen akken ad twaliḍ imayl i ak-d-nuzen.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Kečč
 newsletter-form-get-firefox-tips = Awi-d { -brand-name-firefox } timaheltin, tixbula, isallen d wayen-nniḍen

@@ -10,8 +10,6 @@ cookie-settings-page-desc = Táto stránka popisuje rôzne typy súborov cookie,
 cookie-settings-breadcrumb-link = Predchádzajúca stránka
 cookie-settings-explainer = Cookies sú malé súbory obsahujúce časti informácií, ktoré sa ukladajú do vášho počítača alebo zariadenia pri návšteve webovej stránky. { -brand-name-mozilla } používa súbory cookie na zabezpečenie funkcionality našich webových stránok, ako aj na zhromažďovanie informácií o tom, ako používate naše webové stránky a ako s nimi interagujete.
 cookie-settings-page-intro-v2 = Táto stránka popisuje rôzne typy súborov cookie a podobné technológie, ako sú pixelové značky, webové majáky, čisté súbory GIF, JavaScript a miestne úložisko (ďalej len “súbory cookie”), ktoré môže { -brand-name-mozilla } používať, a poskytuje vám kontrolu nad tým, pre aké typy údajov súhlasíte so zhromažďovaním { -brand-name-mozilla(case: "ins") }.
-# Obsolete string (expires: 2024-07-01)
-cookie-settings-page-intro = Táto stránka popisuje rôzne typy súborov cookie a podobné technológie (ako sú pixelové značky, webové majáky, čisté súbory GIF, JavaScript a lokálne úložisko) („súbory cookie“), ktoré môže { -brand-name-mozilla } používať, a poskytuje vám kontrolu nad tým, pre aké typy údajov súhlasíte s ich zhromažďovaním { -brand-name-mozilla(case: "ins") }.
 cookie-settings-how-mozilla-heading = Ako { -brand-name-mozilla } používa súbory cookie
 cookie-settings-how-does-mozilla-use-subheading = Ako { -brand-name-mozilla } používa tieto údaje?
 cookie-settings-save-changes = Uložiť zmeny

@@ -92,12 +92,8 @@ newsletters-love-the-web-so-do-we = Milujete web? My také!
 newsletters-unlock-the-world-of-web = Nahlédněte do světa vývoje webu s naším týdenním zpravodajem { -brand-name-mozilla } Developer. Každé vydání přináší informace a technikách programování a ověřených postupech, novinkách na { -brand-name-mdn(case: "loc") }, informace o nových technologiích, tipy na nástroje pro vývojáře a další.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-make-the-most = Využijte { -brand-name-firefox(case: "acc") } naplno
-# Obsolete string (expires: 2024-11-01)
-newsletters-put-more-fox-in-your-inbox = Více o Firefoxu ve vaší e-mailové schránce.
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-sign-up-to-receive-monthly = Přihlaste se k měsíčnímu odběru novinek o { -brand-name-firefox(case: "loc") } a internetových trendech, které utvářejí váš online život.
-# Obsolete string (expires: 2024-11-01)
-newsletters-see-where-the-web-can-take = Zjistěte, kam může web směřovat z našich měsíčních tipů k { -brand-name-firefox(case: "dat") } a triků pro používání internetu.
 newsletters-we-are-sorry-but-there = Omlouváme se, v našem systému nastal problém. Zkuste to prosím později!
 newsletters-thanks-for-updating-your = Děkujeme za aktualizaci vašeho nastavení e-mailů.
 newsletters-success-an-email-has-been-sent = Poslali jsme vám e-mail s odkazem na nastavení našeho zpravodaje. Děkujeme!

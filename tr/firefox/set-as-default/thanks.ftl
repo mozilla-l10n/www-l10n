@@ -22,10 +22,6 @@ set-as-default-thanks-youre-all-set = Hazırsınız.
 set-as-default-thanks-get-firefox-for-mobile = Mobil cihazlar için { -brand-name-firefox }’u indirin
 set-as-default-thanks-travel-the-internet-with = İnternette gezinirken tüm cihazlarınızda üstün koruma.
 set-as-default-thanks-download-the-app = Uygulamayı indir
-# Obsolete string
-set-as-default-thanks-join-firefox = { -brand-name-firefox }’a katılın
-# Obsolete string
-set-as-default-thanks-sign-up-for-a-free-account = Ücretsiz bir hesap açarak tüm parolalarınızı, gezinti geçmişinizi ve tercihlerinizi cihazlarınız arasında eşitleyebilirsiniz.
 set-as-default-create-an-account = Hesap oluştur
 set-as-default-thanks-sign-up-for-a-free-account-v2 = Ücretsiz bir { -brand-name-mozilla-account } açarak tüm parolalarınızı, gezinti geçmişinizi ve tercihlerinizi cihazlarınız arasında eşitleyebilirsiniz.
 # Account here refers to a Firefox Account

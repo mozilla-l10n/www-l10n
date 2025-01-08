@@ -11,10 +11,6 @@ features-index-firefox-browser-features = Функции браузера { -bra
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } — это быстрый, лёгкий, ориентированный на приватность браузер, работающий на всех ваших устройствах.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } становится быстрее
 features-index-the-latest-browser-speed-benchmarks = Последние тесты скорости браузера доказывают, что { -brand-name-firefox } быстрее, чем когда-либо.
-# Obsolete string
-features-index-is-firefox-a-fast-browser = Является ли { -brand-name-firefox } быстрым браузером?
-# Obsolete string
-features-index-firefox-uses-less-memory-than = { -brand-name-firefox } использует меньше памяти, чем Chrome, поэтому другие ваши программы могут продолжать работать с максимальной скоростью.
 features-index-is-firefox-a-private-browser = Является ли { -brand-name-firefox } конфиденциальным браузером?
 features-index-were-focused-on-your-right-to = Мы сосредоточены на вашем праве на неприкосновенность частной жизни. Ваши данные, ваша активность в Интернете, ваша жизнь в Интернете защищены с помощью { -brand-name-firefox }.
 features-index-free-password-manager = Бесплатный менеджер паролей
@@ -42,7 +38,5 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } автом
 features-index-ditch-the-sticky-ads = Избавьтесь от навязчивой рекламы, которая преследует вас повсюду, с помощью встроенных средств блокировки сборщиков цифровых отпечатков в { -brand-name-firefox }.
 features-index-translate-the-web = Переводите Интернет
 features-index-translate-websites-to-your = Переводите веб-сайты на ваш язык прямо в браузере { -brand-name-firefox }, не делясь своими данными с кем-либо ещё.
-# Obsolete string
-features-index-translate-more-than = Переводить с более 100 языков на ваш язык прямо в браузере { -brand-name-firefox } — проще, чем когда-либо.
 features-index-picture-in-picture = Картинка в картинке
 features-index-got-things-to-do = Есть чем заняться и что посмотреть? Делайте это одновременно, используя функцию «Картинка в картинке» в { -brand-name-firefox }.

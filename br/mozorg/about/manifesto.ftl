@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -30,7 +30,6 @@ manifesto-10 = 10
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = Engouestl evit ur genrouedad yac'h
 manifesto-show-your-support = Diskouez ho skoazell
-manifesto-share-on-twitter = Rannañ war { -brand-name-twitter }
 manifesto-our-10-principles = <strong>Hon 10</strong> pennaenn
 manifesto-love-the-web = Plijet oc'h gant ar web?
 manifesto-details-the-mozilla-manifesto = Manifesto { -brand-name-mozilla }

@@ -32,9 +32,7 @@ home-join-us-in-shaping = Bli med oss ​​i å forme påliteleg AI
 home-work-on-ai = { -brand-name-mozilla }s arbeid med AI er ikkje berre ein ny ting – vi har brukt år på å finansiere, byggje og gå inn for AI som er open, rettferdig og ansvarleg utvikla. Fokuset vårt er å skape AI som tener folket, prioriterer openheit og støttar allmenta, ikkje dagsordenane til bedrifta.
 home-read-more = Les meir
 home-so-what-is-mozilla = So, kva er { -brand-name-mozilla }?
-# Variables
-#   $ventures - link to https://mozilla.vc/
-#   $mozai - link to https://mozilla.ai/
+# Obsolete string (expires: 2025-01-05)
 home-at-its-core = I kjernen er { -brand-name-mozilla } ein aktivistorganisasjon leidd av { -brand-name-mozilla-foundation } som gjer endringar i verda gjennom ei rekkje satsingar, inkludert { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> og <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Korleis er vi ulike? Fordi vi er oppdragsdrivne, betyr det at vi har fridommen til å ta alle avgjerdene våre basert på kva som er best for internett og for alle på nettet, ikkje basert på krav frå aksjonærar – vi har faktisk ingen av desse.
 home-learn-about-mofo = Les om { -brand-name-mozilla-foundation }
 home-join-the-fight = Ver med i kampen for eit helsesamt internett
@@ -45,8 +43,6 @@ home-the-mozilla-project = Projektet { -brand-name-mozilla } vart grunnlagt i Sa
 home-eventually-the-open = Etterkvart vart { -brand-name-mozilla }-projektet, med open kjeldekode, forvandla til den svært populære versjonen av { -brand-name-firefox }.
 home-today-mozilla-continues = I dag held { -brand-name-mozilla } fram rørsla si mot eit betre internett med millionar av aktive community-medlemmar over heile verda, som tek til orde for etisk teknikk, pålitleg AI og produserer personvernbaserte produkt som gjev meir makt til folket.
 home-learn-more-about-mozilla = Les meir om { -brand-name-mozilla }
-home-get-good-news = Få (gode) { -brand-name-mozilla }-nyheiter
-home-get-news-and-tips = Få nyheiter og tips frå { -brand-name-mozilla } får å vere sikker og informert om alt som gjer nettet til ein meir helsesam plass.
 # VPN Feature
 home-featured-product = Utvalt produkt
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.

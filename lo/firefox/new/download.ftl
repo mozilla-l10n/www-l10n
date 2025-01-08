@@ -27,10 +27,6 @@ firefox-new-need-help = ຕ້ອງການຄວາມຊ່ວຍເຫລ�
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ບໍ່ມີການອັບເດດຄວາມປອດໄພອີກຕໍ່ໄປ</a> ຢູ່ໃນ { -brand-name-windows } { -brand-name-xp } ຫຼື { -brand-name-vista }, ແຕ່ທ່ານຍັງສາມາດໃຊ້ { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = ທ່ານ​ກຳ​ລັງ​ໃຊ້​ລະ​ບົບ​ປະ​ຕິ​ບັດ​ການ​ທີ່​ບໍ່​ປອດ​ໄພ, ລ້າ​ສະ​ໄໝ <a href="{ $url }">ບໍ່​ໄດ້​ຮັບ​ການ​ຮອງ​ຮັບ​ໂດຍ { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -45,8 +41,6 @@ firefox-new-please-follow = ກະລຸນາເຮັດຕາມ<a href="{ $u
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = ລະບົບຂອງທ່ານອາດຈະບໍ່ຕອບສະໜອງໄດ້ຂໍ້ກຳນົດຂອງ { -brand-name-firefox }, ແຕ່ທ່ານສາມາດລອງໃຊ້ <a href="{ $url }">ເວີຊັນເຫຼົ່ານີ້</a>.
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = ຖ້າ​ຫາກ​ທ່ານ​ເຫັນ​ການ​ກະ​ຕຸ້ນ​ທີ່​ລະ​ບຸ​ວ່າ app ທີ່​ທ່ານ​ພະ​ຍາ​ຍາມ​ຕິດ​ຕັ້ງ​ບໍ່​ແມ່ນ app { -brand-name-microsoft }-verified app, click “Install anyway” ຫຼື <a { $attrs }>ປ່ຽນ​ການ​ຕັ້ງ​ຄ່າ​ການ​ແນະ​ນໍາ app</a >.
@@ -63,4 +57,3 @@ firefox-new-fast = ໄວ, ສ່ວນຕົວ ແລະ ຟຣີ
 firefox-new-from-mozilla = ຜະລິດໂດຍ { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } ເປັນເວັບບຣາວເຊີຟຣີທີ່ມີການໂຫຼດໜ້າເວັບໄວ, ໃຊ້ຄວາມຈຳໜ້ອຍລົງ, ແລະຄຸນສົມບັດຫຼາຍຢ່າງ - ເປັນໂຄງການທີ່ບໍ່ຫວັງຜົນກຳໄລ { -brand-name-mozilla } .
 firefox-new-download-a-different = ດາວໂຫລດແພລະຕະຟອມຫຼືພາສາອື່ນ
-firefox-new-taskbar = { -brand-name-firefox } ຈະຖືກປັກໝຸດໃສ່ແຖບໜ້າວຽກ { -brand-name-windows } ຫຼັງຈາກການຕິດຕັ້ງ

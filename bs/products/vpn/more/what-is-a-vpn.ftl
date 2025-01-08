@@ -56,11 +56,3 @@ vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Brz, siguran, pouzda
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> je usluga kojoj možete vjerovati da će vaša veza s internetom biti sigurna na svim vašim uređajima. Ne vodimo evidenciju vaših mrežnih aktivnosti i ne sarađujemo s trećim stranama koje grade profile onoga što radite na mreži. U svijetu u kojem je nepredvidljivost postala “nova normalnost”, znamo da je važnije nego ikad da se osjećate sigurno i da znate da je ono što radite na mreži vaša stvar.
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> je usluga kojoj možete vjerovati da će vaša veza s internetom biti sigurna na svim vašim uređajima. Ne vodimo evidenciju vaših mrežnih aktivnosti i ne sarađujemo s trećim stranama koje grade profile onoga što radite na mreži. U svijetu u kojem je nepredvidljivost postala nova normalnost…
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> je usluga kojoj možete vjerovati da će vaša veza s internetom biti sigurna na svim vašim uređajima. Ne vodimo evidenciju korisničkih podataka i ne sarađujemo sa analitičkim platformama trećih strana koje žele da izgrade profil onoga što radite na mreži. U svijetu u kojem je nepredvidljivost postala “nova normalnost”, znamo da je važnije nego ikad da se osjećate sigurno i da znate da je ono što radite na mreži vaša stvar.

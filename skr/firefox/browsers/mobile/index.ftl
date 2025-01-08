@@ -21,13 +21,8 @@ browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = اڳلے درجے دی رازداری دیاں خصوصیات دے نال ہموار، تیز رفتار موبائل براؤزر تلاش کریندے پئے ہیں؟ { -brand-name-firefox-focus } آپوں ڄاݨ تہاݙی تمام براؤزنگ ہسٹری کوں اوں پل مٹا ݙیندا ہے جݙاں تساں اپݨا براؤزر کھولیندے او اوں پل کنوں جݙاں تساں اینکوں بند کریندے او۔
 browsers-mobile-compare = ویورا
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = ݙیکھو جو کیویں { -brand-name-firefox } ڈیسک ٹاپ کیتے ٻئے براؤزرز تائیں سٹیک کریندا ہے۔
-# Obsolete string (expires 30 June 2024)
-browsers-mobile-see-how-firefox-for-desktop-stacks = ݙیکھو جو کیویں { -brand-name-firefox } ڈیسک ٹاپ کیتے ست ٻئے براؤزرز تائیں سٹیک کریندا ہے۔
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = ݙیکھو جو کیویں { -brand-name-firefox } <strong>ڈیسک ٹاپ</strong> کیتے ٻئے براؤزرز تائیں سٹیک کریندا ہے۔
-# Obsolete string (expires 30 June 2024)
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = ݙیکھو جو کیویں { -brand-name-firefox } <strong>ڈیسک ٹاپ</strong> کیتے ست ٻئے براؤزرز تائیں سٹیک کریندا ہے۔
 browsers-mobile-download = ڈاؤن لوڈ
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

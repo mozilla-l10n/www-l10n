@@ -10,10 +10,6 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = Az { -brand-name-android(cap: "lower") }os { -brand-name-firefox } böngésző gyors, biztonságos és privát, az első megnyitásától kezdve.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = Válassza a függetlenséget a { -brand-name-firefox } for { -brand-name-android }dal
-# Obsolete string
-mobile-android-when-you-download = Amikor letölti a { -brand-name-firefox(case: "accusative") }, akkor egy független technológiai vállalat támogatását választja. A { -brand-name-firefox } az egyetlen nagy böngésző, melyet egy olyan nonprofit szervezet támogat, amely a nagyobb nyitottságért, átláthatóságért és az Ön saját online élete feletti irányítása megtartásáért küzd.
 mobile-android-get-firefox-for = { -brand-name-firefox } for { -brand-name-android } letöltése
 mobile-android-send-a-download-link-to-your = Küldjön egy letöltési hivatkozást a telefonjára.
 mobile-android-scan-the-qr-code-to-get-started = Olvassa le a QR-kódot, és kezdjen neki

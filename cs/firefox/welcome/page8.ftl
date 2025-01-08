@@ -16,8 +16,6 @@ welcome-page8-enhanced-tracking-protection = Rozšířená ochrana proti sledov�
 welcome-page8-automatically-block-sites = Automaticky blokuje stránky, které se vás snaží na internetu sledovat.
 welcome-page8-see-whats-blocked = Podívejte se, co je blokováno
 welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-see-what-youve-been = Podívejte se, jestli jste nebyli součástí nějakého známého úniku dat, a vypořádejte se s ním.
 welcome-page8-go-to-monitor = Otevřít { -brand-name-monitor(case: "acc") }
 welcome-page8-firefox-send = { -brand-name-firefox-send }

@@ -7,22 +7,14 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = הרשמה ל{ -brand-name-mozilla-account(case: "a") } – לשמור על הנתונים שלך פרטיים, בטוחים ומסונכרנים
-# Obsolete string
-firefox-accounts-get-a-firefox-account = הרשמה ל{ -brand-name-firefox-account(case: "a") } – שמירה על הנתונים שלך פרטיים, מאובטחים ומסונכרנים
 firefox-accounts-enter-your-email-address = נא להכניס את כתובת הדוא״ל שלך כדי להתחיל.
 firefox-accounts-already-have-an-account = כבר יש לך חשבון?
 firefox-accounts-sign-in = כניסה
-# Obsolete string
-firefox-accounts-already = כבר יש לך { -brand-name-firefox-account(case: "a") }. ברכותינו!
 mozilla-accounts-already = כבר יש לך { -brand-name-mozilla-account(case: "a") }. ברכותינו!
 firefox-accounts-manage = ניהול החשבון שלך
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = יש להיכנס ל{ -brand-name-mozilla-account(case: "the") } שלך כדי:
-# Obsolete string
-firefox-accounts-sign-in-to = יש להיכנס ל{ -brand-name-firefox-account(case: "a") } שלך כדי:
-# Obsolete string
-firefox-accounts-meet-our-family-of = הכירו את משפחת המוצרים שלנו שמכבדת פרטיות.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">שליחת לשונית</a> למכשיר אחר

@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -13,7 +13,7 @@ what-is-firefox = ¿Achike ri { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = Ri { -brand-name-firefox-browser } jun nimaläj okik'amaya'l to'on ruma jun moloj majun ch'akoj rojqan, ri man nuk'ayij ta ri taq atzij chi ke ri eltzijonel chuqa' yatruto' richin nachajij ri awetamab'al. Tawetamaj ch'aqa' chik chi rij ri <a href="{ $url }">{ -brand-name-firefox-browsers }</a> chuqa' <a href="{ $url2 }">ch'aqa' chik taq tikojil.</a>
 how-do-i = ¿Achi'el rub'eyal ninwïl ri { -brand-name-firefox-browser }?
@@ -46,7 +46,7 @@ protecting-your-privacy = Ruchajixik ri awichinanem ja ri' ri qasamaj, chuqa' ni
 is-firefox-safe = ¿La jikïl ri { -brand-name-firefox }?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = Man xa xe ta jikïl richin nokisäx ri { -brand-name-firefox }, chuqa' yaruto' richin chi e jikïl ri taq atzij achi'el chuqa' ri taq awetamab'al. Ri { -brand-name-firefox-browser } ruyon yeruq'ät ri kojqanela' aj rox winäq ewtaman kiwa, kojqanela' kik'amab'ey winäq, ajkriptominer chuqa' ri tz'etöy retal ruwi' q'ab'aj richin man yemol ta ri taq atzij. <a href="{ $url }">Tawetamaj ch'aqa' etamab'äl chi rij ri kichinanem qatikojil.</a>
 related-questions-safe = Taq k'utunïk kiximon ki': { -brand-name-firefox } ütz richin ri ichinanem, jikïl ri { -brand-name-firefox }, ütz ri { -brand-name-firefox } richin ri ichinanem.
@@ -67,12 +67,6 @@ does-firefox-use = ¿La nrokisaj ri { -brand-name-google } ri { -brand-name-fire
 
 firefoxs-default-search = { -brand-name-google } ja ri' ri ruk'wab'äl kanoxiïk k'o pa { -brand-name-firefox }, ri nuq'ajuj chi yatikïr yakanon pan ajk'amaya'l pa ri rukajtz'ik ochochib'äl. <a href="{ $url }">Tetamäx ch'aqa' chik chi rij ri rajowab'al ruk'wab'äl kanoxïk chuqa' kejal ri eruk'amon pe.</a>
 does-firefox-have = ¿La tz'aqatisan ri VPN pa ri { -brand-name-firefox }?
-
-# Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
-
-firefox-does-not = { -brand-name-firefox } majun VPN ruk'amon pe (Ichinan kematz'ib'il k'amab'ey), k'o ka'i' tikojil enuk'un ruma { -brand-name-mozilla }/{ -brand-name-firefox } ri yatikïr nawokisaj chuqa' ri { -brand-name-firefox-browser } ri nitikïr nuchajij ri okik'amaya'l <a href="{ $url }">{ -brand-name-firefox-private-network }</a> o ri rokem okisab'äl (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>) rik'in WiFi, achi'el ri IP awochochib'al.
 related-questions-ip = Ta k'utunïk kiximon ki': ¿La nrewaj ri IP ri { -brand-name-firefox }?
 who-owns-firefox = ¿Achike ri rajaw { -brand-name-firefox }?
 

@@ -7,26 +7,16 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Získejte { -brand-name-mozilla-account } – Udržujte svá data v soukromí, bezpečí a synchronizovaná
-# Obsolete string
-firefox-accounts-get-a-firefox-account = Vytvořte si { -brand-name-firefox-account(case: "acc", capitalization: "lower") } – mějte svá data stále v bezpečí a synchronizovaná
-# Obsolete string
-firefox-accounts-securely-sync-your = Synchronizujte svá hesla, záložky a panely bezpečně napříč svými zařízeními. Založte si { -brand-name-firefox-account(case: "acc", capitalization: "lower") } – jedno přihlášení – možnosti a soukromí všude.
 # HTML page description
 mozilla-accounts-securely-sync-your = Synchronizujte svá hesla, záložky a panely bezpečně ve všech svých zařízeních. Získejte { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } – jedno přihlášení – možnosti a soukromí všude.
 firefox-accounts-enter-your-email-address = Začněte zadáním své e-mailové adresy.
 firefox-accounts-already-have-an-account = Už máte účet?
 firefox-accounts-sign-in = Přihlásit se
-# Obsolete string
-firefox-accounts-already = { -brand-name-firefox-account(case: "acc") } už máte. Gratulujeme!
 mozilla-accounts-already = Již máte účet { -brand-name-mozilla-account }. Gratulujeme!
 firefox-accounts-manage = Správa účtu
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Přihlaste se ke svému { -brand-name-mozilla-account(case: "dat") } a budete moci:
-# Obsolete string
-firefox-accounts-sign-in-to = Přihlaste se do svého { -brand-name-firefox-account(case: "gen") } a budete moci:
-# Obsolete string
-firefox-accounts-meet-our-family-of = Seznámit se s naší rodinou produktů zaměřených na soukromí
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Poslat panel</a> do jiného zařízení

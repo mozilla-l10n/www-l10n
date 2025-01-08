@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Hent { -brand-name-firefox } på dansk (da) eller ét af mere end 90 andre sprog
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = Hent { -brand-name-firefox-browser } på dansk (da) eller ét af mere end 90 andre sprog
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Alle fortjener at have adgang til internettet - dit sprog må aldrig være en hindring. Det er grunden til, at vi - med hjælp fra dedikerede frivillige fra hele verden - sørger for, at { -brand-name-firefox } findes på mere end 90 forskellige sprog.
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = Alle fortjener at have adgang til internettet - dit sprog må aldrig være en hindring. Det er grunden til, at vi - med hjælp fra dedikerede frivillige fra hele verden - sørger for, at { -brand-name-firefox-browser } findes på mere end 90 forskellige sprog.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = Scan QR-koden for at få <em>{ $product_name }</em>
@@ -26,14 +22,8 @@ firefox-all-change-language = Vælg et andet sprog
 firefox-all-down-arrow = Vælg fra listen nedenfor
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Få hjælp
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = Browser:
 firefox-all-browser-v2 = 1. Browser:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = Platform:
 firefox-all-platform-v2 = 2. Platform:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = Sprog:
 firefox-all-language-v2 = 3. Sprog:
 firefox-all-download = 4. Hent:
 firefox-all-desktop = Computer

@@ -16,13 +16,9 @@ privacy-faq-at-mozilla-we-respect-and-protect = A { -brand-name-mozilla(ending: 
 privacy-faq-we-follow-a-set-of-data-privacy = Az <a href="{ $link }">Adatvédelmi irányelveinket</a> követjük, melyek alakítják az adatvédelmi hozzáállásunk az asztali és mobilos { -brand-name-firefox } böngészőkben.
 privacy-faq-we-only-collect-the-data-we = Csak a lehető legjobb termékek készítéséhez szükséges adatokat gyűjtjük.
 privacy-faq-we-put-people-in-control-of = Az emberek kezébe adjuk az irányítást az adataik és az online élményeik felett.
-# Obsolete string (expires 2024-09-11)
-privacy-faq-we-adhere-to-no-surprises-principle = A „nincsenek meglepetések” elvet követjük, ami azt jelenti, hogy keményen dolgozunk azon, hogy az emberek { -brand-name-firefox }ról alkotott képe megegyezzen a valósággal.
 privacy-faq-we-adhere-to-no-surprises-principle-v2 = A „nincsenek meglepetések” elvet követjük, ami azt jelenti, hogy keményen dolgozunk azon, hogy az emberek { -brand-name-firefox(case: "delative") } alkotott képe megegyezzen a valósággal.
 privacy-faq-the-following-questions-and = A következő kérdések és válaszok segítenek megérteni, hogy mit várhat a { -brand-name-mozilla(ending: "accented") }tól és a { -brand-name-firefox }tól:
 privacy-faq-i-use-firefox-for-almost-everything = Szinte mindenre a { -brand-name-firefox }ot használom a Weben. Ti ott a { -brand-name-mozilla(ending: "accented") }nál biztos sok mindent tudtok rólam, ugye?
-# Obsolete string (expires 2024-09-11)
-privacy-faq-firefox-the-web-browser-that = A { -brand-name-firefox }, a webböngésző, amely az eszközén vagy számítógépén fut, átjáró az internethez. A böngészője számos információt kezel a felkeresett weboldalakról, de ez az információ az Ön eszközén marad. A { -brand-name-mozilla }, a { -brand-name-firefox(case: "accusative") } készítő vállalat, nem gyűjti azokat (kivéve, ha Ön kéri).
 privacy-faq-firefox-the-web-browser-that-v2 = A { -brand-name-firefox }, a webböngésző, amely az eszközén vagy számítógépén fut, átjáró az internethez. A böngészője számos információt kezel a felkeresett weboldalakról, de ez az információ jellemzően az Ön eszközén marad. A { -brand-name-mozilla }, a { -brand-name-firefox(case: "accusative") } készítő vállalat, nem gyűjti azokat (kivéve, ha Ön kéri).
 privacy-faq-really-you-dont-collect-my-browsing = Tényleg, nem gyűjtik az előzményeim?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = A { -brand-name-mozilla } nem tud annyit arról, hogyan böngészik az emberek a világhálót, mint azt gondolná. Böngészőkészítőként ez valójában nagy kihívás számunkra. Ezért építettünk olyan választható eszközöket, melyekkel az érdeklődő felhasználók bepillantást engedhetnek böngészésükbe. Ha szinkronizálja a böngészési előzményeit a { -brand-name-firefox } telepítések között, akkor nem tudjuk meg, hogy mik ezek – mert az eszköze titkosítja azokat.
@@ -34,11 +30,6 @@ privacy-faq-wait-so-how-do-you-make-money = Várjunk, akkor hogyan csináltok p�
 privacy-faq-mozilla-is-not-your-average = A { -brand-name-mozilla } nem egy átlagos szervezet. Közösségi nyílt forráskódú projektként finanszírozott 1998 óta, a { -brand-name-mozilla } egy küldetés-vezérelt szervezet, amely az egészségesebb internetért dolgozik. A { -brand-name-mozilla-corporation } bevételének túlnyomó része a { -brand-name-firefox } webböngésző keresési partnerségéből származó jogdíjakból, valamint disztribúciós üzletekből származik. Az <a href="{ $link }">éves pénzügyi jelentésünkből</a> többet tudhat meg arról, hogyan keresünk pénzt.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Rendben, ezek voltak a könnyű esetek. Milyen adatokat gyűjtötök?
-# Obsolete string (expires 2024-09-11)
-# Variables:
-#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
-#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = A { -brand-name-mozilla } alapértelmezés szerint nagyon korlátozott adatkészletet gyűjt a { -brand-name-firefox }ból, melyek segítenek minket megérteni, hogyan használják az emberek a böngészőt. Ezek az adatok egy véletlenszerű azonosítóhoz rendeltek, nem névhez vagy e-mail címhez. Többet olvashat erről az <a href="{ $privacy }">adatvédelmi nyilatkozatban</a>, és olvashatja az <a href="{ $data }">adatgyűjtés teljes dokumentációját is</a>.
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
@@ -48,17 +39,9 @@ privacy-faq-we-make-our-documentation-public = A dokumentációnkat nyilvánoss�
 privacy-faq-that-documentation-is-gobbledygook = A dokumentáció számomra halandzsa. El tudjátok mondani egyszerűen?
 privacy-faq-there-are-two-categories-of = Két adatkategória van, amit alapértelmezett gyűjtünk a { -brand-name-firefox } kiadási verzióiban.
 privacy-faq-the-first-is-what-we-call-technical = Az első kategória a „műszaki adatok”. Ezek adatok magáról a böngészőről, az operációs rendszerről, amelyen az fut, valamint a hibák és összeomlások információi.
-# Obsolete string (expires 2024-09-11)
-privacy-faq-the-second-is-what-we-call-interaction = A második kategória az „interakciós adatok”. Ez egy személy { -brand-name-firefox(case: "instrumental") } történő tevékenységéről szól, mint a megnyitott lapok száma, a felhasználói beállítások állapota, az olyan böngészőfunkciók használatának száma, mint a képernyőképek vagy a konténerek. Például ezeket az adatokat úgy gyűjtjük a vissza gomb (a böngésző bal felső sarkában található nyíl, amellyel visszanavigálhat egy előző weboldalra) esetén, hogy tudni fogjuk, hogy valaki használta a gombot, de nem fogjuk megtudni, hogy konkrétan mely weboldalt ért el.
 privacy-faq-the-second-is-what-we-call-interaction-v2 = A második kategória az „interakciós adatok”. Ez egy személy { -brand-name-firefox(case: "instrumental") } történő tevékenységéről szól, mint a megnyitott lapok száma, a felhasználói beállítások állapota, az olyan böngészőfunkciók használatának száma, mint a képernyőképek vagy a konténerek. Például ezeket az adatokat úgy gyűjtjük a vissza gomb (a böngésző bal felső sarkában található nyíl, amellyel visszanavigálhat egy előző weboldalra) esetén, hogy tudni fogjuk, hogy valaki használta a gombot, de nem fogjuk megtudni, hogy konkrétan mely weboldalt ért el.
 privacy-faq-do-you-collect-more-data-in = Több adatot gyűjtötök a { -brand-name-firefox } előzetes kiadású verzióiban?
-# Obsolete string (expires 2024-09-11)
-privacy-faq-sort-of-in-addition-to-the-data = Mondhatni igen. A fent leírt adatok mellett az összeomlási és hibajelentéseket alapértelmezetten megkapjuk a { -brand-name-firefox } előzetes kiadású verzióiban.
 privacy-faq-sort-of-in-addition-to-the-data-v2 = Mondhatni igen. A fent leírt adatok mellett az összeomlási és hibajelentéseket alapértelmezetten megkapjuk a { -brand-name-firefox } előzetes kiadású verzióiban.
-# Obsolete string (expires 2024-09-11)
-# Variables:
-#   $link (url) - link to https://support.mozilla.org/kb/shield
-privacy-faq-we-may-also-collect-additional = További kiadási előtti információkat is gyűjthetünk a <a href="{ $link }">tanulmányainkhoz</a>. Például, néhány tanulmányhoz „webes tevékenységadatokra” van szükségünk, amelyek webcímeket és más információkat tartalmazhatnak bizonyos weboldalakról. Ez segít nekünk a { -brand-name-firefox } fejlesztését érintő konkrét kérdések megválaszolásában, például abban, hogyan intergrálhatunk jobban népszerű weboldalakat bizonyos területi beállítások esetén.
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional-v2 = További kiadás előtti információkat is gyűjthetünk a <a href="{ $link }">tanulmányainkhoz</a>. Például, néhány tanulmányhoz „webes tevékenységadatokra” van szükségünk, amelyek webcímeket és más információkat tartalmazhatnak bizonyos weboldalakról. Ez segít nekünk a { -brand-name-firefox } fejlesztését érintő konkrét kérdések megválaszolásában, például abban, hogyan integrálhatunk jobban népszerű weboldalakat bizonyos területi beállítások esetén.

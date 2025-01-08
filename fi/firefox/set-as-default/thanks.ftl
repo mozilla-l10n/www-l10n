@@ -22,10 +22,6 @@ set-as-default-thanks-youre-all-set = Kaikki valmiina.
 set-as-default-thanks-get-firefox-for-mobile = Hanki { -brand-name-firefox } mobiililaitteille
 set-as-default-thanks-travel-the-internet-with = Matkaa internetissä suojattuna kaikilla laitteillasi.
 set-as-default-thanks-download-the-app = Lataa sovellus
-# Obsolete string
-set-as-default-thanks-join-firefox = Liity { -brand-name-firefox }iin
-# Obsolete string
-set-as-default-thanks-sign-up-for-a-free-account = Luo ilmainen tili ja synkronoi kaikki salasanat, selaushistoria sekä asetukset kaikkien laitteidesi välillä.
 set-as-default-create-an-account = Luo tili
 set-as-default-thanks-sign-up-for-a-free-account-v2 = Luo ilmainen { -brand-name-mozilla-account } ja synkronoi kaikki salasanat, selaushistoria sekä asetukset kaikkien laitteidesi välillä.
 # Account here refers to a Firefox Account

@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -11,7 +11,7 @@ what-is-firefox = ¿Qué ye { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = El { -brand-name-firefox-browser } ye l'únicu restolador de los grandes que ta fechu por una organización ensin ánimu de llucru que nun viende los datos personales a empreses publicitaries al empar que t'ayuda a protexer la to información. Llei más tocante a los <a href="{ $url }">{ -brand-name-firefox-browsers }</a> y a <a href="{ $url2 }">otros productos</a>.
 how-do-i = ¿Cómo consigo'l { -brand-name-firefox-browser }?
@@ -37,7 +37,7 @@ is-firefox-safe-download = ¿{ -brand-name-firefox } ye seguru de baxar?
 is-firefox-safe = ¿{ -brand-name-firefox } ye seguru?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 does-firefox-sell = ¿{ -brand-name-firefox } viende los datos personales?
 
@@ -53,11 +53,6 @@ does-firefox-use = ¿{ -brand-name-firefox } usa { -brand-name-google }?
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
 does-firefox-have = ¿{ -brand-name-firefox } tien una VPN integrada?
-
-# Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
 who-owns-firefox = ¿Quién ye'l propietariu de { -brand-name-firefox }?
 
 # Variables:

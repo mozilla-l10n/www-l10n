@@ -1,25 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
 footer-privacy = गुप्तता
 footer-press = मुद्रणालय
 footer-brand-standards = ब्रँड परिमाण
 footer-browsers = ब्राउझर
-footer-desktop = डेस्कटॉप
-footer-mobile = मोबाइल
-footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
-footer-products = उत्पादने
-footer-lockwise = { -brand-name-lockwise }
-footer-monitor = { -brand-name-monitor }
-footer-send = { -brand-name-send }
-footer-pocket = { -brand-name-pocket }
-footer-join = सामील व्हा
-footer-sign-up = साइन अप करा
-footer-sign-in = साइन इन करा
-footer-benefits = फायदे
 footer-developers = डेवलपर्स
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
@@ -28,11 +16,8 @@ footer-nightly-for-android = { -brand-name-android } साठी { -brand-name-
 footer-beta-for-android = { -brand-name-android } साठी बीटा
 footer-mozilla = { -brand-name-mozilla }
 footer-company = कंपनी
-footer-about = विषयी
 footer-press-center = वृत केंद्र
 footer-careers = करिअर
-footer-test-new-features = नवीन वैशिष्ट्यांची चाचणी घ्या
-footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = साधने
 footer-resources = संसाधने
 footer-contact = संपर्क
@@ -44,6 +29,5 @@ footer-websites-privacy-notice = वेबसाइट गोपनीयता 
 footer-websites-cookies = कूकिज
 footer-websites-legal = कायदेविषयक
 footer-language = भाषा
-footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

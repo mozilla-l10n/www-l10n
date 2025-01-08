@@ -35,10 +35,6 @@ firefox-desktop-download-blocks-social-trackers = Yessewḥal ineḍfaren n yize
 firefox-desktop-download-os-availability = Tilin n unagraw n wammud
 firefox-desktop-download-in-browser-screenshot = Afecku n tuṭṭfa n ugdil deg yiminig
 firefox-desktop-download-primary-password = Awal uffir agejdan
-# This will only be used when passed the parameter ?v=fx94 in the URL. Example: https://www-dev.allizom.org/firefox/new/?v=fx94
-firefox-desktop-love-your-life = Af iman-ik·im srid
-# Obsolete string
-firefox-desktop-download-master-password = Awal uffir agejdan
 firefox-desktop-download-we-block-the-ad = Nessewḥal ineḍfaren n udellel. Kečč·kemm tesnirimeḍ internet s urured.
 firefox-desktop-download-see-your-report = Wali aneqqis-inek·inem n tɣellist
 firefox-desktop-download-for-everyone = { -brand-name-firefox } i yal yiwen
@@ -111,20 +107,11 @@ firefox-desktop-download-get-firefox-ios = Awi { -brand-name-firefox-browser } i
 firefox-desktop-download-download-the-mobile = Sader-d iminig { -brand-name-firefox } n uziraz i ummesten awurman ɣef meṛṛa ibenkan-inek·inem.
 firefox-desktop-download-learn-about-the = Issin ugar ɣef yiminig n tnarit { -brand-name-firefox } ddaw
 # Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } yella ɣef meṛṛa ibenkan-ik·im; awi accaren, amazray d ticraḍ n yisebtar yid-k·m. Ayen akk i tesriḍ d amiḍan <a { $attrs }>{ -brand-name-firefox } </a>.
-# Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ꞌa <a { $attrs }>yessewḥal s wudem awurman aṭas n yineḍfaren n wis kraḍ</a> ɣef ulqaḍ d usenzi n tigawt-ik·im ɣef web.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Asteqsi? <a { $attrs }>{ -brand-name-mozilla } tallalt</a> tesseḥbaber fell-ak·am.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Ɣur-k·m yakan iminig. Tura awi ugar seg { -brand-name-firefox }.
-# Outdated string
-firefox-desktop-download-watch-for-hackers-with = Ɛass imakaren s { -brand-name-firefox-monitor }, mmesten awalen uffiren s { -brand-name-firefox-lockwise }, d wayen-nniḍen.
-firefox-desktop-download-get-more-from-firefox = Awi ugar seg { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Sader kan iminig
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -140,8 +127,6 @@ firefox-desktop-download-now-mac = Tura <strong>ldi</strong> afaylu i d-tsuliḍ
 firefox-desktop-download-get-help = Tesεuḍ ugur? <a { $attrs }>Awi tallalt i usebded-inek·inem</a>.
 firefox-desktop-download-in-another-language = Sider deg tutlayt-nniḍen neɣ i unagraw-nniḍen n wammud
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = Ma yella twalaḍ alɣu i d-yeskanayen asnas i tettaɛraḍeḍ ad tesbeddeḍ mačči d asnas yettusneqden { -brand-name-microsoft }, sit ɣef “Sebded ɣas akken” neɣ <a { $attrs }>senfel iɣewwaren n uwelleh n usnas</a>.
@@ -149,10 +134,6 @@ firefox-desktop-download-visit-support-for-more = Rzu ɣer tallalt i wugar n tel
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla }<a href="{ $url }">dayen ur d-yettmuddu ara akk ileqman n tɣellist</a> ɣef { -brand-name-windows } { -brand-name-xp } neɣ { -brand-name-vista }, maca mazal tzemreḍ ad tesqedceḍ { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Tesseqdaceḍ anagraw n wammud aqbuṛ, d araɣelsan <a href="{ $url }">ur yettusefraken ara deg { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/

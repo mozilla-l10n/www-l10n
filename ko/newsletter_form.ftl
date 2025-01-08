@@ -20,11 +20,7 @@ newsletter-form-sign-up-to-receive = 온라인 생활을 만들어주는 { -bran
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = <a href="{ $url }">개인정보 보호정책</a>에 나타난대로 { -brand-name-mozilla }가 개인 정보를 다루는 것에 대해서 동의합니다.
 newsletter-form-we-will-only-send-v2 = { -brand-name-mozilla } 관련 정보만 보내드립니다. 언제든지 구독을 취소할 수 있습니다.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send = { -brand-name-mozilla } 관련 정보를 보내 드립니다.
 newsletter-form-we-will-only-send-firefox-v2 = 우리는 { -brand-name-firefox } 관련 정보만 보내드립니다. 언제든지 구독을 취소할 수 있습니다.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send-firefox = { -brand-name-firefox }와 관련된 정보만 전송합니다.
 newsletter-form-if-you-havent-previously = { -brand-name-mozilla } 관련 뉴스레터에 이전에 구독하신 적이 없으시다면, 지금 시작해 보세요. 저희 메일이 스팸함에 있을지 모르니, 확인해 보시기 바랍니다.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + 사용자
 newsletter-form-get-firefox-tips = { -brand-name-firefox } 팁, 트릭, 뉴스 등

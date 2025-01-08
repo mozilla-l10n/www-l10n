@@ -3,92 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/products/vpn/
-
-# HTML page title
-vpn-landing-page-title = { -brand-name-mozilla-vpn }: omo’ãta opaite ne mba’e’oka
-# HTML page description
-# Variables:
-#   $countries (number) - number of available countries
-vpn-landing-page-desc = Eiporu { -brand-name-mozilla-vpn } emo’ã hag̃ua mba’e’oka opa tembiporu’ípe g̃uarã. Apopyvusu ndive { $countries }+ tetãme, eikekuaa oimeraẽva tendápe, eime eimehápe.
-vpn-landing-hero-sub-heading-v2 = Tekorosã, jeroviaha ha pya’ekue — peteĩteĩva mba’e’okápe, eho ehohápe.
-vpn-landing-hero-desc = Peteĩ ñanduti mba’eñimiguáva { -brand-name-firefox } apohare rehegua.
-vpn-landing-privacy-heading = Ñemiguáre jepoko
-vpn-landing-privacy-desc = Eikundaha, emombe’u, eñembosarái ha emba’apo ñandutípe tekoñemíme. Esẽ jave, eiporúvo WiFi opavavegua téra ehekávo tekorosã ñandutípe, akóinte romotenondéta nde rekoñemi.
-vpn-landing-fast-secure-heading = Ñanduti ipya’e ha hekorosãva
-# Variables:
-#   $wireguard (url) - https://mullvad.net/help/why-wireguard/
-#   $attrs (string) - specific attributes added to external links
-vpn-landing-fast-secure-desc-v2 = { -brand-name-mozilla-vpn } oku’e apopyvusu pyha arapygua ári. Oiporúvo taperekoite <a href="{ $wireguard }" { $attrs }>{ -brand-name-wireguard }®</a> ipyahuvéva, rombopapapy ne rembiapo pyhagua ha roñomi nde IP rendaite. Noroñongatúi, ndorohapykuehói ha noromoherakuãi ne mba’ekuaarã pyhagua.
-vpn-landing-brand-trust-heading = Peteĩ VPN márka ejeroviakuaaha
-# Variables:
-#   $url (url) - https://www.mozilla.org/about/manifesto/
-vpn-landing-brand-trust-desc = Hetave 20 arýgui, { -brand-name-mozilla } omoĩ yvypórape tenondete ha oñorairõ tekoñemíre ñandutípe. Peteĩ atyguasu viru’ỹguáva jeykekópe, roime rojapo hag̃ua peteĩ Ñanduti iporã ha hesãi añetéva opavave tapichápe g̃uarã. Opamba’e rojapóva oĩ ore rembipotápe ha oguata ore <a href="{ $url }">rapetére</a>.
-
-## FAQ section
-
-vpn-landing-faq-heading = FAQs
-vpn-langing-faq-uses-question-heading = ¿Mba’épa VPN ha mba’éicha ijeporu?
-# Variables:
-#   $url (url) - link to https://blog.mozilla.org/firefox/vpns-explained/
-vpn-landing-faq-uses-question-desc = Ára ha ára hetave mba’e ojejapo ñanduti ñeikundahápe, tekoñemi ha tekorosã ñandutípe ha’e umi ojehecharamovéva. Peteĩ VPN, <a href="{ $url }">Ñanduti mba’eñemiguáva</a>, ikatu nepytyvõ emoheñói hag̃ua jeikerã ñanduti ñemigua hekorosãvape. Ojehu omoheñóivo peteĩ “tapeyvyguy” hekorosãva ne mba’e’oka ha ñanduti tuichaháicha, ha nemo’ãta mokõi hendáicha:
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
-vpn-landing-faq-uses-conceal-v2 = Emokañýta nde <a href="{ $url }">IP kundaharape</a>. Kóva omo’ãta nde reratee ha oñomíta ne rendaite.
-vpn-landing-faq-uses-encrypt = Ombopapapy pe jeikeita nde ha ne VPN me’ẽhára pa’ũme avave ani hag̃uáicha ombopapapy’o térã omoambue ndehegui.
-# Variables:
-#   $url (url) - link to https://blog.mozilla.org/firefox/when-to-use-a-vpn/
-vpn-landing-faq-uses-examples = Ema’ẽ <a href="{ $url }">po techapyrã jeikove rehegua</a> eipotátaramo peteĩ VPN ne mba’e’okápe.
-vpn-landing-faq-info-question-heading = ¿Mba’eichagua marandu oñongatu { -brand-name-mozilla-vpn }?
-# Variables:
-#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
-#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-landing-faq-info-question-desc-v2 = Romomba’e <a href="{ $principles }">mba’ekuaarã rekoñemi ñepyrũha</a> { -brand-name-mozilla } mba’e ha rombyaty mba’ekuaarã tekotevẽva ereko hag̃ua VPN tekoku’épe ha iporãvévo apopyre tenondeve. Avei rohapykueho mba’ekuaarã moherakuãrã ha jehecharã ore pumbyry rembiporu’i oipytyvõ hag̃ua { -brand-name-mozilla }-pe oikũmby hag̃ua iporãha ore marketing. Eñemomaranduve <a href="{ $notice }">tekoñemi marandúpe</a>.
-vpn-landing-faq-protected-question-heading = ¿Mba’éicha oñemo’ã che rekoñemi?
-# Variables:
-#   $url (url) - link to https://mullvad.net/help/why-wireguard/
-#   $attrs (string) - specific attributes added to external links
-vpn-landing-faq-protected-question-desc = Pe taperekoite <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® ombohape nde pyháre jeguata, omo’ãvo opaite ne maranduete. Emoñondivévo VPN raperekoite oĩmavavoi, auvy vevúi { -brand-name-wireguard } mba’e ndahasyive ehecha ha ema’ẽporã umi tekorosã rechakuaahára — ojapóva chugui jeporavorã hekorosãvéva VPN peg̃uarã. Avei, ne rembiapo ñandutípe oiko jekuaa’ỹme noroñongatúi rupi, rohapykueho térã terá romoherakuã ne mba’ekuaarã pyhápe.
-vpn-landing-faq-competition-question-heading = ¿Mba’éicha oñemoñondive { -brand-name-mozilla-vpn } ijoguaha ndive?
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/about/history/
-vpn-landing-faq-competition-question-desc-v2 = Jepémo umi VPNs reigua ha’ete iporãva, ndojapyhýi tekoñemi { -brand-name-mozilla-vpn }-icha. Ambue VPNs ojehepyme’ẽva ndoguerekói <a href="{ $url }">tembiasakue</a> hetave 20 arýgui { -brand-name-mozilla } oñemoheñóivo apopyre omoĩva tapichakuérape ha tekoñemi tenondete.
-vpn-landing-faq-compatibility-question-heading = ¿Máva mba’e’oka rehe ojokupyty { -brand-name-mozilla-vpn }?
-# Variables:
-#   $mobile (url) - link to https://www.mozilla.org/products/vpn/mobile/
-#   $desktop (url) - link to https://www.mozilla.org/products/vpn/desktop/
-vpn-landing-faq-compatibility-question-desc-v2 = { -brand-name-mozilla-vpn } ojokupyty <a href="{ $mobile }">pumbyry</a>, tableta ha <a href="{ $desktop }">mohendaha</a> ndive amo:
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/windows/
-vpn-landing-faq-compatibility-question-desc-windows-v3 = <a href="{ $url }">{ -brand-name-windows }</a> 10/11 (64-bit añoite)
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/mac/
-#   $minversion (string) - minimum supported version e.g. 10.15
-vpn-landing-faq-compatibility-question-desc-mac-v4 = <a { $url }>{ -brand-name-mac }</a> ({ $minversion } ha hetave)
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/android/
-vpn-landing-faq-compatibility-question-desc-android-v3 = <a href="{ $url }">{ -brand-name-android }</a> ( 8 rehegua ha tuichave)
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/mobile/ios/
-#   $version (number) - minimum supported version number
-vpn-landing-faq-compatibility-question-desc-ios-v4 = <a href="{ $url }">{ -brand-name-ios }</a> ({ $version } ha tuichavéva)
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/products/vpn/desktop/linux/
-vpn-landing-faq-compatibility-question-desc-linux-v4 = <a href="{ $url }">Linux</a> (Ubuntu 20.04 ha hetave)
-vpn-landing-faq-refund-question-heading = ¿Mba’épa { -brand-name-mozilla-vpn } ñemyengovia porureko?
-vpn-landing-faq-refund-question-desc-v2 = Eñemboheraguapyramóme { -brand-name-mozilla-vpn } ndive ñanduti renda { -brand-name-mozilla } rupive, embotývo ne mba’ete 30 ára haguépe, ejerurejeykuaa nde viru ha { -brand-name-mozilla } ome’ẽjeyva’erã ne ñemboheraguapy ñepyrũhapeguare.
-vpn-landing-faq-refund-question-additional-desc = Ejoguárõ ne ñemboheraguapy tembiporu’i ryepy guive { -brand-name-apple } ñemuha { -brand-name-app-store } térã { -brand-name-google-play } Store, ne ñehepyme’ẽ ojokupyty pe { -brand-name-app-store } he’iháicha rehe. Embohapeva’erã ne ñeporandu kuatia ñemuhague ha viru ñembojevy ejoguahaguégui { -brand-name-apple } térã { -brand-name-google }, oikotevẽháicha.
-vpn-landing-faq-manage-subscription-question-heading = ¿Mba’éicha añangarekóta che mboheraguapýre?
-# Variables:
-#   $url (url) - link to https://vpn.mozilla.org/r/vpn/subscription
-vpn-landing-faq-manage-subscription-question-desc = Eñemboheraguapýmarõ { -brand-name-mozilla-vpn }-pe, ikatu emoambue erekóva térã <a href="{ $url }">eñangareko ne ñemboheraguapýre</a> opa ára.
-vpn-landing-faq-download-heading = Mba’éichapa amboguejykuaa { -brand-name-mozilla-vpn } añemboheraguapy rire
-# Variables:
-#   $attrs (string) - link href and additional HTML attributes
-vpn-landing-faq-download-desc = Eike <a { $attrs }>mboguejyha kuatiaroguépe</a> emohenda hag̃ua { -brand-name-mozilla-vpn } ne mba’e’okápe ha upéi emoñepyrũ tembiapo { -brand-name-firefox-account } ndive.
-vpn-landing-faq-link = Ehechave FAQs
-
-## Invite page https://www-dev.allizom.org/products/vpn/invite/
+### URL: https://www-dev.allizom.org/products/vpn/invite/
 
 vpn-landing-invite-page-title = Ejuaju tysýi oha’ãrõvare: { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc-v2 = Og̃uahẽta marandu’i { -brand-name-mozilla-vpn } reiporukuaa vove reikohápe.
@@ -105,6 +20,3 @@ vpn-landing-invite-privacy-policy = Eikutúvo “Ejuaju tysýi oha’ãrõva”,
 vpn-landing-invite-your-information = Ne marandu ojeporúta ojeguerahauka hag̃ua marandu’i eikekuaamaha pype.
 vpn-landing-invite-thanks-heading = ¡Aguyje! Eiméma tysýipe
 vpn-landing-invite-thanks-desc = Ikatúvo { -brand-name-mozilla-vpn } ojeporu reikohápe, romondóta ndéve ñanduti veve.
-
-##
-

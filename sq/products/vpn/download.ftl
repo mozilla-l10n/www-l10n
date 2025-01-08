@@ -13,8 +13,6 @@ vpn-download-sub-heading = Me një pajtim, mund të shkarkoni { -brand-name-mozi
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } ofron mbrojtje të parrezik dhe të siguruar për krejt sistemet e rëndësishëm operativë.
 vpn-download-not-available-in-country = Na ndjeni, { -brand-name-mozilla-vpn } s’mund të kihet në vendin tuaj.
 vpn-download-button-copy = Shkarkoje
-# Obsolete string
-vpn-download-for-windows = VPN për { -brand-name-windows } 10/11
 vpn-download-for-windows-v2 = VPN për { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (vetëm për 64-bit)
 vpn-download-for-windows-long = Shkarkoni { -brand-name-mozilla-vpn } për { -brand-name-windows }
@@ -32,8 +30,6 @@ vpn-download-for-android = VPN për { -brand-name-android }
 vpn-download-for-android-long = Shkarkoni { -brand-name-mozilla-vpn } për { -brand-name-android }
 vpn-download-for-ios = VPN për { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Shkarkoni { -brand-name-mozilla-vpn } për { -brand-name-ios }
-# Obsolete string
-vpn-download-for-ios-long = Shkarkoni VPN { -brand-name-mozilla-vpn } për { -brand-name-ios }
 vpn-download-get-on-google-play = Merreni në { -brand-name-google-play } Store
 vpn-download-get-on-app-store = Merreni në { -brand-name-app-store }
 vpn-download-based-on-your = Bazuar në pajisjen tuaj të tanishme

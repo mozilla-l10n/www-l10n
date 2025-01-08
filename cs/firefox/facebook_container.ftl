@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -12,18 +12,11 @@ facebook-container-get-the-facebook-container = Získat doplněk { -brand-name-f
 facebook-container-download-firefox-and-get-the = Stáhněte si { -brand-name-firefox(case: "acc") } a získejte doplněk { -brand-name-facebook-container }.
 facebook-container-only-available-for-desktop = Doplněk { -brand-name-facebook-container } je nyní dostupný jen ve { -brand-name-firefox(case: "loc") } pro počítač.
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = Pro stažení { -brand-name-firefox(case: "gen") } pro počítač navštivte <a href="{ $url }">{ $link_copy }</a>.
-# Outdated string
-facebook-container-the-facebook-container-extension = Doplněk { -brand-name-facebook-container } není dostupný pro mobilní zařízení.
 facebook-container-get-firefox-android-ios = Stáhněte si { -brand-name-firefox(case: "acc") } pro { -brand-name-android(case: "acc") } a { -brand-name-ios(case: "acc") }.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Vyzkoušejte <strong>{ -brand-name-firefox-focus(case: "acc") }</strong>, soukromý prohlížeč pro { -brand-name-android(case: "acc") } a { -brand-name-ios(case: "acc") }.
 facebook-container-opt-out-on-your-terms = Vyjádřete svůj nesouhlas
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

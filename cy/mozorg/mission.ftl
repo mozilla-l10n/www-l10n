@@ -10,16 +10,10 @@ mission-our-mission-is-to-ensure-the-internet = Ein cenhadaeth yw sicrhau fod y 
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Ein cenhadaeth yw i annog bod yn agored, arloesedd a chyfleoedd ar y We.
 mission-at-mozilla-were-a-global-community-v2 = Yma yn { -brand-name-mozilla }, rydym yn gymuned fyd-eang o dechnolegwyr, meddylwyr ac adeiladwyr sy'n gweithio gyda'i gilydd i gadw'r Rhyngrwyd yn fyw a hygyrch, fel y gall pobl ledled y byd fod yn gyfranwyr gwybodus a chrewyr y We.
-# Outdated string
-mission-at-mozilla-were-a-global-community = Yma yn Mozilla, rydym yn gymuned fyd-eang o dechnolegwyr, meddylwyr ac adeiladwyr sy'n gweithio gyda'i gilydd i gadw'r Rhyngrwyd yn fyw a hygyrch, fel y gall pobl ledled y byd fod yn gyfranwyr gwybodus a chrewyr y We.
 mission-we-believe-this-act-of-human-collaboration = Rydym yn credu fod y weithred hon o gydweithio dynol ar draws llwyfan agored yn hanfodol i dwf unigol a'n dyfodol ar y cyd.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn-v2 = Darllenwch <a href="{ $url }">Maniffesto { -brand-name-mozilla }</a> i dysgu rhagor am y gwerthoedd a'r egwyddorion sy'n ein harwain yn ein cenhadaeth.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/about/manifesto/
-mission-read-the-mozilla-manifesto-to-learn = Darllenwch <a href="{ $url }">Maniffesto Mozilla</a> i dysgu rhagor am y gwerthoedd a'r egwyddorion sy'n ein harwain yn ein cenhadaeth.
 mission-watch-the-video-above-to-learn-more = Gwyliwch y fideo uchod am bwy rydym, o le rydym wedi dod a sut rydym yn gwneud y we'n well i chi.
 mission-get-involved = Ymuno â ni
 mission-volunteer-opportunities-in-a-number = Mae cyfleoedd gwirfoddoli mewn nifer o wahanol feysydd
@@ -29,5 +23,3 @@ mission-forums = Fforymau
 mission-topics-include-support-products = Mae pynciau'n cynnwys cymorth, cynnyrch a thechnolegau
 mission-governance = Llywodraethu
 mission-our-structure-organization-and-the-v2 = Ein strwythur, trefn a chymuned ehangach { -brand-name-mozilla }a
-# Outdated string
-mission-our-structure-organization-and-the = Ein strwythur, trefn a chymuned ehangach Mozilla

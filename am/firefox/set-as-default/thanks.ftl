@@ -22,8 +22,6 @@ set-as-default-thanks-youre-all-set = ዝግጁ ነዎት።
 set-as-default-thanks-get-firefox-for-mobile = ለሞባይል { -brand-name-firefox }ን ያግኙ
 set-as-default-thanks-travel-the-internet-with = በሁሉም መሳሪያዎችዎ ላይ ጥበቃ በማድረግ በይነመረብን ይጓዙ።
 set-as-default-thanks-download-the-app = መተግበሪያውን ያውርዱ
-set-as-default-thanks-join-firefox = { -brand-name-firefox }ን ይቀላቀሉ
-set-as-default-thanks-sign-up-for-a-free-account = ለነጻ መለያ ይመዝገቡ እና ሁሉንም የይለፍ ቃላትዎን፣ የአሰሳ ታሪክዎን እና ምርጫዎችዎን በተለያዩ መሳሪያዎችዎ ላይ ያመሳስሉ።
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = መለያ ያግኙ
 set-as-default-thanks-having-trouble = ችግር እያጋጠመዎት ነው?

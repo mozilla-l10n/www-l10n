@@ -5,8 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Вече имате четеца. Сега вземете още повече от { -brand-name-firefox }.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 

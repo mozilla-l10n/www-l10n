@@ -9,11 +9,6 @@ moz-account-promo-title = Tembiapo ñepyrũ. <br> <span { $class }>Opavave</span
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
 moz-account-already-have-v2 = ¿Ne mba’etéma? <a { $sign_in_url }>Eñepyrũ tembiapo</a> térã <a { $learn_more_url }>eikuaave</a> mba’éicha ejuajúta { -brand-name-mozilla } rehe.
-# Obsolete string (expires: 2024-09-12)
-# Variables
-#   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
-moz-account-already-have = ¿Erekóma mba’ete? <a { $sign_in_url } >Eñepyrũ tembiapo</a> térã <a { $learn_more_url }>eikuaave</a> mba’éichapa ejuajúta { -brand-name-mozilla } rehe.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
 moz-account-product-pocket = { -brand-name-pocket }

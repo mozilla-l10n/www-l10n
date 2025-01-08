@@ -39,7 +39,6 @@ firefox-desktop-download-screenshots = Tapadennoù-skramm
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Tapit { -brand-name-firefox-browser } evit <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Tapit { -brand-name-firefox-browser } evit <strong>{ -brand-name-ios }</strong>
-firefox-desktop-download-just-download-the-browser = Pellgargit ar merdeer, ‘tra ken
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 

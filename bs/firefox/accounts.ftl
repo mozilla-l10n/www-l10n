@@ -7,26 +7,16 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Napravite { -brand-name-mozilla-account } – Čuvajte svoje podatke kao privatne, sigurne i sinhronizovane
-# Obsolete string
-firefox-accounts-get-a-firefox-account = Nabavite { -brand-name-firefox-account } - čuvajte svoje podatke privatnim, sigurnim i sinhronizovanim
-# Obsolete string
-firefox-accounts-securely-sync-your = Sigurno sinhronizujte svoje lozinke, zabilješke i tabove na svim svojim uređajima. Napravite { -brand-name-firefox-account } – Jedna prijava – Snaga i privatnost svuda.
 # HTML page description
 mozilla-accounts-securely-sync-your = Sigurno sinhronizujte svoje lozinke, oznake i tabove na svim svojim uređajima. Napravite { -brand-name-mozilla-account } – Jedna prijava – Snaga i privatnost svuda.
 firefox-accounts-enter-your-email-address = Unesite vašu email adresu da biste počeli.
 firefox-accounts-already-have-an-account = Već imate račun?
 firefox-accounts-sign-in = Prijava
-# Obsolete string
-firefox-accounts-already = Već imate { -brand-name-firefox-account }. Čestitamo!
 mozilla-accounts-already = Već imate { -brand-name-mozilla-account }. Čestitamo!
 firefox-accounts-manage = Upravljajte svojim računom
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Prijavite se na svoj { -brand-name-mozilla-account } na:
-# Obsolete string
-firefox-accounts-sign-in-to = Prijavite se na svoj { -brand-name-firefox-account } na:
-# Obsolete string
-firefox-accounts-meet-our-family-of = Upoznaj našu porodicu proizvoda za zaštitu privatnosti.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Pošalji tab</a> na drugi uređaj
@@ -48,8 +38,6 @@ firefox-accounts-get-it-all-on-every = Nabavite sve na svakom uređaju, bez osje
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

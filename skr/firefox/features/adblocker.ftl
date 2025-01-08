@@ -16,15 +16,6 @@ features-adblocker-an-ad-blocker-is-a-piece = ایڈ بلاکر سافٹ ویئ�
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = ایہ اشتہارات اُچی آواز وِچ ویڈیو اشہتارات، اینجھے اشتہارات جیڑھے ویب تے تہاݙا پیچھا کریندے ہن، ٹریکرز، تریاکل کوکیاں وغیرہ تھی سڳدے ہن جیڑھے تہاݙے براؤزر وِچ دستیاب ہن۔ <a href="{ $firefox }">{ -brand-name-firefox }</a>، مثال دے طور تے <a href="{ $addons }"> منظور شدہ ایڈ بلاکر ایڈ آنز دی ایہ تندیر ہے </a> ایں تندیر ( یا تہاݙے براؤزر کیتے منظور شدہ ایڈ بلاکرز) تے کلک کرو تے ݙیکھو جو کیڑھا تہاݙیاں لوڑاں دے مطابق ہے۔
 features-adblocker-find-the-right-ad-blocker = آپݨے کیتے ٹھیک مشہوری بلاکر لبھو
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = اتھاں <a href="{ $url }"> AdBlocker حتمی </a> جو ہر ہک اشتہار کنوں چھٹکارا پیندا ہے، لیکن خریدار ہوشیار رہن۔ تہاݙے کجھ من بھانوݨے اخباراں تے رسالے اشتہاراں تے انحصار کریندے ہن۔ ٻہوں سارے لوک اپݨے اشتہاراں کوں بلاک کر تے انہاں کوں کاروبار کنوں ٻاہر سڳدے ہیں۔
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = پوپ اپ اشتہارات بدترین ہن۔ انہاں کوں <a href="{ $url }"> پوپ اپ بلاکر </a> دے نال بلاک کرو تے دوبارہ کݙاہیں وی کہیں ٻئے پریشان کن پوپ اپ دے نال معاملہ نہ کرو۔
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = { -brand-name-chrome }{ -brand-name-safari } تے { -brand-name-firefox } کیتے <a href="{ $url }"> ݙاڈھے مقبول مشہوری بلاکراں وچوں ہک ہے</a>۔ ایں کوں { -brand-name-facebook }، { -brand-name-youtube } تے { -brand-name-hulu } مشہوریاں بلاک کرݨ کیتے ورتو۔
 features-adblocker-create-a-tracker-free = مواد بلاک کرݨ نال ٹریکر کنوں آزاد زون بݨاؤ
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

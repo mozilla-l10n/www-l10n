@@ -31,7 +31,7 @@ browser-history-the-browser-wars = Selainsodat
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = Vuoteen 1995 mennessä { -brand-name-netscape } Navigator ei ollut ainoa tapa päästä verkkoon. Tietokoneohjelmistojätti { -brand-name-microsoft } lisensoi vanhan Mosaic-koodin ja rakensi oman ikkunan verkkoon, <a href="{ $ie }">{ -brand-name-ie }</a>in. Julkaisu herätti sodan. { -brand-name-netscape } ja { -brand-name-microsoft } työskentelivät kuumeisesti luodakseen uusia versioita ohjelmistaan, ja kumpikin yritti päihittää toisensa nopeammilla ja paremmilla tuotteilla.
 # Variables:
-#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = { -brand-name-netscape } loi ja julkaisi JavaScriptin, joka antoi verkkosivustoille tehokkaita laskentaominaisuuksia, joita ei koskaan aiemmin ollut olemassa. (He tekivät myös pahamaineisen <a href="{ $blink }">&lt;blink&gt;-tagin</a>.) { -brand-name-microsoft } vastasi CSS:llä (Cascading Style Sheets), josta tuli standardi web-sivujen suunnittelussa ja toteutuksessa.
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1

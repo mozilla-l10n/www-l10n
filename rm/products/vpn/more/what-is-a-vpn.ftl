@@ -56,11 +56,3 @@ vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: svelt, segir, fidabe
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> è in servetsch al qual ti pos ta fidar per proteger tia connexiun cun l'internet da tut tes apparats. Nus na preservain betg ils protocols da tias activitads en la rait e na collavurain era betg cun terzas partidas che creeschan profils da quai che ti fas online. En in mund en il qual l'imprevisibilitad è daventada la «nova normalitad», savain nus ch'igl è pli impurtant che mai che ti ta sentias segir e che ti sappias che quai che ti fas online reguarda mo tai.
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> è in servetsch al qual ti pos ta fidar per proteger tia connexiun cun l'internet da tut tes apparats. Nus na preservain betg ils protocols da tias activitads en la rait e na collavurain era betg cun terzas partidas che creeschan profils da quai che ti fas online. En in mund en il qual l'imprevisibilitad è daventada la nova normalitad…
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> è in servetsch al qual ti pos ta fidar per proteger tia connexiun cun l'internet da tut tes apparats. Nus na preservain betg protocols da datas d'utilisaders e na collavurain era betg cun plattafurmas d'analisa da terzas partidas che vulan crear in profil da quai che ti fas online. En in mund en il qual l'imprevisibilitad è daventada la «nova normalitad», savain nus ch'igl è pli impurtant che mai che ti ta sentias segir e che ti sappias che quai che ti fas online reguarda mo tai.

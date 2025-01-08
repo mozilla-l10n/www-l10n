@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -26,9 +26,6 @@ best-browser-there-are-a-few-ways = Există câteva moduri în care un browser p
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = Al doilea lucru este să nu stochezi prea multe date despre utilizatori. Hackerii nu pot fura ceea ce nu există, motiv pentru care { -brand-name-firefox } păstrează o cantitate minimă de informații despre utilizatorii săi. <a href="{ $data }">{ -brand-name-firefox } știe</a> dacă utilizezi browserul și locația ta generală <a href="{ $privacy }">dar nu și numele animalului tău de companie sau culoarea preferată.</a>
 best-browser-last-but-not-least = Nu în ultimul rând, un browser sigur ar trebui să ofere instrumente care să te ajute să fii atent la conturile tale. Gândește-te la alertele prin e-mail dacă vreunul dintre conturile tale este compromis sau pictogramele care îți spun dacă un site web este folosește măsuri de criptare (de exemplu, dacă este o idee bună să folosești cardul de credit pe un site de cumpărături).
-# Variables:
-# $monitor (url) - link to https://monitor.firefox.com
-best-browser-firefox-is-offering = { -brand-name-firefox } oferă ceva nou pentru a te menține în siguranță: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. Este un serviciu gratuit care te avertizează în cazul în care conturile tale fac parte din breșe de securitate cunoscute și sau dacă acestea au fost compromise în trecut. O altă caracteristică inteligentă este Green Lock. Arată ca o pictogramă verde în partea stângă sus a ferestrei browserului. Dacă folosești { -brand-name-firefox } și vezi lacătul mic verde, înseamnă că site-ul este criptat și securizat. Dacă acesta este gri, ar trebui să te gândești de două ori înainte să introduci informații personale.
 best-browser-we-visit-hundreds-or = Vizităm sute sau chiar mii de site-uri în fiecare zi și nu ne putem aștepta de la utilizatori să ia decizii de securitate și confidențialitate pentru fiecare dintre aceste site-uri. De aceea, un browser care îți oferă mai mult control este atât de important - pentru că îți protecție reală și tangibilă.
 best-browser-a-browser-that-minds = Un browser care își vede de treaba lui.
 best-browser-privacy-on-the-web = Confidențialitatea pe web este un subiect fierbinte. Dacă este pe lista ta de priorități, ai nevoie de un browser care ia în serios confidențialitatea. Când alegi cel mai bun browser privat pentru tine, vezi ce politică de urmărire are și cum îți gestionează datele. Par chestiuni tehnice, dar ele reprezintă motivul pentru care unele browsere sunt mai private decât altele.

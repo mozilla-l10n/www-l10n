@@ -1,20 +1,15 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
-# HTML page title
-welcome-page1-more-than-a-browser-firefox = Más que un navegador: { -brand-name-firefox-monitor } es tu arma contra los hackers
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Da el siguiente paso para proteger tu privacidad en línea con la familia de productos { -brand-name-firefox }.
-welcome-page1-stay-ahead-of-hackers-check = Mantente un paso adelante de los hackers. Comprueba si hay filtraciones de datos con { -brand-name-firefox-monitor }.
 welcome-page1-youre-on-track-to-stay-protected = Vas por el buen camino para estar protegido
 welcome-page1-youve-got-the-web-browser = Tienes el navegador web que protege tu privacidad — ahora es el momento de defenderte de los hackers
 welcome-page1-check-your-breach-report = Revisa tu informe de filtraciones
-welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
-welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } te indica si tu información fue filtrada en una filtración de datos conocida, y te avisa en caso de que ocurra en el futuro.
 welcome-page1-stay-ahead-of-hackers = Mantente un paso adelante de los hackers
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/

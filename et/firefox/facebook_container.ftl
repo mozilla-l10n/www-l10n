@@ -10,11 +10,6 @@ facebook-container-millions-of-people-around = Miljonid inimesed üle maailma us
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Hästi eraldatud. Hoia ülejäänud elu endale.
 facebook-container-get-the-facebook-container = Hangi { -brand-name-facebook-container } lisa
 facebook-container-download-firefox-and-get-the = Laadi { -brand-name-firefox } alla ning paigalda { -brand-name-facebook-container } lisa
-# Outdated string
-facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } lisa pole mobiilsetele seadmetele saadaval.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Proovi <strong>{ -brand-name-firefox-focus }</strong>'t, privaatsusele keskenduvat veebilehitsejat { -brand-name-android }ile ja { -brand-name-ios }-ile.
 facebook-container-opt-out-on-your-terms = Loobu enda äranägemise järgi
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

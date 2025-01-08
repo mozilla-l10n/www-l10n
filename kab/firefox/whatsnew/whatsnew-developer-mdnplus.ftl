@@ -7,7 +7,6 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
-developer-mdnplus-congrats-you-now-have-latest = Ayuz. Tesεiḍ tura lqem akk aneggaru n { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # CTA button
 developer-mdnplus-get-started = Aha bdu
 developer-mdnplus-notifications = Ilɣa

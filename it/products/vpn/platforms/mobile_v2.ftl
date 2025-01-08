@@ -12,12 +12,6 @@ vpn-mobile-in-todays = Nel mondo di oggi, incentrato sui dispositivi mobili, ci 
 vpn-mobile-why-do-i = Perché è necessaria una VPN per dispositivi mobili?
 vpn-mobile-the-mozilla-vpn = L’app mobile { -brand-name-mozilla-vpn } è leggera, quindi non consuma troppa memoria, non rallenta il telefono né consuma la batteria.
 vpn-mobile-your-internet-v2 = Il tuo fornitore di servizi internet (ISP) potrebbe limitare la tua larghezza di banda se sa che stai guardando film, ascoltando musica o caricando contenuti in streaming.
-# Obsolete string
-vpn-mobile-your-internet = Il tuo fornitore di servizi internet (ISP) potrebbe limitare la tua larghezza di banda se sa che stai guardando film, ascoltando musica o caricando contenuti in streaming
 vpn-mobile-your-isp-v2 = Il tuo fornitore di servizi internet potrebbe bloccare siti web o servizi che non gradisce o che competono con i suoi.
-# Obsolete string
-vpn-mobile-your-isp = Il tuo fornitore di servizi internet potrebbe bloccare siti web o servizi che non gradisce o che competono con i suoi
 vpn-mobile-hackers-can-steal-v2 = Gli hacker possono rubare i tuoi dati personali quando utilizzi una rete Wi-Fi pubblica, per esempio nei bar o negli aeroporti.
-# Obsolete string
-vpn-mobile-hackers-can-steal = Gli hacker possono rubare i tuoi dati personali quando utilizzi una rete Wi-Fi pubblica, per esempio nei bar o negli aeroporti
 vpn-mobile-a-vpn-works = Una VPN opera su tutto il tuo dispositivo: non solo sul browser, ma anche sulle app mobili. E a differenza delle VPN gratuite o dei siti proxy, che potrebbero pagare i loro server spiandoti e vendendo le tue informazioni, { -brand-name-mozilla } non tiene traccia di dove vai e che cosa fai.

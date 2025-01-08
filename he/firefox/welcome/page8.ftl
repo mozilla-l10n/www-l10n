@@ -13,7 +13,6 @@ welcome-page8-view-your-protection-report = הצגת דוח ההגנה שלך
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 welcome-page8-enhanced-tracking-protection = הגנת מעקב מתקדמת
 welcome-page8-see-whats-blocked = הצגת הפריטים שנחסמים
-welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-go-to-monitor = מעבר אל { -brand-name-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }
 welcome-page8-share-large-files = שיתוף קבצים גדולים עם הצפנה מקצה לקצה, באמצעות קישור שפג באופן אוטומטי.

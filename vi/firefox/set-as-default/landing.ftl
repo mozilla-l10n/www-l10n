@@ -9,9 +9,7 @@
 set-as-default-landing-make-firefox-your-default = Đặt { -brand-name-firefox } thành trình duyệt mặc định của bạn
 # HTML page description
 set-as-default-landing-choose-the-browser = Chọn trình duyệt bảo vệ sự riêng tư của bạn. Đặt { -brand-name-firefox } làm trình duyệt mặc định của bạn.
-# Obsolete string
 set-as-default-landing-thanks-for-using-the = Cảm ơn bạn đã sử dụng trình duyệt { -brand-name-firefox } mới nhất. Khi bạn chọn { -brand-name-firefox }, bạn hỗ trợ một trang web tốt hơn cho bạn và mọi người khác. Bây giờ hãy thực hiện bước tiếp theo để bảo vệ chính mình.
-# Obsolete string
 set-as-default-landing-make-sure-youre-protected = Hãy chắc chắn rằng bạn được bảo vệ, mỗi khi bạn trực tuyến
 set-as-default-landing-you-should-get = Bạn sẽ có tiếng nói trong cách bạn duyệt web
 set-as-default-landing-if-you-recently = Nếu gần đây bạn đã cập nhật máy tính của mình, cài đặt của bạn có thể đã thay đổi. Hỗ trợ Internet mở và miễn phí mỗi khi bạn trực tuyến với { -brand-name-firefox }.

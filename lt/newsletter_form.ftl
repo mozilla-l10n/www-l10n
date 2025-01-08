@@ -3,14 +3,10 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-your-email-here = JŪSŲ EL. PAŠTAS
-newsletter-form-format = Formatas
-newsletter-form-html = Raiškusis tekstas (HTML)
-newsletter-form-text = Grynasis tekstas
 newsletter-form-get-firefox-news = Gaukite „{ -brand-name-firefox }“ naujienas
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Sutinku, kad „{ -brand-name-mozilla }“ tvarkytų mano duomenis kaip paaiškinta <a href="{ $url }">šiame Privatumo pranešime</a>
-newsletter-form-we-will-only-send = Mes jums siųsime tik su „{ -brand-name-mozilla }“ susijusią informaciją.
 newsletter-form-if-you-havent-previously = Jei nesate anksčiau patvirtinę kurio nors { -brand-name-mozilla } naujienlaiškio prenumeratos, turbūt turėsite tai padaryti dabar. Dėl visa ko patikrinkite ir savo brukalo aplanką – galbūt mūsų laiškas netyčia atsidurs jame.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + jūs
 newsletter-form-get-firefox-tips = Gaukite su „{ -brand-name-firefox }“ susijusius patarimus, naujienas ir kt.

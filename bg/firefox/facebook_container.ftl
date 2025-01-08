@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -10,11 +10,6 @@ facebook-container-millions-of-people-around = Милиони хора по св
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Наистина ограничен и без достъп до живота ти извън него.
 facebook-container-get-the-facebook-container = Вземи разширението { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Изтеглете { -brand-name-firefox } и вземете разширението { -brand-name-facebook-container }
-# Outdated string
-facebook-container-the-facebook-container-extension = Разширението { -brand-name-facebook-container } не е налично за мобилни устройства.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Опитай <strong>{ -brand-name-firefox-focus }</strong>, поверителният четец за { -brand-name-android } и { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Откажете се по вашите условия
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

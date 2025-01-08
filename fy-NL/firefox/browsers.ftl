@@ -10,9 +10,6 @@ firefox-browsers-page-title = Download { -brand-name-firefox } foar Desktop, Mob
 # HTML page description
 firefox-browsers-page-desc = Kies út Desktop, { -brand-name-ios }, { -brand-name-android }, of lit ús jo in mobile downloadkeppeling tastjoere fia e-mail.
 firefox-browsers-main-heading = { -brand-name-firefox }-browsers
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = Download de <strong>browsers</strong> dy’t jo privacy foarop stelle – en dat altyd dien hawwe
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Download de browser dy’t jo privacy foarop stelt – en dat <strong>altyd</strong> dien hawwe
 firefox-browsers-desktop = Buro-PC

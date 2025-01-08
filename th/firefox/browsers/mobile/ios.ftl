@@ -7,12 +7,7 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } และ { -brand-name-ipad })
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = เบราว์เซอร์ { -brand-name-firefox } สำหรับ { -brand-name-ios } รวดเร็ว ปลอดภัย และเป็นส่วนตัวตั้งแต่ครั้งแรกที่คุณเปิด
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-mobile-ios-get-automatic-privacy = รับความเป็นส่วนตัวอัตโนมัติบน { -brand-name-iphone } และ { -brand-name-ipad } ของคุณ
 mobile-ios-get-firefox-for = รับ { -brand-name-firefox } สำหรับ { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = ส่งลิงก์ดาวน์โหลดไปที่โทรศัพท์ของคุณ
 mobile-ios-scan-the-qr-code-to-get-started = สแกนรหัส QR เพื่อเริ่มต้น
@@ -31,14 +26,8 @@ mobile-ios-get-to-your-go-to = ไปยังสถานที่ต่าง 
 mobile-ios-see-your-open-tabs = ดูแท็บที่เปิดอยู่ การค้นหาที่ผ่านมา และไซต์โปรดทั้งหมดในที่เดียวด้วย{ -brand-name-firefox-browser } สำหรับ { -brand-name-ios }
 mobile-ios-own-your-home = เป็นเจ้าของหน้าจอหลักของคุณ
 mobile-ios-get-to-the-parts = เข้าถึงส่วนต่าง ๆ ของอินเทอร์เน็ตที่คุณสนใจได้เร็วขึ้น เลือกเพื่อดูแท็บที่เปิดอยู่ การค้นหาล่าสุด ที่คั่นหน้า และไซต์โปรดทั้งหมดในที่เดียว
-# Obsolete string
-mobile-ios-add-firefox-across = เพิ่ม { -brand-name-firefox } ในอุปกรณ์ของคุณเพื่อการเรียกดูเว็บที่ปลอดภัยและราบรื่น ซิงค์อุปกรณ์ของคุณด้วย { -brand-name-sync } เพื่อเอาที่คั่นหน้าโปรด การเข้าสู่ระบบที่บันทึกไว้ รหัสผ่าน และประวัติการเรียกดูติดตัวไปกับคุณไม่ว่าคุณจะไปที่ไหนก็ตาม รวมทั้งส่งแท็บที่เปิดอยู่ไปมาระหว่างโทรศัพท์และเดสก์ท็อปของคุณเพื่อเรียกดูต่อจากจุดที่คุณค้างไว้
 mobile-ios-find-it-all = ค้นหาสิ่งต่าง ๆ ได้เร็วขึ้น
 mobile-ios-get-search-suggestions = รับข้อเสนอแนะการค้นหาในแถบค้นหาและเข้าถึงไซต์ที่คุณเยี่ยมชมบ่อยที่สุดได้อย่างรวดเร็ว พิมพ์คำถามที่ต้องการค้นหาของคุณ แล้วรับผลลัพธ์ที่เสนอแนะและค้นหาไว้ก่อนหน้านี้จากเครื่องมือค้นหาโปรดของคุณ
-# Obsolete string
-mobile-ios-keep-tabs-on = มองเห็นแท็บทั้งหมดได้อย่างต่อเนื่อง
-# Obsolete string
-mobile-ios-create-as-many = สร้างแท็บได้มากเท่าที่คุณต้องการอย่างไร้รอยต่อ { -brand-name-firefox } จะแสดงแถบที่เปิดอยู่เป็นภาพย่อและแท็บที่มีตัวเลขกำกับ ทำให้ค้นหาสิ่งที่คุณต้องการได้อย่างง่ายดายและรวดเร็ว
 mobile-ios-discover-more-of = ค้นพบสิ่งที่คุณรักได้มากขึ้น
 mobile-ios-open-a-new = เปิดแท็บใหม่ใน { -brand-name-firefox } เพื่อดูไซต์ที่คุณเยี่ยมชมบ่อยที่สุด ที่คั่นหน้าล่าสุดของคุณ และบทความยอดนิยมใน { -brand-name-pocket } { -brand-name-firefox } ให้คุณเข้าถึงไซต์ที่ใช้ล่าสุดได้อย่างรวดเร็วเพื่อช่วยให้คุณไปยังที่ที่คุณต้องการได้เร็วขึ้น
 mobile-ios-about-mozilla = เกี่ยวกับ { -brand-name-mozilla }

@@ -13,7 +13,7 @@ what-is-firefox = ¿Mba’épa { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = { -brand-name-firefox-browser } ha’e kundahára ha’evéva oykekóva peteĩ atyguasu viru’ỹgua nohepyme’ẽiva ne mba’ekuaarã teéva umi maranduñemuguávape ha ne pytyvõ emo’ã hag̃ua ne marandu teéva. Eikuaave <a href="{ $url }">{ -brand-name-firefox-browsers }</a> y <a href="{ $url2 }">ambue apopyre.</a> rehegua
 how-do-i = ¿Mba’éicha arekokuaa { -brand-name-firefox-browser }?
@@ -46,7 +46,7 @@ protecting-your-privacy = Ne ñemigua ñemo’ã ha’e ore roipotavéva, ha roj
 is-firefox-safe = ¿Hekorosãpa { -brand-name-firefox }?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = { -brand-name-firefox } nahekorosã’añói, nepytyvõ ereko hag̃ua mba’ekuaarã tekorosãme, avei ne marandu ñemiguáva. { -brand-name-firefox-browser } ojoko ijehegui tapykuehoha mbohapyháva ojekuaáva, ava ñandutieta rapykuehoha, criptominero ha kuãhũ kuaaukaha moheñoihára (fingerprinters) ani hag̃ua ombyaty ne mba’ekuaarã. <a href="{ $url }">Eikuaave ore apopyre rekoñemi.</a>
 related-questions-safe = Porandu ojokupytýva: { -brand-name-firefox } iporãve tekoñemíme, hekorosã, ha iporãve ñemiguápe

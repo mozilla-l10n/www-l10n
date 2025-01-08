@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -15,12 +15,7 @@ facebook-container-only-available-for-desktop = Ri { -brand-name-facebook-contai
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = Tatz'eta' <a href="{ $url }">{ $link_copy }</a> richin nik'ul { -brand-name-firefox } richin Ajkematz'ib'.
-# Outdated string
-facebook-container-the-facebook-container-extension = Man k'o ta ri { -brand-name-facebook-container } Ruk'amal man okel ta pan oyonib'äl okisab'äl.
 facebook-container-get-firefox-android-ios = Tik'ul { -brand-name-firefox } richin { -brand-name-android } chuqa' richin { -brand-name-ios } wakami.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Tatojtob'ej <strong>{ -brand-name-firefox-focus }</strong>, ri ichinan okik'amaya'l richin { -brand-name-android } chuqa' { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Ke'awojqaj ri taq awojqanem
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

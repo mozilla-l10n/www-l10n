@@ -9,9 +9,7 @@
 set-as-default-landing-make-firefox-your-default = Зробити { -brand-name-firefox } типовим браузером
 # HTML page description
 set-as-default-landing-choose-the-browser = Виберіть браузер, який захищає вашу приватність. Встановіть { -brand-name-firefox } типовим браузером.
-# Obsolete string
 set-as-default-landing-thanks-for-using-the = Дякуємо за використання найновішого браузера { -brand-name-firefox }. Обравши { -brand-name-firefox }, ви підтримуєте поліпшення інтернету для себе та всіх інших. Тепер зробіть наступний крок для свого захисту.
-# Obsolete string
 set-as-default-landing-make-sure-youre-protected = Переконайтеся, що ви завжди захищені, коли перебуваєте в інтернеті
 set-as-default-landing-you-should-get = Вам варто розповісти, як ви взаємодієте з Інтернетом
 set-as-default-landing-if-you-recently = Якщо ви нещодавно оновили свій комп’ютер, можливо, ваші налаштування змінилися. Підтримуйте вільний і відкритий Інтернет щоразу, коли ви перебуваєте онлайн за допомогою { -brand-name-firefox }.

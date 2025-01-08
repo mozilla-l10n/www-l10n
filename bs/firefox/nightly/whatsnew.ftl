@@ -14,13 +14,9 @@ nightly-whatsnew-every-4-to-5-weeks = Svakih 4 do 5 sedmica, nova glavna verzija
 nightly-whatsnew-this-is-a-good = Ovo je dobro vrijeme da vam zahvalimo na pomoći da učinimo { -brand-name-firefox } boljim i da vam damo neke pokazivače za dokumentaciju, komunikacijske kanale i stranice sa vijestima vezanim za { -brand-name-nightly } koje će vas možda zanimati.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = Ako želite znati šta se dešava oko { -brand-name-nightly }ja i njegove zajednice, čitajte naš <a { $blog }>blog</a> i ako nas pratite na platformama <a { $mastodon }>Mastodon</a> ili <a { $twitter }>X</a> to su dobre početne tačke!
-# Variables:
-#   $attrs (string) - link href and additional attributes
-# Obsolete string (expires: 2024-11-26)
-nightly-whatsnew-want-to-know-which-v2 = Želite da znate koje mogućnosti platforme možete da testirate na { -brand-name-nightly }, a koje još ne vidite u drugim { -brand-name-firefox } kanalima? Pogledajte <a { $attrs }>Nightly eksperimenti</a> stranicu za podešavanja.
 # Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v3 = Želite znati koje funkcije platforme biste mogli testirati na { -brand-name-nightly }, a još ih ne možete vidjeti na drugim { -brand-name-firefox } kanalima? Zatim pogledajte stranicu sa postavkama <a { $attrs }>{ -brand-name-firefox-labs }</a>.

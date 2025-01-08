@@ -11,10 +11,6 @@ newsletter-form-select-country-or-region = රට හෝ කලාපය තෝ�
 newsletter-form-select-language = භාෂාව තෝරන්න
 newsletter-form-your-email-here = ඔබගේ වි-තැපෑල මෙතැන
 newsletter-form-get-firefox-news = { -brand-name-firefox } ප්‍රවෘත්ති
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send = අපි ඔබට { -brand-name-mozilla } ආශ්‍රිත තොරතුරු පමණක් එවන්නෙමු.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send-firefox = අපි ඔබට { -brand-name-firefox } ආශ්‍රිත තොරතුරු පමණක් එවන්නෙමු.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + ඔබ
 newsletter-form-get-firefox-tips = { -brand-name-firefox } ඉඟි, උපක්‍රම, පුවත් සහ තවත් දෑ ලබා ගන්න
 newsletter-form-get-mozilla-updates = { -brand-name-mozilla } යාවත්කාල ගන්න

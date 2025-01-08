@@ -8,7 +8,6 @@
 vpn-download-page-title = Sader { -brand-name-mozilla-vpn }
 vpn-download-page-description = Sader { -brand-name-mozilla-vpn } i { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android }, d { -brand-name-ios }.
 vpn-download-button-copy = Sader
-vpn-download-for-windows = VPN i { -brand-name-windows } 10/11
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit kan)
 vpn-download-for-mac = VPN i { -brand-name-mac-short }
 vpn-download-for-android = VPN i { -brand-name-android }

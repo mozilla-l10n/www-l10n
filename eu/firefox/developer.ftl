@@ -9,7 +9,6 @@
 ## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Ongi etorri hemendik aurrera zure nabigatzaile gogokoena izango denera. Eskuratu Web irekirako behar dituzun azken eginbideak, errendimendu bizkorra, eta garapen-tresnak.
 firefox-developer-join-the-convo = Egin bat hizketaldiarekin
 firefox-developer-get-involved = Parte hartu
@@ -44,11 +43,7 @@ firefox-developer-style-editor = Estilo-editorea
 firefox-developer-learn-more-about-style = Estilo editoreari buruzko argibide gehiago
 firefox-developer-new-tools = Tresna berriak
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
-firefox-developer-a-next-generation = Hurrengo belaunaldiko CSS motorra
 firefox-developer-master-innovative-features = Eginbide berritzaileak
-firefox-developer-faster-performance = Errendimendu bizkorragoa
 firefox-developer-faster-innovation = Informazio azkarragoa
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition }-ek automatikoki bidaltzen dio informazioa { -brand-name-mozilla }ri.
 firefox-developer-download-the-firefox-browser = Deskargatu garatzaileentzat eginiko { -brand-name-firefox }
-firefox-developer-welcome-to-the-all-new = Ongi etorri erabat berria den { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
-firefox-developer-congrats-you-now-have-firefox = Zorionak. Zuk baduzu { -brand-name-firefox-quantum }: { -brand-name-developer-edition }

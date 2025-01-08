@@ -14,13 +14,9 @@ nightly-whatsnew-every-4-to-5-weeks = ყოველ 4–5 კვირაშ�
 nightly-whatsnew-this-is-a-good = აქვე ვისარგებლებთ შემთხვევით და მადლობას მოგახსენებთ, რომ გვეხმარებით გავაუმჯობესოთ { -brand-name-firefox } და მოგაწვდით სასურველი მასალების, სასაუბრო არხებისა და სიახლეთა გვერდების ბმულებს, სადაც უკეთ განიხილება { -brand-name-nightly }.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = თუ გსურთ თვალთახედვის არეში გყავდეთ { -brand-name-nightly } და მისი ერთობა, დასაწყისისთვის კარგი იქნება, წაიკითხოთ ჩვენი <a { $blog }>სვეტი</a> და გამოგვყვეთ <a { $mastodon }>Mastodon</a>-ზე ან <a { $twitter }>X</a>-ზე!
-# Variables:
-#   $attrs (string) - link href and additional attributes
-# Obsolete string (expires: 2024-11-26)
-nightly-whatsnew-want-to-know-which-v2 = გსურთ გაიგოთ, { -brand-name-nightly } რა სიახლეებითა აღჭურვილი, რომლებიც ჯერ კიდევ მიუწვდომელია სხვა { -brand-name-firefox }-არხებზე? მაშინ გადახედეთ <a { $attrs }>Nightly-ის საცდელი შესაძლებლობების</a> გვერდს.
 # Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v3 = გსურთ გაეცნოთ შესაძლებლობებს, რომელთა გამოსაცდელადაც გამოგადგებათ { -brand-name-nightly } და რომელთაც ჯერჯერობით ვერ წააწყდებით სხვა { -brand-name-firefox }-არხებზე? მაშინ იხილეთ გვერდი <a { $attrs }>{ -brand-name-firefox-labs }</a>.

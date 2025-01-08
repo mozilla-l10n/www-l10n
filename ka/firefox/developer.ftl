@@ -11,8 +11,6 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } არის უსწრაფესი ბრაუზერი, რომელიც გთავაზობთ შემმუშავებლის უახლეს ხელსაწყოებსა და შესაძლებლობებს, როგორიცაა CSS-ბადის მხარდაჭერა და სამუშაო გარსის გამმართველი
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = მოგესალმებათ თქვენი ახალი რჩეული ბრაუზერი. ისარგებლეთ უახლესი შესაძლებლობებით, გაზრდილი წარმადობითა და შემმუშავებლის ხელსაწყოებით ღია და გახსნილი ვებპროექტების შესაქმნელად.
 firefox-developer-speak-up = გამოთქვით მოსაზრება
 firefox-developer-feedback-makes-us = გამოხმაურებები გვეხმარება გაუმჯობესებაში. მოგვახსენეთ თქვენი აზრი, თუ როგორ შეიძლება გავხადოთ ბრაუზერი და შემმუშავებლის ხელსაწყოები მეტად მოსახერხებელი.
@@ -75,15 +73,11 @@ firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-develo
 firefox-developer-download-the-firefox-browser = ჩამოტვირთეთ { -brand-name-firefox }-ბრაუზერი შექმნილი შემმუშავებლებისთვის
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } შეიქმნა ახლიდან, რომ გამხდარიყო არნახულად სწრაფი, მოქნილი და მძლავრი.
 firefox-developer-welcome-to-firefox-developer-edition = მოგესალმებათ { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = მოგესალმებათ { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = ბრაუზერი შექმნილი შემმუშავებლებისთვის
 firefox-developer-all-the-latest-v2 = შემმუშავებლის ყველა უახლესი ხელსაწყო Beta-ში, მრავალი ხაზოვანი კონსოლის რედაქტორისა და WebSocket Inspector-ის მსგავსი შესაძლებლობების გარდა.
 firefox-developer-a-separate-profile = <strong>განცალკევებული პროფილი და მდებარეობა</strong>, შედეგად მარტივად შეძლებთ გვერდიგვერდ გაუშვათ საბოლოო ვერსია და { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = პარამეტრები <strong>ზედგამოჭრილი ვებშემმუშავებლებისთვის</strong>: ბრაუზერიდან და დაშორებულად გამართვის შესაძლებლობა ამოქმედებულია ნაგულისხმევად, ასევე მოჰყვება მუქი იერსახე და შემმუშავებლის ღილაკი ხელსაწყოთა ზოლზე.
 firefox-developer-congrats-you-now-have-latest-v2 = თქვენ უკვე გაქვთ { -brand-name-firefox-developer-edition }-ის უახლესი ვერსია.
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = გილოცავთ. თქვენ უკვე გიყენიათ უახლესი { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = იხილეთ <a { $attrs }>გამოშვების შენიშვნები</a> (მხოლოდ ინგლისურად), რომ იხილოთ, რა სიახლეებია.

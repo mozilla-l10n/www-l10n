@@ -13,7 +13,7 @@ what-is-firefox = { -brand-name-firefox } nedir?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = { -brand-name-firefox-browser } kişisel bilgilerinizi korumanıza yardımcı olurken, kişisel verilerinizi reklamverenlere satmayan, kâr amacı gütmeyen bir kuruluş tarafından desteklenen tek büyük tarayıcıdır. <a href="{ $url }">{ -brand-name-firefox-browsers }</a> ve <a href="{ $url2 }"> diğer ürünlerimiz</a> hakkında bilgi alın.
 how-do-i = { -brand-name-firefox-browser }nı nasıl indirebilirim?
@@ -46,7 +46,7 @@ protecting-your-privacy = Gizliliğinizi korumak bir numaralı önceliğimiz. Ci
 is-firefox-safe = { -brand-name-firefox } güvenli mi?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = { -brand-name-firefox } yalnızca güvenilir olmakla kalmıyor, verilerinizi ve özel bilgilerinizi de güvende tutuyor. { -brand-name-firefox-browser } üçüncü taraf takip kodlarının, sosyal medya takip kodlarının, kripto madencilerinin ve parmak izi toplayıcılarının verilerinizi toplamasını otomatik olarak engelliyor. <a href="{ $url }">Ürünlerimizin gizlilik uygulamaları hakkında daha fazla bilgi alın.</a>
 related-questions-safe = İlgili sorular: { -brand-name-firefox } gizlilik için iyi mi, { -brand-name-firefox } güvenli mi, { -brand-name-firefox } gizlilik için daha mı iyi

@@ -12,8 +12,6 @@ vpn-linux-linux-is-free = Linux je bezplatný, open-source a prispôsobiteľný,
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } je služba virtuálnej súkromnej siete, ktorá využíva najmodernejšie šifrovanie s otvoreným zdrojom a nezaznamenáva, nesleduje ani nezdieľa žiadnu vašu sieťovú aktivitu. Umožňuje vám pripojiť sa k viac ako 500 serverom vo viac ako 30 krajinách.
 vpn-linux-why-choose = Prečo zvoliť { -brand-name-mozilla-vpn } pre Linux?
 vpn-linux-fast-and-v2 = <strong>Rýchla a spoľahlivá:</strong> { -brand-name-mozilla-vpn } používa protokol { -brand-name-wireguard }®, ktorý ponúka lepší výkon a stabilitu ako iné protokoly VPN.
-# Obsolete string
-vpn-linux-fast-and = <strong>Rýchla a spoľahlivá:</strong> { -brand-name-mozilla-vpn } používa protokol { -brand-name-wireguard }®, ktorý ponúka lepší výkon a stabilitu ako iné protokoly VPN.
 vpn-linux-no-logs = <strong>Žiadne protokoly:</strong> { -brand-name-mozilla-vpn } neuchováva žiadne protokoly o vašej sieťovej aktivite; nezaznamenávame, ktoré webové stránky navštevujete, ani nekontrolujeme obsah vašej aktivity.
 vpn-linux-additional-security = <strong>Ďalšie funkcie zabezpečenia:</strong> pomocou blokovania DNS blokujeme reklamy, sledovacie prvky a škodlivý softvér. Prehliadač môže zabrániť len webovým stránkam, aby vám poskytovali malvér a sledovali vás.
 vpn-linux-device-level = <strong>Šifrovanie na úrovni zariadenia:</strong> na rozdiel od sietí VPN, ktoré šifrujú iba aktivitu vo vašom prehliadači, { -brand-name-mozilla-vpn } šifruje všetku aktivitu vášho zariadenia vrátane všetkých aplikácií a hier.
@@ -27,11 +25,6 @@ vpn-linux-how-to-install = Ako nainštalovať { -brand-name-mozilla-vpn } v syst
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
 vpn-linux-if-you-use-v2 = Ak používate jedno z podporovaných vydaní Ubuntu, existujú dva spôsoby, ako nainštalovať oficiálne balíky mozillavpn hosťované na <a { $attrs }>Launchpade</a>:
-# Obsolete string
-# Variables:
-#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
-# 'mozillavpn' should not be translated as it is the proper name of the package
-vpn-linux-if-you-use = Ak používate jedno z podporovaných vydaní Ubuntu, existujú dva spôsoby, ako nainštalovať oficiálne balíky mozillavpn hosťované na <a { $attrs }>launchpade</a>:
 # Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
 vpn-linux-ubuntu-command = <strong>Režim príkazového riadka Ubuntu:</strong> podrobné pokyny na inštaláciu { -brand-name-mozilla-vpn } pomocou nástrojov režimu príkazového riadka nájdete v časti <a { $attrs }>Ako nainštalovať { -brand-name-mozilla-vpn } na počítači so systémom Linux</a>.

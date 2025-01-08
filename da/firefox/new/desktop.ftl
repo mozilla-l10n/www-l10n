@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } blev lave
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Efterhånden som internettet vokser og ændrer sig, fortsætter { -brand-name-firefox } med at fokusere på din ret til privatliv  — vi kalder det for <a { $attrs }>Løfte om private data</a>: Gem mindre. Beskyt alt. Ingen hemmeligheder. Dine data, din aktivitet på nettet og dit liv online er beskyttet med { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } er tilgængelig på alle dine enheder, så du kan tage dine faneblade, historik og bogmærker med dig overalt. Alt du behøver er en <a { $attrs }>{ -brand-name-firefox }-konto</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } er tilgængelig til alle dine enheder, så du kan tage dine faneblade, historik og bogmærker med dig overalt. Alt du behøver er en <a { $attrs }>{ -brand-name-mozilla-account }-konto</a> og du vil få adgang til at synkronisere samt flere { -brand-name-mozilla }-produkter.
@@ -146,13 +142,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Har du spørgsmål? <a { $attrs }>{ -brand-name-mozilla } support</a> har svarene.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Du har allerede browseren. Få endnu mere ud af { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with-v3 = Hold øje med hackere med { -brand-name-mozilla-monitor }, beskyt din mailadresse med { -brand-name-firefox-relay } – og mere.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Hold øje med hackere med { -brand-name-firefox-monitor }, beskyt din mailadresse med { -brand-name-firefox-relay } – og mere.
-firefox-desktop-download-get-more-from-firefox = Få mere ud af { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Hent kun browseren
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -190,4 +180,3 @@ firefox-desktop-download-please-follow = Følg <a href="{ $url }">vejledningen</
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Dit system opfylder måske ikke kravene til { -brand-name-firefox }, men du kan prøve en af <a href="{ $url }">disse versioner</a>.
-firefox-desktop-download-taskbar = { -brand-name-firefox } vil blive fastgjort til proceslinjen i { -brand-name-windows } efter installationen

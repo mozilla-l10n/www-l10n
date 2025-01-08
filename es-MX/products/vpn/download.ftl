@@ -12,7 +12,6 @@ vpn-download-page-description = Descarga { -brand-name-mozilla-vpn } para { -bra
 vpn-download-sub-heading = Puedes decargar { -brand-name-mozilla-vpn } hasta en { $devices } dispositivos con una suscripción.
 vpn-download-not-available-in-country = Lo sentimos, { -brand-name-mozilla-vpn } no está disponible para descargar en tu país.
 vpn-download-button-copy = Descargar
-vpn-download-for-windows = VPN para { -brand-name-windows } 10/11
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (solo 64-bits)
 vpn-download-for-mac = VPN para { -brand-name-mac-short }
 # Variables:

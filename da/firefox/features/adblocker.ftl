@@ -31,18 +31,6 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> er et 
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Disse udvidelser fungerer fint både på <a { $attrs1 }>{ -brand-name-firefox } til computer</a> og <a { $attrs2 }>Android</a>.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = Nogle adblockere, fx <a href="{ $url }">AdBlocker Ultimate</a> blokerer alle kendte reklamer. Men husk på, at nogle af dine foretrukne websteder kan være økonomisk afhængige af reklamer. Hvis alle blokerer et websteds reklamer, så kan det være, at webstedet simpelthen går nedenom og hjem.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Pop op-reklamer er noget af det værste. Du kan blokere dem med <a href="{ $url }">Popup Blocker</a> - så behøver du ikke se på dem.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = En af de mest populære adblockere til { -brand-name-chrome }, { -brand-name-safari } og { -brand-name-firefox } er <a href="{ $url }">AdBlock</a>. Brug den til at blokere reklamer på { -brand-name-facebook }, { -brand-name-youtube } og { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = Opret en sporingsfri zone med Blokering af indhold
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

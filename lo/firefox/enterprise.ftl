@@ -44,5 +44,5 @@ firefox-enterprise-sample-plist-for-configuration = ຕົວຢ່າງ <a hre
 firefox-enterprise-pkg-installer = ຕົວຕິດຕັ້ງ PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-ບິດ
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
 firefox-enterprise-download-firefox-esr-or-rapid = ດາວໂຫລດ { -brand-name-firefox-esr } ຫຼື Rapid Release ສໍາລັບ<br> <a href="{ $firefox_all }">ພາສາອື່ນ ຫຼືເວທີ.</a>

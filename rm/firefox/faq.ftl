@@ -13,7 +13,7 @@ what-is-firefox = Tge è { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = { -brand-name-firefox-browser } è l'unic navigatur pli grond, sustegnì dad in'interpresa senza finamira da profit che na venda betg tias datas persunalas a firmas da reclama. Il medem mument gida el da proteger tias datas persunalas. T'infurmescha davart <a href="{ $url }">ils { -brand-name-firefox-browsers }</a> ed <a href="{ $url2 }">auters products</a>.
 how-do-i = Co survegn jau il { -brand-name-firefox-browser }?
@@ -46,7 +46,7 @@ protecting-your-privacy = La protecziun da tia sfera privata è nossa emprima pr
 is-firefox-safe = È { -brand-name-firefox } segir?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = { -brand-name-firefox } n'è betg mo segir per utilisar, el gida era da segirar tias datas ed infurmaziuns privatas. Il { -brand-name-firefox-browser } blochescha automaticamain ils fatizaders enconuschents da terzas partidas, fastizaders da medias socialas, criptominiers ed improntaders ed impedescha che quels ramassian tias datas. <a href="{ $url }">Ulteriuras infurmaziuns davart la protecziun da datas en noss products.</a>
 related-questions-safe = Dumondas sumegliantas: È { -brand-name-firefox } bun per la protecziun da datas? È { -brand-name-firefox } segir? È { -brand-name-firefox } meglier per la protecziun da datas?

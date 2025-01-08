@@ -59,4 +59,3 @@ firefox-new-fast = Snel, privé en gratis
 firefox-new-from-mozilla = van { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } is een gratis webbrowser die pagina’s snel laadt, minder geheugen gebruikt en volop functies bevat – een project van de non-profitorganisatie { -brand-name-mozilla }.
 firefox-new-download-a-different = Downloaden voor een ander platform of taal
-firefox-new-taskbar = { -brand-name-firefox } wordt na installatie vastgezet op de taakbalk van { -brand-name-windows }

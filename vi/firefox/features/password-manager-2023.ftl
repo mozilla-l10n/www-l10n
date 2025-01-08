@@ -13,14 +13,6 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } lưu tr�
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Với một <a { $fxa }>{ -brand-name-mozilla-account } miễn phí</a> bạn có thể đồng bộ hóa mật khẩu một cách an toàn trên tất cả các thiết bị của mình. Bạn cũng có thể truy cập tất cả các sản phẩm tôn trọng quyền riêng tư khác của { -brand-name-mozilla }.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account = Với một <a href="{ $fxa }">{ -brand-name-mozilla-account } miễn phí</a> bạn có thể đồng bộ hoá mật khẩu của bạn một cách an toàn trên tất cả các thiết bị của mình.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-firefox-account = Với một <a href="{ $fxa }">tài khoản { -brand-name-firefox } miễn phí</a> bạn có thể đồng bộ hoá mật khẩu của bạn một cách an toàn trên tất cả các thiết bị của mình.
 password-manager-password-autofill-for-easy-logins = Tự động điền mật khẩu để đăng nhập dễ dàng
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } có thể tự động điền tên người dùng và mật khẩu đã lưu của bạn. Nếu bạn có nhiều thông tin đăng nhập cho một trang web, bạn chỉ cần chọn tài khoản bạn muốn và chúng tôi sẽ lấy tài khoản đó từ đó.
 # Used as an accessible text alternative for an image

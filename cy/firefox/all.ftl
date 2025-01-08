@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Llwythwch { -brand-name-firefox }  i Lawr yn Gymraeg (cy) neu mewn mwy na 90 o ieithoedd eraill
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = Llwythwch y { -brand-name-firefox-browser } Cymraeg i Lawr neu mewn mwy na 90 o ieithoedd eraill
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Mae pawb yn haeddu mynediad i'r rhyngrwyd - dylai'ch iaith chi ddim bod yn rhwystr. Dyna pam - gyda chymorth gwirfoddolwyr ymroddedig ledled y byd - rydym yn darparu { -brand-name-firefox } mewn mwy na 90 o ieithoedd.
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = Mae pawb yn haeddu mynediad i'r rhyngrwyd - dylai'r un iaith fod yn rhwystr. Dyna pam - gyda chymorth gwirfoddolwyr ymroddedig ledled y byd - rydym yn darparu { -brand-name-firefox-browser } mewn mwy na 90 o ieithoedd.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = Sganiwch y cod QR i gael <em>{ $product_name }</em>
@@ -26,14 +22,8 @@ firefox-all-change-language = Dewiswch iaith wahanol
 firefox-all-down-arrow = Dewiswch o'r rhestr isod
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Derbyn cymorth
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = Porwr:
 firefox-all-browser-v2 = 1. Porwr:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = Platfform:
 firefox-all-platform-v2 = 2. Platfform:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = Iaith:
 firefox-all-language-v2 = 3. Iaith:
 firefox-all-download = 4. Llwytho i lawr:
 firefox-all-desktop = Bwrdd Gwaith

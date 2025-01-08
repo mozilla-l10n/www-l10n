@@ -17,7 +17,7 @@ new-platform-advanced-install-options = گزینه‌های نصبِ پیشرف�
 new-platform-download-in-another = دریافت به زبان‌های دیگر
 new-platform-need-help = به راهنمایی نیاز دارید؟
 
-## Linux
+# Linux
 
 
 ## Mac

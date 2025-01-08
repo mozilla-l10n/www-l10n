@@ -18,9 +18,5 @@ page7-that-sneaky-little-button = To nenápadné malé tlačidlo
 page7-those-innocent-looking-f-buttons = Nevinne vyzerajúce tlačidlá od { -brand-name-facebook(case: "gen") } sledujú vašu aktivitu na internete, a to aj v prípade, že na { -brand-name-facebook(case: "loc") } nemáte účet. Rozšírenie { -brand-name-facebook-container } ich blokuje.
 page7-stay-ahead-of-hackers = Zostaňte o krok vpred pred hackermi
 page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } vám ukáže, ktoré vaše údaje už hackeri pravdepodobne majú a pomôže vám zostať pred nimi o krok vpred. (A je zadarmo.)
-# Obsolete string
-page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } vám ukáže, ktoré vaše údaje už hackeri pravdepodobne majú a pomôže vám zostať pred nimi o krok vpred. (A je zadarmo.)
 page7-get-mozilla-monitor = Získajte { -brand-name-mozilla-monitor }
-# Obsolete string
-page7-get-firefox-monitor = Aktivujte si { -brand-name-firefox-monitor }
 page7-why-am-i-seeing-this = Prečo sa mi toto zobrazuje?

@@ -14,8 +14,6 @@ firefox-desktop-download-meta-title-v2 = Elŝutu { -brand-name-firefox } por kom
 firefox-desktop-download-yes = Jes
 firefox-desktop-download-no = Ne
 firefox-desktop-download-primary-password = Ĉefa pasvorto
-# Obsolete string
-firefox-desktop-download-master-password = Ĉefa pasvorto
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 

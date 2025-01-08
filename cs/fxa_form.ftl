@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-# Obsolete string
-fxa-form-enter-your-email = <strong>Zadejte svou e-mailovou adresu</strong> pro přístup k { -brand-name-firefox-accounts(case: "dat", capitalization: "lower") }.
 fxa-form-enter-your-email-v2 = <strong>Zadejte svou e-mailovou adresu</strong> pro přístup k { -brand-name-mozilla-account(case: "dat", capitalization: "lower") }.
 # Variables:
 #   $url1 (url) - link to https://accounts.firefox.com/legal/terms

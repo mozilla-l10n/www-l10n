@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
@@ -19,7 +19,7 @@ welcome-page4-firefox-private-safe-browser = { -brand-name-ios } 或 { -brand-na
 # "off your trail" is an expression for not being followed around.
 welcome-page4-get-data-trackers-off-your = 擺脫資料追蹤器
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
+#   $privacy (url) - link to https://support.mozilla.org/kb/trackers-and-scripts-firefox-blocks-enhanced-track/
 welcome-page4-enhanced-tracking-protection = 加強型追蹤保護功能<a href="{ $privacy }">可封鎖超過 2000 組追蹤器</a>，不讓它們在線上跟蹤您。
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = 不留痕跡

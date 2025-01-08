@@ -10,9 +10,6 @@ firefox-browsers-page-title = Hent { -brand-name-firefox } til computer, mobil e
 # HTML page description
 firefox-browsers-page-desc = Vælg mellem computer, { -brand-name-ios }, { -brand-name-android } eller lad os maile dig et download-link til mobilen.
 firefox-browsers-main-heading = { -brand-name-firefox }-browsere
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = Få en browser, der sætter beskyttelse af <strong>dit privatliv</strong> i første række - og altid har gjort det
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Få browseren, der sætter beskyttelse af dit privatliv i første række - og <strong>altid</strong> har gjort det
 firefox-browsers-desktop = Computer

@@ -10,10 +10,6 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = Trình duyệt { -brand-name-firefox } dành cho { -brand-name-android } nhanh, an toàn và riêng tư ngay từ lần đầu tiên bạn mở.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = Di động. Độc lập với { -brand-name-firefox } dành cho { -brand-name-android }
-# Obsolete string
-mobile-android-when-you-download = Khi tải xuống { -brand-name-firefox }, bạn đang chọn hỗ trợ một công ty công nghệ độc lập. { -brand-name-firefox } là trình duyệt duy nhất được hỗ trợ bởi cuộc chiến phi lợi nhuận nhằm mang lại cho bạn sự cởi mở, minh bạch và kiểm soát cuộc sống trực tuyến của bạn nhiều hơn.
 mobile-android-get-firefox-for = Tải xuống { -brand-name-firefox } dành cho { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Gửi liên kết tải xuống đến điện thoại của bạn.
 mobile-android-scan-the-qr-code-to-get-started = Quét mã QR để bắt đầu
@@ -40,7 +36,6 @@ mobile-android-about-mozilla = Giới thiệu { -brand-name-mozilla }
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } tồn tại để xây dựng Internet như một tài nguyên công cộng mà tất cả mọi người đều có thể truy cập được vì chúng tôi tin rằng mở và miễn phí tốt hơn là đóng và bị kiểm soát. Chúng tôi xây dựng các sản phẩm như { -brand-name-firefox } và { -brand-name-pocket } để thúc đẩy sự lựa chọn, tính minh bạch và quyền kiểm soát.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Bước vào Internet nhanh hơn với { -brand-name-firefox } dành cho { -brand-name-android }
-mobile-android-get-there-faster = Đến đó nhanh hơn với { -brand-name-firefox } dành cho { -brand-name-android }
 mobile-android-see-all-your-open-tabs = Xem tất cả các thẻ đang mở, các tìm kiếm gần đây và các trang web yêu thích của bạn ở cùng một nơi với trình duyệt { -brand-name-firefox } dành cho { -brand-name-android }.
 mobile-android-own-your-home = Màn hình chính của riêng bạn
 mobile-android-get-to-the-parts = Truy cập các phần của Internet mà bạn quan tâm nhanh hơn. Chọn để xem tất cả các thẻ đang mở, các tìm kiếm gần đây, dấu trang và các trang web yêu thích của bạn, tất cả ở một nơi.

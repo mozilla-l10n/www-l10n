@@ -35,7 +35,5 @@ legal-mozilla-vpn-terms = Słužbne wuměnjenja { -brand-name-mozilla-vpn }
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = Słužbne wuměnjenja { -brand-name-mdn-plus }
 legal-report-copyright = Zranjenje awtorskeho prawa abo wikowanskeho znamjenja zdźělić
-legal-hubs = { -brand-name-mozilla-hubs }
-legal-hubs-terms = Słužbne wuměnjenja { -brand-name-mozilla-hubs }
 legal-mozilla-subscription-services = Abonementowe słužby { -brand-name-mozilla }
 legal-amo-policies = Prawidła AMO

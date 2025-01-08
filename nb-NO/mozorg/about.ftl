@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: Den raskeste nettleseren
 about-when-you-use-the-new-firefox = Med nye { -brand-name-firefox } får du en lynrask nettleser – samtidig som at du støtter oppdraget til { -brand-name-mozilla } om et sunt Internett hvor det er høyt under taket og plass til alle.
 about-walking-our-privacy-talk = Databeskyttelse er mer enn bare ord
 about-when-the-facebook-breach-was = Da { -brand-name-facebook }-lekkasjen ble avslørt reagerte { -brand-name-mozilla } med en gang, og utviklet en ny { -brand-name-firefox }-utvidelse for å beskytte privatlivet ditt på nettet.
-about-talking-internet-issues-irl = Internettproblemer i det virkelige liv
-about-in-mozillas-irl-podcast-host = I { -brand-name-mozilla }s IRL-podkast deler verten Manoush Zamodori virkelige historier om livet på nettet og snakker om fremtiden for nettet.
 about-corporation-foundation-not = Foretak. Stiftelse. Ideell.
 about-learn-about-the-mozilla-foundation = Les om { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } setter mennesker over profiitt i alt vi sier, utvikler og gjør. Faktisk er hjertet i virksomheten vår den ideelle stiftelsen, { -brand-name-mozilla } Foundation.

@@ -1,15 +1,14 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-speak-up = بولیں
 firefox-developer-feedback-makes-us = آپ کی رائے ہمیں بہتر بناتی ہے۔ ہمیں بتائیں کہ ہم براؤزر اور ڈیولپر ٹولز کو کس طرح بہتر بناسکتے ہیں۔
 firefox-developer-join-the-convo = گفتگو میں شامل ہوں
@@ -47,11 +46,8 @@ firefox-developer-new-tools = نئے ٹولز
 firefox-developer-inactive-css = غیر فعالCSS
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-master-css-grid = ماسٹر CSS گرڈ
-firefox-developer-next-gen-css-engine = اگک=لی نسل کے CSS  انجن
-firefox-developer-a-next-generation = اگلی نسل کا CSS  انجن
 firefox-developer-master-innovative-features = جدید خصوصیات
 firefox-developer-convenient-features = آسان خصوصیات
-firefox-developer-faster-performance = تیز کارکردگی
 firefox-developer-shapes-editor = شکلیں مدیر کرنے والا
 firefox-developer-faster-innovation = تیز تر معلومات
 firefox-developer-fonts-panel = فونٹس پینل

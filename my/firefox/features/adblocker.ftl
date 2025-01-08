@@ -16,22 +16,12 @@ features-adblocker-an-ad-blocker-is-a-piece = ကြော်ငြာပိတ�
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = ဤကြော်ငြာများသည် အသံကျယ်ဗီဒီယိုပါရှိနိုင်သည့်အပြင် သင့်အားဝဘ်ပေါ်တွင် ခြေရာခံမှုများများ၊ကွတ်ကီးများနှင့်အခြားအရာများပါနိုင်သည်။ ကြော်ငြာဖျောက်ဖျက်မှုအားသုံးလိုလျှင် ဘရောက်ဇာတွင်ရနိုင်သောအက်အွန်များကိုရှာဖွေ၍သုံးပါ။ <a href="{ $firefox }">{ -brand-name-firefox }</a>ဥပမာအားဖြင့်<a href="{ $addons }">ကြော်ငြာဖျောက်ဖျက်မှုစာရင်းများ</a> ဤစာရင်းများကို သင့်လိုအပ်သလိုရွေးချယ်၍နှိပ်ပါ။
 features-adblocker-find-the-right-ad-blocker = သင့်အတွက် သင့်လျော်သောကြော်ငြာဖျောက်ဖျက်မှုကို ရှာဖွေပါ။
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = ကြော်ငြာဖျောက်ဖျက်မှုကိရိယာ<a href="{ $url }">AdBlocker</a>သည် ကြော်ငြာများကိုဖယ်ရှားနိုင်သည့်အတွက်သင်ကြိုက်နှစ်သက်သည့်ထုတ်ကုန်များကြော်ငြာကိုလည်းဟန့်တားနိုင်သည်။ထို့ကြောင့်သင့်အတွက်လိုအပ်သည့်ထုတ်ကုန်များကြော်ငြာမှုတားမြစ်ထားသောကြောင့်သင့်အတွက်ခက်ခဲနိုင်သည်။
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = ဝဘ်ဆိုက်ကြည့်ရင်းတက်လာသောကြော်ငြာများကတော့ အဆိုးရွားဆုံးဖြစ်ပါတယ်။ ဖျောက်ဖျက်ချင်လျှင် <a href="{ $url }">ဤပေါ့အက်ပ်ပိတ်ဆို့ခြင်း</a>ကို သုံးစွဲပါ
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = { -brand-name-chrome }, { -brand-name-safari } and { -brand-name-firefox } အတွက်အကောင်းဆုံးသောကြော်ငြာပိတ်ဆို့ခြင်းများထဲမှ တစ်ခုမှာ <a href="{ $url }">AdBlock</a> ဖြစ်ပြီး { -brand-name-facebook }, { -brand-name-youtube } and { -brand-name-hulu }တွင်လည်းသုံးနိုင်သည်။
 features-adblocker-create-a-tracker-free = အကြောင်းအရာပိတ်ဆို့ခြင်းနှင့် ခြေရာခံမှု ပိတ်ခြင်းကို ဖန်တီးရန်
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = { -brand-name-firefox }တွင် <a href="{ $privacy }">Privacy</a>or<a href="{ $blocking }">Content Blocking</a>ရွေးချယ်စရာများဖြင့် သင် ကြော်ငြာဖျောက်ဖျက်မှုကိရိယာကို ထိန်းချုပ်နိုင်သည်။
 features-adblocker-choose-your-level-of-protection = သင့်လုံခြုံရေးကာကွယ်မှုအဆင့်ကို ရွေးပါ
-features-adblocker-to-start-click-on-the = စတင်ရန် သင့်မော်နီတာမျက်နှာပြင်မှအပေါ်ညာဘက်ခြမ်းတွင်ရှိသော{ -brand-name-firefox }မီနူးကိုနှိပ်ပါ။တစ်ခုစီ၏အပေါ်ဘက်တွင်သုံးလိုင်းရှိသည်။မီနူးတွင်ပါရှိသောContent Blockingကိုနှိပ်ပါ။မတူညီသောရွေးချယ်မှုများရွေးချယ်ခြင်းဖြင့် အပြာရောင်ပေါ့အက်ဖြင့်မြင်ရမည်။
 features-adblocker-go-easy-with-standard = စံပုံစံအနေအထားဖြင့်သုံးစွဲပါ
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -53,4 +43,3 @@ features-adblocker-send-a-do-not-track-signal = လမ်းကြောင်�
 features-adblocker-if-you-dont-want-your = သင်အွန်လိုင်းပေါ်ကြော်ငြာများကို မကြည့်လိုလျှင် “ကျေးဇူးတင်ပါတယ်မပြပါနှင့်” ဟု ယဉ်ကျေးစွာဝက်ဆိုက်သို့ { -brand-name-firefox }ရဲ့<a href="{ $url }">ခြေရာခံခြင်းပိတ်ပါ</a>ရွေးချယ်မှုကိုရွေး၍ပို့နိုင်ပါသည်။ ဤသို့လုပ်ခြင်းသည် သင့်ကိုခြေရာခံမှုမှ ချက်ချင်းပင်ရပ်တန့်နိုင်သည်။
 features-adblocker-speed-up-thanks-to-ad = ကြော်ငြာတားမြစ်မှုကို အရှိန်မြင့်ပါ
 features-adblocker-in-some-cases-an-ad-blocker = အချို့ကိစ္စများတွင် ကြော်ငြာဖျောက်ဖျက်မှုခြင်းဖြင့် သင့်ဘရောက်ဇာကို လျင်မြန်စေနိုင်သည်။ ကြော်ငြာများတက်လာလျှင် သင်ကြည့်နေသောဆိုက်ကိုနှေးကွေးစေသည်။တစ်ချိန်တည်းမှာပဲ အခြားကြော်ငြာများကို မပိတ်မိလျှင် သင်၏ရှာဖွေမှုကို ကြန့်ကြာစေသည်။
-features-adblocker-take-control-of-your-browser = သင့်ဘရောက်ဇာ၏ထိန်းချုပ်မှုကိုယူပါ။

@@ -5,7 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
 
-# HTML page title
-compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } එදිරිව { -brand-name-brave }: ඔබට වඩා හොඳ අතිරික්සුව කුමක්ද?
-# Main title
-compare-brave-comparing-firefox-browser = { -brand-name-firefox-browser } සමඟ { -brand-name-brave } සැසඳීමෙන්

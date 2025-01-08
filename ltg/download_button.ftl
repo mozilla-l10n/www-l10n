@@ -31,3 +31,6 @@ download-button-firefox-android = <span>{ -brand-name-firefox }</span> deļ { -b
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> deļ { -brand-name-ios }
 download-button-firefox-privacy = { -brand-name-firefox } privātums
 download-button-download = Nūlōdēt
+
+## Linux
+

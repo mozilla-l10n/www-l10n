@@ -11,8 +11,6 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } ہک تکھا براؤزر ہے جیڑھا جدید ترین ڈویلپر ٹولز تے CSS گرڈ سپورٹ تے فریم ورک ڈیبگنگ جیہاں نویاں خصوصیات پیش کریندا ہے۔
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = تہاݙے نویں بھاوݨیں براؤزر وِچ جی آیاں کوں۔ نویاں نکور خصوصیات، تکھی کارکردگی، تے ترقیاتی ٹولز حاصل کرو جنہاں دی تہاکوں اوپن ویب کیتے بݨاوݨ دی ضرورت ہے۔
 firefox-developer-speak-up = ٻولو
 firefox-developer-feedback-makes-us = تاثرات اساکوں بہت بݨیندے ہن۔ اساکوں ݙساؤ جو اساں براؤزر تے ڈویلپر ٹولز کوں کیویں بݨا سڳدے ہیں۔
@@ -75,15 +73,11 @@ firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-develo
 firefox-developer-download-the-firefox-browser = ڈویلپرز کیتے بݨایا ڳیا { -brand-name-firefox } براؤزر ڈاؤن لوڈ کرو۔
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } کوں پہلے کنوں زیادہ تکھا، لیسواں تے زیادہ تکڑا بݨاوݨ کیتے زمین کنوں دوبارہ بݨایا ڳیا ہے۔
 firefox-developer-welcome-to-firefox-developer-edition = { -brand-name-firefox-developer-edition } وچ ست بسم اللہ
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition } وچ ست بسم اللہ
 firefox-developer-made-for-developers = ڈویلپرز کیتے بݨایا ڳیا براؤزر
 firefox-developer-all-the-latest-v2 = ملٹی لائن کنسول ایڈیٹر اَتے ویب ساکٹ انسپکٹر جیہیں خاصیتاں کنوں اَن٘ج بِیٹا وِچ سبّھے جدید ڈویپلر ٹولز۔
 firefox-developer-a-separate-profile = ہک <strong>علیحدہ پروفائل تے رستہ</strong> تاں جو تساں اینکوں ریلیز یا { -brand-name-beta } { -brand-name-firefox } دے نال آسانی نال چلا سڳو۔
 firefox-developer-preferences-tailored = ترجیحاں <strong>ویب ڈویلپرز کیتے تیار کردہ</strong>: براؤزر تے ریموٹ ڈیبگنگ بطور ڈیفالٹ فعال ہن، جیویں جو ڈارک تھیم تے ڈویلپر ٹول بار بٹن ہن۔
 firefox-developer-congrats-you-now-have-latest-v2 = ہُݨ تُہاݙے کول { -brand-name-firefox-developer-edition } دا نواں نرویا ورژن ہِے۔
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = مبارک ہووے ہݨ تہاݙے کول { -brand-name-firefox-browser } { -brand-name-developer-edition } دا نواں نکور ورژن ہے۔
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = نواں کیا ہِے ݙیکھݨ کِیتے <a { $attrs }>ریلیز نوٹس</a> ݙیکھو (صرف انگریزی وِچ)۔

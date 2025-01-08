@@ -10,10 +10,6 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = Prohlížeč { -brand-name-firefox } pro { -brand-name-android(case: "acc") } je rychlý, bezpečný a soukromý od prvního otevření.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = Buďte mobilní. Získejte nezávislost díky { -brand-name-firefox(case: "dat") } pro { -brand-name-android(case: "acc") }
-# Obsolete string
-mobile-android-when-you-download = Když si stáhnete { -brand-name-firefox(case: "acc") }, rozhodnete se podpořit nezávislou technologickou společnost. { -brand-name-firefox } je jediný hlavní prohlížeč, za kterým stojí nezisková organizace bojující za větší otevřenost, transparentnost a abyste měli kontrolu nad svým životem online.
 mobile-android-get-firefox-for = Získejte { -brand-name-firefox(case: "acc") } pro { -brand-name-android(case: "acc") }
 mobile-android-send-a-download-link-to-your = Poslat odkaz ke stažení do vašeho telefonu.
 mobile-android-scan-the-qr-code-to-get-started = Naskenujte QR kód a můžete začít

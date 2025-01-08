@@ -48,3 +48,6 @@ download-firefox-esr = { -brand-name-firefox-esr } බාගන්න
 download-firefox-esr-32 = { -brand-name-firefox-esr } බිටු-32 බාගන්න
 download-firefox-esr-64 = { -brand-name-firefox-esr } බිටු-64 බාගන්න
 download-a-different-build = වෙනස් තැනීමක් බාගන්න
+
+## Linux
+

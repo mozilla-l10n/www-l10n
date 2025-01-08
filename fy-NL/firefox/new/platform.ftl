@@ -17,7 +17,7 @@ new-platform-advanced-install-options = Avansearre ynstallaasjeopsjes & oare pla
 new-platform-download-in-another = Download yn in oare taal
 new-platform-need-help = Help nedich?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = Download { -brand-name-mozilla } { -brand-name-firefox } foar { -brand-name-linux }
 # /firefox/linux/ HTML page description

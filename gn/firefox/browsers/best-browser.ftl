@@ -29,10 +29,6 @@ best-browser-last-but-not-least = Ipahápe, hákatu tuichamba’e avei, kundaha 
 # Variables:
 # $monitor (url) - link to https://www.mozilla.org/products/monitor/
 best-browser-firefox-is-offering-v2 = { -brand-name-firefox } ome’ẽ mba’e pyahu ne rekorosã hag̃ua: <a { $monitor }>{ -brand-name-mozilla-monitor }</a>. Porupyrã reigua nemombáytava oĩramo mondaha ne mba’etépe ha nemomarandúta umi ne mba’ete oñemondápara’e ymave. Ambue hembiapoite ha’e Candado verde. Ojehecha peteĩ ta’ãnga’í hovyũvaramo kundaha rovetã yvate asu gotyo. Eikéramo { -brand-name-firefox }-pe ha ehecha pe candádo rovyũ hũngýramo, he’ise pe ñanduti renda oĩha encriptado ha hekorosã. Pe candádo iñapatĩramo, ikatu eñamindu’uve emoinge hag̃ua marandu ñemiguaitéva.
-# Obsolete string
-# Variables:
-# $monitor (url) - link to https://monitor.firefox.com
-best-browser-firefox-is-offering = { -brand-name-firefox } ome’ẽ mba’e pyahu ne rekorosã hag̃ua: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. Porupyrã reigua nemombáytava oĩramo mondaha ne mba’etépe ha nemomarandúta umi ne mba’ete oñemondápara’e ymave. Ambue hembiapoite ha’e Candado verde. Ojehecha peteĩ ta’ãnga’í hovyũvaramo kundaha rovetã yvate asu gotyo. Eikéramo { -brand-name-firefox }-pe ha ehecha pe candado verde, he’ise pe ñanduti renda oĩha encriptado ha hekorosã. Pe candado iñapatĩramo, ikatu eñamindu’uve emoinge hag̃ua marandu ñemiguaitéva.
 best-browser-we-visit-hundreds-or = Ojeike hetaiterei ñanduti rendápe ára ha ára, ha ndaikatúi eha’ãrõvo poruhára omboajévo mba’éichapa hekorosã ha hekoñemíta peteĩteĩva ñanduti renda. Upéva rupi peteĩ  kundaha ome’ẽva sãso iporãiterei, oikuave’ẽ rupi ñemo’ã añete ha oikoitéva.
 best-browser-a-browser-that-minds = Kundaha oipytyvõva ne ñemuhape.
 best-browser-privacy-on-the-web = Ñemigua ñandutípe ha’e mba’e tuicháva. Pe ñemigua oĩ tenondete tysýipe, ehekava’erã kundaha hekoporãva. Eiporavóvo kundaha ñemigua iporãvéva ndéve g̃uarã, eporandu tapykueho porurekóre ha mba’éichapa pe kundaha omboguata mba’ekuaarã. Ko’ãva ha’e porandu aporekoguáva, hákatu upéicha rupi heta kundaha iñemive ambuégui.

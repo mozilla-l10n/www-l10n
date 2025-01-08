@@ -33,9 +33,6 @@ about-with-offices-all-over-the = 透過<a href="{ $url }">全球各地的辦事
 about-san-francisco = 舊金山
 about-talking-tech-issues-irl = 討論科技議題 IRL
 about-in-mozillas-multi-award-winning = 由主持人 Bridget Todd 在 { -brand-name-mozilla } 得獎無數的 Podcast 中，與人們一同討論如何塑造網際網路與 AI 的未來的相關議題。
-# Obsolete strings (remove in 1-2 months)
-about-talking-internet-issues-irl = 討論網路上的議題 IRL
-about-in-mozillas-irl-podcast-host = { -brand-name-mozilla } 的 IRL podcast 主持人 Manoush Zomorodi 分享了線上生活的真實故事，並與聽眾一同討論 Web 的未來。
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = 每年接待 <strong>2000</strong> 位不是員工的訪客
 about-berlin = 柏林

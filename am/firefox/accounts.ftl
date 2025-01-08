@@ -7,23 +7,13 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = { -brand-name-mozilla-account } ያግኙ - ውሂብዎን የግል፣ ደህንነቱ የተጠበቀ እና የሰመረ ያድርጉ
-# Obsolete string
-firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } ያግኙ - ውሂብዎን የግል፣ ደህንነቱ የተጠበቀ እና የተስማማ አድርገው ይያዙ
-# HTML page description
-firefox-accounts-securely-sync-your = የእርስዎን የይለፍ ቃላት፣ ዕልባቶች እና ትሮች በሁሉም መሳሪያዎችዎ ላይ ደህንነቱ በተጠበቀ ሁኔታ ያዛምዱ። አሁን { -brand-name-firefox-account } ያግኙ - አንድ መግቢያ - አቅም እና ግላዊነት በሁሉም ቦታ።
 firefox-accounts-enter-your-email-address = ለመጀመር የኢሜል አድራሻ ያስገቡ።
 firefox-accounts-already-have-an-account = መታወቂያ(መለያ) አለዎት?
 firefox-accounts-sign-in = ግባ
-# Obsolete string
-firefox-accounts-already = እንኳን ደስ ያለዎ! ቀድሞውንም { -brand-name-firefox-account } አለዎት።
 mozilla-accounts-already = እንኳን ደስ ያለዎ! ቀድሞውንም { -brand-name-mozilla-account } አለዎት።
 firefox-accounts-manage = መለያዎን ያስተዳድሩ
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = ወደ እርስዎ { -brand-name-mozilla-account } ይግቡ ለ:-
-# Obsolete string
-firefox-accounts-sign-in-to = ወደ እርስዎ { -brand-name-firefox-account } ይግቡ ለ፡-
-# Obsolete string
-firefox-accounts-meet-our-family-of = ከግላዊ-የመጀመሪያ ምርቶች ቤተሰባችንን ያግኙ።
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = ወደ ሌላ መሣሪያ <a href="{ $send }">ትር ላክ</a>
@@ -45,8 +35,6 @@ firefox-accounts-get-it-all-on-every = በማንኛውም መገልገያ መሳ
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

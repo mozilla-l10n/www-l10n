@@ -16,12 +16,6 @@ features-adblocker-an-ad-blocker-is-a-piece = የማስታወቂያ ማገጃ �
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = እነዚህ ማስታወቂያዎች ከፍተኛ ድምጽ ያላቸው የቪዲዮ ማስታወቂያዎች፣ እርስዎን በድር ላይ የሚከተሉ ማስታወቂያዎች፣ መከታተያዎች፣ የሶስተኛ ወገን ኩኪዎች እና ሌሎችም ሊሆኑ ይችላሉ። የማስታወቂያ ማገጃን ለመጠቀም በአሳሽዎ ውስጥ የሚገኙትን የማስታወቂያ ማገጃ ማከያዎች መፈለግ ይችላሉ። <a href="{ $firefox }">{ -brand-name-firefox }</a>፣ ለምሳሌ፣ <a href="{ $addons }">ይህ የጸደቁ የማስታወቂያ ማገጃ ተጨማሪዎች ዝርዝር አለው</a>። በዚህ ዝርዝር ላይ ጠቅ ያድርጉ (ወይም ለአሳሽዎ የተፈቀደላቸው የማስታወቂያ ማገጃዎች) እና ከፍላጎትዎ ጋር የሚስማማውን ይመልከቱ።
 features-adblocker-find-the-right-ad-blocker = ለእርስዎ ትክክለኛውን የማስታወቂያ ማገጃ ያግኙ
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = ብቅ ባይ ማስታወቂያዎች በጣም የከፋ ናቸው። በ <a href="{ $url }"> ብቅ ባይ ማገጃ </a> አግ Blockቸው እና እንደገናም ሌላ አሰቃቂ ብቅ-ባይን በጭራሽ አያነጋግሩ።
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = ለ { -brand-name-chrome } ፣ { -brand-name-safari } እና { -brand-name-firefox } በጣም ታዋቂ የማስታወቂያ አጋጆች አንዱ ‹a href="{ $url }"> AdBlock </a> ነው። በ { -brand-name-facebook } ፣ { -brand-name-youtube } እና { -brand-name-hulu } ላይ ማስታወቂያዎችን ለማገድ ይጠቀሙበት።
 features-adblocker-create-a-tracker-free = በይዘት ማገድ ጋር በመሆን ከመከታተያ-ነፃ ዞን ይፍጠሩ
 features-adblocker-choose-your-level-of-protection = የመከላከያዎን ደረጃ ይምረጡ
 features-adblocker-go-easy-with-standard = በመደበኛ ሁነታ በቀላሉ ይሂዱ
@@ -30,4 +24,3 @@ features-adblocker-do-it-yourself-custom = ራስዎ ያድርጉት ብጁ ሞ�
 features-adblocker-cover-your-trail-block = ዱካዎን ይሸፍኑ ፣ መከታተያዎችን ያግዱ
 features-adblocker-take-a-bite-out-of-cookies = ከኩኪዎች ትንሽ ይውሰዱ
 features-adblocker-speed-up-thanks-to-ad = ለማስታወቂያ ማገጃዎች ምስጋና ይግባቸው
-features-adblocker-take-control-of-your-browser = የድረ-ገፅ ማሰሻዎን እርስዎ የሚቆጣጠሩት ያድርጉት።

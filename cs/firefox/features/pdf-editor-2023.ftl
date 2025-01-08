@@ -7,8 +7,6 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = Editor PDF
-# Obsolete string (expires: 2024-06-17)
-pdf-editor-add-text-to-pdfs = Přidání textu do souborů PDF pomocí editoru PDF { -brand-name-firefox(case: "loc") }
 # page title
 pdf-editor-add-text-to-pdfs-v2 = Upravujte zdarma soubory PDF s editorem PDF ve { -brand-name-firefox(case: "dat") }
 # HTML page description

@@ -7,8 +7,6 @@ footer-mozilla-manifesto = Stefnuskrá { -brand-name-mozilla }
 footer-privacy-hub = Persónuverndarmiðstöð
 footer-privacy = Friðhelgi
 footer-press = Fjölmiðlar
-# Obsolete string (expires 2024-07-02)
-footer-corporate-blog = Fyrirtækjablogg
 footer-mozilla-blog = { -brand-name-mozilla } bloggið
 footer-browser-comparison = Samanburður vafra
 footer-brand-standards = Vörumerkjastaðlar
@@ -40,8 +38,6 @@ footer-websites-legal = Lagalegur fyrirvari
 footer-language = Tungumál
 footer-go = Fara
 footer-donate = Styrkja
-# Obsolete string
-footer-twitter = { -brand-name-twitter }
 footer-x = X
 footer-x-formerly-twitter = X (fyrrum Twitter)
 footer-mastodon = { -brand-name-mastodon }

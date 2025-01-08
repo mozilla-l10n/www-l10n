@@ -59,4 +59,3 @@ firefox-new-fast = Snabb, privat och gratis
 firefox-new-from-mozilla = från { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } är en gratis webbläsare med snabb sidladdning, mindre minnesanvändning och massor av funktioner - ett projekt av den ideella organisationen { -brand-name-mozilla }.
 firefox-new-download-a-different = Hämta för andra plattformar och språk
-firefox-new-taskbar = { -brand-name-firefox } kommer att fästas i { -brand-name-windows } aktivitetsfältet efter installationen

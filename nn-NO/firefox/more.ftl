@@ -33,12 +33,6 @@ firefox-for-linux = { -brand-name-firefox } for { -brand-name-linux }
 new-school-meets = Den nye skulen møter den gamle skulen med den raskaste nettlesaren til no.
 firefox-for-windows = { -brand-name-firefox } for { -brand-name-windows } 64-bit
 we-worry-about = Vi uroar oss over datasikkerheita di, slik at du slepp.
-# Obsolete string
-seven-of-the = Sju av dei beste nettlesarane i direkte samanlikning
-six-of-the-best = Seks av dei beste nettlesarane i direkte samanlikning
-# Obsolete string
-we-compare-firefox = Vi samanliknar { -brand-name-firefox } med { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } och { -brand-name-ie } for å hjelpe deg med å bestemme deg.
-comparing-firefox-ie = Samanlikning av { -brand-name-firefox-browser } med { -brand-name-microsoft } { -brand-name-ie }
 old-habits-that = Gamle vanar er vonde å vende, men du vil kjenne deg betre når du gjer det.
 incognito-browser-what = Inkognito-nettlesar: Kva det eigentleg tyder
 firefox-calls-it = { -brand-name-firefox } kallar det privat nettlesing, { -brand-name-chrome } kallar det inkognito-modus. Begge lèt deg surfe på nettet utan å lagre netthistorikken din.

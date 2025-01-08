@@ -13,8 +13,6 @@ vpn-download-sub-heading = Gallwch lwytho i lawr { -brand-name-mozilla-vpn } ar 
 vpn-download-mozilla-vpn-offers = Mae { -brand-name-mozilla-vpn } yn cynnig amddiffyniad diogel a sicr i bob system weithredu fawr.
 vpn-download-not-available-in-country = Ymddiheuriadau, nid yw { -brand-name-mozilla-vpn } ar gael i'w lwytho i lawr yn eich gwlad.
 vpn-download-button-copy = Llwytho i Lawr
-# Obsolete string
-vpn-download-for-windows = VPN ar gyfer { -brand-name-windows } 10/11
 vpn-download-for-windows-v2 = VPN ar gyfer { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-did yn unig)
 vpn-download-for-windows-long = Llwythwch { -brand-name-mozilla-vpn } i lawr ar gyfer { -brand-name-windows }
@@ -32,8 +30,6 @@ vpn-download-for-android = VPN ar gyfer { -brand-name-android }
 vpn-download-for-android-long = Llwythwch { -brand-name-mozilla-vpn } i lawr ar gyfer { -brand-name-android }
 vpn-download-for-ios = VPN ar gyfer { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Llwythwch { -brand-name-mozilla-vpn } i lawr ar gyfer { -brand-name-ios }
-# Obsolete string
-vpn-download-for-ios-long = Llwythwch VPN { -brand-name-mozilla-vpn } i lawr ar gyfer { -brand-name-ios }
 vpn-download-get-on-google-play = Ei gael ar { -brand-name-google-play } Store
 vpn-download-get-on-app-store = Ei gael ar { -brand-name-app-store }
 vpn-download-based-on-your = Yn seiliedig ar eich dyfais gyfredol

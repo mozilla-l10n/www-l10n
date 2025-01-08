@@ -32,7 +32,7 @@ vpn-when-to-use-for-the-most = For the most part, the scenarios above don’t ap
 vpn-when-to-use-because-your-internet = Because your internet traffic at home moves to and from your devices through your internet service provider — ISP for short — they can see where you go online. An ISP can see what sites you visit, how long you’re on them, your location and information about your devices. An ISP may not know the specifics of what you did on those sites (like what you bought, searched for or read) thanks to encryption, but they could make inferences about you based on the sites that you visited. That personal data can be used by ISPs to create detailed profiles about you. Browsing in private mode doesn’t prevent ISPs from seeing where you go online. But sending your web traffic through a VPN can make it much harder.
 vpn-when-to-use-make-sure-you = Make sure you understand what a VPN doesn’t do
 # Variables
-#   $book (url) - https://www.mozilla.org/firefox/privacy/book/
+#   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
 vpn-when-to-use-a-vpn-provides = A VPN provides an important security link by protecting your private data before it travels over the internet, and it also conceals your IP address, helping to protect your identity and location. It won’t, however, prevent you from things like clicking on suspicious links, downloading malware or being victimized by email fraud. You still need to practice <a href="{ $book }">good habits to stay safe online</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, a trustworthy VPN service
 # Variables

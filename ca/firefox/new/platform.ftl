@@ -17,7 +17,7 @@ new-platform-advanced-install-options = Opcions avançades d'instal·lació i al
 new-platform-download-in-another = Baixeu-lo en una altra llengua
 new-platform-need-help = Necessiteu ajuda?
 
-## Linux
+# Linux
 
 # /firefox/linux/ main page title
 new-platform-firefox-for-linux = { -brand-name-firefox } per al { -brand-name-linux }

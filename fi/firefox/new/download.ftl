@@ -59,4 +59,3 @@ firefox-new-fast = Nopea, yksityinen ja ilmainen
 firefox-new-from-mozilla = { -brand-name-mozilla }lta
 firefox-new-desc = { -brand-name-firefox-browser } on vapaa ja ilmainen verkkoselain, jossa sivut latautuvat nopeasti, se käyttää vähemmän muistia kuin monet muut selaimet ja se sisältää paljon ominaisuuksia – voittoa tavoittelemattoman { -brand-name-mozilla }n projekti.
 firefox-new-download-a-different = Lataa muille ympäristöille ja kielille
-firefox-new-taskbar = { -brand-name-firefox } kiinnitetään { -brand-name-windows }in tehtäväpalkkiin asennuksen jälkeen

@@ -11,10 +11,6 @@ features-index-firefox-browser-features = { -brand-name-firefox } a jeho funkcie
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } je rýchly a jednoduchý prehliadač zameraný na ochranu súkromia, ktorý funguje na všetkých vašich zariadeniach.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } je stále rýchlejší
 features-index-the-latest-browser-speed-benchmarks = Najnovšie testy rýchlosti prehliadačov dokazujú, že { -brand-name-firefox } je rýchlejší než kedykoľvek predtým.
-# Obsolete string
-features-index-is-firefox-a-fast-browser = Je { -brand-name-firefox } rýchlym prehliadačom?
-# Obsolete string
-features-index-firefox-uses-less-memory-than = { -brand-name-firefox } využíva menej pamäte ako Chrome, takže vaše ostatné programy môžu naďalej bežať pri najvyššej rýchlosti.
 features-index-is-firefox-a-private-browser = Je { -brand-name-firefox } súkromným prehliadačom?
 features-index-were-focused-on-your-right-to = Zameriavame sa na vaše právo na súkromie. Vaše údaje, vaša webová aktivita, váš život online sú pri používaní { -brand-name-firefox(case: "gen") } chránené.
 features-index-free-password-manager = Bezplatný správca hesiel
@@ -42,7 +38,5 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } automatick
 features-index-ditch-the-sticky-ads = Zbavte sa lepkavých reklám, ktoré vás sledujú, pomocou blokovania snímania digitálnych odtlačkov vstavaných priamo vo { -brand-name-firefox(case: "loc") }.
 features-index-translate-the-web = Prekladanie webových stránok
 features-index-translate-websites-to-your = Prekladajte webové stránky do svojho jazyka priamo vo svojom prehliadači { -brand-name-firefox } – bez zdieľania údajov s kýmkoľvek iným.
-# Obsolete string
-features-index-translate-more-than = Prekladajte z viac ako 100 jazykov do svojho jazyka priamo vo { -brand-name-firefox(case: "loc") } – jednoduchšie než kedykoľvek predtým.
 features-index-picture-in-picture = Obraz v obraze
 features-index-got-things-to-do = Máte čo robiť a čo pozerať? Vo { -brand-name-firefox(case: "loc") } môžete robiť oboje naraz pomocou funkcie Obraz v obraze.

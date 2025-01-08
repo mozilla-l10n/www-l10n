@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Parsisiųskite dabar
 download-button-free-download = Parsisiųskite
@@ -38,3 +38,6 @@ download-button-firefox-android = <span>{ -brand-name-firefox }</span> „{ -bra
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> „{ -brand-name-ios }“ įrenginiams
 download-button-firefox-privacy = „{ -brand-name-firefox }“ privatumas
 download-button-download = Parsisiųsti
+
+## Linux
+

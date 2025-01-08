@@ -1,31 +1,22 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = سسٹم کے تقاضوں کی پڑتال کریں
-firefox-all-release-notes = اجرائی نوٹس
-firefox-all-source-code = ماخذ کوڈ
-firefox-all-need-help = مدد چاہیے؟
-firefox-all-which-browser-would = آپ کون سا براؤزر ڈائونلوڈ کرنا چاہیں گے؟
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = مدد حاصل کریں
-firefox-all-you-are-about-to-download = آپ ڈاؤن لوڈ کرنے جارہے ہیں:
-firefox-all-browser = براؤزر:
-firefox-all-platform = پلیٹ فارم:
-firefox-all-language = زبان:
 firefox-all-lang-multi = متعدد زبانیں
 firefox-all-sorry-we-couldnt-find = ہم معذرت خواہ ہیں، جس ڈاؤن لوڈ کی تلاش کر رہے ہیں ہم اسے تلاش نہیں کر سکے۔ براہ کرم دوبارہ کوشش کریں ، یا نیچے دی گئی فہرست میں سے ایک ڈاؤن لوڈ کا انتخاب کریں۔
 firefox-all-the-pre-alpha-version = پری الفا ورژن پری پاور صارفین کے لئے ہے جو کریشز کا شکار کرنا چاہتے ہیں اور نئی خصوصیات کو کوڈ کرتے ہوئے جانچنا چاہتے ہیں۔
 firefox-all-64-bit-installers = 64 بٹ انسٹالرز
 firefox-all-choose-a-64-bit-installer = 64 بٹ پروسیسر والے کمپیوٹرز کے لئے ایک 64 بٹ انسٹالر کا انتخاب کریں ، جو انفرادی پروگراموں میں زیادہ سے زیادہ رام مختص کرنے کی اجازت دیتا ہے - خاص طور پر کھیلوں اور دیگر ایپلی کیشنز کے لئے اہم ہے۔
 firefox-all-32-bit-installers = 32 بٹ انسٹالرز
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = { -brand-name-firefox-browser }براؤزر کو انگریزی (امریکی) اور 90 سے زیادہ دیگر زبانوں میں ڈاؤن لوڈ کریں
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = ہر کوئی انٹرنیٹ تک رسائی کا مستحق ہے - آپ کی زبان کو کبھی بھی رکاوٹ نہیں بننا چاہئے۔ یہی وجہ ہے کہ - پوری دنیا میں واقف شدہ رضاکاروں کی مدد سے - ہم { -brand-name-firefox-browser } براؤزر کو 90 سے زیادہ زبانوں میں دستیاب کر رہے ہیں۔
+firefox-all-check-the-system-requirements = سسٹم کے تقاضوں کی پڑتال کریں
+firefox-all-release-notes = اجرائی نوٹس
+firefox-all-source-code = ماخذ کوڈ
+firefox-all-need-help = مدد چاہیے؟
 firefox-all-choose-which-firefox = انتخاب کریں کہ کونسا { -brand-name-firefox-browser } اپنی زبانمیں ڈونلوڈ کرنا ہے
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } رازداری کے نوٹس
 firefox-all-learn-about-firefox = { -brand-name-firefox } براؤزر کے بارے میں جانیں

@@ -1,33 +1,19 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-firefox = { -brand-name-firefox }
 footer-privacy = I mung pa dano
-footer-desktop = Wang kompiuta
-footer-mobile = Me cing
-footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
-footer-lockwise = { -brand-name-lockwise }
-footer-monitor = { -brand-name-monitor }
-footer-send = { -brand-name-send }
-footer-pocket = { -brand-name-pocket }
-footer-join = Dony iyie
-footer-sign-up = Coone
-footer-sign-in = Dony Iyie
-footer-benefits = Ber ne
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } pi { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } pi { -brand-name-android }
 footer-mozilla = { -brand-name-mozilla }
-footer-about = Lok ikome
 footer-press-center = Dii Dyere
-footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-websites-cookies = Angija
 footer-websites-legal = Cik
 footer-language = Leb
-footer-twitter = { -brand-name-twitter }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

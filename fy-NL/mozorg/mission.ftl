@@ -10,16 +10,10 @@ mission-our-mission-is-to-ensure-the-internet = It is ús missy om te fersekerje
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Us missy is it befoarderjen fan iepenheid, ynnovaasje en mooglikheden op it ynternet.
 mission-at-mozilla-were-a-global-community-v2 = By { -brand-name-mozilla } binne wy in wrâldwide mienskip fan technologen, tinkers en bouwers dy't gearwurkje om it ynternet yn beweging en tagonklik te hâlden, dus minsken oer de hiele wrâld kinne ynformearde meiwurkers en makkers fan it ynternet wurde.
-# Outdated string
-mission-at-mozilla-were-a-global-community = By Mozilla binne wy in wrâldwide mienskip fan technologen, tinkers en bouwers dy’t gearwurkje om it ynternet yn beweging en tagonklik te hâlden, dus minsken oer de hiele wrâld kinne ynformearde meiwurkers en makkers fan it ynternet wurde.
 mission-we-believe-this-act-of-human-collaboration = Wy leauwe dat dizze died fan minslike gearwurking oer in iepen platfoarm essinsjeel is foar yndividuele groei en ús kollektive takomst.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn-v2 = Lês it <a href="{ $url }">{ -brand-name-mozilla }-manifest</a> foar noch mear ynfo oer de wearden en prinsipen dy’t it neirinnen fan ús missy liede.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/about/manifesto/
-mission-read-the-mozilla-manifesto-to-learn = Lês it <a href="{ $url }">Mozilla-manifest</a> foar noch mear ynfo oer de wearden en prinsipen dy’t it neirinnen fan ús missy liede.
 mission-watch-the-video-above-to-learn-more = Besjoch de boppesteande fideo foar mear ynfo oer wa't wy binne, wêr’t wy fuort komme en hoe’t wy it ynternet foar jo ferbetterje.
 mission-get-involved = Meiwurkje
 mission-volunteer-opportunities-in-a-number = Mooglikheden foar frijwilligers
@@ -29,5 +23,3 @@ mission-forums = Foarums
 mission-topics-include-support-products = Underwerpen befetsje stipe, produkten en technologyën
 mission-governance = Bestjoer
 mission-our-structure-organization-and-the-v2 = Us struktuer, organisaasje en de bredere { -brand-name-mozilla }-mienskip
-# Outdated string
-mission-our-structure-organization-and-the = Us struktuer, organisaasje en de bredere Mozilla-mienskip

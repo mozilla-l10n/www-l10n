@@ -8,8 +8,6 @@
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest-v2 = ਵਧਾਈਆਂ। ਤੁਸੀਂ { -brand-name-firefox-developer-edition } ਦਾ ਨਵਾਂ ਵਰਜ਼ਨ ਵਰਤ ਰਹੇ ਹੋ।
-# Obsolete string (expires: 2024-05-14)
-developer-mdnplus-congrats-you-now-have-latest = ਵਧਾਈਆਂ। ਹੁਣ ਤੁਸੀਂ { -brand-name-firefox-browser } { -brand-name-developer-edition } ਦਾ ਨਵਾਂ ਵਰਜ਼ਨ ਵਰਤ ਰਹੇ ਹੋ।
 # Main title
 developer-mdnplus-more-mdn-your-mdn = ਹੋਰ { -brand-name-mdn }। <em>ਤੁਹਾਡਾ</em> { -brand-name-mdn }।
 developer-mdnplus-support-mdn-and-make = { -brand-name-mdn } ਨੂੰ ਸਹਿਯੋਗ ਦਿਓ ਤੇ <em>ਅਤੇ</em> ਇਸ ਨੂੰ ਆਪਣਾ ਬਣਾਓ।

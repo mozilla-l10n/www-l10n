@@ -5,23 +5,16 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Жүйелік талаптарды тексеріңіз
-firefox-all-release-notes = Шығарылым ескертпесі
-firefox-all-source-code = Бастапқы коды
-firefox-all-need-help = Көмек керек пе?
-firefox-all-which-browser-would = Сіз қай браузерді жүктеп алғыңыз келеді?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Көмек алу
-firefox-all-you-are-about-to-download = Сіз жүктеп алғалы тұрсыз:
-firefox-all-browser = Браузер:
-firefox-all-platform = Платформа:
-firefox-all-language = Тіл:
 firefox-all-lang-multi = Бірнеше тіл
 firefox-all-sorry-we-couldnt-find = Кешіріңіз, сіз іздеген жүктеп алуды таба алмадық. Әрекетті қайталаңыз немесе төмендегі тізімнен жүктеп алуды таңдаңыз.
 firefox-all-64-bit-installers = 64-биттік орнатқыштар
 firefox-all-32-bit-installers = 32-биттік орнатқыштар
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = { -brand-name-firefox-browser } өнімін қазақ және басқа 90-нан астам тілде жүктеп алыңыз
+firefox-all-check-the-system-requirements = Жүйелік талаптарды тексеріңіз
+firefox-all-release-notes = Шығарылым ескертпесі
+firefox-all-source-code = Бастапқы коды
+firefox-all-need-help = Көмек керек пе?
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } жекелік ескертуі
 firefox-all-learn-about-firefox = { -brand-name-firefox } браузерлері туралы біліңіз
 firefox-all-msi-installers = MSI орнатқыштары

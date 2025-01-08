@@ -24,3 +24,6 @@ vpn-pricing-get-annual-subscription = Awi amulteɣ n useggas
 vpn-pricing-get-monthly-subscription = Awi amulteɣ n wayyur
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Isteqsiyen FAQ
+
+## Mobile only subscription copy
+

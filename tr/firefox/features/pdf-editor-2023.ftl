@@ -7,8 +7,6 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = PDF düzenleyicisi
-# Obsolete string (expires: 2024-06-17)
-pdf-editor-add-text-to-pdfs = { -brand-name-firefox } PDF Düzenleyicisi ile PDF’lere metin ekleyin
 # page title
 pdf-editor-add-text-to-pdfs-v2 = { -brand-name-firefox } PDF Düzenleyicisi ile PDF’leri ücretsiz düzenleyin
 # HTML page description

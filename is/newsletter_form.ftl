@@ -6,14 +6,10 @@ newsletter-form-please-enter-a-valid = Settu inn gilt tölvupóstfang
 newsletter-form-you-must-agree-to = Þú verður að samþykkja persónuverndastefnuna
 newsletter-form-your-email-address = Tölvupóstfangið þitt
 newsletter-form-your-email-here = TÖLVUPÓSTFANGIÐ ÞITT
-newsletter-form-format = Sniðmát
-newsletter-form-html = HTML
-newsletter-form-text = Texti
 newsletter-form-get-firefox-news = Gerast áskrifandi að { -brand-name-firefox } fréttum
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Ég er sáttur við að { -brand-name-mozilla } meðhöndli mínar upplýsingar eins og útskýrt er <a href="{ $url }">þessum skilmálum</a>
-newsletter-form-we-will-only-send = Við sendum aðeins upplýsingar sem tengjast { -brand-name-mozilla }.
 newsletter-form-if-you-havent-previously = Ef þú hefur ekki þegar staðfest áskrift að { -brand-name-mozilla } tengdu fréttabréfi gætirðu þurft að staðfesta. Athugaðu hvort póstur sé frá okkur í innhólfinu eða í ruslpóst möppunni.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Þú
 newsletter-form-get-firefox-tips = Fáðu { -brand-name-firefox } ábendingar, snjallræði, fréttir og fleira

@@ -54,19 +54,10 @@ vpn-download-faq-working = Πώς καταλαβαίνω ότι το VPN λει�
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.mozilla.org/
 vpn-download-faq-visual-indicators-v2 = Το { -brand-name-mozilla-vpn } εμφανίζει ενδείξεις για την τρέχουσα κατάστασή του στη γραμμή εργαλείων και στην αρχική οθόνη του, ώστε να γνωρίζετε εάν προστατεύεται η διαδικτυακή σας δραστηριότητα. Αυτές οι ενδείξεις σάς επιτρέπουν να επιβεβαιώσετε πότε είναι ιδιωτική και ασφαλής η πλοήγησή σας. Επιπλέον, κατά τη σύνδεση, μπορείτε να επισκεφτείτε το <a href="{ $monitor }">https://monitor.mozilla.org/</a> για να βεβαιωθείτε ότι η διεύθυνση IP σας αποκρύπτεται. Για περισσότερες λεπτομέρειες, δείτε το <a href="{ $connected }">Πώς μπορώ να καταλάβω εάν το { -brand-name-mozilla-vpn } είναι συνδεδεμένο;</a>.
-# Obsolete string
-# Variables:
-#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
-#   $monitor (url) link to https://monitor.firefox.com/
-vpn-download-faq-visual-indicators = Το { -brand-name-mozilla-vpn } εμφανίζει ενδείξεις για την τρέχουσα κατάστασή του στη γραμμή εργαλείων και στην αρχική οθόνη του, ώστε να γνωρίζετε εάν προστατεύεται η διαδικτυακή σας δραστηριότητα. Αυτές οι ενδείξεις σάς επιτρέπουν να επιβεβαιώσετε πότε είναι ιδιωτική και ασφαλής η πλοήγησή σας. Επιπλέον, κατά τη σύνδεση, μπορείτε να επισκεφτείτε το <a href="{ $monitor }">https://monitor.firefox.com/</a> για να βεβαιωθείτε ότι η διεύθυνση IP σας αποκρύπτεται. Για περισσότερες λεπτομέρειες, δείτε το <a href="{ $connected }">Πώς μπορώ να καταλάβω εάν το { -brand-name-mozilla-vpn } είναι συνδεδεμένο;</a>.
 vpn-download-faq-add-device = Πώς προσθέτω άλλη συσκευή;
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v3 = Μπορείτε να προσθέσετε μια άλλη συσκευή κάνοντας απλώς λήψη και εγκατάσταση του { -brand-name-mozilla-vpn } και έπειτα, σύνδεση στον υπάρχοντα { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } σας στη νέα συσκευή. Για περισσότερες λεπτομέρειες, ανατρέξτε στο <a href="{ $subscription }">Προσθήκη συσκευών στη συνδρομή σας στο { -brand-name-mozilla-vpn }</a>.
-# Obsolete string
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v2 = Μπορείτε να προσθέσετε μια άλλη συσκευή κάνοντας απλώς λήψη και η εγκατάσταση του { -brand-name-mozilla-vpn } και έπειτα, σύνδεση στον υπάρχοντα { -brand-name-firefox-account(case: "acc", capitalization: "lower") } σας στη νέα συσκευή. Για περισσότερες λεπτομέρειες, ανατρέξτε στο <a href="{ $subscription }">Προσθήκη συσκευών στη συνδρομή σας στο { -brand-name-mozilla-vpn }</a>.
 vpn-download-faq-best-practices = Ποιες είναι μερικές βέλτιστες πρακτικές VPN;
 vpn-download-faq-traffic = Εάν ο στόχος σας είναι να προστατέψετε τη διαδικτυακή σας κίνηση διατηρώντας ταυτόχρονα υψηλές ταχύτητες, τότε είναι πάντα καλύτερο να επιλέγετε έναν διακομιστή που είναι όσο το δυνατόν πιο κοντά στη φυσική σας τοποθεσία. Αυτό θα αυξήσει την αξιοπιστία και την ταχύτητα της σύνδεσής σας, καθώς η διαδικτυακή σας κίνηση δεν θα χρειάζεται να κάνει μεγάλη παράκαμψη προτού φτάσει στον προορισμό της.
 vpn-download-faq-experience = Εάν ο στόχος σας είναι να απολαύσετε το διαδίκτυο σαν να βρίσκεστε σε κάποιο άλλο μέρος του κόσμου, μπορείτε να επιλέξετε έναν διακομιστή σε εκείνη την τοποθεσία και όλοι οι ιστότοποι που επισκέπτεστε θα προβάλλονται σαν να βρίσκεστε εκεί.

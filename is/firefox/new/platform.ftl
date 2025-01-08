@@ -17,7 +17,7 @@ new-platform-advanced-install-options = Ítarlegir uppsetningarvalkostir og önn
 new-platform-download-in-another = Sækja á öðru tungumáli
 new-platform-need-help = Vantar þig hjálp?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = Sæktu { -brand-name-mozilla } { -brand-name-firefox } fyrir { -brand-name-linux }
 # /firefox/linux/ HTML page description

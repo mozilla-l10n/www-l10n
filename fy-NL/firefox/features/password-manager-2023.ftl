@@ -13,14 +13,6 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } bewarret
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Mei in <a { $fxa }>fergees { -brand-name-mozilla-account }</a> kinne jo jo wachtwurden feilich tusken al jo apparaten syngronisearje. Jo krije ek tagong ta alle oare privacyrespektearjende produkten fan { -brand-name-mozilla }.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account = Mei in <a href="{ $fxa }">fergees { -brand-name-mozilla-account }</a> kinne jo jo wachtwurden feilich syngronisearje op al jo apparaten.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-firefox-account = Mei in <a href="{ $fxa }">fergees { -brand-name-firefox }-account</a> kinne jo jo wachtwurden feilich syngronisearje op al jo apparaten.
 password-manager-password-autofill-for-easy-logins = Automatysk wachtwurden ynfolje foar ienfâldige oanmelding
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } kin jo bewarre brûkersnamme en wachtwurd automatysk ynfolje. As jo mear as ien oanmelding hawwe foar in side, kinne jo gewoan it winske account selektearje, wêrnei wy it oernimme.
 # Used as an accessible text alternative for an image

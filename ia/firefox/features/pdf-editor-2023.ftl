@@ -7,8 +7,6 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = Editor de files PDF
-# Obsolete string (expires: 2024-06-17)
-pdf-editor-add-text-to-pdfs = Adde texto a documentos PDF con le editor de PDF de { -brand-name-firefox }
 # page title
 pdf-editor-add-text-to-pdfs-v2 = Modifica gratis documentos PDF con le editor de PDF de { -brand-name-firefox }
 # HTML page description

@@ -20,11 +20,7 @@ newsletter-form-sign-up-to-receive = Eñemboheraguapy og̃uahẽ hag̃ua ñemboh
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Amoneĩ { -brand-name-mozilla }-pe ohechávo che marandu oĩháicha <a href="{ $url }">ko haipy ñemigua</a>
 newsletter-form-we-will-only-send-v2 = Roguerahaukáta ndéve marandu { -brand-name-mozilla } rehegua. Esẽkuaa chugui ejapose vovénte.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send = Ore roguerahauka marandu { -brand-name-mozilla } rehegua añónte.
 newsletter-form-we-will-only-send-firefox-v2 = Romondóta marandu { -brand-name-firefox } rehegua. Esẽkuaa chugui ejapose vovénte.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send-firefox = Ore roguerahaukáta marandu { -brand-name-firefox } rehegua añónte.
 newsletter-form-if-you-havent-previously = Neremoneĩriramo upe mboyve peteĩ ñemboheraguapy marandu’i rendápe { -brand-name-mozilla } ndive ejapova’erã. Eheka ñanduti veve ore mba’évape ñanduti veve g̃uahẽháme térã spam mboguahápe.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> ha nde
 newsletter-form-get-firefox-tips = Og̃uahẽ ñe’ẽporã ha marandu { -brand-name-firefox } rehegua

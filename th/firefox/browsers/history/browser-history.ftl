@@ -31,7 +31,7 @@ browser-history-the-browser-wars = สงครามเบราว์เซอ
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = ในปี 1995 { -brand-name-netscape } Navigator ก็ไม่ใช่ทางเดียวที่จะเชื่อมต่อโลกออนไลน์ได้ ยักษ์ใหญ่ด้านซอฟต์แวร์คอมพิวเตอร์ { -brand-name-microsoft } ได้รับอนุญาตให้ใช้โค้ดเก่าของ Mosaic และสร้างหน้าต่างสู่เว็บของตนเอง ซึ่งก็คือ <a href="{ $ie }">{ -brand-name-ie }</a> การออกเบราว์เซอร์ในครั้งนี้ได้จุดประกายสงครามขึ้น { -brand-name-netscape } และ { -brand-name-microsoft } ทำงานอย่างร้อนรนเพื่อสร้างโปรแกรมรุ่นใหม่ของตนเอง โดยแต่ละบริษัทต่างพยายามเอาชนะอีกฝ่ายด้วยผลิตภัณฑ์ที่เร็วและดีกว่า
 # Variables:
-#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = { -brand-name-netscape } ได้สร้างและออก JavaScript ซึ่งให้เว็บไซต์มีความสามารถในการคำนวณที่ทรงพลังอย่างไม่เคยมีมาก่อน (ซึ่งยังได้สร้าง<a href="{ $blink }">แท็ก &lt;blink&gt; tag</a> ที่ไม่ค่อยโด่งดังมากนัก) และ { -brand-name-microsoft } ก็ตอบโต้ด้วย Cascading Style Sheets (CSS) ซึ่งต่อมาได้กลายเป็นมาตรฐานสำหรับการออกแบบหน้าเว็บ
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1

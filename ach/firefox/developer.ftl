@@ -10,7 +10,6 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } obedo layeny ma dwir adada ma kelo gitic pa ludiro manyen loyo ki jami manyen calo nongo bal ii nyonyo ki kony me CSS Grid
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Wajoli i layeny manyen mamegi ma imaro loyo. Nong jami manyen, tic oyotoyot, ki gitic ma imito me yub pi Kakube ma ayaba.
 firefox-developer-speak-up = Loki
 firefox-developer-feedback-makes-us = Adwogi weko wabedo maber. Waciwa kit ma watwero yubo layeny ki Gitic pa ludiro obed maber.
@@ -27,12 +26,6 @@ firefox-developer-visual-editing = Visual Editing
 firefox-developer-learn-more-about-visual-editing = Nong ngec mapol ikom Visual Editing
 firefox-developer-performance = Tic
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
-firefox-developer-faster-performance = Tic oyotoyot
 firefox-developer-faster-innovation = Ngec pi oyot
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } cwalo pire kene adwogi bot { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Gam layeny me { -brand-name-firefox } ma kiyubo pi ludiro
-firefox-developer-welcome-to-the-all-new = Wajoli ii { -brand-name-firefox-quantum } ma nyen loyo: { -brand-name-developer-edition }
-firefox-developer-congrats-you-now-have-firefox = Pwoc madit. Dong itye { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-welcome-to-firefox-browser = Wajoli ii { -brand-name-firefox-browser } { -brand-name-developer-edition }
-firefox-developer-congrats-you-now-have = Pwoc madit. Dong itye ki { -brand-name-firefox-browser } { -brand-name-developer-edition }.
-firefox-developer-congrats-you-now-have-latest = Pwoc madit. Dong itye ki { -brand-name-firefox-browser } { -brand-name-developer-edition } manyen loyo.

@@ -16,12 +16,7 @@ facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = Farðu á <a href="{ $url }">{ $link_copy }</a> til að fá { -brand-name-firefox } fyrir vinnutölvu.
-# Outdated string
-facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } forritsaukinn er ekki tiltækur fyrir snjalltæki.
 facebook-container-get-firefox-android-ios = Fáðu þér { -brand-name-firefox } fyrir { -brand-name-android } og { -brand-name-ios } núna.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Prófaðu <strong>{ -brand-name-firefox-focus }</strong>, persónuverndarvafrann fyrir { -brand-name-android } og { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Afþakkaðu á þínum forsendum
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

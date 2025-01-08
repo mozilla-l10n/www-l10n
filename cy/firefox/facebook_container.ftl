@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -16,12 +16,7 @@ facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = Ewch i <a href="{ $url }">{ $link_copy }</a> i gael { -brand-name-firefox } ar gyfer y Bwrdd Gwaith.
-# Outdated string
-facebook-container-the-facebook-container-extension = Nid yw'r { -brand-name-facebook-container } Extension ar gael ar gyfer dyfeisiau symudol.
 facebook-container-get-firefox-android-ios = Cael { -brand-name-firefox } ar gyfer { -brand-name-android } ac { -brand-name-ios } nawr.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Profwch <strong>{ -brand-name-firefox-focus }</strong>, y porwr preifat ar gyfer { -brand-name-android } ac { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Gosod eich amodau eich hunain
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

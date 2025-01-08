@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
@@ -14,7 +14,7 @@ misinformation-disinformation = Informações falsas, desinformação – você 
 misinformation-ultimately-harmful = Em última análise, tanto informações falsas como desinformação podem ser prejudiciais. Não se trata só de pessoas acreditarem em informações incorretas. Informações falsas custam muito dinheiro à economia global e podem ameaçar a democracia e a governança eficiente. E é difícil impedir, porque notícias falsas se espalham significativamente mais rápido, mais profundamente e mais amplamente do que notícias corretas.
 misinformation-false-info-heading = Onde aparecem informações falsas?
 # Variables:
-#   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
+#   $tracking (url) - link to https://blog.mozilla.org/products/firefox/firefox-privacy-protections/
 misinformation-widespread-online = Você pode se deparar com informações falsas e desinformação em qualquer lugar, mas são mais difundidas e impactantes quando compartilhadas online. Os algoritmos e o <a href="{ $tracking }">rastreamento</a> têm aumentado a capacidade de informações falsas e desinformação alcançarem uma audiência maior em sites, blogs, fóruns e redes sociais.
 misinformation-tracking-advertising = Você pode ter ouvido falar sobre rastreamento, principalmente no contexto de publicidade. No entanto, é também uma ferramenta poderosa quando se trata de espalhar informações falsas. Mas por quê? Quando você navega na internet ou em uma rede social, seu comportamento, interesses, contatos em alguns casos e muito mais são rastreados por diversos terceiros através de sites para traçar um perfil extremamente detalhado sobre você e vender para outros sem seu conhecimento ou consentimento. Esses perfis são usados para personalizar anúncios, mas também podem ser usados para apresentar a você qualquer tipo de informação direcionada.
 misinformation-social-newtorks = Quando você recebe recomendações de conteúdo em qualquer site ou rede social, geralmente é porque um algoritmo apresenta informações com base nas informações do seu perfil. Infelizmente, embora algoritmos estejam ficando cada vez mais inteligentes, eles não verificam a precisão dos conteúdos. Isso é particularmente problemático nas redes sociais. Essas redes mostram inúmeras informações para seus usuários todos os dias e têm acesso a uma quantidade quase ilimitada de conteúdo, incluindo publicações de usuários, notícias, anúncios e conteúdo patrocinado. Embora publicações e artigos possam espalhar informações falsas acidentalmente, anúncios e conteúdo patrocinado podem ser usados para direcionar informações falsas para você deliberadamente para te manipular, tornando essencial que você saiba como identificar informações falsas.

@@ -17,7 +17,7 @@ new-platform-advanced-install-options = Spertulaj instalaj elektebloj kaj aliaj 
 new-platform-download-in-another = Elŝuti en alia lingvo
 new-platform-need-help = Ĉu vi bezonas helpon?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = Elŝutu { -brand-name-mozilla } { -brand-name-firefox } por { -brand-name-linux }
 # /firefox/linux/ HTML page description

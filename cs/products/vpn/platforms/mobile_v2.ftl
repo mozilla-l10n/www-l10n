@@ -12,12 +12,6 @@ vpn-mobile-in-todays = V dnešním mobilním světě se při komunikaci, zábav�
 vpn-mobile-why-do-i = Proč potřebuji VPN na mobilním zařízení?
 vpn-mobile-the-mozilla-vpn = Mobilní aplikace { -brand-name-mozilla-vpn } je malá, takže nezabírá příliš mnoho paměti, nezpomaluje telefon a nezatěžuje vaši baterii.
 vpn-mobile-your-internet-v2 = Poskytovatel internetových služeb (ISP) může omezit šířku pásma, pokud ví, že sledujete filmy, posloucháte hudbu nebo streamujete.
-# Obsolete string
-vpn-mobile-your-internet = Poskytovatel internetových služeb (ISP) může omezit šířku pásma, pokud ví, že sledujete filmy, posloucháte hudbu nebo streamujete.
 vpn-mobile-your-isp-v2 = Poskytovatel internetu může blokovat webové stránky nebo služby, které se mu nelíbí nebo které konkurují jeho službám.
-# Obsolete string
-vpn-mobile-your-isp = Váš poskytovatel internetu může blokovat webové stránky nebo služby, které se mu nelíbí nebo které konkurují jeho vlastním.
 vpn-mobile-hackers-can-steal-v2 = Hackeři mohou ukrást vaše osobní údaje, když používáte veřejnou Wi-Fi, například v kavárnách nebo na letištích.
-# Obsolete string
-vpn-mobile-hackers-can-steal = Hackeři mohou ukrást vaše osobní údaje, když používáte veřejnou Wi-Fi, například v kavárnách nebo na letištích.
 vpn-mobile-a-vpn-works = VPN funguje na celém zařízení, nejen v prohlížeči, a tedy i v mobilních aplikacích. A na rozdíl od bezplatných VPN nebo proxy serverů, které mohou za své servery platit tím, že vás špehují a prodávají vaše informace, { -brand-name-mozilla } neuchovává záznamy o tom, kam chodíte a co děláte.

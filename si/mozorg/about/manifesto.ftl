@@ -18,7 +18,6 @@ manifesto-08 = ඌ
 manifesto-09 = එ
 manifesto-10 = ඒ
 manifesto-show-your-support = ඔබගේ සහයෝගය පෙන්වන්න
-manifesto-share-on-twitter = { -brand-name-twitter } හි බෙදාගන්න
 manifesto-read-the-entire-manifesto = සමස්ත ප්‍රතිපත්ති ප්‍රකාශනය කියවන්න
 manifesto-details-the-mozilla-manifesto = { -brand-name-mozilla } ප්‍රකාශනය
 manifesto-details-introduction = හැඳින්වීම

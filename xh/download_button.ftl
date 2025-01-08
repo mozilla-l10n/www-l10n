@@ -34,3 +34,6 @@ download-button-firefox-android = <span>i{ -brand-name-firefox }</span> kwi-{ -b
 download-button-firefox-ios = <span>i{ -brand-name-firefox }</span> kwi-{ -brand-name-ios }
 download-button-firefox-privacy = Ukuba yiMfihlelo kwe{ -brand-name-firefox }
 download-button-download = Khuphela
+
+## Linux
+

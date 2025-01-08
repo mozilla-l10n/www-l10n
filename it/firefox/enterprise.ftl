@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
@@ -44,5 +44,5 @@ firefox-enterprise-sample-plist-for-configuration = Esempio di <a href="{ $url }
 firefox-enterprise-pkg-installer = Programma di installazione PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } a 32 bit
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
 firefox-enterprise-download-firefox-esr-or-rapid = Scarica { -brand-name-firefox-esr } o ad aggiornamento rapido<br> <a href="{ $firefox_all }">in un’altra lingua o per un’altra piattaforma.</a>

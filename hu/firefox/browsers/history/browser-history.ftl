@@ -31,7 +31,7 @@ browser-history-the-browser-wars = A böngészőháborúk
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = 1995-re a { -brand-name-netscape } Navigator nem az egyetlen módja volt az internetezésnek. A { -brand-name-microsoft } számítógépes szoftveróriás licencelte a régi Mosaic kódját, és saját ablakot nyitott a világhálóra, az <a href="{ $ie }">{ -brand-name-ie }</a>-t. A kiadás háborút indított. A { -brand-name-netscape } és a { -brand-name-microsoft } lázasan dolgoztak programjaik új verzióinak elkészítésén, mindegyik gyorsabb, jobb termékekkel próbálta felülmúlni a másikat.
 # Variables:
-#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = A { -brand-name-netscape } létrehozta és kiadta a JavaScriptet, amely a webhelyeknek példátlan számítási lehetőségeket adott. (Létrehozták a hírhedt <a href="{ $blink }">&lt;blink&gt; címkét</a> is.) A { -brand-name-microsoft } a Cascading Style Sheetsszel (CSS) válaszolt, amely a weboldaltervezés szabványa lett.
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1

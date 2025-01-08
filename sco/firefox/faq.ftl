@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -11,7 +11,7 @@ what-is-firefox = Whit is { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 how-do-i = How dae I get the { -brand-name-firefox-browser }?
 
@@ -36,7 +36,7 @@ is-firefox-safe-download = Is { -brand-name-firefox } siccar tae doonload?
 is-firefox-safe = Is { -brand-name-firefox } sauf?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 
 # Variables:
@@ -49,11 +49,6 @@ does-firefox-use = Daes { -brand-name-firefox } yaise { -brand-name-google }?
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
 does-firefox-have = Daes { -brand-name-firefox } hae an in-biggit VPN?
-
-# Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org

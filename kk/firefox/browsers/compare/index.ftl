@@ -5,5 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
-compare-index-conclusion = Қорытынды:
-compare-index-and-the-winner-is = Ал жеңімпаз болса…

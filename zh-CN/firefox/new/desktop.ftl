@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } 一开始
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = 随着互联网的发展和改变，{ -brand-name-firefox } 更加注重于保护您的隐私权 — 我们称之为<a { $attrs }>个人数据承诺</a>：索取更少、确保安全、绝不隐瞒。{ -brand-name-firefox } 承诺保护您的数据、网络活动及在线生活。
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } 在您所有设备上皆可用。只需创建 <a { $attrs }>{ -brand-name-firefox } 账户</a>，即可无缝同步标签页、历史记录与书签。
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } 在各种设备上都能用，您可以把标签页、历史记录和书签随身带着走。只需登录 <a { $attrs }>{ -brand-name-mozilla-account }</a>即可使用同步服务以及更多 { -brand-name-mozilla } 产品。
@@ -146,13 +142,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } 会自�
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = 有问题？<a { $attrs }>{ -brand-name-mozilla } 用户支持</a> 能帮上忙。
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = 浏览器安装完成。接下来开启更多功能，让 { -brand-name-firefox } 火力全开！
 firefox-desktop-download-watch-for-hackers-with-v3 = 使用 { -brand-name-mozilla-monitor } 监视骇客行为、使用 { -brand-name-firefox-relay } 保护您的电子邮件地址等等。
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = 使用 { -brand-name-firefox-monitor } 监视黑客行为、使用 { -brand-name-firefox-relay } 保护邮箱，还有种种待您探索。
-firefox-desktop-download-get-more-from-firefox = 让 { -brand-name-firefox } 火力全开
-firefox-desktop-download-just-download-the-browser = 只需下载浏览器
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -190,4 +180,3 @@ firefox-desktop-download-please-follow = 请按照<a href="{ $url }">这些步�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = 您的系统可能不符合 { -brand-name-firefox } 的运行需求，但您也可以试试<a href="{ $url }">这些版本</a>。
-firefox-desktop-download-taskbar = { -brand-name-firefox } 将在安装后固定至 { -brand-name-windows } 任务栏

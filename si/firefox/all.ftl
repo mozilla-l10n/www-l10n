@@ -5,24 +5,17 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = පද්ධති අවශ්‍යතා පරීක්‍ෂා කරන්න
-firefox-all-release-notes = නිකුතු සටහන්
-firefox-all-source-code = ප්‍රභව කේතය
-firefox-all-need-help = උදව් වුවමනා ද?
-firefox-all-which-browser-would = ඔබ බාගැනීමට කැමති අතිරික්සුව කුමක්ද?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = උදව් ගන්න
-firefox-all-you-are-about-to-download = ඔබ බාගැනීමට සූදානම්:
-firefox-all-browser = අතිරික්සුව:
-firefox-all-platform = වේදිකාව:
-firefox-all-language = භාෂාව:
 firefox-all-lang-multi = බහු භාෂා
 firefox-all-sorry-we-couldnt-find = කණගාටුයි, ඔබ සොයන බාගැනීම අපට හමු නොවිණි. කරුණාකර නැවත උත්සාහ කරන්න, නැතහොත් පහත ලේඛනයෙන් බාගැනීමක් තෝරන්න
 firefox-all-the-pre-alpha-version = දෝෂ හඳුනා ගැනීමට සහ නව විශේෂාංග කේතනය කළ විගස ඒවා අත්හදා බැලීමට කැමති තාක්‍ෂණික පරිශ්‍රීලකයින් සඳහා වන පූර්ව ඇල්ෆා සංස්කරණය
 firefox-all-64-bit-installers = බිටු-64 ස්ථාපක
 firefox-all-32-bit-installers = බිටු-32 ස්ථාපක
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = සැවොම අන්තර්ජාලය වෙත ප්‍රවේශය ලැබීමට සුදුසුයි — ඔබගේ භාෂාවට කිසි විටෙක හානි නොවිය යුතුය. එබැවින් — ලොව පුරා සිටින සමර්පිත ස්වේච්ඡා දායකයින්ගේ සහාය සහිතව — { -brand-name-firefox-browser } භාෂා 90 කට වඩා වැඩි ගණනකින් ලබා දේ.
+firefox-all-check-the-system-requirements = පද්ධති අවශ්‍යතා පරීක්‍ෂා කරන්න
+firefox-all-release-notes = නිකුතු සටහන්
+firefox-all-source-code = ප්‍රභව කේතය
+firefox-all-need-help = උදව් වුවමනා ද?
 firefox-all-choose-which-firefox = ඔබගේ භාෂාවෙන් { -brand-name-firefox-browser } බාගැනීමට තෝරන්න
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } රහස්‍යතා දැන්වීම
 firefox-all-learn-about-firefox = { -brand-name-firefox } අතිරික්සු ගැන දැන ගන්න

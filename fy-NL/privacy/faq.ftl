@@ -16,13 +16,9 @@ privacy-faq-at-mozilla-we-respect-and-protect = { -brand-name-mozilla } respekte
 privacy-faq-we-follow-a-set-of-data-privacy = Wy folgje in oantal <a href="{ $link }">Prinsipen oer gegevensprivacy</a> dy’t ús oanpak fan privacy yn de mobile en desktopferzjes fan { -brand-name-firefox } foarmjaan.
 privacy-faq-we-only-collect-the-data-we = Wy sammelje allinnich gegevens dy’t nedich binne om de bêste produkten te meitsjen.
 privacy-faq-we-put-people-in-control-of = Wy jouwe minsken kontrôle oer harren gegevens en onlinebelibbingen.
-# Obsolete string (expires 2024-09-11)
-privacy-faq-we-adhere-to-no-surprises-principle = Wy hâlde fêst oan it prinsipe fan ‘gjin ferrassingen’, wat ynhâldt dat wy hurd wurkje oan begryp foar { -brand-name-firefox } en de werklikheid.
 privacy-faq-we-adhere-to-no-surprises-principle-v2 = Wy hâlde ús oan it prinsipe fan ‘gjin ferrassingen’, wat ynhâldt dat wy hurd wurkje oan it byld dat brûkers hawwe fan { -brand-name-firefox } en de werklikheid.
 privacy-faq-the-following-questions-and = De folgjende fragen en antwurden soene helpe moatte te begripen wat jo fan { -brand-name-mozilla } en { -brand-name-firefox } ferwachtsje kinne:
 privacy-faq-i-use-firefox-for-almost-everything = Ik brûk { -brand-name-firefox } foar hast alles op it web. Jimme by { -brand-name-mozilla } moatte wol in hiel protte oer my witte, net wier?
-# Obsolete string (expires 2024-09-11)
-privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, de webbrowser dy’t op jo apparaat of kompjûter wurket, is jo tagongspoarte nei it ynternet. Jo browser beheart in protte ynformaasje oer de websites dy’t jo besykje, mar dy ynformaasje bliuwt op jo apparaat. { -brand-name-mozilla }, it bedriuw dat { -brand-name-firefox } makket, sammelet dizze ynformaasje net (útsein jo ús freegje dit te dwaan).
 privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, de webbrowser dy’t op jo apparaat of kompjûter wurket, is jo tagongspoarte nei it ynternet. Jo browser beheart in protte ynformaasje oer de websites dy’t jo besykje, mar dy ynformaasje bliuwt oer it algemien op jo apparaat. { -brand-name-mozilla }, it bedriuw dat { -brand-name-firefox } makket, sammelet dizze ynformaasje net (útsein jo ús freegje dit te dwaan).
 privacy-faq-really-you-dont-collect-my-browsing = Sammelje jimme myn browserskiednis echt net?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } wit net sa folle oer hoe’t minsken op it web sneupe as jo dat ferwachtsje soene. As browsermakker is dat eins in grutte útdaging foar ús. Dêrom hawwe wy opsjonele helpmiddelen boud, wêrmei’t ynteressearre brûkers ús ynsichten oer harren sneupgedrach jaan kinne. As jo jo browserskiednis tusken { -brand-name-firefox }-ynstallaasjes syngronisearje, witte wy net wat dy skiednis is - omdat dizze troch jo apparaat fersifere wurdt.
@@ -34,11 +30,6 @@ privacy-faq-wait-so-how-do-you-make-money = Mar wacht, hoe fertsjinje jin dan ji
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } is gjin gemiddelde organisaasje. { -brand-name-mozilla } is yn 1998 oprjochte as in troch de mienskip ûnderhâlden iepenboarneprojekt en in troch in missy dreaune organisaasje dy’t nei in sûner ynternet tawurket. De mearderheid fan de ynkomsten fan de { -brand-name-mozilla-corporation } is ôfkomstich fan royalty’s dy’t fia partnerferbannen mei sykmasinen yn de { -brand-name-firefox }-browser en distribúsjeoerienkomsten oer de hiele wrâld krigen wurde. Mear ynformaasje oer hoe’t wy jild fertsjinje kinne jo fine yn ús <a href="{ $link }">finansjeel jierferslach</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Oké, de earste wiene maklike fragen. Hokker gegevens sammelje jimme?
-# Obsolete string (expires 2024-09-11)
-# Variables:
-#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
-#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } sammelet standert wol in beheinde hoemannichte gegevens fan { -brand-name-firefox } út dy’t ús helpe begripe hoe’t minsken de browser brûke. Dy gegevens wurde oan samar in identifikator keppele, yn stee fan jo namme of e-mailadres. Mear dêroer kinne jo yn ús <a href="{ $privacy }">privacyferklearring</a> lêze, krekt as de <a href="{ $data }">folsleine dokumintaasje foar dy gegevenssammeling</a>.
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
@@ -48,17 +39,9 @@ privacy-faq-we-make-our-documentation-public = Wy meitsje ús dokumintaasje iepe
 privacy-faq-that-documentation-is-gobbledygook = Dy dokumintaasje is abrakadabra foar my! Kinne jimme it yn normaal Frysk/Nederlâns útlizze?
 privacy-faq-there-are-two-categories-of = Der binne twa kategoryen gegevens dy’t wy standert sammelje yn ús releaseferzje fan { -brand-name-firefox }.
 privacy-faq-the-first-is-what-we-call-technical = De earste is wat wy ‘technyske gegevens’ neame. Dit binne gegevens oer de browser sels, lykas it bestjoeringssysteem wêryn dizze wurket en ynformaasje oer flaters of ûngelokken.
-# Obsolete string (expires 2024-09-11)
-privacy-faq-the-second-is-what-we-call-interaction = De twadde is wat wy ‘ynteraksjegegevens’ neame. Dit binne gegevens oer de belutsenheid fan in yndividu mei { -brand-name-firefox }, lykas it oantal ljepblêden dat iepene wie, de steat fan brûkersfoarkarren, of it oantal kearen dat bepaalde browserfunksjes brûkt binne, lykas skermôfbyldingen of konteners. Dizze gegevens sammelje wy bygelyks yn ferbân ta de tebekknop, dat pylkje yn de linkerboppehoek fan jo browser wêrmei't jo nei in foarige side tebekgean kinne, op in manier dy’t ús fertelt dat ien de tebekknop brûkt hat, mar net fertelt hokker websiden besocht waard.
 privacy-faq-the-second-is-what-we-call-interaction-v2 = De twadde is wat wy ‘ynteraksjegegevens’ neame. Dit binne gegevens oer de belutsenheid fan in yndividu mei { -brand-name-firefox }, lykas it oantal ljepblêden dat iepene wie, de steat fan brûkersfoarkarren, of it oantal kearen dat bepaalde browserfunksjes brûkt binne, lykas skermôfbyldingen of konteners. Dizze gegevens sammelje wy bygelyks fia de tebekknop, dat pylkje yn de linkerboppehoek fan jo browser wêrmei't jo nei in foarige side tebekgean kinne, op in manier dy’t ús fertelt dat ien de tebekknop brûkt hat, mar net fertelt hokker websiden besocht waard.
 privacy-faq-do-you-collect-more-data-in = Sammelje jimme mear gegevens yn pre-releaseferzjes fan { -brand-name-firefox }?
-# Obsolete string (expires 2024-09-11)
-privacy-faq-sort-of-in-addition-to-the-data = Min of mear. Neist de hjirboppe beskreaune gegevens ûntfange wy standert ûngelok- en flaterrapporten yn pre-releaseferzjes fan { -brand-name-firefox }.
 privacy-faq-sort-of-in-addition-to-the-data-v2 = Min of mear. Neist de hjirboppe beskreaune gegevens ûntfange wy standert ûngelok- en flaterrapporten yn pre-releaseferzjes fan { -brand-name-firefox }.
-# Obsolete string (expires 2024-09-11)
-# Variables:
-#   $link (url) - link to https://support.mozilla.org/kb/shield
-privacy-faq-we-may-also-collect-additional = Mooglik sammelje wy ek oanfoljende gegevens yn pre-releaseferzjes foar ien fan ús <a href="{ $link }">ûndersiken</a>. Guon ûndersiken fereaskje bygelyks wat wy ‘webaktiviteitgegevens’ neame, dy’t URL’s en oare ynformaasje oer bepaalde websites befetsje kinne. Dit helpt ús spesifike fragen oer it ferbetterjen fan { -brand-name-firefox } te beäntwurdzjen, lykas hoe populêre websites yn bepaalde talen better yntegrearre wurde kinne.
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional-v2 = Mooglik sammelje wy ek oanfoljende gegevens yn pre-releaseferzjes foar ien fan ús <a href="{ $link }">ûndersiken</a>. Guon ûndersiken fereaskje bygelyks wat wy ‘webaktiviteitgegevens’ neame, dy’t URL’s en oare ynformaasje oer bepaalde websites befetsje kinne. Dit helpt ús spesifike fragen oer it ferbetterjen fan { -brand-name-firefox } te beäntwurdzjen, lykas hoe’t populêre websites yn bepaalde talen better yntegrearre wurde kinne.

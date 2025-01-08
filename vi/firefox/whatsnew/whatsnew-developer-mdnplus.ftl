@@ -8,8 +8,6 @@
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest-v2 = Chúc mừng. Bây giờ bạn đã có phiên bản mới nhất của { -brand-name-firefox-developer-edition }.
-# Obsolete string (expires: 2024-05-14)
-developer-mdnplus-congrats-you-now-have-latest = Chúc mừng. Bạn hiện có phiên bản mới nhất của { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = { -brand-name-mdn } nhiều hơn. { -brand-name-mdn } <em>của bạn</em> .
 developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } là một dự án mã nguồn mở, hợp tác ghi lại các công nghệ nền tảng Web, bao gồm CSS, HTML, JavaScript và Web API. Chúng tôi cũng cung cấp một bộ tài nguyên học tập phong phú cho các nhà phát triển và sinh viên mới bắt đầu.

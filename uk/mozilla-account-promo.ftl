@@ -9,11 +9,6 @@ moz-account-promo-title = Один вхід. <br> <span { $class }>Усі дан
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
 moz-account-already-have-v2 = Вже маєте обліковий запис? <a { $sign_in_url }>Увійдіть</a> або <a { $learn_more_url }>дізнайтеся більше</a> про те, як приєднатися до { -brand-name-mozilla }
-# Obsolete string (expires: 2024-09-12)
-# Variables
-#   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
-moz-account-already-have = Вже маєте обліковий запис? <a { $sign_in_url }>Увійдіть</a> або <a { $learn_more_url }>дізнайтеся більше</a> про { -brand-name-mozilla }
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
 moz-account-product-pocket = { -brand-name-pocket }

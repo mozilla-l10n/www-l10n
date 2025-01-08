@@ -1,13 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
 
 history-history-of-the-mozilla-project = { -brand-name-mozilla } ਪਰੋਜੈਕਟ ਦਾ ਇਤਿਹਾਸ
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = { -brand-name-mozilla } ਪਰੋਜੈਕਟ <a href="{ $coderush }"> 1998 ਵਿੱਚ ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਸੀ </a> <a href="{ $sourcerelease }"> { -brand-name-netscape } ਬਰਾਊਜ਼ਰ ਸੂਟ ਸੋਰਸ ਕੋਡ ਨੂੰ ਜਾਰੀ ਕਰਨ </a>।
 history-it-was-intended-to-harness = ਇਸ ਦਾ ਉਦੇਸ਼ ਇੰਟਰਨੈਟ ਤੇ ਹਜ਼ਾਰਾਂ ਪ੍ਰੋਗਰਾਮਰਸ ਦੀ ਰਚਨਾਤਮਕ ਸ਼ਕਤੀ ਨੂੰ ਵਰਤਣਾ ਅਤੇ ਬ੍ਰਾਉਜ਼ਰ ਮਾਰਕੀਟ ਵਿਚ ਬੇਮਿਸਾਲ ਪੱਧਰ ਦੇ ਨਵੀਨਤਾ ਦੀ ਵਰਤੋਂ ਕਰਨਾ ਸੀ।

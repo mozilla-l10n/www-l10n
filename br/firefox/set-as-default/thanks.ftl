@@ -7,6 +7,5 @@
 
 set-as-default-thanks-travel-the-internet-with = Merdeit en un doare gwarezet war internet war ho holl drevnadoù.
 set-as-default-thanks-download-the-app = Pellgargañ an arload
-set-as-default-thanks-join-firefox = Tremen da { -brand-name-firefox }
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Kaout ur gont

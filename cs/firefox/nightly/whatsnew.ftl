@@ -14,13 +14,9 @@ nightly-whatsnew-every-4-to-5-weeks = Každých 4 až 5 týdnů vychází nová 
 nightly-whatsnew-this-is-a-good = Nyní je správný čas poděkovat vám za pomoc s vylepšováním { -brand-name-firefox(case: "gen") } a nabídnout vám pár odkazů na dokumentaci, komunikační kanály a zpravodaje týkající se { -brand-name-nightly(case: "gen") }.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = Pokud chcete vědět, co se děje kolem { -brand-name-nightly } a jeho komunity, přečtěte si náš <a { $blog }>blog</a> a sledujte nás na sítích <a { $mastodon }>Mastodon</a> nebo <a { $twitter }>X</a>!
-# Variables:
-#   $attrs (string) - link href and additional attributes
-# Obsolete string (expires: 2024-11-26)
-nightly-whatsnew-want-to-know-which-v2 = Chcete vědět, které funkce můžete s { -brand-name-nightly(case: "ins") } otestovat a které zatím nejsou v žádné jiné verzi { -brand-name-firefox(case: "gen") }? Pak se podívejte na stránku <a { $attrs }>Nightly Experiments</a>.
 # Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v3 = Chcete vědět, které funkce můžete s { -brand-name-nightly(case: "ins") } otestovat a které zatím nejsou v jiných kanálech s { -brand-name-firefox(case: "gen") }? Pak se podívejte na stránku nastavení <a { $attrs }>{ -brand-name-firefox-labs }</a>.

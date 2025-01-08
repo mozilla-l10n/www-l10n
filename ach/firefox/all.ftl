@@ -5,22 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+# Used as an accessible label for a help button. The text is replaced with a "?" icon.
+firefox-all-get-help = Nong kony
+firefox-all-lang-multi = Kwai leb mapol
+firefox-all-sorry-we-couldnt-find = Timwa kica, pe watwero nongo gam ma itye ka yenyo ne ni. Tim ber item doki, onyo yer gam ki i kin jami ma piny ni.
 firefox-all-check-the-system-requirements = Rot jami ma mite pi nyonyo
 firefox-all-release-notes = Coc me cwalo woko
 firefox-all-need-help = Imito kony?
-firefox-all-which-browser-would = Layeny mene ma imito gamo?
-# Used as an accessible label for a help button. The text is replaced with a "?" icon.
-firefox-all-get-help = Nong kony
-firefox-all-you-are-about-to-download = Icok ki gamo:
-firefox-all-browser = Layeny:
-firefox-all-platform = Nyonyo:
-firefox-all-language = Leb:
-firefox-all-lang-multi = Kwai leb mapol
-firefox-all-sorry-we-couldnt-find = Timwa kica, pe watwero nongo gam ma itye ka yenyo ne ni. Tim ber item doki, onyo yer gam ki i kin jami ma piny ni.
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Gam { -brand-name-firefox-browser } i Leb muno ki i leb mukene ma kato 90
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Omyero ki dano weng me nongo intanet — leb mamegi pe myero obed lageng. Pi meno — ki kony pa lumi kony ma gi odyere ki i but wilobo — wa weko { -brand-name-firefox-browser } bedo tye i leb makato 90.
 firefox-all-choose-which-firefox = Yer { -brand-name-firefox-browser } mene me agama i leb mamegi
 firefox-all-firefox-privacy-notice = Ngec me Mung pa { -brand-name-firefox }
 firefox-all-learn-about-firefox = Nong ngec ikom layeny me { -brand-name-firefox }

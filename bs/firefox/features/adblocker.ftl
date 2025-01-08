@@ -31,18 +31,6 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> je jo�
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Ove ekstenzije odlično rade i na <a { $attrs1 }>{ -brand-name-firefox } za desktop</a> i <a { $attrs2 }>Android</a>.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = Postoji <a href="{ $url }">AdBlocker Ultimate</a> koji se oslobađa svakog pojedinog oglasa, ali kupac pazi. Neke od vaših omiljenih novina i časopisa oslanjaju se na reklamu. Previše ljudi koji blokiraju njihove oglase moglo bi ih onemogućiti.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Oglasi u iskočnim prozorima su najgori. Riješi ih se za sva vremena pomoću <a href="{ $url }">blokera skočnih prozora</a>.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Jedan od najpopularnijih blokera oglasa za { -brand-name-chrome }, { -brand-name-safari } i { -brand-name-firefox } je <a href="{ $url }">AdBlock</a>. Blokiraj pomoću njega oglase na { -brand-name-facebook }u, { -brand-name-youtube }u i { -brand-name-hulu }u.
 features-adblocker-create-a-tracker-free = Stvori područje u kojem te ne prate blokiranjem sadržaja
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

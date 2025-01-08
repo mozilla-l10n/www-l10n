@@ -52,8 +52,6 @@ manifesto-we-are-committed-to-diverse = Vi vil et internet, der fremmer samarbej
 manifesto-show-your-support = Vis at du bakker op
 manifesto-an-internet-with-these = Et internet med disse kvaliteter kommer ikke af sig selv. Udviklere og organisationer skal indtænke dem i internetteknologien og i brugeroplevelsen på internettet. { -brand-name-mozilla }-manifestet og dets tillæg repræsenterer { -brand-name-mozilla }s forpligtelse til at forfølge disse mål. Vi sigter på at samarbejde med organisationer som deler disse mål om at gøre internettet til et bedre sted for alle.
 manifesto-i-support-the-vision-of = Jeg støtter visionen fra @mozilla om et bedre og mere sundt internet, vil du være med?
-# Obsolete string
-manifesto-share-on-twitter = Del på { -brand-name-twitter }
 manifesto-share-on-x = Del på X
 manifesto-share-on-x-aria-label = Del på X (tidligere Twitter)
 manifesto-our-10-principles = <strong>Vores 10</strong> principper

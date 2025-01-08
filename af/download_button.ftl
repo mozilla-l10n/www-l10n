@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Laai nou af
 download-button-free-download = Laai gratis af
@@ -34,3 +34,6 @@ download-button-firefox-android = <span>{ -brand-name-firefox }</span> vir { -br
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> vir { -brand-name-ios }
 download-button-firefox-privacy = { -brand-name-firefox }-privaatheid
 download-button-download = Laai af
+
+## Linux
+

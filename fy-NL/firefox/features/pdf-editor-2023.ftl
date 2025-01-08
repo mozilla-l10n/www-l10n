@@ -7,8 +7,6 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = PDF-bewurker
-# Obsolete string (expires: 2024-06-17)
-pdf-editor-add-text-to-pdfs = Foegje tekst ta oan PDF’s mei de PDF-bewurker fan { -brand-name-firefox }
 # page title
 pdf-editor-add-text-to-pdfs-v2 = Bewurkje PDF’s fergees mei { -brand-name-firefox } PDF Editor
 # HTML page description

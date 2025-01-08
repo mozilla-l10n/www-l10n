@@ -59,4 +59,3 @@ firefox-new-fast = Malsny, priwatny a dermotny
 firefox-new-from-mozilla = wót { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } jo dwrmotny webwobglědowak, kótaryž boki malsnje zacytujo, mjenjej składa wužywa a wjele funkcijow ma - projekt za wše wužytneje organizacije { -brand-name-mozilla }.
 firefox-new-download-a-different = Firefox za druge platformy abo rěcy ześěgnuś
-firefox-new-taskbar = { -brand-name-firefox } buźo pśipěty pó instalaciji na nadawkowej rědce { -brand-name-windows }.

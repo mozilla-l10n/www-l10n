@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -30,7 +30,6 @@ manifesto-07 = 07
 manifesto-08 = 08
 manifesto-09 = 09
 manifesto-10 = 10
-manifesto-share-on-twitter = Compartir en { -brand-name-twitter }
 manifesto-details-introduction = Introducción
 manifesto-details-principles = Principios
 manifesto-details-the-internet-is-global = Internet ye un recursu públicu global qu'ha siguir siendo abiertu y accesible.

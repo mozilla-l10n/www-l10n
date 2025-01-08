@@ -9,9 +9,7 @@
 set-as-default-landing-make-firefox-your-default = Gör { -brand-name-firefox } till din standardwebbläsare
 # HTML page description
 set-as-default-landing-choose-the-browser = Välj webbläsaren som skyddar din integritet. Ställ in { -brand-name-firefox } som din standardwebbläsare.
-# Obsolete string
 set-as-default-landing-thanks-for-using-the = Tack för att du använder den senaste { -brand-name-firefox }-webbläsaren. Genom att välja { -brand-name-firefox } stöder du en bättre webb för dig och alla andra. Ta nu nästa steg för att skydda dig själv.
-# Obsolete string
 set-as-default-landing-make-sure-youre-protected = Se till att du är skyddad varje gång du surfar
 set-as-default-landing-you-should-get = Du bör få inflytande över hur du surfar
 set-as-default-landing-if-you-recently = Om du nyligen uppdaterade din dator kan dina inställningar ha ändrats. Stöd ett gratis och öppet internet varje gång du är online med { -brand-name-firefox }.

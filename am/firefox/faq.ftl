@@ -11,7 +11,7 @@ what-is-firefox = { -brand-name-firefox } ምንድን ነው?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 how-do-i = { -brand-name-firefox-browser }ን እንዴት ማግኘት እችላለሁ?
 
@@ -38,7 +38,7 @@ is-firefox-safe-download = { -brand-name-firefox } ለማውረድ ደህንነ�
 is-firefox-safe = { -brand-name-firefox } ደህንነቱ የተጠበቀ ነው?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 does-firefox-sell = { -brand-name-firefox } የእርስዎን የግል ውሂብ ይሸጣል?
 
@@ -52,11 +52,6 @@ does-firefox-use = { -brand-name-firefox } { -brand-name-google }ን ይጠቀ�
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
 does-firefox-have = { -brand-name-firefox } አብሮ የተሰራ VPN አለው?
-
-# Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
 related-questions-ip = ተዛማጅ ጥያቄዎች፡- { -brand-name-firefox } የእርስዎን አይፒ አድራሻ ይደብቃልን
 who-owns-firefox = የ{ -brand-name-firefox } ባለቤት ማነው?
 

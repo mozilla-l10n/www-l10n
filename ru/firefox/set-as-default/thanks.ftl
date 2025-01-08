@@ -22,10 +22,6 @@ set-as-default-thanks-youre-all-set = Всё готово.
 set-as-default-thanks-get-firefox-for-mobile = Загрузить мобильный { -brand-name-firefox }
 set-as-default-thanks-travel-the-internet-with = Путешествуйте по Интернету с защитой на всех ваших устройствах.
 set-as-default-thanks-download-the-app = Загрузить приложение
-# Obsolete string
-set-as-default-thanks-join-firefox = Присоединитесь к { -brand-name-firefox }
-# Obsolete string
-set-as-default-thanks-sign-up-for-a-free-account = Зарегистрируйте бесплатный аккаунт и синхронизируйте все свои пароли, историю веб-сёрфинга и настройки между всеми своими устройствами.
 set-as-default-create-an-account = Создать аккаунт
 set-as-default-thanks-sign-up-for-a-free-account-v2 = Зарегистрируйте бесплатный аккаунт { -brand-name-mozilla-account } и синхронизируйте все свои пароли, историю веб-сёрфинга и настройки между всеми своими устройствами.
 # Account here refers to a Firefox Account

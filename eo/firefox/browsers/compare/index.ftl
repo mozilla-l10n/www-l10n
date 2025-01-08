@@ -5,4 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
-compare-index-conclusion = Konkludo:

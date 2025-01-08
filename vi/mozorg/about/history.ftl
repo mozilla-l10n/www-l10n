@@ -1,13 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
 
 history-history-of-the-mozilla-project = Lịch sử của dự án { -brand-name-mozilla }
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = Dự án { -brand-name-mozilla } đã <a href="{ $coderush }">tạo trong năm 1998</a> với <a href="{ $sourcerelease }">phát hành mã nguồn bộ trình duyệt { -brand-name-netscape }</a>.
 history-it-was-intended-to-harness = Nó được thiết kế nhằm khai thác sức mạnh sáng tạo của hàng nghìn lập trình viên trên internet và thúc đẩy mức độ đổi mới chưa từng có trên thị trường trình duyệt.

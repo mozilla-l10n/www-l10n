@@ -10,8 +10,6 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = Iminig { -brand-name-firefox } i { -brand-name-android } d arurad, d aɣellsan, d uslig seg mi ara t-teldiḍ.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = Uɣal ɣer uziraz. Ili-k•ikem d t•ilelli•t akked { -brand-name-firefox } i { -brand-name-android }
 mobile-android-get-firefox-for = Awi { -brand-name-firefox } i { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Azen aseɣwen n usader ɣer tiliɣri-ik.
 mobile-android-scan-the-qr-code-to-get-started = Ṭṭef tangalt QR akken ad tebduḍ

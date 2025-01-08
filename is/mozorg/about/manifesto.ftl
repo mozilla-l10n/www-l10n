@@ -52,7 +52,6 @@ manifesto-we-are-committed-to-diverse = Við erum staðráðin í að viðhalda 
 manifesto-show-your-support = Sýndu stuðning þinn í verki
 manifesto-an-internet-with-these = Internet með þessa eiginleika mun ekki lifna við af sjálfu sér. Einstaklingar og stofnanir verða að þætta þessar vonir inn í nettækni og inn í mannlega upplifun af internetinu. Stefnuskrá { -brand-name-mozilla } og viðaukinn við hana standa fyrir skuldbindingu { -brand-name-mozilla } til að efla þessar vonir. Við stefnum að því að vinna saman með því fólki og samtökum alls staðar sem deila þessum markmiðum til að gera internetið að enn betri stað fyrir alla.
 manifesto-i-support-the-vision-of = Ég styð framtíðarsýnina um betra og heilbrigðara internet frá @mozilla, viltu taka þátt með mér?
-manifesto-share-on-twitter = Deila á { -brand-name-twitter }
 manifesto-our-10-principles = <strong>10</strong> grundvallaratriði okkar
 manifesto-read-the-entire-manifesto = Lestu alla stefnuskrána okkar
 manifesto-love-the-web = Finnst þér vænt um vefinn?

@@ -40,3 +40,6 @@ download-button-firefox-privacy = Mung me { -brand-name-firefox }
 download-button-firefox-privacy-notice = Ngec me Mung pa { -brand-name-firefox }
 download-button-download = Kwany
 download-firefox-esr = Gam { -brand-name-firefox-esr }
+
+## Linux
+

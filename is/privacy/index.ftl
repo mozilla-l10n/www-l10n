@@ -7,5 +7,3 @@
 
 privacy-index-contact-mozilla = Hafa samband við { -brand-name-mozilla }
 privacy-index-get-involved = Taktu þátt
-privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
-privacy-index-hubs = { -brand-name-mozilla-hubs }

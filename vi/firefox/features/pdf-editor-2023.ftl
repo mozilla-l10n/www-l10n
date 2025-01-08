@@ -7,8 +7,6 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = Trình chỉnh sửa PDF
-# Obsolete string (expires: 2024-06-17)
-pdf-editor-add-text-to-pdfs = Thêm văn bản vào tập tin PDF bằng trình chỉnh sửa PDF của { -brand-name-firefox }
 # page title
 pdf-editor-add-text-to-pdfs-v2 = Chỉnh sửa tập tin PDF miễn phí với Trình chỉnh sửa PDF của { -brand-name-firefox } PDF
 # HTML page description

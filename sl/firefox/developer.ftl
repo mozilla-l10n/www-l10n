@@ -11,8 +11,6 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } je noro hiter brskalnik, ki ponuja najsodobnejša orodja za razvijalce in najnovejše možnosti, kot je podpora za mreže CSS in razhroščevanje ogrodij
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser(zacetnica: "velika") } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Dobrodošli v svojem novem najljubšem brskalniku. Postrezite si z najnovejšimi možnostmi, izboljšano zmogljivostjo in razvijalskimi orodji, ki jih potrebujete za ustvarjanje odprtega spleta.
 firefox-developer-speak-up = Spregovorite
 firefox-developer-feedback-makes-us = Vaše povratne informacije nas izboljšujejo. Povejte nam, kako lahko izboljšamo brskalnik in orodja za razvijalce.
@@ -75,15 +73,11 @@ firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-develo
 firefox-developer-download-the-firefox-browser = Prenesite brskalnik { -brand-name-firefox }, ustvarjen za razvijalce
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } je bil popolnoma prenovljen, da bo hitrejši, lepši in močnejši kot kdajkoli prej.
 firefox-developer-welcome-to-firefox-developer-edition = Dobrodošli v brskalniku { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = Dobrodošli v { -brand-name-firefox-browser(sklon: "mestnik") } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Brskalnik, ustvarjen za razvijalce
 firefox-developer-all-the-latest-v2 = Vsa najnovejša razvojna orodja iz beta različice skupaj z zmogljivostmi, kot sta večvrstični urejevalnik konzole in pregledovalnik WebSocket.
 firefox-developer-a-separate-profile = Po zaslugi <strong>ločenega profila in programskega imenika</strong> lahko brez težav deluje sočasno z izdajno ali { -brand-name-beta } različico { -brand-name-firefox(sklon: "rodilnik") }.
 firefox-developer-preferences-tailored = Nastavitve, <strong>prikrojene spletnim razvijalcem</strong>: razhroščevanje brskalnika in oddaljeno razhroščevanje sta privzeto vključeni, kot tudi temna tema in gumb orodne vrstice za razvijalce.
 firefox-developer-congrats-you-now-have-latest-v2 = Zdaj imate najnovejšo različico { -brand-name-firefox-developer-edition(sklon: "rodilnik") }.
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = Čestitamo. Sedaj imate najnovejšo različico { -brand-name-firefox-browser(sklon: "rodilnik") } { -brand-name-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Če želite izvedeti, kaj je novega, si oglejte <a { $attrs }>opombe ob izdaji</a> (samo v angleščini).

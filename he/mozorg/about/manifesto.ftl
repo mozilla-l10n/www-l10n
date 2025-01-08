@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -30,28 +30,7 @@ manifesto-09 = 09
 manifesto-10 = 10
 manifesto-show-your-support = הצגת התמיכה שלך
 manifesto-i-support-the-vision-of = תמיכתי נתונה לחזון של אינטרנט טוב יותר ובריא יותר בשיתוף עם ‎@mozilla, אפשר להזמין אותך להצטרף אלי?
-manifesto-share-on-twitter = שיתוף ב־{ -brand-name-twitter }
 manifesto-our-10-principles = <strong>עשרת</strong> העקרונות שלנו
-manifesto-explore-how-the-web-impacts = לעיון כיצד האינטרנט משפיע על המדע
-manifesto-learn-about-open-source = מידע על קוד פתוח בעיתונות
-manifesto-explore-how-to-help-keep = מידע כיצד להשאיר את האינטרנט פתוח
-manifesto-see-how-the-web-can-connect = להצצה כיצד האינטרנט מחבר את העולם לשירותי בריאות
-manifesto-explore-how-the-web-works = סיור ברזי תשתיות האינטרנט
-manifesto-see-how-mozilla-works = להצצה כיצד { -brand-name-mozilla } פועלת לקידום הפרטיות שלך לחזית
-manifesto-read-about-developments = מידע על התפתחויות בתחום הפרטיות ובטיחות המידע
-manifesto-learn-more-about-how-to = מידע נוסף על כיצד להגן על עצמך ברשת
-manifesto-use-these-free-tools-to = ניתן להשתמש בכלים החופשיים האלה כדי ללמד אינטרנט
-manifesto-learn-about-creating-and = מידע נוסף על יצירה ואיסוף תוכן עבור האינטרנט
-manifesto-add-new-voices-to-open = הוספת קולות חדשים לטכנולוגיית קוד פתוח
-manifesto-set-your-do-not-track = הגדרת העדפות הגנת המעקב שלך
-manifesto-understand-the-web-ecosystem = הבנת המערכת התומכת באינטרנט
-manifesto-learn-how-to-remix-content = מידע על ערבול תוכן לטובת יצירת משהו חדש
-manifesto-learn-how-to-maximize = מידע על מיצוי פוטנציאל האינטראקטיביות של האינטרנט
-manifesto-join-us-as-a-volunteer = הצטרפות בהתנדבות
-manifesto-learn-how-to-collaborate = מידע על שיתוף פעולה מקוון
-manifesto-learn-about-creating-web = מידע נוסף על יצירת משאבי אינטרנט עם אחרים
-manifesto-host-or-join-a-maker-party = אירוח או השתתפות במפגש מייקרים
-manifesto-learn-how-to-build-online = מידע על רכישת כישורי שיתוף פעולה מקוון
 manifesto-love-the-web = האינטרנט יקר ללבך?
 manifesto-details-introduction = הקדמה
 manifesto-details-the-internet-is-becoming = האינטרנט הופך להיות חלק משמעותי מחיינו.

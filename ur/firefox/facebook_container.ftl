@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -9,11 +9,6 @@ facebook-container-millions-of-people-around = لاکھوں لوگ دنیا بھ
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }۔ کوئی پریشانی۔ اپنی بقیہ زندگی کو اپنے تک رکھیں۔
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container }کی ایکسٹینشن حاصل کریں
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } ڈائونلوڈ کریں اور { -brand-name-facebook-container }  ایکسٹینشن حاصل کریں
-# Outdated string
-facebook-container-the-facebook-container-extension = { -brand-name-facebook-container }ایکسٹینشن موبائل آلات پر دستیاب نہیں ہے۔
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = <strong>{ -brand-name-firefox-focus }</strong> آزمائیں۔ رازداری برائوزر برائے { -brand-name-android } اور { -brand-name-ios }۔
 facebook-container-opt-out-on-your-terms = اپنی شراِئط کے مطابق باہر نکلیں
 facebook-container-install-and-contain = تنصیب کریں اور شامل
 facebook-container-about-firefox-and-mozilla = { -brand-name-firefox } او { -brand-name-mozilla } کے بارے میں

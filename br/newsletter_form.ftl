@@ -7,14 +7,10 @@ newsletter-form-your-email-address = Ho chomlec'h postel
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = postel@skouer.com
 newsletter-form-your-email-here = HO POSTEL AMAÑ
-newsletter-form-format = Mentrezh
-newsletter-form-html = HTML
-newsletter-form-text = Testenn
 newsletter-form-get-firefox-news = Kaout keleier a-zivout { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = An doare ma vez keweriet ma zitouroù gant { -brand-name-mozilla } zo mat din evel ma 'z eo bet displeget er <a href="{ $url }">reolenn-mañ a fet buhez prevez</a>
-newsletter-form-we-will-only-send = Kaset e vo titouroù deoc'h diwar-benn { -brand-name-mozilla } nemetken.
 newsletter-form-if-you-havent-previously = Ma n'ho peus ket kadarnaet ur c'houmanant d'ul lizher kelaouiñ liammet gant { -brand-name-mozilla } endeo e c'hallit kaout d'en ober. Gwiriekait ho poest degemer pe ho sil lastez ma n'eus ket ur postel diganeomp.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + C'hwi
 newsletter-form-get-firefox-tips = Kaout tunioù, korvigelloù, keleier ha traoù all evit { -brand-name-firefox }

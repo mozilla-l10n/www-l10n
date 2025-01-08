@@ -56,11 +56,3 @@ vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }：快速、安全、�
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 是一项您可以信赖的服务，它可以确保您在所有设备上安全地接入互联网。我们不会保存您的网络活动日志，更不会与第三方分析公司合作。在这个不可预测性已经成为“新常态”的世界里，我们深知您对安全的渴求及网络隐私的重视。
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 是一项您可以信赖的服务，它可以确保您在所有设备上安全地接入互联网。我们不会保存您的网络活动日志，更不会与第三方分析公司合作。在这个不可预测性已经成为新常态的世界里……
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 是一项您可以信赖的服务，可以让您在所有设备上安全地连接到互联网。我们不保留用户数据日志，也不与第三方分析平台合作，第三方分析平台希望建立您在线活动的档案。在一个不可预测性已成为“新常态”的世界中，我们知道让您感到安全比以往任何时候都更加重要，让您知道您在网上所做的事情是您自己的事。

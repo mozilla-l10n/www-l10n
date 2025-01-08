@@ -40,5 +40,3 @@ footer-refresh-community-participation-guidelines = Udhëzime Pjesëmarrjeje Në
 footer-refresh-about-this-site = Rreth këtij sajti
 footer-refresh-all-languages = Krejt gjuhët
 footer-refresh-language = Gjuhë
-footer-refresh-primary-nav-aria-label = Fundfaqe parësore
-footer-refresh-secondary-nav-aria-label = Fundfaqe dytësore

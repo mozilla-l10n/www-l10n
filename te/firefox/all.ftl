@@ -5,20 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+# Used as an accessible label for a help button. The text is replaced with a "?" icon.
+firefox-all-get-help = సహాయం పొందండి
+firefox-all-lang-multi = పలు భాషలు
+firefox-all-64-bit-installers = 64-బిట్ ఇన్‌స్టాలర్లు
+firefox-all-32-bit-installers = 32-బిట్ ఇన్‌స్టాలర్లు
 firefox-all-check-the-system-requirements = వ్యవస్థ ఆవశ్యకాలను పరిశీలించండి
 firefox-all-release-notes = విడుదల విశేషాలు
 firefox-all-source-code = మూల కోడు
 firefox-all-need-help = సహాయం కావాలా?
-firefox-all-which-browser-would = మీరు ఏ విహారిణిని దించుకోవాలనుకుంటున్నారు?
-# Used as an accessible label for a help button. The text is replaced with a "?" icon.
-firefox-all-get-help = సహాయం పొందండి
-firefox-all-you-are-about-to-download = మీరు దించుకోబోతున్నది ఇది:
-firefox-all-browser = విహారిణి:
-firefox-all-platform = ఫ్లాట్‌ఫారం:
-firefox-all-language = భాష:
-firefox-all-lang-multi = పలు భాషలు
-firefox-all-64-bit-installers = 64-బిట్ ఇన్‌స్టాలర్లు
-firefox-all-32-bit-installers = 32-బిట్ ఇన్‌స్టాలర్లు
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } గోప్యతా నోటీసు
 firefox-all-learn-about-firefox = { -brand-name-firefox } విహారిణుల గురించి తెలుసుకోండి
 firefox-all-arm64-installers = ARM64/AArch64 ఇన్‌స్టాలర్‌లు

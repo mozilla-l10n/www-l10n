@@ -14,7 +14,6 @@ legal-special-thanks-to-all-of-you = تشکر ویژه از تمامی کسان�
 legal-terms = شرایط
 legal-our-websites = وب‌سایت‌های ما
 legal-firefox-services = سرویس‌های { -brand-name-firefox }
-legal-webmaker = { -brand-name-webmaker }
 legal-privacy-trademarks = حریم‌خصوصی و علائم تجاری
 legal-privacy-notices-and-policy = نکات حریم‌خصوصی و سیاست‌ها
 legal-downloadable-software-notices = نکات نرم‌افزارهای قابل دریافت

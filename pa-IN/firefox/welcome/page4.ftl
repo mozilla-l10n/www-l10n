@@ -19,7 +19,7 @@ welcome-page4-firefox-private-safe-browser = { -brand-name-ios }  ਜਾਂ { -b
 # "off your trail" is an expression for not being followed around.
 welcome-page4-get-data-trackers-off-your = ਡਾਟਾ ਸੂਹੀਆਂ ਨੂੰ ਆਪਣੇ ਰਾਹ ‘ਚ ਹਟਾਓ
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
+#   $privacy (url) - link to https://support.mozilla.org/kb/trackers-and-scripts-firefox-blocks-enhanced-track/
 welcome-page4-enhanced-tracking-protection = ਵਾਧਾ ਕੀਤੀ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਵੈੱਬ ਉੱਤੇ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਵਾਲੇ <a href="{ $privacy }">2000+ ਟਰੈਕਰਾਂ ‘ਤੇ ਰੋਕ</a> ਲਾਉਂਦੀ ਹੈ।
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = ਕੋਈ ਪੈੜ ਨਾ ਛੱਡੋ

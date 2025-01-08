@@ -22,10 +22,6 @@ set-as-default-thanks-youre-all-set = E rregulluat.
 set-as-default-thanks-get-firefox-for-mobile = Merrni { -brand-name-firefox }-in për celular
 set-as-default-thanks-travel-the-internet-with = Udhëtoni në internet me mbrojtje në krejt pajisjet tuaja.
 set-as-default-thanks-download-the-app = Shkarkoni aplikacionin
-# Obsolete string
-set-as-default-thanks-join-firefox = Bëhuni pjesë e { -brand-name-firefox }-it
-# Obsolete string
-set-as-default-thanks-sign-up-for-a-free-account = Regjistrohuni për një llogari falas dhe njëkohësoni krejt fjalëkalimet tuaj, historik shfletimesh dhe parapëlqime, në krejt pajisjet tuaja.
 set-as-default-create-an-account = Krijoni një llogari
 set-as-default-thanks-sign-up-for-a-free-account-v2 = Regjistrohuni për një { -brand-name-mozilla-account } falas dhe njëkohësoni krejt fjalëkalimet tuaj, historik shfletimesh dhe parapëlqime, në krejt pajisjet tuaja.
 # Account here refers to a Firefox Account

@@ -21,13 +21,8 @@ browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Ищете современный сверхбыстрый мобильный браузер с функциями приватности нового уровня? { -brand-name-firefox-focus } автоматически стирает всю вашу историю с момента открытия браузера до его закрытия.
 browsers-mobile-compare = Сравнить
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Посмотрите, чем { -brand-name-firefox } для ПК отличается от других браузеров.
-# Obsolete string (expires 30 June 2024)
-browsers-mobile-see-how-firefox-for-desktop-stacks = Посмотрите, чем { -brand-name-firefox } для компьютера отличается от семи других браузеров.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Посмотрите, чем { -brand-name-firefox } для <strong>ПК</strong> отличается от других браузеров.
-# Obsolete string (expires 30 June 2024)
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = Посмотрите, чем { -brand-name-firefox } для <strong>компьютера</strong> отличается от семи других браузеров.
 browsers-mobile-download = Загрузить
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

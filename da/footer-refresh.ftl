@@ -41,5 +41,3 @@ footer-refresh-community-participation-guidelines = Retningslinjer for deltagels
 footer-refresh-about-this-site = Om dette websted
 footer-refresh-all-languages = Alle sprog
 footer-refresh-language = Sprog
-footer-refresh-primary-nav-aria-label = Primær sidefod
-footer-refresh-secondary-nav-aria-label = Sekundær sidefod

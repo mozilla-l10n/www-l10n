@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 sub-navigation-all-languages = Todas as linguas
 sub-navigation-firefox = { -brand-name-firefox }
@@ -22,17 +22,9 @@ sub-navigation-android-beta = { -brand-name-android } { -brand-name-beta }
 sub-navigation-desktop-beta-and-developer = { -brand-name-beta } e { -brand-name-developer-edition } para escritorio
 sub-navigation-desktop-nightly = { -brand-name-nightly } para escritorio
 sub-navigation-features = Características
-sub-navigation-support = Asistencia técnica
-sub-navigation-addons = Complementos
-sub-navigation-faq = FAQ
-sub-navigation-learn-more = Máis información
-sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } para dispositivos móbiles
-sub-navigation-android-addons = Complementos para { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
-sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
-sub-navigation-lockwise = { -brand-name-lockwise }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } de 64 bits
 sub-navigation-mac = { -brand-name-mac-short }
@@ -47,7 +39,3 @@ sub-navigation-private-browsing = Navegación privada
 sub-navigation-what-is-a-browser = Que é un navegador?
 sub-navigation-browsing-history = Historial de navegación
 sub-navigation-browser-history = Historial de navegación
-sub-navigation-privacy = Privacidade
-sub-navigation-our-promise = O noso compromiso
-sub-navigation-our-products = Os nosos produtos
-sub-navigation-little-book-of-privacy = Manual breve de privacidade

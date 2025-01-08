@@ -11,22 +11,16 @@ home-mission-driven = Impulsado por una misión. Impulsado por la gente.
 home-were-not-normal = No somos una empresa de tecnología normal. Las cosas que creamos priorizan a las personas y su privacidad por encima de las ganancias. Existimos para hacer de Internet un lugar más saludable y feliz para todos.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “La salud de Internet y la vida en línea es nuestra razón de ser.”
-# Obsolete string
-home-mitchell-baker = Mitchell Baker, CEO de { -brand-name-mozilla }
 home-mitchell-baker-v2 = Mitchell Baker, presidenta ejecutiva de la junta directiva, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } desarrolla productos que respetan la privacidad
 home-product-firefox-browsing = Navegación privada y segura
 home-cta-get-firefox = Obtén { -brand-name-firefox }
 home-product-pocket-articles = Los artículos más intrigantes de la web.
 home-cta-get-pocket = Obtener { -brand-name-pocket }
-# Obsolete string (expires: 2024-07-16)
-home-product-relay-masks = Máscaras de correo electrónico y de teléfono fáciles de usar
 home-product-relay-hide-your = Oculta tu número de teléfono y correo electrónico a los spammers
 home-cta-get-relay = Obtén { -brand-name-relay }
 home-product-vpn-trust = Una VPN en la que puedes confiar
 home-cta-get-vpn = Consigue { -brand-name-mozilla-vpn }
-# Obsolete string (expires 2024-07-23)
-home-product-monitor-data = Alertas sobre filtraciones de datos
 home-product-monitor-protect-your = Protege tu información privada de los recopiladores de datos
 home-cta-get-monitor = Obtén { -brand-name-monitor }
 home-product-fakespot-detect = Detecta reseñas falsas sobre compras
@@ -37,14 +31,8 @@ home-politico-cite = Politico
 home-join-us-in-shaping = Únete a nosotros para dar forma a una IA de confianza
 home-work-on-ai = El trabajo de { -brand-name-mozilla } con la IA no es algo nuevo: hemos pasado años financiando, construyendo y abogando por una IA que sea abierta, justa y se desarrolle de manera responsable. Nuestro enfoque está en crear una IA que esté al servicio de la gente, priorice la transparencia y apoye el bien público, no las agendas corporativas.
 home-read-more = Leer más
-# Obsolete string (expires: 2024-07-16)
-home-is-mozilla-a-corporation = ¿Es { -brand-name-mozilla } una corporación o una organización sin ánimo de lucro? En realidad, ambas.
-# Obsolete string (expires: 2024-07-16)
-home-mozilla-consists-of = { -brand-name-mozilla } consta de dos organizaciones. { -brand-name-mozilla-corporation } es propiedad exclusiva de la organización sin ánimo de lucro 501(c) { -brand-name-mozilla-foundation }. Lo que significa que no estamos en deuda con ningún accionista, solo con nuestra misión.
 home-so-what-is-mozilla = Entonces, ¿qué es { -brand-name-mozilla }?
-# Variables
-#   $ventures - link to https://mozilla.vc/
-#   $mozai - link to https://mozilla.ai/
+# Obsolete string (expires: 2025-01-05)
 home-at-its-core = Fundamentalmente, { -brand-name-mozilla } es una organización activista liderada por { -brand-name-mozilla-foundation } que genera cambios en el mundo a través de una variedad de iniciativas que incluyen { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> y <a { $mozai }>{ -brand-name-mozilla-ai }</a>. ¿Qué nos hace diferentes? El hecho de estar impulsados por una misión nos proporciona la libertad de tomar todas nuestras decisiones basándonos en lo que es mejor para Internet y para todos sus usuarios, no basándonos en los intereses de los accionistas; en realidad, no tenemos ningún accionista.
 home-learn-about-mofo = Saber más sobre la { -brand-name-mozilla-foundation }
 home-join-the-fight = Únete a la lucha por un internet saludable
@@ -55,8 +43,6 @@ home-the-mozilla-project = El proyecto { -brand-name-mozilla } se fundó en San 
 home-eventually-the-open = Con el tiempo, el proyecto de código abierto { -brand-name-mozilla } se transformó en la muy popular primera versión de { -brand-name-firefox }.
 home-today-mozilla-continues = Hoy, { -brand-name-mozilla } continúa su movimiento hacia un mejor Internet con millones de miembros activos de la comunidad en todo el mundo, que abogan por tecnología ética, inteligencia artificial fiable y creando productos que priorizan la privacidad y brindan más poder a las personas.
 home-learn-more-about-mozilla = Saber más sobre { -brand-name-mozilla }
-home-get-good-news = Recibe (buenas) noticias de { -brand-name-mozilla }
-home-get-news-and-tips = Recibe noticias y consejos de { -brand-name-mozilla } para mantenerte seguro e informado sobre todo lo que hace que la web sea un lugar más saludable.
 # VPN Feature
 home-featured-product = Producto destacado
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.

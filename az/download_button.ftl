@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = İndi endir
 download-button-free-download = Pulsuz Endir
@@ -39,3 +39,6 @@ download-button-firefox-ios = { -brand-name-ios } üçün <span>{ -brand-name-fi
 download-button-firefox-privacy = { -brand-name-firefox } Məxfilik
 download-button-firefox-privacy-notice = { -brand-name-firefox } Məxfilik Bildirişi
 download-button-download = Endir
+
+## Linux
+

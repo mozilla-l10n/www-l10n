@@ -11,8 +11,6 @@ firefox-products-mozilla-products = Các sản phẩm { -brand-name-mozilla }
 firefox-products-mozillas-family-of-products = Tất cả dòng sản phẩm của { -brand-name-mozilla } đều được thiết kế để giúp bạn trực tuyến an toàn hơn và thông minh hơn
 firefox-products-products = Sản phẩm
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } chỉ là khởi đầu.
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } chỉ là khởi đầu
 firefox-products-mozillas-family-of-products-sentence = Tất cả dòng sản phẩm của { -brand-name-mozilla } đều được thiết kế để giúp bạn trực tuyến an toàn hơn và thông minh hơn.
 
 ## Firefox
@@ -67,6 +65,4 @@ firefox-products-analyze = Phân tích một URL
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content-v2 = Khám phá nội dung tốt nhất trên web — và dùng nó bất cứ nơi nào và bất cứ khi nào bạn muốn. Được tạo bởi { -brand-name-mozilla }.
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = Khám phá nội dung tốt nhất trên web — và dùng nó bất cứ nơi nào và bất cứ khi nào bạn muốn.
 firefox-products-get-pocket = Sử dụng { -brand-name-pocket }

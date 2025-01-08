@@ -7,22 +7,14 @@
 
 # HTML page title
 welcome-page1-more-than-a-browser-mozilla = Meer dan een browser – { -brand-name-mozilla-monitor } is uw wachtpost voor hackers
-# Outdated string
-welcome-page1-more-than-a-browser-firefox = Meer dan een browser – { -brand-name-firefox-monitor } is uw wachtpost voor hackers
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Neem de volgende stap om uw online privacy te beschermen met de { -brand-name-firefox }-productfamilie.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Blijf hackers voor. Controleer op datalekken met { -brand-name-mozilla-monitor }.
-# Obsolete string
-welcome-page1-stay-ahead-of-hackers-check = Blijf hackers voor. Controleer op datalekken met { -brand-name-firefox-monitor }.
 welcome-page1-youre-on-track-to-stay-protected = U bent op schema om beschermd te blijven
 welcome-page1-youve-got-the-web-browser = U hebt de webbrowser die uw privacy beschermt – nu is het tijd om een wachtpost voor hackers te krijgen.
 welcome-page1-check-your-breach-report = Controleer uw datalekkenrapport
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } toont of uw gegevens zijn getroffen door een bekend datalek en waarschuwt u als dat in de toekomst gebeurt.
-# Obsolete string
-welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } toont of uw gegevens zijn getroffen door een bekend datalek en waarschuwt u als dat in de toekomst gebeurt.
 welcome-page1-stay-ahead-of-hackers = Blijf hackers voor
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/

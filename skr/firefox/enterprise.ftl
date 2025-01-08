@@ -44,5 +44,5 @@ firefox-enterprise-sample-plist-for-configuration = نمونہ <a href="{ $url }
 firefox-enterprise-pkg-installer = PKG انسٹالر
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-بٹ
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
 firefox-enterprise-download-firefox-esr-or-rapid = { -brand-name-firefox-esr } ڈاؤن لوڈ کرو یا <br> <a href="{ $firefox_all }">ہک ٻئی زبان یا پلیٹ فارم </a> کیتے تیز رفتار ریلیز۔

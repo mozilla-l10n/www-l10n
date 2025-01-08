@@ -44,5 +44,5 @@ firefox-enterprise-sample-plist-for-configuration = Techapyrã <a href="{ $url }
 firefox-enterprise-pkg-installer = PKG mohendaha
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bit
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
 firefox-enterprise-download-firefox-esr-or-rapid = Emboguejy { -brand-name-firefox-esr } térã Rapid Release <br> <a href="{ $firefox_all }">ambue ñe’ẽ térã plataforma peg̃uarã.</a>

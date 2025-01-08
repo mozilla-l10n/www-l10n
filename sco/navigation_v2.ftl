@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Doonload { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Get { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menu
-# Obsolete string
-navigation-v2-get-a-firefox-account = Get a { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -20,8 +18,6 @@ navigation-v2-get-the-customizable-mobile = Get the mobile stravaiger ye can mak
 navigation-v2-firefox-for-ios = { -brand-name-firefox } fur { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Get the mobile stravaiger fur yer { -brand-name-iphone } or { -brand-name-ipad }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
-navigation-v2-privacy-promise = Privacy Promise
-navigation-v2-learn-how-firefox-treats = Lairn how { -brand-name-firefox } treats yer data wi respect.
 navigation-v2-firefox-blog = { -brand-name-firefox } Blog
 navigation-v2-read-about-new-firefox-features = Read aboot new { -brand-name-firefox } featurs and weys tae stey sauf online.
 navigation-v2-release-notes = Roll-oot Notes
@@ -32,7 +28,6 @@ navigation-v2-view-all-firefox-browsers = View aw { -brand-name-firefox-browsers
 
 navigation-v2-products = Products
 navigation-v2-close-products-menu = Sneck Products menu
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Check if yer email has kythed itsel in a company’s data breach.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Save and airt oot the best stories fae aw ower the wab.
@@ -40,13 +35,9 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Help hinder { -brand-name-facebook } fae gaitherin yer data ootside their site.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Get bieldin ayont yer stravaiger, on aw yer devices.
-navigation-v2-product-promise = Product Promise
-navigation-v2-learn-how-each-firefox-product = Lairn how ilka { -brand-name-firefox } product bields and taks tent o yer data.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Sign up fur new accoonts withoot haunin ower yer email address.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
-navigation-v2-protect-your-browsers-connection = Bield yer stravaiger’s connection tae the internet.
 navigation-v2-view-all-products = View aw Products
 
 ## Who We Are menu
@@ -71,8 +62,6 @@ navigation-v2-more-about-mozilla = Mair Aboot { -brand-name-mozilla }
 
 navigation-v2-innovation = New-fangles
 navigation-v2-close-innovation-menu = Sneck New-fangles menu
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = Gaither in this interactive, online, multi-dimensional social space.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Get the { -brand-name-firefox } stravaiger biggit jist fur forderers.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
@@ -83,4 +72,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Gie yer vyce sae that the future o the wab can hear awbodie.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Lairn mair aboot the new, low-level, assembly-like leid.
-navigation-v2-more-mozilla-innovation = Mair { -brand-name-mozilla } New-fangles

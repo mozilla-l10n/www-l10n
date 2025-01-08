@@ -6,5 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
+#   $privacy (url) - link to https://support.mozilla.org/kb/trackers-and-scripts-firefox-blocks-enhanced-track/
 welcome-page4-enhanced-tracking-protection = දියුණු කළ ලුහුබැඳීමේ රැකවරණය මඟින් අන්තර්ජාලය පුරා ඔබ පසුපස හඹා එන <a href="{ $privacy }">ලුහුබැඳීම් 2000 කට වඩා අවහිර කරයි</a>

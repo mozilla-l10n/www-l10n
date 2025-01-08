@@ -12,8 +12,6 @@ features-sync-access-your-firefox-bookmarks = Acceda a tes segnapaginas, pleds-c
 features-sync-with-firefox-you-can-pick-up-where = Cun { -brand-name-firefox } pos ti cuntinuar là nua che ti has chalà sche ti midas da tes computer desktop sin tes telefon u tes tablet. { -brand-name-firefox } ta pussibilitescha da vesair tes segnapaginas, tia cronologia da navigaziun, tes pleds-clav memorisads e dapli – independentamain da l’apparat che ti utiliseschas.
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Ta registrescha per obtegnair in { -brand-name-mozilla-account } gratuit</a> e ti vegns a pudair sincronisar tias datas dapertut là nua che ti utiliseschas { -brand-name-firefox } ed auters products da { -brand-name-mozilla }.
-# Obsolete string
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Ta registrescha per retschaiver in conto { -brand-name-firefox } gratuit </a> e ti vegns a pudair sincronisar tias datas dapertut là nua che ti utiliseschas tes navigatur { -brand-name-firefox }.
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Tut tias datas èn criptadas sin noss servers, uschia che nus na las pudain betg leger – mo ti pos acceder ad ellas. Nus na vendain betg tias infurmaziuns ad incumbensaders da reclama perquai che quai cuntraschess a nossa <a href="{ $privacy }">empermischun da proteger las datas</a>.

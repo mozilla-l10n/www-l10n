@@ -18,9 +18,5 @@ page7-that-sneaky-little-button = Den lömska lilla knappen
 page7-those-innocent-looking-f-buttons = De oskyldiga F-knapparna från { -brand-name-facebook } spårar din webbaktivitet, även om du inte har ett konto. { -brand-name-facebook-container } blockerar dem.
 page7-stay-ahead-of-hackers = Var ett steg före hackare
 page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } låter dig ta reda på vad hackare kanske redan vet om dig och hjälper dig att ligga steget före dem. (Och det är gratis.)
-# Obsolete string
-page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } låter dig ta reda på vad hackare redan kan veta om dig och hjälper dig att ligga ett steg före dem. (Och det är gratis.)
 page7-get-mozilla-monitor = Hämta { -brand-name-mozilla-monitor }
-# Obsolete string
-page7-get-firefox-monitor = Skaffa { -brand-name-firefox-monitor }
 page7-why-am-i-seeing-this = Varför ser jag detta?

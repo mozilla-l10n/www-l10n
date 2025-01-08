@@ -21,13 +21,8 @@ browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Ydych chi'n chwilio am borwr symudol cyflym, chwim gyda nodweddion preifatrwydd uchel iawn? Mae { -brand-name-firefox-focus } yn dileu eich holl hanes pori yn awtomatig o'r eiliad y byddwch chi'n agor eich porwr i'r eiliad y byddwch chi'n ei gau.
 browsers-mobile-compare = Cymharu
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Gweld sut mae { -brand-name-firefox } ar gyfer y bwrdd gwaith yn cymharu â phorwyr eraill.
-# Obsolete string (expires 30 June 2024)
-browsers-mobile-see-how-firefox-for-desktop-stacks = Gweld sut mae { -brand-name-firefox } symudol yn cymharu â saith porwr symudol arall.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Gweld sut mae { -brand-name-firefox } ar gyfer <strong>y bwrdd gwaith</strong> yn cymharu â phorwyr eraill.
-# Obsolete string (expires 30 June 2024)
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = Gweld sut mae { -brand-name-firefox } ar gyfer y <strong>bwrdd gwaith</strong> yn cymharu â saith porwr arall.
 browsers-mobile-download = Llwytho i Lawr
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

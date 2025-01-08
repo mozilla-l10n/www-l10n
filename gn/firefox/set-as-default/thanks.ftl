@@ -22,10 +22,6 @@ set-as-default-thanks-youre-all-set = Oĩmbaitéma.
 set-as-default-thanks-get-firefox-for-mobile = Eguereko { -brand-name-firefox } pumbyrýpe g̃uarã
 set-as-default-thanks-travel-the-internet-with = Eikundaha ñandutípe ñemo’ãme opaite ne mba’e’okápe.
 set-as-default-thanks-download-the-app = Emboguejy tembiporu’i
-# Obsolete string
-set-as-default-thanks-join-firefox = Ejuaju { -brand-name-firefox } rehe
-# Obsolete string
-set-as-default-thanks-sign-up-for-a-free-account = Eñemboheraguapy ereko hag̃ua mba’ete reíva ha embojuehe ñe’ẽñemíre, kundaha rembiasakue ha eguerohoryvéva opaite ne mba’e’okápe.
 set-as-default-create-an-account = Emoheñói mba’ete
 set-as-default-thanks-sign-up-for-a-free-account-v2 = Eñemboheraguapy ereko hag̃ua { -brand-name-mozilla-account } reíva ha embojuehe ne ñe’ẽñemi, ñeikundaha rembiasakue ha erohoryvéva ne mba’e’okakuérape.
 # Account here refers to a Firefox Account

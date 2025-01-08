@@ -12,8 +12,6 @@ navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 ## Products menu
 
 navigation-v2-products = Produioù
-# Obsolete string
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }

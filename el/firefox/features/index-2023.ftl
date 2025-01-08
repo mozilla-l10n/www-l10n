@@ -11,10 +11,6 @@ features-index-firefox-browser-features = Δυνατότητες του { -brand
 features-index-firefox-is-the-fast-lightweight = Το { -brand-name-firefox } είναι ένα γρήγορο, «ελαφρύ» και ιδιωτικό πρόγραμμα περιήγησης για όλες τις συσκευές σας.
 features-index-firefox-keeps-getting-faster = Το { -brand-name-firefox } γίνεται όλο και πιο γρήγορο
 features-index-the-latest-browser-speed-benchmarks = Οι πιο πρόσφατοι δείκτες αναφοράς επιδόσεων για προγράμματα περιήγησης αποδεικνύουν ότι το { -brand-name-firefox } είναι πιο γρήγορο από ποτέ.
-# Obsolete string
-features-index-is-firefox-a-fast-browser = Είναι το { -brand-name-firefox } γρήγορο;
-# Obsolete string
-features-index-firefox-uses-less-memory-than = Το { -brand-name-firefox } χρησιμοποιεί λιγότερη μνήμη από το Chrome, ώστε τα άλλα σας προγράμματα να λειτουργούν με τη μέγιστη ταχύτητα.
 features-index-is-firefox-a-private-browser = Είναι το { -brand-name-firefox } ιδιωτικό;
 features-index-were-focused-on-your-right-to = Εστιάζουμε στο δικαίωμά σας στην ιδιωτικότητα. Τα δεδομένα, η διαδικτυακή δραστηριότητα και η ηλεκτρονική σας ζωή προστατεύονται με το { -brand-name-firefox }.
 features-index-free-password-manager = Διαχείριση κωδικών πρόσβασης
@@ -42,7 +38,5 @@ features-index-firefox-automatically-blocks = Το { -brand-name-firefox } απ�
 features-index-ditch-the-sticky-ads = Ξεφορτωθείτε τις διαφημίσεις που σας ακολουθούν παντού με την ενσωματωμένη φραγή fingerprinting του { -brand-name-firefox }.
 features-index-translate-the-web = Μετάφραση διαδικτύου
 features-index-translate-websites-to-your = Μεταφράστε ιστοτόπους στη γλώσσα σας απευθείας στο { -brand-name-firefox }, χωρίς να μοιραστείτε τα δεδομένα σας με κανέναν άλλο.
-# Obsolete string
-features-index-translate-more-than = Μεταφράστε από πάνω από 100 γλώσσες στη δική σας απευθείας στο { -brand-name-firefox }, πιο εύκολα από ποτέ.
 features-index-picture-in-picture = Εικόνα εντός εικόνας
 features-index-got-things-to-do = Έχετε δουλειές, αλλά θέλετε να δείτε βίντεο; Κάντε τα ταυτόχρονα με τη λειτουργία «Εικόνα εντός εικόνας» στο { -brand-name-firefox }.

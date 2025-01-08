@@ -7,8 +7,6 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = PDF-editor
-# Obsolete string (expires: 2024-06-17)
-pdf-editor-add-text-to-pdfs = Přidajće PDF-datajam tekst z PDF-editorom { -brand-name-firefox }
 # page title
 pdf-editor-add-text-to-pdfs-v2 = Wobdźěłajće PDF-dataje darmotnje z PDF-editorom { -brand-name-firefox }
 # HTML page description

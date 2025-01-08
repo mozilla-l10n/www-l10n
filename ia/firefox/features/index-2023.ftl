@@ -11,10 +11,6 @@ features-index-firefox-browser-features = Functiones del navigator { -brand-name
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } es le navigator veloce, legier, attente al confidentialitate, que functiona inter tote tu apparatos.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } continua devenir plus veloce
 features-index-the-latest-browser-speed-benchmarks = Le ultime le referentias de velocitate del navigator prova que { -brand-name-firefox } es plus veloce que mais.
-# Obsolete string
-features-index-is-firefox-a-fast-browser = Es { -brand-name-firefox } un navigator veloce?
-# Obsolete string
-features-index-firefox-uses-less-memory-than = { -brand-name-firefox } usa minus memoria que Chrome, assi tu altere programmas pote continuar a currer al maxime velocitate.
 features-index-is-firefox-a-private-browser = Es { -brand-name-firefox } un navigator private?
 features-index-were-focused-on-your-right-to = Nos es attente a tu derecto al confidentialitate. Tu datos, tu activitate web, tu vita online es protegite con { -brand-name-firefox }.
 features-index-free-password-manager = Gestor de contrasigno gratuite
@@ -42,7 +38,5 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } impedi aut
 features-index-ditch-the-sticky-ads = Abandona le enoiose avisos publicitari que te seque circum con le blocatores de dactylogrammatores integrate in { -brand-name-firefox }.
 features-index-translate-the-web = Traducer le web
 features-index-translate-websites-to-your = Traduce sitos web in tu lingua directemente in tu navigator { -brand-name-firefox } browser – sin compartir tu datos con alcun altere.
-# Obsolete string
-features-index-translate-more-than = Traduce ab plus de 100 linguas a tu lingua directemente in tu { -brand-name-firefox }: plus facilemente que mais.
 features-index-picture-in-picture = Imagine-in-imagine
 features-index-got-things-to-do = Vole tu facer alcun cosas durante que tu reguarda altere cosas? Face ambe per Imagine-in-imagine in { -brand-name-firefox }.

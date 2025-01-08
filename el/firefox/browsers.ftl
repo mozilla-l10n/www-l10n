@@ -10,9 +10,6 @@ firefox-browsers-page-title = Λήψη του { -brand-name-firefox } για υ�
 # HTML page description
 firefox-browsers-page-desc = Επιλέξτε μεταξύ των εκδόσεων για υπολογιστές, { -brand-name-ios }, { -brand-name-android } ή αφήστε μας να σας στείλουμε μέσω email έναν σύνδεσμο λήψης για κινητές συσκευές.
 firefox-browsers-main-heading = Προγράμματα περιήγησης { -brand-name-firefox }
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = <strong>Φυλλομετρητές</strong> με έμφαση στο απόρρητο — όπως πάντα
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Ένα πρόγραμμα περιήγησης με επίκεντρο το απόρρητό σας, όπως <strong>πάντα</strong>
 firefox-browsers-desktop = Υπολογιστές

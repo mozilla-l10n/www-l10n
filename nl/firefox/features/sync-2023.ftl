@@ -12,11 +12,6 @@ features-sync-access-your-firefox-bookmarks = Toegang tot uw { -brand-name-firef
 features-sync-with-firefox-you-can-pick-up-where = Met { -brand-name-firefox } kunt u verdergaan waar u was gebleven wanneer u overschakelt van uw desktopcomputer naar uw mobiele telefoon naar uw tablet. Met { -brand-name-firefox } kunt u uw bladwijzers, uw navigatiegeschiedenis, uw opgeslagen wachtwoorden en meer bekijken, ongeacht welk apparaat u gebruikt.
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Meld u aan voor een gratis { -brand-name-mozilla-account }</a> en u kunt uw gegevens overal waar u { -brand-name-firefox } en andere { -brand-name-mozilla }-producten gebruikt synchroniseren.
-# Obsolete string
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Meld u aan voor een gratis { -brand-name-mozilla-account }</a> en u kunt uw gegevens overal waar u uw { -brand-name-firefox }-browser gebruikt synchroniseren.
-# Obsolete string
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Meld u aan voor een gratis { -brand-name-firefox }-account</a> en u kunt uw gegevens overal waar u uw { -brand-name-firefox }-browser gebruikt synchroniseren.
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Al uw gegevens zijn versleuteld op onze servers, zodat we deze niet kunnen lezen. Alleen u heeft er toegang toe. We verkopen uw gegevens niet aan adverteerders, omdat dit in strijd zou zijn met onze <a href="{ $privacy }">gegevensprivacybelofte</a>.

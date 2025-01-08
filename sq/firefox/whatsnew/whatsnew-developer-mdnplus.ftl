@@ -8,8 +8,6 @@
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest-v2 = Urime. Tani keni versionin më të ri të { -brand-name-firefox-developer-edition }.
-# Obsolete string (expires: 2024-05-14)
-developer-mdnplus-congrats-you-now-have-latest = Përgëzime. Tanimë keni versionin më të ri të { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Më tepër { -brand-name-mdn }. { -brand-name-mdn }-i <em>juaj</em>.
 developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } është një projekt me burim të hapët dokumentimi në bashkëpunim i teknologjive platformash Web, përfshi CSS, HTML, JavaScript dhe API Web. Furnizojmë gjithashtu një grup të zgjeruar burimesh të nxëni për zhvillues fillestarë dhe nxënës.

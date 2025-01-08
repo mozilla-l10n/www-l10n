@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Download { -brand-name-firefox } in het Nederlands en in meer dan 90 andere talen
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = Download de { -brand-name-firefox-browser } in het Nederlands en in meer dan 90 andere talen
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Iedereen verdient toegang tot het internet – uw taal mag nooit een barrière vormen. Daarom stellen we – met hulp van toegewijde vrijwilligers over de hele wereld – { -brand-name-firefox } beschikbaar in meer dan 90 talen.
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = Iedereen verdient toegang tot het internet – uw taal mag nooit een barrière vormen. Daarom stellen we – met hulp van toegewijde vrijwilligers over de hele wereld – de { -brand-name-firefox-browser } beschikbaar in meer dan 90 talen.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = Scan de QR-code om <em>{ $product_name }</em> te downloaden
@@ -26,14 +22,8 @@ firefox-all-change-language = Een andere taal kiezen
 firefox-all-down-arrow = Kies uit onderstaande lijst
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Hulp verkrijgen
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = Browser:
 firefox-all-browser-v2 = 1. Browser:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = Platform:
 firefox-all-platform-v2 = 2. Platform:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = Taal:
 firefox-all-language-v2 = 3. Taal:
 firefox-all-download = 4. Downloaden:
 firefox-all-desktop = Desktop

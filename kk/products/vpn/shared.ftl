@@ -15,8 +15,8 @@ vpn-shared-money-back-guarantee = 30 күндік ақшаны қайтару к
 # Platform subpage shared strings
 
 
-## VPN Affiliate cookie notice
+## Press quotations
 
 
-##
+## Unsupported language notification
 

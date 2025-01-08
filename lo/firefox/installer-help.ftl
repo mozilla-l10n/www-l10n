@@ -16,14 +16,8 @@ installer-help-action-choose = ເລືອກດາວໂຫຼດຂ້າງ�
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = ໄດ້​ຮັບ​ຫລ້າ​ສຸດ​. ຄວາມເປັນສ່ວນຕົວອັດຕະໂນມັດຢູ່ທີ່ນີ້. ດາວໂຫລດ { -brand-name-firefox-browser } ເພື່ອບລັອກຕົວຕິດຕາມ { $trackers }.
-installer-help-firefox-beta-title = { -brand-name-firefox-browser }{ -brand-name-beta }
 installer-help-firefox-beta-desc = ທົດສອບຄຸນສົມບັດທີ່ຈະຖືກປ່ອຍອອກມາໃນການກໍ່ສ້າງກ່ອນການປ່ອຍທີ່ໝັ້ນຄົງທີ່ສຸດ.
-installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = ສ້າງ, ທົດສອບ, ຂະຫຍາຍ ແລະ ອື່ນໆ ດ້ວຍບາວເຊີທີ່ສ້າງມາສຳລັບນັກພັດທະນາໂດຍສະເພາະ.
-installer-help-firefox-nightly-title = { -brand-name-firefox-browser }{ -brand-name-nightly }
 installer-help-firefox-nightly-desc = ກວດເບິ່ງເວັບບຣາວເຊີລຸ້ນຕໍ່ໄປຂອງພວກເຮົາ, ແລະຊ່ວຍພວກເຮົາເຮັດໃຫ້ມັນເປັນຕົວທ່ອງເວັບທີ່ດີທີ່ສຸດທີ່ມັນສາມາດເຮັດໄດ້.
 installer-help-need-help = ຕ້ອງການຄວາມຊ່ວຍເຫຼືອໃນການຕິດຕັ້ງ?
 # Variables:

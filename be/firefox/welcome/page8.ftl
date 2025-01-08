@@ -15,7 +15,6 @@ welcome-page8-view-your-protection-report = Паглядзець справаз�
 welcome-page8-enhanced-tracking-protection = Узмоцненая ахова ад сачэння
 welcome-page8-automatically-block-sites = Аўтаматычна блакуйце сайты ад сачэння за вамі ў інтэрнэце.
 welcome-page8-see-whats-blocked = Паглядзець, што заблакавана
-welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-see-what-youve-been = Паглядзіце, ці трапілі вашы звесткі ў вядомыя ўцечкі дадзеных у Інтэрнэце, і прыміце меры па ліквідацыі наступстваў.
 welcome-page8-go-to-monitor = Перайсці да { -brand-name-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }

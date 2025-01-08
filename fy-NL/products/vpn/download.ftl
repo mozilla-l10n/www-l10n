@@ -13,8 +13,6 @@ vpn-download-sub-heading = Jo kinne { -brand-name-mozilla-vpn } mei ien abonnemi
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } biedt feilige beskerming foar alle wichtige bestjoeringssystemen.
 vpn-download-not-available-in-country = Sorry, { -brand-name-mozilla-vpn } kin yn jo lân net download wurde.
 vpn-download-button-copy = Downloade
-# Obsolete string
-vpn-download-for-windows = VPN foar { -brand-name-windows } 10/11
 vpn-download-for-windows-v2 = VPN foar { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (allinnich 64-bits)
 vpn-download-for-windows-long = Download { -brand-name-mozilla-vpn } foar { -brand-name-windows }
@@ -32,8 +30,6 @@ vpn-download-for-android = VPN foar { -brand-name-android }
 vpn-download-for-android-long = Download { -brand-name-mozilla-vpn } foar { -brand-name-android }
 vpn-download-for-ios = VPN foar { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Download { -brand-name-mozilla-vpn } foar { -brand-name-ios }
-# Obsolete string
-vpn-download-for-ios-long = Download VPN { -brand-name-mozilla-vpn } foar { -brand-name-ios }
 vpn-download-get-on-google-play = Downloade fia { -brand-name-google-play } Store
 vpn-download-get-on-app-store = Downloade fia { -brand-name-app-store }
 vpn-download-based-on-your = Basearre op jo aktuele apparaat

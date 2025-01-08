@@ -31,7 +31,7 @@ browser-history-the-browser-wars = Webbläsarkrigen
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = 1995 var { -brand-name-netscape } Navigator inte det enda sättet att komma åt internet. Datorprogramjätten { -brand-name-microsoft } licensierade den gamla Mosaic-koden och byggde sitt eget fönster mot webben, <a href="{ $ie }">{ -brand-name-ie }</a>. Introduktionen utlöste ett krig. { -brand-name-netscape } och { -brand-name-microsoft } arbetade febrilt för att skapa nya versioner av sina program, var och en försökte överträffa den andra med snabbare, bättre produkter.
 # Variables:
-#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = { -brand-name-netscape } skapade och släppte JavaScript, vilket gav webbplatser kraftfulla datorfunktioner som de aldrig hade tidigare. (De gjorde också den ökända <a href="{ $blink }">&lt;blink&gt;-taggen</a>.) { -brand-name-microsoft } kontrade med Cascading Style Sheets (CSS), som blev standarden för webbdesign.
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1

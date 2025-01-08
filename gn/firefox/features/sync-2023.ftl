@@ -11,8 +11,6 @@ features-sync-firefox-browser-sync = { -brand-name-firefox } kundahára mbojuehe
 features-sync-access-your-firefox-bookmarks = Eike nde rechaukaha { -brand-name-firefox }-pe, ñe’ẽñemi, tendayke ijurujáva oimeraẽva mba’e’oka guive.
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Eñemboheraguapy ereko hag̃ua { -brand-name-mozilla-account }</a> reiete ha embojuehekuaa ne mba’ekuaarã eiporuhápe ne kundahára { -brand-name-firefox } ha ambue { -brand-name-mozilla } apopyre.
-# Obsolete string
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Eñemboheraguapy ereko hag̃ua { -brand-name-firefox }</a> reiete ha embojuehekuaa ne mba’ekuaarã eiporuhápe ne kundahára { -brand-name-firefox }.
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Opaite ne mba’ekuaarã ipapapy ore apopyvusúpe ani hag̃ua romoñe’ẽ; nde añoite eikekuaa. Norohepyme’ẽi ne marandu ñemuhápe ohota rupi ore rembiapo rovake <a href="{ $privacy }">ro’égui ne mba’ekuaarã hekoñemitaha</a>.

@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Stiahnite si prehliadač { -brand-name-firefox(case: "acc") } v slovenčine či v jednom z viac ako 90 ďalších jazykov
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = Stiahnite si { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } v slovenčine či v jednom z viac ako 90 ďalších jazykov
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Všetci si zaslúžia mať prístup na internet a jazyk by nikdy nemal byť prekážkou. Preto vďaka dobrovoľníkom z celého sveta ponúkame prehliadač { -brand-name-firefox(case: "acc") } vo viac ako 90 jazykoch.
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = Všetci si zaslúžia mať prístup na internet a jazyk by nikdy nemal byť prekážkou. Preto vďaka dobrovoľníkom z celého sveta ponúkame { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } vo viac ako 90 jazykoch.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = Naskenujte QR kód a získajte <em>{ $product_name }</em>
@@ -26,14 +22,8 @@ firefox-all-change-language = Vyberte iný jazyk
 firefox-all-down-arrow = Vyberte si zo zoznamu nižšie
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Získať pomoc
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = 1. Prehliadač:
 firefox-all-browser-v2 = 1. Prehliadač:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = 2. Platforma:
 firefox-all-platform-v2 = 2. Platforma:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = 3. Jazyk:
 firefox-all-language-v2 = 3. Jazyk:
 firefox-all-download = 4. Stiahnite si:
 firefox-all-desktop = Počítač

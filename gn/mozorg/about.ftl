@@ -33,9 +33,6 @@ about-with-offices-all-over-the = <a href="{ $url }">oficina arapy tuichakuépe<
 about-san-francisco = San Francisco
 about-talking-tech-issues-irl = Roñe’ẽ (IRL) ñandutigua apañuái
 about-in-mozillas-multi-award-winning = Pe podcast oganáva hetajey { -brand-name-mozilla } rehegua, Bridget Todd oñe’ẽ tapichakuéra ombohapéva ndive Ñanduti pyahu ha IA.
-# Obsolete strings (remove in 1-2 months)
-about-talking-internet-issues-irl = Roñe’ẽhína IRL ñanduti rehegua
-about-in-mozillas-irl-podcast-host = Pe { -brand-name-mozilla } podcast IRL, mbohupaha Manoush Zomorodi omoherakuã tembiasakue oikopyréva ñandutípe ha oñemoñe’ẽ ñanduti renonderã rehe.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> ñembohupa mba’apohara’ỹ og̃uahẽva peteĩ ary pukukue
 about-berlin = Berlin

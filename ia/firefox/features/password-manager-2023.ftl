@@ -13,14 +13,6 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } reserva 
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Con un <a { $fxa }>{ -brand-name-mozilla-account }</a> gratuite tu pote synchronisar tu contrasignos inter tote tu apparatos con securitate. Tu alsi pote acceder tote le altere productos de { -brand-name-mozilla } respectuose del confidentialitate.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account = Con un <a href="{ $fxa }"> { -brand-name-mozilla-account } gratuite</a> tu pote synchronisar con securitate tu contrasignos inter tote tu apparatos.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-firefox-account = Con un <a href="{ $fxa }"> conto { -brand-name-firefox } gratuite</a> tu pote synchronisar con securitate tu contrasignos inter tote tu apparatos.
 password-manager-password-autofill-for-easy-logins = Auto-plenamento de contrasigno pro accessos facile
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } pote automaticamente plenar tu nomine de usator e contrasigno reservate. Si tu ha plus que un solo accesso pro un sito, tu pote justo eliger le conto que tu vole e nos lo prendera ab illac.
 # Used as an accessible text alternative for an image

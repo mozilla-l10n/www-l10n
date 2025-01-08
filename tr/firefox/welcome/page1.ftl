@@ -7,22 +7,14 @@
 
 # HTML page title
 welcome-page1-more-than-a-browser-mozilla = Bir tarayıcıdan daha fazlası. { -brand-name-mozilla-monitor } hacker’lara karşı gözcünüzdür
-# Outdated string
-welcome-page1-more-than-a-browser-firefox = Bir tarayıcıdan daha fazlası. { -brand-name-firefox-monitor } hacker’lara karşı gözcünüzdür
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = { -brand-name-firefox } ürün ailesiyle çevrimiçi gizliliğinizi korumak için bir sonraki adımı atın.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Hacker’ların önüne geçin. { -brand-name-mozilla-monitor } ile veri ihlallerini kontrol edin.
-# Obsolete string
-welcome-page1-stay-ahead-of-hackers-check = Hacker’ların önüne geçin. { -brand-name-firefox-monitor } ile veri ihlallerini kontrol edin.
 welcome-page1-youre-on-track-to-stay-protected = Doğru yoldasınız
 welcome-page1-youve-got-the-web-browser = Gizliliğinizi koruyan bir web tarayıcınız var. Şimdi hacker’lardan da korunma zamanı.
 welcome-page1-check-your-breach-report = İhlal raporunuzu kontrol edin
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor }, bilgilerinizin veri ihlallerinde çalınıp çalınmadığını gösterir ve ileride böyle bir durumla karşılaşmanız halinde sizi uyarır.
-# Obsolete string
-welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor }, bilgilerinizin veri ihlallerinde çalınıp çalınmadığını gösterir ve ileride böyle bir durumla karşılaşmanız halinde sizi uyarır.
 welcome-page1-stay-ahead-of-hackers = Hacker’ların önüne geçin
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/

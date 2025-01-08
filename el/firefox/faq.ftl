@@ -13,7 +13,7 @@ what-is-firefox = Τι είναι το { -brand-name-firefox };
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = Το { -brand-name-firefox-browser } είναι το μόνο κύριο πρόγραμμα περιήγησης που υποστηρίζεται από ένα μη κερδοσκοπικό οργανισμό που δεν πουλά τα προσωπικά σας δεδομένα σε διαφημιστές, ενώ σας βοηθά να προστατέψετε τις ιδιωτικές σας πληροφορίες. Μάθετε περισσότερα σχετικά με τα <a href="{ $url }">{ -brand-name-firefox-browsers }</a> και <a href="{ $url2 }">άλλα προϊόντα.</a>
 how-do-i = Πώς κάνω λήψη του { -brand-name-firefox-browser };
@@ -46,7 +46,7 @@ protecting-your-privacy = Η προστασία του απορρήτου σας
 is-firefox-safe = Είναι το { -brand-name-firefox } ασφαλές;
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = Όχι μόνο είναι ασφαλής η χρήση του { -brand-name-firefox }, αλλά σας βοηθά να προφυλάξετε τα προσωπικά σας δεδομένα. Το { -brand-name-firefox-browser } εμποδίζει αυτόματα τη συλλογή των δεδομένων σας από γνωστούς ιχνηλάτες τρίτων, ιχνηλάτες κοινωνικών δικτύων, cryptominers και fingerprinters. <a href="{ $url }">Μάθετε περισσότερα σχετικά με το απόρρητο στα προϊόντα μας.</a>
 related-questions-safe = Σχετικές ερωτήσεις: είναι το { -brand-name-firefox } κατάλληλο για το απόρρητο, είναι το { -brand-name-firefox } ασφαλές, είναι το { -brand-name-firefox } καλύτερο για το απόρρητο

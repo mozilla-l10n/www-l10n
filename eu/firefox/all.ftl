@@ -5,26 +5,17 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Egiaztatu sistemaren eskakizunak
-firefox-all-release-notes = Bertsio-oharrak
-firefox-all-source-code = Iturburu-kodea
-firefox-all-need-help = Laguntza bila?
-firefox-all-which-browser-would = Zein nabigatzaile deskargatu nahi duzu?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Lortu laguntza
-firefox-all-you-are-about-to-download = Honakoa deskargatzear zaude:
-firefox-all-browser = Nabigatzailea:
-firefox-all-platform = Plataforma:
-firefox-all-language = Hizkuntza:
 firefox-all-sorry-we-couldnt-find = Ezin izan dugu aurkitu bila zabiltzan deskarga. Saiatu berriro geroago edo hautatu deskarga bat ondorengo zerrendatik.
 firefox-all-the-pre-alpha-version = Alfa-aurreko bertsioa erroreak bilatu eta garatu ahala eginbide berriak probatzea nahi duten erabiltzaile aurreratuentzat.
 firefox-all-64-bit-installers = 64 biteko instalatzaileak
 firefox-all-choose-a-64-bit-installer = Aukeratu 64 biteko instalatzaile bat 64 biteko prozesagailudun ordenagailuetarako, programei RAM gehiago erabiltzea baimentzen baitie — hau bereziki garrantzitsua da jokoetarako eta memoria asko behar duten bestelako aplikazioetarako.
 firefox-all-32-bit-installers = 32 biteko instalatzaileak
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Deskargatu { -brand-name-firefox-browser } nabigatzailea euskaraz edo beste 90 hizkuntzetako batean
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Edonork merezi du Internetera sarbidea — zure hizkuntzak ez luke inoiz oztopo izan behar. Horregatik — mundu osoko boluntarioen laguntzari esker — { -brand-name-firefox-browser } 90 hizkuntza baino gehiagotan dago eskuragarri.
+firefox-all-check-the-system-requirements = Egiaztatu sistemaren eskakizunak
+firefox-all-release-notes = Bertsio-oharrak
+firefox-all-source-code = Iturburu-kodea
+firefox-all-need-help = Laguntza bila?
 firefox-all-choose-which-firefox = Aukeratu zein { -brand-name-firefox-browser } deskargatu zure hizkuntzan
 firefox-all-firefox-privacy-notice = { -brand-name-firefox }en pribatutasun-oharra
 firefox-all-learn-about-firefox = Ikasi gehiago { -brand-name-firefox } nabigatzaileei buruz

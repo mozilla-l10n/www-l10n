@@ -9,11 +9,6 @@ moz-account-promo-title = Jadno pśizjawjenje. <br> <span { $class }>Wšykno</sp
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
 moz-account-already-have-v2 = Maśo južo konto? <a { $sign_in_url }>Pśizjawśo se</a> abo <a { $learn_more_url }>zgóńśo wěcej</a> wó tom, kak móžośo se { -brand-name-mozilla } pśizamknuś.
-# Obsolete string (expires: 2024-09-12)
-# Variables
-#   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
-moz-account-already-have = Maśo južo konto? <a { $sign_in_url }>Pśizjawśo se</a> abo <a { $learn_more_url }>zgóńśo wěcej</a> wó { -brand-name-mozilla }.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
 moz-account-product-pocket = { -brand-name-pocket }

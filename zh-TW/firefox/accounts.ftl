@@ -7,26 +7,16 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = 註冊 { -brand-name-mozilla-account } - 保持資料隱私、安全、同步
-# Obsolete string
-firefox-accounts-get-a-firefox-account = 註冊 { -brand-name-firefox-account } - 保持資料隱私、安全、同步
-# Obsolete string
-firefox-accounts-securely-sync-your = 安全地在不同裝置間同步您的密碼、書籤與分頁。立即註冊 { -brand-name-firefox-account }: 一次登入，隨處都有強大威力與隱私保護功能。
 # HTML page description
 mozilla-accounts-securely-sync-your = 安全地在不同裝置間同步您的密碼、書籤與分頁。立即註冊 { -brand-name-mozilla-account } 帳號：一次登入，隨處都有強大威力與隱私保護功能。
 firefox-accounts-enter-your-email-address = 輸入您的電子郵件地址，即可加入我們。
 firefox-accounts-already-have-an-account = 已經有帳號了嗎？
 firefox-accounts-sign-in = 登入
-# Obsolete string
-firefox-accounts-already = 您已經擁有 { -brand-name-firefox-account }，恭喜！
 mozilla-accounts-already = 您已經擁有 { -brand-name-mozilla-account }，恭喜！
 firefox-accounts-manage = 管理帳號
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = 登入您的 { -brand-name-mozilla-account }，即可：
-# Obsolete string
-firefox-accounts-sign-in-to = 登入您的 { -brand-name-firefox-account }，即可：
-# Obsolete string
-firefox-accounts-meet-our-family-of = 認識我們一系列隱私優先的產品。
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">傳送分頁</a>到另一台裝置上
@@ -48,8 +38,6 @@ firefox-accounts-get-it-all-on-every = 在所有裝置皆可下載，不會讓�
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

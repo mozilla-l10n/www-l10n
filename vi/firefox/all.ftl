@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Tải xuống { -brand-name-firefox } bằng tiếng Anh (Hoa Kỳ) và hơn 90 ngôn ngữ khác
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = Tải xuống { -brand-name-firefox-browser } bằng tiếng Anh (Hoa Kỳ) và hơn 90 ngôn ngữ khác
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Mọi người đều xứng đáng được truy cập internet — ngôn ngữ của bạn không bao giờ là rào cản. Đó là tại sao — với sự giúp đỡ của các tình nguyện viên tận tâm trên khắp thế giới — chúng tôi đã tạo { -brand-name-firefox } có sẵn trong hơn 90 ngôn ngữ.
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = Mọi người đều xứng đáng truy cập internet — ngôn ngữ của bạn không bao giờ là rào cản. Đó là lý do tại sao — với sự giúp đỡ của các tình nguyện viên tận tâm trên toàn thế giới — chúng tôi cung cấp { -brand-name-firefox-browser } với hơn 90 ngôn ngữ.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = Quét mã QR để tải <em>{ $product_name }</em>
@@ -26,14 +22,8 @@ firefox-all-change-language = Chọn một ngôn ngữ khác
 firefox-all-down-arrow = Chọn từ danh sách dưới đây
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Trợ giúp
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = Trình duyệt:
 firefox-all-browser-v2 = 1. Trình duyệt:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = Nền tảng:
 firefox-all-platform-v2 = 2. Nền tảng:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = Ngôn ngữ:
 firefox-all-language-v2 = 3. Ngôn ngữ:
 firefox-all-download = 4. Tải xuống:
 firefox-all-desktop = Máy tính để bàn

@@ -5,26 +5,17 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = စနစ်လိုအပ်ချက်များကို စစ်ဆေးပါ။
-firefox-all-release-notes = မှတ်စုထုတ်နုတ်မှု
-firefox-all-source-code = ရင်းမြစ်ကုဒ်
-firefox-all-need-help = အကူအညီ လိုလား။
-firefox-all-which-browser-would = ဆွဲချယူရင် သင့်ကြိုက်နှစ်သက်ရာကို ရွေးပါ
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = အကူအညီရယူပါ။
-firefox-all-you-are-about-to-download = သင်ဒေါင်းလုပ်ချရန်အကြောင်းအရာ:
-firefox-all-browser = ဘရောင်ဇာ
-firefox-all-platform = ပလက်ဖောင်း
-firefox-all-language = ဘာသာစကား -
 firefox-all-sorry-we-couldnt-find = သင်ရှာဖွေသောဒေါင်းလုပ်ကိုမတွေ့သောကြောင့်စိတ်မကောင်းပါ။ကျေးဇူးပြု၍ထပ်မံကြိုးစားမှုသို့မဟုတ်စာရင်းထဲမှဒေါင်းလုပ်တစ်ခုကိုရွေးချယ်ပါ။
 firefox-all-the-pre-alpha-version = လုပ်ဆောင်ချက်အသစ်များစမ်းသပ်ပြီးချို့ယွင်းချက်များကိုရှာဖွေချင်သောသုံးစွဲသူများအတွက်အကြိုအယ်လ်ဖာဗားရှင်း
 firefox-all-64-bit-installers = 64 ဘစ် အင်စတော်လာ
 firefox-all-choose-a-64-bit-installer = အထူးသဖြင့်အရေးကြီးသောဂိမ်းနှင့်အခြားတောင်းဆို application များအတွက် -ပိုမို RAM ကိုခွဲဝေချထားပေးရန်ဖို့ခွင့်ပြုထားတဲ့ 64-bit ပရိုဆက်ဆာနှင့်အတူကွန်ပျူတာများ, အတွက်64-bit installer ကိုရွေးချယ်ပါ။
 firefox-all-32-bit-installers = 32ဘစ် အင်စတော်လာများ
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = { -brand-name-firefox-browser } ဘရောက်ဇာ ကို အင်္ဂလိပ် (ယူအက်စ်) နှင့် အခြားဘာသာစကား 90 ကျော် အတွက် ဒေါင်းလုပ်ချနိုင်သည်။
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = အင်တာနက်ကို အသုံးပြုသူတိုင်း အတွက် သင့် ဘာသာစကား နှင့် ပတ်သက်၍ အခက်အခဲ မဖြစ်စေရန် ကွန်တော်တို့ သည် ကမ္ဘာပေါ်ရှိ လုပ်အားပေးများ ၏ အကူအညီဖြင့် { -brand-name-firefox-browser }  ဘရောက်ဇာ ကို ဘာသာစကား 90 ကျော် ဖြင့် ရရှိအောင် ပြုလုပ်ထားပါသည်။
+firefox-all-check-the-system-requirements = စနစ်လိုအပ်ချက်များကို စစ်ဆေးပါ။
+firefox-all-release-notes = မှတ်စုထုတ်နုတ်မှု
+firefox-all-source-code = ရင်းမြစ်ကုဒ်
+firefox-all-need-help = အကူအညီ လိုလား။
 firefox-all-choose-which-firefox = သင် ၏ ဘာသာစကား ဖြင့် ဆွဲချရန် { -brand-name-firefox-browser } ကို ရွေးပါ
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } သီးသန့်လုံခြုံမှု သတိပေးချက်
 firefox-all-learn-about-firefox = { -brand-name-firefox }ဘရောက်ဇာများအကြောင်းလေ့လာပါ
@@ -34,7 +25,6 @@ firefox-all-test-your-sites-against = သင်၏ မကြာခင် ဖြ�
 firefox-all-count-on-stability-and = စီးပွားရေးလုပ်ငန်းအတွက်ဒီ { -brand-name-firefox } browser ကိုအသုံးပြုခြင်းသည်တည်ငြိမ်မှုနှင့်လွယ်ကူမှုတို့အတွက်အားကိုးပါ။
 firefox-all-windows-installers-for = ကော်ပိုရိတ် အိုင်တီ များအတွက် သော ပြုပြင်ပြင်ဆင်ခြင်း၊ ဖြန်ကျက်ခြင်း နှင့် စီမံခန့်ခွဲမှု တို့ အတွက် လွယ်ကူရိုးရှင်းသော { -brand-name-firefox-browser }  ဝင်းဒိုး တွင် ထည့်သွင်းစရာ။
 firefox-all-arm64-installers = ARM 64/AArch64 ထည့်သွင်းစရာများ
-firefox-all-arm64-installers-optimized = Snapdragon-စွမ်းအားဖြင့် { -brand-name-windows } ပီစီများ အတွက် သီးသန့်ပြင်ဆင်ထားသော ARM64 / AArch64 ထည့်သွင်းစရာများ။
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32−ဘစ် ပရိုဆက်ဆာ — သို့မဟုတ် စွမ်းရည်နိမ့်သော သို့မဟုတ် အိုဟောင်းသော ကွန်ပျူတာများ အတွက်  32−ဘစ် ထည့်သွင်းစရာ ကိုရွေးချယ်ပါ။ အကယ်၍ 64−ဘစ် လား 32−ဘစ် ထည့်သွင်းစရာ လားဆိုတာ ကို <a href="{ $url }">သင် မသေခြာ့ပါက </a> 32−ဘစ် ကိုသာ ရွေးချယ်ရန် ကွန်ုပ်တို့ အကြံပြုပါသည်။

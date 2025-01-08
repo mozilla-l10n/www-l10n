@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
@@ -19,7 +19,7 @@ welcome-page4-firefox-private-safe-browser = „{ -brand-name-firefox }: პი�
 # "off your trail" is an expression for not being followed around.
 welcome-page4-get-data-trackers-off-your = მოიცილეთ კუდში დადევნებული მეთვალყურეები
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
+#   $privacy (url) - link to https://support.mozilla.org/kb/trackers-and-scripts-firefox-blocks-enhanced-track/
 welcome-page4-enhanced-tracking-protection = თვალთვალისგან გაძლიერებული დაცვა <a href="{ $privacy }"> ზღუდავს 2000+ მეთვალყურეს,</a> რომელიც თან დაგყვებათ ვებსივრცეში.
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = გააქრეთ კვალი

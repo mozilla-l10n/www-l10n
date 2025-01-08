@@ -21,13 +21,8 @@ browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Θέλετε ένα γρήγορο πρόγραμμα περιήγησης με προηγμένες δυνατότητες απορρήτου για κινητές συσκευές; Το { -brand-name-firefox-focus } διαγράφει αυτόματα το ιστορικό σας από το άνοιγμα έως το κλείσιμο της εφαρμογής.
 browsers-mobile-compare = Σύγκριση
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Δείτε την κατάταξη του { -brand-name-firefox } για υπολογιστές ανάμεσα σε άλλα, αντίστοιχα προγράμματα.
-# Obsolete string (expires 30 June 2024)
-browsers-mobile-see-how-firefox-for-desktop-stacks = Δείτε την κατάταξη του { -brand-name-firefox } για υπολογιστές ανάμεσα σε επτά άλλα, αντίστοιχα προγράμματα.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Δείτε την κατάταξη του { -brand-name-firefox } για <strong>υπολογιστές</strong> ανάμεσα σε άλλα, αντίστοιχα προγράμματα.
-# Obsolete string (expires 30 June 2024)
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = Δείτε την κατάταξη του { -brand-name-firefox } για <strong>υπολογιστές</strong> ανάμεσα σε επτά άλλα, αντίστοιχα προγράμματα.
 browsers-mobile-download = Λήψη
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

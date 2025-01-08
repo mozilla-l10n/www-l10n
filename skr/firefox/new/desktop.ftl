@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } کوں <a
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = جیویں جیویں انٹرنیٹ ودھدا تے تبدیل تھیندا ہے، { -brand-name-firefox } تہاݙے رازداری دے حق تے توجہ مرکوز کریندا رہندا ہے — اساں اینکوں <a { $attrs }>ذاتی ڈیٹا وعدہ</a> آہدے ہیں: گھٹ گھنو۔ اینکوں محفوظ رکھو۔ کوئی راز کائنی۔ تہاݙا ڈیٹا، تہاݙی ویب سرگرمی، تہاݙی آن لائن زندگی { -brand-name-firefox } دے نال محفوظ ہے۔
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } تہاݙے تمام آلات تے دستیاب ہے۔ اپݨے ٹیباں، تاریخ تے نشانیاں اپݨے نال گھن ونڄو۔ تہاکوں صرف ہک <a { $attrs }>{ -brand-name-firefox }  اکاؤنٹ </a> دی ضرورت ہے۔
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox }تُہاݙے سبّھے ڈیوائساں اُتے دستیاب ہِے۔ آپݨے ٹیبز، ہسٹری اَتے بُک مارکس آپݨے نال گِھن ون٘ڄو۔ تُہاکوں صرف ہِک <a { $attrs }>{ -brand-name-mozilla-account }</a> دی لوڑ ہِے اَتے تُہاکوں ہم وقت پذیری اَتے ٻئے { -brand-name-mozilla }مصنوعات تئیں رسائی مِلسی۔
@@ -147,8 +143,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } خود 
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = سوالات؟ <a { $attrs }>{ -brand-name-mozilla } سپورٹ</a> تہاڈی پوری پوری مدد کیتی ہے۔
 firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monitor } دے نال ہیکرز تے نظر رکھو، { -brand-name-firefox-relay }، تے ودھیک دے نال اپݨے ای میل ایڈریس دی حفاظت کرو۔
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor } دے نال ہیکرز تے نظر رکھو، { -brand-name-firefox-relay }، تے ودھیک دے نال اپݨے ای میل ایڈریس دی حفاظت کرو۔
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -186,4 +180,3 @@ firefox-desktop-download-please-follow = { -brand-name-firefox } انسٹال ک
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = تہاݙا نظام { -brand-name-firefox } چلاوݨ دیاں ضروریات پوریاں کائنی کرین٘دا، پر تساں <a href="{ $url }">انہاں ورشناں</a> وچوں ہک ورتݨ دی کوشش کر سڳدے ہو۔
-firefox-desktop-download-taskbar = { -brand-name-firefox } کوں انسٹال کرݨ دے بعد { -brand-name-windows } ٹاسک بار وِچ پن کیتا ویسے

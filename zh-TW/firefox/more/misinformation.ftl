@@ -14,7 +14,7 @@ misinformation-disinformation = 錯誤資訊、不實資訊 – 您可能聽過�
 misinformation-ultimately-harmful = 說到底，錯誤資訊與造假資訊都可能是有害的。不只是人們會相信錯誤資訊，假資訊會讓全球經濟蒙受大量損失，並且威脅民主與有效的治理。另外由於假新聞比正確新聞傳播得更快、更深、更廣，所以很難制止。
 misinformation-false-info-heading = 假資訊會出現在哪裡？
 # Variables:
-#   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
+#   $tracking (url) - link to https://blog.mozilla.org/products/firefox/firefox-privacy-protections/
 misinformation-widespread-online = 您在任何地方都可能遇到錯誤資訊與造假資訊，他們在網路上傳播最廣、最有影響力。演算法與<a href="{ $tracking }">追蹤技術</a>讓網站、部落格、論壇、社群網路上的錯誤訊息與造假訊息更容易接觸到大量受重。
 misinformation-tracking-advertising = 您可能聽過的「追蹤」通常都是在廣告產業的用法。然而要用來散佈假消息時，這也是相當強大的工具。怎麼說呢？當您上網或是滑過社群網路的貼文時，不同業者會追蹤您的行為、興趣、聯絡人與各種資料，用以完全針對您建立一套精準的個人資訊，並在您不知情、未同意的情況下賣給其他人。這些資訊可用來對您進行個人化廣告，也可以用來針對您精準投放各種資訊。
 misinformation-social-newtorks = 您在網站或社群網路收到的內容推薦，常常是根據演算法依照個人資訊所計算出的結果。不巧的是，雖然演算法越來越聰明，但不會去確認內容的準確性。這在社群網路當中尤其會是個問題：社群網路每天都無限量地接觸使用者的各種資料，也幾乎能無限量地存取使用者貼文、新聞、廣告、贊助內容等內容。就算貼文內容可能只是無意散佈了錯誤資訊，但有心人仍然會刻意透過廣告、贊助內容等方式針對您來投放假資訊藉以操弄您，所以要能夠識別出這些錯誤資訊相當重要。

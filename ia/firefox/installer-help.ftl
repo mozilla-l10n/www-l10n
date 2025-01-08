@@ -19,10 +19,6 @@ installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc-v2 = Installa le ultime. Automatic confidentialitate es hic. Discarga { -brand-name-firefox } pro blocar { $trackers } traciatores.
-# Obsolete string (expires: 2024-05-14)
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Installa le ultime. Automatic confidentialitate es hic. Discarga { -brand-name-firefox-browser } pro blocar { $trackers } traciatores.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Testa le functiones quasi preste in le version preliminar le plus stabile.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }

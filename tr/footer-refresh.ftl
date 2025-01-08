@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-refresh-get-the-best = { -brand-name-firefox } ipuçları, püf noktaları ve güncellemeleri e-postanıza gelsin. E-posta adresinizi gizli ve güvende tutacağımıza söz veriyoruz. Harika { -brand-name-firefox } içerikleri dışında hiçbir şey göndermiyoruz.
 footer-refresh-leadership = Yönetim
 footer-refresh-advertise = { -brand-name-mozilla } ile Reklam Verin
 footer-refresh-firefox-release-notes = { -brand-name-firefox } Sürüm Notları
@@ -41,5 +40,3 @@ footer-refresh-community-participation-guidelines = Topluluk Katılım Kurallar�
 footer-refresh-about-this-site = Bu Site Hakkında
 footer-refresh-all-languages = Tüm diller
 footer-refresh-language = Dil
-footer-refresh-primary-nav-aria-label = Ana alt menü
-footer-refresh-secondary-nav-aria-label = İkincil alt menü

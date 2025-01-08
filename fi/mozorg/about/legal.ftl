@@ -35,6 +35,4 @@ legal-mozilla-vpn-terms = { -brand-name-mozilla-vpn } -käyttöehdot
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = { -brand-name-mdn-plus } -käyttöehdot
 legal-report-copyright = Ilmoita tekijänoikeus- tai tavaramerkkiloukkauksesta
-legal-hubs = { -brand-name-mozilla-hubs }
-legal-hubs-terms = { -brand-name-mozilla-hubs } -käyttöehdot
 legal-mozilla-subscription-services = { -brand-name-mozilla }-tilauspalvelut

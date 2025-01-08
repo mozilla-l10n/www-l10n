@@ -17,7 +17,7 @@ new-platform-advanced-install-options = Pokročilé možnosti inštalácie a ďa
 new-platform-download-in-another = Stiahnuť v inom jazyku
 new-platform-need-help = Potrebujete pomoc?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = Stiahnite si { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-linux }
 # /firefox/linux/ HTML page description

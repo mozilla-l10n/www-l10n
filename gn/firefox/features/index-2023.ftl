@@ -11,10 +11,6 @@ features-index-firefox-browser-features = { -brand-name-firefox } kundahára reh
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } ha’e kundahára ipya’e, ivevúi ha hekoñemíva ojeporukuaáva opaite mba’e’oka ndive.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } ipya’evéva gueteri
 features-index-the-latest-browser-speed-benchmarks = Umi ñeha’ã oñembojuehéva kundahára pya’ekue ohechauka { -brand-name-firefox } ipya’eveha ko’ẽreíre.
-# Obsolete string
-features-index-is-firefox-a-fast-browser = { -brand-name-firefox } kundahára ipya’éva
-# Obsolete string
-features-index-firefox-uses-less-memory-than = { -brand-name-firefox } oiporu’ive mandu’arenda Chrome-gui, upéicha ambue tembiaporape omba’apo pya’eve.
 features-index-is-firefox-a-private-browser = ¿{ -brand-name-firefox } kundahára hekoñemíva?
 features-index-were-focused-on-your-right-to = Romomba’e nde rekoñemi derécho. Ne mba’ekuaarã, ne rembiapo ñandutípe, eikundahávo { -brand-name-firefox } nemo’ã.
 features-index-free-password-manager = Ñe’ẽñemi reigua ñangarekoha
@@ -42,7 +38,5 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } ojoko ijeh
 features-index-ditch-the-sticky-ads = Ejei umi maranduñemurã nderapykuehóvagui ñemokuãhũ (fingerprinting) jokoha ndive oĩva { -brand-name-firefox } kundahárape.
 features-index-translate-the-web = Emoñe’ẽasa ñanduti
 features-index-translate-websites-to-your = Emoñe’ẽasa ñanduti rogue ne ñe’ẽteépe ne kundahára { -brand-name-firefox }-pe, emoherakuã’ỹre ne mba’ekuaarã avavete ndive.
-# Obsolete string
-features-index-translate-more-than = Emoñe’ẽasa hetave 100 ñe’ẽgui nemba’etépe nde { -brand-name-firefox } kundahára guive — ndahasyive ko’ág̃a rupi ijapo.
 features-index-picture-in-picture = Picture-in-picture
 features-index-got-things-to-do = ¿Ereko ejapo ha ehecháva? Ejapo mokõivéva Picture-in-Picture ndive { -brand-name-firefox } rupive.

@@ -11,8 +11,6 @@ firefox-products-mozilla-products = Products da { -brand-name-mozilla }
 firefox-products-mozillas-family-of-products = La paletta da products da { -brand-name-mozilla } èn tuts vegnids creads per che ti possias ta mover pli segir e pli furber en l’internet
 firefox-products-products = Products
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } è mo l’entschatta.
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } è mo l’entschatta
 firefox-products-mozillas-family-of-products-sentence = La paletta da products da { -brand-name-mozilla } èn tuts vegnids creads per che ti possias ta mover pli segir e pli furber en l’internet.
 
 ## Firefox
@@ -67,6 +65,4 @@ firefox-products-analyze = Analisar ina URL
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content-v2 = Scuvra il meglier cuntegn dal web – e profitescha dad el nua e cura ch’i saja. Creà da { -brand-name-mozilla }.
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = Scuvra il meglier cuntegn dal web – e profitescha dad el nua e cura ch'i saja.
 firefox-products-get-pocket = Va per { -brand-name-pocket }

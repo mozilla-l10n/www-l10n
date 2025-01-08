@@ -12,8 +12,6 @@ vpn-linux-linux-is-free = Linux-i është i lirë, me burim të hapët dhe që m
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } është një shërbim rrjeti virtual privat që përdor fshehtëzim të fjalës së fundit, me burim të hapët dhe nuk regjistron, ndjek ose i jep dikujt të dhëna të çfarëdo veprimtarie tuajën në rrjet. Ju lejon të lidheni me mbi 500 shërbyes në mbi 30 vende.
 vpn-linux-why-choose = Pse të zgjidhet { -brand-name-mozilla-vpn } për Linux?
 vpn-linux-fast-and-v2 = <strong>I shpejtë dhe i qëndrueshëm:</strong> { -brand-name-mozilla-vpn } përdor protokollin { -brand-name-wireguard }®, që ofron punim dhe qëndrueshmëri më të mirë se sa protokolle të tjerë VPN.
-# Obsolete string
-vpn-linux-fast-and = <strong>I shpejtë dhe i qëndrueshëm:</strong> { -brand-name-mozilla-vpn } përdor protokollin { -brand-name-wireguard }®, që ofron punim dhe qëndrueshmëri më të mirë se sa protokolle të tjerë VPN
 vpn-linux-no-logs = <strong>Pa regjistra:</strong> { -brand-name-mozilla-vpn } nuk mban ndonjë regjistër mbi veprimtarinë tuaj në rrjet; nuk regjistrojmë cilët sajte vizitoni, apo të mbikëqyrim trafikun tuaj.
 vpn-linux-additional-security = <strong>Veçori shtesë sigurie:</strong> Ne përdorim bllokim DNS për të bllokuar reklama, gjurmues dhe <em>malware</em>. Teksa një shfletues mund të pengojë vetëm sajte të mos ju japin <em>malware</em> dhe t’ju ndjekin.
 vpn-linux-device-level = <strong>Fshehtëzim në shkallë pajisjeje:</strong> Ndryshe nga VPN që fshehtëzojnë vetën trafikun e shfletuesit tuaj, { -brand-name-mozilla-vpn } fshehtëzon krejt trafikun e pajisjes tuaj, përfshi krejt aplikacionet dhe lojërat tuaja.
@@ -27,11 +25,6 @@ vpn-linux-how-to-install = Si të instalohet { -brand-name-mozilla-vpn } në Lin
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
 vpn-linux-if-you-use-v2 = Nëse përdorni një nga hedhjet e mbuluara në qarkullim të Ubuntu-së, ka dy rrugë për të instaluar paketat zyrtare mozillavpn të strehuara në <a { $attrs }>Launchpad:</a>
-# Obsolete string
-# Variables:
-#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
-# 'mozillavpn' should not be translated as it is the proper name of the package
-vpn-linux-if-you-use = Nëse përdorni një nga hedhjet e mbuluara në qarkullim të Ubuntu-së, ka dy rrugë për të instaluar paketat zyrtare mozillavpn të strehuara në <a { $attrs }>launchpad:</a>
 # Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
 vpn-linux-ubuntu-command = <strong>Mënyra rresht urdhrash Ubuntu:</strong> Për udhëzime të hollësishme se si të instalohet { -brand-name-mozilla-vpn } duke përdorur mjete të mënyrës rresht urdhrash, shihni <a { $attrs }>Si të instalohet { -brand-name-mozilla-vpn } në një kompjuter Linux</a>.

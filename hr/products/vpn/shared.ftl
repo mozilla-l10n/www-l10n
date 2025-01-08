@@ -10,10 +10,6 @@ vpn-shared-subscribe-link = Nabavi { -brand-name-mozilla-vpn }
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dnevno jamstvo povrata novca
 vpn-shared-features-encrypt = Šifriranje na razini uređaja
-# Variables:
-#   $servers (number) - number of available servers
-#   $countries (number) - number of available countries
-vpn-shared-features-servers = Više od { $servers } servera u više od { $countries } zemalja
 vpn-shared-features-bandwidth = Bez ograničenja propusnosti
 vpn-shared-features-activity = Bez zapisivanja tvoje internetske aktivnosti
 vpn-shared-features-activity-logs = Bez zapisivanja internetske aktivnosti sada niti ikada
@@ -21,18 +17,8 @@ vpn-shared-features-activity-logs = Bez zapisivanja internetske aktivnosti sada 
 #   $countries (number) - number of available countries
 vpn-shared-features-access-countries = Pristup serverima u više od { $countries } zemalja
 # Variables:
-#   $devices (number) - maximum number of connected devices
-vpn-shared-features-devices = Mogućnost povezivanja do { $devices } uređaja
-# Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-protection = Zaštita za do { $devices } uređaja
-# Variables:
-#   $servers (number) - number of available servers
-#   $countries (number) - number of available countries
-vpn-shared-features-server-countries = Poveži se s više od { $servers } servera u više od { $countries } zemlje/zamalja
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-countries-coming-soon = Sada dostupno u { $countries } zemalja. Uskoro još više regija
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-strong-servers = Jaki serveri u više od { $countries } zemljama
@@ -47,11 +33,7 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } je registriran zašti
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
-vpn-shared-pricing-variable-heading-v2 = Odaberi plan pretplate koji ti odgovara
-vpn-shared-one-subscription-heading = Jedna pretplata za sve tvoje uređaje
 vpn-shared-pricing-recommended-offer = Preporučeno
-vpn-shared-pricing-plan-12-month-v2 = 12-mjesečni plan
-vpn-shared-pricing-plan-monthly-v2 = Mjesečni plan
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span> na mjesec</span>
@@ -59,8 +41,6 @@ vpn-shared-pricing-monthly = { $amount }<span> na mjesec</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span> na mjesec plus porez</span>
-vpn-shared-pricing-get-12-month-v2 = Nabavi 12-mjesečni plan
-vpn-shared-pricing-get-monthly = Nabavi mjesečni plan
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = Uštedi { $percent }%
@@ -79,44 +59,21 @@ vpn-shared-pricing-total = { $amount } ukupno
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total-plus-tax = { $amount } ukupno + porez
+vpn-shared-mozilla-vpn-is-not-yet-available = Nažalost { -brand-name-mozilla-vpn } joü nije dostupan u tvojoj zemlji.
 
 # Platform subpage shared strings
 
 vpn-shared-platform-cta-headline = Započmimo
 vpn-shared-platform-cta-button = Pogledaj cijene i dostupnost
 vpn-shared-platform-privacy-promise = Tvoja privatnost je naše obećanje
-vpn-shared-platform-trust-partner-headline = O našem pouzdanom partneru
 vpn-shared-platform-what-is = Što je { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Zašto { -brand-name-mozilla-vpn }?
 vpn-shared-platform-what-youll-get = Što ćeš dobiti s { -brand-name-mozilla-vpn }-om:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
-vpn-subnav-whats-a-vpn = Što je VPN?
-vpn-subnav-faqs = Često postavljena pitanja
-vpn-subnav-get-help = Dobij pomoć
-vpn-subnav-platform-android = { -brand-name-android }
-vpn-subnav-platform-desktop = Desktop
-vpn-subnav-platform-ios = { -brand-name-ios }
-vpn-subnav-platform-linux = { -brand-name-linux }
-vpn-subnav-platform-mac = { -brand-name-mac-short }
-vpn-subnav-platform-mobile = Mobitel
-vpn-subnav-platform-windows = { -brand-name-windows }
-vpn-subnav-whats-an-ip-address = Što je IP adresa?
-vpn-subnav-vpn-vs-proxy = VPN / Proxy usporedba
-vpn-subnav-subscribe = Pretplati se na { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Saznaj više o VPN-ovima
 vpn-subnav-download-mozilla-vpn = Preuzmi { -brand-name-mozilla-vpn }
 vpn-subnav-features = Funkcije
-
-## VPN + Relay bundle offer
-
-vpn-shared-relay-email-masking = Maskiranje e-mail adreses
-vpn-shared-relay-phone-masking = Maskiranje broja telefona
-vpn-shared-get-vpn-plus-relay = Nabavi { -brand-name-vpn } + { -brand-name-relay }
-# Variables:
-#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
-vpn-shared-save-on-relay-premium = <span>Uštedi { $percent } %</span> na { -brand-name-relay-premium } godišnjem planu
-vpn-shared-mozilla-vpn-is-not-yet-available = Nažalost { -brand-name-mozilla-vpn } joü nije dostupan u tvojoj zemlji.
 
 ## Press quotations
 

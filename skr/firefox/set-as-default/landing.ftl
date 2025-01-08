@@ -9,9 +9,7 @@
 set-as-default-landing-make-firefox-your-default = { -brand-name-firefox } کوں آپݨا  ڈیفالٹ براؤزر بݨاؤ
 # HTML page description
 set-as-default-landing-choose-the-browser = او براؤزر منتخب کرو جیڑھا تہاݙی رازداری دی حفاظت کرے۔ { -brand-name-firefox } کوں اپݨے ڈیفالٹ براؤزر دے طور تے سیٹ کرو۔
-# Obsolete string
 set-as-default-landing-thanks-for-using-the = تازہ ترین { -brand-name-firefox } براؤزر استعمال کرݨ دا شکریہ۔ جݙاں تساں { -brand-name-firefox } دا انتخاب کریندے او، تاں تساں اپݨے تے باقی سبھ کیتے ہک بہتر ویب دی حمایت کریندے او۔ ہݨ اپݨے آپ کوں بچاوݨ کیتے اڳلا قدم چاوو۔
-# Obsolete string
 set-as-default-landing-make-sure-youre-protected = ایں ڳالھ کوں یقینی بݨاؤ جو ہر واری آن لائن تھیوݨ ویلے تساں حفاظت وچ ہوو۔
 set-as-default-landing-you-should-get = تہاکوں براؤز کرݨ دے طریقے دے بارے وِچ کجھ آکھݨا چاہیدا ہے۔
 set-as-default-landing-if-you-recently = جے تساں حالیہ اپݨے کمپیوٹر کوں اپ ڈیٹ کیتا ہے، تاں تھی سڳدا ہے جو تہاݙیاں ترتیباں بدل ڳئیاں ہوون۔ جݙاں وی تساں { -brand-name-firefox } دے نال آن لائن تھیوو تاں مفت تے کھلے انٹرنیٹ کوں سپورٹ کرو۔

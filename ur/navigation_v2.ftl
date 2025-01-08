@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox } ڈائونلوڈ کریں
 navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } حاصل کریں
 navigation-v2-menu = مینیو
-# Obsolete string
-navigation-v2-get-a-firefox-account = { -brand-name-firefox-account } حاصل کریں
 
 ## Firefox menu
 
@@ -17,7 +15,6 @@ navigation-v2-firefox-for-desktop = ڈیسک ٹاپ کے لئے { -brand-name-fi
 navigation-v2-firefox-for-android = { -brand-name-android } کی لئے  { -brand-name-firefox }
 navigation-v2-firefox-for-ios = { -brand-name-ios } کے لیے { -brand-name-firefox }
 navigation-v2-simply-private-mobile = بس نجی موبائل براؤزنگ۔
-navigation-v2-privacy-promise = رازداری کا وعدہ
 navigation-v2-firefox-blog = { -brand-name-firefox } بلاگ
 navigation-v2-release-notes = اجرائی نوٹ
 navigation-v2-view-all-firefox-browsers = تمام { -brand-name-firefox-browsers } دیکھیں
@@ -26,17 +23,13 @@ navigation-v2-view-all-firefox-browsers = تمام { -brand-name-firefox-browser
 
 navigation-v2-products = مصنوعات
 navigation-v2-close-products-menu = مصنوعات کا مینو کو بند کریں
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = پورے ویب سے بہترین کہانیاں محفوظ اور دریافت کریں۔
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = اپنے تمام آلات پر اپنے براؤزر سے بالاتر ہوکر تحفظ حاصل کریں۔
-navigation-v2-product-promise = مسنووعہ کا وعدہ
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay }  (beta)
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
-navigation-v2-protect-your-browsers-connection = انٹرنیٹ سے اپنے براؤزر کے رابطے کی حفاظت کریں۔
 navigation-v2-view-all-products = تمام مصنوعات دیکھیں
 
 ## Who We Are menu
@@ -56,8 +49,6 @@ navigation-v2-more-about-mozilla = { -brand-name-mozilla } کے بارے میں 
 ## Innovation menu
 
 navigation-v2-innovation = بدعت
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = اس انٹرایکٹو ، آن لائن ، کثیر جہتی سماجی جگہ میں جمع ہوں۔
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = { -brand-name-firefox } حاصل کریں ، جو صرف ڈویلپرز کے لئے بنایا گیا ہے۔
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }

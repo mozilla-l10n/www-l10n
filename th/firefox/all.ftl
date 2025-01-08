@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = ดาวน์โหลด { -brand-name-firefox } ในภาษาไทยและภาษาอื่น ๆ อีกมากกว่า 90 ภาษา
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = ดาวน์โหลด{ -brand-name-firefox-browser } ในภาษาไทยและภาษาอื่น ๆ อีกมากกว่า 90 ภาษา
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = เราเชื่อว่าทุกคนควรสามารถเข้าถึงอินเทอร์เน็ตได้ ภาษาของคุณจึงไม่ควรเป็นอุปสรรค นั่นคือเหตุผลที่เราทำให้ { -brand-name-firefox } มีให้ใช้ในกว่า 90 ภาษาโดยได้รับความช่วยเหลือจากอาสาสมัครทั่วโลก
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = เราเชื่อว่าทุกคนควรสามารถเข้าถึงอินเทอร์เน็ตได้ ภาษาของคุณจึงไม่ควรเป็นอุปสรรค นั่นคือเหตุผลที่เราทำให้{ -brand-name-firefox-browser } มีให้ใช้ในกว่า 90 ภาษาโดยได้รับความช่วยเหลือจากอาสาสมัครทั่วโลก
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = สแกนคิวอาร์โค้ดเพื่อรับ <em>{ $product_name }</em>
@@ -26,14 +22,8 @@ firefox-all-change-language = เลือกภาษาอื่น
 firefox-all-down-arrow = เลือกจากรายการด้านล่าง
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = รับความช่วยเหลือ
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = เบราว์เซอร์:
 firefox-all-browser-v2 = 1. เบราว์เซอร์:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = แพลตฟอร์ม:
 firefox-all-platform-v2 = 2. แพลตฟอร์ม:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = ภาษา:
 firefox-all-language-v2 = 3. ภาษา:
 firefox-all-download = 4. ดาวน์โหลด:
 firefox-all-desktop = เดสก์ท็อป

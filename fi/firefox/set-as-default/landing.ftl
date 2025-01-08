@@ -9,9 +9,7 @@
 set-as-default-landing-make-firefox-your-default = Aseta { -brand-name-firefox } oletusselaimeksi
 # HTML page description
 set-as-default-landing-choose-the-browser = Valitse selain, joka suojaa yksityisyyttäsi. Aseta { -brand-name-firefox } oletusselaimeksi.
-# Obsolete string
 set-as-default-landing-thanks-for-using-the = Kiitos, että käytät uusinta { -brand-name-firefox }-selainta. Kun valitset { -brand-name-firefox }in, tuet parempaa verkkoa sinulle ja kaikille muille. Ota nyt seuraava askel suojataksesi itseäsi.
-# Obsolete string
 set-as-default-landing-make-sure-youre-protected = Varmista, että olet turvassa aina kun olet verkossa
 set-as-default-landing-you-should-get = Sananvaltaa selaamiseen
 set-as-default-landing-if-you-recently = Jos päivitit tietokoneesi äskettäin, asetuksesi ovat saattaneet muuttua. Tue vapaata ja avointa internetiä joka kerta, kun käytät verkkoa { -brand-name-firefox }illa.

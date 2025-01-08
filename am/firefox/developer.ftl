@@ -9,7 +9,6 @@
 ## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-speak-up = ተናገር
 firefox-developer-feedback-makes-us = ግብረመልስ የተሻሉ ያደርገናል። አሳሹን እና የገንቢ መሳሪያዎችን እንዴት ማሻሻል እንደምንችል ይንገሩን።
 firefox-developer-join-the-convo = ውይይቱን ይቀላቀሉ
@@ -45,11 +44,7 @@ firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-built-for-developers = ለገንቢዎች የተሰራ
 firefox-developer-master-innovative-features = የፈጠራ ባህሪያት
 firefox-developer-convenient-features = ምቹ ባህሪዎች
-firefox-developer-faster-performance = ፈጣን አፈጻጸም
 firefox-developer-shapes-editor = ቅርጾች አርታዒ
 firefox-developer-download-the-firefox-browser = ለገንቢዎች የተሰራውን { -brand-name-firefox } አሳሽ ያውርዱ
-firefox-developer-welcome-to-the-all-new = እንኳን ወደ አዲሱ { -brand-name-firefox-quantum }:- { -brand-name-developer-edition } በደህና መጡ
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } ፈጣን፣ ቀልጣፋ እና ከመቼውም ጊዜ በበለጠ ኃይለኛ እንዲሆን ከስር ጀምሮ እንደገና ተገንብቷል።
-firefox-developer-congrats-you-now-have-firefox = እንኳን ደስ አለዎት። አሁን { -brand-name-firefox-quantum }: { -brand-name-developer-edition } አለዎት።
 firefox-developer-made-for-developers = ለገንቢዎች የተሰራ አሳሽ
-firefox-developer-congrats-you-now-have-latest = እንኳን ደስ አልዎት። አሁን የቅርብ ጊዜው የ{ -brand-name-firefox-browser } { -brand-name-developer-edition } አለዎት።

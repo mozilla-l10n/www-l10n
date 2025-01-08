@@ -11,8 +11,6 @@ firefox-products-mozilla-products = { -brand-name-mozilla } proizvodi
 firefox-products-mozillas-family-of-products = { -brand-name-mozilla } je cijela porodica proizvoda dizajniranih da vas drže sigurnijim i pametnijim online
 firefox-products-products = Proizvodi
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } je samo početak.
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } je samo početak
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } je cijela porodica proizvoda dizajniranih da vas drže sigurnijim i pametnijim online.
 
 ## Firefox
@@ -67,6 +65,4 @@ firefox-products-analyze = Analizirajte URL
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content-v2 = Otkrijte najbolji sadržaj na webu — i konzumirajte ga gdje god i kad god želite. Napravio { -brand-name-mozilla }.
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = Otkrijte najbolji sadržaj na webu — i uživajte u njemu gdje god i kad god želite.
 firefox-products-get-pocket = Preuzmite { -brand-name-pocket }

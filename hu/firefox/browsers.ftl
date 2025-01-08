@@ -10,9 +10,6 @@ firefox-browsers-page-title = Töltse le az asztali, mobilos vagy vállalati { -
 # HTML page description
 firefox-browsers-page-desc = Válasszon az asztali, { -brand-name-ios }-es, { -brand-name-android(case: "lower") }os lehetőségek közül, vagy kérjen levélben egy mobilos letöltési hivatkozást.
 firefox-browsers-main-heading = { -brand-name-firefox } böngészők
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = Kapja meg azokat a <strong>böngészőket</strong>, melyek az adatvédelmet helyezik előtérbe – ahogy mindig is.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Szerezze be a böngészőt, mely az adatvédelmet helyezi előtérbe – ahogy <strong>mindig</strong> is tette
 firefox-browsers-desktop = Asztali

@@ -31,7 +31,7 @@ browser-history-the-browser-wars = Vojny prehliadačov
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = V roku 1995 nebol { -brand-name-netscape } Navigator jediným spôsobom, ako sa dostať online. Počítačový softvérový gigant { -brand-name-microsoft } licencoval starý kód Mosaicu a vytvoril svoje vlastné okno na web, <a href="{ $ie }">{ -brand-name-ie }</a>. Jeho sprístupnenie vyvolalo vojnu. { -brand-name-netscape } a { -brand-name-microsoft } horúčkovito pracovali na vytváraní nových verzií svojich programov, pričom sa každý pokúšal prekonať toho druhého rýchlejšími a lepšími produktmi.
 # Variables:
-#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = { -brand-name-netscape } vytvoril a uvoľnil JavaScript, ktorý poskytol webovým stránkam výkonné výpočtové možnosti, ktoré nikdy predtým nemali (vytvorili tiež neslávne známy <a href="{ $blink }">tag &lt;blink&gt;</a>). { -brand-name-microsoft } kontroval kaskádovými štýlmi (CSS), ktoré sa stali štandardom pre dizajn webovej stránky.
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1

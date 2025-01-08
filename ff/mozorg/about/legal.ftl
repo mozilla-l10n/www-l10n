@@ -10,7 +10,6 @@ legal-get-involved = Ar yantu e amen
 legal-terms = Kuule
 legal-our-websites = Lowe Geese amen
 legal-firefox-services = Kaɓirɗi { -brand-name-firefox }
-legal-webmaker = { -brand-name-webmaker }
 legal-privacy-trademarks = Suturo & marke
 legal-privacy-notices-and-policy = Tinndinooje cuuriiɗe e Dawrugol
 legal-downloadable-software-notices = Tinndinooje topirɗe gaawtotooɗe

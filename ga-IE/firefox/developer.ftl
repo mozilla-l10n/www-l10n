@@ -9,7 +9,6 @@
 ## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-get-involved = Glac páirt
 firefox-developer-performance = Feidhmíocht
 firefox-developer-style-editor = Eagarthóir Stíle

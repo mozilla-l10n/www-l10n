@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/windows/
@@ -17,7 +17,7 @@ new-platform-advanced-install-options = Opciones de instalación avanzadas y otr
 new-platform-download-in-another = Descargar en otro idioma
 new-platform-need-help = ¿Necesitás ayuda?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = Descargar { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-linux }
 # /firefox/linux/ HTML page description

@@ -13,8 +13,5 @@ not-found-page-go-back = ወደኋላ ተመለስ
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = ስለ { -brand-name-mozilla }፣ ከ{ -brand-name-firefox } በስተጀርባ ያለው ለትርፍ ያልተቋቋመው <a href="{ $about }">ይማር</a>።
 # Variables:
-#   $explore (url) - link to https://www.mozilla.org/firefox/
-not-found-page-explore-the-entire-family-for = የእርስዎን ግላዊነት ለማክበር የተነደፉ የ{ -brand-name-firefox } ምርቶችን ለማግኘት <a href={ $explore }>አስስ</a>።
-# Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = { -brand-name-firefox } አሳሽን ለተንቀሳቃሽ ስልክ ወይም ደስክቶፕ <a href={ $download }> ያውርዱ</a>

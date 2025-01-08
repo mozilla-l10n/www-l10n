@@ -52,8 +52,6 @@ manifesto-we-are-committed-to-diverse = Nus ans engaschain per in internet che e
 manifesto-show-your-support = Mussa tes sustegn
 manifesto-an-internet-with-these = In internet cun questas qualitads na nascha betg da sasez. Persunas singulas ed organisaziuns ston integrar questas finamiras en las tecnologias da l'internet ed en las experientschas ch'ils umans fan cun l'internet. Il manifest da { -brand-name-mozilla } e sia annexa stan per l'engaschi da { -brand-name-mozilla } per cuntanscher questas finamiras. Nus vulain collavurar cun persunas ed organisaziuns da tut il mund che sustegnan questas finamiras per far da l'internet in lieu anc meglier per tuts.
 manifesto-i-support-the-vision-of = Jau sustegn la visiun da @mozilla dad in internet meglier e pli saun – ti era?
-# Obsolete string
-manifesto-share-on-twitter = Cundivider sin { -brand-name-twitter }
 manifesto-share-on-x = Parter sin X
 manifesto-share-on-x-aria-label = Parter sin X (anteriur Twitter)
 manifesto-our-10-principles = <strong>Noss 10</strong> princips

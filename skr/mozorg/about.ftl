@@ -33,9 +33,6 @@ about-with-offices-all-over-the = <a href="{ $url }"> دنیا بھر دے دف�
 about-san-francisco = سان فرانسسکو
 about-talking-tech-issues-irl = تیکنیکی مسائل تے ڳالھ کریندے ہوئے IRL
 about-in-mozillas-multi-award-winning = { -brand-name-mozilla }دے ملٹی ایوارڈ یافتہ پوڈ کاسٹ وِچ، میزبان بریجیٹ ٹاڈ انٹرنیٹ اَتے اے آئی دے مستقبل کوں تشکیل ݙیوݨ آلے لوکاں نال ڳالھ کرین٘دے پئے ہِن۔
-# Obsolete strings (remove in 1-2 months)
-about-talking-internet-issues-irl = انٹرنیٹ مسائل تے ڳالھ کریندے ہوئے IRL
-about-in-mozillas-irl-podcast-host = { -brand-name-mozilla } کے IRL پوڈ کاسٹ وِچ، میزبان Manoush Zomorodi آن لائن زندگی دیاں حقیقی کہانیاں تے ویب دے مستقبل دے بارے حقیقی ڳالھ مہاڑ دی سانجھ کریندے او۔
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> غیر ملازم مہماناں دا ہر سال استقبال کیتا ویندا ہے۔
 about-berlin = برلن

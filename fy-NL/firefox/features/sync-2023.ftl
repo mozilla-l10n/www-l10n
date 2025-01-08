@@ -12,11 +12,6 @@ features-sync-access-your-firefox-bookmarks = Tagong ta jo { -brand-name-firefox
 features-sync-with-firefox-you-can-pick-up-where = Mei { -brand-name-firefox } kinne jo fierdergean wêr’t jo ophâlde as jo oerskeakelje fan jo desktopkompjûter nei jo mobile telefoan nei jo tablet. { -brand-name-firefox } lit jo jo blêdwizers sjen, jo navigaasjeskiednis, jo bewarre wachtwurden en mear, nettsjinsteande hokker apparaat jo brûke.
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Meld jo oan foar in fergees { -brand-name-mozilla-account }</a> en jo kinne jo gegevens oeral wêr’t jo { -brand-name-firefox } en oare { -brand-name-mozilla }-produkten brûke syngronisearje.
-# Obsolete string
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Meld jo oan foar in fergees { -brand-name-mozilla-account }</a> en jo kinne jo gegevens oeral wêr’t jo jo { -brand-name-firefox }-browser brûke syngronisearje.
-# Obsolete string
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Meld jo oan foar in fergees { -brand-name-firefox }-account</a> en jo kinne jo gegevens oeral wêr’t jo jo { -brand-name-firefox }-browser brûke syngronisearje.
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Al jo gegevens binne fersifere op ús servers, sadat wy dizze net lêze kinne. Allinnich jo hawwe der tagong ta. Wy ferkeapje jo gegevens net oan advertearders, omdat dat yn striid wêze soe mei ús <a href="{ $privacy }">belofte foar gegevensprivacy</a>.

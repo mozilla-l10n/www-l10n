@@ -13,8 +13,6 @@ vpn-download-sub-heading = Egy előfizetéssel akár { $devices } eszközre is l
 vpn-download-mozilla-vpn-offers = A { -brand-name-mozilla-vpn } biztonságos védelmet kínál az összes nagyobb operációs rendszer számára.
 vpn-download-not-available-in-country = Sajnáljuk, a { -brand-name-mozilla-vpn } nem érhető el az Ön országában.
 vpn-download-button-copy = Letöltés
-# Obsolete string
-vpn-download-for-windows = VPN { -brand-name-windows } 10-hez/11-hez
 vpn-download-for-windows-v2 = VPN { -brand-name-windows }ra
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (csak 64 bites)
 vpn-download-for-windows-long = A { -brand-name-mozilla-vpn } letöltése { -brand-name-windows }ra
@@ -32,8 +30,6 @@ vpn-download-for-android = VPN { -brand-name-android }ra
 vpn-download-for-android-long = A { -brand-name-mozilla-vpn } letöltése { -brand-name-android }ra
 vpn-download-for-ios = VPN { -brand-name-ios }-re
 vpn-download-for-ios-long-v2 = A { -brand-name-mozilla-vpn } letöltése { -brand-name-ios }-re
-# Obsolete string
-vpn-download-for-ios-long = A { -brand-name-mozilla-vpn } letöltése { -brand-name-ios }-re
 vpn-download-get-on-google-play = Szerezze be a { -brand-name-google-play } Áruházban
 vpn-download-get-on-app-store = Szerezze be az { -brand-name-app-store }-ban
 vpn-download-based-on-your = A jelenlegi eszköze alapján

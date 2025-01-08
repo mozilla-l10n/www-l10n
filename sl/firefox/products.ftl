@@ -11,8 +11,6 @@ firefox-products-mozilla-products = Izdelki { -brand-name-mozilla(sklon: "rodiln
 firefox-products-mozillas-family-of-products = Vsi izdelki { -brand-name-mozilla(sklon: "dajalnik") }ne družine so zasnovani, da vas varujejo in vam dajejo moč na spletu.
 firefox-products-products = Izdelki
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } je zgolj začetek.
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } je zgolj začetek
 firefox-products-mozillas-family-of-products-sentence = Vsi izdelki { -brand-name-mozilla(sklon: "dajalnik") }ne družine so zasnovani, da vas varujejo in vam dajejo moč na spletu.
 
 ## Firefox
@@ -62,5 +60,4 @@ firefox-products-analyze = Analizirajte URL
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content = Odkrijte najboljšo vsebino na spletu – in jo preberite, kjerkoli in kadarkoli želite.
 firefox-products-get-pocket = Prenesite { -brand-name-pocket }

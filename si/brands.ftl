@@ -40,9 +40,7 @@
 -brand-name-firefox-esr = Firefox ESR
 -brand-name-firefox-extended-support-release = Firefox විස්තෘත සහාය නිකුතුව
 -brand-name-firefox-focus = Firefox Focus
--brand-name-firefox-lite = Firefox Lite
 -brand-name-firefox-nightly = ෆයර්ෆොක්ස් නයිට්ලි
--brand-name-firefox-reality = Firefox Reality
 
 ## Firefox browsers (short names)
 
@@ -51,49 +49,56 @@
 -brand-name-enterprise = ව්‍යවසාය
 -brand-name-esr = ESR
 -brand-name-focus = Focus
--brand-name-lite = Lite
 -brand-name-nightly = නයිට්ලි
--brand-name-reality = Reality
 
 ## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = අවුරෝරා
 -brand-name-firefox-quantum = ෆයර්ෆොක්ස් ක්වොන්ටම්
+-brand-name-firefox-lite = Firefox Lite
+-brand-name-lite = Lite
+-brand-name-firefox-reality = Firefox Reality
+-brand-name-reality = Reality
 
 ## Firefox products
 
 -brand-name-facebook-container = ෆේස්බුක් කන්ටේනර්
--brand-name-firefox-account = Firefox ගිණුම
--brand-name-firefox-accounts = Firefox ගිණුම්
 -brand-name-firefox-devtools = Firefox DevTools
--brand-name-firefox-lockwise = Firefox Lockwise
--brand-name-firefox-monitor = Firefox Monitor
--brand-name-firefox-private-network = Firefox පෞද්ගලික ජාලය
--brand-name-firefox-relay-premium = ෆයර්ෆොක්ස් රිලේ ප්‍රිමියම්
 -brand-name-firefox-relay = ෆයර්ෆොක්ස් රිලේ
+-brand-name-firefox-relay-premium = ෆයර්ෆොක්ස් රිලේ ප්‍රිමියම්
 -brand-name-firefox-sync = Firefox Sync
 -brand-name-firefox-translations = ෆයර්ෆොක්ස් පරිවර්තන
 
 ## Firefox products (short names)
 
 -brand-name-devtools = DevTools
--brand-name-fpn = FPN
--brand-name-lockwise = Lockwise
--brand-name-monitor = Monitor
 -brand-name-relay = රිලේ
 -brand-name-relay-premium = රිලේ ප්‍රිමියම්
 -brand-name-sync = Sync
--brand-name-vpn = VPN
 
 ## Firefox products (legacy)
 
+-brand-name-firefox-account = Firefox ගිණුම
+-brand-name-firefox-accounts = Firefox ගිණුම්
+-brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-send = Firefox Send
 -brand-name-send = Send
+-brand-name-firefox-private-network = Firefox පෞද්ගලික ජාලය
+-brand-name-fpn = FPN
+
+## Firefox projects
+
 
 ## Pocket
 
 -brand-name-pocket = Pocket
+
+## Fakespot
+
+
+## Anonym
+
 
 ## Mozilla projects
 
@@ -102,29 +107,29 @@
 -brand-name-mdn-plus = MDN ප්ලස්
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
--brand-name-mozilla-developer-network = Mozilla සංවර්ධක ජාලය
--brand-name-mozilla-hubs = Mozilla Hubs
--brand-name-mozilla-labs = මොසිල්ලා ලැබ්ස්
 -brand-name-mozilla-vpn = Mozilla VPN
--brand-name-thunderbird = තන්ඩර්බර්ඩ්
 -brand-name-mozilla-account = මොසිල්ලා ගිණුම
 -brand-name-mozilla-accounts = මොසිල්ලා ගිණුම්
+-brand-name-thunderbird = තන්ඩර්බර්ඩ්
 
 ## Mozilla projects (short names)
 
 -brand-name-common-voice = කොමන් වොයිස්
--brand-name-hubs = හබ්ස්
 -brand-name-mdn = MDN
+-brand-name-monitor = Monitor
+-brand-name-vpn = VPN
 
 ## Mozilla projects (legacy)
 
+-brand-name-mozilla-developer-network = Mozilla සංවර්ධක ජාලය
+-brand-name-mozilla-labs = මොසිල්ලා ලැබ්ස්
+-brand-name-hubs = හබ්ස්
+-brand-name-lockwise = Lockwise
 
 ## Open Source projects
 
 -brand-name-rust = රස්ට්
 -brand-name-webassembly = වෙබ් ඇසෙම්බ්ලි
-# Outdated string
--brand-name-web-assembly = වෙබ් ඇසෙම්බ්ලි
 
 ## Other browsers
 

@@ -13,8 +13,6 @@ vpn-download-sub-heading = Μπορείτε να κάνετε λήψη του { 
 vpn-download-mozilla-vpn-offers = Το { -brand-name-mozilla-vpn } παρέχει προστασία για όλα τα μεγάλα λειτουργικά συστήματα.
 vpn-download-not-available-in-country = Δυστυχώς, το { -brand-name-mozilla-vpn } δεν είναι διαθέσιμο για λήψη στη χώρα σας.
 vpn-download-button-copy = Λήψη
-# Obsolete string
-vpn-download-for-windows = VPN για { -brand-name-windows } 10/11
 vpn-download-for-windows-v2 = VPN για { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (μόνο 64-bit)
 vpn-download-for-windows-long = Λήψη του { -brand-name-mozilla-vpn } για { -brand-name-windows }
@@ -32,8 +30,6 @@ vpn-download-for-android = VPN για { -brand-name-android }
 vpn-download-for-android-long = Λήψη του { -brand-name-mozilla-vpn } για { -brand-name-android }
 vpn-download-for-ios = VPN για { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Λήψη του { -brand-name-mozilla-vpn } για { -brand-name-ios }
-# Obsolete string
-vpn-download-for-ios-long = Λήψη του { -brand-name-mozilla-vpn } για { -brand-name-ios }
 vpn-download-get-on-google-play = Λήψη στο { -brand-name-google-play } Store
 vpn-download-get-on-app-store = Λήψη στο { -brand-name-app-store }
 vpn-download-based-on-your = Βάσει της τρέχουσας συσκευής σας

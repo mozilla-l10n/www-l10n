@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -10,9 +10,6 @@ facebook-container-millions-of-people-around = Milions de persones d'arreu del m
 facebook-container-facebook-well-contained-keep = El { -brand-name-facebook }, ben aïllat. De la resta de la vostra vida, no n'ha de fer res.
 facebook-container-get-the-facebook-container = Instal·leu l'extensió { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Baixeu el { -brand-name-firefox } i instal·leu l'extensió { -brand-name-facebook-container }
-facebook-container-the-facebook-container-extension = L'extensió { -brand-name-facebook-container } no està disponible en dispositius mòbils.
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Proveu el <strong>{ -brand-name-firefox-focus }</strong>, el navegador privat per a l'{ -brand-name-android } i { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Teniu dret a dir prou
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

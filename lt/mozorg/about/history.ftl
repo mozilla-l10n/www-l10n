@@ -7,7 +7,7 @@
 
 history-history-of-the-mozilla-project = { -brand-name-mozilla } projekto istorija
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = { -brand-name-mozilla } projektas buvo <a href="{ $coderush }">suformuotas 1998-aisiais</a>, atvėrus <a href="{ $sourcerelease }">„{ -brand-name-netscape }“ interneto programų paketo pirminius tekstus</a>.
 history-it-was-intended-to-harness = Projektas įsteigtas, siekiant panaudoti tūkstančių programuotojų visame pasaulyje žinias ir kūrybingumą, ir paskatinti iki tol neregėtą inovatyvumą naršyklių rinkoje.

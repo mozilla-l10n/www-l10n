@@ -10,8 +10,3 @@ firefox-accounts-enter-your-email-address = Boshlash uchun e-mail manzilingizni 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-firefox-accounts-firefox-lockwise = { -brand-name-firefox-lockwise }
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
-# Obsolete string
-firefox-accounts-firefox-send = { -brand-name-firefox-send }

@@ -5,4 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/privacy/
 
-privacy-index-firefox-relay = { -brand-name-firefox-relay }

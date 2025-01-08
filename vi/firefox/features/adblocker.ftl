@@ -31,18 +31,6 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> là m�
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Tiện ích mở rộng này hoạt động rất tốt trên cả <a { $attrs1 }>{ -brand-name-firefox } dành cho máy tính</a> và <a { $attrs2 }>Android</a>.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = Ở đó, <a href="{ $url }">AdBlocker Ultimate</a> loại bỏ mọi quảng cáo, nhưng hãy cẩn thận. Một số tờ báo và tạp chí yêu thích của bạn dựa vào quảng cáo. Quá nhiều người chặn quảng cáo của họ có thể khiến họ không hoạt động.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Quảng cáo bật lên là tồi tệ nhất. Chặn chúng bằng <a href="{ $url }">trình chặn bật lên</a> và không bao giờ phải đối phó với một cửa sổ bật lên gây phiền nhiễu nữa.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Một trong những trình chặn quảng cáo phổ biến nhất dành cho { -brand-name-chrome }, { -brand-name-safari } và { -brand-name-firefox } là <a href="{ $url }">AdBlock</a>. Sử dụng nó để chặn quảng cáo trên { -brand-name-facebook }, { -brand-name-youtube } và { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = Tạo vùng không theo dõi với trình chặn nội dung
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

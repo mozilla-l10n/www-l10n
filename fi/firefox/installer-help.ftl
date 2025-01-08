@@ -19,10 +19,6 @@ installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc-v2 = Hanki uusin. Yksityisyys sisältyy automaattisesti. Lataa { -brand-name-firefox } estääksesi yli { $trackers } seurainta.
-# Obsolete string (expires: 2024-05-14)
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Hanki uusin. Yksityisyys sisältyy automaattisesti. Lataa { -brand-name-firefox-browser } estääksesi yli { $trackers } seurainta.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Testaa pian julkaistavia ominaisuuksia vakaimmassa julkaisua edeltävässä koontiversiossa.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }

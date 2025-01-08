@@ -10,11 +10,6 @@ facebook-container-millions-of-people-around = Mundu osoko milioika pertsona { -
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Kontrolpean. Handik kanporako bizitza zure kontua da.
 facebook-container-get-the-facebook-container = Eskuratu { -brand-name-facebook-container } hedapena
 facebook-container-download-firefox-and-get-the = Deskargatu { -brand-name-firefox } eta eskuratu { -brand-name-facebook-container } hedapena
-# Outdated string
-facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } hedapena ez dago gailu mugikorretarako eskuragarri.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Probatu <strong>{ -brand-name-firefox-focus }</strong>, Probatutasuna gordetzeko nabigatzailea { -brand-name-android } eta { -brand-name-ios }en.
 facebook-container-install-and-contain = Instalatu eta kontrolatu
 facebook-container-about-firefox-and-mozilla = { -brand-name-firefox } eta { -brand-name-mozilla }ri buruz
 facebook-container-browse-freely-with-firefox = Nabigatu askatasunez gaurdanik { -brand-name-firefox }ekin.

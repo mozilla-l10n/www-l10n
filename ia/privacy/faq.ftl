@@ -16,13 +16,9 @@ privacy-faq-at-mozilla-we-respect-and-protect = A { -brand-name-mozilla }, nos r
 privacy-faq-we-follow-a-set-of-data-privacy = Nos seque un serie de <a href="{ $link }">Principios de confidentialitate del datos</a> que forma nostre approche al protection del vita private in le navigatores { -brand-name-firefox } pro computatores e apparatos mobile.
 privacy-faq-we-only-collect-the-data-we = Nos collige solmente le datos necessari pro crear le melior productos.
 privacy-faq-we-put-people-in-control-of = Nos pone le personas in controlo de lor datos e de lor experientias in linea.
-# Obsolete string (expires 2024-09-11)
-privacy-faq-we-adhere-to-no-surprises-principle = Nos adhere al principio de “nulle surprisas”, isto es, nos es determinate a garantir que le perception public de { -brand-name-firefox } corresponde al realitate.
 privacy-faq-we-adhere-to-no-surprises-principle-v2 = Nos adhere al principio “nulle surprisas”, significa que nos labora durmente pro assecurar que lo que le personas intende re { -brand-name-firefox } concorda con le realitate.
 privacy-faq-the-following-questions-and = Le sequente questiones e responsas debe adjutar te a comprender lo que expectar se ab { -brand-name-mozilla } e { -brand-name-firefox }:
 privacy-faq-i-use-firefox-for-almost-everything = Io usa { -brand-name-firefox } pro quasi toto sur le Web. Vos de { -brand-name-mozilla } debe saper un massa de cosas sur me, nonne?
-# Obsolete string (expires 2024-09-11)
-privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, le navigator del web que functiona sur tu apparato o computator, es tu porta de accesso a Internet. Tu navigator gere un massa de informationes sur le sitos web que tu visita, ma iste informationes resta private sur tu apparato. { -brand-name-mozilla }, le compania que produce { -brand-name-firefox }, non los collige (a minus que tu nos lo demanda).
 privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, le navigator del web que flue sur tu apparato o computator, es tu passarella a internet. Tu navigator gerera tante informationes re le sitos web que tu visita, ma ille informationes generalmente sta sur tu apparato. { -brand-name-mozilla }, le compania que produce { -brand-name-firefox }, non los collige (si tu non lo demanda nos).
 privacy-faq-really-you-dont-collect-my-browsing = Realmente, vos non collige mi chronologia de navigation?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } sape minus que tu pensa re le habitudes de navigation del usatores. Como productor de navigator, isto es vermente un problema pro nos. Ecce proque nos ha construite utensiles optional, que permitte al usatores interessate de dar nos informationes sur lor navigation del web. Si tu synchronisa tu chronologia de navigation inter tu installationes de { -brand-name-firefox }, nos non cognosce iste chronologia, perque illo es cryptate per tu apparato.
@@ -34,11 +30,6 @@ privacy-faq-wait-so-how-do-you-make-money = Ma alora, como gania vos moneta?
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } non es un organisation ordinari. Fundate como un projecto de communitate open-source in 1998, { -brand-name-mozilla } es un organisation idealista que se effortia pro meliorar le sanitate de internet. Le majoritate del moneta de { -brand-name-mozilla-corporation } proveni de royalties ganiate per alliantias con interprisas de recerca web e per contractos de distribution del navigator { -brand-name-firefox } in tote le mundo. Tu pote apprender plus sur como nos gania moneta in nostre <a href="{ $link }">reporto financiari annual</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Excellente. Ma que datos collige vos?
-# Obsolete string (expires 2024-09-11)
-# Variables:
-#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
-#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } normalmente collige ab { -brand-name-firefox } un insimul de datos limitate que nos adjuta a comprender como le personas usa le navigator. Ille datos es ligate a un identificator aleatori e non a tu nomine ni a tu adresse de email. Tu pote leger plus sur isto in nostre <a href="{ $privacy }">aviso de confidentialitate</a> e tu pote leger le <a href="{ $data }">documentation complete sur iste collecta de datos</a>.
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
@@ -48,17 +39,9 @@ privacy-faq-we-make-our-documentation-public = Nos rende public nostre documenta
 privacy-faq-that-documentation-is-gobbledygook = Iste documentation es abracadabra pro me! Pote tu explicar me lo in interlingua simple?
 privacy-faq-there-are-two-categories-of = Il ha duo categorias de datos que nos normalmente collige in nostre version stabile de { -brand-name-firefox }.
 privacy-faq-the-first-is-what-we-call-technical = Le prime es le "datos technic": le datos sur le navigator mesme, como le systema de operation usate e informationes sur errores o crashes.
-# Obsolete string (expires 2024-09-11)
-privacy-faq-the-second-is-what-we-call-interaction = Le secunde es le "datos de interaction": le datos de uso personal de { -brand-name-firefox }, como le numero de schedas aperte, le stato del preferentias del usator, o le numero de vices que certe functiones del navigator ha essite usate, p.ex. capturas de schermo o schedas contentor. Per exemplo, nos collige tal datos sur le uso del button Retro, le flecha in le angulo superior sinistre de tu navigator que te permitte retornar a un previe pagina web, de un maniera que nos informa que alcuno ha usate le button Retro, ma non qual paginas web specific ha essite visitate.
 privacy-faq-the-second-is-what-we-call-interaction-v2 = Le secunde es illo que nos appella “datos de interaction.” Id es datos circa collaboration de un persona con { -brand-name-firefox }, tal como le numero de schedas que era aperte, le stato de preferentias de usator, o numero de vices que certe functiones del navigator era usate, tal como instantaneos o contentores. Per exemplo, nos collige iste datos per le button Retro (le flecha in le angulo superior sinistre de tu navigator que te permitte de navigar retro a un previe pagina web) de maniera que monstra nos que alcuno usava le button Retro, ma non dice que specific paginas web es accedite.
 privacy-faq-do-you-collect-more-data-in = Collige vos plus datos in le versiones preliminar de { -brand-name-firefox }?
-# Obsolete string (expires 2024-09-11)
-privacy-faq-sort-of-in-addition-to-the-data = Plus o minus. In addition al datos describite supra, nos normalmente recipe reportos de collapso e errores del versiones preliminar de { -brand-name-firefox }.
 privacy-faq-sort-of-in-addition-to-the-data-v2 = Plus o minus. In addition al datos describite supra, nos normalmente recipe reportos de collapso e errores del versiones preliminar de { -brand-name-firefox }.
-# Obsolete string (expires 2024-09-11)
-# Variables:
-#   $link (url) - link to https://support.mozilla.org/kb/shield
-privacy-faq-we-may-also-collect-additional = Nos pote etiam colliger altere datos in le version preliminar pro un de nostre <a href="{ $link }">studios</a>. Per exemplo, alcun studios require “datos de activitate per web” que pote includer adresses URL e altere informationes sur certe sitos web. Isto nos adjuta a solver questiones specific pro meliorar { -brand-name-firefox }, per exemplo, como melio integrar le sitos web popular in versiones traducite.
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional-v2 = Nos pote alsi colliger altere datos in pre-edition pro un de nostre <a href="{ $link }">studios</a>. Per exemplo, alcun studios require lo que nos appella “datos de activitate web”, que pote includer URLs e altere informationes circa certe sitos web. Isto adjuta nos a responder a questiones specific pro meliorar { -brand-name-firefox }, tal como melio integrar sitos web popular in localisationes specific..

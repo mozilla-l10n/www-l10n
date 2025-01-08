@@ -11,22 +11,16 @@ home-mission-driven = Προσηλωμένοι στην αποστολή μας.
 home-were-not-normal = Δεν είμαστε μια απλή εταιρεία τεχνολογίας. Τα προϊόντα μας δίνουν προτεραιότητα στους ανθρώπους και το απόρρητό τους, όχι στα κέρδη. Υπάρχουμε για να κάνουμε το διαδίκτυο ένα πιο υγιές και χαρούμενο μέρος για όλους.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = «Η υγεία του διαδικτύου και της διαδικτυακής ζωής είναι ο λόγος που υπάρχουμε.»
-# Obsolete string
-home-mitchell-baker = Mitchell Baker, CEO της { -brand-name-mozilla }
 home-mitchell-baker-v2 = Mitchell Baker, Εκτελεστικός πρόεδρος του διοικητικού συμβουλίου, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = Η { -brand-name-mozilla } δημιουργεί προϊόντα που σέβονται το απόρρητο
 home-product-firefox-browsing = Ιδιωτική και ασφαλής περιήγηση
 home-cta-get-firefox = Λήψη του { -brand-name-firefox }
 home-product-pocket-articles = Τα πιο ενδιαφέροντα άρθρα του διαδικτύου
 home-cta-get-pocket = Λήψη του { -brand-name-pocket }
-# Obsolete string (expires: 2024-07-16)
-home-product-relay-masks = Εύχρηστες μάσκες email και τηλεφώνου
 home-product-relay-hide-your = Αποκρύψτε τον αριθμό τηλεφώνου και το email σας από τους αποστολείς ανεπιθύμητων μηνυμάτων
 home-cta-get-relay = Λήψη του { -brand-name-relay }
 home-product-vpn-trust = Ένα VPN που μπορείτε να εμπιστευτείτε
 home-cta-get-vpn = Λήψη του { -brand-name-mozilla-vpn }
-# Obsolete string (expires 2024-07-23)
-home-product-monitor-data = Ειδοποιήσεις παραβίασης δεδομένων
 home-product-monitor-protect-your = Προστατέψτε τις προσωπικές σας πληροφορίες από εμπόρους δεδομένων
 home-cta-get-monitor = Απόκτηση του { -brand-name-monitor }
 home-product-fakespot-detect = Εντοπίστε ψευδείς κριτικές αγορών
@@ -37,14 +31,8 @@ home-politico-cite = Politico
 home-join-us-in-shaping = Βοηθήστε μας να διαμορφώσουμε ένα αξιόπιστο AI
 home-work-on-ai = Η δουλειά της { -brand-name-mozilla } με την τεχνητή νοημοσύνη δεν είναι κάτι νέο· έχουμε αφιερώσει χρόνια στη χρηματοδότηση, την ανάπτυξη και την υπεράσπιση της τεχνητής νοημοσύνης που είναι ανοικτή, δίκαιη και αναπτύσσεται με υπευθυνότητα. Εστιάζουμε στη δημιουργία τεχνητής νοημοσύνης που εξυπηρετεί τους ανθρώπους, έχει ως προτεραιότητα τη διαφάνεια και στηρίζει το κοινό συμφέρον, όχι εταιρικές ατζέντες.
 home-read-more = Διαβάστε περισσότερα
-# Obsolete string (expires: 2024-07-16)
-home-is-mozilla-a-corporation = Είναι η { -brand-name-mozilla } εταιρεία ή μη κερδοσκοπικός οργανισμός; Βασικά, και τα δύο.
-# Obsolete string (expires: 2024-07-16)
-home-mozilla-consists-of = Η { -brand-name-mozilla } αποτελείται από δύο οργανισμούς. Η { -brand-name-mozilla-corporation } ανήκει εξ ολοκλήρου στον μη κερδοσκοπικό οργανισμό 501(c) { -brand-name-mozilla-foundation }. Αυτό σημαίνει ότι δεν υπηρετούμε κανέναν μέτοχο, παρά μόνο την αποστολή μας.
 home-so-what-is-mozilla = Τι είναι, λοιπόν, η { -brand-name-mozilla };
-# Variables
-#   $ventures - link to https://mozilla.vc/
-#   $mozai - link to https://mozilla.ai/
+# Obsolete string (expires: 2025-01-05)
 home-at-its-core = Στον πυρήνα της, η { -brand-name-mozilla } είναι μια ακτιβιστική οργάνωση υπό την ηγεσία του { -brand-name-mozilla-foundation } και αλλάζει τον κόσμο μέσα από μια ποικιλία εγχειρημάτων, όπως η { -brand-name-mozilla-corporation }, η MZLA, η <a { $ventures }>{ -brand-name-mozilla-ventures }</a> και η <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Σε τι διαφέρουμε; Έχουμε ως οδηγό την αποστολή μας, έχουμε την ελευθερία να λαμβάνουμε όλες τις αποφάσεις μας με γνώμονα το καλύτερο για το διαδίκτυο και για όλους, όχι βάσει των απαιτήσεων των μετόχων· στην πραγματικότητα, δεν έχουμε μετόχους.
 home-learn-about-mofo = Μάθετε για το { -brand-name-mozilla-foundation }
 home-join-the-fight = Λάβετε μέρος στη μάχη για ένα υγιές διαδίκτυο
@@ -55,8 +43,6 @@ home-the-mozilla-project = Το έργο { -brand-name-mozilla } ιδρύθηκ�
 home-eventually-the-open = Τελικά, το έργο ανοικτού κώδικα της { -brand-name-mozilla } μεταμορφώθηκε στην εξαιρετικά δημοφιλή, πρώτη έκδοση του { -brand-name-firefox }.
 home-today-mozilla-continues = Σήμερα, η { -brand-name-mozilla } συνεχίζει να αγωνίζεται για ένα καλύτερο διαδίκτυο με εκατομμύρια ενεργά μέλη κοινότητας σε όλο τον κόσμο, τα οποία υποστηρίζουν την ηθική τεχνολογία, την αξιόπιστη τεχνητή νοημοσύνη και την παραγωγή προϊόντων που σέβονται το απόρρητο και δίνουν περισσότερη δύναμη στους ανθρώπους.
 home-learn-more-about-mozilla = Μάθετε περισσότερα για τη { -brand-name-mozilla }
-home-get-good-news = Λάβετε (καλά) νέα από τη { -brand-name-mozilla }
-home-get-news-and-tips = Λάβετε νέα και συμβουλές από τη { -brand-name-mozilla } για να παραμείνετε ασφαλείς και ενημερωμένοι για όλα όσα κάνουν το διαδίκτυο ένα πιο υγιές μέρος.
 # VPN Feature
 home-featured-product = Προβεβλημένο προϊόν
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.

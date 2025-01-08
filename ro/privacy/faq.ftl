@@ -16,14 +16,9 @@ privacy-faq-at-mozilla-we-respect-and-protect = La { -brand-name-mozilla } respe
 privacy-faq-we-follow-a-set-of-data-privacy = Urmăm un set de <a href="{ $link }">principii de protecție a datelor</a> care ne ghidează abordarea confidențialității în { -brand-name-firefox } pentru desktop și în browserele pentru dispozitive mobile.
 privacy-faq-we-only-collect-the-data-we = Colectăm doar datele necesare pentru a crea cele mai bune produse.
 privacy-faq-we-put-people-in-control-of = Redăm oamenilor controlul asupra datelor personale și a experienței online.
-privacy-faq-we-adhere-to-no-surprises-principle = Aderăm la principiul „fără surprize”, adică muncim din greu pentru a ne asigura că oamenii înțeleg corect cum funcționează { -brand-name-firefox } în realitate.
 privacy-faq-the-following-questions-and = Următoarele întrebări și răspunsuri ar trebui să te ajute să înțelegi la ce să te aștepți de la { -brand-name-mozilla } și { -brand-name-firefox }:
 privacy-faq-i-use-firefox-for-almost-everything = Folosesc { -brand-name-firefox } aproape pentru tot ce fac pe web. Cred că voi, cei de la { -brand-name-mozilla }, știți o grămadă de lucruri despre mine, nu?
-privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, browserul web care rulează pe dispozitivele tale sau pe calculator, este poarta de ieșire către internet. Browserul gestionează multe informații despre site-urile pe care le vizitezi, dar ele rămân pe dispozitivul tău. { -brand-name-mozilla }, compania care face { -brand-name-firefox }, nu le colectează (decât dacă ne spui tu să o facem).
 privacy-faq-really-you-dont-collect-my-browsing = Sigur nu-mi colectați istoricul de navigare?
-# Variables:
-#   $link (url) - link to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
-privacy-faq-mozilla-doesnt-know-as-much = { -brand-name-mozilla } nu știe chiar atât de multe pe cât ar fi de așteptat despre cum navighează oamenii pe web. Ca producător de browser, este de fapt o mare provocare pentru noi. De aceea am construit unelte pentru care avem nevoie de consimțământul tău, cum ar fi <a href="{ $link }">{ -brand-name-firefox } Pioneer</a>, care permite utilizatorilor interesați să ne ofere informații despre modul în care navighează pe web. Dacă sincronizezi istoricul de navigare între dispozitive, noi nu știm ce conține pentru că este criptat de dispozitive.
 privacy-faq-it-seems-like-every-company = Se pare că toate companiile de pe web cumpără și vând datele mele. Probabil că și voi faceți la fel.
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } nu vinde date despre tine și nici nu cumpără.
 privacy-faq-wait-so-how-do-you-make-money = Atunci cum faceți bani?
@@ -32,21 +27,12 @@ privacy-faq-wait-so-how-do-you-make-money = Atunci cum faceți bani?
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } nu este o organizație obișnuită. Fondată ca proiect comunitar cu sursă deschisă, în anul 1998, { -brand-name-mozilla } este o organizație cu misiunea de a crea un internet mai sănătos. Cea mai mare parte a veniturilor { -brand-name-mozilla-corporation } provine din redevențe câștigate prin parteneriate de { -brand-name-firefox } cu motoarele de căutare și contracte de distribuție în lumea întreagă. Poți afla mai multe despre cum facem bani în <a href="{ $link }">raportul financiar anual</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = OK, primele au fost întrebări ușoare. Ce fel de date colectați?
-# Variables:
-#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
-#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } colectează implicit un set limitat de date din { -brand-name-firefox }, fapt ce ne ajută să înțelegem cum este folosit browserul. Datele sunt asociate unui număr de identificare aleatoriu și nu unui nume sau unei adrese de e-mail. Poți citi mai multe pe acest subiect în <a href="{ $privacy }">notificare privind confidențialitatea</a> sau poți citi <a href="{ $data }">toată documentația privind colectarea de date</a>.
 privacy-faq-we-make-our-documentation-public = Documentația noastră este publică astfel încât oricine poate verifica veridicitatea celor afirmate, ne poate propune îmbunătățiri și poate avea încrederea că nu ascundem nimic.
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = Documentația este complicată și nu o înțeleg. Puteți să-mi explicați mai simplu?
 privacy-faq-there-are-two-categories-of = Sunt două categorii de date pe care le colectăm implicit în versiunea stabilă de { -brand-name-firefox }.
 privacy-faq-the-first-is-what-we-call-technical = Prima constă din „date tehnice”. Sunt date despre browserul în sine, cum ar fi sistemul de operare pe care rulează și informații despre erori sau opriri neașteptate.
-privacy-faq-the-second-is-what-we-call-interaction = A doua constă din „date de interacțiune”. Sunt date despre interacțiunea utilizatorului cu { -brand-name-firefox }, cum ar fi numărul de file deschise, starea preferințelor sau de câte ori sunt folosite anumite funcționalități ale browserului, cum ar fi capturile de ecran sau containerele. De exemplu, colectăm date despre butonul „înapoi” (săgeata din colțul din stânga sus cu care navighezi la pagina anterioară) care ne arată că butonul a fost apăsat, dar nu și ce pagini web au fost accesate.
 privacy-faq-do-you-collect-more-data-in = Colectați mai multe date în versiunile pre-lansare { -brand-name-firefox }?
-privacy-faq-sort-of-in-addition-to-the-data = Oarecum. Pe lângă datele de mai sus, primim implicit rapoarte de opriri și de erori în versiunile pre-lansare { -brand-name-firefox }.
-# Variables:
-#   $link (url) - link to https://support.mozilla.org/kb/shield
-privacy-faq-we-may-also-collect-additional = Este posibil să mai colectăm date suplimentare din versiunile pre-lansare pentru unul dintre <a href="{ $link }">studiile</a> noastre. De exemplu, unele studii implică accesarea unor „date de activitate web”, care pot include adrese sau alte informații despre anumite site-uri. Ne ajută să găsim soluții specifice pentru îmbunătățirea { -brand-name-firefox }, de exemplu la integrarea unor site-uri populare în variante locale de { -brand-name-firefox }.
 privacy-faq-mozillas-pre-release-versions = Versiunile { -brand-name-firefox } pre-lansare de { -brand-name-mozilla } sunt platforme de dezvoltare, actualizate frecvent cu funcționalități experimentale. Colectăm mai multe date în versiunile pre-lansare decât în cea stabilă ca să înțelegem cum funcționează aceste elemente experimentale. Poți opta în preferințe să nu fie colectate.
 privacy-faq-but-why-do-you-collect-any-data = Dar de ce colectați date oricum?
 privacy-faq-if-we-dont-know-how-the-browser = Dacă nu știm cum se comportă browserul sau ce funcționalități accesează utilizatori, nu îl putem îmbunătăți și nu putem oferi produsul pe care îl merită utilizatorii noștri. Am investit în construirea de unelte de colectare și analiză a datelor, care ne permit să luăm decizii inteligente despre produs, dar care respectă confidențialitatea oamenilor.

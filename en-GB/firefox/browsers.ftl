@@ -10,9 +10,6 @@ firefox-browsers-page-title = Download { -brand-name-firefox } for Desktop, Mobi
 # HTML page description
 firefox-browsers-page-desc = Choose from Desktop, { -brand-name-ios }, { -brand-name-android }, or let us email you a mobile download link.
 firefox-browsers-main-heading = { -brand-name-firefox } Browsers
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = Get the <strong>browsers</strong> that put your privacy first — and always have
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Get the browser that puts your privacy first — and <strong>always</strong> has
 firefox-browsers-desktop = Desktop

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 firefox-browsers-desktop = డెస్క్‌టాప్
 firefox-browsers-mobile = మొబైల్

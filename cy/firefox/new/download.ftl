@@ -59,4 +59,3 @@ firefox-new-fast = Cyflym, Preifat, Rhydd ac Am Ddim
 firefox-new-from-mozilla = oddi wrth { -brand-name-mozilla }
 firefox-new-desc = Mae { -brand-name-firefox-browser } yn borwr gwe rhydd ac am ddim gyda llwytho tudalen cyflym, llai o ddefnydd cof, a llawer o nodweddion - project y { -brand-name-mozilla } dim-er-elw.
 firefox-new-download-a-different = Llwytho i lawr ar gyfer llwyfannau ac ieithoedd eraill
-firefox-new-taskbar = Bydd { -brand-name-firefox } yn cael ei binio i'r bar tasgau { -brand-name-windows } ar ôl ei osod

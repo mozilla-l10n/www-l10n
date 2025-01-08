@@ -10,10 +10,6 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = Webbläsaren { -brand-name-firefox } för { -brand-name-android } är snabb, säker och privat från första gången du öppnade den.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = Bli oberoende med { -brand-name-firefox } för { -brand-name-android }
-# Obsolete string
-mobile-android-when-you-download = När du laddar ner { -brand-name-firefox } väljer du att stödja ett oberoende teknikföretag. { -brand-name-firefox } är den enda stora webbläsaren som stöds av en ideell organisation för att ge dig mer öppenhet, transparens och kontroll över ditt liv online.
 mobile-android-get-firefox-for = Hämta { -brand-name-firefox } för { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Skicka en nedladdningslänk till din telefon.
 mobile-android-scan-the-qr-code-to-get-started = Skanna QR-koden för att komma igång
@@ -40,7 +36,6 @@ mobile-android-about-mozilla = Om { -brand-name-mozilla }
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } finns för att bygga internet som en allmän resurs som är tillgänglig för alla eftersom vi tror att öppet och gratis är bättre än stängt och kontrollerat. Vi bygger produkter som { -brand-name-firefox } och { -brand-name-pocket } för att främja val, transparens och kontroll.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Kom dit snabbare  med { -brand-name-firefox } för { -brand-name-android }
-mobile-android-get-there-faster = Kom dit snabbare med { -brand-name-firefox } för { -brand-name-android }
 mobile-android-see-all-your-open-tabs = Se alla dina öppna flikar, senaste sökningar och favoritwebbplatser på ett och samma ställe med webbläsaren { -brand-name-firefox } för { -brand-name-android }.
 mobile-android-own-your-home = Äg din startsida
 mobile-android-get-to-the-parts = Ta dig snabbare till de delar av internet du bryr dig om. Välj att se alla dina öppna flikar, senaste sökningar, bokmärken och favoritsajter på ett och samma ställe.

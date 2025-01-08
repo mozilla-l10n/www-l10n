@@ -14,13 +14,9 @@ nightly-whatsnew-every-4-to-5-weeks = Og̃uahẽvo 4 térã 5 arapokõindy, os�
 nightly-whatsnew-this-is-a-good = Roaguyjeveme’ẽ ore pytyvõ haguére { -brand-name-firefox } iporãve hag̃ua ko’ẽreíre ha ro’e hag̃ua ndéve moõpa ejuhukuaa kuatiaita, ñomongeta renda ha marandu ojokupytýva { -brand-name-nightly } ndive ikatúva eikuaase.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = Eikuaasevéramo mba’etépa pe oikóva { -brand-name-nightly } jerére ha hekoha rupi, ikatukuaa eñepyrũ emoñe’ẽvo ore <a { $blog }>blog</a> ha orerapykueho <a { $mastodon }>Mastodon</a> térã <a { $twitter }>X</a>.
-# Variables:
-#   $attrs (string) - link href and additional attributes
-# Obsolete string (expires: 2024-11-26)
-nightly-whatsnew-want-to-know-which-v2 = Eikuaasépa mba’eichagua pyendavusu eiporukuaa { -brand-name-nightly } ndive ha ndaikatúiva ojehecha ambue canal { -brand-name-firefox } rupive. Ehechami kuatiarogue ehecharamovéva <a { $attrs }>Nightly mba’e’apopy</a>.
 # Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v3 = Eikuaasépa mba’eichagua pyendavusu eiporukuaa { -brand-name-nightly } ndive ha ndaikatúiva ojehecha ambue canal { -brand-name-firefox } rupive. Ehechami kuatiarogue ehayhuvéva <a { $attrs }>{ -brand-name-firefox-labs }</a>.

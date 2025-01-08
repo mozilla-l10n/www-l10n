@@ -14,11 +14,8 @@ mobile-focus-get-firefox-focus = Awi { -brand-name-firefox-focus }
 mobile-focus-send-a-download-link-to-your = Azen aseɣwen n usader ɣer tiliɣri-ik.
 mobile-focus-scan-the-qr-code-to-get-started = Ṭṭef tangalt QR akken ad tebduḍ
 mobile-focus-scan-alt-text = Smiḍen tangalt QR akken ad tawiḍ { -brand-name-firefox-focus }
-# Outdated string
-mobile-focus-disappear-your-history = Sruḥ azray-ik•im
 mobile-focus-delete-your-history = Kkes azray-ik•im
 mobile-focus-take-private-mode = Err askar uslig ɣer uswir unnig
 mobile-focus-tracking-protection = Ammesten mgal aḍfar
-mobile-focus-ad-blocking = Asewḥel n udellel
 mobile-focus-see-it-all = Wali-t akk s zzerb
 mobile-focus-made-by-mozilla = Yettufeṣṣel sɣur { -brand-name-mozilla }

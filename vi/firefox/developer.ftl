@@ -11,8 +11,6 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } là trình duyệt nhanh, cung cấp các công cụ phát triển tiên tiến và các tính năng mới nhất như hỗ trợ gỡ lỗi lưới CSS
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Chào mừng đến với trình duyệt yêu thích mới của bạn. Nhận được các tính năng mới nhất, hiệu suất nhanh, và các công cụ phát triển mà bạn cần để xây dựng cho trang web mở.
 firefox-developer-speak-up = Nói to hơn
 firefox-developer-feedback-makes-us = Phản hồi giúp chúng tôi hoàn thiện hơn. Cho chúng tôi biết làm cách nào để cải thiện trình duyệt và Công cụ Phát triển.
@@ -75,15 +73,11 @@ firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-develo
 firefox-developer-download-the-firefox-browser = Tải xuống trình duyệt { -brand-name-firefox } dành cho nhà phát triển
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } đã được xây dựng lại từ đầu để trở nên nhanh hơn, đẹp hơn và mạnh mẽ hơn bao giờ hết.
 firefox-developer-welcome-to-firefox-developer-edition = Chào mừng đến với { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = Chào mừng đến với { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Trình duyệt dành cho nhà phát triển
 firefox-developer-all-the-latest-v2 = Tất cả các công cụ mới nhất dành cho nhà phát triển trong bản beta cùng các tính năng như trình chỉnh sửa bảng điều khiển nhiều dòng và trình kiểm tra WebSocket.
 firefox-developer-a-separate-profile = Một <strong>hồ sơ và đường dẫn riêng biệt</strong> để bạn có thể dễ dàng chạy nó cùng với { -brand-name-firefox } bản phát hành chính thức hoặc { -brand-name-beta }.
 firefox-developer-preferences-tailored = Tùy chọn <strong>phù hợp với nhà phát triển web</strong>: Trình duyệt và gỡ lỗi từ xa được bật theo mặc định, cũng như nút thanh công cụ dành cho nhà phát triển và chủ đề tối.
 firefox-developer-congrats-you-now-have-latest-v2 = Bây giờ bạn đã có phiên bản mới nhất của { -brand-name-firefox-developer-edition }.
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = Chúc mừng. Bạn hiện có phiên bản mới nhất của { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Xem <a { $attrs }>ghi chú phát hành</a> (chỉ bằng Tiếng Anh) để xem có gì mới.

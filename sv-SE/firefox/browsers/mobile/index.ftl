@@ -21,13 +21,8 @@ browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Letar du efter en strömlinjeformad, supersnabb mobil webbläsare med integritetsfunktioner på nästa nivå? { -brand-name-firefox-focus } raderar automatiskt all din surfhistorik från det att du öppnar webbläsaren tills du stänger den.
 browsers-mobile-compare = Jämför
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Se hur { -brand-name-firefox } för datorer klarar sig mot andra webbläsare.
-# Obsolete string (expires 30 June 2024)
-browsers-mobile-see-how-firefox-for-desktop-stacks = Se hur { -brand-name-firefox } för datorer jämförs med sju andra webbläsare.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Se hur { -brand-name-firefox } för <strong>datorer</strong> klarar sig mot andra webbläsare.
-# Obsolete string (expires 30 June 2024)
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = Se hur { -brand-name-firefox } för <strong>datorer</strong> jämförs med sju andra webbläsare.
 browsers-mobile-download = Hämta
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

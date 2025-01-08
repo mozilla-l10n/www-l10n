@@ -7,7 +7,6 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
-developer-mdnplus-congrats-you-now-have-latest = Gratulon. Vi nun havas la lastan version de { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Pli da { -brand-name-mdn }.<em>Via</em> { -brand-name-mdn }.
 developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } estas malfermitkoda, kunlabora projekto, kiu dokumentas teknologiojn de la Teksaĵo, kiel CSS, HTML, JavaScript kaj Web APIs. Ni provizas ankaŭ vastan aron de lernaj rimedoj por komencantaj programistoj kaj studentoj.

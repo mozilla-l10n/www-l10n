@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -12,18 +12,11 @@ facebook-container-get-the-facebook-container = Zainstaluj rozszerzenie { -brand
 facebook-container-download-firefox-and-get-the = Pobierz { -brand-name-firefox(case: "acc") } i zainstaluj rozszerzenie { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = Rozszerzenie { -brand-name-facebook-container } jest obecnie dostępne tylko w { -brand-name-firefox(case: "loc") } na komputery.
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = Odwiedź <a href="{ $url }">{ $link_copy }</a>, aby pobrać { -brand-name-firefox(case: "acc") } na komputer.
-# Outdated string
-facebook-container-the-facebook-container-extension = Rozszerzenie { -brand-name-facebook-container } nie jest dostępne na urządzeniach przenośnych.
 facebook-container-get-firefox-android-ios = Pobierz { -brand-name-firefox(case: "acc") } na { -brand-name-android(case: "acc") } i { -brand-name-ios }.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Wypróbuj <strong>{ -brand-name-firefox-focus }</strong>, prywatną przeglądarkę na { -brand-name-android(case: "acc") } i { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Rezygnacja na Twoich warunkach
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

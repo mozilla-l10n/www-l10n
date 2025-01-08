@@ -9,9 +9,7 @@
 set-as-default-landing-make-firefox-your-default = Gwnewch { -brand-name-firefox } eich porwr ragosodedig
 # HTML page description
 set-as-default-landing-choose-the-browser = Dewiswch y porwr sy'n diogelu'ch preifatrwydd. Gosodwch { -brand-name-firefox } fel eich porwr rhagosodedig.
-# Obsolete string
 set-as-default-landing-thanks-for-using-the = Diolch am ddefnyddio'r porwr { -brand-name-firefox } diweddaraf. Pan ddewiswch { -brand-name-firefox }, rydych yn cefnogi gwe well i chi a phawb arall. Nawr, cymrwch y cam nesaf i ddiogelu eich hun.
-# Obsolete string
 set-as-default-landing-make-sure-youre-protected = Gwnewch yn siŵr eich bod yn cael eich diogelu, bob tro rydych yn mynd ar-lein
 set-as-default-landing-you-should-get = Dylech gael llais yn y ffordd rydych yn pori
 set-as-default-landing-if-you-recently = Os ydych wedi diweddaru'ch cyfrifiadur yn ddiweddar, efallai bod eich gosodiadau wedi newid. Cefnogwch ryngrwyd agored ac am ddim bob tro y byddwch yn mynd ar-lein gyda { -brand-name-firefox }.

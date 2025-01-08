@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/legal/
@@ -14,7 +14,6 @@ legal-special-thanks-to-all-of-you = Ir ga cerecere ka war kul foo nda goy kaŋ 
 legal-terms = Kalimawey
 legal-our-websites = Ir interneti nungey
 legal-firefox-services = { -brand-name-firefox } goymiɲey
-legal-webmaker = { -brand-name-webmaker }
 legal-privacy-trademarks = Sutura nda teekaw tammaasa
 legal-privacy-notices-and-policy = Sutura bayrandey nda laada
 legal-downloadable-software-notices = Goyjinay bayrandey zumandiyan se

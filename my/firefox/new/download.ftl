@@ -23,10 +23,6 @@ firefox-new-need-help = အကူအညီ လိုလား။
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = သင်လုံခြုံမှုမရှိ၊ ခေတ်မမီတော့သော operating system ကိုသုံးနေပါသည်။ <a href="{ $url }"> { -brand-name-firefox } မှထောက်ပံ့မှုမရှိတော့ပါ </a>
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/

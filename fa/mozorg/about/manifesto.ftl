@@ -40,7 +40,6 @@ manifesto-the-mozilla-manifesto-addendum = ضمیمه مرامنامه { -brand-
 manifesto-pledge-for-a-healthy-internet = تعهد به اینترنت سالم
 manifesto-show-your-support = پشتیبانی خود را نشان دهید
 manifesto-i-support-the-vision-of = من از یک نسخه بهتر و سالم‌تر اینترنت توسط @mozilla حمایت می‌کنم، به من ملحق می‌شوید؟
-manifesto-share-on-twitter = هم‌رسانی در { -brand-name-twitter }
 manifesto-our-10-principles = <strong>۱۰</strong> اصل
 manifesto-read-the-entire-manifesto = تمام مرامنامه را مطالعه کنید
 manifesto-love-the-web = عاشق وب هستید؟

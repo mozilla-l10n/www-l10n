@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } on luotu 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Internetin kasvaessa ja muuttuessa { -brand-name-firefox } keskittyy edelleen oikeuteesi yksityisyyteen – kutsumme sitä <a { $attrs }>henkilökohtaisten tietojen lupaukseksi</a>: Ota vähemmän. Pidä se turvassa. Ei salaisuuksia. { -brand-name-firefox } suojaa tietojasi ja toimintaasi verkossa.
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } on saatavilla kaikilla laitteillasi; ota välilehdet, historia ja kirjanmerkit mukaasi. Tarvitset vain <a { $attrs }>{ -brand-name-firefox }-tilin</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } on saatavilla kaikilla laitteillasi; ota välilehdet, historia ja kirjanmerkit mukaasi. Tarvitset vain <a { $attrs }>{ -brand-name-mozilla-account }</a>n ja pääset käyttämään synkronointia ja muita { -brand-name-mozilla }-tuotteita.
@@ -146,13 +142,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Kysymyksiä? <a { $attrs }>{ -brand-name-mozilla }-tuki</a> auttaa.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Sinulla on jo selain. Katso mitä muuta { -brand-name-firefox } tarjoaa.
 firefox-desktop-download-watch-for-hackers-with-v3 = Varaudu pahoilta hakkereilta { -brand-name-mozilla-monitor }in avulla, suojaa sähköpostiosoitettasi { -brand-name-firefox-relay }lla ja paljon muuta.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Varaudu pahoilta hakkereilta { -brand-name-firefox-monitor }in avulla, suojaa sähköpostiosoitettasi { -brand-name-firefox-relay }lla ja paljon muuta.
-firefox-desktop-download-get-more-from-firefox = Lisää { -brand-name-firefox }ilta
-firefox-desktop-download-just-download-the-browser = Lataa vain selain
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -190,4 +180,3 @@ firefox-desktop-download-please-follow = Voit asentaa { -brand-name-firefox }in 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Järjestelmäsi ei ehkä täytä { -brand-name-firefox }in vaatimuksia, mutta voit kokeilla jotakin <a href="{ $url }">näistä versioista</a>.
-firefox-desktop-download-taskbar = { -brand-name-firefox } kiinnitetään { -brand-name-windows }in tehtäväpalkkiin asennuksen jälkeen

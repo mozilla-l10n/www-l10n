@@ -16,8 +16,6 @@ welcome-page8-enhanced-tracking-protection = Diogelwch Uwch Rhag Tracio
 welcome-page8-automatically-block-sites = Rhwystro gwefannau yn awtomatig rhag eich dilyn ar draws y rhyngrwyd.
 welcome-page8-see-whats-blocked = Gweld beth sydd wedi'i rwystro
 welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-see-what-youve-been = Gweld a ydych wedi bod yn rhan o dor-data ar-lein hysbys a chymryd camau i'w datrys.
 welcome-page8-go-to-monitor = Mynd ii { -brand-name-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }

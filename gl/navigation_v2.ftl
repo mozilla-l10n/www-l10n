@@ -1,10 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Descargar o { -brand-name-firefox }
-navigation-v2-get-a-firefox-account = Obter unha { -brand-name-firefox-account }
 navigation-v2-menu = Menú
 
 ## Firefox menu
@@ -17,8 +16,6 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } para { -brand-name-a
 navigation-v2-get-the-customizable-mobile = Obter o navegador móbil personalizábel para teléfonos intelixentes { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } para { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Obter o navegador móbil para { -brand-name-iphone } ou { -brand-name-ipad }.
-navigation-v2-privacy-promise = Compromiso de privacidade
-navigation-v2-learn-how-firefox-treats = Obtén información sobre como { -brand-name-firefox } trata con respecto os teus datos.
 navigation-v2-firefox-blog = Blog de { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = Descubre as novas características de { -brand-name-firefox } e reciba consellos para navegar pola rede cunha maior seguridade.
 navigation-v2-release-notes = Notas de lanzamento
@@ -29,7 +26,6 @@ navigation-v2-view-all-firefox-browsers = Ver todos os { -brand-name-firefox-bro
 
 navigation-v2-products = Produtos
 navigation-v2-close-products-menu = Pechar o menú Produtos
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Comproba se o teu correo electrónico apareceu na violación de datos dunha empresa.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Garda e descubre as mellores historias de toda a web.
@@ -37,13 +33,9 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Axuda a evitar que { -brand-name-facebook } recolla os teus datos fóra da súa páxina web.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Consegue protección alén do teu navegador en todos os teus dispositivos.
-navigation-v2-product-promise = Compromiso sobre o produto
-navigation-v2-learn-how-each-firefox-product = Coñece como cada produto { -brand-name-firefox } protexe e respecta os teus datos.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Rexístrate para obter novas contas sen ter que dar o teu enderezo de correo electrónico.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
-navigation-v2-protect-your-browsers-connection = Protexe a conexión a Internet do teu navegador.
 navigation-v2-view-all-products = Ver todos os produtos
 
 ## Who We Are menu
@@ -68,8 +60,6 @@ navigation-v2-more-about-mozilla = Máis información sobre { -brand-name-mozill
 
 navigation-v2-innovation = Innovacións
 navigation-v2-close-innovation-menu = Pechar o menú Innovacións
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = Reúnete neste espazo social interactivo en liña e multidimensional.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Obtén o navegador { -brand-name-firefox } creado só para programadores.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
@@ -80,4 +70,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Doa a túa voz para que o futuro da web poida escoitar a toda a xente.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Máis información sobre a nova linguaxe de nivel baixo e semellante á ensamblaxe.
-navigation-v2-more-mozilla-innovation = Máis innovacións { -brand-name-mozilla }

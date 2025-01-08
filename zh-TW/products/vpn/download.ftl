@@ -13,8 +13,6 @@ vpn-download-sub-heading = 只要一次訂閱，您可以在最多 { $devices } 
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } 為所有主流作業系統提供安全可靠的保護。
 vpn-download-not-available-in-country = 抱歉，{ -brand-name-mozilla-vpn } 尚未於您所在的國家推出。
 vpn-download-button-copy = 下載
-# Obsolete string
-vpn-download-for-windows = { -brand-name-windows } 10/11 的 VPN
 vpn-download-for-windows-v2 = VPN for { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11（僅 64 位元）
 vpn-download-for-windows-long = 下載 { -brand-name-mozilla-vpn } for { -brand-name-windows }
@@ -32,8 +30,6 @@ vpn-download-for-android = VPN for { -brand-name-android }
 vpn-download-for-android-long = 下載 { -brand-name-mozilla-vpn } for { -brand-name-android }
 vpn-download-for-ios = VPN for { -brand-name-ios }
 vpn-download-for-ios-long-v2 = 下載 { -brand-name-mozilla-vpn } for { -brand-name-ios }
-# Obsolete string
-vpn-download-for-ios-long = 下載 VPN { -brand-name-mozilla-vpn } for { -brand-name-ios }
 vpn-download-get-on-google-play = 到 { -brand-name-google-play } 商店下載
 vpn-download-get-on-app-store = 到 { -brand-name-app-store } 下載
 vpn-download-based-on-your = 您目前使用的裝置

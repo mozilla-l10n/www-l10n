@@ -58,11 +58,3 @@ vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Veloce, secur, digne
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> es un servicio digne de tu confidentia pro mantener tu connexion a internet secur sur tote tu apparatos. Nos non tene registrate tu activitate in rete e nos non collabora con tertie parte que produce profilos de lo que tu face online. In un mundo ubi le imprevidibilitate ha devenite le “nove normalitate”, nos sape que il es plus importante que mais pro sentir te secur e pro te saper que lo que tu face online es tu proprie negotios.
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> es un servicio digne de tu confidentia pro mantener tu connexion a internet secur sur tote tu apparatos. Nos non mantene registros de tu activitate de rete, e nos non collabora con tertie partes qui construe profilos de lo que tu face online. In un mundo ubi le non previdibilitate ha devenite le nove normalitate…
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> es un servicio digne de tu confidentia pro mantener tu connexion a internet secur sur tote tu apparatos. Nos non tene registrate datos del usator e nos non collabora con platteformas de analyse de tertie parte pro producer un profilo de lo que tu face online. In un mundo ubi le imprevidibilitate ha devenite le “nove normalitate”, nos sape que il es plus importante que mais pro sentir te secur e pro te saper que lo que tu face online es tu proprie negotios.

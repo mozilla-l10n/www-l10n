@@ -36,3 +36,6 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> per { -brand-
 download-button-firefox-privacy = Politica de confidencialitat de { -brand-name-firefox }
 download-button-firefox-privacy-notice = Politica de confidencialitat de { -brand-name-firefox }
 download-button-download = Telecargament
+
+## Linux
+

@@ -9,7 +9,6 @@
 ## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-speak-up = Ɓamtu daande
 firefox-developer-join-the-convo = Yantu e yeewtere ndee
 firefox-developer-get-involved = Ar yantu e amen
@@ -40,10 +39,6 @@ firefox-developer-learn-more-about-style = Ɓeydu humpito ko yowitii e Taƴtorde
 firefox-developer-new-tools = Kaɓirɗe Kese
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-master-css-grid = Tigilde CSS Toppitorde
-# outdated
-firefox-developer-next-gen-css-engine = Masiŋel CSS Haralde-Aroore
-firefox-developer-a-next-generation = Masiŋel CSS Haralde-Aroore
 firefox-developer-master-innovative-features = Fannuuji Pentiyaŋkooji
-firefox-developer-faster-performance = Jaawgol golle kaaɗ-tudi
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } ina nelda duttine to { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Aawto wanngorde { -brand-name-firefox } waɗanaande topotooɓe

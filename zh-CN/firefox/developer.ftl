@@ -11,8 +11,6 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition }不但迅捷如火，还提供最先进的开发者工具，并支持 CSS 网格和调试框架等最新特性
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = 欢迎您使用 Firefox 开发者版本。使用此版本可获得最新功能、高速性能，以及您打造开放 Web 所需的开发工具。
 firefox-developer-speak-up = 大声说出来
 firefox-developer-feedback-makes-us = 意见能帮助我们改进。真诚希望您告诉我们有什么可改善浏览器与开发者工具的地方。
@@ -75,15 +73,11 @@ firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-develo
 firefox-developer-download-the-firefox-browser = 下载 { -brand-name-firefox } 为开发者打造的浏览器
 firefox-developer-firefox-has-been-rebuilt = 这是从头开始重新打造的 { -brand-name-firefox }，更快、更轻、更强大。
 firefox-developer-welcome-to-firefox-developer-edition = 欢迎使用 { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = 欢迎使用 { -brand-name-firefox-browser }：{ -brand-name-developer-edition }
 firefox-developer-made-for-developers = 专为开发者构建的浏览器
 firefox-developer-all-the-latest-v2 = 包含 Beta 版中所有最新的开发者工具，并加入了多行控制台编辑器和 WebSocket 检查器等功能。
 firefox-developer-a-separate-profile = <strong>单独的配置文件和路径</strong>，因此可以轻松与 { -brand-name-firefox } 稳定版或 { -brand-name-beta } 版共存。
 firefox-developer-preferences-tailored = <strong>为 Web 开发者量身定制的首选项</strong>：默认启用浏览器的远程调试、深色主题和开发者工具栏按钮。
 firefox-developer-congrats-you-now-have-latest-v2 = 已安装最新版 { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = 恭喜，您正在使用的是最新版 { -brand-name-firefox-browser } - { -brand-name-developer-edition }。
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = 查看<a { $attrs }>发行说明</a>（仅提供英文版），了解新版变化。

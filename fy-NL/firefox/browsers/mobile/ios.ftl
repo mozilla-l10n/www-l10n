@@ -7,12 +7,7 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = { -brand-name-firefox }-browser foar { -brand-name-ios } is fluch, feilich en privee fan it momint ôf dat jo it foar de earste kear iepenje.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-mobile-ios-get-automatic-privacy = Untfang automatyske privacy op jo { -brand-name-iphone } en { -brand-name-ipad }
 mobile-ios-get-firefox-for = Download { -brand-name-firefox } foar { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = In downloadkeppeling nei jo telefoan ferstjoere.
 mobile-ios-scan-the-qr-code-to-get-started = Scan de QR-koade om te begjinnen
@@ -31,14 +26,8 @@ mobile-ios-get-to-your-go-to = Gean flugger nei jo favorite plakken op jo { -bra
 mobile-ios-see-your-open-tabs = Besjoch jo iepen ljepblêden, eardere sykopdrachten en favorite websites op ien plak mei { -brand-name-firefox-browser } foar { -brand-name-ios }.
 mobile-ios-own-your-home = Bepaal sels jo startskerm
 mobile-ios-get-to-the-parts = Gean flugger nei de dielen fan it ynternet dy’t jo wichtich fine. Kies derfoar om al jo iepene ljepblêden, resinte sykopdrachten, blêdwizers en favorite websites op ien plak te sjen.
-# Obsolete string
-mobile-ios-add-firefox-across = Foegje { -brand-name-firefox } ta oan al jo apparaten foar feilich en ûnbeheind sneupe. Brûk { -brand-name-sync } op jo apparaten om jo favorite blêdwizers, bewarre oanmeldingen, wachtwurden en navigaasjeskiednis oeral mei hinne te nimmen. Plus, ferstjoer iepen ljepblêden tusken jo telefoan en desktop om fierder te gean wêr’t jo bleaun wiene.
 mobile-ios-find-it-all = Fyn alles flugger
 mobile-ios-get-search-suggestions = Untfang syksuggestjes yn de sykbalke en krij fluch tagong ta de websites dy’t jo it meast besykje. Typ jo sykfraach en ûntfang foarstelde en earder opsochte resultaten yn jo favorite sykmasinen.
-# Obsolete string
-mobile-ios-keep-tabs-on = Hâld ljepblêden yn de gaten
-# Obsolete string
-mobile-ios-create-as-many = Meitsje safolle ljepblêden as jo wolle sûnder it oersicht te ferliezen. { -brand-name-firefox } jout jo iepene ljepblêden wer as miniatueren en nûmere ljepblêden, sadat jo fluch fine kinne wat jo sykje.
 mobile-ios-discover-more-of = Untdek mear fan wêr’t jo fan hâlde
 mobile-ios-open-a-new = Iepenje in nij ljepblêd yn { -brand-name-firefox } om de websites dy’t jo it meast besykje, jo resinte blêdwizers en populêre artikelen yn { -brand-name-pocket } te sjen. { -brand-name-firefox } biedt jo flugge tagong ta jo meast resint brûkte websites om jo te helpen flugger te kommen wêr’t jo hinne wolle.
 mobile-ios-about-mozilla = Oer { -brand-name-mozilla }

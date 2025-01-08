@@ -54,19 +54,10 @@ vpn-download-faq-working = بَھلا میکوں کیویں پتہ لڳسی جو
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.mozilla.org/
 vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn }ٹول بار اَتے ایپلیکیشن دی ہوم سکرین ݙُون٘ہائیں وِچ آپݨی موجودہ حالت دے بصری اشارے ݙِکھلین٘دا ہِے، اِیہ ڄاݨن سَوکھا بݨین٘دا ہِے جو بَھلا تُہاݙی آن لائن سرگرمی محفوظ ہِے یا کائناں۔ اِیہ اِشارے تُہاکوں اِیں ڳالھ دی تصدیق کرݨ دی اجازت ݙین٘دے ہِن جو تُہاݙا نیویگیشن کہڑیلے نجی اَتے محفوظ ہِے۔ ٻِیا اِیہ جو، جُڑݨ دے وِچالے، تُساں اِیں ڳالھ دے پَک کِیتے <a href="{ $monitor }">https://monitor.mozilla.org/</a>اُتے ون٘ڄ سڳدے ہِیوے جو بَھلا تُہاݙا آئی پی پتہ لُکّیا ہوئیا ہِے۔ ودھیک معلومات کِیتے، تھورائیت کرین٘دے ہوئے <a href="{ $connected }">میں کیویں ݙَسا سڳدا ہاں جو بَھلا { -brand-name-mozilla-vpn }نَتّھی ہِے؟</a> ݙیکھو۔
-# Obsolete string
-# Variables:
-#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
-#   $monitor (url) link to https://monitor.firefox.com/
-vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn }ٹول بار اَتے ایپلیکیشن دی ہوم سکرین ݙُون٘ہائیں وِچ آپݨی موجودہ حالت دے بصری اشارے ݙِکھلین٘دا ہِے، اِیہ ڄاݨن سَوکھا بݨین٘دا ہِے جو بَھلا تُہاݙی آن لائن سرگرمی محفوظ ہِے یا کائناں۔ اِیہ اِشارے تُہاکوں اِیں ڳالھ دی تصدیق کرݨ دی اجازت ݙین٘دے ہِن جو تُہاݙا نیویگیشن کہڑیلے نجی اَتے محفوظ ہِے۔ ٻِیا اِیہ جو، جُڑݨ دے وِچالے، تُساں اِیں ڳالھ دے پَک کِیتے <a href="{ $monitor }">https://monitor.mozilla.com/</a>اُتے ون٘ڄ سڳدے ہِیوے جو بَھلا تُہاݙا آئی پی پتہ لُکّیا ہوئیا ہِے۔ ودھیک معلومات کِیتے، تھورائیت کرین٘دے ہوئے <a href="{ $connected }">میں کیویں ݙَسا سڳدا ہاں جو بَھلا { -brand-name-mozilla-vpn }نَتّھی ہِے؟</a> ݙیکھو۔
 vpn-download-faq-add-device = میں ہک ٻئی ڈیوائس کین٘ویں شامل کر سڳداں؟
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v3 = ݙُوجھی ڈیوائس رلاوݨ اِتّی اِی سَوکھا ہِے جِتّی جو { -brand-name-mozilla-vpn }سافٹ ویئر کوں ڈاؤن لوڈ اَتے انسٹال کرݨ اَتے وَل نویں ڈیوائس اُتے موجودہ { -brand-name-mozilla-account }وِچ سائن اِن کرݨ۔ وَدھیک معلومات کِیتے، تھورائیت کرین٘دے ہوئے <a href="{ $subscription }">آپݨی { -brand-name-mozilla-vpn }سبسکرپشن وِچ ڈیوائساں کیویں پاؤں</a> ݙیکھو۔
-# Obsolete string
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v2 = ݙُوجھی ڈیوائس رلاوݨ اِتّی اِی سَوکھا ہِے جِتّی جو { -brand-name-mozilla-vpn }سافٹ ویئر کوں ڈاؤن لوڈ اَتے انسٹال کرݨ اَتے وَل نویں ڈیوائس اُتے موجودہ{ -brand-name-firefox-account } وِچ سائن اِن کرݨ۔ وَدھیک معلومات کِیتے، تھورائیت کرین٘دے ہوئے <a href="{ $subscription }">آپݨی { -brand-name-mozilla-vpn }سبسکرپشن وِچ ڈیوائساں کیویں پاؤں</a> ݙیکھو۔
 vpn-download-faq-best-practices = وی پی این دے کُجھ بہترین طریقے کیا ہِن؟
 vpn-download-faq-traffic = ڄیکر تُہاݙا مقصد تِکّھی رفتار کوں برقرار رکھین٘دے ہوئے آپݨے انٹرنیٹ دی راکھی کرݨ ہِے، تاں اِیہ ہمیشاں چَنڳا ہِے جو سرور دی جاء چُݨو جو تُہاݙی جسمانی جاء دے جِتّی ممکن تھی سڳے نیڑے ہؤوے۔ اِین٘دے نال تُہاݙے کنکشن دی ریلائیبلٹی اَتے رفتار وِچ وَدھارا تھیسی کیوں جو تُہاݙے انٹرنیٹ ٹریفک کوں ویب اُتے آپݨی مطلوبہ منزل اُتے پُڄّݨ کنوں پہلاں کُئی خاص چکّر لاوݨ دی لوڑ نہ ہوسی۔
 vpn-download-faq-experience = ڄیکر تُہاݙا مقصد انٹرنیٹ دا تجربہ کرݨ ہِے یعنی تُساں دُنیاں دے کئیں ٻئے حِصّے وِچ ہِیوے، تاں تُساں اُتّھاں سرور دی جاء چُݨ سڳدے ہِیوے اَتے تُساں جہڑیاں وی ویب سائٹاں ڈیہدے ہِیوے اُتے اِیویں ظاہر تِھیسِن جیویں تُساں اُتّھاں موجود ہؤو۔

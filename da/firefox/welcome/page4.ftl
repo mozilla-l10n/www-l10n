@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
@@ -9,7 +9,6 @@
 welcome-page4-download-the-firefox-browser = Hent { -brand-name-firefox-browser } til din mobil ({ -brand-name-ios } og { -brand-name-android })
 welcome-page4-wallet-keys-phone-firefox = Tegnebog. Nøgler. Telefon. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-take-privacy-with-you-on-every = Beskyt dit privatliv på alle dine enheder - og slip for sporings-tjenester.
-welcome-page4-get-the-firefox-app = Hent { -brand-name-firefox }-appen
 welcome-page4-get-firefox-on-your-phone = Få { -brand-name-firefox } på din telefon
 welcome-page4-send-the-download-link-right = Send linket til din telefon eller din indbakke.
 welcome-page4-download-firefox-for-your = Hent { -brand-name-firefox } til din telefon og din tablet.
@@ -17,7 +16,7 @@ welcome-page4-firefox-private-safe-browser = "{ -brand-name-firefox }: Privat, s
 # "off your trail" is an expression for not being followed around.
 welcome-page4-get-data-trackers-off-your = Slip for sporings-tjenester
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
+#   $privacy (url) - link to https://support.mozilla.org/kb/trackers-and-scripts-firefox-blocks-enhanced-track/
 welcome-page4-enhanced-tracking-protection = Udvidet beskyttelse mod sporing <a href="{ $privacy }">forhindrer over 2000 sporings-tjenester</a> i at forfølge dig på nettet.
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = Efterlad ingen spor

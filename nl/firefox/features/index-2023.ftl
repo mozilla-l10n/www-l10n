@@ -11,10 +11,6 @@ features-index-firefox-browser-features = { -brand-name-firefox }-browserfunctie
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } is de snelle, lichtgewicht, op privacy gerichte browser die werkt op al uw apparaten.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } wordt steeds sneller
 features-index-the-latest-browser-speed-benchmarks = De nieuwste browsersnelheidsbenchmarks bewijzen dat { -brand-name-firefox } sneller is dan ooit.
-# Obsolete string
-features-index-is-firefox-a-fast-browser = Is { -brand-name-firefox } een snelle browser?
-# Obsolete string
-features-index-firefox-uses-less-memory-than = { -brand-name-firefox } gebruikt minder geheugen dan Chrome, zodat uw andere programma’s op topsnelheid kunnen blijven draaien.
 features-index-is-firefox-a-private-browser = Is { -brand-name-firefox } een privébrowser?
 features-index-were-focused-on-your-right-to = Wij concentreren ons op uw recht op privacy. Uw gegevens, uw webactiviteit en uw online leven worden beschermd met { -brand-name-firefox }.
 features-index-free-password-manager = Gratis wachtwoordenbeheerder
@@ -42,7 +38,5 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } blokkeert 
 features-index-ditch-the-sticky-ads = Weg met de hardnekkige advertenties die u volgen met de in { -brand-name-firefox } ingebouwde blokkering van fingerprinting.
 features-index-translate-the-web = Vertaal het internet
 features-index-translate-websites-to-your = Vertaal websites rechtstreeks in uw { -brand-name-firefox }-browser naar uw taal – zonder uw gegevens met anderen te delen.
-# Obsolete string
-features-index-translate-more-than = Vertaal vanuit meer dan 100 talen rechtstreeks naar uw taal in uw { -brand-name-firefox }-browser – eenvoudiger dan ooit.
 features-index-picture-in-picture = Picture-in-Picture
 features-index-got-things-to-do = Hebt u dingen te doen en dingen te bekijken? Doe het tegelijkertijd met Picture-in-Picture in { -brand-name-firefox }.

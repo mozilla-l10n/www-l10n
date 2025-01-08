@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -15,7 +15,6 @@ about-our-mission-in-action = आमचे ध्येय कृतीत अ�
 about-pioneers-of-the-open-web = खुल्या वेब चे आरंभकार
 about-firefox-fast-for-good = FIrefox: हितार्थ जलद
 about-walking-our-privacy-talk = आमचे गोपनीयता धोरण सत्यात उतरवताना
-about-talking-internet-issues-irl = इंटरनेट समस्यांवर वास्तवीक चर्चा
 about-corporation-foundation-not = कार्पोरेशन. संस्था. विना-नफा.
 about-learn-about-the-mozilla-foundation = Mozilla संस्थेबद्दल जाणून घ्या
 about-the-mozilla-manifesto = { -brand-name-mozilla } जाहीरनामा

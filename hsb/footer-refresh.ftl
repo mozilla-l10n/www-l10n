@@ -40,5 +40,3 @@ footer-refresh-community-participation-guidelines = Wobdźělenske směrnicy zhr
 footer-refresh-about-this-site = Wo tutym sydle
 footer-refresh-all-languages = Wšě rěče
 footer-refresh-language = Rěč
-footer-refresh-primary-nav-aria-label = Primarna nohowa linka
-footer-refresh-secondary-nav-aria-label = Sekundarna nohowa linka

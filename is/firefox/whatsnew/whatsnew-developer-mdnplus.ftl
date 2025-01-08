@@ -8,8 +8,6 @@
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest-v2 = Til hamingju! Þú ert að nota nýjustu útgáfuna af { -brand-name-firefox-developer-edition }.
-# Obsolete string (expires: 2024-05-14)
-developer-mdnplus-congrats-you-now-have-latest = Til hamingju. Þú ert nú með nýjustu útgáfuna af { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Meira { -brand-name-mdn }. <em>Þitt</em> { -brand-name-mdn }.
 developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } er samvinnuverkefni með opinn grunnkóða sem skráir tækni á vefkerfum, þar á meðal CSS, HTML, JavaScript og API-kerfisviðmótum vefsvæða. Við bjóðum einnig upp á umfangsmikið námsefni fyrir byrjendur í forritun og nemendur.

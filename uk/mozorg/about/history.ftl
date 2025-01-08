@@ -1,13 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
 
 history-history-of-the-mozilla-project = Історія проєкту { -brand-name-mozilla }
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = Проєкт { -brand-name-mozilla } був <a href="{ $coderush }">створений у 1998 році</a> разом з <a href="{ $sourcerelease }">відкриттям програмного коду браузера { -brand-name-netscape }</a>.
 history-it-was-intended-to-harness = Він був покликаний використовувати творчу енергію тисяч програмістів в Інтернеті та запалив безпрецедентний рівень інновацій на ринку браузерів.

@@ -27,10 +27,6 @@ firefox-new-need-help = Ĉu vi bezonas helpon?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ne plu provizas sekurecajn ĝisdatigojn</a> en { -brand-name-windows } { -brand-name-xp } aŭ { -brand-name-vista }, sed vi povas plu uzi { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Vi uzas neskuran, kadukan mastruman sistemon, <a href="{ $url }">kiu ne plu estas subtenata de { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -45,8 +41,6 @@ firefox-new-please-follow = Bonvolu sekvi <a href="{ $url }">tiujn ĉi instrukci
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Via sistemo ne plenumas la postulojn de { -brand-name-firefox }, sed vi povas provi unu el <a href="{ $url }">la jenaj versioj</a>.
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Se vi vidas dialogon kiu indikas ke la instalota apo ne estas kontrolita de { -brand-name-microsoft }, alklaku “Tamen instalu” aŭ <a { $attrs }>ŝanĝu la agordojn de rekomenditaj apoj</a>.
@@ -63,4 +57,3 @@ firefox-new-fast = Rapida, privata kaj senpaga
 firefox-new-from-mozilla = el { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } estas senpaga retumilo kun rapida ŝargado de paĝoj, malpli da memoruzo kaj amaso da trajtoj. Ĝi estas projekto de la neprofitcela organizo { -brand-name-mozilla }.
 firefox-new-download-a-different = Elŝuti por aliaj sistemoj kaj lingvoj
-firefox-new-taskbar = Post instalo, { -brand-name-firefox } estos alpinglita al la { -brand-name-windows } taska strio

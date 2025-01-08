@@ -56,11 +56,3 @@ vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Rápida, segura, con
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> é um serviço em que pode confiar para manter a sua ligação à Internet segura em todos os seus dispositivos. Não mantemos os seus registos de atividade de rede e não fazemos parcerias com terceiros que constroem perfis do que faz na Internet. Num mundo onde a imprevisibilidade se tornou o “novo normal”, sabemos que é mais importante do que nunca que se sinta seguro e que saiba que o que faz na Internet é da sua conta.
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> é um serviço em que pode confiar para manter a sua ligação à Internet segura em todos os seus dispositivos. Não mantemos os seus registos de atividade de rede e não fazemos parcerias com terceiros que constroem perfis do que faz na Internet. Em um mundo onde a imprevisibilidade se tornou o novo normal…
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> é um serviço em que pode confiar para manter a sua ligação à Internet segura em todos os seus dispositivos. Não mantemos registos de dados dos utilizadores e não fazemos parceria com plataformas de análise de terceiros que pretendem construir um perfil do que faz na Internet. Num mundo onde a imprevisibilidade se tornou o “novo normal”, sabemos que é mais importante do que nunca que se sinta seguro e que saiba que o que faz na Internet é da sua conta.

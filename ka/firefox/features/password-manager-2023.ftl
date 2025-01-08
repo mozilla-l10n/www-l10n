@@ -13,14 +13,6 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } უს�
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = <a { $fxa }>უფასო { -brand-name-mozilla-account(case: "adj") }</a> შეგეძლებათ თქვენი პაროლების უსაფრთხოდ დასინქრონება ყველა თქვენს მოწყობილობაზე. ასევე წვდომა გექნებათ { -brand-name-mozilla }-ს პირადულობის უზრუნველმყოფ ყველა სხვა ნაწარმზეც.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account = <a href="{ $fxa }">უფასო { -brand-name-mozilla-account(case: "adj") }</a> შეგიძლიათ უსაფრთხოდ დაასინქრონოთ თქვენი პაროლები ყველა მოწყობილობაზე.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-firefox-account = <a href="{ $fxa }">უფასო { -brand-name-firefox }-ანგარიშით</a> შეგიძლიათ უსაფრთხოდ დაასინქრონოთ თქვენი პაროლები ყველა მოწყობილობაზე.
 password-manager-password-autofill-for-easy-logins = პაროლის თვითშევსება, მარტივად შესვლისთვის
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } ავტომატურად მოახერხებს შეავსოს ველები დამახსოვრებული სახელითა და პაროლით. თუ საიტისთვის ერთზე მეტი ანგარიში გაქვთ, მხოლოდ აირჩიეთ სასურველი მათგანი და შესაბამის მონაცემებს გამოიყენებს.
 # Used as an accessible text alternative for an image

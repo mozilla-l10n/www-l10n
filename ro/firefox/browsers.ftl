@@ -1,16 +1,10 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
-# HTML page title
-firefox-browsers-get-the-browsers-that-put = Folosește browsere care îți pun confidențialitatea pe primul loc — și așa au făcut dintotdeauna
-# HTML page description
-firefox-browsers-get-the-privacy-you-deserve = Obține confidențialitatea pe care o meriți. Protecția amplificată împotriva urmăririi este automată în fiecare browser { -brand-name-firefox }.
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = Folosește <strong>browsere</strong> care îți pun confidențialitatea pe primul loc — și așa au făcut dintotdeauna
 firefox-browsers-desktop = Calculator
 firefox-browsers-seriously-private-browsing = Navigare serios privată. { -brand-name-firefox } blochează automat peste 2000 de elemente de urmărire online împiedicându-le să colecteze informații despre ce faci online.
 firefox-browsers-download-for-desktop = Descarcă pentru desktop
@@ -26,11 +20,6 @@ firefox-browsers-go-beyond-two-dimensions-and = Mergi dincolo de bidimensional �
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = Construiește site-uri și perfecționează-ți codul tău cu { -brand-name-firefox } <strong>{ -brand-name-devtools }</strong>
 firefox-browsers-learn-more-about-devtools = Află mai multe despre { -brand-name-devtools }
-firefox-browsers-join-firefox-and-get-the-most = Alătură-te { -brand-name-firefox } și obține maximul de la fiecare produs — pe orice dispozitiv.
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-browsers-already-have-an-account-sign = Ai deja un cont? <a { $fxa_attr }>Autentifică-te</a> sau <a { $accounts_attr }>află mai multe</a> despre alăturarea la Firefox.
 firefox-browsers-android = { -brand-name-android }
 firefox-browsers-ios = { -brand-name-ios }
 firefox-browsers-developer-edition = { -brand-name-developer-edition }

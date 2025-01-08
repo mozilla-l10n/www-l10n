@@ -10,9 +10,6 @@ firefox-browsers-page-title = Ladda ned { -brand-name-firefox } för dator, mobi
 # HTML page description
 firefox-browsers-page-desc = Välj från dator, { -brand-name-ios }, { -brand-name-android } eller låt oss skicka en länk för nedladdning via e-post till dig.
 firefox-browsers-main-heading = { -brand-name-firefox } webbläsare
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = Hämta <strong>webbläsarna</strong> som sätter din integritet först — och har alltid gjort det
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Skaffa webbläsaren som sätter din integritet främst — och <strong>alltid</strong> har gjort det
 firefox-browsers-desktop = Dator

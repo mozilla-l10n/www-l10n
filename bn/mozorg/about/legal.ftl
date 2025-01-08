@@ -14,7 +14,6 @@ legal-special-thanks-to-all-of-you = বিশেষভাবে ধন্যব
 legal-terms = শর্তাবলী
 legal-our-websites = আমাদের ওয়েবসাইট
 legal-firefox-services = { -brand-name-firefox } পরিষেবা
-legal-webmaker = { -brand-name-webmaker }
 legal-privacy-trademarks = গোপনীয়তা ও ট্রেডমার্ক
 legal-privacy-notices-and-policy = গোপনীয়তা নোটিশ এবং নীতিমালা
 legal-downloadable-software-notices = ডাউনলোডযোগ্য সফটওয়্যার নোটিশ

@@ -12,12 +12,6 @@ vpn-mobile-in-todays = In le mundo hodierne centrate sur le apparatos mobile, no
 vpn-mobile-why-do-i = Perque besonia io de un VPN pro apparato mobile?
 vpn-mobile-the-mozilla-vpn = Le { -brand-name-mozilla-vpn } app mobile es micre, assi illo non usa troppo de tu memoria, e illo non relentara tu telephono o ardera tu batteria.
 vpn-mobile-your-internet-v2 = Tu fornitor de servicio internet (ISP) pote regular tu largessa de banda si illes sape que tu observa films, ascolta musica, o specta diffusion multimedial.
-# Obsolete string
-vpn-mobile-your-internet = Tu fornitor de servicio internet (ISP) pote regular tu largessa de banda si illes sape que tu observa films, ascolta musica, o specta diffusion multimedial
 vpn-mobile-your-isp-v2 = Tu ISP pote blocar sitos web o servicios que a illes non place o que compete con lor proprie.
-# Obsolete string
-vpn-mobile-your-isp = Tu ISP pote blocar sitos web o servicios que a illes non place o que compete con lor proprie
 vpn-mobile-hackers-can-steal-v2 = Piratas informatic pote robar tu datos personal quando que tu usa wi-fi public, tal como in cafés o aeroportos.
-# Obsolete string
-vpn-mobile-hackers-can-steal = Piratas informatic pote robar tu datos personal quando que tu usa wi-fi public, tal como in cafés o aeroportos
 vpn-mobile-a-vpn-works = Un VPN labora inter tu apparato, non solo tu navigator, dunque inter le apps de tu apparato mobile. E diversemente del VPNs o sitos proxy gratuite, que pote pagar pro lor servitores per que spia sur te e vender tu informationes, { -brand-name-mozilla } non mantene registrationes de ubi tu va e de lo que tu face.

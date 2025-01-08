@@ -1,30 +1,21 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = प्रणाली आवश्यकता तपासा
-firefox-all-release-notes = प्रकाशन टिप
-firefox-all-source-code = स्त्रोत कोड
-firefox-all-need-help = मदत पाहिजे?
-firefox-all-which-browser-would = आपण कोणता ब्राउझर डाउनलोड करू इच्छिता?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = मदत मिळवा
-firefox-all-you-are-about-to-download = आपण डाउनलोड करणार आहात:
-firefox-all-browser = ब्राउझर:
-firefox-all-platform = प्लॅटफॉर्म:
-firefox-all-language = भाषा:
 firefox-all-sorry-we-couldnt-find = क्षमस्व, आपण शोधत असलेले डाउनलोड आम्हाला आढळले नाही. कृपया पुन्हा प्रयत्न करा किंवा खालील सूचीतून डाउनलोड निवडा.
 firefox-all-the-pre-alpha-version = क्रॅशची शिकार आणि नवीन वैशिष्ठ्यांची चाचणी घेणाऱ्या विशेष वापरकर्त्यांसाठी प्री-अल्फा आवृत्ती.
 firefox-all-64-bit-installers = 64-बिट इंस्टॉलर
 firefox-all-choose-a-64-bit-installer = 64-बिट प्रोसेसर असणाऱ्या संगणकांसाठी 64-बिट आवृत्ती निवडा, ज्यामुळे त्यांना प्रोग्रॅमला अधिक RAM विभागून देता येते — गेम आणि इतर संसाधन मागणाऱ्या अॉप्लिकेशन्स साठी खास महत्वाचे.
 firefox-all-32-bit-installers = 32-बिट इंस्टॉलर
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Firefox ब्राउझर इंग्रजी (US) आणि इतर 90 पेक्षा अधिक भाषांमध्ये डाउनलोड करा
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = प्रत्येक जण इंटरनेट वापरास पात्र आहे — आपली भाषा कधीच अडथळा बनू नये. म्हणूनच — जगभरातील समर्पित स्वयंसेवकांच्या मदतीने — आम्ही Firefox ब्राउझर 90 हुन अधिक भाषांमध्ये उपलब्ध करतो.
+firefox-all-check-the-system-requirements = प्रणाली आवश्यकता तपासा
+firefox-all-release-notes = प्रकाशन टिप
+firefox-all-source-code = स्त्रोत कोड
+firefox-all-need-help = मदत पाहिजे?
 firefox-all-choose-which-firefox = आपल्या भाषेत कोणते Firefox ब्राउझर डाउनलोड करायचे ते निवडा
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } गोपनीयता सूचना
 firefox-all-learn-about-firefox = { -brand-name-firefox } ब्राउझरबद्दल जाणून घ्या

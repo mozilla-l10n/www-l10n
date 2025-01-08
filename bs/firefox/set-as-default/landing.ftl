@@ -9,9 +9,7 @@
 set-as-default-landing-make-firefox-your-default = Neka { -brand-name-firefox } bude vaš zadani pretraživač
 # HTML page description
 set-as-default-landing-choose-the-browser = Odaberite pretraživač koji štiti vašu privatnost. Postavite { -brand-name-firefox } kao zadani pretraživač.
-# Obsolete string
 set-as-default-landing-thanks-for-using-the = Hvala što koristite najnoviji { -brand-name-firefox } pretraživač. Kada odaberete { -brand-name-firefox }, podržavate bolji web za vas i sve ostale. Sada preduzmite sljedeći korak da se zaštitite.
-# Obsolete string
 set-as-default-landing-make-sure-youre-protected = Budite sigurni da ste zaštićeni svaki put kada budete online
 set-as-default-landing-you-should-get = Treba da odlučite o tome kako pretražujete
 set-as-default-landing-if-you-recently = Ako ste nedavno ažurirali svoj računar, možda su se vaše postavke promijenile. Podržite besplatan i otvoren internet svaki put kada budete na mreži sa { -brand-name-firefox }om.

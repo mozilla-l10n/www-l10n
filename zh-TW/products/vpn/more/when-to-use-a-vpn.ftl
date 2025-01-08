@@ -32,7 +32,7 @@ vpn-when-to-use-for-the-most = 只要您正確設定了高強度的密碼並採�
 vpn-when-to-use-because-your-internet = 由於您在家中的網路流量會透過網際網路服務供應商 (又稱 ISP) 與您的裝置匯入或匯出您的裝置。他們會發現您會在哪裡上網。 ISP 可以看到您造訪哪些網站、開啟這些網站多久、您的所在位置以及關於您的裝置的資訊。透過加密系統ISP 可能不知道您在這些網站做了什麼例如您買了哪些東西、搜尋了哪些東西但他們可以根據您造訪過的網站來推測您。您的個人資料可能會被 ISP 用來建立您的詳細資料。在隱私瀏覽模式中上網並不會讓 ISP 知道您經常去哪裡上網。但透過 VPN 傳送流量會讓事情變得更難。
 vpn-when-to-use-make-sure-you = 確定您知道 VPN 能做什麼，又不能做什麼
 # Variables
-#   $book (url) - https://www.mozilla.org/firefox/privacy/book/
+#   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
 vpn-when-to-use-a-vpn-provides = VPN 提供了一道重要的安全鏈結在網際網路中傳播前保護您的私人資料。 VPN 也隱藏您的 IP 地址幫助保護您的個人身分與實際所在地點。但這無法保護您點下可疑的鏈結、下載惡意程式或成為詐騙郵件的受害者。您還是需要先培養 <a href="{ $book }">保持上網安全的好習慣</a>。
 vpn-when-to-use-mozilla-vpn-a = 可靠的 VPN 服務：{ -brand-name-mozilla-vpn }
 # Variables

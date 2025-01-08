@@ -3,10 +3,10 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## Required
+# Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = { -brand-name-firefox } ڈائونلوڈ کریں
 firefox-new-download-the-fastest-firefox = اب تک کا سب سے تیز { -brand-name-firefox } ڈاؤن لوڈ کریں
@@ -22,7 +22,7 @@ firefox-new-advanced-install-options = اعلی درجے کی انسٹال کے 
 firefox-new-download-in-another-language = ایک اور زبان میں ڈائونلوڈ کریں
 firefox-new-need-help = مدد چاہیے؟
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
 #   $id (string) - HTML ID for the download link.
@@ -31,10 +31,9 @@ firefox-new-your-firefox-new-should-begin = آپ کا ڈاؤن لوڈ خودبخ
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤزر سے زیادہ ہے۔
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = آپ کے ڈاؤن لوڈ میں خلل پڑا۔ لیکن سب ختم نہیں ہوا ہے۔
-firefox-new-windows-10 = { -brand-name-windows } 10
 
-## Not-Required
+# Not-Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 

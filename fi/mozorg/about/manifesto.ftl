@@ -52,8 +52,6 @@ manifesto-we-are-committed-to-diverse = Olemme sitoutuneet Internetiin, joka kii
 manifesto-show-your-support = Näytä tukesi
 manifesto-an-internet-with-these = Internet, jolla on nämä ominaisuudet, ei muodostu itsestään. Yksilöiden ja organisaatioiden on sisällytettävä nämä pyrkimykset Internet-teknologiaan ja ihmisten kokemuksiin Internetistä. { -brand-name-mozilla }n manifesti ja sen lisäys edustavat { -brand-name-mozilla }n sitoutumista näiden pyrkimysten edistämiseen. Pyrimme työskentelemään yhdessä ihmisten ja organisaatioiden kanssa kaikkialla, jotka jakavat nämä tavoitteet, jotta internetistä tulisi entistä parempi paikka kaikille.
 manifesto-i-support-the-vision-of = Tuen @mozilla'n visiota paremmasta, terveemmästä internetistä. Tuletko mukaan?
-# Obsolete string
-manifesto-share-on-twitter = Jaa { -brand-name-twitter }issä
 manifesto-share-on-x = Jaa X:ssä
 manifesto-share-on-x-aria-label = Jaa X:ssä (entinen Twitter)
 manifesto-our-10-principles = <strong>Kymmenen</strong> periaatettamme

@@ -11,10 +11,6 @@ features-index-firefox-browser-features = { -brand-name-firefox } tarayıcı öz
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox }, tüm cihazlarınızda çalışan hızlı, hafif ve gizlilik odaklı bir tarayıcıdır.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } hızlanmaya devam ediyor
 features-index-the-latest-browser-speed-benchmarks = En son tarayıcı hız karşılaştırmaları, { -brand-name-firefox }’un her zamankinden daha hızlı olduğunu kanıtlıyor.
-# Obsolete string
-features-index-is-firefox-a-fast-browser = { -brand-name-firefox } hızlı bir tarayıcı mıdır?
-# Obsolete string
-features-index-firefox-uses-less-memory-than = { -brand-name-firefox } Chrome’dan daha az bellek tüketir, böylece diğer programlarınız da daha hızlı çalışabilir.
 features-index-is-firefox-a-private-browser = { -brand-name-firefox } gizlilik odaklı bir tarayıcı mı?
 features-index-were-focused-on-your-right-to = Gizlilik hakkınız bizim için çok önemli. { -brand-name-firefox }, verilerinizi, web’de yaptıklarınızı ve çevrimiçi yaşamınızı koruyor.
 features-index-free-password-manager = Ücretsiz parola yöneticisi
@@ -42,7 +38,5 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox }, 2.000’d
 features-index-ditch-the-sticky-ads = { -brand-name-firefox }’un yerleşik parmak izi engelleyicileri ile sizi takip eden yılışık reklamlardan kurtulun.
 features-index-translate-the-web = Web’i çevirin
 features-index-translate-websites-to-your = Web sitelerini doğrudan { -brand-name-firefox } tarayıcınızdan, verilerinizi kimseyle paylaşmadan kendi dilinize çevirin.
-# Obsolete string
-features-index-translate-more-than = 100‘den fazla dili doğrudan { -brand-name-firefox }’ta kendi dilinize çevirin. Artık eskisinden de kolay!
 features-index-picture-in-picture = Görüntü içinde görüntü
 features-index-got-things-to-do = Hem yapmanız gereken işler hem de izlemek istediğiniz şeyler mi var? { -brand-name-firefox }’ta görüntü içinde görüntü ile ikisini birden yapın.

@@ -15,7 +15,6 @@ about-our-mission-keep-the-internet = ہمارا مشن: انٹرنیٹ کھلا
 about-read-our-mission = ہمارا مشن پڑھیں
 about-firefox-fast-for-good = { -brand-name-firefox }: تیز، بہتری کے لیے
 about-walking-our-privacy-talk = ہماری رازداری کی بات چیت کرتے ہوئے
-about-talking-internet-issues-irl = انٹرنیٹ کے مسائل پر گفتگو کرتے ہوئے  IRL
 about-corporation-foundation-not = کارپوریشن فاؤنڈیشن غیر منافع بخش
 about-learn-about-the-mozilla-foundation = { -brand-name-mozilla-foundation } کے بارے میں مزید سیکھیں
 about-the-mozilla-manifesto = { -brand-name-mozilla } کا منشور

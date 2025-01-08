@@ -59,4 +59,3 @@ firefox-new-fast = Hraðvirkt, einka og ókeypis
 firefox-new-from-mozilla = frá { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } er ókeypis vafri með hraðri hleðslu á síðum, léttari minnisnotkun og fullt af eiginleikum - afurð verkefnis á vegum { -brand-name-mozilla }, sem ekki er rekið í hagnaðarskyni.
 firefox-new-download-a-different = Sækja fyrir annað stýrikerfi eða tungumál
-firefox-new-taskbar = { -brand-name-firefox } verður fest við { -brand-name-windows } verkefnastikuna eftir uppsetningu

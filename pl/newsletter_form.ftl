@@ -20,11 +20,7 @@ newsletter-form-sign-up-to-receive = Zarejestruj się, aby co miesiąc otrzymywa
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Pozwalam { -brand-name-mozilla(case: "dat") } wykorzystywać te informacje w sposób opisany w <a href="{ $url }">zasadach ochrony prywatności</a>
 newsletter-form-we-will-only-send-v2 = Będziemy wysyłać Ci wyłącznie informacje związane z { -brand-name-mozilla(case: "ins") }. Można zrezygnować z subskrypcji w każdej chwili.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send = Przesyłane będą wyłącznie informacje związane z { -brand-name-mozilla(case: "ins") }.
 newsletter-form-we-will-only-send-firefox-v2 = Będziemy wysyłać Ci wyłącznie informacje związane z { -brand-name-firefox(case: "ins") }. Można zrezygnować z subskrypcji w każdej chwili.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send-firefox = Przesyłane będą wyłącznie informacje związane z { -brand-name-firefox(case: "ins") }.
 newsletter-form-if-you-havent-previously = Jeśli jeszcze nigdy nie potwierdzono subskrypcji biuletynu { -brand-name-mozilla(case: "gen") }, to możesz musieć to zrobić. Sprawdź, czy w skrzynce pocztowej lub spamie jest wiadomość od nas.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> i Ty
 newsletter-form-get-firefox-tips = Porady, wskazówki i wiadomości ze świata { -brand-name-firefox(case: "gen") }

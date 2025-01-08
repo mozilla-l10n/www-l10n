@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 sub-navigation-all-languages = Ronojel Ch'ab'äl
 sub-navigation-firefox = { -brand-name-firefox }
@@ -22,17 +22,9 @@ sub-navigation-android-beta = { -brand-name-android } { -brand-name-beta }
 sub-navigation-desktop-beta-and-developer = Ajk'amaya'l { -brand-name-beta } & { -brand-name-developer-edition }
 sub-navigation-desktop-nightly = Ajk'amaya'l { -brand-name-nightly }
 sub-navigation-features = Taq b'anikil
-sub-navigation-support = Tob'äl
-sub-navigation-addons = Taq tz'aqat
-sub-navigation-faq = Jutaqil k'utunïk
-sub-navigation-learn-more = Tetamäx Ch'aqa' Chik
-sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } richin Oyonib'äl
-sub-navigation-android-addons = { -brand-name-android } taq Tz'aqat
 sub-navigation-chromebook = { -brand-name-chromebook }
-sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
-sub-navigation-lockwise = { -brand-name-lockwise }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64-bit
 sub-navigation-mac = { -brand-name-mac-short }
@@ -47,8 +39,3 @@ sub-navigation-private-browsing = Ichinan Okem pa K'amaya'l
 sub-navigation-what-is-a-browser = ¿Achike ri jun Okik'amaya'l?
 sub-navigation-browsing-history = Runatab'al Okem pa K'amaya'l
 sub-navigation-browser-history = Runatab'al Okem pa K'amaya'l
-sub-navigation-privacy = Ichinanem
-sub-navigation-our-promise = Sujun Qatzij
-sub-navigation-our-products = Taq Qatikojil
-sub-navigation-little-book-of-privacy = Ko'öl Ruwuj Ichinanem
-sub-navigation-safe-passwords = Jikïl Ewan taq Tzij

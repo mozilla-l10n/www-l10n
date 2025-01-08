@@ -52,8 +52,6 @@ manifesto-we-are-committed-to-diverse = Ci impegniamo a realizzare un Internet c
 manifesto-show-your-support = Mostra il tuo sostegno
 manifesto-an-internet-with-these = Un Internet con queste qualità non nascerà in maniera autonoma. Gli individui e le organizzazioni devono incorporare queste aspirazioni nelle stesse tecnologie e nell’esperienza umana del Web. Il Manifesto { -brand-name-mozilla } e questo addendum testimoniano l’impegno di { -brand-name-mozilla } a promuovere le suddette aspirazioni. Il nostro obiettivo è lavorare insieme alle persone e organizzazioni di tutto il mondo che condividono la missione di rendere Internet un posto migliore per tutti.
 manifesto-i-support-the-vision-of = Io sostengo la visione di @mozilla per un Internet migliore e più in salute. Ti unisci a me?
-# Obsolete string
-manifesto-share-on-twitter = Condividi su { -brand-name-twitter }
 manifesto-share-on-x = Condividi su X
 manifesto-share-on-x-aria-label = Condividi su X (ex Twitter)
 manifesto-our-10-principles = <strong>I nostri 10</strong> principi

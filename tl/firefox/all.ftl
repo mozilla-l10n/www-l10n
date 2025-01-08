@@ -5,23 +5,16 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = i-Check ang system requirements
-firefox-all-release-notes = Mga release note
-firefox-all-source-code = Source code
-firefox-all-need-help = Kailangan ng tulong?
-firefox-all-which-browser-would = Aling browser ang gusto mong i-download?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Humingi ng tulong
-firefox-all-you-are-about-to-download = Sisimulan mo nang i-download ang:
-firefox-all-browser = Browser:
-firefox-all-platform = Platform:
-firefox-all-language = Wika:
 firefox-all-lang-multi = Maraming wika
 firefox-all-sorry-we-couldnt-find = Pasensya na, hindi namin mahanap ang download na kailangan mo. Subukan mo uli, o pumili ng download mula sa listahan sa ibaba.
 firefox-all-64-bit-installers = Mga 64-bit installer
 firefox-all-32-bit-installers = Mga 32-bit installer
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = I-download ang { -brand-name-firefox-browser } sa Ingles (US) at sa higit pa sa 90 na ibang wika
+firefox-all-check-the-system-requirements = i-Check ang system requirements
+firefox-all-release-notes = Mga release note
+firefox-all-source-code = Source code
+firefox-all-need-help = Kailangan ng tulong?
 firefox-all-choose-which-firefox = Piliin kung anong { -brand-name-firefox-browser } ang i-download sa inyong lenggwahe
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } Privacy Notice
 firefox-all-learn-about-firefox = Alamin ang tungkol sa { -brand-name-firefox } Browser

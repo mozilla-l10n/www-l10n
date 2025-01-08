@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 firefox-browsers-desktop = Kompiuteriams
 firefox-browsers-download-for-desktop = Parsisiųsti kompiuteriui

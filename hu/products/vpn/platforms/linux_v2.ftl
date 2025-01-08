@@ -12,8 +12,6 @@ vpn-linux-linux-is-free = A Linux szabad, nyílt forráskódú és testreszabhat
 vpn-linux-mozilla-vpn-is-a = A { -brand-name-mozilla-vpn } egy virtuális magánhálózati szolgáltatás, amely a legmodernebb nyílt forráskódú titkosítást használja, és nem naplózza, követi vagy osztja meg hálózati tevékenységét. Lehetővé teszi, hogy több mint 500 kiszolgálóhoz csatlakozzon, több mint 30 országban.
 vpn-linux-why-choose = Linuxra miért válassza a { -brand-name-mozilla-vpn }-t?
 vpn-linux-fast-and-v2 = <strong>Gyors és megbízható:</strong> A { -brand-name-mozilla-vpn } a { -brand-name-wireguard }® protokollt használja, amely jobb teljesítményt és stabilitást kínál, mint más VPN protokollok.
-# Obsolete string
-vpn-linux-fast-and = <strong>Gyors és megbízható:</strong> A { -brand-name-mozilla-vpn } a { -brand-name-wireguard }® protokollt használja, amely jobb teljesítményt és stabilitást kínál, mint más VPN protokollok
 vpn-linux-no-logs = <strong>Nincs naplózás:</strong> a { -brand-name-mozilla-vpn } nem tárolja a naplókat a hálózati tevékenységéről; nem rögzítjük, hogy mely weboldalakat keres fel, és nem vizsgáljuk a forgalmát.
 vpn-linux-additional-security = <strong>További biztonsági funkciók:</strong> DNS-blokkolást használunk a hirdetések, nyomkövetők és rosszindulatú programok blokkolására. Míg a böngészők csak a weboldalakat képesek megakadályozni, hogy rosszindulatú programokat telepítsenek és kövessék Önt.
 vpn-linux-device-level = <strong>Eszközszintű titkosítás:</strong> Azokkal VPN-ekkel ellentétben, amelyek csak a böngésző forgalmát titkosítják, a { -brand-name-mozilla-vpn } titkosítja az eszközének teljes forgalmát, beleértve az alkalmazásait és játékait is.
@@ -27,11 +25,6 @@ vpn-linux-how-to-install = A { -brand-name-mozilla-vpn } telepítése Linuxra
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
 vpn-linux-if-you-use-v2 = Ha a támogatott Ubuntu kiadások egyikét használja, akkor két módja van a <a { $attrs }>Launchpaden</a> kiszolgált hivatalos mozillavpn csomagok telepítésének:
-# Obsolete string
-# Variables:
-#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
-# 'mozillavpn' should not be translated as it is the proper name of the package
-vpn-linux-if-you-use = Ha a támogatott Ubuntu kiadások egyikét használja, akkor két módja van az <a { $attrs }>Launchpaden található hivatalos mozillavpn csomagok telepítésének:</a>
 # Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
 vpn-linux-ubuntu-command = <strong>Ubuntu parancssori mód:</strong> A { -brand-name-mozilla-vpn } parancssori eszközökkel történő telepítéséhez <a { $attrs }>A { -brand-name-mozilla-vpn } telepítése linuxos számítógépen</a> leírásban talál részletes utasításokat.

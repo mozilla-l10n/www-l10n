@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
@@ -14,7 +14,7 @@ misinformation-disinformation = Felinformation, desinformation – du har nog h�
 misinformation-ultimately-harmful = I slutändan kan både felinformation och desinformation vara skadligt. Det är inte bara att människor tror på felaktig information, falsk information kostar den globala ekonomin mycket pengar och kan hota demokrati och effektiv styrning. Och det är svårt att stoppa eftersom falska nyheter sprids betydligt snabbare, djupare och bredare än nyheter som är korrekta.
 misinformation-false-info-heading = Var visas falsk information?
 # Variables:
-#   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
+#   $tracking (url) - link to https://blog.mozilla.org/products/firefox/firefox-privacy-protections/
 misinformation-widespread-online = Du kan stöta på felinformation och desinformation överallt, men det är mest utbrett och effektivt när det delas online. Algoritmer och <a href="{ $tracking }">spårning</a> har ökat möjligheten för felinformation och desinformation att nå en större publik på webbplatser, bloggar, forum och sociala nätverk.
 misinformation-tracking-advertising = Du kanske har hört talas om spårning främst i samband med reklam. Det är dock också ett kraftfullt verktyg när det gäller spridning av falsk information. Varför är det så? När du surfar på internet eller i ditt sociala nätverksflöde spåras ditt beteende, intressen, kontakter i vissa fall och mer av olika parter på olika webbplatser för att skapa en extremt detaljerad profil om dig för att sälja till andra utan din vetskap eller samtycke. Dessa profiler används för personlig reklam men kan också användas för att presentera alla typer av riktad information för dig.
 misinformation-social-newtorks = När du får innehållsrekommendationer på en webbplats eller ett socialt nätverk beror det ofta på att en algoritm presenterar information baserat på din profilinformation. Tyvärr, även om algoritmer blir smartare, kontrollerar de inte innehållet för noggrannhet. Detta är särskilt problematiskt med sociala medier: Dessa nätverk visar otaliga informationsbitar för sina användare varje dag och har tillgång till nästan obegränsat innehåll inklusive användarinlägg, nyhetsartiklar, annonser och sponsrat innehåll. Medan inlägg och artiklar av misstag kan sprida felinformation kan annonser och sponsrat innehåll användas för att avsiktligt riktas med desinformation för att manipulera dig, vilket gör det viktigt att du vet hur du identifierar felinformation.

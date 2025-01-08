@@ -4,14 +4,10 @@
 
 newsletter-form-please-enter-a-valid = E-mail manzilni xatosiz kiriting.
 newsletter-form-your-email-here = E-POCHTA MANZILINGIZ
-newsletter-form-format = Format
-newsletter-form-html = HTML
-newsletter-form-text = Matn
 newsletter-form-get-firefox-news = { -brand-name-firefox } yangiliklaridan xabardor bo‘lib turing
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Ushbu <a href="{ $url }"> maxfiylik toʻgʻrisidagi bildirishnomada </a> tushuntirilganidek, { -brand-name-mozilla } mening maʼlumotlarim bilan ishlashiga roziman.
-newsletter-form-we-will-only-send = Biz sizga faqatgina "{ -brand-name-mozilla }"ga aloqador ma’lumotlarni jo‘natib turamiz.
 newsletter-form-if-you-havent-previously = Ilgari { -brand-name-mozilla }ga aloqador obunani tasdiqlamagan bo‘lsangiz, shunda davom etishingiz mumkin. E-pochtangizdagi "Kiruvchi xatlar" yoki "Spam" jildini tekshirib ko‘ring.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Siz
 newsletter-form-get-firefox-tips = { -brand-name-firefox } bo‘yicha maslahatlar, ko‘rsatmalar va yordam olish

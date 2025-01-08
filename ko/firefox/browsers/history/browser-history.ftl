@@ -31,7 +31,7 @@ browser-history-the-browser-wars = 브라우저 전쟁
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = 1995년 이후, { -brand-name-netscape } Navigator는 온라인에 접속할 수 있는 유일한 방법이 아니게 되었습니다. 컴퓨터 소프트웨어 분야의 대기업인 { -brand-name-microsoft }가 오래된 Mosaic 코드에 기반하여 웹에 접근할 수 있는 고유한 창, 그러니까 프로그램인  <a href="{ $ie }">{ -brand-name-ie }</a>를 개발하였기 때문입니다. 이 제품의 출시는 전쟁을 불러왔습니다. { -brand-name-netscape }와 { -brand-name-microsoft }는 서로를 능가할만큼 더 빠르고, 더 나은 새 버전을 제작하기 위해 열심히 노력했습니다.
 # Variables:
-#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = { -brand-name-netscape }는 웹사이트에 과거엔 없었던 강력한 컴퓨팅 기능을 제공하는 기능인 JavaScript를 제작하고 출시했습니다. (다만, 악명 높은 <a href="{ $blink }">&lt;blink&gt; 태그</a>를 만들기도 했습니다.) 이에 { -brand-name-microsoft }는 훗날 웹 페이지 디자인의 표준이 되는 Cascading Style Sheets (CSS)로 대응했습니다.
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1

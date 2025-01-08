@@ -44,5 +44,5 @@ firefox-enterprise-sample-plist-for-configuration = Vzorčni <a href="{ $url }">
 firefox-enterprise-pkg-installer = Namestitveni program PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } (32-bitni)
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
 firefox-enterprise-download-firefox-esr-or-rapid = Prenesite { -brand-name-firefox-esr } ali Rapid Release za <br> <a href="{ $firefox_all }"> drug jezik ali platformo.</a>

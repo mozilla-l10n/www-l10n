@@ -7,7 +7,7 @@
 
 history-history-of-the-mozilla-project = Geskiedenis van die { -brand-name-mozilla }-projek
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = Die { -brand-name-mozilla }-projek is <a href="{ $coderush }">in 1998 gestig</a> met die <a href="{ $sourcerelease }">vrystelling van die { -brand-name-netscape }-blaaisuite se bronkode</a>.
 history-it-was-intended-to-harness = Die plan was om die kreatiewe krag van duisende programmeerders op die Internet te gebruik om ongekende vlakke van innovering in die blaaiermark te ontsluit.

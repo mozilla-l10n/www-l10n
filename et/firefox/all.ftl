@@ -5,26 +5,17 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Süsteeminõuete kontrollimine
-firefox-all-release-notes = Väljalaskemärkmed
-firefox-all-source-code = Lähtekood
-firefox-all-need-help = Vajad abi?
-firefox-all-which-browser-would = Millist brauserit soovid alla laadida?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Hangi abi
-firefox-all-you-are-about-to-download = Oled alustamas järgmist allaalaadimist:
-firefox-all-browser = Brauser:
-firefox-all-platform = Platvorm:
-firefox-all-language = Keel:
 firefox-all-sorry-we-couldnt-find = Vabandame, me ei leidnud sinu otsitud allaalaadimist. Palun proovi uuesti või vali allalaadimine allolevast nimekirjast.
 firefox-all-the-pre-alpha-version = Alfaversioon teadlikele kasutajatele, keda huvitab krahhide jahtimine ja uute võimaluste testimine nende arendamise ajal.
 firefox-all-64-bit-installers = 64-bitised paigaldajad
 firefox-all-choose-a-64-bit-installer = 64-bitine paigaldaja vali arvutitele, millel on 64-bitine protsessor. See võimaldab neil kasutada rohkem mälu — see on eriti oluline mängudele ja teistele nõudlikumatele rakendustele.
 firefox-all-32-bit-installers = 32-bitised paigaldajad
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = { -brand-name-firefox-browser } allalaadimine eesti ja rohkem kui 90 muus keeles
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Igaüks väärib internetiligipääsu — sinu emakeel ei tohiks kunagi olla takistuseks. Seetõttu teeme pühendunud vabatahtlike abiga üle maailma { -brand-name-firefox-browser } kättesaadavaks enam kui 90 keeles.
+firefox-all-check-the-system-requirements = Süsteeminõuete kontrollimine
+firefox-all-release-notes = Väljalaskemärkmed
+firefox-all-source-code = Lähtekood
+firefox-all-need-help = Vajad abi?
 firefox-all-choose-which-firefox = Vali, millist { -brand-name-firefox-browser } soovid enda keeles alla laadida
 firefox-all-firefox-privacy-notice = { -brand-name-firefox }i privaatsusteade
 firefox-all-learn-about-firefox = Rohkem teavet { -brand-name-firefox }i brauseritest

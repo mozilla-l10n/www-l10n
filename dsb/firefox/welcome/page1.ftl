@@ -7,22 +7,14 @@
 
 # HTML page title
 welcome-page1-more-than-a-browser-mozilla = Wěcej ako wobglědowak - { -brand-name-mozilla-monitor } se za hackerami rozglědujo
-# Outdated string
-welcome-page1-more-than-a-browser-firefox = Wěcej ako wobglědowak - { -brand-name-firefox-monitor } se za hackerami rozglědujo
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Cyńśo pśiducy kšac, aby swóju priwatnosć ze swójźbu produktow { -brand-name-firefox } online šćitał.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Wóstańśo wó kusack pśed hackerami. Pytajśo za datowym źěrami z { -brand-name-mozilla-monitor }.
-# Obsolete string
-welcome-page1-stay-ahead-of-hackers-check = Wóstańśo wó kusack pśed hackerami. Pytajśo za datowym źěrami z { -brand-name-firefox-monitor }.
 welcome-page1-youre-on-track-to-stay-protected = Sćo na pšawej droze, aby šćitany wóstał
 welcome-page1-youve-got-the-web-browser = Maśo wobglědowak, kótaryž wašu priwatnosć šćita – jo něnto cas, se za hackerami rozglědowaś.
 welcome-page1-check-your-breach-report = Rozpšawu wó datowej źěrje woglědaś
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } wam pokazujo, lěc waše informacije su w znatej datowej źěrje a warnujo was, jolic se to w pśichoźe stawa.
-# Obsolete string
-welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } wam pokazujo, lěc waše informacije su w znatej datowej źěrje a warnujo was, jolic se to w pśichoźe stawa.
 welcome-page1-stay-ahead-of-hackers = Buźćo dalej hackerow
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/

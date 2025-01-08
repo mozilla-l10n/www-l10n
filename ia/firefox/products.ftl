@@ -11,8 +11,6 @@ firefox-products-mozilla-products = Productos de { -brand-name-mozilla }
 firefox-products-mozillas-family-of-products = Le familia de productos de { -brand-name-mozilla } es tote designate pro mantener te plus secur e plus intelligente online
 firefox-products-products = Productos
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } es solo le initio.
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } es solo le initio
 firefox-products-mozillas-family-of-products-sentence = Le familia de productos de { -brand-name-mozilla } es tote designate pro mantener te plus secur e plus intelligente online.
 
 ## Firefox
@@ -67,6 +65,4 @@ firefox-products-analyze = Analysar un URL
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content-v2 = Discoperi le melior contento del web – e gaude de illo ubicunque e quandocunque tu vole. Producite per{ -brand-name-mozilla }.
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = Discoperi le melior contento del web – e gaude de illo ubicunque e quandocunque tu vole.
 firefox-products-get-pocket = Obtener { -brand-name-pocket }

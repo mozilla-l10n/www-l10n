@@ -19,10 +19,6 @@ installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc-v2 = Отримайте найновішу версію. Автоматична приватність вже чекає на вас. Завантажте { -brand-name-firefox }, щоб заблокувати понад { $trackers } елементів стеження.
-# Obsolete string (expires: 2024-05-14)
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Отримуйте найновіше. Автоматизована приватність вже тут. Завантажте { -brand-name-firefox-browser(case: "nom", capitalization: "lower") }, щоб блокувати понад { $trackers } елементів стеження.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Випробовуйте функції, що з'являться в наступному випуску, в найстабільнішій тестовій версії.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }

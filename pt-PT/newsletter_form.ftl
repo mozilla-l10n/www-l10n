@@ -20,11 +20,7 @@ newsletter-form-sign-up-to-receive = Subscrever para receber atualizações mens
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Estou bem com a { -brand-name-mozilla } manusear a minha informação como explicado <a href="{ $url }">neste Aviso de privacidade</a>
 newsletter-form-we-will-only-send-v2 = Apenas iremos enviar informação relacionada com a { -brand-name-mozilla }. Pode cancelar a subscrição a qualquer momento.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send = Apenas lhe iremos enviar informação relacionada com a { -brand-name-mozilla }.
 newsletter-form-we-will-only-send-firefox-v2 = Apenas iremos enviar informação relacionada com a { -brand-name-firefox }. Pode cancelar a subscrição a qualquer momento.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send-firefox = Apenas iremos enviar informação relacionada com a { -brand-name-firefox }.
 newsletter-form-if-you-havent-previously = Se não confirmou previamente uma subscrição a um boletim informativo relacionado com a { -brand-name-mozilla }, poderá ter de fazê-lo. Por favor, verifique a sua caixa de entrada ou filtro de spam por um email nosso.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Você
 newsletter-form-get-firefox-tips = Obtenha dicas, truques e notícias do { -brand-name-firefox } e mais

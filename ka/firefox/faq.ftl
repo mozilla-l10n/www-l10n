@@ -13,7 +13,7 @@ what-is-firefox = რა არის { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = { -brand-name-firefox-browser } ერთადერთი მოწინავე არამომგებიანი ბრაუზერია, რომელიც არ ყიდის თქვენს პირად მონაცემებს სარეკლამო კომპანიებზე და გეხმარებათ უსაფრთხოების დაცვაში. გაიცანით უკეთ <a href="{ $url }">{ -brand-name-firefox-browsers }</a> და <a href="{ $url2 }">სხვა პროდუქტები.</a>
 how-do-i = როგორ გადმოვწერო { -brand-name-firefox-browser }?
@@ -46,7 +46,7 @@ protecting-your-privacy = თქვენი პირადულობის �
 is-firefox-safe = { -brand-name-firefox } უსაფრთხოა?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = { -brand-name-firefox } არათუ უსაფრთხოა გამოსაყენებლად, იგი ასევე იცავს თქვენს პირად მონაცემებს. { -brand-name-firefox-browser } თავადვე უზღუდავს ცნობილ მეთვალყურეებს, სოციალური ქსელების აღმრიცხავ, კრიპტოგამომმუშავებელ და მომხმარებლის ამომცნობ საშუალებებს თქვენ შესახებ ინფორმაციის შეგროვების შესაძლებლობას. <a href="{ $url }">გაეცანით ვრცლად პირადულობის დაცვას ჩვენს პროდუქტებში.</a>
 related-questions-safe = მსგავსი კითხვები: კარგად იცავს { -brand-name-firefox } პირად მონაცემებს, არის { -brand-name-firefox } დაცული, უმჯობესია { -brand-name-firefox } პირადულობაში

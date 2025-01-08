@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -52,33 +52,7 @@ manifesto-we-are-committed-to-diverse = Estem compromesos amb una Internet que c
 manifesto-show-your-support = Doneu-hi suport
 manifesto-an-internet-with-these = Una Internet amb aquestes qualitats no es farà sola. Les persones i les organitzacions han d'incorporar aquestes aspiracions en la tecnologia d'Internet i en l'experiència humana a la xarxa. El Manifest de { -brand-name-mozilla } i l'Apèndix representen el compromís de { -brand-name-mozilla } d'avançar en aquestes aspiracions. Volem treballar conjuntament amb les persones i les organitzacions d'arreu del món que comparteixin aquests objectius per fer d'Internet un lloc encara millor per a tothom.
 manifesto-i-support-the-vision-of = Jo comparteixo la visió de @mozilla de fer una Internet millor i més saludable. I vosaltres?
-manifesto-share-on-twitter = Comparteix-ho al { -brand-name-twitter }
 manifesto-our-10-principles = <strong>Els nostres 10</strong> Principis
-manifesto-use-open-badges-to-share = Utilitzeu Open Badges per compartir les vostres competències i interessos
-manifesto-explore-how-the-web-impacts = Descobriu com el Web afecta la ciència
-manifesto-learn-about-open-source = Apreneu sobre el programari lliure al periodisme
-manifesto-read-about-open-internet = Llegiu sobre les iniciatives polítiques i desenvolupaments de l'Internet obert
-manifesto-explore-how-to-help-keep = Descobriu com ajudar a mantenir el Web obert
-manifesto-see-how-the-web-can-connect = Vegeu com el Web pot connectar el món a la sanitat
-manifesto-explore-how-the-web-works = Descobriu com funciona el Web
-manifesto-see-how-mozilla-works = Vegeu com treballa { -brand-name-mozilla } per posar la vostra privadesa al davant de tot
-manifesto-read-about-developments = Llegiu sobre progressos en privadesa i seguretat de les dades
-manifesto-learn-more-about-how-to = Més informació sobre com protegir-vos al món digital
-manifesto-use-these-free-tools-to = Utilitzeu aquestes eines lliures per ensenyar el Web
-manifesto-learn-about-creating-and = Apreneu com crear i conservar contingut per al Web
-manifesto-add-new-voices-to-open = Afegiu noves veus a la tecnologia de programari lliure
-manifesto-set-your-do-not-track = Configureu les preferències del «No vull que se'm segueixi»
-manifesto-understand-the-web-ecosystem = Enteneu l'ecosistema del Web
-manifesto-explore-how-open-practices = Descobriu com les noves pràctiques mantenen el Web accessible
-manifesto-learn-how-to-remix-content = Apreneu com combinar contingut crear una cosa nova
-manifesto-learn-how-to-maximize = Apreneu com maximitzar el potencial interactiu del Web
-manifesto-participate-in-our-governance = Participeu al nostre fòrum de govern
-manifesto-join-us-as-a-volunteer = Uniu-vos com a voluntari
-manifesto-learn-how-to-collaborate = Apreneu com col·laborar en línia
-manifesto-visualize-who-you-interact = Visualitzeu com interaccioneu amb el Web amb el { -brand-name-lightbeam }
-manifesto-learn-about-creating-web = Apreneu sobre recursos de creativitat Web amb d'altres
-manifesto-host-or-join-a-maker-party = Fer o unir-vos a una { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = Apreneu com adquirir competències de col·laboració en línia
 manifesto-read-the-entire-manifesto = Llegiu el manifest sencer
 manifesto-love-the-web = Us agrada el Web?
 manifesto-get-the-mozilla-newsletter = Rebeu el butlletí de notícies de { -brand-name-mozilla } i ajudeu-nos a mantenir-lo obert i lliure.

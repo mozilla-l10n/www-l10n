@@ -21,13 +21,8 @@ browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Procurando um navegador para dispositivos móveis super rápido e simplificado, com recursos de privacidade de nível superior? O { -brand-name-firefox-focus } apaga automaticamente todo o histórico de navegação desde quando você abre o navegador até o momento em que o fecha.
 browsers-mobile-compare = Comparar
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Veja como o { -brand-name-firefox } de computador se destaca frente a outros navegadores.
-# Obsolete string (expires 30 June 2024)
-browsers-mobile-see-how-firefox-for-desktop-stacks = Veja como o { -brand-name-firefox } de computador se destaca frente a outros sete navegadores.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Veja como o { -brand-name-firefox } para <strong>computador</strong> se destaca frente a outros navegadores.
-# Obsolete string (expires 30 June 2024)
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = Veja como o { -brand-name-firefox } de <strong>computador</strong> se destaca frente a outros sete navegadores.
 browsers-mobile-download = Baixar
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

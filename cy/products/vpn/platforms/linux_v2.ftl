@@ -12,8 +12,6 @@ vpn-linux-linux-is-free = Mae Linux yn rhad ac am ddim, yn god agored, ac yn gyf
 vpn-linux-mozilla-vpn-is-a = Mae { -brand-name-mozilla-vpn } yn wasanaeth rhwydwaith preifat rhithwir sy'n defnyddio amgryptio cod agored o'r radd flaenaf ac nid yw'n cofnodi, tracio na rhannu unrhyw un o'ch gweithgarwch rhwydwaith. Mae'n caniatáu ichi gysylltu â dros 500 o weinyddion mewn 30+ o wledydd.
 vpn-linux-why-choose = Pam dewis { -brand-name-mozilla-vpn } ar gyfer Linux?
 vpn-linux-fast-and-v2 = <strong>Cyflym a dibynadwy:</strong> Mae { -brand-name-mozilla-vpn } yn defnyddio'r protocol { -brand-name-wireguard }®, sy'n cynnig gwell perfformiad a sefydlogrwydd na phrotocolau VPN eraill.
-# Obsolete string
-vpn-linux-fast-and = <strong>Cyflym a dibynadwy:</strong> Mae { -brand-name-mozilla-vpn } yn defnyddio'r protocol { -brand-name-wireguard }®, sy'n cynnig gwell perfformiad a sefydlogrwydd na phrotocolau VPN eraill
 vpn-linux-no-logs = <strong>Dim cofnodi:</strong> Nid yw { -brand-name-mozilla-vpn } yn cadw unrhyw gofnodion o'ch gweithgarwch rhwydwaith; nid ydym yn cofnodi pa wefannau rydych chi'n ymweld â nhw nac yn archwilio'ch traffig.
 vpn-linux-additional-security = <strong>Nodweddion diogelwch ychwanegol:</strong> Rydym yn defnyddio rhwystro DNS i rwystro hysbysebion, tracwyr a meddalwedd faleisus. Er taw dim ond porwr all atal gwefannau rhag rhoi malwar i chi a'ch tracio.
 vpn-linux-device-level = <strong>Amgryptio lefel dyfais:</strong> Yn wahanol i VPNs sydd ond yn amgryptio traffig eich porwr, mae { -brand-name-mozilla-vpn } yn amgryptio holl draffig eich dyfais, gan gynnwys eich holl raglenni a gemau.
@@ -27,11 +25,6 @@ vpn-linux-how-to-install = Sut i osod { -brand-name-mozilla-vpn } ar Linux
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
 vpn-linux-if-you-use-v2 = Os ydych yn defnyddio un o'r fersiynnau Ubuntu sy'n cael eu cefnogi, mae dwy ffordd i osod pecynnau swyddogol mozillavpn sy'n cael eu gwesteio ar <a { $attrs }>Launchpad:</a>
-# Obsolete string
-# Variables:
-#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
-# 'mozillavpn' should not be translated as it is the proper name of the package
-vpn-linux-if-you-use = Os ydych yn defnyddio un o'r fersiynnau Ubuntu sy'n cael eu cefnogi, mae dwy ffordd i osod pecynnau swyddogol mozillavpn sy'n cael eu gwesteio ar <a { $attrs }>launchpad:</a>
 # Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
 vpn-linux-ubuntu-command = <strong>Modd llinell orchymyn Ubuntu:</strong> Am gyfarwyddiadau manwl ar sut i osod { -brand-name-mozilla-vpn } gan ddefnyddio offer modd llinell orchymyn, edrychwch ar <a { $attrs }>Sut i osod { -brand-name-mozilla-vpn } ar gyfrifiadur Linux</a>.

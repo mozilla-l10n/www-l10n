@@ -7,26 +7,16 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Ustvarite si { -brand-name-mozilla-account } – Ohranite svoje podatke zasebne, varne in sinhronizirane
-# Obsolete string
-firefox-accounts-get-a-firefox-account = Ustvarite si { -brand-name-firefox-account } – Ohranite svoje podatke zasebne, varne in sinhronizirane
-# Obsolete string
-firefox-accounts-securely-sync-your = Varno sinhronizirajte gesla, zaznamke in zavihke med svojimi napravami. Izberite { -brand-name-firefox-account } zdaj – ena prijava, moč in zasebnost povsod.
 # HTML page description
 mozilla-accounts-securely-sync-your = Varno sinhronizirajte gesla, zaznamke in zavihke med svojimi napravami. Izberite { -brand-name-mozilla-account(sklon: "tozilnik") } zdaj – ena prijava, moč in zasebnost povsod.
 firefox-accounts-enter-your-email-address = Za začetek vnesite e-poštni naslov.
 firefox-accounts-already-have-an-account = Že imate račun?
 firefox-accounts-sign-in = Prijavite se
-# Obsolete string
-firefox-accounts-already = { -brand-name-firefox-account } že imate. Čestitke!
 mozilla-accounts-already = { -brand-name-mozilla-account(sklon: "tozilnik", zacetnica: "velika") } že imate. Čestitke!
 firefox-accounts-manage = Upravljajte račun
 mozilla-account-header = { -brand-name-mozilla-account(zacetnica: "velika") }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Prijava v { -brand-name-mozilla-account(sklon: "tozilnik") } vam omogoča:
-# Obsolete string
-firefox-accounts-sign-in-to = Prijava v { -brand-name-firefox-account(sklon: "tozilnik") } vam omogoča:
-# Obsolete string
-firefox-accounts-meet-our-family-of = Spoznajte našo družino izdelkov, ki postavljajo zasebnost na prvo mesto.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">poslati zavihek</a> na drugo napravo
@@ -48,8 +38,6 @@ firefox-accounts-get-it-all-on-every = Imejte vse na vseh napravah, ne da bi se 
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

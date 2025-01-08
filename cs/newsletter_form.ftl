@@ -20,11 +20,7 @@ newsletter-form-sign-up-to-receive = Přihlaste se k měsíčnímu odběru novin
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Souhlasím s tím, aby { -brand-name-mozilla } zpracovávala mé informace tak, jak je popsáno v <a href="{ $url }">zásadách ochrany osobních údajů</a>
 newsletter-form-we-will-only-send-v2 = Zasílat vám budeme pouze informace související s { -brand-name-mozilla(case: "ins") }. Z odběru se můžete kdykoliv odhlásit.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send = Zasílat vám budeme pouze informace týkající se { -brand-name-mozilla(case: "gen") }.
 newsletter-form-we-will-only-send-firefox-v2 = Budeme vám zasílat pouze informace související s { -brand-name-firefox(case: "ins") }. Z odběru se můžete kdykoliv odhlásit.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send-firefox = Zasílat vám budeme pouze informace týkající se { -brand-name-firefox(case: "gen") }.
 newsletter-form-if-you-havent-previously = Pokud jste dříve nepotvrdili odběr zpravodaje { -brand-name-mozilla(case: "gen") }, budete tak muset učinit nyní. Podívejte se prosím do vaší e-mailové schránky a případně i nevyžádané pošty, jestli tam není e-mail od nás.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> a Vy
 newsletter-form-get-firefox-tips = Získejte tipy, triky a novinky o { -brand-name-firefox(case: "loc") }

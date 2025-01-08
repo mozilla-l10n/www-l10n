@@ -11,10 +11,6 @@ features-index-firefox-browser-features = Caratteristiche del browser { -brand-n
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } è il browser veloce, leggero e incentrato sulla privacy che funziona su tutti i tuoi dispositivi.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } diventa sempre più veloce
 features-index-the-latest-browser-speed-benchmarks = I benchmark più recenti sulla velocità del browser dimostrano che { -brand-name-firefox } è più veloce che mai.
-# Obsolete string
-features-index-is-firefox-a-fast-browser = { -brand-name-firefox } è un browser veloce?
-# Obsolete string
-features-index-firefox-uses-less-memory-than = { -brand-name-firefox } utilizza meno memoria di Chrome, consentendo agli altri tuoi programmi di continuare a funzionare alla massima velocità.
 features-index-is-firefox-a-private-browser = { -brand-name-firefox } è un browser riservato?
 features-index-were-focused-on-your-right-to = Abbiamo a cuore il tuo diritto alla privacy. I tuoi dati, le tue attività sul Web, la tua vita online sono al sicuro con { -brand-name-firefox }.
 features-index-free-password-manager = Gestore password gratuito
@@ -42,7 +38,5 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } impedisce 
 features-index-ditch-the-sticky-ads = Sbarazzati di quegli annunci che ti seguono senza tregua grazie al blocco anti-fingerprinting integrato in { -brand-name-firefox }.
 features-index-translate-the-web = Traduci il Web
 features-index-translate-websites-to-your = Traduci siti web nella tua lingua direttamente in { -brand-name-firefox }, senza condividere i tuoi dati con nessun altro.
-# Obsolete string
-features-index-translate-more-than = Traduci nella tua lingua da oltre 100 lingue direttamente in { -brand-name-firefox }. Non è mai stato così facile.
 features-index-picture-in-picture = Picture-in-Picture
 features-index-got-things-to-do = Vuoi fare una cosa mentre ne guardi un’altra? Utilizza Picture-in-Picture in { -brand-name-firefox }.

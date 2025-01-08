@@ -21,13 +21,8 @@ browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Op syk nei in streamline, superflugge mobile browser mei privacyfunksjes fan de folgjende generaasje? { -brand-name-firefox-focus } wisket automatysk al jo navigaasjeskiednis fan it momint ôf dat jo jo browser iepenje oant it momin dat jo dizze slute.
 browsers-mobile-compare = Fergelykje
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Untdek hoe’t { -brand-name-firefox } foar desktop him ferhâldt ta oare browsers.
-# Obsolete string (expires 30 June 2024)
-browsers-mobile-see-how-firefox-for-desktop-stacks = Untdek hoe’t { -brand-name-firefox } foar desktop him ferhâldt ta sân oare browsers.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Untdek hoe’t { -brand-name-firefox } foar <strong>desktop</strong> him ferhâldt ta oare browsers.
-# Obsolete string (expires 30 June 2024)
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = Untdek hoe’t { -brand-name-firefox } foar <strong>desktop</strong> him ferhâldt ta sân oare browsers.
 browsers-mobile-download = Downloade
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

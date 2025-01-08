@@ -5,26 +5,17 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Tizim talablari bilan tanishing
-firefox-all-release-notes = Reliz qaydlari
-firefox-all-source-code = Manba kodi
-firefox-all-need-help = Yordam kerakmi?
-firefox-all-which-browser-would = Qaysi brauzerni yuklab olishni xohlaysiz?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Yordam olish
-firefox-all-you-are-about-to-download = Yuklab olinadi:
-firefox-all-browser = Brauzer:
-firefox-all-platform = Platforma:
-firefox-all-language = Til:
 firefox-all-sorry-we-couldnt-find = Afsuski, sizga kerakli versiyani topa olmadik. Yana bir marta urinib koʻring yoki quyidagi roʻyxatdan boshqasini tanlang.
 firefox-all-the-pre-alpha-version = Relizoldi alfa versiya nosozliklarni topish va yangi funksiyalarini sinab koʻrishni sevadigan tajribali foydalanuvchilar uchun moʻljallangan.
 firefox-all-64-bit-installers = 64 bitlik oʻrnatkichlar
 firefox-all-choose-a-64-bit-installer = 64 razryadlik protsessorli kompyuterlar uchun 64 bitlik oʻrnatkichni tanlang. Bu ayrim dasturlar uchun koʻproq operativ xotira ajratadi. Aynan turli kuchli ilova va oʻyinlar uchun juda muhim.
 firefox-all-32-bit-installers = 32 bitlik oʻrnatkich
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = { -brand-name-firefox-browser } ingliz (AQSh) va 90 dan ortiq boshqa tillarda yuklab olish mumkin
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Har qanday inson internetdan foydalanish huquqiga ega – boshqa tillarni bilmaslik bunga xalaqit bermasligi kerak, shuning uchun – butun dunyodagi koʻngilli volontyorlar yordamida – { -brand-name-firefox-browser } 90 dan ortiq tilga tarjima qilindi.
+firefox-all-check-the-system-requirements = Tizim talablari bilan tanishing
+firefox-all-release-notes = Reliz qaydlari
+firefox-all-source-code = Manba kodi
+firefox-all-need-help = Yordam kerakmi?
 firefox-all-choose-which-firefox = Ona tiingizda foydalanish uchun { -brand-name-firefox-browser } kerakli versiyasini tanlang
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } maxfiylik eslatmalari
 firefox-all-learn-about-firefox = { -brand-name-firefox } brauzerlari haqida batafsil

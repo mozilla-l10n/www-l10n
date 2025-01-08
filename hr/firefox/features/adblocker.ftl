@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -16,15 +16,6 @@ features-adblocker-an-ad-blocker-is-a-piece = Bloker oglasa je softver koji slu�
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Ti bi oglasi mogli biti glasni video oglasi, oglasi koji te prate po webu, programi za praćenje, kolačići trećih strana i još mnogo toga. Za upotrebu blokator oglasa, potraži dodatke za blokiranje oglasa koji su dostupni u tvom pregledniku. <a href="{ $firefox }">{ -brand-name-firefox }</a>, na primjer, <a href="{ $addons }">ima ovaj popis odobrenih dodataka za blokiranje oglasa</a>. Klikni ovaj popis (ili blokatore oglasa koji su odobreni za tvoj preglednik) i pogledaj koji odgovara tvojim potrebama.
 features-adblocker-find-the-right-ad-blocker = Pronađi bloker oglasa koji tebi odgovara
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = Postoji <a href="{ $url }">AdBlocker Ultimate</a> koji uklanja svaki oglas, ali pazi. Neke od tvojih omiljenih novina i magazina oslanjaju se na oglašavanje. Kada previše ljudi blokira njihove oglase, mogli bi ostati bez posla.
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Oglasi u skočnim prozorima su najgori. Riješi ih se za sva vremena pomoću <a href="{ $url }">blokera skočnih prozora</a>.
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Jedan od najpopularnijih blokera oglasa za { -brand-name-chrome }, { -brand-name-safari } i { -brand-name-firefox } je <a href="{ $url }">AdBlock</a>. Blokiraj pomoću njega oglase na { -brand-name-facebook }u, { -brand-name-youtube }u i { -brand-name-hulu }u.
 features-adblocker-create-a-tracker-free = Stvori područje u kojem te se ne prati blokiranjem sadržaja
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
@@ -39,4 +30,3 @@ features-adblocker-cover-your-trail-block = Sakrij svoje radnje, blokiraj progra
 features-adblocker-take-a-bite-out-of-cookies = Zaustavi kolačiće
 features-adblocker-send-a-do-not-track-signal = Šalji signal "Ne prati"
 features-adblocker-speed-up-thanks-to-ad = Ubrzaj zahvaljujući blokerima oglasa
-features-adblocker-take-control-of-your-browser = Preuzmi kontrolu nad svojim preglednikom.

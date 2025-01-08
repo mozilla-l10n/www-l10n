@@ -52,10 +52,6 @@ download-a-different-build = Prenesi drugo graditev
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = Prenesi za { -brand-name-linux } (32-bitni)
-# Obsolete string
-download-button-linux-64 = Prenesi za { -brand-name-linux } (64-bitni)
 download-button-linux-32-v2 = Prenos za Linux (32-bitni)
 download-button-linux-64-v2 = Prenos za Linux (64-bitni)
 # Variables

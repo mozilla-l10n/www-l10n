@@ -16,13 +16,9 @@ privacy-faq-at-mozilla-we-respect-and-protect = På { -brand-name-mozilla }, res
 privacy-faq-we-follow-a-set-of-data-privacy = Vi följer en uppsättning av <a href="{ $link }">Datasekretessprinciper</a> som bildar vår inställning till integritet i { -brand-name-firefox } för datorer och mobila webbläsare.
 privacy-faq-we-only-collect-the-data-we = Vi samlar bara in de data vi behöver för att göra de bästa produkterna.
 privacy-faq-we-put-people-in-control-of = Vi ger användarna kontroll över deras data och upplevelser på nätet.
-# Obsolete string (expires 2024-09-11)
-privacy-faq-we-adhere-to-no-surprises-principle = Vi följer principen om "inga överraskningar", vilket innebär att vi arbetar hårt för att säkerställa att människors förståelse av { -brand-name-firefox } matcher verkligheten.
 privacy-faq-we-adhere-to-no-surprises-principle-v2 = Vi följer principen om "inga överraskningar", vilket innebär att vi arbetar hårt för att se till att människors förståelse av { -brand-name-firefox } matcher verkligheten.
 privacy-faq-the-following-questions-and = Följande frågor och svar ska hjälpa dig att förstå vad du kan förvänta dig från { -brand-name-mozilla } och { -brand-name-firefox }:
 privacy-faq-i-use-firefox-for-almost-everything = Jag använder { -brand-name-firefox } för nästan allt på webben. Ni på { -brand-name-mozilla } måste veta en hel del om mig, eller hur?
-# Obsolete string (expires 2024-09-11)
-privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, webbläsaren som körs på din enhet eller dator, är din gateway till internet. Din webbläsare hanterar mycket information om de webbplatser du besöker, men den informationen finns kvar på din enhet. { -brand-name-mozilla }, företaget som gör { -brand-name-firefox }, samlar inte in denna information (om du inte begär det).
 privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, webbläsaren som körs på din enhet eller dator, är din gateway till internet. Din webbläsare kommer att hantera mycket information om de webbplatser du besöker, men den informationen finns i allmänhet kvar på din enhet. { -brand-name-mozilla }, företaget som tillverkar { -brand-name-firefox }, samlar inte in någon (om du inte begär det).
 privacy-faq-really-you-dont-collect-my-browsing = Verkligen, sparar ni inte min surfhistorik?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } vet inte så mycket som du kan förvänta dig om hur människor surfar på nätet. Som webbläsartillverkare är det faktiskt en stor utmaning för oss. Det är därför vi har inbyggda verktyg som gör att intresserade användare kan ge oss inblick i deras webbsurfning. Om du synkroniserar din webbhistorik mellan flera { -brand-name-firefox }-installationer vet vi inte vad den historiken är — eftersom den är krypterad av din enhet.
@@ -34,11 +30,6 @@ privacy-faq-wait-so-how-do-you-make-money = Vänta, så hur tjänar ni pengar?
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } är inget vanligt företag. { -brand-name-mozilla } grundades 1998 som ett open source-projekt och är ett uppdragsinriktat företag som arbetar mot ett mer hälsosamt internet. De flesta av { -brand-name-mozilla-corporation }s intäkter är från royalties som erhålls genom { -brand-name-firefox }-webbläsares sökpartnerskap och distributionsavtal runt om i världen. Du kan lära dig mer om hur vi tjänar pengar i vår <a href="{ $link }">årsredovisning</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Ok, det var de enkla frågorna. Vilka uppgifter samlar ni in?
-# Obsolete string (expires 2024-09-11)
-# Variables:
-#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
-#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } samlar in en begränsad uppsättning data som standard från { -brand-name-firefox } som hjälper oss att förstå hur folk använder webbläsaren. Den data är kopplad till en slumpmässig identifierare, istället för ditt namn eller din e-postadress. Du kan läsa mer om det i vår <a href="{ $privacy }">sekretesspolicy</a> och du kan läsa en <a href="{ $data }">fullständig dokumentation för datainsamlingen</a>.
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
@@ -48,17 +39,9 @@ privacy-faq-we-make-our-documentation-public = Vi gör vår dokumentation offent
 privacy-faq-that-documentation-is-gobbledygook = Den dokumentationen är ren rappakalja för mig! Kan du ge det till mig på ren svenska?
 privacy-faq-there-are-two-categories-of = Det finns två kategorier av data som vi samlar som standard i vår version av { -brand-name-firefox }.
 privacy-faq-the-first-is-what-we-call-technical = Det första är vad vi kallar "tekniska data". Det här är data om själva webbläsaren, till exempel operativsystemet som körs och information om fel eller krascher.
-# Obsolete string (expires 2024-09-11)
-privacy-faq-the-second-is-what-we-call-interaction = Den andra är vad vi kallar "interaktionsdata". Det här är data om en persons användning av { -brand-name-firefox }, till exempel antalet flikar som var öppna, status för användarinställningar eller antal gånger som vissa webbläsarfunktioner användes, till exempel skärmdumpar eller behållare. Till exempel samlar vi in dessa uppgifter när det gäller bakåtknappen, den pilen i det övre vänstra hörnet av din webbläsare som låter dig navigera tillbaka till en tidigare webbsida på ett sätt som visar oss att någon använde bakåtknappen men inte berättar vilka specifika webbsidor som visades.
 privacy-faq-the-second-is-what-we-call-interaction-v2 = Det andra är vad vi kallar "interaktionsdata". Det här är data om en individs engagemang med { -brand-name-firefox }, till exempel antalet flikar som var öppna, status för användarinställningar eller antalet gånger vissa webbläsarfunktioner använts, till exempel skärmdumpar eller behållare. Till exempel samlar vi in denna data via bakåtknappen (den pil i det övre vänstra hörnet av din webbläsare som låter dig navigera tillbaka till en tidigare webbsida) på ett sätt som visar oss att någon använde bakåtknappen, men inte berättar vad för specifika webbsidor som nås.
 privacy-faq-do-you-collect-more-data-in = Samlar ni in mer data i förhandsversioner av { -brand-name-firefox }?
-# Obsolete string (expires 2024-09-11)
-privacy-faq-sort-of-in-addition-to-the-data = På sätt och vis. Utöver de uppgifter som beskrivs ovan mottar vi vanligtvis rapporter om krasch- och felsökning i förhandsversionen av { -brand-name-firefox }.
 privacy-faq-sort-of-in-addition-to-the-data-v2 = På sätt och vis. Utöver den information som beskrivs ovan får vi som standard rapporter om krasch- och felsökning i förhandsversioner av { -brand-name-firefox }.
-# Obsolete string (expires 2024-09-11)
-# Variables:
-#   $link (url) - link to https://support.mozilla.org/kb/shield
-privacy-faq-we-may-also-collect-additional = Vi kan också samla in ytterligare data i förhandsversioner för en av våra <a href="{ $link }">studier</a>. Exempelvis kräver vissa studier vad vi kallar "webbaktivitetsdata", data vilket kan innehålla webbadresser och annan information om vissa webbplatser. Detta hjälper oss att svara på specifika frågor för att förbättra { -brand-name-firefox }, till exempel hur man bättre integrerar populära webbplatser för specifika språk.
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional-v2 = Vi kan också samla in ytterligare data i förhandsversioner för en av våra <a href="{ $link }">studier</a>. Till exempel kräver vissa studier vad vi kallar "webbaktivitetsdata", vilket kan innehålla webbadresser och annan information om vissa webbplatser. Det här hjälper oss att svara på specifika frågor för att förbättra { -brand-name-firefox }, till exempel hur man bättre integrerar populära webbplatser för specifika språk.

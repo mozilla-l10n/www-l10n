@@ -21,13 +21,8 @@ browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = 차세대 개인 정보 보안 기능을 갖춘 최신, 고속 모바일 브라우저를 찾고 계신가요? { -brand-name-firefox-focus }는 브라우저를 여는 순간부터 닫는 순간까지 모든 검색 기록을 자동으로 지웁니다.
 browsers-mobile-compare = 비교하기
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = 데스크톱용 { -brand-name-firefox }가 다른 브라우저와 어떻게 비교되는지 알아보세요.
-# Obsolete string (expires 30 June 2024)
-browsers-mobile-see-how-firefox-for-desktop-stacks = 데스크톱 용 { -brand-name-firefox }가 어떻게 다른 일곱 개의 브라우저와 견줄 만 한지 살펴보세요.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = <strong>데스크톱</strong>용 { -brand-name-firefox }가 다른 브라우저와 어떻게 비교되는지 알아보세요.
-# Obsolete string (expires 30 June 2024)
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = <strong>데스크톱</strong> 용 { -brand-name-firefox }가 어떻게 다른 일곱 개의 브라우저와 견줄 만 한지 살펴보세요.
 browsers-mobile-download = 다운로드
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

@@ -22,10 +22,6 @@ set-as-default-thanks-youre-all-set = Όλα έτοιμα.
 set-as-default-thanks-get-firefox-for-mobile = Λήψη του { -brand-name-firefox } για κινητές συσκευές
 set-as-default-thanks-travel-the-internet-with = Ταξιδέψτε στο διαδίκτυο με προστασία, σε κάθε συσκευή σας.
 set-as-default-thanks-download-the-app = Λήψη εφαρμογής
-# Obsolete string
-set-as-default-thanks-join-firefox = Σύνδεση στο { -brand-name-firefox }
-# Obsolete string
-set-as-default-thanks-sign-up-for-a-free-account = Δημιουργήστε ένα δωρεάν λογαριασμό και συγχρονίστε όλους τους κωδικούς πρόσβασης, το ιστορικό περιήγησης και τις προτιμήσεις σας σε όλες τις συσκευές σας.
 set-as-default-create-an-account = Δημιουργία λογαριασμού
 set-as-default-thanks-sign-up-for-a-free-account-v2 = Δημιουργήστε έναν δωρεάν { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } και συγχρονίστε όλους τους κωδικούς πρόσβασης, το ιστορικό περιήγησης και τις προτιμήσεις σας στις συσκευές σας.
 # Account here refers to a Firefox Account

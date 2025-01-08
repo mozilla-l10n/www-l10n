@@ -8,8 +8,6 @@
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest-v2 = Llongyfarchiadau. Nawr mae gennych y fersiwn diweddaraf o { -brand-name-firefox-developer-edition }.
-# Obsolete string (expires: 2024-05-14)
-developer-mdnplus-congrats-you-now-have-latest = Llongyfarchiadau. Nawr mae gennych y fersiwn diweddaraf o { -brand-name-firefox-browser } { -brand-name-developer-edition }
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Rhagor o { -brand-name-mdn }. <em>Eich</em> { -brand-name-mdn }.
 developer-mdnplus-mdn-is-an-open-source = Mae { -brand-name-mdn-web-docs } yn broject cydweithredol, cod agored sy'n dogfennu technolegau llwyfannau Gwe, gan gynnwys CSS, HTML, JavaScript ac APIs Gwe. Rydym hefyd yn darparu set helaeth o adnoddau dysgu ar gyfer datblygwyr a myfyrwyr newydd.

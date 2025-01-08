@@ -7,8 +7,6 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = Golygydd PDF
-# Obsolete string (expires: 2024-06-17)
-pdf-editor-add-text-to-pdfs = Ychwanegu testun at ffeiliau PDF gyda Golygydd PDF { -brand-name-firefox }
 # page title
 pdf-editor-add-text-to-pdfs-v2 = Golygu PDFau am ddim gyda Golygydd PDF { -brand-name-firefox }
 # HTML page description

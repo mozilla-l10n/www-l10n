@@ -29,10 +29,6 @@ best-browser-last-but-not-least = 最後但仍然重要的一點是，一套安�
 # Variables:
 # $monitor (url) - link to https://www.mozilla.org/products/monitor/
 best-browser-firefox-is-offering-v2 = { -brand-name-firefox } 提供能讓您確保安全的新功能：<a { $monitor }>{ -brand-name-mozilla-monitor }</a>。這是一個能夠在與您相關的資料外洩事件公開時，向您發出警報的免費服務。您也可以使用此服務來檢查您在各個網站上的帳號是否曾經遭駭。另一個很棒的功能是「綠色鎖頭」，它會出現於瀏覽器視窗的左上角。當您使用 { -brand-name-firefox } 時若看到這把鎖，就代表與網站間的連線經過加密，可以確保安全。若鎖頭是灰色的，在輸入任何個人敏感資訊前最好三思。
-# Obsolete string
-# Variables:
-# $monitor (url) - link to https://monitor.firefox.com
-best-browser-firefox-is-offering = { -brand-name-firefox } 提供能讓您確保安全的新功能: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>。這是一個能夠在與您相關的資料外洩事件公開時，向您發出警報的免費服務。您也可以使用此服務來檢查您在各個網站上的帳號是否曾經遭駭。另一個很棒的功能是「綠色鎖頭」，它會出現於瀏覽器視窗的左上角。當您使用 { -brand-name-firefox } 時若看到這把鎖，就代表與網站間的連線經過加密，可以確保安全。若鎖頭是灰色的，在輸入任何個人敏感資訊前最好三思。
 best-browser-we-visit-hundreds-or = 我們每天都會造訪數以百計甚至千計的網站，您無法預期使用者能對每個網站都做出正確的決定，來確保他們的安全性與隱私權。這也就是為什麼能讓您自行控制的瀏覽器非常重要: 這代表實際而有意義的保護。
 best-browser-a-browser-that-minds = 不管閒事的瀏覽器。
 best-browser-privacy-on-the-web = 在網路上的隱私是個超熱門的問題。若隱私對您來說是最重要的，那麼您就該使用會嚴肅看待使用者隱私的瀏覽器。當選擇最適合您的瀏覽器時，看看它的追蹤政策，以及瀏覽器如何處理您的資料。這聽起來像是很技術性的負責問題，但這也是為什麼有些瀏覽器比其他瀏覽器更能保護隱私。

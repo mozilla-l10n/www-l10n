@@ -18,9 +18,5 @@ page7-that-sneaky-little-button = Cái nút nhỏ lén lút đó
 page7-those-innocent-looking-f-buttons = Các nút F trông ngây thơ từ { -brand-name-facebook } theo dõi hoạt động web của bạn, ngay cả khi bạn không có tài khoản. { -brand-name-facebook-container } sẽ chặn nó.
 page7-stay-ahead-of-hackers = Đi trước tin tặc
 page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } cho phép bạn tìm hiểu xem tin tặc có thể đã biết gì về bạn và giúp bạn đi trước chúng một bước. (Và nó miễn phí.)
-# Obsolete string
-page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } cho phép bạn tìm hiểu những gì tin tặc có thể đã biết về bạn và giúp bạn đi trước họ một bước. (Và nó miễn phí.)
 page7-get-mozilla-monitor = Sử dụng { -brand-name-mozilla-monitor }
-# Obsolete string
-page7-get-firefox-monitor = Sử dụng { -brand-name-firefox-monitor }
 page7-why-am-i-seeing-this = Tại sao tôi thấy cái này?

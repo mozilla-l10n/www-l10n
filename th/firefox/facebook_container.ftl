@@ -16,12 +16,7 @@ facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = เยี่ยมชม <a href="{ $url }">{ $link_copy }</a> เพื่อรับ { -brand-name-firefox } สำหรับเดสก์ท็อป
-# Outdated string
-facebook-container-the-facebook-container-extension = ส่วนขยาย { -brand-name-facebook-container } ไม่สามารถใช้งานได้บนอุปกรณ์พกพา
 facebook-container-get-firefox-android-ios = รับ { -brand-name-firefox } สำหรับ { -brand-name-android } และ { -brand-name-ios } ตอนนี้
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = ลอง <strong>{ -brand-name-firefox-focus }</strong> เบราว์เซอร์ความเป็นส่วนตัวสำหรับ { -brand-name-android } และ { -brand-name-ios }
 facebook-container-opt-out-on-your-terms = เลือกออกด้วยข้อกำหนดของคุณ
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

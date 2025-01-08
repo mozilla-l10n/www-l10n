@@ -10,7 +10,6 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } היא דפדפן מהיר בטירוף שמציע כלי פיתוח חדשניים לצד תמיכה ב־CSS Grid ובניפוי שגיאות בסביבות הרצה
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = ברוך בואך לדפדפן המועדף החדש שלך. כל התכונות, הביצועים המהירים וכלי הפיתוח שנדרשים לך כדי לפתח לאינטרנט החופשי כבר נמצאים בהישג ידך.
 firefox-developer-speak-up = להרים את הקול
 firefox-developer-feedback-makes-us = משוב מסייע לנו להשתפר. נשמע לשמוע ממך איך נוכל לשפר את הדפדפן ואת כלי הפיתוח.
@@ -55,21 +54,13 @@ firefox-developer-new-tools = כלים חדשים
 firefox-developer-inactive-css = CSS לא פעיל
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-master-css-grid = התמחות ב־CSS Grid
-# outdated
-firefox-developer-next-gen-css-engine = מנוע CSS של הדור הבא
-firefox-developer-a-next-generation = מנוע ה־CSS של הדור הבא
 firefox-developer-master-innovative-features = תכונות חדשניות
 firefox-developer-want-to-be-on-the-cutting-edge = אוהבים לחיות על הקצה?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } מקבל עדכונים יומיים ומאפשר לך לגשת לתכונות חודשים לפני שהן מופצות לכלל הציבור.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } כולל בתוכו מנוע CSS חדש, שנכתב ב־Rust ומכיל את כל החידושים העדכניים ביותר לצד מהירות היסטרית.
 firefox-developer-convenient-features = תכונות נוחות
-firefox-developer-faster-performance = ביצועים טובים יותר
 firefox-developer-shapes-editor = עורך צורות
 firefox-developer-faster-innovation = מידע מהיר יותר
 firefox-developer-fonts-panel = חלונית גופנים
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } שולח אל { -brand-name-mozilla } משוב באופן אוטומטי.
 firefox-developer-download-the-firefox-browser = ניתן להוריד את הדפדפן של { -brand-name-firefox } שנועד למפתחים
-firefox-developer-welcome-to-the-all-new = ברוכים הבאים ל־{ -brand-name-firefox-quantum } החדש: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } נבנה מחדש מההתחלה כדי שיהיה יותר מהיר, חלק ועצמתי מאי פעם.
-firefox-developer-congrats-you-now-have-firefox = ברכותינו. מעכשיו יש לך את { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = זה לא עוד עדכון. זה { -brand-name-firefox-quantum }:‏ { -brand-name-firefox } חדש ומחודש שנבנה מאפס כדי להיות מהיר יותר, חלק יותר ועצמתי יותר מאי פעם.

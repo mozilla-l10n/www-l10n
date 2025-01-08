@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -10,9 +10,6 @@ facebook-container-millions-of-people-around = உலகம் முழுவ�
 facebook-container-facebook-well-contained-keep = முகநூல். நன்கு கட்டுப்படுத்தப்பட்டது. மீதமுள்ள வாழ்க்கையை உங்களுக்காக வாழுங்கள்.
 facebook-container-get-the-facebook-container = முகநூல் கலன் துணைநிரலைப் பெறுங்கள்
 facebook-container-download-firefox-and-get-the = பயர்பாக்சைப் பதிவிறக்கி முகநூல் கலன் துணைநிரலைப் பெறுங்கள்
-facebook-container-the-facebook-container-extension = முகநூல் கலன் துணைநிரல் கைபேசிக் கருவிகளில் இல்லை.
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = <strong>பயர்பாக்சு போக்ஃசு</strong>, ஆண்ட்ராய்டு மற்றும் { -brand-name-ios } தளங்களுக்கான தனியுரிமை உலாவியை முயற்சியுங்கள்.
 facebook-container-opt-out-on-your-terms = உங்கள் விருப்பத்தில் வெளியேறுங்கள்
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

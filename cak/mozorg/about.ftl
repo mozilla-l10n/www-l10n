@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: Jantape' Aninäq
 about-when-you-use-the-new-firefox = Toq nawokisaj ri k'ak'a' { -brand-name-firefox }, jeb'ël taq etamab'äl nawïl ke ri' chuqa' nato' rutaqel taqanem { -brand-name-mozilla } richin nib'an raxinäq, jun wi chuqa' k'amonel chi re ri k'amaya'l.
 about-walking-our-privacy-talk = Tab'inisaj ri Qach'owen chi rij Ichinanem
 about-when-the-facebook-breach-was = Toq xya' rutzijol rutz'ilanem ri { -brand-name-facebook }, { -brand-name-mozilla } anin xusöl ri k'ayewal chuqa' jun rutikojil { -brand-name-firefox } xuto' ri richinanem okisanel.
-about-talking-internet-issues-irl = Nitzijöx Rij Ruk'ayewal K'amaya'l pa Qitzij K'aslem IRL
-about-in-mozillas-irl-podcast-host = Pa rupodcast IRL { -brand-name-mozilla }, ri ajsamaj Manoush Zomorodi yerukomonij qitzij taq rub'anob'al k'aslem pa k'amab'ey chuqa' qitzij taq ch'owen chi rij ruk'aslem chwa'q kab'ij ri Ajk'amaya'l.
 about-corporation-foundation-not = Nimamoloj. Moloj. Majun ruch'akoj.
 about-learn-about-the-mozilla-foundation = Tetamäx ch'aqa' chik chi rij ri { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } yerunab'eyisaj ri winaqi' chuwäch ri ch'akoj pa ruwi' ronojel ri niqab'ij, niqanük' chuqa' niqab'än. Ri nub'än chi k'o jun Moloj majun ch'akoj rojqan pa kik'u'x ri qak'ayij.

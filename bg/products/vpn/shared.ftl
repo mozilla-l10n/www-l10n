@@ -13,8 +13,8 @@
 
 vpn-shared-platform-cta-headline = Да започваме
 
-## VPN Affiliate cookie notice
+## Press quotations
 
 
-##
+## Unsupported language notification
 

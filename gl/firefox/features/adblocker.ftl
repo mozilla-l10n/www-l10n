@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -16,22 +16,12 @@ features-adblocker-an-ad-blocker-is-a-piece = Un bloqueador de publicidade é un
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Estes anuncios poden ser vídeos barullentos, anuncios que te seguen cando navegas pola Internet, rastrexadores, testemuños de terceiros… Para utilizar un bloqueador de publicidade, podes procurar por complementos para bloqueo de anuncios que estean dispoñíbeis para o navegador. O <a href="{ $firefox }">{ -brand-name-firefox }</a>, por exemplo, ten <a href="{ $addons }">esta lista de complementos aprobados para o bloqueo de publicidade</a>. Preme nesta lista (ou en bloqueadores de publicidade que estean aprobados para o navegador) e comproba cal se adapta ás túas necesidades.
 features-adblocker-find-the-right-ad-blocker = Encontra o bloqueador de publicidade perfecto para ti
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = Hai un <a href="{ $url }"> AdBlocker Ultimate </a> que te libra de todos os anuncios, mais coidado! É fácil que os teus xornais e revistas favoritos dependan da publicidade. Bloquear anuncios de forma masiva pode levalos á creba.
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Os anuncios emerxentes son os peores. Bloquéaos con <a href="{ $url }"> Popup Blocker</a> e así non terás que lidar de novo con eles.
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Un dos bloqueadores de publicidade máis populares para o { -brand-name-chrome }, o { -brand-name-safari } e o { -brand-name-firefox } é o <a href="{ $url }">AdBlock</ a >. Podes usalo para bloquear anuncios en { -brand-name-facebook }, { -brand-name-youtube } e { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = Crea unha zona libre de rastrexadores co bloqueo de contidos
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = No { -brand-name-firefox }, podes utilizar a <a href="{ $privacy }">Privacidade</a> ou a configuración de <a href="{ $blocking }">Bloqueo de contidos</a> para obter aínda máis control sobre os rastrexadores con fins publicitarios que usan os anuncios.
 features-adblocker-choose-your-level-of-protection = Escolle o teu nivel de protección
-features-adblocker-to-start-click-on-the = Para comezar, preme no menú { -brand-name-firefox } na esquina superior dereita da pantalla. Ten forma de tres liñas paralelas colocadas unha enriba da outra. No menú pendente, preme en Protección da privacidade. Deberías ver unha mensaxe emerxente azul con diferentes seleccións.
 features-adblocker-go-easy-with-standard = Vai amodo co modo estándar
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -53,7 +43,3 @@ features-adblocker-send-a-do-not-track-signal = Envía un sinal de non rastrexo
 features-adblocker-if-you-dont-want-your = Se non quixeres que o teu comportamento en liña sexa usado para os anuncios, podes enviar unha indicación educada «hoxe non quero, outro día xa veremos» ao marcares a opción<a href="{ $url }">Non rastrexar</a> do { -brand-name-firefox }. A participación é voluntaria, mais os sitios que respectan esta indicación deixan de te rastrexar inmediatamente.
 features-adblocker-speed-up-thanks-to-ad = Aumenta a velocidade grazas aos bloqueadores de publicidade
 features-adblocker-in-some-cases-an-ad-blocker = Nalgúns casos, un bloqueador de publicidade pode axudar o teu navegador a ir máis rápido. Cando se carga un anuncio, pode diminuír a velocidade dun sitio web. Alén diso, tardas máis en encontrar o que buscas se estás demasiado ocupado en pechar outro anuncio.
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more = Se queres obter máis información sobre o bloqueo de anuncios, hai centos de bloqueadores de publicidade dispoñíbeis para o { -brand-name-firefox } e outros navegadores. Se queres probar os bloqueadores de publicidade que usa o { -brand-name-firefox }, <a href="{ $url }">preme aquí para descargar</a> un navegador para o que prima a privacidade.
-features-adblocker-take-control-of-your-browser = Asume o control do teu navegador

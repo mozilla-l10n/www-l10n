@@ -7,26 +7,16 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Merrni një { -brand-name-mozilla-account } – Mbajini të dhënat tuaja private, të parrezik dhe të njëkohësuara
-# Obsolete string
-firefox-accounts-get-a-firefox-account = Merrni një { -brand-name-firefox-account } - Mbajini të dhënat tuaja private, të sigurta dhe të njëkohësuara
-# Obsolete string
-firefox-accounts-securely-sync-your = Njëkohësi në mënyrë të siguruar fjalëkalimet tuaj, faqerojtësit dhe skedat, nëpër krejt pajisjet. Merrni që tani një { -brand-name-firefox-account } – Një palë kredenciale hyrjeje – Pushtet dhe privatësi kudo.
 # HTML page description
 mozilla-accounts-securely-sync-your = Njëkohësoni në mënyrë të siguruar fjalëkalimet, faqerojtësit dhe skedat nëpër krejt pajiset tuaja. Merrni tani një { -brand-name-mozilla-account } – Një palë kredenciale hyrjeje – Fuqi dhe privatësi kudo.
 firefox-accounts-enter-your-email-address = Jepni adresën tuaj email, që t’ia filloni.
 firefox-accounts-already-have-an-account = Keni tashmë një llogari?
 firefox-accounts-sign-in = Hyni
-# Obsolete string
-firefox-accounts-already = Keni tashmë një { -brand-name-firefox-account }. Përgëzime!
 mozilla-accounts-already = Keni tashmë një { -brand-name-mozilla-account }. Përgëzime!
 firefox-accounts-manage = Administroni llogarinë tuaj
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Bëni hyrjen te { -brand-name-mozilla-account } e juaj që të:
-# Obsolete string
-firefox-accounts-sign-in-to = Bëni hyrjen te { -brand-name-firefox-account } juaj që të:
-# Obsolete string
-firefox-accounts-meet-our-family-of = Njihuni me familjen tonë të produkteve privatësia-së-pari.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Dërgoni një skedë</a> te një pajisje tjetër
@@ -48,8 +38,6 @@ firefox-accounts-get-it-all-on-every = Kini gjithçka në secilën pajisje, pa u
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

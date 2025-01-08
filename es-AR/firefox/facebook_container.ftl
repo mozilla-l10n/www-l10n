@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -12,18 +12,11 @@ facebook-container-get-the-facebook-container = Obtener la extensión { -brand-n
 facebook-container-download-firefox-and-get-the = Descargá { -brand-name-firefox } y obtené la extensión { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = La extensión { -brand-name-facebook-container } actualmente solo está disponible para { -brand-name-firefox } para escritorio.
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = Visitá <a href="{ $url }">{ $link_copy }</a> para conseguir { -brand-name-firefox } para escritorio.
-# Outdated string
-facebook-container-the-facebook-container-extension = La extensión { -brand-name-facebook-container } no está disponible para dispositivos móviles.
 facebook-container-get-firefox-android-ios = Conseguí { -brand-name-firefox } para { -brand-name-android } e { -brand-name-ios } ahora.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Probá<strong>{ -brand-name-firefox-focus }</strong>, el navegador privado para { -brand-name-android } e { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Excluite bajo tus propios términos
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

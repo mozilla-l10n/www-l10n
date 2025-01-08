@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -18,8 +18,6 @@ manifesto-08 = 08
 manifesto-09 = 09
 manifesto-10 = 10
 manifesto-show-your-support = Nyut cwak mamegi
-manifesto-share-on-twitter = Nywak ii { -brand-name-twitter }
-manifesto-join-us-as-a-volunteer = Ribe kedwa calo ngat ma odyere
 manifesto-love-the-web = Imaro kakube?
 manifesto-details-the-internet-is-becoming = Intanet tye ka mede ki doko gin mapire tek i kwo mamegwa.
 manifesto-details-make-mozilla-contributors = wek lumii kony me { -brand-name-mozilla } obed ki awaka ikom ngo ma watye ka timo ki cuko cwinywa me mede; ki

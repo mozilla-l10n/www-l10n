@@ -10,8 +10,6 @@ cookie-settings-page-desc = Questa pagina descriva ils differents tips da cookie
 cookie-settings-breadcrumb-link = Pagina precedenta
 cookie-settings-explainer = Cookies èn pitschnas datotecas cun infurmaziuns che vegnan memorisadas sin tes computer (u apparat) cura che ti visitas ina website. { -brand-name-mozilla } utilisescha cookies per meglierar il funcziunament da sias websites, sco era per intervegnir co ti utiliseschas ed interageschas cun nossas websites, per exempel per vegnir a savair tge paginas che ti visitas.
 cookie-settings-page-intro-v2 = Questa pagina descriva ils differents tips da cookies e tecnologias sumegliantas sco pixel tags, web beacons, clear GIFs, JavaScript ed arcun local (en il text suandant numnads «cookies») che { -brand-name-mozilla } po utilisar. En pli has ti la pussaivladad da decider tge tips da datas che { -brand-name-mozilla } po rimnar.
-# Obsolete string (expires: 2024-07-01)
-cookie-settings-page-intro = Questa pagina descriva ils differents tips da cookies e tecnologias sumegliantas (sco pixel tags, web beacons, clear GIFs, JavaScript ed arcun local) – «cookies» – che { -brand-name-mozilla } po utilisar. En pli has ti la pussaivladad da decider tge tips da datas che { -brand-name-mozilla } po rimnar.
 cookie-settings-how-mozilla-heading = Co { -brand-name-mozilla } utilisescha cookies
 cookie-settings-how-does-mozilla-use-subheading = Co utilisescha { -brand-name-mozilla } questas datas?
 cookie-settings-save-changes = Memorisar las midadas

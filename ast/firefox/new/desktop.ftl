@@ -29,5 +29,4 @@ firefox-desktop-download-questions = ¿Tienes entrugues? <a { $attrs }>Sofitu de
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ye más qu'un restolador.

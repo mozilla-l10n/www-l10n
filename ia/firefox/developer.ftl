@@ -11,8 +11,6 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } es le navigator ultra-veloce que offere innovative instrumentos de disveloppamento e le plus recente functionalitate como le supporto del grillias CSS e le depuration de frameworks.
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Benvenite a tu nove navigator favorite. Obtene le ultime functionalitates, rapide performance, e le applicationes de disveloppamento que tu necessita pro producer pro le web aperte.
 firefox-developer-speak-up = Exprime te
 firefox-developer-feedback-makes-us = Tu commentos nos adjuta a meliorar. Dice nos como nos pote meliorar le navigator e le instrumentos de disveloppamento.
@@ -75,15 +73,11 @@ firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-develo
 firefox-developer-download-the-firefox-browser = Discarga le navigator { -brand-name-firefox } dedicate al disveloppatores
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } ha essite reconstruite ab ovo pro ser plus rapide, elegante, e plus potente que mais.
 firefox-developer-welcome-to-firefox-developer-edition = Benvenite in { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = Benvenite a { -brand-name-firefox-browser }{ -brand-name-developer-edition }
 firefox-developer-made-for-developers = Le navigator dedicate a disveloppatores
 firefox-developer-all-the-latest-v2 = Tote le ultime utensiles de disveloppator in beta in addition a functionalitates como le Redactor de consola multilinea e le Inspector de WebSocket.
 firefox-developer-a-separate-profile = Un <strong> profilo e route separate</strong> assi que pote currer preter le version official o le { -brand-name-beta } de { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Le preferentias <strong>adjustate pro le disveloppatores web</strong>: le depuratores remote e del navigator es activate per configuration predefinite, assi como le thema obscur e le button de disveloppator sur le barra de instrumentos.
 firefox-developer-congrats-you-now-have-latest-v2 = Tu ora ha le ultime version de { -brand-name-firefox-developer-edition }.
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = Felicitationes. Ora tu ha le ultime version de { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Vider le <a { $attrs }>notas de version</a> (anglese solo) pro vider qual es le novas.

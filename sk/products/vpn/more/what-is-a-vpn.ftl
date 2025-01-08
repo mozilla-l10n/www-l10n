@@ -56,11 +56,3 @@ vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: rýchla, bezpečná,
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> je služba, ktorej môžete dôverovať, že vaše pripojenie k internetu bude bezpečné na všetkých vašich zariadeniach. Neuchovávame denníky sieťovej aktivity a nespolupracujeme s tretími stranami, ktoré vytvárajú profily toho, čo robíte online. Vo svete, kde sa nepredvídateľnosť stala „novým normálom“, vieme, že je dôležitejšie než kedykoľvek predtým, aby ste sa cítili bezpečne a aby ste vedeli, že to, čo robíte online, je vaša vlastná vec.
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> je služba, ktorej môžete dôverovať, že vaše pripojenie k internetu bude bezpečné na všetkých vašich zariadeniach. Neuchovávame denníky sieťovej aktivity a nespolupracujeme s tretími stranami, ktoré vytvárajú profily toho, čo robíte online. Vo svete, kde sa nepredvídateľnosť stala novým normálom…
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> je služba, ktorej môžete dôverovať, že vaše pripojenie k internetu bude bezpečné na všetkých vašich zariadeniach. Neuchovávame denníky používateľských údajov a nie sme partnermi analytických platforiem tretích strán, ktoré si chcú vytvoriť profil toho, čo robíte online. Vo svete, kde sa nepredvídateľnosť stala „novým normálom“, vieme, že je dôležitejšie než kedykoľvek predtým, aby ste sa cítili bezpečne a aby ste vedeli, že to, čo robíte online, je vaša vlastná vec.

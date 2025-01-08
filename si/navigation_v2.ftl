@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = { -brand-name-firefox } බාගන්න
 navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } ගන්න
 navigation-v2-menu = වට්ටෝරුව
-# Obsolete string
-navigation-v2-get-a-firefox-account = { -brand-name-firefox-account } ක් ගන්න
 
 ## Firefox menu
 
@@ -20,8 +18,6 @@ navigation-v2-firefox-for-ios = { -brand-name-ios } සඳහා { -brand-name-f
 navigation-v2-get-the-mobile-browser = { -brand-name-iphone } හෝ { -brand-name-ipad } සඳහා ජංගම අතිරික්සුව ගන්න.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = හුදෙක් පෞද්ගලික ජංගම පිරික්සීමකට
-navigation-v2-privacy-promise = රහස්‍යතා පොරොන්දුව
-navigation-v2-learn-how-firefox-treats = { -brand-name-firefox } ඔබගේ දත්ත පිරියම් කරන අයුරු දැන ගන්න.
 navigation-v2-firefox-blog = { -brand-name-firefox } සටහන්පත
 navigation-v2-read-about-new-firefox-features = නව { -brand-name-firefox } විශේෂාංග සහ මාර්ගගත ආරක්‍ෂාව ආශ්‍රිත ක්‍රම ගැන කියවන්න.
 navigation-v2-release-notes = නිකුතු සටහන්
@@ -31,15 +27,12 @@ navigation-v2-view-all-firefox-browsers = සියළුම { -brand-name-firef
 
 navigation-v2-products = නිෂ්පාදන
 navigation-v2-close-products-menu = නිෂ්පාදන වට්ටෝරුව වසන්න
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = සමාගමක දත්ත උල්ලංඝනයක දී ඔබගේ වි-තැපෑල හමුවී ඇත්දැයි බලන්න.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
-navigation-v2-product-promise = නිෂ්පාදන පොරොන්දුව
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (බීටා)
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (බීටා)
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-view-all-products = සියළු නිෂ්පාදන බලන්න
 
@@ -61,7 +54,6 @@ navigation-v2-more-about-mozilla = { -brand-name-mozilla } ගැන වැඩ�
 
 navigation-v2-innovation = නවෝත්පාදන
 navigation-v2-close-innovation-menu = නවෝත්පාදන වට්ටෝරුව වසන්න
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = සංවර්ධකයින් සඳහා තනන ලද { -brand-name-firefox } අතිරික්සුව ගන්න.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }

@@ -59,4 +59,3 @@ firefox-new-fast = Brz, privatan i besplatan
 firefox-new-from-mozilla = od { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } je besplatni web pretraživač sa brzim učitavanjem stranica, manje upotrebe memorije i puno funkcija - projekt neprofitne organizacije { -brand-name-mozilla }.
 firefox-new-download-a-different = Preuzmite za drugu platformu ili jezik
-firefox-new-taskbar = { -brand-name-firefox } će biti zakačen na { -brand-name-windows } traku zadataka nakon instalacije

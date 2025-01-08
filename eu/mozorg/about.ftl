@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox }: bizkorra eta ona
 about-when-you-use-the-new-firefox = { -brand-name-firefox } berria erabiltzean, esperientzia benetan bizkorraz gozatzeaz gain, Internet guztiontzat osasuntsu, desberdin eta abegikor mantentzeko { -brand-name-mozilla }ren misioa sostengatzen duzu.
 about-walking-our-privacy-talk = Pribatutasunari buruzko gure diskurtsoa eztabaidatzen
 about-when-the-facebook-breach-was = { -brand-name-facebook }en pribatutasun urratzea argitara eman zenean, { -brand-name-mozilla }k berehalako erantzuna eman zuen – eta erabiltzaileen pribatutasuna babesteko { -brand-name-firefox }en produktu bat jaio zen.
-about-talking-internet-issues-irl = Interneten arazoez eztabaida bizitza errealean - IRL
-about-in-mozillas-irl-podcast-host = { -brand-name-mozilla }ren IRL podcastean Manoush Zomorodi aurkezleak online bizitzako istorio errealak partekatzen ditu, eta Webaren etorkizunari buruz eztabaidatzen da.
 about-corporation-foundation-not = Korporazioa. Fundazioa. Irabazi-asmorik gabe.
 about-learn-about-the-mozilla-foundation = Ezagutu { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla }n pertsonak jartzen ditugu irabazien aurretik: esan, eraiki eta egiten dugun guztian. Izan ere, irabazi-asmorik gabeko fundazio bat dago gure enpresaren bihotzean.

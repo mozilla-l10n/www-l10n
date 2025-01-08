@@ -18,8 +18,6 @@ vpn-ip-address-does-it-travel = IP 地址會跟著我一起跑嗎？
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
 vpn-ip-address-no-your-ip-v2 = 不會。除非您使用 VPN 否則您的 IP 地址只會與一個位置相關聯我們稍後再解釋。當您在家中連線到您付費的網路時就在使用別人。然而如果您是早上在家收信、等咖啡時就到咖啡店瀏覽新聞然後在辦公室上班的話您可能會在不同的地方使用不同的 IP 地址。
-# Outdated string
-vpn-ip-address-no-your-ip = 不會。除非您 <a href="{ $url }">使用 VPN</a> 否則您的 IP 地址只會與一個位置相關聯我們稍後再討論。當您在家中連線到您付費的網路時就在使用別人。然而如果您是早上在家收信、等咖啡時就到咖啡店瀏覽新聞然後在辦公室上班的話您可能會在不同的地方使用不同的 IP 地址。
 vpn-ip-address-does-your-ip = IP 地址會變更嗎？
 vpn-ip-address-yes-even-if = 好的。就算您只在家中使用也有可能變更您家中的 IP 地址。您可以聯絡您的網路業者 (ISP) 要求變更此設定。但就算是因為網際網路連線問題重新啟動 Modem 或路由器也可能會造成變更變更。
 vpn-ip-address-can-more-than = 同時可以有超過一台裝置使用相同 IP 地址嗎？
@@ -45,9 +43,3 @@ vpn-ip-address-how-do-you = 要如何隱藏？
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30". The + after indicates the number may be higher, where "30+" means "30 or more".
 vpn-ip-address-a-vpn-is-v2 = VPN 是一種用來隱藏您的 IP 地址的方式。 <a href="{ $vpn }">當您使用 VPN</a>時您的外部 IP 地址將來自 VPN 伺服器的外部 IP 地址而非您所在單位的外部 IP 地址。因此若您連線的 VPN 伺服器位於美國加州不論您身在何方您的外部 IP IP 都會就如同從加州連線一樣。此外您的線上活動將會透過安全的加密連線傳送到您的 VPN 伺服器讓您更有安全性與隱私保護。 <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 是一種隱藏 IP 地址的方式。我們不會保留您的上網紀錄也不會與第三方合作偷偷記錄您的上網行為。我們為最多五台位於超過 { $countries } 個國家的伺服器的裝置提供完整保護讓您可以隨時隨地連線到任何地方。
-# Obsolete string
-# Variables
-#   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30". The + after indicates the number may be higher, where "30+" means "30 or more".
-vpn-ip-address-a-vpn-is = VPN 是一種用來隱藏您的 IP 地址的方式。 <a href="{ $vpn }">當您使用 VPN</a>時您的外部 IP 地址將來自 VPN 伺服器的外部 IP 地址而非您所在單位的外部 IP 地址。因此若您連線的 VPN 伺服器位於美國加州不論您身在何方您的外部 IP IP 都會就如同從加州連線一樣。此外您的線上活動將會透過安全的加密連線傳送到您的 VPN 伺服器讓您更有安全性與隱私保護。 <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 是一種隱藏 IP 地址的方式。我們不會保留活動紀錄或與第三方分析平台合作。我們為最多五台位於超過 { $countries } 個國家的伺服器的裝置提供完整保護讓您可以隨時隨地連線到任何地方。

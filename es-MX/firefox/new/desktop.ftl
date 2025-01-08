@@ -40,12 +40,6 @@ firefox-desktop-download-blocks-social-trackers = Bloquea los rastreadores socia
 firefox-desktop-download-os-availability = Disponibilidad para sistemas operativos
 firefox-desktop-download-in-browser-screenshot = Herramienta de captura de pantalla en el navegador
 firefox-desktop-download-primary-password = Contraseña primaria
-# Obsolete string
-firefox-desktop-love-your-life = Ama tu vida en línea
-# Obsolete string
-firefox-desktop-its-your-internet = Es tu Internet. Coloréalo como quieras con miles de herramientas, temas y extensiones. { -brand-name-firefox } es el navegador alternativo original que pone a las personas por encima del lucro.
-# Obsolete string
-firefox-desktop-download-master-password = Contraseña primaria
 firefox-desktop-download-we-block-the-ad = Bloqueamos los rastreadores publicitarios. Por ello, exploras internet más rápido.
 firefox-desktop-download-ads-are-distracting = La publicidad distrae y hace que las páginas web se carguen más lentamente, mientras que sus rastreadores observan cada movimiento que realizas en línea. { -brand-name-firefox-browser } bloquea la mayoría de los rastreadores automáticamente, por lo que no es necesario profundizar en los ajustes de seguridad.
 firefox-desktop-download-see-your-report = Mira tu reporte de protección
@@ -134,9 +128,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } fue cread
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = A medida que Internet crece y cambia, { -brand-name-firefox } continúa enfocándose en tu derecho a la privacidad; lo llamamos la <a { $attrs }>Promesa de datos personales</a>: Recolecta menos. Lo mantiene seguro. Sin secretos. Tus datos, tu actividad web, tu vida en línea están protegidos con { -brand-name-firefox }.
 # Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } está disponible para todos tus dispositivos; lleva tus pestañas, historial y marcadores contigo. Todo lo que necesitas es una <a { $attrs }>cuenta de { -brand-name-firefox }</a>.
-# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Obtén una imagen de alta resolución de cualquier cosa en línea con nuestra herramienta de <a { $attrs }>captura de pantalla</a> integrada en el navegador.
 # Variables:
@@ -145,13 +136,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automá
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ¿Preguntas? La <a { $attrs }>ayuda de { -brand-name-mozilla }</a> te tiene cubierto.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Ya tienes el navegador { -brand-name-firefox }. Ahora obtén aún más de { -brand-name-firefox }.
-firefox-desktop-download-watch-for-hackers-with-v2 = Vigila a los hackers con { -brand-name-firefox-monitor }, protege tu dirección de correo con { -brand-name-firefox-relay } y más.
-# Outdated string
-firefox-desktop-download-watch-for-hackers-with = Presta atención a los hackers con { -brand-name-firefox-monitor }, protege las contraseñas con { -brand-name-firefox-lockwise } y más.
-firefox-desktop-download-get-more-from-firefox = Obtén más de { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Solamente descarga el navegador
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -167,8 +151,6 @@ firefox-desktop-download-now-mac = Ahora <strong>abre</strong> el archivo que ac
 firefox-desktop-download-get-help = ¿Tienes problemas? <a { $attrs }>Obtén ayuda con tu instalación</a>.
 firefox-desktop-download-in-another-language = Descargar en otro idioma o para otro sistema operativo.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = Si ves un mensaje indicando que la aplicación que estás intentando instalar no es una aplicación verificada por { -brand-name-microsoft }, haz clic en “Instalar de todas formas” o en <a { $attrs }>cambiar los ajustes de recomendación de aplicaciones</a>.
@@ -176,10 +158,6 @@ firefox-desktop-download-visit-support-for-more = Para más detalles visita la p
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ya no proporciona actualizaciones de seguridad</a> para { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }, pero aún puedes usar { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Estás usando un sistema operativo inseguro y desactualizado <a href="{ $url }">que ya no tiene soporte por parte de { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -193,4 +171,3 @@ firefox-desktop-download-please-follow = Por favor, sigue <a href="{ $url }">est
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Tu sistema puede no tener los requerimientos para { -brand-name-firefox }, pero puedes intentar con alguna de <a href="{ $url }">estas versiones</a>.
-firefox-desktop-download-taskbar = { -brand-name-firefox } estará fijado en la barra de tareas de { -brand-name-windows } después de la instalación

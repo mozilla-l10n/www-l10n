@@ -1,13 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
 
 history-history-of-the-mozilla-project = { -brand-name-mozilla } 项目的历史
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = { -brand-name-mozilla } 项目<a href="{ $coderush }">始创于1998年</a>，伴随着 <a href="{ $sourcerelease }">{ -brand-name-netscape } 浏览器套件的源代码的发布</a>。
 history-it-was-intended-to-harness = 它的目标是发挥互联网上的成千上万程序员的创造力，并且推动浏览器市场达到前所未有的创新水平。

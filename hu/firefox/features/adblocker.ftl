@@ -31,18 +31,6 @@ features-adblocker-ghostery-is-another-great = A <a { $attrs }>Ghostery</a> egy 
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Ezek a kiegészítők gyönyörűen működnek mind az <a { $attrs1 }>asztali { -brand-name-firefox }ban</a>, mind az <a { $attrs2 }>androidos változatban</a>.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = Ott van az <a href="{ $url }">AdBlocker Ultimate</a>, amely minden reklámtól megszabadul, de figyeljen. A kedvenc hírlapjai és magazinjai a hirdetésekre támaszkodhatnak. Ha túl sok ember blokkolja a reklámjaikat, akkor csődbe is mehetnek.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = A felugró hirdetések a legrosszabbak. Blokkolja őket a <a href="{ $url }">Popup Blocker</a> segítségével, és sose foglalkozzon többé a bosszantó felugró ablakokkal.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Az egyik legnépszerűbb reklámblokkoló { -brand-name-chrome }-hoz, { -brand-name-safari }hoz és { -brand-name-firefox }hoz az <a href="{ $url }">AdBlock</a>. Használja arra, hogy blokkolja a hirdetéseket a { -brand-name-facebook }on, a { -brand-name-youtube }-on és a { -brand-name-hulu }n.
 features-adblocker-create-a-tracker-free = Hozzon létre egy követőmentes zónát a tartalomblokkolással
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

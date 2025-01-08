@@ -5,5 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
-# links to https://addons.mozilla.org/firefox/addon/firefox-translations/
-features-translate-get-firefox-translations = Tapout { -brand-name-firefox-translations }

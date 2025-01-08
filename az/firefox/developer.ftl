@@ -10,7 +10,6 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } çox sürətlidir, müasir tərtibatçı alətləri, CSS Tor (Grid) və framework sazlayıcısı kimi ən son yeniliklərlə gəlir
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Yeni sevimli səyyahınıza xoş gəldiniz. Açıq web üçün ehtiyyacınız olan bütün alətləri, sürətli məhsuldarlığı və ən son özəllikləri əldə edin.
 firefox-developer-speak-up = Dərdinizi danışın
 firefox-developer-feedback-makes-us = Geri dönüşlər bizi daha da yaxşılaşdırır. Səyyahı və Tərtibatçı alətlərini necə yaxşılaşdıra biləcəyimizi deyin.
@@ -55,16 +54,11 @@ firefox-developer-new-tools = Yeni Alətlər
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Yeni { -brand-name-firefox-devtools } güclü, çevik və hər şeydən əsas hack edilə biləndir. Buna fərqli səyyahları hədəfləyə bilən, React və Redux ilə gələn növünün ən yaxşı JavaScript xəta sazlayıcısı da daxildir.
 firefox-developer-master-css-grid = CSS Grid-ə Yiyələnin
-# outdated
-firefox-developer-next-gen-css-engine = Yeni Nəsil CSS Mühərriyi
-firefox-developer-a-next-generation = Yeni nəsil CSS Mühərrik
 firefox-developer-master-innovative-features = Qabaqcıl Özəlliklər
 firefox-developer-want-to-be-on-the-cutting-edge = Ən son texnoloji yenilikləri istəyirsiniz?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } günlük yeniləmələr alır və yeni özəllikləri hamıya açılmadan aylar əvvəl yoxlamağınıza imkan verir.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum }-da yeni CSS mühərriyi gəlir, Rust ilə yazılmış, ən son texnoloji innovasiyalar ilə və çox sürətli.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } CSS Grid ilə işləmək üçün yaradılmış alətləri olan tək səyyahdır. Bu alətlər toru (grid) vizuallaşdırmağınıza, əlaqəli sahə adlarını göstərməyə, tor üzərindəki transformasiyaları görməyinizə və daha bir çox işləri asanlıqla edə biləməyiniz üçün sizə imkanlar verəcək.
 firefox-developer-convenient-features = Əlverişli Özəlliklər
-firefox-developer-faster-performance = Daha sürətli məhsuldarlıq
 firefox-developer-shapes-editor = Forma Redaktoru
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools }-un vizual redaktorla shape-outside və clip-path formalarını düzəltməyinizi asanlaşdıran yeni forma düzümü redaktoru var.
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools }-da vizual redaktorda nizamlamalarınızı asanlıqla düzətmək üçün kölgə və klip-cığırı formalarını canlı göstərən yeni forma redaktoru var.
@@ -73,7 +67,4 @@ firefox-developer-fonts-panel = Şriftlər Paneli
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools }-da elementdə işlədilən şriftlər haqqında məlumatları asanlıqla ala bilməyiniz üçün yeni şriftlər paneli var. Bununla həmçinin şriftlərin mənbəyi, ağırlığı, stili və daha bir çox məlumatlarını ala bilərsiz.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } avtomatik olaraq { -brand-name-mozilla }-ya əks əlaqə göndərir.
 firefox-developer-download-the-firefox-browser = Tərtibatçılar üçün düzəldilmiş { -brand-name-firefox } səyyahını endir
-firefox-developer-welcome-to-the-all-new = Ən yeni { -brand-name-firefox-quantum }: { -brand-name-developer-edition }-a xoş gəldiniz
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } daha sürətli, gözəl və güclü olması üçün başdan yaradıldı.
-firefox-developer-congrats-you-now-have-firefox = Təbriklər. Artıq { -brand-name-firefox-quantum }: { -brand-name-developer-edition } işlədirsiniz.
-firefox-developer-this-isnt-just-an-update = Bu sadəcə yeniləmə deyil. Bu { -brand-name-firefox-quantum }-dur: Daha sürətli, gözəl və güclü olması üçün başdan yaradılmış yeni { -brand-name-firefox }.

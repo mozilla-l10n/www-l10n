@@ -7,12 +7,7 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } e { -brand-name-ipad })
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = Le navigator { -brand-name-firefox } pro { -brand-name-ios } es rapide, secur e private a partir del prime uso.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-mobile-ios-get-automatic-privacy = Obtene confidentialitate automatic sur tu { -brand-name-iphone } e { -brand-name-ipad }
 mobile-ios-get-firefox-for = Obtene { -brand-name-firefox } pro { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Inviar un ligamine de discargamento a tu telephono.
 mobile-ios-scan-the-qr-code-to-get-started = Scanna le codice QR pro comenciar
@@ -31,14 +26,8 @@ mobile-ios-get-to-your-go-to = Attinge tu locos preferite plus velocemente sur t
 mobile-ios-see-your-open-tabs = Vide tu schedas aperte, recercas passate e sitos favorite in un sol loco con le navigator { -brand-name-firefox-browser } pro { -brand-name-ios }.
 mobile-ios-own-your-home = Domina tu pagina initial
 mobile-ios-get-to-the-parts = Accede plus velocemente al partes de internet que tu cura. Elige vider tote tu schedas aperte, recente recercas, marcapaginas e sitos favorite in un sol loco.
-# Obsolete string
-mobile-ios-add-firefox-across = Installa { -brand-name-firefox } sur tote tu apparatos pro navigation secur e sin interruptiones. Con { -brand-name-sync }, tu pote synchronisar tu apparatos e portar tu marcapaginas favorite, credentiales salvate, contrasignos e historia de navigation con te, non importa ubi tu va. De plus, tu pote inviar schedas aperte inter telephono e scriptorio pro reprender ubi tu restava.
 mobile-ios-find-it-all = Trova toto plus rapidemente
 mobile-ios-get-search-suggestions = Obtene suggestiones in le barra de recerca e accede rapidemente al sitos que tu visita le plus. Digita tu consulta e obtene resultatos suggerite e resultatos previemente cercate in tote tu motores de recerca favorite.
-# Obsolete string
-mobile-ios-keep-tabs-on = Prende le controlo de tu schedas
-# Obsolete string
-mobile-ios-create-as-many = Crea tante schedas como tu vole sin perder le tracia. { -brand-name-firefox } monstra tu schedas aperte como miniaturas e schedas numerate, rendente facile trovar rapidemente lo que tu vole.
 mobile-ios-discover-more-of = Discoperi plus de lo que tu ama
 mobile-ios-open-a-new = Aperi un nove scheda in { -brand-name-firefox } pro vider le sitos que tu visita le plus, tu marcapaginas recente e articulos popular in { -brand-name-pocket }. { -brand-name-firefox } te da accesso rapide al sitos recentemente visitate pro adjutar te a arrivar plus rapidemente a tu destination.
 mobile-ios-about-mozilla = A proposito de { -brand-name-mozilla }

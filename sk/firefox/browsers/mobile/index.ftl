@@ -21,13 +21,8 @@ browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Hľadáte efektívny, super rýchly mobilný prehliadač s funkciami ochrany osobných údajov novej úrovne? { -brand-name-firefox-focus } automaticky vymaže celú vašu históriu prehliadania od okamihu otvorenia prehliadača až po jeho zatvorenie.
 browsers-mobile-compare = Porovnanie
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Pozrite sa, ako si { -brand-name-firefox } pre počítače počína v porovnaní s inými prehliadačmi.
-# Obsolete string (expires 30 June 2024)
-browsers-mobile-see-how-firefox-for-desktop-stacks = Pozrite sa, ako si { -brand-name-firefox } pre počítače počína v porovnaní so siedmimi inými prehliadačmi.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Pozrite sa, ako si { -brand-name-firefox } pre <strong>počítače</strong> počína v porovnaní s inými prehliadačmi.
-# Obsolete string (expires 30 June 2024)
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = Pozrite sa, ako si { -brand-name-firefox } pre <strong>počítače</strong> počína v porovnaní so siedmimi ďalšími prehliadačmi.
 browsers-mobile-download = Stiahnuť
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

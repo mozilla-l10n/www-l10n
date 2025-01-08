@@ -14,13 +14,9 @@ nightly-whatsnew-every-4-to-5-weeks = 4~5주마다 { -brand-name-firefox }의 �
 nightly-whatsnew-this-is-a-good = { -brand-name-firefox }를 개선하는 데 도움을 주셔서 감사드리며 { -brand-name-nightly } 관련 문서나 의사 소통 채널, 뉴스 사이트에 대한 몇 가지 안내를 드립니다.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = { -brand-name-nightly }와 커뮤니티 주변에 무슨 일이 일어나고 있는지 알고 싶다면 <a { $blog }>블로그</a>를 읽거나 <a { $mastodon }>Mastodon</a>이나 <a { $twitter }>X</a>에서 우리를 팔로우하세요!
-# Variables:
-#   $attrs (string) - link href and additional attributes
-# Obsolete string (expires: 2024-11-26)
-nightly-whatsnew-want-to-know-which-v2 = { -brand-name-nightly }에서 테스트할 수 있지만 다른 { -brand-name-firefox } 채널에는 아직 볼 수 없는 플랫폼 기능을 알고 싶으세요? <a { $attrs }>Nightly 실험</a> 설정 페이지를 살펴보세요.
 # Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v3 = { -brand-name-nightly }에서는 테스트할 수 있지만 다른 { -brand-name-firefox } 채널에서는 아직 볼 수 없는 플랫폼 기능을 보고 싶으세요? <a { $attrs }>{ -brand-name-firefox-labs }</a> 설정 페이지를 살펴보세요.

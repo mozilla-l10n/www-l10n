@@ -16,12 +16,7 @@ facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = Látogasson el a <a href="{ $url }">{ $link_copy }</a> oldalra, és szerezze be az asztali { -brand-name-firefox(case: "accusative") }.
-# Outdated string
-facebook-container-the-facebook-container-extension = A { -brand-name-facebook-container } kiterjesztés mobileszközökön nem érhető el.
 facebook-container-get-firefox-android-ios = Szerezze be most a { -brand-name-firefox(case: "accusative") } { -brand-name-android }ra és { -brand-name-ios }-re.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Próbálja ki a <strong>{ -brand-name-firefox-focus }t</strong>, a privát böngészőt { -brand-name-android }ra és { -brand-name-ios }-re.
 facebook-container-opt-out-on-your-terms = Kiszállás a saját szabályai szerint
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

@@ -7,7 +7,7 @@
 
 history-history-of-the-mozilla-project = { -brand-name-mozilla }s historie
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = { -brand-name-mozilla }-projektet <a href="{ $coderush }">så dagens lys i 1998</a>, hvor <a href="{ $sourcerelease }">kildekoden til { -brand-name-netscape }-browserpakken</a> blev udgivet.
 history-it-was-intended-to-harness = Tanken var, at udnytte den kreative kraft fra tusindvis af programmører på internettet og sætte skub i et hidtil uset innovationsniveau på browsermarkedet.

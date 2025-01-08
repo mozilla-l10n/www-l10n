@@ -1,16 +1,15 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = ഏറ്റവും പുതിയ ഡെവലപ്പർ ഉപകരണങ്ങളും CSS ഗ്രിഡ് പിന്തുണ, ഫ്രെയിംവർക്ക് ഡീബഗ്ഗിങ്ങ് എന്നിങ്ങനെ ഏറ്റവും പുതിയ സവിശേഷതകളും നൽകുന്ന മിന്നൽ വേഗതയുള്ള ബ്രൗസറാണ് ഫയർഫോക്സ് ഡെവലപ്പർ എഡിഷൻ
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = നിങ്ങളുടെ പുതിയ ഇഷ്ട ബ്രൌസറിലേക്ക് സ്വാഗതം. ഏറ്റവും പുതിയ ഫീച്ചറുകളും വേഗതയേറിയ പ്രകടനവും ഓപ്പൺ വെബ് നിര്‍മ്മാണത്തിനായി വേണ്ട ഉപകരണങ്ങളും നേടുക.
 firefox-developer-speak-up = ശബ്ദമുയർത്തുക
 firefox-developer-feedback-makes-us = നിങ്ങളുടെ പ്രതികരണമാണ് ഞങ്ങളെ നല്ലതാക്കുന്നത്. ബ്രൌസറും ഡെവലപ്പര്‍ ടൂളുകളും നന്നാക്കാനുള്ള അഭിപ്രായങ്ങള്‍ അറിയിക്കു.
@@ -55,15 +54,11 @@ firefox-developer-new-tools = പുതിയ ഉപകരണങ്ങള്‍
 firefox-developer-firefox-devtools = ഫയര്‍ഫോക്സ് ഡെവ്ടൂള്‍സ്
 firefox-developer-the-new-firefox-devtools = പുതിയ ഫയർഫോക്സ് ഡെവ്ടൂള്‍സ് ശക്തവും വഴക്കമുള്ളതും ഏറ്റവും ഉപരി ഹാക്കബിളും ആണ്. ഇത് മികച്ച ജാവാസ്ക്രിപ്റ്റ് ഡീബഗ്ഗർ ഉൾക്കൊള്ളുന്നതാണ്. അത് റിയാക്ടിലും റിഡക്സിലും നിർമ്മിക്കപ്പെട്ടതും വിവിധ ബ്രൗസറുകളെ ടാർജറ്റ് ചെയ്യാൻ കഴിയുന്നതുമാണ്.
 firefox-developer-master-css-grid = മാസ്റ്റര്‍ സിഎസ്എസ് ഗ്രിഡ്ഡ്
-firefox-developer-next-gen-css-engine = അടുത്ത തലമുറ സിഎസ്എസ് എഞ്ചിന്‍
-firefox-developer-a-next-generation = അടുത്ത തലമുറ സിഎസ്എസ് എഞ്ചിന്‍
 firefox-developer-master-innovative-features = നൂതന സവിശേഷതകള്‍
 firefox-developer-want-to-be-on-the-cutting-edge = പുതുമ ആഗ്രഹിക്കുന്നുവോ?
 firefox-developer-firefox-nightly-receives = ഫയർഫോക്സ് നൈറ്റ്ലിയ്ക്ക് ദിവസേന പുതുക്കലുകൾ ലഭ്യമാവുകയും സവിശേഷതകൾ വളരെ നേരത്തെ ഉപയോഗിച്ചു നോക്കാൻ താങ്കളെ അനുവദിക്കുകയും ചെയ്യുന്നു.
-firefox-developer-firefox-quantum-includes = ഫയർഫോക്സ് ക്വാണ്ടം റസ്റ്റ് ഭാഷയിൽ എഴുതിയിട്ടുള്ള നവീനവും വേഗമേറിയതുമായ ഒരു CSS യന്ത്രം ഉൾക്കൊള്ളുന്നു.
 firefox-developer-firefox-is-the-only-browser = CSS ഗ്രിഡ് ഉപയോഗിച്ച് നിർമ്മിക്കുന്നതിനും രൂപകൽപന ചെയ്യുന്നതിനും വേണ്ടി പ്രത്യേകമായി നിർമ്മിച്ച ഉപകരണങ്ങളുള്ള ഒരേയൊരു ബ്രൗസറാണ് ഫയർഫോക്സ്. ഈ ഉപകരണങ്ങൾ നിങ്ങളെ ഗ്രിഡ്, അതുമായി ബന്ധപ്പെട്ട സ്ഥലനാമങ്ങൾ, പരിവർത്തനങ്ങൾ എന്നിവ കാണുവാനും മറ്റു പലതിനും സഹായിക്കുന്നു.
 firefox-developer-convenient-features = സൗകര്യപ്രദമായ സവിശേഷതകൾ
-firefox-developer-faster-performance = വേഗതയേറിയ പ്രകടനം
 firefox-developer-shapes-editor = രൂപങ്ങളുടെ എഡിറ്റർ
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = ഫയർഫോക്സിലെ പുതിയ ഡെവ്ടൂള്‍സുപയോഗിച്ചു് രൂപത്തിന്റെ പാത എഡിറ്റുചെയ്യാം. അത് നിങ്ങളുടെ ദൃശ്യ-എഡിറ്ററിലൂടെ നിങ്ങളുടെ ക്രമീകരണങ്ങളെ വളരെ എളുപ്പത്തിൽ ശരിയാക്കാൻ സഹായിക്കുന്നതിലൂടെ രൂപത്തിന്റെ പുറവും, ക്ലിപ്പ്-പാഡ് രൂപങ്ങളും മികച്ചതാക്കുന്നു.
 firefox-developer-firefox-devtools-has-a-brand-new = ഫയർഫോക്സിലെ പുതിയ ഡെവ്ടൂള്‍സുപയോഗിച്ചു് രൂപത്തിന്റെ പാത എഡിറ്റുചെയ്യാം. നിങ്ങള്‍ക്ക് വിഷ്വല്‍ എഡിറ്റർ ഉപയോഗിച്ച് എളുപ്പത്തില്‍ ഷാഡോ-ഔട്ട്-ലൈൻ, ക്ലിപ്പ്-പാഡ് രൂപങ്ങൾ മെച്ചപ്പെടുത്താന്‍ കഴിയും.
@@ -72,7 +67,4 @@ firefox-developer-fonts-panel = ഫോണ്ടുകളുടെ പാനൽ
 firefox-developer-the-new-fonts-panel = ഫയർഫോക്സ് DevTools ലെ പുതിയ ഫോണ്ടുകളുടെ പാനൽ ഡവലപ്പർമാർക്ക് ഒരു എലമെന്റില്‍ ഉപയോഗിച്ചിരിക്കുന്ന ഫോണ്ടുകളെക്കുറിച്ച് അവർക്കാവശ്യമായ എല്ലാ വിവരങ്ങളും വേഗത്തിൽ നല്‍കുന്നു. ഇതിൽ ഫോണ്ട് ഉറവിടം, വലുപ്പം, ശൈലി തുടങ്ങിയ മൂല്യവത്തായ വിവരങ്ങളും ഉൾപ്പെടുന്നു.
 firefox-developer-firefox-developer-edition-sends = ഫയര്‍ഫോക്സ് ഡെവലപ്പര്‍ എഡീഷന്‍ ഓട്ടോമാറ്റിക്കായി മോസില്ലയിലേക്ക് ഫീഡ്ബാക്ക് അയയ്ക്കുന്നു.
 firefox-developer-download-the-firefox-browser = ഡെവലപ്പര്‍മാര്‍ക്കുള്ള ഫയര്‍ഫോക്സ് ബ്രൌസര്‍ ഡൌണ്‍ലോഡ് ചെയ്യുക
-firefox-developer-welcome-to-the-all-new = എറ്റവും പുതിയ ഫയര്‍ഫോക്സ് ക്വാണ്ടം: ഡെവലപ്പര്‍ പതിപ്പിലേയ്ക്ക് സ്വാഗതം
 firefox-developer-firefox-has-been-rebuilt = ഫയർഫോക്സ് എന്നത്തേക്കാളും ശക്തിയേറിയതും, വേഗതയേറിയതും മിനുക്കമേറിയതുമാക്കാനായി പൂർണ്ണമായും പുനർനിർമ്മിക്കപ്പെട്ടിരിക്കുന്നു.
-firefox-developer-congrats-you-now-have-firefox = ആശംസകള്‍. നിങ്ങള്‍ക്ക് ഇപ്പോള്‍ ഫയര്‍ഫോക്സ് ക്വാണ്ടം: ഡെവലപ്പര്‍ പതിപ്പ് ഉണ്ട്.
-firefox-developer-this-isnt-just-an-update = ഇത് വെറുമൊരു അപ്ഡേറ്റ് മാത്രമല്ല. ഇതാണ് ഫയർ ഫോക്സ് ക്വാണ്ടം: വേഗതയ്കും ശക്തിക്കും വേണ്ടി തൂടക്കം മുതല്‍ ഉണ്ടാക്കിയെടുത്ത പൂതിയ ഫയര്‍ഫോക്സ്.

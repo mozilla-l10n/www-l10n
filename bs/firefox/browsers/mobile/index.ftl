@@ -21,13 +21,8 @@ browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Tražite moderan, super brz mobilni pretraživač sa funkcijama privatnosti sljedećeg nivoa? { -brand-name-firefox-focus } automatski briše svu vašu historiju pretraživanja od trenutka kada otvorite pretraživač do trenutka kada ga zatvorite.
 browsers-mobile-compare = Uporedite
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Pogledajte kako se { -brand-name-firefox } za desktop slaže sa drugim pretraživačima.
-# Obsolete string (expires 30 June 2024)
-browsers-mobile-see-how-firefox-for-desktop-stacks = Pogledajte kako { -brand-name-firefox } za desktop slaže do sedam drugih pretraživača.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Pogledajte kako se { -brand-name-firefox } za <strong>desktop</strong> slaže s drugim pretraživačima.
-# Obsolete string (expires 30 June 2024)
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = Pogledajte kako { -brand-name-firefox } za <strong>desktop</strong> slaže do sedam drugih pretraživača.
 browsers-mobile-download = Preuzmi
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

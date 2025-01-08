@@ -1,25 +1,18 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Ƴeewto baɗɗiiɗe yuɓɓo ngoo.
-firefox-all-release-notes = Konngol bayyinal
-firefox-all-need-help = Aɗa sokli ballal?
-firefox-all-which-browser-would = Hol wanngorde njiɗɗaa aawtaade?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Heɓ Ballal
-firefox-all-you-are-about-to-download = Ngon-ɗaa ko e aawtaade:
-firefox-all-browser = Wanngorde:
-firefox-all-platform = Dinndeere:
-firefox-all-language = Ɗemngal:
 firefox-all-sorry-we-couldnt-find = Njaafoɗaa, min ndonkii yiytude gaawtagol ngol ngon-ɗaa e yiylaade ngol. Tiiɗno eto kadi, walla suɓo gaawtagol e doggol les ngol.
 firefox-all-64-bit-installers = Gaafirɗe 64-bit
 firefox-all-32-bit-installers = Gaafirɗe 32-bit
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Aawto wanngorde{ -brand-name-firefox-browser } ndee e Engeleere (Amerik) e ko ɓuri ɗemɗe 90 goɗɗe
+firefox-all-check-the-system-requirements = Ƴeewto baɗɗiiɗe yuɓɓo ngoo.
+firefox-all-release-notes = Konngol bayyinal
+firefox-all-need-help = Aɗa sokli ballal?
 firefox-all-choose-which-firefox = Labo hol { -brand-name-firefox-browser } aawtoto-ɗaa e ɗemngal maa
 firefox-all-firefox-privacy-notice = Tinndinoore Suturo { -brand-name-firefox }
 firefox-all-learn-about-firefox = Ɓeydu humpito baɗte wanngorde { -brand-name-firefox }

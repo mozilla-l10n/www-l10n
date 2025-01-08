@@ -7,26 +7,16 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Få ein { -brand-name-mozilla-account } – Hald dataa dine  private, sikre og synkroniserte
-# Obsolete string
-firefox-accounts-get-a-firefox-account = Lag ein { -brand-name-firefox-account } – Hald dine data private, trygge og synkroniserte
-# Obsolete string
-firefox-accounts-securely-sync-your = Synkroniser passord, bokmerke og faner mellom einingane dine. Få ein { -brand-name-firefox-account } no - Ei innlogging - Styrke og personvern overalt.
 # HTML page description
 mozilla-accounts-securely-sync-your = Synkroniser sikkert passord, bokmerke og faner på alle einingane dine. Skaff deg ein { -brand-name-mozilla-account } no – Ei innloggning – Kraft og personvern overallt.
 firefox-accounts-enter-your-email-address = Skriv inn e-postadressa di for å kome i gang.
 firefox-accounts-already-have-an-account = Har du allereie ein konto?
 firefox-accounts-sign-in = Logg inn
-# Obsolete string
-firefox-accounts-already = Du har allereie ein { -brand-name-firefox-account }. Gratulerer!
 mozilla-accounts-already = Du har allereie ein { -brand-name-mozilla-account }. Gratulerer!
 firefox-accounts-manage = Handsam kontoen din
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Logg inn på { -brand-name-mozilla-account }-en din for å:
-# Obsolete string
-firefox-accounts-sign-in-to = Logg inn på { -brand-name-firefox-account }en din for å:
-# Obsolete string
-firefox-accounts-meet-our-family-of = Møt familien vår av personvernprodukt.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Send ei fane</a> til ei anna eining

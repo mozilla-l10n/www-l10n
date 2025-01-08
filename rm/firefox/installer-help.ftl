@@ -19,10 +19,6 @@ installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc-v2 = Va per la versiun la pli actuala. Qua è la protecziun da datas garantida automaticamain. Telechargia { -brand-name-firefox } per bloccar passa { $trackers } fastizaders.
-# Obsolete string (expires: 2024-05-14)
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Va per la versiun la pli actuala. Qua è la protecziun da datas garantida automaticamain. Telechargia { -brand-name-firefox-browser } per bloccar passa { $trackers } fastizaders.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Emprova funcziuns ch'èn quasi prontas per vegnir publitgadas en la versiun preliminara la pli stabila.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }

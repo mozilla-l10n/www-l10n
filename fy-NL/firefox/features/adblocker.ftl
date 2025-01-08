@@ -31,18 +31,6 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> is in 
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Dizze útwreidingen wurkje prima op sawol <a { $attrs1 }>{ -brand-name-firefox }desktop</a> as <a { $attrs2 }>Android</a>.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = Der is <a href="{ $url }">AdBlocker Ultimate</a>, dat jo ferlost fan alle advertinsjes, mar keapers let op. Inkelde fan jo favorite kranten en tydskriften binne ôfhinklik fan advertinsjes. As te folle minsken harren advertinsjes blokkearje gean se mooglik fallyt.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Pop-upadvertinsjes binne it meast slim. Blokkearje se mei <a href="{ $url }">Popup Blocker</a> en jo hawwe nea mear lêst fan in ferfelende pop-up.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Ien fan de meast populêre adblockers foar { -brand-name-chrome }, { -brand-name-safari } en { -brand-name-firefox } is <a href="{ $url }">AdBlock</a>. Brûk it om advertinsjes op { -brand-name-facebook }, { -brand-name-youtube } en { -brand-name-hulu } te blokkearjen.
 features-adblocker-create-a-tracker-free = Meitsje in trackerfrije sône mei ynhâldsblokkearring
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

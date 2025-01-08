@@ -18,9 +18,5 @@ page7-that-sneaky-little-button = Az az alattomos kis gomb
 page7-those-innocent-looking-f-buttons = A { -brand-name-facebook } ártatlan kinézetű F gombjai nyomon követik az internetes tevékenységét, még akkor is, ha nincs fiókja. A { -brand-name-facebook-container } blokkolja ezeket.
 page7-stay-ahead-of-hackers = Maradjon a hackerek előtt
 page7-firefox-monitor-lets-you-find-v2 = A { -brand-name-mozilla-monitor }ral megtudhatja, hogy a hackerek mit tudnak már Önről, és segít egy lépéssel előttük járni. (És ingyenes.)
-# Obsolete string
-page7-firefox-monitor-lets-you-find = A { -brand-name-firefox-monitor }ral megtudhatja, hogy a hackerek mit tudnak már Önről, és segít egy lépéssel előttük maradni. (És ingyenes.)
 page7-get-mozilla-monitor = A { -brand-name-mozilla-monitor } beszerzése
-# Obsolete string
-page7-get-firefox-monitor = { -brand-name-firefox-monitor } beszerzése
 page7-why-am-i-seeing-this = Miért látom ezt?

@@ -10,10 +10,6 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = { -brand-name-firefox } pretraživač za { -brand-name-android } je brz, siguran i privatan od prvog otvaranja.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = Budite mobilni. Budite nezavisni uz { -brand-name-firefox } za { -brand-name-android }
-# Obsolete string
-mobile-android-when-you-download = Kada preuzmete { -brand-name-firefox }, birate podržati nezavisnu tehnološku kompaniju. { -brand-name-firefox } je jedini veliki pretraživač podržan neprofitnom borbom da vam pruži više otvorenosti, transparentnosti i kontrole nad vašim životom online.
 mobile-android-get-firefox-for = Preuzmite { -brand-name-firefox } za { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Pošalji link za preuzimanje na svoj mobitel.
 mobile-android-scan-the-qr-code-to-get-started = Skenirajte QR kod da započnete

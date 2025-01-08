@@ -12,11 +12,6 @@ features-sync-access-your-firefox-bookmarks = Cael mynediad at eich nodau tudale
 features-sync-with-firefox-you-can-pick-up-where = Gyda { -brand-name-firefox } , gallwch ailgychwyn o lle y gwnaethoch adael pan fyddwch yn newid o'ch cyfrifiadur bwrdd gwaith i'ch ffôn symudol i'ch tabled. Mae { -brand-name-firefox } yn gadael i chi weld eich nodau tudalen, eich hanes pori, eich cyfrineiriau sydd wedi'u cadw a mwy, pa ddyfais bynnag rydych chi'n ei defnyddio.
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Cofrestrwch ar gyfer cyfrif { -brand-name-mozilla-account }</a> am ddim a byddwch yn gallu cydweddu'ch data ym mhob man rydych yn defnyddio { -brand-name-firefox } a chynnyrch eraill { -brand-name-mozilla }.
-# Obsolete string
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Cofrestrwch am gyfrif { -brand-name-mozilla-account }</a> am ddim a byddwch yn gallu cydweddu eich data ym mhob man rydych yn defnyddio eich porwr { -brand-name-firefox }.
-# Obsolete string
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Cofrestrwch am gyfrif { -brand-name-firefox }</a> am ddim a byddwch yn gallu cydweddu eich data ym mhob man rydych yn defnyddio eich porwr { -brand-name-firefox }.
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Mae eich holl ddata wedi'i amgryptio ar ein gweinyddion felly allwn ddim ei ddarllen - dim ond chi all gael mynediad iddo. Dydyn ni ddim yn gwerthu eich gwybodaeth i hysbysebwyr oherwydd byddai hynny'n mynd yn groes i'n <a href="{ $privacy }">addewid preifatrwydd data</a>.

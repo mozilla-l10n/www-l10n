@@ -20,11 +20,7 @@ newsletter-form-sign-up-to-receive = T’annunzia per retschaiver actualisaziuns
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Jau accept che { -brand-name-mozilla } tracta mias infurmaziuns tenor <a href="{ $url }">questas reglas da la protecziun da datas</a>
 newsletter-form-we-will-only-send-v2 = Nus ta tramettain be infurmaziuns en connex cun { -brand-name-mozilla }. Ti pos annullar l’inscripziun da tut temp.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send = Nus tramettain be infurmaziuns en connex cun { -brand-name-mozilla }.
 newsletter-form-we-will-only-send-firefox-v2 = Nus ta tramettain be infurmaziuns en connex cun { -brand-name-firefox }. Ti pos annullar l’inscripziun da tut temp.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send-firefox = Nus tramettain be infurmaziuns en connex cun { -brand-name-firefox }.
 newsletter-form-if-you-havent-previously = Sche ti has anc mai confermà in abunament d'in newsletter davart { -brand-name-mozilla } stos ti forsa ussa far quai. Controllescha sche tia posta entrada u tes filter da spam cuntegna in e-mail da nus.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + ti
 newsletter-form-get-firefox-tips = Ve a savair tips, trics e novas davart { -brand-name-firefox }

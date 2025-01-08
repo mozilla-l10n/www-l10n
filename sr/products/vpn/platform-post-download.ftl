@@ -50,14 +50,7 @@ vpn-download-faq-as-more-daily = Како се све већи део нашег
 vpn-download-faq-concealing-ip = Сакривањем ваше праве <a href="{ $ip }">IP адресе</a>: ово помаже у заштити вашег идентитета и прикривању ваше локације од сајтова које посећујете.
 vpn-download-faq-encrypting = Шифровањем вашег интернет саобраћаја: тако да нико не може да шпијунира ваше активности на мрежи.
 vpn-download-faq-working = Како да знам да VPN ради исправно?
-# Variables:
-#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
-#   $monitor (url) link to https://monitor.firefox.com/
-vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } приказује визуелне индикаторе тренутног статуса и на траци са алаткама и на почетном екрану апликације, што олакшава да видите јесу ли ваше активности на мрежи заштићене или не. Ови индикатори вам омогућавају да проверите је ли ваше прегледање приватно и безбедно. Такође, када се повежете, можете посетити <a href="{ $monitor }">https://monitor.firefox.com/</a> да видите да ли је ваша IP адреса маскирана. Погледајте <a href="{ $connected }">Како да знам да је { -brand-name-mozilla-vpn } повезан?</a> за више детаља.
 vpn-download-faq-add-device = Како да додам још један уређај?
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v2 = Додавање новог уређаја је једноставно као преузимање и инсталирање { -brand-name-mozilla-vpn } софтвера, а потом пријављивање на ваш постојећи { -brand-name-firefox-account } на новом уређају. Погледајте <a href="{ $subscription }">Како да додам уређаје у { -brand-name-mozilla-vpn } претплату</a> за више детаља.
 vpn-download-faq-best-practices = Које су најбоље праксе за VPN?
 vpn-download-faq-traffic = Ако вам је циљ да заштитите ваш интернет саобраћај уз одржавање великих брзина, увек је најбоље да изаберете сервер који је што ближе вашој физичкој локацији. Ово повећава поузданост и брзину везе јер ваш интернет саобраћај не мора да прави значајне заобилазнице пре него што стигне на одредиште на интернету.
 vpn-download-faq-experience = Ако је ваш циљ да доживите интернет као да сте негде другде у свету, изаберите ту локацију сервера и сви сајтови које посећујете ће изгледати као да сте стварно тамо.

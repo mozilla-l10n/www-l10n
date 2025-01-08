@@ -52,8 +52,6 @@ manifesto-we-are-committed-to-diverse = Elkötelezettek vagyunk egy olyan intern
 manifesto-show-your-support = Fejezze ki támogatását
 manifesto-an-internet-with-these = Az ezekkel a tulajdonságokkal rendelkező internet nem magától fog létrejönni. Az egyéneknek és szervezeteknek be kell építeniük ezeket a törekvéseket az internetes technológiákba, és az internet emberi élményébe. A { -brand-name-mozilla } Kiáltvány és Kiegészítés a { -brand-name-mozilla } elkötelezettségét fejezi ki ezen célok iránt. Célunk, hogy együtt dolgozzunk azokkal az emberekkel és szervezetekkel, akik osztják ezeket a célokat, hogy az internetet egy még jobb hellyé tegyék mindenki számára.
 manifesto-i-support-the-vision-of = Támogatom a @mozilla vízióját, a jobb és egészségesebb internetről, csatlakozol te is?
-# Obsolete string
-manifesto-share-on-twitter = Megosztás { -brand-name-twitter }en
 manifesto-share-on-x = Megosztás X-en
 manifesto-share-on-x-aria-label = Megosztás X-en (korábban Twitter)
 manifesto-our-10-principles = <strong>A mi 10</strong> alapelvünk

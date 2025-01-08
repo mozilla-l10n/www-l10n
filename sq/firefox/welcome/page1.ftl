@@ -7,22 +7,14 @@
 
 # HTML page title
 welcome-page1-more-than-a-browser-mozilla = Më shumë se një shfletues - { -brand-name-mozilla-monitor } është roja juaj për hacker-a
-# Outdated string
-welcome-page1-more-than-a-browser-firefox = Më shumë se një shfletues - { -brand-name-firefox-monitor } është roja juaj për hacker-a
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Hidhni hapin pasues në mbrojtjen e privatësisë tuaj internetore me familjen e produkteve { -brand-name-firefox }.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Jini para hacker-ave. Kontrolloni me { -brand-name-mozilla-monitor } për cenime të dhënash.
-# Obsolete string
-welcome-page1-stay-ahead-of-hackers-check = Jini paara hacker-ave. Kontrolloni me { -brand-name-firefox-monitor } për cenime të dhënash.
 welcome-page1-youre-on-track-to-stay-protected = Jeni në rrugën e duhur për të qenë të mbrojtur
 welcome-page1-youve-got-the-web-browser = Morët shfletuesin që mbron privatësinë tuaj — tani erdhi koha të merrni një roje kundër hacker-ave.
 welcome-page1-check-your-breach-report = Kontrolloni Raportin Tuaj të Cenimeve
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } ju shfaq nëse kanë rrjedhur të dhëna tuajat gjatë një cenimi të ditur të dhënash dhe ju sinjalizon në rast se ndodh në të ardhmen.
-# Obsolete string
-welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } ju shfaq nëse kanë rrjedhur të dhëna tuajat gjatë një cenimi të ditur të dhënash dhe ju sinjalizon në rast se ndodh në të ardhmen.
 welcome-page1-stay-ahead-of-hackers = Jini një hap para hacker-ave
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/

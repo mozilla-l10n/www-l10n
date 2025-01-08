@@ -13,7 +13,7 @@ what-is-firefox = { -brand-name-firefox } là gì?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = { -brand-name-firefox-browser } là trình duyệt chính duy nhất được hỗ trợ bởi tổ chức phi lợi nhuận, không bán dữ liệu cá nhân của bạn cho các nhà quảng cáo đồng thời giúp bạn bảo vệ thông tin cá nhân của mình. Tìm hiểu thêm về <a href="{ $url }">{ -brand-name-firefox-browsers }</a> và <a href="{ $url2 }">các sản phẩm khác.</a>
 how-do-i = Làm cách nào để tải xuống { -brand-name-firefox-browser }?
@@ -46,7 +46,7 @@ protecting-your-privacy = Bảo vệ quyền riêng tư của bạn là ưu tiê
 is-firefox-safe = { -brand-name-firefox } có an toàn không?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = { -brand-name-firefox } không chỉ an toàn khi sử dụng mà còn giúp giữ an toàn cho dữ liệu và thông tin cá nhân của bạn. { -brand-name-firefox-browser } tự động chặn các trình theo dõi bên thứ ba đã biết, trình theo dõi truyền thông xã hội, trình mã hóa và vân tay thu thập dữ liệu của bạn. <a href="{ $url }">Tìm hiểu thêm về quyền riêng tư trong các sản phẩm của chúng tôi.</a>
 related-questions-safe = Câu hỏi liên quan: { -brand-name-firefox } có xử lý tốt về quyền riêng tư không, { -brand-name-firefox } có an toàn không, { -brand-name-firefox } có tốt hơn cho quyền riêng tư không

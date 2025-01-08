@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = ఇప్పుడే దింపుకోండి
 download-button-free-download = ఉచిత దింపుకోలు
@@ -36,3 +36,6 @@ download-button-firefox-ios = { -brand-name-ios } కోసం <span>{ -brand-na
 download-button-firefox-privacy = { -brand-name-firefox } గోప్యత
 download-button-firefox-privacy-notice = { -brand-name-firefox } గోప్యతా నోటీసు
 download-button-download = దించుకోండి
+
+## Linux
+

@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = { -brand-name-mozilla } Məxfiliyi
@@ -22,7 +22,7 @@ privacy-index-transparency-report = Şəffaflıq Hesabatı
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Açıq Qaynaqlı proyekt olaraq şəffaflıq və açıqlıq { -brand-name-mozilla }nın bünövrə prinsiplərinin əsasıdır. Kodlarımız açıq və təftişlənəbiləndir. Tərtibat mərhələlərimiz açıqdır. Həmçinin, ikihəftəlik <a href="{ $report }">Şəffaflıq Hesabatımız</a> bu prinsiplərə olan bağlılığımızı göstərir.
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = Məxfilik siyasətimizə təklif edilmiş dəyişiklikləri nəzərdən keçirmək və müzakirə etmək üçün <a href="{ $group }">{ -brand-name-mozilla }nın idarəetmə qrupuna abunə olun</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/

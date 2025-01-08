@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/7/
@@ -17,6 +17,4 @@ page7-make-them-unfollow-you = Թույլ մի՛ տվեք, որ Ձեզ հետև�
 page7-that-sneaky-little-button = Այդ գարշահոտ փոքրիկ կոճակը
 page7-those-innocent-looking-f-buttons = { -brand-name-facebook }-ի այդ անմեղ տեսք ունեցող կոճակները հետևում են ձեր վեբ գործունեությանը, նույնիսկ եթե հաշիվ չունեք: { -brand-name-facebook-container }-ը արգելափակում է դրանք:
 page7-stay-ahead-of-hackers = Եղե՛ք հակերներից առաջ
-page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor }-ը հնարավորություն է տալիս պարզել, թե հաքերները ինչ կարող են արդեն իմանալ ձեր մասին և օգնում է ձեզ մնալ մի քայլ առաջ նրանցից: (Եվ դա անվճար է):
-page7-get-firefox-monitor = Ստացեք { -brand-name-firefox-monitor }-ը
 page7-why-am-i-seeing-this = Ինչու եմ ես սա տեսնում:

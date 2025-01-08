@@ -7,22 +7,14 @@
 
 # HTML page title
 welcome-page1-more-than-a-browser-mozilla = Больше, чем просто браузер — { -brand-name-mozilla-monitor } — это ваш дозорный против хакеров.
-# Outdated string
-welcome-page1-more-than-a-browser-firefox = Больше, чем просто браузер — { -brand-name-firefox-monitor } — это ваш дозорный против хакеров.
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Сделайте следующий шаг к защите своей приватности в Интернете с помощью семейства продуктов { -brand-name-firefox }.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Опережайте хакеров. Сделите за утечками данных с помощью { -brand-name-mozilla-monitor }.
-# Obsolete string
-welcome-page1-stay-ahead-of-hackers-check = Опережайте хакеров. Сделите за утечками данных с помощью { -brand-name-firefox-monitor }.
 welcome-page1-youre-on-track-to-stay-protected = Вы на пути к защите
 welcome-page1-youve-got-the-web-browser = У вас есть веб-браузер, защищающий вашу приватность — теперь пора обратить внимание на хакеров.
 welcome-page1-check-your-breach-report = Посмотрите свой отчёт об утечках данных
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } покажет, была ли ваша информация затронута известными утечками данных, и предупредит вас, если это произойдет в будущем.
-# Obsolete string
-welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } покажет, была ли ваша информация затронута известными утечками данных, и предупредит вас, если это произойдет в будущем.
 welcome-page1-stay-ahead-of-hackers = Будьте на шаг впереди хакеров
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/

@@ -20,11 +20,7 @@ newsletter-form-sign-up-to-receive = 订阅 { -brand-name-firefox } 每月一更
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = 我同意 { -brand-name-mozilla } 按照<a href="{ $url }">这份隐私声明</a>所述的方式处理我的信息
 newsletter-form-we-will-only-send-v2 = 我们只会向您发送与 { -brand-name-mozilla } 有关的信息。您可以随时退订。
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send = 我们只会向您发送和 { -brand-name-mozilla } 有关的信息。
 newsletter-form-we-will-only-send-firefox-v2 = 我们只会向您发送与 { -brand-name-firefox } 有关的信息。您可以随时退订。
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send-firefox = 我们只会向您发送和 { -brand-name-firefox } 有关的信息。
 newsletter-form-if-you-havent-previously = 如果您以前没有确认订阅过 { -brand-name-mozilla } 相关的新闻报，您可能需要检查您的收件箱、垃圾邮件箱或垃圾邮件过滤器，以找到我们发给您的确认邮件。
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + 您
 newsletter-form-get-firefox-tips = 获得 { -brand-name-firefox } 的技巧、提示、新闻等等

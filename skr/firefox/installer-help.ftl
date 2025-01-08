@@ -19,10 +19,6 @@ installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc-v2 = تازہ ترین حاصل کرو۔ خودکار رازداری اتھاں ہے۔ { $trackers } کنوں زیادہ ٹریکرز کوں بلاک کرݨ کیتے { -brand-name-firefox } ڈاؤن لوڈ کرو۔
-# Obsolete string (expires: 2024-05-14)
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = تازہ ترین حاصل کرو۔ خودکار رازداری اتھاں ہے۔ { $trackers } کنوں زیادہ ٹریکرز کوں بلاک کرݨ کیتے { -brand-name-firefox-browser } ڈاؤن لوڈ کرو۔
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = سبھ توں زیادہ مستحکم پری ریلیز بِلڈ وِچ ریلیز تھیوݨ والیاں خصوصیات دی جانچ کرو۔
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }

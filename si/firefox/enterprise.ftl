@@ -43,5 +43,5 @@ firefox-enterprise-sample-plist-for-configuration = <a href="{ $url }">වින
 firefox-enterprise-pkg-installer = PKG ස්ථාපකය
 firefox-enterprise-windows-32-bit = { -brand-name-windows } බිටු-32
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
 firefox-enterprise-download-firefox-esr-or-rapid = <a href="{ $firefox_all }">වෙනත් භාෂාවක් හෝ වේදිකාවක්</a> සඳහා<br> { -brand-name-firefox-esr } හෝ ශ්‍රීඝ්‍ර නිකුතුවක් බාගන්න.

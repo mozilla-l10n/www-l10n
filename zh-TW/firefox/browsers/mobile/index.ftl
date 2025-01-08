@@ -21,13 +21,8 @@ browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = 正在尋找一套精簡、速度超快，又有隱私保護功能的行動瀏覽器嗎？{ -brand-name-firefox-focus } 會自動清除您瀏覽過程中的所有瀏覽紀錄。
 browsers-mobile-compare = 比較
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = 看看 { -brand-name-firefox } 桌面版與其他瀏覽器有什麼不同。
-# Obsolete string (expires 30 June 2024)
-browsers-mobile-see-how-firefox-for-desktop-stacks = 看看 { -brand-name-firefox } 桌面版與其他七套知名瀏覽器有什麼不同。
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = 看看 { -brand-name-firefox } <strong>桌面版</strong>與其他瀏覽器有什麼不同。
-# Obsolete string (expires 30 June 2024)
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = 看看 { -brand-name-firefox } <strong>桌面版</strong>與其他七套知名瀏覽器有什麼不同。
 browsers-mobile-download = 下載
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

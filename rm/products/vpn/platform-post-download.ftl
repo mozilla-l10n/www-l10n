@@ -54,19 +54,10 @@ vpn-download-faq-working = Co poss jau savair che il VPN funcziuna?
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.mozilla.org/
 vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } mussa indicaturs visuals dal status actual, tant en la trav d’utensils sco era sin il visur da partenza da l’applicaziun. Uschia èsi simpel da vegnir a savair sche tia activitad en l’internet è protegida u betg. Quests indicaturs ta permettan da t’atschertar che tia navigaziun è privata e segirada. Ultra da quai pos ti – durant che ti es connectà – visitar <a href="{ $monitor }">https://monitor.mozilla.org/</a> per verifitgar che tia adressa IP è zuppentada. Per ulteriurs detagls, consultescha per plaschair <a href="{ $connected }">Co poss jau intervegnir sche { -brand-name-mozilla-vpn } è connectà?</a>.
-# Obsolete string
-# Variables:
-#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
-#   $monitor (url) link to https://monitor.firefox.com/
-vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } mussa indicaturs visuals dal status actual, tant en la trav d'utensils sco era sin il visur da partenza da l'applicaziun. Uschia èsi simpel da vegnir a savair sche tia activitad en l'internet è protegida u betg. Quests indicaturs ta permettan da t'atschertar che tia navigaziun è privata e segirada. Ultra da quai pos ti – durant che ti es connectà – visitar <a href="{ $monitor }">https://monitor.firefox.com/</a> per verifitgar sche tia adressa IP è zuppentada. Per ulteriurs detagls, consultescha per plaschair <a href="{ $connected }">Co poss jau intervegnir sche { -brand-name-mozilla-vpn } è connectà?</a>.
 vpn-download-faq-add-device = Co poss jau agiuntar in auter apparat?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v3 = Agiuntar in ulteriur apparat pos ti simplamain cun telechargiar ed installar la software { -brand-name-mozilla-vpn } e lura s’annunziar en tes { -brand-name-mozilla-account } existent sin il nov apparat. Per ulteriurs detagls, consultescha per plaschair <a href="{ $subscription }">Co agiuntar apparats a tes abunament da { -brand-name-mozilla-vpn }</a>.
-# Obsolete string
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v2 = Agiuntar in ulteriur apparat pos ti simplamain cun telechargiar ed installar la software { -brand-name-mozilla-vpn } e lura s'annunziar en tes { -brand-name-firefox-account } existent sin il nov apparat. Per ulteriurs detagls, consultescha per plaschair <a href="{ $subscription }">Co agiuntar apparats a tes abunament da { -brand-name-mozilla-vpn }</a>.
 vpn-download-faq-best-practices = Datti tschertas praticas recumandadas en connex cun il diever dad in VPN?
 vpn-download-faq-traffic = Sch'igl è tia finamira da proteger tes traffic cun l'internet ed a medem mument mantegnair ina buna sveltezza, èsi recumandabel da tscherner in server ch'è uschè datiers da tia posiziun fisica sco pussaivel. Quai augmenta la reliabilitad e la sveltezza da tia connexiun cunquai che tes traffic cun l'internet na sto betg far in detur pli grond avant che arrivar a sia destinaziun previsa en il web.
 vpn-download-faq-experience = Sch'igl è tia finamira da pertschaiver l'internet sco sche ti fissas en in'autra part dal mund, lura pos ti tscherner in server en il lieu giavischà e tut las websites che ti visitas vegnan visualisadas sco sche ti fissas là.

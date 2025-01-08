@@ -17,7 +17,7 @@ new-platform-advanced-install-options = Papildomos diegimo parinktys ir kitos pl
 new-platform-download-in-another = Parsisiųsti kita kalba
 new-platform-need-help = Reikia pagalbos?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = Parsisiųskite „{ -brand-name-mozilla } { -brand-name-firefox }“ „{ -brand-name-linux }“ kompiuteriams
 # /firefox/linux/ HTML page description

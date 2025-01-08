@@ -13,7 +13,7 @@ what-is-firefox = Что такое { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = { -brand-name-firefox-browser(case: "nominative_uppercase") } — единственный популярный браузер, поддерживаемый некоммерческой организацией, которая не продаёт ваши данные рекламодателям, при этом помогая вам защищать свою личную информацию. Подробнее о <a href="{ $url }">{ -brand-name-firefox-browsers(case: "prepositional") }</a> и <a href="{ $url2 }">других продуктах</a>.
 how-do-i = Как мне загрузить { -brand-name-firefox-browser }?
@@ -46,7 +46,7 @@ protecting-your-privacy = Защита вашей приватности — н�
 is-firefox-safe = { -brand-name-firefox } безопасен?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = { -brand-name-firefox } не только безопасен в использовании, но также помогает защитить ваши данные и личную информацию. { -brand-name-firefox-browser(case: "nominative_uppercase") } автоматически блокирует известные сторонние трекеры, трекеры социальных сетей, криптомайнеры и сборщики цифровых отпечатков. <a href="{ $url }">Подробнее о приватности в наших продуктах</a>.
 related-questions-safe = Связанные вопросы: подходит ли { -brand-name-firefox } для защиты приватности?; безопасен ли { -brand-name-firefox }?; { -brand-name-firefox } лучше защищает мою приватность?

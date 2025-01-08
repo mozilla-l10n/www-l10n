@@ -9,11 +9,6 @@ moz-account-promo-title = Jedno prihlásenie. <br> <span { $class }>Celá</span>
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
 moz-account-already-have-v2 = Už máte účet? <a { $sign_in_url }>Prihláste sa</a> alebo <a { $learn_more_url }>získajte ďalšie informácie</a> o tom, ako sa pripojiť k { -brand-name-mozilla(case: "dat") }.
-# Obsolete string (expires: 2024-09-12)
-# Variables
-#   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
-moz-account-already-have = Už máte účet? <a { $sign_in_url }>Prihláste sa</a> alebo <a { $learn_more_url }>získajte viac informácií</a> o { -brand-name-mozilla(case: "loc") }
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
 moz-account-product-pocket = { -brand-name-pocket }

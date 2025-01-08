@@ -11,10 +11,6 @@ features-index-firefox-browser-features = Značilnosti brskalnika { -brand-name-
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } je hiter, lahkoten in na zasebnost osredotočen brskalnik, ki deluje na vseh vaših napravah.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } postaja hitrejši in hitrejši
 features-index-the-latest-browser-speed-benchmarks = Najnovejše meritve hitrosti brskalnikov dokazujejo, da je { -brand-name-firefox } hitrejši kot kdajkoli prej.
-# Obsolete string
-features-index-is-firefox-a-fast-browser = Ali je { -brand-name-firefox } hiter brskalnik?
-# Obsolete string
-features-index-firefox-uses-less-memory-than = { -brand-name-firefox } porablja manj pomnilnika kot Chrome, kar omogoča drugim programom, da delujejo s polno hitrostjo.
 features-index-is-firefox-a-private-browser = Ali je { -brand-name-firefox } zaseben brskalnik?
 features-index-were-focused-on-your-right-to = Osredotočeni smo na vašo pravico do zasebnosti. Vaši podatki, spletna dejavnost in življenje na internetu so v { -brand-name-firefox(sklon: "mestnik") } varni.
 features-index-free-password-manager = Brezplačen upravitelj gesel
@@ -42,7 +38,5 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } samodejno 
 features-index-ditch-the-sticky-ads = Otresite se oglasov, ki so se prilepili na vas, z vgrajenim zavračanjem sledilcev prstnega odtisa v { -brand-name-firefox(sklon: "mestnik") }.
 features-index-translate-the-web = Prevedite splet
 features-index-translate-websites-to-your = Prevedite spletne strani v svoj jezik neposredno v { -brand-name-firefox(sklon: "rodilnik") } – ne da bi morali podatke deliti s komerkoli.
-# Obsolete string
-features-index-translate-more-than = Prevedite strani iz preko 100 jezikov v svoj jezik neposredno v brskalniku { -brand-name-firefox } – preprosteje kot kdajkoli prej.
 features-index-picture-in-picture = Slika v sliki
 features-index-got-things-to-do = Imate opravke, čeprav bi raje gledali videoposnetke? { -brand-name-firefox }ova možnost slike v sliki vam omogoča oboje hkrati.

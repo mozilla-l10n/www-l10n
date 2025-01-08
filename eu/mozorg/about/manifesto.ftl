@@ -52,7 +52,6 @@ manifesto-we-are-committed-to-diverse = Guztien onuraren alde lan egiten duten k
 manifesto-show-your-support = Erakutsi zure babesa
 manifesto-an-internet-with-these = Ezaugarri hauek dituen Internet bat ez da jaioko bakarrik. Norbanakoek eta erakundeek asmo hauek barneratu behar dituzte Interneten teknologian eta Internetekiko giza esperientzian. { -brand-name-mozilla } Manifestuak eta Addendumak asmo hauek aurrera eramateko { -brand-name-mozilla }k duen konpromisoa adierazten dute. Helburu hauekin bat egiten duten mundu osoko pertsona eta erakundeekin batera lan egiteko xedea daukagu, Internet guztiontzako are leku hobea bilaka dadin.
 manifesto-i-support-the-vision-of = Internet hobe eta osasuntsuago bati buruz @mozilla-k duen ikuspegiarekin bat egiten dut, eta zuk?
-manifesto-share-on-twitter = Zabaldu { -brand-name-twitter }-en
 manifesto-our-10-principles = <strong>Gure 10</strong> printzipioak
 manifesto-read-the-entire-manifesto = Irakurri manifestu osoa
 manifesto-love-the-web = Web maite duzu?

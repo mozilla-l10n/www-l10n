@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -19,19 +19,6 @@ manifesto-08 = 08
 manifesto-09 = 09
 manifesto-10 = 10
 manifesto-our-10-principles = <strong>Na 10</strong> prionnsabalan againn
-manifesto-use-open-badges-to-share = Cleachd baidsean fosgailte a nochdas do sgilean 's na rudan a tha ùidh agad annta
-manifesto-learn-about-open-source = Fàs eòlach air na nì còd fosgailte ann an saoghal nan naidheachdan
-manifesto-see-how-mozilla-works = Faic mar a chuireas { -brand-name-mozilla } do phrìobhaideachd an teis-mheadhan rudan
-manifesto-read-about-developments = Leugh mu na tha ùr ann an saoghal na prìobhaideachd is tèarainteachd dàta
-manifesto-learn-more-about-how-to = Barrachd fiosrachaidh air rudan a chumas sàbhailte thu air loidhne
-manifesto-add-new-voices-to-open = Guthan ùra ann an saoghal teicneolas a' chòd fhosgailte
-manifesto-set-your-do-not-track = Suidhich na roghainnean tracachaidh agad
-manifesto-learn-how-to-remix-content = Mar a mheasgaichear susbaint airson rudeigin ùr a chruthachadh
-manifesto-participate-in-our-governance = Gabh pàirt san fhòram riaghlachais againn
-manifesto-join-us-as-a-volunteer = Gabh pàirt mar shaor-thoiliche
-manifesto-learn-how-to-collaborate = Mar a nithear co-obrachadh air loidhne
-manifesto-host-or-join-a-maker-party = Mar a chumas tu { -brand-name-maker-party } no mar a ghabhas tu pàirt ann
-manifesto-learn-how-to-build-online = Mar a dh'ionnsaicheas tu sgilean co-obrachaidh air loidhne
 manifesto-read-the-entire-manifesto = Leugh am manifesto air fad
 manifesto-details-the-mozilla-manifesto = Manifesto { -brand-name-mozilla }
 manifesto-details-introduction = Ro-ràdh

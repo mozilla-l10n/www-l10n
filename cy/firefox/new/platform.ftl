@@ -17,7 +17,7 @@ new-platform-advanced-install-options = Dewisiadau gosod uwch a llwyfannau erail
 new-platform-download-in-another = Llwytho i lawr mewn iaith arall
 new-platform-need-help = Angen cymorth?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = Llwytho i lawr { -brand-name-mozilla } { -brand-name-firefox } ar gyfer { -brand-name-linux }
 # /firefox/linux/ HTML page description

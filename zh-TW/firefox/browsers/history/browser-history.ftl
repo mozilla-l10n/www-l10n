@@ -31,7 +31,7 @@ browser-history-the-browser-wars = 瀏覽器大戰
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = 來到 1995 年，{ -brand-name-netscape } Navigator 不是唯一一套能夠用來上網的瀏覽器。電腦軟體巨擘 { -brand-name-microsoft } 取得了舊版 Mosaic 的程式碼，並且開發出自己的產品 <a href="{ $ie }">{ -brand-name-ie }</a>。瀏覽器推出後引發了戰爭。{ -brand-name-netscape } 與 { -brand-name-microsoft } 竭盡全力為各自的產品推出新版本，並且嘗試透過更快、更好的產品來超越對方。
 # Variables:
-#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = { -brand-name-netscape } 推出了 JavaScript，讓各個網站能夠擁有以往從未存在的強大運算能力。（他們還發明惡名昭彰的 <a href="{ $blink }">&lt;blink&gt;標籤</a>。）而 { -brand-name-microsoft } 一方也反對後來成為網頁設計標準的層疊樣式表（CSS）。
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1

@@ -11,8 +11,6 @@ firefox-products-mozilla-products = A { -brand-name-mozilla } termékei
 firefox-products-mozillas-family-of-products = A { -brand-name-mozilla } termékcsalád arra készült, hogy Ön nagyobb biztonságban legyen, és hatékonyabb legyen online
 firefox-products-products = Termékek
 firefox-products-firefox-beginning-v2 = A { -brand-name-firefox } csak a kezdet.
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = A { -brand-name-firefox } csak a kezdet
 firefox-products-mozillas-family-of-products-sentence = A { -brand-name-mozilla } termékcsalád arra készült, hogy Ön nagyobb biztonságban legyen, és hatékonyabb legyen online.
 
 ## Firefox
@@ -67,6 +65,4 @@ firefox-products-analyze = Egy webcím elemzése
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content-v2 = Fedezze fel a web legjobb tartalmait – és fogyassza bárhol és bármikor. A { -brand-name-mozilla } készítette.
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = Fedezze fel a web legjobb tartalmait – és fogyassza bárhol és bármikor.
 firefox-products-get-pocket = A { -brand-name-pocket } beszerzése

@@ -5,22 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+# Used as an accessible label for a help button. The text is replaced with a "?" icon.
+firefox-all-get-help = সহায়তা পান
+firefox-all-sorry-we-couldnt-find = দুঃখিত, আপনি যে ডাউনলোডটি সন্ধান করছেন তা আমরা খুঁজে পাই নি। দয়া করে আবার চেষ্টা করুন অথবা নিচের তালিকা থেকে একটি ডাউনলোড নির্বাচন করুন।
+firefox-all-64-bit-installers = 64-bit ইনস্টলার
+firefox-all-32-bit-installers = 32-bit ইনস্টলার
 firefox-all-check-the-system-requirements = সিস্টেমের আবশ্যকীয়তা যাচাই করুন
 firefox-all-release-notes = রিলিজ নোট
 firefox-all-source-code = সোর্স কোড
 firefox-all-need-help = সাহায্য প্রয়োজন?
-firefox-all-which-browser-would = আপনি কোন ব্রাউজারটি ডাউনলোড করতে চান?
-# Used as an accessible label for a help button. The text is replaced with a "?" icon.
-firefox-all-get-help = সহায়তা পান
-firefox-all-you-are-about-to-download = আপনি ডাউনলোড করতে চলেছেন:
-firefox-all-browser = ব্রাউজার:
-firefox-all-platform = প্লাটফর্ম:
-firefox-all-language = ভাষা:
-firefox-all-sorry-we-couldnt-find = দুঃখিত, আপনি যে ডাউনলোডটি সন্ধান করছেন তা আমরা খুঁজে পাই নি। দয়া করে আবার চেষ্টা করুন অথবা নিচের তালিকা থেকে একটি ডাউনলোড নির্বাচন করুন।
-firefox-all-64-bit-installers = 64-bit ইনস্টলার
-firefox-all-32-bit-installers = 32-bit ইনস্টলার
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = { -brand-name-firefox-browser } ইংরেজী (মার্কিন) এবং 90 টিরও বেশি অন্যান্য ভাষায় ডাউনলোড করুন
 firefox-all-choose-which-firefox = কোন ভাষায় আপনার { -brand-name-firefox-browser } ডাউনলোড করবেন তা নির্বাচন করুন
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } গোপনীয়তা বিজ্ঞপ্তি
 firefox-all-learn-about-firefox = { -brand-name-firefox } ব্রাউজারগুলি সম্পর্কে জানুন

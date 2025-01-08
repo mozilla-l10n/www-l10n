@@ -27,10 +27,6 @@ firefox-new-need-help = ¿Necesitas ayuda?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ya no proporciona actualizaciones de seguridad</a> en { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }, pero aún puedes usar { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Estás utilizando un sistema operativo inseguro, obsoleto y que <a href="{ $url }">{ -brand-name-firefox } ya no admite</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -45,8 +41,6 @@ firefox-new-please-follow = Por favor, sigue <a href="{ $url }">estas instruccio
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Tu sistema puede no tener los requerimientos para { -brand-name-firefox }, pero puedes intentar con alguna de <a href="{ $url }">estas versiones</a>.
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Si ves un mensaje indicando que la aplicación que estás intentando instalar no es una aplicación verificada de { -brand-name-microsoft }, haz clic en “Instalar de todas formas” o en <a { $attrs }>cambia los ajustes de recomendación de aplicaciones</a>.
@@ -63,4 +57,3 @@ firefox-new-fast = Rápido, privado y gratuito
 firefox-new-from-mozilla = de { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } es un navegador web gratuito con carga rápida de páginas, menor uso de memoria y muchas características - un proyecto de la organización sin fines de lucro { -brand-name-mozilla }.
 firefox-new-download-a-different = Descargar para una plataforma o idioma diferente
-firefox-new-taskbar = { -brand-name-firefox } estará fijado en la barra de tareas de { -brand-name-windows } después de la instalación

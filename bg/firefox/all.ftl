@@ -5,21 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = Изтеглете { -brand-name-firefox-browser } на английски или на някой от другите 90 езика
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = Всеки заслужава достъп до интернет – езикът никога не трябва да бъде пречка. Ето защо, с помощта на отдадени доброволци по целия свят, правим { -brand-name-firefox-browser } достъпен на повече от 90 езика.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = Сканирайте QR, за да получите <em>{ $product_name }</em>
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Получете помощ
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = Мрежов четец:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = Платформа:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = Език:
 firefox-all-lang-multi = Множество езици
 firefox-all-the-pre-alpha-version = Предварителното алфа издание за напреднали потребители, които обичат да ловуват сривове и да изпробват нови възможности, още по време на тяхната разработка.
 firefox-all-64-bit-installers = 64-битови инсталатори

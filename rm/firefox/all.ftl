@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Telechargia { -brand-name-firefox } per rumantsch e dapli che 90 autras linguas
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = Telechargia il { -brand-name-firefox-browser } per rumantsch (u passa 90 autras linguas)
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Mintgin merita dad avair access a l’internet — tia lingua na duess mai esser ina barriera. Perquai mettain nus a disposiziun { -brand-name-firefox } — cun agid da voluntaris passiunads da tut il mund — en passa 90 linguas.
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = Mintgin ha merità dad avair access a l'internet — en sia atgna lingua. Perquai stat il { -brand-name-firefox-browser } — grazia a la lavur da voluntaris — a disposiziun per rumantsch e passa 90 autras linguas.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = Scannescha il code QR per ir per <em>{ $product_name }</em>
@@ -26,14 +22,8 @@ firefox-all-change-language = Tscherna in’autra lingua
 firefox-all-down-arrow = Tscherna da la glista sutvart
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Ir per agid
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = Navigatur:
 firefox-all-browser-v2 = 1. Navigatur:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = Plattafurma:
 firefox-all-platform-v2 = 2. Plattafurma:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = Lingua:
 firefox-all-language-v2 = 3. Lingua:
 firefox-all-download = 4. Telechargiar:
 firefox-all-desktop = Desktop

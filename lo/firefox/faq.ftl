@@ -13,7 +13,7 @@ what-is-firefox = { -brand-name-firefox } ແມ່ນຫຍັງ?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = { -brand-name-firefox-browser } ເປັນບຣາວເຊີໃຫຍ່ອັນດຽວທີ່ສະໜັບສະໜູນໂດຍອົງການບໍ່ຫວັງຜົນກຳໄລທີ່ບໍ່ຂາຍຂໍ້ມູນສ່ວນຕົວຂອງເຈົ້າໃຫ້ກັບຜູ້ໂຄສະນາ ໃນຂະນະທີ່ຊ່ວຍເຈົ້າປົກປ້ອງຂໍ້ມູນສ່ວນຕົວຂອງເຈົ້າ. ສຶກສາເພີ່ມເຕີມກ່ຽວກັບ <a href="{ $url }">{ -brand-name-firefox-browsers } </a> ແລະ <a href="{ $url2 }">ຜະລິດຕະພັນອື່ນໆ.</a>
 how-do-i = ຂ້ອຍຈະເອົາ { -brand-name-firefox-browser } ໄດ້ແນວໃດ?
@@ -46,7 +46,7 @@ protecting-your-privacy = ການ​ປົກ​ປ້ອງ​ຄວາມ​
 is-firefox-safe = { -brand-name-firefox } ປອດໄພບໍ?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = ບໍ່ພຽງແຕ່ { -brand-name-firefox } ປອດໄພທີ່ຈະໃຊ້, ມັນຍັງຊ່ວຍຮັກສາຂໍ້ມູນ ແລະຂໍ້ມູນສ່ວນຕົວຂອງທ່ານໃຫ້ປອດໄພ. { -brand-name-firefox-browser } ອັດຕະໂນມັດຈະບລັອກຕົວຕິດຕາມພາກສ່ວນທີສາມທີ່ຮູ້ຈັກ, ຕົວຕິດຕາມສື່ສັງຄົມ, cryptominers ແລະເຄື່ອງພິມລາຍນິ້ວມືຈາກການເກັບກຳຂໍ້ມູນຂອງທ່ານ. <a href="{ $url }">ສຶກສາເພີ່ມເຕີມກ່ຽວກັບຄວາມເປັນສ່ວນຕົວໃນຜະລິດຕະພັນຂອງພວກເຮົາ.</a>
 related-questions-safe = ຄໍາຖາມທີ່ກ່ຽວຂ້ອງ: ແມ່ນ { -brand-name-firefox } ທີ່ດີສໍາລັບຄວາມເປັນສ່ວນຕົວ, ແມ່ນ { -brand-name-firefox } ປອດໄພ, ແມ່ນ { -brand-name-firefox } ດີກວ່າສໍາລັບຄວາມເປັນສ່ວນຕົວ

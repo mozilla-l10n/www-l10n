@@ -41,5 +41,3 @@ footer-refresh-community-participation-guidelines = Pravidlá pre prispievanie
 footer-refresh-about-this-site = O tejto stránke
 footer-refresh-all-languages = Všetky jazyky
 footer-refresh-language = Jazyk
-footer-refresh-primary-nav-aria-label = Primárna päta
-footer-refresh-secondary-nav-aria-label = Sekundárna päta

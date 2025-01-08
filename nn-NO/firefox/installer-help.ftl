@@ -16,10 +16,6 @@ installer-help-action-choose = Vel nedlasting nedanfor.
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
-# Obsolete string (expires: 2024-05-14)
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Få det nyaste. Automatisk personvern er her. Last ned { -brand-name-firefox-browser } for å blokkere over { $trackers } sporarar.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Test komande funksjonar i den meste stabile av dei tidlige utgjevingane.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }

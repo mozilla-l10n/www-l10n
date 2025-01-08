@@ -8,17 +8,10 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Отримати { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Долучитись до списку очікування
-vpn-shared-sign-in-link = Уже передплатили?
 vpn-shared-available-countries-v6 = Зараз ми пропонуємо { -brand-name-mozilla-vpn } в Австрії, Бельгії, Болгарії, Канаді, Хорватії, Кіпрі, Чехії, Данії, Естонії, Фінляндії, Франції, Німеччині, Угорщині, Ірландії, Італії, Латвії, Литві, Люксембурзі, Малайзії, Мальті, Нідерландах, Новій Зеландії, Польщі, Португалії, Румунії, Сінгапурі, Словенії, Словаччині, Іспанії, Швеції, Швейцарії, Великій Британії та США.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Гарантоване повернення коштів упродовж 30 днів
-# This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
-vpn-shared-featured-in = Рекомендовано в
 vpn-shared-features-encrypt = Шифрування на рівні пристрою
-# Variables:
-#   $servers (number) - number of available servers
-#   $countries (number) - number of available countries
-vpn-shared-features-servers = Понад { $servers } серверів у понад { $countries } країнах
 vpn-shared-features-bandwidth = Необмежена пропускна здатність
 vpn-shared-features-activity = Без журналювання ваших дій мережі
 vpn-shared-features-activity-logs = Журналів дій в Інтернеті немає й не буде
@@ -26,22 +19,8 @@ vpn-shared-features-activity-logs = Журналів дій в Інтернет�
 #   $countries (number) - number of available countries
 vpn-shared-features-access-countries = Доступ до серверів у понад { $countries } країнах
 # Variables:
-#   $devices (number) - maximum number of connected devices
-vpn-shared-features-devices = Можливість під'єднання до { $devices } пристроїв
-# Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-protection = Захист до { $devices } пристроїв
-# Variables:
-#   $servers (number) - number of available servers
-#   $countries (number) - number of available countries
-vpn-shared-features-server-countries = Під’єднуйтесь до більш ніж { $servers } серверів, що перебувають у понад { $countries } країнах
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-countries-coming-soon = Зараз доступно в { $countries } країнах. Незабаром з’явиться більше регіонів
-# Variables:
-#   $url (number) - link to https://mullvad.net/servers/
-#   $attrs (string) - specific attributes added to external links
-vpn-shared-features-full-list-servers = Перегляньте наш повний список <a href="{ $url }" { $attrs }>серверів</a>.
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-strong-servers = Надійні сервери у понад { $countries } країнах
@@ -50,20 +29,13 @@ vpn-shared-features-strong-servers = Надійні сервери у понад
 vpn-shared-features-connect = Під'єднайте до { $devices } пристроїв
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = Гарантоване повернення коштів упродовж 30 днів
-vpn-shared-refund-policy = Політика повернення коштів
 vpn-shared-privacy-notice = Положення про приватність
 vpn-shared-terms-conditions = Правила та умови
 vpn-shared-wireguard-copyright = { -brand-name-wireguard } — це зареєстрована торговельна марка Джейсона А. Доненфельда
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
-vpn-shared-pricing-variable-heading-v2 = Виберіть для себе найкращий тарифний план
-vpn-shared-one-subscription-heading = Одна передплата на всі ваші пристрої
-vpn-shared-choose-a-plan-sub-heading = Оберіть план, який вам підходить
-vpn-shared-pricing-variable-sub-heading = Усі наші плани включають:
 vpn-shared-pricing-recommended-offer = Рекомендовано
-vpn-shared-pricing-plan-12-month-v2 = 12-місячний тарифний план
-vpn-shared-pricing-plan-monthly-v2 = Місячний тарифний план
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/month</span>
@@ -71,8 +43,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/month + податок</span>
-vpn-shared-pricing-get-12-month-v2 = Отримати 12-місячний тарифний план
-vpn-shared-pricing-get-monthly = Отримати щомісячний план
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = Заощаджуйте { $percent }%
@@ -91,65 +61,21 @@ vpn-shared-pricing-total = Усього { $amount }
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total-plus-tax = Усього { $amount } + податок
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } ще не доступна у вашій країні
 
 # Platform subpage shared strings
 
 vpn-shared-platform-cta-headline = Розпочнімо
 vpn-shared-platform-cta-button = Переглянути ціни та доступність
 vpn-shared-platform-privacy-promise = Ваша приватність — це наша обіцянка
-vpn-shared-platform-trust-partner-headline = Про нашого надійного партнера
 vpn-shared-platform-what-is = Що таке { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Чому { -brand-name-mozilla-vpn }?
-# Variables:
-#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
-#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
-vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } працює на всесвітній мережі серверів, що працює на <a href="{ $policy }">{ -brand-name-mullvad }</a> за допомогою протоколу <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } ставить вашу приватність на перше місце і не веде жодних журналів.
 vpn-shared-platform-what-youll-get = Що ви отримаєте за допомогою { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
-vpn-subnav-whats-a-vpn = Що таке VPN?
-vpn-subnav-faqs = Поширені запитання
-vpn-subnav-get-help = Отримати допомогу
-vpn-subnav-platform-android = { -brand-name-android }
-vpn-subnav-platform-desktop = Для комп'ютера
-vpn-subnav-platform-ios = { -brand-name-ios }
-vpn-subnav-platform-linux = { -brand-name-linux }
-vpn-subnav-platform-mac = { -brand-name-mac-short }
-vpn-subnav-platform-mobile = Для мобільного
-vpn-subnav-platform-windows = { -brand-name-windows }
-vpn-subnav-whats-an-ip-address = Що таке IP-адреса?
-vpn-subnav-when-to-use-a-vpn = Коли використовувати VPN
-vpn-subnav-vpn-vs-proxy = VPN чи проксі
-vpn-subnav-subscribe = Передплатити { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Дізнайтеся більше про VPN
 vpn-subnav-download-mozilla-vpn = Завантажити { -brand-name-mozilla-vpn }
 vpn-subnav-features = Можливості
-
-## VPN Affiliate cookie notice
-
-# Variables:
-#   $attrs (string) - link to https://www.mozilla.org/privacy/websites/ with additional attributes.
-vpn-shared-affiliate-notification-message = Ми використовуємо файли cookie, щоб зрозуміти, який афілійований партнер привів вас до { -brand-name-mozilla-vpn }. Ми не передаємо особисту інформацію нашим партнерам. Прочитайте нашу <a { $attrs }>Політику приватності</a>.
-vpn-shared-affiliate-notification-reject = Відхилити
-vpn-shared-affiliate-notification-ok = OK
-
-## VPN + Relay bundle offer
-
-vpn-shared-increase-your-privacy = Посильте свою приватність за допомогою { -brand-name-vpn } + { -brand-name-relay }
-# Variables:
-#   $url (string) - link to https://relay.firefox.com/premium/
-vpn-add-relay-to-protect = Додайте { -brand-name-firefox-relay } до своєї передплати, щоб захистити свою електронну пошту та номер телефону. <a href="{ $url }">Докладніше</a>.
-# Variables:
-#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
-vpn-shared-add-firefox-relay = Додати <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
-vpn-shared-relay-email-masking = Маскування електронної пошти
-vpn-shared-relay-phone-masking = Маскування номера телефону
-vpn-shared-get-vpn-plus-relay = Отримати { -brand-name-vpn } + { -brand-name-relay }
-vpn-shared-why-bundle = Чому пакет?
-# Variables:
-#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
-vpn-shared-save-on-relay-premium = <span>Заощадьте { $percent }%</span> на річному тарифному плані { -brand-name-relay-premium }
-vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } ще не доступна у вашій країні
 
 ## Press quotations
 

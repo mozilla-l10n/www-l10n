@@ -52,10 +52,6 @@ download-a-different-build = Scarica un’altra versione
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = Scarica per { -brand-name-linux } a 32 bit
-# Obsolete string
-download-button-linux-64 = Scarica per { -brand-name-linux } a 64 bit
 download-button-linux-32-v2 = Scarica per Linux a 32 bit
 download-button-linux-64-v2 = Scarica per Linux a 64 bit
 # Variables

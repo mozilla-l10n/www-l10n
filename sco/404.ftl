@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/404/
@@ -12,9 +12,6 @@ not-found-page-go-back = Gang Back
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Lairn</a> aboot { -brand-name-mozilla }, the no-fur-profit ahint { -brand-name-firefox }.
-# Variables:
-#   $explore (url) - link to https://www.mozilla.org/firefox/
-not-found-page-explore-the-entire-family-for = <a href={ $explore }>Stravaig</a> the hale faimily fur { -brand-name-firefox } products shapit tae tak tent o yer privacy.
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Doonload</a> the { -brand-name-firefox } stravaiger fur yer mobile device or desktap

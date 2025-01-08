@@ -18,8 +18,6 @@ vpn-ip-address-does-it-travel = IP 地址是与您本人关联的吗？
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
 vpn-ip-address-no-your-ip-v2 = 非也。除非您使用 VPN，否则您的 IP 地址只会与每个位置相关联（我们稍后会详细介绍）。您在家中连接付费互联网时，使用了一个 IP 地址。然而，您早上在家查收电子邮件，接着在咖啡店等待咖啡时浏览新闻，之后到办公室工作。事实上，您在这三个位置使用的 IP 地址都是不同的。
-# Outdated string
-vpn-ip-address-no-your-ip = 非也。除非您<a href="{ $url }">使用 VPN</a>，否则您的 IP 地址只会与每个位置相关联（我们稍后会详细介绍）。您在家中连接付费互联网时，使用了一个 IP 地址。然而，您早上在家查收电子邮件，接着在咖啡店等待咖啡时浏览新闻，之后到办公室工作。事实上，您在这三个位置使用的 IP 地址都是不同的。
 vpn-ip-address-does-your-ip = 您的 IP 地址会变化吗？
 vpn-ip-address-yes-even-if = 是的。即使您只在家中使用互联网，您家的 IP 地址也有可能发生变化。您可以联系您的互联网服务提供商（ISP）进行更改。此外，因互联网连接问题而重新启动调制解调器或路由器等常规操作也可能导致 IP 地址发生变更。
 vpn-ip-address-can-more-than = 多台设备是否可以有相同的 IP 地址？
@@ -45,9 +43,3 @@ vpn-ip-address-how-do-you = 如何隐藏它？
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30". The + after indicates the number may be higher, where "30+" means "30 or more".
 vpn-ip-address-a-vpn-is-v2 = VPN 是隐藏 IP 地址的一种方法。 <a href="{ $vpn }">当您使用 VPN</a> 时，您的外部 IP 地址将变为 VPN 服务器的外部 IP，而不再是您所在位置的外部 IP 地址。因此，如果您连接的 VPN 服务器位于加利福尼亚州，则无论您实际身在何处，您的外部 IP 都使你看起来确实是位于加利福尼亚州。此外，您的在线活动将通过加密、安全的连接发送到您的 VPN 服务器，为您提供额外的安全性和隐私保护。 <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 是隐藏 IP 地址的一种方法。我们不会保留您的活动日志或与第三方分析平台合作，可为多至五台设备提供全方位保护。配合位于 { $countries }+ 个国家/地区的服务器，您可以从天涯连接到海角。
-# Obsolete string
-# Variables
-#   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30". The + after indicates the number may be higher, where "30+" means "30 or more".
-vpn-ip-address-a-vpn-is = VPN 是隐藏 IP 地址的一种方法。 <a href="{ $vpn }">当您使用 VPN</a> 时，您的外部 IP 地址将变为 VPN 服务器的外部 IP，而不再是您所在位置的外部 IP 地址。因此，如果您连接的 VPN 服务器位于加利福尼亚州，则无论您实际身在何处，您的外部 IP 都使你看起来确实是位于加利福尼亚州。此外，您的在线活动将通过加密、安全的连接发送到您的 VPN 服务器，为您提供额外的安全性和隐私保护。 <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> 是隐藏 IP 地址的一种方法。我们不会保留活动日志或与第三方分析平台合作，可为多至五台设备提供全方位保护。配合位于 { $countries }+ 个国家/地区的服务器，您可以从天涯连接到海角。

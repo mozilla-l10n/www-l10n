@@ -56,11 +56,3 @@ vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Gyors, biztonságos,
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a-v3 = A <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> egy olyan szolgáltatás, amelyben megbízhat, és amellyel minden eszközén biztonságban tudja az internetkapcsolatát. Nem tároljuk a hálózati tevékenységének naplóit, és nem működünk együtt olyan harmadik felekkel, akik profilokat készítenek arról, hogy mit csinál az interneten. Egy olyan világban, ahol a kiszámíthatatlanság vált az „új normává”, tudjuk, hogy minden eddiginél fontosabb, hogy biztonságban érezze magát, és hogy tudja, hogy amit online csinál, az csak a saját dolga.
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a-v2 = A <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> egy olyan szolgáltatás, amelyben megbízhat, és amellyel minden eszközén biztonságban tudja az internetkapcsolatát. Nem tároljuk a hálózati tevékenységének naplóit, és nem működünk együtt olyan harmadik felekkel, akik profilokat készítenek arról, hogy mit csinál az interneten. Egy olyan világban, ahol a kiszámíthatatlanság vált az „új normává”…
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a = A <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> egy olyan szolgáltatás, amelyben megbízhat, és amellyel minden eszközén biztonságban tudja az internetkapcsolatát. Nem tároljuk a felhasználó adatainak naplóit, és nem működünk együtt olyan harmadik felű analitikai platformokkal, akik profilokat készítenek arról, hogy mit csinál az interneten. Egy olyan világban, ahol a kiszámíthatatlanság vált az „új normává”, tudjuk, hogy minden eddiginél fontosabb, hogy biztonságban érezze magát, és hogy tudja, hogy amit online csinál, az csak a saját dolga.

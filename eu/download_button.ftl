@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Deskargatu orain
 download-button-free-download = Doako deskarga
@@ -38,3 +38,6 @@ download-button-firefox-android = <span>{ -brand-name-firefox }</span> { -brand-
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name-ios }erako
 download-button-firefox-privacy = { -brand-name-firefox }en pribatutasuna
 download-button-download = Deskargatu
+
+## Linux
+

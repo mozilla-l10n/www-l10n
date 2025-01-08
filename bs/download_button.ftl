@@ -52,10 +52,6 @@ download-a-different-build = Preuzmite drugu verziju
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = Preuzmite { -brand-name-linux } 32-bit
-# Obsolete string
-download-button-linux-64 = Preuzmite { -brand-name-linux } 64-bit
 download-button-linux-32-v2 = Preuzmite za 32-bitni Linux
 download-button-linux-64-v2 = Preuzmite za 64-bitni Linux
 # Variables

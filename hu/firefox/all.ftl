@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Töltse le a { -brand-name-firefox(case: "accusative") } magyarul és több mint 90 egyéb nyelven
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = Töltse le a { -brand-name-firefox-browser(case: "acc") } magyarul és több mint 90 egyéb nyelven
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Mindenki megérdemli az internethez való hozzáférést – és a nyelvtudás nem lehet akadály. Ezért tesszük elérhetővé – a világ minden táján lévő elkötelezett önkéntesek segítségével – a { -brand-name-firefox(case: "accusative") } több mint 90 nyelven.
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = Mindenki megérdemli az internethez való hozzáférést – és a nyelvtudás nem lehet akadály. Ezért tesszük elérhetővé – a világ minden táján lévő elkötelezett önkéntesek segítségével – a { -brand-name-firefox-browser(case: "acc") } több mint 90 nyelven.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = Olvassa le a QR-kódot a <em>{ $product_name }</em> beszerzéséhez
@@ -26,14 +22,8 @@ firefox-all-change-language = Másik nyelv választása
 firefox-all-down-arrow = Válasszon a lenti listából
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Segítség
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = 1. Böngésző:
 firefox-all-browser-v2 = 1. Böngésző:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = 2. Platform:
 firefox-all-platform-v2 = 2. Platform:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = 3. Nyelv:
 firefox-all-language-v2 = 3. Nyelv:
 firefox-all-download = 4. Letöltés:
 firefox-all-desktop = Asztali

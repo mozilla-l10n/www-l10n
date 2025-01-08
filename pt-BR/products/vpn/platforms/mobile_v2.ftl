@@ -12,12 +12,6 @@ vpn-mobile-in-todays = Atualmente, com o mundo focado em dispositivos móveis, d
 vpn-mobile-why-do-i = Por que preciso de uma VPN no celular?
 vpn-mobile-the-mozilla-vpn = O aplicativo para dispositivos móveis { -brand-name-mozilla-vpn } é leve, não consome muita memória e não deixa o celular mais lento nem esgota a bateria.
 vpn-mobile-your-internet-v2 = Seu provedor de serviços de internet pode limitar sua largura de banda se souber que você está assistindo a filmes, ouvindo música ou fazendo streaming.
-# Obsolete string
-vpn-mobile-your-internet = Seu provedor de serviços de internet pode limitar sua largura de banda se souber que você está assistindo a filmes, ouvindo música ou fazendo streaming.
 vpn-mobile-your-isp-v2 = Seu provedor de serviços de internet pode bloquear sites ou serviços de que não gostem ou que sejam seus concorrentes.
-# Obsolete string
-vpn-mobile-your-isp = Seu provedor de serviços de internet pode bloquear sites ou serviços de que não gostem ou que sejam seus concorrentes.
 vpn-mobile-hackers-can-steal-v2 = Hackers podem roubar seus dados pessoais quando você estiver usando uma rede pública de WiFi, como em cafeterias ou aeroportos.
-# Obsolete string
-vpn-mobile-hackers-can-steal = Hackers podem roubar seus dados pessoais quando você estiver usando uma rede pública de WiFi, como em cafeterias ou aeroportos.
 vpn-mobile-a-vpn-works = Uma VPN funciona em seu dispositivo todo, não apenas no navegador, mas também em outros aplicativos móveis. Diferente de VPNs gratuitas ou sites de proxy, que podem pagar por seus servidores espionando você e vendendo suas informações, a { -brand-name-mozilla } não mantém registros de onde você vai nem do que você faz.

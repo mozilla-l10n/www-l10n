@@ -13,14 +13,6 @@ password-manager-firefox-securely-stores-your = O { -brand-name-firefox } armaze
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Com uma <a { $fxa }>{ -brand-name-mozilla-account }</a> gratuita, você pode sincronizar suas senhas com segurança em todos os seus dispositivos. Você também pode acessar todos os outros produtos da { -brand-name-mozilla } que respeitam a privacidade.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account = Com uma <a href="{ $fxa }">{ -brand-name-mozilla-account } gratuita</a>, você pode sincronizar com segurança suas senhas em todos os seus dispositivos.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-firefox-account = Com uma <a href="{ $fxa }">conta { -brand-name-firefox }</a> gratuita, você pode sincronizar com segurança suas senhas em todos os seus dispositivos.
 password-manager-password-autofill-for-easy-logins = Preenchimento automático de senhas para entrar em contas com facilidade
 password-manager-firefox-can-automatically-fill-in = O { -brand-name-firefox } pode preencher automaticamente seus nomes de usuário e senhas salvos. Se você tiver mais de uma conta em um site, basta selecionar a conta que quer usar e nós cuidamos do resto.
 # Used as an accessible text alternative for an image

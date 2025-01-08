@@ -19,10 +19,6 @@ installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc-v2 = Αποκτήστε την πιο πρόσφατη έκδοση. Το αυτόματο απόρρητο είναι εδώ. Κάντε λήψη του { -brand-name-firefox } για να αποκλείσετε πάνω από { $trackers } ιχνηλάτες.
-# Obsolete string (expires: 2024-05-14)
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Αποκτήστε την πιο πρόσφατη έκδοση. Αυτόματο απόρρητο. Κάντε λήψη του { -brand-name-firefox-browser } για φραγή πάνω από { $trackers } ιχνηλατών.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Δοκιμάστε τις έτοιμες προς έκδοση λειτουργίες στην πιο σταθερή έκδοση πριν από την τελική.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }

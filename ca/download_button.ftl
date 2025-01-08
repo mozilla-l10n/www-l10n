@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Baixa'l ara
 download-button-free-download = Baixada gratuïta
@@ -39,3 +39,6 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> per a l'{ -br
 download-button-firefox-privacy = Privadesa del { -brand-name-firefox }
 download-button-firefox-privacy-notice = Avís de privadesa del { -brand-name-firefox }
 download-button-download = Baixa'l
+
+## Linux
+

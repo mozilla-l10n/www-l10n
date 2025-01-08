@@ -40,12 +40,6 @@ firefox-desktop-download-blocks-social-trackers = ປິດກັ້ນຜູ້
 firefox-desktop-download-os-availability = ຄວາມພ້ອມຂອງ OS
 firefox-desktop-download-in-browser-screenshot = ເຄື່ອງມື screenshot ໃນຕົວທ່ອງເວັບ
 firefox-desktop-download-primary-password = ລະຫັດຜ່ານຫຼັກ
-# Obsolete string
-firefox-desktop-love-your-life = ຮັກຊີວິດອອນໄລນ໌ຂອງເຈົ້າ
-# Obsolete string
-firefox-desktop-its-your-internet = ມັນແມ່ນອິນເຕີເນັດຂອງເຈົ້າ. ສີມັນຕາມທີ່ທ່ານຕ້ອງການດ້ວຍເຄື່ອງມື, ຮູບແບບສີສັນ ແລະສ່ວນຂະຫຍາຍຫຼາຍພັນອັນ. { -brand-name-firefox } ແມ່ນຕົວທ່ອງເວັບທາງເລືອກຕົ້ນສະບັບທີ່ເຮັດໃຫ້ຄົນມາກ່ອນກໍາໄລ.
-# Obsolete string
-firefox-desktop-download-master-password = ລະຫັດຜ່ານຫຼັກ
 firefox-desktop-download-we-block-the-ad = ພວກເຮົາສະກັດຕົວຕິດຕາມການໂຄສະນາ. ເຈົ້າຄົ້ນຫາອິນເຕີເນັດໄວຂຶ້ນ.
 firefox-desktop-download-ads-are-distracting = ໂຄສະນາລົບກວນແລະເຮັດໃຫ້ຫນ້າເວັບໂຫຼດຊ້າລົງໃນຂະນະທີ່ຜູ້ຕິດຕາມຂອງພວກເຂົາເບິ່ງທຸກໆການເຄື່ອນໄຫວທີ່ທ່ານເຮັດອອນໄລນ໌. { -brand-name-firefox-browser } ບລັອກຕົວຕິດຕາມສ່ວນໃຫຍ່ໂດຍອັດຕະໂນມັດ, ສະນັ້ນບໍ່ຈຳເປັນຕ້ອງເຈາະເຂົ້າໄປໃນການຕັ້ງຄ່າຄວາມປອດໄພຂອງທ່ານ.
 firefox-desktop-download-see-your-report = ເບິ່ງບົດລາຍງານການປົກປ້ອງຂອງທ່ານ
@@ -134,9 +128,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ຖືກ
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = ເມື່ອອິນເຕີເນັດເຕີບໃຫຍ່ ແລະປ່ຽນແປງ, { -brand-name-firefox } ຍັງສືບຕໍ່ເນັ້ນໃສ່ສິດທິສ່ວນຕົວຂອງເຈົ້າ - ພວກເຮົາເອີ້ນວ່າ <a { $attrs }>ສັນຍາຂໍ້ມູນສ່ວນຕົວ</a>: ໃຊ້ໜ້ອຍລົງ. ຮັກສາຄວາມປອດໄພ. ບໍ່ມີຄວາມລັບ. ຂໍ້​ມູນ​ຂອງ​ທ່ານ, ກິດ​ຈະ​ກໍາ​ເວັບ​ໄຊ​ຕ​໌​ຂອງ​ທ່ານ, ຊີ​ວິດ​ອອນ​ໄລ​ນ​໌​ຂອງ​ທ່ານ​ໄດ້​ຮັບ​ການ​ປົກ​ປ້ອງ​ດ້ວຍ { -brand-name-firefox }.
 # Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } ມີຢູ່ໃນທຸກອຸປະກອນຂອງທ່ານ; ເອົາແຖບ, ປະຫວັດ ແລະບຸກມາກຂອງທ່ານໄປນຳ. ທັງໝົດທີ່ທ່ານຕ້ອງການແມ່ນບັນຊີ <a { $attrs }>{ -brand-name-firefox }</a>.
-# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = ຈັບພາບຄວາມລະອຽດສູງຂອງທຸກຢ່າງອອນລາຍດ້ວຍເຄື່ອງມື <a { $attrs }>screenshot</a> ຂອງພວກເຮົາທີ່ສ້າງຂຶ້ນໃນ browser
 # Variables:
@@ -145,13 +136,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ອັ�
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ຄໍາຖາມ? <a { $attrs }>{ -brand-name-mozilla } ສະຫນັບສະຫນູນ</a> ທ່ານໄດ້ກວມເອົາ.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = ທ່ານມີຕົວທ່ອງເວັບແລ້ວ. ຕອນນີ້ໄດ້ຮັບເພີ່ມເຕີມຈາກ { -brand-name-firefox }.
-firefox-desktop-download-watch-for-hackers-with-v2 = ເຝົ້າລະວັງແຮກເກີດ້ວຍ { -brand-name-firefox-monitor }, ປົກປ້ອງທີ່ຢູ່ອີເມວຂອງທ່ານດ້ວຍ { -brand-name-firefox-relay }, ແລະອື່ນໆອີກ.
-# Outdated string
-firefox-desktop-download-watch-for-hackers-with = ເຝົ້າລະວັງແຮກເກີດ້ວຍ { -brand-name-firefox-monitor }, ປົກປ້ອງລະຫັດຜ່ານດ້ວຍ { -brand-name-firefox-lockwise }, ແລະອື່ນໆອີກ.
-firefox-desktop-download-get-more-from-firefox = ຮັບຂໍ້ມູນເພີ່ມເຕີມຈາກ { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = ພຽງແຕ່ດາວໂຫລດບຣາວເຊີ
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -167,8 +151,6 @@ firefox-desktop-download-now-mac = ດຽວນີ້ <strong>ເປີດ</stro
 firefox-desktop-download-get-help = ມີບັນຫາບໍ? <a { $attrs }>ຂໍຄວາມຊ່ວຍເຫຼືອໃນການຕິດຕັ້ງຂອງທ່ານ</a>.
 firefox-desktop-download-in-another-language = ດາວໂຫລດເປັນພາສາອື່ນຫຼືສໍາລັບລະບົບປະຕິບັດການອື່ນ.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = ຖ້າ​ຫາກ​ທ່ານ​ເຫັນ​ການ​ກະ​ຕຸ້ນ​ທີ່​ລະ​ບຸ​ວ່າ app ທີ່​ທ່ານ​ພະ​ຍາ​ຍາມ​ຕິດ​ຕັ້ງ​ບໍ່​ແມ່ນ app { -brand-name-microsoft }-verified app, click “Install anyway” ຫຼື <a { $attrs }>ປ່ຽນ​ການ​ຕັ້ງ​ຄ່າ​ການ​ແນະ​ນໍາ app</a >.
@@ -176,10 +158,6 @@ firefox-desktop-download-visit-support-for-more = ເຂົ້າໄປເບິ
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ບໍ່ມີການອັບເດດຄວາມປອດໄພອີກຕໍ່ໄປ</a> ຢູ່ໃນ { -brand-name-windows } { -brand-name-xp } ຫຼື { -brand-name-vista }, ແຕ່ທ່ານຍັງສາມາດໃຊ້ { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = ທ່ານ​ກຳ​ລັງ​ໃຊ້​ລະ​ບົບ​ປະ​ຕິ​ບັດ​ການ​ທີ່​ບໍ່​ປອດ​ໄພ, ລ້າ​ສະ​ໄໝ <a href="{ $url }">ບໍ່​ໄດ້​ຮັບ​ການ​ຮອງ​ຮັບ​ໂດຍ { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -193,4 +171,3 @@ firefox-desktop-download-please-follow = ກະລຸນາເຮັດຕາມ
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = ລະບົບຂອງທ່ານອາດຈະບໍ່ຕອບສະໜອງໄດ້ຂໍ້ກຳນົດຂອງ { -brand-name-firefox }, ແຕ່ທ່ານສາມາດລອງໃຊ້ <a href="{ $url }">ເວີຊັນເຫຼົ່ານີ້</a>.
-firefox-desktop-download-taskbar = { -brand-name-firefox } ຈະຖືກປັກໝຸດໃສ່ແຖບໜ້າວຽກ { -brand-name-windows } ຫຼັງຈາກການຕິດຕັ້ງ

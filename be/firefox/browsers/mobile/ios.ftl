@@ -7,12 +7,7 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } для { -brand-name-ios } ({ -brand-name-iphone } і { -brand-name-ipad })
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = Браўзер { -brand-name-firefox } для { -brand-name-ios } — хуткі, бяспечны і прыватны з першага запуску.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-mobile-ios-get-automatic-privacy = Атрымайце аўтаматычную прыватнасць на сваіх { -brand-name-iphone } і { -brand-name-ipad }
 mobile-ios-get-firefox-for = Атрымайце { -brand-name-firefox } для { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Адправіць спасылку для сцягвання на свой тэлефон.
 mobile-ios-scan-the-qr-code-to-get-started = Скануйце QR-код, каб пачаць сцягванне
@@ -31,14 +26,8 @@ mobile-ios-get-to-your-go-to = Хутчэй дабірайцеся да улюб
 mobile-ios-see-your-open-tabs = Праглядайце ўсе свае адкрытыя карткі, нядаўнія пошукавыя запыты і ўлюбёныя сайты ў адным месцы з { -brand-name-firefox-browser } для { -brand-name-ios }.
 mobile-ios-own-your-home = Наладжвайце свой хатні экран
 mobile-ios-get-to-the-parts = Знаходзьце тое, што вас цікавіць у Інтэрнэце, хутчэй. Абірайце прагляд усіх адкрытых картак, нядаўніх пошукавых запытаў, закладак і ўлюбёных сайтаў у адным месцы.
-# Obsolete string
-mobile-ios-add-firefox-across = Дадайце { -brand-name-firefox } на ўсе свае прылады для бяспечнага бесперапыннага аглядання. { -brand-name-sync } іх, каб улюбёныя закладкі, захаваныя лагіны, паролі і гісторыя аглядання заўсёды былі з вамі, куды б вы ні адправіліся. Больш за тое — перасылайце адкрытыя карткі паміж тэлефонам і камп'ютарам, каб працягваць адтуль, дзе спыніліся.
 mobile-ios-find-it-all = Знаходзьце ўсё хутчэй
 mobile-ios-get-search-suggestions = Атрымлівайце пошукавыя прапановы ў панэлі пошуку і хутка адкрывайце сайты, якія наведваеце найчасцей. Увядзіце пошукавы запыт і атрымайце прапановы і папярэднія вынікі ад вашых улюбёных пошукавых сістэм.
-# Obsolete string
-mobile-ios-keep-tabs-on = Кантралюйце ўсе карткі
-# Obsolete string
-mobile-ios-create-as-many = Стварыце колькі заўгодна картак, не губляючы кантролю. { -brand-name-firefox } паказвае вашыя адкрытыя карткі ў выглядзе мініяцюр і нумаруе іх, што дазваляе хутка знаходзіць патрэбныя.
 mobile-ios-discover-more-of = Знаходзьце больше цікавага
 mobile-ios-open-a-new = Адкрыйце новую картку ў { -brand-name-firefox }, каб убачыць сайты, якія вы часцей за ўсё наведваеце, нядаўнія закладкі і папулярныя артыкулы ў { -brand-name-pocket }. { -brand-name-firefox } дае вам хуткі доступ да нядаўна наведаных сайтаў, каб паскорыць пошук патрэбных.
 mobile-ios-about-mozilla = Пра { -brand-name-mozilla }

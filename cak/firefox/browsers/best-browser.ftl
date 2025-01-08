@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -26,9 +26,6 @@ best-browser-there-are-a-few-ways = Jun okik'amaya'l nitikïr nub'än k'ïy rich
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = Chuqa', nito'on toq man yeruyäk ta k'ïy taq kitzij winäq. Ri kematz'ib'il taq ajjak, man yetikïr ta nikeleq'aj ri man k'o ta, ruma ri' toq ri { -brand-name-firefox } xa jub'a' ok ri nuyäk. <a href="{ $data }">{ -brand-name-firefox } retaman</a> we nawokisaj ri okik'amaya'l chuqa' akuchi' at k'o wi, <a href="{ $privacy }"> po man retaman ta rub'i' ri awawäj toq at ak'wal, ni xa ta ri b'onil jeb'ël natz'ët.</a>
 best-browser-last-but-not-least = Pa ruk'isib'äl, jun jikïl okik'amaya'l k'o ta chi nuya' taq samajib'äl richin ye'atz'ët ri rub'i' ataqoya'l. Taq'ijuj pa kiwi' ri taq kitzijol k'ayewal ye'ak'ul pa taqoya'l we jun chi ke ri rub'i' ataqoya'l xtz'iläx, o chuqa' ri taq wachib'äl nikiya' rutzijol chawe we jun ruxaq ewan rusik'isik (re re', jun jeb'ël na'oj richin nanïm ri rajlab'al ach'utiwuj pa jun ruxaq richin loq'oj o mani).
-# Variables:
-# $monitor (url) - link to https://monitor.firefox.com
-best-browser-firefox-is-offering = { -brand-name-firefox } nusüj jun k'ak'a' wachinäq pa ruwi' ri jikomal: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. Jun sipan samaj ri nuya' rutzijol we xb'an eleq' pa jun ataqoya'l chuqa' we etz'ilan chik. Jun chik samajib'äl ja ri Räx Tz'apib'äl. Achi'el jun ch'uti räx wachib'äl ajsik pa rajxokon ri rutzuwäch okik'amaya'l. We at k'o pa { -brand-name-firefox } chuqa' natz'ët ri räx tz'apib'äl, nuq'ajuj chi ri ruxaq ewan rusik'ixik chuqa' jikïl. We chaj ri tz'apib'äl, ütz ta ri nana'ojij ka'i' mul we natz'ib'aj awetamab'al.
 best-browser-we-visit-hundreds-or = Pa jun q'ij k'ïy taq ajk'amaya'l ruxaq nitz'et, o chuqa' janila. Man oyob'en ta chi ri okisanela' nikich'öb' rij ri jikomal chuqa' richinanem chi kijujunal. Ruma ri' k'atzinel jun okik'amaya'l janila nichajin: ri nuya' jun qitzij chajinïk chuqa' k'o rejqalem.
 best-browser-a-browser-that-minds = Jun okik'amaya'l man nuju' ta ri' pa ri asamaj.
 best-browser-privacy-on-the-web = Ri ichinanem pan ajk'amaya'l yalan k'ayew. We re re' k'o pan rucholajem arayb'al, k'atzinel nakanoj jun okik'amaya'l ri nuya' rejqalem. Toq nacha' jun okik'amaya'l ri nukamelaj ri awichinanem, takanoj ri runa'ojil ojqanem chuqa' ri rub'eyal nusamajij ri taq atzij. Achi'el yalan etamab'äl nrajo', po ruma ri' toq jujun taq okik'amaya'l yalan nikikamelaj ri awichinanem chi kiwäch ch'aqa' chik.

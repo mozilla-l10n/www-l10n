@@ -52,10 +52,6 @@ download-a-different-build = 下载不同版本
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = 下载 { -brand-name-linux }（32 位）
-# Obsolete string
-download-button-linux-64 = 下载 { -brand-name-linux }（64 位）
 download-button-linux-32-v2 = 下载适用于 Linux（32 位）的版本
 download-button-linux-64-v2 = 下载适用于 Linux（64 位）的版本
 # Variables

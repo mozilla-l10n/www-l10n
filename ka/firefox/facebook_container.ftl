@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -12,18 +12,11 @@ facebook-container-get-the-facebook-container = { -brand-name-facebook-container
 facebook-container-download-firefox-and-get-the = ჩამოტვირთეთ { -brand-name-firefox } და მიიღეთ { -brand-name-facebook-container } გაფართოება
 facebook-container-only-available-for-desktop = გაფართოება { -brand-name-facebook-container } ჯერჯერობით მხოლოდ კომპიუტერის { -brand-name-firefox }-ზეა ხელმისაწვდომი.
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = ეწვიეთ ბმულს <a href="{ $url }">{ $link_copy }</a> { -brand-name-firefox }-ის კომპიუტერზე გადმოსაწერად.
-# Outdated string
-facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } არაა ხელმისაწვდომი მობილურ მოწყობილობებზე.
 facebook-container-get-firefox-android-ios = გადმოწერეთ { -brand-name-firefox } { -brand-name-android }-სა და { -brand-name-ios }-ზე ახლავე.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = გამოცადეთ <strong>{ -brand-name-firefox-focus }</strong>, პირადი ბრაუზერი { -brand-name-android } და { -brand-name-ios } მოწყობილობებისთვის.
 facebook-container-opt-out-on-your-terms = წამოაყენეთ თქვენი საკუთარი პირობები
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

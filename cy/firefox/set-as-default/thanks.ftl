@@ -22,10 +22,6 @@ set-as-default-thanks-youre-all-set = Rydych chi nawr yn barod.
 set-as-default-thanks-get-firefox-for-mobile = Cael { -brand-name-firefox } ar gyfer symudol
 set-as-default-thanks-travel-the-internet-with = Teithiwch y rhyngrwyd gyda diogelwch, ar eich holl ddyfeisiau.
 set-as-default-thanks-download-the-app = Llwytho'r ap i lawr
-# Obsolete string
-set-as-default-thanks-join-firefox = Ymunwch â { -brand-name-firefox }
-# Obsolete string
-set-as-default-thanks-sign-up-for-a-free-account = Cofrestrwch i gael cyfrif am ddim a chydweddu'ch holl gyfrineiriau, hanes pori, a'ch dewisiadau ar draws eich dyfeisiau.
 set-as-default-create-an-account = Creu cyfrif
 set-as-default-thanks-sign-up-for-a-free-account-v2 = Cofrestrwch i gael cyfrif { -brand-name-mozilla-account } a chydweddu'ch holl gyfrineiriau, hanes pori a'ch dewisiadau ar eich holl ddyfeisiau.
 # Account here refers to a Firefox Account

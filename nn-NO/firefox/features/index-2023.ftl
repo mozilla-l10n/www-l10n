@@ -11,10 +11,6 @@ features-index-firefox-browser-features = { -brand-name-firefox } nettlesarfunks
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } er den raske, lette, personvernfokuserte nettlesaren som fungerer på alle einingane dine.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } vert heile tida raskare
 features-index-the-latest-browser-speed-benchmarks = Dei siste måleverdiane for fart i nettlesaren viser at { -brand-name-firefox } er raskare enn nokon gong.
-# Obsolete string
-features-index-is-firefox-a-fast-browser = Er { -brand-name-firefox } ein rask nettlesar?
-# Obsolete string
-features-index-firefox-uses-less-memory-than = { -brand-name-firefox } brukar mindre minne enn Chrome, slik at dei andra programma dine kan halde fram med å køyre med toppfart.
 features-index-is-firefox-a-private-browser = Er { -brand-name-firefox } ein privat nettlesar?
 features-index-were-focused-on-your-right-to = Vi fokuserer på din rett til personvern. Dine data, din nettaktivitet, ditt liv på nettet vert verna med { -brand-name-firefox }.
 features-index-free-password-manager = Gratis passordhandsamar
@@ -42,7 +38,5 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } blokkerer 
 features-index-ditch-the-sticky-ads = Ta bort dei klistrete annonsane som følgjer deg med { -brand-name-firefox } sin innebygde fingeravtrykkblokkerar.
 features-index-translate-the-web = Omset nettet
 features-index-translate-websites-to-your = Omset nettstadar til ditt språk direkte i { -brand-name-firefox } – utan å dele dataa dine med nokon annan.
-# Obsolete string
-features-index-translate-more-than = Omset frå meir enn 100 språk til ditt språk direkte i { -brand-name-firefox }-nettlesaren din — enklare än någonsin.
 features-index-picture-in-picture = Bilde-i-bilde
 features-index-got-things-to-do = Har du noko å gjere og noko å sjå på? Dra nytte av bilde-i-bilde-funksjonen i { -brand-name-firefox }.

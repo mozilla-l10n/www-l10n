@@ -41,5 +41,3 @@ footer-refresh-community-participation-guidelines = Rjochtlinen foar dielnimming
 footer-refresh-about-this-site = Oer dizze website
 footer-refresh-all-languages = Alle talen
 footer-refresh-language = Taal
-footer-refresh-primary-nav-aria-label = Primêre foettekst
-footer-refresh-secondary-nav-aria-label = Sekundêre foettekst

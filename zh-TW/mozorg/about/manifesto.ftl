@@ -52,8 +52,6 @@ manifesto-we-are-committed-to-diverse = 我們致力於讓網際網路變成能�
 manifesto-show-your-support = 展現您的支持
 manifesto-an-internet-with-these = 這樣的網際網路並不會自動出現。每個人與組織都必須將他們的渴望放進網路科技及上網體驗。{ -brand-name-mozilla } 宣言及增修條款展現了 { -brand-name-mozilla } 對這些抱負的承諾，我們致力於與世界各地有相同目標的人們與組織一同合作，讓網際網路成為對每一個人都變得更好的地方。
 manifesto-i-support-the-vision-of = 我支持 @mozilla 要打造一個更好、更健康的網際網路環境的遠見，想與我一起加入嗎？
-# Obsolete string
-manifesto-share-on-twitter = 分享到 { -brand-name-twitter }
 manifesto-share-on-x = 分享到 X
 manifesto-share-on-x-aria-label = 分享到 X（原 Twitter）
 manifesto-our-10-principles = 我們的 <strong>10</strong> 個信條

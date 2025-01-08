@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = 下載 { -brand-name-firefox } 正體中文版。另外還有超過 90 種語言版本。
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = 下載 { -brand-name-firefox-browser }正體中文版，另外還有超過 90 種語言版本。
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = 不論使用哪種語言，每個人都應該有上網的權利。這也就是為什麼我們要透過全球志工的協助，推出超過 90 種語言版本的 { -brand-name-firefox }。
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = 不論使用哪種語言，每個人都應該有上網的權利。這也就是為什麼我們要透過全球志工的協助，推出超過 90 種語言版本的 { -brand-name-firefox-browser }。
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = 掃描 QR Code下載 <em>{ $product_name }</em>
@@ -26,14 +22,8 @@ firefox-all-change-language = 請選擇另一種語言
 firefox-all-down-arrow = 請從下列清單中選擇
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = 取得幫助
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = 1. 瀏覽器：
 firefox-all-browser-v2 = 1. 瀏覽器：
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = 2. 平台：
 firefox-all-platform-v2 = 2. 平台：
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = 3. 語言：
 firefox-all-language-v2 = 3. 語言：
 firefox-all-download = 4. 下載：
 firefox-all-desktop = 桌面版

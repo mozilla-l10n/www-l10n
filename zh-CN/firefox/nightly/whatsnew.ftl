@@ -14,13 +14,9 @@ nightly-whatsnew-every-4-to-5-weeks = { -brand-name-firefox } 每隔 4 至 5 周
 nightly-whatsnew-this-is-a-good = 非常感谢您帮助我们打造更好的 { -brand-name-firefox }。在此为您提供一些文档、沟通渠道以及 { -brand-name-nightly } 相关的消息网站。
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = 如果您想了解 { -brand-name-nightly } 及其社区的动态，不妨阅读我们的<a { $blog }>博客</a>，并在 <a { $mastodon }>Mastodon</a> 或 <a { $twitter }>X</a> 上关注我们！
-# Variables:
-#   $attrs (string) - link href and additional attributes
-# Obsolete string (expires: 2024-11-26)
-nightly-whatsnew-want-to-know-which-v2 = 想要了解 { -brand-name-nightly } 在测试哪些尚未登陆其他 { -brand-name-firefox } 版本的功能？去看看 <a { $attrs }>Nightly 实验</a> 页面吧。
 # Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v3 = 想要了解 { -brand-name-nightly } 在测试哪些尚未登陆其他 { -brand-name-firefox } 版本的功能？去看看 <a { $attrs }>{ -brand-name-firefox-labs }</a>页面吧。

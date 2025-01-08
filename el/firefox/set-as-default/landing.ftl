@@ -9,9 +9,7 @@
 set-as-default-landing-make-firefox-your-default = Ορισμός του { -brand-name-firefox } ως προεπιλογή
 # HTML page description
 set-as-default-landing-choose-the-browser = Επιλέξτε το πρόγραμμα περιήγησης που προστατεύει το απόρρητό σας. Ορίστε το { -brand-name-firefox } ως το προεπιλεγμένο πρόγραμμα περιήγησής σας.
-# Obsolete string
 set-as-default-landing-thanks-for-using-the = Σας ευχαριστούμε που χρησιμοποιείτε το πιο πρόσφατο { -brand-name-firefox }. Όταν επιλέγετε το { -brand-name-firefox }, υποστηρίζετε ένα καλύτερο διαδίκτυο για εσάς και τους άλλους χρήστες. Κάντε τώρα το επόμενο βήμα για να προστατευτείτε.
-# Obsolete string
 set-as-default-landing-make-sure-youre-protected = Βεβαιωθείτε ότι προστατεύεστε, κάθε φορά που συνδέεστε στο διαδίκτυο
 set-as-default-landing-you-should-get = Θα πρέπει να έχετε λόγο για τον τρόπο περιήγησής σας
 set-as-default-landing-if-you-recently = Εάν ενημερώσατε πρόσφατα τον υπολογιστή σας, οι ρυθμίσεις σας ενδέχεται να έχουν αλλάξει. Υποστηρίξτε ένα ελεύθερο και ανοικτό διαδίκτυο κάθε φορά που συνδέεστε σε αυτό, με το { -brand-name-firefox }.

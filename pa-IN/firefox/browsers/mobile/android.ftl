@@ -10,10 +10,6 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = { -brand-name-android } ਲਈ { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਤੇਜ਼, ਸੁਰੱਖਿਅਤ ਅਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਇਹ ਪਹਿਲੀ ਵਾਰ ਖੋਲ੍ਹਣ ਵੇਲੇ ਤੋਂ ਹੀ ਪ੍ਰਾਈਵੇਟ ਹੈ।
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = ਮੋਬਾਈਲ ਵਰਤੋਂ। { -brand-name-android } ਲਈ { -brand-name-firefox } ਵਰਤੋਂ
-# Obsolete string
-mobile-android-when-you-download = ਜਦੋਂ ਤੁਸੀਂ { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਆਜ਼ਾਦ ਤਕਨੀਕੀ ਕੰਪਨੀ ਨੂੰ ਸਹਿਯੋਗ ਦਿੰਦੇ ਹੋ। ਸਿਰਫ਼ { -brand-name-firefox } ਹੀ ਗ਼ੈਰ-ਫਾਇਦਾ ਕੰਪਨੀ ਵਲੋਂ ਵੱਡਾ ਬਰਾਊਜ਼ਰ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਆਜ਼ਾਦ, ਪਾਰਦਰਸ਼ੀ ਅਤੇ ਤੁਹਾਡੀ ਆਨਲਾਈਨ ਜ਼ਿੰਦਗੀ ਤੁਹਾਡੇ ਹੱਥ ਵਿੱਚ ਦਿੰਦਾ ਹੈ।
 mobile-android-get-firefox-for = { -brand-name-android } ਲਈ { -brand-name-firefox } ਲਵੋ
 mobile-android-send-a-download-link-to-your = ਆਪਣੇ ਫ਼ੋਨ ਉੱਤੇ ਡਾਊਨਲੋਡ ਲਿੰਕ ਭੇਜੋ।
 mobile-android-scan-the-qr-code-to-get-started = ਸ਼਼ੁਰੂ ਕਰਨ ਲਈ QR ਕੋਡ ਸਕੈਨ ਕਰੋ

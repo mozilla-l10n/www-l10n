@@ -8,8 +8,6 @@
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest-v2 = 恭喜！您已經安裝了最新版的 { -brand-name-firefox-developer-edition }。
-# Obsolete string (expires: 2024-05-14)
-developer-mdnplus-congrats-you-now-have-latest = 恭喜您，{ -brand-name-firefox-browser } { -brand-name-developer-edition } 更新完成。
 # Main title
 developer-mdnplus-more-mdn-your-mdn = 更多 { -brand-name-mdn }。<em>你獨特的</em> { -brand-name-mdn }。
 developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } 是一套開放原始碼、撰寫 Web 平台，包含 CSS、HTML、JavaScript 及各種 Web API 技術文件的協作專案。我們也針對學生及初階開發者提供一系列的學習資源。

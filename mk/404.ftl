@@ -13,8 +13,5 @@ not-found-page-go-back = Оди назад
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }"> Дознајте </a> за { -brand-name-mozilla }, непрофитната организација која стои позади { -brand-name-firefox }.
 # Variables:
-#   $explore (url) - link to https://www.mozilla.org/firefox/
-not-found-page-explore-the-entire-family-for = <a href={ $explore }>Истражете</a> го целото семејство производи { -brand-name-firefox } дизајнирани да ја почитуваат вашата приватност.
-# Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Преземете</a> го прелистувачот { -brand-name-firefox } за вашиот мобилен уред или фиксен уред

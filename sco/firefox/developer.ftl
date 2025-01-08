@@ -1,15 +1,14 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-get-involved = Tak pairt
 firefox-developer-start-now = Stert noo
 firefox-developer-inspector = Inspector
@@ -28,6 +27,4 @@ firefox-developer-memory = Memory
 firefox-developer-learn-more-about-memory = Lairn mair aboot Memory Tools
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-download-the-firefox-browser = Doonload the { -brand-name-firefox } stravaiger shapit fur forderers
-firefox-developer-welcome-to-the-all-new = Walcome tae the aw-new { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
-firefox-developer-welcome-to-firefox-browser = Walcome tae { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = The stravaiger shapit fur forderers

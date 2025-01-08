@@ -11,6 +11,4 @@ nightly-whatsnew-youve-just-been = ਤੁਸੀਂ { -brand-name-firefox-nightly
 nightly-whatsnew-your-firefox-nightly = ਤੁਹਾਡੇ { -brand-name-firefox-nightly } ਨੂੰ ਅੱਪਡੇਟ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ।
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 nightly-whatsnew-every-4-to-5-weeks = ਹਰ 4 ਤੋਂ 5 ਹਫ਼਼ਤਿਆਂ ਦਰਮਿਆਨ, { -brand-name-firefox } ਦਾ ਨਵਾਂ ਵਰਜ਼ਨ ਆਉਂਦਾ ਹੈ ਅਤੇ ਏਦਾਂ { -brand-name-nightly } ਵਰਜ਼ਨ ਵੀ ਅੱਗੇ ਵਧਦਾ ਜਾਂਦਾ ਹੈ।
-# Obsolete
-nightly-whatsnew-every-6-to-8-weeks = ਹਰ 6 ਤੋਂ 8 ਹਫ਼਼ਤਿਆਂ ਦਰਮਿਆਨ, { -brand-name-firefox } ਦਾ ਨਵਾਂ ਵਰਜ਼ਨ ਆਉਂਦਾ ਹੈ ਅਤੇ ਏਦਾਂ { -brand-name-nightly } ਵਰਜ਼ਨ ਵੀ ਅੱਗੇ ਵਧਦਾ ਜਾਂਦਾ ਹੈ।
 nightly-whatsnew-go-community = ਕਮਿਊਨਟੀ ਉੱਤੇ ਜਾਓ!

@@ -8,7 +8,6 @@
 browsers-mobile-firefox-for-android = { -brand-name-firefox } para { -brand-name-android }
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } para { -brand-name-ios }
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
-browsers-mobile-compare-mobile-browsers = Compara navegadores móbiles
 browsers-mobile-compare = Comparar
 browsers-mobile-download = Descargar
 browsers-mobile-android = { -brand-name-android }

@@ -10,9 +10,6 @@ firefox-browsers-page-title = 下载 { -brand-name-firefox } 桌面版、移动�
 # HTML page description
 firefox-browsers-page-desc = 从桌面版、{ -brand-name-ios } 版和 { -brand-name-android } 版中选取一个，或者让我们通过电子邮件发送给您移动端下载链接。
 firefox-browsers-main-heading = { -brand-name-firefox } 浏览器
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = 我们的<strong>浏览器</strong><br>视隐私为先—<br>这是不变的承诺
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = 使用将您的隐私放在首位的浏览器——<strong>始终</strong>如此
 firefox-browsers-desktop = 桌面版

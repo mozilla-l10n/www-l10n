@@ -44,5 +44,5 @@ firefox-enterprise-sample-plist-for-configuration = ნიმუშად <a hre
 firefox-enterprise-pkg-installer = PKG-დასაყენებელი
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-ბიტიანი
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
 firefox-enterprise-download-firefox-esr-or-rapid = ჩამოტვირთეთ { -brand-name-firefox-esr } ან სწრაფი გამოშვება<br> <a href="{ $firefox_all }">სხვა ენასა და სისტემაზე.</a>

@@ -1,30 +1,21 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = بررسی نیازمندی‌های سیستم
-firefox-all-release-notes = یادداشت‌های انتشار
-firefox-all-source-code = کد منبع
-firefox-all-need-help = به راهنمایی نیاز دارید؟
-firefox-all-which-browser-would = کدام مرورگر را می‌خواهید دریافت کنید؟
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = دریافت راهنمایی
-firefox-all-you-are-about-to-download = شما در حال دریافت هستید:
-firefox-all-browser = مرورگر:
-firefox-all-platform = سکو:
-firefox-all-language = زبان:
 firefox-all-sorry-we-couldnt-find = متاسفیم، ما نتوانستیم نسخه مورد نظر شما را پیدا کنیم. لطفاً دوباره تلاش کنید، یا از فهرست زیر انتخاب کنید.
 firefox-all-the-pre-alpha-version = نسخه pre-alpha برای کاربران حرفه‌ای که دوست دارند باگ‌ها را شکار کنند و ویژگی‌های جدید را همزمان با توسعه و کدنویسی آزمایش کنند.
 firefox-all-64-bit-installers = نصاب‌های ۶۴ بیتی
 firefox-all-choose-a-64-bit-installer = برای رایانه‌هایی که دارای پردازنده‌های ۶۴ بیتی هستند، یک نصاب ۶۴ بیتی را انتخاب کنید، که به آنها امکان می دهد RAM بیشتری را به برنامه‌ها اختصاص دهند - مخصوصاً برای بازی‌ها و سایر برنامه‌ها.
 firefox-all-32-bit-installers = نصاب‌های ۳۲ بیتی
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = { -brand-name-firefox-browser } را به زبان انگلیسی (ایالات متحده) و بیش از 90 زبان دیگر دریافت کنید
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = همه سزاوار دسترسی به اینترنت هستند — زبان شما هرگز نباید مانعی باشد. به همین دلیل — با کمک داوطلبانی در سراسر جهان — { -brand-name-firefox-browser } را در بیش از 90 زبان در دسترس قرار می‌دهیم.
+firefox-all-check-the-system-requirements = بررسی نیازمندی‌های سیستم
+firefox-all-release-notes = یادداشت‌های انتشار
+firefox-all-source-code = کد منبع
+firefox-all-need-help = به راهنمایی نیاز دارید؟
 firefox-all-choose-which-firefox = انتخاب کنید کدام مرورگر { -brand-name-firefox-browser } را برای زبان خود می‌خواهید
 firefox-all-firefox-privacy-notice = نکات حریم‌خصوصی { -brand-name-firefox }
 firefox-all-learn-about-firefox = در مورد مرورگرهای { -brand-name-firefox } اطلاعات کسب کنید

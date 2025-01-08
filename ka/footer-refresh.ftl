@@ -41,5 +41,3 @@ footer-refresh-community-participation-guidelines = გზამკვლევ�
 footer-refresh-about-this-site = საიტის შესახებ
 footer-refresh-all-languages = ყველა ენა
 footer-refresh-language = ენა
-footer-refresh-primary-nav-aria-label = ქვესართი ძირითადი
-footer-refresh-secondary-nav-aria-label = ქვესართი დამატებითი

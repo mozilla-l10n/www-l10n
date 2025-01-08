@@ -31,18 +31,6 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> ësht�
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Këto shtesa funksionojnë paq si në <a { $attrs1 }>{ -brand-name-firefox } për desktop</a>, ashtu edhe <a { $attrs2 }>Android</a>.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = Keni <a href="{ $url }">AdBlocker Ultimate</a> që ju heq qafe secilën reklamë, por hapni sytë. Disa nga gazetat dhe revistat tuaja të parapëlqyera mbahen nga reklamat. Bllokimi i reklamave për ta nga shumë vetë mund t’i nxjerrë nga loja fare.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Reklamat flluskë janë më të ligat. Bllokojini meh <a href="{ $url }">Popup Blocker</a> dhe mos kini kurrë më punë me flluska bezdisëse.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Një nga bllokuesit më popullorë të reklamave për { -brand-name-chrome }, { -brand-name-safari } dhe { -brand-name-firefox } është <a href="{ $url }">AdBlock</a>. Përdoreni për të bllokuar reklama në { -brand-name-facebook }, { -brand-name-youtube } dhe { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = Krijoni një zonë të lirë nga gjurmues, përmes Bllokimi Lënde
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

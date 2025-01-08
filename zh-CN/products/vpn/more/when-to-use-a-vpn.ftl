@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use-a-vpn/
@@ -32,7 +32,7 @@ vpn-when-to-use-for-the-most = 在大多数情况下，上述场景不适用于�
 vpn-when-to-use-because-your-internet = 因为您在家中的互联网流量通过您的互联网服务提供商（简称 ISP）进出您的设备，他们可以看到您上网的位置。 ISP 可以查看您访问了哪些站点、您在这些站点上停留了多长时间、您的位置以及有关您设备的信息。由于加密，ISP 可能不知道您在这些站点上所做的具体操作（例如您购买、搜索或阅读的内容），但他们可以根据您访问的站点对您进行推断。 ISP 可以使用这些个人数据来创建有关您的详细资料。以私密模式浏览并不会阻止 ISP 看到您上网的位置。但是通过 VPN 发送您的网络流量可能会使其变得更加困难。
 vpn-when-to-use-make-sure-you = 确保您了解 VPN 不做什么
 # Variables
-#   $book (url) - https://www.mozilla.org/firefox/privacy/book/
+#   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
 vpn-when-to-use-a-vpn-provides = VPN 通过在您的私人数据通过互联网传输之前保护您的私人数据来提供重要的安全链接，它还隐藏您的 IP 地址，帮助保护您的身份和位置。但是，它不会阻止您点击可疑链接、下载恶意软件或成为电子邮件欺诈的受害者。您仍然需要练习<a href="{ $book }">保持在线安全的好习惯</a>。
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }，可信赖的 VPN 服务
 # Variables

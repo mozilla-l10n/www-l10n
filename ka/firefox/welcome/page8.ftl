@@ -16,8 +16,6 @@ welcome-page8-enhanced-tracking-protection = თვალთვალისგ�
 welcome-page8-automatically-block-sites = თავისთავად ზღუდავს საიტებს, რომლებიც თან დაგყვებათ ინტერნეტში.
 welcome-page8-see-whats-blocked = იხილეთ, რა იზღუდება
 welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-see-what-youve-been = შეიტყვეთ, მოხვედრილა თუ არა თქვენი ანგარიშები ინტერნეტმონაცემთა ცნობილ მიტაცებებში და მიიღეთ ზომები შედეგების გამოსასწორებლად.
 welcome-page8-go-to-monitor = გამოიყენეთ { -brand-name-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }

@@ -22,10 +22,6 @@ set-as-default-thanks-youre-all-set = Minden készen állsz.
 set-as-default-thanks-get-firefox-for-mobile = Töltse le a { -brand-name-firefox(case: "accusative") } mobilra
 set-as-default-thanks-travel-the-internet-with = Utazzon védve az interneten, az összes eszközén.
 set-as-default-thanks-download-the-app = Alkalmazás letöltése
-# Obsolete string
-set-as-default-thanks-join-firefox = Csatlakozzon a { -brand-name-firefox }hoz
-# Obsolete string
-set-as-default-thanks-sign-up-for-a-free-account = Regisztráljon egy ingyenes fiókot, és szinkronizálja az összes jelszavát, böngészési előzményeit és beállításait az eszközei között.
 set-as-default-create-an-account = Hozzon létre egy fiókot
 set-as-default-thanks-sign-up-for-a-free-account-v2 = Regisztráljon egy ingyenes { -brand-name-mozilla-account }ot, és szinkronizálja az összes jelszavát, böngészési előzményeit és beállításait az eszközei között.
 # Account here refers to a Firefox Account

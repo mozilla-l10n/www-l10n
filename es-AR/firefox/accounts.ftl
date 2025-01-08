@@ -7,26 +7,16 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Conseguí una { -brand-name-mozilla-account } y mantené tus datos privados, seguros y sincronizados
-# Obsolete string
-firefox-accounts-get-a-firefox-account = Conseguí una { -brand-name-firefox-account } y mantené tus datos privados, seguros y sincronizados
-# Obsolete string
-firefox-accounts-securely-sync-your = Sincronizá tus contraseñas, marcadores y pestañas de manera segura en todos tus dispositivos. Obtené una { -brand-name-firefox-account }. Un único inicio de sesión. Poder y privacidad en todas partes.
 # HTML page description
 mozilla-accounts-securely-sync-your = Sincronizá tus contraseñas, marcadores y pestañas de manera segura en todos tus dispositivos. Obtené una { -brand-name-mozilla-account }. Un único inicio de sesión. Poder y privacidad en todas partes.
 firefox-accounts-enter-your-email-address = Ingresá tu dirección de correo electrónico para empezar.
 firefox-accounts-already-have-an-account = ¿Ya tenés una cuenta?
 firefox-accounts-sign-in = Iniciar sesión
-# Obsolete string
-firefox-accounts-already = Ya tenés una { -brand-name-firefox-account }. ¡Felicitaciones!
 mozilla-accounts-already = Ya tenés una { -brand-name-mozilla-account }. ¡Felicitaciones!
 firefox-accounts-manage = Administrar tu cuenta
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Iniciar sesión en tu { -brand-name-mozilla-account } para:
-# Obsolete string
-firefox-accounts-sign-in-to = Iniciar sesión en tu { -brand-name-firefox-account } para:
-# Obsolete string
-firefox-accounts-meet-our-family-of = Conocé nuestra familia de productos que ponen a la privacidad en primer lugar.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Enviar una pestaña</a> a un dispositivo diferente
@@ -48,8 +38,6 @@ firefox-accounts-get-it-all-on-every = Obtenga todo en cada dispositivo, sin sen
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

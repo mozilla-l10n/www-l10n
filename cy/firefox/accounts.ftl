@@ -7,26 +7,16 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Defnyddiwch gyfrif { -brand-name-mozilla-account } - Cadwch eich data'n breifat, yn ddiogel ac wedi ei gydweddu
-# Obsolete string
-firefox-accounts-get-a-firefox-account = Defnyddiwch { -brand-name-firefox-account } - Cadwch eich data'n breifat, yn ddiogel ac wedi ei gydweddu
-# Obsolete string
-firefox-accounts-securely-sync-your = Cydweddwch eich cyfrineiriau, eich nodau tudalen a'ch tabiau yn ddiogel ar draws eich holl ddyfeisiau. Defnyddiwch { -brand-name-firefox-account } nawr - Un mewngofnod - Pŵer a phreifatrwydd ymhob man.
 # HTML page description
 mozilla-accounts-securely-sync-your = Cydweddwch eich cyfrineiriau, eich nodau tudalen a'ch tabiau yn ddiogel ar eich holl ddyfeisiau. Defnyddiwch { -brand-name-mozilla-account } nawr - Un mewngofnod - Pŵer a phreifatrwydd ymhob man.
 firefox-accounts-enter-your-email-address = Rhowch eich cyfeiriad e-bost i ddechrau.
 firefox-accounts-already-have-an-account = Oes gennych chi gyfrif y barod?
 firefox-accounts-sign-in = Mewngofnodwch
-# Obsolete string
-firefox-accounts-already = Mae gennych chi gyfrif { -brand-name-firefox-account } yn barod. Llongyfarchiadau!
 mozilla-accounts-already = Mae gennych chi gyfrif { -brand-name-mozilla-account } yn barod. Llongyfarchiadau!
 firefox-accounts-manage = Rheoli eich cyfrif
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Mewngofnodwch i'ch cyfrif { -brand-name-mozilla-account } i:
-# Obsolete string
-firefox-accounts-sign-in-to = Mewngofnodwch i'ch cyfrif { -brand-name-firefox-account } i:
-# Obsolete string
-firefox-accounts-meet-our-family-of = Dyma'n casgliad o gynnyrch sy'n blaenoriaethu preifatrwydd.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Anfon tab</a> i ddyfais arall
@@ -48,8 +38,6 @@ firefox-accounts-get-it-all-on-every = Ar gael ar bob dyfais, heb deimlo'n gaeth
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

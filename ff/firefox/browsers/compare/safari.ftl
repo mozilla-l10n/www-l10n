@@ -5,7 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
 
-# HTML page title
-compare-safari-firefox-vs-safari-which-is = Hakkunde { -brand-name-firefox } e { -brand-name-safari }: Hol heen wanngorde ɓuri e maa?
-# Main title.
-compare-safari-comparing-firefox-browser = Jerondirgol { -brand-name-firefox-browser } e { -brand-name-apple } { -brand-name-safari }

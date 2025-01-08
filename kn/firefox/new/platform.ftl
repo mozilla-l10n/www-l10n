@@ -16,7 +16,7 @@ new-platform-advanced-install-options = ಸುಧಾರಿತ ಸ್ಥಾಪನ
 new-platform-download-in-another = ಬೇರೆ ಭಾಷೆಯಲ್ಲಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ
 new-platform-need-help = ಸಹಾಯ ಬೇಕಿದೆಯೆ?
 
-## Linux
+# Linux
 
 
 ## Mac

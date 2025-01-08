@@ -7,7 +7,7 @@
 
 history-history-of-the-mozilla-project = Stawizny projekta { -brand-name-mozilla }
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = Projekt { -brand-name-mozilla } je so <a href="{ $coderush }">w lěće 1998</a> z <a href="{ $sourcerelease }">přewostajenjom žórłoweho koda wobhladowakoweho paketa { -brand-name-netscape }</a> załožił.
 history-it-was-intended-to-harness = Je wotpohladane było, kreatiwnu móc tysacow programowarjow w interneće zwužitkować a bjezpřikładne schodźenki inowacije we wikach wobhladowakow spěchował.

@@ -10,10 +10,6 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser(capitaliz
 # HTML description
 mobile-android-firefox-browser-for = Il browser { -brand-name-firefox } per { -brand-name-android } è veloce, sicuro e riservato fin dal primo avvio.
 mobile-android-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = Porta il browser con te. Diventa indipendente con { -brand-name-firefox } per { -brand-name-android }
-# Obsolete string
-mobile-android-when-you-download = Quando scarichi { -brand-name-firefox }, scegli di supportare un’azienda tecnologica indipendente. { -brand-name-firefox } è l’unico tra i browser più utilizzati a essere supportato da un’organizzazione senza fini di lucro che si impegna per offrirti maggiore apertura, trasparenza e controllo della tua vita online.
 mobile-android-get-firefox-for = Scarica { -brand-name-firefox } per { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Invia un link per il download al tuo telefono.
 mobile-android-scan-the-qr-code-to-get-started = Scansiona il codice QR per iniziare
@@ -40,7 +36,6 @@ mobile-android-about-mozilla = Informazioni su { -brand-name-mozilla }
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } esiste per contribuire alla crescita di Internet come risorsa pubblica accessibile a tutti, perché crediamo che un Web aperto e gratuito sia meglio di uno chiuso e controllato. Realizziamo prodotti come { -brand-name-firefox } e { -brand-name-pocket } per promuovere la possibilità di scelta, la trasparenza e il controllo da parte degli utenti.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = { -brand-name-firefox } per { -brand-name-android }, la tua scorciatoia su Internet
-mobile-android-get-there-faster = Raggiungi più rapidamente ciò che ti interessa con { -brand-name-firefox } per { -brand-name-android }
 mobile-android-see-all-your-open-tabs = Le tue schede aperte, le ricerche recenti e i siti preferiti, tutti facilmente accessibili in un unico posto con { -brand-name-firefox } per { -brand-name-android }.
 mobile-android-own-your-home = Tieni sotto controllo la tua schermata principale
 mobile-android-get-to-the-parts = Raggiungi più rapidamente le parti di Internet che ti interessano. Scegli di visualizzare tutte le schede aperte, le ricerche recenti, i segnalibri e i siti preferiti in un unico posto.

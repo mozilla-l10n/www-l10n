@@ -14,6 +14,5 @@ legal-special-thanks-to-all-of-you = Koran dankon al ĉiuj, kiuj helpas denunci 
 legal-terms = Kondiĉoj
 legal-our-websites = Niaj retejoj
 legal-firefox-services = Servoj de { -brand-name-firefox }
-legal-webmaker = { -brand-name-webmaker }
 legal-privacy-trademarks = Privateco kaj registritaj varmarkoj
 legal-privacy-notices-and-policy = Privatecaj rimarkoj kaj politikoj

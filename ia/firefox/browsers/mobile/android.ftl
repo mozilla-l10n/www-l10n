@@ -10,10 +10,6 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = Le navigator { -brand-name-firefox } pro { -brand-name-android } es rapide, secur e private a partir del prime uso.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = Sia mobile. Assere tu independentia con { -brand-name-firefox } pro { -brand-name-android }
-# Obsolete string
-mobile-android-when-you-download = Quando tu discarga { -brand-name-firefox }, tu elige de appoiar un compania de technologia independente. { -brand-name-firefox } es le unic navigator importante e sin scopo de lucro que lucta pro dar te plus interoperabilitate, transparentia e controlo de tu vita in linea.
 mobile-android-get-firefox-for = Obtene { -brand-name-firefox } pro { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Inviar un ligamine de discargamento a tu telephono.
 mobile-android-scan-the-qr-code-to-get-started = Scanna le codice QR pro comenciar
@@ -40,7 +36,6 @@ mobile-android-about-mozilla = A proposito de { -brand-name-mozilla }
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } existe pro disveloppar Internet como un ressource public accessibile pro totes perque nos crede que un Internet aperte e libere es melior que un Internet clause e controlate. Nos construe productos como { -brand-name-firefox } e { -brand-name-pocket } pro promover election, transparentia e controlo.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Via-breve a internet con { -brand-name-firefox } pro { -brand-name-android }
-mobile-android-get-there-faster = Arriva illac plus velocemente con { -brand-name-firefox } pro { -brand-name-android }
 mobile-android-see-all-your-open-tabs = Vide tote tu schedas aperte, recente recercas e sitos favorite in un sol loco con le navigator { -brand-name-firefox } pro { -brand-name-android }.
 mobile-android-own-your-home = Domina tu pagina initial
 mobile-android-get-to-the-parts = Accede plus velocemente al partes de internet que tu cura. Elige vider tote tu schedas aperte, recente recercas, marcapaginas e sitos favorite in un sol loco.

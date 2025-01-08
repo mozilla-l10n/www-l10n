@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -52,33 +52,7 @@ manifesto-we-are-committed-to-diverse = Qaq'u'un qi' rik'in jun k'amaya'l ri nun
 manifesto-show-your-support = Tak'utu' ri Ato'ik
 manifesto-an-internet-with-these = Jun k'amaya'l ke re' rub'anikil man ruyonil ta xtik'ase' el. Ri winaqi' chuqa' ri taq moloj k'o chi kajowan ri' pa ruwi' ri runa'ob'al K'amaya'l chuqa' pa ruwi' retamab'al winäq rik'in k'amaya'l. Ri Tzijoxïk chuqa' ri Rutz'aqat { -brand-name-mozilla } nuya' retal chi ri { -brand-name-mozilla } ruq'uq'un ri' richin yeruyäk ri taq rayib'äl ri'. Ri qarayib'al chi junam yojsamäj kik'in ri winaqi' chuqa' taq moloj xab'akuchi' akuchi' yekikomonij re taq rayib'äl re' richin nib'an jun k'amaya'l yalan ütz chi qawäch qonojel.
 manifesto-i-support-the-vision-of = Nato' ri ruwachijal @mozilla richin jun utziläj chuqa' raxinäq k'amaya'l, ¿la xtatün awi' wik'in?
-manifesto-share-on-twitter = Tikomonïx pa { -brand-name-twitter }
 manifesto-our-10-principles = <strong>Ri 10 qichin</strong> Taq ruk'u'x tzij
-manifesto-use-open-badges-to-share = Tawokisaj Open Badges richin ye'akomonij ri taq awetamab'al chuqa' taq ri niqa chawäch
-manifesto-explore-how-the-web-impacts = Takanoj ri nub'än ri ajk'amaya'l chi re ri etamab'alil
-manifesto-learn-about-open-source = Tawetamaj chi rij ri jaqäl b'itz'ib' pa talutz'ib'anem
-manifesto-read-about-open-internet = Tasik'ij chi kij ri taq nukuj chuqa' kib'anik jaqäl taq runa'ojil k'amaya'l
-manifesto-explore-how-to-help-keep = Tatz'eta' achike rub'eyal yojto'on niqasamajij ri ajk'amaya'l jaqäl
-manifesto-see-how-the-web-can-connect = Tawila' achike rub'eyal ri ajk'amaya'l nitikïr nuxïm ri ruwach'ulew rik'in ri ch'ajch'ojil
-manifesto-explore-how-the-web-works = Tatz'eta' rub'eyal nisamäj ri ajk'amaya'l
-manifesto-see-how-mozilla-works = Tawila' achike rub'eyal nisamäj ri { -brand-name-mozilla } richin nunab'eyisaj ri awichinem
-manifesto-read-about-developments = Tasik'ij chi kij ri taq nuk'uj pa ichinanem chuqa' kijikomal taq tzij
-manifesto-learn-more-about-how-to = Tawetamaj ch'aqa' chik chi rij rub'eyal nachajij awi' pa k'amab'ey
-manifesto-use-these-free-tools-to = Ke'awokisaj re sipan taq samajib'äl re' richin nak'üt ri ajk'amaya'l
-manifesto-learn-about-creating-and = Tawetamaj yanuk'un chuqa' ye'acha' taq rupam ri ajk'amaya'l
-manifesto-add-new-voices-to-open = Ke'atunu' k'ak'a' taq ch'ab'äl pa ri runa'ob'al jaqäl b'itz'ib'
-manifesto-set-your-do-not-track = Tanuk'u' ri awajowab'al richin man yakanöx ta
-manifesto-understand-the-web-ecosystem = Tiq'ax pan awi' ri ch'ajch'öj runuk'ulem ajk'amaya'l
-manifesto-explore-how-open-practices = Takanoj achi'el ri jaqäl taq tojtob'enïk nikib'än ri okel ajk'amaya'l
-manifesto-learn-how-to-remix-content = Tawetamaj naxöl chik ri rupam richin natz'ük jun k'ak'a'
-manifesto-learn-how-to-maximize = Tawetamaj nanimirisaj ri silonel ruchuq'a' ajk'amaya'l
-manifesto-participate-in-our-governance = Kato'on pa ri qamolna'oj richin champomanelil
-manifesto-join-us-as-a-volunteer = Katok qik'in achi'el to'onel
-manifesto-learn-how-to-collaborate = Tawetamaj rub'eyal yato'on pa k'amab'ey
-manifesto-visualize-who-you-interact = Tatzu' rik'in { -brand-name-lightbeam } achike nisamäj awik'in pa ajk'amaya'l
-manifesto-learn-about-creating-web = Tawetamaj ye'anük' ajk'amaya'l taq tob'äl kik'in ch'aqa' chik
-manifesto-host-or-join-a-maker-party = Tanuk'u' o katok pa jun { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = Tawetamaj ye'anük' to'onel taq etamab'äl pa k'amab'ey
 manifesto-read-the-entire-manifesto = Tasik'ij ri tz'aqät tzijoxik
 manifesto-love-the-web = ¿La ütz nintz'ët ri ajk'amaya'l?
 manifesto-get-the-mozilla-newsletter = Tak'ulu' ri tzijonel ko'öl ruwuj { -brand-name-mozilla } chuqa' kojato' chi jantape' jaqäl chuqa' sipan.

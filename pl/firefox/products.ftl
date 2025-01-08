@@ -11,8 +11,6 @@ firefox-products-mozilla-products = Produkty { -brand-name-mozilla(case: "gen") 
 firefox-products-mozillas-family-of-products = Wszystkie produkty rodziny { -brand-name-mozilla(case: "gen") } są zaprojektowane z myślą o Twoim bezpieczeństwie w Internecie
 firefox-products-products = Produkty
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } to dopiero początek.
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } to dopiero początek
 firefox-products-mozillas-family-of-products-sentence = Wszystkie produkty rodziny { -brand-name-mozilla(case: "gen") } są zaprojektowane z myślą o Twoim bezpieczeństwie w Internecie.
 
 ## Firefox
@@ -67,6 +65,4 @@ firefox-products-analyze = Przeanalizuj adres
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content-v2 = Odkrywaj najlepsze rzeczy w sieci — i wracaj do nich gdzie chcesz, kiedy chcesz. Od { -brand-name-mozilla(case: "gen") }.
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = Odkrywaj najlepsze rzeczy w sieci — i wracaj do nich gdzie chcesz, kiedy chcesz.
 firefox-products-get-pocket = Wypróbuj { -brand-name-pocket }

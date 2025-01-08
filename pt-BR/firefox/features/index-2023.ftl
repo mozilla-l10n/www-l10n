@@ -11,10 +11,6 @@ features-index-firefox-browser-features = Recursos do navegador { -brand-name-fi
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } é o navegador rápido, leve e com foco em privacidade, que funciona em todos os seus dispositivos.
 features-index-firefox-keeps-getting-faster = O { -brand-name-firefox } continua ficando cada vez mais rápido
 features-index-the-latest-browser-speed-benchmarks = Os mais recentes benchmarks de velocidade do navegador comprovam que o { -brand-name-firefox } está mais rápido do que nunca.
-# Obsolete string
-features-index-is-firefox-a-fast-browser = { -brand-name-firefox } é um navegador rápido?
-# Obsolete string
-features-index-firefox-uses-less-memory-than = O { -brand-name-firefox } usa menos memória que o Chrome, assim seus outros programas podem continuar funcionando à toda velocidade.
 features-index-is-firefox-a-private-browser = { -brand-name-firefox } é um navegador privativo?
 features-index-were-focused-on-your-right-to = Temos como foco seu direito à privacidade. Seus dados, sua atividade na web, sua vida online estão protegidos com o { -brand-name-firefox }.
 features-index-free-password-manager = Gerenciador de senhas gratuito
@@ -42,7 +38,5 @@ features-index-firefox-automatically-blocks = O { -brand-name-firefox } bloqueia
 features-index-ditch-the-sticky-ads = Livre-se de anúncios pegajosos que te seguem por aí com bloqueadores de rastreamento de identidade digital integrados no navegador { -brand-name-firefox }.
 features-index-translate-the-web = Traduza a web
 features-index-translate-websites-to-your = Traduza sites para seu idioma diretamente no navegador { -brand-name-firefox }, sem compartilhar seus dados com mais ninguém.
-# Obsolete string
-features-index-translate-more-than = Traduza de mais de 100 idiomas para seu idioma, direto no navegador { -brand-name-firefox }, mais fácil do que nunca.
 features-index-picture-in-picture = Picture-in-Picture
 features-index-got-things-to-do = Tem coisas a fazer e vídeos para assistir? Faça ambos ao mesmo tempo usando picture-in-picture do { -brand-name-firefox }.

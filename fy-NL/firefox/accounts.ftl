@@ -7,26 +7,16 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Meitsje in { -brand-name-mozilla-account } oan – Hâld jo gegevens privee, feilich en syngroan
-# Obsolete string
-firefox-accounts-get-a-firefox-account = Meitsje in { -brand-name-firefox-account } oan – Hâld jo gegevens privee, feilich en syngroan
-# Obsolete string
-firefox-accounts-securely-sync-your = Syngronisearje jo wachtwurden, blêdwizers en ljepblêden feilich tusken al jo apparaten. Meitsje no in { -brand-name-firefox-account } oan – Ien oanmelding – Oeral krêft en privacy.
 # HTML page description
 mozilla-accounts-securely-sync-your = Syngronisearje jo wachtwurden, blêdwizers en ljepblêden feilich tusken al jo apparaten. Meitsje no in { -brand-name-mozilla-account } oan – Ien oanmelding – Oeral krêft en privacy.
 firefox-accounts-enter-your-email-address = Fier jo e-mailadres yn om te begjinnen.
 firefox-accounts-already-have-an-account = Hawwe jo al in account?
 firefox-accounts-sign-in = Oanmelde
-# Obsolete string
-firefox-accounts-already = Jo hawwe al in { -brand-name-firefox-account }. Lokwinske!
 mozilla-accounts-already = Jo hawwe al in { -brand-name-mozilla-account }. Lokwinske!
 firefox-accounts-manage = Jo account beheare
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Meld jo oan by jo { -brand-name-mozilla-account } om:
-# Obsolete string
-firefox-accounts-sign-in-to = Meld jo oan by jo { -brand-name-firefox-account } om:
-# Obsolete string
-firefox-accounts-meet-our-family-of = Kom yn de kunde mei ús famylje fan produkten dy’t privacy foarop stelle.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">In ljepblêd te ferstjoeren</a> nei in oar apparaat
@@ -48,8 +38,6 @@ firefox-accounts-get-it-all-on-every = Download alles op elk apparaat, sûnder d
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

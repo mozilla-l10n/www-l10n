@@ -40,12 +40,6 @@ firefox-desktop-download-blocks-social-trackers = ማህበራዊ ተከታታ�
 firefox-desktop-download-os-availability = የስርዓተ ክወና መኖር
 firefox-desktop-download-in-browser-screenshot = የአሳሽ-ውስጥ ቅጽበታዊ ገጽ እይታ መሣሪያ
 firefox-desktop-download-primary-password = ዋና የይለፍ ቃል
-# Obsolete string
-firefox-desktop-love-your-life = የመስመር ላይ ሕይወትዎን ይውደዱ
-# Obsolete string
-firefox-desktop-its-your-internet = የእርስዎ በይነመረብ ነው። በሺዎች በሚቆጠሩ መሳሪያዎች፣ ገጽታዎች እና ቅጥያዎች በፈለጉት መንገድ ያሳምሩት። { -brand-name-firefox } ሰዎችን ከትርፍ በፊት የሚያስቀድም የመጀመሪያው አማራጭ አሳሽ ነው።
-# Obsolete string
-firefox-desktop-download-master-password = ዋና የይለፍ ቃል
 firefox-desktop-download-we-block-the-ad = እኛ የማስታወቂያ መከታተያዎችን እናግዳለን። እርስዎ በይነመረቡን በፍጥነት ያስሱ።
 firefox-desktop-download-ads-are-distracting = ማስታወቂያዎች ትኩረት የሚከፋፍሉ እና ድረ-ገጾች በዝግታ እንዲጫኑ ሲያደርጉ ተከታታዮቻቸው ደሞ በመስመር ላይ የሚያደርጉትን እያንዳንዱን እንቅስቃሴ ይመለከታሉ። { -brand-name-firefox-browser } ብዙ መከታተያዎችን በራስ ሰር ያግዳል፣ ስለዚህ የደህንነት ቅንብሮችዎ ውስጥ መቆፈር አያስፈልግም።
 firefox-desktop-download-see-your-report = የጥበቃ ሪፖርትዎን ይመልከቱ
@@ -134,9 +128,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } የተፈ
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = በይነመረቡ ሲያድግ እና ሲቀየር { -brand-name-firefox } በእርስዎ የግላዊነት መብት ላይ ማተኮር ይቀጥላል - እኛ <a { $attrs }>የግል ውሂብ ቃል ኪዳን</a> እንለዋን፡- ትንሽ ይውሰዱ። ደህንነቱ የተጠበቀ ያድርጉት። ምንም ሚስጥሮች የሉም። የእርስዎ ውሂብ፣ የእርስዎ የድር እንቅስቃሴ፣ የመስመር ላይ ህይወትዎ በ{ -brand-name-firefox } የተጠበቀ ነው።
 # Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } በሁሉም መሳሪያዎችዎ ላይ ይገኛል። የእርስዎን ትሮች፣ ታሪክ እና እልባቶችን ከእርስዎ ጋር ይውሰዱ። የሚያስፈልግዎ <a { $attrs }>{ -brand-name-firefox } መለያ</a> ብቻ ነው።
-# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = በቀጥታ በአሳሹ ውስጥ በተሰራው የእኛ <a { $attrs }>ቅጽበታዊ ገጽ እይታ</a> መሳሪያ የማንኛውንም ነገር ከፍተኛ ጥራት ያለው ምስል ያንሱ
 # Variables:
@@ -145,13 +136,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } በራ�
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ጥያቄዎች? <a { $attrs }>{ -brand-name-mozilla } ድጋፍ</a> ያግዝዎታል።
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = አስቀድመው አሳሹን አግኝተዋል። አሁን ከ{ -brand-name-firefox } የበለጠ ያግኙ።
-firefox-desktop-download-watch-for-hackers-with-v2 = ሰርጎ ገቦችን በ{ -brand-name-firefox-monitor } ይመልከቱ፣ የኢሜይል አድራሻዎን በ{ -brand-name-firefox-relay } ይጠብቁ እና ሌሎችም።
-# Outdated string
-firefox-desktop-download-watch-for-hackers-with = ሰርጎ ገቦችን በ{ -brand-name-firefox-monitor } ይመልከቱ፣ የይለፍ ቃሎችን በ{ -brand-name-firefox-lockwise }  ይጠብቁ እና ሌሎችም።
-firefox-desktop-download-get-more-from-firefox = ከ{ -brand-name-firefox } ተጨማሪ ያግኙ
-firefox-desktop-download-just-download-the-browser = አሳሹን ብቻ ያውርዱ
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -167,8 +151,6 @@ firefox-desktop-download-now-mac = አሁን የወረደውን ፋይል <stron
 firefox-desktop-download-get-help = ችግር እያጋጠመዎት ነው? <a { $attrs }>እንዴት እንደሚጫን እገዛ ያግኙ</a>።
 firefox-desktop-download-in-another-language = በሌላ ቋንቋ ወይም ለሌላ ስርዓተ ክወና አውርድ።
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = ለመጫን እየሞከሩት ያለው መተግበሪያ በ{ -brand-name-microsoft } የተረጋገጠ መተግበሪያ አለመሆኑን የሚገልጽ ማሳወቂያ ካዩ፣ “ለማንኛውም ጫን” ን ጠቅ ያድርጉ ወይም <a { $attrs }>የመተግበሪያ ምክር ቅንብሮችን ይቀይሩ</a >።
@@ -176,10 +158,6 @@ firefox-desktop-download-visit-support-for-more = ለተጨማሪ ዝርዝሮ�
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } በ{ -brand-name-windows } { -brand-name-xp } ወይም { -brand-name-vista }ላይ <a href="{ $url }">ከአሁን በኋላ የደህንነት ማሻሻያዎችን አያቀርብም</a>፣ ነገር ግን አሁንም { -brand-name-firefox }ን መጠቀም ይችላሉ።
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = የሚጠቀሙት ደህንነቱ የማያስተማምን፣ ጊዜው ያለፈበት ስርዓተ ክወና <a href="{ $url }">ከአሁን በኋላ በ{ -brand-name-firefox } አይደገፍም</a>።
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -193,4 +171,3 @@ firefox-desktop-download-please-follow = { -brand-name-firefox }ን ለመጫን
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = የእርስዎ ስርዓት ለ{ -brand-name-firefox } መስፈርቶችን ላያሟላ ይችላል፣ነገር ግን ከ<a href="{ $url }">እነዚህ ስሪቶች</a> አንዱን መሞከር ይችላሉ።
-firefox-desktop-download-taskbar = { -brand-name-firefox } ከተጫነ በኋላ በ{ -brand-name-windows } የተግባር አሞሌ ላይ ይሰካል።

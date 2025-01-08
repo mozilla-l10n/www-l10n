@@ -59,4 +59,3 @@ firefox-new-fast = Spěšny, priwatny a darmotny
 firefox-new-from-mozilla = wot { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } je darmotny webwobhladowak, kotryž strony spěšnje začituje, mjenje składa wužiwa a wjele funkcijow ma - projekt powšitkownosći wužitneje organizacije { -brand-name-mozilla }.
 firefox-new-download-a-different = Za druhu platformu a rěč sćahnyć
-firefox-new-taskbar = { -brand-name-firefox } budźe připjaty po instalaciji na nadawkowej lajsće { -brand-name-windows }.

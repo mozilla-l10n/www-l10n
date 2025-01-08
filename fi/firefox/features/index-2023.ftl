@@ -11,10 +11,6 @@ features-index-firefox-browser-features = { -brand-name-firefox }-selaimen omina
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } on nopea, kevyt, yksityisyyteen keskittyvä selain, joka toimii kaikilla laitteillasi.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } nopeutuu jatkuvasti
 features-index-the-latest-browser-speed-benchmarks = Uusimmat selainten nopeustestit todistavat, että { -brand-name-firefox } on nopeampi kuin koskaan.
-# Obsolete string
-features-index-is-firefox-a-fast-browser = Onko { -brand-name-firefox } nopea selain?
-# Obsolete string
-features-index-firefox-uses-less-memory-than = { -brand-name-firefox } käyttää vähemmän muistia kuin Chrome, joten muut ohjelmasi voivat jatkaa toimintaansa huippunopeudella.
 features-index-is-firefox-a-private-browser = Onko { -brand-name-firefox } yksityinen selain?
 features-index-were-focused-on-your-right-to = Keskitymme oikeuteesi yksityisyyteen. Tietosi, verkkotoimintasi ja verkkoelämäsi pysyvät suojattuna { -brand-name-firefox }illa.
 features-index-free-password-manager = Ilmainen salasananhallinta
@@ -42,7 +38,5 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } estää au
 features-index-ditch-the-sticky-ads = Hylkää seurantaa tekevät mainokset { -brand-name-firefox }in sisäänrakennetuilla yksilöinnin estotoiminnoilla.
 features-index-translate-the-web = Käännä verkko
 features-index-translate-websites-to-your = Käännä verkkosivuja kielellesi suoraan { -brand-name-firefox }issa – jakamatta tietoja kenenkään muun kanssa.
-# Obsolete string
-features-index-translate-more-than = Käännä yli 100 kielestä omalle kielellesi käyttäen { -brand-name-firefox }ia - helpompaa kuin koskaan ennen.
 features-index-picture-in-picture = Kuva kuvassa
 features-index-got-things-to-do = Onko sinulla tekemistä ja katsottavaa? Tee molemmat käyttämällä  { -brand-name-firefox }in Kuva kuvassa -toimintoa.

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = Қазір жүктеп алу
 download-button-free-download = Тегін жүктеп алу
@@ -36,3 +36,6 @@ download-button-firefox-ios = { -brand-name-ios } үшін <span>{ -brand-name-f
 download-button-firefox-privacy = { -brand-name-firefox } жекелігі
 download-button-firefox-privacy-notice = { -brand-name-firefox } жекелік ескертуі
 download-button-download = Жүктеп алу
+
+## Linux
+

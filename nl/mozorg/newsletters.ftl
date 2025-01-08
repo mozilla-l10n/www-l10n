@@ -92,12 +92,8 @@ newsletters-love-the-web-so-do-we = Gek op het web? Wij ook!
 newsletters-unlock-the-world-of-web = Ontgrendel de wereld van webontwikkeling met onze wekelijkse { -brand-name-mozilla } Developer-nieuwsbrief. Elke editie brengt u programmeertechnieken en aanbevolen procedures, { -brand-name-mdn }-updates, info over opkomende technologieën, tips over ontwikkelaarshulpmiddelen, en meer.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-make-the-most = Haal het meeste uit { -brand-name-firefox }
-# Obsolete string (expires: 2024-11-01)
-newsletters-put-more-fox-in-your-inbox = Stop meer fox in uw inbox.
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-sign-up-to-receive-monthly = Schrijf u in om maandelijkse updates van { -brand-name-firefox } en internettrends te ontvangen die uw online leven vormgeven.
-# Obsolete string (expires: 2024-11-01)
-newsletters-see-where-the-web-can-take = Bekijk waar het web u kan brengen met maandelijkse { -brand-name-firefox }-tips, -trucs en wetenswaardigheden over internet.
 newsletters-we-are-sorry-but-there = Het spijt ons, maar er was een probleem met ons systeem. Probeer het later nog eens!
 newsletters-thanks-for-updating-your = Bedankt voor het bijwerken van uw e-mailvoorkeuren.
 newsletters-success-an-email-has-been-sent = Gelukt! Er is een e-mailbericht met een koppeling naar uw voorkeurencentrum naar u verstuurd. Bedankt!

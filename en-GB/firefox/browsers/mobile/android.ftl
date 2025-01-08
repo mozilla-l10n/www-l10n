@@ -10,10 +10,6 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = { -brand-name-firefox } browser for { -brand-name-android } is fast, secure and private from the first time you open it.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = Go mobile. Go indie with { -brand-name-firefox } for { -brand-name-android }
-# Obsolete string
-mobile-android-when-you-download = When you download { -brand-name-firefox }, you’re choosing to support an independent tech company. { -brand-name-firefox } is the only major browser backed by a non-profit fighting to give you more openness, transparency and control of your life online.
 mobile-android-get-firefox-for = Get { -brand-name-firefox } for { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Send a download link to your phone.
 mobile-android-scan-the-qr-code-to-get-started = Scan the QR code to get started
@@ -40,7 +36,6 @@ mobile-android-about-mozilla = About { -brand-name-mozilla }
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled. We build products like { -brand-name-firefox } and { -brand-name-pocket } to promote choice, transparency and control.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Shortcut the internet with { -brand-name-firefox } for { -brand-name-android }
-mobile-android-get-there-faster = Get there faster with { -brand-name-firefox } for { -brand-name-android }
 mobile-android-see-all-your-open-tabs = See all your open tabs, recent searches and favourite sites all in one place with { -brand-name-firefox } browser for { -brand-name-android }.
 mobile-android-own-your-home = Own your home screen
 mobile-android-get-to-the-parts = Get to the parts of the internet you care about faster. Choose to see all your open tabs, recent searches, bookmarks and favourite sites all in one place.

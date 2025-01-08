@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -26,9 +26,6 @@ best-browser-there-are-a-few-ways = Haber hai xeitos nos que un navegador pode a
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = A segunda é non almacenar demasiados datos do usuario. Os piratas informáticos non poden roubar o que non hai, razón pola cal { -brand-name-firefox } retén unha cantidade de información mínima sobre os seus usuarios. <a href="{ $data }">{ -brand-name-firefox } sabe </a> se usas o navegador e a túa localización xeral, <a href="{ $privacy }">pero non o nome da túa mascota da infancia ou a túa cor favorita.</a>
 best-browser-last-but-not-least = Por último, aínda que non por iso menos importante: un navegador seguro debería ofrecer ferramentas para che axudar a controlar as túas contas. Pensa nas alertas que van directamente ao teu correo electrónico se violan algunha das túas contas, ou nas iconas que che indican se un sitio web está cifrado (é dicir, se é unha boa idea introducir o número da túa tarxeta crédito nun sitio de compras).
-# Variables:
-# $monitor (url) - link to https://monitor.firefox.com
-best-browser-firefox-is-offering = { -brand-name-firefox } ofréceche algo novo para manterte protexido: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>, un servizo gratuíto que che avisará se hai actividade pública de piratería informática nas túas contas, e que che informará se as túas contas foron pirateadas anteriormente. Outra característica interesante é a chamado «Pechadura Verde», que parece unha pequena icona verde na parte superior esquerda da xanela do navegador. Se estás en { -brand-name-firefox } e ves esta pechadura verde, o que quere dicir é que o sitio web está cifrado e é seguro. Se a pechadura é gris, pénsao dúas veces antes de introducir información confidencial.
 best-browser-we-visit-hundreds-or = Visitamos decote centos ou incluso miles de sitios web, e non podemos esperar que os usuarios tomen decisións de seguridade e privacidade para cada un deles. Por iso é tan importante que un navegador que che proporcione máis control: porque ofrece unha protección real e significativa.
 best-browser-a-browser-that-minds = Un navegador que non vai metendo os fociños por aí.
 best-browser-privacy-on-the-web = A privacidade na web é un problema candente, e se é o número un da túa lista de prioridades, convenche buscar un navegador que te tome en serio. Á hora de escolleres o mellor navegador privado, consulta a política de seguimento e a maneira na cal o navegador trata os teus datos. Poden parecer preguntas técnicas, pero son a razón pola cal algúns navegadores son máis privados ca outros.

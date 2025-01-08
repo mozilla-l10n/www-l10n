@@ -54,19 +54,10 @@ vpn-download-faq-working = Hur vet jag att VPN fungerar?
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.mozilla.org/
 vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } visar visuella indikatorer för dess aktuella status både i verktygsfältet och på programmets startskärm, vilket gör det enkelt att veta om din onlineaktivitet är skyddad eller inte. Dessa indikatorer låter dig bekräfta när din navigering är privat och säker. När du är ansluten kan du dessutom besöka <a href="{ $monitor }">https://monitor.mozilla.org/</a> för att bekräfta om din IP-adress är maskerad. För mer information, se <a href="{ $connected }">Hur vet jag om { -brand-name-mozilla-vpn } är ansluten?</a>.
-# Obsolete string
-# Variables:
-#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
-#   $monitor (url) link to https://monitor.firefox.com/
-vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } visar visuella indikatorer för dess aktuella status både i verktygsfältet och på programmets startskärm, vilket gör det enkelt att veta om din onlineaktivitet är skyddad eller inte. Dessa indikatorer låter dig bekräfta när din navigering är privat och säker. När du är ansluten kan du dessutom besöka <a href="{ $monitor }">https://monitor.firefox.com/</a> för att bekräfta om din IP-adress är maskerad. För mer information, se <a href="{ $connected }">Hur vet jag om { -brand-name-mozilla-vpn } är ansluten?</a>.
 vpn-download-faq-add-device = Hur lägger jag till en annan enhet?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v3 = Att lägga till ytterligare en enhet är lika enkelt som att ladda ner och installera programvaran { -brand-name-mozilla-vpn } och sedan logga in på ditt befintliga { -brand-name-mozilla-account } på den nya enheten. För mer information, se <a href="{ $subscription }">Hur du lägger till enheter till din { -brand-name-mozilla-vpn }-prenumeration</a>.
-# Obsolete string
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v2 = Att lägga till ytterligare en enhet är lika enkelt som att ladda ner och installera programvaran { -brand-name-mozilla-vpn } och sedan logga in på ditt befintliga { -brand-name-firefox-account } på den nya enheten. För mer information, se <a href="{ $subscription }">Hur du lägger till enheter till din { -brand-name-mozilla-vpn }-prenumeration</a>.
 vpn-download-faq-best-practices = Vilka är några bästa metoder för VPN?
 vpn-download-faq-traffic = Om ditt mål är att skydda din internettrafik samtidigt som du håller en hög hastighet, är det alltid bäst att välja en serverplats som är så nära din fysiska plats som möjligt. Detta kommer att öka tillförlitligheten och hastigheten för din anslutning eftersom din internettrafik inte behöver ta en betydande omväg innan den kommer fram till den avsedda destinationen på webben.
 vpn-download-faq-experience = Om ditt mål är att uppleva internet som om du befann dig i någon annan del av världen kan du välja en serverplats där och alla webbplatser du besöker kommer att visas som om du vore där.

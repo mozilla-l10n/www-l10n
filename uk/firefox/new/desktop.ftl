@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ство�
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Разом зі зростанням та зміною Інтернету, { -brand-name-firefox } продовжує зосереджуватись на вашому праві на приватність  — ми називаємо це <a { $attrs }>Зобов'язанням щодо персональних даних</a>: Отримуємо менше. Зберігаємо безпечно. Жодних секретів. Ваші дані, ваші дії в Мережі, ваше життя в Інтернеті захищено { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } доступний на всіх ваших пристроях; візьміть із собою вкладки, історію та закладки. Все що вам потрібно — це <a { $attrs }>обліковий запис { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } доступний на всіх ваших пристроях; візьміть вкладки, історію та закладки з собою. Усе, що вам потрібно – <a { $attrs }>{ -brand-name-mozilla-account }</a>, і ви отримаєте доступ до синхронізації та інших продуктів { -brand-name-mozilla }.
@@ -147,8 +143,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } авт�
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Маєте питання? <a { $attrs }>Підтримка { -brand-name-mozilla }</a> має для вас відповіді.
 firefox-desktop-download-watch-for-hackers-with-v3 = Слідкуйте за хакерами за допомогою { -brand-name-mozilla-monitor }, захистіть свою адресу електронної пошти за допомогою { -brand-name-firefox-relay }, а також інші можливості.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Слідкуйте за хакерами за допомогою { -brand-name-firefox-monitor }, захистіть свою адресу електронної пошти за допомогою { -brand-name-firefox-relay }, а також інші можливості.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -186,4 +180,3 @@ firefox-desktop-download-please-follow = Дотримуйтесь <a href="{ $ur
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Ваша система може не задовольняти вимог для { -brand-name-firefox }, але ви можете спробувати одну з <a href="{ $url }">цих версій</a>.
-firefox-desktop-download-taskbar = { -brand-name-firefox } буде закріплено на панелі завдань { -brand-name-windows } після встановлення

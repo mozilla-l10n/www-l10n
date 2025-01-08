@@ -14,7 +14,6 @@ welcome-page8-view-your-protection-report = ਆਪਣੀ ਸੁਰੱਖਿਆ �
 welcome-page8-enhanced-tracking-protection = ਵਾਧਾ ਕੀਤੀ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
 welcome-page8-automatically-block-sites = ਇੰਟਰਨੈੱਟ ਉੱਤੇ ਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਤੋਂ ਆਪਣੇ-ਆਪ ਰੋਕੋ।
 welcome-page8-see-whats-blocked = ਵੇਖੋ ਕਿ ਕਿਸ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ
-welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-go-to-monitor = { -brand-name-monitor } ਉੱਤੇ ਜਾਓ
 welcome-page8-firefox-send = { -brand-name-firefox-send }
 welcome-page8-try-send = { -brand-name-send } ਵਰਤੋ

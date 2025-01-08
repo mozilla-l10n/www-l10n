@@ -9,7 +9,5 @@ mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-get-firefox-focus = { -brand-name-firefox-focus }ను పొందండి
 mobile-focus-send-a-download-link-to-your = మీ ఫోనుకు దింపుకోలు లంకెను పంపండి.
 mobile-focus-scan-alt-text = { -brand-name-firefox-focus } పొందడానికి QR కోడ్‌ని స్కాన్ చేయండి
-# Outdated string
-mobile-focus-disappear-your-history = మీ చరిత్రను అదృశ్యం చేయండి
 mobile-focus-delete-your-history = మీ చరిత్రను తొలగించండి
 mobile-focus-made-by-mozilla = { -brand-name-mozilla } ద్వారా తయారు చేయబడింది

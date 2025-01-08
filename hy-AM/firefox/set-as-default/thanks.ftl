@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/thanks/
@@ -22,8 +22,6 @@ set-as-default-thanks-youre-all-set = Պատրաստ է:
 set-as-default-thanks-get-firefox-for-mobile = Ստացեք { -brand-name-firefox }-ը բջջայինի համար
 set-as-default-thanks-travel-the-internet-with = Ճանապարհորդեք համացանցով պաշտպանված՝ Ձեր բոլոր սարքերով:
 set-as-default-thanks-download-the-app = Ներբեռնեք հավելվածը
-set-as-default-thanks-join-firefox = Միացեք { -brand-name-firefox }֊ին
-set-as-default-thanks-sign-up-for-a-free-account = Գրանցեք անվճար հաշիվ և համաժամեցրեք ձեր բոլոր գաղտնաբառերը, զննարկման պատմությունը և նախընտրությունները Ձեր բոլոր սարքերում:
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Ստանալ հաշիվ
 set-as-default-thanks-having-trouble = Խնդիր ունե՞ք:

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/7/
@@ -17,6 +17,4 @@ page7-make-them-unfollow-you = Tab'ana' chi man yatkojqaj ta chik
 page7-that-sneaky-little-button = Ri ewan ko'öl pitz'b'äl
 page7-those-innocent-looking-f-buttons = Ri F taq pitz'b'äl jeb'ël rub'anikil k'o pa { -brand-name-facebook } nikoqaj ri asamaj pan ajk'amaya'l, estape' majun jun rub'i' ataqoya'l. { -brand-name-facebook-container } yeruq'ät.
 page7-stay-ahead-of-hackers = Kanab'eyij chi kiwa ri ajjak
-page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } nuya' q'ij chawe nawetamaj achike ri ketaman chik chawij ri ajjak chuqa' naruto' richin yanab'eyij chi kiwa. (Chuqa' sipam.)
-page7-get-firefox-monitor = Tik'ul { -brand-name-firefox-monitor }
 page7-why-am-i-seeing-this = ¿Aruma nintz'ët re'?

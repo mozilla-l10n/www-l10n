@@ -10,11 +10,6 @@ facebook-container-millions-of-people-around = ကမ္ဘာတစ်ဝှမ
 facebook-container-facebook-well-contained-keep = ကိုယ်ရေးလုံခြုံမှု ပိုမိုကောင်းမွန်ပြီး ဘရောင်ဇာတွင် ပါသည့် { -brand-name-facebook } ကွန်တိန်နာ
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container } ထပ်ပေါင်းဆော့ဖ်ဝဲကို ရယူပါ
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } ကို ဆွဲယူပြီး { -brand-name-facebook-container } ထပ်ပေါင်းဆော့ဖ်ဝဲကို အသုံးပြုပါ။
-# Outdated string
-facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } ထပ်ပေါင်းဆော့ဖ်ဝဲသည် မိုဘိုင်းလ်ကိရိယာများတွင် မရနိုင်သေးပါ။
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = { -brand-name-android } နှင့် { -brand-name-ios } အတွက် ကိုယ်ရေးကာကွယ်မှုဘရောင်ဇာ ဖြစ်သော <strong>{ -brand-name-firefox-focus }</strong> ကို စမ်းသုံးကြည့်ပါ။
 facebook-container-opt-out-on-your-terms = သင်နှင့်ဆိုင်သော စည်းကမ်းချက်များအတွက် မပါဝင်ခြင်းဆိုင်ရာ ရွေးချယ်မှု
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

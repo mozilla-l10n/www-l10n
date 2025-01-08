@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-refresh-get-the-best = 최고의 { -brand-name-firefox } 팁과 트릭, 업데이트를 받으세요. 이메일 주소는 비공개로 안전하게 보호됩니다. { -brand-name-firefox }의 최고만을 받은 편지함으로 직접 보내드립니다.
 footer-refresh-leadership = 리더쉽
 footer-refresh-advertise = { -brand-name-mozilla }로 광고하기
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 출시 노트

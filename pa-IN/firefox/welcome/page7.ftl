@@ -14,5 +14,4 @@ page7-do-it-for-the-gram = ਇਹ ’Gram ਲਈ ਕਰੋ
 page7-make-them-unfollow-you = ਉਹਨਾਂ ਤੋਂ ਪਿੱਛਾ ਛੁਡਾਓ
 page7-that-sneaky-little-button = ਉਹ ਲੁਕਵਾਂ ਛੋਟਾ ਬਟਨ
 page7-stay-ahead-of-hackers = ਹੈਕਰਾਂ ਤੋਂ ਸਾਵਧਾਨ ਰਹੋ
-page7-get-firefox-monitor = { -brand-name-firefox-monitor } ਲਵੋ
 page7-why-am-i-seeing-this = ਮੈਂ ਇਹ ਕਿਉਂ ਦੇਖ ਰਿਹਾ/ਰਹੀ ਹਾਂ?

@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } bol vytvo
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Ako sa internet rozrastá a mení, { -brand-name-firefox } sa naďalej zameriava na vaše právo na súkromie – nazývame to <a { $attrs }>prísľub týkajúci sa osobných údajov</a>: Vziať si menej. Udržovať to v bezpečí. Žiadne tajomstvá. Vaše údaje, vaša webová aktivita, váš život online sú chránené vďaka { -brand-name-firefox(case: "dat") }.
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } je k dispozícii na všetkých vašich zariadeniach. Vezmite si so sebou karty, históriu a záložky. Všetko, čo potrebujete, je <a { $attrs }>účet { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } je k dispozícii na všetkých vašich zariadeniach - vezmite si so sebou karty, históriu a záložky. Všetko, čo potrebujete, je <a { $attrs }>{ -brand-name-mozilla-account(capitalization: "lower") }</a> a získate prístup k synchronizácii a ďalším produktom od { -brand-name-mozilla(case: "gen") }.
@@ -147,8 +143,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automat
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Máte otázky? <a { $attrs }>Stránky podpory pre produkty { -brand-name-mozilla(gen: "gen") }</a> vám pomôžu.
 firefox-desktop-download-watch-for-hackers-with-v3 = Sledujte hackerov pomocou služby { -brand-name-mozilla-monitor }, chráňte svoju e‑mailovú adresu pomocou služby  { -brand-name-firefox-relay }, a podobne.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Sledujte hackerov pomocou služby { -brand-name-firefox-monitor }, chráňte svoju e‑mailovú adresu pomocou služby  { -brand-name-firefox-relay }, a podobne.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -186,4 +180,3 @@ firefox-desktop-download-please-follow = Pri inštalácií { -brand-name-firefox
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Váš systém nemusí spĺňať požiadavky pre { -brand-name-firefox }. Môžete však skúsiť niektorú z <a href="{ $url }">týchto verzií</a>.
-firefox-desktop-download-taskbar = { -brand-name-firefox } sa po inštalácii pripne na panel úloh systému { -brand-name-windows }

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
@@ -14,7 +14,7 @@ misinformation-disinformation = Thông tin sai lệch – bạn có thể đã n
 misinformation-ultimately-harmful = Cuối cùng, đa số thông tin sai lệch đều có thể gây hại. Mọi người không chỉ tin vào thông tin không chính xác mà còn tiêu tốn rất nhiều tiền của nền kinh tế toàn cầu và có thể đe dọa nền dân chủ và quản trị hiệu quả. Và rất khó để ngăn chặn vì tin tức sai lan truyền nhanh hơn, sâu hơn và rộng hơn đáng kể so với tin chính xác.
 misinformation-false-info-heading = Thông tin sai sự thật hiển thị ở đâu?
 # Variables:
-#   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
+#   $tracking (url) - link to https://blog.mozilla.org/products/firefox/firefox-privacy-protections/
 misinformation-widespread-online = Bạn có thể bắt gặp thông tin sai lệch ở khắp mọi nơi nhưng nó phổ biến và có tác động mạnh nhất khi được chia sẻ trực tuyến. Các thuật toán và <a href="{ $tracking }">theo dõi</a> đã làm tăng khả năng thông tin sai lệch và thông tin sai lệch tiếp cận nhiều đối tượng hơn trên các trang web, blog, diễn đàn và mạng xã hội.
 misinformation-tracking-advertising = Bạn có thể đã nghe nói về việc theo dõi chủ yếu trong ngữ cảnh quảng cáo. Tuy nhiên, nó cũng là một công cụ mạnh mẽ khi phát tán thông tin sai lệch. Tại sao vậy? Khi bạn duyệt qua internet hoặc nguồn cấp dữ liệu mạng xã hội của mình, hành vi, sở thích, địa chỉ liên hệ của bạn trong một số trường hợp và hơn thế nữa được theo dõi bởi các bên khác nhau trên các trang web nhằm tạo ra một hồ sơ cực kỳ chi tiết về bạn để bán cho người khác mà bạn không biết hoặc không đồng ý. Những cấu hình này được sử dụng cho quảng cáo được cá nhân hóa nhưng cũng có thể dùng để trình bày bất kỳ loại thông tin được nhắm mục tiêu nào cho bạn.
 misinformation-social-newtorks = Khi bạn nhận được đề xuất nội dung trên bất kỳ trang web hoặc mạng xã hội nào, thường là do một thuật toán trình bày thông tin dựa trên thông tin hồ sơ của bạn. Thật không may, mặc dù các thuật toán ngày càng thông minh hơn, nhưng chúng không kiểm tra độ chính xác của nội dung. Điều này đặc biệt có vấn đề với mạng xã hội: Các mạng này hiển thị vô số mẫu thông tin cho người dùng của họ mỗi ngày và có quyền truy cập vào nội dung gần như không giới hạn bao gồm bài đăng của người dùng, tin bài, quảng cáo và nội dung được tài trợ. Mặc dù các bài đăng và bài viết có thể vô tình lan truyền thông tin sai lệch, nhưng quảng cáo và nội dung được tài trợ có thể được sử dụng để nhắm mục tiêu bạn có chủ ý với thông tin sai lệch nhằm thao túng bạn, điều cần thiết là bạn phải biết cách xác định thông tin sai lệch.

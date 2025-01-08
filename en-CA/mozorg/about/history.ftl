@@ -1,13 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
 
 history-history-of-the-mozilla-project = History of the { -brand-name-mozilla } Project
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = The { -brand-name-mozilla } project was <a href="{ $coderush }">created in 1998</a> with the <a href="{ $sourcerelease }">release of the { -brand-name-netscape } browser suite source code</a>.
 history-it-was-intended-to-harness = It was intended to harness the creative power of thousands of programmers on the internet and fuel unprecedented levels of innovation in the browser market.

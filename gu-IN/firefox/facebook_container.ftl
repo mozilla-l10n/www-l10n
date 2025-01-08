@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -10,11 +10,6 @@ facebook-container-millions-of-people-around = વિશ્વભરમાં �
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. સારું સમાયેલ. તમારું બાકીનું જીવન તમેજ રાખો.
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container } એક્સ્ટેંશન મેળવો
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } ડાઉનલોડ કરો અને { -brand-name-facebook-container } એક્સ્ટેંશન મેળવો
-# Outdated string
-facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } એક્સ્ટેંશન મોબાઇલ ઉપકરણો પર ઉપલબ્ધ નથી.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = { -brand-name-android } અને { -brand-name-ios } માટે ગોપનીયતા બ્રાઉઝર <strong>{ -brand-name-firefox-focus }</strong>, અજમાવો.
 facebook-container-opt-out-on-your-terms = તમારી શરતોને નાપસંદ કરો
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/7/
@@ -17,6 +17,4 @@ page7-make-them-unfollow-you = Împiedică-i să te mai urmărească
 page7-that-sneaky-little-button = Butonul acela mic, dar viclean
 page7-those-innocent-looking-f-buttons = Butoanele acelea F, aparent nevinovate, de la { -brand-name-facebook } îți urmăresc activitatea pe web, chiar dacă nu ai un cont. { -brand-name-facebook-container } le blochează.
 page7-stay-ahead-of-hackers = Fii cu un pas înaintea hackerilor
-page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } îți permite să afli ce ar putea ști deja hackerii despre tine și te ajută să fii cu un pas înaintea lor. (Și e gratuit.)
-page7-get-firefox-monitor = Instalează { -brand-name-firefox-monitor }
 page7-why-am-i-seeing-this = De ce văd asta?

@@ -1,14 +1,14 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = Направете { -brand-name-firefox } вашия четец по подразбиране
-set-as-default-landing-make-sure-youre-protected = Бъдете сигурни, че сте защитени всеки път когато сте онлайн
 set-as-default-landing-thanks-for-using-the = Благодарим ви, че използвате последното издание на { -brand-name-firefox }. Когато избирате { -brand-name-firefox }, вие подкрепяте по-добрия интернет за вас и вашите близки. Сега преминете към следващата стъпка към вашата защита.
+set-as-default-landing-make-sure-youre-protected = Бъдете сигурни, че сте защитени всеки път когато сте онлайн
 set-as-default-landing-choose-automatic-privacy = Изберете автоматична поверителност
 set-as-default-landing-companies-keep-finding = Компаниите намират нови начини да вземат вашите лични данни. { -brand-name-firefox } е четецът с мисия да ви защити.
 set-as-default-landing-choose-freedom-on-every = Изберете свободата на всяко устройство

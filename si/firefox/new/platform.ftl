@@ -17,7 +17,7 @@ new-platform-advanced-install-options = වැඩිදුර ස්ථාපන
 new-platform-download-in-another = වෙනත් භාෂාවකින් බාගන්න
 new-platform-need-help = උදව් වුවමනා ද?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = { -brand-name-linux } සඳහා { -brand-name-mozilla } { -brand-name-firefox } බාගන්න
 # /firefox/linux/ HTML page description

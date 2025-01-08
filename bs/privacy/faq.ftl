@@ -16,13 +16,9 @@ privacy-faq-at-mozilla-we-respect-and-protect = U { -brand-name-mozilla }, mi po
 privacy-faq-we-follow-a-set-of-data-privacy = Slijedimo niz <a href="{ $link }">Načela privatnosti podataka</a> koji oblikuju naš prustup privatnosti u { -brand-name-firefox } desktop i mobilnim browserima.
 privacy-faq-we-only-collect-the-data-we = Mi samo prikupljamo podatke koje trebamo za pravljenje najboljih proizvoda.
 privacy-faq-we-put-people-in-control-of = Stavljamo ljude u kontrolu njihovih podataka i online iskustava.
-# Obsolete string (expires 2024-09-11)
-privacy-faq-we-adhere-to-no-surprises-principle = Pratimo princip “bez iznenađenja”, što znači da radimo naporno kako bismo bili sigurni da je razumjevanje { -brand-name-firefox } korisnika što bliže stvarnosti.
 privacy-faq-we-adhere-to-no-surprises-principle-v2 = Pratimo princip “bez iznenađenja”, što znači da radimo naporno kako bismo bili sigurni da je razumjevanje { -brand-name-firefox } korisnika što bliže stvarnosti.
 privacy-faq-the-following-questions-and = Sljedeća pitanja i odgovori bi trebali da vam pomognu razumjeti šta očekivati od { -brand-name-mozilla } i { -brand-name-firefox }a:
 privacy-faq-i-use-firefox-for-almost-everything = Koristim { -brand-name-firefox } za gotovo sve na webu. Vi u { -brand-name-mozilla } mora da znate gomilu stvari o meni, jel' da?
-# Obsolete string (expires 2024-09-11)
-privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, web browser koji radi na vašem uređaju ili kompjuteru, je vaš put do interneta. Vaš browser će upravljati sa dosta informacija o web stranicama koje posjetite, ali te informacije ostaju na vašem uređaju. { -brand-name-mozilla }, kompanija koja pravi { -brand-name-firefox }, ne prikuplja ih (osim ako to ne tražite).
 privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, web browser koji radi na vašem uređaju ili kompjuteru, je vaš put do interneta. Vaš browser će upravljati sa dosta informacija o web stranicama koje posjetite, ali te informacije općenito ostaju na vašem uređaju. { -brand-name-mozilla }, kompanija koja pravi { -brand-name-firefox }, ne prikuplja ih (osim ako to ne tražite).
 privacy-faq-really-you-dont-collect-my-browsing = Stvarno, ne prikupljate moju historiju pretraživanja?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } ne zna toliko puno kako vi očekujete o tome kako ljudi pretražuju web. Kao graditelji pretraživača, to je ustvari veliki izazov za nas. Zato mi ugrađujemo opcione alate, koji dozvoljavaju korisnicima da nam daju pristup njihovom web pretraživanju. Ako sinrhonizujete vašu historiju pretraživanja putem { -brand-name-firefox } instalacija, mi ne znamo šta je ta historija - jer je šifrovana od strane vašeg uređaja.
@@ -34,11 +30,6 @@ privacy-faq-wait-so-how-do-you-make-money = Čekaj, kako onda vi zarađujete nov
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } nije prosječna organizacija. Osnovana kao zajednica projekta otvorenog koda 1998, { -brand-name-mozilla } je organizacija vođena misijom za zdraviji internet. Najvažniji prihodi { -brand-name-mozilla-corporation } su zarađeni putem partnerskih veza za { -brand-name-firefox } web pretraživanja i distribucije ponuda širom svijeta. Možete saznati više o tome kako mi stvaramo novac u našem <a href="{ $link }">godišnjem finansijskom izvještaju</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Uredu, ova pitanja su bila jednostavna. Koje podatke sakupljate?
-# Obsolete string (expires 2024-09-11)
-# Variables:
-#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
-#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } sakuplja ograničeni skup podataka po zadanom iz { -brand-name-firefox }a koji pomažu da razumijemo kako ljudi koriste browser. Ti podaci su vezani za slučajni identifikator, a ne vaše ime ili email adresu. Možete pročitati više o tome u našoj <a href="{ $privacy }">napomeni o privatnosti</a> i možete pročitati <a href="{ $data }">cijelu dokumentaciju o tom prikupljanju podataka</a>.
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
@@ -48,17 +39,9 @@ privacy-faq-we-make-our-documentation-public = Mi činimo našu dokumetaciju jav
 privacy-faq-that-documentation-is-gobbledygook = Ta dokumentacija je svaštarija za mene! Možete li mi je dati u pojednostavljenom engleskom jeziku?
 privacy-faq-there-are-two-categories-of = Postoje dvije kategorije podataka koje prikupljamo po zadanom u našem izdanju verzije { -brand-name-firefox }a.
 privacy-faq-the-first-is-what-we-call-technical = Prvo je ono što mi zovemo "tehnički podaci." Ovo su podaci o samom browseru, kao što je operativni sistem koji ga pokreće i informacije o greškama i padovima.
-# Obsolete string (expires 2024-09-11)
-privacy-faq-the-second-is-what-we-call-interaction = Drugo je ono što mi zovemo "interakcija podataka." Ovo su podaci o individualnom povezivanju sa { -brand-name-firefox }om, kao što je broj otvorenih tabova, satus korisničkih postavki ili broj koliko puta se neka funkcija koristila, poput snimki ili kontejnera. Na primjer, mi prikupljamo ove podatke u smislu dugmeta za povratak nazad, ta strelica u gornjem lijevom uglu vašeg browsera koja vam omogućava povratak na prethodnu web stranicu na način koji nam pokazuje kako neko koristi drugme za povratak, ali ne govori kojim određenim stranicama se pristupilo.
 privacy-faq-the-second-is-what-we-call-interaction-v2 = Drugo je ono što mi zovemo "interakcija podataka." Ovo su podaci o individualnom povezivanju sa { -brand-name-firefox }om, kao što je broj otvorenih tabova, satus korisničkih postavki ili broj koliko puta se neka funkcija koristila, poput snimki ili kontejnera. Na primjer, mi prikupljamo ove podatke pomoću dugmeta za povratak nazad, ta strelica u gornjem lijevom uglu vašeg browsera koja vam omogućava povratak na prethodnu web stranicu na način koji nam pokazuje kako neko koristi drugme za povratak, ali ne govori kojim određenim stranicama se pristupilo.
 privacy-faq-do-you-collect-more-data-in = Da li prikupljate više podataka u testnim verzijama { -brand-name-firefox }a?
-# Obsolete string (expires 2024-09-11)
-privacy-faq-sort-of-in-addition-to-the-data = Na neki način. Pored opisanih podataka iznad, podrazumjevano dobijamo poruke o padovima i greškama u testnoj verziji { -brand-name-firefox }a.
 privacy-faq-sort-of-in-addition-to-the-data-v2 = Na neki način. Pored opisanih podataka iznad, podrazumjevano dobijamo poruke o padovima i greškama u testne verzije { -brand-name-firefox }a.
-# Obsolete string (expires 2024-09-11)
-# Variables:
-#   $link (url) - link to https://support.mozilla.org/kb/shield
-privacy-faq-we-may-also-collect-additional = Možda ćemo prikupiti dodatne podatke u testnoj verziji za jedne od naših <a href="{ $link }">studija</a>. Na primjer, neke studije zahtjevaju nešto što zovemo “podaci o web aktivnostima”, koji mogu uključivati URL-ove i druge informacije o određenim web stranicama. Ovo nam pomaže odgovoriti na konkretna pitanja da poboljšamo { -brand-name-firefox }, na primjer, kako bolje integrisati popularne web stranice u određenim lokalizacijama.
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional-v2 = Možda ćemo prikupiti dodatne podatke u testnoj verziji za jedne od naših <a href="{ $link }">studija</a>. Na primjer, neke studije zahtjevaju nešto što zovemo “podaci o web aktivnostima”, koji mogu uključivati URL-ove i druge informacije o određenim web stranicama. Ovo nam pomaže odgovoriti na konkretna pitanja da poboljšamo { -brand-name-firefox }, na primjer, kako bolje integrisati popularne web stranice u određenim lokalizacijama.

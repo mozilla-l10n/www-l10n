@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/8/
@@ -15,7 +15,6 @@ welcome-page8-view-your-protection-report = Wali aneqqis-ik·im n ummesten
 welcome-page8-enhanced-tracking-protection = Ammesten mgal aḍfa yettwasǧehden
 welcome-page8-automatically-block-sites = Sewḥel s wudem awurman ismal ur ak·akem-ṭṭafaren ara deg internet.
 welcome-page8-see-whats-blocked = Wali acu yettusweḥlen
-welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-see-what-youve-been = Wali ma yella tettekkaḍ degtrewliwin n yisefka yettwassnen srid, twaliḍ amek ara txedmeḍ akken ad tent-tefruḍ.
 welcome-page8-go-to-monitor = Kcem ɣer { -brand-name-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }

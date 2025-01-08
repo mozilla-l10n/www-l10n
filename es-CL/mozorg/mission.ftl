@@ -10,16 +10,10 @@ mission-our-mission-is-to-ensure-the-internet = Nuestra misión es asegurar que 
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Nuestra misión es promover la apertura, innovación y oportunidad en la Web.
 mission-at-mozilla-were-a-global-community-v2 = En { -brand-name-mozilla }, somos una comunidad global de tecnólogos, pensadores y constructores trabajando juntos para mantener la Internet viva y accesible, de forma que las personas en todo el mundo puedan ser contribuidores y creadores informados de la Web.
-# Outdated string
-mission-at-mozilla-were-a-global-community = En Mozilla, somos una comunidad global de tecnólogos, pensadores y constructores trabajando juntos para mantener la Internet viva y accesible, de forma que las personas en todo el mundo puedan ser contribuidores y creadores informados de la Web.
 mission-we-believe-this-act-of-human-collaboration = Creemos que este acto de colaboración humana a través de la plataforma abierta es esencial para el crecimiento individual y nuestro futuro colectivo.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn-v2 = Lee el <a href="{ $url }">{ -brand-name-mozilla }Manifesto</a> para aprender aun más sobre los valores y principios que nos guían para seguir nuestra misión.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/about/manifesto/
-mission-read-the-mozilla-manifesto-to-learn = Lee el <a href="{ $url }">Mozilla Manifesto</a> para aprender aun más sobre los valores y principios que nos guían para seguir nuestra misión.
 mission-watch-the-video-above-to-learn-more = Mira el video de arriba para aprender más sobre quiénes somos, de dónde venimos y cómo estamos haciendo la Web mejor para ti.
 mission-get-involved = Participa
 mission-volunteer-opportunities-in-a-number = Oportunidades de voluntariado en diferentes áreas
@@ -29,5 +23,3 @@ mission-forums = Foros
 mission-topics-include-support-products = Los temas incluyen soporte, productos y tecnologías
 mission-governance = Gobernanza
 mission-our-structure-organization-and-the-v2 = Nuestra estructura, organización, y la amplia comunidad { -brand-name-mozilla }
-# Outdated string
-mission-our-structure-organization-and-the = Nuestra estructura, organización, y la amplia comunidad Mozilla

@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } được 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Khi internet phát triển và thay đổi, { -brand-name-firefox } tiếp tục tập trung vào quyền riêng tư của bạn  — chúng tôi gọi đó là <a { $attrs }>Lời hứa dữ liệu cá nhân</a>: Lấy ít hơn. Giữ nó an toàn. Không có bí mật. Dữ liệu của bạn, hoạt động web của bạn, cuộc sống trực tuyến của bạn được bảo vệ với { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } khả dụng trên tất cả các thiết bị của bạn; mang theo các thẻ, lịch sử và dấu trang của bạn với bạn. Tất cả những gì bạn cần là một <a { $attrs }>tài khoản { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } có sẵn trên tất cả các thiết bị của bạn; mang theo các thẻ, lịch sử và dấu trang của bạn. Tất cả những gì bạn cần là một <a { $attrs }>{ -brand-name-mozilla-account }</a> và bạn sẽ có quyền truy cập vào tính năng đồng bộ hóa và các sản phẩm khác của { -brand-name-mozilla }.
@@ -146,13 +142,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } tự đ
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Có câu hỏi? <a { $attrs }>Hỗ trợ { -brand-name-mozilla }</a> sẽ giúp ích cho bạn.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Bạn đã có trình duyệt. Bây giờ nhận được nhiều hơn từ { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with-v3 = Theo dõi tin tặc với { -brand-name-mozilla-monitor }, bảo vệ địa chỉ email của bạn với { -brand-name-firefox-relay }, và hơn thế nữa.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Đề phòng tin tặc bằng { -brand-name-firefox-monitor }, bảo vệ địa chỉ email của bạn bằng { -brand-name-firefox-relay }, v.v.
-firefox-desktop-download-get-more-from-firefox = Nhận thêm từ { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Chỉ cần tải xuống trình duyệt
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -190,4 +180,3 @@ firefox-desktop-download-please-follow = Vui lòng làm theo <a href="{ $url }">
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Hệ thống của bạn có thể không đáp ứng các yêu cầu của { -brand-name-firefox }, nhưng bạn có thể thử một trong <a href="{ $url }">các phiên bản này</a>.
-firefox-desktop-download-taskbar = { -brand-name-firefox } sẽ được ghim vào taskbar của { -brand-name-windows } sau khi cài đặt

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/legal/
@@ -14,7 +14,6 @@ legal-special-thanks-to-all-of-you = { -brand-name-mozilla } வின் மு
 legal-terms = விதிமுறைகள்
 legal-our-websites = எமது வலைதளங்கள்
 legal-firefox-services = { -brand-name-firefox } சேவைகள்
-legal-webmaker = வெப்மேக்கர்
 legal-privacy-trademarks = தனியுரிமை & வணிககுறிகள்
 legal-privacy-notices-and-policy = தனியுரிமை அறிவிப்புகளும் கொள்கையும்
 legal-downloadable-software-notices = பதிவிறக்கக்கூடிய மென்பொருள் அறிவிப்புகள்

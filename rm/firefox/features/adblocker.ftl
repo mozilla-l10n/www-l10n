@@ -31,18 +31,6 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> è in�
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Questas extensiuns funcziunan perfectamain sin <a { $attrs1 }>{ -brand-name-firefox } per computers desktop</a> e per apparats mobils <a { $attrs2 }>Android</a>.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = I dat l'<a href="{ $url }">AdBlocker Ultimate</a> che allontanescha mintga reclama, ma quai ha in effect lateral. Tschertas da tias gasettas e da tes magazins preferids dependan da reclamas. Sche memia bleras persunas blocheschan lur reclamas, fa lur model naufragi.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Il mender èn pop-ups da reclama. Als blochescha cun <a href="{ $url }">Popup Blocker</a> e ti n'has mai pli da far cun in pop-up stentus.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = In dals bloccaders ils pli populars per { -brand-name-chrome }, { -brand-name-safari } e { -brand-name-firefox } è <a href="{ $url }">AdBlock</a>. Al dovra per bloccar reclamas sin { -brand-name-facebook }, { -brand-name-youtube } e { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = Creescha ina zona libra da fastizaders cun la bloccada da cuntegn
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

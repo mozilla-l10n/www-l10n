@@ -17,7 +17,7 @@ new-platform-advanced-install-options = ຕົວເລືອກການຕິ�
 new-platform-download-in-another = ດາວໂຫຼດໃນພາສາອື່ນ
 new-platform-need-help = ຕ້ອງການຄວາມຊ່ວຍເຫລືອບໍ?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = ດາວໂຫລດ { -brand-name-mozilla } { -brand-name-firefox } ສໍາລັບ { -brand-name-linux }
 # /firefox/linux/ HTML page description

@@ -7,35 +7,10 @@ footer-mozilla-manifesto = { -brand-name-mozilla } Manifesto
 footer-privacy-hub = ສູນກາງຄວາມເປັນສ່ວນຕົວ
 footer-privacy = ຄວາມເປັນສ່ວນໂຕ
 footer-press = ກົດ
-footer-corporate-blog = ບົດຄວາມຂອງບໍລິສັດ
 footer-browser-comparison = ການປຽບທຽບຕົວທ່ອງເວັບ
 footer-brand-standards = ມາດຕະຖານຍີ່ຫໍ້
 footer-browsers = ຕົວທ່ອງເວັບ
-# Outdated string
-footer-desktop = ເດສກ໌ທັອບ
-# Outdated string
-footer-mobile = ໂທລະສັບມືຖື
-# Outdated string
-footer-reality = { -brand-name-reality }
 footer-enterprise = { -brand-name-enterprise }
-# Outdated string
-footer-products = ຜະລິດຕະພັນ
-# Outdated string
-footer-lockwise = { -brand-name-lockwise }
-# Outdated string
-footer-monitor = { -brand-name-monitor }
-# Outdated string
-footer-send = { -brand-name-send }
-# Outdated string
-footer-pocket = { -brand-name-pocket }
-# Outdated string
-footer-join = ເຂົ້າຮ່ວມ
-# Outdated string
-footer-sign-up = ລົງ​ທະ​ບຽນ
-# Outdated string
-footer-sign-in = ລົງຊື່ເຂົ້າໃຊ້
-# Outdated string
-footer-benefits = ຜົນປະໂຫຍດ
 footer-developers = ນັກພັດທະນາ
 footer-developer-edition = { -brand-name-developer-edition }
 footer-beta = { -brand-name-beta }
@@ -46,14 +21,8 @@ footer-visit-mozilla-corporations = ເຂົ້າໄປເບິ່ງ <a { $m
 footer-portions-of-this-content = ບາງສ່ວນຂອງເນື້ອຫານີ້ແມ່ນ ©1998–{ $current_year } ໂດຍຜູ້ປະກອບສ່ວນຂອງ mozilla.org ສ່ວນບຸກຄົນ. ເນື້ອຫາສາມາດໃຊ້ໄດ້ພາຍໃຕ້ໃບອະນຸຍາດ <a rel="license" href="{ $url }">{ -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = ບໍລິສັດ
-# Outdated string
-footer-about = ກ່ຽວກັບ
 footer-press-center = ສູນຂ່າວ
 footer-careers = ຕຳແຫນ່ງວຽກ
-# Outdated string
-footer-test-new-features = ທົດສອບຄຸນສົມບັດໃຫມ່
-# Outdated string
-footer-mdn-web-docs = { -brand-name-mdn-web-docs }
 footer-tools = ເຄື່ອງມື
 footer-resources = ຊັບ​ພະ​ຍາ​ກອນ
 footer-contact = ຕິດຕໍ່
@@ -68,7 +37,6 @@ footer-websites-legal = ຖືກກົດຫມາຍ
 footer-language = ພາສາ
 footer-go = ໄປ
 footer-donate = ບໍລິຈາກ
-footer-twitter = { -brand-name-twitter }
 footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

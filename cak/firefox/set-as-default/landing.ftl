@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/
@@ -9,8 +9,8 @@
 set-as-default-landing-make-firefox-your-default = Tab'ana' chi ri { -brand-name-firefox } nok ri nab'ey awokik'amaya'l
 # HTML page description
 set-as-default-landing-choose-the-browser = Tacha' ri okik'amaya'l nuchajij ri awichinanem. Tab'ana' chi ri { -brand-name-firefox } tok ri awokik'amaya'l kan k'o wi.
-set-as-default-landing-make-sure-youre-protected = Tajikib'a' chi atchajin toq yatok pa k'amab'ey
 set-as-default-landing-thanks-for-using-the = Matyox ruma nawokisaj ri k'ak'a' ruwäch { -brand-name-firefox }. Toq nacha' ri { -brand-name-firefox } yato'on chi ütz nub'än chawäch ri ajk'amaya'l chuqa' chi qe qonojel. Wakami taya' ri nab'ey xak richin nachajij awi'.
+set-as-default-landing-make-sure-youre-protected = Tajikib'a' chi atchajin toq yatok pa k'amab'ey
 set-as-default-landing-choose-automatic-privacy = Tacha' ruyonil ichinanem
 set-as-default-landing-companies-keep-finding = Ri ajk'ayij yekik'anoj k'ak'a' taq rub'anikil richin nikeleq'aj ri awetamab'al. Ri { -brand-name-firefox } ruyonil okik'amaya'l nukanoj k'aka' taq rub'anikil richin yatruchajij.
 set-as-default-landing-choose-freedom-on-every = Tacha' ri silan k'u'x pa taq okisaxel

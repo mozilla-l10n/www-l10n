@@ -16,7 +16,3 @@ features-adblocker-get-tough-with-strict = سخت موڈ کے ساتھ سختی 
 features-adblocker-do-it-yourself-custom = کسٹم موڈ خود سے کریں
 features-adblocker-cover-your-trail-block = اپنی پگڈنڈی ، بلاک ٹریکرز کو ڈھانپیں
 features-adblocker-speed-up-thanks-to-ad = اتیز رفتار ایڈ بلاکرز کا شکریہ
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more = اگر آپ اشتہاری کو مسدود کرنے کے بارے میں مزید معلومات حاصل کرنا چاہتے ہیں تو ، { -brand-name-firefox } اور دیگر براؤزرز کے لئے سیکڑوں اشتہاری بلاکر ایکسٹینشن دستیاب ہیں۔ اگر { -brand-name-firefox } بلاکس کے اشتہاری بلآکرز کو استعمال کرنے کی کوشش کرنا چاہتے ہیں تو <a href="{ $url }"> ڈاؤن لوڈ کرنے کے لئے یہاں کلک کریں </a> ایک براؤزر جو جو رازداری کو پہلے رکھتا ہے۔
-features-adblocker-take-control-of-your-browser = اپنے براؤزر کا کنٹرول حاصل کریں۔

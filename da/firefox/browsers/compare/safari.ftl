@@ -5,7 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
 
-# HTML page title
-compare-safari-firefox-vs-safari-which-is = { -brand-name-firefox } eller { -brand-name-safari }: Hvilken browser er bedst til dig?
-# Main title.
-compare-safari-comparing-firefox-browser = Sammenligning af { -brand-name-firefox-browser } og { -brand-name-apple } { -brand-name-safari }

@@ -23,20 +23,8 @@ sub-navigation-android-beta = { -brand-name-android } { -brand-name-beta }
 sub-navigation-desktop-beta-and-developer = { -brand-name-beta } și { -brand-name-developer-edition } pentru desktop
 sub-navigation-desktop-nightly = { -brand-name-nightly } pentru desktop
 sub-navigation-features = Funcționalități
-sub-navigation-support = Asistență
-sub-navigation-firefox-focus = { -brand-name-firefox-focus }
-# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
-sub-navigation-addons = Suplimente
-sub-navigation-add-ons = Suplimente
-sub-navigation-faq = Întrebări frecvente
-sub-navigation-learn-more = Află mai multe
-sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = { -brand-name-firefox } pentru mobil
-# Obsolete string. Used as fallback for `sub-navigation-android-addons` string:
-sub-navigation-android-addons = Suplimente pentru { -brand-name-android }
-sub-navigation-android-add-ons = Suplimente pentru { -brand-name-android }
 sub-navigation-chromebook = { -brand-name-chromebook }
-sub-navigation-firefox-accounts = { -brand-name-firefox-accounts(case: "indefinite-article", capitalization: "upper") }
 sub-navigation-sync = { -brand-name-sync }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64 de biți
@@ -51,6 +39,3 @@ sub-navigation-private-browsing = Navigare privată
 sub-navigation-what-is-a-browser = Ce este un browser?
 sub-navigation-browsing-history = Istoric de navigare
 sub-navigation-browser-history = Istoria browserelor
-sub-navigation-privacy = Confidențialitate
-sub-navigation-our-promise = Promisiunea noastră
-sub-navigation-our-products = Produsele noastre

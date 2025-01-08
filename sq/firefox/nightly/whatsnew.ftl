@@ -14,13 +14,9 @@ nightly-whatsnew-every-4-to-5-weeks = Çdo 4 deri në 5 javë hidhet në qarkull
 nightly-whatsnew-this-is-a-good = Kjo është një kohë e përshtatshme për t’ju falënderuar që na ndihmoni ta bëjmë { -brand-name-firefox }-in më të mirë dhe për t’ju dhënë disa piketa për te dokumentimi, kanalet e komunikimit dhe sajte lajmesh të lidhur me { -brand-name-nightly }-n që mund të jenë me interes për ju.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = Nëse doni të dini se ç’po ndodh rreth { -brand-name-nightly }-t dhe bashkësisë së tij, leximi i <a { $blog }>blogut</a> tonë dhe ndjekja jonë në <a { $mastodon }>Mastodon</a> ose <a { $twitter }>X</a> janë pikënisje të mira!
-# Variables:
-#   $attrs (string) - link href and additional attributes
-# Obsolete string (expires: 2024-11-26)
-nightly-whatsnew-want-to-know-which-v2 = Doni të dini se cilat veçori të platformës mund të testonit në { -brand-name-nightly } dhe s’i shihni ende në kanale të tjerë { -brand-name-firefox }-i? Hidhini një sy faqes për parapëlqime mbi <a { $attrs }>Eksperimente me Nightly-n</a>.
 # Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v3 = Doni të dini se cilat veçori të platformës mund të testonit në { -brand-name-nightly } dhe s’i shihni ende në kanale të tjerë { -brand-name-firefox }-i? Hidhini një sy faqes për parapëlqime mbi <a { $attrs }>{ -brand-name-firefox-labs }</a>.

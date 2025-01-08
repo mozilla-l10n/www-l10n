@@ -54,19 +54,10 @@ vpn-download-faq-working = Jak poznám, že VPN funguje?
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.mozilla.org/
 vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } zobrazuje vizuální indikátory aktuálního stavu na panelu nástrojů i na domovské obrazovce aplikace, takže snadno zjistíte, zda je vaše online aktivita chráněna, či nikoli. Tyto indikátory umožňují potvrdit, kdy je vaše komunikace soukromá a bezpečná. Kromě toho můžete během připojení navštívit <a href="{ $monitor }">https://monitor.mozilla.org/</a> a potvrdit, zda je vaše IP adresa maskována. Další podrobnosti naleznete v části <a href="{ $connected }">Jak zjistím, zda je { -brand-name-mozilla-vpn } připojena?</a>.
-# Obsolete string
-# Variables:
-#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
-#   $monitor (url) link to https://monitor.firefox.com/
-vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } zobrazuje vizuální indikátory aktuálního stavu na panelu nástrojů i na domovské obrazovce aplikace, takže snadno zjistíte, zda je vaše online aktivita chráněna, či nikoli. Tyto indikátory umožňují potvrdit, kdy je vaše komunikace soukromá a bezpečná. Kromě toho můžete během připojení navštívit <a href="{ $monitor }">https://monitor.firefox.com/</a> a potvrdit, zda je vaše IP adresa maskována. Další podrobnosti naleznete v části <a href="{ $connected }">Jak zjistím, zda je { -brand-name-mozilla-vpn } připojena?</a>.
 vpn-download-faq-add-device = Jak přidám další zařízení?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v3 = Přidání dalšího zařízení je stejně jednoduché jako stažení a instalace softwaru { -brand-name-mozilla-vpn } a následné přihlášení ke stávajícímu { -brand-name-mozilla-account } na novém zařízení. Další podrobnosti naleznete v <a href="{ $subscription }">Jak přidat zařízení k vašemu předplatnému { -brand-name-mozilla-vpn }</a>.
-# Obsolete string
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v2 = Přidání dalšího zařízení je stejně jednoduché jako stažení a instalace softwaru { -brand-name-mozilla-vpn }, a následné přihlášení ke stávajícímu { -brand-name-firefox-account } na novém zařízení. Další podrobnosti naleznete v <a href="{ $subscription }">Jak přidat zařízení k vašemu předplatnému { -brand-name-mozilla-vpn }</a>.
 vpn-download-faq-best-practices = Jaké jsou některé osvědčené postupy při používání VPN?
 vpn-download-faq-traffic = Pokud je vaším cílem chránit internetový provoz a zároveň zachovat vysokou rychlost, je vždy nejlepší zvolit umístění serveru co nejblíže vaší fyzické poloze. Tím se zvýší spolehlivost a rychlost vašeho připojení, protože váš internetový provoz nebude muset absolvovat značnou okliku, než dorazí na místo určení na webu.
 vpn-download-faq-experience = Pokud je vaším cílem zažít internet tak, jako byste byli v jiné části světa, můžete si zvolit umístění serveru a všechny webové stránky, které navštívíte, se zobrazí, jako byste tam byli.

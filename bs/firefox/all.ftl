@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Preuzmite { -brand-name-firefox } na engleskom (SAD) i više od 90 drugih jezika
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = Preuzmi { -brand-name-firefox-browser } na engleskom (SAD) i više od 90 drugih jezika
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Svako zaslužuje pristup internetu — jezik nikada ne bi trebao biti prepreka. Stoga, uz pomoć mnogobrojnih volontera širom svijeta, nudimo { -brand-name-firefox } na više od 90 jezika.
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = Svako zaslužuje pristup internetu — jezik nikada ne bi trebao biti prepreka. Stoga, uz pomoć mnogobrojnih volontera širom svijeta, nudimo { -brand-name-firefox-browser } na više od 90 jezika.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = Skenirajte QR kod da dobijete <em>{ $product_name }</em>
@@ -26,14 +22,8 @@ firefox-all-change-language = Odaberite drugi jezik
 firefox-all-down-arrow = Odaberite sa liste ispod
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Zatraži pomoć
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = Browser:
 firefox-all-browser-v2 = 1. Pretraživač:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = Platforma:
 firefox-all-platform-v2 = 2. Platforma:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = Jezik:
 firefox-all-language-v2 = 3. Jezik:
 firefox-all-download = 4. Preuzmi:
 firefox-all-desktop = Desktop

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/404/
@@ -12,9 +12,6 @@ not-found-page-go-back = Titzolin
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Tawetamaj</a> chi rij { -brand-name-mozilla }, ri moloj majun ch'akoj rojqan k'o pa ruwi' ri { -brand-name-firefox }.
-# Variables:
-#   $explore (url) - link to https://www.mozilla.org/firefox/
-not-found-page-explore-the-entire-family-for = <a href={ $explore }>Tanik'oj</a> ronojel ri ach'alal yekikanoj taq ruwachinäq { -brand-name-firefox } ewachib'en richin nikameläx ri awichinanem.
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Qasanïk</a> ri { -brand-name-firefox } okik'amaya'l richin ri awoyonib'al o akematz'ib'

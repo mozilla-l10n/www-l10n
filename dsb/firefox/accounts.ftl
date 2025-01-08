@@ -7,26 +7,16 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Wobstarajśo se konto { -brand-name-mozilla-account } - Źaržćo swóje daty priwatne, wěste a synchronizěrowane
-# Obsolete string
-firefox-accounts-get-a-firefox-account = Wobstarajśo se konto { -brand-name-firefox-account } - Źaržćo swóje daty priwatne, wěste a synchronizěrowane
-# Obsolete string
-firefox-accounts-securely-sync-your = Synchronizěrujśo swóje gronidła, cytańske znamjenja a rejtariki wěsće pśez wšykne swóje rědy. Wobstarajśo se něnto konto { -brand-name-firefox-account } - Jadno pśizjawjenje - wugbaśe a priwatnosć wšuźi.
 # HTML page description
 mozilla-accounts-securely-sync-your = Synchronizěrujśo swóje gronidła, cytańske znamjenja a rejtariki wěsće pśez wšykne swóje rědy. Wobstarajśo se nowe konto { -brand-name-mozilla-account } - Jadno pśizjawjenje - wugbaśe a priwatnosć wšuźi.
 firefox-accounts-enter-your-email-address = Zapódajśo how swóju e-mailowu adresu, aby zachopił.
 firefox-accounts-already-have-an-account = Maśo južo konto?
 firefox-accounts-sign-in = Pśizjawiś
-# Obsolete string
-firefox-accounts-already = Maśo južo { -brand-name-firefox-account }. Glukužycenje!
 mozilla-accounts-already = Maśo južo { -brand-name-mozilla-account }. Glukužycenje!
 firefox-accounts-manage = Zastojśo swójo konto
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Pśizjawśo pla wašogo  { -brand-name-mozilla-account(case: "gen") }, aby:
-# Obsolete string
-firefox-accounts-sign-in-to = Pśizjawśo pla wašogo  { -brand-name-firefox-account(case: "gen") }, aby:
-# Obsolete string
-firefox-accounts-meet-our-family-of = Póznajśo našu swójźbu produktow, za kótaruž priwatnosć jo na prědnem městnje.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Sćelśo rejtarik</a> na drugi rěd

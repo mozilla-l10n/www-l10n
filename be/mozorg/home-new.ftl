@@ -32,9 +32,7 @@ home-join-us-in-shaping = Далучайцеся да нас у стварэнн
 home-work-on-ai = Праца { -brand-name-mozilla } з штучным інтэлектам – гэта не проста новая рэч. Мы выдаткавалі гады на фінансаванне, стварэнне і адстойванне адкрытага, справядлівага і адказнага развіцця штучнага інтэлекту. Мы сканцэнтраваныя на стварэнні штучнага інтэлекту, які служыць людзям, аддае перавагу празрыстасці і падтрымлівае грамадскае дабро, а не карпаратыўную павестку.
 home-read-more = Падрабязней
 home-so-what-is-mozilla = Такім чынам, што такое { -brand-name-mozilla }?
-# Variables
-#   $ventures - link to https://mozilla.vc/
-#   $mozai - link to https://mozilla.ai/
+# Obsolete string (expires: 2025-01-05)
 home-at-its-core = Па сутнасці, { -brand-name-mozilla } з'яўляецца актывісцкай арганізацыяй пад кіраўніцтвам { -brand-name-mozilla-foundation }, якая ўносіць змены ў свет праз розныя мерапрыемствы, у тым ліку { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> і <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Чым мы адрозніваемся? Паколькі мы кіруемся місіяй, гэта азначае, што ў нас ёсць свабода прымаць усе нашы рашэнні зыходзячы з таго, што лепш для інтэрнэту і ўсіх у сеціве, а не зыходзячы з патрабаванняў акцыянераў — у нас насамрэч няма ніводнага з іх.
 home-learn-about-mofo = Даведацца аб { -brand-name-mozilla-foundation }
 home-join-the-fight = Далучайцеся да барацьбы за здаровы інтэрнэт

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/
@@ -9,8 +9,8 @@
 set-as-default-landing-make-firefox-your-default = Gjør { -brand-name-firefox } til din standardnettleser
 # HTML page description
 set-as-default-landing-choose-the-browser = Velg nettleseren som beskytter personvernet ditt. Sett { -brand-name-firefox } som standard nettleser.
-set-as-default-landing-make-sure-youre-protected = Forsikre deg om at du er beskyttet, hver gang du går på nettet
 set-as-default-landing-thanks-for-using-the = Takk for at du bruker den nyeste { -brand-name-firefox }-nettleseren. Når du velger { -brand-name-firefox }, støtter du et bedre nett for deg og alle andre. Ta nå neste trinn for å beskytte deg selv.
+set-as-default-landing-make-sure-youre-protected = Forsikre deg om at du er beskyttet, hver gang du går på nettet
 set-as-default-landing-choose-automatic-privacy = Velg automatisk personvern
 set-as-default-landing-companies-keep-finding = Selskaper finner stadig nye måter å tappe personlige data på. { -brand-name-firefox } er den nettleseren som har som oppgave å finne nye måter å beskytte deg på.
 set-as-default-landing-choose-freedom-on-every = Velg frihet på alle enheter

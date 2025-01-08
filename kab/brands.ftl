@@ -104,6 +104,9 @@
 
 -brand-name-fakespot = Fakespot
 
+## Anonym
+
+
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
@@ -118,6 +121,7 @@
 -brand-name-mozilla-account = Amiḍan n Mozilla
 -brand-name-mozilla-accounts = Imiḍanen n Mozilla
 -brand-name-mozilla-social = Mozilla.social
+# Obsolete string (expires: 2025-01-05)
 -brand-name-mozilla-ai = Mozilla AI
 -brand-name-thunderbird = Thunderbird
 

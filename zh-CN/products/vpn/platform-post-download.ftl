@@ -54,19 +54,10 @@ vpn-download-faq-working = 如何知道 VPN 是否正常工作？
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.mozilla.org/
 vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } 会在通知栏和应用主页中显示当前状态，让您轻松了解当前在线活动是否受到保护、网上浏览是否私密及安全。此外，在连接后，您可以访问 <a href="{ $monitor }">https://monitor.mozilla.org/</a> 来确认您的 IP 地址是否已掩藏。有关详细信息，请参阅<a href="{ $connected }">如何确认 { -brand-name-mozilla-vpn } 是否已连接</a>。
-# Obsolete string
-# Variables:
-#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
-#   $monitor (url) link to https://monitor.firefox.com/
-vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } 会在通知栏和应用主页中显示当前状态，让您轻松了解当前在线活动是否受到保护、网上浏览是否私密及安全。此外，在连接后，您可以访问 <a href="{ $monitor }">https://monitor.firefox.com/</a> 来确认您的 IP 地址是否已掩藏。有关详细信息，请参阅<a href="{ $connected }">如何确认 { -brand-name-mozilla-vpn } 是否已连接</a>。
 vpn-download-faq-add-device = 如何添加其他设备？
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v3 = 新增设备很简单，只需下载并安装 { -brand-name-mozilla-vpn } 软件，然后在新设备上登录您的 { -brand-name-mozilla-account }即可。详见<a href="{ $subscription }">如何为 { -brand-name-mozilla-vpn } 订阅添加设备</a>。
-# Obsolete string
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v2 = 新增设备很简单，只需下载并安装 { -brand-name-mozilla-vpn } 软件，然后在新设备上登录您的 { -brand-name-firefox-account }即可。详见<a href="{ $subscription }">如何为 { -brand-name-mozilla-vpn } 订阅添加设备</a>。
 vpn-download-faq-best-practices = 什么是 VPN 最佳实践？
 vpn-download-faq-traffic = 如果您想要在保持高速访问的同时保护您的数据，那么您最好选择一个物理位置离您最近的服务器。这会使您的连接更快更稳定，因为您的数据包不需要走太远的路。
 vpn-download-faq-experience = 如果您想像在目标地点一样体验互联网，您可以在那里选择一个服务器，随后您的浏览就会像您在那里一样。

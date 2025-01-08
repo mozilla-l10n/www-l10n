@@ -13,14 +13,6 @@ password-manager-firefox-securely-stores-your = Mae { -brand-name-firefox } yn s
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Gyda <a { $fxa }>chyfrif am ddim { -brand-name-mozilla-account }</a> gallwch gydweddu'ch cyfrineiriau'n ddiogel ar draws eich holl ddyfeisiau. Gallwch hefyd gael mynediad at holl gynnyrch eraill { -brand-name-mozilla } sy'n parchu'ch preifatrwydd.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account = Gyda chyfrif <a href="{ $fxa }"> { -brand-name-mozilla-account } am ddim</a> gallwch gydweddu'ch cyfrineiriau'n ddiogel ar draws eich holl ddyfeisiau.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-firefox-account = Gyda chyfrif <a href="{ $fxa }">{ -brand-name-firefox } account am ddim</a> gallwch gydweddu'ch cyfrineiriau'n ddiogel ar draws eich holl ddyfeisiau.
 password-manager-password-autofill-for-easy-logins = Awtolenwi cyfrinair ar gyfer mewngofnodi hawdd
 password-manager-firefox-can-automatically-fill-in = Gall { -brand-name-firefox } lenwi eich enw defnyddiwr a chyfrinair wedi'u cadw yn awtomatig. Os oes gennych fwy nag un mewngofnod ar gyfer gwefan, gallwch ddewis y cyfrif rydych ei eisiau a byddwn yn ei ddefnyddio o hynny ymlaen.
 # Used as an accessible text alternative for an image

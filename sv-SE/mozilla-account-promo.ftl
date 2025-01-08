@@ -9,11 +9,6 @@ moz-account-promo-title = En inloggning. <br> <span { $class }>Till hela</span> 
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
 moz-account-already-have-v2 = Har du redan ett konto? <a { $sign_in_url }>Logga in</a> eller <a { $learn_more_url }>läs mer</a> om att gå med i { -brand-name-mozilla }.
-# Obsolete string (expires: 2024-09-12)
-# Variables
-#   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
-moz-account-already-have = Har du redan ett konto? <a { $sign_in_url }>Logga in</a> eller <a { $learn_more_url }>läs mer</a> om { -brand-name-mozilla }
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
 moz-account-product-pocket = { -brand-name-pocket }

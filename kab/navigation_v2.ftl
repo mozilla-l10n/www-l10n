@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Sader { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Awi { -brand-name-mozilla-vpn }
 navigation-v2-menu = Umuɣ
-# Obsolete string
-navigation-v2-get-a-firefox-account = Awi-d { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -21,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } i { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Awi iminig aziraz i { -brand-name-iphone } neɣ { -brand-name-ipad } inek.inem.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Tunigin tazirazt tusligt tafessast.
-navigation-v2-privacy-promise = Lɛehd n tbaḍnit
-navigation-v2-learn-how-firefox-treats = Issin amek ixeddem { -brand-name-firefox }i yisefka-k.m s leqder.
 navigation-v2-firefox-blog = Ablug { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = Ɣeṛ ɣef tmahilin timaynutin n { -brand-name-firefox } akked yiberdan ara k-yeǧǧen d aɣellsan deg uzeṭṭa.
 navigation-v2-release-notes = Tizmilin n lqem
@@ -33,7 +29,6 @@ navigation-v2-view-all-firefox-browsers = S'en akk { -brand-name-firefox-browser
 
 navigation-v2-products = Ifarisen
 navigation-v2-close-products-menu = Mdel umuɣ n yifarisen
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Ẓer ma imayl-ik.im yettban-d deg trewla n yisefka n tkebbanit.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Sekles rnu snirem tiqsiḍin igerrzen seg web.
@@ -41,13 +36,9 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Ur ttaǧǧa ara { -brand-name-facebook } ad yelqeḍ isefka-inek·inem beṛṛa n usmel-ines.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = Awi ammesten nnig n yiminig-inek·inem, ɣef meṛṛa ibenkan-inek·inem.
-navigation-v2-product-promise = Lɛehd n ufaris
-navigation-v2-learn-how-each-firefox-product = Issin amek yal afaris n { -brand-name-firefox } yettmestin yerna yettqadar isefka-k.m.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Rnu imiḍanen imaynuten war ma tefkiḍ-d tansa imayl.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
-navigation-v2-protect-your-browsers-connection = Mmesten tuqqna n yiminig-ik.im ɣer internet.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-view-all-products = Sken akk ifarisen
 
@@ -73,7 +64,6 @@ navigation-v2-more-about-mozilla = Ugar ɣef { -brand-name-mozilla }
 
 navigation-v2-innovation = Asnulfu
 navigation-v2-close-innovation-menu = Fren umuɣ n usnulfu
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Awi iminig { -brand-name-firefox } i yettwaxedmen i yineflayen kan.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
@@ -83,4 +73,3 @@ navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Mudd-d taɣect-ik.im akken imal n uzeṭṭa Web ad isel i medden merra.
 navigation-v2-webassembly = { -brand-name-webassembly }
 navigation-v2-learn-more-about-the-new = Issin ugar ɣef tutlayt tamaynut n wanaw usemlili n uswir adday.
-navigation-v2-more-mozilla-innovation = Ugar n usnulfu n { -brand-name-mozilla }

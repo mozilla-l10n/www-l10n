@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = 영어(미국) 및 기타 90개 이상의 언어로 { -brand-name-firefox }를 다운로드하세요.
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = { -brand-name-firefox-browser } 다운로드 - 영어 포함 90개 이상의 언어별 제공
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = 모든 사람이 인터넷에 접속할 자격이 있습니다. 언어가 장벽이 되어서는 안 됩니다. 그래서 전 세계의 헌신적인 자원봉사자들의 도움으로 { -brand-name-firefox }를 90개 이상의 언어로 제공합니다.
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = 모든 사람은 인터넷에 접속할 자격이 있습니다. 언어는 장벽이 되어서는 안됩니다. 이것이 바로 전 세계 자원 봉사자들의 도움으로 { -brand-name-firefox-browser }가 90 개 이상의 언어 버전을 제공하는 이유입니다.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = QR 코드를 스캔하여 <em>{ $product_name }</em> 다운로드
@@ -26,14 +22,8 @@ firefox-all-change-language = 다른 언어 선택
 firefox-all-down-arrow = 아래 목록에서 선택
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = 도움말
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = 브라우저:
 firefox-all-browser-v2 = 1. 브라우저:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = 플랫폼:
 firefox-all-platform-v2 = 2. 플랫폼:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = 언어:
 firefox-all-language-v2 = 3. 언어:
 firefox-all-download = 4. 다운로드:
 firefox-all-desktop = 데스크톱

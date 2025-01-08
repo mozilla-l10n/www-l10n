@@ -16,13 +16,9 @@ privacy-faq-at-mozilla-we-respect-and-protect = Nus da { -brand-name-mozilla } r
 privacy-faq-we-follow-a-set-of-data-privacy = Nus respectain ina seria da <a href="{ $link }">Principis da la protecziun da datas</a> che gidan a prender decisiuns en dumondas che reguardan la protecziun da datas da { -brand-name-firefox } sin il computer e dals navigaturs sin apparats mobils.
 privacy-faq-we-only-collect-the-data-we = Nus rimnain mo quellas datas che nus duvrain per crear products d'emprima qualitad.
 privacy-faq-we-put-people-in-control-of = Nus laschain controllar ils utilisaders lur vita digitala e la cundivisiun da lur datas.
-# Obsolete string (expires 2024-09-11)
-privacy-faq-we-adhere-to-no-surprises-principle = Per nus vala il principi «naginas surpraisas»: Nus ans stentain per che l'imaginaziun ch'ils utilisaders han da { -brand-name-firefox } correspundia a la realitad.
 privacy-faq-we-adhere-to-no-surprises-principle-v2 = Per nus vala il princip «naginas surpraisas». Quai vul dir che nus faschain tut per che la percepziun ch’ils utilisaders han da { -brand-name-firefox } correspundia a la realitad.
 privacy-faq-the-following-questions-and = Las suandantas dumondas e respostas ta duain gidar a chapir tge che ti ta pos spetgar da { -brand-name-mozilla } e { -brand-name-firefox }:
 privacy-faq-i-use-firefox-for-almost-everything = Jau dovr { -brand-name-firefox } per bunamain tut en l'internet. Vus da { -brand-name-mozilla } savais probablamain ina massa sur da mai, navaira?
-# Obsolete string (expires 2024-09-11)
-privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, il navigatur sin tes apparat mobil u computer è tia porta en l'internet. Tes navigatur gestescha bleras datas davart las websites che ti visitas, ma questas infurmaziuns restan sin tes apparat. { -brand-name-mozilla }, la firma che sviluppescha { -brand-name-firefox }, na las rimna betg (danor sche ti ans dumondas da far quai).
 privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, il navigatur sin tes apparat mobil u computer è tia porta en l’internet. Tes navigatur gestescha bleras datas davart las websites che ti visitas, ma questas infurmaziuns restan da princip sin tes apparat. { -brand-name-mozilla }, la firma che sviluppescha { -brand-name-firefox }, na las rimna betg (danor sche ti ans dumondas da far quai).
 privacy-faq-really-you-dont-collect-my-browsing = Na rimnais vus propi betg mia cronologia?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } sa pli pauc che quai che ti spetgassas davart la moda e maniera dals utilisaders da navigar en il web. Sco sviluppaders dad in navigatur è quai ina sfida per nus. Per quest motiv avain nus creà utensils che funcziunan cun participaziun voluntara e permettan als utilisaders interessads d’ans dar ina invista en lur navigaziun en il web. Sche ti sincroniseschas tia cronologia tranter differentas installaziuns da { -brand-name-firefox } n’avain nus dentant nagin access a quest cuntegn – perquai ch’el è criptà da tes apparat.
@@ -34,11 +30,6 @@ privacy-faq-wait-so-how-do-you-make-money = In mument, co faschais vus lura raps
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } n'è betg in'organisaziun ordinaria. Fundada sco project da communitad open source l'onn 1998 è { -brand-name-mozilla } ina organisaziun che lavura per la finamira dad in internet pli saun. Las pli bleras entradas recaltgescha la { -brand-name-mozilla-corporation } grazia a remuneraziuns entras partenadis dal navigatur-web { -brand-name-firefox } cun maschinas da tschertgar e cunvegnas da distribuziun sin tut il mund. Ti pos vegnir a savair dapli davart la moda e maniera co nus gudagnain daners en noss <a href="{ $link }">rapport finanzial annual</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Bun, ma tge datas rimnais vus?
-# Obsolete string (expires 2024-09-11)
-# Variables:
-#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
-#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } rimna en l'installaziun da standard ina quantitad limitada da datas da { -brand-name-firefox } ch'ans gida a chapir co las persunas dovran il navigatur. Questas datas èn associadas cun in identificatur casual e betg cun tes num u tia adressa dad e-mail. Ti pos vegnir a savair dapli davart il tema en nossa <a href="{ $privacy }">Infurmaziun davart la protecziun da datas</a> e ti pos leger l'<a href="{ $data }">entira documentaziun da questa rimnada da datas</a>.
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
@@ -48,17 +39,9 @@ privacy-faq-we-make-our-documentation-public = Nossa documentaziun è publica pe
 privacy-faq-that-documentation-is-gobbledygook = Jau na chapesch insumma nagut da questa documentaziun. Tge vul quai dir per bun rumantsch?
 privacy-faq-there-are-two-categories-of = I dat duas categorias da datas che nus rimnain tenor standard en nossa versiun finala da { -brand-name-firefox }.
 privacy-faq-the-first-is-what-we-call-technical = L'emprima numnain nus «datas tecnicas». Questas datas pertutgan il navigatur sez, per exempel il sistem operativ sin il qual el è installà ed infurmaziuns davart errurs e collaps.
-# Obsolete string (expires 2024-09-11)
-privacy-faq-the-second-is-what-we-call-interaction = La segunda numnain nus «datas d'interacziun». Questas datas pertutgan las interacziuns da l'utilisader cun { -brand-name-firefox }, per exempel il dumber da tabs averts, la configuraziun da las preferenzas u quantas giadas che tschertas funcziuns, sco screenshots u containers, èn vegnidas utilisadas. Nus rimnain questas datas tranter auter per il buttun «enavos», la frizza en il chantun sura a sanestra dal navigatur che permetta da turnar ad ina pagina precedenta, en tala furma che nus intervegnin ch'insatgi ha utilisà il buttun, ma betg la pagina visitada.
 privacy-faq-the-second-is-what-we-call-interaction-v2 = La segunda pertutga quai che nus numnain «datas d’interacziun». Questas datas pertutgan las interacziuns da l’utilisader cun { -brand-name-firefox }, per exempel il dumber da tabs averts, la configuraziun da las preferenzas u quantas giadas che tschertas funcziuns, sco screenshots u containers, èn vegnidas utilisadas. Nus rimnain questas datas tranter auter per il buttun «Enavos» (la frizza en il chantun sura a sanestra dal navigatur che permetta da turnar ad ina pagina-web precedenta), uschia che nus intervegnin ch’insatgi ha utilisà il buttun, senza che nus retschavain infurmaziuns davart la paginas visitadas.
 privacy-faq-do-you-collect-more-data-in = Rimnais vus dapli datas en versiuns betg definitivas da { -brand-name-firefox }?
-# Obsolete string (expires 2024-09-11)
-privacy-faq-sort-of-in-addition-to-the-data = En in tschert senn. Dasper las datas descrittas survart retschavain nus tenor la configuraziun da standard rapports dad errurs e collaps en versiuns betg definitivas da { -brand-name-firefox }.
 privacy-faq-sort-of-in-addition-to-the-data-v2 = En in tschert senn. Dasper las datas descrittas survart, retschavain nus tenor la configuraziun da standard rapports dad errurs e collaps en versiuns betg definitivas da { -brand-name-firefox }.
-# Obsolete string (expires 2024-09-11)
-# Variables:
-#   $link (url) - link to https://support.mozilla.org/kb/shield
-privacy-faq-we-may-also-collect-additional = Mintgatant rimnain nus en las versiuns betg definitivas era datas supplementaras per in da noss <a href="{ $link }">studis</a>. Tscherts studis pretendan per exempel uschenumnadas «datas davart l'activitad web» che pon includer URLs ed autras infurmaziuns davart tschertas websites. Quai ans gida a respunder dumondas specificas per meglierar { -brand-name-firefox }, per exempel, co integrar meglier websites popularas en { -brand-name-firefox } en ina tschertga lingua.
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional-v2 = Mintgatant rimnain nus en las versiuns betg definitivas era datas supplementaras per in da noss <a href="{ $link }">studis</a>. Tscherts studis pretendan per exempel uschenumnadas «datas davart l’activitad web» che pon includer URLs ed autras infurmaziuns davart tschertas websites. Quai ans gida a respunder dumondas specificas per meglierar { -brand-name-firefox }, per exempel, co integrar meglier websites popularas en { -brand-name-firefox } en ina tschertga lingua.

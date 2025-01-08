@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -52,33 +52,7 @@ manifesto-we-are-committed-to-diverse = Vi står for et internett som fremmer sa
 manifesto-show-your-support = Vis din støtte
 manifesto-an-internet-with-these = Et internett med disse egenskaper kommer ikke av seg selv. Mennesker og organisasjoner må integrere disse mål i både internetteknologien og brukeropplevelsen på internettet. { -brand-name-mozilla }-manifestet og dets tilføyelser står for { -brand-name-mozilla }s engasjement for disse mål. Vi vil jobbe med mennesker og organisasjoner rundt om i verdenen som deler disse mål og vil bidra til et bedre internett for alle.
 manifesto-i-support-the-vision-of = Jeg støtter visjonen fra @mozilla om et bedre, sunnere internett, vil du være med?
-manifesto-share-on-twitter = Del på { -brand-name-twitter }
 manifesto-our-10-principles = <strong>Våre 10</strong> prinsipp
-manifesto-use-open-badges-to-share = Fortjenestemerkene, Open Badges, vis ferdighetene og interessene dine
-manifesto-explore-how-the-web-impacts = Finn ut av, hvordan nettet påvirker vitenskapen
-manifesto-learn-about-open-source = Les mer om åpen kildekode i journalistikken
-manifesto-read-about-open-internet = Les om hvordan prinsippet om et åpent internett engasjerer og utvikles
-manifesto-explore-how-to-help-keep = Finner ut hvordan du kan hjelpe til med å holde nettet åpent
-manifesto-see-how-the-web-can-connect = Les om hvordan nettet kan skape kontakt mellom verden og helsevernet
-manifesto-explore-how-the-web-works = Finn ut hvordan nettet fungerer
-manifesto-see-how-mozilla-works = Les om hvordan { -brand-name-mozilla } arbeider for at personvernet ditt kommer først
-manifesto-read-about-developments = Les om utviklingen innenfor personvern og datasikkerhet
-manifesto-learn-more-about-how-to = Les mer om hvordan du beskytter deg på nettet
-manifesto-use-these-free-tools-to = Bruk disse gratisverktøyene for å undervise på og om nettet
-manifesto-learn-about-creating-and = Les om hvordan du skaper og forvalter innhold for nettet
-manifesto-add-new-voices-to-open = Bidra til åpen kildekode-teknologi
-manifesto-set-your-do-not-track = Velg innstillingene dine for «Ikke spor» (Do Not Track)
-manifesto-understand-the-web-ecosystem = Forstå nettet sitt økosystem
-manifesto-explore-how-open-practices = Undersøk hvordan åpne arbeidsmetoder holder nettet tilgjengelig
-manifesto-learn-how-to-remix-content = Les om hvordan du kan remikse innhold for å lage noe nytt
-manifesto-learn-how-to-maximize = Les om hvordan du maksimerer nettet sitt interaktivitetspotensialet
-manifesto-participate-in-our-governance = Delta i styringsforumet vårt
-manifesto-join-us-as-a-volunteer = Bli en frivillig
-manifesto-learn-how-to-collaborate = Les om hvordan du samarbeider på nettet
-manifesto-visualize-who-you-interact = Få et bilde av hvem du samhandler med på nettet, med { -brand-name-lightbeam }
-manifesto-learn-about-creating-web = Les mer om hvordan du skaper nettressurser sammen med andre
-manifesto-host-or-join-a-maker-party = Vær vert for eller delta i et { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = Les om hvordan du bygger opp samarbeids-ferdighetene dine på nettet
 manifesto-read-the-entire-manifesto = Les hele manifestet
 manifesto-love-the-web = Elsker du internett?
 manifesto-get-the-mozilla-newsletter = Abonner på { -brand-name-mozilla }s nyhetsbrev og hjelp oss med å holde nettet åpent og fritt.

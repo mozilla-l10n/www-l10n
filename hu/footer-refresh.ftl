@@ -41,5 +41,3 @@ footer-refresh-community-participation-guidelines = Közösségi részvételi ir
 footer-refresh-about-this-site = Az oldal névjegye
 footer-refresh-all-languages = Összes nyelv
 footer-refresh-language = Nyelv
-footer-refresh-primary-nav-aria-label = Lábléc elsődleges
-footer-refresh-secondary-nav-aria-label = Lábléc másodlagos

@@ -13,8 +13,6 @@ vpn-download-sub-heading = { -brand-name-mozilla-vpn }ን በአንድ የደን
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } ለሁሉም ዋና ስርዓተ ክወናዎች ደህንነቱ የተጠበቀ እና አስተማማኝ ጥበቃ ያቀርባል።
 vpn-download-not-available-in-country = ይቅርታ፣ { -brand-name-mozilla-vpn } ባሉበት አገር ለማውረድ አይገኝም።
 vpn-download-button-copy = አውርድ
-# Obsolete string
-vpn-download-for-windows = ቪፒኤን ለ{ -brand-name-windows } 10/11
 vpn-download-for-windows-v2 = ቪፒኤን ለ{ -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-ቢት ብቻ)
 vpn-download-for-windows-long = { -brand-name-mozilla-vpn }ን ለ { -brand-name-windows } አውርድ
@@ -32,8 +30,6 @@ vpn-download-for-android = ቪፒኤን ለ{ -brand-name-android }
 vpn-download-for-android-long = { -brand-name-mozilla-vpn }ን ለ{ -brand-name-android } አውርድ
 vpn-download-for-ios = ቪፒኤን ለ{ -brand-name-ios }
 vpn-download-for-ios-long-v2 = { -brand-name-mozilla-vpn }ን ለ { -brand-name-ios } አውርድ
-# Obsolete string
-vpn-download-for-ios-long = { -brand-name-mozilla-vpn }ን ለ{ -brand-name-ios } አውርድ
 vpn-download-get-on-google-play = በ{ -brand-name-google-play } መደብር ላይ ያግኙ
 vpn-download-get-on-app-store = በ{ -brand-name-app-store } ላይ ያግኙ
 vpn-download-based-on-your = አሁን ባለው መሳሪያዎ ላይ በመመስረት

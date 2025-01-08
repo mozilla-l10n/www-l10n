@@ -12,11 +12,6 @@ features-sync-access-your-firefox-bookmarks = Отримуйте доступ д
 features-sync-with-firefox-you-can-pick-up-where = За допомогою { -brand-name-firefox } ви можете продовжити там, де зупинилися, перемкнувшись із комп'ютера на мобільний телефон на планшет. { -brand-name-firefox } дає змогу переглядати закладки, історію перегляду, збережені паролі тощо незалежно від того, яким пристроєм ви користуєтесь.
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Зареєструйте безплатний { -brand-name-mozilla-account }</a>, і ви зможете синхронізувати свої дані всюди, де використовуєте { -brand-name-firefox } та інші продукти { -brand-name-mozilla }.
-# Obsolete string
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Зареєструйтеся, щоб отримати безплатний { -brand-name-mozilla-account }</a>, і ви зможете синхронізувати свої дані скрізь, де ви користуєтеся браузером { -brand-name-firefox }.
-# Obsolete string
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Зареєструйтеся, щоб отримати безплатний { -brand-name-firefox }</a>, і ви зможете синхронізувати свої дані скрізь, де ви користуєтесь браузером { -brand-name-firefox }.
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Усі ваші дані зашифровані на наших серверах, тому ми не можемо їх прочитати – доступ до них маєте лише ви. Ми не продаємо вашу інформацію рекламодавцям, оскільки це суперечить нашому <a href="{ $privacy }">зобов'язанню щодо приватності даних</a>.

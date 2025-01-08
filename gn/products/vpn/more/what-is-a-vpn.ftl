@@ -56,11 +56,3 @@ vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Ipya’e, hekorosã,
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> ha’e mba’eporu ejeroviakuaaha eike meme hag̃ua ñanduti hekorosãvape opaite ne mba’e’oka rupive. Noroñongatúi ne rembiapokue rehegua pyhagua ha ndorojuajúi mbohapyháva ndive omoheñoiséva mba’ete ejapóva guive ñandutípe oikuaaségui. Peteĩ jeikove oĩhápe jeikuaa’ỹ ha opavave ndohechakuaáiva, roikuaa emomba’eguasuha tekorosã ha eikuaa opamba’e ejapóva ñandutípe nemba’e añohánte.
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> ha’e mba’eporu ejeroviakuaaha eike meme hag̃ua ñanduti hekorosãvape opaite ne mba’e’oka rupive. Noroñongatúi ne rembiapokue rehegua pyhagua ha ndorojuajúi mbohapyháva ndive omoheñoiségui mba’ete ejapóva guive ñandutípe. Peteĩ jeikove oĩhápe jeikuaa’ỹ ha opavave ndohechakuaáiva…
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> ha’e mba’eporu ejeroviakuaaha eike meme hag̃ua ñanduti hekorosãvape opaite ne mba’e’oka rupive. Noroñongatúi ne rembiapokue rehegua pyhagua ha ndorojuajúi mbohapyháva ndive omoheñoiséva mba’ete ejapóva guive ñandutípe oikuaaségui. Peteĩ jeikove oĩhápe jeikuaa’ỹ ha opavave ndohechakuaáiva, roikuaa emomba’eguasuha tekorosã ha eikuaa opamba’e ejapóva ñandutípe nemba’e añohánte.

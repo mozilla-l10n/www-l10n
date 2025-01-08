@@ -12,8 +12,6 @@ features-sync-access-your-firefox-bookmarks = Få tilgang til { -brand-name-fire
 features-sync-with-firefox-you-can-pick-up-where = Med { -brand-name-firefox } kan du halde fram der du slutta når du byter frå datamaskina di til mobiltelefonen din eller til nettbrettet ditt. { -brand-name-firefox } lét deg sjå bokmerka dine, nettlesarhistorikken din, dei lagra passorda dine, og meir, same kva for eining du brukar.
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Registrer deg for ein gratis { -brand-name-mozilla-account }</a> og du vil då kunne synkronisere dataa dine overalt der du brukar { -brand-name-firefox } og andre { -brand-name-mozilla }-produkt.
-# Obsolete string
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Registrer deg og få ein gratis { -brand-name-firefox }-konto</a> og du vil då kunne synkronisere dataa dine overallt der du brukar nettlesaren { -brand-name-firefox }.
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Alle dataa dine er krypterte på sørvarane våre slik at vi ikkje kan lese dei – berre du har tilgang til dei. Vi sel ikkje informasjonen din til annonsørar, sidan det skulle stride mot <a href="{ $privacy }">løftet vårt om datapersonvern</a>.

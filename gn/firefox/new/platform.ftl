@@ -17,7 +17,7 @@ new-platform-advanced-install-options = Ñemboguejy poravorã oikopátamava ha a
 new-platform-download-in-another = Emboguejy ambue ñe’ẽme
 new-platform-need-help = Reikotevẽpa pytyvõ
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = Emboguejy { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux } peg̃uarã
 # /firefox/linux/ HTML page description

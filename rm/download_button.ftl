@@ -52,10 +52,6 @@ download-a-different-build = Telechargiar in auter build
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = Telechargiar { -brand-name-linux } per 32 bits
-# Obsolete string
-download-button-linux-64 = Telechargiar { -brand-name-linux } per 64 bits
 download-button-linux-32-v2 = Telechargiar per Linux per 32 bits
 download-button-linux-64-v2 = Telechargiar per Linux per 64 bits
 # Variables

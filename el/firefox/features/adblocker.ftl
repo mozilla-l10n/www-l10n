@@ -31,18 +31,6 @@ features-adblocker-ghostery-is-another-great = Το <a { $attrs }>Ghostery</a> �
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Αυτές οι επεκτάσεις λειτουργούν άψογα τόσο στο <a { $attrs1 }>{ -brand-name-firefox } για υπολογιστές</a> όσο και στο <a { $attrs2 }>Android</a>.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = Υπάρχει το <a href="{ $url }">AdBlocker Ultimate</a> που αποκλείει κάθε διαφήμιση. Μερικές από τις αγαπημένες σας εφημερίδες και περιοδικά εξαρτώνται από τις διαφημίσεις. Αν αποκλείουν πάρα πολλοί χρήστες τις διαφημίσεις τους, θα είναι καταστροφικό για τις επιχειρήσεις αυτές.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Οι αναδυόμενες διαφημίσεις είναι οι χειρότερες. Αποκλείστε τα με το <a href="{ $url }">Popup Blocker</a> και δεν θα δείτε ποτέ ξανά κανένα άλλο ενοχλητικό αναδυόμενο παράθυρο.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Ένα από τα πιο δημοφιλή πρόσθετα φραγής διαφημίσεων για { -brand-name-chrome }, { -brand-name-safari } και { -brand-name-firefox } είναι το <a href="{ $url }">AdBlock</a>. Χρησιμοποιήστε το για αποκλεισμό διαφημίσεων στο { -brand-name-facebook }, το { -brand-name-youtube } και το { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = Απαλλαχθείτε από ιχνηλάτες με τη Φραγή περιεχομένου
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

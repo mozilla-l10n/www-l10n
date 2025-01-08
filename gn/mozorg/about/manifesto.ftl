@@ -52,8 +52,6 @@ manifesto-we-are-committed-to-diverse = Roñeha’ãta rojapo peteĩ ñanduti om
 manifesto-show-your-support = Ehechauka ne ñepytyvõ
 manifesto-an-internet-with-these = Peteĩ ñanduti ndoikomo’ãi ha’eño ijehegui. Avakuéra ha avei opavave omoĩva’erã tembiporupyahu ñandutípe ha jekuaapy ñandutípe. { -brand-name-mozilla } he’i ha oikuaauka orekoha jehechauka ikatu hag̃ua omoambue hembiapo tenonderã. Jaheka tembiapo oñondive ava ha tembiapoha oparupigua oĩ guive orendive ha ojapo ñandutígui peteĩ tenda iporãvéva.
 manifesto-i-support-the-vision-of = Che añeme’ẽ pe jehechapy iporãvéva ha oĩporãvéva ñanduti @mozilla-pe, ¿eñemoĩta che ykére?
-# Obsolete string
-manifesto-share-on-twitter = Emoherakuã { -brand-name-twitter } rupi
 manifesto-share-on-x = Emoherakuã X ndive
 manifesto-share-on-x-aria-label = Emoherakuã X ndive (yma hérava Twitter)
 manifesto-our-10-principles = <strong>Ñanemba’e10</strong>Ñepyrũgua

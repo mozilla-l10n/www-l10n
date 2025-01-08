@@ -16,15 +16,6 @@ features-adblocker-an-ad-blocker-is-a-piece = Orodje za zavračanje oglasov je d
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Ti oglasi so lahko glasni video oglasi, oglasi, ki vas spremljajo po spletu, sledilci, piškotki tretjih strani in drugo. Če želite uporabiti orodje za zavračanje oglasov, lahko poiščete dodatke, ki so na voljo v vašem brskalniku. <a href="{ $firefox }">{ -brand-name-firefox }</a> ponuja <a href="{ $addons }">ta seznam odobrenih dodatkov za zavračanje oglasov</a>. Kliknite ta seznam (ali orodja za zavračanje oglasov, ki so odobrena za vaš brskalnik) in najdite sebi primernega.
 features-adblocker-find-the-right-ad-blocker = Poiščite pravo orodje za zavračanje oglasov
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = Na voljo je <a href="{ $url }">AdBlocker Ultimate</a>, ki se znebi vsakega posameznega oglasa, vendar bodite pozorni na lastnika strani. Nekateri vaši najljubši časopisi in revije se zanašajo na oglaševanje. Če bi preveč ljudi zavrnilo njihove oglase, bi to lahko ogrozilo njihov obstoj.
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Oglasi v pojavnih oknih so najhujši. Zavrnite jih s <a href="{ $url }">Popup Blocker</a> in se nikoli več ne ukvarjajte z njimi.
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = <a href="{ $url }">AdBlock</a> je eno od najbolj priljubljenih orodij za zavračanje oglasov v { -brand-name-chrome(sklon: "mestnik") }, { -brand-name-safari }ju in { -brand-name-firefox }u. Uporabite ga za zavračanje oglasov na { -brand-name-facebook }u, { -brand-name-youtube(sklon: "mestnik") } in { -brand-name-hulu }ju.
 features-adblocker-create-a-tracker-free = Ustvarite območje brez sledilcev z zavračanjem vsebine
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

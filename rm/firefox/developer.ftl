@@ -11,8 +11,6 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } è il navigatur superspert che dispona dad utensils innovativs per sviluppaders e da novas funcziuns sco il sustegn da griglias CSS u il debugadi da frameworks
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Tes nov navigatur preferì ta dà il bainvegni. Tai spetgan novischmas funcziuns, buna prestaziun ed ils utensils per sviluppaders che ti dovras per lavurar per il web avert.
 firefox-developer-speak-up = Ta fa udir
 firefox-developer-feedback-makes-us = Cun tes resun ans pudain nus meglierar. Ans di co nus pudain perfecziunar il navigatur ed ils utensils per sviluppaders.
@@ -75,15 +73,11 @@ firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-develo
 firefox-developer-download-the-firefox-browser = Telechargia la versiun da { -brand-name-firefox } fatga aposta per ils sviluppaders
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } è vegnì reconstruì da fund ensi per esser pli svelt, pli elegant e pli pussant che mai.
 firefox-developer-welcome-to-firefox-developer-edition = Bainvegni en { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = Bainvegni en il { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Il navigatur concepì per sviluppaders
 firefox-developer-all-the-latest-v2 = Tut ils utensils da svilup ils pli novs en la versiun beta ed ultra da quai funcziuns sco l’editur da consola en pliras lingias u l’inspectur WebSocket.
 firefox-developer-a-separate-profile = In <strong>profil separà cun in agen percurs</strong> per che ti al pos exequir parallelamain a la versiun uffiziala u a { -brand-name-beta } da { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Preferenzas <strong>adattadas aposta per sviluppaders da web</strong>: Il navigatur ed il debugadi a distanza èn activads en la configuraziun da standard. Il medem vala per il design stgir ed il buttun da la trav d'utensils da svilup.
 firefox-developer-congrats-you-now-have-latest-v2 = Ti has ussa la versiun la pli nova da { -brand-name-firefox-developer-edition }.
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = Gratulaziun. Ti has ussa la versiun la pli nova da { -brand-name-firefox-browser }{ -brand-name-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Consultescha las <a { $attrs }>remartgas davart la versiun</a> (mo per englais) per vegnir a savair tge ch’è nov.

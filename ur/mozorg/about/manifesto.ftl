@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -51,28 +51,7 @@ manifesto-we-are-committed-to-diverse = ہم ایک ایسے انٹرنیٹ کے
 manifesto-show-your-support = اپنی حمایت دکھائیں
 manifesto-an-internet-with-these = ان خصوصیات کا حامل انٹرنیٹ خود ہی زندگی میں نہیں آئے گا۔ افراد اور تنظیموں کو ان امنگوں کو انٹرنیٹ ٹیکنالوجی کے ساتھ اور انٹرنیٹ کے ساتھ انسانی تجربے میں سرایت کرنا ہوگا۔ { -brand-name-mozilla } کا منشور اور اضافے ان امنگوں کو آگے بڑھانے کے لئے { -brand-name-mozilla } کے عزم کی نمائندگی کرتے ہیں۔ ہمارا مقصد ہے کہ ہر جگہ ان لوگوں اور تنظیموں کے ساتھ مل کر کام کریں جو ان مقاصد کو شریک کرتے ہیں تاکہ ہر ایک کے لئے انٹرنیٹ کو ایک اور بہتر مقام بنایا جاسکے۔
 manifesto-i-support-the-vision-of = میں @mozilla  سے بہتر ، صحت مند انٹرنیٹ کے وژن کی حمایت کرتا ہوں ، کیا آپ میرے ساتھ شامل ہوں گے؟
-manifesto-share-on-twitter = { -brand-name-twitter } پر شیئر کریں
 manifesto-our-10-principles = <strong>ہمارے ۱۰</strong>اصول
-manifesto-explore-how-the-web-impacts = دریافت کریں کہ ویب سائنس پر کس طرح اثر انداز ہوتی ہے
-manifesto-learn-about-open-source = صحافت میں اوپن سورس کوڈ کے بارے میں جانیں
-manifesto-read-about-open-internet = اوپن انٹرنیٹ پالیسی کے اقدامات اور پیشرفت کے بارے میں پڑھیں
-manifesto-explore-how-to-help-keep = ویب کو کھلا رکھنے میں کس طرح مدد کی جائے اس کی دریافت کریں
-manifesto-see-how-the-web-can-connect = دیکھیں کہ ویب دنیا کو صحت کے شعبے  سے کیسے جوڑ سکتا ہے
-manifesto-explore-how-the-web-works = دریافت کریں ویب کیسے کام کرتی ہے
-manifesto-see-how-mozilla-works = دیکھیں کہ { -brand-name-mozilla }  آپ کی رازداری کو اولین ترجیح دینے میں کس طرح کام کرتی ہے
-manifesto-read-about-developments = رازداری اور ڈیٹا کی سیکیورٹی میں ہونے والی پیشرفت کے بارے میں پڑھیں
-manifesto-learn-more-about-how-to = آن لائن اپنی حفاظت کس طرح کرنی پے  اس  بارے میں مزید معلومات حاصل کریں
-manifesto-use-these-free-tools-to = ویب سکھانے کے لیئے ان مفت اوزار کا استعمال کریں
-manifesto-add-new-voices-to-open = اوپن سورس ٹکنالوجی میں نئی آوازیں شامل کریں
-manifesto-set-your-do-not-track = مجھے ٹریک مت کریں کی ترجیح متعین کریں
-manifesto-understand-the-web-ecosystem = ویب کے ماحول کو سمجھنے
-manifesto-explore-how-open-practices = دریافت کریں کہ کس طرح کھلے عمل سے ویب قابل رسائی رہتا ہے
-manifesto-learn-how-to-maximize = ویب کی فتعمل صلاحیت کو زیادہ سے زیادہ کرنے کا طریقہ سیکھیں
-manifesto-participate-in-our-governance = ہمارے گورننس فورم میں شریک ہوں
-manifesto-join-us-as-a-volunteer = ایک رضاکار کی حیثیت سے ہمارے ساتھ شامل ہوں
-manifesto-learn-how-to-collaborate = آن لائن تعاون کرنے کا طریقہ سیکھیں
-manifesto-learn-about-creating-web = دوسروں کے ساتھ ویب وسائل بنانے کے بارے میں جانیں
-manifesto-learn-how-to-build-online = تعاون کی آن لائن مہارت بنانےکا طریقہ سیکھیں
 manifesto-read-the-entire-manifesto = مکمل منشور بڑھیں
 manifesto-love-the-web = ویب سے محبت ہے؟
 manifesto-get-the-mozilla-newsletter = { -brand-name-mozilla } کا نیوز لیٹر حاصل کریں اور اسے کھلا اور آزاد رکھنے میں ہماری مدد کریں۔

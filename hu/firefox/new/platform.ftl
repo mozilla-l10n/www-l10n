@@ -17,7 +17,7 @@ new-platform-advanced-install-options = Speciális telepítési beállítások �
 new-platform-download-in-another = Töltse le egy másik nyelven
 new-platform-need-help = Segítségre van szüksége?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = A { -brand-name-mozilla } { -brand-name-firefox } letöltése { -brand-name-linux }ra
 # /firefox/linux/ HTML page description

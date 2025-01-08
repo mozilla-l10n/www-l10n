@@ -16,8 +16,6 @@ welcome-page8-enhanced-tracking-protection = بہتر ٹریکنگ حفاظت
 welcome-page8-automatically-block-sites = خود کار  طور تے سائٹاں کوں انٹرنیٹ تے تہاݙی پیروی کرݨ کنوں روکو۔
 welcome-page8-see-whats-blocked = ݙیکھو جو کیا بلاک ہے
 welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-see-what-youve-been = ݙیکھو جو آیا تساں آن لائن ڈیٹا دیاں معروف خلاف ورزیاں وِچ ملوث رہے او تے انہاں کوں حل کرݨ کیتے کارروائی کرو۔
 welcome-page8-go-to-monitor = { -brand-name-monitor } تے ون٘ڄو
 welcome-page8-firefox-send = { -brand-name-firefox-send }

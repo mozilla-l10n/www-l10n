@@ -56,11 +56,3 @@ vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Nopea, turvallinen, 
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> on palvelu, johon voit luottaa, jotta Internet-yhteytesi pysyy turvallisena kaikilla laitteillasi. Emme pidä verkossa tekemistäsi asioista lokeja, emmekä tee yhteistyötä kolmansien osapuolten kanssa, jotka rakentavat profiileja tekemisistäsi verkossa. Maailmassa, jossa arvaamattomuudesta on tullut "uusi normaali", tiedämme, että on tärkeämpää kuin koskaan, että tunnet olosi turvalliseksi ja että tiedät, että se, mitä teet verkossa, on sinun oma asiasi.
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> on palvelu, johon voit luottaa, jotta Internet-yhteytesi pysyy turvallisena kaikilla laitteillasi. Emme pidä verkossa tekemistäsi asioista lokeja, emmekä tee yhteistyötä kolmansien osapuolten kanssa, jotka rakentavat profiileja tekemisistäsi verkossa. Maailmassa, jossa arvaamattomuudesta on tullut "uusi normaali"…
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> on palvelu, johon voit luottaa, jotta Internet-yhteytesi pysyy turvallisena kaikilla laitteillasi. Emme pidä käyttäjien tiedoista lokeja, emmekä tee yhteistyötä kolmansien osapuolten analytiikka-alustojen kanssa, jotka rakentavat profiileja tekemisistäsi verkossa. Maailmassa, jossa arvaamattomuudesta on tullut "uusi normaali", tiedämme, että on tärkeämpää kuin koskaan, että tunnet olosi turvalliseksi ja että tiedät, että se, mitä teet verkossa, on sinun oma asiasi.

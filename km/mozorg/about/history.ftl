@@ -7,7 +7,7 @@
 
 history-history-of-the-mozilla-project = ប្រវត្តិ​គម្រោង​របស់ { -brand-name-mozilla }
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = គម្រោង { -brand-name-mozilla }  <a href="{ $coderush }">បាន​បង្កើត​ក្នុង​ឆ្នាំ 1998</a> ដែល​បាន <a href="{ $sourcerelease }">ចេញ​ផ្សាយ​​កូដ​ប្រភព​ឈុត​កម្មវិធី​អ៊ីនធឺណិត​ { -brand-name-netscape } </a> ។
 history-it-was-intended-to-harness = វា​ត្រូវ​បាន​បម្រុងទុក​ដើម្បី​ផ្ដល់​នូវ​ថាមពល​គំនិត​ច្នៃប្រឌិត​ជាច្រើន​របស់​អ្នក​សរសេរ​កម្មវិធី​លើ​អ៊ីនធឺណិត និង​កម្រិត​នៃ​ការ​ច្នៃប្រឌិត​ដែល​មិន​គួរ​ឲ្យ​ជឿ​នៅ​ក្នុង​ទីផ្សារ​កម្មវិធី​អ៊ីនធឺណិត។

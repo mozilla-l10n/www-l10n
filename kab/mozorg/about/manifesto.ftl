@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -52,33 +52,7 @@ manifesto-we-are-committed-to-diverse = Nessiḥbibir ɣef internet yettmuddun a
 manifesto-show-your-support = Sken-d afud-ik
 manifesto-an-internet-with-these = Internet s tɣara-agi ur yezmir ara ad d-ilal i yiman-is. Imdanen akked tuddsiwin yessefk ad ddun ar isaramen-agi di tlemmast n titiknulujiyin n internet akked wassaɣen yellan gar yimdanen d internet. Ameskan n { -brand-name-mozilla } d wayen i d-yernan, mmalen-d asiḥbiber n { -brand-name-mozilla } i usnerni n yisaramen-agi. Iswi-nneɣ d axeddim akked yimdanen d tuddsiwin yebḍan yid-neɣ iswiyen-agiakken ad nerr internet d amḍiq icebḥen ugar i yal yiwen.
 manifesto-i-support-the-vision-of = Ad muddeɣ afud i tmuɣli , internet ufrin, uzmir si @mozilla, ad tedduḍ ɣur-neɣ?
-manifesto-share-on-twitter = Bḍu di { -brand-name-twitter }
 manifesto-our-10-principles = <strong>10 nneɣ</strong> n imenzayen
-manifesto-use-open-badges-to-share = Seqdec Open Badges akken ad tebḍuḍ tasnant inek akked wayen id tḥemleḍ
-manifesto-explore-how-the-web-impacts = Wali amek web yettḥaz tussna
-manifesto-learn-about-open-source = Issin ɣef uɣbalu yeldin di tɣamsa
-manifesto-read-about-open-internet = Issin ɣef leqdic akked tneflit n tsertit yeldin n Internet
-manifesto-explore-how-to-help-keep = Wali amek ara txedmeḍ akken ad tḥerzeḍ web yeldi
-manifesto-see-how-the-web-can-connect = Wali amek web yezmer ad yeqqen amaḍal ar tezmert
-manifesto-explore-how-the-web-works = Wali amek iteddu web
-manifesto-see-how-mozilla-works = Wali amek { -brand-name-mozilla } yettmuddu azal i tudert inek tabaḍnit nig n wayen nniḍen
-manifesto-read-about-developments = Issi ugar ɣef wanda tebbeḍ tudert tabaḍnit akked tɣellist n isefka
-manifesto-learn-more-about-how-to = Issin amek ara mmesteneḍ imaniḍ ticki teqqneḍ
-manifesto-use-these-free-tools-to = Seqdec ifecka-agi ilelliyen akken ad tesseɣreḍ Web
-manifesto-learn-about-creating-and = Issi ugar ɣef tmerna d usnefli n ugbur web
-manifesto-add-new-voices-to-open = Ttekki ɣer tetiknulujiyin n uɣbaly yeldin
-manifesto-set-your-do-not-track = Swel aɣewwaṛ Ur yisfuɣul ara
-manifesto-understand-the-web-ecosystem = Gzu anagraw n tasenwennaḍt n Web
-manifesto-explore-how-open-practices = Wal amek amahil ilelli yettaǧǧa web ad yeqqim gar ifassen n yemdanen meṛṛa
-manifesto-learn-how-to-remix-content = Issi amek ad ternuḍ kra n umaynut s useqdec n ugbur yellan yakan
-manifesto-learn-how-to-maximize = Issin amek ad nsemɣer tamyigawt n web
-manifesto-participate-in-our-governance = Ttekki deg unmager n tanbaṭ
-manifesto-join-us-as-a-volunteer = Ddu-d ɣur-neɣ d iwizi
-manifesto-learn-how-to-collaborate = Issin am ara tmahleḍ s srid
-manifesto-visualize-who-you-interact = Wali anwa ukud i tettmeslayeḍ di web s useqdec n { -brand-name-lightbeam }
-manifesto-learn-about-creating-web = Issin amek ara ternuḍ tiɣbula di web akked wiyaḍ
-manifesto-host-or-join-a-maker-party = Mudd tanezduɣt neɣ rnu tadyant { -brand-name-maker-party }
-manifesto-learn-how-to-build-online = Issin amek ad tesnefliḍ tamusni yinek s uttekki s srid
 manifesto-read-the-entire-manifesto = Γeṛ ameskan imeṛṛa
 manifesto-love-the-web = Tḥemmleḍ Web?
 manifesto-get-the-mozilla-newsletter = Rmes-d Izen n telɣut n{ -brand-name-mozilla } sakin mudd-aɣ-d afus akken ad yeqqim yeldi, d ilelli.

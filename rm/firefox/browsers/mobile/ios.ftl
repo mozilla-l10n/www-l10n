@@ -7,12 +7,7 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = Il { -brand-name-firefox-browser } per { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = Il navigatur { -brand-name-firefox } per { -brand-name-ios } è svelt, segir e privat da bell'entschatta.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-mobile-ios-get-automatic-privacy = Profitescha da la protecziun da datas automatica sin tes { -brand-name-iphone } ed { -brand-name-ipad }.
 mobile-ios-get-firefox-for = Telechargia { -brand-name-firefox } per { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Trametta in link per telechargiar a tes telefon.
 mobile-ios-scan-the-qr-code-to-get-started = Scannescha il code QR per entschaiver
@@ -31,14 +26,8 @@ mobile-ios-get-to-your-go-to = Acceda pli svelt a tias websites preferidas sin t
 mobile-ios-see-your-open-tabs = Lascha mussar tes tabs averts, tias ultimas retschertgas e las websites preferidas en in lieu cun { -brand-name-firefox-browser } per { -brand-name-ios }.
 mobile-ios-own-your-home = Tegna sut controlla tes visur da partenza
 mobile-ios-get-to-the-parts = Cuntanscha pli svelt quellas parts da l'internet che ta stattan a cor. Chatta tuts tes tabs averts, tias ultimas retschertgas, tes segnapaginas e tias websites preferidas en in lieu.
-# Obsolete string
-mobile-ios-add-firefox-across = Installescha { -brand-name-firefox } sin tuts tes apparats per ina navigaziun segira e senza interrupziuns. Cun { -brand-name-sync } pos ti sincronisar tes apparats per prender cun tai tes segnapaginas preferids, tias datas d'annunzia memorisadas, tes pleds-clav e tia cronologia da navigaziun nua ch'i saja. Trametta ultra da quai tabs averts tranter tes telefon e tes computer desktop per cuntinuar là nua che ti has smess.
 mobile-ios-find-it-all = Chatta tut pli svelt
 mobile-ios-get-search-suggestions = Retschaiva propostas da tschertga en la trav da retschertga ed acceda directamain a las paginas che ti visitas il pli savens. Endatescha tia dumonda da retschertga ed obtegna propostas e resultats da tschertgas precedentas da tias maschinas da tschertgar preferidas.
-# Obsolete string
-mobile-ios-keep-tabs-on = Tegna en egl tuts tes tabs
-# Obsolete string
-mobile-ios-create-as-many = Avra tants tabs sco che ti vuls, senza perder la survista. { -brand-name-firefox } mussa tes tabs averts sco miniaturas e tabs numerads, uschia che ti chattas svelt quai che ti tschertgas.
 mobile-ios-discover-more-of = Scuvra dapli da quai che ta plascha
 mobile-ios-open-a-new = Avra in nov tab en { -brand-name-firefox } per vesair las paginas che ti visitas il pli savens, tes segnapaginas ils pli novs ed artitgels populars en { -brand-name-pocket }. { -brand-name-firefox } ta porscha in access svelt a tias websites visitadas dacurt per che ti cuntanschias pli svelt tia finamira.
 mobile-ios-about-mozilla = Davart { -brand-name-mozilla }

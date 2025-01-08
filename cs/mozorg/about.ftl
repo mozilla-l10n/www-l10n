@@ -33,9 +33,6 @@ about-with-offices-all-over-the = S <a href="{ $url }">kancelářemi po celém s
 about-san-francisco = San Francisco
 about-talking-tech-issues-irl = IRL podcasty o technologiích
 about-in-mozillas-multi-award-winning = V několikrát oceněném podcastu { -brand-name-mozilla(case: "gen") } hovoří moderátorka Bridget Toddová s lidmi, kteří utvářejí budoucnost internetu a umělé inteligence.
-# Obsolete strings (remove in 1-2 months)
-about-talking-internet-issues-irl = IRL: hovory o problémech internetu
-about-in-mozillas-irl-podcast-host = V podcastu IRL od { -brand-name-mozilla(case: "gen") } se moderátor Manoush Zomorodi dělí o skutečné příběhy z online života a povídá si o budoucnosti Webu.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = Každý rok se u nás zastaví <strong>2000</strong> různých hostů
 about-berlin = Berlín

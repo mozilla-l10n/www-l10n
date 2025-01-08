@@ -19,7 +19,7 @@ welcome-page4-firefox-private-safe-browser = { -brand-name-ios } ve { -brand-nam
 # "off your trail" is an expression for not being followed around.
 welcome-page4-get-data-trackers-off-your = Veri takip kodlarına izinizi kaybettirin
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
+#   $privacy (url) - link to https://support.mozilla.org/kb/trackers-and-scripts-firefox-blocks-enhanced-track/
 welcome-page4-enhanced-tracking-protection = Gelişmiş İzlenme Koruması web’de sizin takip eden <a href="{ $privacy }">2.000’den fazla takip kodunu</a> engeller.
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = İz bırakmayın

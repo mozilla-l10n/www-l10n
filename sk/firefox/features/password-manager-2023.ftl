@@ -13,14 +13,6 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } bezpečn
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = S <a { $fxa }>bezplatným { -brand-name-mozilla-account(case: "ins", capitalization: "lower") }</a> môžete bezpečne synchronizovať svoje heslá na všetkých svojich zariadeniach. Môžete tiež pristupovať ku všetkým ďalším produktom { -brand-name-mozilla(case: "gen") }, ktoré rešpektujú vaše súkromie.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account = S <a href="{ $fxa }">bezplatným { -brand-name-mozilla-account(case: "ins", capitalization: "lower") }</a> môžete bezpečne synchronizovať svoje heslá na všetkých svojich zariadeniach.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-firefox-account = S <a href="{ $fxa }">bezplatným účtom { -brand-name-firefox }</a> môžete bezpečne synchronizovať svoje heslá na všetkých svojich zariadeniach.
 password-manager-password-autofill-for-easy-logins = Automatické dopĺňanie hesla pre jednoduché prihlásenie
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } môže automaticky vyplniť vaše uložené používateľské meno a heslo. Ak máte pre stránku viac ako jedno prihlásenie, stačí si vybrať účet, ktorý chcete, a my údaje vyplníme.
 # Used as an accessible text alternative for an image

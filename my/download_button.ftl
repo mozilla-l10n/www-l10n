@@ -39,3 +39,6 @@ download-button-firefox-ios = { -brand-name-ios } အတွက်<span>{ -brand-
 download-button-firefox-privacy = { -brand-name-firefox } ကိုယ်ရေးလုံခြုံမှု
 download-button-firefox-privacy-notice = { -brand-name-firefox } ကိုယ်ရေးအချက်အလက်မူဝါဒ အသိပေးချက်
 download-button-download = ဒေါင်းလုတ်ယူ
+
+## Linux
+

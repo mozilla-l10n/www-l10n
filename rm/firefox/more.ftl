@@ -33,12 +33,6 @@ firefox-for-linux = { -brand-name-firefox } per { -brand-name-linux }
 new-school-meets = Il fancy nov scuntra il classicher tecnologic cun il pli svelt navigatur ch'i dat actualmain.
 firefox-for-windows = { -brand-name-firefox } per { -brand-name-windows } a 64 bits
 we-worry-about = Nus ans occupain da la segirezza da tias datas per che ti na stoppias betg far quai.
-# Obsolete string
-seven-of-the = Cumparegliaziun directa da set dals megliers navigaturs
-six-of-the-best = Cumparegliaziun directa da sis dals megliers navigaturs
-# Obsolete string
-we-compare-firefox = Nus cumparegliain { -brand-name-firefox } cun { -brand-name-chrome }, { -brand-name-edge }, { -brand-name-safari }, { -brand-name-opera }, { -brand-name-brave } ed { -brand-name-ie } per ta gidar a prender ina decisiun.
-comparing-firefox-ie = La cumparegliaziun dal { -brand-name-firefox-browser } cun { -brand-name-microsoft } { -brand-name-ie }
 old-habits-that = I fa fadia da bandunar veglias disas, ma i vala la paina da far il pass.
 incognito-browser-what = Navigatur incognito: Tge che quai vul propi dir
 firefox-calls-it = { -brand-name-firefox } numna quai il modus privat, per { -brand-name-chrome } èsi il modus incognito. Domadus ta permettan da navigar en l'internet senza che tia cronologia vegnia memorisada.

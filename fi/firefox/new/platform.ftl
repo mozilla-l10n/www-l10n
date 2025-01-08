@@ -17,7 +17,7 @@ new-platform-advanced-install-options = Asentamisen lisävalinnat ja muut alusta
 new-platform-download-in-another = Lataa toisella kielellä
 new-platform-need-help = Tarvitsetko apua?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = Lataa { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux }ille
 # /firefox/linux/ HTML page description

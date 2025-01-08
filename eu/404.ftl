@@ -10,8 +10,5 @@ not-found-page-sorry-we-cant-find-that-page = Sentitzen dugu, ezin dugu orri hor
 not-found-page-were-all-about-a-healthy-internet = Internet osasungarriaren alde gaude baina batzuetan URLak hautsi egiten dira.
 not-found-page-go-back = Joan atzera
 # Variables:
-#   $explore (url) - link to https://www.mozilla.org/firefox/
-not-found-page-explore-the-entire-family-for = <a href={ $explore }>Arakatu</a> { -brand-name-firefox } produktuen familia osoa, zure pribatutasuna errespetatzeko diseinatuak daude.
-# Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Deskargatu</a> { -brand-name-firefox } nabigatzailea gailu mugikorrerako edo mahaigainerako

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### Please read the trademarks localization guide
@@ -36,10 +36,7 @@
 -brand-name-firefox-esr = Firefox ESR
 -brand-name-firefox-extended-support-release = Firefox Extended Support Release
 -brand-name-firefox-focus = Firefox Focus
--brand-name-firefox-lite = Firefox Lite
 -brand-name-firefox-nightly = Firefox Nightly
--brand-name-firefox-reality = Firefox Reality
--brand-name-firefox-daylight = Firefox Daylight
 
 ## Firefox browsers (short names)
 
@@ -48,70 +45,80 @@
 -brand-name-enterprise = Enterprise
 -brand-name-esr = ESR
 -brand-name-focus = Focus
--brand-name-lite = Lite
 -brand-name-nightly = Nightly
--brand-name-reality = Reality
--brand-name-daylight = Daylight
 
 ## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = Aurora
+-brand-name-firefox-daylight = Firefox Daylight
+-brand-name-daylight = Daylight
 -brand-name-firefox-quantum = Firefox Quantum
+-brand-name-firefox-lite = Firefox Lite
+-brand-name-lite = Lite
+-brand-name-firefox-reality = Firefox Reality
+-brand-name-reality = Reality
 
 ## Firefox products
 
 -brand-name-facebook-container = Facebook Container
--brand-name-firefox-account = Firefox-konto
--brand-name-firefox-accounts = Firefox-kontoer
 -brand-name-firefox-devtools = Firefox DevTools
--brand-name-firefox-lockwise = Firefox Lockwise
--brand-name-firefox-monitor = Firefox Monitor
--brand-name-firefox-sync = Firefox Sync
 -brand-name-firefox-relay = Firefox Relay
--brand-name-firefox-private-network = Firefox Private Network
+-brand-name-firefox-sync = Firefox Sync
 
 ## Firefox products (short names)
 
 -brand-name-devtools = DevTools
--brand-name-lockwise = Lockwise
--brand-name-monitor = Monitor
--brand-name-sync = Sync
 -brand-name-relay = Relay
--brand-name-fpn = FPN
+-brand-name-sync = Sync
 
 ## Firefox products (legacy)
 
+-brand-name-firefox-account = Firefox-konto
+-brand-name-firefox-accounts = Firefox-kontoer
+-brand-name-firefox-better-web = Firefox Better Web
+-brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
--brand-name-firefox-better-web = Firefox Better Web
 -brand-name-firefox-send = Firefox Send
 -brand-name-send = Send
+-brand-name-firefox-private-network = Firefox Private Network
+-brand-name-fpn = FPN
+
+## Firefox projects
+
 
 ## Pocket
 
 -brand-name-pocket = Pocket
 
+## Fakespot
+
+
+## Anonym
+
+
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
--brand-name-mozilla-common-voice = Mozilla Common Voice
--brand-name-mozilla-developer-network = Mozilla Developer Network
--brand-name-mozilla-festival = Mozilla Festival
--brand-name-mozilla-hubs = Mozilla Hubs
--brand-name-mozilla-labs = Mozilla Labs
--brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mdn-web-docs = MDN Web Docs
+-brand-name-mozilla-common-voice = Mozilla Common Voice
+-brand-name-mozilla-festival = Mozilla Festival
+-brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
 
 -brand-name-common-voice = Common Voice
--brand-name-hubs = Hubs
 -brand-name-mdn = MDN
+-brand-name-monitor = Monitor
 
 ## Mozilla projects (legacy)
 
+-brand-name-mozilla-developer-network = Mozilla Developer Network
+-brand-name-mozilla-labs = Mozilla Labs
+-brand-name-hubs = Hubs
+-brand-name-lockwise = Lockwise
 -brand-name-lightbeam = Lightbeam
 -brand-name-maker-party = Maker Party
 -brand-name-webmaker = Webmaker
@@ -120,8 +127,6 @@
 
 -brand-name-rust = Rust
 -brand-name-webassembly = WebAssembly
-# Outdated string
--brand-name-web-assembly = Web Assembly
 
 ## Other browsers
 

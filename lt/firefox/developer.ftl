@@ -10,7 +10,6 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = „{ -brand-name-firefox-developer-edition }“ – tai ypač sparti naršyklė, suteikianti itin šiuolaikiškas saityno kūrėjų priemones ir šviežiausias naujoves, tokias, kaip CSS tinklelių palaikymas ir JS karkasų derinimas
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Susipažinkite – jūsų nauja mėgstamiausia naršyklė. Joje suderinta viskas – naujausios savybės, neprilygstama sparta ir saitynui kurti reikalingos priemonės.
 firefox-developer-speak-up = Pasisakykite
 firefox-developer-feedback-makes-us = Jūsų atsiliepimai mums padeda tobulėti. Papasakokite, kaip savo naršyklę ir jos pateikiamas saityno kūrėjų priemones galime patobulinti.
@@ -57,16 +56,11 @@ firefox-developer-firefox-devtools-now-grays-out = Dabar { -brand-name-firefox-d
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Naujosios { -brand-name-firefox-devtools } yra galingos, lanksčios, ir  – svarbiausia – pritaikomos. Viena jų – geriausia rinkoje „JavaScript“ derintuvė, galinti derinti daugelį naršyklių bei sukurta „React“ ir „Redux“ pagrindu.
 firefox-developer-master-css-grid = Įvaldykite CSS tinklelį
-# outdated
-firefox-developer-next-gen-css-engine = Naujos kartos CSS varikliukas
-firefox-developer-a-next-generation = Naujos kartos CSS varikliukas
 firefox-developer-master-innovative-features = Inovatyvios funkcijos
 firefox-developer-want-to-be-on-the-cutting-edge = Norite būti traukinio priešakyje?
 firefox-developer-firefox-nightly-receives = „{ -brand-name-firefox-nightly }“ atnaujinama kasdien ir suteikia galimybę išbandyti naujausias funkcijas, kurias planuojama išleisti tik po kelių mėnesių.
-firefox-developer-firefox-quantum-includes = į „{ -brand-name-firefox-quantum }“ įtrauktas naujas, inovatyvus ir neįtikėtinai spartus „Rust“ kalba parašytas CSS varikliukas.
 firefox-developer-firefox-is-the-only-browser = „{ -brand-name-firefox }“ – vienintelė naršyklė, suteikianti priemones CSS tinklelio projektavimui ir kūrimui. Šios priemonės padeda vizualizuoti tinklelį, pamatyti jo langelių vardus, peržiūrėti jo transformacijas ir atlikti daug kitų veiksmų.
 firefox-developer-convenient-features = Patogios funkcijos
-firefox-developer-faster-performance = Didesnė sparta
 firefox-developer-shapes-editor = Figūrų redaktorius
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } vizualusis figūrų redaktorius, kurio pagalba galėsite paprasčiau ir nespėliodami pakoreguoti elementų ir figūrų apkirpimo CSS taisykles.
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } vizualusis figūrų redaktorius, kurio pagalba galėsite paprasčiau ir nespėliodami sugeneruoti ar pakoreguoti CSS elementų ir jų šešėlių apkirpimo taisykles.
@@ -74,7 +68,4 @@ firefox-developer-faster-innovation = Greičiau pasiekiama informacija
 firefox-developer-fonts-panel = Šriftų polangis
 firefox-developer-firefox-developer-edition-sends = „{ -brand-name-firefox-developer-edition }“ automatiškai siunčia informaciją „{ -brand-name-mozilla }i“.
 firefox-developer-download-the-firefox-browser = Parsisiųskite „{ -brand-name-firefox }“ naršyklę, sukurtą programuotojams
-firefox-developer-welcome-to-the-all-new = Jus sveikina visiškai nauja „{ -brand-name-firefox-quantum }: { -brand-name-developer-edition }“
 firefox-developer-firefox-has-been-rebuilt = „{ -brand-name-firefox }“ naršyklė buvo atnaujinta iš pagrindų, kad taptų spartesnė, grakštesnė ir galingesnė nei kada nors anksčiau.
-firefox-developer-congrats-you-now-have-firefox = Sveikiname! Jūs naudojatės „{ -brand-name-firefox-quantum }: { -brand-name-developer-edition }“.
-firefox-developer-this-isnt-just-an-update = Tai nėra eilinis atnaujinimas. Tai – { -brand-name-firefox-quantum } – visiškai nauja, iš pagrindų atnaujinta „{ -brand-name-firefox }“ laida – spartesnė, grakštesnė ir galingesnė nei kada nors anksčiau.

@@ -7,7 +7,7 @@
 
 history-history-of-the-mozilla-project = { -brand-name-mozilla } Porožewoo taarikoo
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = { -brand-name-mozilla } porožewoo <a href="{ $coderush }">tee 1998 ra</a> nda <a href="{ $sourcerelease }">{ -brand-name-netscape } ceecikaw margari aššil gundu hantumoo wallafiyanoo</a>.
 history-it-was-intended-to-harness = Nda teeroo anniyaa ti porogaram hantumkaw ženberyan waanaa nda lakkaley ma huru cere ra k'interneti cin nd'a ga tejandi nd'alkadar kaŋ mana bay ka bara ceecikaw heboo ra.

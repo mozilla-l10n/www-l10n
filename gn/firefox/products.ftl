@@ -11,8 +11,6 @@ firefox-products-mozilla-products = { -brand-name-mozilla } ojapopyre
 firefox-products-mozillas-family-of-products = { -brand-name-mozilla } ha’e apopyre aty ojejapóva ne rekorosã ha ndera’eve hag̃ua ñandutípe.
 firefox-products-products = Apopyre
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } ha’e ñepyrũrã añoite.
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } ñepyrũrã añoite.
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } ojapopyréva aty oñemoheñói ne rekorosãverã ha ndera’eve hag̃ua ñandutípe.
 
 ## Firefox
@@ -67,6 +65,4 @@ firefox-products-analyze = Ehesa’ỹijo URL
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content-v2 = Ehecha pe ñanduti retepy iporãvéva ha erohory tenda ejaposehápe. Ojapóva { -brand-name-mozilla }.
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = Ehecha pe ñanduti retepy iporãvéva  — ha emoñe’ẽ ejaposehápe.
 firefox-products-get-pocket = Eguereko { -brand-name-pocket }

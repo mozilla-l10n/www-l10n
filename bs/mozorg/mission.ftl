@@ -10,16 +10,10 @@ mission-our-mission-is-to-ensure-the-internet = Naša misija je da obezbjedimo i
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Naša misija je da promovišemo otvorenost, inovacije i prilike na internetu.
 mission-at-mozilla-were-a-global-community-v2 = U { -brand-name-mozilla }, mi smo globalna zajednica tehnologa, mislilaca i graditelja koji rade zajedno u održavanju interneta živim i dostupnim, tako da ljudi širom svijeta mogu biti obavješteni saradnici i stvaraoci weba.
-# Outdated string
-mission-at-mozilla-were-a-global-community = U Mozilli, mi smo globalna zajednica tehnologa, mislilaca i graditelja koji rade zajedno u održavanju interneta živim i dostupnim, tako da ljudi širom svijeta mogu biti obavješteni saradnici i stvaraoci weba.
 mission-we-believe-this-act-of-human-collaboration = Vjerujemo da je ovaj čin ljudske saradnje kroz otvorenu platformu sastavni dio prema pojedinačnom razvoju i našoj kolektivnoj budućnosti.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn-v2 = Pročitajte <a href="{ $url }">{ -brand-name-mozilla } manifest</a> da biste saznali još više o vrijednostima i principima koji vode ostvarenju naše misije.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/about/manifesto/
-mission-read-the-mozilla-manifesto-to-learn = Pročitajte <a href="{ $url }">Mozillin Manifesto</a> da biste saznali još više o vrijednostima i principima koji vode ostvarenju naše misije.
 mission-watch-the-video-above-to-learn-more = Pogledajte video iznad da biste saznali više o tome ko smo, odakle smo došli i kako pravimo web boljim za vas.
 mission-get-involved = Uključite se
 mission-volunteer-opportunities-in-a-number = Mogućnosti za volontiranje u više različitih oblasti
@@ -29,5 +23,3 @@ mission-forums = Forumi
 mission-topics-include-support-products = Teme uključuju podršku, proizvode i tehnologije
 mission-governance = Vođenje
 mission-our-structure-organization-and-the-v2 = Naša struktura, organizacija, i šira { -brand-name-mozilla } zajednica
-# Outdated string
-mission-our-structure-organization-and-the = Naša struktura, organizacija, i šira zajednica Mozille

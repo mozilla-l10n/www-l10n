@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = הורדת { -brand-name-firefox } באנגלית (ארה"ב) ובלמעלה מ-90 שפות נוספות
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = הורדת ה{ -brand-name-firefox-browser(case: "a") } בעברית ולמעלה מ־90 שפות נוספות
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = לכולם מגיעה גישה לאינטרנט - השפה שלך לעולם לא אמורה להוות מחסום. לכן - בעזרת מתנדבים מסורים מסביב לעולם - אנחנו הופכים את { -brand-name-firefox } לזמין בלמעלה מ-90 שפות.
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = לכל אחד מגיעה גישה לרשת - השפה שלך לעולם לא צריכה להוות מחסום. זו הסיבה שבעזרת מתנדבים מסורים ברחבי העולם, אנו הופכים את ה{ -brand-name-firefox-browser(case: "a") } לזמין בלמעלה מ־90 שפות.
 firefox-all-choose-browser = יש לבחור בדפדפן כדי להמשיך
 firefox-all-choose-platform = יש לבחור בפלטפורמה כדי להמשיך
 firefox-all-choose-language = יש לבחור בשפה כדי להמשיך
@@ -23,14 +19,8 @@ firefox-all-change-language = בחירת שפה אחרת
 firefox-all-down-arrow = יש לבחור מהרשימה למטה
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = קבלת עזרה
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = דפדפן:
 firefox-all-browser-v2 = 1. דפדפן:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = סביבה:
 firefox-all-platform-v2 = 2. פלטפורמה:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = שפה:
 firefox-all-language-v2 = 3. שפה:
 firefox-all-desktop = מחשב שולחני
 firefox-all-mobile = נייד

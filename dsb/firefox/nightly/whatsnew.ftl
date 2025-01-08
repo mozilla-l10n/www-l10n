@@ -14,13 +14,9 @@ nightly-whatsnew-every-4-to-5-weeks = Kužde 4 do 5 tyźenjow se nowa kóńcna w
 nightly-whatsnew-this-is-a-good = Pśi toś tej góźbje źěkujomy se za wašu pomoc pśi pólěpšowanju { -brand-name-firefox } a pokazujomy was na dokumentaciju, komunikaciske kanale a websedła za nowosći, kótarež se na { -brand-name-nightly } póśěguju a kótarež mógli was zajmowaś.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = Jolic cośo wěźeś, což se dowokoła { -brand-name-nightly } a jogo zgromaźeństwa stawa, cytajśo nejpjerwjej naš <a { $blog }>blog</a> a slědujśo nam na <a { $mastodon }>Mastodon</a> abo <a { $twitter }>X</a>!
-# Variables:
-#   $attrs (string) - link href and additional attributes
-# Obsolete string (expires: 2024-11-26)
-nightly-whatsnew-want-to-know-which-v2 = Cośo wěźes, kótare platformowe funkcije wy mógał z { -brand-name-nightly } testowaś, kótarež hyšći njejsu w drugich kanalach { -brand-name-firefox }? Woglědajśo se pótom bok z nastajenjami <a { $attrs }>eksperimentow Nightly</a>.
 # Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v3 = Cośo wěźes, kótare platformowe funkcije wy mógał z { -brand-name-nightly } testowaś, kótarež hyšći njejsu w drugich kanalach { -brand-name-firefox }? Woglědajśo se pótom bok z nastajenjami <a { $attrs }>{ -brand-name-firefox-labs }</a>.

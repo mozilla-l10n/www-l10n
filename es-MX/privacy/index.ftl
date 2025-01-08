@@ -42,5 +42,4 @@ privacy-index-thunderbird = { -brand-name-thunderbird }
 privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } para { -brand-name-fire-tv }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
-privacy-index-hubs = { -brand-name-mozilla-hubs }
 privacy-index-mozilla-subscription-services = { -brand-name-mozilla } Servicios de suscripción

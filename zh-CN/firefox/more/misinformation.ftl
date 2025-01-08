@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
@@ -14,7 +14,7 @@ misinformation-disinformation = 错误信息、虚假信息——您以前可能
 misinformation-ultimately-harmful = 归根结底，错误信息和虚假信息都可能有害。错误信息会误导人们，并给全球经济造成巨大损失，更可能威胁到民主和有效治理。而且，假新闻往往比正确的新闻传播得更快、更深、更广，基本上无法阻断。
 misinformation-false-info-heading = 错误信息会出现在哪里？
 # Variables:
-#   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
+#   $tracking (url) - link to https://blog.mozilla.org/products/firefox/firefox-privacy-protections/
 misinformation-widespread-online = 您可以在任何地方见到错误信息和虚假信息，但在互联网上更为普遍且影响最深。算法和<a href="{ $tracking }">跟踪</a>充当了错误信息和虚假信息的扩增器，从而可以在网站、博客、论坛和社交网络上吸引更多受众。
 misinformation-tracking-advertising = 您可能听说过跟踪主要是在广告方面。然而，在传播错误信息时，它也是不可忽视的工具。为什么呢？当您浏览互联网或社交网络内容时，您的行为、兴趣、某些情况下的联系人以及更多信息会被网站上的各方跟踪，然后在您不知情或未经您同意的情况下建立您的极为详细的个人资料并出售给其他人。这些资料可以用于个性化广告，当然也可以用于向您呈现任何类型的目标信息。
 misinformation-social-newtorks = 您在任何网站或社交网络上收到的内容推荐，基本都是算法根据您的个人资料信息而显示的。不幸的是，尽管算法越来越聪明，但它们仍无法检查内容的准确性。这对于社交媒体而言，尤其成问题：它们每天都会为用户提供无数的信息，并且可以访问几乎无限的内容，包括用户帖子、新闻文章、广告和赞助内容。尽管帖子和文章可能会意外地传播错误信息，但广告和赞助内容却可以用于故意散播错误信息以操纵用户。因此，如何辨别错误信息对您十分重要。

@@ -13,7 +13,7 @@ what-is-firefox = Što je { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = { -brand-name-firefox-browser } je jenički wulki wobhladowak, kotryž so přez powšitkownosći wužitnu organizaciju podpěruje, kotraž wabjerjam waše wosobinske daty njepředawa, a wam pomha, waše wosobinske informacije škitać. Zhońće wjace wo <a href="{ $url }">{ -brand-name-firefox-browsers }</a> a <a href="{ $url2 }">druhich produktach.</a>
 how-do-i = Kak móžu sej { -brand-name-firefox-browser } wobstarać?
@@ -46,7 +46,7 @@ protecting-your-privacy = Škit wašeje priwatnosće ma najwyšu prioritu za nas
 is-firefox-safe = Je { -brand-name-firefox } wěsty?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = { -brand-name-firefox } njeje jenož wěsće wužiwajomny, ale tež pomha, waše a priwatne informacije wěste dźeržeć. { -brand-name-firefox-browser } awtomatisce znate přesćěhowaki třećich poskićowarjow, přesćěhowaki  socialnych medijow, kryptokopaki a porstowe ćišće při hromadźenju datow haći. <a href="{ $url }">Zhońće wjace wo priwatnosći w našich produktach.</a>
 related-questions-safe = Podobne prašenja: Je { -brand-name-firefox } dobry za priwatnosć, je { -brand-name-firefox } wěsty, je { -brand-name-firefox } lěpši za priwatnosć

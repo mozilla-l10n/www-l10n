@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -26,9 +26,6 @@ best-browser-there-are-a-few-ways = Iminig yezmer ad immesten iseqdacen-is s dde
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = Tis snat, ur ilaq ara ad teskelseḍ ddeqs n yisefka n useqdac. D tidet, imakaren ur zmiren ara ad akren ayen ur nelli ara, ɣef aya { -brand-name-firefox } ijemmeɛ kan kra n telɣut ɣef yiseqdacen. <a href="{ $data }">{ -brand-name-firefox } yeẓra</a> ticki tesseqdaceḍ iminig daɣen yeẓra anida telliḍ <a href="{ $privacy }">maca ur yessin ara isem n uɣersiw-ik n uxxam neɣ ini i tḥemmled.</a>
 best-browser-last-but-not-least = Ɣer taggar, iminig aɣelsan yessefk ad d-imudd ifecka ara k-yeǧǧen ad ɛasseḍ imiḍanen-ik. Amedya, ilɣa s yimayl ma yella yiwen seg yimiḍanen-ik tḥuza-t trewla n yisefka, neɣ daɣen ipiktugṛamen i d-yemmalen d akken asmel d awgelhan ( aya yebɣa ad d-yini d akken tzemreḍ ad teskecmeḍ takarḍa n lbanka deg usmel n uzenzi s wudem aɣelsan).
-# Variables:
-# $monitor (url) - link to https://monitor.firefox.com
-best-browser-firefox-is-offering = { -brand-name-firefox } yettmuddu-d amaynut akken ad teqqimeḍ d aɣelsan: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>.  D ameẓlu n baṭel ara k-id-yelɣun ticki tella trewla n yisefka i iḥuzan amiḍan-ik zik. Tamahilt-nniḍen d leqfel azegzaw. Apiktugṛam-a amecṭuḥ yellan deg tama n, ufella tazelmaḍt n yiminig temmal-d d akken asmel yettwarzan d aɣelsan, d awgelhan. Ma yella d amumed, xemmem snat n tikkal uqbel ad tazneḍ isefka-ik udmawanen.
 best-browser-we-visit-hundreds-or = Nrezzu miya neɣ ahat d agimen n tikkal  yal ass ɣer yismal web, daɣen ur tezmireḍ ara yal tikkelt ad ṣeggmeḍ iɣewaṛen n t ɣellist akked uqadeṛ n tbaḍnit i yal yiwen seg yismal-a. Ɣef waya i ilaq iminig-ik ad k-d-yefk ugar n tɛessast - acku yettmuddu-d ammesten ilaw, s unamek.
 best-browser-a-browser-that-minds = Iminig ur neggar ara iman-is di ccɣel-ik.
 best-browser-privacy-on-the-web = Tabaḍnit deg Web d asentel iṛeqqen. Ma yella tabadnit tekka-d deg umḍiq amezwaru deg wayen i k-yecceɣben, tessarameḍ ad tnadiḍ iminig iṣelḥen. Ticki tferneḍ iminig uslig, wali tastṛatijit yeṭṭafaṛ akked wamek ixeddem yiminig i yisefka-ik. D tamsalt tatiknikant, maca sebba ɣef wacu kran n yiminigen d usligen ugar n wiyaḍ.

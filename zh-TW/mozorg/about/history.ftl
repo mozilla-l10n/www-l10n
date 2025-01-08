@@ -7,7 +7,7 @@
 
 history-history-of-the-mozilla-project = { -brand-name-mozilla } 專案歷史
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = { -brand-name-mozilla } 專案<a href="{ $coderush }">肇始於 1998 年</a>，隨 <a href="{ $sourcerelease }">{ -brand-name-netscape } 瀏覽器套裝的原始碼公開釋出而生</a>。
 history-it-was-intended-to-harness = 原本只是想要結合網路上數以千計的程式設計師的創意，為瀏覽器市場提供史無前例的等級的創新。

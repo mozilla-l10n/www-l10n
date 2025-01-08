@@ -11,8 +11,6 @@ firefox-products-mozilla-products = Produkty { -brand-name-mozilla }
 firefox-products-mozillas-family-of-products = { -brand-name-mozilla } jo produktowa swójźba, kótaraž wšykne su myslone za to, až sćo wěsćejšy a wěcej inteligentny online
 firefox-products-products = Produkty
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } jo jano zachopjeńk.
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } jo jano zachopjeńk
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } jo produktowa swójźba, kótaraž wšykne su myslone za to, až sćo wěsćejšy a wěcej inteligentny online.
 
 ## Firefox
@@ -61,6 +59,4 @@ firefox-products-analyze = URL analyzěrowaś
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content-v2 = Namakajśo nejlěpše wopsimjeśe we webje - a wužywajśo jo, źožkuli a gažkuli cośo. Napórany wót { -brand-name-mozilla }.
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = Namakjśo nejlěpše wopsimjeśe we webje - a wužywajśo jo, źožkuli a gažkuli cośo.
 firefox-products-get-pocket = { -brand-name-pocket } wobstaraś

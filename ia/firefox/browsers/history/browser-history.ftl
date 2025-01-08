@@ -31,7 +31,7 @@ browser-history-the-browser-wars = Le guerra del navigatores
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = Desde 1995, { -brand-name-netscape } Navigator non esseva le sol maniera de ir online. Le gigante del software de computator { -brand-name-microsoft } licentiava le vetere codice de Mosaic e produceva su proprie fenestra al web, <a href="{ $ie }">{ -brand-name-ie }</a>. Le publication discatenava un guerra. { -brand-name-netscape } e { -brand-name-microsoft } ha laborate febrilmente pro producer nove versiones de lor programmas, cata uno tentava de superar le altere con productos plus veloce e melior.
 # Variables:
-#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = { -brand-name-netscape } ha create e distribuite JavaScript, que dava al sitos web potente capacitates de calculo indisponibile antea. (Ma illes faceva tamben le infame <a href="{ $blink }">etiquetta &lt;blink&gt;</a>.) { -brand-name-microsoft } respondeva con le Folios de stilo in cascada (CSS), que ha devenite le standard pro le conception de paginas web.
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1

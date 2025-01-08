@@ -41,5 +41,3 @@ footer-refresh-community-participation-guidelines = Smjernice za učešće u zaj
 footer-refresh-about-this-site = O ovoj stranici
 footer-refresh-all-languages = Svi jezici
 footer-refresh-language = Jezik
-footer-refresh-primary-nav-aria-label = Osnovno podnožje
-footer-refresh-secondary-nav-aria-label = Sekundarno podnožje

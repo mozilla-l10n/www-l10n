@@ -7,26 +7,16 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Vytvorte si { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } a majte svoje údaje v bezpečí a synchronizované
-# Obsolete string
-firefox-accounts-get-a-firefox-account = Vytvorte si { -brand-name-firefox-account(case: "acc", capitalization: "lower") } - majte svoje údaje v bezpečí a synchronizované
-# Obsolete string
-firefox-accounts-securely-sync-your = Bezpečne si synchronizujte svoje heslá, záložky a karty medzi všetkými svojimi zariadeniami. Založte si { -brand-name-firefox-account(case: "acc", capitalization: "lower") } hneď teraz – jedno prihlásenie – možnosti a súkromie všade.
 # HTML page description
 mozilla-accounts-securely-sync-your = Bezpečne si synchronizujte svoje heslá, záložky a karty medzi všetkými svojimi zariadeniami. Založte si { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } hneď teraz – jedno prihlásenie – možnosti a súkromie všade.
 firefox-accounts-enter-your-email-address = Začnite zadaním svojej e‑mailovej adresy.
 firefox-accounts-already-have-an-account = Máte už účet?
 firefox-accounts-sign-in = Prihláste sa
-# Obsolete string
-firefox-accounts-already = Už máte { -brand-name-firefox-account(case: "acc", capitalization: "lower") }. Gratulujeme!
 mozilla-accounts-already = Už máte { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }. Gratulujeme!
 firefox-accounts-manage = Spravovať účet
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Prihláste sa do svojho { -brand-name-mozilla-account(case: "gen", capitalization: "lower") }:
-# Obsolete string
-firefox-accounts-sign-in-to = Prihláste sa do svojho { -brand-name-firefox-account(case: "gen", capitalization: "lower") }:
-# Obsolete string
-firefox-accounts-meet-our-family-of = Spoznajte náš rad produktov zameraných na súkromie.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Odošlite kartu</a> do iného zariadenia
@@ -48,8 +38,6 @@ firefox-accounts-get-it-all-on-every = Používajte naše produkty na všetkých
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

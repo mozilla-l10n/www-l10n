@@ -13,8 +13,6 @@ vpn-download-sub-heading = Tu pote discargar { -brand-name-mozilla-vpn } sur usq
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } offere protection secur pro tote le major systemas operative.
 vpn-download-not-available-in-country = Desolate, { -brand-name-mozilla-vpn } non es disponibile al discargamento in tu pais.
 vpn-download-button-copy = Discargar
-# Obsolete string
-vpn-download-for-windows = VPN pro { -brand-name-windows } 10/11
 vpn-download-for-windows-v2 = VPN pro { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit solo)
 vpn-download-for-windows-long = Discargar { -brand-name-mozilla-vpn } pro { -brand-name-windows }
@@ -32,8 +30,6 @@ vpn-download-for-android = VPN pro { -brand-name-android }
 vpn-download-for-android-long = Discargar { -brand-name-mozilla-vpn } pro { -brand-name-android }
 vpn-download-for-ios = VPN pro { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Discarga { -brand-name-mozilla-vpn } pro { -brand-name-ios }
-# Obsolete string
-vpn-download-for-ios-long = Discargar VPN { -brand-name-mozilla-vpn } pro { -brand-name-ios }
 vpn-download-get-on-google-play = Obtene lo per { -brand-name-google-play } Store
 vpn-download-get-on-app-store = Obtener { -brand-name-app-store }
 vpn-download-based-on-your = In base a tu apparato actual

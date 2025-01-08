@@ -13,7 +13,7 @@ what-is-firefox = Mikä on { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = { -brand-name-firefox-browser } on ainoa suuri selain, jota tukee voittoa tavoittelematon taho, joka ei myy henkilökohtaisia tietojasi mainostajille ja auttaa sinua suojaamaan henkilökohtaisia tietojasi. Lue lisää <a href="{ $url }">{ -brand-name-firefox-browsers }</a> ja <a href="{ $url2 }">muut tuotteet.</a>
 how-do-i = Miten { -brand-name-firefox-browser } on mahdollista saada?
@@ -46,7 +46,7 @@ protecting-your-privacy = Yksityisyytesi suojaaminen on tärkein prioriteettimme
 is-firefox-safe = Onko { -brand-name-firefox } turvallinen?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = Sen lisäksi, että { -brand-name-firefox } on turvallinen käyttää, se auttaa myös pitämään tietosi ja yksityiset tietosi turvassa. { -brand-name-firefox-browser } estää automaattisesti tunnettuja kolmannen osapuolen seuraimia, sosiaalisen median seuraimia, kryptolouhijoita ja yksilöijiä keräämästä tietojasi. <a href="{ $url }">Lisätietoja tuotteidemme tietosuojasta.</a>
 related-questions-safe = Aiheeseen liittyviä kysymyksiä: onko { -brand-name-firefox } hyvä yksityisyyden kannalta, onko { -brand-name-firefox } turvallinen, onko { -brand-name-firefox } parempi yksityisyyden kannalta

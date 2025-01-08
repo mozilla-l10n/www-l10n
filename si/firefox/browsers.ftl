@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/
 
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = පෞද්ගලිකත්‍වයට මුල් තැන දෙන — සහ සැමවිට තිබෙන <strong>අතිරික්සු</strong> ගන්න
 firefox-browsers-desktop = වැඩතලය
 firefox-browsers-seriously-private-browsing = නිත්‍ය පෞද්ගලික පිරික්සීමකට. අන්තර්ජාල ක්‍රියාකාරකම් ගැන තොරතුරු රැස් කරන මාර්ගගත ලුහුබැඳීම් 2000+ ස්වයංක්‍රීයව { -brand-name-firefox } මගින් අවහිර කරයි.
 firefox-browsers-download-for-desktop = වැඩතලය සඳහා බාගන්න

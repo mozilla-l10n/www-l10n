@@ -39,8 +39,6 @@ firefox-desktop-download-blocks-social-trackers = Bloca els elements de seguimen
 firefox-desktop-download-os-availability = Disponibilitat per a sistemes operatius
 firefox-desktop-download-in-browser-screenshot = Eina de captura de pantalla integrada
 firefox-desktop-download-primary-password = Contrasenya principal
-# Obsolete string
-firefox-desktop-download-master-password = Contrasenya mestra
 firefox-desktop-download-we-block-the-ad = Bloquem els elements de seguiment de publicitat. Navegareu més ràpidament per Internet.
 firefox-desktop-download-ads-are-distracting = Els anuncis distreuen i fan que les pàgines web es carreguin més lentament i alhora els seus elements de seguiment vigilen tots els moviments que feu a la xarxa. El { -brand-name-firefox-browser } bloca la majoria dels elements de seguiment automàticament, així no cal que us endinseu en els paràmetres de seguretat.
 firefox-desktop-download-see-your-report = Vegeu el vostre informe de protecció
@@ -129,9 +127,6 @@ firefox-desktop-download-firefox-was-created = El { -brand-name-firefox } està 
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = A mesura que Internet creix i canvia, el { -brand-name-firefox } continua centrant-se en el vostre dret a la privadesa (l'anomenem  <a { $attrs }>Compromís sobre les dades personals</a>): recollir menys dades, mantenir-les segures i sense secrets. Les vostres dades, la vostra activitat al Web i la vostra vida digital estan protegides amb el { -brand-name-firefox }.
 # Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = El { -brand-name-firefox } està disponible en tots els dispositius; accediu a les vostres pestanyes, a l'historial i a les adreces d'interès des de qualsevol lloc. Només necessiteu un <a { $attrs }>compte del { -brand-name-firefox }</a>.
-# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Captureu una imatge d'alta resolució de qualsevol cosa del Web amb l'eina de <a { $attrs }>captura de pantalla</a> integrada en el navegador
 # Variables:
@@ -140,12 +135,6 @@ firefox-desktop-download-firefox-automatically = El { -brand-name-firefox } auto
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Dubtes? L'<a { $attrs }>assistència de { -brand-name-mozilla }</a> us els resol.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Ja teniu el navegador. Ara traieu encara més profit del { -brand-name-firefox }.
-# Outdated string
-firefox-desktop-download-watch-for-hackers-with = Estigueu a l'aguait dels furoners amb el { -brand-name-firefox-monitor }, protegiu les contrasenyes amb el { -brand-name-firefox-lockwise } i molt més.
-firefox-desktop-download-get-more-from-firefox = Traieu més profit del { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Simplement, baixeu el navegador
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -161,15 +150,9 @@ firefox-desktop-download-now-mac = Ara <strong>obriu</strong> l'instal·lador qu
 firefox-desktop-download-get-help = Teniu problemes? <a { $attrs }>Obteniu ajuda per a la instal·lació</a>.
 firefox-desktop-download-in-another-language = Baixeu la versió per a una altra llengua o sistema operatiu.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }"> ja no ofereix cap actualització de seguretat</a> per al { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }, però encara podeu utilitzar el { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = El sistema operatiu que utilitzeu és insegur, obsolet i <a href="{ $url }">ja no és compatible amb el { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/

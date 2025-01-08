@@ -7,22 +7,14 @@
 
 # HTML page title
 welcome-page1-more-than-a-browser-mozilla = Več kot le brskalnik – { -brand-name-mozilla-monitor } je vaša straža pred napadalci
-# Outdated string
-welcome-page1-more-than-a-browser-firefox = Več kot le brskalnik – { -brand-name-firefox-monitor } je vaša straža pred napadalci
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Naredite naslednji korak za zaščito spletne zasebnosti z družino izdelkov { -brand-name-firefox }.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Ostanite korak pred napadalci. Preverite kraje podatkov z { -brand-name-mozilla-monitor }jem.
-# Obsolete string
-welcome-page1-stay-ahead-of-hackers-check = Ostanite korak pred napadalci. Preverite kraje podatkov s { -brand-name-firefox-monitor }jem.
 welcome-page1-youre-on-track-to-stay-protected = Ste na pravi poti, da ostanete zaščiteni
 welcome-page1-youve-got-the-web-browser = Imate spletni brskalnik, ki ščiti vašo zasebnost – zdaj je čas, da si priskrbite izvidnika za napadalce.
 welcome-page1-check-your-breach-report = Preverite svoje poročilo o krajah podatkov
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } vam pokaže, ali so bili vaši podatki razkriti v kateri od znanih kraj podatkov, in vas opozori, če se to zgodi v prihodnje.
-# Obsolete string
-welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } vam pokaže, ali so bili vaši podatki razkriti v kateri od znanih kraj podatkov, in vas opozori, če se to zgodi v prihodnje.
 welcome-page1-stay-ahead-of-hackers = Ostanite korak pred napadalci
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/

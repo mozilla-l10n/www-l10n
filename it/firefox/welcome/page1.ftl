@@ -7,22 +7,14 @@
 
 # HTML page title
 welcome-page1-more-than-a-browser-mozilla = Più che un browser: { -brand-name-mozilla-monitor } è la tua sentinella contro gli hacker
-# Outdated string
-welcome-page1-more-than-a-browser-firefox = Più che un browser: { -brand-name-firefox-monitor } è la tua sentinella contro gli hacker
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Fai il prossimo passo: tutela la tua privacy online con la famiglia di prodotti { -brand-name-firefox }.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Rimani un passo avanti agli hacker: tieni sotto controllo le violazioni di dati con { -brand-name-mozilla-monitor }.
-# Obsolete string
-welcome-page1-stay-ahead-of-hackers-check = Rimani un passo avanti agli hacker: tieni sotto controllo le violazioni di dati con { -brand-name-firefox-monitor }.
 welcome-page1-youre-on-track-to-stay-protected = Cerchi protezione? Sei sulla pista giusta.
 welcome-page1-youve-got-the-web-browser = Hai già il browser che protegge la tua privacy, ora prova una sentinella contro gli hacker.
 welcome-page1-check-your-breach-report = Controlla il tuo rapporto sulle violazioni
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } ti mostra se le tue informazioni sono state divulgate in violazioni di dati conosciute e ti avverte di eventuali violazioni future.
-# Obsolete string
-welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } ti mostra se le tue informazioni sono state divulgate in violazioni di dati conosciute e ti avverte di eventuali violazioni future.
 welcome-page1-stay-ahead-of-hackers = Un passo avanti agli hacker
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/

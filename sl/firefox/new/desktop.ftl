@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } je ustvar
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Medtem ko internet raste in se spreminja, se { -brand-name-firefox } še naprej osredotoča na vašo pravico do zasebnosti – mi to imenujemo <a { $attrs }>obljuba o osebnih podatkih</a>: Vzemi manj. Obdrži jih varne. Brez skrivnosti. Vaše podatke, vašo dejavnost in življenje na spletu ščiti { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } je na voljo za vse vaše naprave. Vzemite zavihke, zgodovino in zaznamke s seboj – vse, kar potrebujete, je <a { $attrs }>{ -brand-name-firefox } Račun</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } vam je na voljo za vse naprave; vzemite svoje zavihke in podatke s seboj! Za uporabo sinhronizacije in še več izdelkov { -brand-name-mozilla(sklon: "rodilnik") } je vse, kar potrebujete, <a { $attrs }>{ -brand-name-mozilla-account }</a>.
@@ -146,13 +142,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } samodej
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Imate vprašanja? Obiščite <a { $attrs }>Podporo { -brand-name-mozilla }</a>.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Brskalnik že imate. Zdaj si priskrbite še ostale storitve { -brand-name-firefox }a.
 firefox-desktop-download-watch-for-hackers-with-v3 = Pazite na hekerje z { -brand-name-mozilla-monitor }jem, zaščitite svoj e-poštni naslov s { -brand-name-firefox-relay } in drugo.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Pazite na hekerje s { -brand-name-firefox-monitor }jem, zaščitite svoj e-poštni naslov s { -brand-name-firefox-relay } in drugo.
-firefox-desktop-download-get-more-from-firefox = Priskrbite si več od { -brand-name-firefox }a
-firefox-desktop-download-just-download-the-browser = Samo prenesite brskalnik
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -190,4 +180,3 @@ firefox-desktop-download-please-follow = Za namestitev { -brand-name-firefox }a 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Vaš sistem morda ne izpolnjuje zahtev za { -brand-name-firefox }, lahko pa preizkusite eno izmed <a href="{ $url }">naslednjih različic</a>.
-firefox-desktop-download-taskbar = { -brand-name-firefox } se bo po namestitvi pripel v opravilno vrstico sistema { -brand-name-windows }

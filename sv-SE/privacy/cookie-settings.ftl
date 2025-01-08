@@ -10,8 +10,6 @@ cookie-settings-page-desc = Den här sidan beskriver de olika typer av kakor som
 cookie-settings-breadcrumb-link = Föregående sida
 cookie-settings-explainer = Kakor är små filer som innehåller bitar av information som sparas på din dator eller enhet när du besöker en webbplats. { -brand-name-mozilla } använder kakor för att våra webbplatser ska fungera samt för att samla in information om hur du använder och interagerar med våra webbplatser, till exempel de sidor du besöker.
 cookie-settings-page-intro-v2 = Den här sidan beskriver de olika typer av kakor och liknande tekniker som t.ex. pixeltaggar, webbeacons, klara GIF-filer, JavaScript och lokal lagring (hädanefter kallade "Kakor") som { -brand-name-mozilla } kan använda och ger dig kontroll över vilka typer av uppgifter du samtycker till att { -brand-name-mozilla } samlar in.
-# Obsolete string (expires: 2024-07-01)
-cookie-settings-page-intro = Den här sidan beskriver de olika typer av kakor och liknande tekniker (såsom pixeltaggar, webb-beacons, clear GIFs, JavaScript och lokal lagring) ("Kakor") som { -brand-name-mozilla } kan använda och ger dig kontroll över vilka typer av uppgifter du samtycker till att { -brand-name-mozilla } samlar in.
 cookie-settings-how-mozilla-heading = Hur { -brand-name-mozilla } använder kakor
 cookie-settings-how-does-mozilla-use-subheading = Hur använder { -brand-name-mozilla } denna data?
 cookie-settings-save-changes = Spara ändringar

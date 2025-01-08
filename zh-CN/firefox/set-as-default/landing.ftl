@@ -9,9 +9,7 @@
 set-as-default-landing-make-firefox-your-default = 将 { -brand-name-firefox } 设为您的默认浏览器
 # HTML page description
 set-as-default-landing-choose-the-browser = 选择可以保护您隐私的浏览器。请将 { -brand-name-firefox } 设为默认浏览器。
-# Obsolete string
 set-as-default-landing-thanks-for-using-the = 感谢您使用最新的 { -brand-name-firefox } 浏览器。<br>选用 { -brand-name-firefox }，就代表您支持您和所有人都有权、且将会拥有一个更好的网络环境。<br>接下来，用行动给自我保护加固。
-# Obsolete string
 set-as-default-landing-make-sure-youre-protected = 上网冲浪，别忘记开启保护
 set-as-default-landing-you-should-get = 您的浏览方式，您说了算
 set-as-default-landing-if-you-recently = 如果您最近更新过操作系统，则部分设置可能已被更改。选用 { -brand-name-firefox }，一起为建设自由与开放的互联网出一份力。

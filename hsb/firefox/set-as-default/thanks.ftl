@@ -22,10 +22,6 @@ set-as-default-thanks-youre-all-set = Sće wšitko dočinił.
 set-as-default-thanks-get-firefox-for-mobile = Wobstarajće sej { -brand-name-firefox } za mobilne graty
 set-as-default-thanks-travel-the-internet-with = Pohibujće so ze škitom na wšěch swojich gratach po interneće.
 set-as-default-thanks-download-the-app = Nałoženje sćahnyć
-# Obsolete string
-set-as-default-thanks-join-firefox = Přidružće so k { -brand-name-firefox }
-# Obsolete string
-set-as-default-thanks-sign-up-for-a-free-account = Registrujće so za darmotne konto a synchronizujće wšě swoje hesła, přehladowansku historiju a nastajenja přez swoje graty.
 set-as-default-create-an-account = Konto załožić
 set-as-default-thanks-sign-up-for-a-free-account-v2 = Registrujće so za darmotne { -brand-name-mozilla-account } a synchronizujće wšě swoje hesła, přehladowansku historiju a nastajenja přez swoje graty.
 # Account here refers to a Firefox Account

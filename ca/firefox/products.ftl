@@ -39,6 +39,4 @@ firefox-products-fakespot = { -brand-name-fakespot }
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = Descobriu el millor contingut del web i consulteu-lo on vulgueu i quan vulgueu.
 firefox-products-get-pocket = Baixa el { -brand-name-pocket }

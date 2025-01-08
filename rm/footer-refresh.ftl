@@ -41,5 +41,3 @@ footer-refresh-community-participation-guidelines = Directivas per la participaz
 footer-refresh-about-this-site = Davart questa website
 footer-refresh-all-languages = Tut las linguas
 footer-refresh-language = Lingua
-footer-refresh-primary-nav-aria-label = Pe-pagina primar
-footer-refresh-secondary-nav-aria-label = Pe-pagina secundar

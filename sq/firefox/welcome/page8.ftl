@@ -16,8 +16,6 @@ welcome-page8-enhanced-tracking-protection = Mbrojtje e Thelluar Nga Gjurmimi
 welcome-page8-automatically-block-sites = Bllokoni automatikisht ndjekjen tuaj nëpër internet nga sajte.
 welcome-page8-see-whats-blocked = Shihni ç’është bllokuar
 welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-see-what-youve-been = Shihni nëse jeni përfshirë në ndonjë cenim të ditur të dhënash në internet dhe ndërmerrni veprime për ta zgjidhur.
 welcome-page8-go-to-monitor = Kaloni te { -brand-name-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }

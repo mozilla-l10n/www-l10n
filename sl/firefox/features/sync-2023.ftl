@@ -12,11 +12,6 @@ features-sync-access-your-firefox-bookmarks = Imejte dostop do svojih zaznamkov,
 features-sync-with-firefox-you-can-pick-up-where = { -brand-name-firefox } vam pomaga nadaljevati, kjer ste končali, ko se preklopite z namiznega računalnika na mobilni telefon ali tablico. Omogoča vam dostop do zaznamkov, zgodovine brskanja, shranjenih gesel in ostalih podatkov ne glede na to, katero napravo uporabljate.
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Ustvarite si brezplačen { -brand-name-mozilla-account }</a> in lahko boste sinhronizirali podatke med vsemi napravami, kjer uporabljate { -brand-name-firefox(sklon: "tozilnik") } in ostale izdelke { -brand-name-mozilla }.
-# Obsolete string
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Ustvarite si brezplačen { -brand-name-mozilla-account }</a> in lahko boste sinhronizirali podatke med vsemi napravami, kjer uporabljate { -brand-name-firefox(sklon: "tozilnik") }.
-# Obsolete string
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Ustvarite si brezplačen { -brand-name-firefox } Račun</a> in lahko boste sinhronizirali podatke med vsemi napravami, kjer uporabljate { -brand-name-firefox(sklon: "tozilnik") }.
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Vsi vaši podatki so na naših strežnikih šifrirani, zato jih ne moremo prebrati – dostopni so edino vam. Vaših podatkov ne prodajamo oglaševalcem, saj bi to bilo v nasprotju z našo <a href="{ $privacy }">obljubo o zasebnosti</a>.

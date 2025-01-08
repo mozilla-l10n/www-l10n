@@ -54,19 +54,10 @@ vpn-download-faq-working = Sut ydw i'n gwybod bod y VPN yn gweithio?
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.mozilla.org/
 vpn-download-faq-visual-indicators-v2 = Mae { -brand-name-mozilla-vpn } yn dangos arwyddion gweledol o'i statws presennol yn y bar offer a sgrin gartref y rhaglen, gan ei gwneud hi'n hawdd gwybod a yw eich gweithgaredd ar-lein wedi'i ddiogelu ai peidio. Mae'r dangosyddion hyn yn eich galluogi i gadarnhau pan fydd eich llywio yn breifat ac yn ddiogel. Yn ogystal, tra'n gysylltiedig, gallwch ymweld â <a href="{ $monitor }">https://monitor.mozilla.org/</a> i gadarnhau a yw eich cyfeiriad IP wedi'i guddio. Am ragor o fanylion, gweler <a href="{ $connected }">Sut gallaf ddweud os yw { -brand-name-mozilla-vpn } wedi'i gysylltu?</a>.
-# Obsolete string
-# Variables:
-#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
-#   $monitor (url) link to https://monitor.firefox.com/
-vpn-download-faq-visual-indicators = Mae { -brand-name-mozilla-vpn } yn dangos dangosyddion gweledol o'i statws presennol yn y bar offer a sgrin gartref y rhaglen, gan ei gwneud hi'n hawdd gwybod a yw eich gweithgaredd ar-lein wedi'i ddiogelu ai peidio. Mae'r dangosyddion hyn yn eich galluogi i gadarnhau pan fydd eich llywio yn breifat ac yn ddiogel. Yn ogystal, tra'n gysylltiedig, gallwch ymweld â <a href="{ $monitor }">https://monitor.firefox.com/</a> i gadarnhau a yw eich cyfeiriad IP wedi'i guddio. Am ragor o fanylion, ewch i <a href="{ $connected }">Sut gallaf ddweud os yw { -brand-name-mozilla-vpn } wedi'i gysylltu?</a>.
 vpn-download-faq-add-device = Sut i ychwanegu dyfais arall?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v3 = Mae ychwanegu dyfais arall mor syml â llwytho i lawr a gosod y meddalwedd { -brand-name-mozilla-vpn } ac yna mewngofnodi i'ch cyfrif { -brand-name-mozilla-account } presennol ar y ddyfais newydd. Am ragor o fanylion, ewch i <a href="{ $subscription }">Sut i ychwanegu dyfeisiau at eich tanysgrifiad { -brand-name-mozilla-vpn }</a>.
-# Obsolete string
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v2 = Mae ychwanegu dyfais arall mor syml â llwytho i lawr a gosod y meddalwedd { -brand-name-mozilla-vpn } ac yna mewngofnodi i'ch { -brand-name-firefox-account } presennol ar y ddyfais newydd. Am ragor o fanylion, ewch i <a href="{ $subscription }">Sut i ychwanegu dyfeisiau at eich tanysgrifiad { -brand-name-mozilla-vpn }</a>.
 vpn-download-faq-best-practices = Beth yw rhai arferion gorau VPN?
 vpn-download-faq-traffic = Os mai'ch nod yw diogelu eich traffig rhyngrwyd wrth gadw cyflymder cyflym, yna mae bob amser yn well dewis lleoliad gweinydd sydd mor agos â phosibl at eich lleoliad ffisegol. Bydd hyn yn cynyddu dibynadwyedd a chyflymder eich cysylltiad gan na fydd angen i'ch traffig rhyngrwyd wyro'n sylweddol cyn cyrraedd ei gyrchfan arfaethedig ar y we.
 vpn-download-faq-experience = Os mai'ch nod yw profi'r rhyngrwyd fel petaech mewn rhan arall o'r byd, gallwch ddewis lleoliad gweinydd yno a bydd pob gwefan y byddwch yn ymweld â hi yn dangos fel petaech yno.

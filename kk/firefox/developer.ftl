@@ -1,15 +1,14 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-speak-up = Ойыңызды айтыңыз
 firefox-developer-feedback-makes-us = Кері байланыс бізді жақсырақ етеді. Браузер және әзірлеуші құралдарын қалай жақсартуға болатыны туралы бізге айтыңыз.
 firefox-developer-join-the-convo = Сөйлесуге қосылу
@@ -38,9 +37,6 @@ firefox-developer-memory = Жады
 firefox-developer-style-editor = Стильдер түзеткіші
 firefox-developer-new-tools = Жаңа құралдар
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
-firefox-developer-next-gen-css-engine = Келесі буынды CSS қозғалтқышы
-firefox-developer-a-next-generation = Келесі буынды CSS қозғалтқышы
 firefox-developer-master-innovative-features = Инновациялық мүмкіндіктер
-firefox-developer-faster-performance = Жылдамдау өнімділік
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } автоматты түрде { -brand-name-mozilla }-ға кері байланыс деректерін жібереді.
 firefox-developer-download-the-firefox-browser = Әзірлеушілер үшін жасалған { -brand-name-firefox } браузерін жүктеп алыңыз

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-a-vpn/
@@ -56,11 +56,3 @@ vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Rápida, segura, con
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> es un servicio en el que podés confiar para mantener tu conexión a Internet segura en todos tus dispositivos. No guardamos registros de tu actividad en red y no nos asociamos con terceros que quieran crear un perfil de lo que hacés en línea. En un mundo donde la imprevisibilidad se ha convertido en la “nueva normalidad“, sabemos que es más importante que nunca para vos sentirse seguro y saber que lo que haces en línea es asunto tuyo.
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }"> { -brand-name-mozilla-vpn } </a> es un servicio en el que podés confiar para mantener tu conexión a Internet segura en todos tus dispositivos. No guardamos los registros de actividad de tu red y no nos asociamos con terceros que crean perfiles de lo que hacés en línea. En un mundo donde la imprevisibilidad se convirtió en la nueva normalidad…
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> es un servicio en el que podés confiar para mantener tu conexión a Internet segura en todos tus dispositivos. No guardamos registros de datos del usuario y no nos asociamos con plataformas de análisis de terceros que quieran crear un perfil de lo que hacés en línea. En un mundo donde la imprevisibilidad se ha convertido en la “nueva normalidad“, sabemos que es más importante que nunca para vos sentirse seguro y saber que lo que haces en línea es asunto tuyo.

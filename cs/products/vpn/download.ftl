@@ -13,8 +13,6 @@ vpn-download-sub-heading = S jedním předplatným si můžete stáhnout aplikac
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } nabízí bezpečí a ochranu pro všechny hlavní operační systémy.
 vpn-download-not-available-in-country = Je nám líto, ale aplikace { -brand-name-mozilla-vpn } není ve vaší zemi k dispozici ke stažení.
 vpn-download-button-copy = Stáhnout
-# Obsolete string
-vpn-download-for-windows = VPN pro { -brand-name-windows(case: "acc") } 10/11
 vpn-download-for-windows-v2 = VPN pro { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (pouze 64bitová verze)
 vpn-download-for-windows-long = Stáhnout { -brand-name-mozilla-vpn } pro { -brand-name-windows }
@@ -32,8 +30,6 @@ vpn-download-for-android = VPN pro { -brand-name-android }
 vpn-download-for-android-long = Stáhnout { -brand-name-mozilla-vpn } pro { -brand-name-android }
 vpn-download-for-ios = VPN pro { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Stáhnout { -brand-name-mozilla-vpn } pro { -brand-name-ios }
-# Obsolete string
-vpn-download-for-ios-long = Stáhnout VPN { -brand-name-mozilla-vpn } pro { -brand-name-ios }
 vpn-download-get-on-google-play = Získat v obchodu { -brand-name-google-play }
 vpn-download-get-on-app-store = Získat v { -brand-name-app-store(case: "loc") }
 vpn-download-based-on-your = Na základě vašeho aktuálního zařízení

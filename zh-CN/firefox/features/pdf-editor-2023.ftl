@@ -7,8 +7,6 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = PDF 编辑器
-# Obsolete string (expires: 2024-06-17)
-pdf-editor-add-text-to-pdfs = 使用 { -brand-name-firefox } PDF 编辑器向 PDF 文档添加文本
 # page title
 pdf-editor-add-text-to-pdfs-v2 = 使用 { -brand-name-firefox } PDF 编辑器免费编辑 PDF 文档
 # HTML page description

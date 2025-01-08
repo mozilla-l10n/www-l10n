@@ -17,7 +17,7 @@ new-platform-advanced-install-options = სხვა ვერსიები �
 new-platform-download-in-another = ჩამოტვირთვები სხვა ენებზე
 new-platform-need-help = გესაჭიროებათ დახმარება?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = ჩამოტვირთეთ { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux }-ზე
 # /firefox/linux/ HTML page description

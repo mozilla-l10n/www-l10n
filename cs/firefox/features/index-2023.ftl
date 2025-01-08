@@ -11,10 +11,6 @@ features-index-firefox-browser-features = { -brand-name-firefox } a jeho funkce
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } je rychlý, na systémové zdroje nenáročný prohlížeč se zaměřením na ochranu soukromí, který funguje na všech vašich zařízeních.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } je stále rychlejší
 features-index-the-latest-browser-speed-benchmarks = Nejnovější výsledky měření rychlosti dokazují, že { -brand-name-firefox } je rychlejší než kdy předtím.
-# Obsolete string
-features-index-is-firefox-a-fast-browser = Je { -brand-name-firefox } rychlým prohlížečem?
-# Obsolete string
-features-index-firefox-uses-less-memory-than = { -brand-name-firefox } využívá méně paměti než Chrome, takže ostatní programy mohou běžet maximální rychlostí.
 features-index-is-firefox-a-private-browser = Je { -brand-name-firefox } důvěryhodný prohlížeč?
 features-index-were-focused-on-your-right-to = Zaměřujeme se na vaše právo na soukromí. Vaše data, vaše webové aktivity a váš život online jsou  pomocí { -brand-name-firefox(case: "gen") } chráněny.
 features-index-free-password-manager = Bezplatný správce hesel
@@ -42,7 +38,5 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } automatick
 features-index-ditch-the-sticky-ads = Zbavte se vlezlých reklam, které vás neustále pronásledují, díky blokování vytváření otisku prohlížeče zabudovaného v prohlížeči { -brand-name-firefox }.
 features-index-translate-the-web = Překládání webových stránek
 features-index-translate-websites-to-your = Překládejte webové stránky do svého jazyka přímo v prohlížeči { -brand-name-firefox } – bez sdílení dat s někým dalším.
-# Obsolete string
-features-index-translate-more-than = Překládejte z více než 100 jazyků do svého jazyka přímo v prohlížeči { -brand-name-firefox } - snadněji než kdykoli předtím.
 features-index-picture-in-picture = Obraz v obraze
 features-index-got-things-to-do = Chcete pracovat a zároveň sledovat videa? S { -brand-name-firefox(case: "ins") } a jeho režimem obraz v obraze můžete obojí.

@@ -9,3 +9,6 @@ vpn-pricing-annual = Bloaziek
 vpn-pricing-monthly = Miziek
 vpn-pricing-get-annual-subscription = Tapout ar c’houmanant bloaziek
 vpn-pricing-get-monthly-subscription = Tapout ar c’houmanant miziek
+
+## Mobile only subscription copy
+

@@ -5,27 +5,18 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = የአሰራር ስርዓቱ የሚፈልገውን ያረጋግጡ
-firefox-all-release-notes = የተለቀቀ ማስታወሻ
-firefox-all-source-code = የደንብ ምንጭ
-firefox-all-need-help = እርዳታ ይፈልጋሉ?
-firefox-all-which-browser-would = የትኛውን ድረ-ገፅ ማሰሻ ለመጫን ይፈልጋሉ?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = እርዳታ ያግኙ
-firefox-all-you-are-about-to-download = አሁን ለመጫን ተቃርበዋል:
-firefox-all-browser = ድረ-ገፅ ማሰሻ:
-firefox-all-platform = የአወቃቀር ስርአት:
-firefox-all-language = ቋንቋ:
 firefox-all-lang-multi = በርካታ ቋንቋዎች
 firefox-all-sorry-we-couldnt-find = ይቅርታ፥ ለመጫን የሚፈልጉትን ነገር ማግኘት አልቻልንም። እባክዎ እንደገና ይሞክሩ ወይም የሚጭኑትን ከሚከተሉት ዝርዝሮች ይምረጡ።
 firefox-all-the-pre-alpha-version = የቅድመ-አልፋ ስሪት ሰርጎ-ገቦችን አድኖ መያዝ ለሚፈልጉ በልዩ ሁኔታ የተቀረፀ ነው - ይሞክሩት።
 firefox-all-64-bit-installers = ባለ 64-ቢት ማቀናጃዎች
 firefox-all-choose-a-64-bit-installer = ባለ 64-ቢት ማቀናጃን ለባለ 64-ቢት መከወኛ ይምረጡ፣ ይኼም እያንዳንዱ ኘሮግራም ተጨማሪ RAM መጠቀም እንዲችል ይረዳል - በተለይ ለጨዋታ እና ይኼን ለሚፈልጉ መተግበሪያዎች ይጠቅማል።
 firefox-all-32-bit-installers = ባለ 32-ቢት ማቀናጃዎች
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = { -brand-name-firefox-browser }ን በእንግሊዝኛ (ዩኤስ) እና ከ 90 በላይ ሌሎች ቋንቋዎች አውርድ
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = ሁሉም ሰው የኢንተርኔት አገልግሎት ማግኘት ይገባዋል - ቋንቋ መሰናክል ሊሆን አይገባውም። ለዛ ነው - በአለም ዙሪያ ባሉ በጎ ፈቃደኛ ሰዎች እርዳታ  { -brand-name-firefox-browser }ን በ90 የተለያዩ ቋንቋዎች ያቀረብነው።
+firefox-all-check-the-system-requirements = የአሰራር ስርዓቱ የሚፈልገውን ያረጋግጡ
+firefox-all-release-notes = የተለቀቀ ማስታወሻ
+firefox-all-source-code = የደንብ ምንጭ
+firefox-all-need-help = እርዳታ ይፈልጋሉ?
 firefox-all-choose-which-firefox = በራስዋ ቋንቋ የፈለጉትን አይነት { -brand-name-firefox-browser } ለመጫን ይምረጡ
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } የግላዊነት ማስታወቂያ
 firefox-all-learn-about-firefox = ስለ  { -brand-name-firefox } የድር አሳሾች ይወቁ
@@ -35,7 +26,6 @@ firefox-all-test-your-sites-against = ድህረ-ገጾችዎን በቅርቡ በ
 firefox-all-count-on-stability-and = ለድርጅት ታስቦ በተሰራው በዚህ { -brand-name-firefox } አሳሽ ጥንካሬ እና የአጠቃቀም ቀላልነት ላይ ይተማመኑ።
 firefox-all-windows-installers-for = የ{ -brand-name-firefox-browser }ን ውቅር፣ ማሰማራት እና ማስተዳደርን የሚያቃልል ዊንዶውስ ጫኚዎች ለድርጅቶች IT።
 firefox-all-arm64-installers = ARM64/AArch64 ጫኚዎች
-firefox-all-arm64-installers-optimized = ARM64/AArch64 ጫኚዎች በSnapdraptop ለሚሰሩ { -brand-name-windows } PCs የተመቻቹ።
 firefox-all-product-send-link = የማውረጃ አገናኝ ወደ ስልክዎ ይላኩ።
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os

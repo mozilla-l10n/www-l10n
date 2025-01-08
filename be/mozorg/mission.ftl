@@ -10,16 +10,10 @@ mission-our-mission-is-to-ensure-the-internet = Наша місія склада
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Нашая місія – прасоўваць адкрытасць, навацыі і новыя магчымасці ў сеціве.
 mission-at-mozilla-were-a-global-community-v2 = Мы { -brand-name-mozilla }, мы сусветнае згуртаванне інжынераў, мысляроў і будаўнікоў, якія працуюць разам для захавання жывога і даступнага Інтэрнэту, каб людзі ва ўсім свеце маглі быць дасведчанымі ўкладчыкамі і стваральнікамі сеціва.
-# Outdated string
-mission-at-mozilla-were-a-global-community = Мы Mozilla, мы сусветнае згуртаванне інжынераў, мысляроў і будаўнікоў, якія працуюць разам для захавання жывога і даступнага Інтэрнэту, каб людзі ў сусвеце маглі быць дасведчанымі ўкладчыкамі і стваральнікамі сеціва.
 mission-we-believe-this-act-of-human-collaboration = Мы верым, што людское супрацоўніцтва над адкрытымі платформамі важна для асабістага росту і сумеснага будучага.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn-v2 = Прачытайце <a href="{ $url }">Маніфест { -brand-name-mozilla }</a>, каб даведацца больш пра нашы каштоўнасці і прынцыпы, імкненні нашай місіі.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/about/manifesto/
-mission-read-the-mozilla-manifesto-to-learn = Прачытайце <a href="{ $url }">Маніфест Mozilla</a>, каб даведацца больш пра нашы каштоўнасці і прынцыпы, імкненні нашай місіі.
 mission-watch-the-video-above-to-learn-more = Прагледзіце відэа, размешчанае вышэй, каб даведацца, хто мы, адкуль мы прыйшлі і як мы працуем над паляпшэннем сецівам для вас.
 mission-get-involved = Уцягвайцеся
 mission-volunteer-opportunities-in-a-number = Магчымасці, адкрытыя для добраахвотнікаў у розных абласцях
@@ -29,5 +23,3 @@ mission-forums = Форумы
 mission-topics-include-support-products = Тэмы, уключаючы падтрымку, прадукты і тэхналогіі
 mission-governance = Кіраўніцтва
 mission-our-structure-organization-and-the-v2 = Наша будова, установа і сусветнае згуртаванне { -brand-name-mozilla }
-# Outdated string
-mission-our-structure-organization-and-the = Наша будова, установа і сусветнае згуртаванне Mozilla

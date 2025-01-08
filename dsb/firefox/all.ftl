@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Ześěgniśo wobglědowak { -brand-name-firefox } w dolnoserbšćinje a wěcej ako 90 drugich rěcach
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = Ześěgniśo { -brand-name-firefox-browser } w dolnoserbšćinje a wěcej ako 90 drugich rěcach
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Kuždy se pśistup na internet zasłužy - waša rěc njeměła nigda zajźowu byś. Togodla stajamy z pomocu angažěrowanych dobrowólnikow z cełego swěta wobglědowak { -brand-name-firefox } we wěcej ako 90 rěcach k dispoziciji.
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = Kuždy se pśistup na internet zasłužy - waša rěc njeměła nigda zajźowu byś. Togodla stajamy z pomocu angažěrowanych dobrowólnikow z cełego swěta { -brand-name-firefox-browser } we wěcej ako 90 rěcach k dispoziciji.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = Scannujśo QR-kod, aby <em>{ $product_name }</em> dostał
@@ -26,14 +22,8 @@ firefox-all-change-language = Wubjeŕśo drugu rěc
 firefox-all-down-arrow = Wubjeŕśo ze slědujuceje lisćiny
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Pomoc se wobstaraś
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = Wobglědowak:
 firefox-all-browser-v2 = 1. Wobglědowak:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = Platforma:
 firefox-all-platform-v2 = 2. Platforma:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = Rěc:
 firefox-all-language-v2 = 3. Rěc:
 firefox-all-download = 4. Ześěgnjenje:
 firefox-all-desktop = Desktop

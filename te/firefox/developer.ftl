@@ -9,7 +9,6 @@
 ## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = మీ క్రొత్త ఇష్టమైన విహారిణికి స్వాగతం. ఓపెన్ వెబ్ కోసం నిర్మించాల్సిన తాజా లక్షణాలు, వేగవంతమైన పనితీరు మరియు అభివృద్ధి సాధనాలను పొందండి.
 firefox-developer-speak-up = మాట్లాడు
 firefox-developer-join-the-convo = సంభాషణలో చేరండి
@@ -46,15 +45,9 @@ firefox-developer-learn-more-about-style = శైలి ఎడిటర్ �
 firefox-developer-new-tools = క్రొత్త పనిముట్ట్ళూ
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-master-css-grid = మాస్టర్ CSS గ్రిడ్
-# outdated
-firefox-developer-next-gen-css-engine = భవిష్యత్తు-తరం CSS ఇంజిన్
-firefox-developer-a-next-generation = తదుపరి తరం CSS ఇంజిన్
 firefox-developer-master-innovative-features = ఇన్నోవేటివ్ ఫీచర్లు
 firefox-developer-convenient-features = అనుకూలమైన ఫీచర్లు
-firefox-developer-faster-performance = వేగవంత మైన పనితీరు
 firefox-developer-faster-innovation = వేగవంతమైన సమాచారం
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } స్వయంచాలకంగా { -brand-name-mozilla } చూడు పంపుతుంది.
 firefox-developer-download-the-firefox-browser = డెవలపర్ల కోసం చేసిన { -brand-name-firefox } విహారిణిని దింపుకోండి
-firefox-developer-welcome-to-the-all-new = సరి కొత్త { -brand-name-firefox-quantum }కు స్వాగతం: { -brand-name-developer-edition }
-firefox-developer-congrats-you-now-have-firefox = అభినందనలు. ఇప్పుడు మీరు { -brand-name-firefox-quantum }: { -brand-name-developer-edition } కలిగి ఉన్నారు.
 firefox-developer-made-for-developers = డెవలపర్‌ల కోసం రూపొందించిన బ్రౌజర్

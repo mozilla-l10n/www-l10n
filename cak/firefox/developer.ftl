@@ -1,16 +1,15 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = Ri { -brand-name-firefox-developer-edition } ja ri aninäq okik'amaya'l ri nusüj k'iyilal taq rusamajib'al k'iyirisanem cuqa' ri ruk'isib'äl taq b'anikil achi'el ri CSS Grid tob'äl chuqa' ruchojmirisaxik framework
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Ütz apetik pa ri jeb'ël okik'amaya'l. Ke'awila' ri ruk'isib'äl taq rub'anikil, aninäq rub'eyal nisamäj chuqa' ri taq rusamajib'al b'ononem yek'atzin chawe richin nanük' ri jaqäl ajk'amaya'l.
 firefox-developer-speak-up = Köw kach'o
 firefox-developer-feedback-makes-us = Yojrutzilaj ri chajin tz'uquj. Tab'ij chi qe achike rub'eyal yojtikïr niqab'än ütz chi re ri okik'amaya'l chuqa' ri taq Kisamajib'al B'anonela'.
@@ -57,15 +56,11 @@ firefox-developer-firefox-devtools-now-grays-out = Wakami ri { -brand-name-firef
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Ri k'ak'a' { -brand-name-firefox-devtools } yalan kuchuq'a', jalel chuqa' ri jeb'ël pa ronojel, rik'el. Ruk'wan jeb'ël JavaScript chojmirisanel, ri nuk'äm ri' pa jalajöj taq okik'amaya'l chuqa' nuk'un rik'in ri React chuqa' Redux.
 firefox-developer-master-css-grid = Ajtij CSS K'ïy Kajtz'ik
-firefox-developer-next-gen-css-engine = Ruk'isib'äl Alk'walaxnem chi CSS K'wab'äl
-firefox-developer-a-next-generation = Jun Chik Wi Chi Alk'walaxnem CSS K'wab'äl
 firefox-developer-master-innovative-features = Tzuk'un taq B'anikil
 firefox-developer-want-to-be-on-the-cutting-edge = ¿La nawajo' yak'oje' pa k'iyilal?
 firefox-developer-firefox-nightly-receives = Ri { -brand-name-firefox-nightly } nik'ex ronojel q'ij chuqa' nuya' q'ij chawe richin ye'awokisaj ri taq rub'anikil pa taq ik' chuwäch yetz'aqatisäx el.
-firefox-developer-firefox-quantum-includes = Ri { -brand-name-firefox-quantum } rutz'aqatisan jun k'ak'a' CSS k'wab'äl, tz'ib'an pa Rust, ri k'o k'iyiril taq rutzuk'uj chuqa' janila aninäq.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } xa xe ri' ri okik'amaya'l rik'in taq samajib'äl enuk'un richin ninuk' chuqa' niwachib'ëx rik'in CSS K'ïy kajtz'ik. Re taq samajib'äl re' nikiya' q'ij richin nitz'et ri k'ïy kajtz'ik, nuk'üt ri kib'i' k'ojlib'äl kiximon ki' ri taq kik'exoj nab'ey tzub'al pa ri k'ïy kajtz'ik chuqa' ch'aqa' chik.
 firefox-developer-convenient-features = Ruk'amon taq B'anikil
-firefox-developer-faster-performance = Aninäq Rub'eyal Nisamäj
 firefox-developer-shapes-editor = Nuk'unel taq B'anikil
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = Matyox chi re ri k'ak'a' nuk'unel rub'anikil { -brand-name-firefox-devtools }, man k'atzinel ta chik nilitäj rub'anikil nib'an kinuk'ulem jujun taq kib'anikil yesamajïx chi rij o nokisäx ri taq b'anikil clip-path, nuya' q'ij chawe richin ye'ab'än anin jeb'ël taq nuk'ulem rik'in jun tz'etel nuk'unel.
 firefox-developer-firefox-devtools-has-a-brand-new = Matyox chi re ri k'ak'a' nuk'unel rub'anikil { -brand-name-firefox-devtools }, man k'atzinel ta chik nilitäj rub'anikil nib'an kinuk'ulem jujun taq kib'anikil yesamajïx taq muj chi rij o nokisäx ri taq b'anikil clip-path, nuya' q'ij chawe richin ye'ab'än anin jeb'ël taq nuk'ulem rik'in jun tz'etel nuk'unel.
@@ -74,11 +69,5 @@ firefox-developer-fonts-panel = Kipas Tz'ib'
 firefox-developer-the-new-fonts-panel = Ri k'ak'a' kipas tz'ib' pa { -brand-name-firefox-devtools } nuya' jun anin chojokem pa ri etamab'äl nawajo' chi kij ri taq tz'ib' ye'okisäx pa jun ch'akulal. Chuqa' nuya' etamab'äl yalan ruq'ij achi'el ri rutz'ib' tz'ib'anïk, ralal, rub'anikil chuqa' ch'aqa' chik.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } pa ruyonil nutäq taq rutzijol chi re { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Tiqasäx ri { -brand-name-firefox } okik'amaya'l kichin b'anonela'
-firefox-developer-welcome-to-the-all-new = Ütz apetik pa ronojel ri k'ak'a' { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = Xnuk' chik ri { -brand-name-firefox } pa rutikirib'al richin chi aninäq, yalan jeb'ël chuqa' janila ruchuq'a'.
-firefox-developer-congrats-you-now-have-firefox = Kakikot. Wakami k'o chik awik'in ri { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Re re' man choj ta jun k'exoj. Re re' ja ri { -brand-name-firefox-quantum }: Jun k'ak'a' ruwäch chi { -brand-name-firefox }, ri xnuk' chik pa rutikirib'al richin chi aninäq, yalan jeb'ël chuqa' janila ruchuq'a'.
-firefox-developer-welcome-to-firefox-browser = Ütz apetik pa { -brand-name-firefox-browser }{ -brand-name-developer-edition }
 firefox-developer-made-for-developers = Ri okik'amaya'l b'anon kichin b'anonela'
-firefox-developer-all-the-latest = Ronojel ri taq rusamajib'al rub'anel beta, <strong>tojtob'enel taq samaj</strong>achi'el ri runuk'unel rumolaj k'ïy k'amab'ey chuqa' ri runik'onelWebSocket.
-firefox-developer-congrats-you-now-have = Kakikot. Wakami k'o chik awik'in ri { -brand-name-firefox-browser } { -brand-name-developer-edition }.

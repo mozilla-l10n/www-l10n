@@ -7,12 +7,7 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = Webbläsaren { -brand-name-firefox } för { -brand-name-ios } är snabb, säker och privat från första gången du använder den.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-mobile-ios-get-automatic-privacy = Få automatisk integritet på din { -brand-name-iphone } och { -brand-name-ipad }
 mobile-ios-get-firefox-for = Hämta { -brand-name-firefox } för { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Skicka en nedladdningslänk till din telefon.
 mobile-ios-scan-the-qr-code-to-get-started = Skanna QR-koden för att komma igång
@@ -31,14 +26,8 @@ mobile-ios-get-to-your-go-to = Gå till dina favoritställen snabbare på din { 
 mobile-ios-see-your-open-tabs = Se dina öppna flikar, tidigare sökningar och favoritwebbplatser på ett och samma ställe med { -brand-name-firefox-browser } för { -brand-name-ios }.
 mobile-ios-own-your-home = Äg din startsida
 mobile-ios-get-to-the-parts = Ta dig snabbare till de delar av internet du bryr dig om. Välj att se alla dina öppna flikar, senaste sökningar, bokmärken och favoritsajter på ett och samma ställe.
-# Obsolete string
-mobile-ios-add-firefox-across = Lägg till { -brand-name-firefox } på dina enheter för säker, smidig surfning. { -brand-name-sync } dina enheter för att ta med dina favoritbokmärken, sparade inloggningar, lösenord och webbhistorik vart du än går. Skicka dessutom öppna flikar mellan din telefon och dator för att fortsätta där du slutade.
 mobile-ios-find-it-all = Hitta allt snabbare
 mobile-ios-get-search-suggestions = Få sökförslag i sökfältet och få snabbt tillgång till de webbplatser du besöker mest. Skriv in din sökfråga och få föreslagna och tidigare sökresultat för dina favoritsökmotorer.
-# Obsolete string
-mobile-ios-keep-tabs-on = Håll koll på alla dessa flikar
-# Obsolete string
-mobile-ios-create-as-many = Skapa så många flikar du vill utan att tappa spåret. { -brand-name-firefox } visar dina öppna flikar som miniatyrbilder och numrerade flikar, vilket gör det enkelt att snabbt hitta det du söker.
 mobile-ios-discover-more-of = Upptäck mer av det du gillar
 mobile-ios-open-a-new = Öppna en ny flik i { -brand-name-firefox } för att se de webbplatser du besöker mest, dina senaste bokmärken och populära artiklar i { -brand-name-pocket }. { -brand-name-firefox } ger dig snabb åtkomst till dina senast använda webbplatser för att hjälpa dig dit snabbare.
 mobile-ios-about-mozilla = Om { -brand-name-mozilla }

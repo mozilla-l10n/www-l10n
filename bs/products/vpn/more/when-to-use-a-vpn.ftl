@@ -32,7 +32,7 @@ vpn-when-to-use-for-the-most = Većinom se gore navedeni scenariji ne odnose na 
 vpn-when-to-use-because-your-internet = Budući da se vaš internet promet kod kuće kreće na i sa vaših uređaja preko vašeg provajdera internetskih usluga — skraćeno ISP — oni mogu vidjeti gdje idete na mreži. ISP može vidjeti koje stranice posjećujete, koliko dugo ste na njima, vašu lokaciju i informacije o vašim uređajima. ISP možda ne zna specifičnosti onoga što ste radili na tim stranicama (poput onoga što ste kupili, tražili ili pročitali) zahvaljujući enkripciji, ali bi mogao napraviti zaključke o vama na osnovu lokacija koje ste posjetili. ISP-ovi mogu koristiti te lične podatke za kreiranje detaljnih profila o vama. Pretraživanje u privatnom načinu ne sprječava ISP-ove da vide gdje idete na mreži. Ali slanje vašeg web prometa putem VPN-a može to učiniti mnogo težim.
 vpn-when-to-use-make-sure-you = Budite sigurni da razumijete šta VPN ne radi
 # Variables
-#   $book (url) - https://www.mozilla.org/firefox/privacy/book/
+#   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
 vpn-when-to-use-a-vpn-provides = VPN pruža važnu sigurnosnu vezu tako što štiti vaše privatne podatke prije nego što putuju internetom, a također skriva vašu IP adresu, pomažući u zaštiti vašeg identiteta i lokacije. Međutim, to vas neće spriječiti u stvarima poput klikanja na sumnjive veze, preuzimanja zlonamjernog softvera ili žrtvi prijevare putem e-maila. I dalje trebate prakticirati <a href="{ $book }">dobre navike da ostanete sigurni na mreži</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, pouzdana VPN usluga
 # Variables

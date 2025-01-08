@@ -54,19 +54,10 @@ vpn-download-faq-working = 我要如何知道 VPN 有正常運作？
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.mozilla.org/
 vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } 會在工具列與應用程式主畫面當中以顯示目前狀態，讓您很簡單就能知道線上行為是否受到保護。這些標示讓您可以確認目前的上網連線是否安全。另外在連線時，您可以到 <a href="{ $monitor }">https://monitor.mozilla.org/</a> 確認 IP 地址是否被隱藏。若需更多資訊，請參考<a href="{ $connected }">我要如何知道 { -brand-name-mozilla-vpn } 是否已連線？</a>。
-# Obsolete string
-# Variables:
-#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
-#   $monitor (url) link to https://monitor.firefox.com/
-vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } 會在工具列與應用程式主畫面當中以顯示目前狀態，讓您很簡單就能知道線上行為是否受到保護。這些標示讓您可以確認目前的上網連線是否安全。另外在連線時，您可以到 <a href="{ $monitor }">https://monitor.firefox.com/</a> 確認 IP 地址是否被隱藏。若需更多資訊，請參考<a href="{ $connected }">我要如何知道 { -brand-name-mozilla-vpn } 是否已連線？</a>。
 vpn-download-faq-add-device = 我要如何加入另一台裝置？
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v3 = 新增裝置很簡單，只要下載安裝 { -brand-name-mozilla-vpn } 軟體，然後登入現有的 { -brand-name-mozilla-account }。若需更多資訊，請參考<a href="{ $subscription }">如何將裝置加入您的 { -brand-name-mozilla-vpn } 訂閱</a>。
-# Obsolete string
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v2 = 新增裝置很簡單，只要下載安裝 { -brand-name-mozilla-vpn } 軟體，然後登入現有的 { -brand-name-firefox-account }。若需更多資訊，請參考<a href="{ $subscription }">如何將裝置加入您的 { -brand-name-mozilla-vpn } 訂閱</a>。
 vpn-download-faq-best-practices = 有哪些 VPN 的最佳做法？
 vpn-download-faq-traffic = 若您的目標是要保護網路流量，同時又能保持較快的上網速度，那麼最好的方式就是選擇與您實際所在地點越近越好的伺服器。如此可以讓流量減少經過的節點就抵達目的地，以增加連線的穩定度與速度。
 vpn-download-faq-experience = 若您的目標是要有能在世界其他地點的上網體驗，可以在此選擇不同伺服器位置，這樣當您開啟網站時，就會如同以身處該處的方式顯示網站內容。

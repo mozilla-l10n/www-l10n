@@ -11,8 +11,6 @@ firefox-products-mozilla-products = Produkty od { -brand-name-mozilla(case: "gen
 firefox-products-mozillas-family-of-products = Všechny produkty z rodiny { -brand-name-mozilla } jsou navrženy tak, aby vás na internetu chránily a hýčkaly
 firefox-products-products = Produkty
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } je jen začátek.
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } je jen začátek
 firefox-products-mozillas-family-of-products-sentence = Všechny produkty { -brand-name-mozilla(case: "gen") } jsou navrženy tak, aby vás na internetu chránily a hýčkaly.
 
 ## Firefox
@@ -67,6 +65,4 @@ firefox-products-analyze = Analyzovat adresu URL
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content-v2 = Objevte nejlepší obsah na webu a konzumujte ho kdekoli a kdykoli chcete. Od { -brand-name-mozilla(case: "gen") }.
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = Objevujte nejlepší obsah dostupný na webu a přečtěte si ho kdekoliv a kdykoliv chcete.
 firefox-products-get-pocket = Získejte { -brand-name-pocket(case: "acc") }

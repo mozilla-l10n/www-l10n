@@ -3,52 +3,43 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/products/
+### URL: https://www-dev.allizom.org/products/
 
-# HTML page title
-firefox-products-firefox-is-more-than-a-browser = { -brand-name-firefox } — гэта больш, чым браўзер
-# HTML page description
-firefox-products-its-a-whole-family-of-products = Гэта цэлае сямейства прадуктаў, скіраваных на тое, каб зрабіць вас бяспечней і разумней у Інтэрнэце.
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-products-firefox-is-more-than-a-browser-emphasis = { -brand-name-firefox } — гэта <strong>больш</strong>, ніж браўзер
-firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
+
+## Firefox
+
+
+## Focus
+
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Ваш браўзер, засяроджаны на прыватнасці, з аўтаматычнай аховай ад сачэння і блакіроўкай рэкламы.
+
+## Monitor
+
 firefox-products-see-if-your-personal-information = Паглядзіце, ці стала ваша асабістая інфармацыя часткай карпаратыўнай уцечкі дадзеных, і падпішыцеся на будучыя абвесткі.
 firefox-products-check-for-breaches = Праверыць на ўцечкі
-firefox-products-sign-up-for-breach-alerts = Падпісацца на абвесткі аб уцечках
-firefox-products-firefox-browsers = Браўзеры { -brand-name-firefox }
-firefox-products-get-the-browsers-that-block = Атрымайце браўзеры, якія аўтаматычна блакуюць больш за 2000 трэкераў дадзеных. Узмоцненая абарона ад сачэння ёсць стандартам у кожным браўзеры { -brand-name-firefox }.
-firefox-products-desktop = Для камп'ютара
-firefox-products-android = { -brand-name-android }
-firefox-products-ios = { -brand-name-ios }
-firefox-products-see-all-browsers = Паглядзець усе браўзеры
+
+## Relay
+
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Абараніце свой сапраўдны адрас электроннай пошты, каб лепей кантраляваць паштовую скрыню.
+
+## VPN
+
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Аглядайце, транслюйце і працуйце, выкарыстоўваючы серверы ў больш чым 30 краінах для бяспечнага інтэрнэт-злучэння з новай перспектывай.
 firefox-products-get-mozilla-vpn = Атрымаць { -brand-name-mozilla-vpn }
-firefox-products-relay = { -brand-name-firefox-relay }
-firefox-products-protect-your-real = Абараніце свой сапраўдны адрас электроннай пошты, каб лепей кантраляваць паштовую скрыню.
-firefox-products-learn-more-about-relay = Даведацца больш пра { -brand-name-firefox-relay }
-# Obsolete string
-firefox-products-firefox-lockwise = { -brand-name-firefox-lockwise }
-# Obsolete string
-firefox-products-keep-your-passwords-safe-and = Захоўвайце свае паролі і атрымлівайце доступ да іх на ўсіх сінхранізаваных прыладах.
-# Obsolete string
-firefox-products-download-lockwise = Сцягнуць { -brand-name-lockwise }
-# Obsolete string
-firefox-products-open-in-firefox = Адкрыць у { -brand-name-firefox }
-# Obsolete string
-firefox-products-learn-more-about-lockwise = Даведацца больш пра { -brand-name-lockwise }
-# Obsolete string
-firefox-products-firefox-send = { -brand-name-firefox-send }
-firefox-products-send-your-large-files-and = Бяспечна перасылайце вялікія файлы і прыватныя дакументы, памерам да 2,5 ГБ.
-firefox-products-send-a-file = Адправіць файл
+
+## MDN Plus
+
+
+## Thunderbird
+
+
+## Fakespot
+
+
+## Pocket
+
 firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content = Адкрыйце для сябе лепшае змесціва ў сеціве — і вяртайцеся да яго дзе хочаце, калі хочаце.
 firefox-products-get-pocket = Атрымаць { -brand-name-pocket }
-firefox-products-learn-more-about-pocket = Даведацца больш пра { -brand-name-pocket }
-firefox-products-join-firefox-and-get-the-most = Далучайцеся да { -brand-name-firefox } і атрымлівайце максімальную аддачу ад кожнага прадукту — на кожнай прыладзе.
-# Variables:
-#   $fxa_attr (string) - anchor link url and attributes
-#   $accounts_attr (string) - anchor link url and attributes
-firefox-products-already-have-an-account-sign = Ужо маеце ўліковы запіс? <a { $fxa_attr }>Увайдзіце</a> або <a { $accounts_attr }>даведайцеся больш</a> пра далучэнне да { -brand-name-firefox }.
-firefox-products-firefox-focus = { -brand-name-firefox-focus }
-firefox-products-your-dedicated-privacy = Ваш браўзер, засяроджаны на прыватнасці, з аўтаматычнай аховай ад сачэння і блакіроўкай рэкламы.

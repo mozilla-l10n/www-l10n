@@ -6,18 +6,12 @@
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
 whatsnew-page-title-v2 = Novinky vo { -brand-name-firefox(case: "loc") }
-# Obsolete string
-whatsnew-page-title = Novinky vo { -brand-name-firefox(case: "loc") } - viac súkromia, viac ochrany.
 whatsnew-page-description = Postavte sa proti spoločnostiam, ktoré predávajú vaše údaje tretím stranám. Používajte technológiu, ktorá za vás bojuje.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = Váš prehliadač { -brand-name-firefox } bol aktualizovaný.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes-v2 = Prečítajte si <a { $url }>poznámky k vydaniu</a>, kde nájdete ďalšie informácie o novinkách vo { -brand-name-firefox(case: "loc") }.
-# Obsolete string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/notes/
-whatsnew-release-notes = Prečítajte si <a href="{ $url }">poznámky k vydaniu</a> a získajte viac informácií o novinkách vo { -brand-name-firefox(case: "loc") }.
 whatsnew-signoff = <strong>Od { -brand-name-mozilla(case: "gen") }</strong>. Uprednostňuje ľudí pred ziskom už od roku 1998.
 whatsnew-donate-to-mofo = Prispejte { -brand-name-mozilla-foundation }
 whatsnew-thanks-for-choosing = Ďakujeme, že ste si vybrali { -brand-name-firefox }

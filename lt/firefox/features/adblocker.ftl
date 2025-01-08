@@ -16,22 +16,12 @@ features-adblocker-an-ad-blocker-is-a-piece = Reklamų blokuoklė – tai progra
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Kalbėdami apie reklamas, turime omenyje triukšmingus vaizdo įrašus, jūsų keliones internete sekančias reklamas, seklius, trečiųjų šalių slapukus ir kitką. Norėdami naudotis reklamų blokuokle, paieškokite savo naudojamai naršyklei sukurtų reklamos blokavimui skirtų priedų. Pavydžiui, <a href="{ $firefox }">„{ -brand-name-firefox }“</a> naršyklei skirtų <a href="{ $addons }">reklamų blokuoklių sąrašą rasite čia</a>. Peržiūrėkite šį (arba jūsų naršyklei skirtą) reklamų blokuoklių sąrašą ir išsirinkite sau tinkamiausią.
 features-adblocker-find-the-right-ad-blocker = Raskite sau tinkamiausią reklamų blokuoklę
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = Viena blokuoklių – <a href="{ $url }">„AdBlocker Ultimate“</a>. Ji blokuoja visas įmanomas reklamas, tačiau būkite atsargūs: tikėtina, jog jūsų mėgstamiems portalams reklama yra svarbus pajamų šaltinis. Per dideliam lankytojų kiekiui jas užblokavus, kai kurie portalai gali tiesiog neišsilaikyti.
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Bene labiausiai erzinančios reklamos – tai iškylantieji langai. Jų galite kartą ir visiems laikams nusikratyti <a href="{ $url }">iškylančiųjų langų blokuoklių</a> pagalba.
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Viena populiariausių reklamų blokuoklių „{ -brand-name-chrome }“, „{ -brand-name-safari }“ ir „{ -brand-name-firefox }“ naršyklėms yra <a href="{ $url }">„AdBlock“</a>. Jos padedami, galite atsikratyti reklamų „{ -brand-name-facebook }“, „{ -brand-name-youtube }“ ir „{ -brand-name-hulu }“ svetainėse.
 features-adblocker-create-a-tracker-free = Išvenkite nepageidautino stebėjimo, pasinaudodami Turinio blokavimu
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = „{ -brand-name-firefox }“ naršyklėje galite pasinaudoti <a href="{ $privacy }">Privatumo</a> arba <a href="{ $blocking }">Turinio blokavimo</a> nuostatomis ir patys pagal savo poreikius suderinti naršyklės toleranciją reklamoms ir sekliams.
 features-adblocker-choose-your-level-of-protection = Pasirinkite norimą apsaugos lygį
-features-adblocker-to-start-click-on-the = Pradėkite, spustelėdami „{ -brand-name-firefox }“ meniu mygtuką, esantį šios naršyklės lango viršutiniame dešiniajame kampe ir atrodantį kaip trys horizontalios juostelės, išdėstytos viena virš kitos. Išsiskleidusiame meniu spustelėkite punktą „Turinio blokavimas“. Šitaip atversite privatumo ir saugumo nuostatų langą.
 features-adblocker-go-easy-with-standard = Būkite atlaidūs: standartinis lygis
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -53,7 +43,3 @@ features-adblocker-send-a-do-not-track-signal = Praneškite, jog nenorite būti 
 features-adblocker-if-you-dont-want-your = Jeigu nenorite, kad jūsų naršymo istorija būtų naudojama reklamoms parinkti, galite svetaines mandagiai informuoti, jog to nepageidaujate, pažymėdami <a href="{ $url }">„Do Not Track“</a> { -brand-name-firefox } parinktį. Svetainės neprivalo į šį signalą atsižvelgti, tačiau tos, kurios atsižvelgia, nedelsiant nutrauks bet kokį jūsų stebėjimą.
 features-adblocker-speed-up-thanks-to-ad = Naršykite sparčiau reklamų blokuoklių pagalba
 features-adblocker-in-some-cases-an-ad-blocker = Kai kuriais atvejais reklamų blokuoklė gali padėti jūsų naršyklei veikti greičiau. Reklamų įkėlimas sulėtina svetainės veikimą. Be to, kol esate užsiėmę, uždarinėdami iššokančias reklamas, negalite susikoncentruoti į svetainės turinį, dėl kurio joje apsilankėte.
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more = Jeigu norite apie reklamų blokavimą sužinoti daugiau, „{ -brand-name-firefox }“ ir kitoms naršyklėms yra sukurta šimtai šio tipo priedų. O jei norite išbandyti reklamų blokuokles, naudojamas „{ -brand-name-firefox }“ naršyklėje, <a href="{ $url }">spustelėkite čia ir parsisiųskite</a> naršyklę, kuriai privatumas – svarbiausia.
-features-adblocker-take-control-of-your-browser = Susigrąžinkite naršyklės valdymą.

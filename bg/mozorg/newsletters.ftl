@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
@@ -11,18 +11,13 @@ newsletters-newsletter-subscriptions = Абонаменти
 newsletters-mozilla-newsletter = Бюлетин на { -brand-name-mozilla }
 # Headline for https://www-dev.allizom.org/newsletter/
 newsletters-read-all-about-it-in-our-newsletter = Прочетете повече за всичко това в нашия <span>бюлетин</span>
-# Outdated string
-newsletters-subscribe-to-updates-and-keep = Абонирайте се за новини и бъдете в крак с новите неща около { -brand-name-mozilla }. Това за нас е най-добрият начин да поддържаме връзка!
 # Page title the subscription confirmation page
 newsletters-newsletter-confirm = Потвърждение на абонамент
 newsletters-thanks-for-subscribing = Благодарим ви, че се абонирахте!
 newsletters-your-newsletter-subscription = Вашият абонамент е потвърден.
-newsletters-please-be-sure-to-add-our = Моля, не забравяйте да добавите mozilla@e.mozilla.org към вашата адресна книга, за да сте сигурни, че винаги ще получавате писмата от нас.
-newsletters-the-supplied-link-has-expired = Предоставената препратка вече не е валидна. Ще получите нова със следващия бюлетин.
 newsletters-something-is-amiss-with = Нещо не е наред при нас! Моля, опитайте по-късно.
 newsletters-youre-awesome = Вие сте страхотни!
 newsletters-and-were-not-just-saying = Не го казваме просто така, а защото ни се доверихте, чрез своята електронна поща.
-newsletters-please-be-sure-to-add-mozillaemozillaorg = Моля, не забравяйте да добавите mozilla@e.mozilla.org към вашата адресна книга, за да сте сигурни, че винаги ще получавате писмата от нас.
 newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } засяга широк кръг от важни теми.
 newsletters-open-your-inbox-and-your = Отворете папката с входяща поща (и сърцето) още повече и вижте другите теми, които засягаме.
 newsletters-manage-your-email-preferences = Настройки на абонамента
@@ -36,8 +31,10 @@ newsletters-your-email-address = Вашата електронна поща:
 newsletters-country = Държава:
 # Form field label
 newsletters-language = Език:
-# Form field label
-newsletters-format = Формат:
+
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
+
 # Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } не е валиден бюлетин
@@ -70,15 +67,8 @@ newsletters-were-glad-you-asked = Радваме се, че попитахте!
 newsletters-love-the-web-so-do-we = Обичате ли интернет? Ние също!
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
 newsletters-unlock-the-world-of-web = Опознайте света за разработка за уеб с нашия седмичен бюлетин на разработчиците на { -brand-name-mozilla }. Всяко издание ще ви донесе техники за програмиране, запознаване с добри практики, обновявания на { -brand-name-mdn }, информация за изгряващи технологии, съвети за развойни инструменти и още.
-# Obsolete string
-newsletters-join-thousands-of-developers = Присъединете се към хилядите разработчици като вас, които се учат на най-доброто от уеб програмирането.
-# Headline for https://www-dev.allizom.org/newsletter/firefox/
-newsletters-put-more-fox-in-your-inbox = Получавайте още новости от лиса
-# Subtitle for https://www-dev.allizom.org/newsletter/firefox/
-newsletters-see-where-the-web-can-take = Разберете на къде може да ви заведе Мрежата с месечни съвети, трикове и новини от { -brand-name-firefox }.
 newsletters-we-are-sorry-but-there = Извиняваме се, но има проблем със системата ни. Моля, опитайте отново!
 newsletters-thanks-for-updating-your = Благодарим ви, че актуализирахте своите настройки.
-newsletters-the-supplied-link-has-expired-long = Тази препратка е с изтекъл срок или е сгрешена. Ще получите нова в следващия бюлетин или по-долу може да поискате да ви бъде изпратена нова.
 newsletters-success-an-email-has-been-sent = Готово! До вас е изпратено писмо, съдържащо препратка към страницата с настройки. Благодарим ви!
 newsletters-this-is-not-a-valid-email = Това не е валиден адрес на ел. поща. Проверете правописа.
 newsletters-you-send-too-many-emails = Изпращате прекалено много съобщения.
@@ -88,15 +78,10 @@ newsletters-i-didnt-sign-up = Аз не съм се абонирал за так
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Този електронен адрес го няма в нашата система. Моля, отново го проверете или се <a href="{ $url }">абонирайте за нашите бюлетини.</a>
-newsletters-im-keeping-in-touch = Поддържам връзка с { -brand-name-mozilla } във { -brand-name-facebook } и { -brand-name-twitter }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Абонирайте се, четете,<br>бъдете информирани.
-# Obsolete string
-newsletters-sign-up-read-up-make-a-difference = Абонирайте се. Четете.<br>Направете промяна.
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
 newsletters-get-smart-on-the-issues = Бъдете информирани за проблемите на живота ви онлайн.
-# Obsolete string
-newsletters-get-the-mozilla-newsletter = Получавайте бюлетина на { -brand-name-mozilla }, за да бъдете информирани за проблемите пречещи на здравето на Мрежата и да откриете как да се включите и вие.
 # Name for the newsletter in Newsletter subscription page
 newsletters-about-standards = Относно стандартите
 # Name for the newsletter in Newsletter subscription page
@@ -125,8 +110,6 @@ newsletters-shapre-of-the-web = Състояние на Мрежата
 newsletters-news-and-information = Новини и информация свързани със здравето на Мрежата.
 # Name for the newsletter in Newsletter subscription page
 newsletters-student-reps = Студентски представители
-# Description for the newsletter in Newsletter subscription page (Student Reps)
-newsletters-former-university-program = Бившата университетска програма за периода 2008-2011, сега неактивна и рестартирана като програма Студентски посланици на Firefox.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-affiliates = Съдружници на { -brand-name-firefox }
 # Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
@@ -191,8 +174,6 @@ newsletters-firefox-for-android = { -brand-name-firefox } за { -brand-name-and
 newsletters-keep-up-with-releases = Новини и известия за версиите на { -brand-name-firefox } за { -brand-name-android }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-festival = { -brand-name-mozilla-festival }
-# Description for the newsletter in Newsletter subscription page (Mozilla Festival)
-newsletters-special-announcements-about-mozilla = Специални известия за годишния практически фестивал на { -brand-name-mozilla }, посветен на формирането на бъдещето на Мрежата.
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla = { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla)

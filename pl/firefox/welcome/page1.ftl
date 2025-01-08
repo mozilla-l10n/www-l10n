@@ -7,22 +7,14 @@
 
 # HTML page title
 welcome-page1-more-than-a-browser-mozilla = Więcej niż przeglądarka — { -brand-name-mozilla-monitor } to Twoja ochrona przed hakerami
-# Outdated string
-welcome-page1-more-than-a-browser-firefox = Więcej niż przeglądarka — { -brand-name-firefox-monitor } to Twoja ochrona przed hakerami
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Wykonaj następny krok, aby chronić swoją prywatność w Internecie dzięki rodzinie produktów { -brand-name-firefox }.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Wyprzedź hakerów. Sprawdź, czy Twoje dane stały się ofiarą wycieku za pomocą { -brand-name-mozilla-monitor }.
-# Obsolete string
-welcome-page1-stay-ahead-of-hackers-check = Wyprzedź hakerów. Sprawdź, czy Twoje dane stały się ofiarą wycieku za pomocą { -brand-name-firefox-monitor }.
 welcome-page1-youre-on-track-to-stay-protected = Jesteś na dobrej drodze, aby zachować ochronę
 welcome-page1-youve-got-the-web-browser = Masz przeglądarkę internetową, która chroni Twoją prywatność — teraz czas zdobyć ochronę przed hakerami.
 welcome-page1-check-your-breach-report = Sprawdź wycieki
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } pokazuje, czy Twoje dane były częścią znanego wycieku oraz ostrzega Cię, jeśli zdarzy się to w przyszłości.
-# Obsolete string
-welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } pokazuje, czy Twoje dane były częścią znanego wycieku oraz ostrzega Cię, jeśli zdarzy się to w przyszłości.
 welcome-page1-stay-ahead-of-hackers = Wyprzedź hakerów
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/

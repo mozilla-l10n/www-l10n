@@ -9,9 +9,7 @@
 set-as-default-landing-make-firefox-your-default = Nastavte si { -brand-name-firefox(case: "acc") } jako výchozí prohlížeč
 # HTML page description
 set-as-default-landing-choose-the-browser = Vyberte si prohlížeč, který chrání vaše soukromí. Nastavte si { -brand-name-firefox(case: "acc") } jako svůj výchozí prohlížeč.
-# Obsolete string
 set-as-default-landing-thanks-for-using-the = Děkujeme, že používáte nejnovější prohlížeč { -brand-name-firefox }. Když zvolíte { -brand-name-firefox(case: "acc") }, podporujete lepší web pro vás a všechny ostatní. Nyní učiňte další krok ke své ochraně.
-# Obsolete string
 set-as-default-landing-make-sure-youre-protected = Zajistěte, abyste při každém připojení k internetu byli chráněni
 set-as-default-landing-you-should-get = Měli byste mít možnost rozhodovat o způsobu svého brouzdání
 set-as-default-landing-if-you-recently = Pokud jste nedávno aktualizovali počítač, mohlo dojít ke změně nastavení. Podpořte svobodný a otevřený internet pokaždé, když se připojíte k internetu pomocí { -brand-name-firefox(case: "gen") }.

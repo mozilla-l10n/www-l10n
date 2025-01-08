@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ha essite
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Assi que Internet cresce e cambia, { -brand-name-firefox } continua concentrar se sur tu derecto al confidentialitate, nos lo appella le <a { $attrs }>Promissa re datos personal</a>: prender minus, mantener lo secur e transparentia. Tu datos, tu activitate web, tu vita online es protegite per { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } es disponibile sur tote tu apparatos; porta con te tu schedas, tu chronologia e tu marcapaginas. Toto lo que tu besonia es un <a { $attrs }>conto { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } es disponibile sur tote tu apparatos; porta con te tu schedas, tu chronologia e tu marcapaginas. Toto lo que te besonia es un <a { $attrs }>{ -brand-name-mozilla-account }</a> e tu accedera al synchronisation e altere productos { -brand-name-mozilla }.
@@ -146,13 +142,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Questiones? Le supporto de <a { $attrs }>{ -brand-name-mozilla } assistentia</a> te coperi.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Tu usa jam { -brand-name-firefox } como navigator. Discoperi ancora plus de { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with-v3 = Survelia le hackers con { -brand-name-mozilla-monitor }, protege tu adresse email con { -brand-name-firefox-relay }, e altero ancora.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Survelia le hackers con { -brand-name-firefox-monitor }, protege tu adresse email con { -brand-name-firefox-relay }, e altero ancora.
-firefox-desktop-download-get-more-from-firefox = Recipe plus per { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Discarga le navigator
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -190,4 +180,3 @@ firefox-desktop-download-please-follow = Per favor seque <a href="{ $url }">iste
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Tu systema possibilemente non satisface le requisitos pro exequer { -brand-name-firefox }, ma tu pote probar un de <a href="{ $url }">iste versiones</a>.
-firefox-desktop-download-taskbar = { -brand-name-firefox } sera appunctate al barra del activitates de { -brand-name-windows } post le installation

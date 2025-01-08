@@ -11,8 +11,6 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } je veoma brz pretraživač koji nudi najnovije alate za razvoj i najnovije mogućnosti kao što su podrška za CSS mrežu i okvirno otklanjanje grešaka
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Dobrodošli u vaš novi omiljeni pretraživač. Radite s najnovijim funkcijama, poboljšanim performansama i razvojnim alatima koje trebate da kreirate otvoreni web.
 firefox-developer-speak-up = Govorite
 firefox-developer-feedback-makes-us = Povratne informacije nas čine boljim. Recite nam kako možemo unaprijediti pretraživač i alate za razvoj.
@@ -75,15 +73,11 @@ firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-develo
 firefox-developer-download-the-firefox-browser = Preuzmite { -brand-name-firefox } pretraživač napravljen za programere
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } je izgrađen iznova da bi bio brži, uglađeniji i moćniji nego ikad.
 firefox-developer-welcome-to-firefox-developer-edition = Dobrodošli u { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = Dobrodošli u { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Pretraživač napravljen za programere
 firefox-developer-all-the-latest-v2 = Svi najnoviji alati za programere u beta verziji, pored funkcija kao što su uređivač višelinijskih konzola i WebSocket inspektor.
 firefox-developer-a-separate-profile = <strong>Zaseban profil i putanja</strong> tako da ga možete lahko pokrenuti uz standardnu ili { -brand-name-beta } { -brand-name-firefox } verziju.
 firefox-developer-preferences-tailored = Postavke <strong>skrojene za web programere</strong>: Otklanjanje grešaka u pretraživaču i udaljeno su podrazumjevano omogućeni, kao i tamna tema i brz pristup alatima za programere.
 firefox-developer-congrats-you-now-have-latest-v2 = Sada imate najnoviju verziju { -brand-name-firefox-developer-edition }.
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = Čestitamo. Sada imate najnoviju verziju { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Pogledajte <a { $attrs }>napomene o izdanju</a> (samo na engleskom) da vidite šta je novo.

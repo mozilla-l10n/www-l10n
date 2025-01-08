@@ -11,8 +11,6 @@ firefox-products-mozilla-products = Cynnyrch { -brand-name-mozilla }
 firefox-products-mozillas-family-of-products = Mae'r casgliad o gynnyrch { -brand-name-mozilla } i gyd wedi'u cynllunio i'ch cadw chi'n fwy diogel a doethach ar-lein
 firefox-products-products = Cynnyrch
 firefox-products-firefox-beginning-v2 = Dim ond y dechrau yw { -brand-name-firefox }.
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = Dim ond y dechrau yw { -brand-name-firefox }
 firefox-products-mozillas-family-of-products-sentence = Mae'r casgliad o gynnyrch { -brand-name-mozilla } i gyd wedi'u cynllunio i'ch cadw chi'n fwy diogel a doethach ar-lein
 
 ## Firefox
@@ -67,6 +65,4 @@ firefox-products-analyze = Dadansoddi URL
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content-v2 = Darganfyddwch y cynnwys gorau ar y we - a'i ddefnyddio ble bynnag a phryd bynnag y dymunwch. Wedi'i wneud gan { -brand-name-mozilla }.
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = Darganfyddwch y cynnwys gorau ar y we - a'i ddefnyddio ble bynnag a phryd bynnag y dymunwch.
 firefox-products-get-pocket = Cael { -brand-name-pocket }

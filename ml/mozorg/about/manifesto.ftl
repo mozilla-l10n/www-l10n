@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -39,33 +39,7 @@ manifesto-the-mozilla-manifesto-addendum = മോസില്ല മാനിഫ
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = ഒരു ആരോഗ്യകരമായ ഇൻറർനെറ്റിനായുള്ള പ്രതിജ്ഞ
 manifesto-show-your-support = നിങ്ങളുടെ പിന്തുണ കാണിക്കുക
-manifesto-share-on-twitter = ട്വിറ്ററില്‍ പങ്കിടുക
 manifesto-our-10-principles = <strong>ഞങ്ങളുടെ 10</strong>തത്വങ്ങൾ
-manifesto-use-open-badges-to-share = നിങ്ങളുടെ കഴിവുകളും താത്പര്യങ്ങളും പങ്കിടാൻ തുറക്കുക ബാഡ്ജുകൾ ഉപയോഗിക്കുക
-manifesto-explore-how-the-web-impacts = വെബ് എങ്ങനെ ശാസ്ത്രത്തെ സ്വാധീനിക്കുന്നുവെന്ന് പര്യവേക്ഷണം ചെയ്യുക
-manifesto-learn-about-open-source = പത്രപ്രവർത്തനത്തിലെ ഓപ്പൺ സോഴ്സ് കോഡിനെ പറ്റി പഠിക്കുക
-manifesto-read-about-open-internet = തുറന്ന ഇന്റർനെറ്റ് നയ മുൻകൈകളെയും വികസനപ്രവർത്തനങ്ങളെയും കുറിച്ച് വായിക്കുക
-manifesto-explore-how-to-help-keep = വെബ് തുറന്നതായി ഇരിക്കാന്‍ സഹായിക്കുന്നത് എങ്ങനെയെന്ന് പര്യവേക്ഷണം ചെയ്യുക
-manifesto-see-how-the-web-can-connect = വെബിന് എങ്ങനെ ലോകാരോഗ്യവുമായി ബന്ധിപ്പിക്കാൻ കഴിയുമെന്ന് കാണുക
-manifesto-explore-how-the-web-works = വെബ് എങ്ങനെ പ്രവർത്തിക്കുന്നുവെന്ന് പര്യവേക്ഷണം ചെയ്യുക
-manifesto-see-how-mozilla-works = നിങ്ങളുടെ സ്വകാര്യത ആദ്യം നൽകുന്നതിനു വേണ്ടി മോസില്ല പ്രവർത്തിക്കുന്നത് എങ്ങനെയെന്ന് കാണുക
-manifesto-read-about-developments = സ്വകാര്യതയിലെയും ഡാറ്റ സുരക്ഷയിലെയും വികസനങ്ങളെക്കുറിച്ച് വായിക്കുക
-manifesto-learn-more-about-how-to = ഓൺലൈനിൽ സ്വയം എങ്ങനെ സംരക്ഷിക്കുന്നതിനെ കുറിച്ച് കൂടുതൽ അറിയുക
-manifesto-use-these-free-tools-to = വെബ്ബ് പഠിപ്പിക്കാന്‍ ഈ സ്വതന്ത്ര ടൂളുകള്‍ ഉപയോഗിക്കുക
-manifesto-learn-about-creating-and = വെബ് ഉളളടക്കങ്ങൾ സൃഷ്ടിക്കാനും പരിപാലിക്കാനും പഠിക്കുക
-manifesto-add-new-voices-to-open = ഓപ്പന്‍ സോഴ്സ് സാങ്കേതിക വിദ്യയിലേക്ക് പുതിയ ശബ്ദങ്ങൾ ചേർക്കുക
-manifesto-set-your-do-not-track = നിങ്ങളുടെ ട്രാക്ക് ചെയ്യേണ്ട മുന്‍ഗണന കൊടുക്കുക
-manifesto-understand-the-web-ecosystem = വെബ് ഇക്കോസിസ്റ്റം മനസിലാക്കുക
-manifesto-explore-how-open-practices = തുറന്ന സമീപനങ്ങൾ എങ്ങനെയാണ് വെബ് ലഭ്യത സാധ്യമാക്കുന്നതെന്ന് പരിശോധിക്കുക
-manifesto-learn-how-to-remix-content = ഉള്ളടക്കം പുനക്രമീകരിക്കുന്നത് വഴി എങ്ങനെ പുതിയ ഒരു സൃഷ്ടി സാധ്യമാക്കാം എന്ന് പഠിക്കാം
-manifesto-learn-how-to-maximize = വെബിന്റെ പരസ്പര സംവേദനക്ഷമത എങ്ങനെ പരമാവധി വർധിപ്പിക്കാമെന്ന് പഠിക്കാം
-manifesto-participate-in-our-governance = ഞങ്ങളുടെ ഭരണനിർവഹണ സമിതിയിൽ പങ്കെടുക്കൂ
-manifesto-join-us-as-a-volunteer = സന്നദ്ധപ്രവര്‍ത്തകയായി ഞങ്ങളോടൊപ്പം ചേരുക
-manifesto-learn-how-to-collaborate = ഓൺലൈനായി സഹകരണം എങ്ങനെ സാധ്യമാക്കാമെന്ന് പഠിക്കാം
-manifesto-visualize-who-you-interact = ലൈറ്റ് ബീം ഉപയോഗിച്ച് വെബ്ബിൽ നിങ്ങൾ ആരുമായാണ് സംവദിക്കുന്നതെന്ന കാര്യം സങ്കൽപ്പിക്കുക
-manifesto-learn-about-creating-web = എങ്ങിനെയാണ് മറ്റുള്ളവരുമായി വെബ് റിസോര്‍സ് ഉണ്ടാക്കുന്നതെന്ന് നോക്കുക
-manifesto-host-or-join-a-maker-party = ഒരു മേക്കർ പാർട്ടിയിൽ ഹോസ്റ്റ് ചെയ്യുകയോ അതിൽ ചേരുകയോ ചെയ്യുക
-manifesto-learn-how-to-build-online = ഓൺലൈൻ സഹകരണ കഴിവുകൾ എങ്ങനെ നിർമ്മിക്കണമെന്ന് പഠിക്കുക
 manifesto-read-the-entire-manifesto = മുഴുവൻ മാനിഫെസ്റ്റോയും വായിക്കുക
 manifesto-love-the-web = വെബ് ഇഷ്ടമാണോ?
 manifesto-details-the-mozilla-manifesto = മോസില്ല മാനിഫെസ്റ്റോ

@@ -9,9 +9,7 @@
 set-as-default-landing-make-firefox-your-default = Зрабіць { -brand-name-firefox } вашым прадвызначаным браўзерам
 # HTML page description
 set-as-default-landing-choose-the-browser = Выберыце браўзер, які абараняе вашу прыватнасць. Усталюйце { -brand-name-firefox } прадвызначаным браўзерам.
-# Obsolete string
 set-as-default-landing-thanks-for-using-the = Дзякуем за выкарыстанне сучаснай версіі браўзера { -brand-name-firefox }. Выбіраючы { -brand-name-firefox }, вы падтрымліваеце лепшы інтэрнэт для вас і ўсіх астатніх. Цяпер зрабіце наступны крок, каб абараніць сябе.
-# Obsolete string
 set-as-default-landing-make-sure-youre-protected = Пераканайцеся, што вы абаронены, кожны раз, калі вы выходзіце ў інтэрнэт
 set-as-default-landing-you-should-get = Вы павінны мець права голасу ў тым, як вы аглядаеце інтэрнэт
 set-as-default-landing-if-you-recently = Калі вы нядаўна абнаўлялі свой камп'ютар, вашы налады маглі змяніцца. Падтрымлівайце бясплатны і адкрыты Інтэрнэт кожны раз, калі выходзіце ў сеціва з дапамогай { -brand-name-firefox }.

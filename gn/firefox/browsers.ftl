@@ -10,9 +10,6 @@ firefox-browsers-page-title = Emboguejy { -brand-name-firefox } mesa arigua, pum
 # HTML page description
 firefox-browsers-page-desc = Eiporavo mesa arigua, { -brand-name-ios }, { -brand-name-android } térã romondo ñanduti veve ñembojuejy juajuha ndive pumbyrýpe g̃uarãva.
 firefox-browsers-main-heading = { -brand-name-firefox } Kundahára
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = Eguereko umi <strong>kundahára</strong> omotenondéva ne ñemigua — ojapovavoi opa ára
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Ereko kundahára omotenondéva tekoñemi — ha <strong>tapiaite</strong> ojapovavoi
 firefox-browsers-desktop = Mesa arigua

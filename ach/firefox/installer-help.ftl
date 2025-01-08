@@ -16,8 +16,5 @@ installer-help-action-choose = Yer gam ki piny.
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
-installer-help-firefox-beta-title = { -brand-name-firefox-browser } { -brand-name-beta }
-installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Yubi, tem, loki ki mapol ki layeny acel keken ma ki yubo kikome pi ludiro.
-installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }
 installer-help-need-help = Imito kony me keto?

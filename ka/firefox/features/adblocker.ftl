@@ -31,18 +31,6 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> კი
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = აღნიშნული გაფართოებები მშვენივრად მუშაობს როგორც <a { $attrs1 }>კომპიუტერის { -brand-name-firefox }-ზე</a>, ასევე <a { $attrs2 }>Android-ზე</a>.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = შეგიძლიათ იხილოთ <a href="{ $url }">AdBlocker Ultimate</a>, რომელიც ყველანაირ რეკლამას აცილებს, მაგრამ პასუხისმგებლობით გამოყენებას მოითხოვს. ზოგიერთი თქვენი საყვარელი საგაზეთო და ახალი ამბების საიტი სწორედ რეკლამებით იღებს შემოსავალს. თუ ბევრი ადამიანი შეზღუდავს რეკლამებს, შესაძლოა, ეს მათი საქმიანობისთვის დამღუპველი აღმოჩნდეს.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = ყველაზე საშინელი ამომხტომი რეკლამებია. მათ შესაზღუდად გამოიყენეთ <a href="{ $url }">Popup Blocker</a> და აღარასდროს შეწუხდებით ამომხტარი სარკლმებით.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = ფართოდ გავრცელებული რეკლამების შემზღუდავი ბრაუზერებისთვის { -brand-name-chrome }, { -brand-name-safari } და { -brand-name-firefox }, არის <a href="{ $url }">AdBlock</a>. გამოიყენეთ რეკლამების შესაზღუდად საიტებზე { -brand-name-facebook }, { -brand-name-youtube } და { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = შექმენით მეთვალყურეებისგან თავისუფალი სივრცე შიგთავსის შეზღუდვით
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

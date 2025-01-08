@@ -13,8 +13,6 @@ vpn-download-sub-heading = Voit ladata { -brand-name-mozilla-vpn }:n enintään 
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } tarjoaa turvallisen suojan kaikille tärkeimmille käyttöjärjestelmille.
 vpn-download-not-available-in-country = Valitettavasti { -brand-name-mozilla-vpn } ei ole ladattavissa maassasi.
 vpn-download-button-copy = Lataa
-# Obsolete string
-vpn-download-for-windows = VPN { -brand-name-windows } 10/11:lle
 vpn-download-for-windows-v2 = VPN { -brand-name-windows }ille
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (vain 64-bit)
 vpn-download-for-windows-long = Lataa { -brand-name-mozilla-vpn } { -brand-name-windows }ille
@@ -32,8 +30,6 @@ vpn-download-for-android = VPN { -brand-name-android }ille
 vpn-download-for-android-long = Lataa { -brand-name-mozilla-vpn } { -brand-name-android }ille
 vpn-download-for-ios = VPN { -brand-name-ios }ille
 vpn-download-for-ios-long-v2 = Lataa { -brand-name-mozilla-vpn } { -brand-name-ios }:lle
-# Obsolete string
-vpn-download-for-ios-long = Lataa { -brand-name-mozilla-vpn } { -brand-name-ios }:lle
 vpn-download-get-on-google-play = Lataa { -brand-name-google-play } Storesta
 vpn-download-get-on-app-store = Hanki { -brand-name-app-store }sta
 vpn-download-based-on-your = Perustuen nykyiseen laitteeseesi

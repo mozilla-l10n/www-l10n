@@ -18,9 +18,5 @@ page7-that-sneaky-little-button = او چھوٹا جیہا بٹݨ
 page7-those-innocent-looking-f-buttons = { -brand-name-facebook } دے علاوہ معصوم نظرݨ آوݨ والے F بٹݨ تہاݙی ویب سرگرمی کوں ٹریک کریندے ہوئے، چاہے تہاݙے کول اکاؤنٹ نہ ہووے۔ { -brand-name-facebook-container } انہاں کوں بلاک کریندا ہے۔
 page7-stay-ahead-of-hackers = ہیکیراں کنوں اڳوں تے راہوو
 page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } تہاکوں ایہ ڄاݨݨ ݙیندا ہے جو ہیکرز تہاݙے بارے وِچ پہلے کنوں کیا ڄاݨدے ہن تے تہاکوں انہاں کنوں ہک قدم اڳوں تے رہݨ وِچ مدد ݙیندا ہے۔ (تے ایہ مفت ہے)
-# Obsolete string
-page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } تہاکوں ایہ ڄاݨݨ ݙیندا ہے جو ہیکرز تہاݙے بارے وِچ پہلے کنوں کیا ڄاݨدے ہن تے تہاکوں انہاں کنوں ہک قدم اڳوں تے رہݨ وِچ مدد ݙیندا ہے۔ (تے ایہ مفت ہے)
 page7-get-mozilla-monitor = { -brand-name-mozilla-monitor } گھنو
-# Obsolete string
-page7-get-firefox-monitor = { -brand-name-firefox-monitor } گھنو
 page7-why-am-i-seeing-this = میں ایہ کیوں ݙیہدا پیاں؟

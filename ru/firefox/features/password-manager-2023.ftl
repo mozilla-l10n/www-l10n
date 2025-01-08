@@ -13,14 +13,6 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } наде
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = С помощью <a { $fxa }>бесплатного { -brand-name-mozilla-account }</a> вы можете безопасно синхронизировать свои пароли на всех своих устройствах. Вы также можете получить доступ ко всем другим продуктам { -brand-name-mozilla }, уважающим конфиденциальность.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account = С помощью <a href="{ $fxa }">бесплатного{ -brand-name-mozilla-account } </a> вы можете безопасно синхронизировать свои пароли на всех своих устройствах.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-firefox-account = С помощью <a href="{ $fxa }">бесплатного аккаунта { -brand-name-firefox }</a> вы можете безопасно синхронизировать свои пароли на всех своих устройствах.
 password-manager-password-autofill-for-easy-logins = Автозаполнение пароля для удобного входа в систему
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } может автоматически вводить сохраненные вами имя пользователя и пароль. Если у вас есть более одного логина для сайта, вы можете просто выбрать нужный аккаунт, и мы возьмем его оттуда.
 # Used as an accessible text alternative for an image

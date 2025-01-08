@@ -19,7 +19,9 @@ navigation-refresh-innovation-projects-v2 = Иновациони пројект�
 navigation-refresh-blog = Блог
 navigation-refresh-our-mission = Наша мисија
 navigation-refresh-our-work = Наш рад
+# Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
+# Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } оглашавање
 

@@ -18,9 +18,5 @@ page7-that-sneaky-little-button = 偷偷摸摸的小按鈕
 page7-those-innocent-looking-f-buttons = 就算您沒有 { -brand-name-facebook } 帳號，那些小小的 F 按鈕也會追蹤您的網頁瀏覽行為。{ -brand-name-facebook-container } 會把它們全部封鎖起來。
 page7-stay-ahead-of-hackers = 比駭客搶先一步
 page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } 讓您可以找出駭客們可能已經知道您的哪些資料，並搶先採取行動。（而且不用錢喔！）
-# Obsolete string
-page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } 讓您可以找出駭客們可能已經知道您的哪些資料，並搶先採取行動。（而且不用錢喔！）
 page7-get-mozilla-monitor = 使用 { -brand-name-mozilla-monitor }
-# Obsolete string
-page7-get-firefox-monitor = 使用 { -brand-name-firefox-monitor }
 page7-why-am-i-seeing-this = 為什麼我會看到這個？

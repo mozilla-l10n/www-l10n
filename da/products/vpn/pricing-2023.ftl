@@ -46,3 +46,6 @@ vpn-pricing-how-do-i-manage = Hvordan administrerer jeg mit abonnement og ændre
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = Hvis du allerede abonnerer på { -brand-name-mozilla-vpn }, kan du til enhver tid ændre din plan eller <a { $manage }>administrere dit abonnement</a>.
+
+## Mobile only subscription copy
+

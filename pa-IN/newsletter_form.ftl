@@ -20,11 +20,7 @@ newsletter-form-sign-up-to-receive = { -brand-name-firefox } ਅਤੇ ਇੰਟ
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = { -brand-name-mozilla } ਵਲੋਂ <a href="{ $url }">ਇਸ ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ</a> ਵਿੱਚ ਦਰਸਾਏ ਮੁਤਾਬਕ ਮੇਰੀ ਜਾਣਕਾਰੀ ਨਾਲ ਕੰਮ ਕਰਨ ਦੇਣ ਲਈ ਮੈਂ ਸਹਿਮਤ ਹਾਂ।
 newsletter-form-we-will-only-send-v2 = ਅਸੀਂ ਤੁਹਾਨੂੰ ਸਿਰਫ਼ { -brand-name-mozilla } ਨਾਲ ਸੰਬੰਧਿਤ ਜਾਣਕਾਰੀ ਹੀ ਭੇਜਾਂਗੇ। ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਵੇਲੇ ਮੈਂਬਰੀ ਹਟਾ ਸਕਦੇ ਹੋ।
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send = ਅਸੀਂ ਤੁਹਾਨੂੰ ਕੇਵਲ { -brand-name-mozilla } ਨਾਲ ਸਬੰਧਿਤ ਜਾਣਕਾਰੀ ਹੀ ਭੇਜਾਂਗੇ।
 newsletter-form-we-will-only-send-firefox-v2 = ਅਸੀਂ ਤੁਹਾਨੂੰ ਸਿਰਫ਼ { -brand-name-firefox } ਨਾਲ ਸੰਬੰਧਿਤ ਜਾਣਕਾਰੀ ਹੀ ਭੇਜਾਂਗੇ। ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਵੇਲੇ ਮੈਂਬਰੀ ਹਟਾ ਸਕਦੇ ਹੋ।
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send-firefox = ਅਸੀਂ ਤੁਹਾਨੂੰ ਕੇਵਲ { -brand-name-firefox } ਨਾਲ ਸਬੰਧਿਤ ਜਾਣਕਾਰੀ ਹੀ ਭੇਜਾਂਗੇ।
 newsletter-form-if-you-havent-previously = ਜੇ ਤੁਸੀਂ ਪਹਿਲਾਂ { -brand-name-mozilla }-ਅਧਾਰਿਤ ਖ਼ਬਰਸਾਰ ਵਾਸਤੇ ਮੈਂਬਰੀ ਨੂੰ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਹੈ ਤਾਂ ਹੁਣ ਕਰ ਸਕਦੇ ਹੋ। ਆਪਣੇ ਇਨਬਾਕਸ ਜਾਂ ਆਪਣੇ ਸਪੈਮ ਫਿਲਟਰ ਨੂੰ ਸਾਡੇ ਵਲੋਂ ਈਮੇਲ ਵਾਸਤੇ ਜਾਂਚ ਕਰੋ।
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + ਤੁਸੀਂ
 newsletter-form-get-firefox-tips = { -brand-name-firefox } ਸੁਝਾਅ, ਗੁਰ, ਖ਼ਬਰਾਂ ਅਤੇ ਹੋਰ ਹਾਸਲ ਕਰੋ

@@ -32,7 +32,7 @@ vpn-when-to-use-for-the-most = Výše uvedené scénáře se většinou netýkaj
 vpn-when-to-use-because-your-internet = Jelikož doma vaše internetové přenosy putují do a z vašich zařízení prostřednictvím poskytovatele internetových služeb (ISP), může tento poskytovatel internetu sledovat, kam na internetu chodíte. Poskytovatel internetu vidí, jaké stránky navštěvujete, jak dlouho na nich jste, zná vaši zeměpisnou polohu a také údaje o vašich zařízeních. Nemusí sice díky šifrování znát detaily toho, co jste na těchto stránkách dělali (například co jste koupili, vyhledávali nebo četli), může však vyvozovat nějaké závěry z navštívených stránek. Tato osobní data mohou poskytovatelé internetu použít k vytváření vašich podrobných profilů. Prohlížení v soukromém či anonymním režimu nezabraňuje poskytovatelům internetu vidět, kam na internetu chodíte. Posílání webových přenosů přes síť VPN jim to ale může značně ztížit.
 vpn-when-to-use-make-sure-you = Ujistěte se, že chápete, co síť VPN nedělá
 # Variables
-#   $book (url) - https://www.mozilla.org/firefox/privacy/book/
+#   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
 vpn-when-to-use-a-vpn-provides = Síť VPN slouží jako důležitý bezpečnostní článek tím, že chrání vaše soukromá data předtím, než se přenesou přes internet, a také tají vaši IP adresu, čímž pomáhá chránit vaši identitu a zeměpisnou polohu. Nezabrání vám však v takových věcech, jako je kliknutí na podezřelý odkaz, stažení škodlivého softwaru nebo stát se obětí e-mailového podvodu. Stále je třeba dodržovat <a href="{ $book }">správné návyky, abyste byli na internetu v bezpečí</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, důvěryhodná služba VPN
 # Variables

@@ -16,13 +16,9 @@ privacy-faq-at-mozilla-we-respect-and-protect = Hjå { -brand-name-mozilla } res
 privacy-faq-we-follow-a-set-of-data-privacy = Vi følgjer eit sett av <a href="{ $link }">datavernprinsipp</a> som for tilnærminga vår til personvern i { -brand-name-firefox } for datamaskiner og mobile einingar.
 privacy-faq-we-only-collect-the-data-we = Vi samlar berre inn informasjon vi treng for å kunne lage dei beste produkta.
 privacy-faq-we-put-people-in-control-of = Vi gir brukarane kontroll over sine data og opplevingar på nettet.
-# Obsolete string (expires 2024-09-11)
-privacy-faq-we-adhere-to-no-surprises-principle = Vi følgjer prinsippet om «ingen overraskingar», det vil seie at vi jobbar hardt for å sikre at brukarane våre kan forstå korleis { -brand-name-firefox } samsvarer med røyndommen.
 privacy-faq-we-adhere-to-no-surprises-principle-v2 = Vi følgjer prinsippet om «ingen overraskingar», noko som tyder at vi arbeider hardt med å passe på at folk si forståing av { -brand-name-firefox } samsvarar med verkelegheita.
 privacy-faq-the-following-questions-and = Følgjande spørsmål og svar skal hjelpe deg med å forstå kva du kan vente deg frå { -brand-name-mozilla } og { -brand-name-firefox }:
 privacy-faq-i-use-firefox-for-almost-everything = Eg brukar { -brand-name-firefox } til nesten alt på nettet. Folk hos { -brand-name-mozilla } må vite ein heil del om meg, eller kva?
-# Obsolete string (expires 2024-09-11)
-privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, nettlesaren som køyrer på eininga eller datamaskina di, er inngangen din til nettet. Nettlesaren din handterer mykje informasjon om nettstadane du besøkjer, men den informasjonen er att på eininga di. { -brand-name-mozilla }, selskapet som lagar { -brand-name-firefox }, samlar ikkje inn denne informasjonen (med mindre du ber oss om det).
 privacy-faq-really-you-dont-collect-my-browsing = Verkeleg, lagrar dei ikkje historikken min?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } veit ikkje så mykje som du kan forvente deg om korleis folk surfar på nettet. Som nettlesarprodusent  er det faktiskt ei stor utfordring for oss. Det er grunnen til at vi har innebyggde verktøy som gjer at interesserte kan gje oss innsikt i nettsurfinga deira. Om du synkroniserer nettlesarhistorikken din mellom fleire { -brand-name-firefox }-installasjonar veit ikkje vi kva den historikken er — fordi han er kryptert av eininga di.
 privacy-faq-it-seems-like-every-company = Det verkar som alle selskap på nettet kjøper og sel informasjonen min. De er sannsynlegvis ikkje annleis.
@@ -36,8 +32,6 @@ privacy-faq-that-documentation-is-gobbledygook = Den dokumentasjonen er ikkje s�
 privacy-faq-there-are-two-categories-of = Det finst to kategoriar av data som vi samlar inn som standard i den ferdige versjonen av { -brand-name-firefox }.
 privacy-faq-the-first-is-what-we-call-technical = Det første er det vi kallar «teknisk informasjon». Det er informasjon om nettlesaren, som til dømes operativsystemet han køyrer på og informasjon om feil eller krasj.
 privacy-faq-do-you-collect-more-data-in = Samlar de inn fleire data i dei tidlege test-utgåvene av { -brand-name-firefox }?
-# Obsolete string (expires 2024-09-11)
-privacy-faq-sort-of-in-addition-to-the-data = På ein måte. Utover dei data som er skildra ovanfor, samlar vi som standard inn rapporter om krasj- og feilsøking i førehandsversjonane av { -brand-name-firefox }.
 privacy-faq-but-why-do-you-collect-any-data = Men kvifor samlar de inn data då?
 privacy-faq-data-collection-still-bugs-me = Eg bryr meg ikkje om dataindsamlinga. Kan eg slå henne av?
 privacy-faq-what-about-my-account-data = Kva med kontodataa mine?

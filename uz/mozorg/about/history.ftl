@@ -1,13 +1,13 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/history/
 
 history-history-of-the-mozilla-project = { -brand-name-mozilla } loyihasining tarixi
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = { -brand-name-mozilla } loyihasi <a href="{ $coderush }">1998-yilda yaratilgan.</a> Shu vaqtda <a href="{ $sourcerelease }">{ -brand-name-netscape } brauzerining manba kodi ham e’lon qilingan edi</a>.
 history-it-was-intended-to-harness = Bundan maqsad internetdagi minglab dasturchilarning ijodiy salohiyatidan foydalanish hamda brauzer bozorida misli ko‘rilmagan kashfiyotlarga yo‘l ochish edi.

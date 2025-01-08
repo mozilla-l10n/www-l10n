@@ -59,4 +59,3 @@ firefox-new-fast = 快速、私密且免费
 firefox-new-from-mozilla = { -brand-name-mozilla } 出品
 firefox-new-desc = { -brand-name-firefox-browser }是由非营利组织 { -brand-name-mozilla } 所推出，页面加载飞快、内存用量更少，实用功能多多的免费浏览器。
 firefox-new-download-a-different = 其他平台或语言下载
-firefox-new-taskbar = { -brand-name-firefox } 将在安装后固定至 { -brand-name-windows } 任务栏

@@ -10,7 +10,7 @@ features-translate-translate-a-webpage-with-firefox = { -brand-name-firefox } il
 features-translate-translate-the-web = Web’i çevirin
 features-translate-when-you-translate-a-webpage = Bir web sayfasını çevirdiğinizde çevirdiğiniz şeyler gizli kalır
 features-translate-what-languages-are-currently = Şu anda hangi diller destekleniyor?
-# This is followed by a localized list of supported languages
+# Obsolete string (expires: 2025-02-17)
 features-translate-the-languages-below-are-what = Şu anda { -brand-name-firefox } Çeviri özelliği aşağıdaki dilleri desteklemektedir:
 features-translate-and-more-languages-are-in = Ve yeni diller de yolda!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } sizin dilinizi de konuşuyor

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -10,9 +10,6 @@ facebook-container-millions-of-people-around = ലോകമെമ്പാടു
 facebook-container-facebook-well-contained-keep = ഫേസ്ബുക്കിനെ ഒതുക്കിനിര്‍ത്തിയിട്ടുണ്ട്. ബ്രൌസിങ്ങിന്റെ ബാക്കി ശേഷിപ്പുകൾ സ്വയം സൂക്ഷിക്കുക.
 facebook-container-get-the-facebook-container = ഫേസ്ബുക്ക് കണ്ടെയ്നർ എക്സ്റ്റൻഷൻ നേടു
 facebook-container-download-firefox-and-get-the = ഫയർഫോക്സ് ഡൌൺലോഡ് ചെയ്ത് ഫേസ്ബുക്ക് കണ്ടെയ്നർ എക്സ്റ്റൻഷൻ നേടു
-facebook-container-the-facebook-container-extension = മൊബൈൽ ഉപകരണങ്ങളിൽ ഫേസ്ബുക്ക് കണ്ടെയ്നർ എക്സ്റ്റൻഷൻ ലഭ്യമല്ല.
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = ആന്‍ഡ്രോയ്ഡ്, ഐ. ഓ. എസ് എന്നിവയ്ക്കായുള്ള, സ്വകാര്യത സംരക്ഷിക്കുന്ന ബ്രൗസറായ <strong> ഫയര്‍ഫോക്സ് ഫോക്കസ്</strong> പരീക്ഷിക്കുക.
 facebook-container-opt-out-on-your-terms = നിങ്ങളുടെ നിബന്ധനകള്‍ അനുസരിച്ച് വേണ്ടെന്ന് വെയ്ക്കുക
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

@@ -13,19 +13,12 @@ privacy-faq-we-stand-for-people-over-profit = Za nas stoji ljudsko biće ispred 
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
 privacy-faq-we-follow-a-set-of-data-privacy = Slijedimo niz <a href="{ $link }">načela privatnosti podataka</a> koji određuju naš pristup prema privatnosti u { -brand-name-firefox } desktop i mobilnim preglednicima.
 privacy-faq-we-only-collect-the-data-we = Prikupljamo samo podatke koje trebamo za izradu najboljih proizvoda.
-# Obsolete string (expires 2024-09-11)
-privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, web preglednik koji radi na tvom uređaju ili računalu, tvoj je pristup internetu. Preglednik upravlja mnogim informacijama o web stranicama koje posjećuješ, ali ti podaci ostaju na tvom uređaju. { -brand-name-mozilla }, poduzeće koje proizvodi { -brand-name-firefox }, ne prikuplja te podatke (osim, ako nas ne zatražiš).
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } ne zna toliko puno o tome kako ljudi pregledavaju web koliko bi se moglo očekivati. Kao proizvođač preglednika to je za nas zapravo veliki izazov. Zato smo izgradili opcionalne alate koji zainteresiranim korisnicima omogućuju da nam daju uvid u njihovo pregledavanje weba. Ako sinkroniziraš svoju povijest pregledavanja u { -brand-name-firefox } instalacijama mi ne poznamo tu povijest jer je šifrirana na tvom uređaju.
 privacy-faq-it-seems-like-every-company = Čini se da sva poduzeća na webu kupuju i prodaju moje podatke. Vi vjerojatno također.
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } ne prodaje podatke o tebi te ne kupujemo podatke o tebi.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } nije prosječna organizacija. Osnovana kao projekt otvorenog koda zajednice 1998., { -brand-name-mozilla } je organizacija vođena misijom koja radi na zdravijem internetu. Većina { -brand-name-mozilla-corporation } prihoda sastoji se od tantijema zarađenih kroz partnerstva za pretraživanje pomoću { -brand-name-firefox } web preglednika i od ugovora o distribuciji diljem svijeta. Više o tome kako zarađujemo novac možeš saznati u našem <a href="{ $link }">godišnjem financijskom izvještaju</a>.
-# Obsolete string (expires 2024-09-11)
-# Variables:
-#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
-#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } standardno prikuplja ograničen skup podataka iz { -brand-name-firefox }a, koji nam pomažu razumijeti kako ljudi koriste preglednik. Podaci se povezuju sa slučajno stvorenim identifikatorom, a ne s tvojim imenom ili e-adresom. Više o tome možeš pročitati u našoj <a href="{ $privacy }">obavijesti o privatnosti</a> ili pročitaj <a href="{ $data }">cjelokupnu dokumentaciju za prikupljanje tih podataka</a>.
 # Variables:
 #   $settings (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 #   $data (url) - link to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data

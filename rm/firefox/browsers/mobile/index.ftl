@@ -21,13 +21,8 @@ browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Tschertgas ti in navigatur optimà, ultra-svelt cun funcziuns per la protecziun da datas las pli avanzadas? { -brand-name-firefox-focus } stizza automaticamain tia cronologia cumpletta dal mument cura che ti has avert tes navigatur enfin cura che ti al serras.
 browsers-mobile-compare = Cumparegliar
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Ve sa savair sche { -brand-name-firefox } per computers desktop fa buna figura en cumparegliaziun cun auters navigaturs.
-# Obsolete string (expires 30 June 2024)
-browsers-mobile-see-how-firefox-for-desktop-stacks = Ve sa savair co che { -brand-name-firefox } per computers desktop sa batta en cumparegliaziun cun set ulteriurs navigaturs.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Ve sa savair sche { -brand-name-firefox } per computers <strong>desktop</strong> fa buna figura en cumparegliaziun cun auters navigaturs.
-# Obsolete string (expires 30 June 2024)
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = Ve sa savair co che { -brand-name-firefox } per <strong>computers desktop</strong> sa batta en cumparegliaziun cun set ulteriurs navigaturs.
 browsers-mobile-download = Telechargiar
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

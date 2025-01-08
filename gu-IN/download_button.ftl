@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = ડાઉનલોડ કરો
 download-button-free-download = મફત ડાઉનલોડ
@@ -38,3 +38,6 @@ download-button-firefox-android = { -brand-name-android } માટે <span>{ -
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name-ios } માટે
 download-button-firefox-privacy = { -brand-name-firefox } ગોપનીયતા
 download-button-download = ડાઉનલોડ
+
+## Linux
+

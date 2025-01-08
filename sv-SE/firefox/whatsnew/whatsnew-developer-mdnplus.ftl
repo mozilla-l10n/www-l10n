@@ -8,8 +8,6 @@
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest-v2 = Grattis. Du har nu den senaste versionen av { -brand-name-firefox-developer-edition }.
-# Obsolete string (expires: 2024-05-14)
-developer-mdnplus-congrats-you-now-have-latest = Grattis. Du har nu den senaste versionen av { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Mer { -brand-name-mdn }. <em>Ditt</em> { -brand-name-mdn }.
 developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } är ett samarbetsprojekt med öppen källkod som dokumenterar webbplattformsteknologier, inklusive CSS, HTML, JavaScript och webb-API:er. Vi tillhandahåller också en omfattande uppsättning inlärningsresurser för nybörjarutvecklare och studenter.

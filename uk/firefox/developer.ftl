@@ -11,8 +11,6 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } – блискавично швидкий браузер із найновішими інструментами веброзробника, підтримкою CSS Grid, налагодження, а також багатьма іншими можливостями
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Ласкаво просимо до вашого нового улюбленого браузера! Отримайте доступ до найновіших можливостей, швидкодії та інструментів розробки, необхідних для створення відкритого інтернету.
 firefox-developer-speak-up = Висловіться
 firefox-developer-feedback-makes-us = Відгуки роблять нас кращими. Розкажіть нам, як ми можемо вдосконалити браузер та інструменти веброзробника.
@@ -75,15 +73,11 @@ firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-develo
 firefox-developer-download-the-firefox-browser = Завантажте браузер { -brand-name-firefox }, створений для розробників
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } було повністю перебудовано і тепер він швидший, легший та потужніший, ніж будь-коли.
 firefox-developer-welcome-to-firefox-developer-edition = Ласкаво просимо до { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = Ласкаво просимо до { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Браузер, який створено для розробників
 firefox-developer-all-the-latest-v2 = Усі найновіші інструменти розробника в бета-версії, додатково до таких функцій, як Multi-line Console Editor та WebSocket Inspector.
 firefox-developer-a-separate-profile = <strong>Окремий профіль та шлях</strong>, щоб ви могли легко запустити його разом з основним випуском або { -brand-name-beta } { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Налаштування <strong>з урахуванням потреб веброзробників</strong>: браузерне та віддалене налагодження типово ввімкнено, а також темну тему та кнопку панелі інструментів розробника.
 firefox-developer-congrats-you-now-have-latest-v2 = Тепер у вас найновіша версія { -brand-name-firefox-developer-edition }.
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = Вітаємо! Ви встановили найновішу версію { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } { -brand-name-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Перегляньте <a { $attrs }>примітки до випуску</a> (лише англійською), щоб ознайомитися з оновленнями.

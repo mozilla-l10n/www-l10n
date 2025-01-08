@@ -7,12 +7,7 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } تے { -brand-name-ipad })
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = { -brand-name-ios } کیتے { -brand-name-firefox } براؤزر پہلی واری کھولݨ کنوں تکھا ، محفوظ تے نجی ہے۔
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-mobile-ios-get-automatic-privacy = اپݨے { -brand-name-iphone } تے { -brand-name-ipad } تے آپوں ڄاݨ رازداری حاصل کرو
 mobile-ios-get-firefox-for = { -brand-name-ios } کیتے { -brand-name-firefox } گھنو
 mobile-ios-send-a-download-link-to-your = آپݨے فون تے ہک ڈاؤن لوڈ لنک پٹھو۔
 mobile-ios-scan-the-qr-code-to-get-started = شروع کرݨ کیتے QR کوڈ سکین کرو
@@ -31,14 +26,8 @@ mobile-ios-get-to-your-go-to = اپݨے { -brand-name-iphone } تے { -brand-nam
 mobile-ios-see-your-open-tabs = { -brand-name-firefox-browser } دے نال { -brand-name-ios } کیتے اپݨے کھلے ٹیباں، ماضی دی ڳول تے بھاوݨیاں سائٹاں سب کوں ہک جاہ تے ݙیکھو۔
 mobile-ios-own-your-home = اپݨی ہوم سکرین دے مالک بݨو
 mobile-ios-get-to-the-parts = انٹرنیٹ دے انہاں حصیاں تائیں تکھاجی نال پڄو جنہاں دا تہاکوں خیال ہے۔ اپݨیاں تمام کھلیاں ٹیباں، حالیہ ڳول، نشانیاں تے من بھاوݨیاں سائٹاں سبھ کوں ہکی جاہ تے ݙیکھݨ دا انتخاب کرو۔
-# Obsolete string
-mobile-ios-add-firefox-across = محفوظ، ہموار براؤزنگ کیتے اپݨے تمام آلات تے { -brand-name-firefox } شامل کرو۔ { -brand-name-sync } اپݨیاں من بھانوݨیاں نشانیاں، ہتھیکڑے لاگ ان، پاس ورڈز تے براؤزنگ ہسٹری گھنݨ کیتے اپݨے آلات کوں مطابقت پذیر بݨاؤ۔ ایندے علاوہ، اپݨے فون تے ڈیسک ٹاپ دے درمیان کھلیاں ٹیباں بھیڄو جتھوں تساں چھوڑیا ہا۔
 mobile-ios-find-it-all = ایہ سبھ تکھاجی نال لبھو
 mobile-ios-get-search-suggestions = سرچ بار وِچ ڳول دیاں تجویزاں حاصل کرو تے انہاں سائٹاں تائیں تکھاجی نال رسائی حاصل رو جنہاں کوں تساں سبھ توں زیادہ ݙیکھدے او۔ اپݨا ڳولݨ سوال ٹائپ کرو، تے اپݨے من بھانوݨے سرچ انجݨاں وِچ تجویز کردہ تے پہلے ڳولئے ڳئے نتائج حاصل کرو۔
-# Obsolete string
-mobile-ios-keep-tabs-on = اُنہاں ساریاں ٹیباں تے ٹیباں رکھو
-# Obsolete string
-mobile-ios-create-as-many = ٹریک ونڄائے بغیر جتنیاں چاہو ٹیباں بݨاؤ۔ { -brand-name-firefox } تہاݙے کھلے ٹیباں کوں تھمب نیلز تے نمبر والے ٹیباں دے طور تے ݙکھیندا ہے، جیندے نال تساں جو چاہندے او اونکوں ڳولݨ آسان بݨیندا ہے۔
 mobile-ios-discover-more-of = تساں جہڑی شئے نال پیار کریندے ہو اوں بارے ٻیا دریافت کرو
 mobile-ios-open-a-new = { -brand-name-firefox } وِچ ہک نواں ٹیب کھولو انہاں سائٹاں کوں ݙیکھݨ کیتے جنہاں کوں تساں سبھ توں زیادہ ݙیکھدے او، اپݨیاں حالیہ نشانیاں تے { -brand-name-pocket } وِچ مشہور مضمون۔ { -brand-name-firefox } جتھاں تساں تکھاجی نال ویندے پئے او اتھاں پڄݨ وِچ تہاݙی مدد کرݨ کیتے تہاکوں تہاݙیاں حالیہ استعمال شدہ سائٹاں تائیں ٹھَک پھَک رسائی فراہم کریندا ہے۔
 mobile-ios-about-mozilla = { -brand-name-mozilla } دا تعارف

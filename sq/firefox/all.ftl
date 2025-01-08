@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Shkarkojeni { -brand-name-firefox }-in në anglisht (ShBA) dhe në më shumë se 90 gjuhë të tjera
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = Shkarkojeni shfletuesin { -brand-name-firefox-browser } në anglisht (ShBA) dhe në më shumë se 90 gjuhë të tjera
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Gjithkush meriton të përdorë internetin meriton gjithkush — gjuha juaj s’duhet të bëhet kurrë një pengesë. Kjo është arsyeja pse — me ndihmën e vullnetarëve të përkushtuar anembanë botës — e bëjmë { -brand-name-firefox }-in të gatshëm në më shumë se 90 gjuhë.
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = Hyrje në internet meriton gjithkush — gjuha juaj s’duhet të bëhet një pengesë. Kjo është arsyeja pse — me ndihmën e vullnetarëve të përkushtuar anembanë botës — e bëjmë shfletuesin { -brand-name-firefox-browser } të gatshëm në më shumë se 90 gjuhë.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = Scan QR code Që të merrni <em>{ $product_name }</em>, skanoni kodin QR
@@ -26,14 +22,8 @@ firefox-all-change-language = Zgjidhni një tjetër gjuhë
 firefox-all-down-arrow = Zgjidhni nga lista më poshtë
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Merrni ndihmë
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = Shfletues:
 firefox-all-browser-v2 = 1. Shfletues:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = Platformë:
 firefox-all-platform-v2 = 2. Platformë:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = Gjuhë:
 firefox-all-language-v2 = 3. Gjuhë:
 firefox-all-download = 4. Shkarkim:
 firefox-all-desktop = Desktop

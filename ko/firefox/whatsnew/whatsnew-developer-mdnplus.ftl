@@ -8,8 +8,6 @@
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest-v2 = 축하합니다. 이제 { -brand-name-firefox-developer-edition } 최신 버전을 사용하고 있습니다.
-# Obsolete string (expires: 2024-05-14)
-developer-mdnplus-congrats-you-now-have-latest = 축하합니다! 가장 최신 버전의 { -brand-name-firefox-browser }{ -brand-name-developer-edition }을 사용중입니다!
 # Main title
 developer-mdnplus-more-mdn-your-mdn = 더 많은 { -brand-name-mdn }. <em>나의</em> { -brand-name-mdn }.
 developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs }는 CSS와 HTML, JavaScript, Web API를 포함한 웹 플랫폼 기술을 문서화하는 오픈 소스 협업 프로젝트입니다. 또한 초보 개발자와 학생을 위한 다양한 학습 자원을 제공합니다.

@@ -1,11 +1,7 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
 
-# HTML page title
-compare-brave-firefox-vs-brave-which-is = { -brand-name-firefox } ਬਨਾਮ { -brand-name-brave }: ਵਿੱਚੋਂ ਕਿਹੜਾ ਤੁਹਾਡੇ ਲਈ ਵਧੀਆ ਬਰਾਊਜ਼ਰ ਹੈ?
-# Main title
-compare-brave-comparing-firefox-browser = { -brand-name-firefox-browser } ਦਾ { -brand-name-brave } ਨਾਲ ਟਾਕਰਾ

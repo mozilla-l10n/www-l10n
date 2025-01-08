@@ -5,26 +5,17 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Reikalavimai sistemai
-firefox-all-release-notes = Laidos apžvalga
-firefox-all-source-code = Pirminiai tekstai
-firefox-all-need-help = Reikia pagalbos?
-firefox-all-which-browser-would = Kurią naršyklę norėtumėte parsisiųsti?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Rodyti paaiškinimą
-firefox-all-you-are-about-to-download = Jūs ketinate parsisiųsti:
-firefox-all-browser = Naršyklė:
-firefox-all-platform = Platforma:
-firefox-all-language = Kalba:
 firefox-all-sorry-we-couldnt-find = Apgailestaujame, bet nepavyko rasti jūsų pasirinkto siuntinio. Pabandykite dar kartą arba parsisiųskite vieną iš siuntinių, pateiktų sąraše žemiau.
 firefox-all-the-pre-alpha-version = Pre-alfa versija, skirta norintiems ieškoti klaidų bei strigčių naršyklėje ir testuoti naujausias jos funkcijas dar jų kūrimo metu.
 firefox-all-64-bit-installers = 64 bitų įdiegiklis
 firefox-all-choose-a-64-bit-installer = Rinkitės 64 bitų naršyklę, jei jūsų kompiuteryje veikia 64 bitų procesorius, gebantis programoms išskirti daugiau darbinės atminties (tai ypatingai aktualu žaidimams ir kitoms reiklioms atminčiai programoms).
 firefox-all-32-bit-installers = 32 bitų įdiegiklis
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Parsisiųskite { -brand-name-firefox-browser } lietuvių ar bet kuria kita iš daugiau kaip 90 kalbų
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Internetas skirtas visiems – nesvarbu, kokia jūsų gimtoji kalba. Dėl šios priežasties, padedant daugybei savanorių visame pasaulyje, { -brand-name-firefox-browser } mes pateikiame daugiau kaip devyniasdešimčia kalbų.
+firefox-all-check-the-system-requirements = Reikalavimai sistemai
+firefox-all-release-notes = Laidos apžvalga
+firefox-all-source-code = Pirminiai tekstai
+firefox-all-need-help = Reikia pagalbos?
 firefox-all-choose-which-firefox = Pasirinkite, kurią lokalizuotos { -brand-name-firefox-browser } atmainą norite parsisiųsti
 firefox-all-firefox-privacy-notice = „{ -brand-name-firefox }“ privatumo pranešimas
 firefox-all-learn-about-firefox = Plačiau apie „{ -brand-name-firefox }“ naršykles

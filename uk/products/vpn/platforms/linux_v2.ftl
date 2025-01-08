@@ -12,8 +12,6 @@ vpn-linux-linux-is-free = Linux – вільний, з відкритим код
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } – це послуга, що надає доступ до віртуальної приватної мережі та використовує найнадійніше шифрування з відкритим кодом, а також не відстежує та не записує дії користувачів, а також не поширює жодних даних. Вона дає змогу з'єднуватися з понад 500 серверами у більше ніж 30 країнах.
 vpn-linux-why-choose = Чому варто вибрати { -brand-name-mozilla-vpn } для Linux?
 vpn-linux-fast-and-v2 = <strong>Швидкість і надійність:</strong> { -brand-name-mozilla-vpn } використовує протокол { -brand-name-wireguard }®, який забезпечує кращу швидкодію та стабільність, ніж інші протоколи VPN.
-# Obsolete string
-vpn-linux-fast-and = <strong>Швидкість і надійність:</strong> { -brand-name-mozilla-vpn } використовує протокол { -brand-name-wireguard }®, який забезпечує кращу швидкодію та стабільність, ніж інші протоколи VPN
 vpn-linux-no-logs = <strong>Без журналів:</strong> { -brand-name-mozilla-vpn } не зберігає жодних записів про вашу діяльність у мережі; ми не записуємо дані про відвідані вами вебсайти й не аналізуємо ваш трафік.
 vpn-linux-additional-security = <strong>Додаткові функції безпеки:</strong> Ми використовуємо блокування реклами, стеження та зловмисних програм на рівні DNS. У той час як браузери здатні протидіяти лише вебсайтам, які можуть містити зловмисні програми або стежити за вами.
 vpn-linux-device-level = <strong>Шифрування на рівні пристрою:</strong> На відміну від деяких інших VPN, які шифрують лише трафік браузера, { -brand-name-mozilla-vpn } шифрує увесь трафік пристрою, включно з тим, що проходить через усі програми та ігри.
@@ -27,11 +25,6 @@ vpn-linux-how-to-install = Як встановити { -brand-name-mozilla-vpn }
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
 vpn-linux-if-you-use-v2 = Якщо ви користуєтеся однією з підтримуваних версій Ubuntu, то можете обрати серед двох способів встановлення офіційних пакунків mozillavpn, розміщених на <a { $attrs }>Launchpad:</a>
-# Obsolete string
-# Variables:
-#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
-# 'mozillavpn' should not be translated as it is the proper name of the package
-vpn-linux-if-you-use = Якщо ви користуєтеся однією з підтримуваних версій Ubuntu, то можете обрати серед двох способів встановлення офіційних пакунків mozillavpn, розміщених на <a { $attrs }>launchpad:</a>
 # Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
 vpn-linux-ubuntu-command = <strong>Режим командного рядка Ubuntu:</strong> Для детальних інструкцій щодо встановлення { -brand-name-mozilla-vpn } за допомогою засобів режиму командного рядка, перегляньте <a { $attrs }>Як встановити { -brand-name-mozilla-vpn } на комп'ютері з Linux</a>.

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use-a-vpn/
@@ -32,7 +32,7 @@ vpn-when-to-use-for-the-most = Voor het grootste deel zijn de bovenstaande scena
 vpn-when-to-use-because-your-internet = Omdat uw internetverkeer thuis van en naar uw apparaten gaat via uw internetprovider – kortweg ISP – kunnen zij zien waar u online rondhangt. Een ISP kan zien welke websites u bezoekt, hoe lang u ze bezoekt en uw locatie en informatie over uw apparaten bekijken. Een ISP weet dankzij versleuteling misschien niet precies wat u op die websites hebt gedaan (zoals wat u hebt gekocht, gezocht of gelezen), maar ze kunnen wel conclusies over u trekken op basis van de websites die u hebt bezocht. Die persoonsgegevens kunnen door ISP’s worden gebruikt om gedetailleerde profielen over u te maken. Navigeren in privémodus verhindert niet dat ISP’s zien waar u online bent. Maar het verzenden van uw internetverkeer via een VPN kan het veel moeilijker maken.
 vpn-when-to-use-make-sure-you = Zorg ervoor dat u begrijpt wat een VPN niet doet
 # Variables
-#   $book (url) - https://www.mozilla.org/firefox/privacy/book/
+#   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
 vpn-when-to-use-a-vpn-provides = Een VPN biedt een belangrijke beveiligingskoppeling door uw privégegevens te beschermen voordat deze via het internet worden verzonden, en verbergt ook uw IP-adres, waardoor uw identiteit en locatie worden beschermd. Het weerhoudt u er echter niet van om op verdachte koppelingen te klikken, malware te downloaden of het slachtoffer te worden van e-mailfraude. U moet nog steeds <a href="{ $book }">goede gewoonten toepassen om online veilig te blijven</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, een betrouwbare VPN-service
 # Variables

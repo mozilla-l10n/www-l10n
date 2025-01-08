@@ -27,10 +27,6 @@ firefox-new-need-help = እርዳታ ይፈልጋሉ?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } በ{ -brand-name-windows } { -brand-name-xp } ወይም { -brand-name-vista }ላይ <a href="{ $url }">ከአሁን በኋላ የደህንነት ማሻሻያዎችን አያቀርብም</a> ፣  ነገር ግን አሁንም { -brand-name-firefox } መጠቀም ይችላሉ።
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = የሚጠቀሙት ደህንነቱ የማያስተማምን፣ ጊዜው ያለፈበት ስርዓተ ክወና <a href="{ $url }">ከአሁን በኋላ በ{ -brand-name-firefox } አይደገፍም</a>።
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -45,8 +41,6 @@ firefox-new-please-follow = { -brand-name-firefox }ን ለመጫን እባክዎ
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = የእርስዎ ስርዓት የ{ -brand-name-firefox } መስፈርቶችን ላያሟላ ይችላል፣ነገር ግን ከ<a href="{ $url }">እነዚህ ስሪቶች</a> አንዱን መሞከር ይችላሉ።
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = ለመጫን እየሞከሩት ያለው መተግበሪያ በ{ -brand-name-microsoft } የተረጋገጠ መተግበሪያ አለመሆኑን የሚገልጽ ማሳወቂያ ካዩ፣ “ለማንኛውም ጫን” ን ጠቅ ያድርጉ ወይም <a { $attrs }>የመተግበሪያ ጥቆማ ቅንብሮችን ይቀይሩ</a >።
@@ -63,4 +57,3 @@ firefox-new-fast = ፈጣን፣ የግል እና ነፃ
 firefox-new-from-mozilla = ከ{ -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } ፈጣን ገጽ መጫን፣ አነስተኛ ማህደረ ትውስታ አጠቃቀም እና ብዙ ባህሪያት ያለው ነፃ የድር አሳሽ ሲሆን - ለትርፍ ያልተቋቋመው የ{ -brand-name-mozilla } ፕሮጀክት ነው ።
 firefox-new-download-a-different = የተለየ መድረክ ወይም ቋንቋ ያውርዱ
-firefox-new-taskbar = { -brand-name-firefox } ከተጫነ በኋላ በ{ -brand-name-windows } የተግባር አሞሌ ላይ ይሰካል።

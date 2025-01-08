@@ -13,14 +13,6 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } sigurno 
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Sa <a { $fxa }>besplatnim { -brand-name-mozilla-account }om</a> možete bezbedno sinhronizovati svoje lozinke na svim svojim uređajima. Također možete pristupiti svim { -brand-name-mozilla }im drugim proizvodima koji poštuju privatnost.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account = Sa <a href="{ $fxa }">besplatnim { -brand-name-mozilla-account }om</a> možete sigurno sinhronizovati svoje lozinke na svim svojim uređajima.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-firefox-account = Sa <a href="{ $fxa }">besplatnim { -brand-name-firefox } računom</a> možete sigurno sinhronizirati svoje lozinke na svim svojim uređajima.
 password-manager-password-autofill-for-easy-logins = Automatsko popunjavanje lozinke za jednostavne prijave
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } može automatski popuniti vaše sačuvano korisničko ime i lozinku. Ako imate više od jedne prijave za web stranici, možete jednostavno odabrati račun koji želite i mi ćemo ga preuzeti odatle.
 # Used as an accessible text alternative for an image

@@ -9,11 +9,6 @@ moz-account-promo-title = Jedno logowanie. <br> <span { $class }>Wszystko, co</s
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
 moz-account-already-have-v2 = Masz już konto? <a { $sign_in_url }>Zaloguj się</a> lub <a { $learn_more_url }>poczytaj</a> o dołączaniu do { -brand-name-mozilla(case: "gen") }.
-# Obsolete string (expires: 2024-09-12)
-# Variables
-#   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
-moz-account-already-have = Masz już konto? <a { $sign_in_url }>Zaloguj się</a> lub <a { $learn_more_url }>poczytaj</a> o { -brand-name-mozilla(case: "loc") }
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
 moz-account-product-pocket = { -brand-name-pocket }

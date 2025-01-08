@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
@@ -44,5 +44,5 @@ firefox-enterprise-sample-plist-for-configuration = Նմուշ <a href="{ $url }
 firefox-enterprise-pkg-installer = PKG տեղադրիչ
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-բիթանոց
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
 firefox-enterprise-download-firefox-esr-or-rapid = Ներբեռնել { -brand-name-firefox-esr }-ը կամ արագ թողարկումը<br> <a href="{ $firefox_all }">այլ լեզվով կամ հարթակով: </a>

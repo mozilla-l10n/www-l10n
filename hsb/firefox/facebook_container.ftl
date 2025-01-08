@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -12,18 +12,11 @@ facebook-container-get-the-facebook-container = Wobstarajće sej rozšěrjenje {
 facebook-container-download-firefox-and-get-the = Sćehńće { -brand-name-firefox } a wobstarajće sej rozšěrjenje { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = Rozšěrjenje { -brand-name-facebook-container } je tuchwilu jenož za { -brand-name-firefox } za desktop k dispoziciji.
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = Wopytajće <a href="{ $url }">{ $link_copy }</a>, zo byšće sej { -brand-name-firefox } za desktop wobstarał.
-# Outdated string
-facebook-container-the-facebook-container-extension = Rozšěrjenje { -brand-name-facebook-container } za mobilne graty k dispoziciji njeje.
 facebook-container-get-firefox-android-ios = Wobstarajće sej nětko { -brand-name-firefox } za { -brand-name-android } a { -brand-name-ios }
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Wužiwajće <strong>{ -brand-name-firefox-focus }</strong>, wobhladowak priwatnosće za { -brand-name-android } a { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Wotpokazanje pod wašimi wuměnjenjemi
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

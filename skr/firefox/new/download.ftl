@@ -59,4 +59,3 @@ firefox-new-fast = تکھا، نجی تے مفت
 firefox-new-from-mozilla = { -brand-name-mozilla } کنوں
 firefox-new-desc = { -brand-name-firefox-browser } ہک مفت ویب براؤزر ہے جیندے وِچ ورقہ دی تکھی لوڈنگ، گھٹ میموری استعمال، تے ٻہوں ساریاں خصوصیات ہن۔ غیر منافع بخش { -brand-name-mozilla } دا ہک پروجیکٹ۔
 firefox-new-download-a-different = مخلتف پلیٹ فارم یا زبان ڈاؤن لوڈ کرو
-firefox-new-taskbar = { -brand-name-firefox } کوں انسٹال کرݨ دے بعد { -brand-name-windows } ٹاسک بار وِچ پن کیتا ویسے

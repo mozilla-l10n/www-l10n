@@ -10,8 +10,6 @@ cookie-settings-page-desc = Esta página describe los diferentes tipos de cookie
 cookie-settings-breadcrumb-link = Página anterior
 cookie-settings-explainer = Las cookies son pequeños archivos que contienen información que se guardan en tu computador o dispositivo cuando visitas un sitio web. { -brand-name-mozilla } utiliza cookies para ayudar a que nuestros sitios web funcionen, así como para recopilar información sobre cómo usas e interactúas con nuestros sitios web, como las páginas que visitas.
 cookie-settings-page-intro-v2 = Esta página describe los diferentes tipos de cookies y tecnologías similares como etiquetas de píxeles, beacons web, GIF transparentes, JavaScript y almacenamiento local (en adelante, “Cookies”) que { -brand-name-mozilla } puede usar y te da control sobre qué tipo de datos aceptas que recopile { -brand-name-mozilla }.
-# Obsolete string (expires: 2024-07-01)
-cookie-settings-page-intro = Esta página describe los diferentes tipos de cookies y tecnologías similares (como etiquetas de píxeles, beacons web, GIF transparentes, JavaScript y almacenamiento local) (“Cookies”) que { -brand-name-mozilla } puede usar y te da control sobre qué tipo de datos aceptas que recopile { -brand-name-mozilla }.
 cookie-settings-how-mozilla-heading = Cómo { -brand-name-mozilla } utiliza las cookies
 cookie-settings-how-does-mozilla-use-subheading = ¿Cómo utiliza { -brand-name-mozilla } estos datos?
 cookie-settings-save-changes = Guardar cambios

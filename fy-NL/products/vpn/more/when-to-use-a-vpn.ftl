@@ -32,7 +32,7 @@ vpn-when-to-use-for-the-most = Foar it grutste part binne de boppesteande senari
 vpn-when-to-use-because-your-internet = Omdat jo ynternetferkear thús fanen en nei jo apparaten giet fia jo ynternetserviceprovider – koart sein ISP –, kinne sy sjen wêr’t jo online binne. In ISP kin sjen hokker websites jo besykje hoe lang jo se besykje, wat jo lokaasje is en ynformaasje oer jo apparaten sjen kin. In ISP wit miskien mei tank oan fersifering net krekt wat jo op dy websites dien hawwe (lykas wat jo kocht, socht of lêzen hawwe), mar kin wol konklúzjes oer jo lûke op basis fan de websites dy’t jo besocht hawwe. Dy persoansgegevens kinne brûkt wurde om detaillearre profilen oer jo oan te meitsjen. Navigearjen yn priveemodus ferhinderet net dat ISP’s sjogge wêr’t jo online binne. Mar it ferstjoeren fan jo ynternetferkear fia in VPN kin it folle swierder meitsje.
 vpn-when-to-use-make-sure-you = Soargje derfoar dat jo begripe wat in VPN net docht
 # Variables
-#   $book (url) - https://www.mozilla.org/firefox/privacy/book/
+#   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
 vpn-when-to-use-a-vpn-provides = In VPN biedt in wichtige befeiligingskeppeling troch jo priveegegevens te beskermjen eardat dizze fia it ynternet ferstjoerd wurde, en ferberget ek jo IP-adres, wêrtroch jo identiteit en lokaasje beskerme wurde. It hâldt jo echter net tsjin om op fertochte keppelingen te klikken, malware te downloaden of it slachtoffer te wurden fan e-mailfraude. Jo moatte noch hieltyd <a href="{ $book }">goede gewoanten tapasse om online feilich te bliuwen</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, in betroubere VPN-tsjinst
 # Variables

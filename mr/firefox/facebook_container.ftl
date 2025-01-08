@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -10,9 +10,6 @@ facebook-container-millions-of-people-around = Mac, Windows and Linux संग�
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. पूर्णपणे ताब्यात. आपले इतर आयुष्य आपल्यासोबतच राहूद्या.
 facebook-container-get-the-facebook-container = Facebook कंटेनर विस्तार मिळवा
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } डाउनलोड करा आणि फेसबुक कंटेनर विस्तार मिळवा
-facebook-container-the-facebook-container-extension = Facebook कंटेनर विस्तार मोबाइल उपकरणांवर उपलब्ध नाही.
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = <strong>Forefox Focus</strong> वापरून पहा, { -brand-name-android } आणि { -brand-name-ios } साठी गोपनीय ब्राउझर.
 facebook-container-opt-out-on-your-terms = आपल्या अटींवर सोडा
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

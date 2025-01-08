@@ -44,5 +44,5 @@ firefox-enterprise-sample-plist-for-configuration = Minta <a href="{ $url }">pli
 firefox-enterprise-pkg-installer = PKG telepítő
 firefox-enterprise-windows-32-bit = 32 bites { -brand-name-windows }
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
 firefox-enterprise-download-firefox-esr-or-rapid = A { -brand-name-firefox-esr } vagy gyors kiadású verzió letöltése egy<br> <a href="{ $firefox_all }">másik nyelvre vagy platformra.</a>

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 send-to-device-send-firefox = Envie o { -brand-name-firefox } para o seu smartphone ou tablet
 send-to-device-your-download-link = O link para baixar foi enviado.

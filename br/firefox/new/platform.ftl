@@ -15,7 +15,7 @@ new-platform-2x-faster = 2x Buanoc'h
 new-platform-download-in-another = Pellgargañ en ur yezh all
 new-platform-need-help = Ezhomm skoazell?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = Pellgargañ { -brand-name-mozilla } { -brand-name-firefox } evit { -brand-name-linux }
 

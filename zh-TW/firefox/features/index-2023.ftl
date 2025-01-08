@@ -11,10 +11,6 @@ features-index-firefox-browser-features = { -brand-name-firefox } 瀏覽器功�
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } 是一套快速、輕量級、保護隱私的瀏覽器，在您的所有裝置上都能使用。
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } 越來越快
 features-index-the-latest-browser-speed-benchmarks = 最新的瀏覽器速度基準測試證明 { -brand-name-firefox } 的運作比以往更快。
-# Obsolete string
-features-index-is-firefox-a-fast-browser = { -brand-name-firefox } 是一套快速的瀏覽器嗎？
-# Obsolete string
-features-index-firefox-uses-less-memory-than = { -brand-name-firefox } 使用的記憶體比 Chrome 還少，讓您的其他應用程式能夠保持全速運轉。
 features-index-is-firefox-a-private-browser = { -brand-name-firefox } 是一套能保護隱私的瀏覽器嗎？
 features-index-were-focused-on-your-right-to = 我們專注於您的隱私權。您的資料、您的上網行為、您的線上生活，全部都受到 { -brand-name-firefox } 保護。
 features-index-free-password-manager = 免費密碼管理員
@@ -42,7 +38,5 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } 會自動�
 features-index-ditch-the-sticky-ads = 使用 { -brand-name-firefox } 內建的數位指紋追蹤封鎖器把煩人的廣告趕走。
 features-index-translate-the-web = 翻譯網頁內容
 features-index-translate-websites-to-your = 直接在 { -brand-name-firefox } 瀏覽器中將網站翻譯為您的語言，不需要與任何人分享資料。
-# Obsolete string
-features-index-translate-more-than = 直接在 { -brand-name-firefox } 瀏覽器中將網頁翻譯超過 100 種語言，比以往更方便。
 features-index-picture-in-picture = 子母畫面
 features-index-got-things-to-do = 想要一邊做事情又一邊看影片嗎？使用 { -brand-name-firefox } 的子母畫面功能同時做兩件事。

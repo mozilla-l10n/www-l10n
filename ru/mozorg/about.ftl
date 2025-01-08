@@ -33,9 +33,6 @@ about-with-offices-all-over-the = Имея <a href="{ $url }">офисы по в
 about-san-francisco = Сан-Франциско
 about-talking-tech-issues-irl = Обсуждение технических проблем в реальной жизни
 about-in-mozillas-multi-award-winning = В удостоенном множества наград подкасте { -brand-name-mozilla } ведущая Бриджит Тодд беседует с людьми, формирующими будущее Интернета и искусственного интеллекта.
-# Obsolete strings (remove in 1-2 months)
-about-talking-internet-issues-irl = ILR-подкаст «Обсуждение проблем Интернета»
-about-in-mozillas-irl-podcast-host = В этом IRL-подкасте { -brand-name-mozilla }, докладчик Manoush Zomorodi делится историями из своей онлайн-жизни и говорит о будущем Интернета.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> гостей приглашается каждый год
 about-berlin = Берлин

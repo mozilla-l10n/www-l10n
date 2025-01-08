@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } è stato 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Internet cresce e cambia, ma per { -brand-name-firefox } il diritto alla privacy degli utenti rimane un punto fermo. Lo chiamiamo <a { $attrs }>Impegno per i dati personali</a>: raccogli meno dati, mantienili al sicuro, nessun segreto. Con { -brand-name-firefox }, i tuoi dati, le tue attività sul Web e la tua vita online sono protetti.
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } è disponibile per tutti i tuoi dispositivi; porta con te schede, cronologia e segnalibri. Ti basta un <a { $attrs }>account { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } è disponibile per tutti i tuoi dispositivi; porta con te schede, cronologia e segnalibri. Ti basta un <a { $attrs }>{ -brand-name-mozilla-account }</a> per accedere alla sincronizzazione e sfruttare gli altri prodotti { -brand-name-mozilla }.
@@ -147,8 +143,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Domande? Il <a { $attrs }>supporto { -brand-name-mozilla }</a> è a tua completa disposizione.
 firefox-desktop-download-watch-for-hackers-with-v3 = Tieni sotto controllo gli hacker con { -brand-name-mozilla-monitor }, proteggi il tuo indirizzo email con { -brand-name-firefox-relay } e altro ancora.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Tieni sotto controllo gli hacker con { -brand-name-firefox-monitor }, proteggi il tuo indirizzo email con { -brand-name-firefox-relay } e altro ancora.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -186,4 +180,3 @@ firefox-desktop-download-please-follow = Segui <a href="{ $url }">queste istruzi
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Anche se il tuo sistema non possiede i requisiti per utilizzare { -brand-name-firefox }, puoi comunque provare con una delle <a href="{ $url }">seguenti versioni</a>.
-firefox-desktop-download-taskbar = { -brand-name-firefox } verrà aggiunto alla barra delle applicazioni di { -brand-name-windows } dopo l’installazione

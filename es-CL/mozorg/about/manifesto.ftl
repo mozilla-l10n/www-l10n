@@ -52,8 +52,6 @@ manifesto-we-are-committed-to-diverse = Estamos comprometidos con un internet qu
 manifesto-show-your-support = Muestra tu apoyo
 manifesto-an-internet-with-these = Un internet con estas cualidades no sucederá por si solo. Las personas y las organizaciones deben incluir estas aspiraciones a la tecnología de internet y a la experiencia humana en internet. El manifiesto y los principios de { -brand-name-mozilla } representan nuestro compromiso para avanzar en estas aspiraciones. Buscamos trabajar junto a personas y organizaciones de todas partes, las que comparten nuestras metas y hacen de internet un mejor lugar para todos.
 manifesto-i-support-the-vision-of = Yo apoyo la visión de un internet mejor y más saludable de @mozilla, ¿y tú?
-# Obsolete string
-manifesto-share-on-twitter = Compartir en { -brand-name-twitter }
 manifesto-share-on-x = Compartir en X
 manifesto-share-on-x-aria-label = Compartir en X (ex Twitter)
 manifesto-our-10-principles = <strong>Nuestros 10</strong> principios

@@ -12,8 +12,6 @@ vpn-linux-linux-is-free = Linux is fergees, iepen boarne en oanpasber, mar it is
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } is in firtuele privee netwurk-tsjinst dy’t de meast moderne iepen boarne fersifering brûkt en gjin fan jo netwurkaktiviteiten locht, folget of dielt. It lit jo ferbine mei mear as 500 servers yn mear as 30 lannen.
 vpn-linux-why-choose = Wêrom kieze { -brand-name-mozilla-vpn } foar Linux?
 vpn-linux-fast-and-v2 = <strong>Fluch en betrouber:</strong> { -brand-name-mozilla-vpn } brûkt it { -brand-name-wireguard }® protokol, dat bettere prestaasjes en stabiliteit biedt as oare VPN-protokollen.
-# Obsolete string
-vpn-linux-fast-and = <strong>Fluch en betrouber:</strong> { -brand-name-mozilla-vpn } brûkt it { -brand-name-wireguard }® protokol, dat bettere prestaasjes en stabiliteit biedt as oare VPN-protokollen
 vpn-linux-no-logs = <strong>Gjin lochboeken:</strong> { -brand-name-mozilla-vpn } hâldt gjin lochboeken fan jo netwurkaktiviteit by; wy registrearje net hokker websites jo besykje en ynspektearje jo ferkear net.
 vpn-linux-additional-security = <strong>Oanfoljende befeiligingsfunksjes:</strong> wy brûke DNS-blokkearring om advertinsjes, trackers en malware te blokkearjen. Wylst in browser allinnich foarkomme kin dat websites jo malware leverje en jo folgje.
 vpn-linux-device-level = <strong>Fersifering op apparaatnivo:</strong> oars as VPN’s dy’t allinnich jo sneupferkear fersiferje, fersiferet { -brand-name-mozilla-vpn } al it ferkear fan jo apparaat, ynklusyf al jo applikaasjes en spultsjes.
@@ -27,11 +25,6 @@ vpn-linux-how-to-install = { -brand-name-mozilla-vpn } ynstallearje op Linux
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
 vpn-linux-if-you-use-v2 = As jo ien fan de stipe Ubuntu-releases brûke, binne der twa manieren om mozillavpn-pakketten te ynstallearjen dy’t host wurde op <a { $attrs }>Launchpad:</a>
-# Obsolete string
-# Variables:
-#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
-# 'mozillavpn' should not be translated as it is the proper name of the package
-vpn-linux-if-you-use = As jo ien fan de stipe Ubuntu-releases brûke, binne der twa manieren om mozillavpn-pakketten te ynstallearjen dy’t host wurde op <a { $attrs }>launchpad:</a>
 # Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
 vpn-linux-ubuntu-command = <strong>Ubuntu kommandorigelmodus:</strong> gean foar detaillearre ynstruksjes oer hoe’t jo { -brand-name-mozilla-vpn } ynstallearje mei helpmiddels foar kommandorigelmodus, nei <a { $attrs }>Hoe kinne jo { -brand-name-mozilla-vpn } op in Linux-kompjûter ynstallearje</a>.

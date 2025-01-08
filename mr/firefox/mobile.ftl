@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
@@ -23,9 +23,6 @@ firefox-mobile-discover-products-that-keep = आपल्याला सुर�
 firefox-mobile-sync-your-history-passwords = आपला इतिहास, पासवर्ड आणि वाचनखूणा सिंक करा. आपल्या सर्व उपकरणांवर टॅब पाठवा.
 firefox-mobile-android-only = केवळ { -brand-name-android }
 firefox-mobile-make-android-your-own = { -brand-name-android } ला स्वतःचे बनवा
-# Variables:
-#   $promise (url) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-mobile-customize-your-firefox-mobile = जाहिरात अवरोधन, पासवर्ड व्यवस्थापन, { -brand-name-facebook } ला तुमचा मागोवा घेण्यापासून रोखणे अशा अनेक गोष्टींसाठी <a href="{ $url }"> एक्सटेन्शनसह </a> आपला { -brand-name-firefox } मोबाइल ब्राउझर सानुकूलित करा.
 firefox-mobile-find-it-fast-with-a-smart = स्मार्ट शोध बारसह हे जलद शोधा
 firefox-mobile-the-privacy-you-deserve-the = आपल्यास पात्र अशी गोपनीयता. आपल्याला आवश्यक असा वेग.
 firefox-mobile-get-firefox-for-mobile = { -brand-name-firefox } मोबाइल मिळवा

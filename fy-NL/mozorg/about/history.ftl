@@ -7,7 +7,7 @@
 
 history-history-of-the-mozilla-project = Skiednis fan it { -brand-name-mozilla }-projekt
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = It { -brand-name-mozilla }-projekt is <a href="{ $coderush }">yn 1998 start</a> mei de <a href="{ $sourcerelease }">frijjefte fan de boarnekoade fan it { -brand-name-netscape }-browserpakket</a>.
 history-it-was-intended-to-harness = It wie bedoeld om de kreative krêft fan tûzenen programmeurs op it ynternet te bondeljen en in ferskuorrend ynnovaasjenivo yn de browsermerke te stimulearjen.

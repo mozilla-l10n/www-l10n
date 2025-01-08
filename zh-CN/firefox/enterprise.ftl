@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
@@ -44,5 +44,5 @@ firefox-enterprise-sample-plist-for-configuration = 配置文件的 <a href="{ $
 firefox-enterprise-pkg-installer = PKG 安装包
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 位
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
 firefox-enterprise-download-firefox-esr-or-rapid = 下载 { -brand-name-firefox-esr } 或快速发行版<br> <a href="{ $firefox_all }">其他语言和平台。</a>

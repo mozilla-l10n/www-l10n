@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -13,7 +13,7 @@ what-is-firefox = D acu-t { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 how-do-i = Amek ara xedmeɣ akken ad d-awiɣ { -brand-name-firefox-browser }?
 
@@ -40,7 +40,7 @@ is-firefox-safe-download = { -brand-name-firefox } d aɣellsan i usader?
 is-firefox-safe = { -brand-name-firefox } yettwaḍman?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 does-firefox-sell = { -brand-name-firefox } isnuzuy isefka-inek·inem udmawanen?
 
@@ -56,11 +56,6 @@ does-firefox-use = { -brand-name-firefox } isseqdac { -brand-name-google }?
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
 does-firefox-have = { -brand-name-firefox } qur-s VPN usliɣ?
-
-# Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
 related-questions-ip = Isteqsiyen yeqqnen: { -brand-name-firefox } iteffer tansa-inek·inem IP
 who-owns-firefox = Anwa i d bab n { -brand-name-firefox }?
 

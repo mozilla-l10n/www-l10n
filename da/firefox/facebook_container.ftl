@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -16,12 +16,7 @@ facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = Besøg <a href="{ $url }">{ $link_copy }</a> for at hente { -brand-name-firefox } til computer.
-# Outdated string
-facebook-container-the-facebook-container-extension = Udvidelsen { -brand-name-facebook-container } er ikke tilgængelig til mobile enheder.
 facebook-container-get-firefox-android-ios = Hent { -brand-name-firefox } til { -brand-name-android } og { -brand-name-ios } nu.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Prøv <strong>{ -brand-name-firefox-focus }</strong>, en browser til { -brand-name-android } og { -brand-name-ios } fokuseret på at beskytte dit privatliv.
 facebook-container-opt-out-on-your-terms = Sig fra på dine vilkår
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

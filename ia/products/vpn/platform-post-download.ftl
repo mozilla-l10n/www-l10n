@@ -54,19 +54,10 @@ vpn-download-faq-working = Como sape io si le VPN functiona?
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.mozilla.org/
 vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } monstra indicatores visual de su stato actual, sia in le barra del instrumentos que in le pagina initial del application, rendente facile saper si tu activitate online es protegite o non. Iste indicatores te permitte de confirmar quando tu navigation es private e secur. In addition, per le connexion, tu pote visitar <a href="{ $monitor }">https://monitor.mozilla.org/</a> pro confirmar si tu adresse IP es disguisate. Pro altere detalios, vide <a href="{ $connected }">Como pote io dicer si { -brand-name-mozilla-vpn } es connectite?</a>.
-# Obsolete string
-# Variables:
-#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
-#   $monitor (url) link to https://monitor.firefox.com/
-vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } monstra indicatores visual de su stato actual, sia in le barra del instrumentos que in le pagina initial del application, rendente facile saper si tu activitate online es protegite o non. Iste indicatores te permitte de confirmar quando tu navigation es private e secur. In addition, per le connexion, tu pote visitar <a href="{ $monitor }">https://monitor.firefox.com/</a> pro confirmar si tu adresse IP es disguisate. Pro altere detalios, vide <a href="{ $connected }">Como pote io dicer si { -brand-name-mozilla-vpn } es connectite?</a>.
 vpn-download-faq-add-device = Como adde io un altere apparato?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v3 = Adder un altere apparato es tanto simple como discargar e installar le software de { -brand-name-mozilla-vpn } e pois acceder in tu { -brand-name-mozilla-account } existente sur le nove apparato. Pro altere detalios, vide <a href="{ $subscription }">Como adder apparatos a tu abonamento { -brand-name-mozilla-vpn }</a>.
-# Obsolete string
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v2 = Adder un altere apparato es tanto simple como discargar e installar le software de { -brand-name-mozilla-vpn } e pois acceder in tu { -brand-name-firefox-account } existente sur le nove apparato. Pro altere detalios, vide <a href="{ $subscription }">Como adder apparatos a tu abonamento { -brand-name-mozilla-vpn }</a>.
 vpn-download-faq-best-practices = Qual es alcun melior practicas de VPN?
 vpn-download-faq-traffic = Si tu objectivo es de proteger tu traffico internet mantenente un alte velocitate, alora il es sempre melio eliger un position de servitor que es quanto plus possibile proxime a tu position physic. Isto accrescera le fidibilitate e velocitate de tu connexion, nam tu traffico internet non besoniara de prender un significante deviation ante arrivar a su destination desirate sur le Web.
 vpn-download-faq-experience = Si tu objectivo es de experimentar internet como si tu era in alcun altere parte del mundo, tu pote eliger illac un position de servitor, e tote le sitos web que tu visita apparera como si tu era illac.

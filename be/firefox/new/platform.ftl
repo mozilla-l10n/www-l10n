@@ -17,7 +17,7 @@ new-platform-advanced-install-options = Пашыраныя магчымасці 
 new-platform-download-in-another = Сцягнуць на іншай мове
 new-platform-need-help = Патрэбна дапамога?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = Сцягнуць { -brand-name-mozilla } { -brand-name-firefox } для { -brand-name-linux }
 # /firefox/linux/ HTML page description

@@ -44,5 +44,5 @@ firefox-enterprise-sample-plist-for-configuration = <a href="{ $url }">plist ต
 firefox-enterprise-pkg-installer = ตัวติดตั้ง PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 บิต
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
 firefox-enterprise-download-firefox-esr-or-rapid = ดาวน์โหลด { -brand-name-firefox-esr } หรือ Rapid Release ใน<br> <a href="{ $firefox_all }">ภาษาหรือแพลตฟอร์มอื่น</a>

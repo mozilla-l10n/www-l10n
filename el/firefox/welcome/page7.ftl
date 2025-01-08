@@ -18,9 +18,5 @@ page7-that-sneaky-little-button = Αυτό το ύπουλο μικρό κουμ
 page7-those-innocent-looking-f-buttons = Αυτά τα, φαινομενικά, αθώα κουμπιά του { -brand-name-facebook } καταγράφουν τη δραστηριότητά σας, ακόμα κι αν δεν έχετε λογαριασμό. Το { -brand-name-facebook-container } τα αποκλείει.
 page7-stay-ahead-of-hackers = Μείνετε μακριά από χάκερ
 page7-firefox-monitor-lets-you-find-v2 = Το { -brand-name-mozilla-monitor } σάς επιτρέπει να μάθετε τι μπορεί να γνωρίζουν ήδη οι χάκερ για εσάς και να βρίσκεστε ένα βήμα μπροστά από αυτούς. (Και είναι δωρεάν.)
-# Obsolete string
-page7-firefox-monitor-lets-you-find = Το { -brand-name-firefox-monitor } σάς επιτρέπει να μάθετε τι μπορεί να γνωρίζουν ήδη οι χάκερ για εσάς και να βρίσκεστε ένα βήμα μπροστά από αυτούς. (Και είναι δωρεάν.)
 page7-get-mozilla-monitor = Απόκτηση του { -brand-name-mozilla-monitor }
-# Obsolete string
-page7-get-firefox-monitor = Λήψη του { -brand-name-firefox-monitor }
 page7-why-am-i-seeing-this = Γιατί το βλέπω αυτό;

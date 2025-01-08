@@ -13,8 +13,6 @@ features-private-browsing-firefox-protects = { -brand-name-firefox } bảo vệ 
 features-private-browsing-if-you-share-a-computer = Nếu bạn dùng chung máy tính với người khác hoặc nếu bạn muốn giới hạn lượng dữ liệu mà các trang web có thể thu thập về bạn, bạn có thể sử dụng chế độ duyệt web riêng tư trong { -brand-name-firefox }. Duyệt web riêng tư sẽ xóa các dấu vết kỹ thuật số bạn để lại khi duyệt trực tuyến — hãy nghĩ về chúng như những dấu chân xuyên qua rừng.
 features-private-browsing-what-does-private-browsing-do = Duyệt web riêng tư làm được những gì?
 features-private-browsing-private-browsing-mode-opens-v2 = Chế độ duyệt web riêng tư sẽ mở ra một cửa sổ trình duyệt mới. Khi bạn đóng cửa sổ duyệt web riêng tư cuối cùng, lịch sử duyệt web của bạn và mọi cookie theo dõi từ các trang web bạn đã truy cập sẽ bị xóa. <strong>Mẹo từ { -brand-name-firefox }:</strong> Đừng quên đóng tất cả các cửa sổ duyệt web riêng tư khi bạn hoàn tất!
-# Obsolete string (expires: 2024-07-18)
-features-private-browsing-private-browsing-mode-opens = Chế độ duyệt web riêng tư sẽ mở ra một cửa sổ trình duyệt mới. Khi bạn đóng nó, lịch sử duyệt web của bạn cho cửa sổ đó và mọi cookie theo dõi từ các trang web bạn đã truy cập sẽ bị xóa. <strong>Mẹo từ { -brand-name-firefox }:</strong> Đừng quên đóng cửa sổ duyệt web riêng tư khi bạn đã hoàn tất!
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = Một cửa sổ trình duyệt { -brand-name-firefox } ở chế độ duyệt web riêng tư.
 features-private-browsing-what-private-browsing-doesnt-do = Duyệt web riêng tư không làm được những gì

@@ -12,8 +12,6 @@ vpn-linux-linux-is-free = Linux 自由、开源、易于定制，但也不能免
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } 是一项虚拟专用网络服务，采用先进且开源的加密技术，不会记录、跟踪、共享您的网络活动。您可以借助 { -brand-name-mozilla-vpn } 连接至 30 余个国家和地区的 500 多台服务器。
 vpn-linux-why-choose = 为 Linux 量身打造的 { -brand-name-mozilla-vpn } 好在哪？
 vpn-linux-fast-and-v2 = <strong>连接高速可靠：</strong>{ -brand-name-mozilla-vpn } 采用 { -brand-name-wireguard }® 协议，相较其他 VPN 协议更高效、更稳定。
-# Obsolete string
-vpn-linux-fast-and = <strong>连接高速可靠：</strong>{ -brand-name-mozilla-vpn } 采用 { -brand-name-wireguard }® 协议，相较其他 VPN 协议更高效、更稳定。
 vpn-linux-no-logs = <strong>活动没有记录：</strong>{ -brand-name-mozilla-vpn } 不会记录您的任何网络活动。也就是说，我们不会记录您访问过的网站，也不会窥视您的网络流量。
 vpn-linux-additional-security = <strong>附加安全功能：</strong>浏览器只能防止网站向您提供恶意软件及跟踪您的活动，而我们可以通过 DNS 来拦截广告、跟踪器及恶意软件。
 vpn-linux-device-level = <strong>设备端全加密：</strong>有些 VPN 只会加密浏览器的流量，而 { -brand-name-mozilla-vpn } 能够加密整部设备的流量，所有应用程序和游戏都得到保护。
@@ -27,11 +25,6 @@ vpn-linux-how-to-install = 在 Linux 上安装 { -brand-name-mozilla-vpn }
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
 vpn-linux-if-you-use-v2 = 如果您使用的是受支持的 Ubuntu 版本，则有两种方式来安装托管在 <a { $attrs }>Launchpad</a> 上的 mozillavpn 官方软件包 ：
-# Obsolete string
-# Variables:
-#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
-# 'mozillavpn' should not be translated as it is the proper name of the package
-vpn-linux-if-you-use = 如果您使用的是受支持的 Ubuntu 版本，则有两种方式来安装托管在 <a { $attrs }>Launchpad</a> 上的 mozillavpn 官方软件包 ：
 # Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
 vpn-linux-ubuntu-command = <strong>Ubuntu 命令行模式：</strong>有关使用命令行安装 { -brand-name-mozilla-vpn } 的详细指引，请见<a { $attrs }>在 Linux 计算机上安装 { -brand-name-mozilla-vpn }</a>。

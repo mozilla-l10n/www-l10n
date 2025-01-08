@@ -32,7 +32,7 @@ vpn-when-to-use-for-the-most = Hetave jey, umi mba’e ojehuva’ekue ndoikói �
 vpn-when-to-use-because-your-internet = Nde jeike Ñandutípe nde róga guive oku’e ne mba’e’okápe Ñanduti Mba’eporu Me’ẽhára rupive — ISP emomichĩ hag̃ua — ha’ekuéra ohecha nde jeike ñandutípe. Peteĩ ISP ikatu ohecha pe tenda eikeha, mboy aravópa eiporu, ne rendaite ha marandu ne mba’e’oka rehegua. Peteĩ ISP ikatu ndoikuaái mba’emimivéva ejapova’ekue umi tendápe (mba’épa ejogua, eheka térã emoñe’ẽra’e) papapy reko rupive, hákatu oikuaáta katuete nde rehegua umi tenda eikehague rupive. Umi mba’ekuaarã nemba’eteéva oiporukuaa omoheñói hag̃ua mba’ete japuguáva nde reheguaite. ¿Mba’érepa umi ISP ikatu ojapo umíva? Mbykymi: ko’ã mba’ekuaarã iporã añetehápe.
 vpn-when-to-use-make-sure-you = Eikuaaporãva’erã pe VPN ojapokuaa’ỹva
 # Variables
-#   $book (url) - https://www.mozilla.org/firefox/privacy/book/
+#   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
 vpn-when-to-use-a-vpn-provides = VPN ome’ẽ joajuha hekorosãva omo’ãvo ne mba’ekuaarãite ñemiguáva oho mboyve ñandutípe ha avei oñomi nde IP kundaharape, oipytyvõvo omo’ã nde reratee ha ne rendaite avei. Upéicha rupi, ndojokomo’ãi eikutúvo juajuha ivaikuaáva, emboguejývo malware térã eñembotavývo ñanduti veve rupive. Ejapoveva’erã gueteri <a href="{ $book }">tembiapo porã ne rekorosã hag̃ua tapiaite ñandutípe</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, ha’e VPN ejeroviakuaaha
 # Variables

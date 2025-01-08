@@ -92,12 +92,8 @@ newsletters-love-the-web-so-do-we = 喜愛 Web 嗎？我們也是！
 newsletters-unlock-the-world-of-web = 透過 { -brand-name-mozilla } 開發者電子報探索網頁開發的世界。每週的電子報當中都會帶給您程式寫作技巧、最佳實踐、{ -brand-name-mdn } 最新消息、新技術資訊、開發工具使用秘訣等豐富資訊。
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-make-the-most = 發揮 { -brand-name-firefox } 的最大威力
-# Obsolete string (expires: 2024-11-01)
-newsletters-put-more-fox-in-your-inbox = 在收件匣裡面多塞一點狐狸。
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-sign-up-to-receive-monthly = 註冊後即可接收來自 { -brand-name-firefox } 的每月最新資訊，以及能夠幫助您打造線上生活的網路趨勢。
-# Obsolete string (expires: 2024-11-01)
-newsletters-see-where-the-web-can-take = 看看 Web 能做到什麼程度，以及 { -brand-name-firefox } 秘訣、網路最新情報的每月電子報。
 newsletters-we-are-sorry-but-there = 很抱歉，我們的系統發生問題，請稍候再試一次！
 newsletters-thanks-for-updating-your = 感謝您調整收信偏好。
 newsletters-success-an-email-has-been-sent = 成功！已經將偏好中心的鏈結寄出給您，多謝了！

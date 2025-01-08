@@ -31,7 +31,7 @@ browser-history-the-browser-wars = Cuộc chiến trình duyệt
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = Đến năm 1995, { -brand-name-netscape } Navigator không phải là cách duy nhất để kết nối mạng. Gã khổng lồ phần mềm máy tính { -brand-name-microsoft } đã cấp phép cho mã Mosaic cũ và xây dựng cửa sổ riêng cho web, <a href="{ $ie }">{ -brand-name-ie }</a>. Bản phát hành đã châm ngòi cho một cuộc chiến. { -brand-name-netscape } và { -brand-name-microsoft } đã làm việc tích cực để tạo ra các phiên bản mới của chương trình của họ, mỗi bên đều cố gắng vượt lên bên kia bằng các sản phẩm nhanh hơn, tốt hơn.
 # Variables:
-#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = { -brand-name-netscape } đã tạo và phát hành JavaScript, cung cấp cho các trang web khả năng tính toán mạnh mẽ mà họ chưa từng có trước đây. (Họ cũng làm cho <a href="{ $blink }">thẻ &lt;blink&gt;</a> khét tiếng.) { -brand-name-microsoft } đối kháng với Trang tính kiểu xếp tầng (CSS), trở thành tiêu chuẩn cho thiết kế trang web.
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1

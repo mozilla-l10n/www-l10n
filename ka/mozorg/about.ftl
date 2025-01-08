@@ -33,9 +33,6 @@ about-with-offices-all-over-the = <a href="{ $url }">დაწესებულ
 about-san-francisco = სან-ფრანცისკო
 about-talking-tech-issues-irl = ტექნოლოგიების შესახებ განხილვა ნამდვილ სამყაროში
 about-in-mozillas-multi-award-winning = { -brand-name-mozilla }-ს არაერთი ჯილდოს მფლობელ პოდკასტში, წამყვანი ბრიჯიტ ტოდი ესაუბრება ხალხს, რომელთაც ინტერნეტისა და ხელოვნური ინტელექტის მომავლის ჩამოყალიბებაში შეაქვთ წვლილი.
-# Obsolete strings (remove in 1-2 months)
-about-talking-internet-issues-irl = საუბრები ინტერნეტის შესახებ – IRL
-about-in-mozillas-irl-podcast-host = { -brand-name-mozilla }-ს IRL-პოდკასტი, რომელსაც ხელმძღვანელობს Manoush Zomorodi უზიარებს ხალხს ნამდვილ ამბებს ინტერნეტთან დაკავშირებით და განიხილავს საკითხებს, ვებსივრცის მომავლის შესახებ.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> სტუმარი მიიღება ყოველწლიურად
 about-berlin = ბერლინი

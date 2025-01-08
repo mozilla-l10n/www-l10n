@@ -13,7 +13,7 @@ what-is-firefox = { -brand-name-firefox } 是什麼？
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = { -brand-name-firefox-browser }是唯一一套由非營利組織開發，且不會將您的個人資料賣給廣告商，還能幫助保護您的個人資訊的主要瀏覽器。了解有關 <a href="{ $url }">{ -brand-name-firefox-browsers }</a>與<a href="{ $url2 }">其他產品</a>的更多資訊。
 how-do-i = 要如何安裝 { -brand-name-firefox-browser }？
@@ -46,7 +46,7 @@ protecting-your-privacy = 對我們來說，保護您的隱私是第一要務，
 is-firefox-safe = { -brand-name-firefox } 用起來安全嗎？
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = 除了 { -brand-name-firefox } 用起來很安全之外，也能幫助您確保個人資料、隱私資訊的安全。{ -brand-name-firefox-browser }會自動封鎖已知的第三方追蹤器、社交網路追蹤器、加密貨幣採礦程式、數位指紋追蹤程式來收集您的資料。<a href="{ $url }">了解我們的產品當中的隱私權的更多資訊。</a>
 related-questions-safe = 相關問題: { -brand-name-firefox } 對保護隱私權做得好嗎？、{ -brand-name-firefox } 安全嗎？、{ -brand-name-firefox } 對保護隱私權做得更好嗎？

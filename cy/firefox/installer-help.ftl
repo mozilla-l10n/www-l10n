@@ -19,10 +19,6 @@ installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc-v2 = Cael y diweddaraf. Mae preifatrwydd awtomatig yma. Llwythwch i lawr { -brand-name-firefox } i rwystro dros { $trackers } o dracwyr.
-# Obsolete string (expires: 2024-05-14)
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Defnyddiwch y diweddaraf. Mae preifatrwydd awtomatig i'w gael yma. Llwythwch { -brand-name-firefox-browser } i lawr i rwystro dros { $trackers } o dracwyr.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Profwch nodweddion i'w rhyddhau yn yr adeiladaeth cyn-rhyddhau mwyaf sefydlog.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/thanks/
@@ -22,8 +22,6 @@ set-as-default-thanks-youre-all-set = At ütz chik.
 set-as-default-thanks-get-firefox-for-mobile = Tak'ulu' { -brand-name-firefox } richin oyonib'äl
 set-as-default-thanks-travel-the-internet-with = Ütz katok pa k'amaya'l rik'in chajinïk pa taq awokisab'al.
 set-as-default-thanks-download-the-app = Tiqasäx ri chokoy
-set-as-default-thanks-join-firefox = Tatunu' awi' rik'in { -brand-name-firefox }
-set-as-default-thanks-sign-up-for-a-free-account = Tatz'ib'aj ab'i' richin nak'ül jun sipan rub'i' ataqoya'l richin ye'axïm ronojel ri ewan taq atzij, runatab'al awokem pa k'amaya'l chuqa' ri taq awajowab'al pa taq awokisaxel.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Tik'ul jun Rub'i' Taqoya'l
 set-as-default-thanks-having-trouble = ¿La k'o k'ayewal?

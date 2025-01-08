@@ -5,7 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
 
-# HTML page title
-compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } వర్సెస్ { -brand-name-chrome }: ఏది మెరుగైనది?
-# Main title.
-compare-chrome-comparing-firefox-browser = { -brand-name-firefox-browser }ని { -brand-name-google } { -brand-name-chrome }తో పోల్చడం

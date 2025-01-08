@@ -10,7 +10,6 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } er en lynhurtig browser, der indeholder de sidste nye teknologier og funktioner, som fx understøttelse af CSS-grid og debugging af frameworks
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Velkommen til din nye browser. Få de nyeste funktioner, hurtig ydelse og de nødvendige udviklerværktøjer til at bygge det åbne internet.
 firefox-developer-speak-up = Sig noget
 firefox-developer-feedback-makes-us = Feedback gør os bedre. Fortæl os, hvordan vi kan forbedre browseren og udviklerværktøjerne.
@@ -71,16 +70,8 @@ firefox-developer-fonts-panel = Skrifttype-panel
 firefox-developer-the-new-fonts-panel = Det nye skrifttype-panel i { -brand-name-firefox-devtools } giver udviklere hurtig adgang til al nødvendig information om den skrifttype, et element benytter. Panelet indeholder også værdifuld information om skrifttypens kilde, skrifttykkelse, stil og andet.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } sender automatisk feedback til { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Hent udgaven af { -brand-name-firefox } specielt lavet til udviklere
-firefox-developer-welcome-to-the-all-new = Velkommen til den sprit-nye { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } er blevet ombygget fra grunden af for at kunne være hurtigere, mere strømlinet og mere kraftfuld end nogensinde før.
-firefox-developer-congrats-you-now-have-firefox = Tillykke! Du har nu { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Dette er ikke bare en opdatering. Dette er { -brand-name-firefox-quantum }, en helt ny { -brand-name-firefox }, der er blevet genopbygget fra grunden af for at være hurtigere, mere strømlinet og mere kraftfuld end nogensinde før.
-firefox-developer-welcome-to-firefox-browser = Velkommen til { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Browseren lavet til udviklere
 firefox-developer-all-the-latest-v2 = Beta-versioner af de nyeste værktøjer til udviklere og funktioner som en konsol med visning af flere linjer og WebSocket-inspektøren.
-# Obsolete string
-firefox-developer-all-the-latest = Alle de nyeste udviklerværktøj i beta samt <strong>eksperimentelle funktioner</strong> såsom en konsol med visning af flere linjer og WebSocket-inspektøren.
 firefox-developer-a-separate-profile = En <strong>separat profil og sti</strong>, så du nemt kan køre den samtidig med den officielle udgivelse eller { -brand-name-beta }-versionen af { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Indstillinger <strong>skræddersyet til webudviklere</strong>: Browser- og remote debugging er aktiveret som standard sammen med et mørkt tema og knappen Webudvikler på værktøjslinjen.
-firefox-developer-congrats-you-now-have = Tillykke! Du har nu { -brand-name-firefox-browser } { -brand-name-developer-edition }.
-firefox-developer-congrats-you-now-have-latest = Tillykke! Du har nu den nyeste version af { -brand-name-firefox-browser } { -brand-name-developer-edition }.

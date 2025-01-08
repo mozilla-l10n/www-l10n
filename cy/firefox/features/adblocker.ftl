@@ -31,18 +31,6 @@ features-adblocker-ghostery-is-another-great = Mae <a { $attrs }>Ghostery</a> yn
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Mae'r estyniadau hyn yn gweithio'n wych ar <a { $attrs1 }>{ -brand-name-firefox } ar gyfer y bwrdd gwaith</a> ac <a { $attrs2 }>Android</a>.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = Dyma <a href="{ $url }">AdBlocker Ultimate</a> sy'n cael gwared ar bob un hysbyseb, ond byddwch ofalus. Mae rhai o'ch hoff bapurau newydd a chylchgronau yn dibynnu ar hysbysebu. Gall gormod o bobl sy'n rhwystro eu hysbysebion danseilio eu busnes.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Hysbysebion llamllyd yw'r gwaethaf. Rhwystrwch nhw gyda <a href="{ $url }">Popup Blocker</a> a pheidio gorfod delio â llamlen blin arall.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Un o'r rhwystrwyr hysbysebion mwyaf poblogaidd ar gyfer { -brand-name-chrome }, { -brand-name-safari } a { -brand-name-firefox } yw <a href="{ $url }">AdBlock</a>. Defnyddiwch hi i atal hysbysebion ar { -brand-name-facebook }, { -brand-name-youtube } a { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = Creu parth dim tracio gyda Rhwystro Cynnwys
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

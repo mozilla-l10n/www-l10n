@@ -96,6 +96,9 @@
 -brand-name-firefox-private-network = Kenrouedad Prevez Firefox
 -brand-name-fpn = FPN
 
+## Firefox projects
+
+
 ## Pocket
 
 -brand-name-pocket = Pocket
@@ -103,6 +106,9 @@
 ## Fakespot
 
 -brand-name-fakespot = Fakespot
+
+## Anonym
+
 
 ## Mozilla projects
 
@@ -118,6 +124,7 @@
 -brand-name-mozilla-account = Kont Mozilla
 -brand-name-mozilla-accounts = Kontoù Mozilla
 -brand-name-mozilla-social = Mozilla.social
+# Obsolete string (expires: 2025-01-05)
 -brand-name-mozilla-ai = Mozilla IA
 -brand-name-thunderbird = Thunderbird
 

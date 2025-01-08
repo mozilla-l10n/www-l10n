@@ -20,11 +20,7 @@ newsletter-form-sign-up-to-receive = Naročite se na mesečne novice o { -brand-
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Strinjam se, da { -brand-name-mozilla } obdela te podatke, kot je razloženo v <a href="{ $url }">obvestilu o zasebnosti</a>
 newsletter-form-we-will-only-send-v2 = Pošiljali vam bomo samo informacije, povezane z { -brand-name-mozilla(sklon: "orodnik") }. Kadarkoli se lahko odjavite.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send = Pošiljali vam bomo samo informacije, ki se tičejo { -brand-name-mozilla(sklon: "rodilnik") }.
 newsletter-form-we-will-only-send-firefox-v2 = Pošiljali vam bomo samo informacije, povezane s { -brand-name-firefox(sklon: "orodnik") }. Kadarkoli se lahko odjavite.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send-firefox = Pošiljali vam bomo samo informacije, ki se tičejo { -brand-name-firefox }a.
 newsletter-form-if-you-havent-previously = Če v preteklosti še niste potrdili naročnine na okrožnico { -brand-name-mozilla(sklon: "rodilnik") }, boste morda to morali storiti zdaj. Poiščite našo pošto v poštnem predalu ali mapi z neželeno pošto.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> in vi
 newsletter-form-get-firefox-tips = Nasveti, zvijače in novice o { -brand-name-firefox }u

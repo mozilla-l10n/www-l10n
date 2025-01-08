@@ -11,10 +11,6 @@ features-index-firefox-browser-features = Funcziuns dal navigatur { -brand-name-
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } è il navigatur svelt, lev ed orientà a la protecziun da datas che funcziunescha sin tuts tes apparats.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } daventa adina pli svelt
 features-index-the-latest-browser-speed-benchmarks = Ils benchmarks ils pli recents per la sveltezza da navigaturs mussan che { -brand-name-firefox } è pli svelt che mai.
-# Obsolete string
-features-index-is-firefox-a-fast-browser = È { -brand-name-firefox } in navigatur svelt?
-# Obsolete string
-features-index-firefox-uses-less-memory-than = { -brand-name-firefox } dovra damain memoria che Chrome, uschia che auters programs pon era funcziunar cun la sveltezza maximala.
 features-index-is-firefox-a-private-browser = È { -brand-name-firefox } in navigatur discret?
 features-index-were-focused-on-your-right-to = Nus dain paisa a tes dretg da sfera privata. Tias datas, tias activitads en il web e tia vita online èn protegidas cun { -brand-name-firefox }.
 features-index-free-password-manager = Administraziun da pleds-clav gratuita
@@ -42,7 +38,5 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } blochescha
 features-index-ditch-the-sticky-ads = Ta liberescha da las reclamas mulestusas che ta suondan dapertut cun agid da la funcziun preinstallada da { -brand-name-firefox } per bloccar improntaders.
 features-index-translate-the-web = Translatescha il web
 features-index-translate-websites-to-your = Lascha translatar websites en tia lingua, directamain en tes navigatur { -brand-name-firefox } – senza stuair parter tias datas cun insatgi.
-# Obsolete string
-features-index-translate-more-than = Translatescha ord passa 100 linguas en tia lingua, directamain en tes navigatur { -brand-name-firefox }. Quai n'è anc mai stà uschè simpel.
 features-index-picture-in-picture = Maletg-en-maletg
 features-index-got-things-to-do = Has ti bler da far e bler da guardar? Grazia a maletg-en-maletg pos ti far tuts dus en { -brand-name-firefox }.

@@ -13,8 +13,6 @@ features-private-browsing-firefox-protects = { -brand-name-firefox } beskermet j
 features-private-browsing-if-you-share-a-computer = As jo in kompjûter diele mei oare minsken of as jo beheine wolle hoefolle gegevens websites oer jo sammelje, kinne jo priveenavigaasjemodus brûke yn { -brand-name-firefox }. Priveenavigaasje wisket de digitale spoaren dy’t jo efterlitte as jo online sneupe. Tink oan se as fuotprinten troch de bosk.
 features-private-browsing-what-does-private-browsing-do = Wat docht priveenavigaasje?
 features-private-browsing-private-browsing-mode-opens-v2 = Priveenavigaasjemodus iepenet in nij browserfinster. As jo it lêste priveefinster slute, wurdt jo navigaasjeskiednis en alle folchcookies fan websites dy’t jo besocht hawwe wiske. <strong>{ -brand-name-firefox } Pro-tip:</strong> Ferjit net alle priveenavigaasjefinsters te sluten as jo klear binne!
-# Obsolete string (expires: 2024-07-18)
-features-private-browsing-private-browsing-mode-opens = Priveenavigaasjemodus iepenet in nij browserfinster. As jo it slute, wurdt jo navigaasjeskiednis foar dat finster en alle folchcookies fan websites dy’t jo besocht hawwe wiske. <strong>{ -brand-name-firefox } Pro-tip:</strong> Ferjit net it priveenavigaasjefinster te sluten as jo klear binne!
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = In { -brand-name-firefox }-browserfinster yn priveenavigaasjemodus.
 features-private-browsing-what-private-browsing-doesnt-do = Wat priveenavigaasje net docht

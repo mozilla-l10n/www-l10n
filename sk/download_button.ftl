@@ -52,10 +52,6 @@ download-a-different-build = Stiahnuť iné zostavenie
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = Stiahnite si { -brand-name-linux } (32‑bitová verzia)
-# Obsolete string
-download-button-linux-64 = Stiahnite si { -brand-name-linux } (64‑bitová verzia)
 download-button-linux-32-v2 = Stiahnite si pre Linux (32‑bitová verzia)
 download-button-linux-64-v2 = Stiahnite si pre Linux (64‑bitová verzia)
 # Variables

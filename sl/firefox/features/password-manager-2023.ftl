@@ -13,14 +13,6 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } lahko va
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Z <a { $fxa }>brezplačnim { -brand-name-mozilla-account(sklon: "orodnik") }</a> lahko svoja gesla varno sinhronizirate med vsemi napravami. Račun vam omogoča tudi uporabo kopice ostalih izdelkov { -brand-name-mozilla(sklon: "rodilnik") }, ki spoštujejo zasebnost.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account = Z <a href="{ $fxa }">brezplačnim { -brand-name-mozilla-account(sklon: "orodnik") }</a> lahko gesla varno sinhronizirate med vsemi svojimi napravami.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-firefox-account = Z <a href="{ $fxa }">brezplačnim { -brand-name-firefox } Računom</a> lahko gesla varno sinhronizirate med vsemi svojimi napravami.
 password-manager-password-autofill-for-easy-logins = Samodejno izpolnjevanje gesel za hitrejšo prijavo
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } lahko samodejno vnese shranjeno uporabniško ime in geslo namesto vas. Če imate za spletno mesto shranjenih več prijav, lahko preprosto izberete želeni račun in brskalnik poskrbi za ostalo.
 # Used as an accessible text alternative for an image

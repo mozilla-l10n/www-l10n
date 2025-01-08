@@ -11,8 +11,6 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = A { -brand-name-firefox-developer-edition } egy villámgyors böngésző, amely élenjáró fejlesztői eszközöket, és a legfrissebb funkciókat tartalmazza, mint a CSS rács támogatás, és a keretrendszert felismerő hibakeresés
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Üdvözöljük az új kedvenc böngészőjében. Szerezze meg a legújabb funkciókat, a jó teljesítményt, és azokat a fejlesztői eszközöket, amelyek a nyílt web építéséhez szükségesek.
 firefox-developer-speak-up = Mondja el véleményét
 firefox-developer-feedback-makes-us = A visszajelzés tesz minket jobbá. Mondja el hogyan javíthatjuk a böngészőt és a fejlesztőeszközöket.
@@ -75,15 +73,11 @@ firefox-developer-firefox-developer-edition-sends = A { -brand-name-firefox-deve
 firefox-developer-download-the-firefox-browser = Töltse le a fejlesztőknek készült { -brand-name-firefox } böngészőt
 firefox-developer-firefox-has-been-rebuilt = A { -brand-name-firefox(case: "accusative") } az alapoktól építettük újra, hogy gyorsabb, kecsesebb és hatékonyabb legyen, mint valaha.
 firefox-developer-welcome-to-firefox-developer-edition = Üdvözli a { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = Üdvözli a { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = A fejlesztők számára készített böngésző
 firefox-developer-all-the-latest-v2 = A legújabb béta verziójú fejlesztői eszközök, olyan funkciók mellett, mint a többsoros konzolszerkesztő és a WebSocket vizsgáló.
 firefox-developer-a-separate-profile = Egy <strong>külön profil és útvonal</strong>, így könnyedén futtathatja a { -brand-name-firefox } kiadási vagy { -brand-name-beta } változata mellett.
 firefox-developer-preferences-tailored = <strong>Webfejlesztőkre igazított</strong> beállítások: A böngésző és távoli hibakeresés alapértelmezetten engedélyezett, ahogy a sötét téma és a fejlesztői eszköztár gombja is.
 firefox-developer-congrats-you-now-have-latest-v2 = Most már a { -brand-name-firefox-developer-edition } legfrissebb verziójával rendelkezik.
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = Gratulálunk. Most már a { -brand-name-firefox-browser } { -brand-name-developer-edition } legfrissebb verzióját használja.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Tekintse meg a <a { $attrs }>kiadási megjegyzéseket</a> (csak angolul), hogy megismerje az újdonságokat.

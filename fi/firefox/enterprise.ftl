@@ -44,5 +44,5 @@ firefox-enterprise-sample-plist-for-configuration = <a href="{ $url }">plist-kon
 firefox-enterprise-pkg-installer = PKG-asentaja
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-bittinen
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
 firefox-enterprise-download-firefox-esr-or-rapid = Lataa { -brand-name-firefox-esr } tai Rapid Release <br> <a href="{ $firefox_all }">toisella kielellä tai muulle alustalle</a>.

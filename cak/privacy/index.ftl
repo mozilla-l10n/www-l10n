@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/
@@ -22,7 +22,7 @@ privacy-index-transparency-report = Rutzijol Ch'ajch'ojil
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Achi'el ajjaqäl b'itz'ib' nimasamaj, ri ch'ajch'ojil chuqa' tikirib'äl e ruk'u'x kich'akul nïm ruk'u'x tzij { -brand-name-mozilla }. Ri kixe'el qab'itz'ib' ja chi e jaqäl chuqa' e tz'etel. Ri qasamaj richin nimirisanem e jaqäl, ri <a href="{ $report }">Rutzijol Ch'ajch'ojil</a> kajuna' nuk'üt ri qatzij kik'in re ruk'u'x taq tzij re'.
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = Richin yenik'öx chuqa' nitzijöx kij ri taq jaloj nik'ut pa runa'ojil qichinanem, <a href="{ $group }"> tatz'ib'aj ab'i' pa ri Chanpomanel qamoloj richin { -brand-name-mozilla }</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
@@ -31,11 +31,9 @@ privacy-index-outdated-policies = Ojer taq Na'ojil
 privacy-index-mozilla-websites-communications = Rajk'amaya'l, Rutzijob'al & Rucookies { -brand-name-mozilla }
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }
-privacy-index-firefox-relay = { -brand-name-firefox-relay }
 privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
 privacy-index-firefox-reality = { -brand-name-firefox-reality }
 privacy-index-firefox-focus = { -brand-name-firefox-focus }
-privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
 privacy-index-thunderbird = { -brand-name-thunderbird }
 privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } richin { -brand-name-fire-tv }

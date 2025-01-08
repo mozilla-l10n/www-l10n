@@ -8,7 +8,7 @@
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 how-do-i = Atwero nongo { -brand-name-firefox-browser } nining?
 
@@ -34,7 +34,7 @@ see-how-firefox = <a href="{ $url }">Nen kit ma { -brand-name-firefox } pore ki 
 
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 
 # Variables:
@@ -44,11 +44,6 @@ does-firefox-use = Mono { -brand-name-firefox } tiyo ki { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
-
-
-# Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
 who-owns-firefox = Anga ma rwod { -brand-name-firefox }?
 

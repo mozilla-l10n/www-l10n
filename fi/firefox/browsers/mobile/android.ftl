@@ -10,10 +10,6 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = { -brand-name-firefox }-selain { -brand-name-android }ille on nopea, turvallinen ja yksityinen ensimmäisestä avaamisesta lähtien.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = Siirry mobiiliin. Siirry { -brand-name-firefox }in { -brand-name-android }-versioon
-# Obsolete string
-mobile-android-when-you-download = Kun lataat { -brand-name-firefox }in, valitset riippumattoman teknologiayrityksen tukemisen. { -brand-name-firefox } on ainoa suuri selain, jota tukee voittoa tavoittelematon taho, joka taistelee antaakseen sinulle enemmän avoimuutta, läpinäkyvyyttä ja hallintaa tekemisiisi verkossa.
 mobile-android-get-firefox-for = Hanki { -brand-name-firefox } { -brand-name-android }ille
 mobile-android-send-a-download-link-to-your = Lähetä latauslinkki puhelimeesi.
 mobile-android-scan-the-qr-code-to-get-started = Aloita skannaamalla QR-koodi

@@ -5,5 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
-# HTML page title.
-compare-edge-firefox-vs-microsoft-edge-which = { -brand-name-firefox } aŭ { -brand-name-microsoft } { -brand-name-edge }: kiu retumilo estas pli bona por vi?

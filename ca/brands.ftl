@@ -91,6 +91,9 @@
 -brand-name-firefox-private-network = Firefox Private Network
 -brand-name-fpn = FPN
 
+## Firefox projects
+
+
 ## Pocket
 
 -brand-name-pocket = Pocket
@@ -98,6 +101,9 @@
 ## Fakespot
 
 -brand-name-fakespot = Fakespot
+
+## Anonym
+
 
 ## Mozilla projects
 

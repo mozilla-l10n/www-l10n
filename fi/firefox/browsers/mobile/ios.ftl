@@ -7,12 +7,7 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = { -brand-name-firefox }-selain { -brand-name-ios }:lle on nopea, turvallinen ja yksityinen ensimmäisestä avaamisesta lähtien.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-mobile-ios-get-automatic-privacy = Hanki yksityisyyttä automaattisesti { -brand-name-iphone }lla ja { -brand-name-ipad }illa
 mobile-ios-get-firefox-for = Lataa { -brand-name-firefox } { -brand-name-ios }:lle
 mobile-ios-send-a-download-link-to-your = Lähetä latauslinkki puhelimeesi.
 mobile-ios-scan-the-qr-code-to-get-started = Aloita skannaamalla QR-koodi
@@ -31,14 +26,8 @@ mobile-ios-get-to-your-go-to = Pääsy suosituimpiin paikkoihin aiempaa nopeammi
 mobile-ios-see-your-open-tabs = Näe avoimet välilehdet, viimeisimmät haut ja suosikkisivustot yhdessä paikassa { -brand-name-firefox-browser } { -brand-name-ios }:n avulla.
 mobile-ios-own-your-home = Omista aloitusnäyttösi
 mobile-ios-get-to-the-parts = Pääse tärkeän sisällön pariin entistä nopeammin. Valitse avoimet välilehdet, viimeisimmät haut, kirjanmerkit ja suosikkisivustot esitettäväksi yhteen paikkaan.
-# Obsolete string
-mobile-ios-add-firefox-across = Lisää { -brand-name-firefox } kaikille laitteillesi turvallista ja saumatonta selaamista varten. { -brand-name-sync } laitteesi ja ota suosikkikirjanmerkkisi, tallennetut kirjautumistietosi, salasanasi ja selaushistoriasi mukaan minne ikinä menetkin. Lisäksi voit lähettää avoimia välilehtiä puhelimen ja työpöydän välillä jatkaaksesi siitä, mihin jäit.
 mobile-ios-find-it-all = Löydä nopeammin
 mobile-ios-get-search-suggestions = Vastaanota hakuehdotuksia hakupalkkiin ja siirry nopeasti sivustoille, joilla käyt eniten. Kirjoita hakuehtosi ja saat ehdotuksia ja aiemmin etsittyjä tuloksia suosikkihakukoneistasi.
-# Obsolete string
-mobile-ios-keep-tabs-on = Pidä silmällä kaikkia näitä välilehtiä
-# Obsolete string
-mobile-ios-create-as-many = Luo niin monta välilehteä kuin haluat menettämättä hallintaa. { -brand-name-firefox } näyttää avoimet välilehdet pikkukuvina ja numeroituina välilehtinä, mikä nopeuttaa etsimäsi löytämistä.
 mobile-ios-discover-more-of = Löydä enemmän sinulle tärkeitä asioita
 mobile-ios-open-a-new = Avaa uusi välilehti { -brand-name-firefox }issa nähdäksesi eniten vierailemasi sivustot, viimeisimmät kirjanmerkkisi ja suositut artikkelit { -brand-name-pocket }issa. { -brand-name-firefox } antaa sinulle nopean pääsyn viimeksi käyttämillesi sivustoille, jotta pääset perille entistä nopeammin.
 mobile-ios-about-mozilla = Tietoja { -brand-name-mozilla }sta

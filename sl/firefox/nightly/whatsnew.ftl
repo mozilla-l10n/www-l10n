@@ -14,13 +14,9 @@ nightly-whatsnew-every-4-to-5-weeks = Vsake 4 do 5 tednov je izdana nova večja 
 nightly-whatsnew-this-is-a-good = Ob tej priložnosti bi se vam radi zahvalili za vaš prispevek pri izboljševanju { -brand-name-firefox }a ter vam predstavili nekaj dokumentacije, komunikacijskih kanalov in strani z novicami o { -brand-name-nightly }ju, ki bi vas morda zanimale.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mozilla.social/@FirefoxNightly
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 nightly-whatsnew-if-you-want-to-v3 = Če želite ostati na tekočem z dogajanjem v svetu { -brand-name-nightly }ja in njegove skupnosti, si za začetek lahko preberete naš <a { $blog }>blog</a> in nam sledite na <a { $mastodon }>Mastodonu</a> ali <a { $twitter }>X-u</a>.
-# Variables:
-#   $attrs (string) - link href and additional attributes
-# Obsolete string (expires: 2024-11-26)
-nightly-whatsnew-want-to-know-which-v2 = Želite izvedeti, katere možnosti, ki še niso na voljo v drugih izdajah { -brand-name-firefox(sklon: "rodilnik") }, lahko preskusite v { -brand-name-nightly(sklon: "mestnik") }? Oglejte si stran <a { $attrs }>Poskusi Nightlyja</a>.
 # Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v3 = Želite izvedeti, katere možnosti, ki še niso na voljo v drugih izdajah { -brand-name-firefox(sklon: "rodilnik") }, lahko preskusite v { -brand-name-nightly(sklon: "mestnik") }? Oglejte si stran <a { $attrs }>{ -brand-name-firefox-labs }</a>.

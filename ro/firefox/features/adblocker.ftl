@@ -16,22 +16,12 @@ features-adblocker-an-ad-blocker-is-a-piece = Extensiile de blocare a reclamelor
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Aceste reclame pot fi reclame cu volum sonor mare, reclame care te urmăresc peste tot pe web, elemente de urmărire, cookie-uri de la terți și multe altele. Pentru a utiliza blocarea reclamelor, poți căuta suplimente de blocare a reclamelor disponibile pentru browserul tău. De exemplu, <a href="{ $firefox }">{ -brand-name-firefox }</a> are <a href="{ $addons }">această listă de suplimente aprobate pentru blocarea reclamelor</a>. Dă clic pe această listă (sau adaugă suplimente aprobate de blocare a reclamelor pentru browserul tău) și vezi care ți se potrivește cel mai bine.
 features-adblocker-find-the-right-ad-blocker = Găsește extensia de blocare a reclamelor potrivită pentru tine
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = Există <a href="{ $url }">AdBlocker Ultimate</a>, care elimină absolut toate reclamele. Dar atenție: unele ziare și reviste se bazează pe publicitate în generarea de venituri. Dacă prea multe persoane le blochează anunțurile, vor da faliment.
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Reclamele popup sunt cele mai enervante. Blochează-le cu<a href="{ $url }">Popup Blocker</a> și nu ai să le mai vezi niciodată.
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Una dintre cele mai populare extensii de blocare a reclamelor pentru { -brand-name-chrome }, { -brand-name-safari } și { -brand-name-firefox } este <a href="{ $url }">AdBlock</a>. Folosește-o ca să blochezi reclame pe { -brand-name-facebook }, { -brand-name-youtube } și { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = Creează o zonă fără elemente de urmărire cu ajutorul blocării de conținut
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = În { -brand-name-firefox }, poți folosi setările de <a href="{ $privacy }">Confidențialitate</a> sau de <a href="{ $blocking }">Blocare de conținut</a> ca să ai un control mai mare asupra elementelor de urmărire din reclame care îți trimit anunțuri.
 features-adblocker-choose-your-level-of-protection = Alege-ți nivelul de protecție
-features-adblocker-to-start-click-on-the = Pentru început, dă clic în meniul { -brand-name-firefox } din colțul din dreapta sus al ecranului. Arată ca trei linii orizontale suprapuse. În meniul derulant, dă clic pe Blocare conținut. Trebuie să vezi o fereastră contextuală albastră cu diferite posibilități de selectare.
 features-adblocker-go-easy-with-standard = Ia-o încet cu modul standard
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -53,7 +43,3 @@ features-adblocker-send-a-do-not-track-signal = Trimite un semnal "Nu mă urmăr
 features-adblocker-if-you-dont-want-your = Dacă nu vrei să ți se utilizeze pentru reclame comportamentul online, poți trimite site-urilor web o scrisoare politicoasă „mulțumesc, dar nu vreau”, bifând opțiunea <a href="{ $url }">Nu mă urmări</a> din { -brand-name-firefox }. Participarea este voluntară, dar site-urile web participante vor înceta automat să te mai urmărească.
 features-adblocker-speed-up-thanks-to-ad = Mărește viteza cu ajutorul extensiilor de blocare a reclamelor
 features-adblocker-in-some-cases-an-ad-blocker = În unele cazuri, o extensie de blocare a reclamelor pot crește viteza browserului. Încărcarea unei reclame poate încetini un site web. În același timp, este mai greu să găsești ce cauți dacă stai să tot închizi reclame de pe site.
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more = Dacă vrei să afli mai multe despre blocarea reclamelor, există sute de extensii de blocare a reclamelor disponibile pentru { -brand-name-firefox } și pentru alte browsere. Dacă vrei să le încerci pe cele pentru { -brand-name-firefox }, <a href="{ $url }">dă clic aici pentru descărcarea</a> unui browser care îți pune confidențialitatea pe primul loc.
-features-adblocker-take-control-of-your-browser = Preia controlul asupra browserului.

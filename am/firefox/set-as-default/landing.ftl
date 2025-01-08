@@ -9,9 +9,7 @@
 set-as-default-landing-make-firefox-your-default = { -brand-name-firefox }ን ነባሪ አሳሽዎ ያድርጉ
 # HTML page description
 set-as-default-landing-choose-the-browser = የእርስዎን ግላዊነት የሚጠብቅ አሳሽ ይምረጡ። { -brand-name-firefox }ን እንደ ነባሪ አሳሽዎ ያቀናብሩ።
-# Obsolete string
 set-as-default-landing-thanks-for-using-the = የቅርብ ጊዜውን { -brand-name-firefox } አሳሽ ስለተጠቀሙ እናመሰግናለን። { -brand-name-firefox }ን ሲመርጡ ለእርስዎ እና ለሌሎች ሰዎች ሁሉ የተሻለ ድርን ይደግፋሉ። አሁን እራስዎን ለመጠበቅ ቀጣዩን እርምጃ ይውሰዱ።
-# Obsolete string
 set-as-default-landing-make-sure-youre-protected = መስመር ላይ በገቡ ቁጥር ፣ የተጠበቁ መሆንዎን ያረጋግጡ
 set-as-default-landing-you-should-get = እንዴት እንደሚያስሱ  የመወሰን ዕድል ማግኘት አለብዎት
 set-as-default-landing-choose-automatic-privacy = ራስ-ሰር ግላዊነትን ይምረጡ

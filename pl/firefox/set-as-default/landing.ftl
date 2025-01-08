@@ -9,9 +9,7 @@
 set-as-default-landing-make-firefox-your-default = Ustaw { -brand-name-firefox(case: "acc") } jako domyślną przeglądarkę
 # HTML page description
 set-as-default-landing-choose-the-browser = Wybierz przeglądarkę, która chroni Twoją prywatność. Ustaw { -brand-name-firefox(case: "acc") } jako domyślną.
-# Obsolete string
 set-as-default-landing-thanks-for-using-the = Dziękujemy za korzystanie z najnowszej wersji przeglądarki { -brand-name-firefox }. Kiedy wybierasz { -brand-name-firefox(case: "acc") }, wspierasz lepszy Internet dla siebie i dla wszystkich. Teraz wykonaj kolejny krok, aby się chronić.
-# Obsolete string
 set-as-default-landing-make-sure-youre-protected = Upewnij się, że każda Twoja chwila w Internecie jest chroniona
 set-as-default-landing-you-should-get = Każdy powinien mieć wpływ na to, jak przegląda Internet
 set-as-default-landing-if-you-recently = Jeśli komputer został niedawno zaktualizowany, to Twoje ustawienia mogły ulec zmianie. Wspieraj wolną i otwartą sieć zawsze, kiedy przeglądasz Internet za pomocą { -brand-name-firefox(case: "gen") }.

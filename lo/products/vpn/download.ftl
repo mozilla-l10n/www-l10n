@@ -13,8 +13,6 @@ vpn-download-sub-heading = ທ່ານສາມາດດາວໂຫຼດ { -b
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } ສະຫນອງການປົກປ້ອງທີ່ປອດໄພແລະປອດໄພສໍາລັບທຸກລະບົບປະຕິບັດການທີ່ສໍາຄັນ.
 vpn-download-not-available-in-country = ຂໍອະໄພ, { -brand-name-mozilla-vpn } ບໍ່ສາມາດດາວໂຫລດໄດ້ໃນປະເທດຂອງທ່ານ.
 vpn-download-button-copy = ດາວໂຫລດ
-# Obsolete string
-vpn-download-for-windows = VPN ສຳລັບ { -brand-name-windows } 10/11
 vpn-download-for-windows-v2 = VPN ສໍາລັບ { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit ເທົ່ານັ້ນ)
 vpn-download-for-windows-long = ດາວໂຫລດ { -brand-name-mozilla-vpn } ສໍາລັບ { -brand-name-windows }
@@ -32,8 +30,6 @@ vpn-download-for-android = VPN ສໍາລັບ { -brand-name-android }
 vpn-download-for-android-long = ດາວໂຫລດ { -brand-name-mozilla-vpn } ສໍາລັບ { -brand-name-android }
 vpn-download-for-ios = VPN ສໍາລັບ { -brand-name-ios }
 vpn-download-for-ios-long-v2 = ດາວໂຫລດ { -brand-name-mozilla-vpn } ສໍາລັບ { -brand-name-ios }
-# Obsolete string
-vpn-download-for-ios-long = ດາວໂຫລດ VPN { -brand-name-mozilla-vpn } ສໍາລັບ { -brand-name-ios }
 vpn-download-get-on-google-play = ເຂົ້າໄປທີ່ { -brand-name-google-play } Store
 vpn-download-get-on-app-store = ເຂົ້າໄປທີ່ { -brand-name-app-store }
 vpn-download-based-on-your = ອີງໃສ່ອຸປະກອນປະຈຸບັນຂອງທ່ານ

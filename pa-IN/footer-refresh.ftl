@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-refresh-get-the-best = ਬੇਹਤਰੀਨ { -brand-name-firefox } ਸੁਝਾਅ, ਗੁਰ ਅਤੇ ਅੱਪਡੇਟ ਲਵੋ। ਅਸੀਂ ਤੁਹਾਡੇ ਈਮੇਲ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਅਤੇ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਦਾ ਵਾਅਦਾ ਕਰਦੇ ਹਾਂ — { -brand-name-firefox } ਦੇ ਬੇਹਤਰੀਨ ਤੁਹਾਡੇ ਇਨਬਾਕਸ ਵਿੱਚ ਸਿੱਧੇ ਭੇਜੇ ਗਏ।
 footer-refresh-leadership = ਅਗਵਾਈ
 footer-refresh-advertise = { -brand-name-mozilla } ਨਾਲ ਇਸ਼ਤਿਹਾਰ
 footer-refresh-firefox-release-notes = { -brand-name-firefox } ਰੀਲਿਜ ਨੋਟਿਸ
@@ -41,5 +40,3 @@ footer-refresh-community-participation-guidelines = ਕਮਿਊਨਟੀ ਹਿ
 footer-refresh-about-this-site = ਇਸ ਸਾਈਟ ਬਾਰੇ
 footer-refresh-all-languages = ਸਭ ਭਾਸ਼ਾਵਾਂ
 footer-refresh-language = ਭਾਸ਼ਾ
-footer-refresh-primary-nav-aria-label = ਫੁੱਟਰ ਪ੍ਰਾਇਮਰੀ
-footer-refresh-secondary-nav-aria-label = ਫੁੱਟਰ ਸੈਕੰਡਰੀ

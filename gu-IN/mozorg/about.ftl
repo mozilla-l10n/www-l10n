@@ -9,7 +9,6 @@
 about-learn-about-mozilla = { -brand-name-mozilla } વિશે જાણો
 about-firefox-fast-for-good = { -brand-name-firefox }: સારા માટે ઝડપી
 about-walking-our-privacy-talk = અમારી ગોપનીયતા ચર્ચા
-about-talking-internet-issues-irl = ઈન્ટરનેટ મુદ્દાઓ પર વાત IRL
 about-corporation-foundation-not = કોર્પોરેશન. ફાઉન્ડેશન. બિન-નફાકારક.
 about-learn-about-the-mozilla-foundation = { -brand-name-mozilla-foundation } વિશે જાણો
 about-the-mozilla-manifesto = { -brand-name-mozilla } મેનિફેસ્ટો

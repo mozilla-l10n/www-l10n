@@ -40,5 +40,3 @@ footer-refresh-community-participation-guidelines = Mba’éichapa eikekuaa teko
 footer-refresh-about-this-site = Ko tenda rehegua
 footer-refresh-all-languages = Opaite ñe’ẽ
 footer-refresh-language = Ñe’ẽ
-footer-refresh-primary-nav-aria-label = Kuatiarogue guygua tuichavéva
-footer-refresh-secondary-nav-aria-label = Kuatiarogue guygua mokõiháva

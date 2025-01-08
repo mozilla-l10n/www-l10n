@@ -41,5 +41,3 @@ footer-refresh-community-participation-guidelines = Правила поведе�
 footer-refresh-about-this-site = Об этом сайте
 footer-refresh-all-languages = Все языки
 footer-refresh-language = Язык
-footer-refresh-primary-nav-aria-label = Основной нижний колонтитул
-footer-refresh-secondary-nav-aria-label = Дополнительный нижний колонтитул

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
@@ -14,7 +14,7 @@ misinformation-disinformation = Misinformatie, desinformatie – u hebt deze ter
 misinformation-ultimately-harmful = Uiteindelijk kunnen zowel misinformatie als desinformatie schadelijk zijn. Het is niet alleen dat mensen onjuiste informatie geloven, valse informatie kost de wereldeconomie veel geld en kunnen democratie en efficiënt bestuur bedreigen. Daarnaast is valse informatie moeilijk te stoppen, omdat nepnieuws significant sneller, dieper en breder verspreidt dan juist nieuws.
 misinformation-false-info-heading = Waar is valse informatie te vinden?
 # Variables:
-#   $tracking (url) - link to https://blog.mozilla.org/firefox/how-to-stop-web-trackers/
+#   $tracking (url) - link to https://blog.mozilla.org/products/firefox/firefox-privacy-protections/
 misinformation-widespread-online = U kunt misinformatie en desinformatie overal tegenkomen, maar het is wijdst verbreid en heeft de meeste impact als het online wordt gedeeld. Algoritmes en <a href="{ $tracking }">volgen</a> hebben de mogelijkheid voor misinformatie en desinformatie om een nog groter publiek te bereiken op websites, blogs, forums en sociale netwerken vergroot.
 misinformation-tracking-advertising = U hebt mogelijk over volgen gehoord in de context van advertenties. Het is echter ook een krachtig hulpmiddel in relatie tot het verspreiden van valse informatie. Waarom is dit het geval? Als u op het internet surft of de tijdlijn van uw sociale netwerk bekijkt, worden interesses, in sommige gevallen contacten en nog meer gevolgd door diverse partijen op websites, om een zeer gedetailleerd profiel van u te maken dat aan anderen wordt verkocht zonder uw medeweten of instemming. Deze profielen worden gebruikt voor gepersonaliseerde advertenties, maar kunnen ook worden gebruikt om u van gerichte informatie te voorzien.
 misinformation-social-newtorks = Als u inhoudsaanbevelingen op een website of sociaal netwerk ontvangt, komt dit vaak omdat een algoritme informatie presenteert op basis van uw profielinformatie. Hoewel algoritmes steeds slimmer worden, controleren ze helaas de inhoud helaas niet op juistheid. Dit is vooral een probleem met sociale media: deze netwerken tonen dagelijks ontelbare stukjes informatie aan hun gebruikers en hebben toegang tot een vrijwel onbeperkte hoeveelheid inhoud, waaronder gebruikersberichten, nieuwsartikelen, advertenties en gesponsorde inhoud. Terwijl berichten en artikelen per ongeluk misinformatie zouden kunnen verspreiden, kunnen advertenties en gesponsorde inhoud worden gebruikt om u opzettelijk desinformatie te tonen om u te manipuleren, waardoor het essentieel wordt dat u weet hoe u misinformatie kunt herkennen.

@@ -19,10 +19,6 @@ installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc-v2 = Merrni më të riun. Privatësia automatike mbërriti. Shkarkoni { -brand-name-firefox } që të bllokoni mbi { $trackers } gjurmues.
-# Obsolete string (expires: 2024-05-14)
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Merrni më të riun. Privatësia automatike mbërriti. Shkarkoni { -brand-name-firefox-browser } që të bllokoni mbi { $trackers } gjurmues.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Provoni me montimin më stabël para-qarkullim veçori të hedhura në qarkullim, thuajse gati.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }

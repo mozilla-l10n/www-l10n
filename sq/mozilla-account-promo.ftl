@@ -9,11 +9,6 @@ moz-account-promo-title = Një palë kredenciale hyrjeje. <br> <span { $class }>
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
 moz-account-already-have-v2 = Keni tashmë një llogari? <a { $sign_in_url }>Hyni</a>, ose <a { $learn_more_url }>mësoni më tepër</a> rreth bërjes pjesë e { -brand-name-mozilla }-s
-# Obsolete string (expires: 2024-09-12)
-# Variables
-#   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
-moz-account-already-have = Keni tashmë një llogari? <a { $sign_in_url }>Hyni</a>, ose <a { $learn_more_url }>mësoni më tepër</a> rreth { -brand-name-mozilla }-s
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
 moz-account-product-pocket = { -brand-name-pocket }

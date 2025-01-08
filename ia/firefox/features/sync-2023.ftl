@@ -12,11 +12,6 @@ features-sync-access-your-firefox-bookmarks = Accede tu marcapaginas, contrasign
 features-sync-with-firefox-you-can-pick-up-where = Con { -brand-name-firefox }, tu pote reprender de ubi tu exiva quando tu commuta de tu computator de scriptorio a tu telephono mobile o a tu tabletta. { -brand-name-firefox } te permitte de vider tu marcapaginas, tu chronologia de navigation, tu contrasignos salvate e altero ancora, non importa que apparato tu usa.
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Registra te a un  { -brand-name-mozilla-account } gratuite</a> e tu potera synchronisar tu datos ubique tu usa tu navigator { -brand-name-firefox } e altere productos { -brand-name-mozilla }.
-# Obsolete string
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Registra te a un { -brand-name-mozilla-account } gratuite</a> e tu potera synchronisar tu datos ubique tu usa tu navigator { -brand-name-firefox }.
-# Obsolete string
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Registra te a un conto { -brand-name-firefox } gratuite</a> e tu potera synchronisar tu datos ubique tu usa tu navigator { -brand-name-firefox }.
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Tote tu datos es cryptate sur nostre servitores assi nos non pote leger lo, solo tu pote acceder. Nos non vende tu info al publicitarios perque que vaderea contra nostre <a href="{ $privacy }">promissa de confidentialitate del datos</a>.

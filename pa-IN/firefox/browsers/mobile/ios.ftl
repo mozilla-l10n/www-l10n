@@ -7,12 +7,7 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } ਤੇ { -brand-name-ipad })
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = { -brand-name-ios } ਲਈ { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਤੇਜ਼, ਸੁਰੱਖਿਅਤ ਅਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਇਹ ਪਹਿਲੀ ਵਾਰ ਖੋਲ੍ਹਣ ਵੇਲੇ ਤੋਂ ਹੀ ਪ੍ਰਾਈਵੇਟ ਹੈ।
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-mobile-ios-get-automatic-privacy = ਆਪਣੇ { -brand-name-iphone } ਅਤੇ { -brand-name-ipad } ਪਰਦੇਦਾਰੀ ਆਪਣੇ-ਆਪ ਲਵੋ
 mobile-ios-get-firefox-for = { -brand-name-ios } ਲਈ { -brand-name-firefox } ਲਵੋ
 mobile-ios-send-a-download-link-to-your = ਆਪਣੇ ਫ਼ੋਨ ਉੱਤੇ ਡਾਊਨਲੋਡ ਲਿੰਕ ਭੇਜੋ।
 mobile-ios-scan-the-qr-code-to-get-started = ਸ਼਼ੁਰੂ ਕਰਨ ਲਈ QR ਕੋਡ ਸਕੈਨ ਕਰੋ
@@ -25,7 +20,5 @@ mobile-ios-get-more-firefox = ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਵਿੱਚ ਹ�
 mobile-ios-get-to-your-go-to = ਆਪਣੇ { -brand-name-iphone } ਅਤੇ { -brand-name-ipad } ਉੱਤੇ ਆਪਣੀਆਂ ਫ਼ੌਰਨ ਥਾਵਾਂ ਨੂੰ ਤੇਜ਼ੀ ਨਾਲ ਖੋਲ੍ਹੋ
 mobile-ios-own-your-home = ਆਪਣੀ ਮੁੱਖ ਸਕਰੀਨ ਨੂੰ ਆਪਣਾ ਬਣਾਓ
 mobile-ios-find-it-all = ਇਸ ਨੂੰ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਲੱਭੋ
-# Obsolete string
-mobile-ios-keep-tabs-on = ਉਹਨਾਂ ਸਾਰੀਆਂ ਟੈਬਾਂ ਨੂੰ ਕਾਬੂ ਹੇਠ ਰੱਖੋ
 mobile-ios-discover-more-of = ਜੋ ਤੁਹਾਨੂੰ ਪਸੰਦ ਹੋਵੇ, ਉਸ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 mobile-ios-about-mozilla = { -brand-name-mozilla } ਬਾਰੇ

@@ -13,7 +13,7 @@ what-is-firefox = { -brand-name-firefox } คืออะไร
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = { -brand-name-firefox-browser } เป็นเบราว์เซอร์หลักเพียงตัวเดียวที่ได้รับการสนับสนุนโดยองค์กรไม่แสวงผลกำไรซึ่งไม่ขายข้อมูลส่วนตัวของคุณให้กับผู้โฆษณาและช่วยปกป้องข้อมูลส่วนตัวของคุณ ลองศึกษาเพิ่มเติมเกี่ยวกับ <a href="{ $url }">{ -brand-name-firefox-browsers }</a> และ <a href="{ $url2 }">ผลิตภัณฑ์อื่น ๆ</a>
 how-do-i = ฉันจะรับ{ -brand-name-firefox-browser } ได้อย่างไร
@@ -46,7 +46,7 @@ protecting-your-privacy = การปกป้องความเป็นส
 is-firefox-safe = { -brand-name-firefox } ปลอดภัยหรือไม่
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = { -brand-name-firefox } ไม่เพียงแค่ปลอดภัยต่อการใช้งาน แต่ยังช่วยรักษาข้อมูลต่างๆ รวมถึงข้อมูลส่วนตัวของคุณให้ปลอดภัยอีกด้วย { -brand-name-firefox-browser } จะช่วยปิดกั้นตัวติดตามของบุคคลที่สามที่ทราบ ตัวติดตามโซเชียลมีเดีย ตัวขุดเหรียญดิจิทัล และลายนิ้วมือดิจิทัลไม่ให้เก็บข้อมูลของคุณโดยอัตโนมัติ <a href="{ $url }">เรียนรู้เพิ่มเติมเกี่ยวกับความเป็นส่วนตัวในผลิตภัณฑ์ของเรา</a>
 related-questions-safe = คำถามที่เกี่ยวข้อง: { -brand-name-firefox } ดีในเรื่องความเป็นส่วนตัวไหม, { -brand-name-firefox } ปลอดภัยไหม, { -brand-name-firefox } ดีกว่าในเรื่องความเป็นส่วนตัวไหม

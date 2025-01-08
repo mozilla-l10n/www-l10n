@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use-a-vpn/
@@ -32,7 +32,7 @@ vpn-when-to-use-for-the-most = Pro le major parte, le scenarios supra non se app
 vpn-when-to-use-because-your-internet = Pois que tu traffico internet a casa move a e de tu apparatos a transverso de tu fornitor de servicio internet - ISP, in breve - illes pote vider ubi tu va online. Un ISP pote vider que sitos tu visita, per quante tempore tu es sur illos, tu position e informationes re tu apparatos. Un ISP non pote saper le detalios de que tu ha facite sur ille sitos (como que tu comprava, recercava o lege) gratias al cryptation, ma illes pote facer deductiones re te in base al sitos que tu visitava. Ille datos personal pote esser usate per le ISPs pro crear detaliate profilos re te. Navigar in modo private non impedi al ISPs de vider ubi tu va online. Ma inviar tu traffico web a transverso de un VPN pote render lo multo plus ardue.
 vpn-when-to-use-make-sure-you = Verifica que tu comprende lo que un VPN non face
 # Variables
-#   $book (url) - https://www.mozilla.org/firefox/privacy/book/
+#   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
 vpn-when-to-use-a-vpn-provides = Un VPN offere un importante ligamine de securitate protegente tu datos private ante que illos viagia per internet, e illo alsi occulta tu adresse IP, adjutante proteger tu identitate e position. Illo totevia, non te prevenira de cosas como cliccar sur ligamines suspecte, discargar malware o devenir victima de fraude e-mail. Tu ancora besonia de practicar <a href="{ $book }">bon habitudes pro remaner secur online</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, un servicio VPN digne de fide
 # Variables

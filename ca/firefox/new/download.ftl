@@ -27,10 +27,6 @@ firefox-new-need-help = Necessiteu ajuda?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }"> ja no ofereix cap actualització de seguretat</a> a { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }, però encara podeu utilitzar { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = El sistema operatiu que utilitzeu és insegur, obsolet i <a href="{ $url }">ja no és compatible amb el { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -44,8 +40,6 @@ firefox-new-please-follow = Seguiu <a href="{ $url }">aquestes instruccions</a> 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = El vostre sistema no compleix els requisits per al { -brand-name-firefox }, però podeu provar alguna d'<a href="{ $url }">aquestes versions</a>.
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Si veieu un missatge que indica que l'aplicació que intenteu instal·lar no és una aplicació verificada per { -brand-name-microsoft }, feu clic a «Instal·la de totes maneres» o <a { $attrs }>canvia la configuració recomanada de l'aplicació</a >.

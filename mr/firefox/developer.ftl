@@ -1,16 +1,15 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = Firefox डेव्हलपर आवृत्ती हा वेगवान ब्राऊझर आहे जो अत्याधुनिक डेव्हलपर साधने आणि CSS ग्रिड सपोर्ट आणि फ्रेमवर्क डिबगिंग सारख्या नवीनतम वैशिष्ट्यांना प्रदान करतो
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = आपल्या नवीन आवडत्या ब्राउझरमध्ये स्वागत आहे. मुक्त वेबसाठी नवीनतम वैशिष्ट्ये, जलद कार्यप्रदर्शन, आणि आपल्याला विकसित होणारी विकास साधने मिळवा.
 firefox-developer-speak-up = बोला
 firefox-developer-feedback-makes-us = अभिप्राय आम्हाला उत्कृष्ट बनवितो. आम्ही ब्राउझर आणि डेव्हलपर साधने कशी सुधारू शकतो ते आम्हाला सांगा.
@@ -56,21 +55,14 @@ firefox-developer-inactive-css = निष्क्रिय CSS
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = नवीन { -brand-name-firefox-devtools } शक्तिशाली, लवचिक आणि उत्तम आहेत, हॅक करण्यायोग्य. यात उत्कृष्ट-उच्च-स्तरीय JavaScript डीबगर समाविष्ट आहे, जे एकाधिक ब्राउझर लक्ष्यित करू शकते आणि React आणि Redux मध्ये तयार केले आहे.
 firefox-developer-master-css-grid = Master CSS Grid
-firefox-developer-next-gen-css-engine = पुढील-पिढी च CSS इंजन
-firefox-developer-a-next-generation = पुढच्या पिढीचे CSS इंजिन
 firefox-developer-master-innovative-features = नाविन्यपूर्ण वैशिष्ट्ये
 firefox-developer-want-to-be-on-the-cutting-edge = अत्याधुनिक होऊ इच्छिता?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } दररोज अद्यतने प्राप्त करते आणि मुख्य प्रवाहात जाण्याआधी काही महिन्यांपर्यंत आपल्याला प्रवेश करण्याची परवानगी देते.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } मध्ये नविन CSS इंजिनचा समावेश आहे, जो Rust मध्ये लिहिलेला आहे, ज्यामध्ये अत्याधुनिक नवनवीन शोध आणि ते तेजस्वीपणे जलद आहेत.
 firefox-developer-firefox-is-the-only-browser = विशेषतः CSS ग्रिडच्या बांधणीसाठी आणि डिझाइन करण्यासाठी { -brand-name-firefox } हा एकमेव ब्राउझर आहे. हे साधन आपल्याला ग्रिडला दृश्यमान करण्यास, संबद्ध क्षेत्रांची नावे प्रदर्शित करण्यास, ग्रिडवरील बदलांचे पूर्वावलोकन करण्यास आणि बरेच काही करण्यास अनुमती देतात.
 firefox-developer-convenient-features = सोयीस्कर वैशिष्ट्ये
-firefox-developer-faster-performance = जलद कामगिरी
 firefox-developer-shapes-editor = आकार संपादक
 firefox-developer-faster-innovation = वेगवान माहिती
 firefox-developer-fonts-panel = फॉन्ट पटल
 firefox-developer-firefox-developer-edition-sends = Firefox डेव्हलपर आवृत्ती { -brand-name-mozilla } ला आपोआप अभिप्राय पाठवते.
 firefox-developer-download-the-firefox-browser = विकासकांसाठी बनवलेला { -brand-name-firefox } ब्राउझर डाउनलोड करा
-firefox-developer-welcome-to-the-all-new = पूर्ण-नवीन { -brand-name-firefox-quantum } मध्ये आपले स्वागत आहे: डेव्हलपर आवृत्ती
 firefox-developer-firefox-has-been-rebuilt = नेहमीपेक्षा जलद, सुलभ आणि अधिक शक्तिशाली करण्यासाठी फायरफॉक्सचा ग्राउंड-अप पुन्हा तयार केला गेला आहे.
-firefox-developer-congrats-you-now-have-firefox = अभिनंदन. आपल्याकडे आता { -brand-name-firefox-quantum }: डेव्हलपर आवृत्ती आहे.
-firefox-developer-this-isnt-just-an-update = हे फक्त एक अपडेट नाही. हा { -brand-name-firefox } Quantum आहे: एक नवीनतम { -brand-name-firefox } जो जलद, चपळ आणि शक्तिशाली होण्याकरिता मुळापासून बांधला गेला आहे.

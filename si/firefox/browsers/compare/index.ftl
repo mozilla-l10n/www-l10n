@@ -5,5 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
-compare-index-see-how-firefox-for-mobile = වෙනත් ජංගම අතිරික්සු පහක් සමඟ දුරකථන සඳහා { -brand-name-firefox } සසඳන්න.
-compare-index-compare = සසඳන්න

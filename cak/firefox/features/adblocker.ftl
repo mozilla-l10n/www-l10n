@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -16,22 +16,12 @@ features-adblocker-an-ad-blocker-is-a-piece = Jun q'atöy eltzijol, jun kema' no
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Re eltzijol re' rik'in jub'a' e silowäch yetararyax, yatrojqaj pa k'ïy ruxaq, ojqanela', taq kikuki aj rox winäq, chuqa' juley chik. Richin nawokisaj jun q'atöy, yatikïr ye'akanoj taq tz'aqat e k'o richin ri awokik'amaya'l. <a href="{ $firefox }">{ -brand-name-firefox }</a>, achi'el ri <a href="{ $addons }">ke'anik'oj re kitz'aqat taq q'atöy re'</a>. Tapitz'a' pa re rucholajem re' (o tacha' jun chik ri ütz chi re ri awokik'amaya'l) achike na ri awajowaxik.
 features-adblocker-find-the-right-ad-blocker = Tawila' ri ütz kiq'atb'al eltzijol
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = K'o ri <a href="{ $url }">AdBlocker Ultimate</a> ri yerelesaj el konojel ri taq eltzijol, po jujun chi ke ri taq atalutzij chuqa' ch'uti talutzij e k'o ruma ri eltzijol. We k'ïy winaqi' yekiq'ät ri taq eltzijol k'o chupam, rik'in jub'a' nikitz'apij.
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = ri elenel taq eltzijol yalan e itzel. Keq'at rik'in <a href="{ $url }">Popup Blocker</a> richin majub'ey xke'atz'ët chik kiwa.
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Jun jeb'ël q'atöy eltzijol ja ri <a href="{ $url }">AdBlock</a>, ütz richin { -brand-name-chrome }, { -brand-name-safari } chuqa' { -brand-name-firefox }. Tawokisaj richin nawelesaj eltzijol pa { -brand-name-facebook }, { -brand-name-youtube } chuqa' { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = Tatz'uku jun k'ojlib'äl akuchi' majun ojaqanela' k'o rik'in ri Ruq'atik Rupam
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = Pa { -brand-name-firefox } yatikïr nawokisaj <a href="{ $privacy }">Ichinanem</a> o <a href="{ $blocking }">Ruq'atik Rupam</a> richin nachajij awi' chi kiwäch ri ojqanela' yekitäq chawe ri taq eltzijol.
 features-adblocker-choose-your-level-of-protection = Tacha' ri runimilem achajinik
-features-adblocker-to-start-click-on-the = Richin nitikirisäx, tapitz'a' pa ri ruk'utsamaj { -brand-name-firefox }, pa ri rajsik rajkiq'a' rutz'ik ruwäch. Akuchi' yewachin oxi' juch' kiwarab'en ki'. Pa ri k'utsamaj niq'alajin, tacha' Ruq'atik Rupam. K'o ta chi natz'ët jun elenel xar kajtz'ik rik'in jalajoj taq cha'oj.
 features-adblocker-go-easy-with-standard = Eqal tab'ana' rik'in ri pa Rub'eyal b'anikil
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -53,7 +43,3 @@ features-adblocker-send-a-do-not-track-signal = Titaq jun etal richin Mani Kinoj
 features-adblocker-if-you-dont-want-your = We man nawajo' ta chi ri nab'än pa k'amab'ey tokisäx richin eltzijol, yatikïr natäq chi ke ri ruxaq “Matyox po mani matyox” rik'in ri cha'oj <a href="{ $url }">Mani Ojqanem</a> rucha'oj { -brand-name-firefox }. Man tojel ta ri to'ïk, po ri jujun taq ruxaq ajk'amaya'l ri yeto'on man xkatkojqaj ta.
 features-adblocker-speed-up-thanks-to-ad = Wakami yalan anin kuma ri q'atöy taq eltzijol
 features-adblocker-in-some-cases-an-ad-blocker = K'o re', jun q'atöy eltzijol yatruto' richin anin yatok pa k'amaya'l. Toq nisamajïx jun eltzijol rik'in jub'a' eqal nub'än chi re ri ruxaq. Man xa xe ta ri', chuqa' k'o chi ye'atz'apila' ri taq eltzijol yetuk'ulun pe, toq ke ri' kan eqal xtawïl ri tajin nakanoj.
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more = We nawajo' nawetamaj pa ruwi ri ruq'atik eltzijol, k'ïy taq ruk'amal q'atoj e k'o richin ri { -brand-name-firefox } chuqa' kichin ch'aqa' chik taq okik'amaya'l. We nawajo' ye'atojtob'ej ri taq q'atonela' nrokisaj ri { -brand-name-firefox }, <a href="{ $url }">taqasaj</a> jun okik'amaya'l ri runab'eyisaj ri  awichinanem.
-features-adblocker-take-control-of-your-browser = Tak'waj rub'ey ri akanob'al.

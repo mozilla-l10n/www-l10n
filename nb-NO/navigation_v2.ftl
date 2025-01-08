@@ -1,10 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = Last ned { -brand-name-firefox }
-navigation-v2-get-a-firefox-account = Få en { -brand-name-firefox-account }
 navigation-v2-menu = Meny
 
 ## Firefox menu
@@ -16,8 +15,6 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } for { -brand-name-an
 navigation-v2-get-the-customizable-mobile = Få den tilpassbare mobilnettleseren for { -brand-name-android }-smarttelefoner.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } for { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Få mobilnettleseren for { -brand-name-iphone } eller { -brand-name-ipad }.
-navigation-v2-privacy-promise = Personvernløfte
-navigation-v2-learn-how-firefox-treats = Les om hvordan { -brand-name-firefox } behandler dine data med respekt.
 navigation-v2-firefox-blog = { -brand-name-firefox }-blogg
 navigation-v2-read-about-new-firefox-features = Les om nye { -brand-name-firefox }-funksjoner og måter å være trygg på nettet.
 navigation-v2-release-notes = Versjonsnotat
@@ -28,16 +25,13 @@ navigation-v2-view-all-firefox-browsers = Vis alle { -brand-name-firefox-browser
 
 navigation-v2-products = Produkter
 navigation-v2-close-products-menu = Lukk Produkter-menyen
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = Se om e-postadressen din har dukket opp i et selskaps datalekkasje.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Lagre og oppdag de beste artiklene fra hele nettet.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Hjelp til med å forhindre at { -brand-name-facebook } samler inn data utenfor nettstedet deres.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
-navigation-v2-product-promise = Produktløfte
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (beta)
 navigation-v2-view-all-products = Vis alle produkter
 
 ## Who We Are menu
@@ -59,7 +53,6 @@ navigation-v2-more-about-mozilla = Mer om { -brand-name-mozilla }
 
 navigation-v2-innovation = Innovasjon
 navigation-v2-close-innovation-menu = Lukk Innovasjon-menyen
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Få nettleseren { -brand-name-firefox } utviklet for utviklere.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
@@ -67,4 +60,3 @@ navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Bidra med stemmen din slik at fremtiden på nettet kan høre alle.
 navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-more-mozilla-innovation = Flere { -brand-name-mozilla }-innovasjoner

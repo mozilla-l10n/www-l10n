@@ -7,22 +7,14 @@
 
 # HTML page title
 welcome-page1-more-than-a-browser-mozilla = ਬਰਾਊਜ਼ਰ ਤੋਂ ਵੱਧ ਕੇ - { -brand-name-mozilla-monitor } ਹੈਕਰਾਂ ਤੋਂ ਬਚਾਅ ਕੇ ਰੱਖਦਾ ਹੈ
-# Outdated string
-welcome-page1-more-than-a-browser-firefox = ਬਰਾਊਜ਼ਰ ਤੋਂ ਵੱਧ ਕੇ - { -brand-name-firefox-monitor } ਹੈਕਰਾਂ ਤੋਂ ਬਚਾਅ ਕੇ ਰੱਖਦਾ ਹੈ
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = { -brand-name-firefox } ਉਤਪਾਦਾਂ ਦੇ ਗਰੁੱਪ ਨਾਲ ਆਪਣੀ ਆਨਲਾਈਨ ਸੁਰੱਖਿਆ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਅਗਲੇਰੇ ਕਦਮ ਚੁੱਕੋ।
 welcome-page1-stay-ahead-of-hackers-check-v2 = ਹੈਕਰਾਂ ਤੋਂ ਅੱਗੇ ਰਹੋ। { -brand-name-mozilla-monitor } ਨਾਲ ਡਾਟਾ ਸੰਨ੍ਹਮਾਰੀ ਦੀ ਜਾਂਚ ਕਰੋ।
-# Obsolete string
-welcome-page1-stay-ahead-of-hackers-check = ਹੈਕਰਾਂ ਤੋਂ ਅੱਗੇ ਰਹੋ। { -brand-name-firefox-monitor } ਨਾਲ ਡਾਟਾ ਸੰਨ੍ਹਮਾਰੀ ਦੀ ਜਾਂਚ ਕਰੋ।
 welcome-page1-youre-on-track-to-stay-protected = ਸੁਰੱਖਿਅਤ ਲਈ ਤੁਸੀਂ ਸਹੀ ਰਾਹ ਉੱਤੇ ਹੋ
 welcome-page1-youve-got-the-web-browser = ਤੁਹਾਡੇ ਕੋਲ ਉਹ ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਦਾ ਹੈ — ਹੁਣ ਹੈਕਰਾਂ ਦੇ ਸ਼ਿਕਾਰ ਦਾ ਵੇਲਾ ਆ ਗਿਆ ਹੈ।
 welcome-page1-check-your-breach-report = ਆਪਣੀ ਸੰਨ੍ਹ ਲੱਗਣ ਦੀ ਰਿਪੋਰਟ ਦੀ ਜਾਂਚ ਕਰੋ
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-mozilla-monitor-shows-you = ਜੇ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਕਿਸੇ ਜਾਣੀ ਪਛਾਣੀ ਡਾਟਾ ਸੰਨ੍ਹਮਾਰੀ ਵਿੱਚ ਲੀਕ ਹੋ ਚੁੱਕੀ ਹੋਵੇ ਤਾਂ { -brand-name-mozilla-monitor } ਤੁਹਾਨੂੰ ਸੂਚਿਤ ਕਰਦਾ ਹੈ ਅਤੇ ਭਵਿੱਖ ਵਿੱਚ ਵੀ ਜੇ ਹੋਵੇ ਤਾਂ ਤੁਹਾਨੂੰ ਚੇਤਾਵਨੀ ਦਿੰਦਾ ਹੈ।
-# Obsolete string
-welcome-page1-firefox-monitor-shows-you = ਜੇ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਕਿਸੇ ਜਾਣੀ ਪਛਾਣੀ ਡਾਟਾ ਸੰਨ੍ਹਮਾਰੀ ਵਿੱਚ ਲੀਕ ਹੋ ਚੁੱਕੀ ਹੋਵੇ ਤਾਂ { -brand-name-firefox-monitor } ਤੁਹਾਨੂੰ ਸੂਚਿਤ ਕਰਦਾ ਹੈ ਅਤੇ ਭਵਿੱਖ ਵਿੱਚ ਵੀ ਜੇ ਹੋਵੇ ਤਾਂ ਤੁਹਾਨੂੰ ਚੇਤਾਵਨੀ ਦਿੰਦਾ ਹੈ।
 welcome-page1-stay-ahead-of-hackers = ਹੈਕਰਾਂ ਤੋਂ ਸਾਵਧਾਨ ਰਹੋ
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/

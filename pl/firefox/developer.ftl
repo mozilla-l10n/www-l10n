@@ -11,8 +11,6 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } to oszałamiająco wydajna przeglądarka, oferująca nowoczesne narzędzia dla programistów i najnowsze funkcje, takie jak obsługa CSS Grid i debugowanie bibliotek
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Witaj na pokładzie swojej nowej ulubionej przeglądarki. Najnowsze funkcje, najszybsze działanie oraz narzędzia do budowania otwartego Internetu.
 firefox-developer-speak-up = Daj nam znać
 firefox-developer-feedback-makes-us = Opinie innych pomagają nam być lepszymi. Powiedz nam, jak możemy ulepszyć przeglądarkę i narzędzia.
@@ -75,15 +73,11 @@ firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-develo
 firefox-developer-download-the-firefox-browser = Pobierz przeglądarkę { -brand-name-firefox } tworzoną z myślą o twórcach sieci
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } został zrekonstruowany od podstaw, dzięki czemu jest szybszy, elegantszy i potężniejszy niż kiedykolwiek.
 firefox-developer-welcome-to-firefox-developer-edition = Witaj w { -brand-name-firefox-developer-edition(case: "loc") }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = Witaj w { -brand-name-firefox-browser(case: "loc", capitalization: "lower") } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Przeglądarka tworzona z myślą o twórcach sieci
 firefox-developer-all-the-latest-v2 = Wszystkie najnowsze narzędzia dla programistów z bety plus takie funkcje, jak wielowierszowy edytor konsoli i inspektor WebSocket.
 firefox-developer-a-separate-profile = <strong>Oddzielny profil i ścieżka</strong> sprawiają, że można ją łatwo uruchamiać obok stabilnego wydania lub { -brand-name-firefox(case: "gen") } { -brand-name-beta }.
 firefox-developer-preferences-tailored = Preferencje <strong>dopasowane pod programistów</strong>: debugowanie przeglądarki i debugowanie zdalne są domyślnie włączone, podobnie jak ciemny motyw i przycisk paska narzędzi dla programistów.
 firefox-developer-congrats-you-now-have-latest-v2 = Używasz teraz najnowszej wersji { -brand-name-firefox-developer-edition(case: "gen") }.
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = Gratulacje. Używasz teraz najnowszej wersji { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } { -brand-name-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Otwórz <a { $attrs }>informacje o wydaniu</a> (tylko w języku angielskim), aby zobaczyć, co nowego.

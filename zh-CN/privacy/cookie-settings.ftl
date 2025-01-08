@@ -10,8 +10,6 @@ cookie-settings-page-desc = 本页面说明了 { -brand-name-mozilla } 可能使
 cookie-settings-breadcrumb-link = 上一页
 cookie-settings-explainer = Cookie 是包含信息的小型文件，会在您访问网站时保存到计算机或设备上。{ -brand-name-mozilla } 使用 Cookie 来支持网站运行，并收集您在我们网站上的使用情况和交互方式（例如记录您访问过的页面）。
 cookie-settings-page-intro-v2 = 本页描述了 { -brand-name-mozilla } 可能使用的不同类型的 Cookie 及类似技术如像素标签、网络信标、透明 GIF、JavaScript 和本地存储技术(以下简称“Cookie”)并让您可以控制您同意 { -brand-name-mozilla } 收集哪些类型的数据。
-# Obsolete string (expires: 2024-07-01)
-cookie-settings-page-intro = 此页面说明了 { -brand-name-mozilla } 可能使用的各类 Cookie 及类似技术（例如像素标签、网络信标、透明 GIF、JavaScript、本地存储，以下统称“Cookie”），您可控制同意 { -brand-name-mozilla } 收集的数据种类。
 cookie-settings-how-mozilla-heading = { -brand-name-mozilla } 使用 Cookie 的方式
 cookie-settings-how-does-mozilla-use-subheading = { -brand-name-mozilla } 使用此数据的方式
 cookie-settings-save-changes = 保存更改

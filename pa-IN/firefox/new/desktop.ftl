@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ਨੂੰ
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = ਜਿਵੇਂ ਇੰਟਰਨੈੱਟ ਵੱਧਦਾ ਅਤੇ ਬਦਲਦਾ ਹੈ ਤਾਂ { -brand-name-firefox } ਪਰਦੇਦਾਰੀ ਦੇ ਤੁਹਾਡੇ ਹੱਕ ਉੱਤੇ ਕੇਂਦਰਿਤ ਰਹਿੰਦਾ ਹੈ — ਅਸੀਂ ਇਸ ਨੂੰ <a { $attrs }>ਨਿੱਜੀ ਡਾਟੇ ਦਾ ਵਾਅਦਾ</a> ਕਹਿੰਦੇ ਹਾਂ: ਘੱਟ ਲਵੋ, ਉਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖੋ। ਕੋਈ ਭੇਤ ਨਹੀਂ। ਤੁਹਾਡਾ ਡਾਟਾ, ਤੁਹਾਡੀ ਵੈੱਬ ਸਰਗਰਮੀ, ਤੁਹਾਡੀ ਆਨਲਾਈਨ ਜ਼ਿੰਦਗੀ { -brand-name-firefox } ਨਾਲ ਸੁਰੱਖਿਅਤ ਹੈ।
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } ਤੁਹਾਡੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਲਈ ਉਪਲਬਧ ਹੈ; ਆਪਣੀਆਂ ਟੈਬਾਂ, ਅਤੀਤ ਅਤੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਆਪਣੇ ਨਾਲ ਰੱਖੋ। ਤੁਹਾਨੂੰ ਬੱਸ <a { $attrs }>{ -brand-name-firefox } ਖਾਤਾ</a> ਚਾਹੀਦਾ ਹੈ।
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } ਤੁਹਾਡੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਲਈ ਮੌਜੂਦ ਹੈ; ਆਪਣੀਆਂ ਟੈਬਾਂ, ਅਤੀਤ ਅਤੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਆਪਣੇ ਨਾਲ ਰੱਖੋ। ਤੁਹਾਨੂੰ ਸਿਰਫ਼ ਇੱਕ <a { $attrs }>{ -brand-name-mozilla-account }</a> ਚਾਹੀਦਾ ਹੈ ਅਤੇ ਤੁਹਾਨੂੰ ਸਿੰਕ ਕਰਨ ਦਾ ਮੌਕਾ ਅਤੇ { -brand-name-mozilla } ਉਤਪਾਦ ਮਿਲਣਗੇ।
@@ -147,8 +143,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ਆਪ�
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ਕੋਈ ਸਵਾਲ? <a { $attrs }>{ -brand-name-mozilla } ਸਹਿਯੋਗ</a> ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ।
 firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monitor } ਨਾਲ ਹੈਕਰਾਂ ਤੋਂ ਬਚਾਅ ਰੱਖੋ, { -brand-name-firefox-relay } ਨਾਲ ਆਪਣੇ ਈਮੇਲ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ ਅਤੇ ਕਈ ਕੁਝ ਹੋਰ।
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor } ਨਾਲ ਹੈਕਰਾਂ ਉੱਤੇ ਨਿਗ੍ਹਾ ਰੱਖੋ, { -brand-name-firefox-relay } ਨਾਲ ਆਪਣੇ ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਨੂੰ ਬਚਾਅ ਅਤੇ ਹੋਰ।
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -186,4 +180,3 @@ firefox-desktop-download-please-follow = { -brand-name-firefox } ਨੂੰ ਇ�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = { -brand-name-firefox } ਲਈ ਤੁਹਾਡਾ ਸਿਸਟਮ ਲੋੜਾਂ ਪੂਰੀਆਂ ਨਹੀਂ ਕਰਦਾ ਹੈ, ਪਰ ਤੁਹਾਨੂੰ <a href="{ $url }">ਇਹਨਾਂ ਵਰਜ਼ਨਾਂ</a> ਵਿੱਚੋਂ ਇੱਕ ਵਰਤ ਕੇ ਵੇਖਣਾ ਚਾਹੀਦਾ ਹੈ।
-firefox-desktop-download-taskbar = ਇੰਸਟਾਲੇਸ਼ਨ ਦੇ ਬਾਅਦ { -brand-name-firefox } ਨੂੰ { -brand-name-windows } ਟਾਸਕ-ਬਾਰ ਵਿੱਚ ਟੰਗਿਆ ਜਾਵੇਗਾ

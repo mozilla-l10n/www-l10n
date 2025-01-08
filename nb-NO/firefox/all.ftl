@@ -1,31 +1,22 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-firefox-all-check-the-system-requirements = Kontroller systemkravene
-firefox-all-release-notes = Versjonsnotat
-firefox-all-source-code = Kildekode
-firefox-all-need-help = Trenger du hjelp?
-firefox-all-which-browser-would = Hvilken nettleser vil du laste ned?
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Få hjelp
-firefox-all-you-are-about-to-download = Du er i ferd med å laste ned:
-firefox-all-browser = Nettleser:
-firefox-all-platform = Plattform:
-firefox-all-language = Språk:
 firefox-all-lang-multi = Flere språk
 firefox-all-sorry-we-couldnt-find = Dessverre fant vi ikke nedlastingen du leter etter. Prøv igjen, eller velg en nedlasting fra listen nedenfor.
 firefox-all-the-pre-alpha-version = Pre-alfa-versjonen for mer erfarne brukere som liker å hjelpe til med å finne feil og teste nye funksjoner mens de blir programmert.
 firefox-all-64-bit-installers = 64-bit installasjonsprogrammer
 firefox-all-choose-a-64-bit-installer = Velg et 64-bit installasjonsprogram for datamaskiner med 64-bits prosessorer, noe som gjør at datamaskinen kan fordele mer RAM til enkelte programmer — spesielt viktig for spill og andre krevende program.
 firefox-all-32-bit-installers = 32-bit installasjonsprogrammer
-# HTML page title. Replace "English (US)" with your local language.
-firefox-all-download-the-firefox = Last ned { -brand-name-firefox-browser }en på norsk (bokmål) og mer enn 90 andre språk
-# HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access = Alle fortjener å ha tilgang til internett — språket ditt skal aldri være en hindring. Derfor gjør vi { -brand-name-firefox-browser }en tilgjengelig på mer enn 90 språk med hjelp fra engasjerte frivillige rundt om i verdenen.
+firefox-all-check-the-system-requirements = Kontroller systemkravene
+firefox-all-release-notes = Versjonsnotat
+firefox-all-source-code = Kildekode
+firefox-all-need-help = Trenger du hjelp?
 firefox-all-choose-which-firefox = Velg hvilken { -brand-name-firefox-browser } du vil laste ned på ditt språk
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } personvernbestemmelser
 firefox-all-learn-about-firefox = Les mer om { -brand-name-firefox }-nettlesere
@@ -35,7 +26,6 @@ firefox-all-test-your-sites-against = Test nettstedene dine opp mot kommende fun
 firefox-all-count-on-stability-and = Denne versjonen av { -brand-name-firefox } er utviklet for virksomheter og har fokus på stabilitet og brukervennlighet.
 firefox-all-windows-installers-for = Windows-installasjonsprogrammer for IT-miljø i bedrifter som forenkler konfigurasjonen, distribusjonen og håndtering av { -brand-name-firefox-browser }en.
 firefox-all-arm64-installers = ARM64/AArch64-installasjonsprogrammer
-firefox-all-arm64-installers-optimized = ARM64/AArch64-installasjonsprogrammer som er optimalisert for { -brand-name-windows }-datamaskiner drevet av Snapdragon.
 firefox-all-product-send-link = Send en nedlastingslenke til telefonen din
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os

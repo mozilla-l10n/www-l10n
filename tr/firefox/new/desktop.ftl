@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozil
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = İnternet büyüyüp geliştikçe { -brand-name-firefox } gizlilik haklarınıza daha fazla odaklanıyor. Buna <a { $attrs }>Kişisel Veri Sözü</a> diyoruz: Daha az topla. Güvenle sakla. Sır tutma. Verileriniz, internette yaptıklarınız ve çevrimiçi yaşamınız { -brand-name-firefox } ile güvende.
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox }’u tüm cihazlarınızda kullanabilirsiniz: Sekmelerinizi, geçmişinizi ve yer imlerinizi yanınızda taşıyın. Tek ihtiyacınız bir <a { $attrs }>{ -brand-name-firefox } hesabı</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } tarayıcısını tüm cihazlarınızda kullanabilirsiniz. Sekmelerinizi, geçmişinizi ve yer imlerinizi yanınızda taşımak için tek ihtiyacınız bir <a { $attrs }>{ -brand-name-mozilla-account }</a>. Hesap açarak verilerinizi senkronize edebilir ve diğer { -brand-name-mozilla } ürünlerine erişebilirsiniz.
@@ -146,13 +142,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox }, web et
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Sorularınız mı var? <a { $attrs }>{ -brand-name-mozilla } Destek</a>’e danışabilirsiniz.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Tarayıcınızı indirmeye hazırsınız. Diğer { -brand-name-firefox } ürünlerine de bakmaya ne dersiniz?
 firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monitor } ile hacker’lardan kaçınabilir, { -brand-name-firefox-relay } ile e-posta adresinizi koruyabilir ve çok daha fazlasını yapabilirsiniz.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = { -brand-name-firefox-monitor } ile hacker’lardan kaçınabilir, { -brand-name-firefox-relay } ile e-posta adresinizi koruyabilir ve çok daha fazlasını yapabilirsiniz.
-firefox-desktop-download-get-more-from-firefox = Diğer { -brand-name-firefox } ürünlerini göster
-firefox-desktop-download-just-download-the-browser = Yalnızca tarayıcıyı indir
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -190,4 +180,3 @@ firefox-desktop-download-please-follow = { -brand-name-firefox }’u yüklemek i
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Sisteminiz { -brand-name-firefox }’un gereksinimlerini karşılamıyor olabilir ama <a href="{ $url }">şu sürümlerden</a> birini deneyebilirsiniz.
-firefox-desktop-download-taskbar = Kurulumdan sonra { -brand-name-firefox }, { -brand-name-windows } görev çubuğuna sabitlenecektir

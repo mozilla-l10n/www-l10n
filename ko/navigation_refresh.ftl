@@ -19,7 +19,9 @@ navigation-refresh-innovation-projects-v2 = 혁신 프로젝트
 navigation-refresh-blog = 블로그
 navigation-refresh-our-mission = 사명
 navigation-refresh-our-work = 주요 업무
+# Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
+# Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ventures = { -brand-name-mozilla } 벤처스
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } 광고
 

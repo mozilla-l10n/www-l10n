@@ -37,3 +37,6 @@ download-button-firefox-android = <span>{ -brand-name-firefox }</span> ika { -br
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> ika { -brand-name-ios }
 download-button-firefox-privacy = Keniuj { -brand-name-firefox } kiyekpia tein kiselia
 download-button-download = Xikontemoui
+
+## Linux
+

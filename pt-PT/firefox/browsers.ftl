@@ -10,9 +10,6 @@ firefox-browsers-page-title = Transfira o { -brand-name-firefox } para computado
 # HTML page description
 firefox-browsers-page-desc = Escolha a partir da versão para computador, { -brand-name-ios }, { -brand-name-android } ou deixe-nos enviar-lhe um e-mail com uma ligação de transferência móvel.
 firefox-browsers-main-heading = Navegadores { -brand-name-firefox }
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = Obtenha os <strong>navegadores</strong> que colocam a sua privacidade em primeiro lugar — e que sempre o fizeram
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Obtenha o navegador que coloca a sua privacidade em primeiro lugar – e que <strong>sempre</strong> o fez
 firefox-browsers-desktop = Computador

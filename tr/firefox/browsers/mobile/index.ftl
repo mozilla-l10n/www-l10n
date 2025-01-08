@@ -21,13 +21,8 @@ browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Gelişmiş gizlilik özelliklerine sahip, basit ve hızlı bir tarayıcı mı arıyorsunuz? { -brand-name-firefox-focus } tarayıcıyı açtığınız andan kapattığınız ana kadar gizliliğinizi korur ve gezinti geçmişinizi otomatik olarak siler.
 browsers-mobile-compare = Karşılaştır
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = { -brand-name-firefox }’un bilgisayar sürümünün diğer tarayıcılarla karşılaştırmasını inceleyin.
-# Obsolete string (expires 30 June 2024)
-browsers-mobile-see-how-firefox-for-desktop-stacks = { -brand-name-firefox }’un bilgisayar sürümünün diğer yedi tarayıcıyla karşılaştırmasını inceleyin.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = { -brand-name-firefox }’un <strong>bilgisayar</strong> sürümünün diğer tarayıcılarla karşılaştırmasını inceleyin.
-# Obsolete string (expires 30 June 2024)
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = { -brand-name-firefox }’un <strong>bilgisayar</strong> sürümünün diğer yedi tarayıcıyla karşılaştırmasını inceleyin.
 browsers-mobile-download = İndir
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

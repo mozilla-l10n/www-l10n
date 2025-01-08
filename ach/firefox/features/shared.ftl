@@ -5,5 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-browse-faster = Yeny oyoto
-brand-name-firefox = { -brand-name-firefox }

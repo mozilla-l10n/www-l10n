@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/
@@ -22,8 +22,6 @@ about-firefox-fast-for-good = { -brand-name-firefox } : d arurad i lebda
 about-when-you-use-the-new-firefox = Ticki tseqdaceḍ { -brand-name-firefox } amaynut, ad tawiḍ tarmit d tuzribt nezzeh ticki teddiḍ ɣer tuɣdaḍt n { -brand-name-mozilla } n uḥraz n Internet deg tezmert yelhan, d anaṣli, yesterḥiben s yal yiwen.
 about-walking-our-privacy-talk = Walit awal-nneɣ ɣef tbaḍnit
 about-when-the-facebook-breach-was = Mi akken i d-yeffeɣ wawal ɣef trewla n yisefka n { -brand-name-facebook }, { -brand-name-mozilla } terra lewhi ɣef waya imir imir - tfeṣṣel afaris { -brand-name-firefox } ara yemmestanen tudert tabaḍnit n yiseqdacen.
-about-talking-internet-issues-irl = Awalen wuguren Internet IRL
-about-in-mozillas-irl-podcast-host = Ipudkasten IRL n { -brand-name-mozilla }, tin yettmeslayen ɣef tetiknulujit Manoush Zomorodi, tbeṭṭu tiqsiḍin n tidet srid daɣen tettawi-d awal n tidet ɣef uzekka neɣ imal n web.
 about-corporation-foundation-not = Takebbanit. Tasbeddit. War anadai ɣef tedrimt.
 about-learn-about-the-mozilla-foundation = Issin ugar ɣef { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } tzewwir imdanen uqbel abaɣur ɣef wayen akk i d-neqqar, i nbennu neɣ i nxeddem. S tidet, tasbeddit ur yettnadin ara tadrimt a-tt-an deg tlemmast n tkebbanit-nneɣ.

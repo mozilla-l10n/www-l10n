@@ -12,11 +12,6 @@ features-sync-access-your-firefox-bookmarks = Το { -brand-name-firefox } σά�
 features-sync-with-firefox-you-can-pick-up-where = Με το { -brand-name-firefox }, μπορείτε να συνεχίσετε από εκεί που σταματήσατε όταν κάνετε εναλλαγή μεταξύ του υπολογιστή, του τηλεφώνου και του tablet σας. Το { -brand-name-firefox } σάς επιτρέπει να βλέπετε τους σελιδοδείκτες, το ιστορικό περιήγησης, τους αποθηκευμένους σας κωδικούς πρόσβασης και πολλά άλλα, ανεξάρτητα από τη συσκευή που χρησιμοποιείτε.
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Δημιουργήστε έναν δωρεάν { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }</a> και θα μπορείτε να συγχρονίζετε τα δεδομένα σας σε όποια συσκευή χρησιμοποιείτε το { -brand-name-firefox } και άλλα προϊόντα της { -brand-name-mozilla }.
-# Obsolete string
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Δημιουργήστε έναν δωρεάν { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }</a> και θα μπορείτε να συγχρονίζετε τα δεδομένα σας σε όποια συσκευή χρησιμοποιείτε το { -brand-name-firefox }.
-# Obsolete string
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Δημιουργήστε έναν δωρεάν λογαριασμό { -brand-name-firefox }</a> και θα μπορείτε να συγχρονίζετε τα δεδομένα σας σε όποια συσκευή χρησιμοποιείτε το { -brand-name-firefox }.
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Όλα τα δεδομένα σας είναι κρυπτογραφημένα στους διακομιστές μας, επομένως δεν μπορούμε να τα διαβάσουμε. Μόνο εσείς έχετε πρόσβαση σε αυτά. Δεν πουλάμε τις πληροφορίες σας σε διαφημιστές, επειδή αυτό θα ήταν αντίθετο με την <a href="{ $privacy }">υπόσχεσή μας για το απόρρητο των δεδομένων</a>.

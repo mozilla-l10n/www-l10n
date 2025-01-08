@@ -16,13 +16,9 @@ privacy-faq-at-mozilla-we-respect-and-protect = En { -brand-name-mozilla }, resp
 privacy-faq-we-follow-a-set-of-data-privacy = Nosotros seguimos una serie de <a href="{ $link }">Principios de privacidad de datos</a> que moldea nuestro acercamiento a la privacidad en { -brand-name-firefox }, tanto en los móviles como en las PC de escritorio.
 privacy-faq-we-only-collect-the-data-we = Solo guardamos la información que necesitamos para hacer los mejores productos.
 privacy-faq-we-put-people-in-control-of = Ponemos a las personas en control de su información y de sus experiencias en línea.
-# Obsolete string (expires 2024-09-11)
-privacy-faq-we-adhere-to-no-surprises-principle = Adherimos al principio “sin sorpresas”, lo que significa que trabajamos mucho para asegurarnos que lo que entienden las personas sobre { -brand-name-firefox } sea similar a la realidad.
 privacy-faq-we-adhere-to-no-surprises-principle-v2 = Adherimos al principio “sin sorpresas”, lo que significa que trabajamos mucho para asegurarnos que lo que entienden las personas sobre { -brand-name-firefox } sea similar a la realidad.
 privacy-faq-the-following-questions-and = Las preguntas y respuestas siguientes deberían ayudarte a entender que podés esperar de { -brand-name-mozilla } y { -brand-name-firefox }:
 privacy-faq-i-use-firefox-for-almost-everything = Uso { -brand-name-firefox } para casi todo lo que hago en la web. En { -brand-name-mozilla } deben saber un montón sobre mi, ¿cierto?
-# Obsolete string (expires 2024-09-11)
-privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox }, el navegador que funciona en tu dispositivo o computadora, es tu puerta de salida a internet. Tu navegador manejará mucha información acerca de los sitios que visitás, pero esa información queda en tu dispositivo. { -brand-name-mozilla }, la compañía que hace { -brand-name-firefox }, no la guarda (salvo que vos nos lo pidas).
 privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, el navegador que funciona en tu dispositivo o computadora, es tu puerta de salida a internet. Tu navegador manejará mucha información acerca de los sitios que visitás, pero esa información generalmente queda en tu dispositivo. { -brand-name-mozilla }, la compañía que hace { -brand-name-firefox }, no la guarda (salvo que vos nos lo pidas).
 privacy-faq-really-you-dont-collect-my-browsing = ¿En serio?¿Ustedes no guardan mi historial de navegación?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } no conoce tanto como podrías esperar acerca de cómo las personas navegan la web. Como una organización que hace un navegador, ese es un gran desafío para nosotros. Es por eso que creamos herramientas que tenés que decidir utilizar, que permiten que los usuarios interesados nos den pistas sobre su navegación web. Si sincronizás tu historial de navegación entre diferentes instalaciones de { -brand-name-firefox }, nosotros no conocemos ese historial, porque fue cifrado por tu dispositivo.
@@ -34,11 +30,6 @@ privacy-faq-wait-so-how-do-you-make-money = Un momento, ¿entonces cómo es que 
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } no es una organización corriente. Fundada como un proyecto de comunidad de comunidad de código abierto en 1998, { -brand-name-mozilla } es una organización guiada por una misión que trabaja por una Internet más saludable. La mayor parte de los ingresos de la { -brand-name-mozilla-corporation } proviene de las regalías ganadas a través de sociedades con buscadores usados por { -brand-name-firefox } y acuerdos de distribución en todo el mundo. Podés saber más acerca de cómo hacemos nuestro dinero en nuestro informe anual de finanzas <a href="{ $link }"></a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Muy bien, las primeras fueron fáciles. ¿Qué datos recolectan?
-# Obsolete string (expires 2024-09-11)
-# Variables:
-#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
-#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = { -brand-name-mozilla } sí recolecta una cantidad limitada de datos de manera predeterminada de { -brand-name-firefox } que nos ayuda a comprender la manera en que la gente usa el navegador. Estos datos tienen un identificador al azar en lugar de tu nombre o dirección de correo electrónico. Podés leer más acerca de eso en nuestro aviso de <a href="{ $privacy }"> privacidad</a> y podés leer la <a href="{ $data }">documentación completa relacionada con esa recolección de datos aquí</a>.
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
@@ -48,17 +39,9 @@ privacy-faq-we-make-our-documentation-public = Nuestra documentación es públic
 privacy-faq-that-documentation-is-gobbledygook = ¡Esa documentación es jeringozo para mí! ¿Podés decírmela en simple español?
 privacy-faq-there-are-two-categories-of = Hay dos categorías de datos que recolectamos de manera predeterminada en nuestra versión de { -brand-name-firefox } para el público.
 privacy-faq-the-first-is-what-we-call-technical = La primera es lo que llamamos "datos técnicos". Estos son datos del navegador en sí mismo, tales como el sistema operativo que usa e información sobre errores o fallos.
-# Obsolete string (expires 2024-09-11)
-privacy-faq-the-second-is-what-we-call-interaction = La segunda es lo que llamamos "datos de interacción". Estos son datos acerca de el uso individual de { -brand-name-firefox }, tales como la cantidad de pestañas abiertas, el estado de las preferencias del usuario, o la cantidad de veces que se usó determinada función del navegador somo capturas de pantalla o contenedores. Por ejemplo, recolectamos estos datos en términos del botón de retroceso, esa flecha en el rincón superior izquierdo de tu navegador que te permite navegar hacia atrás a un sitio anterior de manera tal que nos muestra que alguien usó dicho botón, pero no nos dice a qué páginas especificas se accedió.
 privacy-faq-the-second-is-what-we-call-interaction-v2 = La segunda es lo que llamamos “datos de interacción”. Estos son datos acerca de el uso individual de { -brand-name-firefox }, tales como la cantidad de pestañas abiertas, el estado de las preferencias del usuario o la cantidad de veces que se usó determinada función del navegador somo capturas de pantalla o contenedores. Por ejemplo, recolectamos estos datos a través del botón Atrás (esa flecha en el rincón superior izquierdo de tu navegador que te permite navegar hacia atrás a un sitio anterior) de manera tal que nos muestra que alguien usó dicho botón, pero no nos dice a qué páginas especificas se accedió.
 privacy-faq-do-you-collect-more-data-in = ¿Recolectan datos de las versiones preliminares de { -brand-name-firefox }?
-# Obsolete string (expires 2024-09-11)
-privacy-faq-sort-of-in-addition-to-the-data = De cierta manera, sí. Además de los datos ya descriptos, recibimos informes de fallos y de errores de manera predeterminada en la versión preliminar de { -brand-name-firefox }.
 privacy-faq-sort-of-in-addition-to-the-data-v2 = De cierta manera, sí. Además de los datos ya descriptos, recibimos informes de fallos y de errores de manera predeterminada en las versiones preliminares de { -brand-name-firefox }.
-# Obsolete string (expires 2024-09-11)
-# Variables:
-#   $link (url) - link to https://support.mozilla.org/kb/shield
-privacy-faq-we-may-also-collect-additional = También puede que recolectemos datos adicionales en la versión preliminar de uno de nuestros estudios <a href="{ $link }"></a>. Por ejemplo, algunos estudios requieren lo que llamamos "datos de actividad de la web", que pueden incluir direcciones URL y otra información sobre ciertos sitios Web. Esto ayuda a responder preguntas concretas para mejorar { -brand-name-firefox }, por ejemplo, cómo integrar mejor sitios web populares en localizaciones específicas.
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional-v2 = También puede que recolectemos datos adicionales en la versión preliminar de uno de nuestros <a href="{ $link }">estudios</a>. Por ejemplo, algunos estudios requieren lo que llamamos “datos de actividad de la web”, que pueden incluir direcciones URL y otra información sobre ciertos sitios Web. Esto nos ayuda a responder preguntas específicas para mejorar { -brand-name-firefox }, como ser, integrar mejor sitios web populares en localizaciones específicas.

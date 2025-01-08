@@ -21,13 +21,8 @@ browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Cerca un navigator mobile aerodynamic e ultrarapide con protection de confidentialitate al vanguarda? { -brand-name-firefox-focus } rade automaticamente tote tu historia de navigation a partir del momento que tu aperi le navigator usque al secunda que tu lo claude.
 browsers-mobile-compare = Comparar
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Vide como { -brand-name-firefox } pro scriptorio se compara con altere navigatores.
-# Obsolete string (expires 30 June 2024)
-browsers-mobile-see-how-firefox-for-desktop-stacks = Vide como { -brand-name-firefox } pro scriptorio se compara con septe altere navigatores.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Vide como { -brand-name-firefox } pro <strong>scriptorio</strong> se compara con altere navigatores.
-# Obsolete string (expires 30 June 2024)
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = Vide como { -brand-name-firefox } pro <strong>scriptorio</strong> se compara con septe altere navigatores.
 browsers-mobile-download = Discargar
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

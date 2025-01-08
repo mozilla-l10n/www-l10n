@@ -39,7 +39,6 @@ manifesto-the-mozilla-manifesto-addendum = { -brand-name-mozilla } ম্যা�
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = একটি স্বাস্থ্যকর ইন্টারনেটের জন্য অঙ্গীকার করুন
 manifesto-show-your-support = আপনার সমর্থন জানান
-manifesto-share-on-twitter = { -brand-name-twitter } এ শেয়ার করুন
 manifesto-our-10-principles = <strong>আমাদের ১০টি</strong> নীতি
 manifesto-read-the-entire-manifesto = সমগ্র মেনিফেস্টো পড়ুন
 manifesto-love-the-web = ওয়েব পছন্দ হয়েছে?

@@ -10,10 +10,6 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = { -brand-name-firefox } براؤزر برائے { -brand-name-android } پہلی واری کھولݨ کنوں تکھا، محفوظ تے نجی ہے۔
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = موبائل تے ونڄو۔ { -brand-name-android } کیتے { -brand-name-firefox } دے نال انڈی ونڄو۔
-# Obsolete string
-mobile-android-when-you-download = جݙاں تساں { -brand-name-firefox } ڈاؤن لوڈ کریندے او، تاں تساں ہک آزاد ٹیک کمپنی کوں سپورٹ کرݨ دا انتخاب کریندے او۔ { -brand-name-firefox } او کلھا وݙا براؤزر ہے جینکوں غیر منافع بخش لڑائی دی حمایت حاصل ہے تاں جو تہاکوں زیادہ کشادگی، شفافیت تے تہاݙی آن لائن زندگی تے کنٹرول حاصل ہووے۔
 mobile-android-get-firefox-for = { -brand-name-android } کیتے { -brand-name-firefox } گھنو
 mobile-android-send-a-download-link-to-your = آپݨے فون تے ہک ڈاؤن لوڈ لنک پٹھو۔
 mobile-android-scan-the-qr-code-to-get-started = شروع کرݨ کیتے QR کوڈ سکین کرو

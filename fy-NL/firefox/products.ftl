@@ -11,8 +11,6 @@ firefox-products-mozilla-products = { -brand-name-mozilla }’s produkten
 firefox-products-mozillas-family-of-products = De produktfamylje fan { -brand-name-mozilla } is ûntwurpen om jo online feiliger en tûker te hâlden
 firefox-products-products = Produkten
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } is noch mar it begjin.
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } is noch mar it begjin
 firefox-products-mozillas-family-of-products-sentence = De produktfamylje fan { -brand-name-mozilla } is ûntwurpen om jo online feiliger en tûker te hâlden.
 
 ## Firefox
@@ -67,6 +65,4 @@ firefox-products-analyze = In URL analysearje
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content-v2 = Untdek de bêste ynhâld op it web – en konsumearje dizze wêr en wannear’t jo mar wolle. Makke troch { -brand-name-mozilla }.
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = Untdek de bêste ynhâld op it web – en konsumearje dizze wêr en wannear’t jo mar wolle.
 firefox-products-get-pocket = { -brand-name-pocket } brûke

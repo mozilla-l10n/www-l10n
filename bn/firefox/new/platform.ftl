@@ -17,7 +17,7 @@ new-platform-advanced-install-options = উন্নত ইনস্টল অ�
 new-platform-download-in-another = অন্য ভাষাতে ডাউনলোড করুন
 new-platform-need-help = সাহায্য প্রয়োজন?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = { -brand-name-linux } এর জন্য { -brand-name-mozilla } { -brand-name-firefox } ডাউনলোড করুন
 # /firefox/linux/ social sharing title

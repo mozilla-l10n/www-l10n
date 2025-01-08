@@ -10,10 +10,6 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = { -brand-name-firefox }-browser voor { -brand-name-android } is snel, veilig en privé vanaf het moment dat u het voor de eerste keer opent.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = Ga mobiel. Ga indie met { -brand-name-firefox } voor { -brand-name-android }
-# Obsolete string
-mobile-android-when-you-download = Wanneer u { -brand-name-firefox } downloadt, kiest u ervoor om een onafhankelijk technologiebedrijf te steunen. { -brand-name-firefox } is de enige grote browser die wordt ondersteund door een non-profitorganisatie die vecht om u meer openheid, transparantie en controle over uw online leven te geven.
 mobile-android-get-firefox-for = Download { -brand-name-firefox } voor { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Een downloadkoppeling naar uw telefoon verzenden.
 mobile-android-scan-the-qr-code-to-get-started = Scan de QR-code om te beginnen
@@ -40,7 +36,6 @@ mobile-android-about-mozilla = Over { -brand-name-mozilla }
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } bestaat om het internet te bouwen als een openbare bron die voor iedereen toegankelijk is, omdat we geloven dat open en gratis beter is dan gesloten en gecontroleerd. We bouwen producten als { -brand-name-firefox } en { -brand-name-pocket } om keuze, transparantie en aansturing te bevorderen.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Neem de snelweg op het internet met { -brand-name-firefox } voor { -brand-name-android }
-mobile-android-get-there-faster = Kom er sneller met { -brand-name-firefox } voor { -brand-name-android }
 mobile-android-see-all-your-open-tabs = Bekijk al uw open tabbladen, recente zoekopdrachten en favoriete websites op één plek met de { -brand-name-firefox }-browser voor { -brand-name-android }.
 mobile-android-own-your-home = Bepaal zelf uw startscherm
 mobile-android-get-to-the-parts = Ga sneller naar de delen van het internet die u belangrijk vindt. Kies ervoor om al uw geopende tabbladen, recente zoekopdrachten, bladwijzers en favoriete websites op één plek te zien.

@@ -10,7 +10,6 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } estas la nekredeble rapida retumilo kiu donas al vi la plej ĵusajn ilojn por programistoj kaj la lastajn trajtojn, kiel subtenon por kradoj CSS kaj sencimigo de substrukturoj
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Bonvenon al via nova plej ŝatata retumilo. Ricevu la lastajn trajtojn, pli bonan efikecon kaj la ilojn por programistoj kiujn vi bezonas por konstrui celante la malfermitan teksaĵon.
 firefox-developer-speak-up = Esprimi vin
 firefox-developer-feedback-makes-us = Viaj opinioj plibonigas nin. Bonvolu diri al ni kiel ni povas perfektigi nian retumilon kaj niajn ilojn por programistoj.
@@ -55,21 +54,13 @@ firefox-developer-new-tools = Novaj iloj
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = La novaj { -brand-name-firefox-devtools } estas povaj, fleksemaj kaj, ĉefe, modifeblaj. Ili enhavas la plej bonan sencimigilon de JavaScript, kiu povas adaptiĝi al pluraj retumiloj kaj estas enmetita en React kaj Redux.
 firefox-developer-master-css-grid = Mastru la kadrojn CSS
-# outdated
-firefox-developer-next-gen-css-engine = Novgeneracia motoro de CSS
-firefox-developer-a-next-generation = Novgeneracia motoro de CSS
 firefox-developer-master-innovative-features = Antaŭgvardiaj trajtoj
 firefox-developer-want-to-be-on-the-cutting-edge = Ĉu vi ŝatus rajdi la pinton de la ondo?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } ricevas ĉiutagajn ĝisdatigojn kaj permesas al vi aliri trajtojn monatojn antaŭ ol ili aperas en la stabila versio.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } inkluzivas novan motoron CSS, skribita en Rust, kiu havas la plej novajn trajtojn kaj estas nekredeble rapida.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } estas la ununura retumilo kun iloj kiuj celas fasonon kaj konstruon per kradoj CSS. Tiuj ĉi iloj, permesos al vi vidi la kradon, montri la asociitajn areajn nomojn, antaŭvidi transformojn en la kradoj kaj multe pli.
 firefox-developer-convenient-features = Oportunaj trajtoj
-firefox-developer-faster-performance = Pli da efikeco
 firefox-developer-shapes-editor = Redaktilo de formoj
 firefox-developer-fonts-panel = Panelo de tiparoj
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } aŭtomate sendas informojn al { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Elŝutu la retumilon de { -brand-name-firefox } farita por programistoj
-firefox-developer-welcome-to-the-all-new = Bonvenon al la tute nova { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } estis tute rekonstruita por esti pli rapida, rimedŝpara kaj pli pova ol iam ajn.
-firefox-developer-congrats-you-now-have-firefox = Gratulon. Vi nun havas { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Tio ĉi ne estas nura ĝisdatigo. Tio ĉi estas { -brand-name-firefox-quantum }: tute nova { -brand-name-firefox }, kiu estis tute rekonstruita por esti pli rapida, rimedŝpara kaj pli pova ol iam ajn.

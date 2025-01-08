@@ -19,10 +19,6 @@ installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc-v2 = Szerezze be a legfrissebbet. Az automatikus adatvédelem megérkezett. Töltse le a { -brand-name-firefox(case: "accusative") }, és blokkoljon több mint { $trackers } nyomkövetőt.
-# Obsolete string (expires: 2024-05-14)
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Szerezze be a legfrissebbet. Az automatikus adatvédelem megérkezett. Töltse le a { -brand-name-firefox-browser }t, és blokkoljon több mint { $trackers } nyomkövetőt.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Tesztelje a kiadásra váró funkciókat a legstabilabb, kiadás előtti változatban.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }

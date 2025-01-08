@@ -17,7 +17,7 @@ new-platform-advanced-install-options = የላቁ የመጫኛ አማራጮች �
 new-platform-download-in-another = በሌላ ቋንቋ ያውርዱ
 new-platform-need-help = እርዳታ ይፈልጋሉ?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = { -brand-name-mozilla } { -brand-name-firefox }ን ለ { -brand-name-linux } አውርድ
 # /firefox/linux/ HTML page description

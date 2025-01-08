@@ -21,4 +21,3 @@ features-adblocker-go-easy-with-standard = Gawin ng madali gamit ang Standard Mo
 features-adblocker-do-it-yourself-custom = Do-it-yourself Custom mode
 features-adblocker-cover-your-trail-block = Itago ang iyong bakas, i-block ang mga trackers
 features-adblocker-speed-up-thanks-to-ad = Pabilisin salamat sa mga ad blocker
-features-adblocker-take-control-of-your-browser = Kontrolin ang iyong browser.

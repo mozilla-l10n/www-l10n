@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } var búi�
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Eftir því sem internetið stækkar og breytist heldur { -brand-name-firefox } áfram að einbeita sér að rétti þínum til friðhelgi einkalífs – við köllum það <a { $attrs }>loforð um persónuupplýsingar</a>: Taka minna. Geyma öruggt. Engin leyndarmál. Gögnin þín, vefvirkni þín, líf þitt á netinu er verndað með { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } er fáanlegt í öllum tækjunum þínum; taktu flipana þína, vafurferilinn og bókamerkin með þér. Allt sem þú þarft er <a { $attrs }>{ -brand-name-firefox } reikningur</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } er í boði í öllum tækjunum þínum; taktu flipana þína, vafurferil og bókamerki með þér. Allt sem þú þarft er <a { $attrs }>{ -brand-name-mozilla-account }</a> og þú munt geta samstillt þetta á milli tækjanna þinna, auk þess að bjóðast fleiri gerðir af { -brand-name-mozilla }-hugbúnaði.
@@ -146,13 +142,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Spurningar? <a { $attrs }>{ -brand-name-mozilla } aðstoðin</a> hefur flest sem þú þarft.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Þú ert nú þegar með vafrann. Fáðu nú enn meira frá { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with-v3 = Fylgstu með tölvuþrjótum í gegnum { -brand-name-mozilla-monitor }, verndaðu tölvupóstfangið þitt með { -brand-name-firefox-relay } og ýmislegt fleira.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Fylgstu með tölvuþrjótum í gegnum { -brand-name-firefox-monitor }, verndaðu tölvupóstfangið þitt með { -brand-name-firefox-relay } og ýmislegt fleira.
-firefox-desktop-download-get-more-from-firefox = Fáðu meira frá { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Sækja bara vafrann
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -190,4 +180,3 @@ firefox-desktop-download-please-follow = Fylgdu þessum <a href="{ $url }">leið
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Kerfið þitt uppfyllir mögulega ekki þær kröfur sem þarf fyrir { -brand-name-firefox }, en þú getur prófað einhverja af <a href="{ $url }">þessum útgáfum</a>.
-firefox-desktop-download-taskbar = { -brand-name-firefox } verður fest við { -brand-name-windows } verkefnastikuna eftir uppsetningu

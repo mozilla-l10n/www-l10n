@@ -40,10 +40,7 @@
 -brand-name-firefox-esr = Firefox ESR
 -brand-name-firefox-extended-support-release = Firefox Extended Support Release
 -brand-name-firefox-focus = Firefox Focus
--brand-name-firefox-lite = Firefox Lite
 -brand-name-firefox-nightly = Firefox Nightly
--brand-name-firefox-reality = Firefox Reality
--brand-name-firefox-daylight = ፋየርፎክስ የቀን ብርሃን
 
 ## Firefox browsers (short names)
 
@@ -52,54 +49,61 @@
 -brand-name-enterprise = Enterprise
 -brand-name-esr = ESR
 -brand-name-focus = Focus
--brand-name-lite = Lite
 -brand-name-nightly = Nightly
--brand-name-reality = Reality
--brand-name-daylight = የቀን ብርሃን
 
 ## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = አውሮራ
+-brand-name-firefox-daylight = ፋየርፎክስ የቀን ብርሃን
+-brand-name-daylight = የቀን ብርሃን
 -brand-name-firefox-quantum = ፋየርፎክስ Quantum
+-brand-name-firefox-lite = Firefox Lite
+-brand-name-lite = Lite
+-brand-name-firefox-reality = Firefox Reality
+-brand-name-reality = Reality
 
 ## Firefox products
 
 -brand-name-facebook-container = Facebook Container
--brand-name-firefox-account = Firefox Account
--brand-name-firefox-accounts = Firefox Accounts
 -brand-name-firefox-devtools = Firefox DevTools
--brand-name-firefox-lockwise = Firefox Lockwise
-# Obsolete brand name
--brand-name-firefox-monitor = Firefox Monitor
--brand-name-firefox-private-network = የፋየርፎክስ የግል አውታረ መረብ
--brand-name-firefox-relay-premium = Firefox Relay Premium
 -brand-name-firefox-relay = ፋየርፎክስ ቅብብል
+-brand-name-firefox-relay-premium = Firefox Relay Premium
 -brand-name-firefox-sync = Firefox Sync
 -brand-name-firefox-translations = የፋየርፎክስ ትርጉሞች
 
 ## Firefox products (short names)
 
 -brand-name-devtools = DevTools
--brand-name-fpn = FPN
--brand-name-lockwise = Lockwise
--brand-name-monitor = Monitor
 -brand-name-relay = ቅብብል
 -brand-name-relay-premium = ፕሪሚየም አስተላላፊ
 -brand-name-sync = Sync
--brand-name-vpn = VPN
 
 ## Firefox products (legacy)
 
+-brand-name-firefox-account = Firefox Account
+-brand-name-firefox-accounts = Firefox Accounts
+-brand-name-firefox-better-web = ፋየርፎክስ የተሻለ ድር
+-brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-marketplace = የፋየርፎክስ ገበያ ቦታ
 -brand-name-firefox-os = ፋየርፎክስ OS
--brand-name-firefox-better-web = ፋየርፎክስ የተሻለ ድር
 -brand-name-firefox-send = Firefox Send
 -brand-name-send = Send
+-brand-name-firefox-private-network = የፋየርፎክስ የግል አውታረ መረብ
+-brand-name-fpn = FPN
+
+## Firefox projects
+
 
 ## Pocket
 
 -brand-name-pocket = Pocket
+
+## Fakespot
+
+
+## Anonym
+
 
 ## Mozilla projects
 
@@ -108,25 +112,27 @@
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
--brand-name-mozilla-developer-network = የሞዚላ ገንቢ አውታረ መረብ
 -brand-name-mozilla-festival = የሞዚላ ድግስ
--brand-name-mozilla-hubs = Mozilla Hubs
--brand-name-mozilla-labs = ሞዚላ ቤተ-ሙከራ
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
--brand-name-thunderbird = Thunderbird
 -brand-name-mozilla-account = የMozilla መለያ
 -brand-name-mozilla-accounts = የMozilla መለያዎች
 -brand-name-mozilla-social = Mozilla.social
+-brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
 
 -brand-name-common-voice = Common Voice
--brand-name-hubs = Hubs
 -brand-name-mdn = MDN
+-brand-name-monitor = Monitor
+-brand-name-vpn = VPN
 
 ## Mozilla projects (legacy)
 
+-brand-name-mozilla-developer-network = የሞዚላ ገንቢ አውታረ መረብ
+-brand-name-mozilla-labs = ሞዚላ ቤተ-ሙከራ
+-brand-name-hubs = Hubs
+-brand-name-lockwise = Lockwise
 -brand-name-lightbeam = Lightbeam
 -brand-name-maker-party = Maker Party
 -brand-name-webmaker = የድር ሰሪ

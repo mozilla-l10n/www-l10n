@@ -10,8 +10,6 @@ cookie-settings-page-desc = Ova stranica opisuje različite vrste kolačića koj
 cookie-settings-breadcrumb-link = Prethodna stranica
 cookie-settings-explainer = Kolačići su male datoteke koje sadrže dijelove informacija koje se pohranjuju na vašem računaru ili uređaju kada posjetite web stranicu. { -brand-name-mozilla } koristi kolačiće kako bi naše web stranice funkcionisale, kao i za prikupljanje informacija o tome kako koristite i komunicirate s našim web stranicama, kao što su stranice koje posjećujete.
 cookie-settings-page-intro-v2 = Ova stranica opisuje različite vrste kolačića i sličnih tehnologija kao što su oznake piksela, web beaconi, čisti GIF-ovi, JavaScript i lokalna pohrana (u daljem tekstu “Kolačići”) koje { -brand-name-mozilla } može koristiti i daje vam kontrolu o tome na koje vrste podataka pristajete da prikuplja { -brand-name-mozilla }.
-# Obsolete string (expires: 2024-07-01)
-cookie-settings-page-intro = Ova stranica opisuje različite vrste kolačića i sličnih tehnologija (kao što su oznake piksela, web beaconi, čisti GIF-ovi, JavaScript i lokalna pohrana) (u daljem tekstu “Kolačići”) koje { -brand-name-mozilla } može koristiti i daje vam kontrolu o tome na koje vrste podataka pristajete da prikuplja { -brand-name-mozilla }.
 cookie-settings-how-mozilla-heading = Kako { -brand-name-mozilla } koristi kolačiće
 cookie-settings-how-does-mozilla-use-subheading = Kako { -brand-name-mozilla } koristi ove podatke?
 cookie-settings-save-changes = Sačuvaj promjene

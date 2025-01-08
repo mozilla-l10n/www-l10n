@@ -13,8 +13,6 @@ vpn-download-sub-heading = Možete preuzeti { -brand-name-mozilla-vpn } na najvi
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } nudi sigurnu zaštitu za sve glavne operativne sisteme.
 vpn-download-not-available-in-country = Žao nam je, { -brand-name-mozilla-vpn } nije dostupan za preuzimanje u vašoj zemlji.
 vpn-download-button-copy = Preuzmi
-# Obsolete string
-vpn-download-for-windows = VPN za { -brand-name-windows } 10/11
 vpn-download-for-windows-v2 = VPN za { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (samo 64-bitni)
 vpn-download-for-windows-long = Preuzmite { -brand-name-mozilla-vpn } za { -brand-name-windows }
@@ -32,8 +30,6 @@ vpn-download-for-android = VPN za { -brand-name-android }
 vpn-download-for-android-long = Preuzmite { -brand-name-mozilla-vpn } za { -brand-name-android }
 vpn-download-for-ios = VPN za { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Preuzmite { -brand-name-mozilla-vpn } za { -brand-name-ios }
-# Obsolete string
-vpn-download-for-ios-long = Preuzmite VPN { -brand-name-mozilla-vpn } za { -brand-name-ios }
 vpn-download-get-on-google-play = Preuzmite sa { -brand-name-google-play } trgovine
 vpn-download-get-on-app-store = Preuzmite sa { -brand-name-app-store }a
 vpn-download-based-on-your = Na osnovu vašeg trenutnog uređaja

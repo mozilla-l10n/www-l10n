@@ -22,10 +22,6 @@ set-as-default-thanks-youre-all-set = Ussa è tut pront.
 set-as-default-thanks-get-firefox-for-mobile = Installescha { -brand-name-firefox } per apparats mobils
 set-as-default-thanks-travel-the-internet-with = Navighescha en l'internet a moda segira – cun tuts tes apparats.
 set-as-default-thanks-download-the-app = Telechargiar l'app
-# Obsolete string
-set-as-default-thanks-join-firefox = Ve tar { -brand-name-firefox }
-# Obsolete string
-set-as-default-thanks-sign-up-for-a-free-account = Avra in conto gratuit e sincronisescha tuts tes pleds-clav, tia cronologia e tias preferenzas sin tuts tes apparats.
 set-as-default-create-an-account = Avra in conto
 set-as-default-thanks-sign-up-for-a-free-account-v2 = Avra in { -brand-name-mozilla-account } gratuit e sincronisescha tuts tes pleds-clav, tia cronologia e tias preferenzas sin tuts tes apparats.
 # Account here refers to a Firefox Account

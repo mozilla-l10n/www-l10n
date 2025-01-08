@@ -10,11 +10,6 @@ facebook-container-millions-of-people-around = Milijonai žmonių visame pasauly
 facebook-container-facebook-well-contained-keep = „{ -brand-name-facebook }“, saugiai aptverta. Kas vyksta kitur, lai lieka tik jūsų žinioje.
 facebook-container-get-the-facebook-container = Parsisiųskite { -brand-name-facebook-container } plėtinį
 facebook-container-download-firefox-and-get-the = Parsisiųskite { -brand-name-firefox } ir į ją pridėkite { -brand-name-facebook-container } plėtinį
-# Outdated string
-facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } plėtinys nepateikiamas mobiliesiems įrenginiams.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Išbandykite <strong>„{ -brand-name-firefox-focus }“</strong> – privačiąją naršyklę „{ -brand-name-android }“ ir „{ -brand-name-ios }“ įrenginiams.
 facebook-container-opt-out-on-your-terms = Nustatykite savo ribas
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

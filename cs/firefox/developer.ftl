@@ -11,8 +11,6 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } je šíleně rychlý prohlížeč, který nabízí moderní nástroje pro vývojáře a podporu nejnovějších funkcí jako je CSS Grid nebo ladění frameworků
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Vítejte ve svém novém oblíbeném prohlížeči. Získejte nejnovější funkce, skvělý výkon a nástroje pro vývojáře, které potřebujete k tvorbě otevřeného webu.
 firefox-developer-speak-up = Řekněte nám, co si myslíte
 firefox-developer-feedback-makes-us = Na zpětné vazbě záleží. Řekněte nám, jak máme náš prohlížeč a nástroje pro vývojáře vylepšit.
@@ -75,15 +73,11 @@ firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-develo
 firefox-developer-download-the-firefox-browser = Stáhněte si { -brand-name-firefox(case: "acc") } vytvořený pro vývojáře
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } byl upraven od základu, aby byl rychlejší, elegantnější a výkonnější než kdy předtím.
 firefox-developer-welcome-to-firefox-developer-edition = Vítá vás { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = Vítá vás { -brand-name-firefox-browser(capitalization: "lower") } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Prohlížeč určený pro vývojáře
 firefox-developer-all-the-latest-v2 = Kromě funkcí jako je Multi-line Console Editor a WebSocket Inspector také všechny nejnovější nástroje pro vývojáře obsažené v betaverzi.
 firefox-developer-a-separate-profile = <strong>Samostatný profil a cesta</strong>, takže ho můžete snadno spustit zároveň se standardní verzí nebo { -brand-name-firefox(case: "ins") } { -brand-name-beta }.
 firefox-developer-preferences-tailored = Předvolby přímo <strong>pro webové vývojáře</strong>: Ve výchozím stavu je zapnuté ladění prohlížeče a vzdálené ladění, stejně jako tmavý vzhled a rychlý přístup k nástrojům pro vývojáře.
 firefox-developer-congrats-you-now-have-latest-v2 = Nyní máte nejnovější verzi { -brand-name-firefox-developer-edition(case: "gen") }.
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = Gratulujeme. Nyní máte nejnovější verzi { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } { -brand-name-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Pokud chcete vědět, co je nového, podívejte se do <a { $attrs }>poznámek k vydání</a> (pouze v angličtině).

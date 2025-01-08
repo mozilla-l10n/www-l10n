@@ -11,10 +11,6 @@ features-index-firefox-browser-features = Nodweddion porwr { -brand-name-firefox
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } yw'r porwr cyflym, ysgafn, sy'n canolbwyntio ar breifatrwydd ac yn gweithio ar draws eich holl ddyfeisiau.
 features-index-firefox-keeps-getting-faster = Mae { -brand-name-firefox } yn mynd yn gyflymach o hyd
 features-index-the-latest-browser-speed-benchmarks = Mae meincnodau cyflymder y porwyr diweddaraf yn profi bod { -brand-name-firefox } yn gyflymach nag erioed.
-# Obsolete string
-features-index-is-firefox-a-fast-browser = Ydy { -brand-name-firefox } yn borwr cyflym?
-# Obsolete string
-features-index-firefox-uses-less-memory-than = Mae { -brand-name-firefox } yn defnyddio llai o gof na Chrome, felly gall eich rhaglenni eraill barhau i redeg ar gyflymder uchel.
 features-index-is-firefox-a-private-browser = A yw { -brand-name-firefox } yn borwr preifat?
 features-index-were-focused-on-your-right-to = Rydym yn canolbwyntio ar eich hawl i breifatrwydd. Mae eich data, eich gweithgarwch gwe, eich bywyd ar-lein wedi'i ddiogelu gyda { -brand-name-firefox }.
 features-index-free-password-manager = Rheolwr cyfrinair am ddim
@@ -42,7 +38,5 @@ features-index-firefox-automatically-blocks = Mae { -brand-name-firefox } yn rhw
 features-index-ditch-the-sticky-ads = Rhowch y gorau i'r hysbysebion gludiog sy'n eich dilyn o gwmpas gyda rhwystrydd bysbrintio mewnol { -brand-name-firefox }.
 features-index-translate-the-web = Cyfieithu'r we
 features-index-translate-websites-to-your = Cyfieithwch wefannau i'ch iaith o fewn eich porwr { -brand-name-firefox } – heb rannu eich data â neb.
-# Obsolete string
-features-index-translate-more-than = Cyfieithwch o fwy na 100 o ieithoedd i'ch iaith yn syth yn eich porwr { -brand-name-firefox } — yn haws nag erioed.
 features-index-picture-in-picture = Llun-mewn-Llun
 features-index-got-things-to-do = Oes gennych chi bethau i'w gwneud a phethau i'w gwylio? Gwnewch y ddau gan ddefnyddio Llun-mewn-Llun yn { -brand-name-firefox }.

@@ -40,5 +40,3 @@ footer-refresh-community-participation-guidelines = Роҳнамо барои и
 footer-refresh-about-this-site = Дар бораи ин сомона
 footer-refresh-all-languages = Ҳамаи забонҳо
 footer-refresh-language = Забон
-footer-refresh-primary-nav-aria-label = Поварақи асосӣ
-footer-refresh-secondary-nav-aria-label = Поварақи иловагӣ

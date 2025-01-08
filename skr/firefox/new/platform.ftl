@@ -17,7 +17,7 @@ new-platform-advanced-install-options = ودھائے انسٹال اختیارا
 new-platform-download-in-another = ہک ٻئی زبان وچ ڈاؤن لوڈ کرو
 new-platform-need-help = بھلا مدد دی لوڑ ہے؟
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = { -brand-name-linux } کیتے { -brand-name-mozilla }{ -brand-name-firefox } ڈاؤن لوڈ کرو
 # /firefox/linux/ HTML page description

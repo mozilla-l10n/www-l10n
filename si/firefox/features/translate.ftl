@@ -5,7 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
-# links to: https://addons.mozilla.org/firefox/addon/to-google-translate/
-features-translate-get-the-extension = දිගුව ලබා ගන්න
-# $attrs (string) - link to https://translate.google.com/about/languages/
-features-translate-and-more = <a { $attrs }> සහ තවත්!</a>

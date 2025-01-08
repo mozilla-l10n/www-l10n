@@ -18,9 +18,5 @@ page7-that-sneaky-little-button = Se katala pieni painike
 page7-those-innocent-looking-f-buttons = Ne viattoman näköiset F-painikkeet { -brand-name-facebook }ilta seuraavat toimintaasi verkossa, vaikka sinulla ei olisi tiliä. { -brand-name-facebook-container } estää ne.
 page7-stay-ahead-of-hackers = Pysy hakkereiden edellä
 page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } antaa sinun selvittää, mitä hakkerit saattavat jo tietää sinusta, ja auttaa sinua pysymään askeleen edellä. (Ja se on ilmainen.)
-# Obsolete string
-page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } antaa sinun selvittää, mitä hakkerit saattavat jo tietää sinusta, ja auttaa sinua pysymään askeleen edellä. (Ja se on ilmainen.)
 page7-get-mozilla-monitor = Hanki { -brand-name-mozilla-monitor }
-# Obsolete string
-page7-get-firefox-monitor = Hanki { -brand-name-firefox-monitor }
 page7-why-am-i-seeing-this = Miksi näen tämän sivun?

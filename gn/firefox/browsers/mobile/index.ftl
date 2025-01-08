@@ -21,13 +21,8 @@ browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = ¿Ehekápa pumbyry kundahára ipya’etereíva ha oñemoheñóiva hekoñemi guasuvéva reheve? { -brand-name-firefox-focus } omboguete ijehegui umi ne ñeikundaha rembiasakue eike ñepyrũ guive esẽte peve.
 browsers-mobile-compare = Moñondive
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Mba’éichapa { -brand-name-firefox } mohendahagua oñemoñondive ambue kundahára rehe.
-# Obsolete string (expires 30 June 2024)
-browsers-mobile-see-how-firefox-for-desktop-stacks = Mba’éichapa { -brand-name-firefox } mohendahagua oñemoñondive pokõi kundahára rehe.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Mba’éichapa { -brand-name-firefox } <strong>mesa arigua</strong> oñemoñondive ambue kundahára rehe.
-# Obsolete string (expires 30 June 2024)
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
-browsers-mobile-see-how-firefox-for-desktop-strong = Mba’éichapa { -brand-name-firefox } <strong>mesa arigua</strong> peg̃uarã pokõi kundahára rehe.
 browsers-mobile-download = Mboguejy
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

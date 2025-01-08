@@ -7,8 +7,6 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = Επεξεργασία PDF
-# Obsolete string (expires: 2024-06-17)
-pdf-editor-add-text-to-pdfs = Προσθήκη κειμένου στα PDF μέσα από το { -brand-name-firefox }
 # page title
 pdf-editor-add-text-to-pdfs-v2 = Επεξεργαστείτε δωρεάν τα αρχεία PDF σας με το εργαλείο επεξεργασίας PDF του { -brand-name-firefox }
 # HTML page description

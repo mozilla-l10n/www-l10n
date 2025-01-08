@@ -44,5 +44,5 @@ firefox-enterprise-sample-plist-for-configuration = Exempel da <a href="{ $url }
 firefox-enterprise-pkg-installer = Program d'installaziun PKG
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 bits
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
 firefox-enterprise-download-firefox-esr-or-rapid = Telechargia { -brand-name-firefox-esr } u la versiun cun ina cadenza dad actualisaziuns rapida<br><a href="{ $firefox_all }">en in'autra lingua u per in'autra plattafurma</a>.

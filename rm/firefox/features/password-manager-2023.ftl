@@ -13,14 +13,6 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } memorise
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Cun in <a { $fxa }>{ -brand-name-mozilla-account } gratuit</a> pos ti sincronisar a moda segira tes pleds-clav sin tut tes apparats. En pli pos ti acceder a tut tschels products da { -brand-name-mozilla } che respectan tuts tia sfera privata.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account = Cun in <a href="{ $fxa }">{ -brand-name-mozilla-account } gratuit</a> pos ti sincronisar a moda segira tes pleds-clav sin tut tes apparats.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-firefox-account = Cun in <a href="{ $fxa }">conto gratuit da { -brand-name-firefox }</a> pos ti sincronisar a moda segira tes pleds-clav sin tut tes apparats.
 password-manager-password-autofill-for-easy-logins = Endataziun automatica da pleds-clav per s'annunziar pli svelt
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } po endatar automaticamain tes num d'utilisader e pled-clav memorisà. Sche ti has pliras datas d'annunzia per ina website, pos ti simplamain tscherner il conto che ti vuls e nus cuntinuain cun quel.
 # Used as an accessible text alternative for an image

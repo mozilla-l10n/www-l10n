@@ -18,9 +18,5 @@ page7-that-sneaky-little-button = Ai butoni i vogël i prapë
 page7-those-innocent-looking-f-buttons = Këta butona F të { -brand-name-facebook }-ut, në dukje të pafajshëm, ndjekin veprimtarinë tuaj në internet, edhe kur nuk keni një llogari. { -brand-name-facebook-container } i bllokon ata.
 page7-stay-ahead-of-hackers = Jini një hap para hacker-ave
 page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } ju lejon të mësoni se çfarë mund të dinë tashmë hacker-at për ju dhe ju ndihmon të jini përherë një hap para tyre. (Dhe është falas.)
-# Obsolete string
-page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } ju lejon të mësoni se çfarë mund të dinë tashmë hacker-at për ju dhe ju ndihmon të jini përherë një hap para tyre. (Dhe është falas.)
 page7-get-mozilla-monitor = Merrni { -brand-name-mozilla-monitor }
-# Obsolete string
-page7-get-firefox-monitor = Merrni { -brand-name-firefox-monitor }
 page7-why-am-i-seeing-this = Pse më del kjo?

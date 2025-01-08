@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 sub-navigation-all-languages = تمام زبانیں
 sub-navigation-firefox = { -brand-name-firefox }
@@ -22,17 +22,9 @@ sub-navigation-android-beta = { -brand-name-android } { -brand-name-beta }
 sub-navigation-desktop-beta-and-developer = ڈیسک ٹاپ  { -brand-name-beta } اور { -brand-name-developer-edition }
 sub-navigation-desktop-nightly = { -brand-name-nightly } ڈیسک ٹاپ
 sub-navigation-features = فیچر
-sub-navigation-support = معاونت
-# Obsolete string. Used as fallback for `sub-navigation-add-ons` string :
-sub-navigation-addons = اظافہ جات
-sub-navigation-faq = عمومی سوالات
-sub-navigation-learn-more = مزید سیکھیں
-sub-navigation-developer-edition = { -brand-name-developer-edition }
 sub-navigation-firefox-for-mobile = موبائل کے لیے { -brand-name-firefox }
 sub-navigation-chromebook = { -brand-name-chromebook }
-sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-sync = { -brand-name-sync }
-sub-navigation-lockwise = { -brand-name-lockwise }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-mac = { -brand-name-mac-short }
 sub-navigation-linux = { -brand-name-linux }
@@ -45,8 +37,3 @@ sub-navigation-private-browsing = نجی براؤزنگ
 sub-navigation-what-is-a-browser = براؤزر کیا ہے؟
 sub-navigation-browsing-history = براؤزنگ سابقات
 sub-navigation-browser-history = براؤزنگ سابقات
-sub-navigation-privacy = رازداری
-sub-navigation-our-promise = ہمارا وعدہ
-sub-navigation-our-products = ہماری مصنوعات
-sub-navigation-little-book-of-privacy = رازداری کی چھوٹی سی کتاب
-sub-navigation-safe-passwords = محفوظ پاس ورڈ

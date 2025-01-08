@@ -31,18 +31,6 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> เป
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = ส่วนขยายเหล่านี้ทำงานได้เป็นอย่างดีกับทั้ง <a { $attrs1 }>{ -brand-name-firefox } สำหรับเดสก์ท็อป</a> และ <a { $attrs2 }>Android</a>
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = นี่คือ <a href="{ $url }">AdBlocker Ultimate</a> ที่จะกำจัดโฆษณาทุกอย่างออกไป แต่ผู้ซื้อควรระมัดระวัง หนังสือพิมพ์และนิตยสารโปรดบางเล่มของคุณจะพึ่งพาการโฆษณา การที่คนปิดกั้นโฆษณาของพวกเขามากเกินไปจึงอาจทำให้ธุรกิจของพวกเขาประสบความล้มเหลวจนปิดกิจการได้
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = โฆษณาแบบป็อปอัปนั้นแย่ที่สุด ปิดกั้นโฆษณาเหล่านี้ด้วย<a href="{ $url }">ตัวปิดกั้นป็อปอัป</a> และไม่ต้องยุ่งกับป็อปอัปที่น่ารำคาญตัวอื่น ๆ อีก
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = หนึ่งในตัวปิดกั้นโฆษณาที่นิยมที่สุดสำหรับ { -brand-name-chrome }, { -brand-name-safari } และ { -brand-name-firefox } คือ <a href="{ $url }">AdBlock</a> ใช้ตัวปิดกั้นเหล่านี้เพื่อปิดกั้นโฆษณาบน { -brand-name-facebook }, { -brand-name-youtube } และ { -brand-name-hulu }
 features-adblocker-create-a-tracker-free = สร้างพื้นที่ปลอดการติดตามด้วยการปิดกั้นเนื้อหา
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

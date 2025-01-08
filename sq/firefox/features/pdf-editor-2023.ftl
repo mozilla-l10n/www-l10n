@@ -7,8 +7,6 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = Përpunues PDF
-# Obsolete string (expires: 2024-06-17)
-pdf-editor-add-text-to-pdfs = Shtoni tekst te PDF-ra, me Përpunuesin e PDF-ve të { -brand-name-firefox }-it
 # page title
 pdf-editor-add-text-to-pdfs-v2 = Përpunoni falas PDF, me Përpunuesin e PDF-ve të { -brand-name-firefox }-it
 # HTML page description

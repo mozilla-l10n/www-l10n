@@ -19,10 +19,6 @@ vpn-shared-pricing-save-percent = Spar { $percent }%
 
 # Platform subpage shared strings
 
-vpn-subnav-platform-linux = { -brand-name-linux }
-
-## VPN + Relay bundle offer
-
 
 ## Press quotations
 

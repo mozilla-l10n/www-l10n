@@ -7,8 +7,6 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = پی ڈی ایف ایڈیٹر
-# Obsolete string (expires: 2024-06-17)
-pdf-editor-add-text-to-pdfs = پی ڈی ایف ایڈیٹر { -brand-name-firefox } نال پی ڈی ایف آں وچ عبارت شامل کرو
 # page title
 pdf-editor-add-text-to-pdfs-v2 = پی ڈی ایف ایڈیٹر { -brand-name-firefox } نال مفت پی ڈی ایف آں وچ تبدیلی کرو
 # HTML page description

@@ -12,12 +12,6 @@ vpn-mobile-in-todays = Yn y byd sy’n canolbwyntio ar ffonau symudol heddiw, ry
 vpn-mobile-why-do-i = Pam fod angen VPN arnaf ar gyfer Symudol?
 vpn-mobile-the-mozilla-vpn = Mae ap symudol { -brand-name-mozilla-vpn } yn fach, felly nid yw'n defnyddio gormod o'ch cof, ac ni fydd yn arafu'ch ffôn nac yn treulio'ch batri.
 vpn-mobile-your-internet-v2 = Efallai y bydd eich darparwr gwasanaeth rhyngrwyd (ISP) yn cyfyngu'ch lled band os yw'n gwybod eich bod chi'n gwylio ffilmiau, yn gwrando ar gerddoriaeth, neu'n ffrydio.
-# Obsolete string
-vpn-mobile-your-internet = Efallai y bydd eich darparwr gwasanaeth rhyngrwyd (ISP) yn cyfyngu eich lled band os yw'n gwybod eich bod yn gwylio ffilmiau, yn gwrando ar gerddoriaeth neu'n ffrydio
 vpn-mobile-your-isp-v2 = Gall eich ISP rwystro gwefannau neu wasanaethau nad ydyn nhw'n eu hoffi neu sy'n cystadlu â'u rhai nhw.
-# Obsolete string
-vpn-mobile-your-isp = Gall eich ISP rwystro gwefannau neu wasanaethau nad ydyn nhw'n eu hoffi neu sy'n cystadlu â'u rhai nhw
 vpn-mobile-hackers-can-steal-v2 = Gall hacwyr ddwyn eich data personol pan fyddwch yn defnyddio Wi-Fi cyhoeddus, fel mewn caffis neu feysydd awyr.
-# Obsolete string
-vpn-mobile-hackers-can-steal = Gall hacwyr ddwyn eich data personol pan fyddwch yn defnyddio Wi-Fi cyhoeddus, fel mewn caffis neu feysydd awyr
 vpn-mobile-a-vpn-works = Mae VPN yn gweithio ar draws eich dyfais, nid eich porwr yn unig, felly ar draws eich apiau symudol hefyd. Ac yn wahanol i VPNs neu wefannau dirprwyol am ddim, a all dalu am eu gweinyddwyr trwy ysbïo arnoch chi a gwerthu'ch manylion, nid yw { -brand-name-mozilla } yn cadw cofnodion o ble rydych chi'n mynd a beth rydych chi'n ei wneud.

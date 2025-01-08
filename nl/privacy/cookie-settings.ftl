@@ -10,8 +10,6 @@ cookie-settings-page-desc = Deze pagina beschrijft de verschillende soorten cook
 cookie-settings-breadcrumb-link = Vorige pagina
 cookie-settings-explainer = Cookies zijn kleine bestanden die stukjes informatie bevatten die op uw computer of apparaat worden opgeslagen wanneer u een website bezoekt. { -brand-name-mozilla } gebruikt cookies om onze websites te helpen laten werken en om informatie te verzamelen over hoe u onze websites gebruikt en ermee omgaat, zoals de pagina’s die u bezoekt.
 cookie-settings-page-intro-v2 = Deze pagina beschrijft de verschillende soorten cookies en vergelijkbare technologieën, zoals pixeltags, webbeacons, heldere GIF’s, JavaScript en lokale opslag (hierna: ‘cookies’) die { -brand-name-mozilla } kan gebruiken, en geeft u de controle over welke soorten gegevens u door { -brand-name-mozilla } laat verzamelen.
-# Obsolete string (expires: 2024-07-01)
-cookie-settings-page-intro = Deze pagina beschrijft de verschillende soorten cookies en vergelijkbare technologieën (zoals pixeltags, webbeacons, heldere GIF’s, JavaScript en lokale opslag) (‘cookies’) die { -brand-name-mozilla } kan gebruiken, en geeft u de controle over welke soorten gegevens u door { -brand-name-mozilla } gaat verzamelen.
 cookie-settings-how-mozilla-heading = Hoe { -brand-name-mozilla } cookies gebruikt
 cookie-settings-how-does-mozilla-use-subheading = Hoe gebruikt { -brand-name-mozilla } deze gegevens?
 cookie-settings-save-changes = Wijzigingen opslaan

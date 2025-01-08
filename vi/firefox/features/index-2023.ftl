@@ -11,10 +11,6 @@ features-index-firefox-browser-features = Các tính năng của trình duyệt 
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } là trình duyệt nhanh, nhẹ, tập trung vào quyền riêng tư, hoạt động trên tất cả các thiết bị của bạn.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } không ngừng nhanh hơn
 features-index-the-latest-browser-speed-benchmarks = Benchmark tốc độ trình duyệt mới nhất chứng minh { -brand-name-firefox } nhanh hơn bao giờ hết.
-# Obsolete string
-features-index-is-firefox-a-fast-browser = { -brand-name-firefox } có phải là trình duyệt nhanh?
-# Obsolete string
-features-index-firefox-uses-less-memory-than = { -brand-name-firefox } sử dụng ít bộ nhớ hơn Chrome nên các chương trình khác của bạn có thể tiếp tục chạy ở tốc độ cao nhất.
 features-index-is-firefox-a-private-browser = { -brand-name-firefox } có phải là trình duyệt riêng tư?
 features-index-were-focused-on-your-right-to = Chúng tôi tập trung vào quyền riêng tư của bạn. Dữ liệu của bạn, hoạt động trên web của bạn, cuộc sống trực tuyến của bạn được bảo vệ với { -brand-name-firefox }.
 features-index-free-password-manager = Trình quản lý mật khẩu miễn phí
@@ -42,7 +38,5 @@ features-index-firefox-automatically-blocks = { -brand-name-firefox } tự độ
 features-index-ditch-the-sticky-ads = Loại bỏ những quảng cáo dính theo dõi bạn bằng trình chặn dấu vết tích hợp của { -brand-name-firefox }.
 features-index-translate-the-web = Dịch trang web
 features-index-translate-websites-to-your = Dịch các trang web sang ngôn ngữ của bạn trực tiếp trong trình duyệt { -brand-name-firefox } của bạn – mà không chia sẻ dữ liệu của bạn với bất kỳ ai khác.
-# Obsolete string
-features-index-translate-more-than = Dịch từ hơn 100 ngôn ngữ sang ngôn ngữ của bạn trực tiếp trong { -brand-name-firefox } của bạn - dễ dàng hơn bao giờ hết.
 features-index-picture-in-picture = Hình trong hình
 features-index-got-things-to-do = Bạn có những việc cần làm và những việc cần xem? Thực hiện cả hai bằng cách sử dụng Hình trong hình trong { -brand-name-firefox }.

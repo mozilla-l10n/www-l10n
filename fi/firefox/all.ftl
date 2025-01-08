@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Lataa { -brand-name-firefox } amerikanenglanniksi tai yli 90 muulla kielellä
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = Lataa { -brand-name-firefox-browser } englanniksi (USA) tai yli 90 muulla kielellä
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Jokainen ansaitsee pääsyn Internetiin – kieli ei saa koskaan olla este. Sen vuoksi tarjoamme { -brand-name-firefox }in omistautuneiden vapaaehtoisten avulla yli 90 kielellä.
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = Kaikki ansaitsevat pääsyn Internetiin - kielesi ei tulisi koskaan olla este. Siksi tarjoamme yhdessä maailmanlaajuisen, sitoutuneen avustajayhteisömme kanssa { -brand-name-firefox-browser(case: "genitive") } saataville yli 90 kielellä.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = Hanki <em>{ $product_name }</em> skannaamalla QR-koodi
@@ -26,14 +22,8 @@ firefox-all-change-language = Valitse eri kieli
 firefox-all-down-arrow = Valitse alla olevasta luettelosta
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Apua
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = Selain:
 firefox-all-browser-v2 = 1. Selain:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = Alusta:
 firefox-all-platform-v2 = 2. Alusta:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = Kieli:
 firefox-all-language-v2 = 3. Kieli:
 firefox-all-download = 4. Lataa:
 firefox-all-desktop = Työpöytä

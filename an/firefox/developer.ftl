@@ -1,16 +1,15 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } ye un navegador increyiblement rapido que incluye lo zaguer en ferramientas pa desenvolvedors y muitas novedatz, como que CSS Grid y depuración d'entornos
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Bienveniu a lo tuyo nuevo navegador favorito. Obtiene las zagueras funcions, millor rendimiento y las ferramientas que precisas pa creyar la web ubierta.
 firefox-developer-speak-up = Charra alto y claro
 firefox-developer-feedback-makes-us = Los comentarios nos fan amillorar. Di-nos cómo podemos amillorar lo navegador y las ferramientas de desenvolvedors.
@@ -55,17 +54,10 @@ firefox-developer-new-tools = Nuevas ferramientas
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Las nuevas { -brand-name-firefox-devtools } son potents, flexibles, y lo millor de tot, hackiables. Incluyindo un depurador de JavaScript sobrebueno, que puede adaptar-se a diferents navegadors y ye feito en React y Redux.
 firefox-developer-master-css-grid = Sé un expeerto en CSS Grid
-firefox-developer-next-gen-css-engine = Motor CSS de nueva cheneración
-firefox-developer-a-next-generation = Un motor CSS de nueva cheneración
 firefox-developer-master-innovative-features = Funcionalidatz innovaderas
 firefox-developer-want-to-be-on-the-cutting-edge = Quiers estar a la ultima?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } recibe actualizacions diarias y te permite d'acceder a las nuevas funcionanlidatz meses antes d'o suyo lanzamiento oficial.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } incluye un nuevo motor CSS, ye escrito en Rust, incluye lo zaguer en innovacions tecnolochicas y ye increyiblement rapido.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } ye lo solo navegador que incluye ferramientas creyadas especificament pa poder crear y disenyar con CSS Grid. Te permiten visualizar la quadricula, amostrar nombres d'aria asociaus, previsualizar los cambios y muito mas.
-firefox-developer-faster-performance = Mayor rendimiento
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } ninvia opinions y sucherencias automaticament a { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Descarga lo navegador { -brand-name-firefox } creau pa desenvolvedors
-firefox-developer-welcome-to-the-all-new = Bienveniu a lo nuevo { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } s'ha redisenyau dende zero pa estar mas rapido, pincho y poderoso que nunca.
-firefox-developer-congrats-you-now-have-firefox = Felicidatz. Ya tiens { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = No ye nomás una actualización. Ye { -brand-name-firefox-quantum }: un nuevo { -brand-name-firefox } que s'ha redisenyau dende zero pa estar mas rapido, pincho y poderoso que nunca.

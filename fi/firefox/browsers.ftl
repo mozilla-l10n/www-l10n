@@ -10,9 +10,6 @@ firefox-browsers-page-title = Lataa { -brand-name-firefox } tietokoneille, mobii
 # HTML page description
 firefox-browsers-page-desc = Valitse työpöytäversio, { -brand-name-ios }, { -brand-name-android } tai anna meidän lähettää sinulle sähköpostitse latauslinkki mobiililaitteille.
 firefox-browsers-main-heading = { -brand-name-firefox }-selaimet
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = Hanki <strong>selaimet</strong>, jotka asettavat yksityisyytesi etusijalle — nyt ja aina
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Hanki yksityisyytesi etusijalle asettava selain — ja on <strong>aina</strong> asettanut
 firefox-browsers-desktop = Työpöytä

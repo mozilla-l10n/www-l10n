@@ -31,7 +31,7 @@ browser-history-the-browser-wars = براؤزر جنگاں
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = 1995 تائیں، { -brand-name-netscape } نیویگیٹر آن لائن حاصل کرݨ دا کلھا طریقہ کائنا ہا۔ کمپیوٹر سافٹ ویئر دی وݙی کمپنی { -brand-name-microsoft } پراݨے موزیک کوڈ کوں لائسنس ݙتا تے ویب تے اپݨی ونڈو بݨائی، <a href="{ $ie }">{ -brand-name-ie }</a>۔ رہائی نال جنگ چھڑ ڳئی۔ { -brand-name-netscape } تے { -brand-name-microsoft } اپݨے پروگراماں دے نویں ورژن بݨاوݨ کیتے سختی نال کم کیتا، ہر ہک تکھا، بہتر بݨتراں دے نال ݙوجھے کنوں اڳوں نکلݨ دی کوشش کریندا ہے۔
 # Variables:
-#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = { -brand-name-netscape } نے JavaScript بݨائی تے جاری کیتی، جئیں ویب سائٹاں کوں کمپیوٹنگ دیاں طاقتور صلاحیتاں فراہم کیتیاں جیڑھیاں پہلے کݙاہیں کائنا ہن۔ (انہاں بدنام زمانہ <a href="{ $blink }">&lt;blink&gt; ٹیگ</a> وی بݨایا۔) { -brand-name-microsoft } کاسکیڈنگ سٹائل شیٹاں (CSS) دے نال مقابلہ کیتا، جیڑھا ااوندے کیتے معیار بݨ ڳیا۔ ویب ورقہ ڈیزائن.
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1

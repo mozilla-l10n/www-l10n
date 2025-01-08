@@ -11,8 +11,6 @@ firefox-products-mozilla-products = { -brand-name-mozilla } 產品
 firefox-products-mozillas-family-of-products = { -brand-name-mozilla } 讓您在線上更聰明，並保護安全的產品
 firefox-products-products = 產品
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } 只是起點。
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } 只是起點。
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } 讓您在線上更聰明，並保護安全的產品。
 
 ## Firefox
@@ -67,6 +65,4 @@ firefox-products-analyze = 分析網址
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content-v2 = 探索網路上的最佳內容 — 隨時隨地想讀就讀。產品由 { -brand-name-mozilla } 打造。
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = 探索網路上的最佳內容 — 隨時隨地想讀就讀。
 firefox-products-get-pocket = 取得 { -brand-name-pocket }

@@ -7,8 +7,6 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = PDF uređivač
-# Obsolete string (expires: 2024-06-17)
-pdf-editor-add-text-to-pdfs = Dodajte tekst u PDF-ove pomoću { -brand-name-firefox } PDF uređivača
 # page title
 pdf-editor-add-text-to-pdfs-v2 = Besplatno uredite PDF-ove sa { -brand-name-firefox } PDF Editorom
 # HTML page description

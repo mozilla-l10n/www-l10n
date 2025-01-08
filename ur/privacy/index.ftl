@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/
@@ -26,7 +26,7 @@ privacy-index-get-involved = شامل ہوں
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = ایک کھلی منبع پروجیکٹ کے طور پر، رواداری اور شفافیت { -brand-name-mozilla } کے بنیاد پرست اصولوں کا ایک لازمی حصہ ہے. ہماری کوڈ بیسز کھلی اور آڈٹ ہوتے ہیں. ہماری ڈیولپمنٹ  کا کام کھلا ہے. ہماری باہمی سالانہ <a href="{ $report }">شفافیت کی رپورٹ</a> بھی ان اصولوں سے ہمارا عزم ظاہر کرتی ہے۔
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = ہماری رازداری کی پالیسیوں میں پیش کردہ تبدیلیوں پر نظر ثانی اور تبصرہ کرنے کے لئے، <a href="{ $group }"> { -brand-name-mozilla } کےگورننس گروپ کو سبسکرائب کریں </a>۔
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
@@ -34,10 +34,8 @@ privacy-index-read-more-about-our-ongoing = <a href="{ $blog }"> { -brand-name-m
 privacy-index-outdated-policies = پرانی پالیسیاں
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-os = { -brand-name-firefox-os }
-privacy-index-firefox-relay = { -brand-name-firefox-relay }
 privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
 privacy-index-firefox-reality = { -brand-name-firefox-reality }
-privacy-index-mozilla-vpn = { -brand-name-mozilla-vpn }
 privacy-index-thunderbird = { -brand-name-thunderbird }
 privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } برائے { -brand-name-fire-tv }

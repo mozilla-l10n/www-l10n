@@ -22,10 +22,6 @@ set-as-default-thanks-youre-all-set = Du är klar!
 set-as-default-thanks-get-firefox-for-mobile = Skaffa { -brand-name-firefox } för mobil
 set-as-default-thanks-travel-the-internet-with = Surfa på internet med skydd på alla dina enheter.
 set-as-default-thanks-download-the-app = Hämta appen
-# Obsolete string
-set-as-default-thanks-join-firefox = Bli en del av { -brand-name-firefox }
-# Obsolete string
-set-as-default-thanks-sign-up-for-a-free-account = Registrera dig för ett gratis konto och synkronisera alla dina lösenord, surfhistorik och inställningar på dina enheter.
 set-as-default-create-an-account = Skapa ett konto
 set-as-default-thanks-sign-up-for-a-free-account-v2 = Registrera dig för ett kostnadsfritt { -brand-name-mozilla-account } och synkronisera alla dina lösenord, surfhistorik och inställningar på dina enheter.
 # Account here refers to a Firefox Account

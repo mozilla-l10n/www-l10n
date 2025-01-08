@@ -18,9 +18,5 @@ page7-that-sneaky-little-button = Tute lestne małe tłóčatko
 page7-those-innocent-looking-f-buttons = Njewinowate wupadace tłóčatka { -brand-name-facebook } wašej webaktiwiće slěduja, samo hdyž konto nimaće. { -brand-name-facebook-container } je blokuje.
 page7-stay-ahead-of-hackers = Budźće přez hackerow
 page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } wam zmóžnja zwěsćić, kotři hackerojo móhli hižo wo was wědźeć a pomha wam wo kročel přez nich być. (A je darmotny.)
-# Obsolete string
-page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } wam zmóžnja zwěsćić, kotři hackerojo móhli hižo wo was wědźeć a pomha wam wo kročel přez nich być. (A je darmotny.)
 page7-get-mozilla-monitor = { -brand-name-mozilla-monitor } wobstarać
-# Obsolete string
-page7-get-firefox-monitor = Wobstarajće sej { -brand-name-firefox-monitor }
 page7-why-am-i-seeing-this = Čehodla so to pokazuje?

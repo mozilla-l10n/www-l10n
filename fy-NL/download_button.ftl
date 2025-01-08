@@ -52,10 +52,6 @@ download-a-different-build = Download in oare build
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = 32-bits { -brand-name-linux } downloade
-# Obsolete string
-download-button-linux-64 = 64-bits { -brand-name-linux } downloade
 download-button-linux-32-v2 = Downloade foar 32-bits Linux
 download-button-linux-64-v2 = Downloade foar 64-bits Linux
 # Variables

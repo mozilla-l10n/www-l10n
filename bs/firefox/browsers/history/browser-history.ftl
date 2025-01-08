@@ -31,7 +31,7 @@ browser-history-the-browser-wars = Ratovi pretraživača
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = Do 1995. { -brand-name-netscape } Navigator nije bio jedini način da se povežete na internet. Gigant kompjuterskog softvera { -brand-name-microsoft } licencirao je stari Mosaic kod i napravio svoj vlastiti prozor na webu, <a href="{ $ie }">{ -brand-name-ie }</a>. Izdanje je izazvalo rat. { -brand-name-netscape } i { -brand-name-microsoft } grozničavo su radili na stvaranju novih verzija svojih programa, svaki pokušavajući nadmašiti druge bržim, boljim proizvodima.
 # Variables:
-#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = { -brand-name-netscape } je kreirao i pustio JavaScript, koji je web stranicama dao moćne računarske mogućnosti koje nikada prije nisu imali. (Također su napravili zloglasni <a href="{ $blink }">&lt;blink&gt; tag</a>.) { -brand-name-microsoft } se suprotstavio sa Cascading Style Sheets (CSS), koji je postao standard za dizajn web stranica.
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1

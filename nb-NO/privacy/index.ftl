@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/privacy/
@@ -25,7 +25,7 @@ privacy-index-transparency-report = Innsynsrapport
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Som et åpent kildekode-prosjekt, så er innsyn og åpenhet en viktig del av { -brand-name-mozilla }s grunnleggende prinsipper. Vår kodebase er åpen og åpen for vurdering. Vårt utviklingsarbeid er åpent. Vår toårige <a href="{ $report }">rapport om åpenhet</a> viser også vårt engasjement for disse prinsippene.
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = For å granske og kommentere foreslåtte forandringer av vår personvernerklæring, <a href="{ $group }">abonner på { -brand-name-mozilla }s ledelsesgruppe</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/

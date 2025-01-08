@@ -38,3 +38,6 @@ download-button-firefox-android = <span>{ -brand-name-firefox }</span> { -brand-
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name-ios }-ile
 download-button-firefox-privacy = { -brand-name-firefox }i privaatsus
 download-button-download = Laadi alla
+
+## Linux
+

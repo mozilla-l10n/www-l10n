@@ -13,7 +13,7 @@ what-is-firefox = Que é o { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = O { -brand-name-firefox-browser } é o único dos principais navegadores desenvolvido por unha organización sen fins lucrativos que non vende os teus datos persoais aos anunciantes e que che axuda a protexer a túa información persoal. Descubre máis sobre os <a href="{ $url }">{ -brand-name-firefox-browsers }</a> e <a href="{ $url2 }">outros produtos</a>.
 how-do-i = Como podo obter o { -brand-name-firefox-browser }?
@@ -46,7 +46,7 @@ protecting-your-privacy = Protexer a túa privacidade é a nosa principal priori
 is-firefox-safe = É o { -brand-name-firefox } seguro?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = Usar { -brand-name-firefox } non só é seguro, tamén axuda a protexer a súa información privada. { -brand-name-firefox-browser } bloquea automaticamente rastrexadores de terceiras partes, rastrexadores de redes sociais, mineiros de criptodivisas e identificadores de pegada dixital, e evita que recollan os seus datos. <a href="{ $url }">Descubra máis sobre a privacidade dos nosos produtos</a>.
 related-questions-safe = Preguntas relacionadas: o { -brand-name-firefox } é bo para a privacidade, o { -brand-name-firefox } é seguro, o { -brand-name-firefox } é mellor para a privacidade
@@ -67,12 +67,6 @@ does-firefox-use = O { -brand-name-firefox } usa o { -brand-name-google }?
 
 firefoxs-default-search = O { -brand-name-google } é o motor por defecto no { -brand-name-firefox }, o cal significa que podes buscar na Internet directamente desde a barra de enderezo web. <a href="{ $url }">Descubre máis sobre as preferencias e as mudanzas por defecto do noso motor de busca.</a>
 does-firefox-have = Ten o { -brand-name-firefox } unha Rede Privada Virtual (VPN, polas súas siglas en inglés) integrada?
-
-# Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
-firefox-does-not = O { -brand-name-firefox } non ten unha VPN integrada, mais hai dous produtos creados por { -brand-name-mozilla }/{ -brand-name-firefox } que podes usar alén do { -brand-name-firefox-browser } en modo incógnito e que poden protexer tanto o navegador (<a href="{ $url }">{ -brand-name-firefox-private-network }</a>) como a conexión do dispositivo por WiFi (<a href="{ $url2 }">{ -brand-name-mozilla-vpn }</a>, así como o enderezo IP do teu dispositivo.
 related-questions-ip = Preguntas relacionadas: oculta o { -brand-name-firefox } o teu enderezo IP
 who-owns-firefox = Quen é o propietario do { -brand-name-firefox }?
 

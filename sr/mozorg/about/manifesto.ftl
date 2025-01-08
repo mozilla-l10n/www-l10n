@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -52,33 +52,7 @@ manifesto-we-are-committed-to-diverse = Посвећени смо интерне
 manifesto-show-your-support = Покажите вашу подршку
 manifesto-an-internet-with-these = Интернет са овим квалитетима неће оживети сам од себе. Појединци и организације морају уградити ове тежње у интернет технологију и у људско искуство са интернетом. { -brand-name-mozilla } манифес и додатак представљају { -brand-name-mozilla }-ину посвећеност унапређењу ових тежњи. Циљамо на заједнички рад са људима и организацијама широм света који деле ове циљеве са нама како бисмо учинили интернет још бољим местом за све.
 manifesto-i-support-the-vision-of = Подржавам @mozilla-ину визију бољег и здравијег интернета, хоћете ли ми се придружити?
-manifesto-share-on-twitter = Подели на { -brand-name-twitter }-у
 manifesto-our-10-principles = <strong>Наших 10</strong> принципа
-manifesto-use-open-badges-to-share = Користите Open Badges да бисте поделили своје вештине и интересовања
-manifesto-explore-how-the-web-impacts = Сазнајте како веб утиче на науку
-manifesto-learn-about-open-source = Сазнајте о отвореном изворном коду у новинарству
-manifesto-read-about-open-internet = Прочитајте више о иницијативама и развијању отворених интернет полиси
-manifesto-explore-how-to-help-keep = Сазнајте како да очувате веб отвореним
-manifesto-see-how-the-web-can-connect = Погледајте како веб може повезати свет са здравством
-manifesto-explore-how-the-web-works = Сазнајте како веб ради
-manifesto-see-how-mozilla-works = Погледајте како { -brand-name-mozilla } ставља вашу приватност на прво место
-manifesto-read-about-developments = Прочитајте више о развоју у приватности и безбедности података
-manifesto-learn-more-about-how-to = Научите више о томе како да се заштитите на интернету
-manifesto-use-these-free-tools-to = Користите ове бесплатне алате да учите друге о вебу
-manifesto-learn-about-creating-and = Сазнајте више о креирању и одржавању садржаја за веб
-manifesto-add-new-voices-to-open = Додајте нове гласове у технологије отвореног кода
-manifesto-set-your-do-not-track = Подесите своје Не желим да ме прате поставке
-manifesto-understand-the-web-ecosystem = Разумите веб екосистем
-manifesto-explore-how-open-practices = Сазнајте како отворене праксе одржавају веб приступачним
-manifesto-learn-how-to-remix-content = Научите како да измените садржај да бисте креирали нешто ново
-manifesto-learn-how-to-maximize = Сазнајте како да максимално појачате интерактивни потенцијал веба
-manifesto-participate-in-our-governance = Учествујте у нашој расправи о управљању
-manifesto-join-us-as-a-volunteer = Придружите нам се као волонтер
-manifesto-learn-how-to-collaborate = Сазнајте како да сарађујете на вебу
-manifesto-visualize-who-you-interact = Визуелно прикажите са ким комуницирате на вебу помоћу { -brand-name-lightbeam }-а
-manifesto-learn-about-creating-web = Сазнајте више о креирању веб ресурса са другима
-manifesto-host-or-join-a-maker-party = Угостите или се придружите { -brand-name-maker-party }-у
-manifesto-learn-how-to-build-online = Сазнајте како да изградите вештине онлајн сарађивања
 manifesto-read-the-entire-manifesto = Прочитајте цео манифест
 manifesto-love-the-web = Волите веб?
 manifesto-get-the-mozilla-newsletter = Претплатите се на { -brand-name-mozilla } билтен и помозите нам да га очувамо отвореним и слободним.

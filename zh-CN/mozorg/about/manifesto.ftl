@@ -52,8 +52,6 @@ manifesto-we-are-committed-to-diverse = 我们承诺，要让互联网催化多�
 manifesto-show-your-support = 讲出您的支持
 manifesto-an-internet-with-these = 这样的互联网不会自行产生。每个人和组织都应当将这些愿景融入互联网技术，融入互联网带给人类的体验中。{ -brand-name-mozilla } 宣言及其修正案代表了 { -brand-name-mozilla } 对推进这些愿景的承诺。我们致力于与世界各地志同道合的人士和组织合作，让互联网对每个人都更美好。
 manifesto-i-support-the-vision-of = 我支持 @mozilla 去创造一个更好的、更健康的互联网的愿景 , 你愿同我一道吗？
-# Obsolete string
-manifesto-share-on-twitter = 分享到 { -brand-name-twitter }
 manifesto-share-on-x = 分享到 X
 manifesto-share-on-x-aria-label = 分享到 X（原 Twitter）
 manifesto-our-10-principles = 我们的<strong>十大准则</strong>

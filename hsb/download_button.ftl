@@ -52,10 +52,6 @@ download-a-different-build = Druhu wersiju sćahnyć
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = { -brand-name-linux } 32-bitowy sćahnyć
-# Obsolete string
-download-button-linux-64 = { -brand-name-linux } 64-bitowy sćahnyć
 download-button-linux-32-v2 = Za 32-bitowy Linux sćahnyć
 download-button-linux-64-v2 = Za 64-bitowy Linux sćahnyć
 # Microsoft Windows Store badge

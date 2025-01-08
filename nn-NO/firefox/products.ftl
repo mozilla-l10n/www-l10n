@@ -9,8 +9,6 @@
 firefox-products-mozilla-products = Produkt frå { -brand-name-mozilla }
 firefox-products-products = Produkt
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } er berre byrjinga.
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } er berre byrjinga
 
 ## Firefox
 
@@ -57,6 +55,4 @@ firefox-products-fakespot-has-your = { -brand-name-fakespot } passar på deg nå
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content-v2 = Oppdag det beste innhaldet på nettet — og konsumer det kvar og når du vil. Laga av { -brand-name-mozilla }.
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = Oppdag det beste innhaldet på nettet — lagre det og sjå det når og kvar du vil.
 firefox-products-get-pocket = Hent { -brand-name-pocket }

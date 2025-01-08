@@ -13,8 +13,6 @@ vpn-download-sub-heading = Ti pos telechargiar { -brand-name-mozilla-vpn } per f
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } porscha ina protecziun segira e segirada per tut ils sistems operativs ils pli derasads.
 vpn-download-not-available-in-country = Perstgisa, { -brand-name-mozilla-vpn } na po betg vegnir telechargià en tes pajais.
 vpn-download-button-copy = Telechargiar
-# Obsolete string
-vpn-download-for-windows = VPN per { -brand-name-windows } 10/11
 vpn-download-for-windows-v2 = VPN per { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (mo 64 bits)
 vpn-download-for-windows-long = Telechargiar { -brand-name-mozilla-vpn } per { -brand-name-windows }
@@ -32,8 +30,6 @@ vpn-download-for-android = VPN per { -brand-name-android }
 vpn-download-for-android-long = Telechargiar { -brand-name-mozilla-vpn } per { -brand-name-android }
 vpn-download-for-ios = VPN per { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Telechargiar { -brand-name-mozilla-vpn } per { -brand-name-ios }
-# Obsolete string
-vpn-download-for-ios-long = Telechargiar { -brand-name-mozilla-vpn } per { -brand-name-ios }
 vpn-download-get-on-google-play = Telechargiar via { -brand-name-google-play } Store
 vpn-download-get-on-app-store = Telechargiar via { -brand-name-app-store }
 vpn-download-based-on-your = A basa da tes apparat actual

@@ -5,7 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
 
-# HTML page title
-compare-chrome-firefox-vs-chrome-which-is = { -brand-name-firefox } در برابر { -brand-name-chrome }: کدامیک بهتر است؟
-# Main title.
-compare-chrome-comparing-firefox-browser = مقایسهٔ { -brand-name-firefox-browser } با { -brand-name-chrome } { -brand-name-google }

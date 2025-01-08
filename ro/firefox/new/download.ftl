@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## Required
+# Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Descarcă { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Descarcă cel mai rapid { -brand-name-firefox } care a existat vreodată
@@ -21,15 +21,11 @@ firefox-new-advanced-install-options = Opțiuni avansate de instalare și alte p
 firefox-new-download-in-another-language = Descarcă în altă limbă
 firefox-new-need-help = Ai nevoie de ajutor?
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">nu mai oferă actualizări de securitate</a> pentru { -brand-name-windows } { -brand-name-xp } sau { -brand-name-vista }, dar mai poți folosi în continuare { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Folosești un sistem de operare nesigur și perimat <a href="{ $url }">care nu mai are suport de la { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -44,10 +40,10 @@ firefox-new-please-follow = Urmează <a href="{ $url }">aceste instrucțiuni</a>
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Este posibil ca sistemul să nu îndeplinească cerințele minime pentru { -brand-name-firefox }, dar poți încerca una din <a href="{ $url }">aceste versiuni</a>.
 
-## Not-Required
+# Not-Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Descarcă { -brand-name-firefox-browser }

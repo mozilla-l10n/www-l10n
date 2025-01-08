@@ -52,7 +52,6 @@ manifesto-we-are-committed-to-diverse = Nos comprometemos per una Internet que c
 manifesto-show-your-support = Amuestra lo tuyo emparo
 manifesto-an-internet-with-these = Una Internet con estas caracteristicas no será posible sin aduya. Los individuos y organizacions han d'integrar estas aspiracions en o corazón d'as tecnolocháis d'a Internet y en a experiencia humana con a Internet. Lo Manifiesto y l'Addenda de { -brand-name-mozilla } representan lo compromís de { -brand-name-mozilla } per abanzar estas aspiracions. Queremos treballar chuntos con personas y organizacions de tota la planeta que compartan estes obchectivos pa fer d'internet un puesto millor pa totas y totz.
 manifesto-i-support-the-vision-of = Yo emparo la visión de @mozilla d'una Internet millor y mas sana, tu tamién?
-manifesto-share-on-twitter = Comparti-lo en { -brand-name-twitter }
 manifesto-our-10-principles = <strong>Los nuestros diez</strong> principios
 manifesto-read-the-entire-manifesto = Leye lo manifiesto completo
 manifesto-love-the-web = Te fa goyo la web?

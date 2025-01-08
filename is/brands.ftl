@@ -92,6 +92,9 @@
 -brand-name-firefox-private-network = Firefox einkanetkerfi
 -brand-name-fpn = FPN
 
+## Firefox projects
+
+
 ## Pocket
 
 -brand-name-pocket = Pocket
@@ -99,6 +102,9 @@
 ## Fakespot
 
 -brand-name-fakespot = Fakespot
+
+## Anonym
+
 
 ## Mozilla projects
 
@@ -114,6 +120,7 @@
 -brand-name-mozilla-account = Mozilla-reikningur
 -brand-name-mozilla-accounts = Mozilla-reikningar
 -brand-name-mozilla-social = Mozilla.social
+# Obsolete string (expires: 2025-01-05)
 -brand-name-mozilla-ai = Mozilla AI
 -brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-thunderbird = Thunderbird

@@ -26,7 +26,6 @@ manifesto-08 = 08
 manifesto-09 = 09
 manifesto-10 = 10
 manifesto-show-your-support = ನಿಮ್ಮ ಬೆಂಬಲವನ್ನು ತೋರಿಸಿ
-manifesto-share-on-twitter = { -brand-name-twitter } ನಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳಿ
 manifesto-our-10-principles = <strong>ನಮ್ಮ 10</strong> ತತ್ವಗಳು
 manifesto-read-the-entire-manifesto = ಸಂಪೂರ್ಣ ಪ್ರಣಾಳಿಕೆಯನ್ನು ಓದಿ
 manifesto-details-the-mozilla-manifesto = { -brand-name-mozilla } ಪ್ರಣಾಳಿಕೆ

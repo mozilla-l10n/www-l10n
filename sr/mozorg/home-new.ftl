@@ -32,9 +32,7 @@ home-join-us-in-shaping = Придружите нам се у обликовањ
 home-work-on-ai = { -brand-name-mozilla(case: "gen") } рад са ВИ није ништа ново — годинама финансирамо, градимо и заговарамо ВИ која је отворена, поштена и развијена одговорно. Наш фокус је на стварању ВИ која ради за људе, даје приоритет транспарентности и подржава јавни интерес, а не корпоративне планове.
 home-read-more = Прочитајте више
 home-so-what-is-mozilla = Дакле, шта је { -brand-name-mozilla }?
-# Variables
-#   $ventures - link to https://mozilla.vc/
-#   $mozai - link to https://mozilla.ai/
+# Obsolete string (expires: 2025-01-05)
 home-at-its-core = У својој сржи, { -brand-name-mozilla } је активистичка организација коју води { -brand-name-mozilla-foundation } која мења свет кроз различите институције, укључујући { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> и <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Зашто смо другачији? Води нас мисија, а то значи да имамо сву слободу да доносимо одлуке на основу онога што је најбоље за интернет и све на мрежи, а не на основу захтева акционара — заправо ни немамо ништа од тога.
 home-learn-about-mofo = Сазнајте више о { -brand-name-mozilla-foundation(case: "loc") }
 home-join-the-fight = Придружите се борби за здрав интернет

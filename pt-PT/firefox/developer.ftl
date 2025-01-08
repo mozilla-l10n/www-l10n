@@ -11,8 +11,6 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = O { -brand-name-firefox-developer-edition } é um navegador super rápido que fornece ferramentas inovadoras e últimas funcionalidades como o suporte para a CSS Grid e depuração de frameworks
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Bem-vindo(a) ao seu novo navegador favorito. Obtenha as funcionalidades mais recentes, desempenho rápido, e as ferramentas de programação que precisa para construir para a web aberta.
 firefox-developer-speak-up = Comunique
 firefox-developer-feedback-makes-us = O feedback ajuda-nos a melhorar. Diga-nos como podemos melhorar as ferramentas de navegação e de programação.
@@ -75,15 +73,11 @@ firefox-developer-firefox-developer-edition-sends = O { -brand-name-firefox-deve
 firefox-developer-download-the-firefox-browser = Transfira o navegador { -brand-name-firefox } feito para programadores
 firefox-developer-firefox-has-been-rebuilt = O { -brand-name-firefox } foi reconstruído a partir do zero para ser mais rápido, leve e poderoso do que nunca.
 firefox-developer-welcome-to-firefox-developer-edition = Bem-vindo(a) ao { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = Bem-vindo ao { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = O navegador feito para programadores
 firefox-developer-all-the-latest-v2 = Todas as ferramentas de programação em beta mais recentes, além de funcionalidades como a consola com editor multi-linha e o inspetor de WebSockets.
 firefox-developer-a-separate-profile = Um <strong>perfil e caminho separados</strong> para que possa executá-lo com facilidade em conjunto com a versão final ou { -brand-name-beta } do { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Preferências <strong>personalizadas para programadores da Internet</strong>: o navegador e a depuração remota são ativados por predefinição, assim como o tema escuro e o botão da barra de ferramentas do programador.
 firefox-developer-congrats-you-now-have-latest-v2 = Agora tem a versão mais recente do { -brand-name-firefox-developer-edition }.
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = Parabéns. Tem agora a última versão do { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Consulte as <a { $attrs }>notas de lançamento</a> (apenas em inglês) para ver as novidades.

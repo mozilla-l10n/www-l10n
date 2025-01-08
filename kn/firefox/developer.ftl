@@ -9,7 +9,6 @@
 ## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-speak-up = ಮಾತನಾಡಿ
 firefox-developer-join-the-convo = ಸಂವಾದದಲ್ಲಿ ಸೇರಿಕೊಳ್ಳಿ
 firefox-developer-get-involved = ನೀವೂ ಪಾಲ್ಗೊಳ್ಳಿ
@@ -27,9 +26,4 @@ firefox-developer-memory = ಸ್ಮರಣೆ
 firefox-developer-style-editor = ಶೈಲಿ ಸಂಪಾದಕ
 firefox-developer-new-tools = ಹೊಸ ಉಪಕರಣಗಳು
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
-# outdated
-firefox-developer-next-gen-css-engine = ಮುಂದಿನ-ಪೀಳಿಗೆಯ CSS ಎಂಜಿನ್ನು
-firefox-developer-a-next-generation = ಒಂದು ಮುಂದಿನ-ಪೀಳಿಗೆಯ CSS ಎಂಜಿನ್ನು
-firefox-developer-faster-performance = ವೇಗದ ಕಾರ್ಯಕ್ಷಮತೆ
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು { -brand-name-mozilla } ಗೆ ಕಳುಹಿಸಿಕೊಡುತ್ತದೆ.
-firefox-developer-welcome-to-the-all-new = ಹೊಚ್ಚ-ಹೊಸ { -brand-name-firefox-quantum }ಗೆ ಸುಸ್ವಾಗತ: { -brand-name-developer-edition }

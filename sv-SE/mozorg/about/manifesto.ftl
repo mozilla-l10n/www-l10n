@@ -52,8 +52,6 @@ manifesto-we-are-committed-to-diverse = Vi står för ett internet som främjar 
 manifesto-show-your-support = Visa ditt stöd
 manifesto-an-internet-with-these = Ett internet med dessa egenskaper uppkommer inte av sig själv. Människor och organisationer behöver integrera dessa mål i både internetteknik och personlig erfarenhet på internet. { -brand-name-mozilla }s manifest och tillägg står för { -brand-name-mozilla }s engagemang för dessa mål. Vi vill arbeta med människor och organisationer runt om i världen som delar dessa mål och vill bidra till ett bättre internet för alla.
 manifesto-i-support-the-vision-of = Jag stöder visionen om ett bättre och hälsosammare internet från @mozilla - du också?
-# Obsolete string
-manifesto-share-on-twitter = Dela på { -brand-name-twitter }
 manifesto-share-on-x = Dela på X
 manifesto-share-on-x-aria-label = Dela på X (tidigare Twitter)
 manifesto-our-10-principles = <strong>Våra 10</strong> grundsatser

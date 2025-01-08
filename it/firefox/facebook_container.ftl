@@ -16,12 +16,7 @@ facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser(ca
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = Visita <a href="{ $url }">{ $link_copy }</a> per scaricare { -brand-name-firefox } per desktop.
-# Outdated string
-facebook-container-the-facebook-container-extension = L’estensione { -brand-name-facebook-container } non è disponibile per dispositivi mobili.
 facebook-container-get-firefox-android-ios = Scarica ora { -brand-name-firefox } per { -brand-name-android } e { -brand-name-ios }.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Prova <strong>{ -brand-name-firefox-focus }</strong>, il browser riservato per { -brand-name-android } e { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Detta tu le regole
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

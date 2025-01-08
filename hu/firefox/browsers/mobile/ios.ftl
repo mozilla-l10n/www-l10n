@@ -7,12 +7,7 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios }-re ({ -brand-name-iphone } és { -brand-name-ipad })
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = Az { -brand-name-ios }-hez készült { -brand-name-firefox } böngésző gyors, biztonságos és privát, az első megnyitásától kezdve.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-mobile-ios-get-automatic-privacy = Szerezzen automatikus adatvédelmet az { -brand-name-iphone }-jára és { -brand-name-ipad }jére.
 mobile-ios-get-firefox-for = Szerezze be a { -brand-name-firefox } for { -brand-name-ios }-t
 mobile-ios-send-a-download-link-to-your = Küldjön egy letöltési hivatkozást a telefonjára.
 mobile-ios-scan-the-qr-code-to-get-started = Olvassa le a QR-kódot, és kezdjen neki
@@ -31,14 +26,8 @@ mobile-ios-get-to-your-go-to = Érje el gyorsabban kedvenc helyeit az { -brand-n
 mobile-ios-see-your-open-tabs = Tekintse meg a nyitott lapjait, korábbi kereséseit és kedvenc webhelyeit egy helyen az { -brand-name-ios }-re készült { -brand-name-firefox-browser }vel.
 mobile-ios-own-your-home = Szabja testre a kezdőképernyőt
 mobile-ios-get-to-the-parts = Érje el gyorsabban az internet azon részeit, amelyek érdeklik. Válassza azt, hogy az összes nyitott lapja, a legutóbbi keresései, könyvjelzői és a kedvenc oldalai egy helyen jelenjenek meg.
-# Obsolete string
-mobile-ios-add-firefox-across = Adja hozzá a { -brand-name-firefox(case: "accusative") } az eszközeihez a biztonságos és zökkenőmentes böngészéshez. Szinkronizálja eszközeit a { -brand-name-sync } segítségével, hogy bárhová magával vigye kedvenc könyvjelzőit, a mentett bejelentkezéseit, jelszavait és előzményeit. Ezenkívül küldjön nyitott lapokat a telefonja és az asztali számítógépe között, hogy ott folytathassa, ahol abbahagyta.
 mobile-ios-find-it-all = Találja meg gyorsabban
 mobile-ios-get-search-suggestions = Keresési javaslatokat kaphat a keresősávban, és gyorsan elérheti a leggyakrabban felkeresett webhelyeket. Írja be a keresési kérdését, és kapjon javasolt és korábban keresett találatokat a kedvenc keresőszolgáltatásaiban.
-# Obsolete string
-mobile-ios-keep-tabs-on = Kísérje figyelemmel ezeket a lapokat
-# Obsolete string
-mobile-ios-create-as-many = Hozzon létre annyi lapot, amennyit csak szeretne, anélkül hogy elveszítené a fonalat. A { -brand-name-firefox } bélyegképként és számozott lapokként jeleníti meg a nyitott lapjait, így könnyen és gyorsan megtalálhatja, amit keres.
 mobile-ios-discover-more-of = Fedezzen fel többet abból, amit szeret
 mobile-ios-open-a-new = Nyisson új lapot a { -brand-name-firefox }ban, hogy megtekinthesse a legtöbbet felkeresett webhelyeket, a legutóbbi könyvjelzőit és a népszerű cikkeket a { -brand-name-pocket }ben. A { -brand-name-firefox } gyors hozzáférést biztosít a legutóbb használt webhelyekhez, hogy gyorsabban elérje a célját.
 mobile-ios-about-mozilla = A { -brand-name-mozilla(ending: "accented") }ról

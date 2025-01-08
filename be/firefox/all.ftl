@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Сцягніце { -brand-name-firefox } на беларускай і больш чым на 90 іншых мовах
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = Сцягніце { -brand-name-firefox-browser } на беларускай і больш чым на 90 іншых мовах
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Кожны чалавек заслугоўвае доступу ў Інтэрнэт — ваша мова ніколі не павінна быць бар'ерам. Вось чаму — з дапамогай адданых валанцёраў па ўсім свеце — мы робім { -brand-name-firefox } даступным на больш чым 90 мовах.
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = Кожны чалавек заслугоўвае доступу ў Інтэрнэт — ваша мова ніколі не павінна быць бар'ерам. Вось чаму — з дапамогай адданых валанцёраў па ўсім свеце — мы робім { -brand-name-firefox-browser } даступным на больш чым 90 мовах.
 firefox-all-choose-browser = Выберыце браўзер, каб працягнуць
 firefox-all-choose-platform = Выберыце платформу, каб працягнуць
 firefox-all-choose-language = Выберыце мову, каб працягнуць
@@ -23,14 +19,8 @@ firefox-all-change-language = Выбраць іншую мову
 firefox-all-down-arrow = Выберыце са спіса ніжэй
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Атрымаць дапамогу
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = Браўзер:
 firefox-all-browser-v2 = 1. Браўзер:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = Платформа:
 firefox-all-platform-v2 = 2. Платформа:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = Мова:
 firefox-all-language-v2 = 3. Мова:
 firefox-all-download = 4. Сцягванне:
 firefox-all-desktop = Камп'ютар

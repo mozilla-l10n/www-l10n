@@ -22,10 +22,6 @@ set-as-default-thanks-youre-all-set = Sćo wšykno docynił.
 set-as-default-thanks-get-firefox-for-mobile = Wobstarajśo se { -brand-name-firefox } za mobilne rědy
 set-as-default-thanks-travel-the-internet-with = Gibniśo se ze šćitom na wšych swójich rědach pó interneśe.
 set-as-default-thanks-download-the-app = Nałoženje ześěgnuś
-# Obsolete string
-set-as-default-thanks-join-firefox = Pśizamkniśo se k { -brand-name-firefox }
-# Obsolete string
-set-as-default-thanks-sign-up-for-a-free-account = Registrěrujśo se za dermotne konto a synchronizěrujśo wše swóje gronidła, pśeglědowańsku historiju a nastajenja pśez swóje rědy.
 set-as-default-create-an-account = Konto załožyś
 set-as-default-thanks-sign-up-for-a-free-account-v2 = Registrěrujśo se za dermotne { -brand-name-mozilla-account } a synchronizěrujśo wše swóje gronidła, pśeglědowańsku historiju a nastajenja pśez swóje rědy.
 # Account here refers to a Firefox Account

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use-a-vpn/
@@ -32,7 +32,7 @@ vpn-when-to-use-for-the-most = För det mesta gäller scenarierna ovan inte för
 vpn-when-to-use-because-your-internet = Eftersom din internettrafik hemma flyttar till och från dina enheter via din internetleverantör — kort sagt ISP — kan de se var du besöker online. En internetleverantör kan se vilka webbplatser du besöker, hur länge du är på dem, din plats och information om dina enheter. En internetleverantör kanske inte känner till detaljerna om vad du gjorde på dessa webbplatser (som vad du köpte, sökte eller läste) tack vare kryptering, men de kan dra slutsatser om dig baserat på de webbplatser som du besökte. Att personuppgifter kan användas av Internetleverantörer för att skapa detaljerade profiler om dig. Att surfa i privat läge hindrar inte internetleverantörer från att se var du besöker online. Men att skicka din webbtrafik via ett VPN kan göra det mycket svårare.
 vpn-when-to-use-make-sure-you = Se till att du förstår vad ett VPN inte gör
 # Variables
-#   $book (url) - https://www.mozilla.org/firefox/privacy/book/
+#   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
 vpn-when-to-use-a-vpn-provides = Ett VPN ger en viktig säkerhetslänk genom att skydda dina privata data innan de färdas över internet och det döljer också din IP-adress, vilket hjälper till att skydda din identitet och plats. Det hindrar dig dock inte från att klicka på misstänkta länkar, ladda ner skadlig kod eller bli utsatt för e-postbedrägeri. Du måste fortfarande följa<a href="{ $book }">goda vanor för att vara säker online</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, en pålitlig VPN-tjänst
 # Variables

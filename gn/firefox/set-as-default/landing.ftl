@@ -9,9 +9,7 @@
 set-as-default-landing-make-firefox-your-default = Ejapo { -brand-name-firefox }-gui kundahára ijypykuévaramo
 # HTML page description
 set-as-default-landing-choose-the-browser = Eporavo pe kundahára omo’ãva ne ñemigua. Emoĩ { -brand-name-firefox } ne kundahára ypyguávaramo.
-# Obsolete string
 set-as-default-landing-thanks-for-using-the = Aguyje eiporúre { -brand-name-firefox } rembiapokue ipyahuvéva. Eiporavóvo { -brand-name-firefox } eykekóma ñanduti iporãvéva ndéve g̃uarã ha opavavépe avei. Ko’ág̃a eku’e nde eñemo’ã hag̃ua.
-# Obsolete string
 set-as-default-landing-make-sure-youre-protected = Eñeha’ãke eñemo’ã eikekuévo ñandutípe
 set-as-default-landing-you-should-get = Eñe’ẽkuaa ne ñeikundaha rehegua
 set-as-default-landing-if-you-recently = Embohekopyahuramórõ ne mohendaha, péva omoambuekuaa ne ñemboheko. Eykeko ñanduti isãso ha ijurujáva eike vovénte { -brand-name-firefox } ndive.

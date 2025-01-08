@@ -20,11 +20,7 @@ newsletter-form-sign-up-to-receive = Iratkozzon fel, hogy havonta értesüljön 
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Elfogadom, hogy a { -brand-name-mozilla } az <a href="{ $url }">adatvédelmi nyilatkozatnak</a> megfelelően kezelje az adataimat
 newsletter-form-we-will-only-send-v2 = Csak a { -brand-name-mozilla(ending: "accented") }val kapcsolatos információkat küldünk. Bármikor leiratkozhat.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send = Csak a { -brand-name-mozilla } szervezettel kapcsolatos információt fogunk küldeni.
 newsletter-form-we-will-only-send-firefox-v2 = Csak a { -brand-name-firefox(case: "instrumental") } kapcsolatos információkat küldjük el Önnek. Bármikor leiratkozhat.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send-firefox = Csak a { -brand-name-firefox(case: "instrumental") } kapcsolatos információkat küldjük el Önnek.
 newsletter-form-if-you-havent-previously = Ha korábban nem erősítette meg a { -brand-name-mozilla }-hírlevél feliratkozását, akkor lehet hogy meg kell tennie. Ellenőrizze a Beérkezett üzenetek mappáját vagy a spam-szűrőjét az e-mailünk után.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Ön
 newsletter-form-get-firefox-tips = { -brand-name-firefox } tippek, trükkök, hírek és továbbiak

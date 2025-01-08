@@ -6,8 +6,6 @@ navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-download-firefox = ດາວໂຫລດ { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = ເອົາ { -brand-name-mozilla-vpn }
 navigation-v2-menu = ເມນູ
-# Obsolete string
-navigation-v2-get-a-firefox-account = ເອົາ { -brand-name-firefox-account }
 
 ## Firefox menu
 
@@ -21,8 +19,6 @@ navigation-v2-firefox-for-ios = { -brand-name-firefox } ສໍາລັບ { -br
 navigation-v2-get-the-mobile-browser = ເອົາຕົວທ່ອງເວັບມືຖືສໍາລັບ { -brand-name-iphone } ຫຼື { -brand-name-ipad } ຂອງທ່ານ.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = ພຽງ​ແຕ່​ການ​ຊອກ​ຫາ​ໂທລະ​ສັບ​ມື​ຖື​ສ່ວນ​ຕົວ​.
-navigation-v2-privacy-promise = ສັນຍາຄວາມເປັນສ່ວນຕົວ
-navigation-v2-learn-how-firefox-treats = ສຶກສາວິທີທີ່ { -brand-name-firefox } ປະຕິບັດຕໍ່ຂໍ້ມູນຂອງທ່ານດ້ວຍຄວາມເຄົາລົບ.
 navigation-v2-firefox-blog = { -brand-name-firefox } ບົດຄວາມ
 navigation-v2-read-about-new-firefox-features = ອ່ານກ່ຽວກັບຄຸນສົມບັດໃໝ່ຂອງ { -brand-name-firefox } ແລະ ວິທີທາງອອນລາຍຢ່າງປອດໄພ.
 navigation-v2-release-notes = ບັນທຶກປະຈຳລຸ້ນ
@@ -33,7 +29,6 @@ navigation-v2-view-all-firefox-browsers = ເບິ່ງທັງໝົດ { -b
 
 navigation-v2-products = ຜະລິດຕະພັນ
 navigation-v2-close-products-menu = ປິດເມນູຜະລິດຕະພັນ
-navigation-v2-firefox-monitor = { -brand-name-firefox-monitor }
 navigation-v2-see-if-your-email-has = ເບິ່ງວ່າອີເມວຂອງທ່ານປາກົດຢູ່ໃນການລະເມີດຂໍ້ມູນຂອງບໍລິສັດ.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = ບັນທຶກ ແລະ ຄົ້ນພົບເລື່ອງລາວທີ່ດີທີ່ສຸດຈາກທົ່ວເວັບ.
@@ -41,13 +36,9 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = ຊ່ວຍປ້ອງກັນບໍ່ໃຫ້ { -brand-name-facebook } ເກັບຂໍ້ມູນຂອງທ່ານຢູ່ນອກເວັບໄຊຂອງເຂົາເຈົ້າ.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = ໄດ້​ຮັບ​ການ​ປົກ​ປ້ອງ​ນອກ​ຈາກ​ຕົວ​ທ່ອງ​ເວັບ​ຂອງ​ທ່ານ​, ໃນ​ທຸກ​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ​.
-navigation-v2-product-promise = ສັນຍາຜະລິດຕະພັນ
-navigation-v2-learn-how-each-firefox-product = ສຶກສາວິທີການແຕ່ລະຜະລິດຕະພັນ { -brand-name-firefox } ປົກປ້ອງ ແລະ ເຄົາລົບຂໍ້ມູນຂອງທ່ານ.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (ເບຕ້າ)
 navigation-v2-sign-up-for-new-accounts = ສະໝັກບັນຊີໃໝ່ໂດຍບໍ່ຕ້ອງມອບທີ່ຢູ່ອີເມວຂອງເຈົ້າ.
-navigation-v2-firefox-private-network-beta = { -brand-name-firefox-private-network } (ເບຕ້າ)
-navigation-v2-protect-your-browsers-connection = ປົກປ້ອງການເຊື່ອມຕໍ່ຂອງຕົວທ່ອງເວັບຂອງທ່ານກັບອິນເຕີເນັດ.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = ຄຸນສົມບັດ ແລະ ເຄື່ອງມືໃໝ່ສຳລັບປະສົບການ { -brand-name-mdn } ທີ່ປັບແຕ່ງເອງ
 navigation-v2-view-all-products = ເບິ່ງສິນຄ້າທັງໝົດ
@@ -68,16 +59,12 @@ navigation-v2-careers = ຕຳແຫນ່ງວຽກ
 navigation-v2-work-for-a-mission-driven-updated = ເຮັດວຽກສໍາລັບອົງການຈັດຕັ້ງທີ່ຂັບເຄື່ອນໂດຍພາລະກິດທີ່ເຮັດໃຫ້ປະຊາຊົນເປັນຜະລິດຕະພັນທໍາອິດ.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } ບົດຄວາມ
 navigation-v2-learn-about-mozilla-and = ຮຽນ​ຮູ້​ກ່ຽວ​ກັບ { -brand-name-mozilla } ແລະ ​ບັນ​ຫາ​ທີ່​ສໍາ​ຄັນ​ກັບ​ພວກ​ເຮົາ​.
-navigation-v2-stories = ເລື່ອງລາວ
-navigation-v2-stories-about-how = ນິທານກ່ຽວກັບວິທີທີ່ຄົນ ແລະຜະລິດຕະພັນຂອງພວກເຮົາກຳລັງປ່ຽນແປງໂລກໃຫ້ດີຂຶ້ນ.
 navigation-v2-more-about-mozilla = ເພີ່ມເຕີມກ່ຽວກັບ { -brand-name-mozilla }
 
 ## Innovation menu
 
 navigation-v2-innovation = ນະວັດຕະກໍາ
 navigation-v2-close-innovation-menu = ປິດເມນູນະວັດຕະກໍາ
-navigation-v2-mozilla-hubs = { -brand-name-mozilla-hubs }
-navigation-v2-gather-in-this-interactive-online = ຮວບຮວມຢູ່ໃນພື້ນທີ່ສັງຄົມທີ່ມີການໂຕ້ຕອບ, ອອນໄລນ໌, ຫຼາຍມິຕິ.
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = ເອົາຕົວທ່ອງເວັບຂອງ { -brand-name-firefox } ທີ່ສ້າງຂຶ້ນສໍາລັບນັກພັດທະນາເທົ່ານັ້ນ.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }

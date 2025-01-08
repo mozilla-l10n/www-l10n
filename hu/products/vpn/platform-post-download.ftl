@@ -54,19 +54,10 @@ vpn-download-faq-working = Honnan tudhatom, hogy működik-e a VPN?
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.mozilla.org/
 vpn-download-faq-visual-indicators-v2 = A { -brand-name-mozilla-vpn } vizuális jelzőket jelenít meg a jelenlegi állapotáról mind az eszköztárban, mind az alkalmazás kezdőképernyőjén, így könnyen lehet tudni, hogy az online tevékenysége védett-e vagy sem. Ezek a jelzők lehetővé teszik annak ellenőrzését, hogy a böngészése privát és biztonságos-e. Továbbá, ha csatlakozik, felkeresheti a <a href="{ $monitor }">https://monitor.mozilla.org/</a> oldalt, hogy megbizonyosodjon arról, hogy az IP-címe rejtve van-e. További részletekért lásd: <a href="{ $connected }">Honnan állapíthatom meg, hogy csatlakozik-e a { -brand-name-mozilla-vpn }?</a>
-# Obsolete string
-# Variables:
-#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
-#   $monitor (url) link to https://monitor.firefox.com/
-vpn-download-faq-visual-indicators = A { -brand-name-mozilla-vpn } vizuális jelzőket jelenít meg a jelenlegi állapotáról mind az eszköztárban, mind az alkalmazás kezdőképernyőjén, így könnyen lehet tudni, hogy az online tevékenysége védett-e vagy sem. Ezek a jelzők lehetővé teszik annak ellenőrzését, hogy a böngészése privát és biztonságos-e. Továbbá, ha csatlakozik, felkeresheti a <a href="{ $monitor }">https://monitor.firefox.com/</a> oldalt, hogy megbizonyosodjon arról, hogy az IP-címe rejtve van-e. További részletekért lásd: <a href="{ $connected }">Honnan állapíthatom meg, hogy csatlakozik-e a { -brand-name-mozilla-vpn }?</a>
 vpn-download-faq-add-device = Hogyan adhatok hozzá további eszközt?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v3 = Egy újabb eszköz hozzáadása rendkívül egyszerű: töltse le és telepítse a { -brand-name-mozilla-vpn } szoftvert, majd az új eszközön jelentkezzen be a meglévő { -brand-name-mozilla-account }jába. További részletekért lásd a <a href="{ $subscription }">Hogyan adjon eszközöket a { -brand-name-mozilla-vpn } előfizetéséhez</a> leírást.
-# Obsolete string
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v2 = Egy újabb eszköz hozzáadása rendkívül egyszerű: töltse le és telepítse a { -brand-name-mozilla-vpn } szoftvert, majd az új eszközön jelentkezzen be a meglévő { -brand-name-firefox-account }jába. További részletekért lásd a <a href="{ $subscription }">Hogyan adjon eszközöket a { -brand-name-mozilla-vpn } előfizetéséhez</a> leírást.
 vpn-download-faq-best-practices = Mik a bevált gyakorlatok a VPN-nél?
 vpn-download-faq-traffic = Ha a célja az internetes forgalom védelme a nagy sebesség megtartása mellett, akkor mindig az a legjobb, ha olyan kiszolgálót választ, amely a lehető legközelebb van a fizikai helyéhez. Ez növeli a kapcsolata megbízhatóságát és sebességét, mivel az internetes forgalmának nem kell jelentős kerülőt tennie, mielőtt megérkezik a rendeltetési helyéhez a weben.
 vpn-download-faq-experience = Ha a cél az, hogy úgy tapasztalja meg az internetet, mintha a világ más pontján lenne, akkor válassza az ott lévő kiszolgálót, és az összes felkeresett webhely úgy fog megjelenni, mintha ott lenne.

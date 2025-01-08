@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-a-vpn/
@@ -56,11 +56,3 @@ vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Snabb, säker, påli
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> är en tjänst som du kan lita på för att hålla din anslutning till internet säker på alla dina enheter. Vi behåller inte dina nätverksaktivitetsloggar och vi samarbetar inte med tredje part som bygger profiler över vad du gör online. I en värld där oförutsägbarhet har blivit den "nya normen", vet vi att det är viktigare än någonsin för dig att känna dig trygg och att du ska veta att det du gör online är din ensak.
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> är en tjänst som du kan lita på för att hålla din anslutning till internet säker på alla dina enheter. Vi behåller inte dina nätverksaktivitetsloggar och vi samarbetar inte med tredje part som bygger profiler av vad du gör online. I en värld där oförutsägbarhet har blivit det nya normala…
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> är en tjänst som du kan lita på för att hålla din anslutning till internet säker på alla dina enheter. Vi lagrar inte användardata och vi samarbetar inte med analysplattformar från tredje part som vill skapa en profil över vad du gör online. I en värld där oförutsägbarhet har blivit den "nya normalen", vet vi att det är viktigare än någonsin för dig att känna dig trygg och att du ska veta att det du gör online är din ensak.

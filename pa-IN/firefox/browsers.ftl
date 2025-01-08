@@ -10,9 +10,6 @@ firefox-browsers-page-title = ਡੈਸਕਟਾਪ, ਮੋਬਾਈਲ ਜਾ�
 # HTML page description
 firefox-browsers-page-desc = ਡੈਸਕਟਾਪ, { -brand-name-ios }, { -brand-name-android } ਵਿੱਚੋਂ ਚੁਣੋ ਜਾਂ ਤੁਹਾਨੂੰ ਮੋਬਾਈਲ ਡਾਊਨਲੋਡ ਲਿੰਕ ਭੇਜਣ ਲਈ ਸਾਨੂੰ ਈਮੇਲ ਦਿਓ।
 firefox-browsers-main-heading = { -brand-name-firefox } ਬਰਾਊਜ਼ਰ
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = <strong>ਬਰਾਊਜ਼ਰ</strong> ਲਵੋ, ਜੋ ਕਿ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲਾਂ ਦਿੰਦਾ ਹੈ — ਅਤੇ ਹਮੇਸ਼ਾਂ
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = ਅਜਿਹਾ ਬਰਾਊਜ਼ਰ, ਜੋ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲਾਂ ਰੱਖਦਾ ਹੈ — ਅਤੇ <strong>ਹਮੇਸ਼ਾਂ</strong> ਹੈ
 firefox-browsers-desktop = ਡੈਸਕਟਾਪ

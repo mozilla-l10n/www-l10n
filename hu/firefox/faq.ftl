@@ -13,7 +13,7 @@ what-is-firefox = Mi a { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = A { -brand-name-firefox-browser } az egyetlen nagy böngésző, amit egy nonprofilt szervezet támogat, amelyik nem adja el a személyes adatait a hirdetőknek, miközben segít megvédeni a személyes adatait. Tudjon meg többet a <a href="{ $url }">{ -brand-name-firefox-browsers }kről</a> és a <a href="{ $url2 }">további termékekről.</a>
 how-do-i = Hogyan szerezhetem be a { -brand-name-firefox-browser }t?
@@ -46,7 +46,7 @@ protecting-your-privacy = Az adatvédelme az első számú prioritásunk, és bi
 is-firefox-safe = A { -brand-name-firefox } biztonságos?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = A { -brand-name-firefox } nem csak biztonságosan használható, de biztonságban tartja az adatait és a privát információit. A { -brand-name-firefox-browser } automatikusan blokkolja az ismert harmadik féltől származó nyomkövetők, közösségimédia-követők, kriptobányászok és ujjlenyomat-készítők adatgyűjtését. <a href="{ $url }">Tudjon meg többet a termékeink adatvédelméről.</a>
 related-questions-safe = Kapcsolódó kérdések: a { -brand-name-firefox } jó-e az adatvédelem szempontjából; biztonságos-e a { -brand-name-firefox }; adatvédelmi szempontból jobb-e a { -brand-name-firefox }

@@ -7,8 +7,6 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = PDF Mbosako’i
-# Obsolete string (expires: 2024-06-17)
-pdf-editor-add-text-to-pdfs = Embojuaju moñe’ẽrã PDF-pe PDF mbosako’iha { -brand-name-firefox } ndive
 # page title
 pdf-editor-add-text-to-pdfs-v2 = Embosako’i marandurenda PDF rei { -brand-name-firefox } PDF mbosako’iha ndive
 # HTML page description

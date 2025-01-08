@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Transfira o { -brand-name-firefox } em inglês (EUA) e em mais de 90 outros idiomas
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = Transfira o { -brand-name-firefox-browser } em inglês (EUA) e em mais de 90 outros idiomas
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Todos merecem ter acesso à Internet — o seu idioma nunca deveria ser uma barreira. É por isso que — com a ajuda de voluntários dedicados por todo o mundo, nós disponibilizamos o { -brand-name-firefox } em mais de 90 idiomas.
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = Todos merecem aceder à Internet — o seu idioma nunca deve ser uma barreira. É por isso que — com a ajuda de voluntários dedicados de todo o mundo — nós disponibilizamos o { -brand-name-firefox-browser } em mais de 90 idiomas.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = Digitalize o código QR para obter o <em>{ $product_name }</em>
@@ -26,14 +22,8 @@ firefox-all-change-language = Escolha um idioma diferente
 firefox-all-down-arrow = Escolha da lista em baixo
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Obter ajuda
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = Navegador:
 firefox-all-browser-v2 = 1. Navegador:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = Plataforma:
 firefox-all-platform-v2 = 2. Plataforma:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = Idioma:
 firefox-all-language-v2 = 3. Idioma:
 firefox-all-download = 4. Transferência:
 firefox-all-desktop = Computador

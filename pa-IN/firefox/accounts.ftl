@@ -7,26 +7,16 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = { -brand-name-mozilla-account } ਲਵੋ – ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਪ੍ਰਾਈਵੇਟ, ਸੁਰੱਖਿਅਤ ਅਤੇ ਸਿੰਕ ਰੱਖੋ
-# Obsolete string
-firefox-accounts-get-a-firefox-account = { -brand-name-firefox-account } ਲਵੋ – ਆਪਣੇ ਡਾਟਾ ਨੂੰ ਨਿੱਜੀ, ਸੁਰੱਖਿਅਤ ਅਤੇ ਸਿੰਕ ਕਰੀ ਰੱਖੋ
-# Obsolete string
-firefox-accounts-securely-sync-your = ਆਪਣੇ ਪਾਸਵਰਡਾਂ, ਬੁੱਕਮਾਰਕਾਂ ਅਤੇ ਟੈਬਾਂ ਨੂੰ ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰਕ ਕਰੋ। ਹੁਣੇ { -brand-name-firefox-account } ਲਵੋ – ਇੱਕ ਲਾਗਇਨ – ਮਜ਼ਬੂਤੀ ਅਤੇ ਪਰਦੇਦਾਰੀ ਹਰ ਥਾਂ।
 # HTML page description
 mozilla-accounts-securely-sync-your = ਆਪਣੇ ਪਾਸਵਰਡਾਂ, ਬੁੱਕਮਾਰਕਾਂ ਅਤੇ ਟੈਬਾਂ ਨੂੰ ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰਕ ਕਰੋ। ਹੁਣੇ { -brand-name-mozilla-account } ਲਵੋ – ਇੱਕ ਲਾਗਇਨ – ਮਜ਼ਬੂਤੀ ਅਤੇ ਪਰਦੇਦਾਰੀ ਹਰ ਥਾਂ।
 firefox-accounts-enter-your-email-address = ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਆਪਣਾ ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਦਿਓ।
 firefox-accounts-already-have-an-account = ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹੈ?
 firefox-accounts-sign-in = ਸਾਈਨ ਇਨ ਕਰੋ
-# Obsolete string
-firefox-accounts-already = ਤੁਹਾਡੇ ਕੋਲ ਪਹਿਲਾਂ ਹੀ { -brand-name-firefox-account } ਹੈ। ਵਧਾਈਆਂ!
 mozilla-accounts-already = ਤੁਹਾਡੇ ਕੋਲ ਪਹਿਲਾਂ ਹੀ { -brand-name-mozilla-account } ਹੈ। ਵਧਾਈਆਂ!
 firefox-accounts-manage = ਆਪਣੇ ਖਾਤੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = ਇਸ ਲਈ ਆਪਣੇ { -brand-name-mozilla-account } ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ:
-# Obsolete string
-firefox-accounts-sign-in-to = ਇਸ ਲਈ ਆਪਣੇ { -brand-name-firefox-account } ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ:
-# Obsolete string
-firefox-accounts-meet-our-family-of = ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦੇਣ ਵਾਲੇ ਉਤਪਾਦਾਂ ਦੇ ਸਮੂਹ ਨੂੰ ਵੇਖੋ।
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = ਵੱਖਰੇ ਡਿਵਾਈਸ ਉੱਤੇ <a href="{ $send }">ਟੈਬ</a> ਭੇਜੋ
@@ -48,8 +38,6 @@ firefox-accounts-get-it-all-on-every = ਇਕੱਲੇ ਓਪਰੇਟਿੰਗ 
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

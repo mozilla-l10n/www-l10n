@@ -41,3 +41,6 @@ vpn-pricing-how-do-i-manage = Kuinka hallitsen tilaustani ja muutan sitä?
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = Jos olet jo tilannut { -brand-name-mozilla-vpn } -palvelun, voit muuttaa tai <a { $manage }>hallinnoida tilaustasi</a> milloin tahansa.
+
+## Mobile only subscription copy
+

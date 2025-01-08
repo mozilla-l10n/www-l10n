@@ -13,7 +13,7 @@ what-is-firefox = { -brand-name-firefox } 是什么？
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = { -brand-name-firefox-browser }是唯一一款由非营利组织支持，不会将您的个人数据买给广告商，还能保护您个人信息的主流浏览器。详细了解 <a href="{ $url }">{ -brand-name-firefox-browsers }</a>和<a href="{ $url2 }">其他产品</a>。
 how-do-i = 如何下载安装 { -brand-name-firefox-browser }？
@@ -46,7 +46,7 @@ protecting-your-privacy = 保护您的隐私是我们的第一要务，我们会
 is-firefox-safe = { -brand-name-firefox } 是否安全？
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = { -brand-name-firefox } 不仅用起来很安全，而且还有助于确保您的个人数据和私人信息的安全。{ -brand-name-firefox-browser }会自动拦截已知的第三方跟踪器、社交媒体跟踪器、加密货币挖矿程序、数字指纹跟踪程序收集您的数据。<a href="{ $url }">详细了解我们产品的隐私特性</a>
 related-questions-safe = 相关问题：{ -brand-name-firefox } 在隐私保护上做得是否好；{ -brand-name-firefox } 是否安全；{ -brand-name-firefox } 在隐私保护上是否做得更好

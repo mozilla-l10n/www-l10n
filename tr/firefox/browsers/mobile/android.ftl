@@ -10,10 +10,6 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = { -brand-name-android } için { -brand-name-firefox } tarayıcısı hızlı, güvenli ve ilk andan itibaren gizliliğiniz koruyor.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = { -brand-name-android } için { -brand-name-firefox } ile bağımsızlığından hiç vazgeçme
-# Obsolete string
-mobile-android-when-you-download = { -brand-name-firefox }’u indirdiğinizde bağımsız bir teknoloji şirketini desteklemiş oluyorsunuz. { -brand-name-firefox }, internetteki yaşamınızda size daha fazla açıklık, şeffaflık ve kontrol olanağı sağlamak için kâr amacı gütmeyen bir kuruluş tarafından geliştirilen tek büyük tarayıcı.
 mobile-android-get-firefox-for = { -brand-name-android } için { -brand-name-firefox }’u indir
 mobile-android-send-a-download-link-to-your = İndirme bağlantısını telefonunuza gönderin.
 mobile-android-scan-the-qr-code-to-get-started = Başlamak için QR kodunu okutun

@@ -10,9 +10,6 @@ firefox-browsers-page-title = 데스크톱, 모바일 또는 기업용 { -brand-
 # HTML page description
 firefox-browsers-page-desc = 데스크톱, { -brand-name-ios }, { -brand-name-android } 중에서 선택하거나 모바일 다운로드 링크를 이메일로 보내드립니다.
 firefox-browsers-main-heading = { -brand-name-firefox } 브라우저
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = 개인 정보 보호를 최우선으로 생각하는 <strong>웹 브라우저</ strong>
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = 개인정보 보호를 최우선으로 생각하는 브라우저를 사용하세요. — <strong>항상</strong> 그랬습니다.
 firefox-browsers-desktop = 데스크톱

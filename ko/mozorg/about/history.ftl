@@ -7,7 +7,7 @@
 
 history-history-of-the-mozilla-project = { -brand-name-mozilla } 프로젝트 역사
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = { -brand-name-mozilla } 프로젝트는 <a href="{ $sourcerelease }">{ -brand-name-netscape } 브라우저 제품 소스 코드 공개</a>와 함께 <a href="{ $coderush }">1998년에 설립</a>되었습니다.
 history-it-was-intended-to-harness = 이는 인터넷에서 수천명에 이르는 프로그래머의 창작 의욕을 계속적으로 연결하여, 웹 브라우저 시장에서 전례없는 수준의 혁신에 에너지를 쏟기 위해서 였습니다.

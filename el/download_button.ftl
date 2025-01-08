@@ -52,10 +52,6 @@ download-a-different-build = Λήψη διαφορετικής έκδοσης
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = Λήψη του { -brand-name-linux } 32-bit
-# Obsolete string
-download-button-linux-64 = Λήψη του { -brand-name-linux } 64-bit
 download-button-linux-32-v2 = Λήψη για Linux 32-bit
 download-button-linux-64-v2 = Λήψη για Linux 64-bit
 # Variables

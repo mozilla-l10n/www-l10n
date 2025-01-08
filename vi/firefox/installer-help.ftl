@@ -19,10 +19,6 @@ installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc-v2 = Nhận thông tin mới nhất. Quyền riêng tư tự động ở đây. Tải xuống { -brand-name-firefox } để chặn hơn { $trackers } trình theo dõi.
-# Obsolete string (expires: 2024-05-14)
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Tải xuống trình duyệt mới nhất. Quyền riêng tư tự động ở đây. Tải xuống { -brand-name-firefox-browser } để chặn { $trackers } trình theo dõi.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Kiểm tra các tính năng sắp phát hành trong bản xây dựng trước bản phát hành ổn định.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }

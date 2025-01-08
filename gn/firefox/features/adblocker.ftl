@@ -24,18 +24,6 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> ha’e
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Ko’ã jepysokue oiko porã taha’e <a { $attrs1 }>{ -brand-name-firefox } mesa arigua</a> avei <a { $attrs2 }>Android</a>.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = Oĩ <a href="{ $url }">AdBlocker Ultimate</a> omboguéva maranduñemurã, hákatu ehechava’erã oĩha jehaipyre oikotevẽva ko maranduñemurã rehe. Hetaiterei tapicha ojokóramo maranduñemurã ikatu oheja chupe okápe.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Maranduñemurã iñapysẽva, umi ivaivéva. Ejoko <a href="{ $url }">Popup Blocker</a> ndive ha araka’eve nderehechamo’ãi ambue mba’eporu iñapysẽva.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Peteĩ ñemurã jokoha ojeporuvéva { -brand-name-chrome }, { -brand-name-safari } ha { -brand-name-firefox }-pe ha’e <a href="{ $url }">AdBlock</a>. Eiporu ejoko hag̃ua ñemurã { -brand-name-facebook }, { -brand-name-youtube } ha { -brand-name-hulu }-pe.
 features-adblocker-create-a-tracker-free = Emoheñói tenda ijehapykuehokuaa’ỹva tetepy jokoha ndive
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

@@ -20,18 +20,6 @@ features-adblocker-find-the-right-ad-blocker = Namakajśo pšawy wabjeński blok
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Toś te rozšyrjenja na <a { $attrs1 }>{ -brand-name-firefox } za desktop</a> ako teke <a { $attrs2 }>Android</a> wjelicnje funkcioněruju.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = Dajo na pśikład <a href="{ $url }">AdBlocker Ultimate</a>, kótaryž kužde wabjenje wótwónoźujo, ale kupce muse glědaś. Někotare z wašych nejlubšych casnikow a magacinow su wótwisne wót wabjenja. Pśewjele luźi, kótarež jich wabjenje blokěruju, mógli je z pśekupowanja wutłocyś.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Wuskokujuce wabjenje jo nejgórše. Blokěrujśo jo z <a href="{ $url }">blokěrowakami wuskokujucych woknow</a> a njetrjebaśo se wěcej nigda wó gramne wabjenje staraś.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Jaden z woblubowanych wabjeńskich blokěrowakow za { -brand-name-chrome }, { -brand-name-safari } a { -brand-name-firefox } jo <a href="{ $url }">AdBlock</a>. Wužywajśo jen, aby wabjenje na { -brand-name-facebook }, { -brand-name-youtube } a { -brand-name-hulu } blokěrował.
 features-adblocker-create-a-tracker-free = Napórajśo conu bźez pśeslědowaka z blokěrowanim wopśimjeśa
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

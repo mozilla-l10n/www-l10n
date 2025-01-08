@@ -9,7 +9,6 @@
 ## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = သင်အကြိုက်ဆုံး ဘရောက်ဇာအသစ်မှကြိုဆိုပါသည်။ ပွင့်လင်းသောဝဘ်အတွက်တည်ဆောက်ရန်လိုအပ်သည့်နောက်ဆုံးပေါ်လုပ်ဆောင်ချက်များ၊ မြန်ဆန်သောစွမ်းဆောင်ချက်နှင့်ကောင်းမွန်သောကိရိယာများကိုရယူပါ။
 firefox-developer-speak-up = စကားပြောပါ
 firefox-developer-feedback-makes-us = တုံ့ပြန်ချက်သည်ကျွန်ုပ်တို့အားပိုမိုကောင်းမွန်စေသည်။ Browser နှင့် Developer tools များကိုမည်သို့တိုးတက်အောင်လုပ်ရမည်ကိုပြောပြပါ။
@@ -53,20 +52,13 @@ firefox-developer-learn-more-about-style = Style Editor အကြောင်း
 firefox-developer-new-tools = အသစ်သောအကူကိရိယာများ
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-master-css-grid = မာစတာ CSS Grid
-# outdated
-firefox-developer-next-gen-css-engine = လာမည့်မျိုးဆက်သစ် CSS အင်ဂျင်
-firefox-developer-a-next-generation = မျိုးဆက်သစ် CSS အင်ဂျင်
 firefox-developer-master-innovative-features = ဆန်းသစ်တီထွင်ထားသောဆောင်ရွက်ချက်များ
 firefox-developer-want-to-be-on-the-cutting-edge = ခေတ်မီချင်သလား။
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } သည်နေ့စဉ်မွမ်းမံမှုများကိုလက်ခံရရှိပြီး၎င်းတို့ကို ခေတ်ရေစီးကြောင်းမတိုင်မီလအနည်းငယ်အတွင်းသင်လုပ်ဆောင်နိုင်သည်။
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } တွင် Rustဖြင့်ရေးသားထားသော CSS အင်ဂျင်သစ်တစ်ခုပါရှိသည်။ ၎င်းသည်ခေတ်မီဆန်းသစ်တီထွင်မှုများနှင့်ထင်ရှားစွာမြန်သည်။
 firefox-developer-convenient-features = အဆင်ပြေသောစွမ်းဆောင်ချက်များ
-firefox-developer-faster-performance = မြန်ဆန်သော လုပ်ဆောင်မှု
 firefox-developer-shapes-editor = Shapes Editor
 firefox-developer-faster-innovation = ပိုမိုမြန်ဆန်သောအချက်အလက်များ
 firefox-developer-fonts-panel = Fonts Panel
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } သည် { -brand-name-mozilla } သို့ အလိုအလျောက် တုံံ့ပြန်ချက် ပေးပို့ပါသည်။
 firefox-developer-download-the-firefox-browser = Developerများအတွက်ပြုလုပ်ထားသော { -brand-name-firefox }ဘရောက်ဇာကို ဒေါင်းလုပ်ချပါ
-firefox-developer-welcome-to-the-all-new = { -brand-name-developer-edition } { -brand-name-firefox-quantum }မှကြိုဆိုပါတယ်
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } ကို ပိုမိုမြန်ဆန်ချောမွေ့ခြင်းနှင့်ယခင်ကထက်ပိုမိုအစွမ်းထက်စေရန်ပြန်လည်တည်ဆောက်ခဲ့သည်။
-firefox-developer-congrats-you-now-have-firefox = ဂုဏ်ယူပါတယ် ယခုသင့်တွင် { -brand-name-firefox-quantum }: { -brand-name-developer-edition } ရှိသည်။

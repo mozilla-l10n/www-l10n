@@ -20,11 +20,7 @@ newsletter-form-sign-up-to-receive = Cofrestrwch i dderbyn diweddariadau misol g
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Rwy'n fodlon i { -brand-name-mozilla } drin fy manylion fel mae'n cael ei esbonio yn y <a href="{ $url }">Datganiad Preifatrwydd hwn</a>
 newsletter-form-we-will-only-send-v2 = Dim ond gwybodaeth sy'n ymwneud â { -brand-name-mozilla } y byddwn yn ei hanfon atoch. Gallwch ddad-danysgrifio unrhyw bryd.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send = Dim ond gwybodaeth am { -brand-name-mozilla } fyddwn ni'n anfon atoch chi.
 newsletter-form-we-will-only-send-firefox-v2 = Dim ond gwybodaeth sy'n ymwneud â { -brand-name-firefox } y byddwn yn ei hanfon atoch. Gallwch ddad-danysgrifio unrhyw bryd.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send-firefox = Dim ond gwybodaeth am { -brand-name-firefox } fyddwn ni'n anfon atoch chi.
 newsletter-form-if-you-havent-previously = Os nad ydych eisoes wedi cadarnhau tanysgrifiad i gylchlythyr yn perthyn i { -brand-name-mozilla }, rhaid i chi wneud hynny nawr. Gwiriwch eich blwch derbyn neu eich hidl sbam am e-bost gennym ni.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Chi
 newsletter-form-get-firefox-tips = Cewch gynghorion, triciau, newyddion { -brand-name-firefox } a rhagor

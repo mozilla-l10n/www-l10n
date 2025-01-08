@@ -8,8 +8,6 @@
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest-v2 = Congratulationes! Tu ora ha le ultime version de { -brand-name-firefox-developer-edition }.
-# Obsolete string (expires: 2024-05-14)
-developer-mdnplus-congrats-you-now-have-latest = Felicitationes. Ora tu ha le ultime version de { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Plus { -brand-name-mdn }. <em>Tu</em> { -brand-name-mdn }.
 developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } es un projecto collaborative de codification aperte que documenta le technologias del platteforma web, includite CSS, HTML, JavaScript e le APIs web. Nos alsi forni un ample insimul de ressources de apprendimento pro disveloppatores comenciante e studiantes.

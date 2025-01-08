@@ -9,7 +9,7 @@ what-is-firefox = Ano ang { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 
 # Variables:
@@ -35,7 +35,7 @@ is-firefox-safe-download = Makakatiwalaan bang i-download ang { -brand-name-fire
 is-firefox-safe = Makakatiwalaan ba ang { -brand-name-firefox } ?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 does-firefox-sell = Ibinebenta ba ng { -brand-name-firefox } ang iyong personal na data?
 
@@ -48,11 +48,6 @@ nope-never-have = Hindi. Hindi kailanman magkakaroon, hinding hindi. At po-prote
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
 does-firefox-have = Meron bang built-in na VPN ang { -brand-name-firefox }?
-
-# Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
-
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org

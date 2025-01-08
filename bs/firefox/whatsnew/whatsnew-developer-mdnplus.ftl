@@ -8,8 +8,6 @@
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest-v2 = Čestitam. Sada imate najnoviju verziju { -brand-name-firefox-developer-edition }.
-# Obsolete string (expires: 2024-05-14)
-developer-mdnplus-congrats-you-now-have-latest = Čestitamo. Sada imate najnoviju verziju { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Bolji { -brand-name-mdn }. <em>Vaš</em> { -brand-name-mdn }.
 developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } je zajednički projekat otvorenog koda koji dokumentuje tehnologije web platformi kao što su CSS, HTML, JavaScript and Web API-ji. Takođe pružamo obiman skup resursa za učenje za programere početnike i studente.

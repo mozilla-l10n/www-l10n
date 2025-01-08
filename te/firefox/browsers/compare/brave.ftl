@@ -5,5 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
 
-# Main title
-compare-brave-comparing-firefox-browser = { -brand-name-firefox-browser }ని { -brand-name-brave }తో పోల్చడం

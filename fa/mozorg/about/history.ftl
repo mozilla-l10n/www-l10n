@@ -7,7 +7,7 @@
 
 history-history-of-the-mozilla-project = تاریخچه پروژه { -brand-name-mozilla }
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = پروژه { -brand-name-mozilla } در سال <a href="{ $coderush }">۱۹۹۸</a> با <a href="{ $sourcerelease }">انتشار کد منبع مرورگر { -brand-name-netscape }</a> ایجاد شد.
 history-it-was-intended-to-harness = بهره جستن از قدرت خلاق هزار نفر از برنامه نویسان در اینترنت و سوخت بی سابقه ای از نوآوری در بازار مرورگر در نظر گرفته شده بود.

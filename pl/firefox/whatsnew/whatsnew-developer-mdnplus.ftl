@@ -7,5 +7,4 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
-developer-mdnplus-congrats-you-now-have-latest = Gratulacje. Używasz teraz najnowszej wersji { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } { -brand-name-developer-edition }.
 developer-mdnplus-resources-for-developers = Zasoby dla deweloperów, od deweloperów.

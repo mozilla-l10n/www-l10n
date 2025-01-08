@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -10,11 +10,6 @@ facebook-container-millions-of-people-around = Միլիոնավոր օգտատե
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }: Ձեր կյանքի մնացած մասը պահեք ինքներդ ձեզ համար:
 facebook-container-get-the-facebook-container = Ստացեք { -brand-name-facebook-container } ընդլայնումը
 facebook-container-download-firefox-and-get-the = Ներբեռնեք { -brand-name-firefox }-ը և ստացեք { -brand-name-facebook-container } ընդլայնումը
-# Outdated string
-facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } ընդլայնումը մատչելի չէ բջջային սարքերի համար:
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Փորձեք <strong>{ -brand-name-firefox-focus }</strong>-ը, գաղտնի դիտարկիչ { -brand-name-android }-ի և { -brand-name-ios }-ի համար:
 facebook-container-opt-out-on-your-terms = Հրաժարվեք ձեր պայմաններից
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

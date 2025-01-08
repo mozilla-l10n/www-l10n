@@ -8,8 +8,6 @@
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
 developer-mdnplus-congrats-you-now-have-latest-v2 = Tillykke! Du har nu den nyeste version af { -brand-name-firefox-developer-edition }.
-# Obsolete string (expires: 2024-05-14)
-developer-mdnplus-congrats-you-now-have-latest = Tillykke! Du har nu den nyeste version af { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = Mere { -brand-name-mdn }. <em>Dit</em> { -brand-name-mdn }.
 developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } er et open source projekt baseret på samarbejde, hvor du kan finde dokumentation om de forskellige teknologier, der gør internettet muligt - fx CSS, HTML, JavaScript og web-API'er. Vi tilbyder også en stor mængde undervisningsmateriale til nye udviklere og studerende.

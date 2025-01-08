@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Κάντε λήψη του { -brand-name-firefox } στα ελληνικά και σε περισσότερες από 90 άλλες γλώσσες
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = Λήψη του { -brand-name-firefox-browser } στα Ελληνικά και σε περισσότερες από 90 άλλες γλώσσες
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Όλοι αξίζουν πρόσβαση στο διαδίκτυο και η γλώσσα σας δεν θα πρέπει ποτέ να αποτελεί εμπόδιο. Για τον λόγο αυτό, με τη βοήθεια αφοσιωμένων εθελοντών από όλο τον κόσμο, διαθέτουμε το { -brand-name-firefox } σε πάνω από 90 γλώσσες.
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = Όλοι αξίζουν πρόσβαση στο διαδίκτυο και η γλώσσα σας δεν θα πρέπει ποτέ να αποτελεί εμπόδιο. Για τον λόγο αυτό, με τη βοήθεια αφοσιωμένων εθελοντών από όλο τον κόσμο, διαθέτουμε το { -brand-name-firefox-browser } σε πάνω από 90 γλώσσες.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = Σαρώστε τον κωδικό QR για να λάβετε το <em>{ $product_name }</em>
@@ -26,14 +22,8 @@ firefox-all-change-language = Επιλέξτε μια διαφορετική γ�
 firefox-all-down-arrow = Επιλέξτε από την παρακάτω λίστα
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Λήψη βοήθειας
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = Πρόγραμμα περιήγησης:
 firefox-all-browser-v2 = 1. Πρόγραμμα περιήγησης:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = Πλατφόρμα:
 firefox-all-platform-v2 = 2. Πλατφόρμα:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = Γλώσσα:
 firefox-all-language-v2 = 3. Γλώσσα:
 firefox-all-download = 4. Λήψη:
 firefox-all-desktop = Υπολογιστές

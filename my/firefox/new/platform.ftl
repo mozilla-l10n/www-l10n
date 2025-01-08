@@ -17,7 +17,7 @@ new-platform-advanced-install-options = အဆင့်မြင့် options �
 new-platform-download-in-another = အခြားဘာသာစကားဖြင့်ဆွဲယူပါ။
 new-platform-need-help = အကူအညီ လိုလား။
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = { -brand-name-linux } အတွက် { -brand-name-mozilla } { -brand-name-firefox } ကို download လုပ်ပါ
 # /firefox/linux/ HTML page description

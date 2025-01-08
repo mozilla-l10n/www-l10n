@@ -10,16 +10,10 @@ mission-our-mission-is-to-ensure-the-internet = Chúng tôi có sứ mệnh đ�
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Sứ mệnh của chúng tôi là ủng hộ tính cởi mở, cải tiến và cơ hội trên Web.
 mission-at-mozilla-were-a-global-community-v2 = Tại { -brand-name-mozilla }, chúng tôi là một cộng đồng toàn cầu của những nhà kỹ thuật, nhà tư tưởng và những người xây dựng làm việc cùng nhau để giữ Internet tồn tại và dễ dàng tiếp cận, vì thế mọi người trên khắp thế giới có thể thông báo đến những người đóng góp và những nhà sáng tạo Web.
-# Outdated string
-mission-at-mozilla-were-a-global-community = Tại Mozilla, nơi hội tụ cộng đồng những chuyên gia công nghệ, những chiến lược gia và thi hành gia làm việc cùng nhau để giữ cho môi trường internet sống động và dễ truy nhập. Nhờ đó, mọi người trên toàn cầu có thể trở thành những nhà sáng tạo và đóng góp cho mạng lưới.
 mission-we-believe-this-act-of-human-collaboration = Chúng tôi tin rằng hành động tác hợp giữa người và người trên diện rộng này rất cần thiết để phát triển cá nhân và tương lai chung.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn-v2 = Cùng đọc <a href="{ $url }">tuyên ngôn { -brand-name-mozilla }</a> để tìm hiểu thêm về giá trị và nguyên tắc dẫn dắt việc theo đuổi sứ mệnh của chúng tôi.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/about/manifesto/
-mission-read-the-mozilla-manifesto-to-learn = Cùng đọc <a href="{ $url }"> Tuyên Ngôn Mozilla </a> để tìm hiểu thêm về giá trị và nguyên tắc dẫn dắt việc theo đuổi sứ mệnh của chúng tôi.
 mission-watch-the-video-above-to-learn-more = Xem video ở trên để tìm hiểu thông tin về chúng tôi, cách chúng tôi khởi sự và cách chúng tôi xây dựng mạng lưới Web tốt hơn cho bạn như thế nào.
 mission-get-involved = Cùng tham gia
 mission-volunteer-opportunities-in-a-number = Cơ hội làm tình nguyện ở những nơi khác nhau
@@ -29,5 +23,3 @@ mission-forums = Diễn đàn
 mission-topics-include-support-products = Chủ đề bao gồm hỗ trợ, sản phẩm và công nghệ
 mission-governance = Quản trị
 mission-our-structure-organization-and-the-v2 = Cấu trúc, tổ chức và cộng đồng { -brand-name-mozilla } rộng lớn của chúng tôi
-# Outdated string
-mission-our-structure-organization-and-the = Cấu trúc, tổ chức và cộng đồng Mozilla trải khắp

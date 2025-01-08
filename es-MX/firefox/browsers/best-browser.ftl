@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org//firefox/browsers/best-browser/
@@ -26,9 +26,6 @@ best-browser-there-are-a-few-ways = Un navegador puede hacer varias cosas para a
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-the-second-is-not-storing = Además, ayuda no guardar tantos datos sobre los usuarios. Los piratas informáticos no pueden robar lo que no existe; por eso { -brand-name-firefox } solo almacena lo mínimo posible. <a href="{ $data }">{ -brand-name-firefox } sabe</a> si utilizas el navegador y tu ubicación aproximada, <a href="{ $privacy }">pero no conoce el nombre de tu mascota de la infancia ni tu color favorito</a>.
 best-browser-last-but-not-least = Por último, un navegador seguro debería brindar herramientas para echar un ojo a tus cuentas. Piensa en las alertas que recibes por correo si una de tus cuentas es quebrantada, o bien en los iconos que te indican si un sitio está cifrado (esto es, si sería buena idea meter tu número de tarjeta en una página de compras o no).
-# Variables:
-# $monitor (url) - link to https://monitor.firefox.com
-best-browser-firefox-is-offering = { -brand-name-firefox } está ofreciendo una novedad en cuanto a seguridad: <a href="{ $monitor }">{ -brand-name-firefox-monitor }</a>. Un servicio gratuito que te avisa si existe algún de hackeo en tus cuentas y te informa si tus cuentas estuvieron afectadas en el pasado. Otro recurso interesante es el Candado Verde. Parece un pequeño ícono verde en la parte superior izquierda de la ventana del navegador. Si te encuentras en { -brand-name-firefox } y ves el candado verde, significa que el sitio está encriptado y es seguro. Si el candado está gris, quizá debas pensarlo dos veces antes de ingresar información personal.
 best-browser-we-visit-hundreds-or = En un día se visitan cientos de sitios web, o incluso miles. No se puede esperar que los usuarios realicen decisiones sobre seguridad y privacidad por cada uno de ellos. Por eso es tan importante contar con un navegador que dé más control: porque brinda una protección verdadera y más significativa.
 best-browser-a-browser-that-minds = Un navegador que no se mete en tus asuntos.
 best-browser-privacy-on-the-web = La privacidad en la web es una cuestión polémica. Si esta se encuentra en tu lista de prioridades, debes buscar un navegador que se lo tome seriamente. Al elegir el mejor navegador que respete tu privacidad, localiza la política de rastreo y como maneja tus datos. Parecen cuestiones técnicas, pero esta es la razón por la cual algunos navegadores respetan más tu privacidad que otros.

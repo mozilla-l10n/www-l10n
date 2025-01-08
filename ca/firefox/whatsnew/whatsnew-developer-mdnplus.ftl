@@ -7,7 +7,6 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
-developer-mdnplus-congrats-you-now-have-latest = Enhorabona. Ara teniu la versió més recent del { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # CTA button
 developer-mdnplus-get-started = Primers passos
 developer-mdnplus-notifications = Notificacions

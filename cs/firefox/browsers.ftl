@@ -10,9 +10,6 @@ firefox-browsers-page-title = Stažení { -brand-name-firefox(case: "gen") } pro
 # HTML page description
 firefox-browsers-page-desc = Vyberte si stažení pro počítač, { -brand-name-ios(case: "acc") }, { -brand-name-android(case: "acc") }, nebo vám můžeme poslat e-mailem odkaz pro stažení na mobil.
 firefox-browsers-main-heading = Prohlížeče { -brand-name-firefox }
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = Získejte <strong>prohlížeče</strong>, pro které je vaše soukromí na první místě, a vždy bylo
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Získejte prohlížeč, u kterého je vaše soukromí na prvním místě - a <strong>vždy</strong> bylo
 firefox-browsers-desktop = Počítač

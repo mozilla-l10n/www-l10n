@@ -13,8 +13,6 @@ features-private-browsing-firefox-protects = { -brand-name-firefox } ščiti va�
 features-private-browsing-if-you-share-a-computer = Če uporabljate skupen računalnik ali če želite omejiti spletna mesta pri zbiranju podatkov o vas, vam je v { -brand-name-firefox(sklon: "mestnik") } na voljo način zasebnega brskanja. Zasebno brskanje izbriše digitalne sledi, ki jih pustite za seboj, ko brskate po spletu – lahko si jih predstavljate kot stopinje v gozdu.
 features-private-browsing-what-does-private-browsing-do = Kaj počne zasebno brskanje?
 features-private-browsing-private-browsing-mode-opens-v2 = Zasebno brskanje odpre novo okno brskalnika. Ko zaprete zadnje zasebno okno, se zgodovina brskanja in piškotki spletnih mest, ki ste jih obiskali, izbrišejo. <strong>{ -brand-name-firefox }ov profesionalni nasvet:</strong> ko končate, ne pozabite zapreti vseh oken zasebnega brskanja!
-# Obsolete string (expires: 2024-07-18)
-features-private-browsing-private-browsing-mode-opens = Način zasebnega brskanja odpre novo okno brskalnika. Ko ga zaprete, se izbriše zgodovina brskanja tega okna in piškotki spletnih mest, ki ste jih obiskali. <strong>{ -brand-name-firefox }ov profesionalni nasvet:</strong> ko končate, ne pozabite zapreti okna zasebnega brskanja!
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = Okno brskalnika { -brand-name-firefox } v načinu zasebnega brskanja.
 features-private-browsing-what-private-browsing-doesnt-do = Česa zasebno brskanje ne počne

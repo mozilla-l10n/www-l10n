@@ -45,7 +45,3 @@ download-firefox-esr-64 = Sader { -brand-name-firefox-esr } 64-yibiten
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = Sader { -brand-name-linux } 32-yibiten
-# Obsolete string
-download-button-linux-64 = Sader { -brand-name-linux } 64-yibiten

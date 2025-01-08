@@ -10,16 +10,10 @@ mission-our-mission-is-to-ensure-the-internet = Наша миссия состо
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Наша миссия: продвигать идеи открытости, инноваций и развитие возможностей в Интернете.
 mission-at-mozilla-were-a-global-community-v2 = { -brand-name-mozilla } представляет собой глобальное сообщество технологов, мыслителей и разработчиков, работающих вместе, чтобы сделать Интернет живым и доступным, чтобы люди во всем мире могли быть информированными участниками и создателями Интернета.
-# Outdated string
-mission-at-mozilla-were-a-global-community = Мы — это глобальное сообщество технарей, мыслителей и создателей. Мы работаем над открытым и доступным Интернетом, чтобы люди по всему миру были информированными участниками и создавали Интернет.
 mission-we-believe-this-act-of-human-collaboration = Мы считаем, что сотрудничество на открытой платформе важно для индивидуального роста и нашего общего будущего.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn-v2 = Прочитайте <a href="{ $url }">Манифест { -brand-name-mozilla }</a>, чтобы узнать больше о ценностях и принципах, которыми мы руководствуемся при выполнении нашей миссии.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/about/manifesto/
-mission-read-the-mozilla-manifesto-to-learn = Прочитайте <a href="{ $url }">манифест Mozilla</a>, чтобы узнать больше о ценностях и принципах, которыми мы руководствуемся при выполнении нашей миссии.
 mission-watch-the-video-above-to-learn-more = Посмотрите размещённое выше видео, чтобы узнать больше о том, кто мы, откуда мы пришли и как мы делаем Интернет лучше.
 mission-get-involved = Примите участие
 mission-volunteer-opportunities-in-a-number = Возможности для волонтёров в различных областях
@@ -29,5 +23,3 @@ mission-forums = Форумы
 mission-topics-include-support-products = На форуме вы можете обсудить поддержку, продукты и технологии
 mission-governance = Руководство
 mission-our-structure-organization-and-the-v2 = Наша структура, организация и более широкое сообщество { -brand-name-mozilla }
-# Outdated string
-mission-our-structure-organization-and-the = Наша структура, организация и обширное сообщество Mozilla

@@ -52,8 +52,6 @@ manifesto-we-are-committed-to-diverse = Zobowiązujemy się budować Internet pr
 manifesto-show-your-support = Okaż swoje wsparcie
 manifesto-an-internet-with-these = Internet o tych cechach nie powstanie sam z siebie. Poszczególne osoby i całe organizacje muszą sprawić, aby stały się one podstawą technologii internetowych i sposobu, w jaki z niego korzystamy. Manifest { -brand-name-mozilla(case: "gen") } i ten aneks reprezentują zobowiązanie { -brand-name-mozilla(case: "gen") } do ich rozwijania. Naszym celem jest współpraca z jednostkami i organizacjami podzielającymi nasze nadzieje z całego świata, aby Internet był jeszcze lepszym miejscem dla wszystkich.
 manifesto-i-support-the-vision-of = Wspieram wizję lepszego, zdrowszego Internetu z @mozilla, dołączysz do mnie?
-# Obsolete string
-manifesto-share-on-twitter = Udostępnij na { -brand-name-twitter(case: "loc") }
 manifesto-share-on-x = Udostępnij na Twitterze
 manifesto-share-on-x-aria-label = Udostępnij na Twitterze
 manifesto-our-10-principles = <strong>10 naszych</strong> pryncypiów

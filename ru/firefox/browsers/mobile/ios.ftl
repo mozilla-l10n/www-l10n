@@ -7,12 +7,7 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser(case: "nominative_uppercase") } для { -brand-name-ios } ({ -brand-name-iphone } и { -brand-name-ipad })
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = Браузер { -brand-name-firefox } для { -brand-name-ios } — быстрый, безопасный и приватный с первого запуска.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-mobile-ios-get-automatic-privacy = Получите гарантированную приватность на своих { -brand-name-iphone } и { -brand-name-ipad }
 mobile-ios-get-firefox-for = Получите { -brand-name-firefox } для { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Отправить ссылку для загрузки на мой телефон.
 mobile-ios-scan-the-qr-code-to-get-started = Отсканируйте QR-код, чтобы начать загрузку
@@ -31,14 +26,8 @@ mobile-ios-get-to-your-go-to = Быстрее добирайтесь до люб
 mobile-ios-see-your-open-tabs = Просматривайте все свои открытые вкладки, недавние поиски и любимые сайты в одном месте с { -brand-name-firefox-browser(case: "instrumental") } для { -brand-name-ios }.
 mobile-ios-own-your-home = Настраивайте свой домашний экран
 mobile-ios-get-to-the-parts = Находите то, что вас интересует в Интернете, быстрее. Выбирайте просмотр всех своих открытых вкладок, недавних поисков, закладок и любимых сайтов в одном месте.
-# Obsolete string
-mobile-ios-add-firefox-across = Добавьте { -brand-name-firefox } на все свои устройства для безопасного непрерывного просмотра. { -brand-name-sync(case: "verb") } их, чтобы любимые закладки, сохранённые логины, пароли и история просмотра всегда были с вами, куда бы вы ни отправились. Более того — пересылайте открытые вкладки между телефоном и компьютером, чтобы продолжать оттуда, где остановились.
 mobile-ios-find-it-all = Находите всё быстрее
 mobile-ios-get-search-suggestions = Получайте поисковые предложения в панели поиска и быстро открывайте сайты, которые посещаете чаще всего. Введите поисковый запрос и получите предложения и предварительные результаты от ваших любимых поисковых систем.
-# Obsolete string
-mobile-ios-keep-tabs-on = Контролируйте все вкладки
-# Obsolete string
-mobile-ios-create-as-many = Создавайте сколько угодно вкладок, не теряя контроля. { -brand-name-firefox } отображает ваши открытые вкладки в виде миниатюр и нумерует их, позволяя быстро находить нужные.
 mobile-ios-discover-more-of = Открывайте больше интересного
 mobile-ios-open-a-new = Откройте новую вкладку в { -brand-name-firefox }, чтобы увидеть самые посещаемые сайты, недавние закладки и популярные статьи в { -brand-name-pocket }. { -brand-name-firefox } предоставляет вам быстрый доступ к недавно посещённым сайтам, чтобы ускорить поиск нужных.
 mobile-ios-about-mozilla = О { -brand-name-mozilla }

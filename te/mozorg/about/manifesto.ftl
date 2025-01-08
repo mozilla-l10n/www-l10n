@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
@@ -30,24 +30,7 @@ manifesto-10 = 10
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = ఆరోగ్యకరమైన అంతర్జాలం కోసం ప్రతినబూనండి
 manifesto-show-your-support = మీ అభిమానాన్ని చూపించండి
-manifesto-share-on-twitter = { -brand-name-twitter }లో పంచుకోండి
 manifesto-our-10-principles = <strong>మా 10</strong> మూలసూత్రాలు
-manifesto-use-open-badges-to-share = మీ నైపుణ్యాలు మరియు ఆసక్తులను పంచుకునేందుకు ఓపెన్ బ్యాడ్జ్లను ఉపయోగించండి
-manifesto-explore-how-the-web-impacts = జాలము విజ్ఞానశాస్త్రాన్ని ఎలా ప్రభావితం చేస్తుందో అన్వేషించండి
-manifesto-learn-about-open-source = జర్నలిజంలో ఓపెన్ సోర్స్ కోడ్ గురించి తెలుసుకోండి
-manifesto-explore-how-to-help-keep = జాలాన్ని స్వేచ్ఛాయుతంగా ఉంచడానికి ఎలా తోడ్పడవచ్చో తెలుసుకోండి
-manifesto-explore-how-the-web-works = జాలం ఎలా పనిచేస్తుందో తెలుసుకోండి
-manifesto-see-how-mozilla-works = మీ గోప్యతను కాపాడటానికి { -brand-name-mozilla } ఎలా పని చేస్తుందో చూడండి
-manifesto-read-about-developments = గోప్యత మరియు డేటా భద్రతలో పరిణామాల గురించి చదవండి
-manifesto-learn-more-about-how-to = మిమ్మల్ని ఆన్లైన్లో ఎలా రక్షించుకోవాలో అనే దాని గురించి మరింత తెలుసుకోండి
-manifesto-use-these-free-tools-to = జాల గురించి బోధించడానికి ఈ ఉచిత పనిముట్లను వాడుకోండి
-manifesto-set-your-do-not-track = మీ ట్రాక్ ప్రాధాన్యతను సెట్ చేయండి
-manifesto-learn-how-to-remix-content = ఏదైనా క్రొత్తదాన్ని సృష్టించడానికి కంటెంట్ని రీమిక్స్ ఎలా చేయాలో తెలుసుకోండి
-manifesto-participate-in-our-governance = మా పాలనా వేదికలో పాల్గొనండి
-manifesto-join-us-as-a-volunteer = ఒక వాలంటీర్ గా మాతో చేరండి
-manifesto-learn-how-to-collaborate = ఆన్లైన్లో సహకరించడం ఎలాగో తెలుసుకోండి
-manifesto-host-or-join-a-maker-party = ఒక { -brand-name-maker-party }లో పాల్గొనండి లేదా నిర్వహించండి
-manifesto-learn-how-to-build-online = ఆన్లైన్ సహకార నైపుణ్యాలను ఎలా నిర్మించాలో తెలుసుకోండి
 manifesto-read-the-entire-manifesto = మొత్తం మానిఫెస్టోని చదవండి
 manifesto-love-the-web = జాలం మీకు ఇష్టమా?
 manifesto-details-the-mozilla-manifesto = { -brand-name-mozilla } మానిఫెస్టో

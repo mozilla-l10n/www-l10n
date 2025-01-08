@@ -18,9 +18,5 @@ page7-that-sneaky-little-button = Y botwm bach slei yna
 page7-those-innocent-looking-f-buttons = Mae'r botymau F diniwed yr olwg hynny o { -brand-name-facebook } yn tracio eich gweithgaredd gwe, hyd yn oed os nad oes gennych chi gyfrif. Mae { -brand-name-facebook-container } yn eu rhwystro.
 page7-stay-ahead-of-hackers = Cadw ar y blaen i'r hacwyr
 page7-firefox-monitor-lets-you-find-v2 = Mae { -brand-name-mozilla-monitor } yn gadael i chi ddarganfod beth mae hacwyr eisoes yn ei wybod amdanoch chi ac yn eich helpu i aros gam ar y blaen. (Ac mae'n rhad ac am ddim.)
-# Obsolete string
-page7-firefox-monitor-lets-you-find = Mae { -brand-name-firefox-monitor } yn gadael i chi ddarganfod beth y gall hacwyr fod yn ei wybod amdanoch chi yn barod ac yn eich helpu i aros gam o'u blaenau. (Ac mae am ddim.)
 page7-get-mozilla-monitor = Cael { -brand-name-mozilla-monitor }
-# Obsolete string
-page7-get-firefox-monitor = Cael { -brand-name-firefox-monitor }
 page7-why-am-i-seeing-this = Pam ydw i'n gweld hyn?

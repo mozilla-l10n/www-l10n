@@ -15,7 +15,6 @@ welcome-page8-view-your-protection-report = اپنی تحفظ کی رپورٹ د
 welcome-page8-enhanced-tracking-protection = بہتر ٹریکنگ پروٹیکشن
 welcome-page8-automatically-block-sites = انٹرنیٹ پر آپ کی پیروی کرنے سے خود بخود سائٹس بلاک کرتا ہے۔
 welcome-page8-see-whats-blocked = دیکھیں کہ کیا بلاک ہو رہا ہے
-welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-see-what-youve-been = دیکھیں کہ کیا آپ آن لائن ڈیٹا کی خلاف ورزیوں میں ملوث ہیں اور ان کو حل کرنے کے لئے عملی اقدامات اٹھائیں گے۔
 welcome-page8-go-to-monitor = { -brand-name-monitor } پر جایں
 welcome-page8-firefox-send = { -brand-name-firefox-send }

@@ -10,11 +10,6 @@ facebook-container-millions-of-people-around = Dünyanın hər yerindən milyonl
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }-u həbs edin, həyatınızı izləməyə icazə verməyin.
 facebook-container-get-the-facebook-container = { -brand-name-facebook-container } Uzatmasını əldə edin
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } endirin və { -brand-name-facebook-container } Uzatmasını əldə edin
-# Outdated string
-facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } Uzatması hələlik mobil cihazlarda dəstəklənmir.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = <strong>{ -brand-name-firefox-focus }</strong> yoxlayın, { -brand-name-android } və { -brand-name-ios } üçün məxfi səyyah.
 facebook-container-opt-out-on-your-terms = Şərtləri özünüz təyin edin
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

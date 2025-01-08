@@ -41,5 +41,3 @@ footer-refresh-community-participation-guidelines = Dirittivi di participazzioni
 footer-refresh-about-this-site = Nfurmazzioni ncapu a stu situ
 footer-refresh-all-languages = Tutti i lingui
 footer-refresh-language = Lingua
-footer-refresh-primary-nav-aria-label = Pedi dâ pàggina primariu
-footer-refresh-secondary-nav-aria-label = Pedi dâ pàggina sicunnariu

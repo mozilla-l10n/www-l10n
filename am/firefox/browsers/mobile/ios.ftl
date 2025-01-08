@@ -7,12 +7,7 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser }{ -brand-name-ios }({ -brand-name-iphone } እና { -brand-name-ipad })
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = { -brand-name-firefox } አሳሽ ለ { -brand-name-ios } ለመጀመሪያ ጊዜ ከከፈቱት ጀምሮ ፈጣን፣ ደህንነቱ የተጠበቀ እና ሚስጥራዊ ነው።
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-mobile-ios-get-automatic-privacy = በእርስዎ { -brand-name-iphone } እና { -brand-name-ipad } ላይ ራስ-ሰር ግላዊነትን ያግኙ
 mobile-ios-get-firefox-for = ለ { -brand-name-ios } { -brand-name-firefox }ን ያግኙ
 mobile-ios-send-a-download-link-to-your = የማውረጃ አገናኝ ወደ ስልክዎ ይላኩ።
 mobile-ios-scan-the-qr-code-to-get-started = ለመጀመር የQR ኮዱን ይቃኙ
@@ -27,7 +22,5 @@ mobile-ios-see-your-open-tabs = የእርስዎን ክፍት ትሮች፣ ያለ
 mobile-ios-own-your-home = የመነሻ ማያዎ ባለቤት ይሁኑ
 mobile-ios-get-to-the-parts = ወደሚፈልጉት የበይነ-መረብ ክፍሎች በፍጥነት ይድረሱ። ሁሉንም ክፍት ትሮችዎን፣ የቅርብ ጊዜ ፍለጋዎችዎን፣ እልባቶችዎን እና ተወዳጅ ድረ-ገፆችዎን ሁሉንም በአንድ ቦታ ለማየት ይምረጡ።
 mobile-ios-find-it-all = ሁሉንም በፍጥነት ያግኙ
-# Obsolete string
-mobile-ios-keep-tabs-on = በእነዚህ ሁሉ ትሮች ላይ ትሮችን አቆይ
 mobile-ios-discover-more-of = የሚወዱትን የበለጠ ያግኙ
 mobile-ios-about-mozilla = ስለ { -brand-name-mozilla }

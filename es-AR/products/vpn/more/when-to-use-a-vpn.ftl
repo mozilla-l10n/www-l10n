@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use/
+### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use-a-vpn/
 
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = 5 razones por las que deberías usar una VPN
@@ -32,7 +32,7 @@ vpn-when-to-use-for-the-most = En su mayoría, los escenarios anteriores no se a
 vpn-when-to-use-because-your-internet = Debido a que el tráfico de Internet en casa se mueve hacia y desde tus dispositivos a través de tu proveedor de servicios de Internet — ISP para acortar — ellos pueden ver adónde vas en línea. Un ISP puede ver los sitios que visitás, cuánto tiempo estás en ellos, tu ubicación e información sobre tus dispositivos. Un ISP puede no conocer los detalles específicos de lo que hiciste en esos sitios (como lo que compraste, buscaste o leíste) gracias al cifrado, pero podrían hacer inferencias sobre vos basadas en los sitios que visitaste. Los ISP pueden usar los datos personales para crear perfiles detallados sobre vos. La navegación en modo privado no impide que los ISPs vean adonde vas en línea. Pero enviar tu tráfico web a través de una VPN puede hacerlo mucho más difícil.
 vpn-when-to-use-make-sure-you = Asegurate de entender lo que una VPN no hace
 # Variables
-#   $book (url) - https://www.mozilla.org/firefox/privacy/book/
+#   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
 vpn-when-to-use-a-vpn-provides = Una VPN proporciona un importante enlace de seguridad al proteger tus datos privados antes de que viajen por Internet y también oculta tu dirección IP, ayudando a proteger tu identidad y ubicación. Sin embargo, no te impedirá hacer clic en enlaces sospechosos, descargar malware o ser víctima del fraude por correo electrónico. Todavía necesitás practicar <a href="{ $book }">buenos hábitos para mantenerte seguro en línea</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, un servicio VPN confiable
 # Variables

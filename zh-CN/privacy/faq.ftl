@@ -16,13 +16,9 @@ privacy-faq-at-mozilla-we-respect-and-protect = 在 { -brand-name-mozilla }，�
 privacy-faq-we-follow-a-set-of-data-privacy = 我们遵循一系列<a href="{ $link }">数据隐私准则</a>，这些准则塑造了我们在 { -brand-name-firefox } 桌面和移动浏览器中保护隐私的方法。
 privacy-faq-we-only-collect-the-data-we = 我们仅为打造优秀产品收集必要信息。
 privacy-faq-we-put-people-in-control-of = 我们坚持让民众掌控自身数据与网络体验。
-# Obsolete string (expires 2024-09-11)
-privacy-faq-we-adhere-to-no-surprises-principle = 我们坚持“如所料”的原则，即我们努力确保 { -brand-name-firefox } 的实际运作符合人们的直觉预期。
 privacy-faq-we-adhere-to-no-surprises-principle-v2 = 我们坚持“如所料”的原则，即我们努力确保 { -brand-name-firefox } 的实际运作符合人们的直觉预期。
 privacy-faq-the-following-questions-and = 以下问题和答案应该有助于你理解 { -brand-name-mozilla } 和 { -brand-name-firefox } 的想法：
 privacy-faq-i-use-firefox-for-almost-everything = 我在网络上几乎只使用 { -brand-name-firefox }。 你们 { -brand-name-mozilla } 肯定知道大量关于我的资料，对吧？
-# Obsolete string (expires 2024-09-11)
-privacy-faq-firefox-the-web-browser-that = { -brand-name-firefox } 作为您的设备或计算机上运行的 Web 浏览器，是您通往互联网的门户。您的浏览器管理大量关于您访问的网站的信息，但这些信息只会保留在您的设备上。 开发 { -brand-name-firefox } 的公司 { -brand-name-mozilla } 不会收集这些数据（除非为遵循您的要求）。
 privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox } 作为您的设备或计算机上运行的 Web 浏览器，是您通往互联网的门户。您的浏览器管理大量关于您访问的网站的信息，但这些信息一般只会保留在您的设备上。 开发 { -brand-name-firefox } 的公司 { -brand-name-mozilla } 不会收集这些数据（除非为遵循您的要求）。
 privacy-faq-really-you-dont-collect-my-browsing = 你们真的不收集我的浏览历史？
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } 并不像您想的那样了解人们如何浏览网页。作为一家浏览器开发商，这对我们来说实际上是个巨大的挑战。因此我们开发了自愿加入测试的工具，使感兴趣的用户能够让我们深入了解他们的网页浏览习惯。此外，即使您选择在 { -brand-name-firefox } 间同步浏览历史，我们也无法看到您的记录，因为记录在您的设备上就已加密。
@@ -34,11 +30,6 @@ privacy-faq-wait-so-how-do-you-make-money = 等等，那你们这样要如何赚
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } 绝非寻常组织。自从 1998 年组建为众志开源项目，{ -brand-name-mozilla } 一直由使命驱动，致力于协力打造更健康的互联网。{ -brand-name-mozilla-corporation }的大部分收入由 { -brand-name-firefox } Web 浏览器的搜索合作与遍布世界的各类交易而来。您可以看看我们的<a href="{ $link }">年度财报</a>，详细了解我们的营收从何而来。
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = 好吧，说重点。你们收集了哪些数据？
-# Obsolete string (expires 2024-09-11)
-# Variables:
-#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
-#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited = 默认情况下，{ -brand-name-mozilla } 的确从 { -brand-name-firefox } 收集一组有限的数据，这有助于我们了解人们如何使用浏览器。该数据与随机标识符绑定，而不是您的姓名或电子邮件地址。您可以阅读我们的<a href="{ $privacy }">隐私声明</a>，或<a href="{ $data }">数据收集的完整文档</a>。
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
@@ -48,17 +39,9 @@ privacy-faq-we-make-our-documentation-public = 我们公开我们的文档，任
 privacy-faq-that-documentation-is-gobbledygook = 那个文档对我来说是天书！你们能直白些解释给我吗？
 privacy-faq-there-are-two-categories-of = 默认情况下，我们在 { -brand-name-firefox } 的正式版本中收集了两类数据。
 privacy-faq-the-first-is-what-we-call-technical = 第一类是我们所说的“技术数据”。这是关于浏览器本身的数据，例如它运行在什么操作系统上，以及有关错误或崩溃的信息。
-# Obsolete string (expires 2024-09-11)
-privacy-faq-the-second-is-what-we-call-interaction = 第二类是我们所说的“交互数据”。这是关于个人与 { -brand-name-firefox } 的交互情况的数据，例如打开的标签页数量，用户偏好设置状态或某些浏览器功能的使用次数，如屏幕截图或身份标签页。 例如，就我们收集后退按钮的数据而言（即浏览器左上角可让您回到之前浏览的网页的箭头），我们可以以某种形式看到有人点击了后退按钮，但不会知道用户访问了哪些特定网页。
 privacy-faq-the-second-is-what-we-call-interaction-v2 = 第二类是我们所说的“交互数据”。这是关于个人与 { -brand-name-firefox } 的交互情况的数据，例如打开的标签页数量、用户偏好设置状态，或某些浏览器功能（例如屏幕截图和身份标签页）的使用次数。举例来说，我们会通过后退按钮（即浏览器左上角可让您回到之前浏览的网页的箭头）来收集此类数据，这样我们就可以得知有人点击了后退按钮，但并不知晓访问了哪些特定网页。
 privacy-faq-do-you-collect-more-data-in = 你们是否在 { -brand-name-firefox } 的预发布版本中收集了更多数据？
-# Obsolete string (expires 2024-09-11)
-privacy-faq-sort-of-in-addition-to-the-data = 稍多一点。除上述数据外，我们还会在 { -brand-name-firefox } 的预发布版本中默认收集崩溃和错误报告。
 privacy-faq-sort-of-in-addition-to-the-data-v2 = 会收集一些。默认情况下，除了上述数据，我们还可获知 { -brand-name-firefox } 预发布版本中的崩溃和错误报告。
-# Obsolete string (expires 2024-09-11)
-# Variables:
-#   $link (url) - link to https://support.mozilla.org/kb/shield
-privacy-faq-we-may-also-collect-additional = 我们还可能为某一<a href="{ $link }">实验</a>在预发布版本中收集额外的数据。例如，一些实验需要我们称之为“网络活动数据”的数据，其中可能包括有关某些网站的 URL 和其他信息。这有助于我们解决改进 { -brand-name-firefox } 的特定问题，例如，如何更好地整合特定区域中的热门网站。
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional-v2 = 我们还可能为某一<a href="{ $link }">实验</a>在预发布版本中收集额外的数据。例如，一些实验需要收集我们所称的“网络活动数据”，其中可能包括有关某些网站的网址和其他信息。这有助于我们解决改进 { -brand-name-firefox } 的特定问题，例如如何更好地整合特定区域中的热门网站。

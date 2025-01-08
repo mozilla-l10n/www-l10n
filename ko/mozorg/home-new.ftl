@@ -32,9 +32,7 @@ home-join-us-in-shaping = 신뢰할 수 있는 AI를 만드는 데 동참하세�
 home-work-on-ai = { -brand-name-mozilla }의 AI 작업은 새로운 것이 아닙니다. 우리는 수년간 개방적이고 공정하며 책임감 있게 개발된 AI를 위한 자금 지원과 구축, 옹호에 시간을 보냈습니다. 우리의 초점은 기업 의제가 아닌 사람들에게 봉사하고 투명성을 우선시하며 대중의 이익을 지원하는 AI를 만드는 것입니다.
 home-read-more = 자세히 살펴보기
 home-so-what-is-mozilla = 그렇다면 { -brand-name-mozilla }는 무엇인가요?
-# Variables
-#   $ventures - link to https://mozilla.vc/
-#   $mozai - link to https://mozilla.ai/
+# Obsolete string (expires: 2025-01-05)
 home-at-its-core = 본질적으로 { -brand-name-mozilla }는 { -brand-name-mozilla-foundation }이 이끄는 활동가 조직으로, { -brand-name-mozilla-corporation }와 MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a>, <a { $mozai }>{ -brand-name-mozilla-ai }</a>를 포함한 다양한 벤처를 통해 세상을 변화시킵니다. 우리는 어떻게 다를까요? 우리는 사명을 중심으로 하기 때문데 주주들의 요구 사항이 아니라 인터넷과 온라인의 모든 사람에게 가장 좋을 수 있도록 결정을 내릴 자유가 있습니다. — 사실 우리는 주주들의 요구 사항이 없습니다.
 home-learn-about-mofo = { -brand-name-mozilla-foundation }에 대해 알아보기
 home-join-the-fight = 건강한 인터넷을 위한 싸움에 참여하세요

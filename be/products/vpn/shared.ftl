@@ -8,19 +8,10 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Атрымаць { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Далучыцца да спісу чакання
-vpn-shared-sign-in-link = Ужо падпісаны?
-# Outdated string
-vpn-shared-available-countries-v5 = Зараз мы прадстаўляем { -brand-name-mozilla-vpn } у Аўстрыі, Бельгіі, Вялікабрытаніі, Германіі, ЗША, Ірландыі, Іспаніі, Італіі, Канадзе, Малайзіі, Нідэрландах, Новай Зеландыі, Сінгапуры, Фінляндыі, Францыі, Швейцарыі і Швецыі.
 vpn-shared-available-countries-v6 = Зараз мы прадстаўляем { -brand-name-mozilla-vpn } у Аўстрыі, Балгарыі, Бельгіі, Венгрыі, Вялікабрытаніі, Германіі, Даніі, ЗША, Ірландыі, Іспаніі, Італіі, Канадзе, Кіпры, Латвіі, Літве, Люксембургу, Малайзіі, Мальце, Нідэрландах, Новай Зеландыі, Партугаліі, Польшчы, Румыніі, Сінгапуры, Славакіі, Славеніі, Фінляндыі, Францыі, Харватыі, Чэхіі, Швейцарыі, Швецыі і Эстоніі.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-дзённая гарантыя вяртання грошай
-# This string will be followed by a lockup of press logos for publications that have featured Mozilla VPN.
-vpn-shared-featured-in = Рэкамендаваныя
 vpn-shared-features-encrypt = Шыфраванне на ўзроўні прылады
-# Variables:
-#   $servers (number) - number of available servers
-#   $countries (number) - number of available countries
-vpn-shared-features-servers = Больш за { $servers } сервераў у больш чым { $countries } краінах
 vpn-shared-features-bandwidth = Неабмежаваная прапускная здольнасць
 vpn-shared-features-activity = Без журналявання вашай сеткавай актыўнасці
 vpn-shared-features-activity-logs = Ніякіх журналаў інтэрнэт-актыўнасці ні цяпер, ні калі-небудзь
@@ -28,22 +19,8 @@ vpn-shared-features-activity-logs = Ніякіх журналаў інтэрнэ
 #   $countries (number) - number of available countries
 vpn-shared-features-access-countries = Доступ да сервераў у { $countries }+ краінах
 # Variables:
-#   $devices (number) - maximum number of connected devices
-vpn-shared-features-devices = Магчымасць падлучэння да { $devices } прылад
-# Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-protection = Абарона да { $devices } прылад
-# Variables:
-#   $servers (number) - number of available servers
-#   $countries (number) - number of available countries
-vpn-shared-features-server-countries = Падключайцеся да больш чым { $servers } сервераў больш чым у { $countries } краінах
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-countries-coming-soon = Даступна ў { $countries } краінах. Хутка з'явяцца іншыя рэгіёны
-# Variables:
-#   $url (number) - link to https://mullvad.net/servers/
-#   $attrs (string) - specific attributes added to external links
-vpn-shared-features-full-list-servers = Глядзіце наш поўны спіс <a href="{ $url }" { $attrs }>сервераў</a>.
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-strong-servers = Моцныя серверы ў { $countries }+ краінах
@@ -52,24 +29,13 @@ vpn-shared-features-strong-servers = Моцныя серверы ў { $countries
 vpn-shared-features-connect = Падключыце да { $devices } прылад
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30-дзённая гарантыя вяртання грошай
-vpn-shared-refund-policy = Палітыка вяртання сродкаў
 vpn-shared-privacy-notice = Паведамленне аб прыватнасці
 vpn-shared-terms-conditions = Умовы выкарыстання
 vpn-shared-wireguard-copyright = { -brand-name-wireguard } — зарэгістраваны таварны знак Джэйсана А. Доненфельда
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
-vpn-shared-pricing-variable-heading-v2 = Выберыце план падпіскі, які вам падыходзіць
-vpn-shared-one-subscription-heading = Адна падпіска для ўсіх вашых прылад
-vpn-shared-choose-a-plan-sub-heading = Выберыце план, які вам падыходзіць
-vpn-shared-pricing-variable-sub-heading = Усе нашы планы ўключаюць:
 vpn-shared-pricing-recommended-offer = Рэкамендаваныя
-vpn-shared-pricing-plan-12-month-v2 = План на 12 месяцаў
-# Outdated string
-vpn-shared-pricing-plan-12-month = 12 месяцаў
-vpn-shared-pricing-plan-monthly-v2 = Штомесячны план
-# Outdated string
-vpn-shared-pricing-plan-monthly = Штомесяц
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/месяц</span>
@@ -77,14 +43,6 @@ vpn-shared-pricing-monthly = { $amount }<span>/месяц</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/месяц + падатак</span>
-# Outdated string
-vpn-shared-pricing-get-6-month = Атрымаць 6-месячны план
-# Outdated string
-vpn-shared-pricing-get-12-month = Атрымаць 12-месячны план
-# Outdated string
-vpn-shared-pricing-get-6-month-v2 = Атрымаць 6-месячны план
-vpn-shared-pricing-get-12-month-v2 = Атрымаць 12-месячны план
-vpn-shared-pricing-get-monthly = Атрымаць штомесячны план
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = Зэканомце { $percent }%
@@ -107,57 +65,16 @@ vpn-shared-pricing-total-plus-tax = { $amount } агулам + падатак
 vpn-shared-platform-cta-headline = Давайце пачнём
 vpn-shared-platform-cta-button = Паглядзець цэны і даступнасць
 vpn-shared-platform-privacy-promise = Ваша прыватнасць — гэта наша абяцанне
-vpn-shared-platform-trust-partner-headline = Пра нашага надзейнага партнёра
 vpn-shared-platform-what-is = Што такое { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Чаму { -brand-name-mozilla-vpn }?
-# Variables:
-#   $policy (url) - link to https://mullvad.net/help/no-logging-data-policy/
-#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
-vpn-shared-platform-trust-partner-copy = { -brand-name-mozilla-vpn } працуе ў глабальнай сетцы сервераў на базе <a href="{ $policy }">{ -brand-name-mullvad }</a>, выкарыстоўваючы пратакол <a href="{ $wireguard }">{ -brand-name-wireguard }</a>®. { -brand-name-mullvad } ставіць вашу прыватнасць на першае месца і не вядзе ніякіх журналаў.
 vpn-shared-platform-what-youll-get = Што вы атрымаеце з { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
-vpn-subnav-whats-a-vpn = Што такое VPN?
-vpn-subnav-faqs = Пытанні і адказы
-vpn-subnav-get-help = Атрымаць дапамогу
-vpn-subnav-platform-android = { -brand-name-android }
-vpn-subnav-platform-desktop = Для камп'ютара
-vpn-subnav-platform-ios = { -brand-name-ios }
-vpn-subnav-platform-linux = { -brand-name-linux }
-vpn-subnav-platform-mac = { -brand-name-mac-short }
-vpn-subnav-platform-mobile = Для мабільнага
-vpn-subnav-platform-windows = { -brand-name-windows }
-vpn-subnav-whats-an-ip-address = Што такое IP-адрас?
-vpn-subnav-when-to-use-a-vpn = Калі выкарыстоўваць VPN
-vpn-subnav-vpn-vs-proxy = VPN супраць проксі
-vpn-subnav-subscribe = Падпісацца на { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Даведацца больш пра VPN
 vpn-subnav-download-mozilla-vpn = Сцягнуць { -brand-name-mozilla-vpn }
 
-## VPN Affiliate cookie notice
+## Press quotations
 
-# Variables:
-#   $attrs (string) - link to https://www.mozilla.org/en-US/privacy/websites/ with additional attributes.
-vpn-shared-affiliate-notification-message = Мы выкарыстоўваем кукі, каб зразумець, які афіліяваны партнёр прывёў вас да { -brand-name-mozilla-vpn }. Мы не перадаём персанальную інфармацыю нашым партнёрам. Прачытайце нашу <a { $attrs }>Палітыку прыватнасці</a>.
-vpn-shared-affiliate-notification-reject = Адхіліць
-vpn-shared-affiliate-notification-ok = Добра
 
-## VPN + Relay bundle offer
-
-vpn-shared-increase-your-privacy = Павялічце сваю прыватнасць з { -brand-name-vpn } + { -brand-name-relay }
-# Variables:
-#   $url (string) - link to https://relay.firefox.com/premium/
-vpn-add-relay-to-protect = Дадайце { -brand-name-firefox-relay } да сваёй падпіскі, каб абараніць сваю электронную пошту і нумар тэлефона. <a href="{ $url }">Падрабязней</a>.
-# Variables:
-#   $class_name (string) - CSS class name used to replace brand name with wordmark logo
-vpn-shared-add-firefox-relay = Дадаць <span class="{ $class_name }">{ -brand-name-firefox-relay }</span>
-vpn-shared-relay-email-masking = Маскіроўка электроннай пошты
-vpn-shared-relay-phone-masking = Маскіроўка нумара тэлефона
-vpn-shared-get-vpn-plus-relay = Атрымаць { -brand-name-vpn } + { -brand-name-relay }
-vpn-shared-why-bundle = Чаму пакет?
-# Variables:
-#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
-vpn-shared-save-on-relay-premium = <span>Зэканомце { $percent }%</span> на гадавым плане { -brand-name-relay-premium }
-
-##
+## Unsupported language notification
 

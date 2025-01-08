@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-refresh-get-the-best = Prejemajte sijajne nasvete, zvijače in novice o { -brand-name-firefox(sklon: "mestnik") }. Obljubimo, da bomo vaš naslov ohranili zaseben in varen – samo najboljše iz { -brand-name-firefox(sklon: "rodilnik") }, poslano naravnost v vaš nabiralnik.
 footer-refresh-leadership = Vodstvo
 footer-refresh-advertise = Oglašujte z { -brand-name-mozilla(sklon: "orodnik") }
 footer-refresh-firefox-release-notes = Opombe ob izdaji { -brand-name-firefox(sklon: "rodilnik") }
@@ -40,5 +39,3 @@ footer-refresh-websites-legal = Pravne informacije
 footer-refresh-community-participation-guidelines = Smernice za sodelovanje v skupnosti
 footer-refresh-about-this-site = O tem spletnem mestu
 footer-refresh-language = Jezik
-footer-refresh-primary-nav-aria-label = Primarna noga
-footer-refresh-secondary-nav-aria-label = Sekundarna noga

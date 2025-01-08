@@ -52,8 +52,6 @@ manifesto-we-are-committed-to-diverse = Wy stean foar in ynternet dat gearwurkin
 manifesto-show-your-support = Toan jo stipe
 manifesto-an-internet-with-these = In ynternet mei dizze eigenskippen ûntstiet net samar. Minsken en organisaasjes moatte dizze doelen, sawol yn ynternettechnology as ek yn it yndividuele ûnderfinen, yn it ynternet yntegrearje. { -brand-name-mozilla }'s Manifest en it Addendum stiet foar { -brand-name-mozilla }'s ynset foar dizze doelen. Wy wolle gearwurkje mei minsken en organisaasjes fan oer de hiele wrâld dy’t dizze doelen diele, om it ynternet in better plak foar elkenien te meitsjen.
 manifesto-i-support-the-vision-of = Ik stypje de fyzje fan in better, sûner ynternet fan @mozilla, dochsto mei my mei?
-# Obsolete string
-manifesto-share-on-twitter = Diele op { -brand-name-twitter }
 manifesto-share-on-x = Diele op X
 manifesto-share-on-x-aria-label = Diele op X (earder Twitter)
 manifesto-our-10-principles = <strong>Us 10</strong> prinsipen

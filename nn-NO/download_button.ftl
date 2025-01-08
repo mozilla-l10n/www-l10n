@@ -52,10 +52,6 @@ download-a-different-build = Last ned ein annan versjon
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = Last ned { -brand-name-linux } 32-bit
-# Obsolete string
-download-button-linux-64 = Last ned { -brand-name-linux } 64-bit
 download-button-linux-32-v2 = Last ned Linux 32-bit
 download-button-linux-64-v2 = Last ned Linux 64-bit
 # Variables

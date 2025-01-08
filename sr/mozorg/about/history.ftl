@@ -7,7 +7,7 @@
 
 history-history-of-the-mozilla-project = Историја { -brand-name-mozilla } пројекта
 # Variables:
-#   $coderush (url) - link to https://air.mozilla.org/code-rush/
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
 history-the-mozilla-project-was = { -brand-name-mozilla } пројекат је <a href="{ $coderush }">настао 1998. године</a>, <a href="{ $sourcerelease }">објављивањем изворног кода { -brand-name-netscape } прегледача</a>.
 history-it-was-intended-to-harness = Његов циљ је био да скупи креативну моћ хиљада програмера на интернету и да подстакне до тада још невиђене иновације на тржишту прегледача.

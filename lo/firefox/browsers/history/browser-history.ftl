@@ -31,7 +31,7 @@ browser-history-the-browser-wars = ສົງຄາມຂອງຕົວທ່ອ
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = ໃນປີ 1995, { -brand-name-netscape } Navigator ບໍ່ແມ່ນວິທີດຽວທີ່ຈະອອນໄລນ໌. ຊອບແວຄອມພິວເຕີຍັກໃຫຍ່ { -brand-name-microsoft } ໄດ້ອະນຸຍາດລະຫັດ Mosaic ເກົ່າ ແລະສ້າງໜ້າຕ່າງຂອງຕົນເອງໃຫ້ກັບເວັບ, <a href="{ $ie }">{ -brand-name-ie }</a>. ການປ່ອຍຕົວດັ່ງກ່າວໄດ້ເຮັດໃຫ້ເກີດສົງຄາມ. { -brand-name-netscape } ແລະ { -brand-name-microsoft } ໄດ້ເຮັດວຽກຢ່າງເປັນໄຂ້ເພື່ອສ້າງໂປຣແກມເວີຊັ່ນໃໝ່ຂອງພວກມັນ, ແຕ່ລະຄົນພະຍາຍາມເໜືອກວ່າອີກອັນໜຶ່ງດ້ວຍຜະລິດຕະພັນທີ່ໄວກວ່າ, ດີກວ່າ.
 # Variables:
-#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = { -brand-name-netscape } ສ້າງ ແລະປ່ອຍ JavaScript, ເຊິ່ງເຮັດໃຫ້ເວັບໄຊທ໌ມີຄວາມສາມາດໃນການຄອມພິວເຕີທີ່ມີປະສິດທິພາບທີ່ພວກເຂົາບໍ່ເຄີຍມີມາກ່ອນ. (ພວກເຂົາຍັງໄດ້ສ້າງ <a href="{ $blink }">&lt;blink&gt; tag</a> ທີ່ມີຊື່ສຽງ.) { -brand-name-microsoft } ກົງກັນຂ້າມກັບ Cascading Style Sheets (CSS), ເຊິ່ງກາຍເປັນມາດຕະຖານສໍາລັບ ການອອກແບບຫນ້າເວັບ.
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1

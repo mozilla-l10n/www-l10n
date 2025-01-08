@@ -44,5 +44,5 @@ firefox-enterprise-sample-plist-for-configuration = Пример <a href="{ $url
 firefox-enterprise-pkg-installer = PKG инсталација
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-битни
 # Variables:
-#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/#product-desktop-esr
+#   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
 firefox-enterprise-download-firefox-esr-or-rapid = Преузмите { -brand-name-firefox-esr } или Rapid Release за<br> <a href="{ $firefox_all }">други језик или платформу.</a>

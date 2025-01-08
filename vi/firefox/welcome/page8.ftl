@@ -16,8 +16,6 @@ welcome-page8-enhanced-tracking-protection = Trình chống theo dõi nâng cao
 welcome-page8-automatically-block-sites = Tự động chặn các trang web theo dõi bạn trên internet.
 welcome-page8-see-whats-blocked = Xem những gì bị chặn
 welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-see-what-youve-been = Xem nếu thông tin của bạn đã bị lộ từ các rò rỉ dữ liệu trực tuyến đã biết và thực hiện hành động để giải quyết chúng.
 welcome-page8-go-to-monitor = Đi đến { -brand-name-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }

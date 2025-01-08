@@ -7,12 +7,7 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } pre { -brand-name-ios } ({ -brand-name-iphone } a { -brand-name-ipad })
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = Prehliadač { -brand-name-firefox } pre { -brand-name-ios } je rýchly, bezpečný a súkromný od prvého otvorenia.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-mobile-ios-get-automatic-privacy = Získajte na vašich zariadeniach { -brand-name-iphone } a { -brand-name-ipad } automatické súkromie
 mobile-ios-get-firefox-for = Získajte { -brand-name-firefox } pre { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Odošlite si odkaz na stiahnutie do svojho telefónu.
 mobile-ios-scan-the-qr-code-to-get-started = Naskenujte QR kód a začnite
@@ -31,14 +26,8 @@ mobile-ios-get-to-your-go-to = Dostaňte sa rýchlejšie na svoje obľúbené mi
 mobile-ios-see-your-open-tabs = Pozrite si svoje otvorené karty, predchádzajúce vyhľadávania a obľúbené stránky na jednom mieste pomocou { -brand-name-firefox-browser(case: "gen", capitalization: "lower") } pre { -brand-name-ios }.
 mobile-ios-own-your-home = Vlastnite svoju domovskú obrazovku
 mobile-ios-get-to-the-parts = Dostaňte sa rýchlejšie do častí internetu, na ktorých vám záleží. Zvoľte si, či chcete zobraziť všetky svoje otvorené karty, posledné vyhľadávania, záložky a obľúbené stránky na jednom mieste.
-# Obsolete string
-mobile-ios-add-firefox-across = Pridajte { -brand-name-firefox } do svojich zariadení pre bezpečné a bezproblémové prehliadanie. { -brand-name-sync(form: "verbv2") } svoje zariadenia a vezmite si svoje obľúbené záložky, uložené prihlasovacie údaje, heslá a históriu prehliadania, nech ste kdekoľvek. Navyše posielajte otvorené karty medzi telefónom a počítačom, aby ste mohli pokračovať tam, kde ste prestali.
 mobile-ios-find-it-all = Nájdite všetko rýchlejšie
 mobile-ios-get-search-suggestions = Získajte návrhy vyhľadávania na paneli vyhľadávania a rýchlo pristupujte k webom, ktoré najčastejšie navštevujete. Zadajte svoju hľadanú otázku a získajte navrhované a predtým hľadané výsledky vo svojich obľúbených vyhľadávačoch.
-# Obsolete string
-mobile-ios-keep-tabs-on = Majte prehľad o všetkých kartách
-# Obsolete string
-mobile-ios-create-as-many = Vytvorte toľko kariet, koľko chcete, bez toho, aby ste stratili prehľad. { -brand-name-firefox } zobrazuje vaše otvorené karty ako miniatúry a očíslované karty, čo uľahčuje rýchle vyhľadanie toho, čo chcete.
 mobile-ios-discover-more-of = Objavte viac toho, čo máte radi
 mobile-ios-open-a-new = Otvorte novú kartu vo { -brand-name-firefox(case: "loc") } a pozrite si stránky, ktoré najčastejšie navštevujete, svoje nedávne záložky a obľúbené články v službe { -brand-name-pocket }. { -brand-name-firefox } vám poskytuje rýchly prístup k vašim naposledy používaným stránkam, ktoré vám pomôžu rýchlejšie sa dostať tam, kam idete.
 mobile-ios-about-mozilla = O { -brand-name-mozilla(case: "loc") }

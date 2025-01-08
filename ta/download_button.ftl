@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = இப்பொழுதே பதிவிறக்கு
 download-button-free-download = இலவச பதிவிறக்கம்
@@ -39,3 +39,6 @@ download-button-firefox-ios = { -brand-name-ios } இயங்கு தளத�
 download-button-firefox-privacy = பயர்பாக்சு({ -brand-name-firefox }) தனியுரிமை
 download-button-firefox-privacy-notice = பயர்பாக்சு ({ -brand-name-firefox }) தனியுரிமை அறிவிப்பு
 download-button-download = பதிவிறக்குங்கள்
+
+## Linux
+

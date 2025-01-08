@@ -7,12 +7,7 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } και { -brand-name-ipad })
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = Το { -brand-name-firefox } για { -brand-name-ios } είναι γρήγορο, ασφαλές και ιδιωτικό από την πρώτη εκκίνηση.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-mobile-ios-get-automatic-privacy = Αυτόματο απόρρητο στο { -brand-name-iphone } και το { -brand-name-ipad } σας
 mobile-ios-get-firefox-for = Λήψη του { -brand-name-firefox } για { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Στείλτε έναν σύνδεσμο λήψης στο τηλέφωνό σας.
 mobile-ios-scan-the-qr-code-to-get-started = Σαρώστε τον κωδικό QR για να ξεκινήσετε
@@ -31,14 +26,8 @@ mobile-ios-get-to-your-go-to = Μεταβείτε ταχύτερα σε αγαπ
 mobile-ios-see-your-open-tabs = Δείτε τις ανοικτές καρτέλες, τις προηγούμενες αναζητήσεις και τους αγαπημένους σας ιστοτόπους σε ένα μέρος με το { -brand-name-firefox-browser } για { -brand-name-ios }.
 mobile-ios-own-your-home = Κάντε την αρχική οθόνη δική σας
 mobile-ios-get-to-the-parts = Μεταβείτε ταχύτερα στα αγαπημένα σας μέρη στο διαδίκτυο. Δείτε όλες τις ανοικτές καρτέλες, τις πρόσφατες αναζητήσεις, τους σελιδοδείκτες και τους αγαπημένους σας ιστοτόπους σε ένα μέρος.
-# Obsolete string
-mobile-ios-add-firefox-across = Εγκαταστήστε το { -brand-name-firefox } στις συσκευές σας για ασφαλή και απρόσκοπτη περιήγηση. Συγχρονίστε τις συσκευές σας με το { -brand-name-sync } για να έχετε πάντα μαζί σας τους αγαπημένους σας σελιδοδείκτες, τις αποθηκευμένες συνδέσεις, τους κωδικούς πρόσβασης και το ιστορικό περιήγησης, όπου κι αν πάτε. Επιπλέον, μπορείτε να στείλετε ανοικτές καρτέλες από το τηλέφωνο στον υπολογιστή σας και αντίστροφα, για να συνεχίσετε από εκεί που σταματήσατε.
 mobile-ios-find-it-all = Βρείτε τα πάντα, πιο γρήγορα
 mobile-ios-get-search-suggestions = Λάβετε προτάσεις αναζήτησης στη γραμμή αναζήτησης και αποκτήστε γρήγορη πρόσβαση στους ιστοτόπους που επισκέπτεστε περισσότερο. Πληκτρολογήστε την ερώτηση αναζήτησής σας και λάβετε προτεινόμενα και προηγούμενα αποτελέσματα αναζήτησης στις αγαπημένες σας μηχανές αναζήτησης.
-# Obsolete string
-mobile-ios-keep-tabs-on = Διαχειριστείτε όλες αυτές τις καρτέλες
-# Obsolete string
-mobile-ios-create-as-many = Ανοίξτε όσες καρτέλες θέλετε χωρίς να χάσετε τον έλεγχο. Το { -brand-name-firefox } εμφανίζει τις ανοικτές καρτέλες σας ως μικρογραφίες και αριθμημένες καρτέλες, βοηθώντας σας να βρείτε εύκολα αυτό που ψάχνετε.
 mobile-ios-discover-more-of = Ανακαλύψτε κι άλλο αγαπημένο περιεχόμενο
 mobile-ios-open-a-new = Ανοίξτε μια νέα καρτέλα στο { -brand-name-firefox } για να δείτε τους ιστοτόπους που επισκέπτεστε πιο συχνά, τους πρόσφατους σελιδοδείκτες και τα δημοφιλή άρθρα του { -brand-name-pocket }. Το { -brand-name-firefox } σάς παρέχει γρήγορη πρόσβαση σε πρόσφατους ιστοτόπους για να σας βοηθήσει να πλοηγηθείτε ταχύτερα.
 mobile-ios-about-mozilla = Σχετικά με τη { -brand-name-mozilla }

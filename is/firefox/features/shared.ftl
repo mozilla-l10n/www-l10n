@@ -5,4 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-your-favorite-extensions = Eftirlætis-forritsaukarnir þínir

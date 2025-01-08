@@ -13,7 +13,7 @@ what-is-firefox = Čo je { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = { -brand-name-firefox-browser } je jediný hlavný prehliadač podporovaný neziskovou organizáciou, ktorá nepredáva vaše osobné údaje inzerentom a zároveň vám pomáha chrániť vaše osobné údaje. Pozrite si ďalšie informácie o <a href="{ $url }">{ -brand-name-firefox-browsers(case: "loc", capitalization: "lower") }</a> a <a href="{ $url2 }">ďalších produktoch</a>.
 how-do-i = Ako získam { -brand-name-firefox-browser(capitalization: "lower") }?
@@ -46,7 +46,7 @@ protecting-your-privacy = Ochrana vášho súkromia je našou prioritou číslo 
 is-firefox-safe = Je { -brand-name-firefox } bezpečný?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = Nielenže je používanie { -brand-name-firefox(case: "gen") } bezpečné, ale tiež pomáha udržiavať vaše údaje a súkromné informácie v bezpečí. { -brand-name-firefox-browser } automaticky blokuje známe sledovače tretích strán, sledovače sociálnych médií, ťažbu kryptomien a snímanie digitálnych odtlačkov, aby nezhromažďovali vaše údaje. <a href="{ $url }">Pozrite si ďalšie informácie o ochrane osobných údajov v našich produktoch.</a>
 related-questions-safe = Súvisiace otázky: je { -brand-name-firefox } dobrý pre súkromie, je { -brand-name-firefox } bezpečný, je { -brand-name-firefox } lepší na ochranu súkromia

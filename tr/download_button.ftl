@@ -52,10 +52,6 @@ download-a-different-build = Farklı bir yapı indir
 
 ## Linux
 
-# Obsolete string
-download-button-linux-32 = { -brand-name-linux } 32 bit sürümünü indir
-# Obsolete string
-download-button-linux-64 = { -brand-name-linux } 64 bit sürümünü indir
 download-button-linux-32-v2 = 32 bit Linux sürümünü indir
 download-button-linux-64-v2 = 64 bit Linux sürümünü indir
 # Variables

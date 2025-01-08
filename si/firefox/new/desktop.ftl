@@ -37,12 +37,6 @@ firefox-desktop-download-blocks-social-trackers = සමාජ ලුහුබ�
 firefox-desktop-download-os-availability = මෙ. පද්. සහාය
 firefox-desktop-download-in-browser-screenshot = තිළෑලි තිරසේයා මෙවලම
 firefox-desktop-download-primary-password = ප්‍රාථමික මුරපදය
-# Obsolete string
-firefox-desktop-love-your-life = මාර්ගගත කාලය ඵලදායීව
-# Obsolete string
-firefox-desktop-its-your-internet = දහස් ගණනක් මෙවලම්, තේමා සහ දිගු සමඟින් ඔබට අවශ්‍ය ආකාරයට සකස් කර ගන්න. { -brand-name-firefox } යනු ලාභයට ඉහළින් මිනිසුන් තබන මුල් විකල්ප අතිරික්සුවයි.
-# Obsolete string
-firefox-desktop-download-master-password = ප්‍රධාන මුරපදය
 firefox-desktop-download-we-block-the-ad = අපි ලුහුබඳින දැන්වීම් අවහිර කරන්නෙමු. ඔබ වේගයෙන් අන්තර්ජාලයේ සැරිසරන්න.
 firefox-desktop-download-ads-are-distracting = දැන්වීම් මගින් අවධානය වෙනතකට යොමු කරන අතර ඒවායේ ලුහුබැඳීම් ඔබ මාර්ගගතව තබන සෑම පියවරක්ම නරඹන බැවින් පිටු පූරණය මන්දගාමී වේ. { -brand-name-firefox-browser } ස්වයංක්‍රීයව බොහෝ ලුහුබැඳීම් අවහිර කරයි, එබැවින් ඔබගේ ආරක්‍ෂණ සැකසුම් හාරා බැලීමට අවශ්‍ය නොවේ.
 firefox-desktop-download-see-your-report = ඔබගේ ආරක්‍ෂණ වාර්තාව බලන්න
@@ -130,9 +124,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-ie }, { -brand-name
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = අන්තර්ජාලය වර්ධනය වන විට සහ වෙනස් වන විට, ඔබගේ පෞද්ගලිකත්‍වය සඳහා ඇති අයිතිය කෙරෙහි { -brand-name-firefox } දිගටම අවධානය යොමු කරයි — අපි එය හඳුන්වන්නේ <a { $attrs }>පෞද්ගලික දත්ත පොරොන්දුව</a>: අඩුවෙන් ගෙන. ආරක්‍ෂිතව තබා ගන්න. රහස් නැත. ලෙසයි. ඔබගේ දත්ත, ඔබගේ වියමන ක්‍රියාකාරකම් හා මාර්ගගත විට ඔබගේ ජීවිතය { -brand-name-firefox } මගින් සුරක්‍ෂිතයි.
 # Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = ඔබගේ සියළුම උපාංග සඳහා { -brand-name-firefox } තිබේ; ඔබගේ පටිති, ඉතිහාසය සහ පොත්යොමු ඔබ සමඟ රැගෙන යන්න. ඔබට අවශ්‍ය වන්නේ <a { $attrs }>{ -brand-name-firefox } ගිණුමක්</a> පමණි.
-# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = අපගේ තිළෑලි අතිරික්සු <a { $attrs }>තිරසේයා</a> මෙවලම සමඟ මාර්ගගත ඕනෑම දෙයක අධි-විභේදන රූපයක් ගන්න
 # Variables:
@@ -141,7 +132,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ස්�
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ප්‍රශ්නයක් ද? <a { $attrs }>{ -brand-name-mozilla } සහාය</a> ඔබව ආවරණය කරයි.
-firefox-desktop-download-just-download-the-browser = අතිරික්සුව බාගන්න
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -157,8 +147,6 @@ firefox-desktop-download-now-mac = දැන් බාගත කළ ගොනු
 firefox-desktop-download-get-help = ප්‍රශ්නයක්ද? <a { $attrs }>ඔබගේ ස්ථාපනය සඳහා උදව් ලබා ගන්න</a>.
 firefox-desktop-download-in-another-language = අන් භාෂාවකින් හෝ වෙනත් මෙහෙයුම් පද්ධතියක් සඳහා බාගන්න.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = ඔබ ස්ථාපනයට උත්සාහ කරන යෙදුම { -brand-name-microsoft }-සත්‍යාපිත යෙදුමක් නොවන බවට ප්‍රේරකයක් දුටුවහොත්, “කෙසේ වුවද ස්ථාපනය කරන්න” ඔබන්න හෝ <a { $attrs }>යෙදුම් නිර්දේශ සැකසුම් වෙනස් කරන්න</a >.
@@ -166,10 +154,6 @@ firefox-desktop-download-visit-support-for-more = වැඩි විස්ත�
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">තවදුරටත්</a> { -brand-name-windows } { -brand-name-xp } හෝ { -brand-name-vista } සඳහා ආරක්‍ෂණ යාවත්කාල ලබා නොදේ, නමුත් ඔබට තවමත් { -brand-name-firefox } භාවිතා කළ හැකිය.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = ඔබ භාවිතා කරන්නේ <a href="{ $url }">තවදුරටත් { -brand-name-firefox } සහාය නොදක්වන</a> අනාරක්‍ෂිත, යල් පැන ගිය මෙහෙයුම් පද්ධතියකි.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -183,4 +167,3 @@ firefox-desktop-download-please-follow = කරුණාකර { -brand-name-fir
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = ඔබගේ පද්ධතිය { -brand-name-firefox } සඳහා අවශ්‍යතා සපුරාලන්නේ නැති සෙයකි, නමුත් ඔබට <a href="{ $url }">මෙම අනුවාද වලින්</a> එකක් උත්සාහ කළ හැකිය.
-firefox-desktop-download-taskbar = { -brand-name-firefox } ස්ථාපනය කිරීමෙන් පසු { -brand-name-windows } කාර්ය තීරුවට අමුණනු ලැබේ.

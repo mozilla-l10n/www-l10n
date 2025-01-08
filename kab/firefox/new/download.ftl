@@ -27,10 +27,6 @@ firefox-new-need-help = Tesriḍ tallelt?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla }<a href="{ $url }">dayen ur d-yettmuddu ara akk ileqman n tɣellist</a> ɣef { -brand-name-windows } { -brand-name-xp } neɣ { -brand-name-vista }, maca mazal tzemreḍ ad tesqedceḍ { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Tseqdaceḍ anagraw n wammud aqbuṛ, daɣen araɣelsan <a href="{ $url }">ur yettusefraken ara di { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -45,8 +41,6 @@ firefox-new-please-follow = Ma ulac aɣilif, ḍfer <a href="{ $url }">iwellihen
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Anagraw-ik·im ur igbir ara ayen i iwulmen i { -brand-name-firefox }, acu kan ɛreḍ yiwen seg <a href="{ $url }">yileqman-a</a>.
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Ma yella twalaḍ alɣu i d-yeskanayen asnas i tettaɛraḍeḍ ad tesbeddeḍ mačči d asnas yettusneqden { -brand-name-microsoft }, sit ɣef “Sebded ɣas akken” neɣ <a { $attrs }>senfel iɣewwaren n uwelleh n usnas</a>.

@@ -41,5 +41,3 @@ footer-refresh-community-participation-guidelines = Riktlinjer för gemenskapens
 footer-refresh-about-this-site = Om denna webbplats
 footer-refresh-all-languages = Alla språk
 footer-refresh-language = Språk
-footer-refresh-primary-nav-aria-label = Primär sidfot
-footer-refresh-secondary-nav-aria-label = Sekundär sidfot

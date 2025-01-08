@@ -31,7 +31,7 @@ browser-history-the-browser-wars = Ο πόλεμος των προγραμμάτ
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = Μέχρι το 1995, το { -brand-name-netscape } Navigator δεν ήταν ο μόνος τρόπος για να συνδεθείτε στο διαδίκτυο. Ο κολοσσός λογισμικού υπολογιστών, η { -brand-name-microsoft }, απέκτησε την άδεια του παλαιού κώδικα του Mosaic και δημιούργησε το δικό της «παράθυρο» στο διαδίκτυο, το <a href="{ $ie }">{ -brand-name-ie }</a>. Έτσι, ξέσπασε ένας πόλεμος. Η { -brand-name-netscape } και η { -brand-name-microsoft } εργάζονταν πυρετωδώς για να δημιουργήσουν νέες εκδόσεις των προγραμμάτων τους, προσπαθώντας να ξεπεράσουν η μία την άλλη με ταχύτερα και καλύτερα προϊόντα.
 # Variables:
-#   $blink (url) - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blink
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = Η { -brand-name-netscape } δημιούργησε και κυκλοφόρησε τη JavaScript, η οποία έδωσε πρωτόγνωρες υπολογιστικές δυνατότητες στους ιστοτόπους. (Δημιούργησε και την περιβόητη <a href="{ $blink }">ετικέτα &lt;blink&gt;</a>.) Η { -brand-name-microsoft } απάντησε με το Cascading Style Sheets (CSS), που έγινε το πρότυπο για τον σχεδιασμό των ιστοσελίδων.
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1

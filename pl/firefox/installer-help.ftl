@@ -24,10 +24,6 @@ installer-help-firefox-release-desc-v2 =
         [few] Używaj najnowszej. Automatyczna prywatność jest już tutaj. Pobierz { -brand-name-firefox(case: "acc") }, aby blokować ponad { $trackers } elementy śledzące.
        *[many] Używaj najnowszej. Automatyczna prywatność jest już tutaj. Pobierz { -brand-name-firefox(case: "acc") }, aby blokować ponad { $trackers } elementów śledzących.
     }
-# Obsolete string (expires: 2024-05-14)
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Używaj najnowszej. Automatyczna prywatność jest już tutaj. Pobierz { -brand-name-firefox-browser(case: "acc", capitalization: "lower") }, aby blokować ponad { $trackers } elementów śledzących.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Testuj funkcje tuż przed wydaniem z najstabilniejszymi kompilacjami rozwojowymi.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }

@@ -46,7 +46,7 @@ protecting-your-privacy = تہاݙی رازداری دی حفاظت اساݙی �
 is-firefox-safe = بھلا { -brand-name-firefox } محفوظ ہے؟
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = نہ سکھݨا { -brand-name-firefox } استعمال کرݨ کیتے محفوظ ہے، بھل ایہ تہاݙے ڈیٹا تے نجی معلومات کوں محفوظ رکھݨ وِچ وی مدد کریندا ہے۔ { -brand-name-firefox-browser } آپوں ڄاݨ ڄاتے سنڄاتے تریاکل ٹریکرز، سوشل میڈیا ٹریکرز، کرپٹومائنرز تے فنگر پرنٹرز کوں تہاݙا ڈیٹا کٹھا کرݨ کنوں روکیندا ہے۔ <a href="{ $url }"> اساݙے بݨتراں وِچ رازداری دے بارے ودھیک ڄاݨو۔ </a>
 related-questions-safe = متعلقہ سوالات:  بھلا { -brand-name-firefox } رازداری کیتے چنگی ہے۔ بھلا { -brand-name-firefox } محفوظ ہے۔ بھلا رازداری کیتے { -brand-name-firefox } بہتر ہے۔

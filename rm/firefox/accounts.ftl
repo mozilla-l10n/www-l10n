@@ -7,26 +7,16 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Va per in { -brand-name-mozilla-account } – guarda che tias datas restian privatas, segiras e sincronisadas
-# Obsolete string
-firefox-accounts-get-a-firefox-account = Va per in { -brand-name-firefox-account } – guarda che tias datas restian privatas, segiras e sincronisadas
-# Obsolete string
-firefox-accounts-securely-sync-your = Sincronisescha tes pleds-clav, segnapaginas e tabs a moda segira tranter tut tes apparats. Va ussa per in { -brand-name-firefox-account }: ina annunzia – prestaziun e protecziun da datas dapertut.
 # HTML page description
 mozilla-accounts-securely-sync-your = Sincronisescha tes pleds-clav, segnapaginas e tabs a moda segira sin tut tes apparats. Va ussa per in { -brand-name-mozilla-account }: ina annunzia – prestaziun e protecziun da datas dapertut.
 firefox-accounts-enter-your-email-address = Endatescha tia adressa d'e-mail per cumenzar.
 firefox-accounts-already-have-an-account = Ti has gia in conto?
 firefox-accounts-sign-in = S'annunziar
-# Obsolete string
-firefox-accounts-already = Ti has gia in { -brand-name-firefox-account }. Gratulaziuns!
 mozilla-accounts-already = Ti has gia in { -brand-name-mozilla-account }. Gratulaziuns!
 firefox-accounts-manage = Administrar tes conto
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = T'annunzia en tes { -brand-name-mozilla-account } per:
-# Obsolete string
-firefox-accounts-sign-in-to = T'annunzia cun tes { -brand-name-firefox-account } per:
-# Obsolete string
-firefox-accounts-meet-our-family-of = Scuvra nossa paletta da products per proteger la sfera privata.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Trametter in tab</a> ad in auter apparat

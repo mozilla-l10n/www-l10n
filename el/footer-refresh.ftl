@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-refresh-get-the-best = Λάβετε τις καλύτερες συμβουλές, κόλπα και ενημερώσεις του { -brand-name-firefox }. Υποσχόμαστε να διατηρήσουμε το email σας απόρρητο και ασφαλή. Τα καλύτερα του { -brand-name-firefox } αποστέλλονται απευθείας στα εισερχόμενά σας.
 footer-refresh-leadership = Ηγεσία
 footer-refresh-advertise = Διαφημιστείτε με τη { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Σημειώσεις έκδοσης του { -brand-name-firefox }
@@ -41,5 +40,3 @@ footer-refresh-community-participation-guidelines = Κανόνες συμμετ�
 footer-refresh-about-this-site = Σχετικά με τον ιστότοπο
 footer-refresh-all-languages = Όλες οι γλώσσες
 footer-refresh-language = Γλώσσα
-footer-refresh-primary-nav-aria-label = Κύριο υποσέλιδο
-footer-refresh-secondary-nav-aria-label = Δευτερεύον υποσέλιδο

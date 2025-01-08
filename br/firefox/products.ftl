@@ -3,15 +3,36 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/products/
+### URL: https://www-dev.allizom.org/products/
 
-firefox-products-firefox-monitor = { -brand-name-firefox-monitor }
-firefox-products-desktop = Burev
-firefox-products-android = { -brand-name-android }
-firefox-products-ios = { -brand-name-ios }
-firefox-products-get-mozilla-vpn = Tapout { -brand-name-mozilla-vpn }
-firefox-products-relay = { -brand-name-firefox-relay }
-firefox-products-learn-more-about-relay = Gouzout hiroc'h diwar-benn { -brand-name-firefox-relay }
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-learn-more-about-pocket = Gouzout hiroc’h diwar-benn { -brand-name-pocket }
+
+## Firefox
+
+
+## Focus
+
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
+
+## Monitor
+
+
+## Relay
+
+firefox-products-relay = { -brand-name-firefox-relay }
+
+## VPN
+
+firefox-products-get-mozilla-vpn = Tapout { -brand-name-mozilla-vpn }
+
+## MDN Plus
+
+
+## Thunderbird
+
+
+## Fakespot
+
+
+## Pocket
+
+firefox-products-pocket = { -brand-name-pocket }

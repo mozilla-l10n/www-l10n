@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -16,22 +16,12 @@ features-adblocker-an-ad-blocker-is-a-piece = Блокатор реклама ј
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Ове рекламе могу бити гласне видео рекламе, рекламе које вас прате на интернету, колачићи трећих страна и још много тога. Да бисте користили блокатор реклама, можете претраживати додатке који су доступни за ваш прегледач. <a href="{ $firefox }">{ -brand-name-firefox }</a>, на пример, има <a href="{ $addons }">ову листу одобрених додатака за блокирање реклама</a>. Кликните на ову листу и погледајте који од њих задовољава ваше потребе.
 features-adblocker-find-the-right-ad-blocker = Пронађите блокатор реклама који вам одговара
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = Постоји <a href="{ $url }">AdBlocker Ultimate</a> који се решава свих реклама, али треба да обратите пажњу на следеће. Неке од ваших омиљених новина и часописа зависе од реклама. Превише људи који блокирају њихове рекламе може да их доведе до банкрота.
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Рекламе у искачућим прозорима су најгоре. Блокирајте их са <a href="{ $url }">Popup Blocker-ом</a> и више се не замајавајте с овим досадним рекламама.
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Један од најпопуларнијих блокатора реклама за { -brand-name-chrome }, { -brand-name-safari } и { -brand-name-firefox } је <a href="{ $url }">AdBlock</a>. Користите га да блокирате рекламе на страницама као што су { -brand-name-facebook }, { -brand-name-youtube } и { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = Створите зону без праћења уз блокирање садржаја
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = У { -brand-name-firefox }-у можете користити подешавања за <a href="{ $privacy }">приватност</a> или <a href="{ $blocking }">блокирање садржаја</a> да добијете више контроле над софтвером за праћење који приказују рекламе.
 features-adblocker-choose-your-level-of-protection = Изаберите ниво заштите
-features-adblocker-to-start-click-on-the = Прво кликните на тастер { -brand-name-firefox } менија у горњем десном углу екрана, који изгледа као да су три линије наслагане једна на другу. У падајућем менију изаберите блокирање садржаја. Требало би да видите плави прозор са различитим опцијама.
 features-adblocker-go-easy-with-standard = Лаганим кораком уз стандардни режим
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -53,7 +43,3 @@ features-adblocker-send-a-do-not-track-signal = Пошаљите сигнал Н
 features-adblocker-if-you-dont-want-your = Ако не желите да ваше понашање на мрежи користе оглашивачи, можете то и пристојно рећи страници тако што ћете проверити <a href="{ $url }">Не прати</a> { -brand-name-firefox } опцију. Учешће је добровољно, али веб странице које учествују одмах ће вас престати пратити.
 features-adblocker-speed-up-thanks-to-ad = Убрзајте захваљујући блокаторима реклама
 features-adblocker-in-some-cases-an-ad-blocker = У неким случајевима, блокатор огласа може помоћи вашем прегледачу да брже ради. Када се реклама учита, може успорити веб страницу. Поред тога, спорије ћете наћи оно што тражите ако своје време проведете затварајући рекламе.
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more = Ако желите да сазнате више о блокаторима реклама, на располагању су стотинe проширења за { -brand-name-firefox } и друге прегледаче. Ако желите да испробате блокатор у { -brand-name-firefox }-у, <a href="{ $url }">кликните овде да бисте преузели</a> прегледач који приватност чини приоритетом.
-features-adblocker-take-control-of-your-browser = Преузмите контролу над вашим прегледачем.

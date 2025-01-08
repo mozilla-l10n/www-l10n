@@ -10,8 +10,6 @@ cookie-settings-page-desc = Mae'r dudalen hon yn disgrifio'r gwahanol fathau o G
 cookie-settings-breadcrumb-link = Tudalen flaenorol
 cookie-settings-explainer = Ffeiliau bychain yw cwcis sy’n cynnwys darnau o wybodaeth sy’n cael eu cadw ar eich cyfrifiadur neu ddyfais pan fyddwch yn ymweld â gwefan. Mae { -brand-name-mozilla } yn defnyddio Cwcis i helpu i wneud i'n gwefannau weithio, yn ogystal ag i gasglu gwybodaeth ar sut rydych chi'n defnyddio ac yn rhyngweithio â'n gwefannau, megis y tudalennau rydych chi'n ymweld â nhw.
 cookie-settings-page-intro-v2 = Mae'r dudalen hon yn disgrifio'r gwahanol fathau o Gwcis a thechnolegau tebyg megis tagiau picsel, ffaglau gwe, GIFs clir, JavaScript, a storfa leol (o hyn ymlaen, “Cwcis”) y gall { -brand-name-mozilla } eu defnyddio, ac yn rhoi rheolaeth i chi dros ba fathau o ddata rydych yn cytuno i { -brand-name-mozilla } ei gasglu.
-# Obsolete string (expires: 2024-07-01)
-cookie-settings-page-intro = Mae'r dudalen hon yn disgrifio'r gwahanol fathau o Gwcis a thechnolegau tebyg (fel tagiau picsel, ffaglau gwe, GIFs clir, JavaScript, a storfa leol) (“Cookies”) y gall { -brand-name-mozilla } eu defnyddio, ac yn rhoi rheolaeth i chi dros ba fathau o ddata rydych yn cytuno i { -brand-name-mozilla } ei gasglu.
 cookie-settings-how-mozilla-heading = Sut mae { -brand-name-mozilla } yn defnyddio Cwcis
 cookie-settings-how-does-mozilla-use-subheading = Sut mae { -brand-name-mozilla } yn defnyddio'r data hwn?
 cookie-settings-save-changes = Cadw Newidiadau

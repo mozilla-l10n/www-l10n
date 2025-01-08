@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-free-download = Слободно преземање
 download-button-firefox-beta = { -brand-name-firefox-beta }
@@ -28,3 +28,6 @@ download-button-firefox-android = <span>{ -brand-name-firefox }</span> за { -b
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> за { -brand-name-ios }
 download-button-firefox-privacy = Приватност на { -brand-name-firefox }
 download-button-download = Преземање
+
+## Linux
+

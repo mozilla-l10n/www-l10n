@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } è vegnì
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Fertant che l'internet crescha e sa mida, sa concentrescha { -brand-name-firefox } vinavant sin la protecziun da datas — nus numnain quai l'<a { $attrs }>engaschi per las datas persunalas</a>: Rimnar pauc, memorisar a moda segira e na zuppentar nagut. Tias datas, tias activitads en il web e tia vita online èn protegidas cun { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } è disponibel per tut tes apparats; prenda tes tabs, tia cronologia e tes segnapaginas cun tai. Ti dovras be in <a { $attrs }>conto da { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } è disponibel  per tut tes apparats; piglia tes tabs, tia cronologia e tes segnapaginas cun tai. Tut quai che ti dovras è in <a { $attrs }>{ -brand-name-mozilla-account }</a> e ti vegns ad avair access a la sincronisaziun ed ulteriurs products da { -brand-name-mozilla }.

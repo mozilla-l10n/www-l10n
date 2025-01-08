@@ -92,12 +92,8 @@ newsletters-love-the-web-so-do-we = Szereti a webet? Mi is!
 newsletters-unlock-the-world-of-web = Tekintsen be a webfejlesztés világába a heti { -brand-name-mozilla } fejlesztői hírlevéllel. Minden egyes kiadás kódolási technikákat és legjobb gyakorlatokat mutat be, { -brand-name-mdn } híreket ad, információkat nyújt a feltörekvő technológiákról, fejlesztői eszközökről, és még sok másról.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-make-the-most = Hozza ki a legtöbbet a { -brand-name-firefox }ból
-# Obsolete string (expires: 2024-11-01)
-newsletters-put-more-fox-in-your-inbox = Vegye át a rókapostát.
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-sign-up-to-receive-monthly = Iratkozzon fel, hogy havonta értesüljön a { -brand-name-firefox } híreiről és azokról az internetes trendekről, amelyek meghatározzák az online életét.
-# Obsolete string (expires: 2024-11-01)
-newsletters-see-where-the-web-can-take = Lássa hová viheti a web a havi { -brand-name-firefox } tippekkel, trükkökkel és internetes hírekkel.
 newsletters-we-are-sorry-but-there = Sajnáljuk, de hiba volt rendszerünkben. Kérjük próbálja meg később!
 newsletters-thanks-for-updating-your = Köszönjük, hogy frissítette e-mail beállításait.
 newsletters-success-an-email-has-been-sent = Sikerült! Egy emailt küldtünk az Ön beállítási központjára mutató hivatkozással. Köszönjük!

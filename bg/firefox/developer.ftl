@@ -1,16 +1,15 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/developer/
 
 
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/all/
+## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } е светкавично бърз браузър, който предлага съвременни инструменти за разработчици и най-новите функции като поддръжка на CSS Grid и дебъгване
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Добре дошли във вашия нов любим браузър. Получете най-новите функции, бързата производителност и инструментите за разработка, които можете да създадете за отворената мрежа.
 firefox-developer-speak-up = Говорете
 firefox-developer-feedback-makes-us = Обратната връзка ни прави по-добри. Кажете ни как можем да подобрим браузъра и инструментите за програмисти.
@@ -55,22 +54,13 @@ firefox-developer-new-tools = Нови средства за разработк�
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Новите { -brand-name-firefox-devtools } са мощни и гъвкави. Те включват най-доброто в класа JavaScript дебъгер, който може да е насочен към няколко браузъри и е изграден в React и Redux.
 firefox-developer-master-css-grid = Master CSS Grid
-firefox-developer-next-gen-css-engine = Следваща генерация CSS Engine
-firefox-developer-a-next-generation = CSS процесор от следващо поколение
 firefox-developer-master-innovative-features = Иновативни функции
 firefox-developer-want-to-be-on-the-cutting-edge = Искате ли да сте в авангарда?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } получава ежедневни актуализации и ви дава достъп до нови функции месеци, преди да са налични за всички.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } включва нов CSS процесор, написан в Rust, който има най-съвременни новости и е свткавично бърз.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } е единственият браузър с инструменти, създадени специално за изграждане и проектиране с CSS Grid. Тези инструменти ви позволяват да визуализирате мрежата, да показвате свързаните с нея имена на области, да преглеждате преобразуванията в мрежата и много други.
 firefox-developer-convenient-features = Удобни възможности
-firefox-developer-faster-performance = По-бързо изпълнение
 firefox-developer-fonts-panel = Панел за шрифтове
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } автоматично изпраща обратна връзка към { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Изтеглете браузъра { -brand-name-firefox }, направен за програмисти
-firefox-developer-welcome-to-the-all-new = Добре дошли в изцяло новия { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } е изцяло възобновен, за да бъде по-бърз, по-лъскав и по-мощен от всякога.
-firefox-developer-congrats-you-now-have-firefox = Поздравления. Сега имате { -brand-name-firefox-quantum }: { -brand-name-developer-edition }.
-firefox-developer-this-isnt-just-an-update = Това не е само актуализация. Това е { -brand-name-firefox-quantum }: съвсем нов { -brand-name-firefox }, който е изграден изцяло нов, за да бъде по-бърз, по-лъскав и по-мощен от всякога.
-firefox-developer-welcome-to-firefox-browser = Добре дошли в сайта на { -brand-name-firefox-browser }{ -brand-name-developer-edition }
 firefox-developer-made-for-developers = Мрежовият четец, създаден за разработчици
-firefox-developer-congrats-you-now-have = Поздравления. Вече имате { -brand-name-firefox-browser } { -brand-name-developer-edition }.

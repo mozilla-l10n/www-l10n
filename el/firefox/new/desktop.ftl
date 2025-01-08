@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = Το { -brand-name-firefox } δη
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Όσο το διαδίκτυο αναπτύσσεται και αλλάζει, το { -brand-name-firefox } συνεχίζει να εστιάζει στο δικαίωμά σας στο απόρρητο, όπως αναφέρει η <a { $attrs }>Υπόσχεση προσωπικών δεδομένων</a>: Λιγότερα δεδομένα. Με ασφάλεια. Χωρίς μυστικά. Τα δεδομένα και η διαδικτυακή σας ζωή προστατεύονται με το { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = Το { -brand-name-firefox } διατίθεται σε όλες τις συσκευές σας· πάρτε μαζί σας τις καρτέλες, το ιστορικό και τους σελιδοδείκτες σας. Χρειάζεστε μόνο έναν <a { $attrs }>λογαριασμό { -brand-name-firefox }</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = Το { -brand-name-firefox } διατίθεται για όλες τις συσκευές σας. Πάρτε μαζί σας τις καρτέλες, το ιστορικό και τους σελιδοδείκτες σας. Το μόνο που χρειάζεστε είναι ένας <a { $attrs }>{ -brand-name-mozilla-account(case: "nom", capitalization: "lower") }</a> και θα έχετε πρόσβαση στον συγχρονισμό και σε περισσότερα προϊόντα της { -brand-name-mozilla }.
@@ -146,13 +142,7 @@ firefox-desktop-download-firefox-automatically = Το { -brand-name-firefox } <a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Έχετε απορίες; Η <a { $attrs }>Υποστήριξη { -brand-name-mozilla }</a> είναι εδώ για σας.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Έχετε ήδη το πρόγραμμα περιήγησης. Ωφεληθείτε ακόμη περισσότερο από το { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with-v3 = Προφυλαχτείτε από τους hacker με το { -brand-name-mozilla-monitor }, προστατέψτε τη διεύθυνση email σας με το { -brand-name-firefox-relay } και πολλά άλλα.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Προφυλαχτείτε από τους χάκερ με το { -brand-name-firefox-monitor }, προστατέψτε τη διεύθυνση email σας με το { -brand-name-firefox-relay } και πολλά άλλα.
-firefox-desktop-download-get-more-from-firefox = Περισσότερα από το { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Απλή λήψη του προγράμματος περιήγησης
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -190,4 +180,3 @@ firefox-desktop-download-please-follow = Παρακαλούμε ακολουθή
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Το σύστημά σας ενδέχεται να μην πληροί τις απαιτήσεις του { -brand-name-firefox }, αλλά μπορείτε να δοκιμάσετε κάποια από <a href="{ $url }">αυτές τις εκδόσεις</a>.
-firefox-desktop-download-taskbar = Το { -brand-name-firefox } θα καρφιτσωθεί στη γραμμή εργασιών των { -brand-name-windows } μετά την εγκατάσταση

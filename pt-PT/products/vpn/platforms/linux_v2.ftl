@@ -12,8 +12,6 @@ vpn-linux-linux-is-free = O Linux é gratuito, de código aberto e personalizáv
 vpn-linux-mozilla-vpn-is-a = A { -brand-name-mozilla-vpn } é um serviço de rede virtual privada que utiliza encriptação de código aberto de última geração e não regista, rastreia ou partilha qualquer atividade da sua rede. Permite-lhe ligar-se a mais de 500 servidores em mais de 30 países.
 vpn-linux-why-choose = Porquê escolher a { -brand-name-mozilla-vpn } para Linux?
 vpn-linux-fast-and-v2 = <strong>Rápido e confiável:</strong> A { -brand-name-mozilla-vpn } usa o protocolo { -brand-name-wireguard }®, que oferece melhor desempenho e estabilidade do que outros protocolos de VPN.
-# Obsolete string
-vpn-linux-fast-and = <strong>Rápido e confiável:</strong> A { -brand-name-mozilla-vpn } usa o protocolo { -brand-name-wireguard }®, que oferece melhor desempenho e estabilidade do que outros protocolos de VPN
 vpn-linux-no-logs = <strong>Sem registos:</strong> A { -brand-name-mozilla-vpn } não mantém quaisquer registos da sua atividade de rede; não registamos quais os websites que visita ou inspecionamos o seu tráfego.
 vpn-linux-additional-security = <strong>Funcionalidades de segurança adicionais:</strong> Utilizamos o bloqueio de DNS para bloquear anúncios, rastreadores e malware. Enquanto um navegador pode impedir que apenas os sites forneçam software malicioso e o monitorizem.
 vpn-linux-device-level = <strong>Encriptação ao nível do dispositivo:</strong> Ao contrário das VPNs que apenas encriptam o tráfego do seu navegador, a { -brand-name-mozilla-vpn } encripta todo o tráfego do seu dispositivo, incluindo todas as suas aplicações e jogos.
@@ -27,11 +25,6 @@ vpn-linux-how-to-install = Como instalar a { -brand-name-mozilla-vpn } no Linux
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
 vpn-linux-if-you-use-v2 = Se utiliza uma das versões suportadas do Ubuntu, existem duas formas de instalar os pacotes formais da mozillavpn alojados no <a { $attrs }>pad de arranque:</a>
-# Obsolete string
-# Variables:
-#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
-# 'mozillavpn' should not be translated as it is the proper name of the package
-vpn-linux-if-you-use = Se utiliza uma das versões suportadas do Ubuntu, existem duas formas de instalar os pacotes formais da mozillavpn alojados no <a { $attrs }>launchpad:</a>
 # Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
 vpn-linux-ubuntu-command = <strong>Modo de linha de comando do Ubuntu:</strong> Para instruções detalhadas sobre como instalar a { -brand-name-mozilla-vpn } utilizando ferramentas de linha de comando, consulte <a { $attrs }> Como instalar o { -brand-name-mozilla-vpn } num computador Linux</a>.

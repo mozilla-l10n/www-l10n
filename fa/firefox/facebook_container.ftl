@@ -10,11 +10,6 @@ facebook-container-millions-of-people-around = میلیون‌ها نفر در �
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. کاملا محبوس شده. زندگی خود را در اختیار خودتان نگاه دارید.
 facebook-container-get-the-facebook-container = دریافت افزونه { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } را دریافت و افزونهٔ { -brand-name-facebook-container } را نصب کنید
-# Outdated string
-facebook-container-the-facebook-container-extension = افزونه { -brand-name-facebook-container } برای دستگاه‌های همراه در دسترس نیست.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = ‌<strong>{ -brand-name-firefox-focus }</strong> را امتحان کنید، مرورگری برای حریم‌خصوصی در { -brand-name-android } و { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = با شرایط خودتان خارج شوید
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

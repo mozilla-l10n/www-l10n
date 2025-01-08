@@ -7,26 +7,16 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Створіть { -brand-name-mozilla-account } – зберігайте свої дані приватними, захищеними та синхронізованими
-# Obsolete string
-firefox-accounts-get-a-firefox-account = Створіть { -brand-name-firefox-account(case: "nom", capitalization: "lower") } – зберігайте свої дані приватними, захищеними та синхронізованими
-# Obsolete string
-firefox-accounts-securely-sync-your = Безпечно синхронізуйте паролі, закладки та вкладки на всіх своїх пристроях. Зареєструйте { -brand-name-firefox-account(case: "nom", capitalization: "lower") }. Один обліковий запис – доступ і приватність усюди.
 # HTML page description
 mozilla-accounts-securely-sync-your = Безпечно синхронізуйте паролі, закладки і вкладки на всіх своїх пристроях. Зареєструйте { -brand-name-mozilla-account } – один вхід – доступ і приватність усюди.
 firefox-accounts-enter-your-email-address = Введіть свою адресу електронної пошти, щоб почати роботу.
 firefox-accounts-already-have-an-account = Уже маєте обліковий запис?
 firefox-accounts-sign-in = Увійти
-# Obsolete string
-firefox-accounts-already = У вас уже є { -brand-name-firefox-account }. Вітаємо!
 mozilla-accounts-already = У вас уже є { -brand-name-mozilla-account }. Вітаємо!
 firefox-accounts-manage = Керувати обліковим записом
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Увійдіть у свій { -brand-name-mozilla-account }, щоб:
-# Obsolete string
-firefox-accounts-sign-in-to = Увійдіть у свій { -brand-name-firefox-account }, щоб:
-# Obsolete string
-firefox-accounts-meet-our-family-of = Зустрічайте наші продукти, орієнтовані на приватність.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Надіслати вкладку</a> на інший пристрій
@@ -48,8 +38,6 @@ firefox-accounts-get-it-all-on-every = Отримайте це все на ко�
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

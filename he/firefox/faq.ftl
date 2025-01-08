@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -11,7 +11,7 @@ what-is-firefox = מהו { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = ה{ -brand-name-firefox-browser(case: "a") } הוא הדפדפן העיקרי היחיד שמגובה על־ידי ארגון ללא מטרות רווח שאינו מוכר את הנתונים האישיים שלך, ועוזר לך להגן על המידע האישי שלך. מידע נוסף על <a href="{ $url }">{ -brand-name-firefox-browsers(case: "the") }</a> או <a href="{ $url2 }">מוצרים אחרים</a>.
 how-do-i = איך אפשר לקבל את ה{ -brand-name-firefox-browser(case: "a") }?
@@ -42,7 +42,7 @@ protecting-your-privacy = ההגנה על הפרטיות שלך היא בראש 
 is-firefox-safe = האם { -brand-name-firefox } בטוח?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 related-questions-safe = שאלות קשורות: האם { -brand-name-firefox } טוב לפרטיות, האם { -brand-name-firefox } מאובטח, האם { -brand-name-firefox } טוב יותר לפרטיות
 does-firefox-sell = האם { -brand-name-firefox } מוכר את הנתונים האישיים שלך?
@@ -60,11 +60,6 @@ does-firefox-use = האם { -brand-name-firefox } משתמש ב־{ -brand-name-g
 
 firefoxs-default-search = ‏{ -brand-name-google } הוא מנוע החיפוש ברירת המחדל ב־{ -brand-name-firefox }, מה שאומר שבאפשרותך לחפש ברשת הישר משורת הכתובת. <a href="{ $url }">מידע נוסף על העדפות מנועי חיפוש ושינוי ברירת המחדל.</a>
 does-firefox-have = האם ל־{ -brand-name-firefox } יש VPN מובנה?
-
-# Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
-
 related-questions-ip = שאלות קשורות: האם { -brand-name-firefox } מסתיר את כתובת ה־IP שלך
 who-owns-firefox = מי הבעלים של { -brand-name-firefox }?
 

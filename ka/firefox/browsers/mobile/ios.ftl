@@ -7,12 +7,7 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } და { -brand-name-ipad })
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = { -brand-name-firefox } ბრაუზერი { -brand-name-ios }-ზე არის სწრაფი, დაცული და პირადული, გაშვებისთანავე.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-mobile-ios-get-automatic-privacy = თავისთავადი პირადულობა { -brand-name-iphone } და { -brand-name-ipad } მოწყობილობებზე
 mobile-ios-get-firefox-for = გამოიყენეთ { -brand-name-firefox } { -brand-name-ios }-ზე
 mobile-ios-send-a-download-link-to-your = გაგზავნეთ ჩამოსატვირთი ბმული თქვენს ტელეფონზე.
 mobile-ios-scan-the-qr-code-to-get-started = წააკითხეთ QR-კოდი, დასაწყებად
@@ -31,14 +26,8 @@ mobile-ios-get-to-your-go-to = სწრაფად ეწვიეთ სა�
 mobile-ios-see-your-open-tabs = იხილეთ გახსნილი ჩანართები, ადრე მოძიებული და რჩეული საიტები ერთიანად, { -brand-name-firefox-browser }-ში { -brand-name-ios }-ზე.
 mobile-ios-own-your-home = მოირგეთ მთავარი ეკრანი
 mobile-ios-get-to-the-parts = ახლოს იქონიეთ სასურველი ინტერნეტგვერდები. იხილეთ გახსნილი ჩანართები, ბოლოს მოძიებული, ჩანიშნული და რჩეული საიტები ერთიანად.
-# Obsolete string
-mobile-ios-add-firefox-across = დაამატეთ { -brand-name-firefox } ყველა თქვენს მოწყობილობაზე ინტერნეტის დაცულად, შეუფერხებელად გამოყენებისთვის. { -brand-name-sync } საშუალებას გაძლევთ, თან წაიყოლოთ სხვადასხვა მოწყობილობით რჩეული სანიშნები, ანგარიშების შენახული მონაცემები, პაროლები და მონახულებული გვერდების ჩამონათვალი, სადაც არ უნდა წახვიდეთ. აგრეთვე, შეგიძლიათ პირდაპირ, გახსნილი ჩანართები გაგზავნოთ მობილურსა და კომპიუტერს შორის და ნებისმიერი დაწყებული საქმე, დაუყოვნებლივ განაგრძოთ.
 mobile-ios-find-it-all = მოიძიეთ უფრო მალე
 mobile-ios-get-search-suggestions = სწრაფად გადადით მისამართების ველის ძიების შემოთავაზებებით, ხშირად მონახულებულ საიტებზე. აკრიფეთ საძებნი სიტყვა და ახლებთან ერთად, იხილეთ ადრე ნანახი შედეგებიც, რჩეული საძიებოების მეშვეობით.
-# Obsolete string
-mobile-ios-keep-tabs-on = დატოვეთ ყველა ჩანართი მხდედველობის არეში
-# Obsolete string
-mobile-ios-create-as-many = გახსენით სასურველი რაოდენობის ჩანართები, გზა-კვალის აბნევის გარეშე. { -brand-name-firefox } გაჩვენებთ თითოეული გახსნილი ჩანართის გამოსახულებას და ყველას გადანომრავს, რომ გაგიმარტივოთ მათი სწრაფი გამორჩევა.
 mobile-ios-discover-more-of = აღმოაჩინეთ, რაც გიყვართ
 mobile-ios-open-a-new = ახალ ჩანართზე { -brand-name-firefox }-ში იხილავთ ხშირად მონახულებულ საიტებს, ბოლოს ჩანიშნულ გვერდებსა და ცნობილ სტატიებს { -brand-name-pocket }-იდან. { -brand-name-firefox } უზრუნველყოფს თქვენს მარტივ წვდომას ახლადნანახ საიტებთან, რომ სწრაფად მოიძიოთ სასურველი ინფორმაცია.
 mobile-ios-about-mozilla = { -brand-name-mozilla }-ს შესახებ

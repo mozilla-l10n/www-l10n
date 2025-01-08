@@ -20,11 +20,7 @@ newsletter-form-sign-up-to-receive = Đăng ký nhận thông tin cập nhật h
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Tôi đồng ý với việc { -brand-name-mozilla } xử lý thông tin của tôi như đã giải thích ở <a href="{ $url }">Ghi chú bảo vệ riêng tư</a>
 newsletter-form-we-will-only-send-v2 = Chúng tôi sẽ chỉ gửi cho bạn thông tin liên quan đến { -brand-name-mozilla }. Bạn có thể hủy đăng ký bất cứ lúc nào.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send = Chúng tôi chỉ gửi bạn thông tin về { -brand-name-mozilla }
 newsletter-form-we-will-only-send-firefox-v2 = Chúng tôi sẽ chỉ gửi cho bạn thông tin liên quan đến { -brand-name-firefox }. Bạn có thể hủy đăng ký bất cứ lúc nào.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send-firefox = Chúng tôi sẽ chỉ gửi cho bạn thông tin liên quan đến { -brand-name-firefox }.
 newsletter-form-if-you-havent-previously = Nếu bạn chưa xác nhận đăng kí các thư mới liên quan đến { -brand-name-mozilla } thì bạn phải xác nhận lại. Hãy kiểm tra email của chúng tôi trong hộp thư đến của bạn hoặc tìm trong hộp thư spam.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Bạn
 newsletter-form-get-firefox-tips = Lấy những lời khuyên, mẹo, tin tức và hơn thế nữa về { -brand-name-firefox }

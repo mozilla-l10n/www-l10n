@@ -19,10 +19,6 @@ installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc-v2 = Preuzmite najnoviji. Automatska privatnost je stigla. Preuzmi { -brand-name-firefox } i blokiraj više od { $trackers } programa za praćenje.
-# Obsolete string (expires: 2024-05-14)
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Preuzmite najnoviji. Automatska privatnost je stigla. Preuzmi { -brand-name-firefox-browser } i blokiraj više od { $trackers } programa za praćenje.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Isprobajte funkcije prije izdavanja u najstabilnijem beta izdanju.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }

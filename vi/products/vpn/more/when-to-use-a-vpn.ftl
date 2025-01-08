@@ -32,7 +32,7 @@ vpn-when-to-use-for-the-most = Phần lớn, các tình huống trên không áp
 vpn-when-to-use-because-your-internet = Bởi vì lưu lượng truy cập internet tại nhà của bạn di chuyển đến và đi từ thiết bị của bạn thông qua nhà cung cấp dịch vụ internet — viết tắt là ISP — họ có thể biết nơi bạn truy cập trực tuyến. ISP có thể biết bạn truy cập những trang web nào, thời gian bạn ở trên đó, vị trí của bạn và thông tin về thiết bị của bạn. ISP có thể không biết chi tiết cụ thể về những gì bạn đã làm trên các trang web đó (như những gì bạn đã mua, tìm kiếm hoặc đọc) nhờ mã hóa, nhưng họ có thể đưa ra suy luận về bạn dựa trên các trang web mà bạn đã truy cập. Dữ liệu cá nhân đó có thể được ISP sử dụng để tạo hồ sơ chi tiết về bạn. Duyệt web ở chế độ riêng tư không ngăn ISP nhìn thấy nơi bạn trực tuyến. Nhưng việc gửi lưu lượng truy cập web của bạn thông qua VPN có thể khiến việc này khó hơn nhiều.
 vpn-when-to-use-make-sure-you = Đảm bảo rằng bạn hiểu những gì VPN không làm
 # Variables
-#   $book (url) - https://www.mozilla.org/firefox/privacy/book/
+#   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
 vpn-when-to-use-a-vpn-provides = VPN cung cấp một liên kết bảo mật quan trọng bằng cách bảo vệ dữ liệu cá nhân của bạn trước khi truyền qua internet và nó cũng che giấu địa chỉ IP của bạn, giúp bảo vệ danh tính và vị trí của bạn. Tuy nhiên, nó sẽ không ngăn bạn khỏi những thứ như nhấp vào các liên kết đáng ngờ, tải xuống phần mềm độc hại hoặc trở thành nạn nhân của gian lận email. Bạn vẫn cần luyện tập <a href="{ $book }">các thói quen tốt để giữ an toàn khi trực tuyến</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, một dịch vụ VPN đáng tin cậy
 # Variables

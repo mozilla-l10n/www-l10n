@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
@@ -11,7 +11,7 @@ what-is-firefox = { -brand-name-firefox } کیا ہے؟
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 how-do-i = میں { -brand-name-firefox-browser }How کیسے حاصل کرسکتا ہوں؟
 
@@ -35,7 +35,7 @@ is-firefox-safe-download = کیا { -brand-name-firefox } ڈاؤن لوڈ کرن
 is-firefox-safe = کیا { -brand-name-firefox } محفوظ ہے؟
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 does-firefox-sell = کیا { -brand-name-firefox } آپ کا ذاتی ڈیٹا فروخت کرتا ہے؟
 
@@ -46,11 +46,6 @@ why-is-firefox = { -brand-name-firefox } سست کیوں ہے؟
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
-
-
-# Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://vpn.mozilla.org/
 
 related-questions-ip = متعلقہ سوالات: کی { -brand-name-firefox }  آپ کا IP پتہ چھپاتا ہے؟
 who-owns-firefox = { -brand-name-firefox } کا مالک کون ہے؟

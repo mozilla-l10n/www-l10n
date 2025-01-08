@@ -16,12 +16,7 @@ facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = ਡੈਸਕਟਾਪ ਦੇ { -brand-name-firefox } ਲਈ <a href="{ $url }">{ $link_copy }</a> ਲਵੋ।
-# Outdated string
-facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } ਇਕਸਟੈਨਸ਼ਨ ਮੋਬਾਇਲ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।
 facebook-container-get-firefox-android-ios = { -brand-name-android } ਅਤੇ { -brand-name-ios } ਲਈ { -brand-name-firefox } ਲਵੋ।
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = <strong>{ -brand-name-firefox-focus }</strong>, { -brand-name-android } ਅਤੇ { -brand-name-ios } ਲਈ ਪਰਦੇਦਾਰੀ ਨਾਲ ਲੈੱਸ ਬਰਾਊਜ਼ਰ ਵਰਤ ਕੇ ਵੇਖੋ।
 facebook-container-opt-out-on-your-terms = ਆਪਣੀਆਂ ਸ਼ਰਤਾਂ ਦੀ ਚੋਣ ਕਰੋ
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

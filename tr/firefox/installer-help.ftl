@@ -19,10 +19,6 @@ installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc-v2 = Son sürüm. Otomatik gizlilik. { $trackers }’den fazla takip kodunu engellemek için { -brand-name-firefox }’u indirin.
-# Obsolete string (expires: 2024-05-14)
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Son sürüm. Otomatik gizlilik. { $trackers }’den fazla takip kodunu engellemek için { -brand-name-firefox-browser }nı indirin.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Yakında çıkacak özellikleri daha güvenilir bir ortamda test edin.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }

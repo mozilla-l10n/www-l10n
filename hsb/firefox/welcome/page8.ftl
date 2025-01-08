@@ -16,8 +16,6 @@ welcome-page8-enhanced-tracking-protection = Polěpšeny slědowanski škit
 welcome-page8-automatically-block-sites = Blokujće awtomatisce sydła, kotrež wam po interneće slěduja.
 welcome-page8-see-whats-blocked = Hladajće, štož so blokuje
 welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-see-what-youve-been = Hladajće, hač sće wot znatych datowycch dźěrow online potrjecheny a čińće něšto přećiwo nim.
 welcome-page8-go-to-monitor = K { -brand-name-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }

@@ -11,8 +11,6 @@ features-sync-firefox-browser-sync = Synchronizacija wobglědowaka { -brand-name
 features-sync-access-your-firefox-bookmarks = Mějśo pśistup k wašym cytańskim znamjenjam, gronidłam a wócynjonym rejtarikam { -brand-name-firefox } a wěcej z kuždego rěda.
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Registrěrujśo se za dermotne { -brand-name-mozilla-account }</a> a móžośo swóje daty wšuźi synchronizěrowaś, źož  { -brand-name-firefox } a druge produkty { -brand-name-mozilla } wužywaśo.
-# Obsolete string
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Registrěrujśo se za dermotne konto { -brand-name-firefox }</a> a móžośo swóje daty wšuźi synchronizěrowaś, źož swój wobglědowak { -brand-name-firefox } wužywaśo.
 features-sync-send-tabs-from-one-device-to-another = Sćelśo rejtariki wót jadnogo rěda do drugego
 # Used as accessible alternative text for an image
 features-sync-an-image-of-a-firefox-application = Wobraz nałožeńskego menija { -brand-name-firefox }, kótaryž nastajenje „Rejtarik na rěd pósłaś“ wuzwigujo.

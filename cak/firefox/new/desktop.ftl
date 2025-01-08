@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/new/
@@ -38,8 +38,6 @@ firefox-desktop-download-blocks-social-trackers = Keq'at winaqil taq ojqanela'
 firefox-desktop-download-os-availability = Wachel pa samajel q'inoj
 firefox-desktop-download-in-browser-screenshot = Rusamajib'al taq chapoj ruwa pa ri okik'amaya'l
 firefox-desktop-download-primary-password = Nab'ey ewan tzij
-# Obsolete string
-firefox-desktop-download-master-password = Ajtij ewan tzij
 firefox-desktop-download-we-block-the-ad = Yeqaq'ät ojqanela'. Ruma ri' anin ri k'amaya'l.
 firefox-desktop-download-ads-are-distracting = Ri eltzijol nuk'äm atzub'al chuqa' nub'än eqal richin yesamajïx ri taq ruxaq, chi ri' toq ri rojqanela' nikitz'ët ronojel ri nab'än pa k'amab'ey. Ri { -brand-name-firefox-browser } ruyonil yeruq'ät konojel ri ojqanela', ruma ri' man k'atzinel ta nakanoj rub'eyal pa ri runuk'ulem jikomal.
 firefox-desktop-download-see-your-report = Tatz'eta' ri rutzijol achajinik
@@ -128,9 +126,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } xnuk' rum
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Rik'in ri nik'ïy chuqa' nijalatäj ri k'amaya'l, { -brand-name-firefox } nuya' retal ri ach'ojib'al chi rij ri awichinanem  — niqab'ij ri <a { $attrs }>Ya'oj Qatzij Chi Rij Qatzij</a>: Jub'a' numöl. Jeb'ël nuchajij. Majun ewäl. Ri atzij, asamaj pa ajk'amaya'l, ri ak'aslem pa k'amab'ey yechajïx rik'in { -brand-name-firefox }.
 # Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } k'o kichin ronojel taq awokisab'al; ke'ak'waj ri taq ruwi', natab'äl chuqa' taq yaketal awik'in. Ri nik'atzin chawe ja ri jun <a { $attrs }>{ -brand-name-firefox } rub'i' rutaqoya'l</a>.
-# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Tak'ulu' jun ch'ach'öj rub'anikil wachib'äl pa k'amab'ey rik'in ri qasamajib'al <a { $attrs }>chapoj ruwa</a> k'o pe pa ri okik'amaya'l
 # Variables:
@@ -139,11 +134,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ruyon <
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ¿Nak'utuj chawe? <a { $attrs }>{ -brand-name-mozilla } tob'äl</a> at k'o chupam.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = La k'o chik awik'in ri okik'amaya'l. Wakami tak'ulu' ch'aqa' chik richin { -brand-name-firefox }.
-firefox-desktop-download-watch-for-hackers-with = Ke'achajij ri ajjak rik'in ri { -brand-name-firefox-monitor }, ke'achajij ri ewan taq atzij rik'in ri { -brand-name-firefox-lockwise }, chuqa' ch'aqa' chik.
-firefox-desktop-download-get-more-from-firefox = Tik'ul Ch'aqa' Chik Richin { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Xa Xe Tiqasäx Ri Okik'amaya'l
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -158,7 +148,6 @@ firefox-desktop-download-now-mac = Wakami <strong>tajaqa'</strong> ri yakb'äl x
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = ¿La k'o ak'ayewal? <a { $attrs }>Tak'ulu' ato'ik rik'in ri ayakoj</a>.
 firefox-desktop-download-in-another-language = Taqasaj pa jun chik ch'ab'äl o richin jun chik samajel q'inoj.
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = We natz'ët jun rutzijol akuchi' nub'ij chi ri chokoy nayäk man jikib'an ta ruma ri { -brand-name-microsoft }, tapitz'a' “Kan tiyak” o pa <a { $attrs }>tijal ri ruchilab'exik runuk'ulem chokoy</a>.
@@ -166,15 +155,12 @@ firefox-desktop-download-visit-support-for-more = Tatz'eta' Tob'äl richin Ch'aq
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">man nikisüj ta chik kik'exoj jikomal</a> pa { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }, k'a yatikïr nawokisaj { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Nawokisaj jun ojer chuqa' man ütz ta samajel q'inoj <a href="{ $url }">ri man nuk'ül ta chik ruk'exoj { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Ruyonil xtutikirisaj ri aqasanik. ¿La man nub'än ta? <a id="{ $id }" href="{ $fallback_url }">Titojtob'ëx niqasäx chik.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } man choj ta jun okik'amaya'l.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Xq'at ri aqasanik. Man ronojel ta sachel.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux

@@ -11,8 +11,6 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } is de razendsnelle browser die de modernste ontwikkelaarshulpmiddelen en nieuwste functies biedt, zoals ondersteuning voor CSS Grid en framework-debugging
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Welkom bij uw nieuwe favoriete browser. Verkrijg de nieuwste functies, snelle prestaties, en de nodige ontwikkelaarshulpmiddelen om het open web te bouwen.
 firefox-developer-speak-up = Laat u horen
 firefox-developer-feedback-makes-us = Feedback maakt ons beter. Vertel hoe we de browser en ontwikkelaars&shy;hulpmiddelen kunnen verbeteren.
@@ -75,15 +73,11 @@ firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-develo
 firefox-developer-download-the-firefox-browser = Download de { -brand-name-firefox }-browser die gemaakt is voor ontwikkelaars
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } is volledig opnieuw opgebouwd om sneller, strakker en krachtiger te zijn dan ooit tevoren.
 firefox-developer-welcome-to-firefox-developer-edition = Welkom bij { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = Welkom bij { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = De browser gemaakt voor ontwikkelaars
 firefox-developer-all-the-latest-v2 = Alle nieuwste ontwikkelaarstools in beta, naast functies zoals de Multi-line Console Editor en WebSocket Inspector.
 firefox-developer-a-separate-profile = Een <strong>apart profiel en pad</strong>, zodat u het gemakkelijk naast { -brand-name-firefox } Release of { -brand-name-beta } kunt gebruiken.
 firefox-developer-preferences-tailored = Voorkeuren die <strong>op maat zijn gemaakt voor webontwikkelaars</strong>: foutopsporing in de browser en op afstand debuggen zijn standaard ingeschakeld, evenals het donkere thema en de knop voor de ontwikkelaarswerkbalk.
 firefox-developer-congrats-you-now-have-latest-v2 = U beschikt nu over de nieuwste versie van { -brand-name-firefox-developer-edition }.
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = Gefeliciteerd. U beschikt nu over de nieuwste versie van { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Bekijk de <a { $attrs }>uitgaveopmerkingen</a> (alleen in het Engels) om te zien wat er nieuw is.

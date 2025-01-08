@@ -10,16 +10,10 @@ mission-our-mission-is-to-ensure-the-internet = Meidän missiomme on varmistaa, 
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Missiomme on tukea avoimuutta, innovaatiota ja osallisuutta netissä.
 mission-at-mozilla-were-a-global-community-v2 = { -brand-name-mozilla } on maailmanlaajuinen teknologien, ajattelijoiden ja rakentajien yhteisö, joka tekee työtä pitääkseen Internetin elossa ja kaikille avoimena, jotta ihmiset kautta maailman voivat olla verkon tunnettuja kehittäjiä ja tukijoita.
-# Outdated string
-mission-at-mozilla-were-a-global-community = Mozilla on maailmanlaajuinen teknologien, ajattelijoiden ja rakentajien yhteisö, joka tekee työtä pitääkseen netin elossa ja kaikille avoimena, jotta ihmiset kautta maailman voivat olla netin tunnettuja kehittäjiä ja tukijoita.
 mission-we-believe-this-act-of-human-collaboration = Uskomme, että tämä ihmisten yhteistyön teko avoimella alustalla on välttämätöntä yksilöiden kehittymisen ja yhteisen tulevaisuutemme kannalta.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn-v2 = Lue <a href="{ $url }">{ -brand-name-mozilla }n manifesti</a> , niin saat tietää niistä arvoista ja periaatteista, jotka ohjaavat toimintaamme.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/about/manifesto/
-mission-read-the-mozilla-manifesto-to-learn = Lue <a href="{ $url }">Mozilla-manifesti</a>, niin saat tietää niistä arvoista ja periaatteista, jotka ohjaavat toimintaamme.
 mission-watch-the-video-above-to-learn-more = Katso ylläoleva video, niin saat tietää lisää siitä, keitä me olemme, mistä tulemme ja kuinka teemme netin paremmaksi sinulle.
 mission-get-involved = Osallistu
 mission-volunteer-opportunities-in-a-number = Vapaaehtoiseksi voi ryhtyä useilla eri aloilla
@@ -29,5 +23,3 @@ mission-forums = Foorumit
 mission-topics-include-support-products = Aiheita ovat tuki, tuotteet ja teknologiat
 mission-governance = Hallinto
 mission-our-structure-organization-and-the-v2 = Rakenteemme, organisaatiomme ja laajempi { -brand-name-mozilla }-yhteisö
-# Outdated string
-mission-our-structure-organization-and-the = Rakenteemme, organisaatiomme ja laajempi Mozilla-yhteisö

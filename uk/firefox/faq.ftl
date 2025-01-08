@@ -13,7 +13,7 @@ what-is-firefox = Що таке { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = { -brand-name-firefox-browser } — єдиний основний браузер, який підтримується неприбутковою компанією, яка не продає ваші персональні дані рекламодавцям, одночасно допомагаючи вам захищати вашу особисту інформацію. Докладніше про <a href="{ $url }">{ -brand-name-firefox-browsers }</a> та <a href="{ $url2 }">інші продукти.</a>
 how-do-i = Як отримати { -brand-name-firefox-browser }?
@@ -46,7 +46,7 @@ protecting-your-privacy = Захист вашої приватності є на
 is-firefox-safe = Чи безпечний { -brand-name-firefox }?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = { -brand-name-firefox } не лише безпечний у користуванні, але також допомагає захистити ваші дані та особисті відомості. { -brand-name-firefox-browser } автоматично блокує збір ваших даних відомими сторонніми елементами стеження, елементами стеження соціальних мереж, криптомайнерами та зчитувачами цифрових відбитків. <a href="{ $url }">Докладніше про приватність у наших продуктах.</a>
 related-questions-safe = Пов’язані питання: чи { -brand-name-firefox } хороший для приватності, чи безпечний { -brand-name-firefox }, чи { -brand-name-firefox } кращий для приватності

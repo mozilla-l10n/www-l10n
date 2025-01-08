@@ -19,9 +19,7 @@ home-cta-get-monitor = Nabavi { -brand-name-monitor }
 home-cta-get-fakespot = Nabavi { -brand-name-fakespot }
 home-read-more = Saznaj više
 home-so-what-is-mozilla = Dakle, što je { -brand-name-mozilla }?
-# Variables
-#   $ventures - link to https://mozilla.vc/
-#   $mozai - link to https://mozilla.ai/
+# Obsolete string (expires: 2025-01-05)
 home-at-its-core = U svojoj srži je { -brand-name-mozilla } organizacija aktivista koju vodi zaklada { -brand-name-mozilla-foundation }, koja mijenja svijet kroz razne poduhvate uključujući { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> i <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Po čemu se razlikujemo? Budući da smo vođeni misijom znači da imamo slobodu donositi odluke na osnovi onoga što je najbolje za internet i za sve njegove korisnike, a ne na osnovi zahtjeva dioničara – mi zapravo nemamo dioničare.
 home-learn-about-mofo = Saznaj više o zakladi { -brand-name-mozilla-foundation }
 home-learn-more-about-mozilla = Saznaj više o { -brand-name-mozilla }

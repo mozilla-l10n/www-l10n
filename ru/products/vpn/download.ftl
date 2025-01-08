@@ -13,8 +13,6 @@ vpn-download-sub-heading = С одной подпиской вы можете з
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } предлагает надежную и безопасную защиту для всех основных операционных систем.
 vpn-download-not-available-in-country = К сожалению, { -brand-name-mozilla-vpn } недоступен для загрузки в вашей стране.
 vpn-download-button-copy = Загрузить
-# Obsolete string
-vpn-download-for-windows = VPN для { -brand-name-windows } 10/11
 vpn-download-for-windows-v2 = VPN для { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (только 64-битная версия)
 vpn-download-for-windows-long = Загрузить { -brand-name-mozilla-vpn } для { -brand-name-windows }
@@ -32,8 +30,6 @@ vpn-download-for-android = VPN для { -brand-name-android }
 vpn-download-for-android-long = Загрузить { -brand-name-mozilla-vpn } для { -brand-name-android }
 vpn-download-for-ios = VPN для { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Загрузить { -brand-name-mozilla-vpn } для { -brand-name-ios }
-# Obsolete string
-vpn-download-for-ios-long = Загрузить { -brand-name-mozilla-vpn } для { -brand-name-ios }
 vpn-download-get-on-google-play = Получить в магазине { -brand-name-google-play }
 vpn-download-get-on-app-store = Получить в { -brand-name-app-store }
 vpn-download-based-on-your = На основе вашего текущего устройства

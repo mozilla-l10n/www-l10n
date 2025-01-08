@@ -16,12 +16,7 @@ facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = ເຂົ້າໄປທີ່ <a href="{ $url }">{ $link_copy }</a> ເພື່ອເອົາ { -brand-name-firefox } ສຳລັບ Desktop.
-# Outdated string
-facebook-container-the-facebook-container-extension = ສ່ວນຂະຫຍາຍຂອງ { -brand-name-facebook-container } ແມ່ນບໍ່ສາມາດນຳໃຊ້ງານໄດ້ໃນອຸປະກອນໂທລະສັບ.
 facebook-container-get-firefox-android-ios = ເອົາ { -brand-name-firefox } ສໍາລັບ { -brand-name-android } ແລະ { -brand-name-ios } ດຽວນີ້.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = ລອງ <strong> { -brand-name-firefox-focus } </strong>, ຕົວທ່ອງເວັບຄວາມເປັນສ່ວນຕົວສໍາລັບ { -brand-name-android } ແລະ { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = ເລືອກອອກເງື່ອນໄຂຂອງທ່ານ
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

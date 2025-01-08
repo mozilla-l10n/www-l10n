@@ -10,7 +10,6 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } એ ​​ઝળહળતો ઝડપી બ્રાઉઝર છે જે વિકાસકર્તાઓ સાધનો અને CSS ગ્રીડ સપોર્ટ અને ફ્રેમવર્ક ડિબગીંગ જેવી નવી સુવિધાઓનો ઉપયોગ કરે છે
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = તમારા નવા મનપસંદ બ્રાઉઝરમાં સ્વાગત છે. નવીનતમ સુવિધાઓ, ઝડપી પ્રદર્શન અને વિકાસ સાધનો જે તમને ખુલ્લી વેબ માટે બનાવવાની જરૂર છે તે મેળવો.
 firefox-developer-speak-up = બોલો
 firefox-developer-feedback-makes-us = પ્રતિસાદ અમને વધુ સારી બનાવે છે. અમને જણાવો કે અમે બ્રાઉઝર અને વિકાસકર્તા સાધનો કેવી રીતે સુધારી શકીએ.
@@ -55,16 +54,11 @@ firefox-developer-new-tools = નવા ટૂલ્સ
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = નવા { -brand-name-firefox-devtools } શક્તિશાળી, સાનુકૂળ, અને શ્રેષ્ઠ, હેક કરવા અનૂકુળ છે. તેમાં શ્રેષ્ઠ-ઇન-ક્લાસ JavaScript ડીબગર શામેલ છે, જે બહુવિધ બ્રાઉઝર્સને લક્ષ્ય બનાવી શકે છે અને React અને Redux માં બનાવવામાં આવે છે.
 firefox-developer-master-css-grid = માસ્ટર CSS ગ્રીડ
-# outdated
-firefox-developer-next-gen-css-engine = આગામી-પેઢી CSS એન્જિન
-firefox-developer-a-next-generation = આગામી-પેઢી CSS એન્જિન
 firefox-developer-master-innovative-features = નવીન સુવિધાઓ
 firefox-developer-want-to-be-on-the-cutting-edge = આધુનિક રહેવા માગો છો?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } નો દૈનિક સુધારાઓ મેળવે છે અને મુખ્યપ્રવાહમાં જાય તે મહિના પહેલાના સુવિધાને મેળવવાની મંજૂરી આપે છે.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } નવુ CSS એન્જિનનો સમાવેશ કરે છે, જે Rust માં લખાયેલી છે, જે અત્યાધુનિક નવીનતાઓ ધરાવે છે અને તે અત્યંત ઝડપી છે.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } એ ફક્ત એક જ બ્રાઉઝર છે જે CSS ગ્રીડ સાથે ડિઝાઇન કરવા માટે બનાવવામાં આવેલા સાધનો માટે છે. આ સાધનો તમને ગ્રીડની કલ્પના કરવા, સંકળાયેલ ક્ષેત્રના નામો દર્શાવવા, ગ્રીડ પરના પૂર્વાવલોકનનું પૂર્વાવલોકન અને ઘણું બધું આપે છે.
 firefox-developer-convenient-features = અનુકૂળ લક્ષણો
-firefox-developer-faster-performance = ઝડપી પ્રદર્શન
 firefox-developer-shapes-editor = આકાર સંપાદક
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } પાસે એક નવું shape path સંપાદક છે જે વિઝ્યુઅલ સંપાદક સાથે તમારી ગોઠવણને સરળતાથી ગોઠવવાની મંજૂરી આપીને તમારા આકાર-બાહ્ય અને ક્લિપ-પાથ આકારને સુંદર-ટ્યુન કરવાના અનુમાનને બહાર કાઢે છે.
 firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } એક નવું આકાર પાથ એડિટર છે જે તમારા પ્રતિબિંબ-બાહ્ય અને ક્લિપ-પાથ આકારને સારી રીતે ટ્યુન કરવાથી અનુમાનિત કાર્ય કરે છે જે તમને વિઝ્યુઅલ એડિટર સાથે તમારા એડજસ્ટમેન્ટ્સને સરળતાથી સુલભ બનાવવા દે છે.
@@ -73,7 +67,4 @@ firefox-developer-fonts-panel = ફોન્ટ પેનલ
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools } નાં નવા ફોન્ટ્સ પેનલ, વિકાસકર્તાઓને તત્વમાં ઉપયોગમાં લેવાતા ફોન્ટ્સ વિશેની બધી માહિતીની ઝડપી ઍક્સેસ આપે છે. તેમાં ફૉન્ટ સ્રોત, વજન, સ્ટાઇલ વગેરે જેવી મૂલ્યવાન માહિતી શામેલ છે.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } આપોઆપ { -brand-name-mozilla } ને પ્રતિસાદ મોકલે છે.
 firefox-developer-download-the-firefox-browser = વિકાસકર્તાઓ માટે બનાવેલ { -brand-name-firefox } બ્રાઉઝર ડાઉનલોડ કરો
-firefox-developer-welcome-to-the-all-new = બિલકુલ નવા { -brand-name-firefox-quantum }પર સ્વાગત છે: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } શરુઆથી ફરી બનાવવામાં આવેલ છે, ઝડપી, આકર્ષક, અને ક્યારેય કરતાં વધુ શક્તિશાળી બનેલ છે.
-firefox-developer-congrats-you-now-have-firefox = અભિનંદન. તમારી પાસે હવે { -brand-name-firefox-quantum } છે: { -brand-name-developer-edition }
-firefox-developer-this-isnt-just-an-update = આ માત્ર એક અદ્યતન નથી. આ { -brand-name-firefox-quantum } છે: એક તદ્દન નવું { -brand-name-firefox } જે શરુથી ફરીથી બનેલું છે, જે પહેલા કરતાં વધુ ઝડપી, આકર્ષક અને વધુ શક્તિશાળી છે.

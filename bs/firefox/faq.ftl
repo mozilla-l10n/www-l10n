@@ -13,7 +13,7 @@ what-is-firefox = Šta je { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = { -brand-name-firefox-browser } je jedini veliki pretraživač koji podržava neprofitna organizacija koja ne prodaje vaše lične podatke oglašivačima dok vam pomaže u zaštiti vaših ličnih podataka. Saznajte više o <a href="{ $url }">{ -brand-name-firefox-browsers }</a> i <a href="{ $url2 }">drugim proizvodima.</a>
 how-do-i = Kako da dobijem { -brand-name-firefox-browser }?
@@ -46,7 +46,7 @@ protecting-your-privacy = Zaštita vaše privatnosti je naš prioritet broj jeda
 is-firefox-safe = Je li { -brand-name-firefox } siguran?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = Ne samo da je { -brand-name-firefox } siguran za upotrebu, već pomaže da vaši podaci i privatne informacije budu sigurni. { -brand-name-firefox-browser } automatski blokira prikupljanje vaših podataka poznatih trećih strana, tragača društvenih medija, kripto rudara i otisaka prstiju. <a href="{ $url }">Saznajte više o privatnosti u našim proizvodima.</a>
 related-questions-safe = Povezana pitanja: je li { -brand-name-firefox } dobar za privatnost, je li { -brand-name-firefox } siguran, je li { -brand-name-firefox } bolji za privatnost

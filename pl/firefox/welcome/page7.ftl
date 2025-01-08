@@ -18,9 +18,5 @@ page7-that-sneaky-little-button = Ten podstępny mały przycisk
 page7-those-innocent-looking-f-buttons = Te niewinnie wyglądające przyciski „F” od { -brand-name-facebook(case: "gen") } śledzą Twoje działania w Internecie, nawet jeśli nie masz konta. { -brand-name-facebook-container } je blokuje.
 page7-stay-ahead-of-hackers = Wyprzedź hakerów
 page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } pozwala dowiedzieć się, co hakerzy mogą już o Tobie wiedzieć i pomaga być o krok przed nimi (i jest za darmo!).
-# Obsolete string
-page7-firefox-monitor-lets-you-find = { -brand-name-firefox-monitor } pozwala dowiedzieć się, co hakerzy mogą już o Tobie wiedzieć i pomaga być o krok przed nimi (i jest za darmo!).
 page7-get-mozilla-monitor = Wypróbuj { -brand-name-mozilla-monitor }
-# Obsolete string
-page7-get-firefox-monitor = Zainstaluj { -brand-name-firefox-monitor }
 page7-why-am-i-seeing-this = Dlaczego to widzę?

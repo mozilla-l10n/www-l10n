@@ -3,10 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
-# Outdated string
-firefox-browsers-get-the-browsers-that-put = သင် ကိုရေးအချက်အလက် လုံခြုံရေး ကို ပထမ ထားသော အမြဲဦးထိပ် ဆင် သော ဘရောင်ဇာ ရယူပါ
 firefox-browsers-desktop = စားပွဲတင် ကွန်ပျူတာ
 firefox-browsers-download-for-desktop = စားပွဲတင် ကျွန်ပျူတာ အတွက် ဒေါင်းလုပ်
 firefox-browsers-mobile = မိုဘိုင်း

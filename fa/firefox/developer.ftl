@@ -10,7 +10,6 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } مرورگر بسیار سریعی است که پیشرفته‌ترین ابزار‌های توسعه و آخرین ویژگی‌هایی مانند پشتیبانی از CSS Grid و اشکال‌زدایی چهارچوب را ارائه می‌کند
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = به نسخه جدید مرورگر محبوب خود خوش‌‌ آمدید. آخرین ویژیگی‌ها،‌کارایی سریع و ابزارهای توسعه‌‌ای که برای ساختن وب آزاد  نیاز دارید را دریافت کنید.
 firefox-developer-speak-up = صحبت کنید
 firefox-developer-feedback-makes-us = بازخوردها ما را بهتر می‌کنند. به ما بگویید چطور می‌توانیم مرورگر و ابزارهای توسعه‌دهندگان را بهبود ببخشیم.
@@ -55,22 +54,14 @@ firefox-developer-new-tools = ابزارهای جدید
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = { -brand-name-firefox-devtools } جدید قدرتمند است،‌ منعطف است و از همه مهم تر قابل هک شدن و تغییر است. و شامل یکی از بهترین اشکال‌زداهای JavaScript است که می‌تواند چند مرورگر را هدف بگیرد و  توسط React و React ساخته شده است.
 firefox-developer-master-css-grid = استاد شبکه‌های CSS بشوید
-# outdated
-firefox-developer-next-gen-css-engine = نسل بعدی موتور CSS
-firefox-developer-a-next-generation = نسل جدید موتور‌CSS
 firefox-developer-master-innovative-features = امکانات نوآورانه
 firefox-developer-want-to-be-on-the-cutting-edge = می‌خواهید در لبه‌ی پیشرفت باشید؟
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } به‌روزرسانی‌های روزانه دریافت می‌کند و شما را قادر می‌سازد تا ماه‌ها پیش از آن‌که ویژگی‌ها وارد جریان اصلی شوند به آن‌ها دسترسی داشته باشید.
-firefox-developer-firefox-quantum-includes = { -brand-name-firefox-quantum } شامل یک موتور CSS جدید که در Rust نوشته شده، نوآوری‌های پیشرفته‌ای دارد و بسیار سریع است.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } تنها مرورگری است که ابزارهایی مختص ساخت و طراحی شبکه‌های CSS را فراهم کرده است. این ابزارها به شما امکان می‌دهند که شبکه‌ها را تشخیص دهید، نام قسمت‌های مرتبط را ببینید، پیش‌نمایشی از تغییرات را ببینید و بیشتر.
 firefox-developer-convenient-features = ویژگی‌های مناسب
-firefox-developer-faster-performance = کارایی سریع
 firefox-developer-shapes-editor = ویرایشگر شکل‌ها
 firefox-developer-faster-innovation = اطلاعات سریع‌تر
 firefox-developer-fonts-panel = پنل قلم‌ها
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } به صورت خودکار بازخوردها را برای { -brand-name-mozilla } ارسال می‌کند.
 firefox-developer-download-the-firefox-browser = مرورگر { -brand-name-firefox } برای توسعه‌دهندگان را دریافت کنید
-firefox-developer-welcome-to-the-all-new = به { -brand-name-firefox-quantum } جدیدِ کوانتوم خوش آمدید: { -brand-name-developer-edition }
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } از ابتدا ساخته شده تا سریع‌تر، نرم‌تر و قدرتمندتر از همیشه باشد.
-firefox-developer-congrats-you-now-have-firefox = تبریک. شما اکنون دارای { -brand-name-firefox-quantum }: { -brand-name-developer-edition }
-firefox-developer-this-isnt-just-an-update = این تنها یک به روز رسانی نیست. این { -brand-name-firefox-quantum } است: یک { -brand-name-firefox } تازه که از ابتدا ساخته شده تا سریع‌تر، نرم‌تر و قدرتمند‌تر از همیشه باشد.

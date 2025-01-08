@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use/
+### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use-a-vpn/
 
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = 5 rheswm i ddefnyddio VPN
@@ -32,7 +32,7 @@ vpn-when-to-use-for-the-most = Ar y cyfan, nid yw'r senarios uchod yn berthnasol
 vpn-when-to-use-because-your-internet = Oherwydd bod eich traffig rhyngrwyd adref yn symud yn ôl ac ymlaen o'ch dyfeisiau drwy eich darparwr gwasanaeth rhyngrwyd (internet service provider )  — neu ISP, maen nhw'n gallu gweld ble rydych chi'n mynd ar-lein. Gall ISP weld pa wefannau rydych chi'n ymweld â nhw, pa mor hir rydych chi arnyn nhw, eich lleoliad a gwybodaeth am eich dyfeisiau. Efallai na fydd eich ISP yn gwybod manylion yr hyn a wnaethoch ar y gwefannau hynny (fel yr hyn y gwnaethoch ei brynu, chwilio amdano neu ei ddarllen) diolch i amgryptio, ond gallan nhw ddyfalu ar sail y gwefannau yr aethoch chi iddyn nhw. Mae modd defnyddio’r data personol hwnnw gan eich ISP  i greu proffiliau manwl amdanoch chi. Nid yw pori mewn modd preifat yn atal ISPs rhag gweld ble rydych chi'n mynd ar-lein. Ond gall anfon eich traffig gwe trwy VPN ei gwneud hi'n llawer anoddach.
 vpn-when-to-use-make-sure-you = Gwnewch yn siŵr eich bod yn deall yr hyn nad yw VPN yn ei wneud
 # Variables
-#   $book (url) - https://www.mozilla.org/firefox/privacy/book/
+#   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
 vpn-when-to-use-a-vpn-provides = Mae VPN yn darparu cyswllt diogel pwysig trwy ddiogelu eich data preifat cyn iddo deithio dros y rhyngrwyd, ac mae hefyd yn cuddio'ch cyfeiriad IP, gan helpu i amddiffyn eich hunaniaeth a'ch lleoliad. Fodd bynnag, nid yw'n eich atal rhag pethau fel clicio ar ddolenni amheus,llwytho meddalwedd maleisus i lawr neu gael eich erlid gan e-byst twyllodrus. Mae angen i chi ddilyn <a href="{ $book }">arferion da bob dydd i gadw'n ddiogel ar-lein</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, gwasanaeth VPN dibynadwy
 # Variables

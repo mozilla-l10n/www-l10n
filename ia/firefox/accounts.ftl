@@ -7,26 +7,16 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Crea un conto { -brand-name-mozilla-account } – mantene tu datos private, secur e synchronisate
-# Obsolete string
-firefox-accounts-get-a-firefox-account = Crea un conto { -brand-name-firefox-account } – mantene tu datos private, secur e synchronisate
-# Obsolete string
-firefox-accounts-securely-sync-your = Synchronisa con securitate tu contrasignos, marcapaginas e schedas inter tote tu apparatos. Crea un conto { -brand-name-firefox-account } ora: un accesso unic, tu libertate e vita private ubique.
 # HTML page description
 mozilla-accounts-securely-sync-your = Synchronisa con securitate tu contrasignos, marcapaginas e schedas inter tote tu apparatos. Crea un conto { -brand-name-mozilla-account } ora: un accesso unic, tu libertate e confidentialitate ubique.
 firefox-accounts-enter-your-email-address = Insere tu adresse de e-mail pro comenciar.
 firefox-accounts-already-have-an-account = Ha tu jam un conto?
 firefox-accounts-sign-in = Aperir session
-# Obsolete string
-firefox-accounts-already = Tu ha jam un { -brand-name-firefox-account }. Congratulationes!
 mozilla-accounts-already = Tu ha jam un { -brand-name-mozilla-account }. Congratulationes!
 firefox-accounts-manage = Gere tu conto
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Accede a tu { -brand-name-mozilla-account }:
-# Obsolete string
-firefox-accounts-sign-in-to = Accede a tu { -brand-name-firefox-account }:
-# Obsolete string
-firefox-accounts-meet-our-family-of = Discoperi nostre familia de productos que respecta e defende tu vita private.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Inviar un scheda</a> a un apparato differente
@@ -48,8 +38,6 @@ firefox-accounts-get-it-all-on-every = Obtene tote isto sur cata apparato, sin s
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

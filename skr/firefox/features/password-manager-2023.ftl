@@ -13,14 +13,6 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } ویب �
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = <a { $fxa }>مُفت{ -brand-name-mozilla-account }</a> دے نال تُساں آپݨے سبّھے ڈیوائساں اُتے آپݨے پاس ورڈز کوں محفوظ طریقے نال ہم وقت کر سڳدے ہِیوے۔ تُساں { -brand-name-mozilla }’ایس دی رازداری دا احترام کرݨ آلیاں ٻئے سبّھے مصنوعات تئیں وی رسائی حاصل کر سڳدے ہِیوے۔
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account = <a href="{ $fxa }">مُفت{ -brand-name-mozilla-account }</a>دے نال تُساں آپݨے سبّھے ڈیوائساں اُتے آپݨے پاس ورڈز کوں محفوظ طریقے نال ہم وقت کر سڳدے ہِیوے۔
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-firefox-account = <a href="{ $fxa }">مُفت{ -brand-name-firefox }اکاؤنٹ</a> دے نال تُساں آپݨے سبّھے ڈیوائساں اُتّے آپݨے پاس ورڈز کوں محفوظ طریقے نال ہم وقت کر سڳدے ہِیوے۔
 password-manager-password-autofill-for-easy-logins = سوکھے لاگ اناں کیتے آٹو فل پاس ورڈ
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } تُہاݙے محفوظ کِیتے ڳئے صارف ناں اَتے پاس ورڈ کوں خود کار طریقے نال پُر کر سڳدا ہِے۔ ڄیکر تُہاݙے کول کئیں سائٹ کِیتے ہِک کنوں وَدھ لاگ اِن ہِن، تاں تُساں صرف آپݨاں مطلوبہ اکاؤنٹ چُݨ سڳدے ہِیوے اَتے اَساں اِیکوں اُتُّھوں کنوں گِھن گِھنسُوں۔
 # Used as an accessible text alternative for an image

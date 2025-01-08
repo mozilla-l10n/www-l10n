@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use-a-vpn/
@@ -32,7 +32,7 @@ vpn-when-to-use-for-the-most = Na maior parte, os cenários acima não se aplica
 vpn-when-to-use-because-your-internet = Como o tráfego de internet em casa entra e sai de seus dispositivos por meio do seu provedor, ele pode ver onde você acessa online. Um provedor de internet pode ver quais sites você visita, quanto tempo fica em cada um, sua localização física e informações sobre seus dispositivos. Graças à criptografia, o provedor pode não saber detalhes do que você faz nesses sites (como o que compra, pesquisa ou lê), mas pode fazer inferências sobre você com base nos sites que visita. Esses dados pessoais podem ser usados pelos provedores para traçar perfis detalhados sobre você. O modo de navegação privativa não impede que eles vejam onde você vai online. Mas enviar seu tráfego de internet através de uma VPN pode tornar isso bem mais difícil.
 vpn-when-to-use-make-sure-you = Certifique-se de entender o que uma VPN não faz
 # Variables
-#   $book (url) - https://www.mozilla.org/firefox/privacy/book/
+#   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
 vpn-when-to-use-a-vpn-provides = Uma VPN fornece uma importante ligação de segurança ao proteger seus dados privativos antes que eles se desloquem pela internet, além de ocultar seu endereço IP, ajudando a proteger sua identidade e localização. Ela não evita, no entanto, ações suas como clicar em links suspeitos, baixar código malicioso ou ser vítima de fraudes por email. Você ainda precisa praticar <a href="{ $book }">bons hábitos para se proteger online</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, um serviço VPN confiável
 # Variables

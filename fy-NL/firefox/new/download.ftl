@@ -59,4 +59,3 @@ firefox-new-fast = Fluch, privee en fergees
 firefox-new-from-mozilla = fan { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } is in fergeze webbrowser dy’t siden fluch laadt, minder ûnthâld brûkt en folop funksjes befettet – in projekt fan de non-profitorganisaasje { -brand-name-mozilla }.
 firefox-new-download-a-different = Downloade foar in oar platfoarm of taal
-firefox-new-taskbar = { -brand-name-firefox } sil nei ynstallaasje fêstmakke wurde oan de { -brand-name-windows }-taakbalke

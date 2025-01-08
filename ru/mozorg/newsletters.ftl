@@ -92,12 +92,8 @@ newsletters-love-the-web-so-do-we = Любите Интернет? Мы тоже
 newsletters-unlock-the-world-of-web = Откройте для себя мир веб-разработки с помощью нашей еженедельной новостной рассылки разработчиков { -brand-name-mozilla }. В каждом выпуске представлены наилучшие методы и техники программирования, новости { -brand-name-mdn }, сведения о новых технологиях, советы по инструментам разработчика и многое другое.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-make-the-most = Используйте { -brand-name-firefox } по максимуму
-# Obsolete string (expires: 2024-11-01)
-newsletters-put-more-fox-in-your-inbox = Ещё больше новостей от лисицы.
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-sign-up-to-receive-monthly = Подпишитесь, чтобы получать ежемесячные новости о { -brand-name-firefox } и интернет-тенденциях, которые определяют вашу жизнь в Интернете.
-# Obsolete string (expires: 2024-11-01)
-newsletters-see-where-the-web-can-take = Достигайте большего с ежемесячными советами, хитростями и новинками от { -brand-name-firefox }.
 newsletters-we-are-sorry-but-there = Извините, в системе возникла проблема. Пожалуйста, повторите попытку позже!
 newsletters-thanks-for-updating-your = Спасибо, что обновили настройки своих подписок.
 newsletters-success-an-email-has-been-sent = Готово! Вам отправлено письмо со ссылкой на страницу настроек. Спасибо!

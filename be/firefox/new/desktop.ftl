@@ -40,12 +40,6 @@ firefox-desktop-download-blocks-social-trackers = Блакуе трэкеры с
 firefox-desktop-download-os-availability = Даступнасць для АС
 firefox-desktop-download-in-browser-screenshot = Убудаваны інструмент для здымкаў экрана
 firefox-desktop-download-primary-password = Галоўны пароль
-# Obsolete string
-firefox-desktop-love-your-life = Пакахайце сваё жыццё ў інтэрнэце
-# Obsolete string
-firefox-desktop-its-your-internet = Гэта ваш інтэрнэт. Расфарбуйце яго так, як хочаце, з тысячамі інструментаў, тэм і пашырэнняў. { -brand-name-firefox } — арыгінальны альтэрнатыўны браўзер, які ставіць людзей вышэй за прыбытак.
-# Obsolete string
-firefox-desktop-download-master-password = Галоўны пароль
 firefox-desktop-download-we-block-the-ad = Мы блакуем рэкламныя трэкеры. Вы хутчэй аглядаеце Інтэрнэт.
 firefox-desktop-download-ads-are-distracting = Рэклама адцягвае ўвагу і прымушае вэб-старонкі загружацца павольней, а іх трэкеры сочаць за кожным вашым крокам у Інтэрнэце. { -brand-name-firefox-browser } аўтаматычна блакуе большасць трэкераў, таму няма патрэбы рыцца у наладах бяспекі.
 firefox-desktop-download-see-your-report = Праглядзіце справаздачу аб ахове
@@ -134,9 +128,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } быў с
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Разам з ростам і змяненнем інтэрнэту, { -brand-name-firefox } працягвае засяроджвацца на вашым праве на прыватнасць  — мы называем гэта <a { $attrs }>абяцаннем асабістых дадзеных</a>: Збіраць менш. Захоўваць у бяспецы. Ніякіх сакрэтаў. Вашы дадзеныя, ваша дзейнасць у Інтэрнэце і ваша сеціўнае жыццё абаронены { -brand-name-firefox }.
 # Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } даступны для ўсіх вашых прылад; вазьміце з сабой карткі, гісторыю і закладкі. Усё, што вам трэба, гэта <a { $attrs }>ўліковы запіс { -brand-name-firefox }</a>.
-# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Зрабіце відарыс з высокай разрознасцю з чаго заўгодна ў сеціве з дапамогай нашага інструмента для <a { $attrs }>здымкаў экрана</a>, убудаванага прама ў браўзер
 # Variables:
@@ -145,13 +136,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } аўт�
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Пытанні? <a { $attrs }>Падтрымка { -brand-name-mozilla }</a> мае адказы.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = У вас ужо ёсць браўзер. Цяпер атрымайце яшчэ больш ад { -brand-name-firefox }.
-firefox-desktop-download-watch-for-hackers-with-v2 = Сачыце за хакерамі з дапамогай { -brand-name-firefox-monitor }, абараняйце свой адрас электроннай пошты з { -brand-name-firefox-relay } і многае іншае.
-# Outdated string
-firefox-desktop-download-watch-for-hackers-with = Сачыце за хакерамі з дапамогай { -brand-name-firefox-monitor }, абараніце паролі з { -brand-name-firefox-lockwise } і многае іншае.
-firefox-desktop-download-get-more-from-firefox = Атрымаць больш ад { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Проста сцягнуць браўзер
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -167,8 +151,6 @@ firefox-desktop-download-now-mac = Цяпер <strong>адкрыйце</strong> 
 firefox-desktop-download-get-help = Узніклі праблемы? <a { $attrs }>Атрымайце дапамогу па ўсталяванні</a>.
 firefox-desktop-download-in-another-language = Сцягнуць на іншай мове або для іншай аперацыйнай сістэмы.
 firefox-desktop-download-windows = { -brand-name-windows }
-# Outdated string
-firefox-desktop-download-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = Калі вы бачыце падказку, што праграма, якую вы спрабуеце ўсталяваць, не праверана фірмай { -brand-name-microsoft }, націсніце «Усталяваць усё роўна» або <a { $attrs }>змяніце параметры рэкамендацыі праграм</a>.
@@ -176,10 +158,6 @@ firefox-desktop-download-visit-support-for-more = Каб даведацца бо
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">больш не выпускае абнаўленні бяспекі</a> на { -brand-name-windows } { -brand-name-xp } ці { -brand-name-vista }, але вы ўсё яшчэ можаце карыстацца { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-youre-using-an-insecure-outdated = Вы выкарыстоўваеце неабароненую, састарэлую аперацыйную сістэму, якая <a href="{ $url }">больш не падтрымліваецца { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -193,4 +171,3 @@ firefox-desktop-download-please-follow = Калі ласка, прытрымлі
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Ваша сістэма можа не задавальняць патрабаванням { -brand-name-firefox }, але вы можаце паспрабаваць адну з <a href="{ $url }">гэтых версій</a>:
-firefox-desktop-download-taskbar = { -brand-name-firefox } будзе замацаваны на панэлі заданняў { -brand-name-windows } пасля ўсталявання

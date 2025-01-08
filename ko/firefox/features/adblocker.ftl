@@ -31,18 +31,6 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> 역시
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = 이 확장 기능들은 <a { $attrs1 }>데스크톱용 { -brand-name-firefox }</a>와 <a { $attrs2 }>Android</a> 에서 모두 잘 작동합니다.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = <a href="{ $url }">AdBlocker Ultimate</a>라는 광고 차단기는 모든 광고를 차단합니다. 하지만 좋아하는 신문이나 잡지가 광고에 수익을 의존하고 있을 수 있으므로, 사용할 때는 주의해야 합니다. 너무 많은 사람들이 그들의 광고를 차단한다면 회사가 폐업할 수도 있습니다.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = 팝업 광고는 최악입니다. <a href="{ $url }">Popup Blocker</a>로 팝업을 차단하고 더이상 거슬리는 팝업에 신경쓰지 마세요.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = { -brand-name-chrome }, { -brand-name-safari } 및 { -brand-name-firefox }용으로 제공되는 가장 유명한 광고 차단기 중 하나는 <a href="{ $url }">AdBlock</a>입니다. { -brand-name-facebook }, { -brand-name-youtube } 그리고 { -brand-name-hulu } 등 여러 사이트에서 광고를 차단하는 데 사용할 수 있습니다.
 features-adblocker-create-a-tracker-free = 콘텐츠 차단으로 추적기 없는 환경을 만들어보세요
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

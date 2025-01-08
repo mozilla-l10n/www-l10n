@@ -7,26 +7,16 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Załóż { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } — Twoje dane będą prywatne, bezpieczne i zsynchronizowane
-# Obsolete string
-firefox-accounts-get-a-firefox-account = Załóż { -brand-name-firefox-account(case: "acc", capitalization: "lower") } — Twoje dane będą prywatne, bezpieczne i zsynchronizowane
-# Obsolete string
-firefox-accounts-securely-sync-your = Bezpiecznie synchronizuj hasła, zakładki i karty na wszystkich urządzeniach. Załóż { -brand-name-firefox-account(case: "acc", capitalization: "lower") } już teraz — jedno logowanie — prywatność w każdym miejscu.
 # HTML page description
 mozilla-accounts-securely-sync-your = Bezpiecznie synchronizuj hasła, zakładki i karty na wszystkich urządzeniach. Załóż { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } już teraz — jedno logowanie — prywatność w każdym miejscu.
 firefox-accounts-enter-your-email-address = Wpisz swój adres e-mail, aby zacząć.
 firefox-accounts-already-have-an-account = Masz już konto?
 firefox-accounts-sign-in = Zaloguj się
-# Obsolete string
-firefox-accounts-already = Masz już { -brand-name-firefox-account(case: "acc", capitalization: "lower") }. Gratulacje!
 mozilla-accounts-already = Masz już { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }. Gratulacje!
 firefox-accounts-manage = Zarządzaj kontem
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Z { -brand-name-mozilla-account(case: "ins", capitalization: "lower") } możesz więcej!
-# Obsolete string
-firefox-accounts-sign-in-to = Z { -brand-name-firefox-account(case: "ins", capitalization: "lower") } możesz więcej!
-# Obsolete string
-firefox-accounts-meet-our-family-of = Poznaj naszą rodzinę produktów zapewniających prywatność.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Przesyłaj karty</a> między urządzeniami
@@ -48,8 +38,6 @@ firefox-accounts-get-it-all-on-every = Korzystaj z tego wszystkiego na każdym 
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

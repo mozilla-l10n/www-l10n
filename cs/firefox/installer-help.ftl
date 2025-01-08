@@ -19,10 +19,6 @@ installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc-v2 = Získejte nejnovější verzi. Stáhněte si { -brand-name-firefox }, který pro vás zablokuje více než { $trackers } sledovacích prvků.
-# Obsolete string (expires: 2024-05-14)
-# Variables:
-#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc = Aktualizujte. Automatické soukromí je tady. Stáhněte si { -brand-name-firefox-browser(case: "acc", capitalization: "lower") }, který pro vás zablokuje více než { $trackers } sledovacích prvků.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Zkoušejte připravované funkce před jejich vydáním ve finální verzi.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }

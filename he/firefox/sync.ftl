@@ -1,6 +1,6 @@
-# This Source Code Form is subject to the terms of the { -brand-name-mozilla } Public
+# This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/sync/
@@ -13,6 +13,5 @@ firefox-sync-all-you-need = כל מה שצריך עבור { -brand-name-firefox-
 firefox-sync-encrypt-your-data = הצפנת הנתונים שלך
 firefox-sync-your-encryption-key = מפתח ההצפנה שלך נשאר בסוד, וידוע רק לך ולמכשירים המורשים שלך.
 firefox-sync-we-store-your = אנו מאחסנים את הנתונים המוצפנים שלך בשרתים שלנו כך שאחרים לא יכולים לקרוא אותם.
-start-syncing-in = אפשר להתחיל לסנכרן ב־4 צעדים פשוטים:
 # https://support.mozilla.org/kb/firefox-accounts-managing-account-data
 firefox-sync-learn-more = עזרה נוספת בניהול { -brand-name-firefox-account(case: "the") } שלך

@@ -4,7 +4,4 @@
 
 sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = Keñveriañ merdeerioù
-sub-navigation-learn-more = Gouzout hiroc’h
-# Obsolete string
-sub-navigation-firefox-accounts = { -brand-name-firefox-accounts }
 sub-navigation-enterprise = { -brand-name-enterprise }

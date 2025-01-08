@@ -56,11 +56,3 @@ vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: fluch, feilich, betr
 # Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> is in tsjinst wêrop jo fertrouwe kinne om jo ferbining mei it ynternet op al jo apparaten feilich te hâlden. Wy hâlde gjin lochboeken mei netwurkaktiviteiten by en wy wurkje net gear mei tredden dy’t profilen meitsje fan wat jo online dogge. Yn in wrâld wêryn ûnfoarsjenberheid it ‘nije normaal’ wurden is, witte wy dat it wichtiger as ea is dat jo jo feilich fiele en dat jo witte dat wat jo online dogge jo eigen saak is.
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a-v2 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> is in tsjinst wêrop jo fertrouwe kinne om jo ferbining mei it ynternet op al jo apparaten feilich te hâlden. Wy hâlde gjin lochboeken mei netwurkaktiviteiten by en wy wurkje net gear mei tredden dy’t profilen meitsje fan wat jo online dogge. Yn in wrâld wêryn ûnfoarsjenberheid it ‘nije normaal’ wurden is…
-# Obsolete string
-# Variables
-#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
-vpn-what-is-mozilla-vpn-is-a = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> is in tsjinst wêrop jo fertrouwe kinne om jo ferbining mei it ynternet op al jo apparaten feilich te hâlden. Wy hâlde gjin lochboeken mei brûkersgegevens by en wy wurkje net gear mei analyseplatfoarmen fan tredden dy’t profilen meitsje fan wat jo online dogge. Yn in wrâld wêryn ûnfoarsjenberheid it ‘nije normaal’ wurden is, witte wy dat it wichtiger as ea is dat jo jo feilich fiele en dat jo witte dat wat jo online dogge jo eigen saak is.

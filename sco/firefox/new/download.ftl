@@ -1,12 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## Required
+# Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Doonload { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Doonload the fastest { -brand-name-firefox } yet
@@ -22,15 +22,11 @@ firefox-new-advanced-install-options = Advanced instaw options & ither platforms
 firefox-new-download-in-another-language = Doonload in anither leid
 firefox-new-need-help = Needin hauners?
 
-### URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">nae langer provides siccarness updates</a> on { -brand-name-windows } { -brand-name-xp } or { -brand-name-vista }, but ye can still yaise { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Ye’re yaisin an ootdatit operatin system that's no siccar and <a href="{ $url }">nae langer supportit by { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -44,16 +40,15 @@ firefox-new-please-follow = Gonnae follae <a href="{ $url }">these instructions<
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Yer system micht no match the requirements fur { -brand-name-firefox }, but ye can try yin o <a href="{ $url }">these versions</a>.
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = If you see a prompt sayin that the app ye’re ettlin tae instaw isnae a { -brand-name-microsoft }-verified app, click “Instaw onywey” or <a { $attrs }>chynge app recommendation settins</a>.
 firefox-new-visit-support-for-more = Veesit Support fur Mair Details
 
-## Not-Required
+# Not-Required
 
 
-### URL: https://www-dev.allizom.org/firefox/new/?xv=basic
+## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Doonload { -brand-name-firefox-browser }

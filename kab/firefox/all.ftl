@@ -5,20 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = Sader { -brand-name-firefox-browser } s teqbaylit d wugar n 90 tutlayin-nniḍen
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = Meṛṛa imdanen uklalen ad kecmen ɣer Internet — tutlayt-ik/im ur ilaq ara ad tili d aɛewwiq. Ɣef waya — s tallalt n yiwiziwen deg umaḍal meṛṛa — ad nerr { -brand-name-firefox-browser } yella deg wugar n 90 n tutlayin.
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Awi tallelt
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = Iminig:
 firefox-all-browser-v2 = 1. Iminig:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = Anagraw:
 firefox-all-platform-v2 = 2. Tiɣerɣert
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = Tutlayt:
 firefox-all-language-v2 = 3. Tutlayt:
 firefox-all-download = 4. Asader:
 firefox-all-desktop = Tanarit

@@ -7,26 +7,16 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Αποκτήστε έναν { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } – Διατηρήστε τα δεδομένα σας ιδιωτικά, ασφαλή και συγχρονισμένα
-# Obsolete string
-firefox-accounts-get-a-firefox-account = Απόκτηση { -brand-name-firefox-account(case: "gen", capitalization: "lower") } – Προστασία και συγχρονισμός δεδομένων
-# Obsolete string
-firefox-accounts-securely-sync-your = Ασφαλής συγχρονισμός κωδικών πρόσβασης, σελιδοδεικτών και καρτελών σε όλες τις συσκευές σας. Αποκτήστε έναν { -brand-name-firefox-account(case: "acc", capitalization: "lower") } – Μία σύνδεση – Δύναμη και απόρρητο παντού.
 # HTML page description
 mozilla-accounts-securely-sync-your = Ασφαλής συγχρονισμός κωδικών πρόσβασης, σελιδοδεικτών και καρτελών σε όλες τις συσκευές σας. Αποκτήστε έναν { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } – Μία σύνδεση – Δύναμη και απόρρητο παντού.
 firefox-accounts-enter-your-email-address = Εισαγάγετε τη διεύθυνση email σας για να ξεκινήσετε.
 firefox-accounts-already-have-an-account = Διαθέτετε ήδη λογαριασμό;
 firefox-accounts-sign-in = Σύνδεση
-# Obsolete string
-firefox-accounts-already = Συγχαρητήρια! Διαθέτετε ήδη { -brand-name-firefox-account(case: "acc", capitalization: "lower") }.
 mozilla-accounts-already = Συγχαρητήρια! Διαθέτετε ήδη { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }.
 firefox-accounts-manage = Διαχείριση του λογαριασμού σας
 mozilla-account-header = { -brand-name-mozilla-account(case: "nom", capitalization: "upper") }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Συνδεθείτε στον { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } σας για:
-# Obsolete string
-firefox-accounts-sign-in-to = Συνδεθείτε στον { -brand-name-firefox-account(case: "acc", capitalization: "lower") } σας για:
-# Obsolete string
-firefox-accounts-meet-our-family-of = Γνωρίστε την οικογένεια των ιδιωτικών προϊόντων μας.
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Αποστολή καρτελών</a> σε άλλη συσκευή
@@ -48,8 +38,6 @@ firefox-accounts-get-it-all-on-every = Όλα αυτά σε κάθε συσκε�
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-firefox-accounts-firefox-monitor = { -brand-name-firefox-monitor }
 firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/7/
@@ -14,5 +14,4 @@ page7-make-them-unfollow-you = ان سے اپنا پیچھا  چھڑااے
 page7-that-sneaky-little-button = وہ چھوٹا سا بٹن
 page7-those-innocent-looking-f-buttons = { -brand-name-facebook } کے معصوم نظر آنے والے F بٹن آپ کی ویب سرگرمی کو ٹریک کرتے ہیں ، یہاں تک کہ اگر آپ کا اکاؤنٹ نہیں ہے۔ { -brand-name-facebook-container } ان کو بلاک کرتا ہے۔
 page7-stay-ahead-of-hackers = ہیکروں سے آگے رہیں
-page7-get-firefox-monitor = { -brand-name-firefox-monitor } حاصل کریں
 page7-why-am-i-seeing-this = میں یہ کیوں دیکھ رہا ہوں؟

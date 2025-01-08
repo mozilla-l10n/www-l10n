@@ -59,4 +59,3 @@ firefox-new-fast = Hızlı, gizli ve ücretsiz
 firefox-new-from-mozilla = { -brand-name-mozilla }’dan
 firefox-new-desc = { -brand-name-firefox-browser } sayfaları daha hızlı açan, daha az bellek tüketen ve birçok özelliğe sahip ücretsiz bir web tarayıcısı. Kâr amacı gütmeyen { -brand-name-mozilla }'dan.
 firefox-new-download-a-different = Başka bir platform veya dilde indirin
-firefox-new-taskbar = Kurulumdan sonra { -brand-name-firefox }, { -brand-name-windows } görev çubuğuna sabitlenecektir

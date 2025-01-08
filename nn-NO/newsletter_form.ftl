@@ -20,11 +20,7 @@ newsletter-form-sign-up-to-receive = Registrer deg for å få månadlege oppdate
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Eg godkjenner at { -brand-name-mozilla } handterer informasjon om meg som forklart i denne <a href="{ $url }">personvernernpraksisen</a>
 newsletter-form-we-will-only-send-v2 = Vi sender deg berre { -brand-name-mozilla }-relatert informasjon. Du kan melde deg av når som helst.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send = Vi vil berre sende deg { -brand-name-mozilla }-relatert informasjon.
 newsletter-form-we-will-only-send-firefox-v2 = Vi vil berre sende deg { -brand-name-firefox }-relatert informasjon. Du kan melde deg av når som helst.
-# Obsolete string (expires: 2024-11-01)
-newsletter-form-we-will-only-send-firefox = Vi vil berre sende deg { -brand-name-firefox }-relatert informasjon.
 newsletter-form-if-you-havent-previously = Om du ikkje tidlegare har stadfesta eit abonnement på eit { -brand-name-mozilla }-relatert nyheitsbrev, må du kanskje gjere det no. Sjå etter ein e-post frå oss i innboksen din eller i søppelpostfilteret ditt.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + deg
 newsletter-form-get-firefox-tips = Få { -brand-name-firefox }-tips, triks, nyheiter og mykje meir

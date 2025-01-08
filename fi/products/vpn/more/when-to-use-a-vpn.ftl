@@ -32,7 +32,7 @@ vpn-when-to-use-for-the-most = Useimmiten yllä olevat tilanteet eivät koske ko
 vpn-when-to-use-because-your-internet = Koska Internet-liikenne kotonasi siirtyy laitteillesi ja laitteistasi Internet-palveluntarjoajasi (lyhyesti ISP) kautta, palveluntarjoaja näkee missä käyt verkossa. Internet-palveluntarjoaja voi nähdä, millä sivustoilla vierailet, kuinka kauan olet niillä, sijaintisi ja tietoa laitteistasi. Internet-palveluntarjoaja ei välttämättä tiedä, mitä teit sivustoilla (kuten mitä ostit, etsit tai luit) salauksen ansiosta, mutta sinusta on mahdollista tehdä päätelmiä vierailemiesi sivustojen perusteella. Internet-palveluntarjoajat voivat käyttää näitä henkilötietoja yksityiskohtaisten profiilien luomiseen. Yksityisessä tilassa selaaminen ei estä Internet-palveluntarjoajia näkemästä, missä käyt verkossa. Verkkoliikenteen lähettäminen VPN:n kautta voi tehdä siitä paljon vaikeampaa.
 vpn-when-to-use-make-sure-you = Varmista, että ymmärrät, mitä VPN ei tee
 # Variables
-#   $book (url) - https://www.mozilla.org/firefox/privacy/book/
+#   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
 vpn-when-to-use-a-vpn-provides = VPN tarjoaa tärkeän tietoturvalinkin suojaamalla yksityisiä tietojasi, ennen kuin ne kulkevat Internetissä, ja se myös piilottaa IP-osoitteesi, mikä auttaa suojaamaan henkilöyttäsi ja sijaintiasi. Se ei kuitenkaan estä sinua napsauttamasta epäilyttäviä linkkejä, lataamasta haittaohjelmia tai joutumasta sähköpostipetosten uhriksi. Sinun on silti harjoitettava <a href="{ $book }">hyviä tapoja pysyäksesi turvassa verkossa</a>.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, luotettava VPN-palvelu
 # Variables

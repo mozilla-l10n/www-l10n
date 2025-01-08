@@ -13,8 +13,6 @@ vpn-download-sub-heading = { -brand-name-mozilla-vpn } შეგიძლია�
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } გთავაზობთ უსაფრთხო და საიმედო დაცვას ყველა გავრცელებული საოპერაციო სისტემისთვის.
 vpn-download-not-available-in-country = სამწუხაროდ { -brand-name-mozilla-vpn } მიუწვდომელია თქვენს ქვეყანაში.
 vpn-download-button-copy = ჩამოტვირთვა
-# Obsolete string
-vpn-download-for-windows = VPN { -brand-name-windows } 10/11-ზე
 vpn-download-for-windows-v2 = VPN { -brand-name-windows }-ზე
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-ბიტიანზე მხოლოდ)
 vpn-download-for-windows-long = ჩამოტვირთეთ { -brand-name-mozilla-vpn } { -brand-name-windows }-ზე
@@ -32,8 +30,6 @@ vpn-download-for-android = VPN { -brand-name-android }-ზე
 vpn-download-for-android-long = ჩამოტვირთეთ { -brand-name-mozilla-vpn } { -brand-name-android }-ზე
 vpn-download-for-ios = VPN { -brand-name-ios }-ზე
 vpn-download-for-ios-long-v2 = ჩამოტვირთეთ { -brand-name-mozilla-vpn } { -brand-name-ios }-ზე
-# Obsolete string
-vpn-download-for-ios-long = ჩამოტვირთეთ { -brand-name-mozilla-vpn } { -brand-name-ios }-ზე
 vpn-download-get-on-google-play = იხილეთ { -brand-name-google-play } Store
 vpn-download-get-on-app-store = იხილეთ { -brand-name-app-store }
 vpn-download-based-on-your = თქვენი მოწყობილობის მიხედვით

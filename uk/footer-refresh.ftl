@@ -41,5 +41,3 @@ footer-refresh-community-participation-guidelines = Настанови щодо 
 footer-refresh-about-this-site = Про цей сайт
 footer-refresh-all-languages = Усі мови
 footer-refresh-language = Мова
-footer-refresh-primary-nav-aria-label = Основний колонтитул
-footer-refresh-secondary-nav-aria-label = Додатковий колонтитул

@@ -32,7 +32,7 @@ vpn-when-to-use-for-the-most = La mayoría de las escenarios mencionados en los 
 vpn-when-to-use-because-your-internet = Debido a que su tráfico de Internet en casa se mueve desde y hacia sus dispositivos a través de su proveedor de servicios de Internet (ISP para abreviar), pueden ver dónde se conecta en línea. Un ISP puede ver qué sitios visitas, cuánto tiempo estás en ellos, tu ubicación e información sobre tus dispositivos. Es posible que un ISP no conozca los detalles de lo que hizo en esos sitios (como lo que compró, buscó o leyó) gracias al cifrado, pero podría hacer inferencias sobre usted en función de los sitios que visitó. Los ISP pueden utilizar esos datos personales para crear perfiles detallados sobre usted. Navegar en modo privado no impide que los ISP vean dónde se conecta. Pero enviar su tráfico web a través de una VPN puede hacerlo mucho más difícil.
 vpn-when-to-use-make-sure-you = Asegurate de entender lo que una VPN no hace
 # Variables
-#   $book (url) - https://www.mozilla.org/firefox/privacy/book/
+#   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
 vpn-when-to-use-a-vpn-provides = Una VPN provee un importante link  de seguridad para proteger tus datos privados antes de que sean enviados a través de internet; y también oculta tu dirección IP, ayudándote a proteger tu identidad y ubicación. Sin embargo, no te previene de cosas como hacer clic en links sospechosos, descargar virus o ser víctima de fraudes por correo electrónico. Tú aún necesitarás practicar <a href="{ $book }">buenos hábitos para permanecer seguro en línea</a>
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, un servicio VPN confiable
 # Variables

@@ -13,14 +13,6 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } ombyaty 
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = <a { $fxa }>{ -brand-name-mozilla-account } reigua reheve</a> embojuehekuaa tekorosãme ne ñe’ẽñemi opaite ne mba’e’okápe. Avei eikukuaa opaite ambue apopyre { -brand-name-mozilla } mba’évape omomba’éva tekoñemi.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-mozilla-account = Peteĩ <a href="{ $fxa }">{ -brand-name-mozilla-account } reigua</a> embojuehekuaa tekorosãme ne ñe’ẽñemi opaite ne mba’e’okakuérare.
-# Obsolete string
-# Variables:
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-password-manager-with-a-free-firefox-account = Peteĩ <a href="{ $fxa }">mba’ete { -brand-name-firefox } reigua</a> embojuehekuaa tekorosãme ne ñe’ẽñemi opaite ne mba’e’okakuérare.
 password-manager-password-autofill-for-easy-logins = Ñe’ẽñemi myanyhẽ jehegui tembiapo ñepyrũrã
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } omyanyhẽkuaa ijehegui nde poruhára réra ha ñe’ẽñemi ñongatupyre. Eguerekovéramo peteĩgui tembiapo ñepyrũpyre tendápe, eiporavokuaa oimeraẽva mba’ete ha oĩma.
 # Used as an accessible text alternative for an image

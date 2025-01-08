@@ -13,8 +13,6 @@ features-private-browsing-firefox-protects = Mae { -brand-name-firefox } yn diog
 features-private-browsing-if-you-share-a-computer = Os ydych yn rhannu cyfrifiadur gyda phobl eraill neu os ydych am gyfyngu ar faint o ddata y gall gwefannau ei gasglu amdanoch, gallwch ddefnyddio modd pori preifat yn { -brand-name-firefox }. Mae pori preifat yn dileu'r traciau digidol rydych chi'n eu gadael ar ôl pan fyddwch chi'n pori ar-lein - meddyliwch amdanyn nhw fel olion traed trwy'r coed.
 features-private-browsing-what-does-private-browsing-do = Beth mae pori preifat yn ei wneud?
 features-private-browsing-private-browsing-mode-opens-v2 = Mae'r modd pori preifat yn agor ffenestr porwr newydd. Pan fyddwch chi'n cau'r ffenestr bori breifat ddiwethaf, bydd eich hanes pori ac unrhyw gwcis tracio o wefannau y gwnaethoch chi ymweld â nhw yn cael eu dileu. Cyngor  <strong>{ -brand-name-firefox } :</strong> Peidiwch ag anghofio cau eich holl ffenestri pori preifat pan fyddwch wedi gorffen!
-# Obsolete string (expires: 2024-07-18)
-features-private-browsing-private-browsing-mode-opens = Mae'r modd pori preifat yn agor ffenestr porwr newydd. Pan fyddwch chi'n ei chau, bydd eich hanes pori ar gyfer y ffenestr honno ac unrhyw gwcis tracio o wefannau y gwnaethoch chi ymweld â nhw yn cael eu dileu. <strong>{ -brand-name-firefox } Cyngor Da:</strong> Peidiwch ag anghofio cau'r ffenestr bori breifat pan fyddwch wedi gorffen!
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = Ffenestr porwr { -brand-name-firefox } yn y modd pori preifat.
 features-private-browsing-what-private-browsing-doesnt-do = Yr hyn nad yw pori preifat yn ei wneud

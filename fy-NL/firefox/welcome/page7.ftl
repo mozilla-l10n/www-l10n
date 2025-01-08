@@ -18,9 +18,5 @@ page7-that-sneaky-little-button = Dat stikeme knopke
 page7-those-innocent-looking-f-buttons = Dy ûnskuldich eagjende F-knoppen fan { -brand-name-facebook } folgje jo webaktiviteit, sels as jo gjin account hawwe. { -brand-name-facebook-container } blokkearret se.
 page7-stay-ahead-of-hackers = Bliuw hackers foar
 page7-firefox-monitor-lets-you-find-v2 = Mei { -brand-name-mozilla-monitor } kinne jo ûntdekke wat hackers al fan jo witte en helpt jo harren in stap foar te bliuwen. (En it is fergees.)
-# Obsolete string
-page7-firefox-monitor-lets-you-find = Mei { -brand-name-firefox-monitor } kinne jo ûntdekke wat hackers al fan jo witte en helpt jo harren in stap foar te bliuwen. (En it is fergees.)
 page7-get-mozilla-monitor = { -brand-name-mozilla-monitor } downloade
-# Obsolete string
-page7-get-firefox-monitor = Brûk { -brand-name-firefox-monitor }
 page7-why-am-i-seeing-this = Wêrom sjoch ik dit?

@@ -16,8 +16,6 @@ welcome-page8-enhanced-tracking-protection = Izboljšana zaščita pred sledenje
 welcome-page8-automatically-block-sites = Samodejno preprečite spletnim mestom, da bi vam sledila po spletu.
 welcome-page8-see-whats-blocked = Preverite, kaj je zavrnjeno
 welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-welcome-page8-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page8-see-what-youve-been = Preverite, ali ste bili vpleteni v znane spletne kraje podatkov in ukrepajte, da jih razrešite.
 welcome-page8-go-to-monitor = Obiščite { -brand-name-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }

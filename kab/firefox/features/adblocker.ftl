@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
@@ -16,22 +16,12 @@ features-adblocker-an-ad-blocker-is-a-piece = Amsewḥel n udellel d aseɣzan i 
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Adellel-a izmer ad yili d tividyutin iẓeddmen, d adellel izemren ad k-yedfeṛ deg Web, d ineḍfaṛen, d inagan n tuqqna, atg. Akken ad tesqedceḍ imsewḥalen n udellel, tzemreḍ ad tnadiḍ izegrar yellan deg yiminig-nneɣ. <a href="{ $firefox }">{ -brand-name-firefox }</a>, d amedya kan, yesɛa <a href="{ $addons }">tabdart-a n yizegrar n usewḥel yettwaqeblen</a>. Sit ɣef tebdart-a (neɣ ɣef imsewḥalen n udellel yettwaqeblen i yiminig-ik) daɣen wali anwa i icudden ɣer wayen teḥwaǧeḍ.
 features-adblocker-find-the-right-ad-blocker = Af amsewḥel n udellel i k-m-iwulmen
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = Yella <a href="{ $url }">AdBlocker Ultimate</a> ara ak-yekksen akk adellel, Maca ẓeṛ d akken kra n yiɣmisen akked tesɣunin tḥemmleḍ senden ɣef udellel. Ddeqs n yimdanen i yessewḥalen adellel-nsen, izmer ad d-yeglu s lexṣara-nsen.
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Isfuyla nudelllel udhimen weɛren. Sewḥel-iten s <a href="{ $url }">Popup Blocker</a> akken ur ǧin ad teǧǧeḍ ad ak-d-banen tikkelt-nniḍen.
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = <a href="{ $url }">AdBlock</a> d yiwen seg imsewḥal n udellel i yettwassnen deg { -brand-name-chrome }, { -brand-name-safari } akked { -brand-name-firefox }. Seqdec-it akken ad tesweḥleḍ adellel deg { -brand-name-facebook }, { -brand-name-youtube } akked { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = Rnu amḍiq i tunigin war aḍfaṛ s usewḥel n ugbur
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = Deg { -brand-name-firefox }, tzemreḍ ad tṣeggmeḍ iɣewwaren n <a href="{ $privacy }">Tbaḍniḍ</a> neɣ <a href="{ $blocking }">Asewḥel n ugbur</a> akked ad tesɛuḍ afus ɣef yineḍfaren i yettaznen adellel.
 features-adblocker-choose-your-level-of-protection = Fren aswir n taɣellist
-features-adblocker-to-start-click-on-the = Akken ad tebduḍ, sit ɣef umuɣ { -brand-name-firefox } ukessawen s ayeffus n usfaylu n yinimig. D kraḍ n yizirigen iglawanen wa ɣef wa. Deg umuɣ adruram, sit ɣef Asewḥel n ugbur. Ilaq ad twaliḍ asfaylu udhim amidadi s ddeqs n yisumar n ufran.
 features-adblocker-go-easy-with-standard = Ddu s wudem fessusen ɣer uskar n tizeɣt
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -53,7 +43,3 @@ features-adblocker-send-a-do-not-track-signal = Send tamul n war aḍfar
 features-adblocker-if-you-dont-want-your = Ma yella ur tebɣiḍ ara yir tikli srid i yettwaseqdacen i udellel, tzemreḍ ad tazneḍ i yismal tabrat tuḥdiqt “tanemmirt maca ulac tanemmirt” s usefqed n uɣewwar n { -brand-name-firefox } <a href="{ $url }">Ur yi-ṭṭafaṛ ara</a>. Attekki s lebɣi-ik, maca ismal web ara ttekkin ad ḥebsen aḍfaṛ-ik imiren kan.
 features-adblocker-speed-up-thanks-to-ad = Tunigin s zreb s useqdec n yimsewḥal n udellel
 features-adblocker-in-some-cases-an-ad-blocker = Tikwal, amseḥel n udellel yezmer ad imudd tallelt i yiminig-ik akken ad yeddu s zreb. Ticki yettali-d udellel, yezmer ad yerr asmel ẓẓay. Ihi, ad yawi ugar n wagud akken ad d-yaf ayen i tettnadiḍ ladɣa ma tceɣleḍ deg umdal n udellel-nniden.
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more = Ma tebɣiḍ ad tissineḍ ugar ɣef yisewḥal n udellel, llan imeyyaten n yisiɣzaf i { -brand-name-firefox } akked yiminigen-nniden. Ma tebɣid ad tɛerḍeḍ imsewḥal i yesseqdac { -brand-name-firefox }, <a href="{ $url }">Sit dagi i usader</a> n yiminig i zeggiren tabadnit.
-features-adblocker-take-control-of-your-browser = Ṭṭef asenqed n iminig-innek/innem.

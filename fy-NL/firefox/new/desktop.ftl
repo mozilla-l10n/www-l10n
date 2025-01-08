@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } waard tro
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Wylst it ynternet groeit en wiziget, bliuwt { -brand-name-firefox } him konsintrearje op jo rjocht op privacy – wy neame it de <a { $attrs }>Persoanlike Gegevensbelofte</a>: Nim minder. Hâld it feilich. Gjin geheimen. Jo gegevens, jo webaktiviteit en jo online libben wurde beskerme mei { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } is beskikber op al jo apparaten; nim jo ljepblêden, skiednis en blêdwizers mei. Jo hawwe allinnich in <a { $attrs }>{ -brand-name-firefox }-account</a> nedich.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } is beskikber op al jo apparaten; nim jo ljepblêden, skiednis en blêdwizers mei. It iennige dat jo nedich hawwe, is in <a { $attrs }>{ -brand-name-mozilla-account }</a>, en jo krije tagong ta syngronisaasje en mear { -brand-name-mozilla }-produkten.
@@ -146,13 +142,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Fragen? <a { $attrs }>{ -brand-name-mozilla }-stipe </a> is der foar jo.
-# The phrase “Now get even more from Firefox” is in specific reference to signing up for an account, which unlocks access to all our new products and services.
-firefox-desktop-download-youve-already-got-the-browser = Jo hawwe de browser al. Helje no noch mear út { -brand-name-firefox }.
 firefox-desktop-download-watch-for-hackers-with-v3 = Let op hackers mei { -brand-name-mozilla-monitor }, beskermje jo e-mailadres mei { -brand-name-firefox-relay }, en mear.
-# Obsolete string
-firefox-desktop-download-watch-for-hackers-with-v2 = Let op hackers mei { -brand-name-firefox-monitor }, beskermje jo e-mailadres mei { -brand-name-firefox-relay }, en mear.
-firefox-desktop-download-get-more-from-firefox = Helje mear út { -brand-name-firefox }
-firefox-desktop-download-just-download-the-browser = Download gewoanwei de browser
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -190,4 +180,3 @@ firefox-desktop-download-please-follow = Folgje <a href="{ $url }">dizze ynstruk
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Jo systeem foldocht mooglik net oan de easken foar { -brand-name-firefox }, mar jo kinne ien fan <a href="{ $url }">dizze ferzjes</a> probearje.
-firefox-desktop-download-taskbar = { -brand-name-firefox } sil nei ynstallaasje fêstmakke wurde oan de { -brand-name-windows }-taakbalke

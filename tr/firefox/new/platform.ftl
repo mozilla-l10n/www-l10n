@@ -17,7 +17,7 @@ new-platform-advanced-install-options = Gelişmiş yükleme seçenekleri ve diğ
 new-platform-download-in-another = Başka bir dilde indir
 new-platform-need-help = Yardım mı lazım?
 
-## Linux
+# Linux
 
 new-platform-download-mozilla-linux = { -brand-name-linux } için { -brand-name-mozilla } { -brand-name-firefox }'u indir
 # /firefox/linux/ HTML page description

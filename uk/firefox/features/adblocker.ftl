@@ -31,18 +31,6 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> – т
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Ці розширення чудово працюють як із <a { $attrs1 }>{ -brand-name-firefox } для комп'ютера</a>, так і з версією для <a { $attrs2 }>Android</a>.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = <a href="{ $url }">AdBlocker Ultimate</a> прибирає кожне рекламне оголошення, але слід пам'ятати. Деякі з ваших улюблених вебсайтів покладаються на прибуток від реклами. Якщо надто багато користувачів блокуватимуть їхню рекламу, це може зашкодити їхньому бізнесу.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Спливні оголошення найгірші. Блокуйте їх за допомогою <a href="{ $url }">Popup Blocker</a> і ніколи більше не стикайтеся з ними.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Одним з найпопулярніших блокувальників реклами для { -brand-name-chrome }, { -brand-name-safari } і { -brand-name-firefox } є <a href="{ $url }">AdBlock</a>. Використовуйте його для блокування реклами на { -brand-name-facebook }, { -brand-name-youtube } та { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = Створіть вільну від стеження зону за допомогою блокування вмісту
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

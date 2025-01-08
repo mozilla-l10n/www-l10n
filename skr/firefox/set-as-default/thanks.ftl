@@ -22,10 +22,6 @@ set-as-default-thanks-youre-all-set = تساں بالکل تیار ہو۔
 set-as-default-thanks-get-firefox-for-mobile = موبائل کیتے { -brand-name-firefox } گھنو
 set-as-default-thanks-travel-the-internet-with = آپݨی ہر ڈیوائس تے حفاظت نال انٹرنیٹ دا پن٘دھ کرو۔
 set-as-default-thanks-download-the-app = ایپ ڈاؤن لوڈ کرو
-# Obsolete string
-set-as-default-thanks-join-firefox = { -brand-name-firefox } وچ رلت کرو
-# Obsolete string
-set-as-default-thanks-sign-up-for-a-free-account = مفت اکاؤنٹ کیتے سائن اپ کرو تے اپݨے تمام پاس ورڈز، براؤزنگ تاریخ، تے ترجیحاں کوں اپݨے تمام آلات تے مطابقت پذیر بݨاؤ۔
 set-as-default-create-an-account = کھاتہ بݨاؤ
 set-as-default-thanks-sign-up-for-a-free-account-v2 = مفت { -brand-name-mozilla-account } کیتے سائن اپ کرو تے اپݨے تمام پاس ورڈز، براؤزنگ تاریخ، تے ترجیحاں کوں اپݨے تمام آلات تے مطابقت پذیر بݨاؤ۔
 # Account here refers to a Firefox Account

@@ -59,4 +59,3 @@ firefox-new-fast = Швидкий, приватний і вільний
 firefox-new-from-mozilla = від { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } — безплатний браузер зі швидким завантаженням сторінок, меншим використанням пам'яті та безліччю можливостей і є проєктом неприбуткової організації { -brand-name-mozilla }.
 firefox-new-download-a-different = Завантажити для інших платформ або мов
-firefox-new-taskbar = { -brand-name-firefox } буде закріплено на панелі завдань { -brand-name-windows } після встановлення

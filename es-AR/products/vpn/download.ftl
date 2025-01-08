@@ -13,8 +13,6 @@ vpn-download-sub-heading = Podes descargar { -brand-name-mozilla-vpn } en hasta 
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } ofrece protección segura para los principales sistemas operativos.
 vpn-download-not-available-in-country = { -brand-name-mozilla-vpn } no está disponible para descargar en tu país.
 vpn-download-button-copy = Descargar
-# Obsolete string
-vpn-download-for-windows = VPN para { -brand-name-windows } 10/11
 vpn-download-for-windows-v2 = VPN para { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (solo 64-bit)
 vpn-download-for-windows-long = Descargar la { -brand-name-mozilla-vpn } para { -brand-name-windows }
@@ -32,8 +30,6 @@ vpn-download-for-android = VPN para { -brand-name-android }
 vpn-download-for-android-long = Descargar la { -brand-name-mozilla-vpn } para { -brand-name-android }
 vpn-download-for-ios = VPN para { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Descargar la { -brand-name-mozilla-vpn } para { -brand-name-ios }
-# Obsolete string
-vpn-download-for-ios-long = Descargar la VPN { -brand-name-mozilla-vpn } para { -brand-name-ios }
 vpn-download-get-on-google-play = Conseguila en la tienda { -brand-name-google-play }
 vpn-download-get-on-app-store = Conseguila en la { -brand-name-app-store }
 vpn-download-based-on-your = Según tu dispositivo actual

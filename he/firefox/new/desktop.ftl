@@ -117,4 +117,3 @@ firefox-desktop-download-please-follow = נא לעקוב אחר <a href="{ $url 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = ייתכן שהמערכת שלך לא עומדת בדרישות עבור { -brand-name-firefox }, אבל ניתן לנסות אחת מ<a href="{ $url }">גרסאות אלו</a>.
-firefox-desktop-download-taskbar = ‏{ -brand-name-firefox } יוצמד לשורת המשימות של { -brand-name-windows } לאחר ההתקנה

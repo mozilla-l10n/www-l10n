@@ -54,19 +54,10 @@ vpn-download-faq-working = Nga ta di që VPN-ja po funksionon?
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.mozilla.org/
 vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } shfaq tregues pamorë të gjendjes së vet në një çast, si te paneli, ashtu dhe te skena e kreut për aplikacionin, duke e bërë të lehtë të dihet nëse veprimtaria juaj internetore është e mbrojtur apo jo. Këtë tregues ju lejojnë të siguroheni se kur shfletimi juaj është privat dhe i siguruar. Veç kësaj, kur jeni i lidhur, mund të vizitonit <a href="{ $monitor }">https://monitor.mozilla.com/</a> për t’u siguruar se adresa juaj IP është e maskuar. Për më tepër hollësi, ju lutemi, shihni <a href="{ $connected }">Si ta kuptoj se { -brand-name-mozilla-vpn } është e lidhur?</a>.
-# Obsolete string
-# Variables:
-#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
-#   $monitor (url) link to https://monitor.firefox.com/
-vpn-download-faq-visual-indicators = { -brand-name-mozilla-vpn } shfaq tregues pamorë të gjendjes së vet në një çast, si te paneli, ashtu dhe te skena e kreut për aplikacionin, duke e bërë të lehtë të dihet nëse veprimtaria juaj internetore është e mbrojtur apo jo. Këtë tregues ju lejojnë të siguroheni se kur shfletimi juaj është privat dhe i siguruar. Veç kësaj, kur jeni i lidhur, mund të vizitonit <a href="{ $monitor }">https://monitor.firefox.com/</a> për t’u siguruar se adresa juaj IP është e maskuar. Për më tepër hollësi, ju lutemi, shihni <a href="{ $connected }">Si ta kuptoj se { -brand-name-mozilla-vpn } është e lidhur?</a>.
 vpn-download-faq-add-device = Si të shtoj pajisje tjetër?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v3 = Shtimi i një pajisjeje tjetër është aq thjeshtë sa shkarkimi dhe instalimi i software-it { -brand-name-mozilla-vpn }  dhe mandej hyrja në llogarinë tuaj ekzistuese { -brand-name-mozilla-account } te pajisja e re. Për më tepër hollësi, ju lutemi, shihni <a href="{ $subscription }">Si të shtohen pajisje te pajtimi juaj { -brand-name-mozilla-vpn }</a>.
-# Obsolete string
-# Variables:
-#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v2 = Shtimi i një pajisjeje tjetër është aq thjeshtë sa shkarkimi dhe instalimi i software-it { -brand-name-mozilla-vpn }  dhe mandej hyrja në llogarinë tuaj ekzistuese { -brand-name-firefox-account } te pajisja e re. Për më tepër hollësi, ju lutemi, shihni <a href="{ $subscription }">Si të shtohen pajisje te pajtimi juaj { -brand-name-mozilla-vpn }</a>.
 vpn-download-faq-best-practices = Cilat janë disa nga praktikat më të mira me VPN-të?
 vpn-download-faq-traffic = Nëse synimi juaj është të mbroni trafikun internet, teksa ruani shpejtësi të mirë, atëherë është gjithmonë më mirë të zgjidhet një vendndodhje shërbyesi që është sa më afër të mundet me vendndodhjen tuaj të njëmendtë. Kjo do të shtojë qëndrueshmërinë dhe shpejtësinë e lidhjes tuaj, ngaqë trafiku juaj internet s’do të ketë nevojë të bëjë një xhiro të madhe, para se të arrijë në vendmbërritjen e synuar në web.
 vpn-download-faq-experience = Nëse synimi juaj është të punoni në internet sikur të ishit në ndonjë pjesë tjetër të botës, mund të zgjidhni një vendndodhje shërbyesi atje dhe krejt sajtet tuaj do të shfaqen sikur të qetë atje.

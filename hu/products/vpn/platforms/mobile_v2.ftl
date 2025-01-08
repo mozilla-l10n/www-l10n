@@ -12,12 +12,6 @@ vpn-mobile-in-todays = A mai mobilközpontú világban a mobiltelefonokra és es
 vpn-mobile-why-do-i = Miért van szükségem egy mobilos VPN-re?
 vpn-mobile-the-mozilla-vpn = A { -brand-name-mozilla-vpn } mobilalkalmazás kicsi, így nem használ sok memóriát, nem lassítja le a telefonját, és nem meríti le az akkumulátorát.
 vpn-mobile-your-internet-v2 = Az internetszolgáltatója lelassíthatja a sávszélességét, ha tudják, hogy filmeket néz, zenét hallgat vagy közvetítést néz.
-# Obsolete string
-vpn-mobile-your-internet = Az internetszolgáltatója lelassíthatja a sávszélességét, ha tudják, hogy filmeket néz, zenét hallgat vagy közvetítést néz
 vpn-mobile-your-isp-v2 = Az internetszolgáltatója blokkolhatja a nekik nem tetsző, vagy a saját termékeikkel versengő weboldalakat vagy szolgáltatásokat.
-# Obsolete string
-vpn-mobile-your-isp = Az internetszolgáltatója blokkolhatja a nekik nem tetsző, vagy a saját termékeikkel versengő weboldalakat vagy szolgáltatásokat
 vpn-mobile-hackers-can-steal-v2 = A hackerek ellophatják a személyes adatait, ha nyilvános Wi-Fi-t használ, például kávézókban vagy repülőtereken.
-# Obsolete string
-vpn-mobile-hackers-can-steal = A hackerek ellophatják a személyes adatait, ha nyilvános Wi-Fi-t használ, például kávézókban vagy repülőtereken
 vpn-mobile-a-vpn-works = A VPN nem csak a böngészőjében működik, hanem az egész eszközén, így a mobilalkalmazásaiban is. És ellentétben az ingyenes VPN-ekkel vagy a proxy oldalakkal, amelyek esetleg úgy fizetnek a kiszolgálóikért, hogy kémkednek Ön után és eladják az információit, a { -brand-name-mozilla } nem tárol nyilvántartást arról, hogy hová megy, és mit csinál.

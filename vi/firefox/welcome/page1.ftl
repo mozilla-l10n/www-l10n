@@ -7,22 +7,14 @@
 
 # HTML page title
 welcome-page1-more-than-a-browser-mozilla = Hơn cả một trình duyệt - { -brand-name-mozilla-monitor } là nơi bạn canh chừng tin tặc
-# Outdated string
-welcome-page1-more-than-a-browser-firefox = Không chỉ là một trình duyệt - { -brand-name-firefox-monitor } là sự chú ý của bạn đối với tin tặc
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Thực hiện bước tiếp theo để bảo vệ quyền riêng tư trực tuyến của bạn với dòng sản phẩm { -brand-name-firefox }.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Đi trước tin tặc. Kiểm tra rò rỉ dữ liệu với { -brand-name-mozilla-monitor }.
-# Obsolete string
-welcome-page1-stay-ahead-of-hackers-check = Đi trước tin tặc. Kiểm tra rò rỉ dữ liệu với { -brand-name-firefox-monitor }.
 welcome-page1-youre-on-track-to-stay-protected = Giữ nó và bạn sẽ tiếp tục được bảo vệ
 welcome-page1-youve-got-the-web-browser = Bạn đã có trình duyệt web bảo vệ quyền riêng tư của bạn — bây giờ đã đến lúc để tìm kiếm tin tặc.
 welcome-page1-check-your-breach-report = Kiểm tra báo cáo rò rỉ dữ liệu của bạn
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
-# Obsolete string
-welcome-page1-firefox-monitor = { -brand-name-firefox-monitor }
 welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } hiển thị cho bạn biết liệu thông tin của bạn có bị rò rỉ trong vụ rò rỉ dữ liệu đã biết hay không và cảnh báo cho bạn trong trường hợp điều đó xảy ra trong tương lai.
-# Obsolete string
-welcome-page1-firefox-monitor-shows-you = { -brand-name-firefox-monitor } cho bạn biết nếu thông tin của bạn bị rò rỉ trong một vụ rò rỉ dữ liệu đã biết và thông báo cho bạn trong trường hợp xảy ra trong tương lai.
 welcome-page1-stay-ahead-of-hackers = Đi trước tin tặc
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/

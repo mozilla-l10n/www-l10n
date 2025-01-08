@@ -10,8 +10,6 @@ cookie-settings-page-desc = Iste pagina describe le differente typos de cookies 
 cookie-settings-breadcrumb-link = Previe pagina
 cookie-settings-explainer = Cookies es parve files que contine pecias de informationes que es salvate sur tu computator o apparato quando tu visita un sito web. { -brand-name-mozilla } usa Cookies pro adjutar a facer functionar nostre sitos web, e a colliger informationes sur como tu usa e interage con nostre sitos web, tal como le paginas que tu visita.
 cookie-settings-page-intro-v2 = Iste pagina describe le typos de cookies differente e le technologias simile (tal como etiquettas de pixels, pharos de web, GIFs transparente, JavaScript, e immagazinage local) (in avante, “cookies”) que { -brand-name-mozilla } pote usar, e te da controlo super ille typos de datos que tu concorda colliger con { -brand-name-mozilla }
-# Obsolete string (expires: 2024-07-01)
-cookie-settings-page-intro = Iste pagina describe le typos de cookies differente e le technologias simile (tal como etiquettas de pixels, pharos de web, GIFs transparente, JavaScript, e immagazinage local) (“cookies”) que { -brand-name-mozilla } pote usar, e te da controlo super ille typos de datos que tu concorda colliger con { -brand-name-mozilla }.
 cookie-settings-how-mozilla-heading = Como { -brand-name-mozilla } usa le cookies
 cookie-settings-how-does-mozilla-use-subheading = Como usa { -brand-name-mozilla } iste datos?
 cookie-settings-save-changes = Salvar le cambiamentos

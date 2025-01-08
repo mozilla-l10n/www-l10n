@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = { -brand-name-firefox }’u Türkçe veya 90 farklı dilde indirin
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = { -brand-name-firefox-browser }nı Türkçe veya 90 farklı dilde indirin
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = İnternet herkes için var. Bizce diliniz, internete erişmenize engel olmamalı. Bu yüzden { -brand-name-firefox }’u gönüllülerimizin de yardımıyla 90’dan fazla dilde sunuyoruz.
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = İnternet herkes için var. Bizce diliniz, internete erişmenize engel olmamalı. Bu yüzden { -brand-name-firefox-browser }nı gönüllülerimizin de yardımıyla 90’dan fazla dilde sunuyoruz.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = <em>{ $product_name }</em> uygulamasını indirmek için QR kodunu okutun
@@ -26,14 +22,8 @@ firefox-all-change-language = Farklı bir dil seç
 firefox-all-down-arrow = Aşağıdaki listeden seçin
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Yardım alın
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = Tarayıcı:
 firefox-all-browser-v2 = 1. Tarayıcı:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = Platform:
 firefox-all-platform-v2 = 2. Platform:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = Dil:
 firefox-all-language-v2 = 3. Dil:
 firefox-all-download = 4. İndirme:
 firefox-all-desktop = Bilgisayar

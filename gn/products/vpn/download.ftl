@@ -13,8 +13,6 @@ vpn-download-sub-heading = Emboguejykuaa { -brand-name-mozilla-vpn } pe { $devic
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } ome’ẽse ñemo’ã hekorosãva opavavete apopyvusu omba’apóvape.
 vpn-download-not-available-in-country = Rombyasy, { -brand-name-mozilla-vpn } neremboguejykuaamo’ãi ko’ag̃aite ne retãme.
 vpn-download-button-copy = Mboguejy
-# Obsolete string
-vpn-download-for-windows = VPN for { -brand-name-windows } 10/11 peg̃uarã
 vpn-download-for-windows-v2 = VPN { -brand-name-windows } peg̃uarã
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit añoitépe)
 vpn-download-for-windows-long = Emboguejy { -brand-name-mozilla-vpn } { -brand-name-windows } peg̃uarã
@@ -32,8 +30,6 @@ vpn-download-for-android = VPN { -brand-name-android } peg̃uarã
 vpn-download-for-android-long = Emboguejy { -brand-name-mozilla-vpn } { -brand-name-android } peg̃uarã
 vpn-download-for-ios = VPN { -brand-name-ios } peg̃uerã
 vpn-download-for-ios-long-v2 = Emboguejy { -brand-name-mozilla-vpn } { -brand-name-ios } peg̃uarã
-# Obsolete string
-vpn-download-for-ios-long = Emboguejy VPN { -brand-name-mozilla-vpn } { -brand-name-ios } peg̃uarã
 vpn-download-get-on-google-play = Erekokuaa { -brand-name-google-play } Store rupi
 vpn-download-get-on-app-store = Erekokuaa { -brand-name-app-store } rupi
 vpn-download-based-on-your = Ne mba’e’oka ag̃aguáicha

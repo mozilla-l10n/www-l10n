@@ -1,9 +1,9 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/privacy
+### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
 privacy-index-mozilla-privacy = மொசில்லா தனியுரிமை
@@ -12,7 +12,7 @@ privacy-index-if-you-want-to-make-a-correction = உங்கள் தகவல
 privacy-index-data-privacy-principles = தரவு தனியுரிமை கொள்கைகள்
 privacy-index-transparency-report = வெளிப்படைத்தன்மை அறிக்கை
 # Variables:
-#   $group (url) - link to https://groups.google.com/forum/?fromgroups#!forum/mozilla.governance
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = எங்கள் தனியுரிமை கொள்கைகளின் எதிர்வரும் மாற்றங்களின் மீது கருத்திடுவதற்கு, <a href="{ $group }"> மொசில்லாவின் ஆட்சி குழுவுக்கு சந்தாப்படுத்துக</a>.
 privacy-index-outdated-policies = காலாவதியான கொள்கைகள்
 privacy-index-mozilla-websites-communications = { -brand-name-mozilla }வின் தளங்கள், தகவற்பரிமாற்றங்கள் &amp; நினைவிகள்

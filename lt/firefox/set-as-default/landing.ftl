@@ -1,14 +1,14 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/
 
 # HTML page title
 set-as-default-landing-make-firefox-your-default = Paskirti „{ -brand-name-firefox }“ jūsų numatytąja naršykle
-set-as-default-landing-make-sure-youre-protected = Nepamirškite apsisaugoti – kaskart kai naršote
 set-as-default-landing-thanks-for-using-the = Dėkojame, kad naudojatės paskiausia „{ -brand-name-firefox }“ naršyklės laida. Pasirinkdami „{ -brand-name-firefox }“, pasisakote už kokybiškesnį saityną – sau ir visiems. Dabar ženkite kitą žingsnį savęs apsaugojimo kelyje.
+set-as-default-landing-make-sure-youre-protected = Nepamirškite apsisaugoti – kaskart kai naršote
 set-as-default-landing-choose-automatic-privacy = Rinkitės automatinį privatumą
 set-as-default-landing-companies-keep-finding = Korporacijos nuolat randa naujų būdų pasinaudoti jūsų asmeniniais duomenimis. „{ -brand-name-firefox }“ naršyklės misija – rasti naujų būdų jus nuo to apsaugoti.
 set-as-default-landing-choose-freedom-on-every = Rinkitės laisvę visuose įrenginiuose

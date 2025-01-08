@@ -7,8 +7,6 @@
 
 consent-banner-heading = Help ús jo { -brand-name-mozilla }-ûnderfining te ferbetterjen
 consent-banner-body-v2 = Njonken cookies dy’t nedich binne om dizze website funksjonearje te litten, freegje wy jo tastimming foar it pleatsen fan inkelde oanfoljende cookies om jo sneupbehoeften better te begripen en jo ûnderfining te ferbetterjen. Wês gerêst – wy wurdearje jo privacy.
-# Obsolete string (expires: 2024-07-22)
-consent-banner-body = Njonken cookies dy’t nedich binne om dizze website funksjonearje te litten, freegje wy jo tastimming foar it pleatsen fan inkelde oanfoljende cookies om jo sneupbehoeften better te begripen en jo ûnderfining te ferbetterjen. Wês gerêst – wy wurdearje jo privacy.
 consent-banner-button-reject = Alle oanfoljende cookies wegerje
 consent-banner-button-accept = Alle oanfoljende cookies akseptearje
 consent-banner-settings-link = Cookie-ynstellingen

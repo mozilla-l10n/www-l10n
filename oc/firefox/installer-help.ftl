@@ -14,5 +14,3 @@ installer-help-action-choose = Causissètz un telecargament çai-jos.
 
 ##
 
-installer-help-firefox-developer-title = { -brand-name-firefox-browser } { -brand-name-developer-edition }
-installer-help-firefox-nightly-title = { -brand-name-firefox-browser } { -brand-name-nightly }

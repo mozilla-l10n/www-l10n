@@ -10,10 +10,6 @@ mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -bran
 # HTML description
 mobile-android-firefox-browser-for = El navegador { -brand-name-firefox } para { -brand-name-android } es rápido, seguro y privado desde la primera vez que lo abres.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string - "Indie" is US slang for "independent". Alternative: "Go independent with Firefox for Android"
-mobile-android-go-mobile-go = Vuélvete móvil. Vuélvete independiente con { -brand-name-firefox } para { -brand-name-android }
-# Obsolete string
-mobile-android-when-you-download = Cuando descargas { -brand-name-firefox }, estás eligiendo apoyar a una empresa de tecnología independiente. { -brand-name-firefox } es el único navegador importante respaldado por una organización sin fines de lucro que lucha por brindarte más apertura, transparencia y control de tu vida en línea.
 mobile-android-get-firefox-for = Obtén { -brand-name-firefox } para { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Envía un enlace de descarga a tu teléfono.
 mobile-android-scan-the-qr-code-to-get-started = Escanea el código QR para comenzar

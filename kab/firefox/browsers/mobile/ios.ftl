@@ -7,12 +7,7 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } & { -brand-name-ipad })
-# HTML description
-# Obsolete string
-mobile-ios-firefox-browser-for = Iminig { -brand-name-firefox } i { -brand-name-ios } d arura, d aɣellsan, d uslig seg mi ara t-teldiḍ.
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-mobile-ios-get-automatic-privacy = Faṛes tabaḍnit tawurmant ɣef { -brand-name-iphone } akked { -brand-name-ipad } inek•inem
 mobile-ios-get-firefox-for = Sader { -brand-name-firefox } i { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Azen aseɣwen n usader ɣer tiliɣri-ik.
 mobile-ios-scan-the-qr-code-to-get-started = Ṭṭef tangalt QR akken ad tebduḍ
@@ -28,10 +23,6 @@ mobile-ios-get-to-your-go-to = Kcem s zzerb ɣer yismal i tḥemmleḍ ɣef { -b
 mobile-ios-see-your-open-tabs = Wali akk accaren-ik•im yeldin, inadiyen yezrin d yismal teṭṭafareḍ deg yiwen wadeg s yiminig { -brand-name-firefox-browser } i { -brand-name-ios }.
 mobile-ios-own-your-home = Err agdil agejdan inek•inem
 mobile-ios-get-to-the-parts = Kcem s zzerb ɣer internet wuɣur terriḍ lwelha-k•m. Fren ad twaliḍ akk accaren-ik•im yeldin, inadiyen imaynuten, ticraḍ n yisebtar d yismal i tḥemmleḍ deg yiwen wadeg.
-# Obsolete string
-mobile-ios-add-firefox-across = Rnu { -brand-name-firefox } ɣef meṛṛa ibenkan-ik•im i tunigin taɣellsant, tafrawant. { -brand-name-sync } ibenkan-ik•im i wakken ad tawiḍ yid-k•m ticraḍ n yisebtar tḥemmleḍ, inekcam yettwaskelsen, awalen uffiren d uzray n tunigin anda ma teddiḍ. Rnu ɣer waya, azen accaren yeldin gar tiliɣri d tnarit i wakken ad tkemmleḍ ansi i tḥebseḍ.
 mobile-ios-find-it-all = Af kullec s zzerb
-# Obsolete string
-mobile-ios-keep-tabs-on = Sers tiṭ-ik•im ɣef meṛṛa ibenkan-ik•im
 mobile-ios-discover-more-of = Snirem ugar ɣef wayen i tḥemmleḍ
 mobile-ios-about-mozilla = Ɣef { -brand-name-mozilla }

@@ -35,3 +35,6 @@ download-button-firefox-android = { -brand-name-android } को लागि <s
 download-button-firefox-ios = { -brand-name-ios } को लागि<span>{ -brand-name-firefox }</span>
 download-button-firefox-privacy = { -brand-name-firefox } गोपनीयता
 download-button-download = डाउनलोड गर्नुहोस्
+
+## Linux
+

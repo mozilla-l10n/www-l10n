@@ -27,10 +27,6 @@ firefox-new-need-help = Патрэбна дапамога?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
 firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">больш не выпускае абнаўленні бяспекі</a> на { -brand-name-windows } { -brand-name-xp } ці { -brand-name-vista }, але вы ўсё яшчэ можаце карыстацца { -brand-name-firefox }.
-# Outdated string
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-youre-using-an-insecure-outdated = Вы выкарыстоўваеце неабароненую, састарэлую аперацыйную сістэму, якая <a href="{ $url }">больш не падтрымліваецца { -brand-name-firefox }</a>.
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
@@ -45,8 +41,6 @@ firefox-new-please-follow = Калі ласка, прытрымлівайцес�
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Ваша сістэма можа не задавальняць патрабаванням { -brand-name-firefox }, але вы можаце паспрабаваць адну з <a href="{ $url }">гэтых версій</a>:
 firefox-new-windows = { -brand-name-windows }
-# Outdated string
-firefox-new-windows-10 = { -brand-name-windows } 10
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Калі вы бачыце падказку, што праграма, якую вы спрабуеце ўсталяваць, не праверана фірмай { -brand-name-microsoft }, націсніце «Усталяваць усё роўна» або <a { $attrs }>змяніце параметры рэкамендацыі праграм</a>.
@@ -63,4 +57,3 @@ firefox-new-fast = Хуткі, прыватны і бясплатны
 firefox-new-from-mozilla = ад { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } — бясплатны браўзер з хуткай загрузкай старонак, меншым выкарыстаннем памяці і безліччу магчымасцей — праект некамерцыйнай арганізацыі { -brand-name-mozilla }.
 firefox-new-download-a-different = Сцягнуць для іншых платформ або на іншай мове
-firefox-new-taskbar = { -brand-name-firefox } будзе замацаваны на панэлі заданняў { -brand-name-windows } пасля ўсталявання

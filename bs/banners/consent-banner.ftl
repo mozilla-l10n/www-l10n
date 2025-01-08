@@ -7,8 +7,6 @@
 
 consent-banner-heading = Pomozite nam da poboljšamo vaše { -brand-name-mozilla } iskustvo
 consent-banner-body-v2 = Osim Kolačića neophodnih za funkcionisanje ove stranice, željeli bismo vašu dozvolu za postavljanje nekih dodatnih kolačića kako bismo bolje razumjeli vaše potrebe pretraživanja i poboljšali vaše iskustvo. Budite sigurni – cijenimo vašu privatnost.
-# Obsolete string (expires: 2024-07-22)
-consent-banner-body = Osim kolačića neophodnih za funkcionisanje ove stranice, željeli bismo vašu dozvolu za postavljanje nekih dodatnih kolačića kako bismo bolje razumjeli vaše potrebe pretraživanja i poboljšali vaše iskustvo. Budite sigurni – cijenimo vašu privatnost.
 consent-banner-button-reject = Odbijte sve dodatne kolačiće
 consent-banner-button-accept = Prihvatite sve dodatne kolačiće
 consent-banner-settings-link = Postavke kolačića

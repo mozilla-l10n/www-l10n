@@ -130,10 +130,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } vart utvi
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Etter kvart  som internett veks og endrar seg, held { -brand-name-firefox } fram med å fokusere på retten din til personvern  — vi kallar det <a { $attrs }>lovnad om private data</a>: Samle inn mindre. Oppbevar det trygt. Ingen hemmelegheiter. Dine data, din nettaktivitet og livet ditt på nettet er beskytta med { -brand-name-firefox }.
-# Obsolete string
-# Variables:
-#   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available = { -brand-name-firefox } er tilgjengeleg på alle einingane dine. Ta med fanene, historikken og bokmerka. Alt du treng er ein <a { $attrs }>{ -brand-name-firefox }-konto</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } er tilgjengeleg på alle einingane dine; ta med deg fanene dine, historikk og bokmerke. Alt du treng er ein <a { $attrs }>{ -brand-name-mozilla-account }</a> og du får tilgang till synkronisering og fleire { -brand-name-mozilla }-produkt.

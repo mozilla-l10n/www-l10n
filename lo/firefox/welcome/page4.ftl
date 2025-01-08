@@ -19,7 +19,7 @@ welcome-page4-firefox-private-safe-browser = “{ -brand-name-firefox }: ສ່�
 # "off your trail" is an expression for not being followed around.
 welcome-page4-get-data-trackers-off-your = ເອົາຕົວຕິດຕາມຂໍ້ມູນອອກຈາກເສັ້ນທາງຂອງທ່ານ
 # Variables:
-#   $privacy (url) - link to https://www.mozilla.org/firefox/privacy/products/ or https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop depending on locale.
+#   $privacy (url) - link to https://support.mozilla.org/kb/trackers-and-scripts-firefox-blocks-enhanced-track/
 welcome-page4-enhanced-tracking-protection = ການປົກປ້ອງການຕິດຕາມແບບປັບປຸງ <a href="{ $privacy }">ບລັອກ 2000+ ຕົວຕິດຕາມ</a> ບໍ່ໃຫ້ຕິດຕາມເຈົ້າໄປທົ່ວເວັບ.
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = ປ່ອຍໃຫ້ບໍ່ມີຮ່ອງຮອຍ

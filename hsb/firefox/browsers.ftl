@@ -10,9 +10,6 @@ firefox-browsers-page-title = Sćehńće { -brand-name-firefox } za desktop, mob
 # HTML page description
 firefox-browsers-page-desc = Wubjerće z desktopa, { -brand-name-ios }, { -brand-name-android } abo dowolće nam, zo wam wotkaz za sćehnjenje z e-mejlu na mobilny grat sćelemy.
 firefox-browsers-main-heading = Wobhladowaki { -brand-name-firefox }
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = Wobstarajće sej <strong>wobhladowaki</strong>, kotrež wašu priwatnosć na prěnim městnje steja - to je hižo přeco tak było
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Wobstarajće sej wobhladowaki, kotrež wašu priwatnosć na prěnim městnje steja - to je hižo <strong>přeco</strong> tak było
 firefox-browsers-desktop = Desktop

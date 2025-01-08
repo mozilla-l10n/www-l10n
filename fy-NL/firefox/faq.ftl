@@ -13,7 +13,7 @@ what-is-firefox = Wat is { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser = De { -brand-name-firefox-browser } is de iennige grutte browser dy’t stipe wurdt troch in bedriuw sûnder winsteachmerk, dat jo persoanlike gegevens net ferkeapet oan advertearders en tagelyk helpt jo persoanlike gegevens te beskermjen. Lês mear oer de <a href="{ $url }">{ -brand-name-firefox-browsers }</a> en <a href="{ $url2 }">oare produkten.</a>
 how-do-i = Hoe krij ik de { -brand-name-firefox-browser }?
@@ -46,7 +46,7 @@ protecting-your-privacy = Beskerming fan jo privacy is ús heechste prioriteit, 
 is-firefox-safe = Is { -brand-name-firefox } feilich?
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 not-only-is = { -brand-name-firefox } is net allinnich feilich yn gebrûk, it helpt ek jo gegevens en priveegegevens feilich te hâlden. De { -brand-name-firefox-browser } blokkearret automatysk bekende trackers fan tredden, sosjale-mediatrackers, cryptominers en fingerprinters, sadat dizze jo gegevens net sammelje kinne. <a href="{ $url }">Mear ynfo oer de privacy yn ús produkten.</a>
 related-questions-safe = Besibbe fragen: is { -brand-name-firefox } goed foar privacy, is { -brand-name-firefox } befeilige, is { -brand-name-firefox } better foar privacy

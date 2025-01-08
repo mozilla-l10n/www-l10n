@@ -11,8 +11,6 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } on loistavan nopea selain, joka tarjoaa huippuluokan kehittäjätyökaluja ja uusimpia ominaisuuksia, kuten CSS Grid -tuen ja sovelluskehyksen virheenkorjauksen
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Tervetuloa uuteen suosikkiselaimeesi. Saat uusimmat ominaisuudet, nopean suorituskyvyn ja kehitystyökalut, joita tarvitset avoimen verkon rakentamiseen.
 firefox-developer-speak-up = Puhu
 firefox-developer-feedback-makes-us = Palaute tekee meistä parempia. Kerro meille, kuinka voimme parantaa selainta ja kehittäjätyökaluja.
@@ -75,14 +73,10 @@ firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-develo
 firefox-developer-download-the-firefox-browser = Lataa kehittäjille suunnattu { -brand-name-firefox }-selain
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } on rakennettu alusta alkaen nopeammaksi, tyylikkäämmäksi ja tehokkaammaksi kuin koskaan.
 firefox-developer-welcome-to-firefox-developer-edition = Tervetuloa { -brand-name-firefox-developer-edition }iin
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = Tervetuloa { -brand-name-firefox-browser } { -brand-name-developer-edition }iin
 firefox-developer-made-for-developers = Kehittäjille tehty selain
 firefox-developer-a-separate-profile = <strong>Erillinen profiili ja polku</strong>, jotta voit käyttää sitä { -brand-name-firefox }in julkaisu- tai { -brand-name-beta }-version rinnalla.
 firefox-developer-preferences-tailored = Asetukset <strong>räätälöitynä verkkokehittäjille</strong>: Selain ja etävirheenkorjaus ovat oletuksena käytössä, samoin kuin tumma teema ja kehittäjän työkalupalkin painike.
 firefox-developer-congrats-you-now-have-latest-v2 = Sinulla on nyt { -brand-name-firefox-developer-edition }in uusin versio.
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = Onnittelut. Sinulla on nyt uusin { -brand-name-firefox-browser } { -brand-name-developer-edition } -versio.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Katso <a { $attrs }>julkaisutiedot</a> (vain englanniksi) nähdäksesi uutuudet.

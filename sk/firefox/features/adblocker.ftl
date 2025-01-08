@@ -31,18 +31,6 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> je ďa
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Tieto rozšírenia fungujú skvele vo <a { $attrs1 }>{ -brand-name-firefox(case: "loc") } pre počítač</a> aj <a { $attrs2 }>Android</a>.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = Existuje <a href="{ $url }">AdBlocker Ultimate</a>, ktorý vás zbaví každej reklamy. Ale pozor. Niektoré z vašich obľúbených novín a časopisov sa spoliehajú na reklamu. Ak príliš veľa ľudí blokuje ich reklamy, môžu sa dostať do finančných problémov a skončiť s podnikaním.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Vyskakovacie reklamy sú najhoršie. Zablokujte ich pomocou rozšírenia <a href="{ $url }">Popup Blocker</a> a už nikdy sa nebudete musieť zaoberať otravnými vyskakovacími oknami.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Jedným z najobľúbenejších blokovačov reklám pre prehliadače { -brand-name-chrome }, { -brand-name-safari } a { -brand-name-firefox } je <a href="{ $url }">AdBlock</a>. Používajte ho na blokovanie reklám na { -brand-name-facebook(case: "loc") }, { -brand-name-youtube } a { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = Vytvorte si zónu bez sledovacích prvkov pomocou blokovania obsahu
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

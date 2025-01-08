@@ -10,9 +10,6 @@ firefox-browsers-page-title = Telechargia { -brand-name-firefox } per computers 
 # HTML page description
 firefox-browsers-page-desc = Tscherna tranter computer desktop, { -brand-name-ios }, { -brand-name-android } u ans lascha ta trametter via e-mail ina colliaziun da telechargiada sin tes apparat mobil.
 firefox-browsers-main-heading = Ils navigaturs { -brand-name-firefox }
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = Va per ils <strong>navigaturs</strong> che respectan tia sfera privata — da bell'entschatta
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = Va per il navigatur che dat la prioritad a tia sfera privata – <strong> da bell'entschatta</strong>
 firefox-browsers-desktop = Desktop

@@ -14,7 +14,6 @@ legal-special-thanks-to-all-of-you = Enkosi kakhulu kuni nonke abancedise ukucha
 legal-terms = Ixesha elibekiweyo
 legal-our-websites = iiWebhusayithi zethu
 legal-firefox-services = iiSevisi zika-{ -brand-name-firefox }
-legal-webmaker = { -brand-name-webmaker }
 legal-privacy-trademarks = Ubucala & uphawo lomsebenzi
 legal-privacy-notices-and-policy = Amanqaku wobuCala kunye iPolisi
 legal-downloadable-software-notices = iiZaziso zesoftwe ezikutselwayo

@@ -9,11 +9,6 @@ moz-account-promo-title = Một lần đăng nhập. <br> <span { $class }>Có m
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
 moz-account-already-have-v2 = Đã có một tài khoản? <a { $sign_in_url }>Đăng nhập</a> hoặc <a { $learn_more_url }>tìm hiểu thêm</a> về cách tham gia { -brand-name-mozilla }.
-# Obsolete string (expires: 2024-09-12)
-# Variables
-#   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
-moz-account-already-have = Đã có một tài khoản? <a { $sign_in_url }>Đăng nhập</a> hoặc <a { $learn_more_url }>tìm hiểu thêm</a> về { -brand-name-mozilla }
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
 moz-account-product-pocket = { -brand-name-pocket }

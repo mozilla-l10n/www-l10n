@@ -11,8 +11,6 @@ firefox-products-mozilla-products = Продукти { -brand-name-mozilla }
 firefox-products-mozillas-family-of-products = { -brand-name-mozilla } – це ціле сімейство продуктів, створених, щоб захистити вас і зробити розумнішими онлайн
 firefox-products-products = Продукти
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } – це лише початок.
-# Obsolete string (expires: 2024-07-03)
-firefox-products-firefox-beginning = { -brand-name-firefox } – це лише початок
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } – це сімейство продуктів, створених, щоб захистити вас і зробити вас розумнішими онлайн.
 
 ## Firefox
@@ -67,6 +65,4 @@ firefox-products-analyze = Проаналізувати URL
 
 firefox-products-pocket = { -brand-name-pocket }
 firefox-products-discover-the-best-content-v2 = Відкрийте для себе найкраще в Інтернеті — і використовуйте його будь-де та будь-коли. Створено { -brand-name-mozilla }.
-# Obsolete string (expires: 2024-07-08)
-firefox-products-discover-the-best-content = Знаходьте найкращі статті в мережі — та читайте їх коли забажаєте.
 firefox-products-get-pocket = Отримати { -brand-name-pocket }

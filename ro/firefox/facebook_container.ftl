@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -15,12 +15,7 @@ facebook-container-only-available-for-desktop = Extensia { -brand-name-facebook-
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = Vizitează <a href="{ $url }">{ $link_copy }</a> pentru a obține { -brand-name-firefox } pentru desktop.
-# Outdated string
-facebook-container-the-facebook-container-extension = Extensia { -brand-name-facebook-container } nu este disponibilă pentru dispozitive mobile.
 facebook-container-get-firefox-android-ios = Obține acum { -brand-name-firefox } pentru { -brand-name-android } și { -brand-name-ios }.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Încearcă <strong>{ -brand-name-firefox-focus }</strong>, browserul dedicat intimității, pentru { -brand-name-android } și { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Alege în cunoștință de cauză
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

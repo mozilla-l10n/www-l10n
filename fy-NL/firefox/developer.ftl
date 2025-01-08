@@ -11,8 +11,6 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } is de rappe browser dy’t it modernste ûntwikkelersark en nijste funksjes biedt, lykas stipe foar CSS Grid en framework-debugging
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Wolkom by jo nije favorite browser. Krij de nijste funksjes, flugge prestaasjes, en it nedige ûntwikkelersark om it iepen web te bouwen.
 firefox-developer-speak-up = Fertel it ús
 firefox-developer-feedback-makes-us = Kommentaar makke ús better. Fertel ús hoe’t wy de browser en Developer-ark ferbetterje kinne.
@@ -75,15 +73,11 @@ firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-develo
 firefox-developer-download-the-firefox-browser = Download de { -brand-name-firefox }-browser makke foar ûntwikkelers
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } is folslein opnij opboud om flugger, strakker en krêftiger te wêzen as ea.
 firefox-developer-welcome-to-firefox-developer-edition = Wolkom by { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = Wolkom by { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = De browser makke foar ûntwikkelers
 firefox-developer-all-the-latest-v2 = Alle nijste ûntwikkelersark yn beta, plus funksjes lykas de Multi-line Console Editor en WebSocket Inspector.
 firefox-developer-a-separate-profile = In <strong>apart profyl en paad</strong>, sadat jo it maklik neist { -brand-name-firefox } Release of { -brand-name-beta } brûke kinne.
 firefox-developer-preferences-tailored = Foarkarren dy’t <strong>op maat makke binne foar webûntwikkelers</strong>: flateropspoaring yn de browser en op ôfstân debugge binne standert ynskeakele, krekt as it donkere tema en de knop foar de ûntwikkelersarkbalke.
 firefox-developer-congrats-you-now-have-latest-v2 = Jo hawwe no de lêste ferzje fan { -brand-name-firefox-developer-edition }.
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = Lokwinske. Jo beskikke no oer de nijste ferzje fan { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Besjoch de <a { $attrs }>útjefteopmerkingen</a> (allinnich yn it Ingelsk) om te sjen wat der nij is.

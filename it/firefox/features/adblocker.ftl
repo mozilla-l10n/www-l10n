@@ -31,18 +31,6 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> è un�
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Queste estensioni funzionano perfettamente sia su <a { $attrs1 }>{ -brand-name-firefox } per desktop</a> che su <a { $attrs2 }>Android</a>.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = <a href="{ $url }">AdBlocker Ultimate</a> libera da ogni annuncio, ma ha anche controindicazioni! Alcuni dei tuoi quotidiani e riviste online preferiti si finanziano con le pubblicità: se troppi utenti iniziassero a bloccare i loro annunci, finirebbero con il fallire.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = Le pubblicità pop-up sono le peggiori. Bloccale con <a href="{ $url }">Popup Blocker</a> per non doverti sorbire mai più un altro fastidioso pop-up.
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = Uno dei più popolari strumenti per bloccare annunci per { -brand-name-chrome }, { -brand-name-safari } e { -brand-name-firefox } è <a href="{ $url }">AdBlock</a>. Usalo per bloccare le pubblicità su { -brand-name-facebook }, { -brand-name-youtube } e { -brand-name-hulu }.
 features-adblocker-create-a-tracker-free = Crea una zona franca da elementi traccianti con Blocco contenuti
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

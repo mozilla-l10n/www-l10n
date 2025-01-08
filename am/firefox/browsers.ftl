@@ -3,15 +3,12 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/
+### URL: https://www-dev.allizom.org/firefox/
 
 # HTML page title
 firefox-browsers-page-title = ለዴስክቶፕ፣ ሞባይል ወይም ኢንተርፕራይዝ { -brand-name-firefox }ን ያውርዱ
 # HTML page description
 firefox-browsers-page-desc = ከዴስክቶፕ፣ { -brand-name-ios }፣ { -brand-name-android } ይምረጡ ወይም የሞባይል ማውረጃ አገናኝን በኢሜል እንልክልዎታለን።
-# Obsolete string
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-browsers-get-the-browsers-strong = የእርስዎን ግላዊነት የሚያስቀድሙትን <strong>አሳሾች</strong> ያግኙ ፤ ሁልጊዜም።
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-get-the-browsers-strong-v2 = የእርስዎን ግላዊነት የሚያስቀድመውን አሳሽ ያግኙ - እና <strong>ሁልጊዜ</strong>ያለው
 firefox-browsers-desktop = ዴስክቶፕ
@@ -29,7 +26,6 @@ firefox-browsers-go-beyond-two-dimensions-and = ከሁለት ልኬቶች አል
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-browsers-build-sites-and-refine-your = ድረ-ገፆችን ይገንቡ እና ኮድዎን በ{ -brand-name-firefox } <strong>{ -brand-name-devtools }</strong> ያጥሩ
 firefox-browsers-learn-more-about-devtools = ስለ { -brand-name-devtools } የበለጠ ይወቁ
-firefox-browsers-join-firefox-and-get-the-most = { -brand-name-firefox }ን ይቀላቀሉ እና ከእያንዳንዱ ምርት የበለጠ ይጠቀሙ - በሁሉም መሳሪያ።
 # Variables:
 #   $fxa_attr (string) - anchor link url and attributes
 #   $accounts_attr (string) - anchor link url and attributes

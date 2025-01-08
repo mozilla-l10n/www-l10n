@@ -12,11 +12,6 @@ features-sync-access-your-firefox-bookmarks = Accede a tus favoritos, contraseñ
 features-sync-with-firefox-you-can-pick-up-where = Con { -brand-name-firefox }, puedes continuar desde donde lo dejaste cuando cambias de tu ordenador de escritorio a tu teléfono móvil y a tu tableta. { -brand-name-firefox } te permite ver tus favoritos, tu historial de navegación, tus contraseñas guardadas y más, sin importar qué dispositivo estés usando.
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Regístrate para obtener una { -brand-name-mozilla-account }</a> gratuita y podrás sincronizar tus datos en cualquier lugar donde uses tu navegador { -brand-name-firefox } y otros productos { -brand-name-mozilla }.
-# Obsolete string
-#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-features-sync-sign-up-for-a-free-mozilla-account-v2 = <a href="{ $fxa }">Regístrate para obtener una { -brand-name-mozilla-account }</a> gratuita y podrás sincronizar tus datos en cualquier lugar donde uses tu navegador { -brand-name-firefox }.
-# Obsolete string
-features-sync-sign-up-for-a-free-firefox-account = <a href="{ $fxa }">Regístrate para obtener una { -brand-name-firefox } </a> gratuita y podrás sincronizar tus datos en cualquier lugar donde uses tu navegador { -brand-name-firefox }.
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Todos tus datos están cifrados en nuestros servidores para que no podamos leerlos; solo tú puedes acceder a ellos. No vendemos tu información a anunciantes porque eso iría en contra de nuestra <a href="{ $privacy }">promesa de privacidad de datos</a>.

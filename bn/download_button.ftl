@@ -38,3 +38,6 @@ download-button-firefox-android = { -brand-name-android } এর জন্য <s
 download-button-firefox-ios = { -brand-name-ios } এর জন্য <span>{ -brand-name-firefox }</span>
 download-button-firefox-privacy = { -brand-name-firefox } গোপনীয়তা
 download-button-download = ডাউনলোড
+
+## Linux
+

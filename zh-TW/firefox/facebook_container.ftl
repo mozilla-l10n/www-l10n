@@ -1,6 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
@@ -12,18 +12,11 @@ facebook-container-get-the-facebook-container = 安裝 { -brand-name-facebook-co
 facebook-container-download-firefox-and-get-the = 下載 { -brand-name-firefox } 並安裝 { -brand-name-facebook-container } 擴充套件
 facebook-container-only-available-for-desktop = { -brand-name-facebook-container } 擴充套件目前只支援 { -brand-name-firefox } 桌面版。
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
-# Obsolete string
-facebook-container-firefox-browser = { -brandname-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = 請到 <a href="{ $url }">{ $link_copy }</a> 下載 { -brand-name-firefox } 桌面版。
-# Outdated string
-facebook-container-the-facebook-container-extension = { -brand-name-facebook-container } 擴充套件不支援行動裝置。
 facebook-container-get-firefox-android-ios = 立即下載 { -brand-name-firefox } for { -brand-name-android } 或 { -brand-name-ios }。
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = 請試用 <strong>{ -brand-name-firefox-focus }</strong>，{ -brand-name-android } 及 { -brand-name-ios } 系統上的隱私保護瀏覽器。
 facebook-container-opt-out-on-your-terms = 對追蹤條款說不
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

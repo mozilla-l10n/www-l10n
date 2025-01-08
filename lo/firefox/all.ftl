@@ -7,12 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = ດາວໂຫລດ { -brand-name-firefox } ໃນພາສາອັງກິດ (ສະຫະລັດ) ແລະ ຫຼາຍກວ່າ 90 ພາສາອື່ນໆ
-# Obsolete string (expires 2024-10-30)
-firefox-all-download-the-firefox = ດາວໂຫລດບ { -brand-name-firefox-browser } ເປັນພາສາອັງກິດ (ສະຫະລັດ) ແລະ ພາສາອື່ນໆຫລາຍກວ່າ 90 ພາສາ
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = ທຸກຄົນສົມຄວນໄດ້ຮັບການເຂົ້າເຖິງອິນເຕີເນັດ — ພາສາຂອງທ່ານບໍ່ຄວນເປັນອຸປະສັກ. ດ້ວຍ​ເຫດ​ນີ້ — ດ້ວຍ​ການ​ຊ່ວຍ​ເຫຼືອ​ຂອງ​ອາ​ສາ​ສະ​ຫມັກ​ທີ່​ອຸ​ທິດ​ຕົນ​ໃນ​ທົ່ວ​ໂລກ — ພວກ​ເຮົາ​ເຮັດ​ໃຫ້ { -brand-name-firefox } ມີ​ໃຫ້​ໃນ​ຫຼາຍ​ກ​່​ວາ 90 ພາ​ສາ​.
-# Obsolete string (expires 2024-10-30)
-firefox-all-everyone-deserves-access = ທຸກຄົນສົມຄວນໄດ້ຮັບການເຂົ້າເຖິງອິນເຕີເນັດ — ພາສາຂອງເຈົ້າບໍ່ຄວນເປັນອຸປະສັກ. ດ້ວຍ​ເຫດ​ນັ້ນ — ດ້ວຍ​ການ​ຊ່ວຍ​ເຫຼືອ​ຂອງ​ອາ​ສາ​ສະ​ຫມັກ​ທີ່​ອຸ​ທິດ​ຕົນ​ໃນ​ທົ່ວ​ໂລກ — ພວກ​ເຮົາ​ເຮັດ​ໃຫ້ { -brand-name-firefox-browser } ມີ​ໃຫ້​ໃນ​ຫຼາຍ​ກ​່​ວາ 90 ພາ​ສາ​.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = ສະແກນລະຫັດ QR ເພື່ອຮັບເອົາ <em>{ $product_name }</em>
@@ -26,14 +22,8 @@ firefox-all-change-language = ເລືອກພາສາອື່ນ
 firefox-all-down-arrow = ເລືອກຈາກບັນຊີລາຍຊື່ຂ້າງລຸ່ມນີ້
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = ຂໍຄວາມຊ່ວຍເຫລືອ
-# Obsolete string (expires 2024-10-30)
-firefox-all-browser = ໂປຣແກຣມທ່ອງເວັບ:
 firefox-all-browser-v2 = 1. ຕົວທ່ອງເວັບ:
-# Obsolete string (expires 2024-10-30)
-firefox-all-platform = ແພັລດຟອມ
 firefox-all-platform-v2 = 2. Platform:
-# Obsolete string (expires 2024-10-30)
-firefox-all-language = ພາສາ:
 firefox-all-language-v2 = 3. ພາສາ:
 firefox-all-download = 4. ດາວໂຫລດ:
 firefox-all-desktop = ເດສກ໌ທັອບ

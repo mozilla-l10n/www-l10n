@@ -9,11 +9,6 @@ moz-account-promo-title = Jedna prijava. <br> <span { $class }>Sve</span> { -bra
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
 moz-account-already-have-v2 = Već imate račun? <a { $sign_in_url }>Prijavite se</a> ili <a { $learn_more_url }>saznajte više</a> o pridruživanju { -brand-name-mozilla }i.
-# Obsolete string (expires: 2024-09-12)
-# Variables
-#   $sign_in_url - link to
-#   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
-moz-account-already-have = Već imate račun? <a { $sign_in_url }>Prijavite se</a> ili <a { $learn_more_url }>saznajte više</a> o { -brand-name-mozilla }i
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
 moz-account-product-pocket = { -brand-name-pocket }

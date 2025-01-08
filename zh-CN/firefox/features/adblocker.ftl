@@ -31,18 +31,6 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> 也同
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = 无论在<a { $attrs1 }>桌面版</a>还是 <a { $attrs2 }>Android 版 { -brand-name-firefox }</a> 上，这些扩展都一样好用。
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblocker-ultimate/
-features-adblocker-theres-adblocker-ultimate = <a href="{ $url }">AdBlocker Ultimate</a> 可以让您摆脱所有广告，但消费者也要注意。某些您喜爱的报纸跟杂志的生存依赖于广告，若太多人屏蔽广告可能会使他们经营困难。
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/
-features-adblocker-popup-ads-are-the-worst = 弹出式广告是最糟的。可以使用 <a href="{ $url }">Popup Blocker</a> 来拦截，这样就再也不会看到恼人的窗口跳出来了。
-# Obsolete string (expires: 2024-11-18)
-# Variables:
-#   $url (url) - link to https://addons.mozilla.org/firefox/addon/adblock-for-firefox/
-features-adblocker-one-of-the-most-popular = <a href="{ $url }">AdBlock</a> 是 { -brand-name-chrome }、{ -brand-name-safari } 和 { -brand-name-firefox } 上最受欢迎的广告拦截器之一。可用来屏蔽 { -brand-name-facebook }、{ -brand-name-youtube } 和 { -brand-name-hulu }上的广告。
 features-adblocker-create-a-tracker-free = 使用内容拦截，创造无跟踪器空间
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

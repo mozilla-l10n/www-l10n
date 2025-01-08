@@ -10,7 +10,7 @@ firefox-faq = Често задавани въпроси за { -brand-name-fire
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/firefox/products/
+# $url2 (url) - link to https://www.mozilla.org/products/
 
 how-do-i = Как да взема { -brand-name-firefox-browser }?
 
@@ -31,7 +31,7 @@ how-do-i = Как да взема { -brand-name-firefox-browser }?
 
 
 # Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/products/
+# $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 
 # Variables:
@@ -40,11 +40,6 @@ how-do-i = Как да взема { -brand-name-firefox-browser }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
-
-
-# Variables:
-# $url (url) - link to https://fpn.firefox.com/
-# $url2 (url) - link to https://www.mozilla.org/products/vpn/
 
 
 # Variables:

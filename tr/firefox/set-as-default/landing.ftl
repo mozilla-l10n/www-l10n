@@ -9,9 +9,7 @@
 set-as-default-landing-make-firefox-your-default = { -brand-name-firefox }'u varsayılan tarayıcınız yapın
 # HTML page description
 set-as-default-landing-choose-the-browser = Gizliliğinizi koruyan tarayıcıyı seçin. { -brand-name-firefox }’u varsayılan tarayıcınız olarak ayarlayın.
-# Obsolete string
 set-as-default-landing-thanks-for-using-the = En yeni { -brand-name-firefox } tarayıcısını kullandığınız için teşekkür ederiz. { -brand-name-firefox }’u seçtiğinizde tüm insanlık için daha iyi bir web’i desteklemiş oluyorsunuz. Şimdi kendinizi korumak için bir sonraki adımı atın.
-# Obsolete string
 set-as-default-landing-make-sure-youre-protected = İnternete her bağlandığınızda korunduğunuzdan emin olun
 set-as-default-landing-you-should-get = Sizin tarayıcınız, sizin kararınız
 set-as-default-landing-if-you-recently = Bilgisayarınızı yakın zamanda güncellediyseniz ayarlarınız değişmiş olabilir. { -brand-name-firefox } ile internete her girdiğinizde özgür ve açık interneti destekleyin.

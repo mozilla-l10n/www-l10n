@@ -13,8 +13,6 @@ features-private-browsing-firefox-protects = O { -brand-name-firefox } protege s
 features-private-browsing-if-you-share-a-computer = Se você compartilha um computador com outras pessoas, ou quer limitar a quantidade de dados que os sites podem coletar sobre você, pode usar o modo de navegação privativa do { -brand-name-firefox }. A navegação privativa apaga os rastros digitais que você deixa ao navegar online, pense neles como pegadas na floresta.
 features-private-browsing-what-does-private-browsing-do = O que a navegação privativa faz?
 features-private-browsing-private-browsing-mode-opens-v2 = O modo de navegação privativa abre uma nova janela do navegador. Ao fechar a última janela de navegação privativa, o histórico de navegação e todos os cookies de rastreamento de sites visitados são apagados. <strong>Dica profissional do { -brand-name-firefox }:</strong> Não se esqueça de fechar todas as janelas de navegação privativa quando terminar!
-# Obsolete string (expires: 2024-07-18)
-features-private-browsing-private-browsing-mode-opens = O modo de navegação privativa abre uma nova janela do navegador. Ao fechá-la, o histórico de navegação dessa janela e quaisquer cookies de rastreamento dos sites que você visitou são apagados. <strong>Dica do { -brand-name-firefox }:</strong> Não se esqueça de fechar a janela de navegação privativa quando terminar!
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = Uma janela do navegador { -brand-name-firefox } no modo de navegação privativa.
 features-private-browsing-what-private-browsing-doesnt-do = O que a navegação privativa não faz

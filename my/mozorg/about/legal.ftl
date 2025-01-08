@@ -13,7 +13,6 @@ legal-back-to-legal = ဥပဒေရေးရာ သို့
 legal-terms = စကားရပ်
 legal-our-websites = ကျွန်ုပ်တို့၏ ဝဘ်ဆိုက်များ
 legal-firefox-services = { -brand-name-firefox } ဝန်ဆောင်မှုများ
-legal-webmaker = { -brand-name-webmaker }
 legal-privacy-trademarks = လုံခြုံရေး နှင့် ကုန်ပစ္စည်းအမှတ်တံဆိပ်များ
 legal-privacy-notices-and-policy = လုံခြုံရေး သတိပေးချက်များ နှင့် ပေါ်လစီ
 legal-downloadable-software-notices = ဒေါင်းလုဒ်ရယူနိုင်သော ဆော့ဝဲ သတိပေးချက်များ

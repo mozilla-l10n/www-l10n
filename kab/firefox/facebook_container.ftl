@@ -16,12 +16,7 @@ facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 facebook-container-visit-to-get-for-desktop = Rzu ɣer <a href="{ $url }">{ $link_copy }</a> akken ad tawiḍ { -brand-name-firefox } i tnarit.
-# Outdated string
-facebook-container-the-facebook-container-extension = Asiɣzef { -brand-name-facebook-container } ulac-it deg ibenkan izirazen.
 facebook-container-get-firefox-android-ios = Awi { -brand-name-firefox } i { -brand-name-android } d { -brand-name-ios } tura.
-# Outdated string
-# For German, the brand name for 'Firefox Focus' in brands.ftl should be changed to 'Firefox Klar'.
-facebook-container-try-firefox-focus-the-privacy = Ɛreḍ<strong>{ -brand-name-firefox-focus }</strong>, iminig uslig i { -brand-name-android } d { -brand-name-ios }.
 facebook-container-opt-out-on-your-terms = Ɣur-k azref ad tiniḍ ala
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

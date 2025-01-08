@@ -11,8 +11,6 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = Το { -brand-name-firefox-developer-edition } είναι ένα αστραπιαίο πρόγραμμα περιήγησης που προσφέρει σύγχρονα εργαλεία ανάπτυξης και νέες λειτουργίες, όπως υποστήριξη πλέγματος CSS και έλεγχος σφαλμάτων πλαισίου
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-firefox-browser = { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Καλώς ορίσατε στο νέο, αγαπημένο σας πρόγραμμα περιήγησης. Λάβετε τις νεότερες λειτουργίες, υψηλές επιδόσεις και τα εργαλεία ανάπτυξης που χρειάζεστε για δημιουργία στο ανοικτό διαδίκτυο.
 firefox-developer-speak-up = Εκφραστείτε
 firefox-developer-feedback-makes-us = Η κριτική μας κάνει καλύτερους. Πείτε μας πως μπορούμε να βελτιώσουμε τον περιηγητή και τα εργαλεία για προγραμματιστές.
@@ -75,15 +73,11 @@ firefox-developer-firefox-developer-edition-sends = Το { -brand-name-firefox-d
 firefox-developer-download-the-firefox-browser = Κάντε λήψη του { -brand-name-firefox } για προγραμματιστές
 firefox-developer-firefox-has-been-rebuilt = Το { -brand-name-firefox } έχει αναμορφωθεί από την αρχή για περισσότερη ταχύτητα, κομψότητα και ισχύ από ποτέ.
 firefox-developer-welcome-to-firefox-developer-edition = Καλώς ορίσατε στο { -brand-name-firefox-developer-edition }
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-welcome-to-firefox-browser = Καλώς ορίσατε στο { -brand-name-firefox-browser } { -brand-name-developer-edition }
 firefox-developer-made-for-developers = Το πρόγραμμα περιήγησης για προγραμματιστές
 firefox-developer-all-the-latest-v2 = Όλα τα νέα εργαλεία προγραμματισμού σε beta, καθώς και λειτουργίες, όπως το πρόγραμμα επεξεργασίας κονσόλας πολλαπλών γραμμών και η επιθεώρηση WebSocket.
 firefox-developer-a-separate-profile = Ένα <strong>ξεχωριστό προφίλ και διαδρομή</strong> για εύκολη εκτέλεση μαζί με την κανονική ή την { -brand-name-beta } έκδοση του { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Προτιμήσεις <strong>προσαρμοσμένες για web developers</strong>: Ο έλεγχος σφαλμάτων προγράμματος περιήγησης και ο απομακρυσμένος έλεγχος σφαλμάτων είναι ενεργοί από προεπιλογή, όπως και το σκούρο θέμα και το κουμπί γραμμής προγραμματισμού.
 firefox-developer-congrats-you-now-have-latest-v2 = Διαθέτετε πλέον την πιο πρόσφατη έκδοση του { -brand-name-firefox-developer-edition }.
-# Obsolete string (expires: 2024-05-14)
-firefox-developer-congrats-you-now-have-latest = Συγχαρητήρια. Διαθέτετε πλέον την πιο πρόσφατη έκδοση του { -brand-name-firefox-browser } { -brand-name-developer-edition }.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Δείτε τις <a { $attrs }>σημειώσεις έκδοσης</a> (μόνο στα αγγλικά) για να δείτε τι νέο υπάρχει.

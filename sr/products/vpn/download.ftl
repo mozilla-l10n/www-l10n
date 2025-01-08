@@ -13,8 +13,6 @@ vpn-download-sub-heading = Можете да преузмете { -brand-name-mo
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } пружа безбедну заштиту за све главне оперативне системе.
 vpn-download-not-available-in-country = Жао нам је, { -brand-name-mozilla-vpn } није доступан за преузимање у вашој земљи.
 vpn-download-button-copy = Преузми
-# Obsolete string
-vpn-download-for-windows = VPN за { -brand-name-windows } 10/11
 vpn-download-for-windows-v2 = VPN за { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (само 64-битни)
 vpn-download-for-windows-long = Преузмите { -brand-name-mozilla-vpn } за { -brand-name-windows }
@@ -32,8 +30,6 @@ vpn-download-for-android = VPN за { -brand-name-android }
 vpn-download-for-android-long = Преузмите { -brand-name-mozilla-vpn } за { -brand-name-android }
 vpn-download-for-ios = VPN за { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Преузмите { -brand-name-mozilla-vpn } за { -brand-name-ios }
-# Obsolete string
-vpn-download-for-ios-long = Преузмите VPN { -brand-name-mozilla-vpn } за { -brand-name-ios }
 vpn-download-get-on-google-play = Преузмите на { -brand-name-google-play } Store-у
 vpn-download-get-on-app-store = Преузмите на { -brand-name-app-store }-у
 vpn-download-based-on-your = На основу вашег тренутног уређаја

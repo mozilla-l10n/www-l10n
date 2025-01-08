@@ -22,10 +22,6 @@ set-as-default-thanks-youre-all-set = Bạn đã cài đặt tất cả.
 set-as-default-thanks-get-firefox-for-mobile = Tải { -brand-name-firefox } dành cho di động
 set-as-default-thanks-travel-the-internet-with = Duyệt internet với bảo vệ trên tất cả các thiết bị của bạn.
 set-as-default-thanks-download-the-app = Tải xuống ứng dụng
-# Obsolete string
-set-as-default-thanks-join-firefox = Tham gia { -brand-name-firefox }
-# Obsolete string
-set-as-default-thanks-sign-up-for-a-free-account = Đăng ký tài khoản miễn phí và đồng bộ hóa tất cả mật khẩu, lịch sử duyệt web và tùy chọn trên các thiết bị của bạn.
 set-as-default-create-an-account = Tạo một tài khoản
 set-as-default-thanks-sign-up-for-a-free-account-v2 = Đăng ký một { -brand-name-mozilla-account } miễn phí và đồng bộ hóa tất cả mật khẩu, lịch sử duyệt web và tùy chọn trên các thiết bị của bạn.
 # Account here refers to a Firefox Account

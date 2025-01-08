@@ -11,10 +11,6 @@ features-index-firefox-browser-features = A { -brand-name-firefox } böngészőf
 features-index-firefox-is-the-fast-lightweight = A { -brand-name-firefox } a gyors, könnyűsúlyú és adatvédelem-központú böngésző, amely minden eszközén működik.
 features-index-firefox-keeps-getting-faster = A { -brand-name-firefox } egyre gyorsabb
 features-index-the-latest-browser-speed-benchmarks = A legfrissebb böngésző-sebességmérések azt bizonyítják, hogy a { -brand-name-firefox } gyorsabb, mint valaha.
-# Obsolete string
-features-index-is-firefox-a-fast-browser = A { -brand-name-firefox } gyors böngésző?
-# Obsolete string
-features-index-firefox-uses-less-memory-than = A { -brand-name-firefox } kevesebb memóriát használ, mint a Chrome, így más programjai is maximális sebességgel futhatnak.
 features-index-is-firefox-a-private-browser = A { -brand-name-firefox } privát böngésző?
 features-index-were-focused-on-your-right-to = Az adatvédelemhez való jogára összpontosítunk. Az adatait, webes tevékenységét, az online életét a { -brand-name-firefox } védi.
 features-index-free-password-manager = Ingyenes jelszókezelő
@@ -42,7 +38,5 @@ features-index-firefox-automatically-blocks = A { -brand-name-firefox } automati
 features-index-ditch-the-sticky-ads = Rázza le az Önt követő ragadós hirdetéseket a { -brand-name-firefox } beépített ujjlenyomat-készítő blokkolóival.
 features-index-translate-the-web = A web lefordítása
 features-index-translate-websites-to-your = Fordítsa le a weboldalakat a saját nyelvére közvetlenül a { -brand-name-firefox } böngészőjében – anélkül, hogy megosztaná mással az adatait.
-# Obsolete string
-features-index-translate-more-than = Fordítson több mint 100 nyelvről saját nyelvére közvetlenül a { -brand-name-firefox } böngészőben – könnyebben, mint valaha.
 features-index-picture-in-picture = Kép a képben
 features-index-got-things-to-do = Dolga van, de nézne valamit? Tegye mindkettőt a { -brand-name-firefox } kép a képben funkciójával.
