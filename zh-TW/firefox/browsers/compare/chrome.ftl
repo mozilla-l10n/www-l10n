@@ -12,7 +12,7 @@ compare-chome-read-our-comparison = 閱讀我們對 { -brand-name-firefox } 與 
 # Variables:
 # $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
 # $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
-compare-chrome-firefoxs-default-privacy-settings = { -brand-name-firefox } 的預設隱私權設定比 Chrome 還要強大我們還有其他功能來防止網站追踪您例如<a { $fingerprint }>指紋封鎖</a>以及您選擇的<a { $adblocker }>廣告封鎖器</a>附加元件。
+compare-chrome-firefoxs-default-privacy-settings = { -brand-name-firefox } 的預設隱私權設定比 Chrome 還強大，我們還有其他功能來防止網站追蹤您，例如<a { $fingerprint }>指紋封鎖</a>，以及您選擇的<a { $adblocker }>廣告封鎖器</a>附加元件。
 compare-chrome-we-block-trackers-by-default = 我們預設會封鎖追踪器。 Chrome 不會。
 compare-chrome-in-fact-by-default-chrome-monitors = 實際上，Chrome 預設會監控您造訪過哪些網站、您做了哪些事，以找出「廣告主題」，以對您送出更有針對性的廣告。您可以封鎖三個主題，但無法完全停止他們針對您找出其他主題的廣告。
 compare-chrome-chrome-allows-other-websites-to = Chrome 允許其他網站收集關於您的資訊，以提供廣告建議。您可以封鎖特定網站，不讓其下廣告，但無法停止資料收集或來自其他網站的廣告。
