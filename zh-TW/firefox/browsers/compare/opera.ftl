@@ -8,7 +8,7 @@
 # Page title
 compare-opera-firefox-vs-opera = { -brand-name-firefox } vs Opera
 # HTML page description
-compare-opera-read-our-comparison = 閱讀我們對 { -brand-name-firefox } 與 Opera 瀏覽器的功能、隱私保護、易用性比較。
+compare-opera-read-our-comparison = 閱讀我們對 { -brand-name-firefox } 與 Opera 瀏覽器的功能、隱私權、易用性比較。
 # Variables:
 # $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
 compare-opera-firefoxs-default-privacy-settings = { -brand-name-firefox } 的預設隱私權設定比 Opera 更強大我們也提供<a { $fingerprint }>指紋封鎖</a>等更多功能來防止網站追踪您。

@@ -12,7 +12,7 @@ vpn-mac-a-vpn-is = 使用 Mac 時，VPN 是保護您線上隱私與安全必不�
 vpn-mac-but-finding = 但要找到一套好的 VPN 服務可能會有點難。有些速度慢、不可靠甚至會保留您的上網紀錄。這也是我們打造 { -brand-name-mozilla-vpn } 的原因。這是一套更快、更安全、更值得信賴的 VPN 由 { -brand-name-firefox } 的開發者提供。
 vpn-mac-with-mozilla-vpn = 透過 { -brand-name-mozilla-vpn }，您可以：
 vpn-mac-get-one-click = 透過簡單且對使用者友善的介面，一鍵開啟隱私保護。
-vpn-mac-connect-up-to = 透過一份訂閱服務最多可連結 5 台不同的裝置。
+vpn-mac-connect-up-to = 一份訂閱服務最多可連結 5 台不同的 Mac、iOS、Windows、Linux、Android 裝置。
 # “Cap” means putting a limit to
 vpn-mac-use-our-vpn = 想多少就用多少就多少。與某些每月只會保護一定數量資料的 VPN 不同的是我們不會設定您的流量上限。不論您使用多少資料總能受到保護。
 vpn-mac-get-device-level = 對您的流量進行裝置層級的加密。與其他解決方案只會加密您的瀏覽器流量不同不同的是{ -brand-name-mozilla-vpn } 會全盤加密保護您的網路流量與哪套應用程式無關。
