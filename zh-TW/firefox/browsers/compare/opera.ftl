@@ -15,4 +15,4 @@ compare-opera-firefoxs-default-privacy-settings = { -brand-name-firefox } 的預
 compare-opera-firefox-offers-a-wide-range-of = { -brand-name-firefox } 提供一系列自訂選項包含將選單與工具列移動到瀏覽器視窗中的不同位置。 Opera 的介面客制化程度較低。
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
-compare-opera-switching-to-firefox-is-easy = 切換到 { -brand-name-firefox } 簡單而快速 — 只要點一下即可匯入您的 Opera 書籤、密碼、瀏覽紀錄、偏好設定立刻開始使用 { -brand-name-firefox }。以下是<a { $howto }>如何使用「匯入」按鈕進行切換的方法</a>。
+compare-opera-switching-to-firefox-is-easy = 很簡單又快速就能改用 { -brand-name-firefox } — 只要滑鼠一點即可匯入您的 Opera 書籤、密碼、瀏覽紀錄、偏好設定，立刻開始使用 { -brand-name-firefox }。以下是<a { $howto }>如何使用「匯入」按鈕進行切換的方法</a>。
