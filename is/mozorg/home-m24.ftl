@@ -15,19 +15,35 @@ m24-home-page-desc-v2 = Við erum að vinna að því að setja stjórnina á in
 ## Intro
 
 m24-home-welcome-to-mozilla = Velkomin í { -brand-name-mozilla }
+m24-home-from-trustworthy-tech = Allt frá traustri tækni til áherslna sem verja stafræn réttindi þín, setjum við þig í fyrsta sæti - alltaf.
+m24-home-learn-about-us = Fræðstu um okkur
+# Used as accessible text alternative for image
+m24-home-alt-flag = Stílfærður grænn fáni á svörtum bakgrunni, gerður úr „M“ fyrir { -brand-name-mozilla } og hliðraðs mynddíls sem á að vísa til upprunalega risaeðlumerkisins.
 
 ## Products
 
+m24-home-love-the-internet = Faðmaðu internetið aftur
+m24-home-break-free-from = Losaðu þig við stóru tæknifyrirtækin - hugbúnaður okkar gefur þér stjórn á öruggari, persónulegri notkun internetsin.
 m24-home-explore-our-products = Skoðaðu hugbúnaðinn okkar
 m24-home-firefox = { -brand-name-firefox }
+m24-home-get-the-gold = Fáðu þér það sem setur viðmiðanirnar til að vafra með hraða, persónuvernd og stjórn á þínum gögnum.
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-go-chaosfree-with = Einfaldaðu líf þitt með einu forriti fyrir allan tölvupóstinn þinn, dagatöl og tengiliði.
 m24-home-fakespot = { -brand-name-fakespot }
+m24-home-spot-fake-reviews = Komdu auga á falsaðar umsagnir, vondar vörur og óáreiðanlega seljendur.
+m24-home-pocket = { -brand-name-pocket }
+m24-home-save-the-internets = Vistaðu besta efni internetsins á hvaða tæki sem er - því hver hefur tíma til að lesa allt núna?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-keep-your-location = Haltu staðsetningu þinni og netævintýrum leyndum - streymdu eins og heimamaður, hvar sem er.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+m24-home-get-a-headsup = Fáðu að vita ef persónulegar upplýsingar þínar eru í hættu og læstu þeim eins og atvinnumaður.
+m24-home-firefox-relay = { -brand-name-firefox-relay }
+m24-home-mask-your-email = Feldu tölvupóstfang þitt og símanúmer svo þú fáir aðeins þau skilaboð sem þú vilt fá.
 
 ## Donate
 
+m24-home-donate-to-the = Gefðu til { -brand-name-mozilla } sjálfseignarstofnunarinnar
+m24-home-mozilla-is-building = { -brand-name-mozilla } er að byggja upp fjöldahreyfingu til að endurheimta internetið. Saman getum við byggt upp framtíð þar sem friðhelgi einkalífs okkar er vernduð, gervigreind er áreiðanleg og óvífin tæknifyrirtæki eru dregin til ábyrgðar. En þetta er einungis hægt ef við gerum það saman.
 m24-home-donate = Styrkja
 
 ## AI gallery
