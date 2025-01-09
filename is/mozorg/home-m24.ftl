@@ -34,6 +34,15 @@ m24-home-donate = Styrkja
 
 m24-home-tag-product = Hugbúnaður
 m24-home-tag-project = Verkefni
+m24-home-tag-program = Dagskrá
+m24-home-tag-event = Atburður
+m24-home-read-more = Lesa meira
+m24-home-get-started = Hefjast handa
+m24-home-join-the-movement = Vertu með í hreyfingunni:<br> AI-gervigreind fyrir fólkið
+m24-home-our-mission-is = Markmið okkar er að auðvelda fólki að byggja og vinna með áreiðanlega gervigreind, með opinn grunnkóða.
+# Used as an accessible text alternative for an image
+m24-home-alt-llamafile-logo = { -brand-name-llamafile }-táknmerki
+m24-home-llamafile = { -brand-name-llamafile }
 
 ## Media Springboard
 
