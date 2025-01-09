@@ -61,9 +61,9 @@ m24-home-our-mission-is = Markmið okkar er að auðvelda fólki að byggja og v
 m24-home-alt-llamafile-logo = { -brand-name-llamafile }-táknmerki
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = Keyrðu auðveldlega stór tungumálalíkön (LLM) á tölvunni þinni með { -brand-name-llamafile } - engin þörf er á sérstakri uppsetningu og gögnin þín haldast örugg á tækinu þínu.
-m24-home-alt-builders = Byggjarar
-m24-home-mozilla-builders = Byggjarar { -brand-name-mozilla }
-m24-home-builders-helps-independent = Byggjarar (builders) hjálpa sjálfstæðum hönnuðum að búa til byltingarkennd opin gervigreindarverkefni með hjálp sérsniðins samstarfs, forritun og framlögum frá samfélaginu.
+m24-home-alt-builders = Builders-smiðir
+m24-home-mozilla-builders = { -brand-name-mozilla } Builders-smiðir
+m24-home-builders-helps-independent = Smiðirnir (builders) hjálpa sjálfstæðum hönnuðum að búa til byltingarkennd opin gervigreindarverkefni með hjálp sérsniðins samstarfs, forritun og framlögum frá samfélaginu.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }-táknmerki
 m24-home-lumigator = { -brand-name-lumigator }
@@ -73,6 +73,8 @@ m24-home-alt-trustworthy = Mark Surman, forseti { -brand-name-mozilla }.
 m24-home-can-ai-be = Er hægt að treysta gervigreind?
 m24-home-in-a-world = Í heimi þar sem nýsköpun tengd gervigreind er drifin áfram af fáum útvöldum, eigum við á hættu að einokun umleiki þessa tækni. Beiting aðferða úr opnum hugtbúnaði á gervigreind gæti breytt því.
 m24-home-watch-now = Horfa núna
+# Used as an accessible text alternative for an image
+m24-home-alt-ventures = Ræðumaður á sviði með mörgum vörumerkjum.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice = Gefðu raddsýnishorn
@@ -92,6 +94,7 @@ m24-home-topic-ps = Persónuvernd og öryggi
 
 ## Showcase
 
+m24-home-rise25-awards = { -brand-name-rise25 } verðlaunin
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Gleðilegur heiðursfélagi hjá { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Staðan hjá { -brand-name-mozilla }

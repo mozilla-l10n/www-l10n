@@ -38,7 +38,7 @@ m24-about-we-fund-and = Við fjármögnum og fjárfestum í fólkinu og viðleit
 
 m24-about-read-more = Lesa meira
 m24-about-read-the-latest = Lestu nýjustu fréttir og greinar frá { -brand-name-mozilla }
-m24-about-14-ai-projects = 14 gervigreindar verkefni til að fylgjast með: Fyrsti Builders Accelerator hópur { -brand-name-mozilla } fer af stað
+m24-about-14-ai-projects = 14 gervigreindarverkefni til að fylgjast með: Fyrsti Builders Accelerator smíðahópur { -brand-name-mozilla } fer af stað
 # Used as an accessible text alternative for an image
 m24-about-chicago = Frumkvöðull í Chicago.
 
@@ -50,7 +50,14 @@ m24-about-read-about-our = Lestu um skuldbindingar okkar
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-conversation = { -brand-name-mozilla } starfsmaður í djúpum samræðum.
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = { -brand-name-mozilla } starfsmaður að drekka kaffi.
+# Used as an accessible text alternative for an image
+m24-about-alt-collaborating = { -brand-name-mozilla } starfsmenn í samstarfi.
 m24-about-join-us-and = Vertu með og gerðu gæfumuninn
+m24-about-join-our-team = Vertu með í teyminu okkar og ýttu mörkum þess sem er mögulegt - án þess að gera málamiðlanir um það sem skiptir máli.
 m24-about-see-open-positions = Skoða lausar stöður
 
 ## Community
