@@ -94,6 +94,7 @@
 
 ## Firefox projects
 
+-brand-name-firefox-labs = Firefox Labs
 
 ## Pocket
 
@@ -105,12 +106,16 @@
 
 ## Anonym
 
+-brand-name-anonym = Anonym
 
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
+-brand-name-irl-podcast = IRL podcast
+-brand-name-llamafile = Llamafile
+-brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN web dokumenti
 -brand-name-mozilla-common-voice = Mozilla Common Voice
@@ -122,7 +127,9 @@
 -brand-name-mozilla-social = Mozilla.social
 # Obsolete string (expires: 2025-01-05)
 -brand-name-mozilla-ai = Mozilla UI
+-brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
+-brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
