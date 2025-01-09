@@ -29,6 +29,7 @@ home-mozilla-takes-bets = „{ -brand-name-mozilla } veðjar sínu til að sýna
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = Vertu með okkur í að móta áreiðanlega gervigreind
+home-work-on-ai = Vinna { -brand-name-mozilla } með gervigreind er ekki bara nýjasta nýtt - við höfum eytt mörgum árum í að fjármagna, byggja upp og tala fyrir gervigreind sem sé opin, sanngjörn og þróuð á ábyrgan hátt. Áhersla okkar er á að búa til gervigreind sem þjónar fólkinu, setur gagnsæi í forgang og þjónar almannaheill, ekki bara markmiðum stórfyrirtækja.
 home-read-more = Lesa meira
 home-so-what-is-mozilla = Hvað er þá { -brand-name-mozilla }?
 home-learn-about-mofo = Frekari upplýsingar um { -brand-name-mozilla-foundation }
