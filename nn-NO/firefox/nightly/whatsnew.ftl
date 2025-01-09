@@ -19,7 +19,7 @@ nightly-whatsnew-this-is-a-good = Det høver godt her å takke { -brand-name-nig
 nightly-whatsnew-if-you-want-to-v3 = Om du vil vite kva som skjer rundt { -brand-name-nightly } og i fellesskapet, kan du lese <a { $blog }>bloggen</a> vår og følgje oss på <a { $mastodon }>Mastodon</a> eller <a { $twitter }>X</a>!
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = Vil du vite kva for plattformsfunksjonar du kan teste på { -brand-name-nightly } og enno ikkje kan sjå på andre { -brand-name-firefox }-kanalar? Ta så ein titt på innstillings-sida for { -brand-name-firefox-labs }.
+nightly-whatsnew-want-to-know-which-v3 = Vil du vite kva for plattformsfunksjonar du kan teste på { -brand-name-nightly } og enno ikkje kan sjå på andre { -brand-name-firefox }-kanalar? Ta så ein titt på innstillings-sida for <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Opplever du krasj? Uventa oppførsel? Nye problem med nettsidekompatibilitet? Det vil vere kjempeflott om du vil vere med på å rapportere dei til <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> slik at dei ikkje kjem med i den endelege utgåva (ekstra karma om du legg til <em>{ -brand-name-nightly }-community</em>-nøkkelord i feilrapportane dine)!

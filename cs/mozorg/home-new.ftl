@@ -37,7 +37,7 @@ home-at-its-core = Ve své podstatě je { -brand-name-mozilla } aktivistická or
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/
-home-at-its-core-v2 = Ve své podstatě je { -brand-name-mozilla } aktivistická organizace vedená nadací { -brand-name-mozilla-foundation }, která se snaží měnit svět prostřednictvím různých podniků, jako jsou { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> a <a { $mozai }>{ -brand-name-mozilla-ai }</a>. V čem se lišíme? Protože se řídíme posláním, znamená to, že máme svobodu činit všechna svá rozhodnutí na základě toho, co je nejlepší pro internet a pro všechny online, nikoli na základě požadavků akcionářů - ty vlastně nemáme.
+home-at-its-core-v2 = Ve své podstatě je { -brand-name-mozilla } aktivistická organizace vedená nadací { -brand-name-mozilla-foundation }, která se snaží měnit svět prostřednictvím různých podniků, jako jsou { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> a <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a>. V čem se lišíme? Protože se řídíme posláním, znamená to, že máme svobodu činit všechna svá rozhodnutí na základě toho, co je nejlepší pro internet a pro všechny online, nikoli na základě požadavků akcionářů - ty vlastně nemáme.
 home-learn-about-mofo = Zjistit více o { -brand-name-mozilla-foundation(case: "loc") }
 home-join-the-fight = Připojte se k boji za zdravý internet
 home-your-voice-your-code = Váš hlas. Váš kód. Vaše nápady. Existují doslova tisíce způsobů, jak můžete přispět do { -brand-name-mozilla(case: "gen") }.
