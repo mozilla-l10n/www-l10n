@@ -14,15 +14,26 @@ m24-home-page-desc-v2 = Við erum að vinna að því að setja stjórnina á in
 
 ## Intro
 
+m24-home-welcome-to-mozilla = Velkomin í { -brand-name-mozilla }
 
 ## Products
 
+m24-home-explore-our-products = Skoðaðu hugbúnaðinn okkar
+m24-home-firefox = { -brand-name-firefox }
+m24-home-thunderbird = { -brand-name-thunderbird }
+m24-home-go-chaosfree-with = Einfaldaðu líf þitt með einu forriti fyrir allan tölvupóstinn þinn, dagatöl og tengiliði.
+m24-home-fakespot = { -brand-name-fakespot }
+m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 
 ## Donate
 
+m24-home-donate = Styrkja
 
 ## AI gallery
 
+m24-home-tag-product = Hugbúnaður
+m24-home-tag-project = Verkefni
 
 ## Media Springboard
 

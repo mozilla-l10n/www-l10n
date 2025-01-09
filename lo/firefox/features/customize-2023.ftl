@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/customize/
 
+features-customize-customize-your-firefox = ປັບແຕ່ງຕົວທ່ອງເວັບ { -brand-name-firefox } ຂອງທ່ານ
 # HTML page description
 features-customize-choose-how-your-browser-looks = ເລືອກວິທີການເບິ່ງຕົວທ່ອງເວັບຂອງທ່ານດ້ວຍຮູບແບບຟຣີຫຼາຍພັນຮູບແບບ.
