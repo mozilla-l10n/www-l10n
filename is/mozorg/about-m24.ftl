@@ -45,6 +45,7 @@ m24-about-chicago = Frumkvöðull í Chicago.
 ## Showcase
 
 m24-about-lets-build-a = Byggjum sanngjarnari framtíð
+m24-about-see-how-were = Sjáðu hvernig við erum að hlúa að fjölbreyttu, jöfnu og aðgengilegu netumhverfi fyrir alla.
 m24-about-read-about-our = Lestu um skuldbindingar okkar
 
 ## Careers

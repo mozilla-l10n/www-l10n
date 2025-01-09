@@ -47,4 +47,8 @@ home-the-mozilla-project = { -brand-name-mozilla } verkefnið var stofnað í Sa
 home-eventually-the-open = Með tímanum breyttist opna { -brand-name-mozilla }-verkefnið í hina geysivinsælu fyrstu útgáfu af { -brand-name-firefox }.
 home-today-mozilla-continues = Í dag heldur { -brand-name-mozilla } áfram baráttu sinni fyrir betra interneti með milljónum virkra samfélagsmeðlima um allan heim, rekur herferðir fyrir siðferði í tækni, áreiðanlegri gervigreind og framleiðslu persónuverndandi hugbúnaðar sem færir völdin til fólksins.
 home-learn-more-about-mozilla = Frekari upplýsingar um { -brand-name-mozilla }
+# VPN Feature
+home-featured-product = Valinn hugbúnaður
+# HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
+home-feature-blur-your-location = Feldu staðsetningu þína og athafnir með <span>{ -brand-name-mozilla-vpn }</span>
 home-mofo-donate = Styrkja

@@ -21,5 +21,7 @@ ui-show-all = Sýna allt
 ui-hide-all = Fela allt
 ui-learn-more = Fræðast meira
 ui-view = Skoða
+ui-pause-animation = Gera hlé á hreyfimynd
+ui-play-animation = Spila hreyfimynd
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Kynning

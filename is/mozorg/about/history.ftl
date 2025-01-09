@@ -51,6 +51,7 @@ history-mozilla-also-celebrated = { -brand-name-mozilla } fagnaði einnig 15 ár
 # Variables:
 #   $all (url) link to https://www.mozilla.org/firefox/all/
 history-more-people-than-ever-before = Fleiri en nokkru sinni áður nota internetið og eru að upplifa það <a href="{ $all }">á sínu eigin tungumáli</a>.
+history-the-future-is-full-of-challenges = Framtíðin er full af áskorunum og tækifærum til jafns við fortíð okkar.
 history-theres-no-guarantee-that = Það er ekkert sjálfgefið að internetið verði áfram opið eða skemmtilegt eða öruggt.
 history-mozilla-will-continue-to = { -brand-name-mozilla } mun halda áfram að veita fólki tækifæri til að láta rödd sína heyrast og móta eigið líf á netinu.
 history-of-course-were-not-alone = Auðvitað erum við ekki ein um að gera þetta.

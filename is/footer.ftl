@@ -49,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Fylgstu með @{ -brand-name-mozilla }
 footer-follow-firefox = Fylgstu með @{ -brand-name-firefox }
 footer-about-this-site = Um þetta vefsvæði
+footer-advertise = Auglýstu með { -brand-name-mozilla }
