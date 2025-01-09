@@ -7,6 +7,7 @@
 
 home-internet-for-people-not-profit = Internet fyrir fólk, ekki gróða
 home-did-you-know-mozilla-the-maker = Vissirðu þetta? Að { -brand-name-mozilla } - sem býr til { -brand-name-firefox } - berst fyrir því að viðhalda Internetinu opnu og aðgengilegu fyrir alla.
+home-mission-driven = Verkefnamiðað. Drifið af almenningi.
 home-cta-get-firefox = Fáðu þér { -brand-name-firefox }
 home-product-pocket-articles = Áhugaverðustu greinarnar á vefnum
 home-cta-get-pocket = Fáðu þér { -brand-name-pocket }

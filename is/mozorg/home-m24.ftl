@@ -75,6 +75,21 @@ m24-home-alt-lumigator-logo = { -brand-name-lumigator }-táknmerki
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Gleðilegur heiðursfélagi hjá { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Staðan hjá { -brand-name-mozilla }
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } er sífellt að endurýja sig, auka fjölbreytni í neti deilda, endurhugsa auglýsingar og búa til gervigreindar-vistkerfi með opnum kóða. Lestu um þetta allt í skýrslunni um stöðuna hjá { -brand-name-mozilla } 2024.
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = Óhlutbundin mynddílalist í grænum, appelsínugulum og bleikum tónum
+m24-home-read-the-report = Lesa skýrsluna
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Snjalltæki með varúðartákn.
+m24-home-explore-issues-shaping = Skoðaðu mál sem munu móta framtíð internetsins
+m24-home-privacy-not-included = *Persónuvernd ekki innifalin
+m24-home-search-our-reviews = Leitaðu í umsögnum okkar til að sjá hvaða tæknigræjur og forrit eru að laumast í gögnin þín.
+m24-home-pni-search-now = Leita núna
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = Bridget Todd, stjórnandi IRL-hlaðvarpsins.
+m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = Margverðlaunaða hlaðvarpið okkar kynnir þá sem vinna að því að gera internetið öruggara og gervigreind áreiðanlegri.
+m24-home-irl-listen-now = Hlusta núna
