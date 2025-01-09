@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/get-ios/
 
-# Used as a small link to a cited source
-compare-shared-source = ഉറവിടം
+get-ios-download-firefox = { -brand-name-ios }-നായി { -brand-name-firefox } ഇറക്കിവയ്ക്കൂ

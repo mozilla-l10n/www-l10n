@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/browsers/compare/
+### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
-# Used as a small link to a cited source
-compare-shared-source = ഉറവിടം
+mobile-focus-made-by-mozilla = { -brand-name-mozilla } ഉണ്ടാക്കിയതു്

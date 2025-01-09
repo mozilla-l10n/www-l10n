@@ -6,7 +6,13 @@
 ### URL: https://www-dev.allizom.org/firefox/all/
 
 firefox-all-choose-browser = തുടരാൻ ഒരു അന്വേഷിയന്ത്രത്തിനെ തിരഞ്ഞെടുക്കുക
+firefox-all-choose-platform = തുടരാൻ ഒരു മഞ്ചം തിരഞ്ഞെടുക്കുക
 firefox-all-choose-language = തുടരാൻ ഒരു ഭാഷ തിരഞ്ഞെടുക്കുക
+firefox-all-change-language = വേറൊരു ഭാഷ തിരഞ്ഞെടുക്കുക
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = ഈ പട്ടിക നിന്നു് തിരഞ്ഞെടുക്കുക
+# Used as an accessible label for a help button. The text is replaced with a "?" icon.
+firefox-all-get-help = സഹായം തേടുക
 firefox-all-browser-v2 = 1. അന്വേഷിയന്ത്രം:
 firefox-all-platform-v2 = 2. മഞ്ചം:
 firefox-all-language-v2 = 3. ഭാഷ:
