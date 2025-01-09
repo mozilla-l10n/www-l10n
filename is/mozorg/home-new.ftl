@@ -19,3 +19,5 @@ home-cta-get-fakespot = Fáðu þér { -brand-name-fakespot }
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = Vertu með okkur í að móta áreiðanlega gervigreind
+home-read-more = Lesa meira
+home-learn-more-about-mozilla = Frekari upplýsingar um { -brand-name-mozilla }
