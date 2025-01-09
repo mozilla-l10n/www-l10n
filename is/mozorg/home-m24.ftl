@@ -63,12 +63,17 @@ m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = Keyrðu auðveldlega stór tungumálalíkön (LLM) á tölvunni þinni með { -brand-name-llamafile } - engin þörf er á sérstakri uppsetningu og gögnin þín haldast örugg á tækinu þínu.
 m24-home-alt-builders = Byggjarar
 m24-home-mozilla-builders = Byggjarar { -brand-name-mozilla }
+m24-home-builders-helps-independent = Byggjarar (builders) hjálpa sjálfstæðum hönnuðum að búa til byltingarkennd opin gervigreindarverkefni með hjálp sérsniðins samstarfs, forritun og framlögum frá samfélaginu.
+# Used as an accessible text alternative for an image
+m24-home-alt-lumigator-logo = { -brand-name-lumigator }-táknmerki
 
 ## Media Springboard
 
 
 ## Showcase
 
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = Gleðilegur heiðursfélagi hjá { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Staðan hjá { -brand-name-mozilla }
 
 ## Issues
