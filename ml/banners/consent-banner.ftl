@@ -6,4 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
 consent-banner-heading = താങ്ങളുടെ { -brand-name-mozilla } അനുഭവം മെച്ചപ്പെടുത്താൻ ഞങ്ങളെ സഹായിക്കൂ
+consent-banner-button-reject = എല്ലാ അധിക കുക്കികളും നിരസിക്കുക
+consent-banner-button-accept = എല്ലാ അധിക കുക്കികളെ സ്വീകരിക്കുക
+consent-banner-settings-link = കുക്കി ക്രമീകരണങ്ങൾ
 consent-banner-aria-label = കുക്കി പൊന്തുവരൽ
