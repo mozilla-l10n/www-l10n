@@ -17,10 +17,18 @@ m24-about-mozilla-is-working = { -brand-name-mozilla } er að vinna að því a�
 
 ## Manifesto
 
+m24-about-together-we-can = Saman getum við haft internetið auðvelt, öruggt og ókeypis - fyrir alla.
 m24-about-read-our-manifesto = Lestu stefnuskrána okkar
+# Used as an accessible text alternative for an image
+m24-about-a-group-of = Hópur hugsuða sem situr í hring á gólfinu og deilir hugmyndum.
+m24-about-advocate = Ráðgjöf
+m24-about-we-advocate-for = Við tölum fyrir betri hugbúnaði og látum stjórnvöld og tæknifyrirtæki bera ábyrgð á sínum verkum.
 m24-about-research = Rannsóknir
 # Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Vöktun
+m24-about-we-uncover-insights = Við flettum upp ítarlegum greiningum, berjumst við að bæta vörur og knýjum fram stefnur sem standa með hagsmunum þínum.
+# Obsolete string (expires: 2025-02-03)
+m24-about-we-monitor-developments = Við vöktum þróun, setjum í gang rannsóknir, berjumst við að bæta vörur og knýjum fram stefnur sem standa með hagsmunum þínum.
 m24-about-build = Smíði
 m24-about-we-build-products = Við byggjum hugbúnað sem veitir þér stjórnina – eins og { -brand-name-firefox }, { -brand-name-fakespot } og fleira.
 m24-about-fund = Fjárfesting
@@ -30,12 +38,14 @@ m24-about-we-fund-and = Við fjármögnum og fjárfestum í fólkinu og viðleit
 
 m24-about-read-more = Lesa meira
 m24-about-read-the-latest = Lestu nýjustu fréttir og greinar frá { -brand-name-mozilla }
+m24-about-14-ai-projects = 14 gervigreindar verkefni til að fylgjast með: Fyrsti Builders Accelerator hópur { -brand-name-mozilla } fer af stað
 # Used as an accessible text alternative for an image
 m24-about-chicago = Frumkvöðull í Chicago.
 
 ## Showcase
 
 m24-about-lets-build-a = Byggjum sanngjarnari framtíð
+m24-about-read-about-our = Lestu um skuldbindingar okkar
 
 ## Careers
 
