@@ -66,9 +66,18 @@ m24-home-mozilla-builders = Byggjarar { -brand-name-mozilla }
 m24-home-builders-helps-independent = Byggjarar (builders) hjálpa sjálfstæðum hönnuðum að búa til byltingarkennd opin gervigreindarverkefni með hjálp sérsniðins samstarfs, forritun og framlögum frá samfélaginu.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }-táknmerki
+m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-donate-your-voice = Gefðu raddsýnishorn
 
 ## Media Springboard
 
+m24-home-type = Tegund
+m24-home-author = Höfundur
+m24-home-topic = Umræðuefni
+m24-home-intro = Inngangur
+m24-home-tag-article = Grein
+m24-home-tag-podcast = Hlaðvarp
+m24-home-tag-video = Myndskeið
 
 ## Showcase
 

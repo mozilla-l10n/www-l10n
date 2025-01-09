@@ -12,12 +12,23 @@ m24-about-page-desc = { -brand-name-mozilla } býr til vafra, forrit, kóða og 
 
 ## Intro
 
+m24-about-reclaim-the-internet = Endurheimtu internetið með okkur
+m24-about-mozilla-is-working = { -brand-name-mozilla } er að vinna að því að setja stjórnina á internetinu aftur í hendur fólksins sem notar það.
 
 ## Manifesto
 
+m24-about-read-our-manifesto = Lestu stefnuskrána okkar
+m24-about-research = Rannsóknir
+# Obsolete string (expires: 2025-02-03)
+m24-about-monitor = Vöktun
+m24-about-build = Smíði
+m24-about-we-build-products = Við byggjum hugbúnað sem veitir þér stjórnina – eins og { -brand-name-firefox }, { -brand-name-fakespot } og fleira.
+m24-about-fund = Fjárfesting
+m24-about-we-fund-and = Við fjármögnum og fjárfestum í fólkinu og viðleitni til að taka tækni, internetið og gervigreind í rétta átt.
 
 ## News
 
+m24-about-read-more = Lesa meira
 
 ## Showcase
 
