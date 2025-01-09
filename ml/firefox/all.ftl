@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+firefox-all-which-version = താങ്ങൾക്കു് ഏതു് പതിപ്പു് വേണം?
+firefox-all-select-your-preferred-language = ഇഷ്ഠപെട്ട ഭാഷ തിരഞ്ഞെടുക്കുക
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
