@@ -90,3 +90,4 @@ firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-n
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
 firefox-all-download-esr-115 = Sækja ESR 115
+firefox-all-note-unsupported = Athugaðu: Ef þú ert að nota Windows 7, Windows 8, Windows 8.1 eða macOS 10.12, 10.13 eða 10.14, þá ættirðu að sækja ESR 115 til að nota { -brand-name-firefox }.
