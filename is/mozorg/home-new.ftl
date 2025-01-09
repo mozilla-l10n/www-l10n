@@ -20,4 +20,5 @@ home-cta-get-fakespot = Fáðu þér { -brand-name-fakespot }
 home-politico-cite = Politico
 home-join-us-in-shaping = Vertu með okkur í að móta áreiðanlega gervigreind
 home-read-more = Lesa meira
+home-join-the-fight = Taktu þátt í baráttunni fyrir heilbrigðu interneti
 home-learn-more-about-mozilla = Frekari upplýsingar um { -brand-name-mozilla }

@@ -49,6 +49,7 @@ m24-home-llamafile = { -brand-name-llamafile }
 
 ## Showcase
 
+m24-home-state-of-mozilla = Staðan hjá { -brand-name-mozilla }
 
 ## Issues
 
