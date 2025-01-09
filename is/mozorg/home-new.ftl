@@ -47,3 +47,4 @@ home-the-mozilla-project = { -brand-name-mozilla } verkefnið var stofnað í Sa
 home-eventually-the-open = Með tímanum breyttist opna { -brand-name-mozilla }-verkefnið í hina geysivinsælu fyrstu útgáfu af { -brand-name-firefox }.
 home-today-mozilla-continues = Í dag heldur { -brand-name-mozilla } áfram baráttu sinni fyrir betra interneti með milljónum virkra samfélagsmeðlima um allan heim, rekur herferðir fyrir siðferði í tækni, áreiðanlegri gervigreind og framleiðslu persónuverndandi hugbúnaðar sem færir völdin til fólksins.
 home-learn-more-about-mozilla = Frekari upplýsingar um { -brand-name-mozilla }
+home-mofo-donate = Styrkja

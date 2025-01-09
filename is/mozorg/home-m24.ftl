@@ -86,6 +86,9 @@ m24-home-intro = Inngangur
 m24-home-tag-article = Grein
 m24-home-tag-podcast = Hlaðvarp
 m24-home-tag-video = Myndskeið
+m24-home-topic-news = Fréttir
+m24-home-topic-ai = Gervigreind
+m24-home-topic-ps = Persónuvernd og öryggi
 
 ## Showcase
 

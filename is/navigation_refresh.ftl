@@ -2,9 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+navigation-refresh-mozilla = { -brand-name-mozilla }
 
 ## About us
 
+navigation-refresh-about-us = Um okkur
+navigation-refresh-about-mozilla = Um { -brand-name-mozilla }
+navigation-refresh-close-about-us-menu = Loka umfjöllunarvalmyndinni
+navigation-refresh-mozilla-manifesto = Stefnuskrá { -brand-name-mozilla }
+navigation-refresh-mozilla-manifesto-v2 = Stefnuskrá { -brand-name-mozilla }
+navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-refresh-innovation-projects-v2 = Nýsköpunarverkefni
+navigation-refresh-blog = Blogg
 navigation-refresh-our-mission = Markmið okkar
 navigation-refresh-our-work = Starfið okkar
 # Obsolete string (expires: 2025-01-05)
