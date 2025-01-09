@@ -7,3 +7,5 @@
 
 best-browser-privacy-speed-and-security = Privatizza, listizza e sicurizza.
 best-browser-how-to-choose-the-best = Comu scartari u megghiu navicaturi pi tia.
+best-browser-a-browser-that-minds = Un navicaturi chi si fa i fatti so.
+best-browser-take-control-of-your = Pigghia u cuntrollu dû to navicaturi.
