@@ -29,12 +29,17 @@ m24-about-we-fund-and = Við fjármögnum og fjárfestum í fólkinu og viðleit
 ## News
 
 m24-about-read-more = Lesa meira
+m24-about-read-the-latest = Lestu nýjustu fréttir og greinar frá { -brand-name-mozilla }
+# Used as an accessible text alternative for an image
+m24-about-chicago = Frumkvöðull í Chicago.
 
 ## Showcase
 
+m24-about-lets-build-a = Byggjum sanngjarnari framtíð
 
 ## Careers
 
+m24-about-join-us-and = Vertu með og gerðu gæfumuninn
 m24-about-see-open-positions = Skoða lausar stöður
 
 ## Community

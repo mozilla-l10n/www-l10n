@@ -66,7 +66,12 @@ m24-home-mozilla-builders = Byggjarar { -brand-name-mozilla }
 m24-home-builders-helps-independent = Byggjarar (builders) hjálpa sjálfstæðum hönnuðum að búa til byltingarkennd opin gervigreindarverkefni með hjálp sérsniðins samstarfs, forritun og framlögum frá samfélaginu.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }-táknmerki
+m24-home-lumigator = { -brand-name-lumigator }
+m24-home-find-the-just = Finndu rétta útgáfu LLM sem hentar þörfum þínum, notkunarsviði og gögnum.
+# Used as an accessible text alternative for an image
+m24-home-alt-trustworthy = Mark Surman, forseti { -brand-name-mozilla }.
 m24-home-can-ai-be = Er hægt að treysta gervigreind?
+m24-home-in-a-world = Í heimi þar sem nýsköpun tengd gervigreind er drifin áfram af fáum útvöldum, eigum við á hættu að einokun umleiki þessa tækni. Beiting aðferða úr opnum hugtbúnaði á gervigreind gæti breytt því.
 m24-home-watch-now = Horfa núna
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
