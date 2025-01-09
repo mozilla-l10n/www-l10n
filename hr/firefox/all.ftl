@@ -7,6 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Preuzmi { -brand-name-firefox } na hrvatskom jeziku i na više od 90 drugih jezika
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Svatko zaslužuje pristup internetu – jezik nikada ne bi trebao biti prepreka. Stoga, uz pomoć mnogobrojnih volontera širom svijeta, nudimo { -brand-name-firefox } na više od 90 jezika.
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = Snimi QR kod za dobivanje aplikacje <em>{ $product_name }</em>
@@ -42,6 +44,9 @@ firefox-all-download-esr-version = Preuzmi { $esr_version }
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = Nalazimo se u prijelaznom razdoblju između glavnih ESR verzija { $esr_next_major } i { $esr_current_major }.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Pročitaj više o <a { $attrs }>ciklusu { -brand-name-firefox-esr } izdanja</a>.
 firefox-all-check-the-system-requirements = Provjeri preduvjete sustava
 firefox-all-release-notes = Napomene o izdanju
 firefox-all-source-code = Izvorni kod
@@ -56,6 +61,7 @@ firefox-all-count-on-stability-and = Računaj na stabilnost i jednostavnost upot
 firefox-all-windows-installers-for = Instalacijski Windows programi za korporativni IT, koji pojednostavljuju konfiguriranje, upotrebu i upravljanje preglednikom { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = ARM64/AArch64 instaleri
 firefox-all-arm64-installers-optimized-v2 = Programi za instalaciju ARM64/AArch64 su optimirani za Windows i Linux računala.
+firefox-all-testflight = Prijavi se za testiranje aplikacije { -brand-name-firefox } za iOS s TestFlight
 firefox-all-product-send-link = Pošalji poveznicu za preuzimanje na svoj mobitel
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -79,4 +85,5 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
 firefox-all-download-esr-115 = Preuzmi ESR 115
