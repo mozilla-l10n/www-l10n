@@ -46,7 +46,7 @@
 
 -brand-name-beta = Beta-prófunarútgáfa
 -brand-name-developer-edition = Developer Edition
--brand-name-enterprise = Enterprise
+-brand-name-enterprise = Fyrirtæki
 -brand-name-esr = ESR
 -brand-name-focus = Focus
 -brand-name-nightly = Nightly

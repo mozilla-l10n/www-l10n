@@ -24,4 +24,21 @@ about-this-site-report-a-bug = Tilkynna villu
 about-this-site-contribute-to-code = Bæta við efni í kóðagrunninn
 about-this-site-contribute-to-l10n = Stuðla að þýðingum
 about-this-site-read-the-docs = Lesa hjálparskjölin
+about-this-site-colophon = Tæknilegar upplýsingar
 about-this-site-some-open-source-projects = Nokkð af þeim opna hugbúnaði sem notaður er við gerð þessa vefs:
+# Variables:
+#   $django (url) link to https://www.djangoproject.com/
+#   $jinja (url) link to https://jinja.palletsprojects.com/
+about-this-site-django = <a href="{ $django }">Django</a> sem bakvinnslukerfi, með <a href="{ $jinja }">Jinja</a> fyrir sniðmát.
+# Variables:
+#   $protocol (url) link to https://protocol.mozilla.org/
+about-this-site-mozilla-protocol = <a href="{ $protocol }">Protocol</a> hönnunarkerfi { -brand-name-mozilla } fyrir viðmótshluta og vörumerkingar.
+# Variables:
+#   $fluent (url) link to https://projectfluent.org/
+about-this-site-fluent = { -brand-name-mozilla }'s <a href="{ $fluent }">Fluent</a> staðfærslukerfi fyrir þýðingar tungumála.
+# Variables:
+#   $github (url) link to https://github.com/mozilla/bedrock
+about-this-site-many-other = Mörg önnur smærri aðgerðasöfn og kerfi, sem þú getur séð í <a href="{ $github }">{ -brand-name-github } kóðasafninu</a> okkar.
+# Variables:
+#   $credits (url) link to https://www.mozilla.org/credits/
+about-this-site-we-extend = Við þökkum öllum { -brand-name-mozilla } <a href="{ $credits }">þátttakendum</a> sem hafa hjálpað til við að gera vefinn að betri stað.

@@ -96,7 +96,9 @@ m24-home-topic-ps = Persónuvernd og öryggi
 
 m24-home-rise25-awards = { -brand-name-rise25 } verðlaunin
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-joyous = Gleðilegur heiðursfélagi hjá { -brand-name-rise25 }.
+m24-home-alt-rise25-proud = Stoltur heiðursfélagi hjá { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = Glaðlegur heiðursfélagi hjá { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Staðan hjá { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } er sífellt að endurýja sig, auka fjölbreytni í neti deilda, endurhugsa auglýsingar og búa til gervigreindar-vistkerfi með opnum kóða. Lestu um þetta allt í skýrslunni um stöðuna hjá { -brand-name-mozilla } 2024.
 # Used as an accessible text alternative for an image
