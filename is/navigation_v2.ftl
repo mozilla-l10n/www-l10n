@@ -64,6 +64,7 @@ navigation-v2-mozilla-blog = { -brand-name-mozilla } bloggið
 navigation-v2-learn-about-mozilla-and = Fræðstu betur um { -brand-name-mozilla } og málefnin sem skipta okkur máli.
 navigation-v2-more-about-mozilla = Meira um { -brand-name-mozilla }
 navigation-v2-impact = Áhrif
+navigation-v2-find-out-how = Finndu út hvernig við gerum internetið sjálfbærara og án aðgreiningar
 
 ## Innovation menu
 

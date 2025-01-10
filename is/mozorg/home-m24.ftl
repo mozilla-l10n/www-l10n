@@ -77,6 +77,7 @@ m24-home-watch-now = Horfa núna
 m24-home-alt-ventures = Ræðumaður á sviði með mörgum vörumerkjum.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice-to-make = Gefðu rödd þína til að gera taltækni meira án aðgreiningar og aðgengilegri fyrir alla.
 m24-home-donate-your-voice = Gefðu raddsýnishorn
 
 ## Media Springboard
@@ -95,6 +96,8 @@ m24-home-topic-ps = Persónuvernd og öryggi
 m24-home-headline-you-ai = Fyrirsögn: Þú, gervigreind og internetið - hvað er eiginlega í gangi?
 m24-home-headline-you-ai-v2 = Þú, gervigreind og internetið - hvað er eiginlega í gangi?
 m24-home-introducing-anonym = Við kynnum { -brand-name-anonym }: Hækkum öll viðmið varðandi stafrænar auglýsingar sem varðveita friðhelgi einkalífsins.
+m24-home-keeping-genai-technologies = Að halda GenAI-tækni öruggri er sameiginleg ábyrgð okkar.
+m24-home-from-hollywood-to = Allt frá Hollywood yfir í hip-hop eru listamenn að semja um upplýst samþykki varðandi notkun verka sinna í gervigreind.
 
 ## Showcase
 
