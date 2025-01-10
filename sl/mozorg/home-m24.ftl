@@ -77,3 +77,4 @@ m24-home-headline-you-ai-v2 = Vi, umetna inteligenca in internet – kaj se prav
 
 ## Issues
 
+m24-home-irl-podcast = { -brand-name-irl-podcast }

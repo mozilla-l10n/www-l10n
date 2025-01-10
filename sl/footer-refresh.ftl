@@ -38,4 +38,5 @@ footer-refresh-websites-cookies = Piškotki
 footer-refresh-websites-legal = Pravne informacije
 footer-refresh-community-participation-guidelines = Smernice za sodelovanje v skupnosti
 footer-refresh-about-this-site = O tem spletnem mestu
+footer-refresh-all-languages = Vsi jeziki
 footer-refresh-language = Jezik
