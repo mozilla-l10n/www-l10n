@@ -14,6 +14,7 @@ navigation-refresh-mozilla-manifesto-v2 = Stefnuskrá { -brand-name-mozilla }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Taktu þátt
 navigation-refresh-get-involved-v2 = Taktu þátt
+navigation-refresh-innovation-projects = Nýsköpunarverkefni
 navigation-refresh-innovation-projects-v2 = Nýsköpunarverkefni
 navigation-refresh-blog = Blogg
 navigation-refresh-our-mission = Markmið okkar

@@ -39,6 +39,10 @@ m24-about-we-fund-and = Við fjármögnum og fjárfestum í fólkinu og viðleit
 m24-about-read-more = Lesa meira
 m24-about-read-the-latest = Lestu nýjustu fréttir og greinar frá { -brand-name-mozilla }
 m24-about-14-ai-projects = 14 gervigreindarverkefni til að fylgjast með: Fyrsti Builders Accelerator smíðahópur { -brand-name-mozilla } fer af stað
+m24-about-at-our-rise25 = Við afhendingu { -brand-name-rise25 } verðlaunanna okkar er framtíð gervigreindar traustvekjandi, ábyrg og fyrir alla
+# Used as an accessible text alternative for an image
+m24-about-rise25-award = Viðtakandi { -brand-name-rise25 } verðlauna bendir á verðlaunagripinn sinn.
+m24-about-empowering-chicagos-entrepreneurs = Stuðningur við frumkvöðla Chicago vegna kynslóðaskipta
 # Used as an accessible text alternative for an image
 m24-about-chicago = Frumkvöðull í Chicago.
 
