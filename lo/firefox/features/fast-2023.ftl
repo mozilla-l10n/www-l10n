@@ -7,4 +7,5 @@
 
 features-fast-is-firefox-the-fastest-browser = { -brand-name-firefox } ເປັນຕົວທ່ອງເວັບທີ່ໄວທີ່ສຸດບໍ?
 features-fast-browse-faster = ທ່ອງເວັບໄວຂື້ນ
+features-fast-multi-tasking-with-multiple-tabs = ເຮັດສິ່ງຕ່າງໆໄດ້ພ້ອມກັນດ້ວຍແຖບຫຼາຍແຖບ
 features-fast-faster-gaming = ເກມໄວຂຶ້ນ

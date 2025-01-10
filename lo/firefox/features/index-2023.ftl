@@ -7,6 +7,8 @@
 
 features-index-is-firefox-a-private-browser = { -brand-name-firefox } ເປັນຕົວທ່ອງເວັບທີ່ໄວທີ່ສຸດບໍ?
 features-index-free-password-manager = ຕົວຈັດການລະຫັດຜ່ານຟຣີ
+features-index-customize-your-firefox-browser = ປັບແຕ່ງຕົວທ່ອງເວັບ { -brand-name-firefox } ຂອງທ່ານ
+features-index-choose-how-your-browser-looks = ເລືອກວິທີການເບິ່ງຕົວທ່ອງເວັບຂອງທ່ານດ້ວຍຮູບແບບຟຣີຫຼາຍພັນຮູບແບບ.
 features-index-firefox-browser-sync = { -brand-name-firefox } ການຊິງຄ໌ຂອງຕົວທ່ອງເວັບ
 features-index-bookmark-manager = ໂຕຈັດການບຸກມາກ
 features-index-eyedropper-tool = Eyedropper tool
