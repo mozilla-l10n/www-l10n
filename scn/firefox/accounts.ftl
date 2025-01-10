@@ -7,6 +7,8 @@
 
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Cria un cuntu { -brand-name-mozilla-account } – Teni i to dati privati, sicuri e sincrunizzati.
+# HTML page description
+mozilla-accounts-securely-sync-your = Sincrunizza di manera sicura tutti i to chiavi, i nzingalibbra e i schedi ntra tutti i to dispusitivi. Crìa ora un { -brand-name-mozilla-account }: na chiavi sula p'aviri libbirtà e privatizza unn'è-è.
 firefox-accounts-enter-your-email-address = Metti u to nnirizzu di posta elittrònica p'accuminciari.
 firefox-accounts-already-have-an-account = Ài già un cuntu?
 firefox-accounts-sign-in = Trasi
@@ -24,6 +26,7 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Sarbari e sincrunizzari
 firefox-accounts-get-email-alerts = Ricìviri nutizzi nnâ posta elittrònica quannu i to nfurmazzioni affàccianu nta na viulazzioni dî dati
 firefox-accounts-protect-your-identity = Prutèggiri a to idintità usannu na màscara pû tilèfunu e a posta elittrònica
 firefox-accounts-keep-your-passwords = Tèniri i to chiavi ô sicuru e sempri a purtata di manu.
+firefox-accounts-get-a-lookout-for = Teni sutta cuntrollu tutti i viulazzioni dî dati.
 firefox-accounts-travel-the-internet = Nàvica nnâ riti di manera prutetta, nni tutti i dispusitivi.
 firefox-accounts-encrypt-your = Critta a to attività di riti e ammuccia u to nnirizzu IP
 firefox-accounts-we-never = Nun riggistramu, trazzamu o spartemu mai i to dati di riti
