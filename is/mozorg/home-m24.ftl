@@ -91,12 +91,19 @@ m24-home-tag-video = Myndskeið
 m24-home-topic-news = Fréttir
 m24-home-topic-ai = Gervigreind
 m24-home-topic-ps = Persónuvernd og öryggi
+# Obsolete string (expires: 2025-02-03)
+m24-home-headline-you-ai = Fyrirsögn: Þú, gervigreind og internetið - hvað er eiginlega í gangi?
+m24-home-headline-you-ai-v2 = Þú, gervigreind og internetið - hvað er eiginlega í gangi?
+m24-home-introducing-anonym = Við kynnum { -brand-name-anonym }: Hækkum öll viðmið varðandi stafrænar auglýsingar sem varðveita friðhelgi einkalífsins.
 
 ## Showcase
 
 m24-home-rise25-awards = { -brand-name-rise25 } verðlaunin
+m24-home-watch-the-award = Horfðu á verðlaunaafhendinguna
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-proud = Stoltur heiðursfélagi hjá { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = Öruggur brosandi ræðumaður á { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Glaðlegur heiðursfélagi hjá { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Staðan hjá { -brand-name-mozilla }

@@ -45,7 +45,7 @@
 ## Firefox browsers (short names)
 
 -brand-name-beta = Beta-prófunarútgáfa
--brand-name-developer-edition = Developer Edition
+-brand-name-developer-edition = Developer Edition þróunarútgáfa
 -brand-name-enterprise = Fyrirtæki
 -brand-name-esr = ESR
 -brand-name-focus = Focus

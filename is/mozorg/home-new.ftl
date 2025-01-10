@@ -51,5 +51,7 @@ home-learn-more-about-mozilla = Frekari upplýsingar um { -brand-name-mozilla }
 home-featured-product = Valinn hugbúnaður
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Feldu staðsetningu þína og athafnir með <span>{ -brand-name-mozilla-vpn }</span>
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Byggjum upp hreyfinguna okkar
 home-mofo-donate-to-mofo-today = Gefðu til { -brand-name-mozilla-foundation } strax í dag til að tryggja að internetið sé áfram opið og aðgengilegt öllum.
 home-mofo-donate = Styrkja

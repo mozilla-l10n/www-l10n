@@ -12,3 +12,4 @@ installer-help-page-title = Niðurhalið þitt var truflað
 
 ##
 
+installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
