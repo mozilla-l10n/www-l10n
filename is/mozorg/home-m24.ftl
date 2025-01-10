@@ -98,6 +98,7 @@ m24-home-headline-you-ai-v2 = Þú, gervigreind og internetið - hvað er eiginl
 m24-home-introducing-anonym = Við kynnum { -brand-name-anonym }: Hækkum öll viðmið varðandi stafrænar auglýsingar sem varðveita friðhelgi einkalífsins.
 m24-home-keeping-genai-technologies = Að halda GenAI-tækni öruggri er sameiginleg ábyrgð okkar.
 m24-home-from-hollywood-to = Allt frá Hollywood yfir í hip-hop eru listamenn að semja um upplýst samþykki varðandi notkun verka sinna í gervigreind.
+m24-home-kids-are-growing = Krakkar eru að alast upp í alveg nettengdum heimi. Hvað eiga áhyggjufullir foreldrar að gera?
 
 ## Showcase
 
