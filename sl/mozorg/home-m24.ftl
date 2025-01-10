@@ -27,12 +27,24 @@ m24-home-fakespot = { -brand-name-fakespot }
 m24-home-pocket = { -brand-name-pocket }
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
 
 
 ## AI gallery
 
+m24-home-tag-product = Izdelek
+m24-home-tag-project = Projekt
+m24-home-tag-program = Program
+m24-home-tag-event = Dogodek
+m24-home-read-more = Preberite več
+m24-home-get-started = Začnite
+# Used as an accessible text alternative for an image
+m24-home-alt-llamafile-logo = Logotip projekta { -brand-name-llamafile }.
+m24-home-llamafile = { -brand-name-llamafile }
+# Used as an accessible text alternative for an image
+m24-home-alt-lumigator-logo = Logotip { -brand-name-lumigator }ja.
 m24-home-lumigator = { -brand-name-lumigator }
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Mark Surman, predsednik { -brand-name-mozilla(sklon: "rodilnik") }.
