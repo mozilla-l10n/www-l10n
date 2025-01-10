@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+compare-shared-compare-firefox = Apparaggia { -brand-name-firefox }
+compare-shared-footer-cta-title = Fa' cchiù assai cu { -brand-name-firefox }
 compare-shared-footer-cta-button = Scàrrica { -brand-name-firefox }
 compare-shared-we-also-offer-easy = Uffremu macari funzioni fàcili d'usari, a tipu:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } àvi macari stigghi ntigrati, a tipu:
