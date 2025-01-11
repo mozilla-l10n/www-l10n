@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/about/manifesto/
 
 # HTML page title
-manifesto-the-mozilla-manifesto = മോസില്ല മാനിഫെസ്റ്റോ
+manifesto-the-mozilla-manifesto = { -brand-name-mozilla } വിളംബരപത്രിക
 manifesto-individuals-security-and = ഇൻറർനെറ്റിലെ വ്യക്തികളുടെ സുരക്ഷയും സ്വകാര്യതയും അടിസ്ഥാനപരമാണ്, അത് ഓപ്ഷണലായി കണക്കാക്കരുത്.
 manifesto-individuals-must-have = വ്യക്തികൾക്ക് തങ്ങളുടെ അനുഭവങ്ങളുടെയും പ്രയോഗത്തിന്റെയും അടിസ്ഥാനത്തിൽ ഇന്റർനെറ്റിനെ രൂപപ്പെടുത്താൻ കഴിയണം.
 manifesto-the-effectiveness-of-the = ഇന്റർനെറ്റിന്റെ പൊതുവൽക്കരണത്തിന്റെ ഫലപ്രാപ്തി ഇന്റർറോപ്പറബിളിറ്റി (പ്രോട്ടോക്കോളുകൾ, ഡാറ്റാ ഫോർമാറ്റുകൾ, ഉള്ളടക്കം), നവീകരണവും കൂടാതെ ലോകവ്യാപകമായുളള വികേന്ദ്രീകൃത പങ്കാളിത്തവുമായി ആശ്രയിച്ചിരിക്കുന്നു.
@@ -35,14 +35,14 @@ manifesto-08 = 08
 manifesto-09 = 09
 manifesto-10 = 10
 # Main page heading
-manifesto-the-mozilla-manifesto-addendum = മോസില്ല മാനിഫെസ്റ്റോ അനുബന്ധം
+manifesto-the-mozilla-manifesto-addendum = { -brand-name-mozilla } വിളംബരപത്രിക അനുബന്ധം
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = ഒരു ആരോഗ്യകരമായ ഇൻറർനെറ്റിനായുള്ള പ്രതിജ്ഞ
 manifesto-show-your-support = നിങ്ങളുടെ പിന്തുണ കാണിക്കുക
 manifesto-our-10-principles = <strong>ഞങ്ങളുടെ 10</strong>തത്വങ്ങൾ
 manifesto-read-the-entire-manifesto = മുഴുവൻ മാനിഫെസ്റ്റോയും വായിക്കുക
 manifesto-love-the-web = വെബ് ഇഷ്ടമാണോ?
-manifesto-details-the-mozilla-manifesto = മോസില്ല മാനിഫെസ്റ്റോ
+manifesto-details-the-mozilla-manifesto = { -brand-name-mozilla } വിളംബരപത്രിക
 manifesto-details-introduction = ആമുഖം
 manifesto-details-the-internet-is-becoming = ഇന്റര്‍നെറ്റ് നമ്മുടെ ജീവിതത്തിലെ ഒഴിച്ചുകൂടാനാവാത്ത ഭാഗമായിക്കൊണ്ടിരിക്കുന്നു.
 manifesto-details-the-mozilla-project-global = സുതാര്യതയും, നവീകരണവും, അവസരവും ഇന്റർനെറ്റിന്റെ തുടർച്ചയായ ആരോഗ്യത്തിന് പ്രധാനമാണെന്ന് വിശ്വസിക്കുന്ന ഒരു ആഗോള സമൂഹമാണ് മോസില്ല പ്രോജക്റ്റ്. ഇന്റർനെറ്റ് എല്ലാവർക്കുമായി പ്രയോജനം ചെയ്യുന്ന വിധത്തിൽ വികസിപ്പിച്ചെടുക്കാന്‍ വേണ്ടി നമ്മൾ 1998 മുതൽ ഒരുമിച്ച് പ്രവർത്തിക്കുന്നു. മോസില്ല ഫയർഫോക്സ് വെബ്ബ് ബ്രൌസർ സൃഷ്ടിക്കുന്നതിൽ ഞങ്ങള്‍കൂടുതലായി അറിയപ്പെടുന്നു.
