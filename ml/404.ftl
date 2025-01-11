@@ -15,3 +15,6 @@ not-found-page-learn-about-mozilla-the-non = { -brand-name-firefox } ന് പ�
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = താങ്ങളുടെ മൊബൈൽ അല്ലെങ്കിൽ ഉപരിഫലകത്തിനു് { -brand-name-firefox } അന്വേഷിയന്ത്രം <a href={ $download }>ഇറക്കിവയ്ക്കൂ</a>
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = { -brand-name-mozilla-foundation }-ലേക്കു് <a { $donate }>സംഭാവന</a> ചെയ്തിട്ടു് ഗോളാന്തരവല വലിയ സ്ഥാപണങ്ങളിൽ നിന്നു് തിരിച്ചെടുക്കുക
