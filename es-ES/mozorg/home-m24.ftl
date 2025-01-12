@@ -43,6 +43,8 @@ m24-home-mask-your-email = Enmascara tu correo electrónico y número de teléfo
 ## Donate
 
 m24-home-donate-to-the = Dona a la organización sin ánimo de lucro { -brand-name-mozilla }
+m24-home-mozilla-is-building = { -brand-name-mozilla } está construyendo un movimiento para recuperar Internet. Juntos podemos construir un futuro donde nuestra privacidad esté protegida, la IA sea fiable y las empresas tecnológicas irresponsables tengan que rendir cuentas. Pero eso solo es posible si lo hacemos juntos.
+m24-home-were-proudly-nonprofit = Estamos orgullosos de ser una organización sin ánimo de lucro. ¿Donarías a { -brand-name-mozilla } hoy?
 m24-home-donate = Donar
 
 ## AI gallery
@@ -95,6 +97,10 @@ m24-home-topic-ps = Privacidad y seguridad
 m24-home-headline-you-ai = Titular: Tú, la IA e Internet: ¿qué está pasando realmente?
 m24-home-headline-you-ai-v2 = Tú, la IA e Internet: ¿qué está pasando realmente?
 m24-home-introducing-anonym = Presentamos { -brand-name-anonym }: elevamos el nivel de la publicidad digital que preserva la privacidad.
+m24-home-keeping-genai-technologies = Mantener seguras las tecnologías GenAI es una responsabilidad compartida.
+m24-home-from-hollywood-to = Desde Hollywood hasta el hip hop, los artistas están negociando el consentimiento de la IA.
+m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } rinde homenaje a creadores innovadores en la nueva serie documental “{ -brand-name-firefox } Presents”.
+m24-home-big-techs-power = El poder de las grandes tecnológicas sobre el idioma significa poder sobre las personas. Bridget Todd habla con líderes de la comunidad lingüística allanando el camino para la IA de voz en sus propios idiomas y dialectos.
 
 ## Showcase
 
