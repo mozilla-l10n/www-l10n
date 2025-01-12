@@ -101,9 +101,36 @@ m24-home-keeping-genai-technologies = Mantener seguras las tecnologías GenAI es
 m24-home-from-hollywood-to = Desde Hollywood hasta el hip hop, los artistas están negociando el consentimiento de la IA.
 m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } rinde homenaje a creadores innovadores en la nueva serie documental “{ -brand-name-firefox } Presents”.
 m24-home-big-techs-power = El poder de las grandes tecnológicas sobre el idioma significa poder sobre las personas. Bridget Todd habla con líderes de la comunidad lingüística allanando el camino para la IA de voz en sus propios idiomas y dialectos.
+m24-home-why-does-it = ¿Por qué tan a menudo parece que formamos parte de un experimento masivo de inteligencia artificial? ¿Cuál es la forma responsable de probar nuevas tecnologías? Bridget Todd explora lo que significa vivir con sistemas de inteligencia artificial no probados que afectan a millones de personas a medida que se implementan en la vida pública.
+m24-home-kids-are-growing = Los niños están creciendo en un mundo demasiado en línea. ¿Qué debe hacer un padre preocupado?
 
 ## Showcase
 
+m24-home-rise25-awards = Premios { -brand-name-rise25 }
+m24-home-get-to-know = Conoce a los líderes que promueven un desarrollo de IA fiable, inclusivo y transparente mientras establecen un nuevo estándar e inspiran a la próxima generación de innovadores.
+m24-home-watch-the-award = Ver la entrega de premios
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = Un orgulloso galardonado en { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = Un orador seguro y sonriente en { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = Un alegre galardonado en { -brand-name-rise25 }.
+m24-home-state-of-mozilla = Estado de { -brand-name-mozilla }
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se está reinventando a sí misma, diversificándose en torno a una constelación de organizaciones, reimaginando la publicidad y creando un ecosistema de IA de código abierto. Lee acerca de esto en el Informe sobre el estado de { -brand-name-mozilla } de 2024.
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = Pixel art abstracto en tonos de verde, naranja y rosa
+m24-home-read-the-report = Leer el informe
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Dispositivos inteligentes con el icono de precaución.
+m24-home-explore-issues-shaping = Explora las cuestiones que dan forma al futuro de Internet
+m24-home-privacy-not-included = *Privacidad no incluida
+m24-home-search-our-reviews = Busca en nuestras reseñas para ver qué dispositivos y aplicaciones tecnológicas están robando sigilosamente tus datos.
+m24-home-pni-search-now = Buscar ahora
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = Bridget Todd, presentadora del podcast IRL.
+m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = Nuestro podcast, ganador de múltiples premios, presenta a los creadores del cambio, que trabajan para hacer que Internet sea más seguro y la IA más fiable.
+m24-home-irl-listen-now = Escuchar ahora
