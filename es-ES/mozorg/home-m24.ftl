@@ -43,9 +43,21 @@ m24-home-mask-your-email = Enmascara tu correo electrónico y número de teléfo
 ## Donate
 
 m24-home-donate-to-the = Dona a la organización sin ánimo de lucro { -brand-name-mozilla }
+m24-home-donate = Donar
 
 ## AI gallery
 
+m24-home-tag-product = Producto
+m24-home-tag-project = Proyecto
+m24-home-tag-program = Programa
+m24-home-tag-event = Evento
+m24-home-read-more = Leer más
+m24-home-get-started = Comenzar
+m24-home-join-the-movement = Únete al movimiento:<br> IA para la gente
+m24-home-our-mission-is = Nuestra misión es facilitar a las personas la creación y la colaboración con una IA fiable y de código abierto.
+# Used as an accessible text alternative for an image
+m24-home-alt-llamafile-logo = Logo de { -brand-name-llamafile }
+m24-home-llamafile = { -brand-name-llamafile }
 
 ## Media Springboard
 
