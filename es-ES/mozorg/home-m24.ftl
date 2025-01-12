@@ -58,9 +58,43 @@ m24-home-our-mission-is = Nuestra misión es facilitar a las personas la creaci�
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Logo de { -brand-name-llamafile }
 m24-home-llamafile = { -brand-name-llamafile }
+m24-home-run-large-language = Ejecuta modelos de lenguaje de gran tamaño  (LLM) fácilmente en tu ordenador con { -brand-name-llamafile }: no hace falta instalación y tus datos permanecen seguros en tu dispositivo.
+m24-home-alt-builders = Builders
+m24-home-mozilla-builders = { -brand-name-mozilla } Builders
+m24-home-builders-helps-independent = Builders ayuda a los desarrolladores independientes a crear proyectos transformadores de IA de código abierto a través de colaboraciones, programación y comunidad a medida.
+# Used as an accessible text alternative for an image
+m24-home-alt-lumigator-logo = Logo de { -brand-name-lumigator }.
+m24-home-lumigator = { -brand-name-lumigator }
+m24-home-find-the-just = Encuentra el LLM adecuado para tus necesidades, caso de uso y datos.
+# Used as an accessible text alternative for an image
+m24-home-alt-trustworthy = Mark Surman, presidente de { -brand-name-mozilla }.
+m24-home-can-ai-be = ¿La IA puede ser fiable?
+m24-home-in-a-world = En un mundo donde la innovación en IA está impulsada por unos pocos elegidos, nos arriesgamos a la monopolización de esta tecnología. Aplicar conceptos de código abierto a la IA podría cambiar la situación.
+m24-home-watch-now = Ver ahora
+# Used as an accessible text alternative for an image
+m24-home-alt-ventures = Orador en el escenario con múltiples logos de productos.
+m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-got-an-earlystage = ¿Tienes una startup en una etapa inicial? Presenta tu empresa a { -brand-name-mozilla-ventures } y consigue financiación para impulsar un cambio positivo para el futuro de la IA e Internet.
+m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice-to-make = Dona tu voz para hacer que la tecnología del habla sea más inclusiva y accesible para todos.
+m24-home-donate-your-voice = Dona tu voz
 
 ## Media Springboard
 
+m24-home-type = Tipo
+m24-home-author = Autor
+m24-home-topic = Tema
+m24-home-intro = Introducción
+m24-home-tag-article = Artículo
+m24-home-tag-podcast = Podcast
+m24-home-tag-video = Vídeo
+m24-home-topic-news = Noticias
+m24-home-topic-ai = Inteligencia artificial
+m24-home-topic-ps = Privacidad y seguridad
+# Obsolete string (expires: 2025-02-03)
+m24-home-headline-you-ai = Titular: Tú, la IA e Internet: ¿qué está pasando realmente?
+m24-home-headline-you-ai-v2 = Tú, la IA e Internet: ¿qué está pasando realmente?
+m24-home-introducing-anonym = Presentamos { -brand-name-anonym }: elevamos el nivel de la publicidad digital que preserva la privacidad.
 
 ## Showcase
 
