@@ -87,3 +87,4 @@ firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-n
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
 firefox-all-download-esr-115 = Preuzmi ESR 115
+firefox-all-note-unsupported = Napomena: ako koristiš Windows 7, Windows 8, Windows 8.1 ili macOS 10.12, 10.13 ili 10.14, preuzmi ESR 115 kako bi koristio/la { -brand-name-firefox }.
