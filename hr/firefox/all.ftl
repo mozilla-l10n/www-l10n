@@ -44,6 +44,7 @@ firefox-all-download-esr-version = Preuzmi { $esr_version }
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = Nalazimo se u prijelaznom razdoblju između glavnih ESR verzija { $esr_next_major } i { $esr_current_major }.
+firefox-all-esr-if-you-choose = Ako odlučiš preuzeti stariju ESR verziju, ona će se automatski aktualizirati na novu verziju kad završi prijelazno razdoblje.
 # Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
 firefox-all-esr-read-more = Pročitaj više o <a { $attrs }>ciklusu { -brand-name-firefox-esr } izdanja</a>.
