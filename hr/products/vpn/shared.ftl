@@ -7,6 +7,8 @@
 
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Nabavi { -brand-name-mozilla-vpn }
+vpn-shared-waitlist-link = Pridruži se listi čekanja
+vpn-shared-available-countries-v6 = Trenutačno nudimo { -brand-name-mozilla-vpn } usljedećim zemljama: Austrija, Belgija, Bugarska, Kanada, Hrvatska, Cipar, Češka, Danska, Estonija, Finska, Francuska, Njemačka, Mađarska, Irska, Italija, Latvija, Litva, Luksemburg, Malezija, Malta, Nizozemska, Novi Zeland, Poljska, Portugal, Rumunjska, Singapur, Slovenija, Slovačka, Španjolska, Švedska, Švicarska, UK i SAD
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dnevno jamstvo povrata novca
 vpn-shared-features-encrypt = Šifriranje na razini uređaja
