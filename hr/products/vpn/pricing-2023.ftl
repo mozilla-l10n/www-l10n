@@ -11,6 +11,32 @@ vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-pricing-one-subscription = Jedna pretplata za sve tvoje uređaje
 # Pricing section
 vpn-pricing-included-in-subscription = Pretplata uključuje:
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to =
+    { $devices ->
+        [one] Poveži do { $devices } uređaj
+        [few] Poveži do { $devices } uređaja
+       *[other] Poveži do { $devices } uređaja
+    }
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+        [one] Poveži do { $devices } Android, iOS, Windows, macOS ili Linux uređaj
+        [few] Poveži do { $devices } Android, iOS, Windows, macOS ili Linux uređaja
+       *[other] Poveži do { $devices } Android, iOS, Windows, macOS ili Linux uređaja
+    }
+# Variables:
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-pricing-access =
+    { $servers ->
+        [one] Pristup na { $servers } server u više od { $countries } zemljama
+        [few] Pristup na { $servers } servera u više od { $countries } zemljama
+       *[other] Pristup na { $servers } servera u više od { $countries } zemljama
+    }
+vpn-pricing-money-back = 30-dnevno jamstvo povrata novca (samo za nove kupce)
 vpn-pricing-annual = Godišnje
 vpn-pricing-monthly = Mjesečno
 vpn-pricing-get-annual-subscription = Nabavi godišnju pretplatu
@@ -23,3 +49,4 @@ vpn-pricing-what-information = Koje podatke čuva { -brand-name-mozilla-vpn }?
 
 ## Mobile only subscription copy
 
+vpn-pricing-download-the-app = Preuzmi program

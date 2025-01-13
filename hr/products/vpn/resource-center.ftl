@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/resource-center
 
+# HTML Page Title
+vpn-resource-center-title = Centar VPN resursa
 vpn-resource-center-whats-the-deal = Čemu služe virtualne privatne mreže?
 vpn-resource-center-discover-how-they = Otkrij kako funkcioniraju, zašto su važne i kako ti VPN može biti od koristi.
 vpn-resource-center-view-all = Pogledaj sve
