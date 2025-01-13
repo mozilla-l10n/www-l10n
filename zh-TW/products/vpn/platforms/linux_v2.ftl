@@ -17,9 +17,9 @@ vpn-linux-additional-security = <strong>其他安全性功能：</strong>我們�
 vpn-linux-device-level = <strong>裝置層級的加密：</strong>與一般 VPN 只會加密您的瀏覽器上網流量不同，{ -brand-name-mozilla-vpn } 可加密您裝置中所有應用程式與遊戲的網路流量。
 vpn-linux-multi-hop = <strong>多點跳轉路由：</strong>為了加強保護，{ -brand-name-mozilla-vpn } 可以加密您的流量，並從原本的單一地點連線，改為轉發到另一點，讓任何人都更難追蹤您的上網行為。
 vpn-linux-simple-and = <strong>簡單而直覺的介面：</strong>只要簡單一點，即可連線到伺服器。您也可以依照需要調整您的偏好設定。
-vpn-linux-it-helps-restore = <strong>有助還原網路中立性</strong>{ -brand-name-mozilla-vpn } 可幫助您防止網路業者限制您的頻寬、封鎖他們不會的網站或服務來幫助您拿回對線上活動的控制權不喜歡或認為與自己的產品競爭。
-vpn-linux-gui-client = <strong>GUI 客戶端:</strong>{ -brand-name-mozilla-vpn } 有 GUI 客戶端圖形化操作介面而某些 VPN 服務提供者只提供 CLI 命令行版本。
-vpn-linux-by-using = 使用 { -brand-name-mozilla-vpn } 即可取回對線上活動的控制權保護自己的隱私與資料。立刻下載 { -brand-name-mozilla-vpn } 即可享受 30 天無風險、無麻煩、30 天退款保證。
+vpn-linux-it-helps-restore = <strong>有助還原網路中立性：</strong>{ -brand-name-mozilla-vpn } 可幫助您防止電信業者限流、封鎖他們不喜歡的網站，或與他們的產品競爭的服務，以幫助您搶回對線上活動的控制權。
+vpn-linux-gui-client = <strong>圖形化介面軟體：</strong>{ -brand-name-mozilla-vpn } 有圖形化介面軟體，某些 VPN 業者只提供 CLI 指令行版本。
+vpn-linux-by-using = 使用 { -brand-name-mozilla-vpn } 就能保護自己的隱私與資料，並取回對上網行為的控制權。立即下載 { -brand-name-mozilla-vpn } 即可享受 30 天退款保證，不偷偷記錄、不麻煩、無風險。
 vpn-linux-how-to-install = 如何在 Linux 安裝 { -brand-name-mozilla-vpn }
 # Variables:
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
