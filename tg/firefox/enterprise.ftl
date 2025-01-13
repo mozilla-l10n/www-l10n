@@ -21,6 +21,7 @@ firefox-enterprise-support = Дастгирӣ
 firefox-enterprise-msi-installers = Насбкунандаи MSI
 firefox-enterprise-legacy-browser-support = Дастгирии браузерҳои куҳна
 firefox-enterprise-admx-templates = Қолабҳои «ADMX»
+firefox-enterprise-deployment-guide = Дастур барои рушду такомул
 firefox-enterprise-policy-documentation = Ҳуҷҷатҳо барои сиёсатмадорӣ
 firefox-enterprise-release-notes = Қайдҳои нашр
 firefox-enterprise-documentation-and-community = Ҳуҷҷатгузорӣ ва дастгирии ҷомеа
