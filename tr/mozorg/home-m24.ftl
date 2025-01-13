@@ -113,6 +113,8 @@ m24-home-alt-rise25-proud = Gururlu bir { -brand-name-rise25 } ödülü sahibi.
 m24-home-alt-rise25-smiling = Gülümseyen bir { -brand-name-rise25 } konuşmacısı.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Mutlu bir { -brand-name-rise25 } ödülü sahibi.
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = Yeşil, turuncu ve pembe tonlarında soyut bir pikselleşmiş resim
 m24-home-read-the-report = Raporu okuyun
 
 ## Issues

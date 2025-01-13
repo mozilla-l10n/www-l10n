@@ -7,6 +7,7 @@
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = İnternette dezenformasyondan kaçının: { -brand-name-firefox } yanınızda
+misinformation-page-desc = Yanlış bilgiler can sıkıcı, dikkat dağıtıcı ve maliyetlidir. { -brand-name-firefox }, internette gezinirken yanlış bilgilerden kaçınmanızı ve daha az yanlış bilgiyle karşılaşmanızı sağlayacak bazı ipuçları sunuyor.
 misinformation-page-subheading = Daha az dezefenformasyon görmek ve sizin için önemli olan şeylere odaklanmak için ipuçlarımıza göz atın
 misinformation-what-is-heading = Yanlış bilgi nedir? Dezenformasyon nedir?
 misinformation-false-info-heading = Yanlış bilgiler nerede ortaya çıkıyor?
