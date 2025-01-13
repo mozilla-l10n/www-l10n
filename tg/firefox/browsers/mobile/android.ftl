@@ -7,6 +7,8 @@
 
 # HTML page title
 mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
+# HTML description
+mobile-android-firefox-browser-for = Браузери «{ -brand-name-firefox }» барои «{ -brand-name-android }» — аз оғози кор браузери мо зуд, бехатар ва хусусӣ мебошад.
 mobile-android-firefox-browser = { -brand-name-firefox-browser }
 mobile-android-get-firefox-for = Ба даст овардани «{ -brand-name-firefox }» дар «{ -brand-name-android }»
 mobile-android-send-a-download-link-to-your = Фиристодани пайванд ба телефон барои боргирӣ кардани браузер.
