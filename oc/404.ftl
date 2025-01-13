@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/404/
 
 not-found-page-not-found-page-page-not-found = 404: Pagina Pas Trobada
+not-found-page-sorry-we-cant-find-that-page = Avèm pas pogut trobar aquesta pagina
 not-found-page-go-back = Tornar
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/

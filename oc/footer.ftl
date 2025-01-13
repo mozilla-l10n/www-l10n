@@ -12,6 +12,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } per { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } per { -brand-name-android }
+footer-visit-mozilla-corporations = Consultatz lo parent sens tòca lucrativa de <a { $moco_link }>{ -brand-name-mozilla-corporation }’s</a> : la <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = D'unas partidas d'aqueste contengut son ©1998–{ $current_year } pels contributors. Lo contengut es disponible jos <a rel="license" href="{ $url }">licéncia { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Entrepresa
