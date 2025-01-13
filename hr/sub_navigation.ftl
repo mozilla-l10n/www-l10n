@@ -39,4 +39,5 @@ sub-navigation-android-nightly-and-beta = { -brand-name-android } { -brand-name-
 sub-navigation-ios-test-flight = { -brand-name-ios } { -brand-name-test-flight }
 sub-navigation-firefox-features = { -brand-name-firefox } funkcije
 sub-navigation-ad-tracker-blocking = Blokiranje praćenja putem oglasa
+sub-navigation-private-browsing = Privatno pretraživanje
 sub-navigation-what-is-a-browser = Što je preglednik?
