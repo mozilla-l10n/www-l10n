@@ -17,5 +17,5 @@ vpn-mac-connect-up-to = 一份訂閱服務最多可連結 5 台不同的 Mac、i
 vpn-mac-use-our-vpn = 想怎麼用，就怎麼用。與某些每個月只能保護一定數量資料的 VPN 不同的是，我們不會限制您能夠使用的資料量上限，不論您資料，都能用到飽。
 vpn-mac-get-device-level = 對您的流量進行裝置層級的加密。與其他只能加密網頁瀏覽流量的解決方案不同的是，{ -brand-name-mozilla-vpn } 可完整加密您整台裝置、所有網路連線的流量，不管用什麼 App 都能受到保護。
 vpn-mac-prevent-internet = 防止電信業者限流或封鎖他們不喜歡的網站，或是他們的競爭網站或服務。若需更多資訊，請閱讀 「網路中立性」的相關文章。
-vpn-mac-mozilla-is-an = { -brand-name-mozilla } 是一個致力於保持網際網路開放讓任何人都能隨意使用的組織我們是由非營利組織在背後全力相挺。使用 { -brand-name-mozilla-vpn }您不只是在保護自己在線上的安全也在支持 { -brand-name-mozilla } 的使命。 { -brand-name-mozilla-vpn } 安全、開放原始碼而且是由 { -brand-name-firefox } 的開發者所開發。
+vpn-mac-mozilla-is-an = { -brand-name-mozilla } 是一個致力於保持網際網路開放，讓任何人都能隨意使用的組織，我們是由非營利組織在背後全力相挺。使用 { -brand-name-mozilla-vpn }，代表您不只是在保護自己在線上的安全，也支持 { -brand-name-mozilla } 的使命。{ -brand-name-mozilla-vpn } 安全、開放原始碼，而且是由 { -brand-name-firefox } 的安全專家與開發者所開發。
 vpn-mac-mozilla-doesnt-log = { -brand-name-mozilla } 不會記錄您造訪哪些網站或檢查您傳過的郵件。我們還有 30 天退款保證：不麻煩、沒風險。
