@@ -51,7 +51,7 @@ vpn-shared-pricing-save-percent = Uštedi { $percent }%
 # Asterisk indicates a footnote for the following string
 vpn-shared-save-percent-on = Uštedi { $percent } % na { -brand-name-mozilla-vpn }*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
-vpn-shared-when-you-subscribe = *kada se pretplatiš na 12-mjesečni plan
+vpn-shared-when-you-subscribe = *kada se pretplatiš na 12-mjesečnu tarifu
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-with-an-annual-subscription = *s godišnjom pretplatom
 # Variables:

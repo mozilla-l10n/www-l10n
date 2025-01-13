@@ -46,7 +46,16 @@ vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } još nije dostupan u
 vpn-pricing-faqs = Često postavljena pitanja
 vpn-pricing-refund-policy = Koja je politika povrata novca { -brand-name-mozilla-vpn }a?
 vpn-pricing-what-information = Koje podatke čuva { -brand-name-mozilla-vpn }?
+vpn-pricing-how-do-i-manage = Kako mogu upravljati pretplatom i promijeniti tarifu?
+# Variables
+# $manage (url) - link to subscription management page
+vpn-pricing-if-already-subscribed = Ako već imaš pretplatu na { -brand-name-mozilla-vpn }, možeš promijeniti tarifu ili <a { $manage }>upravljati pretplatom</a> bilo kada.
 
 ## Mobile only subscription copy
 
+vpn-pricing-scan-qrcode-to-download = Za preuzimanje programa snimi QR kod sa svojim mobilnim uređajem ili tabletom
+vpn-pricing-scan-qrcode-to-download-android = Za preuzimanje programa snimi QR kod sa svojim Android uređajem ili tabletom
+vpn-pricing-sign-up-on-your-mobile-device = Registriraj se za pretplatu na { -brand-name-mozilla-vpn } na svom mobilnom uređaju
+vpn-pricing-sign-up-on-your-android-device = Registriraj se za pretplatu na { -brand-name-mozilla-vpn } na svom Android uređaju
 vpn-pricing-download-the-app = Preuzmi program
+vpn-pricing-transaction-may-be-in = * Transakcija može biti u protuvrijednosti lokalne valute.
