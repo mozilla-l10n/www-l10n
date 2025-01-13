@@ -31,3 +31,4 @@ firefox-channel-test-brand-new-features = Ҳар рӯз хусусиятҳои �
 firefox-channel-try-new-features-in-a-pre-release = Хусусиятҳои навро дар версияи пешакии браузер барои «{ -brand-name-ios }» озмоед | «{ -brand-name-firefox }»
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-sign-up-now = Ҳозир сабти ном шавед
+firefox-channel-nightly-update-one-or-more-times = Тавзеҳ: Браузери «{ -brand-name-firefox-nightly }» тахминан як ё ду маротиба дар як рӯз навсозӣ карда мешавад.

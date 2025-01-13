@@ -17,6 +17,7 @@ features-index-customize-your-firefox-browser = Браузери «{ -brand-name
 features-index-choose-how-your-browser-looks = Интихоб кунед, ки намуди зоҳирии браузери шумо бо ҳазорҳо мавзуъҳои ройгон чӣ гуна ба назар мерасад.
 features-index-firefox-browser-sync = Ҳамоҳангсозии браузери «{ -brand-name-firefox }»
 features-index-bookmark-manager = Мудири хатбаракҳо
+features-index-organize-your-bookmarks-with = Хатбаракҳои худро бо ҷузвдонҳо ва барчаспҳо ба тартиб дароред.
 features-index-private-browsing-mode = Реҷаи «Тамошобинии хусусӣ»
 features-index-firefox-add-ons-and-browser-extensions = Ҷузъҳои иловагӣ ва васеъшавиҳои браузери «{ -brand-name-firefox }»
 features-index-pinned-browser-tabs = Варақаҳои васлшудаи браузер
