@@ -5,9 +5,13 @@
 
 ## About us
 
+navigation-refresh-about-us = O nama
+navigation-refresh-close-about-us-menu = Zatvori izbornik o nama
 
 ## Firefox
 
+navigation-refresh-firefox-browsers = { -brand-name-firefox } preglednici
+navigation-refresh-close-firefox-browsers-menu = Zatvori izbornik { -brand-name-firefox } preglednika
 navigation-refresh-all-products = Svi proizvodi
 
 ## Products

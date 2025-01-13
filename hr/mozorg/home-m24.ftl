@@ -8,6 +8,7 @@
 
 ## Intro
 
+m24-home-learn-about-us = Saznaj više o nama
 
 ## Products
 
