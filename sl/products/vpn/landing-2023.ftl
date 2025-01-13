@@ -21,6 +21,7 @@ vpn-landing-log-in-to-your-bank-or = Brezskrbno se prijavite v spletno banko ali
 vpn-landing-blocks-advertisers-from = Preprečuje ciljano oglaševanje
 vpn-landing-hide-your-activity-from = Skrijte svojo dejavnost pred sledilci in zlonamerno programsko opremo. Nakupujte, ne da bi vas opazovali.
 vpn-landing-helps-you-access-global = Omogoča vam dostop do globalne vsebine
+vpn-landing-check-out-streaming-media = Glejte pretočne medije, spletna mesta in prenose v živo iz drugih držav, ko ste na potovanju ali doma.
 vpn-landing-features = Zmožnosti
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

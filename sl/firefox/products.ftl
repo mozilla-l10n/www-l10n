@@ -55,9 +55,13 @@ firefox-products-download-thunderbird = Prenesite { -brand-name-thunderbird }
 ## Fakespot
 
 firefox-products-fakespot = { -brand-name-fakespot }
+# scam artists are people who are trying to sell fakes or steal money
+# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
+firefox-products-fakespot-has-your = { -brand-name-fakespot } vam krije hrbet, ko nakupujete prek spleta – razkriva prevarante in odkriva najugodnejše ponudbe. Izpod rok { -brand-name-mozilla(sklon: "rodilnik") }.
 firefox-products-analyze = Analizirajte URL
 
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content-v2 = Odkrijte najboljšo vsebino na spletu – in jo preberite, kjerkoli in kadarkoli želite. Izdelek { -brand-name-mozilla(sklon: "rodilnik") }.
 firefox-products-get-pocket = Prenesite { -brand-name-pocket }
