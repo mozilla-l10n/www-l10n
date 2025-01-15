@@ -38,6 +38,7 @@ what-is-firefox = Chi è { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
 is-firefox-chromium = { -brand-name-firefox } è basatu ncapu a { -brand-name-chromium }?
+does-firefox-use = { -brand-name-firefox } usa { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
