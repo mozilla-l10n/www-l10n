@@ -16,7 +16,7 @@ vpn-landing-invite-country-label = Em que país você mora?
 vpn-landing-invite-language-label = Selecione um idioma.
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-landing-invite-privacy-policy = Ao clicar em “Entrar na lista de espera”, você concorda com nossa <a href="{ $privacy }">política de privacidade</a>.
+vpn-landing-invite-privacy-policy = Ao clicar em “Entrar na lista de espera”, você declara que concorda com nossa <a href="{ $privacy }">política de privacidade</a>.
 vpn-landing-invite-your-information = Suas informações só serão usadas para te notificar sobre a disponibilidade da plataforma.
 vpn-landing-invite-thanks-heading = Obrigado! Você está na lista
 vpn-landing-invite-thanks-desc = Te enviaremos um email quando o { -brand-name-mozilla-vpn } estiver disponível na sua região.
