@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/features/private-browsing
 
 features-private-browsing-what-does-private-browsing-do = ການທ່ອງເວັບສ່ວນຕົວເຮັດຫຍັງ?
+features-private-browsing-what-private-browsing-doesnt-do = ສິ່ງທີ່ການຊອກຫາສ່ວນຕົວບໍ່ໄດ້ເຮັດ
