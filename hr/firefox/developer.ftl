@@ -87,5 +87,6 @@ firefox-developer-resources-for-developers = Resursi za programere, od programer
 firefox-developer-mdn-references = { -brand-name-mdn } reference
 firefox-developer-mdn-is-a = { -brand-name-mdn } je kolaborativni projekt otvorenog koda koji dokumentira tehnologije web platformi, uključujući CSS, HTML, JavaScript i web API-je.
 firefox-developer-mdn-curriculum = { -brand-name-mdn } kurikulum
+firefox-developer-a-structured-guide = Strukturirani vodič za bitne vještine i prakse za uspješno programiranje sučelja, zajedno s preporučenim resursima za učenje.
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
 firefox-developer-support-mdn-and = Podrži { -brand-name-mdn } i učini ga svojim sa zbirkama, obavijestima i igralištima.

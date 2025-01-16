@@ -4,6 +4,7 @@
 
 footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = { -brand-name-mozilla } manifest
+footer-privacy-hub = Centar privatnosti
 footer-privacy = Privatnost
 footer-press = Javne objave
 footer-mozilla-blog = { -brand-name-mozilla } blog
@@ -48,3 +49,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Slijedi @{ -brand-name-mozilla }
 footer-follow-firefox = Slijedi @{ -brand-name-firefox }
 footer-about-this-site = O ovoj web stranici
+footer-advertise = Oglašavaj s { -brand-name-mozilla }
