@@ -5,9 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/
 
+# HTML Page title
+m24-home-page-title = Internet za ljude, ne za profit – { -brand-name-mozilla }
+m24-home-page-title-v2 = { -brand-name-mozilla } – Internet za ljude, ne za profit
 
 ## Intro
 
+m24-home-welcome-to-mozilla = Dobro došao, dobro došla u { -brand-name-mozilla }
+m24-home-from-trustworthy-tech = Od pouzdane tehnologije do politika koje brane tvoja digitalna prava, stavljamo te na prvo mjesto – uvijek.
 m24-home-learn-about-us = Saznaj više o nama
 
 ## Products
