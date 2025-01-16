@@ -20,3 +20,5 @@ ui-show-less = Prikaži manje
 ui-show-all = Prikaži sve
 ui-hide-all = Sakrij sve
 ui-learn-more = Saznaj više
+ui-pause-animation = Zaustavi animaciju
+ui-play-animation = Pokreni animaciju
