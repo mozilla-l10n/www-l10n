@@ -8,6 +8,9 @@
 # HTML Page title
 m24-home-page-title = Internet za ljude, ne za profit – { -brand-name-mozilla }
 m24-home-page-title-v2 = { -brand-name-mozilla } – Internet za ljude, ne za profit
+# HTML page description
+m24-home-page-desc = Znaš li ovo? { -brand-name-mozilla } – proizvođač { -brand-name-firefox }a – se bori za zadržavanje interneta kao javnog globalnog resursa koji je otvoren i dostupan svima.
+m24-home-page-desc-v2 = Radimo na tome da kontrolu nad internetom vratimo u ruke ljudi koji ga koriste.
 
 ## Intro
 
@@ -17,8 +20,17 @@ m24-home-learn-about-us = Saznaj više o nama
 
 ## Products
 
+m24-home-love-the-internet = Ponovo zavoli internet
+m24-home-break-free-from = Oslobodi se velikih tehnoloških tvrtki – naši proizvodi ti daju kontrolu nad sigurnijim, privatnijim internetskim iskustvom.
 m24-home-explore-our-products = Istraži naše proizvode
+m24-home-firefox = { -brand-name-firefox }
+m24-home-get-the-gold = Nabavi zlatni standard za pregledavanje s brzinom, privatnošću i kontrolom.
+m24-home-thunderbird = { -brand-name-thunderbird }
+m24-home-go-chaosfree-with = Pojednostavi si život s jednom aplikacijom za sve tvoje e-mailove, kalendare i kontakte.
+m24-home-fakespot = { -brand-name-fakespot }
+m24-home-spot-fake-reviews = Prepoznaj lažne recenzije, loše proizvode i nepouzdane prodavače.
 m24-home-pocket = { -brand-name-pocket }
+m24-home-save-the-internets = Spremi najbolji internetski sadržaj na bilo koji uređaj – jer tko sada ima vremena čitati sve?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-firefox-relay = { -brand-name-firefox-relay }
