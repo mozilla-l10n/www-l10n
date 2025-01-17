@@ -128,4 +128,5 @@ m24-home-pni-search-now = Pretraži sada
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, voditeljica IRL Podcasta.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = Naš višestruko nagrađivani podcast predstavlja kreatore promjena koji rade na tome da internet učine sigurnijim, a umjetnu inteligenciju pouzdanijom.
 m24-home-irl-listen-now = Slušaj sada
