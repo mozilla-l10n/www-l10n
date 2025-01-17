@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } bën shfletues, aplikacione, kod d
 
 ## Intro
 
+m24-about-reclaim-the-internet = Kërkoni me ne rikthimin e internetit në duar tuaja
 m24-about-mozilla-is-working = { -brand-name-mozilla } po punon për ta rikthyer kontrollin e internetit në duar e njerëzve që e përdorin.
 
 ## Manifesto
@@ -20,6 +21,7 @@ m24-about-together-we-can = Tok, mund ta mbajmë internetin të kollajtë, të p
 m24-about-read-our-manifesto = Lexoni manifestin tonë
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Një grup mendimtarësh ulur në një rreth përdhe duke shkëmbyer ide.
+m24-about-we-advocate-for = Ne luftojmë për produkte më të mira, duke bërë përgjegjës qeveri dhe korporata teknologjike për çfarë krijojnë.
 m24-about-research = Punë kërkimore
 # Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Monitor
