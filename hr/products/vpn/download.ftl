@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/download/
 
 vpn-download-page-title = Preuzmi { -brand-name-mozilla-vpn }
+vpn-download-page-description = Preuzmi { -brand-name-mozilla-vpn } za { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } i { -brand-name-ios }.
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-download-sub-heading = Uz jednu pretplatu možeš preuzeti { -brand-name-mozilla-vpn } za do { $devices } uređaja.
