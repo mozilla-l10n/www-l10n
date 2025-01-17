@@ -25,6 +25,7 @@ m24-about-we-advocate-for = Ne luftojmë për produkte më të mira, duke bërë
 m24-about-research = Punë kërkimore
 # Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Monitor
+m24-about-we-uncover-insights = Ne zbulojmë prirje, bëjmë fushatë për të përmirësuar produkte dhe nxisim politika që përfaqësojnë interesat tuaja.
 # Obsolete string (expires: 2025-02-03)
 m24-about-we-monitor-developments = Ndjekim zhvillime, bëjmë kërkime dhe fushata për të përmirësua produkte dhe jemi pas politikash që përfaqësojnë interesat tuaja.
 m24-about-build = Ndërtim

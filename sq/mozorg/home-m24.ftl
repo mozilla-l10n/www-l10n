@@ -111,5 +111,7 @@ m24-home-read-the-report = Lexoni raportin
 m24-home-alt-pni = Pajisje të mençura me një ikonë “Kujdes!”.
 m24-home-explore-issues-shaping = Eksploroni çështje që i japin formë të ardhmes së internetit
 m24-home-pni-search-now = Kërkoni tani
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = Bridget Todd, drejtuesja e Podkastit IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-irl-listen-now = Dëgjojeni tani
