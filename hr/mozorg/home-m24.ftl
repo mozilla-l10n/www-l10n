@@ -74,6 +74,7 @@ m24-home-watch-now = Pogledaj video
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Govornik na pozornici s raznim logotipima proizvoda u pozadini.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-got-an-earlystage = Imaš startup tvrtku u ranoj fazi? Predstavi svoju tvrtku fondaciji { -brand-name-mozilla-ventures } i osiguraj financiranje za poticanje pozitivnih promjena za budućnost umjetne inteligencije i interneta.
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice = Doniraj svoj glas
 
