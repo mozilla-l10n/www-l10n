@@ -2,12 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-refresh-discover-mozilla-products = Otkrij { -brand-name-mozilla } proizvode i inicijative. Obećavamo da ćemo tvoju e-mail adresu držati privatnom i sigurnom – bez dijeljenja, bez prodaje, samo sjajna aktualiziranja.
 footer-refresh-leadership = Vodstvo
 footer-refresh-advertise = Oglašavaj s { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Napomene o { -brand-name-firefox } izdanju
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Slijedi @{ -brand-name-mozilla }
+footer-refresh-x = X
+footer-refresh-x-formerly-twitter = X (bivši Twitter)
+footer-refresh-mastodon = Mastodon
+footer-refresh-instagram = Instagram
+footer-refresh-linkedin = LinkedIn
+footer-refresh-tiktok = TikTok
+footer-refresh-spotify = Spotify
 footer-refresh-follow-firefox = Slijedi @{ -brand-name-firefox }
+footer-refresh-youtube = YouTube
 footer-refresh-company = Poduzeće
 footer-refresh-press-center = Javne objave
 footer-refresh-careers = Karijera
@@ -27,3 +36,7 @@ footer-refresh-visit-mozilla-corporations = Posjeti zakladu <a { $mofo_link }>{ 
 footer-refresh-websites-privacy-notice = Napomena o privatnosti web stranice
 footer-refresh-websites-cookies = Kolačići
 footer-refresh-websites-legal = Pravne informacije
+footer-refresh-community-participation-guidelines = Smjernice za sudjelovanje u zajednici
+footer-refresh-about-this-site = O ovoj web-stranici
+footer-refresh-all-languages = Svi jezici
+footer-refresh-language = Jezik
