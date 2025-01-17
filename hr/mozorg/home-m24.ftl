@@ -40,6 +40,7 @@ m24-home-mask-your-email = Maskiraj svoju e-mail adresu i broj telefona kako bi 
 
 ## Donate
 
+m24-home-donate-to-the = Doniraj neprofitnoj organizaciji { -brand-name-mozilla }
 m24-home-donate = Doniraj
 
 ## AI gallery

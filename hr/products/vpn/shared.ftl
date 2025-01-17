@@ -93,7 +93,7 @@ vpn-press-mozilla-vpns-feature-list-has-grown = „Popis { -brand-name-mozilla-v
 # Variables
 #   $language (string) - localized native language name for the locale of the current page.
 #   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
-vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } trenutačno nije nije dostupan za { $language }, ali se može koristiti na engleskom, francuskom, njemačkom, španjolskom i <a { $href }>više od 30 drugih jezika</a> .
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } trenutačno nije dostupan za { $language }, ali se može koristiti na engleskom, francuskom, njemačkom, španjolskom i <a { $href }>više od 30 drugih jezika</a> .
 # Variables
 #   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
 vpn-shared-unsupported-language-contribute = Želiš pomoći približiti { -brand-name-mozilla-vpn } većem broju ljudi? <a { $href }>Postani volonterski prevoditelj</a>.
