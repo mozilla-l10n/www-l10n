@@ -8,5 +8,6 @@
 # Short title used in the subnav
 pdf-editor-pdf-editor = ໂຕແກ້ໄຂ PDF
 pdf-editor-add-text = ເພີ່ມຂໍ້ຄວາມ
+pdf-editor-add-drawings-or-your-signature = ເພີ່ມຮູບແຕ້ມ ( ຫຼື ລາຍເຊັນຂອງທ່ານ)
 pdf-editor-add-image-with-alt-text = ເພີ່ມຮູບພາບດ້ວຍຂໍ້ຄວາມ alt
 pdf-editor-create-a-highlight = ສ້າງ Highlight
