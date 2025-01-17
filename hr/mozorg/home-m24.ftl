@@ -66,6 +66,10 @@ m24-home-builders-helps-independent = Platforma „Graditelji” pomaže nezavis
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } logotip.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Pronađi odgovarajući LLM za tvoje potrebe, slučaj upotrebe i podatke.
+# Used as an accessible text alternative for an image
+m24-home-alt-trustworthy = Mark Surman, predsjednik zaklade { -brand-name-mozilla }.
+m24-home-can-ai-be = Može li UI biti pouzdana?
+m24-home-in-a-world = U svijetu u kojem UI inovacije pokreće nekolicina odabranih, riskiramo monopolizaciju ove tehnologije. Primjenom koncepta otvorenog koda na umjetnu inteligenciju bi to moglo promijeniti.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice = Doniraj svoj glas
