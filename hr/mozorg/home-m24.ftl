@@ -61,9 +61,11 @@ m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = Pokreći velike jezične modele (LLM-ove) jednostavno na svom računalu s { -brand-name-llamafile } – bez potrebe za instalacijom, a tvoji podaci ostaju sigurni na tvom uređaju.
 m24-home-alt-builders = Graditelji
 m24-home-mozilla-builders = { -brand-name-mozilla } graditelji
+m24-home-builders-helps-independent = Platforma „Graditelji” pomaže nezavisnim programerima pri stvaranju transformativnih UI projekata otvorenog koda pomoću prilagođenih suradnji, programiranja i zajednice.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } logotip.
 m24-home-lumigator = { -brand-name-lumigator }
+m24-home-find-the-just = Pronađi odgovarajući LLM za tvoje potrebe, slučaj upotrebe i podatke.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice = Doniraj svoj glas
