@@ -5,8 +5,16 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+firefox-all-choose-browser = కొనసాగడానికి ఒక విహారిణిని ఎంచుకోండి
+firefox-all-choose-language = కొనసాగడానికి ఒక భాషను ఎంచుకోండి
+firefox-all-change-browser = వేరే ఉత్పత్తిని ఎంచుకోండి
+firefox-all-change-language = వేరే భాషను ఎంచుకోండి
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = క్రింది జాబితా నుండి ఎంచుకోండి
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = సహాయం పొందండి
+firefox-all-browser-v2 = 1. విహారిణి:
+firefox-all-language-v2 = 3. భాష:
 firefox-all-lang-multi = పలు భాషలు
 firefox-all-64-bit-installers = 64-బిట్ ఇన్‌స్టాలర్లు
 firefox-all-32-bit-installers = 32-బిట్ ఇన్‌స్టాలర్లు
