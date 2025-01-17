@@ -9,4 +9,8 @@
 features-translate-translate-a-webpage-with-firefox = Prevedi web stranicu pomoću { -brand-name-firefox }
 features-translate-translate-the-web = Prevedi web
 features-translate-what-languages-are-currently = Koji su jezici trenutačno podržani?
+# This is followed by a localized list of supported languages
+features-translate-the-languages-below-are-what-v2 = Funkcija „{ -brand-name-firefox-translations }” trenutačno podržava sljedeće jezike:
+# Obsolete string (expires: 2025-02-17)
+features-translate-the-languages-below-are-what = Funkcija „{ -brand-name-firefox } prijevodi” trenutačno podržava sljedeće jezike:
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } govori tvojim jezikom

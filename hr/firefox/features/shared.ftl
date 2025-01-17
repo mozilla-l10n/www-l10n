@@ -7,6 +7,7 @@
 
 features-shared-firefox-features = { -brand-name-firefox } funkcije
 features-shared-footer-cta-title = Uradi više s { -brand-name-firefox }
+features-shared-footer-cta-desc = Nabavi brzi preglednik usredotočen na privatnost koji podržava neprofitna organizacija i radi na svim tvojim uređajima.
 features-shared-footer-cta-button = Preuzmi { -brand-name-firefox }
 features-shared-is-firefox-a-fast-browser = Je li je { -brand-name-firefox } brz preglednik?
 features-shared-is-firefox-a-private-browser = Je li je { -brand-name-firefox } privatni preglednik?
