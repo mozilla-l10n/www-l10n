@@ -15,6 +15,7 @@ newsletter-form-select-language = Odaberi jezik
 newsletter-form-your-email-here = TVOJA E-EDRESA
 newsletter-form-get-firefox-news = Primaj { -brand-name-firefox } novosti
 newsletter-form-join-the-community = Pridruži se zajednici
+newsletter-form-sign-up-to-receive = Prijavi se za primanje mjesečnih { -brand-name-firefox } novosti i internetskih trendova koji utječu na tvoj život na internetu.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Slažem se da { -brand-name-mozilla } koristi moje podatke, kao što je objašnjeno u <a href="{ $url }">ovoj napomeni o privatnosti</a>
@@ -39,3 +40,5 @@ multi-newsletter-form-checkboxes-legend = Želim informacije o:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
 multi-newsletter-form-checkboxes-error = Odaberi barem jednu od opciju za bilten.
+multi-newsletter-form-title = Ljubav za web
+multi-newsletter-form-desc = Primaj { -brand-name-mozilla } biltene i pomogni nam da web ostane otvoren i besplatan.
