@@ -12,6 +12,7 @@ m24-about-page-desc = Η { -brand-name-mozilla } δημιουργεί προγρ
 
 ## Intro
 
+m24-about-reclaim-the-internet = Διεκδικήστε ξανά το διαδίκτυο με εμάς
 
 ## Manifesto
 
@@ -29,6 +30,9 @@ m24-about-we-fund-and = Χρηματοδοτούμε και επενδύουμε
 
 m24-about-read-more = Διαβάστε περισσότερα
 m24-about-read-the-latest = Διαβάστε τις τελευταίες ειδήσεις και άρθρα από τη { -brand-name-mozilla }
+m24-about-at-our-rise25 = Στα Βραβεία { -brand-name-rise25 }, το μέλλον της τεχνητής νοημοσύνης διαγράφεται αξιόπιστο, συμπεριληπτικό και υπεύθυνο
+# Used as an accessible text alternative for an image
+m24-about-rise25-award = Μια αποδέκτης του βραβείου { -brand-name-rise25 } που δείχνει το τρόπαιό της.
 
 ## Showcase
 

@@ -30,6 +30,7 @@ m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
 
+m24-home-donate-to-the = Κάντε δωρεά στη μη κερδοσκοπική { -brand-name-mozilla }
 m24-home-were-proudly-nonprofit = Είμαστε ένας περήφανα μη κερδοσκοπικός οργανισμός. Θα κάνετε δωρεά στη { -brand-name-mozilla } σήμερα;
 m24-home-donate = Δωρεά
 
@@ -56,6 +57,7 @@ m24-home-can-ai-be = Μπορεί η τεχνητή νοημοσύνη να εί
 m24-home-watch-now = Παρακολούθηση
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice-to-make = Δωρίστε τη φωνή σας για να κάνετε την τεχνολογία ομιλίας πιο συμπεριληπτική και προσβάσιμη για όλους.
 m24-home-donate-your-voice = Δωρίστε τη φωνή σας
 
 ## Media Springboard
@@ -71,6 +73,7 @@ m24-home-topic-news = Ειδήσεις
 m24-home-topic-ai = Τεχνητή νοημοσύνη
 m24-home-topic-ps = Απόρρητο και ασφάλεια
 m24-home-headline-you-ai-v2 = Εσείς, η τεχνητή νοημοσύνη και το διαδίκτυο — τι πραγματικά συμβαίνει;
+m24-home-introducing-anonym = Παρουσίαση του { -brand-name-anonym }: Ανεβάζοντας τον πήχη για τις ψηφιακές διαφημίσεις που διατηρούν το απόρρητό σας.
 m24-home-mozilla-celebrates-groundbreaking = Η { -brand-name-mozilla } τιμά τους πρωτοποριακούς δημιουργούς στη νέα σειρά ντοκιμαντέρ «{ -brand-name-firefox } Presents».
 
 ## Showcase
@@ -92,6 +95,7 @@ m24-home-read-the-report = Διαβάστε την αναφορά
 # Used as an accessible text alternative for an image
 m24-home-alt-pni = Έξυπνες συσκευές με εικονίδιο προσοχής.
 m24-home-privacy-not-included = *Privacy Not Included
+m24-home-search-our-reviews = Αναζητήστε τις κριτικές μας για να δείτε ποιες τεχνολογικές συσκευές και εφαρμογές διακινούν ύπουλα τα δεδομένα σας.
 m24-home-pni-search-now = Αναζήτηση τώρα
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, οικοδέσποινα του IRL Podcast.
