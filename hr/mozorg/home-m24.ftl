@@ -100,9 +100,17 @@ m24-home-from-hollywood-to = Od Hollywooda do hip hopa, glumci i izvođači preg
 m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } slavi inovativne kreatore u novoj dokumentarnoj seriji „{ -brand-name-firefox } predstavlja.”
 m24-home-big-techs-power = Moć velikih tehnoloških tvrtki nad jezikom znači moć nad ljudima. Bridget Todd razgovara s vođama jezične zajednice o budućnosti razvoja umjetne inteligencije glasa na njihovim jezicima i dijalektima.
 m24-home-why-does-it = Zašto se često čini da smo dio masovnog UI-eksperimenta? Koji je odgovoran način testiranja novih tehnologija? Bridget Todd istražuje što znači živjeti s nedokazanim UI-sustavima koji utječu na milijune ljudi.
+m24-home-kids-are-growing = Djeca odrastaju u svijetu interneta. Što da rade zabrinuti roditelji?
 
 ## Showcase
 
+m24-home-rise25-awards = { -brand-name-rise25 } nagrade
+m24-home-get-to-know = Upoznaj lidere koji se zalažu za pouzdan, uključiv i transparentan razvoj umjetne inteligencije dok postavljaju novi standard i inspiriraju sljedeću generaciju inovatora.
+m24-home-watch-the-award = Pogledaj dodjelu nagrada
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = Ponosni dobitnik { -brand-name-rise25 } nagrade.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = Radosna dobitnica { -brand-name-rise25 } nagrade.
 m24-home-read-the-report = Pročitaj izvještaj
 
 ## Issues
