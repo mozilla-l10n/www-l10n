@@ -9,7 +9,7 @@
 m24-home-page-title = Internet za ljude, ne za profit – { -brand-name-mozilla }
 m24-home-page-title-v2 = { -brand-name-mozilla } – Internet za ljude, ne za profit
 # HTML page description
-m24-home-page-desc = Znaš li ovo? { -brand-name-mozilla } – proizvođač { -brand-name-firefox }a – se bori za zadržavanje interneta kao javnog globalnog resursa koji je otvoren i dostupan svima.
+m24-home-page-desc = Znaš li ovo? { -brand-name-mozilla } – proizvođač { -brand-name-firefox }a – se bori za održavanje interneta kao javnog globalnog resursa, otvoren i dostupan svima.
 m24-home-page-desc-v2 = Radimo na tome da kontrolu nad internetom vratimo u ruke ljudi koji ga koriste.
 
 ## Intro

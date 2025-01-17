@@ -15,10 +15,15 @@ m24-about-page-desc = Η { -brand-name-mozilla } δημιουργεί προγρ
 
 ## Manifesto
 
+m24-about-together-we-can = Μαζί, μπορούμε να διατηρήσουμε το διαδίκτυο απλό, ασφαλές και δωρεάν — για όλους.
 m24-about-read-our-manifesto = Διαβάστε τη διακήρυξή μας
 m24-about-research = Έρευνα
 # Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Monitor
+m24-about-build = Ανάπτυξη
+m24-about-we-build-products = Αναπτύσσουμε προϊόντα που σας δίνουν τον έλεγχο — όπως το { -brand-name-firefox }, το { -brand-name-fakespot } και πολλά άλλα.
+m24-about-fund = Χρηματοδότηση
+m24-about-we-fund-and = Χρηματοδοτούμε και επενδύουμε σε ανθρώπους και προσπάθειες που οδηγούν την τεχνολογία, το διαδίκτυο και την τεχνητή νοημοσύνη στη σωστή κατεύθυνση.
 
 ## News
 

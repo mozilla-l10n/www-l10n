@@ -6,12 +6,15 @@
 ### URL: https://www-dev.allizom.org/ (Global locales)
 
 home-internet-for-people-not-profit = Internet za ljude, ne za profit
+home-did-you-know-mozilla-the-maker = Znaš li ovo? { -brand-name-mozilla } – proizvođač { -brand-name-firefox }a – se bori za održavanje interneta kao javnog globalnog resursa, otvoren i dostupan svima.
+home-mission-driven = Vođen misijom. Snagom ljudi.
 home-mitchell-baker-v2 = Mitchell Baker, izvršna predsjednica uprave, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } proizvodi proizvode koji poštuju privatnost
 home-product-firefox-browsing = Privatno i sigurno pregledavanje
 home-cta-get-firefox = Nabavi { -brand-name-firefox }
 home-product-pocket-articles = Najintrigantniji članci na webu
 home-cta-get-pocket = Nabavi { -brand-name-pocket }
+home-product-relay-hide-your = Sakrij svoj broj telefona i e-mail adresu od neželjenih pošiljatelja
 home-cta-get-relay = Nabavi { -brand-name-relay }
 home-product-vpn-trust = VPN mreža kojoj možeš vjerovati
 home-cta-get-vpn = Nabavi { -brand-name-mozilla-vpn }
