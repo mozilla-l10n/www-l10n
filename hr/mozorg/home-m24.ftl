@@ -76,6 +76,7 @@ m24-home-alt-ventures = Govornik na pozornici s raznim logotipima proizvoda u po
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Imaš startup tvrtku u ranoj fazi? Predstavi svoju tvrtku fondaciji { -brand-name-mozilla-ventures } i osiguraj financiranje za poticanje pozitivnih promjena za budućnost umjetne inteligencije i interneta.
 m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice-to-make = Doniraj svoj glas kako bi tehnologija govora bila inkluzivnija i pristupačnija svima.
 m24-home-donate-your-voice = Doniraj svoj glas
 
 ## Media Springboard
@@ -90,6 +91,9 @@ m24-home-tag-video = Video
 m24-home-topic-news = Vijesti
 m24-home-topic-ai = Umjetna inteligencija
 m24-home-topic-ps = Privatnost i sigurnost
+# Obsolete string (expires: 2025-02-03)
+m24-home-headline-you-ai = Naslov: Ti, umjetna inteligencija i internet – što se zapravo događa?
+m24-home-headline-you-ai-v2 = Ti, umjetna inteligencija i internet – što se zapravo događa?
 
 ## Showcase
 

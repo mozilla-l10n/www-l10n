@@ -43,3 +43,5 @@ privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
 privacy-index-firefox-fire-tv = { -brand-name-firefox } สำหรับ { -brand-name-fire-tv }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-mozilla-subscription-services = บริการสมัครสมาชิกของ { -brand-name-mozilla }
+# This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".
+privacy-index-mozilla-accounts = บัญชี { -brand-name-mozilla }
