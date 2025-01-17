@@ -25,6 +25,8 @@ m24-about-we-advocate-for = Ne luftojmë për produkte më të mira, duke bërë
 m24-about-research = Punë kërkimore
 # Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Monitor
+# Obsolete string (expires: 2025-02-03)
+m24-about-we-monitor-developments = Ndjekim zhvillime, bëjmë kërkime dhe fushata për të përmirësua produkte dhe jemi pas politikash që përfaqësojnë interesat tuaja.
 m24-about-build = Ndërtim
 m24-about-we-build-products = Ndërtojmë produkte që ju vënë ju në kontroll — të tillë si { -brand-name-firefox }, { -brand-name-fakespot }, etj.
 m24-about-fund = Financim
