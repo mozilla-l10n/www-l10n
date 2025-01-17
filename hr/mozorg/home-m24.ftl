@@ -116,7 +116,7 @@ m24-home-alt-rise25-smiling = Samouvjerena nasmijana laudatorica pri { -brand-na
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Radosna dobitnica { -brand-name-rise25 } nagrade.
 m24-home-state-of-mozilla = { -brand-name-mozilla } stanje
-m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se reformira, mijenja konstelaciju organizacija, redefinira oglašavanje i stvara ekosustav umjetne inteligencije otvorenog koda. Pročitaj izvještaj { -brand-name-mozilla } stanje 2024.
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se reformira, mijenja konstelaciju organizacija, redefinira oglašavanje i stvara ekosustav umjetne inteligencije otvorenog koda. Pročitaj izvještaj o { -brand-name-mozilla } stanju za 2024.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Apstraktna pikselasta slika u nijansama zelene, narančaste i ružičaste
 m24-home-read-the-report = Pročitaj izvještaj
