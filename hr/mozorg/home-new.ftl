@@ -34,5 +34,9 @@ home-volunteer-with-mozilla = Postani { -brand-name-mozilla } volonter
 home-learn-more-about-mozilla = Saznaj više o { -brand-name-mozilla }
 # VPN Feature
 home-featured-product = Istaknuti proizvod
+# HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
+home-feature-blur-your-location = Sakrij svoju lokaciju i aktivnost pomoću <span>{ -brand-name-mozilla-vpn }</span>
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Pomogni graditi naš pokret
 home-mofo-donate-to-mofo-today = Doniraj zakladi { -brand-name-mozilla-foundation } danas kako bi internet ostao otvoren i dostupan svima.
 home-mofo-donate = Doniraj

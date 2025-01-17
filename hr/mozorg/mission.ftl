@@ -9,6 +9,7 @@ mission-were-building-a-better-internet = Gradimo bolji Internet
 mission-our-mission-is-to-ensure-the-internet = Naša misija je osigurati da internet bude globalni javni resurs, otvoren i dostupan svima. Internet koji ljude uistinu stavlja na prvo mjesto, gdje pojedinci mogu oblikovati vlastito iskustvo, imati ovlasti i biti sigurni i neovisni.
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Naša misija je promoviranje otvorenosti, inovacije i prilika na Webu.
+mission-at-mozilla-were-a-global-community-v2 = { -brand-name-mozilla } je globalna zajednica tehnologa, mislitelja i graditelja koji zajedno rade na očuvanju i dostupnosti interneta, kako bi ljudi diljem cijelog svijeta mogli biti informirani doprinositelji i stvaratelji weba.
 mission-we-believe-this-act-of-human-collaboration = Vjerujemo da je ovaj čin suradnje putem otvorene platforme esencijalan za individualan rast i našu zajedničku budućnost.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
@@ -21,3 +22,4 @@ mission-where-we-come-from-and-how-we-got = Otkud dolazimo i kako smo stigli gdj
 mission-forums = Forumi
 mission-topics-include-support-products = Teme uključuju podršku, proizvode i tehnologije
 mission-governance = Upravljanje
+mission-our-structure-organization-and-the-v2 = Naša struktura, organizacija i šira { -brand-name-mozilla } zajednica
