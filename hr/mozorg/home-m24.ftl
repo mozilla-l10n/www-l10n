@@ -110,11 +110,17 @@ m24-home-watch-the-award = Pogledaj dodjelu nagrada
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-proud = Ponosni dobitnik { -brand-name-rise25 } nagrade.
 # Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = Samouvjerena nasmijana laudatorica pri { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Radosna dobitnica { -brand-name-rise25 } nagrade.
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = Apstraktna pikselasta slika u nijansama zelene, narančaste i ružičaste
 m24-home-read-the-report = Pročitaj izvještaj
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Pametni uređaji s ikonom opreza.
 m24-home-privacy-not-included = *Privatnost nije uključena
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, voditeljica IRL Podcasta.
