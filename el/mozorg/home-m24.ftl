@@ -5,6 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/
 
+# HTML Page title
+m24-home-page-title = Το διαδίκτυο για τους ανθρώπους, όχι για το κέρδος — { -brand-name-mozilla }
+m24-home-page-title-v2 = { -brand-name-mozilla } — Το διαδίκτυο για τους ανθρώπους, όχι για το κέρδος
+# HTML page description
+m24-home-page-desc = Το γνωρίζατε; Η { -brand-name-mozilla } — δημιουργός του { -brand-name-firefox } — μάχεται για να διατηρήσει το διαδίκτυο μια παγκόσμια δημόσια πηγή, ανοικτή και προσβάσιμη από όλους.
 
 ## Intro
 
@@ -25,6 +30,7 @@ m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
 
+m24-home-were-proudly-nonprofit = Είμαστε ένας περήφανα μη κερδοσκοπικός οργανισμός. Θα κάνετε δωρεά στη { -brand-name-mozilla } σήμερα;
 m24-home-donate = Δωρεά
 
 ## AI gallery
@@ -44,6 +50,7 @@ m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Βρείτε το κατάλληλο LLM για τις ανάγκες, την περίπτωση χρήσης και τα δεδομένα σας.
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Mark Surman, Πρόεδρος της { -brand-name-mozilla }.
+m24-home-watch-now = Παρακολούθηση
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice = Δωρίστε τη φωνή σας
@@ -64,13 +71,22 @@ m24-home-topic-ps = Απόρρητο και ασφάλεια
 ## Showcase
 
 m24-home-rise25-awards = Βραβεία { -brand-name-rise25 }
+m24-home-watch-the-award = Παρακολουθήστε την απονομή
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = Ένας περήφανος τιμώμενος στο { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = Ένας χαμογελαστός ομιλητής με αυτοπεποίθηση στο { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = Ένας χαρούμενος τιμώμενος στο { -brand-name-rise25 }.
 m24-home-read-the-report = Διαβάστε την αναφορά
 
 ## Issues
 
 # Used as an accessible text alternative for an image
 m24-home-alt-pni = Έξυπνες συσκευές με εικονίδιο προσοχής.
+m24-home-privacy-not-included = *Privacy Not Included
 m24-home-pni-search-now = Αναζήτηση τώρα
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, οικοδέσποινα του IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-irl-listen-now = Ακρόαση

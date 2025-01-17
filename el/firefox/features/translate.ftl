@@ -8,6 +8,8 @@
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Μετάφραση ιστοσελίδων με το { -brand-name-firefox }
 features-translate-translate-the-web = Μετάφραση διαδικτύου
+# HTML page description
+features-translate-firefox-translations-is-a-built-in-v2 = Το { -brand-name-firefox-translations } είναι μια ενσωματωμένη δυνατότητα μεταφράσεων που σας επιτρέπει να περιηγηθείτε εύκολα στο διαδίκτυο, στη γλώσσα που προτιμάτε. Μάθετε περισσότερα σχετικά με τον τρόπο λειτουργίας αυτής της δυνατότητας του { -brand-name-firefox }, αλλά και πώς η { -brand-name-mozilla } διατηρεί ιδιωτικές τις μεταφράσεις σας.
 # Obsolete string (expires: 2025-02-17)
 features-translate-firefox-translations-is-a-built-in = Η ενσωματωμένη λειτουργία μεταφράσεων του { -brand-name-firefox } σάς επιτρέπει να περιηγηθείτε εύκολα στο διαδίκτυο, στη γλώσσα που προτιμάτε. Μάθετε περισσότερα σχετικά με τον τρόπο λειτουργίας αυτής της δυνατότητας του { -brand-name-firefox }, αλλά και πώς η { -brand-name-mozilla } διατηρεί ιδιωτικές τις μεταφράσεις σας.
 features-translate-one-of-the-best-things-about = Ένα από τα καλύτερα πράγματα στο διαδίκτυο είναι ότι μπορούμε να αποκτήσουμε πρόσβαση σε περιεχόμενο από όλο τον κόσμο. Είτε πρόκειται για άρθρα ειδήσεων, ιστολόγια ή ακόμα και για μια κριτική σχετικά με την πιο πρόσφατη τεχνολογική σας συσκευή, μπορείτε να τα βρείτε όλα στο φαινομενικά ατελείωτο διαδίκτυο. Με την πιο πρόσφατη λειτουργία μεταφράσεων του { -brand-name-firefox }, αυτό το εργαλείο θα μεταφράζει συνεχώς μια ιστοσελίδα σε πραγματικό χρόνο.
@@ -23,5 +25,8 @@ features-translate-the-languages-below-are-what-v2 = Προς το παρόν, �
 features-translate-the-languages-below-are-what = Προς το παρόν, υποστηρίζονται οι παρακάτω γλώσσες από τη λειτουργία μεταφράσεων του { -brand-name-firefox }:
 features-translate-and-more-languages-are-in = Και αναπτύσσεται η υποστήριξη για περισσότερες γλώσσες!
 features-translate-firefox-speaks-your-language = Το { -brand-name-firefox } μιλάει τη γλώσσα σας
+# Variables:
+#   $download (url) = link to https://www.mozilla.org/firefox/new/
+features-translate-the-firefox-translations-feature-v2 = Η λειτουργία μεταφράσεων { -brand-name-firefox-translations } είναι ένας ακόμη τρόπος με τον οποίο η { -brand-name-mozilla } διατηρεί το διαδίκτυο εξατομικευμένο και πιο ιδιωτικό. Η { -brand-name-mozilla } δεν καταγράφει ποιες ιστοσελίδες μεταφράζετε. Με εκατομμύρια χρήστες παγκοσμίως, η { -brand-name-mozilla } θέλει να εξασφαλίσει ότι όσοι χρησιμοποιούν το { -brand-name-firefox } μαθαίνουν, επικοινωνούν, μοιράζονται περιεχόμενο και ενημερώνονται με τους δικούς τους όρους. <a { $download }>Ξεκινήστε στη γλώσσα της προτίμησής σας κάνοντας λήψη του { -brand-name-firefox }.</a>
 # Obsolete string (expires: 2025-02-17)
 features-translate-the-firefox-translations-feature = Η λειτουργία μεταφράσεων του { -brand-name-firefox } είναι ένας ακόμη τρόπος με τον οποίο η { -brand-name-mozilla } διατηρεί το διαδίκτυο εξατομικευμένο και πιο ιδιωτικό. Η { -brand-name-mozilla } δεν καταγράφει ποιες ιστοσελίδες μεταφράζετε. Με εκατομμύρια χρήστες παγκοσμίως, η { -brand-name-mozilla } θέλει να εξασφαλίσει ότι όσοι χρησιμοποιούν το { -brand-name-firefox } μαθαίνουν, επικοινωνούν, μοιράζονται περιεχόμενο και ενημερώνονται με τους δικούς τους όρους. <a { $download }>Ξεκινήστε στη γλώσσα της προτίμησής σας κάνοντας λήψη του { -brand-name-firefox }.</a>
