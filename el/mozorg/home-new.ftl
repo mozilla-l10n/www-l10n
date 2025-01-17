@@ -34,6 +34,10 @@ home-read-more = Διαβάστε περισσότερα
 home-so-what-is-mozilla = Τι είναι, λοιπόν, η { -brand-name-mozilla };
 # Obsolete string (expires: 2025-01-05)
 home-at-its-core = Στον πυρήνα της, η { -brand-name-mozilla } είναι μια ακτιβιστική οργάνωση υπό την ηγεσία του { -brand-name-mozilla-foundation } και αλλάζει τον κόσμο μέσα από μια ποικιλία εγχειρημάτων, όπως η { -brand-name-mozilla-corporation }, η MZLA, η <a { $ventures }>{ -brand-name-mozilla-ventures }</a> και η <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Σε τι διαφέρουμε; Έχουμε ως οδηγό την αποστολή μας, έχουμε την ελευθερία να λαμβάνουμε όλες τις αποφάσεις μας με γνώμονα το καλύτερο για το διαδίκτυο και για όλους, όχι βάσει των απαιτήσεων των μετόχων· στην πραγματικότητα, δεν έχουμε μετόχους.
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core-v2 = Στον πυρήνα της, η { -brand-name-mozilla } είναι μια ακτιβιστική οργάνωση υπό την ηγεσία του { -brand-name-mozilla-foundation } και αλλάζει τον κόσμο μέσα από μια ποικιλία εγχειρημάτων, όπως η { -brand-name-mozilla-corporation }, η MZLA, η <a { $ventures }>{ -brand-name-mozilla-ventures }</a> και η <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a>. Σε τι διαφέρουμε; Έχουμε ως οδηγό την αποστολή μας, έχουμε την ελευθερία να λαμβάνουμε όλες τις αποφάσεις μας με γνώμονα το καλύτερο για το διαδίκτυο και για όλους, όχι βάσει των απαιτήσεων των μετόχων· στην πραγματικότητα, δεν έχουμε μετόχους.
 home-learn-about-mofo = Μάθετε για το { -brand-name-mozilla-foundation }
 home-join-the-fight = Λάβετε μέρος στη μάχη για ένα υγιές διαδίκτυο
 home-your-voice-your-code = Η φωνή σας, Ο κώδικάς σας. Οι ιδέες σας. Υπάρχουν κυριολεκτικά χιλιάδες τρόποι με τους οποίους μπορείτε να συνεισφέρετε στη { -brand-name-mozilla }.
