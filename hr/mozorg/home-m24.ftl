@@ -32,8 +32,11 @@ m24-home-spot-fake-reviews = Prepoznaj lažne recenzije, loše proizvode i nepou
 m24-home-pocket = { -brand-name-pocket }
 m24-home-save-the-internets = Spremi najbolji internetski sadržaj na bilo koji uređaj – jer tko sada ima vremena čitati sve?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-keep-your-location = Čuvaj svoju lokaciju i sve što radiš internetu privatno – streamaj kao domaći, bilo gdje.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+m24-home-get-a-headsup = Dobij upozorenja ako su tvoji osobni podaci u opasnosti i zaključaj ih kao profesionalac.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
+m24-home-mask-your-email = Maskiraj svoju e-mail adresu i broj telefona kako bi dobio/la samo poruke koje želiš.
 
 ## Donate
 
