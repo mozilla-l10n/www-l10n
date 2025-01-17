@@ -18,13 +18,17 @@ home-product-relay-hide-your = Sakrij svoj broj telefona i e-mail adresu od než
 home-cta-get-relay = Nabavi { -brand-name-relay }
 home-product-vpn-trust = VPN mreža kojoj možeš vjerovati
 home-cta-get-vpn = Nabavi { -brand-name-mozilla-vpn }
+home-product-monitor-protect-your = Zaštiti svoje privatne podatke od mešetara koji izvlače dobit prodajom podataka
 home-cta-get-monitor = Nabavi { -brand-name-monitor }
+home-product-fakespot-detect = Otkrij lažne recenzije o kupnji
 home-cta-get-fakespot = Nabavi { -brand-name-fakespot }
+home-join-us-in-shaping = Pridruži nam stvarati pouzdanu umjetnu inteligenciju
 home-read-more = Saznaj više
 home-so-what-is-mozilla = Dakle, što je { -brand-name-mozilla }?
 # Obsolete string (expires: 2025-01-05)
 home-at-its-core = U svojoj srži je { -brand-name-mozilla } organizacija aktivista koju vodi zaklada { -brand-name-mozilla-foundation }, koja mijenja svijet kroz razne poduhvate uključujući { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> i <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Po čemu se razlikujemo? Budući da smo vođeni misijom znači da imamo slobodu donositi odluke na osnovi onoga što je najbolje za internet i za sve njegove korisnike, a ne na osnovi zahtjeva dioničara – mi zapravo nemamo dioničare.
 home-learn-about-mofo = Saznaj više o zakladi { -brand-name-mozilla-foundation }
+home-join-the-fight = Pridruži se borbi za zdrav internet
 home-learn-more-about-mozilla = Saznaj više o { -brand-name-mozilla }
 home-mofo-donate-to-mofo-today = Doniraj zakladi { -brand-name-mozilla-foundation } danas kako bi internet ostao otvoren i dostupan svima.
 home-mofo-donate = Doniraj

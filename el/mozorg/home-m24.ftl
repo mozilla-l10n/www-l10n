@@ -41,6 +41,8 @@ m24-home-tag-program = Πρόγραμμα
 m24-home-tag-event = Εκδήλωση
 m24-home-read-more = Διαβάστε περισσότερα
 m24-home-get-started = Έναρξη
+m24-home-join-the-movement = Συμμετέχετε στο κίνημα:<br> AI για τους ανθρώπους
+m24-home-our-mission-is = Η αποστολή μας είναι να καταστήσουμε εύκολο για τους ανθρώπους την ανάπτυξη και τη συνεργασία τους με ένα ανοικτού κώδικα και αξιόπιστο AI.
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Λογότυπο του { -brand-name-llamafile }.
 m24-home-llamafile = { -brand-name-llamafile }
@@ -50,6 +52,7 @@ m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Βρείτε το κατάλληλο LLM για τις ανάγκες, την περίπτωση χρήσης και τα δεδομένα σας.
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Mark Surman, Πρόεδρος της { -brand-name-mozilla }.
+m24-home-can-ai-be = Μπορεί η τεχνητή νοημοσύνη να είναι αξιόπιστη;
 m24-home-watch-now = Παρακολούθηση
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
@@ -67,6 +70,8 @@ m24-home-tag-video = Βίντεο
 m24-home-topic-news = Ειδήσεις
 m24-home-topic-ai = Τεχνητή νοημοσύνη
 m24-home-topic-ps = Απόρρητο και ασφάλεια
+m24-home-headline-you-ai-v2 = Εσείς, η τεχνητή νοημοσύνη και το διαδίκτυο — τι πραγματικά συμβαίνει;
+m24-home-mozilla-celebrates-groundbreaking = Η { -brand-name-mozilla } τιμά τους πρωτοποριακούς δημιουργούς στη νέα σειρά ντοκιμαντέρ «{ -brand-name-firefox } Presents».
 
 ## Showcase
 
@@ -78,6 +83,8 @@ m24-home-alt-rise25-proud = Ένας περήφανος τιμώμενος στ�
 m24-home-alt-rise25-smiling = Ένας χαμογελαστός ομιλητής με αυτοπεποίθηση στο { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Ένας χαρούμενος τιμώμενος στο { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = Αφηρημένη τέχνη εικονοστοιχείων στις αποχρώσεις του πράσινου, του πορτοκαλί και του ροζ
 m24-home-read-the-report = Διαβάστε την αναφορά
 
 ## Issues

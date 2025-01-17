@@ -50,6 +50,7 @@ navigation-v2-mozilla-manifesto = { -brand-name-mozilla } manifest
 navigation-v2-learn-about-the-values = Saznaj o vrijednostima i principima koji vode našu misiju.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-get-involved = Uključi se
+navigation-v2-join-the-fight-for-a = Pridruži se borbi za zdrav internet.
 navigation-v2-leadership = Vodstvo
 navigation-v2-careers = Karijera
 navigation-v2-work-for-a-mission-driven-updated = Radi za organizaciju s misijom čiji proizvodi stavljaju ljude na prvo mjesto.

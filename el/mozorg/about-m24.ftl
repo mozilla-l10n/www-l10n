@@ -42,9 +42,12 @@ m24-about-alt-conversation = Υπάλληλος της { -brand-name-mozilla } �
 # Used as an accessible text alternative for an image
 m24-about-alt-drinking-coffee = Υπάλληλος της { -brand-name-mozilla } που πίνει καφέ.
 m24-about-join-us-and = Ελάτε μαζί μας και κάντε τη διαφορά
+m24-about-see-open-positions = Δείτε τις ανοικτές θέσεις
 
 ## Community
 
 m24-about-community-love-v2 = Η αγάπη της κοινότητας, η κινητήριος δύναμή μας
 # Obsolete string (expires: 2025-02-03)
 m24-about-community-love = Η αγάπη της κοινότητας —<br> η κινητήριος δύναμή μας
+# Used as an accessible text alternative for an image
+m24-about-alt-community = Άτομο με τσάντα φορητού υπολογιστή και κορδόνι της { -brand-name-mozilla }.
