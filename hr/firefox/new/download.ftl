@@ -32,9 +32,16 @@ firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Preuzimanje bi trebalo započeti automatski. Ne radi? <a id="{ $id }" href="{ $fallback_url }">Pokušaj ponovo preuzeti</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je više od samog preglednika.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
+firefox-new-download-interrupted = Tvoje preuzimanje je prekinuto. Ali nije sve izgubljeno.
+firefox-new-download-almost-there = Skoro gotovo!
+firefox-new-download-select-linux = Odaberi opciju preuzimanja
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = Za instaliranje preglednika { -brand-name-firefox } slijedi <a href="{ $url }">ove upute</a>.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Tvoj sustav možda ne ispunjava preduvjete za { -brand-name-firefox }, ali možeš isprobati jednu od <a href="{ $url }">ovih verzija</a>.
 firefox-new-windows = { -brand-name-windows }
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
@@ -50,4 +57,5 @@ firefox-new-visit-support-for-more = Posjeti stranicu podrške za više pojedino
 firefox-new-download-browser = Preuzmi { -brand-name-firefox-browser }
 firefox-new-fast = Brzo, privatno i besplatno
 firefox-new-from-mozilla = od { -brand-name-mozilla }
+firefox-new-desc = { -brand-name-firefox-browser } je besplatni web preglednik s brzim učitavanjem stranica, manjim korištenjem memorije i mnogim funkcijama – projekt neprofitne organizacije { -brand-name-mozilla }.
 firefox-new-download-a-different = Preuzmi jednu drugu platformu ili jezik
