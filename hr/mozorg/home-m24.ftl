@@ -54,6 +54,13 @@ m24-home-tag-event = Događaj
 m24-home-read-more = Saznaj više
 m24-home-get-started = Započni
 m24-home-join-the-movement = Pridruži se pokretu:<br> UI za ljude
+m24-home-our-mission-is = Naša je misija ljudima olakšati izgradnju i suradnju sa pouzdanom umjetnom inteligencijim otvorenog koda.
+# Used as an accessible text alternative for an image
+m24-home-alt-llamafile-logo = { -brand-name-llamafile } logotip.
+m24-home-llamafile = { -brand-name-llamafile }
+m24-home-run-large-language = Pokreći velike jezične modele (LLM-ove) jednostavno na svom računalu s { -brand-name-llamafile } – bez potrebe za instalacijom, a tvoji podaci ostaju sigurni na tvom uređaju.
+m24-home-alt-builders = Graditelji
+m24-home-mozilla-builders = { -brand-name-mozilla } graditelji
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } logotip.
 m24-home-lumigator = { -brand-name-lumigator }
