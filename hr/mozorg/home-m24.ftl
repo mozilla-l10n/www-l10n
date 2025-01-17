@@ -98,6 +98,8 @@ m24-home-introducing-anonym = Predstavljamo { -brand-name-anonym }: Podižemo st
 m24-home-keeping-genai-technologies = Održavanje sigurnosti tehnologija generativne umjetne inteligencije je zajednička odgovornost.
 m24-home-from-hollywood-to = Od Hollywooda do hip hopa, glumci i izvođači pregovaraju o korištenju umjetne inteligencije.
 m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } slavi inovativne kreatore u novoj dokumentarnoj seriji „{ -brand-name-firefox } predstavlja.”
+m24-home-big-techs-power = Moć velikih tehnoloških tvrtki nad jezikom znači moć nad ljudima. Bridget Todd razgovara s vođama jezične zajednice o budućnosti razvoja umjetne inteligencije glasa na njihovim jezicima i dijalektima.
+m24-home-why-does-it = Zašto se često čini da smo dio masovnog UI-eksperimenta? Koji je odgovoran način testiranja novih tehnologija? Bridget Todd istražuje što znači živjeti s nedokazanim UI-sustavima koji utječu na milijune ljudi.
 
 ## Showcase
 
