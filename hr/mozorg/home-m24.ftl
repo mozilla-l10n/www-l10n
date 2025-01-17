@@ -121,7 +121,10 @@ m24-home-read-the-report = Pročitaj izvještaj
 
 # Used as an accessible text alternative for an image
 m24-home-alt-pni = Pametni uređaji s ikonom opreza.
+m24-home-explore-issues-shaping = Istraži probleme o kojima ovisi budućnost Interneta
 m24-home-privacy-not-included = *Privatnost nije uključena
+m24-home-search-our-reviews = Pretraži naše recenzije i saznaj koji tehnološki gadgeti i aplikacije potajno krade tvoje podatke.
+m24-home-pni-search-now = Pretraži sada
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, voditeljica IRL Podcasta.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
