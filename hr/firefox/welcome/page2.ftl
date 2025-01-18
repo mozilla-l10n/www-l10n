@@ -8,7 +8,7 @@
 # HTML page title
 welcome-page2-pocket-save-news-videos-stories = { -brand-name-pocket } – Spremi vijesti, videa, priče i još više
 welcome-page2-your-time-online-is-worth = Tvoje vrijeme na internetu vrijedi zaštititi
-welcome-page2-discover-and-save-stories = Otkrij i spremi priče u { -brand-name-pocket } – i čitaj ih se kad imaš vremena.
+welcome-page2-discover-and-save-stories = Otkrij i spremi priče u { -brand-name-pocket } – i čitaj ih kad imaš vremena.
 welcome-page2-activate-pocket = Aktiviraj { -brand-name-pocket }
 welcome-page2-pocket = { -brand-name-pocket }
 welcome-page2-pocket-is-built-right-into = { -brand-name-pocket } je ugrađen izravno u pregledniku { -brand-name-firefox }, tako da pronađene priče možeš jednostavno spremati i kasnije ih čitati na bilo kojem uređaju.
