@@ -21,6 +21,8 @@ m24-about-read-our-manifesto = Διαβάστε τη διακήρυξή μας
 m24-about-research = Έρευνα
 # Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Monitor
+# Obsolete string (expires: 2025-02-03)
+m24-about-we-monitor-developments = Παρακολουθούμε τις εξελίξεις, διεξάγουμε έρευνα και εκστρατείες για τη βελτίωση των προϊόντων και καθοδηγούμε τις πολιτικές που αντιπροσωπεύουν τα ενδιαφέροντά σας.
 m24-about-build = Ανάπτυξη
 m24-about-we-build-products = Αναπτύσσουμε προϊόντα που σας δίνουν τον έλεγχο — όπως το { -brand-name-firefox }, το { -brand-name-fakespot } και πολλά άλλα.
 m24-about-fund = Χρηματοδότηση
