@@ -33,7 +33,7 @@ vpn-download-for-ios-long-v2 = { -brand-name-ios } için { -brand-name-mozilla-v
 vpn-download-get-on-google-play = { -brand-name-google-play } Store’dan indir
 vpn-download-get-on-app-store = { -brand-name-app-store }’dan indir
 vpn-download-based-on-your = Mevcut cihazınıza uygun sürüm
-vpn-download-get-mozilla-vpn = { -brand-name-mozilla-vpn }’i edinin
+vpn-download-get-mozilla-vpn = { -brand-name-mozilla-vpn }’i indir
 vpn-download-privacy-you-can = Güvenebileceğiniz gizlilik
 vpn-download-also-available = Bunun için de var:
 # Variables:
