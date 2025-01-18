@@ -5,10 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/14/
 
+welcome-page14-page-title = Ovaj mjesec kibernetičke sigurnosti. Iskoristi 20 % popusta za { -brand-name-mozilla-vpn }
+welcome-page14-page-title-alt = Mjesec kibernetičke sigurnosti – vrijeme je da podizanje razine tvoje privatnosti
 welcome-page14-get-mozilla-vpn = Nabavi { -brand-name-mozilla-vpn }
 welcome-page14-copy-code = Kopiraj kod
 welcome-page14-code-copied = Kod kopiran!
 welcome-page14-very-fast = Brzi, vrlo brzi
+welcome-page14-wireguard-powered = Naši { -brand-name-wireguard }® serveri su izgrađeni za brzinu tako da možeš streamati, preuzimati i igrati kao i obično.
 welcome-page14-without-trace = Internet bez traga
 welcome-page14-never-log = Nikada ne zapisujemo, pratimo ili dijelimo tvoje mrežne podatke – tvoja internetska aktivnost neće ostaviti trag na našim VPN serverima.
 welcome-page14-why-see-this = Zašto ovo vidim?
