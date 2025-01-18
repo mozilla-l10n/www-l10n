@@ -8,6 +8,7 @@
 welcome-page14-get-mozilla-vpn = Nabavi { -brand-name-mozilla-vpn }
 welcome-page14-copy-code = Kopiraj kod
 welcome-page14-code-copied = Kod kopiran!
+welcome-page14-very-fast = Brzi, vrlo brzi
 welcome-page14-without-trace = Internet bez traga
 welcome-page14-never-log = Nikada ne zapisujemo, pratimo ili dijelimo tvoje mrežne podatke – tvoja internetska aktivnost neće ostaviti trag na našim VPN serverima.
 welcome-page14-why-see-this = Zašto ovo vidim?
