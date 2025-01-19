@@ -6,8 +6,8 @@
 ### URL: https://www-dev.allizom.org/
 
 # HTML Page title
-m24-home-page-title = Το διαδίκτυο για τους ανθρώπους, όχι για το κέρδος — { -brand-name-mozilla }
-m24-home-page-title-v2 = { -brand-name-mozilla } — Το διαδίκτυο για τους ανθρώπους, όχι για το κέρδος
+m24-home-page-title = Το διαδίκτυο για τους ανθρώπους, όχι για το κέρδος: { -brand-name-mozilla }
+m24-home-page-title-v2 = { -brand-name-mozilla }: Το διαδίκτυο για τους ανθρώπους, όχι για το κέρδος
 # HTML page description
 m24-home-page-desc = Το γνωρίζατε; Η { -brand-name-mozilla } — δημιουργός του { -brand-name-firefox } — μάχεται για να διατηρήσει το διαδίκτυο μια παγκόσμια δημόσια πηγή, ανοικτή και προσβάσιμη από όλους.
 
