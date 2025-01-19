@@ -18,6 +18,7 @@ mobile-ios-fast-private-secure = Brzo. Privatno. Sigurno
 mobile-ios-stay-private-online = Štiti svoju privatnost na internetu
 mobile-ios-your-browsing-history = Tvoja povijest pregledavanja je povijest
 mobile-ios-get-more-firefox = Za više { -brand-name-firefox }a u tvom život
+mobile-ios-see-your-open-tabs = Pogledaj sve svoje otvorene kartice, nedavna pretraživanja i omiljene web stranice, sve na jednom mjestu s { -brand-name-firefox-browser } za { -brand-name-ios }.
 mobile-ios-own-your-home = Prilagodi početni ekran
 mobile-ios-get-to-the-parts = Dođi brže do dijelova interneta do kojih ti je stalo. Odaberi da na jednom mjestu vidiš sve svoje otvorene kartice, nedavna pretraživanja, zabilješke i omiljene stranice.
 mobile-ios-find-it-all = Pronađi sve brže

@@ -12,5 +12,6 @@ bookmark-manager-organize-your-bookmarks-with = Organiziraj svoje zabilješke po
 # Variables:
 #   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = Zabilješke su poveznice koje sprema u svoj preglednik za brzo i jednostavno vraćanje na omiljena mjesta na webu. { -brand-name-firefox } uključuje praktičan upravljač za zabilješke tako da možeš organizirati, pretraživati, aktualizirati i <a { $sync }>sinkronizirati sve svoje spremljene poveznice na svim tvojim uređajima</a>.
+bookmark-manager-organize-your-boomarks-into = Organiziraj svoje zabilješke u mape koje se mogu pretraživati
 bookmark-manager-easily-import-bookmarks = Jednostavno uvezi zabilješke
 bookmark-manager-bookmarks-toolbar = Alatna traka zabilješki

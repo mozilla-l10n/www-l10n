@@ -18,6 +18,7 @@ browsers-mobile-the-more-you-use = Pametniji je što ga više koristiš. Početn
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Nabavi poboljšanu zaštitu od praćenja i postavi { -brand-name-firefox } svojim standardnim preglednikom zauvijek na tvom { -brand-name-iphone }u i { -brand-name-ipad }u.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-looking-for-a-streamlined = Tražiš optimiran, ultrabrz mobilni preglednik s vrhunskim funkcijama za privatnost? { -brand-name-firefox-focus } automatski briše svu povijest pregledavanja od trenutka kada otvoriš preglednik do trenutka kada ga zatvoriš.
 browsers-mobile-compare = Usporedi
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Pogledaj kako se { -brand-name-firefox } za desktop razlikuje od drugih web-preglednika.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
