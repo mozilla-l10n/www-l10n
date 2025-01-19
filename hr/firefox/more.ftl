@@ -16,6 +16,7 @@ a-web-browser = Web preglednik te vodi kroz internet te omogućuje da vidiš tek
 update-your-browser = Aktualiziraj svoj preglednik na brz i siguran { -brand-name-firefox }.
 the-firefox-browser = { -brand-name-firefox } preglednik je izgrađen za zaštitu tvoje privatnosti pri svakom koraku – jer je to najbrži način da te oslobodimo sporog učitavanja, loših oglasa i programa za praćenje.
 firefox-is-more = { -brand-name-firefox } je više od samog preglednika
+get-the-privacy = Nabavi privatnost koju zaslužuješ. Poboljšana zaštita od praćenja automatski štiti tvoju privatnost pri svakom otvaranju preglednika.
 choose-which-firefox = Odaberi i preuzmi { -brand-name-firefox-browser } na tvom jeziku
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } za { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Mada { -brand-name-chromebook } već ima { -brand-name-chrome }, preuzimanje i korištenje { -brand-name-firefox } preglednika pruža nekoliko pogodnosti.
