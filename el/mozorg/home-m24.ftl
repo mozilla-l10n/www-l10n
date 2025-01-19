@@ -14,11 +14,13 @@ m24-home-page-desc = Το γνωρίζατε; Η { -brand-name-mozilla } — δ�
 ## Intro
 
 m24-home-welcome-to-mozilla = Καλώς ορίσατε στη { -brand-name-mozilla }
+m24-home-from-trustworthy-tech = Από αξιόπιστες τεχνολογίες μέχρι πολιτικές που υπερασπίζονται τα ψηφιακά σας δικαιώματα, προτεραιότητά μας είστε πάντοτε εσείς.
 m24-home-learn-about-us = Μάθετε για εμάς
 
 ## Products
 
 m24-home-love-the-internet = Αγαπήστε ξανά το διαδίκτυο
+m24-home-break-free-from = Απαλλαγείτε από τους τεχνολογικούς κολοσσούς· τα προϊόντα μας δίνουν σε εσάς τον έλεγχο για μια πιο ασφαλή και πιο ιδιωτική εμπειρία στο διαδίκτυο.
 m24-home-explore-our-products = Εξερευνήστε τα προϊόντα μας
 m24-home-firefox = { -brand-name-firefox }
 m24-home-thunderbird = { -brand-name-thunderbird }
@@ -43,7 +45,7 @@ m24-home-tag-event = Εκδήλωση
 m24-home-read-more = Διαβάστε περισσότερα
 m24-home-get-started = Έναρξη
 m24-home-join-the-movement = Συμμετέχετε στο κίνημα:<br> ΤΝ για τους ανθρώπους
-m24-home-our-mission-is = Η αποστολή μας είναι να καταστήσουμε εύκολο για τους ανθρώπους την ανάπτυξη και τη συνεργασία τους με ένα ανοικτού κώδικα και αξιόπιστο AI.
+m24-home-our-mission-is = Αποστολή μας είναι να καταστήσουμε εύκολη για τους ανθρώπους την ανάπτυξη και τη συνεργασία με μια αξιόπιστη τεχνητή νοημοσύνη ανοικτού κώδικα.
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Λογότυπο του { -brand-name-llamafile }.
 m24-home-llamafile = { -brand-name-llamafile }
@@ -72,7 +74,7 @@ m24-home-tag-video = Βίντεο
 m24-home-topic-news = Ειδήσεις
 m24-home-topic-ai = Τεχνητή νοημοσύνη
 m24-home-topic-ps = Απόρρητο και ασφάλεια
-m24-home-headline-you-ai-v2 = Εσείς, η τεχνητή νοημοσύνη και το διαδίκτυο — τι πραγματικά συμβαίνει;
+m24-home-headline-you-ai-v2 = Εσείς, η τεχνητή νοημοσύνη και το διαδίκτυο· τι πραγματικά συμβαίνει;
 m24-home-introducing-anonym = Παρουσίαση του { -brand-name-anonym }: Ανεβάζοντας τον πήχη για τις ψηφιακές διαφημίσεις που διατηρούν το απόρρητό σας.
 m24-home-mozilla-celebrates-groundbreaking = Η { -brand-name-mozilla } τιμά τους πρωτοποριακούς δημιουργούς στη νέα σειρά ντοκιμαντέρ «{ -brand-name-firefox } Presents».
 
@@ -94,6 +96,7 @@ m24-home-read-the-report = Διαβάστε την αναφορά
 
 # Used as an accessible text alternative for an image
 m24-home-alt-pni = Έξυπνες συσκευές με εικονίδιο προσοχής.
+m24-home-explore-issues-shaping = Εξερευνήστε τα θέματα που διαμορφώνουν το μέλλον του διαδικτύου
 m24-home-privacy-not-included = *Privacy Not Included
 m24-home-search-our-reviews = Αναζητήστε τις κριτικές μας για να δείτε ποιες τεχνολογικές συσκευές και εφαρμογές διακινούν ύπουλα τα δεδομένα σας.
 m24-home-pni-search-now = Αναζήτηση
