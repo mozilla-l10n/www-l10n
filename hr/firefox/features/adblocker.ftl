@@ -16,6 +16,10 @@ features-adblocker-an-ad-blocker-is-a-piece = Bloker oglasa je softver koji slu�
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Ti bi oglasi mogli biti glasni video oglasi, oglasi koji te prate po webu, programi za praćenje, kolačići trećih strana i još mnogo toga. Za upotrebu blokator oglasa, potraži dodatke za blokiranje oglasa koji su dostupni u tvom pregledniku. <a href="{ $firefox }">{ -brand-name-firefox }</a>, na primjer, <a href="{ $addons }">ima ovaj popis odobrenih dodataka za blokiranje oglasa</a>. Klikni ovaj popis (ili blokatore oglasa koji su odobreni za tvoj preglednik) i pogledaj koji odgovara tvojim potrebama.
 features-adblocker-find-the-right-ad-blocker = Pronađi bloker oglasa koji tebi odgovara
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = Ova proširenja izvrsno rade u <a { $attrs1 }>{ -brand-name-firefox }u za desktop</a> i <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Stvori područje u kojem te se ne prati blokiranjem sadržaja
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

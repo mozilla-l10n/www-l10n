@@ -20,4 +20,6 @@ pdf-editor-open-the-pdf-in-firefox-click-text = Otvori PDF u { -brand-name-firef
 pdf-editor-add-drawings-or-your-signature = Dodaj crteže (ili tvoj potpis)
 pdf-editor-open-the-pdf-in-firefox-click-draw = Otvori PDF u { -brand-name-firefox }u. Klikni ikonu „Crtanje” za biranje boje, debljine i neprozirnosti prije crtanja po dokumentu. Vjerojatno neće biti neuredniji od tvog uobičajenog potpisa!
 pdf-editor-add-image-with-alt-text = Dodaj sliku s alternativnim tekstom
-pdf-editor-open-pdf-click-image-icon = Otvori PDF u { -brand-name-firefox }u. Pritisni ikonu za slike koja će te zatražiti da učitaš sliku. Po potrebi prilagodi veličinu i položaj svoje slike. Klikni gumb „Alt tekst” na slici za dodavanje opisa slike kako bi tvoj PDF pristupačniji.
+pdf-editor-open-pdf-click-image-icon = Otvori PDF u { -brand-name-firefox }u. Pritisni ikonu za slike koja će te zatražiti da učitaš sliku. Po potrebi prilagodi veličinu i položaj svoje slike. Klikni gumb „Alternativni tekst” na slici za dodavanje opisa slike kako bi tvoj PDF pristupačniji.
+pdf-editor-create-a-highlight = Dodaj isticanje
+pdf-editor-select-text-you-want-to = Otvori PDF u { -brand-name-firefox }u. Odaberi tekst koji želiš istaknuti, zatim klikni ikonu za isticanje koja se pojavljuje ispod tvog odabira ili klikni desnom tipkom miša da pronađeš opciju za isticanje u kontekstnom izborniku. Klikni ikonu u gornjem desnom kutu za prostoručno isticanje dijelova PDF-a.
