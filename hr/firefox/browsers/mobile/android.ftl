@@ -22,10 +22,15 @@ mobile-android-search-your-own = Traži na tvoj način
 mobile-android-save-power-with = Štedi energiju uz tamni modus
 mobile-android-switch-to-dark = Prebaci na tamni modus u bilo kojem trenutku i smanji naprezanje očiju te potrošnju baterije.
 mobile-android-easily-organize-your = Jednostavno organiziraj kartice
+mobile-android-got-lots-of = Imaš puno otvorenih kartica? Nema problema, organiziraj ih u zbirke. Zbirke se također mogu dijeliti na više uređaja tako da možeš nastaviti pregledavati iste stvari bez obzira koji uređaj koristiš.
 mobile-android-supercharge-firefox-with = Poboljšaj { -brand-name-firefox } s dodacima
+mobile-android-addons-are-like = Dodaci su moćni mali alati koje možeš dodati u svoj preglednik za povećavanje standardnih postavki privatnosti i prilagođavanje tvog doživljaja.
 mobile-android-pick-up-where = Nastavi tamo gdje si stao/la
+mobile-android-search-from-your = Pretraži na početnom ekranu mobitela
+mobile-android-no-need-to = Ne moraš otvoriti aplikaciju. Dodaj { -brand-name-firefox } widget za pretraživanje i pretraži web izravno s početnog ekrana tvog uređaja.
 mobile-android-pin-videos-to = Prikvači videa na ekran
 mobile-android-about-mozilla = Informacije o { -brand-name-mozilla }
+mobile-android-mozilla-exists-to = { -brand-name-mozilla } postoji kako bi izgradio internet kao javni resurs dostupan svima, jer vjerujemo da je otvoreno i besplatno bolje od zatvorenog i kontroliranog. Izrađujemo proizvode kao što su { -brand-name-firefox } i { -brand-name-pocket } kako bismo promicali izbor, transparentnost i kontrolu.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Stigni brže do cilja uz { -brand-name-firefox } za { -brand-name-android }
 mobile-android-see-all-your-open-tabs = Pogledaj sve svoje otvorene kartice, nedavna pretraživanja i omiljene web stranice, sve na jednom mjestu s { -brand-name-firefox } preglednikom za { -brand-name-android }.
