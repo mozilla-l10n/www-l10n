@@ -128,7 +128,7 @@
 # Obsolete string (expires: 2025-01-05)
 -brand-name-mozilla-ai = Mozilla UI
 -brand-name-mozilla-ai-v2 = Mozilla.ai
--brand-name-mozilla-ventures = Mozilla Ventures
+-brand-name-mozilla-ventures = Mozilla investicijski fondovi
 -brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
 
