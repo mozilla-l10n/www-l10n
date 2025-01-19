@@ -16,7 +16,7 @@ firefox-developer-speak-up = Reci što misliš
 firefox-developer-feedback-makes-us = Povratne informacije nam pomažu. Reci nam kako možemo unaprijediti preglednik i programerske alate.
 firefox-developer-join-the-convo = Pridruži se razgovoru
 firefox-developer-get-involved = Uključi se
-firefox-developer-help-build-the-last = Pomogni izgraditi posljednji neovisni preglednik. Piši kȏd, ispravi greške, izradi dodatke i još mnogo toga.
+firefox-developer-help-build-the-last = Pomogni izgraditi posljednji neovisni preglednik. Piši kod, ispravi greške, izradi dodatke i još mnogo toga.
 firefox-developer-start-now = Počni sada
 firefox-developer-design-code-test = Dizajniraj. Kodiraj. Testiraj. Poboljšaj.
 # Line break for visual formatting

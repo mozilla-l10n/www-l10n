@@ -31,7 +31,7 @@ new-platform-firefox-for-linux = { -brand-name-firefox } za { -brand-name-linux 
 new-platform-privacy-more-than = Privatnost – više od pravilnika
 new-platform-your-life-your-business = Tvoj život, tvoj posao. { -brand-name-firefox } blokira kolačiće trećih strana za praćenje na { -brand-name-linux }u.
 new-platform-speed-meet-security = Brzina plus sigurnost. { -brand-name-firefox } je dvostruko brži i troši 30 posto manje memorije u odnosu na { -brand-name-chrome }.
-new-platform-open-source = Otvoren izvorni kȏd
+new-platform-open-source = Otvoreni kod
 new-platform-look-under-the-hood = Pogledaj ispod haube. Kao i { -brand-name-linux }, funkcije { -brand-name-firefox }a su otvorenog koda.
 
 ## Mac
