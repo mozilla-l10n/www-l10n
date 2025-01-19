@@ -12,6 +12,8 @@ pdf-editor-add-text-to-pdfs-v2 = Besplatno uredi PDF datoteke s { -brand-name-fi
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Prikaži i uredi PDF datoteke izravno u { -brand-name-firefox } pregledniku.
 pdf-editor-if-you-need-to-add-stuff-to-a-pdf = Ako moraš nešto dodati u PDF dokument, sada to možeš učiniti online s { -brand-name-firefox }om. Otvori PDF u { -brand-name-firefox }u i klikni gumb „Tekst” ili „Crtanje” u gornjem desnom kutu za mijenjanje dokumenta. Preuzmi datoteku za spremanje datoteke s promjenama.
+pdf-editor-fill-in-forms-online-without = Ispuni obrasce online bez ispisa i skeniranja
+pdf-editor-weve-all-faced-this-you-need-to = Svi smo se već suočili s ovime: moramo ispuniti obrazac u PDF formatu, ali se datoteka ne može mijenjati. U prošlosti je jedina opcija bila da je ispišeš na papir, dodaš stvari tintom i zatim je skeniraš natrag u svoje računalo.
 pdf-editor-add-text = Dodaj tekst
 pdf-editor-add-drawings-or-your-signature = Dodaj crteže (ili tvoj potpis)
 pdf-editor-open-the-pdf-in-firefox-click-draw = Otvori PDF u { -brand-name-firefox }u. Klikni ikonu „Crtanje” za biranje boje, debljine i neprozirnosti prije crtanja po dokumentu. Vjerojatno neće biti neuredniji od tvog uobičajenog potpisa!
