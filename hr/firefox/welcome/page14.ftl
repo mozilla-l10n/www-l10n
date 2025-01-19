@@ -5,12 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/14/
 
-welcome-page14-page-title = Ovaj mjesec kibernetičke sigurnosti. Iskoristi 20 % popusta za { -brand-name-mozilla-vpn }
+welcome-page14-page-title = Ovaj mjesec kibernetičke sigurnosti. Iskoristi popust od 20 % na { -brand-name-mozilla-vpn }
 welcome-page14-page-title-alt = Mjesec kibernetičke sigurnosti – vrijeme je da podizanje razine tvoje privatnosti
 welcome-page14-main-description = { -brand-name-mozilla-vpn } (virtualna privatna mreža) štiti tvoju cijelu internetsku vezu na računalu, tabletu i telefonu. Za dodatnu sigurnost postoji 30-dnevno jamstvo povrata novca.
 welcome-page14-main-description-v2 = { -brand-name-mozilla-vpn } (virtualna privatna mreža) štiti tvoju cijelu internetsku vezu na računalu, tabletu i telefonu. Za dodatnu sigurnost postoji 30-dnevno jamstvo povrata novca.
 welcome-page14-get-mozilla-vpn = Nabavi { -brand-name-mozilla-vpn }
-welcome-page14-use-code = Koristi kod pri plaćanju za 20 % popusta
+welcome-page14-use-code = Koristi kod pri plaćanju za popust od 20 %
 welcome-page14-copy-code = Kopiraj kod
 welcome-page14-code-copied = Kod kopiran!
 welcome-page14-very-fast = Brzi, vrlo brzi
