@@ -29,5 +29,6 @@ mobile-ios-get-to-the-parts = Dođi brže do dijelova interneta do kojih ti je s
 mobile-ios-find-it-all = Pronađi sve brže
 mobile-ios-get-search-suggestions = Dobij prijedloge u traci za pretraživanje i brzo pristupi stranicama koje najčešće posjećuješ. Upiši što tražiš i dobij prijedloge i rezultate prethodnih pretraga u tvojim omiljenim tražilicama.
 mobile-ios-discover-more-of = Otkrij više onoga što voliš
-mobile-ios-open-a-new = Otvori novu karticu u { -brand-name-firefox }u za prikaz web-stranica koje najčešće posjećuje, svoje nedavne zabilješke i popularne članke u { -brand-name-pocket }u. { -brand-name-firefox } ti omogućuje brz pristup zadnjim posjećenim web-stranicama.
+mobile-ios-open-a-new = Otvori novu karticu u { -brand-name-firefox }u za prikaz web stranica koje najčešće posjećuje, svoje nedavne zabilješke i popularne članke u { -brand-name-pocket }u. { -brand-name-firefox } ti omogućuje brz pristup zadnjim posjećenim web stranicama.
 mobile-ios-about-mozilla = Informacije o { -brand-name-mozilla }
+mobile-ios-mozilla-exists-to = { -brand-name-mozilla } postoji kako bi izgradio internet kao javni resurs dostupan svima, jer vjerujemo da je otvoreno i besplatno bolje od zatvorenog i kontroliranog. Izrađujemo proizvode kao što su { -brand-name-firefox } i { -brand-name-pocket } kako bismo promicali izbor, transparentnost i kontrolu.
