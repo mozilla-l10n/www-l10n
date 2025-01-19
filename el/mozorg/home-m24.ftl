@@ -42,7 +42,7 @@ m24-home-tag-program = Πρόγραμμα
 m24-home-tag-event = Εκδήλωση
 m24-home-read-more = Διαβάστε περισσότερα
 m24-home-get-started = Έναρξη
-m24-home-join-the-movement = Συμμετέχετε στο κίνημα:<br> AI για τους ανθρώπους
+m24-home-join-the-movement = Συμμετέχετε στο κίνημα:<br> ΤΝ για τους ανθρώπους
 m24-home-our-mission-is = Η αποστολή μας είναι να καταστήσουμε εύκολο για τους ανθρώπους την ανάπτυξη και τη συνεργασία τους με ένα ανοικτού κώδικα και αξιόπιστο AI.
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Λογότυπο του { -brand-name-llamafile }.
@@ -96,7 +96,7 @@ m24-home-read-the-report = Διαβάστε την αναφορά
 m24-home-alt-pni = Έξυπνες συσκευές με εικονίδιο προσοχής.
 m24-home-privacy-not-included = *Privacy Not Included
 m24-home-search-our-reviews = Αναζητήστε τις κριτικές μας για να δείτε ποιες τεχνολογικές συσκευές και εφαρμογές διακινούν ύπουλα τα δεδομένα σας.
-m24-home-pni-search-now = Αναζήτηση τώρα
+m24-home-pni-search-now = Αναζήτηση
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, οικοδέσποινα του IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
