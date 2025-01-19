@@ -22,5 +22,6 @@ welcome-page8-firefox-send = { -brand-name-firefox-send }
 welcome-page8-share-large-files = Dijeli velike datoteke s obostranim šifriranjem koristeći poveznicu koja automatski isteče.
 welcome-page8-try-send = Isprobaj { -brand-name-send }
 welcome-page8-facebook-container = { -brand-name-facebook-container }
+welcome-page8-stay-connected = Ostani u vezi s ljudima koje ne možeš svakodnevno sresti i spriječi da te { -brand-name-facebook } prati na internetu.
 welcome-page8-add-facebook-container = Dodaj { -brand-name-facebook-container }
 welcome-page8-why-am-i = Zašto ovo vidim?
