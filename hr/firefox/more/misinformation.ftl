@@ -24,7 +24,13 @@ misinformation-images-captions = Je li opisi slika odgovaraju sadržajima slika?
 misinformation-images-are-powerful = Slike su vrlo moćan alat za ciljano dezinformiranje. Ovisno o opisu slike, percepcija se može izokrenuti u apsolutnu suprotnost. Ako si u nedoumici, pretraži inernet pomoću obrnutog pretraživanja slika i saznaj kako su slike opisane na drugim stranicama.
 misinformation-how-firefox-helps-heading = Kako ti { -brand-name-firefox } pomaže izbjegnuti krive informacije
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } blokira programe za praćenje:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = Kao što je već spomenuto, praćenje igra veliku ulogu u širenju dezinformacija. Zajedno s <a href="{ $protection }">poboljšanom zaštitom od praćenja</a> <a href="{ $firefox }">{ -brand-name-firefox }</a> pomaže blokirati programe za praćenje trećih strana dok pregledavaš web, tako da možeš preuzeti kontrolu nad svojim online podacima.
 misinformation-social-media-clean-heading = { -brand-name-firefox } pomaže da tvoji feedovi društvenih medija ostanu čisti:
+# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
+misinformation-surface-content-heading = { -brand-name-firefox } pomaže pri otkrivanju sadržaja koji je vrijedan tvog vremena:
 misinformation-why-trust-firefox = Zašto vjerovati { -brand-name-firefox }u?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
