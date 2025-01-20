@@ -37,6 +37,7 @@ firefox-all-64-bit-installers = Instalacijski programi (64-bitni)
 firefox-all-choose-a-64-bit-installer = Odaberi 64-bitni instalacijski program za računala s 64-bitnim procesorima, koji će im omogućiti dodijeliti više RAM-a pojedinim programima – naročito važno za igre i ostale zahtjevne aplikacije.
 firefox-all-32-bit-installers = Instalacijski programi (32-bitni)
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Ova će opcija otvoriti { -brand-name-firefox } stranicu proizvoda na web portalu Microsoft Store. Ako imaš Windows 10 ili Windows 11, moći ćeš otvoriti Microsoft Store s ove stranice i instalirati { -brand-name-firefox }. Ako instaliraš iz Microsoft Storea, Microsoft Store će također upravljati aktualiziranjima { -brand-name-firefox }a. Postoje manje razlike u ponašanju i mogućnostima { -brand-name-firefox }a kada se instalira s Microsoft Storea, ali za većinu korisnika te razlike nisu primjetne.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Preuzmi { $esr_version }
@@ -44,6 +45,7 @@ firefox-all-download-esr-version = Preuzmi { $esr_version }
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = Nalazimo se u prijelaznom razdoblju između glavnih ESR verzija { $esr_next_major } i { $esr_current_major }.
+firefox-all-esr-when-there-is = Kada dođe do veće promjene verzije, uvijek postoje nekoliko izdanja za { -brand-name-firefox-esr } kako bi se ljudima koji koriste staru verziju omogućilo da se pripreme za prelazak na novu.
 firefox-all-esr-if-you-choose = Ako odlučiš preuzeti stariju ESR verziju, ona će se automatski aktualizirati na novu verziju kad završi prijelazno razdoblje.
 # Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
