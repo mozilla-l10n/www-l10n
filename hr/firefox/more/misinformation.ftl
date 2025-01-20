@@ -19,6 +19,7 @@ misinformation-check-out-websites = Provjeri web stranice i medije kojima vjeruj
 misinformation-content-up-to-date = Je li sadržaj aktualan?
 misinformation-outdated-information = Zastarjele informacije nisu nužno mišljene za dezinformaciju, ali možda više nisu činjenično točne.
 misinformation-credible-publication = Je li autor objavio druge članke ili postove, u idealnom slučaju u vjerodostojnim publikacijama?
+misinformation-authors-name = Ako na dvojbenim stranicama nađeš samo ime autora, nemoj pridavati preveliku važnost njegovim izjavama.
 misinformation-images-captions = Je li opisi slika odgovaraju sadržajima slika?
 misinformation-images-are-powerful = Slike su vrlo moćan alat za ciljano dezinformiranje. Ovisno o opisu slike, percepcija se može izokrenuti u apsolutnu suprotnost. Ako si u nedoumici, pretraži inernet pomoću obrnutog pretraživanja slika i saznaj kako su slike opisane na drugim stranicama.
 misinformation-how-firefox-helps-heading = Kako ti { -brand-name-firefox } pomaže izbjegnuti krive informacije
