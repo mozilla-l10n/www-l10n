@@ -42,5 +42,5 @@ firefox-more-translate-the-web = Prevedi web
 firefox-more-translate-more-than = Prevedi više od 100 jezika na svoj jezik izravno u svom { -brand-name-firefox-browser } – lakše nego ikada.
 firefox-more-a-guide-to = Vodič za sigurnije prijave i lozinke
 firefox-more-more-and-more = Sve više i više osjetljivih, vrijednih stvari u našim životima zaštićuju lozinke.
-firefox-more-avoid-misinformation-heading = Izbjegni krive informacije na internetu – { -brand-name-firefox } ti pri tome pomaže
-firefox-more-avoid-misinformation-desc = Pogledaj savjete kako vidjeti manje krivih informacija i kako se usredotočiti na ono što ti je važno.
+firefox-more-avoid-misinformation-heading = Izbjegni netočne informacije na internetu – { -brand-name-firefox } ti pri tome pomaže
+firefox-more-avoid-misinformation-desc = Pogledaj savjete kako vidjeti manje netočnih informacija i kako se usredotočiti na ono što ti je važno.
