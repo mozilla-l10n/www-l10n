@@ -20,7 +20,8 @@ misinformation-images-captions = Poklapaju li se slike i njihovi opisi?
 misinformation-images-are-powerful = Slike su vrlo moćan alat za ciljano dezinformiranje. Ovisno o opisu slike, percepcija se može izokrenuti u apsolutnu suprotnost. Ako nisi siguran/na, pretraži inernet pomoću obrnutog pretraživanja slika kako bi saznao/la kako je slika opisana na drugim stranicama.
 misinformation-how-firefox-helps-heading = Kako ti { -brand-name-firefox } pomaže izbjegnuti krive informacije
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } blokira programe za praćenje:
-misinformation-why-trust-firefox = Zašto vjerovati { -brand-name-firefox }?
+misinformation-social-media-clean-heading = { -brand-name-firefox } pomaže da tvoji feedovi društvenih medija ostanu čisti:
+misinformation-why-trust-firefox = Zašto vjerovati { -brand-name-firefox }u?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
 misinformation-because-we-put-people-first = Jer ljude stavljamo na prvo mjesto. Nas podržava <a href="{ $foundation }">neprofitna organizacija</a>. Već od prvog dana je naša misija zaštititi internet i sve koji ga koriste.
@@ -28,4 +29,4 @@ misinformation-learn-more-about-our-mission = Saznaj više o našoj misiji
 misinformation-your-privacy-by-the-product = Tvoja privatnost u svakom proizvodu
 misinformation-firefox-products-work-differently = { -brand-name-firefox } proizvodi su drugačiji, jer su prvenstveno dizajnirani da štite tvoju privatnost.
 misinformation-learn-about-our-products = Saznaj više o našim proizvodima
-misinformation-designed-to-protect = Dizajniran da štiti tvoju privatnost.
+misinformation-designed-to-protect = Razvijen da štiti tvoju privatnost
