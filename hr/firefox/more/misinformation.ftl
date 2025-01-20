@@ -34,6 +34,9 @@ misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } blokira 
 #   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 misinformation-firefox-keeps-trackers-desc = Kao što je već spomenuto, praćenje igra veliku ulogu u širenju netočnih informacija. Zajedno s <a href="{ $protection }">poboljšanom zaštitom od praćenja</a>, <a href="{ $firefox }">{ -brand-name-firefox }</a> pomaže blokirati programe za praćenje trećih strana dok pregledavaš web, tako da možeš preuzeti kontrolu nad svojim online podacima.
 misinformation-social-media-clean-heading = { -brand-name-firefox } pomaže da tvoji feedovi društvenih medija ostanu čisti:
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = Društvene mreže znaju puno o tebi. Osim toga te mogu pratiti izvan svojih platformi pomoću gumbova „Dijeli” i „Sviđa mi se” unatoč zaštiti od praćenja – čak i ako nemaš račun. <a href="{ $container }">{ -brand-name-facebook-container }</a> za { -brand-name-firefox } osigurava da te { -brand-name-facebook } i { -brand-name-instagram } ne mogu tako lako pratiti, što značajno smanjuje vjerojatnost da ćeš vidjeti netočne informacije putem oglasa i promotivnog sadržaja.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } pomaže pri otkrivanju sadržaja koji je vrijedan tvog vremena:
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
