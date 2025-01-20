@@ -10,7 +10,11 @@ misinformation-page-title = Izbjegni netočne informacije na internetu – { -br
 misinformation-page-desc = Netočne informacije su dosadne, ometaju i skupe su. { -brand-name-firefox } ima savjete kako izbjeći netočne informacije te vidjeti manje takvih informacija dok pregledavaš web.
 misinformation-page-subheading = Pogledaj savjete kako vidjeti manje netočnih informacija i kako se usredotočiti se na ono što ti je važno
 misinformation-what-is-heading = Što je netočna informacija? Što je dezinformacija?
+misinformation-disinformation = Netočna informacija, dezinformacija – vjerojatno već poznaš ove izraze ali ne znaš razlikuju li se u značenju i kako. Razlika je u namjeri: netočna informacija je svaka vrsta netočne informacije na koje bi ljudi mogli nasjesti. Provjerljivo je netočna ili obmanjujuća, ali nije stvorena niti dijeljena s namjerom da obmane ljude. Dezinformacija je namjerna obmana za postizanje određenog cilja.
 misinformation-false-info-heading = Gdje se pojavljuju netočne informacije?
+# Variables:
+#   $tracking (url) - link to https://blog.mozilla.org/products/firefox/firefox-privacy-protections/
+misinformation-widespread-online = Na netočne informacije i dezinformacije možeš naići posvuda, ali one su najraširenije i najučinkovitije kada se dijele na internetu. Algoritmi i <a href="{ $tracking }">praćenje</a> su povećali mogućnost da netočne informacije i dezinformacije dosegnu veću publiku na web-stranicama, blogovima, forumima i društvenim mrežama.
 misinformation-spot-online-heading = Kako prepoznati netočne informacije na internetu i pomoći zaustaviti njihovo širenje
 misinformation-look-at-url = Pogledaj URL adresu i/ili izvor.
 misinformation-known-to-br-credible = Jesu li URL ili izvor vjerodostojni? Ako si u nedoumici, pokušaj saznati više o izvoru i njegovoj reputaciji na internetu.
@@ -27,7 +31,7 @@ misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } blokira 
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
-misinformation-firefox-keeps-trackers-desc = Kao što je već spomenuto, praćenje igra veliku ulogu u širenju netočnih informacija. Zajedno s <a href="{ $protection }">poboljšanom zaštitom od praćenja</a> <a href="{ $firefox }">{ -brand-name-firefox }</a> pomaže blokirati programe za praćenje trećih strana dok pregledavaš web, tako da možeš preuzeti kontrolu nad svojim online podacima.
+misinformation-firefox-keeps-trackers-desc = Kao što je već spomenuto, praćenje igra veliku ulogu u širenju netočnih informacija. Zajedno s <a href="{ $protection }">poboljšanom zaštitom od praćenja</a>, <a href="{ $firefox }">{ -brand-name-firefox }</a> pomaže blokirati programe za praćenje trećih strana dok pregledavaš web, tako da možeš preuzeti kontrolu nad svojim online podacima.
 misinformation-social-media-clean-heading = { -brand-name-firefox } pomaže da tvoji feedovi društvenih medija ostanu čisti:
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } pomaže pri otkrivanju sadržaja koji je vrijedan tvog vremena:
