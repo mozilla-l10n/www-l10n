@@ -6,12 +6,12 @@
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
-misinformation-page-title = Izbjegni krive informacije na internetu – { -brand-name-firefox } ti pri tome pomaže
-misinformation-page-desc = Krive informacije su dosadne, ometaju i skupe su. { -brand-name-firefox } ima neke savjete kako izbjeći lažne informacije – i prikazati manje takve informacije dok pregledavaš web.
-misinformation-page-subheading = Pogledaj savjete kako vidjeti manje krivih informacija i kako se usredotočiti se na ono što ti je važno
-misinformation-what-is-heading = Što je kriva informacija? Što je dezinformacija?
-misinformation-false-info-heading = Gdje se pojavljuju krive informacije?
-misinformation-spot-online-heading = Kako prepoznati krive informacije na internetu i pomoći zaustaviti njihovo širenje
+misinformation-page-title = Izbjegni netočne informacije na internetu – { -brand-name-firefox } ti pri tome pomaže
+misinformation-page-desc = Netočne informacije su dosadne, ometaju i skupe su. { -brand-name-firefox } ima savjete kako izbjeći netočne informacije te vidjeti manje takvih informacija dok pregledavaš web.
+misinformation-page-subheading = Pogledaj savjete kako vidjeti manje netočnih informacija i kako se usredotočiti se na ono što ti je važno
+misinformation-what-is-heading = Što je netočna informacija? Što je dezinformacija?
+misinformation-false-info-heading = Gdje se pojavljuju netočne informacije?
+misinformation-spot-online-heading = Kako prepoznati netočne informacije na internetu i pomoći zaustaviti njihovo širenje
 misinformation-look-at-url = Pogledaj URL adresu i/ili izvor.
 misinformation-known-to-br-credible = Jesu li URL ili izvor vjerodostojni? Ako si u nedoumici, pokušaj saznati više o izvoru i njegovoj reputaciji na internetu.
 misinformation-overly-sensational = Je li naslov pretjerano senzacionalan?
