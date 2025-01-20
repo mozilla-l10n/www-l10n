@@ -6,7 +6,11 @@
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
+misinformation-page-title = Izbjegni krive informacije na internetu – { -brand-name-firefox } ti pri tome pomaže
+misinformation-page-desc = Krive informacije su dosadne, ometaju i skupe su. { -brand-name-firefox } ima neke savjete kako izbjeći lažne informacije – i prikazati manje takve informacije dok pregledavaš web.
+misinformation-page-subheading = Pogledaj savjete kako vidjeti manje krivih informacija i kako se usredotočiti se na ono što ti je važno
 misinformation-what-is-heading = Što je kriva informacija? Što je dezinformacija?
+misinformation-false-info-heading = Gdje se pojavljuju krive informacije?
 misinformation-how-firefox-helps-heading = Kako ti { -brand-name-firefox } pomaže izbjegnuti dezinformacije
 misinformation-why-trust-firefox = Zašto vjerovati { -brand-name-firefox }?
 # Variables:
