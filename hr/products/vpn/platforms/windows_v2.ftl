@@ -13,6 +13,9 @@ vpn-windows-windows-is-one = Windows je jedan od najpopularnijih operativnih sus
 vpn-windows-a-vpn-creates = VPN stvara šifrirani „tunel” za tvoje internetske podatke između tvog Windows računala i interneta te maskira tvoju lokaciju od web stranica koje posjećuješ. To pomaže spriječiti treće strane i mrežne špijune da saznaju stvari o tebi koje ne trebaju znati.
 vpn-windows-what-are-the-benefits = Koje su prednosti preuzimanja { -brand-name-mozilla-vpn }-a na moj Windows uređaj?
 vpn-windows-avoid-your-online = Onemogući prikupljanje i dijeljenje tvoje online aktivnosti trećim stranama ili oglašivačima.
+vpn-windows-if-youre = Ako intenzivno koristiš internetsko emitiranje videa ili glazbe, potencijalno možeš izbjeći da ti pružatelj internetskih usluga ograniči ili smanji propusnost korištenjem VPN-a.
+vpn-windows-you-can-exclude = Određene aplikacije možeš isključiti pomoću funkcije podijeljenog tuneliranja. To omogućuje da se neke aplikacije pokreću kroz VPN dok se druge ostavljaju van tunela.
+vpn-windows-using-a-windows = Korištenje Windows uređaja na javnoj, nezaštićenoj Wi-Fi mreži smanjuje zaštitu tvojih informacija o internetskom prometu od mrežne špijuna. VPN ti može pomoći sačuvati privatnost tvojih podataka dodavanjem snažnog sloja zaštite.
 vpn-windows-the-mozilla = Aplikacija { -brand-name-mozilla-vpn } ne zahtijeva puno memorije na tvom Windows uređaju, ne usporava tvoje računalo niti pretjerano troši bateriju.
 # Variables:
 #   $url (string) - url('products.vpn.landing')

@@ -9,7 +9,7 @@ vpn-features-page-title = Funkcije – { -brand-name-mozilla-vpn }
 vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 # Line break for visual format only
-vpn-features-features-that-protect = Značajke koje štite <br> tvoj život na internetu
+vpn-features-features-that-protect = Funkcije koje štite <br> tvoj život na internetu
 vpn-features-convenient = Pogodnost
 # Variables
 #   $servers (number) - number of VPN servers
