@@ -16,6 +16,8 @@ misinformation-look-at-url = Pogledaj URL adresu i/ili izvor.
 misinformation-overly-sensational = Je li naslov pretjerano senzacionalan?
 misinformation-content-up-to-date = Je li sadržaj aktualan?
 misinformation-credible-publication = Je li autor objavio druge članke ili postove, u idealnom slučaju u vjerodostojnim publikacijama?
+misinformation-images-captions = Poklapaju li se slike i njihovi opisi?
+misinformation-images-are-powerful = Slike su vrlo moćan alat za ciljano dezinformiranje. Ovisno o opisu slike, percepcija se može izokrenuti u apsolutnu suprotnost. Ako nisi siguran/na, pretraži inernet pomoću obrnutog pretraživanja slika kako bi saznao/la kako je slika opisana na drugim stranicama.
 misinformation-how-firefox-helps-heading = Kako ti { -brand-name-firefox } pomaže izbjegnuti krive informacije
 misinformation-why-trust-firefox = Zašto vjerovati { -brand-name-firefox }?
 # Variables:
