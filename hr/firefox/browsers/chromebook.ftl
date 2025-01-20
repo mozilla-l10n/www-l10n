@@ -21,6 +21,7 @@ browsers-chromebook-alwayson-tracking-protection = Uvijek uključena zaštita od
 browsers-chromebook-supporting-independent-technology = Podrška neovisnoj tehnologiji: budući da se većina glavnih preglednika sada pokreće na { -brand-name-chromium }, manje je opcija koje se ne uvlače u stroj Big Tech. { -brand-name-firefox } podržava neprofitna organizacija i zalaže se za popravljanje interneta. Korištenjem { -brand-name-firefox } preglednika čini te dijelom toga.
 browsers-chromebook-is-it-hard = Je li teško instalirati { -brand-name-firefox } za { -brand-name-chromebook }?
 browsers-chromebook-we-wish-it = Voljeli bismo da je jednostavnije, ali tvoj { -brand-name-chromebook } bi te radije zadržao u { -brand-name-google-play } ekosustavu. Međutim, smatramo da se vrijedi potruditi instalirati { -brand-name-firefox } preglednik na tvoj { -brand-name-chromebook } – i imamo resurse koji će ti pomoći ako ti zatrebaju. Postoje dva načina za postavljanje { -brand-name-firefox } preglednika na tvoj uređaj.
+browsers-chromebook-install-firefox-from = Instaliraj { -brand-name-firefox } s { -brand-name-google-play } trgovine: za novije { -brand-name-chromeos } verzije (temeljene na { -brand-name-chromebook } x86 koji pokreće { -brand-name-chromeos } 80 ili novija verzija), imaš opciju za instaliranje { -brand-name-firefox } aplikacije za { -brand-name-android }. Ova je aplikacija razvijena za mobilne uređaje.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
