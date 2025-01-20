@@ -19,6 +19,7 @@ misinformation-credible-publication = Je li autor objavio druge članke ili post
 misinformation-images-captions = Poklapaju li se slike i njihovi opisi?
 misinformation-images-are-powerful = Slike su vrlo moćan alat za ciljano dezinformiranje. Ovisno o opisu slike, percepcija se može izokrenuti u apsolutnu suprotnost. Ako nisi siguran/na, pretraži inernet pomoću obrnutog pretraživanja slika kako bi saznao/la kako je slika opisana na drugim stranicama.
 misinformation-how-firefox-helps-heading = Kako ti { -brand-name-firefox } pomaže izbjegnuti krive informacije
+misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } blokira programe za praćenje:
 misinformation-why-trust-firefox = Zašto vjerovati { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
