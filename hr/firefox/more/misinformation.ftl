@@ -11,7 +11,12 @@ misinformation-page-desc = Krive informacije su dosadne, ometaju i skupe su. { -
 misinformation-page-subheading = Pogledaj savjete kako vidjeti manje krivih informacija i kako se usredotočiti se na ono što ti je važno
 misinformation-what-is-heading = Što je kriva informacija? Što je dezinformacija?
 misinformation-false-info-heading = Gdje se pojavljuju krive informacije?
-misinformation-how-firefox-helps-heading = Kako ti { -brand-name-firefox } pomaže izbjegnuti dezinformacije
+misinformation-spot-online-heading = Kako prepoznati krive informacije na internetu i pomoći zaustaviti njihovo širenje
+misinformation-look-at-url = Pogledaj URL adresu i/ili izvor.
+misinformation-overly-sensational = Je li naslov pretjerano senzacionalan?
+misinformation-content-up-to-date = Je li sadržaj aktualan?
+misinformation-credible-publication = Je li autor objavio druge članke ili postove, u idealnom slučaju u vjerodostojnim publikacijama?
+misinformation-how-firefox-helps-heading = Kako ti { -brand-name-firefox } pomaže izbjegnuti krive informacije
 misinformation-why-trust-firefox = Zašto vjerovati { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
