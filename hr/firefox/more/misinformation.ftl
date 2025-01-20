@@ -22,12 +22,12 @@ misinformation-credible-publication = Je li autor objavio druge članke ili post
 misinformation-authors-name = Ako na dvojbenim stranicama nađeš samo ime autora, nemoj pridavati preveliku važnost njegovim izjavama.
 misinformation-images-captions = Je li opisi slika odgovaraju sadržajima slika?
 misinformation-images-are-powerful = Slike su vrlo moćan alat za ciljano dezinformiranje. Ovisno o opisu slike, percepcija se može izokrenuti u apsolutnu suprotnost. Ako si u nedoumici, pretraži inernet pomoću obrnutog pretraživanja slika i saznaj kako su slike opisane na drugim stranicama.
-misinformation-how-firefox-helps-heading = Kako ti { -brand-name-firefox } pomaže izbjegnuti krive informacije
+misinformation-how-firefox-helps-heading = Kako ti { -brand-name-firefox } pomaže izbjegnuti netočne informacije
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } blokira programe za praćenje:
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
-misinformation-firefox-keeps-trackers-desc = Kao što je već spomenuto, praćenje igra veliku ulogu u širenju dezinformacija. Zajedno s <a href="{ $protection }">poboljšanom zaštitom od praćenja</a> <a href="{ $firefox }">{ -brand-name-firefox }</a> pomaže blokirati programe za praćenje trećih strana dok pregledavaš web, tako da možeš preuzeti kontrolu nad svojim online podacima.
+misinformation-firefox-keeps-trackers-desc = Kao što je već spomenuto, praćenje igra veliku ulogu u širenju netočnih informacija. Zajedno s <a href="{ $protection }">poboljšanom zaštitom od praćenja</a> <a href="{ $firefox }">{ -brand-name-firefox }</a> pomaže blokirati programe za praćenje trećih strana dok pregledavaš web, tako da možeš preuzeti kontrolu nad svojim online podacima.
 misinformation-social-media-clean-heading = { -brand-name-firefox } pomaže da tvoji feedovi društvenih medija ostanu čisti:
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } pomaže pri otkrivanju sadržaja koji je vrijedan tvog vremena:
@@ -36,7 +36,7 @@ misinformation-surface-content-heading = { -brand-name-firefox } pomaže pri otk
 #   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
 #   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
 #   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Kada otvoriš novu karticu u { -brand-name-firefox } pregledniku, vidjet ćeš članke <a href="{ $recommended }">koje preporučuje { -brand-name-pocket }</a>. { -brand-name-pocket } ne koristi tvoje osobne podatke za davanje preporuka. Umjesto toga, članke pripremaju stvarni ljudi koji koriste aplikaciju. Sposobnost otkrivanja novih priča, nazora i mišljenja jedan je od načina borbe protiv širenja dezinformacija. Za dobivanje još više preporuka pretplati se na <a href="{ $pocket_hits }">{ -brand-name-pocket } bilten</a> i preuzmi <a href="{ $pocket }">{ -brand-name-pocket } aplikaciju</a>.
+misinformation-surface-content-desc = Kada otvoriš novu karticu u { -brand-name-firefox } pregledniku, vidjet ćeš članke <a href="{ $recommended }">koje preporučuje { -brand-name-pocket }</a>. { -brand-name-pocket } ne koristi tvoje osobne podatke za davanje preporuka. Umjesto toga, članke pripremaju stvarni ljudi koji koriste aplikaciju. Sposobnost otkrivanja novih priča, nazora i mišljenja jedan je od načina borbe protiv širenja netočnih informacija. Za dobivanje još više preporuka pretplati se na <a href="{ $pocket_hits }">{ -brand-name-pocket } bilten</a> i preuzmi <a href="{ $pocket }">{ -brand-name-pocket } aplikaciju</a>.
 misinformation-why-trust-firefox = Zašto vjerovati { -brand-name-firefox }u?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
