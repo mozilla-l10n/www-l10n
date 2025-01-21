@@ -14,6 +14,7 @@ browser-history-in-1950-computers = Leta 1950 so računalniki zavzemali celotne 
 # Variables:
 #   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
 browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> je bil prvi uspešen projekt računalniškega omrežja in leta 1969 je prvo sporočilo potovalo iz laboratorija za informatiko na Univerzi Kalifornije v Los Angelesu na  raziskovalni inštitut v Stanfordu, prav tako v Kaliforniji.
+browser-history-that-sparked-a-revolution = To je sprožilo revolucijo računalniških omrežij. Nastala so nova omrežja, ki so povezala univerze in raziskovalna središča po vsem svetu. Toda naslednjih 20 let internet ni bil dostopen javnosti. Omejen je bil na univerzitetne in vladne raziskovalce, študente in zasebne družbe. Obstajalo je na ducate programov, ki so omogočali izmenjavo podatkov prek telefonskih linij, vendar nobenega od njih ni bilo preprosto uporabljati. Pravi odprti internet in prvi spletni brskalnik sta se rodila šele leta 1990.
 browser-history-web-era = Doba spleta
 # Variables:
 #   $cern (url) - https://home.cern/topics/birth-web
