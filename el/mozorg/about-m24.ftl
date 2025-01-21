@@ -13,18 +13,21 @@ m24-about-page-desc = Η { -brand-name-mozilla } δημιουργεί προγρ
 ## Intro
 
 m24-about-reclaim-the-internet = Διεκδικήστε ξανά το διαδίκτυο με εμάς
+m24-about-mozilla-is-working = Η { -brand-name-mozilla } εργάζεται για να επαναφέρει τον έλεγχο του διαδικτύου στα χέρια των ανθρώπων που το χρησιμοποιούν.
 
 ## Manifesto
 
 m24-about-together-we-can = Μαζί, μπορούμε να διατηρήσουμε το διαδίκτυο απλό, ασφαλές και δωρεάν — για όλους.
 m24-about-read-our-manifesto = Διαβάστε τη διακήρυξή μας
+# Used as an accessible text alternative for an image
+m24-about-a-group-of = Μια ομάδα σκεπτόμενων ανθρώπων που κάθονται σε κύκλο στο πάτωμα και μοιράζονται ιδέες.
 m24-about-research = Έρευνα
 # Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Monitor
 # Obsolete string (expires: 2025-02-03)
 m24-about-we-monitor-developments = Παρακολουθούμε τις εξελίξεις, διεξάγουμε έρευνα και εκστρατείες για τη βελτίωση των προϊόντων και καθοδηγούμε τις πολιτικές που αντιπροσωπεύουν τα ενδιαφέροντά σας.
 m24-about-build = Ανάπτυξη
-m24-about-we-build-products = Αναπτύσσουμε προϊόντα που σας δίνουν τον έλεγχο — όπως το { -brand-name-firefox }, το { -brand-name-fakespot } και πολλά άλλα.
+m24-about-we-build-products = Αναπτύσσουμε προϊόντα που σας δίνουν τον έλεγχο, όπως το { -brand-name-firefox }, το { -brand-name-fakespot } και πολλά άλλα.
 m24-about-fund = Χρηματοδότηση
 m24-about-we-fund-and = Χρηματοδοτούμε και επενδύουμε σε ανθρώπους και προσπάθειες που οδηγούν την τεχνολογία, το διαδίκτυο και την τεχνητή νοημοσύνη στη σωστή κατεύθυνση.
 
