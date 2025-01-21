@@ -30,3 +30,4 @@ what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Hiperpovezave</a> 
 what-is-a-browser-cookies-not-the = Piškotki (ne tisti okusni)
 what-is-a-browser-when-you-go-to = Kadar obiščete spletno stran ter si ta zapomni vaše uporabniško ime in geslo – to omogoča piškotek.
 what-is-a-browser-understanding = Razumevanje zasebnosti
+what-is-a-browser-nearly-all-major = Skoraj vsi večji brskalniki imajo možnost zasebnega brskanja. Njen namen je skriti zgodovino brskanja pred drugimi uporabniki istega računalnika. Veliko ljudi misli, da bodo z uporabo zasebnega brskanja oziroma načina brez beleženja zgodovine skrili svojo identiteto in dejavnost pred ponudniki internetnih storitev, vladami in oglaševalci. To ni res. Te nastavitve zgolj počistijo zgodovino v vašem sistemu, kar je koristno, če razpolagate z občutljivimi osebnimi podatki na skupnem ali javnem računalniku. { -brand-name-firefox } pa ponuja več kot to.
