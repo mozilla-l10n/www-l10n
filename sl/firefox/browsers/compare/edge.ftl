@@ -5,3 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
+# HTML page description
+compare-edge-read-our-comparison = Preberite našo primerjavo brskalnikov { -brand-name-firefox } in Edge po funkcijah, zasebnosti in enostavnosti uporabe.

@@ -5,3 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
 
+# HTML page description
+compare-safari-read-our-comparison = Preberite našo primerjavo brskalnikov { -brand-name-firefox } in Safari po funkcijah, zasebnosti in enostavnosti uporabe.
