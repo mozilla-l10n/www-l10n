@@ -10,6 +10,7 @@
 
 contribute-page-title = Uppurtunità di vuluntariatu cu { -brand-name-mozilla }
 contribute-page-heading = Avemu bisognu dî to talenti pi fari na riti megghiu
+contribute-page-intro = { -brand-name-mozilla } è n'urganizzazzioni senza scopu di lucru chi travagghia pi mantèniri a riti graputa e accissìbbili pi tutti. E abbisugnamu dû to ajutu. Juncènnuti â nostra cumunità, po' cuntribbuiri purtari avanti a nnuvazzioni, a fari crìsciri u senzu di rispunzabbilità, a fiducia di l'utenti e a fari dâ riti un postu megghiu pi tutti
 contribute-how-heading = Comu po' cuntribbuiri…
 
 ## Contribution tasks
@@ -21,7 +22,9 @@ contribute-tag-individual-event = Nnividuali e urganizzazzioni di mmàttiti
 contribute-tag-individual = Nnividuali
 contribute-tag-support = Supportu
 contribute-task-translate-heading = Traduci i cuntinuti
+contribute-task-translate-desc = A riti è glubbali sulu si veni caputa unn'è-è. Ajùtani a tradùciri i pruggetti e i siti { -brand-name-mozilla } nnâ to lingua lucali.
 contribute-task-mozilla-codebase-heading = Cuntribuisci ô còdici di { -brand-name-mozilla }
+contribute-task-mozilla-codebase-desc = Cuntribbuisci di manera attiva ê prudutti { -brand-name-mozilla } scartannu ntra assai pruggetti.
 contribute-task-join-heading = Jùnciti â cumunità
 
 ## Mission
@@ -45,6 +48,7 @@ contribute-newsletter-heading = Nun ti dicidisti ancora?
 ## Support
 
 contribute-support-heading = Fatti ajutari
+contribute-support-desc = { -brand-name-mozilla } àvi na squatra di vuluntari didicata a ajutàriti cu tutti i prubblemi chi putìssiru mmàttiri.
 contribute-mozilla-support = Supportu di { -brand-name-mozilla }
 
 ## Web compat
