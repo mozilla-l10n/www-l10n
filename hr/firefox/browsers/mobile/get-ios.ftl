@@ -11,3 +11,4 @@ get-ios-firefox-for-ios = { -brand-name-firefox-browser } za { -brand-name-ios }
 get-ios-firefox-is-fast = { -brand-name-firefox } za { -brand-name-ios } je brz, siguran i privatan od prvog otvaranja.
 get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = Preuzmi { -brand-name-firefox } za { -brand-name-ios }
+get-ios-firefox-mobile-adapts = { -brand-name-firefox } za mobitel se prilagođava tebi i olakšava pregled svih tvojih otvorenih kartica, prošlih pretraživanja i omiljenih web-stranica.
