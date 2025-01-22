@@ -23,7 +23,7 @@ m24-home-alt-flag = Stílfærður grænn fáni á svörtum bakgrunni, gerður ú
 ## Products
 
 m24-home-love-the-internet = Faðmaðu internetið aftur
-m24-home-break-free-from = Losaðu þig við stóru tæknifyrirtækin - hugbúnaður okkar gefur þér stjórn á öruggari, persónulegri notkun internetsin.
+m24-home-break-free-from = Losaðu þig við stóru tæknifyrirtækin - hugbúnaður okkar gefur þér stjórn á öruggari, persónulegri notkun internetsins.
 m24-home-explore-our-products = Skoðaðu hugbúnaðinn okkar
 m24-home-firefox = { -brand-name-firefox }
 m24-home-get-the-gold = Fáðu þér það sem setur viðmiðanirnar til að vafra með hraða, persónuvernd og stjórn á þínum gögnum.
