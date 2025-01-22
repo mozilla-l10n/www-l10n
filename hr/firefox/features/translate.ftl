@@ -8,6 +8,7 @@
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Prevedi web stranicu pomoću { -brand-name-firefox }
 features-translate-translate-the-web = Prevedi web
+features-translate-when-you-translate-a-webpage = Kada prevedeš web stranicu, ona ostaje privatna
 features-translate-what-languages-are-currently = Koji su jezici trenutačno podržani?
 # This is followed by a localized list of supported languages
 features-translate-the-languages-below-are-what-v2 = Funkcija „{ -brand-name-firefox-translations }” trenutačno podržava sljedeće jezike:
