@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/sync/
 
+# page title
+features-sync-firefox-browser-sync = { -brand-name-firefox } ການຊິງຄ໌ຂອງຕົວທ່ອງເວັບ
 features-sync-send-tabs-from-one-device-to-another = ສົ່ງແຖບຈາກອຸປະກອນຫນຶ່ງໄປອີກເຄື່ອງໜຶ່ງ

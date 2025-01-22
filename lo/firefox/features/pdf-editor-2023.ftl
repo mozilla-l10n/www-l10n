@@ -9,6 +9,7 @@
 pdf-editor-pdf-editor = ໂຕແກ້ໄຂ PDF
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = ເບິ່ງ ແລະ ແກ້ໄຂໄຟລ໌ PDF ໄດ້ທັນທີໃນ { -brand-name-firefox }.
+pdf-editor-fill-in-forms-online-without = ຕື່ມຂໍ້ມູນໃສ່ແບບຟອມອອນໄລນ໌ໂດຍບໍ່ມີການພິມ ແລະ ສະແກນ
 pdf-editor-add-text = ເພີ່ມຂໍ້ຄວາມ
 pdf-editor-add-drawings-or-your-signature = ເພີ່ມຮູບແຕ້ມ ( ຫຼື ລາຍເຊັນຂອງທ່ານ)
 pdf-editor-add-image-with-alt-text = ເພີ່ມຮູບພາບດ້ວຍຂໍ້ຄວາມ alt
