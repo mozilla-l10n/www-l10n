@@ -13,6 +13,9 @@ features-translate-firefox-translations-is-a-built-in-v2 = „{ -brand-name-fire
 # Obsolete string (expires: 2025-02-17)
 features-translate-firefox-translations-is-a-built-in = „{ -brand-name-firefox } prijevodi” je ugrađena funkcija prevođenja koja omogućuje jednostavno pregledavanje weba na željenom jeziku. Saznaj više o tome kako ova funkcija funkcionira u { -brand-name-firefox }u i kako { -brand-name-mozilla } pomaže da ono što prevodiš ostane privatno.
 features-translate-one-of-the-best-things-about = Jedna od najboljih stvari na internetu je da možemo pristupiti sadržaju iz cijelog svijeta. Bilo da se radi o novinskim člancima, blogovima ili čak recenziji tvog najnovijeg tehnološkog gadgeta, sve to možeš pronaći na naizgled beskrajnom webu. Uz najnoviju { -brand-name-firefox } funkciju prevođenja, ovaj će alat kontinuirano prevoditi web stranicu u stvarnom vremenu.
+features-translate-while-other-browsers-rely-on-v2 = Dok se drugi preglednici oslanjaju na usluge u oblaku, jezični modeli „{ -brand-name-firefox-translations }” preuzimaju se na preglednik korisnika i prijevodi se izvode lokalno, tako da { -brand-name-mozilla } ne bilježi koje web stranice prevodiš.
+# Obsolete string (expires: 2025-02-17)
+features-translate-while-other-browsers-rely-on = Dok se drugi preglednici oslanjaju na usluge u oblaku, jezični modeli „{ -brand-name-firefox } prijevodi” preuzimaju se na preglednik korisnika i prijevodi se izvode lokalno, tako da { -brand-name-mozilla } ne bilježi koje web stranice prevodiš.
 features-translate-when-you-translate-a-webpage = Kada prevedeš web stranicu, ona ostaje privatna
 features-translate-what-languages-are-currently = Koji su jezici trenutačno podržani?
 # This is followed by a localized list of supported languages
