@@ -3,6 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-refresh-discover-mozilla-products = Tutustu { -brand-name-mozilla }n tuotteisiin ja aloitteisiin. Lupaamme pitää sähköpostisi yksityisenä ja turvassa – ei jakamista, ei kaupustelua, vain upeita päivityksiä.
+footer-refresh-leadership = Johtajisto
 footer-refresh-advertise = Mainosta { -brand-name-mozilla }n avulla
 footer-refresh-firefox-release-notes = { -brand-name-firefox }-Julkaisutiedot
 footer-refresh-mdn = MDN
