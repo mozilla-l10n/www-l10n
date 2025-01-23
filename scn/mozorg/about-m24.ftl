@@ -7,6 +7,8 @@
 
 # HTML Page title
 m24-about-page-title = Cchiù nfurmazzioni supra a { -brand-name-mozilla }
+# HTML page description
+m24-about-page-desc = { -brand-name-mozilla } crìa navicatura, app, còdici e stigghi chi mèttinu i genti ô primu postu, prima dû guadagnu. A nostra missioni: mantèniri a riti graputa e accissìbbili a tutti.
 
 ## Intro
 
@@ -21,6 +23,8 @@ m24-about-a-group-of = Un gruppu di cristiani assittati 'n terra a cìrculu, chi
 m24-about-advocate = Attivìsimu
 m24-about-we-advocate-for = Ammuttamu p'aviri prudutti megghiu, facènnuci pigghiari ê guverni e i mprisi a rispunzabbilità di chiḍḍu chi crìanu.
 m24-about-research = Ricerca
+# Obsolete string (expires: 2025-02-03)
+m24-about-monitor = Monitor
 m24-about-build = Sbiluppu
 m24-about-fund = Finanziamentu
 m24-about-we-fund-and = Finanziamu e mmistemu nnî genti e nnî pruggetti chi pòrtanu a ticnuluggìa, a riti e a NA nnâ dirizzioni giusta.

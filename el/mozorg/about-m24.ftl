@@ -38,6 +38,8 @@ m24-about-read-the-latest = Διαβάστε τις τελευταίες ειδ�
 m24-about-at-our-rise25 = Στα Βραβεία { -brand-name-rise25 }, το μέλλον της τεχνητής νοημοσύνης διαγράφεται αξιόπιστο, συμπεριληπτικό και υπεύθυνο
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Μια αποδέκτης του βραβείου { -brand-name-rise25 } που δείχνει το τρόπαιό της.
+# Used as an accessible text alternative for an image
+m24-about-chicago = Ένας επιχειρηματίας με έδρα το Σικάγο.
 
 ## Showcase
 
@@ -50,6 +52,8 @@ m24-about-read-about-our = Διαβάστε για τη δέσμευσή μας
 m24-about-alt-conversation = Υπάλληλος της { -brand-name-mozilla } στο μέσο μιας συνομιλίας.
 # Used as an accessible text alternative for an image
 m24-about-alt-drinking-coffee = Υπάλληλος της { -brand-name-mozilla } που πίνει καφέ.
+# Used as an accessible text alternative for an image
+m24-about-alt-collaborating = Υπάλληλοι της { -brand-name-mozilla } που συνεργάζονται.
 m24-about-join-us-and = Ελάτε μαζί μας και κάντε τη διαφορά
 m24-about-see-open-positions = Δείτε τις ανοικτές θέσεις
 

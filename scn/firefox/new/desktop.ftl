@@ -126,6 +126,19 @@ firefox-desktop-download-from-security-to = Dâ sicurizza, ê nutizzi ê jòcura
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } fu criatu di <a { $attrs }>{ -brand-name-mozilla }</a> comu un navicaturi cchiù lestu e privatu di autri, a tipu { -brand-name-ie } e { -brand-name-chrome }. Oji a nostra cumpagnìa e a nostra cumunità di vuluntari ànnu na missioni: a to privatizza veni prima di tuttu.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } è dispunìbbili nna tutti i to dispusitivi: pòrtati appressu i schedi, a crunuluggìa e i nzingalibbra. Tuttu chiḍḍu chi serbi è un <a { $attrs }>{ -brand-name-mozilla-account }</a> p'aviri accessu â sincrunizzazzioni e a l'autri prudutti { -brand-name-mozilla }.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Pigghia na mmàggini a risuluzzioni auta di tuttu chiḍḍu chi attrovi nnâ riti cû nostru stigghiu pî <a { $attrs }>schirmati</a> ntigratu nnô navicaturi
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } di manera autumàtica <a { $attrs }>blocca assai trazzatura di terzi parti</a> di ricògghiri e vìnniri a to attività 'n linia.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Ài dumanni? Cc'è l'<a { $attrs }>assistenza di { -brand-name-mozilla }</a> pi tia.
+firefox-desktop-download-watch-for-hackers-with-v3 = Teni sutta cuntrollu l'hacker cu { -brand-name-mozilla-monitor }, pruteggi u to nnirizzu di posta elittrònica cu { -brand-name-firefox-relay } e autru.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
