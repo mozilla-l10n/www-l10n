@@ -17,6 +17,7 @@ features-translate-while-other-browsers-rely-on-v2 = Dok se drugi preglednici os
 # Obsolete string (expires: 2025-02-17)
 features-translate-while-other-browsers-rely-on = Dok se drugi preglednici oslanjaju na usluge u oblaku, jezični modeli „{ -brand-name-firefox } prijevodi” preuzimaju se na preglednik korisnika i prijevodi se izvode lokalno, tako da { -brand-name-mozilla } ne bilježi koje web stranice prevodiš.
 features-translate-when-you-translate-a-webpage = Kada prevedeš web stranicu, ona ostaje privatna
+features-translate-when-your-translations-are = Kada se tvoji prijevodi obrađuju lokalno, podaci s tvog odabranog uređaja ne napuštaju tvoj uređaj niti ovise o uslugama za prevođenje u oblaku. To znači da { -brand-name-mozilla } ne zna koju web stranicu prevodiš, što našu funkciju prevođenja čini posebnijom u usporedbi s drugim alatima za prevođenje.
 features-translate-what-languages-are-currently = Koji su jezici trenutačno podržani?
 # This is followed by a localized list of supported languages
 features-translate-the-languages-below-are-what-v2 = Funkcija „{ -brand-name-firefox-translations }” trenutačno podržava sljedeće jezike:
