@@ -27,6 +27,7 @@ firefox-desktop-download-browser-support = Supportu di { -brand-name-firefox-bro
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do = Fai soccu voi 'n linia.<br>U { -brand-name-firefox-browser } <strong>nun</strong> ti talìa.
 firefox-desktop-download-how-firefox-compares = Com'è { -brand-name-firefox } rispettu a l'autri navicatura?
+firefox-desktop-download-get-all-the-speed = Ricivi tutta a listizza e i stigghi senza nuḍḍa cumprumisioni dâ privatizza. { -brand-name-firefox-browser } ricogghi accussì picca dati ncapu di tia, chi nun avemu mancu bisognu dû to nnirizzu di posta elittrònica pi faritillu scarricari. Chistu picchì nun avemu nuḍḍu ntiressi finanziariu a sicutàriti riti riti.
 firefox-desktop-download-how-we-compare = Vidi l'apparaggiu cu l'autri navicatura
 firefox-desktop-download-compare-firefox-to = Apparaggia { -brand-name-firefox } cu:
 firefox-desktop-download-compare-chrome = { -brand-name-chrome }
@@ -43,10 +44,13 @@ firefox-desktop-download-os-availability = Dispunìbbili p'assai sistemi upirati
 firefox-desktop-download-in-browser-screenshot = Stigghiu ntigratu di cattura dâ schirmata
 firefox-desktop-download-primary-password = Chiavi mastra
 firefox-desktop-download-we-block-the-ad = Bluccamu i trazzatura dî pubblicità, e tu nàvighi cchiù lestu.
+firefox-desktop-download-ads-are-distracting = I pubblicità distràjinu e fannu i pàggini cchiù lenti di carricari, mentri chi i trazzatura talìanu tuttu chiḍḍu chi fai 'n linia. U { -brand-name-firefox-browser } blocca di manera autumàtica a majurìa dî trazzatura, senza chi metti manu nnê mpustazzioni di sicurizza.
 firefox-desktop-download-see-your-report = Vidi u to papellu di prutizzioni
 firefox-desktop-download-for-everyone = { -brand-name-firefox } è pi tutti
+firefox-desktop-download-available-in-over = Dispunìbbili nna cchiù assai di 90 lingui, e cumpatìbbili chî màchini { -brand-name-windows }, { -brand-name-mac-short } e { -brand-name-linux }, { -brand-name-firefox } funziona a tutti banni. Cuntrolla chi u to sistema upirativu è attualizzatu p'aviri a megghiu spirienza.
 firefox-desktop-download-review-system-req = Talìa i riquisiti dû sistema
 firefox-desktop-download-all-your-devices = Metti { -brand-name-firefox } nna tutti i to dispusitivi
+firefox-desktop-download-take-your-privacy = Pòrtati a to privatizza unn'è-è. { -brand-name-firefox-browsers } pi { -brand-name-ios } e { -brand-name-android } àvi i stissi mpustazzioni forti di sicurizza chi blòccanu i trazzatura di sicutàriti riti riti, unni sì sì.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Fai <strong>tutti cosi</strong> cu { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Riscedi di manera cchiù sperta e lesta
@@ -63,6 +67,7 @@ firefox-desktop-download-sync-across-devices = Sincrunizza ntra i dispusitivi
 firefox-desktop-download-reader-mode = Mudalità di littura
 firefox-desktop-download-spell-check = Cuntrollu urtugràficu
 firefox-desktop-download-pinned-tabs = Schedi appuntiḍḍati
+firefox-desktop-download-stream-share-play = Trasmetti, sparti e ripruduci
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Ferma l'abbìu autumàticu di audiu e vidiu
 # Picture-in-Picture is a feature names and so is capitalized in English

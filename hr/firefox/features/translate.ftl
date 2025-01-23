@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
 # HTML page title
-features-translate-translate-a-webpage-with-firefox = Prevedi web stranicu pomoću { -brand-name-firefox }
+features-translate-translate-a-webpage-with-firefox = Prevedi web stranicu pomoću { -brand-name-firefox }a
 features-translate-translate-the-web = Prevedi web
 # HTML page description
 features-translate-firefox-translations-is-a-built-in-v2 = „{ -brand-name-firefox-translations }” je ugrađena funkcija prevođenja koja omogućuje jednostavno pregledavanje weba na željenom jeziku. Saznaj više o tome kako ova funkcija funkcionira u { -brand-name-firefox }u i kako { -brand-name-mozilla } pomaže da ono što prevodiš ostane privatno.
