@@ -25,3 +25,6 @@ features-translate-the-languages-below-are-what-v2 = Funkcija „{ -brand-name-f
 features-translate-the-languages-below-are-what = Funkcija „{ -brand-name-firefox } prijevodi” trenutačno podržava sljedeće jezike:
 features-translate-and-more-languages-are-in = Daljnji jezici su u razvoju!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } govori tvojim jezikom
+# Variables:
+#   $download (url) = link to https://www.mozilla.org/firefox/new/
+features-translate-the-firefox-translations-feature-v2 = Funkcija „{ -brand-name-firefox-translations }” je još jedan način na koji { -brand-name-mozilla } održava tvoj internet personaliziranim i privatnijim. { -brand-name-mozilla } ne prati koje web stranice prevodiš. S milijunima korisnika diljem svijeta, { -brand-name-mozilla } želi osigurati da oni koji koriste { -brand-name-firefox } uče, komuniciraju, dijele i ostaju informirani prema vlastitim uvjetima. <a { $download }>Preuzmi { -brand-name-firefox } na željenom jeziku.</a>
