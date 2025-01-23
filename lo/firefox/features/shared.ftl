@@ -7,6 +7,7 @@
 
 features-shared-firefox-features = ຄຸນສົມບັດຂອງ { -brand-name-firefox }
 features-shared-footer-cta-title = ເຮັດໄດ້ຫຼາຍຂຶ້ນກັບ { -brand-name-firefox }
+features-shared-bookmark-manager = ໂຕຈັດການບຸກມາກ
 features-shared-pdf-editor = ໂຕແກ້ໄຂ PDF
 features-shared-fingerprinter-blocking = ການຂັດຂວາງລາຍນິ້ວມື
 features-shared-translate-the-web = ແປເວັບ
