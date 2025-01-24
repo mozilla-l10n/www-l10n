@@ -6,4 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
 features-translate-translate-the-web = ແປເວັບ
+features-translate-when-you-translate-a-webpage = ເມື່ອທ່ານແປໜ້າເວັບ, ມັນຈະເປັນສ່ວນຕົວ
 features-translate-what-languages-are-currently = ຕອນນີ້ຮອງຮັບພາສາໃດແດ່?
