@@ -50,6 +50,12 @@ m24-about-read-about-our = Preberite več o naši zavezi
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-conversation = { -brand-name-mozilla(sklon: "dajalnik") }n zaposleni sredi pogovora.
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = { -brand-name-mozilla(sklon: "dajalnik") }na zaposlena pije kavo.
+# Used as an accessible text alternative for an image
+m24-about-alt-collaborating = { -brand-name-mozilla(sklon: "dajalnik") }ni zaposleni med skupinskim delom.
 m24-about-join-us-and = Pridružite se in naredite razliko
 m24-about-join-our-team = Pridružite se naši ekipi in premikajte meje mogočega – brez kompromisov pri pomembnih stvareh.
 m24-about-see-open-positions = Oglejte si odprta delovna mesta
