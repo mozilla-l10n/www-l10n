@@ -82,4 +82,5 @@ firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = ຊັບພະຍາກອນສໍາລັບນັກພັດທະນາ, ໂດຍນັກພັດທະນາ
 firefox-developer-mdn-references = { -brand-name-mdn } ການອ້າງອີງ
 firefox-developer-mdn-curriculum = { -brand-name-mdn } ຫຼັກສູດ
+firefox-developer-a-structured-guide = ຄູ່ມືທີ່ມີໂຄງສ້າງສໍາລັບທັກສະ ແລະ ການປະຕິບັດທີ່ຈໍາເປັນສໍາລັບການເປັນຜູ້ພັດທະນາຊັ້ນຫນ້າທີ່ປະສົບຜົນສໍາເລັດ, ພ້ອມກັບແຫຼ່ງການຮຽນຮູ້ທີ່ແນະນໍາ.
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
