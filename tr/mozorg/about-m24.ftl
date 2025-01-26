@@ -18,13 +18,19 @@ m24-about-reclaim-the-internet = İnternete hep beraber sahip çıkalım
 
 m24-about-together-we-can = Birlikte internetin herkes için kolay, güvenli ve özgür kalmasını sağlayabiliriz.
 m24-about-read-our-manifesto = Manifestomuzu okuyun
+# Used as an accessible text alternative for an image
+m24-about-a-group-of = Yerde daire şeklinde oturmuş fikir alışverişi yapan bir grup insan.
 m24-about-research = Araştırma
 m24-about-build = Geliştirme
+m24-about-fund = Fonlama
+m24-about-we-fund-and = Teknolojiyi, interneti ve yapay zekâyı doğru yöne götüren insanlara ve girişimlere fon sağlayıp yatırım yapıyoruz.
 
 ## News
 
 m24-about-read-more = Devamını okuyun
 m24-about-read-the-latest = En son { -brand-name-mozilla } haberlerini ve makalelerini okuyun
+# Used as an accessible text alternative for an image
+m24-about-rise25-award = { -brand-name-rise25 } kupasını işaret eden ödül sahibi.
 # Used as an accessible text alternative for an image
 m24-about-chicago = Şikago merkezli bir girişimci.
 
@@ -43,3 +49,6 @@ m24-about-see-open-positions = Açık pozisyonlara bakın
 
 ## Community
 
+m24-about-community-love-v2 = Topluluğumuzun tutkusu bizim itici gücümüz
+# Obsolete string (expires: 2025-02-03)
+m24-about-community-love = Topluluğumuzun tutkusu:<br> bizim itici gücümüz
