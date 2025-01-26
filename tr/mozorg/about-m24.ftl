@@ -25,6 +25,8 @@ m24-about-build = Geliştirme
 
 m24-about-read-more = Devamını okuyun
 m24-about-read-the-latest = En son { -brand-name-mozilla } haberlerini ve makalelerini okuyun
+# Used as an accessible text alternative for an image
+m24-about-chicago = Şikago merkezli bir girişimci.
 
 ## Showcase
 
@@ -32,6 +34,11 @@ m24-about-lets-build-a = Daha adil bir gelecek inşa edelim
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = Kahve içen { -brand-name-mozilla } çalışanı.
+# Used as an accessible text alternative for an image
+m24-about-alt-collaborating = Birlikte çalışan { -brand-name-mozilla } çalışanları.
+m24-about-join-us-and = Aramıza katılarak fark yaratın
 m24-about-see-open-positions = Açık pozisyonlara bakın
 
 ## Community
