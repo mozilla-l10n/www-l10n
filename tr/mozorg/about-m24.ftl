@@ -13,6 +13,7 @@ m24-about-page-desc = { -brand-name-mozilla }, insanlığı paranın üstünde t
 ## Intro
 
 m24-about-reclaim-the-internet = İnternete hep beraber sahip çıkalım
+m24-about-mozilla-is-working = { -brand-name-mozilla } internetin kontrolünü interneti kullanan insanlara geri vermek için çalışıyor.
 
 ## Manifesto
 
@@ -29,6 +30,7 @@ m24-about-we-fund-and = Teknolojiyi, interneti ve yapay zekâyı doğru yöne g�
 
 m24-about-read-more = Devamını okuyun
 m24-about-read-the-latest = En son { -brand-name-mozilla } haberlerini ve makalelerini okuyun
+m24-about-14-ai-projects = İzlemeniz gereken 14 yapay zekâ projesi: { -brand-name-mozilla }’nın ilk Builders Accelerator kohortu başlıyor
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = { -brand-name-rise25 } kupasını işaret eden ödül sahibi.
 # Used as an accessible text alternative for an image
@@ -37,9 +39,12 @@ m24-about-chicago = Şikago merkezli bir girişimci.
 ## Showcase
 
 m24-about-lets-build-a = Daha adil bir gelecek inşa edelim
+m24-about-see-how-were = Farklılıklara açık, kapsayıcı ve erişilebilir bir çevrimiçi ortamı nasıl geliştirdiğimizi görün.
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-conversation = Konuşma yapan bir { -brand-name-mozilla } çalışanı.
 # Used as an accessible text alternative for an image
 m24-about-alt-drinking-coffee = Kahve içen { -brand-name-mozilla } çalışanı.
 # Used as an accessible text alternative for an image
