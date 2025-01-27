@@ -49,7 +49,7 @@ new-platform-download-mozilla-windows = വിൻഡോസിനുള്ള മ
 # /firefox/windows/ HTML page description
 new-platform-download-mozilla-desc-windows = സ്വതന്ത്ര വൈബ് ബ്രൌസറായ വിൻഡോസിനു വേണ്ടിയുള്ള മോസില്ല ഫയര്‍ഫോക്സ് ഡൌണ്‍ലോഡ് ചെയ്യു. ഓണ്‍ലൈനിലെ നിയന്ത്രണം വ്യക്തികള്‍ക്ക് തിരിച്ച് നല്‍കുക എന്ന ഉദ്ദേശത്തോടെ പ്രവര്‍ത്തിക്കുന്ന ലാഭേച്ഛയില്ലാത്ത സംഘടന ഉണ്ടാക്കിയതാണ് ഫയര്‍ഫോക്സ്. വിന്‍ഡോസിനായുള്ള ഫയര്‍ഫോക്സ് ഇന്നു തന്നെ നേടു!
 # /firefox/windows/ social sharing title
-new-platform-download-the-fastest-windows = വിൻഡോസിനായുള്ള, ഏറ്റവും വേഗതയേറിയ ഫയർഫോക്സ് ഡൌൺലോഡ് ചെയ്യുക
+new-platform-download-the-fastest-windows = { -brand-name-windows }നായുള്ള, ഏറ്റവും വേഗതയേറിയ { -brand-name-firefox } ഇറക്കിവയ്ക്കുക
 # /firefox/windows/ social sharing description
 new-platform-faster-page-loading-windows = വേഗതയേറിയ പേജ് ലോഡിങ്ങ്, കുറഞ്ഞ മെമ്മറി ഉപയോഗം, കൂടുതല്‍ സവിശേഷതകളുമായ് പുതിയ വിന്‍ഡോസിനായുള്ള ഫയര്‍ഫോക്സ് ഇതാ എത്തി.
 new-platform-common-sense-privacy = സാമാന്യബുദ്ധിയുള്ള സ്വകാര്യത
