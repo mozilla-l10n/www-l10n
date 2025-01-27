@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/about/manifesto/details/
 
-about-shared-about-mozilla = മോസില്ലയെ കുറിച്ച്
+about-shared-about-mozilla = { -brand-name-mozilla }നെപറ്റി
 about-shared-mission = ഉദ്ദേശ്യം
 about-shared-history = നാള്‍വഴി
 about-shared-leadership = നേതൃത്വം
