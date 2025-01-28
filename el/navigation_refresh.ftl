@@ -21,6 +21,7 @@ navigation-refresh-innovation-projects-v2 = Έργα καινοτομίας
 navigation-refresh-blog = Ιστολόγιο
 navigation-refresh-our-mission = Η αποστολή μας
 navigation-refresh-our-work = Το έργο μας
+navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 # Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
 # Obsolete string (expires: 2025-01-05)
