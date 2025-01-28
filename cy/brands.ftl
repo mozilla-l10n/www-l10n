@@ -125,6 +125,7 @@
 -brand-name-mozilla-account = Cyfrif Mozilla
 -brand-name-mozilla-accounts = Cyfrifon Mozilla
 -brand-name-mozilla-social = Mozilla.social
+-brand-name-mozilla-builders = Adeiladwyr Mozilla
 # Obsolete string (expires: 2025-01-05)
 -brand-name-mozilla-ai = Mozilla AI
 -brand-name-mozilla-ai-v2 = Mozilla.ai

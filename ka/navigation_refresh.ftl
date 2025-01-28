@@ -21,6 +21,7 @@ navigation-refresh-innovation-projects-v2 = საინოვაციო პ�
 navigation-refresh-blog = სვეტი
 navigation-refresh-our-mission = ჩვენი მიზანი
 navigation-refresh-our-work = ჩვენი ნამუშევარი
+navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 # Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
 # Obsolete string (expires: 2025-01-05)

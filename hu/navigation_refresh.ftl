@@ -21,6 +21,7 @@ navigation-refresh-innovation-projects-v2 = Innovációs projektek
 navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Küldetésünk
 navigation-refresh-our-work = Munkánk
+navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 # Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai = { -brand-name-mozilla } MI
 # Obsolete string (expires: 2025-01-05)

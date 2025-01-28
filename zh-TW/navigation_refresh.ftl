@@ -21,6 +21,7 @@ navigation-refresh-innovation-projects-v2 = 創新專案
 navigation-refresh-blog = 部落格
 navigation-refresh-our-mission = 我們的使命
 navigation-refresh-our-work = 我們的努力
+navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 # Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
 # Obsolete string (expires: 2025-01-05)
