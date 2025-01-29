@@ -8,3 +8,4 @@
 features-translate-translate-the-web = ແປເວັບ
 features-translate-when-you-translate-a-webpage = ເມື່ອທ່ານແປໜ້າເວັບ, ມັນຈະເປັນສ່ວນຕົວ
 features-translate-what-languages-are-currently = ຕອນນີ້ຮອງຮັບພາສາໃດແດ່?
+features-translate-and-more-languages-are-in = ແລະ ຫຼາຍພາສາຢູ່ໃນການພັດທະນາ!

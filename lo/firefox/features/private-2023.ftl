@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/features/private/
 
 features-private-is-firefox-a-private-browser = { -brand-name-firefox } ເປັນຕົວທ່ອງເວັບທີ່ໄວທີ່ສຸດບໍ?
+features-private-what-information-does-firefox = { -brand-name-firefox } ເກັບກຳຂໍ້ມູນຫຍັງແດ່?
