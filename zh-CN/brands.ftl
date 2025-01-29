@@ -125,7 +125,7 @@
 -brand-name-mozilla-account = Mozilla 账户
 -brand-name-mozilla-accounts = Mozilla 账户
 -brand-name-mozilla-social = Mozilla.social
--brand-name-mozilla-builders = Mozilla 构建者
+-brand-name-mozilla-builders = Mozilla Builders
 # Obsolete string (expires: 2025-01-05)
 -brand-name-mozilla-ai = Mozilla AI
 -brand-name-mozilla-ai-v2 = Mozilla.ai
