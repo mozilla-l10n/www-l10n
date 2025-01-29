@@ -9,6 +9,7 @@
 vpn-landing-title = { -brand-name-mozilla-vpn }: ਆਪਣੇ ਪੂਰੇ ਡਿਵਾਈਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖੋ
 vpn-landing-powerful-privacy-for-peace = ਮਨ ਦੇ ਸਕੂਨ ਲਈ ਮਜ਼ਬੂਤ ਪਰਦੇਦਾਰੀ
 vpn-landing-whats-a-vpn = VPN ਕੀ ਹੈ?
+vpn-landing-a-virtual-private-network-protects = ਵਰਚੁਅਲ ਪ੍ਰਾਈਵੇਟ ਨੈੱਟਵਰਕ ਇੰਟਰਨੈੱਟ ਉੱਤੇ ਤੁਹਾਡੇ ਨੈੱਟਵਰਕ ਉੱਤੇ ਸੁਰੱਖਿਆ ਦਿੰਦਾ ਹੈ, ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਦੇ ਨਾਲ ਨਾਲ ਜੋ ਵੀ ਤੁਸੀਂ ਆਨਲਾਈਨ ਕਰਦੇ ਹੋ, ਨੂੰ ਤੁਹਾਡੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਵੱਧ ਪ੍ਰਾਈਵੇਟ ਰੱਖਦਾ ਹੈ।
 vpn-landing-see-all-the-ways-mozilla-vpn = { -brand-name-mozilla-vpn } ਵਲੋਂ ਤੁਹਾਨੂੰ ਸੁਰੱਖਿਆ ਦੇਣ ਵਾਲੇ ਸਾਰੇ ਢੰਗਾਂ ਬਾਰੇ ਜਾਣੋ।
 vpn-landing-how-a-vpn-helps-you = VPN ਤੁਹਾਡੀ ਮਦਦ ਕਿਵੇਂ ਕਰਦਾ ਹੈ
 vpn-landing-keeps-your-data-safe = ਪਬਲਿਕ Wi-Fi ਉੱਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਦਾ ਹੈ

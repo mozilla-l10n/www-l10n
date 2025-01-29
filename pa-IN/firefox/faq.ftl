@@ -51,6 +51,9 @@ does-firefox-use = ਕੀ { -brand-name-firefox } { -brand-name-google } ਵਰ�
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
 does-firefox-have = kੀ { -brand-name-firefox } ਵਿੱਚ ਹੀ VPN ਮੌਜੂਦ ਹੈ?
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } ਵਿੱਚ ਖੁਦ ਬਿਲਟ-ਇਨ VPN (ਵਰਚੁਅਲ ਪ੍ਰਾਈਵੇਟ ਨੈੱਟਵਰਕ) ਨਹੀਂ ਹੈ, ਪਰ { -brand-name-mozilla } ਨੇ <a href="{ $url }">{ -brand-name-mozilla-vpn }</a> ਨਾਂ ਦਾ ਸਾਫਟਵੇਅਰ ਬਣਾਇਆ ਹੈ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ { -brand-name-firefox-browser } ਦੇ ਨਾਲ ਵਰਤ ਕੇ ਵਾਈ-ਫਾਈ ਉੱਤੇ ਆਪਣੇ ਕਨੈਕਸ਼ਨ ਦੇ ਨਾਲ ਨਾਲ ਆਪਣੇ IP ਸਿਰਨਾਵੇਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰ ਸਕਦੇ ਹੋ।
 related-questions-ip = ਸੰਬੰਧਿਤ ਸਵਾਲ: ਕੀ { -brand-name-firefox } ਤੁਹਾਡੇ IP ਸਿਰਨਾਵੇਂ ਨੂੰ ਲੁਕਾਉਂਦਾ ਹੈ
 who-owns-firefox = { -brand-name-firefox } ਦਾ ਮਾਲਕ ਕੌਣ ਹਾ?
 

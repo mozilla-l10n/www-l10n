@@ -7,6 +7,8 @@
 
 welcome-page14-page-title = ਇਹ ਸਾਈਬਰ-ਸੁਰੱਖਿਆ ਮਹੀਨਾ ਹੈ, { -brand-name-mozilla-vpn } ਉੱਤੇ 20% ਛੋਟ ਲਵੋ
 welcome-page14-page-title-alt = ਇਹ ਸਾਈਬਰ-ਸੁਰੱਖਿਆ ਮਹੀਨਾ ਹੈ — ਆਪਣੀ ਪਰਦੇਦਾਰੀ ਵਧਾਉਣ ਦਾ ਸਮਾਂ ਆ ਗਿਆ ਹੈ
+welcome-page14-main-description = { -brand-name-mozilla-vpn } (ਵਰਚੁਅਲ ਪ੍ਰਾਈਵੇਟ ਨੈੱਟਵਰਕ) ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ, ਤੁਹਾਡੇ ਟੈਬਲੇਟ ਅਤੇ ਤੁਹਾਡੇ ਫ਼ੋਨ ਉੱਤੇ ਤੁਹਾਡੇ ਪੂਰੇ ਇੰਟਰਨੈੱਟ ਕਨੈਕਸ਼ਨ ਨੂੰ ਸੁਰੱਖਿਆ ਦਿੰਦਾ ਹੈ। ਹੋਰ ਸੁਰੱਖਿਆ ਲਈ ਇਹ 30 ਦਿਨਾਂ ਦੀ ਪੈਸੇ ਵਾਪਸੀ ਦੀ ਗਾਰੰਟੀ ਵੀ ਦਿੰਦਾ ਹੈ।
+welcome-page14-main-description-v2 = { -brand-name-mozilla-vpn } (ਵਰਚੁਅਲ ਪ੍ਰਾਈਵੇਟ ਨੈੱਟਵਰਕ) ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ, ਟੈਬਲੇਟ ਅਤੇ ਫ਼ੋਨ ਉੱਤੇ ਤੁਹਾਡੇ ਪੂਰੇ ਇੰਟਰਨੈੱਟ ਕਨੈਕਸ਼ਨ ਨੂੰ ਸੁਰੱਖਿਆ ਦਿੰਦਾ ਹੈ। ਹੋਰ ਸੁਰੱਖਿਆ ਲਈ ਇਹ 30 ਦਿਨਾਂ ਦੀ ਪੈਸੇ ਵਾਪਸੀ ਦੀ ਗਾਰੰਟੀ ਵੀ ਦਿੰਦਾ ਹੈ।
 welcome-page14-get-mozilla-vpn = { -brand-name-mozilla-vpn } ਲਵੋ
 welcome-page14-use-code = 20% ਛੋਟ ਲੈਣ ਲਈ ਚੈਕ-ਆਉਟ ਕਰਨ ਸਮੇਂ ਕੋਡ ਵਰਤੋਂ
 welcome-page14-copy-code = ਕੋਡ ਕਾਪੀ ਕਰੋ
