@@ -21,6 +21,7 @@ navigation-refresh-innovation-projects-v2 = ਨਵੇਂ ਖੋਜੀ ਪ੍ਰ�
 navigation-refresh-blog = ਬਲੌਗ
 navigation-refresh-our-mission = ਸਾਡਾ ਮਕਸਦ
 navigation-refresh-our-work = ਸਾਡਾ ਕੰਮ
+navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 # Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
 # Obsolete string (expires: 2025-01-05)

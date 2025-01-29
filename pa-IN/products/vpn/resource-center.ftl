@@ -12,6 +12,7 @@ vpn-resource-center-discover-how-they = ਸਿੱਖੋ ਕਿ ਉਹ ਕਿਵ�
 vpn-resource-center-view-all = ਸਭ ਵੇਖੋ
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = ਆਪਣੀ ਪਛਾਣ ਨੂੰ ਅੱਜ ਹੀ ਸੁਰੱਖਿਅਤ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ
+vpn-resource-center-obsessed-with = 1998 ਤੋਂ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਲਈ ਡਟਿਆ ਹੋਇਆ
 vpn-resource-center-get-mozilla-vpn = { -brand-name-mozilla-vpn } ਲਵੋ
 vpn-resource-center-was-this-article = ਕੀ ਇਹ ਲੇਖ਼ ਲਾਹੇਵੰਦ ਸੀ?
 vpn-resource-center-article-helpful = ਲੇਖ ਲਾਹੇਦਵੰਦ
