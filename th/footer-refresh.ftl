@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-refresh-discover-mozilla-products = ค้นพบผลิตภัณฑ์และโครงการของ { -brand-name-mozilla } เราสัญญาจะปกป้องอีเมลของคุณให้เป็นส่วนตัวและปลอดภัย โดยไม่แบ่งปันหรือขายข้อมูลใดๆ และจะมีเพียงข้อมูลข่าวสารดีๆ เท่านั้นให้คุณ
 footer-refresh-leadership = ตำแหน่งผู้นำ
 footer-refresh-advertise = โฆษณากับ { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = บันทึกการออกรุ่น { -brand-name-firefox }
