@@ -22,6 +22,7 @@ m24-about-read-our-manifesto = Manifestomuzu okuyun
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Yerde daire şeklinde oturmuş fikir alışverişi yapan bir grup insan.
 m24-about-research = Araştırma
+m24-about-we-uncover-insights = İçgörüleri ortaya çıkarıyor, ürünleri iyileştiren kampanyalar yürütüyor ve çıkarlarınızı koruyan politikalar geliştiriyoruz.
 m24-about-build = Geliştirme
 m24-about-fund = Fonlama
 m24-about-we-fund-and = Teknolojiyi, interneti ve yapay zekâyı doğru yöne götüren insanlara ve girişimlere fon sağlayıp yatırım yapıyoruz.
@@ -50,6 +51,7 @@ m24-about-alt-drinking-coffee = Kahve içen { -brand-name-mozilla } çalışanı
 # Used as an accessible text alternative for an image
 m24-about-alt-collaborating = Birlikte çalışan { -brand-name-mozilla } çalışanları.
 m24-about-join-us-and = Aramıza katılarak fark yaratın
+m24-about-join-our-team = Ekibimize katılın, insanlık için önemli olan şeylerden ödün vermeden sınırları zorlayın.
 m24-about-see-open-positions = Açık pozisyonlara bakın
 
 ## Community
@@ -57,3 +59,4 @@ m24-about-see-open-positions = Açık pozisyonlara bakın
 m24-about-community-love-v2 = Topluluğumuzun tutkusu bizim itici gücümüz
 # Obsolete string (expires: 2025-02-03)
 m24-about-community-love = Topluluğumuzun tutkusu:<br> bizim itici gücümüz
+m24-about-mozilla-is-a = { -brand-name-mozilla }, 1998’den beri interneti bizimle birlikte inşa eden, koruyan ve şekillendiren tutkulu gönüllülerden ve katkı sağlayıcılardan oluşan küresel bir topluluk.
