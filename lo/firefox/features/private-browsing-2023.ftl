@@ -6,6 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/features/private-browsing
 
 features-private-browsing-private-browsing-mode = ໂໝດການຄົ້ນຫາແບບສ່ວນຕົວ
+# HTML page title
+features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox } ໂໝດການທ່ອງເວັບສ່ວນຕົວ
 features-private-browsing-what-does-private-browsing-do = ການທ່ອງເວັບສ່ວນຕົວເຮັດຫຍັງ?
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = ໜ້າຈໍບຣາວເຊີ { -brand-name-firefox } ໃນໂໝດການທ່ອງເວັບສ່ວນຕົວ.

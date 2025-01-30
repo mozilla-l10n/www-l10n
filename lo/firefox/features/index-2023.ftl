@@ -15,6 +15,7 @@ features-index-customize-your-firefox-browser = ປັບແຕ່ງຕົວ�
 features-index-choose-how-your-browser-looks = ເລືອກວິທີການເບິ່ງຕົວທ່ອງເວັບຂອງທ່ານດ້ວຍຮູບແບບຟຣີຫຼາຍພັນຮູບແບບ.
 features-index-firefox-browser-sync = { -brand-name-firefox } ການຊິງຄ໌ຂອງຕົວທ່ອງເວັບ
 features-index-bookmark-manager = ໂຕຈັດການບຸກມາກ
+features-index-organize-your-bookmarks-with = ຈັດລະບຽບ bookmarks ຂອງທ່ານດ້ວຍໂຟນເດີ ແລະ tags.
 features-index-private-browsing-mode = ໂໝດການຄົ້ນຫາແບບສ່ວນຕົວ
 features-index-pinned-browser-tabs = ປັກໝຸດແຖບບຣາວເຊີ
 features-index-eyedropper-tool = Eyedropper tool
