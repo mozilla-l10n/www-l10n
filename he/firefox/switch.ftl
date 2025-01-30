@@ -6,10 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = המעבר מ־{ -brand-name-chrome } ל־{ -brand-name-firefox } לוקח דקות ספורות
-switch-switching-to-firefox-is-fast-updated = המעבר ל־{ -brand-name-firefox } הוא מהיר, פשוט ונטול סכנה מכיוון ש־{ -brand-name-firefox } מייבא את המועדפים, הססמאות וההעדפות שלך מ־{ -brand-name-chrome }.
-switch-switching-to-firefox-is-fast = המעבר ל־{ -brand-name-firefox } הוא מהיר, פשוט ונטול סכנה מכיוון ש־{ -brand-name-firefox } מייבא את המועדפים, המילוי האוטומטי, הססמאות וההעדפות שלך מ־{ -brand-name-chrome }.
-switch-switching-to-firefox-page-description-updated = המעבר ל־{ -brand-name-firefox } הוא מהיר, פשוט ונטול סכנה. { -brand-name-firefox } מייבא את המועדפים, הססמאות וההעדפות שלך מ־{ -brand-name-chrome }.
-switch-switching-to-firefox-page-description = המעבר ל־{ -brand-name-firefox } הוא מהיר, פשוט ונטול סכנה. { -brand-name-firefox } מייבא את המועדפים, המילוי האוטומטי, הססמאות וההעדפות שלך מ־{ -brand-name-chrome }.
+switch-switching-to-firefox-is-fast-updated = המעבר ל־{ -brand-name-firefox } הוא מהיר, פשוט ונטול סכנה מכיוון ש־{ -brand-name-firefox } מייבא את הסימניות, הססמאות וההעדפות שלך מ־{ -brand-name-chrome }.
+switch-switching-to-firefox-is-fast = המעבר ל־{ -brand-name-firefox } הוא מהיר, פשוט ונטול סכנה מכיוון ש־{ -brand-name-firefox } מייבא את הסימניות, המילוי האוטומטי, הססמאות וההעדפות שלך מ־{ -brand-name-chrome }.
+switch-switching-to-firefox-page-description-updated = המעבר ל־{ -brand-name-firefox } הוא מהיר, פשוט ונטול סכנה. { -brand-name-firefox } מייבא את הסימניות, הססמאות וההעדפות שלך מ־{ -brand-name-chrome }.
+switch-switching-to-firefox-page-description = המעבר ל־{ -brand-name-firefox } הוא מהיר, פשוט ונטול סכנה. { -brand-name-firefox } מייבא את הסימניות, המילוי האוטומטי, הססמאות וההעדפות שלך מ־{ -brand-name-chrome }.
 switch-firefox-makes-switching-fast-tweet = 🔥 ‏{ -brand-name-firefox } הופך את המעבר מ־{ -brand-name-chrome } ממש מהיר. מומלץ לנסות!
 switch-switch-to-firefox = מעבר ל־{ -brand-name-firefox }
 switch-firefox-makes-switching-fast-email = ‏{ -brand-name-firefox } הופך את המעבר מ־{ -brand-name-chrome } ממש מהיר. מאוד אהבתי את זה, וכדאי לך לנסות גם.
