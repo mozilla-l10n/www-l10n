@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-refresh-discover-mozilla-products = { -brand-name-mozilla } ürünlerini ve girişimlerini keşfedin. E-postanızı gizli ve güvende tutacağımıza söz veriyoruz: E-postanızı asla paylaşmıyor ve satmıyor, sadece haber göndermek için kullanıyoruz.
 footer-refresh-leadership = Yönetim
 footer-refresh-advertise = { -brand-name-mozilla } ile Reklam Verin
 footer-refresh-firefox-release-notes = { -brand-name-firefox } Sürüm Notları

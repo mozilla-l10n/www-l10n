@@ -17,6 +17,8 @@ m24-home-page-desc-v2 = İnternetin kontrolünü interneti kullanan insanlara ge
 m24-home-welcome-to-mozilla = { -brand-name-mozilla }’ya hoş geldiniz
 m24-home-from-trustworthy-tech = Güvenilir teknolojilerle ve dijital haklarınızı savunan politikalarla her zaman sizi ilk sıraya koyuyoruz.
 m24-home-learn-about-us = Bizi tanıyın
+# Used as accessible text alternative for image
+m24-home-alt-flag = { -brand-name-mozilla }’nın ‘M’ harfini temel alan, siyah zemin üzerine yeşil bayrak ve ilk dinozor logosunu temsilen kaymış bir piksel.
 
 ## Products
 
@@ -113,6 +115,8 @@ m24-home-alt-rise25-proud = Gururlu bir { -brand-name-rise25 } ödülü sahibi.
 m24-home-alt-rise25-smiling = Gülümseyen bir { -brand-name-rise25 } konuşmacısı.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Mutlu bir { -brand-name-rise25 } ödülü sahibi.
+m24-home-state-of-mozilla = State of { -brand-name-mozilla }
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } kendini yeniden tanımlıyor, çeşitli kuruluşlara yayılıyor, reklamcılığı baştan tasarlıyor ve açık kaynaklı bir yapay zekâ ekosistemi oluşturuyor. Ayrıntıları State of { -brand-name-mozilla } 2024 Raporu’nda okuyun.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Yeşil, turuncu ve pembe tonlarında soyut bir pikselleşmiş resim
 m24-home-read-the-report = Raporu okuyun
