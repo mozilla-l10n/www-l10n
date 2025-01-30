@@ -76,6 +76,7 @@ m24-home-watch-now = Horfa núna
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Ræðumaður á sviði með mörgum vörumerkjum.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-got-an-earlystage = Ertu með sprotafyrirtæki á byrjunarstigi? Sendu inn upplýsingar um fyrirtækið þitt til { -brand-name-mozilla-ventures } og tryggðu fjármögnun til að knýja fram jákvæðar breytingar á framtíð gervigreindar og internetsins.
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Gefðu rödd þína til að gera taltækni meira án aðgreiningar og aðgengilegri fyrir alla.
 m24-home-donate-your-voice = Gefðu raddsýnishorn

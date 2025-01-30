@@ -21,6 +21,7 @@ navigation-refresh-innovation-projects-v2 = Nýsköpunarverkefni
 navigation-refresh-blog = Blogg
 navigation-refresh-our-mission = Markmið okkar
 navigation-refresh-our-work = Starfið okkar
+navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 # Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai = { -brand-name-mozilla }-gervigreind
 # Obsolete string (expires: 2025-01-05)
