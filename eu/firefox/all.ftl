@@ -8,6 +8,7 @@
 firefox-all-choose-browser = Aukeratu nabigatzailea jarraitzeko
 firefox-all-choose-platform = Aukeratu plataforma jarraitzeko
 firefox-all-choose-language = Aukeratu hizkuntza jarraitzeko
+firefox-all-change-browser = Aukeratu beste produktu bat
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Lortu laguntza
 firefox-all-sorry-we-couldnt-find = Ezin izan dugu aurkitu bila zabiltzan deskarga. Saiatu berriro geroago edo hautatu deskarga bat ondorengo zerrendatik.
