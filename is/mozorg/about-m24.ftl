@@ -55,6 +55,8 @@ m24-about-read-about-our = Lestu um skuldbindingar okkar
 ## Careers
 
 # Used as an accessible text alternative for an image
+m24-about-alt-trustworthy = Gervigreind sem hægt er að treysta, { -brand-name-common-voice }, kennsla á samfélagsneti.
+# Used as an accessible text alternative for an image
 m24-about-alt-conversation = { -brand-name-mozilla } starfsmaður í djúpum samræðum.
 # Used as an accessible text alternative for an image
 m24-about-alt-drinking-coffee = { -brand-name-mozilla } starfsmaður að drekka kaffi.

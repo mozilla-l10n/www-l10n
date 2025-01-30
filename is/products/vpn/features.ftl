@@ -20,6 +20,17 @@ vpn-features-more-than =
        *[other] Meira en { $servers } netþjónar í yfir { $countries } löndum
     }
 vpn-features-see-our-list = Skoðaðu listann okkar yfir netþjóna.
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-features-connect-up-to =
+    { $devices ->
+        [one] Tengdu allt að { $devices } tæki
+       *[other] Tengdu allt að { $devices } tæki
+    }
 vpn-features-supported-platforms = Stuðningur við Windows, macOS, Android, iOS og Linux stýrikerfi.
+vpn-features-secure = Öruggt
+vpn-features-support-for-custom-dns = Stuðningur við sérsniðið DNS
 vpn-features-flexible = Sveigjanlegt
+vpn-features-trustworthy = Áreiðanlegt
 vpn-features-money-back = 30-daga skilafrestur
+vpn-features-people-over-profits = Fólk fram yfir gróða

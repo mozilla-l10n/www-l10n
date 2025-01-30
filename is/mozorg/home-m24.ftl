@@ -99,11 +99,15 @@ m24-home-headline-you-ai-v2 = Þú, gervigreind og internetið - hvað er eiginl
 m24-home-introducing-anonym = Við kynnum { -brand-name-anonym }: Hækkum öll viðmið varðandi stafrænar auglýsingar sem varðveita friðhelgi einkalífsins.
 m24-home-keeping-genai-technologies = Að halda GenAI-tækni öruggri er sameiginleg ábyrgð okkar.
 m24-home-from-hollywood-to = Allt frá Hollywood yfir í hip-hop eru listamenn að semja um upplýst samþykki varðandi notkun verka sinna í gervigreind.
+m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } fjallar um tímamótafrumkvöðla í nýrri heimildarmyndaröð „{ -brand-name-firefox } kynnir“.
+m24-home-big-techs-power = Vald stóru tæknifyrirtækjanna yfir tungumálinu þýðir vald yfir fólki. Bridget Todd ræðir við leiðtoga tungutæknisamfélagsins sem ryður brautina fyrir gervigreindartal á þeirra eigin tungumálum og mállýskum.
+m24-home-why-does-it = Hvers vegna líður okkur svona oft eins og við séum hluti af risavaxinni tilraun á öllum almenningi með gervigreind? Hver er ábyrga leiðin til að prófa nýja tækni? Bridget Todd kannar hvað það þýðir að búa með óprófuð gervigreindarkerfi sem hafa áhrif á milljónir manna þegar þau smitast út um þjóðlífið.
 m24-home-kids-are-growing = Krakkar eru að alast upp í alveg nettengdum heimi. Hvað eiga áhyggjufullir foreldrar að gera?
 
 ## Showcase
 
 m24-home-rise25-awards = { -brand-name-rise25 } verðlaunin
+m24-home-get-to-know = Kynntu þér leiðtogana sem standa fyrir áreiðanlegri og gagnsærri gervigreindarþróun fyrir alla, þar sem þeir smíða nýja staðla og veita næstu kynslóð frumkvöðla innblástur.
 m24-home-watch-the-award = Horfðu á verðlaunaafhendinguna
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-proud = Stoltur heiðursfélagi hjá { -brand-name-rise25 }.

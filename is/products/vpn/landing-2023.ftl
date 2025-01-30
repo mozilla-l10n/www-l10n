@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 vpn-landing-whats-a-vpn = Hvað er VPN?
+vpn-landing-how-a-vpn-helps-you = Hvernig VPN getur hjálpað þér
 vpn-landing-features = Eiginleikar
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -22,3 +23,4 @@ vpn-landing-more-than-servers-in-countries =
         [one] Meira en { $servers } netþjónn í yfir { $countries } löndum
        *[other] Meira en { $servers } netþjónar í yfir { $countries } löndum
     }
+vpn-landing-what-is-an-ip-address = Hvað er IP-tala eða IP-vistfang?

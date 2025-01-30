@@ -5,6 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/pricing/
 
+vpn-pricing-page-title = Verðlagning - { -brand-name-mozilla-vpn }
+vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
+# HTML page title
+vpn-pricing-one-subscription = Ein áskrift fyrir öll tækin þín
+# Pricing section
+vpn-pricing-included-in-subscription = Innifalið í áskrift:
 vpn-pricing-annual = Árlega
 vpn-pricing-monthly = Mánaðarlega
 vpn-pricing-get-annual-subscription = Fáðu ársáskrift
