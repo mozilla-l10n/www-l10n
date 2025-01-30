@@ -14,7 +14,7 @@ m24-home-page-desc-v2 = Við erum að vinna að því að setja stjórnina á in
 
 ## Intro
 
-m24-home-welcome-to-mozilla = Velkomin í { -brand-name-mozilla }
+m24-home-welcome-to-mozilla = Velkomin til { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = Allt frá traustri tækni til áherslna sem verja stafræn réttindi þín, setjum við þig í fyrsta sæti - alltaf.
 m24-home-learn-about-us = Fræðstu um okkur
 # Used as accessible text alternative for image

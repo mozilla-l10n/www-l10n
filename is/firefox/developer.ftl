@@ -15,4 +15,4 @@ firefox-developer-style-editor = Style Editor
 firefox-developer-new-tools = Ný verkfæri
 firefox-developer-built-for-developers = Byggt fyrir hönnuði
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } automatically sends feedback to { -brand-name-mozilla }.
-firefox-developer-welcome-to-firefox-developer-edition = Velkomin í { -brand-name-firefox-developer-edition }
+firefox-developer-welcome-to-firefox-developer-edition = Velkomin til { -brand-name-firefox-developer-edition }
