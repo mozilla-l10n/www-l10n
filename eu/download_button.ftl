@@ -41,3 +41,5 @@ download-button-download = Deskargatu
 
 ## Linux
 
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Lortu Microsoft-etik

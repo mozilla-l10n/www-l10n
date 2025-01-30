@@ -24,6 +24,10 @@
 -brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
 -brand-name-wireguard = WireGuard
+-brand-name-linkedin = LinkedIn
+-brand-name-tiktok = TikTok
+-brand-name-spotify = Spotify
+-brand-name-mastodon = Mastodon
 
 ## Firefox browsers
 
@@ -65,6 +69,7 @@
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-relay = Firefox Relay
 -brand-name-firefox-sync = Firefox Sync
+-brand-name-firefox-translations = Firefox Translations
 
 ## Firefox products (short names)
 
@@ -77,12 +82,15 @@
 -brand-name-firefox-account = Firefox Account
 -brand-name-firefox-accounts = Firefox Accounts
 -brand-name-firefox-lockwise = Firefox Lockwise
+-brand-name-firefox-os = Firefox OS
 -brand-name-firefox-send = Firefox Send
 -brand-name-send = Send
 -brand-name-firefox-private-network = Firefox Private Network
+-brand-name-fpn = FPN
 
 ## Firefox projects
 
+-brand-name-firefox-labs = Firefox Labs
 
 ## Pocket
 
@@ -90,6 +98,7 @@
 
 ## Fakespot
 
+-brand-name-fakespot = Fakespot
 
 ## Anonym
 
@@ -97,9 +106,20 @@
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
+-brand-name-irl-podcast = IRL Podcast
+-brand-name-llamafile = Llamafile
+-brand-name-lumigator = Lumigator
+-brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
+-brand-name-mozilla-festival = Mozilla Festival
+-brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
+-brand-name-mozilla-account = Mozilla kontua
+-brand-name-mozilla-accounts = Mozilla kontuak
+# Obsolete string (expires: 2025-01-05)
+-brand-name-mozilla-ai = Mozilla AA
+-brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
@@ -107,9 +127,11 @@
 -brand-name-common-voice = Common Voice
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
+-brand-name-vpn = VPN
 
 ## Mozilla projects (legacy)
 
+-brand-name-mozilla-developer-network = Mozillako garatzaileen sarea
 -brand-name-hubs = Hubs
 -brand-name-lockwise = Lockwise
 
