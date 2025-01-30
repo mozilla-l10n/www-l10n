@@ -21,9 +21,16 @@ m24-about-together-we-can = Birlikte internetin herkes için kolay, güvenli ve 
 m24-about-read-our-manifesto = Manifestomuzu okuyun
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Yerde daire şeklinde oturmuş fikir alışverişi yapan bir grup insan.
+m24-about-advocate = Savunma
+m24-about-we-advocate-for = Daha iyi ürünleri savunuyor, hükümetlerin ve teknoloji şirketlerini yarattıklarını sorguluyoruz.
 m24-about-research = Araştırma
+# Obsolete string (expires: 2025-02-03)
+m24-about-monitor = İzleme
 m24-about-we-uncover-insights = İçgörüleri ortaya çıkarıyor, ürünleri iyileştiren kampanyalar yürütüyor ve çıkarlarınızı koruyan politikalar geliştiriyoruz.
+# Obsolete string (expires: 2025-02-03)
+m24-about-we-monitor-developments = Gelişmeleri izliyor, araştırmalar yapıyor, ürünleri iyileştiren kampanyalar yürütüyor ve çıkarlarınızı koruyan politikalar geliştiriyoruz.
 m24-about-build = Geliştirme
+m24-about-we-build-products = Kontrolü size veren { -brand-name-firefox } ve { -brand-name-fakespot } gibi birçok ürün geliştiriyoruz.
 m24-about-fund = Fonlama
 m24-about-we-fund-and = Teknolojiyi, interneti ve yapay zekâyı doğru yöne götüren insanlara ve girişimlere fon sağlayıp yatırım yapıyoruz.
 
@@ -32,8 +39,10 @@ m24-about-we-fund-and = Teknolojiyi, interneti ve yapay zekâyı doğru yöne g�
 m24-about-read-more = Devamını okuyun
 m24-about-read-the-latest = En son { -brand-name-mozilla } haberlerini ve makalelerini okuyun
 m24-about-14-ai-projects = İzlemeniz gereken 14 yapay zekâ projesi: { -brand-name-mozilla }’nın ilk Builders Accelerator kohortu başlıyor
+m24-about-at-our-rise25 = { -brand-name-rise25 } Ödülleri ile yapay zekânın geleceği daha güvenilir, kapsayıcı ve hesap verebilir
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = { -brand-name-rise25 } kupasını işaret eden ödül sahibi.
+m24-about-empowering-chicagos-entrepreneurs = Kuşak değişikliğinde Şikagolu girişimcilere destek
 # Used as an accessible text alternative for an image
 m24-about-chicago = Şikago merkezli bir girişimci.
 
@@ -41,9 +50,12 @@ m24-about-chicago = Şikago merkezli bir girişimci.
 
 m24-about-lets-build-a = Daha adil bir gelecek inşa edelim
 m24-about-see-how-were = Farklılıklara açık, kapsayıcı ve erişilebilir bir çevrimiçi ortamı nasıl geliştirdiğimizi görün.
+m24-about-read-about-our = Taahhüdümüz hakkında bilgi alın
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-trustworthy = Trustworthy AI, { -brand-name-common-voice }, Federated Learnings.
 # Used as an accessible text alternative for an image
 m24-about-alt-conversation = Konuşma yapan bir { -brand-name-mozilla } çalışanı.
 # Used as an accessible text alternative for an image
@@ -60,3 +72,6 @@ m24-about-community-love-v2 = Topluluğumuzun tutkusu bizim itici gücümüz
 # Obsolete string (expires: 2025-02-03)
 m24-about-community-love = Topluluğumuzun tutkusu:<br> bizim itici gücümüz
 m24-about-mozilla-is-a = { -brand-name-mozilla }, 1998’den beri interneti bizimle birlikte inşa eden, koruyan ve şekillendiren tutkulu gönüllülerden ve katkı sağlayıcılardan oluşan küresel bir topluluk.
+m24-about-from-writing-code = Topluluk üyelerimiz kod yazıyor, hataları saptıyor, gizliliğiniz için mücadele ediyor ve interneti herkes için erişilebilir kılmaya çalışıyor. Yaptığımız her şeyin belkemiğini onlar oluşturuyor. Onların tutkusu ve kararlılığı bize her gün ilham veriyor.
+# Used as an accessible text alternative for an image
+m24-about-alt-community = Dizüstü bilgisayar çantalı ve { -brand-name-mozilla } boyun askılı biri.
