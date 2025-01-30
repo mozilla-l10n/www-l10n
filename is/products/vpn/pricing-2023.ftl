@@ -11,6 +11,20 @@ vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-pricing-one-subscription = Ein áskrift fyrir öll tækin þín
 # Pricing section
 vpn-pricing-included-in-subscription = Innifalið í áskrift:
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to =
+    { $devices ->
+        [one] Tengdu allt að { $devices } tæki
+       *[other] Tengdu allt að { $devices } tæki
+    }
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+        [one] Tengdu allt að { $devices } Android, iOS, Windows, macOS eða Linux tæki
+       *[other] Tengdu allt að { $devices } Android, iOS, Windows, macOS eða Linux tæki
+    }
 vpn-pricing-annual = Árlega
 vpn-pricing-monthly = Mánaðarlega
 vpn-pricing-get-annual-subscription = Fáðu ársáskrift
