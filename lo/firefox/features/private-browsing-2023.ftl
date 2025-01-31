@@ -8,6 +8,8 @@
 features-private-browsing-private-browsing-mode = ໂໝດການຄົ້ນຫາແບບສ່ວນຕົວ
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox } ໂໝດການທ່ອງເວັບສ່ວນຕົວ
+# HTML page description
+features-private-browsing-firefox-protects = { -brand-name-firefox } ປົກປ້ອງຄວາມເປັນສ່ວນຕົວອອນໄລນ໌ຂອງທ່ານ ແລະ ບລັອກຕົວຕິດຕາມທ່ານຢູ່ທົ່ວເວັບ.
 features-private-browsing-what-does-private-browsing-do = ການທ່ອງເວັບສ່ວນຕົວເຮັດຫຍັງ?
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = ໜ້າຈໍບຣາວເຊີ { -brand-name-firefox } ໃນໂໝດການທ່ອງເວັບສ່ວນຕົວ.
