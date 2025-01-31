@@ -21,6 +21,7 @@ navigation-refresh-innovation-projects-v2 = Những dự án sáng tạo
 navigation-refresh-blog = Nhật ký
 navigation-refresh-our-mission = Sứ mệnh của chúng tôi
 navigation-refresh-our-work = Công việc của chúng tôi
+navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 # Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
 # Obsolete string (expires: 2025-01-05)
