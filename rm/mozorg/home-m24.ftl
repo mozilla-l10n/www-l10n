@@ -100,6 +100,7 @@ m24-home-introducing-anonym = Nus ta preschentain { -brand-name-anonym }: nus au
 m24-home-keeping-genai-technologies = Da garantir la segirezza da la tecnologia GenAI è ina responsabladad communabla.
 m24-home-from-hollywood-to = Da Hollywood fin a hip hop: artists discutan il consentiment a l’utilisaziun da las datas per l’IA.
 m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } celebrescha las creadras ed ils creaders innovativs cun la nova seria documentara «{ -brand-name-firefox } preschenta.»
+m24-home-big-techs-power = Il fatg ch’ils concerns da tecnologia domineschan las linguas signifitga ch’ellas controlleschan las persunas. Bridget Todd discurra cun leaders da communitads linguisticas che fan strada per IA vocala en lur linguas e dialects.
 
 ## Showcase
 
