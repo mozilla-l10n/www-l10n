@@ -9,6 +9,8 @@
 compare-brave-firefox-vs-brave = { -brand-name-firefox } ile Brave Karşı Karşıya
 # HTML page description
 compare-brave-read-our-comparison = Özellikler, gizlilik ve kullanım kolaylığı açısından { -brand-name-firefox } ile Brave tarayıcılarını karşılaştırdığımız yazımızı okuyun.
+# "Fiddling" means you have to make a lot of changes and adjustments to make it work correctly.
+compare-brave-firefoxs-privacy-settings-are = { -brand-name-firefox }’un gizlilik ayarları güçlü ve kullanımı kolay. Brave’in varsayılan reklam engelleme özelliği web sitelerini bozabilir, o yüzden sürekli ayarları kurcalamanız gerekir. Bizce gizlilik, gerçekten <em>kullanabileceğiniz</em> kadar rahat olmalı.
 compare-brave-firefox-makes-it-easy-for-you = { -brand-name-firefox } arama yaparken kullanmak istediğiniz arama motorunu seçmenizi kolaylaştırır. Brave varsayılan olarak kendi arama motorunu kullanır ve farklı bir arama motoru seçmek için tarayıcı ayarlarına gitmeniz gerekir.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-data-another-browser
