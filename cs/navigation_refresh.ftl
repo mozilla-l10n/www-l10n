@@ -30,7 +30,7 @@ navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
 # Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ventures = { -brand-name-mozilla } Ventures
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
-navigation-refresh-mozilla-advertising = Reklama ve { -brand-name-mozilla(case: "loc") }
+navigation-refresh-mozilla-advertising = Reklama v { -brand-name-mozilla(case: "loc") }
 
 ## Firefox
 
