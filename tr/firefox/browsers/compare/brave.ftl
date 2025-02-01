@@ -13,5 +13,8 @@ compare-brave-read-our-comparison = Özellikler, gizlilik ve kullanım kolaylı�
 compare-brave-firefoxs-privacy-settings-are = { -brand-name-firefox }’un gizlilik ayarları güçlü ve kullanımı kolay. Brave’in varsayılan reklam engelleme özelliği web sitelerini bozabilir, o yüzden sürekli ayarları kurcalamanız gerekir. Bizce gizlilik, gerçekten <em>kullanabileceğiniz</em> kadar rahat olmalı.
 compare-brave-firefox-makes-it-easy-for-you = { -brand-name-firefox } arama yaparken kullanmak istediğiniz arama motorunu seçmenizi kolaylaştırır. Brave varsayılan olarak kendi arama motorunu kullanır ve farklı bir arama motoru seçmek için tarayıcı ayarlarına gitmeniz gerekir.
 # Variables:
+# $primary (url) - link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
+compare-brave-firefox-gives-you-the-option = { -brand-name-firefox }, kayıtlı parolalarınızı şifreleme seçeneği sunar ve bunlara erişmek için <a { $primary }>ana parola kullanabilirsiniz</a>. Böylece, bilgisayarınızı başkalarıyla paylaşıyor olsanız bile parolalarınız korunur. Brave, parolalarınızı ana parola ile korumaz.
+# Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-data-another-browser
 compare-brave-switching-to-firefox-is-easy = { -brand-name-firefox }’a kolayca ve hızlıca geçebilirsiniz: Brave yer imlerinizi, parolalarınızı, geçmişinizi ve tercihlerinizi tek bir tıklamayla aktarıp { -brand-name-firefox }’u hemen kullanmaya başlayabilirsiniz. <a { $howto }>Brave verilerinizi nasıl içe aktaracağınızı</a> öğrenin.
