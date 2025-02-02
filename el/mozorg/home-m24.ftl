@@ -50,6 +50,7 @@ m24-home-our-mission-is = Αποστολή μας είναι να καταστή
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Λογότυπο του { -brand-name-llamafile }.
 m24-home-llamafile = { -brand-name-llamafile }
+m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Λογότυπο του { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
@@ -77,6 +78,7 @@ m24-home-topic-ai = Τεχνητή νοημοσύνη
 m24-home-topic-ps = Απόρρητο και ασφάλεια
 m24-home-headline-you-ai-v2 = Εσείς, η τεχνητή νοημοσύνη και το διαδίκτυο· τι πραγματικά συμβαίνει;
 m24-home-introducing-anonym = Παρουσίαση του { -brand-name-anonym }: Ανεβάζοντας τον πήχη για τις ψηφιακές διαφημίσεις που διατηρούν το απόρρητό σας.
+m24-home-from-hollywood-to = Από το Χόλιγουντ μέχρι τη χιπ χοπ, οι καλλιτέχνες συζητούν σχετικά με τη συναίνεση για τη χρήση των δεδομένων από την τεχνητή νοημοσύνη.
 m24-home-mozilla-celebrates-groundbreaking = Η { -brand-name-mozilla } τιμά τους πρωτοποριακούς δημιουργούς στη νέα σειρά ντοκιμαντέρ «{ -brand-name-firefox } Presents».
 
 ## Showcase
