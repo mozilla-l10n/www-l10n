@@ -9,7 +9,7 @@
 m24-home-page-title = Το διαδίκτυο για τους ανθρώπους, όχι για το κέρδος: { -brand-name-mozilla }
 m24-home-page-title-v2 = { -brand-name-mozilla }: Το διαδίκτυο για τους ανθρώπους, όχι για το κέρδος
 # HTML page description
-m24-home-page-desc = Το γνωρίζατε; Η { -brand-name-mozilla } — δημιουργός του { -brand-name-firefox } — μάχεται για να διατηρήσει το διαδίκτυο μια παγκόσμια δημόσια πηγή, ανοικτή και προσβάσιμη από όλους.
+m24-home-page-desc = Το γνωρίζατε; Η { -brand-name-mozilla } — δημιουργός του { -brand-name-firefox } — μάχεται για να διατηρήσει το διαδίκτυο ως έναν παγκόσμιο δημόσιο πόρο, ανοικτό και προσβάσιμο από όλους.
 m24-home-page-desc-v2 = Εργαζόμαστε για να επαναφέρουμε τον έλεγχο του διαδικτύου στα χέρια των ανθρώπων που το χρησιμοποιούν.
 
 ## Intro
@@ -89,6 +89,7 @@ m24-home-alt-rise25-proud = Ένας περήφανος τιμώμενος στ�
 m24-home-alt-rise25-smiling = Ένας χαμογελαστός ομιλητής με αυτοπεποίθηση στο { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Ένας χαρούμενος τιμώμενος στο { -brand-name-rise25 }.
+m24-home-state-of-mozilla = Κατάσταση της { -brand-name-mozilla }
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Αφηρημένη τέχνη εικονοστοιχείων στις αποχρώσεις του πράσινου, του πορτοκαλί και του ροζ
 m24-home-read-the-report = Διαβάστε την αναφορά
