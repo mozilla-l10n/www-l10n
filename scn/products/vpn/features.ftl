@@ -47,6 +47,7 @@ vpn-features-personalized-server = Cunzigghi pirsunalizzati ncapu â pusizzioni 
 vpn-features-personalize-which-apps = Pirsunalizza l'app chi vo' prutèggiri câ VPN
 vpn-features-set-different-locations = Cunfijura pusizzioni diversi p'ogni scheda nne { -brand-name-firefox }
 vpn-features-trustworthy = Affidàbbili
+vpn-features-money-back = Priggiarìa di rifazzioni pi 30 jorna
 vpn-features-plus-customer-support = Assistenza ê clienti 24 uri ô jornu, 7 jorna â simana.
 vpn-features-we-never-log = Nun riggistramu, trazzamu o spartemu mai i to dati di riti
 vpn-features-built-transparently = Custrujutu câ trasparenza dû còdici graputu

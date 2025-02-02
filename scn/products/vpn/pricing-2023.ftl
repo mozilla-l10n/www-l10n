@@ -33,7 +33,7 @@ vpn-pricing-access =
         [one] Trasi nnôn sirburi nni cchiù assai di { $countries } pajisi
        *[other] Trasi nni { $servers } sirbura nni cchiù assai di { $countries } pajisi
     }
-vpn-pricing-money-back = Priggiarìa - ti turnamu i sordi nzinu a 30 jorna (sulu pî clienti novi)
+vpn-pricing-money-back = Priggiarìa di rifazzioni pi 30 jorna (sulu pî clienti novi)
 vpn-pricing-annual = A l'annu
 vpn-pricing-monthly = Ô misi
 vpn-pricing-get-annual-subscription = Pigghia l'abbunamentu pi l'annu
