@@ -9,6 +9,7 @@
 features-index-firefox-browser-features = ຄຸນສົມບັດຂອງຕົວທ່ອງເວັບ { -brand-name-firefox }
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } ແມ່ນບຣາວເຊີໄວ, ນ້ຳໜັກເບົາ, ເນັ້ນຄວາມເປັນສ່ວນຕົວ ເຊິ່ງເຮັດວຽກໃນທົ່ວທຸກອຸປະກອນຂອງທ່ານ.
+features-index-firefox-keeps-getting-faster = { -brand-name-firefox } ສືບຕໍ່ໄວຂຶ້ນ
 features-index-is-firefox-a-private-browser = { -brand-name-firefox } ເປັນຕົວທ່ອງເວັບທີ່ໄວທີ່ສຸດບໍ?
 features-index-free-password-manager = ຕົວຈັດການລະຫັດຜ່ານຟຣີ
 features-index-customize-your-firefox-browser = ປັບແຕ່ງຕົວທ່ອງເວັບ { -brand-name-firefox } ຂອງທ່ານ
@@ -19,6 +20,7 @@ features-index-organize-your-bookmarks-with = ຈັດລະບຽບ bookmarks
 features-index-private-browsing-mode = ໂໝດການຄົ້ນຫາແບບສ່ວນຕົວ
 features-index-pinned-browser-tabs = ປັກໝຸດແຖບບຣາວເຊີ
 features-index-eyedropper-tool = Eyedropper tool
+features-index-identify-the-exact-color-on-a = ກໍານົດສີທີ່ແນ່ນອນໃນຫນ້າໃດຫນຶ່ງ ແລະ ຄັດລອກລະຫັດ hex ຂອງມັນ.
 features-index-pdf-editor = ໂຕແກ້ໄຂ PDF
 features-index-fingerprint-blocking = ການຂັດຂວາງລາຍນິ້ວມື
 features-index-ad-tracker-blocking = ປ້ອງກັນການຕິດຕາມຈາກໂຄສະນາ
