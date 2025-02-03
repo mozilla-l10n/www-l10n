@@ -27,7 +27,7 @@ new-platform-download-the-fastest-linux = ലിനക്സിനു വേണ�
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = വേഗതയേറിയ പേജ് ലോഡിങ്ങ്, കുറഞ്ഞ മെമ്മറി ഉപയോഗം, കൂടുതല്‍ സവിശേഷതകളുമായ് പുതിയ ലിനക്സിനായുള്ള ഫയര്‍ഫോക്സ് ഇതാ എത്തി.
 # /firefox/linux/ main page title
-new-platform-firefox-for-linux = ലിനക്സിനായുള്ള ഫയർഫോക്സ്
+new-platform-firefox-for-linux = { -brand-name-linux }-നായി { -brand-name-firefox }
 new-platform-privacy-more-than = സ്വകാര്യത - നയത്തിലുമപ്പുറം
 new-platform-open-source = ഓപ്പൺ സോഴ്സ്
 
