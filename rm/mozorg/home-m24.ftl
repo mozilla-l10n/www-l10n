@@ -101,9 +101,36 @@ m24-home-keeping-genai-technologies = Da garantir la segirezza da la tecnologia 
 m24-home-from-hollywood-to = Da Hollywood fin a hip hop: artists discutan il consentiment a l’utilisaziun da las datas per l’IA.
 m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } celebrescha las creadras ed ils creaders innovativs cun la nova seria documentara «{ -brand-name-firefox } preschenta.»
 m24-home-big-techs-power = Il fatg ch’ils concerns da tecnologia domineschan las linguas signifitga ch’ellas controlleschan las persunas. Bridget Todd discurra cun leaders da communitads linguisticas che fan strada per IA vocala en lur linguas e dialects.
+m24-home-why-does-it = Pertge avain nus savens l’impressiun dad esser part dad in experiment da massa dad IA? Tgenina è la via responsabla per testar novas tecnologias? Bridget Todd va a fund a la dumonda co igl è da viver cun sistems dad IA nuncumprovads che pertutgan milliuns persunas perquai ch’els èn gia part da nossa vita publica.
+m24-home-kids-are-growing = Uffants creschan si en in mund adina pli digitalisà. Tge pon far geniturs preoccupads?
 
 ## Showcase
 
+m24-home-rise25-awards = Premis { -brand-name-rise25 }
+m24-home-get-to-know = Emprenda d’enconuscher ils leaders dal svilup dad IA fidada, inclusiva e transparenta che defineschan in nov standard ed inspireschan la proxima generaziun innovativa.
+m24-home-watch-the-award = Guarda la surdada dals premis
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = In losch onurà al { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = In oratur suveran che surri al { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = In victur cuntent al { -brand-name-rise25 }.
+m24-home-state-of-mozilla = Stadi da { -brand-name-mozilla }
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } sa reinventa, cun sa diversifitgar en in conturn dad organisaziuns, cun pensar da nov la reclama e crear in ecosistem dad IA open-source. Ve a savair dapli en il rapport 2024 davart il stadi da { -brand-name-mozilla }.
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = Pixel art abstract en tuns verds, oranschs e rosa
+m24-home-read-the-report = Leger il rapport
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Apparats intelligents cun signals d’avertiment.
+m24-home-explore-issues-shaping = Explorescha las dumondas relevantas per il futur da l’internet
+m24-home-privacy-not-included = *Protecziun da datas betg inclusa
+m24-home-search-our-reviews = Dà in egliada a nossas recensiuns per vegnir a savair tge apps e gadgets tecnologics che engolan tias datas a la zuppada.
+m24-home-pni-search-now = Ussa retschertgar
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = Bridget Todd, host dal podcast IRL.
+m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = Noss podcast premià pliras giadas preschenta ils pioniers relevants che lavuran per render l’internet pli segir e l’IA pli fidada.
+m24-home-irl-listen-now = Ussa tadlar

@@ -21,5 +21,7 @@ ui-show-all = Mussar tut
 ui-hide-all = Zuppentar tut
 ui-learn-more = Ulteriuras infurmaziuns
 ui-view = Mussar
+ui-pause-animation = Far pussar l’animaziun
+ui-play-animation = Far ir l’animaziun
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Reclama
