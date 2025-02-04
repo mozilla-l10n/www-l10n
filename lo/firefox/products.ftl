@@ -35,6 +35,7 @@ firefox-products-get-mozilla-vpn = ເອົາ { -brand-name-mozilla-vpn }
 
 ## Thunderbird
 
+firefox-products-thunderbird = { -brand-name-thunderbird }
 
 ## Fakespot
 
