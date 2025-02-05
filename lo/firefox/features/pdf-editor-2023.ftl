@@ -7,6 +7,8 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = ໂຕແກ້ໄຂ PDF
+# page title
+pdf-editor-add-text-to-pdfs-v2 = ແກ້ໄຂ PDFs ໄດ້ຟຣີດ້ວຍ { -brand-name-firefox } PDF Editor
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = ເບິ່ງ ແລະ ແກ້ໄຂໄຟລ໌ PDF ໄດ້ທັນທີໃນ { -brand-name-firefox }.
 pdf-editor-fill-in-forms-online-without = ຕື່ມຂໍ້ມູນໃສ່ແບບຟອມອອນໄລນ໌ໂດຍບໍ່ມີການພິມ ແລະ ສະແກນ
