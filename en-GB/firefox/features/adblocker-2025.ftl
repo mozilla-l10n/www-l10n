@@ -26,3 +26,15 @@ features-adblocker-tip-3 = <strong>Customisability:</strong> Some ad blockers al
 features-adblocker-tip-4 = <strong>Device Compatibility:</strong> Consider whether you need it for desktop, mobile, or both.
 features-adblocker-tip-5 = <strong>Malware Blocking:</strong> Some ad blockers protect against malicious ads (e.g., AdGuard).
 features-adblocker-tip-6 = <strong>Parental Controls:</strong> Useful if you want to block inappropriate content.
+features-adblocker-its-important-to-note = It’s important to note that some web sites rely on ads to load content or provide functionality. Blocking ads may cause features to break, such as videos not playing or login options failing. Choose an ad blocker that is updated regularly and if you find one ad blocker causes significant issues, try another to find a better balance of performance and compatibility.
+features-adblocker-enhanced-privacy = Enhanced Privacy and Performance with { -brand-name-firefox }
+features-adblocker-beyond-ad-blockers = Beyond ad blockers, { -brand-name-firefox } includes built-in features to give you even greater control over your browsing. These tools help protect your privacy while allowing you to customise your experience:
+features-adblocker-tool-1 = <strong>Standard Mode:</strong> A balanced option that blocks common trackers while maintaining smooth web site functionality.
+features-adblocker-tool-2 = <strong>Strict Mode:</strong> Ideal for users who want stronger privacy protection by blocking more trackers and cookies. Note that some sites may require adjustments in this mode.
+features-adblocker-tool-3 = <strong>Custom Mode:</strong> For those who want full control, Custom mode lets you select what to block, from cookies to trackers and more.
+features-adblocker-to-adjust = To adjust these settings, click the shield icon to the left of the address bar on any web page and select “Protection Settings.” This will open a menu where you can choose the right level of protection for you.
+features-adblocker-why-use = Why Use an Ad Blocker?
+features-adblocker-ad-blockers-do-more = Ad blockers do more than manage ads – they can enhance your browsing speed and security by reducing unnecessary content. They empower you to create a tailored, distraction-free web experience, letting you focus on what matters most.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-explore-hundreds = Explore hundreds of privacy-focused add-ons available for { -brand-name-firefox } and find the right tools for you. <a href="{ $url }">Download { -brand-name-firefox }</a> today to experience a browser designed with your privacy and performance in mind.
