@@ -53,10 +53,6 @@ features-adblocker-take-a-bite-out-of-cookies = Ugriznite piškotke
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Piškotke</a> pošljejo spletna mesta, ki jih obiščete. Živijo na vašem računalniku in spremljajo, kaj ste počeli na straneh. Ko letalska družba poviša cene, ker ste si tisti dan ogledali letalske vozovnice, je to delo piškotkov.
 features-adblocker-in-firefox-you-can-block = V { -brand-name-firefox }u lahko zavračate vse piškotke tretjih strani ali samo tiste, ki jih določijo sledilci. Zavedajte se, da lahko zavračanje vseh piškotkov povzroči nedelovanje nekaterih strani.
-features-adblocker-send-a-do-not-track-signal = Pošljite signal Brez sledenja
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Če ne želite, da se vaša spletna aktivnost uporablja za namene oglaševanja, lahko spletnim mestom pošljete vljudno obvestilo "ne, hvala", tako da označite { -brand-name-firefox }ovo možnost <a href="{ $url }">Brez sledenja</a>. Udeležba pri tej možnosti je prostovoljna, spletna mesta, ki sodelujejo, vam bodo takoj prenehala slediti.
 features-adblocker-speed-up-thanks-to-ad = Bodite hitrejši zahvaljujoč orodju za zavračanje oglasov
 features-adblocker-in-some-cases-an-ad-blocker = V nekaterih primerih lahko orodje za zavračanje oglasov pohitri vaš brskalnik. Ob nalaganju oglasov se lahko spletna mesta upočasnijo. Hkrati traja dlje časa, da najdete tisto, kar iščete, če morate ob tem še zapirati oglase.
 # Variables:

@@ -53,10 +53,6 @@ features-adblocker-take-a-bite-out-of-cookies = Обмежте файли cookie
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Файли cookie</a> встановлюються відвідуваними вебсайтами. Вони зберігаються на вашому комп'ютері й стежать за вашими діями на вебсайті. Якщо авіакомпанія підвищує ваші тарифи, тому що ви переглядали квитки на літак, – це робота файлів cookie.
 features-adblocker-in-firefox-you-can-block = У { -brand-name-firefox } ви можете блокувати всі сторонні файли cookie, або лише ті, що стежать за вами. Майте на увазі, що блокування всіх файлів cookie може порушити роботу деяких вебсайтів.
-features-adblocker-send-a-do-not-track-signal = Надсилайте сигнал відмови від стеження
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Якщо ви не хочете, щоб ваші дії в мережі використовувались для реклами, ви можете надсилати вебсайтам прохання не стежити за вами, встановивши опцію <a href="{ $url }">Не стежити</a> в { -brand-name-firefox }. Не всі вебсайти задовольняють такий запит, а лише ті, що дотримуються політики відмови від стеження.
 features-adblocker-speed-up-thanks-to-ad = Збільште швидкість завдяки блокуванню реклами
 features-adblocker-in-some-cases-an-ad-blocker = В деяких випадках блокувальник реклами може пришвидшити роботу браузера. Завантаження реклами може сповільнювати роботу вебсайтів, отже це може вплинути на швидкість вашої роботи в Інтернеті.
 # Variables:

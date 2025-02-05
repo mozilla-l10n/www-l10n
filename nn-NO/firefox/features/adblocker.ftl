@@ -39,10 +39,6 @@ features-adblocker-take-a-bite-out-of-cookies = Gjer infokapslar meir etande
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Infiokapslar</a> vert sendt av nettstadar du besøkjer. Dei bur på datamaskina di og overvakar kva du har gjort på ein nettstad. Når eit flyselskap set opp prisane dine fordi du har sett på flybillettar ein gong same dag, er det handverket til ein infokapsel
 features-adblocker-in-firefox-you-can-block = I { -brand-name-firefox } kan du blokkere alle tredjeparts infokapslar eller berre dei som er stilt inn av sporarar. Merk at blokkering av alle infokapslar kan hindre enkelte nettstadar frå å fungere.
-features-adblocker-send-a-do-not-track-signal = Send eit «Ikkje spor»-signal
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Om du ikkje vil at nettåtferda di skal skal brukast for annonsar, kan du sende nettstadar eit høfleg «takk, men nei takk-» brev ved å krysse av for alternativet <a href="{ $url }">Ikkje spor</a> i { -brand-name-firefox }. Deltaking er frivillig, men nettstadane som er med i ordninga, vil slutte å spore deg omgåande.
 features-adblocker-speed-up-thanks-to-ad = Høgare fart takka vere annonseblokkerarar
 features-adblocker-in-some-cases-an-ad-blocker = I enkelte tilfelle kan ein annonsblokkerar hjelpe nettlesaren din med å gå raskare. Når ein annonse vert lasta kan han bremse ein nettstad. Samtidig tek det lengre tid å finne det du leitar etter om du er for oppteken med å late att enno ein annonse.
 # Variables:

@@ -37,9 +37,5 @@ features-adblocker-take-a-bite-out-of-cookies = कुकीज मधून त
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = आपण भेट दिलेल्या संकेतस्थळाकडून <a href="{ $url }">कुकीज</a> पाठवल्या जातात. त्या तुमच्या संगणकात राहतात आणि साईट वर तुम्ही काय करताय हे पाहतात. जेव्हा एखादी विमान वाहतूक कंपनी तुम्ही त्या दिवशी आधी पाहिलेल्या तिकीटाची किंमत एक्दम वाढवते, तेव्हा ती कुकीजची हातचलाखी असते.
 features-adblocker-in-firefox-you-can-block = FIrefox मध्ये आपण सर्व तृतीयपक्षीय किंवा फक्त ट्रॅकरने बसवलेल्या कुकीज अडवू शकता. सर्व कुकीज अडवल्या तर काही साईट व्यवस्थित काम करत नाहीत हे लक्षात राहू द्या.
-features-adblocker-send-a-do-not-track-signal = ट्रॅक न करण्याचा सिग्नल पाठवा
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = आपले ऑनलाईन वर्तन जाहिरातींसाठी वापरू द्यायचे नसेल तर आपण FIrefox मध्ये <a href="{ $url }">ट्रॅक करू नका</a> हा पर्याय निवडून संकेतस्थळांना “धन्यवाद, पण नको” असे विनम्र पत्र पाठवू शकता. सहभाग ऐच्छिक आहे पण ज्या साईट सहभाग घेतात त्या आपल्याला ट्रॅक करणे त्वरित थांबवतात.
 features-adblocker-speed-up-thanks-to-ad = जाहिरात अवरोधकामुळे जलद
 features-adblocker-in-some-cases-an-ad-blocker = काही प्रकरणांमध्ये अॉड ब्लॉकर आपल्या ब्राउझर ला जलद चालण्यास मदत करेल. अॉड लोड होताना ती संकेतस्थळाला संथ करते. त्याच वेळी जर आपण इतर अॉड बंद करण्यात व्यस्त असाल तर आपल्याला हे हवे ते मिळण्यास उशीर होतो.

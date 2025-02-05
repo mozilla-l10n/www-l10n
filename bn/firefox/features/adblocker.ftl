@@ -14,4 +14,3 @@ features-adblocker-create-a-tracker-free = Content Blocking সহ একটি 
 features-adblocker-choose-your-level-of-protection = আপনার সুরক্ষা স্তর নির্বাচন করুন
 features-adblocker-go-easy-with-standard = স্ট্যান্ডার্ড মোডের সাহায্যে সহজ পথে যান
 features-adblocker-do-it-yourself-custom = নিজেই কাস্টম মোড করুন
-features-adblocker-send-a-do-not-track-signal = একটি Do Not Track সিগন্যাল প্রেরণ করুন

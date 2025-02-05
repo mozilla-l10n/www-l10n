@@ -53,10 +53,6 @@ features-adblocker-take-a-bite-out-of-cookies = 쿠키 한입 베어 물기
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">쿠키</a>는 여러분이 방문한 웹사이트에서 보내집니다. 쿠키는 여러분의 컴퓨터에 상주하며 사이트에서 여러분이 무엇을 하는지 관찰합니다. 어느 날 여러분이 비행기 표를 한 번 봤기 때문에 항공사에서 요금을 인상했다면, 그것이 바로 쿠키가 한 일입니다.
 features-adblocker-in-firefox-you-can-block = { -brand-name-firefox }에서 여러분은 타사의 쿠키 혹은 추적기가 설정한 쿠키를 차단할 수 있습니다. 모든 쿠키를 차단하는 것은 일부 사이트를 작동하지 않도록 만들 수 있음에 유의하세요.
-features-adblocker-send-a-do-not-track-signal = Do Not Track 신호 보내기
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = 여러분의 행동이 광고에 사용되는 것을 원하지 않는 경우 { -brand-name-firefox }의 <a href="{ $url }">추적 방지 기능</a> 옵션을 체크하여 웹사이트에 정중히 "감사하지만 사양하겠습니다" 편지를 보낼 수 있습니다. 참여는 선택이지만 참여하는 웹사이트는 즉시 여러분을 추적하는 것을 멈출 것입니다.
 features-adblocker-speed-up-thanks-to-ad = 광고 차단을 통한 속도 향상
 features-adblocker-in-some-cases-an-ad-blocker = 경우에 따라 광고 차단기는 여러분의 브라우저를 빠르게 만드는데 도움이 될 수 있습니다. 광고는 로드될 때 웹사이트를 느리게 만듭니다. 동시에 다른 광고를 닫느라 너무 바빠서 원하는 것을 찾는데 시간이 더 걸립니다.
 # Variables:

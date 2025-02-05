@@ -53,10 +53,6 @@ features-adblocker-take-a-bite-out-of-cookies = 拦截 Cookie
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Cookie</a> 由您访问的网站发出。其存储在你的计算机上，监视你在网站上的行为。当一家航空公司因那天你看过飞机票而提高你的票价时，那是 Cookie 的“杰作”。
 features-adblocker-in-firefox-you-can-block = 在 { -brand-name-firefox } 中，您可以拦截所有第三方 Cookie 或只拦截跟踪器的 Cookie。请注意若拦截所有 Cookie 可能导致某些网站异常。
-features-adblocker-send-a-do-not-track-signal = 发出“请勿跟踪”信号
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = 若您不希望您的在线行为用于广告，可以勾选 { -brand-name-firefox } 的<a href="{ $url }">请勿跟踪</a>选项来礼貌地告诉网站：“谢了，请不要跟踪我”。虽然是否有效视网站而定，但同意该机制的网站会立刻停止跟踪您。
 features-adblocker-speed-up-thanks-to-ad = 使用广告拦截器加速上网
 features-adblocker-in-some-cases-an-ad-blocker = 某些情况下，广告拦截器可加快您的浏览速度，因为加载广告可能会拖慢网站，同时也可能使您需要花更多时间才能找到所需的内容。
 # Variables:

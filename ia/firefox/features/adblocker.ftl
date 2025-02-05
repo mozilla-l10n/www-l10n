@@ -53,10 +53,6 @@ features-adblocker-take-a-bite-out-of-cookies = Proba le cookies
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = Le <a href="{ $url }">cookies</a> es inviate ab le sitos web que tu visita. Illos vive sur tu computator e survelia lo que tu ha facite sur un sito. Quando un compania aeree augmenta tu tarifas solmente perque tu ha cercate billetes de avion un vice ille die, isto es obra de un cookie.
 features-adblocker-in-firefox-you-can-block = In { -brand-name-firefox }, tu pote blocar tote le cookies de tertios o solmente illos que es deponite per traciatores. Nota ben que blocar tote le cookies pote impedir le functionamento de alcun sitos.
-features-adblocker-send-a-do-not-track-signal = Send un signal de non traciar
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Si tu non vole que tu activitate in linea se tracia pro annuncios, tu pote inviar al sitos web un cortese littera de “no, gratias”, marcante le option <a href="{ $url }">Non traciar</a> de { -brand-name-firefox }. Ben que participation de sitos web es voluntari, le sitos que participa cessara de traciar te immediatemente.
 features-adblocker-speed-up-thanks-to-ad = Acceleration gratias al blocatores de publicitate
 features-adblocker-in-some-cases-an-ad-blocker = In alcun casos, un blocator de publicitate pote accelerar tu navigation. Le cargamento de un annuncio pote relentar un sito web. In ultra, il prende plus tempore trovar lo que tu cerca si tu continuemente debe clauder annuncios.
 # Variables:

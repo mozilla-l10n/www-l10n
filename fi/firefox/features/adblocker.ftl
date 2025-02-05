@@ -37,9 +37,5 @@ features-adblocker-take-a-bite-out-of-cookies = Evää evästeet
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = Vierailemasi verkkosivustot lähettävät <a href="{ $url }">evästeitä</a>. Ne oleskelevat tietokoneellasi ja seuraavat, mitä olet tehnyt sivustolla. Kun lentoyhtiö nostaa hintojasi, koska olet katsonut lentolippuja kerran aiemmin samana päivänä, se on evästeen seurausta.
 features-adblocker-in-firefox-you-can-block = { -brand-name-firefox }issa voit estää kaikki kolmannen osapuolen evästeet tai vain seurainten asettamat evästeet. Huomioi, että kaikkien evästeiden estäminen voi rikkoa joitakin sivustoja.
-features-adblocker-send-a-do-not-track-signal = Lähetä Älä seuraa -signaali
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Jos et halua, että toimintaasi verkossa käytetään mainonnan kohdistamiseen, voit lähettää verkkosivustoille kohteliaasti "kiitos, mutta ei kiitos"-kirjeen valitsemalla <a href="{ $url }">Älä seuraa</a> -vaihtoehdon { -brand-name-firefox }issa. Osallistuminen on vapaaehtoista, mutta osallistuvat verkkosivustot lopettavat seuraamisen välittömästi.
 features-adblocker-speed-up-thanks-to-ad = Nopeutusta mainosestäjien ansiosta
 features-adblocker-in-some-cases-an-ad-blocker = Joissakin tapauksissa mainosten esto voi auttaa selainta toimimaan aiempaa nopeammin. Kun mainos latautuu, se voi hidastaa verkkosivustoa. Etsimäsi löytäminen kestää kauemmin, kun joudut sulkea silmien eteen ilmestyviä mainoksia.

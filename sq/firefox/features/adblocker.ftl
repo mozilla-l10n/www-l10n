@@ -53,10 +53,6 @@ features-adblocker-take-a-bite-out-of-cookies = Përpijini cookie-t
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Cookies</a> dërgohen nga sajtet që vizitoni. Jetojnë në kompjuterin tuaj dhe mbikëqyrin çfarë bëni në një sajt. Kur një shoqëri fluturimesh rrit çmimet për ju, ngaqë keni parë një herë atë ditë bileta aeroplani, këtu ka gisht një cookie.
 features-adblocker-in-firefox-you-can-block = Në { -brand-name-firefox } mund të bllokoni krejt cookie-t prej palësh të treta, ose vetëm ato të depozituara nga gjurmues. Mbani parasysh se bllokimi i krejt cookie-ve mund të dëmtojë funksionimin e disa sajteve.
-features-adblocker-send-a-do-not-track-signal = Dërgoni një sinjal “Mos Më Gjurmoni”
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Nëse s’doni që sjellja juaj internetore të përdoret për reklama, mund t’u dërgoni sajteve një letër politese “faleminderit, por jo, faleminderit” duke i vënë shenjë mundësisë <a href="{ $url }">Mos Më Gjurmoni</a> të { -brand-name-firefox }-it. Pjesëmarrja është vullnetare, por sajtet pjesëmarrëse do të reshtin menjëherë së ndjekuri ju.
 features-adblocker-speed-up-thanks-to-ad = Rritni shpejtësinë falë bllokuesve të reklamave
 features-adblocker-in-some-cases-an-ad-blocker = Në disa raste, një bllokues reklamash mund ta ndihmojë shfletuesin tuaj të punojë më shpejt. Kur ngarkohet një reklamë, kjo mund të ngadalësojë një sajt. Në të njëjtën kohë, gjetja e diçkaje që po kërkoni mund të zgjasë më shumë, nëse jeni i zënë me mbylljen e reklamës së radhës.
 # Variables:

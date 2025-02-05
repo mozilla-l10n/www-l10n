@@ -53,10 +53,6 @@ features-adblocker-take-a-bite-out-of-cookies = Zaustavi kolačiće
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Kolačići</a> šalju web stranice koje posjetite. Oni žive na vašem računaru i prate šta ste radili na nekom web mjestu. Kad aviokompanija povisi cijene, jer ste tog dana pogledali avionske karte, to je djelo kolačića.
 features-adblocker-in-firefox-you-can-block = U { -brand-name-firefox }u možete blokirati sve kolačiće treće strane ili samo one koje su odredili pratioci. Imajte na umu da blokiranje svih kolačića može pokvariti neke web stranice.
-features-adblocker-send-a-do-not-track-signal = Pošaljite signal Ne pratite me
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Ako ne želite da se vaše internetsko ponašanje koristi za oglase, web stranicama možete poslati ljubazno pismo “hvala, ali ne i hvala”, provjerom { -brand-name-firefox } opcije <a href="{ $url }">Ne prati</a>. Učešće je dobrovoljno, ali web stranice koje sudjeluju prestat će vas pratiti odmah.
 features-adblocker-speed-up-thanks-to-ad = Ubrzaj zahvaljujući blokerima oglasa
 features-adblocker-in-some-cases-an-ad-blocker = U nekim slučajevima, blokator oglasa može pomoći vašem pretraživaču da radi brže. Kada se oglas učitava, može usporiti web stranicu. U isto vrijeme, potrebno je više vremena da pronađete ono što tražite ako ste previše zauzeti zatvaranjem još jednog oglasa.
 # Variables:

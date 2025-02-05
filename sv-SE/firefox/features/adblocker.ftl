@@ -53,10 +53,6 @@ features-adblocker-take-a-bite-out-of-cookies = Ta en bit av kakor
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Kakor</a> skickas av webbplatser du besöker. De bor på din dator och övervakar vad du har gjort på en webbplats. När ett flygbolag höjer dina priser eftersom du har tittat på flygbiljetter en gång samma dag är det ett verk från kakor.
 features-adblocker-in-firefox-you-can-block = I { -brand-name-firefox } kan du blockera alla kakor från tredje part eller bara de som ställs in av spårare. Var medveten om att blockering av alla kakor kan störa vissa webbplatser.
-features-adblocker-send-a-do-not-track-signal = Skicka en Spåra inte signal
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Om du inte vill att ditt onlinebeteende ska användas för annonser kan du skicka webbplatser ett artigt "tack men nej tack" brev genom att markera alternativet <a href="{ $url }">Spåra inte</a> i { -brand-name-firefox }. Deltagande är frivilligt, men webbplatserna som deltar kommer att sluta spåra dig omedelbart.
 features-adblocker-speed-up-thanks-to-ad = Högre hastighet tack vare annonsblockerare
 features-adblocker-in-some-cases-an-ad-blocker = I vissa fall kan en annonsblockerare hjälpa din webbläsare att gå snabbare. När en annons laddas kan den bromsa en webbplats. Samtidigt tar det längre tid att hitta det du letar efter om du är för upptagen med att stänga ännu en annons.
 # Variables:

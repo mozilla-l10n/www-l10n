@@ -25,8 +25,4 @@ features-adblocker-the-custom-setting-gives = Teeltal keertinaangal ina rokku ma
 features-adblocker-cover-your-trail-block = Suuɗ lappol maa, daaƴ rewindotooɓe
 features-adblocker-take-a-bite-out-of-cookies = Ŋappu kuukiije ɗee
 features-adblocker-in-firefox-you-can-block = Nder { -brand-name-firefox }, aɗa waawi daaƴde kuukiije janane walla ɗe rewindotooɓe mbaɗi ɗoon. Anndu noon daaƴde kuukiije ɗee fof ina waawi helde won e lowe.
-features-adblocker-send-a-do-not-track-signal = Neldu tintine Hoto rewindo
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = So tawii a yiɗaa ngonka ceŋagol maa huutoree ngam ɓaŋŋine, aɗa waawi neldude lowe geese ɓataake nehiiɗo "a jaaraama kon mi yiɗaa" ƴettaa suɓre <a href="{ $url }">Hoto Rewindo</a> mo { -brand-name-firefox }. Jeyegol heen ko yarlitaare, kono lowe geese jeyaaɗe heen ɗee ma nattu rewindaade maa ɗoon e ɗoon.
 features-adblocker-speed-up-thanks-to-ad = Ɓeydo yaawde e ballal daaƴoowo rewindotooɓe

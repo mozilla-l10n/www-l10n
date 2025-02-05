@@ -41,10 +41,6 @@ features-adblocker-take-a-bite-out-of-cookies = Kusniśo do cookiejow
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Cookieje</a> se wót websedłow sćelu, ku kótarymž woglědujośo. Składuju se na wašom licadle a doglěduju, což na sedle gótujośo. Gaž lětaŕstwowe towaristwo płaśizny za was pówušujo, dokulaž sćo se na toś tom dnju tiket za lěśenje woglědał, jo to źěło cookieja.
 features-adblocker-in-firefox-you-can-block = Móžośo we { -brand-name-firefox } wšykne cookieje tśeśich póbitowarjow blokěrowaś, abo jano te, kótarež pśeslědowaki stajaju. Buźćo se wědobny, až blokěrowanje wšych cookiejow móžo někotare sedła wobškóźiś.
-features-adblocker-send-a-do-not-track-signal = Sćelśo signal „Njeslědowaś“
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Jolic njocośo, až se wašo zaźaržanje za wabjenje wužywa, móžośo nastajenje { -brand-name-firefox } <a href="{ $url }">Njeslědowaś</a> zmóžniś, aby websedłam zdwórliwe „ně, źěkujom se“ pósłał. Wobźělenje jo dobrowólne, ale websedła, kótarež se wobźěluju, ned slědowanje skóńcyju.
 features-adblocker-speed-up-thanks-to-ad = Malsnjejšy z pomocu wabjeńskich blokěrowakow
 features-adblocker-in-some-cases-an-ad-blocker = W někotarych padach móžo blokěrowak wabjenja pomagaś, waš wobglědowak malsnjejšy cyniś. Gaž se wabjenje zacytajo, móžo se websedło spómałšyś. Rownocasnje trajo dlej, to namakaś, což pytaśo, jolic maśo pśewjele źěła, aby dalšne wabjenje zacynił.
 # Variables:

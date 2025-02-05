@@ -53,10 +53,6 @@ features-adblocker-take-a-bite-out-of-cookies = Neem een hap uit cookies
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Cookies</a> worden verstuurd door websites die u bezoekt. Ze staan op uw computer en volgen wat u doet op een website. Wanneer een luchtvaartmaatschappij uw tarieven opvoert, omdat u op die dag al eens naar vliegtickets hebt gekeken, dan is dat het werk van een cookie.
 features-adblocker-in-firefox-you-can-block = In { -brand-name-firefox } kunt u alle cookies van derden blokkeren of alleen de cookies die door trackers worden geplaatst. Denk eraan, dat door alle cookies te blokkeren, sommige websites niet goed werken.
-features-adblocker-send-a-do-not-track-signal = Een ‘Niet volgen’-signaal versturen
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Als u niet wilt dat uw online gedrag wordt gebruikt voor advertenties, dan kunt u websites een beleefd ‘Nee, dank u’-briefje sturen door de { -brand-name-firefox }-optie <a href="{ $url }">Niet volgen</a> aan te vinken. Deelname is vrijwillig, maar de deelnemende websites zullen onmiddellijk stoppen met u te volgen.
 features-adblocker-speed-up-thanks-to-ad = Surf sneller dankzij adblockers
 features-adblocker-in-some-cases-an-ad-blocker = In sommige gevallen kan een adblocker uw browser sneller laten gaan. Wanneer een advertentie wordt geladen, dan kan dit een website vertragen. Tegelijkertijd duurt het langer om te vinden waar u naar zoekt als u te druk bent met sluiten van weer een advertentie.
 # Variables:

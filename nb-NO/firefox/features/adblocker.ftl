@@ -13,5 +13,4 @@ features-adblocker-the-average-person-sees = Den gjennomsnittlige person ser i g
 features-adblocker-find-the-right-ad-blocker = Finn den rette annonseblokkeren for deg
 features-adblocker-take-a-bite-out-of-cookies = Gjør infokapsler mere spiselige
 features-adblocker-in-firefox-you-can-block = I { -brand-name-firefox } kan du blokkere alle tredjeparts infokapsler eller bare de som er satt av sporere. Merk at blokkering av alle infokapsler kan forhindre enkelte nettsteder fra å fungere.
-features-adblocker-send-a-do-not-track-signal = Send et «Ikke spor»-signal
 features-adblocker-speed-up-thanks-to-ad = Høyere hastighet takket være annonseblokkere

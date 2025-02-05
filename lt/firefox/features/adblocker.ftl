@@ -37,9 +37,5 @@ features-adblocker-take-a-bite-out-of-cookies = Nusikratykite slapukų naštos
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Slapukus</a> pas jus patalpina jūsų aplankomos svetainės. Jie lieka kompiuteryje ir padeda svetainei stebėti ką joje veikiate. Pavyzdžiui, jeigu antrąkart per dieną apsilankius oro linijų svetainėje, joje imamos rodyti padidintos bilietų kainos, tai paprastai dėl to būna kalti slapukai.
 features-adblocker-in-firefox-you-can-block = „{ -brand-name-firefox }“ suteikia galimybę blokuoti visus trečiųjų šalių slapukus, arba tiktai talpinamus seklių. Taipogi galima blokuoti visus slapukus, tačiau tai beveik neabejotinai sukels svetainių veikimo nesklandumų.
-features-adblocker-send-a-do-not-track-signal = Praneškite, jog nenorite būti stebimi
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Jeigu nenorite, kad jūsų naršymo istorija būtų naudojama reklamoms parinkti, galite svetaines mandagiai informuoti, jog to nepageidaujate, pažymėdami <a href="{ $url }">„Do Not Track“</a> { -brand-name-firefox } parinktį. Svetainės neprivalo į šį signalą atsižvelgti, tačiau tos, kurios atsižvelgia, nedelsiant nutrauks bet kokį jūsų stebėjimą.
 features-adblocker-speed-up-thanks-to-ad = Naršykite sparčiau reklamų blokuoklių pagalba
 features-adblocker-in-some-cases-an-ad-blocker = Kai kuriais atvejais reklamų blokuoklė gali padėti jūsų naršyklei veikti greičiau. Reklamų įkėlimas sulėtina svetainės veikimą. Be to, kol esate užsiėmę, uždarinėdami iššokančias reklamas, negalite susikoncentruoti į svetainės turinį, dėl kurio joje apsilankėte.

@@ -53,10 +53,6 @@ features-adblocker-take-a-bite-out-of-cookies = Harapjon bele a sütikbe
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = A <a href="{ $url }">sütiket</a> a felkeresett weboldalak küldik el. A számítógépén élnek, és követik, hogy mit csinált az oldalon. Ha egy légitársaság megemeli az árakat, mert minden nap nézegeti a repülőjegyeket, akkor ezt egy süti teszi lehetővé.
 features-adblocker-in-firefox-you-can-block = A { -brand-name-firefox }ban blokkolhatja az összes harmadik féltől származó sütit, vagy csak azokat, amelyeket a követők állítanak be. Ne feledje, hogy a sütik blokkolása hibát okozhat az egyes webhelyeken.
-features-adblocker-send-a-do-not-track-signal = „Ne kövessenek” jelzés küldése
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Ha nem szeretné, hogy az online tevékenységét reklámokhoz használnák fel, akkor egy udvarias „köszönöm, nem” jelzést küldhet a webhelyeknek a { -brand-name-firefox } <a href="{ $url }">Ne kövessenek</a> beállításával. A részvétel önkéntes, de a résztvevő weboldalak leállítják a követést.
 features-adblocker-speed-up-thanks-to-ad = Gyorsítson fel a reklámblokkolóknak köszönhetően
 features-adblocker-in-some-cases-an-ad-blocker = Bizonyos esetekben egy reklámblokkoló segíthet a böngésző felgyorsításában. Ha egy hirdetés betöltődik, az lassíthatja a webhelyet. Ezzel egyidejűleg hosszabb időt vesz igénybe, hogy megkeresse azt, amit keres, ha a reklámok bezárásával tölti az idejét.
 # Variables:

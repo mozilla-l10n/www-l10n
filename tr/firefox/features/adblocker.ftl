@@ -22,5 +22,4 @@ features-adblocker-if-seeing-too-many-ads = Çok fazla reklam görmek gününüz
 features-adblocker-do-it-yourself-custom = Özel modla kendi gizliliğinizi kendiniz ayarlayın
 features-adblocker-cover-your-trail-block = İzinizi belli etmeyin, takip kodlarını engelleyin
 features-adblocker-take-a-bite-out-of-cookies = Çerezleri dert etmeyin
-features-adblocker-send-a-do-not-track-signal = Do Not Track sinyali gönderin
 features-adblocker-speed-up-thanks-to-ad = Reklam engelleyiciler sayesinde hızlanın

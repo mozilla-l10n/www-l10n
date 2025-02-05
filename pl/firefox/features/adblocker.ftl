@@ -38,10 +38,6 @@ features-adblocker-take-a-bite-out-of-cookies = Odgryź się ciasteczkom
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Ciasteczka</a> są wysyłane przez odwiedzane witryny. Mieszkają w Twoim komputerze i monitorują, co robisz na stronie. Kiedy linia lotnicza podnosi Ci ceny, bo któregoś dnia szukałaś biletów, to właśnie dzieło ciasteczek.
 features-adblocker-in-firefox-you-can-block = W { -brand-name-firefox(case: "loc") } możesz blokować wszystkie ciasteczka zewnętrznych witryn lub tylko te ustawiane przez elementy śledzące. Pamiętaj, że blokowanie wszystkich ciasteczek może spowodować, że niektóre strony nie będą działać poprawnie.
-features-adblocker-send-a-do-not-track-signal = Wyślij sygnał, żeby Cię nie śledzić
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Jeśli nie chcesz, aby reklamy korzystały z Twoich działań w Internecie, to możesz wysyłać witrynom grzeczne „dzięki, ale nie skorzystam”, zaznaczając opcję <a href="{ $url }">Do Not Track</a> w { -brand-name-firefox(case: "loc") }. Uczestnictwo jest dobrowolne, ale witryny uczestniczące w programie natychmiast przestaną Cię śledzić.
 features-adblocker-speed-up-thanks-to-ad = Przyspiesz dzięki blokerom reklam
 features-adblocker-in-some-cases-an-ad-blocker = W niektórych przypadkach bloker reklam może przyspieszyć przeglądarkę. Wczytywanie reklamy może spowolnić stronę. Poza tym znalezienie tego, co szukasz zajmuje więcej czasu, jeśli musisz poświęcić go na zamykanie kolejnej reklamy.
 # Variables:

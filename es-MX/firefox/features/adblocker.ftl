@@ -37,9 +37,5 @@ features-adblocker-take-a-bite-out-of-cookies = Mordisquea esa «cookie»
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = Los sitios que visitas te envían «<a href="{ $url }">cookies</a>» . Estos archivos residen en tu navegador y monitorizan lo que haces en un sitio determinado. Cuando una aerolínea te aumenta las tarifas porque consultaste el precio de unos boletos durante el día, eso es obra de una «cookie».
 features-adblocker-in-firefox-you-can-block = { -brand-name-firefox } te permite bloquear todas las «cookies» de terceros o solo las que definen los rastreadores. Ten presente que bloquear todas las «cookies» hará que algunos sitios dejen de funcionar.
-features-adblocker-send-a-do-not-track-signal = Envía una señal de no rastrear
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Si no quieres que tu comportamiento en línea se utilice para motivos publicitarios, puedes enviar a los sitios un cortés «te lo agradezco, pero no» mediante la opción <a href="{ $url }">No realizar seguimiento</a> de { -brand-name-firefox }. La participación es voluntaria, pero aquellos sitios web que participen dejarán de rastrearte de inmediato.
 features-adblocker-speed-up-thanks-to-ad = Más velocidad gracias a los bloqueadores de anuncios
 features-adblocker-in-some-cases-an-ad-blocker = En determinados casos, un bloqueador de anuncios puede ayudarte a navegar con mayor rapidez. Cuando se carga un anuncio, el sitio puede enlentecerse. A la par, si tienes que ocuparte de cerrar todos los anuncios que te saltan, tardarás más en encontrar lo que buscas.

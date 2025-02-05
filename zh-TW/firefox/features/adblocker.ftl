@@ -53,10 +53,6 @@ features-adblocker-take-a-bite-out-of-cookies = 咬一口餅乾
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Cookie</a> 是由您所造訪的網站所設定的。它們儲存於您的電腦上，並且監控您在網站上做過哪些事。當您查詢的機票價格突然變高，有時候就是航空公司網站所設定的 Cookie 所導致。
 features-adblocker-in-firefox-you-can-block = 在 { -brand-name-firefox } 當中，您可以封鎖所有第三方 Cookie 或只封鎖追蹤器的 Cookie。請注意若封鎖所有 Cookie 可能會造成某些網站運作不正常。
-features-adblocker-send-a-do-not-track-signal = 告訴網站「不要追蹤我」
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = 若您不希望您的上網行為被用來投放廣告，可以勾選 { -brand-name-firefox } 的 <a href="{ $url }">Do Not Track</a> 選向來禮貌地告訴網站「謝了，不要追蹤我」。雖然網站可以自己決定要怎麼回應，但同意這個機制的網站就會立刻停止追蹤您。
 features-adblocker-speed-up-thanks-to-ad = 使用廣告封鎖器加速上網
 features-adblocker-in-some-cases-an-ad-blocker = 某些情況下，廣告封鎖器可加速您的上網速度。廣告載入時可能會拖慢網站的運作。同時可能也會讓您花更多時間才能找到想找的東西。
 # Variables:

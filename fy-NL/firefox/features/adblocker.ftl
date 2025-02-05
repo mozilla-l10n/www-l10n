@@ -53,10 +53,6 @@ features-adblocker-take-a-bite-out-of-cookies = Nim in hap út cookies
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Cookies</a> wurde ferstjoerd troch websites dy’t jo besykje. Se stean op jo kompjûter en folgje wat jo dogge op in website. Wannear in loftfeartmaatskippij jo tariven opfiert, omdat jo op dy dei alris nei fleantickets sjoen hawwe, dan is dat it wurk fan in cookie.
 features-adblocker-in-firefox-you-can-block = Yn { -brand-name-firefox } kinne jo alle cookies fan tredden blokkearje of allinnich de cookies dy’t troch trackers pleatst wurde. Tink deroan, dat troch alle cookies te blokkearjen, guon websites net goed wurkje.
-features-adblocker-send-a-do-not-track-signal = In ‘Net folgje’-sinjaal ferstjoere
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = As jo net wolle dat jo online gedrach brûkt wurdt foar advertinsjes, dan kinne jo websites in fatsoenlik ‘Nee, tankewol’-briefke stjoere troch de { -brand-name-firefox }-opsje <a href="{ $url }">Net folgje</a> oan te finkjen. Dielname is frijwillich, mar de dielnimmende websites sille daliks stopje mei jo te folgjen.
 features-adblocker-speed-up-thanks-to-ad = Sneup flugger mei tank oan adblockers
 features-adblocker-in-some-cases-an-ad-blocker = Yn guon gefallen kin in adblocker jo browser flugger gean litte. Wannear in advertinsje laden wurdt, dan kin dit in website fertraagje. Tagelyk duorret it langer om te finen wêr jo nei sochten as jo te drok binne mei sluten fan wer in advertinsje.
 # Variables:

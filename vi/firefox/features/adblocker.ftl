@@ -53,10 +53,6 @@ features-adblocker-take-a-bite-out-of-cookies = Dừng cookie
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Cookie</a> được gửi bởi các trang web bạn truy cập. Họ sống trên máy tính của bạn và theo dõi những gì bạn đã làm trên một trang web. Khi một hãng hàng không tăng giá vì bạn đã xem vé máy bay một lần vào ngày hôm đó, đó là công việc của một cookie.
 features-adblocker-in-firefox-you-can-block = Trong { -brand-name-firefox }, bạn có thể chặn tất cả các cookie của bên thứ ba hoặc chỉ những cookie được đặt bởi trình theo dõi. Hãy lưu ý rằng việc chặn tất cả các cookie có thể phá vỡ một số trang web.
-features-adblocker-send-a-do-not-track-signal = Send một tín hiệu Không Theo Dõi
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Nếu bạn không muốn hành vi trực tuyến của mình được sử dụng cho quảng cáo, bạn có thể gửi trang web một lời cảm ơn lịch sự nhưng không có thư cảm ơn bằng cách kiểm tra tùy chọn <a href="{ $url }">Không theo dõi</a> của { -brand-name-firefox }. Việc tham gia là tự nguyện, nhưng các trang web tham gia sẽ ngừng theo dõi bạn ngay lập tức.
 features-adblocker-speed-up-thanks-to-ad = Tăng tốc nhờ trình chặn quảng cáo
 features-adblocker-in-some-cases-an-ad-blocker = Trong một số trường hợp, trình chặn quảng cáo có thể giúp trình duyệt của bạn chạy nhanh hơn. Khi một quảng cáo đang tải, nó có thể làm chậm một trang web. Đồng thời, sẽ mất nhiều thời gian hơn để tìm thấy những gì bạn đang tìm kiếm nếu bạn quá bận rộn khi đóng một quảng cáo khác.
 # Variables:

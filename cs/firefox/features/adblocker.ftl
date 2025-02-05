@@ -53,10 +53,6 @@ features-adblocker-take-a-bite-out-of-cookies = Zredukujte cookies
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Cookies</a> si ukládají navštívené weby. Bydlí ve vašem počítači a sledují, co jste na webu dělali. Když vám letecká společnost zvýší sazby, protože jste se toho dne podívali na letenky jednou, je to práce cookies.
 features-adblocker-in-firefox-you-can-block = Ve { -brand-name-firefox(case: "loc") } můžete zablokovat všechny cookies třetích stran nebo jen ty, které jsou ukládány sledovacími prvky. Pamatujte, že po zablokování všech cookies nemusí některé funkce webových stránek správně fungovat.
-features-adblocker-send-a-do-not-track-signal = Posílejte signál Do Not Track
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Pokud nechcete, aby bylo vaše chování na internetu používáno pro reklamy, můžete webům poslat zdvořilý dopis „díky, ale nemám zájem“ zaškrtnutím příslušné volby funkce { -brand-name-firefox(case: "gen") } <a href="{ $url }">Do Not Track</a>. Weby nemají povinnost to akceptovat, ale ty, co to akceptovat budou, okamžitě zastaví vaše sledování.
 features-adblocker-speed-up-thanks-to-ad = Zrychlete díky blokátorům reklam
 features-adblocker-in-some-cases-an-ad-blocker = V některých případech může blokátor reklam pomoci váš prohlížeč zrychlit. Když se načítá reklama, může to celou stránku zpomalit. A zároveň bude trvat déle, než najdete to, co hledáte, jestliže jste příliš zaneprázdněni zavíráním zase další reklamy.
 # Variables:

@@ -37,9 +37,5 @@ features-adblocker-take-a-bite-out-of-cookies = Non deixes que pasen o testemuñ
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = Os <a href="{ $url }">testemuños</a> son enviados polos sitios que visitas. Permanecen no computador e rastrexan o que fixeches nun sitio. Cando unha compañía aérea aumenta os seus prezos após estares a ollar voos un día calquera é por culpa dos testemuños.
 features-adblocker-in-firefox-you-can-block = No { -brand-name-firefox }, podes bloquear todos os testemuños de terceiros ou soamente os definidos polos rastrexadores. Pensa que o bloqueo de todos os testemuños pode levar algúns sitios á creba.
-features-adblocker-send-a-do-not-track-signal = Envía un sinal de non rastrexo
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Se non quixeres que o teu comportamento en liña sexa usado para os anuncios, podes enviar unha indicación educada «hoxe non quero, outro día xa veremos» ao marcares a opción<a href="{ $url }">Non rastrexar</a> do { -brand-name-firefox }. A participación é voluntaria, mais os sitios que respectan esta indicación deixan de te rastrexar inmediatamente.
 features-adblocker-speed-up-thanks-to-ad = Aumenta a velocidade grazas aos bloqueadores de publicidade
 features-adblocker-in-some-cases-an-ad-blocker = Nalgúns casos, un bloqueador de publicidade pode axudar o teu navegador a ir máis rápido. Cando se carga un anuncio, pode diminuír a velocidade dun sitio web. Alén diso, tardas máis en encontrar o que buscas se estás demasiado ocupado en pechar outro anuncio.

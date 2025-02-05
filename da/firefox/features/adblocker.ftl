@@ -53,10 +53,6 @@ features-adblocker-take-a-bite-out-of-cookies = Gør cookies mere spiselige
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Cookies</a> bliver sendt til dig fra de websteder, du besøger. Disse cookies opbevares på din computer og holder øje med, hvad du gør på bestemte websteder. Har du nogensinde prøvet, at flybilletter er blevet dyrere, når du går ind og søger efter dem igen senere samme dag? Det skyldes cookies.
 features-adblocker-in-firefox-you-can-block = I { -brand-name-firefox } kan du blokere alle tredjeparts-cookies eller kun dem, der sættes af sporings-tjenester. Vær opmærksom på, at blokering af alle cookies kan forhindre websteder i at fungere.
-features-adblocker-send-a-do-not-track-signal = Send signalet 'Spor mig ikke'
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Vil du ikke have, at viden om din opførsel på nettet bliver brugt til at vise dig målrettede reklamer? Så kan du sende websteder et høfligt "Nej tak" ved at sætte et kryds i indstillingen <a href="{ $url }">Spor mig ikke</a> i { -brand-name-firefox }. Deltagelse er frivillig, men websteder, der er med i ordningen, holder op med at spore dig med det samme.
 features-adblocker-speed-up-thanks-to-ad = Sæt farten op med adblockere
 features-adblocker-in-some-cases-an-ad-blocker = I nogle tilfælde kan en adblocker gøre din browser hurtigere, fordi der ikke skal bruges tid på at hente reklamen. Du skal heller ikke bruge din tid på at lukke generende reklamer.
 # Variables:
