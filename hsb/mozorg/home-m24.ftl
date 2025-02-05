@@ -28,6 +28,7 @@ m24-home-pocket = { -brand-name-pocket }
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-firefox-relay = { -brand-name-firefox-relay }
+m24-home-mask-your-email = Maskěrujće swoju e-mejlowu adresu a swoje telefonowe čisło, zo byšće jenož te powěsće dóstał, kotrež chceće.
 
 ## Donate
 
