@@ -62,8 +62,11 @@ m24-home-alt-llamafile-logo = { -brand-name-llamafile } logosu.
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = { -brand-name-llamafile } ile büyük dilli modellerini (LLM) bilgisayarınızda kolayca çalıştırın. Kurulum gerektirmez ve verileriniz cihazınızda güvenle saklanır.
 m24-home-alt-builders = Builders
+m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders; özel iş ortaklıkları, programlama ve topluluklar aracılığıyla bağımsız geliştiricilerin dönüşüm yaratan açık kaynaklı yapay zekâ projeleri oluşturmasına yardımcı olur.
+m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders }; özel iş ortaklıkları, programlama ve topluluklar aracılığıyla bağımsız geliştiricilerin dönüşüm yaratan açık kaynaklı yapay zekâ projeleri oluşturmasına yardımcı olur.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } logosu.
 m24-home-lumigator = { -brand-name-lumigator }

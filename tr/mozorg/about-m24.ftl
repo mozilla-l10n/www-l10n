@@ -38,6 +38,7 @@ m24-about-we-fund-and = Teknolojiyi, interneti ve yapay zekâyı doğru yöne g�
 
 m24-about-read-more = Devamını okuyun
 m24-about-read-the-latest = En son { -brand-name-mozilla } haberlerini ve makalelerini okuyun
+m24-about-builders-program = { -brand-name-mozilla-builders }; iş ortaklıkları, programlama ve topluluklar aracılığıyla geliştiricilerin dönüşüm yaratan açık kaynaklı yapay zekâ projeleri oluşturmasına yardımcı olur
 m24-about-at-our-rise25 = { -brand-name-rise25 } Ödülleri ile yapay zekânın geleceği daha güvenilir, kapsayıcı ve hesap verebilir
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = { -brand-name-rise25 } kupasını işaret eden ödül sahibi.
