@@ -62,8 +62,11 @@ m24-home-alt-llamafile-logo = { -brand-name-llamafile } 圖示。
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = 透過 { -brand-name-llamafile } 在您的電腦上輕鬆執行大型語言模型（LLM）— 無需安裝，您的資料也會安全地保留在您的裝置內。
 m24-home-alt-builders = 建設者
+m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } 建設者
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders 透過量身定做的協作、程式與社群合作，幫助獨立開發者打造革命性的開放原始碼 AI 專案。
+m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders }透過量身訂製的合作、程式與社群合作幫助獨立的開發者打造革命性的開放原始碼 AI 專案。
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } 圖示。
 m24-home-lumigator = { -brand-name-lumigator }

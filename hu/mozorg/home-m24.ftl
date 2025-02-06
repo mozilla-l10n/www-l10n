@@ -62,8 +62,11 @@ m24-home-alt-llamafile-logo = { -brand-name-llamafile } logó.
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = Futtasson nagy nyelvi modelleket (LLM) egyszerűen a számítógépén a { -brand-name-llamafile } segítségével – nincs szükség telepítésre, és az adatai biztonságban maradnak az eszközén.
 m24-home-alt-builders = Builders
+m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = A Builders egyéni együttműködésekkel, programozással és közösséggel segíti a független fejlesztőket a transzformatív nyílt forráskódú MI projektjeiknek létrehozásában.
+m24-home-builders-helps-independent-v2 = A { -brand-name-mozilla-builders } segít független fejlesztőknek, hogy transzformatív, nyílt forráskódú MI projekteket hozzanak létre, testreszabott együttműködéseken, programozáson és közösségen keresztül.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } logó.
 m24-home-lumigator = { -brand-name-lumigator }

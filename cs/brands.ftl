@@ -777,6 +777,7 @@
     }
 -brand-name-mozilla-social = Mozilla.social
 -brand-name-mozilla-builders = Mozilla Builders
+-brand-name-builders = Tvůrci
 # Obsolete string (expires: 2025-01-05)
 -brand-name-mozilla-ai = Mozilla AI
 -brand-name-mozilla-ai-v2 = Mozilla.ai

@@ -62,8 +62,11 @@ m24-home-alt-llamafile-logo = { -brand-name-llamafile }-ლოგო.
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = გაუშვით ენის დიდი მოდელები (LLM) იოლად თქვენს კომპიუტერში { -brand-name-llamafile }-ის მეშვეობით —არაფრის დაყენება არაა საჭირო, თქვენი მონაცემები უსაფრთხოდ დარჩება თქვენსავე მოწყობილობაზე.
 m24-home-alt-builders = Builders
+m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders ეხმარება დამოუკიდებელ შემმუშავებლებს ღია წყაროს მქონე AI-საშუალებების შექმნაში ცალკეული თანამშრომლობის, პროგრამებისა და საზოგადოებების ჩამოყალიბებით.
+m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } ეხმარება დამოუკიდებელ შემმუშავებლებს, შექმნან ტრანსფორმაციული ღია წყაროს მქონე AI პროექტები, საკუთარი თანამშრომლობის, პროგრამირებისა და ერთობის მეშვეობით.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }-ლოგო.
 m24-home-lumigator = { -brand-name-lumigator }

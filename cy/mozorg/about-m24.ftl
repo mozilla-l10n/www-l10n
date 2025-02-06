@@ -38,6 +38,7 @@ m24-about-we-fund-and = Rydym yn ariannu ac yn buddsoddi yn y bobl a'r ymdrechio
 
 m24-about-read-more = Darllen rhagor
 m24-about-read-the-latest = Darllenwch y newyddion ac erthyglau diweddaraf { -brand-name-mozilla }
+m24-about-builders-program = Mae { -brand-name-mozilla-builders } yn helpu datblygwyr i greu prosiectau AI ffynhonnell agored trawsnewidiol trwy gydweithrediadau, rhaglennu a chymuned
 m24-about-at-our-rise25 = Yn ein Gwobrau { -brand-name-rise25 }, mae dyfodol AI yn ddibynadwy, yn gynhwysol ac yn atebol.
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Derbynnydd gwobr { -brand-name-rise25 } yn pwyntio at ei thlws.
