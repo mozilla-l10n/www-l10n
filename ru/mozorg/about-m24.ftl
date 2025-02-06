@@ -38,7 +38,7 @@ m24-about-we-fund-and = Мы финансируем и инвестируем в
 
 m24-about-read-more = Подробнее
 m24-about-read-the-latest = Прочитайте последние новости и статьи { -brand-name-mozilla }
-m24-about-builders-program = { -brand-name-mozilla-builders } помогает разработчикам создавать преобразовательные проекты ИИ с открытым исходным кодом через сотрудничество, программирование и сообщество
+m24-about-builders-program = { -brand-name-mozilla-builders } помогает разработчикам создавать трансформационные ИИ-проекты с открытым исходным кодом через сотрудничество, программирование и сообщество
 m24-about-at-our-rise25 = На наших наградах { -brand-name-rise25 } будущее ИИ — заслуживающее доверия, инклюзивное и подотчетное
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Награждённый { -brand-name-rise25 } указывает на свой трофей.
