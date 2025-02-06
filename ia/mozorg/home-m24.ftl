@@ -62,8 +62,11 @@ m24-home-alt-llamafile-logo = Logo de { -brand-name-llamafile }
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = Face functionar grande modellos linguistic (GMLes) facilemente sur tu computator con { -brand-name-llamafile }, nulle installation necessari, e tu datos sta secur sur tu apparato.
 m24-home-alt-builders = Constructores
+m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = Constructores de { -brand-name-mozilla }
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Le constructores adjuta disveloppatores independente a crear projectos transformative de IA open-source per collaborationes, programmation, e communitates a mesura.
+m24-home-builders-helps-independent-v2 = Le { -brand-name-mozilla-builders } adjuta disveloppatores independente a crear projectos transformative de IA open-source per collaborationes, programmation, e communitates a mesura.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo de { -brand-name-lumigator }
 m24-home-lumigator = { -brand-name-lumigator }
