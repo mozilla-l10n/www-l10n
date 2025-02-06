@@ -38,7 +38,6 @@ m24-about-we-fund-and = Wy finansiere en ynvestearje yn de minsken en ynspanning
 
 m24-about-read-more = Mear ynfo
 m24-about-read-the-latest = Lês it lêste nijs en artikels fan { -brand-name-mozilla }
-m24-about-14-ai-projects = 14 AI-projekten om te besjen: de earste Builders Accelerator-kohort fan { -brand-name-mozilla } begjint
 m24-about-at-our-rise25 = By ús { -brand-name-rise25 }-awards is de takomst fan AI betrouber, ynklusyf en ferantwurdlik
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = { -brand-name-rise25 }-priiswinner wizend nei har trofee.

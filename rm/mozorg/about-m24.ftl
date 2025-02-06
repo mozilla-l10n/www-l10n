@@ -38,7 +38,6 @@ m24-about-we-fund-and = Nus investin en las persunas e l’engaschi che mainan l
 
 m24-about-read-more = Ulteriuras infurmaziuns
 m24-about-read-the-latest = Legia las novitads ed ils artitgels ils pli novs da { -brand-name-mozilla }
-m24-about-14-ai-projects = 14 projects IA per observar: L’emprima rotscha dal { -brand-name-mozilla } Builders Accelerator è partida
 m24-about-at-our-rise25 = Tar noss premis da { -brand-name-rise25 } è il futur dad IA fidabel, inclusiv e responsabel
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Ina victura dal premi { -brand-name-rise25 } mussa sin sia trofea.

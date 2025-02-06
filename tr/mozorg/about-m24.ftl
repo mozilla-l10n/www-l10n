@@ -38,7 +38,6 @@ m24-about-we-fund-and = Teknolojiyi, interneti ve yapay zekâyı doğru yöne g�
 
 m24-about-read-more = Devamını okuyun
 m24-about-read-the-latest = En son { -brand-name-mozilla } haberlerini ve makalelerini okuyun
-m24-about-14-ai-projects = İzlemeniz gereken 14 yapay zekâ projesi: { -brand-name-mozilla }’nın ilk Builders Accelerator kohortu başlıyor
 m24-about-at-our-rise25 = { -brand-name-rise25 } Ödülleri ile yapay zekânın geleceği daha güvenilir, kapsayıcı ve hesap verebilir
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = { -brand-name-rise25 } kupasını işaret eden ödül sahibi.
@@ -55,7 +54,7 @@ m24-about-read-about-our = Taahhüdümüz hakkında bilgi alın
 ## Careers
 
 # Used as an accessible text alternative for an image
-m24-about-alt-trustworthy = Trustworthy AI, { -brand-name-common-voice }, Federated Learnings.
+m24-about-alt-trustworthy = Güvenilir yapay zekâ, { -brand-name-common-voice }, birleşmiş öğrenme.
 # Used as an accessible text alternative for an image
 m24-about-alt-conversation = Konuşma yapan bir { -brand-name-mozilla } çalışanı.
 # Used as an accessible text alternative for an image

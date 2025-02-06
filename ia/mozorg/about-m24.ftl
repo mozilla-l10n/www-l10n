@@ -38,7 +38,6 @@ m24-about-we-fund-and = Nos financia e investi in le personas e le effortios pro
 
 m24-about-read-more = Leger plus
 m24-about-read-the-latest = Lege le ultime novas e articulos de { -brand-name-mozilla }
-m24-about-14-ai-projects = 14 Projectos de IA a surveliar: initia le prime cohorte de Builders Accelerator de { -brand-name-mozilla }
 m24-about-at-our-rise25 = In nostre premios de { -brand-name-rise25 }, le futuro del IA es digne de fide, inclusive e responsabile
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Destinatario del premio { -brand-name-rise25 } indicante su tropheo.

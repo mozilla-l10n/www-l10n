@@ -38,7 +38,6 @@ m24-about-we-fund-and = ჩვენ ვაფინანსებთ და �
 
 m24-about-read-more = ვრცლად
 m24-about-read-the-latest = გაეცანით { -brand-name-mozilla }-ს უახლეს სიახლეებსა და სტატიებს
-m24-about-14-ai-projects = AI-ის 14 პროექტი, რომელთაც თვალი უნდა უყუროთ: { -brand-name-mozilla }-ს შემქმნელების ამაჩქარებლის პირველი კოჰორტა იხსნება
 m24-about-at-our-rise25 = ჩვენს { -brand-name-rise25 }-დაჯილდოებაზე ხელოვნური ინტელექტის მომავალი სანდო, ინკლუზიური და ანგარიშვალდებული იქნება
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = { -brand-name-rise25 }-ის ჯილდოს მიმღები თასისკენ მიუთითებს.

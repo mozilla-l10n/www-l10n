@@ -38,7 +38,6 @@ m24-about-we-fund-and = Chúng tôi tài trợ và đầu tư vào con người 
 
 m24-about-read-more = Đọc thêm
 m24-about-read-the-latest = Đọc tin tức & bài viết mới nhất của { -brand-name-mozilla }
-m24-about-14-ai-projects = 14 dự án AI đáng chú ý: Nhóm Builders Accelerator đầu tiên của { -brand-name-mozilla } khởi động
 m24-about-at-our-rise25 = Tại giải thưởng { -brand-name-rise25 } của chúng tôi, tương lai của AI là đáng tin cậy, toàn diện và có trách nhiệm
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Người nhận giải thưởng { -brand-name-rise25 } đang chỉ vào chiếc cúp của cô ấy.

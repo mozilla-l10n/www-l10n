@@ -38,7 +38,6 @@ m24-about-we-fund-and = 我们资助和投资促进技术、互联网和 AI 向�
 
 m24-about-read-more = 详细了解
 m24-about-read-the-latest = 阅读最新的 { -brand-name-mozilla } 新闻和文章
-m24-about-14-ai-projects = 14 个值得关注的 AI 项目：{ -brand-name-mozilla } 首届 Builders Accelerator 研讨会拉开序幕
 m24-about-at-our-rise25 = 我们的 { -brand-name-rise25 } 奖项展示了 AI 可信、包容、负责任的未来
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = { -brand-name-rise25 } 获奖者指着她的奖杯。

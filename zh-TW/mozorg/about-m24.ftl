@@ -38,7 +38,6 @@ m24-about-we-fund-and = 我們投資將科技、網際網路與 AI 引向正確�
 
 m24-about-read-more = 了解更多
 m24-about-read-the-latest = 閱讀最新的 { -brand-name-mozilla } 新聞與文章
-m24-about-14-ai-projects = 14 個值得關注的 AI 專案：{ -brand-name-mozilla } 的第一屆 Builders Accelerator 拉開序幕
 m24-about-at-our-rise25 = 在 { -brand-name-rise25 } 獎當中，AI 的未來是可信任、包容、可課責的
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = { -brand-name-rise25 } 得獎者指著她的獎盃。

@@ -38,7 +38,6 @@ m24-about-we-fund-and = Olyan embereket és erőfeszítéseket finanszírozunk, 
 
 m24-about-read-more = Bővebben
 m24-about-read-the-latest = Olvassa el a { -brand-name-mozilla } legfrissebb híreit és cikkeit
-m24-about-14-ai-projects = 14 figyelemreméltó MI projekt: elindul a { -brand-name-mozilla } első Builders Accelerator csoportja
 m24-about-at-our-rise25 = A { -brand-name-rise25 } díjátadónkon az MI jövője megbízható, befogadó és elszámoltatható
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Egy { -brand-name-rise25 } díjazott a trófeájára mutat.

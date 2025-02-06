@@ -38,7 +38,6 @@ m24-about-we-fund-and = Financiamos e invertimos en las personas y en los esfuer
 
 m24-about-read-more = Leer más
 m24-about-read-the-latest = Lee las últimas noticias y artículos de { -brand-name-mozilla }
-m24-about-14-ai-projects = 14 proyectos de IA a tener en cuenta: comienza la primera cohorte de Builders Accelerator de { -brand-name-mozilla }
 m24-about-at-our-rise25 = En nuestros premios { -brand-name-rise25 }, el futuro de la IA es fiable, inclusivo y responsable
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = La ganadora del premio { -brand-name-rise25 } señala su trofeo.

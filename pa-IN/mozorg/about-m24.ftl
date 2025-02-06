@@ -25,7 +25,6 @@ m24-about-fund = ਫੰਡ
 
 m24-about-read-more = ਹੋਰ ਪੜ੍ਹੋ
 m24-about-read-the-latest = ਨਵੀਆਂ { -brand-name-mozilla } ਖ਼ਬਰਾਂ ਤੇ ਲੇਖਾਂ ਨੂੰ ਪੜ੍ਹੋ
-m24-about-14-ai-projects = 14 AI ਪ੍ਰੋਜੈਕਟਾਂ ਉੱਤੇ ਨਿਗ੍ਹਾ ਰੱਖੋ: { -brand-name-mozilla } ਦਾ ਪਹਿਲਾਂ ਬਿਲਡਰ ਐਕਸਲੇਟਰ ਸਮੂਹ ਸ਼ੁਰੂ ਹੋਇਆ
 # Used as an accessible text alternative for an image
 m24-about-chicago = ਸ਼ਿਕਾਗੋ ਅਧਾਰਿਤ ਉਦਯੋਗਪਤੀ।
 

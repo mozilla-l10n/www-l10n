@@ -38,7 +38,6 @@ m24-about-we-fund-and = Mi finansiramo i ulažemo u ljude i napore koji tehnolog
 
 m24-about-read-more = Pročitajte više
 m24-about-read-the-latest = Pročitajte najnovije { -brand-name-mozilla } vijesti i članke
-m24-about-14-ai-projects = 14 AI projekata za gledanje: { -brand-name-mozilla } prva kohorta Builders Acceleratora počinje
 m24-about-at-our-rise25 = Na našim { -brand-name-rise25 } nagradama, budućnost AI je pouzdana, inkluzivna i odgovorna
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Primalac nagrade { -brand-name-rise25 } pokazuje na svoj trofej.

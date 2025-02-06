@@ -37,7 +37,6 @@ m24-about-we-fund-and = Financěrujomy luźe a procowanja, kótarež technologij
 
 m24-about-read-more = Wěcej cytaś
 m24-about-read-the-latest = Cytajśo nejnowše powěsći a nastawki { -brand-name-mozilla }
-m24-about-14-ai-projects = 14 projektow KI za woglědanje: Prědna kupka Builders Accelerator { -brand-name-mozilla } startujo
 m24-about-at-our-rise25 = Na našych mytach { -brand-name-rise25 } jo pśichod KI dowěry gódny, inkluziwny a zagronity
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Nosaŕ myta { -brand-name-rise25 }, kenž na swóju trofeju pokazujo

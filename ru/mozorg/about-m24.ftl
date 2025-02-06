@@ -38,7 +38,6 @@ m24-about-we-fund-and = Мы финансируем и инвестируем в
 
 m24-about-read-more = Подробнее
 m24-about-read-the-latest = Прочитайте последние новости и статьи { -brand-name-mozilla }
-m24-about-14-ai-projects = 14 ИИ-проектов, за которыми стоит следить: стартует первая когорта Builders Accelerator от { -brand-name-mozilla }
 m24-about-at-our-rise25 = На наших наградах { -brand-name-rise25 } будущее ИИ — заслуживающее доверия, инклюзивное и подотчетное
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Награждённый { -brand-name-rise25 } указывает на свой трофей.
