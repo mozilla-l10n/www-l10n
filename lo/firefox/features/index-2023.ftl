@@ -10,6 +10,7 @@ features-index-firefox-browser-features = ຄຸນສົມບັດຂອງ�
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } ແມ່ນບຣາວເຊີໄວ, ນ້ຳໜັກເບົາ, ເນັ້ນຄວາມເປັນສ່ວນຕົວ ເຊິ່ງເຮັດວຽກໃນທົ່ວທຸກອຸປະກອນຂອງທ່ານ.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } ສືບຕໍ່ໄວຂຶ້ນ
+features-index-the-latest-browser-speed-benchmarks = ດັດຊະນີຄວາມໄວຂອງຕົວທ່ອງເວັບຫຼ້າສຸດພິສູດວ່າ { -brand-name-firefox } ແມ່ນໄວກວ່າທີ່ເຄີຍ.
 features-index-is-firefox-a-private-browser = { -brand-name-firefox } ເປັນຕົວທ່ອງເວັບທີ່ໄວທີ່ສຸດບໍ?
 features-index-free-password-manager = ຕົວຈັດການລະຫັດຜ່ານຟຣີ
 features-index-customize-your-firefox-browser = ປັບແຕ່ງຕົວທ່ອງເວັບ { -brand-name-firefox } ຂອງທ່ານ
