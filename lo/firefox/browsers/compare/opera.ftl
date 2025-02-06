@@ -7,3 +7,5 @@
 
 # Page title
 compare-opera-firefox-vs-opera = { -brand-name-firefox } vs Opera
+# HTML page description
+compare-opera-read-our-comparison = ອ່ານການປຽບທຽບຂອງພວກເຮົາຂອງ { -brand-name-firefox } ແລະ Opera browsers ກ່ຽວກັບຄຸນສົມບັດ, ຄວາມເປັນສ່ວນຕົວ ແລະ ຄວາມສະດວກໃນການນໍາໃຊ້.
