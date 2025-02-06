@@ -29,3 +29,11 @@ features-adblocker-tip-6 = <strong>家长控制：</strong>若希望屏蔽不适
 features-adblocker-its-important-to-note = 请务必注意，部分网站依靠广告来加载内容或提供功能，此时拦截广告可能会导致功能失效（例如无法播放视频或登录），因此请选用经常更新的广告拦截器。若发现广告拦截器引起了显著问题，请尝试改用其他产品，以兼顾拦截效果和兼容性。
 features-adblocker-beyond-ad-blockers = 在广告拦截器之外，{ -brand-name-firefox } 也提供内置功能，供您更有力地掌控浏览体验。这些工具不仅能保护隐私，更可让您定制适合自己的体验。
 features-adblocker-tool-1 = <strong>标准模式：</strong>平衡的选项，可拦截常见跟踪器，同时保持网站正常运行。
+features-adblocker-tool-2 = <strong>严格模式：</strong>适合对隐私保护有更高需求的用户，会拦截更多跟踪器和 Cookie。请注意，启用此模式后，可能需对部分网站进行调整。
+features-adblocker-tool-3 = <strong>自定义模式：</strong>若希望实行全面控制，可通过自定义模式选择要拦截的内容，其中包括 Cookie 和跟踪器等项目。
+features-adblocker-to-adjust = 若要调整这些设置，请点击任意网页地址栏左侧的盾牌图标，选择“保护设置”，然后在打开的菜单中选择适当的保护级别。
+features-adblocker-why-use = 为什么需要使用广告拦截器？
+features-adblocker-ad-blockers-do-more = 广告拦截器的作用不止于管理广告。在削减不必要的内容后，浏览速度和安全性同样得以提高。您可借此打造定制化的无干扰网络体验，以便专注于真正重要的事务。
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-explore-hundreds = 探索可用于 { -brand-name-firefox } 的数百款隐私为先的扩展，寻找称心的工具。现在就<a href="{ $url }">下载 { -brand-name-firefox }</a>，体验这款将隐私和性能根植于设计理念的浏览器吧。
