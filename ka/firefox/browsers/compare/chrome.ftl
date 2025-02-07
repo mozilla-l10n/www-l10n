@@ -12,10 +12,10 @@ compare-chome-read-our-comparison = გაეცანით ჩვენს შ
 # Variables:
 # $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
 # $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
-compare-chrome-firefoxs-default-privacy-settings = { -brand-name-firefox }-ის კონფიდენციალურობის ნაგულისხმევი პარამეტრები მეტად მძლავრია, ვიდრე Chrome-ის – და ჩვენ გვაქვს დამატებითი შესაძლებლობები, ვებსაიტებისთვის თვალთვალის არიდების თავიდან ასაცილებლად, როგორიცაა <a { $fingerprint }>თითის ანაბეჭდის შეზღუდვა</a>, ასევე თქვენ მიერ შერჩეული <a { $adblocker }>რეკლამის შეზღუდვის</a> დამატებები.
-compare-chrome-we-block-trackers-by-default = ჩვენ ნაგულისხმევად ვზღუდავთ მეთვალყურეებს. Chrome არა.
-compare-chrome-in-fact-by-default-chrome-monitors = სინამდვილეში, Chrome ნაგულისხმევად ადევნებს თვალს, რომელ საიტებს ეწვევით და რას აკეთებთ, რომ შეძლოს „სარეკლამო თემების“ ამოცნობა და თქვენთვის გამიზნული რეკლამები გამოგიგზავნოთ. შეგიძლიათ სამი სათაურის შეზღუდვა, მაგრამ სხვა სარეკლამო თემების ამოცნობას ვერ აიძულებთ.
-compare-chrome-chrome-allows-other-websites-to = Chrome საშუალებას აძლევს სხვა საიტებს, შეაგროვონ ინფორმაცია თქვენ შესახებ, რეკლამის შეთავაზებისთვის. თქვენ შეგიძლიათ შეზღუდოთ ცალკეული საიტები რეკლამის შეთავაზებისგან, მაგრამ მონაცემების შეგროვებისა და შემოთავაზებების შეზღუდვა შეგიძლიათ სხვა საიტებიდან.
+compare-chrome-firefoxs-default-privacy-settings = { -brand-name-firefox } პირადულობის ნაგულისხმევი პარამეტრებით მეტად მძლავრია, ვიდრე Chrome – და ჩვენ დამატებითი შესაძლებლობებიც გვაქვს, ვებსაიტების თქვენი თვალთვალის საშუალება რომ არ მივცეთ, თუნდაც <a { $fingerprint }>მომხმარებლის ამოცნობის არიდება</a>, აგრეთვე, სურვილისამებრ შერჩეული <a { $adblocker }>რეკლამის შეზღუდვის</a> დამატებების თანხლებით.
+compare-chrome-we-block-trackers-by-default = ჩვენ ნაგულისხმევად ვზღუდავთ მეთვალყურეებს. Chrome კი – არა.
+compare-chrome-in-fact-by-default-chrome-monitors = სინამდვილეში, Chrome ნაგულისხმევად თვალს ადევნებს, რომელ საიტებს ეწვევით და რას საქმიანობთ, რომ შეძლოს „სარეკლამო თემების“ დადგენა და თქვენთვის გამიზნული რეკლამების ჩვენება. შეგიძლიათ სამი მათგანი შეზღუდოთ, სხვა სარეკლამო თემების დადგენის საშუალებას ვერ აღკვეთავთ.
+compare-chrome-chrome-allows-other-websites-to = Chrome სხვა საიტებსაც აძლევს საშუალებას, შეაგროვონ თქვენ შესახებ მონაცემები რეკლამების შემოთავაზებისთვის. შეგიძლიათ შეზღუდოთ ცალკეული საიტებისგან რეკლამის შემოთავაზება, მაგრამ ვერ აირიდებთ მონაცემების შეგროვებასა და სხვა საიტებისგან შემოთავაზებებს.
 compare-chrome-google-runs-the-worlds-largest = Google მართავს მსოფლიოში უდიდეს სარეკლამო ქსელს და Chrome ამის ნაწილია.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/switching-chrome-firefox
