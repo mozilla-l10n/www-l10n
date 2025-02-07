@@ -58,7 +58,7 @@ vpn-pricing-if-already-subscribed = თუ უკვე გამოწერი
 
 vpn-pricing-scan-qrcode-to-download = აპის ჩამოსატვირთად, QR-კოდი წააკითხეთ თქვენი მობილური მოწყობილობით ან პლანშეტით
 vpn-pricing-scan-qrcode-to-download-android = აპის ჩამოსატვირთად, QR-კოდი წააკითხეთ თქვენი Android მოწყობილობით ან პლანშეტით
-vpn-pricing-sign-up-on-your-mobile-device = გამოიწერეთ { -brand-name-mozilla-vpn }-გამოწერა თქვენს მობილურ მოწყობილობაზე
-vpn-pricing-sign-up-on-your-android-device = გამოიწერეთ { -brand-name-mozilla-vpn }-გამოწერა თქვენს Android მოწყობილობაზე
+vpn-pricing-sign-up-on-your-mobile-device = შექმენით ანგარიში, რომ გამოიწეროთ { -brand-name-mozilla-vpn } თქვენს მობილურ მოწყობილობაზე
+vpn-pricing-sign-up-on-your-android-device = შექმენით ანგარიში, რომ გამოიწეროთ { -brand-name-mozilla-vpn } თქვენს Android-მოწყობილობაზე
 vpn-pricing-download-the-app = ჩამოტვირთეთ აპლიკაცია
-vpn-pricing-transaction-may-be-in = * ოპერაცია შეიძლება განხორციელდეს ადგილობრივ ვალუტაში.
+vpn-pricing-transaction-may-be-in = * გადარიცხვა შესაძლებელია ადგილობრივი ვალუტის ტოლფასი ღირებულებით.
