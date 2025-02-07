@@ -17,7 +17,7 @@ features-adblocker-ad-blockers-work = Le blocatores de annuncios publicitari fun
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
-features-adblocker-using-an-adblocker = Usar un blocator de annuncios publicitari es immediate. Multe optiones digne de fide es disponibile como additivos de navigator, rendente facile trovar un solution que functiona pro tu besonios. Per exemplo, <a href="{ $firefox }">{ -brand-name-firefox }</a> offere <a href="{ $additivos }">un lista de extensiones approbate</a> designate pro meliorar tu experientia de navigation respectante tu confidentialitate.
+features-adblocker-using-an-adblocker = Usar un blocator de annuncios publicitari es immediate. Multe optiones digne de fide es disponibile como additivos de navigator, rendente facile trovar un solution que functiona pro tu besonios. Per exemplo, <a href="{ $firefox }">{ -brand-name-firefox }</a> offere <a href="{ $addons }">un lista de extensiones approbate</a> designate pro meliorar tu experientia de navigation respectante tu confidentialitate.
 features-adblocker-finding-the-right = Trovar le juste blocator de annuncios publicitari pro te
 features-adblocker-there-are-many = Il ha multe applicationes de blocada publicitari pro navigatores, cata un offere functiones apte a differente preferentias. Trovar illo juste pro te depende de tu desiros e habitudes de navigation. Ecce alcun consilios a considerar:
 features-adblocker-tip-1 = <strong>Blocada de annuncios publicitari:</strong> Si tu solo vole blocar annuncios publicitari, selige un option simple e legier.
