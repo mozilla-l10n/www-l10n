@@ -17,4 +17,4 @@ compare-brave-firefox-makes-it-easy-for-you = { -brand-name-firefox } გიმ�
 compare-brave-firefox-gives-you-the-option = { -brand-name-firefox } საშუალებას გაძლევთ, დაშიფროთ შენახული პაროლები, ხოლო <a { $primary }>მათთან წვდომისთვის გამოიყენოთ მთავარი პაროლი</a>; თქვენი პაროლები დაცულია იმ შემთხვევაშიც, თუ კომპიუტერის სხვასთან გაზიარება გიწევთ. Brave არ იცავს თქვენს პაროლებს მსგავსი საშუალებით.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-data-another-browser
-compare-brave-switching-to-firefox-is-easy = { -brand-name-firefox }-ზე გადასვლა იოლი და სწრაფია – გადმოიტანეთ Brave სანიშნები, პაროლები, ისტორია და პარამეტრები ერთი დაწკაპებით და დაუყოვნებლივ შეგეძლებათ, გამოიყენოთ { -brand-name-firefox }. იხილეთ ვრცლად, <a { $howto }>როგორ გადმოიტანოთ Brave-ის მონაცემები</a>.
+compare-brave-switching-to-firefox-is-easy = { -brand-name-firefox }-ზე გადასვლა ადვილად და სწრაფად ხერხდება — გადმოიტანეთ თქვენი Brave-ის სანიშნები, პაროლები, ისტორია თუ სხვა პარამეტრები ერთი დაწკაპებით და მყისვე შეძლებთ გამოიყენოთ { -brand-name-firefox }. იხილეთ, <a { $howto }>როგორ გადმოიტანოთ Brave-ის მონაცემები</a>.
