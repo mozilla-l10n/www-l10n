@@ -20,6 +20,7 @@ navigation-refresh-innovation-projects-v2 = مشاريع الابتكار
 navigation-refresh-blog = المدوّنة
 navigation-refresh-our-mission = مهمّتنا
 navigation-refresh-our-work = عملُنا
+navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 
 # Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai = { -brand-name-mozilla } الذكاء الاصطناعي

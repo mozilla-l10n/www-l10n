@@ -20,6 +20,7 @@ navigation-refresh-innovation-projects-v2 = Proyek Inovasi
 navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Misi Kami
 navigation-refresh-our-work = Pekerjaan Kami
+navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 
 # Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI

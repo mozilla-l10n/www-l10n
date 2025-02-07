@@ -20,6 +20,7 @@ navigation-refresh-innovation-projects-v2 = イノベーションプロジェク
 navigation-refresh-blog = ブログ
 navigation-refresh-our-mission = Mozilla のミッションを読む
 navigation-refresh-our-work = Mozilla の活動
+navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 
 # Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
