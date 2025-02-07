@@ -67,12 +67,6 @@ features-adblocker-take-a-bite-out-of-cookies = Kurangkan sebahagian daripada ku
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Kuki</a> dihantar oleh laman web yang anda kunjungi. Ia hidup di komputer anda dan memantau perkara yang anda lakukan di laman web. Apabila syarikat penerbangan menaikkan harga tiket anda kerana anda ada menyemak tiket kapal terbang sekali pada hari itu, itulah hasil kerja kuki.
 
 features-adblocker-in-firefox-you-can-block = Di { -brand-name-firefox }, anda boleh menyekat semua kuki pihak ketiga atau hanya yang ditetapkan oleh penjejak. Ambil perhatian bahawa menyekat semua kuki boleh merosakkan sesetengah laman web.
-features-adblocker-send-a-do-not-track-signal = Hantar isyarat Jangan Jejak
-
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Jika anda tidak mahu tingkah laku dalam talian anda digunakan untuk iklan, anda boleh mengirim surat &quot;tak mengapa, terima kasih&quot; yang sopan kepada laman web dengan menandakan pilihan <a href="{ $url }">Jangan Jejak</a> { -brand-name-firefox }. Penyertaan adalah sukarela, tetapi laman web yang menyertai akan berhenti menjejaki anda dengan serta-merta.
-
 features-adblocker-speed-up-thanks-to-ad = Segera ucapkan terima kasih kepada penyekat iklan
 features-adblocker-in-some-cases-an-ad-blocker = Dalam sesetengah keadaan, penyekat iklan boleh membantu pelayar anda bergerak lebih pantas. Ketika iklan dimuatkan, ia boleh melambatkan laman web. Pada masa yang sama, mendapatkan sesuatu yang ingin dicari akan mengambil masa yang lebih lama kerana anda terlalu sibuk menutup iklan demi iklan.
 

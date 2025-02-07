@@ -67,12 +67,6 @@ features-adblocker-take-a-bite-out-of-cookies = Stoppe Cookies
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Cookies</a> werden von Websites gesendet, die du besuchst. Sie werden auf deinem Computer gespeichert und kontrollieren, was du auf einer Website getan hast. Wenn eine Fluggesellschaft den Preis für dich erhöht, weil du dir an diesem Tag einmal Flugtickets angesehen hast, ist dies die Arbeit eines Cookies.
 
 features-adblocker-in-firefox-you-can-block = In { -brand-name-firefox } kannst du alle Cookies von Drittanbietern oder nur die von Trackern gesetzten blockieren. Beachte, dass das Blockieren aller Cookies einige Websites stören kann.
-features-adblocker-send-a-do-not-track-signal = Sende ein Do-Not-Track-Signal
-
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Wenn du nicht möchtest, dass dein Online-Verhalten für Anzeigen verwendet wird, kannst du Websites eine höfliche Nachricht im Sinne von „Danke, aber nein danke“ senden, indem du die Option <a href="{ $url }">Do Not Track</a> in { -brand-name-firefox } aktivierst. Die Teilnahme ist freiwillig, aber die teilnehmenden Websites hören sofort auf, dich zu verfolgen.
-
 features-adblocker-speed-up-thanks-to-ad = Mehr Tempo dank Werbeblockern
 features-adblocker-in-some-cases-an-ad-blocker = In einigen Fällen kann ein Werbeblocker dazu beitragen, dass dein Browser schneller wird. Wenn eine Anzeige geladen wird, kann dies eine Website verlangsamen. Gleichzeitig dauert es länger, das Gesuchte zu finden, wenn du zu beschäftigt bist, eine weitere Anzeige zu schließen.
 

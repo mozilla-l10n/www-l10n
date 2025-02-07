@@ -67,12 +67,6 @@ features-adblocker-take-a-bite-out-of-cookies = Vous prendrez bien un cookie ?
 features-adblocker-cookies-are-sent-by-websites = Les <a href="{ $url }">cookies</a> vous sont envoyés par les sites que vous visitez. Ils sont actifs dans votre ordinateur et surveillent votre activité sur le site. Quand une compagnie aérienne vous affiche des propositions différentes parce que vous avez déjà cherché un billet d’avion ce jour-là, c’est à cause d’un cookie.
 
 features-adblocker-in-firefox-you-can-block = Dans { -brand-name-firefox }, vous pouvez bloquer tous les cookies tiers ou seulement ceux qui sont implantés par des traqueurs. Soyez bien conscients que bloquer tous les cookies peut empêcher l’accès à certains sites.
-features-adblocker-send-a-do-not-track-signal = Envoyer un signal Ne pas me pister
-
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Si vous ne souhaitez pas que votre comportement en ligne soit utilisé par les annonceurs, vous pouvez envoyer aux sites web une lettre de refus polie, en cochant l’option <a href="{ $url }"> Ne pas me pister</a> de { -brand-name-firefox }. La participation est volontaire, mais les sites web qui participent cesseront immédiatement de vous pister.
-
 features-adblocker-speed-up-thanks-to-ad = Navigation accélérée grâce aux bloqueurs de pub
 features-adblocker-in-some-cases-an-ad-blocker = Dans certains cas, un bloqueur de publicités peut aider votre navigateur à aller plus vite. Lorsqu’une annonce se charge, elle peut ralentir un site web. En outre, vous irez moins vite pour trouver ce que vous cherchez si vous passez votre temps à fermer annonce sur annonce.
 

@@ -67,12 +67,6 @@ features-adblocker-take-a-bite-out-of-cookies = Cookie を選び取る
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Cookie</a> は、ユーザーが訪問したウェブサイトから送信されます。ユーザーのコンピューターに常駐し、サイトでしている操作を監視します。過去に 1 度航空券を見たために航空会社が値上げしたとき、それは Cookie の仕業です。
 
 features-adblocker-in-firefox-you-can-block = { -brand-name-firefox } では、すべてのサードパーティ Cookie をブロックしたり、トラッカーが設定した Cookie だけをブロックしたりできます。すべての Cookie をブロックすると、一部のサイトが動作しなくなることがあるのでご注意ください。
-features-adblocker-send-a-do-not-track-signal = 追跡禁止信号を送る
-
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = オンラインでの操作を広告に利用されたくないときは、{ -brand-name-firefox } の [<a href="{ $url }">追跡禁止</a>] オプションをチェックすることで、ウェブサイトに丁重な拒否のメッセージを送ることができます。任意ですが、これに参加するウェブサイトはすぐに追跡を停止します。
-
 features-adblocker-speed-up-thanks-to-ad = 広告ブロッカーで高速化
 features-adblocker-in-some-cases-an-ad-blocker = 広告ブロッカーによってブラウザーが高速化することがあります。広告が読み込まれている間、ウェブサイトが重くなる可能性があります。同時に、広告を閉じる作業で忙しくなれば、探し物を見つけるのに時間がかかります。
 

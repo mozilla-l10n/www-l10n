@@ -67,12 +67,6 @@ features-adblocker-take-a-bite-out-of-cookies = Ambil sedikit kuki
 features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Kuki</a> dikirim oleh situs web yang Anda kunjungi. Mereka tinggal di komputer Anda dan memantau apa yang Anda lakukan di situs. Ketika sebuah maskapai menaikkan tarif Anda karena Anda telah melihat tiket pesawat sekali pada hari itu, itu adalah hasil karya kuki.
 
 features-adblocker-in-firefox-you-can-block = Di { -brand-name-firefox }, Anda dapat memblokir semua kuki pihak ketiga ataupun kuki yang dibawa oleh pelacak saja. Ketahuilah bahwa memblokir semua kuki dapat mengacaukan beberapa situs.
-features-adblocker-send-a-do-not-track-signal = Kirim sinyal Jangan Lacak
-
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
-features-adblocker-if-you-dont-want-your = Jika Anda tidak ingin perilaku daring Anda digunakan untuk iklan, Anda dapat mengirim situs web surat “terima kasih tapi tidak terima kasih” yang sopan dengan memeriksa opsi <a href="{ $url }">Jangan Lacak</a> dari { -brand-name-firefox }. Partisipasi bersifat sukarela, tetapi situs web yang berpartisipasi akan segera berhenti melacak Anda.
-
 features-adblocker-speed-up-thanks-to-ad = Semakin cepat berkat pemblokir iklan
 features-adblocker-in-some-cases-an-ad-blocker = Dalam beberapa kasus, pemblokir iklan dapat membantu peramban Anda berjalan lebih cepat. Ketika dimuat, iklan dapat memperlambat situs web. Pada saat yang sama, perlu waktu lebih lama untuk menemukan apa yang Anda cari jika Anda terlalu sibuk menutup iklan lainnya.
 
