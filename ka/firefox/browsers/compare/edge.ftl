@@ -8,7 +8,7 @@
 # Page title
 compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } თუ Microsoft Edge
 # HTML page description
-compare-edge-read-our-comparison = გაეცანით { -brand-name-firefox }-ისა და Edge ბრაუზერების შესაძლებლობების, პირადულობისა და მოხერხებულობის შედარებას.
+compare-edge-read-our-comparison = გაეცანით ჩვენს შედარებას, თუ რით განსხვავდება { -brand-name-firefox } და Edge შესაძლებლობების, პირადულობისა და მოხერხებულობის კუთხით.
 compare-edge-firefox-makes-privacy-protection = { -brand-name-firefox } პირადულობის დაცვას მარტივად და მოსახერხებელს ხდის, რომ არ მოგიწიოთ ფიქრი.
 compare-edge-we-block-trackers-by-default = ჩვენ ნაგულისხმევად ვზღუდავთ მეთვალყურეებს. Edge - არა.
 compare-edge-and-we-make-it-easy-for-you = და ჩვენ გაგიადვილებთ არჩევანის გაკეთებას, თუ რომელ საძიებო სისტემას იყენებთ ძიებისას. Edge საშუალებას გაძლევთ გაარკვეთ თქვენი პარამეტრებიდან, რომ გამოიყენოთ სხვა საძიებო სისტემა, Bing-ის გარდა.

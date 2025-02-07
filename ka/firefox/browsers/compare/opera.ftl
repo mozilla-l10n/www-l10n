@@ -8,7 +8,7 @@
 # Page title
 compare-opera-firefox-vs-opera = { -brand-name-firefox } vs Opera
 # HTML page description
-compare-opera-read-our-comparison = გაეცანით { -brand-name-firefox }-ისა და Opera-ბრაუზერების შესაძლებლობების, პირადულობისა და მოხერხებულობის შედარებას.
+compare-opera-read-our-comparison = გაეცანით ჩვენს შედარებას, თუ რით განსხვავდება { -brand-name-firefox } და Opera შესაძლებლობების, პირადულობისა და მოხერხებულობის კუთხით.
 # Variables:
 # $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
 compare-opera-firefoxs-default-privacy-settings = { -brand-name-firefox }-ის კონფიდენციალურობის ნაგულისხმევი პარამეტრები მეტად მძლავრია, ვიდრე Opera-ს – და ჩვენ უკვე გვაქვს მეტი შესაძლებლობა, ვებსაიტებისგან თქვენს თვალთვალზე ასარიდებლად, როგორიცაა <a { $fingerprint }>თითის ანაბეჭდის შეზღუდვა</a>.

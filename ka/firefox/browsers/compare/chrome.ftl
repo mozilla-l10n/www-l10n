@@ -19,4 +19,4 @@ compare-chrome-chrome-allows-other-websites-to = Chrome სხვა საი�
 compare-chrome-google-runs-the-worlds-largest = Google მართავს მსოფლიოში უდიდეს სარეკლამო ქსელს და Chrome ამის ნაწილია.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/switching-chrome-firefox
-compare-chrome-switching-to-firefox-is-easy = { -brand-name-firefox }-ზე გადასვლა მარტივი და სწრაფია — გადმოიტანეთ თქვენი Chrome-ის სანიშნები, პაროლები, ისტორია და პარამეტრები ერთი დაწკაპებით და მყისვე მზად იყავით { -brand-name-firefox }-ის გამოსაყენებლად. იხილეთ, <a { $howto }>როგორ გადართოთ Chrome-იდან { -brand-name-firefox }-ზე</a>.
+compare-chrome-switching-to-firefox-is-easy = { -brand-name-firefox }-ზე გადასვლა ადვილად და სწრაფად ხერხდება — გადმოიტანეთ თქვენი Chrome-ის სანიშნები, პაროლები, ისტორია თუ სხვა პარამეტრები ერთი დაწკაპებით და მყისვე შეძლებთ გამოიყენოთ { -brand-name-firefox }. იხილეთ, <a { $howto }>როგორ გადაერთოთ Chrome-იდან { -brand-name-firefox }-ზე</a>.
