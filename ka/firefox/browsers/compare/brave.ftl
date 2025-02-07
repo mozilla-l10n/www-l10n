@@ -10,8 +10,8 @@ compare-brave-firefox-vs-brave = { -brand-name-firefox } თუ Brave
 # HTML page description
 compare-brave-read-our-comparison = გაეცანით ჩვენს შედარებას, რით განსხვავდება { -brand-name-firefox } და Brave შესაძლებლობების, პირადულობისა და მოხერხებულობის კუთხით.
 # "Fiddling" means you have to make a lot of changes and adjustments to make it work correctly.
-compare-brave-firefoxs-privacy-settings-are = { -brand-name-firefox } თავისი პირადულობის დაცვის შესაძლებლობებით მძლავრი და ადვილი გამოსაყენებელია. Brave კი ნაგულისხმევი რეკლამების შემზღუდავით ზოგჯერ ვერ ახერხებს მონახულებული გვერდის სათანადოდ ჩვენებას, რის გამოც გიწევთ წვრილმანებში დროის ხარჯვა. ჩვენი მიზანია, პირადულობის დაცვა გავხადოთ საკმარისად მოსახერხებელი, რომ შეგეძლოთ, სათანადოდ <em>გამოიყენოთ</em>.
-compare-brave-firefox-makes-it-easy-for-you = { -brand-name-firefox } გიმარტივებთ საძიებო სისტემით არჩევისას ყოველი გამოყენებისას. Brave კი ნაგულისხმევად აყენებს საკუთარ საძიებო სისტემას და გიწევთ ბრაუზერის პარამეტრებში ჩახედვა სხვა რამის შესარჩევად.
+compare-brave-firefoxs-privacy-settings-are = { -brand-name-firefox } თავისი პირადულობის დაცვის შესაძლებლობებით მძლავრი და ადვილი გამოსაყენებელია. Brave კი ნაგულისხმევი რეკლამების შემზღუდავით ზოგჯერ ვერ ახერხებს მონახულებული გვერდის სათანადოდ ჩვენებას, რის გამოც გიწევთ წვრილმანებში დროის კარგვა. ჩვენი მიზანია, პირადულობის დაცვა გავხადოთ საკმარისად მოსახერხებელი, რომ შეგეძლოთ მისით <em>სარგებლობა</em>.
+compare-brave-firefox-makes-it-easy-for-you = { -brand-name-firefox } გიადვილებთ საძიებოს არჩევას ყოველი გამოყენებისას. Brave კი ნაგულისხმევად აყენებს საკუთარ საძიებოს და გიწევთ ბრაუზერის პარამეტრებში ძრომა სხვა რამის შესარჩევად.
 # Variables:
 # $primary (url) - link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
 compare-brave-firefox-gives-you-the-option = { -brand-name-firefox } საშუალებას გაძლევთ, დაშიფროთ შენახული პაროლები, ხოლო <a { $primary }>მათთან წვდომისთვის გამოიყენოთ მთავარი პაროლი</a>; თქვენი პაროლები დაცულია იმ შემთხვევაშიც, თუ კომპიუტერის სხვასთან გაზიარება გიწევთ. Brave არ იცავს თქვენს პაროლებს მსგავსი საშუალებით.
