@@ -22,3 +22,4 @@ features-adblocker-finding-the-right = Találja meg a megfelelő reklámblokkol�
 features-adblocker-there-are-many = Számos reklámblokkoló eszközt fedezhet fel, mindegyik más-más ízlésnek megfelelő funkciókat kínál. A megfelelő megtalálása az igényeitől és a böngészési szokásaitól függ. Íme néhány megfontolandó tipp:
 features-adblocker-tip-1 = <strong>Reklámok blokkolása:</strong> ha csak a hirdetéseket szeretné blokkolni, akkor válasszon egy egyszerű és könnyű lehetőséget.
 features-adblocker-tip-2 = <strong>Adatvédelmi aggályok:</strong> Ha aggódik a követők miatt, keressen egy beépített adatvédelmi funkciókkal rendelkező reklámblokkolót.
+features-adblocker-tip-3 = <strong>Testreszabhatóság:</strong> Egyes reklámblokkolók lehetővé teszik a finomhangolást, így bizonyos webhelyeknél kivételek állíthatók be, vagy egyes elemeket is blokkolhatnak.
