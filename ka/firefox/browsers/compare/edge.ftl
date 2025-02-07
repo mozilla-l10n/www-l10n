@@ -15,4 +15,4 @@ compare-edge-and-we-make-it-easy-for-you = ამასთანავე, ჩ�
 compare-edge-microsoft-has-to-make-their-shareholders = Microsoft ზრუნავს თავისი აქციონერების კმაყოფილებაზე, მაგრამ ჩვენ შეგვიძლია ძალისხმევა მივმაროთ მხოლოდ <strong>თქვენს</strong> კმაყოფილებაზე და უპირველეს ადგილას დავაყენოთ თქვენი პირადი მონაცემების უსაფრთხოება.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
-compare-edge-switching-to-firefox-is-easy = { -brand-name-firefox }-ზე გადასვლა მარტივი და სწრაფია — გადმოიტანეთ Edge-ის სანიშნეები, პაროლები, ისტორია და პარამეტრები ერთი დაწკაპებით და მყისვე მზად იყავით { -brand-name-firefox }-ის გამოსაყენებლად. აქ იხილავთ <a { $howto }>როგორ უნდა გამოიყენოთ იმპორტის ღილაკი გადასართავად</a>.
+compare-edge-switching-to-firefox-is-easy = { -brand-name-firefox }-ზე გადასვლა ადვილად და სწრაფად ხერხდება — გადმოიტანეთ თქვენი Edge-ის სანიშნები, პაროლები, ისტორია თუ სხვა პარამეტრები ერთი დაწკაპებით და მყისვე შეძლებთ გამოიყენოთ { -brand-name-firefox }. იხილეთ, <a { $howto }>როგორ გამოიყენოთ გადმოტანის ღილაკი გადმოსვლის გასაიოლებლად</a>.
