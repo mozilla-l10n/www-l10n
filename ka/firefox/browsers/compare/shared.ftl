@@ -18,6 +18,6 @@ compare-shared-edit-pdfs-on-the-go = <a { $pdf }>PDF-ის ჩასწორ�
 # $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>გვერდის თარგმნა</a> მოწყობილობაშივე და პირადულობის დაცვით.
 compare-shared-its-easy-to-switch = გადმოსვლა ადვილია
-compare-shared-since-we-dont-have-to-make = ვინაიდან, ჩვენ არ გვიწევს აქციონერებისბედნიერება, შეგვიძლია ყურადღება გავამახვილოთ <strong>თქვენი</strong> ბედნიერებაზე და ყოველთვის თქვენი პირადი მონაცემების და მოხერხებულობის უზრუნველყოფა უპირველესია.
+compare-shared-since-we-dont-have-to-make = ვინაიდან, ჩვენ არ გვიწევს აქციონერთა კმაყოფილებაზე ზრუნვა, შეგვიძლია ყურადღება დავუთმოთ <strong>თქვენს</strong> კმაყოფილებას და ყოველთვის თქვენი პირადი მონაცემები თუ მოთხოვნილებები დავაყენოთ უპირველეს ადგილას.
 # Used as a small link to a cited source
 compare-shared-source = წყარო
