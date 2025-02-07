@@ -8,7 +8,7 @@
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } თუ Google Chrome
 # HTML page description
-compare-chome-read-our-comparison = გაეცანით { -brand-name-firefox }-ისა და Chrome-ბრაუზერების შესაძლებლობების, პირადულობისა და მოხერხებულობის შედარებას.
+compare-chome-read-our-comparison = გაეცანით ჩვენს შედარებას, რით განსხვავდება { -brand-name-firefox } და Chrome შესაძლებლობების, პირადულობისა და მოხერხებულობის კუთხით.
 # Variables:
 # $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
 # $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
