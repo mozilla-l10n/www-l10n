@@ -38,7 +38,6 @@ m24-about-we-fund-and = Mozilla は、テクノロジー、インターネット
 
 m24-about-read-more = 詳しく読む
 m24-about-read-the-latest = { -brand-name-mozilla } の最新のニュースと記事を読む
-m24-about-14-ai-projects = 注目すべき 14 の AI プロジェクト: { -brand-name-mozilla } の初の「Builders Accelerator」コホートが開始
 m24-about-at-our-rise25 = Mozilla の { -brand-name-rise25 } アワードは、信頼でき、包摂的で、責任のある AI の未来を見つめます
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = トロフィーを指す { -brand-name-rise25 } 受賞者。

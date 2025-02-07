@@ -38,7 +38,6 @@ m24-about-we-fund-and = Kami mendanai dan berinvestasi pada talenta serta upaya 
 
 m24-about-read-more = Baca Selengkapnya
 m24-about-read-the-latest = Baca berita & artikel { -brand-name-mozilla } terbaru
-m24-about-14-ai-projects = 14 proyek AI yang patut diperhatikan: Kelompok pertama Builders Accelerator { -brand-name-mozilla }resmi dimulai
 m24-about-at-our-rise25 = { -brand-name-rise25 } Awards kami menyoroti masa depan AI yang tepercaya, inklusif, dan bertanggung jawab
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Penerima penghargaan { -brand-name-rise25 } menunjuk pialanya.

@@ -38,7 +38,6 @@ m24-about-we-fund-and = Nous attribuons nos financements et investissements aux 
 
 m24-about-read-more = En savoir plus
 m24-about-read-the-latest = Lisez les derniers articles d’actualité sur { -brand-name-mozilla }
-m24-about-14-ai-projects = 14 projets d’IA à surveiller : la première cohorte de l’accélérateur { -brand-name-mozilla } Builders est lancée
 m24-about-at-our-rise25 = Nos { -brand-name-rise25 } Awards récompensent les IA dignes de confiance, inclusives et responsables, pour un avenir meilleur
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Une récipiendaire du prix { -brand-name-rise25 } désignant son trophée du doigt.
