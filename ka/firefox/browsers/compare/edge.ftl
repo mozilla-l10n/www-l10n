@@ -11,8 +11,8 @@ compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } თუ Microsof
 compare-edge-read-our-comparison = გაეცანით ჩვენს შედარებას, თუ რით განსხვავდება { -brand-name-firefox } და Edge შესაძლებლობების, პირადულობისა და მოხერხებულობის კუთხით.
 compare-edge-firefox-makes-privacy-protection = { -brand-name-firefox } პირადულობის დაცვას იოლსა და მოსახერხებელს ხდის, ზედმეტად რომ არ იღელვოთ.
 compare-edge-we-block-trackers-by-default = ჩვენ ნაგულისხმევად ვზღუდავთ მეთვალყურეებს. Edge - არა.
-compare-edge-and-we-make-it-easy-for-you = და ჩვენ გაგიადვილებთ არჩევანის გაკეთებას, თუ რომელ საძიებო სისტემას იყენებთ ძიებისას. Edge საშუალებას გაძლევთ გაარკვეთ თქვენი პარამეტრებიდან, რომ გამოიყენოთ სხვა საძიებო სისტემა, Bing-ის გარდა.
-compare-edge-microsoft-has-to-make-their-shareholders = Microsoft-მა უნდა გაახაროს თავისი აქციონერები, მაგრამ ჩვენ შეგვიძლია ყურადღება გავამახვილოთ <strong>თქვენ</strong> ბედნიერებაზე და თქვენი პირადი მონაცემების დაცვაზე უწინარესობაზე.
+compare-edge-and-we-make-it-easy-for-you = ამასთანავე, ჩვენ გიადვილებთ არჩევანის შესაძლებლობას, რომელი საძიებო გსურთ გამოიყენოთ. Edge გაიძულებთ კარგად გაჩხრიკოთ პარამეტრები, რომ გაარკვიოთ, როგორ ჩაანაცვლოთ სხვა საძიებოთი თან მოყოლილი Bing.
+compare-edge-microsoft-has-to-make-their-shareholders = Microsoft ზრუნავს თავისი აქციონერების კმაყოფილებაზე, მაგრამ ჩვენ შეგვიძლია ძალისხმევა მივმაროთ მხოლოდ <strong>თქვენს</strong> კმაყოფილებაზე და უპირველეს ადგილას დავაყენოთ თქვენი პირადი მონაცემების უსაფრთხოება.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
 compare-edge-switching-to-firefox-is-easy = { -brand-name-firefox }-ზე გადასვლა მარტივი და სწრაფია — გადმოიტანეთ Edge-ის სანიშნეები, პაროლები, ისტორია და პარამეტრები ერთი დაწკაპებით და მყისვე მზად იყავით { -brand-name-firefox }-ის გამოსაყენებლად. აქ იხილავთ <a { $howto }>როგორ უნდა გამოიყენოთ იმპორტის ღილაკი გადასართავად</a>.
