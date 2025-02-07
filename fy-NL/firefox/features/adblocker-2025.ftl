@@ -21,3 +21,6 @@ features-adblocker-using-an-adblocker = It brûken fan in advertinsjeblokker is 
 features-adblocker-finding-the-right = De krekte advertinsjeblokker foar jo fine
 features-adblocker-there-are-many = Der is in protte ark foar advertinsjeblokkearjen om te ferkennen, elk biedt funksjes om oan te passen oan ferskate foarkarren. It finen fan it beste foar jo hinget ôf fan jo winsken en sneupgewoanten. Hjir binne in pear tips om te beskôgjen:
 features-adblocker-tip-1 = <strong>Advertinsjes blokkearje:</strong> as jo allinnich advertinsjes blokkearje wolle, kies dan in ienfâldige en lichtgewicht opsje.
+features-adblocker-tip-2 = <strong>Privacysoargen:</strong> as jo jo soargen meitsje oer trackers, sykje dan nei in advertinsjeblokkearder mei ynboude privacyfunksjes.
+features-adblocker-enhanced-privacy = Ferbettere privacy en prestaasjes mei { -brand-name-firefox }
+features-adblocker-why-use = Wêrom in adblokker brûke?
