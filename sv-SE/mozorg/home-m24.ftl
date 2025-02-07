@@ -61,9 +61,12 @@ m24-home-our-mission-is = Vårt uppdrag är att göra det enkelt för människor
 m24-home-alt-llamafile-logo = { -brand-name-llamafile } logotyp.
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = Kör stora språkmodeller (LLM) enkelt på din dator med { -brand-name-llamafile } — ingen installation behövs och din data förblir säker på din enhet.
-m24-home-alt-builders = Byggare
-m24-home-mozilla-builders = { -brand-name-mozilla } byggare
-m24-home-builders-helps-independent = Byggare hjälper oberoende utvecklare att skapa transformativa AI-projekt med öppen källkod genom skräddarsydda samarbeten, programmering och gemenskap.
+m24-home-alt-builders = Builders
+m24-home-alt-builders-v2 = { -brand-name-builders }
+m24-home-mozilla-builders = { -brand-name-mozilla } Builders
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+m24-home-builders-helps-independent = Builders hjälper oberoende utvecklare att skapa transformerande AI-projekt med öppen källkod genom skräddarsydda samarbeten, programmering och gemenskap.
+m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } hjälper oberoende utvecklare att skapa transformerande AI-projekt med öppen källkod genom skräddarsydda samarbeten, programmering och gemenskap.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } logotyp.
 m24-home-lumigator = { -brand-name-lumigator }

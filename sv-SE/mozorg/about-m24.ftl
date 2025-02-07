@@ -38,6 +38,7 @@ m24-about-we-fund-and = Vi finansierar och investerar i människorna och de insa
 
 m24-about-read-more = Läs mer
 m24-about-read-the-latest = Läs de senaste artiklarna och nyheterna om { -brand-name-mozilla }
+m24-about-builders-program = { -brand-name-mozilla-builders } hjälper utvecklare att skapa transformerande AI-projekt med öppen källkod genom samarbeten, programmering och gemenskap
 m24-about-at-our-rise25 = På våra { -brand-name-rise25 } Awards är framtiden för AI pålitlig, inkluderande och ansvarsfull
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = { -brand-name-rise25 } pristagare som pekar på sin trofé.
