@@ -10,7 +10,7 @@ compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } თუ Apple Sa
 # HTML page description
 compare-safari-read-our-comparison = გაეცანით ჩვენს შედარებას, თუ რით განსხვავდება { -brand-name-firefox } და Safari შესაძლებლობების, პირადულობისა და მოხერხებულობის კუთხით.
 compare-safari-safari-and-firefox-both-have = Safari და { -brand-name-firefox } ორივე აღჭურვილია პირადულობისა და უსაფრთხოების კარგი შესაძლებლობებით.
-compare-safari-but-firefox-also-has-built-in = მაგრამ { -brand-name-firefox } კიდევ შეიცავს ჩაშენებულ ხელსაწყოებს, მათ შორის:
+compare-safari-but-firefox-also-has-built-in = მაგრამ { -brand-name-firefox } კიდევ შეიცავს ჩაშენებულ ხელსაწყოებსაც, მათ შორის:
 compare-safari-firefox-offers-a-wide-range-of = { -brand-name-firefox } გთავაზობთ მორგების საშუალებების ფართო არჩევანს, მენიუსა და ხელსაწყოთა ზოლების ბრაუზერის ფანჯრის სხვადასხვა ადგილას გადატანით. Safari მეტად შეზღუდულია სამუშაო გარსის მორგების შესაძლებლობებით.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/importing-safari-data-firefox
