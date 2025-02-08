@@ -49,9 +49,25 @@ m24-home-builders-helps-independent = Builders gør det muligt for uafhængige u
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }-logo.
 m24-home-lumigator = { -brand-name-lumigator }
+m24-home-watch-now = Se nu
+# Used as an accessible text alternative for an image
+m24-home-alt-ventures = Taler på scene med flere produktlogoer.
+m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice-to-make = Donér din stemme for at gøre stemmeteknologi mere inkluderende og tilgængelig for alle.
+m24-home-donate-your-voice = Donér din stemme
 
 ## Media Springboard
 
+m24-home-type = Type
+m24-home-author = Forfatter
+m24-home-topic = Emne
+m24-home-tag-article = Artikel
+m24-home-tag-podcast = Podcast
+m24-home-tag-video = Video
+m24-home-topic-news = Nyheder
+m24-home-topic-ai = Kunstig intelligens
+m24-home-topic-ps = Privatliv og sikkerhed
 
 ## Showcase
 
