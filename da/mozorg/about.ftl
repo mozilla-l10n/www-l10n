@@ -31,6 +31,8 @@ about-read-the-manifesto = Læs vores manifest
 about-a-global-view = Et globalt overblik
 about-with-offices-all-over-the = Vi har <a href="{ $url }">kontorer over hele verden</a>, hvilket giver os mulighed for at forstå internettet ud fra mange forskellige kulturer og sammenhænge.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = Samtaler om tech-problemer IRL
+about-in-mozillas-multi-award-winning = I { -brand-name-mozilla }s prisbelønnede podcast taler værten Bridget Todd med de mennesker, der former fremtidens internet og AI.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> ikke-ansatte gæster besøger os hvert år
 about-berlin = Berlin
