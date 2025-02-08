@@ -98,10 +98,13 @@ m24-home-introducing-anonym = { -brand-name-anonym }: En højere standard for di
 m24-home-keeping-genai-technologies = Det er et fælles ansvar at sørge for, at GenAI-teknologier er sikre.
 m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } hylder banebrydende kreative mennesker i den nye dokumentarserie “{ -brand-name-firefox } Presents.”
 m24-home-big-techs-power = Store teknologivirksomheders magt over sproget betyder, at de har magt over mennesker. Bridget Todd taler med ledere fra sprog-fællesskaber, som baner vejen for stemme-AI på deres egne sprog og dialekter.
+m24-home-why-does-it = Hvorfor føles det nogle gange som om vi er en del af et gigantisk AI-eksperiment? Hvordan kan vi teste nye teknologier på en ansvarlig måde? Bridget Tood undersøger, hvad det betyder at leve med uprøvede AI-systemer, der berør millioner af menneskers liv i takt med at systemerne implementeres i det offentlige liv.
+m24-home-kids-are-growing = Børn vokser op i en verden, der er mere online end nogensinde. Hvad kan bekymrede forældre gøre?
 
 ## Showcase
 
 m24-home-rise25-awards = { -brand-name-rise25 }-priser
+m24-home-get-to-know = Lær mere om bannerførerne, der kæmper for at AI skal være pålidelig, inkluderende og transparent samtidig med at de sætter nye standarder og påvirker den næste generation af innovatører.
 m24-home-watch-the-award = Se prisuddelingen
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-proud = En stolt prismodtager ved { -brand-name-rise25 }.
@@ -109,6 +112,8 @@ m24-home-alt-rise25-proud = En stolt prismodtager ved { -brand-name-rise25 }.
 m24-home-alt-rise25-smiling = En selvsikker smilende taler ved { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = En glad prismodtager ved { -brand-name-rise25 }.
+m24-home-state-of-mozilla = State of { -brand-name-mozilla }
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } genopfinder sig selv ved at oprette nye organisationer, tænke annoncering på en ny måde og skabe et AI-økosystem baseret på open source. Læs mere i rapporten State of { -brand-name-mozilla } 2024
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstrakt pixelkunst i nuancer af grøn, orange og pink
 m24-home-read-the-report = Læs rapporten
@@ -117,9 +122,12 @@ m24-home-read-the-report = Læs rapporten
 
 # Used as an accessible text alternative for an image
 m24-home-alt-pni = Smarte enheder med forsigtighedsikon.
+m24-home-explore-issues-shaping = Bliv klogere på emner, der sætter rammerne for internettets fremtid
 m24-home-privacy-not-included = *Privatliv ikke inkluderet
+m24-home-search-our-reviews = Gennemgå vores anmeldelser for at finde ud af, hvilke teknologiske gadgets og apps der stjæler dine data uden at du lægger mærke til det.
 m24-home-pni-search-now = Søg nu
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, vært for IRL-podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = Lyt til vores prisvindende podcast og lær mere om de mennesker, der går forrest i kampen for at gøre internettet sikrere og AI mere pålidelig.
 m24-home-irl-listen-now = Lyt nu
