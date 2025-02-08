@@ -18,6 +18,11 @@ m24-home-learn-about-us = Læs mere om os
 
 m24-home-explore-our-products = Udforsk vores produkter
 m24-home-firefox = { -brand-name-firefox }
+m24-home-thunderbird = { -brand-name-thunderbird }
+m24-home-go-chaosfree-with = Gør dit liv enklere med én app til alle dine mails, kalendere og kontakter.
+m24-home-fakespot = { -brand-name-fakespot }
+m24-home-pocket = { -brand-name-pocket }
+m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 ## Donate
 
