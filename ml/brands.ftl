@@ -105,13 +105,17 @@
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
+-brand-name-gecko = ഗെക്കോ
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-festival = മോസില്ല ഉത്സവം
 -brand-name-mozilla-monitor = മോസില്ല മോണിറ്റർ
 -brand-name-mozilla-vpn = Mozilla VPN
+-brand-name-mozilla-account = മോസില്ല അക്കൗണ്ട്
 -brand-name-mozilla-accounts = മോസില്ല അക്കൗണ്ടുകൾ
 -brand-name-mozilla-social = Mozilla.social
+# Obsolete string (expires: 2025-01-05)
+-brand-name-mozilla-ai = മോസില്ല AI
 -brand-name-rise25 = ഉയർച്ച ൨൫
 -brand-name-thunderbird = Thunderbird
 
@@ -125,12 +129,17 @@
 ## Mozilla projects (legacy)
 
 -brand-name-mozilla-developer-network = മോസില്ല വികസനാക്താവുശ്യംഖലം
+-brand-name-mozilla-labs = മോസില്ല ലാബ്സ്
 -brand-name-hubs = Hubs
 -brand-name-lockwise = Lockwise
+-brand-name-lightbeam = ലൈറ്റ്ബീം
+-brand-name-maker-party = മേക്കർ പാർട്ടി
+-brand-name-webmaker = വെബ്മേക്കർ
 
 ## Open Source projects
 
 -brand-name-rust = Rust
+-brand-name-webassembly = WebAssembly
 
 ## Other browsers
 
@@ -140,10 +149,12 @@
 -brand-name-ie = Internet Explorer
 -brand-name-opera = Opera
 -brand-name-safari = Safari
+-brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
 -brand-name-android = Android
+-brand-name-chromeos = ക്രോം OS
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
@@ -158,6 +169,7 @@
 -brand-name-app-store = App Store
 -brand-name-ipad = iPad
 -brand-name-iphone = iPhone
+-brand-name-test-flight = TestFlight
 
 ## Amazon products
 
@@ -165,7 +177,9 @@
 
 ## Facebook products
 
+-brand-name-facebook-messenger = ഫെയ്സ്ബുൿ മെസഞ്ചർ
 -brand-name-instagram = Instagram
+-brand-name-messenger = മെസ്സെൻജെർ
 -brand-name-workplace = പണിയിടം
 
 ## Google products

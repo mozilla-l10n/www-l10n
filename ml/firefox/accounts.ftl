@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
+firefox-accounts-already-have-an-account = നിലവിൽ ഒരു അക്കൗണ്ട് ഉണ്ടോ?
 firefox-accounts-sign-in = പ്രവേശിക്കുക
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
