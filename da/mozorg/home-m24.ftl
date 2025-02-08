@@ -8,21 +8,32 @@
 # HTML Page title
 m24-home-page-title = Internet for folk, ikke profit — { -brand-name-mozilla }
 m24-home-page-title-v2 = { -brand-name-mozilla } — Internet for folk, ikke profit
+# HTML page description
+m24-home-page-desc = { -brand-name-mozilla } — dem, der laver { -brand-name-firefox } — kæmper for at bevare internettet som en global, offentlig ressource, der er åben og tilgængelig for alle.
+m24-home-page-desc-v2 = Vi arbejder for at give kontrollen over internettet tilbage til dem, som bruger det.
 
 ## Intro
 
 m24-home-welcome-to-mozilla = Velkommen til { -brand-name-mozilla }
 m24-home-learn-about-us = Læs mere om os
+# Used as accessible text alternative for image
+m24-home-alt-flag = Et stiliseret grønt flag på en sort baggrund, skabt af bogstavet ‘M’ for { -brand-name-mozilla } og en pixel, der er forskudt for at referere til { -brand-name-mozilla }s oprindelige dinosaurlogo.
 
 ## Products
 
+m24-home-love-the-internet = Elsk internettet igen
+m24-home-break-free-from = Sig farvel til de store teknologivirksomheder – vores produkter giver dig kontrollen tilbage, bedre sikkerhed og et bedre beskyttet privatliv
 m24-home-explore-our-products = Udforsk vores produkter
 m24-home-firefox = { -brand-name-firefox }
+m24-home-get-the-gold = Få en hurtig browser, der beskytter dit privatliv og sætter dig i førersædet.
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-go-chaosfree-with = Gør dit liv enklere med én app til alle dine mails, kalendere og kontakter.
 m24-home-fakespot = { -brand-name-fakespot }
+m24-home-spot-fake-reviews = Undgå forfalskede anmeldelser, dårlige produkter og upålidelige sælgere.
 m24-home-pocket = { -brand-name-pocket }
+m24-home-save-the-internets = Gem internettets bedste indhold på alle dine enheder — for hvem har tid til at læse alt lige nu?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-keep-your-location = Skjul din placering og dine handlinger på nettet — stream som om du var hjemme, uanset hvor du er.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 
