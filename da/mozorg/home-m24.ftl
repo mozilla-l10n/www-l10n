@@ -16,6 +16,8 @@ m24-home-learn-about-us = Læs mere om os
 
 ## Products
 
+m24-home-explore-our-products = Udforsk vores produkter
+m24-home-firefox = { -brand-name-firefox }
 
 ## Donate
 
