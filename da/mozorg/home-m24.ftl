@@ -69,7 +69,11 @@ m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } gør d
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }-logo.
 m24-home-lumigator = { -brand-name-lumigator }
+m24-home-find-the-just = Find den rigtige LLM til dine behov, anvendelsesområder og data.
+# Used as an accessible text alternative for an image
+m24-home-alt-trustworthy = Mark Surman, formand for { -brand-name-mozilla }.
 m24-home-can-ai-be = Kan AI være pålidelig?
+m24-home-in-a-world = I en verden, hvor udvikling af AI er drevet af en lille, lukket kreds, risikerer vi at teknologien bliver monopoliseret. Det kan ændres ved at bruge koncepter fra open source.
 m24-home-watch-now = Se nu
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Taler på scene med flere produktlogoer.
