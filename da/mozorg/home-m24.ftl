@@ -71,6 +71,14 @@ m24-home-topic-ps = Privatliv og sikkerhed
 
 ## Showcase
 
+m24-home-rise25-awards = { -brand-name-rise25 }-priser
+m24-home-watch-the-award = Se prisuddelingen
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = En stolt prismodtager ved { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = En selvsikker smilende taler ved { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = En glad prismodtager ved { -brand-name-rise25 }.
 
 ## Issues
 
