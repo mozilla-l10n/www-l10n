@@ -28,7 +28,7 @@ m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
 
-m24-home-donate-to-the = Doner til non-profit organisationen { -brand-name-mozilla }
+m24-home-donate-to-the = Donér til non-profit organisationen { -brand-name-mozilla }
 m24-home-were-proudly-nonprofit = Vi er en nonprofit-organisation og stolte af det. Vil du donere til { -brand-name-mozilla } i dag?
 m24-home-donate = Donér
 
@@ -44,7 +44,9 @@ m24-home-get-started = Kom i gang
 m24-home-alt-llamafile-logo = { -brand-name-llamafile }-logo
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-alt-builders = Builders
+m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders gør det muligt for uafhængige udviklere at skabe transformative open source-AI-projekter gennem skræddersyede samarbejder, programmering og fællesskab.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }-logo.
@@ -62,6 +64,7 @@ m24-home-donate-your-voice = Donér din stemme
 m24-home-type = Type
 m24-home-author = Forfatter
 m24-home-topic = Emne
+m24-home-intro = Introduktion
 m24-home-tag-article = Artikel
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Video
@@ -79,6 +82,17 @@ m24-home-alt-rise25-proud = En stolt prismodtager ved { -brand-name-rise25 }.
 m24-home-alt-rise25-smiling = En selvsikker smilende taler ved { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = En glad prismodtager ved { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = Abstrakt pixelkunst i nuancer af grøn, orange og pink
+m24-home-read-the-report = Læs rapporten
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Smarte enheder med forsigtighedsikon.
+m24-home-privacy-not-included = *Privatliv ikke inkluderet
+m24-home-pni-search-now = Søg nu
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = Bridget Todd, vært for IRL-podcast.
+m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-irl-listen-now = Lyt nu
