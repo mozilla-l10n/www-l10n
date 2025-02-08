@@ -35,11 +35,14 @@ m24-home-save-the-internets = Gem internettets bedste indhold på alle dine enhe
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-keep-your-location = Skjul din placering og dine handlinger på nettet — stream som om du var hjemme, uanset hvor du er.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+m24-home-get-a-headsup = Få besked og forhåndsregler, hvis dine personlige oplysninger er i fare.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
+m24-home-mask-your-email = Masker din mailadresse og dit telefonnummer, så du kun modtager de meddelelser, du ønsker.
 
 ## Donate
 
 m24-home-donate-to-the = Donér til non-profit organisationen { -brand-name-mozilla }
+m24-home-mozilla-is-building = { -brand-name-mozilla } bygger et fællesskab for at vinde internettet tilbage. Sammen kan vi skabe en fremtid, hvor vores privatliv er beskyttet, AI er pålidelig og uansvarlige teknologivirksomheder bliver stillet til ansvar. Men det er kun muligt, hvis vi gør det sammen.
 m24-home-were-proudly-nonprofit = Vi er en nonprofit-organisation og stolte af det. Vil du donere til { -brand-name-mozilla } i dag?
 m24-home-donate = Donér
 
@@ -51,21 +54,27 @@ m24-home-tag-program = Program
 m24-home-tag-event = Begivenhed
 m24-home-read-more = Læs mere
 m24-home-get-started = Kom i gang
+m24-home-join-the-movement = Bliv en del af fællesskabet:<br> AI for folket
+m24-home-our-mission-is = Vores mission er at gøre det nemt for folk at bruge og samarbejde omkring AI, der er open source og pålidelig.
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = { -brand-name-llamafile }-logo
 m24-home-llamafile = { -brand-name-llamafile }
+m24-home-run-large-language = Kør nemt store sprogmodeller (LLM'er) på din computer med { -brand-name-llamafile } — ingen installation er nødvendig og dine data forbliver sikre på din enhed.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders gør det muligt for uafhængige udviklere at skabe transformative open source-AI-projekter gennem skræddersyede samarbejder, programmering og fællesskab.
+m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } gør det muligt for uafhængige udviklere at skabe transformative open source-AI-projekter gennem skræddersyede samarbejder, programmering og fællesskab.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }-logo.
 m24-home-lumigator = { -brand-name-lumigator }
+m24-home-can-ai-be = Kan AI være pålidelig?
 m24-home-watch-now = Se nu
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Taler på scene med flere produktlogoer.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-got-an-earlystage = Er I en start-up i den tidlige fase? Præsenter jeres virksomhed for { -brand-name-mozilla-ventures } og få finansiering til at arbejde for positive ændringer i forhold til fremtiden for AI og internettet.
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Donér din stemme for at gøre stemmeteknologi mere inkluderende og tilgængelig for alle.
 m24-home-donate-your-voice = Donér din stemme
@@ -82,6 +91,13 @@ m24-home-tag-video = Video
 m24-home-topic-news = Nyheder
 m24-home-topic-ai = Kunstig intelligens
 m24-home-topic-ps = Privatliv og sikkerhed
+# Obsolete string (expires: 2025-02-03)
+m24-home-headline-you-ai = Overskrift: AI, internettet og dig — hvad foregår der egentlig?
+m24-home-headline-you-ai-v2 = AI, internettet og dig — hvad foregår der egentlig?
+m24-home-introducing-anonym = { -brand-name-anonym }: En højere standard for digital annoncering, som respekterer folks privatliv.
+m24-home-keeping-genai-technologies = Det er et fælles ansvar at sørge for, at GenAI-teknologier er sikre.
+m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } hylder banebrydende kreative mennesker i den nye dokumentarserie “{ -brand-name-firefox } Presents.”
+m24-home-big-techs-power = Store teknologivirksomheders magt over sproget betyder, at de har magt over mennesker. Bridget Todd taler med ledere fra sprog-fællesskaber, som baner vejen for stemme-AI på deres egne sprog og dialekter.
 
 ## Showcase
 
