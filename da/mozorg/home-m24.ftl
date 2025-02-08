@@ -12,6 +12,7 @@ m24-home-page-title-v2 = { -brand-name-mozilla } — Internet for folk, ikke pro
 ## Intro
 
 m24-home-welcome-to-mozilla = Velkommen til { -brand-name-mozilla }
+m24-home-learn-about-us = Læs mere om os
 
 ## Products
 
