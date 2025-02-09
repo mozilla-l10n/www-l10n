@@ -35,6 +35,7 @@ m24-about-we-fund-and = Finanziamu e mmistemu nnî genti e nnî pruggetti chi p�
 
 m24-about-read-more = Cchiù nfurmazzioni
 m24-about-read-the-latest = Leggi l'ùrtimi nutizzi e artìculi ncapu a { -brand-name-mozilla }
+m24-about-builders-program = { -brand-name-mozilla-builders } ajuta i sbiluppatura a criari pruggetti nnuvativi di NA a còdici graputu pi tràmiti di cullabburazzioni, prugrammazzioni e cumunità.
 m24-about-at-our-rise25 = Ê nostri premi { -brand-name-rise25 }, u futuru dâ NA è affidàbbili, rispunzàbbili e chi cunzìdira a tutti.
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Na vincitrici dû premiu { -brand-name-rise25 } chi mustra u so trufeu.

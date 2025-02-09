@@ -128,6 +128,9 @@ firefox-desktop-download-from-security-to = Dâ sicurizza, ê nutizzi ê jòcura
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } fu criatu di <a { $attrs }>{ -brand-name-mozilla }</a> comu un navicaturi cchiù lestu e privatu di autri, a tipu { -brand-name-ie } e { -brand-name-chrome }. Oji a nostra cumpagnìa e a nostra cumunità di vuluntari ànnu na missioni: a to privatizza veni prima di tuttu.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
+firefox-desktop-download-as-the-internet = Sicutannu a riti chi crisci e cancia, { -brand-name-firefox } cuntinua a cuncintràrisi ncapu ô to dirittu â privatizza — a chiamamu <a { $attrs }>Prumisa dî Dati Pirsunali</a>: ricògghiri cchiù picca dati, tinìrili ô sicuru, nuḍḍu sicritu. I to dati, a to attività e a to vita 'n linia sunnu prutetti di { -brand-name-firefox }.
+# Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } è dispunìbbili nna tutti i to dispusitivi: pòrtati appressu i schedi, a crunuluggìa e i nzingalibbra. Tuttu chiḍḍu chi serbi è un <a { $attrs }>{ -brand-name-mozilla-account }</a> p'aviri accessu â sincrunizzazzioni e a l'autri prudutti { -brand-name-mozilla }.
 # Variables:
