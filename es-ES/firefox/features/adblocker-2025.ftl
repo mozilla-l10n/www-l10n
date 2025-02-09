@@ -26,3 +26,4 @@ features-adblocker-tip-3 = <strong>Personalización:</strong> algunos bloqueador
 features-adblocker-tip-4 = <strong>Compatibilidad del dispositivo:</strong> considera si lo necesitas para ordenador de escritorio, dispositivo móvil o ambos.
 features-adblocker-tip-5 = <strong>Bloqueo de malware:</strong> algunos bloqueadores de anuncios protegen contra anuncios maliciosos (por ejemplo, AdGuard).
 features-adblocker-tip-6 = <strong>Controles parentales:</strong> son útiles si quieres bloquear contenido inapropiado.
+features-adblocker-why-use = ¿Por qué utilizar un bloqueador de anuncios?
