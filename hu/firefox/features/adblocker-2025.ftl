@@ -26,3 +26,5 @@ features-adblocker-tip-3 = <strong>Testreszabhatóság:</strong> Egyes reklámbl
 features-adblocker-tip-4 = <strong>Eszközkompatibilitás:</strong> Fontolja meg, hogy asztali gépen, mobilon vagy mindkettőn van-e rá szüksége.
 features-adblocker-tip-5 = <strong>Kártékony programok blokkolása:</strong> Egyes reklámblokkolók (például az AdGuard) védelmet nyújtanak a rosszindulatú hirdetések ellen.
 features-adblocker-tip-6 = <strong>Szülői felügyelet:</strong> Hasznos, ha blokkolni akarja a nem megfelelő tartalmakat.
+features-adblocker-enhanced-privacy = Fokozott adatvédelem és teljesítmény a { -brand-name-firefox } segítségével
+features-adblocker-why-use = Miért használjon reklámblokkolót?
