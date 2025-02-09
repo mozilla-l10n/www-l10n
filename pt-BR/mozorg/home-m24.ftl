@@ -57,6 +57,8 @@ m24-home-our-mission-is = Nossa missão é facilitar para as pessoas criar e col
 m24-home-alt-llamafile-logo = Logotipo do { -brand-name-llamafile }.
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = Execute grandes modelos de idioma (LLM) facilmente em seu computador com o { -brand-name-llamafile }. Não precisa instalar nada e seus dados permanecem seguros em seu dispositivo.
+m24-home-alt-builders-v2 = { -brand-name-builders }
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logotipo do { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
@@ -86,7 +88,10 @@ m24-home-tag-video = Vídeo
 m24-home-topic-news = Notícias
 m24-home-topic-ai = Inteligência artificial
 m24-home-topic-ps = Privacidade e Segurança
+m24-home-headline-you-ai-v2 = Você, inteligência artificial e a internet — o que realmente está acontecendo?
 m24-home-keeping-genai-technologies = Garantir a segurança das tecnologias de inteligência artificial generativa é responsabilidade de todos.
+m24-home-from-hollywood-to = De Hollywood ao hip hop, artistas estão negociando o consentimento de uso de inteligência artificial.
+m24-home-mozilla-celebrates-groundbreaking = A { -brand-name-mozilla } celebra criadores inovadores na nova série documental “{ -brand-name-firefox } apresenta”.
 m24-home-big-techs-power = O domínio das grandes empresas de tecnologia sobre a linguagem resulta em controle sobre as pessoas. Bridget Todd entrevista líderes de comunidades linguísticas que abrem caminho para inteligência artificial de voz em seus próprios idiomas e dialetos.
 m24-home-why-does-it = Por que muitas vezes parece que fazemos parte de um experimento de inteligência artificial em massa? Qual é a maneira responsável de testar novas tecnologias? Bridget Todd examina o que significa viver com sistemas de inteligência artificial não comprovados que afetam milhões de pessoas à medida que são implementados na vida cotidiana.
 m24-home-kids-are-growing = As crianças estão crescendo em um mundo altamente virtual. O que pais preocupados podem fazer?
@@ -102,6 +107,10 @@ m24-home-alt-rise25-proud = Um ganhador orgulhoso de si no { -brand-name-rise25 
 m24-home-alt-rise25-smiling = Um palestrante sorridente e confiante no { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Uma alegre ganhadora no { -brand-name-rise25 }.
+m24-home-state-of-mozilla = Estado da { -brand-name-mozilla }
+m24-home-mozilla-is-reinventing-itself = A { -brand-name-mozilla } está se reinventando, diversificando em torno de uma constelação de organizações, reimaginando a publicidade e criando um ecossistema de inteligência artificial de código aberto. Leia sobre isso no Relatório do Estado da { -brand-name-mozilla } de 2024.
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = Arte com pontos abstrata em tons de verde, laranja e rosa.
 
 ## Issues
 
