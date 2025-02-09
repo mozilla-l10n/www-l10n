@@ -9,6 +9,7 @@ firefox-channel-desktop = Мизи корӣ
 firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
 firefox-channel-take-a-browse-on-the-wild-side = Ояндаи браузереро ҳаматарафа кӯшиш кунед.
+firefox-channel-be-among-the-first-to-explore = Дар қатори аввалинҳо буда, релизҳои ояндаи браузери «{ -brand-name-firefox }»-ро барои компютерҳои мизи корӣ, низомҳои «{ -brand-name-android }» ва «{ -brand-name-ios }» боргирӣ ва озмоиш намоед.
 firefox-channel-see-something-that-isnt-working = Чизеро мебинед, ки кор намекунад? Ба мо хабар диҳед.
 firefox-channel-file-a-bug-now = Гузориши фаврӣ дар бораи хато
 firefox-channel-tips-for-filing-a-bug = Маслиҳатҳо барои таҳия кардани гузориш дар бораи хатоҳо
