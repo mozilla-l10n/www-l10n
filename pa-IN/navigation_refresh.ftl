@@ -27,6 +27,8 @@ navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
 # Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
+# Obsolete string (expires: 2025-01-05)
+navigation-refresh-mozilla-ventures = { -brand-name-mozilla } ਮੁਹਿੰਮਾਂ
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } ਇਸ਼ਤਿਹਾਰਬਾਜ਼ੀ
 
