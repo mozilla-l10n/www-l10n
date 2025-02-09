@@ -45,6 +45,10 @@ vpn-pricing-refund-policy = Qual'è a pulìtica pi fàrisi turnari i sordi di { 
 vpn-pricing-the-first-time-you = A prima vota chi fai l'abbunamentu a { -brand-name-mozilla-vpn } dû situ di { -brand-name-mozilla }, si scancelli u to cuntu nnî primi 30 jorna, po' fari dumanna d'aviri nn'arrè i sordi e { -brand-name-mozilla } ti torna i sordi dû to primu abbunamentu.
 vpn-pricing-if-you-purchased = Si accattasti l'abbunamentu di l'App Store o di Google Play Store, u to pagamentu è suggettu ê tèrmini e cunnizzioni dû nigozziu. Avissi a fari dumanna p'aviri i sordi nn'arrè a Apple o Google.
 vpn-pricing-what-information = Chi nfurmazzioni sarba { -brand-name-mozilla-vpn }?
+# Variables
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-pricing-we-adhere-strictly = Sicutamu stritti i <a { $principles }>Principi di Privatizza dî Dati</a> di { -brand-name-mozilla }. Ricugghiemu sulu i dati chi ni sèrbinu pi fari funziunari a { -brand-name-mozilla-vpn } e ammigghiurari u pruduttu. Trazzamu macari i dati dî campagni pubblicitari e di rifirimentu nnâ nostra app mòbbili p'ajutari { -brand-name-mozilla } a valutari l'efficacia dî nostri pubblicità. Pi sapìrinni cchiù assai, leggi a nostra <a { $notice }>Pulìtica di Privatizza</a>.
 vpn-pricing-how-do-i-manage = Comu maniju u me abbunamentu, e comu canciu u me chianu?
 # Variables
 # $manage (url) - link to subscription management page
