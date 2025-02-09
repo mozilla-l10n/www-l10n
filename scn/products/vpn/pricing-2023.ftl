@@ -57,3 +57,4 @@ vpn-pricing-scan-qrcode-to-download-android = Pi scarricari l'app, scanziuna u c
 vpn-pricing-sign-up-on-your-mobile-device = Scrìviti pi n'abbunamentu a { -brand-name-mozilla-vpn } pû to dispusitivu mòbbili
 vpn-pricing-sign-up-on-your-android-device = Scrìviti pi n'abbunamentu a { -brand-name-mozilla-vpn } pû to dispusitivu Android
 vpn-pricing-download-the-app = Scàrrica l'app
+vpn-pricing-transaction-may-be-in = * L'addèbbitu putissi èssiri cu l'apparaggiu dâ valuta lucali.
