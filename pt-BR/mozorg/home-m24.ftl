@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/
 
+# HTML Page title
+m24-home-page-title = Internet para pessoas, sem fins lucrativos — { -brand-name-mozilla }
 m24-home-page-title-v2 = { -brand-name-mozilla } — Internet para pessoas, sem fins lucrativos
 # HTML page description
 m24-home-page-desc = Você sabia? A { -brand-name-mozilla }, criadora do { -brand-name-firefox }, luta para manter a internet um recurso público global, aberto e acessível a todos.
@@ -59,6 +61,7 @@ m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = Execute grandes modelos de idioma (LLM) facilmente em seu computador com o { -brand-name-llamafile }. Não precisa instalar nada e seus dados permanecem seguros em seu dispositivo.
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+m24-home-builders-helps-independent-v2 = O { -brand-name-mozilla-builders } ajuda desenvolvedores independentes a criar projetos transformadores de inteligência artificial de código aberto por meio de colaborações sob medida, programação e comunidade.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logotipo do { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
@@ -88,7 +91,10 @@ m24-home-tag-video = Vídeo
 m24-home-topic-news = Notícias
 m24-home-topic-ai = Inteligência artificial
 m24-home-topic-ps = Privacidade e Segurança
+# Obsolete string (expires: 2025-02-03)
+m24-home-headline-you-ai = Título: Você, inteligência artificial e a internet — o que realmente está acontecendo?
 m24-home-headline-you-ai-v2 = Você, inteligência artificial e a internet — o que realmente está acontecendo?
+m24-home-introducing-anonym = Apresentamos o { -brand-name-anonym }: Elevando o patamar da publicidade digital com preservação da privacidade.
 m24-home-keeping-genai-technologies = Garantir a segurança das tecnologias de inteligência artificial generativa é responsabilidade de todos.
 m24-home-from-hollywood-to = De Hollywood ao hip hop, artistas estão negociando o consentimento de uso de inteligência artificial.
 m24-home-mozilla-celebrates-groundbreaking = A { -brand-name-mozilla } celebra criadores inovadores na nova série documental “{ -brand-name-firefox } apresenta”.

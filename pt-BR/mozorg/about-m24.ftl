@@ -66,3 +66,5 @@ m24-about-see-open-positions = Ver cargos disponíveis
 ## Community
 
 m24-about-community-love-v2 = Amor da comunidade, nossa força motriz
+# Used as an accessible text alternative for an image
+m24-about-alt-community = Pessoa com uma bolsa para notebook e um cordão de segurança da { -brand-name-mozilla }.

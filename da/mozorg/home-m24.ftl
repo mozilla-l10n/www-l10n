@@ -15,6 +15,7 @@ m24-home-page-desc-v2 = Vi arbejder for at give kontrollen over internettet tilb
 ## Intro
 
 m24-home-welcome-to-mozilla = Velkommen til { -brand-name-mozilla }
+m24-home-from-trustworthy-tech = Fra troværdig teknologi til beskyttelse af dine digitale rettigheder - vi sætter altid dig først.
 m24-home-learn-about-us = Læs mere om os
 # Used as accessible text alternative for image
 m24-home-alt-flag = Et stiliseret grønt flag på en sort baggrund, skabt af bogstavet ‘M’ for { -brand-name-mozilla } og en pixel, der er forskudt for at referere til { -brand-name-mozilla }s oprindelige dinosaurlogo.
@@ -100,6 +101,7 @@ m24-home-headline-you-ai = Overskrift: AI, internettet og dig — hvad foregår 
 m24-home-headline-you-ai-v2 = AI, internettet og dig — hvad foregår der egentlig?
 m24-home-introducing-anonym = { -brand-name-anonym }: En højere standard for digital annoncering, som respekterer folks privatliv.
 m24-home-keeping-genai-technologies = Det er et fælles ansvar at sørge for, at GenAI-teknologier er sikre.
+m24-home-from-hollywood-to = Fra Hollywood til hip-hop-kunstnere forhandles der om AI-samtykke
 m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } hylder banebrydende kreative mennesker i den nye dokumentarserie “{ -brand-name-firefox } Presents.”
 m24-home-big-techs-power = Store teknologivirksomheders magt over sproget betyder, at de har magt over mennesker. Bridget Todd taler med ledere fra sprog-fællesskaber, som baner vejen for stemme-AI på deres egne sprog og dialekter.
 m24-home-why-does-it = Hvorfor føles det nogle gange som om vi er en del af et gigantisk AI-eksperiment? Hvordan kan vi teste nye teknologier på en ansvarlig måde? Bridget Tood undersøger, hvad det betyder at leve med uprøvede AI-systemer, der berør millioner af menneskers liv i takt med at systemerne implementeres i det offentlige liv.
