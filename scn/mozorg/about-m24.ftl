@@ -59,6 +59,7 @@ m24-about-alt-drinking-coffee = Na dipinnenti di { -brand-name-mozilla } chi si 
 # Used as an accessible text alternative for an image
 m24-about-alt-collaborating = Dipinnenti di { -brand-name-mozilla } chi cullàbburanu.
 m24-about-join-us-and = Jùnciti cu nuiautri e fai a diffirenza
+m24-about-join-our-team = Jùnciti â nostra squatra e ammutta i finàiti di soccu poi fari — senza cumprimèttiri chiḍḍu chi è veru mpurtanti.
 m24-about-see-open-positions = Vidi i posti dispunìbbili
 
 ## Community
