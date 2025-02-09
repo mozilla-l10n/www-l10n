@@ -27,6 +27,7 @@ features-adblocker-tip-4 = <strong>设备兼容性：</strong>考虑需要用于
 features-adblocker-tip-5 = <strong>恶意软件拦截：</strong>有些广告拦截器（例如 AdGuard）可保护用户免受恶意广告侵害。
 features-adblocker-tip-6 = <strong>家长控制：</strong>若希望屏蔽不适宜的内容，此类功能会相当实用。
 features-adblocker-its-important-to-note = 请务必注意，部分网站依靠广告来加载内容或提供功能，此时拦截广告可能会导致功能失效（例如无法播放视频或登录），因此请选用经常更新的广告拦截器。若发现广告拦截器引起了显著问题，请尝试改用其他产品，以兼顾拦截效果和兼容性。
+features-adblocker-enhanced-privacy = { -brand-name-firefox } 的隐私保护和性能更胜以往
 features-adblocker-beyond-ad-blockers = 在广告拦截器之外，{ -brand-name-firefox } 也提供内置功能，供您更有力地掌控浏览体验。这些工具不仅能保护隐私，更可让您定制适合自己的体验。
 features-adblocker-tool-1 = <strong>标准模式：</strong>平衡的选项，可拦截常见跟踪器，同时保持网站正常运行。
 features-adblocker-tool-2 = <strong>严格模式：</strong>适合对隐私保护有更高需求的用户，会拦截更多跟踪器和 Cookie。请注意，启用此模式后，可能需对部分网站进行调整。
