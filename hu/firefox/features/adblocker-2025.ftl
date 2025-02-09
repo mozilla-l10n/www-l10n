@@ -23,3 +23,6 @@ features-adblocker-there-are-many = Számos reklámblokkoló eszközt fedezhet f
 features-adblocker-tip-1 = <strong>Reklámok blokkolása:</strong> ha csak a hirdetéseket szeretné blokkolni, akkor válasszon egy egyszerű és könnyű lehetőséget.
 features-adblocker-tip-2 = <strong>Adatvédelmi aggályok:</strong> Ha aggódik a követők miatt, keressen egy beépített adatvédelmi funkciókkal rendelkező reklámblokkolót.
 features-adblocker-tip-3 = <strong>Testreszabhatóság:</strong> Egyes reklámblokkolók lehetővé teszik a finomhangolást, így bizonyos webhelyeknél kivételek állíthatók be, vagy egyes elemeket is blokkolhatnak.
+features-adblocker-tip-4 = <strong>Eszközkompatibilitás:</strong> Fontolja meg, hogy asztali gépen, mobilon vagy mindkettőn van-e rá szüksége.
+features-adblocker-tip-5 = <strong>Kártékony programok blokkolása:</strong> Egyes reklámblokkolók (például az AdGuard) védelmet nyújtanak a rosszindulatú hirdetések ellen.
+features-adblocker-tip-6 = <strong>Szülői felügyelet:</strong> Hasznos, ha blokkolni akarja a nem megfelelő tartalmakat.
