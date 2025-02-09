@@ -100,6 +100,7 @@ firefox-desktop-download-tweak-your-settings = Cancia i to paràmitri
 firefox-desktop-download-theres-no-need = Nun t'hâ cunfurmari pi forza. Cancia a pàggina dâ scheda nova, a barra di risciduta, i nzingalibbra e cchiù assai cosi pi navicari nnâ riti dâ manera chi vo' tu.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Criatu di l'urganizzazzioni <strong>senza scopu di lucru</strong> chi metti i genti ô primu postu
+firefox-desktop-download-challenging-the-status = Sfidamu u status quo dû 1998
 firefox-desktop-download-your-privacy-comes = A to privatizza veni prima
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Manteni tutti i funziunalità chi prifirisci — e <strong>scòprinni</strong> di novi.

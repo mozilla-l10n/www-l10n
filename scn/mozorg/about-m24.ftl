@@ -13,6 +13,7 @@ m24-about-page-desc = { -brand-name-mozilla } crìa navicatura, app, còdici e s
 ## Intro
 
 m24-about-reclaim-the-internet = Pigghiàmuni a riti, nzèmmula
+m24-about-mozilla-is-working = { -brand-name-mozilla } travagghia pi purtari arrè u cuntrollu dâ riti nnî manu dî genti chi l'ùsanu.
 
 ## Manifesto
 
@@ -26,6 +27,7 @@ m24-about-research = Ricerca
 # Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Monitor
 m24-about-build = Sbiluppu
+m24-about-we-build-products = Custrujemu prudutti chi ti dùnanu u cuntrollu — a tipu { -brand-name-firefox }, { -brand-name-fakespot } e autri.
 m24-about-fund = Finanziamentu
 m24-about-we-fund-and = Finanziamu e mmistemu nnî genti e nnî pruggetti chi pòrtanu a ticnuluggìa, a riti e a NA nnâ dirizzioni giusta.
 
