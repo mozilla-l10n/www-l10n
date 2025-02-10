@@ -23,6 +23,7 @@ firefox-products-check-for-breaches = ກວດເບິ່ງການລະເ
 
 firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = ປົກປ້ອງທີ່ຢູ່ອີເມວທີ່ແທ້ຈິງຂອງເຈົ້າເພື່ອຊ່ວຍຄວບຄຸມອິນບັອກຂອງເຈົ້າ.
+firefox-products-get-relay = ເອົາ { -brand-name-firefox-relay }
 
 ## VPN
 
@@ -32,6 +33,7 @@ firefox-products-get-mozilla-vpn = ເອົາ { -brand-name-mozilla-vpn }
 
 ## MDN Plus
 
+firefox-products-mdn-plus = { -brand-name-mdn-plus }
 
 ## Thunderbird
 
