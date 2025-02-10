@@ -66,6 +66,7 @@ m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders-smiðir
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Smiðirnir (builders) hjálpa sjálfstæðum hönnuðum að búa til byltingarkennd opin gervigreindarverkefni með hjálp sérsniðins samstarfs, forritun og framlögum frá samfélaginu.
+m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } hjálpa sjálfstæðum hönnuðum að búa til byltingarkennd opin gervigreindarverkefni með hjálp sérsniðins samstarfs, forritun og framlögum frá samfélaginu.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }-táknmerki
 m24-home-lumigator = { -brand-name-lumigator }
