@@ -38,6 +38,7 @@ m24-about-we-fund-and = Við fjármögnum og fjárfestum í fólkinu og viðleit
 
 m24-about-read-more = Lesa meira
 m24-about-read-the-latest = Lestu nýjustu fréttir og greinar frá { -brand-name-mozilla }
+m24-about-builders-program = { -brand-name-mozilla-builders } hjálpa sjálfstæðum hönnuðum að búa til byltingarkennd opin gervigreindarverkefni með hjálp sérsniðins samstarfs, forritun og framlögum frá samfélaginu.
 m24-about-at-our-rise25 = Við afhendingu { -brand-name-rise25 } verðlaunanna okkar er framtíð gervigreindar traustvekjandi, ábyrg og fyrir alla
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Viðtakandi { -brand-name-rise25 } verðlauna bendir á verðlaunagripinn sinn.

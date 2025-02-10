@@ -62,7 +62,9 @@ m24-home-alt-llamafile-logo = { -brand-name-llamafile }-táknmerki
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = Keyrðu auðveldlega stór tungumálalíkön (LLM) á tölvunni þinni með { -brand-name-llamafile } - engin þörf er á sérstakri uppsetningu og gögnin þín haldast örugg á tækinu þínu.
 m24-home-alt-builders = Builders-smiðir
+m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders-smiðir
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Smiðirnir (builders) hjálpa sjálfstæðum hönnuðum að búa til byltingarkennd opin gervigreindarverkefni með hjálp sérsniðins samstarfs, forritun og framlögum frá samfélaginu.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }-táknmerki
