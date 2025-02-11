@@ -21,5 +21,7 @@ ui-show-all = Vis alle
 ui-hide-all = Gøym alle
 ui-learn-more = Les meir
 ui-view = Vis
+ui-pause-animation = Set animasjonen på pause
+ui-play-animation = Spel animasjonen
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Marknadsføring

@@ -36,6 +36,16 @@ m24-home-get-started = Kom i gang
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = { -brand-name-llamafile }-logo.
 m24-home-llamafile = { -brand-name-llamafile }
+m24-home-alt-builders = Builders
+m24-home-alt-builders-v2 = { -brand-name-builders }
+m24-home-mozilla-builders = { -brand-name-mozilla } Builders
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+# Used as an accessible text alternative for an image
+m24-home-alt-lumigator-logo = { -brand-name-lumigator }-logo.
+m24-home-lumigator = { -brand-name-lumigator }
+m24-home-watch-now = Sjå no
+m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice = Doner stemma di
 
 ## Media Springboard
@@ -53,8 +63,10 @@ m24-home-topic-ps = Personvern og sikkerheit
 
 ## Showcase
 
+m24-home-rise25-awards = { -brand-name-rise25 }-prisar
 
 ## Issues
 
 m24-home-pni-search-now = Søk no
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-irl-listen-now = Lytt no
