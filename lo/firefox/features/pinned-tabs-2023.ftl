@@ -7,3 +7,4 @@
 
 # page title
 pinned-tabs-pinned-browser-tabs = ປັກໝຸດແຖບບຣາວເຊີ
+pinned-tabs-theyre-small-and-you-cant-close = ພວກມັນນ້ອຍ, ແລະ ທ່ານບໍ່ສາມາດປິດພວກມັນໄດ້ໂດຍບັງເອີນເພາະວ່າພວກມັນບໍ່ມີປຸ່ມປິດ. ແທນທີ່ຈະ, ທ່ານຕ້ອງຖອນປັກໝຸດພວກມັນ.
