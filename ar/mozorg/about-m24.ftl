@@ -38,6 +38,7 @@ m24-about-we-fund-and = نموّل ونستثمر في الأشخاص والجه
 
 m24-about-read-more = اطَّلِع على المزيد
 m24-about-read-the-latest = اقرأ أحدث أخبار ومقالات { -brand-name-mozilla }:
+m24-about-builders-program = تُسهم { -brand-name-mozilla-builders } في مساعدة المُطورين على إنشاء مشاريع ذكاء اصطناعي مفتوحة المصدر وثورية من خلال التعاون والبرمجة والمجتمع.
 m24-about-at-our-rise25 = في جوائز { -brand-name-rise25 }، مستقبل الذكاء الاصطناعي موثوق وشامل وخاضع للمساءلة
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = الفائزة بجائزة { -brand-name-rise25 } تُشير إلى جائزتها.
