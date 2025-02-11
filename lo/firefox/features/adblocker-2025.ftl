@@ -7,3 +7,4 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = ບັອກການໂຄສະນາ
+features-adblocker-finding-the-right = ຊອກຫາຕົວສະກັດການໂຄສະນາທີ່ເຫມາະສົມສໍາລັບທ່ານ

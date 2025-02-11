@@ -25,6 +25,7 @@ features-index-pinned-browser-tabs = ປັກໝຸດແຖບບຣາວເ�
 features-index-eyedropper-tool = Eyedropper tool
 features-index-identify-the-exact-color-on-a = ກໍານົດສີທີ່ແນ່ນອນໃນຫນ້າໃດຫນຶ່ງ ແລະ ຄັດລອກລະຫັດ hex ຂອງມັນ.
 features-index-pdf-editor = ໂຕແກ້ໄຂ PDF
+features-index-view-and-edit-pdf-files = ເບິ່ງ ແລະ ແກ້ໄຂໄຟລ໌ PDF ໄດ້ທັນທີໃນ { -brand-name-firefox }.
 features-index-fingerprint-blocking = ການຂັດຂວາງລາຍນິ້ວມື
 features-index-ad-tracker-blocking = ປ້ອງກັນການຕິດຕາມຈາກໂຄສະນາ
 features-index-translate-the-web = ແປເວັບ
