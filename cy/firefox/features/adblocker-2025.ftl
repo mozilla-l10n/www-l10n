@@ -22,3 +22,19 @@ features-adblocker-finding-the-right = Dod o Hyd i'r Rhwystrydd Hysbysebion Cywi
 features-adblocker-there-are-many = Mae yna lawer o offer rhwystro hysbysebion i'w harchwilio, pob un yn cynnig nodweddion sy'n gweddu i wahanol ddewisiadau. Mae dod o hyd i'r un iawn i chi yn dibynnu ar eich dymuniadau a'ch arferion pori. Dyma ychydig o awgrymiadau i'w hystyried:
 features-adblocker-tip-1 = <strong>Rhwystro Hysbysebion:</strong> Os ydych chi eisiau dim ond rhwystro hysbysebion, dewiswch opsiwn syml ac ysgafn.
 features-adblocker-tip-2 = <strong>Pryderon Preifatrwydd:</strong> Os ydych chi'n poeni am dracwyr, edrychwch am rwystrydd hysbysebion gyda nodweddion preifatrwydd mewnol.
+features-adblocker-tip-3 = <strong>Cyfaddasrwydd:</strong> Mae rhai rhwystrydd hysbysebion yn caniatáu mireinio rhestr wen o wefannau penodol neu rwystro elfennau penodol.
+features-adblocker-tip-4 = <strong>Cydnawsedd Dyfais:</strong> Ystyriwch a oes ei angen arnoch ar gyfer bwrdd gwaith, ffôn symudol, neu'r ddau.
+features-adblocker-tip-5 = <strong>Rhwystro Drwgwar:</strong> Mae rhai rhwystrwyr hysbysebion yn amddiffyn rhag hysbysebion maleisus (e.e., AdGuard).
+features-adblocker-tip-6 = <strong>Rheolyddion Rhieni:</strong> Defnyddiol os ydych am rwystro cynnwys amhriodol.
+features-adblocker-its-important-to-note = Mae'n bwysig nodi bod rhai gwefannau yn dibynnu ar hysbysebion i lwytho cynnwys neu ddarparu ymarferoldeb. Gall rhwystro hysbysebion achosi nodweddion i dorri, fel fideos ddim yn chwarae neu opsiynau mewngofnodi yn methu. Dewiswch rhwystrydd hysbysebion sy'n cael ei ddiweddaru'n rheolaidd ac os gwelwch fod un rhwystrydd hysbysebion yn achosi problemau sylweddol, rhowch gynnig ar un arall i ddod o hyd i gydbwysedd gwell o ran perfformiad a chydnawsedd.
+features-adblocker-enhanced-privacy = Preifatrwydd a Pherfformiad Gwell gyda { -brand-name-firefox }
+features-adblocker-beyond-ad-blockers = Y tu hwnt i rhwystrydd hysbysebion, mae { -brand-name-firefox } yn cynnwys nodweddion mewnol er mwyn rhoi hyd yn oed mwy o reolaeth i chi dros eich pori. Mae'r offer hyn yn helpu i amddiffyn eich preifatrwydd tra'n caniatáu ichi gyfaddasu'ch profiad:
+features-adblocker-tool-1 = <strong>Modd Safonol:</strong> Opsiwn cytbwys sy'n rhwystro tracwyr cyffredin tra'n cynnal ymarferoldeb gwefan llyfn.
+features-adblocker-tool-2 = <strong>Modd Caeth:</strong> Delfrydol ar gyfer defnyddwyr sydd eisiau amddiffyniad preifatrwydd cryfach trwy rwystro mwy o dracwyr a chwcis. Sylwch y gallai fod angen addasiadau ar rai gwefannau yn y modd hwn.
+features-adblocker-tool-3 = <strong>Modd Cyfaddas:</strong> I'r rhai sydd eisiau rheolaeth lawn, mae'r Modd Cyfaddas yn gadael i chi ddewis beth i'w rwystro, o gwcis i dracwyr a mwy.
+features-adblocker-to-adjust = I newid y gosodiadau hyn, cliciwch ar yr eicon tarian i'r chwith o'r bar cyfeiriad ar unrhyw dudalen we a dewis "Gosodiadau Diogelu." Bydd hyn yn agor dewislen lle gallwch ddewis y lefel gywir o diogeledd i chi.
+features-adblocker-why-use = Pam defnyddio rhwystrydd hysbysebion?
+features-adblocker-ad-blockers-do-more = Mae rhwystrydd hysbysebion yn gwneud mwy na rheoli hysbysebion - gallan nhw wella eich cyflymder pori a diogelwch trwy leihau cynnwys diangen. Maen nhw'n eich grymuso i greu profiad gwe wedi'i deilwra, heb unrhyw wrthdyniadau, gan adael i chi ganolbwyntio ar yr hyn sydd bwysicaf.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-explore-hundreds = Archwiliwch gannoedd o ychwanegion sy'n canolbwyntio ar breifatrwydd sydd ar gael ar gyfer { -brand-name-firefox } a dewch o hyd i'r offer cywir i chi. <a href = " { $url } " >Llwythwch { -brand-name-firefox }</a> i lawr heddiw i brofi porwr sydd wedi'i ddylunio gyda'ch preifatrwydd a'ch perfformiad mewn golwg.
