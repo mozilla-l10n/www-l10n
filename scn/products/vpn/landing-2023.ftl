@@ -20,7 +20,18 @@ vpn-landing-log-in-to-your-bank-or = Trasi â to banca o â pàggina dû to dutt
 vpn-landing-blocks-advertisers-from = Ferma ê pubblicità di trazzàriti
 vpn-landing-helps-you-access-global = T'ajuta a vìdiri cuntinuti glubbali
 vpn-landing-features = Carattarìstichi
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-landing-connect-up-to-devices =
+    { $devices ->
+        [one] Culleja nzinu a { $devices } dispusitivu
+       *[other] Culleja nzinu a { $devices } dispusitivi
+    }
+vpn-landing-fast-network-speeds-even-while = Riti lesta macari quannu jochi
+vpn-landing-no-logging-tracking-or-sharing = Nuḍḍu riggistru, trazzamentu o spartuta dî dati
+vpn-landing-no-bandwidth-restrictions-or = Nuḍḍu bloccu o ristrizzioni dâ banda
 vpn-landing-see-all-features = Vidi tutti i carattarìstichi
+vpn-landing-fram-a-brand-you-can-trust = Di na cumpagnìa chi nni po' aviri fiducia
 vpn-landing-one-subscription-for-all-your = N'abbunamentu sulu pi tutti i to dispusitivi
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>Criatu di { -brand-name-mozilla }.</strong> Dû 1998 travagghiamu pû to dirittu â privatizza.
@@ -28,3 +39,4 @@ vpn-landing-learn-more-from-our-experts = Cchiù nfurmazzioni dî nostri sperti
 vpn-landing-do-you-need-a-vpn-at-home = Ti serbi na VPN â casa? Cca cci sunnu 5 scaciuni picchì ti putissi sèrbiri.
 vpn-landing-what-is-an-ip-address = Chi è nu nnirizzu IP?
 vpn-landing-how-your-location-is-tracked = Comu veni trazzata a to pusizzioni e comu po' bluccari a spartuta
+vpn-landing-see-more-resources = Vidi risursi superchiu
