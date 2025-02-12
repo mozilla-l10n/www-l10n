@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/
 
 # HTML Page title
-m24-home-page-title = Internet for folk, ikke profit — { -brand-name-mozilla }
+m24-home-page-title = Internet for mennesker, ikke profit — { -brand-name-mozilla }
 m24-home-page-title-v2 = { -brand-name-mozilla } — Internet for folk, ikke profit
 # HTML page description
 m24-home-page-desc = { -brand-name-mozilla } — dem, der laver { -brand-name-firefox } — kæmper for at bevare internettet som en global, offentlig ressource, der er åben og tilgængelig for alle.

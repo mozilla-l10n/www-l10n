@@ -107,6 +107,8 @@ newsletters-fxa-error-retry = Het spijt ons, maar er is een probleem opgetreden 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Dit e-mailadres bevindt zich niet in ons systeem. Controleer uw adres of <a href="{ $url }">schrijf u in voor onze nieuwsbrieven.</a>
+# Note: Bluesky is a brand name that shouldn't be translated
+newsletters-im-keeping-in-touch-v3 = Ik houd contact met { -brand-name-mozilla } op Bluesky.
 # Obsolete, remove after 2025-05-11
 newsletters-im-keeping-in-touch-v2 = Ik houd contact met { -brand-name-mozilla } op { -brand-name-twitter }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
