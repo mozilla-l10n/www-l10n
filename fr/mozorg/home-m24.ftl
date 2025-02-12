@@ -63,8 +63,11 @@ m24-home-alt-llamafile-logo = Logo { -brand-name-llamafile }.
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = Exécutez des grands modèles de langage (large language models ou LLM) facilement sur votre ordinateur avec { -brand-name-llamafile }. Aucune installation n’est nécessaire et vos données restent en sécurité sur votre appareil.
 m24-home-alt-builders = Builders
+m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders aide les développeurs et développeuses indépendants à créer des projets d’IA open source innovants grâce à des collaborations, une aide à la programmation et une communauté engagée.
+m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } aide les développeurs et développeuses indépendants à créer des projets d’IA open source innovants grâce à des collaborations, une aide à la programmation et une communauté engagée.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
