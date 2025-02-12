@@ -4,6 +4,8 @@
 
 navigation-refresh-mozilla = { -brand-name-mozilla }
 
+# An accessible label used to describe that the role of the element is the primary website navigation.
+navigation-refresh-landmark-label = Principal
 
 ## About us
 
