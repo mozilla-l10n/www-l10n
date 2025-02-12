@@ -137,6 +137,7 @@ newsletters-fxa-error-retry = Maaf, ada masalah yang menghalang anda mengakses t
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Alamat e-mel ini tidak ada di dalam sistem kami. Sila periksa semula alamat anda atau <a href="{ $url }">melanggan buletin kami.</a>
 
+# Obsolete, remove after 2025-05-11
 newsletters-im-keeping-in-touch-v2 = Saya kekal berhubung dengan { -brand-name-mozilla } di { -brand-name-twitter } pula.
 
 # Headline for https://www.mozilla.org/newsletter/mozilla/
