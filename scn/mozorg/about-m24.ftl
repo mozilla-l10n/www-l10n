@@ -72,5 +72,6 @@ m24-about-community-love-v2 = L'amuri dâ cumunità, a nostra forza mutrici
 # Obsolete string (expires: 2025-02-03)
 m24-about-community-love = L'amuri dâ cumunità —<br> a nostra forza mutrici
 m24-about-mozilla-is-a = { -brand-name-mozilla } è na cumunità munniali di vuluntari appassiunati, culleghi e cuntribbutura chi, dû 1998, travàgghianu nzèmmula pi custrujiri, prurèggiri e dari furma â riti.
+m24-about-from-writing-code = Dâ scrittura di còdici e a risciduta di sbagghi nzinu ê lotti pâ privatizza e pi mantèniri a riti graputa pi tutti — i mèmmiri dâ nostra cumunità sunnu u pidamentu di tuttu chiḍḍu chi facemu. A passiuni e a vuluntà d'iḍḍi ni duna forza ogni jornu.
 # Used as an accessible text alternative for an image
 m24-about-alt-community = Un cristianu cu na vurza p'un purtàtili e un lazziceḍḍu di { -brand-name-mozilla }.
