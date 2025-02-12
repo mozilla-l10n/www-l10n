@@ -38,6 +38,7 @@ m24-about-we-fund-and = Wir fördern und investieren in Menschen und Anstrengung
 
 m24-about-read-more = Weiterlesen
 m24-about-read-the-latest = Lies die neuesten Nachrichten und Artikel von { -brand-name-mozilla }
+m24-about-builders-program = { -brand-name-mozilla-builders } hilft Entwickler*innen dabei, transformative Open-Source-KI-Projekte durch Kollaborationen, Programming und Community auf die Beine zu stellen.
 m24-about-at-our-rise25 = Bei unseren { -brand-name-rise25 } Awards ist die Zukunft der KI vertrauenswürdig, inklusiv und verantwortungsvoll
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Empfängerin des { -brand-name-rise25 } Awards zeigt auf ihre Trophäe.

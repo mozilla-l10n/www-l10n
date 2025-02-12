@@ -38,6 +38,7 @@ m24-about-we-fund-and = Kami membiayai dan melabur dalam modal insan dan usaha y
 
 m24-about-read-more = Baca Lagi
 m24-about-read-the-latest = Baca berita & artikel { -brand-name-mozilla } yang terkini
+m24-about-builders-program = { -brand-name-mozilla-builders } membantu pembangun mencipta projek AI sumber terbuka yang transformatif menerusi kerjasama, pengaturcaraan dan komuniti
 m24-about-at-our-rise25 = Sempena Anugerah { -brand-name-rise25 }, masa depan AI dikatakan sebagai dipercayai, terangkum dan bertanggungjawab
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Penerima anugerah { -brand-name-rise25 } sambil mengiktiraf trofi beliau.
