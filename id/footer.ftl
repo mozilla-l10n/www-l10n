@@ -40,8 +40,6 @@ footer-language = Bahasa
 footer-go = Buka
 footer-donate = Donasi
 
-footer-x = X
-footer-x-formerly-twitter = X (sebelumnya Twitter)
 footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

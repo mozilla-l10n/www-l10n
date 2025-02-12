@@ -40,8 +40,6 @@ footer-language = 言語
 footer-go = 進む
 footer-donate = 寄付する
 
-footer-x = X
-footer-x-formerly-twitter = X (旧 Twitter)
 footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }

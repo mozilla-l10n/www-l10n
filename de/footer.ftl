@@ -40,8 +40,6 @@ footer-language = Sprache
 footer-go = Los
 footer-donate = Spenden
 
-footer-x = X
-footer-x-formerly-twitter = X (früher Twitter)
 footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
