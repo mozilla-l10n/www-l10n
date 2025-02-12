@@ -123,6 +123,8 @@
 -brand-name-mozilla-account = Mozilla-Konto
 -brand-name-mozilla-accounts = Mozilla-Konten
 -brand-name-mozilla-social = Mozilla.social
+-brand-name-mozilla-builders = Mozilla Entwickler*innen
+-brand-name-builders = Builders
 
 # Obsolete string (expires: 2025-01-05)
 -brand-name-mozilla-ai = Mozilla KI
