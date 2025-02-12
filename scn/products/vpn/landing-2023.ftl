@@ -20,6 +20,7 @@ vpn-landing-log-in-to-your-bank-or = Trasi â to banca o â pàggina dû to dutt
 vpn-landing-blocks-advertisers-from = Ferma ê pubblicità di trazzàriti
 vpn-landing-helps-you-access-global = T'ajuta a vìdiri cuntinuti glubbali
 vpn-landing-features = Carattarìstichi
+vpn-landing-see-all-features = Vidi tutti i carattarìstichi
 vpn-landing-one-subscription-for-all-your = N'abbunamentu sulu pi tutti i to dispusitivi
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>Criatu di { -brand-name-mozilla }.</strong> Dû 1998 travagghiamu pû to dirittu â privatizza.

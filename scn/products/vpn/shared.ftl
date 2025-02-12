@@ -18,12 +18,51 @@ vpn-shared-terms-conditions = Tèrmini e cunnizzioni
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-recommended-offer = Cunzigghiatu
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly = { $amount } <span>ô misi</span>
+# Monthly price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly-plus-tax = { $amount } <span>ô misi + tassi</span>
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-pricing-save-percent = Sparagna u { $percent }%
+# Variables:
+#   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
+# Asterisk indicates a footnote for the following string
+vpn-shared-save-percent-on = Sparagna u { $percent }% ncapu a { -brand-name-mozilla-vpn }*
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-when-you-subscribe = *si ti fai n'abbunamentu pi 12 misi
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-with-an-annual-subscription = *cu n'abbunamentu pi n'annu
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total = { $amount } tutali
+# total price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total-plus-tax = { $amount } tutali + tassi
+vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } nun è ancora dispunìbbili nnô to pajisi
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-headline = Accuminciamu
+vpn-shared-platform-cta-button = Vidi prezzi e dispunibbilità
+vpn-shared-platform-what-is = Chi è { -brand-name-mozilla-vpn }?
+vpn-shared-platfrom-why-choose = Picchì { -brand-name-mozilla-vpn }?
+vpn-shared-platform-what-youll-get = Chi ricivi cu { -brand-name-mozilla-vpn }:
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = Cchiù nfurmazzioni ncapu ê VPN
+vpn-subnav-download-mozilla-vpn = Scàrrica { -brand-name-mozilla-vpn }
+vpn-subnav-features = Carattarìstichi
 
 ## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = Comu vistu nne
 
 ## Unsupported language notification
 
