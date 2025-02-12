@@ -63,8 +63,11 @@ m24-home-alt-llamafile-logo = { -brand-name-llamafile } लोगो।
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = अपने कंप्यूटर पर { -brand-name-llamafile } की मदद से आसानी से लार्ज लैंग्वेज मॉडल (LLM) चलाएं — किसी इंस्टॉलेशन की आवश्यकता नहीं है, और आपका डेटा आपके डिवाइस पर सुरक्षित रहता है।
 m24-home-alt-builders = Builders
+m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } बिल्डर
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders स्वतंत्र डेवलपर्स को विशिष्ट सहयोग, प्रोग्रामिंग और कम्युनिटी के माध्यम से बदलाव लाने वाले ओपन-सोर्स AI प्रोजेक्ट्स बनाने में मदद करता है।
+m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } स्वतंत्र डेवलपर्स को विशिष्ट सहयोग, प्रोग्रामिंग और कम्युनिटी के माध्यम से बदलाव लाने वाले ओपन-सोर्स AI प्रोजेक्ट्स बनाने में मदद करता है।
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } लोगो।
 m24-home-lumigator = { -brand-name-lumigator }
