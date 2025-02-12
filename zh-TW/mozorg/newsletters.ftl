@@ -108,7 +108,7 @@ newsletters-fxa-error-retry = 很抱歉，將頁面跳轉到電子郵件偏好�
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = 我們的系統中沒有這個信箱，請確認有沒有打錯，或 <a href="{ $url }">直接訂閱我們的電子報。</a>
 # Note: Bluesky is a brand name that shouldn't be translated
-newsletters-im-keeping-in-touch-v3 = 我改用 Cloud 上的 { -brand-name-mozilla } 保持聯繫。
+newsletters-im-keeping-in-touch-v3 = 我想改到 Bluesky 接收 { -brand-name-mozilla } 的相關訊息。
 # Obsolete, remove after 2025-05-11
 newsletters-im-keeping-in-touch-v2 = 我想改到 { -brand-name-twitter } 接收 { -brand-name-mozilla } 的相關訊息。
 # Headline for https://www.mozilla.org/newsletter/mozilla/
