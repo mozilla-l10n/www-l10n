@@ -108,7 +108,7 @@ newsletters-fxa-error-retry = Sajnáljuk, de hiba történt az e-mail-beállít�
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Ez az e-mail cím nem szerepel rendszerünkben. Kérjük, ellenőrizze a címet vagy <a href="{ $url }">iratkozzon fel hírleveleinkre.</a>
 # Note: Bluesky is a brand name that shouldn't be translated
-newsletters-im-keeping-in-touch-v3 = Inkább a { -brand-name-mozilla(ending: "accented") }val tartom a kapcsolatot a Blueskyn.
+newsletters-im-keeping-in-touch-v3 = Inkább a Bluesky-on tartom a kapcsolatot a { -brand-name-mozilla(ending: "accented") }val.
 # Obsolete, remove after 2025-05-11
 newsletters-im-keeping-in-touch-v2 = Inkább a { -brand-name-twitter }en tartom a kapcsolatot a { -brand-name-mozilla(ending: "accented") }val.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
