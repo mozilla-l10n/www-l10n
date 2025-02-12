@@ -25,7 +25,9 @@ contribute-task-translate-heading = Traduci i cuntinuti
 contribute-task-translate-desc = A riti è glubbali sulu si veni caputa unn'è-è. Ajùtani a tradùciri i pruggetti e i siti { -brand-name-mozilla } nnâ to lingua lucali.
 contribute-task-mozilla-codebase-heading = Cuntribuisci ô còdici di { -brand-name-mozilla }
 contribute-task-mozilla-codebase-desc = Cuntribbuisci di manera attiva ê prudutti { -brand-name-mozilla } scartannu ntra assai pruggetti.
+contribute-task-support-desc = Ajuta a fari i prudutti { -brand-name-mozilla } fàcili d'usari. Arrispunni ê dumanni dâ genti nnî forum dâ Cumunità di Supportu { -brand-name-mozilla }.
 contribute-task-join-heading = Jùnciti â cumunità
+contribute-task-join-desc = Ti vo' ntricari câ cumunità { -brand-name-mozilla }? Vidi tutti l'uppurtunità pî vuluntari nnô Purtali Cumunità.
 
 ## Mission
 
@@ -37,13 +39,16 @@ contribute-meet-volunteers = Ncòntrati chî nostri vuluntari
 contribute-donate = Fai na dunazzioni
 contribute-help-fund = Ajùtani a finanziari a nostra missioni
 contribute-follow-mozilla = Sicuta a { -brand-name-mozilla }
+contribute-opportunities = Nutizzi e uppurtunità pî vuluntari
 
 ## Made by
 
+contribute-made-by-heading = Fattu di genti appassiunati, comu a tia
 
 ## Newsletter
 
 contribute-newsletter-heading = Nun ti dicidisti ancora?
+contribute-newsletter-sub-heading = Ricivi un bullittinu chi nutizzi dâ cumunità nnâ to posta
 
 ## Support
 
@@ -54,4 +59,5 @@ contribute-mozilla-support = Supportu di { -brand-name-mozilla }
 ## Web compat
 
 contribute-web-compat-heading = Prubblemi cu na pàggina?
+contribute-web-compat-desc = Si attrovi un situ chi sfarsija canciannu navicaturi, capaci chi attruvasti un prubblema di cumpatibbilità. Ni piacissi sapìrinni cchiù assai!
 contribute-report-issue = Signalija un prubblema
