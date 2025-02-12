@@ -26,6 +26,9 @@ m24-about-we-advocate-for = Ammuttamu p'aviri prudutti megghiu, facènnuci piggh
 m24-about-research = Ricerca
 # Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Monitor
+m24-about-we-uncover-insights = Scupremu cosi ncignusi, facemu campagni p'ammigghiurari i prudutti e prumuvemu pulìtichi chi riprisèntanu i to ntiressi.
+# Obsolete string (expires: 2025-02-03)
+m24-about-we-monitor-developments = Cuntrullamu i sbiluppi, facemu risciduti e campagni p'ammigghiurari i prudutti e prumòviri pulìtichi chi riprisèntanu i to ntiressi.
 m24-about-build = Sbiluppu
 m24-about-we-build-products = Custrujemu prudutti chi ti dùnanu u cuntrollu — a tipu { -brand-name-firefox }, { -brand-name-fakespot } e autri.
 m24-about-fund = Finanziamentu
@@ -46,6 +49,7 @@ m24-about-chicago = Nu mprisariu di Chicago.
 ## Showcase
 
 m24-about-lets-build-a = Crijamu un futuru cchiù avali
+m24-about-see-how-were = Vidi comu ammuttamu n'ammienti 'n linia cchiù variu e accissìbbili pi tutti.
 m24-about-read-about-our = Leggi cchiù assai ncapu ô nostru mpignu
 
 ## Careers
@@ -67,5 +71,6 @@ m24-about-see-open-positions = Vidi i posti dispunìbbili
 m24-about-community-love-v2 = L'amuri dâ cumunità, a nostra forza mutrici
 # Obsolete string (expires: 2025-02-03)
 m24-about-community-love = L'amuri dâ cumunità —<br> a nostra forza mutrici
+m24-about-mozilla-is-a = { -brand-name-mozilla } è na cumunità munniali di vuluntari appassiunati, culleghi e cuntribbutura chi, dû 1998, travàgghianu nzèmmula pi custrujiri, prurèggiri e dari furma â riti.
 # Used as an accessible text alternative for an image
 m24-about-alt-community = Un cristianu cu na vurza p'un purtàtili e un lazziceḍḍu di { -brand-name-mozilla }.

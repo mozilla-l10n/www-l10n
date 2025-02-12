@@ -35,6 +35,7 @@ home-join-the-fight = Jùnciti â lotta pi na riti cchiù 'n saluti
 home-your-voice-your-code = A to vuci. U to còdici. I to pinzati. Cci sunnu migghiara di maneri chi po' cuntribbuiri a { -brand-name-mozilla }.
 home-volunteer-with-mozilla = Cullàbbura cu { -brand-name-mozilla }
 home-that-one-time = Ḍḍa vota chi spartemmu u nostru còdici funti…
+home-eventually-the-open = Â fini, u pruggettu a còdici graputu { -brand-name-mozilla } si trasfurmau nnâ prima virsioni pupulari di { -brand-name-firefox }.
 home-learn-more-about-mozilla = Cchià nfurmazzioni supra a { -brand-name-mozilla }
 # VPN Feature
 home-featured-product = Pruduttu cunzigghiatu
