@@ -107,6 +107,8 @@ newsletters-fxa-error-retry = Приносим извинения, но при �
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = В базе данных нет этого адреса. Пожалуйста, проверьте свой адрес или <a href="{ $url }">подпишитесь на наши рассылки.</a>
+# Note: Bluesky is a brand name that shouldn't be translated
+newsletters-im-keeping-in-touch-v3 = Я держу связь с { -brand-name-mozilla } по Bluetooth.
 # Obsolete, remove after 2025-05-11
 newsletters-im-keeping-in-touch-v2 = Я буду на связи с { -brand-name-mozilla } через { -brand-name-twitter }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/

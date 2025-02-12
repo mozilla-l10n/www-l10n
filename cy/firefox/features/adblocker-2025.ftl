@@ -37,4 +37,4 @@ features-adblocker-why-use = Pam defnyddio rhwystrydd hysbysebion?
 features-adblocker-ad-blockers-do-more = Mae rhwystrydd hysbysebion yn gwneud mwy na rheoli hysbysebion - gallan nhw wella eich cyflymder pori a diogelwch trwy leihau cynnwys diangen. Maen nhw'n eich grymuso i greu profiad gwe wedi'i deilwra, heb unrhyw wrthdyniadau, gan adael i chi ganolbwyntio ar yr hyn sydd bwysicaf.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-explore-hundreds = Archwiliwch gannoedd o ychwanegion sy'n canolbwyntio ar breifatrwydd sydd ar gael ar gyfer { -brand-name-firefox } a dewch o hyd i'r offer cywir i chi. <a href = " { $url } " >Llwythwch { -brand-name-firefox }</a> i lawr heddiw i brofi porwr sydd wedi'i ddylunio gyda'ch preifatrwydd a'ch perfformiad mewn golwg.
+features-adblocker-explore-hundreds = Archwiliwch gannoedd o ychwanegion sy'n canolbwyntio ar breifatrwydd sydd ar gael ar gyfer { -brand-name-firefox } a dewch o hyd i'r offer cywir i chi. <a href="{ $url }">Llwythwch { -brand-name-firefox }</a> i lawr heddiw i brofi porwr sydd wedi'i ddylunio gyda'ch preifatrwydd a'ch perfformiad mewn golwg.
