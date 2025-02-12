@@ -107,6 +107,7 @@ newsletters-fxa-error-retry = 很抱歉，將頁面跳轉到電子郵件偏好�
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = 我們的系統中沒有這個信箱，請確認有沒有打錯，或 <a href="{ $url }">直接訂閱我們的電子報。</a>
+# Obsolete, remove after 2025-05-11
 newsletters-im-keeping-in-touch-v2 = 我想改到 { -brand-name-twitter } 接收 { -brand-name-mozilla } 的相關訊息。
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = 訂報、閱讀、<br>取得最新消息。

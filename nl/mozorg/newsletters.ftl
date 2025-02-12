@@ -107,6 +107,7 @@ newsletters-fxa-error-retry = Het spijt ons, maar er is een probleem opgetreden 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Dit e-mailadres bevindt zich niet in ons systeem. Controleer uw adres of <a href="{ $url }">schrijf u in voor onze nieuwsbrieven.</a>
+# Obsolete, remove after 2025-05-11
 newsletters-im-keeping-in-touch-v2 = Ik houd contact met { -brand-name-mozilla } op { -brand-name-twitter }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Schrijf in, lees na,<br> blijf op de hoogte.

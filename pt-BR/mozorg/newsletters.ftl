@@ -107,6 +107,7 @@ newsletters-fxa-error-retry = Lamentamos, mas ocorreu um problema ao redireciona
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Este endereço de email não está no nosso sistema. Verifique seu endereço ou <a href="{ $url }">assine nossas newsletters</a>.
+# Obsolete, remove after 2025-05-11
 newsletters-im-keeping-in-touch-v2 = Em vez disso, estou mantendo contato com a { -brand-name-mozilla } pelo { -brand-name-twitter }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
 newsletters-sign-up-read-up-stay-informed = Inscreva-se, investigue,<br> mantenha-se informado.
