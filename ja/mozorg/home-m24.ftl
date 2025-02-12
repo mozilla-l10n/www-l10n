@@ -63,8 +63,11 @@ m24-home-alt-llamafile-logo = { -brand-name-llamafile } のロゴ。
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-run-large-language = { -brand-name-llamafile } で大規模言語モデル (LLM) をお使いのコンピューターで簡単に実行できます。インストールは不要で、データはデバイスから外部に送信されず安全です。
 m24-home-alt-builders = ビルダー
+m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } ビルダー
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = ビルダーは、オーダーメイドのコラボレーション、プログラミング、コミュニティを通じて、革新的なオープンソースの AI プロジェクトを立ち上げる独立した開発者を支援しています。
+m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } は、オーダーメイドのコラボレーション、プログラミング、コミュニティを通じて、革新的なオープンソースの AI プロジェクトを立ち上げる独立した開発者を支援しています。
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } のロゴ。
 m24-home-lumigator = { -brand-name-lumigator }
