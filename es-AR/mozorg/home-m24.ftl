@@ -79,7 +79,7 @@ m24-home-watch-now = Mirá ahora
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Orador en el escenario con múltiples logos de productos.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
-m24-home-got-an-earlystage = ¿Tienes una startup en fase inicial? Envía a tu empresa a { -brand-name-mozilla-ventures } y asegura financiación para impulsar un cambio positivo para el futuro de la IA e Internet.
+m24-home-got-an-earlystage = ¿Tenés una startup en fase inicial? Enviá a tu empresa a { -brand-name-mozilla-ventures } y asegurá la financiación para impulsar un cambio positivo para el futuro de la IA e Internet.
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Doná tu voz para hacer que la tecnología de voz sea más inclusiva y accesible para todos.
 m24-home-donate-your-voice = Doná tu voz
@@ -130,7 +130,7 @@ m24-home-read-the-report = Leer el informe
 m24-home-alt-pni = Dispositivos inteligentes con el icono de precaución.
 m24-home-explore-issues-shaping = Explorar los problemas que moldean el futuro de Internet
 m24-home-privacy-not-included = *Privacidad no incluida
-m24-home-search-our-reviews = Busca en nuestras revisiones para ver qué dispositivos y aplicaciones tecnológicos ocultan tus datos.
+m24-home-search-our-reviews = Busca en nuestras reseñas para ver qué dispositivos y aplicaciones tecnológicas se están metiendo sigilosamente en tus datos.
 m24-home-pni-search-now = Buscar ahora
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, presentadora del podcast IRL.
