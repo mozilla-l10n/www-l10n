@@ -38,9 +38,11 @@ firefox-products-mdn-plus = { -brand-name-mdn-plus }
 ## Thunderbird
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-download-thunderbird = ດາວໂຫລດ { -brand-name-thunderbird }
 
 ## Fakespot
 
+firefox-products-fakespot = { -brand-name-fakespot }
 
 ## Pocket
 
