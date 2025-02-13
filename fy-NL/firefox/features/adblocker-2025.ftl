@@ -25,5 +25,16 @@ features-adblocker-tip-2 = <strong>Privacysoargen:</strong> as jo jo soargen mei
 features-adblocker-tip-3 = <strong>Aanpasberheid:</strong> guon advertinsjeblokkers kinne fine-tuning tastean om spesifike siden op in tasteane list te setten of spesifike eleminten te blokkearjen.
 features-adblocker-tip-4 = <strong>Apparaatkompatibiliteit:</strong> besjoch oft jo it nedich hawwe foar desktop, mobyl of beide.
 features-adblocker-tip-5 = <strong>Malwareblokkering:</strong> guon advertinsjeblokkers beskermje tsjin kwea-aardige advertinsjes (byg. AdGuard).
+features-adblocker-tip-6 = <strong>Alderlik tafersjoch:</strong> nuttich as jo net-paste ynhâld blokkearje wolle.
+features-adblocker-its-important-to-note = It is wichtich om op te merken dat guon websites ôfhinklik binne fan advertinsjes om ynhâld te laden of funksjonaliteit te leverjen. It blokkearjen fan advertinsjes kin der foar soargje dat funksjes net goed wurkje, lykas fideo’s dy’t net spylje of oanmeldeopsjes dy’t mislearje. Kies in advertinsjeblokker dy’t regelmjittich bywurke wurdt en as jo fine dat in advertinsjeblokkerer wichtige problemen feroarsaket, probearje dan in oare om in bettere balâns te finen fan prestaasjes en komptabiliteit.
 features-adblocker-enhanced-privacy = Ferbettere privacy en prestaasjes mei { -brand-name-firefox }
+features-adblocker-beyond-ad-blockers = Njonken advertinsjeblokkers befettet { -brand-name-firefox } ynboude funksjes om jo noch mear kontrôle te jaan oer jo sneupen. Dit ark helpt jo privacy te beskermjen, wylst jo jo ûnderfining oanpasse kinne:
+features-adblocker-tool-1 = <strong>Standertmodus:</strong> in lykwichtige opsje dy’t gewoane trackers blokkearret, wylst se soepele funksjonaliteit fan de website behâldt.
+features-adblocker-tool-2 = <strong>Strange modus:</strong> ideaal foar brûkers dy’t in sterkere privacybeskerming wolle troch mear trackers en cookies te blokkearjen. Tink derom dat guon siden mooglik oanpassingen yn dizze modus fereaskje.
+features-adblocker-tool-3 = <strong>Oanpaste modus:</strong> foar dyjingen dy’t folsleine kontrôle wolle, kinne jo yn de oanpaste modus selektearje wat jo blokkearje wolle, fan cookies oant trackers en mear.
+features-adblocker-to-adjust = Klik om dizze ynstellingen oan te passen op elke webside op it skyldpictogram links fan de adresbalke en selektearje ‘Beskermingsynstellingen’. Dit sil in menu iepenje wêr’t jo it krekte beskermingsnivo foar jo kieze kinne.
 features-adblocker-why-use = Wêrom in adblokker brûke?
+features-adblocker-ad-blockers-do-more = Adblokkers dogge mear as advertinsjes beheare – se kinne jo sneupsnelheid en -befeiliging ferbetterje troch ûnnedige ynhâld te ferminderjen. Se stelle jo yn steat om in op maat makke, ôfliedingsfrije webûnderfining te meitsjen, wêrtroch jo jo konsintrearje kinne op wat it wichtichste is.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-explore-hundreds = Ferken hûnderten privacy rjochte add-ons dy’t beskikber binne foar { -brand-name-firefox } en fyn it krekte ark foar jo. <a href="{ $url }">Download { -brand-name-firefox }</a> hjoed noch om in browser te belibjen dy’t ûntwurpen is mei jo privacy en prestaasjes yn gedachten.
