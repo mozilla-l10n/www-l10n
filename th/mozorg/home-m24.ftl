@@ -105,9 +105,20 @@ m24-home-from-hollywood-to = ไม่ว่าจะเป็นวงการ
 m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } ร่วมเฉลิมฉลองนักสร้างสรรค์ผู้สร้างประวัติศาสตร์ในซีรีส์สารคดีชุดใหม่ “{ -brand-name-firefox } Presents”
 m24-home-big-techs-power = พลังที่บริษัทเทคโนโลยีมีเหนือภาษาเท่ากับพลังที่บริษัทเหล่านั้นมีเหนือผู้คน Bridget Todd จะมาพูดคุยกับผู้นำชุมชนด้านภาษาเพื่อปูทางสำหรับ AI เสียงพูดในภาษาและสำเนียงของพวกเขาเอง
 m24-home-why-does-it = ทำไมบ่อยครั้งถึงมักมีความรู้สึกว่าเราเป็นส่วนหนึ่งของการทดลอง AI ขนาดใหญ่? แล้ววิธีที่จะทดสอบเทคโนโลยีใหม่ๆ อย่างมีความรับผิดชอบนั้นเป็นยังไง? Bridget Todd จะมาสำรวจว่าการที่เราต้องอยู่ร่วมกับระบบ AI ที่ไม่ได้รับการพิสูจน์ซึ่งส่งผลกระทบต่อผู้คนนับล้านเมื่อระบบเหล่านี้ถูกเผยแพร่สู่ชีวิตของผู้คนเหล่านั้นมีผลกระทบอย่างไรบ้าง
+m24-home-kids-are-growing = เด็กๆ กำลังเติบโตในโลกที่มีความออนไลน์เป็นอย่างมาก ผู้ปกครองที่วิตกกังวลควรทำอย่างไรบ้าง?
 
 ## Showcase
 
+m24-home-rise25-awards = รางวัลจากงาน { -brand-name-rise25 }
+m24-home-get-to-know = ทำความรู้จักกับผู้นำที่สนับสนุนการพัฒนา AI ที่เชื่อถือได้ ครอบคลุม และโปร่งใส ในขณะที่พวกเขาต่างกำหนดมาตรฐานใหม่และสร้างแรงบันดาลใจให้กับนักประดิษฐ์รุ่นต่อไป
+m24-home-watch-the-award = ชมงานประกาศผลรางวัล
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = แขกผู้มีเกียรติที่รู้สึกภูมิใจคนหนึ่งในงาน { -brand-name-rise25 }
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = ผู้พูดที่มั่นใจซึ่งกำลังยิ้มคนหนึ่งในงาน { -brand-name-rise25 }
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = แขกผู้มีเกียรติที่รู้สึกดีใจคนหนึ่งในงาน { -brand-name-rise25 }
+m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 
 ## Issues
 
