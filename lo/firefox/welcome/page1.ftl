@@ -10,6 +10,7 @@ welcome-page1-take-the-next-step-to-protect = ດໍາເນີນຂັ້ນ�
 welcome-page1-youre-on-track-to-stay-protected = ທ່ານຢູ່ໃນເສັ້ນທາງທີ່ຈະຮັກສາການປົກປ້ອງ
 welcome-page1-youve-got-the-web-browser = ທ່ານມີເວັບບຣາວເຊີທີ່ປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າ - ດຽວນີ້ເຖິງເວລາແລ້ວທີ່ຈະຊອກຫາແຮກເກີ.
 welcome-page1-check-your-breach-report = ກວດເບິ່ງບົດລາຍງານການລະເມີດຂອງທ່ານ
+welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
 welcome-page1-stay-ahead-of-hackers = ຢູ່ນຳໜ້າພວກແຮກເກີ
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/

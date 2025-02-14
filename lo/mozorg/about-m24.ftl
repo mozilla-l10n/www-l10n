@@ -2,6 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-moz-account-product-firefox = { -brand-name-firefox }
-moz-account-product-monitor = { -brand-name-monitor }
-moz-account-product-pocket = { -brand-name-pocket }
+
+### URL: https://www-dev.allizom.org/about/
+
+
+## Intro
+
+
+## Manifesto
+
+m24-about-build = ສ້າງ
+m24-about-fund = ກອງທຶນ
+
+## News
+
+
+## Showcase
+
+
+## Careers
+
+
+## Community
+

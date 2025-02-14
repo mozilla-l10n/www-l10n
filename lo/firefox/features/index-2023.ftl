@@ -21,6 +21,7 @@ features-index-organize-your-bookmarks-with = ຈັດລະບຽບ bookmarks
 features-index-private-browsing-mode = ໂໝດການຄົ້ນຫາແບບສ່ວນຕົວ
 features-index-automatically-delete-cookies = ລຶບຄຸກກີ້ໂດຍອັດຕະໂນມັດ ແລະ ລຶບປະຫວັດບຣາວເຊີຂອງທ່ານເມື່ອທ່ານປິດມັນ.
 features-index-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } ສ່ວນເສີມ ແລະ ສ່ວນຂະຫຍາຍຂອງຕົວທ່ອງເວັບ
+features-index-add-new-tools-capabilities-and = ເພີ່ມເຄື່ອງມື, ຄວາມສາມາດ ແລະ ສິ່ງມ່ວນໆໃຫ້ກັບຕົວທ່ອງເວັບຂອງທ່ານ.
 features-index-pinned-browser-tabs = ປັກໝຸດແຖບບຣາວເຊີ
 features-index-eyedropper-tool = Eyedropper tool
 features-index-identify-the-exact-color-on-a = ກໍານົດສີທີ່ແນ່ນອນໃນຫນ້າໃດຫນຶ່ງ ແລະ ຄັດລອກລະຫັດ hex ຂອງມັນ.
