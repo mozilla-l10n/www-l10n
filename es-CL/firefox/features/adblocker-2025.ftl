@@ -12,3 +12,4 @@ features-adblocker-meta-title = Acerca de los Bloqueadores de publicidad - { -br
 features-adblocker-finding-the-right = Encuentra el bloqueador de publicidad adecuado para ti
 features-adblocker-there-are-many = Existen muchas herramientas de bloqueo de publicidad para explorar, cada una con características que se adaptan a diferentes preferencias. Encontrar la adecuada depende de tus deseos y hábitos de navegación. A continuación, se ofrecen algunos consejos que debes tener en cuenta:
 features-adblocker-enhanced-privacy = Privacidad y rendimiento mejorados con { -brand-name-firefox }
+features-adblocker-why-use = ¿Por qué utilizar un bloqueador de publicidad?
