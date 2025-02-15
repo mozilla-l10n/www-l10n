@@ -7,7 +7,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Informazioni di base sulla privacy
+privacy-firefox-youre-in-control = Prendi il controllo
 privacy-firefox-read-our-privacy = Leggi la nostra informativa sulla privacy
+privacy-firefox-keeping-you-informed = Ti teniamo informato, passo dopo passo
 privacy-firefox-we-believe-you = Riteniamo che dovresti sapere come vengono utilizzati i tuoi dati e per quale motivo. { -brand-name-firefox } è realizzato ponendo la privacy al primo posto e garantendo trasparenza a ogni livello.
 privacy-firefox-transparency-first = La trasparenza prima di tutto
 # Variables:
@@ -20,6 +22,7 @@ privacy-firefox-firefox-gives-you = { -brand-name-firefox } ti offre strumenti s
 privacy-firefox-always-protected = Sempre protetto
 privacy-firefox-firefox-protects-you = { -brand-name-firefox } ti protegge da elementi traccianti di terze parti conosciuti, traccianti sui social media, cryptominer, cookie e tecnologie di fingerprinting che cercano di pedinarti sul Web.
 privacy-firefox-privacy-that-works = La privacy su misura per te
+privacy-firefox-firefox-makes-it = { -brand-name-firefox } semplifica la gestione dei tuoi dati grazie a funzionalità integrate per la privacy e la sicurezza, oltre a fornire impostazioni che ti consentono di perfezionare la tua esperienza di navigazione.
 privacy-firefox-manage-your-privacy = Gestisci le tue impostazioni relative alla privacy per:
 privacy-firefox-firefox-for-desktop = { -brand-name-firefox } per desktop
 privacy-firefox-firefox-for-mobile = { -brand-name-firefox } per dispositivi mobili
