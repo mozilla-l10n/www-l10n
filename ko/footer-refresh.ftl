@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-refresh-discover-mozilla-products = { -brand-name-mozilla } 제품과 계획에 대해 알아보세요. 이메일은 안전하게 보호됩니다. 공유하거나 판매하지 않고 최신의 정보만 제공합니다.
 footer-refresh-leadership = 리더쉽
 footer-refresh-advertise = { -brand-name-mozilla }로 광고하기
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 출시 노트
@@ -36,4 +37,5 @@ footer-refresh-websites-cookies = 쿠키
 footer-refresh-websites-legal = 법적 고지
 footer-refresh-community-participation-guidelines = 커뮤니티 참여 가이드라인
 footer-refresh-about-this-site = 이 사이트 정보
+footer-refresh-all-languages = 모든 언어
 footer-refresh-language = 언어
