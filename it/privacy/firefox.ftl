@@ -5,3 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/privacy/firefox
 
+# hidden heading for the sections at the top of the page
+privacy-firefox-basics = Informazioni di base sulla privacy
