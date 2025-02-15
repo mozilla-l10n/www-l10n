@@ -7,3 +7,6 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Informazioni di base sulla privacy
+privacy-firefox-read-our-privacy = Leggi la nostra informativa sulla privacy
+privacy-firefox-we-believe-you = Riteniamo che dovresti sapere come vengono utilizzati i tuoi dati e per quale motivo. { -brand-name-firefox } è realizzato ponendo la privacy al primo posto e garantendo trasparenza a ogni livello.
+privacy-firefox-transparency-first = La trasparenza prima di tutto
