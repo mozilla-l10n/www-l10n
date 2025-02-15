@@ -20,3 +20,12 @@ privacy-firefox-firefox-gives-you = { -brand-name-firefox } ti offre strumenti s
 privacy-firefox-always-protected = Sempre protetto
 privacy-firefox-firefox-protects-you = { -brand-name-firefox } ti protegge da elementi traccianti di terze parti conosciuti, traccianti sui social media, cryptominer, cookie e tecnologie di fingerprinting che cercano di pedinarti sul Web.
 privacy-firefox-privacy-that-works = La privacy su misura per te
+privacy-firefox-manage-your-privacy = Gestisci le tue impostazioni relative alla privacy per:
+privacy-firefox-firefox-for-desktop = { -brand-name-firefox } per desktop
+privacy-firefox-firefox-for-mobile = { -brand-name-firefox } per dispositivi mobili
+# Variables:
+#   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
+privacy-firefox-take-me-back = <a { $attrs }>Torna all’inizio</a> dell’informativa sulla privacy
+# Variables:
+#   $attrs (string) - in-page link to the top of the page
+privacy-firefox-lost-in-the = Ti sei perso nei dettagli? Torna alle <a { $attrs }>informazioni di base sulla privacy di { -brand-name-firefox }</a>.
