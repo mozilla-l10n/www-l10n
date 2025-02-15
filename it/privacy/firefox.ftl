@@ -5,4 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/privacy/firefox
 
-privacy-firefox-how-we-use = Come utilizziamo i dati
