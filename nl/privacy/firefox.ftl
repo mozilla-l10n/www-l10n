@@ -8,6 +8,8 @@
 privacy-firefox-read-our-privacy = Onze Privacyverklaring lezen
 privacy-firefox-how-we-use = Hoe we gegevens gebruiken
 privacy-firefox-always-protected = Altijd beschermd
+privacy-firefox-privacy-that-works = Privacy die voor u werkt
+privacy-firefox-manage-your-privacy = Uw privacyinstellingen beheren:
 privacy-firefox-firefox-for-desktop = { -brand-name-firefox } voor Desktop
 privacy-firefox-firefox-for-mobile = { -brand-name-firefox } voor mobiel
 # links to Mozilla privacy policy
