@@ -9,3 +9,6 @@
 features-adblocker-ad-blocking = Манъкунии реклама
 # Page Title
 features-adblocker-meta-title = Дар бораи васоити манъкунии реклама - «{ -brand-name-firefox }»
+features-adblocker-finding-the-right = Дарёфтани манъкунандаи рекламае, ки ба ниёзҳои шумо мувофиқ аст
+features-adblocker-enhanced-privacy = Махфият ва самаранокии такмилёфта бо «{ -brand-name-firefox }»
+features-adblocker-why-use = Чаро шумо бояд аз манъкунандаи реклама истифода баред?
