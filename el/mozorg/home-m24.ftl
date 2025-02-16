@@ -50,7 +50,10 @@ m24-home-our-mission-is = Αποστολή μας είναι να καταστή
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Λογότυπο του { -brand-name-llamafile }.
 m24-home-llamafile = { -brand-name-llamafile }
+m24-home-alt-builders = Builders
+m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Λογότυπο του { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
