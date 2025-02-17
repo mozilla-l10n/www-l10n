@@ -17,6 +17,8 @@ m24-home-page-desc-v2 = Εργαζόμαστε για να επαναφέρου�
 m24-home-welcome-to-mozilla = Καλώς ορίσατε στη { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = Από αξιόπιστες τεχνολογίες μέχρι πολιτικές που υπερασπίζονται τα ψηφιακά σας δικαιώματα, προτεραιότητά μας είστε πάντοτε εσείς.
 m24-home-learn-about-us = Μάθετε για εμάς
+# Used as accessible text alternative for image
+m24-home-alt-flag = Μια στυλιζαρισμένη πράσινη σημαία σε μαύρο φόντο, αποτελούμενη από το «M» της { -brand-name-mozilla } και ένα pixel που έχει τοποθετηθεί με τέτοιο τρόπο, ώστε να θυμίζει το αρχικό λογότυπο με τον δεινόσαυρο.
 
 ## Products
 

@@ -26,6 +26,7 @@ m24-about-we-advocate-for = Αγωνιζόμαστε για καλύτερα π�
 m24-about-research = Έρευνα
 # Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Monitor
+m24-about-we-uncover-insights = Ανακαλύπτουμε πληροφορίες, διοργανώνουμε εκστρατείες για τη βελτίωση των προϊόντων και προωθούμε πολιτικές που αντικατοπτρίζουν τα συμφέροντά σας.
 # Obsolete string (expires: 2025-02-03)
 m24-about-we-monitor-developments = Παρακολουθούμε τις εξελίξεις, διεξάγουμε έρευνα και εκστρατείες για τη βελτίωση των προϊόντων και καθοδηγούμε τις πολιτικές που αντιπροσωπεύουν τα ενδιαφέροντά σας.
 m24-about-build = Ανάπτυξη
@@ -37,6 +38,7 @@ m24-about-we-fund-and = Χρηματοδοτούμε και επενδύουμε
 
 m24-about-read-more = Διαβάστε περισσότερα
 m24-about-read-the-latest = Διαβάστε τις τελευταίες ειδήσεις και άρθρα από τη { -brand-name-mozilla }
+m24-about-builders-program = Η δράση «{ -brand-name-mozilla-builders }» βοηθά τους προγραμματιστές να δημιουργήσουν καινοτόμα έργα ΤΝ ανοικτού κώδικα μέσω συνεργασιών, του προγραμματισμού και της κοινότητας
 m24-about-at-our-rise25 = Στα Βραβεία { -brand-name-rise25 }, το μέλλον της τεχνητής νοημοσύνης διαγράφεται αξιόπιστο, συμπεριληπτικό και υπεύθυνο
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Μια αποδέκτης του βραβείου { -brand-name-rise25 } που δείχνει το τρόπαιό της.
