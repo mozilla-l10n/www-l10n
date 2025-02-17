@@ -71,6 +71,8 @@ m24-home-find-the-just = Βρείτε το κατάλληλο LLM για τις 
 m24-home-alt-trustworthy = Mark Surman, Πρόεδρος της { -brand-name-mozilla }.
 m24-home-can-ai-be = Μπορεί η τεχνητή νοημοσύνη να είναι αξιόπιστη;
 m24-home-watch-now = Παρακολούθηση
+# Used as an accessible text alternative for an image
+m24-home-alt-ventures = Ομιλητής επί σκηνής με πολλαπλά λογότυπα προϊόντων.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Δωρίστε τη φωνή σας για να κάνετε την τεχνολογία ομιλίας πιο συμπεριληπτική και προσβάσιμη για όλους.
@@ -88,10 +90,14 @@ m24-home-tag-video = Βίντεο
 m24-home-topic-news = Ειδήσεις
 m24-home-topic-ai = Τεχνητή νοημοσύνη
 m24-home-topic-ps = Απόρρητο και ασφάλεια
+# Obsolete string (expires: 2025-02-03)
+m24-home-headline-you-ai = Επικεφαλίδα: Εσείς, η τεχνητή νοημοσύνη και το διαδίκτυο· τι πραγματικά συμβαίνει;
 m24-home-headline-you-ai-v2 = Εσείς, η τεχνητή νοημοσύνη και το διαδίκτυο· τι πραγματικά συμβαίνει;
 m24-home-introducing-anonym = Παρουσίαση του { -brand-name-anonym }: Ανεβάζοντας τον πήχη για τις ψηφιακές διαφημίσεις που διατηρούν το απόρρητό σας.
+m24-home-keeping-genai-technologies = Η συνεχής προστασία των τεχνολογιών GenAI αποτελεί κοινή ευθύνη.
 m24-home-from-hollywood-to = Από το Χόλιγουντ μέχρι τη χιπ χοπ, οι καλλιτέχνες συζητούν σχετικά με τη συναίνεση για τη χρήση των δεδομένων από την τεχνητή νοημοσύνη.
 m24-home-mozilla-celebrates-groundbreaking = Η { -brand-name-mozilla } τιμά τους πρωτοποριακούς δημιουργούς στη νέα σειρά ντοκιμαντέρ «{ -brand-name-firefox } Presents».
+m24-home-kids-are-growing = Τα παιδιά μεγαλώνουν σε έναν διαδικτυακό κόσμο. Τι πρέπει να κάνει ένας ανήσυχος γονέας;
 
 ## Showcase
 
