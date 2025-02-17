@@ -110,6 +110,7 @@ m24-home-alt-rise25-smiling = Ένας χαμογελαστός ομιλητής
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Ένας χαρούμενος τιμώμενος στο { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Κατάσταση της { -brand-name-mozilla }
+m24-home-mozilla-is-reinventing-itself = Η { -brand-name-mozilla } επαναπροσδιορίζει τον εαυτό της, διαφοροποιείται γύρω από ένα σύνολο οργανισμών, ανανεώνει τη διαφήμιση και δημιουργεί ένα ανοικτού κώδικα οικοσύστημα τεχνητής νοημοσύνης. Διαβάστε περισσότερα στην αναφορά σχετικά με την κατάσταση της { -brand-name-mozilla } για το 2024.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Αφηρημένη τέχνη εικονοστοιχείων στις αποχρώσεις του πράσινου, του πορτοκαλί και του ροζ
 m24-home-read-the-report = Διαβάστε την αναφορά
