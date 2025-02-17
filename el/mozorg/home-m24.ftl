@@ -34,8 +34,11 @@ m24-home-spot-fake-reviews = Εντοπίστε ψευδείς κριτικές,
 m24-home-pocket = { -brand-name-pocket }
 m24-home-save-the-internets = Αποθηκεύστε το καλύτερο περιεχόμενο του διαδικτύου σε οποιαδήποτε συσκευή. Γιατί ποιος έχει τον χρόνο να διαβάσει όλα τώρα;
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-keep-your-location = Διατηρήστε την τοποθεσία σας και τις διαδικτυακές σας περιπέτειες ιδιωτικές· κάντε streaming σαν να ήσασταν ντόπιοι, οπουδήποτε.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+m24-home-get-a-headsup = Λάβετε μια προειδοποίηση αν κινδυνεύουν τα προσωπικά σας δεδομένα και προστατεύστε τα σαν επαγγελματίες.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
+m24-home-mask-your-email = Αποκρύψτε το email και τον αριθμό τηλεφώνου σας για να λαμβάνετε μόνο τα μηνύματα που θέλετε.
 
 ## Donate
 
