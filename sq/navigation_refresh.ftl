@@ -21,6 +21,7 @@ navigation-refresh-innovation-projects-v2 = Projekte Risore
 navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Misioni Ynë
 navigation-refresh-our-work = Puna Jonë
+navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 # Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai = IA { -brand-name-mozilla }
 # Obsolete string (expires: 2025-01-05)

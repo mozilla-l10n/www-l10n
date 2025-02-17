@@ -9,3 +9,4 @@
 features-adblocker-ad-blocking = Bllokim Reklamash
 # Page Title
 features-adblocker-meta-title = Mbi Bllokues Reklamash- { -brand-name-firefox }
+features-adblocker-why-use = Pse të Përdoret një Bllokues Reklamash?
