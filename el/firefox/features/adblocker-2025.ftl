@@ -7,3 +7,5 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Φραγή διαφημίσεων
+# Page Title
+features-adblocker-meta-title = Σχετικά με τη φραγή διαφημίσεων - { -brand-name-firefox }
