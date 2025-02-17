@@ -11,11 +11,13 @@
 
 vpn-windows-download-page-title = Last ned { -brand-name-mozilla-vpn } for { -brand-name-windows }
 vpn-windows-downloading-mozilla-vpn = Lastar ned { -brand-name-mozilla-vpn } for { -brand-name-windows }…
+vpn-windows-go-to-your-downloads = Gå til nedlastingsmappa di og dobbelklikk på .msi-fila
 
 ## Mac download page
 
 vpn-mac-download-page-title = Last ned { -brand-name-mozilla-vpn } for { -brand-name-mac-short }
 vpn-mac-downloading-mozilla-vpn = Lastar ned { -brand-name-mozilla-vpn } for { -brand-name-mac-short }…
+vpn-mac-go-to-your-downloads = Gå til nedlastingsmappa di og dobbelklikk på pkg-fila
 
 ## Shared strings
 
