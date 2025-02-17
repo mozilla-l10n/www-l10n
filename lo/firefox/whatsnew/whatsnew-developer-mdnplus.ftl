@@ -7,6 +7,7 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-congrats-you-now-have-latest-v2 = ຊົມເຊີຍ. ຕອນນີ້ທ່ານມີເວີຊັນຫຼ້າສຸດຂອງ { -brand-name-firefox-developer-edition }.
 # Main title
 developer-mdnplus-more-mdn-your-mdn = ເພີ່ມເຕີມ { -brand-name-mdn }. <em>ຂອງທ່ານ</em> { -brand-name-mdn }.
 developer-mdnplus-mdn-is-an-open-source = { -brand-name-mdn-web-docs } ເປັນ open-source, ໂຄງການຮ່ວມມືທີ່ບັນທຶກເທັກໂນໂລຍີເວທີເວັບ, ລວມທັງ CSS, HTML, JavaScript ແລະ Web APIs. ພວກເຮົາຍັງສະຫນອງຊຸດຊັບພະຍາກອນການຮຽນຮູ້ຢ່າງກວ້າງຂວາງສໍາລັບນັກພັດທະນາ ແລະ ນັກຮຽນເລີ່ມຕົ້ນ.

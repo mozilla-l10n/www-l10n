@@ -15,6 +15,7 @@ welcome-page8-view-your-protection-report = ເບິ່ງບົດລາຍງ
 welcome-page8-enhanced-tracking-protection = ເພີ່ມການປ້ອງກັນການຕິດຕາມ
 welcome-page8-automatically-block-sites = ບລັອກເວັບໄຊບໍ່ໃຫ້ຕິດຕາມທ່ານທົ່ວອິນເຕີເນັດໂດຍອັດຕະໂນມັດ.
 welcome-page8-see-whats-blocked = ເບິ່ງສິ່ງທີ່ຖືກບລັອກ
+welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
 welcome-page8-see-what-youve-been = ເບິ່ງວ່າທ່ານໄດ້ມີສ່ວນຮ່ວມໃນການລະເມີດຂໍ້ມູນອອນໄລນ໌ທີ່ຮູ້ຈັກ ແລະ ດໍາເນີນການແກ້ໄຂພວກມັນ ຫຼື ບໍ່.
 welcome-page8-go-to-monitor = ໄປທີ່ { -brand-name-monitor }
 welcome-page8-firefox-send = { -brand-name-firefox-send }
