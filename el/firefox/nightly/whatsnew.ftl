@@ -15,6 +15,11 @@ nightly-whatsnew-this-is-a-good = Αυτή είναι η κατάλληλη στ
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
+#   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
+nightly-whatsnew-if-you-want-to-v4 = Αν θέλετε να μαθαίνετε τα νέα του { -brand-name-nightly } και της κοινότητάς του, μπορείτε να ξεκινήσετε διαβάζοντας το <a { $blog }>blog</a> μας και ακολουθώντας μας στο <a { $mastodon }>Mastodon</a> ή στο <a { $bluesky }>Bluesky</a>!
+# Variables:
+#   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 # Obsolete string (expires: 2025-04-18)
 nightly-whatsnew-if-you-want-to-v3 = Αν θέλετε να μαθαίνετε τα νέα του { -brand-name-nightly } και της κοινότητάς του, μπορείτε να ξεκινήσετε διαβάζοντας το <a { $blog }>blog</a> μας και ακολουθώντας μας στο <a { $mastodon }>Mastodon</a> ή στο <a { $twitter }>X</a>!
