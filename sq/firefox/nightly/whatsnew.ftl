@@ -16,6 +16,7 @@ nightly-whatsnew-this-is-a-good = Kjo është një kohë e përshtatshme për t�
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
+# Obsolete string (expires: 2025-04-18)
 nightly-whatsnew-if-you-want-to-v3 = Nëse doni të dini se ç’po ndodh rreth { -brand-name-nightly }-t dhe bashkësisë së tij, leximi i <a { $blog }>blogut</a> tonë dhe ndjekja jonë në <a { $mastodon }>Mastodon</a> ose <a { $twitter }>X</a> janë pikënisje të mira!
 # Variables:
 #   $attrs (string) - link href and additional attributes

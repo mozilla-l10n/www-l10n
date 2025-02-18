@@ -16,6 +16,7 @@ nightly-whatsnew-this-is-a-good = { -brand-name-firefox } کوں بہتر بݨا
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
+# Obsolete string (expires: 2025-04-18)
 nightly-whatsnew-if-you-want-to-v3 = ڄیکر تُساں ڄاݨن چاہن٘دے ہو جو { -brand-name-nightly }اَتے اِین٘دی بِیادری دے نیڑے تیڑے کیا تِھین٘دا پِیا ہِے تاں تُساں <a { $blog }>بلاگ</a>پڑھو اَتے <a { $mastodon }>Mastodon</a> یا <a { $twitter }>X</a> اُتے اَساݙی پیروی کرݨ چَنڳے اَغازی نُقطے ہِن!
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/

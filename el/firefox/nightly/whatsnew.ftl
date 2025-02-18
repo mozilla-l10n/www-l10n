@@ -16,6 +16,7 @@ nightly-whatsnew-this-is-a-good = Αυτή είναι η κατάλληλη στ
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
+# Obsolete string (expires: 2025-04-18)
 nightly-whatsnew-if-you-want-to-v3 = Αν θέλετε να μαθαίνετε τα νέα του { -brand-name-nightly } και της κοινότητάς του, μπορείτε να ξεκινήσετε διαβάζοντας το <a { $blog }>blog</a> μας και ακολουθώντας μας στο <a { $mastodon }>Mastodon</a> ή στο <a { $twitter }>X</a>!
 # Variables:
 #   $attrs (string) - link href and additional attributes

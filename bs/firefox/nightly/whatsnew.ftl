@@ -16,6 +16,7 @@ nightly-whatsnew-this-is-a-good = Ovo je dobro vrijeme da vam zahvalimo na pomo�
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
+# Obsolete string (expires: 2025-04-18)
 nightly-whatsnew-if-you-want-to-v3 = Ako želite znati šta se dešava oko { -brand-name-nightly }ja i njegove zajednice, čitajte naš <a { $blog }>blog</a> i ako nas pratite na platformama <a { $mastodon }>Mastodon</a> ili <a { $twitter }>X</a> to su dobre početne tačke!
 # Variables:
 #   $attrs (string) - link href and additional attributes

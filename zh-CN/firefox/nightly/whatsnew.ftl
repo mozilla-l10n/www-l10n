@@ -16,6 +16,7 @@ nightly-whatsnew-this-is-a-good = 非常感谢您帮助我们打造更好的 { -
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
+# Obsolete string (expires: 2025-04-18)
 nightly-whatsnew-if-you-want-to-v3 = 如果您想了解 { -brand-name-nightly } 及其社区的动态，不妨阅读我们的<a { $blog }>博客</a>，并在 <a { $mastodon }>Mastodon</a> 或 <a { $twitter }>X</a> 上关注我们！
 # Variables:
 #   $attrs (string) - link href and additional attributes

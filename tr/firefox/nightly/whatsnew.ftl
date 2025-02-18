@@ -16,6 +16,7 @@ nightly-whatsnew-this-is-a-good = Hem { -brand-name-firefox } tarayıcısını g
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
+# Obsolete string (expires: 2025-04-18)
 nightly-whatsnew-if-you-want-to-v3 = { -brand-name-nightly } tarayıcısında ve topluluğunda neler olup bittiğini merak ediyorsanız <a { $blog }>blogumuzu</a> okuyabilir ve bizi <a { $mastodon }>Mastodon</a> veya <a { $twitter }>X</a>’te takip edebilirsiniz.
 # Variables:
 #   $attrs (string) - link href and additional attributes
