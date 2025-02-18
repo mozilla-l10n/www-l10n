@@ -43,6 +43,7 @@ m24-home-mask-your-email = Αποκρύψτε το email και τον αριθ�
 ## Donate
 
 m24-home-donate-to-the = Κάντε δωρεά στη μη κερδοσκοπική { -brand-name-mozilla }
+m24-home-mozilla-is-building = Η { -brand-name-mozilla } αναπτύσσει ένα κίνημα για να διεκδικήσει ξανά το διαδίκτυο. Μαζί μπορούμε να διαμορφώσουμε ένα μέλλον, όπου το απόρρητό μας θα προστατεύεται, η τεχνητή νοημοσύνη θα είναι αξιόπιστη και οι ανεύθυνες εταιρείες τεχνολογίας θα λογοδοτούν. Αλλά αυτό είναι δυνατό μόνο ενώσουμε τις δυνάμεις μας.
 m24-home-were-proudly-nonprofit = Είμαστε ένας περήφανα μη κερδοσκοπικός οργανισμός. Θα κάνετε δωρεά στη { -brand-name-mozilla } σήμερα;
 m24-home-donate = Δωρεά
 
@@ -59,10 +60,12 @@ m24-home-our-mission-is = Αποστολή μας είναι να καταστή
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Λογότυπο του { -brand-name-llamafile }.
 m24-home-llamafile = { -brand-name-llamafile }
+m24-home-run-large-language = Εύκολη εκτέλεση μεγάλων γλωσσικών μοντέλων (LLM) στον υπολογιστή σας με το { -brand-name-llamafile }, χωρίς να απαιτείται εγκατάσταση, ενώ τα δεδομένα σας παραμένουν ασφαλή στη συσκευή σας.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+m24-home-builders-helps-independent-v2 = Η δράση «{ -brand-name-mozilla-builders }» βοηθά ανεξάρτητους προγραμματιστές να δημιουργήσουν καινοτόμα έργα ΤΝ ανοικτού κώδικα μέσω εξατομικευμένων συνεργασιών, του προγραμματισμού και της κοινότητας.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Λογότυπο του { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
@@ -70,6 +73,7 @@ m24-home-find-the-just = Βρείτε το κατάλληλο LLM για τις 
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Mark Surman, Πρόεδρος της { -brand-name-mozilla }.
 m24-home-can-ai-be = Μπορεί η τεχνητή νοημοσύνη να είναι αξιόπιστη;
+m24-home-in-a-world = Σε έναν κόσμο όπου η καινοτομία της τεχνητής νοημοσύνης καθοδηγείται από λίγους εκλεκτούς, παραμονεύει ο κίνδυνος ενός μονοπωλείου για αυτήν την τεχνολογία. Η εφαρμογή ιδεών ανοικτού κώδικα στην τεχνητή νοημοσύνη μπορεί να το αλλάξει αυτό.
 m24-home-watch-now = Παρακολούθηση
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Ομιλητής επί σκηνής με πολλαπλά λογότυπα προϊόντων.
