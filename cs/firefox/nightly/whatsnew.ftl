@@ -15,6 +15,11 @@ nightly-whatsnew-this-is-a-good = Nyní je správný čas poděkovat vám za pom
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
+#   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
+nightly-whatsnew-if-you-want-to-v4 = Pokud chcete vědět, co se děje okolo { -brand-name-nightly(case: "gen") } a naší komunity, přečtěte si náš <a { $blog }>blog</a> a sledujte náš <a { $mastodon }>Matodon</a> nebo <a { $bluesky }>Bluesky</a> jsou dobrým výchozím bodem!
+# Variables:
+#   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 # Obsolete string (expires: 2025-04-18)
 nightly-whatsnew-if-you-want-to-v3 = Pokud chcete vědět, co se děje kolem { -brand-name-nightly } a jeho komunity, přečtěte si náš <a { $blog }>blog</a> a sledujte nás na sítích <a { $mastodon }>Mastodon</a> nebo <a { $twitter }>X</a>!
