@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = ມີຫຍັງໃໝ່ກັບ { -brand-name-firefox }
 whatsnew-page-description = ເອົາຈຸດຢືນຂອງທ່ານຕໍ່ກັບອຸດສາຫະກໍາທີ່ຂາຍຂໍ້ມູນຂອງທ່ານໃຫ້ກັບບຸກຄົນທີສາມ. ຢູ່ໃນອິນເຕີເນັດຢ່າງສະຫຼາດ ແລະປອດໄພດ້ວຍເທັກໂນໂລຍີທີ່ຕໍ່ສູ້ກັບທ່ານ.
 whatsnew-firefox = { -brand-name-firefox }

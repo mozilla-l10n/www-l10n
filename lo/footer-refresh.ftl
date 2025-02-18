@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-refresh-leadership = ຄວາມເປັນຜູ້ນຳ
+footer-refresh-advertise = ໂຄສະນາກັບ { -brand-name-mozilla }
 footer-refresh-careers = ຕຳແຫນ່ງວຽກ
 footer-refresh-contact = ຕິດຕໍ່
 footer-refresh-file-a-bug = ລາຍງານບັກ

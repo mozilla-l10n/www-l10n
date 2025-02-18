@@ -31,5 +31,7 @@ features-index-pdf-editor = ໂຕແກ້ໄຂ PDF
 features-index-view-and-edit-pdf-files = ເບິ່ງ ແລະ ແກ້ໄຂໄຟລ໌ PDF ໄດ້ທັນທີໃນ { -brand-name-firefox }.
 features-index-fingerprint-blocking = ການຂັດຂວາງລາຍນິ້ວມື
 features-index-ad-tracker-blocking = ປ້ອງກັນການຕິດຕາມຈາກໂຄສະນາ
+# "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
+features-index-ditch-the-sticky-ads = ຍົກເລີກການໂຄສະນາທີ່ຕິດຢູ່ຕາມທ່ານດ້ວຍຕົວບລັອກການພິມລາຍນິ້ວມືໃນຕົວຂອງ { -brand-name-firefox }.
 features-index-translate-the-web = ແປເວັບ
 features-index-picture-in-picture = ຮູບພາບໃນຮູບ
