@@ -4,9 +4,13 @@
 
 footer-refresh-leadership = ຄວາມເປັນຜູ້ນຳ
 footer-refresh-advertise = ໂຄສະນາກັບ { -brand-name-mozilla }
+footer-refresh-youtube = YouTube
+footer-refresh-company = ບໍລິສັດ
 footer-refresh-careers = ຕຳແຫນ່ງວຽກ
 footer-refresh-contact = ຕິດຕໍ່
+footer-refresh-support = ສະຫນັບສະຫນູນ
 footer-refresh-file-a-bug = ລາຍງານບັກ
+footer-refresh-localize-mozilla = ແປ { -brand-name-mozilla }
 footer-refresh-developers = ນັກພັດທະນາ
 footer-refresh-websites-cookies = ຄຸກກີ້
 footer-refresh-websites-legal = ຂໍ້ກົດຫມາຍ

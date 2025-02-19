@@ -7,6 +7,7 @@
 
 features-shared-firefox-features = ຄຸນສົມບັດຂອງ { -brand-name-firefox }
 features-shared-footer-cta-title = ເຮັດໄດ້ຫຼາຍຂຶ້ນກັບ { -brand-name-firefox }
+features-shared-footer-cta-desc = ຮັບເອົາຕົວທ່ອງເວັບທີ່ໄວ, ນ້ຳໜັກເບົາ, ເນັ້ນຄວາມເປັນສ່ວນຕົວທີ່ໄດ້ຮັບການສະໜັບສະໜຸນໂດຍອົງກອນທີ່ບໍ່ຫວັງຜົນກຳໄລ ແລະ ໃຊ້ໄດ້ໃນທົ່ວທຸກອຸປະກອນຂອງທ່ານ.
 features-shared-footer-cta-button = ດາວໂຫລດ { -brand-name-firefox }
 features-shared-is-firefox-a-fast-browser = { -brand-name-firefox } ເປັນຕົວທ່ອງເວັບທີ່ໄວບໍ?
 features-shared-is-firefox-a-private-browser = { -brand-name-firefox } ເປັນຕົວທ່ອງເວັບສ່ວນຕົວບໍ?

@@ -34,6 +34,7 @@ firefox-products-get-mozilla-vpn = ເອົາ { -brand-name-mozilla-vpn }
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-support-mdn = ສະຫນັບສະຫນູນ { -brand-name-mdn }
 
 ## Thunderbird
 
