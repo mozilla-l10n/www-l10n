@@ -16,7 +16,7 @@ nightly-whatsnew-this-is-a-good = 這是一個能夠感謝您幫助我們讓 { -
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
-nightly-whatsnew-if-you-want-to-v4 = 若您想要知道 { -brand-name-nightly } 與測試社群有什麼新鮮事請閱讀我們的<a { $blog }>部落格</a>或是在 <a { $mastodon }> Mastodon</a> 上關注我們或 <a { $blueski }>BlueSkype</a> 都是不錯的起點
+nightly-whatsnew-if-you-want-to-v4 = 若您想要知道 { -brand-name-nightly } 與測試社群有什麼新鮮事請，可閱讀我們的<a { $blog }>部落格</a>或是到 <a { $mastodon }>Mastodon</a> 或 <a { $bluesky }>Bluesky</a> 上關注我們！
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
