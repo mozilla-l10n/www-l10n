@@ -17,7 +17,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Awi iminig ara yemmestnen ayen yesεan azal
 firefox-desktop-download-download-options = Sader iɣewwaṛen d tutlayin-nniḍen
 firefox-desktop-download-browser-support = Asefrek { -brand-name-firefox-browser }
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Xdem ayen tebɣiḍ srid. <br> { -brand-name-firefox-browser } <strong>ur d-yettwali ara</strong>.
 firefox-desktop-download-how-firefox-compares = Amek yesserwas { -brand-name-firefox } d yiminigen-nniḍen
 firefox-desktop-download-how-we-compare = Amek i nesserwas ɣer yiminigen-nniḍen

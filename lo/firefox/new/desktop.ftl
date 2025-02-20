@@ -17,11 +17,11 @@ firefox-desktop-download-og-title = ດາວໂຫຼດ { -brand-name-firefox 
 firefox-desktop-download-og-desc = ການໂຫຼດຫນ້າເວັບທີ່ໄວ, ໃຊ້ຫນ່ວຍຄວາມຈໍາຫນ້ອຍ ແລະ ບັນຈຸຄຸນນະສົມບັດທີ່ຄັບແໜ້ນ, { -brand-name-firefox } ໃຫມ່ແມ່ນຢູ່ທີ່ນີ້ແລ້ວ.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = ເອົາຕົວທ່ອງເວັບທີ່ປົກປ້ອງສິ່ງທີ່ສໍາຄັນ
-# shady is slang which suggests something is untrustworthy
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = ບໍ່ມີນະໂຍບາຍຄວາມເປັນສ່ວນຕົວທີ່ຮົ່ມຫຼືປະຕູຫລັງສໍາລັບຜູ້ໂຄສະນາ. ພຽງແຕ່ເປັນຕົວທ່ອງເວັບໄວຟ້າຜ່າທີ່ບໍ່ຂາຍຂໍ້ມູນທ່ານ.
 firefox-desktop-download-download-options = ທາງເລືອກໃນການດາວໂຫຼດ ແລະພາສາອື່ນໆ
 firefox-desktop-download-browser-support = ຮອງຮັບ { -brand-name-firefox-browser }
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = ເຮັດສິ່ງທີ່ທ່ານເຮັດອອນໄລນ໌.<br> { -brand-name-firefox-browser } <strong>ບໍ່ໄດ້</strong> ເບິ່ງ.
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } ປຽບທຽບກັບຕົວທ່ອງເວັບອື່ນແນວໃດ
 firefox-desktop-download-get-all-the-speed = ໄດ້ຮັບຄວາມໄວແລະເຄື່ອງມືທັງຫມົດໂດຍບໍ່ມີການບຸກລຸກຂອງຄວາມເປັນສ່ວນຕົວ. { -brand-name-firefox-browser } ເກັບກໍາຂໍ້ມູນພຽງເລັກນ້ອຍກ່ຽວກັບທ່ານ, ພວກເຮົາບໍ່ຮຽກຮ້ອງໃຫ້ທີ່ຢູ່ອີເມວຂອງທ່ານເພື່ອດາວໂຫລດ. ນັ້ນແມ່ນຍ້ອນວ່າບໍ່ເຫມືອນກັບຕົວທ່ອງເວັບອື່ນໆ, ພວກເຮົາບໍ່ມີສ່ວນກ່ຽວຂ້ອງທາງດ້ານການເງິນໃນການຕິດຕາມເຈົ້າທົ່ວເວັບ.
@@ -124,6 +124,7 @@ firefox-desktop-download-from-security-to = ຈາກຄວາມປອດໄພ
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ຖືກສ້າງຂື້ນໂດຍ <a { $attrs }>{ -brand-name-mozilla }</a> ເປັນທາງເລືອກທີ່ໄວກວ່າ ແລະເປັນສ່ວນຕົວກວ່າຂອງຕົວທ່ອງເວັບເຊັ່ນ { -brand-name-ie }, ແລະ ດຽວນີ້ { -brand-name-chrome }. ໃນມື້ນີ້, ບໍລິສັດທີ່ຂັບເຄື່ອນພາລະກິດຂອງພວກເຮົາແລະຊຸມຊົນອາສາສະຫມັກຍັງສືບຕໍ່ເຮັດໃຫ້ຄວາມເປັນສ່ວນຕົວຂອງທ່ານເຫນືອສິ່ງອື່ນໃດ.
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = ເມື່ອອິນເຕີເນັດເຕີບໃຫຍ່ ແລະປ່ຽນແປງ, { -brand-name-firefox } ຍັງສືບຕໍ່ເນັ້ນໃສ່ສິດທິສ່ວນຕົວຂອງເຈົ້າ - ພວກເຮົາເອີ້ນວ່າ <a { $attrs }>ສັນຍາຂໍ້ມູນສ່ວນຕົວ</a>: ໃຊ້ໜ້ອຍລົງ. ຮັກສາຄວາມປອດໄພ. ບໍ່ມີຄວາມລັບ. ຂໍ້​ມູນ​ຂອງ​ທ່ານ, ກິດ​ຈະ​ກໍາ​ເວັບ​ໄຊ​ຕ​໌​ຂອງ​ທ່ານ, ຊີ​ວິດ​ອອນ​ໄລ​ນ​໌​ຂອງ​ທ່ານ​ໄດ້​ຮັບ​ການ​ປົກ​ປ້ອງ​ດ້ວຍ { -brand-name-firefox }.

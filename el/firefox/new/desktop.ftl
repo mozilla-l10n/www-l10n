@@ -20,11 +20,11 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Διατίθεται ένα ακόμα νεότερο { -brand-name-firefox }. <a { $update_url }>Κάντε ενημέρωση στην πιο πρόσφατη έκδοση</a>
 firefox-desktop-download-get-the-browser = Το πρόγραμμα περιήγησης που φυλάσσει ό,τι είναι σημαντικό
-# shady is slang which suggests something is untrustworthy
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Καμία κρυφή πολιτική απορρήτου ή πίσω πόρτες για διαφημιστές. Απλά ένα αξιόπιστο και γρήγορο πρόγραμμα περιήγησης.
 firefox-desktop-download-download-options = Επιλογές λήψεων και άλλες γλώσσες
 firefox-desktop-download-browser-support = Υποστήριξη { -brand-name-firefox-browser }
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Κάντε ό,τι θέλετε στο διαδίκτυο.<br>Το { -brand-name-firefox-browser } <strong>δεν</strong> σας παρακολουθεί.
 firefox-desktop-download-how-firefox-compares = Σύγκριση του { -brand-name-firefox } με αντίστοιχα προγράμματα
 firefox-desktop-download-get-all-the-speed = Αποκτήστε την ταχύτητα και τα εργαλεία χωρίς παραβίαση του απορρήτου. Το { -brand-name-firefox-browser } συλλέγει ελάχιστα δεδομένα· δεν χρειαζόμαστε καν το email σας για λήψη. Σε αντίθεση με άλλα προγράμματα περιήγησης, δεν έχουμε κανένα οικονομικό συμφέρον από την παρακολούθηση των κινήσεών σας στον ιστό.
@@ -127,6 +127,7 @@ firefox-desktop-download-from-security-to = Υπάρχει πάντα μια <a 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = Το { -brand-name-firefox } δημιουργήθηκε από τη <a { $attrs }>{ -brand-name-mozilla }</a> ως μια ταχύτερη, πιο ιδιωτική εναλλακτική λύση για το { -brand-name-ie }, και πλέον για το { -brand-name-chrome }. Σήμερα, η εταιρεία μας και η κοινότητα των εθελοντών μας συνεχίζουν να θέτουν το απόρρητό σας πάνω απ' όλα.
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Όσο το διαδίκτυο αναπτύσσεται και αλλάζει, το { -brand-name-firefox } συνεχίζει να εστιάζει στο δικαίωμά σας στο απόρρητο, όπως αναφέρει η <a { $attrs }>Υπόσχεση προσωπικών δεδομένων</a>: Λιγότερα δεδομένα. Με ασφάλεια. Χωρίς μυστικά. Τα δεδομένα και η διαδικτυακή σας ζωή προστατεύονται με το { -brand-name-firefox }.

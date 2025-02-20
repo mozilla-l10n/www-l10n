@@ -20,11 +20,11 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Uudempi { -brand-name-firefox } on saatavilla. <a { $update_url }>Päivitä uusimpaan versioon</a>
 firefox-desktop-download-get-the-browser = Hanki tärkeitä asioita suojaava selain
-# shady is slang which suggests something is untrustworthy
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Ei hämäriä tietosuojakäytäntöjä tai takaovia mainostajille. Vain salamannopea selain, jolle et ole kauppatavaraa.
 firefox-desktop-download-download-options = Latausvalinnat ja muut kielet
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser }-tuki
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Tee mitä haluat verkossa.<br> { -brand-name-firefox-browser } <strong>ei</strong> tarkkaile.
 firefox-desktop-download-how-firefox-compares = Kuinka { -brand-name-firefox } pärjää muita selaimia vasten
 firefox-desktop-download-get-all-the-speed = Saat kaiken nopeuden ja kaikki työkalut ilman uhkaa yksityisyyden loukkauksesta. { -brand-name-firefox-browser } kerää sinusta mahdollisimman vähän tietoja, emme edes vaadi sähköpostiosoitettasi lataamiseen. Tämä johtuu siitä, että toisin kuin muilla selaimilla, meillä ei ole taloudellista intressiä seurata sinua verkossa.
@@ -127,6 +127,7 @@ firefox-desktop-download-from-security-to = Tietoturvasta uutisten kautta pelaam
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } on luotu <a { $attrs }>{ -brand-name-mozilla }</a>n toimesta nopeammaksi ja yksityisemmäksi vaihtoehdoksi selaimille, kuten { -brand-name-ie }, ja nyt { -brand-name-chrome }. Tänä päivänä tehtävälähtöinen yrityksemme ja vapaaehtoisyhteisömme asettavat edelleen yksityisyytesi kaiken muun edelle.
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Internetin kasvaessa ja muuttuessa { -brand-name-firefox } keskittyy edelleen oikeuteesi yksityisyyteen – kutsumme sitä <a { $attrs }>henkilökohtaisten tietojen lupaukseksi</a>: Ota vähemmän. Pidä se turvassa. Ei salaisuuksia. { -brand-name-firefox } suojaa tietojasi ja toimintaasi verkossa.

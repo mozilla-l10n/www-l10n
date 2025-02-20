@@ -19,11 +19,11 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Samo nowšy { -brand-name-firefox } jo k dispoziciji. <a { $update_url }>Na nejnowšu wersiju aktualizěrowaś</a>
 firefox-desktop-download-get-the-browser = Wobstarajśo se wobglědowak, kótaryž šćita, což jo wažne.
-# shady is slang which suggests something is untrustworthy
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Žedne póchmurne pšawidła priwatnosći abo slězne źuŕka za wabjarje. Jano spěšnučki wobglědowak, kótaryž was njewobšuźujo.
 firefox-desktop-download-download-options = Ześěgnjeńske móžnosći a druge rěcy
 firefox-desktop-download-browser-support = Pomoc wó { -brand-name-firefox-browser }
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Cyńśo online, což cośo.<br> { -brand-name-firefox-browser } <strong>nje</strong>pśiglědujo.
 firefox-desktop-download-how-firefox-compares = Pśirownanje mjazy { -brand-name-firefox } a drugimi wobglědowakami
 firefox-desktop-download-how-we-compare = Kak w pśirownanju k drugim wobglědowakam wótrěznjomy
@@ -125,6 +125,7 @@ firefox-desktop-download-from-security-to = Wót wěstoty pśez powěsći do gra
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } jo se napórał wót <a { $attrs }>{ -brand-name-mozilla }</a> ako malsnjejša, priwatnjejša alternatiwa k wobglědowakam ako { -brand-name-ie }, a něnto { -brand-name-chrome }. Źinsa našo pśedewześe a zgromaźeństwo dobrowólnikow hyšći našej misiji slědujotej, aby waš priwatnosć nade wšym stajiłej.
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Mjaztym až internet rosćo a se změnja, staja { -brand-name-firefox } dalej swój fokus na wašo pšawo na priwatnosć – pomjenijomy to <a { $attrs }>zlubjenje za wósobinske daty</a>: Gromaźćo mjenjej. Źaržćo jen wěsty. Žedne pótajmstwa. Waše daty, waša webaktiwita, wašo žywjenje online se pśez { -brand-name-firefox } šćitaju.

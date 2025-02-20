@@ -20,11 +20,11 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = ہک ٻیا وی نواں { -brand-name-firefox } دستیاب ہے۔  <a { $update_url }>  نویں نکور ورژن وِچ اپ ڈیٹ کرو </a>
 firefox-desktop-download-get-the-browser = براؤزر گھنو جہڑا حفاظت کریندے تے تہاݙے کیتے اہم ہے
-# shady is slang which suggests something is untrustworthy
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = مشتہرین کیتے کوئی مشکوک رازداری دی پالیسی یا پچھلے دروازے کائنی۔ صرف ہک تیز رفتار براؤزر جیڑھا تہاکوں نہیں ویچیندا۔
 firefox-desktop-download-download-options = ڈاؤن لوڈ اختیارات تے ٻیاں زباناں
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } سپورٹ
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = جو تساں آن لائن کریندے ہو، او کرو۔<br>{ -brand-name-firefox-browser }<strong> کائنی </strong> ݙیہدا پیا۔
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } دا ٻئے براؤزراں نال کین٘ویں موازنہ کروں
 firefox-desktop-download-get-all-the-speed = رازداری دے کہیں وی حملے دے بغیر تمام رفتار تے ٹولز حاصل کرو۔ { -brand-name-firefox-browser } تہاݙے بارے اتنا گھٹ ڈیٹا کٹھا کریندا ہے، اساکوں ڈاؤن لوڈ کرݨ کیتے تہاݙے ای میل ایڈریس دی وی ضرورت کائنی۔ ایندی وجہ ایہ ہے جو ٻئے براؤزرز دے اُپٹھ، ویب تے تہاݙی پیروی کرݨ وِچ اساݙا کوئی مالی حصہ کائنی۔
@@ -127,6 +127,7 @@ firefox-desktop-download-from-security-to = سیکیورٹی کنون گھن ت�
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } کوں <a { $attrs }>{ -brand-name-mozilla }</a> { -brand-name-ie } جیویں براؤزرز دے تیز، زیادہ نجی متبادل دے طور تے بݨایا ہا۔ ہݨ { -brand-name-chrome }۔ اڄ، اساݙی مشن نال چلݨ والی کمپنی تے رضاکار برادری تہاݙی رازداری کوں ہر چیز تے مقدم رکھیندی ہے۔
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = جیویں جیویں انٹرنیٹ ودھدا تے تبدیل تھیندا ہے، { -brand-name-firefox } تہاݙے رازداری دے حق تے توجہ مرکوز کریندا رہندا ہے — اساں اینکوں <a { $attrs }>ذاتی ڈیٹا وعدہ</a> آہدے ہیں: گھٹ گھنو۔ اینکوں محفوظ رکھو۔ کوئی راز کائنی۔ تہاݙا ڈیٹا، تہاݙی ویب سرگرمی، تہاݙی آن لائن زندگی { -brand-name-firefox } دے نال محفوظ ہے۔

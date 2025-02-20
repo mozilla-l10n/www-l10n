@@ -20,11 +20,11 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Elérhető egy még újabb { -brand-name-firefox }. <a { $update_url }>Frissítés a legújabb verzióra</a>
 firefox-desktop-download-get-the-browser = Szerezze be azt a böngészőt, amely védi, ami fontos
-# shady is slang which suggests something is untrustworthy
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Nincsenek kétes adatvédelmi irányelvek vagy hátsó ajtók a hirdetőknek. Csak egy villámgyors böngésző, ami nem bocsátja áruba.
 firefox-desktop-download-download-options = Letöltési lehetőségek és más nyelvek
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } támogatása
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Tegye, amit tesz online.<br> A { -brand-name-firefox-browser } <strong>nem</strong> figyeli.
 firefox-desktop-download-how-firefox-compares = Hogy áll a { -brand-name-firefox } a többi böngészőhöz képest
 firefox-desktop-download-get-all-the-speed = Használja ki a sebességet és az eszközöket, anélkül hogy engedne az adatvédelemből. A { -brand-name-firefox-browser } olyan kevés adatot gyűjt Önről, hogy még az e-mail címét sem kérjük el a letöltéshez. Ennek az az oka, hogy más cégekkel ellentétben nincs pénzügyi okunk arra, hogy kövessük Önt a weben.
@@ -127,6 +127,7 @@ firefox-desktop-download-from-security-to = A biztonságtól kezdve a hírekig �
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = A { -brand-name-firefox(case: "accusative") } a <a { $attrs }>{ -brand-name-mozilla }</a> készítette, hogy egy gyorsabb, biztonságosabb alternatívája legyen az olyan böngészőknek, mint az { -brand-name-ie }, és most a { -brand-name-chrome }. Ma a küldetés-vezérelt cégünk és az önkéntesekből álló közösségünk továbbra is az adatvédelmet helyezi az első helyre.
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Ahogy az internet nő és változik, a { -brand-name-firefox } továbbra is az adatvédelemhez való jogra fókuszál  – ezt mi a <a { $attrs }>személyes adatokra vonatkozó ígéretünknek</a> hívjuk: Gyűjts kevesebbet. Tartsd biztonságban. Nincsenek titkok. Az adatait, webes tevékenységét és az online életét a { -brand-name-firefox } védi.

@@ -20,11 +20,11 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Доступан је још новији { -brand-name-firefox }. <a { $update_url }>Ажурирајте на најновију верзију</a>
 firefox-desktop-download-get-the-browser = Преузмите прегледач који штити оно што је вредно
-# shady is slang which suggests something is untrustworthy
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Без нејасних правила о приватности или оглашивача из залеђа. Само брз прегледач који не тргује вашим подацима.
 firefox-desktop-download-download-options = Опције преузимања и језика
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } подршка
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Шта год да радите на мрежи, <br> { -brand-name-firefox-browser } <strong>не</strong> гледа.
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } у поређењу с другим прегледачима
 firefox-desktop-download-get-all-the-speed = Добијте сву брзину и алате без жртвовања приватности. { -brand-name-firefox-browser } прикупља тако мало података о вама да нам чак није потребна ваша адреса е-поште за преузимање. За разлику од других прегледача, ми немамо финансијски интерес да пратимо ваше активности на вебу.
@@ -127,6 +127,7 @@ firefox-desktop-download-from-security-to = Од безбедности, пре�
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } је направила <a { $attrs }>{ -brand-name-mozilla }</a> као бржу и приватнију алтернативу прегледачима као што су { -brand-name-ie } и { -brand-name-chrome } тренутно. Данас, наша компанија и заједница волонтера још увек прате мисију постављања људи испред профита.
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Како интернет расте и мења се, { -brand-name-firefox } наставља да се фокусира на ваше право на приватност  — називамо га <a { $attrs }>обећање о личним подацима</a>: мање узимај. Боље чувај. Без тајни. Ваши подаци, веб активности и живот на мрежи су заштићени уз { -brand-name-firefox }.

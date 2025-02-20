@@ -20,11 +20,11 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Ka të gatshëm një { -brand-name-firefox } edhe më të ri. <a { $update_url }>Përditësojeni me versionin më të ri</a>
 firefox-desktop-download-get-the-browser = Merrni shfletuesin që mbron çka është e rëndësishme
-# shady is slang which suggests something is untrustworthy
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Pa rregulla privatësie me hije, apo deriçka të pasme për reklamues. Thjesht një shfletues të shpejtë si rrufe, që nuk ju shet te të tjerët.
 firefox-desktop-download-download-options = Mundësi shkarkimi dhe gjuhë të tjera
 firefox-desktop-download-browser-support = Asistencë për { -brand-name-firefox-browser }
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Bëni ato çka bëni në internet.<br> { -brand-name-firefox-browser } <strong>s’ju</strong> vëzhgon.
 firefox-desktop-download-how-firefox-compares = Si del { -brand-name-firefox } në krahasim me shfletues të tjerë
 firefox-desktop-download-get-all-the-speed = Përfitoni krejt shpejtësinë dhe mjetet pa asnjë prej shkeljeve të privatësisë. { -brand-name-firefox-browser } grumbullon kaq pak të dhëna rreth jush, sa as që ju kërkojmë adresë email për ta shkarkuar. Kjo vjen ngaqë, ndryshe nga shfletues të tjerë, s’kemi interesa financiare për ndjekjen tuaj nëpër internet.
@@ -127,6 +127,7 @@ firefox-desktop-download-from-security-to = Nga siguria te lajmet, e më tej te 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } u krijua nga <a { $attrs }>{ -brand-name-mozilla }</a> si një alternativë më e shpejtë, më private ndaj shfletuesish të tillë si { -brand-name-ie } dhe tani { -brand-name-chrome }. Sot, shoqëria jonë edhe bashkësia e vullnetarëve të shtyrë përpara nga një mision vazhdojnë ta vënë privatësinë tuaj mbi gjithçka.
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Teksa interneti rritet dhe ndryshon, { -brand-name-firefox } vazhdon të përqendrohet te e drejta juaj për privatësi — e quajmë <a { $attrs }>Premtimi rreth të Dhënave Personale</a>: Merr më pak. Mbaji të parrezikuara. Pa të fshehta. Të dhënat tuaja, veprimtaria juaj në internet, jeta juaj internetore janë të mbrojtura me { -brand-name-firefox }.

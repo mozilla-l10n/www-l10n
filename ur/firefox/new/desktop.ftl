@@ -15,11 +15,11 @@ firefox-desktop-download-og-title = اب تک کا سب سے تیز { -brand-nam
 firefox-desktop-download-og-desc = تیز پیج لوڈنگ ، میموری کا کم استعمال اور خصوصیات سے بھرا ہوا ، نیا { -brand-name-firefox } یہاں ہے۔
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = براؤزر حاصل کریں جو حفظات کرتا ہنے جو آپکے لئے اہم ہے
-# shady is slang which suggests something is untrustworthy
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = مشتھرین کے لئے کوئی مشکوک رازداری کی پالیسیاں یا پیچھے کے دروازے نہیں۔ صرف بجلی کا تیز تیز براؤزر جو آپ کو فروخت نہیں کرتا ہے۔
 firefox-desktop-download-download-options = ڈاؤن لوڈ  اختیارات اور دیگر زبانیں
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } سپورٹ
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = وہ کریں جو آپ آن لائن کرتے ہیں.<br> { -brand-name-firefox-browser }<strong> آپکو نہیں</strong> دیکھ رہا
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } کا دیگر براؤزر سے کیسے موازنہ کریں
 firefox-desktop-download-how-we-compare = ہم دوسرے براؤزر سے کس طرح موازنہ کرتے ہیں

@@ -20,11 +20,11 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Enn nýrri útgáfa { -brand-name-firefox } er fáanleg. <a { $update_url }>Uppfærðu í nýjustu útgáfuna</a>
 firefox-desktop-download-get-the-browser = Fáðu þér vafrann sem verndar það sem er mikilvægt
-# shady is slang which suggests something is untrustworthy
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Engar loðnar persónuverndarstefnur eða bakdyr fyrir auglýsendur. Bara leifturhraður vafri sem selur þig ekki.
 firefox-desktop-download-download-options = Valkostir við niðurhal og önnur tungumál
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } aðstoð
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Gerðu það sem þú gerir á netinu.<br> { -brand-name-firefox-browser } <strong>er ekki</strong> að glápa.
 firefox-desktop-download-how-firefox-compares = Hvernig { -brand-name-firefox } er í samanburði við aðra vafra
 firefox-desktop-download-get-all-the-speed = Fáðu allan hraðann og öll verkfærin án innrása í friðhelgi einkalífsins. { -brand-name-firefox-browser } safnar svo litlum gögnum um þig að við þurfum ekki einu sinni að fá tölvupóstfangið þitt svo þú getir sótt vafrann. Ólíkt öðrum vöfrum höfum við nefninlega engan fjárhagslegan ávinning í að fylgjast með þér vafra um vefinn.
@@ -127,6 +127,7 @@ firefox-desktop-download-from-security-to = Frá öryggismálum til frétta til 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } var búið til af <a { $attrs }>{ -brand-name-mozilla }</a> sem hraðvirkari, persónulegri valkostur við vafra eins og { -brand-name-ie } og núna { -brand-name-chrome }. Í dag halda verkefnisdrifna fyrirtækið okkar og sjálfboðaliðasamfélagið áfram að setja friðhelgi þína ofar öllu öðru.
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Eftir því sem internetið stækkar og breytist heldur { -brand-name-firefox } áfram að einbeita sér að rétti þínum til friðhelgi einkalífs – við köllum það <a { $attrs }>loforð um persónuupplýsingar</a>: Taka minna. Geyma öruggt. Engin leyndarmál. Gögnin þín, vefvirkni þín, líf þitt á netinu er verndað með { -brand-name-firefox }.

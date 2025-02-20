@@ -17,11 +17,11 @@ firefox-desktop-download-og-title = ከመቼውም ጊዜ ፈጣኑን { -brand
 firefox-desktop-download-og-desc = ፈጣን ገጽ መጫን፣ አነስተኛ የማህደረ ትውስታ አጠቃቀም እና በባህሪያት የታጨቀ፣ አዲሱ { -brand-name-firefox } እዚህ አለ።
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = አስፈላጊ የሆነውን የሚጠብቅ አሳሽ ያግኙ
-# shady is slang which suggests something is untrustworthy
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = ለአስተዋዋቂዎች ፍንጭ የሚሰጥ የግላዊነት መተዳደሪያ ወይም የኋላ በሮች የሉትም። እርስዎን የማይሸጥ መብረቅ የሆነ ፈጣን አሳሽ ብቻ።
 firefox-desktop-download-download-options = አማራጮችን እና ሌሎች ቋንቋዎችን አውርድ
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } ድጋፍ
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = በመስመር ላይ የሚያደርጉትን ያድርጉ።<br> { -brand-name-firefox-browser } <strong>አያይም</strong>።
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } ከሌሎች አሳሾች ጋር እንዴት እንደሚወዳደር
 firefox-desktop-download-get-all-the-speed = ከማንኛውም የግላዊነት ወረራ ውጭ ሁሉንም ፍጥነት እና መሳሪያዎችን ያግኙ። { -brand-name-firefox-browser } ስለእርስዎ በጣም ትንሽ ውሂብ ይሰበስባል፣ ለማውረድ የኢሜይል አድራሻዎን እንኳን አንፈልግም። ይህ የሆነበት ምክንያት እንደሌሎች አሳሾች እርስዎን በድር ላይ በመከታተል ረገድ ምንም አይነት የገንዘብ ድርሻ የለንም።
@@ -124,6 +124,7 @@ firefox-desktop-download-from-security-to = ከደህንነት እስከ ዜና 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } የተፈጠረው በ<a { $attrs }>{ -brand-name-mozilla }</a> እንደ ፈጣን እና የበለጠ የግል አሳሾች እንደ { -brand-name-ie }፣ እና አሁን { -brand-name-chrome }። ዛሬ፣ በተልዕኮ የሚመራ ኩባንያችን እና የበጎ ፈቃደኞች ማህበረሰቦች የእርስዎን ግላዊነት ከምንም በላይ ማስቀደማቸውን ቀጥለዋል።
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = በይነመረቡ ሲያድግ እና ሲቀየር { -brand-name-firefox } በእርስዎ የግላዊነት መብት ላይ ማተኮር ይቀጥላል - እኛ <a { $attrs }>የግል ውሂብ ቃል ኪዳን</a> እንለዋን፡- ትንሽ ይውሰዱ። ደህንነቱ የተጠበቀ ያድርጉት። ምንም ሚስጥሮች የሉም። የእርስዎ ውሂብ፣ የእርስዎ የድር እንቅስቃሴ፣ የመስመር ላይ ህይወትዎ በ{ -brand-name-firefox } የተጠበቀ ነው።

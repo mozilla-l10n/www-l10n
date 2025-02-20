@@ -20,11 +20,11 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Ein endå nyare { -brand-name-firefox } er tilgjengeleg. <a { $update_url }>Oppdater til siste versjon</a>
 firefox-desktop-download-get-the-browser = Få nettlesaren som tek vare på det som er viktig
-# shady is slang which suggests something is untrustworthy
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Ingen lyssky personvernreglar eller bakdører for annonsørar. Berre ein lynrask nettlesar som ikkje sel dataa dine.
 firefox-desktop-download-download-options = Nedlastingsalternativ og andre språk
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } brukarstøtte
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Gjer det du vil på nettet. <br> { -brand-name-firefox-browser } <strong>overvakar</strong> deg ikkje.
 firefox-desktop-download-how-firefox-compares = Korleis { -brand-name-firefox } vert samanlikna med andre nettlesarar
 firefox-desktop-download-get-all-the-speed = Få fart og smarte verktøy utan å ofre personvernet. { -brand-name-firefox-browser } samlar inn veldig lite data om deg, og vi ber deg heller ikkje om e-postadressa di for å laste ned nettlesaren. I motsetnad til andre nettlesarar, har vi ikkje noko økonomisk interesse i å spore aktivitetane dine på nettet.
@@ -127,6 +127,7 @@ firefox-desktop-download-from-security-to = Frå sikkerheit til nyheiter til spe
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } vart utvikla av <a { $attrs }>{ -brand-name-mozilla }</a> som eit raskare, meir privat alternativ til nettlesarar som { -brand-name-ie }, og no { -brand-name-chrome }. I dag held det visjonære selskapet vårt og frivilligsamfunn fram med å setje personvernet ditt framfor alt anna.
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Etter kvart  som internett veks og endrar seg, held { -brand-name-firefox } fram med å fokusere på retten din til personvern  — vi kallar det <a { $attrs }>lovnad om private data</a>: Samle inn mindre. Oppbevar det trygt. Ingen hemmelegheiter. Dine data, din nettaktivitet og livet ditt på nettet er beskytta med { -brand-name-firefox }.

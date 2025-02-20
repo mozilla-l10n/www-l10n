@@ -20,11 +20,11 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = K dispozici je novější verze { -brand-name-firefox(case: "gen") }. <a { $update_url }>Aktualizovat na nejnovější verzi</a>
 firefox-desktop-download-get-the-browser = Získejte prohlížeč, který chrání, co je důležité
-# shady is slang which suggests something is untrustworthy
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Žádné pochybné zásady ochrany osobních údajů ani zadní vrátka pro reklamní systémy. Jen bleskurychlý prohlížeč, který vás nezradí pro peníze.
 firefox-desktop-download-download-options = Další verze a jazyky
 firefox-desktop-download-browser-support = Stránky podpory { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Dělejte na internetu, cokoliv chcete.<br> { -brand-name-firefox-browser } <strong>se nedívá</strong>.
 firefox-desktop-download-how-firefox-compares = Jak si { -brand-name-firefox } vede ve srovnání s jinými prohlížeči
 firefox-desktop-download-get-all-the-speed = Získejte veškerou rychlost a všechny nástroje bez zásahů do soukromí. { -brand-name-firefox-browser } o vás shromažďuje tak málo údajů, že ke stažení ani nevyžadujeme vaši e-mailovou adresu. To proto, že na rozdíl od jiných prohlížečů nemáme žádný finanční zájem na vašem sledování na webu.
@@ -127,6 +127,7 @@ firefox-desktop-download-from-security-to = Od zabezpečení přes zpravodajstv�
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } byl <a { $attrs }>{ -brand-name-mozilla(case: "ins") }</a> vytvořen jako rychlejší a soukromější alternativa k prohlížečům jako je { -brand-name-ie }, a v současnosti { -brand-name-chrome }. I dnes naše společnost a komunita dobrovolníků stále klade vaše soukromí nade vše ostatní.
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Zatímco se internet rozvíjí a mění, má { -brand-name-firefox } stále ve středu svého zájmu vaše právo na soukromí – nazýváme to <a { $attrs }>Slib ohledně ochrany osobních údajů</a>: Brát méně. Uchovávat v bezpečí. Žádná tajemství. Vaše údaje, vaše webová aktivita, váš online život jsou s { -brand-name-firefox(case: "ins") } chráněny.

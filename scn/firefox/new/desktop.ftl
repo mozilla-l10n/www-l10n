@@ -20,11 +20,11 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Cc'è na virsioni ancora cchiù nova di { -brand-name-firefox }. <a { $update_url }>Attualizza a l'ùrtima virsioni</a>
 firefox-desktop-download-get-the-browser = Pigghia u navicaturi chi pruteggi soccu è mpurtanti
-# shady is slang which suggests something is untrustworthy
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Senza pulìtichi di privatizza trùbbuli o lassapassari pi cu' fa pubblicità. Sulu un navicaturi lestu comu na sajitta chi nun ti vinni a nuḍḍu.
 firefox-desktop-download-download-options = Scartati di scarricamentu e autri lingui
 firefox-desktop-download-browser-support = Supportu di { -brand-name-firefox-browser }
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Fai soccu voi 'n linia.<br>U { -brand-name-firefox-browser } <strong>nun</strong> ti talìa.
 firefox-desktop-download-how-firefox-compares = Com'è { -brand-name-firefox } rispettu a l'autri navicatura?
 firefox-desktop-download-get-all-the-speed = Ricivi tutta a listizza e i stigghi senza nuḍḍa cumprumisioni dâ privatizza. { -brand-name-firefox-browser } ricogghi accussì picca dati ncapu di tia, chi nun avemu mancu bisognu dû to nnirizzu di posta elittrònica pi faritillu scarricari. Chistu picchì nun avemu nuḍḍu ntiressi finanziariu a sicutàriti riti riti.
@@ -127,6 +127,7 @@ firefox-desktop-download-from-security-to = Dâ sicurizza, ê nutizzi ê jòcura
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } fu criatu di <a { $attrs }>{ -brand-name-mozilla }</a> comu un navicaturi cchiù lestu e privatu di autri, a tipu { -brand-name-ie } e { -brand-name-chrome }. Oji a nostra cumpagnìa e a nostra cumunità di vuluntari ànnu na missioni: a to privatizza veni prima di tuttu.
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Sicutannu a riti chi crisci e cancia, { -brand-name-firefox } cuntinua a cuncintràrisi ncapu ô to dirittu â privatizza — a chiamamu <a { $attrs }>Prumisa dî Dati Pirsunali</a>: ricògghiri cchiù picca dati, tinìrili ô sicuru, nuḍḍu sicritu. I to dati, a to attività e a to vita 'n linia sunnu prutetti di { -brand-name-firefox }.

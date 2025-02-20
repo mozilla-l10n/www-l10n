@@ -20,11 +20,11 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Der is in noch nijere { -brand-name-firefox } beskikber. <a { $update_url }>Bywurkje nei de nijste ferzje</a>
 firefox-desktop-download-get-the-browser = Download de browser dy’t beskermet wat wichtich is
-# shady is slang which suggests something is untrustworthy
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Gjin skimerich privacybelied of efterdoarkes foar advertearders. Gewoan in razendflugge browser dy’t jo net bedriget.
 firefox-desktop-download-download-options = Downloadopsjes en oare talen
 firefox-desktop-download-browser-support = Stipe foar { -brand-name-firefox-browser }
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Doch wat jo online dogge. <br> { -brand-name-firefox-browser } Sjocht <strong>net</strong> mei.
 firefox-desktop-download-how-firefox-compares = Hoe { -brand-name-firefox } him ferhâldt ta oare browsers
 firefox-desktop-download-get-all-the-speed = Krij alle snelheid en helpmiddelen sûnder ynbreuk op jo privacy. { -brand-name-firefox-browser } sammelet sa min gegevens oer jo, dat wy jo e-mailadres net iens nedich hawwe om te downloaden. Dat komt omdat wy, yn tsjinstelling ta oare browsers, gjin finansjeel belang hawwe om jo op it web te folgjen.
@@ -127,6 +127,7 @@ firefox-desktop-download-from-security-to = Fan befeiliging oant nijs oant game,
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } waard troch <a { $attrs }>{ -brand-name-mozilla }</a> makke as in flugger, persoanliker alternatyf foar browsers lykas { -brand-name-ie }, en no { -brand-name-chrome }. Tsjintwurdich bliuwe ús missy-dreaune bedriuw en ús frijwilligersmienskip jo privacy boppe alles stelle.
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Wylst it ynternet groeit en wiziget, bliuwt { -brand-name-firefox } him konsintrearje op jo rjocht op privacy – wy neame it de <a { $attrs }>Persoanlike Gegevensbelofte</a>: Nim minder. Hâld it feilich. Gjin geheimen. Jo gegevens, jo webaktiviteit en jo online libben wurde beskerme mei { -brand-name-firefox }.

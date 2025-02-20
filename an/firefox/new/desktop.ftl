@@ -15,11 +15,11 @@ firefox-desktop-download-og-title = Descarga-ne lo { -brand-name-firefox } mas r
 firefox-desktop-download-og-desc = Carga de pachinas mas rapida, menos uso de memoria y pleno de funcionalidatz, lo nuevo { -brand-name-firefox } ye aquí.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Obtiene lo navegador que proteche lo que ye important
-# shady is slang which suggests something is untrustworthy
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = No i hai politicas de privacidat sospitosas u puertas traseras pa los anunciants. Nomás un navegador a-saber-lo de rapido que no te vende.
 firefox-desktop-download-download-options = Opcions de descarga y atros idiomas
 firefox-desktop-download-browser-support = Aduya de { -brand-name-firefox-browser }
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Fe lo que fafass en linia.<br> { -brand-name-firefox-browser } <strong>no te ye</strong> mirando.
 firefox-desktop-download-how-firefox-compares = Compara { -brand-name-firefox } con atros navegadors
 firefox-desktop-download-get-all-the-speed = Obtiene tota la velocidat y las ferramientas sin las invasions a la privacidat. { -brand-name-firefox-browser } recopila tant pocos datos sobre tu que ni sisquiera te solicitamos la tuya adreza de correu electronico pa descargar-lo. Esto ye perque, a diferencia d'atros navegadors, no tenemos garra interés economico pa seguir-te per la Web.
@@ -121,6 +121,7 @@ firefox-desktop-download-from-security-to = Dende la seguridat dica las noticias
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } estió creau per <a { $attrs }>{ -brand-name-mozilla }</a> como una alternativa mas rapida y privada a navegadors como { -brand-name-ie }, y agora { -brand-name-chrome }. Hue, la nuestra comunidat de voluntarios y interpresas empentadas per la misión continan metendo la tuya privacidat per alto de tot.
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = A medida que Internet creixe y cambia, { -brand-name-firefox } contina enfocando-se en o tuyo dreito a la privacidat; lo clamamos la <a { $attrs }>Promesa de datos personals</a>: Recolecta menos. Lo mantiene seguro. Sin secretos. Los tuyos datos, la tuya actividat web, la tuya vida en linia son protechius con { -brand-name-firefox }.

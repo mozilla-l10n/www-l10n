@@ -20,11 +20,11 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = 더 새로운 { -brand-name-firefox }를 사용할 수 있습니다. <a { $update_url }>최신 버전으로 업데이트</a>
 firefox-desktop-download-get-the-browser = 여러분에게 중요한 것을 먼저 생각하는 브라우저
-# shady is slang which suggests something is untrustworthy
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = 광고주를 위한 복잡한 개인 정보 보호 정책이나 백도어가 없습니다. 여러분을 상품으로 취급하는 브라우저가 아닙니다.
 firefox-desktop-download-download-options = 다운로드 선택 및 기타 언어
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } 도움말
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = 여러분이 온라인에서 무엇을 하든지<br> { -brand-name-firefox-browser }는 <strong>지켜보지 않습니다!</strong>
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox }와 다른 브라우저 비교
 firefox-desktop-download-get-all-the-speed = 개인 정보 침해 없이 빠른 속도의 경험을 만끽하세요. { -brand-name-firefox-browser }는 여러분에 대한 데이터를 거의 수집하지 않으므로, 다운로드 할 때도 이메일 주소가 필요하지 않습니다. 다른 브라우저와 달리 온라인에서 여러분을 수익의 한 부분으로 보지 않기 때문입니다.
@@ -127,6 +127,7 @@ firefox-desktop-download-from-security-to = 뉴스, 게임에서 보안에 이�
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox }는 <a { $attrs }>{ -brand-name-mozilla }</a>에 의해 과거 가장 많이 사용하던 { -brand-name-ie }와 오늘날 { -brand-name-chrome } 같은 상업용 브라우저에 대한 대안으로 만들어졌습니다. 우리는 사용자 중심의 사명과 자원 봉사 커뮤니티를 기반으로 개인 정보 보호를 다른 무엇보다 우선하고 있습니다.
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = 인터넷이 변화하고 성장함에 따라 { -brand-name-firefox }는 계속해서 개인 정보 보호 권리에 초점을 맞추고 있습니다. 이를 <a { $attrs }>개인 데이터 보호 약속</a>이라고 합니다. { -brand-name-firefox }는 투명하게 데이터 수집을 최소화 하면서 개인 정보를 보호하고 있습니다.
