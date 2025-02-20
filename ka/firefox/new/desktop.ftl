@@ -20,10 +20,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = კიდევ უფრო ახალი { -brand-name-firefox } ხელმისაწვდომია. <a { $update_url }>განაახლეთ ბოლო ვერსიაზე</a>
 firefox-desktop-download-get-the-browser = ბრაუზერი, რომელიც იცავს იმას, რაც მეტად ღირებულია
+firefox-desktop-download-fast-reliable-private = სწრაფი, საიმედო და პირადი — ინტერნეტში მშვიდად.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = არავითარი ფარული მუხლები პირადულობის დებულებებში ან დატოვებული ხვრელები სარეკლამოებისთვის. მხოლოდ მსუბუქი ბრაუზერი, რომელიც თქვენი მონაცემებით არ ვაჭრობს.
 firefox-desktop-download-download-options = ჩამოტვირთვის ვარიანტები და სხვა ენები
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } მხარდაჭერა
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = აკეთეთ, რასაც აკეთებთ ინტერნეტში.<br> { -brand-name-firefox-browser } გთავაზობთ <strong>დაფარვას</strong>.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = აკეთეთ ინტერნეტში, რაც მოგესურვებათ.<br> { -brand-name-firefox-browser } <strong>არ</strong> გითვალთვალებთ.
 firefox-desktop-download-how-firefox-compares = რით განსხვავდება { -brand-name-firefox } სხვა ბრაუზერებისგან
@@ -127,6 +130,9 @@ firefox-desktop-download-from-security-to = უსაფრთხოების
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozilla }</a>-მ შექმნა { -brand-name-firefox }, როგორც სწრაფი, მეტად პირადული შემნაცვლებელი { -brand-name-ie } ბრაუზერისა, ახლა უკვე { -brand-name-chrome }-ისაც. დღესაც განაგრძობს მიზნისკენ სვლას ჩვენი კომპანია და მოხალისეთა ერთობა, რომ უზრუნველვყოთ თქვენი პირადულობის უწინარესობა.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = ინტერნეტის ზრდისა და ცვლილებების კვალდაკვალ, { -brand-name-firefox } განაგრძობს თქვენი პირადი მონაცემების ხელშეუხებლობის დაცვას — ეს ყოველთვის ჩვენი მიზანი იყო. გაეცანით მონაცემთა მონაცემების გამოყენების შესახებ დებულებებს, იხილეთ ჩვენი <a { $attrs }>პირადულობის დებულება</a>.
 # Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/

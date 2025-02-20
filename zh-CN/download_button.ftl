@@ -60,3 +60,7 @@ download-button-linux-64-v2 = 下载适用于 Linux（64 位）的版本
 download-button-using-debian = 您在使用 Debian、Ubuntu 或其他基于 Debian 的发行版吗？<br>那么您可以设置我们的<a { $attrs }>APT 软件库</a>。
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = 从 Microsoft 获取
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = 与 { -brand-name-mozilla } 的营销技术合作伙伴分享您发现 { -brand-name-firefox } 的方式并使用它。我们永远不会出售这些数据或用于向您展示广告。 <a { $attrs }>了解我们如何使用这些数据</a>。

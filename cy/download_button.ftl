@@ -60,3 +60,7 @@ download-button-linux-64-v2 = Llwytho i lawr ar gyfer Linux 64-bit
 download-button-using-debian = Yn defnyddio Debian, Ubuntu neu unrhyw ddosbarthiad sy'n seiliedig ar Debian? <br> Gallwch chi osod ein <a { $attrs }>storfa APT yn ei le</a>.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Ei gael gan Microsoft
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = Rhannwch sut y gwnaethoch ddarganfod { -brand-name-firefox } a'ch bod yn ei ddefnyddio gyda phartneriaid technoleg marchnata { -brand-name-mozilla }. Nid yw'r data hwn byth yn cael ei werthu na'i ddefnyddio i ddangos hysbysebion i chi. <a { $attrs }>Dysgwch sut rydym yn defnyddio'r data</a>.

@@ -20,10 +20,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = 已推出新版本的 { -brand-name-firefox }。<a { $update_url }>更新到最新版本</a>
 firefox-desktop-download-get-the-browser = 使用會保護重要資料的瀏覽器
+firefox-desktop-download-fast-reliable-private = 快速、可靠、隱私 — 讓您上網的後顧無憂。
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = 沒有諱莫如深的隱私權保護政策，更不留下後門給廣告商，純屬一套光速快，又不出賣您的瀏覽器。
 firefox-desktop-download-download-options = 下載其他平台與語言版本
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser }技術支援
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = 用您自己的方式上網。<br>{ -brand-name-firefox-browser } <strong>讓您</strong>幫您處理。
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = 用您習慣的方式上網。<br>{ -brand-name-firefox-browser }<strong>不會</strong>偷看。
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } 與其他瀏覽器比較
@@ -127,6 +130,9 @@ firefox-desktop-download-from-security-to = 從安全性、新聞、到網路遊
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } 一開始是由 <a { $attrs }>{ -brand-name-mozilla }</a> 打造，希望成為在 { -brand-name-ie }（現在則是 { -brand-name-chrome }）之外，更快、更有隱私的瀏覽器。而現在，我們由以使命驅動的公司與全球志工社群組合而成，持續將您的隱私放在第一位。
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = 隨著網際網路的發展與變化{ -brand-name-firefox } 持續關注您的隱私權 — 我們也是這麼認為的。請參考<a { $attrs }>隱私權公告</a>了解我們的資料處理方式。
 # Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/

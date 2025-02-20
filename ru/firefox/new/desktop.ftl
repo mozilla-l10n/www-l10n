@@ -20,10 +20,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Доступна еще более новая версия { -brand-name-firefox }. <a { $update_url }>Обновить до последней версии</a>
 firefox-desktop-download-get-the-browser = Получите браузер, который защищает всё важное
+firefox-desktop-download-fast-reliable-private = Быстрый, надежный и приватный — для вашего спокойствия в Интернете.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Никаких скрытых политик приватности или лазеек для рекламодателей. Просто молниеносный браузер, который никогда вас не предаст.
 firefox-desktop-download-download-options = Параметры загрузки и другие языки
 firefox-desktop-download-browser-support = Поддержка { -brand-name-firefox-browser(case: "genitive") }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Делайте что угодно в Интернете.<br> { -brand-name-firefox-browser(case: "nominative_uppercase") } обеспечит вас <strong>защитой</strong>.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Делайте что угодно в Интернете.<br> { -brand-name-firefox-browser(case: "nominative_uppercase") } <strong>не</strong> следит за вами.
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } по сравнению с другими браузерами
@@ -127,6 +130,9 @@ firefox-desktop-download-from-security-to = От безопасности до �
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } был создан <a { $attrs }>{ -brand-name-mozilla }</a> как более быстрая и приватная альтернатива таким браузерам, как { -brand-name-ie }, и теперь { -brand-name-chrome }. Сегодня наша целеустремленная компания и сообщество волонтеров по-прежнему ставят вашу приватность превыше всего.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = По мере того, как Интернет растёт и меняется, { -brand-name-firefox } продолжает концентрироваться на вашем праве на приватность — это всегда было нами. Узнайте больше о нашей работе с данными в нашем <a { $attrs }>Уведомлении о конфиденциальности</a>.
 # Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
