@@ -116,4 +116,5 @@ m24-home-pni-search-now = Kërkoni tani
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, drejtuesja e Podkastit IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = Podcast-i ynë i vlerësuar me shumë çmime paraqet ndryshimesjellësit që punojnë për ta bërë internetin më të parrezik dhe IA-në më të besueshme.
 m24-home-irl-listen-now = Dëgjojeni tani
