@@ -17,6 +17,7 @@ features-adblocker-finding-the-right = Gjetja e Bllokuesit të Duhur të Reklama
 features-adblocker-tip-1 = <strong>Bllokim Reklamash:</strong> Nëse doni vetëm të bllokoni reklama, zgjidhni një mundësi të thjeshtë dhe të pesësh së lehtë.
 features-adblocker-tip-2 = <strong>Shqetësim për Privatësinë:</strong> Nëse shqetësoheni për gjurmues, shihni për një bllokues reklamash me veçori të brendshme për privatësinë.
 features-adblocker-tip-3 = <strong>Aftësi Përshtatjeje:</strong> Disa bllokues reklamash lejojnë përimtim që të krijoni lejim për sajte specifikë, ose për të bllokuar elementë të caktuar.
+features-adblocker-tip-4 = <strong>Përputhje Pajisjesh:</strong> Merrni parasysh faktin nëse e doni për desktop, celular, apo për të dy.
 features-adblocker-why-use = Pse të Përdoret një Bllokues Reklamash?
 features-adblocker-ad-blockers-do-more = Bllokuesit e reklamave bëjnë më tepër se sa thjesht administrim reklamash – ata mund të thellojnë shpejtësinë dhe sigurinë e shfletimit tuaj, duke zvogëluar sasinë e lëndës së panevojshme. Ju japin fuqi të krijoni një funksionim të përshtatur, pa shpërqendrim të web-it, duke ju lejuar të përqendroheni në atë që ka më tepër rëndësi.
 # Variables:
