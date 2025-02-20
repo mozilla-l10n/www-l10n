@@ -21,12 +21,18 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = يَتوفر أيضًا إصدار أحدث من { -brand-name-firefox }. <a { $update_url }>التحديث لآخر إصدار</a>
 
 firefox-desktop-download-get-the-browser = احصل على المُتصفح الذي يحمي بياناتك المُهمة
-# shady is slang which suggests something is untrustworthy
+
+
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = لا نتبنى سياسات خصوصية مشبوهة أو أساليب مُلتوية للمُعلِنين. كما يَتميز المُتصفح بسرعته الفائقة وعدم بيع بياناتك أو التفريط فيها.
+
 firefox-desktop-download-download-options = خيارات التنزيل واللغات الأخرى
 firefox-desktop-download-browser-support = دعم { -brand-name-firefox-browser }
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+
+
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = افعل كل ما يحلو لك على الإنترنت. فمُتصفح { -brand-name-firefox-browser } <strong>لا</strong> يراقبك.
+
 firefox-desktop-download-how-firefox-compares = كيفية مقارنة { -brand-name-firefox } بالمتصفحات الأخرى
 firefox-desktop-download-get-all-the-speed = استمتع بسرعة تصفح الإنترنت الفائقة واستخدم جميع الأدوات المُتاحة دون أي انتهاك لخصوصيتك. فمُتصفح { -brand-name-firefox-browser } لا يجمع سوى القليل جدًا من البيانات عنك، حتى إننا لا نطلُب عنوان بريدك الإلكتروني لتنزيل المُتصفح. ذلك لأنه مُميز عن المتصفحات الأخرى، وليس له أي مصلحة مالية في تتبعك عبر شبكة الويب.
 firefox-desktop-download-how-we-compare = كيفية المقارنة بيننا وبين المتصفحات الأخرى
@@ -133,6 +139,8 @@ firefox-desktop-download-from-security-to = ثمة <a { $attrs }>ملحقات ت
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = طوَّرت شركة <a { $attrs }>{ -brand-name-mozilla }</a> متصفح { -brand-name-firefox } ليكون بديلًا أسرع وأكثر خصوصية لمتصفحات مثل، { -brand-name-ie } و{ -brand-name-chrome }. وإلى وقتنا الحاضر، تُواصل شركتنا التي تُحركها مهمة نبيلة ومجتمعنا التطوعي وضع خصوصيتك فوق كل اعتبار.
 
+
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = رغم انتشار الإنترنت وتغيُّر أنماطه، يُمضي متصفح { -brand-name-firefox } في التركيز على حقك في الخصوصية - وهذا ما نُطلق عليه <a { $attrs }>وعد البيانات الشخصية</a>: نجمع بيانات شخصية أقل. نُحافظ على البيانات الشخصية. لا نُخفي عنك أسرارًا. فبياناتك ونشاطاتك وأوقاتك على الإنترنت محمية حين تستخدم { -brand-name-firefox }.

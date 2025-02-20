@@ -21,12 +21,18 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Une version encore plus récente de { -brand-name-firefox } est disponible. <a { $update_url }>Passer à la nouvelle version</a>
 
 firefox-desktop-download-get-the-browser = Installez le navigateur qui protège ce qui est important
-# shady is slang which suggests something is untrustworthy
+
+
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Pas de politique de confidentialité douteuse ou de laissez-passer pour les annonceurs. Juste un navigateur ultra-rapide qui ne vous trahit pas.
+
 firefox-desktop-download-download-options = Options de téléchargement et autres langues
 firefox-desktop-download-browser-support = Assistance pour le { -brand-name-firefox-browser }
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+
+
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Faites ce que vous avez à faire en ligne.<br> Le { -brand-name-firefox-browser } ne vous épie <strong>jamais</strong>.
+
 firefox-desktop-download-how-firefox-compares = Ce qui distingue { -brand-name-firefox } des autres
 firefox-desktop-download-get-all-the-speed = Obtenez toute la vitesse et les outils sans aucune intrusion de votre vie privée. Le { -brand-name-firefox-browser } collecte si peu de données sur vous qu’on ne vous demande même pas votre adresse e-mail pour le téléchargement. Parce que contrairement aux autres navigateurs, nous n’avons aucun intérêt financier à vous suivre sur le Web.
 firefox-desktop-download-how-we-compare = Ce qui nous différencie des autres navigateurs
@@ -133,6 +139,8 @@ firefox-desktop-download-from-security-to = De la sécurité aux actualités en 
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } a été créé par <a { $attrs }>{ -brand-name-mozilla }</a> comme une alternative plus rapide et plus privée aux navigateurs comme { -brand-name-ie }, et maintenant { -brand-name-chrome }. Aujourd’hui, notre entreprise et notre communauté de bénévoles, toutes deux au service de notre mission, continuent de placer votre vie privée au-dessus de tout.
 
+
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = À mesure qu’Internet se développe et évolue, { -brand-name-firefox } continue de se concentrer sur votre droit à la protection de votre vie privée. C’est pour cela que nous avons pris un <a { $attrs }>engagement fort en matière de données personnelles</a> : nous collectons moins d’informations, offrons plus de protection et ne vous cachons rien. Vos données, votre activité sur le Web et votre vie numérique sont protégées avec { -brand-name-firefox }.

@@ -21,12 +21,18 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = { -brand-name-firefox } yang lebih baru juga sudah tersedia. <a { $update_url }>Mutakhirkan ke versi terbaru</a>
 
 firefox-desktop-download-get-the-browser = Dapatkan peramban yang melindungi apa yang penting
-# shady is slang which suggests something is untrustworthy
+
+
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Tanpa adanya kebijakan privasi yang menjebak ataupun pintu belakang bagi pengiklan. Hanya peramban secepat kilat yang tidak menjual Anda.
+
 firefox-desktop-download-download-options = Opsi unduhan dan bahasa lain
 firefox-desktop-download-browser-support = Dukungan { -brand-name-firefox-browser }
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+
+
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Lakukan apa yang Anda lakukan saat daring.<br> { -brand-name-firefox-browser } <strong>tidak akan</strong> memantaunya.
+
 firefox-desktop-download-how-firefox-compares = Bagaimana { -brand-name-firefox } dibandingkan dengan peramban lain
 firefox-desktop-download-get-all-the-speed = Dapatkan semua kecepatan dan alat tanpa adanya pelanggaran privasi. { -brand-name-firefox-browser } mengumpulkan sangat sedikit data mengenai Anda, kami bahkan tidak memerlukan surel Anda untuk mengunduh. Itu karena tidak seperti peramban lain, kami tidak memiliki kepentingan finansial untuk menguntit Anda di web.
 firefox-desktop-download-how-we-compare = Bagaimana kami dibandingkan dengan peramban lain
@@ -133,6 +139,8 @@ firefox-desktop-download-from-security-to = Dari keamanan hingga berita dan perm
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } dibuat oleh <a { $attrs }>{ -brand-name-mozilla }</a> sebagai alternatif tercepat dan lebih pribadi dibanding peramban seperti { -brand-name-ie }, dan sekarang { -brand-name-chrome }. Hari ini, misi yang menggerakkan kami sebagai perusahaan dan komunitas sukarelawan ialah menempatkan privasi Anda di atas segalanya.
 
+
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Seiring bertumbuh dan berkembangnya internet, { -brand-name-firefox } terus berfokus pada hak Anda atas privasi — kami menyebutnya sebagai <a { $attrs }>Janji Data Pribadi</a>: Ambil lebih sedikit. Amankan. Tanpa rahasia. Data Anda, aktivitas web Anda, kehidupan daring Anda dilindungi dengan { -brand-name-firefox }.

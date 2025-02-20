@@ -21,12 +21,18 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = もっと新しい { -brand-name-firefox } を公開中です。<a { $update_url }>最新バージョンに更新する</a>
 
 firefox-desktop-download-get-the-browser = 大切なものを守るブラウザーを
-# shady is slang which suggests something is untrustworthy
+
+
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = 怪しいプライバシーポリシーや広告業者用のバックドアはありません。あなたの個人情報を売却しない高速ブラウザーです。
+
 firefox-desktop-download-download-options = ダウンロードオプションと多言語
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } サポート
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+
+
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = オンライン生活をご自由にお楽しみください。<br>{ -brand-name-firefox-browser } が<strong>プライバシーを守ります</strong>。
+
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } と他社ブラウザーの比較
 firefox-desktop-download-get-all-the-speed = プライバシーを一切侵害せず、スピードとツールを揃えました。{ -brand-name-firefox-browser } はユーザーに関するデータをほとんど収集しないため、ダウンロードの際にメールアドレスもいただきません。他社のブラウザーとは異なり、金銭的利益を求めてウェブ上でユーザーを追跡する必要がないためです。
 firefox-desktop-download-how-we-compare = 他社ブラウザーとの比較
@@ -133,6 +139,8 @@ firefox-desktop-download-from-security-to = セキュリティからニュース
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } は、{ -brand-name-ie } や { -brand-name-chrome } などのブラウザーよりも高速性とプライバシーを追求した代替となるべく、<a { $attrs }>{ -brand-name-mozilla }</a> が開発しました。今日、このミッションを目指す会社とボランティアコミュニティは、ユーザーのプライバシーを第一に守り続けています。
 
+
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = インターネットが成長し変化するなか、{ -brand-name-firefox } はユーザーのプライバシー権を第一に考えています。私たちはこれを<a { $attrs }>個人データ保護の約束</a>と呼んでいます。掲げているのは、収集する個人データは最小限にすること、安全に保護すること、秘密を作らないこと。ユーザーのデータ、ウェブ上の活動、オンライン生活は、{ -brand-name-firefox } が保護します。
