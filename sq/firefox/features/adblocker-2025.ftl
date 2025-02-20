@@ -26,6 +26,7 @@ features-adblocker-tip-3 = <strong>Aftësi Përshtatjeje:</strong> Disa bllokues
 features-adblocker-tip-4 = <strong>Përputhje Pajisjesh:</strong> Merrni parasysh faktin nëse e doni për desktop, celular, apo për të dy.
 features-adblocker-tip-5 = <strong>Bllokim Malware-i:</strong> Disa bllokues reklamash mbrojnë kundër reklamash dashakeqe (AdGuard-i, për shembull).
 features-adblocker-tip-6 = <strong>Kontroll Prindëror:</strong> I dobishëm kur doni të bllokoni lëndë të papërshtatshme.
+features-adblocker-its-important-to-note = Është e rëndësishme të vihet re se disa sajte bazohen në reklama, për ngarkim lënde apo dhënie funksionesh. Bllokimi i reklamave mund të shkaktojë nxjerrje nga funksionimi veçorish, bie fjala, të mos luhen video, ose të mos funksionojnë mundësi hyrjesh në llogari. Zgjidhni një bllokues reklamash që përditësohet rregullisht dhe nëse ju shihni se një bllokues reklamash shkakton probleme domethënëse, provoni tjetër, që të gjeni një baraspeshim më të mirë mes funksionimit dhe pajtueshmërisë.
 features-adblocker-enhanced-privacy = Privatësi dhe Funksionim i Thelluar, me { -brand-name-firefox }
 features-adblocker-beyond-ad-blockers = Përtej bllokuesve të reklamave, { -brand-name-firefox }-i përfshin veçori të brendshme për t’ju dhënë kontroll edhe më të madh mbi shfletimin tuaj. Këto mjete ndihmojnë të mbrohet privatësia juaj teksa ju lejojnë të përshtatni punimin tuaj:
 features-adblocker-tool-1 = <strong>Mënyra Standarde:</strong> Një mundësi e baraspeshuar, që bllokon gjurmues teksa mbahet funksionim i rrjedhshëm sajtesh.
