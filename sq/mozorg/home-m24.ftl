@@ -15,7 +15,10 @@ m24-home-page-desc-v2 = Po punojmë për ta rikthyer kontrollin e internetit në
 ## Intro
 
 m24-home-welcome-to-mozilla = Mirë se vini në { -brand-name-mozilla }
+m24-home-from-trustworthy-tech = Nga teknologji të besueshme e deri te politika që mbrojnë të drejtat tuaja dixhitale, ne vënë ju së pari — përherë.
 m24-home-learn-about-us = Mësoni për ne
+# Used as accessible text alternative for image
+m24-home-alt-flag = Një flamur i gjelbër i stilizuar në një sfond të zi, krijuar nga shkronja ‘M’ për { -brand-name-mozilla } dhe një piksel që është zhvendosur për të treguar stemën e saj origjinale të dinozaurit.
 
 ## Products
 
