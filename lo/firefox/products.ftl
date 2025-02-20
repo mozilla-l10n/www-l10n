@@ -5,9 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/products/
 
+firefox-products-firefox-beginning-v2 = { -brand-name-firefox } ແມ່ນພຽງແຕ່ການເລີ່ມຕົ້ນ.
 
 ## Firefox
 
+firefox-products-firefox = { -brand-name-firefox }
 
 ## Focus
 
@@ -16,6 +18,7 @@ firefox-products-your-dedicated-privacy = ຕົວທ່ອງເວັບຄ�
 
 ## Monitor
 
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
 firefox-products-see-if-your-personal-information = ເບິ່ງວ່າຂໍ້ມູນສ່ວນຕົວຂອງທ່ານຖືກທໍາລາຍໃນການລະເມີດຂໍ້ມູນຂອງບໍລິສັດ, ແລະລົງທະບຽນສໍາລັບການແຈ້ງເຕືອນໃນອະນາຄົດ.
 firefox-products-check-for-breaches = ກວດເບິ່ງການລະເມີດ
 

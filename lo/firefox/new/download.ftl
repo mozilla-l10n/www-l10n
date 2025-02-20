@@ -34,6 +34,8 @@ firefox-new-your-firefox-new-should-begin = ການດາວໂຫຼດຂອ
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ເປັນຫຼາຍກວ່າບຣາວເຊີ.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = ການດາວໂຫຼດຂອງທ່ານຖືກຂັດຈັງຫວະ. ແຕ່ທັງຫມົດບໍ່ໄດ້ສູນເສຍ.
+firefox-new-download-almost-there = ໃກ້ແລ້ວ!
+firefox-new-download-select-linux = ເລືອກຕົວເລືອກດາວໂຫຼດຂ້າງລຸ່ມນີ້
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
 firefox-new-please-follow = ກະລຸນາເຮັດຕາມ<a href="{ $url }">ຄຳແນະນຳນີ້</a>ເພື່ອຕິດຕັ້ງ { -brand-name-firefox }

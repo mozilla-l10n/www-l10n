@@ -14,3 +14,6 @@ features-private-browsing-what-does-private-browsing-do = ການທ່ອງ�
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = ໜ້າຈໍບຣາວເຊີ { -brand-name-firefox } ໃນໂໝດການທ່ອງເວັບສ່ວນຕົວ.
 features-private-browsing-what-private-browsing-doesnt-do = ສິ່ງທີ່ການຊອກຫາສ່ວນຕົວບໍ່ໄດ້ເຮັດ
+# Variables:
+#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+features-private-browsing-compare-firefoxs-private-browsing = ປຽບທຽບການທ່ອງເວັບສ່ວນຕົວຂອງ { -brand-name-firefox } ກັບ <a href="{ $chrome }">ໂໝດບໍ່ເປີດເຜີຍຕົວຕົນຂອງ Chrome</a>.

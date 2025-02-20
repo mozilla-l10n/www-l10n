@@ -9,3 +9,4 @@ whatsnew-page-title-v2 = ມີຫຍັງໃໝ່ກັບ { -brand-name-fire
 whatsnew-page-description = ເອົາຈຸດຢືນຂອງທ່ານຕໍ່ກັບອຸດສາຫະກໍາທີ່ຂາຍຂໍ້ມູນຂອງທ່ານໃຫ້ກັບບຸກຄົນທີສາມ. ຢູ່ໃນອິນເຕີເນັດຢ່າງສະຫຼາດ ແລະປອດໄພດ້ວຍເທັກໂນໂລຍີທີ່ຕໍ່ສູ້ກັບທ່ານ.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = { -brand-name-firefox } ຂອງທ່ານໄດ້ຖືກອັບເດດແລ້ວ.
+whatsnew-donate-to-mofo = ບໍລິຈາກໃຫ້ { -brand-name-mozilla-foundation }
