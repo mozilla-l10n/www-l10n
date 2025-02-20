@@ -68,3 +68,4 @@ download-button-using-debian = Debian や Ubuntu、Debian ベースのディス�
 
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Microsoft からダウンロード
+

@@ -68,3 +68,4 @@ download-button-using-debian = Debian, Ubuntu oder eine andere Debian-basierte V
 
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Hol es dir von Microsoft
+

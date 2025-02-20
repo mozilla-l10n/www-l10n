@@ -68,3 +68,4 @@ download-button-using-debian = هل تستخدم دبيان أو أوبونتو 
 
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = احصل عليه من Microsoft
+

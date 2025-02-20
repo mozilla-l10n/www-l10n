@@ -68,3 +68,4 @@ download-button-using-debian = Apakah Anda menggunakan Debian, Ubuntu, atau dist
 
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Dapatkan dari Microsoft
+

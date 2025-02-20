@@ -68,3 +68,4 @@ download-button-using-debian = Debian, Ubuntu या किसी Debian-आध�
 
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = इसे Microsoft से प्राप्त करें
+
