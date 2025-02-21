@@ -8,6 +8,10 @@
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = { -brand-name-firefox } ile web sayfalarını çevirin
 features-translate-translate-the-web = Web’i çevirin
+# HTML page description
+features-translate-firefox-translations-is-a-built-in-v2 = { -brand-name-firefox-translations }, web’de kolayca istediğiniz dilde gezinmenizi sağlayan yerleşik bir çeviri özelliği. { -brand-name-firefox }’taki bu özelliğin nasıl çalıştığını ve { -brand-name-mozilla }’nın çevirdiğiniz içerikleri nasıl gizli tuttuğunu öğrenin.
+# Obsolete string (expires: 2025-02-17)
+features-translate-firefox-translations-is-a-built-in = { -brand-name-firefox } Translations, web’de kolayca istediğiniz dilde gezinmenizi sağlayan yerleşik bir çeviri özelliği. { -brand-name-firefox }’taki bu özelliğin nasıl çalıştığını ve { -brand-name-mozilla }’nın çevirdiğiniz içerikleri nasıl gizli tuttuğunu öğrenin.
 features-translate-when-you-translate-a-webpage = Bir web sayfasını çevirdiğinizde çevirdiğiniz şeyler gizli kalır
 features-translate-what-languages-are-currently = Şu anda hangi diller destekleniyor?
 # Obsolete string (expires: 2025-02-17)

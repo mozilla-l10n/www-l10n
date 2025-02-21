@@ -21,6 +21,7 @@ m24-about-together-we-can = Tok, mund ta mbajmë internetin të kollajtë, të p
 m24-about-read-our-manifesto = Lexoni manifestin tonë
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Një grup mendimtarësh ulur në një rreth përdhe duke shkëmbyer ide.
+m24-about-advocate = Mbroni
 m24-about-we-advocate-for = Ne luftojmë për produkte më të mira, duke bërë përgjegjës qeveri dhe korporata teknologjike për çfarë krijojnë.
 m24-about-research = Punë kërkimore
 # Obsolete string (expires: 2025-02-03)
@@ -37,6 +38,8 @@ m24-about-we-fund-and = Financojmë dhe investojmë në njerëz dhe përpjekje q
 
 m24-about-read-more = Lexoni më tepër
 m24-about-read-the-latest = Lexoni lajmet & artikujt më të rinj nga { -brand-name-mozilla }
+m24-about-builders-program = { -brand-name-mozilla-builders } i ndihmon zhvilluesit të krijojnë projekte IA transformuese me burim të hapët, përmes bashkëpunimesh, programimi dhe bashkësie
+m24-about-at-our-rise25 = Te { -brand-name-rise25 } Awards tona, e ardhmja e IA-së është e besueshme, përfshirëse dhe llogaridhënëse
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Fitues i çmimit { -brand-name-rise25 } duke treguar trofeun e vet.
 # Used as an accessible text alternative for an image
@@ -68,5 +71,6 @@ m24-about-community-love-v2 = Dashuria e bashkësisë, motori ynë
 # Obsolete string (expires: 2025-02-03)
 m24-about-community-love = Dashuria e bashkësisë —<br> motori ynë
 m24-about-mozilla-is-a = { -brand-name-mozilla } është një bashkësi mbarëbotërore vullnetarësh të pasionuar, bashkëpunëtorësh dhe kontribuesish që merren me ndërtimin, mbrojtjen dhe dhënies formës internetit tok me ne që nga 1998-a.
+m24-about-from-writing-code = Nga shkrim kodi dhe pikasje të metash e deri te mbrojtja e privatësisë dhe mbajta e internetit të hapët për këdo — anëtarët e bashkësisë tonë janë shtylla kurrizore e gjithçkaje që bëjmë. Pasioni dhe përkushtimi i tyre na frymëzojnë çdo ditë.
 # Used as an accessible text alternative for an image
 m24-about-alt-community = Person me një çantë portativi, me tabelë { -brand-name-mozilla }.
