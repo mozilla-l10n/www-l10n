@@ -132,7 +132,7 @@ firefox-desktop-download-from-security-to = O ddiogelwch i newyddion i gemau, ma
 firefox-desktop-download-firefox-was-created = Crëwyd { -brand-name-firefox } gan <a { $attrs }>{ -brand-name-mozilla }</a> fel dewis arall cyflymach, mwy preifat i borwyr fel { -brand-name-ie }, a nawr { -brand-name-chrome }. Heddiw, mae ein cwmni sy'n cael ei yrru gan genhadaeth a'n cymuned wirfoddol yn parhau i roi eich preifatrwydd o flaen pob dim.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
-firefox-desktop-download-as-the-internet-v2 = Wrth i'r rhyngrwyd dyfu a newid, mae { -brand-name-firefox } yn parhau i ganolbwyntio ar eich hawl i breifatrwydd - dyna fu ein peth ni erioed. Dysgwch fwy am ein harferion data yn ein <a { $attrs }>Hysbysiad Preifatrwydd</a>.
+firefox-desktop-download-as-the-internet-v2 = Wrth i'r rhyngrwyd dyfu a newid, mae { -brand-name-firefox } yn parhau i ganolbwyntio ar eich hawl i breifatrwydd - dyna fu ein peth ni erioed. Darllenwch ragor am ein harferion data yn ein <a { $attrs }>Hysbysiad Preifatrwydd</a>.
 # Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/

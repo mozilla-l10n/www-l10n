@@ -26,7 +26,7 @@ firefox-desktop-download-no-shady = Nincsenek kétes adatvédelmi irányelvek va
 firefox-desktop-download-download-options = Letöltési lehetőségek és más nyelvek
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } támogatása
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do-v2 = Tegye, amit tesz online.<br> A { -brand-name-firefox-browser } <strong>lefedi</strong>.
+firefox-desktop-download-do-what-you-do-v2 = Tegye, amit tesz online.<br> A { -brand-name-firefox-browser } <strong>Ön mellett áll</strong>.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Tegye, amit tesz online.<br> A { -brand-name-firefox-browser } <strong>nem</strong> figyeli.
 firefox-desktop-download-how-firefox-compares = Hogy áll a { -brand-name-firefox } a többi böngészőhöz képest
@@ -132,7 +132,7 @@ firefox-desktop-download-from-security-to = A biztonságtól kezdve a hírekig �
 firefox-desktop-download-firefox-was-created = A { -brand-name-firefox(case: "accusative") } a <a { $attrs }>{ -brand-name-mozilla }</a> készítette, hogy egy gyorsabb, biztonságosabb alternatívája legyen az olyan böngészőknek, mint az { -brand-name-ie }, és most a { -brand-name-chrome }. Ma a küldetés-vezérelt cégünk és az önkéntesekből álló közösségünk továbbra is az adatvédelmet helyezi az első helyre.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
-firefox-desktop-download-as-the-internet-v2 = Ahogy az internet nő és változik, a { -brand-name-firefox } továbbra is az Ön adatvédelemhez való jogára fókuszál – ez mindig is volt a dolgunk. Tudjon meg többet adatkezelési gyakorlatunkról az <a { $attrs }>Adatvédelmi nyilatkozatunkban</a>.
+firefox-desktop-download-as-the-internet-v2 = Ahogy az internet nő és változik, a { -brand-name-firefox } továbbra is az Ön adatvédelemhez való jogára fókuszál – mindig is ezt tettük. Tudjon meg többet az adatkezelési gyakorlatunkról az <a { $attrs }>Adatvédelmi nyilatkozatunkban</a>.
 # Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/

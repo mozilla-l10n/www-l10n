@@ -63,4 +63,4 @@ download-button-get-it-from-microsoft = Szerezze be a Microsofttól
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
 # “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
-download-button-share-how-you-discovered = Ossza meg, hogyan fedezte fel a { -brand-name-firefox }ot, és hogy használja a { -brand-name-mozilla } marketingtechnológiai partnereivel. Ezek az adatok sosem kerülnek eladásra, és sosem használják fel hirdetések megjelenítésére. <a { $attrs }>Tudja meg hogyan használjuk fel az adatokat</a>.
+download-button-share-how-you-discovered = Ossza meg a { -brand-name-mozilla } marketingtechnológiai partnereivel, hogy miként fedezte fel és hogyan használja a { -brand-name-firefox }ot. Ezek az adatok sosem kerülnek eladásra, és sosem használják fel hirdetések megjelenítésére. <a { $attrs }>Tudja meg hogyan használjuk fel az adatokat</a>.
