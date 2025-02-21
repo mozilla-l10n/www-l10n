@@ -130,6 +130,9 @@ firefox-desktop-download-from-security-to = Υπάρχει πάντα μια <a 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = Το { -brand-name-firefox } δημιουργήθηκε από τη <a { $attrs }>{ -brand-name-mozilla }</a> ως μια ταχύτερη, πιο ιδιωτική εναλλακτική λύση για το { -brand-name-ie }, και πλέον για το { -brand-name-chrome }. Σήμερα, η εταιρεία μας και η κοινότητα των εθελοντών μας συνεχίζουν να θέτουν το απόρρητό σας πάνω απ' όλα.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Καθώς το διαδίκτυο αναπτύσσεται και αλλάζει, το { -brand-name-firefox } συνεχίζει να εστιάζει στο δικαίωμά σας για ιδιωτικότητα. Γιατί αυτό ήταν πάντοτε το μέλημά μας. Μάθετε περισσότερα σχετικά με τις πρακτικές μας όσον αφορά τα δεδομένα στη <a { $attrs }>Σημείωση απορρήτου</a> μας.
 # Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
