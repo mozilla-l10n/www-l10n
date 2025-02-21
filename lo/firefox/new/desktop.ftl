@@ -17,6 +17,7 @@ firefox-desktop-download-og-title = ດາວໂຫຼດ { -brand-name-firefox 
 firefox-desktop-download-og-desc = ການໂຫຼດຫນ້າເວັບທີ່ໄວ, ໃຊ້ຫນ່ວຍຄວາມຈໍາຫນ້ອຍ ແລະ ບັນຈຸຄຸນນະສົມບັດທີ່ຄັບແໜ້ນ, { -brand-name-firefox } ໃຫມ່ແມ່ນຢູ່ທີ່ນີ້ແລ້ວ.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = ເອົາຕົວທ່ອງເວັບທີ່ປົກປ້ອງສິ່ງທີ່ສໍາຄັນ
+firefox-desktop-download-fast-reliable-private = ໄວ, ເຊື່ອຖືໄດ້ ແລະ ເປັນສ່ວນຕົວ — ເພື່ອຄວາມສະຫງົບທາງອອນໄລນ໌.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = ບໍ່ມີນະໂຍບາຍຄວາມເປັນສ່ວນຕົວທີ່ຮົ່ມຫຼືປະຕູຫລັງສໍາລັບຜູ້ໂຄສະນາ. ພຽງແຕ່ເປັນຕົວທ່ອງເວັບໄວຟ້າຜ່າທີ່ບໍ່ຂາຍຂໍ້ມູນທ່ານ.
 firefox-desktop-download-download-options = ທາງເລືອກໃນການດາວໂຫຼດ ແລະພາສາອື່ນໆ
