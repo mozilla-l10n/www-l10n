@@ -20,10 +20,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Διατίθεται ένα ακόμα νεότερο { -brand-name-firefox }. <a { $update_url }>Κάντε ενημέρωση στην πιο πρόσφατη έκδοση</a>
 firefox-desktop-download-get-the-browser = Το πρόγραμμα περιήγησης που φυλάσσει ό,τι είναι σημαντικό
+firefox-desktop-download-fast-reliable-private = Γρήγορο, αξιόπιστο και ιδιωτικό, για ξέγνοιαστη περιήγηση στο διαδίκτυο.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Καμία κρυφή πολιτική απορρήτου ή πίσω πόρτες για διαφημιστές. Απλά ένα αξιόπιστο και γρήγορο πρόγραμμα περιήγησης.
 firefox-desktop-download-download-options = Επιλογές λήψεων και άλλες γλώσσες
 firefox-desktop-download-browser-support = Υποστήριξη { -brand-name-firefox-browser }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Κάντε ό,τι θέλετε στο διαδίκτυο.<br>Το { -brand-name-firefox-browser } σάς <strong>προστατεύει</strong>.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Κάντε ό,τι θέλετε στο διαδίκτυο.<br>Το { -brand-name-firefox-browser } <strong>δεν</strong> σας παρακολουθεί.
 firefox-desktop-download-how-firefox-compares = Σύγκριση του { -brand-name-firefox } με αντίστοιχα προγράμματα
