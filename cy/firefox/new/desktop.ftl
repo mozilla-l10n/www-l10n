@@ -26,7 +26,7 @@ firefox-desktop-download-no-shady = Dim polisïau preifatrwydd amheus na drysau 
 firefox-desktop-download-download-options = Dewisiadau llwytho i lawr ac ieithoedd eraill
 firefox-desktop-download-browser-support = Cymorth { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do-v2 = Gwnewch beth rydych yn ei wneud ar-lein.<br> Mae { -brand-name-firefox-browser } wedi eich <strong>gorchuddio</strong>.
+firefox-desktop-download-do-what-you-do-v2 = Gwnewch beth rydych yn ei wneud ar-lein.<br> Mae { -brand-name-firefox-browser } yn eich <strong>diogelu</strong>.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Gwnewch beth bynnag hoffwch chi ar-lein. D'yw <br> { -brand-name-firefox-browser } <strong>ddim</strong> yn eich gwylio.
 firefox-desktop-download-how-firefox-compares = Sut mae { -brand-name-firefox } yn cymharu â phorwyr eraill
