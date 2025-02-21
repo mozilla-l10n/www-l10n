@@ -20,7 +20,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = 已推出新版本的 { -brand-name-firefox }。<a { $update_url }>更新到最新版本</a>
 firefox-desktop-download-get-the-browser = 使用會保護重要資料的瀏覽器
-firefox-desktop-download-fast-reliable-private = 快速、可靠、隱私 — 讓您上網的後顧無憂。
+firefox-desktop-download-fast-reliable-private = 快速、可靠、有隱私 — 讓您上網無後顧之憂。
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = 沒有諱莫如深的隱私權保護政策，更不留下後門給廣告商，純屬一套光速快，又不出賣您的瀏覽器。
 firefox-desktop-download-download-options = 下載其他平台與語言版本
