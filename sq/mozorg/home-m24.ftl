@@ -43,6 +43,7 @@ m24-home-mask-your-email = Maskoni email-in dhe numrin e telefonit tuaj, që t�
 ## Donate
 
 m24-home-donate-to-the = Dhuroni për entin jofitiprurës { -brand-name-mozilla }
+m24-home-mozilla-is-building = { -brand-name-mozilla } po ngre një lëvizje për rimarrje të internetit. Tok mund të ndërtojmë një të ardhme ku privatësia mbrohet, IA-ja është e besueshme dhe shoqërive teknologjike të papërgjegjshme u kërkohet llogari. Por kjo është e mundshme vetëm nëse e bëjmë tok.
 m24-home-were-proudly-nonprofit = Jemi me krenari jofitimprurës. Do të dhuroni sot për { -brand-name-mozilla }?
 m24-home-donate = Dhuroni
 
@@ -59,6 +60,7 @@ m24-home-our-mission-is = Misioni ynë është ta bëjmë të lehtë për njerë
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = Stemë e { -brand-name-llamafile }.
 m24-home-llamafile = { -brand-name-llamafile }
+m24-home-run-large-language = Xhironi kollaj në kompjuterin tuaj modele të gjerë gjuhësh (LLM-ra), me { -brand-name-llamafile } — s’ka nevojë për instalim dhe të dhënat tuaja mbesin të parrezik në pajisjen tuaj.
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 # Used as an accessible text alternative for an image
@@ -89,6 +91,8 @@ m24-home-tag-video = Video
 m24-home-topic-news = Lajme
 m24-home-topic-ai = Inteligjencë Artificiale
 m24-home-topic-ps = Privatësi & Siguri
+# Obsolete string (expires: 2025-02-03)
+m24-home-headline-you-ai = Kryetitull: Ju, IA dhe interneti — ç’po ndodh në të vërtetë?
 m24-home-headline-you-ai-v2 = Ju, IA dhe interneti — ç’po ndodh në të vërtetë?
 m24-home-introducing-anonym = Ju paraqesim { -brand-name-anonym }: Ngritje e nivelit për reklama dixhitale që ruajnë privatësinë.
 m24-home-keeping-genai-technologies = Mbajtja të siguruara e teknologjive GenAI është përgjegjësi e përbashkët.
@@ -115,6 +119,7 @@ m24-home-read-the-report = Lexoni raportin
 # Used as an accessible text alternative for an image
 m24-home-alt-pni = Pajisje të mençura me një ikonë “Kujdes!”.
 m24-home-explore-issues-shaping = Eksploroni çështje që i japin formë të ardhmes së internetit
+m24-home-search-our-reviews = Kërkoni te shqyrtimet tona, për të parë cilat pajisje dhe aplikacione teknologjike përlajnë pa zhurmë të dhëna tuajat.
 m24-home-pni-search-now = Kërkoni tani
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, drejtuesja e Podkastit IRL.
