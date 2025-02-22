@@ -15,6 +15,11 @@ nightly-whatsnew-this-is-a-good = นี่เป็นช่วงเวลา�
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
+#   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
+nightly-whatsnew-if-you-want-to-v4 = หากคุณต้องการรู้สิ่งที่กำลังเกิดขึ้นเกี่ยวกับ { -brand-name-nightly } และชุมชน ขอแนะนำให้เริ่มโดยอ่าน<a { $blog }>บล็อก</a>ของเรา และติดตามเราบน <a { $mastodon }>Mastodon</a> หรือ <a { $twitter }>X</a>!
+# Variables:
+#   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 # Obsolete string (expires: 2025-04-18)
 nightly-whatsnew-if-you-want-to-v3 = หากคุณต้องการรู้สิ่งที่กำลังเกิดขึ้นเกี่ยวกับ { -brand-name-nightly } และชุมชน ขอแนะนำให้เริ่มโดยอ่าน<a { $blog }>บล็อก</a>ของเรา และติดตามเราบน <a { $mastodon }>Mastodon</a> หรือ <a { $twitter }>X</a>!
