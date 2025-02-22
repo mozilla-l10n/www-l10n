@@ -30,13 +30,16 @@ navigation-v2-products = නිෂ්පාදන
 navigation-v2-close-products-menu = නිෂ්පාදන වට්ටෝරුව වසන්න
 navigation-v2-see-if-your-email-has = සමාගමක දත්ත උල්ලංඝනයක දී ඔබගේ වි-තැපෑල හමුවී ඇත්දැයි බලන්න.
 navigation-v2-pocket = { -brand-name-pocket }
+navigation-v2-save-and-discover-the-best = වියමන පුරා හොඳම කතා සොයාගෙන සුරකින්න.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = { -brand-name-facebook } අඩවියෙන් පිටත ඔබගේ දත්ත රැස් කිරීම වළක්වන්න.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-get-protection-beyond-your-browser = ඔබගේ අතිරික්සුවෙන් ඔබ්බට සියලු උපාංග සඳහා රැකවරණයක් ලබා ගන්න.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (බීටා)
 navigation-v2-sign-up-for-new-accounts = ඔබගේ වි-තැපැල් ලිපිනය නොදී නව ගිණුම් වලට ලියාපදිංචි වන්න.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = අභිරුචි { -brand-name-mdn } අත්දැකීමක් සඳහා නව විශේෂාංග සහ මෙවලම්
 navigation-v2-view-all-products = සියළු නිෂ්පාදන බලන්න
 
 ## Who We Are menu

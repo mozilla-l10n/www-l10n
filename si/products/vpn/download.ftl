@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/download/
 
+vpn-download-page-title = { -brand-name-mozilla-vpn } බාගන්න
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (බිටු-64 පමණි)
