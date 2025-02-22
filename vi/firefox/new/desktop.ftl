@@ -25,6 +25,8 @@ firefox-desktop-download-fast-reliable-private = Nhanh chóng, đáng tin cậy 
 firefox-desktop-download-no-shady = Không có chính sách bảo mật mờ ám hoặc cửa sau cho các nhà quảng cáo. Chỉ cần một trình duyệt nhanh như chớp mà không bán bất kỳ thứ gì của bạn.
 firefox-desktop-download-download-options = Tùy chọn tải xuống và các ngôn ngữ khác
 firefox-desktop-download-browser-support = Hỗ trợ { -brand-name-firefox-browser }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Làm những gì bạn làm trực tuyến.<br> { -brand-name-firefox-browser } sẽ <strong>bảo vệ</strong> bạn.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Làm những gì bạn làm trực tuyến.<br> { -brand-name-firefox-browser } <strong>sẽ không</strong> theo dõi.
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } so với các trình duyệt khác như thế nào
@@ -50,7 +52,7 @@ firefox-desktop-download-see-your-report = Xem báo cáo bảo vệ của bạn
 firefox-desktop-download-for-everyone = { -brand-name-firefox } dành cho tất cả mọi người
 firefox-desktop-download-available-in-over = Có sẵn trong hơn 90 ngôn ngữ và tương thích với { -brand-name-windows }, { -brand-name-mac-short } và { -brand-name-linux }, { -brand-name-firefox } hoạt động bất kể những gì bạn đang sử dụng hoặc bạn đang ở đâu. Đảm bảo hệ điều hành của bạn được cập nhật để có trải nghiệm tốt nhất.
 firefox-desktop-download-review-system-req = Xem các yêu cầu hệ thống
-firefox-desktop-download-all-your-devices = Đặt { -brand-name-firefox } trên tất cả các thiết bị của bạn
+firefox-desktop-download-all-your-devices = Sử dụng { -brand-name-firefox } trên tất cả các thiết bị của bạn
 firefox-desktop-download-take-your-privacy = Mang theo sự riêng tư của bạn ở khắp mọi nơi. { -brand-name-firefox-browsers } dành cho { -brand-name-ios } và { -brand-name-android } có cùng cài đặt quyền riêng tư để chặn trình theo dõi của bạn trên web, bất kể bạn ở đâu.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Làm <strong>tất cả</strong> với { -brand-name-firefox }
