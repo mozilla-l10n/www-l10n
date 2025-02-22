@@ -5,6 +5,7 @@
 
 ## About us
 
+navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 
 ## Firefox
 

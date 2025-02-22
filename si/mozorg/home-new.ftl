@@ -7,3 +7,4 @@
 
 home-cta-get-pocket = { -brand-name-pocket } ගන්න
 home-cta-get-vpn = { -brand-name-mozilla-vpn } ගන්න
+home-learn-about-mofo = { -brand-name-mozilla-foundation } ගැන තව දැනගන්න.
