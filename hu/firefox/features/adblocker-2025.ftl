@@ -30,4 +30,7 @@ features-adblocker-its-important-to-note = Fontos megjegyezni, hogy egyes webhel
 features-adblocker-enhanced-privacy = Fokozott adatvédelem és teljesítmény a { -brand-name-firefox } segítségével
 features-adblocker-beyond-ad-blockers = A reklámblokkolók mellett, a { -brand-name-firefox } beépített funkciókat is tartalmaz, amelyek még nagyobb irányítást adnak a böngészése felett. Ezek az eszközök segítenek megvédeni az adatait, miközben lehetővé teszik a felhasználói élmény testreszabását:
 features-adblocker-tool-1 = <strong>Szokásos mód:</strong> Egy kiegyensúlyozott beállítás, amely blokkolja a gyakori nyomkövetőket, miközben megtartja a webhelyek zökkenőmentes működését.
+features-adblocker-tool-2 = <strong>Szigorú mód:</strong> Ideális azoknak a felhasználóknak, akik erősebb adatvédelmet szeretnének a több nyomkövető és süti blokkolásával. Vegye figyelembe, hogy egyes webhelyek módosításokat igényelhetnek ebben a módban.
+features-adblocker-tool-3 = <strong>Egyéni mód:</strong> Azok számára, akik teljes irányítást szeretnének, az Egyéni mód lehetővé teszi, hogy kiválaszthassa, hogy mit blokkol, a sütiktől a követőkig, és így tovább.
+features-adblocker-to-adjust = Ezen beállítások módosításához kattintson a pajzs ikonra bármelyik weboldal címsorától balra, és válassza a „Védelmi beállítások” lehetőséget. Ez megnyit egy menüt, ahol kiválaszthatja az Önnek megfelelő védelmi szintet.
 features-adblocker-why-use = Miért használjon reklámblokkolót?
