@@ -20,10 +20,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = K dispozícii je ešte novšia verzia { -brand-name-firefox(case: "gen") }. <a { $update_url }>Aktualizovať na najnovšiu verziu</a>.
 firefox-desktop-download-get-the-browser = Získajte prehliadač, ktorý chráni to, čo je dôležité
+firefox-desktop-download-fast-reliable-private = Rýchly, spoľahlivý a súkromný – pre pokoj online.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Žiadne zahmlievacie pravidlá ochrany osobných údajov ani zadné vrátka pre inzerentov. Len bleskovo rýchly prehliadač, ktorý vás nepredáva.
 firefox-desktop-download-download-options = Možnosti sťahovania a iné jazyky
 firefox-desktop-download-browser-support = Podpora pre { -brand-name-firefox-browser(capitalization: "lower") }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Robte to, čo robíte online.<br> { -brand-name-firefox-browser } vám <strong>kryje</strong> chrbát.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Robte to, čo robíte online.<br> { -brand-name-firefox-browser } sa <strong>nepozerá</strong>.
 firefox-desktop-download-how-firefox-compares = Aký je { -brand-name-firefox } v porovnaní s inými prehliadačmi
@@ -127,6 +130,9 @@ firefox-desktop-download-from-security-to = Od zabezpečenia cez správy až po 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } bol vytvorený <a { $attrs }>{ -brand-name-mozilla(case: "ins") }</a> ako rýchlejšia a súkromnejšia alternatíva k prehliadačom ako { -brand-name-ie } a teraz { -brand-name-chrome }. Dnes naša spoločnosť riadená poslaním v spojení s komunitou dobrovoľníkov naďalej uprednostňujú vaše súkromie.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Ako sa internet rozrastá a mení, { -brand-name-firefox } sa naďalej zameriava na vaše právo na súkromie – to bolo vždy naším cieľom. Ďalšie informácie o našich postupoch v oblasti údajov nájdete v našom <a { $attrs }>Oznámení o ochrane osobných údajov</a>.
 # Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
