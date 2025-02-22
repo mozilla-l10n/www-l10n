@@ -60,3 +60,7 @@ download-button-linux-64-v2 = Tải xuống cho Linux 64-bit
 download-button-using-debian = Sử dụng Debian, Ubuntu hoặc bất kỳ bản phân phối dựa trên Debian nào?<br> Bạn có thể thiết lập <a { $attrs }>APT repository thay thế</a> của chúng tôi.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Tải về từ Microsoft
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = Chia sẻ cách bạn đã khám phá { -brand-name-firefox } và bạn sử dụng nó với đối tác công nghệ tiếp thị của { -brand-name-mozilla }. Dữ liệu này sẽ không bao giờ bán hoặc sử dụng để hiển thị quảng cáo cho bạn. <a { $attrs }>Tìm hiểu cách chúng tôi sử dụng dữ liệu</a>.
