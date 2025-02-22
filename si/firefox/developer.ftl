@@ -20,3 +20,4 @@ firefox-developer-learn-more-about-debugger = ජාවාස්ක්‍රි�
 firefox-developer-network = ජාලය
 firefox-developer-memory = මතකය
 firefox-developer-download-the-firefox-browser = සංවර්ධකයින් සඳහා තනන ලද { -brand-name-firefox } අතිරික්සුව බාගන්න
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
