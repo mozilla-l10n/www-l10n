@@ -107,9 +107,14 @@
 -brand-name-mdn-plus = MDN ප්ලස්
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
+-brand-name-mozilla-monitor = මොසිල්ලා මොනිටර්
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account = මොසිල්ලා ගිණුම
 -brand-name-mozilla-accounts = මොසිල්ලා ගිණුම්
+-brand-name-mozilla-social = Mozilla.social
+# Obsolete string (expires: 2025-01-05)
+-brand-name-mozilla-ai = මොසිල්ලා AI
+-brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-thunderbird = තන්ඩර්බර්ඩ්
 
 ## Mozilla projects (short names)
