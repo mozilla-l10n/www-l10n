@@ -44,6 +44,7 @@ download-button-download = බාගන්න
 #   $help_url (url) - link to https://support.mozilla.org/
 #   $os_version (string) - e.g. Windows 8.1, macOS 10.14
 download-button-unsupported-platform = { $os_version } සහ පරණ අනුවාද සඳහා { $channel_name } <a href="{ $help_url }">සහාය නොදක්වයි.</a>
+download-button-please-download-esr = { -brand-name-firefox } භාවිතයට කරුණාකර { -brand-name-firefox-esr } (විස්තෘත සහාය නිකුතව) බාගන්න.
 download-firefox-esr = { -brand-name-firefox-esr } බාගන්න
 download-firefox-esr-32 = { -brand-name-firefox-esr } බිටු-32 බාගන්න
 download-firefox-esr-64 = { -brand-name-firefox-esr } බිටු-64 බාගන්න
@@ -53,3 +54,5 @@ download-a-different-build = වෙනස් තැනීමක් බාගන�
 
 download-button-linux-32-v2 = ලිනක්ස් බිටු-32 සඳහා බාගන්න
 download-button-linux-64-v2 = ලිනක්ස් බිටු-64 සඳහා බාගන්න
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = මයික්‍රොසොෆ්ට් වෙතින් ගන්න
