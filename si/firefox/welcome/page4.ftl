@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
+# HTML page title
+welcome-page4-download-the-firefox-browser = { -brand-name-android } සහ { -brand-name-ios } සඳහා ඔබගේ ජංගම දුරකථනයෙන් { -brand-name-firefox-browser } බාගන්න.
 welcome-page4-download-firefox-for-your = දුරකථනයට හෝ අත්ල පරිගණකයට { -brand-name-firefox } බාගන්න
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/trackers-and-scripts-firefox-blocks-enhanced-track/

@@ -9,6 +9,7 @@
 ## Required
 
 installer-help-page-title = ඔබගේ බාගැනීමට බාධා විය
+installer-help-action-channel = මෙම බාගැනීම ඔබට වඩාත් සුදුසු වේ.
 installer-help-action-choose = පහත බාගැනීමක් තෝරන්න.
 
 ##
