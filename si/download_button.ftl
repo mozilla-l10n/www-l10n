@@ -54,5 +54,9 @@ download-a-different-build = වෙනස් තැනීමක් බාගන�
 
 download-button-linux-32-v2 = ලිනක්ස් බිටු-32 සඳහා බාගන්න
 download-button-linux-64-v2 = ලිනක්ස් බිටු-64 සඳහා බාගන්න
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = ඩෙබියන්, උබුන්ටු හෝ ඕනෑම ඩෙබියන් පාදක බෙදාහැරීමක් භාවිතා කරනවාද?<br> ඔබට අපගේ <a { $attrs }>APT කෝෂ්ඨය</a>  පිහිටුවීමට හැකිය.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = මයික්‍රොසොෆ්ට් වෙතින් ගන්න
