@@ -8,7 +8,7 @@
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = උදව් ගන්න
 firefox-all-lang-multi = බහු භාෂා
-firefox-all-sorry-we-couldnt-find = කණගාටුයි, ඔබ සොයන බාගැනීම අපට හමු නොවිණි. කරුණාකර නැවත උත්සාහ කරන්න, නැතහොත් පහත ලේඛනයෙන් බාගැනීමක් තෝරන්න
+firefox-all-sorry-we-couldnt-find = කණගාටුයි, ඔබ සොයන බාගැනීම අපට හමු නොවුණි. කරුණාකර නැවත උත්සාහ කරන්න හෝ පහත වට්ටෝරුවෙන් බාගැනීමක් තෝරන්න
 firefox-all-the-pre-alpha-version = දෝෂ හඳුනා ගැනීමට සහ නව විශේෂාංග කේතනය කළ විගස ඒවා අත්හදා බැලීමට කැමති තාක්‍ෂණික පරිශ්‍රීලකයින් සඳහා වන පූර්ව ඇල්ෆා සංස්කරණය
 firefox-all-64-bit-installers = බිටු-64 ස්ථාපක
 firefox-all-32-bit-installers = බිටු-32 ස්ථාපක
