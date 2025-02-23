@@ -5,8 +5,19 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+firefox-all-choose-browser = ඉදිරියට යාමට අතිරික්සුවක් තෝරන්න
+firefox-all-choose-platform = ඉදිරියට යාමට වේදිකාවක් තෝරන්න
+firefox-all-choose-language = ඉදිරියට යාමට භාෂාවක් තෝරන්න
+firefox-all-change-browser = වෙනත් නිෂ්පාදනයක් තෝරන්න
+firefox-all-change-platform = වෙනත් වේදිකාවක් තෝරන්න
+firefox-all-change-language = වෙනත් භාෂාවක් තෝරන්න
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = පහත ලැයිස්තුවෙන් තෝරන්න
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = උදව් ගන්න
+firefox-all-browser-v2 = 1. අතිරික්සුව:
+firefox-all-platform-v2 = 2. වේදිකාව:
+firefox-all-language-v2 = 3. භාෂාව:
 firefox-all-lang-multi = බහු භාෂා
 firefox-all-sorry-we-couldnt-find = කණගාටුයි, ඔබ සොයන බාගැනීම අපට හමු නොවුණි. කරුණාකර නැවත උත්සාහ කරන්න හෝ පහත වට්ටෝරුවෙන් බාගැනීමක් තෝරන්න
 firefox-all-the-pre-alpha-version = දෝෂ හඳුනා ගැනීමට සහ නව විශේෂාංග කේතනය කළ විගස ඒවා අත්හදා බැලීමට කැමති තාක්‍ෂණික පරිශ්‍රීලකයින් සඳහා වන පූර්ව ඇල්ෆා සංස්කරණය
