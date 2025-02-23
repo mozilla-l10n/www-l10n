@@ -10,7 +10,8 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-firefox-developer-join-the-convo = සංවාදයට එක් වෙන්න
+firefox-developer-welcome-to-your-new-favorite = ඔබගේ නව ප්‍රියතම අතිරික්සුවට සාදරයෙන් පිළිගනිමු. නවතම විශේෂාංග, වේගවත් කාර්ය සාධනයක් සහ විවෘත වියමනක් තැනීමට වුවමනා සංවර්ධන මෙවලම් ගන්න.
+firefox-developer-join-the-convo = සංවාදයට එක්වන්න
 firefox-developer-get-involved = සහභාගී වන්න
 firefox-developer-start-now = දැන් අරඹන්න
 firefox-developer-inspector = සෝදිසිකරු
@@ -21,6 +22,8 @@ firefox-developer-debugger = නිදොස්කරණය
 firefox-developer-learn-more-about-debugger = ජාවාස්ක්‍රිප්ට් නිදොස්කරණය ගැන දැනගන්න
 firefox-developer-network = ජාලය
 firefox-developer-storage-panel = ආචයන මඬල
+firefox-developer-performance = කාර්ය සාධනය
+firefox-developer-learn-more-about-performance = කාර්ය සාධන මෙවලම් ගැන තව දැනගන්න
 firefox-developer-memory = මතකය
 firefox-developer-learn-more-about-memory = මතක මෙවලම් ගැන තව දැනගන්න
 firefox-developer-style-editor = ශෛලි සංස්කරකය
@@ -28,7 +31,16 @@ firefox-developer-learn-more-about-style = ශෛලි සංස්කරකය
 firefox-developer-new-tools = නව මෙවලම්
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-built-for-developers = සංවර්ධකයින්ට තනා ඇත
+firefox-developer-shapes-editor = හැඩ සංස්කරකය
 firefox-developer-fonts-panel = රුවකුරු මඬල
 firefox-developer-download-the-firefox-browser = සංවර්ධකයින් සඳහා තනන ලද { -brand-name-firefox } අතිරික්සුව බාගන්න
+firefox-developer-welcome-to-firefox-developer-edition = { -brand-name-firefox-developer-edition } වෙත පිළිගනිමු
+firefox-developer-made-for-developers = සංවර්ධකයින්ට සාදන ලද අතිරික්සුව
+firefox-developer-congrats-you-now-have-latest-v2 = දැන් ඔබ සතුව { -brand-name-firefox-developer-edition } නවතම අනුවාදය තිබේ.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = අළුත් දෑ දැකීමට <a { $attrs }>නිකුතු සටහන්</a> (ඉංග්‍රීසියෙන් පමණි) බලන්න.
+firefox-developer-developer-tools-user = සංවර්ධක මෙවලම් පරිශ්‍රීලක ප්‍රලේඛන
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = සංවර්ධකයින් වෙතින් සංවර්ධකයින්ට සම්පත්
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
