@@ -9,6 +9,7 @@ firefox-channel-desktop = වැඩතල
 firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
 firefox-channel-see-something-that-isnt-working = ක්‍රියා නොකරන යමක් දුටුවේද? අපට දන්වන්න.
+firefox-channel-download-and-test-future = වැඩතල, { -brand-name-android } සහ { -brand-name-ios } සඳහා { -brand-name-firefox } අනාගත අත්හදා බැලීමේ නිකුතු බාගෙන පරීක්‍ෂා කරන්න.
 firefox-channel-all-languages-and-platforms = සියළුම භාෂා හා වේදිකා
 firefox-channel-all-languages-and-builds = සියළුම භාෂා සහ තැනීම්
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } මගින් { -brand-name-mozilla } වෙත ස්වයංක්‍රීයව ප්‍රතිපෝෂණ යවයි.

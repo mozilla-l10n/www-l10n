@@ -13,3 +13,4 @@ windows-64-bit-a-more-secure-firefox = වඩාත් ආරක්‍ෂිත 
 windows-64-bit-whats-the-difference = බිටු-32 සහ බිටු-64 අතර වෙනස කුමක්ද?
 windows-64-bit-how-do-you-get-64 = බිටු-64 { -brand-name-firefox } ලබා ගන්නේ කෙසේද?
 windows-64-bit-take-control-of-your = ඔබගේ අතිරික්සුව පාලනය කරන්න.
+windows-64-bit-download-firefox = වින්ඩෝස් බිටු-64 සඳහා { -brand-name-firefox } බාගන්න.
