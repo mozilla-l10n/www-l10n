@@ -38,7 +38,7 @@ m24-about-we-fund-and = Financujeme a investujeme do lidí a úsilí, které pos
 
 m24-about-read-more = Přečtěte si více
 m24-about-read-the-latest = Přečtěte si nejnovější novinky a články o { -brand-name-mozilla(case: "loc") }
-m24-about-builders-program = { -brand-name-mozilla-builders } pomáhá vývojářům vytvářet transformativní open-source projekty v oblasti umělé inteligence pomocí spolupráce, programování a komunity
+m24-about-builders-program = { -brand-name-mozilla-builders } pomáhá vývojářům vytvářet transformativní open-source projekty umělé inteligence prostřednictvím spolupráce, programování a komunity.
 m24-about-at-our-rise25 = Při udílení cen { -brand-name-rise25 } je budoucnost umělé inteligence spolehlivá, inkluzivní a zodpovědná
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Držitelka ceny { -brand-name-rise25 } ukazuje na svou trofej.

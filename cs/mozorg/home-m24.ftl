@@ -66,7 +66,7 @@ m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders pomáhá nezávislým vývojářům vytvářet transformační open-source projekty s umělou inteligencí pomocí zakázkové spolupráce, programování a komunity.
-m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } pomáhá nezávislým vývojářům vytvářet transformativní open-source projekty v oblasti umělé inteligence prostřednictvím spolupráce na míru, programování a komunity.
+m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } pomáhá nezávislým vývojářům vytvářet transformativní open-source projekty umělé inteligence prostřednictvím spolupráce na míru, programování a komunity.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
