@@ -107,6 +107,8 @@ newsletters-fxa-error-retry = Wystąpił problem podczas przekierowywania do pre
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Ten adres e-mail nie jest obecny w naszym systemie. Proszę sprawdzić poprawność adresu lub przejść do <a href="{ $url }">subskrypcji biuletynu</a>.
+# Note: Bluesky is a brand name that shouldn't be translated
+newsletters-im-keeping-in-touch-v3 = Wolę śledzić { -brand-name-mozilla(case: "acc") } na Bluesky.
 # Obsolete, remove after 2025-05-11
 newsletters-im-keeping-in-touch-v2 = Wolę śledzić { -brand-name-mozilla(case: "acc") } na { -brand-name-twitter(case: "loc") }.
 # Headline for https://www.mozilla.org/newsletter/mozilla/
