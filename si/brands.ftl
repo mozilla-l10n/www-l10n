@@ -55,6 +55,8 @@
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = අවුරෝරා
+-brand-name-firefox-daylight = ෆයර්ෆොක්ස් ඩේලයිට්
+-brand-name-daylight = ඩේලයිට්
 -brand-name-firefox-quantum = ෆයර්ෆොක්ස් ක්වොන්ටම්
 -brand-name-firefox-lite = Firefox Lite
 -brand-name-lite = Lite
@@ -81,6 +83,7 @@
 
 -brand-name-firefox-account = Firefox ගිණුම
 -brand-name-firefox-accounts = Firefox ගිණුම්
+-brand-name-firefox-better-web = Firefox Better Web
 -brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-send = Firefox Send
 -brand-name-send = Send
@@ -96,6 +99,7 @@
 
 ## Fakespot
 
+-brand-name-fakespot = ෆේක්ස්පොට්
 
 ## Anonym
 
@@ -104,17 +108,24 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-glean = ග්ලීන්
+-brand-name-irl-podcast = IRL පොඩ්කාස්ට්
+-brand-name-llamafile = Llamafile
+-brand-name-lumigator = ලුමිගේටර්
 -brand-name-mdn-plus = MDN ප්ලස්
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
+-brand-name-mozilla-festival = මොසිල්ලා උත්සවය
 -brand-name-mozilla-monitor = මොසිල්ලා මොනිටර්
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account = මොසිල්ලා ගිණුම
 -brand-name-mozilla-accounts = මොසිල්ලා ගිණුම්
 -brand-name-mozilla-social = Mozilla.social
+-brand-name-mozilla-builders = Mozilla Builders
+-brand-name-builders = Builders
 # Obsolete string (expires: 2025-01-05)
 -brand-name-mozilla-ai = මොසිල්ලා AI
 -brand-name-mozilla-ai-v2 = Mozilla.ai
+-brand-name-rise25 = Rise25
 -brand-name-thunderbird = තන්ඩර්බර්ඩ්
 
 ## Mozilla projects (short names)
@@ -130,6 +141,9 @@
 -brand-name-mozilla-labs = මොසිල්ලා ලැබ්ස්
 -brand-name-hubs = හබ්ස්
 -brand-name-lockwise = Lockwise
+-brand-name-lightbeam = Lightbeam
+-brand-name-maker-party = Maker Party
+-brand-name-webmaker = Webmaker
 
 ## Open Source projects
 
