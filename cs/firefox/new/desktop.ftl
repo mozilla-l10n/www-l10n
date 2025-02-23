@@ -26,7 +26,7 @@ firefox-desktop-download-no-shady = Žádné pochybné zásady ochrany osobních
 firefox-desktop-download-download-options = Další verze a jazyky
 firefox-desktop-download-browser-support = Stránky podpory { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do-v2 = Dělejte na internetu, co děláte.<br> { -brand-name-firefox-browser } s vámi <strong>pomůže</strong>.
+firefox-desktop-download-do-what-you-do-v2 = Dělejte na internetu, co děláte.<br> { -brand-name-firefox-browser } vám <strong>kryje</strong> záda.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Dělejte na internetu, cokoliv chcete.<br> { -brand-name-firefox-browser } <strong>se nedívá</strong>.
 firefox-desktop-download-how-firefox-compares = Jak si { -brand-name-firefox } vede ve srovnání s jinými prohlížeči
@@ -132,7 +132,7 @@ firefox-desktop-download-from-security-to = Od zabezpečení přes zpravodajstv�
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } byl <a { $attrs }>{ -brand-name-mozilla(case: "ins") }</a> vytvořen jako rychlejší a soukromější alternativa k prohlížečům jako je { -brand-name-ie }, a v současnosti { -brand-name-chrome }. I dnes naše společnost a komunita dobrovolníků stále klade vaše soukromí nade vše ostatní.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
-firefox-desktop-download-as-the-internet-v2 = Zatímco se internet rozvíjí a mění, se { -brand-name-firefox } nadále zaměřuje na vaše právo na soukromí – to nám vždy šlo. Další informace o našem způsobu zpracování dat naleznete v našich <a { $attrs }>Zásadách ochrany osobních údajů</a>.
+firefox-desktop-download-as-the-internet-v2 = Jak internet roste a mění se, { -brand-name-firefox } se i nadále zaměřuje na vaše právo na soukromí - to byla vždy naše věc. Více informací o našich postupech při zpracování dat se dozvíte v našem <a { $attrs }>Oznámení o ochraně osobních údajů</a>.
 # Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
