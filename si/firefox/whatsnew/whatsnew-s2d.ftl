@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/whatsnew/
 
 whatsnew-s2d-download-firefox-for-android = { -brand-name-android } සහ { -brand-name-ios } සඳහා { -brand-name-firefox } බාගන්න.
+whatsnew-s2d-download-firefox-for-your = දුරකථනයට හෝ අත්ල පරිගණකයට { -brand-name-firefox } බාගන්න

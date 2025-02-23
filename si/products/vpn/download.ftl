@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/download/
 
 vpn-download-page-title = { -brand-name-mozilla-vpn } බාගන්න
+vpn-download-page-description = { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } සහ { -brand-name-ios } සඳහා { -brand-name-mozilla-vpn } බාගන්න.
 vpn-download-not-available-in-country = කණගාටුයි, ඔබගේ රට තුළ { -brand-name-mozilla-vpn } බාගැනීමට නැත.
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (බිටු-64 පමණි)
 vpn-download-for-windows-long = { -brand-name-windows } සඳහා { -brand-name-mozilla-vpn } බාගන්න.
