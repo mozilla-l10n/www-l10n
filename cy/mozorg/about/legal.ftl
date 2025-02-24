@@ -18,6 +18,8 @@ legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = Preifatrwydd a nodau masnach
 legal-privacy-notices-and-policy = Hysbysiadau a Pholisi Preifatrwydd
 legal-downloadable-software-notices = Hysbysiadau meddalwedd y mae modd eu llwytho i lawr
+# heading for the table of contents, a shorter heading is better
+legal-firefox-contents = Cynnwys
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: Am eich Hawliau
 legal-thunderbird = { -brand-name-thunderbird }

@@ -18,6 +18,8 @@ legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = პირადულობა და სავაჭრო ნიშნები
 legal-privacy-notices-and-policy = პირადულობის უწყებები და დებულება
 legal-downloadable-software-notices = ჩამოსატვირთ პროგრამებზე უწყებები
+# heading for the table of contents, a shorter heading is better
+legal-firefox-contents = შიგთავსი
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: თქვენი უფლებების შესახებ
 legal-thunderbird = { -brand-name-thunderbird }

@@ -18,6 +18,8 @@ legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = 隐私和商标
 legal-privacy-notices-and-policy = 隐私通告和政策
 legal-downloadable-software-notices = 软件可下载通告
+# heading for the table of contents, a shorter heading is better
+legal-firefox-contents = 内容
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }：关于您的权利
 legal-thunderbird = { -brand-name-thunderbird }

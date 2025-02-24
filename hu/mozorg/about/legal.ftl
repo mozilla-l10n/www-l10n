@@ -18,6 +18,8 @@ legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = Adatvédelem és védjegyek
 legal-privacy-notices-and-policy = Adatvédelmi nyilatkozatok és irányelvek
 legal-downloadable-software-notices = Letölthető szoftverekkel kapcsolatos nyilatkozatok
+# heading for the table of contents, a shorter heading is better
+legal-firefox-contents = Tartalom
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: Az Ön jogairól
 legal-thunderbird = { -brand-name-thunderbird }

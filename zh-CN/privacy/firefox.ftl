@@ -27,8 +27,12 @@ privacy-firefox-firefox-makes-it = { -brand-name-firefox } 内置隐私和安全
 privacy-firefox-manage-your-privacy = 管理您的隐私设置：
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-desktop = 桌面版 { -brand-name-firefox }
+privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } 桌面版
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-mobile = 移动版 { -brand-name-firefox }
+privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } 移动版
+# heading for the table of contents, a shorter heading is better
+privacy-firefox-contents = 内容
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-take-me-back = <a { $attrs }>返回隐私声明顶部</a>

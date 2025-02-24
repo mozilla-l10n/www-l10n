@@ -27,8 +27,12 @@ privacy-firefox-firefox-makes-it = { -brand-name-firefox } umožňuje snadnou sp
 privacy-firefox-manage-your-privacy = Správa nastavení soukromí:
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-desktop = { -brand-name-firefox } pro počítač
+privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } pro počítač
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-mobile = { -brand-name-firefox } pro mobily
+privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } pro mobily
+# heading for the table of contents, a shorter heading is better
+privacy-firefox-contents = Obsah
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-take-me-back = Vezměte mě <a { $attrs }>zpět na začátek</a> Oznámení o ochraně osobních údajů
