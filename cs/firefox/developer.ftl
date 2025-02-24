@@ -84,6 +84,12 @@ firefox-developer-view-the-release = Pokud chcete vědět, co je nového, podív
 firefox-developer-developer-tools-user = Uživatelská dokumentace Nástrojů pro vývojáře
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Zdroje pro vývojáře, od vývojářů
+firefox-developer-mdn-playground = Hřiště
+firefox-developer-mdn-write-test-and-share = Pište, testujte a sdílejte svůj kód. Vaše hřiště, kde se můžete učit a sdílet svou úžasnou práci se světem.
+firefox-developer-mdn-blog = Blog { -brand-name-mdn }
+firefox-developer-mdn-unlock-the-world = Nahlédněte do světa vývoje webu s blogem { -brand-name-mdn } – vaším hlavním centrem pro postřehy odborníků, nejnovější webové standardy a tipy pro programování.
+firefox-developer-mdn-updates = Aktualizace
+firefox-developer-mdn-the-web-doesnt-have = Web nemá seznam změn, ale { -brand-name-mdn } vám může pomoci. Změny kompatibility si můžete přizpůsobit a filtrovat na základě prohlížečů nebo kategorií technologií, které vás zajímají, ať už jde o JavaScript, CSS atd.
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Reference { -brand-name-mdn }
 # Obsolete string (expires 18-04-2025)

@@ -84,6 +84,12 @@ firefox-developer-view-the-release = 查看<a { $attrs }>发行说明</a>（仅�
 firefox-developer-developer-tools-user = 开发者工具用户文档
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = 庞大资源库。源于开发者，服务开发者。
+firefox-developer-mdn-playground = Playground
+firefox-developer-mdn-write-test-and-share = 编写、测试和分享您的代码。您的学习场地和与世界分享您的杰作。
+firefox-developer-mdn-blog = { -brand-name-mdn } 博客
+firefox-developer-mdn-unlock-the-world = 通过 { -brand-name-mdn } 博客探索 Web 开发的世界 - 您的专家见解、最新 Web 标准和编程技巧的中心。
+firefox-developer-mdn-updates = 更新
+firefox-developer-mdn-the-web-doesnt-have = 网上没有变更日志但 { -brand-name-mdn } 可以帮忙您可以基于浏览器或您感兴趣的技术类别无论是 JavaScript、CSS 等对兼容性变更进行个性化过滤。
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } 参考文档
 # Obsolete string (expires 18-04-2025)

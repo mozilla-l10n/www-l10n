@@ -84,6 +84,12 @@ firefox-developer-view-the-release = Просмотрите <a { $attrs }>при
 firefox-developer-developer-tools-user = Документация пользователя для инструментов разработчика
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Ресурсы для разработчиков, от разработчиков
+firefox-developer-mdn-playground = Playground
+firefox-developer-mdn-write-test-and-share = Пишите, тестируйте и делитесь своим кодом. Ваша игровая платформа, чтобы учиться и делиться своей удивительной работой с миром.
+firefox-developer-mdn-blog = Блог { -brand-name-mdn }
+firefox-developer-mdn-unlock-the-world = Откройте для себя мир веб-разработки с помощью блога { -brand-name-mdn } — вашего любимого места экспертной оценки, последних веб-стандартов и советов по программированию.
+firefox-developer-mdn-updates = Обновления
+firefox-developer-mdn-the-web-doesnt-have = В Интернете нет журнала изменений, но { -brand-name-mdn } может помочь. Вы можете персонализировать и фильтровать изменения совместимости на основе браузеров или интересующей вас технической категории, будь то JavaScript, CSS и т.д.
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Отзывы { -brand-name-mdn }
 # Obsolete string (expires 18-04-2025)

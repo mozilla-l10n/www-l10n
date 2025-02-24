@@ -6,6 +6,7 @@ footer-refresh-discover-mozilla-products = Fedezze fel a { -brand-name-mozilla }
 footer-refresh-leadership = Vezetés
 footer-refresh-advertise = Hirdessen a { -brand-name-mozilla(ending: "accented") }val
 footer-refresh-firefox-release-notes = { -brand-name-firefox } kiadási megjegyzések
+footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Kövesse a következőt: @{ -brand-name-mozilla }

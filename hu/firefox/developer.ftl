@@ -84,6 +84,12 @@ firefox-developer-view-the-release = Tekintse meg a <a { $attrs }>kiadási megje
 firefox-developer-developer-tools-user = Fejlesztői eszközök felhasználói dokumentációi
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Erőforrások fejlesztőknek, fejlesztőktől
+firefox-developer-mdn-playground = Játszótér
+firefox-developer-mdn-write-test-and-share = Írja meg, tesztelje és ossza meg a kódját. A játszótere, ahol tanulhat, és megoszthatja csodálatos munkáját a világgal.
+firefox-developer-mdn-blog = { -brand-name-mdn } blog
+firefox-developer-mdn-unlock-the-world = Tekintsen be a webfejlesztés világába a { -brand-name-mdn } Bloggal – a szakértői meglátások, a legújabb webes szabványok és a kódolási tippek legjobb központja.
+firefox-developer-mdn-updates = Frissítések
+firefox-developer-mdn-the-web-doesnt-have = A webnek nincs változásnaplója, de a { -brand-name-mdn } segíthet. Testre szabhatja és szűrheti a kompatibilitási változásokat a böngészője vagy a technológiai kategória alapján, amely érdekli, hogy JavaScript, CSS stb.
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } hivatkozások
 # Obsolete string (expires 18-04-2025)

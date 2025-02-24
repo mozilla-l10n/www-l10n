@@ -84,6 +84,12 @@ firefox-developer-view-the-release = 看看<a { $attrs }>有什麼新鮮事</a>�
 firefox-developer-developer-tools-user = 開發者工具使用者文件
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = 由開發者撰寫，提供開發者的相關資源
+firefox-developer-mdn-playground = 操場
+firefox-developer-mdn-write-test-and-share = 編寫、測試並分享您的程式碼。學習並與世界分享您的超棒作品的平台。
+firefox-developer-mdn-blog = { -brand-name-mdn } 部落格
+firefox-developer-mdn-unlock-the-world = 到 { -brand-name-mdn } 部落格開啟網頁開發的世界 — 這兒熱門平台就會有專家提供意見、最新的網頁標準與寫程式的秘訣。
+firefox-developer-mdn-updates = 更新
+firefox-developer-mdn-the-web-doesnt-have = 網路世界沒有更新紀錄但 { -brand-name-mdn } 可以協助您。您可以根據您所使用的瀏覽器或您有興趣的技術分類是 JavaScript、CSS 等來個人化過濾相容性的變更。
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } 參考資料
 # Obsolete string (expires 18-04-2025)
