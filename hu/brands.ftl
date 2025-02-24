@@ -51,7 +51,21 @@
     { $case ->
         [accusative] Firefoxot
         [dative] Firefoxnak
+        [genitive] Firefoxé
         [instrumental] Firefoxszal
+        [causal] Firefoxért
+        [translative] Firefoxszá
+        [terminative] Firefoxig
+        [illative] Firefoxba
+        [adessive] Firefoxnál
+        [ablative] Firefoxtól
+        [elative] Firefoxból
+        [allative] Firefoxhoz
+        [sublative] Firefoxra
+        [inessive] Firefoxban
+        [superessive] Firefoxon
+        [delative] Firefoxról
+        [sociative] Firefoxostul
        *[nominative] Firefox
     }
 -brand-name-firefox-beta = Firefox Beta
