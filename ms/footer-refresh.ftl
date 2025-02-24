@@ -6,6 +6,7 @@ footer-refresh-discover-mozilla-products = Temui produk dan inisiatif { -brand-n
 footer-refresh-leadership = Kepimpinan
 footer-refresh-advertise = Beriklanlah dengan { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Nota Pelancaran { -brand-name-firefox }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Ikuti @{ -brand-name-mozilla }
 footer-refresh-mastodon = Mastodon
