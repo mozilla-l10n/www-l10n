@@ -86,9 +86,15 @@ firefox-developer-view-the-release = <a { $attrs }>リリースノート</a> (�
 firefox-developer-developer-tools-user = デベロッパーツールのユーザードキュメント
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = デベロッパーによるデベロッパーのためのリソース
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } のリファレンス
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } は、CSS、HTML、JavaScript、Web API などのウェブプラットフォーム技術を記録するオープンソースの共同プロジェクトです。
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = { -brand-name-mdn } のカリキュラム
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = フロントエンドデベロッパーとして成功するために不可欠なスキルと実践方法を体系化したガイドと、推奨される学習リソースです。
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = { -brand-name-mdn } をサポートし、コレクション、通知、プレイグラウンドで自在に活用しましょう。

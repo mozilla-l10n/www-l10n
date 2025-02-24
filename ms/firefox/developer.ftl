@@ -86,9 +86,15 @@ firefox-developer-view-the-release = Lihat <a { $attrs }>nota pelancaran</a> (In
 firefox-developer-developer-tools-user = Dokumen Pengguna Perkakas Pembangun
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Sumber untuk Pembangun, oleh Pembangun
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Rujukan { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } ialah projek kerjasama sumber terbuka yang mendokumenkan teknologi platform internet termasuklah CSS, HTML, JavaScript dan API Web.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = Kurikulum { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = Sebuah panduan berstruktur untuk kemahiran dan latihan yang penting demi menjadi seorang pembangun bahagian depan, termasuk juga sumber pembelajaran yang disyorkan.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = Sokonglah { -brand-name-mdn } dan jadikannya milik anda dengan koleksi, notifikasi dan pusat rekriasi.
