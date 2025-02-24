@@ -35,3 +35,6 @@ features-adblocker-tool-3 = <strong>Egyéni mód:</strong> Azok számára, akik 
 features-adblocker-to-adjust = Ezen beállítások módosításához kattintson a pajzs ikonra bármelyik weboldal címsorától balra, és válassza a „Védelmi beállítások” lehetőséget. Ez megnyit egy menüt, ahol kiválaszthatja az Önnek megfelelő védelmi szintet.
 features-adblocker-why-use = Miért használjon reklámblokkolót?
 features-adblocker-ad-blockers-do-more = A reklámblokkolók többet tesznek a hirdetések kezelésénél – a felesleges tartalmak számának csökkentésével növelhetik a böngészés sebességét és a biztonságot. Testreszabott, figyelemeltereléstől mentes webes élményt nyújtanak, így a legfontosabbra koncentrálhat.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-explore-hundreds = Fedezze fel a { -brand-name-firefox(case: "allative") } elérhető több száz adatvédelem-központú kiegészítőt, és találja meg az Önnek megfelelő eszközöket. <a href="{ $url }">Töltse le a { -brand-name-firefox(case: "accusative") }</a> még ma, és próbálja ki azt a böngészőt, amelyet az adatvédelmet és a teljesítményt figyelembe véve tervezték.
