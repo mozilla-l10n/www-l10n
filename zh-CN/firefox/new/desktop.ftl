@@ -130,6 +130,9 @@ firefox-desktop-download-from-security-to = 从安全、新闻，到网络游戏
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } 一开始是由 <a { $attrs }>{ -brand-name-mozilla }</a> 开发，希望成为在 { -brand-name-ie }（如今则是 { -brand-name-chrome }）之外，更快、更具隐私的浏览器。而现在，我们由以使命驱动的公司与全球志愿者社区组成，任何时刻都将您的隐私放在首位。
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = 纵使互联网发展日新月异，{ -brand-name-firefox } 始终以您的隐私权为念，这一直是我们的宗旨。请阅读我们的<a { $attrs }>隐私声明</a>，详细了解我们对数据的处理方式。
 # Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
