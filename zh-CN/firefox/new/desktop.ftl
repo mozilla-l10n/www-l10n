@@ -26,7 +26,7 @@ firefox-desktop-download-no-shady = 没有晦涩难懂的隐私保护政策，�
 firefox-desktop-download-download-options = 下载其他平台与语言版本
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser }用户支持
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do-v2 = 上网无拘束<br>{ -brand-name-firefox-browser } 为您<strong>护航</strong>
+firefox-desktop-download-do-what-you-do-v2 = 上网无拘束<br>{ -brand-name-firefox-browser }为您<strong>护航</strong>
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = 上网无拘束。<br>{ -brand-name-firefox-browser }<strong>不会</strong>偷看。
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } 与其他浏览器相比
