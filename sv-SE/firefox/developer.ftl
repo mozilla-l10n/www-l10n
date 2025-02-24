@@ -84,9 +84,15 @@ firefox-developer-view-the-release = Visa <a { $attrs }>versionsfakta</a> (endas
 firefox-developer-developer-tools-user = Dokumentation för utvecklingsverktyg
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resurser för utvecklare, av utvecklare
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Referenser { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } är ett samarbetsprojekt med öppen källkod som dokumenterar webbplattformstekniker, inklusive CSS, HTML, JavaScript och webb-API:er.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = Läroplan { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = En strukturerad guide till de grundläggande färdigheterna och metoderna för att vara en framgångsrik front-end utvecklare, tillsammans med rekommenderade inlärningsresurser.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = Stöd { -brand-name-mdn } och anpassa den med samlingar, meddelanden och områden för att testa din kod.

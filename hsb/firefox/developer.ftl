@@ -84,6 +84,9 @@ firefox-developer-view-the-release = Čitajće <a { $attrs }>wersije informacije
 firefox-developer-developer-tools-user = Wužiwarske dokumenty wuwiwarskich nastrojow
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resursy za wuwiwarjow, wot wuwiwarjow
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Referency { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = Wučbny plan { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }

@@ -4,6 +4,7 @@
 
 footer-refresh-leadership = Кіраўніцтва
 footer-refresh-firefox-release-notes = Заўвагі да выпуску { -brand-name-firefox }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Падпісацца на @{ -brand-name-mozilla }
 footer-refresh-mastodon = Mastodon

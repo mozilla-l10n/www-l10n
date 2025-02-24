@@ -5,6 +5,7 @@
 footer-refresh-leadership = قیادت
 footer-refresh-advertise = { -brand-name-mozilla } نال مشہوری کرو
 footer-refresh-firefox-release-notes = { -brand-name-firefox } ریلیز نوٹ
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = { -brand-name-mozilla } تے فالو کرو
 footer-refresh-mastodon = Mastodon

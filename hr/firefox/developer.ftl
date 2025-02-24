@@ -84,9 +84,15 @@ firefox-developer-view-the-release = Pogledaj <a { $attrs }>napomene o izdanju</
 firefox-developer-developer-tools-user = Korisnički dokumenti alata za programere
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resursi za programere, od programera.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } reference
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } je kolaborativni projekt otvorenog koda koji dokumentira tehnologije web platformi, uključujući CSS, HTML, JavaScript i web API-je.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = { -brand-name-mdn } kurikulum
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = Strukturirani vodič za bitne vještine i prakse za uspješno programiranje sučelja, zajedno s preporučenim resursima za učenje.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = Podrži { -brand-name-mdn } i učini ga svojim sa zbirkama, obavijestima i igralištima.

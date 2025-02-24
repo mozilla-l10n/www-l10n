@@ -80,7 +80,11 @@ firefox-developer-congrats-you-now-have-latest-v2 = ຕອນນີ້ທ່າ�
 firefox-developer-developer-tools-user = Developer Tools User Docs
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = ຊັບພະຍາກອນສໍາລັບນັກພັດທະນາ, ໂດຍນັກພັດທະນາ
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } ການອ້າງອີງ
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = { -brand-name-mdn } ຫຼັກສູດ
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = ຄູ່ມືທີ່ມີໂຄງສ້າງສໍາລັບທັກສະ ແລະ ການປະຕິບັດທີ່ຈໍາເປັນສໍາລັບການເປັນຜູ້ພັດທະນາຊັ້ນຫນ້າທີ່ປະສົບຜົນສໍາເລັດ, ພ້ອມກັບແຫຼ່ງການຮຽນຮູ້ທີ່ແນະນໍາ.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }

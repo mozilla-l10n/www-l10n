@@ -82,4 +82,5 @@ firefox-developer-congrats-you-now-have-latest-v2 = Sinulla on nyt { -brand-name
 firefox-developer-view-the-release = Katso <a { $attrs }>julkaisutiedot</a> (vain englanniksi) nähdäksesi uutuudet.
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resursseja kehittäjille - kehittäjiltä
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }

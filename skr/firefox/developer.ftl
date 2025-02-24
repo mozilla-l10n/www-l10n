@@ -84,9 +84,15 @@ firefox-developer-view-the-release = نواں کیا ہِے ݙیکھݨ کِیت�
 firefox-developer-developer-tools-user = ڈویپلر ٹولز یوزر ڈاکس
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = ڈویلپرز کیتے وسائل، ڈویلپرز دے ذریعے
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } حوالے
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } ہِک اوپن سورس، آپتی تعاون اُتے مبنی پراجیکٹ ہِے جہڑا ویب پلیٹ فارم ٹیکنالوجیز کوں دستاویز کرین٘دا ہِے، CSS, HTML, JavaScript اَتے web APIs سمیت۔
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = { -brand-name-mdn } نصآب
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = ہِک کامیاب فرنٹ اینڈ ڈویلپر بݨن کِیتے ضروری مہارتاں اَتے طریقیاں کِیتے ہِک منظم اڳواݨی، تجویز کِیتے ڳئے سِکّھݨ دے وسیلیاں دے نال۔
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = { -brand-name-mdn } دی حمایت کرو اَتے اِیکوں مجموعاں، اطلاعواں اَتے کھیݙ دے پِڑاں دے نال آپݨاں بݨاؤ۔

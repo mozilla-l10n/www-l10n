@@ -84,9 +84,15 @@ firefox-developer-view-the-release = Yenilikleri görmek için <a { $attrs }>sü
 firefox-developer-developer-tools-user = Geliştirici Araçları Kullanıcı Belgeleri
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Geliştiriciler için, geliştiriciler tarafından hazırlanan kaynaklar
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } Belgeleri
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn }; CSS, HTML, JavaScript ve web API’leri dahil olmak üzere web platformu teknolojilerini belgeleyen açık kaynaklı, işbirliğine dayalı bir projedir.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = { -brand-name-mdn } Müfredatı
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = Başarılı bir front-end geliştiricisi olmak için temel beceri ve uygulamaların yanı sıra önerilen öğrenme kaynaklarını da içeren yapılandırılmış bir rehber.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = { -brand-name-mdn }’i destekleyin; koleksiyonlar, bildirimler ve oyun alanlarıyla kişiselleştirin.

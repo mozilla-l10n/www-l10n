@@ -84,9 +84,15 @@ firefox-developer-view-the-release = Ehechajey <a { $attrs }>marandu’i peteĩv
 firefox-developer-developer-tools-user = Tembiporu mboguataha poruhárape g̃uarã kuatiaite
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Mba’eita mboguatahárape g̃uarã, mboguatahára rupi
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } Jeikekuaaha
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } ha’e apopyrã juajugua ijayvu jurujáva ombokuatiáva tembiporupyahu ñanduti pyendavusu, oĩhápe CSS, HTML, JavaScript ha APIs.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = { -brand-name-mdn } Mbokatupyryrã
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = Peteĩ tape mba’ekuaa ha mba’eaporã eikuaa katueteva’erã reikoséramo mboguataháraramo front-end ikatupyrýva, opaite kuaapyrã kuave’ẽmby ndive.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = Oipytyvõ { -brand-name-mdn } ha emboavareko ñembyaty, ñemomarandu ha eiporukuaa hag̃uáme nde mba’eñemi.

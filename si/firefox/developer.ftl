@@ -53,4 +53,5 @@ firefox-developer-view-the-release = අළුත් දෑ දැකීමට <
 firefox-developer-developer-tools-user = සංවර්ධක මෙවලම් පරිශ්‍රීලක ප්‍රලේඛන
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = සංවර්ධකයින් වෙතින් සංවර්ධකයින්ට සම්පත්
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }

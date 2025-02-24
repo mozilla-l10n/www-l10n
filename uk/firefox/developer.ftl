@@ -84,9 +84,15 @@ firefox-developer-view-the-release = Перегляньте <a { $attrs }>при
 firefox-developer-developer-tools-user = Користувацька документація для інструментів розробника
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Ресурси від розробників для розробників
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Посилання { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } – це суспільний проєкт із відкритим програмним кодом, який документує технології вебплатформи, зокрема CSS, HTML, JavaScript і веб-API.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = Навчальна програма { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = Структурований посібник із основними навичками та практиками для успішних інтерфейсних розробників, а також рекомендовані навчальні ресурси.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = Підтримайте { -brand-name-mdn } і персоналізуйте його за допомогою збірок, сповіщень та ігрових платформ.

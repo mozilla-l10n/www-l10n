@@ -84,9 +84,15 @@ firefox-developer-view-the-release = Pokud chcete vědět, co je nového, podív
 firefox-developer-developer-tools-user = Uživatelská dokumentace Nástrojů pro vývojáře
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Zdroje pro vývojáře, od vývojářů
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Reference { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } je open source projekt dokumentující technologie webové platformy (CSS, HTML, JavaScript či webové rozhraní API).
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = Učební osnovy { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = Strukturovaný průvodce základními dovednostmi a postupy pro úspěšného front-endového vývojáře spolu s doporučenými studijními zdroji.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = Podpořte { -brand-name-mdn } a přizpůsobte si jej pomocí sbírek, upozornění a prostorů pro vyzkoušení.

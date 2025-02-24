@@ -84,9 +84,15 @@ firefox-developer-view-the-release = Bekijk de <a { $attrs }>uitgaveopmerkingen<
 firefox-developer-developer-tools-user = Ontwikkelaarshulpmiddelen-gebruikersdocumenten
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Hulpbronnen voor ontwikkelaars, door ontwikkelaars
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn }-referenties
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } is een opensource samenwerkingsproject dat webplatformtechnologieën documenteert, waaronder CSS, HTML, JavaScript en web-API’s.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = { -brand-name-mdn }-curriculum
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = Een gestructureerde gids voor de essentiële vaardigheden en praktijken om een succesvolle front-end-ontwikkelaar te zijn, samen met aanbevolen leerbronnen.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = Ondersteun { -brand-name-mdn } en maak het van uzelf met collecties, notificaties en speelterreinen.

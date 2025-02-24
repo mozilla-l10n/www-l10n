@@ -6,6 +6,7 @@ footer-refresh-discover-mozilla-products = Uppgötvaðu hugbúnað og verkefni s
 footer-refresh-leadership = Forysta
 footer-refresh-advertise = Auglýstu með { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Útgáfuskýringar { -brand-name-firefox }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Fylgstu með @{ -brand-name-mozilla }
 footer-refresh-mastodon = Mastodon

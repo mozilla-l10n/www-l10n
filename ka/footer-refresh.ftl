@@ -6,6 +6,7 @@ footer-refresh-discover-mozilla-products = გაეცანით { -brand-nam
 footer-refresh-leadership = ხელმძღვანელობა
 footer-refresh-advertise = რეკლამა { -brand-name-mozilla }-სთან ერთად
 footer-refresh-firefox-release-notes = { -brand-name-firefox }-ის გამოშვების შენიშვნები
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = გამოიწერეთ @{ -brand-name-mozilla }
 footer-refresh-mastodon = Mastodon

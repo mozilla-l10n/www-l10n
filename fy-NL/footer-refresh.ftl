@@ -6,6 +6,7 @@ footer-refresh-discover-mozilla-products = Untdek { -brand-name-mozilla }-produk
 footer-refresh-leadership = Liederskip
 footer-refresh-advertise = Advertearje mei { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = { -brand-name-firefox }útjefteopmerkingen
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } folgje
 footer-refresh-mastodon = Mastodon

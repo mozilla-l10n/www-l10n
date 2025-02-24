@@ -6,6 +6,7 @@ footer-refresh-discover-mozilla-products = Darganfod cynnyrch a mentrau { -brand
 footer-refresh-leadership = Arweinyddiaeth
 footer-refresh-advertise = Hysbysebu gyda { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Nodiadau Rhyddhau { -brand-name-firefox }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Dilyn @ { -brand-name-mozilla }
 footer-refresh-mastodon = Mastodon

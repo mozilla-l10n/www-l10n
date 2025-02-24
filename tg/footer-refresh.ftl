@@ -5,6 +5,7 @@
 footer-refresh-leadership = Роҳнамоӣ
 footer-refresh-advertise = Таблиғ тавассути «{ -brand-name-mozilla }»
 footer-refresh-firefox-release-notes = Қайдҳои нашри «{ -brand-name-firefox }»
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Пайгирӣ кардани @{ -brand-name-mozilla }
 footer-refresh-mastodon = Mastodon

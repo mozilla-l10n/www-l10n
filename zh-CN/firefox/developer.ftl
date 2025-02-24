@@ -84,9 +84,15 @@ firefox-developer-view-the-release = 查看<a { $attrs }>发行说明</a>（仅�
 firefox-developer-developer-tools-user = 开发者工具用户文档
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = 庞大资源库。源于开发者，服务开发者。
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } 参考文档
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } 是提供 Web 平台技术相关文档的协作式开源项目，内容涵盖 CSS、HTML、JavaScript 以及 Web API。
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = { -brand-name-mdn } 课程
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = 体例完善的指南中包含基础技能和实践，再配以推荐的学习资源，助您成为优秀的前端开发者。
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = 为 { -brand-name-mdn } 提供支持，并借助收藏集、通知、演练场，将 { -brand-name-mdn } 化为己用。

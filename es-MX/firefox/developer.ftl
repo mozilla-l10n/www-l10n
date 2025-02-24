@@ -78,4 +78,5 @@ firefox-developer-a-separate-profile = Un <strong>perfil y ruta separados</stron
 firefox-developer-preferences-tailored = Preferencias <strong>personalizadas para desarrolladores web</strong>: el navegador y la depuración remota están activados de forma predeterminada, al igual que el tema oscuro y el botón de la barra de herramientas para desarrolladores.
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Recursos para desarrolladores, por desarrolladores
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }

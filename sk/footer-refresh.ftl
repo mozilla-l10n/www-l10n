@@ -6,6 +6,7 @@ footer-refresh-discover-mozilla-products = Objavte produkty a iniciatívy { -bra
 footer-refresh-leadership = Vedenie
 footer-refresh-advertise = Inzerujte pomocou { -brand-name-mozilla(case: "gen") }
 footer-refresh-firefox-release-notes = Poznámky k vydaniu { -brand-name-firefox(case: "gen") }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Sledujte @{ -brand-name-mozilla }
 footer-refresh-mastodon = Mastodon

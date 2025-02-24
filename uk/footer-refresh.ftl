@@ -6,6 +6,7 @@ footer-refresh-discover-mozilla-products = Відкрийте для себе п
 footer-refresh-leadership = Керівництво
 footer-refresh-advertise = Рекламуйте з { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Примітки до випуску { -brand-name-firefox }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Стежити за @{ -brand-name-mozilla }
 footer-refresh-mastodon = Mastodon

@@ -74,4 +74,5 @@ firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } iɛawed tam
 firefox-developer-made-for-developers = Iminig yettwag i yineflayen
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Tiɣbula i yineflayen, sɣur ineflayen.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Ismenyifen { -brand-name-mdn }

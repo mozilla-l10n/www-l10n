@@ -84,9 +84,15 @@ firefox-developer-view-the-release = Δείτε τις <a { $attrs }>σημει�
 firefox-developer-developer-tools-user = Έγγραφα χρήστη εργαλείων ανάπτυξης
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Πόροι για προγραμματιστές, από προγραμματιστές
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Αναφορές { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = Το { -brand-name-mdn } είναι ένα συλλογικό έργο ανοικτού κώδικα, το οποίο τεκμηριώνει τις τεχνολογίες της διαδικτυακής πλατφόρμας, όπως τα CSS, HTML, JavaScript και web API.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = Πρόγραμμα σπουδών { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = Ένας δομημένος οδηγός για τις απαραίτητες δεξιότητες και πρακτικές για έναν επιτυχημένο προγραμματιστή περιβάλλοντος χρήστη, μαζί με προτεινόμενους πόρους εκμάθησης.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = Υποστηρίξτε το { -brand-name-mdn } και κάντε το δικό σας με συλλογές, ειδοποιήσεις και χώρους πειραματισμού.

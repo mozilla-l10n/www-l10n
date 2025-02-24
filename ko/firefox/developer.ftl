@@ -84,9 +84,15 @@ firefox-developer-view-the-release = 새로운 기능을 살펴보려면 <a { $a
 firefox-developer-developer-tools-user = 개발자 도구 사용자 문서
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = 개발자에 의한, 개발자를 위한 리소스
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } 참조
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn }은 CSS와 HTML, JavaScript, web API 등의 웹 플랫폼 기술을 문서화하는 오픈 소스 협업 프로젝트입니다.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = { -brand-name-mdn } 교육 과정
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = 성공적인 프론트엔드 개발자가 되기 위한 필수 기술과 실습에 대한 구조화된 가이드와 권장 학습 리소스입니다.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = { -brand-name-mdn }을 지원하고 콜렉션과 알림, 플레이그라운드를 통해 나만의 것으로 만드세요.

@@ -6,6 +6,7 @@ footer-refresh-discover-mozilla-products = Otkrij { -brand-name-mozilla } proizv
 footer-refresh-leadership = Vodstvo
 footer-refresh-advertise = Oglašavaj s { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Napomene o { -brand-name-firefox } izdanju
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Slijedi @{ -brand-name-mozilla }
 footer-refresh-mastodon = Mastodon

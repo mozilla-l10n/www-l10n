@@ -84,9 +84,15 @@ firefox-developer-view-the-release = Gweld y <a { $attrs }>nodiadau rhyddhau</a>
 firefox-developer-developer-tools-user = Dogfennau Defnyddiwr Offer Datblygwr
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Adnoddau i Ddatblygwyr, gan Ddatblygwyr
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Cyfeiriadau { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = Mae { -brand-name-mdn } yn broject cod agored, cydweithredol sy'n dogfennu technolegau llwyfannau gwe, gan gynnwys CSS, HTML, JavaScript ac APIs gwe.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = Cwricwlwm { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = Canllaw strwythuredig i'r sgiliau a'r arferion hanfodol ar gyfer bod yn ddatblygwr blaen llwyddiannus, ynghyd a'r adnoddau dysgu sy'n cael ei  argymell.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = Cefnogwch { -brand-name-mdn } a gwnewch ef yn un eich hun gyda chasgliadau, hysbysiadau a meysydd chwarae.

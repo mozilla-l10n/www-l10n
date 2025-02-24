@@ -84,9 +84,15 @@ firefox-developer-view-the-release = 看看<a { $attrs }>有什麼新鮮事</a>�
 firefox-developer-developer-tools-user = 開發者工具使用者文件
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = 由開發者撰寫，提供開發者的相關資源
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } 參考資料
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } 是一套開放原始碼、包含 CSS、HTML、JavaScript 及 Web API 等網頁平台技術文件的協作專案。
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = { -brand-name-mdn } 課程
+# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = 關於成為成功的前端開發者必須具備的能力、實踐方式以及推薦的學習資源的結構化指南。
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = 支援 { -brand-name-mdn } 並透過收藏集、通知與 Playground 來打造您自己的風格。

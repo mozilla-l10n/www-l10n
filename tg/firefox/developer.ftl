@@ -54,6 +54,9 @@ firefox-developer-congrats-you-now-have-latest-v2 = Акнун шумо верс
 firefox-developer-developer-tools-user = Ҳуҷҷатҳои корбар оид ба абзорҳои барномасозӣ
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Манбаъҳо барои барномасозон ва аз ҷониби барномасозон
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Иқтибосҳо аз «{ -brand-name-mdn }»
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = Нақшаи таълимии «{ -brand-name-mdn }»
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }

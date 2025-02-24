@@ -5,6 +5,7 @@
 footer-refresh-leadership = Руководство
 footer-refresh-advertise = Оглашавајте са { -brand-name-mozilla(case: "ins") }
 footer-refresh-firefox-release-notes = { -brand-name-firefox } напомене о издању
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Пратите @{ -brand-name-mozilla }
 footer-refresh-mastodon = Mastodon

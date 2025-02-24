@@ -6,6 +6,7 @@ footer-refresh-discover-mozilla-products = 探索 { -brand-name-mozilla } 产品
 footer-refresh-leadership = 领导层
 footer-refresh-advertise = 通过 { -brand-name-mozilla } 投放广告
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 发行说明
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = 关注 @{ -brand-name-mozilla }
 footer-refresh-mastodon = Mastodon

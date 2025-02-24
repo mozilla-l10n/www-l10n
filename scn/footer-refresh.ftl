@@ -6,6 +6,7 @@ footer-refresh-discover-mozilla-products = Scopri i prudutti e i pruggetti di { 
 footer-refresh-leadership = Cumannu
 footer-refresh-advertise = Fai pubblicità cu { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Noti di pubblicazzioni di { -brand-name-firefox }
+# Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Sicuta @{ -brand-name-mozilla }
 footer-refresh-mastodon = Mastodon

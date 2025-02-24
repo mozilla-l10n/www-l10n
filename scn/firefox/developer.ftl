@@ -26,6 +26,9 @@ firefox-developer-welcome-to-firefox-developer-edition = Bummegna nne { -brand-n
 firefox-developer-made-for-developers = U navicaturi fattu pî sbiluppatura
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Risursi pî sbiluppatura, dî sbiluppatura
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Rifirimenti { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = Currìculum di { -brand-name-mdn }
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
