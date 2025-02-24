@@ -10,5 +10,6 @@ features-adblocker-ad-blocking = Blokowanje wabjenja
 # Page Title
 features-adblocker-meta-title = Wo blokowakach wabjenja – { -brand-name-firefox }
 features-adblocker-finding-the-right = Prawy wabjenski blokowak za sebje namakać
+features-adblocker-tip-1 = <strong>Wabjenje blokować:</strong> Jeli jenož chceće wabjenje blokować, wubjerće jednoru a lochku móžnosć.
 features-adblocker-enhanced-privacy = Polěpšena priwatnosć a polěpšeny wukon z { -brand-name-firefox }
 features-adblocker-why-use = Čehodla wabjenski blokowak wužiwać?

@@ -5,6 +5,7 @@
 footer-refresh-leadership = Wjednistwo
 footer-refresh-advertise = Z { -brand-name-mozilla } wabiś
 footer-refresh-firefox-release-notes = Wersijowe informacije { -brand-name-firefox }
+footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } slědowaś

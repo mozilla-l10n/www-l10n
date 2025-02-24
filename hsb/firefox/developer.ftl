@@ -84,6 +84,11 @@ firefox-developer-view-the-release = Čitajće <a { $attrs }>wersije informacije
 firefox-developer-developer-tools-user = Wužiwarske dokumenty wuwiwarskich nastrojow
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resursy za wuwiwarjow, wot wuwiwarjow
+firefox-developer-mdn-playground = Hrajkanišćo
+firefox-developer-mdn-write-test-and-share = Pisajće, testujće a dźělće swój kod. Waše hrajkanišćo, hdźež móžeće wuknyć a swoje wobdźiwajomne dźěło ze swětom dźělić.
+firefox-developer-mdn-blog = Blog { -brand-name-mdn }
+firefox-developer-mdn-unlock-the-world = Wotewriće swět webwuwića z blogom { -brand-name-mdn } – waše srjedźišćo za dopóznaća ekspertow, najnowše webstandardy a programowanske pokiwy.
+firefox-developer-mdn-updates = Aktualizacije
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Referency { -brand-name-mdn }
 # Obsolete string (expires 18-04-2025)
