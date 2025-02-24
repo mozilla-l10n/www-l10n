@@ -85,7 +85,10 @@ firefox-developer-developer-tools-user = Wužywaŕske dokumenty wuwijaŕskich r�
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resurse za wuwijarje wót wuwijarjow
 firefox-developer-mdn-playground = Grajkanišćo
+firefox-developer-mdn-write-test-and-share = Pišćo, testujśo a źělśo swój kod. Wašo grajkanišćo, źož móžośo wuknuś a swójo późiwabne źěło ze swětom źěliś.
 firefox-developer-mdn-blog = Blog { -brand-name-mdn }
+firefox-developer-mdn-unlock-the-world = Wótwóŕśo swět webwuwiśa z blogom { -brand-name-mdn } – wašo srjejźišćo za dopóznaśa ekspertow, nejnowše webstandardy a programěrowańske tipy.
+firefox-developer-mdn-updates = Aktualizacije
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Reference { -brand-name-mdn }
 # Obsolete string (expires 18-04-2025)
