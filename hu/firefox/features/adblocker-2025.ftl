@@ -34,3 +34,4 @@ features-adblocker-tool-2 = <strong>Szigorú mód:</strong> Ideális azoknak a f
 features-adblocker-tool-3 = <strong>Egyéni mód:</strong> Azok számára, akik teljes irányítást szeretnének, az Egyéni mód lehetővé teszi, hogy kiválaszthassa, hogy mit blokkol, a sütiktől a követőkig, és így tovább.
 features-adblocker-to-adjust = Ezen beállítások módosításához kattintson a pajzs ikonra bármelyik weboldal címsorától balra, és válassza a „Védelmi beállítások” lehetőséget. Ez megnyit egy menüt, ahol kiválaszthatja az Önnek megfelelő védelmi szintet.
 features-adblocker-why-use = Miért használjon reklámblokkolót?
+features-adblocker-ad-blockers-do-more = A reklámblokkolók többet tesznek a hirdetések kezelésénél – a felesleges tartalmak számának csökkentésével növelhetik a böngészés sebességét és a biztonságot. Testreszabott, figyelemeltereléstől mentes webes élményt nyújtanak, így a legfontosabbra koncentrálhat.
