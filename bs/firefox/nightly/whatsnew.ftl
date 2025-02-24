@@ -15,6 +15,11 @@ nightly-whatsnew-this-is-a-good = Ovo je dobro vrijeme da vam zahvalimo na pomo�
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
+#   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
+nightly-whatsnew-if-you-want-to-v4 = Ako želite znati šta se dešava oko { -brand-name-nightly } i njegove zajednice, čitanje našeg <a { $blog }>bloga</a> i praćenje nas na <a { $mastodon }>Mastodon</a> ili <a { $bluesky }>Bluesky</a> su dobre početne tačke!
+# Variables:
+#   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 # Obsolete string (expires: 2025-04-18)
 nightly-whatsnew-if-you-want-to-v3 = Ako želite znati šta se dešava oko { -brand-name-nightly }ja i njegove zajednice, čitajte naš <a { $blog }>blog</a> i ako nas pratite na platformama <a { $mastodon }>Mastodon</a> ili <a { $twitter }>X</a> to su dobre početne tačke!
