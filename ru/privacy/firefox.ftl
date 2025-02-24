@@ -25,7 +25,9 @@ privacy-firefox-firefox-protects-you = { -brand-name-firefox } защищает 
 privacy-firefox-privacy-that-works = Приватность, которая работает на вас
 privacy-firefox-firefox-makes-it = { -brand-name-firefox } облегчает управление вашими данными благодаря встроенным функциям конфиденциальности и безопасности, а также настройкам, позволяющим вам точно настроить работу в Интернете.
 privacy-firefox-manage-your-privacy = Управляйте настройками приватности:
+# Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-desktop = { -brand-name-firefox } для ПК
+# Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-mobile = { -brand-name-firefox } для мобильных устройств
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice

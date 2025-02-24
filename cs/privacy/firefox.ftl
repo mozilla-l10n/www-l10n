@@ -25,7 +25,9 @@ privacy-firefox-firefox-protects-you = { -brand-name-firefox } vás chrání př
 privacy-firefox-privacy-that-works = Ochrana osobních údajů, která vám vyhovuje
 privacy-firefox-firefox-makes-it = { -brand-name-firefox } umožňuje snadnou správu vašich dat díky vestavěným funkcím ochrany soukromí a zabezpečení a nastavení, které vám umožní vyladit prohlížení.
 privacy-firefox-manage-your-privacy = Správa nastavení soukromí:
+# Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-desktop = { -brand-name-firefox } pro počítač
+# Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-mobile = { -brand-name-firefox } pro mobily
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice

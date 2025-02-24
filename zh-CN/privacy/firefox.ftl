@@ -25,7 +25,9 @@ privacy-firefox-firefox-protects-you = { -brand-name-firefox } 可保护您免�
 privacy-firefox-privacy-that-works = 采取适合的隐私保护
 privacy-firefox-firefox-makes-it = { -brand-name-firefox } 内置隐私和安全功能，让您可轻松管理自己的数据；还具备其他实用设置，可用于细化调整浏览体验。
 privacy-firefox-manage-your-privacy = 管理您的隐私设置：
+# Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-desktop = 桌面版 { -brand-name-firefox }
+# Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-mobile = 移动版 { -brand-name-firefox }
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
