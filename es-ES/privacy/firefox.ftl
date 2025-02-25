@@ -11,3 +11,5 @@ privacy-firefox-read-our-privacy = Leer nuestro aviso de privacidad
 privacy-firefox-keeping-you-informed = Le mantendremos informado en todo momento
 privacy-firefox-transparency-first = Transparencia ante todo
 privacy-firefox-how-we-use = Cómo utilizamos los datos
+privacy-firefox-builtin-control = Control integrado
+privacy-firefox-always-protected = Siempre protegido
