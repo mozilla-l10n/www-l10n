@@ -44,7 +44,7 @@ firefox-products-get-mozilla-vpn = Sử dụng { -brand-name-mozilla-vpn }
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
-firefox-products-resources-for-developers = Tài nguyên dành cho nhà phát triển, bởi nhà phát triển. Hỗ trợ { -brand-name-mdn } và biến nó thành của riêng bạn với các bộ sưu tập, thông báo và sân chơi.
+firefox-products-resources-for-developers = Tài nguyên dành cho nhà phát triển, bởi nhà phát triển. Hỗ trợ { -brand-name-mdn } và biến nó thành của riêng bạn với các bộ sưu tập, thông báo và playground.
 firefox-products-support-mdn = Hỗ trợ { -brand-name-mdn }
 
 ## Thunderbird

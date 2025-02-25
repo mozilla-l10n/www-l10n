@@ -18,6 +18,8 @@ legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = Quyền riêng tư & nhãn hiệu
 legal-privacy-notices-and-policy = Thông báo và chính sách về Quyền riêng tư
 legal-downloadable-software-notices = Thông báo phần mềm có thể tải xuống
+# heading for the table of contents, a shorter heading is better
+legal-firefox-contents = Nội dung
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: Về quyền lợi của bạn
 legal-thunderbird = { -brand-name-thunderbird }
