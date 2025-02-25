@@ -27,7 +27,7 @@ privacy-firefox-firefox-makes-it = { -brand-name-firefox } облегчает у
 privacy-firefox-manage-your-privacy = Управляйте настройками приватности:
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-desktop = { -brand-name-firefox } для ПК
-privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } для компьютера
+privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } для ПК
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-mobile = { -brand-name-firefox } для мобильных устройств
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } для мобильных устройств
