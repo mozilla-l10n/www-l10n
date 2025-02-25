@@ -13,3 +13,4 @@ privacy-firefox-transparency-first = Transparencia ante todo
 privacy-firefox-how-we-use = Cómo utilizamos los datos
 privacy-firefox-builtin-control = Control integrado
 privacy-firefox-always-protected = Siempre protegido
+privacy-firefox-privacy-that-works = Privacidad a su medida
