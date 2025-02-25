@@ -87,9 +87,9 @@ firefox-developer-resources-for-developers = Recursos para desarrolladores, por 
 firefox-developer-mdn-playground = Zona de juegos
 firefox-developer-mdn-write-test-and-share = Escribe, prueba y comparte tu código. Tu patio de recreo para aprender y compartir tu increíble trabajo con el mundo.
 firefox-developer-mdn-blog = Blog de { -brand-name-mdn }
-firefox-developer-mdn-unlock-the-world = Descubre el mundo del desarrollo web con el blog { -brand-name-mdn }, tu centro de referencia para obtener información de expertos, los últimos estándares web y consejos de programación.
+firefox-developer-mdn-unlock-the-world = Desbloqueá el mundo del desarrollo web con el blog { -brand-name-mdn } — tu centro de referencia para obtener información de expertos, los últimos estándares web y consejos de programación.
 firefox-developer-mdn-updates = Actualizaciones
-firefox-developer-mdn-the-web-doesnt-have = La web no tiene un registro de cambios, pero { -brand-name-mdn } puede ayudar. Puede personalizar y filtrar los cambios de compatibilidad según el navegador o la categoría tecnológica que le interese, ya sea JavaScript, CSS, etc.
+firefox-developer-mdn-the-web-doesnt-have = La web no tiene un registro de cambios, pero { -brand-name-mdn } puede ayudar. Podés personalizar y filtrar los cambios de compatibilidad según el navegador o la categoría tecnológica que te interese, ya sea JavaScript, CSS, etc.
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Referencias de { -brand-name-mdn }
 # Obsolete string (expires 18-04-2025)
