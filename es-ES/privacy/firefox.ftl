@@ -11,6 +11,7 @@ privacy-firefox-youre-in-control = Usted tiene el control
 privacy-firefox-privacy-isnt-just = La privacidad no solo es un ajuste, sino que también es su derecho. El Aviso de privacidad de { -brand-name-firefox } se basa en la claridad, el control y valores por defecto responsables. Creemos que usted siempre debería poder controlar lo que sucede con sus datos. Cuente con nosotros para explicar claramente lo que { -brand-name-firefox } hace por defecto y ajustar su configuración para que pueda navegar como más le guste.
 privacy-firefox-read-our-privacy = Leer nuestro aviso de privacidad
 privacy-firefox-keeping-you-informed = Le mantendremos informado en todo momento
+privacy-firefox-we-believe-you = Creemos que  debe saber cómo se utilizan sus datos y por qué. { -brand-name-firefox } está diseñado teniendo en cuenta la privacidad y la transparencia en cada etapa.
 privacy-firefox-transparency-first = Transparencia ante todo
 privacy-firefox-how-we-use = Cómo utilizamos los datos
 privacy-firefox-builtin-control = Control integrado
