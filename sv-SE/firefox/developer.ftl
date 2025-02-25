@@ -84,6 +84,8 @@ firefox-developer-view-the-release = Visa <a { $attrs }>versionsfakta</a> (endas
 firefox-developer-developer-tools-user = Dokumentation för utvecklingsverktyg
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resurser för utvecklare, av utvecklare
+firefox-developer-mdn-blog = { -brand-name-mdn } blogg
+firefox-developer-mdn-updates = Uppdateringar
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Referenser { -brand-name-mdn }
 # Obsolete string (expires 18-04-2025)
