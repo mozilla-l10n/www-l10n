@@ -23,6 +23,8 @@ firefox-desktop-download-get-the-browser = Wobstarajśo se wobglědowak, kótary
 firefox-desktop-download-no-shady = Žedne póchmurne pšawidła priwatnosći abo slězne źuŕka za wabjarje. Jano spěšnučki wobglědowak, kótaryž was njewobšuźujo.
 firefox-desktop-download-download-options = Ześěgnjeńske móžnosći a druge rěcy
 firefox-desktop-download-browser-support = Pomoc wó { -brand-name-firefox-browser }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Cyńśo online, což cośo.<br> { -brand-name-firefox-browser } was <strong>šćita</strong>.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Cyńśo online, což cośo.<br> { -brand-name-firefox-browser } <strong>nje</strong>pśiglědujo.
 firefox-desktop-download-how-firefox-compares = Pśirownanje mjazy { -brand-name-firefox } a drugimi wobglědowakami
