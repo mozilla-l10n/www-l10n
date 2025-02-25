@@ -27,8 +27,12 @@ privacy-firefox-firefox-makes-it = { -brand-name-firefox } semplifica la gestion
 privacy-firefox-manage-your-privacy = Gestisci le tue impostazioni relative alla privacy per:
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-desktop = { -brand-name-firefox } per desktop
+privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } per desktop
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-mobile = { -brand-name-firefox } per dispositivi mobili
+privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } per dispositivi mobili
+# heading for the table of contents, a shorter heading is better
+privacy-firefox-contents = Contenuti
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-take-me-back = <a { $attrs }>Torna all’inizio</a> dell’informativa sulla privacy

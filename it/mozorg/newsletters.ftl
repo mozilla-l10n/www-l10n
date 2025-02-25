@@ -138,7 +138,7 @@ newsletters-a-developers-guide = Una newsletter dedicata agli sviluppatori per f
 # Name for the newsletter in Newsletter subscription page
 newsletters-drumbeat-newsgroup = Newsgroup Drumbeat
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-for-desktop = { -brand-name-firefox } for desktop
+newsletters-firefox-for-desktop = { -brand-name-firefox } per desktop
 # Description for the newsletter in Newsletter subscription page (Firefox for desktop)
 newsletters-dont-miss-the-latest = Non perdere alcun annuncio riguardante il nostro browser desktop.
 # Name for the newsletter in Newsletter subscription page
