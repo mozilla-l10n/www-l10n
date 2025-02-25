@@ -6,6 +6,7 @@ footer-refresh-discover-mozilla-products = Opdag produkter og initiativer fra { 
 footer-refresh-leadership = Lederskab
 footer-refresh-advertise = Annoncér med { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Om de seneste udgivelser af { -brand-name-firefox }
+footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Følg @{ -brand-name-mozilla }
