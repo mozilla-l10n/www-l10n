@@ -84,6 +84,8 @@ firefox-developer-view-the-release = Revisa las <a { $attrs }>notas de la versi√
 firefox-developer-developer-tools-user = Documentos de usuario de las herramientas para desarrolladores
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Recursos para desarrolladores, por desarrolladores
+firefox-developer-mdn-blog = Blog de { -brand-name-mdn }
+firefox-developer-mdn-updates = Actualizaciones
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Referencias de { -brand-name-mdn }
 # Obsolete string (expires 18-04-2025)
