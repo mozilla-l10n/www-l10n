@@ -18,7 +18,7 @@ privacy-firefox-transparency-first = Transparenz geht vor
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Wir machen deutlich, welche Daten wir verwenden und warum. Keine Überraschungen. In den <a { $attrs }>{ -brand-name-firefox }-Datenschutzhinweisen</a> wird dies für Sie erklärt.
 privacy-firefox-how-we-use = Wie wir Daten nutzen
-privacy-firefox-we-use-data = Wir verwenden Daten, um { -brand-name-firefox } am Laufen zu halten, Funktionen zu verbessern und unser Geschäft aufrechtzuerhalten – während wir Ihre Privatsphäre respektieren. Einige optionale Funktionen benötigen möglicherweise zusätzliche Daten, und es ist einfach, Ihre Einstellungen zu verwalten.
+privacy-firefox-we-use-data = Wir verwenden Daten, damit { -brand-name-firefox } einwandfrei läuft, um Funktionen zu verbessern und um unser Geschäft aufrechtzuerhalten – während wir Ihre Privatsphäre respektieren. Einige optionale Funktionen benötigen möglicherweise zusätzliche Daten, und wir machen es Ihnen einfach, Ihre Einstellungen zu verwalten.
 privacy-firefox-builtin-control = Integrierte Steuerung
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } bietet Ihnen einfache, aber leistungsstarke Werkzeuge, mit denen Sie Ihre Daten so verwalten können, wie Sie es möchten. Sie können mit nur wenigen Klicks Ihre Einstellungen optimieren, Ihre Arbeit von Ihrem persönlichen Leben trennen oder unerwünschte Chronik löschen.
 privacy-firefox-always-protected = Immer geschützt
