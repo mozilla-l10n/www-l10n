@@ -7,6 +7,7 @@
 
 compare-shared-compare-firefox = ປຽບທຽບກັບ { -brand-name-firefox }
 compare-shared-footer-cta-title = ເຮັດໄດ້ຫຼາຍຂຶ້ນກັບ { -brand-name-firefox }
+compare-shared-footer-cta-desc = ຮັບເອົາຕົວທ່ອງເວັບທີ່ໄວ, ນ້ຳໜັກເບົາ, ເນັ້ນຄວາມເປັນສ່ວນຕົວທີ່ໄດ້ຮັບການສະໜັບສະໜຸນໂດຍອົງກອນທີ່ບໍ່ຫວັງຜົນກຳໄລ ແລະ ໃຊ້ໄດ້ໃນທົ່ວທຸກອຸປະກອນຂອງທ່ານ.
 compare-shared-footer-cta-button = ດາວໂຫລດ { -brand-name-firefox }
 compare-shared-we-also-offer-easy = ພວກເຮົາຍັງໃຫ້ຄຸນສົມບັດທີ່ງ່າຍຕໍ່ການໃຊ້ເຊັ່ນ:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } ຍັງມີເຄື່ອງມືໃນຕົວເຊັ່ນ:
