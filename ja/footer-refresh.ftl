@@ -6,6 +6,7 @@ footer-refresh-discover-mozilla-products = { -brand-name-mozilla } の製品と�
 footer-refresh-leadership = リーダーシップ
 footer-refresh-advertise = { -brand-name-mozilla } で広告掲載
 footer-refresh-firefox-release-notes = { -brand-name-firefox } リリースノート
+footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } をフォロー

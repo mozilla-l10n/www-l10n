@@ -6,6 +6,7 @@ footer-refresh-discover-mozilla-products = { -brand-name-mozilla } के प्
 footer-refresh-leadership = लीडरशिप
 footer-refresh-advertise = { -brand-name-mozilla } के साथ विज्ञापन दें
 footer-refresh-firefox-release-notes = { -brand-name-firefox } रिलीज़ नोट्स
+footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = फ़ॉलो करें @{ -brand-name-mozilla }
