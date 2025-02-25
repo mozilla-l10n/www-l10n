@@ -84,6 +84,8 @@ firefox-developer-view-the-release = Δείτε τις <a { $attrs }>σημει�
 firefox-developer-developer-tools-user = Έγγραφα χρήστη εργαλείων ανάπτυξης
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Πόροι για προγραμματιστές, από προγραμματιστές
+firefox-developer-mdn-blog = Ιστολόγιο { -brand-name-mdn }
+firefox-developer-mdn-unlock-the-world = Ξεκλειδώστε τον κόσμο της ανάπτυξης διαδικτύου με το ιστολόγιο { -brand-name-mdn } — το ιδανικό κέντρο για πληροφορίες από ειδικούς, τα πιο πρόσφατα πρότυπα ιστού και συμβουλές προγραμματισμού.
 firefox-developer-mdn-updates = Ενημερώσεις
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Αναφορές { -brand-name-mdn }
