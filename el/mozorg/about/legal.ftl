@@ -18,6 +18,8 @@ legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = Απόρρητο και εμπορικά σήματα
 legal-privacy-notices-and-policy = Πολιτική απορρήτου
 legal-downloadable-software-notices = Όροι λήψης λογισμικού
+# heading for the table of contents, a shorter heading is better
+legal-firefox-contents = Περιεχόμενα
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: Σχετικά με τα δικαιώματά σας
 legal-thunderbird = { -brand-name-thunderbird }

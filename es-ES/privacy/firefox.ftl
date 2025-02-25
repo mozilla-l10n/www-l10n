@@ -19,6 +19,7 @@ privacy-firefox-were-clear-about = Somos transparentes sobre qué datos utilizam
 privacy-firefox-how-we-use = Cómo utilizamos los datos
 privacy-firefox-we-use-data = Utilizamos los datos para mantener { -brand-name-firefox } funcionando sin problemas, mejorar las funciones y ayudar a sostener nuestro negocio, todo ello respetando su privacidad. Algunas características opcionales pueden requerir datos adicionales para funcionar, y le facilitamos la gestión de sus preferencias.
 privacy-firefox-builtin-control = Control integrado
+privacy-firefox-firefox-gives-you = { -brand-name-firefox } ofrece herramientas a la vez sencillas y potentes para gestionar sus datos como desee. Puede ajustar la configuración, separar actividades laborales y personales o borrar el historial no deseado con unos pocos clics.
 privacy-firefox-always-protected = Siempre protegido
 privacy-firefox-privacy-that-works = Privacidad a su medida
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } para escritorio

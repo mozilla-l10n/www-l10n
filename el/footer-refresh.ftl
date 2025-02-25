@@ -6,6 +6,7 @@ footer-refresh-discover-mozilla-products = Ανακαλύψτε τα προϊό�
 footer-refresh-leadership = Ηγεσία
 footer-refresh-advertise = Διαφημιστείτε με τη { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Σημειώσεις έκδοσης του { -brand-name-firefox }
+footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Ακολουθήστε τη @{ -brand-name-mozilla }
