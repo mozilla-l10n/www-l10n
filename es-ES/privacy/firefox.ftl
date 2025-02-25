@@ -31,6 +31,13 @@ privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } para escritorio
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-mobile = { -brand-name-firefox } para Móviles
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } para móviles
+# heading for the table of contents, a shorter heading is better
+privacy-firefox-contents = Contenido
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-take-me-back = Volver al <a { $attrs }>inicio</a> del Aviso de privacidad
+# Variables:
+#   $attrs (string) - in-page link to the top of the page
+privacy-firefox-lost-in-the = ¿Perdido en los detalles? Vuelva a los <a { $attrs }>conceptos básicos de privacidad de { -brand-name-firefox }</a>.
+# links to Mozilla privacy policy
+privacy-firefox-mozilla-privacy = Aviso de privacidad de { -brand-name-mozilla }
