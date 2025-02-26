@@ -51,8 +51,10 @@ manifesto-we-are-committed-to-thinking = Elkötelezettek vagyunk egy olyan inter
 manifesto-we-are-committed-to-diverse = Elkötelezettek vagyunk egy olyan internet irányába, amely növeli az együttműködést a különféle közösségek között, akik a közjóért dolgoznak.
 manifesto-show-your-support = Fejezze ki támogatását
 manifesto-an-internet-with-these = Az ezekkel a tulajdonságokkal rendelkező internet nem magától fog létrejönni. Az egyéneknek és szervezeteknek be kell építeniük ezeket a törekvéseket az internetes technológiákba, és az internet emberi élményébe. A { -brand-name-mozilla } Kiáltvány és Kiegészítés a { -brand-name-mozilla } elkötelezettségét fejezi ki ezen célok iránt. Célunk, hogy együtt dolgozzunk azokkal az emberekkel és szervezetekkel, akik osztják ezeket a célokat, hogy az internetet egy még jobb hellyé tegyék mindenki számára.
+manifesto-i-support-the-vision-of-v2 = Támogatom a { -brand-name-mozilla } vízióját, a jobb és egészségesebb internetről, csatlakozol?
 # obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Támogatom a @mozilla vízióját, a jobb és egészségesebb internetről, csatlakozol te is?
+manifesto-share-on-bluesky = Ossza meg a Blueskyn
 manifesto-our-10-principles = <strong>A mi 10</strong> alapelvünk
 manifesto-read-the-entire-manifesto = Olvassa el a teljes kiáltványt
 manifesto-love-the-web = Szereti a webet?

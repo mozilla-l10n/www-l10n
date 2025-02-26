@@ -23,6 +23,8 @@ switch-enjoy-the-web-faster = Наслаждайтесь быстрым Инте
 switch-download-and-switch = Загрузить и перейти
 switch-share-to-facebook = Поделиться на Фейсбуке
 switch-share-to-facebook-updated = Поделиться в { -brand-name-facebook(case: "prepositional") }
+# Note: Bluesky is a brand name and should not be translated
+switch-share-to-bluesky = Поделиться в Bluetooth
 switch-hey = Привет,
 switch-check-it-out = Попробуй и расскажи, что думаешь:
 switch-send-an-email = Отправить письмо

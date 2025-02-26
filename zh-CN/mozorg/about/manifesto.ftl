@@ -51,8 +51,10 @@ manifesto-we-are-committed-to-thinking = 我们承诺，要让互联网激发批
 manifesto-we-are-committed-to-diverse = 我们承诺，要让互联网催化多元社区的合作，为共同利益携手努力。
 manifesto-show-your-support = 讲出您的支持
 manifesto-an-internet-with-these = 这样的互联网不会自行产生。每个人和组织都应当将这些愿景融入互联网技术，融入互联网带给人类的体验中。{ -brand-name-mozilla } 宣言及其修正案代表了 { -brand-name-mozilla } 对推进这些愿景的承诺。我们致力于与世界各地志同道合的人士和组织合作，让互联网对每个人都更美好。
+manifesto-i-support-the-vision-of-v2 = 我支持 { -brand-name-mozilla } 让互联网变得更好、更健康的愿景你愿同我一道吗
 # obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = 我支持 @mozilla 去创造一个更好的、更健康的互联网的愿景 , 你愿同我一道吗？
+manifesto-share-on-bluesky = 分享到 Blueday
 manifesto-our-10-principles = 我们的<strong>十大准则</strong>
 manifesto-read-the-entire-manifesto = 阅读完整的宣言
 manifesto-love-the-web = 也热爱 Web 吗？

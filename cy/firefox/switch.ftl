@@ -23,6 +23,8 @@ switch-enjoy-the-web-faster = Mwynhewch y we cynt, yn barod i chi.
 switch-download-and-switch = Llwytho i lawr a newid
 switch-share-to-facebook = Rhannu i Facebook
 switch-share-to-facebook-updated = Rhannwch i { -brand-name-facebook }
+# Note: Bluesky is a brand name and should not be translated
+switch-share-to-bluesky = Rhannu i Bluesky
 switch-hey = Hei,
 switch-check-it-out = Rhowch gynnig arno a gadewch i mi wybod:
 switch-send-an-email = Anfon e-bost
