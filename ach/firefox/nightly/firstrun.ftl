@@ -13,4 +13,4 @@ nightly-firstrun-start-testing = Cak temo
 nightly-firstrun-code = Kod
 nightly-firstrun-make-firefox-available = Wek { -brand-name-firefox } obed tye (ki maber) i leb mapol ma i wilobo.
 # Link used for the "Start localizing" button. You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n. Must start with http:// or https://
-nightly-firstrun-contribute-link = https://wiki.mozilla.org/L10n:Contribute
+nightly-firstrun-contribute-link = https://pontoon.mozilla.org

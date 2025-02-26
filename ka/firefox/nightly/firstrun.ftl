@@ -17,5 +17,5 @@ nightly-firstrun-start-coding = მუშაობის დაწყება
 nightly-firstrun-localize = თარგმნა
 nightly-firstrun-make-firefox-available = გახადეთ { -brand-name-firefox } ხელმისაწვდომი (და დახვეწილი) კიდევ უფრო მეტ ენაზე მსოფლიოს მასშტაბით.
 # Link used for the "Start localizing" button. You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n. Must start with http:// or https://
-nightly-firstrun-contribute-link = https://wiki.mozilla.org/L10n:Contribute
+nightly-firstrun-contribute-link = https://pontoon.mozilla.org
 nightly-firstrun-start-localizing = თარგმნის დაწყება

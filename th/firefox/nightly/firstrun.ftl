@@ -17,5 +17,5 @@ nightly-firstrun-start-coding = เริ่มเขียนโปรแกร
 nightly-firstrun-localize = ทำให้เป็นภาษาท้องถิ่น
 nightly-firstrun-make-firefox-available = ทำให้ { -brand-name-firefox } รองรับภาษาทั่วโลกหลายภาษา (และรองรับดีขึ้นด้วย)
 # Link used for the "Start localizing" button. You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n. Must start with http:// or https://
-nightly-firstrun-contribute-link = https://wiki.mozilla.org/L10n:Contribute
+nightly-firstrun-contribute-link = https://pontoon.mozilla.org
 nightly-firstrun-start-localizing = เริ่มทำให้เป็นภาษาท้องถิ่น

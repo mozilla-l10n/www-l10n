@@ -17,5 +17,5 @@ nightly-firstrun-start-coding = കോഡിംഗ് തുടങ്ങുക
 nightly-firstrun-localize = പ്രാദേശികമാക്കുക
 nightly-firstrun-make-firefox-available = ലോകത്തിലുള്ള കൂടുതല്‍ ഭാഷകളില്‍ ഫയര്‍ഫോക്സ് ലഭ്യമാക്കുക (കൂടാതെ മെച്ചപ്പെടുത്തുക).
 # Link used for the "Start localizing" button. You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n. Must start with http:// or https://
-nightly-firstrun-contribute-link = https://wiki.mozilla.org/L10n:Contribute
+nightly-firstrun-contribute-link = https://pontoon.mozilla.org
 nightly-firstrun-start-localizing = പരിഭാഷപ്പെടുത്താന്‍ തുടങ്ങുക

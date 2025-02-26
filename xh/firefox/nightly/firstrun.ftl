@@ -17,5 +17,5 @@ nightly-firstrun-start-coding = Iqalisa ukufaka ikhowudi
 nightly-firstrun-localize = Yiguqulele
 nightly-firstrun-make-firefox-available = Yenza i{ -brand-name-firefox } ifumaneke (ize ibe bhetele) ngeelwimi ezingakumbi ehlabathini lonke.
 # Link used for the "Start localizing" button. You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n. Must start with http:// or https://
-nightly-firstrun-contribute-link = https://wiki.mozilla.org/L10n:Contribute
+nightly-firstrun-contribute-link = https://pontoon.mozilla.org
 nightly-firstrun-start-localizing = Qalisa ukuyiguuqulela

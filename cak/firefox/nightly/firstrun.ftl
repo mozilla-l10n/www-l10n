@@ -17,5 +17,5 @@ nightly-firstrun-start-coding = Titikirisäx nuk'samajem
 nightly-firstrun-localize = Titzalq'omïx
 nightly-firstrun-make-firefox-available = Tab'ana' chi wachel (chuqa' ütz) ri { -brand-name-firefox } pa ch'aqa' chik ch'ab'äl chijun ri ruwach'ulew.
 # Link used for the "Start localizing" button. You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n. Must start with http:// or https://
-nightly-firstrun-contribute-link = https://wiki.mozilla.org/L10n:Contribute
+nightly-firstrun-contribute-link = https://pontoon.mozilla.org
 nightly-firstrun-start-localizing = Tatikirsaj rik'in ri tzalq'ominïk

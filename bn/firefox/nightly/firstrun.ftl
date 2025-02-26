@@ -17,5 +17,5 @@ nightly-firstrun-start-coding = কোডিং শুরু করুন
 nightly-firstrun-localize = লোকালাইজ
 nightly-firstrun-make-firefox-available = বিশ্বের আরও ভাষায় { -brand-name-firefox } কে সহজলভ্য (এবং আরও ভাল) করুন।
 # Link used for the "Start localizing" button. You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n. Must start with http:// or https://
-nightly-firstrun-contribute-link = https://wiki.mozilla.org/L10n:Contribute
+nightly-firstrun-contribute-link = https://pontoon.mozilla.org
 nightly-firstrun-start-localizing = লোকালাইজ শুরু করুন

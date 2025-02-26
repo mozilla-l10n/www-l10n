@@ -17,5 +17,5 @@ nightly-firstrun-start-coding = Programozás kezdése
 nightly-firstrun-localize = Fordítás
 nightly-firstrun-make-firefox-available = Tegyük elérhetővé (és jobbá) a { -brand-name-firefox(case: "accusative") } magyarul.
 # Link used for the "Start localizing" button. You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n. Must start with http:// or https://
-nightly-firstrun-contribute-link = https://wiki.mozilla.org/L10n:Contribute
+nightly-firstrun-contribute-link = https://pontoon.mozilla.org
 nightly-firstrun-start-localizing = Fordítás kezdése
