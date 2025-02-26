@@ -130,10 +130,6 @@
 -brand-name-ipad = iPad
 -brand-name-iphone = iPhone
 
-## Amazon products
-
--brand-name-fire-tv = Fire TV
-
 ## Facebook products
 
 -brand-name-instagram = Instagram

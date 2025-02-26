@@ -5,6 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-fingerprinter-blocking = Bloqueo de creadores de huellas digitales (fingerprinters)
-features-shared-translate-the-web = Traducir la web
-features-shared-picture-in-picture = Picture-in-Picture

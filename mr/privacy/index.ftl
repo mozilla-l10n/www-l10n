@@ -13,4 +13,3 @@ privacy-index-data-privacy-principles = माहिती गोपनीयत
 privacy-index-transparency-report = पारदर्शक अहवाल
 privacy-index-outdated-policies = कालबाह्य धोरणे
 privacy-index-mozilla-websites-communications = { -brand-name-mozilla } संकेतस्थळे, संपर्क &amp; कुकीज
-privacy-index-firefox-fire-tv = { -brand-name-fire-tv } साठी { -brand-name-firefox }

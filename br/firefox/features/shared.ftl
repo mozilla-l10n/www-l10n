@@ -5,5 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-footer-cta-button = Pellgargañ { -brand-name-firefox }
-features-shared-bookmark-manager = Merañ ar sinedoù

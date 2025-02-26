@@ -5,6 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-fingerprinter-blocking = Блокирање сакупљача дигиталних отисака
-features-shared-translate-the-web = Превођење веба
-features-shared-picture-in-picture = Слика у слици

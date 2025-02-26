@@ -17,13 +17,8 @@ privacy-index-get-involved = Ҳамроҳ шавед
 privacy-index-outdated-policies = Сиёсатҳои собиқ
 privacy-index-mozilla-websites-communications = Сомонаҳо, алоқаҳо ва кукиҳои «{ -brand-name-mozilla }»
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
-privacy-index-firefox-os = { -brand-name-firefox-os }
-privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
-privacy-index-firefox-reality = { -brand-name-firefox-reality }
 privacy-index-firefox-focus = { -brand-name-firefox-focus }
 privacy-index-thunderbird = { -brand-name-thunderbird }
-privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
-privacy-index-firefox-fire-tv = Браузери «{ -brand-name-firefox }» барои «{ -brand-name-fire-tv }»
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-mozilla-subscription-services = Хидматҳои обунашавии «{ -brand-name-mozilla }»
 # This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".

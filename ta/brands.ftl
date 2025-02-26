@@ -132,10 +132,6 @@
 -brand-name-iphone = iPhone
 -brand-name-test-flight = டெசுட் ஃப்ளைட்
 
-## Amazon products
-
--brand-name-fire-tv = Fire TV
-
 ## Facebook products
 
 -brand-name-facebook-messenger = முகநூல் அரட்டை

@@ -34,13 +34,8 @@ privacy-index-read-more-about-our-ongoing = Читайте більше про �
 privacy-index-outdated-policies = Попередні версії
 privacy-index-mozilla-websites-communications = Вебсайти { -brand-name-mozilla }, комунікації та файли cookie
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
-privacy-index-firefox-os = { -brand-name-firefox-os }
-privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
-privacy-index-firefox-reality = { -brand-name-firefox-reality }
 privacy-index-firefox-focus = { -brand-name-firefox-focus }
 privacy-index-thunderbird = { -brand-name-thunderbird }
-privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
-privacy-index-firefox-fire-tv = { -brand-name-firefox } для { -brand-name-fire-tv }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-mozilla-subscription-services = Послуги передплати { -brand-name-mozilla }
 # This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".

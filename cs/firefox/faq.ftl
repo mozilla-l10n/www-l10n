@@ -15,6 +15,7 @@ what-is-firefox = Co je { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+# Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } je jediný velký prohlížeč tvořený neziskovou organizací, který neprodává vaše data reklamním společnostem, ale naopak chrání vaše osobní data. Přečtěte si více o <a href="{ $url }">{ -brand-name-firefox-browsers(case: "loc", capitalization: "lower") }</a> a <a href="{ $url2 }">dalších našich produktech</a>.
 how-do-i = Jak získám { -brand-name-firefox-browser(case: "acc", capitalization: "lower") }?
 
@@ -27,6 +28,7 @@ how-do-i = Jak získám { -brand-name-firefox-browser(case: "acc", capitalizatio
 
 you-can-easily = Prohlížeč { -brand-name-firefox } pro počítače si můžete snadno stáhnout <a href="{ $url }">zde</a>. { -brand-name-firefox } funguje na zařízeních se systémy <a href="{ $url2 }">{ -brand-name-windows }</a>, <a href="{ $url3 }">{ -brand-name-mac-short }</a> a <a href="{ $url4 }">{ -brand-name-linux }</a> a je k dispozici také pro <a href="{ $url5 }">{ -brand-name-android } a { -brand-name-ios }</a>. Vždy se prosím ujistěte, že si náš prohlížeč stahujete z našich webových stránek, tj. ze stránek { -brand-name-mozilla(case: "gen") }.
 is-firefox-free = Je { -brand-name-firefox } zdarma?
+# Obsolete string (expires 25-04-2025)
 yep-the-firefox = Ano, { -brand-name-firefox-browser(case: "nom", capitalization: "lower") } je zdarma. Úplně zdarma, bez skrytých poplatků a podobně. Nemusíte platit za jeho používání penězi ani svými osobními daty.
 related-questions-free = A s tím souvisí: je { -brand-name-firefox-browser(case: "nom", capitalization: "lower") } zdarma, nebo se za { -brand-name-firefox(case: "acc") } něco platí?
 is-chrome-better = Je { -brand-name-chrome } lepší než { -brand-name-firefox }?
@@ -50,11 +52,13 @@ is-firefox-safe = Je { -brand-name-firefox } bezpečný?
 
 not-only-is = Nejen, že je { -brand-name-firefox } bezpečný, ale také pomáhá udržovat v bezpečí vaše data a soukromé informace. { -brand-name-firefox-browser } automaticky blokuje známé sledovací prvky třetích stran, sledovací prvky sociálních sítí a skripty pro těžbu kryptoměny a pro vytváření otisku prohlížeče, aby neshromažďovaly vaše údaje. <a href="{ $url }">Zjistěte více o ochraně soukromí v našich produktech.</a>
 related-questions-safe = A s tím souvisí: je { -brand-name-firefox } vhodný s ohledem na soukromí, je { -brand-name-firefox } bezpečný?
+# Obsolete string (expires 25-04-2025)
 does-firefox-sell = Prodává { -brand-name-firefox } vaše osobní data?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+# Obsolete string (expires 25-04-2025)
 nope-never-have = Ne, nikdy neprodával a nikdy nebude. Zároveň vaše data chráníme před mnoha reklamními společnostmi. Produkty { -brand-name-firefox } jsou navržené tak, aby vaše soukromí chránili. <a href="{ $url }">To vám slibujeme.</a>
 why-is-firefox = Proč je { -brand-name-firefox } tak pomalý?
 firefox-isnt-slow = { -brand-name-firefox } není pomalý… už. V roce 2017 jsme kompletně předělali jádro našeho prohlížeče (nazvané Quantum), abychom zajistili, že bude { -brand-name-firefox } konkurenceschopný ve srovnání s ostatními prohlížeči. Zároveň naše blokování sledovacích prvků napomáhá rychlejšímu načítání stránek. Takže { -brand-name-firefox } je bleskurychlý bez jakéhokoliv narušení vašeho soukromí.

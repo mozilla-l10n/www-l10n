@@ -15,6 +15,7 @@ what-is-firefox = Шта је { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+# Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } је једини велики прегледач који подржава непрофитна организација и који не продаје ваше личне податке оглашивачима већ их штити. Сазнајте више о <a href="{ $url }">{ -brand-name-firefox-browsers }</a> и <a href="{ $url2 }">другим производима</a>.
 how-do-i = Како да преузмем { -brand-name-firefox-browser }?
 
@@ -27,6 +28,7 @@ how-do-i = Како да преузмем { -brand-name-firefox-browser }?
 
 you-can-easily = { -brand-name-firefox } прегледач за десктоп можете лако да преузмете <a href="{ $url }">овде.</a> { -brand-name-firefox } је доступан за <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> и <a href="{ $url4 }">{ -brand-name-linux }</a> платформе, а такође и за <a href="{ $url5 }">{ -brand-name-android } и { -brand-name-ios }.</a>. Пре преузимања, уверите се да наш прегледач преузимате са поузданог { -brand-name-mozilla }/{ -brand-name-firefox } сајта.
 is-firefox-free = Је ли { -brand-name-firefox } бесплатан?
+# Obsolete string (expires 25-04-2025)
 yep-the-firefox = Јесте! { -brand-name-firefox-browser } је потпуно бесплатан, без скривених накнада или било чега сличног. Не морате да плаћате коришћење новцем а ни вашим личним подацима.
 related-questions-free = Повезана питања: је ли { -brand-name-firefox-browser } бесплатан; да ли се { -brand-name-firefox } плаћа
 is-chrome-better = Је ли { -brand-name-chrome } бољи од { -brand-name-firefox }-а?
@@ -50,11 +52,13 @@ is-firefox-safe = Је ли { -brand-name-firefox } безбедан?
 
 not-only-is = Не само да је безбедан за коришћење, { -brand-name-firefox } још и помаже да ваши лични подаци буду безбедни. { -brand-name-firefox-browser } аутоматски блокира познате елементе за праћење, и са трећих страна и са друштвених мрежа, затим крипторударе и сакупљаче дигиталних отисака. <a href="{ $url }">Сазнајте више о функцијама приватности наших производа.</a>
 related-questions-safe = Повезана питања: је ли { -brand-name-firefox } добар за приватност, је ли { -brand-name-firefox } безбедан, је ли { -brand-name-firefox } бољи за приватност
+# Obsolete string (expires 25-04-2025)
 does-firefox-sell = Да ли { -brand-name-firefox } продаје ваше личне податке?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+# Obsolete string (expires 25-04-2025)
 nope-never-have = Не. Никада није, а никада и неће. А штитимо вас од многих оглашивача који то раде. { -brand-name-firefox } производи су осмишљени да заштите вашу приватност. <a href="{ $url }">Тако смо обећали.</a>
 why-is-firefox = Зашто је { -brand-name-firefox } тако спор?
 firefox-isnt-slow = { -brand-name-firefox } није спор…сада. 2017. године смо потпуно редизајнирали наш претраживач, Quantum, како би { -brand-name-firefox } могао да се такмичи са другим прегледачима. Осим тога, наша функција блокирања елемената за праћење убрзава учитавање страница. Тако да је { -brand-name-firefox } сада веома брз, а без да жртвује вашу приватност.

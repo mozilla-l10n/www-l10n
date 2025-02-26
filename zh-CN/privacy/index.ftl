@@ -34,13 +34,8 @@ privacy-index-read-more-about-our-ongoing = 在 <a href="{ $blog }">{ -brand-nam
 privacy-index-outdated-policies = 旧版政策
 privacy-index-mozilla-websites-communications = { -brand-name-mozilla }  网站、通信和 Cookie
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
-privacy-index-firefox-os = { -brand-name-firefox-os }
-privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
-privacy-index-firefox-reality = { -brand-name-firefox-reality }
 privacy-index-firefox-focus = { -brand-name-firefox-focus }
 privacy-index-thunderbird = { -brand-name-thunderbird }
-privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
-privacy-index-firefox-fire-tv = { -brand-name-firefox } for { -brand-name-fire-tv }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-mozilla-subscription-services = { -brand-name-mozilla } 订阅服务
 # This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".

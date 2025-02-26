@@ -37,6 +37,7 @@ is-firefox-safe = کیا { -brand-name-firefox } محفوظ ہے؟
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
+# Obsolete string (expires 25-04-2025)
 does-firefox-sell = کیا { -brand-name-firefox } آپ کا ذاتی ڈیٹا فروخت کرتا ہے؟
 
 # Variables:

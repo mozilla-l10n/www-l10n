@@ -15,6 +15,7 @@ what-is-firefox = Vad är { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+# Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } är den enda stora webbläsaren som backas upp av en ideell organisation som inte säljer dina personuppgifter till annonsörer och samtidigt hjälper dig att skydda din personliga information. Läs mer om <a href="{ $url }">{ -brand-name-firefox-browsers }</a> och <a href="{ $url2 }">andra produkter</a>.
 how-do-i = Hur hämtar jag { -brand-name-firefox-browser }?
 
@@ -27,6 +28,7 @@ how-do-i = Hur hämtar jag { -brand-name-firefox-browser }?
 
 you-can-easily = Du kan enkelt ladda ner webbläsaren { -brand-name-firefox } <a href="{ $url }">här</a>. { -brand-name-firefox } fungerar på <a href="{ $url2 }">{ -brand-name-windows }</a>, <a href="{ $url3 }">{ -brand-name-mac-short }</a> och <a href="{ $url4 }">{ -brand-name-linux }</a> enheter och är också tillgänglig för <a href="{ $url5 }">{ -brand-name-android } och { -brand-name-ios }</a>. Se till att du laddar ner vår webbläsare från en av våra betrodda sidor { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = Är { -brand-name-firefox } gratis?
+# Obsolete string (expires 25-04-2025)
 yep-the-firefox = Japp! { -brand-name-firefox-browser } är gratis. Supergratis, faktiskt. Inga dolda kostnader eller något. Du betalar ingenting för att använda den och vi säljer inte dina personuppgifter.
 related-questions-free = Relaterade frågor: är { -brand-name-firefox-browser } gratis, kostar { -brand-name-firefox } pengar
 is-chrome-better = Är { -brand-name-chrome } bättre än { -brand-name-firefox }?
@@ -50,11 +52,13 @@ is-firefox-safe = Är { -brand-name-firefox } säker?
 
 not-only-is = { -brand-name-firefox } är inte bara säker att använda, den hjälper också till att hålla din data och privat information säker. { -brand-name-firefox-browser } blockerar automatiskt kända tredjepartsspårare, sociala mediaspårare, kryptogrävare och fingeravtrycksspårare från att samla in dina data. <a href="{ $url }">Läs mer om integriteten i våra produkter</a>.
 related-questions-safe = Relaterade frågor: är { -brand-name-firefox } bra för integritet, är { -brand-name-firefox } säker, är { -brand-name-firefox } bättre för integritet
+# Obsolete string (expires 25-04-2025)
 does-firefox-sell = Säljer { -brand-name-firefox } dina personuppgifter?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+# Obsolete string (expires 25-04-2025)
 nope-never-have = Nej. Det har vi aldrig gjort, kommer aldrig att göra. Och vi skyddar dig från många av de annonsörer som gör det. { -brand-name-firefox } produkter är utformade för att skydda din integritet. <a href="{ $url }">Det är ett löfte</a>.
 why-is-firefox = Varför är { -brand-name-firefox } så långsam?
 firefox-isnt-slow = { -brand-name-firefox } är inte långsam… nu. År 2017 byggde vi helt om vår webbläsarmotor (kallad Quantum) för att säkerställa att { -brand-name-firefox } skulle kunna konkurrera med andra stora webbläsare. Och vår blockering av spårare hjälper sidor att laddas ännu snabbare. Så { -brand-name-firefox } är blixtsnabb utan att offra någon av din integritet.

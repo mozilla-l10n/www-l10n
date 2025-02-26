@@ -40,6 +40,7 @@ is-firefox-safe = Je li je { -brand-name-firefox } siguran?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
+# Obsolete string (expires 25-04-2025)
 does-firefox-sell = Je li { -brand-name-firefox } prodaje tvoje osobne podatke?
 
 # Variables:

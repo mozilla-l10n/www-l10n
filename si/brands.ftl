@@ -180,10 +180,6 @@
 -brand-name-iphone = අයිපෝන්
 -brand-name-test-flight = ටෙස්ට් ෆ්ලයිට්
 
-## Amazon products
-
--brand-name-fire-tv = ෆයර් ටීවී
-
 ## Facebook products
 
 -brand-name-facebook-messenger = ෆේස්බුක් මැසෙන්ජර්

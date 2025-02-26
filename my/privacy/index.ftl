@@ -29,4 +29,3 @@ privacy-index-to-review-and-comment-on-proposed = ကိုယ်ရေးလု
 privacy-index-read-more-about-our-ongoing = လက်ရှိ ဆောင်ရွက်နေသော ကိုယ်ရေးလုံခြုံမှုနှင့် လုံခြုံရေးဆိုင်ရာ အများဆိုင်မူဝါဒ အကြောင်း <a href="{ $blog }">{ -brand-name-mozilla }'s Open Policy and Advocacy Blog</a> တွင် ဖတ်ရှုပါ။
 privacy-index-outdated-policies = မူဝါဒ အဟောင်းများ
 privacy-index-mozilla-websites-communications = { -brand-name-mozilla } ဝဘ်ဆိုက်များ၊ ဆက်သွယ်မှုများ &amp; ကွတ်ကီးများ
-privacy-index-firefox-fire-tv = { -brand-name-fire-tv } အတွက် { -brand-name-firefox }

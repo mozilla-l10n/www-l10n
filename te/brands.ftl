@@ -150,10 +150,6 @@
 -brand-name-iphone = iPhone
 -brand-name-test-flight = టెస్ట్‌ఫ్లైట్
 
-## Amazon products
-
--brand-name-fire-tv = Fire TV
-
 ## Facebook products
 
 -brand-name-facebook-messenger = ఫేస్‌బుక్ మెసెంజర్

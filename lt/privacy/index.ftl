@@ -29,4 +29,3 @@ privacy-index-to-review-and-comment-on-proposed = Jeigu norite dalyvauti aptaria
 privacy-index-read-more-about-our-ongoing = Sužinokite daugiau apie mūsų veiklą privatumo ir saugumo viešosios politikos srityje – skaitykite { -brand-name-mozilla } <a href="{ $blog }">„Open Policy & Advocacy“ tinklaraštį</a> (anglų k.)
 privacy-index-outdated-policies = Anksčiau taikyti privatumo nuostatai
 privacy-index-mozilla-websites-communications = { -brand-name-mozilla } svetainės, komunikacijos priemonės ir slapukai
-privacy-index-firefox-fire-tv = „{ -brand-name-firefox }“ naršyklė „{ -brand-name-fire-tv }“ įrenginiams

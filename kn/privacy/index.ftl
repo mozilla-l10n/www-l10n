@@ -12,4 +12,3 @@ privacy-index-data-privacy-principles = ದತ್ತಾಂಶ ಗೋಪ್ಯತ
 privacy-index-transparency-report = ಪಾರದರ್ಶಕತೆ ವರದಿ
 privacy-index-outdated-policies = ಹಳತಾದ ನೀತಿಗಳು
 privacy-index-mozilla-websites-communications = { -brand-name-mozilla } ಜಾಲತಾಣಗಳು, ಸಂವಹನಗಳು &amp; ಕುಕೀಗಳು
-privacy-index-firefox-fire-tv = { -brand-name-fire-tv }ಗಾಗಿ { -brand-name-firefox }

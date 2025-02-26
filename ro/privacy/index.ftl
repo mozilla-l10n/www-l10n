@@ -33,4 +33,3 @@ privacy-index-read-more-about-our-ongoing = Citește mai multe despre eforturile
 privacy-index-outdated-policies = Politici depășite
 privacy-index-mozilla-websites-communications = Site-urile web { -brand-name-mozilla }, comunicări și cookie-uri
 privacy-index-firefox-browser = { -brand-name-firefox-browser(case: "definite-article", capitalization: "upper") }
-privacy-index-firefox-fire-tv = { -brand-name-firefox } pentru { -brand-name-fire-tv }

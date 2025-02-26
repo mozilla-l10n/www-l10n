@@ -15,6 +15,7 @@ what-is-firefox = Ç’është { -brand-name-firefox }-i?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+# Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser }-i është i vetmi shfletues i rëndësishëm që pas ka një ent jofitimprurës që s’ua shet të dhënat tuaja personale industrisë së reklamave, teksa ju ndihmon t’i mbroni ato. Mësoni më tepër mbi <a href="{ $url }">{ -brand-name-firefox-browsers }</a> dhe <a href="{ $url2 }">produkte të tjera.</a>
 how-do-i = Si ta marr { -brand-name-firefox-browser }-in?
 
@@ -27,6 +28,7 @@ how-do-i = Si ta marr { -brand-name-firefox-browser }-in?
 
 you-can-easily = Shfletuesin { -brand-name-firefox } për desktop mund ta shkarkoni kollaj nga <a href="{ $url }">këtu.</a> { -brand-name-firefox } funksionon në pajisje <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> dhe <a href="{ $url4 }">{ -brand-name-linux }</a> dhe mund të kihet edhe për <a href="{ $url5 }">{ -brand-name-android } dhe { -brand-name-ios }.</a> Sigurohuni se po e shkarkoni shfletuesin tonë prej një nga faqeve tona të besuara { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = A është falas { -brand-name-firefox }-i?
+# Obsolete string (expires 25-04-2025)
 yep-the-firefox = Ëhë! { -brand-name-firefox-browser }-i është falas. Superfalas, faktikisht. S’ka kosto të fshehura, e më the, të thashë. S’paguani gjë për ta përdorur dhe nuk i shesim të dhënat tuaja personale.
 related-questions-free = Pyetje të afërta: a është falas { -brand-name-firefox-browser }-i, a kushton para { -brand-name-firefox }-i
 is-chrome-better = A është { -brand-name-chrome }-i më i mirë se { -brand-name-firefox }-i?
@@ -50,11 +52,13 @@ is-firefox-safe = A është i parrezik { -brand-name-firefox }-i?
 
 not-only-is = Jo vetëm që { -brand-name-firefox }-i është i parrezik për t’u përdoru, ai ndihmon gjithashtu të mbahen të parrezik dhënat tuaja dhe informacione private. { -brand-name-firefox-browser }-i u bllokon automatikisht grumbullimin e të dhënave tuaja gjurmuesve palë e tretë, gjurmuesve mediash shoqërore, nxjerrësve të kriptomonedhave dhe profilizuesve të ditur. <a href="{ $url }">Mësoni rreth privatësisë në produktet tona.</a>
 related-questions-safe = Pyetje të afërta: a është i mirë për privatësi { -brand-name-firefox }-i, a është i siguruar { -brand-name-firefox }-i, a është { -brand-name-firefox }-i më i mirë për privatësi
+# Obsolete string (expires 25-04-2025)
 does-firefox-sell = A i shet { -brand-name-firefox }-i të dhënat tuaja personale?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+# Obsolete string (expires 25-04-2025)
 nope-never-have = Jo. Kurrë s’e ka bërë, as do ta bëjë kurrë. Dhe ju mbrojmë prej mjaft reklamuesish që e bëjnë. Produktet { -brand-name-firefox } janë konceptuar për të mbrojtur privatësinë tuaj. <a href="{ $url }">Ju premtojmë.</a>
 why-is-firefox = Pse është kaq i ngadaltë { -brand-name-firefox }-i?
 firefox-isnt-slow = { -brand-name-firefox } s’është i ngadaltë… tanimë. Më 2017-n, e rindërtuam tërësisht motorin tonë të kërkimeve (të quajtur Quantum), për të siguruar që { -brand-name-firefox }-i të mund të konkurronte me të tjerë shfletues të njohur. Dhe, bllokuesi ynë i gjurmuesve i ndihmon faqet të ngarkohen edhe më shpejt. Ndaj, { -brand-name-firefox }-i është i shpejtë si rrufe pa sakrifikuar gjë nga privatësia juaj.

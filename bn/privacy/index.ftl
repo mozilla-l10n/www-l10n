@@ -13,4 +13,3 @@ privacy-index-data-privacy-principles = তথ্য গোপনীয়তা
 privacy-index-transparency-report = স্বচ্ছতা রিপোর্ট
 privacy-index-outdated-policies = অচল পলিসি
 privacy-index-mozilla-websites-communications = { -brand-name-mozilla } ওয়েবসাইট, যোগাযোগের উপায় ও কুকি
-privacy-index-firefox-fire-tv = { -brand-name-fire-tv } এর জন্য { -brand-name-firefox }

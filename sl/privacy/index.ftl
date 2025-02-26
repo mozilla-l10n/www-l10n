@@ -34,13 +34,8 @@ privacy-index-read-more-about-our-ongoing = Več o našem tekočem delu na podro
 privacy-index-outdated-policies = Zastareli pravilniki
 privacy-index-mozilla-websites-communications = Spletna mesta, komunikacije in piškotki { -brand-name-mozilla(sklon: "rodilnik") }
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
-privacy-index-firefox-os = { -brand-name-firefox-os }
-privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
-privacy-index-firefox-reality = { -brand-name-firefox-reality }
 privacy-index-firefox-focus = { -brand-name-firefox-focus }
 privacy-index-thunderbird = { -brand-name-thunderbird }
-privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
-privacy-index-firefox-fire-tv = { -brand-name-firefox } za { -brand-name-fire-tv }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-mozilla-subscription-services = Naročniške storitve { -brand-name-mozilla(sklon: "rodilnik") }
 # This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".

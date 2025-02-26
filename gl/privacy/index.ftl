@@ -26,4 +26,3 @@ privacy-index-to-review-and-comment-on-proposed = Para revisar e comentar os cam
 privacy-index-read-more-about-our-ongoing = Obteña máis información das nosas accións sobre políticas de seguranza e privacidade no <a href="{ $blog }">blog Open Policy and Advocacy de { -brand-name-mozilla }</a>.
 privacy-index-outdated-policies = Políticas obsoletas
 privacy-index-mozilla-websites-communications = Sitios web, comunicacións e rastros de { -brand-name-mozilla }
-privacy-index-firefox-fire-tv = { -brand-name-firefox } para { -brand-name-fire-tv }

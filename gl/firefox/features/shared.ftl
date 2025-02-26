@@ -5,4 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-fingerprinter-blocking = Bloqueo de identificadores de pegada dixital

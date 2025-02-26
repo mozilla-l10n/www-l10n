@@ -34,12 +34,7 @@ privacy-index-read-more-about-our-ongoing = <a href="{ $blog }">Блог „Open
 privacy-index-outdated-policies = Папярэднія версіі
 privacy-index-mozilla-websites-communications = Вэб-сайты, кантакты і кукі { -brand-name-mozilla }
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
-privacy-index-firefox-os = { -brand-name-firefox-os }
-privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
-privacy-index-firefox-reality = { -brand-name-firefox-reality }
 privacy-index-firefox-focus = { -brand-name-firefox-focus }
 privacy-index-thunderbird = { -brand-name-thunderbird }
-privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
-privacy-index-firefox-fire-tv = { -brand-name-firefox } для { -brand-name-fire-tv }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-mozilla-subscription-services = Службы падпіскі { -brand-name-mozilla }

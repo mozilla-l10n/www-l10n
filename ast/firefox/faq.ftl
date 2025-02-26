@@ -13,6 +13,7 @@ what-is-firefox = ¿Qué ye { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+# Obsolete string (expires 25-04-2025)
 the-firefox-browser = El { -brand-name-firefox-browser } ye l'únicu restolador de los grandes que ta fechu por una organización ensin ánimu de llucru que nun viende los datos personales a empreses publicitaries al empar que t'ayuda a protexer la to información. Llei más tocante a los <a href="{ $url }">{ -brand-name-firefox-browsers }</a> y a <a href="{ $url2 }">otros productos</a>.
 how-do-i = ¿Cómo consigo'l { -brand-name-firefox-browser }?
 
@@ -39,11 +40,13 @@ is-firefox-safe = ¿{ -brand-name-firefox } ye seguru?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
+# Obsolete string (expires 25-04-2025)
 does-firefox-sell = ¿{ -brand-name-firefox } viende los datos personales?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+# Obsolete string (expires 25-04-2025)
 nope-never-have = Non, nun lo ficimos y enxamás vamos facelo. Con esto tamién te protexemos de milenta anunciantes que lo faen. Los productos de { -brand-name-firefox } tán diseñaps pa protexer la privacidá. <a href="{ $url }">Eso ye una promesa</a>.
 why-is-firefox = ¿Por qué { -brand-name-firefox } ye tán lentu?
 is-firefox-chromium = ¿{ -brand-name-firefox } básase en { -brand-name-chromium }?

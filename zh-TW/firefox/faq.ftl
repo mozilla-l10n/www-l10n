@@ -15,6 +15,7 @@ what-is-firefox = { -brand-name-firefox } 是什麼？
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+# Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser }是唯一一套由非營利組織開發，且不會將您的個人資料賣給廣告商，還能幫助保護您的個人資訊的主要瀏覽器。了解有關 <a href="{ $url }">{ -brand-name-firefox-browsers }</a>與<a href="{ $url2 }">其他產品</a>的更多資訊。
 how-do-i = 要如何安裝 { -brand-name-firefox-browser }？
 
@@ -27,6 +28,7 @@ how-do-i = 要如何安裝 { -brand-name-firefox-browser }？
 
 you-can-easily = 您可以<a href="{ $url }">在此</a>很簡單就下載到 { -brand-name-firefox } 桌面版瀏覽器。{ -brand-name-firefox } 可在 <a href="{ $url2 }">{ -brand-name-windows }</a>、<a href="{ $url3 }">{ -brand-name-mac-short }</a> 及 <a href="{ $url4 }">{ -brand-name-linux }</a> 平台使用，並且也有 <a href="{ $url5 }">{ -brand-name-android } 及 { -brand-name-ios } 的對應版本</a>。下載前，請確定您是從可靠的 { -brand-name-mozilla }/{ -brand-name-firefox } 網站下載我們的瀏覽器。
 is-firefox-free = { -brand-name-firefox } 要收費嗎？
+# Obsolete string (expires 25-04-2025)
 yep-the-firefox = 不用，使用 { -brand-name-firefox-browser }是免費的！不但不用錢而且真的超自由，我們當然更不會賣掉您的個人資料。
 related-questions-free = 相關問題: { -brand-name-firefox-browser }要收費嗎？、{ -brand-name-firefox } 要付錢嗎？
 is-chrome-better = { -brand-name-chrome } 比 { -brand-name-firefox } 還好嗎？
@@ -50,11 +52,13 @@ is-firefox-safe = { -brand-name-firefox } 用起來安全嗎？
 
 not-only-is = 除了 { -brand-name-firefox } 用起來很安全之外，也能幫助您確保個人資料、隱私資訊的安全。{ -brand-name-firefox-browser }會自動封鎖已知的第三方追蹤器、社交網路追蹤器、加密貨幣採礦程式、數位指紋追蹤程式來收集您的資料。<a href="{ $url }">了解我們的產品當中的隱私權的更多資訊。</a>
 related-questions-safe = 相關問題: { -brand-name-firefox } 對保護隱私權做得好嗎？、{ -brand-name-firefox } 安全嗎？、{ -brand-name-firefox } 對保護隱私權做得更好嗎？
+# Obsolete string (expires 25-04-2025)
 does-firefox-sell = { -brand-name-firefox } 會賣掉您的個人資料嗎？
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+# Obsolete string (expires 25-04-2025)
 nope-never-have = 過去沒發生過，未來更不會發生。我們更會保護您，不讓許多廣告商賣掉您的資料。{ -brand-name-firefox } 從一開始就設計來保護您的隱私，<a href="{ $url }">這也是我們對您的承諾。</a>
 why-is-firefox = 為什麼 { -brand-name-firefox } 用起來這麼慢？
 firefox-isnt-slow = { -brand-name-firefox } 現在已經不慢了…。我們在 2017 年重新打造了瀏覽器的引擎（稱為 Quantum）以確保 { -brand-name-firefox } 能與其他主要瀏覽器相比較。另外，我們的追蹤器封鎖功能也能幫助讓網頁更快載入。所以 { -brand-name-firefox } 現在運作光速快，而完全不需要犧牲您的隱私。

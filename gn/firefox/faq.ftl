@@ -15,6 +15,7 @@ what-is-firefox = ¿Mba’épa { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+# Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } ha’e kundahára ha’evéva oykekóva peteĩ atyguasu viru’ỹgua nohepyme’ẽiva ne mba’ekuaarã teéva umi maranduñemuguávape ha ne pytyvõ emo’ã hag̃ua ne marandu teéva. Eikuaave <a href="{ $url }">{ -brand-name-firefox-browsers }</a> y <a href="{ $url2 }">ambue apopyre.</a> rehegua
 how-do-i = ¿Mba’éicha arekokuaa { -brand-name-firefox-browser }?
 
@@ -27,6 +28,7 @@ how-do-i = ¿Mba’éicha arekokuaa { -brand-name-firefox-browser }?
 
 you-can-easily = Emboguejykuaa pya’e kundahára mohendahápe g̃uarã { -brand-name-firefox } <a href="{ $url }">ápe.</a> { -brand-name-firefox } Oiko <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> ha <a href="{ $url4 }">{ -brand-name-linux }</a> mba’e’okápe, ha avei eiporukuaa <a href="{ $url5 }">{ -brand-name-android } ha { -brand-name-ios }.</a> Ehecháke emboguejyha ore kundahára peteĩva ore kuatiarogue rojeroviaha { -brand-name-mozilla }/{ -brand-name-firefox } guive.
 is-firefox-free = ¿Reiguápa{ -brand-name-firefox }?
+# Obsolete string (expires 25-04-2025)
 yep-the-firefox = ¡Héẽ! { -brand-name-firefox-browser } noñehepyme’ẽi. Reietegua. Ndaipóri jehepyme’ẽ kañymby. Nerejehepyme’ẽi eiporu hag̃ua, ha norohepyme’ẽi ne mba’ekuaarã teéva.
 related-questions-free = Porandu ojuehegua: ¿{ -brand-name-firefox-browser } reigua, ¿{ -brand-name-firefox } hepýpa?
 is-chrome-better = ¿{ -brand-name-chrome } iporãvépa { -brand-name-firefox }-gui?
@@ -50,11 +52,13 @@ is-firefox-safe = ¿Hekorosãpa { -brand-name-firefox }?
 
 not-only-is = { -brand-name-firefox } nahekorosã’añói, nepytyvõ ereko hag̃ua mba’ekuaarã tekorosãme, avei ne marandu ñemiguáva. { -brand-name-firefox-browser } ojoko ijehegui tapykuehoha mbohapyháva ojekuaáva, ava ñandutieta rapykuehoha, criptominero ha kuãhũ kuaaukaha moheñoihára (fingerprinters) ani hag̃ua ombyaty ne mba’ekuaarã. <a href="{ $url }">Eikuaave ore apopyre rekoñemi.</a>
 related-questions-safe = Porandu ojokupytýva: { -brand-name-firefox } iporãve tekoñemíme, hekorosã, ha iporãve ñemiguápe
+# Obsolete string (expires 25-04-2025)
 does-firefox-sell = ¿{ -brand-name-firefox } ohepyme’ẽ ne mba’ekuaarã teéva?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+# Obsolete string (expires 25-04-2025)
 nope-never-have = Ndajapói araka’eve, araka’eve ndajapomo’ãi. Ha romo’ãta heta maranduñemurã ojapóvagui. Umi { -brand-name-firefox } apopyre oñemboguata omo’ã hag̃ua ne ñemigua. <a href="{ $url }">Péva rojapóta.</a>
 why-is-firefox = ¿Mba’ére { -brand-name-firefox } imbeguete?
 firefox-isnt-slow = { -brand-name-firefox } naimbeguéi… ko’ág̃a. Ary 2017-pe, rojapojey pe kundahára mongu’eha (hérava Quantum) ikatu hag̃uáicha { -brand-name-firefox } oñorairõ ambue kundahára ndive. Ha ore jokoha rapykuehoha oipytyvõ kuatiaroguekuérape henyhẽvo pya’eve. Péicha { -brand-name-firefox } ipya’eterei omboyke’ỹre ne rekoñemi.

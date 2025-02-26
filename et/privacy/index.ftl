@@ -29,4 +29,3 @@ privacy-index-to-review-and-comment-on-proposed = Meie privaatsuspoliitikas plan
 privacy-index-read-more-about-our-ongoing = Meie tööst privaatsuse ja turvalisuse vallas saate edasi lugeda <a href="{ $blog }">{ -brand-name-mozilla } blogis “Open Policy and Advocacy”</a>.
 privacy-index-outdated-policies = Aegunud poliitika
 privacy-index-mozilla-websites-communications = { -brand-name-mozilla } veebisaidid, suhtlus ja küpsised
-privacy-index-firefox-fire-tv = { -brand-name-firefox } { -brand-name-fire-tv }-le

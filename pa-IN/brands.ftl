@@ -181,10 +181,6 @@
 -brand-name-iphone = iPhone
 -brand-name-test-flight = TestFlight
 
-## Amazon products
-
--brand-name-fire-tv = Fire TV
-
 ## Facebook products
 
 -brand-name-facebook-messenger = ਫੇਸਬੁੱਕ ਮੈਸੇਂਜਰ

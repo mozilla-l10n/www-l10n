@@ -29,4 +29,3 @@ privacy-index-to-review-and-comment-on-proposed = برای بررسی و باز�
 privacy-index-read-more-about-our-ongoing = در مورد کارهای در حال انجام ما بر روی سیاست‌های عمومیِ حریم‌خصوصی و امنیت در <a href="{ $blog }">{ -brand-name-mozilla } وبلاگ سیاستِ باز و حمایت</a> بیشتر بخوانید.
 privacy-index-outdated-policies = سیاست‌های قدیمی
 privacy-index-mozilla-websites-communications = وب‌سایت‌های { -brand-name-mozilla }، ارتباطات و کوکی‌ها
-privacy-index-firefox-fire-tv = { -brand-name-firefox } برای { -brand-name-fire-tv }

@@ -33,9 +33,4 @@ privacy-index-to-review-and-comment-on-proposed = ہماری رازداری کی
 privacy-index-read-more-about-our-ongoing = <a href="{ $blog }"> { -brand-name-mozilla } کی اوپن پالیسی اور ایڈووکیسی بلاگ</a> پر ہماری جاری رازداری اور سیکیورٹی عوامی پالیسی کے کام کے بارے میں مزید پڑھیں۔
 privacy-index-outdated-policies = پرانی پالیسیاں
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
-privacy-index-firefox-os = { -brand-name-firefox-os }
-privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
-privacy-index-firefox-reality = { -brand-name-firefox-reality }
 privacy-index-thunderbird = { -brand-name-thunderbird }
-privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
-privacy-index-firefox-fire-tv = { -brand-name-firefox } برائے { -brand-name-fire-tv }

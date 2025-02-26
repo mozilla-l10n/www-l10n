@@ -34,13 +34,8 @@ privacy-index-read-more-about-our-ongoing = Süregelen gizlilik, güvenlik ve ka
 privacy-index-outdated-policies = Eski ilkeler
 privacy-index-mozilla-websites-communications = { -brand-name-mozilla } web siteleri, iletişim ve çerezler
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
-privacy-index-firefox-os = { -brand-name-firefox-os }
-privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
-privacy-index-firefox-reality = { -brand-name-firefox-reality }
 privacy-index-firefox-focus = { -brand-name-firefox-focus }
 privacy-index-thunderbird = { -brand-name-thunderbird }
-privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
-privacy-index-firefox-fire-tv = { -brand-name-fire-tv } için { -brand-name-firefox }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-mozilla-subscription-services = { -brand-name-mozilla } Abonelik Hizmetleri
 # This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".

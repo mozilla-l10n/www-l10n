@@ -5,6 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
-features-shared-fingerprinter-blocking = Блакаванне збору лічбавых адбіткаў
-features-shared-translate-the-web = Перакладайце сеціва
-features-shared-picture-in-picture = Выява ў выяве

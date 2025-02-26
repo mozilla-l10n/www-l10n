@@ -15,6 +15,7 @@ what-is-firefox = Wat is { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+# Obsolete string (expires 25-04-2025)
 the-firefox-browser = De { -brand-name-firefox-browser } is de iennige grutte browser dy’t stipe wurdt troch in bedriuw sûnder winsteachmerk, dat jo persoanlike gegevens net ferkeapet oan advertearders en tagelyk helpt jo persoanlike gegevens te beskermjen. Lês mear oer de <a href="{ $url }">{ -brand-name-firefox-browsers }</a> en <a href="{ $url2 }">oare produkten.</a>
 how-do-i = Hoe krij ik de { -brand-name-firefox-browser }?
 
@@ -27,6 +28,7 @@ how-do-i = Hoe krij ik de { -brand-name-firefox-browser }?
 
 you-can-easily = Jo kinne de { -brand-name-firefox }-desktopbrowser ienfâldich <a href="{ $url }">hjir</a> downloade. { -brand-name-firefox } wurket op <a href="{ $url2 }">{ -brand-name-windows }</a>-, <a href="{ $url3 }">{ -brand-name-mac-short }</a>- en <a href="{ $url4 }">{ -brand-name-linux }{ -brand-name-linux }</a>-apparaten en is ek beskikber foar <a href="{ $url5 }">{ -brand-name-android } en { -brand-name-ios }</a>. Soargj derfoar dat jo ús browser downloade fan ien fan ús fertroude { -brand-name-mozilla }-/{ -brand-name-firefox }-siden.
 is-firefox-free = Is { -brand-name-firefox } fergees?
+# Obsolete string (expires 25-04-2025)
 yep-the-firefox = Ja! De { -brand-name-firefox-browser } is fergees. Superfergees, eins. Gjin ferburgen kosten, neat. Jo betelje neat foar it gebrûk, en wy ferkeapje jo persoansgegevens net.
 related-questions-free = Besibbe fragen: is { -brand-name-firefox-browser } fergees, kostet { -brand-name-firefox } jild
 is-chrome-better = Is { -brand-name-chrome } better as { -brand-name-firefox }?
@@ -50,11 +52,13 @@ is-firefox-safe = Is { -brand-name-firefox } feilich?
 
 not-only-is = { -brand-name-firefox } is net allinnich feilich yn gebrûk, it helpt ek jo gegevens en priveegegevens feilich te hâlden. De { -brand-name-firefox-browser } blokkearret automatysk bekende trackers fan tredden, sosjale-mediatrackers, cryptominers en fingerprinters, sadat dizze jo gegevens net sammelje kinne. <a href="{ $url }">Mear ynfo oer de privacy yn ús produkten.</a>
 related-questions-safe = Besibbe fragen: is { -brand-name-firefox } goed foar privacy, is { -brand-name-firefox } befeilige, is { -brand-name-firefox } better foar privacy
+# Obsolete string (expires 25-04-2025)
 does-firefox-sell = Ferkeapet { -brand-name-firefox } persoanlike gegevens?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+# Obsolete string (expires 25-04-2025)
 nope-never-have = Nee. Nea dien, en sille wy ek nea dwaan. En wy beskermje jo tsjin in protte fan de advertearders dy’t dat wol dogge. { -brand-name-firefox }-produkten binne ûntwurpen om jo privacy te beskermjen. <a href="{ $url }">Dat sizze wy ta.</a>
 why-is-firefox = Wêrom is { -brand-name-firefox } sa stadich?
 firefox-isnt-slow = { -brand-name-firefox } is net stadich… no. Yn 2017 hawwe wy ús browserengine folslein opnij boud (mei de namme Quantum), om derfoar te soargjen dat { -brand-name-firefox } de striid oangean kin mei oare grutte browsers. En ús trackerblokkearring helpt siden noch flugger te laden. { -brand-name-firefox } is dus tige rap, sûnder jo privacy op te offerjen.

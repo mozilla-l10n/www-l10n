@@ -18,13 +18,8 @@ privacy-index-get-involved = ਸਾਥ ਦਿਓ
 privacy-index-outdated-policies = ਪੁਰਾਣੀਆਂ ਨੀਤੀਆਂ
 privacy-index-mozilla-websites-communications = { -brand-name-mozilla } ਵੈੱਬਸਾਈਟਾਂ, ਸੰਚਾਰ ਤੇ ਕੂਕੀਜ਼
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
-privacy-index-firefox-os = { -brand-name-firefox-os }
-privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
-privacy-index-firefox-reality = { -brand-name-firefox-reality }
 privacy-index-firefox-focus = { -brand-name-firefox-focus }
 privacy-index-thunderbird = { -brand-name-thunderbird }
-privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
-privacy-index-firefox-fire-tv = { -brand-name-fire-tv } ਲਈ { -brand-name-firefox }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-mozilla-subscription-services = { -brand-name-mozilla } ਮੈਂਬਰੀ ਸੇਵਾਵਾਂ
 # This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".

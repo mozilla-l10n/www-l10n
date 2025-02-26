@@ -11,4 +11,3 @@ privacy-index-contact-mozilla = Kontaktatu { -brand-name-mozilla }
 privacy-index-data-privacy-principles = Datuen pribatutasun-printzipioak
 privacy-index-transparency-report = Gardentasun-txostena
 privacy-index-outdated-policies = Zaharkitutako politikak
-privacy-index-firefox-fire-tv = { -brand-name-firefox } { -brand-name-fire-tv }rentzat

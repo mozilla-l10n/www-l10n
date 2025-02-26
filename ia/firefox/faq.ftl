@@ -15,6 +15,7 @@ what-is-firefox = Que es { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+# Obsolete string (expires 25-04-2025)
 the-firefox-browser = Le { -brand-name-firefox-browser } es le unic navigator de importantia que es sustenite per un organisation sin scopo lucrative, que non vende tu datos personal a annunciatores, e que te adjuta a proteger tu informationes personal. Apprende plus sur le <a href="{ $url }">{ -brand-name-firefox-browsers }</a> e <a href="{ $url2 }">altere productos.</a>
 how-do-i = Como pote io obtener le { -brand-name-firefox-browser }?
 
@@ -27,6 +28,7 @@ how-do-i = Como pote io obtener le { -brand-name-firefox-browser }?
 
 you-can-easily = Tu pote facilemente discargar le navigator { -brand-name-firefox } pro computatores <a href="{ $url }">hic.</a> { -brand-name-firefox } functiona sur apparatos <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> e <a href="{ $url4 }">{ -brand-name-linux }</a>, e es equalmente disponibile pro <a href="{ $url5 }">{ -brand-name-android } e { -brand-name-ios }.</a> Verifica que tu discarga nostre navigator a partir de un de nostre paginas { -brand-name-mozilla }/{ -brand-name-firefox } digne de fide.
 is-firefox-free = Es { -brand-name-firefox } gratuite?
+# Obsolete string (expires 25-04-2025)
 yep-the-firefox = Si! { -brand-name-firefox-browser } es gratuite. Super gratuite, realmente. Nulle costos o alco celate. Tu non paga alco pro usar lo e nos non vende tu datos personal.
 related-questions-free = Questiones similar: { -brand-name-firefox-browser } es gratuite? { -brand-name-firefox } costa moneta?
 is-chrome-better = Es { -brand-name-chrome } melior de { -brand-name-firefox }?
@@ -50,11 +52,13 @@ is-firefox-safe = Es { -brand-name-firefox } secur?
 
 not-only-is = { -brand-name-firefox } non solmente es secur de usar, illo etiam te adjuta a mantener secur tu datos e informationes private. Le { -brand-name-firefox-browser } impedi automaticamente que le traciatores de tertios, traciatores de retes social, cryptominatores e dactylogrammatores collige tu datos. <a href="{ $url }">Saper plus sur le confidentialitate in nostre productos.</a>
 related-questions-safe = Questiones similar: { -brand-name-firefox } es bon pro le vita private? { -brand-name-firefox } es secur? { -brand-name-firefox } es melior pro le vita private?
+# Obsolete string (expires 25-04-2025)
 does-firefox-sell = Vende { -brand-name-firefox } tu datos personal?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+# Obsolete string (expires 25-04-2025)
 nope-never-have = No. Nunquam facite, nunquam facera. E nos te protege de multes del annunciatores que lo face. Le productos de { -brand-name-firefox } es concipite pro proteger tu vita private. <a href="{ $url }"> Es un promissa.</a>
 why-is-firefox = Proque es { -brand-name-firefox } si lente?
 firefox-isnt-slow = { -brand-name-firefox } non es lente… al minus, non plus. In 2017, nos completemente reconstrueva nostre motor de navigator (appellate Quantum), pro render { -brand-name-firefox } preste a concurrer con altere navigatores importante. E con nostre blocatores de traciamento, le paginas se carga ancora plus rapidemente. Es assi que { -brand-name-firefox } es veloce como le fulmine sin sacrificar alcun aspecto de tu confidentialitate.

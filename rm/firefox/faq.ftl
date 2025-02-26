@@ -15,6 +15,7 @@ what-is-firefox = Tge è { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+# Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } è l'unic navigatur pli grond, sustegnì dad in'interpresa senza finamira da profit che na venda betg tias datas persunalas a firmas da reclama. Il medem mument gida el da proteger tias datas persunalas. T'infurmescha davart <a href="{ $url }">ils { -brand-name-firefox-browsers }</a> ed <a href="{ $url2 }">auters products</a>.
 how-do-i = Co survegn jau il { -brand-name-firefox-browser }?
 
@@ -27,6 +28,7 @@ how-do-i = Co survegn jau il { -brand-name-firefox-browser }?
 
 you-can-easily = Ti pos simplamain telechargiar il navigatur { -brand-name-firefox } per computers desktop <a href="{ $url }">qua</a>. { -brand-name-firefox } funcziuna sin apparats da <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> e <a href="{ $url4 }">{ -brand-name-linux }</a>  e stat era a disposiziun per <a href="{ $url5 }">{ -brand-name-android } ed { -brand-name-ios }</a>. Fa la segira che ti telechargias noss navigatur dad ina da las paginas fidadas da { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = È { -brand-name-firefox } gratuit?
+# Obsolete string (expires 25-04-2025)
 yep-the-firefox = Gea! Il { -brand-name-firefox-browser } è gratuit. E liber. I na dat nagins custs zuppads e sumegliant. Per l'utilisaziun na stos ti pajar nagut e nus na vendain era betg tias datas persunalas.
 related-questions-free = Dumondas sumegliantas: È il { -brand-name-firefox-browser } gratuit? Custa { -brand-name-firefox }?
 is-chrome-better = È { -brand-name-chrome } meglier che { -brand-name-firefox }?
@@ -50,11 +52,13 @@ is-firefox-safe = È { -brand-name-firefox } segir?
 
 not-only-is = { -brand-name-firefox } n'è betg mo segir per utilisar, el gida era da segirar tias datas ed infurmaziuns privatas. Il { -brand-name-firefox-browser } blochescha automaticamain ils fatizaders enconuschents da terzas partidas, fastizaders da medias socialas, criptominiers ed improntaders ed impedescha che quels ramassian tias datas. <a href="{ $url }">Ulteriuras infurmaziuns davart la protecziun da datas en noss products.</a>
 related-questions-safe = Dumondas sumegliantas: È { -brand-name-firefox } bun per la protecziun da datas? È { -brand-name-firefox } segir? È { -brand-name-firefox } meglier per la protecziun da datas?
+# Obsolete string (expires 25-04-2025)
 does-firefox-sell = Venda { -brand-name-firefox } tias datas persunalas?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+# Obsolete string (expires 25-04-2025)
 nope-never-have = Na. Quai n'avain nus ni fatg en il passà ni vegnin nus a far quai en l'avegnir. Anzi – nus ta protegin da blers incumbensaders da reclamas che han questa intenziun. Ils products da { -brand-name-firefox } èn concepids per proteger tia sfera privata. <a href="{ $url }">Quai è in'empermischun.</a>
 why-is-firefox = Pertge è { -brand-name-firefox } uschè plaun?
 firefox-isnt-slow = { -brand-name-firefox } n'è betg plaun… almain ozendi betg pli. L'onn 2017 avain nus restructurà cumplettamain il motor da noss navigatur (numnà Quantum) per far la segira che { -brand-name-firefox } possia tegnair pass cun ils auters navigaturs pli gronds sin il martgà. Ultra da quai gidan nossa bloccada da fastizaders da chargiar anc pli svelt las paginas-web. Quai vul dir che { -brand-name-firefox } è svelt sco ina frizza senza far cumpromiss en connex cun tia sfera privata.

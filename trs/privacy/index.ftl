@@ -29,4 +29,3 @@ privacy-index-to-review-and-comment-on-proposed = Da' ga'ue natsít y narikīt '
 privacy-index-read-more-about-our-ongoing = Gahiā doj rayi'î si sūn ñûnj dàj tna'uej ñûnj rayi'ît riña <a href="{ $blog }">Blog 'na' si nuguàn' { -brand-name-mozilla }</a>.
 privacy-index-outdated-policies = Chrēj ganikò' ñûnj nī nitāj si ni'ñan ngà'
 privacy-index-mozilla-websites-communications = Nej si sitiô { -brand-name-mozilla }, Nuguan' yinga'a & nej kôki
-privacy-index-firefox-fire-tv = { -brand-name-firefox } guendâ { -brand-name-fire-tv }

@@ -34,13 +34,8 @@ privacy-index-read-more-about-our-ongoing = Μάθετε περισσότερα 
 privacy-index-outdated-policies = Παρωχημένες Πολιτικές
 privacy-index-mozilla-websites-communications = Ιστότοποι { -brand-name-mozilla }, επικοινωνίες και cookie
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
-privacy-index-firefox-os = { -brand-name-firefox-os }
-privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
-privacy-index-firefox-reality = { -brand-name-firefox-reality }
 privacy-index-firefox-focus = { -brand-name-firefox-focus }
 privacy-index-thunderbird = { -brand-name-thunderbird }
-privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
-privacy-index-firefox-fire-tv = { -brand-name-firefox } για { -brand-name-fire-tv }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-mozilla-subscription-services = Συνδρομητικές υπηρεσίες { -brand-name-mozilla }
 # This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".

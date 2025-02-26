@@ -6,4 +6,3 @@
 ### URL: https://www-dev.allizom.org/privacy/
 
 privacy-index-contact-mozilla = Kube ki { -brand-name-mozilla }
-privacy-index-firefox-fire-tv = { -brand-name-firefox } pi { -brand-name-fire-tv }

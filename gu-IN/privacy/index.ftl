@@ -29,4 +29,3 @@ privacy-index-to-review-and-comment-on-proposed = અમારી ગોપન�
 privacy-index-read-more-about-our-ongoing = <a href="{ $blog }">{ -brand-name-mozilla } ની ખુલ્લી નીતિ અને હિમાયત બ્લોગ</a>પર અમારી ચાલુ નીતિ ગોપનીયતા અને સુરક્ષા નીતિ વિશે વધુ વાંચો.
 privacy-index-outdated-policies = જૂની નીતિઓ
 privacy-index-mozilla-websites-communications = { -brand-name-mozilla } વેબસાઈટસ, સંચાર &amp; કૂકીઝ
-privacy-index-firefox-fire-tv = { -brand-name-fire-tv } માટે { -brand-name-firefox }

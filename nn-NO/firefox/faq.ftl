@@ -15,6 +15,7 @@ what-is-firefox = Kva er { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+# Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } er den einaste store nettlesaren som er støtta av ein ideell organisasjon som ikkje sel dei personlege dataa dine til annonsørar, samtidig som han hjelper deg med å beskytte den personlege informasjonen din. Les meir om <a href="{ $url }">{ -brand-name-firefox-browsers }</a> og <a href="{ $url2 }"> andre produkt.</a>
 how-do-i = Korleis lastar eg ned { -brand-name-firefox-browser }?
 
@@ -27,6 +28,7 @@ how-do-i = Korleis lastar eg ned { -brand-name-firefox-browser }?
 
 you-can-easily = Du kan enkelt laste ned nettlesaren { -brand-name-firefox } <a href="{ $url }">her</a>. { -brand-name-firefox } fungerer på <a href="{ $url2 }">{ -brand-name-windows }</a>, <a href="{ $url3 }">{ -brand-name-mac-short }</a> og <a href="{ $url4 }">{ -brand-name-linux }</a> einingar og er også tilgjengeleg for <a href="{ $url5 }">{ -brand-name-android } og { -brand-name-ios }</a>. Pass på at du lastar ned nettlesaren vår frå ei av dei pålitelege  { -brand-name-mozilla }/{ -brand-name-firefox }-sidene våre.
 is-firefox-free = Er { -brand-name-firefox } gratis?
+# Obsolete string (expires 25-04-2025)
 yep-the-firefox = Ja! { -brand-name-firefox-browser }en er gratis. Supergratis, faktisk. Ingen skjulte kostnadar. Du betalar ingenting for å bruke han og  vi sel ikkje personopplysningane dine.
 related-questions-free = Liknande spørsmål: er { -brand-name-firefox-browser } gratis, kostar { -brand-name-firefox } pengar
 is-chrome-better = Er { -brand-name-chrome } betre enn { -brand-name-firefox }?
@@ -50,11 +52,13 @@ is-firefox-safe = Er { -brand-name-firefox } trygg?
 
 not-only-is = { -brand-name-firefox } er ikkje berre trygg å bruke, han hjelper også å halde dataa dine og den private informasjone din trygg. { -brand-name-firefox-browser }en blokkerer automatisk kjende tredjeparts-sporarar, sosiale mediesporarar, kryptoutvinnarar og fingeravtrykk-sporarar frå å samle inn dataa dine. <a href="{ $url }">Les meir om personvern i produkta våre</a>.
 related-questions-safe = Liknande spørsmål: er { -brand-name-firefox } bra for personvern, er { -brand-name-firefox } trygg, er { -brand-name-firefox } betre for personvern
+# Obsolete string (expires 25-04-2025)
 does-firefox-sell = Sel { -brand-name-firefox } dei personlege dataa dine?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+# Obsolete string (expires 25-04-2025)
 nope-never-have = Nei. Det har vi aldrig gjort, og vil heller aldri gjere det. Og vi vernar deg frå mange av annonsørane som gjer det. { -brand-name-firefox } produkt er utforma for å ta vare på personvernet ditt. <a href="{ $url }">Det er eit løfte</a>.
 why-is-firefox = Kvifor er { -brand-name-firefox } så treg?
 firefox-isnt-slow = { -brand-name-firefox } er ikkje treg… no. I 2017 bygde vi heilt om nettlesarmotoren vår (Quantum) for å sikre at { -brand-name-firefox } skulle kunne konkurrere med andre store nettlesare. Og blokkeringa vår av sporarar hjelper sider til å laste ned endå raskare. So { -brand-name-firefox } er lynrask utan å ofre noko av personvernet ditt.

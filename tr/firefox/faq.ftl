@@ -15,6 +15,7 @@ what-is-firefox = { -brand-name-firefox } nedir?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+# Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } kişisel bilgilerinizi korumanıza yardımcı olurken, kişisel verilerinizi reklamverenlere satmayan, kâr amacı gütmeyen bir kuruluş tarafından desteklenen tek büyük tarayıcıdır. <a href="{ $url }">{ -brand-name-firefox-browsers }</a> ve <a href="{ $url2 }"> diğer ürünlerimiz</a> hakkında bilgi alın.
 how-do-i = { -brand-name-firefox-browser }nı nasıl indirebilirim?
 
@@ -27,6 +28,7 @@ how-do-i = { -brand-name-firefox-browser }nı nasıl indirebilirim?
 
 you-can-easily = { -brand-name-firefox } masaüstü tarayıcısını <a href="{ $url }">buradan</a> kolayca indirebilirsiniz. { -brand-name-firefox } <a href="{ $url2 }">{ -brand-name-windows }</a>, <a href="{ $url3 }">{ -brand-name-mac-short }</a> ve <a href="{ $url4 }">{ -brand-name-linux }</a> cihazlarda da çalışır; ayrıca <a href="{ $url5 }">{ -brand-name-android } ve { -brand-name-ios }</a> sürümleri mevcuttur. Tarayıcımızı güvenilir { -brand-name-mozilla }/{ -brand-name-firefox } sayfalarımızdan indirdiğinizden emin olun.
 is-firefox-free = { -brand-name-firefox } ücretsiz mi?
+# Obsolete string (expires 25-04-2025)
 yep-the-firefox = Evet! { -brand-name-firefox-browser } ücretsiz. Hem de tamamen ücretsiz. Gizli maliyet falan yok. Kullanmak için hiçbir ödeme yapmıyorsunuz ve kişisel verilerinizi satmıyoruz.
 related-questions-free = İlgili sorular: { -brand-name-firefox-browser } bedava mı, { -brand-name-firefox } ücretli mi
 is-chrome-better = { -brand-name-chrome }, { -brand-name-firefox }’tan daha mı iyi?
@@ -50,11 +52,13 @@ is-firefox-safe = { -brand-name-firefox } güvenli mi?
 
 not-only-is = { -brand-name-firefox } yalnızca güvenilir olmakla kalmıyor, verilerinizi ve özel bilgilerinizi de güvende tutuyor. { -brand-name-firefox-browser } üçüncü taraf takip kodlarının, sosyal medya takip kodlarının, kripto madencilerinin ve parmak izi toplayıcılarının verilerinizi toplamasını otomatik olarak engelliyor. <a href="{ $url }">Ürünlerimizin gizlilik uygulamaları hakkında daha fazla bilgi alın.</a>
 related-questions-safe = İlgili sorular: { -brand-name-firefox } gizlilik için iyi mi, { -brand-name-firefox } güvenli mi, { -brand-name-firefox } gizlilik için daha mı iyi
+# Obsolete string (expires 25-04-2025)
 does-firefox-sell = { -brand-name-firefox } kişisel verilerimi satıyor mu?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+# Obsolete string (expires 25-04-2025)
 nope-never-have = Hayır, asla satmadık ve satmayacağız. Ayrıca sizi bunu yapan birçok reklamverenden koruyoruz. { -brand-name-firefox } ürünlerini gizliliğinizi korumak için tasarladık. <a href="{ $url }">Sözümüz söz.</a>
 why-is-firefox = { -brand-name-firefox } neden bu kadar yavaş?
 firefox-isnt-slow = { -brand-name-firefox } artık yavaş değil. 2017'de { -brand-name-firefox }'un diğer büyük tarayıcılarla rekabet edebilmesi için Quantum adlı tarayıcı motorumuzu baştan yarattık. Ayrıca takip kodu engelleyicilerimiz sayfaların daha da hızlı yüklenmesini sağlıyor. Yani { -brand-name-firefox } gizliliğinizden ödün vermeden ışık hızında çalışıyor.

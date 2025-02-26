@@ -16,4 +16,3 @@ privacy-index-data-privacy-principles = Prinçippi da privacy di dæti
 privacy-index-transparency-report = Relaçion in sciâ trasparensa
 privacy-index-outdated-policies = Informative vegie
 privacy-index-mozilla-websites-communications = Sciti de { -brand-name-mozilla }, comunicaçioin e cookie
-privacy-index-firefox-fire-tv = { -brand-name-firefox } pe { -brand-name-fire-tv }

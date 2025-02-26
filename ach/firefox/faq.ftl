@@ -20,6 +20,7 @@ how-do-i = Atwero nongo { -brand-name-firefox-browser } nining?
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = { -brand-name-firefox } tye me nono?
+# Obsolete string (expires 25-04-2025)
 yep-the-firefox = Eyo! { -brand-name-firefox-browser } tye me nono. Me nono ni weng. Pe tye cul mo mukkane onyo gin mo. Pe iculo gin mo keken pi tic kwede, ki pe wacato data mamegi.
 related-questions-free = Lapeny ma cal kwede: { -brand-name-firefox-browser } tye me nono, mono { -brand-name-firefox } mite cente
 is-chrome-better = Mono { -brand-name-chrome } ber loyo { -brand-name-firefox }?

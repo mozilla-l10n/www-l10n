@@ -29,4 +29,3 @@ privacy-index-to-review-and-comment-on-proposed = Məxfilik siyasətimizə təkl
 privacy-index-read-more-about-our-ongoing = Davamlı olan məxfilik və ictimai təhlükəsizlik siyasəti işlərimiz haqqında <a href="{ $blog }">{ -brand-name-mozilla }nın Açıq Siyasət və Vəkillik Bloqu</a>-unda oxuyun.
 privacy-index-outdated-policies = Köhnə Siyasətlər
 privacy-index-mozilla-websites-communications = { -brand-name-mozilla } Saytları, Kommunikasiyalar və Çərəzlər
-privacy-index-firefox-fire-tv = { -brand-name-fire-tv } üçün { -brand-name-firefox }

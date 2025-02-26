@@ -12,4 +12,3 @@ privacy-index-data-privacy-principles = ഡേറ്റ സ്വകാര്യ
 privacy-index-transparency-report = സുതാര്യത റിപ്പോർട്ട്
 privacy-index-outdated-policies = കാലഹരണപ്പെട്ട നയങ്ങൾ
 privacy-index-mozilla-websites-communications = മോസില്ല വെബ്സൈറ്റുകൾ, ആശയവിനിമയങ്ങള്‍ പിന്നെ കുക്കികൾ
-privacy-index-firefox-fire-tv = { -brand-name-fire-tv }-യുള്ള { -brand-name-firefox }
