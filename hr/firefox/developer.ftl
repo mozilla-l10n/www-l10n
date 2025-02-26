@@ -84,6 +84,7 @@ firefox-developer-view-the-release = Pogledaj <a { $attrs }>napomene o izdanju</
 firefox-developer-developer-tools-user = Korisnički dokumenti alata za programere
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resursi za programere, od programera.
+firefox-developer-mdn-blog = { -brand-name-mdn } blog
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } reference
 # Obsolete string (expires 18-04-2025)
