@@ -75,7 +75,7 @@ firefox-developer-firefox-has-been-rebuilt = 這是從頭開始重新打造的 {
 firefox-developer-welcome-to-firefox-developer-edition = 歡迎使用 { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = 為了開發者打造的瀏覽器
 firefox-developer-all-the-latest-v2 = 所有仍在 Beta 測試中的最新開發者工具，再加上主控台多行編輯器與 WebSocket 檢測器等功能。
-firefox-developer-a-separate-profile = 使用<strong>獨立設定擋</strong>，讓您可以與 { -brand-name-firefox } 正式版或 { -brand-name-beta } 版同時使用。
+firefox-developer-a-separate-profile = 使用<strong>獨立設定檔</strong>，讓您可以與 { -brand-name-firefox } 正式版或 { -brand-name-beta } 版同時使用。
 firefox-developer-preferences-tailored = <strong>為網頁開發者量身打造的偏好設定</strong>：預設開啟瀏覽器與遠端除錯功能，以及暗色佈景主題，還有開發者工具列按鈕。
 firefox-developer-congrats-you-now-have-latest-v2 = 您已經安裝了最新版的 { -brand-name-firefox-developer-edition }。
 # Variables:
@@ -84,10 +84,10 @@ firefox-developer-view-the-release = 看看<a { $attrs }>有什麼新鮮事</a>�
 firefox-developer-developer-tools-user = 開發者工具使用者文件
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = 由開發者撰寫，提供開發者的相關資源
-firefox-developer-mdn-playground = 操場
-firefox-developer-mdn-write-test-and-share = 編寫、測試並分享您的程式碼。學習並與世界分享您的超棒作品的平台。
+firefox-developer-mdn-playground = 程式開發場
+firefox-developer-mdn-write-test-and-share = 撰寫、測試並分享您的程式碼。這是讓您可學習、與世界分享您超棒作品的平台。
 firefox-developer-mdn-blog = { -brand-name-mdn } 部落格
-firefox-developer-mdn-unlock-the-world = 到 { -brand-name-mdn } 部落格開啟網頁開發的世界 — 這兒熱門平台就會有專家提供意見、最新的網頁標準與寫程式的秘訣。
+firefox-developer-mdn-unlock-the-world = 到 { -brand-name-mdn } 部落格解鎖網頁開發的世界 — 這是一個提供專家意見、最新網頁標準與程式碼寫作秘訣的必去平台。
 firefox-developer-mdn-updates = 更新
 firefox-developer-mdn-the-web-doesnt-have = 網路世界沒有更新紀錄但 { -brand-name-mdn } 可以協助您。您可以根據您所使用的瀏覽器或您有興趣的技術分類是 JavaScript、CSS 等來個人化過濾相容性的變更。
 # Obsolete string (expires 18-04-2025)

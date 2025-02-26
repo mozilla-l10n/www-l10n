@@ -33,7 +33,7 @@ newsletters-to-update-your-email-preferences = 請稍候再回來更新收信的
 newsletters-we-love-sharing-updates = 我們喜歡分享在 { -brand-name-mozilla } 到底都發生了哪些超棒的事情。
 newsletters-set-your-preferences-below = 在下方調整偏好，確保您總是能收到您想要的資訊。
 # Form field label
-newsletters-your-email-address = 您的電子郵件地址:
+newsletters-your-email-address = 您的電子郵件地址：
 # Form field label
 newsletters-country-or-region = 國家或地區:
 # Form field label
