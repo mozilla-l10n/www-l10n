@@ -11,4 +11,4 @@ nightly-firstrun-test = Pruebes
 nightly-firstrun-code = Códigu
 nightly-firstrun-localize = Traducción
 # Link used for the "Start localizing" button. You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n. Must start with http:// or https://
-nightly-firstrun-contribute-link = https://wiki.mozilla.org/L10n:Teams:ast
+nightly-firstrun-contribute-link = https://pontoon.mozilla.org

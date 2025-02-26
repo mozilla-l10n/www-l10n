@@ -17,5 +17,5 @@ nightly-firstrun-start-coding = 프로그래밍 시작
 nightly-firstrun-localize = 지역화
 nightly-firstrun-make-firefox-available = { -brand-name-firefox }를 여러 국가 언어로 제공하는 일에 참여하세요.
 # Link used for the "Start localizing" button. You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n. Must start with http:// or https://
-nightly-firstrun-contribute-link = https://wiki.mozilla.org/L10n:Teams:ko
+nightly-firstrun-contribute-link = https://pontoon.mozilla.org
 nightly-firstrun-start-localizing = 지역화 시작

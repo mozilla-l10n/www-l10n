@@ -17,5 +17,5 @@ nightly-firstrun-start-coding = 开始编写代码
 nightly-firstrun-localize = 本地化
 nightly-firstrun-make-firefox-available = 让 { -brand-name-firefox } 能够（并更好地）被全世界更多语种用户使用。
 # Link used for the "Start localizing" button. You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n. Must start with http:// or https://
-nightly-firstrun-contribute-link = https://wiki.mozilla.org/L10n:Teams:zh-CN
+nightly-firstrun-contribute-link = https://pontoon.mozilla.org
 nightly-firstrun-start-localizing = 开始本地化

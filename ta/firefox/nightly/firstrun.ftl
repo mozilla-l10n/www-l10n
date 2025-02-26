@@ -17,5 +17,5 @@ nightly-firstrun-start-coding = நிரலாக்கத்தை தொட�
 nightly-firstrun-localize = மொழிபெயர்
 nightly-firstrun-make-firefox-available = உலகம் முழுவதிலும் அதிக மொழிகளில் பயர்பாக்சை (சிறந்ததாகக்) கிடைக்கச் செய்யுங்கள்.
 # Link used for the "Start localizing" button. You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n. Must start with http:// or https://
-nightly-firstrun-contribute-link = https://wiki.mozilla.org/L10n:Teams:ta
+nightly-firstrun-contribute-link = https://pontoon.mozilla.org
 nightly-firstrun-start-localizing = மொழிபெயர்ப்பைத் தொடங்குக

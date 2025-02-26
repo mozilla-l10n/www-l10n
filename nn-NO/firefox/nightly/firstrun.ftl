@@ -17,5 +17,5 @@ nightly-firstrun-start-coding = Start med å kode
 nightly-firstrun-localize = Omset
 nightly-firstrun-make-firefox-available = Gjer { -brand-name-firefox } tillgjengeleg (og betre) på fleire av verdas språk.
 # Link used for the "Start localizing" button. You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n. Must start with http:// or https://
-nightly-firstrun-contribute-link = https://wiki.mozilla.org/L10n:Teams:nn-NO
+nightly-firstrun-contribute-link = https://pontoon.mozilla.org
 nightly-firstrun-start-localizing = Start med å omsette
