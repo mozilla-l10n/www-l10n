@@ -17,6 +17,7 @@ what-is-firefox = რა არის { -brand-name-firefox }?
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } ერთადერთი მოწინავე არამომგებიანი ბრაუზერია, რომელიც არ ყიდის თქვენს პირად მონაცემებს სარეკლამო კომპანიებზე და გეხმარებათ უსაფრთხოების დაცვაში. გაიცანით უკეთ <a href="{ $url }">{ -brand-name-firefox-browsers }</a> და <a href="{ $url2 }">სხვა პროდუქტები.</a>
+the-firefox-browser-the-only = { -brand-name-firefox-browser }, ერთადერთი ძირითადი ბრაუზერი, არამომგებიანი დაწესებულებისგან, დაგეხმარებათ პირადი ინფორმაციის დაცვაში. გაიგეთ მეტი <a href="{ $url }">{ -brand-name-firefox-browsers }</a> და <a href="{ $url2 }">სხვა პროდუქტების შესახებ.</a>
 how-do-i = როგორ გადმოვწერო { -brand-name-firefox-browser }?
 
 # Variables:
@@ -30,6 +31,7 @@ you-can-easily = მარტივად შეგიძლიათ ჩამ�
 is-firefox-free = { -brand-name-firefox } უფასოა?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = დიახ! { -brand-name-firefox-browser } უფასოა. უუფასოესი. ყოველგვარი ფარული გადასახადების გარეშეა. არც გამოყენებისას არ იხდით არაფერს და არც თქვენი პირადი მონაცემების გაყიდვის ხარჯზე არ ვიღებთ შემოსავალს.
+yep-the-firefox-browser-is-free = დიახ! { -brand-name-firefox-browser } უფასოა. სინამდვილეში, სუპერთავისუფალი. არანაირი ფარული ხარჯები და არაფერი. თქვენ არ იხდით არაფერს, მისი გამოყენებისთვის.
 related-questions-free = მსგავსი კითხვები: არის { -brand-name-firefox-browser } უფასო, რა ღირს { -brand-name-firefox }
 is-chrome-better = { -brand-name-chrome } უკეთესია ვიდრე { -brand-name-firefox }?
 no-we-dont = არა, ჩვენ არ მიგვაჩნია რომ { -brand-name-chrome } უკეთესია, ვიდრე { -brand-name-firefox }, ვინაიდან: როცა ხალხი კითხულობს რომელია უკეთესი, გულისხმობენ თუ რომელია სწრაფი და უსაფრთხო. { -brand-name-firefox } ახლდება ყოველთვიურად სისწრაფის შესანარჩუნებლად და თქვენს პირადულობასაც თავისთავად უზრუნველყოფს.

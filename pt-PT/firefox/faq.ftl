@@ -17,6 +17,7 @@ what-is-firefox = O que é o { -brand-name-firefox }?
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = O { -brand-name-firefox-browser } é o único grande navegador apoiado por uma organização sem fins lucrativos que não vende os seus dados pessoais a anunciantes, enquanto ajuda a proteger as suas informações pessoais. Saiba mais sobre o <a href="{ $url }">{ -brand-name-firefox-browsers }</a> e <a href="{ $url2 }">outros produtos</a>.
+the-firefox-browser-the-only = O { -brand-name-firefox-browser }, o único grande navegador apoiado por uma organização sem fins lucrativos, ajuda-o a proteger a sua informação pessoal. Saiba mais sobre o <a href="{ $url }">{ -brand-name-firefox-browsers }</a> e <a href="{ $url2 }">outros produtos.</a>
 how-do-i = Como obter o { -brand-name-firefox-browser }?
 
 # Variables:
@@ -30,6 +31,7 @@ you-can-easily = Pode transferir o { -brand-name-firefox } para computadores <a 
 is-firefox-free = O { -brand-name-firefox } é gratuito?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = Sim! O { -brand-name-firefox-browser } é gratuito. Na realidade é super-grátis, sem quaisquer custos ocultos. Você não paga nada para o utilizar e não vendemos os seus dados pessoais.
+yep-the-firefox-browser-is-free = Sim! O { -brand-name-firefox-browser } é gratuito. Super gratuito, na verdade. Sem custos ocultos ou qualquer coisa. Não paga nada para o utilizar.
 related-questions-free = Questões relacionadas: o { -brand-name-firefox-browser } é gratuito, o { -brand-name-firefox } custa dinheiro
 is-chrome-better = O { -brand-name-chrome } é melhor que o { -brand-name-firefox }?
 no-we-dont = Não, nós não achamos que o { -brand-name-chrome } seja melhor do que o { -brand-name-firefox } e eis o motivo: quando as pessoas perguntam qual é o melhor navegador, o que elas estão realmente a perguntar é qual é o navegador é mais rápido e mais seguro. O { -brand-name-firefox } é atualizado mensalmente para garantir que tem o navegador mais rápido e que respeita, automaticamente, a sua privacidade.

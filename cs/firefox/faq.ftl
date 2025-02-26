@@ -17,6 +17,7 @@ what-is-firefox = Co je { -brand-name-firefox }?
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } je jediný velký prohlížeč tvořený neziskovou organizací, který neprodává vaše data reklamním společnostem, ale naopak chrání vaše osobní data. Přečtěte si více o <a href="{ $url }">{ -brand-name-firefox-browsers(case: "loc", capitalization: "lower") }</a> a <a href="{ $url2 }">dalších našich produktech</a>.
+the-firefox-browser-the-only = { -brand-name-firefox-browser }, jediný hlavní prohlížeč podporovaný neziskovou organizací, vám pomáhá chránit vaše osobní údaje. Přečtěte si více o produktu <a href="{ $url }">{ -brand-name-firefox-browsers }</a> a <a href="{ $url2 }">dalších</a>.
 how-do-i = Jak získám { -brand-name-firefox-browser(case: "acc", capitalization: "lower") }?
 
 # Variables:
@@ -30,6 +31,7 @@ you-can-easily = Prohlížeč { -brand-name-firefox } pro počítače si můžet
 is-firefox-free = Je { -brand-name-firefox } zdarma?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = Ano, { -brand-name-firefox-browser(case: "nom", capitalization: "lower") } je zdarma. Úplně zdarma, bez skrytých poplatků a podobně. Nemusíte platit za jeho používání penězi ani svými osobními daty.
+yep-the-firefox-browser-is-free = Ano! { -brand-name-firefox-browser } je zdarma. Vlastně úplně zdarma. Žádné skryté náklady nebo tak něco. Za používání nic neplatíte.
 related-questions-free = A s tím souvisí: je { -brand-name-firefox-browser(case: "nom", capitalization: "lower") } zdarma, nebo se za { -brand-name-firefox(case: "acc") } něco platí?
 is-chrome-better = Je { -brand-name-chrome } lepší než { -brand-name-firefox }?
 no-we-dont = Nemyslíme si, že by byl { -brand-name-chrome } lepší než { -brand-name-firefox }, protože když se lidé ptají, který prohlížeč je rychlejší, většinou jim záleží na rychlosti a bezpečnosti. { -brand-name-firefox } aktualizujeme každý měsíc, abychom zajistili, že máte k dispozici vždy ten nejrychlejší prohlížeč, který bude respektovat vaše soukromí.
