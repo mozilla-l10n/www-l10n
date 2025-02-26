@@ -17,6 +17,7 @@ what-is-firefox = Che cos’è { -brand-name-firefox }?
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = Il { -brand-name-firefox-browser } è l’unico tra i principali browser a essere sostenuto da un’organizzazione senza fini di lucro che non vende i tuoi dati personali agli inserzionisti e ti aiuta allo stesso tempo a proteggere le tue informazioni personali. Scopri di più sui <a href="{ $url }">{ -brand-name-firefox-browsers(capitalization: "lowercase") }</a> e sugli <a href="{ $url2 }">altri prodotti.</a>
+the-firefox-browser-the-only = Il { -brand-name-firefox-browser }, l’unico tra i browser principali supportato da un’organizzazione senza fini di lucro, ti aiuta a proteggere le tue informazioni personali. Scopri di più sui <a href="{ $url }">{ -brand-name-firefox-browsers }</a> e su <a href="{ $url2 }">altri prodotti</a>.
 how-do-i = Come posso ottenere il { -brand-name-firefox-browser }?
 
 # Variables:
@@ -30,6 +31,7 @@ you-can-easily = Puoi scaricare facilmente il browser { -brand-name-firefox } pe
 is-firefox-free = { -brand-name-firefox } è gratuito?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = Sì, il { -brand-name-firefox-browser } è assolutamente gratuito. Nessun costo nascosto o altro. Non paghi nulla per usarlo, in più hai la garanzia che non venderemo mai i tuoi dati personali.
+yep-the-firefox-browser-is-free = Sì, il { -brand-name-firefox-browser } è assolutamente gratuito. Nessun costo nascosto o altro. Non paghi nulla per usarlo.
 related-questions-free = Domande correlate: { -brand-name-firefox-browser } è gratis, { -brand-name-firefox } si paga
 is-chrome-better = { -brand-name-chrome } è migliore di { -brand-name-firefox }?
 no-we-dont = No, non pensiamo che { -brand-name-chrome } sia migliore di { -brand-name-firefox } per il seguente motivo: quando gli utenti chiedono quale sia il browser migliore, in realtà chiedono quale sia il browser più veloce e più sicuro. { -brand-name-firefox } viene aggiornato mensilmente per offrirti sempre il browser più veloce sul Web, con il rispetto della tua privacy “per impostazione predefinita”.
