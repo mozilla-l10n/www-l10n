@@ -39,13 +39,8 @@ privacy-index-read-more-about-our-ongoing = اقرأ المزيد عن عملن�
 privacy-index-outdated-policies = السّياسات القديمة
 privacy-index-mozilla-websites-communications = مواقع ويب { -brand-name-mozilla } واتصلاتُها وملفات تعريف الارتباط التشعبي (كوكيز) الخاصة بها
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
-privacy-index-firefox-os = { -brand-name-firefox-os }
-privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
-privacy-index-firefox-reality = { -brand-name-firefox-reality }
 privacy-index-firefox-focus = { -brand-name-firefox-focus }
 privacy-index-thunderbird = { -brand-name-thunderbird }
-privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
-privacy-index-firefox-fire-tv = مُتصفح { -brand-name-firefox } لنظام تشغيل { -brand-name-fire-tv }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-mozilla-subscription-services = { -brand-name-mozilla } خدمات الاشتراك
 

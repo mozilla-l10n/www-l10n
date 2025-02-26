@@ -39,13 +39,8 @@ privacy-index-read-more-about-our-ongoing = हमारी निजता औ�
 privacy-index-outdated-policies = अप्रचलित नीतियाँ
 privacy-index-mozilla-websites-communications = { -brand-name-mozilla } वेबसाइट्स, संचार और कुकीज़
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
-privacy-index-firefox-os = { -brand-name-firefox-os }
-privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
-privacy-index-firefox-reality = { -brand-name-firefox-reality }
 privacy-index-firefox-focus = { -brand-name-firefox-focus }
 privacy-index-thunderbird = { -brand-name-thunderbird }
-privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
-privacy-index-firefox-fire-tv = { -brand-name-fire-tv } के लिए { -brand-name-firefox }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-mozilla-subscription-services = { -brand-name-mozilla } सब्सक्रिप्शन सेवाएं
 

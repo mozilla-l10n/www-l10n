@@ -39,13 +39,8 @@ privacy-index-read-more-about-our-ongoing = Apprenez-en davantage sur les action
 privacy-index-outdated-policies = Politiques obsolètes
 privacy-index-mozilla-websites-communications = Sites web de { -brand-name-mozilla }, communications et cookies
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
-privacy-index-firefox-os = { -brand-name-firefox-os }
-privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
-privacy-index-firefox-reality = { -brand-name-firefox-reality }
 privacy-index-firefox-focus = { -brand-name-firefox-focus }
 privacy-index-thunderbird = { -brand-name-thunderbird }
-privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
-privacy-index-firefox-fire-tv = { -brand-name-firefox } pour { -brand-name-fire-tv }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-mozilla-subscription-services = Services d'abonnement { -brand-name-mozilla }
 

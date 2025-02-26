@@ -39,13 +39,8 @@ privacy-index-read-more-about-our-ongoing = Mozilla の現行プライバシー�
 privacy-index-outdated-policies = 廃止された方針
 privacy-index-mozilla-websites-communications = { -brand-name-mozilla } ウェブサイト・通信・Cookie
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
-privacy-index-firefox-os = { -brand-name-firefox-os }
-privacy-index-firefox-private-network = { -brand-name-firefox-private-network }
-privacy-index-firefox-reality = { -brand-name-firefox-reality }
 privacy-index-firefox-focus = { -brand-name-firefox-focus }
 privacy-index-thunderbird = { -brand-name-thunderbird }
-privacy-index-firefox-better-web = { -brand-name-firefox-better-web }
-privacy-index-firefox-fire-tv = { -brand-name-fire-tv } 用 { -brand-name-firefox }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-mozilla-subscription-services = { -brand-name-mozilla } のサブスクリプションサービス
 
