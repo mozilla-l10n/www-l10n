@@ -53,7 +53,7 @@ firefox-desktop-download-for-everyone = 任何人都能使用 { -brand-name-fire
 firefox-desktop-download-available-in-over = 不論您在何處，使用哪種電腦，{ -brand-name-firefox } 有超過 90 種語言版本，並且與 { -brand-name-windows }、{ -brand-name-mac-short }、{ -brand-name-linux } 都相容。請確保您的作業系統已經升級到最新版，以獲得最佳使用體驗。
 firefox-desktop-download-review-system-req = 確認系統需求
 firefox-desktop-download-all-your-devices = 將 { -brand-name-firefox } 安裝到您所有的裝置上
-firefox-desktop-download-take-your-privacy = 隨時隨地都有最佳隱私保護。{ -brand-name-firefox-browsers } for { -brand-name-ios } 與 { -brand-name-android } 有跟桌面版一樣的強大隱私權保護設定，不讓追蹤器在網路上追蹤您的行為。
+firefox-desktop-download-take-your-privacy = 隨時隨地都有最佳隱私保護。{ -brand-name-ios } 與 { -brand-name-android } 版 { -brand-name-firefox-browsers }有跟桌面版一樣的強大隱私權保護設定，不讓追蹤器在網路上追蹤您的行為。
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = { -brand-name-firefox } <strong>有下列功能</strong>
 firefox-desktop-download-search-smarter = 搜尋更聰明、更快

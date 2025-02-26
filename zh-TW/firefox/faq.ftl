@@ -17,7 +17,7 @@ what-is-firefox = { -brand-name-firefox } 是什麼？
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser }是唯一一套由非營利組織開發，且不會將您的個人資料賣給廣告商，還能幫助保護您的個人資訊的主要瀏覽器。了解有關 <a href="{ $url }">{ -brand-name-firefox-browsers }</a>與<a href="{ $url2 }">其他產品</a>的更多資訊。
-the-firefox-browser-the-only = { -brand-name-firefox-browser }是唯一一套由非營利組織在背後全力保護您的個人資訊的主要瀏覽器。了解 <a href="{ $url }">{ -brand-name-firefox-browsers }</a> 及<a href="{ $url2 }">其他產品</a>的更多資訊。
+the-firefox-browser-the-only = { -brand-name-firefox-browser }是唯一一套由非營利組織開發，在背後全力保護您個人資訊的主要瀏覽器。了解 <a href="{ $url }">{ -brand-name-firefox-browsers }</a>及<a href="{ $url2 }">其他產品</a>的更多資訊。
 how-do-i = 要如何安裝 { -brand-name-firefox-browser }？
 
 # Variables:
@@ -31,7 +31,7 @@ you-can-easily = 您可以<a href="{ $url }">在此</a>很簡單就下載到 { -
 is-firefox-free = { -brand-name-firefox } 要收費嗎？
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = 不用，使用 { -brand-name-firefox-browser }是免費的！不但不用錢而且真的超自由，我們當然更不會賣掉您的個人資料。
-yep-the-firefox-browser-is-free = 對{ -brand-name-firefox-browser }是免費的。超級免費。沒有任何隱藏成本。您不需要支付任何費用即可使用。
+yep-the-firefox-browser-is-free = 對！{ -brand-name-firefox-browser }是免費的。超級免費又自由、沒有任何隱藏成本，不用支付任何費用即可使用。
 related-questions-free = 相關問題: { -brand-name-firefox-browser }要收費嗎？、{ -brand-name-firefox } 要付錢嗎？
 is-chrome-better = { -brand-name-chrome } 比 { -brand-name-firefox } 還好嗎？
 no-we-dont = 不，我們不覺得 { -brand-name-chrome } 有比 { -brand-name-firefox } 好。這是因為: 當人們在問哪套瀏覽器「比較好」的時候，實際上是在問哪套瀏覽器更快、更安全。{ -brand-name-firefox } 每月都會推出更新，確保讓您能總是使用到最快、又最能尊重您隱私的瀏覽器。

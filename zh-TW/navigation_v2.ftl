@@ -10,7 +10,7 @@ navigation-v2-menu = 選單
 ## Firefox menu
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
-navigation-v2-close-firefox-browsers-menu = 關閉 { -brand-name-firefox-browsers } 選單
+navigation-v2-close-firefox-browsers-menu = 關閉 { -brand-name-firefox-browsers }選單
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } 桌面版
 navigation-v2-get-the-not-for-profit-backed = 下載適用於 { -brand-name-windows }、{ -brand-name-mac-short } 或 { -brand-name-linux } 平台，由非營利組織在背後全力相挺的瀏覽器。
 navigation-v2-firefox-for-android = { -brand-name-firefox } for { -brand-name-android }

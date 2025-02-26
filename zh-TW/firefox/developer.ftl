@@ -88,8 +88,8 @@ firefox-developer-mdn-playground = 程式開發場
 firefox-developer-mdn-write-test-and-share = 撰寫、測試並分享您的程式碼。這是讓您可學習、與世界分享您超棒作品的平台。
 firefox-developer-mdn-blog = { -brand-name-mdn } 部落格
 firefox-developer-mdn-unlock-the-world = 到 { -brand-name-mdn } 部落格解鎖網頁開發的世界 — 這是一個提供專家意見、最新網頁標準與程式碼寫作秘訣的必去平台。
-firefox-developer-mdn-updates = 更新
-firefox-developer-mdn-the-web-doesnt-have = 網路世界沒有更新紀錄但 { -brand-name-mdn } 可以協助您。您可以根據您所使用的瀏覽器或您有興趣的技術分類是 JavaScript、CSS 等來個人化過濾相容性的變更。
+firefox-developer-mdn-updates = 最新資訊
+firefox-developer-mdn-the-web-doesnt-have = 網路技術沒有更新紀錄，但 { -brand-name-mdn } 可以協助。您可以依照使用的瀏覽器或有興趣的技術分類（不論是 JavaScript、CSS，或其他技術）等來過濾出相容性的變化。
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } 參考資料
 # Obsolete string (expires 18-04-2025)
