@@ -16,6 +16,7 @@ what-is-firefox = ما هو { -brand-name-firefox }؟
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+# Obsolete string (expires 25-04-2025)
 the-firefox-browser = مُتصفح { -brand-name-firefox-browser } هو المُتصفح الرئيسي الوحيد الذي تدعمه مؤسسة غير ربحية لا تبيع بياناتك الشخصية للمعلنين بينما يُساعدك في حماية معلوماتك الشخصية. معرفة المزيد عن <a href="{ $url }">{ -brand-name-firefox-browsers }</a> و<a href="{ $url2 }">المنتجات الأخرى.</a>
 
 how-do-i = كيف يُمكنني الحصول على { -brand-name-firefox-browser }؟
@@ -30,6 +31,7 @@ how-do-i = كيف يُمكنني الحصول على { -brand-name-firefox-brows
 you-can-easily = يُمكنك تنزيل مُتصفح سطح المكتب { -brand-name-firefox } بسهولة <a href="{ $url }">هنا.</a> يَعمل { -brand-name-firefox } على أجهزة <a href="{ $url2 }">{ -brand-name-windows }، و</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> ، و<a href="{ $url4 }">{ -brand-name-linux }</a> ويتوفر أيضًا على <a href="{ $url5 }">{ -brand-name-android } و{ -brand-name-ios }.</a> تأكد من تنزيل مُتصفّحنا من صفحات { -brand-name-mozilla }/{ -brand-name-firefox } الموثوقة.
 
 is-firefox-free = هل { -brand-name-firefox } مجاني؟
+# Obsolete string (expires 25-04-2025)
 yep-the-firefox = بالتأكيد! { -brand-name-firefox-browser } مجاني. في الوقع، هو مجاني تمامًا. بلا تكاليف جانبية أو أي شيء. لن تدفع أي شيء مقابل استخدامه، ونحن لا نبيع بياناتك الشخصية.
 related-questions-free = أسئلة ذات صلة بالموضوع: هل{ -brand-name-firefox-browser } مجاني، هل يكلف استخدام { -brand-name-firefox } أية أموال
 
@@ -57,11 +59,13 @@ is-firefox-safe = هل { -brand-name-firefox } آمن؟
 not-only-is = ليس { -brand-name-firefox } آمن الاستخدام فحسب، بل إنه يُساعد في الحفاظ على أمان بياناتك ومعلوماتك الخاصة. يحظر { -brand-name-firefox-browser } تلقائيًا متتبعات الطرف الثالث المعروفة، ومتتبعات الوسائط الاجتماعية، ومزيلات التشفير، وبصمات الأصابع من جمع بياناتك. <a href="{ $url }">معرفة المزيد عن الخصوصية في منتجاتنا.</a>
 
 related-questions-safe = الأسئلة المتعلقة: هل { -brand-name-firefox } جيد من ناحية الخصوصية، وهل { -brand-name-firefox } آمن، وهل { -brand-name-firefox } أفضل في جانب الخصوصية
+# Obsolete string (expires 25-04-2025)
 does-firefox-sell = هل يبيع { -brand-name-firefox } بياناتك الشخصية؟
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+# Obsolete string (expires 25-04-2025)
 nope-never-have = إطلاقًا. لم ولن يفعل ذلك. ونحميك من العديد من المعلنين الذين يقومون بذلك. صُممت منتجات { -brand-name-firefox } لحماية خصوصيتك. <a href="{ $url }">هذا وعدنا لك.</a>
 
 why-is-firefox = لماذا { -brand-name-firefox } بطيء جدًا؟

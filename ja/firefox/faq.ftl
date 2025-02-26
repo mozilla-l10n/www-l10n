@@ -16,6 +16,7 @@ what-is-firefox = { -brand-name-firefox } とは？
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+# Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } は主要ブラウザーのうち、非営利組織が運営し、広告主に対するユーザーの個人情報の販売を行わず、個人情報の保護に役立つ唯一のブラウザーです。<a href="{ $url }">{ -brand-name-firefox-browsers }</a> や<a href="{ $url2 }">その他の製品</a>の詳細をご覧ください。
 
 how-do-i = { -brand-name-firefox-browser } を入手する方法は？
@@ -30,6 +31,7 @@ how-do-i = { -brand-name-firefox-browser } を入手する方法は？
 you-can-easily = { -brand-name-firefox } デスクトップブラウザーは<a href="{ $url }">こちら</a>からダウンロードしていただけます。{ -brand-name-firefox } は <a href="{ $url2 }">{ -brand-name-windows }</a> デバイスと <a href="{ $url3 }">{ -brand-name-mac-short }</a> デバイス、<a href="{ $url4 }">{ -brand-name-linux }</a> デバイスでご利用いただけるほか、<a href="{ $url5 }">{ -brand-name-android } 用と { -brand-name-ios }</a> 用も用意されています。Firefox ブラウザーは必ず信頼されている { -brand-name-mozilla }・{ -brand-name-firefox } ページからダウンロードしてください。
 
 is-firefox-free = { -brand-name-firefox } は無料ですか？
+# Obsolete string (expires 25-04-2025)
 yep-the-firefox = { -brand-name-firefox-browser } は無料です。完全に無料ですので、隠された料金等は一切ありません。使用時の支払は全くありません。また Mozilla はユーザーの個人情報を売却することもありません。
 related-questions-free = 関連する質問: { -brand-name-firefox-browser } は無料ですか？・{ -brand-name-firefox } には費用がかかりますか？
 
@@ -57,11 +59,13 @@ is-firefox-safe = { -brand-name-firefox } は安全ですか？
 not-only-is = { -brand-name-firefox } は安全なだけでなく、ユーザーのデータとプライバシー情報の安全を確保する上で役立ちます。{ -brand-name-firefox-browser } は確認されているサードパーティーのトラッカーやソーシャルメディアのトラッカー、暗号通貨採掘、フィンガープリント採取のトラッカーがユーザーの情報を収集するのを阻止します。<a href="{ $url }">Mozilla の製品のプライバシーに関する詳細をご覧ください。</a>
 
 related-questions-safe = 関連する質問: { -brand-name-firefox } にはプライバシーに良い効果がありますか？・{ -brand-name-firefox } は安全ですか？・{ -brand-name-firefox } はプライバシーに優れていますか？
+# Obsolete string (expires 25-04-2025)
 does-firefox-sell = { -brand-name-firefox } はユーザーの個人データを売却しますか？
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+# Obsolete string (expires 25-04-2025)
 nope-never-have = 個人データを売却することはありません。従前も、今後も個人データを売却することはありません。さらに、Mozilla は個人データを売却している広告主からユーザーを保護します。{ -brand-name-firefox } 製品は、プライバシーを保護するよう設計されています。<a href="{ $url }">それが Mozilla の約束です。</a>
 
 why-is-firefox = { -brand-name-firefox } の動作が非常に遅いのはなぜですか？

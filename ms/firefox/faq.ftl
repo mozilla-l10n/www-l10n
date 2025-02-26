@@ -16,6 +16,7 @@ what-is-firefox = Apakah { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+# Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } ialah satu-satunya pelayar utama yang disokong oleh organisasi bukan berasaskan keuntungan, yang tidak menjual data anda kepada pengiklan dan pada masa yang sama membantu anda melindungi maklumat peribadi. Ketahui lebih lanjut tentang <a href="{ $url }">{ -brand-name-firefox-browsers }</a> dan <a href="{ $url2 }">produk lain.</a>
 
 how-do-i = Bagaimanakah cara mendapatkan { -brand-name-firefox-browser }?
@@ -30,6 +31,7 @@ how-do-i = Bagaimanakah cara mendapatkan { -brand-name-firefox-browser }?
 you-can-easily = Anda boleh memuat turun pelayar desktop { -brand-name-firefox } dengan mudah <a href="{ $url }">di sini.</a> { -brand-name-firefox } berfungsi pada peranti <a href="{ $url2 }">{ -brand-name-windows }</a>, <a href="{ $url3 }">{ -brand-name-mac-short }</a> dan <a href="{ $url4 }">{ -brand-name-linux }</a> dan juga tersedia untuk <a href="{ $url5 }">{ -brand-name-android } dan { -brand-name-ios }.</a> Pastikan anda memuat turun pelayar kami daripada salah satu halaman { -brand-name-mozilla }/{ -brand-name-firefox } yang dipercayai.
 
 is-firefox-free = Adakah { -brand-name-firefox } percuma?
+# Obsolete string (expires 25-04-2025)
 yep-the-firefox = Ya! { -brand-name-firefox-browser } adalah percuma. Benar-benar percuma. Tiada kos tersembunyi atau sebagainya. Anda tidak perlu bayar apa-apa untuk menggunakannya dan kami juga tidak menjual data peribadi anda.
 related-questions-free = Soalan berkaitan: adakah { -brand-name-firefox-browser } percuma, adakah { -brand-name-firefox } melibatkan pembayaran
 
@@ -57,11 +59,13 @@ is-firefox-safe = Adakah { -brand-name-firefox } selamat?
 not-only-is = Bukan sahaja { -brand-name-firefox } selamat digunakan, ia juga membantu menjaga keselamatan data dan maklumat peribadi anda. { -brand-name-firefox-browser } secara automatik menyekat penjejak pihak ketiga yang diketahui, penjejak media sosial, pelombong kripto dan pengecap jari daripada mengumpulkan data anda. <a href="{ $url }">Ketahui lebih lanjut tentang privasi dalam produk kami.</a>
 
 related-questions-safe = Soalan berkaitan: adakah { -brand-name-firefox } bagus untuk privasi, adakah { -brand-name-firefox } selamat, adakah { -brand-name-firefox } lebih bagus untuk privasi
+# Obsolete string (expires 25-04-2025)
 does-firefox-sell = Adakah { -brand-name-firefox } menjual data peribadi anda?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+# Obsolete string (expires 25-04-2025)
 nope-never-have = Tidak. Tidak pernah, tidak akan pernah. Dan kami melindungi anda daripada banyak pengiklan yang melakukannya. Produk { -brand-name-firefox } direka bentuk untuk melindungi privasi anda. <a href="{ $url }">Itu janji kami.</a>
 
 why-is-firefox = Mengapa { -brand-name-firefox } begitu perlahan?

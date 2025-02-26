@@ -16,6 +16,7 @@ what-is-firefox = Qu’est-ce que { -brand-name-firefox } ?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+# Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } est le seul grand navigateur soutenu par une organisation à but non lucratif qui ne vend pas vos données personnelles aux annonceurs et vous aide à protéger vos informations personnelles. En savoir plus à propos des <a href="{ $url }">{ -brand-name-firefox-browsers }</a> et d’<a href="{ $url2 }">autres produits.</a>
 
 how-do-i = Comment obtenir { -brand-name-firefox-browser } ?
@@ -30,6 +31,7 @@ how-do-i = Comment obtenir { -brand-name-firefox-browser } ?
 you-can-easily = Vous pouvez facilement télécharger le navigateur { -brand-name-firefox } pour ordinateur <a href="{ $url }">ici</a>. { -brand-name-firefox } fonctionne sur les appareils <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> et <a href="{ $url4 }">{ -brand-name-linux }</a> et est également disponible pour <a href="{ $url5 }">{ -brand-name-android } et { -brand-name-ios }.</a> Assurez-vous que vous téléchargez bien notre navigateur depuis l’une de nos pages { -brand-name-mozilla }/{ -brand-name-firefox } de confiance.
 
 is-firefox-free = { -brand-name-firefox } est-il gratuit ?
+# Obsolete string (expires 25-04-2025)
 yep-the-firefox = Oui ! Le { -brand-name-firefox-browser } est gratuit. Vraiment gratuit. Il n’y a aucun coût caché. Vous n’avez pas besoin de payer quoi que ce soit pour l’utiliser, et nous ne revendons pas vos données personnelles.
 related-questions-free = Questions liées : le { -brand-name-firefox-browser } est-il gratuit ? { -brand-name-firefox } est-il payant ?
 
@@ -57,11 +59,13 @@ is-firefox-safe = { -brand-name-firefox } est-il sûr ?
 not-only-is = Non seulement { -brand-name-firefox } est sûr, mais il protège vos données et assure votre confidentialité. Le navigateur { -brand-name-firefox-browser } empêche les traqueurs, mineurs de cryptomonnaies et détecteurs d’empreintes numériques connus de collecter vos données. <a href="{ $url }">En savoir plus sur les garanties de confidentialité de nos produits.</a>
 
 related-questions-safe = Questions connexes : { -brand-name-firefox } protège-t-il la confidentialité ? { -brand-name-firefox } est-il sûr ? { -brand-name-firefox } est-il le meilleur navigateur pour protéger la vie privée ?
+# Obsolete string (expires 25-04-2025)
 does-firefox-sell = { -brand-name-firefox } vend-il vos données personnelles ?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+# Obsolete string (expires 25-04-2025)
 nope-never-have = Non. Absolument pas. Et nous vous protégeons de la plupart des annonceurs qui le font. Les produits { -brand-name-firefox } sont conçus pour protéger votre vie privée. <a href="{ $url }">Vous avez notre parole.</a>
 
 why-is-firefox = Pourquoi { -brand-name-firefox } est-il si lent ?
