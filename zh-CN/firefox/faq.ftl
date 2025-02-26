@@ -17,7 +17,6 @@ what-is-firefox = { -brand-name-firefox } 是什么？
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser }是唯一一款由非营利组织支持，不会将您的个人数据买给广告商，还能保护您个人信息的主流浏览器。详细了解 <a href="{ $url }">{ -brand-name-firefox-browsers }</a>和<a href="{ $url2 }">其他产品</a>。
-the-firefox-browser-the-only = { -brand-name-firefox-browser }唯一由非营利组织支持的主流浏览器可帮助您保护个人信息。详细了解<a href="{ $url }">{ -brand-name-firefox-browsers }</a>和<a href="{ $url2 }">其他产品</a>。
 how-do-i = 如何下载安装 { -brand-name-firefox-browser }？
 
 # Variables:
@@ -31,7 +30,6 @@ you-can-easily = 您可以<a href="{ $url }">在此</a>轻松下载到 { -brand-
 is-firefox-free = { -brand-name-firefox } 收费吗？
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = 不用，使用 { -brand-name-firefox-browser }是完全免费的！您无需支付任何费用，我们也不会出售您的个人数据。
-yep-the-firefox-browser-is-free = 没问题{ -brand-name-firefox-browser }是免费的。非常免费。没有任何隐藏费用。您无需支付任何费用即可使用。
 related-questions-free = 相关问题：{ -brand-name-firefox-browser }是否免费；{ -brand-name-firefox } 是否需要付费
 is-chrome-better = { -brand-name-chrome } 比 { -brand-name-firefox } 更好吗？
 no-we-dont = 不，我们并不觉得 { -brand-name-chrome } 比 { -brand-name-firefox } 更好。这是因为：当人们在问哪款浏览器“比较好”时，实际上是在问哪款浏览器更快、更安全。{ -brand-name-firefox } 每个月都会更新，确保让您总是用到最快、最尊重您隐私的浏览器。
