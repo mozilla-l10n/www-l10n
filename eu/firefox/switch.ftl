@@ -19,7 +19,6 @@ switch-still-not-convinced = Oraindik ez duzu sinesten { -brand-name-firefox }er
 switch-enjoy-the-web-faster = Gozatu web azkarragoaz, dena zuretzat ezarria.
 switch-download-and-switch = Deskargatu eta pasa zaitez
 switch-share-to-facebook = Partekatu Facebooken
-switch-send-a-tweet = Bidali txio bat
 switch-hey = Aupa,
 switch-check-it-out = Emaiozu begiratu bat eta eman zure iritzia:
 switch-send-an-email = Bidali email bat

@@ -9,6 +9,5 @@ switch-switch-to-firefox = { -brand-name-firefox } වෙත මාරු වන
 switch-download-and-switch = බාගත කර මාරු වන්න
 switch-share-to-facebook = ෆේස්බුක් හි බෙදාගන්න.
 switch-share-to-facebook-updated = { -brand-name-facebook } වෙත බෙදාගන්න
-switch-send-a-tweet = ට්වීට් යවන්න
 switch-hey = ආයුබෝ,
 switch-send-an-email = වි-තැපෑලක් යවන්න

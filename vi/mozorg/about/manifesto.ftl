@@ -51,9 +51,8 @@ manifesto-we-are-committed-to-thinking = Chúng tôi cam kết với một inter
 manifesto-we-are-committed-to-diverse = Chúng tôi sẽ tập trung vào việc định hình Internet để thúc đẩy sự hợp tác giữa các cộng đồng đa dạng hợp tác vì lợi ích công cộng.
 manifesto-show-your-support = Thể hiện sự ủng hộ của bạn
 manifesto-an-internet-with-these = Một internet với những phẩm chất này sẽ không đi vào cuộc sống của chính nó. Các cá nhân và tổ chức phải nhúng những khát vọng này vào công nghệ internet và vào trải nghiệm của con người với internet. Tuyên ngôn và Phụ lục của { -brand-name-mozilla } thể hiện cam kết của { -brand-name-mozilla }, nhằm thúc đẩy những khát vọng này. Chúng tôi mong muốn hợp tác với mọi người và các tổ chức ở khắp mọi nơi, những người chia sẻ những mục tiêu này để biến internet thành một nơi thậm chí tốt hơn cho mọi người.
+# obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Tôi ủng hộ tầm nhìn về một mạng internet tốt hơn, lành mạnh hơn từ @mozilla, bạn sẽ tham gia chứ?
-manifesto-share-on-x = Chia sẻ trên X
-manifesto-share-on-x-aria-label = Chia sẻ trên X (trước đây là Twitter)
 manifesto-our-10-principles = <strong>10</strong> nguyên tắc của chúng tôi
 manifesto-read-the-entire-manifesto = Đọc toàn bộ tuyên ngôn
 manifesto-love-the-web = Yêu thích web?

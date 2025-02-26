@@ -51,9 +51,8 @@ manifesto-we-are-committed-to-thinking = Jsme zavázáni internetu, který povzn
 manifesto-we-are-committed-to-diverse = Jsme zavázáni internetu, který prohlubuje spolupráci mezi rozličnými komunitami a okruhy lidí, kteří mají společný a prospěšný cíl.
 manifesto-show-your-support = Ukažte svou podporu
 manifesto-an-internet-with-these = Internet s těmito kvalitami není samozřejmostí a nevznikne jen tak. Jednotlivci i organizace musí začlenit svou vizi internetu do technologií a svého prožitku na internetu. Manifest { -brand-name-mozilla(case: "gen") } reprezentuje její odhodlání tak nadále činit. Chceme spolupracovat s lidmi a organizacemi po celém světě, které sdílí náš cíl a představu o internetu jako o místě přátelském pro všechny.
+# obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Podporuji vizi lepšího a zdravějšího internetu, jakou má @mozilla. Přidáte se?
-manifesto-share-on-x = Sdílet na X
-manifesto-share-on-x-aria-label = Sdílet na X (dříve Twitter)
 manifesto-our-10-principles = <strong>Našich 10</strong> principů
 manifesto-read-the-entire-manifesto = Přečíst celý manifest
 manifesto-love-the-web = Máte rádi web?

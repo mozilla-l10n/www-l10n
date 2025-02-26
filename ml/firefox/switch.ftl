@@ -23,7 +23,6 @@ switch-enjoy-the-web-faster = വേഗത്തിൽ വെബു് ആസ്
 switch-download-and-switch = ഇറക്കിവച്ചിട്ടു് ഫയര്‍ഫോക്സിലേക്ക് മാറുക
 switch-share-to-facebook = ഫേസ്ബുക്കിൽ പങ്കിടുക
 switch-share-to-facebook-updated = { -brand-name-facebook }-ലേക്കു് പങ്കിടുക
-switch-send-a-tweet = ഒരു ട്വീറ്റ് അയയ്ക്കുക
 switch-hey = നമസ്കാരം,
 switch-check-it-out = ഇത് നോക്കിയിട്ട് എന്തു് തോന്നുന്നു എന്ന് പറയു:
 switch-send-an-email = ഒരു ഇതപാൽ അയയ്ക്കുക

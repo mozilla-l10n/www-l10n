@@ -37,6 +37,7 @@ manifesto-the-mozilla-manifesto-addendum = The { -brand-name-mozilla } Manifesto
 manifesto-pledge-for-a-healthy-internet = အဆင့်မြင့်လုံခြုံစိတ်ချရသောအင်တာနက်အတွက် အာမခံချက်
 manifesto-we-are-committed-to-thinking = ကျွန်ုပ်တို့သည်ဝေဖန်စဉ်းစားတွေးခေါ်မှု၊ ကျိုးကြောင်းဆင်ခြင်မှုအငြင်းပွားမှု၊ ဗဟုသုတနှင့်မျှဝေနိုင်သောအချက်အလက်များကိုမြင့်မားစေသောအင်တာနက်ဖြစ်လာရန်အခိုင်အမာကြိုးစားထားသည်။
 manifesto-show-your-support = သင်၏အထောက်အပံ့ကိုပြပါ
+# obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = @mozilla မှပိုမိုကောင်းမွန်အဆင်ပြေသောအင်တာနက်ရည်မှန်းချက်ကိုကျွန်ုပ်ထောက်ခံသည်၊ သင်ကျွန်ုပ်နှင့်ပူးပေါင်းမည်လား။
 manifesto-our-10-principles = <strong>ကျွနု်ပ်တို့ရဲ့ 10</strong> ခံယူချက်များ
 manifesto-read-the-entire-manifesto = စာတမ်းတစ်ခုလုံးကိုဖတ်ပါ

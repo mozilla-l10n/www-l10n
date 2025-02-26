@@ -51,9 +51,8 @@ manifesto-we-are-committed-to-thinking = Posvećeni smo internetu koji uzdiže k
 manifesto-we-are-committed-to-diverse = Posvećeni smo internetu koji katalizira saradnju među različitim zajednicama koje rade zajedno za zajedničko dobro.
 manifesto-show-your-support = Pokažite svoju podršku
 manifesto-an-internet-with-these = Internet sa ovim kvalitetima neće oživjeti samostalno. Pojedinci i organizacije moraju uključiti te aspiracije u internet tehnologiju i u ljudsko iskustvo sa internetom. { -brand-name-mozilla } Manifesto i Addendum predstavljaju Mozilinu posvećenost unapređenju ovih aspiracija. Cilj nam je da radimo zajedno svugdje sa ljudima i organizacijama koji dijele ove ciljeve kako bi internet postao još bolji prostor za sve.
+# obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Podržavam viziju boljeg, zdravijeg interneta od @mozilla, hoćeš mi se pridružiti?
-manifesto-share-on-x = Podijeli na X-u
-manifesto-share-on-x-aria-label = Podijeli na X-u (bivši Twitter)
 manifesto-our-10-principles = <strong>Naših 10</strong> Načela
 manifesto-read-the-entire-manifesto = Pročitajte cijeli manifest
 manifesto-love-the-web = Volite web?

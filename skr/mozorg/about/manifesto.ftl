@@ -51,9 +51,8 @@ manifesto-we-are-committed-to-thinking = اساں ہک اینجھے انٹرنی
 manifesto-we-are-committed-to-diverse = اساں ہک اینجھے انٹرنیٹ کیتے سرٻدھ ہیں جیڑھا سانجھی چنڳائی کیتے رل تے کم کرݨ والیاں ونو ون بیادریاں دے وچال تعاون کوں متحرک کریندا ہے۔
 manifesto-show-your-support = آپݨی سپورٹ ݙکھاؤ
 manifesto-an-internet-with-these = انہاں خصوصیات دے نال انٹرنیٹ خود ای زندہ نہ تھیسے۔ ڄݨے تے تنظیماں کوں انہاں خواہشاں کوں انٹرنیٹ ٹیکنالوجی تے انٹرنیٹ دے نال انسانی تجربے وِچ شامل کرݨا چاہیدا ہے۔ { -brand-name-mozilla } منشور تے ضمیمہ انہاں خواہشاں کوں اڳوں تے ودھاوݨ کیتے { -brand-name-mozilla } دے عزم دی نمائندگی کریندے ہن۔ اساݙا مقصد ہر جاہ انہاں لوکاں تے تنظیماں دے نال رل تے کم کرݨ ہے جیڑھے انٹرنیٹ کوں ہر ہک کیتے ٻیا وی بہتر جاہ بݨاوݨ کیتے انہاں مقاصد دا اشتراک کریندے ہن
+# obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = میں @mozilla نال بہتر، صحت مند انٹرنیٹ دے ویژن دی حمائت کریندا ہاں، بھلا تساں میݙے نال رلسو؟
-manifesto-share-on-x = X تے شیئر کرو
-manifesto-share-on-x-aria-label = X تے شیئر کرو(سابقہ ٹویٹر)
 manifesto-our-10-principles = <strong>ساݙے 10</strong> اصول
 manifesto-read-the-entire-manifesto = سارا منشور پڑھو
 manifesto-love-the-web = ویب نال پیار ہے؟

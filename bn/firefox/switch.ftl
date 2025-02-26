@@ -15,7 +15,6 @@ switch-still-not-convinced = এখনও বিশ্বাস হচ্ছে 
 switch-enjoy-the-web-faster = উপভোগ করুন দ্রুতগতির ওয়েব, সবকিছু আপনার জন্য সাজানো।
 switch-download-and-switch = ডাউনলোড ও বদল করুন
 switch-share-to-facebook = Facebook এ শেয়ার করুন
-switch-send-a-tweet = টুইট পাঠান
 switch-hey = সুপ্রিয়,
 switch-check-it-out = এটি ব্যবহার করে দেখুন এবং আপনি কী ভাবছেন তা আমাকে জানান:
 switch-send-an-email = ইমেইল পাঠান

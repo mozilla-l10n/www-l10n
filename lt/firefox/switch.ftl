@@ -18,7 +18,6 @@ switch-still-not-convinced = Vis dar abejojate, kad pradėti naudotis „{ -bran
 switch-enjoy-the-web-faster = Tęskite naršymą. Dabar jis bus dar spartesnis.
 switch-download-and-switch = Parsisiųsti ir pradėti naudotis
 switch-share-to-facebook = Pasidalinti „Facebook'e“
-switch-send-a-tweet = Skelbti „Twitter'yje“
 switch-hey = Labas!
 switch-check-it-out = Išbandyk ir papasakok, ar patiko:
 switch-send-an-email = Siųsti laišką

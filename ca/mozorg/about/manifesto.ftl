@@ -51,6 +51,7 @@ manifesto-we-are-committed-to-thinking = Estem compromesos amb una Internet que 
 manifesto-we-are-committed-to-diverse = Estem compromesos amb una Internet que catalitzi la col·laboració entre diverses comunitats que treballen juntes per al bé comú.
 manifesto-show-your-support = Doneu-hi suport
 manifesto-an-internet-with-these = Una Internet amb aquestes qualitats no es farà sola. Les persones i les organitzacions han d'incorporar aquestes aspiracions en la tecnologia d'Internet i en l'experiència humana a la xarxa. El Manifest de { -brand-name-mozilla } i l'Apèndix representen el compromís de { -brand-name-mozilla } d'avançar en aquestes aspiracions. Volem treballar conjuntament amb les persones i les organitzacions d'arreu del món que comparteixin aquests objectius per fer d'Internet un lloc encara millor per a tothom.
+# obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Jo comparteixo la visió de @mozilla de fer una Internet millor i més saludable. I vosaltres?
 manifesto-our-10-principles = <strong>Els nostres 10</strong> Principis
 manifesto-read-the-entire-manifesto = Llegiu el manifest sencer

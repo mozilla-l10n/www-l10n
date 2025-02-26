@@ -23,7 +23,6 @@ switch-enjoy-the-web-faster = Uživajte u webu brže, sve je postavljeno za vas.
 switch-download-and-switch = Preuzmite i prebacite se
 switch-share-to-facebook = Podijelite na Facebook-u
 switch-share-to-facebook-updated = Podijeli na { -brand-name-facebook }
-switch-send-a-tweet = Pošalji tvit
 switch-hey = Hej,
 switch-check-it-out = Provjeri i reci mi šta ti misliš o tome:
 switch-send-an-email = Pošalji email

@@ -51,9 +51,8 @@ manifesto-we-are-committed-to-thinking = Estamos comprometidos com uma internet 
 manifesto-we-are-committed-to-diverse = Estamos comprometidos com uma internet que catalisa a colaboração entre diversas comunidades a trabalhar juntas para o bem comum.
 manifesto-show-your-support = Mostre o seu apoio
 manifesto-an-internet-with-these = Uma internet com estas qualidades não ganhará vida por si própria. Os indivíduos e organizações devem embutir estas aspirações na tecnologia da internet e na experiência humana da internet. O Manifesto da { -brand-name-mozilla } e o Adendo representam o compromisso da { -brand-name-mozilla } para avançar estas aspirações. Queremos trabalhar junto com as pessoas e organizações em qualquer lugar que partilhem estes objetivos para fazer a internet um ainda melhor lugar para todos.
+# obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Eu apoio a visão da @mozilla para uma internet melhor e mais saudável. Você vai juntar-se a mim?
-manifesto-share-on-x = Partilhar no X
-manifesto-share-on-x-aria-label = Partilhar no X (anteriormente conhecido como Twitter)
 manifesto-our-10-principles = Os <strong>nossos 10</strong> princípios
 manifesto-read-the-entire-manifesto = Ler o manifesto completo
 manifesto-love-the-web = Você adora a web?

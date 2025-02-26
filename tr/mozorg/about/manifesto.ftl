@@ -51,9 +51,8 @@ manifesto-we-are-committed-to-thinking = Biz; eleştirel düşünceye, mantığa
 manifesto-we-are-committed-to-diverse = Biz, farklılıkları olan topluluk ve grupları ortak bir fayda uğruna birlikte çalışmaya teşvik eden bir interneti savunuyoruz.
 manifesto-show-your-support = Desteğinizi gösterin
 manifesto-an-internet-with-these = Böyle bir internet kendi kendine hayat bulamaz. Bireyler ve kurumlar, özlem duyduğumuz bu nitelikleri hem internet teknolojilerine hem de internetteki insan deneyimine yerleştirmelidir. { -brand-name-mozilla } Manifestosu ve Manifesto Eki, { -brand-name-mozilla }’nın bu nitelikleri hayata geçirme sözünü temsil ediyor. { -brand-name-mozilla } olarak biz, interneti herkes için daha iyi bir yere dönüştürmek adına, hedeflerimizi paylaşan tüm insanlar ve kurumlarla işbirliği yapmayı amaçlıyoruz.
+# obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = @mozilla’nın daha güzel, daha sağlıklı internet vizyonunu destekliyorum. Siz de katılmaz mısınız?
-manifesto-share-on-x = X’te paylaş
-manifesto-share-on-x-aria-label = X’te (eski adıyla Twitter) paylaş
 manifesto-our-10-principles = <strong>10</strong> ilkemiz
 manifesto-read-the-entire-manifesto = Manifestonun tamamını okuyun
 manifesto-love-the-web = Web’i seviyor musunuz?

@@ -7,7 +7,6 @@
 
 switch-download-and-switch = Жүктеп алу және ауысу
 switch-share-to-facebook = Facebook арқылы бөлісу
-switch-send-a-tweet = Твит жіберу
 switch-hey = Сәлем,
 switch-check-it-out = Мұны тексеріп, өз ойларыңызды айтыңыз:
 switch-send-an-email = Эл. поштаны жіберу

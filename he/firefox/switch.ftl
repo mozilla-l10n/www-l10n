@@ -17,7 +17,6 @@ switch-still-not-convinced = עדיין לא השתכנעת שהמעבר ל־{ -
 switch-download-and-switch = הורדה ומעבר
 switch-share-to-facebook = שיתוף ב־Facebook
 switch-share-to-facebook-updated = שיתוף ב־{ -brand-name-facebook }
-switch-send-a-tweet = שליחת ציוץ
 switch-hey = היי,
 switch-check-it-out = כדאי לבדוק ולהעניק משוב על התהליך:
 switch-send-an-email = שליחת דוא״ל

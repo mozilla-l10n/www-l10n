@@ -51,9 +51,8 @@ manifesto-we-are-committed-to-thinking = Vad sägs om ett internet som värderar
 manifesto-we-are-committed-to-diverse = Vi står för ett internet som främjar samarbete mellan olika samhällen till fördel för det gemensamma bästa.
 manifesto-show-your-support = Visa ditt stöd
 manifesto-an-internet-with-these = Ett internet med dessa egenskaper uppkommer inte av sig själv. Människor och organisationer behöver integrera dessa mål i både internetteknik och personlig erfarenhet på internet. { -brand-name-mozilla }s manifest och tillägg står för { -brand-name-mozilla }s engagemang för dessa mål. Vi vill arbeta med människor och organisationer runt om i världen som delar dessa mål och vill bidra till ett bättre internet för alla.
+# obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Jag stöder visionen om ett bättre och hälsosammare internet från @mozilla - du också?
-manifesto-share-on-x = Dela på X
-manifesto-share-on-x-aria-label = Dela på X (tidigare Twitter)
 manifesto-our-10-principles = <strong>Våra 10</strong> grundsatser
 manifesto-read-the-entire-manifesto = Läs hela manifestet
 manifesto-love-the-web = Älskar du internet?

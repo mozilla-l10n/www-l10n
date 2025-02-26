@@ -23,7 +23,6 @@ switch-enjoy-the-web-faster = Карыстайцеся інтэрнэтам ху
 switch-download-and-switch = Сцягнуць і перайсці
 switch-share-to-facebook = Падзяліцца на Facebook
 switch-share-to-facebook-updated = Падзяліцца ў { -brand-name-facebook }
-switch-send-a-tweet = Адправіць твіт
 switch-hey = Гэй,
 switch-check-it-out = Паспрабуй і раскажы, што думаеш:
 switch-send-an-email = Даслаць ліст

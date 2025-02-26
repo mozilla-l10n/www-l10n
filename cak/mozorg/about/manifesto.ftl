@@ -51,6 +51,7 @@ manifesto-we-are-committed-to-thinking = Qaq'uq'un qi' rik'in jun k'amaya'l nuni
 manifesto-we-are-committed-to-diverse = Qaq'u'un qi' rik'in jun k'amaya'l ri nunimirisaj to'ïk chi kikojol jalajöj tinamït, ri junam yekisamajij ri kisamaj.
 manifesto-show-your-support = Tak'utu' ri Ato'ik
 manifesto-an-internet-with-these = Jun k'amaya'l ke re' rub'anikil man ruyonil ta xtik'ase' el. Ri winaqi' chuqa' ri taq moloj k'o chi kajowan ri' pa ruwi' ri runa'ob'al K'amaya'l chuqa' pa ruwi' retamab'al winäq rik'in k'amaya'l. Ri Tzijoxïk chuqa' ri Rutz'aqat { -brand-name-mozilla } nuya' retal chi ri { -brand-name-mozilla } ruq'uq'un ri' richin yeruyäk ri taq rayib'äl ri'. Ri qarayib'al chi junam yojsamäj kik'in ri winaqi' chuqa' taq moloj xab'akuchi' akuchi' yekikomonij re taq rayib'äl re' richin nib'an jun k'amaya'l yalan ütz chi qawäch qonojel.
+# obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Nato' ri ruwachijal @mozilla richin jun utziläj chuqa' raxinäq k'amaya'l, ¿la xtatün awi' wik'in?
 manifesto-our-10-principles = <strong>Ri 10 qichin</strong> Taq ruk'u'x tzij
 manifesto-read-the-entire-manifesto = Tasik'ij ri tz'aqät tzijoxik

@@ -51,9 +51,8 @@ manifesto-we-are-committed-to-thinking = Zastupujemy internet, kotryž kritiske 
 manifesto-we-are-committed-to-diverse = Zastupujemy internet, kotryž zhromadne dźěło wšelakich zhromadźenstwow doprědka ćěri, kotrež za zhromadne dobro hromadźe dźěłaja.
 manifesto-show-your-support = Pokazajće swoju podpěru
 manifesto-an-internet-with-these = Internet z tutymi kwalitami sam wot so njenastawa. Wosoby a organizacije dyrbja tute cile k internetnej technologiji a k čłowjeskemu dožiwjenju z internetom přinošować. Manifest { -brand-name-mozilla } a přidatk reprezentujetej angažowanosć { -brand-name-mozilla } za rozšěrjowanje tutych cilow. Prócujemy so wo zhromadne dźěło z ludźimi a organizacijemi wšudźe, kotrež tute cile dźěla, zo bychmy internet k hišće lěpšemu městnu za kóždeho činili.
+# obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Podpěruju wiziju lěpšeho, strowšeho interneta wot @mozilla, chceće so nam přidružić?
-manifesto-share-on-x = Na X dźělić
-manifesto-share-on-x-aria-label = Na X dźělić (bywši Twitter)
 manifesto-our-10-principles = <strong>Našich 10</strong> principow
 manifesto-read-the-entire-manifesto = Čitajće cyły manifest
 manifesto-love-the-web = Lubujeće web?

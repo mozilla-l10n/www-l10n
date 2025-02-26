@@ -51,9 +51,8 @@ manifesto-we-are-committed-to-thinking = I jemi përkushtuar një interneti që 
 manifesto-we-are-committed-to-diverse = I jemi përkushtuar një interneti që shërben si katalizator i bashkëpunimit mes bashkësive të larmishme që punojnë tok për të mirën e përbashkët.
 manifesto-show-your-support = Shpalosni Përkrahjen Tuaj
 manifesto-an-internet-with-these = Një internet me këto cilësi nuk lind vetvetiu. Individë dhe ente duhet t’i rrënjosin këto aspirata në teknologji internetore dhe në ndërveprimin e njerëzve me internetin. { -brand-name-mozilla } Manifesto dhe Addendum-i përfaqësojnë përkushtimin e { -brand-name-mozilla }-s ndaj shpënies përpara të këtyre aspiratave. Synojmë të punojmë së bashku kudo me njerëz dhe ente që pajtohen me këto synime për ta bërë internetin një vend edhe më të mirë për këdo.
+# obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Përkrah vizionin e @mozilla-s për një internet më të mirë, më të shëndetshëm, a do të më pasoni?
-manifesto-share-on-x = Ndajeni me të tjerët në X
-manifesto-share-on-x-aria-label = Ndajeni me të tjerë në X (ish-Twitter)
 manifesto-our-10-principles = <strong>10</strong> Parimet Tona
 manifesto-read-the-entire-manifesto = Lexoni krejt manifestin
 manifesto-love-the-web = E doni web-in?

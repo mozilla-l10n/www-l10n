@@ -7,6 +7,5 @@
 
 switch-switch-to-firefox = Gwintañ betek { -brand-name-firefox }
 switch-share-to-facebook = Rannañ war Facebook
-switch-send-a-tweet = Kas un tweet
 switch-hey = Hag a nevez,
 switch-send-an-email = Kas ur postel

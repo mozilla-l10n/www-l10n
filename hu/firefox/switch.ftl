@@ -23,7 +23,6 @@ switch-enjoy-the-web-faster = Élvezze a gyorsabb webet, előre beállítva.
 switch-download-and-switch = Letöltés és váltás
 switch-share-to-facebook = Megosztás Facebookon
 switch-share-to-facebook-updated = Megosztás { -brand-name-facebook }on
-switch-send-a-tweet = Tweet küldése
 switch-hey = Szia!
 switch-check-it-out = Nézd meg te is, és mondd el mit gondolsz:
 switch-send-an-email = E-mail küldése

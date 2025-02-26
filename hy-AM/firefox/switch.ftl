@@ -20,7 +20,6 @@ switch-still-not-convinced = Դեռ համոզված չ՞եք, որ անցում
 switch-enjoy-the-web-faster = Վայելեք վեբը ավելի արագ:
 switch-download-and-switch = Ներբեռնել և անցում կատարել
 switch-share-to-facebook = Կիսվել Facebook-ում
-switch-send-a-tweet = Ուղարկել tweet
 switch-hey = Հե՜յ,
 switch-check-it-out = Ստուգեք այն և ասեք, թե ինչ եք կարծում.
 switch-send-an-email = Ուղարկել էլ. փոստով

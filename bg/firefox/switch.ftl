@@ -19,7 +19,6 @@ switch-still-not-convinced = Все още не сте убедени, че пр
 switch-enjoy-the-web-faster = Насладете се на бързо разглеждане, всичко е готово.
 switch-download-and-switch = Изтеглете и преминете
 switch-share-to-facebook = Споделяне във Facebook
-switch-send-a-tweet = Публикуване в Tweeter
 switch-hey = Здравей,
 switch-check-it-out = Пробвай и кажи какво мислиш:
 switch-send-an-email = Изпращане на писмо

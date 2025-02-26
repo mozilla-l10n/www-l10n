@@ -23,7 +23,6 @@ switch-enjoy-the-web-faster = Truy cập web nhanh hơn, tất cả đã thiết
 switch-download-and-switch = Tải xuống và chuyển đổi
 switch-share-to-facebook = Chia sẻ lên Facebook
 switch-share-to-facebook-updated = Chia sẻ lên { -brand-name-facebook }
-switch-send-a-tweet = Gửi một tweet
 switch-hey = Này,
 switch-check-it-out = Kiểm tra nó và cho tôi biết những gì bạn nghĩ:
 switch-send-an-email = Gửi thư điện tử

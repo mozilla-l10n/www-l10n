@@ -17,7 +17,6 @@ switch-still-not-convinced = { -brand-name-firefox } သို့ပြောင
 switch-enjoy-the-web-faster = သင့်အတွက် ဆက်တင်ချထားသော လျင်မြန်သော ဝဘ်ကို ခံစားပါ။
 switch-download-and-switch = ဒေါင်းလုပ်လုပ်ပြီး ဖွင့်ပါ။
 switch-share-to-facebook = Facebook သို့ မျှဝေပါ
-switch-send-a-tweet = တွိတစ်ခု ပေးပို့ပါ
 switch-hey = ဟေး
 switch-check-it-out = အဲဒါကိုစစ်ဆေးပြီးသင်အတွေးကိုသိပါရစေ။
 switch-send-an-email = အီးမေးလ်တစ်စောင် ပေးပို့ပါ

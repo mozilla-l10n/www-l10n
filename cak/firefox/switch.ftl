@@ -23,7 +23,6 @@ switch-enjoy-the-web-faster = Tak'owisaj ak'u'x rik'in ri ajk'amaya'l yalan anin
 switch-download-and-switch = Tiqasäx chuqa' tijal
 switch-share-to-facebook = Tikomonïx pa Facebook
 switch-share-to-facebook-updated = Tikomonïx pa { -brand-name-facebook }
-switch-send-a-tweet = Titaq jun twit
 switch-hey = Tatz'eta',
 switch-check-it-out = Tanik'oj chuqa' tatzijoj chwe ri nana'ojij:
 switch-send-an-email = Titaq jun taqoya'l

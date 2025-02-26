@@ -36,6 +36,7 @@ manifesto-the-mozilla-manifesto-addendum = Suplemento al la manifesto de { -bran
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = Promeso por sana Interreto
 manifesto-show-your-support = Montri vian subtenon
+# obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Mi subtenas la projekton de @mozilla pri pli bona, pli sana interreto. Ĉu vi akompanas min?
 manifesto-our-10-principles = <strong>Niaj 10</strong> principoj
 manifesto-read-the-entire-manifesto = Legu la tutan manifeston

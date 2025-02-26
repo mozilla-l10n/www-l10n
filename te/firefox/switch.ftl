@@ -13,6 +13,5 @@ switch-switch-to-firefox = { -brand-name-firefox }కు మారండి
 switch-still-not-convinced = { -brand-name-firefox }కి మారడం సులువని ఇంకా నమ్మకం కుదర్లేదా?
 switch-download-and-switch = దించుకొని మారండి
 switch-share-to-facebook = ఫేస్‌బుక్‌లో పంచుకోండి
-switch-send-a-tweet = ఒక ట్వీటుని పంపండి
 switch-hey = హేయ్,
 switch-send-an-email = ఒక ఈమెయిలు పంపండి

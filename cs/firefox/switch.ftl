@@ -23,7 +23,6 @@ switch-enjoy-the-web-faster = Užijte si rychlejší web připravený jen pro v�
 switch-download-and-switch = Stáhněte a přejděte
 switch-share-to-facebook = Sdílet na Facebooku
 switch-share-to-facebook-updated = Sdílet na { -brand-name-facebook(case: "loc") }
-switch-send-a-tweet = Tweetnout
 switch-hey = Ahoj,
 switch-check-it-out = Vyzkoušej to, a napiš mi, co si o tom myslíš:
 switch-send-an-email = Odeslat e-mail

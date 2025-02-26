@@ -51,9 +51,8 @@ manifesto-we-are-committed-to-thinking = ਅਸੀਂ ਇਕ ਅਜਿਹੇ ਇ
 manifesto-we-are-committed-to-diverse = ਅਸੀਂ ਇੱਕ ਅਜਿਹੇ ਇੰਟਰਨੈਟ ਲਈ ਵਚਨਬੱਧ ਹਾਂ ਜੋ ਆਮ ਲੋਕਾਂ ਲਈ ਇਕੱਠੇ ਮਿਲ ਕੇ ਕੰਮ ਕਰਨ ਦੇ ਨਾਲ ਮਿਲਵਰਤਣ ਦਾ ਸੰਚਾਲਨ ਕਰਦਾ ਹੈ।
 manifesto-show-your-support = ਆਪਣਾ ਸਹਿਯੋਗ ਵਿਖਾਓ
 manifesto-an-internet-with-these = ਇਹਨਾਂ ਗੁਣਾਂ ਵਾਲਾ ਇੰਟਰਨੈੱਟ ਆਪਣੇ ਆਪ ਹੀ ਨਹੀਂ ਆਉਣਾ ਹੈ। ਵਿਅਕਤੀਆਂ ਅਤੇ ਸੰਗਠਨਾਂ ਨੂੰ ਇੰਟਰਨੈਟ ਤਕਨਾਲੋਜੀ ਵਿਚ ਅਤੇ ਇੰਟਰਨੈੱਟ ਦੇ ਨਾਲ ਮਨੁੱਖੀ ਤਜ਼ਰਬਿਆਂ ਵਿਚ ਇਹ ਆਸਾਂ ਲਾਉਣੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ। { -brand-name-mozilla } ਮੈਨੀਫੈਸਟੋ ਅਤੇ ਅਡੰਡਮਮੰਜ਼ ਇਹ ਮੌਕਿਆਂ ਦੀ ਅਗਾਂਹ ਵਧਣ ਦੀ { -brand-name-mozilla } ਦਾ ਸਮਰਪਣ ਦਰਸਾਉਂਦਾ ਕਰਦਾ ਹੈ। ਸਾਡਾ ਮਕਸਦ ਹਰ ਜਗ੍ਹਾ ਲੋਕਾਂ ਅਤੇ ਸੰਸਥਾਵਾਂ ਨਾਲ ਮਿਲ ਕੇ ਕੰਮ ਕਰਨਾ ਹੈ, ਜੋ ਹਰ ਇੱਕ ਲਈ ਇੱਕ ਬਿਹਤਰ ਸਥਾਨ ਬਣਾਉਣ ਲਈ ਇਹਨਾਂ ਟੀਚਿਆਂ ਨੂੰ ਸਾਂਝੇ ਕਰਦਾ ਹੈ।
+# obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = ਮੈਂ @ਮੋਜ਼ੀਲਾ ਤੋਂ ਇੱਕ ਬਿਹਤਰ, ਤੰਦਰੁਸਤ ਇੰਟਰਨੈਟ ਦੇ ਦ੍ਰਿਸ਼ਟੀਕੋਣ ਦਾ ਸਮਰਥਨ ਕਰਦਾ ਹਾਂ, ਕੀ ਤੁਸੀਂ ਮੇਰੇ ਨਾਲ ਸ਼ਾਮਲ ਹੋਵੋਗੇ?
-manifesto-share-on-x = X ਉੱਤੇ ਸਾਂਝਾ ਕਰੋ
-manifesto-share-on-x-aria-label = X ਉੱਤੇ ਸਾਂਝਾ ਕਰੋ (ਪੁਰਾਣਾ ਟਵਿੱਟਰ)
 manifesto-our-10-principles = <strong>ਸਾਡਾ 10</strong> ਸਿਧਾਂਤ
 manifesto-read-the-entire-manifesto = ਸਾਰੇ ਮੈਨੀਫੈਸਟੋ ਨੂੰ ਪੜ੍ਹੋ
 manifesto-love-the-web = ਵੈਬ ਨੂੰ ਪਸੰਦ ਹੈ?

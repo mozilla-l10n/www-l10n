@@ -19,7 +19,6 @@ switch-still-not-convinced = Hələ də { -brand-name-firefox }-a keçmənin asa
 switch-enjoy-the-web-faster = İnternetdə daha sürətli gəzin, hər şey sizin üçün hazırlanıb.
 switch-download-and-switch = Endir və keç
 switch-share-to-facebook = Facebook-da paylaş
-switch-send-a-tweet = Tweet göndər
 switch-hey = Salam,
 switch-check-it-out = Yoxla və mənə fikirlərini yaz:
 switch-send-an-email = E-poçt göndər

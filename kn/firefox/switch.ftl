@@ -8,6 +8,5 @@
 switch-switch-to-firefox = { -brand-name-firefox } ಗೆ ಬದಲಿಸಿ
 switch-download-and-switch = ಡೌನ್ಲೋಡ್ ಮತ್ತು ಬದಲಿಸಿ
 switch-share-to-facebook = ಫೇಸ್ಬುಕ್‍ಗೆ ಹಂಚಿಕೊಳ್ಳಿ
-switch-send-a-tweet = ಟ್ವೀಟ್ ಒಂದನ್ನು ಕಳುಹಿಸು
 switch-hey = ಹೇ,
 switch-send-an-email = ಇಮೇಲ್ ಕಳುಹಿಸಿ

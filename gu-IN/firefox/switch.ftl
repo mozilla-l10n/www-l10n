@@ -19,7 +19,6 @@ switch-still-not-convinced = હજુ પણ સહમત નથી કે { -b
 switch-enjoy-the-web-faster = વેબનો ઝડપી આનંદ કરો, તમારા માટે બધુ સેટ થઇ ગયુ છે.
 switch-download-and-switch = ડાઉનલોડ કરો અને બદલો
 switch-share-to-facebook = ફેસબુક પર વહેંચો
-switch-send-a-tweet = એક tweet મોકલો
 switch-hey = કેમ છો,
 switch-check-it-out = તેને તપાસો અને મને જણાવો કે તમે શું વિચારો છો:
 switch-send-an-email = ઈમેઇલ મોકલો

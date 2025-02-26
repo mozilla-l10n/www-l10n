@@ -23,7 +23,6 @@ switch-enjoy-the-web-faster = Наслаждайтесь быстрым Инте
 switch-download-and-switch = Загрузить и перейти
 switch-share-to-facebook = Поделиться на Фейсбуке
 switch-share-to-facebook-updated = Поделиться в { -brand-name-facebook(case: "prepositional") }
-switch-send-a-tweet = Отправить твит
 switch-hey = Привет,
 switch-check-it-out = Попробуй и расскажи, что думаешь:
 switch-send-an-email = Отправить письмо

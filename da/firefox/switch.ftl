@@ -23,7 +23,6 @@ switch-enjoy-the-web-faster = Nyd en hurtigere browser, lige til at tage i brug.
 switch-download-and-switch = Hent og skift
 switch-share-to-facebook = Del på Facebook
 switch-share-to-facebook-updated = Del på { -brand-name-facebook }
-switch-send-a-tweet = Send et tweet
 switch-hey = Hej
 switch-check-it-out = Prøv Firefox, og lad mig vide, hvad du synes:
 switch-send-an-email = Send en mail

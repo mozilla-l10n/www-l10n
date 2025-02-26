@@ -19,7 +19,6 @@ switch-still-not-convinced = Ĉu vi ankoraŭ ne estas konvinkita pri la facileco
 switch-enjoy-the-web-faster = Ĝui pli rapidan reton pli rapide, preta por vi.
 switch-download-and-switch = Elŝuti kaj transiri
 switch-share-to-facebook = Dividi en Facebook
-switch-send-a-tweet = Sendi kviviton
 switch-hey = Saluton,
 switch-check-it-out = Provu ĝin, kaj rakontu al mi tion, kion vi pensas:
 switch-send-an-email = Sendi retpoŝton

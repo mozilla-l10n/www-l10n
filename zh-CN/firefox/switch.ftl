@@ -23,7 +23,6 @@ switch-enjoy-the-web-faster = 一切自动搞定，享受更快的互联网。
 switch-download-and-switch = 下载并迁移
 switch-share-to-facebook = 分享到 Facebook
 switch-share-to-facebook-updated = 分享到 { -brand-name-facebook }
-switch-send-a-tweet = 发送推文
 switch-hey = 嗨，
 switch-check-it-out = 体验一下，然后告诉我你觉得怎么样吧：
 switch-send-an-email = 发送电子邮件

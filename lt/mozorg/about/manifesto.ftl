@@ -51,6 +51,7 @@ manifesto-we-are-committed-to-thinking = Esame pasišventę kurti internetą, sk
 manifesto-we-are-committed-to-diverse = Esame pasišventę kurti internetą, padedantį įvairiausias grupes bendradarbiauti, siekiant naudos visuomenei.
 manifesto-show-your-support = Išreikškite savo palaikymą
 manifesto-an-internet-with-these = Internetas netaps tobulu savaime. Asmenys ir organizacijos turi įpinti šiuos tikslus į interneto technologijas ir žmonių patirtį internete. { -brand-name-mozilla } manifestas ir jo priedas atspindi { -brand-name-mozilla } įsipareigojimą siekti šių tikslų. Juos įgyvendindami, mes bendradarbiaujame su asmenimis ir organizacijomis visame pasaulyje, taip pat kaip ir mes siekiančiais, kad internetas taptų dar geresne ir atviresne visiems erdve.
+# obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Aš palaikau @mozilla suformuluotą geresnio ir sveikesnio interneto viziją. Ar prisijungsite prie manęs?
 manifesto-our-10-principles = <strong>10 mūsų</strong> principų
 manifesto-read-the-entire-manifesto = Skaityti visą manifestą

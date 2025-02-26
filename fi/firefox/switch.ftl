@@ -23,7 +23,6 @@ switch-enjoy-the-web-faster = Nauti nopeammasta selailusta.
 switch-download-and-switch = Lataa ja vaihda
 switch-share-to-facebook = Jaa Facebookissa
 switch-share-to-facebook-updated = Jaa { -brand-name-facebook }issa
-switch-send-a-tweet = Twiittaa
 switch-hey = Terve,
 switch-check-it-out = Kokeile sitä ja kerro, mitä mieltä olet:
 switch-send-an-email = Lähetä sähköposti

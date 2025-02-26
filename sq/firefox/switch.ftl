@@ -23,7 +23,6 @@ switch-enjoy-the-web-faster = Shijoni web-in më të shpejtë, rregulluar në gj
 switch-download-and-switch = Shkarkojeni dhe kaloni në të
 switch-share-to-facebook = Ndajeni me ta në Facebook
 switch-share-to-facebook-updated = Ndajeni me të tjerë në { -brand-name-facebook }
-switch-send-a-tweet = Dërgoni një <em>tweet</em>
 switch-hey = Tungjatjeta,
 switch-check-it-out = Shiheni dhe më thoni se ç’mendoni:
 switch-send-an-email = Dërgoni një email

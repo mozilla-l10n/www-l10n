@@ -51,6 +51,7 @@ manifesto-we-are-committed-to-thinking = Suntem dedicați unui internet care pun
 manifesto-we-are-committed-to-diverse = Suntem dedicați unui internet cu rol de catalizator în colaborarea dintre comunități diverse care lucrează împreună pentru binele public.
 manifesto-show-your-support = Arată-ți sprijinul
 manifesto-an-internet-with-these = Un internet cu aceste calități nu va veni de la sine. Oamenii și organizațiile trebuie să încorporeze aceste aspirații în tehnologia internetului și în experiențele oamenilor pe internet. Manifestul nostru și Actul adițional la acesta reprezintă angajamentul { -brand-name-mozilla } de avansare a acestor aspirații. Dorim să lucrăm cu oameni și organizații de pretutindeni care împărtășesc aceste obiective pentru a face internetul mai bun pentru toți.
+# obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Susțin viziunea @mozilla pentru un internet mai bun și mai sănătos. Vrei să mi te alături?
 manifesto-our-10-principles = <strong>Cele 10</strong> principii
 manifesto-read-the-entire-manifesto = Citește întregul manifest

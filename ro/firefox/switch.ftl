@@ -23,7 +23,6 @@ switch-enjoy-the-web-faster = Bucură-te de web mai rapid, configurat pentru tin
 switch-download-and-switch = Descarcă și fă trecerea
 switch-share-to-facebook = Distribuie prin Facebook
 switch-share-to-facebook-updated = Distribuie prin { -brand-name-facebook }
-switch-send-a-tweet = Trimite un tweet
 switch-hey = Salut,
 switch-check-it-out = Încearcă-l și spune-mi ce părere ai:
 switch-send-an-email = Trimite un e-mail

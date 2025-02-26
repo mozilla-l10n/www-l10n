@@ -29,6 +29,7 @@ manifesto-08 = 08
 manifesto-09 = 09
 manifesto-10 = 10
 manifesto-show-your-support = הצגת התמיכה שלך
+# obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = תמיכתי נתונה לחזון של אינטרנט טוב יותר ובריא יותר בשיתוף עם ‎@mozilla, אפשר להזמין אותך להצטרף אלי?
 manifesto-our-10-principles = <strong>עשרת</strong> העקרונות שלנו
 manifesto-love-the-web = האינטרנט יקר ללבך?

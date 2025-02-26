@@ -23,7 +23,6 @@ switch-enjoy-the-web-faster = ისიამოვნეთ ინტერნ�
 switch-download-and-switch = ჩამოტვირთვა და გადმოსვლა
 switch-share-to-facebook = Facebook-ით
 switch-share-to-facebook-updated = გააზიარეთ { -brand-name-facebook }-ზე
-switch-send-a-tweet = დატვიტეთ
 switch-hey = ჰეი,
 switch-check-it-out = სცადეთ და თავად დარწმუნდით.
 switch-send-an-email = ელფოსტით

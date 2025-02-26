@@ -23,7 +23,6 @@ switch-enjoy-the-web-faster = Mak the maist o the wab faster, aw set up fur yers
 switch-download-and-switch = Doonload and switch
 switch-share-to-facebook = Share tae Facebook
 switch-share-to-facebook-updated = Share tae { -brand-name-facebook }
-switch-send-a-tweet = Send a tweet
 switch-hey = Haw,
 switch-check-it-out = Check it oot and lat me ken whit ye think:
 switch-send-an-email = Send an email

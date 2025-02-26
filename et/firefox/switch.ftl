@@ -19,7 +19,6 @@ switch-still-not-convinced = Sa pole ikka veendunud, et { -brand-name-firefox }i
 switch-enjoy-the-web-faster = Naudi kiiremat veebi, mis on just sulle kohandatud.
 switch-download-and-switch = Laadi alla ja vaheta
 switch-share-to-facebook = Jaga Facebookis
-switch-send-a-tweet = Saada säutsuga
 switch-hey = Tere!
 switch-check-it-out = Vaata järele ja ütle mulle, kuidas meeldis:
 switch-send-an-email = Saada e-kirjaga

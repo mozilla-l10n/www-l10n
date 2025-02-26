@@ -51,9 +51,8 @@ manifesto-we-are-committed-to-thinking = Мы выступаем за Интер
 manifesto-we-are-committed-to-diverse = Мы выступаем за Интернет, который способствует сотрудничеству между различными сообществами ради общего блага.
 manifesto-show-your-support = Выразите свою поддержку
 manifesto-an-internet-with-these = Интернет не может измениться сам по себе. Эти свойства должны быть встроены в Интернет-технологии и в опыт пользования Интернетом. Манифест { -brand-name-mozilla } и дополнение к манифесту свидетельствуют о готовности { -brand-name-mozilla } способствовать продвижению этих взглядов. Мы стремимся к сотрудничеству с людьми и организациями, которые разделяют наши принципы, чтобы вместе сделать Интернет лучшим.
+# obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Я поддерживаю видение лучшего, более здорового Интернета от @mozilla, вы со мной?
-manifesto-share-on-x = Поделиться на X
-manifesto-share-on-x-aria-label = Поделиться на X (ранее Twitter)
 manifesto-our-10-principles = <strong>Наши 10</strong> Принципов
 manifesto-read-the-entire-manifesto = Прочесть весь манифест
 manifesto-love-the-web = Любите Интернет?
