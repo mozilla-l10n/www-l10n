@@ -69,3 +69,7 @@ download-button-using-debian = Debian, Ubuntu या किसी Debian-आध�
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = इसे Microsoft से प्राप्त करें
 
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = यह बताएं कि आपको { -brand-name-firefox } के बारे में किस तरह पता चला और यह कि क्या आप { -brand-name-mozilla } के मार्केटिंग टेक्नोलॉजी पार्टनरों के साथ इसका उपयोग जारी रखे हुए हैं। कभी भी यह डेटा बेचा नहीं जाता है या इसका उपयोग आपको विज्ञापन दिखाने के लिए नहीं किया जाता है। <a { $attrs }>जानें कि हम डेटा का उपयोग कैसे करते हैं</a>।
