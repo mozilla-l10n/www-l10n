@@ -31,6 +31,7 @@ you-can-easily = Verziu prehliadača { -brand-name-firefox } pre počítač si m
 is-firefox-free = Je { -brand-name-firefox } zadarmo?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = Áno! { -brand-name-firefox-browser } je zadarmo. Vlastne úplne zadarmo. Žiadne skryté náklady ani nič podobné. Za jeho používanie nič neplatíte a vaše osobné údaje nepredávame.
+yep-the-firefox-browser-is-free = Áno! { -brand-name-firefox-browser } je zadarmo. Vlastne úplne zadarmo. Žiadne skryté náklady ani nič podobné. Za jeho používanie nič neplatíte.
 related-questions-free = Súvisiace otázky: je { -brand-name-firefox-browser(capitalization: "lower") } zadarmo, stojí { -brand-name-firefox } nejaké peniaze
 is-chrome-better = Je { -brand-name-chrome } lepší ako { -brand-name-firefox }?
 no-we-dont = Nie, nemyslíme si, že { -brand-name-chrome } je lepší ako { -brand-name-firefox }, a tu je dôvod: keď sa ľudia pýtajú, ktorý prehliadač je lepší, v skutočnosti sa pýtajú, ktorý prehliadač je rýchlejší a bezpečnejší. { -brand-name-firefox } sa aktualizuje mesačne, aby ste sa uistili, že máte najrýchlejší prehliadač, ktorý automaticky rešpektuje vaše súkromie.
