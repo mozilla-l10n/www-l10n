@@ -8,3 +8,4 @@
 # Breadcrumb navigation
 features-adblocker-ad-blocking = ບັອກການໂຄສະນາ
 features-adblocker-finding-the-right = ຊອກຫາຕົວສະກັດການໂຄສະນາທີ່ເຫມາະສົມສໍາລັບທ່ານ
+features-adblocker-tip-1 = <strong>ບລັອກໂຄສະນາ:</strong> ຖ້າທ່ານຕ້ອງການບລັອກໂຄສະນາເທົ່ານັ້ນ, ເລືອກທາງເລືອກທີ່ງ່າຍດາຍ ແລະ ເບົາ.
