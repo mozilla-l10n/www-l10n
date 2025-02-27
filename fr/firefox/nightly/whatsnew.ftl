@@ -16,6 +16,11 @@ nightly-whatsnew-every-4-to-5-weeks = Toutes les 4 à 5 semaines, une version ma
 
 nightly-whatsnew-this-is-a-good = Le moment est donc bien choisi pour vous remercier de nous aider à améliorer { -brand-name-firefox } et pour vous fournir quelques informations comme de la documentation, les canaux de communication et les sites proposant des actualités sur { -brand-name-nightly } qui pourraient vous intéresser.
 
+# Variables:
+#   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
+#   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
+nightly-whatsnew-if-you-want-to-v4 = Si vous voulez vous tenir au courant de tout ce qui concerne { -brand-name-nightly } et sa communauté, commencez par lire notre <a { $blog }>blog</a> et suivre nos comptes <a { $mastodon }>Mastodon</a> ou <a { $bluesky }>Bluesky</a> !
 
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
