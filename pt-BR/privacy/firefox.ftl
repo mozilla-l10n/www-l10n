@@ -18,6 +18,9 @@ privacy-firefox-were-clear-about = Deixamos claro quais dados usamos e o motivo.
 privacy-firefox-how-we-use = Como usamos os dados
 privacy-firefox-builtin-control = Controle integrado
 privacy-firefox-always-protected = Sempre protegido
+privacy-firefox-firefox-protects-you = O { -brand-name-firefox } protege você de conhecidos rastreadores de terceiros, rastreadores de mídias sociais, criptomineradores, cookies e tecnologias de rastreamento de identidade digital que tentam te seguir pela web.
+privacy-firefox-privacy-that-works = Privacidade sob medida para você
+privacy-firefox-firefox-makes-it = O { -brand-name-firefox } facilita o gerenciamento dos seus dados com recursos integrados de privacidade e segurança, além de oferecer configurações que permitem ajustar sua experiência de navegação.
 privacy-firefox-manage-your-privacy = Gerencie suas configurações de privacidade:
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-desktop = { -brand-name-firefox } para computador
@@ -30,5 +33,8 @@ privacy-firefox-contents = Conteúdo
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-take-me-back = <a { $attrs }>Voltar ao início</a> do aviso de privacidade
+# Variables:
+#   $attrs (string) - in-page link to the top of the page
+privacy-firefox-lost-in-the = Perdido nos detalhes? Volte às <a { $attrs }>informações básicas sobre privacidade do { -brand-name-firefox }</a>.
 # links to Mozilla privacy policy
 privacy-firefox-mozilla-privacy = Aviso de privacidade da { -brand-name-mozilla }
