@@ -17,6 +17,8 @@ legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = プライバシーと商標
 legal-privacy-notices-and-policy = プライバシーに関する通知・方針
 legal-downloadable-software-notices = ダウンロード可能なソフトウェアに関する通知
+# heading for the table of contents, a shorter heading is better
+legal-firefox-contents = コンテンツ
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: ユーザーの権利について
 legal-thunderbird = { -brand-name-thunderbird }

@@ -17,6 +17,8 @@ legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = Privasi & merek dagang
 legal-privacy-notices-and-policy = Kebijakan dan Pemberitahuan Privasi
 legal-downloadable-software-notices = Pemberitahuan perangkat lunak yang dapat diunduh
+# heading for the table of contents, a shorter heading is better
+legal-firefox-contents = Konten
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: Tentang Hak Anda
 legal-thunderbird = { -brand-name-thunderbird }
