@@ -20,10 +20,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Ka të gatshëm një { -brand-name-firefox } edhe më të ri. <a { $update_url }>Përditësojeni me versionin më të ri</a>
 firefox-desktop-download-get-the-browser = Merrni shfletuesin që mbron çka është e rëndësishme
+firefox-desktop-download-fast-reliable-private = I shpejtë, i qëndrueshëm dhe privat — për mendje të fjetur në internet.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Pa rregulla privatësie me hije, apo deriçka të pasme për reklamues. Thjesht një shfletues të shpejtë si rrufe, që nuk ju shet te të tjerët.
 firefox-desktop-download-download-options = Mundësi shkarkimi dhe gjuhë të tjera
 firefox-desktop-download-browser-support = Asistencë për { -brand-name-firefox-browser }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Bëni ç’të doni në internet.<br> { -brand-name-firefox-browser } ju mbron<strong>krahët</strong>.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Bëni ato çka bëni në internet.<br> { -brand-name-firefox-browser } <strong>s’ju</strong> vëzhgon.
 firefox-desktop-download-how-firefox-compares = Si del { -brand-name-firefox } në krahasim me shfletues të tjerë

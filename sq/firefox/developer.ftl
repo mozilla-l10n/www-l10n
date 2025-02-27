@@ -84,6 +84,8 @@ firefox-developer-view-the-release = Për të parë çka të re, shihni <a { $at
 firefox-developer-developer-tools-user = Dokumentime për Përdorues Mjetesh Zhvilluesi
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Burime nga Zhvillues, për Zhvillues
+firefox-developer-mdn-write-test-and-share = Shkruani, testoni dhe ndan me të tjerë kodin tuaj. Bankëprova juaj për të mësuar dhe ndarë me botën punën tuaj mahnitëse.
+firefox-developer-mdn-blog = Blogu i { -brand-name-mdn }
 firefox-developer-mdn-updates = Përditësime
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Referenca { -brand-name-mdn }

@@ -30,6 +30,7 @@ you-can-easily = Shfletuesin { -brand-name-firefox } për desktop mund ta shkark
 is-firefox-free = A është falas { -brand-name-firefox }-i?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = Ëhë! { -brand-name-firefox-browser }-i është falas. Superfalas, faktikisht. S’ka kosto të fshehura, e më the, të thashë. S’paguani gjë për ta përdorur dhe nuk i shesim të dhënat tuaja personale.
+yep-the-firefox-browser-is-free = Ëhë! { -brand-name-firefox-browser }-i është falas. Superfalas, faktikisht. S’ka kosto të fshehura, e më the, të thashë. S’paguani gjë për ta përdorur.
 related-questions-free = Pyetje të afërta: a është falas { -brand-name-firefox-browser }-i, a kushton para { -brand-name-firefox }-i
 is-chrome-better = A është { -brand-name-chrome }-i më i mirë se { -brand-name-firefox }-i?
 no-we-dont = Jo, nuk besojmë se { -brand-name-chrome }-i është më i mirë se { -brand-name-firefox }-i dhe ja pse: kur njerëzit pyesin se cili shfletues është më i miri, në fakt pyesin se cili shfletues është më i shpejtë dhe më i siguraur. { -brand-name-firefox }-i përditësohet çdo muaj, për të garantuar se keni shfletuesin më të shpejtë, që respekton automatikisht privatësinë tuaj.
