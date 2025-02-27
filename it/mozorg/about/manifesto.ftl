@@ -51,8 +51,10 @@ manifesto-we-are-committed-to-thinking = Ci impegniamo a realizzare un Internet 
 manifesto-we-are-committed-to-diverse = Ci impegniamo a realizzare un Internet che agevoli la collaborazione tra comunità differenti perché possano lavorare insieme per il bene comune.
 manifesto-show-your-support = Mostra il tuo sostegno
 manifesto-an-internet-with-these = Un Internet con queste qualità non nascerà in maniera autonoma. Gli individui e le organizzazioni devono incorporare queste aspirazioni nelle stesse tecnologie e nell’esperienza umana del Web. Il Manifesto { -brand-name-mozilla } e questo addendum testimoniano l’impegno di { -brand-name-mozilla } a promuovere le suddette aspirazioni. Il nostro obiettivo è lavorare insieme alle persone e organizzazioni di tutto il mondo che condividono la missione di rendere Internet un posto migliore per tutti.
+manifesto-i-support-the-vision-of-v2 = Io sostengo la visione di { -brand-name-mozilla } per un Internet migliore e più sano. Vuoi farlo anche tu?
 # obsolete (expires 2025-04-12)
-manifesto-i-support-the-vision-of = Io sostengo la visione di @mozilla per un Internet migliore e più in salute. Ti unisci a me?
+manifesto-i-support-the-vision-of = Io sostengo la visione di @mozilla per un Internet migliore e più sano. Vuoi farlo anche tu?
+manifesto-share-on-bluesky = Condividi su Bluesky
 manifesto-our-10-principles = <strong>I nostri 10</strong> principi
 manifesto-read-the-entire-manifesto = Leggi il manifesto completo
 manifesto-love-the-web = Ti piace il Web?

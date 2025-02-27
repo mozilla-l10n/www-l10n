@@ -17,5 +17,5 @@ nightly-firstrun-start-coding = Empezar a codificar
 nightly-firstrun-localize = Localizá
 nightly-firstrun-make-firefox-available = Hacé que { -brand-name-firefox } esté disponible (y mejor) en más idiomas alrededor del mundo.
 # Link used for the "Start localizing" button. You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n. Must start with http:// or https://
-nightly-firstrun-contribute-link = https://www.mozilla-hispano.org/documentacion/Colabora
+nightly-firstrun-contribute-link = https://pontoon.mozilla.org
 nightly-firstrun-start-localizing = Empezar a localizar

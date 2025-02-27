@@ -13,5 +13,5 @@ nightly-firstrun-code = Encodar
 nightly-firstrun-start-coding = Començar d'encodar
 nightly-firstrun-localize = Traduire
 # Link used for the "Start localizing" button. You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n. Must start with http:// or https://
-nightly-firstrun-contribute-link = https://github.com/mozfr/besogne/wiki/Traduction
+nightly-firstrun-contribute-link = https://pontoon.mozilla.org
 nightly-firstrun-start-localizing = Començatz de traduire
