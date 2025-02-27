@@ -23,6 +23,8 @@ switch-enjoy-the-web-faster = Užite si rýchlejší web.
 switch-download-and-switch = Stiahnuť a prejsť
 switch-share-to-facebook = Zdieľajte to na Facebooku
 switch-share-to-facebook-updated = Zdieľať na { -brand-name-facebook(case: "loc") }
+# Note: Bluesky is a brand name and should not be translated
+switch-share-to-bluesky = Zdieľať na Bluesky
 switch-hey = Zdravím,
 switch-check-it-out = Vyskúšajte ho a povedzte mi váš názor:
 switch-send-an-email = Odošlite e‑mail
