@@ -23,6 +23,8 @@ switch-enjoy-the-web-faster = Wjeselće so nad spěšnišim internetom, zarjadow
 switch-download-and-switch = Sćahnyć a přeńć
 switch-share-to-facebook = Z Facebook dźělić
 switch-share-to-facebook-updated = Na { -brand-name-facebook } dźělić
+# Note: Bluesky is a brand name and should not be translated
+switch-share-to-bluesky = Z Bluesky dźělić
 switch-hey = Hej,
 switch-check-it-out = Přeswědčće so a zdźělće mi swoje měnjenje:
 switch-send-an-email = Mejlku pósłać

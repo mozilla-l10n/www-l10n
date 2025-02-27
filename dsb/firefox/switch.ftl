@@ -23,6 +23,8 @@ switch-enjoy-the-web-faster = Wjaselśo se malsnemu internetoju, zarědowanemu z
 switch-download-and-switch = Ześěgnuś a pśejś
 switch-share-to-facebook = Z Facebook źěliś
 switch-share-to-facebook-updated = Na { -brand-name-facebook } źěliś
+# Note: Bluesky is a brand name and should not be translated
+switch-share-to-bluesky = Z Bluesky źěliś
 switch-hey = Hej,
 switch-check-it-out = Pśeznańśo se a dajśo mě k swójo měnjenje k wěsći:
 switch-send-an-email = Mejlku pósłaś
