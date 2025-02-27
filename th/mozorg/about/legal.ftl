@@ -18,6 +18,8 @@ legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = ความเป็นส่วนตัวและเครื่องหมายการค้า
 legal-privacy-notices-and-policy = ประกาศและนโยบายความเป็นส่วนตัว
 legal-downloadable-software-notices = ประกาศเกี่ยวกับซอฟต์แวร์ที่สามารถดาวน์โหลดได้
+# heading for the table of contents, a shorter heading is better
+legal-firefox-contents = สารบัญ
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: เกี่ยวกับสิทธิของคุณ
 legal-thunderbird = { -brand-name-thunderbird }
