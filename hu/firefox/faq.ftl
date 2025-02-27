@@ -17,7 +17,7 @@ what-is-firefox = Mi a { -brand-name-firefox }?
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = A { -brand-name-firefox-browser } az egyetlen nagy böngésző, amit egy nonprofilt szervezet támogat, amelyik nem adja el a személyes adatait a hirdetőknek, miközben segít megvédeni a személyes adatait. Tudjon meg többet a <a href="{ $url }">{ -brand-name-firefox-browsers }kről</a> és a <a href="{ $url2 }">további termékekről.</a>
-the-firefox-browser-the-only = A { -brand-name-firefox-browser }, az egyetlen nagy böngésző, melyet egy nonprofit szervezet támogat, segít megvédeni személyes adatait. Tudjon meg többet a <a href="{ $url }">{ -brand-name-firefox-browsers }</a> és <a href="{ $url2 }">más termékekről</a>.
+the-firefox-browser-the-only = A { -brand-name-firefox-browser }, az egyetlen nagy böngésző, melyet egy nonprofit szervezet támogat, segít megvédeni személyes adatait. Tudjon meg többet a <a href="{ $url }">{ -brand-name-firefox-browsers }ről</a> és <a href="{ $url2 }">más termékekről</a>.
 how-do-i = Hogyan szerezhetem be a { -brand-name-firefox-browser }t?
 
 # Variables:
@@ -31,7 +31,7 @@ you-can-easily = <a href="{ $url }">Innen</a> könnyedén letöltheti az asztali
 is-firefox-free = A { -brand-name-firefox } ingyenes?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = Igen! A { -brand-name-firefox-browser } ingyenes. Teljesen ingyenes. Nincsenek rejtett költségek vagy egyebek. Nem fizet semmit a használatáért, és nem adjuk el a személyes adatait.
-yep-the-firefox-browser-is-free = Igen! A { -brand-name-firefox-browser } ingyenes. Szuper szabad, sőt. Nincsenek rejtett költségek vagy ilyesmi. Nem fizet semmit a használatáért.
+yep-the-firefox-browser-is-free = Igen! A { -brand-name-firefox-browser } ingyenes. Teljesen ingyenes. Nincsenek rejtett költségek vagy egyebek. Nem fizet semmit a használatáért.
 related-questions-free = Kapcsolódó kérdések: a { -brand-name-firefox-browser } ingyenes, pénzbe kerül-e a { -brand-name-firefox }
 is-chrome-better = A { -brand-name-chrome } jobb, mint a { -brand-name-firefox }?
 no-we-dont = Nem, nem gondoljuk, hogy a { -brand-name-chrome } jobb lenne, mint a { -brand-name-firefox }, és ennek ez az oka: amikor az emberek azt kérdezik, hogy melyik böngésző a jobb, arra kíváncsiak, hogy melyik böngésző gyorsabb és biztonságosabb. A { -brand-name-firefox } havonta frissül, hogy biztosan a leggyorsabb böngészője legyen, amely automatikusan tiszteletben tartja a magánszféráját.

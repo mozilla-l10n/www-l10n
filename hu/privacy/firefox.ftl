@@ -9,8 +9,8 @@
 privacy-firefox-basics = Adatvédelmi alapok
 privacy-firefox-youre-in-control = Ön irányít
 privacy-firefox-privacy-isnt-just = Az adatvédelem nem csak egy beállítás – ez Önnek joga van. A { -brand-name-firefox } Adatvédelmi nyilatkozat az egyértelműségre, az ellenőrzésre és a felelősségteljes alapértelmezésekre épül. Úgy gondoljuk, hogy mindig Önnek kell irányítania, hogy mi történik az adataival. Számíthat ránk egyértelműen elmagyarázzuk, hogy mit csinál alapértelmezés szerint a { -brand-name-firefox }, és úgy módosítjuk a beállításait, hogy úgy böngésszen, ahogy szeretne.
-privacy-firefox-read-our-privacy = Adatvédelmi nyilatkozat felolvasása
-privacy-firefox-keeping-you-informed = Értesítjük, minden lépésről
+privacy-firefox-read-our-privacy = Adatvédelmi nyilatkozat elolvasása
+privacy-firefox-keeping-you-informed = Értesítjük minden lépésről
 privacy-firefox-we-believe-you = Úgy gondoljuk, hogy tudnia kell, hogy az adatait hogyan és miért használják fel. A { -brand-name-firefox } az adatvédelmet szem előtt tartva, és az átláthatóság minden lépésében.
 privacy-firefox-transparency-first = Az átláthatóság mindenekelőtt
 # Variables:

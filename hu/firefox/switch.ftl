@@ -24,7 +24,7 @@ switch-download-and-switch = Letöltés és váltás
 switch-share-to-facebook = Megosztás Facebookon
 switch-share-to-facebook-updated = Megosztás { -brand-name-facebook }on
 # Note: Bluesky is a brand name and should not be translated
-switch-share-to-bluesky = Megosztás a Blueskyvel
+switch-share-to-bluesky = Megosztás a Bluesky-on
 switch-hey = Szia!
 switch-check-it-out = Nézd meg te is, és mondd el mit gondolsz:
 switch-send-an-email = E-mail küldése
