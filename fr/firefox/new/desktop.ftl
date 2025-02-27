@@ -22,6 +22,7 @@ firefox-desktop-out-of-date = Une version encore plus récente de { -brand-name-
 
 firefox-desktop-download-get-the-browser = Installez le navigateur qui protège ce qui est important
 
+firefox-desktop-download-fast-reliable-private = Rapide, fiable et confidentiel, pour plus de tranquillité en ligne.
 
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Pas de politique de confidentialité douteuse ou de laissez-passer pour les annonceurs. Juste un navigateur ultra-rapide qui ne vous trahit pas.
@@ -29,6 +30,8 @@ firefox-desktop-download-no-shady = Pas de politique de confidentialité douteus
 firefox-desktop-download-download-options = Options de téléchargement et autres langues
 firefox-desktop-download-browser-support = Assistance pour le { -brand-name-firefox-browser }
 
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Faites ce que vous avez à faire en ligne.<br> Le { -brand-name-firefox-browser } vous <strong>protège</strong>.
 
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Faites ce que vous avez à faire en ligne.<br> Le { -brand-name-firefox-browser } ne vous épie <strong>jamais</strong>.
@@ -139,6 +142,9 @@ firefox-desktop-download-from-security-to = De la sécurité aux actualités en 
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } a été créé par <a { $attrs }>{ -brand-name-mozilla }</a> comme une alternative plus rapide et plus privée aux navigateurs comme { -brand-name-ie }, et maintenant { -brand-name-chrome }. Aujourd’hui, notre entreprise et notre communauté de bénévoles, toutes deux au service de notre mission, continuent de placer votre vie privée au-dessus de tout.
 
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = À mesure qu’Internet se développe et évolue, { -brand-name-firefox } continue de se concentrer sur votre droit à la protection de votre vie privée, pour lequel nous sommes engagés depuis nos débuts. Apprenez-en plus sur nos pratiques en matière de données dans notre <a { $attrs }>Politique de confidentialité</a>.
 
 # Obsolete string (expires: 2025-04-17)
 # Variables:
