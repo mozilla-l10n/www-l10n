@@ -86,6 +86,12 @@ firefox-developer-view-the-release = Lihat <a { $attrs }>catatan rilis</a> (baha
 firefox-developer-developer-tools-user = Dokumen Pengguna Alat Pengembang
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Sumber Daya untuk Pengembang, oleh Pengembang
+firefox-developer-mdn-playground = Playground
+firefox-developer-mdn-write-test-and-share = Tulis, uji, dan bagikan kode Anda. Ruang bagi Anda untuk belajar, berkreasi, dan membagikan karya luar biasa kepada dunia.
+firefox-developer-mdn-blog = Blog { -brand-name-mdn }
+firefox-developer-mdn-unlock-the-world = Pelajari dunia pengembangan web lewat Blog { -brand-name-mdn } — sumber utama untuk wawasan ahli, standar web terbaru, dan tips coding.
+firefox-developer-mdn-updates = Pembaruan
+firefox-developer-mdn-the-web-doesnt-have = Web tidak memiliki changelog, tetapi { -brand-name-mdn } dapat membantu. Anda dapat mempersonalisasi dan memfilter perubahan kompatibilitas berdasarkan peramban atau kategori teknologi yang Anda minati, seperti JavaScript, CSS, dll.
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Referensi { -brand-name-mdn }
 # Obsolete string (expires 18-04-2025)

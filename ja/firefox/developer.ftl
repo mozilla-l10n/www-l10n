@@ -86,6 +86,12 @@ firefox-developer-view-the-release = <a { $attrs }>リリースノート</a> (�
 firefox-developer-developer-tools-user = デベロッパーツールのユーザードキュメント
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = デベロッパーによるデベロッパーのためのリソース
+firefox-developer-mdn-playground = Playground
+firefox-developer-mdn-write-test-and-share = コードを書き、テストし、共有しましょう。学び、あなたの作品を世界と共有するためのプレイグラウンドです。
+firefox-developer-mdn-blog = { -brand-name-mdn } のブログ
+firefox-developer-mdn-unlock-the-world = { -brand-name-mdn } ブログでウェブ開発の世界を知ってください。エキスパートの洞察や最新のウェブのスタンダード、コーディングのヒントが満載です。
+firefox-developer-mdn-updates = アップデート
+firefox-developer-mdn-the-web-doesnt-have = ウェブには変更ログはありませんが、{ -brand-name-mdn } が力になります。ブラウザーのほか、JavaScript や CSS など関心のある技術カテゴリをもとに、互換性の変更をパーソナライズして絞り込むことができます。
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } のリファレンス
 # Obsolete string (expires 18-04-2025)
