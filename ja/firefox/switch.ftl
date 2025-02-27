@@ -22,7 +22,6 @@ switch-enjoy-the-web-faster = これで準備完了です。より高速にウ�
 switch-download-and-switch = ダウンロードして移行
 switch-share-to-facebook = Facebook で共有
 switch-share-to-facebook-updated = { -brand-name-facebook } にシェア
-switch-send-a-tweet = ツイートを送信
 switch-hey = こんにちは
 switch-check-it-out = 次の特徴に関するあなたの感想をきかせてください:
 switch-send-an-email = メールで送信

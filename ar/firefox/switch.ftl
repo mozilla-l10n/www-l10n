@@ -22,7 +22,6 @@ switch-enjoy-the-web-faster = استمتع بويب أسرع، كل الميزا
 switch-download-and-switch = تنزيل وتبديل
 switch-share-to-facebook = شارِك على فيسبوك
 switch-share-to-facebook-updated = مشاركة مع { -brand-name-facebook }
-switch-send-a-tweet = أرسل تغريدة
 switch-hey = مرحبًا،
 switch-check-it-out = جرّب بنفسك وأخبرني بالنّتيجة:
 switch-send-an-email = أرسل رسالة إلكترونية

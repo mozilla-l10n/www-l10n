@@ -22,7 +22,6 @@ switch-enjoy-the-web-faster = Nikmati web lebih cepat yang semuanya disiapkan un
 switch-download-and-switch = Unduh dan alihkan
 switch-share-to-facebook = Bagikan ke Facebook
 switch-share-to-facebook-updated = Bagikan ke { -brand-name-facebook }
-switch-send-a-tweet = Kirim tweet
 switch-hey = Hai,
 switch-check-it-out = Lihat dan beri tahu saya pendapat Anda:
 switch-send-an-email = Kirim surel
