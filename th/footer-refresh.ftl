@@ -6,6 +6,7 @@ footer-refresh-discover-mozilla-products = ค้นพบผลิตภัณ�
 footer-refresh-leadership = ตำแหน่งผู้นำ
 footer-refresh-advertise = โฆษณากับ { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = บันทึกการออกรุ่น { -brand-name-firefox }
+footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = ติดตาม @{ -brand-name-mozilla }
