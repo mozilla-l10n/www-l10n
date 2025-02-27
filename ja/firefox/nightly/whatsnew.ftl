@@ -16,6 +16,11 @@ nightly-whatsnew-every-4-to-5-weeks = { -brand-name-firefox } の新しいメジ
 
 nightly-whatsnew-this-is-a-good = この機会に、皆さんに { -brand-name-firefox } の改善支援に感謝の意を述べるとともに、{ -brand-name-nightly } 関連のドキュメント、連絡チャンネル、ニュースウェブサイトをいくつかご紹介しますので、ご関心のある方はご覧ください。
 
+# Variables:
+#   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
+#   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
+nightly-whatsnew-if-you-want-to-v4 = { -brand-name-nightly } とそのコミュニティ関連のニュースについては、まず Mozilla の<a { $blog }>ブログ</a>をご覧いただくか、<a { $mastodon }>Mastodon</a> または <a { $bluesky }>Bluesky</a> で Mozilla をフォローしていただくとよいでしょう。
 
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
