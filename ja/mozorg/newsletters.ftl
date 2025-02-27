@@ -137,6 +137,8 @@ newsletters-fxa-error-retry = 申し訳ありません。メール設定に移�
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = このメールアドレスはシステムに存在しません。アドレスをもう一度確認してください。あるいは、<a href="{ $url }">Mozilla のニュースレターの定期購読をリクエストしてください</a>。
 
+# Note: Bluesky is a brand name that shouldn't be translated
+newsletters-im-keeping-in-touch-v3 = { -brand-name-mozilla } の情報は Bluesky で確認している。
 # Obsolete, remove after 2025-05-11
 newsletters-im-keeping-in-touch-v2 = { -brand-name-mozilla } の情報は { -brand-name-twitter } で確認している。
 

@@ -137,6 +137,8 @@ newsletters-fxa-error-retry = Maaf, tampaknya ada masalah saat mengarahkan Anda 
 #   $url (url) - link to https://www.mozilla.org/newsletter/
 newsletters-this-email-address-is-not = Alamat email ini tidak ada di sistem kami. Silakan periksa kembali alamat Anda atau <a href="{ $url }">berlangganan ke buletin kami.</a>
 
+# Note: Bluesky is a brand name that shouldn't be translated
+newsletters-im-keeping-in-touch-v3 = Namun, saya tetap berhubungan dengan { -brand-name-mozilla } di Bluesky.
 # Obsolete, remove after 2025-05-11
 newsletters-im-keeping-in-touch-v2 = Namun, saya tetap berhubungan dengan { -brand-name-mozilla } di { -brand-name-twitter }.
 
