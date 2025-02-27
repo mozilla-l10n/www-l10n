@@ -42,3 +42,24 @@ privacy-faq-v2-sort-of = På sätt och vis.  Utöver de uppgifter som beskrivs o
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-v2-we-may-also = Vi kan också samla in ytterligare data i förhandsversioner för en av våra <a { $attrs }>studier</a>. Till exempel kräver vissa studier vad vi kallar "surfdata", vilket kan innehålla webbadresser och annan information om vissa webbplatser. Detta hjälper oss att svara på specifika frågor för att förbättra { -brand-name-firefox }, till exempel hur man bättre integrerar populära webbplatser i specifika språk.
+privacy-faq-v2-mozilla-pre-release = { -brand-name-mozilla }s förhandsversioner av { -brand-name-firefox } är utvecklingsplattformar som ofta uppdateras med experimentella funktioner. Vi samlar in mer data i förhandsversioner än vad vi gör efter release för att förstå hur dessa experimentella funktioner fungerar. Du kan välja bort att denna data samlas in i inställningarna.
+privacy-faq-v2-but-why-do-you = Men varför samlar ni in någon data alls?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
+privacy-faq-v2-if-we-dont-know = Om vi ​​inte vet hur webbläsaren fungerar eller vilka funktioner folk använder kan vi inte göra den bättre och leverera den fantastiska produkt du vill ha. Vi har investerat i att bygga datainsamlings- och analysverktyg som gör att vi kan fatta smarta beslut om vår produkt samtidigt som vi respekterar människors integritet. Du kan läsa mer om några av de integritetsbevarande teknikerna vi använder, som <a { $attrs }>OHTTP</a>.
+privacy-faq-v2-data-collection-bugs-me = Datainsamling stör mig fortfarande. Kan jag stänga av den?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
+#   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
+privacy-faq-v2-yes-user-control = Ja. Användarkontroll är en av våra datasekretessprinciper. Vi tillämpar det i { -brand-name-firefox } på vår <a { $privacy }>sida för sekretessinställningar</a>, som fungerar som en enda kontakt för alla som vill ta kontroll över sin integritet i { -brand-name-firefox }. Du kan <a { $data }>stänga av datainsamling</a> där.
+privacy-faq-v2-what-about-my-account = Vad händer med mina kontodata?
+privacy-faq-v2-we-are-big-believers = Vi tror mycket på dataminimering och att inte fråga efter saker vi inte behöver.
+# Variables:
+#   $attrs (url) - link to https://www.mozilla.org/account/
+privacy-faq-v2-you-dont-need-an-account = Du behöver inget konto för att använda { -brand-name-firefox }. <a { $attrs }>Konton</a> krävs för att synkronisera data mellan enheter, men vi ber dig bara om en e-postadress och din ålder (bara för att se till att du inte är ett barn).
+privacy-faq-v2-you-use-digital = Ni använder digital reklam som en del av er marknadsföringsmix. Köper ni människors data för att bättre rikta in era onlineannonser?
+privacy-faq-v2-no-we-do-not-buy = Nej, vi köper inte människors data för att rikta annonsering.
+privacy-faq-v2-we-do-not-ask = Vi ber våra reklampartner att endast använda förstapartsdata som webbplatser och utgivare känner till om alla användare, såsom webbläsaren du använder och enheten du använder.
+privacy-faq-v2-well-it-seems = Ok, när det gäller integritet skyddar ni uppenbarligen mig.
+privacy-faq-v2-yes-we-do = Ja, det gör vi.
+privacy-faq-v2-find-out-more = Ta reda på mer om hur { -brand-name-mozilla } skyddar internet.
