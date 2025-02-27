@@ -6,6 +6,7 @@ footer-refresh-discover-mozilla-products = Zbuloni produkte dhe nisma { -brand-n
 footer-refresh-leadership = Udhëheqje
 footer-refresh-advertise = Reklamoni me { -brand-name-mozilla }-n
 footer-refresh-firefox-release-notes = Shënime Hedhjesh Në Qarkullim { -brand-name-firefox }-i
+footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Ndiqni @{ -brand-name-mozilla }
