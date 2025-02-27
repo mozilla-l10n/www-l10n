@@ -22,6 +22,7 @@ firefox-desktop-out-of-date = もっと新しい { -brand-name-firefox } を公�
 
 firefox-desktop-download-get-the-browser = 大切なものを守るブラウザーを
 
+firefox-desktop-download-fast-reliable-private = 高速で信頼性が高く、プライベート — オンラインの安心を守ります。
 
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = 怪しいプライバシーポリシーや広告業者用のバックドアはありません。あなたの個人情報を売却しない高速ブラウザーです。
@@ -29,6 +30,8 @@ firefox-desktop-download-no-shady = 怪しいプライバシーポリシーや�
 firefox-desktop-download-download-options = ダウンロードオプションと多言語
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } サポート
 
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = オンライン生活をご自由にお楽しみください。<br>{ -brand-name-firefox-browser } に<strong>お任せください</strong>。
 
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = オンライン生活をご自由にお楽しみください。<br>{ -brand-name-firefox-browser } が<strong>プライバシーを守ります</strong>。
@@ -139,6 +142,9 @@ firefox-desktop-download-from-security-to = セキュリティからニュース
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } は、{ -brand-name-ie } や { -brand-name-chrome } などのブラウザーよりも高速性とプライバシーを追求した代替となるべく、<a { $attrs }>{ -brand-name-mozilla }</a> が開発しました。今日、このミッションを目指す会社とボランティアコミュニティは、ユーザーのプライバシーを第一に守り続けています。
 
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = インターネットが成長し変化するなか、{ -brand-name-firefox } はユーザーのプライバシー権を第一に考えています。Mozilla によるデータの取り扱いについて詳しくは、<a { $attrs }>プライバシー通知</a>をご覧ください。
 
 # Obsolete string (expires: 2025-04-17)
 # Variables:

@@ -22,6 +22,7 @@ firefox-desktop-out-of-date = { -brand-name-firefox } yang lebih baru juga sudah
 
 firefox-desktop-download-get-the-browser = Dapatkan peramban yang melindungi apa yang penting
 
+firefox-desktop-download-fast-reliable-private = Cepat, andal, dan pribadi — agar pikiran lebih tenang saat daring.
 
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Tanpa adanya kebijakan privasi yang menjebak ataupun pintu belakang bagi pengiklan. Hanya peramban secepat kilat yang tidak menjual Anda.
@@ -29,6 +30,8 @@ firefox-desktop-download-no-shady = Tanpa adanya kebijakan privasi yang menjebak
 firefox-desktop-download-download-options = Opsi unduhan dan bahasa lain
 firefox-desktop-download-browser-support = Dukungan { -brand-name-firefox-browser }
 
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Lakukan apa yang Anda lakukan saat daring.<br> { -brand-name-firefox-browser } siap <strong>membantu</strong> Anda.
 
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Lakukan apa yang Anda lakukan saat daring.<br> { -brand-name-firefox-browser } <strong>tidak akan</strong> memantaunya.
@@ -139,6 +142,9 @@ firefox-desktop-download-from-security-to = Dari keamanan hingga berita dan perm
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } dibuat oleh <a { $attrs }>{ -brand-name-mozilla }</a> sebagai alternatif tercepat dan lebih pribadi dibanding peramban seperti { -brand-name-ie }, dan sekarang { -brand-name-chrome }. Hari ini, misi yang menggerakkan kami sebagai perusahaan dan komunitas sukarelawan ialah menempatkan privasi Anda di atas segalanya.
 
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Seiring bertumbuh dan berkembangnya internet, { -brand-name-firefox } terus berfokus pada hak Anda atas privasi — Itulah yang selalu kami lakukan. Pelajari lebih lanjut tentang praktik data kami di <a { $attrs }>Pemberitahuan Privasi</a> kami.
 
 # Obsolete string (expires: 2025-04-17)
 # Variables:
