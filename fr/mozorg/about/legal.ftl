@@ -17,6 +17,8 @@ legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = Confidentialité et marques déposées
 legal-privacy-notices-and-policy = Mentions légales et politique de confidentialité
 legal-downloadable-software-notices = Mentions légales des logiciels téléchargeables
+# heading for the table of contents, a shorter heading is better
+legal-firefox-contents = Sommaire
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox } : À propos de vos droits
 legal-thunderbird = { -brand-name-thunderbird }
