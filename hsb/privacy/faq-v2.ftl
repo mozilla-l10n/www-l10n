@@ -33,6 +33,9 @@ privacy-faq-v2-do-you-collect = Zběraće wjace datow w předwersijach { -brand-
 privacy-faq-v2-sort-of = We wěstym nastupanju. Přidatnje k datam, kotrež smy horjeka wopisali, dóstawamy w předwersijach { -brand-name-firefox } po standardźe rozprawy wo zmylkach a spadach.
 privacy-faq-v2-mozilla-pre-release = Předwersije { -brand-name-mozilla } { -brand-name-firefox } su wuwiwanske platformy, kotrež so husto z eksperimentelnymi funkcijemi aktualizuja. Zběramy w předwersiji wjace datow hač w kónčnych wersijach, zo bychmy rozumili, kak tute eksperimentelne funkcije funguja. Móžeće zběranje tutych datow w nastajenjach znjemóžnić.
 privacy-faq-v2-but-why-do-you = Ale čehodla poprawom daty zběraće?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
+privacy-faq-v2-if-we-dont-know = Jeli njewěmy, kak wobhladowak běži abo kotre funkcije ludźo wužiwaja, njemóžemy jón polěpšić a wam wulkotny produkt poskićić. Smy nastroje za zběranje a analyzowanje datow wuwili, kotrež nam zmóžnjeja, inteligentne rozsudy wo našim produkće činić a priwatnosć ludźi respektować. Móžeće wjace wo někotrych technologijach čitać, kotrež priwatnosć wobchowuja, na přikład <a { $attrs }>OHTTP</a>.
 privacy-faq-v2-data-collection-bugs-me = Zběranje datow mi hišće wadźi. Mógu jo znjemóžnić?
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
@@ -40,6 +43,9 @@ privacy-faq-v2-data-collection-bugs-me = Zběranje datow mi hišće wadźi. Móg
 privacy-faq-v2-yes-user-control = Haj. Kontrola přez wužiwarja je jedna z našich zasadow datoweje priwatnosće. Zwoprawdźamy to w { -brand-name-firefox } w našej <a { $privacy }>stronje nastajenjow priwatnosće</a>, kotrež jako zaběhowe městno za kóždeho słuži, kotryž chce swoju priwatnosć w { -brand-name-firefox } kontrolować. Móžeće tam <a { $data }>zběranje datow znjemóžnić</a>.
 privacy-faq-v2-what-about-my-account = Što je z mojimi kontowymi datami?
 privacy-faq-v2-we-are-big-believers = Dawamy wjele na miniměrowanje datow a njeprašamy so was za ničim, kotrež njetrjebamy.
+# Variables:
+#   $attrs (url) - link to https://www.mozilla.org/account/
+privacy-faq-v2-you-dont-need-an-account = Njetrjebaće konto, zo byšće { -brand-name-firefox } wužiwał. <a { $attrs }>Konta</a> su trěbne za synchronizowanje datow mjez gratami, my pak prosymy was jenož wo e-mejlowu adresu a wašu starobu (jenož, zo bychmy wědźeli, zo wy dźěćo njejsće).
 privacy-faq-v2-you-use-digital = Wužiwaće digitalne wabjenje jako dźěl swojeje marketingoweje strategije. Kupujeće daty ludźi, zo byšće swoje wabjenje online lěpje přitřihał?
 privacy-faq-v2-no-we-do-not-buy = Ně, njekupujemy daty ludźi, zo bychmy zaměrne wabjenje činili.
 privacy-faq-v2-we-do-not-ask = Žadany wot našich wabjenskich partnerow, jenož daty prěnjeho poskićowarja wužiwać, kotrež websydła a wozjewjerjo wo wšěch wužiwarjach maja, na přikład wobhladowak, kotryž wužiwaće a grat, na kotrymž jón wužiwaće.
