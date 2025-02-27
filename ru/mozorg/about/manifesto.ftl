@@ -54,7 +54,7 @@ manifesto-an-internet-with-these = Интернет не может измени
 manifesto-i-support-the-vision-of-v2 = Я поддерживаю видение лучшего, более здорового Интернета от { -brand-name-mozilla }, вы со мной?
 # obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Я поддерживаю видение лучшего, более здорового Интернета от @mozilla, вы со мной?
-manifesto-share-on-bluesky = Поделиться на Bluetooth
+manifesto-share-on-bluesky = Поделиться в Bluesky
 manifesto-our-10-principles = <strong>Наши 10</strong> Принципов
 manifesto-read-the-entire-manifesto = Прочесть весь манифест
 manifesto-love-the-web = Любите Интернет?
