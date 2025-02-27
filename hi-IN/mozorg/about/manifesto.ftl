@@ -55,10 +55,9 @@ manifesto-we-are-committed-to-thinking = हम एक ऐसे इंटरन
 manifesto-we-are-committed-to-diverse = हम एक ऐसे इंटरनेट के लिए प्रतिबद्ध हैं जो विभिन्न समुदायों के बीच सार्वजनिक अच्छाई के लिए एक साथ काम करने में सहयोग करता है।
 manifesto-show-your-support = अपना समर्थन दिखाएँ
 manifesto-an-internet-with-these = इन गुणों वाला इंटरनेट अपने दम पर जीवन में नहीं आएगा। व्यक्तियों और संगठनों को इंटरनेट प्रौद्योगिकी और इंटरनेट के मानवीय अनुभव में इन आकांक्षाओं को लागू करना होगा। { -brand-name-mozilla } घोषणापत्र और परिशिष्ट इन आकांक्षाओं को आगे बढ़ाने के लिए { -brand-name-mozilla } की प्रतिबद्धता का प्रतिनिधित्व करते हैं। हम हर जगह उन लोगों और संगठनों के साथ मिलकर काम करने का लक्ष्य रखते हैं जो इन लक्ष्यों को साझा करते हैं ताकि इंटरनेट सभी के लिए बेहतर जगह बन सके।
+# obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = हम @mozilla के एक बेहतर, स्वस्थ इन्टरनेट के उद्देश्य का समर्थन करते हैं, क्या आप हमसे जुड़ेंगे?
 
-manifesto-share-on-x = X पर शेयर करें
-manifesto-share-on-x-aria-label = X (पूर्व में Twitter) पर शेयर करें
 manifesto-our-10-principles = <strong>हमारे 10</strong> सिद्धांत
 manifesto-read-the-entire-manifesto = पूरा घोषणापत्र पढ़ें
 manifesto-love-the-web = वेब से प्यार है?
