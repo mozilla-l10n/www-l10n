@@ -84,8 +84,12 @@ firefox-developer-view-the-release = Visa <a { $attrs }>versionsfakta</a> (endas
 firefox-developer-developer-tools-user = Dokumentation för utvecklingsverktyg
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resurser för utvecklare, av utvecklare
+firefox-developer-mdn-playground = Testområde
+firefox-developer-mdn-write-test-and-share = Skriv, testa och dela din kod. Ett testområde för att lära dig och dela ditt fantastiska arbete med världen.
 firefox-developer-mdn-blog = { -brand-name-mdn } blogg
+firefox-developer-mdn-unlock-the-world = Lås upp världen av webbutveckling med bloggen { -brand-name-mdn } — ditt nav för expertinsikter, senaste webbstandarder och kodningstips.
 firefox-developer-mdn-updates = Uppdateringar
+firefox-developer-mdn-the-web-doesnt-have = Webben har ingen ändringslogg, men { -brand-name-mdn } kan hjälpa. Du kan anpassa och filtrera kompatibilitetsförändringar baserat på webbläsare eller den tekniska kategorin du är intresserad av, oavsett om det är JavaScript, CSS, etc.
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Referenser { -brand-name-mdn }
 # Obsolete string (expires 18-04-2025)
