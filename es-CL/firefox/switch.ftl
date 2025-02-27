@@ -23,6 +23,8 @@ switch-enjoy-the-web-faster = Disfruta de una web más rápida, todo listo para 
 switch-download-and-switch = Descargar y cambiar
 switch-share-to-facebook = Compártelo con Facebook
 switch-share-to-facebook-updated = Compartir en { -brand-name-facebook }
+# Note: Bluesky is a brand name and should not be translated
+switch-share-to-bluesky = Compartir en Bluesky
 switch-hey = Oye,
 switch-check-it-out = Pruébalo y cuéntame que te parece:
 switch-send-an-email = Enviar un correo

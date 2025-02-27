@@ -16,7 +16,7 @@ nightly-whatsnew-this-is-a-good = Pśi toś tej góźbje źěkujomy se za wašu 
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
-nightly-whatsnew-if-you-want-to-v4 = Jolic cośo wěźeś, což se dowokoła { -brand-name-nightly } a jogo zgromaźeństwa stawa, cytajśo nejpjerwjej naš <a { $blog }>blog</a> a slědujśo nam na <a { $mastodon }>Mastodon</a> abo <a <a { $bluesky }>Bluesky</a>!
+nightly-whatsnew-if-you-want-to-v4 = Jolic cośo wěźeś, což se dowokoła { -brand-name-nightly } a jogo zgromaźeństwa stawa, cytajśo nejpjerwjej naš <a { $blog }>blog</a> a slědujśo nam na <a { $mastodon }>Mastodon</a> abo <a { $bluesky }>Bluesky</a>!
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
