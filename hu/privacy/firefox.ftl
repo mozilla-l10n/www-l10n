@@ -12,7 +12,7 @@ privacy-firefox-privacy-isnt-just = Az adatvédelem nem csak egy beállítás �
 privacy-firefox-read-our-privacy = Adatvédelmi nyilatkozat elolvasása
 privacy-firefox-keeping-you-informed = Értesítjük minden lépésről
 privacy-firefox-we-believe-you = Úgy gondoljuk, hogy tudnia kell, hogy az adatait hogyan és miért használják fel. A { -brand-name-firefox } az adatvédelmet szem előtt tartva, és az átláthatóság minden lépésében.
-privacy-firefox-transparency-first = Az átláthatóság mindenekelőtt
+privacy-firefox-transparency-first = Átláthatóság mindenekelőtt
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Egyértelműek vagyunk abban, hogy milyen adatokat használunk és miért. Nincs meglepetés. A <a { $attrs }>{ -brand-name-firefox } Adatvédelmi nyilatkozat</a> részletezi ezt.
