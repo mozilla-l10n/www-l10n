@@ -7,5 +7,6 @@
 
 privacy-firefox-youre-in-control = Você está no controle
 privacy-firefox-read-our-privacy = Leia nosso aviso de privacidade
+privacy-firefox-keeping-you-informed = Mantemos você informado, a cada etapa do caminho
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Conteúdo
