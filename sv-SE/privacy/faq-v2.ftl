@@ -29,3 +29,16 @@ privacy-faq-v2-it-seems-like = Det verkar som att varje företag på webben köp
 #   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
 privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } säljer inte data om dig (på det sätt som de flesta tycker om att "sälja data") och vi köper inte data om dig. Eftersom vi strävar efter transparens, och den JURIDISKA definitionen av "försäljning av data" är extremt bred på vissa ställen, har vi varit tvungna att ta ett steg tillbaka från att göra de definitiva uttalanden du känner och älskar. Vi lägger fortfarande mycket arbete på att se till att den data som vi delar med våra partners (vilket vi måste göra för att göra { -brand-name-firefox } kommersiellt gångbar) tas bort från all identifierande information, eller delas endast sammantaget, eller överförs genom vår integritetsbevarande teknik (som <a { $attrs }>OHTTP</a>).
 privacy-faq-v2-wait-so-how = Vänta, så hur tjänar ni pengar?
+# Variables:
+#   $attrs (url) - link to https://stateof.mozilla.org
+privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } är inte din genomsnittliga organisation. { -brand-name-mozilla } grundades som ett gemenskapsprojekt med öppen källkod 1998 och är en missionsdriven organisation som arbetar mot ett hälsosammare internet. Majoriteten av { -brand-name-mozilla-corporation }s intäkter kommer från royalties som tjänats in genom { -brand-name-firefox } sökpartnerskap och distributionsavtal för webbläsare runt om i världen. Du kan läsa mer om hur vi tjänar pengar i vår <a { $attrs }">årsrapport</a>.
+privacy-faq-v2-softballs = Ok, det var de enkla frågorna. Vilka uppgifter samlar ni in?
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
+privacy-faq-v2-mozilla-does-collect = { -brand-name-mozilla } samlar in en begränsad uppsättning data som standard från { -brand-name-firefox } som hjälper oss att förstå hur människor använder webbläsaren. Du kan läsa mer om det i vårt <a { $privacy }>sekretessmeddelande</a> och läsa den <a { $data }>fullständiga dokumentationen för den datainsamlingen</a>. Vi offentliggör också vår dokumentation så att alla kan verifiera att det vi säger är sant, berätta för oss om vi behöver förbättra oss och lita på att vi inte döljer någonting.
+privacy-faq-v2-do-you-collect = Samlar ni in mer data i förhandsversioner av { -brand-name-firefox }?
+privacy-faq-v2-sort-of = På sätt och vis.  Utöver de uppgifter som beskrivs ovan får vi krasch- och felrapporter som standard i förhandsversioner av { -brand-name-firefox }.
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/shield
+privacy-faq-v2-we-may-also = Vi kan också samla in ytterligare data i förhandsversioner för en av våra <a { $attrs }>studier</a>. Till exempel kräver vissa studier vad vi kallar "surfdata", vilket kan innehålla webbadresser och annan information om vissa webbplatser. Detta hjälper oss att svara på specifika frågor för att förbättra { -brand-name-firefox }, till exempel hur man bättre integrerar populära webbplatser i specifika språk.
