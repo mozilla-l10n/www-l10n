@@ -7,13 +7,13 @@
 
 # HTML page title
 privacy-faq-mozillas-data-privacy-faq = FAQ sulla privacy dei dati di { -brand-name-mozilla }
-privacy-faq-at-mozilla-we-respect-and-protect-desc = In { -brand-name-mozilla } rispettiamo e proteggiamo i tuoi dati personali.
-privacy-faq-we-stand-for-people-over-profit = Noi mettiamo le persone prima del profitto.
-privacy-faq-it-can-be-tricky-for-people = Al giorno d’oggi può essere difficile sapere cosa aspettarsi da ogni software o servizio che usiamo. La tecnologia che presidia le nostre vite è complessa e le persone non hanno il tempo per indagare nei dettagli. Ciò è ancora più vero per { -brand-name-firefox }, dove troviamo persone che hanno idee diverse su quanto avviene sotto il cofano del loro browser.
-privacy-faq-at-mozilla-we-respect-and-protect = In { -brand-name-mozilla } rispettiamo e proteggiamo i tuoi dati personali:
+privacy-faq-at-mozilla-we-respect-and-protect-desc = In { -brand-name-mozilla } rispettiamo e proteggiamo le tue informazioni personali.
+privacy-faq-we-stand-for-people-over-profit = Mettiamo le persone al di sopra dei profitti.
+privacy-faq-it-can-be-tricky-for-people = Al giorno d’oggi può essere difficile capire cosa aspettarsi da ogni software o servizio che utilizziamo. La tecnologia che presidia le nostre vite è complessa e non tutti hanno il tempo per immergersi nei dettagli. Questo vale anche per { -brand-name-firefox }, dove troviamo che le persone hanno idee diverse su quanto avviene sotto il cofano del loro browser.
+privacy-faq-at-mozilla-we-respect-and-protect = In { -brand-name-mozilla } rispettiamo e proteggiamo le tue informazioni personali:
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
-privacy-faq-we-follow-a-set-of-data-privacy = Seguiamo un serie di <a href="{ $link }">principi sulla privacy dei dati</a> che contraddistinguono il nostro approccio alla gestione della privacy in { -brand-name-firefox } per computer desktop e per dispositivi portatili.
+privacy-faq-we-follow-a-set-of-data-privacy = Seguiamo una serie di <a href="{ $link }">principi relativi alla privacy dei dati</a> che definiscono il nostro approccio alla gestione della privacy in { -brand-name-firefox } per desktop e dispositivi mobili.
 privacy-faq-we-only-collect-the-data-we = Raccogliamo solo i dati necessari per creare i prodotti migliori.
 privacy-faq-we-put-people-in-control-of = Mettiamo le persone in condizione di controllare i propri dati e la propria esperienza online.
 privacy-faq-we-adhere-to-no-surprises-principle-v2 = Ci atteniamo al principio del “niente sorprese”, il che significa che ci impegniamo a fondo affinché la percezione che le persone hanno di { -brand-name-firefox } corrisponda alla realtà.
