@@ -9,7 +9,7 @@
 privacy-faq-v2-title = Husto stajene prašenja priwatnosće { -brand-name-mozilla }
 # HTML page description
 privacy-faq-v2-desc = My pola { -brand-name-mozilla } waše wosobinske daty respektujemy a škitamy.
-privacy-faq-v2-heading = Za nas ludźo nad profiltom steja.
+privacy-faq-v2-heading = Za nas ludźo nad profitom steja.
 privacy-faq-v2-intro = Husto ludźo newědźa, štož móža wot softwary abo słužbow wočakować, kotrež dźensa wužiwaja. Technologija, kotraž naše žiwjenje doprědka ćěri, je kompleksna a ludźo nimaja chwile, so nadrobnje z podrobnosćemi zaběrać. To tež za { -brand-name-firefox } płaći, přetož husto widźimy, zo ludźo maja rozdźělne předstawy wo tym, štož so w jich wobhladowaku pod hawbu stawa.
 privacy-faq-v2-at-mozilla = My pola { -brand-name-mozilla } waše wosobinske daty respektujemy a škitamy:
 # Variables:
