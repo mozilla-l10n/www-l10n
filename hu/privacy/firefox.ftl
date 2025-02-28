@@ -35,7 +35,7 @@ privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } mobilra
 privacy-firefox-contents = Tartalom
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
-privacy-firefox-take-me-back = Ugrás az <a { $attrs }>Adatvédelmi nyilatkozat elejére</a>
+privacy-firefox-take-me-back = Ugrás az Adatvédelmi nyilatkozat <a { $attrs }>elejéhez</a>
 # Variables:
 #   $attrs (string) - in-page link to the top of the page
 privacy-firefox-lost-in-the = Elveszett a részletekben? Térjen vissza a <a { $attrs }>{ -brand-name-firefox } adatvédelmi alapjaihoz</a>.
