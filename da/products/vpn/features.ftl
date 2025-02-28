@@ -40,7 +40,7 @@ vpn-features-automatically-block-ads = Med { -brand-name-mozilla-vpn } blokeres 
 vpn-features-encrypt-your-internet = Krypter al din internettrafik
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } beskytter alle apps på din enhed, ikke kun din browser.
 vpn-features-stronger-malware = Stærkere beskyttelse mod malware
-vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } forhindrer dig i at hente malware fra kendte usikre kilder.
+vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } forhindrer dig i at hente malware fra kilder, der er kendt for at være usikre.
 vpn-features-super-private-mode = Super-privat tilstand: Led trafikken gennem to placeringer
 # Variables
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
@@ -62,5 +62,18 @@ vpn-features-trustworthy = Pålidelig
 vpn-features-money-back = 30 dages penge-retur-garanti
 vpn-features-plus-customer-support = Samt kundesupport døgnet rundt.
 vpn-features-we-never-log = Vi logger, sporer eller deler aldrig dine netværksdata
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = Kort sagt indsamler vi ikke dine personlige browseroplysninger. Her er vores <a { $privacy }>letlæselige privatlivspolitik</a>.
+vpn-features-built-transparently = Transparent bygget med open source
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } består af open source-kode, hvilket betyder at al koden er offentligt tilgængelig. Se vores <a { $github }>repository på GitHub</a>.
 vpn-features-reviewed-by-third = Gennemgået af tredjeparts-sikkerhedseksperter
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = Vores kode er blevet gennemgået af Cure53, et førende cybersikkerheds-firma. <a { $report }>Se rapporten her</a>.
 vpn-features-people-over-profits = Mennesker fremfor profit
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = Vi bakkes op af <a { $mofo }>{ -brand-name-mozilla-foundation }</a> - en non-profit, der kæmper for at holde nettet åbent og sundt for alle mennesker.
