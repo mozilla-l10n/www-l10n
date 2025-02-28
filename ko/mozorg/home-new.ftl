@@ -34,6 +34,10 @@ home-read-more = 자세히 살펴보기
 home-so-what-is-mozilla = 그렇다면 { -brand-name-mozilla }는 무엇인가요?
 # Obsolete string (expires: 2025-01-05)
 home-at-its-core = 본질적으로 { -brand-name-mozilla }는 { -brand-name-mozilla-foundation }이 이끄는 활동가 조직으로, { -brand-name-mozilla-corporation }와 MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a>, <a { $mozai }>{ -brand-name-mozilla-ai }</a>를 포함한 다양한 벤처를 통해 세상을 변화시킵니다. 우리는 어떻게 다를까요? 우리는 사명을 중심으로 하기 때문데 주주들의 요구 사항이 아니라 인터넷과 온라인의 모든 사람에게 가장 좋을 수 있도록 결정을 내릴 자유가 있습니다. — 사실 우리는 주주들의 요구 사항이 없습니다.
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core-v2 = 본질적으로 { -brand-name-mozilla }는 { -brand-name-mozilla-foundation }이 이끄는 활동가 조직으로, { -brand-name-mozilla-corporation }와 MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a>, <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a>를 포함한 다양한 벤처를 통해 세상을 변화시킵니다. 우리는 어떻게 다를까요? 우리는 사명을 중심으로 하기에 주주들의 요구 사항이 아니라 인터넷과 온라인의 모든 사람에게 가장 좋도록 결정을 내릴 자유가 있습니다. — 사실 우리는 주주들의 요구 사항이 없습니다.
 home-learn-about-mofo = { -brand-name-mozilla-foundation }에 대해 알아보기
 home-join-the-fight = 건강한 인터넷을 위한 싸움에 참여하세요
 home-your-voice-your-code = 목소리, 코드, 아이디어, 문자 그대로 { -brand-name-mozilla }에 기여할 수 있는 방법은 수천 가지가 있습니다.

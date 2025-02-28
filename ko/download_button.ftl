@@ -60,3 +60,7 @@ download-button-linux-64-v2 = Linux 64비트용 다운로드
 download-button-using-debian = Debian이나 Ubuntu, 다른 Debian 기반 배포판을 사용하시나요?<br> <a { $attrs }>대신 APT 저장소</a>를 설정할 수 있습니다.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Microsoft에서 받으세요
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = { -brand-name-firefox }를 어떻게 발견하고 어떻게 사용하는지 { -brand-name-mozilla }의 마케팅 기술 파트너와 공유해 주세요. 이 데이터는 판매되거나 광고를 표시하는 데 사용되지 않습니다. <a { $attrs }>데이터가 어떻게 사용되는지 알아보기</a>

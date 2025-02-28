@@ -6,3 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
 consent-banner-heading = Hjælp os med at forbedre din { -brand-name-mozilla }-oplevelse
+consent-banner-button-reject = Afvis alle yderligere cookies
+consent-banner-button-accept = Accepter alle yderligere cookies
+consent-banner-settings-link = Cookie-indstillinger
+consent-banner-aria-label = Cookie-banner

@@ -15,6 +15,11 @@ nightly-whatsnew-this-is-a-good = { -brand-name-firefox }를 개선하는 데 �
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
+#   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
+nightly-whatsnew-if-you-want-to-v4 = { -brand-name-nightly }와 커뮤니티 주변에 무슨 일이 일어나고 있는지 알고 싶다면 <a { $blog }>블로그</a>를 읽거나 <a { $mastodon }>Mastodon</a>이나 <a { $bluesky }>Bluesky</a>에서 우리를 팔로우해 주세요!
+# Variables:
+#   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $twitter (url) - link to https://twitter.com/FirefoxNightly
 # Obsolete string (expires: 2025-04-18)
 nightly-whatsnew-if-you-want-to-v3 = { -brand-name-nightly }와 커뮤니티 주변에 무슨 일이 일어나고 있는지 알고 싶다면 <a { $blog }>블로그</a>를 읽거나 <a { $mastodon }>Mastodon</a>이나 <a { $twitter }>X</a>에서 우리를 팔로우하세요!
