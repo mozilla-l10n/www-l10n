@@ -18,6 +18,10 @@ vpn-when-to-use-because-your-internet = Dokulaž se waš internetny wobchad doma
 vpn-when-to-use-make-sure-you = Zawěsććo se, až rozmějośo, což VPN njecyni
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, dowěry gódna VPN-słužba
 # Variables
+#   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
+#   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
+vpn-when-to-use-the-most-important = Nejwažnjejša wěc, na kótaruž musyśo źiwaś, gaž VPN wuběraśo, jo wuběranje dowěry gódnego pśedewześa. Zawěsććo, až wuměnjenja rozmějośo, do kótarychž zwólijośo. Wjele lubi, wjelicne byś a se na priwatnosć koncentrěrowaś, ale wjelika licba wót nich swójo zlubjenje njedoźaržujo. Nic wšykne proksyjowe a VPN-słužby su wěste a priwatne. Někotare <a href="{ $cnet }">budu</a> waše aktiwity online <a href="{ $pcmag }">protokolěrowaś</a>, aby waše daty a informacije marketingowym firmam pśedali. Druge słužby wopytujośo, was pśeznaniś, škódnu software na wašych rědach instalěrowaś.
+# Variables
 #   $mozvpn (url) - https://www.mozilla.org/products/vpn/
 #   $principles (url) - https://www.mozilla.org/privacy/principles/
 #   $mission (url) - https://www.mozilla.org/mission/
