@@ -51,10 +51,15 @@ vpn-features-support-for-custom-dns = Understøtter tilpasset DNS
 vpn-features-keep-traffic-protected = Med { -brand-name-mozilla-vpn } kan du beskytte din trafik og stadig dirigere dine DNS-forespørgsler, hvorhen du vil. <a { $dns }>Læs mere om understøttelse af tilpasset DNS</a>.
 vpn-features-flexible = Fleksibel
 vpn-features-personalized-server = Personlige anbefalinger til serverplacering
+vpn-features-well-suggest-which-servers = Med vores forslag til servere nær dig får du den hurtigste og mest pålidelige internetforbindelse.
+vpn-features-personalize-which-apps = Bestem, hvilke apps som skal beskyttes af VPN
+vpn-features-easily-exclude-apps = Udeluk nemt apps fra VPN-beskyttelse; det er ikke nødvendigt at afbryde din enheds forbindelse til { -brand-name-mozilla-vpn }. Tilgængelig til Windows-, Android- og Linux-enheder.
 vpn-features-set-different-locations = Indstil forskellige placeringer for hvert faneblad i { -brand-name-firefox }
 # Variables
 #   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
 vpn-features-combine-mozilla-vpn-with-containers = Kombiner { -brand-name-mozilla-vpn } med { -brand-name-firefox }-udvidelsen Multi-Account Containers, og angiv forskellige VPN-placeringer for hvert faneblad i { -brand-name-firefox }. <a { $containers }>Læs hvordan</a>.
 vpn-features-trustworthy = Pålidelig
 vpn-features-money-back = 30 dages penge-retur-garanti
+vpn-features-plus-customer-support = Samt kundesupport døgnet rundt.
 vpn-features-we-never-log = Vi logger, sporer eller deler aldrig dine netværksdata
+vpn-features-reviewed-by-third = Gennemgået af tredjeparts-sikkerhedseksperter

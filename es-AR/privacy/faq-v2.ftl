@@ -36,7 +36,7 @@ privacy-faq-v2-softballs = Muy bien, las primeras fueron fáciles. ¿Qué datos 
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
-privacy-faq-v2-mozilla-does-collect = { -brand-name-mozilla } sí recolecta una cantidad limitada de datos de manera predeterminada de { -brand-name-firefox } que nos ayuda a comprender la manera en que la gente usa el navegador. Podés leer más acerca de eso en nuestra <a href="{ $privacy }">nota de privacidad</a> y podés leer la <a href="{ $data }">documentación completa relacionada con esa recolección de datos</a>. También hacemos que nuestra documentación sea pública para que todos puedan verificar que lo que decimos es verdad. Decinos si tenemos que mejorar algo y tené confianza que no estamos ocultando nada.
+privacy-faq-v2-mozilla-does-collect = { -brand-name-mozilla } sí recolecta una cantidad limitada de datos de manera predeterminada de { -brand-name-firefox } que nos ayuda a comprender la manera en que la gente usa el navegador. Podés leer más acerca de eso en nuestra <a { $privacy }>nota de privacidad</a> y podés leer la <a { $data }>documentación completa relacionada con esa recolección de datos</a>. También hacemos que nuestra documentación sea pública para que todos puedan verificar que lo que decimos es verdad. Decinos si tenemos que mejorar algo y tené confianza que no estamos ocultando nada.
 privacy-faq-v2-do-you-collect = ¿Recolectan más datos en las versiones preliminares de { -brand-name-firefox }?
 privacy-faq-v2-sort-of = De cierta manera, sí. Además de los datos ya descriptos, recibimos informes de fallos y de errores de manera predeterminada en las versiones preliminares de { -brand-name-firefox }.
 # Variables:
@@ -56,4 +56,4 @@ privacy-faq-v2-what-about-my-account = ¿Qué pasa con los datos de mi cuenta?
 privacy-faq-v2-we-are-big-believers = Creemos en la minimización de los datos y en no pedir lo que no necesitamos.
 # Variables:
 #   $attrs (url) - link to https://www.mozilla.org/account/
-privacy-faq-v2-you-dont-need-an-account = No necesitás una cuenta para usar { -brand-name-firefox }. Las <a href="{ $accounts }">cuentas</a> son necesarias para sincronizar datos entre dispositivos, pero solo te pedimos una dirección de correo electrónico y tu edad (solo para asegurarnos que no sos un chico).
+privacy-faq-v2-you-dont-need-an-account = No necesitás una cuenta para usar { -brand-name-firefox }. Las <a { $attrs }>cuentas</a> son necesarias para sincronizar datos entre dispositivos, pero solo te pedimos una dirección de correo electrónico y tu edad (solo para asegurarnos que no sos un chico).
