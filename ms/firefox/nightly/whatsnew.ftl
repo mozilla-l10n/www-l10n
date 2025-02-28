@@ -16,6 +16,11 @@ nightly-whatsnew-every-4-to-5-weeks = Setiap 4 hingga 5 minggu, versi major baru
 
 nightly-whatsnew-this-is-a-good = Inilah masa yang sesuai untuk mengucapkan terima kasih kerana membantu kami menjadikan { -brand-name-firefox } lebih baik dan kami ingin memberi anda beberapa petunjuk tentang dokumentasi, saluran komunikasi dan laman berita yang berkaitan dengan { -brand-name-nightly } yang mungkin menarik untuk anda.
 
+# Variables:
+#   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
+#   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
+nightly-whatsnew-if-you-want-to-v4 = Jika anda ingin mengetahui berita terkini daripada { -brand-name-nightly } dan komunitinya, bacalah <a { $blog }>blog</a> kami selain mengikuti kami di <a { $mastodon }>Mastodon</a> atau <a { $bluesky }>Bluesky</a>!
 
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
