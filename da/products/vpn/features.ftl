@@ -20,4 +20,6 @@ vpn-features-connect-up-to =
        *[other] Tilslut op til { $devices } enheder
     }
 vpn-features-secure = Sikker
+vpn-features-encrypt-your-internet = Krypter al din internettrafik
+vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } beskytter alle apps på din enhed, ikke kun din browser.
 vpn-features-money-back = 30 dages penge-retur-garanti
