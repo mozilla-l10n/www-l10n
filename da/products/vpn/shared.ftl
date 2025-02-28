@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
+vpn-shared-waitlist-link = Skriv dig på ventelisten
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 dages penge-retur-garanti
 vpn-shared-features-encrypt = Kryptering på enhedsniveau

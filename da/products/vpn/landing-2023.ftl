@@ -13,7 +13,15 @@ vpn-landing-title = { -brand-name-mozilla-vpn }: Beskyt hele din enhed
 vpn-landing-desc = Brug { -brand-name-mozilla-vpn } til fuld beskyttelse af alle apps på din enhed. Med servere i mere end { $countries } lande kan du oprette forbindelse til alle placeringer, uanset hvor du er.
 vpn-landing-powerful-privacy-for-peace = Effektiv beskyttelse af dit privatliv
 vpn-landing-whats-a-vpn = Hvad er en VPN?
+vpn-landing-a-virtual-private-network-protects = Et virtuelt privat netværk beskytter din forbindelse til internettet og sørger for, at din placering og dine onlineaktiviteter er bedre beskyttet på alle dine enheder.
 vpn-landing-see-all-the-ways-mozilla-vpn = Se alle de måder, { -brand-name-mozilla-vpn } beskytter dig på.
+vpn-landing-how-a-vpn-helps-you = Sådan hjælper en VPN dig
+vpn-landing-keeps-your-data-safe = Sikrer dine data på offentlige Wi-Fi
+vpn-landing-log-in-to-your-bank-or = Log med sindsro ind på din bank eller hos lægen fra lufthavnen, caféen eller hvor som helst.
+vpn-landing-blocks-advertisers-from = Blokerer annoncører i at målrette annoncer
+vpn-landing-hide-your-activity-from = Skjul din aktivitet fra sporings-mekanismer og malware, så du kan shoppe uden at blive overvåget.
+vpn-landing-helps-you-access-global = Hjælper dig med at tilgå globalt indhold
+vpn-landing-check-out-streaming-media = Brug streaming-tjenester, besøg websteder og se livestreams fra andre lande, når du er på rejse eller derhjemme.
 vpn-landing-features = Funktioner
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
