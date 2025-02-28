@@ -27,7 +27,7 @@ privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } 並沒有如您�
 privacy-faq-v2-it-seems-like = 好像網路上的每個公司都在買賣我的資料，你們跟他們又有何不同？
 # Variables:
 #   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
-privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla }不會賣掉您的資料以大多數人所說的「銷售資料」的方式我們也不買您的資料。由於我們追求透明度並且在某些地方「銷售資料」的法律定義太過寬泛我們只好不再作那些您所知道與喜愛的確定性陳述。我們仍然做了很多工作來確保移除任何可識別出{ -brand-name-firefox }資料或僅用於會透過我們的隱私保護技術例如{ $attrs } > OHTTP</a> 審核過。
+privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla }不會賣掉您的資料以大多數人所說的「銷售資料」的方式我們也不買您的資料。由於我們追求透明度並且在某些地方「銷售資料」的法律定義太過寬泛我們只好不再作那些您所知道與喜愛的確定性陳述。我們仍然做了很多工作來確保移除任何可識別出{ -brand-name-firefox }資料或僅用於會透過我們的隱私保護技術例如 <a { $attrs }> OHTTP</a> 審核過。
 privacy-faq-v2-wait-so-how = 等等，那你們這樣要如何賺錢？
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org

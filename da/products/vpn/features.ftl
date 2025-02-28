@@ -63,3 +63,4 @@ vpn-features-money-back = 30 dages penge-retur-garanti
 vpn-features-plus-customer-support = Samt kundesupport døgnet rundt.
 vpn-features-we-never-log = Vi logger, sporer eller deler aldrig dine netværksdata
 vpn-features-reviewed-by-third = Gennemgået af tredjeparts-sikkerhedseksperter
+vpn-features-people-over-profits = Mennesker fremfor profit
