@@ -48,6 +48,10 @@ privacy-faq-v2-but-why-do-you = Но зачем вы вообще собирае
 #   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
 privacy-faq-v2-if-we-dont-know = Если бы мы не знали, как быстро работает браузер и какие функции используют люди, мы бы не смогли сделать его лучше и предоставить такой продукт, какой вы хотите. Мы тратим усилия на создание инструментов сбора и анализа данных, которые позволяют нам принимать разумные решения относительно нашего продукта и при этом уважать чью-либо приватность. Вы можете прочитать больше о некоторых технологиях сохранения приватности, которые мы используем, таких как <a { $attrs }>OHTTP</a>.
 privacy-faq-v2-data-collection-bugs-me = Сбор данных всё равно меня беспокоит. Могу ли я его отключить?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
+#   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
+privacy-faq-v2-yes-user-control = Да. Предоставление контроля пользователям является одним из наших принципов приватности данных. Мы добавили это в { -brand-name-firefox } на нашу <a { $privacy }>страницу настроек приватности</a>, предназначенную для всех, кто хочет контролировать свою приватность в { -brand-name-firefox }. Там вы можете <a { $data }>отключить сбор данных</a>.
 privacy-faq-v2-what-about-my-account = А как насчёт данных моего аккаунта?
 privacy-faq-v2-we-are-big-believers = Мы сторонники уменьшения количества данных и собираем только минимально необходимый объем данных.
 # Variables:
