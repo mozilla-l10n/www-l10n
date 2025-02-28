@@ -27,7 +27,7 @@ privacy-faq-v2-it-seems-like = Zda so, kaž by kóžde předewzaće we webje moj
 privacy-faq-v2-wait-so-how = Moment, z čim da pjenjezy zaslužiće?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org
-privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } žana wšědna organizacija njeje. Jako projekt wotewrjeneho žórła zhromadźenstwa w lěće 1998 załoženy, je { -brand-name-mozilla } organizacija z misiju, kotraž za strowši internet dźěła. Wjetšina dochodow, kotrež předewzaće { -brand-name-mozilla-corporation } docpěwa, pochadźeja z płaćenjow přez partnerstwa webwobhladowaka { -brand-name-firefox } a rozdźělenskich dojednanjow z cyłeho swěta. Móžeće w našej <a { $attrs }">lětnej financnej rozprawje </a> wjace wo tym zhonić, kak pjenjezy zasłužimy.
+privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } žana wšědna organizacija njeje. Jako projekt wotewrjeneho žórła zhromadźenstwa w lěće 1998 załoženy, je { -brand-name-mozilla } organizacija z misiju, kotraž za strowši internet dźěła. Wjetšina dochodow, kotrež předewzaće { -brand-name-mozilla-corporation } docpěwa, pochadźeja z płaćenjow přez partnerstwa webwobhladowaka { -brand-name-firefox } a rozdźělenskich dojednanjow z cyłeho swěta. Móžeće w našej <a { $attrs }>lětnej financnej rozprawje </a> wjace wo tym zhonić, kak pjenjezy zasłužimy.
 privacy-faq-v2-softballs = W porjadku, tute prašenja su jednore byli. Kotre daty zběraće?
 privacy-faq-v2-do-you-collect = Zběraće wjace datow w předwersijach { -brand-name-firefox }?
 privacy-faq-v2-sort-of = We wěstym nastupanju. Přidatnje k datam, kotrež smy horjeka wopisali, dóstawamy w předwersijach { -brand-name-firefox } po standardźe rozprawy wo zmylkach a spadach.

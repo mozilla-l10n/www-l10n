@@ -31,7 +31,7 @@ privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } säljer inte data
 privacy-faq-v2-wait-so-how = Vänta, så hur tjänar ni pengar?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org
-privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } är inte din genomsnittliga organisation. { -brand-name-mozilla } grundades som ett gemenskapsprojekt med öppen källkod 1998 och är en missionsdriven organisation som arbetar mot ett hälsosammare internet. Majoriteten av { -brand-name-mozilla-corporation }s intäkter kommer från royalties som tjänats in genom { -brand-name-firefox } sökpartnerskap och distributionsavtal för webbläsare runt om i världen. Du kan läsa mer om hur vi tjänar pengar i vår <a { $attrs }">årsrapport</a>.
+privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } är inte din genomsnittliga organisation. { -brand-name-mozilla } grundades som ett gemenskapsprojekt med öppen källkod 1998 och är en missionsdriven organisation som arbetar mot ett hälsosammare internet. Majoriteten av { -brand-name-mozilla-corporation }s intäkter kommer från royalties som tjänats in genom { -brand-name-firefox } sökpartnerskap och distributionsavtal för webbläsare runt om i världen. Du kan läsa mer om hur vi tjänar pengar i vår <a { $attrs }>årsrapport</a>.
 privacy-faq-v2-softballs = Ok, det var de enkla frågorna. Vilka uppgifter samlar ni in?
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/

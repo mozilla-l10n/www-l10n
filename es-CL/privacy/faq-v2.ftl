@@ -31,7 +31,7 @@ privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } no vende datos so
 privacy-faq-v2-wait-so-how = Esperen, ¿cómo es que hacen plata?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org
-privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } no es una organización como cualquier otra. Se creó como un proyecto de comunidad de código abierto en 1998 y su principal misión es trabajar por un Internet más sano. Una gran parte de los ingresos de la { -brand-name-mozilla-corporation } provienen de las regalías que obtiene el navegador { -brand-name-firefox } con las colaboraciones de búsqueda y acuerdos de distribución en todo el mundo. Puedes descubrir más sobre cómo generamos ingresos en nuestro <a href="{ $attrs }">informe económico anual</a>.
+privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } no es una organización como cualquier otra. Se creó como un proyecto de comunidad de código abierto en 1998 y su principal misión es trabajar por un Internet más sano. Una gran parte de los ingresos de la { -brand-name-mozilla-corporation } provienen de las regalías que obtiene el navegador { -brand-name-firefox } con las colaboraciones de búsqueda y acuerdos de distribución en todo el mundo. Puedes descubrir más sobre cómo generamos ingresos en nuestro <a { $attrs }>informe económico anual</a>.
 privacy-faq-v2-softballs = Ok, esas preguntas estaban fáciles. ¿Qué datos recolectan?
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
@@ -41,7 +41,7 @@ privacy-faq-v2-do-you-collect = ¿Recolectan más datos en las versiones prelimi
 privacy-faq-v2-sort-of = Algo así. Además de los datos ya descritos, recibimos informes de fallos y errores de manera predeterminada en las versiones preliminares de { -brand-name-firefox }.
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/shield
-privacy-faq-v2-we-may-also = También podemos recopilar datos adicionales en la versión preliminar para uno de nuestros <a href="{ $attrs }">estudios</a>. Por ejemplo, algunos estudios necesitan lo que llamamos “datos de navegación”, que pueden incluir direcciones URL y otra información sobre ciertos sitios web. Esto nos ayuda a responder preguntas concretas para mejorar { -brand-name-firefox }, tales como integrar mejor sitios web populares en localizaciones específicas.
+privacy-faq-v2-we-may-also = También podemos recopilar datos adicionales en la versión preliminar para uno de nuestros <a { $attrs }>estudios</a>. Por ejemplo, algunos estudios necesitan lo que llamamos “datos de navegación”, que pueden incluir direcciones URL y otra información sobre ciertos sitios web. Esto nos ayuda a responder preguntas concretas para mejorar { -brand-name-firefox }, tales como integrar mejor sitios web populares en localizaciones específicas.
 privacy-faq-v2-mozilla-pre-release = Las versiones preliminares de { -brand-name-firefox } por { -brand-name-mozilla } son plataformas de desarrollo, actualizadas frecuentemente con funciones experimentales. Recopilamos más datos en la versión preliminar de lo que lo hacemos después del lanzamiento, para entender cómo operan estas funciones experimentales. Puedes evitar la recopilación de estos datos en las preferencias.
 privacy-faq-v2-but-why-do-you = ¿Pero por qué recolectan datos?
 # Variables:

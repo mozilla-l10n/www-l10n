@@ -27,7 +27,7 @@ privacy-faq-v2-it-seems-like = 好像網路上的每個公司都在買賣我的�
 privacy-faq-v2-wait-so-how = 等等，那你們這樣要如何賺錢？
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org
-privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } 不是一個普通的非營利組織。自 1998 年，以開放原始碼社群專案奠基而來，{ -brand-name-mozilla } 是一個由使命而驅動的組織，致力於讓網際網路的環境變得更健康。{ -brand-name-mozilla-corporation } 的大部分收入來自 { -brand-name-firefox } 瀏覽器中搜尋功能的使用費，以及在世界各地的商業發行合約。您可以參考我們的<a { $attrs }">年度財報</a>，更加了解我們如何賺取收入。
+privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } 不是一個普通的非營利組織。自 1998 年，以開放原始碼社群專案奠基而來，{ -brand-name-mozilla } 是一個由使命而驅動的組織，致力於讓網際網路的環境變得更健康。{ -brand-name-mozilla-corporation } 的大部分收入來自 { -brand-name-firefox } 瀏覽器中搜尋功能的使用費，以及在世界各地的商業發行合約。您可以參考我們的<a { $attrs }>年度財報</a>，更加了解我們如何賺取收入。
 privacy-faq-v2-softballs = 好，前幾題比較簡單。你們收集哪些資料？
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
