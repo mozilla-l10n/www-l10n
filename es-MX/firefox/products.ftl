@@ -8,6 +8,7 @@
 
 ## Firefox
 
+firefox-products-firefox = { -brand-name-firefox }
 
 ## Focus
 
@@ -16,6 +17,7 @@ firefox-products-your-dedicated-privacy = Tu navegador dedicado a la privacidad 
 
 ## Monitor
 
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
 firefox-products-see-if-your-personal-information = Comprueba si tu información personal se ha visto comprometida en una filtración de datos corporativos y regístrate para recibir futuras alertas.
 firefox-products-check-for-breaches = Consulta las filtraciones
 
@@ -23,6 +25,7 @@ firefox-products-check-for-breaches = Consulta las filtraciones
 
 firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = Protege tu dirección de correo electrónico real para ayudar a controlar tu bandeja de entrada.
+firefox-products-get-relay = Obtén { -brand-name-firefox-relay }
 
 ## VPN
 

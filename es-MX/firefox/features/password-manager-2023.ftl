@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
+# HTML page title
+password-manager-free-password-manager = Administrador de contraseñas gratuito
 # HTML page description
 password-manager-firefox-password-manager-saves-all = La gestión de contraseñas de { -brand-name-firefox } guarda todas tus contraseñas en un solo lugar para que puedas tener acceso automático a los sitios o recuperar las contraseñas guardadas.
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } almacena de forma segura sus nombres de usuario y contraseñas para acceder a sitios web, los completa automáticamente la próxima vez que visite un sitio web y le permite administrar sus inicios de sesión almacenados con su función de administración de contraseñas incorporada.

@@ -27,3 +27,16 @@ features-index-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } 
 features-index-add-new-tools-capabilities-and = Agregue nuevas herramientas, capacidades y cosas divertidas a su navegador.
 features-index-pinned-browser-tabs = Pestañas del navegador fijadas
 features-index-keep-your-favorite-pages-open = Mantenga sus páginas favoritas abiertas y a solo un clic de distancia. Utilice pestañas fijadas para controlar su correo electrónico o aplicaciones de mensajería.
+features-index-eyedropper-tool = Herramienta cuentagotas
+features-index-identify-the-exact-color-on-a = Identifique el color exacto en una página y copie su código hexadecimal.
+features-index-pdf-editor = editor de PDF
+features-index-view-and-edit-pdf-files = Vea y edite archivos PDF directamente en { -brand-name-firefox }.
+features-index-fingerprint-blocking = Bloqueo de huellas dactilares
+features-index-ad-tracker-blocking = Bloqueo de rastreadores de anuncios
+features-index-firefox-automatically-blocks = { -brand-name-firefox } bloquea automáticamente más de 2000 rastreadores de publicidad para que no te sigan por Internet.
+# "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
+features-index-ditch-the-sticky-ads = Deshazte de los anuncios que te persiguen con los bloqueadores de huellas digitales integrados en el navegador { -brand-name-firefox }.
+features-index-translate-the-web = Traducir la web
+features-index-translate-websites-to-your = Traduce sitios web a tu idioma directamente en tu navegador { -brand-name-firefox }, sin compartir tus datos con nadie más.
+features-index-picture-in-picture = Picture-in-Picture
+features-index-got-things-to-do = ¿Tienes cosas que hacer y cosas que ver? Haz ambas usando Picture-in-Picture en { -brand-name-firefox }.

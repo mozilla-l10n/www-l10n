@@ -31,6 +31,7 @@ about-read-the-manifesto = Lee el Manifiesto
 about-a-global-view = Una visión global
 about-with-offices-all-over-the = Con <a href="{ $url }">oficinas en todo el mundo</a>, consideramos Internet desde múltiples culturas y contextos.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = Hablando de temas tecnológicos en la vida real
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> invitados cada año, excluyendo empleados
 about-berlin = Berlín
