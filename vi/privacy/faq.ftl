@@ -8,7 +8,7 @@
 # HTML page title
 privacy-faq-mozillas-data-privacy-faq = Câu hỏi thường gặp về bảo mật dữ liệu của { -brand-name-mozilla }
 privacy-faq-at-mozilla-we-respect-and-protect-desc = Tại { -brand-name-mozilla }, chúng tôi tôn trọng và bảo vệ thông tin cá nhân của bạn.
-privacy-faq-we-stand-for-people-over-profit = Chúng tôi ủng hộ những người vì lợi nhuận.
+privacy-faq-we-stand-for-people-over-profit = Chúng tôi ủng hộ mọi người hơn là lợi nhuận.
 privacy-faq-it-can-be-tricky-for-people = Mọi người có thể khó biết được những gì mong đợi đối với bất kỳ phần mềm hoặc dịch vụ nào họ sử dụng ngày nay. Công nghệ cung cấp năng lượng cho cuộc sống của chúng ta rất phức tạp và mọi người không có thời gian để tìm hiểu chi tiết. Điều đó vẫn đúng với { -brand-name-firefox }, nơi chúng tôi thấy rằng mọi người có nhiều ý tưởng khác nhau về những gì đang diễn ra trong trình duyệt của họ.
 privacy-faq-at-mozilla-we-respect-and-protect = Tại { -brand-name-mozilla }, chúng tôi tôn trọng và bảo vệ thông tin cá nhân của bạn:
 # Variables:
