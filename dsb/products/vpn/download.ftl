@@ -16,6 +16,7 @@ vpn-download-button-copy = Ześěgnuś
 vpn-download-for-windows-v2 = VPN za { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (jano 64-bitowy)
 vpn-download-for-windows-long = Ześěgniśo { -brand-name-mozilla-vpn } za { -brand-name-windows }
+vpn-download-for-firefox-extension = Rozšyrjenje { -brand-name-firefox } instalěrowaś
 vpn-download-for-mac = VPN za { -brand-name-mac-short }
 vpn-download-for-mac-long = Ześěgniśo { -brand-name-mozilla-vpn } za { -brand-name-mac-short }
 # Variables:

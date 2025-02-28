@@ -18,12 +18,17 @@ privacy-faq-v2-we-follow = Slědujomy rěd <a { $attrs }>zasadow priwatnosći</a
 privacy-faq-v2-we-strive-collect-data = Procujomy se, jano daty gromaźiś, kótarež trjebamy, aby my nejlěpše produkty wuwijali.
 privacy-faq-v2-we-work-to = Źěłamy, aby my luźam kontrolu nad jich datami a dožywjenjami online wóstajili.
 privacy-faq-v2-we-adhere = Za nas princip „žedne pśechwatanja“ płaśi, to groni, źěłamy śěžko na tom, až se wócakowanja luźi na { -brand-name-firefox } z napšawdnosću kšyju.
+privacy-faq-v2-following-questions = Slědujuce pšašanja a wótegrona maju wam pomagaś, rozměś, což móžośo wót { -brand-name-mozilla } a { -brand-name-firefox } wócakowaś:
 
 ## FAQ
 
 privacy-faq-v2-i-use-firefox = Wužywam { -brand-name-firefox } za skóro wšykno w interneśe. Nejskerjej wě { -brand-name-mozilla } pšawje wjele wó mnje, nic ga?
 privacy-faq-v2-it-seems-like = Zda se, ako by kužde pśedewześe we webje móje daty kupiło a pśedało. Pla was to nejskerjej hynac njejo.
 privacy-faq-v2-wait-so-how = Moment, z cym ga pjenjeze zaslužyśo?
+# Variables:
+#   $attrs (url) - link to https://stateof.mozilla.org
+privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } njejo žedna wšedna organizacija. Ako projekt wótwórjonego žrědła zgromaźeństwa w lěśe 1998 załožony, jo { -brand-name-mozilla } organizacija z misiju, kótaraž za strowšy internet źěła. Wětšyna zasłužbow, kótarež pśedewześe { -brand-name-mozilla-corporation } dojśpiwa, póchadaju z płaśenjow pśez partnaŕstwa webwobglědowaka { -brand-name-firefox } a rozdźěleńskich dogronow cełego swěta. Móžośo w našej <a { $attrs }>lětnej financnej rozpšawje </a> wěcej wó tom zgóniś, kak pjenjeze zasłužymy.
+privacy-faq-v2-softballs = W pórěźe, toś te pšašanja su byli jadnore. Kótare daty zběraśo?
 privacy-faq-v2-do-you-collect = Zběraśo wěcej datow w pśedwersijach { -brand-name-firefox }?
 privacy-faq-v2-sort-of = We wěstem nastupanju. Pśidatnje k datam, kótarež smy górjejce wopisali, dostawamy w pśedwersijach { -brand-name-firefox } pó standarźe rozpšawy wó zmólkach a wowalenjach.
 # Variables:

@@ -16,10 +16,13 @@ vpn-landing-whats-a-vpn = Co jo VPN?
 vpn-landing-a-virtual-private-network-protects = Wirtualna priwatna seś waš zwisk z internetom šćita a wobchowujo wašo stojnišćo a což online priwatnjejše na wšych wašych rědach cyniśo.
 vpn-landing-see-all-the-ways-mozilla-vpn = Woglědajśo se wšykne móžnosći, z kótarymiž { -brand-name-mozilla-vpn } wam šćita.
 vpn-landing-how-a-vpn-helps-you = Kak VPN wam pomaga
+vpn-landing-how-a-vpn-helps-you-v2 = Kak { -brand-name-mozilla-vpn } wam pomaga
 vpn-landing-keeps-your-data-safe = Źaržy waše daty wěste w zjawnem WLAN
 vpn-landing-log-in-to-your-bank-or = Pśizjawśo se pla swójeje banki abo praksy gójca wót lětanišća, kafejownje abo wót hynźi z dušynym měrom.
 vpn-landing-blocks-advertisers-from = Blokěrujo wabjece se na was měriś
 vpn-landing-hide-your-activity-from = Schowajśo swóju aktiwitu pśed pśeslědowakami a škódneju software, aby mógał nakupowaś, bźez togo aby was doglědowali.
+vpn-landing-take-control = Pśewzejśo kontrolu z nastajenjami VPN, kótarež su specifiske za websedło
+vpn-landing-customize-your-vpn = Pśiměŕśo swóje šćity VPN na websedłowej bazy z rozšyrjenim { -brand-name-mozilla-vpn } za { -brand-name-firefox } (jano Windows).
 vpn-landing-features = Funkcije
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
