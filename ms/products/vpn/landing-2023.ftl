@@ -22,8 +22,6 @@ vpn-landing-keeps-your-data-safe = Melindungi data anda di Wi-Fi awam
 vpn-landing-log-in-to-your-bank-or = Log masuk ke bank atau platform kesihatan anda dari lapangan terbang, kafe atau di mana jua dengan hati yang tenang.
 vpn-landing-blocks-advertisers-from = Menghalang pengiklan daripada mensasarkan anda
 vpn-landing-hide-your-activity-from = Sembunyikan aktiviti anda daripada penjejak dan malware agar anda boleh berbelanja tanpa takut diperhatikan.
-vpn-landing-helps-you-access-global = Membantu anda mengakses kandungan dari seluruh dunia
-vpn-landing-check-out-streaming-media = Melayari kandungan strim, laman web atau strim langsung dari negara lain sambil mengembara atau dari rumah.
 vpn-landing-features = Ciri-ciri
 
 # Variables:

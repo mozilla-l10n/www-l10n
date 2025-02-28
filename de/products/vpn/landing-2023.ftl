@@ -22,8 +22,6 @@ vpn-landing-keeps-your-data-safe = Schützt deine Daten im öffentlichen WLAN
 vpn-landing-log-in-to-your-bank-or = Logge dich ganz beruhigt bei deiner Bank oder deiner Arztpraxis ein – auch in öffentlichen Netzwerken am Flughafen oder im Café.
 vpn-landing-blocks-advertisers-from = Blockiert direkte Werbung von Werbetreibenden
 vpn-landing-hide-your-activity-from = Verstecke deine Aktivitäten vor Trackern und Malware, um unbeobachtet einzukaufen.
-vpn-landing-helps-you-access-global = Lässt dich auf weltweite Inhalte zugreifen
-vpn-landing-check-out-streaming-media = Schau dir unterwegs oder zu Hause Streaming-Plattformen, Websites und Live-Streams aus anderen Ländern an.
 vpn-landing-features = Funktionen
 
 # Variables:

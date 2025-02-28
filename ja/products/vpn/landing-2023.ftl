@@ -22,8 +22,6 @@ vpn-landing-keeps-your-data-safe = パブリック Wi-Fi でデータの安全�
 vpn-landing-log-in-to-your-bank-or = 空港やカフェなど、どこからでも安心して銀行やクリニックにログインできます。
 vpn-landing-blocks-advertisers-from = 広告からのターゲッティングをブロック
 vpn-landing-hide-your-activity-from = トラッカーやマルウェアからアクティビティを隠して、監視されることなくお買い物できるようにします。
-vpn-landing-helps-you-access-global = 世界のコンテンツにアクセス
-vpn-landing-check-out-streaming-media = 海外旅行中や自宅にいるときに、別の国のストリーミングメディアやウェブサイト、生配信をチェックできます。
 vpn-landing-features = 機能
 
 # Variables:
