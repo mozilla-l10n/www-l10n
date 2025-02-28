@@ -30,12 +30,12 @@ features-adblocker-ghostery-is-another-great = A <a { $attrs }>Ghostery</a> egy 
 # Variables:
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
-features-adblocker-these-extensions-work-beautifully = Ezek a kiegészítők gyönyörűen működnek mind az <a { $attrs1 }>asztali { -brand-name-firefox }ban</a>, mind az <a { $attrs2 }>androidos változatban</a>.
+features-adblocker-these-extensions-work-beautifully = Ezek a kiegészítők gyönyörűen működnek mind az <a { $attrs1 }>asztali { -brand-name-firefox(case: "inessive") }</a>, mind az <a { $attrs2 }>androidos változatban</a>.
 features-adblocker-create-a-tracker-free = Hozzon létre egy követőmentes zónát a tartalomblokkolással
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
-features-adblocker-on-firefox-you-can-use = A { -brand-name-firefox }ban használhatja az <a href="{ $privacy }">adatvédelmi</a> vagy <a href="{ $blocking }">tartalomblokkolási</a> beállításokat, hogy még nagyobb irányítása legyen a hirdetéseket kiszolgáló reklámkövetők felett.
+features-adblocker-on-firefox-you-can-use = A { -brand-name-firefox(case: "inessive") } használhatja az <a href="{ $privacy }">adatvédelmi</a> vagy <a href="{ $blocking }">tartalomblokkolási</a> beállításokat, hogy még nagyobb irányítása legyen a hirdetéseket kiszolgáló reklámkövetők felett.
 features-adblocker-choose-your-level-of-protection = Válassza ki a védelem szintjét
 features-adblocker-to-start-click-on-the-v2 = A kezdéshez kattintson a pajzsra bármely weboldal címsorától balra, és válassza a „Védelmi beállítások” lehetőséget. Ez egy új lapon nyitja meg a { -brand-name-firefox } Beállítások – Adatvédelem és biztonság paneljét. Egy kék felugró ablakot kell látnia, különböző választási lehetőségekkel.
 features-adblocker-go-easy-with-standard = Legyen engedékeny a Szokásos móddal
@@ -52,7 +52,7 @@ features-adblocker-take-a-bite-out-of-cookies = Harapjon bele a sütikbe
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = A <a href="{ $url }">sütiket</a> a felkeresett weboldalak küldik el. A számítógépén élnek, és követik, hogy mit csinált az oldalon. Ha egy légitársaság megemeli az árakat, mert minden nap nézegeti a repülőjegyeket, akkor ezt egy süti teszi lehetővé.
-features-adblocker-in-firefox-you-can-block = A { -brand-name-firefox }ban blokkolhatja az összes harmadik féltől származó sütit, vagy csak azokat, amelyeket a követők állítanak be. Ne feledje, hogy a sütik blokkolása hibát okozhat az egyes webhelyeken.
+features-adblocker-in-firefox-you-can-block = A { -brand-name-firefox(case: "inessive") } blokkolhatja az összes harmadik féltől származó sütit, vagy csak azokat, amelyeket a követők állítanak be. Ne feledje, hogy a sütik blokkolása hibát okozhat az egyes webhelyeken.
 features-adblocker-speed-up-thanks-to-ad = Gyorsítson fel a reklámblokkolóknak köszönhetően
 features-adblocker-in-some-cases-an-ad-blocker = Bizonyos esetekben egy reklámblokkoló segíthet a böngésző felgyorsításában. Ha egy hirdetés betöltődik, az lassíthatja a webhelyet. Ezzel egyidejűleg hosszabb időt vesz igénybe, hogy megkeresse azt, amit keres, ha a reklámok bezárásával tölti az idejét.
 # Variables:

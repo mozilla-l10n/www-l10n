@@ -47,7 +47,7 @@ misinformation-surface-content-heading = A { -brand-name-firefox } segít felsz�
 #   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
 #   $pocket (url) - link to https://getpocket.com/
 misinformation-surface-content-desc = Amikor új lapot nyit meg a { -brand-name-firefox } böngészőben, akkor megjelennek a <a href="{ $recommended }">{ -brand-name-pocket } által ajánlott</a> cikkek. A { -brand-name-pocket } semmilyen személyes adatot nem használ az ajánlásokhoz. Ehelyett a cikkeket valódi emberek készítik, az alkalmazás használatával. Az új történetek, nézőpontok és vélemények felfedezésének képessége a félrevezető információk terjedése elleni küzdelem egyik módja. Ha még több ajánlást szeretne kapni, iratkozzon fel a <a href="{ $pocket_hits }">{ -brand-name-pocket } hírlevélre</a>, és töltse le a <a href="{ $pocket }"> { -brand-name-pocket } alkalmazást</a>.
-misinformation-why-trust-firefox = Miért bízzon a { -brand-name-firefox }ban?
+misinformation-why-trust-firefox = Miért bízzon a { -brand-name-firefox(case: "inessive") }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
 misinformation-because-we-put-people-first = Mert az embereket helyezzük az első helyre. Valójában egy <a href="{ $foundation }">nonprofit szervezet</a> támogat minket. Az első naptól kezdve a küldetésünk az internet védelme, és mindazoké, akik azt használják.

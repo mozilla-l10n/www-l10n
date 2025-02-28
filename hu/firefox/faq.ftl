@@ -71,7 +71,7 @@ does-firefox-use = A { -brand-name-firefox } a { -brand-name-google }-t használ
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
-firefoxs-default-search = A { -brand-name-google } az alapértelmezett keresőszolgáltatás a { -brand-name-firefox }ban, ami azt jelenti, hogy közvetlenül a címsávban kereshet a világhálón. <a href="{ $url }">Tudjon meg többet a keresőszolgáltatás-beállításokról és az alapértelmezések módosításáról.</a>
+firefoxs-default-search = A { -brand-name-google } az alapértelmezett keresőszolgáltatás a { -brand-name-firefox(case: "inessive") }, ami azt jelenti, hogy közvetlenül a címsávban kereshet a világhálón. <a href="{ $url }">Tudjon meg többet a keresőszolgáltatás-beállításokról és az alapértelmezések módosításáról.</a>
 does-firefox-have = A { -brand-name-firefox } rendelkezik beépített VPN-nel?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/

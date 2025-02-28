@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/eyedropper/
 
 features-eyedropper-eyedropper-tool = Pipetta eszköz
-features-eyedropper-select-colors-in-firefox = Válasszon színeket a { -brand-name-firefox }ban a pipetta eszközzel
+features-eyedropper-select-colors-in-firefox = Válasszon színeket a { -brand-name-firefox(case: "inessive") } a pipetta eszközzel
 # HTML page description
 features-eyedropper-identify-the-exact-color-on-a = Azonosítsa a pontos színt egy oldalon, és másolja a hexa kódját.
 features-eyedropper-there-are-a-lot-of-reasons = Sok oka lehet annak, hogy miért szeretné tudni egy weboldal adott színének hexa színkódját – talán Ön weboldalakat készít, vagy tervezőgrafikus. A { -brand-name-firefox } asztali verziójában található pipetta eszközzel megtalálhatja a pontos hexa színkódokat, egyszerűen úgy, hogy rámutat a weboldalon megjelenő színekre. Egyetlen kattintás a vágólapra másolja a színértéket.

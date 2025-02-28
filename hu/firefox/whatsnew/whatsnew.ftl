@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
-whatsnew-page-title-v2 = Újdonságok a { -brand-name-firefox }ban
+whatsnew-page-title-v2 = Újdonságok a { -brand-name-firefox(case: "inessive") }
 whatsnew-page-description = Védje meg önmagát és adatait azzal a szektorral szemben, amely harmadik feleknek értékesíti az Ön adatait. Hozzon okos és biztonságos döntést az Önt képviselő technológia segítségével.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = A { -brand-name-firefox }a frissítve lett.

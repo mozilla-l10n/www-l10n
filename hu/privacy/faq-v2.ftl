@@ -14,7 +14,7 @@ privacy-faq-v2-intro = Az emberek számára bonyolult megtudni, hogy mit is vár
 privacy-faq-v2-at-mozilla = A { -brand-name-mozilla(ending: "accented") }nál tiszteletben tartjuk és védjük a személyes információit:
 # Variables:
 #   $attrs (url) - link to https://www.mozilla.org/privacy/principles/
-privacy-faq-v2-we-follow = Az <a { $attrs }>Adatvédelmi irányelveket</a> követjük, amelyek alakítják az adatvédelmi hozzáállásunk az asztali és mobilböngészőkben a { -brand-name-firefox }ban.
+privacy-faq-v2-we-follow = Az <a { $attrs }>Adatvédelmi irányelveket</a> követjük, amelyek alakítják az adatvédelmi hozzáállásunk az asztali és mobilböngészőkben a { -brand-name-firefox(case: "inessive") }.
 privacy-faq-v2-we-strive-collect-data = Arra törekszünk, hogy csak a lehető legjobb termékek készítéséhez szükséges adatokat gyűjtsük.
 privacy-faq-v2-we-work-to = Azon dolgozunk, hogy az emberek kezükbe adják az adataik és online élményeik irányítását.
 privacy-faq-v2-we-adhere = A „nincsenek meglepetések” elvet követjük, ami azt jelenti, hogy keményen dolgozunk azon, hogy az emberek { -brand-name-firefox(case: "delative") } alkotott képe megegyezzen a valósággal.
@@ -48,6 +48,10 @@ privacy-faq-v2-but-why-do-you = De egyáltalán miért gyűjtötök adatokat?
 #   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
 privacy-faq-v2-if-we-dont-know = Ha nem tudjuk hogyan teljesít a böngésző, és mely funkciókat használják az emberek, akkor nem tudunk rajta javítani, és azt a nagyszerű terméket szállítani, amit szeretne. Sokat fektettünk bele olyan adatgyűjtő és elemző eszközökbe, amelyekkel okos döntést hozhatunk a termékünkről, miközben tiszteletben tartjuk az emberek adatvédelmét. Többet olvashat az általunk használt egyes adatvédelmi technológiákról, mint például az <a { $attrs }>OHTTP</a>.
 privacy-faq-v2-data-collection-bugs-me = Az adatgyűjtés így is zavar. Kikapcsolhatom?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
+#   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
+privacy-faq-v2-yes-user-control = Igen. A felhasználói irányítás az egyik adatvédelmi irányelvünk. Ezt a { -brand-name-firefox } <a { $privacy }> adatvédelmi beállításainak oldalán</a> ültetjük a gyakorlatba, mely minden adatvédelmi beállítást tartalmaz azok számára, akik a saját kezükbe vennék az adatvédelmük feletti irányítást a { -brand-name-firefox(case: "inessive") }. Ott <a { $data }>kikapcsolhatja az adatgyűjtést</a>.
 privacy-faq-v2-what-about-my-account = Mi a helyzet a fiókadataimmal?
 privacy-faq-v2-we-are-big-believers = Annak a hívei vagyunk, hogy minél kevesebb adatot tároljunk, és ne kérjünk olyat, amire nincs szükségünk.
 # Variables:

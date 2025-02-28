@@ -52,7 +52,7 @@ privacy-faq-data-collection-still-bugs-me = Az adatgyűjtés így is zavar. Kika
 # Variables:
 #   $settings (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 #   $data (url) - link to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
-privacy-faq-yes-user-control-is-one-of-our = Igen. A felhasználói irányítás az egyik adatvédelmi irányelvünk. Ezt a { -brand-name-firefox } <a href="{ $settings }">adatvédelmi beállítások oldalán</a> ültetjük a gyakorlatba, mely minden adatvédelmi beállítást tartalmaz azok számára, akik a saját kezükbe vennék az adatvédelmük irányítását a { -brand-name-firefox }ban. Ott <a href="{ $data }">kikapcsolhatja az adatgyűjtést</a>.
+privacy-faq-yes-user-control-is-one-of-our = Igen. A felhasználói irányítás az egyik adatvédelmi irányelvünk. Ezt a { -brand-name-firefox } <a href="{ $settings }">adatvédelmi beállítások oldalán</a> ültetjük a gyakorlatba, mely minden adatvédelmi beállítást tartalmaz azok számára, akik a saját kezükbe vennék az adatvédelmük irányítását a { -brand-name-firefox(case: "inessive") }. Ott <a href="{ $data }">kikapcsolhatja az adatgyűjtést</a>.
 privacy-faq-what-about-my-account-data = Mi a helyzet a fiókadataimmal?
 privacy-faq-we-are-big-believers-of-data = Annak a hívei vagyunk, hogy minél kevesebb adatot tároljunk, és ne kérjünk olyat, amire nincs szükségünk.
 # Variables:
