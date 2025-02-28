@@ -23,3 +23,5 @@ privacy-faq-v2-following-questions = Le seguenti domande e risposte dovrebbero a
 ## FAQ
 
 privacy-faq-v2-i-use-firefox = Uso { -brand-name-firefox } per fare quasi tutto sul Web. Voi di { -brand-name-mozilla } dovreste sapere tantissime cose sul mio conto, giusto?
+privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } ha meno informazioni di quanto ti aspetteresti su come le persone navigano sul Web. { -brand-name-firefox }, il browser web che usi sul tuo dispositivo o computer, è la tua porta di accesso a Internet. Il tuo browser gestisce molte informazioni sui siti web che visiti, ma generalmente queste informazioni rimangono sul tuo dispositivo.
+privacy-faq-v2-it-seems-like = Mi sembra che ogni azienda sul Web compri e venda i miei dati, voi probabilmente non siete diversi.

@@ -48,3 +48,12 @@ privacy-faq-v2-but-why-do-you = Pero, ¿por qué recolectan datos?
 #   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
 privacy-faq-v2-if-we-dont-know = Si no sabemos cómo está funcionando el navegador ni las funciones que usa la gente, no podemos hacerlo mejor ni entregar el maravilloso producto que querés. Invertimos en la construcción de herramientas de recolección de datos y análisis que nos permiten tomas decisiones inteligentes sobre nuestro producto mientras respetamos la privacidad de la gente. Podés leer más sobre algunas de las tecnologías de preservación de privacidad que usamos, como <a { $attrs }>OHTTP</a>.
 privacy-faq-v2-data-collection-bugs-me = La recolección de datos me incomoda igual. ¿Puedo desactivarla?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
+#   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
+privacy-faq-v2-yes-user-control = Sí. El control del usuario es uno de nuestros principios de privacidad. Ponemos esto en práctica en { -brand-name-firefox } en nuestros <a { $privacy }>ajustes de privacidad</a>, que funciona como freno para cualquiera que busque tomar el control de su privacidad en { -brand-name-firefox }. Podés <a { $data }>deshabilitar la recolección de datos</a> ahí.
+privacy-faq-v2-what-about-my-account = ¿Qué pasa con los datos de mi cuenta?
+privacy-faq-v2-we-are-big-believers = Creemos en la minimización de los datos y en no pedir lo que no necesitamos.
+# Variables:
+#   $attrs (url) - link to https://www.mozilla.org/account/
+privacy-faq-v2-you-dont-need-an-account = No necesitás una cuenta para usar { -brand-name-firefox }. Las <a href="{ $accounts }">cuentas</a> son necesarias para sincronizar datos entre dispositivos, pero solo te pedimos una dirección de correo electrónico y tu edad (solo para asegurarnos que no sos un chico).
