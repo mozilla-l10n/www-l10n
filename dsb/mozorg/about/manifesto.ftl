@@ -51,6 +51,7 @@ manifesto-we-are-committed-to-thinking = Zastupujomy internet, kótaryž kritisk
 manifesto-we-are-committed-to-diverse = Zastupujomy internet, kótaryž zgromadne źěło wšakich zgromaźeństwow pógónujo, kótarež za zgromadne dobro gromaźe źěłaju.
 manifesto-show-your-support = Wašu pódpěru pokazaś
 manifesto-an-internet-with-these = Internet z toś tymi kwalitami wót samego njenastawa. Wósoby a organizacije muse toś te cele k internetnej technologiji a k cłowjeskemu dožywjenjeju z internetom pśinosowaś. Manifest { -brand-name-mozilla } a pśidank reprezentěrujotej angažěrowanosć { -brand-name-mozilla } za rozšyrjowanje toś tych celow. Prócujomy se wó zgromadne źěło z luźimi a organizacijami wšuźi, kótarež toś te cele źěle, aby my internet k hyšći lěpšemu městnoju za kuždego cynili.
+manifesto-i-support-the-vision-of-v2 = Pódpěram wiziju lěpšego, strowšego interneta wót { -brand-name-mozilla }, cośo se nam pśizamknuś?
 # obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Pódpěram wiziju lěpšego, strowšego interneta wót @mozilla, cośo se nam pśizamknuś?
 manifesto-share-on-bluesky = Na Bluesky źěliś
