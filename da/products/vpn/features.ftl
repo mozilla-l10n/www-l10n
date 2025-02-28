@@ -11,6 +11,14 @@ vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 # Line break for visual format only
 vpn-features-features-that-protect = Funktioner, der beskytter<br>dit liv på nettet
 vpn-features-convenient = Praktisk
+# Variables
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-features-more-than =
+    { $servers ->
+        [one] Mere end { $servers } server i over { $countries } lande
+       *[other] Mere end { $servers } servere i over { $countries } lande
+    }
 vpn-features-see-our-list = Se vores liste over servere.
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -19,6 +27,8 @@ vpn-features-connect-up-to =
         [one] Tilslut op til { $devices } enhed
        *[other] Tilslut op til { $devices } enheder
     }
+vpn-features-supported-platforms = Understøtter Windows, macOS, Android, iOS og Linux.
+vpn-features-no-bandwidth = Ingen neddrosling eller begrænsning af båndbredde
 vpn-features-secure = Sikker
 vpn-features-encrypt-your-internet = Krypter al din internettrafik
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } beskytter alle apps på din enhed, ikke kun din browser.
