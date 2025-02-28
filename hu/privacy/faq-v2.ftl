@@ -10,7 +10,7 @@ privacy-faq-v2-title = { -brand-name-mozilla } adatvédelmi GYIK
 # HTML page description
 privacy-faq-v2-desc = A { -brand-name-mozilla(ending: "accented") }nál tiszteletben tartjuk és védjük a személyes információit.
 privacy-faq-v2-heading = Az embereket a profit elé helyezzük.
-privacy-faq-v2-intro = Az emberek számára bonyolult megtudni, hogy mit is várhatnak egy ma használt szoftvertől vagy szolgáltatástól. A technológia, ami az életünket vezérli összetett, és az embereknek nincs idejük a részletekbe merülni. Ez a { -brand-name-firefox }ra is igaz, ahogy úgy találjuk, hogy az embereknek számos különböző ötletük van arra, hogy mi is történik a motorháztető alatt.
+privacy-faq-v2-intro = Az emberek számára bonyolult megtudni, hogy mit is várhatnak egy ma használt szoftvertől vagy szolgáltatástól. A technológia, ami az életünket vezérli összetett, és az embereknek nincs idejük a részletekbe merülni. Ez a { -brand-name-firefox(case: "sublative") } is igaz, ahogy úgy találjuk, hogy az embereknek számos különböző ötletük van arra, hogy mi is történik a motorháztető alatt.
 privacy-faq-v2-at-mozilla = A { -brand-name-mozilla(ending: "accented") }nál tiszteletben tartjuk és védjük a személyes információit:
 # Variables:
 #   $attrs (url) - link to https://www.mozilla.org/privacy/principles/
@@ -18,12 +18,12 @@ privacy-faq-v2-we-follow = Az <a { $attrs }>Adatvédelmi irányelveket</a> köve
 privacy-faq-v2-we-strive-collect-data = Arra törekszünk, hogy csak a lehető legjobb termékek készítéséhez szükséges adatokat gyűjtsük.
 privacy-faq-v2-we-work-to = Azon dolgozunk, hogy az emberek kezükbe adják az adataik és online élményeik irányítását.
 privacy-faq-v2-we-adhere = A „nincsenek meglepetések” elvet követjük, ami azt jelenti, hogy keményen dolgozunk azon, hogy az emberek { -brand-name-firefox(case: "delative") } alkotott képe megegyezzen a valósággal.
-privacy-faq-v2-following-questions = A következő kérdések és válaszok segítenek megérteni, hogy mit várhat a { -brand-name-mozilla(ending: "accented") }tól és a { -brand-name-firefox }tól:
+privacy-faq-v2-following-questions = A következő kérdések és válaszok segítenek megérteni, hogy mit várhat a { -brand-name-mozilla(ending: "accented") }tól és a { -brand-name-firefox(case: "ablative") }:
 
 ## FAQ
 
-privacy-faq-v2-i-use-firefox = Szinte mindenre a { -brand-name-firefox }ot használom a Weben. Ti ott a { -brand-name-mozilla(ending: "accented") }nál biztos sok mindent tudtok rólam, ugye?
-privacy-faq-v2-mozilla-does-not-know = A { -brand-name-mozilla } nem tud annyit, mint gondolná, arról, hogyan böngészik az emberek a világhálót. A { -brand-name-firefox }, a böngésző, amely az eszközén vagy számítógépén fut, az Ön átjárója az internethez. A böngészője sok információt kezel a meglátogatott weboldalakkal kapcsolatban, de ezek az információk általában megmaradnak az eszközén.
+privacy-faq-v2-i-use-firefox = Szinte mindenre a { -brand-name-firefox(case: "accusative") } használom a weben. Ott a { -brand-name-mozilla(ending: "accented") }nál biztos sok mindent tudnak rólam, ugye?
+privacy-faq-v2-mozilla-does-not-know = A { -brand-name-mozilla } nem tud annyit arról, hogy az emberek hogyan böngészik a világhálót, mint gondolná. A { -brand-name-firefox }, a böngésző, amely az eszközén vagy számítógépén fut, az Ön átjárója az internethez. A böngészője sok információt kezel a meglátogatott weboldalakkal kapcsolatban, de ezek az információk általában megmaradnak az eszközén.
 privacy-faq-v2-it-seems-like = Úgy tűnik, hogy minden egyes cég a weben adja és veszi az adataimat. Lehet, hogy ti sem vagytok különbek.
 # Variables:
 #   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
@@ -31,7 +31,7 @@ privacy-faq-v2-mozilla-does-not-sell = A { -brand-name-mozilla } nem adja el az 
 privacy-faq-v2-wait-so-how = Várjunk, akkor hogyan csináltok pénzt?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org
-privacy-faq-v2-mozilla-is-not = A { -brand-name-mozilla } nem az átlagos szervezet. Az 1998-ban egy közösségi nyílt forráskódú projektként alapított { -brand-name-mozilla } egy küldetés-vezérelt szervezet, amely az egészségesebb internetért dolgozik. A { -brand-name-mozilla-corporation } bevételének túlnyomó része a { -brand-name-firefox } böngészők keresési partnerségéből származó jogdíjak, valamint a világszerte kötött disztribúciós üzletek. Az <a { $attrs }>éves pénzügyi jelentésünkből</a> tudhat meg többet arról, hogyan keresünk pénzt.
+privacy-faq-v2-mozilla-is-not = A { -brand-name-mozilla } nem egy átlagos szervezet. Közösségi nyílt forráskódú projektként finanszírozott 1998 óta, a { -brand-name-mozilla } egy küldetés-vezérelt szervezet, amely az egészségesebb internetért dolgozik. A { -brand-name-mozilla-corporation } bevételének túlnyomó része a { -brand-name-firefox } webböngésző keresési partnerségéből származó jogdíjakból, valamint disztribúciós üzletekből származik. Az <a { $attrs }>éves pénzügyi jelentésünkből</a> többet tudhat meg arról, hogyan keresünk pénzt.
 privacy-faq-v2-softballs = Rendben, ezek voltak a könnyű esetek. Milyen adatokat gyűjtötök?
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/

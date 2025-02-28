@@ -21,6 +21,9 @@ privacy-faq-v2-we-adhere = Za nas princip „žedne pśechwatanja“ płaśi, to
 
 ## FAQ
 
+privacy-faq-v2-i-use-firefox = Wužywam { -brand-name-firefox } za skóro wšykno w interneśe. Nejskerjej wě { -brand-name-mozilla } pšawje wjele wó mnje, nic ga?
+privacy-faq-v2-it-seems-like = Zda se, ako by kužde pśedewześe we webje móje daty kupiło a pśedało. Pla was to nejskerjej hynac njejo.
+privacy-faq-v2-wait-so-how = Moment, z cym ga pjenjeze zaslužyśo?
 privacy-faq-v2-do-you-collect = Zběraśo wěcej datow w pśedwersijach { -brand-name-firefox }?
 privacy-faq-v2-sort-of = We wěstem nastupanju. Pśidatnje k datam, kótarež smy górjejce wopisali, dostawamy w pśedwersijach { -brand-name-firefox } pó standarźe rozpšawy wó zmólkach a wowalenjach.
 # Variables:
