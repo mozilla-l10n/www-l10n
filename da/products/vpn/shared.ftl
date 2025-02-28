@@ -7,6 +7,7 @@
 
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Skriv dig på ventelisten
+vpn-shared-available-countries-v6 = Vi tilbyder i øjeblikket { -brand-name-mozilla-vpn } i Østrig, Belgien, Bulgarien, Canada, Kroatien, Cypern, Tjekkiet, Danmark, Estland, Finland, Frankrig, Tyskland, Ungarn, Irland, Italien, Letland, Litauen, Luxembourg, Malaysia, Malta, Holland, New Zealand, Polen, Portugal, Rumænien, Singapore, Slovenien, Slovakiet, Spanien, Sverige, Schweiz, Storbritannien og USA.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 dages penge-retur-garanti
 vpn-shared-features-encrypt = Kryptering på enhedsniveau
