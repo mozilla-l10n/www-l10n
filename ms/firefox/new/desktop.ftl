@@ -22,6 +22,7 @@ firefox-desktop-out-of-date = { -brand-name-firefox } yang terkini boleh didapat
 
 firefox-desktop-download-get-the-browser = Dapatkan pelayar yang melindungi kepentingan anda
 
+firefox-desktop-download-fast-reliable-private = Pantas, boleh harap dan peribadi — demi kesejahteraan di atas talian.
 
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Tiada lagi polisi yang mencurigakan atau pintu belakang bagi pengiklan. Yang ada hanya pelayar pantas yang tidak menjual maklumat anda.
@@ -29,6 +30,8 @@ firefox-desktop-download-no-shady = Tiada lagi polisi yang mencurigakan atau pin
 firefox-desktop-download-download-options = Pilihan muat turun dan bahasa lain
 firefox-desktop-download-browser-support = Bantuan { -brand-name-firefox-browser }
 
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Buatlah apa yang anda gemari atas talian.<br> { -brand-name-firefox-browser } <strong>melindungi</strong> anda.
 
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Buatlah apa yang anda perlu atas talian.<br> { -brand-name-firefox-browser } <strong>tidak</strong> memerhati.
@@ -139,6 +142,9 @@ firefox-desktop-download-from-security-to = Sama ada keselamatan, berita atau pe
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } dihasilkan oleh <a { $attrs }>{ -brand-name-mozilla }</a> sebagai alternatif yang lebih pantas dan lebih peribadi berbanding pelayar seperti { -brand-name-ie }, dan kini { -brand-name-chrome }. Hingga kini, syarikat dan komuniti sukarelawan yang digerakkan oleh misi kami terus meletakkan privasi anda sebagai keutamaan.
 
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Dengan pelbagai perubahan yang berlaku di internet, { -brand-name-firefox } kekal fokus dengan hak anda untuk privasi — inilah keutamaan kami. Ketahui lebih lanjut tentang amalan data kami di <a { $attrs }>Notis Privasi</a>.
 
 # Obsolete string (expires: 2025-04-17)
 # Variables:
