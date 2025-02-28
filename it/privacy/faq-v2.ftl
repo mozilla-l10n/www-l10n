@@ -15,6 +15,11 @@ privacy-faq-v2-at-mozilla = In { -brand-name-mozilla } rispettiamo e proteggiamo
 # Variables:
 #   $attrs (url) - link to https://www.mozilla.org/privacy/principles/
 privacy-faq-v2-we-follow = Seguiamo una serie di <a href="{ $link }">principi relativi alla privacy dei dati</a> che definiscono il nostro approccio alla gestione della privacy in { -brand-name-firefox } per desktop e dispositivi mobili.
+privacy-faq-v2-we-strive-collect-data = Ci impegniamo a raccogliere solo i dati necessari per realizzare i migliori prodotti possibili.
+privacy-faq-v2-we-work-to = Lavoriamo per garantire alle persone il pieno controllo dei loro dati e delle loro esperienze online.
+privacy-faq-v2-we-adhere = Ci atteniamo al principio “niente sorprese”, il che significa che ci impegniamo a fondo affinché la percezione che le persone hanno di { -brand-name-firefox } corrisponda alla realtà.
+privacy-faq-v2-following-questions = Le seguenti domande e risposte dovrebbero aiutarti a capire cosa aspettarti da { -brand-name-mozilla } e da { -brand-name-firefox }:
 
 ## FAQ
 
+privacy-faq-v2-i-use-firefox = Uso { -brand-name-firefox } per fare quasi tutto sul Web. Voi di { -brand-name-mozilla } dovreste sapere tantissime cose sul mio conto, giusto?
