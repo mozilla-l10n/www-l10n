@@ -16,10 +16,13 @@ vpn-landing-whats-a-vpn = VPN 是什麼？
 vpn-landing-a-virtual-private-network-protects = 虛擬私人網路可保護您與網際網路之間的連線，讓您在各種裝置的上網地點與行為更有隱私。
 vpn-landing-see-all-the-ways-mozilla-vpn = 看看 { -brand-name-mozilla-vpn } 有哪些能保護您的方式。
 vpn-landing-how-a-vpn-helps-you = VPN 可以幫上什麼忙？
+vpn-landing-how-a-vpn-helps-you-v2 = { -brand-name-mozilla-vpn } 能如何協助您
 vpn-landing-keeps-your-data-safe = 確保您使用公共 Wi-Fi 時的資料安全
 vpn-landing-log-in-to-your-bank-or = 在機場、咖啡廳等任何地方，登入網路銀行或醫院掛號不擔心。
 vpn-landing-blocks-advertisers-from = 防止廣告商以您為目標
 vpn-landing-hide-your-activity-from = 對追蹤器與惡意軟體隱藏您的上網行為，讓您上網購物不被追蹤。
+vpn-landing-take-control = 透過網站專屬的 VPN 設定自行控制
+vpn-landing-customize-your-vpn = 使用 { -brand-name-firefox } 的 { -brand-name-mozilla-vpn } 擴充套件針對每個網站自訂您的 VPN 保護只在 Windows 可用。
 vpn-landing-features = 功能
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -38,6 +41,8 @@ vpn-landing-fast-network-speeds-even-while = 玩遊戲時網路速度也超快
 vpn-landing-no-logging-tracking-or-sharing = 不記錄、追蹤或分享網路資料
 vpn-landing-no-bandwidth-restrictions-or = 沒有頻寬限制、不限速
 vpn-landing-extra-security-whole-device = 額外的安全性：保護整台裝置、多點跳轉路由與更多功能
+vpn-landing-built-transparently = 以開放原始碼模式，透明地打造
+vpn-landing-easy-firefox-integration = 輕鬆與 { -brand-name-mozilla-vpn } 擴充套件整合 { -brand-name-firefox } 僅 Windows
 vpn-landing-see-all-features = 檢視所有功能
 vpn-landing-fram-a-brand-you-can-trust = 由您可以信任的品牌所提供
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } 是一家自 1998 年起，就為更健康的網路環境而戰的非營利網路公司。

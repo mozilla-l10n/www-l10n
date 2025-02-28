@@ -16,10 +16,13 @@ vpn-landing-whats-a-vpn = O que é uma VPN?
 vpn-landing-a-virtual-private-network-protects = Uma rede privada virtual protege a sua ligação à internet, assegurando maior privacidade da sua localização e das suas atividades online em todos os seus dispositivos.
 vpn-landing-see-all-the-ways-mozilla-vpn = Descubra todas as formas como a { -brand-name-mozilla-vpn } garante a sua proteção.
 vpn-landing-how-a-vpn-helps-you = Como uma VPN pode ajudar
+vpn-landing-how-a-vpn-helps-you-v2 = Como a { -brand-name-mozilla-vpn } o ajuda
 vpn-landing-keeps-your-data-safe = Mantém os seus dados seguros em redes públicas
 vpn-landing-log-in-to-your-bank-or = Inicie sessão no seu banco ou consultório do seu médico a partir do navegador, café ou qualquer lugar, com tranquilidade.
 vpn-landing-blocks-advertisers-from = Impede os anunciantes de lhe segmentar
 vpn-landing-hide-your-activity-from = Oculte a sua atividade de rastreadores e malware para que possa fazer compras sem ser monitorizado.
+vpn-landing-take-control = Tome o controlo com definições de VPN específicas para sites
+vpn-landing-customize-your-vpn = Personalize as suas proteções de VPN para cada site com a extensão { -brand-name-mozilla-vpn } para o { -brand-name-firefox } (Somente no Windows).
 vpn-landing-features = Funcionalidades
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -40,6 +43,8 @@ vpn-landing-fast-network-speeds-even-while = Velocidades de rede rápidas mesmo 
 vpn-landing-no-logging-tracking-or-sharing = Nenhum registo, rastreamento ou partilha de dados de rede
 vpn-landing-no-bandwidth-restrictions-or = Sem restrições de largura de banda ou limitações
 vpn-landing-extra-security-whole-device = Segurança extra: proteção para todo o dispositivo, encaminhamento multi-salto e mais
+vpn-landing-built-transparently = Construída de forma transparente em código aberto
+vpn-landing-easy-firefox-integration = Fácil integração do { -brand-name-firefox } com a extensão { -brand-name-mozilla-vpn } (somente no Windows)
 vpn-landing-see-all-features = Ver todas as funcionalidades
 vpn-landing-fram-a-brand-you-can-trust = De uma marca em que pode confiar
 vpn-landing-mozilla-is-a-non-profit-backed = A { -brand-name-mozilla } é uma empresa de Internet sem fins lucrativos que tem lutado por uma Internet saudável desde 1998.

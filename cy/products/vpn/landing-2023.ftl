@@ -16,10 +16,13 @@ vpn-landing-whats-a-vpn = Beth yw VPN?
 vpn-landing-a-virtual-private-network-protects = Mae rhwydwaith preifat rhithwir yn diogelu eich cysylltiad â'r rhyngrwyd, gan gadw'ch lleoliad a'r hyn a wnewch ar-lein yn fwy preifat ar draws eich dyfeisiau.
 vpn-landing-see-all-the-ways-mozilla-vpn = Gweld yr holl ffyrdd y mae { -brand-name-mozilla-vpn } yn eich diogelu.
 vpn-landing-how-a-vpn-helps-you = Sut mae VPN yn eich helpu chi
+vpn-landing-how-a-vpn-helps-you-v2 = Sut mae { -brand-name-mozilla-vpn } yn eich helpu
 vpn-landing-keeps-your-data-safe = Yn cadw'ch data'n ddiogel ar Wi-Fi cyhoeddus
 vpn-landing-log-in-to-your-bank-or = Mewngofnodwch i'ch banc neu swyddfa'r meddyg o'r maes awyr, caffi neu unrhyw le, gyda thawelwch meddwl.
 vpn-landing-blocks-advertisers-from = Yn rhwystro hysbysebwyr rhag eich targedu
 vpn-landing-hide-your-activity-from = Cuddiwch eich gweithgaredd rhag tracwyr a meddalwedd faleisus fel y gallwch chi siopa heb gael eich gwylio.
+vpn-landing-take-control = Cymerwch reolaeth gyda gosodiadau VPN gwefan-benodol
+vpn-landing-customize-your-vpn = Addaswch eich amddiffyniadau VPN fesul gwefan gyda'r Estyniad { -brand-name-mozilla-vpn } ar gyfer { -brand-name-firefox } (Windows yn unig).
 vpn-landing-features = Nodweddion
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -48,6 +51,8 @@ vpn-landing-fast-network-speeds-even-while = Cyflymder rhwydwaith uchel hyd yn o
 vpn-landing-no-logging-tracking-or-sharing = Dim cofnodi, tracio na rhannu data rhwydwaith
 vpn-landing-no-bandwidth-restrictions-or = Dim cyfyngiadau lled band na rhwystro
 vpn-landing-extra-security-whole-device = Diogelwch ychwanegol: diogelu dyfais gyfan, llwybro aml-hwb a mwy
+vpn-landing-built-transparently = Wedi'i adeiladu'n dryloyw mewn cod agored
+vpn-landing-easy-firefox-integration = Integreiddiad hawdd { -brand-name-firefox } gyda'r estyniad { -brand-name-mozilla-vpn } (Windows yn unig)
 vpn-landing-see-all-features = Gweld yr holl nodweddion
 vpn-landing-fram-a-brand-you-can-trust = O frand y gallwch ymddiried ynddo
 vpn-landing-mozilla-is-a-non-profit-backed = Mae { -brand-name-mozilla } yn gwmni rhyngrwyd dim-er-elw sydd wedi bod yn ymladd dros we iach ers 1998.

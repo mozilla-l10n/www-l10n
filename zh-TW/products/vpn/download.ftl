@@ -16,6 +16,7 @@ vpn-download-button-copy = 下載
 vpn-download-for-windows-v2 = VPN for { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11（僅 64 位元）
 vpn-download-for-windows-long = 下載 { -brand-name-mozilla-vpn } for { -brand-name-windows }
+vpn-download-for-firefox-extension = 安裝 { -brand-name-firefox } 擴充套件
 vpn-download-for-mac = VPN for { -brand-name-mac-short }
 vpn-download-for-mac-long = 下載 { -brand-name-mozilla-vpn } for { -brand-name-mac-short }
 # Variables:

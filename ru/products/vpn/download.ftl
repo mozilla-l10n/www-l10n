@@ -16,6 +16,7 @@ vpn-download-button-copy = Загрузить
 vpn-download-for-windows-v2 = VPN для { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (только 64-битная версия)
 vpn-download-for-windows-long = Загрузить { -brand-name-mozilla-vpn } для { -brand-name-windows }
+vpn-download-for-firefox-extension = Установить расширение { -brand-name-firefox }
 vpn-download-for-mac = VPN для { -brand-name-mac-short }
 vpn-download-for-mac-long = Загрузить { -brand-name-mozilla-vpn } для { -brand-name-mac-short }
 # Variables:

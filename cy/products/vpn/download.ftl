@@ -16,6 +16,7 @@ vpn-download-button-copy = Llwytho i Lawr
 vpn-download-for-windows-v2 = VPN ar gyfer { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-did yn unig)
 vpn-download-for-windows-long = Llwythwch { -brand-name-mozilla-vpn } i lawr ar gyfer { -brand-name-windows }
+vpn-download-for-firefox-extension = Gosod estyniad { -brand-name-firefox }
 vpn-download-for-mac = VPN ar gyfer { -brand-name-mac-short }
 vpn-download-for-mac-long = Llwythwch { -brand-name-mozilla-vpn } i lawr ar gyfer { -brand-name-mac-short }
 # Variables:

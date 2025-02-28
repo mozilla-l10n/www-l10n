@@ -16,6 +16,7 @@ vpn-download-button-copy = Stáhnout
 vpn-download-for-windows-v2 = VPN pro { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (pouze 64bitová verze)
 vpn-download-for-windows-long = Stáhnout { -brand-name-mozilla-vpn } pro { -brand-name-windows }
+vpn-download-for-firefox-extension = Nainstalovat rozšíření { -brand-name-firefox }
 vpn-download-for-mac = VPN pro { -brand-name-mac-short(case: "acc") }
 vpn-download-for-mac-long = Stáhnout { -brand-name-mozilla-vpn } pro { -brand-name-mac-short }
 # Variables:

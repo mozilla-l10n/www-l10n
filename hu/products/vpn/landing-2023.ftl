@@ -16,10 +16,13 @@ vpn-landing-whats-a-vpn = Mi a VPN?
 vpn-landing-a-virtual-private-network-protects = Egy virtuális magánhálózat védi az internetkapcsolatát, amely bizalmasabban kezeli a tartózkodási helyét és az online tevékenységét az eszközei között.
 vpn-landing-see-all-the-ways-mozilla-vpn = Tekintse meg az összes módszert, amellyel a { -brand-name-mozilla-vpn } védi Önt.
 vpn-landing-how-a-vpn-helps-you = Hogyan segít egy VPN
+vpn-landing-how-a-vpn-helps-you-v2 = Hogyan segít Önnek a { -brand-name-mozilla-vpn }
 vpn-landing-keeps-your-data-safe = Biztonságban tartja adatait nyilvános Wi-Fi-n
 vpn-landing-log-in-to-your-bank-or = Nyugodtan bejelentkezhet a bankjába vagy az orvosi rendelőjébe a repülőtérről, kávézóból vagy bárhonnan.
 vpn-landing-blocks-advertisers-from = Blokkolja a hirdetőket, hogy ne célozzák Önt
 vpn-landing-hide-your-activity-from = Elrejti a tevékenységét a követők és a rosszindulatú programok elől, így anélkül vásárolhat, hogy figyelnék.
+vpn-landing-take-control = Vegye át az irányítást a webhelyspecifikus VPN-beállításokkal
+vpn-landing-customize-your-vpn = Szabja testre a VPN-védelmét webhelyenkénti alapon a { -brand-name-firefox }hoz készült { -brand-name-mozilla-vpn } kiegészítővel (csak Windows).
 vpn-landing-features = Funkciók
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -40,6 +43,8 @@ vpn-landing-fast-network-speeds-even-while = Nagy hálózati sebesség még ját
 vpn-landing-no-logging-tracking-or-sharing = Nincs naplózás, nyomkövetés vagy hálózatiadat-megosztás
 vpn-landing-no-bandwidth-restrictions-or = Nincs sávszélesség-korlátozás vagy visszafogás
 vpn-landing-extra-security-whole-device = Extra biztonság: teljes eszközvédelem, többugrásos útválasztás és még sok más
+vpn-landing-built-transparently = Transzparensen felépítve, nyílt forráskódúan
+vpn-landing-easy-firefox-integration = Könnyű { -brand-name-firefox } integráció a { -brand-name-mozilla-vpn } kiegészítővel (csak Windows)
 vpn-landing-see-all-features = Összes funkció megtekintése
 vpn-landing-fram-a-brand-you-can-trust = Egy márkától, amelyben megbízhat
 vpn-landing-mozilla-is-a-non-profit-backed = A { -brand-name-mozilla } egy nonprofit internetes cég, amely 1998 óta az egészséges webért harcol.

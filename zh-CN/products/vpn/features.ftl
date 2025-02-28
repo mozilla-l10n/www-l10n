@@ -42,6 +42,8 @@ vpn-features-support-for-custom-dns = 支持自定义 DNS
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
 vpn-features-keep-traffic-protected = 您可以使用 { -brand-name-mozilla-vpn } 来保护流量，同时按照自己需要来处理 DNS 请求。<a { $dns }>详细了解对自定义 DNS 的支持</a>。
 vpn-features-flexible = 灵活
+vpn-features-webste-specific-vpn = 特定网站 VPN 设置已无缝集成到 { -brand-name-firefox }
+vpn-features-with-the-mozilla-vpn-extention = 借助 { -brand-name-firefox } 版 { -brand-name-mozilla-vpn } 扩展仅 Windows您可以逐个网站优化 VPN 体验。从 VPN 保护中排除特定网站或设置特定网站的首选服务器位置为您提供更灵活、更个性化的体验。
 vpn-features-personalized-server = 个性化服务器位置推荐
 vpn-features-well-suggest-which-servers = 我们会向您推荐附近速度最快、连接最稳定的服务器。
 vpn-features-personalize-which-apps = 随心决定受 VPN 保护的应用

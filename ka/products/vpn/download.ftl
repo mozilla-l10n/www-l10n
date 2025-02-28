@@ -16,6 +16,7 @@ vpn-download-button-copy = ჩამოტვირთვა
 vpn-download-for-windows-v2 = VPN { -brand-name-windows }-ზე
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-ბიტიანზე მხოლოდ)
 vpn-download-for-windows-long = ჩამოტვირთეთ { -brand-name-mozilla-vpn } { -brand-name-windows }-ზე
+vpn-download-for-firefox-extension = დააყენეთ { -brand-name-firefox }-გაფართოება
 vpn-download-for-mac = VPN { -brand-name-mac-short }-ზე
 vpn-download-for-mac-long = ჩამოტვირთეთ { -brand-name-mozilla-vpn } { -brand-name-mac-short }-ზე
 # Variables:

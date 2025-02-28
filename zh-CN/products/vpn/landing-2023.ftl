@@ -16,10 +16,13 @@ vpn-landing-whats-a-vpn = VPN 是什么？
 vpn-landing-a-virtual-private-network-protects = 虚拟专用网络可以保护您与互联网的连接，使您的位置和在线活动在您的设备间更加私密。
 vpn-landing-see-all-the-ways-mozilla-vpn = 了解 { -brand-name-mozilla-vpn } 的各路防护招法
 vpn-landing-how-a-vpn-helps-you = VPN 的用处
+vpn-landing-how-a-vpn-helps-you-v2 = { -brand-name-mozilla-vpn } 如何帮助您
 vpn-landing-keeps-your-data-safe = 在公共 Wi-Fi 中保护数据安全
 vpn-landing-log-in-to-your-bank-or = 在机场、咖啡厅等场所安心登录网银或网上挂号。
 vpn-landing-blocks-advertisers-from = 拒绝广告商定向推广
 vpn-landing-hide-your-activity-from = 不让跟踪器和恶意软件窥视您的活动，安心网购。
+vpn-landing-take-control = 通过特定网站的 VPN 设置掌控一切
+vpn-landing-customize-your-vpn = 使用适用于 { -brand-name-firefox } 的 { -brand-name-mozilla-vpn } 扩展逐网站定制您的 VPN 保护仅适用于 Windows。
 vpn-landing-features = 功能
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -38,6 +41,8 @@ vpn-landing-fast-network-speeds-even-while = 玩游戏照样快到飞起
 vpn-landing-no-logging-tracking-or-sharing = 绝不记录、跟踪、共享网络数据
 vpn-landing-no-bandwidth-restrictions-or = 不限制带宽
 vpn-landing-extra-security-whole-device = 额外安全性：全方位设备保护、多跳路由等功能
+vpn-landing-built-transparently = 代码开源，透明打造
+vpn-landing-easy-firefox-integration = 轻松 { -brand-name-firefox } 与 { -brand-name-mozilla-vpn } 扩展集成仅适用于 Windows
 vpn-landing-see-all-features = 查看所有功能
 vpn-landing-fram-a-brand-you-can-trust = 品牌值得信赖
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } 是一家受非营利组织支持的互联网公司。1998 年至今，持续为健康的网络而战。

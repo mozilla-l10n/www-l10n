@@ -16,6 +16,7 @@ vpn-download-button-copy = Letöltés
 vpn-download-for-windows-v2 = VPN { -brand-name-windows }ra
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (csak 64 bites)
 vpn-download-for-windows-long = A { -brand-name-mozilla-vpn } letöltése { -brand-name-windows }ra
+vpn-download-for-firefox-extension = A { -brand-name-firefox } kiegészítő telepítése
 vpn-download-for-mac = VPN { -brand-name-mac-short }re
 vpn-download-for-mac-long = A { -brand-name-mozilla-vpn } letöltése { -brand-name-mac-short }re
 # Variables:

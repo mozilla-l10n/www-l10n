@@ -16,6 +16,7 @@ vpn-download-button-copy = Transferir
 vpn-download-for-windows-v2 = VPN para { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (apenas para 64 bits)
 vpn-download-for-windows-long = Transferir a { -brand-name-mozilla-vpn } para { -brand-name-windows }
+vpn-download-for-firefox-extension = Instalar a extensão { -brand-name-firefox }
 vpn-download-for-mac = VPN para { -brand-name-mac-short }
 vpn-download-for-mac-long = Transferir a { -brand-name-mozilla-vpn } para { -brand-name-mac-short }
 # Variables:

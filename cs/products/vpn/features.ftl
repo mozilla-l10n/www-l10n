@@ -52,6 +52,8 @@ vpn-features-support-for-custom-dns = Podpora pro vlastní DNS
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
 vpn-features-keep-traffic-protected = Se službou { -brand-name-mozilla-vpn } můžete chránit svůj provoz a přitom směrovat své DNS dotazy kamkoliv chcete. <a { $dns }>Zjistěte více o podpoře vlastních DNS</a>.
 vpn-features-flexible = Flexibilita
+vpn-features-webste-specific-vpn = Nastavení VPN pro konkrétní web, hladce integrované do { -brand-name-firefox(case: "gen") }
+vpn-features-with-the-mozilla-vpn-extention = S rozšířením { -brand-name-mozilla-vpn } pro { -brand-name-firefox(case: "acc") } (pouze Windows) můžete vyladit svou VPN prostředí pro každou webovou stránku. Vynechte jednotlivé webové stránky z ochrany pomocí VPN nebo nastavte preferované umístění serverů pro konkrétní stránky – získáte tak flexibilnější a přizpůsobený zážitek.
 vpn-features-personalized-server = Personalizované doporučení umístění serveru
 vpn-features-well-suggest-which-servers = Doporučíme vám servery ve vašem okolí, které zajistí nejrychlejší a nejspolehlivější připojení k internetu.
 vpn-features-personalize-which-apps = Přizpůsobte si, které aplikace získají ochranu skrze VPN
