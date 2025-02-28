@@ -31,6 +31,9 @@ privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } žana wšědna organizac
 privacy-faq-v2-softballs = W porjadku, tute prašenja su jednore byli. Kotre daty zběraće?
 privacy-faq-v2-do-you-collect = Zběraće wjace datow w předwersijach { -brand-name-firefox }?
 privacy-faq-v2-sort-of = We wěstym nastupanju. Přidatnje k datam, kotrež smy horjeka wopisali, dóstawamy w předwersijach { -brand-name-firefox } po standardźe rozprawy wo zmylkach a spadach.
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/shield
+privacy-faq-v2-we-may-also = Móžemy tež dalše daty w předwersiji hromadźić, za jednu z našich <a { $attrs }>studijow</a>. Někotre studije na přikład tak mjenowane „přehladowanske daty“ trjebaja, ke kotrymž móža URL a druhe daty wo wěstych websydłach słušeć. To nam pomha, na wěste prašenja wotmołwić, zo bychmy { -brand-name-firefox } polěpšili, na přikład, kak dadźa so wěste woblubowane websydła do wěstych rěčnych wersijow integrować.
 privacy-faq-v2-mozilla-pre-release = Předwersije { -brand-name-mozilla } { -brand-name-firefox } su wuwiwanske platformy, kotrež so husto z eksperimentelnymi funkcijemi aktualizuja. Zběramy w předwersiji wjace datow hač w kónčnych wersijach, zo bychmy rozumili, kak tute eksperimentelne funkcije funguja. Móžeće zběranje tutych datow w nastajenjach znjemóžnić.
 privacy-faq-v2-but-why-do-you = Ale čehodla poprawom daty zběraće?
 # Variables:

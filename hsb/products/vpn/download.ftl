@@ -16,6 +16,7 @@ vpn-download-button-copy = Sćahnyć
 vpn-download-for-windows-v2 = VPN za { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (jenož 64-bitowy)
 vpn-download-for-windows-long = Sćehńće { -brand-name-mozilla-vpn } za { -brand-name-windows }
+vpn-download-for-firefox-extension = Rozšěrjenje { -brand-name-firefox } instalować
 vpn-download-for-mac = VPN za { -brand-name-mac-short }
 vpn-download-for-mac-long = Sćehńće { -brand-name-mozilla-vpn } za { -brand-name-mac-short }
 # Variables:
