@@ -20,9 +20,14 @@ vpn-shared-terms-conditions = Vilkår og betingelser
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-recommended-offer = Anbefalet
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = Spar { $percent }%
+# Variables:
+#   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
+# Asterisk indicates a footnote for the following string
+vpn-shared-save-percent-on = Spar { $percent }% på { -brand-name-mozilla-vpn }*
 
 # Platform subpage shared strings
 
