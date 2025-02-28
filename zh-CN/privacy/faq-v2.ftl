@@ -14,3 +14,4 @@ privacy-faq-v2-we-adhere = 我们坚持“如所料”的原则，即我们努�
 
 ## FAQ
 
+privacy-faq-v2-find-out-more = 深入了解 { -brand-name-mozilla } 如何保护互联网。
