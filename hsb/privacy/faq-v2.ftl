@@ -35,7 +35,7 @@ privacy-faq-v2-mozilla-pre-release = Předwersije { -brand-name-mozilla } { -bra
 privacy-faq-v2-but-why-do-you = Ale čehodla poprawom daty zběraće?
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
-privacy-faq-v2-if-we-dont-know = Jeli njewěmy, kak wobhladowak běži abo kotre funkcije ludźo wužiwaja, njemóžemy jón polěpšić a wam wulkotny produkt poskićić. Smy nastroje za zběranje a analyzowanje datow wuwili, kotrež nam zmóžnjeja, inteligentne rozsudy wo našim produkće činić a priwatnosć ludźi respektować. Móžeće wjace wo někotrych technologijach čitać, kotrež priwatnosć wobchowuja, na přikład <a { $attrs }>OHTTP</a>.
+privacy-faq-v2-if-we-dont-know = Jeli njewěmy, kak wobhladowak běži abo kotre funkcije ludźo wužiwaja, njemóžemy jón polěpšić a wam wulkotny produkt poskićić. Smy nastroje za zběranje a analyzowanje datow wuwili, kotrež nam zmóžnjeja, inteligentne rozsudy wo našim produkće činić a priwatnosć ludźi respektować. Móžeće wjace wo někotrych technologijach čitać, kotrež priwatnosć wobchowuja a kotrež wužiwamy, na přikład <a { $attrs }>OHTTP</a>.
 privacy-faq-v2-data-collection-bugs-me = Zběranje datow mi hišće wadźi. Mógu jo znjemóžnić?
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
