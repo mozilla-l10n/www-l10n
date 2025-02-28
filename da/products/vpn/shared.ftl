@@ -10,6 +10,8 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-money-back-guarantee = 30 dages penge-retur-garanti
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30 dages penge-retur-garanti
+vpn-shared-privacy-notice = Privatlivserklæring
+vpn-shared-terms-conditions = Vilkår og betingelser
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
@@ -19,6 +21,9 @@ vpn-shared-pricing-save-percent = Spar { $percent }%
 
 # Platform subpage shared strings
 
+vpn-subnav-learn-about-vpns = Læs om VPN'er
+vpn-subnav-download-mozilla-vpn = Hent { -brand-name-mozilla-vpn }
+vpn-subnav-features = Funktioner
 
 ## Press quotations
 
