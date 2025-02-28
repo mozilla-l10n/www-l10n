@@ -22,6 +22,8 @@ switch-enjoy-the-web-faster = वेब का तेज़ी से आनंद 
 switch-download-and-switch = डाउनलोड करें और बदले
 switch-share-to-facebook = Facebook पर साझा करें
 switch-share-to-facebook-updated = { -brand-name-facebook } पर साझा करें
+# Note: Bluesky is a brand name and should not be translated
+switch-share-to-bluesky = Bluesky में शेयर करें
 switch-hey = सुनिए,
 switch-check-it-out = इसे देखें और मुझे बताएँ कि आप क्या सोचते हैं :
 switch-send-an-email = एक ईमेल भेजें
