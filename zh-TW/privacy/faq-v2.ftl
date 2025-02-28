@@ -23,11 +23,8 @@ privacy-faq-v2-following-questions = 下面的常見問題可協助您了解對 
 ## FAQ
 
 privacy-faq-v2-i-use-firefox = 我的主力瀏覽器是 { -brand-name-firefox }，幾乎用它上網做任何事。你們這群 { -brand-name-mozilla } 的人一定都知道我在做什麼了，對吧？
-privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } 並沒有如您預期的那麼了解人們如何上網。 { -brand-name-firefox } 是您裝置或電腦上的網頁瀏覽器是您通向網際網路的入口。您的瀏覽器會管理造訪過網站的許多資訊但該資訊通常會保留在您的裝置上。
+privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } 並沒有如您所預期的那麼了解人們如何上網。{ -brand-name-firefox } 作為於您的裝置或電腦上運作的瀏覽器，是您上網的入口。瀏覽器會接觸到您造訪過的網站的許多資訊，但這些資訊通常都保存在您的裝置上，不會外流。
 privacy-faq-v2-it-seems-like = 好像網路上的每個公司都在買賣我的資料，你們跟他們又有何不同？
-# Variables:
-#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
-privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla }不會賣掉您的資料以大多數人所說的「銷售資料」的方式我們也不買您的資料。由於我們追求透明度並且在某些地方「銷售資料」的法律定義太過寬泛我們只好不再作那些您所知道與喜愛的確定性陳述。我們仍然做了很多工作來確保移除任何可識別出{ -brand-name-firefox }資料或僅用於會透過我們的隱私保護技術例如 <a { $attrs }> OHTTP</a> 審核過。
 privacy-faq-v2-wait-so-how = 等等，那你們這樣要如何賺錢？
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org
