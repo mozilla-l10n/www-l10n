@@ -18,6 +18,7 @@ what-is-firefox = { -brand-name-firefox } क्या है?
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } एकमात्र ऐसा प्रमुख ब्राउज़र है जो गैर-लाभ संगठन द्वारा समर्थित है और आपकी निजी जानकारी को सुरक्षित रखने में आपकी मदद करते हुए विज्ञापनदाताओं को आपका व्यक्तिगत डेटा नहीं बेचता है। <a href="{ $url }">{ -brand-name-firefox-browsers }</a> और <a href="{ $url2 }">अन्य उत्पादों</a> के बारे में जानें।
+the-firefox-browser-the-only = { -brand-name-firefox-browser } एकमात्र ऐसा प्रमुख ब्राउज़र है जो किसी गैर-लाभकारी मुहिम द्वारा समर्थित है, जो आपकी निजी जानकारी को सुरक्षित रखने में आपकी सहायता करता है। <a href="{ $url }">{ -brand-name-firefox-browsers }</a> और <a href="{ $url2 }">अन्य प्रोडक्ट्स</a> के बारे में अधिक जानें।
 
 how-do-i = मुझे { -brand-name-firefox-browser } कैसे मिलेगा?
 
@@ -33,6 +34,7 @@ you-can-easily = आप <a href="{ $url }">यहाँ</a> { -brand-name-firefo
 is-firefox-free = क्या { -brand-name-firefox } मुफ़्त है?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = हाँ! { -brand-name-firefox-browser } मुफ़्त है। वास्तव में बिलकुल ही मुफ़्त है। कोई छिपी हुई लागत या कुछ भी नहीं। आप इसका उपयोग करने के लिए कुछ भी भुगतान नहीं करते हैं, और हम आपके व्यक्तिगत डेटा को नहीं बेचते हैं।
+yep-the-firefox-browser-is-free = हाँ! { -brand-name-firefox-browser } मुफ़्त है। वास्तव में बिलकुल ही मुफ़्त है। कोई छिपी हुई कीमत या ऐसा कुछ भी नहीं है। आप इसका उपयोग करने के लिए कुछ भी भुगतान नहीं करते हैं।
 related-questions-free = संबंधित प्रश्न : क्या { -brand-name-firefox-browser } मुफ़्त है, क्या { -brand-name-firefox } के पैसे लगते हैं
 
 is-chrome-better = क्या { -brand-name-chrome } { -brand-name-firefox } से बेहतर है?
