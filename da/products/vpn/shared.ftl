@@ -31,6 +31,7 @@ vpn-shared-save-percent-on = Spar { $percent }% på { -brand-name-mozilla-vpn }*
 
 # Platform subpage shared strings
 
+vpn-shared-platform-what-is = Hvad er { -brand-name-mozilla-vpn }?
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Læs om VPN'er
