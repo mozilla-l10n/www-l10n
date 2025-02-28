@@ -20,8 +20,6 @@ vpn-landing-keeps-your-data-safe = 確保您使用公共 Wi-Fi 時的資料安�
 vpn-landing-log-in-to-your-bank-or = 在機場、咖啡廳等任何地方，登入網路銀行或醫院掛號不擔心。
 vpn-landing-blocks-advertisers-from = 防止廣告商以您為目標
 vpn-landing-hide-your-activity-from = 對追蹤器與惡意軟體隱藏您的上網行為，讓您上網購物不被追蹤。
-vpn-landing-helps-you-access-global = 幫助您存取世界各地的內容
-vpn-landing-check-out-streaming-media = 不論是在旅遊或在家中，皆可輕鬆瀏覽其他國家的串流媒體、網站、網路直播。
 vpn-landing-features = 功能
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

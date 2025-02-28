@@ -58,10 +58,6 @@ vpn-features-personalized-server = Personalizované odporúčania umiestnenia se
 vpn-features-well-suggest-which-servers = Navrhneme vám, ktoré servery vo vašej blízkosti zabezpečia najrýchlejšie a najspoľahlivejšie internetové pripojenie.
 vpn-features-personalize-which-apps = Prispôsobte si, ktoré aplikácie získajú ochranu VPN
 vpn-features-easily-exclude-apps = Jednoducho vylúčte aplikácie z ochrany VPN – nie je potrebné odpájať zariadenie od { -brand-name-mozilla-vpn }. Dostupné v zariadeniach so systémom Windows, Android a Linux.
-vpn-features-set-different-locations = Nastavte rôzne umiestnenia pre každú kartu vo { -brand-name-firefox(case: "loc") }
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Skombinujte { -brand-name-mozilla-vpn } s rozšírením Multi-Account Containers pre { -brand-name-firefox } a nastavte rôzne umiestnenia serverov VPN na kartách { -brand-name-firefox(case: "gen") }. <a { $containers }>Ďalšie informácie</a>.
 vpn-features-trustworthy = Dôveryhodnosť
 vpn-features-money-back = 30-dňová záruka vrátenia peňazí
 vpn-features-plus-customer-support = Plus zákaznícka podpora 24/7.

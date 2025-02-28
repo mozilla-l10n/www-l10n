@@ -56,10 +56,6 @@ vpn-features-personalized-server = Personalizovane preporuke za lokaciju servera
 vpn-features-well-suggest-which-servers = Predložit ćemo koji serveri u vašoj blizini će osigurati najbržu i najpouzdaniju internet vezu.
 vpn-features-personalize-which-apps = Personalizirajte koje aplikacije dobijaju VPN zaštitu
 vpn-features-easily-exclude-apps = Jednostavno isključite aplikacije iz VPN zaštite — nema potrebe za odvajanjem uređaja od { -brand-name-mozilla-vpn }a. Dostupno na Windows, Android i Linux uređajima.
-vpn-features-set-different-locations = Postavite različite lokacije za svaku karticu u { -brand-name-firefox }u
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Kombinujte { -brand-name-mozilla-vpn } sa ekstenzijom Multi-Account Containers { -brand-name-firefox } i postavite različite VPN lokacije po { -brand-name-firefox } tabu. <a { $containers }>Saznajte kako</a>.
 vpn-features-trustworthy = Pouzdan
 vpn-features-money-back = 30-dnevna garancija povrata novca
 vpn-features-plus-customer-support = Plus korisnička podrška 24/7.

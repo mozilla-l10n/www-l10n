@@ -52,10 +52,6 @@ vpn-features-personalized-server = 個人化的伺服器位置建議
 vpn-features-well-suggest-which-servers = 我們會建議您附近的哪些伺服器能夠提供最快、最可靠的網路連線。
 vpn-features-personalize-which-apps = 個人化設定哪些應用程式能獲得 VPN 保護
 vpn-features-easily-exclude-apps = 無需將裝置中斷與 { -brand-name-mozilla-vpn } 之間的連線，很輕鬆就可以將應用程式從 VPN 保護排除。Windows、Android 與 Linux 裝置平台皆可使用。
-vpn-features-set-different-locations = 為 { -brand-name-firefox } 的每個分頁設定不同位置
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = 一起使用 { -brand-name-mozilla-vpn } 與 Multi-Account Containers 的 { -brand-name-firefox } 擴充套件，即可以為每個 { -brand-name-firefox } 分頁設定不同的 VPN 位置。 <a { $containers }>了解怎麼做</a>。
 vpn-features-trustworthy = 可信賴
 vpn-features-money-back = 30 天內保證退款
 vpn-features-plus-customer-support = 還有 7 天 24 小時的客戶支援。

@@ -20,8 +20,6 @@ vpn-landing-keeps-your-data-safe = Keeps your data safe on public Wi-Fi
 vpn-landing-log-in-to-your-bank-or = Log in to your bank or doctor’s office from the airport, cafe or anywhere, with peace of mind.
 vpn-landing-blocks-advertisers-from = Blocks advertisers from targeting you
 vpn-landing-hide-your-activity-from = Hide your activity from trackers and malware so you can shop without being watched.
-vpn-landing-helps-you-access-global = Helps you access global content
-vpn-landing-check-out-streaming-media = Check out streaming media, websites and live-streams from other countries while you’re travelling or at home.
 vpn-landing-features = Features
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

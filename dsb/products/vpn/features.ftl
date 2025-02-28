@@ -58,10 +58,6 @@ vpn-features-personalized-server = Personalizěrowane dopórucenja za serwerowe 
 vpn-features-well-suggest-which-servers = Naraźujomy, kótare serwery we wašej bliskosći nejmalsnjejšy, nejspušćobnjejšy internetny zwisk zawěsćiś.
 vpn-features-personalize-which-apps = Personalizěrowaś, kótare nałoženja šćit VPN dostawaju
 vpn-features-easily-exclude-apps = Wuzamkniśo lažko nałoženja ze šćita VPN – njetrjebaśo swój rěd wót { -brand-name-mozilla-vpn } źěliś. K dispoziciji na rědach Windows, Android a Linux.
-vpn-features-set-different-locations = Nastajśo rozdźělne městna za kuždy rejtarik w { -brand-name-firefox }
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Kombiněrujśo { -brand-name-mozilla-vpn } z rozšyrjenim Multi-Account Containers { -brand-name-firefox } a nastajśo rozdźělne stojnišća VPN z rejtarikom { -brand-name-firefox }. <a { $containers }>Zgóńśo kak</a>.
 vpn-features-trustworthy = Dowěry gódny
 vpn-features-money-back = 30-dnjowna garantija slědkdaśa pjenjez
 vpn-features-plus-customer-support = Plus pódpěra 24/7 za kupcow.

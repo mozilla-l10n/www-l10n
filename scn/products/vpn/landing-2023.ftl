@@ -18,7 +18,6 @@ vpn-landing-how-a-vpn-helps-you = Comu t'ajuta na VPN
 vpn-landing-keeps-your-data-safe = Manteni i to dati sicuri quannu usi riti Wi-Fi pùbblichi
 vpn-landing-log-in-to-your-bank-or = Trasi â to banca o â pàggina dû to dutturi di l'ariuportu, dû barru o di unn'è-è, sempri 'n tranquillità.
 vpn-landing-blocks-advertisers-from = Ferma ê pubblicità di trazzàriti
-vpn-landing-helps-you-access-global = T'ajuta a vìdiri cuntinuti glubbali
 vpn-landing-features = Carattarìstichi
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

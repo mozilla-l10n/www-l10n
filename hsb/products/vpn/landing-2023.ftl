@@ -20,8 +20,6 @@ vpn-landing-keeps-your-data-safe = Dźerži waše daty wěste w zjawnym WLAN
 vpn-landing-log-in-to-your-bank-or = Přizjewće so pola swojeje banki abo praksy lěkarja wot lětanišća, kofejownje abo wot druhdźe z dušinym měrom.
 vpn-landing-blocks-advertisers-from = Blokuje wabjacych so na was měrić
 vpn-landing-hide-your-activity-from = Schowajće swoju aktiwitu před přesćěhowakami a škódnej software, zo byšće móhł nakupować, bjeztoho zo bychu was wobkedźbowali.
-vpn-landing-helps-you-access-global = Zmóžnja wam přistup ke globalnemu wobsahej
-vpn-landing-check-out-streaming-media = Wobhladajće sej streamowace medije, websydła a livestreamy z druhich krajow, mjeztym zo sće po puću abo doma.
 vpn-landing-features = Funkcije
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

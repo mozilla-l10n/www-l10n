@@ -20,8 +20,6 @@ vpn-landing-keeps-your-data-safe = Verilerinizi halka açık Wi-Fi ağlarında g
 vpn-landing-log-in-to-your-bank-or = Havalimanından, kafeden veya istediğiniz yerden bankanıza veya hastane kayıtlarınıza güvenle erişin.
 vpn-landing-blocks-advertisers-from = Reklamverenlerin sizi hedeflemesini engeller
 vpn-landing-hide-your-activity-from = Takip kodlarından ve kötü amaçlı yazılımlardan kurtulun, izlenmeden alışveriş yapın.
-vpn-landing-helps-you-access-global = Dünyanın her yerindeki içeriklere erişmenizi sağlar
-vpn-landing-check-out-streaming-media = Seyahat ederken veya evdeyken diğer ülkelerdeki medya akışlarına, web sitelerine ve canlı yayınlara göz atın.
 vpn-landing-features = Özellikler
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

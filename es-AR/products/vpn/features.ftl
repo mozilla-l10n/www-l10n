@@ -54,10 +54,6 @@ vpn-features-personalized-server = Recomendaciones personalizadas de ubicación 
 vpn-features-well-suggest-which-servers = Te sugeriremos qué servidores cercanos asegurarán la conexión a Internet más rápida y confiable.
 vpn-features-personalize-which-apps = Personalizá que aplicaciones tendrán protección con VPN
 vpn-features-easily-exclude-apps = Excluí fácilmente aplicaciones de la protección de la VPN — no es necesario desconectar tu dispositivo de { -brand-name-mozilla-vpn }. Disponible en dispositivos Windows, Android y Linux.
-vpn-features-set-different-locations = Establecé diferentes ubicaciones para cada pestaña en { -brand-name-firefox }
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Combiná { -brand-name-mozilla-vpn } con la extensión de { -brand-name-firefox } de contenedores multicuentas y establecé diferentes ubicaciones de VPN para cada pestaña de { -brand-name-firefox }. <a { $containers }>Conocé como hacerlo</a>.
 vpn-features-trustworthy = Confiable
 vpn-features-money-back = 30 días de garantía de devolución de dinero
 vpn-features-plus-customer-support = Además de soporte al cliente 24/7.

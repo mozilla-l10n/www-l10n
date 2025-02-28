@@ -49,7 +49,6 @@ vpn-features-support-for-custom-dns = ਪਸੰਦੀਦਾ DNS ਲਈ ਸਹਿ
 vpn-features-flexible = ਆਗਿਆਕਾਰੀ
 vpn-features-personalized-server = ਪਸੰਦੀਦਾ ਸਰਵਰ ਟਿਕਾਣੇ ਲਈ ਸਿਫਾਰਸ਼ਾਂ
 vpn-features-well-suggest-which-servers = ਸਭ ਤੋਂ ਤੇਜ਼, ਸਭ ਤੋਂ ਭਰੋਸੇਯੋਗ ਇੰਟਰਨੈੱਟ ਕਨੈਕਸ਼ਨ ਵਾਸਤੇ ਅਸੀਂ ਤੁਹਾਡੇ ਨੇੜੇ ਸਰਵਰਾਂ ਦਾ ਸੁਝਾਅ ਦੇਵਾਂਗੇ।
-vpn-features-set-different-locations = { -brand-name-firefox } ਵਿੱਚ ਹਰ ਟੈਬ ਲਈ ਵੱਖੋ-ਵੱਖ ਟਿਕਾਣੇ ਸੈੱਟ ਕਰੋ।
 vpn-features-trustworthy = ਭਰੋਸੇਮੰਦ
 vpn-features-money-back = 30-ਦਿਨ ਦੀ ਰਕਮ ਵਾਪਸੀ ਗਾਰੰਟੀ
 vpn-features-plus-customer-support = ਨਾਲ 24/7 ਗਾਹਕ ਸਹਿਯੋਗ।

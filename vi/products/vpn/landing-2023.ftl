@@ -20,8 +20,6 @@ vpn-landing-keeps-your-data-safe = Giữ dữ liệu của bạn an toàn trên 
 vpn-landing-log-in-to-your-bank-or = Đăng nhập mà không cần lo lắng tại ngân hàng hoặc văn phòng bác sĩ của bạn tại sân bay, trong quán cà phê hoặc bất cứ nơi nào khác.
 vpn-landing-blocks-advertisers-from = Chặn các trình quảng cáo nhắm mục tiêu đến bạn
 vpn-landing-hide-your-activity-from = Ẩn hoạt động của bạn khỏi trình theo dõi và phần mềm độc hại để bạn có thể mua sắm mà không bị theo dõi.
-vpn-landing-helps-you-access-global = Giúp bạn truy cập nội dung toàn cầu
-vpn-landing-check-out-streaming-media = Xem phương tiện truyền thông trực tuyến, trang web và luồng trực tiếp từ các quốc gia khác khi bạn đi du lịch hoặc ở nhà.
 vpn-landing-features = Tính năng
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

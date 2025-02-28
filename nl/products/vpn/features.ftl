@@ -54,10 +54,6 @@ vpn-features-personalized-server = Gepersonaliseerde aanbevelingen voor serverlo
 vpn-features-well-suggest-which-servers = We stellen voor welke servers bij u in de buurt zorgen voor de snelste, meest betrouwbare internetverbinding.
 vpn-features-personalize-which-apps = Personaliseer welke apps VPN-bescherming krijgen
 vpn-features-easily-exclude-apps = Sluit eenvoudig apps uit van VPN-bescherming – u hoeft uw apparaat niet van { -brand-name-mozilla-vpn } te ontkoppelen. Beschikbaar op Windows-, Android- en Linux-apparaten.
-vpn-features-set-different-locations = Stel verschillende locaties voor elk tabblad in { -brand-name-firefox } in
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Combineer { -brand-name-mozilla-vpn } met de { -brand-name-firefox }-extensie Multi-Account Containers en stel verschillende VPN-locaties in per { -brand-name-firefox }-tabblad. <a { $containers }>Meer info</a>.
 vpn-features-trustworthy = Betrouwbaar
 vpn-features-money-back = 30-dagen-geldteruggarantie
 vpn-features-plus-customer-support = Plus 24/7 klantenondersteuning.

@@ -20,8 +20,6 @@ vpn-landing-keeps-your-data-safe = Uchovává vaše data na veřejných Wi-Fi s�
 vpn-landing-log-in-to-your-bank-or = Přihlaste se bez obav do své banky nebo ordinace na letišti, v kavárně nebo kdekoliv jinde.
 vpn-landing-blocks-advertisers-from = Zabraňuje inzerentům cílit na vás
 vpn-landing-hide-your-activity-from = Skryjte svou aktivitu před sledovacími prvky a malwarem, abyste mohli nakupovat bez toho, abyste byli sledováni.
-vpn-landing-helps-you-access-global = Pomůže vám přistupovat ke globálnímu obsahu
-vpn-landing-check-out-streaming-media = Dívejte se na streamovaná média, webové stránky a živé přenosy z jiných zemí na cestách nebo doma.
 vpn-landing-features = Vlastnosti
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

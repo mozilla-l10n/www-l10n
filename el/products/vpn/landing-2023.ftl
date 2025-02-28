@@ -20,8 +20,6 @@ vpn-landing-keeps-your-data-safe = Διατηρεί τα δεδομένα σας
 vpn-landing-log-in-to-your-bank-or = Συνδεθείτε στην τράπεζα ή τον ιστότοπο του γιατρού σας από το αεροδρόμιο, την καφετέρια ή οπουδήποτε αλλού, με ασφάλεια.
 vpn-landing-blocks-advertisers-from = Αποκλείει την καταγραφή από διαφημιστές
 vpn-landing-hide-your-activity-from = Αποκρύψτε τη δραστηριότητά σας από ιχνηλάτες και κακόβουλο λογισμικό, ώστε να κάνετε αγορές χωρίς να σας παρακολουθούν.
-vpn-landing-helps-you-access-global = Σας βοηθά στην πρόσβαση σε παγκόσμιο περιεχόμενο
-vpn-landing-check-out-streaming-media = Δείτε τις πλατφόρμες streaming, τους ιστοτόπους και τις ζωντανές ροές από άλλες χώρες ενώ ταξιδεύετε ή είστε στο σπίτι.
 vpn-landing-features = Δυνατότητες
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

@@ -20,8 +20,6 @@ vpn-landing-keeps-your-data-safe = Biztonságban tartja adatait nyilvános Wi-Fi
 vpn-landing-log-in-to-your-bank-or = Nyugodtan bejelentkezhet a bankjába vagy az orvosi rendelőjébe a repülőtérről, kávézóból vagy bárhonnan.
 vpn-landing-blocks-advertisers-from = Blokkolja a hirdetőket, hogy ne célozzák Önt
 vpn-landing-hide-your-activity-from = Elrejti a tevékenységét a követők és a rosszindulatú programok elől, így anélkül vásárolhat, hogy figyelnék.
-vpn-landing-helps-you-access-global = Segít a globális tartalmak elérésében
-vpn-landing-check-out-streaming-media = Nézhet médiatartalmakat, weboldalakat és élő közvetítéseket más országokból, utazás közben vagy otthon.
 vpn-landing-features = Funkciók
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

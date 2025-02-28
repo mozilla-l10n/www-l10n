@@ -20,8 +20,6 @@ vpn-landing-keeps-your-data-safe = I mban të parrezik të dhënat tuaja në Wi-
 vpn-landing-log-in-to-your-bank-or = Hyni në llogarinë tuaj të një banke, apo në atë me një mjek, që nga aeroporti, kafeja apo kudo, me mendje të fjetur.
 vpn-landing-blocks-advertisers-from = U bllokon reklamave t’ju bëjnë objektiv
 vpn-landing-hide-your-activity-from = Fshihuni veprimtarinë tuaj gjurmuesve dhe malware-it, që të mund të blini pa u parë nga të tjerë.
-vpn-landing-helps-you-access-global = Ju ndihmon të përdorni lëndë globale
-vpn-landing-check-out-streaming-media = Shihni media dhe sajte që transmetojnë, apo transmetime drejtpërdrejt nga vende të tjera, kur jeni duke udhëtuar, apo në shtëpi.
 vpn-landing-features = Veçori
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

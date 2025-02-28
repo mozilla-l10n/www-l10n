@@ -20,8 +20,6 @@ vpn-landing-keeps-your-data-safe = 공용 Wi-Fi에서 내 데이터를 안전하
 vpn-landing-log-in-to-your-bank-or = 공항, 카페 등 어디에서나 안심하고 은행이나 병원 진료실에 로그인하세요.
 vpn-landing-blocks-advertisers-from = 광고사가 사용자를 타겟팅하지 못하도록 차단
 vpn-landing-hide-your-activity-from = 추적기와 악성코드로부터 내 활동을 숨겨 감시당하지 않고 쇼핑하세요.
-vpn-landing-helps-you-access-global = 글로벌 콘텐츠에 접근하는데 도움을 줍니다.
-vpn-landing-check-out-streaming-media = 여행중이나 집에 있을 때에도 다른 나라의 스트리밍 미디어와 웹사이트, 라이브 스트리밍을 이용할 수 있습니다.
 vpn-landing-features = 기능
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

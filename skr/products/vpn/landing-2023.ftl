@@ -20,8 +20,6 @@ vpn-landing-keeps-your-data-safe = عوامی وائی فائی تے تہاݙا 
 vpn-landing-log-in-to-your-bank-or = ہوائی اݙّے، کیفے یا کِتھاؤں وی، ذہنی سکون دے نال آپݨے بینک یا ڈاکٹر دے دفتر وِچ لاگ اِن تِھیؤو۔
 vpn-landing-blocks-advertisers-from = مشتہرین کوں تُہاکوں نشانہ بݨاوݨ کنوں بلاک کریندے
 vpn-landing-hide-your-activity-from = ٹریکرز اَتے مالویئر کنوں آپݨی سرگرمی لُکاؤ تاں جو تُساں ݙِٹّھے مُتُّوں خریداری کر سڳو۔
-vpn-landing-helps-you-access-global = عالمی مواد تئیں رسائی وِچ تُہاݙی مَدَت کرین٘دا ہِے
-vpn-landing-check-out-streaming-media = جہڑیلے تُساں پن٘دھ کرین٘دے پئے ہِیوے یا گھر وِچ ہؤو تاں ٻِنّھاں مُلخاں کنوں سٹریمنگ میڈیا، ویب سائٹاں اَتے لائیو سٹریمز ݙیکھو۔
 vpn-landing-features = خاص
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

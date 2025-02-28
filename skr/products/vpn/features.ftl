@@ -54,10 +54,6 @@ vpn-features-personalized-server = ذاتی سرور دے مقام دیاں سف
 vpn-features-well-suggest-which-servers = اَساں صلاح ݙین٘دے ہِسے جو تُہاݙے نیڑے کِہڑے سرورز تِکّھے ترین، قابلِ اعتماد انٹرنیٹ کنکشن کوں یقینی بݨیسِن۔
 vpn-features-personalize-which-apps = ذاتی بݨاؤ جو کہڑی ایپس کوں وی پی این تحفظ حاصل ہِے۔
 vpn-features-easily-exclude-apps = سَوکھ نال ایپس کوں وی پی این تحفظ کنوں کڈّھو — آپݨی ڈیوائس کوں { -brand-name-mozilla-vpn } کنوں منقطع کرݨ دی لوڑ کائنی۔ ونڈوز، اینڈرائیڈ اَتے لائنکس ڈیوائسز وِچ دستیاب ہِے۔
-vpn-features-set-different-locations = { -brand-name-firefox } وچ ہر ٹیب کیتے مختلف لوکیشناں مقرر کرو
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = { -brand-name-mozilla-vpn }کوں ملٹی اکاؤنٹ کنٹینرز { -brand-name-firefox }ایکسٹنشناں دے نال جوڑو اَتے فی { -brand-name-firefox }ٹیب کِیتے ان٘جو ان٘ج وی پی این مقامات مُرتّب کرو۔ <a { $containers }>طریقہ ڄاݨو</a>۔
 vpn-features-trustworthy = بھروسے آلی
 vpn-features-money-back = 30 ڈین٘ہ رقم واپس کرݨ دی ضمانت
 vpn-features-plus-customer-support = ٻِیا اِیہ جو 24/7 ڳاہکاں دی حمایت۔

@@ -54,10 +54,6 @@ vpn-features-personalized-server = Εξατομικευμένες προτάσε
 vpn-features-well-suggest-which-servers = Προτείνουμε κοντινούς σε εσάς διακομιστές που θα εξασφαλίσουν την ταχύτερη και πιο αξιόπιστη σύνδεση στο διαδίκτυο.
 vpn-features-personalize-which-apps = Εξατομίκευση προστασίας VPN ανά εφαρμογή
 vpn-features-easily-exclude-apps = Εξαιρέστε εύκολα εφαρμογές από την προστασία VPN, χωρίς να αποσυνδέσετε τη συσκευή σας από το { -brand-name-mozilla-vpn }. Διατίθεται για συσκευές με Windows, Android και Linux.
-vpn-features-set-different-locations = Ορίστε διαφορετική τοποθεσία για κάθε καρτέλα στο { -brand-name-firefox }
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Συνδυάστε το { -brand-name-mozilla-vpn } με την επέκταση «Multi-Account Containers» του { -brand-name-firefox } και ορίστε διαφορετική τοποθεσία VPN ανά καρτέλα. <a { $containers }>Μάθετε πώς</a>.
 vpn-features-trustworthy = Αξιόπιστο
 vpn-features-money-back = Εγγύηση επιστροφής χρημάτων 30 ημερών
 vpn-features-plus-customer-support = Και επιπλέον, υποστήριξη πελατών 24/7.

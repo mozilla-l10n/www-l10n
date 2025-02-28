@@ -54,10 +54,6 @@ vpn-features-personalized-server = Rekomandime të personalizuara për vendndodh
 vpn-features-well-suggest-which-servers = Do t’ju sugjerojmë cilët shërbyes pranë jush do të garantojnë lidhjen internet më të shpejtë, më të qëndrueshme.
 vpn-features-personalize-which-apps = Personalizoni cilat aplikacione përfitojnë mbrojtje VPN
 vpn-features-easily-exclude-apps = Përjashtoni lehtësisht aplikacione nga mbrojtja me VPN — s’ka nevojë të shkëputni pajisjen tuaj prej { -brand-name-mozilla-vpn }. Për pajisje Windows, Android dhe Linux.
-vpn-features-set-different-locations = Caktoni vendndodhje të ndryshme për çdo skedë në { -brand-name-firefox }
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Ndërthureni { -brand-name-mozilla-vpn } me zgjerimin Kontejnerë Multi-Llogari për { -brand-name-firefox } dhe caktoni vendndodhje VPN të ndryshme për çdo skedë { -brand-name-firefox }. <a { $containers }>Mësoni se si</a>.
 vpn-features-trustworthy = I besueshëm
 vpn-features-money-back = Garanci kthimi parash deri 30 ditë nga blerja
 vpn-features-plus-customer-support = Plus asistencë klientësh 24/7.

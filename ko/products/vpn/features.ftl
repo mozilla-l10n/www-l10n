@@ -46,10 +46,6 @@ vpn-features-personalized-server = 개인화된 서버 위치 추천
 vpn-features-well-suggest-which-servers = 가장 빠르고 안정적인 인터넷 연결을 보장할 수 있는 근처의 서버를 추천해 드립니다.
 vpn-features-personalize-which-apps = VPN 보호를 받는 앱 개인화
 vpn-features-easily-exclude-apps = VPN 보호에서 앱을 쉽게 제외 — { -brand-name-mozilla-vpn }에서 기기의 연결을 끊을 필요가 없습니다. Windows와 Android, Linux 장치에서 사용할 수 있습니다.
-vpn-features-set-different-locations = { -brand-name-firefox }의 각 탭에 다른 위치 설정
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = { -brand-name-mozilla-vpn }을 다중 계정 컨테이너 { -brand-name-firefox } 확장 기능과 결합하여 { -brand-name-firefox } 탭별로 다른 VPN 위치를 설정합니다. <a { $containers }>방법 알아보기</a>.
 vpn-features-trustworthy = 신뢰할 수 있음
 vpn-features-money-back = 30 일 환불 보장
 vpn-features-plus-customer-support = 또한 24시간 고객 지원을 제공합니다.

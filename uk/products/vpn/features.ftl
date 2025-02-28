@@ -56,10 +56,6 @@ vpn-features-personalized-server = Персоналізовані рекомен
 vpn-features-well-suggest-which-servers = Ми підкажемо, які сервери поблизу вас забезпечать найшвидше та найнадійніше інтернет-з'єднання.
 vpn-features-personalize-which-apps = Обирайте, які програми захищатимуться VPN
 vpn-features-easily-exclude-apps = Легко виключайте програми з захисту VPN – не потрібно від'єднувати пристрій від { -brand-name-mozilla-vpn }. Доступно на пристроях Windows, Android і Linux.
-vpn-features-set-different-locations = Налаштуйте різні розташування для кожної вкладки в { -brand-name-firefox }
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Поєднайте { -brand-name-mozilla-vpn } із розширенням Multi-Account Containers у { -brand-name-firefox } і налаштуйте різні розташування VPN для кожної вкладки { -brand-name-firefox }. <a { $containers }>Навчитися</a>.
 vpn-features-trustworthy = Заслуговує довіри
 vpn-features-money-back = Гарантоване повернення коштів упродовж 30 днів
 vpn-features-plus-customer-support = Цілодобова підтримка клієнтів.

@@ -54,10 +54,6 @@ vpn-features-personalized-server = Személyre szabott kiszolgálóhely-ajánlás
 vpn-features-well-suggest-which-servers = Javaslatot teszünk arra, hogy a közelben mely kiszolgálók biztosítják a leggyorsabb és legmegbízhatóbb internetkapcsolatot.
 vpn-features-personalize-which-apps = Szabja testre, hogy mely alkalmazások kapnak VPN-védelmet
 vpn-features-easily-exclude-apps = Könnyedén zárja ki az alkalmazásokat a VPN-védelem alól – nem kell leválasztania az eszközét a { -brand-name-mozilla-vpn }-ről. Elérhető  a windowsos, androidos és linuxos eszközökön.
-vpn-features-set-different-locations = Állítson be különböző helyeket az egyes lapokhoz a { -brand-name-firefox }ban
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Kombinálja a { -brand-name-mozilla-vpn }-t a Multi-Account Containers { -brand-name-firefox }-kiegészítővel, és állítson be { -brand-name-firefox }-laponként különböző VPN-helyeket. <a { $containers }>Tudja meg hogyan</a>.
 vpn-features-trustworthy = Megbízható
 vpn-features-money-back = 30 napos pénzvisszafizetési garancia
 vpn-features-plus-customer-support = Továbbá 24/7-es ügyfélszolgálat.

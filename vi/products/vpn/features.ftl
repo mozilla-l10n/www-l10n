@@ -46,10 +46,6 @@ vpn-features-personalized-server = Đề xuất vị trí máy chủ được c�
 vpn-features-well-suggest-which-servers = Chúng tôi sẽ đề xuất máy chủ nào gần bạn sẽ đảm bảo kết nối Internet nhanh nhất, đáng tin cậy nhất.
 vpn-features-personalize-which-apps = Cá nhân hóa ứng dụng nào được bảo vệ VPN
 vpn-features-easily-exclude-apps = Dễ dàng loại trừ các ứng dụng khỏi tính năng bảo vệ của VPN — không cần ngắt kết nối thiết bị của bạn khỏi { -brand-name-mozilla-vpn }. Có sẵn trong các thiết bị Windows, Android và Linux.
-vpn-features-set-different-locations = Đặt các vị trí khác nhau cho mỗi thẻ trong { -brand-name-firefox }
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Kết hợp { -brand-name-mozilla-vpn } với tiện ích mở rộng { -brand-name-firefox } Multi-Account Containers và đặt các vị trí VPN khác nhau trên mỗi thẻ { -brand-name-firefox }. <a { $containers }>Tìm hiểu cách thực hiện</a>.
 vpn-features-trustworthy = Đáng tin cậy
 vpn-features-money-back = Đảm bảo hoàn tiền trong 30 ngày
 vpn-features-plus-customer-support = Cộng với hỗ trợ khách hàng 24/7.

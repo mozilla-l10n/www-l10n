@@ -53,10 +53,6 @@ vpn-features-flexible = Pepykuaáva
 vpn-features-personalized-server = Ñemoñe’ẽ avaitépe mohendahavusu rendaite rehegua
 vpn-features-well-suggest-which-servers = Ro’e ndéve mba’e apopyvusu ag̃uiguáva ne pytyvõta jeikekaturã ñanduti ipya’e ha jeroviahávape.
 vpn-features-personalize-which-apps = Eiporavo mba’e tembiporu’ípa oñemo’ãta VPN ndive
-vpn-features-set-different-locations = Eiporavo tendaitekuéra peteĩteĩva tendaykepe g̃uarã { -brand-name-firefox } ndive
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Embojopyru { -brand-name-mozilla-vpn } { -brand-name-firefox } mba’eteita mbyatyha ndive ha emopyenda heta VPN rendaite peteĩteĩva { -brand-name-firefox } rendayképe. <a { $containers }>Ehecha mba’éichapo</a>.
 vpn-features-trustworthy = Jeroviaha
 vpn-features-money-back = 30 ára haguépe ome’ẽkuaajey viru
 vpn-features-plus-customer-support = Avei oñepytyvõ ñemuhárape 24/7.

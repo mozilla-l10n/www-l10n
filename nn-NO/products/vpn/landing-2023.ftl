@@ -17,7 +17,6 @@ vpn-landing-a-virtual-private-network-protects = Eit virtuelt privat nettverk ve
 vpn-landing-see-all-the-ways-mozilla-vpn = Sjå alle måtane { -brand-name-mozilla-vpn } vernar deg på.
 vpn-landing-how-a-vpn-helps-you = Korleis eit VPN hjelper deg
 vpn-landing-keeps-your-data-safe = Held dataa dine trygge på offentleg Wi-fi
-vpn-landing-helps-you-access-global = Hjelper deg med å få tilgang til globalt innhald
 vpn-landing-features = Funksjonar
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

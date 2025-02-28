@@ -62,10 +62,6 @@ vpn-features-personalized-server = Argymhellion lleoliad gweinydd personol
 vpn-features-well-suggest-which-servers = Byddwn yn awgrymu pa weinyddion yn eich ardal chi fydd yn sicrhau'r cysylltiad rhyngrwyd cyflymaf a mwyaf dibynadwy.
 vpn-features-personalize-which-apps = Personoli pa apiau sy'n cael diogelwch VPN
 vpn-features-easily-exclude-apps = Eithrio apiau rhag diogelwch VPN yn hawdd - nid oes angen datgysylltu'ch dyfais o { -brand-name-mozilla-vpn }. Ar gael ar gyfer dyfeisiau Windows, Android a Linux.
-vpn-features-set-different-locations = Gosodwch leoliadau gwahanol ar gyfer pob tab yn { -brand-name-firefox }
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Cyfunwch { -brand-name-mozilla-vpn } gyda'r estyniad Cynwysyddion Ailgyfrif { -brand-name-firefox } a gosod lleoliadau VPN gwahanol fesul tab { -brand-name-firefox }. <a { $containers }>Darllen sut</a>.
 vpn-features-trustworthy = Dibynadwy
 vpn-features-money-back = Gwarant 30 diwrnod arian-yn-ôl
 vpn-features-plus-customer-support = Ynghyd â chefnogaeth cwsmeriaid 24/7.

@@ -54,10 +54,6 @@ vpn-features-personalized-server = Personalisearre oanrekommandaasjes foar serve
 vpn-features-well-suggest-which-servers = Wy sille foarstelle hokker servers by jo yn de buert soargje foar de rapste, meast betroubere ynternetferbining.
 vpn-features-personalize-which-apps = Personalisearje hokker apps VPN-beskerming krije
 vpn-features-easily-exclude-apps = Slút apps maklik út fan VPN-beskerming – it is net nedich om jo apparaat los te keppeljen fan { -brand-name-mozilla-vpn }. Beskikber yn Windows-, Android- en Linux-apparaten.
-vpn-features-set-different-locations = Stel ferskate lokaasjes foar elk ljepblêd yn { -brand-name-firefox } yn
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Kombinearje { -brand-name-mozilla-vpn } mei de { -brand-name-firefox }-útwreiding Multi-Account Containers en set ferskate VPN-lokaasjes yn per { -brand-name-firefox }-ljepblêd. <a { $containers }>Mear ynfo</a>.
 vpn-features-trustworthy = Betrouber
 vpn-features-money-back = 30-dagen-jildweromgarânsje
 vpn-features-plus-customer-support = Plus 24/7 klantstipe.

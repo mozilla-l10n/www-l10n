@@ -54,10 +54,6 @@ vpn-features-personalized-server = Kişiselleştirilmiş sunucu konumu öneriler
 vpn-features-well-suggest-which-servers = Yakınınızdaki hangi sunucuların en hızlı, en güvenilir internet bağlantısını sağlayacağını önereceğiz.
 vpn-features-personalize-which-apps = Hangi uygulamaların VPN ile korunacağını ayarlayın
 vpn-features-easily-exclude-apps = { -brand-name-mozilla-vpn } bağlantısını kesmeden, uygulamalarınızı kolayca VPN korumasından hariç tutabilirsiniz. Bu özelliği Windows, Android ve Linux cihazlarda kullanabilirsiniz.
-vpn-features-set-different-locations = Her { -brand-name-firefox } sekmesi için farklı konumlar ayarlayın
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Multi-Account Containers { -brand-name-firefox } uzantısıyla { -brand-name-mozilla-vpn }’i birleştirebilir, her { -brand-name-firefox } sekmesi için farklı VPN konumları ayarlayabilirsiniz. <a { $containers }>Nasıl yapabileceğiniz öğrenin</a>.
 vpn-features-trustworthy = Güvenilirlik
 vpn-features-money-back = 30 gün para iade garantisi
 vpn-features-plus-customer-support = Ayrıca 7/24 müşteri desteği.

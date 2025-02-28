@@ -20,8 +20,6 @@ vpn-landing-keeps-your-data-safe = Segirescha tias datas cura che ti utilisescha
 vpn-landing-log-in-to-your-bank-or = Acceda a tes conto bancar u a tes dossier electronic da pazient fertant che ti es a l’eroport, en in café u nua ch’i saja – senza quitads.
 vpn-landing-blocks-advertisers-from = Impedescha che incumbensaders da reclama ta prendian en mira
 vpn-landing-hide-your-activity-from = Protegia tia activitad da fastizaders e malware per che ti possias far cumpras senza vegnir observà.
-vpn-landing-helps-you-access-global = Ta gida ad acceder a cuntegn da l’entir mund
-vpn-landing-check-out-streaming-media = Guarda cuntegns multimedials via streaming, websites e live-streams dad auters pajais durant che ti viagias u a chasa.
 vpn-landing-features = Funcziunalitads
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

@@ -20,8 +20,6 @@ vpn-landing-keeps-your-data-safe = Houdt uw gegevens veilig op openbare wifi
 vpn-landing-log-in-to-your-bank-or = Meld u met een gerust hart vanaf het vliegveld, café of waar dan ook aan bij uw bank of dokter.
 vpn-landing-blocks-advertisers-from = Voorkomt dat adverteerders zich op u richten
 vpn-landing-hide-your-activity-from = Verberg uw activiteit voor trackers en malware, zodat u kunt winkelen zonder bekeken te worden.
-vpn-landing-helps-you-access-global = Helpt u bij het benaderen van wereldwijde inhoud
-vpn-landing-check-out-streaming-media = Bekijk streaming media, websites en livestreams uit andere landen terwijl u op reis of thuis bent.
 vpn-landing-features = Functies
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

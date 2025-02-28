@@ -20,8 +20,6 @@ vpn-landing-keeps-your-data-safe = Yn cadw'ch data'n ddiogel ar Wi-Fi cyhoeddus
 vpn-landing-log-in-to-your-bank-or = Mewngofnodwch i'ch banc neu swyddfa'r meddyg o'r maes awyr, caffi neu unrhyw le, gyda thawelwch meddwl.
 vpn-landing-blocks-advertisers-from = Yn rhwystro hysbysebwyr rhag eich targedu
 vpn-landing-hide-your-activity-from = Cuddiwch eich gweithgaredd rhag tracwyr a meddalwedd faleisus fel y gallwch chi siopa heb gael eich gwylio.
-vpn-landing-helps-you-access-global = Yn eich helpu i gael mynediad at gynnwys byd-eang
-vpn-landing-check-out-streaming-media = Edrychwch ar gyfryngau ffrydio, gwefannau a ffrydiau byw o wledydd eraill tra'ch bod chi'n teithio neu gartref.
 vpn-landing-features = Nodweddion
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

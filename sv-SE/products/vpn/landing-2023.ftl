@@ -20,8 +20,6 @@ vpn-landing-keeps-your-data-safe = Håller din data säker på offentligt Wi-Fi
 vpn-landing-log-in-to-your-bank-or = Logga in på din bank eller läkarmottagning från flygplatsen, kaféet eller var som helst, med sinnesfrid.
 vpn-landing-blocks-advertisers-from = Blockerar annonsörer från att rikta in sig på dig
 vpn-landing-hide-your-activity-from = Dölj din aktivitet från spårare och skadlig programvara så att du kan handla utan att bli övervakad.
-vpn-landing-helps-you-access-global = Hjälper dig att komma åt globalt innehåll
-vpn-landing-check-out-streaming-media = Kolla in strömmande media, webbplatser och livestreams från andra länder när du reser eller hemma.
 vpn-landing-features = Funktioner
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

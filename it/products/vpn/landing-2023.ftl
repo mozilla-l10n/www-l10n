@@ -20,8 +20,6 @@ vpn-landing-keeps-your-data-safe = Mantiene i tuoi dati al sicuro quando utilizz
 vpn-landing-log-in-to-your-bank-or = Accedi alla tua banca o al portale dello studio medico dall’aeroporto, dal bar o da qualsiasi luogo, in tutta tranquillità.
 vpn-landing-blocks-advertisers-from = Impedisce agli inserzionisti di tracciarti con le loro pubblicità
 vpn-landing-hide-your-activity-from = Proteggi la tua attività da elementi traccianti e malware, così da poter fare acquisti senza essere osservato.
-vpn-landing-helps-you-access-global = Consente l’accesso a contenuti globali
-vpn-landing-check-out-streaming-media = Guarda contenuti multimediali in streaming, siti web e live streaming di altri Paesi mentre sei in viaggio o a casa.
 vpn-landing-features = Caratteristiche
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

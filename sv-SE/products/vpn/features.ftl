@@ -54,10 +54,6 @@ vpn-features-personalized-server = Personliga serverplatsrekommendationer
 vpn-features-well-suggest-which-servers = Vi kommer att föreslå vilka servrar nära dig som kommer att säkerställa den snabbaste och mest pålitliga internetanslutningen.
 vpn-features-personalize-which-apps = Anpassa vilka appar som får VPN-skydd
 vpn-features-easily-exclude-apps = Uteslut enkelt appar från VPN-skydd — du behöver inte koppla bort din enhet från { -brand-name-mozilla-vpn }. Tillgänglig i Windows, Android och Linux-enheter.
-vpn-features-set-different-locations = Ställ in olika platser för varje flik i { -brand-name-firefox }
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Kombinera { -brand-name-mozilla-vpn } med tillägget Multi-Account Containers i { -brand-name-firefox } och ställ in olika VPN-platser per flik i { -brand-name-firefox }. <a { $containers }>Läs hur</a>.
 vpn-features-trustworthy = Pålitlig
 vpn-features-money-back = 30-dagars pengarna tillbaka garanti
 vpn-features-plus-customer-support = Plus kundsupport 24/7.

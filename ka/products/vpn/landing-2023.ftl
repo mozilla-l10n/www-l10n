@@ -20,8 +20,6 @@ vpn-landing-keeps-your-data-safe = უზრუნველყოფს თქ�
 vpn-landing-log-in-to-your-bank-or = ეწვიეთ საბანკო ანგარიშს ან პირადი ექიმის კაბინეტს აეროპორტიდან, კაფედან ან ნებისმიერი ადგილიდან აუღელვებლად.
 vpn-landing-blocks-advertisers-from = სარეკლამოებს უზღუდავს თქვენ მიმართ გამიზნულ მოქმედებებს
 vpn-landing-hide-your-activity-from = ფარავს თქვენს საქმიანობას მეთვალყურეებისა და მავნებლებისგან, რომ შეძლოთ საყიდლების შეძენა თვალის დევნების გარეშე.
-vpn-landing-helps-you-access-global = გეხმარებათ საერთაშორისო მასალებთან წვდომაში
-vpn-landing-check-out-streaming-media = მიიღეთ წვდომა ნაკადით გადაცემულ ფაილებთან, საიტებსა თუ პირდაპირი ეთერის გადაცემებთან სხვა ქვეყნებიდან, როცა მოგზაურობთ ან სახლში იმყოფებით.
 vpn-landing-features = შესაძლებლობები
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

@@ -54,10 +54,6 @@ vpn-features-personalized-server = Recumandaziuns persunalisadas per la posiziun
 vpn-features-well-suggest-which-servers = Nus vegnin a proponer servers en tia vischinanza che garanteschan la connexiun la pli svelta e fidabla cun l’internet.
 vpn-features-personalize-which-apps = Persunalisescha las apps che ti vuls proteger cun VPN
 vpn-features-easily-exclude-apps = Excluda simplamain tschertas apps da la protecziun cun VPN – i n’è betg necessari da deconnectar tes apparat da { -brand-name-mozilla-vpn }. Disponibel per apparats Windows, Android e Linux.
-vpn-features-set-different-locations = Definescha differentas posiziuns per mintga tab en { -brand-name-firefox }
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Cumbinescha { -brand-name-mozilla-vpn } cun l’extensiun da { -brand-name-firefox } per containers multi-conto e definescha differentas posiziuns da VPN per mintga tab da { -brand-name-firefox }. <a { $containers }>Ve a savair co</a>.
 vpn-features-trustworthy = Fidabel
 vpn-features-money-back = Garanzia da restituziun da 30 dis
 vpn-features-plus-customer-support = Plus servetsch da clientella durant 24 uras per di e 7 dis l’emna.

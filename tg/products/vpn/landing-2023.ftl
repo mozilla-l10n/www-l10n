@@ -20,8 +20,6 @@ vpn-landing-keeps-your-data-safe = Маълумоти шуморо дар шаб
 vpn-landing-log-in-to-your-bank-or = Ба суратҳисоби бонкӣ ё идораи пизишкии худ аз фурудгоҳ, қаҳвахона ё аз ҷойи дилхоҳи дигар бо роҳати дилу ҷон ворид шавед.
 vpn-landing-blocks-advertisers-from = Ҳар гуна ҳадафи рекламадеҳро манъ карда, шуморо ҳифз мекунад
 vpn-landing-hide-your-activity-from = Фаъолияти худро аз васоити пайгирӣ ва нармафзори зараровар пинҳон кунед, то шумо тавонед бе тамошобинон дар Интернет харид кунед.
-vpn-landing-helps-you-access-global = Ба шумо барои пайдо кардани дастрасӣ ба маводҳои умумиҷаҳонӣ кумак мекунад
-vpn-landing-check-out-streaming-media = Ҳангоми сафар ё дар хона буда, расонаҳои ҷараёнӣ, сомонаҳо ва ҷараёнҳои пахши мустақимро аз кишварҳои дигар тамошо кунед.
 vpn-landing-features = Хусусиятҳо
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

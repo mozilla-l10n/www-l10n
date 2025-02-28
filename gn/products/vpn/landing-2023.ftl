@@ -20,8 +20,6 @@ vpn-landing-keeps-your-data-safe = Oreko ne mba’ekuaarã tekorosãme Wi-Fi oje
 vpn-landing-log-in-to-your-bank-or = Eñepyrũ tembiapo ne banco térã tembiporu’i tesãiguápe aeropuerto, cafetería térã oimeraẽva tenda guive, py’aguapýpe.
 vpn-landing-blocks-advertisers-from = Ojoko umi marandu ñemurã oma’ẽvo nderehe
 vpn-landing-hide-your-activity-from = Eñomi ne rembiapo tapykuehoha ha malware-gui ejogua hag̃ua ejehecha’ỹre.
-vpn-landing-helps-you-access-global = Nepytyvõ eikévo tetepy tuichaháichape
-vpn-landing-check-out-streaming-media = Ehecha kuaaukaha, ñanduti renda ha ta’ãngamýi jehecha ambue tatãyguáva ehokuévo mombyry téra nde rógaitépe.
 vpn-landing-features = Reheguáva
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
