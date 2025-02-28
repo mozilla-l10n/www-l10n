@@ -10,6 +10,14 @@ firefox-all-download-the-firefox-v2 = Descarga { -brand-name-firefox } en Españ
 # Variables:
 #   $product_label (string) e.g. Firefox, Firefox Nightly
 firefox-all-qrcode = Escanea el código QR para obtener <em>{ $product_name }</em>
+firefox-all-choose-browser = Elija un navegador para continuar
+firefox-all-choose-platform = Elige una plataforma para continuar
+firefox-all-choose-language = Seleccione un idioma para continuar
+firefox-all-change-browser = Seleccione un producto diferente
+firefox-all-change-platform = Seleccione una plataforma diferente
+firefox-all-change-language = Seleccione un idioma diferente
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Seleccione de la lista a continuación
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Obtener ayuda
 firefox-all-browser-v2 = 1. Navegador:
@@ -17,6 +25,7 @@ firefox-all-platform-v2 = 2. Plataforma:
 firefox-all-language-v2 = 3. Idioma:
 firefox-all-download = 4. Descargar:
 firefox-all-desktop = Escritorio
+firefox-all-mobile = Teléfono celular
 firefox-all-recommended = (Recomendado)
 firefox-all-lang-multi = Varios idiomas
 firefox-all-plat-mobile = Android e iOS
@@ -42,6 +51,7 @@ firefox-all-test-your-sites-against = Pon a prueba tus sitios web con las nuevas
 firefox-all-count-on-stability-and = Disfruta de la estabilidad y la facilidad de uso de este navegador { -brand-name-firefox }, creado para la empresa.
 firefox-all-windows-installers-for = Instaladores de Windows para entornos corporativos que simplifican la configuración, la implantación y la gestión del navegador { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Instaladores ARM64/AArch64
+firefox-all-testflight = Regístrate para probar { -brand-name-firefox } para iOS con TestFlight
 firefox-all-product-send-link = Enviar un enlace de descarga a tu teléfono
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -65,3 +75,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = iOS TestFlight { -brand-name-firefox }

@@ -7,3 +7,4 @@
 
 # Page title
 compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } vs Microsoft Edge
+compare-edge-we-block-trackers-by-default = Bloqueamos rastreadores de forma predeterminada, Edge no lo hace.

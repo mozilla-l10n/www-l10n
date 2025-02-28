@@ -5,4 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# Page title
+compare-index-compare-firefox-with-other = Comparar { -brand-name-firefox } con otros navegadores
+compare-index-firefox-versus-apple-safari = { -brand-name-firefox } versus Apple Safari
 compare-index-firefox-versus-opera = { -brand-name-firefox } versus Opera

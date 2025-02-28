@@ -20,6 +20,7 @@ browsers-mobile-get-enhanced-tracking-protection = Obtén protección contra ras
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = ¿Buscas un navegador móvil ultrarrápido y optimizado con funciones de privacidad de un nivel superior? { -brand-name-firefox-focus } borra automáticamente todo tu historial de navegación desde el momento en que abres tu navegador hasta el momento en que lo cierras.
 browsers-mobile-compare = Comparar
+browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Vea cómo { -brand-name-firefox } para escritorio se compara con otros navegadores.
 browsers-mobile-download = Descargar
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }

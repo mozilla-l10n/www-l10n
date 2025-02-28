@@ -61,7 +61,7 @@ firefox-developer-built-for-developers = Creado para desarrolladores
 firefox-developer-master-innovative-features = Características innovadoras
 firefox-developer-want-to-be-on-the-cutting-edge = ¿Quieres usar lo mejor de lo mejor?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } recibe actualizaciones diarias y te permite acceder a funciones meses antes de que sean tendencia.
-firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } es el único navegador que incluye herramientas creadas específicamente para poder crear y diseñar con <i>CSS Grid</i>. Te permiten visualizar la cuadrícula, mostrar nombres de área asociados, previsualizar los cambios y mucho más.
+firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } es el único navegador que incluye herramientas creadas específicamente para poder crear y diseñar con <i>CSS Grid</i>. Permiten visualizar la retícula, mostrar nombres de área asociados, previsualizar los cambios y mucho más.
 firefox-developer-convenient-features = Características convenientes
 firefox-developer-shapes-editor = Editor de formas
 firefox-developer-firefox-devtools-has-a-brand-new-v2 = Gracias al nuevo editor de formas de { -brand-name-firefox-devtools }, ya no hay necesidad de conjeturar cómo se ajustan las sombras externas ni cómo usar las formas clip-path, lo que te permite hacer los ajustes más finos fácilmente con un editor visual.
@@ -74,9 +74,25 @@ firefox-developer-download-the-firefox-browser = Descarga el navegador { -brand-
 firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } ha sido reconstruido de desde sus cimientos para ser más rápido, elegante y potente que nunca.
 firefox-developer-welcome-to-firefox-developer-edition = Bienvenido a { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = El navegador hecho para desarrolladores
+firefox-developer-all-the-latest-v2 = Todas las herramientas para desarrolladores más recientes en versión beta, además de funciones como el Editor de consola multilínea y WebSocket Inspector.
 firefox-developer-a-separate-profile = Un <strong>perfil y ruta separados</strong> para que puedas ejecutarlo fácilmente en paralelo a la versión oficial o { -brand-name-beta } de { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Preferencias <strong>personalizadas para desarrolladores web</strong>: el navegador y la depuración remota están activados de forma predeterminada, al igual que el tema oscuro y el botón de la barra de herramientas para desarrolladores.
+firefox-developer-congrats-you-now-have-latest-v2 = Ahora tienes la última versión de { -brand-name-firefox-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Vea las <a { $attrs }>notas de la versión</a> (solo en inglés) para ver las novedades.
+firefox-developer-developer-tools-user = Documentos de usuario de herramientas para desarrolladores
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Recursos para desarrolladores, por desarrolladores
 # Obsolete string (expires 18-04-2025)
+firefox-developer-mdn-references = { -brand-name-mdn } Referencias
+# Obsolete string (expires 18-04-2025)
+firefox-developer-mdn-is-a = { -brand-name-mdn } es un proyecto colaborativo de código abierto que documenta tecnologías de plataformas web, incluidas CSS, HTML, JavaScript y API web.
+# Obsolete string (expires 18-04-2025)
+firefox-developer-mdn-curriculum = { -brand-name-mdn } Plan de estudios
+# Obsolete string (expires 18-04-2025)
+firefox-developer-a-structured-guide = Una guía estructurada sobre las habilidades y prácticas esenciales para ser un desarrollador front-end exitoso, junto con recursos de aprendizaje recomendados.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
+firefox-developer-support-mdn-and = Admite { -brand-name-mdn } y personalízalo con colecciones, notificaciones y áreas de juego.

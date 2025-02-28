@@ -22,6 +22,7 @@ set-as-default-thanks-youre-all-set = Ya está todo listo.
 set-as-default-thanks-get-firefox-for-mobile = Obtén { -brand-name-firefox } para móviles
 set-as-default-thanks-travel-the-internet-with = Navega por internet con protección en todos tus dispositivos.
 set-as-default-thanks-download-the-app = Descargar la aplicación
+set-as-default-create-an-account = Crear una cuenta
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Obtener una cuenta
 set-as-default-thanks-having-trouble = ¿Tienes problemas?

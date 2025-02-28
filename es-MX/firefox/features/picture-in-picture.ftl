@@ -9,6 +9,7 @@
 features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Picture-in-Picture: Haz más con vídeos separados y siempre en primer plano
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = ¿Tienes cosas que hacer y cosas que ver? Haz ambas usando Picture-in-Picture en { -brand-name-firefox }.
+features-pip-picture-in-picture = Imagen en imagen
 features-pip-new-feature-firefox-multi-picture = Nueva funcionalidad: { -brand-name-firefox } Picture-in-Picture múltiple
 features-pip-cool-feature-picture-in-picture = Funcionalidad genial: Picture-in-Picture
 features-pip-get-more-done-with-pop-out-videos = Haz más con vídeos siempre en primer plano

@@ -17,4 +17,5 @@ page7-make-them-unfollow-you = Haz que dejen de seguirte
 page7-that-sneaky-little-button = Ese pequeño botón furtivo
 page7-those-innocent-looking-f-buttons = Esos botones F de aspecto inocente de { -brand-name-facebook } rastrean tu actividad web, incluso si no tienes una cuenta. { -brand-name-facebook-container } los bloquea.
 page7-stay-ahead-of-hackers = Mantente por delante de los hackers
+page7-get-mozilla-monitor = Obtener { -brand-name-mozilla-monitor }
 page7-why-am-i-seeing-this = ¿Por qué estoy viendo esto?

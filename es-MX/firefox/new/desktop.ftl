@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = Obtén { -brand-name-firefox } para { -b
 firefox-desktop-download-og-title = Descarga el { -brand-name-firefox } más rápido a la fecha
 firefox-desktop-download-og-desc = Carga de páginas más rápida, menos uso de memoria y lleno de funcionalidades, el nuevo { -brand-name-firefox } está aquí.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Está disponible una nueva versión de { -brand-name-firefox }. <a { $update_url }>Actualizar a la última versión</a>
 firefox-desktop-download-get-the-browser = Obtén el navegador que protege lo que es importante
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = No hay políticas de privacidad sospechosas o puertas traseras para los anunciantes. Solo un navegador súper rápido que no te vende.
@@ -147,6 +150,8 @@ firefox-desktop-download-now-else = Ahora termina <strong>la instalación de</st
 firefox-desktop-download-now-windows = Ahora <strong>corre</strong> el instalador que acabas de descargar.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Ahora <strong>abre</strong> el archivo que acabas de descargar.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Selecciona una opción de <strong>descarga</strong> a continuación
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = ¿Tienes problemas? <a { $attrs }>Obtén ayuda con tu instalación</a>.
