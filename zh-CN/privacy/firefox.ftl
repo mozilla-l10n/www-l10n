@@ -12,10 +12,10 @@ privacy-firefox-privacy-isnt-just = 隐私不仅是项设置，更是您拥有�
 privacy-firefox-read-our-privacy = 阅读我们的隐私声明
 privacy-firefox-keeping-you-informed = 让您全程知情
 privacy-firefox-we-believe-you = 我们认为，您理应有权知道自己的数据因何种原因、以何种方式被使用。{ -brand-name-firefox } 将隐私根植于设计理念，每一处理步骤都公开透明。
-privacy-firefox-transparency-first = 透明为先
+privacy-firefox-transparency-first = 公开透明为先
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
-privacy-firefox-were-clear-about = 我们明确了使用的数据类型及使用原因，绝不逾矩。<a { $attrs }>{ -brand-name-firefox } 隐私声明</a> 对此做了详细说明。
+privacy-firefox-were-clear-about = 我们明确了使用的数据类型及使用原因，绝不逾矩。<a { $attrs }>{ -brand-name-firefox } 隐私声明</a>对此做了详细说明。
 privacy-firefox-how-we-use = 数据使用方式
 privacy-firefox-we-use-data = 我们使用数据来保持 { -brand-name-firefox } 稳定运行、改进功能、帮助维持我们的业务，而这一切都以尊重您的隐私为前提。部分可选功能可能需要额外数据才能正常运作，我们通过精心设计，让您能够轻松管理自己的首选项。
 privacy-firefox-builtin-control = 内置控制方式
