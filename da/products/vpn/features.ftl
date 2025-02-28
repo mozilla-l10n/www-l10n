@@ -40,4 +40,5 @@ vpn-features-encrypt-your-internet = Krypter al din internettrafik
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } beskytter alle apps på din enhed, ikke kun din browser.
 vpn-features-stronger-malware = Stærkere beskyttelse mod malware
 vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } forhindrer dig i at hente malware fra kendte usikre kilder.
+vpn-features-flexible = Fleksibel
 vpn-features-money-back = 30 dages penge-retur-garanti
