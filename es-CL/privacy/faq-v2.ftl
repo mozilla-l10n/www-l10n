@@ -39,3 +39,16 @@ privacy-faq-v2-but-why-do-you = ¿Pero por qué recolectan datos?
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
 privacy-faq-v2-if-we-dont-know = Si no sabemos cómo está funcionando el navegador o qué funciones utilizan los usuarios, no podemos mejorarlo ni ofrecerte mejores productos. Hemos incorporado herramientas de recopilación de datos que nos permiten tomar decisiones inteligentes sobre nuestros productos, siempre respetando la privacidad de la gente. Puedes leer más sobre las tecnologías que utilizamos para preservar la privacidad, tales como <a { $attrs }>OHTTP</a>.
+privacy-faq-v2-data-collection-bugs-me = La recolección de datos igual me incomoda. ?Puedo desactivarla?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
+#   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
+privacy-faq-v2-yes-user-control = Sí. Que el usuario tenga el control es uno de nuestros principios de privacidad de datos. Lo ponemos en práctica en { -brand-name-firefox } en nuestra <a { $privacy }>página de ajustes de privacidad</a>, que funciona como punto central para quien busque tomar el control de su privacidad en { -brand-name-firefox }. Puedes <a { $data }>deshabilitar la recopilación de datos</a> ahí.
+privacy-faq-v2-what-about-my-account = ¿Que hay de los datos de mi cuenta?
+privacy-faq-v2-we-are-big-believers = Somos fans de la minimización de datos y no pedimos cosas que no necesitamos.
+privacy-faq-v2-you-use-digital = Usan publicidad digital como parte de su mix de marketing. ¿Compran los datos de las personas para dirigir mejor sus anuncios en línea?
+privacy-faq-v2-no-we-do-not-buy = No, nosotros no compramos datos de personas entregar publicidad dirigida.
+privacy-faq-v2-we-do-not-ask = Sí le pedimos a nuestros socios anunciantes que usen solo datos de primera mano que los sitios web y los anunciantes conocen de los usuarios, tales como el navegador que estás usando y el dispositivo en el que te encuentras.
+privacy-faq-v2-well-it-seems = Bueno, parece que realmente me protegen la espalda en cuanto a privacidad.
+privacy-faq-v2-yes-we-do = Sí, lo hacemos.
+privacy-faq-v2-find-out-more = Descubre más acerca de cómo { -brand-name-mozilla } protege Internet.
