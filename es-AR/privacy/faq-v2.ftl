@@ -57,3 +57,9 @@ privacy-faq-v2-we-are-big-believers = Creemos en la minimización de los datos y
 # Variables:
 #   $attrs (url) - link to https://www.mozilla.org/account/
 privacy-faq-v2-you-dont-need-an-account = No necesitás una cuenta para usar { -brand-name-firefox }. Las <a { $attrs }>cuentas</a> son necesarias para sincronizar datos entre dispositivos, pero solo te pedimos una dirección de correo electrónico y tu edad (solo para asegurarnos que no sos un chico).
+privacy-faq-v2-you-use-digital = Usan publicidad digital como parte de su comercialización. ¿Compran los datos de las personas para dirigir mejor sus publicidades en línea?
+privacy-faq-v2-no-we-do-not-buy = No, no compramos los datos de la gente para dirigir la publicidad.
+privacy-faq-v2-we-do-not-ask = Sí les pedimos a nuestros socios anunciantes que usen solo usen los datos de origen que tanto los sitios web como las editoriales conocen sobre todos los usuarios tales como el navegador y el dispositivo que usás.
+privacy-faq-v2-well-it-seems = Bueno, parece que realmente protegen la privacidad.
+privacy-faq-v2-yes-we-do = Sí, lo hacemos.
+privacy-faq-v2-find-out-more = Descubrí más acerca de cómo { -brand-name-mozilla } protege Internet.

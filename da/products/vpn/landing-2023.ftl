@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+# HTML page title
+vpn-landing-title = { -brand-name-mozilla-vpn }: Beskyt hele din enhed
 vpn-landing-no-bandwidth-restrictions-or = Ingen neddrosling eller begrænsning af båndbredde
