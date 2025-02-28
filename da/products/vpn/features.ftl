@@ -41,6 +41,20 @@ vpn-features-encrypt-your-internet = Krypter al din internettrafik
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } beskytter alle apps på din enhed, ikke kun din browser.
 vpn-features-stronger-malware = Stærkere beskyttelse mod malware
 vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } forhindrer dig i at hente malware fra kendte usikre kilder.
+vpn-features-super-private-mode = Super-privat tilstand: Led trafikken gennem to placeringer
+# Variables
+#   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
+vpn-features-multi-hop-feature = Vores <a { $feature }>multihop-funktion</a> giver dig ekstra sikkerhed.
 vpn-features-support-for-custom-dns = Understøtter tilpasset DNS
+# Variables
+#   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
+vpn-features-keep-traffic-protected = Med { -brand-name-mozilla-vpn } kan du beskytte din trafik og stadig dirigere dine DNS-forespørgsler, hvorhen du vil. <a { $dns }>Læs mere om understøttelse af tilpasset DNS</a>.
 vpn-features-flexible = Fleksibel
+vpn-features-personalized-server = Personlige anbefalinger til serverplacering
+vpn-features-set-different-locations = Indstil forskellige placeringer for hvert faneblad i { -brand-name-firefox }
+# Variables
+#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
+vpn-features-combine-mozilla-vpn-with-containers = Kombiner { -brand-name-mozilla-vpn } med { -brand-name-firefox }-udvidelsen Multi-Account Containers, og angiv forskellige VPN-placeringer for hvert faneblad i { -brand-name-firefox }. <a { $containers }>Læs hvordan</a>.
+vpn-features-trustworthy = Pålidelig
 vpn-features-money-back = 30 dages penge-retur-garanti
+vpn-features-we-never-log = Vi logger, sporer eller deler aldrig dine netværksdata
