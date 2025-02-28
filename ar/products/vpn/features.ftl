@@ -70,11 +70,6 @@ vpn-features-personalized-server = توصيات مواقع خوادم شخصية
 vpn-features-well-suggest-which-servers = سَنقترح عليك الخوادم القريبة منك التي ستضمن لك الاستمتاع بأسرع اتصال إنترنت وأكثره موثوقية.
 vpn-features-personalize-which-apps = تخصيص التطبيقات التي تحصل على حماية VPN
 vpn-features-easily-exclude-apps = استبعد التطبيقات من حماية VPN بسهولة — لا داعي لفصل جهازك من { -brand-name-mozilla-vpn }. هذه الميزة متوافقة مع الأجهزة التي تعمل بأنظمة التشغيل Windows، وAndroid، وLinux.
-vpn-features-set-different-locations = تعيين عدة مواقع مُختلفة لكل علامة تبويب في متصفح { -brand-name-firefox }
-
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = ادمج { -brand-name-mozilla-vpn } مع إضافة &quot;الحاويات المتعددة الحسابات&quot; الخاصة بمُتصفح { -brand-name-firefox } وعيِّن عدة مواقع VPN مُختلفة لكل علامة تبويب في متصفح { -brand-name-firefox }. <a { $containers }>تعرَّف على الطريقة.</a>
 
 vpn-features-trustworthy = جديرة بالثقة
 vpn-features-money-back = ضمان استرداد الأموال لِمدة 30 يومًا

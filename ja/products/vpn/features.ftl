@@ -60,11 +60,6 @@ vpn-features-personalized-server = ユーザーに合わせてサーバーロケ
 vpn-features-well-suggest-which-servers = 最も高速かつ信頼性の高いインターネット接続を確立できる近くのサーバーを提案します。
 vpn-features-personalize-which-apps = VPN 保護を受けるアプリをカスタマイズ
 vpn-features-easily-exclude-apps = アプリを VPN 保護から簡単に除外できます。デバイス本体を { -brand-name-mozilla-vpn } から切断する必要がありません。Windows、Android、Linux デバイスに対応。
-vpn-features-set-different-locations = { -brand-name-firefox } のタブごとに異なる場所を設定
-
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = { -brand-name-mozilla-vpn } とマルチアカウントコンテナー { -brand-name-firefox } 拡張機能を組み合わせると、{ -brand-name-firefox } のタブごとに異なる VPN ロケーションを設定できます。<a { $containers }>詳細はこちら</a>。
 
 vpn-features-trustworthy = 高い信頼度
 vpn-features-money-back = 30 日間の返金保証

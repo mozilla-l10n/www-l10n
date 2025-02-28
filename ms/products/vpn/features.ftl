@@ -60,11 +60,6 @@ vpn-features-personalized-server = Cadangan lokasi pelayan yang diperibadikan
 vpn-features-well-suggest-which-servers = Kami akan cadangkan pelayan mana yang hampir dengan anda untuk memastikan sambungan internet terpantas dan paling dipercayai.
 vpn-features-personalize-which-apps = Peribadikan aplikasi yang mahu dilindungi oleh VPN
 vpn-features-easily-exclude-apps = Kecualikan aplikasi daripada perlindungan VPN — tanpa perlu memutuskan peranti anda daripada { -brand-name-mozilla-vpn }. Boleh didapati dalam Windows, Android dan peranti Linux.
-vpn-features-set-different-locations = Tetapkan lokasi yang berbeza untuk setiap tab { -brand-name-firefox }
-
-# Variables
-#   $containers (url) - link to https://support.mozilla.org/kb/use-multi-account-containers-mozilla-vpn
-vpn-features-combine-mozilla-vpn-with-containers = Gabungkan { -brand-name-mozilla-vpn } dengan sambungan Multi-Account Container { -brand-name-firefox } dan tetapkan lokasi VPN yang berlainan bagi setiap tab { -brand-name-firefox }. <a { $containers }>Ketahui caranya</a>.
 
 vpn-features-trustworthy = Boleh dipercayai
 vpn-features-money-back = Jaminan wang dikembalikan dalam 30 hari
