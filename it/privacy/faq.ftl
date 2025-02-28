@@ -24,12 +24,12 @@ privacy-faq-really-you-dont-collect-my-browsing = Veramente non raccogliete info
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } conosce meno di quanto ti aspetteresti riguardo al modo in cui le persone navigano sul Web. Per chi sviluppa browser, questa mancanza di conoscenza rappresenta un problema significativo. Ecco perché abbiamo integrato strumenti per la gestione del consenso attraverso cui gli utenti interessati possono condividere con noi dati sulla loro navigazione. Anche se mantieni sincronizzata la tua cronologia di navigazione tra diverse installazioni di { -brand-name-firefox }, noi non possiamo accedervi, perché i dati vengono crittati dal tuo dispositivo.
 privacy-faq-it-seems-like-every-company = Mi sembra che ogni azienda sul Web compri e venda i miei dati, voi probabilmente non siete diversi.
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } non vede le tue informazioni, e non compriamo dati su di te.
-privacy-faq-wait-so-how-do-you-make-money = Un momento, allora come fate i soldi?
+privacy-faq-wait-so-how-do-you-make-money = Aspetta, quindi in che modo guadagnate soldi?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } non è la solita organizzazione. Fondata come progetto di una comunità open source nel 1998, { -brand-name-mozilla } è un’organizzazione che si è data il compito di lavorare per migliorare la saluta di Internet. La maggior parte delle entrate di { -brand-name-mozilla-corporation } deriva dalle royalty dei motori di ricerca in { -brand-name-firefox } e dagli accordi di partnership e distribuzione stretti in tutto il mondo. Puoi saperne di più leggendo il nostro <a href="{ $link }">resoconto finanziario annuale</a>.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } non è la tipica organizzazione. Fondata nel 1998 come progetto open source basato sulla comunità, { -brand-name-mozilla } è un’organizzazione con una missione: lavorare per un Internet migliore e più sano. La maggior parte delle entrate di { -brand-name-mozilla-corporation } deriva dalle royalty dei motori di ricerca in { -brand-name-firefox } e dagli accordi di partnership e distribuzione stretti in tutto il mondo. Puoi scoprire di più leggendo il nostro <a href="{ $link }">resoconto finanziario annuale</a>.
 # A "softball" is a question that is really easy to answer.
-privacy-faq-okay-those-first-few-were-softballs = Va bene, ma in breve che dati raccogliete?
+privacy-faq-okay-those-first-few-were-softballs = Va bene, le altre domande erano facili. Quali dati raccogliete?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
