@@ -52,7 +52,7 @@ privacy-faq-data-collection-still-bugs-me = La raccolta dei dati comunque mi inf
 # Variables:
 #   $settings (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 #   $data (url) - link to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
-privacy-faq-yes-user-control-is-one-of-our = Sì, la possibilità per l’utente di gestire il controllo dei propri dati è uno dei nostri princìpi in merito alla privacy sui dati. { -brand-name-firefox } ha una pagina apposita di <a href="{ $settings }">Impostazioni per la privacy</a>, tramite cui ogni utente può gestire il controllo della propria privacy. Da qui puoi <a href="{ $data }">disattivare la raccolta dei dati</a>.
+privacy-faq-yes-user-control-is-one-of-our = Sì, la possibilità per l’utente di gestire il controllo dei propri dati è uno dei nostri princìpi in merito alla privacy sui dati. { -brand-name-firefox } ha una pagina apposita di <a href="{ $settings }">Impostazioni per la privacy</a>, tramite cui ogni utente può gestire il controllo della propria privacy. Utilizzando queste impostazioni puoi <a href="{ $data }">disattivare la raccolta dei dati</a>.
 privacy-faq-what-about-my-account-data = Cosa mi dite sui dati relativi al mio account?
 privacy-faq-we-are-big-believers-of-data = Siamo strenui sostenitori della riduzione al minimo dei dati raccolti e non ti chiediamo nulla che non sia necessario.
 # Variables:
