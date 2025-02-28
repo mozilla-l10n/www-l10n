@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = ເອົາ { -brand-name-firefox } ສ
 firefox-desktop-download-og-title = ດາວໂຫຼດ { -brand-name-firefox } ທີ່ໄວທີ່ສຸດເທົ່າທີ່ເຄີຍມີມາ
 firefox-desktop-download-og-desc = ການໂຫຼດຫນ້າເວັບທີ່ໄວ, ໃຊ້ຫນ່ວຍຄວາມຈໍາຫນ້ອຍ ແລະ ບັນຈຸຄຸນນະສົມບັດທີ່ຄັບແໜ້ນ, { -brand-name-firefox } ໃຫມ່ແມ່ນຢູ່ທີ່ນີ້ແລ້ວ.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = ມີ { -brand-name-firefox } ທີ່ໃໝ່ກວ່ານີ້. <a { $update_url }>ອັບເດດເປັນເວີຊັນຫຼ້າສຸດ</a>
 firefox-desktop-download-get-the-browser = ເອົາຕົວທ່ອງເວັບທີ່ປົກປ້ອງສິ່ງທີ່ສໍາຄັນ
 firefox-desktop-download-fast-reliable-private = ໄວ, ເຊື່ອຖືໄດ້ ແລະ ເປັນສ່ວນຕົວ — ເພື່ອຄວາມສະຫງົບທາງອອນໄລນ໌.
 # Obsolete string (expires: 2025-04-17)
