@@ -40,6 +40,14 @@ privacy-faq-v2-sort-of = 有多了一點。除了上述資料外，我們預設�
 privacy-faq-v2-we-may-also = 我們可能也會在預先發行版本中，進行<a { $attrs }>研究</a>，以收集其他資料。舉例來說，某些研究需要我們所謂的「網頁活動資料」，當中可能包含某些網站的網址與其他資訊。如此可幫助我們回答一些問題（例：如何在某些語系版本當中更好地整合某些網站）以改善 { -brand-name-firefox }。
 privacy-faq-v2-mozilla-pre-release = { -brand-name-mozilla } 的 { -brand-name-firefox } 預先發行版本是開發用的平台，會常常更新，並且包含實驗性功能。我們會在預先發行版本中收集比正式版當中更多的資料，以了解這些實驗性功能表現如何。您可以在偏好設定中，關閉此類資料的收集。
 privacy-faq-v2-but-why-do-you = 那你們為什麼還要收集資料？
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
+privacy-faq-v2-if-we-dont-know = 若我們不知道瀏覽器表現得如何，或是人們比較愛用哪些功能，我們就無法改善功能，或是持續提供您所期待的強大產品。我們也持續投資打造資料收集與分析工具，讓我們可以在尊重人們隱私的前提下，對產品開發做出更聰明的決策。您可以進一步了解我們所使用的一些隱私保護技術，例如 <a { $attrs }>OHTTP</a> 等。
+privacy-faq-v2-data-collection-bugs-me = 我還是不想要被收集任何資料，可以關掉嗎？
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
+#   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
+privacy-faq-v2-yes-user-control = 可以，讓使用者能夠自行控制是我們《隱私資料處理原則》的原則之一。我們在 { -brand-name-firefox } 當中的實踐，就是透過<a { $privacy }>隱私權設定頁面</a>，讓使用者可以在單一窗口就調整好隱私相關設定，您也可以在該頁面<a { $data }>關閉資料收集</a>。
 privacy-faq-v2-what-about-my-account = 那我的帳戶資料呢？
 privacy-faq-v2-we-are-big-believers = 我們非常相信要最小化收集資料，不請求我們不需要的東西。
 # Variables:
