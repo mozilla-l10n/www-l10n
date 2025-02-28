@@ -17,6 +17,7 @@ what-is-firefox = { -brand-name-firefox } là gì?
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } là trình duyệt chính duy nhất được hỗ trợ bởi tổ chức phi lợi nhuận, không bán dữ liệu cá nhân của bạn cho các nhà quảng cáo đồng thời giúp bạn bảo vệ thông tin cá nhân của mình. Tìm hiểu thêm về <a href="{ $url }">{ -brand-name-firefox-browsers }</a> và <a href="{ $url2 }">các sản phẩm khác.</a>
+the-firefox-browser-the-only = { -brand-name-firefox-browser }, trình duyệt lớn duy nhất được hỗ trợ bởi một tổ chức phi lợi nhuận, giúp bạn bảo vệ thông tin cá nhân của bạn. Tìm hiểu thêm về <a href="{ $url }">{ -brand-name-firefox-browsers }</a> và <a href="{ $url2 }">các sản phẩm khác.</a>
 how-do-i = Làm cách nào để tải xuống { -brand-name-firefox-browser }?
 
 # Variables:
@@ -30,6 +31,7 @@ you-can-easily = Bạn có thể dễ dàng tải xuống trình duyệt { -bran
 is-firefox-free = { -brand-name-firefox } có miễn phí không?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = Có! { -brand-name-firefox-browser } miễn phí. Thực ra là siêu miễn phí. Không có chi phí ẩn hoặc bất cứ điều gì. Bạn không phải trả bất kỳ khoản nào để sử dụng nó và chúng tôi không bán dữ liệu cá nhân của bạn.
+yep-the-firefox-browser-is-free = Yep! { -brand-name-firefox-browser } miễn phí. Vẫn miễn phí, thực sự đó. Không có chi phí ẩn hoặc bất cứ điều gì. Bạn không phải trả bất kỳ khoản tiền nào để sử dụng nó.
 related-questions-free = Câu hỏi liên quan: { -brand-name-firefox-browser } có miễn phí không, { -brand-name-firefox } có mất tiền không
 is-chrome-better = { -brand-name-chrome } có tốt hơn { -brand-name-firefox } không?
 no-we-dont = Không, chúng tôi không nghĩ { -brand-name-chrome } tốt hơn { -brand-name-firefox } và đây là lý do tại sao: khi mọi người hỏi trình duyệt nào tốt hơn, họ thực sự hỏi trình duyệt nào nhanh hơn và an toàn hơn. { -brand-name-firefox } được cập nhật hàng tháng để đảm bảo bạn có trình duyệt nhanh nhất tự động tôn trọng quyền riêng tư của bạn.
