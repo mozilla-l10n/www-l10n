@@ -44,3 +44,22 @@ privacy-faq-v2-sort-of = In un certo senso sì. In aggiunta a quanto già descri
 privacy-faq-v2-we-may-also = Nelle versioni non definitive, è possibile che vengano raccolti dati aggiuntivi nell’ambito dei <a { $attrs }>nostri studi</a>. Alcuni studi, infatti, necessitano di quelli che chiamiamo “dati sull’attività web”, che includono indirizzi web e altre informazioni su siti specifici. Questi studi rispondono a domande specifiche per migliorare { -brand-name-firefox }, ad esempio come ottimizzare la visualizzazione dei siti web più popolari per una specifica lingua.
 privacy-faq-v2-mozilla-pre-release = Le versioni non definitive di { -brand-name-mozilla } { -brand-name-firefox } sono piattaforme in continuo sviluppo e vengono frequentemente aggiornate con funzioni sperimentali. Raccogliamo più dati con le versioni non definitive rispetto alla versione ufficiale per capire se queste funzionalità sperimentali funzionano correttamente. Puoi scegliere di negare il consenso alla raccolta di questi dati nelle impostazioni.
 privacy-faq-v2-but-why-do-you = Ma perché non evitate la raccolta di qualsiasi dato?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
+privacy-faq-v2-if-we-dont-know = Senza conoscere come si sta comportando il browser, o quali funzioni gli utenti usano, non possiamo introdurre miglioramenti e fornirti il miglior prodotto possibile. Abbiamo investito nella creazione di strumenti per la raccolta e l’analisi di dati che ci consentano di prendere decisioni intelligenti su come sviluppare il prodotto, ma sempre rispettando la privacy delle persone. Puoi trovare ulteriori informazioni su alcune delle tecnologie per la tutela della privacy che utilizziamo, come <a { $attrs }>OHTTP</a>.
+privacy-faq-v2-data-collection-bugs-me = La raccolta di dati continua a infastidirmi. Posso disattivarla?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
+#   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
+privacy-faq-v2-yes-user-control = Sì, la possibilità per l’utente di gestire le proprie impostazioni è uno dei nostri principi fondamentali in materia di privacy dei dati. { -brand-name-firefox } ha una pagina dedicata alle <a { $privacy }>impostazioni per la privacy</a>, tramite cui ogni utente può gestire le proprie preferenze. Da qui puoi <a { $data }>disattivare la raccolta dei dati</a>.
+privacy-faq-v2-what-about-my-account = E i dati relativi al mio account?
+privacy-faq-v2-we-are-big-believers = Crediamo fermamente nell’idea di ridurre al minimo la quantità di dati raccolti e non ti chiediamo nulla che non sia necessario.
+# Variables:
+#   $attrs (url) - link to https://www.mozilla.org/account/
+privacy-faq-v2-you-dont-need-an-account = Non hai bisogno di un account per utilizzare { -brand-name-firefox }. Gli <a { $attrs }>account</a> sono necessari per sincronizzare i dati su più dispositivi, ma ti chiediamo solo un indirizzo email e la tua età (solo per assicurarci che tu non sia un bambino).
+privacy-faq-v2-you-use-digital = La pubblicità online fa parte della vostra strategia di marketing. Comprate i dati degli utenti per raggiungere meglio il vostro target?
+privacy-faq-v2-no-we-do-not-buy = No, non compriamo i dati delle persone per fare pubblicità mirata.
+privacy-faq-v2-we-do-not-ask = Chiediamo ai nostri partner pubblicitari di utilizzare solo dati di prima parte che i siti e gli inserzionisti già raccolgono sugli utenti, come il browser e il dispositivo in uso.
+privacy-faq-v2-well-it-seems = Bene, sembra che abbiate veramente a cuore la privacy degli utenti.
+privacy-faq-v2-yes-we-do = Sì, è così.
+privacy-faq-v2-find-out-more = Scopri ulteriori informazioni su come { -brand-name-mozilla } contribuisce a proteggere Internet.
