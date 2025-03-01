@@ -54,6 +54,9 @@ privacy-faq-v2-data-collection-bugs-me = Le collecta de datos ancora me enoia. P
 privacy-faq-v2-yes-user-control = Si. Le controlo del usator es un de nostre principios pro le confidentialitate de datos. Nos lo pone in practica in { -brand-name-firefox } sur nostre<a { $privacy }>pagina de parametros de confidentialitate</a>, que servi de puncto central pro quicunque cerca de prender le controlo sur su confidentialitate in { -brand-name-firefox }. Tu pote <a { $data }>disactivar le collecta de datos</a> sur ille pagina.
 privacy-faq-v2-what-about-my-account = E quanto al datos de mi conto?
 privacy-faq-v2-we-are-big-believers = Nos realmente crede in le minimisation de datos e in non demandar cosas sin necessitate.
+# Variables:
+#   $attrs (url) - link to https://www.mozilla.org/account/
+privacy-faq-v2-you-dont-need-an-account = Tu non besonia un conto pro usar { -brand-name-firefox }. Le <a { $attrs }>contos</a> es necessari pro synchronisar le datos a transverso le apparatos, ma nos te demanda solo un adresse email e tu etate (justo pro esser secur que tu non es un infante).
 privacy-faq-v2-you-use-digital = Le publicitate digital face parte de vostre marketing. Compra vos datos personal pro melio diriger vostre annuncios publicitari in linea?
 privacy-faq-v2-no-we-do-not-buy = No, nos non compra datos personal pro diriger le publicitate.
 privacy-faq-v2-we-do-not-ask = In ultra, nos demanda a nostre associatos publicitari de usar solmente le datos de prime mano que le sitos web e le editores sape de tote le usatores, como le navigator e apparato usate.
