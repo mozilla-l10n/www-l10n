@@ -84,7 +84,10 @@ firefox-developer-view-the-release = Vider le <a { $attrs }>notas de version</a>
 firefox-developer-developer-tools-user = Documentation pro usator de utensiles de disveloppator
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Ressources pro disveloppatores, per disveloppatores.
+firefox-developer-mdn-playground = Corte de joco
+firefox-developer-mdn-write-test-and-share = Scribe, verifica e comparti tu codice. Tu corte de joco pro apprender e compartir tu stupende labor con le mundo.
 firefox-developer-mdn-blog = Blog de { -brand-name-mdn }
+firefox-developer-mdn-unlock-the-world = Disbloca le mundo del disveloppamento del web con le blog de { -brand-name-mdn }, tu centro de referentia pro discernimentos experte, ultime standards web, e consilios pro le codification.
 firefox-developer-mdn-updates = Actualisationes
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Referentias { -brand-name-mdn }
