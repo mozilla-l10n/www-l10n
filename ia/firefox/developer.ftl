@@ -89,6 +89,7 @@ firefox-developer-mdn-write-test-and-share = Scribe, verifica e comparti tu codi
 firefox-developer-mdn-blog = Blog de { -brand-name-mdn }
 firefox-developer-mdn-unlock-the-world = Disbloca le mundo del disveloppamento del web con le blog de { -brand-name-mdn }, tu centro de referentia pro discernimentos experte, ultime standards web, e consilios pro le codification.
 firefox-developer-mdn-updates = Actualisationes
+firefox-developer-mdn-the-web-doesnt-have = Le web non ha un lista del modificationes, ma { -brand-name-mdn } pote adjutar. Tu pote personalisar e filtrar le cambiamentos de compatibilitate in base al navigatores o al categoria technologic que te interessa sia que es JavaScript, CSS, etc.
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Referentias { -brand-name-mdn }
 # Obsolete string (expires 18-04-2025)

@@ -51,8 +51,10 @@ manifesto-we-are-committed-to-thinking = Nos es ingagiate pro un internet que el
 manifesto-we-are-committed-to-diverse = Nos es ingagiate pro un internet que catalysa le collaboration inter diverse communitates laborante insimul pro le ben commun.
 manifesto-show-your-support = Monstra tu appoio
 manifesto-an-internet-with-these = Un internet con iste qualitates non prendera vita per se sol. Individuos e organisationes debe integrar iste aspirationes in le technologia de internet e in le human experientia con internet. Le Manifesto de { -brand-name-mozilla } e le Addendum representa le dedication de { -brand-name-mozilla } pro le progresso de iste aspirationes. Nos spera de laborar insimul con personas e organisationes ubique, qui comparti iste scopos a render internet un loco sempre melior pro omnes.
+manifesto-i-support-the-vision-of-v2 = Io supporta le vision de un internet melior e plus salubre ab { -brand-name-mozilla }, voler tu junger te?
 # obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Io supporta le vision de un internet melior, plus salubre per @mozilla, vole tu junger te a me?
+manifesto-share-on-bluesky = Comparti sur Bluesky
 manifesto-our-10-principles = <strong>Nostre 10</strong> Principios
 manifesto-read-the-entire-manifesto = Lege le manifesto complete
 manifesto-love-the-web = Ama tu le web?

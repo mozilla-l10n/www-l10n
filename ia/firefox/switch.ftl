@@ -23,6 +23,8 @@ switch-enjoy-the-web-faster = Gaude le web plus veloce, tote configurate pro te.
 switch-download-and-switch = Discarga Firefox e passa a illo
 switch-share-to-facebook = Comparti lo in Facebook
 switch-share-to-facebook-updated = Comparti con { -brand-name-facebook }
+# Note: Bluesky is a brand name and should not be translated
+switch-share-to-bluesky = Comparti a Bluesky
 switch-hey = Ei,
 switch-check-it-out = Prova lo e face me saper que tu pensa re illo:
 switch-send-an-email = Invia un email

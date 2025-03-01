@@ -17,6 +17,7 @@ what-is-firefox = Que es { -brand-name-firefox }?
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = Le { -brand-name-firefox-browser } es le unic navigator de importantia que es sustenite per un organisation sin scopo lucrative, que non vende tu datos personal a annunciatores, e que te adjuta a proteger tu informationes personal. Apprende plus sur le <a href="{ $url }">{ -brand-name-firefox-browsers }</a> e <a href="{ $url2 }">altere productos.</a>
+the-firefox-browser-the-only = Le { -brand-name-firefox-browser }, le sol del navigatores principal supportate per un organisation non lucrative, te adjuta a proteger tu informationes personal. Discoperi plus re le <a href="{ $url }">{ -brand-name-firefox-browsers }</a> e <a href="{ $url2 }"> re altere productos.</a>
 how-do-i = Como pote io obtener le { -brand-name-firefox-browser }?
 
 # Variables:
