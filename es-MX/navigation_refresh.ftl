@@ -22,6 +22,15 @@ navigation-refresh-firefox-for-desktop = { -brand-name-firefox } para escritorio
 navigation-refresh-firefox-for-android = { -brand-name-firefox } para { -brand-name-android }
 navigation-refresh-firefox-for-ios = { -brand-name-firefox } para { -brand-name-ios }
 navigation-refresh-firefox-focus = { -brand-name-firefox-focus }
+navigation-refresh-firefox-relay = { -brand-name-firefox-relay }
+navigation-refresh-all-products = Todos los productos
+navigation-refresh-firefox-blog = Blog de { -brand-name-firefox }
 
 ## Products
 
+navigation-refresh-products = Productos
+navigation-refresh-close-products-menu = Cerrar el menú Productos
+navigation-refresh-pocket = { -brand-name-pocket }
+navigation-refresh-mdn-plus = { -brand-name-mdn-plus }
+navigation-refresh-fakespot = { -brand-name-fakespot }
+navigation-refresh-thunderbird = { -brand-name-thunderbird }

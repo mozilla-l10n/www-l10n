@@ -64,9 +64,13 @@ vpn-shared-pricing-total-plus-tax = { $amount } total + impuestos
 vpn-shared-platform-cta-headline = Comencemos
 vpn-shared-platform-cta-button = Ver precios y disponibilidad
 vpn-shared-platform-privacy-promise = Tu privacidad en nuestra promesa
+vpn-shared-platform-what-is = ¿Qué es { -brand-name-mozilla-vpn }?
+vpn-shared-platfrom-why-choose = ¿Por qué { -brand-name-mozilla-vpn }?
 vpn-shared-platform-what-youll-get = Lo que obtendrás con { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = Más información sobre las VPNs
+vpn-subnav-download-mozilla-vpn = Descargar { -brand-name-mozilla-vpn }
 
 ## Press quotations
 
