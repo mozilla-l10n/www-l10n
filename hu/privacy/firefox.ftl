@@ -8,14 +8,14 @@
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Adatvédelmi alapok
 privacy-firefox-youre-in-control = Ön irányít
-privacy-firefox-privacy-isnt-just = Az adatvédelem nem csak egy beállítás – ez Önnek joga van. A { -brand-name-firefox } Adatvédelmi nyilatkozat az egyértelműségre, az ellenőrzésre és a felelősségteljes alapértelmezésekre épül. Úgy gondoljuk, hogy mindig Önnek kell irányítania, hogy mi történik az adataival. Számíthat ránk egyértelműen elmagyarázzuk, hogy mit csinál alapértelmezés szerint a { -brand-name-firefox }, és úgy módosítjuk a beállításait, hogy úgy böngésszen, ahogy szeretne.
+privacy-firefox-privacy-isnt-just = Az adatvédelem nem csak egy beállítás – ez az Ön joga. A { -brand-name-firefox } Adatvédelmi nyilatkozat az egyértelműségre, az irányításra és a felelősségteljes alapértelmezésekre épül. Úgy gondoljuk, hogy mindig Önnek kell irányítania, hogy mi történik az adataival. Számíthat ránk abban, hogy egyértelműen elmagyarázzuk, mit csinál alapértelmezés szerint a { -brand-name-firefox }, és úgy módosítjuk a beállításait, hogy úgy böngésszen, ahogy szeretne.
 privacy-firefox-read-our-privacy = Adatvédelmi nyilatkozat elolvasása
 privacy-firefox-keeping-you-informed = Értesítjük minden lépésről
 privacy-firefox-we-believe-you = Úgy gondoljuk, hogy tudnia kell, hogy az adatait hogyan és miért használják fel. A { -brand-name-firefox } az adatvédelmet és az átláthatóságot szem előtt tartva készül.
 privacy-firefox-transparency-first = Átláthatóság mindenekelőtt
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
-privacy-firefox-were-clear-about = Egyértelműek vagyunk abban, hogy milyen adatokat használunk és miért. Nincs meglepetés. A <a { $attrs }>{ -brand-name-firefox } Adatvédelmi nyilatkozat</a> részletezi ezt.
+privacy-firefox-were-clear-about = Egyértelműek vagyunk abban, hogy milyen adatokat használunk és miért. Nincs meglepetés. A <a { $attrs }>{ -brand-name-firefox } Adatvédelmi Nyilatkozat</a> részletezi ezt.
 privacy-firefox-how-we-use = Hogyan használjuk az adatokat
 privacy-firefox-we-use-data = Az adatokat a { -brand-name-firefox } zökkenőmentes működéséhez, a funkciók fejlesztéséhez és az üzletünk fenntartásához használjuk – mindezt az Ön adatainak tiszteletben tartásával. Néhány választható funkció működéséhez további adatokra lehet szükség, és megkönnyítjük a beállítások kezelését.
 privacy-firefox-builtin-control = Beépített irányítás
