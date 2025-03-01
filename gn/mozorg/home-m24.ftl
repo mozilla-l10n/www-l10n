@@ -50,7 +50,9 @@ m24-home-join-the-movement = Ejuaju kóvare: IA opavavépe g̃uarã
 m24-home-alt-llamafile-logo = { -brand-name-llamafile } ra’ãnga’i.
 m24-home-llamafile = { -brand-name-llamafile }
 m24-home-alt-builders = Apoharakuéra
+m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Apoharakuéra
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } ra’ãnga’i.
 m24-home-lumigator = { -brand-name-lumigator }

@@ -53,6 +53,7 @@ manifesto-show-your-support = Ehechauka ne ñepytyvõ
 manifesto-an-internet-with-these = Peteĩ ñanduti ndoikomo’ãi ha’eño ijehegui. Avakuéra ha avei opavave omoĩva’erã tembiporupyahu ñandutípe ha jekuaapy ñandutípe. { -brand-name-mozilla } he’i ha oikuaauka orekoha jehechauka ikatu hag̃ua omoambue hembiapo tenonderã. Jaheka tembiapo oñondive ava ha tembiapoha oparupigua oĩ guive orendive ha ojapo ñandutígui peteĩ tenda iporãvéva.
 # obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Che añeme’ẽ pe jehechapy iporãvéva ha oĩporãvéva ñanduti @mozilla-pe, ¿eñemoĩta che ykére?
+manifesto-share-on-bluesky = Emoherakuã Bluesky-pe
 manifesto-our-10-principles = <strong>Ñanemba’e10</strong>Ñepyrũgua
 manifesto-read-the-entire-manifesto = Emoñe’ẽmbaite je’epyre opaite peve
 manifesto-love-the-web = ¿Ehayhúpa ñanduti?

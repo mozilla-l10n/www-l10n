@@ -18,6 +18,8 @@ legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = Ñemigua ha márka
 legal-privacy-notices-and-policy = Marandu’i ha ñe’ẽñemi porureko
 legal-downloadable-software-notices = Marandu’i software mboguejykuaáva rehegua
+# heading for the table of contents, a shorter heading is better
+legal-firefox-contents = Tetepykuéra
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: Nde derécho rehegua
 legal-thunderbird = { -brand-name-thunderbird }

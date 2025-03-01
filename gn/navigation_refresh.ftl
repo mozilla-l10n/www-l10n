@@ -3,6 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-refresh-mozilla = { -brand-name-mozilla }
+# An accessible label used to describe that the role of the element is the primary website navigation.
+navigation-refresh-landmark-label = Ñepyrũgua
 
 ## About us
 
@@ -19,6 +21,7 @@ navigation-refresh-innovation-projects-v2 = Apopyrã tekopyahurã
 navigation-refresh-blog = Blog
 navigation-refresh-our-mission = Ore Rembipota
 navigation-refresh-our-work = Ore rembiapo
+navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 # Obsolete string (expires: 2025-01-05)
 navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
 # Obsolete string (expires: 2025-01-05)
