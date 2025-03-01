@@ -6,6 +6,7 @@ footer-refresh-discover-mozilla-products = { -brand-name-mozilla } ürünlerini 
 footer-refresh-leadership = Yönetim
 footer-refresh-advertise = { -brand-name-mozilla } ile Reklam Verin
 footer-refresh-firefox-release-notes = { -brand-name-firefox } Sürüm Notları
+footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla }’yı takip edin

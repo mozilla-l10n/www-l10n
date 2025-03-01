@@ -23,6 +23,8 @@ switch-enjoy-the-web-faster = Daha hızlı web’in keyfini sür.
 switch-download-and-switch = İndir ve geç
 switch-share-to-facebook = Facebook’ta paylaş
 switch-share-to-facebook-updated = { -brand-name-facebook }’ta paylaş
+# Note: Bluesky is a brand name and should not be translated
+switch-share-to-bluesky = Bluesky’da paylaşın
 switch-hey = Merhaba,
 switch-check-it-out = Şuradan inceleyebilirsin. Deneyince bana da haber ver:
 switch-send-an-email = E-posta gönder

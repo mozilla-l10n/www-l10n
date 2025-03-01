@@ -84,6 +84,8 @@ firefox-developer-view-the-release = Yenilikleri görmek için <a { $attrs }>sü
 firefox-developer-developer-tools-user = Geliştirici Araçları Kullanıcı Belgeleri
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Geliştiriciler için, geliştiriciler tarafından hazırlanan kaynaklar
+firefox-developer-mdn-blog = { -brand-name-mdn } Blog
+firefox-developer-mdn-updates = Güncellemeler
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } Belgeleri
 # Obsolete string (expires 18-04-2025)

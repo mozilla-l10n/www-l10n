@@ -18,6 +18,8 @@ legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = Gizlilik ve ticari markalar
 legal-privacy-notices-and-policy = Gizlilik bildirimleri ve politikası
 legal-downloadable-software-notices = İndirilebilir yazılım bildirimleri
+# heading for the table of contents, a shorter heading is better
+legal-firefox-contents = İçindekiler
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: Haklarınız hakkında
 legal-thunderbird = { -brand-name-thunderbird }
