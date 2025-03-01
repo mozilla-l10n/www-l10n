@@ -14,7 +14,7 @@ vpn-windows-a-vpn-creates = VPN 会在您的 Windows 计算机与互联网之间
 vpn-windows-what-are-the-benefits = 在 Windows 设备上安装 { -brand-name-mozilla-vpn } 有什么好处？
 vpn-windows-avoid-your-online = 避免自己的在线活动被收集并与第三方及广告商共享。
 vpn-windows-if-youre = 如果您是影视迷或音乐发烧友，可以借助 VPN 来规避互联网服务提供商降低您的网速。
-vpn-windows-you-can-exclude = 可以使用拆分隧道（自定义规则）功能来将应用排除出 VPN 保护，这样就能让部分应用使用 VPN ，另一部分则不使用。
+vpn-windows-you-can-exclude = 可以使用拆分隧道（自定义规则）功能来将应用排除出 VPN 保护范围，这样就能让部分应用使用 VPN ，另一部分则不使用。
 vpn-windows-using-a-windows = 将 Windows 设备连接到公共且不安全的 Wi-Fi 网络，会使您的网络流量信息受到网络监视程序的威胁。VPN 可以为设备增添一重强力保护，保护数据私密不外泄。
 vpn-windows-the-mozilla = { -brand-name-mozilla-vpn } 应用内存占用小，对设备速度和续航的影响也小。
 # Variables:

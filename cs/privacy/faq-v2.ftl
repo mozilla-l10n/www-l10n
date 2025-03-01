@@ -9,7 +9,7 @@
 privacy-faq-v2-title = Časté otázky k ochraně osobních dat společností { -brand-name-mozilla }
 # HTML page description
 privacy-faq-v2-desc = V { -brand-name-mozilla(case: "loc") } vaše osobní údaje respektujeme a chráníme.
-privacy-faq-v2-heading = Jde nám o lidi, ne o zisk.
+privacy-faq-v2-heading = Stojíme si za tím, že lidé mají přednost před ziskem.
 privacy-faq-v2-intro = Lidé často neví, co mají od používaného softwaru a služeb očekávat. Technologie, které denně používáme, jsou složité a na zjišťování podrobností nebývá čas. Tak je to i u { -brand-name-firefox(case: "gen") }, kde, jak jsme zjistili, mají lidé velmi různorodé představy o tom, co se na pozadí děje.
 privacy-faq-v2-at-mozilla = V { -brand-name-mozilla(case: "loc") } vaše osobní údaje respektujeme a chráníme:
 # Variables:
