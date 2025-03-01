@@ -16,10 +16,13 @@ vpn-landing-whats-a-vpn = Vad är ett VPN?
 vpn-landing-a-virtual-private-network-protects = Ett virtuellt privat nätverk skyddar din anslutning till internet och håller din plats och det du gör online mer privat på alla dina enheter.
 vpn-landing-see-all-the-ways-mozilla-vpn = Se alla sätt som { -brand-name-mozilla-vpn } skyddar dig på.
 vpn-landing-how-a-vpn-helps-you = Hur ett VPN hjälper dig
+vpn-landing-how-a-vpn-helps-you-v2 = Hur { -brand-name-mozilla-vpn } kan hjälpa dig
 vpn-landing-keeps-your-data-safe = Håller din data säker på offentligt Wi-Fi
 vpn-landing-log-in-to-your-bank-or = Logga in på din bank eller läkarmottagning från flygplatsen, kaféet eller var som helst, med sinnesfrid.
 vpn-landing-blocks-advertisers-from = Blockerar annonsörer från att rikta in sig på dig
 vpn-landing-hide-your-activity-from = Dölj din aktivitet från spårare och skadlig programvara så att du kan handla utan att bli övervakad.
+vpn-landing-take-control = Ta kontroll med webbplatsspecifika VPN-inställningar
+vpn-landing-customize-your-vpn = Anpassa ditt VPN-skydd per webbplats med tillägget { -brand-name-mozilla-vpn } för { -brand-name-firefox } (Windows endast).
 vpn-landing-features = Funktioner
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -40,6 +43,8 @@ vpn-landing-fast-network-speeds-even-while = Snabba nätverkshastigheter även n
 vpn-landing-no-logging-tracking-or-sharing = Ingen loggning, spårning eller delning av nätverksdata
 vpn-landing-no-bandwidth-restrictions-or = Inga bandbreddsbegränsningar eller strypning
 vpn-landing-extra-security-whole-device = Extra säkerhet: helt enhetsskydd, multi-hop routing och mer
+vpn-landing-built-transparently = Byggd på ett transparent sätt med öppen källkod
+vpn-landing-easy-firefox-integration = Enkel { -brand-name-firefox }-integration med tillägget { -brand-name-mozilla-vpn } (Windows endast)
 vpn-landing-see-all-features = Se alla funktioner
 vpn-landing-fram-a-brand-you-can-trust = Från ett varumärke du kan lita på
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } är ett icke-vinstdrivet internetföretag som har kämpat för en sund webb sedan 1998.

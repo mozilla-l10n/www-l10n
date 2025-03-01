@@ -16,6 +16,7 @@ vpn-download-button-copy = Ladda ner
 vpn-download-for-windows-v2 = VPN för { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bitars endast)
 vpn-download-for-windows-long = Ladda ner { -brand-name-mozilla-vpn } för { -brand-name-windows }
+vpn-download-for-firefox-extension = Installera tillägget för { -brand-name-firefox }
 vpn-download-for-mac = VPN för { -brand-name-mac-short }
 vpn-download-for-mac-long = Ladda ner { -brand-name-mozilla-vpn } för { -brand-name-mac-short }
 # Variables:
