@@ -41,7 +41,7 @@ privacy-faq-v2-do-you-collect = Több adatot gyűjtenek a { -brand-name-firefox 
 privacy-faq-v2-sort-of = Mondhatni igen. A fent leírt adatok mellett az összeomlási és hibajelentéseket is alapértelmezés szerint megkapjuk a { -brand-name-firefox } előzetes kiadású verzióiból.
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/shield
-privacy-faq-v2-we-may-also = Is gyűjthetünk további adatokat a kiadás előtt az egyik <a { $attrs }>tanulmányunkból</a>. Például, egyes tanulmányokhoz „böngészési adatokra” van szükség, amelyek URL-eket és egyéb információkat tartalmazhatnak bizonyos weboldalakról. Ez segít nekünk megválaszolni a { -brand-name-firefox } fejlesztését érintő kérdéseket, mint hogy hogyan integrálhatunk jobban népszerű weboldalakat egyes területeken.
+privacy-faq-v2-we-may-also = További adatokat is gyűjthetünk a kiadás előtt a <a { $attrs }>tanulmányainkból</a>. Például, egyes tanulmányokhoz „böngészési adatokra” van szükség, amelyek webcímeket és egyéb információkat tartalmazhatnak bizonyos weboldalakról. Ez segít nekünk megválaszolni a { -brand-name-firefox } fejlesztését érintő kérdéseket, például hogy miként integrálhatunk jobban népszerű weboldalakat egyes területeken.
 privacy-faq-v2-mozilla-pre-release = A { -brand-name-mozilla } { -brand-name-firefox } előzetes kiadású verziói fejlesztői platformok, gyakran frissülnek kísérleti funkciókkal. Több adatot gyűjtünk a kiadás előtti verziókban, mint a kiadás utániakban, hogy jobban megértsük hogy működnek ezek a kísérleti funkciók. Ezt az adatgyűjtést kikapcsolhatja a beállításokban.
 privacy-faq-v2-but-why-do-you = De egyáltalán miért gyűjtenek adatokat?
 # Variables:

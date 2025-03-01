@@ -32,4 +32,13 @@ privacy-faq-v2-wait-so-how = 呃，那你们怎么赚钱？
 #   $attrs (url) - link to https://stateof.mozilla.org
 privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } 绝非寻常组织。自从 1998 年组建为社区开源项目，{ -brand-name-mozilla } 一直由使命驱动，致力于打造更健康的互联网。{ -brand-name-mozilla-corporation }的大部分收入由 { -brand-name-firefox } 网络浏览器的搜索合作及世界各地的发行合约得来。您可以看看我们的<a { $attrs }">年度财报</a>，详细了解我们的营收从何而来。
 privacy-faq-v2-softballs = 那好，说重点。你们收集哪些数据？
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
+privacy-faq-v2-mozilla-does-collect = 默认情况下，{ -brand-name-mozilla } 确实会从 { -brand-name-firefox } 收集一系列有限的数据，这有助于我们了解人们如何使用浏览器。您可以阅读我们的<a href="{ $privacy }">隐私声明</a>和<a href="{ $data }">数据收集的完整文档</a>来详细了解。我们已公开这些文档，人人都可验证我们所言不虚、向我们提出改进意见，并由此信任我们没有任何隐瞒。
+privacy-faq-v2-do-you-collect = 你们是不是在 { -brand-name-firefox } 的预发布版本中收集更多数据？
+privacy-faq-v2-sort-of = 会多一些。默认情况下，除了上述数据，我们还可获知 { -brand-name-firefox } 预发布版本中的崩溃和错误报告。
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/shield
+privacy-faq-v2-we-may-also = 我们还可能为某一<a { $attrs }>实验</a>在预发布版本中收集额外的数据。例如，一些实验需要收集我们所称的“浏览数据”，其中可能包括某些网站的网址等信息。这有助于我们解决特定问题（例如，如何更好地整合特定区域中的热门网站）以改进 { -brand-name-firefox }。
 privacy-faq-v2-find-out-more = 深入了解 { -brand-name-mozilla } 如何保护互联网。
