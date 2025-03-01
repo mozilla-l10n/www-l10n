@@ -30,6 +30,7 @@ you-can-easily = Tu pote facilemente discargar le navigator { -brand-name-firefo
 is-firefox-free = Es { -brand-name-firefox } gratuite?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = Si! { -brand-name-firefox-browser } es gratuite. Super gratuite, realmente. Nulle costos o alco celate. Tu non paga alco pro usar lo e nos non vende tu datos personal.
+yep-the-firefox-browser-is-free = Si! { -brand-name-firefox-browser } es gratuite. Super gratuite, realmente. Nulle costos o alco celate. Tu non paga alco pro usar lo.
 related-questions-free = Questiones similar: { -brand-name-firefox-browser } es gratuite? { -brand-name-firefox } costa moneta?
 is-chrome-better = Es { -brand-name-chrome } melior de { -brand-name-firefox }?
 no-we-dont = No, nos non pensa que { -brand-name-chrome } es melior que { -brand-name-firefox }, ecce proque: quando personas demanda qual navigator es melior, illes vermente demanda qual navigator es le plus rapide e secur. { -brand-name-firefox } es actualisate cata mense pro assecurar que tu ha le navigator le plus rapide que respecta automaticamente tu vita private.
