@@ -48,6 +48,10 @@ privacy-faq-v2-but-why-do-you = Ma proque collige vos datos del toto?
 #   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
 privacy-faq-v2-if-we-dont-know = Si nos non sape como le navigator forni su performances o que functionalitates usa le personas, nos non pote render lo melior e livrar le grande producto que tu desira. Nos ha investite in producer collection de datos e utensiles de analyse que permitte nos de prender decisiones intelligente re nostre producto respectante le confidentialitate del personas. Tu pote leger plus re alcun del technologias preservante le confidentialitate que nos usa, como <a { $attrs }>OHTTP</a>.
 privacy-faq-v2-data-collection-bugs-me = Le collecta de datos ancora me enoia. Pote io disactivar lo?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
+#   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
+privacy-faq-v2-yes-user-control = Si. Le controlo del usator es un de nostre principios pro le confidentialitate de datos. Nos lo pone in practica in { -brand-name-firefox } sur nostre<a { $privacy }>pagina de parametros de confidentialitate</a>, que servi de puncto central pro quicunque cerca de prender le controlo sur su confidentialitate in { -brand-name-firefox }. Tu pote <a { $data }>disactivar le collecta de datos</a> sur ille pagina.
 privacy-faq-v2-what-about-my-account = E quanto al datos de mi conto?
 privacy-faq-v2-we-are-big-believers = Nos realmente crede in le minimisation de datos e in non demandar cosas sin necessitate.
 privacy-faq-v2-you-use-digital = Le publicitate digital face parte de vostre marketing. Compra vos datos personal pro melio diriger vostre annuncios publicitari in linea?

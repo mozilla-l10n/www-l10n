@@ -16,6 +16,7 @@ vpn-download-button-copy = Discargar
 vpn-download-for-windows-v2 = VPN pro { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit solo)
 vpn-download-for-windows-long = Discargar { -brand-name-mozilla-vpn } pro { -brand-name-windows }
+vpn-download-for-firefox-extension = Installar le extension pro { -brand-name-firefox }
 vpn-download-for-mac = VPN pro { -brand-name-mac-short }
 vpn-download-for-mac-long = Discargar { -brand-name-mozilla-vpn } pro { -brand-name-mac-short }
 # Variables:
