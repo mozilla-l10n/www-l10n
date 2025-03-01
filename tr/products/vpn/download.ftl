@@ -16,6 +16,7 @@ vpn-download-button-copy = İndir
 vpn-download-for-windows-v2 = { -brand-name-windows } için VPN
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (yalnızca 64 bit)
 vpn-download-for-windows-long = { -brand-name-windows } için { -brand-name-mozilla-vpn }’i indir
+vpn-download-for-firefox-extension = { -brand-name-firefox } uzantısını yükle
 vpn-download-for-mac = { -brand-name-mac-short } için VPN
 vpn-download-for-mac-long = { -brand-name-mac-short } için { -brand-name-mozilla-vpn }’i indir
 # Variables:

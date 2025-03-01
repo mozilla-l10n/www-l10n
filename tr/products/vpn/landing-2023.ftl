@@ -40,6 +40,7 @@ vpn-landing-fast-network-speeds-even-while = Oyun oynarken bile yüksek hızda b
 vpn-landing-no-logging-tracking-or-sharing = Ağ verileri kaydedilmez, izlenmez ve paylaşılmaz
 vpn-landing-no-bandwidth-restrictions-or = Bant genişliği kısıtlaması ve hız sınırı yok
 vpn-landing-extra-security-whole-device = Ekstra güvenlik: komple cihaz koruması, çok sunuculu yönlendirme ve daha fazlası
+vpn-landing-built-transparently = Açık kaynak olarak şeffaf bir şekilde geliştirildi
 vpn-landing-see-all-features = Tüm özelliklere bakın
 vpn-landing-fram-a-brand-you-can-trust = Güvenebileceğiniz bir markadan
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla }, 1998’den beri sağlıklı bir web için mücadele eden, kâr amacı gütmeyen bir internet şirketidir.
