@@ -21,7 +21,6 @@ vpn-landing-keeps-your-data-safe = 在公共 Wi-Fi 中保护数据安全
 vpn-landing-log-in-to-your-bank-or = 在机场、咖啡厅等场所安心登录网银或网上挂号。
 vpn-landing-blocks-advertisers-from = 拒绝广告商定向推广
 vpn-landing-hide-your-activity-from = 不让跟踪器和恶意软件窥视您的活动，安心网购。
-vpn-landing-take-control = 通过特定网站的 VPN 设置掌控一切
 vpn-landing-customize-your-vpn = 使用适用于 { -brand-name-firefox } 的 { -brand-name-mozilla-vpn } 扩展逐网站定制您的 VPN 保护仅适用于 Windows。
 vpn-landing-features = 功能
 # Variables:
