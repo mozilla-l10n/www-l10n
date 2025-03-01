@@ -5,6 +5,7 @@
 footer-refresh-leadership = Motenondekuaa
 footer-refresh-advertise = Emoherakuã { -brand-name-mozilla } ndive
 footer-refresh-firefox-release-notes = Marandu { -brand-name-firefox } rehegua
+footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Ehapykueho @{ -brand-name-mozilla }

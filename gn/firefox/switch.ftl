@@ -23,6 +23,8 @@ switch-enjoy-the-web-faster = Eiporu vy’ápe peteĩ ñanduti ipya’éva, ndé
 switch-download-and-switch = Emboguejy ha emoambue
 switch-share-to-facebook = Emoherakuã Facebook-pe
 switch-share-to-facebook-updated = Emoherakuã { -brand-name-facebook }-pe
+# Note: Bluesky is a brand name and should not be translated
+switch-share-to-bluesky = Emoherakuã Bluesky ndive
 switch-hey = Mba’éichapa,
 switch-check-it-out = Eiporu ha emombe’u chéve mba’épa ehechakuaa:
 switch-send-an-email = Emondo ñandutiveve
