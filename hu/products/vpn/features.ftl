@@ -50,8 +50,8 @@ vpn-features-support-for-custom-dns = Egyéni DNS támogatása
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
 vpn-features-keep-traffic-protected = A { -brand-name-mozilla-vpn } segítségével megvédheti a forgalmát, és a DNS-lekérdezéseit továbbra is oda irányíthatja, ahová csak szeretné. <a { $dns }>Tudjon meg többet az egyéni DNS támogatásáról</a>.
 vpn-features-flexible = Rugalmas
-vpn-features-webste-specific-vpn = Webhelyspecifikus VPN-beállítások, zökkenőmentesen a { -brand-name-firefox }ba integrálva
-vpn-features-with-the-mozilla-vpn-extention = A { -brand-name-firefox(case: "accusative") } (csak Windows) készült { -brand-name-mozilla-vpn } kiegészítővel webhelyenként finomhangolhatja a VPN-élményét. Zárja ki az egyes webhelyeket a VPN-védelem alól, vagy állítson be előnyben részesített kiszolgálóhelyeket az egyes webhelyekhez, így rugalmasabb és személyre szabottabb élményt kaphat.
+vpn-features-webste-specific-vpn = Webhelyspecifikus VPN-beállítások, zökkenőmentesen a { -brand-name-firefox(case: "illative") } integrálva
+vpn-features-with-the-mozilla-vpn-extention = A { -brand-name-firefox(case: "allative") } készült { -brand-name-mozilla-vpn } kiegészítővel (csak Windowson) webhelyenként finomhangolhatja a VPN-élményét. Zárja ki az egyes webhelyeket a VPN-védelem alól, vagy állítson be előnyben részesített kiszolgálóhelyeket az egyes webhelyekhez, így rugalmasabb és személyre szabottabb élményt kaphat.
 vpn-features-personalized-server = Személyre szabott kiszolgálóhely-ajánlások
 vpn-features-well-suggest-which-servers = Javaslatot teszünk arra, hogy a közelben mely kiszolgálók biztosítják a leggyorsabb és legmegbízhatóbb internetkapcsolatot.
 vpn-features-personalize-which-apps = Szabja testre, hogy mely alkalmazások kapnak VPN-védelmet

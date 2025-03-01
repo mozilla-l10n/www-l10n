@@ -22,7 +22,7 @@ vpn-landing-log-in-to-your-bank-or = Nyugodtan bejelentkezhet a bankjába vagy a
 vpn-landing-blocks-advertisers-from = Blokkolja a hirdetőket, hogy ne célozzák Önt
 vpn-landing-hide-your-activity-from = Elrejti a tevékenységét a követők és a rosszindulatú programok elől, így anélkül vásárolhat, hogy figyelnék.
 vpn-landing-take-control = Vegye át az irányítást a webhelyspecifikus VPN-beállításokkal
-vpn-landing-customize-your-vpn = Szabja testre a VPN-védelmét webhelyenkénti alapon a { -brand-name-firefox }hoz készült { -brand-name-mozilla-vpn } kiegészítővel (csak Windows).
+vpn-landing-customize-your-vpn = Szabja testre a VPN-védelmét webhelyenkénti alapon a { -brand-name-firefox(case: "allative") } készült { -brand-name-mozilla-vpn } kiegészítővel (csak Windowson).
 vpn-landing-features = Funkciók
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -44,7 +44,7 @@ vpn-landing-no-logging-tracking-or-sharing = Nincs naplózás, nyomkövetés vag
 vpn-landing-no-bandwidth-restrictions-or = Nincs sávszélesség-korlátozás vagy visszafogás
 vpn-landing-extra-security-whole-device = Extra biztonság: teljes eszközvédelem, többugrásos útválasztás és még sok más
 vpn-landing-built-transparently = Transzparensen felépítve, nyílt forráskódúan
-vpn-landing-easy-firefox-integration = Könnyű { -brand-name-firefox } integráció a { -brand-name-mozilla-vpn } kiegészítővel (csak Windows)
+vpn-landing-easy-firefox-integration = Könnyű { -brand-name-firefox } integráció a { -brand-name-mozilla-vpn } kiegészítővel (csak Windowson)
 vpn-landing-see-all-features = Összes funkció megtekintése
 vpn-landing-fram-a-brand-you-can-trust = Egy márkától, amelyben megbízhat
 vpn-landing-mozilla-is-a-non-profit-backed = A { -brand-name-mozilla } egy nonprofit internetes cég, amely 1998 óta az egészséges webért harcol.
