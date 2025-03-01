@@ -84,6 +84,12 @@ firefox-developer-view-the-release = Pogledajte <a { $attrs }>napomene o izdanju
 firefox-developer-developer-tools-user = Korisnički dokumenti alata za programere
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resursi za programere, od strane programera
+firefox-developer-mdn-playground = Igralište
+firefox-developer-mdn-write-test-and-share = Napišite, testirajte i podijelite svoj kod. Vaše igralište za učenje i dijeljenje svog nevjerovatnog rada sa svijetom.
+firefox-developer-mdn-blog = { -brand-name-mdn } blog
+firefox-developer-mdn-unlock-the-world = Otključajte svijet web razvoja uz { -brand-name-mdn } blog — vaš centar za stručne uvide, najnovije web standarde i savjete za kodiranje.
+firefox-developer-mdn-updates = Nadogradnje
+firefox-developer-mdn-the-web-doesnt-have = Web nema dnevnik promjena, ali { -brand-name-mdn } može pomoći. Možete personalizirati i filtrirati promjene kompatibilnosti na osnovu pretraživača ili tehničke kategorije koja vas zanima da li je to JavaScript, CSS, itd.
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } reference
 # Obsolete string (expires 18-04-2025)

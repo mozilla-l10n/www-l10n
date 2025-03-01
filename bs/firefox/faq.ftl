@@ -17,6 +17,7 @@ what-is-firefox = Šta je { -brand-name-firefox }?
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } je jedini veliki pretraživač koji podržava neprofitna organizacija koja ne prodaje vaše lične podatke oglašivačima dok vam pomaže u zaštiti vaših ličnih podataka. Saznajte više o <a href="{ $url }">{ -brand-name-firefox-browsers }</a> i <a href="{ $url2 }">drugim proizvodima.</a>
+the-firefox-browser-the-only = { -brand-name-firefox-browser }, jedini veliki pretraživač koji podržava neprofitna organizacija, pomaže vam da zaštitite vaše lične podatke. Saznajte više o <a href="{ $url }">{ -brand-name-firefox-browsers }</a> i <a href="{ $url2 }">drugim proizvodima.</a>
 how-do-i = Kako da dobijem { -brand-name-firefox-browser }?
 
 # Variables:
@@ -30,6 +31,7 @@ you-can-easily = Možete lahko preuzeti { -brand-name-firefox } desktop pretraž
 is-firefox-free = Je li { -brand-name-firefox } besplatan?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = O da! { -brand-name-firefox-browser } je besplatan. Super besplatan, zapravo. Bez skrivenih troškova ili bilo čega. Ne plaćate ništa da ga koristite, a mi ne prodajemo vaše lične podatke.
+yep-the-firefox-browser-is-free = Yep! { -brand-name-firefox-browser } je besplatan. Super besplatno, zapravo. Bez skrivenih troškova ili bilo čega. Ne plaćate ništa da biste ga koristili.
 related-questions-free = Povezana pitanja: da li je { -brand-name-firefox-browser } besplatan, da li { -brand-name-firefox } košta nešto novca
 is-chrome-better = Je li { -brand-name-chrome } bolji od { -brand-name-firefox }?
 no-we-dont = Ne, ne mislimo da je { -brand-name-chrome } bolji od { -brand-name-firefox }, a evo zašto: kada ljudi pitaju koji je pretraživač bolji, oni se zaista pitaju koji je pretraživač brži i sigurniji. { -brand-name-firefox } se ažurira mjesečno kako bi se osiguralo da imate najbrži pretraživač koji automatski poštuje vašu privatnost.
