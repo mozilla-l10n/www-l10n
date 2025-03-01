@@ -41,4 +41,23 @@ privacy-faq-v2-sort-of = 会多一些。默认情况下，除了上述数据，�
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-v2-we-may-also = 我们还可能为某一<a { $attrs }>实验</a>在预发布版本中收集额外的数据。例如，一些实验需要收集我们所称的“浏览数据”，其中可能包括某些网站的网址等信息。这有助于我们解决特定问题（例如，如何更好地整合特定区域中的热门网站）以改进 { -brand-name-firefox }。
+privacy-faq-v2-mozilla-pre-release = { -brand-name-mozilla } 的 { -brand-name-firefox } 预发布版本是开发平台，经常更新实验功能。我们在预发布版本中收集的数据多于正式版，目的是了解这些实验功能的运作情况。您可以在首选项中选择不收集这些数据。
+privacy-faq-v2-but-why-do-you = 那你们为什么还要收集数据？
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
+privacy-faq-v2-if-we-dont-know = 如果我们不知道浏览器的实际表现，以及用户使用哪些功能，我们就无法进行改善，也就无法提供您想要的优秀产品。我们投入开发数据收集和分析工具，使我们能够在尊重用户隐私的同时，对我们的产品做出明智的决策。您可以阅读了解我们使用的一些能够保护隐私的技术，例如 <a { $attrs }>OHTTP</a>。
+privacy-faq-v2-data-collection-bugs-me = 我还是不放心交出数据，可以拒绝收集吗？
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
+#   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
+privacy-faq-v2-yes-user-control = 是的。用户控制是我们的数据隐私准则之一。我们将这一准则体现在<a { $privacy }>隐私设置页面</a>中，用户可通过该页面一站式控制自己在 { -brand-name-firefox } 中的隐私。您可以在那里<a { $data }>关闭数据收集</a>。
+privacy-faq-v2-what-about-my-account = 那我的账户数据呢？
+privacy-faq-v2-we-are-big-believers = 我们坚持最低限度的数据收集原则，不会索取不需要的数据。
+# Variables:
+#   $attrs (url) - link to https://www.mozilla.org/account/
+privacy-faq-v2-you-dont-need-an-account = 您无需账户即可使用 { -brand-name-firefox }。在跨设备同步数据时需要使用<a { $attrs }>账户</a>，而我们需要您提供的也只有邮箱地址和年龄（仅为确认您不是儿童）。
+privacy-faq-v2-you-use-digital = 你们在营销时也会投放数字广告，那会不会购买其他人的数据来增强在线广告的定向投放效果？
+privacy-faq-v2-no-we-do-not-buy = 不，我们不会购买其他人的数据来定向投放广告。
+privacy-faq-v2-well-it-seems = 嗯，看来你们确实会保护我的隐私。
+privacy-faq-v2-yes-we-do = 是的，我们说到做到。
 privacy-faq-v2-find-out-more = 深入了解 { -brand-name-mozilla } 如何保护互联网。
