@@ -24,4 +24,12 @@ privacy-faq-v2-following-questions = 以下问答应该有助于您了解关于 
 privacy-faq-v2-i-use-firefox = 我在网络上几乎什么事都是通过 { -brand-name-firefox } 来做，你们 { -brand-name-mozilla } 员工肯定知晓关于我的大量信息，是吧？
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } 并不像您想的那样了解人们如何浏览网络。您的设备或计算机上运行的网络浏览器 { -brand-name-firefox } 是您通往互联网的入口。您的浏览器将管理许多有关您访问的网站的信息，但这些信息通常只留在您的设备上。
 privacy-faq-v2-it-seems-like = 网络上每家公司好像都在把我的信息买来卖去，你们大概也不例外。
+# Variables:
+#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
+privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } 不会（通过大多数人认识中的“出售数据”方式）出售您的数据，也不会购买您的数据。由于我们努力做到公开透明，并且“出售数据”的法律定义在某些地区极其宽泛，因此很遗憾，我们无法作出如您期盼的明确说明。我们仍然付出了大量努力，确保在与合作伙伴共享（{ -brand-name-firefox } 需要这样做才能通过商业途径维持发展）的数据中已去除一切身份信息，或是只以聚合形式共享，又或是通过我们能够保护隐私的技术（例如 <a { $attrs }>OHTTP</a>）来传输。
+privacy-faq-v2-wait-so-how = 呃，那你们怎么赚钱？
+# Variables:
+#   $attrs (url) - link to https://stateof.mozilla.org
+privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } 绝非寻常组织。自从 1998 年组建为社区开源项目，{ -brand-name-mozilla } 一直由使命驱动，致力于打造更健康的互联网。{ -brand-name-mozilla-corporation }的大部分收入由 { -brand-name-firefox } 网络浏览器的搜索合作及世界各地的发行合约得来。您可以看看我们的<a { $attrs }">年度财报</a>，详细了解我们的营收从何而来。
+privacy-faq-v2-softballs = 那好，说重点。你们收集哪些数据？
 privacy-faq-v2-find-out-more = 深入了解 { -brand-name-mozilla } 如何保护互联网。
