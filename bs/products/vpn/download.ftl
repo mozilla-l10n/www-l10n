@@ -16,6 +16,7 @@ vpn-download-button-copy = Preuzmi
 vpn-download-for-windows-v2 = VPN za { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (samo 64-bitni)
 vpn-download-for-windows-long = Preuzmite { -brand-name-mozilla-vpn } za { -brand-name-windows }
+vpn-download-for-firefox-extension = Instalirajte ekstenziju { -brand-name-firefox }
 vpn-download-for-mac = VPN za { -brand-name-mac-short }
 vpn-download-for-mac-long = Preuzmite { -brand-name-mozilla-vpn } za { -brand-name-mac-short }
 # Variables:

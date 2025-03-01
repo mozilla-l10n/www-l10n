@@ -16,10 +16,13 @@ vpn-landing-whats-a-vpn = Šta je VPN?
 vpn-landing-a-virtual-private-network-protects = Virtuelna privatna mreža štiti vašu vezu s internetom, čuvajući vašu lokaciju i ono što radite na mreži privatnijima na svim vašim uređajima.
 vpn-landing-see-all-the-ways-mozilla-vpn = Pogledajte sve načine na koje vas { -brand-name-mozilla-vpn } štiti.
 vpn-landing-how-a-vpn-helps-you = Kako vam VPN pomaže
+vpn-landing-how-a-vpn-helps-you-v2 = Kako vam { -brand-name-mozilla-vpn } pomaže
 vpn-landing-keeps-your-data-safe = Čuva vaše podatke na javnoj Wi-Fi mreži
 vpn-landing-log-in-to-your-bank-or = Prijavite se u svoju banku ili ordinaciju sa aerodroma, kafića ili bilo gdje, bezbrižno.
 vpn-landing-blocks-advertisers-from = Blokira oglašivače da vas označavaju
 vpn-landing-hide-your-activity-from = Sakrijte svoju aktivnost od tragača i zlonamjernog softvera kako biste mogli kupovati bez nadzora.
+vpn-landing-take-control = Preuzmite kontrolu pomoću VPN postavki specifičnih za web stranicu
+vpn-landing-customize-your-vpn = Prilagodite svoju VPN zaštitu za svaku web stranicu pomoću ekstenzije { -brand-name-mozilla-vpn } za { -brand-name-firefox } (samo za Windows).
 vpn-landing-features = Funkcije
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -42,6 +45,8 @@ vpn-landing-fast-network-speeds-even-while = Velike brzine mreže čak i dok igr
 vpn-landing-no-logging-tracking-or-sharing = Nema evidentiranja, praćenja ili dijeljenja mrežnih podataka
 vpn-landing-no-bandwidth-restrictions-or = Nema ograničenja propusnosti ili prigušenja
 vpn-landing-extra-security-whole-device = Dodatna sigurnost: zaštita cijelog uređaja, rutiranje s više skokova i još mnogo toga
+vpn-landing-built-transparently = Izgrađen transparentno u otvorenom kodu
+vpn-landing-easy-firefox-integration = Jednostavna { -brand-name-firefox } integracija sa { -brand-name-mozilla-vpn } ekstenzijom (samo za Windows)
 vpn-landing-see-all-features = Pogledajte sve funkcije
 vpn-landing-fram-a-brand-you-can-trust = Od brenda kojem možete vjerovati
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } je neprofitna internet kompanija koja se bori za zdrav web od 1998. godine.

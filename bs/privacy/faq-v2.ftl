@@ -39,3 +39,27 @@ privacy-faq-v2-softballs = Uredu, ova pitanja su bila jednostavna. Koje podatke 
 privacy-faq-v2-mozilla-does-collect = { -brand-name-mozilla } po defaultu prikuplja ograničen skup podataka od { -brand-name-firefox } koji nam pomaže da razumijemo kako ljudi koriste pretraživač. Više o tome možete pročitati u našem <a { $privacy }>obavještenju o privatnosti</a> i pročitati <a { $data }>kompletnu dokumentaciju za to prikupljanje podataka</a>. Takođe objavljujemo našu dokumentaciju kako bi bilo ko mogao provjeriti je li ono što kažemo istinito, reći nam trebamo li poboljšati i imati povjerenja da ništa ne skrivamo.
 privacy-faq-v2-do-you-collect = Da li prikupljate više podataka u testnim verzijama { -brand-name-firefox }a?
 privacy-faq-v2-sort-of = Na neki način. Pored opisanih podataka iznad, podrazumjevano dobijamo poruke o padovima i greškama u testne verzije { -brand-name-firefox }a.
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/shield
+privacy-faq-v2-we-may-also = Također možemo prikupiti dodatne podatke u prethodnom izdanju za jednu od naših <a { $attrs }>studija</a>. Na primjer, neke studije zahtijevaju ono što nazivamo “podaci o pregledavanju”, koji mogu uključivati URL-ove i druge informacije o određenim web stranicama. Ovo nam pomaže da odgovorimo na konkretna pitanja za poboljšanje { -brand-name-firefox }, kao što je, kako bolje integrirati popularne web stranice na određenim lokacijama.
+privacy-faq-v2-mozilla-pre-release = { -brand-name-mozilla } testne verzije { -brand-name-firefox }a su razvojne platforme, često ažurirane sa testnim funkcijama. Mi prikupljamo više podataka u testnim verzijama nego što to činimo kasnije nakon izdavanja u cilju boljeg razumijevanja kako ove testne funkcije rade. Možete isključiti ovo prikupljanje podataka ako želite u postavkama.
+privacy-faq-v2-but-why-do-you = Ali zašto prikupljate bilo kakve podatke uopšte?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
+privacy-faq-v2-if-we-dont-know = Ako ne znamo kako pretraživač radi ili koje funkcije ljudi koriste, ne možemo ga poboljšati i isporučiti sjajan proizvod koji želite. Uložili smo u izgradnju alata za prikupljanje i analizu podataka koji nam omogućavaju da donosimo pametne odluke o našem proizvodu poštujući privatnost ljudi. Možete pročitati više o nekim tehnologijama za očuvanje privatnosti koje koristimo, kao što je <a { $attrs }>OHTTP</a>.
+privacy-faq-v2-data-collection-bugs-me = Prikupljanje podataka i dalje me brine. Mogu li ga isključiti?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
+#   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
+privacy-faq-v2-yes-user-control = Da. Kontrola korisnika je jedan od naših principa privatnosti podataka. To smo implementirali u praksi u { -brand-name-firefox } na našoj <a { $privacy }>stranici postavki privatnosti</a>, koja služi kao mjesto na jednom mjestu za sve koji žele preuzeti kontrolu nad svojom privatnošću u { -brand-name-firefox }. Tamo možete <a { $data }>isključiti prikupljanje podataka</a>.
+privacy-faq-v2-what-about-my-account = Šta je sa podacima mog računa?
+privacy-faq-v2-we-are-big-believers = Mi smo veliki zagovornici minimalizacije podataka i ne tražimo stvari koje ne trebamo.
+# Variables:
+#   $attrs (url) - link to https://www.mozilla.org/account/
+privacy-faq-v2-you-dont-need-an-account = Ne treba vam račun da koristite { -brand-name-firefox }. <a { $attrs }>Računi</a> su potrebni za sinhronizaciju podataka na svim uređajima, ali od vas tražimo samo email adresu i vaše godine (samo da bismo bili sigurni da niste dijete).
+privacy-faq-v2-you-use-digital = Vi koristite digitalno oglašavanje kao dio vašeg marketing miksa. Da li vi kupujete podatke o ljudima za bolje ciljanje na online oglase?
+privacy-faq-v2-no-we-do-not-buy = Ne, mi ne kupujemo podatke o ljudima za ciljno oglašavanje.
+privacy-faq-v2-we-do-not-ask = Mi tražimo od naših partnera za oglašavanje da koriste samo prvi dio podataka koje web stranice i objavljivači znaju o svim korisnicima, kao što je browser kojeg koristite i uređaj na kojem ga koriste.
+privacy-faq-v2-well-it-seems = U redu, izgleda da me stvarno čuvate u pogledu privatnih stvari.
+privacy-faq-v2-yes-we-do = Da, to je tačno.
+privacy-faq-v2-find-out-more = Saznajte više o tome kako { -brand-name-mozilla } štiti internet.
