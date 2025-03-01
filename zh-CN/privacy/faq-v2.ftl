@@ -22,4 +22,6 @@ privacy-faq-v2-following-questions = 以下问答应该有助于您了解关于 
 ## FAQ
 
 privacy-faq-v2-i-use-firefox = 我在网络上几乎什么事都是通过 { -brand-name-firefox } 来做，你们 { -brand-name-mozilla } 员工肯定知晓关于我的大量信息，是吧？
+privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } 并不像您想的那样了解人们如何浏览网络。您的设备或计算机上运行的网络浏览器 { -brand-name-firefox } 是您通往互联网的入口。您的浏览器将管理许多有关您访问的网站的信息，但这些信息通常只留在您的设备上。
+privacy-faq-v2-it-seems-like = 网络上每家公司好像都在把我的信息买来卖去，你们大概也不例外。
 privacy-faq-v2-find-out-more = 深入了解 { -brand-name-mozilla } 如何保护互联网。
