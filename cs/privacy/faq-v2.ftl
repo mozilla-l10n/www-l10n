@@ -43,17 +43,17 @@ privacy-faq-v2-sort-of = Tak nějak. Kromě výše popsaných údajů dostávám
 #   $privacy (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-v2-we-may-also = V nefinálních verzích můžeme shromažďovat další data pro jednu z našich <a { $attrs }>studií</a>. Některé studie například vyžadují to, čemu říkáme „údaje o prohlížení“, která mohou zahrnovat URL adresy a další informace o určitých webových stránkách. To nám pomáhá odpovídat na konkrétní otázky týkající se vylepšení { -brand-name-firefox(case: "gen") }, např. jak do něj lépe začlenit oblíbené webové stránky v konkrétních jazycích.
 privacy-faq-v2-mozilla-pre-release = Nefinální verze { -brand-name-firefox(case: "gen") } nám slouží jako platforma pro vývojáře { -brand-name-mozilla(case: "gen") }, často je aktualizujeme a obsahují i experimentální funkce. Před vydáním proto sbíráme více dat, abychom správně rozuměli jak a jestli tyto experimenty fungují. Samozřejmě můžete toto odesílání dat vypnout v nastavení.
-privacy-faq-v2-but-why-do-you = Proč vlastně vůbec sbíráte jakákoliv data?
+privacy-faq-v2-but-why-do-you = Ale proč vůbec shromažďujete nějaká data?
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
 privacy-faq-v2-if-we-dont-know = Pokud bychom nevěděli, jak si prohlížeč vede a jaké funkce lidé používají, nedokázali bychom ho vylepšovat a vyvíjet v produkt, který chcete. Investovali jsme do vytvoření nástrojů pro sběr dat a jejich analýzu, které nám umožňují dělat informovaná rozhodnutí o našich produktech a zároveň respektovat soukromí lidí. Můžete si přečíst více o některých technologiích pro ochranu soukromí, které používáme, jako je <a { $attrs }>OHTTP</a>.
-privacy-faq-v2-data-collection-bugs-me = Nelíbí se mi jakýkoliv sběr dat. Mohu ho úplně vypnout?
+privacy-faq-v2-data-collection-bugs-me = Sběr dat mě stále trápí. Mohu ho vypnout?
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 #   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
 privacy-faq-v2-yes-user-control = Ano. Uživatelská kontrola je jedním z našich principů ochrany osobních údajů. To jsme uvedli do praxe ve { -brand-name-firefox(case: "loc") } na naší <a { $privacy }>stránce s nastavením soukromí</a>, která na jednom místě slouží každému, kdo chce převzít kontrolu nad svým soukromím v { -brand-name-firefox }. Zde můžete <a { $data }>vypnout sběr dat</a>.
-privacy-faq-v2-what-about-my-account = A co data z mého účtu Firefoxu?
-privacy-faq-v2-we-are-big-believers = Věříme, že potřeba dat by měla být co nejmenší a nechceme požadovat data, která nepotřebujeme.
+privacy-faq-v2-what-about-my-account = Jak je to s údaji o mém účtu?
+privacy-faq-v2-we-are-big-believers = Jsme zastánci minimalizace dat a nežádáme o věci, které nepotřebujeme.
 # Variables:
 #   $attrs (url) - link to https://www.mozilla.org/account/
 privacy-faq-v2-you-dont-need-an-account = Pro používání { -brand-name-firefox(case: "gen") } nepotřebujete účet. <a { $attrs }>Účet</a> je potřeba pro synchronizaci dat mezi zařízeními, ale potřebujeme jen e-mailovou adresu a věk (pro jistotu, že nejste dítě).
