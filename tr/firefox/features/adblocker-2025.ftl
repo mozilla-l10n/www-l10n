@@ -11,6 +11,7 @@ features-adblocker-ad-blocking = Reklam engelleme
 features-adblocker-meta-title = Reklam Engelleyiciler Hakkında - { -brand-name-firefox }
 # HTML page description
 features-adblocker-meta-desc = Reklam engelleyicilerin nasıl çalıştığını, sizin için neler yapabileceğini ve { -brand-name-firefox }’un sizi takip kodlarından ve çerezlerden nasıl koruduğunu öğrenin.
+features-adblocker-the-ad-blocker-a-tool = Reklam engelleyici: Kişiselleştirilmiş ve odaklanmış gezinti deneyimine yönelik bir araç.
 features-adblocker-finding-the-right = Size en uygun reklam engelleyiciyi bulun
 features-adblocker-enhanced-privacy = { -brand-name-firefox } ile daha fazla gizlilik ve performans
 features-adblocker-beyond-ad-blockers = { -brand-name-firefox }, reklam engelleyicilerin yanı sıra, web’de gezinirken size daha fazla kontrol sağlayan yerleşik özellikler içerir. Bu araçlar, deneyiminizi özelleştirmenize olanak sağlarken gizliliğinizi korumanıza yardımcı olur:
