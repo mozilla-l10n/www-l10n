@@ -16,6 +16,7 @@ vpn-download-button-copy = Tải xuống
 vpn-download-for-windows-v2 = VPN dành cho { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (chỉ 64-bit)
 vpn-download-for-windows-long = Tải xuống { -brand-name-mozilla-vpn } cho { -brand-name-windows }
+vpn-download-for-firefox-extension = Cài đặt tiện ích mở rộng cho { -brand-name-firefox }
 vpn-download-for-mac = VPN cho { -brand-name-mac-short }
 vpn-download-for-mac-long = Tải xuống { -brand-name-mozilla-vpn } cho { -brand-name-mac-short }
 # Variables:

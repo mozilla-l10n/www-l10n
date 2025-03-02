@@ -42,6 +42,8 @@ vpn-features-support-for-custom-dns = Hỗ trợ DNS tùy chỉnh
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
 vpn-features-keep-traffic-protected = Với { -brand-name-mozilla-vpn }, bạn có thể bảo vệ lưu lượng truy cập của mình và vẫn định tuyến các truy vấn DNS của mình đến bất cứ đâu bạn muốn. <a { $dns }>Tìm hiểu thêm về hỗ trợ DNS tùy chỉnh</a>.
 vpn-features-flexible = Linh hoạt
+vpn-features-webste-specific-vpn = Cài đặt VPN dành riêng cho trang web, được tích hợp liền mạch vào { -brand-name-firefox }
+vpn-features-with-the-mozilla-vpn-extention = Với tiện ích mở rộng { -brand-name-mozilla-vpn } cho { -brand-name-firefox } (chỉ Windows), bạn có thể tinh chỉnh trải nghiệm VPN của mình trên từng trang web. Loại trừ các trang web riêng lẻ khỏi chế độ VPN bảo vệ hoặc đặt vị trí máy chủ ưa thích cho các trang web cụ thể, mang đến cho bạn trải nghiệm linh hoạt và cá nhân hóa hơn.
 vpn-features-personalized-server = Đề xuất vị trí máy chủ được cá nhân hóa
 vpn-features-well-suggest-which-servers = Chúng tôi sẽ đề xuất máy chủ nào gần bạn sẽ đảm bảo kết nối Internet nhanh nhất, đáng tin cậy nhất.
 vpn-features-personalize-which-apps = Cá nhân hóa ứng dụng nào được bảo vệ VPN

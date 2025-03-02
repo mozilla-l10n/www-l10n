@@ -16,10 +16,13 @@ vpn-landing-whats-a-vpn = VPN là gì?
 vpn-landing-a-virtual-private-network-protects = Mạng riêng ảo bảo vệ kết nối của bạn với Internet, giữ cho vị trí của bạn và những gì bạn làm trực tuyến riêng tư hơn trên các thiết bị của mình.
 vpn-landing-see-all-the-ways-mozilla-vpn = Xem tất cả cách { -brand-name-mozilla-vpn } bảo vệ bạn.
 vpn-landing-how-a-vpn-helps-you = VPN giúp bạn như thế nào
+vpn-landing-how-a-vpn-helps-you-v2 = Cách để { -brand-name-mozilla-vpn } giúp bạn
 vpn-landing-keeps-your-data-safe = Giữ dữ liệu của bạn an toàn trên Wi-Fi công cộng
 vpn-landing-log-in-to-your-bank-or = Đăng nhập mà không cần lo lắng tại ngân hàng hoặc văn phòng bác sĩ của bạn tại sân bay, trong quán cà phê hoặc bất cứ nơi nào khác.
 vpn-landing-blocks-advertisers-from = Chặn các trình quảng cáo nhắm mục tiêu đến bạn
 vpn-landing-hide-your-activity-from = Ẩn hoạt động của bạn khỏi trình theo dõi và phần mềm độc hại để bạn có thể mua sắm mà không bị theo dõi.
+vpn-landing-take-control = Kiểm soát các cài đặt VPN dành riêng cho trang web
+vpn-landing-customize-your-vpn = Tùy chỉnh các biện pháp VPN bảo vệ của bạn trên cơ sở mỗi trang web với tiện ích mở rộng { -brand-name-mozilla-vpn } cho { -brand-name-firefox } (chỉ Windows).
 vpn-landing-features = Tính năng
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -32,6 +35,8 @@ vpn-landing-fast-network-speeds-even-while = Tốc độ mạng nhanh ngay cả 
 vpn-landing-no-logging-tracking-or-sharing = Không ghi nhật ký, theo dõi hoặc chia sẻ dữ liệu mạng
 vpn-landing-no-bandwidth-restrictions-or = Không hạn chế hoặc điều tiết băng thông
 vpn-landing-extra-security-whole-device = Bảo mật bổ sung: bảo vệ toàn bộ thiết bị, định tuyến multi-hop và hơn thế nữa
+vpn-landing-built-transparently = Được xây dựng minh bạch bằng nguồn mở
+vpn-landing-easy-firefox-integration = Tích hợp { -brand-name-firefox } dễ dàng với tiện ích mở rộng { -brand-name-mozilla-vpn } (chỉ Windows)
 vpn-landing-see-all-features = Xem tất cả các tính năng
 vpn-landing-fram-a-brand-you-can-trust = Từ một thương hiệu bạn có thể tin tưởng
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } là một công ty internet phi lợi nhuận đang đấu tranh cho một trang web lành mạnh kể từ năm 1998.
