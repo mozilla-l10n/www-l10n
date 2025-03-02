@@ -16,6 +16,7 @@ vpn-download-button-copy = 다운로드
 vpn-download-for-windows-v2 = { -brand-name-windows }용 VPN
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64비트 전용)
 vpn-download-for-windows-long = { -brand-name-windows }용 { -brand-name-mozilla-vpn } 다운로드
+vpn-download-for-firefox-extension = { -brand-name-firefox } 확장 기능 설치
 vpn-download-for-mac = { -brand-name-mac-short }용 VPN
 vpn-download-for-mac-long = { -brand-name-mac-short }용 { -brand-name-mozilla-vpn } 다운로드
 # Variables:
