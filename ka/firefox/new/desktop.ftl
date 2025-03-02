@@ -132,7 +132,7 @@ firefox-desktop-download-from-security-to = უსაფრთხოების
 firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozilla }</a>-მ შექმნა { -brand-name-firefox }, როგორც სწრაფი, მეტად პირადული შემნაცვლებელი { -brand-name-ie } ბრაუზერისა, ახლა უკვე { -brand-name-chrome }-ისაც. დღესაც განაგრძობს მიზნისკენ სვლას ჩვენი კომპანია და მოხალისეთა ერთობა, რომ უზრუნველვყოთ თქვენი პირადულობის უწინარესობა.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
-firefox-desktop-download-as-the-internet-v2 = ინტერნეტის ზრდისა და ცვლილებების კვალდაკვალ, { -brand-name-firefox } განაგრძობს თქვენი პირადი მონაცემების ხელშეუხებლობის დაცვას — ეს ყოველთვის ჩვენი მიზანი იყო. გაეცანით მონაცემთა მონაცემების გამოყენების შესახებ დებულებებს, იხილეთ ჩვენი <a { $attrs }>პირადულობის დებულება</a>.
+firefox-desktop-download-as-the-internet-v2 = ინტერნეტის ზრდისა და ცვლილებების კვალდაკვალ, { -brand-name-firefox } განაგრძობს თქვენი პირადი მონაცემების ხელშეუხებლობის დაცვას — რაც ყოველთვის იყო ჩვენი მიზანი. გაეცანით, როგორ ვეპყრობით მონაცემებს ჩვენს <a { $attrs }>პირადულობის დებულებაში</a>.
 # Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
