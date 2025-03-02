@@ -16,10 +16,13 @@ vpn-landing-whats-a-vpn = VPN이 무엇인가요?
 vpn-landing-a-virtual-private-network-protects = 가상 사설망은 인터넷 연결을 보호하여 사용자의 위치와 온라인 활동을 여러 기기에서 안전하게 보호합니다.
 vpn-landing-see-all-the-ways-mozilla-vpn = { -brand-name-mozilla-vpn }이 보호하는 모든 방법을 확인하세요.
 vpn-landing-how-a-vpn-helps-you = VPN이 사용자를 돕는 방법
+vpn-landing-how-a-vpn-helps-you-v2 = { -brand-name-mozilla-vpn }이 사용자에게 주는 도움
 vpn-landing-keeps-your-data-safe = 공용 Wi-Fi에서 내 데이터를 안전하게 유지합니다.
 vpn-landing-log-in-to-your-bank-or = 공항, 카페 등 어디에서나 안심하고 은행이나 병원 진료실에 로그인하세요.
 vpn-landing-blocks-advertisers-from = 광고사가 사용자를 타겟팅하지 못하도록 차단
 vpn-landing-hide-your-activity-from = 추적기와 악성코드로부터 내 활동을 숨겨 감시당하지 않고 쇼핑하세요.
+vpn-landing-take-control = 웹 사이트 별 VPN 설정으로 제어하기
+vpn-landing-customize-your-vpn = { -brand-name-firefox } (Windows 전용) 용 { -brand-name-mozilla-vpn } 확장으로 웹 사이트 기반으로 VPN 보호 기능을 사용자 지정하세요.
 vpn-landing-features = 기능
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -32,6 +35,8 @@ vpn-landing-fast-network-speeds-even-while = 게임 중에도 빠른 네트워�
 vpn-landing-no-logging-tracking-or-sharing = 로깅이나 추적, 네트워크 데이터 공유를 하지 않음
 vpn-landing-no-bandwidth-restrictions-or = 대역폭 제한이나 스로틀링 없음
 vpn-landing-extra-security-whole-device = 추가 보안: 전체 기기 보호, 멀티 홉 라우팅 등
+vpn-landing-built-transparently = 투명하게 오픈 소스 기반으로 만들어졌습니다.
+vpn-landing-easy-firefox-integration = { -brand-name-mozilla-vpn } 확장 기능과의 쉬운 { -brand-name-firefox } 통합 (Windows 전용)
 vpn-landing-see-all-features = 모든 기능 보기
 vpn-landing-fram-a-brand-you-can-trust = 신뢰할 수 있는 브랜드
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla }는 1998년부터 건강한 웹을 위해 싸워온 비영리 지원 인터넷 회사입니다.
