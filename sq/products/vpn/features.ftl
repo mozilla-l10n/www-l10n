@@ -50,6 +50,8 @@ vpn-features-support-for-custom-dns = Mbulim për DNS vetjake
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
 vpn-features-keep-traffic-protected = Me { -brand-name-mozilla-vpn }, mund ta mbani të mbrojtur trafikun tuaj dhe prapë t’i dërgoni kërkesat tuaja DNS kudo ku parapëlqeni. <a { $dns }>Mësoni më tepër mbi mbulim DNS-sh vetjake</a>.
 vpn-features-flexible = I zhdërvjellët
+vpn-features-webste-specific-vpn = Rregullime VPN specifike për sajtin, integruar pa një cen në { -brand-name-firefox }
+vpn-features-with-the-mozilla-vpn-extention = Me Zgjerimin { -brand-name-mozilla-vpn } për { -brand-name-firefox } (vetëm për Windows), mund të përimtoi punën tuaj me VPN-në sipas secilit sajt. Përjashtoni sajte individualë nga mbrojtja VPN, ose caktoni vendndodhje të parapëlqyera shërbyesi për sajte të caktuar, duke pasur një funksionim më të zhdërvjellët dhe të personalizuar.
 vpn-features-personalized-server = Rekomandime të personalizuara për vendndodhje shërbyesish
 vpn-features-well-suggest-which-servers = Do t’ju sugjerojmë cilët shërbyes pranë jush do të garantojnë lidhjen internet më të shpejtë, më të qëndrueshme.
 vpn-features-personalize-which-apps = Personalizoni cilat aplikacione përfitojnë mbrojtje VPN

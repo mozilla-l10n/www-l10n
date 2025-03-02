@@ -33,6 +33,10 @@ privacy-faq-v2-wait-so-how = Dale, po paratë nga i nxirrni?
 #   $attrs (url) - link to https://stateof.mozilla.org
 privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } s’është si entet e rëndomta. E themeluar si një projekt bashkësie, me burim të hapët, më 1998, { -brand-name-mozilla } është një ent i udhëhequr nga një mision, që punon për një internet më të shëndetshëm. Pjesa dërrmuese e të ardhurave të { -brand-name-mozilla-corporation } vjen nga tarifa të fituara përmes kontratash partneriteti dhe distribucioni kërkimi me shfletuesin { -brand-name-firefox } anembanë botës. Më shumë rreth se si i nxjerrim paratë mund të mësoni te <a { $attrs }>raporti ynë vjetor financiar</a>.
 privacy-faq-v2-softballs = OK, këto të parat qenë të lehta. Ç’të dhëna grumbulloni?
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
+privacy-faq-v2-mozilla-does-collect = { -brand-name-mozilla }, si parazgjedhje, grumbullon një grup të kufizuar të dhënash nga { -brand-name-firefox }-i, që na ndihmojnë të kuptojmë se si e përdorin njerëzit shfletuesin. Më shumë rreth kësaj mund të lexoni te <a { $privacy }>shënimi ynë mbi privatësinë</a> dhe mund të lexoni <a { $data }>dokumentimin e plotë mbi grumbullimin e atyre të dhënave</a>. Bëjmë gjithashtu publik dokumentimin tonë, që gjithkush të mund të verifikojë se ajo që themi është e vërtetë, të mund të na tregojë, nëse na duhet të përmirësohemi dhe të ketë besim se s’fshehim gjë.
 privacy-faq-v2-do-you-collect = A grumbulloni më tepër të dhëna nga versionet paraqarkullim të { -brand-name-firefox }-it?
 privacy-faq-v2-sort-of = Në një farë mënyre. Përveç të dhënave të përshkruara më sipër, marrim njoftime vithisjesh dhe gabimesh, si parazgjedhje në versionet paraqarkullim të { -brand-name-firefox }-it.
 # Variables:
@@ -50,8 +54,12 @@ privacy-faq-v2-data-collection-bugs-me = Grumbullimi i të dhënave prapëseprap
 privacy-faq-v2-yes-user-control = Po. Pasja e kontrollit nga përdoruesi është një nga parimet tona të privatësisë së të dhënave. Këtë e vëmë në jetë te { -brand-name-firefox }, te <a { $privacy }>faqja jonë e rregullimeve të privatësisë</a>, që shërben si zgjidhje e plotë për këdo që kërkon të ketë kontrollin e privatësisë së vet në { -brand-name-firefox }. Aty mund të <a { $data }>çaktivizoni grumbullimin e të dhënave</a>.
 privacy-faq-v2-what-about-my-account = Po të dhënat e llogarive të mia?
 privacy-faq-v2-we-are-big-believers = Besojmë fort në minimizimin e të dhënave dhe nuk kërkojmë gjëra që nuk na duhen.
+# Variables:
+#   $attrs (url) - link to https://www.mozilla.org/account/
+privacy-faq-v2-you-dont-need-an-account = You don’t need an account Që të përdorni { -brand-name-firefox }-in s’ju duhet ndonjë llogari. <a { $attrs }>Llogaritë</a> duhen për të njëkohësuar të dhëna përmes pajisjesh, por ju kërkojmë vetëm një adresë email dhe moshën tuaj (thjesht për t’u siguruar se s’jeni fëmijë).
 privacy-faq-v2-you-use-digital = Si pjesë e marketingut tuaj, ju përdorni reklama dixhitale. Blini të dhëna të njerëzve për të fokusuar më mirë reklamat tuaja internetore?
 privacy-faq-v2-no-we-do-not-buy = Jo, nuk blejmë të dhëna të njerëzve për reklama të fokusuara.
 privacy-faq-v2-we-do-not-ask = Partnerëve tanë të reklamave u kërkojmë të përdorin vetëm të dhëna që ata vetë, sajte dhe botues, dinë mbi krejt përdoruesit - jo nga palë të treta - të tilla si shfletuesi që po përdorni dhe pajisje nga po e përdorni.
 privacy-faq-v2-well-it-seems = Duket se vërtet më mbroni krahët te kjo punë e privatësisë.
 privacy-faq-v2-yes-we-do = Po.
+privacy-faq-v2-find-out-more = Shihni më tepër se si e mbron internetin { -brand-name-mozilla }.

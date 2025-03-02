@@ -16,10 +16,13 @@ vpn-landing-whats-a-vpn = Ç’është një VPN?
 vpn-landing-a-virtual-private-network-protects = Një rrjet virtual privat mbron lidhjen tuaj në internet, duke mbajtur më private vendndodhjen tuaj dhe ç’bëni në internet që nga pajisjet tuaja.
 vpn-landing-see-all-the-ways-mozilla-vpn = Shihni krejt rrugët me të cilat ju mbron { -brand-name-mozilla-vpn }.
 vpn-landing-how-a-vpn-helps-you = Si ju ndihmon një VPN
+vpn-landing-how-a-vpn-helps-you-v2 = Si ju ndihmon { -brand-name-mozilla-vpn }
 vpn-landing-keeps-your-data-safe = I mban të parrezik të dhënat tuaja në Wi-Fi publik
 vpn-landing-log-in-to-your-bank-or = Hyni në llogarinë tuaj të një banke, apo në atë me një mjek, që nga aeroporti, kafeja apo kudo, me mendje të fjetur.
 vpn-landing-blocks-advertisers-from = U bllokon reklamave t’ju bëjnë objektiv
 vpn-landing-hide-your-activity-from = Fshihuni veprimtarinë tuaj gjurmuesve dhe malware-it, që të mund të blini pa u parë nga të tjerë.
+vpn-landing-take-control = Merrni kontrollin, me rregullime VPN sipas sajtesh
+vpn-landing-customize-your-vpn = Përshtatni mbrojtjet tuaja me VPN sipas sajtesh, me Zgjerimin { -brand-name-mozilla-vpn } për { -brand-name-firefox } (vetëm për Windows).
 vpn-landing-features = Veçori
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -40,6 +43,8 @@ vpn-landing-fast-network-speeds-even-while = Shpejtësi të mëdha rrjeti teksa 
 vpn-landing-no-logging-tracking-or-sharing = Pa regjistrim, gjurmim apo ndarje me të tjerët të dhënash rrjeti
 vpn-landing-no-bandwidth-restrictions-or = Pa kufizim apo pengim gjerësie bande
 vpn-landing-extra-security-whole-device = Siguri shtesë: mbrojtje e krejt pajisjes, rrugëzim me shumë hope & etj
+vpn-landing-built-transparently = Krijuar me transparencë, me burim të hapët
+vpn-landing-easy-firefox-integration = Integrim i lehtë i { -brand-name-firefox }-it me zgjerimin { -brand-name-mozilla-vpn } (vetëm për Windows)
 vpn-landing-see-all-features = Shihini krejt veçoritë
 vpn-landing-fram-a-brand-you-can-trust = Nga një markë të cilës mund t’i besoni
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } është një shoqëri internetore jofitimprurëse, që ka luftuar që prej 1998-s për një web të shëndetshëm.

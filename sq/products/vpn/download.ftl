@@ -16,6 +16,7 @@ vpn-download-button-copy = Shkarkoje
 vpn-download-for-windows-v2 = VPN për { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (vetëm për 64-bit)
 vpn-download-for-windows-long = Shkarkoni { -brand-name-mozilla-vpn } për { -brand-name-windows }
+vpn-download-for-firefox-extension = Instaloni zgjerimin { -brand-name-firefox }
 vpn-download-for-mac = VPN për { -brand-name-mac-short }
 vpn-download-for-mac-long = Shkarkoni { -brand-name-mozilla-vpn } për { -brand-name-mac-short }
 # Variables:
