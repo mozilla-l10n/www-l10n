@@ -22,6 +22,8 @@ switch-enjoy-the-web-faster = Nikmati web lebih cepat yang semuanya disiapkan un
 switch-download-and-switch = Unduh dan alihkan
 switch-share-to-facebook = Bagikan ke Facebook
 switch-share-to-facebook-updated = Bagikan ke { -brand-name-facebook }
+# Note: Bluesky is a brand name and should not be translated
+switch-share-to-bluesky = Bagikan ke Bluesky
 switch-hey = Hai,
 switch-check-it-out = Lihat dan beri tahu saya pendapat Anda:
 switch-send-an-email = Kirim surel
