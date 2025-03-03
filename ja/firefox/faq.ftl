@@ -18,6 +18,7 @@ what-is-firefox = { -brand-name-firefox } とは？
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } は主要ブラウザーのうち、非営利組織が運営し、広告主に対するユーザーの個人情報の販売を行わず、個人情報の保護に役立つ唯一のブラウザーです。<a href="{ $url }">{ -brand-name-firefox-browsers }</a> や<a href="{ $url2 }">その他の製品</a>の詳細をご覧ください。
+the-firefox-browser-the-only = { -brand-name-firefox-browser } は、非営利組織が運営し、個人情報の保護に役立つ唯一の主要ブラウザーです。<a href="{ $url }">{ -brand-name-firefox-browsers }</a> や<a href="{ $url2 }">その他の製品</a>の詳細をご覧ください。
 
 how-do-i = { -brand-name-firefox-browser } を入手する方法は？
 
@@ -33,6 +34,7 @@ you-can-easily = { -brand-name-firefox } デスクトップブラウザーは<a 
 is-firefox-free = { -brand-name-firefox } は無料ですか？
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = { -brand-name-firefox-browser } は無料です。完全に無料ですので、隠された料金等は一切ありません。使用時の支払は全くありません。また Mozilla はユーザーの個人情報を売却することもありません。
+yep-the-firefox-browser-is-free = { -brand-name-firefox-browser } は無料です。完全に無料ですので、隠された料金等は一切ありません。利用料金はかかりません。
 related-questions-free = 関連する質問: { -brand-name-firefox-browser } は無料ですか？・{ -brand-name-firefox } には費用がかかりますか？
 
 is-chrome-better = { -brand-name-chrome } は { -brand-name-firefox } より優れていますか？
