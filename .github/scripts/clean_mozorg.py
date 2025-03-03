@@ -104,8 +104,8 @@ class FilesExtraction:
         print("\n----\nCommunity Configuration")
         print("Extracting files for reference locale...")
         self.ref_files = [
-            os.path.relpath(ref_path.format(locale=None), basedir)
-            for (ref_path, tgt_path), locales in project_config_paths.all().items()
+            os.path.relpath(ref_path, basedir)
+            for ref_path in project_config_paths.ref_paths
         ]
 
         # Extract other locales
@@ -137,8 +137,8 @@ class FilesExtraction:
         print("Extracting files for reference locale...")
         tmp_ref_files = []
         tmp_ref_files = [
-            os.path.relpath(ref_path.format(locale=None), basedir)
-            for (ref_path, tgt_path), locales in project_config_paths.all().items()
+            os.path.relpath(ref_path, basedir)
+            for ref_path in project_config_paths.ref_paths
         ]
         # Add to existing array of files, remove duplicates and sort
         self.ref_files.extend(tmp_ref_files)
@@ -168,6 +168,9 @@ class FilesExtraction:
             self.l10n_files.extend(tmp_l10n_files)
             self.l10n_files = list(set(self.l10n_files))
             self.l10n_files.sort()
+
+        print(f"Extracted {len(self.ref_files)} vendor files.")
+        print(f"Extracted {len(self.l10n_files)} l10n files.")
 
 
 def main():
