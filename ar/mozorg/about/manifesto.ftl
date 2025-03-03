@@ -55,9 +55,11 @@ manifesto-we-are-committed-to-thinking = نحن ملتزمون بإنترنت ي
 manifesto-we-are-committed-to-diverse = نحن ملتزمون بإنترنت يُحفز التعاون بين مجتمعات متنوعة تعمل معًا من أجل الصالح العام.
 manifesto-show-your-support = أظهروا دعمكم
 manifesto-an-internet-with-these = الإنترنت بهذه الصفات لن يأتي إلى الحياة من تلقاء نفسه. يجب على الأفراد والمنظمات تضمين هذه التطلعات في تكنولوجيا الإنترنت وفي التجربة البشرية مع الإنترنت. يُمثل بيان { -brand-name-mozilla } والملحق التزام { -brand-name-mozilla } بالنهوض بهذه التطلعات. نهدف إلى العمل مع الأشخاص والمُؤسسات في كل مكان الذين يشاركون هذه الأهداف لجعل الإنترنت مكانًا أفضل للجميع.
+manifesto-i-support-the-vision-of-v2 = أؤيّد رؤية إنترنت أفضل وصحّي من { -brand-name-mozilla }، هل سَتنضم إليّ؟
 # obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = أؤيد رؤية إنترنت أفضل وصحي من @mozilla، هل ستنضم إليّ؟
 
+manifesto-share-on-bluesky = شارك على Bluesky
 manifesto-our-10-principles = <strong>مبادئنا العشرة</strong>
 manifesto-read-the-entire-manifesto = اقرأ البيان كاملًا
 manifesto-love-the-web = هل تُحب الويب؟
