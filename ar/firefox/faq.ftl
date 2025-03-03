@@ -18,6 +18,7 @@ what-is-firefox = ما هو { -brand-name-firefox }؟
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = مُتصفح { -brand-name-firefox-browser } هو المُتصفح الرئيسي الوحيد الذي تدعمه مؤسسة غير ربحية لا تبيع بياناتك الشخصية للمعلنين بينما يُساعدك في حماية معلوماتك الشخصية. معرفة المزيد عن <a href="{ $url }">{ -brand-name-firefox-browsers }</a> و<a href="{ $url2 }">المنتجات الأخرى.</a>
+the-firefox-browser-the-only = مُتصفح { -brand-name-firefox-browser } هو المُتصفح الرئيسي الوحيد الذي تدعمه مؤسسة غير ربحية، مما يُساعدك على حماية معلوماتك الشخصية. اكتشف المزيد عن <a href="{ $url }">{ -brand-name-firefox-browsers }</a> و <a href="{ $url2 }">المنتجات الأخرى.</a>
 
 how-do-i = كيف يُمكنني الحصول على { -brand-name-firefox-browser }؟
 
@@ -33,6 +34,7 @@ you-can-easily = يُمكنك تنزيل مُتصفح سطح المكتب { -bra
 is-firefox-free = هل { -brand-name-firefox } مجاني؟
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = بالتأكيد! { -brand-name-firefox-browser } مجاني. في الوقع، هو مجاني تمامًا. بلا تكاليف جانبية أو أي شيء. لن تدفع أي شيء مقابل استخدامه، ونحن لا نبيع بياناتك الشخصية.
+yep-the-firefox-browser-is-free = بالتأكيد! { -brand-name-firefox-browser } مجاني. في الوقع، هو مجاني تمامًا. بلا تكاليف جانبية أو أي شيء. فأنت لا تدفع أي شيء مقابل استخدامه.
 related-questions-free = أسئلة ذات صلة بالموضوع: هل{ -brand-name-firefox-browser } مجاني، هل يكلف استخدام { -brand-name-firefox } أية أموال
 
 is-chrome-better = هل { -brand-name-chrome } أفضل من { -brand-name-firefox }؟
