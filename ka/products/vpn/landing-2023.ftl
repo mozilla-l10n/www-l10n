@@ -21,8 +21,8 @@ vpn-landing-keeps-your-data-safe = უზრუნველყოფს თქ�
 vpn-landing-log-in-to-your-bank-or = ეწვიეთ საბანკო ანგარიშს ან პირადი ექიმის კაბინეტს აეროპორტიდან, კაფედან ან ნებისმიერი ადგილიდან აუღელვებლად.
 vpn-landing-blocks-advertisers-from = სარეკლამოებს უზღუდავს თქვენ მიმართ გამიზნულ მოქმედებებს
 vpn-landing-hide-your-activity-from = ფარავს თქვენს საქმიანობას მეთვალყურეებისა და მავნებლებისგან, რომ შეძლოთ საყიდლების შეძენა თვალის დევნების გარეშე.
-vpn-landing-take-control = მართეთ სამართავი ვებსაიტისთვის განკუთვნილი VPN-ის პარამეტრებით
-vpn-landing-customize-your-vpn = მოირგეთ VPN-ის დაცვა საიტზე თითოეული { -brand-name-mozilla-vpn } გაფართოებით { -brand-name-firefox }-ზე (მხოლოდ Windows-ზე).
+vpn-landing-take-control = მომართეთ ცალკეული ვებსაიტისთვის VPN-პარამეტრები განსხვავებულად
+vpn-landing-customize-your-vpn = მოირგეთ VPN-დაცვა თითოეულ საიტზე { -brand-name-mozilla-vpn }-გაფართოებით { -brand-name-firefox }-ისთვის (მხოლოდ Windows-ზე).
 vpn-landing-features = შესაძლებლობები
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -44,7 +44,7 @@ vpn-landing-no-logging-tracking-or-sharing = აღრიცხვების, 
 vpn-landing-no-bandwidth-restrictions-or = გამტარუნარიანობის არანაირი შეზღუდვა ან შეკვეცა
 vpn-landing-extra-security-whole-device = დამატებითი უსაფრთხოება: მთლიანი მოწყობილობის დაცვა, მრავალკვანძიანი დამისამართება და სხვა
 vpn-landing-built-transparently = გამჭვირვალედ აგებული ღია წყაროთი
-vpn-landing-easy-firefox-integration = მარტივი { -brand-name-firefox }-ის თავსება { -brand-name-mozilla-vpn }-ის გაფართოებასთან (მხოლოდ Windows-ზე)
+vpn-landing-easy-firefox-integration = გაიოლებული თავსებადობა { -brand-name-firefox }-თან { -brand-name-mozilla-vpn }-გაფართოებით (მხოლოდ Windows-ზე)
 vpn-landing-see-all-features = იხილეთ ყველა შესაძლებლობა
 vpn-landing-fram-a-brand-you-can-trust = სახელი, რომელსაც შეგიძლიათ ენდოთ
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } არამომგებიანი ინტერნეტკომპანიაა, რომელიც ჯანსაღი ინტერნეტისთვის იბრძვის 1998 წლიდან.

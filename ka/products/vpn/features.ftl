@@ -50,8 +50,8 @@ vpn-features-support-for-custom-dns = მორგებული DNS-ის მ
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
 vpn-features-keep-traffic-protected = { -brand-name-mozilla-vpn }-ით შეგიძლიათ უსაფრთხოდ მიმოცვალოთ მონაცემები და სასურველი გზით დაამისამართოთ DNS-მოთხოვნები. <a { $dns }>ვრცლად მორგებული DNS-მხარდაჭერის შესახებ</a>.
 vpn-features-flexible = მოქნილი
-vpn-features-webste-specific-vpn = ვებსაიტისთვის განკუთვნილი VPN-ის პარამეტრები, შეუფერხებლად ჩაშენებული { -brand-name-firefox }-ში
-vpn-features-with-the-mozilla-vpn-extention = { -brand-name-mozilla-vpn } გაფართოებით { -brand-name-firefox }-ისთვის (მხოლოდ Windows-ზე), შეგიძლიათ უკეთ მოირგოთ VPN-ის გამოყენება თითოეული საიტის საფუძველზე. ცალკეული ვებსაიტების გამორიცხვა VPN-დაცვიდან ან სერვერის ადგილმდებარეობის მითითება ცალკეული საიტებისთვის, ეს მოგცემთ მეტად მოქნილ და მორგებულ მომსახურებას.
+vpn-features-webste-specific-vpn = ვებსაიტზე მორგებული VPN-პარამეტრები, პირდაპირ ჩაშენებულად გთავაზობთ { -brand-name-firefox }
+vpn-features-with-the-mozilla-vpn-extention = { -brand-name-mozilla-vpn }-გაფართოება { -brand-name-firefox }-ისთვის (მხოლოდ Windows-ზე) შეგიძლიათ უფრო უკეთ მორგოთ და VPN გამოიყენოთ თითოეულ საიტზე თავისებურად. გამორიცხეთ ცალკეული ვებსაიტი VPN-დაცვიდან ან მიუთითეთ სასურველი მდებარეობა ყოველი მათგანისთვის ცალ-ცალკე, რაც უზრუნველყოფს მეტად მოქნილ და თქვენზე მორგებულ მომსახურებას.
 vpn-features-personalized-server = სერვერის სასურველი მდებარეობის შემოთავაზება
 vpn-features-well-suggest-which-servers = გირჩევთ თქვენთან ახლომდებარე სერვერს, რომელიც უზრუნველყოფს უსწრაფეს და ყველაზე მეტად საიმედო კავშირს ქსელთან.
 vpn-features-personalize-which-apps = სასურველი პროგრამების შერჩევა VPN-ით დასაცავად
