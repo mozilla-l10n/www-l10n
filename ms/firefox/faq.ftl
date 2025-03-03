@@ -18,6 +18,7 @@ what-is-firefox = Apakah { -brand-name-firefox }?
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } ialah satu-satunya pelayar utama yang disokong oleh organisasi bukan berasaskan keuntungan, yang tidak menjual data anda kepada pengiklan dan pada masa yang sama membantu anda melindungi maklumat peribadi. Ketahui lebih lanjut tentang <a href="{ $url }">{ -brand-name-firefox-browsers }</a> dan <a href="{ $url2 }">produk lain.</a>
+the-firefox-browser-the-only = { -brand-name-firefox-browser }, satu-satunya pelayar internet yang didukung oleh organisasi bukan berasaskan keuntungan, membantu melindungi maklumat peribadi anda. Ketahui lebih lanjut tentang <a href="{ $url }">{ -brand-name-firefox-browsers }</a> dan <a href="{ $url2 }">produk lain.</a>
 
 how-do-i = Bagaimanakah cara mendapatkan { -brand-name-firefox-browser }?
 
@@ -33,6 +34,7 @@ you-can-easily = Anda boleh memuat turun pelayar desktop { -brand-name-firefox }
 is-firefox-free = Adakah { -brand-name-firefox } percuma?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = Ya! { -brand-name-firefox-browser } adalah percuma. Benar-benar percuma. Tiada kos tersembunyi atau sebagainya. Anda tidak perlu bayar apa-apa untuk menggunakannya dan kami juga tidak menjual data peribadi anda.
+yep-the-firefox-browser-is-free = Ya! { -brand-name-firefox-browser } adalah percuma. Benar-benar percuma. Tiada kos tersembunyi atau sebagainya. Tidak bayaran dikenakan untuk menggunakannya.
 related-questions-free = Soalan berkaitan: adakah { -brand-name-firefox-browser } percuma, adakah { -brand-name-firefox } melibatkan pembayaran
 
 is-chrome-better = Adakah { -brand-name-chrome } lebih baik daripada { -brand-name-firefox }?
