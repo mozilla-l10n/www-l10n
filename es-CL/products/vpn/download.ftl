@@ -16,6 +16,7 @@ vpn-download-button-copy = Bajar
 vpn-download-for-windows-v2 = VPN para { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (solo 64-bit)
 vpn-download-for-windows-long = Bajar { -brand-name-mozilla-vpn } para { -brand-name-windows }
+vpn-download-for-firefox-extension = Instalar la extensión { -brand-name-firefox }
 vpn-download-for-mac = VPN para { -brand-name-mac-short }
 vpn-download-for-mac-long = Bajar { -brand-name-mozilla-vpn } para { -brand-name-mac-short }
 # Variables:
