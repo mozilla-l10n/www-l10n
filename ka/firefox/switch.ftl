@@ -21,10 +21,10 @@ switch-firefox-makes-switching-fast-email = { -brand-name-firefox } საშუ
 switch-still-not-convinced = მაინც გეეჭვებათ რომ { -brand-name-firefox }-ზე გადმოსვლა მარტივია?
 switch-enjoy-the-web-faster = ისიამოვნეთ ინტერნეტში სწრაფი მოგზაურობით, ყველაფერი მზადაა.
 switch-download-and-switch = ჩამოტვირთვა და გადმოსვლა
-switch-share-to-facebook = Facebook-ით
-switch-share-to-facebook-updated = გააზიარეთ { -brand-name-facebook }-ზე
+switch-share-to-facebook = გასაზიარებლად გამოიყენეთ Facebook
+switch-share-to-facebook-updated = გასაზიარებლად გამოიყენეთ { -brand-name-facebook }
 # Note: Bluesky is a brand name and should not be translated
-switch-share-to-bluesky = გააზიარეთ ბლუსკი
+switch-share-to-bluesky = გასაზიარებლად გამოიყენეთ Bluesky
 switch-hey = ჰეი,
 switch-check-it-out = სცადეთ და თავად დარწმუნდით.
 switch-send-an-email = ელფოსტით
