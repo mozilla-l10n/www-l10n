@@ -18,6 +18,7 @@ what-is-firefox = Apakah { -brand-name-firefox } itu?
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } merupakan satu-satunya peramban utama yang didukung oleh nirlaba yang tidak menjual data pribadi Anda ke pengiklan sambil membantu Anda melindungi informasi pribadi Anda. Pelajari lebih lanjut mengenai <a href="{ $url }">{ -brand-name-firefox-browsers }</a> dan <a href="{ $url2 }">produk lainnya.</a>
+the-firefox-browser-the-only = { -brand-name-firefox-browser }, satu-satunya peramban utama yang didukung oleh nirlaba, membantu Anda melindungi informasi pribadi Anda. Pelajari lebih lanjut mengenai <a href="{ $url }">{ -brand-name-firefox-browsers }</a> dan <a href="{ $url2 }">produk lainnya.</a>
 
 how-do-i = Bagaimana cara mendapatkan { -brand-name-firefox-browser }?
 
@@ -33,6 +34,7 @@ you-can-easily = Anda dapat dengan mudah mengunduh peramban desktop { -brand-nam
 is-firefox-free = Apakah { -brand-name-firefox } gratis?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = Iya! { -brand-name-firefox-browser } gratis. Sebenarnya sangat gratis. Tanpa ada biaya tersembunyi atau apa pun. Anda tidak perlu membayar apa pun untuk menggunakannya, dan kami tidak menjual data pribadi Anda.
+yep-the-firefox-browser-is-free = Iya! { -brand-name-firefox-browser } itu gratis. Sebenarnya sangat gratis. Tanpa ada biaya tersembunyi atau apa pun. Anda tidak perlu membayar apa pun untuk menggunakannya.
 related-questions-free = Pertanyaan terkait: apakah { -brand-name-firefox-browser } gratis, apakah { -brand-name-firefox } dikenakan biaya
 
 is-chrome-better = Apakah { -brand-name-chrome } lebih baik dari { -brand-name-firefox }?
