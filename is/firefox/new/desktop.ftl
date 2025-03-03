@@ -20,10 +20,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Enn nýrri útgáfa { -brand-name-firefox } er fáanleg. <a { $update_url }>Uppfærðu í nýjustu útgáfuna</a>
 firefox-desktop-download-get-the-browser = Fáðu þér vafrann sem verndar það sem er mikilvægt
+firefox-desktop-download-fast-reliable-private = Hraðvirkt, áreiðanlegt og verndar friðhelgi þína - fyrir hugarró á netinu.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Engar loðnar persónuverndarstefnur eða bakdyr fyrir auglýsendur. Bara leifturhraður vafri sem selur þig ekki.
 firefox-desktop-download-download-options = Valkostir við niðurhal og önnur tungumál
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } aðstoð
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Gerðu það sem þú gerir á netinu.<br> { -brand-name-firefox-browser } <strong>verndar</strong> þig.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Gerðu það sem þú gerir á netinu.<br> { -brand-name-firefox-browser } <strong>er ekki</strong> að glápa.
 firefox-desktop-download-how-firefox-compares = Hvernig { -brand-name-firefox } er í samanburði við aðra vafra
@@ -127,6 +130,9 @@ firefox-desktop-download-from-security-to = Frá öryggismálum til frétta til 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } var búið til af <a { $attrs }>{ -brand-name-mozilla }</a> sem hraðvirkari, persónulegri valkostur við vafra eins og { -brand-name-ie } og núna { -brand-name-chrome }. Í dag halda verkefnisdrifna fyrirtækið okkar og sjálfboðaliðasamfélagið áfram að setja friðhelgi þína ofar öllu öðru.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Eftir því sem internetið stækkar og breytist heldur { -brand-name-firefox } áfram að einbeita sér að rétti þínum til friðhelgi einkalífs – það hefur alltaf verið okkar markmið. Frekari upplýsingar um meðhöndlun okkar á gögnum má sjá í <a { $attrs }>persónuverndaryfirlýsingu</a> okkar.
 # Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/

@@ -51,6 +51,7 @@ vpn-features-support-for-custom-dns = Özel DNS desteği
 vpn-features-keep-traffic-protected = { -brand-name-mozilla-vpn } ile trafiğinizi güvende tutarken DNS sorgularınızı istediğiniz yere yönlendirebilirsiniz. <a { $dns }>Özel DNS desteği hakkında daha fazla bilgi alın</a>.
 vpn-features-flexible = Esnek
 vpn-features-webste-specific-vpn = { -brand-name-firefox }’a entegre bir uzantı sayesinde sitelere özel VPN ayarları
+vpn-features-with-the-mozilla-vpn-extention = { -brand-name-firefox } için { -brand-name-mozilla-vpn } uzantısıyla (yalnızca Windows uyumlu) VPN deneyiminizi her site için ayrı ayrı ayarlayabilirsiniz. Daha esnek ve kişiselleştirilmiş bir deneyim için istediğiniz siteleri VPN korumasından hariç tutabilir, istediğiniz siteler için tercih ettiğiniz sunucu konumlarını ayarlayabilirsiniz.
 vpn-features-personalized-server = Kişiselleştirilmiş sunucu konumu önerileri
 vpn-features-well-suggest-which-servers = Yakınınızdaki hangi sunucuların en hızlı, en güvenilir internet bağlantısını sağlayacağını önereceğiz.
 vpn-features-personalize-which-apps = Hangi uygulamaların VPN ile korunacağını ayarlayın

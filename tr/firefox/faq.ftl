@@ -17,6 +17,7 @@ what-is-firefox = { -brand-name-firefox } nedir?
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } kişisel bilgilerinizi korumanıza yardımcı olurken, kişisel verilerinizi reklamverenlere satmayan, kâr amacı gütmeyen bir kuruluş tarafından desteklenen tek büyük tarayıcıdır. <a href="{ $url }">{ -brand-name-firefox-browsers }</a> ve <a href="{ $url2 }"> diğer ürünlerimiz</a> hakkında bilgi alın.
+the-firefox-browser-the-only = Kâr amacı gütmeyen bir kuruluş tarafından geliştirilen tek büyük tarayıcı olan { -brand-name-firefox-browser }, kişisel bilgilerinizi korumanıza yardımcı olur. <a href="{ $url }">{ -brand-name-firefox-browsers }</a> ve <a href="{ $url2 }">diğer ürünler</a> hakkında bilgi alın.
 how-do-i = { -brand-name-firefox-browser }nı nasıl indirebilirim?
 
 # Variables:
@@ -30,6 +31,7 @@ you-can-easily = { -brand-name-firefox } masaüstü tarayıcısını <a href="{ 
 is-firefox-free = { -brand-name-firefox } ücretsiz mi?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = Evet! { -brand-name-firefox-browser } ücretsiz. Hem de tamamen ücretsiz. Gizli maliyet falan yok. Kullanmak için hiçbir ödeme yapmıyorsunuz ve kişisel verilerinizi satmıyoruz.
+yep-the-firefox-browser-is-free = Evet! { -brand-name-firefox-browser } ücretsiz. Hem de tamamen ücretsiz. Gizli maliyet falan yok. Kullanmak için hiçbir ödeme yapmıyorsunuz.
 related-questions-free = İlgili sorular: { -brand-name-firefox-browser } bedava mı, { -brand-name-firefox } ücretli mi
 is-chrome-better = { -brand-name-chrome }, { -brand-name-firefox }’tan daha mı iyi?
 no-we-dont = Hayır, bizce { -brand-name-chrome } { -brand-name-firefox }’tan daha iyi değil. Neden mi? İnsanlar hangi tarayıcının daha iyi olduğunu sorduklarında, aslında hangi tarayıcının daha hızlı ve daha güvenli olduğunu soruyorlar. { -brand-name-firefox }, gizliliğinize saygı gösteren en hızlı tarayıcı. Öyle olmaya devam etmesi için de her ay güncelleniyor.

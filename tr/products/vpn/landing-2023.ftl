@@ -16,10 +16,13 @@ vpn-landing-whats-a-vpn = VPN nedir?
 vpn-landing-a-virtual-private-network-protects = Sanal özel ağ (VPN), internet bağlantınızı korur, konumunuzu ve internette yaptıklarınızı tüm cihazlarınızda daha gizli tutar.
 vpn-landing-see-all-the-ways-mozilla-vpn = { -brand-name-mozilla-vpn }’in sizi nasıl koruduğunu görün.
 vpn-landing-how-a-vpn-helps-you = VPN size nasıl yardımcı olur?
+vpn-landing-how-a-vpn-helps-you-v2 = { -brand-name-mozilla-vpn } size nasıl yardımcı olur?
 vpn-landing-keeps-your-data-safe = Verilerinizi halka açık Wi-Fi ağlarında güvende tutar
 vpn-landing-log-in-to-your-bank-or = Havalimanından, kafeden veya istediğiniz yerden bankanıza veya hastane kayıtlarınıza güvenle erişin.
 vpn-landing-blocks-advertisers-from = Reklamverenlerin sizi hedeflemesini engeller
 vpn-landing-hide-your-activity-from = Takip kodlarından ve kötü amaçlı yazılımlardan kurtulun, izlenmeden alışveriş yapın.
+vpn-landing-take-control = Siteye özel VPN ayarlarıyla kontrolü ele alın
+vpn-landing-customize-your-vpn = { -brand-name-firefox } için { -brand-name-mozilla-vpn } uzantısıyla VPN korumalarınızı web sitenize göre özelleştirin (yalnızca Windows).
 vpn-landing-features = Özellikler
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -41,6 +44,7 @@ vpn-landing-no-logging-tracking-or-sharing = Ağ verileri kaydedilmez, izlenmez 
 vpn-landing-no-bandwidth-restrictions-or = Bant genişliği kısıtlaması ve hız sınırı yok
 vpn-landing-extra-security-whole-device = Ekstra güvenlik: komple cihaz koruması, çok sunuculu yönlendirme ve daha fazlası
 vpn-landing-built-transparently = Açık kaynak olarak şeffaf bir şekilde geliştirildi
+vpn-landing-easy-firefox-integration = { -brand-name-mozilla-vpn } uzantısıyla kolay { -brand-name-firefox } entegrasyonu (yalnızca Windows)
 vpn-landing-see-all-features = Tüm özelliklere bakın
 vpn-landing-fram-a-brand-you-can-trust = Güvenebileceğiniz bir markadan
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla }, 1998’den beri sağlıklı bir web için mücadele eden, kâr amacı gütmeyen bir internet şirketidir.
