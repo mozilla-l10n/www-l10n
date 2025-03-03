@@ -10,6 +10,7 @@ privacy-faq-v2-title = { -brand-name-mozilla } 数据隐私常见问题解答
 # HTML page description
 privacy-faq-v2-desc = { -brand-name-mozilla } 尊重并保护您的个人信息。
 privacy-faq-v2-heading = 我们为民不为利。
+privacy-faq-v2-intro = 人们虽然每天都在使用各种软件和服务，但也许很难弄懂它们真正的运作方式。技术驱动着我们的生活，而其本身复杂难懂，人们无暇深入研究。{ -brand-name-firefox } 也是如此，我们发现人们对浏览器内部的运作有许多不同看法。
 privacy-faq-v2-at-mozilla = { -brand-name-mozilla } 尊重并保护您的个人信息。
 # Variables:
 #   $attrs (url) - link to https://www.mozilla.org/privacy/principles/
