@@ -10,5 +10,7 @@ features-translate-translate-a-webpage-with-firefox = ແປໜ້າເວັ�
 features-translate-translate-the-web = ແປເວັບ
 features-translate-when-you-translate-a-webpage = ເມື່ອທ່ານແປໜ້າເວັບ, ມັນຈະເປັນສ່ວນຕົວ
 features-translate-what-languages-are-currently = ຕອນນີ້ຮອງຮັບພາສາໃດແດ່?
+# Obsolete string (expires: 2025-02-17)
+features-translate-the-languages-below-are-what = ພາສາລຸ່ມນີ້ໄດ້ຮັບການຮອງຮັບໂດຍຄຸນສົມບັດການແປຂອງ { -brand-name-firefox }:
 features-translate-and-more-languages-are-in = ແລະ ຫຼາຍພາສາຢູ່ໃນການພັດທະນາ!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } ເວົ້າພາສາຂອງທ່ານ

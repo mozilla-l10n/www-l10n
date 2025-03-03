@@ -151,6 +151,8 @@ firefox-desktop-download-now-else = ຕອນນີ້ສຳເລັດ <strong
 firefox-desktop-download-now-windows = ດຽວນີ້ <strong>ແລ່ນ</strong> ຕົວຕິດຕັ້ງທີ່ຫາກໍດາວໂຫຼດມາ.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = ດຽວນີ້ <strong>ເປີດ</strong> ໄຟລ໌ທີ່ຫາກໍດາວໂຫຼດມາ.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = ເລືອກຕົວເລືອກ <strong>ດາວໂຫລດ</strong> ຂ້າງລຸ່ມນີ້
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = ມີບັນຫາບໍ? <a { $attrs }>ຂໍຄວາມຊ່ວຍເຫຼືອໃນການຕິດຕັ້ງຂອງທ່ານ</a>.
