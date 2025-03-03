@@ -6,15 +6,8 @@
 
 import argparse
 import os
-import sys
+from moz.l10n.paths import L10nConfigPaths
 from pathlib import Path
-
-try:
-    from compare_locales import paths
-except ImportError as e:
-    print("FATAL: make sure that dependencies are installed")
-    print(e)
-    sys.exit(1)
 
 
 class FilesExtraction:
@@ -105,56 +98,72 @@ class FilesExtraction:
         # Extract community files
         basedir = os.path.dirname(self.repo_path)
         toml_file = os.path.join(basedir, "l10n-pontoon.toml")
-        project_config = paths.TOMLParser().parse(toml_file, env={"l10n_base": ""})
+        project_config_paths = L10nConfigPaths(toml_file)
 
         # Extract the list of files for the reference locale
         print("\n----\nCommunity Configuration")
         print("Extracting files for reference locale...")
-        files = paths.ProjectFiles(None, [project_config])
-        for l10n_file, reference_file, _, _ in files:
-            self.ref_files.append(os.path.relpath(reference_file, basedir))
+        self.ref_files = [
+            os.path.relpath(ref_path.format(locale=None), basedir)
+            for (ref_path, tgt_path), locales in project_config_paths.all().items()
+        ]
+
         # Extract other locales
-        if not project_config.all_locales:
+        locales = list(project_config_paths.all_locales)
+        locales.sort()
+        if not locales:
             print("No locales defined in the project configuration...")
         else:
-            print(
-                f"Extracting files for other locales ({len(project_config.all_locales)})..."
-            )
-            for locale in project_config.all_locales:
-                files = paths.ProjectFiles(locale, [project_config])
-                for l10n_file, reference_file, _, _ in files:
-                    self.l10n_files.append(os.path.relpath(l10n_file, basedir))
+            print(f"Extracting files for other locales ({len(locales)})...")
+            for locale in locales:
+                self.l10n_files.extend(
+                    [
+                        os.path.relpath(tgt_path.format(locale=locale), basedir)
+                        for (
+                            ref_path,
+                            tgt_path,
+                        ), locales in project_config_paths.all().items()
+                        if locale in locales
+                    ]
+                )
 
         # Extract vendor files
         basedir = os.path.dirname(self.repo_path)
         toml_file = os.path.join(basedir, "l10n-vendor.toml")
-        project_config = paths.TOMLParser().parse(toml_file, env={"l10n_base": ""})
+        project_config_paths = L10nConfigPaths(toml_file)
 
         # Extract the list of files for the reference locale
         print("\n----\nVendor Configuration")
         print("Extracting files for reference locale...")
-        files = paths.ProjectFiles(None, [project_config])
-
         tmp_ref_files = []
-        for l10n_file, reference_file, _, _ in files:
-            tmp_ref_files.append(os.path.relpath(reference_file, basedir))
+        tmp_ref_files = [
+            os.path.relpath(ref_path.format(locale=None), basedir)
+            for (ref_path, tgt_path), locales in project_config_paths.all().items()
+        ]
         # Add to existing array of files, remove duplicates and sort
         self.ref_files.extend(tmp_ref_files)
         self.ref_files = list(set(self.ref_files))
         self.ref_files.sort()
 
         # Extract other locales
-        if not project_config.all_locales:
+        locales = list(project_config_paths.all_locales)
+        locales.sort()
+        if not locales:
             print("No locales defined in the project configuration.")
         else:
-            print(
-                f"Extracting files for other locales ({len(project_config.all_locales)})."
-            )
+            print(f"Extracting files for other locales ({len(locales)}).")
             tmp_l10n_files = []
-            for locale in project_config.all_locales:
-                files = paths.ProjectFiles(locale, [project_config])
-                for l10n_file, reference_file, _, _ in files:
-                    tmp_l10n_files.append(os.path.relpath(l10n_file, basedir))
+            for locale in locales:
+                tmp_l10n_files.extend(
+                    [
+                        os.path.relpath(tgt_path.format(locale=locale), basedir)
+                        for (
+                            ref_path,
+                            tgt_path,
+                        ), locales in project_config_paths.all().items()
+                        if locale in locales
+                    ]
+                )
             # Add to existing array of files, remove duplicates and sort
             self.l10n_files.extend(tmp_l10n_files)
             self.l10n_files = list(set(self.l10n_files))
