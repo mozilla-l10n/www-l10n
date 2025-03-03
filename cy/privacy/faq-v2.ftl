@@ -9,7 +9,7 @@
 privacy-faq-v2-title = Cwestiynau Cyffredin Polisi Preifatrwydd { -brand-name-mozilla }
 # HTML page description
 privacy-faq-v2-desc = Ym { -brand-name-mozilla } rydym yn parchu ac yn diogelu eich manylion personol.
-privacy-faq-v2-heading = Rydym o Blaid Bobl Nid Elw.
+privacy-faq-v2-heading = Rydym o Blaid Pobl Nid Elw.
 privacy-faq-v2-intro = Mae'n gallu bod yn anodd i bobl wybod beth i'w ddisgwyl o unrhyw feddalwedd neu wasanaeth maen nhe’n ei ddefnyddio heddiw. Mae'r dechnoleg sy'n gyrru ein bywydau'n gymhleth a does gan bobl ddim yr amser i fynd yn ddwfn i'r manylion. Mae hyn dal yn wir am { -brand-name-firefox }, mae gan bobl lot o syniadau gwahanol am beth sy'n digwydd o dan fonet eu porwr.
 privacy-faq-v2-at-mozilla = Ym { -brand-name-mozilla }. rydym yn parchu ac yn diogelu eich manylion personol:
 # Variables:

@@ -17,7 +17,7 @@ what-is-firefox = Beth yw { -brand-name-firefox }?
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = Y porwr { -brand-name-firefox-browser } yw'r unig borwr mawr sy'n cael ei gefnogi gan gorff nid-er-elw sydd ddim yn gwerthu eich data personol i hysbysebwyr tra'n eich helpu i diogelu eich manylion personol. Rhagor am y <a href="{ $url }"> { -brand-name-firefox-browsers }</a> a <a href="{ $url2 }">chynnyrch eraill.</a>
-the-firefox-browser-the-only = Mae { -brand-name-firefox-browser }, yr unig borwr mawr a gefnogir gan borwr dielw, yn eich helpu i ddiogelu eich gwybodaeth bersonol. Dysgwch fwy am y <a href="{ $url }">{ -brand-name-firefox-browsers }</a> a <a href="{ $url2 }">cynhyrchion eraill.</a>
+the-firefox-browser-the-only = Mae { -brand-name-firefox-browser }, yr unig borwr mawr sy'n cael ei gefnogi gan gorff dim-er-elw, yn eich helpu i ddiogelu eich manylion bersonol. Dysgwch fwy am y <a href="{ $url }">{ -brand-name-firefox-browsers }</a> a <a href="{ $url2 }">cynnyrch eraill.</a>
 how-do-i = Sut mae cael { -brand-name-firefox-browser }?
 
 # Variables:
@@ -31,7 +31,7 @@ you-can-easily = Gallwch chi lwytho'r porwr bwrdd gwaith { -brand-name-firefox }
 is-firefox-free = A yw { -brand-name-firefox } ar gael yn rhad ac am ddim?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = Ydy! Mae { -brand-name-firefox-browser } ar gael yn rhad ac am ddim. Yn gwbwl rhad ac am ddim mewn gwirionedd. Dim costau cudd na dim. Fyddwch chi ddim yn talu i'w ddefnyddio, a fyddwn ni ddim yn gwerthu eich data personol.
-yep-the-firefox-browser-is-free = Ie! Mae { -brand-name-firefox-browser } am ddim. Super rhad ac am ddim, mewn gwirionedd. Dim costau cudd nac unrhyw beth. Nid ydych yn talu unrhyw beth i'w ddefnyddio.
+yep-the-firefox-browser-is-free = Ydy! Mae { -brand-name-firefox-browser } am ddim. Yn rhad iawn ac am ddim, mewn gwirionedd. Dim costau cudd nac unrhyw beth. Dydych chi ddim yn talu unrhyw beth i'w ddefnyddio.
 related-questions-free = Cwestiynau cysylltiedig: a yw { -brand-name-firefox-browser } yn rhad ac am ddim, oes rhaid i fi dalu am { -brand-name-firefox }
 is-chrome-better = A yw { -brand-name-chrome } yn well na { -brand-name-firefox }?
 no-we-dont = Na, dydyn ni ddim yn credu bod { -brand-name-chrome } yn well na { -brand-name-firefox }, a dyma pam: pan fydd pobl yn gofyn pa borwr sy'n well, maen nhw wir yn gofyn pa borwr sy'n gyflymach a mwy diogel. Mae { -brand-name-firefox } yn cael ei ddiweddaru'n fisol i sicrhau bod gennych y porwr cyflymaf sy'n parchu eich preifatrwydd yn awtomatig.

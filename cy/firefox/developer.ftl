@@ -87,9 +87,9 @@ firefox-developer-resources-for-developers = Adnoddau i Ddatblygwyr, gan Ddatbly
 firefox-developer-mdn-playground = Maes chwarae
 firefox-developer-mdn-write-test-and-share = Ysgrifennwch, profwch a rhannwch eich cod. Eich maes chwarae i ddysgu a rhannu eich gwaith anhygoel gyda'r byd.
 firefox-developer-mdn-blog = Blog { -brand-name-mdn }
-firefox-developer-mdn-unlock-the-world = Datgloi byd datblygu gwe gyda'r Blog { -brand-name-mdn } — eich canolbwynt ar gyfer mewnwelediadau arbenigol, safonau gwe diweddaraf, ac awgrymiadau codio.
+firefox-developer-mdn-unlock-the-world = Datglowch fyd datblygu gwe gyda Blog { -brand-name-mdn } — eich canolbwynt ar gyfer mewnwelediadau arbenigol, safonau gwe diweddaraf, ac awgrymiadau codio.
 firefox-developer-mdn-updates = Diweddariadau
-firefox-developer-mdn-the-web-doesnt-have = Nid oes gan y we log newid, ond gall { -brand-name-mdn } helpu. Gallwch chi bersonoli a hidlo newidiadau cydnawsedd yn seiliedig ar borwyr neu'r categori technoleg y mae gennych ddiddordeb ynddo, boed yn JavaScript, CSS, ac ati.
+firefox-developer-mdn-the-web-doesnt-have = Nid oes gan y we gofnod newid, ond gall { -brand-name-mdn } eich helpu. Gallwch bersonoli a hidlo newidiadau cydnawsedd yn seiliedig ar borwyr neu'r categori technoleg y mae gennych ddiddordeb ynddo, p'un ai'n JavaScript, CSS, ac ati.
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Cyfeiriadau { -brand-name-mdn }
 # Obsolete string (expires 18-04-2025)

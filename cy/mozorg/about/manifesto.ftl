@@ -51,7 +51,7 @@ manifesto-we-are-committed-to-thinking = Rydym yn ymroddedig i ryngrwyd sy'n dyr
 manifesto-we-are-committed-to-diverse = Rydym yn ymroddedig i rhyngrwyd sy'n hyrwyddo cydweithio rhwng cymunedau amrywiol yn gweithio gyda'i gilydd er lles cyffredinol.
 manifesto-show-your-support = Dangos eich Cefnogaeth
 manifesto-an-internet-with-these = Nid yw rhyngrwyd sydd â'r nodweddion hyn yn dod yn fyw ar ben ei hun. Rhaid i unigolion a chyrff blannu'r deisyfiadau hyn i'w technoleg rhyngrwyd ac i'r profiad dynol o'r rhyngrwyd. Mae'r { -brand-name-mozilla } Manifesto a'r Addendum yn cynrychioli ymroddiad { -brand-name-mozilla } i hyrwyddo'r dyfeisiadau hyn. Rydym yn anelu i weithio gyda phobl a chyrff ym mhob man sy'n rhannu'r amcanion hyn i wneud y rhyngrwyd yn le gwell byth ar gyfer pawb.
-manifesto-i-support-the-vision-of-v2 = Rwy'n cefnogi'r weledigaeth o rhyngrwyd gwell, iachach gan { -brand-name-mozilla }, a wnewch chi ymuno â mi?
+manifesto-i-support-the-vision-of-v2 = Rwy'n cefnogi gweledigaeth o rhyngrwyd gwell, iachach { -brand-name-mozilla }, a wnewch chi ymuno â mi?
 # obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Rwy'n cefnogi'r weledigaeth o rhyngrwyd gwell a iachach gan @mozilla, wnewch chi ymuno â mi?
 manifesto-share-on-bluesky = Rhannu ar Bluesky
