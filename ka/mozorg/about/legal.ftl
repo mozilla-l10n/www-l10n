@@ -19,7 +19,7 @@ legal-privacy-trademarks = პირადულობა და სავაჭ
 legal-privacy-notices-and-policy = პირადულობის უწყებები და დებულება
 legal-downloadable-software-notices = ჩამოსატვირთ პროგრამებზე უწყებები
 # heading for the table of contents, a shorter heading is better
-legal-firefox-contents = შიგთავსი
+legal-firefox-contents = მასალები
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: თქვენი უფლებების შესახებ
 legal-thunderbird = { -brand-name-thunderbird }
