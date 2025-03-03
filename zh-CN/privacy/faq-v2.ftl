@@ -36,7 +36,7 @@ privacy-faq-v2-softballs = 那好，说重点。你们收集哪些数据？
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
-privacy-faq-v2-mozilla-does-collect = 默认情况下，{ -brand-name-mozilla } 确实会从 { -brand-name-firefox } 收集一系列有限的数据，这有助于我们了解人们如何使用浏览器。您可以阅读我们的<a href="{ $privacy }">隐私声明</a>和<a { $data }>数据收集的完整文档</a>来详细了解。我们已公开这些文档，人人都可验证我们所言不虚、向我们提出改进意见，并由此信任我们没有任何隐瞒。
+privacy-faq-v2-mozilla-does-collect = 默认情况下，{ -brand-name-mozilla } 确实会从 { -brand-name-firefox } 收集一系列有限的数据，这有助于我们了解人们如何使用浏览器。您可以阅读我们的<a { $privacy }>隐私声明</a>和<a { $data }>数据收集的完整文档</a>来详细了解。我们已公开这些文档，人人都可验证我们所言不虚、向我们提出改进意见，并由此信任我们没有任何隐瞒。
 privacy-faq-v2-do-you-collect = 你们是不是在 { -brand-name-firefox } 的预发布版本中收集更多数据？
 privacy-faq-v2-sort-of = 会多一些。默认情况下，除了上述数据，我们还可获知 { -brand-name-firefox } 预发布版本中的崩溃和错误报告。
 # Variables:
