@@ -10,7 +10,7 @@ privacy-faq-v2-title = Cwestiynau Cyffredin Polisi Preifatrwydd { -brand-name-mo
 # HTML page description
 privacy-faq-v2-desc = Ym { -brand-name-mozilla } rydym yn parchu ac yn diogelu eich manylion personol.
 privacy-faq-v2-heading = Rydym o Blaid Pobl Nid Elw.
-privacy-faq-v2-intro = Mae'n gallu bod yn anodd i bobl wybod beth i'w ddisgwyl o unrhyw feddalwedd neu wasanaeth maen nhe’n ei ddefnyddio heddiw. Mae'r dechnoleg sy'n gyrru ein bywydau'n gymhleth a does gan bobl ddim yr amser i fynd yn ddwfn i'r manylion. Mae hyn dal yn wir am { -brand-name-firefox }, mae gan bobl lot o syniadau gwahanol am beth sy'n digwydd o dan fonet eu porwr.
+privacy-faq-v2-intro = Mae'n gallu bod yn anodd i bobl wybod beth i'w ddisgwyl o unrhyw feddalwedd neu wasanaeth maen nhw’n ei ddefnyddio heddiw. Mae'r dechnoleg sy'n gyrru ein bywydau'n gymhleth a does gan bobl ddim yr amser i fynd yn ddwfn i'r manylion. Mae hyn dal yn wir am { -brand-name-firefox }, mae gan bobl lot o syniadau gwahanol am beth sy'n digwydd o dan fonet eu porwr.
 privacy-faq-v2-at-mozilla = Ym { -brand-name-mozilla }. rydym yn parchu ac yn diogelu eich manylion personol:
 # Variables:
 #   $attrs (url) - link to https://www.mozilla.org/privacy/principles/
@@ -37,17 +37,17 @@ privacy-faq-v2-softballs = Iawn, dyna'r cwestiynau hawdd. Pa ddata ydych chi'n e
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 privacy-faq-v2-mozilla-does-collect = Mae { -brand-name-mozilla } yn casglu set gyfyngedig o ddata ragosodedig o { -brand-name-firefox } sy'n ein helpu i ddeall sut mae pobl yn defnyddio'r porwr. Gallwch ddarllen mwy am hynny yn ein <a { $privacy }>hysbysiad preifatrwydd</a> a darllen y <a { $data }>dogfennaeth lawn ar gyfer y casgliad data hwnnw</a>. Rydym hefyd yn gwneud ein dogfennaeth yn gyhoeddus fel y gall unrhyw un wirio’r hyn a ddywedwn sy’n wir, dweud wrthym a oes angen i ni wella, a bod yn hyderus nad ydym yn cuddio unrhyw beth.
-privacy-faq-v2-do-you-collect = Ydych chi'n casglu mwy a ddata yn y fersiynau cyn ryddhau o { -brand-name-firefox }?
+privacy-faq-v2-do-you-collect = Ydych chi'n casglu mwy a ddata yn y fersiynau cyn ryddhau o { -brand-name-firefox }?Ydych chi'n casglu mwy o ddata yn y fersiynau cyn rhyddhau o { -brand-name-firefox }?
 privacy-faq-v2-sort-of = O fath. Yn ogystal â'r data sy'n cael ei ddisgrifio uchod, rydym yn derbyn adroddiadau chwalu a gwall yn ragosodedig gan fersiynau cyn rhyddhau o { -brand-name-firefox }.
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-v2-we-may-also = Mae'n bosibl y byddwn hefyd yn casglu data ychwanegol yn y fersiynau cynryddhau ar gyfer un o'n <a { $attrs }>astudiaethau</a>. Er enghraifft, mae rhai astudiaethau yn gofyn am yr hyn a alwn yn “ddata pori”, a all gynnwys URLs a gwybodaeth arall am wefannau penodol. Mae hyn yn ein helpu i ateb cwestiynau penodol i wella { -brand-name-firefox }, megis, sut i integreiddio gwefannau poblogaidd yn well mewn lleoliadau penodol.
-privacy-faq-v2-mozilla-pre-release = Mae fersiynau cynryddhau { -brand-name-firefox } { -brand-name-mozilla } yn blatfformau datblygu, yn cael eu diweddaru'n aml gyda nodweddion arbrofol. Rydym yn casglu mwy o ddata yn y cyn rhyddhau nag ar ôl ryddhau er mwyn deall sut mae'r nodweddion arbrofol hyn yn gweithio. Gallwch hepgor y casglu data hwn yn y dewisiadau.
+privacy-faq-v2-mozilla-pre-release = Mae fersiynau cyn rhyddhau { -brand-name-firefox } { -brand-name-mozilla } yn blatfformau datblygu, yn cael eu diweddaru'n aml gyda nodweddion arbrofol. Rydym yn casglu mwy o ddata yn y cyn rhyddhau nag ar ôl ryddhau er mwyn deall sut mae'r nodweddion arbrofol hyn yn gweithio. Gallwch hepgor y casglu data hwn yn y dewisiadau.
 privacy-faq-v2-but-why-do-you = Pam ydych chi'n casglu unrhyw ddata o gwbl?
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
 privacy-faq-v2-if-we-dont-know = Os nad ydym yn gwybod sut mae'r porwr yn perfformio neu pa nodweddion y mae pobl yn eu defnyddio, allwn ni ddim ei wella a darparu'r cynnyrch gwych rydych chi ei eisiau. Rydym wedi buddsoddi mewn adeiladu offer casglu a dadansoddi data sy'n ein galluogi i wneud penderfyniadau call am ein cynnyrch wrth barchu preifatrwydd pobl. Gallwch ddarllen mwy am rai o'r technolegau diogelu preifatrwydd a ddefnyddiwn, megis <a { $attrs }>OHTTP</a>.
-privacy-faq-v2-data-collection-bugs-me = Mae casglu data'n dal i fy mhoeni i. Ga i ei ddiffodd?
+privacy-faq-v2-data-collection-bugs-me = Mae casglu data'n dal yn fy mhoeni i. Ga i ei ddiffodd?
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 #   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
@@ -59,7 +59,7 @@ privacy-faq-v2-we-are-big-believers = Rydym yn gredwyr mawr mewn lleihau data a 
 privacy-faq-v2-you-dont-need-an-account = Nid oes angen cyfrif arnoch i ddefnyddio { -brand-name-firefox }. Mae angen <a { $attrs }>Cyfrifon</a> i gydweddu data ar draws dyfeisiau, ond dim ond am gyfeiriad e-bost a'ch oedran y byddwn yn gofyn i chi (dim ond i wneud yn siŵr nad ydych chi'n blentyn).
 privacy-faq-v2-you-use-digital = Rydych yn defnyddio hysbysebu digidol am rhan o'ch cymysgedd o farchnata. Ydych chi'n prynu data pobl er mwyn targedu'n well eich hysbysebion ar-lein?
 privacy-faq-v2-no-we-do-not-buy = Na, tydyn ni ddim yn prynu data pobl ar gyfer targedu hysbysebion.
-privacy-faq-v2-we-do-not-ask = Rydyn yn gofyn i'n partneriaid hysbysebu i ddefnyddio data parti cyntaf yn unig y mae gwefannau a chyhoeddwyr yn gwybod am yr holl ddefnyddwyr, fel y porwr rydych yn ei ddefnyddio a'r ddyfais rydych arni.
+privacy-faq-v2-we-do-not-ask = Rydyn yn gofyn i'n partneriaid hysbysebu i ddefnyddio data parti cyntaf yn unig y mae gwefannau a chyhoeddwyr yn gwybod am bob defnyddwyr, fel y porwr rydych yn ei ddefnyddio a'r ddyfais rydych arni.
 privacy-faq-v2-well-it-seems = Wel, mae'n ymddangos eich bod yn fy nghefnogi gyda'r pethau preifatrwydd yma.
 privacy-faq-v2-yes-we-do = Ydy, wir.
 privacy-faq-v2-find-out-more = Canfod rhagor am sut mae { -brand-name-mozilla }'n diogelu'r rhyngrwyd.

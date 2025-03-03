@@ -22,7 +22,7 @@ vpn-landing-log-in-to-your-bank-or = Mewngofnodwch i'ch banc neu swyddfa'r meddy
 vpn-landing-blocks-advertisers-from = Yn rhwystro hysbysebwyr rhag eich targedu
 vpn-landing-hide-your-activity-from = Cuddiwch eich gweithgaredd rhag tracwyr a meddalwedd faleisus fel y gallwch chi siopa heb gael eich gwylio.
 vpn-landing-take-control = Cymerwch reolaeth gyda gosodiadau VPN gwefan-benodol
-vpn-landing-customize-your-vpn = Addaswch eich amddiffyniadau VPN fesul gwefan gyda'r Estyniad { -brand-name-mozilla-vpn } ar gyfer { -brand-name-firefox } (Windows yn unig).
+vpn-landing-customize-your-vpn = Cyfaddaswch eich diogelwch VPN fesul gwefan gyda'r Estyniad { -brand-name-mozilla-vpn } ar gyfer { -brand-name-firefox } (Windows yn unig).
 vpn-landing-features = Nodweddion
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
