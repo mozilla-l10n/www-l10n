@@ -26,7 +26,7 @@ privacy-faq-v2-following-questions = Pertanyaan dan jawaban berikut akan membant
 ## FAQ
 
 privacy-faq-v2-i-use-firefox = Saya menggunakan { -brand-name-firefox } untuk hampir semua hal di web. Kalian di { -brand-name-mozilla } pasti tahu banyak mengenai saya, bukan?
-privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } tidak mengetahui sebanyak yang Anda kira mengenai bagaimana orang menjelajahi web. { -brand-name-mozilla }, peramban web yang bekerja di perangkat atau komputer Anda, merupakan gerbang Anda ke internet. Peramban Anda akan mengelola banyak informasi mengenai situs web yang Anda kunjungi, tetapi informasi tersebut tetap berada di perangkat Anda.
+privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } tidak mengetahui sebanyak yang Anda kira mengenai bagaimana orang menjelajahi web. { -brand-name-firefox }, peramban web yang bekerja di perangkat atau komputer Anda, merupakan gerbang Anda ke internet. Peramban Anda akan mengelola banyak informasi mengenai situs web yang Anda kunjungi, tetapi informasi tersebut tetap berada di perangkat Anda.
 privacy-faq-v2-it-seems-like = Sepertinya setiap perusahaan di web membeli dan menjual data saya. Anda mungkin juga sama.
 
 # Variables:
