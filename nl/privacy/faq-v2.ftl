@@ -31,7 +31,7 @@ privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } verkoopt geen geg
 privacy-faq-v2-wait-so-how = Wacht, hoe verdienen jullie dan geld?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org
-privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } is geen gemiddelde organisatie. { -brand-name-mozilla } is in 1998 opgericht als een door de gemeenschap onderhouden opensourceproject en een door een missie gedreven organisatie die naar een gezonder internet toewerkt. De meerderheid van de inkomsten van de { -brand-name-mozilla-corporation } is afkomstig van royalty’s die via partnerverbanden met zoekmachines in de { -brand-name-firefox }-browser en distributieovereenkomsten over de hele wereld worden verkregen. Meer informatie over hoe we geld verdienen kunt u vinden in ons <a { $attrs }">financieel jaarverslag</a>.
+privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } is geen gemiddelde organisatie. { -brand-name-mozilla } is in 1998 opgericht als een door de gemeenschap onderhouden opensourceproject en een door een missie gedreven organisatie die naar een gezonder internet toewerkt. De meerderheid van de inkomsten van de { -brand-name-mozilla-corporation } is afkomstig van royalty’s die via partnerverbanden met zoekmachines in de { -brand-name-firefox }-browser en distributieovereenkomsten over de hele wereld worden verkregen. Meer informatie over hoe we geld verdienen kunt u vinden in ons <a { $attrs }>financieel jaarverslag</a>.
 privacy-faq-v2-softballs = Goed, de eerste vragen waren gemakkelijk. Welke gegevens verzamelen jullie?
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
