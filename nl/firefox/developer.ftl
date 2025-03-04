@@ -84,6 +84,12 @@ firefox-developer-view-the-release = Bekijk de <a { $attrs }>uitgaveopmerkingen<
 firefox-developer-developer-tools-user = Ontwikkelaarshulpmiddelen-gebruikersdocumenten
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Hulpbronnen voor ontwikkelaars, door ontwikkelaars
+firefox-developer-mdn-playground = Playground
+firefox-developer-mdn-write-test-and-share = Schrijf, test en deel uw code. Uw speeltuin om te leren en uw geweldige werk met de wereld te delen.
+firefox-developer-mdn-blog = { -brand-name-mdn }-blog
+firefox-developer-mdn-unlock-the-world = Ontgrendel de wereld van webontwikkeling met de { -brand-name-mdn }-blog – uw favoriete plek voor inzichten van experts, de nieuwste webstandaarden en codetips.
+firefox-developer-mdn-updates = Updates
+firefox-developer-mdn-the-web-doesnt-have = Het web heeft geen wijzigingsoverzicht, maar { -brand-name-mdn } kan helpen. U kunt compatibiliteitswijzigingen personaliseren en filteren op basis van browsers of de technische categorie waarin u bent geïnteresseerd, of dat nu JavaScript, CSS, enz. is.
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn }-referenties
 # Obsolete string (expires 18-04-2025)
