@@ -39,3 +39,27 @@ privacy-faq-v2-softballs = Goed, de eerste vragen waren gemakkelijk. Welke gegev
 privacy-faq-v2-mozilla-does-collect = { -brand-name-mozilla } verzamelt standaard wel een beperkte hoeveelheid gegevens vanuit { -brand-name-firefox } die ons helpen begrijpen hoe mensen de browser gebruiken. Meer daarover kunt u in onze <a { $privacy }>privacyverklaring</a> lezen, evenals de <a { $data }>volledige documentatie voor die gegevensverzameling</a>. We maken onze documentatie ook openbaar, zodat iedereen kan verifiëren dat we de waarheid spreken, en hebben er vertrouwen in dat we niets verbergen.
 privacy-faq-v2-do-you-collect = Verzamelen jullie meer gegevens in pre-releaseversies van { -brand-name-firefox }?
 privacy-faq-v2-sort-of = Min of meer. Naast de hierboven beschreven gegevens ontvangen we standaard crash- en foutrapporten in pre-releaseversies van { -brand-name-firefox }.
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/shield
+privacy-faq-v2-we-may-also = Mogelijk verzamelen we ook aanvullende gegevens in pre-releaseversies voor een van onze <a { $attrs }>onderzoeken</a>. Sommige onderzoeken vereisen bijvoorbeeld wat we ‘navigatiegegevens’ noemen, die URL’s en andere informatie over bepaalde websites kunnen bevatten. Dit helpt ons specifieke vragen over het verbeteren van { -brand-name-firefox } te beantwoorden, zoals hoe populaire websites in bepaalde talen beter kunnen worden geïntegreerd.
+privacy-faq-v2-mozilla-pre-release = { -brand-name-mozilla }’s pre-releaseversies van { -brand-name-firefox } zijn ontwikkelplatformen die regelmatig worden bijgewerkt met experimentele functies. We verzamelen meer gegevens in pre-releaseversies dan dat we na vrijgave doen om zo te kunnen begrijpen hoe deze experimentele functies werken. U kunt zich in de voorkeuren afmelden voor het verzamelen van deze gegevens.
+privacy-faq-v2-but-why-do-you = Maar waarom verzamelen jullie überhaupt gegevens?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
+privacy-faq-v2-if-we-dont-know = Als we niet weten hoe de browser presteert of welke functies mensen gebruiken, kunnen we deze niet verbeteren en het geweldige product leveren dat u wilt. We hebben geïnvesteerd in het bouwen van gegevensverzameling en analysehulpmiddelen waarmee we slimme beslissingen over ons product kunnen nemen, terwijl we de privacy van mensen respecteren. U kunt meer lezen over sommige privacybeschermende technologieën die we gebruiken, zoals <a { $attrs }>OHTTP</a>.
+privacy-faq-v2-data-collection-bugs-me = Toch stoort gegevensverzameling me. Kan ik het uitzetten?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
+#   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
+privacy-faq-v2-yes-user-control = Ja. Gebruikerscontrole is een van onze principes over gegevensprivacy. Dat hebben we in { -brand-name-firefox } in praktijk gebracht op onze <a { $privacy }>pagina over privacyinstellingen</a>, die fungeert als ‘one-stop shop’ voor iedereen die op zoek is naar het houden van controle over zijn of haar privacy in { -brand-name-firefox }. Daar kunt u <a { $data }>gegevensverzameling uitzetten</a>.
+privacy-faq-v2-what-about-my-account = Hoe zit het met mijn accountgegevens?
+privacy-faq-v2-we-are-big-believers = We zijn groot voorstander van gegevensminimalisering en vragen niet om dingen die we niet nodig hebben.
+# Variables:
+#   $attrs (url) - link to https://www.mozilla.org/account/
+privacy-faq-v2-you-dont-need-an-account = U hebt geen account nodig om { -brand-name-firefox } te gebruiken. <a { $attrs }>Accounts</a> zijn nodig om gegevens tussen apparaten te synchroniseren, maar we vragen u alleen om een e-mailadres en uw leeftijd (om te controleren of u geen kind bent).
+privacy-faq-v2-you-use-digital = Jullie gebruiken digitale reclame als onderdeel van jullie marketingmix. Kopen jullie gegevens over mensen om jullie online advertenties beter te kunnen richten?
+privacy-faq-v2-no-we-do-not-buy = Nee, we kopen geen gegevens over mensen om doelgericht te adverteren.
+privacy-faq-v2-we-do-not-ask = We vragen onze advertentiepartners wel om alleen gegevens van deze partijen zelf die bij websites en uitgevers over alle gebruikers bekend zijn te gebruiken, zoals de browser die u gebruikt en het apparaat waarop u zich bevindt.
+privacy-faq-v2-well-it-seems = Nou, het lijkt erop dat jullie echt achter me staan met deze privacyzaken.
+privacy-faq-v2-yes-we-do = Ja, dat doen we.
+privacy-faq-v2-find-out-more = Ontdek meer over hoe { -brand-name-mozilla } het internet beschermt.
