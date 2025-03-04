@@ -96,9 +96,9 @@ class FilesExtraction:
         """
 
         # Extract community files
-        basedir = os.path.dirname(self.repo_path)
-        toml_file = os.path.join(basedir, "l10n-pontoon.toml")
+        toml_file = os.path.join(self.repo_path, "l10n-pontoon.toml")
         project_config_paths = L10nConfigPaths(toml_file)
+        basedir = project_config_paths.base
 
         # Extract the list of files for the reference locale
         print("\n----\nCommunity Configuration")
@@ -169,7 +169,7 @@ class FilesExtraction:
             self.l10n_files = list(set(self.l10n_files))
             self.l10n_files.sort()
 
-        print(f"Extracted {len(self.ref_files)} vendor files.")
+        print(f"\n\nExtracted {len(self.ref_files)} vendor files.")
         print(f"Extracted {len(self.l10n_files)} l10n files.")
 
 
