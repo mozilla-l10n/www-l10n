@@ -48,6 +48,7 @@ firefox-products-download-thunderbird = ດາວໂຫລດ { -brand-name-thun
 ## Fakespot
 
 firefox-products-fakespot = { -brand-name-fakespot }
+firefox-products-analyze = ວິເຄາະ URL
 
 ## Pocket
 

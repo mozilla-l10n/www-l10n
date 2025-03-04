@@ -12,3 +12,4 @@ features-adblocker-meta-title = ກ່ຽວກັບຕົວບລັອກໂ
 features-adblocker-finding-the-right = ຊອກຫາຕົວສະກັດການໂຄສະນາທີ່ເຫມາະສົມສໍາລັບທ່ານ
 features-adblocker-tip-1 = <strong>ບລັອກໂຄສະນາ:</strong> ຖ້າທ່ານຕ້ອງການບລັອກໂຄສະນາເທົ່ານັ້ນ, ເລືອກທາງເລືອກທີ່ງ່າຍດາຍ ແລະ ເບົາ.
 features-adblocker-enhanced-privacy = ປັບປຸງຄວາມເປັນສ່ວນຕົວ ແລະ ປະສິດທິພາບດ້ວຍ { -brand-name-firefox }
+features-adblocker-why-use = ເປັນຫຍັງຕ້ອງໃຊ້ຕົວບລັອກໂຄສະນາ?

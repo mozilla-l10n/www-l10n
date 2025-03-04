@@ -82,6 +82,7 @@ firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = ຊັບພະຍາກອນສໍາລັບນັກພັດທະນາ, ໂດຍນັກພັດທະນາ
 firefox-developer-mdn-playground = Playground
 firefox-developer-mdn-blog = { -brand-name-mdn } ບົດຄວາມ
+firefox-developer-mdn-updates = ອັບເດດ
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } ການອ້າງອີງ
 # Obsolete string (expires 18-04-2025)
