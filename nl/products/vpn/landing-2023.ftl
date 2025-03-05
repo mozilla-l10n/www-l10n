@@ -21,6 +21,8 @@ vpn-landing-keeps-your-data-safe = Houdt uw gegevens veilig op openbare wifi
 vpn-landing-log-in-to-your-bank-or = Meld u met een gerust hart vanaf het vliegveld, café of waar dan ook aan bij uw bank of dokter.
 vpn-landing-blocks-advertisers-from = Voorkomt dat adverteerders zich op u richten
 vpn-landing-hide-your-activity-from = Verberg uw activiteit voor trackers en malware, zodat u kunt winkelen zonder bekeken te worden.
+vpn-landing-take-control = Neem de controle met websitespecifieke VPN-instellingen
+vpn-landing-customize-your-vpn = Pas uw VPN-beschermingen per website aan met de { -brand-name-mozilla-vpn }-extensie voor { -brand-name-firefox } (alleen Windows).
 vpn-landing-features = Functies
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -42,6 +44,7 @@ vpn-landing-no-logging-tracking-or-sharing = Geen loggen, volgen of delen van ne
 vpn-landing-no-bandwidth-restrictions-or = Geen bandbreedtebeperkingen of throttling
 vpn-landing-extra-security-whole-device = Extra beveiliging: bescherming van hele apparaten, multi-hop-routering en meer
 vpn-landing-built-transparently = Transparant gebouwd in opensource
+vpn-landing-easy-firefox-integration = Eenvoudige { -brand-name-firefox }-integratie met de { -brand-name-mozilla-vpn }-extensie (alleen Windows)
 vpn-landing-see-all-features = Alle functies bekijken
 vpn-landing-fram-a-brand-you-can-trust = Van een merk dat u kunt vertrouwen
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } is een internetbedrijf dat wordt gesteund door een non-profitorganisatie en dat al sinds 1998 strijdt voor een gezond web.
