@@ -84,9 +84,12 @@ firefox-developer-view-the-release = Δείτε τις <a { $attrs }>σημει�
 firefox-developer-developer-tools-user = Έγγραφα χρήστη εργαλείων ανάπτυξης
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Πόροι για προγραμματιστές, από προγραμματιστές
+firefox-developer-mdn-playground = Παιδική χαρά
+firefox-developer-mdn-write-test-and-share = Γράψτε, δοκιμάστε και μοιραστείτε τον κώδικά σας. Η δική σας «παιδική χαρά» για να μαθαίνετε, αλλά και να μοιράζεστε τα εκπληκτικά σας έργα με όλο τον κόσμο.
 firefox-developer-mdn-blog = Ιστολόγιο { -brand-name-mdn }
 firefox-developer-mdn-unlock-the-world = Ξεκλειδώστε τον κόσμο της ανάπτυξης διαδικτύου με το ιστολόγιο { -brand-name-mdn } — το ιδανικό κέντρο για πληροφορίες από ειδικούς, τα πιο πρόσφατα πρότυπα ιστού και συμβουλές προγραμματισμού.
 firefox-developer-mdn-updates = Ενημερώσεις
+firefox-developer-mdn-the-web-doesnt-have = Το διαδίκτυο δεν διαθέτει κάποιο αρχείο καταγραφής αλλαγών, αλλά το { -brand-name-mdn } μπορεί να σας βοηθήσει. Μπορείτε να εξατομικεύσετε και να φιλτράρετε τις αλλαγές συμβατότητας βάσει των προγραμμάτων περιήγησης ή της τεχνολογικής κατηγορίας που σας ενδιαφέρει, είτε πρόκειται για τη JavaScript, τη CSS κ.α.
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Αναφορές { -brand-name-mdn }
 # Obsolete string (expires 18-04-2025)

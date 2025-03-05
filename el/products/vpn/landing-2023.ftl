@@ -42,6 +42,7 @@ vpn-landing-no-logging-tracking-or-sharing = Χωρίς παρακολούθησ
 vpn-landing-no-bandwidth-restrictions-or = Χωρίς περιορισμούς εύρους ζώνης ή καθυστερήσεις
 vpn-landing-extra-security-whole-device = Πρόσθετη ασφάλεια: ολική προστασία συσκευής, πολυβηματική δρομολόγηση και πολλά άλλα
 vpn-landing-built-transparently = Φτιαγμένο με διαφάνεια σε ανοικτό κώδικα
+vpn-landing-easy-firefox-integration = Εύκολη ενσωμάτωση του { -brand-name-firefox } με την επέκταση του { -brand-name-mozilla-vpn } (μόνο για Windows)
 vpn-landing-see-all-features = Δείτε όλες τις δυνατότητες
 vpn-landing-fram-a-brand-you-can-trust = Από μια επωνυμία που μπορείτε να εμπιστευτείτε
 vpn-landing-mozilla-is-a-non-profit-backed = Η { -brand-name-mozilla } είναι μια μη κερδοσκοπική εταιρεία διαδικτύου που αγωνίζεται για ένα υγιές διαδίκτυο από το 1998.
