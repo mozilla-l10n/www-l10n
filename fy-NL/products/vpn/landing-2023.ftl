@@ -16,10 +16,13 @@ vpn-landing-whats-a-vpn = Wat is in VPN?
 vpn-landing-a-virtual-private-network-protects = In virtual private network beskermet jo ferbining mei it ynternet, wêrtroch jo lokaasje en wat jo online dogge mear privee bliuwt op al jo apparaten.
 vpn-landing-see-all-the-ways-mozilla-vpn = Besjoch alle manieren wêrop { -brand-name-mozilla-vpn } jo beskermet.
 vpn-landing-how-a-vpn-helps-you = Hoe in VPN jo helpt
+vpn-landing-how-a-vpn-helps-you-v2 = Hoe { -brand-name-mozilla-vpn } jo helpt
 vpn-landing-keeps-your-data-safe = Hâldt jo gegevens feilich op iepenbiere wifi
 vpn-landing-log-in-to-your-bank-or = Meld jo mei in gerêst hert fan it fleanfjild, kafee of wêr dan ek ôf oan by jo bank of dokters.
 vpn-landing-blocks-advertisers-from = Foarkomt dat advertearders harren op jo rjochtsje
 vpn-landing-hide-your-activity-from = Ferbergje jo aktiviteit foar trackers en malware, sadat jo kinne winkelje sûnder besjoen te wurden.
+vpn-landing-take-control = Nim de kontrôle mei websitespesifike VPN-ynstellingen
+vpn-landing-customize-your-vpn = Pas jo VPN-beskermingen per website oan mei de { -brand-name-mozilla-vpn }-útwreiding foar { -brand-name-firefox } (allinnich Windows).
 vpn-landing-features = Funksjes
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -40,6 +43,8 @@ vpn-landing-fast-network-speeds-even-while = Hege netwurksnelheden, sels wylst i
 vpn-landing-no-logging-tracking-or-sharing = Gjin loggen, folgjen of dielen fan netwurkgegevens
 vpn-landing-no-bandwidth-restrictions-or = Gjin bânbreedtebeheiningen of throttling
 vpn-landing-extra-security-whole-device = Ekstra befeiliging: beskerming fan it hiele apparaat, multi-hop-rûtearing en mear
+vpn-landing-built-transparently = Transparant boud yn iepenboarne
+vpn-landing-easy-firefox-integration = Maklike { -brand-name-firefox }-yntegraasje mei de { -brand-name-mozilla-vpn }-útwreiding (allinnich Windows)
 vpn-landing-see-all-features = Alle funksjes besjen
 vpn-landing-fram-a-brand-you-can-trust = Fan in merk dat jo fertrouwe kinne
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } is in ynternetbedriuw dat stipe wurdt troch in non-profitorganisaasje en dat al sûnt 1998 striidt foar in sûn web.

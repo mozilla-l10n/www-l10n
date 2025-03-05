@@ -33,3 +33,33 @@ privacy-faq-v2-wait-so-how = Mar wacht, hoe fertsjinje jin dan jild?
 #   $attrs (url) - link to https://stateof.mozilla.org
 privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } is gjin gemiddelde organisaasje. { -brand-name-mozilla } is yn 1998 oprjochte as in troch de mienskip ûnderhâlden iepenboarneprojekt en in troch in missy dreaune organisaasje dy’t nei in sûner ynternet tawurket. De mearderheid fan de ynkomsten fan de { -brand-name-mozilla-corporation } is ôfkomstich fan royalty’s dy’t fia partnerferbannen mei sykmasinen yn de { -brand-name-firefox }-browser en distribúsjeoerienkomsten oer de hiele wrâld krigen wurde. Mear ynformaasje oer hoe’t wy jild fertsjinje kinne jo fine yn ús <a { $attrs }>finansjeel jierferslach</a>.
 privacy-faq-v2-softballs = Oké, de earste wiene maklike fragen. Hokker gegevens sammelje jimme?
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
+privacy-faq-v2-mozilla-does-collect = { -brand-name-mozilla } sammelet standert wol in beheinde hoemannichte gegevens fan { -brand-name-firefox } út dy’t ús helpe begripe hoe’t minsken de browser brûke. Mear dêroer kinne jo yn ús <a { $privacy }>privacyferklearring</a> lêze, krekt as de <a { $data }>folsleine dokumintaasje foar dy gegevenssammeling</a>. Wy meitsje ús dokumintaasje ek iepenbier, sadat elkenien ferifiearje kin dat wy de wierheid sprekke, en hawwe der fertrouwen yn dat wy neat ferbergje.
+privacy-faq-v2-do-you-collect = Sammelje jimme mear gegevens yn pre-releaseferzjes fan { -brand-name-firefox }?
+privacy-faq-v2-sort-of = Min of mear. Neist de hjirboppe beskreaune gegevens ûntfange wy standert ûngelok- en flaterrapporten yn pre-releaseferzjes fan { -brand-name-firefox }.
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/shield
+privacy-faq-v2-we-may-also = Mooglik sammelje wy ek oanfoljende gegevens yn pre-releaseferzjes foar ien fan ús <a { $attrs }>ûndersiken</a>. Guon ûndersiken fereaskje bygelyks wat wy ‘navigaasjegegevens’ neame, dy’t URL’s en oare ynformaasje oer bepaalde websites befetsje kinne. Dit helpt ús spesifike fragen oer it ferbetterjen fan { -brand-name-firefox } te beäntwurdzjen, lykas hoe’t populêre websites yn bepaalde talen better yntegrearre wurde kinne.
+privacy-faq-v2-mozilla-pre-release = { -brand-name-mozilla }’s pre-releaseferzjes fan { -brand-name-firefox } binne ûntwikkelplatfoarmen dy’t regelmjittich bywurke wurde mei eksperimintele funksjes. Wy sammelje mear gegevens yn pre-releaseferzjes dan dat wy nei frijjefte dogge om sa begripe te kinnen hoe’t dizze eksperimintele funksjes wurkje. Jo kinne jo yn de foarkarren ôfmelde foar it sammeljen fan dizze gegevens.
+privacy-faq-v2-but-why-do-you = Mar wêrom sammele jo alhiel gegevens?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
+privacy-faq-v2-if-we-dont-know = As wy net witten hoe’t de browser presteart of hokker funksjes minsken brûke, kinne wy dizze net ferbetterje en it geweldige produkt leverje dat jo wolle. Wy hawwe ynvestearre yn it bouwen fan gegevenssammeling en analysehelpmiddelen wêrmei wy tûke beslissingen oer ús produkt nimme kinne, wylst wy de privacy fan minsken respektearje. Jo kinne mear lêze oer guon privacybeskermjende technologyen dy’t wy brûke, lykas <a { $attrs }>OHTTP</a>.
+privacy-faq-v2-data-collection-bugs-me = Gegevenssamling steurt my noch hieltyd. Kin ik it útskeakelje?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
+#   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
+privacy-faq-v2-yes-user-control = Ja. Brûkerskontrôle is ien fan ú prinsipen oer gegevensprivacy. Dat hawwe wy yn { -brand-name-firefox } yn praktyk brocht op ús <a { $privacy }>side oer privacyynstellingen</a>, dy’t fungearret as ‘one-stop shop’ foar elkenien dy’t op syk is nei it hâlden fan kontrôle oer harren privacy yn { -brand-name-firefox }. Dêr kinne jo <a { $data }>gegevenssammeling útsette</a>.
+privacy-faq-v2-what-about-my-account = Wat is der mei myn accountgegevens?
+privacy-faq-v2-we-are-big-believers = Wy hâlde in protte fan minimale gegevens en freegje net nei wat wy net nedich hawwe.
+# Variables:
+#   $attrs (url) - link to https://www.mozilla.org/account/
+privacy-faq-v2-you-dont-need-an-account = Jo hawwe gjin account nedich om { -brand-name-firefox } te brûken. <a { $attrs }>Accounts</a> binne nedich om gegevens tusken apparaten te syngronisearjen, mar wy freegje jo allinnich om in e-mailadres en jo leeftiid (om te kontrolearjen oft jo gjin bern binne).
+privacy-faq-v2-you-use-digital = Jimme brûke digitale reklame as ûnderdiel fan jin marketingmiks. Keapje jimme gegevens oer minsken om jin online advertinsjes better rjochtsje te kinnen?
+privacy-faq-v2-no-we-do-not-buy = Nee, wy keapje gjin gegevens fan minsken foar doelfêste advertinsjes.
+privacy-faq-v2-we-do-not-ask = Wy freegje ús advertinsjepartners wol om allinnich gegevens fan dizze partijen sels dy by websites en útjouwers oer alle brûkers bekend binne te brûken, lykas de browser dy’t jo brûke en it apparaat wêrop jo jo binne.
+privacy-faq-v2-well-it-seems = No, it liket derop dat jimme echt efter my steane mei dizze privacysaken.
+privacy-faq-v2-yes-we-do = Ja dat dogge wy.
+privacy-faq-v2-find-out-more = Untdek mear oer hoe’t { -brand-name-mozilla } it ynternet beskermet.

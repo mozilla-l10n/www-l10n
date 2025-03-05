@@ -50,6 +50,8 @@ vpn-features-support-for-custom-dns = Stipe foar oanpaste DNS
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
 vpn-features-keep-traffic-protected = Mei { -brand-name-mozilla-vpn } kinne jo jo ferkear beskermje en jo DNS-fersiken dochs fia de rûte fan jo foarkar liede. <a { $dns }>Mear ynfo oer stipe foar oanpaste DNS</a>.
 vpn-features-flexible = Fleksibel
+vpn-features-webste-specific-vpn = Websitespesifike VPN-ynstellingen, naadleas yntegrearre yn { -brand-name-firefox }
+vpn-features-with-the-mozilla-vpn-extention = Mei de { -brand-name-mozilla-vpn }-útwreiding foar { -brand-name-firefox } (allinnich Windows), kinne jo jo VPN-ûnderfining per website optimalisearje. Slút yndividuele websites fan VPN-beskerming út of stel foarkarserverlokaasjes yn foar spesifike websites, wêrtroch jo in fleksibeler en personalisearre ûnderfining krije.
 vpn-features-personalized-server = Personalisearre oanrekommandaasjes foar serverlokaasjes
 vpn-features-well-suggest-which-servers = Wy sille foarstelle hokker servers by jo yn de buert soargje foar de rapste, meast betroubere ynternetferbining.
 vpn-features-personalize-which-apps = Personalisearje hokker apps VPN-beskerming krije
