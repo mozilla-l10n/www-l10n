@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/privacy/faq
 
+privacy-faq-v2-heading = Υπηρετούμε τους ανθρώπους, όχι το κέρδος.
 
 ## FAQ
 
