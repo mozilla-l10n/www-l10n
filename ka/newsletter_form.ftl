@@ -18,7 +18,7 @@ newsletter-form-join-the-community = შემოუერთდით ერთ
 newsletter-form-sign-up-to-receive = გამოიწერეთ, რომ გაეცნოთ ყოველთვიურად { -brand-name-firefox }-ის სიახლეებსა და ინტერნეტში მიმდინარე მისწრაფებებს, რომლებიც ზემოქმედებს თქვენს ციფრულ ცხოვრებაზე.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
-newsletter-form-im-okay-with-mozilla = თანახმა ვარ, რომ { -brand-name-mozilla }-მ ჩემი მონაცემები გამოიყენოს <a href="{ $url }">პირადულობის დაცვის დებულების</a> შესაბამისად
+newsletter-form-im-okay-with-mozilla = თანხმობა, რომ { -brand-name-mozilla } ჩემს მონაცემებს განკარგავს <a href="{ $url }">პირადულობის დაცვის დებულების</a> შესაბამისად
 newsletter-form-we-will-only-send-v2 = ჩვენ გამოგიგზავნით მხოლოდ { -brand-name-mozilla }-სთან დაკავშირებულ მასალას. გამოწერის გაუქმება ნებისმიერ დროს შეგიძლიათ.
 newsletter-form-we-will-only-send-firefox-v2 = ჩვენ მხოლოდ { -brand-name-firefox }-სთან დაკავშირებულ მასალას გამოგიგზავნით. გამოწერის გაუქმება ნებისმიერ დროს შეგიძლიათ.
 newsletter-form-if-you-havent-previously = თუ ჯერ არ დაგიმოწმებიათ { -brand-name-mozilla }-ს სიახლეების ცნობარი, ამის გაკეთება ახლაც შეგიძლიათ. გთხოვთ, მონახოთ ჩვენი გზავნილი მიღებული წერილების ან ჯართის საქაღალდეში.

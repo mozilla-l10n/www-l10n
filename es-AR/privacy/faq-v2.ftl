@@ -31,7 +31,7 @@ privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } no vende datos so
 privacy-faq-v2-wait-so-how = Un momento, ¿entonces cómo es que hacen plata?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org
-privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } no es una organización corriente. Fundada como un proyecto de comunidad de código abierto en 1998, { -brand-name-mozilla } es una organización guiada por una misión que trabaja por una Internet más saludable. La mayor parte de los ingresos de la { -brand-name-mozilla-corporation } proviene de las regalías ganadas a través de sociedades con buscadores usados por { -brand-name-firefox } y acuerdos de distribución en todo el mundo. Podés saber más acerca de cómo hacemos nuestro dinero en nuestro <a { $attrs }>informe anual de finanzas</a>.
+privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } no es una organización corriente. Fundada como un proyecto de comunidad de código abierto en 1998, { -brand-name-mozilla } es una organización guiada por una misión que trabaja por una Internet más saludable. La mayor parte de los ingresos de la { -brand-name-mozilla-corporation } proviene de las regalías ganadas a través de sociedades con buscadores usados por { -brand-name-firefox } y acuerdos de distribución en todo el mundo. Podés saber más acerca de cómo hacemos nuestro dinero en nuestro <a { $attrs }">informe anual de finanzas</a>.
 privacy-faq-v2-softballs = Muy bien, las primeras fueron fáciles. ¿Qué datos recolectan?
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
