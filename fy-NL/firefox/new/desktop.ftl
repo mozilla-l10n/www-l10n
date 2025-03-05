@@ -25,6 +25,8 @@ firefox-desktop-download-fast-reliable-private = Fluch, betrouber en privee – 
 firefox-desktop-download-no-shady = Gjin skimerich privacybelied of efterdoarkes foar advertearders. Gewoan in razendflugge browser dy’t jo net bedriget.
 firefox-desktop-download-download-options = Downloadopsjes en oare talen
 firefox-desktop-download-browser-support = Stipe foar { -brand-name-firefox-browser }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Doch wat jo online dogge. <br> { -brand-name-firefox-browser } hat jo <strong>dekt</strong>.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Doch wat jo online dogge. <br> { -brand-name-firefox-browser } Sjocht <strong>net</strong> mei.
 firefox-desktop-download-how-firefox-compares = Hoe { -brand-name-firefox } him ferhâldt ta oare browsers
@@ -128,6 +130,9 @@ firefox-desktop-download-from-security-to = Fan befeiliging oant nijs oant game,
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } waard troch <a { $attrs }>{ -brand-name-mozilla }</a> makke as in flugger, persoanliker alternatyf foar browsers lykas { -brand-name-ie }, en no { -brand-name-chrome }. Tsjintwurdich bliuwe ús missy-dreaune bedriuw en ús frijwilligersmienskip jo privacy boppe alles stelle.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = As it ynternet groeit en wiziget, bliuwt { -brand-name-firefox } har rjochtsje op jo rjocht op privacy – dat is altyd ús ding west. Lês mear oer ús gegevenspraktiken yn ús <a { $attrs }>Privacyferklearring</a>.
 # Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
