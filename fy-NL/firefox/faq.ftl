@@ -17,6 +17,7 @@ what-is-firefox = Wat is { -brand-name-firefox }?
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = De { -brand-name-firefox-browser } is de iennige grutte browser dy’t stipe wurdt troch in bedriuw sûnder winsteachmerk, dat jo persoanlike gegevens net ferkeapet oan advertearders en tagelyk helpt jo persoanlike gegevens te beskermjen. Lês mear oer de <a href="{ $url }">{ -brand-name-firefox-browsers }</a> en <a href="{ $url2 }">oare produkten.</a>
+the-firefox-browser-the-only = De { -brand-name-firefox-browser }, de iennige grutte browser dy’t stipe wurdt troch in non-profitorganisaasje, helpt jo jo persoanlike ynformaasje te beskermjen. Lês mear oer de <a href="{ $url }">{ -brand-name-firefox-browsers }</a> en <a href="{ $url2 }">oare produkten.</a>
 how-do-i = Hoe krij ik de { -brand-name-firefox-browser }?
 
 # Variables:
@@ -30,6 +31,7 @@ you-can-easily = Jo kinne de { -brand-name-firefox }-desktopbrowser ienfâldich 
 is-firefox-free = Is { -brand-name-firefox } fergees?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = Ja! De { -brand-name-firefox-browser } is fergees. Superfergees, eins. Gjin ferburgen kosten, neat. Jo betelje neat foar it gebrûk, en wy ferkeapje jo persoansgegevens net.
+yep-the-firefox-browser-is-free = Ja! De { -brand-name-firefox-browser } is fergees. Superfergees, eins. Gjin ferburgen kosten, neat. Jo betelje neat foar it gebrûk.
 related-questions-free = Besibbe fragen: is { -brand-name-firefox-browser } fergees, kostet { -brand-name-firefox } jild
 is-chrome-better = Is { -brand-name-chrome } better as { -brand-name-firefox }?
 no-we-dont = Nee, wy tinke net dat { -brand-name-chrome } better is as { -brand-name-firefox }, en wol om dizze reden: as minsken freegje hokker browser better is, freegje se eins hokker browser flugger en feiliger is. { -brand-name-firefox } wurdt moanliks bywurke, om derfoar te soargjen dat jo de fluchste browser hawwe dy’t automatysk jo privacy respektearret.
