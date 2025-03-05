@@ -6,6 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
 features-fast-is-firefox-the-fastest-browser = { -brand-name-firefox } ເປັນຕົວທ່ອງເວັບທີ່ໄວທີ່ສຸດບໍ?
+# HTML description
+features-fast-firefox-uses-less-memory-than = { -brand-name-firefox } ໃຊ້ໜ່ວຍຄວາມຈຳໜ້ອຍກວ່າ Chrome, ສະນັ້ນ ໂປຣແກມອື່ນຂອງທ່ານສາມາດສືບຕໍ່ແລ່ນດ້ວຍຄວາມໄວສູງສຸດ.
 features-fast-browse-faster = ທ່ອງເວັບໄວຂື້ນ
 features-fast-multi-tasking-with-multiple-tabs = ເຮັດສິ່ງຕ່າງໆໄດ້ພ້ອມກັນດ້ວຍແຖບຫຼາຍແຖບ
 features-fast-faster-gaming = ເກມໄວຂຶ້ນ
