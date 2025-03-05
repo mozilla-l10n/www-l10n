@@ -115,16 +115,16 @@ class FilesExtraction:
             print("No locales defined in the project configuration...")
         else:
             print(f"Extracting files for other locales ({len(locales)})...")
+            tgt_paths = [tgt_path for _, tgt_path in project_config_paths.all()]
             for locale in locales:
                 self.l10n_files.extend(
-                    [
-                        os.path.relpath(tgt_path.format(locale=locale), basedir)
-                        for (
-                            ref_path,
-                            tgt_path,
-                        ), locales in project_config_paths.all().items()
-                        if locale in locales
-                    ]
+                    os.path.relpath(path, basedir)
+                    for tgt_path in tgt_paths
+                    if os.path.exists(
+                        path := project_config_paths.format_target_path(
+                            tgt_path, locale
+                        )
+                    )
                 )
 
         # Extract vendor files
