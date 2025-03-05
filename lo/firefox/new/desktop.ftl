@@ -25,6 +25,8 @@ firefox-desktop-download-fast-reliable-private = ໄວ, ເຊື່ອຖື�
 firefox-desktop-download-no-shady = ບໍ່ມີນະໂຍບາຍຄວາມເປັນສ່ວນຕົວທີ່ຮົ່ມຫຼືປະຕູຫລັງສໍາລັບຜູ້ໂຄສະນາ. ພຽງແຕ່ເປັນຕົວທ່ອງເວັບໄວຟ້າຜ່າທີ່ບໍ່ຂາຍຂໍ້ມູນທ່ານ.
 firefox-desktop-download-download-options = ທາງເລືອກໃນການດາວໂຫຼດ ແລະພາສາອື່ນໆ
 firefox-desktop-download-browser-support = ຮອງຮັບ { -brand-name-firefox-browser }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = ເຮັດສິ່ງທີ່ທ່ານເຮັດອອນໄລນ໌.<br> { -brand-name-firefox-browser } ໄດ້ໃຫ້ທ່ານ <strong>ຄຸ້ມຄອງ</strong>.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = ເຮັດສິ່ງທີ່ທ່ານເຮັດອອນໄລນ໌.<br> { -brand-name-firefox-browser } <strong>ບໍ່ໄດ້</strong> ເບິ່ງ.
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } ປຽບທຽບກັບຕົວທ່ອງເວັບອື່ນແນວໃດ
