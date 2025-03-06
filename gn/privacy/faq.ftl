@@ -51,6 +51,6 @@ privacy-faq-you-dont-need-an-account-to = Nereikotevẽi peteĩ mba’ete eiporu
 privacy-faq-you-use-digital-advertising = Oiporu ñemurã ñandutiguáva omba’evende hag̃ua. ¿Ojogua umi tapicha mba’ekuaarã omoma’ẽ porãve hag̃ua iñemurã ñandutípe?
 privacy-faq-no-we-do-not-buy-peoples-data = Nahániri, ndorojoguái yvypóra mba’ekuaarã omoakã hag̃ua ñemurã.
 privacy-faq-we-do-ask-our-advertising-partners = Rojeruréramo oreirũ ñemurãguávape oiporu hag̃ua mba’ekuaarã ha’etéva umi ñanduti renda ha avei mbohetaha oikuaáva poruhára rehegua mba’e kundaha térã mba’e’okápa oiporu.
-privacy-faq-well-it-seems-like-you-really = Ajépa, hi’ã chéve pemo’ã añetehápe ñeniguáva.
+privacy-faq-well-it-seems-like-you-really = Ajépa, hi’ã chéve pemo’ã añetehápe ñemiguáva.
 privacy-faq-yes-we-do = Heẽ, rojapo.
 privacy-faq-find-out-more-about-how-mozilla = Eikuaave mba’éichapa { -brand-name-mozilla } omo’ã ñanduti.

@@ -14,4 +14,5 @@ privacy-faq-v2-intro = Ikatu hína hasy opavavépe ndoikuaáivo mba’etépa oha
 
 ## FAQ
 
+privacy-faq-v2-well-it-seems = Ajépa, hi’ã chéve pemo’ã añetehápe pe tekoñemi.
 privacy-faq-v2-yes-we-do = Héẽ, rojapo.
