@@ -11,7 +11,7 @@ privacy-index-contact-mozilla = Eñe’ẽ { -brand-name-mozilla } ndive
 privacy-index-if-you-want-to-make-a-correction = Emoĩporãsérõ ne marandu térã eporanduséramo ore remiñemi porureko rehegua, eñe’ẽkuaántema:
 # Variables:
 #   $dsar (url) - link to https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0
-privacy-index-see-here-for-data-subject = <a href="{ $dsar }">Eikutu ápe ejerure hag̃ua mba’éichapa eikéta mba’ekuarã tapicha mbaévape.</a>
+privacy-index-see-here-for-data-subject = <a href="{ $dsar }">Eikutu ápe ejerure hag̃ua mba’éichapa eikéta mba’ekuaarã tapicha mbaévape.</a>
 # Variables:
 #   $sumo (url) - link to https://support.mozilla.org/
 privacy-index-for-product-support-requests = Mba’ejerurépe g̃uarã apopyre pytyvõha, <a href="{ $sumo }">eike ore ñomongetápe</a>.
