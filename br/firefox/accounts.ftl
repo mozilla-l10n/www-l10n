@@ -16,6 +16,9 @@ mozilla-account-sign-in-to = Kennaskit d’ho { -brand-name-mozilla-account } ev
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Kas un ivinell</a> d’un trevnad all
+# Variables:
+#   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
+firefox-accounts-save-and-sync = <a href="{ $password }">Enrollañ ha goubredañ gerioù-tremen</a>
 firefox-accounts-keep-your-passwords = Dalc’hit ho kerioù-tremen gwarezet ha ganeoc’h bepred.
 firefox-accounts-get-a-lookout-for = Dizoleiñ ar fuadurioù roadennoù.
 firefox-accounts-travel-the-internet = Merdeit gwarezet war internet, war pep trevnad.

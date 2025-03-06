@@ -36,8 +36,8 @@
 -brand-name-firefox-browser = Firefox Browser
 -brand-name-firefox-browsers =
     { $capitalization ->
-       *[lowercase] merdeerioù Firefox
         [uppercase] Merdeerioù Firefox
+       *[lowercase] merdeerioù Firefox
     }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
@@ -98,6 +98,7 @@
 
 ## Firefox projects
 
+-brand-name-firefox-labs = Firefox Labs
 
 ## Pocket
 
@@ -109,12 +110,16 @@
 
 ## Anonym
 
+-brand-name-anonym = Dizanv
 
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
+-brand-name-irl-podcast = Podskignañ IRL
+-brand-name-llamafile = Llamafile
+-brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
@@ -124,8 +129,12 @@
 -brand-name-mozilla-account = Kont Mozilla
 -brand-name-mozilla-accounts = Kontoù Mozilla
 -brand-name-mozilla-social = Mozilla.social
+-brand-name-mozilla-builders = Mozilla Builders
 # Obsolete string (expires: 2025-01-05)
 -brand-name-mozilla-ai = Mozilla IA
+-brand-name-mozilla-ai-v2 = Mozilla.ai
+-brand-name-mozilla-ventures = Mozilla Ventures
+-brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
