@@ -15,3 +15,5 @@ password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } mo�
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = Obraz formularza logowania do witryny z { -brand-name-firefox(case: "dat") } pokazujący wiele zapisanych kont, spośród których można wybierać podczas logowania.
 password-manager-import-passwords = Import haseł
+password-manager-no-more-reusing-your-passwords = Koniec z używaniem tego samego hasła
+password-manager-password-security-alerts = Alerty dotyczące bezpieczeństwa haseł
