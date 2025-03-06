@@ -57,3 +57,9 @@ privacy-faq-v2-we-are-big-believers = Veríme v minimalizáciu potreby údajov a
 # Variables:
 #   $attrs (url) - link to https://www.mozilla.org/account/
 privacy-faq-v2-you-dont-need-an-account = Na používanie { -brand-name-firefox(case: "gen") } nepotrebujete účet. <a { $attrs }>Účty</a> sú potrebné na synchronizáciu údajov medzi zariadeniami, ale žiadame vás len o e‑mailovú adresu a váš vek (len pre istotu, že nie ste dieťa).
+privacy-faq-v2-you-use-digital = Používate digitálnu inzerciu ako súčasť vášho marketingového mixu. Nakupujete údaje o ľuďoch, aby ste na nich mohli cieliť online reklamu?
+privacy-faq-v2-no-we-do-not-buy = Nie, nekupujeme údaje o ľuďoch na cielenie reklamy.
+privacy-faq-v2-we-do-not-ask = Žiadame našich reklamných partnerov, aby používali len všeobecné údaje o používateľoch, napríklad aký prehliadač alebo zariadenie používajú.
+privacy-faq-v2-well-it-seems = Zdá sa, že mi v oblasti súkromia naozaj kryjete chrbát.
+privacy-faq-v2-yes-we-do = Áno, presne tak.
+privacy-faq-v2-find-out-more = Zistite viac o tom, ako { -brand-name-mozilla } chráni internet.

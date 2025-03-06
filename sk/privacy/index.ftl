@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/privacy/
 
 # HTML page title
-privacy-index-mozilla-privacy = Ochrana osobných údajov spoločnosti { -brand-name-mozilla }
+privacy-index-mozilla-privacy = { -brand-name-mozilla } a súkromie
 privacy-index-contact-mozilla = Kontaktujte { -brand-name-mozilla(case: "acc") }
 privacy-index-if-you-want-to-make-a-correction = Ak chcete navrhnúť úpravu vo vašich informáciách, alebo máte akékoľvek otázky o našich zásadách ochrany súkromia, prosím, kontaktuje nás:
 # Variables:
