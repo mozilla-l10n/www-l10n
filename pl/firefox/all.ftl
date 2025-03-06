@@ -40,6 +40,7 @@ firefox-all-microsoft-store-installers = Microsoft Store
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Pobierz { $esr_version }
+firefox-all-esr-if-you-choose = Jeśli zdecydujesz się na pobranie starszej wersji ESR, po zakończeniu okresu przejściowego nastąpi automatyczna aktualizacja do nowej wersji.
 firefox-all-check-the-system-requirements = Wymagania systemowe
 firefox-all-release-notes = Informacje o wydaniu
 firefox-all-source-code = Kod źródłowy
