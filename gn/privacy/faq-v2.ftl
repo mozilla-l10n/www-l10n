@@ -11,9 +11,15 @@ privacy-faq-v2-title = Porandu py’ỹi { -brand-name-mozilla } mba’ekuaarã 
 privacy-faq-v2-desc = { -brand-name-mozilla } omomba’e añetehápe ha omo’ã ne maranduete.
 privacy-faq-v2-heading = Ore romopyenda yvypórape viru rendaguépe.
 privacy-faq-v2-intro = Ikatu hína hasy opavavépe ndoikuaáivo mba’etépa oha’ãrõta oimeraẽva software térã mba’eporurã ojeporúva ko ára rupi. Umi tembiporupyahu omongu’éva ñande rekove ijetu’u ha, tuichaháicha, mavakuéra ndoguerekói pa’ũ oikuaa hag̃ua mba’emimi. Kóva añetegua { -brand-name-firefox } ohecháva avei, ojejuhuhápe opaite tapicha hemiandu juavýva umi mba’e oikóva ikundahápe rehegua.
+privacy-faq-v2-we-strive-collect-data = Roñongatúnte umi marandu roikotevẽva rojapo hag̃ua apopyre iporãvéva.
+privacy-faq-v2-we-work-to = Romoĩ yvypórape oma’ẽ hag̃ua imarandu ha hembiasakue ñanduti pegua rehe.
+privacy-faq-v2-we-adhere = Roike ñepyrũrãme “mba’etuicha’ỹre”, he’iséva romba’apo hetaha ikatu hag̃uáicha pe oikumbýva opavave { -brand-name-firefox } rehegua ha’eha pe oikovavoi.
+privacy-faq-v2-following-questions = Umi porandu ha mbohovái upeigua ne pytyvõta eikũmby hag̃ua mba’etépa eha’ãrõta { -brand-name-mozilla } ha { -brand-name-firefox }-gui:
 
 ## FAQ
 
+privacy-faq-v2-i-use-firefox = Aiporu { -brand-name-firefox } ajapo hag̃ua opamba’e ñandutípe. { -brand-name-mozilla } oikuaáne heta mba’e cherehegua, ¿ajépa?
+privacy-faq-v2-wait-so-how = Eha’ãrõmi, ¿upéicharõ mba’éicha peganáta viru?
 privacy-faq-v2-softballs = Iporã, umi ñepyrũgua ndahasýi. ¿Mba’eichagua mba’ekuaarã pembyaty?
 privacy-faq-v2-do-you-collect = ¿Pembyaty mba’ekuaarã { -brand-name-firefox } rembiapo ñepyrũ rehegua?
 privacy-faq-v2-but-why-do-you = Hákatu, ¿ma’erã pembyaty mba’ekuaarã?
