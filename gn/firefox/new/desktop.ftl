@@ -20,6 +20,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Eiporukuaa rojaporamovéva { -brand-name-firefox }. <a { $update_url }>Embohekopyahu osẽramovévape</a>
 firefox-desktop-download-get-the-browser = Ereko pe kundahára omo’ã añetéva pe ehayhuvéva
+firefox-desktop-download-fast-reliable-private = Ipya’e, jeroviaha ha hekoñemi eikundaha hag̃ua ñandutípe.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Ndaipóri temiñemi porureko ivaikuaáva térã okẽ atukupegua ñemurãme g̃uarã. Ha’e kundahára ipya’e ha hekopotĩva.
 firefox-desktop-download-download-options = Ñemboguejy poravorã ha ambuekuéra ñe’ẽ

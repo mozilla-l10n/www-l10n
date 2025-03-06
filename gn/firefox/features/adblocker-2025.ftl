@@ -7,3 +7,8 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Ñemurã jejoko
+# Page Title
+features-adblocker-meta-title = Ñemurã jokoha rehegua - { -brand-name-firefox }
+features-adblocker-finding-the-right = Eheka ñemurã jokoha ndéve g̃uarãite
+features-adblocker-enhanced-privacy = Tekoñemi ha oikoporãngue { -brand-name-firefox } ndive
+features-adblocker-why-use = ¿Mba’ére emyandyva’erã pe ñemurã jokoha?
