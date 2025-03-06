@@ -18,5 +18,17 @@ password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } mo�
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = Obraz formularza logowania do witryny z { -brand-name-firefox(case: "dat") } pokazujący wiele zapisanych kont, spośród których można wybierać podczas logowania.
 password-manager-import-passwords = Import haseł
+password-manager-you-can-use-the-import-wizard = Możesz użyć kreatora importu, aby magicznie łatwo zaimportować nazwy użytkowników i hasła przechowywane w Chrome, Edge, Safari lub innych przeglądarkach. Wybierz Plik z górnego menu, a następnie kliknij „Importuj z innej przeglądarki…”.
+# Used as an accessible text alternative for an image
+password-manager-image-of-the-firefox-import-wizard = Obraz okna dialogowego kreatora importu { -brand-name-firefox(case: "gen") } przedstawiający opcje importowania ustawień i danych z innych przeglądarek.
 password-manager-no-more-reusing-your-passwords = Koniec z używaniem tego samego hasła
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
+password-manager-have-firefox-create-a-strong-unique = Pozwól { -brand-name-firefox(case: "dat") } <a { $attrs }>utworzyć silne, unikalne hasło</a> dla każdego loginu, którego używasz w Internecie — w ten sposób, jeśli jedno z Twoich haseł zostanie zhakowane w wyniku naruszenia bezpieczeństwa, będzie to miało wpływ tylko na to jedno konto, a nie na inne konta.
+# Used as an accessible text alternative for an image
+password-manager-image-of-a-websites-sign-up-form = Obraz formularza rejestracyjnego witryny internetowej w { -brand-name-firefox(case: "loc") } sugerującym silne hasło, które zostanie automatycznie zapisane do wykorzystania w przyszłości.
 password-manager-password-security-alerts = Alerty dotyczące bezpieczeństwa haseł
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
+# "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
+password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } <a { $attrs }>ostrzega Cię, jeśli hasło zostanie ukradzione</a> w wyniku naruszenia bezpieczeństwa danych, dzięki czemu możesz je zmienić, zanim hakerzy zdążą np. wynająć Lamborghini, płacąc Twoją kartą kredytową.
