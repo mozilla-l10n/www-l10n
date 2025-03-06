@@ -5,3 +5,4 @@
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
 moz-account-product-pocket = { -brand-name-pocket }
+moz-account-product-relay = { -brand-name-relay }

@@ -25,6 +25,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = ເຄື່ອງມື
 footer-refresh-donate = ບໍລິຈາກ
+footer-refresh-websites-privacy-notice = ປະກາດຄວາມເປັນສ່ວນຕົວຂອງເວັບໄຊທ໌
 footer-refresh-websites-cookies = ຄຸກກີ້
 footer-refresh-websites-legal = ຂໍ້ກົດຫມາຍ
 footer-refresh-community-participation-guidelines = ຂໍ້ແນະນຳການມີສ່ວນຮ່ວມຂອງຊຸມຊົນ
