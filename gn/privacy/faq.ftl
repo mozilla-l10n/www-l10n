@@ -9,7 +9,7 @@
 privacy-faq-mozillas-data-privacy-faq = Porandu py’ỹi { -brand-name-mozilla } mba’ekuaarã ñemiguáva rehegua.
 privacy-faq-at-mozilla-we-respect-and-protect-desc = { -brand-name-mozilla } omomba’e ha omo’ã ne maranduete.
 privacy-faq-we-stand-for-people-over-profit = Ore romopyenda yvypórape viru rendaguépe
-privacy-faq-it-can-be-tricky-for-people = Ikatu hína hasy opavavépe ndoikuaáivo mba’etépa oha’ãrõta oimeraẽva software térã mba’eporurã ojeporúva ko ára rupi. Umi tembiporupyahu omongu’éva ñande rekove ijetu’u ha, tuichaháicha, mavakuéra ndoguerekói pa’ũ oikuaa hag̃ua mba’emimi. Kóva añetegua { -brand-name-firefox } ohecháva avei, ojejuhuhápe opaite tapicha emiandu juavýva umi mba’e oikóva ikundahápe rehegua.
+privacy-faq-it-can-be-tricky-for-people = Ikatu hína hasy opavavépe ndoikuaáivo mba’etépa oha’ãrõta oimeraẽva software térã mba’eporurã ojeporúva ko ára rupi. Umi tembiporupyahu omongu’éva ñande rekove ijetu’u ha, tuichaháicha, mavakuéra ndoguerekói pa’ũ oikuaa hag̃ua mba’emimi. Kóva añetegua { -brand-name-firefox } ohecháva avei, ojejuhuhápe opaite tapicha hemiandu juavýva umi mba’e oikóva ikundahápe rehegua.
 privacy-faq-at-mozilla-we-respect-and-protect = { -brand-name-mozilla } omomba’e ha omo’ã ne maranduete:
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
