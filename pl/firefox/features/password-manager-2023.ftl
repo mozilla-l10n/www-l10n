@@ -10,6 +10,9 @@ password-manager-free-password-manager = Darmowy menedżer haseł
 # HTML page description
 password-manager-firefox-password-manager-saves-all = Menedżer haseł { -brand-name-firefox(case: "gen") } zapisuje wszystkie Twoje hasła w jednym miejscu, dzięki czemu możesz automatycznie logować się do witryn lub odzyskiwać zapisane hasła.
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } bezpiecznie przechowuje Twoje nazwy użytkownika i hasła dostępu do stron internetowych, automatycznie je wypełnia przy następnej wizycie na stronie internetowej i pozwala zarządzać zapisanymi loginami dzięki wbudowanej funkcji zarządzania hasłami.
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account-v2 = Dzięki <a { $fxa }>darmowemu { -brand-name-mozilla-account(case: "dat", capitalization: "lower") }</a> możesz bezpiecznie synchronizować swoje hasła pomiędzy wszystkimi swoimi urządzeniami. Możesz także korzystać ze wszystkich innych szanujących prywatność produktów { -brand-name-mozilla(case: "gen") }.
 password-manager-password-autofill-for-easy-logins = Automatyczne uzupełnianie haseł ułatwia logowanie
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } może automatycznie wypełnić zapisaną nazwę użytkownika i hasło. Jeśli masz więcej niż jedno konto logowania do witryny, wystarczy po prostu wybrać konto, a my zajmiemy się resztą.
 # Used as an accessible text alternative for an image
