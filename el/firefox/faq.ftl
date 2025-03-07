@@ -30,6 +30,7 @@ you-can-easily = Μπορείτε εύκολα να κάνετε λήψη του
 is-firefox-free = Είναι το { -brand-name-firefox } δωρεάν;
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = Ναι! Το { -brand-name-firefox-browser } είναι δωρεάν. Εντελώς δωρεάν. Χωρίς κρυφές χρεώσεις. Δεν πληρώνετε τίποτα για να το χρησιμοποιήσετε και δεν πωλούμε τα προσωπικά σας δεδομένα.
+yep-the-firefox-browser-is-free = Ναι! Το { -brand-name-firefox-browser } είναι δωρεάν. Εντελώς δωρεάν. Χωρίς κρυφές χρεώσεις. Δεν πληρώνετε τίποτα για να το χρησιμοποιήσετε.
 related-questions-free = Σχετικές ερωτήσεις: είναι το { -brand-name-firefox-browser } δωρεάν, κοστίζει το { -brand-name-firefox } χρήματα
 is-chrome-better = Είναι το { -brand-name-chrome } καλύτερο από το { -brand-name-firefox };
 no-we-dont = Όχι, δεν πιστεύουμε ότι το { -brand-name-chrome } είναι καλύτερο από το { -brand-name-firefox }, επειδή όταν κάποιος ρωτά ποιο πρόγραμμα περιήγησης είναι το καλύτερο, εννοεί ποιο είναι το πιο γρήγορο και το πιο ασφαλές. Το { -brand-name-firefox } ενημερώνεται σε μηνιαία βάση για να εξασφαλίσει ότι διαθέτετε το ταχύτερο πρόγραμμα περιήγησης που σέβεται το απόρρητό σας.
