@@ -59,6 +59,7 @@ privacy-faq-v2-we-are-big-believers = 我们坚持最低限度的数据收集原
 privacy-faq-v2-you-dont-need-an-account = 您无需账户即可使用 { -brand-name-firefox }。在跨设备同步数据时需要使用<a { $attrs }>账户</a>，而我们需要您提供的也只有邮箱地址和年龄（仅为确认您不是儿童）。
 privacy-faq-v2-you-use-digital = 你们在营销时也会投放数字广告，那会不会购买其他人的数据来增强在线广告的定向投放效果？
 privacy-faq-v2-no-we-do-not-buy = 不，我们不会购买其他人的数据来定向投放广告。
+privacy-faq-v2-we-do-not-ask = 我们要求广告合作伙伴仅使用网站和发布商了解的关于所有用户的第一方数据，例如您正在使用的浏览器和设备的特征。
 privacy-faq-v2-well-it-seems = 嗯，看来你们确实会保护我的隐私。
 privacy-faq-v2-yes-we-do = 是的，我们说到做到。
 privacy-faq-v2-find-out-more = 深入了解 { -brand-name-mozilla } 如何保护互联网。
