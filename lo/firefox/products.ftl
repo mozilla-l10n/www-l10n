@@ -43,6 +43,7 @@ firefox-products-support-mdn = ສະຫນັບສະຫນູນ { -brand-nam
 ## Thunderbird
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = ເຂົ້າເຖິງອີເມວ, ປະຕິທິນ ແລະ ລາຍຊື່ຜູ້ຕິດຕໍ່ທັງໝົດຂອງທ່ານໃນແອັບທີ່ໄວອັນດຽວ. ກັ່ນຕອງ ແລະ ຈັດລະບຽບພວກມັນຕາມທີ່ທ່ານຕ້ອງການ.
 firefox-products-download-thunderbird = ດາວໂຫລດ { -brand-name-thunderbird }
 
 ## Fakespot

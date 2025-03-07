@@ -10,3 +10,4 @@ whatsnew-page-description = ເອົາຈຸດຢືນຂອງທ່ານ�
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = { -brand-name-firefox } ຂອງທ່ານໄດ້ຖືກອັບເດດແລ້ວ.
 whatsnew-donate-to-mofo = ບໍລິຈາກໃຫ້ { -brand-name-mozilla-foundation }
+whatsnew-thanks-for-choosing = ຂອບໃຈທີ່ເລືອກ { -brand-name-firefox }

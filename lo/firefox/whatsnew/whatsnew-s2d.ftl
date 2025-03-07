@@ -12,3 +12,5 @@ whatsnew-s2d-you-got-it-get-firefox-for = ບໍ່ມີບັນຫາ. ເອ
 # Line break is for visual formatting only
 whatsnew-s2d-send-firefox-to-your-phone = ເພີ່ມ { -brand-name-firefox } ໃນໂທລະສັບຂອງທ່ານ<br> ແລະ ເປິດສູ່ອິນເຕີເນັດ.
 whatsnew-s2d-download-firefox-for-your = ດາວໂຫຼດ { -brand-name-firefox } ສຳລັບສະມາດໂຟນ ແລະ ແທັບເລັດຂອງທ່ານ.
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = ສະແກນລະຫັດ QR ນີ້

@@ -17,6 +17,8 @@ legal-firefox-services = { -brand-name-firefox } ບໍລິການ
 legal-privacy-trademarks = ຄວາມເປັນສ່ວນຕົວ & ເຄື່ອງໝາຍການຄ້າ
 legal-privacy-notices-and-policy = ປະກາດຄວາມເປັນສ່ວນຕົວ ແລະ ນະໂຍບາຍ
 legal-downloadable-software-notices = ແຈ້ງການຊອບແວທີ່ສາມາດດາວໂຫຼດໄດ້
+# heading for the table of contents, a shorter heading is better
+legal-firefox-contents = ເນື້ອຫາ
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: ກ່ຽວກັບສິດທິຂອງທ່ານ
 legal-thunderbird = { -brand-name-thunderbird }
