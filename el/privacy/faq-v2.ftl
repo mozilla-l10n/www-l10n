@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/privacy/faq
 
 privacy-faq-v2-heading = Υπηρετούμε τους ανθρώπους, όχι το κέρδος.
+privacy-faq-v2-at-mozilla = Στη { -brand-name-mozilla }, σεβόμαστε και προστατεύουμε τις προσωπικές σας πληροφορίες:
 
 ## FAQ
 
