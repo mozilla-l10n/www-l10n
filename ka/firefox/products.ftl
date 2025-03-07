@@ -64,5 +64,5 @@ firefox-products-analyze = URL-ს გაანალიზება
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content-v2 = აღმოაჩინეთ საუკეთესო შიგთავსი ინტერნეტში – და გამოიყენეთ სადაც და როცა მოგესურვებათ. ქმნის { -brand-name-mozilla }.
+firefox-products-discover-the-best-content-v2 = აღმოაჩინეთ საუკეთესო მასალები ვებსივრცეში – და გამოიყენეთ სასურველ დროსა თუ ადგილას. უზრუნველყოფს { -brand-name-mozilla }.
 firefox-products-get-pocket = გამოიყენეთ { -brand-name-pocket }

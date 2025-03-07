@@ -11,12 +11,12 @@ nightly-whatsnew-youve-just-been = თქვენ ახლახან მი�
 nightly-whatsnew-your-firefox-nightly = თქვენი { -brand-name-firefox-nightly } განახლდა.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 nightly-whatsnew-every-4-to-5-weeks = ყოველ 4–5 კვირაში გამოდის ახალი სრული { -brand-name-firefox } და შესაბამისად { -brand-name-nightly }-ვერსიაც იმატებს.
-nightly-whatsnew-this-is-a-good = აქვე ვისარგებლებთ შემთხვევით და მადლობას მოგახსენებთ, რომ გვეხმარებით გავაუმჯობესოთ { -brand-name-firefox } და მოგაწვდით სასურველი მასალების, სასაუბრო არხებისა და სიახლეთა გვერდების ბმულებს, სადაც უკეთ განიხილება { -brand-name-nightly }.
+nightly-whatsnew-this-is-a-good = აქვე ვისარგებლებთ შემთხვევით და მადლობას მოგახსენებთ, რომ გვეხმარებით გავაუმჯობესოთ { -brand-name-firefox } და გაგაცნობთ სასურველ მასალებს, სასაუბრო არხებსა თუ სიახლეთა გვერდებს, რომლებზეც უკეთ განიხილება { -brand-name-nightly } და შეიძლება თქვენი ყურადღება მიიპყროს.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
 #   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
-nightly-whatsnew-if-you-want-to-v4 = If you want to know what’s happening around { -brand-name-nightly } and its community, reading our <a { $blog }>blog</a> and following us on <a { $mastodon }>Mastodon</a> or <a { $bluesky }>Bluesky</a> are good starting points!
+nightly-whatsnew-if-you-want-to-v4 = თუ სურვილი გაქვთ, მუდამ თვალთახედვის არეში გყავდეთ { -brand-name-nightly } და მისი ერთობა, დასაწყისისთვის კარგი იქნება, წაიკითხოთ ჩვენი <a { $blog }>სვეტი</a> და გამოიწეროთ ჩვენი <a { $mastodon }>Mastodon</a> ან <a { $bluesky }>Bluesky</a>!
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
 #   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
