@@ -20,4 +20,6 @@ pdf-editor-open-the-pdf-in-firefox-click-text = Otwórz plik PDF w { -brand-name
 pdf-editor-add-drawings-or-your-signature = Dodaj rysunki (lub swój podpis)
 pdf-editor-open-the-pdf-in-firefox-click-draw = Otwórz plik PDF w { -brand-name-firefox(case: "ins") }. Kliknij ikonę rysowania, aby wybrać kolor, grubość i przezroczystość, a następnie pisz po dokumencie. Prawdopodobnie nie będzie to brzydsze niż twój zwykły podpis!
 pdf-editor-add-image-with-alt-text = Dodaj obraz z tekstem alternatywnym
+pdf-editor-open-pdf-click-image-icon = Otwórz plik PDF w { -brand-name-firefox(case: "loc") }. Kliknij ikonę obrazu, która wyświetli monit o przesłanie obrazu. Dostosuj rozmiar i umiejscowienie obrazu w razie potrzeby. Dodaj tekst alternatywny, aby dodać opis zdjęcia i uczynić plik PDF bardziej dostępnym.
 pdf-editor-create-a-highlight = Utwórz wyróżnienie
+pdf-editor-select-text-you-want-to = Otwórz plik PDF w { -brand-name-firefox(case: "loc") }. Zaznacz tekst, który chcesz wyróżnić, a następnie kliknij ikonę wyróżnienia, która pojawia się pod zaznaczeniem, lub kliknij prawym przyciskiem myszy, aby znaleźć opcję wyróżnienia w menu kontekstowym. Kliknij ikonę w prawym górnym rogu, aby odręcznie wyróżnić sekcje pliku PDF.
