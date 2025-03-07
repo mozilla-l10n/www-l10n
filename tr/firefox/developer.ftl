@@ -85,8 +85,11 @@ firefox-developer-developer-tools-user = Geliştirici Araçları Kullanıcı Bel
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Geliştiriciler için, geliştiriciler tarafından hazırlanan kaynaklar
 firefox-developer-mdn-playground = Oyun alanı
+firefox-developer-mdn-write-test-and-share = Kodunuzu yazın, test edin ve paylaşın. Yeni şeyler öğrenmek ve çalışmalarınızı paylaşmak için kullanabileceğiniz bir oyun alanı.
 firefox-developer-mdn-blog = { -brand-name-mdn } Blog
+firefox-developer-mdn-unlock-the-world = { -brand-name-mdn } Blog ile web geliştirme dünyasını keşfe çıkarın. Uzman içgörüleri, en yeni web standartları ve kodlama ipuçları sizi bekliyor.
 firefox-developer-mdn-updates = Güncellemeler
+firefox-developer-mdn-the-web-doesnt-have = Web’in changelog’u yok ama { -brand-name-mdn } size yardımcı olabilir. Uyumluluk değişikliklerini tarayıcılara veya ilgilendiğiniz teknoloji kategorisine (JavaScript, CSS vb.) göre kişiselleştirebilir ve filtreleyebilirsiniz.
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } Belgeleri
 # Obsolete string (expires 18-04-2025)
