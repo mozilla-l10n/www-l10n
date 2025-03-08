@@ -115,8 +115,25 @@ m24-home-watch-the-award = 시상식 보기
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-proud = { -brand-name-rise25 }의 자랑스러운 수상자입니다.
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-smiling = 자신있게 미소 짓는 연사 { -brand-name-rise25 }.
+m24-home-alt-rise25-smiling = { -brand-name-rise25 }에서 자신있게 미소 짓는 연사
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = { -brand-name-rise25 }의 즐거워하는 수상자
+m24-home-state-of-mozilla = { -brand-name-mozilla } 현황
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla }는 스스로를 재창조하고, 다양한 조직을 중심으로 다양화하고, 광고를 재구성하고, 오픈소스 AI 생태계를 만들고 있습니다. { -brand-name-mozilla } 2024년 현황 보고서에서 자세히 살펴보세요.
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = 녹색, 주황색, 분홍색 음영의 추상 픽셀 아트
+m24-home-read-the-report = 보고서 읽기
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = 주의 아이콘이 있는 스마트 장치
+m24-home-explore-issues-shaping = 인터넷의 미래를 형성하는 문제 살펴보기
+m24-home-privacy-not-included = *개인 정보 보호 제외
+m24-home-search-our-reviews = 리뷰를 검색하여 어떤 기술 가제트와 앱이 은밀하게 여러분의 데이터를 유출하고 있는지 알아보세요.
+m24-home-pni-search-now = 지금 검색
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = IRL 팟캐스트의 진행자 브리짓 토드입니다.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = 다양한 수상 경력에 빛나는 팟캐스트가 인터넷을 더 안전하게 만들고 AI를 더 신뢰할 수 있도록 노력하는 체인지 메이커들을 소개합니다.
+m24-home-irl-listen-now = 지금 듣기
