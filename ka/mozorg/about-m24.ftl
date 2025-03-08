@@ -42,7 +42,7 @@ m24-about-builders-program = { -brand-name-mozilla-builders } ეხმარე
 m24-about-at-our-rise25 = ჩვენს { -brand-name-rise25 }-დაჯილდოებაზე, ხელოვნური ინტელექტის მომავალია სანდო, საყოველთაო და ანგარიშვალდებული საშუალებები.
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = { -brand-name-rise25 }-ზე დაჯილდოებული მიუთითებს თავისი ჯილდოსკენ.
-m24-about-empowering-chicagos-entrepreneurs = ჩიკაგოელი მეწარმეების მხარდაჭერა თაობის შეცვლისთვის
+m24-about-empowering-chicagos-entrepreneurs = ჩიკაგოელი მეწარმეების მხარდაჭერა ცვლილებებისთვის მომავალი თაობების სასარგებლოდ
 # Used as an accessible text alternative for an image
 m24-about-chicago = ჩიკაგოელი მეწარმე.
 
