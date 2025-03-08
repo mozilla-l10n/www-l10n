@@ -113,11 +113,11 @@ m24-home-rise25-awards = { -brand-name-rise25 }-ჯილდოები
 m24-home-get-to-know = გაიცანით ხელოვნური ინტელექტის სანდო, ყოვლის მომცველი და გამჭვირვალე სახით შემუშავებაში მოწინავე ხელმძღვანელებს, რომლებიც ქმნიან ახალ სტანდარტებს და შთაგონების წყაროს წარმოადგენენ სიახლეების დანერგვის მსურველი ახალი თაობებისთვის.
 m24-home-watch-the-award = უყურეთ დაჯილდოების წარმოდგენას
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-proud = საამაყო ჯილდო, { -brand-name-rise25 }.
+m24-home-alt-rise25-proud = სიამაყით აღსავსე დაჯილდოებული, { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-smiling = თავდაჯერებული მოღიმარი გამომსვლელი, { -brand-name-rise25 }.
+m24-home-alt-rise25-smiling = თავდაჯერებული, მოღიმარი გამომსვლელი, { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-joyous = სასიხარულო პრემია { -brand-name-rise25 }-ზე.
+m24-home-alt-rise25-joyous = გახარებული დაჯილდოებული, { -brand-name-rise25 }.
 m24-home-state-of-mozilla = რა მდგომარეობაშია { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } ცდილობს სრულიად გარდაიქმნას, მოიცვას მრავალი დარგი სხვადასხვა დაწესებულებების მეშვეობით, ახლებური გზებით მიაწვდინოს ხალხს ხმა და შექმნას ღია წყაროს მქონე ხელოვნური ინტელექტის ეკოსისტემა. გაეცანით { -brand-name-mozilla }-ს მდგომარეობას 2024 წლის მოხსენებაში.
 # Used as an accessible text alternative for an image
