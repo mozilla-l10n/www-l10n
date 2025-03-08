@@ -118,8 +118,8 @@ m24-home-alt-rise25-proud = საამაყო პრემია { -brand-na
 m24-home-alt-rise25-smiling = { -brand-name-rise25 }-ში თავდაჯერებული მომღიმარი მოსაუბრე.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = სასიხარულო პრემია { -brand-name-rise25 }-ზე.
-m24-home-state-of-mozilla = რა ვითარებაშია { -brand-name-mozilla }
-m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } ხელახლა იგონებს საკუთარ თავს, მრავალრიცხოვანი დაწესებულებების ირგვლივ გამრავალფეროვნებით, ახლებურად წარმოსახავს რეკლამებს და ქმნის ღია წყაროს მქონე ხელოვნური ინტელექტის ეკოსისტემას. იხილეთ ამის შესახებ { -brand-name-mozilla }-ს 2024 წლის მოხსენებაში.
+m24-home-state-of-mozilla = რა მდგომარეობაშია { -brand-name-mozilla }
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } ცდილობს სრულიად გარდაიქმნას, მოიცვას მრავალი დარგი სხვადასხვა დაწესებულებების მეშვეობით, ახლებური გზებით მიაწვდინოს ხალხს ხმა და შექმნას ღია წყაროს მქონე ხელოვნური ინტელექტის ეკოსისტემა. გაეცანით { -brand-name-mozilla }-ს მდგომარეობას 2024 წლის მოხსენებაში.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = განყენებული პიქსელური მხატვრობა მწვანე, ნარინჯისფერ და ვარდისფერ ფერებში
 m24-home-read-the-report = გაეცანით მოხსენებას
@@ -131,7 +131,7 @@ m24-home-alt-pni = გონიერი მოწყობილობები
 m24-home-explore-issues-shaping = გამოიკვლიეთ საკითხები, რომლებიც აყალიბებს ინტერნეტის მომავალს
 m24-home-privacy-not-included = *არ შეიცავს პირადულობას
 m24-home-search-our-reviews = მოიძიეთ ჩვენი მიმოხილვები და იხილეთ, რომელი მოწყობილობები ხელყოფენ თქვენს მონაცემებს უჩუმრად და შეუმჩნევლად.
-m24-home-pni-search-now = ახლავე მოძიება
+m24-home-pni-search-now = მოიძიეთ ახლავე
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = ბრიჯიტ ტოდი, IRL-პოდკასტის წამყვანი.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
