@@ -70,16 +70,16 @@ m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } ეხ
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }-ლოგო.
 m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = მონახეთ თქვენი საჭიროებებისთვის შესაფერისი LLM გამოყენების პირობებითა და მონაცემებით.
+m24-home-find-the-just = მონახეთ LLM თქვენი საჭიროებებისთვის შესაფერისი გამოყენების პირობებითა და მონაცემებით.
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = მარკ სურმანი, { -brand-name-mozilla }-ს ხელმძღვანელი.
 m24-home-can-ai-be = შეიძლება ხელოვნური ინტელექტი იყოს სანდო?
-m24-home-in-a-world = სამყაროში, სადაც ხელოვნურ ინტელექტთან დაკავშირებული სიახლეების დანერგვა ვიწრო ჯგუფის ხელშია, ერთპიროვნული ზედამხედველობის საფრთხის წინაშე ვდგავართ. ღია წყაროს ცნებებს თუ დაუახლოვდება AI, მაშინ შესაძლებელი გახდება ამ ყველაფრის შეცვლა.
+m24-home-in-a-world = სამყაროში, რომელშიც ხელოვნურ ინტელექტთან დაკავშირებული სიახლეების დანერგვა ვიწრო ჯგუფის ხელშია, ერთპიროვნული ზედამხედველობის საფრთხის წინაშე ვდგავართ. ღია წყაროს ცნებებს თუ დაუახლოვდება AI, მაშინ შესაძლებელი გახდება ამ ყველაფრის შეცვლა.
 m24-home-watch-now = უყურეთ ახლავე
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = სცენაზე გამოსული მოსაუბრე ფონზე მრავალი პროდუქტის ლოგოთი.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
-m24-home-got-an-earlystage = წამოწყება გაქვთ, რომელიც ადრეულ საფეხურზეა? წარადგინეთ თქვენი კომპანია და{ -brand-name-mozilla-ventures } უზრუნველყოფს დაფინანსებას, მომავლისა და ხელოვნური ინტელექტის დადებითი კუთხით განვითარებისთვის.
+m24-home-got-an-earlystage = წამოწყება გაქვთ, რომელიც ადრეულ საფეხურზეა? წარადგინეთ თქვენი კომპანია და { -brand-name-mozilla-ventures } უზრუნველყოფს მის დაფინანსებას, მომავლისა და ხელოვნური ინტელექტის დადებითი კუთხით განვითარებისთვის.
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = შემოგვწირეთ თქვენი ხმა, რომ სამეტყველო ტექნოლოგიები გახდეს მეტად საყოველთაო და ხელმისაწვდომი.
 m24-home-donate-your-voice = მოგვაწოდეთ თქვენი ხმის ჩანაწერები
