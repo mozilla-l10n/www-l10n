@@ -13,15 +13,15 @@ m24-about-page-desc = { -brand-name-mozilla } ქმნის ბრაუზე
 ## Intro
 
 m24-about-reclaim-the-internet = დაიბრუნეთ ინტერნეტი ჩვენთან ერთად
-m24-about-mozilla-is-working = { -brand-name-mozilla } მუშაობს, რომ ინტერნეტის მართვა ხალხისთვის დაუბრუნოს.
+m24-about-mozilla-is-working = { -brand-name-mozilla } გამალებით მუშაობს, რომ ინტერნეტის მართვის სადავეები ხალხს დაუბრუნოს.
 
 ## Manifesto
 
-m24-about-together-we-can = ერთად, ჩვენ შეგვიძლია შევინარჩუნოთ მარტივი, უსაფრთხო და თავისუფალი ინტერნეტი — ყველასთვის.
+m24-about-together-we-can = ერთად ჩვენ შეგვიძლია, შევინარჩუნოთ იოლი, უსაფრთხო და თავისუფალი ინტერნეტი — ყველასთვის.
 m24-about-read-our-manifesto = წაიკითხეთ ჩვენი დებულებები
 # Used as an accessible text alternative for an image
-m24-about-a-group-of = მოაზროვნეთა ჯგუფი, იჯდა წრიულად და უზიარებს აზრებს.
-m24-about-advocate = ადვოკატი
+m24-about-a-group-of = მოაზროვნეთა ჯგუფი, იატაკზე წრიულად მსხდომი, იზიარებს მოსაზრებებს.
+m24-about-advocate = დაცვა
 m24-about-we-advocate-for = ჩვენ მხარს ვუჭერთ უკეთესი პროდუქტების შეძენას, მთავრობებისა და ტექკორპორაციების პასუხისმგებლობის მოთხოვნას, რასაც ქმნიან.
 m24-about-research = კვლევა
 # Obsolete string (expires: 2025-02-03)
