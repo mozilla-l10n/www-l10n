@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-refresh-discover-mozilla-products = გაეცანით { -brand-name-mozilla }-ს პროდუქტებსა და წამოწყებებს. გპირდებით, რომ თქვენი ელფოსტა დარჩება პირადი და ხელშეუხებელი – არავითარი გაზიარება და გაყიდვა, მხოლოდ შესანიშნავი სიახლეები.
+footer-refresh-discover-mozilla-products = გაეცანით { -brand-name-mozilla }-ს პროდუქტებსა და წამოწყებებს. გპირდებით, რომ თქვენი ელფოსტა დარჩება პირადი და ხელშეუხებელი – ყოველგვარი გაზიარებისა და გაყიდვის გარეშე, მხოლოდ შესანიშნავი სიახლეების მოსაწოდებლად.
 footer-refresh-leadership = ხელმძღვანელობა
 footer-refresh-advertise = რეკლამა { -brand-name-mozilla }-სთან ერთად
 footer-refresh-firefox-release-notes = { -brand-name-firefox }-ის გამოშვების შენიშვნები

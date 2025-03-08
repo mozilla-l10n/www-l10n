@@ -113,9 +113,9 @@ m24-home-rise25-awards = { -brand-name-rise25 }-ჯილდოები
 m24-home-get-to-know = გაიცანით ხელოვნური ინტელექტის სანდო, ყოვლის მომცველი და გამჭვირვალე სახით შემუშავებაში მოწინავე ხელმძღვანელებს, რომლებიც ქმნიან ახალ სტანდარტებს და შთაგონების წყაროს წარმოადგენენ სიახლეების დანერგვის მსურველი ახალი თაობებისთვის.
 m24-home-watch-the-award = უყურეთ დაჯილდოების წარმოდგენას
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-proud = საამაყო პრემია { -brand-name-rise25 }-ში.
+m24-home-alt-rise25-proud = საამაყო ჯილდო, { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-smiling = { -brand-name-rise25 }-ში თავდაჯერებული მომღიმარი მოსაუბრე.
+m24-home-alt-rise25-smiling = თავდაჯერებული მოღიმარი გამომსვლელი, { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = სასიხარულო პრემია { -brand-name-rise25 }-ზე.
 m24-home-state-of-mozilla = რა მდგომარეობაშია { -brand-name-mozilla }
