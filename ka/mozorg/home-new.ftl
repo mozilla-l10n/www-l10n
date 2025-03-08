@@ -33,7 +33,7 @@ home-work-on-ai = { -brand-name-mozilla }-ს მუშაობა AI-სთა
 home-read-more = ვრცლად
 home-so-what-is-mozilla = მაშ, რა არის { -brand-name-mozilla }?
 # Obsolete string (expires: 2025-01-05)
-home-at-its-core = სინამდვილეში, { -brand-name-mozilla } არის აქტივისტი ორგანიზაცია, { -brand-name-mozilla-foundation }-ის ხელმძღვანელობით, რომელიც ცვლის სამყაროს სხვადასხვა წამოწყებით, მათ შორის { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> და <a { $mozai }>{ -brand-name-mozilla-ai }</a>. რითი განვსხვავდებით? ვინაიდან ჩვენ ვხელმძღვანელობთ მისიით, ეს ნიშნავს, რომ გვაქვს თავისუფლება, მივიღოთ გადაწყვეტილებები იმის საფუძველზე, რაც უკეთესია ინტერნეტისა და ყველასთვის ინტერნეტისთვის, და არა აქციონერების მოთხოვნების საფუძველზე – არცერთი ასეთი არა გვაქვს.
+home-at-its-core = თავისი არსით { -brand-name-mozilla } მებრძოლი დაწესებულებაა, რომელსაც ხელმძღვანელობს{ -brand-name-mozilla-foundation } და რომელიც ცდილობს სამყაროს გარდაქმნას მრავალი სახის დაწესებულებით, რომელთა შორისაცაა { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> და <a { $mozai }>{ -brand-name-mozilla-ai }</a>. რით გამოვირჩევით? ვინაიდან ჩვენ ვხელმძღვანელობთ მიზნით, ეს ნიშნავს, რომ გვაქვს თავისუფლება, მივიღოთ გადაწყვეტილებები იმისდა მიხედვით, რა იქნება უმჯობესი ინტერნეტისა და მისი მომხმარებლებისთვის, ნაცვლად აქციონერების მოთხოვნებისა – ვინაიდან ასეთი არავინ გვყავს.
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/
@@ -52,6 +52,6 @@ home-featured-product = გამორჩეული პროდუქტი
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = მდებარეობისა და მოქმედებების დასაფარად გამოიყენეთ <span>{ -brand-name-mozilla-vpn }</span>
 # Mozilla Foundation donation promo
-home-mofo-build-our-movement = ააწყვეთ ჩვენი მოძრაობა
-home-mofo-donate-to-mofo-today = შემოწირულობა { -brand-name-mozilla-foundation }-ში დღესვე უზრუნველვყოფთ, რომ ინტერნეტი დარჩეს გახსნილი და საყოველთაოდ ხელმისაწვდომი.
-home-mofo-donate = შემოწირულობა
+home-mofo-build-our-movement = ააშენეთ ჩვენი მოძრაობა
+home-mofo-donate-to-mofo-today = გაიღეთ თანხა ახლავე, რომ { -brand-name-mozilla-foundation } განუწყვეტლივ ზრუნავდეს ინტერნეტის საყოველთაო გახსნილობისთვის.
+home-mofo-donate = შეგვეწიეთ
