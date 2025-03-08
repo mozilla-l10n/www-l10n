@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/
 
 # HTML page title
-firefox-products-mozilla-products = { -brand-name-mozilla }-ს პროდუქცია
+firefox-products-mozilla-products = { -brand-name-mozilla }-ს პროდუქტები
 # HTML page description
 firefox-products-mozillas-family-of-products = { -brand-name-mozilla } პროდუქტების სრული ნაკრები განკუთვნილია ინტერნეტში უსაფრთხო და მოხერხებული საქმიანობისთვის
 firefox-products-products = პროდუქტები
