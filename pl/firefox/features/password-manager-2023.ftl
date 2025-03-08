@@ -18,7 +18,7 @@ password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } mo�
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = Obraz formularza logowania do witryny z { -brand-name-firefox(case: "dat") } pokazujący wiele zapisanych kont, spośród których można wybierać podczas logowania.
 password-manager-import-passwords = Import haseł
-password-manager-you-can-use-the-import-wizard = Możesz użyć kreatora importu, aby magicznie łatwo zaimportować nazwy użytkowników i hasła przechowywane w Chrome, Edge, Safari lub innych przeglądarkach. Wybierz Plik z górnego menu, a następnie kliknij „Importuj z innej przeglądarki…”.
+password-manager-you-can-use-the-import-wizard = Możesz użyć kreatora importu, aby magicznie łatwo zaimportować do { -brand-name-firefox(case: "gen") } nazwy użytkowników i hasła przechowywane w Chrome, Edge, Safari lub innych przeglądarkach. Wybierz Plik z górnego menu, a następnie kliknij „Importuj z innej przeglądarki…”.
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = Obraz okna dialogowego kreatora importu { -brand-name-firefox(case: "gen") } przedstawiający opcje importowania ustawień i danych z innych przeglądarek.
 password-manager-no-more-reusing-your-passwords = Koniec z używaniem tego samego hasła
