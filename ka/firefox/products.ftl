@@ -9,9 +9,9 @@
 firefox-products-mozilla-products = { -brand-name-mozilla }-ს პროდუქტები
 # HTML page description
 firefox-products-mozillas-family-of-products = { -brand-name-mozilla } პროდუქტების სრული ნაკრები განკუთვნილია ინტერნეტში უსაფრთხო და მოხერხებული საქმიანობისთვის
-firefox-products-products = პროდუქტები
+firefox-products-products = ნამუშევრები
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } მხოლოდ დასაწყისია.
-firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla }-ს პროდუქტების ოჯახი, ყველა შექმნილია იმისთვის, რომ იყოთ მეტად უსაფრთხოდ და მოხერხებულად ინტერნეტში.
+firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla }-ს პროდუქტების ოჯახი შექმნილია იმისთვის, რომ თავი იგრძნოთ მეტად უსაფრთხოდ და მოხერხებულად ინტერნეტში.
 
 ## Firefox
 
@@ -44,13 +44,13 @@ firefox-products-get-mozilla-vpn = გამოიყენეთ { -brand-name-
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
-firefox-products-resources-for-developers = მასალები შემმუშავებლებისთვის, შემმუშავებლების მიერ. მხარი დაუჭირეთ { -brand-name-mdn }-ს და გახადეთ თქვენებური კრებულებით, შეტყობინებებითა და მოედნებით.
+firefox-products-resources-for-developers = მასალები შემმუშავებლებისთვის შემმუშავებლებისგან. მხარი დაუჭირეთ { -brand-name-mdn }-ს და მეტად თქვენებური გახადეთ კრებულებით, შეტყობინებებითა თუ სამუშაო სივრცეების მოწყობით.
 firefox-products-support-mdn = { -brand-name-mdn }-ის მხარდაჭერა
 
 ## Thunderbird
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
-firefox-products-access-all = მიიღეთ წვდომა თქვენს ყველა თქვენს ელფოსტაზე, კალენდარზე და ჯგუფზე, ერთი სწრაფი აპით. გაფილტრეთ და დაალაგეთ თქვენი სურვილისამებრ.
+firefox-products-access-all = მიიღეთ წვდომა თქვენს ყველა ელფოსტასთან, კალენდარსა თუ თანამშრომლებთან ერთი სწრაფი პროგრამით. გამოარჩიეთ და დაალაგეთ სურვილისამებრ.
 firefox-products-download-thunderbird = ჩამოტვირთეთ { -brand-name-thunderbird }
 
 ## Fakespot
@@ -59,7 +59,7 @@ firefox-products-fakespot = { -brand-name-fakespot }
 # scam artists are people who are trying to sell fakes or steal money
 # 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
 firefox-products-fakespot-has-your = { -brand-name-fakespot } გვერდში გიდგათ საყიდლების შეძენისას — აცილებს თაღლითების ნამოქმედარს და გაპოვნინებთ საუკეთესო გარიგებებს. შემქმნელია { -brand-name-mozilla }.
-firefox-products-analyze = URL-ს გაანალიზება
+firefox-products-analyze = URL-ბმულის შემოწმება
 
 ## Pocket
 
