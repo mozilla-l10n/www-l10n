@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
+what-is-firefox = Czym jest { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
