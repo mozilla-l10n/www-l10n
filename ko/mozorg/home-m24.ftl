@@ -89,9 +89,33 @@ m24-home-donate-your-voice = 목소리 기부하기
 m24-home-type = 유형
 m24-home-author = 제작자
 m24-home-topic = 주제
+m24-home-intro = 소개
+m24-home-tag-article = 글
+m24-home-tag-podcast = 팟캐스트
+m24-home-tag-video = 동영상
+m24-home-topic-news = 뉴스
+m24-home-topic-ai = 인공 지능
+m24-home-topic-ps = 개인정보 보호 및 보안
+# Obsolete string (expires: 2025-02-03)
+m24-home-headline-you-ai = 제목: 당신, AI 그리고 인터넷 — 무슨 일이 일어나고 있는 건가요?
+m24-home-headline-you-ai-v2 = 당신, AI 그리고 인터넷 — 무슨 일이 일어나고 있는 건가요?
+m24-home-introducing-anonym = { -brand-name-anonym } 소개: 개인 정보를 보호하는 디지털 광고의 기준을 높입니다.
+m24-home-keeping-genai-technologies = GenAI 기술을 안전하게 유지하는 것은 공통의 책임입니다.
+m24-home-from-hollywood-to = 헐리우드에서 힙합에 이르기까지 아티스트들은 AI 동의를 협상하고있습니다.
+m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla }는 혁신적인 제작자의 새로운 다큐 시리즈 “{ -brand-name-firefox } 프레젠테이션”을 축하합니다.
+m24-home-big-techs-power = 언어에 대한 빅 테크의 힘은 사람을 지배하는 힘을 의미합니다. 브리짓 토드가 자국어와 방언으로 음성 AI의 길을 여는 언어 커뮤니티 리더들과 이야기합니다.
+m24-home-why-does-it = 왜 우리가 대량 AI 실험의 일부인 것처럼 느껴지나요? 새로운 기술을 책임있게 테스트하는 방법은 무엇인가요? 브리짓 토드가 수백만의 사람들에게 영향을 미치는 검증되지 않은 AI 시스템을 가지고 살아가는 것이 어떤 의미인지를 탐구합니다.
+m24-home-kids-are-growing = 아이들은 온라인에 둘러쌓인 세상에서 성장합니다. 걱정되는 부모는 무엇을 해야 하나요?
 
 ## Showcase
 
+m24-home-rise25-awards = { -brand-name-rise25 } 수상
+m24-home-get-to-know = 신뢰할 수 있고, 포용적이며, 투명한 AI 개발을 주도하고 새로운 표준을 설정하고 차세대 혁신가에게 영감을 주는 리더에 대해 알아보세요.
+m24-home-watch-the-award = 시상식 보기
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = { -brand-name-rise25 }의 자랑스러운 수상자입니다.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = 자신있게 미소 짓는 연사 { -brand-name-rise25 }.
 
 ## Issues
 

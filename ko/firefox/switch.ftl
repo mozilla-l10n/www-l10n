@@ -23,6 +23,8 @@ switch-enjoy-the-web-faster = 빠르게 웹을 즐길 준비가 되었습니다.
 switch-download-and-switch = 다운로드하고 전환
 switch-share-to-facebook = Facebook에 공유
 switch-share-to-facebook-updated = { -brand-name-facebook } 에 공유하기
+# Note: Bluesky is a brand name and should not be translated
+switch-share-to-bluesky = Bluesky에 공유
 switch-hey = 여러분,
 switch-check-it-out = 확인 해 보시고 여러분의 생각을 알려주세요:
 switch-send-an-email = 메일 보내기

@@ -84,6 +84,7 @@ firefox-developer-view-the-release = 새로운 기능을 살펴보려면 <a { $a
 firefox-developer-developer-tools-user = 개발자 도구 사용자 문서
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = 개발자에 의한, 개발자를 위한 리소스
+firefox-developer-mdn-playground = 플레이그라운드
 firefox-developer-mdn-blog = { -brand-name-mdn } 블로그
 firefox-developer-mdn-updates = 업데이트
 # Obsolete string (expires 18-04-2025)

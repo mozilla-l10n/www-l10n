@@ -17,6 +17,7 @@ what-is-firefox = { -brand-name-firefox }가 무엇인가요?
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser }는 주요 브라우저들 가운데 유일하게 사용자가 자신의 개인 정보를 보호하도록 도우며, 광고주들에게 개인 정보를 판매하지 않는 비영리 단체가 만드는 브라우저입니다. <a href="{ $url }">{ -brand-name-firefox-browsers }</a> 및 <a href="{ $url2 }">기타 애플리케이션들</a>에 대해 더 알아보세요.
+the-firefox-browser-the-only = 비영리 단체가 지원하는 유일한 주요 브라우저인 { -brand-name-firefox-browser }는 개인 정보 보호를 도와드립니다. <a href="{ $url }">{ -brand-name-firefox-browsers }</a>와 <a href="{ $url2 }">기타 제품들</a>에 대해 더 알아보세요.
 how-do-i = 어떻게 { -brand-name-firefox-browser }를 받을 수 있나요?
 
 # Variables:
@@ -30,6 +31,7 @@ you-can-easily = <a href="{ $url }">여기</a>를 클릭하여 { -brand-name-fir
 is-firefox-free = { -brand-name-firefox }는 무료인가요?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = 네! { -brand-name-firefox-browser }는 무료입니다. 정말로 무료입니다. 숨겨진 비용 따위는 없습니다. 여러분은 { -brand-name-firefox-browser }를 사용하기 위해 어떤 비용도 지불하지 않아도 되며, 우리는 여러분의 개인정보를 팔지 않습니다.
+yep-the-firefox-browser-is-free = 네! { -brand-name-firefox-browser }는 무료입니다. 정말로 무료입니다. 숨겨진 비용 따위는 없습니다.  { -brand-name-firefox-browser }를 사용하기 위해 어떤 비용도 지불하지 않아도 됩니다.
 related-questions-free = 관련 질문: { -brand-name-firefox-browser }는 무료이며 { -brand-name-firefox }는 비용이 드나요?
 is-chrome-better = { -brand-name-chrome }이 { -brand-name-firefox }보다 나은가요?
 no-we-dont = 아니요, 우리는 { -brand-name-chrome }이 { -brand-name-firefox }보다 낫다고 생각하지 않습니다. 그 이유는 다음과 같습니다. 사람들이 어떤 브라우저가 더 나은지 물을 때 사람들이 실제로 궁금해 하는 것은 어떤 브라우저가 더 빠르고 안전한가 입니다. { -brand-name-firefox }는 사용자가 개인정보를 중요하게 생각하는 가장 빠른 브라우저를 사용 할 수 있도록 매월 자동으로 업데이트됩니다.
