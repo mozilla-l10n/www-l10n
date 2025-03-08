@@ -11,25 +11,25 @@ home-mission-driven = მუდამ მიზნისკენ მავა�
 home-were-not-normal = ჩვენ არ ვართ რიგითი ტექკომპანია. ჩვენი ქმნილებებისთვის უპირატესია ხალხი, მათი პირადულობა, ნაცვლად მოგების მიღებისა. ჩვენ ვარსებობთ იმისთვის, რომ ინტერნეტი გავხადოთ მეტად ჯანსაღი და ხელსაყრელი ყველასთვის.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = „სიჯანსაღე ინტერნეტისა და ვებსმყაროსი სწორედ ისაა, რისთვისაც ვარსებობთ“.
-home-mitchell-baker-v2 = მიტჩელ ბეიკერი, გამგეობის აღმასრულებელი თავმჯდომარე, { -brand-name-mozilla-foundation }
+home-mitchell-baker-v2 = მიტჩელ ბეიკერი, საბჭოს აღმასრულებელი თავმჯდომარე, { -brand-name-mozilla-foundation }
 home-mozilla-makes-privacy = { -brand-name-mozilla } ქმნის პირადულობის უზრუნველმყოფ პროდუქტებს
 home-product-firefox-browsing = პირადი და უსაფრთხო თვალიერება
 home-cta-get-firefox = გადმოწერეთ { -brand-name-firefox }
 home-product-pocket-articles = ცნობისმოყვარეობის აღმძვრელი სტატიები
 home-cta-get-pocket = გამოიყენეთ { -brand-name-pocket }
-home-product-relay-hide-your = დაფარეთ თქვენი ტელეფონის ნომერი და ელფოსტა სპამისგან
+home-product-relay-hide-your = დაფარეთ თქვენი ტელეფონის ნომერი და ელფოსტა სარეკლამოებისგან
 home-cta-get-relay = გამოცადეთ { -brand-name-relay }
 home-product-vpn-trust = VPN, რომელსაც ენდობით
 home-cta-get-vpn = ჩართეთ { -brand-name-mozilla-vpn }
-home-product-monitor-protect-your = დაიცავით თქვენი პირადი ინფორმაცია მონაცემთა ბროკერებისგან
+home-product-monitor-protect-your = დაიცავით თქვენი პირადი ინფორმაცია მონაცემთა გადამყიდველებისგან
 home-cta-get-monitor = გამოიყენეთ { -brand-name-monitor }
-home-product-fakespot-detect = აღმოაჩინეთ ყალბი საყიდლების მიმოხილვები
+home-product-fakespot-detect = აღმოაჩინეთ საყიდლების ყალბი მიმოხილვები
 home-cta-get-fakespot = გამოიყენეთ { -brand-name-fakespot }
 home-mozilla-takes-bets = „{ -brand-name-mozilla }-ს განზრახული აქვს, მსოფლიოს დაუმტკიცოს, რომ საქმის კეთება შეიძლება ნდობის მქონე ხელოვნური ინტელექტის მეშვეობითაც. ეს კი გულისხმობს, რომ ადამიანის უფლებების დაცვა, მონაცემთა უსაფრთხოება და გამჭვირვალობა უნდა დაედოს საფუძვლად ამგვარი რთული სისტემების შემუშავებას“.
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
-home-join-us-in-shaping = შემოგვიერთდით, სანდო ხელოვნური ინტელექტის ჩამოყალიბებაში
-home-work-on-ai = { -brand-name-mozilla }-ს მუშაობა AI-სთან ახალი არ არის — ჩვენ წლები ვხარჯავთ ხელოვნური ინტელექტის დაფინანსებას, მშენებლობას და მხარდაჭერისთვის, რომელიც ყოფილიყო გახსნილი, პატიოსანი და პასუხისმგებლობით განვითარებული. ჩვენი ყურადღება კეთდება ისეთი ხელოვნური ინტელექტის შექმნაზე, რომელიც ემსახურება ხალხს, გამჭვირვალობასა და საზოგადოებრივ კეთილდღეობას უზრუნველყოფს და არა კორპორაციული მიზნებისკენ.
+home-join-us-in-shaping = შემოგვიერთდით სანდო ხელოვნური ინტელექტის ჩამოყალიბებაში
+home-work-on-ai = { -brand-name-mozilla }-ს მუშაობა AI-სთან სიახლე არაა — ჩვენ წლები განვლეთ ღია, სამართლიანი და პასუხისმგებლობის მქონე ხელოვნური ინტელექტის დაფინანსებაში, შემუშავებასა და მხარდაჭერაში. ჩვენი ყურადღება მიმართულია იმგვარი ხელოვნური ინტელექტის შექმნაზე, რომელიც მოემსახურება ხალხს, გამჭვირვალობასა და საზოგადოებრივ კეთილდღეობას, ნაცვლად კერძო კომპანიების მიზნებისა.
 home-read-more = ვრცლად
 home-so-what-is-mozilla = მაშ, რა არის { -brand-name-mozilla }?
 # Obsolete string (expires: 2025-01-05)
