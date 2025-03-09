@@ -9,7 +9,7 @@ footer-refresh-firefox-release-notes = Informacje o wydaniu { -brand-name-firefo
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
-footer-refresh-follow-mozilla = Obserwuj @{ -brand-name-mozilla(case: "gen") }
+footer-refresh-follow-mozilla = Obserwuj @{ -brand-name-mozilla }
 footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
@@ -32,3 +32,12 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Narzędzia
 footer-refresh-donate = Przekaż datek
+footer-refresh-visit-mozilla-corporations = Odwiedź <a { $mofo_link }>{ -brand-name-mozilla-foundation(case: "acc") }</a>, nadrzędną organizację non-profit <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
+footer-refresh-portions-of-this-content = Fragmenty treści tej witryny: ©1998–{ $current_year }. Prawa autorskie należą do poszczególnych współtwórców witryny mozilla.org. Treść strony dostępna na <a rel="license" { $href }">licencji { -brand-name-creative-commons }</a>.
+footer-refresh-websites-privacy-notice = Zasady ochrony prywatności
+footer-refresh-websites-cookies = Ciasteczka
+footer-refresh-websites-legal = Podstawa prawna
+footer-refresh-community-participation-guidelines = Wytyczne dotyczące uczestnictwa w społeczności
+footer-refresh-about-this-site = Informacje o tej witrynie
+footer-refresh-all-languages = Wszystkie języki
+footer-refresh-language = Język
