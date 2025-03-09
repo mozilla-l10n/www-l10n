@@ -7,4 +7,5 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-mdn-offline = { -brand-name-mdn } offline
 developer-mdnplus-resources-for-developers = Zasoby dla deweloperów, od deweloperów.

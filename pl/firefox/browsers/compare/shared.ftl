@@ -14,6 +14,10 @@ compare-shared-firefox-also-has-built-in = { -brand-name-firefox } ma również 
 # Variables
 # $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
 compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Edytuj pliki PDF</a> gdziekolwiek jesteś, w oknie przeglądarki { -brand-name-firefox } — bez konieczności instalowania dodatkowego oprogramowania.
+# Variables
+# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+compare-shared-translate-a-web-page = <a { $translate }>Tłumacz strony internetowe</a> lokalnie i prywatnie.
+compare-shared-its-easy-to-switch = Łatwo zmienić przeglądarkę
 compare-shared-since-we-dont-have-to-make = Ponieważ nie musimy uszczęśliwiać akcjonariuszy, możemy skupić się na <strong>Tobie</strong> i zawsze na pierwszym miejscu stawiać Twoją prywatność i wygodę.
 # Used as a small link to a cited source
 compare-shared-source = Źródło
