@@ -22,6 +22,8 @@ the-firefox-browser = { -brand-name-firefox-browser } to jedyna duża przegląda
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = Czy { -brand-name-firefox } jest darmowy?
+# Obsolete string (expires 25-04-2025)
+yep-the-firefox = Tak! { -brand-name-firefox-browser } jest darmowy, właściwie super darmowy. Bez żadnych ukrytych kosztów. Nie płacisz nic, aby go używać, a my nie sprzedajemy twoich danych osobowych.
 is-chrome-better = Czy { -brand-name-chrome } jest lepszy niż { -brand-name-firefox }?
 no-we-dont = Nie, uważamy, że { -brand-name-chrome } nie jest lepszy od { -brand-name-firefox(case: "gen") }, ponieważ gdy ludzie pytają, która przeglądarka jest lepsza, to tak naprawdę pytają, która przeglądarka jest szybsza i bezpieczniejsza. { -brand-name-firefox } jest aktualizowany co miesiąc, by zapewnić ci najszybszą przeglądarkę, która domyślnie szanuje twoją prywatność.
 
