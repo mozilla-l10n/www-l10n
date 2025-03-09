@@ -36,6 +36,8 @@ no-we-dont = Nie, uważamy, że { -brand-name-chrome } nie jest lepszy od { -bra
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
+# Obsolete string (expires 25-04-2025)
+does-firefox-sell = Czy { -brand-name-firefox } sprzedaje twoje dane osobowe?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
