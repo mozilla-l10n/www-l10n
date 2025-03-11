@@ -85,6 +85,7 @@ firefox-developer-developer-tools-user = Tembiporu mboguataha poruhárape g̃uar
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Mba’eita mboguatahárape g̃uarã, mboguatahára rupi
 firefox-developer-mdn-playground = Tenda ñembosaraiha
+firefox-developer-mdn-write-test-and-share = Ehai, eiporu ha emoherakuã nde ayvu. Ne ñembosaraiha eikuaa ha emoherakuã ne rembiapo arapy ndive.
 firefox-developer-mdn-blog = { -brand-name-mdn } Blog
 firefox-developer-mdn-updates = Ñembohekopyahu
 # Obsolete string (expires 18-04-2025)
