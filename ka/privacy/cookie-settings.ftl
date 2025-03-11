@@ -23,7 +23,7 @@ cookie-settings-turn-on-javascript = გთხოვთ, ჩართოთ Java
 cookie-settings-category-necessary-heading = აუცილებელი
 cookie-settings-category-necessary-what-are-subheading = რას ეწოდება აუცილებელი ფუნთუშები?
 cookie-settings-category-necessary-what-are-desc = ამგვარი საშუალებები საჭიროა ვებსაიტის ძირითადი შესაძლებლობების ასამუშავებლად, მათ შორის საიტის დაცულ არეში ანგარიშით შესვლისთვის ან საყიდლების კალათაში დამატებისთვის, შესაბამისად, ვერ გაითიშება.
-cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } იყენებს აუცილებელ ფუნთუშებს მხოლოდ ვებსაიტის ძირითადი შესაძლებლობების უზრუნველსაყოფად, როგორიცაა { -brand-name-mozilla-account(case: "loc") } შესვლა ან გამოწერის შეძენა. ამგვარი საშუალებების გარეშე ვებსაიტის ძირითადმა შესაძლებლობებმა შეიძლება ვერ იმუშაოს.
+cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } იყენებს აუცილებელ ფუნთუშებს მხოლოდ ვებსაიტის ძირითადი შესაძლებლობების უზრუნველსაყოფად, როგორიცაა { -brand-name-mozilla-account(case: "loc") } შესვლა ან გამოწერის შეძენა. აღნიშნული საშუალებების გარეშე ვებსაიტის ძირითადმა შესაძლებლობებმა შეიძლება ვერ იმუშაოს.
 
 ## Preference cookies section
 
@@ -42,7 +42,7 @@ cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } ი�
 ## Consent section
 
 cookie-settings-your-consent-heading = თქვენი თანხმობა
-cookie-settings-your-consent-desc = ფუნთუშებზე თანხმობით, თქვენი თანხმობა მიიღება იმ ვებსაიტების { -brand-name-mozilla }-ს მოცემულ სიაზე, რომლებიც მონაცემთა დაცვის ერთნაირი მკაცრ სტანდარტებს ექვემდებარება. გთხოვთ გაითვალისწინოთ, რომ ეს სია შესაძლოა დროთა განმავლობაში განახლდეს.
+cookie-settings-your-consent-desc = ფუნთუშებზე თანხმობის შედეგად, თქვენი ნებართვით ისარგებლებს { -brand-name-mozilla } ვებსაიტების მოცემულ ჩამონათვალზე, რომელთაგანაც ყველა იზიარებს ერთსა და იმავე მკაცრ მიდგომას მონაცემთა პირადულობის კუთხით. გთხოვთ გაითვალისწინოთ, რომ ეს ჩამონათვალი შეიძლება დროდადრო განახლდეს.
 
 ## Privacy section
 
