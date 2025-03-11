@@ -37,12 +37,13 @@ no-we-dont = Nie, uważamy, że { -brand-name-chrome } nie jest lepszy od { -bra
 
 see-how-firefox = <a href="{ $url }">Zobacz jak { -brand-name-firefox } wypada w porównaniu z { -brand-name-chrome }</a>
 related-questions-better = Powiązane pytania: czy { -brand-name-firefox } jest lepszy niż { -brand-name-chrome }, czy { -brand-name-firefox } jest lepszy niż { -brand-name-google }, czy { -brand-name-firefox } jest bezpieczniejszy niż { -brand-name-chrome }, czy { -brand-name-firefox } jest bardziej prywatny niż { -brand-name-chrome }
-is-firefox-safe-download = Czy { -brand-name-firefox } można bezpiecznie pobrać?
+is-firefox-safe-download = Czy { -brand-name-firefox(case: "gen") } można bezpiecznie pobrać?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
 protecting-your-privacy = Ochrona twojej prywatności to nasz największy priorytet i zapewniamy, że instalacja { -brand-name-firefox(case: "gen") } na twoich urządzeniach jest zupełnie bezpieczna — ale zawsze upewnij się, że pobierasz z zaufanej witryny { -brand-name-mozilla }/{ -brand-name-firefox }, jak <a href="{ $url }">nasza strona pobierania</a>.
+is-firefox-safe = Czy { -brand-name-firefox } jest bezpieczny?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
@@ -55,11 +56,17 @@ does-firefox-sell = Czy { -brand-name-firefox } sprzedaje twoje dane osobowe?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+why-is-firefox = Dlaczego { -brand-name-firefox } jest tak powolny?
+is-firefox-chromium = Czy { -brand-name-firefox } jest oparty na { -brand-name-chromium }?
+firefox-is-not = { -brand-name-firefox } nie jest oparty na { -brand-name-chromium } (projekcie open-source przeglądarki, która jest rdzeniem { -brand-name-google } { -brand-name-chrome }). W zasadzie jesteśmy jedną z ostatnich znanych przeglądarek, które nie są. { -brand-name-firefox } jest oparty o nasz silnik przeglądarki Quantum, stworzony specjalnie na potrzeby { -brand-name-firefox(case: "gen") }, dzięki czemu możemy zapewnić, że twoje dane są traktowane z szacunkiem i pozostają prywatne.
+does-firefox-use = Czy { -brand-name-firefox } używa { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } to domyślna wyszukiwarka w { -brand-name-firefox(case: "loc") }, co oznacza, że możesz przeszukiwać sieć prosto z paska adresu. <a href="{ $url }">Dowiedz się więcej o preferencjach wyszukiwarek i zmianie ustawień domyślnych.</a>
 does-firefox-have = Czy { -brand-name-firefox } ma wbudowanego VPN-a?
+related-questions-ip = Powiązane pytania: czy { -brand-name-firefox } ukrywa Twój adres IP?
 who-owns-firefox = Kto jest właścicielem { -brand-name-firefox(case: "gen") }?
 
 # Variables:

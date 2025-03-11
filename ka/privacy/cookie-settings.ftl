@@ -23,7 +23,7 @@ cookie-settings-turn-on-javascript = გთხოვთ, ჩართოთ Java
 cookie-settings-category-necessary-heading = აუცილებელი
 cookie-settings-category-necessary-what-are-subheading = რას ეწოდება აუცილებელი ფუნთუშები?
 cookie-settings-category-necessary-what-are-desc = ამგვარი საშუალებები საჭიროა ვებსაიტის ძირითადი შესაძლებლობების ასამუშავებლად, მათ შორის საიტის დაცულ არეში ანგარიშით შესვლისთვის ან საყიდლების კალათაში დამატებისთვის, შესაბამისად, ვერ გაითიშება.
-cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } იყენებს საჭირო ფუნთუშებს მხოლოდ ვებსაიტის ძირითადი შესაძლებლობების უზრუნველსაყოფად, როგორიცაა { -brand-name-mozilla-account(case: "gen") } შესვლა ან ხელმოწერის შეძენა, ანგარიშის შეძენისას. ამ ტექნოლოგიების გარეშე ვებსაიტის ძირითადმა ფუნქციებმა შეიძლება ვერ იმუშაოს.
+cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } იყენებს აუცილებელ ფუნთუშებს მხოლოდ ვებსაიტის ძირითადი შესაძლებლობების უზრუნველსაყოფად, როგორიცაა { -brand-name-mozilla-account(case: "loc") } შესვლა ან გამოწერის შეძენა. ამგვარი საშუალებების გარეშე ვებსაიტის ძირითადმა შესაძლებლობებმა შეიძლება ვერ იმუშაოს.
 
 ## Preference cookies section
 
