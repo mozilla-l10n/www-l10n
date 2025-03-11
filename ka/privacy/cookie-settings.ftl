@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
 
-cookie-settings-page-title = ფუნთუშის პარამეტრები
+cookie-settings-page-title = ფუნთუშების გამართვა
 cookie-settings-page-desc = ამ გვერდზე აღწერილია სხვადასხვა სახის ფუნთუშები, რომელთაც შეიძლებდა იყენებდეს { -brand-name-mozilla } და საშუალება გაქვთ, თავად განსაზღვროთ, თუ რა სახის მონაცემების შეგროვებას შეძლებს { -brand-name-mozilla }.
 cookie-settings-breadcrumb-link = წინა გვერდი
 cookie-settings-explainer = ფუნთუშები წარმოადგენს გარკვეული მონაცემების შემცველ მცირე ფაილებს, რომლებიც ინახება თქვენს კომპიუტერში ან მოწყობილობაში საიტის მონახულებისას. { -brand-name-mozilla } იყენებს ფუნთუშებს ჩვენი ვებსაიტების მუშაობის დასახვეწად, ასევე აღრიცხავს, თუ როგორ იყენებთ ან ურთიერთქმედებთ ვებსაიტებთან, მათ შორის გვერდის ჩატვირთვას.
@@ -47,5 +47,5 @@ cookie-settings-your-consent-desc = ფუნთუშებზე თანხ�
 ## Privacy section
 
 cookie-settings-privacy-heading = ჩვენი პირადულობის განაცხადი
-cookie-settings-privacy-desc = დაწვრილებითი ინფორმაციის მისაღებად, სხვადასხვა სახის ინფორმაციის შესახებ, რომელსაც { -brand-name-mozilla } აგროვებს ჩვენს საიტებზე მონახულებისას, შეგიძლიათ იხილოთ ჩვენი პირადულობის დაცვის განაცხადის ბმული ქვემოთ.
-cookie-settings-privacy-policy-link = პირადი მონაცემების დაცვის დებულება
+cookie-settings-privacy-desc = დაწვრილებით, თუ რა სახის მონაცემებს აგროვებს { -brand-name-mozilla } ჩვენი საიტების მონახულებისას, შეგიძლიათ იხილოთ ჩვენი პირადულობის დაცვის განაცხადის ბმულზე ქვემოთ.
+cookie-settings-privacy-policy-link = პირადულობის განაცხადი
