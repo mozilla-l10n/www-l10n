@@ -27,9 +27,9 @@ cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } �
 
 ## Preference cookies section
 
-cookie-settings-category-preference-heading = პარამეტრები
-cookie-settings-category-preference-what-are-subheading = რა არის Preference Cookies?
-cookie-settings-category-preference-what-are-desc = ეს ტექნოლოგიები გამოიყენება საიტზე წინა შესვლისას გაკეთებული არჩევანის დასამახსოვრებლად. მაგალითები შეიძლება მოიცავდეს, თუ რომელ ენაზე გირჩევნიათ კითხვა, ან რომელი ფერის გაფორმებაა სასურველი.
+cookie-settings-category-preference-heading = თვისებრივი
+cookie-settings-category-preference-what-are-subheading = რას ეწოდება თვისებრივი ფუნთუშები?
+cookie-settings-category-preference-what-are-desc = ამგვარი საშუალებები გამოიყენება საიტზე წინა შესვლისას არჩეული მახასიათებლების დასამახსოვრებლად. მაგალითად შეიძლება მოიცავდეს, თუ რომელ ენაზე გირჩევნიათ კითხვა ან როგორი გაფორმებაა თქვენთვის მეტად სასურველი.
 cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } იყენებს პარამეტრების ფუნთუშებს, თქვენი პარამეტრების გასაუმჯობესებლად და ჩვენს საიტებზე მონახულებისას. ისინი არ გამოიყენება ანალიტიკური მიზნებისთვის. Preference Cookies-ს გააჩნია საჭირო შესაძლებლობების მსგავსად, რაც აუცილებელია, თუმცა ვებსაიტს მაინც შეუძლია მათ გარეშე მუშაობა. შედეგად, შეგიძლიათ უარი თქვათ მათ გამოყენებაზე.
 
 ## Analytics cookies section
