@@ -41,6 +41,7 @@ m24-home-mask-your-email = Zakrijte svoj e-poštni naslov in telefonsko številk
 ## Donate
 
 m24-home-donate-to-the = Donirajte neprofitni organizaciji { -brand-name-mozilla }
+m24-home-mozilla-is-building = { -brand-name-mozilla } vodi gibanje za povrnitev interneta v roke njegovih uporabnikov. Skupaj lahko zgradimo prihodnost, v kateri je naša zasebnost zaščitena, umetna inteligenca vredna zaupanja, tehnološka podjetja pa odgovarjajo za svoja dejanja. A to bo mogoče le, če se povežemo.
 m24-home-were-proudly-nonprofit = Smo ponosno neprofitni. Bi prispevali donacijo za { -brand-name-mozilla(sklon: "tozilnik") } danes?
 m24-home-donate = Donirajte
 

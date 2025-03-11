@@ -25,4 +25,4 @@ about-get-involved = പങ്കെടുക്കുക
 ## Newsletter
 
 about-get-the-mozilla-newsletter = { -brand-name-mozilla } വാൎത്തക്കുറിപ്പു് നേടുക
-about-subscribe = അംഗത്വം നേടുക
+about-subscribe = വരിക്കാരാവുക
