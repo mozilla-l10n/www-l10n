@@ -28,7 +28,7 @@ privacy-faq-v2-it-seems-like = Myslím, že každá internetová společnost kup
 # Variables:
 #   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
 privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } neprodává žádná vaše data (způsobem, jak si většina lidí pod pojmem „prodej dat“) myslí, a ani vaše data nekupujeme. Protože se snažíme o transparentnost a PRÁVNÍ definice „prodeje dat“ je na některých místech extrémně široká, museli jsme ustoupit od definitivních tvrzení, která znáte a máte rádi. Stále pracujeme na tom, aby data, která sdílíme s našimi partnery (které potřebujeme pro komerční využití { -brand-name-firefox(case: "gen") }), byla zbavena jakýchkoliv informací umožňujících identifikaci nebo sdílena pouze v agregované nebo procházejí našimi technologiemi pro ochranu soukromí (jako <a { $attrs }>OHTTP</a>).
-privacy-faq-v2-wait-so-how = Ale jak potom vyděláváte?
+privacy-faq-v2-wait-so-how = Počkejte, jak tedy vyděláváte peníze?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org
 privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } není průměrná organizace. { -brand-name-mozilla } byla založena jako komunitní open source projekt v roce 1998 a jako organizace se snaží o zdravější internet. Většina příjmů { -brand-name-mozilla-corporation } pochází z licenčních poplatků získaných z partnerství s { -brand-name-firefox(case: "ins") } pro webové prohlížeče a z distribučních smluv po celém světě. Další informace o tom, jak vyděláváme peníze, najdete v našem <a { $attrs }>výročním finančním reportu</a>.
