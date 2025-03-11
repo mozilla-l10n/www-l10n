@@ -30,14 +30,20 @@ no-we-dont = Nie, uważamy, że { -brand-name-chrome } nie jest lepszy od { -bra
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">Zobacz jak { -brand-name-firefox } wypada w porównaniu z { -brand-name-chrome }</a>
+related-questions-better = Powiązane pytania: czy { -brand-name-firefox } jest lepszy niż { -brand-name-chrome }, czy { -brand-name-firefox } jest lepszy niż { -brand-name-google }, czy { -brand-name-firefox } jest bezpieczniejszy niż { -brand-name-chrome }, czy { -brand-name-firefox } jest bardziej prywatny niż { -brand-name-chrome }
+is-firefox-safe-download = Czy { -brand-name-firefox } można bezpiecznie pobrać?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
 
+protecting-your-privacy = Ochrona twojej prywatności to nasz największy priorytet i zapewniamy, że instalacja { -brand-name-firefox(case: "gen") } na twoich urządzeniach jest zupełnie bezpieczna — ale zawsze upewnij się, że pobierasz z zaufanej witryny { -brand-name-mozilla }/{ -brand-name-firefox }, jak <a href="{ $url }">nasza strona pobierania</a>.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
+not-only-is = { -brand-name-firefox } jest nie tylko bezpieczny, ale także pomaga chronić twoje dane i prywatne informacje. { -brand-name-firefox-browser } automatycznie zapobiega zbieraniu twoich danych przez znane elementy śledzące firm trzecich i mediów społecznościowych, koparki kryptowalut i elementy śledzące oparte na konfiguracji.
+related-questions-safe = Powiązane pytania: Czy { -brand-name-firefox } zapewnia prywatność, czy { -brand-name-firefox } jest bezpieczny, czy { -brand-name-firefox } jest bardziej prywatny
 # Obsolete string (expires 25-04-2025)
 does-firefox-sell = Czy { -brand-name-firefox } sprzedaje twoje dane osobowe?
 
