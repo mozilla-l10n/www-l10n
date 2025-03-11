@@ -9,6 +9,7 @@
 features-adblocker-ad-blocking = Ñemurã jejoko
 # Page Title
 features-adblocker-meta-title = Ñemurã jokoha rehegua - { -brand-name-firefox }
+features-adblocker-the-ad-blocker-a-tool = Ñemurã jokoha: peteĩ tembiporu ñeikundaha raperã mbohérava ha mba’erãitéva.
 features-adblocker-finding-the-right = Eheka ñemurã jokoha ndéve g̃uarãite
 features-adblocker-enhanced-privacy = Tekoñemi ha oikoporãngue { -brand-name-firefox } ndive
 features-adblocker-why-use = ¿Mba’ére emyandyva’erã pe ñemurã jokoha?
