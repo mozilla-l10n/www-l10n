@@ -15,6 +15,7 @@ m24-home-page-desc-v2 = Trudimo se, da bi nadzor nad internetom vrnili v roke lj
 ## Intro
 
 m24-home-welcome-to-mozilla = Dobrodošli pri { -brand-name-mozilla(sklon: "mestnik") }!
+m24-home-from-trustworthy-tech = Od zaupanja vredne tehnologije do pravilnikov, ki ščitijo vaše digitalne pravice – postavljamo vas na prvo mesto. Vedno.
 m24-home-learn-about-us = Več o nas
 
 ## Products
@@ -33,6 +34,7 @@ m24-home-save-the-internets = Shranite si najboljše vsebine z interneta na kate
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-keep-your-location = Zakrijte svojo lokacijo in spletne pustolovščine – pretakajte kot domačin, kjerkoli ste.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+m24-home-get-a-headsup = Bodite obveščeni, če se vaši osebni podatki znajdejo v nevarnosti, in jih obvarujte kot profesionalec.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Zakrijte svoj e-poštni naslov in telefonsko številko; naj vas dosežejo samo sporočila, ki jih res želite.
 
