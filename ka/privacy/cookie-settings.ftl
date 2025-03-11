@@ -6,14 +6,14 @@
 ### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = ფუნთუშის პარამეტრები
-cookie-settings-page-desc = ამ გვერდზე აღწერილია სხვადასხვა სახის ფუნთუშები, რომლებიც { -brand-name-mozilla }-ს შეუძლია გამოიყენოს, და საშუალებას გაძლევთ თავად განსაზღვროთ, თუ რა სახის მონაცემების შეგროვებაზე ეთანხმებით { -brand-name-mozilla }-ს.
+cookie-settings-page-desc = ამ გვერდზე აღწერილია სხვადასხვა სახის ფუნთუშები, რომელთაც შეიძლებდა იყენებდეს { -brand-name-mozilla } და საშუალება გაქვთ, თავად განსაზღვროთ, თუ რა სახის მონაცემების შეგროვებას შეძლებს { -brand-name-mozilla }.
 cookie-settings-breadcrumb-link = წინა გვერდი
-cookie-settings-explainer = ფუნთუშები წარმოადგენს იმ მცირე ფაილებს, რომლებიც ინახება თქვენს კომპიუტერში ან მოწყობილობაში საიტზე შესვლისას. { -brand-name-mozilla } იყენებს ფუნთუშებს, ჩვენი ვებსაიტების ფუნქციონირების გასაუმჯობესებლად, ასევე აღრიცხავს ინფორმაციას თქვენი გამოყენებისა და ურთიერთქმედების შესახებ, მაგალითად, თქვენ მიერ მონახულებული გვერდების შესახებ.
+cookie-settings-explainer = ფუნთუშები წარმოადგენს გარკვეული მონაცემების შემცველ მცირე ფაილებს, რომლებიც ინახება თქვენს კომპიუტერში ან მოწყობილობაში საიტის მონახულებისას. { -brand-name-mozilla } იყენებს ფუნთუშებს ჩვენი ვებსაიტების მუშაობის დასახვეწად, ასევე აღრიცხავს, თუ როგორ იყენებთ ან ურთიერთქმედებთ ვებსაიტებთან, მათ შორის გვერდის ჩატვირთვას.
 cookie-settings-page-intro-v2 = ამ გვერდზე აღწერილია სხვადასხვა სახის ფუნთუშები და მსგავსი ტექნოლოგიები, როგორიცაა პიქსელის ჭდეები, ვებშუქურები, ნათელი GIF-ები, JavaScript და ადგილობრივი საცავი (შემდგომში „ფუნთუშები“), რომლებითაც { -brand-name-mozilla }-მ შეიძლება გამოიყენოს, და სრულად გამართავს საშუალებას თუ რომელი მონაცემების შეგროვებას ეთანხმებით { -brand-name-mozilla }-ზე.
 cookie-settings-how-mozilla-heading = როგორ იყენებს { -brand-name-mozilla } ფუნთუშებს
 cookie-settings-how-does-mozilla-use-subheading = როგორ იყენებს { -brand-name-mozilla } ამ მონაცემებს?
 cookie-settings-save-changes = ცვლილებების შენახვა
-cookie-settings-your-cookie-settings-have = თქვენი ფუნთუშის პარამეტრები განახლდა.
+cookie-settings-your-cookie-settings-have = ფუნთუშის პარამეტრები განახლდა.
 cookie-settings-i-agree = ვეთანხმები
 cookie-settings-i-do-not-agree = არ ვეთანხმები
 cookie-settings-turn-on-javascript = გთხოვთ, ჩართოთ JavaScript თქვენი ფუნთუშების პარამეტრების გასაახლებლად.
