@@ -28,6 +28,7 @@ how-do-i = Jak można pobrać { -brand-name-firefox-browser(case: "acc", capital
 is-firefox-free = Czy { -brand-name-firefox } jest darmowy?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = Tak! { -brand-name-firefox-browser } jest darmowy, właściwie super darmowy. Bez żadnych ukrytych kosztów. Nie płacisz nic, aby go używać, a my nie sprzedajemy twoich danych osobowych.
+yep-the-firefox-browser-is-free = Tak! { -brand-name-firefox-browser } jest darmowy, właściwie super darmowy. Bez żadnych ukrytych kosztów. Nie płacisz nic, aby go używać.
 related-questions-free = Powiązane pytania: Czy { -brand-name-firefox-browser } jest darmowy, czy { -brand-name-firefox } kosztuje
 is-chrome-better = Czy { -brand-name-chrome } jest lepszy niż { -brand-name-firefox }?
 no-we-dont = Nie, uważamy, że { -brand-name-chrome } nie jest lepszy od { -brand-name-firefox(case: "gen") }, ponieważ gdy ludzie pytają, która przeglądarka jest lepsza, to tak naprawdę pytają, która przeglądarka jest szybsza i bezpieczniejsza. { -brand-name-firefox } jest aktualizowany co miesiąc, by zapewnić ci najszybszą przeglądarkę, która domyślnie szanuje twoją prywatność.
@@ -57,6 +58,7 @@ does-firefox-sell = Czy { -brand-name-firefox } sprzedaje twoje dane osobowe?
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
 why-is-firefox = Dlaczego { -brand-name-firefox } jest tak powolny?
+firefox-isnt-slow = { -brand-name-firefox } nie jest powolny... teraz. W 2017 zupełnie przebudowaliśmy silnik naszej przeglądarki (Quantum), żeby { -brand-name-firefox } mógł konkurować z innymi znanymi przeglądarkami. Dodatkowo, blokujemy elementy śledzące, co jeszcze bardziej przyspiesza ładowanie stron. { -brand-name-firefox } działa błyskawicznie bez poświęcania twojej prywatności.
 is-firefox-chromium = Czy { -brand-name-firefox } jest oparty na { -brand-name-chromium }?
 firefox-is-not = { -brand-name-firefox } nie jest oparty na { -brand-name-chromium } (projekcie open-source przeglądarki, która jest rdzeniem { -brand-name-google } { -brand-name-chrome }). W zasadzie jesteśmy jedną z ostatnich znanych przeglądarek, które nie są. { -brand-name-firefox } jest oparty o nasz silnik przeglądarki Quantum, stworzony specjalnie na potrzeby { -brand-name-firefox(case: "gen") }, dzięki czemu możemy zapewnić, że twoje dane są traktowane z szacunkiem i pozostają prywatne.
 does-firefox-use = Czy { -brand-name-firefox } używa { -brand-name-google }?
