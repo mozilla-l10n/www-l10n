@@ -7,5 +7,7 @@
 
 # HTML page title
 developer-mdnplus-page-title = { -brand-name-firefox-developer-edition }
+developer-mdnplus-congrats-you-now-have-latest-v2 = Gratulacje! Używasz najnowszej wersji  { -brand-name-firefox-developer-edition(case: "gen") }.
+developer-mdnplus-collections = Kolekcje
 developer-mdnplus-mdn-offline = { -brand-name-mdn } offline
 developer-mdnplus-resources-for-developers = Zasoby dla deweloperów, od deweloperów.
