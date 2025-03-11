@@ -51,8 +51,10 @@ manifesto-we-are-committed-to-thinking = Zobowiązujemy się budować Internet w
 manifesto-we-are-committed-to-diverse = Zobowiązujemy się budować Internet przyspieszający współpracę między zróżnicowanymi społecznościami, działającymi razem dla wspólnego dobra.
 manifesto-show-your-support = Okaż swoje wsparcie
 manifesto-an-internet-with-these = Internet o tych cechach nie powstanie sam z siebie. Poszczególne osoby i całe organizacje muszą sprawić, aby stały się one podstawą technologii internetowych i sposobu, w jaki z niego korzystamy. Manifest { -brand-name-mozilla(case: "gen") } i ten aneks reprezentują zobowiązanie { -brand-name-mozilla(case: "gen") } do ich rozwijania. Naszym celem jest współpraca z jednostkami i organizacjami podzielającymi nasze nadzieje z całego świata, aby Internet był jeszcze lepszym miejscem dla wszystkich.
+manifesto-i-support-the-vision-of-v2 = Wspieram wizję { -brand-name-mozilla(case: "gen") } o lepszym, zdrowszym Internecie, dołączysz do mnie?
 # obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Wspieram wizję lepszego, zdrowszego Internetu z @mozilla, dołączysz do mnie?
+manifesto-share-on-bluesky = Udostępnij na Bluesky
 manifesto-our-10-principles = <strong>10 naszych</strong> pryncypiów
 manifesto-read-the-entire-manifesto = Przeczytaj cały manifest
 manifesto-love-the-web = Kochasz Internet?
