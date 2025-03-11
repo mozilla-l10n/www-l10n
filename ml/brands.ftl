@@ -88,6 +88,8 @@
 -brand-name-firefox-os = ഫയര്‍ഫോക്സ് OS
 -brand-name-firefox-send = Firefox Send
 -brand-name-send = Send
+-brand-name-firefox-private-network = ഫയർഫോക്സ് പ്രൈവറ്റ് നെറ്റ്‌വർക്ക്
+-brand-name-fpn = FPN
 
 ## Firefox projects
 
@@ -106,6 +108,7 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-gecko = ഗെക്കോ
+-brand-name-mdn-plus = MDN പ്ലസ്
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-festival = മോസില്ല ഉത്സവം
