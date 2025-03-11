@@ -35,7 +35,7 @@ navigation-refresh-mozilla-advertising = { -brand-name-mozilla } – სარ�
 ## Firefox
 
 navigation-refresh-firefox-browsers = { -brand-name-firefox }-ბრაუზერები
-navigation-refresh-close-firefox-browsers-menu = დახურეთ { -brand-name-firefox }-ის ბრაუზერის მენიუ
+navigation-refresh-close-firefox-browsers-menu = დახურეთ { -brand-name-firefox }-ბრაუზერების მენიუ
 navigation-refresh-firefox-for-desktop = { -brand-name-firefox } კომპიუტერისთვის
 navigation-refresh-firefox-for-android = { -brand-name-firefox } { -brand-name-android }-ზე
 navigation-refresh-firefox-for-ios = { -brand-name-firefox } { -brand-name-ios }-ზე
