@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
+# HTML page title
+firefox-faq = { -brand-name-firefox } FAQ - Często zadawane pytania
+whether-you-searched-privacy = Jeśli szukasz szybkiej przeglądarki, która chroni Twoją prywatność, w tych często zadawanych pytaniach znajdziesz odpowiedzi na najbardziej palące pytania związane z { -brand-name-firefox(case: "ins") }.
 what-is-firefox = Czym jest { -brand-name-firefox }?
 
 # Variables:
@@ -13,6 +16,7 @@ what-is-firefox = Czym jest { -brand-name-firefox }?
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } to jedyna duża przeglądarka wspierana przez organizację non-profit, która nie sprzedaje Twoich danych osobowych reklamodawcom, a jednocześnie pomaga chronić Twoje dane osobowe. Dowiedz się więcej o <a href="{ $url }">{ -brand-name-firefox-browsers(case: "loc", capitalization: "lower") }</a> i <a href="{ $url2 }">innych produktach.</a>
+how-do-i = Jak można pobrać { -brand-name-firefox-browser(case: "acc", capitalization: "lower") }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -24,6 +28,7 @@ the-firefox-browser = { -brand-name-firefox-browser } to jedyna duża przegląda
 is-firefox-free = Czy { -brand-name-firefox } jest darmowy?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = Tak! { -brand-name-firefox-browser } jest darmowy, właściwie super darmowy. Bez żadnych ukrytych kosztów. Nie płacisz nic, aby go używać, a my nie sprzedajemy twoich danych osobowych.
+related-questions-free = Powiązane pytania: Czy { -brand-name-firefox-browser } jest darmowy, czy { -brand-name-firefox } kosztuje
 is-chrome-better = Czy { -brand-name-chrome } jest lepszy niż { -brand-name-firefox }?
 no-we-dont = Nie, uważamy, że { -brand-name-chrome } nie jest lepszy od { -brand-name-firefox(case: "gen") }, ponieważ gdy ludzie pytają, która przeglądarka jest lepsza, to tak naprawdę pytają, która przeglądarka jest szybsza i bezpieczniejsza. { -brand-name-firefox } jest aktualizowany co miesiąc, by zapewnić ci najszybszą przeglądarkę, która domyślnie szanuje twoją prywatność.
 
@@ -55,6 +60,7 @@ does-firefox-sell = Czy { -brand-name-firefox } sprzedaje twoje dane osobowe?
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
 does-firefox-have = Czy { -brand-name-firefox } ma wbudowanego VPN-a?
+who-owns-firefox = Kto jest właścicielem { -brand-name-firefox(case: "gen") }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org
