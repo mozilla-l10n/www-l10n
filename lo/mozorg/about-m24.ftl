@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/about/
 
+# HTML Page title
+m24-about-page-title = ຮຽນຮູ້ກ່ຽວກັບ { -brand-name-mozilla }
 
 ## Intro
 
