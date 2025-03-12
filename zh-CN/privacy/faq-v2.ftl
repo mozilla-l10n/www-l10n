@@ -51,7 +51,7 @@ privacy-faq-v2-data-collection-bugs-me = 我还是不放心交出数据，可以
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 #   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
-privacy-faq-v2-yes-user-control = 是的。用户控制是我们的数据隐私准则之一。我们将这一准则体现在<a { $privacy }>隐私设置页面</a>中，用户可通过该页面一站式控制自己在 { -brand-name-firefox } 中的隐私。您可以在那里<a { $data }>关闭数据收集</a>。
+privacy-faq-v2-yes-user-control = 可以。用户控制是我们的数据隐私准则之一。我们将这一准则体现在<a { $privacy }>隐私设置页面</a>中，用户可通过该页面一站式控制自己在 { -brand-name-firefox } 中的隐私。您可以在那里<a { $data }>关闭数据收集</a>。
 privacy-faq-v2-what-about-my-account = 那我的账户数据呢？
 privacy-faq-v2-we-are-big-believers = 我们坚持最低限度的数据收集原则，不会索取不需要的数据。
 # Variables:
