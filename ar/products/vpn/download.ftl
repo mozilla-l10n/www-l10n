@@ -18,6 +18,7 @@ vpn-download-button-copy = تنزيل
 vpn-download-for-windows-v2 = VPN لـ { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64 بت فقط)
 vpn-download-for-windows-long = نزِّل { -brand-name-mozilla-vpn }<br> لنظام تشغيل { -brand-name-windows }
+vpn-download-for-firefox-extension = ثبّت امتداد { -brand-name-firefox }
 vpn-download-for-mac = VPN لـ { -brand-name-mac-short }
 vpn-download-for-mac-long = نزِّل { -brand-name-mozilla-vpn }<br> لنظام تشغيل { -brand-name-mac-short }
 
