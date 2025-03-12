@@ -18,10 +18,13 @@ vpn-landing-a-virtual-private-network-protects = شبكة افتراضية خا�
 vpn-landing-see-all-the-ways-mozilla-vpn = تعرَّف على جميع الطرق التي بها تحميك { -brand-name-mozilla-vpn }.
 
 vpn-landing-how-a-vpn-helps-you = كيف تساعدك VPN
+vpn-landing-how-a-vpn-helps-you-v2 = كيف يُمكن لـ { -brand-name-mozilla-vpn } أن يُساعدك
 vpn-landing-keeps-your-data-safe = تحافظ على أمان بياناتك على شبكة Wi-Fi العامة
 vpn-landing-log-in-to-your-bank-or = سجِّل الدخول إلى حسابك البنكي أو عيادة طبيبك من المطار أو المقهى أو أي مكان وأنت مرتاح البال.
 vpn-landing-blocks-advertisers-from = تمنع المُعلِنين من استهدافك
 vpn-landing-hide-your-activity-from = أَخْفِ نشاطك من المتعقِّبات والبرامج الضارة لتتمكّن من التسوّق دون أنْ تكون تحت المراقبة.
+vpn-landing-take-control = التحكّم في إعدادات VPN الخاصة بمواقع الويب
+vpn-landing-customize-your-vpn = تخصيص حمايات VPN على أساس كل موقع على حده مع امتداد { -brand-name-mozilla-vpn } لـ { -brand-name-firefox } (نظام تشغيل Windows فقط).
 vpn-landing-features = الميزات
 
 # Variables:
@@ -52,6 +55,8 @@ vpn-landing-fast-network-speeds-even-while = سرعات شبكة عالية حت
 vpn-landing-no-logging-tracking-or-sharing = لا يوجد تسجيل أو تعقب أو مشاركة لبيانات الشبكة
 vpn-landing-no-bandwidth-restrictions-or = لا توجد قيود أو تضييقات على عرض النطاق الترددي
 vpn-landing-extra-security-whole-device = أمان إضافي: حماية الجهاز بالكامل، وتوجيه متعدد القفزات، والمزيد
+vpn-landing-built-transparently = الإنشاء بشفافية في المصدر المفتوح
+vpn-landing-easy-firefox-integration = سهولة دمج { -brand-name-firefox } مع امتداد { -brand-name-mozilla-vpn } (نظام تشغيل Windows فقط)
 vpn-landing-see-all-features = اطَّلِع على جميع الميزات
 vpn-landing-fram-a-brand-you-can-trust = من علامة تجارية يمكنك الوثوق بها
 vpn-landing-mozilla-is-a-non-profit-backed = تُعرَّف { -brand-name-mozilla } بأنها شركة إنترنت غير هادفة للربح تعمل من أجل الأمان على شبكة الإنترنت منذ عام 1998.
