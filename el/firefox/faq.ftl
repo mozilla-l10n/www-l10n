@@ -17,6 +17,7 @@ what-is-firefox = Τι είναι το { -brand-name-firefox };
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = Το { -brand-name-firefox-browser } είναι το μόνο κύριο πρόγραμμα περιήγησης που υποστηρίζεται από ένα μη κερδοσκοπικό οργανισμό που δεν πουλά τα προσωπικά σας δεδομένα σε διαφημιστές, ενώ σας βοηθά να προστατέψετε τις ιδιωτικές σας πληροφορίες. Μάθετε περισσότερα σχετικά με τα <a href="{ $url }">{ -brand-name-firefox-browsers }</a> και <a href="{ $url2 }">άλλα προϊόντα.</a>
+the-firefox-browser-the-only = Το { -brand-name-firefox-browser }, το μόνο μεγάλο πρόγραμμα περιήγησης που υποστηρίζεται από έναν μη κερδοσκοπικό οργανισμό, προστατεύει τις προσωπικές σας πληροφορίες. Μάθετε περισσότερα σχετικά με το <a href="{ $url }">{ -brand-name-firefox-browsers }</a> και τα <a href="{ $url2 }">άλλα προϊόντα</a> μας.
 how-do-i = Πώς κάνω λήψη του { -brand-name-firefox-browser };
 
 # Variables:

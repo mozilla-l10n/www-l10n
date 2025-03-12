@@ -16,6 +16,7 @@ vpn-download-button-copy = Λήψη
 vpn-download-for-windows-v2 = VPN για { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (μόνο 64-bit)
 vpn-download-for-windows-long = Λήψη του { -brand-name-mozilla-vpn } για { -brand-name-windows }
+vpn-download-for-firefox-extension = Εγκατάσταση της επέκτασης για το { -brand-name-firefox }
 vpn-download-for-mac = VPN για { -brand-name-mac-short }
 vpn-download-for-mac-long = Λήψη του { -brand-name-mozilla-vpn } για { -brand-name-mac-short }
 # Variables:
