@@ -18,6 +18,7 @@ vpn-download-button-copy = डाउनलोड करें
 vpn-download-for-windows-v2 = { -brand-name-windows } के लिए VPN
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (केवल 64-बिट)
 vpn-download-for-windows-long = { -brand-name-windows } के लिए { -brand-name-mozilla-vpn } डाउनलोड करें
+vpn-download-for-firefox-extension = { -brand-name-firefox } एक्सटेंशन इंस्टॉल करें
 vpn-download-for-mac = { -brand-name-mac-short } के लिए VPN
 vpn-download-for-mac-long = { -brand-name-mac-short } के लिए { -brand-name-mozilla-vpn } डाउनलोड करें
 
