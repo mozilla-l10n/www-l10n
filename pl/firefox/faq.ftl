@@ -52,6 +52,7 @@ is-firefox-safe = Czy { -brand-name-firefox } jest bezpieczny?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
+not-only-is = { -brand-name-firefox } jest nie tylko bezpieczny w użyciu, ale także pomaga chronić Twoje dane i prywatne informacje. { -brand-name-firefox-browser } automatycznie blokuje znane zewnętrzne elementy śledzące, skrypty śledzące mediów społecznościowych, koparki kryptowalut i skrypty zbierające dane o konfiguracji przed zbieraniem Twoich danych. <a href="{ $url }">Dowiedz się więcej o prywatności w naszych produktach.</a>
 related-questions-safe = Powiązane pytania: Czy { -brand-name-firefox } zapewnia prywatność, czy { -brand-name-firefox } jest bezpieczny, czy { -brand-name-firefox } jest bardziej prywatny
 # Obsolete string (expires 25-04-2025)
 does-firefox-sell = Czy { -brand-name-firefox } sprzedaje twoje dane osobowe?
