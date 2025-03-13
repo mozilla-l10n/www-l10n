@@ -8,6 +8,7 @@
 # HTML page title
 firefox-faq = { -brand-name-firefox } FAQ - Często zadawane pytania
 whether-you-searched-privacy = Jeśli szukasz szybkiej przeglądarki, która chroni Twoją prywatność, w tych często zadawanych pytaniach znajdziesz odpowiedzi na najbardziej palące pytania związane z { -brand-name-firefox(case: "ins") }.
+whether-you-searched-independant = Niezależnie od tego, czy szukasz szybkiej przeglądarki, czy też niezależnej technologii, która chroni Twoją prywatność, to FAQ jest tutaj, aby odpowiedzieć na najbardziej palące pytania dotyczące { -brand-name-firefox(case: "gen") }.
 what-is-firefox = Czym jest { -brand-name-firefox }?
 
 # Variables:
@@ -16,6 +17,7 @@ what-is-firefox = Czym jest { -brand-name-firefox }?
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } to jedyna duża przeglądarka wspierana przez organizację non-profit, która nie sprzedaje Twoich danych osobowych reklamodawcom, a jednocześnie pomaga chronić Twoje dane osobowe. Dowiedz się więcej o <a href="{ $url }">{ -brand-name-firefox-browsers(case: "loc", capitalization: "lower") }</a> i <a href="{ $url2 }">innych produktach.</a>
+the-firefox-browser-the-only = { -brand-name-firefox-browser }, jedyna duża przeglądarka wspierana przez organizację non-profit, pomaga chronić Twoje dane osobowe. Dowiedz się więcej o <a href="{ $url }">{ -brand-name-firefox-browsers(case: "loc", capitalization: "lower") }</a> i <a href="{ $url2 }">innych produktach.</a>
 how-do-i = Jak można pobrać { -brand-name-firefox-browser(case: "acc", capitalization: "lower") }?
 
 # Variables:
@@ -25,6 +27,7 @@ how-do-i = Jak można pobrać { -brand-name-firefox-browser(case: "acc", capital
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+you-can-easily = Możesz łatwo pobrać przeglądarkę { -brand-name-firefox } na komputer <a href="{ $url }">tutaj.</a> { -brand-name-firefox } działa na urządzeniach z systemami <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> i <a href="{ $url4 }">{ -brand-name-linux }</a> i jest również dostępny dla <a href="{ $url5 }">{ -brand-name-android(case: "gen") } i { -brand-name-ios } .</a> Upewnij się, że pobierasz naszą przeglądarkę z jednej z naszych zaufanych stron { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = Czy { -brand-name-firefox } jest darmowy?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = Tak! { -brand-name-firefox-browser } jest darmowy, właściwie super darmowy. Bez żadnych ukrytych kosztów. Nie płacisz nic, aby go używać, a my nie sprzedajemy twoich danych osobowych.
