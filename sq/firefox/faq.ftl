@@ -17,6 +17,7 @@ what-is-firefox = Ç’është { -brand-name-firefox }-i?
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser }-i është i vetmi shfletues i rëndësishëm që pas ka një ent jofitimprurës që s’ua shet të dhënat tuaja personale industrisë së reklamave, teksa ju ndihmon t’i mbroni ato. Mësoni më tepër mbi <a href="{ $url }">{ -brand-name-firefox-browsers }</a> dhe <a href="{ $url2 }">produkte të tjera.</a>
+the-firefox-browser-the-only = { -brand-name-firefox-browser }, i vetmi shfletues i rëndësishëm që ka pas një ent jofitimprurës, ju ndihmon të mbroni informacionin tuaj personal. Mësoni më tepër mbi <a href="{ $url }">{ -brand-name-firefox-browsers }</a> dhe <a href="{ $url2 }">produkte të tjerë.</a>
 how-do-i = Si ta marr { -brand-name-firefox-browser }-in?
 
 # Variables:
