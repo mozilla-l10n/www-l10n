@@ -35,6 +35,9 @@ privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } tidak menjual dat
 
 privacy-faq-v2-wait-so-how = Tunggu, jadi bagaimana Anda menghasilkan uang?
 
+# Variables:
+#   $attrs (url) - link to https://stateof.mozilla.org
+privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } bukanlah organisasi pada umumnya. Didirikan sebagai proyek komunitas sumber terbuka pada tahun 1998, { -brand-name-mozilla } adalah organisasi yang digerakkan oleh misi yang bekerja menuju internet yang lebih sehat. Mayoritas pendapatan { -brand-name-mozilla-corporation } berasal dari royalti yang diperoleh melalui kemitraan penelusuran peramban web { -brand-name-firefox } dan kesepakatan distribusi di seluruh dunia. Anda dapat mempelajari lebih lanjut mengenai bagaimana kami menghasilkan uang dalam <a { $attrs }>laporan keuangan tahunan kami</a>.
 
 privacy-faq-v2-softballs = Oke, yang pertama itu mudah. Data apa yang Anda kumpulkan?
 
