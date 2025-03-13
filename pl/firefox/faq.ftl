@@ -49,7 +49,6 @@ is-firefox-safe = Czy { -brand-name-firefox } jest bezpieczny?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
-not-only-is = { -brand-name-firefox } jest nie tylko bezpieczny, ale także pomaga chronić twoje dane i prywatne informacje. { -brand-name-firefox-browser } automatycznie zapobiega zbieraniu twoich danych przez znane elementy śledzące firm trzecich i mediów społecznościowych, koparki kryptowalut i elementy śledzące oparte na konfiguracji.
 related-questions-safe = Powiązane pytania: Czy { -brand-name-firefox } zapewnia prywatność, czy { -brand-name-firefox } jest bezpieczny, czy { -brand-name-firefox } jest bardziej prywatny
 # Obsolete string (expires 25-04-2025)
 does-firefox-sell = Czy { -brand-name-firefox } sprzedaje twoje dane osobowe?
@@ -58,7 +57,7 @@ does-firefox-sell = Czy { -brand-name-firefox } sprzedaje twoje dane osobowe?
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
 why-is-firefox = Dlaczego { -brand-name-firefox } jest tak powolny?
-firefox-isnt-slow = { -brand-name-firefox } nie jest powolny... teraz. W 2017 zupełnie przebudowaliśmy silnik naszej przeglądarki (Quantum), żeby { -brand-name-firefox } mógł konkurować z innymi znanymi przeglądarkami. Dodatkowo, blokujemy elementy śledzące, co jeszcze bardziej przyspiesza ładowanie stron. { -brand-name-firefox } działa błyskawicznie bez poświęcania twojej prywatności.
+firefox-isnt-slow = { -brand-name-firefox } nie jest powolny… teraz. W 2017 zupełnie przebudowaliśmy silnik naszej przeglądarki (Quantum), żeby { -brand-name-firefox } mógł konkurować z innymi znanymi przeglądarkami. Dodatkowo, blokujemy elementy śledzące, co jeszcze bardziej przyspiesza ładowanie stron. { -brand-name-firefox } działa błyskawicznie bez poświęcania twojej prywatności.
 is-firefox-chromium = Czy { -brand-name-firefox } jest oparty na { -brand-name-chromium }?
 firefox-is-not = { -brand-name-firefox } nie jest oparty na { -brand-name-chromium } (projekcie open-source przeglądarki, która jest rdzeniem { -brand-name-google } { -brand-name-chrome }). W zasadzie jesteśmy jedną z ostatnich znanych przeglądarek, które nie są. { -brand-name-firefox } jest oparty o nasz silnik przeglądarki Quantum, stworzony specjalnie na potrzeby { -brand-name-firefox(case: "gen") }, dzięki czemu możemy zapewnić, że twoje dane są traktowane z szacunkiem i pozostają prywatne.
 does-firefox-use = Czy { -brand-name-firefox } używa { -brand-name-google }?
