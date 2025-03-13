@@ -56,6 +56,8 @@ vpn-features-support-for-custom-dns = Sokongan untuk DNS tersuai
 vpn-features-keep-traffic-protected = Dengan { -brand-name-mozilla-vpn }, anda boleh melindungi trafik dan masih menghalakan pertanyaan DNS anda ke mana saja anda gemari. <a { $dns }>Ketahui lebih lanjut tentang bantuan DNS tersuai</a>.
 
 vpn-features-flexible = Flaksibel
+vpn-features-webste-specific-vpn = Tetapan VPN yang fokus kepada laman web, diintegrasikan dengan lancar ke dalam { -brand-name-firefox }
+vpn-features-with-the-mozilla-vpn-extention = Dengan perisian tambahan { -brand-name-mozilla-vpn } untuk { -brand-name-firefox } (Windows sahaja), anda boleh memperhalusi pengalaman VPN anda laman demi laman. Asingkan laman web satu demi satu daripada perlindungan VPN atau tetapkan lokasi pelayan yang digemari untuk laman tertentu, memberikan anda keanjalan dalam memperibadikan pengalaman web anda.
 vpn-features-personalized-server = Cadangan lokasi pelayan yang diperibadikan
 vpn-features-well-suggest-which-servers = Kami akan cadangkan pelayan mana yang hampir dengan anda untuk memastikan sambungan internet terpantas dan paling dipercayai.
 vpn-features-personalize-which-apps = Peribadikan aplikasi yang mahu dilindungi oleh VPN

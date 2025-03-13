@@ -56,6 +56,8 @@ vpn-features-support-for-custom-dns = カスタム DNS をサポート
 vpn-features-keep-traffic-protected = { -brand-name-mozilla-vpn } なら、トラフィックを保護しながら、DNS クエリを任意の場所にルーティングできます。<a { $dns }>カスタム DNS サポートの詳細は、こちらをご覧ください</a>。
 
 vpn-features-flexible = 柔軟
+vpn-features-webste-specific-vpn = { -brand-name-firefox } にシームレスに統合されたウェブサイトごとの VPN 設定
+vpn-features-with-the-mozilla-vpn-extention = { -brand-name-firefox } 用の拡張機能 { -brand-name-mozilla-vpn } (Windows のみ) なら、ウェブサイトごとに VPN の動作を微調整できます。個々のウェブサイトを VPN の保護から除外したり、特定のサイト用の優先サーバーロケーションを設定したりすることで、より柔軟で個人に合わせた体験を提供します。
 vpn-features-personalized-server = ユーザーに合わせてサーバーロケーションをおすすめ
 vpn-features-well-suggest-which-servers = 最も高速かつ信頼性の高いインターネット接続を確立できる近くのサーバーを提案します。
 vpn-features-personalize-which-apps = VPN 保護を受けるアプリをカスタマイズ
