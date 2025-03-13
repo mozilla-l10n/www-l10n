@@ -33,6 +33,7 @@ m24-home-tag-program = Program
 m24-home-tag-event = Hending
 m24-home-read-more = Les meir
 m24-home-get-started = Kom i gang
+m24-home-join-the-movement = Bli med i rørsla:<br> AI for folket
 # Used as an accessible text alternative for an image
 m24-home-alt-llamafile-logo = { -brand-name-llamafile }-logo.
 m24-home-llamafile = { -brand-name-llamafile }
@@ -43,6 +44,7 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }-logo.
 m24-home-lumigator = { -brand-name-lumigator }
+m24-home-can-ai-be = Kan AI vere påliteleg?
 m24-home-watch-now = Sjå no
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
@@ -60,10 +62,12 @@ m24-home-tag-video = Video
 m24-home-topic-news = Nyheiter
 m24-home-topic-ai = Kunstig intelligens
 m24-home-topic-ps = Personvern og sikkerheit
+m24-home-headline-you-ai-v2 = Du, AI og internett – kva skjer eigentleg?
 
 ## Showcase
 
 m24-home-rise25-awards = { -brand-name-rise25 }-prisar
+m24-home-read-the-report = Les rapporten
 
 ## Issues
 

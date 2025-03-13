@@ -5,6 +5,7 @@
 footer-refresh-leadership = Leiarskap
 footer-refresh-advertise = Annonser med { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = { -brand-name-firefox } versjonsnotat
+footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Følg @{ -brand-name-mozilla }
