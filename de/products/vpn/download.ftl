@@ -18,6 +18,7 @@ vpn-download-button-copy = Download
 vpn-download-for-windows-v2 = VPN für { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (nur 64-Bit)
 vpn-download-for-windows-long = { -brand-name-mozilla-vpn } für { -brand-name-windows } herunterladen
+vpn-download-for-firefox-extension = Installiere die { -brand-name-firefox }-Erweiterung
 vpn-download-for-mac = VPN für { -brand-name-mac-short }
 vpn-download-for-mac-long = { -brand-name-mozilla-vpn } für { -brand-name-mac-short } herunterladen
 

@@ -18,6 +18,7 @@ vpn-download-button-copy = ダウンロード
 vpn-download-for-windows-v2 = { -brand-name-windows } 用の VPN
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64 ビットのみ)
 vpn-download-for-windows-long = { -brand-name-windows } 用 { -brand-name-mozilla-vpn } をダウンロード
+vpn-download-for-firefox-extension = { -brand-name-firefox } 拡張機能をインストール
 vpn-download-for-mac = { -brand-name-mac-short } 用の VPN
 vpn-download-for-mac-long = { -brand-name-mac-short } 用 { -brand-name-mozilla-vpn } をダウンロード
 

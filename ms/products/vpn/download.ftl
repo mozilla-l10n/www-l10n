@@ -18,6 +18,7 @@ vpn-download-button-copy = Muat turun
 vpn-download-for-windows-v2 = VPN untuk { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit sahaja)
 vpn-download-for-windows-long = Muat turun { -brand-name-mozilla-vpn } untuk { -brand-name-windows }
+vpn-download-for-firefox-extension = Pasanglah perisian tambahan bagi { -brand-name-firefox }
 vpn-download-for-mac = VPN untuk { -brand-name-mac-short }
 vpn-download-for-mac-long = Muat turun { -brand-name-mozilla-vpn } untuk { -brand-name-mac-short }
 
