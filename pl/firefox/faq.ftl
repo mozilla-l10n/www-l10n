@@ -71,6 +71,9 @@ does-firefox-use = Czy { -brand-name-firefox } używa { -brand-name-google }?
 
 firefoxs-default-search = { -brand-name-google } to domyślna wyszukiwarka w { -brand-name-firefox(case: "loc") }, co oznacza, że możesz przeszukiwać sieć prosto z paska adresu. <a href="{ $url }">Dowiedz się więcej o preferencjach wyszukiwarek i zmianie ustawień domyślnych.</a>
 does-firefox-have = Czy { -brand-name-firefox } ma wbudowanego VPN-a?
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = { -brand-name-firefox } nie ma wbudowanego VPN-a (wirtualnej sieci prywatnej), ale { -brand-name-mozilla } tworzy produkt o nazwie <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>, którego można używać jako uzupełnienie prywatnej { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }, a która chroni połączenie Wi-Fi i adres IP.
 related-questions-ip = Powiązane pytania: czy { -brand-name-firefox } ukrywa Twój adres IP?
 who-owns-firefox = Kto jest właścicielem { -brand-name-firefox(case: "gen") }?
 
@@ -78,3 +81,5 @@ who-owns-firefox = Kto jest właścicielem { -brand-name-firefox(case: "gen") }?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+firefox-is-made = { -brand-name-firefox } jest tworzony przez { -brand-name-mozilla-corporation(case: "gen") }, spółkę zależną organizacji non-profit <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> i prowadzony wedle zasad Manifestu { -brand-name-mozilla(case: "gen") }. Dowiedz się więcej na temat twórcy { -brand-name-firefox(case: "gen") } <a href="{ $url2 }">tutaj.</a>
+related-questions-who = Powiązane pytania: w czyim posiadaniu jest { -brand-name-firefox }, kto posiada { -brand-name-firefox-browser }, czy { -brand-name-firefox } jest własnością { -brand-name-google }, czy { -brand-name-mozilla } { -brand-name-firefox } jest własnością { -brand-name-google }
