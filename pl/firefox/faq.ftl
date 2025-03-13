@@ -32,7 +32,7 @@ is-firefox-free = Czy { -brand-name-firefox } jest darmowy?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = Tak! { -brand-name-firefox-browser(localization: "lower") } jest darmowa, właściwie super darmowa. Bez żadnych ukrytych kosztów. Nie płacisz nic, aby jej używać, a my nie sprzedajemy twoich danych osobowych.
 yep-the-firefox-browser-is-free = Tak! { -brand-name-firefox-browser(localization: "lower") } jest darmowa, właściwie super darmowa. Bez żadnych ukrytych kosztów. Nie płacisz nic, aby jej używać.
-related-questions-free = Powiązane pytania: Czy { -brand-name-firefox-browser(localization: "lower") } jest darmowa, czy { -brand-name-firefox } kosztuje
+related-questions-free = Powiązane pytania: Czy { -brand-name-firefox-browser(capitalization: "lower") } jest darmowa, czy { -brand-name-firefox } kosztuje
 is-chrome-better = Czy { -brand-name-chrome } jest lepszy niż { -brand-name-firefox }?
 no-we-dont = Nie, uważamy, że { -brand-name-chrome } nie jest lepszy od { -brand-name-firefox(case: "gen") }, ponieważ gdy ludzie pytają, która przeglądarka jest lepsza, to tak naprawdę pytają, która przeglądarka jest szybsza i bezpieczniejsza. { -brand-name-firefox } jest aktualizowany co miesiąc, by zapewnić ci najszybszą przeglądarkę, która domyślnie szanuje twoją prywatność.
 
