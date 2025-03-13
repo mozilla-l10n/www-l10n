@@ -27,7 +27,7 @@ how-do-i = Jak można pobrać { -brand-name-firefox-browser(case: "acc", capital
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
-you-can-easily = Możesz łatwo pobrać przeglądarkę { -brand-name-firefox } na komputer <a href="{ $url }">tutaj.</a> { -brand-name-firefox } działa na urządzeniach z systemami <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> i <a href="{ $url4 }">{ -brand-name-linux }</a> i jest również dostępny dla <a href="{ $url5 }">{ -brand-name-android(case: "gen") } i { -brand-name-ios } .</a> Upewnij się, że pobierasz naszą przeglądarkę z jednej z naszych zaufanych stron { -brand-name-mozilla }/{ -brand-name-firefox }.
+you-can-easily = <a href="{ $url }">Tutaj</a> możesz łatwo pobrać przeglądarkę { -brand-name-firefox } na komputer. { -brand-name-firefox } działa na urządzeniach z systemami <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> i <a href="{ $url4 }">{ -brand-name-linux }</a> i jest również dostępny na <a href="{ $url5 }">{ -brand-name-android(case: "gen") } i { -brand-name-ios } .</a> Upewnij się, że pobierasz naszą przeglądarkę z jednej z naszych zaufanych stron { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = Czy { -brand-name-firefox } jest darmowy?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = Tak! { -brand-name-firefox-browser } jest darmowy, właściwie super darmowy. Bez żadnych ukrytych kosztów. Nie płacisz nic, aby go używać, a my nie sprzedajemy twoich danych osobowych.
