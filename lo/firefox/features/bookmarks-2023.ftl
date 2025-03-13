@@ -14,4 +14,7 @@ bookmark-manager-collect-your-bookmarks-in-folders = ເກັບກໍາ bookm
 # Used as an accessible text alternative for an image
 bookmark-manager-image-of-the-bookmark-manager = ຮູບພາບຂອງໜ້າຕ່າງຕົວຈັດການບຸກມາກໃນ { -brand-name-firefox }.
 bookmark-manager-easily-import-bookmarks = ນຳເຂົ້າບຸກມາກໄດ້ຢ່າງງ່າຍດາຍ
+# Used as an accessible text alternative for an image
+bookmark-manager-image-of-the-firefox-import-wizard = ຮູບພາບຂອງກ່ອງໂຕ້ຕອບຕົວຊ່ວຍການນໍາເຂົ້າ { -brand-name-firefox }, ສະແດງທາງເລືອກໃນການນໍາເຂົ້າການຕັ້ງຄ່າ ແລະ ຂໍ້ມູນຈາກຕົວທ່ອງເວັບອື່ນໆ.
 bookmark-manager-bookmarks-toolbar = ແຖບເຄື່ອງມື bookmarks
+bookmark-manager-get-quick-access-to-your = ເຂົ້າເຖິງບຸກມາກທີ່ມັກຂອງທ່ານໃນເມນູຢູ່ເທິງສຸດຂອງ { -brand-name-firefox } ຫຼື ປັກໝຸດພວກມັນໃສ່ແຖບເຄື່ອງມືຂອງທ່ານ.
