@@ -18,10 +18,13 @@ vpn-landing-a-virtual-private-network-protects = Ein virtuelles privates Netzwer
 vpn-landing-see-all-the-ways-mozilla-vpn = Erfahre hier, wie { -brand-name-mozilla-vpn } dich genau schützt.
 
 vpn-landing-how-a-vpn-helps-you = Das macht ein VPN für dich
+vpn-landing-how-a-vpn-helps-you-v2 = Wie { -brand-name-mozilla-vpn } dir hilft
 vpn-landing-keeps-your-data-safe = Schützt deine Daten im öffentlichen WLAN
 vpn-landing-log-in-to-your-bank-or = Logge dich ganz beruhigt bei deiner Bank oder deiner Arztpraxis ein – auch in öffentlichen Netzwerken am Flughafen oder im Café.
 vpn-landing-blocks-advertisers-from = Blockiert direkte Werbung von Werbetreibenden
 vpn-landing-hide-your-activity-from = Verstecke deine Aktivitäten vor Trackern und Malware, um unbeobachtet einzukaufen.
+vpn-landing-take-control = Übernimm mit Website-spezifischen VPN-Einstellungen die Kontrolle
+vpn-landing-customize-your-vpn = Passe deinen VPN-Schutz mit der { -brand-name-mozilla-vpn }-Erweiterung für { -brand-name-firefox } (nur Windows) für jede Website individuell an.
 vpn-landing-features = Funktionen
 
 # Variables:
@@ -44,6 +47,8 @@ vpn-landing-fast-network-speeds-even-while = Schnelle Netzwerkgeschwindigkeit, a
 vpn-landing-no-logging-tracking-or-sharing = Wir loggen, verfolgen oder teilen deine Netzwerkdaten nicht
 vpn-landing-no-bandwidth-restrictions-or = Keine Bandbreitenbeschränkungen oder Drosselung
 vpn-landing-extra-security-whole-device = Erhöhte Sicherheit: Gesamtgeräteschutz, Multi-Hop-Routing und mehr
+vpn-landing-built-transparently = Transparent in Open Source erstellt
+vpn-landing-easy-firefox-integration = Einfache { -brand-name-firefox }-Integration mit der { -brand-name-mozilla-vpn }-Erweiterung (nur Windows)
 vpn-landing-see-all-features = Alle Funktionen ansehen
 vpn-landing-fram-a-brand-you-can-trust = Eine Marke, die Vertrauen schafft
 vpn-landing-mozilla-is-a-non-profit-backed = Bei { -brand-name-mozilla } handelt es sich um eine Non-Profit-Organisation, die sich seit 1998 für ein gesundes Internet einsetzt.

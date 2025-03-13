@@ -18,10 +18,13 @@ vpn-landing-a-virtual-private-network-protects = 仮想プライベートネッ�
 vpn-landing-see-all-the-ways-mozilla-vpn = { -brand-name-mozilla-vpn } がユーザーを保護する仕組みをご覧ください。
 
 vpn-landing-how-a-vpn-helps-you = VPN が保護する仕組み
+vpn-landing-how-a-vpn-helps-you-v2 = { -brand-name-mozilla-vpn } が保護する仕組み
 vpn-landing-keeps-your-data-safe = パブリック Wi-Fi でデータの安全を保護
 vpn-landing-log-in-to-your-bank-or = 空港やカフェなど、どこからでも安心して銀行やクリニックにログインできます。
 vpn-landing-blocks-advertisers-from = 広告からのターゲッティングをブロック
 vpn-landing-hide-your-activity-from = トラッカーやマルウェアからアクティビティを隠して、監視されることなくお買い物できるようにします。
+vpn-landing-take-control = ウェブサイトごとの VPN 設定でコントロール
+vpn-landing-customize-your-vpn = { -brand-name-firefox } 用の拡張機能 { -brand-name-mozilla-vpn } (Windows のみ) なら、ウェブサイトごとに VPN の保護をカスタマイズできます。
 vpn-landing-features = 機能
 
 # Variables:
@@ -42,6 +45,8 @@ vpn-landing-fast-network-speeds-even-while = ゲーム中でも高速なネッ�
 vpn-landing-no-logging-tracking-or-sharing = ユーザーのネットワークデータを記録、追跡、共有しない
 vpn-landing-no-bandwidth-restrictions-or = 帯域幅の制限やスロットリングなし
 vpn-landing-extra-security-whole-device = 追加のセキュリティ: デバイス全体の保護、マルチホップルーティングなど
+vpn-landing-built-transparently = オープンソースで透明性を確保しつつ構築
+vpn-landing-easy-firefox-integration = 拡張機能 { -brand-name-mozilla-vpn } は、{ -brand-name-firefox } への統合が簡単 (Windows のみ)
 vpn-landing-see-all-features = すべての機能を見る
 vpn-landing-fram-a-brand-you-can-trust = 信頼のブランドが運営
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } は、1998 年より健全なウェブを目指してきた非営利団体が支援するインターネット企業です。

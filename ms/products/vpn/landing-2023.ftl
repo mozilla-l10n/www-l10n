@@ -18,10 +18,13 @@ vpn-landing-a-virtual-private-network-protects = Rangkaian peribadi maya melindu
 vpn-landing-see-all-the-ways-mozilla-vpn = Lihat bagaimana { -brand-name-mozilla-vpn } melindungi anda.
 
 vpn-landing-how-a-vpn-helps-you = Bagaimana VPN membantu anda
+vpn-landing-how-a-vpn-helps-you-v2 = Bagaimana { -brand-name-mozilla-vpn } membantu anda
 vpn-landing-keeps-your-data-safe = Melindungi data anda di Wi-Fi awam
 vpn-landing-log-in-to-your-bank-or = Log masuk ke bank atau platform kesihatan anda dari lapangan terbang, kafe atau di mana jua dengan hati yang tenang.
 vpn-landing-blocks-advertisers-from = Menghalang pengiklan daripada mensasarkan anda
 vpn-landing-hide-your-activity-from = Sembunyikan aktiviti anda daripada penjejak dan malware agar anda boleh berbelanja tanpa takut diperhatikan.
+vpn-landing-take-control = Dapatkan kawalan menyeluruh dengan tetapan VPN yang fokus kepada laman web tertentu
+vpn-landing-customize-your-vpn = Peribadikan perlindungan VPN anda laman demi laman dengan perisian tambahan { -brand-name-mozilla-vpn } untuk { -brand-name-firefox } (Windows sahaja).
 vpn-landing-features = Ciri-ciri
 
 # Variables:
@@ -42,6 +45,8 @@ vpn-landing-fast-network-speeds-even-while = Kelajuan jaringan pantas walaupun k
 vpn-landing-no-logging-tracking-or-sharing = Kami tidak merekod, menjejak atau berkongsi data rangkaian anda
 vpn-landing-no-bandwidth-restrictions-or = Tiada halangan jalur lebar atau pemecut
 vpn-landing-extra-security-whole-device = Keselamatan ekstra: Perlindungan peranti keseluruhan, penghalaan multi-lompat & banyak lagi
+vpn-landing-built-transparently = Bangunkan secara telus menggunakan sumber terbuka
+vpn-landing-easy-firefox-integration = Integrasi mudah { -brand-name-firefox } dengan perisian tambahan { -brand-name-mozilla-vpn } (Windows sahaja)
 vpn-landing-see-all-features = Lihat semua ciri
 vpn-landing-fram-a-brand-you-can-trust = Daripada jenama yang boleh anda percayai
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } adalah syarikat internet bukan berasaskan keuntungan yang memperjuangkan internet yang sihat sejak 1998.

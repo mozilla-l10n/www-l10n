@@ -18,10 +18,13 @@ vpn-landing-a-virtual-private-network-protects = Un réseau privé virtuel (Virt
 vpn-landing-see-all-the-ways-mozilla-vpn = Découvrez toutes les fonctionnalités de protection de { -brand-name-mozilla-vpn }.
 
 vpn-landing-how-a-vpn-helps-you = Avantages d’un VPN
+vpn-landing-how-a-vpn-helps-you-v2 = Comment { -brand-name-mozilla-vpn } peut vous aider
 vpn-landing-keeps-your-data-safe = Protège vos données sur les connexions Wi-Fi publiques
 vpn-landing-log-in-to-your-bank-or = Connectez-vous à votre application bancaire ou à votre espace santé depuis un aéroport, un café ou n’importe quel autre lieu public en toute tranquillité.
 vpn-landing-blocks-advertisers-from = Empêche les annonceurs de vous cibler
 vpn-landing-hide-your-activity-from = Protégez vos activités des traqueurs et des logiciels malveillants afin de faire vos achats sans vous faire épier.
+vpn-landing-take-control = Contrôlez votre expérience avec des paramètres VPN spécifiques à chaque site
+vpn-landing-customize-your-vpn = Personnalisez votre protection VPN pour chaque site web que vous visitez avec l’extension { -brand-name-mozilla-vpn } pour { -brand-name-firefox } (Windows uniquement).
 vpn-landing-features = Fonctionnalités
 
 # Variables:
@@ -44,6 +47,8 @@ vpn-landing-fast-network-speeds-even-while = Des vitesses de réseau élevées m
 vpn-landing-no-logging-tracking-or-sharing = Aucun enregistrement, suivi ou partage des données échangées via votre réseau
 vpn-landing-no-bandwidth-restrictions-or = Aucune restriction ou limitation de bande passante
 vpn-landing-extra-security-whole-device = Sécurité additionnelle : protection intégrale de l’appareil, serveurs en cascade et plus encore
+vpn-landing-built-transparently = Open source : la transparence intégrée
+vpn-landing-easy-firefox-integration = Intégration simplifiée dans { -brand-name-firefox } avec l’extension { -brand-name-mozilla-vpn } (Windows uniquement)
 vpn-landing-see-all-features = Découvrir toutes les fonctionnalités
 vpn-landing-fram-a-brand-you-can-trust = Conçu par une marque digne de confiance
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } est une organisation à but non lucratif qui lutte pour un Internet plus sain depuis 1998.
