@@ -35,6 +35,9 @@ privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } verkauft keine di
 
 privacy-faq-v2-wait-so-how = Moment, womit verdient ihr dann Geld?
 
+# Variables:
+#   $attrs (url) - link to https://stateof.mozilla.org
+privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } ist nicht irgendeine Organisation. { -brand-name-mozilla } wurde 1998 als gemeinschaftliches Open-Source-Projekt mit dem Ziel gegründet, ein gesünderes Internet zu erarbeiten. Der Großteil der Einnahmen von { -brand-name-mozilla-corporation } wird aus der Vergütung durch Suchpartnerschaften mit { -brand-name-firefox } und weltweiten Verkaufsabkommen erwirtschaftet. Erfahre in unserem <a { $attrs }>jährlichen Finanzbericht mehr darüber, wie wir</a> Geld verdienen.
 
 privacy-faq-v2-softballs = Ok, die Fragen waren noch einfach. Welche Daten sammelt ihr?
 

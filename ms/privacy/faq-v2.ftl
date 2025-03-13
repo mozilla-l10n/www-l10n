@@ -35,6 +35,9 @@ privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } tidak menjual dat
 
 privacy-faq-v2-wait-so-how = Jadi, bagaimana Firefox menjana wang?
 
+# Variables:
+#   $attrs (url) - link to https://stateof.mozilla.org
+privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } bukan organisasi yang biasa. Diasaskan sebagai projek komuniti sumber terbuka pada 1998, { -brand-name-mozilla } ialah organisasi yang didorong oleh misi ke arah menjadikan internet lebih sihat. Kebanyakan hasil pendapatan { -brand-name-mozilla-corporation } adalah daripada royalti yang diterima daripada kerjasama pelayar internet { -brand-name-firefox } dan perjanjian pengedaran di serata dunia. Anda boleh tahu lebih banyak tentang cara kami menjana pendapatan di dalam <a { $attrs }>laporan kewangan tahunan</a> kami.
 
 privacy-faq-v2-softballs = Okay, mula-mula tadi mudah saja. Data apa yang anda kumpulkan?
 

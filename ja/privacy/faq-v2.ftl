@@ -35,6 +35,9 @@ privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } は、ユーザ�
 
 privacy-faq-v2-wait-so-how = ちょっと待って、そうしたら Mozilla はどうやってお金を稼いでるの？
 
+# Variables:
+#   $attrs (url) - link to https://stateof.mozilla.org
+privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } は普通の企業とはちょっと違います。{ -brand-name-mozilla } は 1998 年にコミュニティによるオープンソースのプロジェクトとして発足した、より健全なインターネットを目指すミッション指向の組織です。{ -brand-name-mozilla-corporation } の収益の大部分は、世界各地の { -brand-name-firefox } ウェブブラウザーの検索パートナーシップと配布契約によるものです。Mozilla がどのようにしてお金を稼いでいるかについては、<a { $attrs }>Mozilla の年次財務報告書</a>でご覧いただけます。
 
 privacy-faq-v2-softballs = オーケー。それじゃあズバリ質問するけど、Mozilla が収集するデータには、何がある？
 

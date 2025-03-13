@@ -35,6 +35,9 @@ privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } ne vend pas de do
 
 privacy-faq-v2-wait-so-how = Mais alors comment faites-vous pour être rentable ?
 
+# Variables:
+#   $attrs (url) - link to https://stateof.mozilla.org
+privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } n’est pas une organisation comme les autres. Elle a été fondée dans le cadre d’un projet communautaire open source en 1998. { -brand-name-mozilla } se définit avant tout par sa mission de promotion d’un Internet sain. La majorité des bénéfices de { -brand-name-mozilla-corporation } provient de redevances liées à des partenariats avec des moteurs de recherche au sein de { -brand-name-firefox } ou bien d’accords de distribution à travers le monde. Vous pouvez en apprendre plus en consultant notre <a { $attrs }>rapport financier annuel</a>.
 
 privacy-faq-v2-softballs = D’accord, jusque-là c’était facile. Quelles sont les données que vous collectez ?
 
