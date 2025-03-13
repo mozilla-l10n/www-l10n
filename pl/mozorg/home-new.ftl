@@ -6,3 +6,8 @@
 ### URL: https://www-dev.allizom.org/ (Global locales)
 
 home-internet-for-people-not-profit = Internet dla ludzi, nie dla zysku
+home-cta-get-firefox = Pobierz { -brand-name-firefox(case: "acc") }
+home-product-relay-hide-your = Ukryj swój numer telefonu i adres e-mail przed spamerami
+home-cta-get-relay = Wypróbuj { -brand-name-relay }
+home-product-vpn-trust = VPN, któremu możesz zaufać
+home-cta-get-vpn = Wypróbuj { -brand-name-mozilla-vpn }
