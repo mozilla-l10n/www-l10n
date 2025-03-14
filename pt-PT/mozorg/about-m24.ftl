@@ -20,10 +20,10 @@ m24-about-mozilla-is-working = A { -brand-name-mozilla } está a trabalhar para 
 m24-about-together-we-can = Juntos, podemos manter a Internet fácil, segura e gratuita — para todos.
 m24-about-read-our-manifesto = Leia o nosso manifesto
 # Used as an accessible text alternative for an image
-m24-about-a-group-of = Um grupo de pensadores Sentados em Círculo no Solo a partilhar ideias.
-m24-about-advocate = Procurador
-m24-about-we-advocate-for = Nós defendemos a criação de melhores produtos, responsabilizando os Estados e empresas de tecnologia pelo que criarem.
-m24-about-research = Pesquisar
+m24-about-a-group-of = Um grupo de pensadores sentados em círculo no chão a partilhar ideias.
+m24-about-advocate = Ativismo
+m24-about-we-advocate-for = Defendemos a criação de melhores produtos, responsabilizando os governos e as empresas tecnológicas pelo que criam.
+m24-about-research = Investigação
 # Obsolete string (expires: 2025-02-03)
 m24-about-monitor = Monitor
 m24-about-we-uncover-insights = Recolhemos conhecimentos, fazemos campanhas para melhorar produtos e impulsionamos políticas que representam os seus interesses.

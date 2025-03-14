@@ -54,7 +54,7 @@ manifesto-an-internet-with-these = Uma internet com estas qualidades não ganhar
 manifesto-i-support-the-vision-of-v2 = Eu apoio a visão da { -brand-name-mozilla } para uma internet melhor e mais saudável. Você vai juntar-se a mim?
 # obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Eu apoio a visão da @mozilla para uma internet melhor e mais saudável. Você vai juntar-se a mim?
-manifesto-share-on-bluesky = Partilhar no Azul
+manifesto-share-on-bluesky = Partilhar no Bluesky
 manifesto-our-10-principles = Os <strong>nossos 10</strong> princípios
 manifesto-read-the-entire-manifesto = Ler o manifesto completo
 manifesto-love-the-web = Você adora a web?
