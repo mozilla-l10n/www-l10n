@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/privacy/firefox
 
 privacy-firefox-read-our-privacy = Przeczytaj nasze zasady ochrony prywatności
+privacy-firefox-transparency-first = Przejrzystość przede wszystkim
