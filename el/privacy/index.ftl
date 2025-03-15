@@ -8,13 +8,13 @@
 # HTML page title
 privacy-index-mozilla-privacy = Απόρρητο { -brand-name-mozilla }
 privacy-index-contact-mozilla = Επικοινωνία με τη { -brand-name-mozilla }
-privacy-index-if-you-want-to-make-a-correction = Αν θέλετε να υποβάλετε διορθώσεις στις πληροφορίες σας, ή έχετε οποιαδήποτε απορία σχετικά με τις πολιτικές απορρήτου μας, παρακαλούμε επικοινωνήστε μαζί μας εδώ:
+privacy-index-if-you-want-to-make-a-correction = Αν θέλετε να υποβάλετε διορθώσεις στις πληροφορίες σας ή αν έχετε οποιαδήποτε απορία σχετικά με τις πολιτικές απορρήτου μας, επικοινωνήστε μαζί μας εδώ:
 # Variables:
 #   $dsar (url) - link to https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0
 privacy-index-see-here-for-data-subject = <a href="{ $dsar }">Δείτε εδώ για αιτήματα πρόσβασης θέματος δεδομένων.</a>
 # Variables:
 #   $sumo (url) - link to https://support.mozilla.org/
-privacy-index-for-product-support-requests = Για αιτήματα υποστήριξης προϊόντων, παρακαλούμε <a href="{ $sumo }">επισκεφθείτε το φόρουμ μας</a>.
+privacy-index-for-product-support-requests = Για αιτήματα υποστήριξης προϊόντων, <a href="{ $sumo }">επισκεφτείτε το φόρουμ μας</a>.
 privacy-index-data-privacy-principles = Αρχές απορρήτου δεδομένων
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
