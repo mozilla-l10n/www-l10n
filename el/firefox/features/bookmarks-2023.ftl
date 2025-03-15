@@ -17,7 +17,7 @@ bookmark-manager-collect-your-bookmarks-in-folders = Συγκεντρώστε τ
 # Used as an accessible text alternative for an image
 bookmark-manager-image-of-the-bookmark-manager = Εικόνα του παραθύρου διαχείρισης σελιδοδεικτών στο { -brand-name-firefox }.
 bookmark-manager-easily-import-bookmarks = Εύκολη εισαγωγή σελιδοδεικτών
-bookmark-manager-you-can-import-your-bookmarks = Μπορείτε να εισαγάγετε τους σελιδοδείκτες σας από το Chrome, το Safari ή το Edge με τον βοηθό εισαγωγής του { -brand-name-firefox }. Απλώς κάντε κλικ στο «Σελιδοδείκτες» > «Διαχείριση σελιδοδεικτών» και έπειτα, επιλέξτε «Εισαγωγή και αντίγραφο».
+bookmark-manager-you-can-import-your-bookmarks = Μπορείτε να εισαγάγετε τους σελιδοδείκτες σας από το Chrome, το Safari ή το Edge με τον βοηθό εισαγωγής του { -brand-name-firefox }. Κάντε απλά κλικ στο «Σελιδοδείκτες» > «Διαχείριση σελιδοδεικτών» και έπειτα, επιλέξτε «Εισαγωγή και αντίγραφο».
 # Used as an accessible text alternative for an image
 bookmark-manager-image-of-the-firefox-import-wizard = Εικόνα του βοηθού εισαγωγής του { -brand-name-firefox }, ο οποίος εμφανίζει επιλογές για εισαγωγή ρυθμίσεων και δεδομένων από άλλα προγράμματα περιήγησης.
 bookmark-manager-bookmarks-toolbar = Γραμμή σελιδοδεικτών
