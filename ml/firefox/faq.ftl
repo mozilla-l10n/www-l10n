@@ -40,6 +40,7 @@ is-firefox-safe-download = { -brand-name-firefox } ഇറക്കിവയ്�
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+is-firefox-chromium = { -brand-name-firefox } { -brand-name-chromium }-ൽ അടിത്തറപ്പെട്ടിയ അന്വേഷിയന്ത്രമാണോ?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
