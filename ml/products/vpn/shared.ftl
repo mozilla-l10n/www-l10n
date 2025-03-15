@@ -14,9 +14,34 @@ vpn-shared-terms-conditions = ഉപാധികളും നിബന്ധന�
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-recommended-offer = ശുപാൎശ ചെയ്തതു്
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly = { $amount }<span>/മാസം</span>
+# Monthly price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
+vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/മാസം (നികുതി ചേൎത്തു്)</span>
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-pricing-save-percent = { $percent }% മിച്ചം ഉണ്ടാവും
+# Variables:
+#   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
+# Asterisk indicates a footnote for the following string
+vpn-shared-save-percent-on = { -brand-name-mozilla-vpn }-ൽ { $percent }% മിച്ചം പിടിക്കുക*
+# this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
+vpn-shared-when-you-subscribe = *താങ്ങൾ ഒരു 12 മാസ പദ്ധതിയിൽ വരിയിടുമ്പോഴു്
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total = { $amount } തുക
+# total price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total-plus-tax = { $amount } തുക (നികുതി ചേൎത്തിട്ടു്)
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-headline = തുടങ്ങാം നമ്മൾക്കു്
 vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn } ഇറക്കിവയ്ക്കുക
 vpn-subnav-features = സവിശേഷതകള്‍
 
