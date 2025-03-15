@@ -21,7 +21,7 @@ newsletter-form-sign-up-to-receive = Εγγραφείτε για να λαμβά
 newsletter-form-im-okay-with-mozilla = Δέχομαι την επεξεργασία των πληροφοριών μου από τη { -brand-name-mozilla }, όπως εξηγεί η <a href='{ $url }'>Σημείωση απορρήτου</a>.
 newsletter-form-we-will-only-send-v2 = Θα σας στέλνουμε μόνο πληροφορίες σχετικές με τη { -brand-name-mozilla }. Μπορείτε να καταργήσετε την εγγραφή σας ανά πάσα στιγμή.
 newsletter-form-we-will-only-send-firefox-v2 = Θα σας στέλνουμε μόνο πληροφορίες σχετικές με το { -brand-name-firefox }. Μπορείτε να καταργήσετε την εγγραφή σας ανά πάσα στιγμή.
-newsletter-form-if-you-havent-previously = Αν δεν έχετε επιβεβαιώσει ήδη τη συνδρομή σας σε κάποιο ενημερωτικό δελτίο της { -brand-name-mozilla }, ίσως πρέπει να το κάνετε. Παρακαλούμε ελέγξτε τα εισερχόμενά σας ή τον φάκελο ανεπιθύμητων για ένα email από εμάς.
+newsletter-form-if-you-havent-previously = Αν δεν έχετε επιβεβαιώσει ήδη τη συνδρομή σας σε κάποιο ενημερωτικό δελτίο της { -brand-name-mozilla }, ίσως χρειαστεί να το κάνετε. Ελέγξτε τα εισερχόμενα ή τον φάκελο ανεπιθύμητων μηνυμάτων σας για ένα email από εμάς.
 newsletter-form-firefox-and-you = <span>Το { -brand-name-firefox }</span> + Εσείς
 newsletter-form-get-firefox-tips = Λάβετε συμβουλές, κόλπα, ειδήσεις και πολλά άλλα για το { -brand-name-firefox }
 newsletter-form-keep-up-with = Μη χάσετε <br> τα νέα του { -brand-name-firefox }.
