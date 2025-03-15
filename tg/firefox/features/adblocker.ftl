@@ -12,4 +12,5 @@ features-adblocker-so-many-ads-so-little = Ин қадар бисёр рекла
 features-adblocker-find-the-right-ad-blocker = Манъкунандаи рекламаеро, ки ба ниёзҳои шумо мувофиқ аст, дарёфт кунед
 features-adblocker-choose-your-level-of-protection = Сатҳи муҳофизати худро интихоб кунед
 features-adblocker-go-easy-with-standard = Тамошобинии тинҷу осуда дар реҷаи «Стандартӣ»
+features-adblocker-get-tough-with-strict = Тамошобинии тобовар дар реҷаи «Ҷиддӣ»
 features-adblocker-speed-up-thanks-to-ad = Ба шарофати абзорҳои манъкунандаи реклама суръати браузерро афзоиш диҳед

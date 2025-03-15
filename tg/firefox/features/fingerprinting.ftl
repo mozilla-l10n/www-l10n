@@ -11,4 +11,5 @@ features-fingerprinting-firefox-blocks-fingerprinting = Браузери «{ -br
 features-fingerprinting-every-fingerprint = Ҳар як нақши рақамии ангуштон беназир аст.
 features-fingerprinting-download-firefox = «{ -brand-name-firefox }»-ро боргирӣ кунед
 features-fingerprinting-what-is-fingerprinting-body = Ҷамъоварии нақши рақамии ангуштон чӣ аст?
+features-fingerprinting-fingerprinting-is-bad = Ҷамъоварии нақши рақамии ангуштон барои Интернет зараровар аст
 features-fingerprinting-protect = Махфияти худро муҳофизат намоед

@@ -7,4 +7,5 @@
 
 features-fast-is-firefox-the-fastest-browser = Оё «{ -brand-name-firefox }» браузери тезтарин аст?
 features-fast-browse-faster = Тамошои босуръат
+features-fast-multi-tasking-with-multiple-tabs = Реҷаи бисёрвазифа бо якчанд варақа
 features-fast-faster-gaming = Бозиҳои босуръат

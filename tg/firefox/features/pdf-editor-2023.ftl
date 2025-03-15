@@ -13,4 +13,5 @@ pdf-editor-add-text-to-pdfs-v2 = Файлҳои «PDF»-ро ба воситаи
 pdf-editor-view-and-edit-pdf-files-right-in = Файлҳои «PDF»-ро мустақиман дар браузери «{ -brand-name-firefox }» кушода бинед ва таҳрир намоед.
 pdf-editor-fill-in-forms-online-without = Шаклҳоро бе ниёзи чоп ва тасвирбардорӣ ба таври онлайн пур намоед
 pdf-editor-add-text = Илова кардани матн
+pdf-editor-add-drawings-or-your-signature = Илова кардани расмҳо (ё имзои шумо)
 pdf-editor-add-image-with-alt-text = Илова кардани тасвир бо матни иловагӣ
