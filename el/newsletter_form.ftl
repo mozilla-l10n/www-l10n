@@ -5,9 +5,9 @@
 newsletter-form-please-enter-a-valid = Εισαγάγετε μια έγκυρη διεύθυνση email
 newsletter-form-you-must-agree-to = Πρέπει να συμφωνήσετε με τη σημείωση απορρήτου
 newsletter-form-your-email-address = Η διεύθυνση email σας
-newsletter-form-we-are-sorry-but-there = Λυπούμαστε, αλλά προέκυψε κάποιο πρόβλημα στο σύστημα μας. Παρακαλούμε δοκιμάστε ξανά αργότερα!
-newsletter-form-please-select-country = Παρακαλούμε επιλέξτε μια χώρα ή περιοχή
-newsletter-form-please-select-language = Παρακαλούμε επιλέξτε μια γλώσσα
+newsletter-form-we-are-sorry-but-there = Δυστυχώς, προέκυψε κάποιο πρόβλημα στο σύστημά μας. Δοκιμάστε ξανά αργότερα.
+newsletter-form-please-select-country = Επιλέξτε μια χώρα ή περιοχή
+newsletter-form-please-select-language = Επιλέξτε μια γλώσσα
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Επιλέξτε χώρα ή περιοχή
@@ -39,6 +39,6 @@ newsletter-form-label = Φόρμα εγγραφής στο ενημερωτικ�
 multi-newsletter-form-checkboxes-legend = Θέλω πληροφορίες σχετικά με:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
-multi-newsletter-form-checkboxes-error = Παρακαλούμε επιλέξετε τουλάχιστον μία από τις επιλογές του ενημερωτικού δελτίου.
+multi-newsletter-form-checkboxes-error = Επιλέξετε τουλάχιστον μία από τις επιλογές του ενημερωτικού δελτίου.
 multi-newsletter-form-title = Αγαπάτε το διαδίκτυο;
 multi-newsletter-form-desc = Λάβετε το ενημερωτικό δελτίο της { -brand-name-mozilla } και βοηθήστε μας να διατηρήσουμε το διαδίκτυο ανοικτό και ελεύθερο.

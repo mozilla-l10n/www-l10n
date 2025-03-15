@@ -17,7 +17,7 @@ download-button-recommended = Προτεινόμενα
 download-button-mozilla-no-longer-provides = <a href="{ $url }">Η { -brand-name-mozilla } δεν παρέχει πλέον ενημερώσεις ασφαλείας για το { -brand-name-firefox } στα { -brand-name-windows } { -brand-name-xp } ή { -brand-name-vista }</a>, αλλά μπορείτε ακόμη να κάνετε λήψη της τελευταίας έκδοσης για { -brand-name-windows } 32-bit παρακάτω.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-download-button-please-follow-these = Παρακαλούμε ακολουθήστε <a href="{ $url }">αυτές τις οδηγίες</a> για να εγκαταστήσετε το { -brand-name-firefox }.
+download-button-please-follow-these = Ακολουθήστε <a href="{ $url }">αυτές τις οδηγίες</a> για να εγκαταστήσετε το { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
 download-button-your-system-does-not = Το σύστημά σας δεν πληροί τις <a href="{ $url }">απαιτήσεις</a> για την εκτέλεση του { -brand-name-firefox }.
@@ -44,7 +44,7 @@ download-button-download = Λήψη
 #   $help_url (url) - link to https://support.mozilla.org/
 #   $os_version (string) - e.g. Windows 8.1, macOS 10.14
 download-button-unsupported-platform = Το { $channel_name } <a href="{ $help_url }">δεν υποστηρίζεται πλέον</a> στο λειτουργικό σύστημα { $os_version } και παλαιότερα.
-download-button-please-download-esr = Παρακαλούμε κάντε λήψη του { -brand-name-firefox-esr } (έκδοση εκτεταμένης υποστήριξης) για να χρησιμοποιήσετε το { -brand-name-firefox }.
+download-button-please-download-esr = Κάντε λήψη του { -brand-name-firefox-esr } (έκδοση εκτεταμένης υποστήριξης) για να χρησιμοποιήσετε το { -brand-name-firefox }.
 download-firefox-esr = Λήψη του { -brand-name-firefox-esr }
 download-firefox-esr-32 = Λήψη του { -brand-name-firefox-esr } 32-bit
 download-firefox-esr-64 = Λήψη του { -brand-name-firefox-esr } 64-bit

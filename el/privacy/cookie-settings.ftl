@@ -16,7 +16,7 @@ cookie-settings-save-changes = Αποθήκευση αλλαγών
 cookie-settings-your-cookie-settings-have = Οι ρυθμίσεις cookie σας έχουν ενημερωθεί.
 cookie-settings-i-agree = Συμφωνώ
 cookie-settings-i-do-not-agree = Δεν συμφωνώ
-cookie-settings-turn-on-javascript = Παρακαλούμε ενεργοποιήστε τη JavaScript για να ενημερώσετε τις ρυθμίσεις cookie σας.
+cookie-settings-turn-on-javascript = Ενεργοποιήστε τη JavaScript για να ενημερώσετε τις ρυθμίσεις cookie σας.
 
 ## Necessary cookies section
 

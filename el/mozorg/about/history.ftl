@@ -69,7 +69,7 @@ history-of-course-were-not-alone = Φυσικά, δεν είμαστε μόνο�
 history-the-mozilla-community-together = Η κοινότητα της { -brand-name-mozilla }, μαζί με άλλα έργα ανοικτού κώδικα και οργανισμούς κοινής ωφελείας, υπάρχει μόνο χάρη στους ανθρώπους που συμβάλουν στην πραγματοποίηση των κοινών μας στόχων.
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
-history-if-you-want-to-join-us-in = Αν θέλετε να συμμετάσχετε στην αποστολή μας, παρακαλούμε <a href="{ $contribute }">γίνετε μέλος</a>.
+history-if-you-want-to-join-us-in = Αν θέλετε να συμμετάσχετε στην αποστολή μας, <a href="{ $contribute }">γίνετε μέλος</a>.
 history-for-more-information-about = Για περισσότερες πληροφορίες σχετικά με την ιστορία της { -brand-name-mozilla }, δείτε τα εξής:
 history-mozilla-bookmarks = Σελιδοδείκτες { -brand-name-mozilla }
 history-timeline-of-mozilla-project = Χρονοδιάγραμμα έργου { -brand-name-mozilla }
