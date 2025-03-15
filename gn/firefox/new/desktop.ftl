@@ -25,6 +25,8 @@ firefox-desktop-download-fast-reliable-private = Ipya’e, jeroviaha ha hekoñem
 firefox-desktop-download-no-shady = Ndaipóri temiñemi porureko ivaikuaáva térã okẽ atukupegua ñemurãme g̃uarã. Ha’e kundahára ipya’e ha hekopotĩva.
 firefox-desktop-download-download-options = Ñemboguejy poravorã ha ambuekuéra ñe’ẽ
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } ñepytyvõ
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Ejapo ejapóva ñandutípe.<br> { -brand-name-firefox-browser }<strong> noma’ẽi</strong> nderehe.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Ejapo ejapóva ñandutípe.<br> { -brand-name-firefox-browser }<strong> noma’ẽi</strong> nderehe.
 firefox-desktop-download-how-firefox-compares = Mba’éicha emoñondivekuaa { -brand-name-firefox } ambue kundahára ndive

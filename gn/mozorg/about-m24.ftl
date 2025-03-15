@@ -40,6 +40,7 @@ m24-about-chicago = Peteĩ moheñoihára oĩva Chicago-pe.
 ## Showcase
 
 m24-about-lets-build-a = Jajapo tenondeve jojaverã
+m24-about-see-how-were = Ehecha mba’éichapa romoheñói mba’eporã ñanduti jerére, opavave oiporukuaa hag̃uáicha.
 m24-about-read-about-our = Emoñe’ẽ ore ñe’ẽme’ẽ rehegua
 
 ## Careers
