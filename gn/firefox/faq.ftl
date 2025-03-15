@@ -30,6 +30,7 @@ you-can-easily = Emboguejykuaa pya’e kundahára mohendahápe g̃uarã { -brand
 is-firefox-free = ¿Reiguápa{ -brand-name-firefox }?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = ¡Héẽ! { -brand-name-firefox-browser } noñehepyme’ẽi. Reietegua. Ndaipóri jehepyme’ẽ kañymby. Nerejehepyme’ẽi eiporu hag̃ua, ha norohepyme’ẽi ne mba’ekuaarã teéva.
+yep-the-firefox-browser-is-free = ¡Héẽ! { -brand-name-firefox-browser } noñehepyme’ẽi. Nerehepyme’ẽi. Nerehepyme’ẽi eiporu hag̃ua ha norohepyme’ẽi ne mba’ekuaarã teéva.
 related-questions-free = Porandu ojuehegua: ¿{ -brand-name-firefox-browser } reigua, ¿{ -brand-name-firefox } hepýpa?
 is-chrome-better = ¿{ -brand-name-chrome } iporãvépa { -brand-name-firefox }-gui?
 no-we-dont = Nahániri, ndoro’éi { -brand-name-chrome } iporãveha { -brand-name-firefox }-gui, ha kóva rupive: tapichakuéra oporandu vove mba’e kundahárapa iporãve, avei oñeporandu mba’e kundahárapa ipya’e ha hekorosãve. { -brand-name-firefox } hekopyahu ñavõ jasýpe eikuaa hag̃ua erekoha kundahára ipya’evéva ha omomba’éva ne rekoñemi ijehegui.
