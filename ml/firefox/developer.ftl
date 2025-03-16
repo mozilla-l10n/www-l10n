@@ -68,3 +68,8 @@ firefox-developer-the-new-fonts-panel = ഫയർഫോക്സ് DevTools ല
 firefox-developer-firefox-developer-edition-sends = ഫയര്‍ഫോക്സ് ഡെവലപ്പര്‍ എഡീഷന്‍ ഓട്ടോമാറ്റിക്കായി മോസില്ലയിലേക്ക് ഫീഡ്ബാക്ക് അയയ്ക്കുന്നു.
 firefox-developer-download-the-firefox-browser = ഡെവലപ്പര്‍മാര്‍ക്കുള്ള ഫയര്‍ഫോക്സ് ബ്രൌസര്‍ ഡൌണ്‍ലോഡ് ചെയ്യുക
 firefox-developer-firefox-has-been-rebuilt = ഫയർഫോക്സ് എന്നത്തേക്കാളും ശക്തിയേറിയതും, വേഗതയേറിയതും മിനുക്കമേറിയതുമാക്കാനായി പൂർണ്ണമായും പുനർനിർമ്മിക്കപ്പെട്ടിരിക്കുന്നു.
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-mdn-playground = കളിയിടം
+firefox-developer-mdn-updates = പുതുക്കലുകൾ
+# Obsolete string (expires 18-04-2025)
+firefox-developer-mdn-plus = { -brand-name-mdn-plus }

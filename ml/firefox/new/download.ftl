@@ -8,7 +8,7 @@
 
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
-firefox-new-download-firefox = ഫയർഫക്സ് ഡൗൺലോഡുചെയ്യുക
+firefox-new-download-firefox = { -brand-name-firefox } ഇറക്കിവയ്ക്കുക
 firefox-new-get-the-latest-firefox = ഏറ്റവും പുതിയ ഫയർഫോക്സ് ബ്രൌസർ നേടുക.
 firefox-new-download-in-another-language = മറ്റൊരു ഭാഷയിൽ ഡൌൺലോഡ് ചെയ്യുക
 firefox-new-need-help = സഹായം ആവശ്യമുണ്ടോ?

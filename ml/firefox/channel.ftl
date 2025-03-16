@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/channel/
 
-firefox-channel-desktop = പണിയിടം
+firefox-channel-desktop = ഉപരിഫലകം
 firefox-channel-android = { -brand-name-android }
 firefox-channel-ios = { -brand-name-ios }
 firefox-channel-take-a-browse-on-the-wild-side = ഒരു പരീക്ഷണത്തിനായി ബ്രൗസ് ചെയ്യുക.
