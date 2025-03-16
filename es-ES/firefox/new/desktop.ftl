@@ -20,6 +20,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Está disponible una nueva versión de { -brand-name-firefox }. <a { $update_url }>Actualizar a la última versión</a>
 firefox-desktop-download-get-the-browser = Descarga el navegador que protege lo que es importante
+firefox-desktop-download-fast-reliable-private = Rápido, fiable y privado: para tu tranquilidad en línea.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = No hay políticas de privacidad sospechosas o puertas traseras para los anunciantes. Solo un navegador súper rápido que no te vende.
 firefox-desktop-download-download-options = Opciones de descarga y otros idiomas
@@ -127,6 +128,9 @@ firefox-desktop-download-from-security-to = Desde la seguridad hasta las noticia
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ha sido creado por <a { $attrs }>{ -brand-name-mozilla }</a> como una alternativa más rápida y privada a navegadores como { -brand-name-ie }, y ahora { -brand-name-chrome }. Hoy en día, nuestra comunidad de voluntarios y empresas impulsadas por la misión continúan poniendo tu privacidad por encima de todo.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = A medida que Internet crece y cambia, { -brand-name-firefox } sigue centrándose en tu derecho a la privacidad, que siempre ha sido lo nuestro. Obtén más información sobre nuestras prácticas respecto a los datos en nuestro <a { $attrs }>Aviso de privacidad</a>.
 # Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
