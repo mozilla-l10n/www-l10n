@@ -16,6 +16,8 @@ firefox-new-get-the-latest-firefox = ഏറ്റവും പുതിയ { -br
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = { -brand-name-windows }-നായി { -brand-name-firefox } ഇറക്കിവയ്ക്കുക
 firefox-new-download-firefox-for-macos = { -brand-name-mac }-നായി { -brand-name-firefox } ഇറക്കിവയ്ക്കുക
+firefox-new-download-firefox-for-linux = { -brand-name-linux }-നായി { -brand-name-firefox } ഇറക്കിവയയ്ക്കുക
+firefox-new-free-web-browser = സൗജന്യ അന്വേഷിയന്ത്രം
 firefox-new-download-in-another-language = മറ്റൊരു ഭാഷയിൽ ഡൌൺലോഡ് ചെയ്യുക
 firefox-new-need-help = സഹായം ആവശ്യമുണ്ടോ?
 
