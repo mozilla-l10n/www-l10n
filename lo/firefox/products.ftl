@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/
 
+# HTML page title
+firefox-products-mozilla-products = ຜະລິດຕະພັນຂອງ { -brand-name-mozilla }
 firefox-products-products = ຜະລິດຕະພັນ
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } ແມ່ນພຽງແຕ່ການເລີ່ມຕົ້ນ.
 
