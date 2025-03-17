@@ -130,6 +130,9 @@ firefox-desktop-download-from-security-to = Tietoturvasta uutisten kautta pelaam
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } on luotu <a { $attrs }>{ -brand-name-mozilla }</a>n toimesta nopeammaksi ja yksityisemmäksi vaihtoehdoksi selaimille, kuten { -brand-name-ie }, ja nyt { -brand-name-chrome }. Tänä päivänä tehtävälähtöinen yrityksemme ja vapaaehtoisyhteisömme asettavat edelleen yksityisyytesi kaiken muun edelle.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Internetin kasvaessa ja muuttuessa { -brand-name-firefox } keskittyy edelleen oikeuteesi yksityisyyteen – se on aina ollut meidän juttumme. Lisätietoja datakäytännöistämme on <a { $attrs }>tietosuojakäytännössämme</a>.
 # Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/

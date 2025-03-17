@@ -6,6 +6,7 @@ footer-refresh-discover-mozilla-products = Tutustu { -brand-name-mozilla }n tuot
 footer-refresh-leadership = Johtajisto
 footer-refresh-advertise = Mainosta { -brand-name-mozilla }n avulla
 footer-refresh-firefox-release-notes = { -brand-name-firefox }-Julkaisutiedot
+footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Seuraa @{ -brand-name-mozilla }
