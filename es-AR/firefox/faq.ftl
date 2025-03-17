@@ -71,7 +71,7 @@ does-firefox-use = ¿{ -brand-name-firefox } usa { -brand-name-google }?
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
-firefoxs-default-search = { -brand-name-google } es el motor de búsqueda predeterminado en { -brand-name-firefox }, lo que significa que podés buscar en la web directamente desde la barra de direcciones. <a href="{ $url }">Conocer más sobre las preferencias del motor de búsqueda y cambiar los predeterminados.</a>
+firefoxs-default-search = { -brand-name-google } es el buscador predeterminado en { -brand-name-firefox }, lo que significa que podés buscar en la web directamente desde la barra de direcciones. <a href="{ $url }">Conocer más sobre las preferencias del buscador y cambiar los predeterminados.</a>
 does-firefox-have = ¿{ -brand-name-firefox } tiene una VPN integrada?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
