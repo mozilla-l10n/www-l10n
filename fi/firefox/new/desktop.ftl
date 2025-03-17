@@ -20,10 +20,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Uudempi { -brand-name-firefox } on saatavilla. <a { $update_url }>Päivitä uusimpaan versioon</a>
 firefox-desktop-download-get-the-browser = Hanki tärkeitä asioita suojaava selain
+firefox-desktop-download-fast-reliable-private = Nopea, luotettava ja yksityinen – mielenrauhan takaamiseksi verkossa.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Ei hämäriä tietosuojakäytäntöjä tai takaovia mainostajille. Vain salamannopea selain, jolle et ole kauppatavaraa.
 firefox-desktop-download-download-options = Latausvalinnat ja muut kielet
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser }-tuki
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Tee mitä haluat verkossa.<br> { -brand-name-firefox-browser } <strong>suojaa</strong> sinua.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Tee mitä haluat verkossa.<br> { -brand-name-firefox-browser } <strong>ei</strong> tarkkaile.
 firefox-desktop-download-how-firefox-compares = Kuinka { -brand-name-firefox } pärjää muita selaimia vasten
