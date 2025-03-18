@@ -22,6 +22,9 @@ m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 ## AI gallery
 
+m24-home-tag-event = ເຫດການ
+m24-home-read-more = ອ່ານເພີ່ມເຕີມ
+m24-home-get-started = ເລີ່ມຕົ້ນໃຊ້ງານ
 
 ## Media Springboard
 
