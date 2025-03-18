@@ -8,4 +8,6 @@
 # HTML page title and main title
 vpn-ip-address-what-is-an-ip-address = Kva er ei IP-adresse?
 vpn-ip-address-can-more-than = Kan fleire enn ei eining ha same IP-adresse?
+vpn-ip-address-can-we-run = Kan vi få slutt på dei?
 vpn-ip-address-should-you-hide = Bør du gøyme IP-adressa di?
+vpn-ip-address-how-do-you = Korleis skjuler du det?
