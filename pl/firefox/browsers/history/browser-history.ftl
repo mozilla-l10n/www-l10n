@@ -5,3 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
+browser-history-browser-history = Historia przeglądarki: Epickie zmagania o władzę, które przyniosły nam nowoczesne przeglądarki
+browser-history-the-browser-wars-underdogs-giants = Wojny przeglądarek, słabsi kontra giganci oraz momenty, które zmieniły świat. Przeczytaj o historii przeglądarki internetowej.
+browser-history-the-history-of-web = Historia przeglądarek internetowych
