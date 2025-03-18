@@ -278,7 +278,7 @@ newsletters-update-your-browser = Pro použití tuto stránky prosím aktualizuj
 # Name for the newsletter in Newsletter subscription page
 newsletters-security-and-privacy-news = Novinky o bezpečnosti a soukromí
 # Description for the newsletter in Newsletter subscription page (Security & Privacy News)
-newsletters-stay-informed-of-the-latest = Buďte informováni o nejnovějších trendech v oblasti ochrany soukromí a zabezpečení od { -brand-name-mozilla(case: "acc") }, tvůrců { -brand-name-firefox }.
+newsletters-stay-informed-of-the-latest = Buďte informováni o nejnovějších trendech v oblasti ochrany soukromí a zabezpečení od { -brand-name-mozilla(case: "acc") }, tvůrců { -brand-name-firefox(case: "gen") }.
 # Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-get-security-and-privacy-news-and-tips = Získávejte novinky a aktualizace produktů z oblasti zabezpečení a ochrany osobních údajů od společnosti { -brand-name-mozilla } a buďte v bezpečí a informováni o všem, co dělá web zdravějším místem.
 newsletters-opt-out-delay = Zpracování vaší žádosti o odhlášení může trvat 1-2 pracovní dny, během nichž můžete obdržet další e-mail.
