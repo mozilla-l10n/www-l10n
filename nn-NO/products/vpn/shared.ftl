@@ -16,6 +16,7 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } er eit registrert var
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
+vpn-shared-pricing-recommended-offer = Tilrådd
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/månad</span>
@@ -23,12 +24,22 @@ vpn-shared-pricing-monthly = { $amount }<span>/månad</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/månad + mva</span>
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-pricing-save-percent = Lagre { $percent }%
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total = Totalt { $amount }
 vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } er enno ikkje tilgjengeleg i landet ditt
 
 # Platform subpage shared strings
 
 vpn-shared-platform-cta-headline = La oss kome i gang
+vpn-shared-platform-what-is = Kva er { -brand-name-mozilla-vpn }?
+vpn-shared-platfrom-why-choose = Kvifor { -brand-name-mozilla-vpn }?
 vpn-shared-platform-what-youll-get = Kva du får med { -brand-name-mozilla-vpn }:
+# Subnav strings
+vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Les meir om VPN
 vpn-subnav-download-mozilla-vpn = Last ned { -brand-name-mozilla-vpn }
 vpn-subnav-features = Funksjonar

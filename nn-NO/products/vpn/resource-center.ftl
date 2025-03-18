@@ -6,4 +6,6 @@
 ### URL: https://www-dev.allizom.org/products/vpn/resource-center
 
 vpn-resource-center-whats-the-deal = Kva er greia med virtuelle private nettverk?
+vpn-resource-center-view-all = Vis alle
+vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-get-mozilla-vpn = Last ned { -brand-name-mozilla-vpn }

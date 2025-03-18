@@ -11,3 +11,4 @@ vpn-what-is-how-do-vpns = Korleis fungerer VPN?
 vpn-what-is-when-should-i = Når bør eg bruke eit VPN?
 vpn-what-is-why-would-i = Kvifor skal eg bruke eit VPN?
 vpn-what-is-are-vpns-only = Er VPN berre for datamaskiner?
+vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Rask, sikker, pålitekeg

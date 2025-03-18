@@ -5,9 +5,19 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/pricing/
 
+vpn-pricing-page-title = Prisar - { -brand-name-mozilla-vpn }
 vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 vpn-pricing-one-subscription = Eitt abonnement for alle einingane dine
+# Pricing section
+vpn-pricing-included-in-subscription = Inkludert i abonnementet:
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to =
+    { $devices ->
+        [one] Kople til opptil { $devices } eining
+       *[other] Kople til opptil { $devices } einingar
+    }
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-pricing-connect-up-to-platforms =
