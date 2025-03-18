@@ -15,9 +15,9 @@ vpn-pricing-included-in-subscription = W cenie subskrypcji:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-pricing-connect-up-to =
     { $devices ->
-        [one] Podłącz { $devices } urządzenie
-        [few] Podłącz do { $devices } urządzeń
-       *[many] Podłącz do { $devices } urządzeń
+        [one] Podłączenie { $devices } urządzenia
+        [few] Podłączenie do { $devices } urządzeń
+       *[many] Podłączenie do { $devices } urządzeń
     }
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -26,6 +26,15 @@ vpn-pricing-connect-up-to-platforms =
         [one] Podłącz { $devices } urządzenie z systemem Android, iOS, Windows, macOS lub Linux
         [few] Podłącz do { $devices } urządzeń z systemem Android, iOS, Windows, macOS lub Linux
        *[many] Podłącz do { $devices } urządzeń z systemem Android, iOS, Windows, macOS lub Linux
+    }
+# Variables:
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-pricing-access =
+    { $servers ->
+        [one] Dostęp do { $servers } serwera w { $countries }+ krajach
+        [few] Dostęp do { $servers } serwerów w { $countries }+ krajach
+       *[many] Dostęp do { $servers } serwerów w { $countries }+ krajach
     }
 vpn-pricing-money-back = 30-dniowa gwarancja zwrotu pieniędzy (tylko dla nowych klientów)
 vpn-pricing-annual = Rocznie
@@ -46,3 +55,4 @@ vpn-pricing-how-do-i-manage = Jak mogę zarządzać swoją subskrypcją i zmieni
 vpn-pricing-scan-qrcode-to-download = Aby pobrać aplikację, zeskanuj kod QR za pomocą urządzenia mobilnego lub tabletu
 vpn-pricing-scan-qrcode-to-download-android = Aby pobrać aplikację, zeskanuj kod QR za pomocą urządzenia lub tabletu z systemem Android
 vpn-pricing-download-the-app = Pobierz aplikację
+vpn-pricing-transaction-may-be-in = * Transakcja może być dokonana w walucie lokalnej.
