@@ -35,13 +35,13 @@
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser =
     { $capitalization ->
-       *[lowercase] Firefox tarayıcısı
         [uppercase] Firefox Tarayıcısı
+       *[lowercase] Firefox tarayıcısı
     }
 -brand-name-firefox-browsers =
     { $capitalization ->
-       *[lowercase] Firefox tarayıcıları
         [uppercase] Firefox Tarayıcıları
+       *[lowercase] Firefox tarayıcıları
     }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise

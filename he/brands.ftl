@@ -35,13 +35,13 @@
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser =
     { $case ->
-       *[a] דפדפן Firefox
         [the] דפדפן ה־Firefox
+       *[a] דפדפן Firefox
     }
 -brand-name-firefox-browsers =
     { $case ->
-       *[a] דפדפני Firefox
         [the] דפדפני ה־Firefox
+       *[a] דפדפני Firefox
     }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
@@ -55,8 +55,8 @@
 -brand-name-beta = Beta
 -brand-name-developer-edition =
     { $case ->
-       *[a] מהדורת מפתחים
         [the] מהדורת המפתחים
+       *[a] מהדורת מפתחים
     }
 -brand-name-enterprise = Enterprise
 -brand-name-esr = ESR
@@ -88,9 +88,9 @@
 
 -brand-name-devtools =
     { $case ->
-       *[a] כלי פיתוח
         [the] כלי הפיתוח
         [unchanged] DevTools
+       *[a] כלי פיתוח
     }
 -brand-name-relay = Relay
 -brand-name-relay-premium = Relay Premium
@@ -100,8 +100,8 @@
 
 -brand-name-firefox-account =
     { $case ->
-       *[a] חשבון Firefox
         [the] חשבון ה־Firefox
+       *[a] חשבון Firefox
     }
 -brand-name-firefox-accounts = Firefox Accounts
 -brand-name-firefox-better-web = Firefox Better Web

@@ -35,13 +35,13 @@
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser =
     { $case ->
-       *[nom] Firefox-ბრაუზერი
         [gen] Firefox-ბრაუზერის
         [dat] Firefox-ბრაუზერს
         [ben] Firefox-ბრაუზერისთვის
         [loc] Firefox-ბრაუზერზე
         [ine] Firefox-ბრაუზერში
         [add] Firefox-ბრაუზერთან
+       *[nom] Firefox-ბრაუზერი
     }
 -brand-name-firefox-browsers = Firefox-ბრაუზერები
 -brand-name-firefox-developer-edition = Firefox Developer Edition
@@ -92,7 +92,6 @@
 
 -brand-name-firefox-account =
     { $case ->
-       *[nom] Firefox-ანგარიში
         [gen] Firefox-ანგარიშის
         [dat] Firefox-ანგარიშს
         [ben] Firefox-ანგარიშისთვის
@@ -100,11 +99,12 @@
         [ine] Firefox-ანგარიშში
         [add] Firefox-ანგარიშთან
         [adj] Firefox-ანგარიშით
+       *[nom] Firefox-ანგარიში
     }
 -brand-name-firefox-accounts =
     { $case ->
-       *[nom] Firefox-ანგარიშები
         [add] Firefox-ანგარიშებთან
+       *[nom] Firefox-ანგარიშები
     }
 -brand-name-firefox-better-web = Firefox Better Web
 -brand-name-firefox-lockwise = Firefox Lockwise

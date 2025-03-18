@@ -28,36 +28,36 @@
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser =
     { $case ->
-       *[indefinite-article]
-            { $capitalization ->
-               *[lower] browser Firefox
-                [upper] Browser Firefox
-            }
         [definite-article]
             { $capitalization ->
-               *[lower] browserul Firefox
                 [upper] Browserul Firefox
+               *[lower] browserul Firefox
             }
         [genitive-or-dative]
             { $capitalization ->
                *[lower] browserului Firefox
             }
+       *[indefinite-article]
+            { $capitalization ->
+                [upper] Browser Firefox
+               *[lower] browser Firefox
+            }
     }
 -brand-name-firefox-browsers =
     { $case ->
-       *[indefinite-article]
-            { $capitalization ->
-               *[lower] browsere Firefox
-                [upper] Browsere Firefox
-            }
         [definite-article]
             { $capitalization ->
-               *[lower] browserele Firefox
                 [upper] Browserele Firefox
+               *[lower] browserele Firefox
             }
         [genitive-or-dative]
             { $capitalization ->
                *[lower] browserelor Firefox
+            }
+       *[indefinite-article]
+            { $capitalization ->
+                [upper] Browsere Firefox
+               *[lower] browsere Firefox
             }
     }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
@@ -105,38 +105,38 @@
 
 -brand-name-firefox-account =
     { $case ->
-       *[indefinite-article]
-            { $capitalization ->
-               *[lower] cont Firefox
-                [upper] Cont Firefox
-            }
         [definite-article]
             { $capitalization ->
-               *[lower] contul Firefox
                 [upper] Contul Firefox
                 [upper-and-you] Contul tău Firefox
+               *[lower] contul Firefox
             }
         [genitive-or-dative]
             { $capitalization ->
-               *[lower] contului Firefox
                 [lower-and-you] contului tău Firefox
+               *[lower] contului Firefox
+            }
+       *[indefinite-article]
+            { $capitalization ->
+                [upper] Cont Firefox
+               *[lower] cont Firefox
             }
     }
 -brand-name-firefox-accounts =
     { $case ->
-       *[indefinite-article]
-            { $capitalization ->
-               *[lower] conturi Firefox
-                [upper] Conturi Firefox
-            }
         [definite-article]
             { $capitalization ->
-               *[lower] conturile Firefox
                 [upper] Conturile Firefox
+               *[lower] conturile Firefox
             }
         [genitive-or-dative]
             { $capitalization ->
                *[lower] conturilor Firefox
+            }
+       *[indefinite-article]
+            { $capitalization ->
+                [upper] Conturi Firefox
+               *[lower] conturi Firefox
             }
     }
 -brand-name-firefox-better-web = Firefox Better Web

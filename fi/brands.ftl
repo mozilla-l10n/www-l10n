@@ -33,22 +33,22 @@
 
 -brand-name-firefox =
     { $case ->
-       *[nominative] Firefox
         [ablative] Firefoxilta
         [elative] Firefoxista
         [genitive] Firefoxin
         [illative] Firefoxiin
         [inessive] Firefoxissa
+       *[nominative] Firefox
     }
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser =
     { $case ->
-       *[nominative] Firefox-selain
         [ablative] Firefox-selaimelta
         [elative] Firefox-selaimesta
         [genitive] Firefox-selaimen
         [illative] Firefox-selaimeen
         [inessive] Firefox-selaimessa
+       *[nominative] Firefox-selain
     }
 -brand-name-firefox-browsers = Firefox-selaimet
 -brand-name-firefox-developer-edition = Firefox Developer Edition
@@ -99,21 +99,21 @@
 
 -brand-name-firefox-account =
     { $case ->
-       *[nominative] Firefox-tili
         [adessive] Firefox-tilillä
         [allative] Firefox-tilille
         [genitive] Firefox-tilin
         [illative] Firefox-tiliin
         [partitive] Firefox-tiliä
+       *[nominative] Firefox-tili
     }
 -brand-name-firefox-accounts =
     { $case ->
-       *[nominative] Firefox-tilit
         [adessive] Firefox-tileillä
         [allative] Firefox-tileille
         [genitive] Firefox-tilien
         [illative] Firefox-tileihin
         [partitive] Firefox-tilejä
+       *[nominative] Firefox-tilit
     }
 -brand-name-firefox-better-web = Firefox Better Web
 -brand-name-firefox-lockwise = Firefox Lockwise

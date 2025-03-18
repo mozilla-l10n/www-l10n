@@ -12,8 +12,8 @@
 -brand-name-amazon = Amazon
 -brand-name-apple =
     { $cap ->
-       *[upper] Apple
         [lower] apple
+       *[upper] Apple
     }
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook = Facebook
@@ -23,15 +23,15 @@
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla =
     { $ending ->
-       *[normal]
-            { $case ->
-               *[upper] Mozilla
-                [lower] mozilla
-            }
         [accented]
             { $case ->
-               *[upper] Mozillá
                 [lower] mozillá
+               *[upper] Mozillá
+            }
+       *[normal]
+            { $case ->
+                [lower] mozilla
+               *[upper] Mozilla
             }
     }
 -brand-name-mozilla-corporation = Mozilla Corporation
@@ -71,13 +71,13 @@
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser =
     { $case ->
-       *[nom] Firefox böngésző
         [acc] Firefox böngészőt
+       *[nom] Firefox böngésző
     }
 -brand-name-firefox-browsers =
     { $case ->
-       *[nom] Firefox böngészők
         [acc] Firefox böngészőket
+       *[nom] Firefox böngészők
     }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
@@ -95,17 +95,17 @@
 -brand-name-focus = Focus
 -brand-name-nightly =
     { $case ->
-       *[nominative] Nightly
         [accusative] Nightlyt
         [instrumental] Nightlyval
+       *[nominative] Nightly
     }
 
 ## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora =
     { $case ->
-       *[nom] Firefox Aurora
         [acc] Firefox Aurorát
+       *[nom] Firefox Aurora
     }
 -brand-name-aurora = Aurora
 -brand-name-firefox-daylight = Firefox Daylight
@@ -223,8 +223,8 @@
 -brand-name-ie = Internet Explorer
 -brand-name-opera =
     { $ending ->
-       *[normal] Opera
         [accented] Operá
+       *[normal] Opera
     }
 -brand-name-safari = Safari
 -brand-name-duckduckgo = DuckDuckGo
@@ -233,28 +233,28 @@
 
 -brand-name-android =
     { $cap ->
-       *[upper] Android
         [lower] android
+       *[upper] Android
     }
 -brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux =
     { $cap ->
-       *[upper] Linux
         [lower] linux
+       *[upper] Linux
     }
 -brand-name-mac = macOS
 -brand-name-mac-short =
     { $cap ->
-       *[upper] Mac
         [lower] mac
+       *[upper] Mac
     }
 -brand-name-ubuntu = Ubuntu
 -brand-name-vista = Vista
 -brand-name-windows =
     { $cap ->
-       *[upper] Windows
         [lower] windows
+       *[upper] Windows
     }
 -brand-name-xp = XP
 

@@ -11,147 +11,147 @@
 
 -brand-name-amazon =
     { $case ->
-       *[nom] Amazon
         [gen] Amazonu
         [dat] Amazonu
         [acc] Amazon
         [voc] Amazone
         [loc] Amazonu
         [ins] Amazonem
+       *[nom] Amazon
     }
     .gender = masculine
 -brand-name-apple =
     { $case ->
-       *[nom] Apple
         [gen] Applu
         [dat] Applu
         [acc] Apple
         [voc] Apple
         [loc] Applu
         [ins] Applem
+       *[nom] Apple
     }
     .gender = masculine
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook =
     { $case ->
-       *[nom] Facebook
         [gen] Facebooku
         [dat] Facebooku
         [acc] Facebook
         [voc] Facebook
         [loc] Facebooku
         [ins] Facebookem
+       *[nom] Facebook
     }
     .gender = masculine
 -brand-name-github =
     { $case ->
-       *[nom] GitHub
         [gen] GitHubu
         [dat] GitHubu
         [acc] GitHub
         [voc] GitHube
         [loc] GitHubu
         [ins] GitHubem
+       *[nom] GitHub
     }
     .gender = masculine
 -brand-name-google =
     { $case ->
-       *[nom] Google
         [gen] Googlu
         [dat] Googlu
         [acc] Google
         [voc] Google
         [loc] Googlu
         [ins] Googlem
+       *[nom] Google
     }
     .gender = masculine
 -brand-name-hulu = Hulu
 -brand-name-microsoft =
     { $case ->
-       *[nom] Microsoft
         [gen] Microsoftu
         [dat] Microsoftu
         [acc] Microsoft
         [voc] Microsofte
         [loc] Microsoftu
         [ins] Microsoftem
+       *[nom] Microsoft
     }
     .gender = masculine
 -brand-name-mozilla =
     { $case ->
-       *[nom] Mozilla
         [gen] Mozilly
         [dat] Mozille
         [acc] Mozillu
         [voc] Mozillo
         [loc] Mozille
         [ins] Mozillou
+       *[nom] Mozilla
     }
     .gender = feminine
 -brand-name-mozilla-corporation =
     { $case ->
-       *[nom] Mozilla Corporation
         [gen] Mozilly Corporation
         [dat] Mozille Corporation
         [acc] Mozillu Corporation
         [voc] Mozillo Corporation
         [loc] Mozille Corporation
         [ins] Mozillou Corporation
+       *[nom] Mozilla Corporation
     }
     .gender = feminine
 -brand-name-mozilla-foundation =
     { $case ->
-       *[nom] Mozilla Foundation
         [gen] Mozilly Foundation
         [dat] Mozille Foundation
         [acc] Mozillu Foundation
         [voc] Mozillo Foundation
         [loc] Mozille Foundation
         [ins] Mozillou Foundation
+       *[nom] Mozilla Foundation
     }
     .gender = feminine
 -brand-name-mullvad =
     { $case ->
-       *[nom] Mullvad
         [gen] Mullvadu
         [dat] Mullvadu
         [acc] Mullvad
         [voc] Mullvade
         [loc] Mullvadu
         [ins] Mullvadem
+       *[nom] Mullvad
     }
     .gender = masculine
 -brand-name-netscape =
     { $case ->
-       *[nom] Netscape
         [gen] Netscapu
         [dat] Netscapu
         [acc] Netscape
         [voc] Netscape
         [loc] Netscapu
         [ins] Netscapem
+       *[nom] Netscape
     }
     .gender = masculine
 -brand-name-twitter =
     { $case ->
-       *[nom] Twitter
         [gen] Twitteru
         [dat] Twitteru
         [acc] Twitter
         [voc] Twittere
         [loc] Twitteru
         [ins] Twitterem
+       *[nom] Twitter
     }
     .gender = masculine
 -brand-name-wireguard =
     { $case ->
-       *[nom] WireGuard
         [gen] WireGuardu
         [dat] WireGuardu
         [acc] WireGuard
         [voc] WireGuarde
         [loc] WireGuardu
         [ins] WireGuardem
+       *[nom] WireGuard
     }
     .gender = masculine
 -brand-name-linkedin = LinkedIn
@@ -173,166 +173,166 @@
 
 -brand-name-firefox =
     { $case ->
-       *[nom] Firefox
         [gen] Firefoxu
         [dat] Firefoxu
         [acc] Firefox
         [voc] Firefoxe
         [loc] Firefoxu
         [ins] Firefoxem
+       *[nom] Firefox
     }
     .gender = masculine
 -brand-name-firefox-beta =
     { $case ->
-       *[nom] Firefox Beta
         [gen] Firefoxu Beta
         [dat] Firefoxu Beta
         [acc] Firefox Beta
         [voc] Firefoxe Beta
         [loc] Firefoxu Beta
         [ins] Firefoxem Beta
+       *[nom] Firefox Beta
     }
     .gender = masculine
 -brand-name-firefox-browser =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Prohlížeč Firefox
-                [lower] prohlížeč Firefox
-            }
         [gen]
             { $capitalization ->
-               *[upper] Prohlížeče Firefox
                 [lower] prohlížeče Firefox
+               *[upper] Prohlížeče Firefox
             }
         [dat]
             { $capitalization ->
-               *[upper] Prohlížeči Firefox
                 [lower] prohlížeči Firefox
+               *[upper] Prohlížeči Firefox
             }
         [acc]
             { $capitalization ->
-               *[upper] Prohlížeč Firefox
                 [lower] prohlížeč Firefox
+               *[upper] Prohlížeč Firefox
             }
         [voc]
             { $capitalization ->
-               *[upper] Prohlížeči Firefox
                 [lower] prohlížeči Firefox
+               *[upper] Prohlížeči Firefox
             }
         [loc]
             { $capitalization ->
-               *[upper] Prohlížeči Firefox
                 [lower] prohlížeči Firefox
+               *[upper] Prohlížeči Firefox
             }
         [ins]
             { $capitalization ->
-               *[upper] Prohlížečem Firefox
                 [lower] prohlížečem Firefox
+               *[upper] Prohlížečem Firefox
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] prohlížeč Firefox
+               *[upper] Prohlížeč Firefox
             }
     }
 -brand-name-firefox-browsers =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Prohlížeče Firefox
-                [lower] prohlížeče Firefox
-            }
         [gen]
             { $capitalization ->
-               *[upper] Prohlížečů Firefox
                 [lower] prohlížečů Firefox
+               *[upper] Prohlížečů Firefox
             }
         [dat]
             { $capitalization ->
-               *[upper] Prohlížečům Firefox
                 [lower] prohlížečům Firefox
+               *[upper] Prohlížečům Firefox
             }
         [acc]
             { $capitalization ->
-               *[upper] Prohlížeče Firefox
                 [lower] prohlížeče Firefox
+               *[upper] Prohlížeče Firefox
             }
         [voc]
             { $capitalization ->
-               *[upper] Prohlížeče Firefox
                 [lower] prohlížeče Firefox
+               *[upper] Prohlížeče Firefox
             }
         [loc]
             { $capitalization ->
-               *[upper] Prohlížečích Firefox
                 [lower] prohlížečích Firefox
+               *[upper] Prohlížečích Firefox
             }
         [ins]
             { $capitalization ->
-               *[upper] Prohlížeči Firefox
                 [lower] prohlížeči Firefox
+               *[upper] Prohlížeči Firefox
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] prohlížeče Firefox
+               *[upper] Prohlížeče Firefox
             }
     }
 -brand-name-firefox-developer-edition =
     { $case ->
-       *[nom] Firefox Developer Edition
         [gen] Firefoxu Developer Edition
         [dat] Firefoxu Developer Edition
         [acc] Firefox Developer Edition
         [voc] Firefoxe Developer Edition
         [loc] Firefoxu Developer Edition
         [ins] Firefoxem Developer Edition
+       *[nom] Firefox Developer Edition
     }
     .gender = masculine
 -brand-name-firefox-enterprise =
     { $case ->
-       *[nom] Firefox pro firmy
         [gen] Firefoxu pro firmy
         [dat] Firefoxu pro firmy
         [acc] Firefox pro firmy
         [voc] Firefoxe pro firmy
         [loc] Firefoxu pro firmy
         [ins] Firefoxem pro firmy
+       *[nom] Firefox pro firmy
     }
     .gender = masculine
 -brand-name-firefox-esr =
     { $case ->
-       *[nom] Firefox ESR
         [gen] Firefoxu ESR
         [dat] Firefoxu ESR
         [acc] Firefox ESR
         [voc] Firefoxe ESR
         [loc] Firefoxu ESR
         [ins] Firefoxem ESR
+       *[nom] Firefox ESR
     }
     .gender = masculine
 -brand-name-firefox-extended-support-release =
     { $case ->
-       *[nom] Firefox Extended Support Release
         [gen] Firefoxu Extended Support Release
         [dat] Firefoxu Extended Support Release
         [acc] Firefox Extended Support Release
         [voc] Firefoxe Extended Support Release
         [loc] Firefoxu Extended Support Release
         [ins] Firefoxem Extended Support Release
+       *[nom] Firefox Extended Support Release
     }
     .gender = masculine
 -brand-name-firefox-focus =
     { $case ->
-       *[nom] Firefox Focus
         [gen] Firefoxu Focus
         [dat] Firefoxu Focus
         [acc] Firefox Focus
         [voc] Firefoxe Focus
         [loc] Firefoxu Focus
         [ins] Firefoxem Focus
+       *[nom] Firefox Focus
     }
     .gender = masculine
 -brand-name-firefox-nightly =
     { $case ->
-       *[nom] Firefox Nightly
         [gen] Firefoxu Nightly
         [dat] Firefoxu Nightly
         [acc] Firefox Nightly
         [voc] Firefoxe Nightly
         [loc] Firefoxu Nightly
         [ins] Firefoxem Nightly
+       *[nom] Firefox Nightly
     }
     .gender = masculine
 
@@ -340,13 +340,13 @@
 
 -brand-name-beta =
     { $case ->
-       *[nom] Beta
         [gen] Bety
         [dat] Betě
         [acc] Betu
         [voc] Beto
         [loc] Betě
         [ins] Betou
+       *[nom] Beta
     }
     .gender = feminine
 -brand-name-developer-edition = Developer Edition
@@ -354,13 +354,13 @@
 -brand-name-esr = ESR
 -brand-name-focus =
     { $case ->
-       *[nom] Focus
         [gen] Focusu
         [dat] Focusu
         [acc] Focus
         [voc] Focusi
         [loc] Focusu
         [ins] Focusem
+       *[nom] Focus
     }
     .gender = masculine
 -brand-name-nightly = Nightly
@@ -369,60 +369,60 @@
 
 -brand-name-firefox-aurora =
     { $case ->
-       *[nom] Firefox Aurora
         [gen] Firefoxu Aurora
         [dat] Firefoxu Aurora
         [acc] Firefox Aurora
         [voc] Firefoxe Aurora
         [loc] Firefoxu Aurora
         [ins] Firefoxem Aurora
+       *[nom] Firefox Aurora
     }
     .gender = masculine
 -brand-name-aurora = Aurora
 -brand-name-firefox-daylight =
     { $case ->
-       *[nom] Firefox Daylight
         [gen] Firefoxu Daylight
         [dat] Firefoxu Daylight
         [acc] Firefox Daylight
         [voc] Firefoxe Daylight
         [loc] Firefoxu Daylight
         [ins] Firefoxem Daylight
+       *[nom] Firefox Daylight
     }
     .gender = masculine
 -brand-name-daylight = Daylight
 -brand-name-firefox-quantum =
     { $case ->
-       *[nom] Firefox Quantum
         [gen] Firefoxu Quantum
         [dat] Firefoxu Quantum
         [acc] Firefox Quantum
         [voc] Firefoxe Quantum
         [loc] Firefoxu Quantum
         [ins] Firefoxem Quantum
+       *[nom] Firefox Quantum
     }
     .gender = masculine
 -brand-name-firefox-lite =
     { $case ->
-       *[nom] Firefox Lite
         [gen] Firefoxu Lite
         [dat] Firefoxu Lite
         [acc] Firefox Lite
         [voc] Firefoxe Lite
         [loc] Firefoxu Lite
         [ins] Firefoxem Lite
+       *[nom] Firefox Lite
     }
     .gender = masculine
 -brand-name-lite = Lite
 -brand-name-firefox-reality =
     { $case ->
-       *[nom] Firefox Reality
         [gen] Firefoxu Reality
         [dat] Firefoxu Reality
         [acc] Firefox Reality
         [voc] Firefoxe Reality
         [loc] Firefoxu Reality
         [ins] Firefoxem Reality
+       *[nom] Firefox Reality
     }
     .gender = masculine
 -brand-name-reality = Reality
@@ -431,47 +431,47 @@
 
 -brand-name-facebook-container =
     { $case ->
-       *[nom] Facebook Container
         [gen] Facebook Containeru
         [dat] Facebook Containeru
         [acc] Facebook Container
         [voc] Facebook Containere
         [loc] Facebook Containeru
         [ins] Facebook Containerem
+       *[nom] Facebook Container
     }
     .gender = masculine
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-relay =
     { $case ->
-       *[nom] Firefox Relay
         [gen] Firefoxu Relay
         [dat] Firefoxu Relay
         [acc] Firefox Relay
         [voc] Firefoxe Relay
         [loc] Firefoxu Relay
         [ins] Firefoxem Relay
+       *[nom] Firefox Relay
     }
     .gender = masculine
 -brand-name-firefox-relay-premium =
     { $case ->
-       *[nom] Firefox Relay Premium
         [gen] Firefoxu Relay Premium
         [dat] Firefoxu Relay Premium
         [acc] Firefox Relay Premium
         [voc] Firefoxe Relay Premium
         [loc] Firefoxu Relay Premium
         [ins] Firefoxem Relay Premium
+       *[nom] Firefox Relay Premium
     }
     .gender = masculine
 -brand-name-firefox-sync =
     { $case ->
-       *[nom] Firefox Sync
         [gen] Firefox Syncu
         [dat] Firefox Syncu
         [acc] Firefox Sync
         [voc] Firefox Syncu
         [loc] Firefox Syncu
         [ins] Firefox Syncem
+       *[nom] Firefox Sync
     }
     .gender = masculine
 -brand-name-firefox-translations = Firefox Translations
@@ -483,148 +483,148 @@
 -brand-name-relay-premium = Relay Premium
 -brand-name-sync =
     { $case ->
-       *[nom] Sync
         [gen] Syncu
         [dat] Syncu
         [acc] Sync
         [voc] Syncu
         [loc] Syncu
         [ins] Syncem
+       *[nom] Sync
     }
 
 ## Firefox products (legacy)
 
 -brand-name-firefox-account =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Účet Firefoxu
-                [lower] účet Firefoxu
-            }
         [gen]
             { $capitalization ->
-               *[upper] Účtu Firefoxu
                 [lower] účtu Firefoxu
+               *[upper] Účtu Firefoxu
             }
         [dat]
             { $capitalization ->
-               *[upper] Účtu Firefoxu
                 [lower] účtu Firefoxu
+               *[upper] Účtu Firefoxu
             }
         [acc]
             { $capitalization ->
-               *[upper] Účet Firefoxu
                 [lower] účet Firefoxu
+               *[upper] Účet Firefoxu
             }
         [voc]
             { $capitalization ->
-               *[upper] Účte Firefoxu
                 [lower] účte Firefoxu
+               *[upper] Účte Firefoxu
             }
         [loc]
             { $capitalization ->
-               *[upper] Účtu Firefoxu
                 [lower] účtu Firefoxu
+               *[upper] Účtu Firefoxu
             }
         [ins]
             { $capitalization ->
-               *[upper] Účtem Firefoxu
                 [lower] účtem Firefoxu
+               *[upper] Účtem Firefoxu
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] účet Firefoxu
+               *[upper] Účet Firefoxu
             }
     }
 -brand-name-firefox-accounts =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Účet Firefoxu
-                [lower] účet Firefoxu
-            }
         [gen]
             { $capitalization ->
-               *[upper] Účtu Firefoxu
                 [lower] účtu Firefoxu
+               *[upper] Účtu Firefoxu
             }
         [dat]
             { $capitalization ->
-               *[upper] Účtu Firefoxu
                 [lower] účtu Firefoxu
+               *[upper] Účtu Firefoxu
             }
         [acc]
             { $capitalization ->
-               *[upper] Účet Firefoxu
                 [lower] účet Firefoxu
+               *[upper] Účet Firefoxu
             }
         [voc]
             { $capitalization ->
-               *[upper] Účte Firefoxu
                 [lower] účte Firefoxu
+               *[upper] Účte Firefoxu
             }
         [loc]
             { $capitalization ->
-               *[upper] Účtu Firefoxu
                 [lower] účtu Firefoxu
+               *[upper] Účtu Firefoxu
             }
         [ins]
             { $capitalization ->
-               *[upper] Účtem Firefoxu
                 [lower] účtem Firefoxu
+               *[upper] Účtem Firefoxu
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] účet Firefoxu
+               *[upper] Účet Firefoxu
             }
     }
 -brand-name-firefox-better-web = Firefox Better Web
 -brand-name-firefox-lockwise =
     { $case ->
-       *[nom] Firefox Lockwise
         [gen] Firefoxu Lockwise
         [dat] Firefoxu Lockwise
         [acc] Firefox Lockwise
         [voc] Firefoxe Lockwise
         [loc] Firefoxu Lockwise
         [ins] Firefoxem Lockwise
+       *[nom] Firefox Lockwise
     }
     .gender = masculine
 -brand-name-firefox-marketplace =
     { $case ->
-       *[nom] Firefox Marketplace
         [gen] Firefoxu Marketplace
         [dat] Firefoxu Marketplace
         [acc] Firefox Marketplace
         [voc] Firefoxe Marketplace
         [loc] Firefoxu Marketplace
         [ins] Firefoxem Marketplace
+       *[nom] Firefox Marketplace
     }
     .gender = masculine
 -brand-name-firefox-os =
     { $case ->
-       *[nom] Firefox OS
         [gen] Firefoxu OS
         [dat] Firefoxu OS
         [acc] Firefox OS
         [voc] Firefoxe OS
         [loc] Firefoxu OS
         [ins] Firefoxem OS
+       *[nom] Firefox OS
     }
     .gender = masculine
 -brand-name-firefox-send =
     { $case ->
-       *[nom] Firefox Send
         [gen] Firefoxu Send
         [dat] Firefoxu Send
         [acc] Firefox Send
         [voc] Firefoxe Send
         [loc] Firefoxu Send
         [ins] Firefoxem Send
+       *[nom] Firefox Send
     }
     .gender = masculine
 -brand-name-send = Send
 -brand-name-firefox-private-network =
     { $case ->
-       *[nom] Firefox Private Network
         [gen] Firefoxu Private Network
         [dat] Firefoxu Private Network
         [acc] Firefox Private Network
         [voc] Firefoxe Private Network
         [loc] Firefoxu Private Network
         [ins] Firefoxem Private Network
+       *[nom] Firefox Private Network
     }
     .gender = masculine
 -brand-name-fpn = FPN
@@ -637,13 +637,13 @@
 
 -brand-name-pocket =
     { $case ->
-       *[nom] Pocket
         [gen] Pocketu
         [dat] Pocketu
         [acc] Pocket
         [voc] Pocket
         [loc] Pocketu
         [ins] Pocketem
+       *[nom] Pocket
     }
     .gender = masculine
 
@@ -659,13 +659,13 @@
 
 -brand-name-bugzilla =
     { $case ->
-       *[nom] Bugzilla
         [gen] Bugzilly
         [dat] Bugzille
         [acc] Bugzillu
         [voc] Bugzillo
         [loc] Bugzille
         [ins] Bugzillou
+       *[nom] Bugzilla
     }
     .gender = feminine
 -brand-name-gecko = Gecko
@@ -678,25 +678,25 @@
 -brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-festival =
     { $case ->
-       *[nom] Mozilla Festival
         [gen] Mozilla Festivalu
         [dat] Mozilla Festivalu
         [acc] Mozilla Festival
         [voc] Mozilla Festivale
         [loc] Mozilla Festivalu
         [ins] Mozilla Festivalem
+       *[nom] Mozilla Festival
     }
     .gender = masculine
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn =
     { $case ->
-       *[nom] Mozilla VPN
         [gen] Mozilly VPN
         [dat] Mozille VPN
         [acc] Mozillu VPN
         [voc] Mozillo VPN
         [loc] Mozille VPN
         [ins] Mozillou VPN
+       *[nom] Mozilla VPN
     }
     .gender = feminine
 -brand-name-mozilla-account =
@@ -785,13 +785,13 @@
 -brand-name-rise25 = Rise25
 -brand-name-thunderbird =
     { $case ->
-       *[nom] Thunderbird
         [gen] Thunderbirdu
         [dat] Thunderbirdu
         [acc] Thunderbird
         [voc] Thunderbirde
         [loc] Thunderbirdu
         [ins] Thunderbirdem
+       *[nom] Thunderbird
     }
     .gender = masculine
 
@@ -801,13 +801,13 @@
 -brand-name-mdn = MDN
 -brand-name-monitor =
     { $case ->
-       *[nom] Monitor
         [gen] Monitoru
         [dat] Monitoru
         [acc] Monitor
         [voc] Monitore
         [loc] Monitoru
         [ins] Monitorem
+       *[nom] Monitor
     }
     .gender = masculine
 -brand-name-vpn = VPN
@@ -819,36 +819,36 @@
 -brand-name-hubs = Hubs
 -brand-name-lockwise =
     { $case ->
-       *[nom] Lockwise
         [gen] Lockwisu
         [dat] Lockwisu
         [acc] Lockwise
         [voc] Lockwise
         [loc] Lockwisu
         [ins] Lockwisem
+       *[nom] Lockwise
     }
     .gender = masculine
 -brand-name-lightbeam =
     { $case ->
-       *[nom] Lightbeam
         [gen] Lightbeamu
         [dat] Lightbeamu
         [acc] Lightbeam
         [voc] Lightbeame
         [loc] Lightbeamu
         [ins] Lightbeamem
+       *[nom] Lightbeam
     }
     .gender = masculine
 -brand-name-maker-party = Maker Party
 -brand-name-webmaker =
     { $case ->
-       *[nom] Webmaker
         [gen] Webmakeru
         [dat] Webmakeru
         [acc] Webmaker
         [voc] Webmakere
         [loc] Webmakeru
         [ins] Webmakerem
+       *[nom] Webmaker
     }
     .gender = masculine
 
@@ -861,57 +861,57 @@
 
 -brand-name-brave =
     { $case ->
-       *[nom] Brave
         [gen] Bravu
         [dat] Bravu
         [acc] Brave
         [voc] Brave
         [loc] Bravu
         [ins] Bravem
+       *[nom] Brave
     }
     .gender = masculine
 -brand-name-chrome =
     { $case ->
-       *[nom] Chrome
         [gen] Chromu
         [dat] Chromu
         [acc] Chrome
         [voc] Chrome
         [loc] Chromu
         [ins] Chromem
+       *[nom] Chrome
     }
     .gender = masculine
 -brand-name-edge =
     { $case ->
-       *[nom] Edge
         [gen] Edge
         [dat] Edgi
         [acc] Edge
         [voc] Edgi
         [loc] Edgi
         [ins] Edgem
+       *[nom] Edge
     }
     .gender = masculine
 -brand-name-ie =
     { $case ->
-       *[nom] Internet Explorer
         [gen] Internet Exploreru
         [dat] Internet Exploreru
         [acc] Internet Explorer
         [voc] Internet Explorer
         [loc] Internet Exploreru
         [ins] Internet Explorerem
+       *[nom] Internet Explorer
     }
     .gender = masculine
 -brand-name-opera =
     { $case ->
-       *[nom] Opera
         [gen] Opery
         [dat] Opeře
         [acc] Operu
         [voc] Opero
         [loc] Opeře
         [ins] Operou
+       *[nom] Opera
     }
     .gender = feminine
 -brand-name-safari = Safari
@@ -921,38 +921,38 @@
 
 -brand-name-android =
     { $case ->
-       *[nom] Android
         [gen] Androidu
         [dat] Androidu
         [acc] Android
         [voc] Androide
         [loc] Androidu
         [ins] Androidem
+       *[nom] Android
     }
     .gender = masculine
 -brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux =
     { $case ->
-       *[nom] Linux
         [gen] Linuxu
         [dat] Linuxu
         [acc] Linux
         [voc] Linuxi
         [loc] Linuxu
         [ins] Linuxem
+       *[nom] Linux
     }
     .gender = masculine
 -brand-name-mac = macOS
 -brand-name-mac-short =
     { $case ->
-       *[nom] Mac
         [gen] Macu
         [dat] Macu
         [acc] Mac
         [voc] Macu
         [loc] Macu
         [ins] Macem
+       *[nom] Mac
     }
     .gender = masculine
 -brand-name-ubuntu = Ubuntu
@@ -960,13 +960,13 @@
 -brand-name-vista = Vista
 -brand-name-windows =
     { $case ->
-       *[nom] Windows
         [gen] Windows
         [dat] Windows
         [acc] Windows
         [voc] Windows
         [loc] Windows
         [ins] Windows
+       *[nom] Windows
     }
 -brand-name-xp = XP
 
@@ -974,35 +974,35 @@
 
 -brand-name-app-store =
     { $case ->
-       *[nom] App Store
         [gen] App Storu
         [dat] App Storu
         [acc] App Store
         [voc] App Store
         [loc] App Storu
         [ins] App Storem
+       *[nom] App Store
     }
     .gender = masculine
 -brand-name-ipad =
     { $case ->
-       *[nom] iPad
         [gen] iPadu
         [dat] iPadu
         [acc] iPad
         [voc] iPade
         [loc] iPadu
         [ins] iPadem
+       *[nom] iPad
     }
     .gender = masculine
 -brand-name-iphone =
     { $case ->
-       *[nom] iPhone
         [gen] iPhonu
         [dat] iPhonu
         [acc] iPhone
         [voc] iPhone
         [loc] iPhonu
         [ins] iPhonem
+       *[nom] iPhone
     }
     .gender = masculine
 -brand-name-test-flight = TestFlight
@@ -1011,35 +1011,35 @@
 
 -brand-name-facebook-messenger =
     { $case ->
-       *[nom] Facebook Messenger
         [gen] Facebook Messengeru
         [dat] Facebook Messengeru
         [acc] Facebook Messenger
         [voc] Facebook Messengere
         [loc] Facebook Messengeru
         [ins] Facebook Messengerem
+       *[nom] Facebook Messenger
     }
     .gender = masculine
 -brand-name-instagram =
     { $case ->
-       *[nom] Instagram
         [gen] Instagramu
         [dat] Instagramu
         [acc] Instagram
         [voc] Instagrame
         [loc] Instagramu
         [ins] Instagramem
+       *[nom] Instagram
     }
     .gender = masculine
 -brand-name-messenger =
     { $case ->
-       *[nom] Messenger
         [gen] Messengeru
         [dat] Messengeru
         [acc] Messenger
         [voc] Messengere
         [loc] Messengeru
         [ins] Messengerem
+       *[nom] Messenger
     }
     .gender = masculine
 -brand-name-workplace = Workplace
@@ -1048,25 +1048,25 @@
 
 -brand-name-chromium =
     { $case ->
-       *[nom] Chromium
         [gen] Chromia
         [dat] Chromiu
         [acc] Chromium
         [voc] Chromium
         [loc] Chromiu
         [ins] Chromiem
+       *[nom] Chromium
     }
     .gender = neuter
 -brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
 -brand-name-chromebook =
     { $case ->
-       *[nom] Chromebook
         [gen] Chromebooku
         [dat] Chromebooku
         [acc] Chromebook
         [voc] Chromebooku
         [loc] Chromebooku
         [ins] Chromebookem
+       *[nom] Chromebook
     }
     .gender = masculine

@@ -35,13 +35,13 @@
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser =
     { $capitalization ->
-       *[lowercase] browser Firefox
         [uppercase] Browser Firefox
+       *[lowercase] browser Firefox
     }
 -brand-name-firefox-browsers =
     { $capitalization ->
-       *[lowercase] browser Firefox
         [uppercase] Browser Firefox
+       *[lowercase] browser Firefox
     }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
@@ -56,10 +56,10 @@
 -brand-name-developer-edition = Developer Edition
 -brand-name-enterprise =
     { $role ->
-       *[standalone] Aziende
         [standalone-lowercase] aziende
         [adj-plural] aziendali
         [adj-singular] aziendale
+       *[standalone] Aziende
     }
 -brand-name-esr = ESR
 -brand-name-focus = Focus
@@ -82,9 +82,9 @@
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-devtools =
     { $capitalization ->
-       *[lowercase] strumenti di sviluppo di Firefox
         [uppercase] Strumenti di sviluppo di Firefox
         [eng] Firefox DevTools
+       *[lowercase] strumenti di sviluppo di Firefox
     }
 -brand-name-firefox-relay = Firefox Relay
 -brand-name-firefox-relay-premium = Firefox Relay Premium
@@ -95,9 +95,9 @@
 
 -brand-name-devtools =
     { $type ->
-       *[eng] DevTools
         [ita-lowercase] strumenti di sviluppo
         [ita-uppercase] Strumenti di sviluppo
+       *[eng] DevTools
     }
 -brand-name-relay = Relay
 -brand-name-relay-premium = Relay Premium
@@ -107,8 +107,8 @@
 
 -brand-name-firefox-account =
     { $capitalization ->
-       *[lowercase] account Firefox
         [uppercase] Account Firefox
+       *[lowercase] account Firefox
     }
 -brand-name-firefox-accounts = Firefox Accounts
 -brand-name-firefox-better-web = Firefox Better Web

@@ -83,38 +83,38 @@
 
 -brand-name-firefox-account =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Λογαριασμός Firefox
-                [lower] λογαριασμός Firefox
-            }
         [gen]
             { $capitalization ->
-               *[upper] Λογαριασμού Firefox
                 [lower] λογαριασμού Firefox
+               *[upper] Λογαριασμού Firefox
             }
         [acc]
             { $capitalization ->
-               *[upper] Λογαριασμό Firefox
                 [lower] λογαριασμό Firefox
+               *[upper] Λογαριασμό Firefox
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] λογαριασμός Firefox
+               *[upper] Λογαριασμός Firefox
             }
     }
 -brand-name-firefox-accounts =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Λογαριασμοί Firefox
-                [lower] λογαριασμοί Firefox
-            }
         [gen]
             { $capitalization ->
-               *[upper] Λογαριασμών Firefox
                 [lower] λογαριασμών Firefox
+               *[upper] Λογαριασμών Firefox
             }
         [acc]
             { $capitalization ->
-               *[upper] Λογαριασμούς Firefox
                 [lower] λογαριασμούς Firefox
+               *[upper] Λογαριασμούς Firefox
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] λογαριασμοί Firefox
+               *[upper] Λογαριασμοί Firefox
             }
     }
 -brand-name-firefox-better-web = Firefox Better Web

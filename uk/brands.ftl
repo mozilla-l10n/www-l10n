@@ -35,68 +35,68 @@
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Браузер Firefox
-                [lower] браузер Firefox
-            }
         [gen]
             { $capitalization ->
-               *[upper] Браузера Firefox
                 [lower] браузера Firefox
+               *[upper] Браузера Firefox
             }
         [dat]
             { $capitalization ->
-               *[upper] Браузеру Firefox
                 [lower] браузеру Firefox
+               *[upper] Браузеру Firefox
             }
         [acc]
             { $capitalization ->
-               *[upper] Браузер Firefox
                 [lower] браузер Firefox
+               *[upper] Браузер Firefox
             }
         [abl]
             { $capitalization ->
-               *[upper] Браузером Firefox
                 [lower] браузером Firefox
+               *[upper] Браузером Firefox
             }
         [loc]
             { $capitalization ->
-               *[upper] Браузері Firefox
                 [lower] браузері Firefox
+               *[upper] Браузері Firefox
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] браузер Firefox
+               *[upper] Браузер Firefox
             }
     }
 -brand-name-firefox-browsers =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Браузери Firefox
-                [lower] браузери Firefox
-            }
         [gen]
             { $capitalization ->
-               *[upper] Браузерів Firefox
                 [lower] браузерів Firefox
+               *[upper] Браузерів Firefox
             }
         [dat]
             { $capitalization ->
-               *[upper] Браузерам Firefox
                 [lower] браузерам Firefox
+               *[upper] Браузерам Firefox
             }
         [acc]
             { $capitalization ->
-               *[upper] Браузери Firefox
                 [lower] браузери Firefox
+               *[upper] Браузери Firefox
             }
         [abl]
             { $capitalization ->
-               *[upper] Браузерами Firefox
                 [lower] браузерами Firefox
+               *[upper] Браузерами Firefox
             }
         [loc]
             { $capitalization ->
-               *[upper] Браузерах Firefox
                 [lower] браузерах Firefox
+               *[upper] Браузерах Firefox
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] браузери Firefox
+               *[upper] Браузери Firefox
             }
     }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
@@ -135,35 +135,35 @@
 -brand-name-firefox-relay-premium = Firefox Relay Premium
 -brand-name-firefox-sync =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Синхронізація Firefox
-                [lower] синхронізація Firefox
-            }
         [gen]
             { $capitalization ->
-               *[upper] Синхронізації Firefox
                 [lower] синхронізації Firefox
+               *[upper] Синхронізації Firefox
             }
         [dat]
             { $capitalization ->
-               *[upper] Синхронізації Firefox
                 [lower] синхронізації Firefox
+               *[upper] Синхронізації Firefox
             }
         [acc]
             { $capitalization ->
-               *[upper] Синхронізацію Firefox
                 [lower] синхронізацію Firefox
+               *[upper] Синхронізацію Firefox
             }
         [abl]
             { $capitalization ->
-               *[upper] Синхронізацією Firefox
                 [lower] синхронізацією Firefox
+               *[upper] Синхронізацією Firefox
             }
         [loc]
             { $capitalization ->
-               *[upper] Синхронізації Firefox
                 [lower] синхронізації Firefox
+               *[upper] Синхронізації Firefox
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] синхронізація Firefox
+               *[upper] Синхронізація Firefox
             }
     }
 -brand-name-firefox-translations = Firefox Translations
@@ -175,7 +175,6 @@
 -brand-name-relay-premium = Relay Premium
 -brand-name-sync =
     { $case ->
-       *[nominative] Синхронізація
         [genitive] Синхронізації
         [dative] Синхронізації
         [accusative] Синхронізацію
@@ -183,74 +182,75 @@
         [prepositional] Синхронізації
         [vocative] Синхронізаціє
         [verb] Синхронізуйте
+       *[nominative] Синхронізація
     }
 
 ## Firefox products (legacy)
 
 -brand-name-firefox-account =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Обліковий запис Firefox
-                [lower] обліковий запис Firefox
-            }
         [gen]
             { $capitalization ->
-               *[upper] Облікового запису Firefox
                 [lower] облікового запису Firefox
+               *[upper] Облікового запису Firefox
             }
         [dat]
             { $capitalization ->
-               *[upper] Обліковому запису Firefox
                 [lower] обліковому запису Firefox
+               *[upper] Обліковому запису Firefox
             }
         [acc]
             { $capitalization ->
-               *[upper] Обліковий запис Firefox
                 [lower] обліковий запис Firefox
+               *[upper] Обліковий запис Firefox
             }
         [abl]
             { $capitalization ->
-               *[upper] Обліковим записом Firefox
                 [lower] обліковим записом Firefox
+               *[upper] Обліковим записом Firefox
             }
         [loc]
             { $capitalization ->
-               *[upper] Обліковому записі Firefox
                 [lower] обліковому записі Firefox
+               *[upper] Обліковому записі Firefox
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] обліковий запис Firefox
+               *[upper] Обліковий запис Firefox
             }
     }
 -brand-name-firefox-accounts =
     { $case ->
-       *[nom]
-            { $capitalization ->
-               *[upper] Облікові записи Firefox
-                [lower] облікові записи Firefox
-            }
         [gen]
             { $capitalization ->
-               *[upper] Облікових записів Firefox
                 [lower] облікових записів Firefox
+               *[upper] Облікових записів Firefox
             }
         [dat]
             { $capitalization ->
-               *[upper] Обліковим записам Firefox
                 [lower] обліковим записам Firefox
+               *[upper] Обліковим записам Firefox
             }
         [acc]
             { $capitalization ->
-               *[upper] Облікові записи Firefox
                 [lower] облікові записи Firefox
+               *[upper] Облікові записи Firefox
             }
         [abl]
             { $capitalization ->
-               *[upper] Обліковими записами Firefox
                 [lower] обліковими записами Firefox
+               *[upper] Обліковими записами Firefox
             }
         [loc]
             { $capitalization ->
-               *[upper] Облікових записах Firefox
                 [lower] облікових записах Firefox
+               *[upper] Облікових записах Firefox
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] облікові записи Firefox
+               *[upper] Облікові записи Firefox
             }
     }
 -brand-name-firefox-better-web = Firefox Better Web

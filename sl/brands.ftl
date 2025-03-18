@@ -16,35 +16,35 @@
 -brand-name-github = GitHub
 -brand-name-google =
     { $sklon ->
-       *[imenovalnik] Google
         [rodilnik] Googla
         [dajalnik] Googlu
         [tozilnik] Google
         [mestnik] Googlu
         [orodnik] Googlom
+       *[imenovalnik] Google
     }
 -brand-name-hulu = Hulu
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla =
     { $sklon ->
-       *[imenovalnik] Mozilla
         [rodilnik] Mozille
         [dajalnik] Mozilli
         [tozilnik] Mozillo
         [mestnik] Mozilli
         [orodnik] Mozillo
+       *[imenovalnik] Mozilla
     }
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
 -brand-name-mullvad = Mullvad
 -brand-name-netscape =
     { $sklon ->
-       *[imenovalnik] Netscape
         [rodilnik] Netscapa
         [dajalnik] Netscapu
         [tozilnik] Netscape
         [mestnik] Netscapu
         [orodnik] Netscapom
+       *[imenovalnik] Netscape
     }
 -brand-name-twitter = Twitter
 -brand-name-wireguard = WireGuard
@@ -57,21 +57,16 @@
 
 -brand-name-firefox =
     { $sklon ->
-       *[imenovalnik] Firefox
         [rodilnik] Firefoxa
         [dajalnik] Firefoxu
         [tozilnik] Firefox
         [mestnik] Firefoxu
         [orodnik] Firefoxom
+       *[imenovalnik] Firefox
     }
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser =
     { $sklon ->
-       *[imenovalnik]
-            { $zacetnica ->
-                [velika] Brskalnik Firefox
-               *[mala] brskalnik Firefox
-            }
         [rodilnik]
             { $zacetnica ->
                 [velika] Brskalnika Firefox
@@ -97,14 +92,14 @@
                 [velika] Brskalnikom Firefox
                *[mala] brskalnikom Firefox
             }
+       *[imenovalnik]
+            { $zacetnica ->
+                [velika] Brskalnik Firefox
+               *[mala] brskalnik Firefox
+            }
     }
 -brand-name-firefox-browsers =
     { $sklon ->
-       *[imenovalnik]
-            { $zacetnica ->
-                [velika] Brskalniki Firefox
-               *[mala] brskalniki Firefox
-            }
         [rodilnik]
             { $zacetnica ->
                 [velika] Brskalnikov Firefox
@@ -130,6 +125,11 @@
                 [velika] Brskalniki Firefox
                *[mala] brskalniki Firefox
             }
+       *[imenovalnik]
+            { $zacetnica ->
+                [velika] Brskalniki Firefox
+               *[mala] brskalniki Firefox
+            }
     }
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
@@ -146,12 +146,12 @@
 -brand-name-esr = ESR
 -brand-name-focus =
     { $sklon ->
-       *[imenovalnik] Focus
         [rodilnik] Focusa
         [dajalnik] Focusu
         [tozilnik] Focus
         [mestnik] Focusu
         [orodnik] Focusom
+       *[imenovalnik] Focus
     }
 -brand-name-nightly = Nightly
 
@@ -216,12 +216,12 @@
 
 -brand-name-bugzilla =
     { $sklon ->
-       *[imenovalnik] Bugzilla
         [rodilnik] Bugzille
         [dajalnik] Bugzilli
         [tozilnik] Bugzillo
         [mestnik] Bugzilli
         [orodnik] Bugzillo
+       *[imenovalnik] Bugzilla
     }
 -brand-name-gecko =
     { $sklon ->
@@ -234,12 +234,12 @@
     }
 -brand-name-glean =
     { $sklon ->
-       *[imenovalnik] Glean
         [rodilnik] Gleana
         [dajalnik] Gleanu
         [tozilnik] Glean
         [mestnik] Gleanu
         [orodnik] Gleanom
+       *[imenovalnik] Glean
     }
 -brand-name-irl-podcast = Podkast IRL
 -brand-name-llamafile = Llamafile
@@ -352,12 +352,12 @@
 -brand-name-brave = Brave
 -brand-name-chrome =
     { $sklon ->
-       *[imenovalnik] Chrome
         [rodilnik] Chroma
         [dajalnik] Chromu
         [tozilnik] Chrome
         [mestnik] Chromu
         [orodnik] Chromom
+       *[imenovalnik] Chrome
     }
 -brand-name-edge = Edge
 -brand-name-ie = Internet Explorer
@@ -398,11 +398,11 @@
 -brand-name-google-play = Google Play
 -brand-name-youtube =
     { $sklon ->
-       *[imenovalnik] YouTube
         [rodilnik] YouTuba
         [dajalnik] YouTubu
         [tozilnik] YouTube
         [mestnik] YouTubu
         [orodnik] YouTubom
+       *[imenovalnik] YouTube
     }
 -brand-name-chromebook = Chromebook
