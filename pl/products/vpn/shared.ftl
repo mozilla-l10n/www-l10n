@@ -26,6 +26,9 @@ vpn-shared-pricing-monthly = { $amount }<span>/miesiąc</span>
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/miesiąc + podatek</span>
+# Variables:
+#   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
+vpn-shared-pricing-save-percent = Oszczędź { $percent }%
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *przy subskrypcji planu 12-miesięcznego
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
