@@ -49,6 +49,9 @@ vpn-pricing-the-first-time-you = Jeśli po raz pierwszy zasubskrybujesz { -brand
 vpn-pricing-if-you-purchased = Jeśli zakupiłeś subskrypcję za pośrednictwem Apple App Store lub Google Play Store, Twoja płatność podlega warunkom i zasadom sklepu. Wszelkie zapytania dotyczące rozliczeń i zwrotów za takie zakupy musisz kierować odpowiednio do Apple lub Google.
 vpn-pricing-what-information = Jakie informacje przechowuje { -brand-name-mozilla-vpn }?
 vpn-pricing-how-do-i-manage = Jak mogę zarządzać swoją subskrypcją i zmienić plan?
+# Variables
+# $manage (url) - link to subscription management page
+vpn-pricing-if-already-subscribed = Jeśli jesteś już subskrybentem { -brand-name-mozilla-vpn }, możesz w każdej chwili zmienić swój plan lub <a { $manage }>zarządzać swoją subskrypcją</a>.
 
 ## Mobile only subscription copy
 
