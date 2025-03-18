@@ -45,7 +45,7 @@ vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } nie jest jeszcze dos
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Najczęściej zadawane pytania
 vpn-pricing-refund-policy = Jaka jest polityka zwrotów { -brand-name-mozilla-vpn }?
-vpn-pricing-the-first-time-you = Jeśli po raz pierwszy zasubskrybujesz { -brand-name-mozilla-vpn } za pośrednictwem witryny { -brand-name-mozilla } i anulujesz konto w ciągu pierwszych 30 dni, możesz poprosić o zwrot pieniędzy, a { -brand-name-mozilla } zwróci Ci opłatę za pierwszy okres subskrypcji.
+vpn-pricing-the-first-time-you = Jeśli po raz pierwszy zasubskrybujesz { -brand-name-mozilla-vpn } za pośrednictwem witryny { -brand-name-mozilla(case: "gen") } i anulujesz konto w ciągu pierwszych 30 dni, możesz poprosić o zwrot pieniędzy, a { -brand-name-mozilla } zwróci Ci opłatę za pierwszy okres subskrypcji.
 vpn-pricing-if-you-purchased = Jeśli zakupiłeś subskrypcję za pośrednictwem Apple App Store lub Google Play Store, Twoja płatność podlega warunkom i zasadom sklepu. Wszelkie zapytania dotyczące rozliczeń i zwrotów za takie zakupy musisz kierować odpowiednio do Apple lub Google.
 vpn-pricing-what-information = Jakie informacje przechowuje { -brand-name-mozilla-vpn }?
 vpn-pricing-how-do-i-manage = Jak mogę zarządzać swoją subskrypcją i zmienić plan?
