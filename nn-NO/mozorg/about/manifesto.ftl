@@ -53,6 +53,7 @@ manifesto-show-your-support = Vis støtta di
 manifesto-an-internet-with-these = Eit internett med desse eigenskapane kjem ikkje av seg sjølv. Menneske og organisasjonar må integrere desse måla i både internetteknologien og brukaropplevinga på nettet. { -brand-name-mozilla }-manifestet og dess tilføyingar står for { -brand-name-mozilla }s engasjement for desse måla. Vi vil jobbe med mennesker og organisasjonar rundt om i verda som deler desse måla og vil bidra til eit betre internett for alle.
 # obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Eg støtter visjonen frå @mozilla om eit betre, sunnare internett, vil du vere med?
+manifesto-share-on-bluesky = Del på Bluesky
 manifesto-our-10-principles = Dei <strong>10</strong> prinsippa <strong>våre</strong>
 manifesto-read-the-entire-manifesto = Les heile manifestet
 manifesto-love-the-web = Er du glad i nettet?

@@ -21,6 +21,7 @@ cookie-settings-category-necessary-what-are-subheading = Kva er nødvendige info
 
 ## Preference cookies section
 
+cookie-settings-category-preference-heading = Innstilling
 
 ## Analytics cookies section
 
@@ -29,6 +30,7 @@ cookie-settings-category-analytics-what-are-subheading = Kva er analyse-infokaps
 
 ## Consent section
 
+cookie-settings-your-consent-heading = Ditt samtykke
 
 ## Privacy section
 

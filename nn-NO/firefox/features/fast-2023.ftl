@@ -7,4 +7,5 @@
 
 features-fast-is-firefox-the-fastest-browser = Er { -brand-name-firefox } den raskaste nettlesaren?
 features-fast-browse-faster = Surf raskare
+features-fast-multi-tasking-with-multiple-tabs = Multi-tasking med fleire faner
 features-fast-faster-gaming = Raskare spel

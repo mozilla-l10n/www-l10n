@@ -10,3 +10,4 @@ about-this-site-report-a-bug = Rapporter ein feil
 about-this-site-contribute-to-code = Bidra til kodebasen
 about-this-site-contribute-to-l10n = Bidra på omsettingar
 about-this-site-read-the-docs = Les dokumentasjonen
+about-this-site-colophon = Kolofon

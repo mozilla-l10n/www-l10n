@@ -13,6 +13,8 @@ legal-our-websites = Nettstadane våre
 legal-firefox-services = { -brand-name-firefox }-tenester
 legal-pocket = { -brand-name-pocket }
 legal-privacy-notices-and-policy = Personvernerklæringar og retningslinjer
+# heading for the table of contents, a shorter heading is better
+legal-firefox-contents = Innhald
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: Om rettane dine
 legal-thunderbird = { -brand-name-thunderbird }

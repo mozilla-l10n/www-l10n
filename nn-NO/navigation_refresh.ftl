@@ -3,6 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-refresh-mozilla = { -brand-name-mozilla }
+# An accessible label used to describe that the role of the element is the primary website navigation.
+navigation-refresh-landmark-label = Primær
 
 ## About us
 
@@ -15,6 +17,7 @@ navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Ver med
 navigation-refresh-get-involved-v2 = Ver med
 navigation-refresh-innovation-projects = Innovasjonsprosjekt
+navigation-refresh-innovation-projects-v2 = Innovasjonsprosjekt
 navigation-refresh-blog = Blogg
 navigation-refresh-our-mission = Oppdraget vårt
 navigation-refresh-our-work = Arbeidet vårt
@@ -25,6 +28,7 @@ navigation-refresh-mozilla-ai = { -brand-name-mozilla } AI
 navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
+navigation-refresh-mozilla-advertising = { -brand-name-mozilla }-annonsering
 
 ## Firefox
 

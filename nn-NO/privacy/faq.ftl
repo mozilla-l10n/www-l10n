@@ -33,7 +33,7 @@ privacy-faq-there-are-two-categories-of = Det finst to kategoriar av data som vi
 privacy-faq-the-first-is-what-we-call-technical = Det første er det vi kallar «teknisk informasjon». Det er informasjon om nettlesaren, som til dømes operativsystemet han køyrer på og informasjon om feil eller krasj.
 privacy-faq-do-you-collect-more-data-in = Samlar de inn fleire data i dei tidlege test-utgåvene av { -brand-name-firefox }?
 privacy-faq-but-why-do-you-collect-any-data = Men kvifor samlar de inn data då?
-privacy-faq-data-collection-still-bugs-me = Eg bryr meg ikkje om dataindsamlinga. Kan eg slå henne av?
+privacy-faq-data-collection-still-bugs-me = Eg bryr meg ikkje om datainnsamlinga. Kan eg slå henne av?
 privacy-faq-what-about-my-account-data = Kva med kontodataa mine?
 privacy-faq-we-are-big-believers-of-data = Vi trur på minimering av data, og spør ikkje etter noko vi ikkje treng.
 # Variables:
