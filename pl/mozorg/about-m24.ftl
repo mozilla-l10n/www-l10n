@@ -12,9 +12,13 @@ m24-about-page-desc = { -brand-name-mozilla } tworzy przeglądarki, aplikacje, k
 
 ## Intro
 
+m24-about-reclaim-the-internet = Odzyskajmy Internet
+m24-about-mozilla-is-working = { -brand-name-mozilla } pracuje nad tym, aby kontrola nad Internetem wróciła w ręce jego użytkowników.
 
 ## Manifesto
 
+m24-about-together-we-can = Razem możemy sprawić, że internet będzie łatwy, bezpieczny i darmowy — dla każdego.
+m24-about-read-our-manifesto = Przeczytaj nasz manifest
 
 ## News
 
