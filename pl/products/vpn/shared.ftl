@@ -30,6 +30,10 @@ vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/miesiąc + podatek</span
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = Oszczędź { $percent }%
+# Variables:
+#   $percent (string) - percentage saved with chosen subscription plan e.g. '40'.
+# Asterisk indicates a footnote for the following string
+vpn-shared-save-percent-on = Kup { -brand-name-mozilla-vpn(case: "acc") } ze zniżką { $percent }%*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-when-you-subscribe = *przy subskrypcji planu 12-miesięcznego
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
