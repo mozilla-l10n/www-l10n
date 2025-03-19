@@ -97,6 +97,8 @@ m24-home-alt-rise25-smiling = Peteĩ ñe’ẽkuaahára ijero ha opukavýva { -b
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Ijuruvýva mbojopoipyre { -brand-name-rise25 }-pe.
 m24-home-state-of-mozilla = { -brand-name-mozilla } rekotee
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = Pixel art abstracto sa’ykuéra hovyũ, narã ha pytãngýpe
 m24-home-read-the-report = Emoñe’ẽ marandu’i
 
 ## Issues

@@ -50,6 +50,7 @@ vpn-features-support-for-custom-dns = Ñepytyvõ DNS mboavapyrépe g̃uarã
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
 vpn-features-keep-traffic-protected = { -brand-name-mozilla-vpn } ndive, emo’ãkuaa nde jeike ha emboguata nde DNS ñeporandu emondosehápe. <a { $dns }>Eñemomaranduve jokupyty DNS mboavapyréva ndive</a>.
 vpn-features-flexible = Pepykuaáva
+vpn-features-webste-specific-vpn = VPN ñemboheko ha’etéva peteĩteĩva ñanduti roguépe g̃uarã, oikoitéva { -brand-name-firefox }-pe
 vpn-features-personalized-server = Ñemoñe’ẽ avaitépe mohendahavusu rendaite rehegua
 vpn-features-well-suggest-which-servers = Ro’e ndéve mba’e apopyvusu ag̃uiguáva ne pytyvõta jeikekaturã ñanduti ipya’e ha jeroviahávape.
 vpn-features-personalize-which-apps = Eiporavo mba’e tembiporu’ípa oñemo’ãta VPN ndive
