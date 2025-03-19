@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/
 
 learn-more-faq = { -brand-name-firefox } പതിവുചോദ്യങ്ങൾ
+the-history-of = ഗോളാന്തരവല അന്വേഷിയന്ത്രങ്ങളുടെ പഴപ്പാട്
 what-is-a = അന്വേഷിയന്ത്രം പറഞ്ഞാൽ എന്താണു് ?
 firefox-for-linux = { -brand-name-linux }-നായി { -brand-name-firefox }
 firefox-more-translate-the-web = ഗോളാന്തരവലയിന്റ വിവൎത്തനം ചെയ്യുക
