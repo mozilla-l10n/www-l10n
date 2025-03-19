@@ -25,6 +25,9 @@ m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-tag-event = ເຫດການ
 m24-home-read-more = ອ່ານເພີ່ມເຕີມ
 m24-home-get-started = ເລີ່ມຕົ້ນໃຊ້ງານ
+m24-home-builders-helps-independent = ຜູ້ກໍ່ສ້າງຊ່ວຍໃຫ້ຜູ້ພັດທະນາເອກະລາດສ້າງໂຄງການ AI ເປີດແຫຼ່ງທີ່ປ່ຽນແປງໄດ້ໂດຍຜ່ານການຮ່ວມມື, ການຂຽນໂປຼແກຼມ, ແລະ ຊຸມຊົນ.
+# Used as an accessible text alternative for an image
+m24-home-alt-lumigator-logo = ໂລໂກ້ { -brand-name-lumigator }.
 
 ## Media Springboard
 
