@@ -22,6 +22,9 @@ vpn-linux-how-to-install = Mba’éichapa emohendáta { -brand-name-mozilla-vpn 
 # 'mozillavpn' should not be translated as it is the proper name of the package
 vpn-linux-if-you-use-v2 = Eiporúramo peteĩva umi ojokupytýva Ubuntu ndive, ikatukuaa emohenda mokõi hendáicha mozillavpn oñemoĩva <a { $attrs }>Launchpad:</a> ndive
 # Variables:
+#   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
+vpn-linux-ubuntu-command = <strong>Ubuntu líña mbopya’eha ayvu:</strong> hesakã porã hag̃ua mba’éichapa emohendáta { -brand-name-mozilla-vpn } tembiporu líña mbopya’eha ayvu ndive, eporandu <a { $attrs }>Mba’éicha emboguejýta { -brand-name-mozilla-vpn } mohendaha Linux ndive</a>.
+# Variables:
 #   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
 vpn-linux-ubuntu-graphical = <strong>Mba’erechaha ra’ãnga Ubuntu poruhára rehegua:</strong> Eike <a { $attrs }>ko jehaipyrépe</a> ha ehecha pehẽ Embojuaju marandurenda pakéte tapicha mba’eteéva.
 # Variables:

@@ -22,6 +22,7 @@ vpn-landing-log-in-to-your-bank-or = Eñepyrũ tembiapo ne banco térã tembipor
 vpn-landing-blocks-advertisers-from = Ojoko umi marandu ñemurã oma’ẽvo nderehe
 vpn-landing-hide-your-activity-from = Eñomi ne rembiapo tapykuehoha ha malware-gui ejogua hag̃ua ejehecha’ỹre.
 vpn-landing-take-control = Ereko nde pópe pe VPN ñemboheko ñanduti rendápe g̃uarã
+vpn-landing-customize-your-vpn = Embohéra VPN ñemo’ãha peteĩteĩva ñanduti roguépe jepysokue ndive { -brand-name-mozilla-vpn } { -brand-name-firefox }-pe g̃uarã (Windows añoite).
 vpn-landing-features = Reheguáva
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
