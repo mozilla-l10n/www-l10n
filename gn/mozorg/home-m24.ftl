@@ -35,6 +35,7 @@ m24-home-firefox-relay = { -brand-name-firefox-relay }
 ## Donate
 
 m24-home-donate-to-the = Embojopói mba’apohaguasu viru’ỹgua { -brand-name-mozilla }
+m24-home-were-proudly-nonprofit = Rojerovu ha’ere tendaguasu roku’éva viru’ỹre. ¿Eme’ẽsépa jopói { -brand-name-mozilla }-pe ko árape?
 m24-home-donate = Me’ẽ
 
 ## AI gallery
@@ -85,6 +86,7 @@ m24-home-headline-you-ai = Mba’ejára: Nde, IA ha ñanduti: ¿mba’ete pe oje
 m24-home-headline-you-ai-v2 = Nde, IA ha ñanduti: ¿mba’ete pe ojehuvahína?
 m24-home-keeping-genai-technologies = Hekorosã hag̃ua tembiporupyahu GenAI ha’e opavavete rembiaporã.
 m24-home-from-hollywood-to = Hollywood guive hip hop reheguáva peve, oñomongeta IA jarakuéra ndive.
+m24-home-kids-are-growing = Mitãnguéra okakuaa arapýpe ñanduti jeporúpe. ¿Mba’épa ojapokuaa tuvakuéra ojepy’apýva?
 
 ## Showcase
 
