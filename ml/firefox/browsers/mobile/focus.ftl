@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
+mobile-focus-delete-your-history = നാൾവഴി മായ്ക്കുക
 mobile-focus-made-by-mozilla = { -brand-name-mozilla } ഉണ്ടാക്കിയതു്
