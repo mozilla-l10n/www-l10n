@@ -12,6 +12,9 @@ vpn-shared-waitlist-link = Dołącz do listy oczekujących
 vpn-shared-money-back-guarantee = 30-dniowa gwarancja zwrotu pieniędzy
 vpn-shared-features-encrypt = Szyfrowanie na poziomie urządzenia
 vpn-shared-features-bandwidth = Bez ograniczeń przepustowości
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-connect = Podłączenie do { $devices } urządzeń
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30-dniowa gwarancja zwrotu pieniędzy
 vpn-shared-privacy-notice = Zasady ochrony prywatności
