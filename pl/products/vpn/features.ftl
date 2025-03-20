@@ -5,10 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/features/
 
+vpn-features-page-title = Możliwości - { -brand-name-mozilla-vpn }
 vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 # Line break for visual format only
 vpn-features-features-that-protect = Funkcje które chronią<br>Twoje życie w sieci
+vpn-features-money-back = 30-dniowa gwarancja zwrotu pieniędzy
+vpn-features-plus-customer-support = Plus całodobowe wsparcie klienta.
 vpn-features-we-never-log = Nigdy nie rejestrujemy, nie śledzimy ani nie dzielimy się tym, co robisz w Internecie
 # Variables
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
