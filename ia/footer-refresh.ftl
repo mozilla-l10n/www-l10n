@@ -5,6 +5,7 @@
 footer-refresh-discover-mozilla-products = Discoperi le productos e le initiativas de { -brand-name-mozilla }. Nos promitte que tenera tu email private e secur, nulle compartimento, nulle vendita, justo grande actualisationes.
 footer-refresh-leadership = Commando
 footer-refresh-advertise = Face publicitate con { -brand-name-mozilla }
+footer-refresh-mozilla-advertising = Publicitate de { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Notas de version de { -brand-name-firefox }
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
