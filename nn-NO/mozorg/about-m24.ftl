@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } lagar nettlesarar, appar, kode og 
 
 ## Intro
 
+m24-about-reclaim-the-internet = Ta tilbake nettet med oss
 
 ## Manifesto
 
