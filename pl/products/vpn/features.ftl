@@ -10,6 +10,9 @@ vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 # Line break for visual format only
 vpn-features-features-that-protect = Funkcje które chronią<br>Twoje życie w sieci
+vpn-features-convenient = Wygodna
+vpn-features-secure = Bezpieczna
+vpn-features-flexible = Elastyczna
 vpn-features-money-back = 30-dniowa gwarancja zwrotu pieniędzy
 vpn-features-plus-customer-support = Plus całodobowe wsparcie klienta.
 vpn-features-we-never-log = Nigdy nie rejestrujemy, nie śledzimy ani nie dzielimy się tym, co robisz w Internecie

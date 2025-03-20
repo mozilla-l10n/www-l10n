@@ -12,6 +12,7 @@ vpn-shared-waitlist-link = Dołącz do listy oczekujących
 vpn-shared-money-back-guarantee = 30-dniowa gwarancja zwrotu pieniędzy
 vpn-shared-features-encrypt = Szyfrowanie na poziomie urządzenia
 vpn-shared-features-bandwidth = Bez ograniczeń przepustowości
+vpn-shared-features-activity = Nie jest rejestrowana Twoja aktywność w sieci
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-strong-servers = Mocne serwery w { $countries }+ krajach
