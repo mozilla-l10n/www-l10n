@@ -25,7 +25,6 @@ footer-refresh-support = सपोर्ट
 footer-refresh-product-help = उत्पाद सहायता
 footer-refresh-file-a-bug = समस्या रिपोर्ट करें
 footer-refresh-localize-mozilla = { -brand-name-mozilla } को अपनी भाषा में पाएं
-footer-refresh-resources = संसाधन
 footer-refresh-brand-standards = ब्रांड मानक
 footer-refresh-developers = डेवलपर
 footer-refresh-developer-edition = { -brand-name-developer-edition }

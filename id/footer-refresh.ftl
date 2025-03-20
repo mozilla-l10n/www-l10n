@@ -25,7 +25,6 @@ footer-refresh-support = Dukungan
 footer-refresh-product-help = Bantuan Produk
 footer-refresh-file-a-bug = Laporkan Masalah
 footer-refresh-localize-mozilla = Lokalkan { -brand-name-mozilla }
-footer-refresh-resources = Sumber Daya
 footer-refresh-brand-standards = Standar Merek
 footer-refresh-developers = Pengembang
 footer-refresh-developer-edition = { -brand-name-developer-edition }
