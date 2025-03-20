@@ -20,5 +20,14 @@ vpn-landing-hide-your-activity-from = Ukryj swoją aktywność przed skryptami �
 vpn-landing-take-control = Daje kontrolę dzięki ustawieniom VPN specyficznym dla danej witryny
 vpn-landing-customize-your-vpn = Dostosuj zabezpieczenia VPN dla każdej witryny osobno za pomocą rozszerzenia { -brand-name-mozilla-vpn } dla { -brand-name-firefox(case: "gen") } (tylko dla Windows).
 vpn-landing-features = Możliwości
+# Variables:
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-landing-more-than-servers-in-countries =
+    { $servers ->
+        [one] Więcej niż { $servers } serwer w { $countries }+ krajach
+        [few] Ponad { $servers } serwery w { $countries }+ krajach
+       *[many] Ponad { $servers } serwerów w { $countries }+ krajach
+    }
 vpn-landing-no-logging-tracking-or-sharing = Zero rejestrowania, śledzenia lub udostępniania danych sieciowych użytkowników
 vpn-landing-one-subscription-for-all-your = Jedna subskrypcja dla wszystkich Twoich urządzeń

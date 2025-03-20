@@ -11,8 +11,18 @@ vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 # Line break for visual format only
 vpn-features-features-that-protect = Funkcje które chronią<br>Twoje życie w sieci
 vpn-features-convenient = Wygodna
+# Variables
+#   $servers (number) - number of VPN servers
+#   $countries (number) - number of available countries
+vpn-features-more-than =
+    { $servers ->
+        [one] Więcej niż { $servers } serwer w { $countries }+ krajach
+        [few] Więcej niż { $servers } serwery w { $countries }+ krajach
+       *[many] Ponad { $servers } serwerów w { $countries }+ krajach
+    }
 vpn-features-secure = Bezpieczna
 vpn-features-flexible = Elastyczna
+vpn-features-trustworthy = Godna zaufania
 vpn-features-money-back = 30-dniowa gwarancja zwrotu pieniędzy
 vpn-features-plus-customer-support = Plus całodobowe wsparcie klienta.
 vpn-features-we-never-log = Nigdy nie rejestrujemy, nie śledzimy ani nie dzielimy się tym, co robisz w Internecie
