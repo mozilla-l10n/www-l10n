@@ -15,8 +15,8 @@ privacy-faq-v2-at-mozilla = V { -brand-name-mozilla(case: "loc") } vaše osobní
 # Variables:
 #   $attrs (url) - link to https://www.mozilla.org/privacy/principles/
 privacy-faq-v2-we-follow = Řídíme se našimi <a { $attrs }>zásadami ochrany osobních údajů</a>, které řídí náš přístup k vašemu soukromí pro používání { -brand-name-firefox(case: "gen") } na počítači i mobilních zařízeních.
-privacy-faq-v2-we-strive-collect-data = Snažíme se sbírat pouze data potřebná k tomu, abychom mohli vytvářet ty nejlepší produkty.
-privacy-faq-v2-we-work-to = Snažíme se, aby lidé měli kontrolu nad svými daty a online prožitkem.
+privacy-faq-v2-we-strive-collect-data = Snažíme se shromažďovat pouze údaje, které potřebujeme k výrobě těch nejlepších produktů.
+privacy-faq-v2-we-work-to = Snažíme se, aby lidé měli kontrolu nad svými daty a online zkušenostmi.
 privacy-faq-v2-we-adhere = Snažíme se nepřipravovat vám žádná překvapení. Naším cílem je, aby lidé rozuměli tomu, jaký je { -brand-name-firefox } ve skutečnosti.
 privacy-faq-v2-following-questions = Následující otázky a odpovědi vám pomohou porozumět co můžete od { -brand-name-mozilla(case: "gen") } a { -brand-name-firefox(case: "gen") } očekávat:
 
@@ -37,7 +37,7 @@ privacy-faq-v2-softballs = Teď něco složitějšího, jaká sbíráte data?
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 privacy-faq-v2-mozilla-does-collect = { -brand-name-mozilla } sbírá omezené množství dat ve výchozím nastavení { -brand-name-firefox(case: "gen") }, které nám pomáhá porozumět, jak ho lidé používají. Další informace si můžete přečíst v našich <a { $privacy }>zásadách ochrany osobních údajů</a> a přečíst si <a { $data }>kompletní dokumentaci sběru dat</a>. Naší dokumentaci také zveřejňujeme, takže si každý může ověřit, co je pravda, a říci nám, zda je třeba něco zlepšit, a tak mít jistotu, že nic netajíme.
-privacy-faq-v2-do-you-collect = Sbíráte nějaká další data v nefinálních verzích { -brand-name-firefox(case: "gen") }?
+privacy-faq-v2-do-you-collect = Shromažďujete více údajů v předběžných verzích { -brand-name-firefox(case: "gen") }?
 privacy-faq-v2-sort-of = Tak nějak. Kromě výše popsaných údajů dostáváme ve výchozím nastavení ve verzích před vydáním { -brand-name-firefox(case: "gen") } hlášení o pádech a chybách.
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/shield
@@ -57,7 +57,7 @@ privacy-faq-v2-we-are-big-believers = Jsme zastánci minimalizace dat a nežád�
 # Variables:
 #   $attrs (url) - link to https://www.mozilla.org/account/
 privacy-faq-v2-you-dont-need-an-account = Pro používání { -brand-name-firefox(case: "gen") } nepotřebujete účet. <a { $attrs }>Účet</a> je potřeba pro synchronizaci dat mezi zařízeními, ale potřebujeme jen e-mailovou adresu a věk (pro jistotu, že nejste dítě).
-privacy-faq-v2-you-use-digital = Součástí vašeho marketingu jsou i reklamní kampaně. Nakupujete něčí data abyste lépe tyto online reklamy zacílili?
+privacy-faq-v2-you-use-digital = Digitální reklamu používáte jako součást marketingového mixu. Kupujete údaje lidí, abyste mohli lépe cílit své online reklamy?
 privacy-faq-v2-no-we-do-not-buy = Nikoliv, pro cílení reklamy uživatelská data nekupujeme.
 privacy-faq-v2-we-do-not-ask = Své reklamní partnery žádáme, aby používali jen data, která stránky a jejich majitelé znají obecně o všech svých uživatelích, jako je např. použitý prohlížeč nebo zařízení.
 privacy-faq-v2-well-it-seems = Zdá se, že vám opravdu na mém soukromí záleží.
