@@ -25,7 +25,6 @@ footer-refresh-support = Ondersteuning
 footer-refresh-product-help = Producthulp
 footer-refresh-file-a-bug = Een bug melden
 footer-refresh-localize-mozilla = { -brand-name-mozilla } localiseren
-footer-refresh-resources = Hulpbronnen
 footer-refresh-brand-standards = Merkstandaarden
 footer-refresh-developers = Ontwikkelaars
 footer-refresh-developer-edition = { -brand-name-developer-edition }

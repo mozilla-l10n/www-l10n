@@ -25,7 +25,6 @@ footer-refresh-support = Podpora
 footer-refresh-product-help = Pomoč za izdelek
 footer-refresh-file-a-bug = Prijavite hrošča
 footer-refresh-localize-mozilla = Lokalizacija { -brand-name-mozilla(sklon: "rodilnik") }
-footer-refresh-resources = Viri
 footer-refresh-brand-standards = Standardi blagovne znamke
 footer-refresh-developers = Razvijalci
 footer-refresh-developer-edition = { -brand-name-developer-edition }

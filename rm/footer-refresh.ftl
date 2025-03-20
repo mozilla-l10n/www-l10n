@@ -24,7 +24,6 @@ footer-refresh-support = Agid
 footer-refresh-product-help = Agid per products
 footer-refresh-file-a-bug = Annunziar ina errur
 footer-refresh-localize-mozilla = Translaziun da { -brand-name-mozilla }
-footer-refresh-resources = Resursas
 footer-refresh-brand-standards = Utilisaziun da la marca
 footer-refresh-developers = Sviluppaders
 footer-refresh-developer-edition = { -brand-name-developer-edition }

@@ -25,7 +25,6 @@ footer-refresh-support = Podpora
 footer-refresh-product-help = Pomocník
 footer-refresh-file-a-bug = Nahláste chybu
 footer-refresh-localize-mozilla = Lokalizácia { -brand-name-mozilla(case: "gen") }
-footer-refresh-resources = Zdroje
 footer-refresh-brand-standards = Štandardy značky
 footer-refresh-developers = Vývojári
 footer-refresh-developer-edition = { -brand-name-developer-edition }

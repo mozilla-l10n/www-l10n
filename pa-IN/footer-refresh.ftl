@@ -23,7 +23,6 @@ footer-refresh-support = ਸਹਿਯੋਗ
 footer-refresh-product-help = ਉਤਪਾਦ ਮਦਦ
 footer-refresh-file-a-bug = ਬੱਗ ਦੀ ਜਾਣਕਾਰੀ ਦਿਓ
 footer-refresh-localize-mozilla = { -brand-name-mozilla } ਦਾ ਅਨੁਵਾਦ ਕਰੋ
-footer-refresh-resources = ਸਰੋਤ
 footer-refresh-brand-standards = ਬਰੈਂਡ ਮਿਆਰ
 footer-refresh-developers = ਡਿਵੈਲਪਰ
 footer-refresh-developer-edition = { -brand-name-developer-edition }

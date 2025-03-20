@@ -24,7 +24,6 @@ footer-refresh-support = Supportu
 footer-refresh-product-help = Ajutu pî prudutti
 footer-refresh-file-a-bug = Signalija nu sbagghiu
 footer-refresh-localize-mozilla = Traduci { -brand-name-mozilla }
-footer-refresh-resources = Risursi
 footer-refresh-brand-standards = Usu dû mercu
 footer-refresh-developers = Sbiluppatura
 footer-refresh-developer-edition = { -brand-name-developer-edition }

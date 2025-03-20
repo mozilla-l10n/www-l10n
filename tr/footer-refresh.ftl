@@ -25,7 +25,6 @@ footer-refresh-support = Destek
 footer-refresh-product-help = Ürün Yardımı
 footer-refresh-file-a-bug = Hata Bildirin
 footer-refresh-localize-mozilla = { -brand-name-mozilla }’yı Yerelleştirin
-footer-refresh-resources = Kaynaklar
 footer-refresh-brand-standards = Marka Standartları
 footer-refresh-developers = Geliştiriciler
 footer-refresh-developer-edition = { -brand-name-developer-edition }

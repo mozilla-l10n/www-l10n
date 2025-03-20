@@ -25,7 +25,6 @@ footer-refresh-support = Asistencë
 footer-refresh-product-help = Ndihmë mbi Produkte
 footer-refresh-file-a-bug = Parashtroni një të Metë
 footer-refresh-localize-mozilla = Përktheni { -brand-name-mozilla }-n
-footer-refresh-resources = Burime
 footer-refresh-brand-standards = Standarde Marke
 footer-refresh-developers = Zhvillues
 footer-refresh-developer-edition = { -brand-name-developer-edition }

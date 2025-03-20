@@ -25,7 +25,6 @@ footer-refresh-support = Tuki
 footer-refresh-product-help = Tuotetuki
 footer-refresh-file-a-bug = Ilmoita virheestä
 footer-refresh-localize-mozilla = Lokalisoi { -brand-name-mozilla }
-footer-refresh-resources = Resurssit
 footer-refresh-brand-standards = Brändistandardit
 footer-refresh-developers = Kehittäjät
 footer-refresh-developer-edition = { -brand-name-developer-edition }

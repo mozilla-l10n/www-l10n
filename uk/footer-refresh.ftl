@@ -24,7 +24,6 @@ footer-refresh-support = Підтримка
 footer-refresh-product-help = Довідка щодо продукту
 footer-refresh-file-a-bug = Повідомити про помилку
 footer-refresh-localize-mozilla = Локалізувати { -brand-name-mozilla }
-footer-refresh-resources = Ресурси
 footer-refresh-brand-standards = Стандарти бренду
 footer-refresh-developers = Розробники
 footer-refresh-developer-edition = { -brand-name-developer-edition }

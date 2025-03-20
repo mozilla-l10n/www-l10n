@@ -25,7 +25,6 @@ footer-refresh-support = Támogatás
 footer-refresh-product-help = Termék súgó
 footer-refresh-file-a-bug = Hiba bejelentése
 footer-refresh-localize-mozilla = A { -brand-name-mozilla } honosítása
-footer-refresh-resources = Erőforrások
 footer-refresh-brand-standards = Márkaszabványok
 footer-refresh-developers = Fejlesztők
 footer-refresh-developer-edition = { -brand-name-developer-edition }

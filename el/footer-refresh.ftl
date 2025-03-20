@@ -25,7 +25,6 @@ footer-refresh-support = Υποστήριξη
 footer-refresh-product-help = Βοήθεια προϊόντος
 footer-refresh-file-a-bug = Αναφορά σφάλματος
 footer-refresh-localize-mozilla = Μετάφραση στη { -brand-name-mozilla }
-footer-refresh-resources = Πόροι
 footer-refresh-brand-standards = Πρότυπα εμπορικών σημάτων
 footer-refresh-developers = Προγραμματιστές
 footer-refresh-developer-edition = { -brand-name-developer-edition }

@@ -23,7 +23,6 @@ footer-refresh-support = سہارا
 footer-refresh-product-help = مصنوعات دی مدد
 footer-refresh-file-a-bug = بگ فائل کرو
 footer-refresh-localize-mozilla = { -brand-name-mozilla } مقامی بݨاؤ
-footer-refresh-resources = وسائل
 footer-refresh-brand-standards = برانڈ دے معیار
 footer-refresh-developers = ڈویلپرز
 footer-refresh-developer-edition = { -brand-name-developer-edition }

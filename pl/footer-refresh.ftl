@@ -25,7 +25,6 @@ footer-refresh-support = Wsparcie
 footer-refresh-product-help = Pomoc
 footer-refresh-file-a-bug = Zgłoś błąd
 footer-refresh-localize-mozilla = Przetłumacz { -brand-name-mozilla(case: "acc") }
-footer-refresh-resources = Zasoby
 footer-refresh-brand-standards = Standardy marki
 footer-refresh-developers = Deweloperzy
 footer-refresh-developer-edition = { -brand-name-developer-edition }

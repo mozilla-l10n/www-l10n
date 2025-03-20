@@ -25,7 +25,6 @@ footer-refresh-support = 지원
 footer-refresh-product-help = 제품 도움말
 footer-refresh-file-a-bug = 버그 신고
 footer-refresh-localize-mozilla = { -brand-name-mozilla } 지역화
-footer-refresh-resources = 자원
 footer-refresh-brand-standards = 브랜드 가이드
 footer-refresh-developers = 개발자
 footer-refresh-developer-edition = { -brand-name-developer-edition }
