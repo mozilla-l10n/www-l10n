@@ -13,11 +13,15 @@ vpn-shared-money-back-guarantee = 30-dniowa gwarancja zwrotu pieniędzy
 vpn-shared-features-encrypt = Szyfrowanie na poziomie urządzenia
 vpn-shared-features-bandwidth = Bez ograniczeń przepustowości
 # Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = Mocne serwery w { $countries }+ krajach
+# Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Podłączenie do { $devices } urządzeń
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30-dniowa gwarancja zwrotu pieniędzy
 vpn-shared-privacy-notice = Zasady ochrony prywatności
+vpn-shared-terms-conditions = Warunki korzystania z usługi
 vpn-shared-wireguard-copyright = { -brand-name-wireguard } jest zarejestrowanym znakiem towarowym Jasona A. Donenfelda
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
@@ -51,6 +55,7 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } nie je
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-download-mozilla-vpn = Pobierz { -brand-name-mozilla-vpn }
+vpn-subnav-features = Możliwości
 
 ## Press quotations
 
