@@ -30,6 +30,7 @@ you-can-easily = ທ່ານສາມາດດາວໂຫຼດ { -brand-name-
 is-firefox-free = { -brand-name-firefox } ແມ່ນບໍ່ເສຍຄ່າບໍ?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = ແມ່ນແລ້ວ! { -brand-name-firefox-browser } ແມ່ນບໍ່ເສຍຄ່າ. Super ຟຣີ, ຕົວຈິງແລ້ວ. ບໍ່ມີຄ່າໃຊ້ຈ່າຍທີ່ເຊື່ອງໄວ້ຫຼືສິ່ງໃດ. ທ່ານບໍ່ໄດ້ຈ່າຍເງິນຫຍັງເພື່ອໃຊ້ມັນ, ແລະພວກເຮົາບໍ່ຂາຍຂໍ້ມູນສ່ວນຕົວຂອງເຈົ້າ.
+yep-the-firefox-browser-is-free = ແມ່ນແລ້ວ! { -brand-name-firefox-browser } ແມ່ນບໍ່ເສຍຄ່າ. Super ຟຣີແທ້ໆ. ບໍ່ມີຄ່າໃຊ້ຈ່າຍທີ່ເຊື່ອງໄວ້ ຫຼື ສິ່ງໃດ. ທ່ານບໍ່ໄດ້ຈ່າຍຄ່າຫຍັງເພື່ອໃຊ້ມັນ.
 related-questions-free = ຄໍາຖາມທີ່ກ່ຽວຂ້ອງ: ແມ່ນ { -brand-name-firefox-browser } ຟຣີ, ບໍ່ { -brand-name-firefox } ຄ່າໃຊ້ຈ່າຍເງິນ
 is-chrome-better = { -brand-name-chrome } ດີກວ່າ { -brand-name-firefox } ບໍ?
 no-we-dont = ບໍ່, ພວກເຮົາບໍ່ຄິດວ່າ { -brand-name-chrome } ຈະດີກວ່າ { -brand-name-firefox }, ແລະນີ້ແມ່ນເຫດຜົນ: ເມື່ອຄົນຖາມວ່າ browser ໃດດີກວ່າ, ເຂົາເຈົ້າຖາມແທ້ໆວ່າ browser ໃດໄວກວ່າ ແລະ. ປອດໄພກວ່າ. { -brand-name-firefox } ໄດ້ຖືກປັບປຸງປະຈໍາເດືອນເພື່ອໃຫ້ແນ່ໃຈວ່າທ່ານມີຕົວທ່ອງເວັບທີ່ໄວທີ່ສຸດທີ່ເຄົາລົບຄວາມເປັນສ່ວນຕົວຂອງທ່ານໂດຍອັດຕະໂນມັດ.

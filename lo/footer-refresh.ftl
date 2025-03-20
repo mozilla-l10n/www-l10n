@@ -4,9 +4,11 @@
 
 footer-refresh-leadership = ຄວາມເປັນຜູ້ນຳ
 footer-refresh-advertise = ໂຄສະນາກັບ { -brand-name-mozilla }
+footer-refresh-firefox-release-notes = { -brand-name-firefox } ບັນທຶກການປ່ອຍ
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
+footer-refresh-follow-mozilla = ຕິດຕາມ @{ -brand-name-mozilla }
 footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
