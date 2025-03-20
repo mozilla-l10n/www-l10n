@@ -20,7 +20,24 @@ vpn-features-more-than =
         [few] Więcej niż { $servers } serwery w { $countries }+ krajach
        *[many] Ponad { $servers } serwerów w { $countries }+ krajach
     }
+vpn-features-see-our-list = Sprawdź naszą listę serwerów.
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-features-connect-up-to =
+    { $devices ->
+        [one] Podłączenie do { $devices } urządzenia
+        [few] Podłączenie do { $devices } urządzeń
+       *[many] Podłączenie do { $devices } urządzeń
+    }
+vpn-features-supported-platforms = Obsługiwana na systemach operacyjnych Windows, macOS, Android, iOS i Linux.
+vpn-features-no-bandwidth = Brak ograniczeń przepustowości lub dławienia transferu
+vpn-features-including-no-data = Brak limitu danych i prędkości.
+vpn-features-fast-network = Szybki transfer nawet podczas grania
+# Variables
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } używa <a { $wireguard }>Wireguard</a>™, jednego z najwydajniejszych protokołów VPN.
 vpn-features-secure = Bezpieczna
+vpn-features-block-ads = Zablokuj reklamodawcom możliwość targetowania Cię
 vpn-features-flexible = Elastyczna
 vpn-features-trustworthy = Godna zaufania
 vpn-features-money-back = 30-dniowa gwarancja zwrotu pieniędzy
