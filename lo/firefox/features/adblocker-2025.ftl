@@ -10,6 +10,7 @@ features-adblocker-ad-blocking = ບັອກການໂຄສະນາ
 # Page Title
 features-adblocker-meta-title = ກ່ຽວກັບຕົວບລັອກໂຄສະນາ - { -brand-name-firefox }
 features-adblocker-the-ad-blocker-a-tool = ຕົວບລັອກໂຄສະນາ – ເຄື່ອງມືສໍາລັບປະສົບການການຄົ້ນຫາແບບສ່ວນຕົວ ແລະ ເນັ້ນໃສ່.
+features-adblocker-ad-blockers-work = ຕົວບລັອກໂຄສະນາເຮັດວຽກໃນສອງວິທີທີ່ສໍາຄັນ: ໂດຍການປ້ອງກັນເນື້ອຫາ, ເຊັ່ນ: ໂຄສະນາ, ຈາກການໂຫຼດ ແລະ ໂດຍການບລັອກພາກສ່ວນຂອງເວັບໄຊທ໌ທີ່ເປັນເຈົ້າພາບອົງປະກອບເຫຼົ່ານັ້ນ. ນີ້ສາມາດປະກອບມີໂຄສະນາວິດີໂອ, ໂຄສະນາສ່ວນບຸກຄົນທີ່ຕິດຕາມທ່ານທົ່ວເວັບ, ແລະ ແມ້ກະທັ້ງຕົວຕິດຕາມພາກສ່ວນທີສາມ.
 features-adblocker-finding-the-right = ຊອກຫາຕົວສະກັດການໂຄສະນາທີ່ເຫມາະສົມສໍາລັບທ່ານ
 features-adblocker-tip-1 = <strong>ບລັອກໂຄສະນາ:</strong> ຖ້າທ່ານຕ້ອງການບລັອກໂຄສະນາເທົ່ານັ້ນ, ເລືອກທາງເລືອກທີ່ງ່າຍດາຍ ແລະ ເບົາ.
 features-adblocker-enhanced-privacy = ປັບປຸງຄວາມເປັນສ່ວນຕົວ ແລະ ປະສິດທິພາບດ້ວຍ { -brand-name-firefox }
