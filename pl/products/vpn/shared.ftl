@@ -15,6 +15,12 @@ vpn-shared-features-bandwidth = Bez ograniczeń przepustowości
 vpn-shared-features-activity = Nie jest rejestrowana Twoja aktywność w sieci
 # Variables:
 #   $countries (number) - number of available countries
+vpn-shared-features-access-countries = Dostęp do serwerów w { $countries }+ krajach
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Ochrona do { $devices } urządzeń
+# Variables:
+#   $countries (number) - number of available countries
 vpn-shared-features-strong-servers = Mocne serwery w { $countries }+ krajach
 # Variables:
 #   $devices (number) - number of available devices
