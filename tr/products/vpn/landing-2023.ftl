@@ -22,7 +22,7 @@ vpn-landing-log-in-to-your-bank-or = Havalimanından, kafeden veya istediğiniz 
 vpn-landing-blocks-advertisers-from = Reklamverenlerin sizi hedeflemesini engeller
 vpn-landing-hide-your-activity-from = Takip kodlarından ve kötü amaçlı yazılımlardan kurtulun, izlenmeden alışveriş yapın.
 vpn-landing-take-control = Siteye özel VPN ayarlarıyla kontrolü ele alın
-vpn-landing-customize-your-vpn = { -brand-name-firefox } için { -brand-name-mozilla-vpn } uzantısıyla VPN korumalarınızı web sitenize göre özelleştirin (yalnızca Windows).
+vpn-landing-customize-your-vpn = { -brand-name-firefox } için { -brand-name-mozilla-vpn } uzantısıyla VPN korumalarınızı web sitesine göre özelleştirin (yalnızca Windows).
 vpn-landing-features = Özellikler
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
