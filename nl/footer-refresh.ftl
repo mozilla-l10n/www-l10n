@@ -6,7 +6,10 @@ footer-refresh-discover-mozilla-products = Ontdek { -brand-name-mozilla }-produc
 footer-refresh-leadership = Leiderschap
 footer-refresh-advertise = Adverteren met { -brand-name-mozilla }
 footer-refresh-mozilla-advertising = { -brand-name-mozilla }-advertenties
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = Meer info <span>over { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox }-uitgaveopmerkingen
+footer-refresh-privacy-first = Advertentieoplossingen die privacy voorop stellen voor merken, uitgevers en platformen.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
