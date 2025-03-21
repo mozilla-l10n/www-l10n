@@ -38,6 +38,7 @@ vpn-features-fast-network = Szybki transfer nawet podczas grania
 vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } używa <a { $wireguard }>Wireguard</a>™, jednego z najwydajniejszych protokołów VPN.
 vpn-features-secure = Bezpieczna
 vpn-features-block-ads = Zablokuj reklamodawcom możliwość targetowania Cię
+vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn } pomaga automatycznie blokować reklamy i reklamowe skrypty śledzące, uniemożliwiając im śledzenie Twojej aktywności online.
 vpn-features-encrypt-your-internet = Zaszyfruj cały swój ruch internetowy
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } chroni wszystkie aplikacje na Twoim urządzeniu, nie tylko przeglądarkę.
 vpn-features-stronger-malware = Silniejsza ochrona przed złośliwym oprogramowaniem
@@ -64,6 +65,7 @@ vpn-features-we-never-log = Nigdy nie rejestrujemy, nie śledzimy ani nie dzieli
 # Variables
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-features-simply-put-we-dont = Krótko mówiąc, nie zbieramy Twoich osobistych informacji o przeglądaniu. Oto nasza <a { $privacy }>łatwa do odczytania polityka prywatności</a>.
+vpn-features-built-transparently = Budowana transparentnie w modelu open source
 vpn-features-reviewed-by-third = Zweryfikowana przez zewnętrznych ekspertów ds. bezpieczeństwa
 # Variables
 #   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
