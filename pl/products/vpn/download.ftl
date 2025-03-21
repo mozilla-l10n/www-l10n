@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/download/
 
 vpn-download-page-title = Pobierz { -brand-name-mozilla-vpn }
+vpn-download-page-description = Pobierz { -brand-name-mozilla-vpn } na systemy { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } i { -brand-name-ios }.
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-download-sub-heading = Możesz pobrać { -brand-name-mozilla-vpn } na maksymalnie { $devices } urządzeń w ramach jednej subskrypcji.
