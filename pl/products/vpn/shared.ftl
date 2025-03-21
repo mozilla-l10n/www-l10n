@@ -66,6 +66,8 @@ vpn-subnav-features = Możliwości
 
 ## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = Piszą o nas w
 
 ## Unsupported language notification
 
