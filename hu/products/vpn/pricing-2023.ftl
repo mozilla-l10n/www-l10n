@@ -37,7 +37,7 @@ vpn-pricing-money-back = 30 napos pénzvisszafizetési garancia (csak az első v
 vpn-pricing-annual = Éves
 vpn-pricing-monthly = Havi
 vpn-pricing-get-annual-subscription = Éves előfizetés
-vpn-pricing-get-monthly-subscription = Kapjon havi előfizetést
+vpn-pricing-get-monthly-subscription = Havi előfizetés
 vpn-pricing-vpn-not-available = A { -brand-name-mozilla-vpn } még nem érhető el az országában
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = GYIK

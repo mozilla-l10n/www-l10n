@@ -38,11 +38,11 @@ vpn-shared-wireguard-copyright = A { -brand-name-wireguard } Jason A. Donenfeld 
 vpn-shared-pricing-recommended-offer = Ajánlott
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
-vpn-shared-pricing-monthly = { $amount }<span>/month</span>
+vpn-shared-pricing-monthly = { $amount }<span>/hó</span>
 # Monthly price plus tax (shown in US and Canada).
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
-vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/hónap + adó</span>
+vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/hó + adó</span>
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = Spóroljon { $percent }%-ot
