@@ -43,6 +43,9 @@ vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } chroni wszystki
 vpn-features-stronger-malware = Silniejsza ochrona przed złośliwym oprogramowaniem
 vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } zapobiega pobieraniu złośliwego oprogramowania ze znanych, niebezpiecznych źródeł.
 vpn-features-super-private-mode = Tryb superprywatny: przekieruj ruch przez dwie lokalizacje
+# Variables
+#   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
+vpn-features-multi-hop-feature = Nasza <a { $feature }>funkcja multi-hop</a> zapewnia dodatkowe wzmocnienie bezpieczeństwa.
 vpn-features-support-for-custom-dns = Obsługa niestandardowego DNS
 # Variables
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
@@ -60,3 +63,4 @@ vpn-features-we-never-log = Nigdy nie rejestrujemy, nie śledzimy ani nie dzieli
 # Variables
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-features-simply-put-we-dont = Krótko mówiąc, nie zbieramy Twoich osobistych informacji o przeglądaniu. Oto nasza <a { $privacy }>łatwa do odczytania polityka prywatności</a>.
+vpn-features-reviewed-by-third = Zweryfikowana przez zewnętrznych ekspertów ds. bezpieczeństwa
