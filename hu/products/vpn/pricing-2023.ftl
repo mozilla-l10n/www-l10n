@@ -36,7 +36,7 @@ vpn-pricing-access =
 vpn-pricing-money-back = 30 napos pénzvisszafizetési garancia (csak az első vásárlóknak)
 vpn-pricing-annual = Éves
 vpn-pricing-monthly = Havi
-vpn-pricing-get-annual-subscription = Kapjon éves előfizetést
+vpn-pricing-get-annual-subscription = Éves előfizetés
 vpn-pricing-get-monthly-subscription = Kapjon havi előfizetést
 vpn-pricing-vpn-not-available = A { -brand-name-mozilla-vpn } még nem érhető el az országában
 # FAQs is short for Frequently Asked Questions
