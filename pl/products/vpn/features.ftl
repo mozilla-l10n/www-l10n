@@ -66,7 +66,14 @@ vpn-features-we-never-log = Nigdy nie rejestrujemy, nie śledzimy ani nie dzieli
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-features-simply-put-we-dont = Krótko mówiąc, nie zbieramy Twoich osobistych informacji o przeglądaniu. Oto nasza <a { $privacy }>łatwa do odczytania polityka prywatności</a>.
 vpn-features-built-transparently = Budowana transparentnie w modelu open source
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } jest tworzona w modelu open-source, co oznacza, że cały kod jest publicznie dostępny. Zobacz nasze <a { $github }>repozytorium GitHub</a>.
 vpn-features-reviewed-by-third = Zweryfikowana przez zewnętrznych ekspertów ds. bezpieczeństwa
 # Variables
 #   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
 vpn-features-weve-been-audited = Przeszliśmy audyt przeprowadzony przez Cure53, wiodącą firmę zajmującą się audytem cyberbezpieczeństwa. <a { $report }>Raport znajdziesz tutaj</a>.
+vpn-features-people-over-profits = Ludzie ważniejsi od zysków
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = Jesteśmy wspierani przez <a { $mofo }>{ -brand-name-mozilla-foundation(case: "gen") }</a>, organizację non-profit walczącą o utrzymanie otwartej i zdrowej sieci dla wszystkich ludzi.

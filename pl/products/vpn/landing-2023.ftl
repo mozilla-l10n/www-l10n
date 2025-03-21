@@ -49,6 +49,7 @@ vpn-landing-built-transparently = Budowana transparentnie w modelu open source
 vpn-landing-easy-firefox-integration = Łatwa integracja z { -brand-name-firefox(case: "ins") } za pomocą rozszerzenia { -brand-name-mozilla-vpn } (tylko dla Windows)
 vpn-landing-see-all-features = Poznaj wszystkie funkcje
 vpn-landing-fram-a-brand-you-can-trust = Od marki, której możesz zaufać
+vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } to wspierana przez fundację non-profit organizacja internetowa, która walczy o zdrową sieć od 1998 roku.
 vpn-landing-one-subscription-for-all-your = Jedna subskrypcja dla wszystkich Twoich urządzeń
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>Od { -brand-name-mozilla(case: "gen") }.</strong> Walczymy o Twoje prawo do prywatności od 1998 roku.
