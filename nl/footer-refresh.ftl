@@ -5,6 +5,7 @@
 footer-refresh-discover-mozilla-products = Ontdek { -brand-name-mozilla }-producten en -initiatieven. We beloven uw e-mailadres privé en veilig te houden – we delen het niet, we verkopen het niet, alleen geweldige updates.
 footer-refresh-leadership = Leiderschap
 footer-refresh-advertise = Adverteren met { -brand-name-mozilla }
+footer-refresh-mozilla-advertising = { -brand-name-mozilla }-advertenties
 footer-refresh-firefox-release-notes = { -brand-name-firefox }-uitgaveopmerkingen
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
