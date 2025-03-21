@@ -22,6 +22,7 @@ vpn-landing-log-in-to-your-bank-or = Log in to your bank or doctor’s office fr
 vpn-landing-blocks-advertisers-from = Blocks advertisers from targeting you
 vpn-landing-hide-your-activity-from = Hide your activity from trackers and malware so you can shop without being watched.
 vpn-landing-take-control = Take control with website-specific VPN settings
+vpn-landing-customize-your-vpn = Customize your VPN protections on a per-website basis with the { -brand-name-mozilla-vpn } Extension for { -brand-name-firefox } (Windows only).
 vpn-landing-features = Features
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

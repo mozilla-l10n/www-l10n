@@ -17,6 +17,7 @@ what-is-firefox = What is { -brand-name-firefox }?
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = The { -brand-name-firefox-browser } is the only major browser backed by a not-for-profit that doesn’t sell your personal data to advertisers while helping you protect your personal information. Learn more about the <a href="{ $url }">{ -brand-name-firefox-browsers }</a> and <a href="{ $url2 }">other products.</a>
+the-firefox-browser-the-only = The { -brand-name-firefox-browser }, the only major browser backed by a not-for-profit, helps you protect your personal information. Learn more about the <a href="{ $url }">{ -brand-name-firefox-browsers }</a> and <a href="{ $url2 }">other products.</a>
 how-do-i = How do I get the { -brand-name-firefox-browser }?
 
 # Variables:
@@ -30,6 +31,7 @@ you-can-easily = You can easily download the { -brand-name-firefox } desktop bro
 is-firefox-free = Is { -brand-name-firefox } free?
 # Obsolete string (expires 25-04-2025)
 yep-the-firefox = Yep! The { -brand-name-firefox-browser } is free. Super free, actually. No hidden costs or anything. You don’t pay anything to use it, and we don’t sell your personal data.
+yep-the-firefox-browser-is-free = Yep! The { -brand-name-firefox-browser } is free. Super free, actually. No hidden costs or anything. You don’t pay anything to use it.
 related-questions-free = Related questions: is { -brand-name-firefox-browser } free, does { -brand-name-firefox } cost money
 is-chrome-better = Is { -brand-name-chrome } better than { -brand-name-firefox }?
 no-we-dont = No, we don’t think { -brand-name-chrome } is better than { -brand-name-firefox }, and here is why: when people ask which browser is better, they’re really asking which browser is faster and safer. { -brand-name-firefox } is updated monthly to make sure you have the speediest browser that respects your privacy automatically.
