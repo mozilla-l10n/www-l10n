@@ -64,3 +64,6 @@ vpn-features-we-never-log = Nigdy nie rejestrujemy, nie śledzimy ani nie dzieli
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-features-simply-put-we-dont = Krótko mówiąc, nie zbieramy Twoich osobistych informacji o przeglądaniu. Oto nasza <a { $privacy }>łatwa do odczytania polityka prywatności</a>.
 vpn-features-reviewed-by-third = Zweryfikowana przez zewnętrznych ekspertów ds. bezpieczeństwa
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = Przeszliśmy audyt przeprowadzony przez Cure53, wiodącą firmę zajmującą się audytem cyberbezpieczeństwa. <a { $report }>Raport znajdziesz tutaj</a>.

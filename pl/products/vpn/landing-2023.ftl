@@ -7,6 +7,10 @@
 
 # HTML page title
 vpn-landing-title = { -brand-name-mozilla-vpn }: Ochrona całego urządzenia
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-desc = Użyj { -brand-name-mozilla-vpn }, aby zapewnić pełną ochronę urządzenia dla wszystkich aplikacji. Dzięki serwerom w { $countries }+ krajach możesz połączyć się z dowolnym miejscem, z dowolnego miejsca.
 vpn-landing-powerful-privacy-for-peace = Silna prywatność dla spokoju ducha
 vpn-landing-whats-a-vpn = Czym jest VPN?
 vpn-landing-a-virtual-private-network-protects = Wirtualna sieć prywatna chroni Twoje połączenie z Internetem, zapewniając prywatność Twojej lokalizacji i aktywności online, na wszystkich Twoich urządzeniach.
@@ -21,6 +25,14 @@ vpn-landing-take-control = Daje kontrolę dzięki ustawieniom VPN specyficznym d
 vpn-landing-customize-your-vpn = Dostosuj zabezpieczenia VPN dla każdej witryny osobno za pomocą rozszerzenia { -brand-name-mozilla-vpn } dla { -brand-name-firefox(case: "gen") } (tylko dla Windows).
 vpn-landing-features = Możliwości
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-landing-connect-up-to-devices =
+    { $devices ->
+        [one] Podłączenie do { $devices } urządzenia
+        [few] Podłączenie do { $devices } urządzeń
+       *[many] Podłączenie do { $devices } urządzeń
+    }
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-landing-more-than-servers-in-countries =
@@ -29,5 +41,17 @@ vpn-landing-more-than-servers-in-countries =
         [few] Ponad { $servers } serwery w { $countries }+ krajach
        *[many] Ponad { $servers } serwerów w { $countries }+ krajach
     }
+vpn-landing-fast-network-speeds-even-while = Szybki transfer nawet podczas grania
 vpn-landing-no-logging-tracking-or-sharing = Zero rejestrowania, śledzenia lub udostępniania danych sieciowych użytkowników
+vpn-landing-no-bandwidth-restrictions-or = Brak ograniczeń przepustowości lub dławienia transferu
+vpn-landing-extra-security-whole-device = Dodatkowe zabezpieczenia: ochrona całego urządzenia, routing wielopunktowy i wiele więcej
+vpn-landing-see-all-features = Poznaj wszystkie funkcje
+vpn-landing-fram-a-brand-you-can-trust = Od marki, której możesz zaufać
 vpn-landing-one-subscription-for-all-your = Jedna subskrypcja dla wszystkich Twoich urządzeń
+# HTML for emphasis
+vpn-landing-powered-by-mozilla-fighting-for = <strong>Od { -brand-name-mozilla(case: "gen") }.</strong> Walczymy o Twoje prawo do prywatności od 1998 roku.
+vpn-landing-learn-more-from-our-experts = Dowiedz się więcej od naszych ekspertów
+vpn-landing-do-you-need-a-vpn-at-home = Czy potrzebujesz VPN-a w domu? Oto 5 powodów, dla których możesz potrzebować.
+vpn-landing-what-is-an-ip-address = Co to jest adres IP?
+vpn-landing-how-your-location-is-tracked = Jak śledzona jest Twoja lokalizacja i jak możesz ograniczyć jej udostępnianie
+vpn-landing-see-more-resources = Więcej zasobów
