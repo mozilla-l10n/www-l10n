@@ -22,6 +22,7 @@ m24-about-fund = ກອງທຶນ
 
 ## News
 
+m24-about-read-more = ອ່ານເພີ່ມເຕີມ
 
 ## Showcase
 

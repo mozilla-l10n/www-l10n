@@ -9,5 +9,8 @@ whatsnew-page-title-v2 = ມີຫຍັງໃໝ່ກັບ { -brand-name-fire
 whatsnew-page-description = ເອົາຈຸດຢືນຂອງທ່ານຕໍ່ກັບອຸດສາຫະກໍາທີ່ຂາຍຂໍ້ມູນຂອງທ່ານໃຫ້ກັບບຸກຄົນທີສາມ. ຢູ່ໃນອິນເຕີເນັດຢ່າງສະຫຼາດ ແລະປອດໄພດ້ວຍເທັກໂນໂລຍີທີ່ຕໍ່ສູ້ກັບທ່ານ.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = { -brand-name-firefox } ຂອງທ່ານໄດ້ຖືກອັບເດດແລ້ວ.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/notes/
+whatsnew-release-notes-v2 = ອ່ານ <a { $url }>ບັນທຶກການປ່ອຍຕົວ</a> ເພື່ອຮູ້ເພີ່ມເຕີມກ່ຽວກັບສິ່ງໃໝ່ໃນໂປຣແກຣມທ່ອງເວັບ { -brand-name-firefox } ຂອງທ່ານ.
 whatsnew-donate-to-mofo = ບໍລິຈາກໃຫ້ { -brand-name-mozilla-foundation }
 whatsnew-thanks-for-choosing = ຂອບໃຈທີ່ເລືອກ { -brand-name-firefox }
