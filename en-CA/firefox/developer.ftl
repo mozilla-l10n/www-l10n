@@ -84,6 +84,10 @@ firefox-developer-view-the-release = View the <a { $attrs }>release notes</a> (E
 firefox-developer-developer-tools-user = Developer Tools User Docs
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resources for Developers, by Developers
+firefox-developer-mdn-playground = Playground
+firefox-developer-mdn-write-test-and-share = Write, test and share your code. Your playground to learn and share your amazing work with the world.
+firefox-developer-mdn-blog = { -brand-name-mdn } Blog
+firefox-developer-mdn-updates = Updates
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } References
 # Obsolete string (expires 18-04-2025)

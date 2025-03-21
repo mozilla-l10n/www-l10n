@@ -50,6 +50,7 @@ vpn-features-support-for-custom-dns = Support for custom DNS
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
 vpn-features-keep-traffic-protected = With { -brand-name-mozilla-vpn }, you can keep your traffic protected and still route your DNS queries wherever you prefer. <a { $dns }>Learn more about custom DNS support</a>.
 vpn-features-flexible = Flexible
+vpn-features-webste-specific-vpn = Website-specific VPN settings, seamlessly integrated into { -brand-name-firefox }
 vpn-features-personalized-server = Personalized server location recommendations
 vpn-features-well-suggest-which-servers = We’ll suggest which servers near you will ensure the fastest, most reliable internet connection.
 vpn-features-personalize-which-apps = Personalize which apps get VPN protection

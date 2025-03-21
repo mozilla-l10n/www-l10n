@@ -16,10 +16,12 @@ vpn-landing-whats-a-vpn = What’s a VPN?
 vpn-landing-a-virtual-private-network-protects = A virtual private network protects your connection to the internet, keeping your location and what you do online more private across your devices.
 vpn-landing-see-all-the-ways-mozilla-vpn = See all the ways { -brand-name-mozilla-vpn } protects you.
 vpn-landing-how-a-vpn-helps-you = How a VPN helps you
+vpn-landing-how-a-vpn-helps-you-v2 = How { -brand-name-mozilla-vpn } helps you
 vpn-landing-keeps-your-data-safe = Keeps your data safe on public Wi-Fi
 vpn-landing-log-in-to-your-bank-or = Log in to your bank or doctor’s office from the airport, cafe or anywhere, with peace of mind.
 vpn-landing-blocks-advertisers-from = Blocks advertisers from targeting you
 vpn-landing-hide-your-activity-from = Hide your activity from trackers and malware so you can shop without being watched.
+vpn-landing-take-control = Take control with website-specific VPN settings
 vpn-landing-features = Features
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -40,6 +42,8 @@ vpn-landing-fast-network-speeds-even-while = Fast network speeds even while gami
 vpn-landing-no-logging-tracking-or-sharing = No logging, tracking or sharing of network data
 vpn-landing-no-bandwidth-restrictions-or = No bandwidth restrictions or throttling
 vpn-landing-extra-security-whole-device = Extra security: whole device protection, multi-hop routing & more
+vpn-landing-built-transparently = Built transparently in open source
+vpn-landing-easy-firefox-integration = Easy { -brand-name-firefox } integration with the { -brand-name-mozilla-vpn } extension (Windows only)
 vpn-landing-see-all-features = See all features
 vpn-landing-fram-a-brand-you-can-trust = From a brand you can trust
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } is a non-profit-backed internet company that’s been fighting for a healthy web since 1998.
