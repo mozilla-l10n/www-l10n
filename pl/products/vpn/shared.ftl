@@ -61,6 +61,7 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } nie je
 
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = Informacje o sieciach VPN
 vpn-subnav-download-mozilla-vpn = Pobierz { -brand-name-mozilla-vpn }
 vpn-subnav-features = Możliwości
 
