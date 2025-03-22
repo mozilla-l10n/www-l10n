@@ -7,9 +7,9 @@ footer-refresh-leadership = 领导层
 footer-refresh-advertise = 通过 { -brand-name-mozilla } 投放广告
 footer-refresh-mozilla-advertising = { -brand-name-mozilla } 广告
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-advertising = 详细了解<span>{ footer-refresh-mozilla-advertising }</span>
+footer-refresh-learn-more-about-mozilla-advertising = 详细了解 <span>{ footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 发行说明
-footer-refresh-privacy-first = 面向品牌商、发行商与平台的隐私至上的广告解决方案。
+footer-refresh-privacy-first = 隐私为先的广告解决方案，专为品牌、发行商、平台定制。
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
