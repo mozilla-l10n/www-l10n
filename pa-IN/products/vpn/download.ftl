@@ -16,6 +16,7 @@ vpn-download-button-copy = ਡਾਊਨਲੋਡ
 vpn-download-for-windows-v2 = { -brand-name-windows } ਲਈ VPN
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (ਸਿਰਫ਼ 64-ਬਿੱਟ ਹੀ)
 vpn-download-for-windows-long = { -brand-name-windows } ਲਈ { -brand-name-mozilla-vpn } ਡਾਊਨਲੋਡ ਕਰੋ
+vpn-download-for-firefox-extension = { -brand-name-firefox } ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਇੰਸਟਾਲ ਕਰੋ
 vpn-download-for-mac = { -brand-name-mac-short } ਲਈ VPN
 vpn-download-for-mac-long = { -brand-name-mac-short } ਲਈ { -brand-name-mozilla-vpn } ਡਾਊਨਲੋਡ ਕਰੋ
 # Variables:

@@ -4,7 +4,9 @@
 
 footer-refresh-leadership = ਅਗਵਾਈ
 footer-refresh-advertise = { -brand-name-mozilla } ਨਾਲ ਇਸ਼ਤਿਹਾਰ
+footer-refresh-mozilla-advertising = { -brand-name-mozilla } ਇਸ਼ਤਿਹਾਰਬਾਜ਼ੀ
 footer-refresh-firefox-release-notes = { -brand-name-firefox } ਰੀਲਿਜ ਨੋਟਿਸ
+footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } ਨੂੰ ਫ਼ਾਲੋ ਕਰੋ
