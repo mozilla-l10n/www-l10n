@@ -57,4 +57,4 @@ vpn-landing-learn-more-from-our-experts = Dowiedz się więcej od naszych eksper
 vpn-landing-do-you-need-a-vpn-at-home = Czy potrzebujesz VPN-a w domu? Oto 5 powodów, dla których możesz potrzebować.
 vpn-landing-what-is-an-ip-address = Co to jest adres IP?
 vpn-landing-how-your-location-is-tracked = Jak śledzona jest Twoja lokalizacja i jak możesz ograniczyć jej udostępnianie
-vpn-landing-see-more-resources = Więcej zasobów
+vpn-landing-see-more-resources = Dodatkowe materiały
