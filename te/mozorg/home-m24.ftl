@@ -19,12 +19,15 @@ m24-home-firefox = { -brand-name-firefox }
 
 ## AI gallery
 
+m24-home-read-more = ఇంకా చదవండి
 m24-home-get-started = మొదలుపెట్టండి
 m24-home-watch-now = ఇప్పుడే చూడండి
 
 ## Media Springboard
 
+m24-home-topic = విషయం
 m24-home-intro = పరిచయం
+m24-home-tag-video = వీడియో
 m24-home-topic-news = వార్తలు
 m24-home-topic-ai = కృత్రిమ మేధ
 m24-home-topic-ps = గోప్యత & భద్రత

@@ -7,4 +7,6 @@
 
 # CTA button
 developer-mdnplus-get-started = మొదలుపెట్టండి
+developer-mdnplus-notifications = గమనింపులు
 developer-mdnplus-collections = సేకరణలు
+developer-mdnplus-mdn-offline = { -brand-name-mdn } ఆఫ్‌లైన్
