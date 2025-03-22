@@ -9,5 +9,6 @@
 features-adblocker-ad-blocking = Blokowanie reklam
 # Page Title
 features-adblocker-meta-title = O blokerach reklam - { -brand-name-firefox }
+features-adblocker-in-todays-digital-world = W dzisiejszym cyfrowym świecie sieć może być zatłoczona i zagracona. Blokery reklam to potężne narzędzia, które dają Ci kontrolę nad przeglądaniem, pozwalając Ci decydować, co pojawia się na Twoim ekranie.
 features-adblocker-why-use = Dlaczego warto używać blokera reklam?
 features-adblocker-ad-blockers-do-more = Blokery reklam robią więcej niż tylko wycinanie reklam – mogą zwiększyć szybkość przeglądania i bezpieczeństwo, redukując niepotrzebne treści. Umożliwiają tworzenie dostosowanego, pozbawionego rozpraszaczy środowiska internetowego, pozwalając skupić się na tym, co najważniejsze.
