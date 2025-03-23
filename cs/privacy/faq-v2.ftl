@@ -10,15 +10,15 @@ privacy-faq-v2-title = Časté otázky k ochraně osobních dat společností { 
 # HTML page description
 privacy-faq-v2-desc = V { -brand-name-mozilla(case: "loc") } respektujeme a chráníme vaše osobní údaje.
 privacy-faq-v2-heading = Stojíme si za tím, že lidé mají přednost před ziskem.
-privacy-faq-v2-intro = Lidé často neví, co mají od používaného softwaru a služeb očekávat. Technologie, které denně používáme, jsou složité a na zjišťování podrobností nebývá čas. Tak je to i u { -brand-name-firefox(case: "gen") }, kde, jak jsme zjistili, mají lidé velmi různorodé představy o tom, co se na pozadí děje.
+privacy-faq-v2-intro = Pro lidi může být složité zjistit, co mohou očekávat od softwaru nebo služeb, které dnes používají. Technologie, které pohánějí náš život, jsou složité a lidé nemají čas pronikat do detailů. To platí i pro { -brand-name-firefox }, kde zjišťujeme, že lidé mají mnoho různých představ o tom, co se v jejich prohlížeči děje pod kapotou.
 privacy-faq-v2-at-mozilla = V { -brand-name-mozilla(case: "loc") } vaše osobní údaje respektujeme a chráníme:
 # Variables:
 #   $attrs (url) - link to https://www.mozilla.org/privacy/principles/
-privacy-faq-v2-we-follow = Řídíme se našimi <a { $attrs }>zásadami ochrany osobních údajů</a>, které řídí náš přístup k vašemu soukromí pro používání { -brand-name-firefox(case: "gen") } na počítači i mobilních zařízeních.
+privacy-faq-v2-we-follow = Řídíme se souborem <a { $attrs }>zásad ochrany osobních údajů</a>, které určují náš přístup k ochraně osobních údajů ve { -brand-name-firefox(case: "local") } pro počítač a mobilní zařízení.
 privacy-faq-v2-we-strive-collect-data = Snažíme se shromažďovat pouze údaje, které potřebujeme k výrobě těch nejlepších produktů.
 privacy-faq-v2-we-work-to = Snažíme se, aby lidé měli kontrolu nad svými daty a online zkušenostmi.
-privacy-faq-v2-we-adhere = Snažíme se nepřipravovat vám žádná překvapení. Naším cílem je, aby lidé rozuměli tomu, jaký je { -brand-name-firefox } ve skutečnosti.
-privacy-faq-v2-following-questions = Následující otázky a odpovědi vám pomohou porozumět co můžete od { -brand-name-mozilla(case: "gen") } a { -brand-name-firefox(case: "gen") } očekávat:
+privacy-faq-v2-we-adhere = Řídíme se zásadou “žádné překvapení”, což znamená, že se snažíme zajistit, aby představa lidí o { -brand-name-firefox(case: "loc") } odpovídala skutečnosti.
+privacy-faq-v2-following-questions = Následující otázky a odpovědi by vám měly pomoci pochopit, co můžete od { -brand-name-mozilla(case: "gen") } a { -brand-name-firefox(case: "gen") } očekávat:
 
 ## FAQ
 

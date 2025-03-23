@@ -17,7 +17,7 @@ what-is-firefox = Co je { -brand-name-firefox }?
 
 # Obsolete string (expires 25-04-2025)
 the-firefox-browser = { -brand-name-firefox-browser } je jediný velký prohlížeč tvořený neziskovou organizací, který neprodává vaše data reklamním společnostem, ale naopak chrání vaše osobní data. Přečtěte si více o <a href="{ $url }">{ -brand-name-firefox-browsers(case: "loc", capitalization: "lower") }</a> a <a href="{ $url2 }">dalších našich produktech</a>.
-the-firefox-browser-the-only = { -brand-name-firefox-browser }, jediný hlavní prohlížeč podporovaný neziskovou organizací, vám pomáhá chránit vaše osobní údaje. Přečtěte si více o produktu <a href="{ $url }">{ -brand-name-firefox-browsers }</a> a <a href="{ $url2 }">dalších</a>.
+the-firefox-browser-the-only = { -brand-name-firefox-browser }, jediný hlavní prohlížeč podporovaný neziskovou organizací, pomáhá chránit vaše osobní údaje. Další informace o <a href="{ $url }">{ -brand-name-firefox-browsers(case: "loc", capitalization: "lower") }</a> a <a href="{ $url2 }">dalších produktech.</a>
 how-do-i = Jak získám { -brand-name-firefox-browser(case: "acc", capitalization: "lower") }?
 
 # Variables:
