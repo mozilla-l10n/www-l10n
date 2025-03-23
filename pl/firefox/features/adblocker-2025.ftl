@@ -9,6 +9,8 @@
 features-adblocker-ad-blocking = Blokowanie reklam
 # Page Title
 features-adblocker-meta-title = O blokerach reklam - { -brand-name-firefox }
+# HTML page description
+features-adblocker-meta-desc = Dowiedz się, jak działają blokady reklam, co mogą dla Ciebie zrobić i w jaki sposób { -brand-name-firefox } chroni Cię przed skryptami śledzącymi i ciasteczkami.
 features-adblocker-the-ad-blocker-a-tool = Bloker reklam – narzędzie do spersonalizowanego i bardziej skoncentrowanego przeglądania stron internetowych.
 features-adblocker-in-todays-digital-world = W dzisiejszym cyfrowym świecie sieć może być zatłoczona i zagracona. Blokery reklam to potężne narzędzia, które dają Ci kontrolę nad przeglądaniem, pozwalając Ci decydować, co pojawia się na Twoim ekranie.
 features-adblocker-finding-the-right = Znalezienie odpowiedniego dla siebie blokera reklam
@@ -19,5 +21,6 @@ features-adblocker-tip-3 = <strong>Możliwości dostosowania:</strong> Niektóre
 features-adblocker-tip-4 = <strong>Kompatybilność:</strong> Zastanów się, czy potrzebujesz go na komputerze stacjonarnym, urządzeniu mobilnym, czy na obu typach urządzeń.
 features-adblocker-tip-5 = <strong>Blokowanie złośliwego oprogramowania:</strong> Niektóre blokery reklam chronią przed złośliwymi reklamami (np. AdGuard).
 features-adblocker-tip-6 = <strong>Kontrola rodzicielska</strong>: Przydatna, jeśli chcesz zablokować treści nieodpowiednie dla dzieci.
+features-adblocker-its-important-to-note = Ważne jest, aby pamiętać, że niektóre witryny polegają na reklamach, aby wyświetlać własne treści lub zapewniać funkcjonalność. Blokowanie reklam może powodować problemy z funkcjonalnością, takie jak problemy z odtwarzaniem filmów lub niemożność zalogowania się. Wybierz bloker reklam, który jest regularnie aktualizowany, a jeśli okaże się, że dany bloker reklam powoduje poważne problemy, wypróbuj inny, aby znaleźć lepszą równowagę między wydajnością a kompatybilnością.
 features-adblocker-why-use = Dlaczego warto używać blokera reklam?
 features-adblocker-ad-blockers-do-more = Blokery reklam robią więcej niż tylko wycinanie reklam – mogą zwiększyć szybkość przeglądania i bezpieczeństwo, redukując niepotrzebne treści. Umożliwiają tworzenie dostosowanego, pozbawionego rozpraszaczy środowiska internetowego, pozwalając skupić się na tym, co najważniejsze.
