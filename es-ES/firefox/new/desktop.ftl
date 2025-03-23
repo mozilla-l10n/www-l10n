@@ -25,6 +25,8 @@ firefox-desktop-download-fast-reliable-private = Rápido, fiable y privado: para
 firefox-desktop-download-no-shady = No hay políticas de privacidad sospechosas o puertas traseras para los anunciantes. Solo un navegador súper rápido que no te vende.
 firefox-desktop-download-download-options = Opciones de descarga y otros idiomas
 firefox-desktop-download-browser-support = Ayuda de { -brand-name-firefox-browser }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Hagas lo que hagas en línea.<br>{ -brand-name-firefox-browser } te <strong>protege</strong>.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Hagas lo que hagas en línea.<br>{ -brand-name-firefox-browser } <strong>no</strong> te está vigilando.
 firefox-desktop-download-how-firefox-compares = Cómo es { -brand-name-firefox } comparado con otros navegadores

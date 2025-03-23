@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/
 
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
+vpn-shared-subscribe-link = Få { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Skriv dig på ventelisten
 vpn-shared-available-countries-v6 = Vi tilbyder i øjeblikket { -brand-name-mozilla-vpn } i Østrig, Belgien, Bulgarien, Canada, Kroatien, Cypern, Tjekkiet, Danmark, Estland, Finland, Frankrig, Tyskland, Ungarn, Irland, Italien, Letland, Litauen, Luxembourg, Malaysia, Malta, Holland, New Zealand, Polen, Portugal, Rumænien, Singapore, Slovenien, Slovakiet, Spanien, Sverige, Schweiz, Storbritannien og USA.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
@@ -13,6 +14,9 @@ vpn-shared-money-back-guarantee = 30 dages penge-retur-garanti
 vpn-shared-features-encrypt = Kryptering på enhedsniveau
 vpn-shared-features-bandwidth = Ingen begrænsninger på båndbredde
 vpn-shared-features-activity = Ingen logning af din netværksaktivitet
+# Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-access-countries = Adgang til servere i mere end { $countries } lande
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30 dages penge-retur-garanti
 vpn-shared-privacy-notice = Privatlivserklæring

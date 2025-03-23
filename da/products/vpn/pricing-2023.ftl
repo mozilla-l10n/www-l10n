@@ -56,3 +56,6 @@ vpn-pricing-if-already-subscribed = Hvis du allerede abonnerer på { -brand-name
 
 ## Mobile only subscription copy
 
+vpn-pricing-sign-up-on-your-mobile-device = Opret et { -brand-name-mozilla-vpn }-abonnement på din mobile enhed
+vpn-pricing-sign-up-on-your-android-device = Opret et { -brand-name-mozilla-vpn }-abonnement på din Android-enhed
+vpn-pricing-download-the-app = Hent appen
