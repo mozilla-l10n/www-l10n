@@ -39,3 +39,27 @@ privacy-faq-v2-softballs = OK, esas preguntas eran fáciles. ¿Qué datos recopi
 privacy-faq-v2-mozilla-does-collect = { -brand-name-mozilla } recopila ciertos datos específicos a través de { -brand-name-firefox } y eso nos ayuda a entender cómo utilizan los usuarios nuestro navegador. Puedes leer más sobre esto en nuestro <a { $privacy }>aviso de privacidad</a> y leer la <a { $data }>documentación completa para esa recopilación de datos</a>. También hacemos pública nuestra documentación para que cualquiera pueda verificar que lo que decimos es cierto, decirnos si necesitamos mejorar y tener la confianza de que no estamos ocultando nada.
 privacy-faq-v2-do-you-collect = ¿Se recogen más datos en las versiones preliminares de { -brand-name-firefox }?
 privacy-faq-v2-sort-of = Algo así. Además de los datos descritos anteriormente, por defecto también recibimos informes de fallos y cuelgues en las versiones preliminares de { -brand-name-firefox }.
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/shield
+privacy-faq-v2-we-may-also = También podemos recolectar datos adicionales en la versión preliminar para uno de nuestros <a { $attrs }>estudios</a>. Por ejemplo, algunos estudios necesitan lo que llamamos “datos de navegación”, que pueden incluir URLs y otra información sobre ciertos sitios web. Esto nos ayuda a responder preguntas concretas para mejorar { -brand-name-firefox }, por ejemplo, cómo integrar mejor sitios web populares en localizaciones específicas.
+privacy-faq-v2-mozilla-pre-release = Las versiones preliminares de { -brand-name-firefox } por { -brand-name-mozilla } son plataformas de desarrollo, actualizadas frecuentemente con funciones experimentales. Recopilamos más datos en la versión preliminar que lo que hacemos después del lanzamiento para entender cómo operan estas funciones experimentales. Puedes desactivar la recogida de estos datos en las preferencias.
+privacy-faq-v2-but-why-do-you = ¿Pero por qué recopiláis toda esa información?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
+privacy-faq-v2-if-we-dont-know = Si no sabemos cómo está funcionando el navegador o qué funciones utilizan los usuarios, no podemos mejorarlo ni ofrecerte mejores productos. Hemos incorporado herramientas de recopilación de datos que nos permiten tomar decisiones inteligentes sobre nuestros productos; eso sí, siempre respetando la privacidad de los usuarios. Puedes leer más sobre algunas de las tecnologías que usamos para preservar la privacidad, como <a { $attrs }>OHTTP</a>.
+privacy-faq-v2-data-collection-bugs-me = Aún así, la recopilación de datos me molesta. ¿Puedo desactivarla?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
+#   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
+privacy-faq-v2-yes-user-control = Sí. Que el usuario tenga el control es uno de nuestros principios de privacidad de datos. Lo ponemos en práctica en { -brand-name-firefox } en nuestra <a { $privacy }>página de ajustes de privacidad</a>, que funciona como punto central para quien busque tomar el control de su privacidad en { -brand-name-firefox }. Puedes <a { $data }>deshabilitar la recopilación de datos</a> ahí.
+privacy-faq-v2-what-about-my-account = ¿Qué pasa con los datos de mi cuenta?
+privacy-faq-v2-we-are-big-believers = Somos fans de la minimización de datos y no pedimos cosas que no necesitamos.
+# Variables:
+#   $attrs (url) - link to https://www.mozilla.org/account/
+privacy-faq-v2-you-dont-need-an-account = No necesitas una cuenta para usar { -brand-name-firefox }. Las <a { $attrs }>cuentas</a> son necesarias para sincronizar datos entre dispositivos, pero solo te pediremos una dirección de correo y tu edad (solo para asegurarnos de que no eres menor de edad)
+privacy-faq-v2-you-use-digital = Usáis publicidad digital como parte de vuestra mercadotecnia. ¿Compráis datos personales para segmentar mejor vuestros anuncios en línea?
+privacy-faq-v2-no-we-do-not-buy = No, no compramos datos de usuarios para segmentar la publicidad.
+privacy-faq-v2-we-do-not-ask = Pedimos a nuestros socios anunciantes que solo usen datos de primera mano que tanto los sitios web como los editores conocen sobre los usuarios, como el navegador que estás usando o el dispositivo en el que estás.
+privacy-faq-v2-well-it-seems = Bueno, parece que tenéis controlado todo esto de la privacidad.
+privacy-faq-v2-yes-we-do = Así es.
+privacy-faq-v2-find-out-more = Descubre más sobre cómo { -brand-name-mozilla } protege Internet.

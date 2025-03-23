@@ -14,9 +14,13 @@ vpn-shared-money-back-guarantee = 30 dages penge-retur-garanti
 vpn-shared-features-encrypt = Kryptering på enhedsniveau
 vpn-shared-features-bandwidth = Ingen begrænsninger på båndbredde
 vpn-shared-features-activity = Ingen logning af din netværksaktivitet
+vpn-shared-features-activity-logs = Vi logger aldrig din aktivitet på nettet
 # Variables:
 #   $countries (number) - number of available countries
 vpn-shared-features-access-countries = Adgang til servere i mere end { $countries } lande
+# Variables:
+#   $devices (number) - number of available devices
+vpn-shared-features-protection = Beskyttelse af op til { $devices } enheder
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30 dages penge-retur-garanti
 vpn-shared-privacy-notice = Privatlivserklæring
