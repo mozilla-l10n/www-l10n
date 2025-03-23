@@ -11,7 +11,7 @@ features-adblocker-ad-blocking = Blokowanie reklam
 features-adblocker-meta-title = O blokerach reklam - { -brand-name-firefox }
 # HTML page description
 features-adblocker-meta-desc = Dowiedz się, jak działają blokady reklam, co mogą dla Ciebie zrobić i w jaki sposób { -brand-name-firefox } chroni Cię przed skryptami śledzącymi i ciasteczkami.
-features-adblocker-the-ad-blocker-a-tool = Bloker reklam – narzędzie do spersonalizowanego i bardziej skoncentrowanego przeglądania stron internetowych.
+features-adblocker-the-ad-blocker-a-tool = Bloker reklam – narzędzie umożliwiające spersonalizowanie i skoncentrowanie się na przeglądaniu stron internetowych.
 features-adblocker-in-todays-digital-world = W dzisiejszym cyfrowym świecie sieć może być zatłoczona i zagracona. Blokery reklam to potężne narzędzia, które dają Ci kontrolę nad przeglądaniem, pozwalając Ci decydować, co pojawia się na Twoim ekranie.
 features-adblocker-ad-blockers-work = Blokery reklam mają dwa kluczowe zastosowania: zapobiegają ładowaniu treści, takich jak reklamy, oraz blokują sekcje stron internetowych, które zawierają te elementy. Może to obejmować reklamy wideo, spersonalizowane reklamy, które monitorują ruch użytkownika w sieci, a także elementy śledzące innych firm.
 # Variables:
@@ -35,3 +35,6 @@ features-adblocker-tool-3 = <strong>Tryb własny:</strong> Tryb własny umożliw
 features-adblocker-to-adjust = Aby dostosować te ustawienia, kliknij ikonę tarczy po lewej stronie paska adresu na dowolnej stronie internetowej i wybierz „Ustawienia ochrony”. Spowoduje to otwarcie menu, w którym możesz wybrać odpowiedni dla siebie poziom ochrony.
 features-adblocker-why-use = Dlaczego warto używać blokera reklam?
 features-adblocker-ad-blockers-do-more = Blokery reklam robią więcej niż tylko wycinanie reklam – mogą zwiększyć szybkość przeglądania i bezpieczeństwo, redukując niepotrzebne treści. Umożliwiają tworzenie dostosowanego, pozbawionego rozpraszaczy środowiska internetowego, pozwalając skupić się na tym, co najważniejsze.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-explore-hundreds = Zapoznaj się z setkami dodatków do przeglądarki { -brand-name-firefox }, ukierunkowanych na ochronę prywatności, i znajdź odpowiednie dla siebie narzędzia. <a href="{ $url }">Pobierz { -brand-name-firefox(case: "gen") }</a> już dziś i poznaj przeglądarkę zaprojektowaną z myślą o prywatności i wydajności.
