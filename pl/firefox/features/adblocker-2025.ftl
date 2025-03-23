@@ -13,6 +13,11 @@ features-adblocker-meta-title = O blokerach reklam - { -brand-name-firefox }
 features-adblocker-meta-desc = Dowiedz się, jak działają blokady reklam, co mogą dla Ciebie zrobić i w jaki sposób { -brand-name-firefox } chroni Cię przed skryptami śledzącymi i ciasteczkami.
 features-adblocker-the-ad-blocker-a-tool = Bloker reklam – narzędzie do spersonalizowanego i bardziej skoncentrowanego przeglądania stron internetowych.
 features-adblocker-in-todays-digital-world = W dzisiejszym cyfrowym świecie sieć może być zatłoczona i zagracona. Blokery reklam to potężne narzędzia, które dają Ci kontrolę nad przeglądaniem, pozwalając Ci decydować, co pojawia się na Twoim ekranie.
+features-adblocker-ad-blockers-work = Blokery reklam mają dwa kluczowe zastosowania: zapobiegają ładowaniu treści, takich jak reklamy, oraz blokują sekcje stron internetowych, które zawierają te elementy. Może to obejmować reklamy wideo, spersonalizowane reklamy, które monitorują ruch użytkownika w sieci, a także elementy śledzące innych firm.
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
+features-adblocker-using-an-adblocker = Korzystanie z blokera reklam jest proste. Wiele zaufanych opcji jest dostępnych jako dodatki do przeglądarki, dzięki czemu łatwo jest znaleźć rozwiązanie, które odpowiada Twoim potrzebom. Na przykład <a href="{ $firefox }">{ -brand-name-firefox }</a> oferuje <a href="{ $addons }">listę sprawdzonych rozszerzeń</a> zaprojektowanych w celu poprawy komfortu przeglądania przy jednoczesnym poszanowaniu prywatności.
 features-adblocker-finding-the-right = Znalezienie odpowiedniego dla siebie blokera reklam
 features-adblocker-there-are-many = Istnieje wiele narzędzi blokujących reklamy do odkrycia, z których każde oferuje funkcje dostosowane do różnych preferencji. Znalezienie odpowiedniego dla siebie zależy od Twoich pragnień i nawyków przeglądania. Oto kilka wskazówek, które warto rozważyć:
 features-adblocker-tip-1 = <strong>Blokowanie reklam:</strong> Jeśli chcesz tylko blokować reklamy, wybierz prostą i nieskomplikowaną opcję.
