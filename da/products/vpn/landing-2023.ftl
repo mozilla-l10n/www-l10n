@@ -16,10 +16,12 @@ vpn-landing-whats-a-vpn = Hvad er en VPN?
 vpn-landing-a-virtual-private-network-protects = Et virtuelt privat netværk beskytter din forbindelse til internettet og sørger for, at din placering og dine onlineaktiviteter er bedre beskyttet på alle dine enheder.
 vpn-landing-see-all-the-ways-mozilla-vpn = Se alle de måder, { -brand-name-mozilla-vpn } beskytter dig på.
 vpn-landing-how-a-vpn-helps-you = Sådan hjælper en VPN dig
+vpn-landing-how-a-vpn-helps-you-v2 = Sådan hjælper { -brand-name-mozilla-vpn } dig
 vpn-landing-keeps-your-data-safe = Sikrer dine data på offentlige Wi-Fi
 vpn-landing-log-in-to-your-bank-or = Log med sindsro ind på din bank eller hos lægen fra lufthavnen, caféen eller hvor som helst.
 vpn-landing-blocks-advertisers-from = Blokerer annoncører i at målrette annoncer
 vpn-landing-hide-your-activity-from = Skjul din aktivitet fra sporings-mekanismer og malware, så du kan shoppe uden at blive overvåget.
+vpn-landing-take-control = Tag kontrol med websteds-specifikke VPN-indstillinger
 vpn-landing-features = Funktioner
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -40,6 +42,8 @@ vpn-landing-fast-network-speeds-even-while = Hurtige netværkshastigheder, selv 
 vpn-landing-no-logging-tracking-or-sharing = Ingen logning, sporing eller deling af netværksdata
 vpn-landing-no-bandwidth-restrictions-or = Ingen neddrosling eller begrænsning af båndbredde
 vpn-landing-extra-security-whole-device = Ekstra sikkerhed: Beskyttelse af hele din enhed, multihop-routing med mere
+vpn-landing-built-transparently = Transparent bygget med open source
+vpn-landing-easy-firefox-integration = Nem integration i { -brand-name-firefox } med { -brand-name-mozilla-vpn }-udvidelsen (kun Windows)
 vpn-landing-see-all-features = Se alle funktioner
 vpn-landing-fram-a-brand-you-can-trust = Et varemærke, du kan stole på
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } er en nonprofit-støttet internetvirksomhed, der har kæmpet for et sundt internet siden 1998.

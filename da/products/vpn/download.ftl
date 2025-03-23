@@ -16,6 +16,7 @@ vpn-download-button-copy = Hent
 vpn-download-for-windows-v2 = VPN til { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (kun 64-bit)
 vpn-download-for-windows-long = Hent { -brand-name-mozilla-vpn } til { -brand-name-windows }
+vpn-download-for-firefox-extension = Installér { -brand-name-firefox }-udvidelse
 vpn-download-for-mac = VPN til { -brand-name-mac-short }
 vpn-download-for-mac-long = Hent { -brand-name-mozilla-vpn } til { -brand-name-mac-short }
 # Variables:
@@ -30,6 +31,7 @@ vpn-download-for-android = VPN til { -brand-name-android }
 vpn-download-for-android-long = Hent { -brand-name-mozilla-vpn } til { -brand-name-android }
 vpn-download-for-ios = VPN til { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Hent { -brand-name-mozilla-vpn } til { -brand-name-ios }
+vpn-download-get-on-google-play = Hent på { -brand-name-google-play }
 vpn-download-get-on-app-store = Gå til { -brand-name-app-store }
 vpn-download-based-on-your = Baseret på din nuværende enhed
 vpn-download-get-mozilla-vpn = Hent { -brand-name-mozilla-vpn }
