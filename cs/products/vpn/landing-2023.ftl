@@ -22,7 +22,7 @@ vpn-landing-log-in-to-your-bank-or = Přihlaste se bez obav do své banky nebo o
 vpn-landing-blocks-advertisers-from = Zabraňuje inzerentům cílit na vás
 vpn-landing-hide-your-activity-from = Skryjte svou aktivitu před sledovacími prvky a malwarem, abyste mohli nakupovat bez toho, abyste byli sledováni.
 vpn-landing-take-control = Převezměte kontrolu pomocí nastavení sítě VPN pro konkrétní web
-vpn-landing-customize-your-vpn = Přizpůsobte si ochranu VPN na úrovni jednotlivých webových stránek pomocí rozšíření { -brand-name-mozilla-vpn } pro { -brand-name-firefox(case: "acc") } (pouze Windows).
+vpn-landing-customize-your-vpn = Přizpůsobte si ochranu VPN na úrovni jednotlivých webových stránek pomocí rozšíření { -brand-name-mozilla-vpn } pro { -brand-name-firefox } (pouze pro Windows).
 vpn-landing-features = Vlastnosti
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -45,8 +45,8 @@ vpn-landing-fast-network-speeds-even-while = Vysoká rychlost sítě i při hran
 vpn-landing-no-logging-tracking-or-sharing = Žádné protokolování, sledování nebo sdílení síťových dat
 vpn-landing-no-bandwidth-restrictions-or = Žádné omezení šířky pásma nebo přiškrcování
 vpn-landing-extra-security-whole-device = Extra zabezpečení: ochrana celého zařízení, multi-hop směrování a další
-vpn-landing-built-transparently = Transparentně vytvořený v prostředí open source
-vpn-landing-easy-firefox-integration = Jednoduchá integrace { -brand-name-firefox(case: "gen") } s rozšířením { -brand-name-mozilla-vpn } (pouze Windows)
+vpn-landing-built-transparently = Transparentně vytvořená v prostředí open source
+vpn-landing-easy-firefox-integration = Jednoduchá integrace { -brand-name-firefox(case: "gen") } s rozšířením { -brand-name-mozilla-vpn } (pouze pro Windows)
 vpn-landing-see-all-features = Zobrazit všechny funkce
 vpn-landing-fram-a-brand-you-can-trust = Od značky, které můžete věřit
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } je nezisková internetová společnost, která už od roku 1998 bojuje za zdravý web.
