@@ -69,6 +69,12 @@ vpn-subnav-features = Funktioner
 
 # Section title for press quotations about Mozilla VPN
 vpn-press-as-seen-in = Kendt fra
+vpn-press-mozilla-vpns-feature-list-has-grown = Listen med funktioner i { -brand-name-mozilla-vpn } er vokset betydeligt siden lanceringen, og tjenesten slår nu mange specialiserede VPN'er på nogle områder.
 
 ## Unsupported language notification
 
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } tilbydes i øjeblikket ikke på { $language }, men du kan bruge den på engelsk, fransk, tysk, spansk og <a { $href }>mere end 30 andre sprog</a> .
