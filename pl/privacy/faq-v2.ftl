@@ -33,8 +33,15 @@ privacy-faq-v2-wait-so-how = No to w jaki sposób zarabiacie pieniądze?
 #   $attrs (url) - link to https://stateof.mozilla.org
 privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } nie jest typową organizacją. Założona jako społeczny projekt open source w 1998 roku, { -brand-name-mozilla } jest organizacją z misją, działającą na rzecz zdrowszego Internetu. Większość przychodów { -brand-name-mozilla-corporation } pochodzi z należności uzyskanych przez partnerstwa z wyszukiwarkami w przeglądarce { -brand-name-firefox } i umowy dystrybucyjne na całym świecie. Więcej informacji o tym, jak zarabiamy pieniądze znajduje się w naszym <a { $attrs }>corocznym sprawozdaniu finansowym</a>.
 privacy-faq-v2-softballs = No dobra, pierwsze pytania były łatwizną. Jakie dane zbieracie?
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
+privacy-faq-v2-mozilla-does-collect = { -brand-name-mozilla } domyślnie zbiera ograniczony zbiór danych z { -brand-name-firefox(case: "gen") }, który pomaga nam zrozumieć, jak ludzie używają przeglądarki. Możesz przeczytać o tym więcej w naszych <a { $privacy }>zasadach ochrony prywatności</a> i <a { $data }>pełną dokumentacja tego zbioru danych</a>. Upubliczniamy naszą dokumentację również po to, aby każdy mógł zweryfikować, czy to, co mówimy, jest prawdą, poinformować nas, czy musimy coś poprawić, i mieć pewność, że niczego nie ukrywamy.
 privacy-faq-v2-do-you-collect = Czy zbieracie więcej danych w testowych wydaniach { -brand-name-firefox(case: "gen") }?
 privacy-faq-v2-sort-of = Tak jakby. Poza danymi opisanymi powyżej w testowych wydaniach { -brand-name-firefox(case: "gen") } otrzymujemy także zgłoszenia awarii i błędów.
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/shield
+privacy-faq-v2-we-may-also = Możemy także zbierać dodatkowe dane w testowym wydaniu w ramach jednego z naszych <a { $attrs }>badań</a>. Na przykład niektóre badania wymagają tak zwanych „danych przeglądania”, które mogą obejmować adresy URL i inne informacje o pewnych stronach. Pomaga to nam znaleźć odpowiedzi na konkretne pytania, aby ulepszyć { -brand-name-firefox(case: "acc") }, na przykład jak lepiej zintegrować popularne witryny w określonych lokalizacjach.
 privacy-faq-v2-mozilla-pre-release = Testowe wydania { -brand-name-firefox(case: "gen") } od { -brand-name-mozilla(case: "gen") } to platformy rozwojowe, często aktualizowane o eksperymentalne funkcje. Zbieramy w nich więcej danych niż w wydaniach ostatecznych, aby zrozumieć jak te funkcje się sprawdzają. W preferencjach można wyłączyć zbieranie tych danych.
 privacy-faq-v2-but-why-do-you = Ale dlaczego w ogóle zbieracie jakiekolwiek dane?
 # Variables:
