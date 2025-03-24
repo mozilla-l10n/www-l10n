@@ -28,11 +28,17 @@ privacy-faq-v2-wait-so-how = No to w jaki sposób zarabiacie pieniądze?
 privacy-faq-v2-softballs = No dobra, pierwsze pytania były łatwizną. Jakie dane zbieracie?
 privacy-faq-v2-do-you-collect = Czy zbieracie więcej danych w testowych wydaniach { -brand-name-firefox(case: "gen") }?
 privacy-faq-v2-sort-of = Tak jakby. Poza danymi opisanymi powyżej w testowych wydaniach { -brand-name-firefox(case: "gen") } otrzymujemy także zgłoszenia awarii i błędów.
-privacy-faq-v2-mozilla-pre-release = Testowe wydania { -brand-name-mozilla(case: "gen") } od { -brand-name-firefox(case: "gen") } to platformy rozwojowe, często aktualizowane o eksperymentalne funkcje. Zbieramy w nich więcej danych niż w wydaniach ostatecznych, aby zrozumieć jak te funkcje się sprawdzają. W preferencjach można wyłączyć zbieranie tych danych.
+privacy-faq-v2-mozilla-pre-release = Testowe wydania { -brand-name-firefox(case: "gen") } od { -brand-name-mozilla(case: "gen") } to platformy rozwojowe, często aktualizowane o eksperymentalne funkcje. Zbieramy w nich więcej danych niż w wydaniach ostatecznych, aby zrozumieć jak te funkcje się sprawdzają. W preferencjach można wyłączyć zbieranie tych danych.
 privacy-faq-v2-but-why-do-you = Ale dlaczego w ogóle zbieracie jakiekolwiek dane?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
+privacy-faq-v2-if-we-dont-know = Jeśli nie wiemy, jak przeglądarka się sprawuje czy jakie funkcje są używane, to nie możemy jej ulepszyć i spełnić waszych oczekiwań. Zainwestowaliśmy w zbudowanie narzędzi do zbierania i analizy danych, które umożliwiają nam podejmowanie właściwych decyzji o naszym produkcie, jednocześnie szanując prywatność użytkowników. Możesz poczytać więcej o niektórych stosowanych przez nas technologiach ochrony prywatności, takich jak <a { $attrs }>OHTTP</a>.
 privacy-faq-v2-data-collection-bugs-me = Zbieranie danych nadal mnie niepokoi. Czy mogę je wyłączyć?
 privacy-faq-v2-what-about-my-account = Co z danymi na moim koncie?
 privacy-faq-v2-we-are-big-believers = Głęboko wierzymy w zasadę minimalizacji danych i nie prosimy o nic, czego nie potrzebujemy.
+privacy-faq-v2-you-use-digital = Używacie reklam internetowych w ramach swoich działań marketingowych. Czy kupujecie dane o ludziach, aby lepiej ukierunkowywać swoje reklamy w Internecie?
+privacy-faq-v2-no-we-do-not-buy = Nie, nie kupujemy danych ludzi do reklamy ukierunkowanej.
+privacy-faq-v2-we-do-not-ask = Zwracamy się do naszych partnerów reklamowych, aby używali wyłącznie danych, które strony i wydawcy znają o wszystkich swoich użytkownikach, takich jak używana przeglądarka i urządzenie.
 privacy-faq-v2-well-it-seems = No cóż, wygląda na to, że naprawdę jesteście po mojej stronie w sprawach prywatności.
 privacy-faq-v2-yes-we-do = Tak, naprawdę jesteśmy.
 privacy-faq-v2-find-out-more = Więcej informacji o tym, jak { -brand-name-mozilla } chroni Internet.
