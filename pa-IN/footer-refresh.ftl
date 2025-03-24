@@ -2,9 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-refresh-discover-mozilla-products = { -brand-name-mozilla } ਉਤਪਾਦਾਂ ਅਤੇ ਨਵੇ ਉਦਮਾਂ ਬਾਰੇ ਖੋਜੋ। ਅਸੀਂ ਤੁਹਾਡੇ ਈਮੇਲ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਅਤੇ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਦਾ ਵਾਦਾ ਕਰਦੇ ਹਾਂ — ਨਾ ਕਿਸੇ ਨਾ ਸਾਂਝਾ ਕਰਨਾ, ਨਾ ਵੇਚਣਾ, ਸਿਰਫ਼ ਤੇ ਸਿਰਫ਼ ਅੱਪਡੇਟ ਹੀ।
 footer-refresh-leadership = ਅਗਵਾਈ
 footer-refresh-advertise = { -brand-name-mozilla } ਨਾਲ ਇਸ਼ਤਿਹਾਰ
 footer-refresh-mozilla-advertising = { -brand-name-mozilla } ਇਸ਼ਤਿਹਾਰਬਾਜ਼ੀ
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = <span>{ footer-refresh-mozilla-advertising } ਬਾਰੇ</span> ਹੋਰ ਜਾਣੋ
 footer-refresh-firefox-release-notes = { -brand-name-firefox } ਰੀਲਿਜ ਨੋਟਿਸ
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
