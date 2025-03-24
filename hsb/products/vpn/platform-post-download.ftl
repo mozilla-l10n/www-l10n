@@ -30,6 +30,9 @@ vpn-login-or-signup = 3 Přizjewće so abo registrujće so
 vpn-enter-your-email = Zapodajće swoju e-mejlowu adresu, zo byšće so přizjewił abo registrował a započńće
 vpn-turn-on-vpn = 4. Zmóžńće VPN
 vpn-install-firefox-extension = 5. Rozšěrjenje { -brand-name-firefox } instalować
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = <a href="{ $extension }">Sćehńće a instalujće rozšěrjenje</a>, zo byšće wuzamknjenja na sydło nastajił a wubjerće druhe městna za rozdźělne websydła.
 
 ## FAQ Strings
 
