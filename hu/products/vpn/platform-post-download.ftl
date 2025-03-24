@@ -35,7 +35,11 @@ vpn-launch-the-app = 2. Indítsa el az alkalmazást
 vpn-login-or-signup = 3. Jelentkezzen be vagy regisztráljon
 vpn-enter-your-email = A kezdéshez adja meg az e-mail-címét a bejelentkezéshez vagy regisztrációhoz
 vpn-turn-on-vpn = 4. Kapcsolja be a VPN-t
+vpn-install-firefox-extension = 5. Telepítse a { -brand-name-firefox } kiegészítőt
 vpn-pick-a-recommended = Válasszon egy ajánlott helyet a gyors, stabil kapcsolathoz, vagy válassza ki kézzel a kívánt helyet, majd kapcsolja BE a kapcsolót
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = <a href="{ $extension }">Töltse le és telepítse a kiegészítőt</a>, hogy webhelyenkénti kivételeket állítson be, és különböző helyeket válasszon a különböző webhelyekhez.
 
 ## FAQ Strings
 

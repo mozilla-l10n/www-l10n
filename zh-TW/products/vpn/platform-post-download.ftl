@@ -35,7 +35,11 @@ vpn-launch-the-app = 2. 執行程式
 vpn-login-or-signup = 3. 登入或註冊
 vpn-enter-your-email = 請輸入您的電子郵件地址來登入或註冊，即可開始使用
 vpn-turn-on-vpn = 4. 開啟 VPN
+vpn-install-firefox-extension = 5. 安裝 { -brand-name-firefox } 擴充套件
 vpn-pick-a-recommended = 請挑選推薦的位置以獲得快速、穩定的連線，也可以手動選擇想要的位置，然後開啟連線
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = <a href="{ $extension }">下載安裝擴充套件</a>即可為不同網站設定排除項目並選擇在不同位置瀏覽。
 
 ## FAQ Strings
 

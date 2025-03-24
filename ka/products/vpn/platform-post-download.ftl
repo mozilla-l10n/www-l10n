@@ -35,7 +35,11 @@ vpn-launch-the-app = 2. გაუშვით პროგრამა
 vpn-login-or-signup = 3. შედით ან შექმენით ანგარიში
 vpn-enter-your-email = შეიყვანეთ თქვენი ელფოსტის მისამართი შესასვლელად ან ანგარიშის შექმნისთვის გამოყენების დასაწყებად
 vpn-turn-on-vpn = 4. ჩართეთ VPN
+vpn-install-firefox-extension = 5. დააყენეთ { -brand-name-firefox } გაფართოება
 vpn-pick-a-recommended = აირჩიეთ შემოთავაზებული მდებარეობა სწრაფი, მდგრადი კავშირისთვის ან მიუთითეთ სასურველი მდებარეობა ხელით, შემდეგ კი გადამრთველი დააყენეთ „ჩართულზე“
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = <a href="{ $extension }">ჩამოტვირთეთ და დააყენეთ გაფართოება</a> თითოეულ საიტზე გამონაკლისის დასაყენებლად და საიტებისთვის სხვადასხვა მდებარეობის ასარჩევად.
 
 ## FAQ Strings
 
