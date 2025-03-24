@@ -22,6 +22,9 @@ vpn-shared-features-access-countries = Adgang til servere i mere end { $countrie
 #   $devices (number) - number of available devices
 vpn-shared-features-protection = Beskyttelse af op til { $devices } enheder
 # Variables:
+#   $countries (number) - number of available countries
+vpn-shared-features-strong-servers = Hurtige servere i { $lande }+ lande
+# Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Tilslut op til { $devices } enheder
 # This string is displayed as an item in a list of features.
@@ -64,6 +67,7 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } er end
 
 vpn-shared-platform-cta-headline = Lad os komme i gang
 vpn-shared-platform-cta-button = Se priser og tilgængelighed
+vpn-shared-platform-privacy-promise = Vi beskytter dit privatliv
 vpn-shared-platform-what-is = Hvad er { -brand-name-mozilla-vpn }?
 vpn-shared-platform-what-youll-get = Hvad du får med { -brand-name-mozilla-vpn }:
 # Subnav strings
@@ -76,6 +80,7 @@ vpn-subnav-features = Funktioner
 
 # Section title for press quotations about Mozilla VPN
 vpn-press-as-seen-in = Kendt fra
+vpn-press-unique-features-like-its-multi-account = "... unikke funktioner som Multi-Account Containers kan gøre funktionen let tilgængelig for brugere med mere seriøse bekymringer om beskyttelse af deres privatliv."
 vpn-press-mozilla-vpns-feature-list-has-grown = Listen med funktioner i { -brand-name-mozilla-vpn } er vokset betydeligt siden lanceringen, og tjenesten slår nu mange specialiserede VPN'er på nogle områder.
 
 ## Unsupported language notification
@@ -85,3 +90,6 @@ vpn-press-mozilla-vpns-feature-list-has-grown = Listen med funktioner i { -brand
 #   $language (string) - localized native language name for the locale of the current page.
 #   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
 vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } tilbydes i øjeblikket ikke på { $language }, men du kan bruge den på engelsk, fransk, tysk, spansk og <a { $href }>mere end 30 andre sprog</a> .
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = Vil du hjælpe med at gøre { -brand-name-mozilla-vpn } tilgængelig for flere mennesker? <a { $href }>Giv en hånd med oversættelsen</a>.
