@@ -58,6 +58,7 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } er end
 vpn-shared-platform-cta-headline = Lad os komme i gang
 vpn-shared-platform-cta-button = Se priser og tilgængelighed
 vpn-shared-platform-what-is = Hvad er { -brand-name-mozilla-vpn }?
+vpn-shared-platform-what-youll-get = Hvad du får med { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Læs om VPN'er
@@ -66,6 +67,8 @@ vpn-subnav-features = Funktioner
 
 ## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = Kendt fra
 
 ## Unsupported language notification
 
