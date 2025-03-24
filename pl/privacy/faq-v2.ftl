@@ -23,8 +23,15 @@ privacy-faq-v2-following-questions = Poniższe pytania i odpowiedzi pomogą w 
 ## FAQ
 
 privacy-faq-v2-i-use-firefox = Używam { -brand-name-firefox(case: "acc") } do prawie wszystkiego, co robię w Internecie. { -brand-name-mozilla } i jej pracownicy muszą wiedzieć o mnie mnóstwo rzeczy, co nie?
+privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } nie wie tyle, ile można by się spodziewać o tym, jak ludzie przeglądają sieć. { -brand-name-firefox }, przeglądarka internetowa działająca na Twoim urządzeniu lub komputerze, jest Twoją bramą do Internetu. Twoja przeglądarka będzie zarządzać wieloma informacjami o odwiedzanych przez Ciebie stronach internetowych, ale te informacje zazwyczaj pozostają na Twoim urządzeniu.
 privacy-faq-v2-it-seems-like = Wygląda na to, że każda firma w Internecie kupuje i sprzedaje moje dane. Wy pewnie nie jesteście lepsi.
+# Variables:
+#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
+privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } nie sprzedaje danych o Tobie (w sposób, w jaki większość ludzi myśli o „sprzedaży danych”) i nie kupujemy danych o Tobie. Ponieważ dążymy do przejrzystości, a PRAWNA definicja „sprzedaży danych” jest w niektórych miejscach niezwykle szeroka, musieliśmy wycofać się z wygłaszania ostatecznych oświadczeń, które znasz i kochasz. Nadal wkładamy wiele pracy w to, aby upewnić się, że dane, którymi dzielimy się z naszymi partnerami (co musimy zrobić, aby { -brand-name-firefox } był komercyjnie opłacalny) są pozbawione wszelkich informacji identyfikacyjnych lub udostępniane tylko w formie zbiorczej, lub są przepuszczane przez nasze technologie ochrony prywatności (takie jak <a { $attrs }>OHTTP</a>).
 privacy-faq-v2-wait-so-how = No to w jaki sposób zarabiacie pieniądze?
+# Variables:
+#   $attrs (url) - link to https://stateof.mozilla.org
+privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } nie jest typową organizacją. Założona jako społeczny projekt open source w 1998 roku, { -brand-name-mozilla } jest organizacją z misją, działającą na rzecz zdrowszego Internetu. Większość przychodów { -brand-name-mozilla-corporation } pochodzi z należności uzyskanych przez partnerstwa z wyszukiwarkami w przeglądarce { -brand-name-firefox } i umowy dystrybucyjne na całym świecie. Więcej informacji o tym, jak zarabiamy pieniądze znajduje się w naszym <a { $attrs }>corocznym sprawozdaniu finansowym</a>.
 privacy-faq-v2-softballs = No dobra, pierwsze pytania były łatwizną. Jakie dane zbieracie?
 privacy-faq-v2-do-you-collect = Czy zbieracie więcej danych w testowych wydaniach { -brand-name-firefox(case: "gen") }?
 privacy-faq-v2-sort-of = Tak jakby. Poza danymi opisanymi powyżej w testowych wydaniach { -brand-name-firefox(case: "gen") } otrzymujemy także zgłoszenia awarii i błędów.
@@ -34,8 +41,15 @@ privacy-faq-v2-but-why-do-you = Ale dlaczego w ogóle zbieracie jakiekolwiek da
 #   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
 privacy-faq-v2-if-we-dont-know = Jeśli nie wiemy, jak przeglądarka się sprawuje czy jakie funkcje są używane, to nie możemy jej ulepszyć i spełnić waszych oczekiwań. Zainwestowaliśmy w zbudowanie narzędzi do zbierania i analizy danych, które umożliwiają nam podejmowanie właściwych decyzji o naszym produkcie, jednocześnie szanując prywatność użytkowników. Możesz poczytać więcej o niektórych stosowanych przez nas technologiach ochrony prywatności, takich jak <a { $attrs }>OHTTP</a>.
 privacy-faq-v2-data-collection-bugs-me = Zbieranie danych nadal mnie niepokoi. Czy mogę je wyłączyć?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
+#   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
+privacy-faq-v2-yes-user-control = Tak. Kontrola użytkownika to jedno z naszych pryncypiów prywatności danych. Wprowadzamy to w praktyce na <a { $privacy }>stronie ustawień prywatności</a>, służącej jako jedno miejsce do kontroli prywatności w { -brand-name-firefox(case: "loc") }. Można na niej <a { $data }>wyłączyć zbieranie danych</a>.
 privacy-faq-v2-what-about-my-account = Co z danymi na moim koncie?
 privacy-faq-v2-we-are-big-believers = Głęboko wierzymy w zasadę minimalizacji danych i nie prosimy o nic, czego nie potrzebujemy.
+# Variables:
+#   $attrs (url) - link to https://www.mozilla.org/account/
+privacy-faq-v2-you-dont-need-an-account = Do używania { -brand-name-firefox(case: "gen") } nie potrzebujesz konta. <a { $attrs }>Konto</a> jest wymagane do synchronizacji danych między urządzeniami, ale prosimy tylko o adres e-mail i wiek (aby mieć pewność, że nie jesteś dzieckiem).
 privacy-faq-v2-you-use-digital = Używacie reklam internetowych w ramach swoich działań marketingowych. Czy kupujecie dane o ludziach, aby lepiej ukierunkowywać swoje reklamy w Internecie?
 privacy-faq-v2-no-we-do-not-buy = Nie, nie kupujemy danych ludzi do reklamy ukierunkowanej.
 privacy-faq-v2-we-do-not-ask = Zwracamy się do naszych partnerów reklamowych, aby używali wyłącznie danych, które strony i wydawcy znają o wszystkich swoich użytkownikach, takich jak używana przeglądarka i urządzenie.
