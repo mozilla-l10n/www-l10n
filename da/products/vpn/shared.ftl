@@ -51,6 +51,13 @@ vpn-shared-save-percent-on = Spar { $percent }% på { -brand-name-mozilla-vpn }*
 vpn-shared-when-you-subscribe = *når du abonnerer på en 12-måneders plan
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
 vpn-shared-with-an-annual-subscription = *med et årsabonnement
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total = I alt { $amount }
+# total price plus tax (shown in US and Canada).
+# Variables:
+#   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
+vpn-shared-pricing-total-plus-tax = I alt { $amount } + moms
 vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } er endnu ikke tilgængelig i dit land
 
 # Platform subpage shared strings
