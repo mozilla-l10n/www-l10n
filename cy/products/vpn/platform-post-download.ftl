@@ -35,11 +35,11 @@ vpn-launch-the-app = 2. Agor yr ap
 vpn-login-or-signup = 3. Mewngofnodi neu gofrestru
 vpn-enter-your-email = Rhowch eich cyfeiriad e-bost i fewngofnodi neu gofrestru a dechrau arni
 vpn-turn-on-vpn = 4. Trowch y VPN ymlaen
-vpn-install-firefox-extension = 5. Gosod { -brand-name-firefox } Estyniad
+vpn-install-firefox-extension = 5. Gosod Estyniad { -brand-name-firefox }
 vpn-pick-a-recommended = Dewiswch leoliad sy'n cael ei argymell ar gyfer cysylltiad cyflym, sefydlog neu dewiswch eich hoff leoliad â llaw, yna trowch y togl YMLAEN
 # Variables:
 #   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
-vpn-download-and-install = <a href="{ $extension }">Lawrlwythwch a gosodwch yr estyniad</a> i osod gwaharddiadau fesul safle a dewis lleoliadau gwahanol ar gyfer gwefannau gwahanol.
+vpn-download-and-install = <a href="{ $extension }">Llwythwch i lawr a gosod yr estyniad</a> i osod gwaharddiadau fesul gwefan a dewis lleoliadau gwahanol ar gyfer gwefannau gwahanol.
 
 ## FAQ Strings
 
