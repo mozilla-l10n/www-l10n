@@ -35,7 +35,11 @@ vpn-launch-the-app = 2. Avvia l’applicazione
 vpn-login-or-signup = 3. Accedi o registrati
 vpn-enter-your-email = Inserisci il tuo indirizzo email per accedere o registrarti, e inizia
 vpn-turn-on-vpn = 4. Attiva la VPN
+vpn-install-firefox-extension = 5. Installa l’estensione per { -brand-name-firefox }
 vpn-pick-a-recommended = Scegli una posizione tra quelle consigliate per una connessione veloce e stabile, oppure scegli manualmente la posizione che desideri, quindi attiva la VPN con l’interruttore
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = <a href="{ $extension }">Scarica e installa l’estensione</a> per escludere determinati siti dalla protezione e scegliere posizioni diverse per ciascun sito web.
 
 ## FAQ Strings
 
