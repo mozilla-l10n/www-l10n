@@ -42,9 +42,6 @@ home-read-more = اطَّلِع على المزيد
 
 home-so-what-is-mozilla = إذن، ما هي { -brand-name-mozilla }؟
 
-# Obsolete string (expires: 2025-01-05)
-home-at-its-core = في الجوهر، تُعتبر { -brand-name-mozilla } مؤسسة نشطة تمارس عملها تحت قيادة { -brand-name-mozilla-foundation } التي تُحدث التغيير في العالم من خلال مجموعة متنوعة من المشاريع مثل { -brand-name-mozilla-corporation }، MZLA، <a { $ventures }>{ -brand-name-mozilla-ventures }</a> و <a { $mozai }>{ -brand-name-mozilla-ai }</a>. كيف نختلف عن الآخرين؟ نظرًا لأننا نعمل بهدف تحقيق مُهمة محدّدة، فهذا يعني أننا نمتلك حرية اتخاذ جميع قراراتنا بناءً على ما هو أفضل للإنترنت وللجميع عبر الإنترنت، وليس بناءً على مطالب المساهمين — ليس لدينا مساهمين في الواقع.
-
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/

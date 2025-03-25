@@ -42,9 +42,6 @@ home-read-more = और पढ़ें
 
 home-so-what-is-mozilla = तो, { -brand-name-mozilla } क्या है?
 
-# Obsolete string (expires: 2025-01-05)
-home-at-its-core = बुनियादी तौर पर, { -brand-name-mozilla } एक एक्टिविस्ट ऑर्गनाइज़ेशन है जिसकी अगुआई { -brand-name-mozilla-foundation } करता है जो दुनिया को बेहतर बनाने के उद्देश्य से विभिन्न उपक्रम चलाता है जिनमें { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> और <a { $mozai }>{ -brand-name-mozilla-ai }</a> शामिल हैं। हम दूसरों से कैसे अलग हैं? क्योंकि हम मिशन-संचालित हैं, इसका मतलब हुआ कि हम अपने सभी निर्णय स्वतंत्र ढंग से लेते हैं और इस आधार पर लेते हैं कि इंटरनेट और ऑनलाइन मौजूद सभी लोगों के लिए सबसे अच्छा क्या रहेगा, हमें शेयरधारकों की मांग नहीं पूरी करनी है — दरअसल हमारे साथ ऐसा कुछ मामला ही नहीं है।
-
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/
