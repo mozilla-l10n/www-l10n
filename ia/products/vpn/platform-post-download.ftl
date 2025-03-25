@@ -35,6 +35,7 @@ vpn-launch-the-app = 2. Lancea le app
 vpn-login-or-signup = 3. Aperi session o inscribe te
 vpn-enter-your-email = Insere tu adresse email pro authenticar te o inscribe te e comencia
 vpn-turn-on-vpn = 4. Activa le VPN
+vpn-install-firefox-extension = Installar extension de { -brand-name-firefox }
 vpn-pick-a-recommended = Selige un position recommendate pro un veloce, stabile connexion o manualmente elige tu position desirate, pois ACTIVA le commutator
 
 ## FAQ Strings
