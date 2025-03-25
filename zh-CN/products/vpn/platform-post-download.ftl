@@ -39,7 +39,7 @@ vpn-install-firefox-extension = 5. 安装 { -brand-name-firefox } 扩展
 vpn-pick-a-recommended = 选择一个推荐的服务器位置并打开 VPN 开关，即可享受高速稳定的网络连接。您也可按实际需要，自行选择服务器位置。
 # Variables:
 #   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
-vpn-download-and-install = <a href="{ $extension }">下载并安装扩展</a>即可设置单个网站的排除对象还可为不同网站选择不同位置。
+vpn-download-and-install = <a href="{ $extension }">下载并安装扩展</a>即可将网站单独排除出保护范围，并可选择通过不同位置来访问各网站。
 
 ## FAQ Strings
 
