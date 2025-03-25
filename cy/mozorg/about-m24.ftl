@@ -24,11 +24,7 @@ m24-about-a-group-of = Grŵp o feddylwyr yn eistedd mewn cylch ar y llawr yn rha
 m24-about-advocate = Eiriolwr
 m24-about-we-advocate-for = Rydym yn eiriol dros well cynnyrch, gan ddal llywodraethau a chorfforaethau technoleg yn atebol am yr hyn y maen nhw'n ei greu.
 m24-about-research = Ymchwil
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = Monitor
 m24-about-we-uncover-insights = Rydym yn datgelu mewnwelediadau, yn ymgyrchu i wella cynnyrch ac yn gyrru ar bolisïau sy'n cynrychioli eich diddordebau.
-# Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = Rydym yn monitro datblygiadau, yn cynnal ymchwil ac yn ymgyrchu i wella cynnyrch ac yn gyrru ar bolisïau sy'n cynrychioli eich diddordebau.
 m24-about-build = Adeiladu
 m24-about-we-build-products = Rydyn ni'n adeiladu cynnyrch sy'n eich rhoi chi mewn rheolaeth — fel { -brand-name-firefox }, { -brand-name-fakespot } a mwy.
 m24-about-fund = Ariannu
@@ -69,8 +65,6 @@ m24-about-see-open-positions = Gweld swyddi agored
 ## Community
 
 m24-about-community-love-v2 = Cariad cymunedol, y grym sy'n ein gyrru
-# Obsolete string (expires: 2025-02-03)
-m24-about-community-love = Cariad cymunedol —<br> y grym sy'n ein gyrru
 m24-about-mozilla-is-a = Mae { -brand-name-mozilla } yn gymuned fyd-eang o wirfoddolwyr, cymrodyr a chyfranwyr angerddol sydd wedi bod yn adeiladu, diogelu a siapio’r rhyngrwyd gyda ni ers 1998.
 m24-about-from-writing-code = O ysgrifennu cod a sylwi ar wallau i eiriol dros breifatrwydd a chadw'r rhyngrwyd ar agor i bawb — aelodau ein cymuned yw asgwrn cefn popeth rydym yn ei wneud. Mae eu hangerdd a'u hymroddiad yn ein hysbrydoli bob dydd.
 # Used as an accessible text alternative for an image

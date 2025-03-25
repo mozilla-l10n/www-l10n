@@ -96,8 +96,6 @@ m24-home-tag-video = Myndskeið
 m24-home-topic-news = Fréttir
 m24-home-topic-ai = Gervigreind
 m24-home-topic-ps = Persónuvernd og öryggi
-# Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = Fyrirsögn: Þú, gervigreind og internetið - hvað er eiginlega í gangi?
 m24-home-headline-you-ai-v2 = Þú, gervigreind og internetið - hvað er eiginlega í gangi?
 m24-home-introducing-anonym = Við kynnum { -brand-name-anonym }: Hækkum öll viðmið varðandi stafrænar auglýsingar sem varðveita friðhelgi einkalífsins.
 m24-home-keeping-genai-technologies = Að halda GenAI-tækni öruggri er sameiginleg ábyrgð okkar.

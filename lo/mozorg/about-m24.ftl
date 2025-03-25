@@ -15,8 +15,6 @@ m24-about-page-title = ຮຽນຮູ້ກ່ຽວກັບ { -brand-name-moz
 
 m24-about-advocate = ທະນາຍຄວາມ
 m24-about-research = ການຄົ້ນຄ້ວາ
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = ຕິດຕາມກວດກາ
 m24-about-build = ສ້າງ
 m24-about-fund = ກອງທຶນ
 

@@ -12,7 +12,5 @@ features-translate-when-you-translate-a-webpage = Gaž webbok pśełožujośo, w
 features-translate-what-languages-are-currently = Kótare rěcy se tuchylu pódpěraju?
 # This is followed by a localized list of supported languages
 features-translate-the-languages-below-are-what-v2 = Slědujuce rěcy se tuchylu pśez pśełožowańsku funkciju  { -brand-name-firefox-translations } pódpěraju:
-# Obsolete string (expires: 2025-02-17)
-features-translate-the-languages-below-are-what = Slědujuce rěcy se tuchylu pśez pśełožowańsku funkciju  { -brand-name-firefox } pódpěraju:
 features-translate-and-more-languages-are-in = A dalšne rěcy su we wuwiśu!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } wašu rěc powěda

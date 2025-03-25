@@ -117,8 +117,6 @@
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account = Mozilla kontua
 -brand-name-mozilla-accounts = Mozilla kontuak
-# Obsolete string (expires: 2025-01-05)
--brand-name-mozilla-ai = Mozilla AA
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-thunderbird = Thunderbird
 

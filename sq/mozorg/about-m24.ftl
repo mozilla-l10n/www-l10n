@@ -24,11 +24,7 @@ m24-about-a-group-of = Një grup mendimtarësh ulur në një rreth përdhe duke 
 m24-about-advocate = Mbroni
 m24-about-we-advocate-for = Ne luftojmë për produkte më të mira, duke bërë përgjegjës qeveri dhe korporata teknologjike për çfarë krijojnë.
 m24-about-research = Punë kërkimore
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = Monitor
 m24-about-we-uncover-insights = Ne zbulojmë prirje, bëjmë fushatë për të përmirësuar produkte dhe nxisim politika që përfaqësojnë interesat tuaja.
-# Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = Ndjekim zhvillime, bëjmë kërkime dhe fushata për të përmirësua produkte dhe jemi pas politikash që përfaqësojnë interesat tuaja.
 m24-about-build = Ndërtim
 m24-about-we-build-products = Ndërtojmë produkte që ju vënë ju në kontroll — të tillë si { -brand-name-firefox }, { -brand-name-fakespot }, etj.
 m24-about-fund = Financim
@@ -68,8 +64,6 @@ m24-about-see-open-positions = Shihni vende pune të lira
 ## Community
 
 m24-about-community-love-v2 = Dashuria e bashkësisë, motori ynë
-# Obsolete string (expires: 2025-02-03)
-m24-about-community-love = Dashuria e bashkësisë —<br> motori ynë
 m24-about-mozilla-is-a = { -brand-name-mozilla } është një bashkësi mbarëbotërore vullnetarësh të pasionuar, bashkëpunëtorësh dhe kontribuesish që merren me ndërtimin, mbrojtjen dhe dhënies formës internetit tok me ne që nga 1998-a.
 m24-about-from-writing-code = Nga shkrim kodi dhe pikasje të metash e deri te mbrojtja e privatësisë dhe mbajta e internetit të hapët për këdo — anëtarët e bashkësisë tonë janë shtylla kurrizore e gjithçkaje që bëjmë. Pasioni dhe përkushtimi i tyre na frymëzojnë çdo ditë.
 # Used as an accessible text alternative for an image

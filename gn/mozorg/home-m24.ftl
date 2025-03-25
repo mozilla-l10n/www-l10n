@@ -81,8 +81,6 @@ m24-home-tag-video = Ta’ãngamýi
 m24-home-topic-news = Marandu
 m24-home-topic-ai = Inteligencia artificial
 m24-home-topic-ps = Ñemigua ha Tekorosã
-# Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = Mba’ejára: Nde, IA ha ñanduti: ¿mba’ete pe ojehuvahína?
 m24-home-headline-you-ai-v2 = Nde, IA ha ñanduti: ¿mba’ete pe ojehuvahína?
 m24-home-keeping-genai-technologies = Hekorosã hag̃ua tembiporupyahu GenAI ha’e opavavete rembiaporã.
 m24-home-from-hollywood-to = Hollywood guive hip hop reheguáva peve, oñomongeta IA jarakuéra ndive.

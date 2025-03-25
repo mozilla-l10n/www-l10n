@@ -24,11 +24,7 @@ m24-about-a-group-of = Un gruppu di cristiani assittati 'n terra a cìrculu, chi
 m24-about-advocate = Attivìsimu
 m24-about-we-advocate-for = Ammuttamu p'aviri prudutti megghiu, facènnuci pigghiari ê guverni e i mprisi a rispunzabbilità di chiḍḍu chi crìanu.
 m24-about-research = Ricerca
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = Monitor
 m24-about-we-uncover-insights = Scupremu cosi ncignusi, facemu campagni p'ammigghiurari i prudutti e prumuvemu pulìtichi chi riprisèntanu i to ntiressi.
-# Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = Cuntrullamu i sbiluppi, facemu risciduti e campagni p'ammigghiurari i prudutti e prumòviri pulìtichi chi riprisèntanu i to ntiressi.
 m24-about-build = Sbiluppu
 m24-about-we-build-products = Custrujemu prudutti chi ti dùnanu u cuntrollu — a tipu { -brand-name-firefox }, { -brand-name-fakespot } e autri.
 m24-about-fund = Finanziamentu
@@ -69,8 +65,6 @@ m24-about-see-open-positions = Vidi i posti dispunìbbili
 ## Community
 
 m24-about-community-love-v2 = L'amuri dâ cumunità, a nostra forza mutrici
-# Obsolete string (expires: 2025-02-03)
-m24-about-community-love = L'amuri dâ cumunità —<br> a nostra forza mutrici
 m24-about-mozilla-is-a = { -brand-name-mozilla } è na cumunità munniali di vuluntari appassiunati, culleghi e cuntribbutura chi, dû 1998, travàgghianu nzèmmula pi custrujiri, prurèggiri e dari furma â riti.
 m24-about-from-writing-code = Dâ scrittura di còdici e a risciduta di sbagghi nzinu ê lotti pâ privatizza e pi mantèniri a riti graputa pi tutti — i mèmmiri dâ nostra cumunità sunnu u pidamentu di tuttu chiḍḍu chi facemu. A passiuni e a vuluntà d'iḍḍi ni duna forza ogni jornu.
 # Used as an accessible text alternative for an image

@@ -13,8 +13,6 @@ navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = نال رلت کرو
 navigation-refresh-innovation-projects = اختراعی منصوبے
 navigation-refresh-blog = بلاگ
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 

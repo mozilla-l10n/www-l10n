@@ -32,8 +32,6 @@ home-join-us-in-shaping = Güvenilir yapay zekâyı şekillendirmede bize katıl
 home-work-on-ai = { -brand-name-mozilla }’nın yapay zekâ üzerine yaptığı çalışmalar yeni değil. Açık, adil ve sorumlu bir şekilde geliştirilen yapay zekâyı yıllardır finanse ediyor, inşa ediyor ve savunuyoruz. İnsana hizmet eden, şeffaflığı ön planda tutan, kurumsal hedefler yerine kamu yararını destekleyen yapay zekâ yaratmaya odaklanıyoruz.
 home-read-more = Devamını okuyun
 home-so-what-is-mozilla = Peki, { -brand-name-mozilla } nedir?
-# Obsolete string (expires: 2025-01-05)
-home-at-its-core = { -brand-name-mozilla }, özünde { -brand-name-mozilla-foundation } tarafından yönetilen aktivist bir kuruluş. { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> ve <a { $mozai }>{ -brand-name-mozilla-ai }</a> gibi girişimlerimizle dünyada fark yaratıyoruz. Farkımız ne mi? Hiç hissedarımız yok. Misyon odaklı bir kuruluş olduğumuz için, hissedarlara para kazandıracak kararları değil de internet için ve herkes için en iyi olacak kararları alma özgürlüğümüz var.
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/

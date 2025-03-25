@@ -32,8 +32,6 @@ home-join-us-in-shaping = Pridružite se nam pri oblikovanju zaupanja vredne ume
 home-work-on-ai = { -brand-name-mozilla } se z umetno inteligenco ne srečuje prvič – dolga leta že financiramo, soustvarjamo in zagovarjamo UI, ki je odprta, poštena in razvita odgovorno. Osredotočamo se na ustvarjanje UI, ki bi služila ljudem, bila transparentna in služila javnemu dobru, ne ciljem velikih korporacij.
 home-read-more = Preberite več
 home-so-what-is-mozilla = Kaj je torej { -brand-name-mozilla }?
-# Obsolete string (expires: 2025-01-05)
-home-at-its-core = V svojem jedru je { -brand-name-mozilla } aktivistična organizacija pod vodstvom { -brand-name-mozilla-foundation(sklon: "rodilnik") }, ki spreminja svet z najrazličnejšimi podvigi, kot so { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> in <a { $mozai }>{ -brand-name-mozilla-ai }</a>. V čem smo drugačni? Vodi nas poslanstvo, to pa pomeni, da se svobodno odločamo na podlagi tega, kaj je najboljše za internet in za vse njegove uporabnike, ne pa na podlagi zahtev delničarjev – pravzaprav teh sploh nimamo.
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/

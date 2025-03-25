@@ -24,11 +24,7 @@ m24-about-a-group-of = Ina gruppa da pensaders sesan giun plaun en in rudè e ba
 m24-about-advocate = Engaschi
 m24-about-we-advocate-for = Nus ans engaschain per megliers products e per che regenzas e concerns da tecnologia sajan responsabels per quai ch’els creeschan.
 m24-about-research = Retschertga
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = Monitor
 m24-about-we-uncover-insights = Nus partin invistas, organisain campagnas per meglierar products e promover ina politica che resguarda tes interess.
-# Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = Nus persequitain ils svilups, faschain retschertgas e lantschain campagnas per meglierar products e promover leschas che represchentan tes interess.
 m24-about-build = Sviluppar
 m24-about-we-build-products = Nus sviluppain products che ta dattan la controlla – sco { -brand-name-firefox }, { -brand-name-fakespot } ed auters.
 m24-about-fund = Finanziaziun
@@ -68,8 +64,6 @@ m24-about-see-open-positions = Mussar las plazzas libras
 ## Community
 
 m24-about-community-love-v2 = La passiun da la communitad, nossa forza
-# Obsolete string (expires: 2025-02-03)
-m24-about-community-love = La passiun da la communitad –<br> nossa forza
 m24-about-mozilla-is-a = { -brand-name-mozilla } è ina communitad globala da voluntarias, socis e contribuentas passiunadas che creeschan, protegian e furman l’internet cun nus – dapi il 1998.
 m24-about-from-writing-code = Scriver code, tschertgar sbagls, s’engaschar per la protecziun da datas e mantegnair in internet accessibel per mintgin:a – las commemb:ras da nossa communitad èn la pitga principala da tut quai che nus faschain. Lur passiun ed engaschi ans inspireschan mintga di.
 # Used as an accessible text alternative for an image

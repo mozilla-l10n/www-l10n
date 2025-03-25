@@ -24,10 +24,6 @@ m24-about-a-group-of = Um grupo de pensadores sentados em círculo no chão troc
 m24-about-advocate = Ativismo
 m24-about-we-advocate-for = Pleiteamos produtos melhores, responsabilizando governos e corporações de tecnologia pelo que criam.
 m24-about-research = Pesquisa
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = Monitor
-# Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = Monitoramos desenvolvimentos, realizamos pesquisas e campanhas para melhorar produtos e impulsionar políticas que representam seus interesses.
 m24-about-build = Produção
 m24-about-we-build-products = Criamos produtos que colocam você no controle, como { -brand-name-firefox }, { -brand-name-fakespot } e muito mais.
 m24-about-fund = Financiamento

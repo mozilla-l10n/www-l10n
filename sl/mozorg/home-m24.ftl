@@ -82,8 +82,6 @@ m24-home-tag-video = Video
 m24-home-topic-news = Novice
 m24-home-topic-ai = Umetna inteligenca
 m24-home-topic-ps = Zasebnost in varnost
-# Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = Naslov: Vi, umetna inteligenca in internet – kaj se pravzaprav dogaja?
 m24-home-headline-you-ai-v2 = Vi, umetna inteligenca in internet – kaj se pravzaprav dogaja?
 m24-home-kids-are-growing = Otroci odraščajo v zelo spletnem svetu. Kaj naj stori zaskrbljen starš?
 

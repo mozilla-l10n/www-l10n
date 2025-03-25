@@ -32,8 +32,6 @@ home-join-us-in-shaping = Junger te a nos pro formar un intelligentia artificial
 home-work-on-ai = Le labor de { -brand-name-mozilla } con le intelligentia artificial non es solo un nova,  nos ha passate annos financiante, producente e favoriente un intelligentia artificial que es aperte, belle e disveloppate responsabilemente. Nostre attention es dedicate al creation del intelligentia artificial que servi le gente, da prioritate al transparentia e supporta le ben public, non agendas corporative.
 home-read-more = Leger plus
 home-so-what-is-mozilla = Ma, cosa es { -brand-name-mozilla }?
-# Obsolete string (expires: 2025-01-05)
-home-at-its-core = A su nucleo, { -brand-name-mozilla } es un organisation activistic ducite per { -brand-name-mozilla-foundation } que produce cambiamento in le mundo per un varietate de interprisas riscose includite { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> e <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Como es nos differente? Perque nos es ducite per mission, significa que nos ha le libertate de facer tote nostre decisiones basate sur lo que es optime pro internet e pro totes online, non basate super le exigentias de actioneros, nos vermente non ha alco de illos.
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/

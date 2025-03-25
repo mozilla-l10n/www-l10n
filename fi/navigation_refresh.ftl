@@ -20,8 +20,6 @@ navigation-refresh-innovation-projects-v2 = Innovaatioprojektit
 navigation-refresh-blog = Blogi
 navigation-refresh-our-mission = Tehtävämme
 navigation-refresh-our-work = Työmme
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 

@@ -32,8 +32,6 @@ home-join-us-in-shaping = Ans gida a crear in’intelligenza artifiziala fidabla
 home-work-on-ai = La lavur da { -brand-name-mozilla } cun l’IA n’è nagina novitad – durant onns avain nus investì en la finanziaziun, il svilup e l’engaschi per in’intelligenza artifiziala ch’è averta, faira e sviluppada a moda responsabla. Nus ans focussain sin la creaziun dad IA che serva a las persunas, dat la prioritad a la transparenza e contribuescha al bainesser da tuts, betg a las finamiras da concerns.
 home-read-more = Ulteriuras infurmaziuns
 home-so-what-is-mozilla = Tge è { -brand-name-mozilla } pia?
-# Obsolete string (expires: 2025-01-05)
-home-at-its-core = Da princip è { -brand-name-mozilla } in’organisaziun activistica, manada da la { -brand-name-mozilla-foundation } ch’emprova da midar il mund cun agid da differentas interpresas, tranter auter { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> e <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Tge ans differenziescha dals auters? Il fatg che nus ans engaschain per in’idea, signifitga che nus avain la libertad da prender tut nossas decisiuns a basa da la dumonda: tge è il meglier per l’internet e tut las persunas ch’èn online? E quai senza stuair resguardar giavischs dad acziunaris – nus n’avain numnadamain nagins acziunaris.
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/

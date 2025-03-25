@@ -96,8 +96,6 @@ m24-home-tag-video = Video
 m24-home-topic-news = Noticias
 m24-home-topic-ai = Inteligencia artificial
 m24-home-topic-ps = Privacidad y seguridad
-# Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = Titular: Vos, la IA e Internet — ¿Qué es lo que realmente está pasando?
 m24-home-headline-you-ai-v2 = Vos, la IA e Internet — ¿Qué es lo que realmente está pasando?
 m24-home-introducing-anonym = Presentamos { -brand-name-anonym }: Elevando la vara de la publicidad digital que preserva la privacidad.
 m24-home-keeping-genai-technologies = Mantener las tecnologías de GenAI seguras es una responsabilidad compartida.

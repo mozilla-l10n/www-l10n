@@ -12,7 +12,5 @@ features-translate-when-you-translate-a-webpage = Emoñe’ẽasávo ñanduti ro
 features-translate-what-languages-are-currently = Mba’e ñe’ẽpa eiporukuaa ko’ág̃a
 # This is followed by a localized list of supported languages
 features-translate-the-languages-below-are-what-v2 = Ko’ã ñe’ẽ ojokupyty ko’ág̃a { -brand-name-firefox-translations } ñe’ẽasa rembiapoite ndive:
-# Obsolete string (expires: 2025-02-17)
-features-translate-the-languages-below-are-what = Ko’ã ñe’ẽ ojokupyty ko’ág̃a { -brand-name-firefox } ñe’ẽasa rembiapoite ndive:
 features-translate-and-more-languages-are-in = ¡Ha hetave ñe’ẽ hekojerave ohóvo!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } oikumby ne ñe’ẽtee

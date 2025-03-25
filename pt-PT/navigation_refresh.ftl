@@ -22,13 +22,7 @@ navigation-refresh-blog = Blogue
 navigation-refresh-our-mission = A nossa missão
 navigation-refresh-our-work = O nosso trabalho
 navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai = { -brand-name-mozilla } IA
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ai-v2 = { -brand-name-mozilla-ai }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
-# Obsolete string (expires: 2025-01-05)
-navigation-refresh-mozilla-ventures = Empresas da { -brand-name-mozilla }
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = Publicidade da { -brand-name-mozilla }
 

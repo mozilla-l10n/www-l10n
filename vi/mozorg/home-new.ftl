@@ -32,8 +32,6 @@ home-join-us-in-shaping = Hãy cùng chúng tôi định hình AI đáng tin c�
 home-work-on-ai = Công việc của { -brand-name-mozilla } với AI không chỉ là một điều mới—chúng tôi đã dành nhiều năm tài trợ, xây dựng và ủng hộ AI cởi mở, công bằng và phát triển có trách nhiệm. Trọng tâm của chúng tôi là tạo ra AI phục vụ mọi người, ưu tiên tính minh bạch và hỗ trợ lợi ích chung chứ không phải các chương trình nghị sự của công ty.
 home-read-more = Xem thêm
 home-so-what-is-mozilla = Vậy, { -brand-name-mozilla } là gì?
-# Obsolete string (expires: 2025-01-05)
-home-at-its-core = Về cốt lõi, { -brand-name-mozilla } là một tổ chức hoạt động được lãnh đạo bởi { -brand-name-mozilla-foundation } tạo ra sự thay đổi trên thế giới thông qua nhiều hoạt động mạo hiểm bao gồm { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> và <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Chúng tôi khác thế nào? Bởi vì chúng tôi hoạt động theo sứ mệnh, điều đó có nghĩa là chúng tôi có quyền tự do đưa ra mọi quyết định của mình dựa trên những gì tốt nhất cho Internet và cho mọi người trực tuyến, chứ không dựa trên nhu cầu của các cổ đông — chúng tôi thực sự không có bất kỳ thứ gì trong số đó.
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/

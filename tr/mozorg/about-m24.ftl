@@ -24,11 +24,7 @@ m24-about-a-group-of = Yerde daire şeklinde oturmuş fikir alışverişi yapan 
 m24-about-advocate = Savunma
 m24-about-we-advocate-for = Daha iyi ürünleri savunuyor, hükümetlerin ve teknoloji şirketlerini yarattıklarını sorguluyoruz.
 m24-about-research = Araştırma
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = İzleme
 m24-about-we-uncover-insights = İçgörüleri ortaya çıkarıyor, ürünleri iyileştiren kampanyalar yürütüyor ve çıkarlarınızı koruyan politikalar geliştiriyoruz.
-# Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = Gelişmeleri izliyor, araştırmalar yapıyor, ürünleri iyileştiren kampanyalar yürütüyor ve çıkarlarınızı koruyan politikalar geliştiriyoruz.
 m24-about-build = Geliştirme
 m24-about-we-build-products = Kontrolü size veren { -brand-name-firefox } ve { -brand-name-fakespot } gibi birçok ürün geliştiriyoruz.
 m24-about-fund = Fonlama
@@ -69,8 +65,6 @@ m24-about-see-open-positions = Açık pozisyonlara bakın
 ## Community
 
 m24-about-community-love-v2 = Topluluğumuzun tutkusu bizim itici gücümüz
-# Obsolete string (expires: 2025-02-03)
-m24-about-community-love = Topluluğumuzun tutkusu:<br> bizim itici gücümüz
 m24-about-mozilla-is-a = { -brand-name-mozilla }, 1998’den beri interneti bizimle birlikte inşa eden, koruyan ve şekillendiren tutkulu gönüllülerden ve katkı sağlayıcılardan oluşan küresel bir topluluk.
 m24-about-from-writing-code = Topluluk üyelerimiz kod yazıyor, hataları saptıyor, gizliliğiniz için mücadele ediyor ve interneti herkes için erişilebilir kılmaya çalışıyor. Yaptığımız her şeyin belkemiğini onlar oluşturuyor. Onların tutkusu ve kararlılığı bize her gün ilham veriyor.
 # Used as an accessible text alternative for an image

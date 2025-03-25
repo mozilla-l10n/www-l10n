@@ -32,8 +32,6 @@ home-join-us-in-shaping = Join us in shaping trustworthy AI
 home-work-on-ai = { -brand-name-mozilla }’s work with AI isn’t just a new thing—we’ve spent years funding, building and advocating for AI that’s open, fair and developed responsibly. Our focus is on creating AI that serves the people, prioritizes transparency and supports the public good, not corporate agendas.
 home-read-more = Read more
 home-so-what-is-mozilla = So, what is { -brand-name-mozilla }?
-# Obsolete string (expires: 2025-01-05)
-home-at-its-core = At its core, { -brand-name-mozilla } is an activist organization led by the { -brand-name-mozilla-foundation } that makes change in the world through a variety of ventures including { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> and <a { $mozai }>{ -brand-name-mozilla-ai }</a>. How are we different? Because we’re mission-driven, it means we have the freedom to make all of our decisions based on what’s best for the internet and for everyone online, not based on the demands of shareholders — we don’t actually have any of those.
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/

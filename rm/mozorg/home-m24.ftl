@@ -93,8 +93,6 @@ m24-home-tag-video = Video
 m24-home-topic-news = Novas
 m24-home-topic-ai = Intelligenza artifiziala
 m24-home-topic-ps = Protecziun da datas & segirezza
-# Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = Titel: Ti, l’IA e l’internet – tge capita propi?
 m24-home-headline-you-ai-v2 = Ti, l’IA e l’internet – tge capita propi?
 m24-home-introducing-anonym = Nus ta preschentain { -brand-name-anonym }: nus auzain il nivel da la reclama digitala che resguarda la protecziun da datas.
 m24-home-keeping-genai-technologies = Da garantir la segirezza da la tecnologia GenAI è ina responsabladad communabla.

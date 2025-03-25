@@ -75,8 +75,6 @@ m24-home-tag-video = Widejo
 m24-home-topic-news = Nowinki
 m24-home-topic-ai = Kumštna inteligenca
 m24-home-topic-ps = Priwatnosć a wěstota
-# Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = Hłowne nadpismo: Wy, KI a internet – što so woprawdźe stawa?
 m24-home-headline-you-ai-v2 = Wy, KI a internet – što so woprawdźe stawa?
 
 ## Showcase

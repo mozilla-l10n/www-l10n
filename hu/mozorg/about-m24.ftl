@@ -24,11 +24,7 @@ m24-about-a-group-of = Egy csoport gondolkodó ül egy körben a földön, ötle
 m24-about-advocate = Érdekképviselet
 m24-about-we-advocate-for = A jobb termékeket támogatjuk, számon kérve a kormányokat és a technológiai vállalatokat azért, amit létrehoznak.
 m24-about-research = Kutatás
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = Monitor
 m24-about-we-uncover-insights = Meglátásokat tárunk fel, és olyan termékfejlesztésekért és szabályozásokért kampányolunk, melyek az Ön érdekeit képviselik.
-# Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = Figyelemmel kísérjük a fejlesztéseket, kutatásokat végzünk és olyan termékfejlesztésekért és szabályozásokért kampányolunk, melyek az Ön érdekeit képviselik.
 m24-about-build = Fejlesztés
 m24-about-we-build-products = Olyan termékeket készítünk, amelyekkel az Öné az irányítás – mint a { -brand-name-firefox }, a { -brand-name-fakespot } és így tovább.
 m24-about-fund = Finanszírozás
@@ -69,8 +65,6 @@ m24-about-see-open-positions = Nyitott pozíciók megtekintése
 ## Community
 
 m24-about-community-love-v2 = A közösség szeretete, a hajtóerőnk
-# Obsolete string (expires: 2025-02-03)
-m24-about-community-love = A közösség szeretete –<br> a hajtóerőnk
 m24-about-mozilla-is-a = A { -brand-name-mozilla } egy elkötelezett önkéntesekből, társakból és közreműködőkből álló globális közösség, akik 1998 óta velünk építik, védik és alakítják az internetet.
 m24-about-from-writing-code = A kódírástól kezdve, a hibák felfedezésén át, az adatvédelem támogatásáig és az internet mindenki számára nyíltan tartásáig – a közösségünk tagjai képezik minden tevékenységünk gerincét. Szenvedélyük és elhivatottságuk inspirál minket nap mint nap.
 # Used as an accessible text alternative for an image

@@ -113,8 +113,6 @@
 -brand-name-mozilla-common-voice = آوای مشترک Mozilla
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
-# Obsolete string (expires: 2025-01-05)
--brand-name-mozilla-ai = هوش مصنوعی Mozilla
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)

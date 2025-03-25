@@ -96,8 +96,6 @@ m24-home-tag-video = Video
 m24-home-topic-news = Novinky
 m24-home-topic-ai = Umelá inteligencia
 m24-home-topic-ps = Súkromie a bezpečnosť
-# Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = Titulok: Vy, AI a internet – čo sa skutočne deje?
 m24-home-headline-you-ai-v2 = Vy, AI a internet – čo sa skutočne deje?
 m24-home-introducing-anonym = Predstavujeme { -brand-name-anonym }: zvyšujeme latku digitálnej reklamy zachovávajúcej súkromie.
 m24-home-keeping-genai-technologies = Zabezpečenie technológií GenAI je spoločnou zodpovednosťou.

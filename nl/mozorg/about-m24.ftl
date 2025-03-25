@@ -24,11 +24,7 @@ m24-about-a-group-of = Een groep denkers die in een cirkel op de vloer zit en id
 m24-about-advocate = Belangenbehartiging
 m24-about-we-advocate-for = We pleiten voor betere producten, waarbij we overheden en technologiebedrijven verantwoordelijk houden voor wat ze maken.
 m24-about-research = Onderzoek
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = Monitoring
 m24-about-we-uncover-insights = We onthullen inzichten, voeren campagne om producten te verbeteren en beleid te stimuleren dat uw belangen behartigt.
-# Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = We volgen ontwikkelingen, doen onderzoek en voeren campagne om producten te verbeteren en beleid te voeren dat uw belangen behartigt.
 m24-about-build = Bouwen
 m24-about-we-build-products = We bouwen producten die u de controle geven – zoals { -brand-name-firefox }, { -brand-name-fakespot } en meer.
 m24-about-fund = Financiering
@@ -69,8 +65,6 @@ m24-about-see-open-positions = Openstaande functies bekijken
 ## Community
 
 m24-about-community-love-v2 = Gemeenschapsliefde, onze drijvende kracht
-# Obsolete string (expires: 2025-02-03)
-m24-about-community-love = Gemeenschapsliefde –<br> onze drijvende kracht
 m24-about-mozilla-is-a = { -brand-name-mozilla } is een wereldwijde gemeenschap van gepassioneerde vrijwilligers, fellows en medewerkers die sinds 1998 samen met ons het internet bouwen, beschermen en vormgeven.
 m24-about-from-writing-code = Van het schrijven van code en het spotten van bugs tot het pleiten voor privacy en het internet voor iedereen open houden – onze gemeenschapsleden vormen de ruggengraat van alles wat we doen. Hun passie en toewijding inspireren ons elke dag.
 # Used as an accessible text alternative for an image

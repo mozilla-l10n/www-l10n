@@ -76,8 +76,6 @@ m24-home-tag-video = ਵੀਡੀਓ
 m24-home-topic-news = ਖ਼ਬਰਾਂ
 m24-home-topic-ai = ਮਸ਼ੀਨੀ ਅਕਲ
 m24-home-topic-ps = ਪਰਦੇਦਾਰੀ ਅਤੇ ਸੁਰੱਖਿਆ
-# Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = ਸੁਰਖੀ: ਤੁਹਾਡੀ, AI ਅਤੇ ਇੰਟਰਨੈੱਟ — ਅਸਲ ਵਿੱਚ ਕੀ ਵਾਪਰ ਰਿਹਾ ਹੈ?
 m24-home-headline-you-ai-v2 = ਤੁਹਾਡੀ, AI ਅਤੇ ਇੰਟਰਨੈੱਟ — ਅਸਲ ਵਿੱਚ ਕੀ ਵਾਪਰ ਰਿਹਾ ਹੈ?
 
 ## Showcase

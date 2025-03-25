@@ -32,8 +32,6 @@ home-join-us-in-shaping = Připojte se k nám při vytváření důvěryhodné A
 home-work-on-ai = Práce s AI není pro { -brand-name-mozilla(case: "acc") } nová věc — roky financujeme, budujeme a obhajujeme AI, která je otevřená, spravedlivá a vyvíjí se zodpovědně. Zaměřujeme se na vytváření AI, která slouží lidem, upřednostňuje transparentnost a podporuje veřejné blaho, nikoliv zájmy korporací.
 home-read-more = Přečtěte si více
 home-so-what-is-mozilla = Co je tedy { -brand-name-mozilla }?
-# Obsolete string (expires: 2025-01-05)
-home-at-its-core = Ve své podstatě je { -brand-name-mozilla } aktivistická organizace vedená nadací { -brand-name-mozilla-foundation }, která se snaží měnit svět prostřednictvím různých podniků, jako jsou { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> a <a { $mozai }>{ -brand-name-mozilla-ai }</a>. V čem se lišíme? Protože se řídíme posláním, znamená to, že máme svobodu činit všechna svá rozhodnutí na základě toho, co je nejlepší pro internet a pro všechny online, nikoli na základě požadavků akcionářů - ty vlastně nemáme.
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/

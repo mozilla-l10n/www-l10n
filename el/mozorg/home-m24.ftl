@@ -96,8 +96,6 @@ m24-home-tag-video = Βίντεο
 m24-home-topic-news = Ειδήσεις
 m24-home-topic-ai = Τεχνητή νοημοσύνη
 m24-home-topic-ps = Απόρρητο και ασφάλεια
-# Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = Επικεφαλίδα: Εσείς, η τεχνητή νοημοσύνη και το διαδίκτυο· τι πραγματικά συμβαίνει;
 m24-home-headline-you-ai-v2 = Εσείς, η τεχνητή νοημοσύνη και το διαδίκτυο· τι πραγματικά συμβαίνει;
 m24-home-introducing-anonym = Παρουσίαση του { -brand-name-anonym }: Ανεβάζοντας τον πήχη για τις ψηφιακές διαφημίσεις που διατηρούν το απόρρητό σας.
 m24-home-keeping-genai-technologies = Η συνεχής προστασία των τεχνολογιών GenAI αποτελεί κοινή ευθύνη.

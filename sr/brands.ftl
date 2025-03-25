@@ -121,8 +121,6 @@
 -brand-name-mozilla-account = Mozilla налог
 -brand-name-mozilla-accounts = Mozilla налози
 -brand-name-mozilla-social = Mozilla.social
-# Obsolete string (expires: 2025-01-05)
--brand-name-mozilla-ai = Mozilla AI
 -brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-thunderbird = Thunderbird
 

@@ -17,8 +17,6 @@ m24-about-reclaim-the-internet = Интернетро бо мо барқарор
 m24-about-read-our-manifesto = Санадҳои асосии моро мутолиа намоед
 m24-about-advocate = Муҳофизат
 m24-about-research = Тадқиқот
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = Мониторинг
 m24-about-build = Офариниш
 m24-about-fund = Сармоягузорӣ
 

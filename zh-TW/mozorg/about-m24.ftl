@@ -24,11 +24,7 @@ m24-about-a-group-of = 一群思想家，在地板上圍成一圈分享點子。
 m24-about-advocate = 倡議
 m24-about-we-advocate-for = 我們倡導打造更好的產品，要求政府與科技企業為自己創造的東西負責。
 m24-about-research = 研究
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = Monitor
 m24-about-we-uncover-insights = 我們尋找與您興趣相符的意見、活動來改善產品並推行符合您的利益的政策。
-# Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = 我們監控事態發展、進行研究並透過活動宣傳，來改善產品並推行符合您利益的政策。
 m24-about-build = 建構
 m24-about-we-build-products = 我們打造讓您能自行控制的產品 — 例如 { -brand-name-firefox }、{ -brand-name-fakespot } 等等。
 m24-about-fund = 資助
@@ -69,8 +65,6 @@ m24-about-see-open-positions = 檢視目前開放職缺
 ## Community
 
 m24-about-community-love-v2 = 社群的愛，是我們的原動力
-# Obsolete string (expires: 2025-02-03)
-m24-about-community-love = 社群成員的愛 —<br>我們的原動力
 m24-about-mozilla-is-a = { -brand-name-mozilla } 是一個由熱情志工、研究員與貢獻者所組成的全球社群，自 1998 年起就與我們一起打造、保護並塑造網際網路。
 m24-about-from-writing-code = 不論是寫 Code、找 Bug，還是倡議隱私保護、保持網路開放給每個人使用 — 社群成員是我們做的每一件事的中堅力量。他們的熱情與專注每天都在激勵著我們。
 # Used as an accessible text alternative for an image

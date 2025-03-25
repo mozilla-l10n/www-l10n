@@ -24,11 +24,7 @@ m24-about-a-group-of = 생각하는 사람들이 바닥에 원을 그리며 앉�
 m24-about-advocate = 지지
 m24-about-we-advocate-for = 우리는 더 나은 제품을 지지하고, 정부와 기술 기업이 그들이 만든 것에 대해 책임을 묻도록 합니다.
 m24-about-research = 연구
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = 모니터
 m24-about-we-uncover-insights = 통찰력을 얻고, 제품 개선 캠페인을하며, 사용자의 관심사를 대표하는 정책을 추진합니다.
-# Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = 개발 상황을 모니터링하고, 제품을 개선하기 위한 연구와 캠페인을 수행하며, 사용자의 이익을 나타내는 정책을 추진합니다.
 m24-about-build = 제작
 m24-about-we-build-products = { -brand-name-firefox }나 { -brand-name-fakespot } 등과 같이 사용자가 제어할 수 있는 제품을 만들고 있습니다.
 m24-about-fund = 자금
@@ -69,8 +65,6 @@ m24-about-see-open-positions = 진행 중인 채용 보기
 ## Community
 
 m24-about-community-love-v2 = 지역 사회 사랑, 우리의 원동력
-# Obsolete string (expires: 2025-02-03)
-m24-about-community-love = 커뮤니티 사랑 —<br> 우리의 원동력
 m24-about-mozilla-is-a = { -brand-name-mozilla }는 1998년 이후로 인터넷을 함께 만들고 보호하고 만들어온 열정적인 자원봉사자와 동료, 공헌자로 이루어진 글로벌 커뮤니티입니다.
 m24-about-from-writing-code = 코드를 작성하고 버그를 발견하는 것부터 개인 정보 보호를 옹호하고 모든 사람들에게 열린 인터넷 유지에 이르기까지 — 커뮤니티 회원은 우리가 하는 모든 일의 중추입니다. 그들의 열정과 헌신은 매일 우리에게 영감을 줍니다.
 # Used as an accessible text alternative for an image

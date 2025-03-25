@@ -96,8 +96,6 @@ m24-home-tag-video = 동영상
 m24-home-topic-news = 뉴스
 m24-home-topic-ai = 인공 지능
 m24-home-topic-ps = 개인정보 보호 및 보안
-# Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = 제목: 당신, AI 그리고 인터넷 — 무슨 일이 일어나고 있는 건가요?
 m24-home-headline-you-ai-v2 = 당신, AI 그리고 인터넷 — 무슨 일이 일어나고 있는 건가요?
 m24-home-introducing-anonym = { -brand-name-anonym } 소개: 개인 정보를 보호하는 디지털 광고의 기준을 높입니다.
 m24-home-keeping-genai-technologies = GenAI 기술을 안전하게 유지하는 것은 공통의 책임입니다.

@@ -32,8 +32,6 @@ home-join-us-in-shaping = 与我们一起塑造可信 AI
 home-work-on-ai = { -brand-name-mozilla } 在 AI 方面的工作并非新鲜事——多年以来我们一直在资助、构建和倡导开放、公平、负责任的 AI。我们的重点是创造为人民服务的人工智能，优先考虑透明度和支持公共利益而非公司规划。
 home-read-more = 详细了解
 home-so-what-is-mozilla = { -brand-name-mozilla } 是什么？
-# Obsolete string (expires: 2025-01-05)
-home-at-its-core = 就其核心来看，{ -brand-name-mozilla } 是一个由 { -brand-name-mozilla-foundation }领导的活跃分子组织，它通过各种机构改变世界，包括 { -brand-name-mozilla-corporation }、MZLA、<a { $ventures }>{ -brand-name-mozilla-ventures }</a>和 <a { $mozai }> { -brand-name-mozilla-ai }</a>。我们因何不同？因为我们由使命驱动，这意味着我们能够以互联网及生活在其上的每个人的利益为重，并据此作出所有决定，而无需按股东的要求行事——实际上我们没有股东。
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/

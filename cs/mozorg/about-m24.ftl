@@ -24,11 +24,7 @@ m24-about-a-group-of = Skupina myslitelů sedících v kruhu na podlaze a sdíle
 m24-about-advocate = Obhajoba
 m24-about-we-advocate-for = Zasazujeme se o lepší produkty a požadujeme, aby vlády a technologické společnosti nesly odpovědnost za to, co vytvářejí.
 m24-about-research = Výzkum
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = Monitor
 m24-about-we-uncover-insights = Zjišťujeme poznatky, vedeme kampaně na zlepšení produktů a prosazujeme zásady, které zastupují vaše zájmy.
-# Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = Sledujeme vývoj, provádíme výzkum a kampaně s cílem zlepšit produkty a prosazovat politiky, které zastupují vaše zájmy.
 m24-about-build = Tvorba
 m24-about-we-build-products = Vytváříme produkty, které vám dávají kontrolu do vašich rukou — například { -brand-name-firefox }, { -brand-name-fakespot } a další.
 m24-about-fund = Financování
@@ -69,8 +65,6 @@ m24-about-see-open-positions = Podívejte se na otevřené pozice
 ## Community
 
 m24-about-community-love-v2 = Láska ke komunitě, naše hnací síla
-# Obsolete string (expires: 2025-02-03)
-m24-about-community-love = Láska ke komunitě —<br> naše hnací síla
 m24-about-mozilla-is-a = { -brand-name-mozilla } je celosvětová komunita zapálených dobrovolníků, kolegů a přispěvatelů, kteří s námi od roku 1998 budují, chrání a utvářejí internet.
 m24-about-from-writing-code = Od psaní kódu a odhalování chyb až po prosazování soukromí a udržování internetu otevřeného pro každého — členové naší komunity jsou páteří všeho, co děláme. Jejich vášeň a nasazení nás inspirují každý den.
 # Used as an accessible text alternative for an image

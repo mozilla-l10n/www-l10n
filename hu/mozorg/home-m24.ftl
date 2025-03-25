@@ -96,8 +96,6 @@ m24-home-tag-video = Videó
 m24-home-topic-news = Hírek
 m24-home-topic-ai = Mesterséges intelligencia
 m24-home-topic-ps = Adatvédelem és biztonság
-# Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = Főcím: Ön, az MI és az internet – mi is történik valójában?
 m24-home-headline-you-ai-v2 = Ön, az MI és az internet – mi is történik valójában?
 m24-home-introducing-anonym = Bemutatkozik az { -brand-name-anonym }: Magasabbra emeli a lécet az adatvédelmet megőrző digitális hirdetéseknél.
 m24-home-keeping-genai-technologies = A generatív MI technológiák biztonságának megőrzése közös felelősség.

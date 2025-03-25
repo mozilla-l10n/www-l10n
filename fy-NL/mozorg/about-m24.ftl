@@ -24,11 +24,7 @@ m24-about-a-group-of = In groep tinkers dy’t yn in sirkel op de flier sit en i
 m24-about-advocate = Belangebehertiging
 m24-about-we-advocate-for = Wy pleitsje foar bettere produkten, wêrby wy oerheden en technologybedriuwen ferantwurdlik hâlde foar wat se meitsje.
 m24-about-research = Undersyk
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = Monitoring
 m24-about-we-uncover-insights = Wy ûntdekke ynsjoch, fiere kampanje om produkten te ferbetterjen en belied te stimulearjen dat jo belangen fertsjinwurdiget.
-# Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = Wy folgje ûntwikkelingen, dogge ûndersyk en fiere kampanje om produkten te ferbetterjen en belied te fieren dy’t jo belangen fertsjinwurdigje.
 m24-about-build = Bouwe
 m24-about-we-build-products = Wy bouwe produkten dy't jo yn kontrôle bringe – lykas { -brand-name-firefox }, { -brand-name-fakespot } en mear.
 m24-about-fund = Finansiering
@@ -69,8 +65,6 @@ m24-about-see-open-positions = Iepensteande funksjes besjen
 ## Community
 
 m24-about-community-love-v2 = Mienskipsleafde, ús driuwende krêft
-# Obsolete string (expires: 2025-02-03)
-m24-about-community-love = Mienskipsleafde –<br> ús driuwende krêft
 m24-about-mozilla-is-a = { -brand-name-mozilla } is in wrâldwide mienskip fan entûsjaste frijwilligers, fellows en meiwurkers dy't sûnt 1998 it ynternet mei ús bouwe, beskermje en foarmje.
 m24-about-from-writing-code = Fan it skriuwen fan koade en it opspoaren fan bugs oant it pleiten foar privacy en it iepenjen fan it ynternet foar elkenien – ús mienskipsleden binne de rêchbonke fan alles wat wy dogge. Har passy en tawijing ynspirearje ús elke dei.
 # Used as an accessible text alternative for an image

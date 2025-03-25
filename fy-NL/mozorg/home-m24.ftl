@@ -96,8 +96,6 @@ m24-home-tag-video = Fideo
 m24-home-topic-news = Nijs
 m24-home-topic-ai = Keunstmjittige yntelliginsje
 m24-home-topic-ps = Privacy en befeiliging
-# Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = Kop: jo, AI en it ynternet – wat bart der echt?
 m24-home-headline-you-ai-v2 = Jo, AI en it ynternet – wat bart der echt?
 m24-home-introducing-anonym = Nij: { -brand-name-anonym }: de latte heger lizze foar privacybeskermende digitale reklame.
 m24-home-keeping-genai-technologies = It feilich hâlden fan GenAI-technologyen is in dielde ferantwurdlikens.

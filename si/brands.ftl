@@ -122,8 +122,6 @@
 -brand-name-mozilla-social = Mozilla.social
 -brand-name-mozilla-builders = Mozilla Builders
 -brand-name-builders = Builders
-# Obsolete string (expires: 2025-01-05)
--brand-name-mozilla-ai = මොසිල්ලා AI
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-rise25 = Rise25
 -brand-name-thunderbird = තන්ඩර්බර්ඩ්

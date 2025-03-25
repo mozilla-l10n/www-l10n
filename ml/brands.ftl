@@ -117,8 +117,6 @@
 -brand-name-mozilla-account = മോസില്ല അക്കൗണ്ട്
 -brand-name-mozilla-accounts = മോസില്ല അക്കൗണ്ടുകൾ
 -brand-name-mozilla-social = Mozilla.social
-# Obsolete string (expires: 2025-01-05)
--brand-name-mozilla-ai = മോസില്ല AI
 -brand-name-rise25 = ഉയർച്ച ൨൫
 -brand-name-thunderbird = Thunderbird
 

@@ -96,8 +96,6 @@ m24-home-tag-video = 视频
 m24-home-topic-news = 新闻
 m24-home-topic-ai = 人工智能
 m24-home-topic-ps = 隐私与安全
-# Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = 聚焦眼前事：关于您、AI 与互联网
 m24-home-headline-you-ai-v2 = 时下实情：关于您、AI 与互联网
 m24-home-introducing-anonym = { -brand-name-anonym } 入局，将隐私保护下数字广告的标准带到新层次。
 m24-home-keeping-genai-technologies = 确保生成式 AI 技术安全，是我们共同的责任。

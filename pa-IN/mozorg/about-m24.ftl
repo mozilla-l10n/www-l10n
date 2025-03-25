@@ -16,8 +16,6 @@ m24-about-reclaim-the-internet = ਸਾਡੇ ਨਾਲ ਇੰਟਰਨੈੱਟ
 
 m24-about-read-our-manifesto = ਸਾਡਾ ਮਨੋਰਥ ਪੱਤਰ ਪੜ੍ਹੋ
 m24-about-research = ਖੋਜ
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = ਮਾਨੀਟਰ
 m24-about-build = ਬਿਲਡ
 m24-about-fund = ਫੰਡ
 
@@ -46,5 +44,3 @@ m24-about-see-open-positions = ਉਪਲੱਬਧ ਨੌਕਰੀਆਂ ਵੇ�
 ## Community
 
 m24-about-community-love-v2 = ਕਮਿਊਨਟੀ ਦਾ ਪਿਆਰ, ਸਾਡਾ ਹੌਂਸਲਾ ਹੈ
-# Obsolete string (expires: 2025-02-03)
-m24-about-community-love = ਕਮਿਊਨਟੀ ਦਾ ਪਿਆਰ —<br> ਸਾਡਾ ਹੌਂਸਲਾ ਹੈ

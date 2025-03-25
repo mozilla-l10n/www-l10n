@@ -96,8 +96,6 @@ m24-home-tag-video = Video
 m24-home-topic-news = Tin tức
 m24-home-topic-ai = Trí tuệ nhân tạo
 m24-home-topic-ps = Riêng tư & bảo mật
-# Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = Tiêu đề: Bạn, AI và Internet – chuyện gì đang thực sự xảy ra?
 m24-home-headline-you-ai-v2 = Bạn, AI và Internet – chuyện gì đang thực sự xảy ra?
 m24-home-introducing-anonym = Giới thiệu { -brand-name-anonym }: Nâng cao tiêu chuẩn cho quảng cáo kỹ thuật số bảo vệ quyền riêng tư.
 m24-home-keeping-genai-technologies = Giữ an toàn cho công nghệ GenAI là trách nhiệm chung.

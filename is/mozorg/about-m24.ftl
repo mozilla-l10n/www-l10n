@@ -24,11 +24,7 @@ m24-about-a-group-of = Hópur hugsuða sem situr í hring á gólfinu og deilir 
 m24-about-advocate = Ráðgjöf
 m24-about-we-advocate-for = Við tölum fyrir betri hugbúnaði og látum stjórnvöld og tæknifyrirtæki bera ábyrgð á sínum verkum.
 m24-about-research = Rannsóknir
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = Vöktun
 m24-about-we-uncover-insights = Við flettum upp ítarlegum greiningum, berjumst við að bæta vörur og knýjum fram stefnur sem standa með hagsmunum þínum.
-# Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = Við vöktum þróun, setjum í gang rannsóknir, berjumst við að bæta vörur og knýjum fram stefnur sem standa með hagsmunum þínum.
 m24-about-build = Smíði
 m24-about-we-build-products = Við byggjum hugbúnað sem veitir þér stjórnina – eins og { -brand-name-firefox }, { -brand-name-fakespot } og fleira.
 m24-about-fund = Fjárfesting
@@ -69,8 +65,6 @@ m24-about-see-open-positions = Skoða lausar stöður
 ## Community
 
 m24-about-community-love-v2 = Samlegð fólksins, drifkraftur okkar
-# Obsolete string (expires: 2025-02-03)
-m24-about-community-love = Samlegð fólksins -<br> drifkraftur okkar
 m24-about-mozilla-is-a = { -brand-name-mozilla } er alþjóðlegt samfélag ástríðufullra sjálfboðaliða, félaga og þátttakenda sem hafa byggt upp, verndað og mótað internetið með okkur síðan 1998.
 m24-about-from-writing-code = Allt frá því að skrifa kóða og koma auga á villur, til þess að tala fyrir friðhelgi einkalífs og halda internetinu opnu fyrir alla - þá eru samfélagsmeðlimir okkar burðarásinn í öllu sem við gerum. Ástríða þeirra og hollusta veita okkur innblástur á hverjum degi.
 # Used as an accessible text alternative for an image

@@ -318,8 +318,6 @@
     }
 -brand-name-mozilla-social = Mozilla.social
 -brand-name-mozilla-builders = Mozilla Builders
-# Obsolete string (expires: 2025-01-05)
--brand-name-mozilla-ai = Mozilla UI
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-rise25 = Rise25

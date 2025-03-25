@@ -32,8 +32,6 @@ home-join-us-in-shaping = Ymunwch â ni i lunio AI dibynadwy
 home-work-on-ai = Nid yw gwaith { -brand-name-mozilla } gydag AI yn beth newydd - rydym wedi treulio blynyddoedd yn ariannu, adeiladu ac eirioli dros AI sy'n agored, yn deg ac wedi'i ddatblygu'n gyfrifol. Rydym yn canolbwyntio ar greu AI sy’n gwasanaethu’r bobl, yn blaenoriaethu tryloywder ac yn cefnogi lles y cyhoedd, nid agendâu corfforaethol.
 home-read-more = Darllen rhagor
 home-so-what-is-mozilla = Felly, beth yw { -brand-name-mozilla }?
-# Obsolete string (expires: 2025-01-05)
-home-at-its-core = Yn ei graidd, mae { -brand-name-mozilla } yn sefydliad gweithredol sy'n cael ei arwain gan y { -brand-name-mozilla-foundation } sy'n creu newid yn y byd trwy amrywiaeth o fentrau gan gynnwys { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> a <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Sut ydyn ni'n wahanol? Oherwydd ein bod ni’n cael ein gyrru gan genhadaeth, mae’n golygu bod gennym ni’r rhyddid i wneud ein holl benderfyniadau yn seiliedig ar yr hyn sydd orau i’r rhyngrwyd ac i bawb ar-lein, nid yn seiliedig ar ofynion cyfranddalwyr — does gennym ni ddim o’r rheini.
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/

@@ -24,11 +24,7 @@ m24-about-a-group-of = En grupp tänkare som sitter i en cirkel på golvet och d
 m24-about-advocate = Förespråkar
 m24-about-we-advocate-for = Vi förespråkar för bättre produkter, som håller regeringar och teknikföretag ansvariga för vad de skapar.
 m24-about-research = Forskning
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = Övervakar
 m24-about-we-uncover-insights = Vi avslöjar insikter, kampanjer för att förbättra produkter och driver policyer som representerar dina intressen.
-# Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = Vi övervakar utvecklingen, bedriver forskning och kampanjer för att förbättra produkter och driver policyer som representerar dina intressen.
 m24-about-build = Skapar
 m24-about-we-build-products = Vi skapar produkter som ger dig kontroll — som { -brand-name-firefox }, { -brand-name-fakespot } och fler.
 m24-about-fund = Finansiering
@@ -69,8 +65,6 @@ m24-about-see-open-positions = Se lediga tjänster
 ## Community
 
 m24-about-community-love-v2 = Gemenskapskärlek, vår ledande drivkraft
-# Obsolete string (expires: 2025-02-03)
-m24-about-community-love = Gemenskapskärlek —<br> vår drivkraft
 m24-about-mozilla-is-a = { -brand-name-mozilla } är en global gemenskap av passionerade volontärer, stipendiater och bidragsgivare som har byggt, skyddat och format internet med oss ​​sedan 1998.
 m24-about-from-writing-code = Från att skriva kod och upptäcka buggar till att förespråka integritet och hålla internet öppet för alla — våra communitymedlemmar är ryggraden i allt vi gör. Deras passion och engagemang inspirerar oss varje dag.
 # Used as an accessible text alternative for an image

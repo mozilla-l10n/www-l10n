@@ -32,8 +32,6 @@ home-join-us-in-shaping = Help mee betrouwbare AI vorm te geven
 home-work-on-ai = Het werk van { -brand-name-mozilla } met AI is niet zomaar iets nieuws – we hebben jaren gespendeerd aan het financieren, bouwen en bepleiten van AI die open en eerlijk is en op een verantwoorde manier wordt ontwikkeld. Onze focus ligt op het creëren van AI die de mensen dient, transparantie vooropstelt en het algemeen belang ondersteunt, niet de zakelijke agenda’s.
 home-read-more = Meer info
 home-so-what-is-mozilla = Dus, wat is { -brand-name-mozilla }?
-# Obsolete string (expires: 2025-01-05)
-home-at-its-core = In de kern is { -brand-name-mozilla } een activistische organisatie geleid door de { -brand-name-mozilla-foundation }, die de wereld verandert via diverse ondernemingen, waaronder { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> en <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Hoe zijn we anders? Omdat we door een missie worden gedreven, betekent dit dat we de vrijheid hebben om al onze beslissingen te nemen op basis van wat het beste is voor het internet en voor iedereen online, niet op basis van de eisen van aandeelhouders – die hebben we zelfs niet.
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/

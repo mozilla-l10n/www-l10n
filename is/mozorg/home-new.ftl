@@ -32,8 +32,6 @@ home-join-us-in-shaping = Vertu með okkur í að móta áreiðanlega gervigrein
 home-work-on-ai = Vinna { -brand-name-mozilla } með gervigreind er ekki bara nýjasta nýtt - við höfum eytt mörgum árum í að fjármagna, byggja upp og tala fyrir gervigreind sem sé opin, sanngjörn og þróuð á ábyrgan hátt. Áhersla okkar er á að búa til gervigreind sem þjónar fólkinu, setur gagnsæi í forgang og þjónar almannaheill, ekki bara markmiðum stórfyrirtækja.
 home-read-more = Lesa meira
 home-so-what-is-mozilla = Hvað er þá { -brand-name-mozilla }?
-# Obsolete string (expires: 2025-01-05)
-home-at-its-core = Í grunnin eru { -brand-name-mozilla } aktívistasamtök undir forystu { -brand-name-mozilla-foundation } sem reyna að breyta heiminum með margvíslegum verkefnum, þar á meðal { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> og <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Hvernig erum við ólík öðrum? Þar sem við erum verkefnisdrifin þýðir það að við höfum frelsi til að taka allar ákvarðanir okkar út frá því sem er best fyrir internetið og fyrir alla á netinu, ekki út frá kröfum hluthafa - við höfum í raun enga slíka.
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/

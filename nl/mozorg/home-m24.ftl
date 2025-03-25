@@ -96,8 +96,6 @@ m24-home-tag-video = Video
 m24-home-topic-news = Nieuws
 m24-home-topic-ai = Kunstmatige intelligentie
 m24-home-topic-ps = Privacy en beveiliging
-# Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = Kop: u, AI en het internet – wat is er echt aan de hand?
 m24-home-headline-you-ai-v2 = U, AI en het internet – wat is er echt aan de hand?
 m24-home-introducing-anonym = Nieuw: { -brand-name-anonym }: de lat hoger leggen voor privacybeschermende digitale reclame.
 m24-home-keeping-genai-technologies = Het veilig houden van GenAI-technologieën is een gedeelde verantwoordelijkheid.

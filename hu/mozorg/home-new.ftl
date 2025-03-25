@@ -32,8 +32,6 @@ home-join-us-in-shaping = Csatlakozzon hozzánk a megbízható MI formálásába
 home-work-on-ai = A { -brand-name-mozilla } mesterséges intelligenciával kapcsolatos munkája nem csak egy új dolog – éveket töltöttünk a nyílt, tisztességes és felelősségteljesen fejlődő MI finanszírozásával, építésével és támogatásával. Arra fókuszálunk, hogy olyan MI-t hozzunk létre, amely az embereket szolgálja, előtérbe helyezi az átláthatóságot, és a közjót támogatja, nem a vállalati célokat.
 home-read-more = Bővebben
 home-so-what-is-mozilla = Tehát, mi is a { -brand-name-mozilla }?
-# Obsolete string (expires: 2025-01-05)
-home-at-its-core = A lényegét tekintve, a { -brand-name-mozilla } egy a { -brand-name-mozilla-foundation } által vezetett aktivista szervezet, amely különféle vállalkozásokkal, többek között a { -brand-name-mozilla-corporation }, az MZLA, a <a { $ventures }> { -brand-name-mozilla-ventures }</a> és a <a { $mozai }> { -brand-name-mozilla-ai }</a> segítségével, hoz változást a világban. Miben különbözünk? Mivel a küldetésünk vezérel minket, ez azt jelenti, hogy szabadon tudjuk meghozni a döntéseinket, az alapján, hogy mi a legjobb az internet és mindenki számára, nem pedig a részvényesek igényei alapján – valójában nálunk nincsenek is ilyenek.
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/

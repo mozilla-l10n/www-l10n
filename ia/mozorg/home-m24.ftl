@@ -96,8 +96,6 @@ m24-home-tag-video = Video
 m24-home-topic-news = Novas
 m24-home-topic-ai = Intelligentia artificial
 m24-home-topic-ps = Confidentialitate e securitate
-# Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = Titulo de testa: Tu, IA e internet, que evenira realmente?
 m24-home-headline-you-ai-v2 = Tu, IA e internet, que evenira realmente?
 m24-home-introducing-anonym = Presentar { -brand-name-anonym }: elevar le barra pro le annuncios digital preservante le confidentialitate.
 m24-home-keeping-genai-technologies = Mantener secur le technologias de IAgen es un responsabilitate commun.

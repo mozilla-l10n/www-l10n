@@ -24,10 +24,6 @@ m24-about-a-group-of = Skupina mislecev, ki sedijo na tleh v krogu in izmenjujej
 m24-about-advocate = Zavzemamo se
 m24-about-we-advocate-for = Zagovarjamo boljše izdelke, države in tehnološke korporacije pa kličemo k odgovornosti za to, kar ustvarijo.
 m24-about-research = Raziskujemo
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = Spremljamo
-# Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = Spremljamo razvoj, izvajamo raziskave in kampanje za izboljšave izdelkov ter spodbujamo politike, ki zastopajo vaše interese.
 m24-about-build = Gradimo
 m24-about-we-build-products = Razvijamo izdelke, ki vam dajejo nadzor – kot so { -brand-name-firefox }, { -brand-name-fakespot } in drugi.
 m24-about-fund = Podpiramo
@@ -63,8 +59,6 @@ m24-about-see-open-positions = Oglejte si odprta delovna mesta
 ## Community
 
 m24-about-community-love-v2 = Privrženost skupnosti, naša gonilna sila
-# Obsolete string (expires: 2025-02-03)
-m24-about-community-love = Privrženost skupnosti –<br> naša gonilna sila
 m24-about-mozilla-is-a = { -brand-name-mozilla } je globalna skupnost zagretih prostovoljcev, kolegov in sodelavcev, ki z nami že od leta 1998 ustvarjajo, ščitijo in oblikujejo internet.
 m24-about-from-writing-code = Od pisanja kode in odkrivanja napak pa do zavzemanja za zasebnost in odprtost interneta – člani naše skupnosti so hrbtenica vsega, kar počnemo. Njihova strast in predanost nas vsak dan navdihujeta.
 # Used as an accessible text alternative for an image

@@ -87,8 +87,6 @@ m24-home-tag-video = Video
 m24-home-topic-news = Uutiset
 m24-home-topic-ai = Tekoäly
 m24-home-topic-ps = Tietosuoja ja turvallisuus
-# Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = Otsikko: Sinä, tekoäly ja Internet – mitä oikein on meneillään?
 m24-home-headline-you-ai-v2 = Sinä, tekoäly ja Internet – mitä oikein on meneillään?
 m24-home-introducing-anonym = Esittelyssä { -brand-name-anonym }: Rimankohotus yksityisyyttä varjelevalle digitaaliselle mainonnalle.
 m24-home-keeping-genai-technologies = GenAI-tekniikoiden turvaaminen on yhteinen vastuu.

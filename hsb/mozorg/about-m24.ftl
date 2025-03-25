@@ -24,10 +24,6 @@ m24-about-a-group-of = Skupina myslerjow, kotřiž w kole na špundowanju sedźa
 m24-about-advocate = Rěčnik
 m24-about-we-advocate-for = Zasadźujemy so za lěpše produkty, činimy knježerstwa a technologiske předewzaća zamołwite za to, štož wutworjeja.
 m24-about-research = Slědźenje
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = Wobkedźbowanje
-# Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = Wobkedźbujemy wuwića, přewjedźemy slědźenja a kampanje, zo bychmy produkty polěpšili a spěchujemy prawidła, kotrež wašim zajimam wotpowěduja.
 m24-about-build = Wuwiwać
 m24-about-we-build-products = Wuwiwamy produkty, kotrež wam kontrolu dadźa – kaž { -brand-name-firefox }, { -brand-name-fakespot } a dalše.
 m24-about-fund = Financowanje
@@ -67,8 +63,6 @@ m24-about-see-open-positions = Hlejće swobodne dźěłowe městna
 ## Community
 
 m24-about-community-love-v2 = Lubosć zhromadźenstwa, naša ćěrjaca móc
-# Obsolete string (expires: 2025-02-03)
-m24-about-community-love = Lubosć zhromadźenstwa – <br> naša ćěrjaca móc
 m24-about-mozilla-is-a = { -brand-name-mozilla } je globalne zhromadźenstwo zahoritych dobrowólnikow, kolegow a sobuskutkowarjow, kotřiž internet z nami wot 1998 wuwiwaja, škitaja a formuja.
 m24-about-from-writing-code = Wot pisanja programoweho koda a namakanja zmylkow do zasadźenja za priwatnosć a dźerženja interneta wotewrjeneho za kóždeho – čłonojo našeho zhromadźenstwa su rjap wšeho, štož činimy. Jich zahoritosć a podaće nas kóždy dźeń inspirujetej.
 # Used as an accessible text alternative for an image

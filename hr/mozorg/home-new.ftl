@@ -25,8 +25,6 @@ home-cta-get-fakespot = Nabavi { -brand-name-fakespot }
 home-join-us-in-shaping = Pridruži nam stvarati pouzdanu umjetnu inteligenciju
 home-read-more = Saznaj više
 home-so-what-is-mozilla = Dakle, što je { -brand-name-mozilla }?
-# Obsolete string (expires: 2025-01-05)
-home-at-its-core = U svojoj srži je { -brand-name-mozilla } organizacija aktivista koju vodi zaklada { -brand-name-mozilla-foundation }, koja mijenja svijet kroz razne poduhvate uključujući { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> i <a { $mozai }>{ -brand-name-mozilla-ai }</a>. Po čemu se razlikujemo? Budući da smo vođeni misijom znači da imamo slobodu donositi odluke na osnovi onoga što je najbolje za internet i za sve njegove korisnike, a ne na osnovi zahtjeva dioničara – mi zapravo nemamo dioničare.
 home-learn-about-mofo = Saznaj više o zakladi { -brand-name-mozilla-foundation }
 home-join-the-fight = Pridruži se borbi za zdrav internet
 home-your-voice-your-code = Tvoj glas. Tvoj kod. Tvoje ideje. Postoje doslovno tisuće načina za doprinošenje organizaciji { -brand-name-mozilla }.
