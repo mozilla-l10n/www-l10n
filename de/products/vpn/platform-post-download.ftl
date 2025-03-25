@@ -37,6 +37,7 @@ vpn-enter-your-email = Gib deine E-Mail-Adresse ein, um dich anzumelden oder zu 
 vpn-turn-on-vpn = 4. Aktiviere VPN
 vpn-pick-a-recommended = Wähle einen empfohlenen Standort für eine schnelle, stabile Verbindung oder wähle deinen gewünschten Standort manuell. Aktiviere dann den AN-Knopf.
 
+
 ## FAQ Strings
 
 vpn-download-faq-need-help = Du brauchst Hilfe?

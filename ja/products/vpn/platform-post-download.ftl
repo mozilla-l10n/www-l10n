@@ -37,6 +37,7 @@ vpn-enter-your-email = メールアドレスを入力してログインするか
 vpn-turn-on-vpn = 4. VPN をオンにします
 vpn-pick-a-recommended = 高速で安定した接続のために推奨される場所を選択するか、お好みの場所を手動で選択してから、トグルをオンにします
 
+
 ## FAQ Strings
 
 vpn-download-faq-need-help = お困りの場合

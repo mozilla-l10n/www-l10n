@@ -37,6 +37,7 @@ vpn-enter-your-email = Masukkan alamat e-mel anda untuk log masuk atau daftar un
 vpn-turn-on-vpn = 4. Bolehkan VPN
 vpn-pick-a-recommended = Pilih lokasi cadangan untuk sambungan yang pantas dan stabil atau pilih lokasi anda secara manual, kemudian tekan togol ON
 
+
 ## FAQ Strings
 
 vpn-download-faq-need-help = Perlukan bantuan untuk bermula?

@@ -37,6 +37,7 @@ vpn-enter-your-email = أدخل عنوان بريدك الإلكتروني أو 
 vpn-turn-on-vpn = 4. سجّل VPN
 vpn-pick-a-recommended = اختر موقعًا موصى به للاتصال السريع والمُستقر أو اختر الموقع الذي تريده يدويًا، ثم شغّل مفتاح التبديل
 
+
 ## FAQ Strings
 
 vpn-download-faq-need-help = هل تحتاج لمساعدة في البدء؟

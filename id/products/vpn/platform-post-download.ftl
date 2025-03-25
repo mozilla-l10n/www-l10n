@@ -37,6 +37,7 @@ vpn-enter-your-email = Masukkan alamat email Anda untuk masuk atau mendaftar dan
 vpn-turn-on-vpn = 4. Aktifkan VPN
 vpn-pick-a-recommended = Pilih lokasi yang direkomendasikan untuk koneksi yang cepat dan stabil atau pilih lokasi yang Anda inginkan secara manual, lalu AKTIFKAN
 
+
 ## FAQ Strings
 
 vpn-download-faq-need-help = Butuh bantuan untuk memulai?

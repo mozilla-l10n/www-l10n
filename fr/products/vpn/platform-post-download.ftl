@@ -37,6 +37,7 @@ vpn-enter-your-email = Saisissez votre adresse e-mail pour vous connecter ou vou
 vpn-turn-on-vpn = 4. Activez le VPN
 vpn-pick-a-recommended = Choisissez un endroit recommandé pour disposer d’une connexion rapide et stable ou sélectionnez votre emplacement manuellement, puis activez le commutateur
 
+
 ## FAQ Strings
 
 vpn-download-faq-need-help = Besoin d’aide pour débuter ?
