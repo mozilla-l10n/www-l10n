@@ -27,16 +27,30 @@ m24-home-mask-your-email = Ukryj swój adres e-mail i numer telefonu, aby otrzym
 
 ## AI gallery
 
+m24-home-llamafile = { -brand-name-llamafile }
+m24-home-alt-builders-v2 = { -brand-name-builders }
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+m24-home-lumigator = { -brand-name-lumigator }
+m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
 
 ## Media Springboard
 
+m24-home-type = Typ
+m24-home-author = Autor
+m24-home-topic = Temat
+m24-home-intro = Wprowadzenie
+m24-home-tag-article = Artykuł
+m24-home-tag-podcast = Podcast
+m24-home-tag-video = Wideo
+m24-home-topic-news = Aktualności
 m24-home-topic-ai = Sztuczna inteligencja
 m24-home-topic-ps = Prywatność i bezpieczeństwo
 
 ## Showcase
 
 m24-home-rise25-awards = Nagrody { -brand-name-rise25 }
+m24-home-read-the-report = Przeczytaj raport
 
 ## Issues
 
