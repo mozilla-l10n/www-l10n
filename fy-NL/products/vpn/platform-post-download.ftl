@@ -35,7 +35,11 @@ vpn-launch-the-app = 2. Start de app
 vpn-login-or-signup = 3. Meld jo oan of registrearje
 vpn-enter-your-email = Fier jo e-mailadres yn om oan te melden of te registrearjen en te begjinnen
 vpn-turn-on-vpn = 4. Skeakelje VPN yn
+vpn-install-firefox-extension = 5. Ynstallearje { -brand-name-firefox }-útwreiding
 vpn-pick-a-recommended = Kies in oanrekommandearre lokaasje foar in flugge, stabile ferbining of kies hânmjittich de winske lokaasje en skeakelje dernei de skeakeler yn
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = <a href="{ $extension }">Download en ynstallearje de útwreiding</a> om útslutingen per website yn te stellen en ferskate lokaasjes foar ferskate websites te kiezen.
 
 ## FAQ Strings
 
