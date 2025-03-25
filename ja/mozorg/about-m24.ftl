@@ -24,11 +24,7 @@ m24-about-a-group-of = 床に輪になって座り、アイデアを共有する
 m24-about-advocate = 主張する
 m24-about-we-advocate-for = Mozilla は、より良い製品を作ることを主張し、政府やハイテク企業に対して、自らが生み出すものへの責任を追及します。
 m24-about-research = 研究
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = Monitor
 m24-about-we-uncover-insights = Mozilla は洞察を生み出し、製品を改善するためのキャンペーンを行い、ユーザーの利益に寄り添うポリシーを推進します。
-# Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = 開発状況を監視し、調査とキャンペーンを実施して製品を改善し、ユーザーの利益に沿う政策を推進します。
 m24-about-build = 構築する
 m24-about-we-build-products = Mozilla は、{ -brand-name-firefox } や { -brand-name-fakespot } など、ユーザーが管理する権利を守る製品を構築しています。
 m24-about-fund = 投資する
@@ -70,8 +66,6 @@ m24-about-see-open-positions = 採用情報を見る
 ## Community
 
 m24-about-community-love-v2 = コミュニティ愛が Mozilla の原動力
-# Obsolete string (expires: 2025-02-03)
-m24-about-community-love = コミュニティ愛 —<br> Mozilla の原動力
 m24-about-mozilla-is-a = { -brand-name-mozilla } は、1998 年以来、共にインターネットを構築、保護、形成してきた情熱的なボランティアやフェロー、貢献者から成るグローバルコミュニティです。
 m24-about-from-writing-code = コードを書いたりバグを発見したりすることから、プライバシーの保護を訴え、インターネットをあらゆる人にとって開かれたものにすることまで、コミュニティメンバーは Mozilla の活動のすべてを支えています。彼らの情熱と献身は、毎日 Mozilla の力になっています。
 # Used as an accessible text alternative for an image

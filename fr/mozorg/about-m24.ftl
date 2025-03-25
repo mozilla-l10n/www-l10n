@@ -24,11 +24,7 @@ m24-about-a-group-of = Un groupe de réflexion dont les membres partagent leurs 
 m24-about-advocate = Militer
 m24-about-we-advocate-for = Nous militons pour le développement de meilleurs produits en rappelant aux gouvernements et aux entreprises de la tech qu’ils sont responsables de ce qu’ils créent.
 m24-about-research = Recherche
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = Monitor
 m24-about-we-uncover-insights = Nous faisons des découvertes, lançons des campagnes pour améliorer les produits et encourageons l’adoption de politiques d’intérêt général.
-# Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = Nous suivons les développements, menons des recherches et lançons des campagnes pour améliorer les produits et encourager l’adoption de politiques d’intérêt général.
 m24-about-build = Concevoir
 m24-about-we-build-products = Nous concevons des produits sur lesquels vous avez le contrôle, comme { -brand-name-firefox }, { -brand-name-fakespot } et bien d’autres.
 m24-about-fund = Financer
@@ -70,8 +66,6 @@ m24-about-see-open-positions = Voir les postes à pourvoir
 ## Community
 
 m24-about-community-love-v2 = L’amour de notre communauté : la force qui nous pousse en avant
-# Obsolete string (expires: 2025-02-03)
-m24-about-community-love = L’amour de notre communauté :<br>la force qui nous pousse en avant
 m24-about-mozilla-is-a = { -brand-name-mozilla } est une communauté internationale de bénévoles, de partenaires et de contributeurs et contributrices passionnés qui construisent, protègent et façonnent Internet à nos côtés depuis 1998.
 m24-about-from-writing-code = De la programmation au repérage de bugs, en passant par la défense de la vie privée et de l’ouverture d’Internet à toutes et tous, les membres de notre communauté sont les piliers de toutes nos actions. Leur passion et leur dévouement nous inspirent au quotidien.
 # Used as an accessible text alternative for an image

@@ -24,11 +24,7 @@ m24-about-a-group-of = مجموعة من المُفكرين يجلسون في د
 m24-about-advocate = الدفاع
 m24-about-we-advocate-for = نحن ندافع من أجل توفير منتجات أفضل ومحاسبة الحكومات وشركات التقنية على ما تقدمه.
 m24-about-research = الأبحاث
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = Monitor
 m24-about-we-uncover-insights = نكشف عن رؤى جديدة ونسعى لتحسين المنتجات ونعمل على وضع سياسات تمثل اهتماماتكم.
-# Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = نراقب التطورات ونجري الأبحاث ونقود الحملات لتحسين المنتجات وصياغة سياسات تعني بصالحك.
 m24-about-build = البناء
 m24-about-we-build-products = نبني منتجات تمنحك التحكم – مثل { -brand-name-firefox } و { -brand-name-fakespot } وغيرها.
 m24-about-fund = التمويل
@@ -70,8 +66,6 @@ m24-about-see-open-positions = اطلع على المناصب المفتوحة
 ## Community
 
 m24-about-community-love-v2 = حب مجتمعنا هو قوتنا التي تدفعنا للأمام
-# Obsolete string (expires: 2025-02-03)
-m24-about-community-love = حب مجتمعنا هو —<br> قوتنا التي تدفعنا للأمام
 m24-about-mozilla-is-a = يتميز مجتمع { -brand-name-mozilla } بأنه مجتمع عالمي يضم أعدادًا من المتطوعين والزملاء والمساهمين الذين يعملون معنا منذ عام 1998 لبناء الإنترنت وحمايته وتشكيله.
 m24-about-from-writing-code = من كتابة الأكواد ورصد الأخطاء إلى الدفاع عن الخصوصية وإبقاء الإنترنت متاحًا للجميع – أعضاء مجتمعنا هم العمود الفقري لكل ما نقوم به. شغفهم وتفانيهم مصدر إلهام لنا كل يوم.
 # Used as an accessible text alternative for an image

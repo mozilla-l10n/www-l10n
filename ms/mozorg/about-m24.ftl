@@ -24,11 +24,7 @@ m24-about-a-group-of = Sekumpulan pemikir duduk dalam bulatan di atas lantai sam
 m24-about-advocate = Pendukung
 m24-about-we-advocate-for = Kami mendukung produk yang lebih baik, agar kerajaan dan syarikat teknologi dipertanggungjawabkan untuk ciptaan mereka.
 m24-about-research = Kajian
-# Obsolete string (expires: 2025-02-03)
-m24-about-monitor = Monitor
 m24-about-we-uncover-insights = Kami mengupas pandangan, kempen yang berperanan meningkatkan mutu produk dan memacu dasar yang mewakili keperluan anda.
-# Obsolete string (expires: 2025-02-03)
-m24-about-we-monitor-developments = Kami pantau pembangunan, menjalankan kajian dan kempen bagi meningkatkan mutu produk serta memacu dasar-dasar yang mencerminkan minat anda.
 m24-about-build = Pembangunan
 m24-about-we-build-products = Kami bangunkan produk yang menjadikan internet dalam kawalan anda — seperti { -brand-name-firefox }, { -brand-name-fakespot } dan banyak lagi.
 m24-about-fund = Dana
@@ -70,8 +66,6 @@ m24-about-see-open-positions = Lihat jawatan yang ada
 ## Community
 
 m24-about-community-love-v2 = Kasih komuniti, penjana kekuatan kami
-# Obsolete string (expires: 2025-02-03)
-m24-about-community-love = Kasih komuniti —<br> penjana kekuatan kami
 m24-about-mozilla-is-a = { -brand-name-mozilla } adalah suatu komuniti sukarelawan, rakan taulan dan penyumbang sejagat yang bersama-sama membina, melindungi serta membentuk internet yang kita kenali hari ini sejak 1998.
 m24-about-from-writing-code = Ahli komuniti adalah tulang belakang kepada usaha kami — menulis kod, mengenal pasti pepijat sehingga kepada memperjuangkan hak privasi dan keterbukaan internet untuk semua. Semangat dan dedikasi mereka menjadi inspirasi kami setiap hari.
 # Used as an accessible text alternative for an image
