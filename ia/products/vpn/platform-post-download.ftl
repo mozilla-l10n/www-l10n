@@ -37,6 +37,9 @@ vpn-enter-your-email = Insere tu adresse email pro authenticar te o inscribe te 
 vpn-turn-on-vpn = 4. Activa le VPN
 vpn-install-firefox-extension = Installar extension de { -brand-name-firefox }
 vpn-pick-a-recommended = Selige un position recommendate pro un veloce, stabile connexion o manualmente elige tu position desirate, pois ACTIVA le commutator
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = <a href="{ $extension }">Discarga e installa le extension</a> pro set per-site exclusiones e selige differente postos for differente sitos web.
 
 ## FAQ Strings
 
