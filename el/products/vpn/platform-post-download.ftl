@@ -37,6 +37,9 @@ vpn-enter-your-email = Εισαγάγετε τη διεύθυνση email σας
 vpn-turn-on-vpn = 4. Ενεργοποιήστε το VPN
 vpn-install-firefox-extension = 5. Εγκαταστήστε την επέκταση στο { -brand-name-firefox }
 vpn-pick-a-recommended = Επιλέξτε μια προτεινόμενη τοποθεσία για γρήγορη, σταθερή σύνδεση ή επιλέξτε χειροκίνητα την επιθυμητή σας τοποθεσία και ενεργοποιήστε τον διακόπτη
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = <a href="{ $extension }">Κάντε λήψη και εγκατάσταση της επέκτασης</a> για να ορίσετε εξαιρέσεις ανά ιστότοπο και να επιλέξετε διαφορετικές τοποθεσίες για διαφορετικούς ιστοτόπους.
 
 ## FAQ Strings
 
