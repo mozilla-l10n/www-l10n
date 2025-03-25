@@ -23,7 +23,7 @@ vpn-shared-features-access-countries = Adgang til servere i mere end { $countrie
 vpn-shared-features-protection = Beskyttelse af op til { $devices } enheder
 # Variables:
 #   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = Hurtige servere i { $lande }+ lande
+vpn-shared-features-strong-servers = Hurtige servere i { $countries }+ lande
 # Variables:
 #   $devices (number) - number of available devices
 vpn-shared-features-connect = Tilslut op til { $devices } enheder
@@ -80,7 +80,7 @@ vpn-subnav-features = Funktioner
 
 # Section title for press quotations about Mozilla VPN
 vpn-press-as-seen-in = Kendt fra
-vpn-press-unique-features-like-its-multi-account = "... unikke funktioner som Multi-Account Containers kan gøre funktionen let tilgængelig for brugere med mere seriøse bekymringer om beskyttelse af deres privatliv."
+vpn-press-unique-features-like-its-multi-account = "… unikke funktioner som Multi-Account Containers kan gøre funktionen let tilgængelig for brugere med mere seriøse bekymringer om beskyttelse af deres privatliv."
 vpn-press-mozilla-vpns-feature-list-has-grown = Listen med funktioner i { -brand-name-mozilla-vpn } er vokset betydeligt siden lanceringen, og tjenesten slår nu mange specialiserede VPN'er på nogle områder.
 
 ## Unsupported language notification
