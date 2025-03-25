@@ -97,8 +97,6 @@ m24-home-tag-video = 動画
 m24-home-topic-news = ニュース
 m24-home-topic-ai = 人工知能
 m24-home-topic-ps = プライバシーとセキュリティ
-# Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = 見出し: あなたと AI とインターネット — 真実の現状
 m24-home-headline-you-ai-v2 = あなたと AI とインターネット — 真実の現状
 m24-home-introducing-anonym = { -brand-name-anonym } のご紹介: プライバシーを保護するデジタル広告の水準を引き上げる。
 m24-home-keeping-genai-technologies = 生成 AI の技術を安全に保つことは、共通の責任です。

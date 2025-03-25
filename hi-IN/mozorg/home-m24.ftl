@@ -97,8 +97,6 @@ m24-home-tag-video = वीडियो
 m24-home-topic-news = समाचार
 m24-home-topic-ai = आर्टिफ़िशियल इंटेलिजेंस
 m24-home-topic-ps = गोपनीयता और सुरक्षा
-# Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = हेडलाइन: आप, AI और इंटरनेट — वास्तव में क्या हो रहा है?
 m24-home-headline-you-ai-v2 = आप, AI और इंटरनेट — वास्तव में क्या हो रहा है?
 m24-home-introducing-anonym = पेश है { -brand-name-anonym }: लक्ष्य है कि डिजिटल विज्ञापन में निजता-सुरक्षा सुनिश्चित करने के मानक बहुत ऊंचे हों।
 m24-home-keeping-genai-technologies = GenAI टेक्नोलॉजी को सुरक्षित बनाए रखना एक साझा जिम्मेदारी है।

@@ -97,8 +97,6 @@ m24-home-tag-video = فديو
 m24-home-topic-news = أخبار
 m24-home-topic-ai = الذكاء الاصطناعي
 m24-home-topic-ps = الخصوصية والسريّة
-# Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = العنوان: أنت والذكاء الاصطناعي والإنترنت – ما الذي يحدث فعليًا؟
 m24-home-headline-you-ai-v2 = أنت والذكاء الاصطناعي والإنترنت – ما الذي يَحدث فعليًا؟
 m24-home-introducing-anonym = نُقدّم لك { -brand-name-anonym }: رفع مستوى الإعلانات الرقمية التي تحافظ على الخصوصية.
 m24-home-keeping-genai-technologies = يُعتبر الحفاظ على أمان تقنيات الذكاء الاصطناعي التوليدي مسؤولية مشتركة.

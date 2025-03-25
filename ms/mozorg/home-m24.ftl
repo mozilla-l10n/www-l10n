@@ -97,8 +97,6 @@ m24-home-tag-video = Video
 m24-home-topic-news = Berita
 m24-home-topic-ai = Kecerdasan Buatan
 m24-home-topic-ps = Privasi & Keselamatan
-# Obsolete string (expires: 2025-02-03)
-m24-home-headline-you-ai = Headline: Anda, AI dan internet — apa yang sedang berlaku sebenarnya?
 m24-home-headline-you-ai-v2 = Anda, AI dan internet — apa sebenarnya yang sedang berlaku?
 m24-home-introducing-anonym = Memperkenalkan { -brand-name-anonym }: Meningkatkan taraf dalam pengiklanan digital yang mengutamakan privasi.
 m24-home-keeping-genai-technologies = Mengekalkan keselamatan teknologi GenAI adalah tanggungjawab bersama.
