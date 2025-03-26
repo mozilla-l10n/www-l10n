@@ -35,7 +35,11 @@ vpn-launch-the-app = 2. Spustite aplikáciu
 vpn-login-or-signup = 3. Prihláste sa alebo sa zaregistrujte
 vpn-enter-your-email = Zadajte svoju e‑mailovú adresu na prihlásenie alebo sa zaregistrujte a začnite
 vpn-turn-on-vpn = 4. Zapnite VPN
+vpn-install-firefox-extension = 5. Nainštalujte rozšírenie pre { -brand-name-firefox }
 vpn-pick-a-recommended = Zvoľte odporúčané miesto pre rýchle a stabilné pripojenie alebo vyberte požadované miesto manuálne a potom prepínač zapnite
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = <a href="{ $extension }">Stiahnite a nainštalujte si rozšírenie</a>, aby ste si vedeli nastaviť výnimky pre jednotlivé stránky a voliť rôzne umiestnenia serverov pre rôzne webové stránky.
 
 ## FAQ Strings
 
