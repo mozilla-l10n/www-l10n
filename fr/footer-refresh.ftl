@@ -5,7 +5,11 @@
 footer-refresh-discover-mozilla-products = Découvrez les produits et les initiatives de { -brand-name-mozilla }. Nous nous engageons à protéger la sécurité et la confidentialité de votre adresse e-mail. Celle-ci ne sera ni partagée ni vendue. Nous l’utiliserons uniquement pour vous envoyer des actualités intéressantes.
 footer-refresh-leadership = Direction
 footer-refresh-advertise = Votre publicité et { -brand-name-mozilla }
+footer-refresh-mozilla-advertising = { -brand-name-mozilla } publicité
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = En savoir plus <span>sur { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Notes de version de { -brand-name-firefox }
+footer-refresh-privacy-first = Des solutions publicitaires respectueuses de la vie privée pour les marques, les éditeurs et les plateformes.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
