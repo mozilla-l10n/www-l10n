@@ -21,6 +21,9 @@ firefox-all-desktop = ഉപരിഫലകം
 firefox-all-mobile = മൊബൈല്‍
 firefox-all-recommended = (ശുപാർശപ്പെട്ടതു്)
 firefox-all-lang-multi = പെരുക്കമായ ഭാഷകൾ
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = { $esr_version } ഇറക്കിവയ്ക്കുക
 firefox-all-release-notes = വെളിപ്പെടുത്തല്കുറിപ്പുകൾ
 firefox-all-source-code = ഉറവിടസങ്കേതം
 firefox-all-need-help = തുണ വേണോ?

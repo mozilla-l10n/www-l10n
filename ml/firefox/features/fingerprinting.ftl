@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/enterprise/
+### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
-firefox-enterprise-downloads = ഇറക്കിവയ്ക്കലുകൾ
-firefox-enterprise-macos = { -brand-name-mac }
+features-fingerprinting-download-firefox = { -brand-name-firefox } ഇറക്കിവയ്ക്കുക
