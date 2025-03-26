@@ -5,7 +5,11 @@
 footer-refresh-discover-mozilla-products = Khám phá các sản phẩm và sáng kiến ​​của { -brand-name-mozilla }. Chúng tôi hứa sẽ giữ email của bạn ở chế độ riêng tư và bảo mật — không chia sẻ hoặc bán cho bên thứ ba, chỉ có những cập nhật tuyệt vời.
 footer-refresh-leadership = Lãnh đạo
 footer-refresh-advertise = Quảng cáo với { -brand-name-mozilla }
+footer-refresh-mozilla-advertising = Quảng cáo với { -brand-name-mozilla }
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = Tìm hiểu thêm <span>về { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Ghi chú phát hành { -brand-name-firefox }
+footer-refresh-privacy-first = Giải pháp quảng cáo ưu tiên quyền riêng tư dành cho các thương hiệu, nhà xuất bản và nền tảng.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN

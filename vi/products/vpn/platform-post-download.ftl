@@ -35,7 +35,11 @@ vpn-launch-the-app = 2. Khởi động ứng dụng
 vpn-login-or-signup = 3. Đăng nhập hoặc đăng ký
 vpn-enter-your-email = Nhập địa chỉ email của bạn để đăng nhập hoặc đăng ký và bắt đầu
 vpn-turn-on-vpn = 4. Bật VPN
+vpn-install-firefox-extension = 5. Cài đặt tiện ích mở rộng cho { -brand-name-firefox }
 vpn-pick-a-recommended = Chọn một vị trí được đề xuất để có kết nối nhanh, ổn định hoặc chọn vị trí mong muốn của bạn theo cách thủ công, sau đó BẬT công tắc
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = <a href="{ $extension }">Tải xuống và cài đặt tiện ích mở rộng</a> để thiết lập các loại trừ cho từng trang web và chọn các địa điểm khác nhau cho các trang web khác nhau.
 
 ## FAQ Strings
 
