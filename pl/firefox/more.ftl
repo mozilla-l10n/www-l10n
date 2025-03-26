@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
+learn-more-faq = { -brand-name-firefox } FAQ - Często zadawane pytania
 the-history-of = Historia przeglądarek internetowych
 firefox-is-more = { -brand-name-firefox } to więcej niż przeglądarka
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } na { -brand-name-chromebook(case: "acc") }
