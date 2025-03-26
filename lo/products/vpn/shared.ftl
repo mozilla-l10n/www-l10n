@@ -75,6 +75,8 @@ vpn-subnav-download-mozilla-vpn = ດາວໂຫລດ { -brand-name-mozilla-vp
 
 ## Press quotations
 
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = ດັ່ງທີ່ເຫັນໃນ
 
 ## Unsupported language notification
 
