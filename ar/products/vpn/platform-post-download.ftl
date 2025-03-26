@@ -35,8 +35,12 @@ vpn-launch-the-app = 2. شغّل التطبيق
 vpn-login-or-signup = 3. سجّل الدخول أو سجّل الاشتراك
 vpn-enter-your-email = أدخل عنوان بريدك الإلكتروني أو سجّل الدخول أو سجّل الاشتراك وابدأ
 vpn-turn-on-vpn = 4. سجّل VPN
+vpn-install-firefox-extension = 5. ثبّت امتداد { -brand-name-firefox }
 vpn-pick-a-recommended = اختر موقعًا موصى به للاتصال السريع والمُستقر أو اختر الموقع الذي تريده يدويًا، ثم شغّل مفتاح التبديل
 
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = <a href="{ $extension }">حمّل وثبّت الامتداد</a> لإعداد الاستثناءات لِكل موقع واختيار مواقع مختلفة لِمواقع الويب المختلفة.
 
 ## FAQ Strings
 

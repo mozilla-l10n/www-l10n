@@ -35,8 +35,12 @@ vpn-launch-the-app = 2. Luncurkan aplikasi
 vpn-login-or-signup = 3. Masuk atau daftar
 vpn-enter-your-email = Masukkan alamat email Anda untuk masuk atau mendaftar dan silakan mulai
 vpn-turn-on-vpn = 4. Aktifkan VPN
+vpn-install-firefox-extension = 5. Instal Ekstensi { -brand-name-firefox }
 vpn-pick-a-recommended = Pilih lokasi yang direkomendasikan untuk koneksi yang cepat dan stabil atau pilih lokasi yang Anda inginkan secara manual, lalu AKTIFKAN
 
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = <a href="{ $extension }">Unduh dan instal ekstensi</a> untuk mengatur pengecualian tiap situs dan memilih lokasi berbeda untuk berbagai situs web.
 
 ## FAQ Strings
 
