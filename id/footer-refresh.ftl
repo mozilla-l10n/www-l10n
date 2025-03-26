@@ -5,7 +5,11 @@
 footer-refresh-discover-mozilla-products = Temukan produk dan inisiatif { -brand-name-mozilla }. Kami berkomitmen untuk menjaga privasi dan keamanan email Anda — tidak ada berbagi data, tidak ada penjualan informasi, hanya pembaruan yang bermanfaat.
 footer-refresh-leadership = Kepemimpinan
 footer-refresh-advertise = Beriklan dengan { -brand-name-mozilla }
+footer-refresh-mozilla-advertising = { -brand-name-mozilla } Advertising
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = Pelajari lebih lanjut <span>mengenai { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Catatan Rilis { -brand-name-firefox }
+footer-refresh-privacy-first = Solusi periklanan yang mengutamakan privasi untuk merek, penerbit, dan platform.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
