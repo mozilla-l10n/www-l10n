@@ -35,7 +35,11 @@ vpn-launch-the-app = 2. Starta appen
 vpn-login-or-signup = 3. Logga in eller registrera dig
 vpn-enter-your-email = Ange din e-postadress för att logga in eller registrera dig och kom igång
 vpn-turn-on-vpn = 4. Slå på VPN
+vpn-install-firefox-extension = 5. Installera tillägget { -brand-name-firefox }
 vpn-pick-a-recommended = Välj en rekommenderad plats för en snabb, stabil anslutning eller välj önskad plats manuellt och växla sedan reglaget till PÅ
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = <a href="{ $extension }">Ladda ner och installera tillägget</a> för att ställa in uteslutningar per webbplats och välja olika platser för olika webbplatser.
 
 ## FAQ Strings
 
