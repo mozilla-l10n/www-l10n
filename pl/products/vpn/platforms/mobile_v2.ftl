@@ -7,3 +7,4 @@
 
 vpn-mobile-get-a-vpn = Pobierz VPN dla urządzeń mobilnych od { -brand-name-mozilla(case: "gen") }
 vpn-mobile-vpn-for-mobile = VPN dla urządzeń mobilnych od { -brand-name-mozilla(case: "gen") }
+vpn-mobile-your-isp-v2 = Twój rząd lub dostawca usług internetowych może blokować witryny lub usługi, które mu się nie podobają, lub które konkurują z jego własnymi.
