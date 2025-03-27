@@ -5,10 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/
 
+m24-home-page-desc-v2 = Pracujemy nad tym, aby kontrola nad Internetem wróciła w ręce jego użytkowników.
 
 ## Intro
 
 m24-home-welcome-to-mozilla = Witamy w { -brand-name-mozilla(case: "loc") }
+m24-home-from-trustworthy-tech = Od godnych zaufania rozwiązań technologicznych po zasady chroniące Twoje prawa cyfrowe — zawsze stawiamy Cię na pierwszym miejscu.
 
 ## Products
 
