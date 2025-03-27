@@ -17,6 +17,7 @@ footer-refresh-spotify = Spotify
 footer-refresh-follow-firefox = ຕິດຕາມ @{ -brand-name-firefox }
 footer-refresh-youtube = YouTube
 footer-refresh-company = ບໍລິສັດ
+footer-refresh-press-center = ສູນຂ່າວ
 footer-refresh-careers = ຕຳແຫນ່ງວຽກ
 footer-refresh-contact = ຕິດຕໍ່
 footer-refresh-support = ສະຫນັບສະຫນູນ

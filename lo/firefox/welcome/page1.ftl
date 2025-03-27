@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
+# HTML page title
+welcome-page1-more-than-a-browser-mozilla = ຫຼາຍກວ່າຕົວທ່ອງເວັບ - { -brand-name-mozilla-monitor } ແມ່ນການເບິ່ງຫາແຮກເກີຂອງທ່ານ
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = ດໍາເນີນຂັ້ນຕອນຕໍ່ໄປເພື່ອປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງທ່ານອອນໄລນ໌ດ້ວຍຜະລິດຕະພັນຂອງຄອບຄົວ { -brand-name-firefox }.
 welcome-page1-stay-ahead-of-hackers-check-v2 = ຢູ່ນຳໜ້າພວກແຮກເກີ. ກວດສອບການລະເມີດຂໍ້ມູນດ້ວຍ { -brand-name-mozilla-monitor }.
