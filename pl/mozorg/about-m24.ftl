@@ -30,6 +30,7 @@ m24-about-we-fund-and = Finansujemy i inwestujemy w ludzi i wysiłki, dzięki kt
 
 ## News
 
+m24-about-read-more = Przeczytaj więcej
 m24-about-read-the-latest = Przeczytaj najnowsze wiadomości i artykuły dotyczące { -brand-name-mozilla(case: "gen") }
 
 ## Showcase
