@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
+consent-banner-body-v2 = Oprócz ciasteczek niezbędnych do działania tej witryny, chcielibyśmy uzyskać Twoją zgodę na ustawienie dodatkowych ciasteczek, aby lepiej zrozumieć Twoje potrzeby związane z przeglądaniem i poprawić Twoje wrażenia. Bądź pewien — cenimy Twoją prywatność.
 consent-banner-button-reject = Odrzuć wszystkie dodatkowe ciasteczka
 consent-banner-button-accept = Zaakceptuj wszystkie dodatkowe ciasteczka
 consent-banner-settings-link = Ustawienia ciasteczek
