@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/features/add-ons/
 
 features-add-ons-firefox-add-ons = Dodatki do { -brand-name-firefox(case: "gen") }
+features-add-ons-firefox-add-ons-and-browser-extensions = Dodatki i rozszerzenia przeglądarki { -brand-name-firefox }
