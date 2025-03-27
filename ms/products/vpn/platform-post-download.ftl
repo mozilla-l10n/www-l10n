@@ -35,8 +35,12 @@ vpn-launch-the-app = 2. Lancarkan aplikasi
 vpn-login-or-signup = 3. Log masuk atau daftar
 vpn-enter-your-email = Masukkan alamat e-mel anda untuk log masuk atau daftar untuk bermula
 vpn-turn-on-vpn = 4. Bolehkan VPN
+vpn-install-firefox-extension = Pasang Sambungan { -brand-name-firefox }
 vpn-pick-a-recommended = Pilih lokasi cadangan untuk sambungan yang pantas dan stabil atau pilih lokasi anda secara manual, kemudian tekan togol ON
 
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = <a href="{ $extension }">Muat turun dan pasang sambungan</a> untuk menetapkan pengecualian setiap laman web dan memilih lokasi berbeza untuk laman web yang berlainan.
 
 ## FAQ Strings
 
