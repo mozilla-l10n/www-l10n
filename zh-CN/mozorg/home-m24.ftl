@@ -60,7 +60,7 @@ m24-home-our-mission-is = 我们的使命是：让人们更容易构建并合作
 # Used as an accessible text alternative for an image
 m24-home-alt-solo-ai-logo = { -brand-name-solo-ai } 徽标
 m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = 创建您的网站并免费连接您的自定义域名
+m24-home-create-your-website = 创建您自己的网站，还可使用您的自定义域名。无需付费。
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
