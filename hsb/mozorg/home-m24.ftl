@@ -45,6 +45,10 @@ m24-home-tag-event = Podawk
 m24-home-read-more = Čitajće wjace
 m24-home-get-started = Prěnje kroki
 m24-home-join-the-movement = Přidružće so hibanju:<br> KI za ludźi
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = Logo { -brand-name-solo-ai }
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Wutworće swoje websydło a zwjazajće swoju domenu zadarmo
 m24-home-alt-builders = Twarcy
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = Twarcy { -brand-name-mozilla }
