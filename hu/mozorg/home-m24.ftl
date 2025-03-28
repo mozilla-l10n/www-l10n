@@ -57,10 +57,6 @@ m24-home-read-more = Bővebben
 m24-home-get-started = Kezdő lépések
 m24-home-join-the-movement = Csatlakozzon a mozgalomhoz:<br> MI az emberekért
 m24-home-our-mission-is = Küldetésünk, hogy megkönnyítsük az emberek számára a nyílt forráskódú, megbízható MI-re való építkezést és az ebben való együttműködést.
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = { -brand-name-llamafile } logó.
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = Futtasson nagy nyelvi modelleket (LLM) egyszerűen a számítógépén a { -brand-name-llamafile } segítségével – nincs szükség telepítésre, és az adatai biztonságban maradnak az eszközén.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders

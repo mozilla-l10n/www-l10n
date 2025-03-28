@@ -57,10 +57,6 @@ m24-home-read-more = Đọc thêm
 m24-home-get-started = Bắt đầu
 m24-home-join-the-movement = Tham gia phong trào:<br> AI vì con người
 m24-home-our-mission-is = Sứ mệnh của chúng tôi là giúp mọi người dễ dàng xây dựng và cộng tác trên AI nguồn mở, đáng tin cậy.
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = Logo { -brand-name-llamafile }.
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = Chạy các mô hình ngôn ngữ lớn (LLM) dễ dàng trên máy tính của bạn với { -brand-name-llamafile } — không cần cài đặt và dữ liệu của bạn vẫn an toàn trên thiết bị.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders

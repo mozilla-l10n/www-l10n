@@ -57,10 +57,6 @@ m24-home-read-more = Darllen rhagor
 m24-home-get-started = Cychwyn arni
 m24-home-join-the-movement = Ymunwch â'r symudiad:<br> AI ar gyfer y bobl
 m24-home-our-mission-is = Ein cenhadaeth yw ei gwneud hi'n hawdd i bobl adeiladu a chydweithio ar AI cod agored a dibynadwy.
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = Logo { -brand-name-llamafile } .
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = Rhedwch modelau iaith mawr (LLMs) yn hawdd ar eich cyfrifiadur gyda { -brand-name-llamafile } — nid oes angen eu gosod, ac mae eich data yn aros yn ddiogel ar eich dyfais.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders

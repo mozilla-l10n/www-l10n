@@ -57,10 +57,6 @@ m24-home-read-more = Lexoni më tepër
 m24-home-get-started = Fillojani
 m24-home-join-the-movement = Bëhuni pjesë e lëvizjes:<br> IA për popullin
 m24-home-our-mission-is = Misioni ynë është ta bëjmë të lehtë për njerëzit të ndërtojnë me dhe të bashkëpunojnë në IA të besueshme, me burim të hapët.
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = Stemë e { -brand-name-llamafile }.
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = Xhironi kollaj në kompjuterin tuaj modele të gjerë gjuhësh (LLM-ra), me { -brand-name-llamafile } — s’ka nevojë për instalim dhe të dhënat tuaja mbesin të parrezik në pajisjen tuaj.
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 # Used as an accessible text alternative for an image

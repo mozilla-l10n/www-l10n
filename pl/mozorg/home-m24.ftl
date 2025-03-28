@@ -30,7 +30,6 @@ m24-home-mask-your-email = Ukryj swój adres e-mail i numer telefonu, aby otrzym
 ## AI gallery
 
 m24-home-read-more = Przeczytaj więcej
-m24-home-llamafile = { -brand-name-llamafile }
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-lumigator = { -brand-name-lumigator }

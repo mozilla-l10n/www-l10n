@@ -48,9 +48,6 @@ m24-home-tag-event = ਈਵੈਂਟ
 m24-home-read-more = ਹੋਰ ਪੜ੍ਹੋ
 m24-home-get-started = ਸ਼ੁਰੂ ਕਰੀਏ
 m24-home-join-the-movement = ਮੁਹਿੰਮ ਵਿੱਚ ਹਿੱਸਾ ਲਵੋ:<br> ਲੋਕਾਂ ਲਈ AI
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = { -brand-name-llamafile } ਲੋਗੋ
-m24-home-llamafile = { -brand-name-llamafile }
 m24-home-alt-builders = ਬਿਲਡਰ
 m24-home-mozilla-builders = { -brand-name-mozilla } ਬਿਲਡਰ
 # Used as an accessible text alternative for an image

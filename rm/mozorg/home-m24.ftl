@@ -57,10 +57,6 @@ m24-home-read-more = Ulteriuras infurmaziuns
 m24-home-get-started = Cumenzar
 m24-home-join-the-movement = Ta participescha al moviment:<br> IA per las persunas
 m24-home-our-mission-is = Nossa missiun è da lavurar per ch’i daventia simpel per persunas da sa basar sin e collavurar cun intelligenza artifiziala fidabla open-source.
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = Logo da { -brand-name-llamafile }.
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = Exequescha a moda simpla LLMs (large language models) sin tes computer cun agid da { -brand-name-llamafile } – i na dovra nagina installaziun e las datas sin tes apparat restan segiras.
 m24-home-alt-builders = Builders
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-builders-helps-independent = Builders gida sviluppadras e sivluppaders independents a crear projects open-source transfurmativs dad IA tras collavuraziuns, programmaziun e la communitad.

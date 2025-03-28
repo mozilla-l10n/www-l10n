@@ -57,10 +57,6 @@ m24-home-read-more = Подробнее
 m24-home-get-started = Начать
 m24-home-join-the-movement = Присоединяйтесь к движению:<br> ИИ для людей
 m24-home-our-mission-is = Наша миссия состоит в том, чтобы упростить для людей создание и совместную работу над открытым и заслуживающим доверия ИИ.
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = Логотип { -brand-name-llamafile }.
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = Легко запускайте большие языковые модели (LLM) на вашем компьютере с помощью { -brand-name-llamafile } — установка не требуется, а ваши данные остаются в безопасности на вашем устройстве.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders

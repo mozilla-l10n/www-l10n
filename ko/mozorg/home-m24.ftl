@@ -57,10 +57,6 @@ m24-home-read-more = 더 보기
 m24-home-get-started = 시작하기
 m24-home-join-the-movement = 동참하기:<br> 사람을 위한 AI
 m24-home-our-mission-is = 우리의 사명은 사람들이 신뢰할 수 있는 오픈 소스 AI를 사용하여 쉽게 협업할 수 있도록 하는 것입니다.
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = { -brand-name-llamafile } 로고.
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = { -brand-name-llamafile }을 사용하여 컴퓨터에서 대형 언어 모델(llm)을 쉽게 실행 — 설치할 필요가 없고 데이터가 기기에 안전하게 보관됩니다.
 m24-home-alt-builders = 빌더
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } 빌더

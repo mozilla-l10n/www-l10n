@@ -57,10 +57,6 @@ m24-home-read-more = Pročitajte više
 m24-home-get-started = Započnite
 m24-home-join-the-movement = Pridružite se pokretu:<br> AI za ljude
 m24-home-our-mission-is = Naša misija je da ljudima olakšamo izgradnju i saradnju na otvorenoj, pouzdanoj AI.
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = { -brand-name-llamafile } logo.
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = Lahko pokrenite velike jezičke modele (LLM) na svom računaru pomoću { -brand-name-llamafile } — nije potrebna instalacija, a vaši podaci ostaju sigurni na vašem uređaju.
 m24-home-alt-builders = Konstruktori
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } konstruktori

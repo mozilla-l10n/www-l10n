@@ -57,10 +57,6 @@ m24-home-read-more = Lesa meira
 m24-home-get-started = Hefjast handa
 m24-home-join-the-movement = Vertu með í hreyfingunni:<br> AI-gervigreind fyrir fólkið
 m24-home-our-mission-is = Markmið okkar er að auðvelda fólki að byggja og vinna með áreiðanlega gervigreind, með opinn grunnkóða.
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = { -brand-name-llamafile }-táknmerki
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = Keyrðu auðveldlega stór tungumálalíkön (LLM) á tölvunni þinni með { -brand-name-llamafile } - engin þörf er á sérstakri uppsetningu og gögnin þín haldast örugg á tækinu þínu.
 m24-home-alt-builders = Builders-smiðir
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders-smiðir

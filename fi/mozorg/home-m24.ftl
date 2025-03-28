@@ -58,10 +58,6 @@ m24-home-get-started = Aloitetaan
 m24-home-join-the-movement = Liity liikkeeseen:<br> Tekoäly ihmisiä varten
 m24-home-our-mission-is = Tehtävämme on mahdollistaa ihmisten rakentaa ja tehdä yhteistyötä luotettavan, avoimeen lähdekoodiin pohjautuvan tekoälyn parissa.
 # Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = { -brand-name-llamafile }n logo.
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = Suorita suuria kielimalleja (LLM) vaivatta tietokoneellasi { -brand-name-llamafile }n avulla — asennusta ei tarvita, ja tietosi pysyvät turvassa laitteellasi.
-# Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }in logo.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Löydä oikea kielimalli tarpeitasi, käyttötapauksiasi ja dataasi varten.

@@ -54,10 +54,6 @@ m24-home-read-more = Cchiù nfurmazzioni
 m24-home-get-started = Accumincia
 m24-home-join-the-movement = Jùnciti ô muvimentu:<br>NA pî genti
 m24-home-our-mission-is = A nostra missioni è chiḍḍa di pirmèttiri ê genti di custrujiri pruggetti e cullabburari ncapu a na NA affidàbbili a còdici graputu.
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = Mercu di { -brand-name-llamafile }.
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = Abbìa fàcili i granni mudeḍḍi linguìstici (LLM) nnô to computer cu { -brand-name-llamafile } — nuḍḍu nzitamentu e i to dati arrèstanu ô sicuru nnô to dispusitivu.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = Custruttura di { -brand-name-mozilla }

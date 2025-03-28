@@ -57,10 +57,6 @@ m24-home-read-more = Mear ynfo
 m24-home-get-started = Begjinne
 m24-home-join-the-movement = Doch mei oan de beweging:<br> AI foar de minsken
 m24-home-our-mission-is = Us misje is om it maklik te meitsjen foar minsken om te bouwen mei, en gear te wurkjen oan, iepenboarne, betroubere AI.
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = { -brand-name-llamafile }-logo.
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = Fier ienfâldich grutte taalmodellen (LLM’s) út op jo kompjûter mei { -brand-name-llamafile } – gjin ynstallaasje nedich, en jo gegevens bliuwe feilich op jo apparaat.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders

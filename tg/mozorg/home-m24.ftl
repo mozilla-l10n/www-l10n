@@ -43,9 +43,6 @@ m24-home-read-more = Бештар хондан
 m24-home-get-started = Оғози кор
 m24-home-join-the-movement = Ба ҷомеаи мо ҳамроҳ шавед:<br> Зеҳни сунъӣ (AI) барои мардум
 # Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = Ангораи «{ -brand-name-llamafile }».
-m24-home-llamafile = { -brand-name-llamafile }
-# Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Ангораи «{ -brand-name-lumigator }».
 m24-home-lumigator = { -brand-name-lumigator }
 # Used as an accessible text alternative for an image

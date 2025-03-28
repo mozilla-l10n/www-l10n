@@ -34,9 +34,6 @@ m24-home-tag-event = Hending
 m24-home-read-more = Les meir
 m24-home-get-started = Kom i gang
 m24-home-join-the-movement = Bli med i rørsla:<br> AI for folket
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = { -brand-name-llamafile }-logo.
-m24-home-llamafile = { -brand-name-llamafile }
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders

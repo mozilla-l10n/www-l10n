@@ -57,10 +57,6 @@ m24-home-read-more = 了解更多
 m24-home-get-started = 開始使用
 m24-home-join-the-movement = 加入運動：AI for the people
 m24-home-our-mission-is = 我們的使命是讓人們更簡單就能打造、協作開放原始碼、可信任的 AI。
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = { -brand-name-llamafile } 圖示。
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = 透過 { -brand-name-llamafile } 在您的電腦上輕鬆執行大型語言模型（LLM）— 無需安裝，您的資料也會安全地保留在您的裝置內。
 m24-home-alt-builders = 建設者
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } 建設者

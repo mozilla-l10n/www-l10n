@@ -57,10 +57,6 @@ m24-home-read-more = Leger plus
 m24-home-get-started = Comenciar
 m24-home-join-the-movement = Inscribe te al movimento:<br> IA pro le personas
 m24-home-our-mission-is = Nostre mission es de render facile pro le personas construer con, e collaborar sur le IA digne de fide e open-source.
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = Logo de { -brand-name-llamafile }
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = Face functionar grande modellos linguistic (GMLes) facilemente sur tu computator con { -brand-name-llamafile }, nulle installation necessari, e tu datos sta secur sur tu apparato.
 m24-home-alt-builders = Constructores
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = Constructores de { -brand-name-mozilla }

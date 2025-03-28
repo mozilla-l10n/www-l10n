@@ -57,10 +57,6 @@ m24-home-read-more = Devamını okuyun
 m24-home-get-started = Kullanmaya başlayın
 m24-home-join-the-movement = Harekete katılın:<br> İnsanlık için yapay zekâ
 m24-home-our-mission-is = Misyonumuz, açık kaynaklı ve güvenilir yapay zekâyla yeni şeyler inşa etmeyi ve yapay zekâ üzerinde birlikte çalışmayı kolaylaştıran bir ortam yaratmak.
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = { -brand-name-llamafile } logosu.
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = { -brand-name-llamafile } ile büyük dilli modellerini (LLM) bilgisayarınızda kolayca çalıştırın. Kurulum gerektirmez ve verileriniz cihazınızda güvenle saklanır.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders

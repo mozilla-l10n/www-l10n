@@ -57,10 +57,6 @@ m24-home-read-more = อ่านเพิ่มเติม
 m24-home-get-started = เริ่มต้นใช้งาน
 m24-home-join-the-movement = ร่วมขบวนการ: <br>AI เพื่อผู้คน
 m24-home-our-mission-is = ภารกิจของเราคือทำให้ผู้คนสามารถใช้ AI โอเพนซอร์สที่น่าเชื่อถือในการสร้างสรรค์สิ่งต่างๆ และทำงานร่วมกันได้อย่างง่ายดาย
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = โลโก้ { -brand-name-llamafile }
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = เรียกใช้โมเดลภาษาขนาดใหญ่ (LLM) ได้อย่างง่ายดายบนคอมพิวเตอร์ของคุณด้วย { -brand-name-llamafile } โดยไม่ต้องติดตั้งอะไรเพิ่ม และมีการเก็บข้อมูลของคุณบนอุปกรณ์ของคุณเองอย่างปลอดภัย
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders

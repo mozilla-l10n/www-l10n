@@ -57,10 +57,6 @@ m24-home-read-more = Přečtěte si více
 m24-home-get-started = Začít
 m24-home-join-the-movement = Připojte se k hnutí<br> AI pro lidi
 m24-home-our-mission-is = Naším posláním je usnadnit lidem tvorbu a spolupráci na důvěryhodné umělé inteligenci s otevřeným zdrojovým kódem.
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = Logo { -brand-name-llamafile }.
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = Snadné spouštění velkých jazykových modelů (LLM) na počítači pomocí { -brand-name-llamafile } — není nutná žádná instalace a vaše data zůstanou v bezpečí vašeho zařízení.
 m24-home-alt-builders = Tvůrci
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders

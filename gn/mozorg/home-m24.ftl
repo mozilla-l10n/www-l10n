@@ -47,9 +47,6 @@ m24-home-tag-event = Tembiaporã
 m24-home-read-more = Emoñe’ẽve
 m24-home-get-started = Eñepyrũ
 m24-home-join-the-movement = Ejuaju kóvare: IA opavavépe g̃uarã
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = { -brand-name-llamafile } ra’ãnga’i.
-m24-home-llamafile = { -brand-name-llamafile }
 m24-home-alt-builders = Apoharakuéra
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Apoharakuéra

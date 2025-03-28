@@ -57,10 +57,6 @@ m24-home-read-more = ვრცლად
 m24-home-get-started = დაიწყეთ
 m24-home-join-the-movement = შემოუერთდით მოძრაობას:<br> AI ხალხისთვის
 m24-home-our-mission-is = ჩვენი მიზანია, გავუადვილოთ ხალხს შემუშავება და თანამშრომლობა ღია წყაროს მქონე და სანდო AI-საშუალებების შექმნისთვის.
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = { -brand-name-llamafile }-ლოგო.
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = გაუშვით ენის დიდი მოდელები (LLM) იოლად თქვენს კომპიუტერში { -brand-name-llamafile }-ის მეშვეობით —არაფრის დაყენება არაა საჭირო, თქვენი მონაცემები უსაფრთხოდ დარჩება თქვენსავე მოწყობილობაზე.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders

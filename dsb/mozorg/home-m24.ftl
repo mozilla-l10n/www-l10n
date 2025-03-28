@@ -45,9 +45,6 @@ m24-home-tag-event = Tšojenje
 m24-home-read-more = Dalšne informacije
 m24-home-get-started = Prědne kšace
 m24-home-join-the-movement = Pśizamkniśo se gibanjeju:<br> KI za luźe
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = Logo { -brand-name-llamafile }.
-m24-home-llamafile = { -brand-name-llamafile }
 m24-home-alt-builders = Twaŕce
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = Twaŕce { -brand-name-mozilla }
