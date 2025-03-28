@@ -39,7 +39,7 @@ vpn-install-firefox-extension = 5. ჩადგით { -brand-name-firefox }-�
 vpn-pick-a-recommended = აირჩიეთ შემოთავაზებული მდებარეობა სწრაფი, მდგრადი კავშირისთვის ან მიუთითეთ სასურველი მდებარეობა ხელით, შემდეგ კი გადამრთველი დააყენეთ „ჩართულზე“
 # Variables:
 #   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
-vpn-download-and-install = <a href="{ $extension }">ჩამოტვირთეთ და დააყენეთ გაფართოება</a> თითოეულ საიტზე გამონაკლისის დასაყენებლად და საიტებისთვის სხვადასხვა მდებარეობის ასარჩევად.
+vpn-download-and-install = <a href="{ $extension }">ჩამოტვირთეთ და ჩადგით გაფართოება</a> თითოეულ საიტზე განცაკლევებით გამოსაყენებლად და სხვადასხვა მდებარეობის ასარჩევად სხვადასხვა ვებსაიტისთვის.
 
 ## FAQ Strings
 
