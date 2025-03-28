@@ -58,10 +58,6 @@ m24-home-read-more = اطَّلِع على المزيد
 m24-home-get-started = لنبدأ
 m24-home-join-the-movement = انضم للحركة:<br>الذكاء الاصطناعي للناس
 m24-home-our-mission-is = مهمتنا هي تسهيل إنشاء تقنيات ذكاء اصطناعي مفتوحة المصدر وموثوقة والتعاون في مثل هذه التقنيات.
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = شعار { -brand-name-llamafile }.
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = شغّل نماذج اللغة الكبيرة (LLMs) بسهولة على جهازك باستخدام { -brand-name-llamafile } – دون الحاجة إلى تثبيت، مع الحفاظ على أمان بياناتك على جهازك.
 m24-home-alt-builders = برنامج Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = مُطوّرو وبُناة { -brand-name-mozilla }

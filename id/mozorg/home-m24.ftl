@@ -58,10 +58,6 @@ m24-home-read-more = Baca Selengkapnya
 m24-home-get-started = Mari Mulai
 m24-home-join-the-movement = Bergabunglah dalam gerakan ini:<br> AI untuk masyarakat
 m24-home-our-mission-is = Misi kami adalah memberikan kemudahan bagi semua orang untuk mengembangkan dan berkolaborasi untuk AI yang bersifat sumber terbuka dan tepercaya.
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = Logo { -brand-name-llamafile }.
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = Jalankan model bahasa besar (LLM) dengan mudah di komputer Anda { -brand-name-llamafile } — tidak perlu diinstal, dan data Anda tetap aman di perangkat.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = Pembangun { -brand-name-mozilla }

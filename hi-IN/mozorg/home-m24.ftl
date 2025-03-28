@@ -58,10 +58,6 @@ m24-home-read-more = और पढ़ें
 m24-home-get-started = आरंभ करें
 m24-home-join-the-movement = मुहिम से जुड़ें:<br> AI हो आम लोगों के हित में
 m24-home-our-mission-is = हमारा मिशन है कि ओपन-सोर्स, भरोसेमंद AI से आम लोग आसानी से रिश्ता बनाते हुए इसका उपयोग कर सकें और परस्पर-सहयोग करना भी आसान हो।
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = { -brand-name-llamafile } लोगो।
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = अपने कंप्यूटर पर { -brand-name-llamafile } की मदद से आसानी से लार्ज लैंग्वेज मॉडल (LLM) चलाएं — किसी इंस्टॉलेशन की आवश्यकता नहीं है, और आपका डेटा आपके डिवाइस पर सुरक्षित रहता है।
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } बिल्डर

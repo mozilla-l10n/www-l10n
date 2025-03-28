@@ -58,10 +58,6 @@ m24-home-read-more = Weiterlesen
 m24-home-get-started = Loslegen
 m24-home-join-the-movement = Werde Teil der Bewegung:<br> KI für das Volk
 m24-home-our-mission-is = Wir wollen den Menschen die Entwicklung und Zusammenarbeit mit vertrauenswürdiger Open-Source-KI erleichtern.
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = { -brand-name-llamafile }-Logo.
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = Mit { -brand-name-llamafile } kannst du große Sprachmodelle (Engl.: large language models, LLMs) auf deinem PC nutzen – ohne zusätzliche Installation. Und deine Daten bleiben sicher auf deinem Gerät.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders

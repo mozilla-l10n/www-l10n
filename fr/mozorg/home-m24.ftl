@@ -58,10 +58,6 @@ m24-home-read-more = En savoir plus
 m24-home-get-started = Commencer
 m24-home-join-the-movement = Rejoignez le mouvement : <br>l’IA au service des individus
 m24-home-our-mission-is = Notre mission est de faciliter l’utilisation d’une IA open source et digne de confiance par les internautes, et de leur permettre de collaborer à son développement.
-# Used as an accessible text alternative for an image
-m24-home-alt-llamafile-logo = Logo { -brand-name-llamafile }.
-m24-home-llamafile = { -brand-name-llamafile }
-m24-home-run-large-language = Exécutez des grands modèles de langage (large language models ou LLM) facilement sur votre ordinateur avec { -brand-name-llamafile }. Aucune installation n’est nécessaire et vos données restent en sécurité sur votre appareil.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
