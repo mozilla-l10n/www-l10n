@@ -81,6 +81,7 @@ firefox-developer-developer-tools-user = Developer Tools User Docs
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = ຊັບພະຍາກອນສໍາລັບນັກພັດທະນາ, ໂດຍນັກພັດທະນາ
 firefox-developer-mdn-playground = Playground
+firefox-developer-mdn-write-test-and-share = ຂຽນ, ທົດສອບ ແລະ ແບ່ງປັນລະຫັດຂອງທ່ານ. ສະຫນາມເດັກຫຼິ້ນຂອງທ່ານເພື່ອຮຽນຮູ້ ແລະ ແບ່ງປັນການເຮັດວຽກທີ່ຫນ້າປະຫລາດໃຈຂອງທ່ານກັບໂລກ.
 firefox-developer-mdn-blog = { -brand-name-mdn } ບົດຄວາມ
 firefox-developer-mdn-updates = ອັບເດດ
 # Obsolete string (expires 18-04-2025)

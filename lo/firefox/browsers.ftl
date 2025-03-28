@@ -10,6 +10,8 @@ firefox-browsers-page-title = ດາວໂຫລດ { -brand-name-firefox } ສ�
 # HTML page description
 firefox-browsers-page-desc = ເລືອກຈາກ Desktop, { -brand-name-ios }, { -brand-name-android }, ຫຼືໃຫ້ພວກເຮົາສົ່ງລີ້ງດາວໂຫລດຫາທ່ານທາງອີເມວ.
 firefox-browsers-main-heading = ຕົວທ່ອງເວັບຂອງ { -brand-name-firefox }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-browsers-get-the-browsers-strong-v2 = ເອົາ​ຕົວ​ທ່ອງ​ເວັບ​ທີ່​ເອົາ​ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ​ຂອງ​ທ່ານ​ໄວ້​ກ່ອນ — ແລະ <strong>ສະ​ເຫມີ​ໄປ</strong> ມີ
 firefox-browsers-desktop = Desktop
 firefox-browsers-seriously-private-browsing = ການຊອກຫາສ່ວນຕົວຢ່າງຈິງຈັງ. { -brand-name-firefox } ອັດຕະໂນມັດບລັອກ 2000+ ຕົວຕິດຕາມອອນໄລນ໌ຈາກການລວບລວມຂໍ້ມູນກ່ຽວກັບສິ່ງທີ່ທ່ານເຮັດອອນໄລນ໌.
 firefox-browsers-download-for-desktop = ດາວໂຫລດສໍາລັບ Desktop
