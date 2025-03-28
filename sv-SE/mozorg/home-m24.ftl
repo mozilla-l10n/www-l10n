@@ -57,6 +57,10 @@ m24-home-read-more = Läs mer
 m24-home-get-started = Kom igång
 m24-home-join-the-movement = Gå med i rörelsen:<br> AI för folket
 m24-home-our-mission-is = Vårt uppdrag är att göra det enkelt för människor att bygga med och samarbeta kring, pålitlig AI med öppen källkod.
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = { -brand-name-solo-ai } logotyp
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Skapa din webbplats och anslut din anpassade domän gratis
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
