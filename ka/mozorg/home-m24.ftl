@@ -57,6 +57,10 @@ m24-home-read-more = ვრცლად
 m24-home-get-started = დაიწყეთ
 m24-home-join-the-movement = შემოუერთდით მოძრაობას:<br> AI ხალხისთვის
 m24-home-our-mission-is = ჩვენი მიზანია, გავუადვილოთ ხალხს შემუშავება და თანამშრომლობა ღია წყაროს მქონე და სანდო AI-საშუალებების შექმნისთვის.
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = { -brand-name-solo-ai }-ლოგო
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = შექმენით თქვენი ვებსაიტი და დააკავშირეთ თქვენი დომენი უფასოდ
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders

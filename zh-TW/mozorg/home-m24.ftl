@@ -57,6 +57,10 @@ m24-home-read-more = 了解更多
 m24-home-get-started = 開始使用
 m24-home-join-the-movement = 加入運動：AI for the people
 m24-home-our-mission-is = 我們的使命是讓人們更簡單就能打造、協作開放原始碼、可信任的 AI。
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = { -brand-name-solo-ai }圖示
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = 免費打造您的網站並連結您的自訂網域
 m24-home-alt-builders = 建設者
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } 建設者

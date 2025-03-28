@@ -57,6 +57,10 @@ m24-home-read-more = Darllen rhagor
 m24-home-get-started = Cychwyn arni
 m24-home-join-the-movement = Ymunwch â'r symudiad:<br> AI ar gyfer y bobl
 m24-home-our-mission-is = Ein cenhadaeth yw ei gwneud hi'n hawdd i bobl adeiladu a chydweithio ar AI cod agored a dibynadwy.
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = { -brand-name-solo-ai } logo
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Creu eich gwefan a chysylltu'ch parth arferol am ddim
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders

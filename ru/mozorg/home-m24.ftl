@@ -57,6 +57,10 @@ m24-home-read-more = Подробнее
 m24-home-get-started = Начать
 m24-home-join-the-movement = Присоединяйтесь к движению:<br> ИИ для людей
 m24-home-our-mission-is = Наша миссия состоит в том, чтобы упростить для людей создание и совместную работу над открытым и заслуживающим доверия ИИ.
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = Логотип { -brand-name-solo-ai }
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Создайте свой сайт и подключите собственный домен бесплатно
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders

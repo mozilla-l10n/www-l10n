@@ -198,6 +198,7 @@
 -brand-name-glean = Glean
 -brand-name-irl-podcast = Подкаст IRL
 -brand-name-llamafile = Llamafile
+-brand-name-solo-ai = Соло ИИ
 -brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs =

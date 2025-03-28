@@ -57,6 +57,10 @@ m24-home-read-more = Ulteriori informazioni
 m24-home-get-started = Inizia
 m24-home-join-the-movement = Unisciti al movimento:<br>IA per le persone
 m24-home-our-mission-is = La nostra missione è fare in modo che tutti possano lavorare insieme, in modo semplice, per creare un’intelligenza artificiale open source e affidabile.
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = Logo { -brand-name-solo-ai }
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Crea il tuo sito web e connetti gratuitamente il tuo dominio personalizzato
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders

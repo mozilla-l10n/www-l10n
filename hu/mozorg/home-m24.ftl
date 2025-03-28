@@ -57,6 +57,10 @@ m24-home-read-more = Bővebben
 m24-home-get-started = Kezdő lépések
 m24-home-join-the-movement = Csatlakozzon a mozgalomhoz:<br> MI az emberekért
 m24-home-our-mission-is = Küldetésünk, hogy megkönnyítsük az emberek számára a nyílt forráskódú, megbízható MI-re való építkezést és az ebben való együttműködést.
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = { -brand-name-solo-ai } logó
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Hozza létre ingyen weboldalát és kapcsolja össze egyéni domainjét
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
