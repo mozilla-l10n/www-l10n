@@ -13,6 +13,7 @@ mobile-ios-send-a-download-link-to-your = Wyślij odnośnik do pobrania na swój
 mobile-ios-scan-the-qr-code-to-get-started = Zeskanuj kod QR, aby zacząć
 mobile-ios-scan-alt-text = Zeskanuj kod QR, aby pobrać { -brand-name-firefox(case: "acc") } na { -brand-name-ios }
 mobile-ios-make-firefox-your = Ustaw { -brand-name-firefox(case: "acc") } jako domyślną przeglądarkę
+mobile-ios-now-iphone-and = Teraz również użytkownicy { -brand-name-iphone(case: "gen") } i { -brand-name-ipad(case: "gen") } mogą wybrać własną domyślną przeglądarkę. Oznacza to, że nie musisz używać { -brand-name-safari }, a Twoja przeglądarka mobilna może pozostać zsynchronizowana z Twoją ulubioną przeglądarką na komputerze. Ponadto, gdy ustawisz { -brand-name-firefox(case: "gen") } jako domyślną przeglądarkę, wspierasz niezależną firmę technologiczną. { -brand-name-firefox } jest również jedyną dużą przeglądarką wspieraną przez organizację non-profit.
 mobile-ios-fast-private-secure = Szybka. Prywatna. Bezpieczna
 mobile-ios-stay-private-online = Zachowaj prywatność w sieci
 mobile-ios-your-browsing-history = Twoja historia przeglądania jest historią
