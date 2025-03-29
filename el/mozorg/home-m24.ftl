@@ -60,6 +60,7 @@ m24-home-our-mission-is = Αποστολή μας είναι να καταστή
 # Used as an accessible text alternative for an image
 m24-home-alt-solo-ai-logo = Λογότυπο { -brand-name-solo-ai }
 m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Δημιουργήστε τον ιστότοπό σας και συνδέστε δωρεάν τον δικό σας προσαρμοσμένο τομέα
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
