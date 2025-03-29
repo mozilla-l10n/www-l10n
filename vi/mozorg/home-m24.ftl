@@ -57,6 +57,10 @@ m24-home-read-more = Đọc thêm
 m24-home-get-started = Bắt đầu
 m24-home-join-the-movement = Tham gia phong trào:<br> AI vì con người
 m24-home-our-mission-is = Sứ mệnh của chúng tôi là giúp mọi người dễ dàng xây dựng và cộng tác trên AI nguồn mở, đáng tin cậy.
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = Logo { -brand-name-solo-ai }
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Tạo trang web của bạn và kết nối tên miền tùy chỉnh của bạn miễn phí
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
