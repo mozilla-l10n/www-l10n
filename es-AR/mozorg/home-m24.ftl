@@ -60,7 +60,7 @@ m24-home-our-mission-is = Nuestra misión es facilitar a las personas la creaci�
 # Used as an accessible text alternative for an image
 m24-home-alt-solo-ai-logo = Logotipo de { -brand-name-solo-ai }
 m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Crea tu sitio web y conecta tu dominio personalizado gratis
+m24-home-create-your-website = Creá tu sitio web y conectá tu dominio personalizado gratis
 m24-home-alt-builders = Constructores
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders

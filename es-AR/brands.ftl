@@ -115,7 +115,7 @@
 -brand-name-glean = Glean
 -brand-name-irl-podcast = Podcast IRL
 -brand-name-llamafile = Llamafile
--brand-name-solo-ai = IA sola
+-brand-name-solo-ai = Solo AI
 -brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
