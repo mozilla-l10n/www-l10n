@@ -57,6 +57,10 @@ m24-home-read-more = Leger plus
 m24-home-get-started = Comenciar
 m24-home-join-the-movement = Inscribe te al movimento:<br> IA pro le personas
 m24-home-our-mission-is = Nostre mission es de render facile pro le personas construer con, e collaborar sur le IA digne de fide e open-source.
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = Logo de { -brand-name-solo-ai }
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Crea tu sito web e connecte lo a tu dominio personal gratuitemente.
 m24-home-alt-builders = Constructores
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = Constructores de { -brand-name-mozilla }
