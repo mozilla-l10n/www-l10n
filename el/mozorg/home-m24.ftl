@@ -57,6 +57,9 @@ m24-home-read-more = Διαβάστε περισσότερα
 m24-home-get-started = Έναρξη
 m24-home-join-the-movement = Συμμετέχετε στο κίνημα:<br> ΤΝ για τους ανθρώπους
 m24-home-our-mission-is = Αποστολή μας είναι να καταστήσουμε εύκολη για τους ανθρώπους την ανάπτυξη και τη συνεργασία με μια αξιόπιστη τεχνητή νοημοσύνη ανοικτού κώδικα.
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = Λογότυπο { -brand-name-solo-ai }
+m24-home-solo-ai = { -brand-name-solo-ai }
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
