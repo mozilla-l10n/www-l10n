@@ -60,7 +60,7 @@ m24-home-our-mission-is = Naším posláním je usnadnit lidem tvorbu a spolupr�
 # Used as an accessible text alternative for an image
 m24-home-alt-solo-ai-logo = Logo { -brand-name-solo-ai }
 m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Vytvořte si webové stránky a připojte se k nim zcela zdarma
+m24-home-create-your-website = Vytvořte si webové stránky a připojte si vlastní doménu zdarma
 m24-home-alt-builders = Tvůrci
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
