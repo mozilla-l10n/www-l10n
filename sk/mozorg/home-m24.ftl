@@ -57,6 +57,10 @@ m24-home-read-more = Prečítajte si viac
 m24-home-get-started = Začíname
 m24-home-join-the-movement = Pripojte sa k hnutiu:<br> AI pre ľudí
 m24-home-our-mission-is = Naším poslaním je uľahčiť ľuďom budovanie a spoluprácu na dôveryhodnej AI s otvoreným zdrojom.
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = Logo { -brand-name-solo-ai }
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Vytvorte si webovú stránku a pripojte ju k svojej vlastnej doméne zadarmo
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders

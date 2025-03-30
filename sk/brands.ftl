@@ -441,6 +441,7 @@
 -brand-name-glean = Glean
 -brand-name-irl-podcast = IRL podcast
 -brand-name-llamafile = Llamafile
+-brand-name-solo-ai = Solo AI
 -brand-name-lumigator = Lumigátor
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = Webová dokumentácia MDN
