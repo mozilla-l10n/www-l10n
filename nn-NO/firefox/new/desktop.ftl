@@ -20,6 +20,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Ein endå nyare { -brand-name-firefox } er tilgjengeleg. <a { $update_url }>Oppdater til siste versjon</a>
 firefox-desktop-download-get-the-browser = Få nettlesaren som tek vare på det som er viktig
+firefox-desktop-download-fast-reliable-private = Rask, påliteleg og privat — for sinnsro på nettet.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Ingen lyssky personvernreglar eller bakdører for annonsørar. Berre ein lynrask nettlesar som ikkje sel dataa dine.
 firefox-desktop-download-download-options = Nedlastingsalternativ og andre språk

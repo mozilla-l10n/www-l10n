@@ -60,3 +60,7 @@ download-button-linux-64-v2 = Last ned Linux 64-bit
 download-button-using-debian = Brukar du Debian, Ubuntu eller ein Debian-basert distribusjon?<br> Då kan du konfigurere <a { $attrs }>APT-arkivet vårt i staden</a>.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Last ned frå Microsoft
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = Del korleis du oppdaga { -brand-name-firefox } og at du bruker han med { -brand-name-mozilla }s marknadsføringsteknologipartnarar. Desse dataa blir aldri selde eller brukte til å vise deg annonsar. <a { $attrs }>Finn ut korleis vi bruker dataa</a>.

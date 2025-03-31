@@ -51,6 +51,7 @@ manifesto-we-are-committed-to-thinking = Vi står for eit internett som fremmar 
 manifesto-we-are-committed-to-diverse = Vi står for eit internett som fremmar samarbeid mellom ulike grupper, som arbeider for det felles beste.
 manifesto-show-your-support = Vis støtta di
 manifesto-an-internet-with-these = Eit internett med desse eigenskapane kjem ikkje av seg sjølv. Menneske og organisasjonar må integrere desse måla i både internetteknologien og brukaropplevinga på nettet. { -brand-name-mozilla }-manifestet og dess tilføyingar står for { -brand-name-mozilla }s engasjement for desse måla. Vi vil jobbe med mennesker og organisasjonar rundt om i verda som deler desse måla og vil bidra til eit betre internett for alle.
+manifesto-i-support-the-vision-of-v2 = Eg støttar visjonen om ein betre, sunnare internett frå { -brand-name-mozilla }, vil du bli med meg?
 # obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Eg støtter visjonen frå @mozilla om eit betre, sunnare internett, vil du vere med?
 manifesto-share-on-bluesky = Del på Bluesky
