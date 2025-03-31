@@ -9,6 +9,7 @@
 firefox-products-mozilla-products = ຜະລິດຕະພັນຂອງ { -brand-name-mozilla }
 firefox-products-products = ຜະລິດຕະພັນ
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } ແມ່ນພຽງແຕ່ການເລີ່ມຕົ້ນ.
+firefox-products-mozillas-family-of-products-sentence = ຜະລິດຕະພັນໃນຄອບຄົວຂອງ { -brand-name-mozilla } ລ້ວນແຕ່ຖືກອອກແບບເພື່ອໃຫ້ທ່ານປອດໄພ ແລະ ສະຫຼາດກວ່າອອນລາຍ.
 
 ## Firefox
 
