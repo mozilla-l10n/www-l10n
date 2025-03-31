@@ -16,6 +16,7 @@ vpn-download-button-copy = Last ned
 vpn-download-for-windows-v2 = VPN for { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (berre 64-bit)
 vpn-download-for-windows-long = Last ned { -brand-name-mozilla-vpn } for { -brand-name-windows }
+vpn-download-for-firefox-extension = Installer { -brand-name-firefox }-utviding
 vpn-download-for-mac = VPN for { -brand-name-mac-short }
 vpn-download-for-mac-long = Last ned { -brand-name-mozilla-vpn } for { -brand-name-mac-short }
 # Variables:
@@ -41,3 +42,4 @@ vpn-download-also-available = Også tilgjengeleg for:
 #   $attrs (string) - specific attributes added to external links
 vpn-download-from-the-maker = Frå produsenten av { -brand-name-firefox }, brukar { -brand-name-mozilla-vpn } den avanserte <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®-protokollen for å kryptere nettaktiviteten din og skjule posisjonen din.
 vpn-download-we-never-log = Vi loggar, sporar eller deler aldri nettverksdataa dine.
+vpn-download-previous-versions = Last ned tidlegare versonar for { -brand-name-windows } og { -brand-name-mac-short }

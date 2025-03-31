@@ -6,9 +6,11 @@
 ### URL: https://www-dev.allizom.org/products/vpn/features/
 
 vpn-features-page-title = Funksjonar - { -brand-name-mozilla-vpn }
+vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 # Line break for visual format only
 vpn-features-features-that-protect = Funksjonar som vernar <br> livet ditt på nettet
+vpn-features-convenient = Praktisk
 # Variables
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
@@ -17,6 +19,15 @@ vpn-features-more-than =
         [one] Fleire enn { $servers } server i { $countries }+ land
        *[other] Fleire enn { $servers } serverar i { $countries }+ land
     }
+vpn-features-see-our-list = Sjå lista vår over serverar
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-features-connect-up-to =
+    { $devices ->
+        [one] Kople til opptil { $devices } eining
+       *[other] Kople til opptil { $devices } einingar
+    }
+vpn-features-supported-platforms = Støtta på Windows, macOS, Android, iOS og Linux operativsystem.
 vpn-features-no-bandwidth = Ingen bandbreidde- eller eller førespurnadsavgrensingar
 vpn-features-fast-network = Raske nettverkshastigheiter sjølv medan du speler
 vpn-features-secure = Trygg
