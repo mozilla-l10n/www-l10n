@@ -57,6 +57,10 @@ m24-home-read-more = Mear ynfo
 m24-home-get-started = Begjinne
 m24-home-join-the-movement = Doch mei oan de beweging:<br> AI foar de minsken
 m24-home-our-mission-is = Us misje is om it maklik te meitsjen foar minsken om te bouwen mei, en gear te wurkjen oan, iepenboarne, betroubere AI.
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = { -brand-name-solo-ai }-logo
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Meitsje jo website en keppelje fergees jo oanpaste domein.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
