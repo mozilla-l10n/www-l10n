@@ -115,6 +115,7 @@
 -brand-name-glean = Glean
 -brand-name-irl-podcast = IRL Podcast
 -brand-name-llamafile = Llamafile
+-brand-name-solo-ai = Зеҳни сунъии «Solo AI»
 -brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = Ҳуҷҷатҳои интернетии «MDN»
