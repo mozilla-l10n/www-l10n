@@ -60,7 +60,7 @@ m24-home-our-mission-is = Küldetésünk, hogy megkönnyítsük az emberek szám
 # Used as an accessible text alternative for an image
 m24-home-alt-solo-ai-logo = { -brand-name-solo-ai } logó
 m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Hozza létre ingyen weboldalát és kapcsolja össze egyéni domainjét
+m24-home-create-your-website = Ingyenesen hozza létre a weboldalát, és kapcsolja össze az egyéni domainjével
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
