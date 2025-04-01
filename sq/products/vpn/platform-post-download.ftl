@@ -36,6 +36,9 @@ vpn-login-or-signup = 3. Hyni ose regjistrohuni
 vpn-enter-your-email = Jepni adresën tuaj email, që të bëni hyrjen, ose të regjistroheni dhe t’ia filloni
 vpn-turn-on-vpn = 4. Aktivizoni VPN-në
 vpn-pick-a-recommended = Zgjidhni një vendndodhje të rekomanduar, për lidhje të shpejtë, të qëndrueshme, ose zgjidhni dorazi vendndodhjen që dëshironi, mandej kalojeni çelësin si ON
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = Që të ujdisni përjashtime sipas sajtesh dhe për të zgjedhur vendndodhje të ndryshme për sajte të ndryshëm, <a href="{ $extension }">shkarkoni dhe instaloni zgjerimin</a>.
 
 ## FAQ Strings
 

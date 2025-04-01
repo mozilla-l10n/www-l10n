@@ -57,6 +57,10 @@ m24-home-read-more = Lexoni më tepër
 m24-home-get-started = Fillojani
 m24-home-join-the-movement = Bëhuni pjesë e lëvizjes:<br> IA për popullin
 m24-home-our-mission-is = Misioni ynë është ta bëjmë të lehtë për njerëzit të ndërtojnë me dhe të bashkëpunojnë në IA të besueshme, me burim të hapët.
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = Stemë { -brand-name-solo-ai }
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Krijoni sajtin tuaj dhe lidhni falas përkatësinë tuaj
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 # Used as an accessible text alternative for an image
