@@ -14,6 +14,8 @@ ui-watch-the-video = Widejo sej wobhladać
 ui-replay = Wospjetować
 ui-share = Dźělić
 ui-menu = Meni
+# Short for Table of Contents
+ui-contents = Wobsah
 ui-please-turn-on-javascript = Prošu zmóžńće JavaScript, zo byšće tutu stronu korektnje zwobraznił.
 ui-show-more = Wjace pokazać
 ui-show-less = Mjenje pokazać
