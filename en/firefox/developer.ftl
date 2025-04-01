@@ -2,9 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
@@ -86,21 +84,9 @@ firefox-developer-view-the-release = View the <a { $attrs }>release notes</a> (E
 firefox-developer-developer-tools-user = Developer Tools User Docs
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resources for Developers, by Developers
-firefox-developer-mdn-playground = Playground
-firefox-developer-mdn-write-test-and-share = Write, test and share your code. Your playground to learn and share your amazing work with the world.
-firefox-developer-mdn-blog = { -brand-name-mdn } Blog
-firefox-developer-mdn-unlock-the-world = Unlock the world of web development with the { -brand-name-mdn } Blog — your go-to hub for expert insights, latest web standards, and coding tips.
-firefox-developer-mdn-updates = Updates
-firefox-developer-mdn-the-web-doesnt-have = The web doesn’t have a changelog, but { -brand-name-mdn } can help. You can personalize and filter compatibility changes based on browsers or the tech category you are interested in whether that is JavaScript, CSS, etc.
-# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } References
-# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } is an open-source, collaborative project documenting web platform technologies, including CSS, HTML, JavaScript and web APIs.
-# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = { -brand-name-mdn } Curriculum
-# Obsolete string (expires 18-04-2025)
 firefox-developer-a-structured-guide = A structured guide to the essential skills and practices for being a successful front-end developer, along with recommended learning resources.
-# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
 firefox-developer-support-mdn-and = Support { -brand-name-mdn } and make it your own with collections, notifications, and playgrounds.
