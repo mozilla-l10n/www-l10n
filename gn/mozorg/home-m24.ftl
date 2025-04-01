@@ -47,6 +47,10 @@ m24-home-tag-event = Tembiaporã
 m24-home-read-more = Emoñe’ẽve
 m24-home-get-started = Eñepyrũ
 m24-home-join-the-movement = Ejuaju kóvare: IA opavavépe g̃uarã
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = { -brand-name-solo-ai } ra’ãnga’i
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Emoheñói ñanduti rogue ha eiporu hendatee voi viru’ỹetére
 m24-home-alt-builders = Apoharakuéra
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Apoharakuéra

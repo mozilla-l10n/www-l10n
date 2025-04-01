@@ -35,6 +35,7 @@ vpn-launch-the-app = 2. Emoñepyrũ tembiporu’i
 vpn-login-or-signup = 3. Emoñepyrũ tembiapo térã eñemboheraguapy
 vpn-enter-your-email = Ehai ne ñanduti veve kundaharape eñepyrũ hag̃ua tembiapo térã eñemboheraguapy ha eku’éma
 vpn-turn-on-vpn = 4. Emyandy VPN
+vpn-install-firefox-extension = 5. Emohenda jepysokue { -brand-name-firefox }-pe g̃uarã
 vpn-pick-a-recommended = Eiporavo tendatee jeroviaha jeike pya’erã ha hekopytáva térã eiporavo tendatee eipotáva nde poite rupive, upéi EMYANDY pe kytĩha
 
 ## FAQ Strings
