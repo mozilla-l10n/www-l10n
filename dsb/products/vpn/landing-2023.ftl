@@ -47,6 +47,7 @@ vpn-landing-fast-network-speeds-even-while = Wusoke malsnosći seśe, samo gaby 
 vpn-landing-no-logging-tracking-or-sharing = Seśowe daty se njeprotokolěruju, njeslěduju abo njeźěle
 vpn-landing-no-bandwidth-restrictions-or = Žedno wobgranicowanje šyrokosći pasma abo droslowanje
 vpn-landing-extra-security-whole-device = Pśidatna wěstota: šćit cełego rěda, routing multi-hop a wěcej
+vpn-landing-built-transparently = Transparentnje we wótwórjonem žrědle wuwity
 vpn-landing-see-all-features = Wšykne funkcije pokazaś
 vpn-landing-fram-a-brand-you-can-trust = Wót marki, kótarejž móžośo dowěriś
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } jo za wše wužytne internetne pśedewześe, kótarež wót lěta 1998 za strowy web wójujo.
