@@ -14,6 +14,8 @@ ui-watch-the-video = Pozrite si video
 ui-replay = Znova prehrať
 ui-share = Zdieľať
 ui-menu = Ponuka
+# Short for Table of Contents
+ui-contents = Obsah
 ui-please-turn-on-javascript = Pre správne zobrazenie tejto stránky si zapnite JavaScript, prosím.
 ui-show-more = Zobraziť viac
 ui-show-less = Zobraziť menej
