@@ -60,3 +60,7 @@ download-button-linux-64-v2 = ດາວໂຫລດສໍາລັບ Linux 64-b
 download-button-using-debian = ການ​ນໍາ​ໃຊ້ Debian, Ubuntu ຫຼື​ Debian-base distribution ໃດ​ຫນຶ່ງ?<br> ທ່ານ​ສາ​ມາດ​ຕັ້ງ <a { $attrs }> APT repository ຂອງ​ພວກ​ເຮົາ​ແທນ​ໄດ້</a>.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = ຮັບຈາກ Microsoft
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = ແບ່ງປັນວິທີທີ່ທ່ານຄົ້ນພົບ { -brand-name-firefox } ແລະ ທີ່ທ່ານໃຊ້ມັນກັບຄູ່ຮ່ວມງານດ້ານເຕັກໂນໂລຢີການຕະຫຼາດຂອງ { -brand-name-mozilla }. ຂໍ້ມູນນີ້ບໍ່ເຄີຍຖືກຂາຍ ຫຼື ໃຊ້ເພື່ອສະແດງໂຄສະນາໃຫ້ທ່ານເຫັນ. <a { $attrs }>ຮຽນຮູ້ວ່າພວກເຮົາໃຊ້ຂໍ້ມູນແນວໃດ</a>.

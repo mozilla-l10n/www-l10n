@@ -56,3 +56,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = ທົດສອບ { -b
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = ທົດສອບ { -brand-name-firefox } ສຳລັບ { -brand-name-ios } ເວີຊັ່ນເບຕາ ຜ່ານໂປຣແກມ { -brand-name-test-flight } ຂອງ { -brand-name-apple }
 firefox-channel-sign-up-now = ລົງຊື່ເຂົ້າຮ່ວມຕອນນີ້
+firefox-channel-nightly-update-one-or-more-times = ໝາຍເຫດ: { -brand-name-firefox-nightly } ຈະອັບເດດປະມານໜຶ່ງເທື່ອ ຫຼື ສອງເທື່ອຕໍ່ມື້.
