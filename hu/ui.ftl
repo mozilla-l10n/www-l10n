@@ -14,6 +14,8 @@ ui-watch-the-video = Videó megtekintése
 ui-replay = Újra
 ui-share = Megosztás
 ui-menu = Menü
+# Short for Table of Contents
+ui-contents = Tartalom
 ui-please-turn-on-javascript = Kapcsolja be a JavaScriptet az oldal helyes megjelenítéséhez.
 ui-show-more = Több megjelenítése
 ui-show-less = Kevesebb megjelenítése

@@ -14,6 +14,8 @@ ui-watch-the-video = 观看视频
 ui-replay = 重播
 ui-share = 分享
 ui-menu = 菜单
+# Short for Table of Contents
+ui-contents = 内容
 ui-please-turn-on-javascript = 要正确显示此页面，请开启 JavaScript。
 ui-show-more = 显示更多
 ui-show-less = 显示更少
