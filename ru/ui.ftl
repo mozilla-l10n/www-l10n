@@ -15,7 +15,7 @@ ui-replay = Повторить
 ui-share = Поделиться
 ui-menu = Меню
 # Short for Table of Contents
-ui-contents = Содержимое
+ui-contents = Содержание
 ui-please-turn-on-javascript = Для корректного отображения этой страницы включите JavaScript.
 ui-show-more = Показать больше
 ui-show-less = Показать меньше
