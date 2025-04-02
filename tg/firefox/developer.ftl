@@ -27,6 +27,7 @@ firefox-developer-learn-more-about-newtork-monitor = Маълумоти бешт
 firefox-developer-storage-panel = Лавҳаи захирагоҳ
 firefox-developer-learn-more-about-storage = Маълумоти бештар дар бораи лавҳаи захирагоҳ
 firefox-developer-responsive-design-mode = Реҷаи тарҳрезии мувофиқшаванда
+firefox-developer-test-sites-emulated = Дар браузери худ сомонаҳоро ба воситаи дастгоҳҳои маҷозӣ бисанҷед.
 firefox-developer-learn-more-about-responsive = Маълумоти бештар дар бораи «Реҷаи тарҳрезии мувофиқшаванда»
 firefox-developer-visual-editing = Таҳрири дидорӣ
 firefox-developer-learn-more-about-visual-editing = Маълумоти бештар дар бораи таҳрири дидорӣ
@@ -54,6 +55,7 @@ firefox-developer-congrats-you-now-have-latest-v2 = Акнун шумо верс
 firefox-developer-developer-tools-user = Ҳуҷҷатҳои корбар оид ба абзорҳои барномасозӣ
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Манбаъҳо барои барномасозон ва аз ҷониби барномасозон
+firefox-developer-mdn-playground = Озмоишгоҳ
 firefox-developer-mdn-blog = Блоги «{ -brand-name-mdn }»
 firefox-developer-mdn-updates = Навигариҳо
 # Obsolete string (expires 18-04-2025)
