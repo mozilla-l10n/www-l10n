@@ -21,6 +21,8 @@ browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = ຊອກຫາຕົວທ່ອງເວັບມືຖືທີ່ມີການປັບປຸງ, ໄວທີ່ສຸດທີ່ມີຄຸນສົມບັດຄວາມເປັນສ່ວນຕົວລະດັບຕໍ່ໄປບໍ? { -brand-name-firefox-focus } ຈະລຶບປະຫວັດການທ່ອງເວັບທັງໝົດຂອງທ່ານໂດຍອັດຕະໂນມັດຕັ້ງແຕ່ເວລາທີ່ທ່ານເປີດບຼາວເຊີໄປຫາວິນາທີທີ່ທ່ານປິດມັນ.
 browsers-mobile-compare = ປຽບທຽບ
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = ເບິ່ງວິທີການ { -brand-name-firefox } ສໍາລັບ desktop stacks ເຖິງຕົວທ່ອງເວັບອື່ນໆ.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
+browsers-mobile-see-how-firefox-for-desktop-strong-v2 = ເບິ່ງວິທີທີ່ { -brand-name-firefox } ສໍາລັບ <strong>desktop</strong> ດິກວ່າບາວເຊີອື່ນແບບໃດແນ່.
 browsers-mobile-download = ດາວໂຫລດ
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }
