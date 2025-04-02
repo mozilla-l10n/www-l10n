@@ -14,6 +14,8 @@ ui-watch-the-video = Shiheni videon
 ui-replay = Riluaje
 ui-share = Përhapeni
 ui-menu = Menu
+# Short for Table of Contents
+ui-contents = Lëndë
 ui-please-turn-on-javascript = Ju lutemi, që kjo faqe të shfaqet si duhet, aktivizoni JavaScript-in.
 ui-show-more = Shfaq Më Tepër
 ui-show-less = Shfaq Më Pak

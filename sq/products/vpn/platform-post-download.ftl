@@ -35,6 +35,7 @@ vpn-launch-the-app = 2. Nisni aplikacionin
 vpn-login-or-signup = 3. Hyni ose regjistrohuni
 vpn-enter-your-email = Jepni adresën tuaj email, që të bëni hyrjen, ose të regjistroheni dhe t’ia filloni
 vpn-turn-on-vpn = 4. Aktivizoni VPN-në
+vpn-install-firefox-extension = 5. Instaloni Zgjerimin { -brand-name-firefox }
 vpn-pick-a-recommended = Zgjidhni një vendndodhje të rekomanduar, për lidhje të shpejtë, të qëndrueshme, ose zgjidhni dorazi vendndodhjen që dëshironi, mandej kalojeni çelësin si ON
 # Variables:
 #   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
