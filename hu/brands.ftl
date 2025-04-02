@@ -121,7 +121,27 @@
 ## Firefox browsers (short names)
 
 -brand-name-beta = Beta
--brand-name-developer-edition = Developer Edition
+-brand-name-developer-edition =
+    { $case ->
+        [accusative] Developer Editiont
+        [dative] Developer Editionnek
+        [genitive] Developer Editioné
+        [instrumental] Developer Editionnel
+        [causal] Developer Editionért
+        [translative] Developer Editionné
+        [terminative] Developer Editionig
+        [illative] Developer Editionbe
+        [adessive] Developer Editionnél
+        [ablative] Developer Editiontől
+        [elative] Developer Editionből
+        [allative] Developer Editionhöz
+        [sublative] Developer Editionre
+        [inessive] Developer Editionben
+        [superessive] Developer Editionön
+        [delative] Developer Editionről
+        [sociative] Developer Editionöstül
+       *[nominative] Developer Edition
+    }
 -brand-name-enterprise = Enterprise
 -brand-name-esr = ESR
 -brand-name-focus = Focus
