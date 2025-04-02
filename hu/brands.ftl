@@ -68,18 +68,50 @@
         [sociative] Firefoxostul
        *[nominative] Firefox
     }
--brand-name-firefox-beta = Firefox Beta
--brand-name-firefox-browser =
+-brand-name-firefox-beta =
     { $case ->
-        [acc] Firefox böngészőt
-       *[nom] Firefox böngésző
+        [accusative] Firefox Betát
+        [dative] Firefox Betának
+        [genitive] Firefox Betáé
+        [instrumental] Firefox Betával
+        [causal] Firefox Betáért
+        [translative] Firefox Betává
+        [terminative] Firefox Betáig
+        [illative] Firefox Betába
+        [adessive] Firefox Betánál
+        [ablative] Firefox Betától
+        [elative] Firefox Betából
+        [allative] Firefox Betához
+        [sublative] Firefox Betára
+        [inessive] Firefox Betában
+        [superessive] Firefox Betán
+        [delative] Firefox Betáról
+        [sociative] Firefox Betástul
+       *[nominative] Firefox Beta
     }
--brand-name-firefox-browsers =
+-brand-name-firefox-browser = Firefox böngésző
+-brand-name-firefox-browsers = Firefox böngészők
+-brand-name-firefox-developer-edition =
     { $case ->
-        [acc] Firefox böngészőket
-       *[nom] Firefox böngészők
+        [accusative] Firefox Developer Editiont
+        [dative] Firefox Developer Editionnek
+        [genitive] Firefox Developer Editioné
+        [instrumental] Firefox Developer Editionnel
+        [causal] Firefox Developer Editionért
+        [translative] Firefox Developer Editionné
+        [terminative] Firefox Developer Editionig
+        [illative] Firefox Developer Editionbe
+        [adessive] Firefox Developer Editionnél
+        [ablative] Firefox Developer Editiontől
+        [elative] Firefox Developer Editionből
+        [allative] Firefox Developer Editionhöz
+        [sublative] Firefox Developer Editionre
+        [inessive] Firefox Developer Editionben
+        [superessive] Firefox Developer Editionön
+        [delative] Firefox Developer Editionről
+        [sociative] Firefox Developer Editionöstül
+       *[nominative] Firefox Developer Edition
     }
--brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
 -brand-name-firefox-extended-support-release = Firefox kiterjesztett támogatású kiadás
