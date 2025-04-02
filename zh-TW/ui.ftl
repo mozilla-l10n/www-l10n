@@ -15,7 +15,7 @@ ui-replay = 重播
 ui-share = 分享
 ui-menu = 選單
 # Short for Table of Contents
-ui-contents = 內容
+ui-contents = 目錄
 ui-please-turn-on-javascript = 請開啟 JavaScript 以正確顯示此網頁。
 ui-show-more = 顯示更多
 ui-show-less = 顯示更少

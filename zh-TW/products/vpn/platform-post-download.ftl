@@ -39,7 +39,7 @@ vpn-install-firefox-extension = 5. 安裝 { -brand-name-firefox } 擴充套件
 vpn-pick-a-recommended = 請挑選推薦的位置以獲得快速、穩定的連線，也可以手動選擇想要的位置，然後開啟連線
 # Variables:
 #   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
-vpn-download-and-install = <a href="{ $extension }">下載安裝擴充套件</a>即可為不同網站設定排除項目並選擇在不同位置瀏覽。
+vpn-download-and-install = <a href="{ $extension }">下載安裝擴充套件</a>即可為單一網站設定排除，並選擇從不同地點連線。
 
 ## FAQ Strings
 
