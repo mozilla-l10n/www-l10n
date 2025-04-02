@@ -603,6 +603,7 @@
             }
     }
 -brand-name-llamafile = Llamafile
+-brand-name-solo-ai = Solo AI
 -brand-name-lumigator =
     { $case ->
         [gen] Lumigatora

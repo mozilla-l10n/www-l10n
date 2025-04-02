@@ -59,6 +59,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } nie je
 
 # Platform subpage shared strings
 
+vpn-shared-platform-privacy-promise = Twoja prywatność to nasza obietnica
+vpn-shared-platform-what-is = Czym jest { -brand-name-mozilla-vpn }?
+vpn-shared-platfrom-why-choose = Dlaczego { -brand-name-mozilla-vpn }?
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Informacje o sieciach VPN
