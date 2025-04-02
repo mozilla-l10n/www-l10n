@@ -14,6 +14,8 @@ ui-watch-the-video = De video bekijken
 ui-replay = Opnieuw afspelen
 ui-share = Delen
 ui-menu = Menu
+# Short for Table of Contents
+ui-contents = Inhoud
 ui-please-turn-on-javascript = Schakel JavaScript in om deze pagina goed weer te geven.
 ui-show-more = Meer tonen
 ui-show-less = Minder tonen
