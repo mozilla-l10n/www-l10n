@@ -10,3 +10,7 @@ compare-edge-firefox-vs-microsoft-edge = Муқоисаи браузери «{ -
 # HTML page description
 compare-edge-read-our-comparison = Муқоисаи моро байни браузерҳои «{ -brand-name-firefox }» ва «Edge» оид ба хусусиятҳо, махфият ва осонии истифода мутолиа намоед.
 compare-edge-we-block-trackers-by-default = Мо ҳар гуна васоити пайригиро ба таври пешфарз манъ мекунем. Браузери «Edge» онҳоро манъ намекунад.
+compare-edge-microsoft-has-to-make-their-shareholders = Ширкати бузурги «Microsoft» мехоҳад, ки саҳмдорони худро хушбахт кунад, аммо мо метавонем диққатамонро ба хушбахтии <strong>шумо</strong> равона намоем ва ҳамеша махфият ва роҳати шуморо дар ҷойи аввал гузорем.
+# Variables:
+# $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
+compare-edge-switching-to-firefox-is-easy = Гузариш ба браузери «{ -brand-name-firefox }» осон ва зуд аст - хатбаракҳои худ, ниҳонвожаҳои худ, таърихи худ ва хусусиятҳои худ аз браузери «Edge» бо пахш кардани як тугма ворид кунед ва барои оғози истифодаи браузери «{ -brand-name-firefox }» дарҳол омода бошед. Маълумоти бештар оид ба <a { $howto }>тарзи истифодаи тугмаи «Ворид кардан» барои иваз кардани танзимот ба браузери мо</a>.
