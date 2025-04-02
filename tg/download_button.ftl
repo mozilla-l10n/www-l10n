@@ -60,3 +60,7 @@ download-button-linux-64-v2 = Боргирӣ кардан барои «Linux» 6
 download-button-using-debian = Шумо аз низоми амалкунандаи «Debian», «Ubuntu» ё ягон низоми амалкунандаи дигар дар асоси «Debian» истифода мебаред?<br> Шумо метавонед ба ҷойи он <a { $attrs }>анбори «APT»-и моро </a> насб намоед.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Ба даст овардан аз «Microsoft»
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = Ба шарикони технологияи бозоршиносии «{ -brand-name-mozilla }» хабар диҳед, ки шумо чӣ тавр браузери «{ -brand-name-firefox }»-ро пайдо кардед ва онро истифода мебаред. Ин маълумот ҳеҷ вақт фурӯхта намешавад ё нисбат ба шумо барои нишон додани таблиғ истифода намешавад. <a { $attrs }>Бифаҳмед, ки мо маълумотро чӣ гуна истифода мебарем</a>.
