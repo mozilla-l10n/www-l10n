@@ -14,6 +14,8 @@ ui-watch-the-video = De fideo besjen
 ui-replay = Opnij ôfspylje
 ui-share = Diele
 ui-menu = Menu
+# Short for Table of Contents
+ui-contents = Ynhâld
 ui-please-turn-on-javascript = Skeakel JavaScript yn om dizze side goed wer te jaan.
 ui-show-more = Mear toane
 ui-show-less = Minder toane
