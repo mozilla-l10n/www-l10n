@@ -9,6 +9,7 @@
 # HTML page title
 
 browsers-chromebook-get-firefox-browser = Ба даст овардани «{ -brand-name-firefox-browser }» дар «{ -brand-name-chromebook }»
+browsers-chromebook-so-youve-got = Инак, шумо «{ -brand-name-chromebook }» доред — акнун вақти он расидааст, ки барои ҳифзи маълумоти шахсии худ шумо бояд браузери «{ -brand-name-firefox-browser }»-ро ба даст оред, зеро он мустақил ва ба таври худкор хусусӣ мебошад.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Ба даст овардани «{ -brand-name-firefox }» дар «{ -brand-name-android }»
 browsers-chromebook-get-firefox-desktop = Ба даст овардани версияи мизи кории «{ -brand-name-firefox }» дар «{ -brand-name-chromebook }»
 browsers-chromebook-x86-based-chromebook = *x86 дар асоси «{ -brand-name-chromebook }» дар зери идоракунии «{ -brand-name-chromeos }» бо версияи 80 ё навтар
