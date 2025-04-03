@@ -15,6 +15,7 @@ browsers-chromebook-x86-based-chromebook = *x86 дар асоси «{ -brand-nam
 browsers-chromebook-dropdown-copy = Ба даст овардани «{ -brand-name-firefox }» дар «{ -brand-name-chromebook }»
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Чаро ман бояд браузери <span>«{ -brand-name-firefox }»</span>-ро барои «{ -brand-name-chromebook }» ба даст орам?
+browsers-chromebook-while-a-chromebook = Агарчанде, ки дар «{ -brand-name-chromebook }» браузери «{ -brand-name-chrome }» аллакай насб шудааст, боргирӣ ва истифодаи браузери «{ -brand-name-firefox }» ҳамчун браузери асосӣ ба шумо чанд бартарӣ медиҳад:
 browsers-chromebook-is-it-hard = Оё насб кардани браузери «{ -brand-name-firefox }» барои «{ -brand-name-chromebook }» душвор аст?
 
 # Variables:
