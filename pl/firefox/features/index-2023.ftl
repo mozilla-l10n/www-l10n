@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 # HTML page title
-features-index-firefox-browser-features = Funkcje przeglądarki { -brand-name-firefox }
+features-index-firefox-browser-features = Możliwości przeglądarki { -brand-name-firefox }
 # HTML page description
 features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } to szybka, lekka i prywatna przeglądarka działająca na wszystkich Twoich urządzeniach.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } staje się coraz szybszy
