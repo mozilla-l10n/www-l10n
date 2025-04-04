@@ -35,7 +35,11 @@ vpn-launch-the-app = 2. Uygulamayı başlatın
 vpn-login-or-signup = 3. Giriş yapın veya kaydolun
 vpn-enter-your-email = Giriş yapmak veya kaydolup kullanmaya başlamak için e-posta adresinizi yazın
 vpn-turn-on-vpn = 4. VPN’i açın
+vpn-install-firefox-extension = 5. { -brand-name-firefox } uzantısını yükleyin
 vpn-pick-a-recommended = Hızlı ve güvenilir bir bağlantı için önerilen konumlardan birini seçin veya istediğiniz konumu elle seçip düğmeyi AÇIK konuma getirin
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = Sitelere özel istisnalar ayarlamak ve farklı siteler özel farklı konumlar seçmek için <a href="{ $extension }">uzantıyı indirip yükleyin</a>.
 
 ## FAQ Strings
 

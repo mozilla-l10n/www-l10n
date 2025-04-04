@@ -43,6 +43,9 @@ privacy-faq-v2-data-collection-bugs-me = Veri toplama beni hâlâ rahatsız ediy
 privacy-faq-v2-yes-user-control = Evet. Kontrolü kullanıcıya vermek, veri gizliliği ilkelerimizden biridir. { -brand-name-firefox }’ta gizlilik ayarlarını yönetmek isteyen herkes, ilgili tüm ayarları { -brand-name-firefox }’un <a { $privacy }>gizlilik ayarları sayfasında</a> bulabilir. Oradan <a { $data }>veri toplamayı devre dışı bırakabilirsiniz</a>.
 privacy-faq-v2-what-about-my-account = Peki ya hesap verilerim?
 privacy-faq-v2-we-are-big-believers = Mümkün olduğunca az veri toplamamız gerektiğine inanıyor, ihtiyacımız olmayan hiçbir bilgiyi sormuyoruz.
+# Variables:
+#   $attrs (url) - link to https://www.mozilla.org/account/
+privacy-faq-v2-you-dont-need-an-account = { -brand-name-firefox }’u kullanmak için hesap açmanız gerekmiyor. Cihazlar arasında verilerinizi eşitlemek için <a { $attrs }>hesap açmanız</a> gerekiyor ama o zaman da yalnızca e-posta adresinizi ve yaşınızı soruyoruz (çocuk olmadığınızdan emin olmak için).
 privacy-faq-v2-you-use-digital = Pazarlama faaliyetlerinizde dijital reklamcılığı da kullanıyorsunuz. Reklamlarınızı daha iyi hedeflemek için kullanıcılara ait veri satın alıyor musunuz?
 privacy-faq-v2-no-we-do-not-buy = Hayır, reklam hedefleme amacıyla kullanıcılara dair hiçbir veri satın almıyoruz.
 privacy-faq-v2-we-do-not-ask = Reklamla ilgili iş ortaklarımızdan; web sitelerinin ve yayıncıların ilk elden öğrenebildiği, kullandığınız tarayıcı ve cihaz gibi bilgileri kullanmasını istiyoruz.

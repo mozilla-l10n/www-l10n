@@ -57,6 +57,10 @@ m24-home-read-more = Devamını okuyun
 m24-home-get-started = Kullanmaya başlayın
 m24-home-join-the-movement = Harekete katılın:<br> İnsanlık için yapay zekâ
 m24-home-our-mission-is = Misyonumuz, açık kaynaklı ve güvenilir yapay zekâyla yeni şeyler inşa etmeyi ve yapay zekâ üzerinde birlikte çalışmayı kolaylaştıran bir ortam yaratmak.
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = { -brand-name-solo-ai } logosu
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Ücretsiz web sitenizi oluşturup kendi alan adınıza bağlayın
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
