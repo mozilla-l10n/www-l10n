@@ -29,6 +29,10 @@ privacy-faq-v2-wait-so-how = Peki nasıl para kazanıyorsunuz?
 #   $attrs (url) - link to https://stateof.mozilla.org
 privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } öteki şirketlere benzemez. 1998 yılında topluluk temelli bir açık kaynak projesi olarak kurulan { -brand-name-mozilla }, daha sağlıklı bir internet için çalışan, misyon odaklı bir kuruluştur. { -brand-name-mozilla-corporation }’ın gelirinin büyük kısmını { -brand-name-firefox } web tarayıcısının arama ortaklıkları ve dünya çapındaki dağıtım anlaşmaları aracılığıyla kazanılan gelirler oluşturur. Nasıl para kazandığımıza dair daha fazla bilgiyi <a { $attrs }>yıllık mali raporumuzda</a> bulabilirsiniz.
 privacy-faq-v2-softballs = Tamam, ilk birkaç soru kolaydı. Hangi verileri topluyorsunuz?
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
+privacy-faq-v2-mozilla-does-collect = { -brand-name-mozilla }, insanların { -brand-name-firefox }’u nasıl kullandığını anlayabilmemiz için varsayılan olarak sınırlı bir veri kümesi topluyor. Bununla ilgili daha fazla bilgiyi <a { $privacy }>gizlilik bildirimimizde</a> ve <a { $data }>veri toplamayla ilgili belgelerde</a> okuyabilirsiniz. Belgelerimiz herkese açık olduğu için söylediklerimizin doğruluğunu kontrol edebilir, neleri geliştirmemiz gerektiğini söyleyebilir ve hiçbir şeyi gizlemediğimizden emin olabilirsiniz.
 privacy-faq-v2-do-you-collect = { -brand-name-firefox }’un final öncesi sürümlerinde daha mı fazla veri topluyorsunuz?
 privacy-faq-v2-sort-of = Sayılır. Yukarıda açıklanan verilere ek olarak, { -brand-name-firefox }’un final öncesi sürümlerinde varsayılan olarak çökme ve hata raporlarını da topluyoruz.
 # Variables:
@@ -36,6 +40,9 @@ privacy-faq-v2-sort-of = Sayılır. Yukarıda açıklanan verilere ek olarak, { 
 privacy-faq-v2-we-may-also = Ayrıca geliştirme aşamasındaki sürümlerimizde <a { $attrs }>araştırmalarımız</a> için ek veriler de toplayabiliriz. Örneğin, bazı araştırmalar “gezinti verileri” dediğimiz, belirli web siteleriyle ilgili URL’leri ve başka bilgileri toplayabilir. Bu veriler, { -brand-name-firefox }’u geliştirmek amacıyla belirli soruları yanıtlamamıza (örneğin “Belli dillerdeki popüler siteleri nasıl daha iyi entegre edebiliriz?”) yardımcı olur.
 privacy-faq-v2-mozilla-pre-release = { -brand-name-mozilla } { -brand-name-firefox }’un final öncesi sürümleri, deneysel özelliklerle sık sık güncellenen geliştirme platformlarıdır. Bu deneysel özelliklerin düzgün çalışıp çalışmadığını anlamak için final öncesi sürümlerimizde final sürümlerimizden daha fazla veri topluyoruz. Bu verilerin toplanmasını tercihler menüsünden devre dışı bırakabilirsiniz.
 privacy-faq-v2-but-why-do-you = Neden veri topluyorsunuz ki?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
+privacy-faq-v2-if-we-dont-know = Tarayıcımızın nasıl performans gösterdiğini ve insanların hangi özellikleri kullandığını bilmezsek daha iyi bir tarayıcı geliştiremez, bizden beklediğiniz harika ürünleri sunamayız. Bu nedenle, ürünümüz hakkında akıllı kararlar almamızı sağlarken gizliliğinize de saygı gösteren veri toplama ve analiz araçları geliştirdik. Gizliliği koruyan bu teknolojilerden bazıları (örn. <a { $attrs }>OHTTP</a>) hakkında ayrıntılı bilgi alabilirsiniz.
 privacy-faq-v2-data-collection-bugs-me = Veri toplama beni hâlâ rahatsız ediyor. Kapatabilir miyim?
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
