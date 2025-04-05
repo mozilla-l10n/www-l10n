@@ -39,7 +39,7 @@ vpn-install-firefox-extension = 5. { -brand-name-firefox } uzantısını yükley
 vpn-pick-a-recommended = Hızlı ve güvenilir bir bağlantı için önerilen konumlardan birini seçin veya istediğiniz konumu elle seçip düğmeyi AÇIK konuma getirin
 # Variables:
 #   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
-vpn-download-and-install = Sitelere özel istisnalar ayarlamak ve farklı siteler özel farklı konumlar seçmek için <a href="{ $extension }">uzantıyı indirip yükleyin</a>.
+vpn-download-and-install = Sitelere özel istisnalar ayarlamak ve farklı sitelere özel farklı konumlar seçmek için <a href="{ $extension }">uzantıyı indirip yükleyin</a>.
 
 ## FAQ Strings
 
