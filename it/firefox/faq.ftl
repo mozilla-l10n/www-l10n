@@ -15,8 +15,6 @@ what-is-firefox = Che cos’è { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
-# Obsolete string (expires 25-04-2025)
-the-firefox-browser = Il { -brand-name-firefox-browser } è l’unico tra i principali browser a essere sostenuto da un’organizzazione senza fini di lucro che non vende i tuoi dati personali agli inserzionisti e ti aiuta allo stesso tempo a proteggere le tue informazioni personali. Scopri di più sui <a href="{ $url }">{ -brand-name-firefox-browsers(capitalization: "lowercase") }</a> e sugli <a href="{ $url2 }">altri prodotti.</a>
 the-firefox-browser-the-only = Il { -brand-name-firefox-browser }, l’unico tra i browser principali supportato da un’organizzazione senza fini di lucro, ti aiuta a proteggere le tue informazioni personali. Scopri di più sui <a href="{ $url }">{ -brand-name-firefox-browsers }</a> e su <a href="{ $url2 }">altri prodotti</a>.
 how-do-i = Come posso ottenere il { -brand-name-firefox-browser }?
 
@@ -29,8 +27,6 @@ how-do-i = Come posso ottenere il { -brand-name-firefox-browser }?
 
 you-can-easily = Puoi scaricare facilmente il browser { -brand-name-firefox } per desktop <a href="{ $url }">qui.</a> { -brand-name-firefox } funziona sui dispositivi <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> e <a href="{ $url4 }">{ -brand-name-linux }</a> ed è disponibile anche per <a href="{ $url5 }">{ -brand-name-android } e { -brand-name-ios }.</a> Assicurati di scaricare il browser da un sito affidabile di { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = { -brand-name-firefox } è gratuito?
-# Obsolete string (expires 25-04-2025)
-yep-the-firefox = Sì, il { -brand-name-firefox-browser } è assolutamente gratuito. Nessun costo nascosto o altro. Non paghi nulla per usarlo, in più hai la garanzia che non venderemo mai i tuoi dati personali.
 yep-the-firefox-browser-is-free = Sì, il { -brand-name-firefox-browser } è assolutamente gratuito. Nessun costo nascosto o altro. Non paghi nulla per usarlo.
 related-questions-free = Domande correlate: { -brand-name-firefox-browser } è gratis, { -brand-name-firefox } si paga
 is-chrome-better = { -brand-name-chrome } è migliore di { -brand-name-firefox }?
@@ -54,14 +50,10 @@ is-firefox-safe = { -brand-name-firefox } è sicuro?
 
 not-only-is = Non solo { -brand-name-firefox } offre una navigazione sicura, ma mantiene sicuri anche i tuoi dati e le tue informazioni private. Il { -brand-name-firefox-browser } blocca automaticamente elementi traccianti di terze parti, elementi traccianti dei social media, cryptominer e traccianti di fingerprinting . <a href="{ $url }">Ulteriori informazioni sulla privacy dei nostri prodotti.</a>
 related-questions-safe = Domande collegate: { -brand-name-firefox } serve per la privacy, { -brand-name-firefox } è sicuro, { -brand-name-firefox } è meglio per la privacy
-# Obsolete string (expires 25-04-2025)
-does-firefox-sell = { -brand-name-firefox } vende i tuoi dati personali?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
-# Obsolete string (expires 25-04-2025)
-nope-never-have = No. Non lo abbiamo mai fatto, e mai lo faremo. Anzi, ti proteggiamo dalla maggior parte degli inserzionisti che lo fanno. I prodotti { -brand-name-firefox } sono progettati per proteggere la tua privacy. <a href="{ $url }">È l’impegno che ci siamo presi con te.</a>
 why-is-firefox = Perché { -brand-name-firefox } è così lento?
 firefox-isnt-slow = { -brand-name-firefox } non è lento… almeno, non più. Nel 2017 abbiamo completamente riprogettato il motore del browser (chiamato Quantum), perché { -brand-name-firefox } fosse in grado di competere con gli altri maggiori browser sul mercato. In più, grazie all’antitracciamento, le pagine si caricano ancora più velocemente. Praticamente { -brand-name-firefox } offre una navigazione velocissima senza compromessi sulla tua privacy.
 is-firefox-chromium = { -brand-name-firefox } è basato su { -brand-name-chromium }?

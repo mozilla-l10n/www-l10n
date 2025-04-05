@@ -15,8 +15,6 @@ what-is-firefox = { -brand-name-firefox } ແມ່ນຫຍັງ?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
-# Obsolete string (expires 25-04-2025)
-the-firefox-browser = { -brand-name-firefox-browser } ເປັນບຣາວເຊີໃຫຍ່ອັນດຽວທີ່ສະໜັບສະໜູນໂດຍອົງການບໍ່ຫວັງຜົນກຳໄລທີ່ບໍ່ຂາຍຂໍ້ມູນສ່ວນຕົວຂອງເຈົ້າໃຫ້ກັບຜູ້ໂຄສະນາ ໃນຂະນະທີ່ຊ່ວຍເຈົ້າປົກປ້ອງຂໍ້ມູນສ່ວນຕົວຂອງເຈົ້າ. ສຶກສາເພີ່ມເຕີມກ່ຽວກັບ <a href="{ $url }">{ -brand-name-firefox-browsers } </a> ແລະ <a href="{ $url2 }">ຜະລິດຕະພັນອື່ນໆ.</a>
 how-do-i = ຂ້ອຍຈະເອົາ { -brand-name-firefox-browser } ໄດ້ແນວໃດ?
 
 # Variables:
@@ -28,8 +26,6 @@ how-do-i = ຂ້ອຍຈະເອົາ { -brand-name-firefox-browser } ໄດ
 
 you-can-easily = ທ່ານສາມາດດາວໂຫຼດ { -brand-name-firefox } desktop browser ໄດ້ຢ່າງງ່າຍດາຍ <a href="{ $url }">ທີ່ນີ້.</a> { -brand-name-firefox } ເຮັດວຽກຢູ່ໃນ <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> ແລະ <a href="{ $url4 }">{ -brand-name-linux } </a> ອຸປະກອນ, ແລະຍັງມີໃຫ້ສໍາລັບ <a href="{ $url5 }">{ -brand-name-android } ແລະ { -brand-name-ios } .</a> ໃຫ້ແນ່ໃຈວ່າທ່ານກໍາລັງດາວໂຫລດຕົວທ່ອງເວັບຂອງພວກເຮົາຈາກຫນຶ່ງໃນຫນ້າທີ່ເຊື່ອຖືໄດ້ຂອງພວກເຮົາ { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = { -brand-name-firefox } ແມ່ນບໍ່ເສຍຄ່າບໍ?
-# Obsolete string (expires 25-04-2025)
-yep-the-firefox = ແມ່ນແລ້ວ! { -brand-name-firefox-browser } ແມ່ນບໍ່ເສຍຄ່າ. Super ຟຣີ, ຕົວຈິງແລ້ວ. ບໍ່ມີຄ່າໃຊ້ຈ່າຍທີ່ເຊື່ອງໄວ້ຫຼືສິ່ງໃດ. ທ່ານບໍ່ໄດ້ຈ່າຍເງິນຫຍັງເພື່ອໃຊ້ມັນ, ແລະພວກເຮົາບໍ່ຂາຍຂໍ້ມູນສ່ວນຕົວຂອງເຈົ້າ.
 yep-the-firefox-browser-is-free = ແມ່ນແລ້ວ! { -brand-name-firefox-browser } ແມ່ນບໍ່ເສຍຄ່າ. Super ຟຣີແທ້ໆ. ບໍ່ມີຄ່າໃຊ້ຈ່າຍທີ່ເຊື່ອງໄວ້ ຫຼື ສິ່ງໃດ. ທ່ານບໍ່ໄດ້ຈ່າຍຄ່າຫຍັງເພື່ອໃຊ້ມັນ.
 related-questions-free = ຄໍາຖາມທີ່ກ່ຽວຂ້ອງ: ແມ່ນ { -brand-name-firefox-browser } ຟຣີ, ບໍ່ { -brand-name-firefox } ຄ່າໃຊ້ຈ່າຍເງິນ
 is-chrome-better = { -brand-name-chrome } ດີກວ່າ { -brand-name-firefox } ບໍ?
@@ -53,14 +49,10 @@ is-firefox-safe = { -brand-name-firefox } ປອດໄພບໍ?
 
 not-only-is = ບໍ່ພຽງແຕ່ { -brand-name-firefox } ປອດໄພທີ່ຈະໃຊ້, ມັນຍັງຊ່ວຍຮັກສາຂໍ້ມູນ ແລະຂໍ້ມູນສ່ວນຕົວຂອງທ່ານໃຫ້ປອດໄພ. { -brand-name-firefox-browser } ອັດຕະໂນມັດຈະບລັອກຕົວຕິດຕາມພາກສ່ວນທີສາມທີ່ຮູ້ຈັກ, ຕົວຕິດຕາມສື່ສັງຄົມ, cryptominers ແລະເຄື່ອງພິມລາຍນິ້ວມືຈາກການເກັບກຳຂໍ້ມູນຂອງທ່ານ. <a href="{ $url }">ສຶກສາເພີ່ມເຕີມກ່ຽວກັບຄວາມເປັນສ່ວນຕົວໃນຜະລິດຕະພັນຂອງພວກເຮົາ.</a>
 related-questions-safe = ຄໍາຖາມທີ່ກ່ຽວຂ້ອງ: ແມ່ນ { -brand-name-firefox } ທີ່ດີສໍາລັບຄວາມເປັນສ່ວນຕົວ, ແມ່ນ { -brand-name-firefox } ປອດໄພ, ແມ່ນ { -brand-name-firefox } ດີກວ່າສໍາລັບຄວາມເປັນສ່ວນຕົວ
-# Obsolete string (expires 25-04-2025)
-does-firefox-sell = { -brand-name-firefox } ຂາຍຂໍ້ມູນສ່ວນຕົວຂອງເຈົ້າບໍ?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
-# Obsolete string (expires 25-04-2025)
-nope-never-have = ບໍ່. ບໍ່ເຄີຍມີ, ບໍ່ເຄີຍຈະ. ແລະພວກເຮົາປົກປ້ອງທ່ານຈາກຜູ້ໂຄສະນາຫຼາຍຄົນທີ່ເຮັດ. ຜະລິດຕະພັນຂອງ { -brand-name-firefox } ຖືກອອກແບບເພື່ອປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງທ່ານ. <a href="{ $url }">ນັ້ນແມ່ນຄຳສັນຍາ.</a>
 why-is-firefox = ເປັນຫຍັງ { -brand-name-firefox } ຈຶ່ງຊ້າ?
 firefox-isnt-slow = { -brand-name-firefox } ບໍ່ຊ້າ… ດຽວນີ້. ໃນປີ 2017, ພວກເຮົາໄດ້ສ້າງເຄື່ອງຈັກບຣາວເຊີຂອງພວກເຮົາຄືນໃໝ່ທັງໝົດ (ເອີ້ນວ່າ Quantum), ເພື່ອຮັບປະກັນວ່າ { -brand-name-firefox } ສາມາດແຂ່ງຂັນກັບບຣາວເຊີໃຫຍ່ອື່ນໆໄດ້. ແລະ, ຕົວບລັອກຕົວຕິດຕາມຂອງພວກເຮົາຊ່ວຍໃຫ້ໜ້າເວັບໂຫລດໄວຂຶ້ນ. ດັ່ງນັ້ນ { -brand-name-firefox } ແມ່ນໄວຟ້າຜ່າໂດຍບໍ່ມີການເສຍສະຫຼະຄວາມເປັນສ່ວນຕົວຂອງທ່ານ.
 is-firefox-chromium = { -brand-name-firefox } { -brand-name-chromium } ແມ່ນອີງໃສ່ບໍ?

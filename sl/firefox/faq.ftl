@@ -13,8 +13,6 @@ what-is-firefox = Kaj je { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
-# Obsolete string (expires 25-04-2025)
-the-firefox-browser = { -brand-name-firefox-browser(zacetnica: "velika") } je edini večji brskalnik, za katerim stoji neprofitna organizacija, ki vaših osebnih podatkov ne prodaja oglaševalcem in vam pomaga ščititi svoje podatke. Preberite več o <a href="{ $url }">{ -brand-name-firefox-browsers(sklon: "mestnik") }</a> in o <a href="{ $url2 }">ostalih izdelkih</a>.
 how-do-i = Kako dobim { -brand-name-firefox-browser(sklon: "tozilnik") }?
 
 # Variables:
@@ -26,8 +24,6 @@ how-do-i = Kako dobim { -brand-name-firefox-browser(sklon: "tozilnik") }?
 
 you-can-easily = Brskalnik { -brand-name-firefox } za namizne računalnike lahko prenesete <a href="{ $url }">tukaj.</a> { -brand-name-firefox } deluje na napravah s sistemom <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> ali <a href="{ $url4 }">{ -brand-name-linux }</a>, na voljo pa je tudi za <a href="{ $url5 }">{ -brand-name-android } in { -brand-name-ios }.</a> Naš brskalnik vedno prenesite z ene od uradnih, zaupanja vrednih strani { -brand-name-mozilla(sklon: "rodilnik") } ali { -brand-name-firefox(sklon: "rodilnik") }.
 is-firefox-free = Je { -brand-name-firefox } brezplačen?
-# Obsolete string (expires 25-04-2025)
-yep-the-firefox = Je! { -brand-name-firefox-browser(zacetnica: "velika") } je brezplačen. Pravzaprav več kot brezplačen. Nobenih skritih računov. Za njegovo uporabo ne plačate nič in mi ne prodajamo vaših osebnih podatkov.
 related-questions-free = Povezana vprašanja: ali je { -brand-name-firefox-browser } brezplačen, ali { -brand-name-firefox } stane
 is-chrome-better = Je { -brand-name-chrome } boljši od { -brand-name-firefox }a?
 
@@ -49,14 +45,10 @@ is-firefox-safe = Je { -brand-name-firefox } varen?
 
 not-only-is = Ne le, da je { -brand-name-firefox } varen za uporabo, temveč ohranja varne tudi vaše zasebne podatke ohranja zasebne. { -brand-name-firefox-browser(zacetnica: "velika") } samodejno preprečuje znanim sledilcem tretjih strani, sledilcem družbenih omrežij, kriptorudarjem in sledilcem prstnih odtisov, da bi zbirali vaše podatke. <a href="{ $url }">Več o zasebnosti naših izdelkov.</a>
 related-questions-safe = Povezana vprašanja: ali je { -brand-name-firefox } dober za zasebnost, ali je { -brand-name-firefox } varen, ali je { -brand-name-firefox } boljši za zasebnost
-# Obsolete string (expires 25-04-2025)
-does-firefox-sell = Ali { -brand-name-firefox } prodaja osebne podatke uporabnikov?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
-# Obsolete string (expires 25-04-2025)
-nope-never-have = Ne. Nikoli nismo in nikoli ne bomo. In ščitimo vas pred množico oglaševalcev, ki to počnejo. Izdelki { -brand-name-firefox } so zasnovani, da ščitijo vašo zasebnost. <a href="{ $url }">To je naša obljuba.</a>
 why-is-firefox = Zakaj je { -brand-name-firefox } tako počasen?
 is-firefox-chromium = Ali { -brand-name-firefox } temelji na { -brand-name-chromium }u?
 firefox-is-not = { -brand-name-firefox } ne temelji na { -brand-name-chromium(sklon: "mestnik") } (odprtokodnem projektu, ki je jedro { -brand-name-google } { -brand-name-chrome(sklon: "rodilnik") }). Pravzaprav smo eden od zadnjih velikih brskalnikov, ki ne temelji na njem. { -brand-name-firefox }ov pogon je Quantum, ustvarjen posebej za { -brand-name-firefox }, zato lahko zagotovimo, da se z vašimi podatki ravna spoštljivo in varno.

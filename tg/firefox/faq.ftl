@@ -39,8 +39,6 @@ is-firefox-safe = Браузери «{ -brand-name-firefox }» бехатар а
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
-# Obsolete string (expires 25-04-2025)
-does-firefox-sell = Оё «{ -brand-name-firefox }» маълумоти шахсии шуморо мефурӯшад?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/

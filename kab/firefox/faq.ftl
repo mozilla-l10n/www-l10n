@@ -42,8 +42,6 @@ is-firefox-safe = { -brand-name-firefox } yettwaḍman?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
-# Obsolete string (expires 25-04-2025)
-does-firefox-sell = { -brand-name-firefox } isnuzuy isefka-inek·inem udmawanen?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/

@@ -15,8 +15,6 @@ what-is-firefox = Beth yw { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
-# Obsolete string (expires 25-04-2025)
-the-firefox-browser = Y porwr { -brand-name-firefox-browser } yw'r unig borwr mawr sy'n cael ei gefnogi gan gorff nid-er-elw sydd ddim yn gwerthu eich data personol i hysbysebwyr tra'n eich helpu i diogelu eich manylion personol. Rhagor am y <a href="{ $url }"> { -brand-name-firefox-browsers }</a> a <a href="{ $url2 }">chynnyrch eraill.</a>
 the-firefox-browser-the-only = Mae { -brand-name-firefox-browser }, yr unig borwr mawr sy'n cael ei gefnogi gan gorff dim-er-elw, yn eich helpu i ddiogelu eich manylion bersonol. Dysgwch fwy am y <a href="{ $url }">{ -brand-name-firefox-browsers }</a> a <a href="{ $url2 }">cynnyrch eraill.</a>
 how-do-i = Sut mae cael { -brand-name-firefox-browser }?
 
@@ -29,8 +27,6 @@ how-do-i = Sut mae cael { -brand-name-firefox-browser }?
 
 you-can-easily = Gallwch chi lwytho'r porwr bwrdd gwaith { -brand-name-firefox } i lawr yn hawdd <a href="{ $url }">yma.</a> Mae { -brand-name-firefox } yn gweithio ar <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short },</a> <a href="{ $url4 }">dyfeisiau { -brand-name-linux }</a> ac mae hefyd ar gael ar gyfer <a href="{ $url5 }">{ -brand-name-android } a { -brand-name-ios } . </a> Gwnewch yn siŵr eich bod chi'n llwytho ein porwr i lawr o un o'n tudalennau { -brand-name-mozilla }/{ -brand-name-firefox } dibynadwy.
 is-firefox-free = A yw { -brand-name-firefox } ar gael yn rhad ac am ddim?
-# Obsolete string (expires 25-04-2025)
-yep-the-firefox = Ydy! Mae { -brand-name-firefox-browser } ar gael yn rhad ac am ddim. Yn gwbwl rhad ac am ddim mewn gwirionedd. Dim costau cudd na dim. Fyddwch chi ddim yn talu i'w ddefnyddio, a fyddwn ni ddim yn gwerthu eich data personol.
 yep-the-firefox-browser-is-free = Ydy! Mae { -brand-name-firefox-browser } am ddim. Yn rhad iawn ac am ddim, mewn gwirionedd. Dim costau cudd nac unrhyw beth. Dydych chi ddim yn talu unrhyw beth i'w ddefnyddio.
 related-questions-free = Cwestiynau cysylltiedig: a yw { -brand-name-firefox-browser } yn rhad ac am ddim, oes rhaid i fi dalu am { -brand-name-firefox }
 is-chrome-better = A yw { -brand-name-chrome } yn well na { -brand-name-firefox }?
@@ -54,14 +50,10 @@ is-firefox-safe = A yw { -brand-name-firefox } yn ddiogel?
 
 not-only-is = Nid yn unig y mae { -brand-name-firefox } yn ddiogel i'w ddefnyddio, mae hefyd yn helpu i gadw'ch data a'ch manylion breifat yn ddiogel. Mae { -brand-name-firefox-browser } yn rhwystro tracwyr trydydd parti hysbys, tracwyr cyfryngau cymdeithasol, cryptogloddwyr a bysbrintwyr yn awtomatig rhag casglu eich data. <a href="{ $url }">Rhagor am breifatrwydd ein cynnyrch.</a>
 related-questions-safe = Cwestiynau cysylltiedig: a yw { -brand-name-firefox } yn dda am breifatrwydd, a yw { -brand-name-firefox } yn ddiogel, a yw { -brand-name-firefox } yn well am breifatrwydd
-# Obsolete string (expires 25-04-2025)
-does-firefox-sell = A yw { -brand-name-firefox } yn gwerthu eich data personol?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
-# Obsolete string (expires 25-04-2025)
-nope-never-have = Na. Byth wedi gwneud a byth am wneud. Ac rydym yn eich diogelu rhag llawer o'r hysbysebwyr sy'n gwneud hynny. Mae cynnyrch { -brand-name-firefox } wedi'u cynllunio i ddiogelu eich preifatrwydd. <a href="{ $url }">Dyna'n haddewid.</a>
 why-is-firefox = Pam mae { -brand-name-firefox } mor araf?
 firefox-isnt-slow = Nid yw { -brand-name-firefox } yn araf… nawr. Yn 2017, gwnaethom ailadeiladu ein peiriant porwr yn llwyr (ei enw yw Quantum), er mwyn sicrhau y gallai { -brand-name-firefox } gystadlu â phorwyr mawr eraill. Ac, mae ein rhwystrydd tracwyr yn helpu tudalennau i lwytho hyd yn oed yn gyflymach. Felly mae { -brand-name-firefox } yn chwim o gyflym heb aberthu dim o'ch preifatrwydd.
 is-firefox-chromium = A yw { -brand-name-firefox } wedi ei adeiladu ar { -brand-name-chromium }?

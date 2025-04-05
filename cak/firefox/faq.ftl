@@ -15,8 +15,6 @@ what-is-firefox = ¿Achike ri { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
-# Obsolete string (expires 25-04-2025)
-the-firefox-browser = Ri { -brand-name-firefox-browser } jun nimaläj okik'amaya'l to'on ruma jun moloj majun ch'akoj rojqan, ri man nuk'ayij ta ri taq atzij chi ke ri eltzijonel chuqa' yatruto' richin nachajij ri awetamab'al. Tawetamaj ch'aqa' chik chi rij ri <a href="{ $url }">{ -brand-name-firefox-browsers }</a> chuqa' <a href="{ $url2 }">ch'aqa' chik taq tikojil.</a>
 how-do-i = ¿Achi'el rub'eyal ninwïl ri { -brand-name-firefox-browser }?
 
 # Variables:
@@ -28,8 +26,6 @@ how-do-i = ¿Achi'el rub'eyal ninwïl ri { -brand-name-firefox-browser }?
 
 you-can-easily = Yatikïr naqasaj ri rokik'amaya'l ajch'atal { -brand-name-firefox } <a href="{ $url }">wawe'</a> { -brand-name-firefox } nisamäj pa taq okik'amaya'l <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> chuqa' <a href="{ $url4 }">{ -brand-name-linux }</a>, chuqa' richin <a href="{ $url5 }">{ -brand-name-android } chuqa' { -brand-name-ios }.</a> Tatz'eta' chi naqasaj ri qokik'amaya'l pa jun chi ke ri ruxaq qak'amaya'l ütz chi qawa { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = ¿La sipan ri { -brand-name-firefox }?
-# Obsolete string (expires 25-04-2025)
-yep-the-firefox = ¡Ja'! Sipan ri { -brand-name-firefox-browser }. Janila sipan. Majun ewan rajil, majun. Majun natöj richin nawokisaj, chuqa' man niqak'ayij ta ri taq atzij.
 related-questions-free = Taq k'utunïk kiximon ki': Sipan ri { -brand-name-firefox-browser }, k'o rajil ri { -brand-name-firefox }
 is-chrome-better = ¿La mas ütz ri { -brand-name-chrome } chuwäch ri { -brand-name-firefox }?
 no-we-dont = Manäq, man niqanimaj ta chi ri { -brand-name-chrome } ütz chuwa ri { -brand-name-firefox }, ruma re': toq ri winaqi' nikik'utuj achike okik'amaya'l yalan ütz, pa qitzij chi nik'utüx achike ri okik'amaya'l yalan anin chuqa' jikïl. { -brand-name-firefox } nuk'ëx ri' ik' ik' richin najikib'a' chi k'o ri anin okik'amaya'l awik'in, ri nukamelaj pa ruyonil ri ichinanem.
@@ -52,14 +48,10 @@ is-firefox-safe = ¿La jikïl ri { -brand-name-firefox }?
 
 not-only-is = Man xa xe ta jikïl richin nokisäx ri { -brand-name-firefox }, chuqa' yaruto' richin chi e jikïl ri taq atzij achi'el chuqa' ri taq awetamab'al. Ri { -brand-name-firefox-browser } ruyon yeruq'ät ri kojqanela' aj rox winäq ewtaman kiwa, kojqanela' kik'amab'ey winäq, ajkriptominer chuqa' ri tz'etöy retal ruwi' q'ab'aj richin man yemol ta ri taq atzij. <a href="{ $url }">Tawetamaj ch'aqa' etamab'äl chi rij ri kichinanem qatikojil.</a>
 related-questions-safe = Taq k'utunïk kiximon ki': { -brand-name-firefox } ütz richin ri ichinanem, jikïl ri { -brand-name-firefox }, ütz ri { -brand-name-firefox } richin ri ichinanem.
-# Obsolete string (expires 25-04-2025)
-does-firefox-sell = ¿La yeruk'ayij ri taq atzij ri { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
-# Obsolete string (expires 25-04-2025)
-nope-never-have = Majub'ey xinb'än, majub'ey xtinb'än. Chuqa' xkatqachajij chi kiwa ri eltzijonela' yeb'anon. Ri taq rutikojil { -brand-name-firefox } enuk'un richin richin nikichajij ri awichinanem. <a href="{ $url }">Ri jun ri niqasüj.</a>
 why-is-firefox = ¿Achike eqal nisamäj { -brand-name-firefox }?
 firefox-isnt-slow = { -brand-name-firefox } man eqal ta… wakami. Pa 2017, xqanük' chik ri ruk'wab'äl okik'amaya'l (Quantum rub'i') richin niqajikib'a' chi ri { -brand-name-firefox } nujunamaj ri' kik'in ch'aqa' chik nim'aq okik'amaya'l. Ri q'atöy qojqanela' yeruto' ri taq ruxaq richin anin yesamäj. Ruma ri' { -brand-name-firefox } yalan anin, akuchi' man nusüj ta ri awichinanem.
 is-firefox-chromium = ¿La k'o ruxe'el ri { -brand-name-firefox } rik'in ri { -brand-name-chromium }?

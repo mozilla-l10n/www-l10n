@@ -15,8 +15,6 @@ what-is-firefox = რა არის { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
-# Obsolete string (expires 25-04-2025)
-the-firefox-browser = { -brand-name-firefox-browser } ერთადერთი მოწინავე არამომგებიანი ბრაუზერია, რომელიც არ ყიდის თქვენს პირად მონაცემებს სარეკლამო კომპანიებზე და გეხმარებათ უსაფრთხოების დაცვაში. გაიცანით უკეთ <a href="{ $url }">{ -brand-name-firefox-browsers }</a> და <a href="{ $url2 }">სხვა პროდუქტები.</a>
 the-firefox-browser-the-only = { -brand-name-firefox-browser }, ერთადერთი ძირითადი ბრაუზერი არამომგებიანი დაწესებულებისგან, რომელიც გეხმარებათ პირადი მონაცემების დაცვაში. უკეთ გაეცანით <a href="{ $url }">{ -brand-name-firefox-browsers }</a> და <a href="{ $url2 }">სხვა პროდუქტები.</a>
 how-do-i = როგორ გადმოვწერო { -brand-name-firefox-browser }?
 
@@ -29,8 +27,6 @@ how-do-i = როგორ გადმოვწერო { -brand-name-firefox-
 
 you-can-easily = მარტივად შეგიძლიათ ჩამოტვირთოთ { -brand-name-firefox } კომპიუტერისთვის <a href="{ $url }">აქედან.</a> { -brand-name-firefox } მუშაობს <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> და <a href="{ $url4 }">{ -brand-name-linux }</a>-მოწყობილობებზე, აგრეთვე ხელმისაწვდომია <a href="{ $url5 }">{ -brand-name-android }-სა და { -brand-name-ios }-ზე.</a> გადაამოწმეთ, რომ ბრაუზერს ნამდვილად ჩვენი სანდო და უსაფრთხო { -brand-name-mozilla }/{ -brand-name-firefox }-გვერდებიდან იწერთ.
 is-firefox-free = { -brand-name-firefox } უფასოა?
-# Obsolete string (expires 25-04-2025)
-yep-the-firefox = დიახ! { -brand-name-firefox-browser } უფასოა. უუფასოესი. ყოველგვარი ფარული გადასახადების გარეშეა. არც გამოყენებისას არ იხდით არაფერს და არც თქვენი პირადი მონაცემების გაყიდვის ხარჯზე არ ვიღებთ შემოსავალს.
 yep-the-firefox-browser-is-free = დიახ! { -brand-name-firefox-browser } უფასოა. სრულად უფასო, ნამდვილად. არანაირი ფარული ხარჯები და მსგავსი რამ. არაფერი არ უნდა გაიღოთ მის გამოსაყენებლად.
 related-questions-free = მსგავსი კითხვები: არის { -brand-name-firefox-browser } უფასო, რა ღირს { -brand-name-firefox }
 is-chrome-better = { -brand-name-chrome } უკეთესია ვიდრე { -brand-name-firefox }?
@@ -54,14 +50,10 @@ is-firefox-safe = { -brand-name-firefox } უსაფრთხოა?
 
 not-only-is = { -brand-name-firefox } არათუ უსაფრთხოა გამოსაყენებლად, იგი ასევე იცავს თქვენს პირად მონაცემებს. { -brand-name-firefox-browser } თავადვე უზღუდავს ცნობილ მეთვალყურეებს, სოციალური ქსელების აღმრიცხავ, კრიპტოგამომმუშავებელ და მომხმარებლის ამომცნობ საშუალებებს თქვენ შესახებ ინფორმაციის შეგროვების შესაძლებლობას. <a href="{ $url }">გაეცანით ვრცლად პირადულობის დაცვას ჩვენს პროდუქტებში.</a>
 related-questions-safe = მსგავსი კითხვები: კარგად იცავს { -brand-name-firefox } პირად მონაცემებს, არის { -brand-name-firefox } დაცული, უმჯობესია { -brand-name-firefox } პირადულობაში
-# Obsolete string (expires 25-04-2025)
-does-firefox-sell = ყიდის { -brand-name-firefox } თქვენს პირად მონაცემებს?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
-# Obsolete string (expires 25-04-2025)
-nope-never-have = არა, არც აქამდე, არც მომავალში. პირიქით, ჩვენ გიცავთ სარეკლამოებისგან. { -brand-name-firefox } პროდუქტები შექმნილია პირადულობის უზრუნველსაყოფად. <a href="{ $url }">იხილეთ ჩვენი პირობა.</a>
 why-is-firefox = რატომაა { -brand-name-firefox } ნელი?
 firefox-isnt-slow = { -brand-name-firefox } აღარაა ნელი… უკვე. 2017 წელს ჩვენ ხელახლა შევქმენით ბრაუზერის ძრავა (სახელწოდებით Quantum), რომ { -brand-name-firefox } არ ჩამორჩენოდა სხვა ძირითად ბრაუზერებს. ამასთანავე, მეთვალყურეების შეზღუდვით გვერდები კიდევ უფრო სწრაფად იტვირთება. ასე რომ, { -brand-name-firefox } მსუბუქი და სწრაფია პირადი მონაცემების შეწირვის გარეშე.
 is-firefox-chromium = { -brand-name-firefox } დაფუძნებულია { -brand-name-chromium }-ზე?

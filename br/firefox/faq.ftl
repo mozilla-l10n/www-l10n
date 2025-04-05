@@ -37,8 +37,6 @@ is-firefox-safe = Ha diogel eo { -brand-name-firefox }?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
-# Obsolete string (expires 25-04-2025)
-does-firefox-sell = Daoust ha gwerzhañ a ra { -brand-name-firefox } ho roadennoù personel?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/

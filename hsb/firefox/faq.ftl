@@ -15,8 +15,6 @@ what-is-firefox = Što je { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
-# Obsolete string (expires 25-04-2025)
-the-firefox-browser = { -brand-name-firefox-browser } je jenički wulki wobhladowak, kotryž so přez powšitkownosći wužitnu organizaciju podpěruje, kotraž wabjerjam waše wosobinske daty njepředawa, a wam pomha, waše wosobinske informacije škitać. Zhońće wjace wo <a href="{ $url }">{ -brand-name-firefox-browsers }</a> a <a href="{ $url2 }">druhich produktach.</a>
 how-do-i = Kak móžu sej { -brand-name-firefox-browser } wobstarać?
 
 # Variables:
@@ -28,8 +26,6 @@ how-do-i = Kak móžu sej { -brand-name-firefox-browser } wobstarać?
 
 you-can-easily = Móžeće desktopowy wobhladowak { -brand-name-firefox } <a href="{ $url }">tu</a> lochko sćahnyć. { -brand-name-firefox } na gratach <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> a <a href="{ $url4 }">{ -brand-name-linux }</a> funguje, a je tež za <a href="{ $url5 }">{ -brand-name-android } a { -brand-name-ios } k dispoziciji.</a> Zawěsćće, zo naš wobhladowak wot jedneje z našich dowěry hódnych stronow { -brand-name-mozilla }/{ -brand-name-firefox } sćahujeće.
 is-firefox-free = Je { -brand-name-firefox } darmotny?
-# Obsolete string (expires 25-04-2025)
-yep-the-firefox = Haj! { -brand-name-firefox-browser } je darmotny. Samo wjace hač darmotny. Žane schowane košty abo tak. Njetrjebaće ničo płaćić, zo byšće jón wužiwał a my waše wosobinske daty njepředawamy.
 related-questions-free = Podobne prašenja: Je { -brand-name-firefox-browser } darmotny, płaći { -brand-name-firefox } pjenjezy
 is-chrome-better = Je { -brand-name-chrome } lěpši hač { -brand-name-firefox }?
 no-we-dont = Ně, njemyslimy sej, zo { -brand-name-chrome } je lěpši hač { -brand-name-firefox } a tole je přičina: Hdyž ludźo so prašeja, kotry wobhladowak je lěpši, prašeja so poprawom, kotry wobhladowak je spěšniši a wěsćiši. { -brand-name-firefox } so kóždy měsac aktualizuje, zo byšće zawěsćił, zo maće najspěšniši wobhladowak, kotryž wašu priwatnosć awtomatisce respektuje.
@@ -52,14 +48,10 @@ is-firefox-safe = Je { -brand-name-firefox } wěsty?
 
 not-only-is = { -brand-name-firefox } njeje jenož wěsće wužiwajomny, ale tež pomha, waše a priwatne informacije wěste dźeržeć. { -brand-name-firefox-browser } awtomatisce znate přesćěhowaki třećich poskićowarjow, přesćěhowaki  socialnych medijow, kryptokopaki a porstowe ćišće při hromadźenju datow haći. <a href="{ $url }">Zhońće wjace wo priwatnosći w našich produktach.</a>
 related-questions-safe = Podobne prašenja: Je { -brand-name-firefox } dobry za priwatnosć, je { -brand-name-firefox } wěsty, je { -brand-name-firefox } lěpši za priwatnosć
-# Obsolete string (expires 25-04-2025)
-does-firefox-sell = Předawa { -brand-name-firefox } waše wosobinske daty?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
-# Obsolete string (expires 25-04-2025)
-nope-never-have = Ně. Njeje to ženje činił a njebudźe to ženje činić. A my škitamy waš před wjele wabjerjemi, kotřiž to činja. Produkty { -brand-name-firefox } wašu priwatnosć škitaja. <a href="{ $url }">To je slub.</a>
 why-is-firefox = Čehodla je { -brand-name-firefox } tak pomały?
 firefox-isnt-slow = { -brand-name-firefox } pomały njeje … hižo nic. W lěće 2017 smy našu wobhlowakowu mašinu (z mjenom quantum) dospołnje přetwarili, zo bychmy zawěsćili, zo { -brand-name-firefox } móže z druhimi wulkimi wobhladowakami konkurować. A, naše blokowaki přesćěhowakow pomhaja, strony hišće spěšnišo začitać. { -brand-name-firefox } je tuž spěšny kaž błysk, bjez toho, zo by so waša priwatnosć wobškodźiła.
 is-firefox-chromium = Bazuje { -brand-name-firefox } na { -brand-name-chromium }?

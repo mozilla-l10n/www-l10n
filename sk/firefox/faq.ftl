@@ -15,8 +15,6 @@ what-is-firefox = Čo je { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
-# Obsolete string (expires 25-04-2025)
-the-firefox-browser = { -brand-name-firefox-browser } je jediný hlavný prehliadač podporovaný neziskovou organizáciou, ktorá nepredáva vaše osobné údaje inzerentom a zároveň vám pomáha chrániť vaše osobné údaje. Pozrite si ďalšie informácie o <a href="{ $url }">{ -brand-name-firefox-browsers(case: "loc", capitalization: "lower") }</a> a <a href="{ $url2 }">ďalších produktoch</a>.
 the-firefox-browser-the-only = { -brand-name-firefox-browser }, jediný hlavný prehliadač podporovaný neziskovou organizáciou, vám pomáha chrániť vaše osobné informácie. Pozrite si ďalšie informácie o <a href="{ $url }">{ -brand-name-firefox-browsers(case: "loc", capitalization: "lower") }</a> a <a href="{ $url2 }">ďalších produktoch</a>.
 how-do-i = Ako získam { -brand-name-firefox-browser(capitalization: "lower") }?
 
@@ -29,8 +27,6 @@ how-do-i = Ako získam { -brand-name-firefox-browser(capitalization: "lower") }?
 
 you-can-easily = Verziu prehliadača { -brand-name-firefox } pre počítač si môžete jednoducho stiahnuť <a href="{ $url }">tu</a>. { -brand-name-firefox } funguje na zariadeniach s operačným systémom <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> a <a href="{ $url4 }">{ -brand-name-linux }</a> a je takisto k dispozícii pre <a href="{ $url5 }">{ -brand-name-android } a { -brand-name-ios }</a>. Uistite sa, že prehliadač sťahujete z niektorej z našich dôveryhodných stránok { -brand-name-mozilla(case: "gen") }/{ -brand-name-firefox(case: "gen") }.
 is-firefox-free = Je { -brand-name-firefox } zadarmo?
-# Obsolete string (expires 25-04-2025)
-yep-the-firefox = Áno! { -brand-name-firefox-browser } je zadarmo. Vlastne úplne zadarmo. Žiadne skryté náklady ani nič podobné. Za jeho používanie nič neplatíte a vaše osobné údaje nepredávame.
 yep-the-firefox-browser-is-free = Áno! { -brand-name-firefox-browser } je zadarmo. Vlastne úplne zadarmo. Žiadne skryté náklady ani nič podobné. Za jeho používanie nič neplatíte.
 related-questions-free = Súvisiace otázky: je { -brand-name-firefox-browser(capitalization: "lower") } zadarmo, stojí { -brand-name-firefox } nejaké peniaze
 is-chrome-better = Je { -brand-name-chrome } lepší ako { -brand-name-firefox }?
@@ -54,14 +50,10 @@ is-firefox-safe = Je { -brand-name-firefox } bezpečný?
 
 not-only-is = Nielenže je používanie { -brand-name-firefox(case: "gen") } bezpečné, ale tiež pomáha udržiavať vaše údaje a súkromné informácie v bezpečí. { -brand-name-firefox-browser } automaticky blokuje známe sledovače tretích strán, sledovače sociálnych médií, ťažbu kryptomien a snímanie digitálnych odtlačkov, aby nezhromažďovali vaše údaje. <a href="{ $url }">Pozrite si ďalšie informácie o ochrane osobných údajov v našich produktoch.</a>
 related-questions-safe = Súvisiace otázky: je { -brand-name-firefox } dobrý pre súkromie, je { -brand-name-firefox } bezpečný, je { -brand-name-firefox } lepší na ochranu súkromia
-# Obsolete string (expires 25-04-2025)
-does-firefox-sell = Predáva { -brand-name-firefox } vaše osobné údaje?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
-# Obsolete string (expires 25-04-2025)
-nope-never-have = Nie. Nikdy sme to nespravili, nikdy tak nespravíme. A chránime vás pred mnohými inzerentmi, ktorí tak robia. Produkty { -brand-name-firefox(case: "gen") } sú navrhnuté tak, aby chránili vaše súkromie. <a href="{ $url }">To je náš prísľub.</a>
 why-is-firefox = Prečo je { -brand-name-firefox } taký pomalý?
 firefox-isnt-slow = { -brand-name-firefox } nie je pomalý… teraz. V roku 2017 sme kompletne prebudovali jadro prehliadača (nazývané Quantum), aby sme zaistili, že { -brand-name-firefox } môže konkurovať iným hlavným prehliadačom. A naše blokovače sledovania pomáhajú načítavať stránky ešte rýchlejšie. Takže { -brand-name-firefox } je bleskurýchly bez toho, aby obetoval čokoľvek z vášho súkromia.
 is-firefox-chromium = Je { -brand-name-firefox } založený na projekte { -brand-name-chromium }?

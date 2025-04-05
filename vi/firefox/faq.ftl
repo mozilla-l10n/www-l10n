@@ -15,8 +15,6 @@ what-is-firefox = { -brand-name-firefox } là gì?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
-# Obsolete string (expires 25-04-2025)
-the-firefox-browser = { -brand-name-firefox-browser } là trình duyệt chính duy nhất được hỗ trợ bởi tổ chức phi lợi nhuận, không bán dữ liệu cá nhân của bạn cho các nhà quảng cáo đồng thời giúp bạn bảo vệ thông tin cá nhân của mình. Tìm hiểu thêm về <a href="{ $url }">{ -brand-name-firefox-browsers }</a> và <a href="{ $url2 }">các sản phẩm khác.</a>
 the-firefox-browser-the-only = { -brand-name-firefox-browser }, trình duyệt lớn duy nhất được hỗ trợ bởi một tổ chức phi lợi nhuận, giúp bạn bảo vệ thông tin cá nhân của bạn. Tìm hiểu thêm về <a href="{ $url }">{ -brand-name-firefox-browsers }</a> và <a href="{ $url2 }">các sản phẩm khác.</a>
 how-do-i = Làm cách nào để tải xuống { -brand-name-firefox-browser }?
 
@@ -29,8 +27,6 @@ how-do-i = Làm cách nào để tải xuống { -brand-name-firefox-browser }?
 
 you-can-easily = Bạn có thể dễ dàng tải xuống trình duyệt { -brand-name-firefox } dành cho máy tính để bàn <a href="{ $url }">tại đây.</a> { -brand-name-firefox } hoạt động trên thiết bị <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> và <a href="{ $url4 }">{ -brand-name-linux }</a> và cũng có sẵn cho <a href="{ $url5 }">{ -brand-name-android } và { -brand-name-ios }.</a> Đảm bảo rằng bạn đang tải xuống trình duyệt của chúng tôi từ một trong các trang { -brand-name-mozilla }/{ -brand-name-firefox } đáng tin cậy của chúng tôi.
 is-firefox-free = { -brand-name-firefox } có miễn phí không?
-# Obsolete string (expires 25-04-2025)
-yep-the-firefox = Có! { -brand-name-firefox-browser } miễn phí. Thực ra là siêu miễn phí. Không có chi phí ẩn hoặc bất cứ điều gì. Bạn không phải trả bất kỳ khoản nào để sử dụng nó và chúng tôi không bán dữ liệu cá nhân của bạn.
 yep-the-firefox-browser-is-free = Yep! { -brand-name-firefox-browser } miễn phí. Vẫn miễn phí, thực sự đó. Không có chi phí ẩn hoặc bất cứ điều gì. Bạn không phải trả bất kỳ khoản tiền nào để sử dụng nó.
 related-questions-free = Câu hỏi liên quan: { -brand-name-firefox-browser } có miễn phí không, { -brand-name-firefox } có mất tiền không
 is-chrome-better = { -brand-name-chrome } có tốt hơn { -brand-name-firefox } không?
@@ -54,14 +50,10 @@ is-firefox-safe = { -brand-name-firefox } có an toàn không?
 
 not-only-is = { -brand-name-firefox } không chỉ an toàn khi sử dụng mà còn giúp giữ an toàn cho dữ liệu và thông tin cá nhân của bạn. { -brand-name-firefox-browser } tự động chặn các trình theo dõi bên thứ ba đã biết, trình theo dõi truyền thông xã hội, trình mã hóa và vân tay thu thập dữ liệu của bạn. <a href="{ $url }">Tìm hiểu thêm về quyền riêng tư trong các sản phẩm của chúng tôi.</a>
 related-questions-safe = Câu hỏi liên quan: { -brand-name-firefox } có xử lý tốt về quyền riêng tư không, { -brand-name-firefox } có an toàn không, { -brand-name-firefox } có tốt hơn cho quyền riêng tư không
-# Obsolete string (expires 25-04-2025)
-does-firefox-sell = { -brand-name-firefox } có bán dữ liệu cá nhân của bạn không?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
-# Obsolete string (expires 25-04-2025)
-nope-never-have = Không. Không bao giờ có, sẽ không bao giờ. Và chúng tôi bảo vệ bạn khỏi nhiều nhà quảng cáo làm như vậy. Các sản phẩm của { -brand-name-firefox } được thiết kế để bảo vệ quyền riêng tư của bạn. <a href="{ $url }">Đó là một lời hứa.</a>
 why-is-firefox = Tại sao { -brand-name-firefox } quá chậm?
 firefox-isnt-slow = { -brand-name-firefox } không chậm… bây giờ. Vào năm 2017, chúng tôi đã xây dựng lại hoàn toàn công cụ trình duyệt của mình (được gọi là Quantum), để đảm bảo { -brand-name-firefox } có thể cạnh tranh với các trình duyệt lớn khác. Và, trình chặn trình theo dõi của chúng tôi giúp các trang tải nhanh hơn. Vì vậy, { -brand-name-firefox } nhanh như chớp mà không làm mất bất kỳ quyền riêng tư nào của bạn.
 is-firefox-chromium = { -brand-name-firefox } có dựa trên { -brand-name-chromium } không?

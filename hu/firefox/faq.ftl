@@ -15,8 +15,6 @@ what-is-firefox = Mi a { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
-# Obsolete string (expires 25-04-2025)
-the-firefox-browser = A { -brand-name-firefox-browser } az egyetlen nagy böngésző, amit egy nonprofilt szervezet támogat, amelyik nem adja el a személyes adatait a hirdetőknek, miközben segít megvédeni a személyes adatait. Tudjon meg többet a <a href="{ $url }">{ -brand-name-firefox-browsers }kről</a> és a <a href="{ $url2 }">további termékekről.</a>
 the-firefox-browser-the-only = A { -brand-name-firefox-browser }, az egyetlen nagy böngésző, melyet egy nonprofit szervezet támogat, segít megvédeni személyes adatait. Tudjon meg többet a <a href="{ $url }">{ -brand-name-firefox-browsers }ről</a> és <a href="{ $url2 }">más termékekről</a>.
 how-do-i = Hogyan szerezhetem be a { -brand-name-firefox-browser }t?
 
@@ -29,8 +27,6 @@ how-do-i = Hogyan szerezhetem be a { -brand-name-firefox-browser }t?
 
 you-can-easily = <a href="{ $url }">Innen</a> könnyedén letöltheti az asztali { -brand-name-firefox } böngészőt. A { -brand-name-firefox } működik a <a href="{ $url2 }">{ -brand-name-windows }t,</a> <a href="{ $url3 }">{ -brand-name-mac-short }et</a> és <a href="{ $url4 }">{ -brand-name-linux }ot</a> futtató eszközökön, de elérhető <a href="{ $url5 }">{ -brand-name-android }ra és { -brand-name-ios }-re</a> is. Győződjön meg róla, hogy a { -brand-name-mozilla } / { -brand-name-firefox } egyik megbízható oldaláról tölti le.
 is-firefox-free = A { -brand-name-firefox } ingyenes?
-# Obsolete string (expires 25-04-2025)
-yep-the-firefox = Igen! A { -brand-name-firefox-browser } ingyenes. Teljesen ingyenes. Nincsenek rejtett költségek vagy egyebek. Nem fizet semmit a használatáért, és nem adjuk el a személyes adatait.
 yep-the-firefox-browser-is-free = Igen! A { -brand-name-firefox-browser } ingyenes. Teljesen ingyenes. Nincsenek rejtett költségek vagy egyebek. Nem fizet semmit a használatáért.
 related-questions-free = Kapcsolódó kérdések: a { -brand-name-firefox-browser } ingyenes, pénzbe kerül-e a { -brand-name-firefox }
 is-chrome-better = A { -brand-name-chrome } jobb, mint a { -brand-name-firefox }?
@@ -54,14 +50,10 @@ is-firefox-safe = A { -brand-name-firefox } biztonságos?
 
 not-only-is = A { -brand-name-firefox } nem csak biztonságosan használható, de biztonságban tartja az adatait és a privát információit. A { -brand-name-firefox-browser } automatikusan blokkolja az ismert harmadik féltől származó nyomkövetők, közösségimédia-követők, kriptobányászok és ujjlenyomat-készítők adatgyűjtését. <a href="{ $url }">Tudjon meg többet a termékeink adatvédelméről.</a>
 related-questions-safe = Kapcsolódó kérdések: a { -brand-name-firefox } jó-e az adatvédelem szempontjából; biztonságos-e a { -brand-name-firefox }; adatvédelmi szempontból jobb-e a { -brand-name-firefox }
-# Obsolete string (expires 25-04-2025)
-does-firefox-sell = A { -brand-name-firefox } eladja az Ön személyes adatait?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
-# Obsolete string (expires 25-04-2025)
-nope-never-have = Nem. Eddig sem, és ezután sem. És megvédjük Önt számos hirdetőtől, akik ezt tennék. A { -brand-name-firefox } termékek úgy lettek tervezve, hogy megvédjék a magánszféráját. <a href="{ $url }">Ez egy ígéret.</a>
 why-is-firefox = Miért ilyen lassú a { -brand-name-firefox }?
 firefox-isnt-slow = A Firefox nem lassú… már. 2017-ben teljesen átszabtuk a böngészőmotorunkat (ez lett a Quantum), hogy biztosítsuk azt, hogy a { -brand-name-firefox } versenyre kelhessen a többi nagy böngészővel. A nyomkövető-blokkolóink pedig segítenek az oldal gyorsabb betöltésében. Így a { -brand-name-firefox } villámgyors, anélkül hogy fel kellene áldoznia az adatvédelmet.
 is-firefox-chromium = A { -brand-name-firefox } { -brand-name-chromium }-alapú?

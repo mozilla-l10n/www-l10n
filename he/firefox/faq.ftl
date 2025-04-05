@@ -13,8 +13,6 @@ what-is-firefox = מהו { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
-# Obsolete string (expires 25-04-2025)
-the-firefox-browser = ה{ -brand-name-firefox-browser(case: "a") } הוא הדפדפן העיקרי היחיד שמגובה על־ידי ארגון ללא מטרות רווח שאינו מוכר את הנתונים האישיים שלך, ועוזר לך להגן על המידע האישי שלך. מידע נוסף על <a href="{ $url }">{ -brand-name-firefox-browsers(case: "the") }</a> או <a href="{ $url2 }">מוצרים אחרים</a>.
 how-do-i = איך אפשר לקבל את ה{ -brand-name-firefox-browser(case: "a") }?
 
 # Variables:
@@ -46,14 +44,10 @@ is-firefox-safe = האם { -brand-name-firefox } בטוח?
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
 related-questions-safe = שאלות קשורות: האם { -brand-name-firefox } טוב לפרטיות, האם { -brand-name-firefox } מאובטח, האם { -brand-name-firefox } טוב יותר לפרטיות
-# Obsolete string (expires 25-04-2025)
-does-firefox-sell = האם { -brand-name-firefox } מוכר את הנתונים האישיים שלך?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
-# Obsolete string (expires 25-04-2025)
-nope-never-have = לא. מעולם לא, ולעולם לא. ואנחנו מגנים עליך מפני גורמי פרסום שכן מוכרים. מוצרי { -brand-name-firefox } נועדו להגן על הפרטיות שלך. <a href="{ $url }">זו הבטחה.</a>
 why-is-firefox = למה { -brand-name-firefox } כל כך איטי?
 is-firefox-chromium = האם { -brand-name-firefox } מבוסס על { -brand-name-chromium }?
 does-firefox-use = האם { -brand-name-firefox } משתמש ב־{ -brand-name-google }?

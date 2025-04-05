@@ -15,8 +15,6 @@ what-is-firefox = Что такое { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
-# Obsolete string (expires 25-04-2025)
-the-firefox-browser = { -brand-name-firefox-browser(case: "nominative_uppercase") } — единственный популярный браузер, поддерживаемый некоммерческой организацией, которая не продаёт ваши данные рекламодателям, при этом помогая вам защищать свою личную информацию. Подробнее о <a href="{ $url }">{ -brand-name-firefox-browsers(case: "prepositional") }</a> и <a href="{ $url2 }">других продуктах</a>.
 the-firefox-browser-the-only = { -brand-name-firefox-browser(case: "nominative_uppercase") }, единственный крупный браузер, поддерживаемый некоммерческой организацией, помогает вам защищать вашу личную информацию. Узнайте больше о <a href="{ $url }">{ -brand-name-firefox-browsers(case: "prepositional") }</a> и <a href="{ $url2 }">других продуктах</a>.
 how-do-i = Как мне загрузить { -brand-name-firefox-browser }?
 
@@ -29,8 +27,6 @@ how-do-i = Как мне загрузить { -brand-name-firefox-browser }?
 
 you-can-easily = Вы легко можете загрузить компьютерный { -brand-name-firefox } <a href="{ $url }">здесь</a>. { -brand-name-firefox } работает на <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> и <a href="{ $url4 }">{ -brand-name-linux }</a>, а также доступен для <a href="{ $url5 }">{ -brand-name-android }- и { -brand-name-ios }-устройств</a>. Убедитесь, что вы загружаете наш браузер с одной из страниц { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = { -brand-name-firefox } бесплатен?
-# Obsolete string (expires 25-04-2025)
-yep-the-firefox = Да! { -brand-name-firefox-browser(case: "nominative_uppercase") } бесплатен. На самом деле. Никаких скрытых платежей или чего-то подобного. Вы не будете ничего платить за его использование, и мы не продаём ваши личные данные.
 yep-the-firefox-browser-is-free = Да! { -brand-name-firefox-browser(case: "nominative_uppercase") } бесплатен. На самом деле абсолютно бесплатен. Никаких скрытых платежей или чего-то подобного. Вы ничего не платите за его использование.
 related-questions-free = Связанные вопросы: бесплатен ли { -brand-name-firefox-browser }?; стоит ли { -brand-name-firefox } денег?
 is-chrome-better = { -brand-name-chrome } лучше, чем { -brand-name-firefox }?
@@ -54,14 +50,10 @@ is-firefox-safe = { -brand-name-firefox } безопасен?
 
 not-only-is = { -brand-name-firefox } не только безопасен в использовании, но также помогает защитить ваши данные и личную информацию. { -brand-name-firefox-browser(case: "nominative_uppercase") } автоматически блокирует известные сторонние трекеры, трекеры социальных сетей, криптомайнеры и сборщики цифровых отпечатков. <a href="{ $url }">Подробнее о приватности в наших продуктах</a>.
 related-questions-safe = Связанные вопросы: подходит ли { -brand-name-firefox } для защиты приватности?; безопасен ли { -brand-name-firefox }?; { -brand-name-firefox } лучше защищает мою приватность?
-# Obsolete string (expires 25-04-2025)
-does-firefox-sell = Продаёт ли { -brand-name-firefox } ваши личные данные?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
-# Obsolete string (expires 25-04-2025)
-nope-never-have = Нет. Никогда не продавал и никогда не будет. И мы защищаем вас от многих рекламодателей, которые это делают. Продукты { -brand-name-firefox } предназначены для защиты вашей приватности. <a href="{ $url }">Наше Обещание</a>.
 why-is-firefox = Почему { -brand-name-firefox } такой медленный?
 firefox-isnt-slow = { -brand-name-firefox } не медленный… сейчас. В 2017 году мы полностью переписали наш браузерный движок (назвав его Quantum), чтобы { -brand-name-firefox } мог конкурировать с другими популярными браузерами. А наши блокировщики трекеров помогают страницам загружаться ещё быстрее. Поэтому { -brand-name-firefox } работает молниеносно быстро без ущерба для вашей приватности.
 is-firefox-chromium = { -brand-name-firefox } основан на { -brand-name-chromium }?

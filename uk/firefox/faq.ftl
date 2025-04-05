@@ -15,8 +15,6 @@ what-is-firefox = Що таке { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
-# Obsolete string (expires 25-04-2025)
-the-firefox-browser = { -brand-name-firefox-browser } — єдиний основний браузер, який підтримується неприбутковою компанією, яка не продає ваші персональні дані рекламодавцям, одночасно допомагаючи вам захищати вашу особисту інформацію. Докладніше про <a href="{ $url }">{ -brand-name-firefox-browsers }</a> та <a href="{ $url2 }">інші продукти.</a>
 how-do-i = Як отримати { -brand-name-firefox-browser }?
 
 # Variables:
@@ -28,8 +26,6 @@ how-do-i = Як отримати { -brand-name-firefox-browser }?
 
 you-can-easily = Ви можете легко завантажити браузер { -brand-name-firefox } <a href="{ $url }">звідси.</a> { -brand-name-firefox } працює на пристроях з <a href="{ $url2 }">{ -brand-name-windows }, </a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> і <a href="{ $url4 }">{ -brand-name-linux }</a>, а також доступний для<a href="{ $url5 }">{ -brand-name-android } та { -brand-name-ios } . </a> Переконайтеся, що ви завантажуєте наш браузер з однієї з наших надійних сторінок { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = { -brand-name-firefox } безплатний?
-# Obsolete string (expires 25-04-2025)
-yep-the-firefox = Так! { -brand-name-firefox-browser } безплатний. Насправді супер безплатний. Ніяких прихованих витрат чи чогось іншого. Ви нічого не платите за користування ним, і ми не продаємо ваші персональні дані.
 related-questions-free = Пов’язані питання: { -brand-name-firefox-browser } безплатний, чи коштує { -brand-name-firefox } грошей
 is-chrome-better = Чи є { -brand-name-chrome } кращим за { -brand-name-firefox }?
 no-we-dont = Ні, ми не вважаємо, що { -brand-name-chrome } кращий за { -brand-name-firefox }, і ось чому: коли люди запитують, який браузер кращий, вони справді запитують, який браузер швидший і безпечніший. { -brand-name-firefox } оновлюється щомісяця, щоб бути певними, що у вас є найшвидший браузер, який автоматично поважає вашу приватність.
@@ -52,14 +48,10 @@ is-firefox-safe = Чи безпечний { -brand-name-firefox }?
 
 not-only-is = { -brand-name-firefox } не лише безпечний у користуванні, але також допомагає захистити ваші дані та особисті відомості. { -brand-name-firefox-browser } автоматично блокує збір ваших даних відомими сторонніми елементами стеження, елементами стеження соціальних мереж, криптомайнерами та зчитувачами цифрових відбитків. <a href="{ $url }">Докладніше про приватність у наших продуктах.</a>
 related-questions-safe = Пов’язані питання: чи { -brand-name-firefox } хороший для приватності, чи безпечний { -brand-name-firefox }, чи { -brand-name-firefox } кращий для приватності
-# Obsolete string (expires 25-04-2025)
-does-firefox-sell = Чи продає { -brand-name-firefox } ваші особисті дані?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
-# Obsolete string (expires 25-04-2025)
-nope-never-have = Ні. Ніколи не продавав і ніколи не буде. І ми захищаємо вас від багатьох рекламодавців, які це роблять. Продукти { -brand-name-firefox } призначено для захисту вашої приватності. <a href="{ $url }">Обіцяємо.</a>
 why-is-firefox = Чому { -brand-name-firefox } так повільний?
 firefox-isnt-slow = { -brand-name-firefox } не повільний… зараз. У 2017 році ми повністю перебудували наш рушій браузера (під назвою Quantum), щоб забезпечити конкурентність { -brand-name-firefox } з іншими основними браузерами. А наші блокатори елементів стеження допомагають сторінкам завантажуватися ще швидше. Тож { -brand-name-firefox } блискавично швидкий та водночас охороняє вашу приватність.
 is-firefox-chromium = Чи засновано { -brand-name-firefox } на { -brand-name-chromium }?

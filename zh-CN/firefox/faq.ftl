@@ -15,8 +15,6 @@ what-is-firefox = { -brand-name-firefox } 是什么？
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
-# Obsolete string (expires 25-04-2025)
-the-firefox-browser = { -brand-name-firefox-browser }是唯一一款由非营利组织支持，不会将您的个人数据买给广告商，还能保护您个人信息的主流浏览器。详细了解 <a href="{ $url }">{ -brand-name-firefox-browsers }</a>和<a href="{ $url2 }">其他产品</a>。
 the-firefox-browser-the-only = { -brand-name-firefox-browser }是唯一由非营利组织支持的主流浏览器，可帮助您保护个人信息。您可详细了解 <a href="{ $url }">{ -brand-name-firefox-browsers }</a>和<a href="{ $url2 }">其他产品</a>。
 how-do-i = 如何下载安装 { -brand-name-firefox-browser }？
 
@@ -29,8 +27,6 @@ how-do-i = 如何下载安装 { -brand-name-firefox-browser }？
 
 you-can-easily = 您可以<a href="{ $url }">在此</a>轻松下载到 { -brand-name-firefox } 桌面版浏览器。{ -brand-name-firefox } 在 <a href="{ $url2 }">{ -brand-name-windows }</a>、<a href="{ $url3 }">{ -brand-name-mac-short }</a> 及 <a href="{ $url4 }">{ -brand-name-linux }</a> 平台上皆可使用，并且也有 <a href="{ $url5 }">{ -brand-name-android } 及 { -brand-name-ios } 的对应版本</a>。下载前，请确保您是从可信的 { -brand-name-mozilla } / { -brand-name-firefox } 网站下载我们的浏览器。
 is-firefox-free = { -brand-name-firefox } 收费吗？
-# Obsolete string (expires 25-04-2025)
-yep-the-firefox = 不用，使用 { -brand-name-firefox-browser }是完全免费的！您无需支付任何费用，我们也不会出售您的个人数据。
 yep-the-firefox-browser-is-free = 不用，使用 { -brand-name-firefox-browser }是完全免费的！您无需支付任何费用。
 related-questions-free = 相关问题：{ -brand-name-firefox-browser }是否免费；{ -brand-name-firefox } 是否需要付费
 is-chrome-better = { -brand-name-chrome } 比 { -brand-name-firefox } 更好吗？
@@ -54,14 +50,10 @@ is-firefox-safe = { -brand-name-firefox } 是否安全？
 
 not-only-is = { -brand-name-firefox } 不仅用起来很安全，而且还有助于确保您的个人数据和私人信息的安全。{ -brand-name-firefox-browser }会自动拦截已知的第三方跟踪器、社交媒体跟踪器、加密货币挖矿程序、数字指纹跟踪程序收集您的数据。<a href="{ $url }">详细了解我们产品的隐私特性</a>
 related-questions-safe = 相关问题：{ -brand-name-firefox } 在隐私保护上做得是否好；{ -brand-name-firefox } 是否安全；{ -brand-name-firefox } 在隐私保护上是否做得更好
-# Obsolete string (expires 25-04-2025)
-does-firefox-sell = { -brand-name-firefox } 会卖掉您的个人数据吗？
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
-# Obsolete string (expires 25-04-2025)
-nope-never-have = 过去未发生过，未来更不会发生。我们会努力保护您，免受广告商的侵害。{ -brand-name-firefox } 产品旨在保护您的隐私，<a href="{ $url }">这是我们对您的承诺。</a>
 why-is-firefox = 为什么 { -brand-name-firefox } 这么慢？
 firefox-isnt-slow = { -brand-name-firefox } 现在并不慢。。我们在 2017 年重写了浏览器的引擎（称为 Quantum）以确保 { -brand-name-firefox } 能够与其他主流浏览器竞争。另外，我们的跟踪器拦截功能也能加快页面加载速度。所以 { -brand-name-firefox } 现在非常快，而且完全无须牺牲您的隐私。
 is-firefox-chromium = { -brand-name-firefox } 是否基于 { -brand-name-chromium }？

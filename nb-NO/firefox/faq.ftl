@@ -10,8 +10,6 @@
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
-# Obsolete string (expires 25-04-2025)
-the-firefox-browser = { -brand-name-firefox-browser } er den eneste store nettleseren som støttes av en ideell organisasjon som ikke selger dine personlige data til annonsører, samtidig som den hjelper deg med å beskytte din personlige informasjon. Les mer om <a href="{ $url }">{ -brand-name-firefox-browsers }</a> og <a href="{ $url2 }"> andre produkter.</a>
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
