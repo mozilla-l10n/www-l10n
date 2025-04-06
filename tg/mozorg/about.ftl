@@ -16,6 +16,7 @@ about-san-francisco = Сан-Франсиско
 about-berlin = Берлин
 about-toronto = Торонто
 about-work-at-mozilla = Кор дар «{ -brand-name-mozilla }»
+about-join-a-mission-driven-organization = Ба ташкилоте пайвастед, ки дорои рисолат мебошад ва маҳсулотро барои ҳал кардани масъалаҳои мубрам месозад.
 about-mozilla-careers = Мансабҳои озод дар «{ -brand-name-mozilla }»
 about-how-you-can-help = шумо чӣ тавр метавонед кумак кунед
 about-get-involved = Ҳамроҳ шавед

@@ -9,3 +9,6 @@ about-this-site-title = Дар бораи ин сомона
 about-this-site-like-many = Ин сомона ба мисли бисёре аз маҳсулоти мо, низ дар манбаи кушод асос меёбад:
 about-this-site-view-source = Дидани рамзи манбаъ дар «{ -brand-name-github }»
 about-this-site-report-a-bug = Фиристодани гузориш дар бораи хато
+about-this-site-contribute-to-code = Бо барномарезӣ саҳм гузоред
+about-this-site-contribute-to-l10n = Бо тарҷумаҳо саҳм гузоред
+about-this-site-read-the-docs = Хондани маҷмуи ҳуҷҷатҳо
