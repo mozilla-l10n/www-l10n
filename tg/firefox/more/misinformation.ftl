@@ -16,5 +16,6 @@ misinformation-how-firefox-helps-heading = Чӣ тавр «{ -brand-name-firefox
 misinformation-why-trust-firefox = Чаро «{ -brand-name-firefox }» боэътимод мебошад?
 misinformation-learn-more-about-our-mission = Маълумоти бештар дар бораи рисолати мо
 misinformation-your-privacy-by-the-product = Таъмини махфият дар маҳсулоти мо
+misinformation-firefox-products-work-differently = Маҳсулоти «{ -brand-name-firefox }» дигар хел кор мекунанд — зеро ки онҳо, пеш аз ҳама, барои ҳифз кардани махфияти шумо эҷод карда шудаанд.
 misinformation-learn-about-our-products = Дар бораи маҳсулоти мо маълумот гиред
 misinformation-designed-to-protect = Барои муҳофизат кардани махфияти шумо эҷод шудааст

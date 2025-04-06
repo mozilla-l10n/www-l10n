@@ -7,7 +7,10 @@
 
 # HTML page title
 welcome-page8-firefox-protects-your-privacy = Браузери «{ -brand-name-firefox }» махфияти шуморо ба таври худкор муҳофизат мекунад
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+welcome-page8-enhanced-tracking-protection = Муҳофизати такмилёфта аз пайгирӣ
 welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
+welcome-page8-go-to-monitor = Гузариш ба «{ -brand-name-monitor }»
 welcome-page8-firefox-send = { -brand-name-firefox-send }
 welcome-page8-facebook-container = { -brand-name-facebook-container }
 welcome-page8-add-facebook-container = Илова кардани «{ -brand-name-facebook-container }»

@@ -8,7 +8,9 @@
 # HTML page title
 set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = Ташаккур барои интихоб кардани «{ -brand-name-firefox }»
 set-as-default-thanks-success-your-default-browser = Муваффақият! Браузери стандартии шумо ба браузери «{ -brand-name-firefox }» гузошта шудааст.
+set-as-default-thanks-youre-all-set = Шумо ҳамаашро танзим кардед.
 set-as-default-thanks-get-firefox-for-mobile = Браузери «{ -brand-name-firefox }»-ро барои дастгоҳи мобилӣ ба даст оред
+set-as-default-thanks-travel-the-internet-with = Дар фазои Интернет бо муҳофизати боэътимод дар ҳамаи дастгоҳҳои худ кор кунед.
 set-as-default-thanks-download-the-app = Барномаро боргирӣ кунед
 set-as-default-create-an-account = Эҷод кардани ҳисоб
 set-as-default-thanks-sign-up-for-a-free-account-v2 = Барои ройгон гирифтани ҳисоби «{ -brand-name-mozilla-account }» сабти ном шавед ва ҳамаи ниҳонвожаҳо, таърихи тамошо ва хусусиятҳои браузер дар ҳамаи дастгоҳҳои худ ҳамоҳанг созед.
