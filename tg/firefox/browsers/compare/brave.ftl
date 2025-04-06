@@ -9,3 +9,6 @@
 compare-brave-firefox-vs-brave = Муқоисаи браузери «{ -brand-name-firefox }» бо «Brave»
 # HTML page description
 compare-brave-read-our-comparison = Муқоисаи моро байни браузерҳои «{ -brand-name-firefox }» ва «Brave» оид ба хусусиятҳо, махфият ва осонии истифода мутолиа намоед.
+# Variables:
+# $howto (url) - link to https://support.mozilla.org/kb/import-data-another-browser
+compare-brave-switching-to-firefox-is-easy = Гузариш ба браузери «{ -brand-name-firefox }» осон ва зуд аст - хатбаракҳои худ, ниҳонвожаҳои худ, таърихи худ ва хусусиятҳои худ аз браузери «Brave» бо пахш кардани як тугма ворид кунед ва барои оғози истифодаи браузери «{ -brand-name-firefox }» дарҳол омода бошед. Маълумоти бештар оид ба <a { $howto }>тарзи ворид кардани маълумоти худ аз браузери «Brave»</a>.

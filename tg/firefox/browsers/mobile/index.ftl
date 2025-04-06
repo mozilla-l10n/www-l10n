@@ -12,6 +12,7 @@ browsers-mobile-overview-of-all-mobile = Пешнамоиши ҳамаи бра�
 browsers-mobile-firefox-for-android = Браузери «{ -brand-name-firefox }» барои низоми «{ -brand-name-android }»
 browsers-mobile-firefox-for-ios = Браузери «{ -brand-name-firefox }» барои низоми «{ -brand-name-ios }»
 browsers-mobile-go-your-own-way = Ба воситаи браузери мобилии «{ -brand-name-firefox }» бо роҳи мустақил равед
+browsers-mobile-firefox-mobile-adapts-to-you = Версияи мобилии «{ -brand-name-firefox }» ба ниёзҳои шумо мутобиқ мешавад ва дидани ҳамаи варақаҳои кушодашудаи шумо, ҷустуҷӯҳои охирин ва сомонаҳои дӯстдоштаи шумо осонтар мекунад.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare = Муқоиса кардан
 browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Аз назар гузаронед, ки чӣ тавр браузери «{ -brand-name-firefox }» барои компютери мизи корӣ аз браузерҳои дигар фарқ мекунад.

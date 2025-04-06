@@ -41,6 +41,7 @@ vpn-landing-fast-network-speeds-even-while = Шабакаҳои баландсу
 vpn-landing-no-logging-tracking-or-sharing = Маълумоти интернетӣ дар шабака сабт, пайгирӣ ё мубодила карда намешавад
 vpn-landing-no-bandwidth-restrictions-or = Паҳнои пайвастшавӣ ё ҳаҷми интиқол маҳдуд карда намешавад
 vpn-landing-extra-security-whole-device = Амнияти иловагӣ: муҳофизати комили дастгоҳ, масиргирии чандқабата ва ғайра
+vpn-landing-built-transparently = Дар муҳити манбаи кушод бо кори бошарафона сохта шудааст
 vpn-landing-see-all-features = Ҳамаи ҳусусиятҳоро аз назар гузаронед
 vpn-landing-fram-a-brand-you-can-trust = Аз тамғаи молие, ки шумо ба он эътимод доред
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } — ташкилоти интернетии ғайритиҷоратиест, ки аз соли 1998 барои Интернети солим мубориза мебарад.
