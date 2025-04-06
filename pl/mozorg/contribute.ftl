@@ -16,6 +16,9 @@ contribute-page-intro = { -brand-name-mozilla } to organizacja non-profit, któr
 contribute-tag-non-technical = Nietechniczne
 contribute-tag-technical = Techniczne
 contribute-tag-technical-non-technical = Techniczne i nietechniczne
+contribute-tag-support = Wsparcie
+contribute-task-translate-heading = Tłumaczenie treści
+contribute-task-translate-desc = Internet jest globalny tylko wtedy, gdy jest rozumiany wszędzie. Pomóż nam przetłumaczyć produkty i strony internetowe { -brand-name-mozilla(case: "gen") } na Twój lokalny język.
 contribute-task-join-heading = Dołącz do społeczności
 
 ## Mission
