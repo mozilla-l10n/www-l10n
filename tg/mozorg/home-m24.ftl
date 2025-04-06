@@ -43,6 +43,14 @@ m24-home-read-more = Бештар хондан
 m24-home-get-started = Оғози кор
 m24-home-join-the-movement = Ба ҷомеаи мо ҳамроҳ шавед:<br> Зеҳни сунъӣ (AI) барои мардум
 # Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = Тамғаи «{ -brand-name-solo-ai }»
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Сомонаи худро эҷод кунед ва номи домени дилхоҳи худро ройгнон пайваст намоед.
+m24-home-alt-builders = Созандагон
+m24-home-alt-builders-v2 = { -brand-name-builders }
+m24-home-mozilla-builders = Созандагони «{ -brand-name-mozilla }»
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+# Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Ангораи «{ -brand-name-lumigator }».
 m24-home-lumigator = { -brand-name-lumigator }
 # Used as an accessible text alternative for an image
