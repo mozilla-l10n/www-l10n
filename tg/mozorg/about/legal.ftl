@@ -18,6 +18,8 @@ legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = Махфият ва тамғаҳои молӣ
 legal-privacy-notices-and-policy = Огоҳномаи махфият ва сиёсат
 legal-downloadable-software-notices = Огоҳномаҳои нармафзори боргиришаванда
+# heading for the table of contents, a shorter heading is better
+legal-firefox-contents = Мундариҷа
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = «{ -brand-name-firefox }»: Дар бораи ҳуқуқҳои шумо
 legal-thunderbird = { -brand-name-thunderbird }

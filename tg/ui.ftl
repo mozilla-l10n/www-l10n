@@ -14,6 +14,8 @@ ui-watch-the-video = Тамошо кардани видео
 ui-replay = Такрор кардан
 ui-share = Мубодила кардан
 ui-menu = Меню
+# Short for Table of Contents
+ui-contents = Мундариҷа
 ui-please-turn-on-javascript = Лутфан, «JavaScript»-ро фаъол созед, то ин саҳифа дуруст нишон дода шавад.
 ui-show-more = Бештар нишон диҳед
 ui-show-less = Камтар нишон диҳед

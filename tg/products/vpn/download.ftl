@@ -16,6 +16,7 @@ vpn-download-button-copy = Боргирӣ кардан
 vpn-download-for-windows-v2 = «VPN» барои низоми амалкунандаи «{ -brand-name-windows }»
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (танҳо 64-бит)
 vpn-download-for-windows-long = Боргирӣ кардани «{ -brand-name-mozilla-vpn }» барои низоми амалкунандаи «{ -brand-name-windows }»
+vpn-download-for-firefox-extension = Насб кардани васеъшавии «{ -brand-name-firefox }»
 vpn-download-for-mac = «VPN» барои низоми амалкунандаи «{ -brand-name-mac-short }»
 vpn-download-for-mac-long = Боргирӣ кардани «{ -brand-name-mozilla-vpn }» барои низоми амалкунандаи «{ -brand-name-mac-short }»
 # Variables:
