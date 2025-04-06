@@ -16,6 +16,7 @@ vpn-landing-whats-a-vpn = «VPN» чӣ аст?
 vpn-landing-a-virtual-private-network-protects = Шабакаи хусусии маҷозӣ пайвастшавии шуморо бо Интернет муҳофизат карда, ҷойгиршавии шумо ва корҳоеро, ки шумо онлайн мекунед, дар ҳамаи дастгоҳҳои шумо ба таври махфӣ нигоҳ медорад.
 vpn-landing-see-all-the-ways-mozilla-vpn = Ҳамаи роҳҳоеро аз назар гузаронед, ки «{ -brand-name-mozilla-vpn }» шуморо муҳофизат мекунад.
 vpn-landing-how-a-vpn-helps-you = Чӣ тавр «VPN» ба шумо кумак мекунад
+vpn-landing-how-a-vpn-helps-you-v2 = Чӣ тавр «{ -brand-name-mozilla-vpn }» ба шумо кумак мерасонад
 vpn-landing-keeps-your-data-safe = Маълумоти шуморо дар шабакаҳои ҷамъиятии «Wi-Fi» ба таври бехатар нигоҳ медорад
 vpn-landing-log-in-to-your-bank-or = Ба суратҳисоби бонкӣ ё идораи пизишкии худ аз фурудгоҳ, қаҳвахона ё аз ҷойи дилхоҳи дигар бо роҳати дилу ҷон ворид шавед.
 vpn-landing-blocks-advertisers-from = Ҳар гуна ҳадафи рекламадеҳро манъ карда, шуморо ҳифз мекунад
