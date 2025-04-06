@@ -8,9 +8,14 @@
 
 ## Page heading
 
+contribute-page-heading = Twoje talenty są potrzebne dla lepszego Internetu
+contribute-page-intro = { -brand-name-mozilla } to organizacja non-profit, która pracuje nad tym, aby internet był otwarty i przyjazny dla wszystkich. Potrzebujemy Twojej pomocy. Dołączając do naszej społeczności, możesz pomóc w rozwijaniu innowacji, zwiększaniu odpowiedzialności i zaufania oraz sprawić, że internet stanie się lepszym miejscem dla wszystkich.
 
 ## Contribution tasks
 
+contribute-tag-non-technical = Nietechniczne
+contribute-tag-technical = Techniczne
+contribute-tag-technical-non-technical = Techniczne i nietechniczne
 contribute-task-join-heading = Dołącz do społeczności
 
 ## Mission
