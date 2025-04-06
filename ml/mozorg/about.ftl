@@ -9,6 +9,9 @@
 about-learn-about-mozilla = { -brand-name-mozilla }നെപറ്റി അറിയുക
 # Main sub-heading
 about-our-mission-keep-the-internet = ഞങ്ങളുടെ ദൗത്യം: തുറന്ന ഇന്റർനെറ്റ് എല്ലാവർക്കും ലഭ്യമാക്കുക.
+# Main call to action
+about-read-our-mission = ചുമതല വായിക്കുക
+about-our-mission-in-action = നമ്മളുടെ ചുമതല നടപടിയിൽ
 about-corporation-foundation-not = കോർപ്പറേഷൻ. ഫൗണ്ടേഷൻ. ലാഭത്തിനല്ലാതെ.
 about-the-mozilla-manifesto = മോസില്ല മാനിഫെസ്റ്റോ
 about-read-the-manifesto = മാനിഫെസ്റ്റോ വായിക്കുക
