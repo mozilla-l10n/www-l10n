@@ -11,7 +11,7 @@ vpn-landing-title = «{ -brand-name-mozilla-vpn }»: Тамоми дастгоҳ
 # Variables:
 #   $countries (number) - number of available countries
 vpn-landing-desc = Барои таъмини муҳофизати пурра дар дастгоҳи худ ба ҳамаи барномаҳо аз «{ -brand-name-mozilla-vpn }» истифода баред. Ба воситаи серверҳое, ки мо дар { $countries }+ кишвар дорем, шумо метавонед ба ҳамаи сомонаҳо ва ҷойҳо, новобаста аз ҷойгиршавии худ пайваст шавед.
-vpn-landing-powerful-privacy-for-peace = Махфияти ҷиддӣ барои оромии рӯҳӣ
+vpn-landing-powerful-privacy-for-peace = Махфияти ҷиддӣ барои оромии дил
 vpn-landing-whats-a-vpn = «VPN» чӣ аст?
 vpn-landing-a-virtual-private-network-protects = Шабакаи хусусии маҷозӣ пайвастшавии шуморо бо Интернет муҳофизат карда, ҷойгиршавии шумо ва корҳоеро, ки шумо онлайн мекунед, дар ҳамаи дастгоҳҳои шумо ба таври махфӣ нигоҳ медорад.
 vpn-landing-see-all-the-ways-mozilla-vpn = Ҳамаи роҳҳоеро аз назар гузаронед, ки «{ -brand-name-mozilla-vpn }» шуморо муҳофизат мекунад.

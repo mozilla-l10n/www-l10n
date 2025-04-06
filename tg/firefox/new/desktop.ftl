@@ -20,10 +20,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Браузери «{ -brand-name-firefox }» дар нашри боз ҳам навтар дастрас аст. <a { $update_url }>Ба версияи охирин навсозӣ кунед</a>
 firefox-desktop-download-get-the-browser = Браузереро боргирӣ намоед, ки чизҳои муҳими шуморо муҳофизат мекунад
+firefox-desktop-download-fast-reliable-private = Тезкор, боэътимод ва хусусӣ — барои оромии дил дар реҷаи онлайн.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Ягон сиёсати махфияти сояандоз ё роҳҳои пуштибонии таблиғгарон вуҷуд надорад. Танҳо як браузери барқрафтор, ки шуморо фурӯхта наметавонад.
 firefox-desktop-download-download-options = Имконоти боргирӣ ва забонҳои дигар
 firefox-desktop-download-browser-support = Дастгирии «{ -brand-name-firefox-browser }»
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Аз фаъолияти дӯстдошта дар Интернет ҳаловат баред.<br> Браузери «{ -brand-name-firefox-browser }» муҳофизати шуморо<strong>таъмин мекунад</strong>.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Аз фаъолияти дӯстдошта дар Интернет ҳаловат баред.<br> Браузери «{ -brand-name-firefox-browser }» шуморо назорат <strong>намекунад</strong>.
 firefox-desktop-download-how-firefox-compares = Муқоисаи браузери «{ -brand-name-firefox }» нисбат ба браузерҳои дигар
