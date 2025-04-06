@@ -27,6 +27,7 @@ contribute-mission-heading = Nasza misja
 contribute-mission-desc = Nasza misją jest dopilnowanie, aby Internet pozostał wspólnym zasobem publicznym, otwartym i dostępnym dla wszystkich. Internet, realizujący potrzeby użytkownika, z którego każdy może korzystać na swój sposób, pozostając bezpiecznym i niezależnym.
 contribute-learn = Poznaj { -brand-name-mozilla(case: "acc") }
 contribute-read-manifesto = Przeczytaj nasz manifest
+contribute-help-fund = Pomóż sfinansować naszą misję
 
 ## Made by
 
