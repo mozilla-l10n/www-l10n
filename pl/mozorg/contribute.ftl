@@ -27,6 +27,7 @@ contribute-mission-heading = Nasza misja
 contribute-mission-desc = Nasza misją jest dopilnowanie, aby Internet pozostał wspólnym zasobem publicznym, otwartym i dostępnym dla wszystkich. Internet, realizujący potrzeby użytkownika, z którego każdy może korzystać na swój sposób, pozostając bezpiecznym i niezależnym.
 contribute-learn = Poznaj { -brand-name-mozilla(case: "acc") }
 contribute-read-manifesto = Przeczytaj nasz manifest
+contribute-find-event = Znajdź wydarzenie
 contribute-help-fund = Pomóż sfinansować naszą misję
 
 ## Made by
@@ -40,3 +41,6 @@ contribute-help-fund = Pomóż sfinansować naszą misję
 
 ## Web compat
 
+contribute-web-compat-heading = Problemy ze stroną internetową?
+contribute-web-compat-desc = Jeśli strona internetowa działa inaczej w różnych przeglądarkach, może to oznaczać, że wystąpił problem z kompatybilnością. Chętnie się o tym dowiemy!
+contribute-report-issue = Zgłoś problem
