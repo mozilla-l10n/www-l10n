@@ -13,6 +13,7 @@ m24-about-page-title = ຮຽນຮູ້ກ່ຽວກັບ { -brand-name-moz
 
 ## Manifesto
 
+m24-about-read-our-manifesto = ອ່ານ manifesto ຂອງພວກເຮົາ
 m24-about-advocate = ທະນາຍຄວາມ
 m24-about-research = ການຄົ້ນຄ້ວາ
 m24-about-build = ສ້າງ

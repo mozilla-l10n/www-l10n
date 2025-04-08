@@ -8,6 +8,7 @@ footer-refresh-mozilla-advertising = { -brand-name-mozilla } ການໂຄສ�
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
 footer-refresh-learn-more-about-mozilla-advertising = ສຶກສາເພີ່ມເຕີມ <span>ກ່ຽວກັບ { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } ບັນທຶກການປ່ອຍ
+footer-refresh-privacy-first = ຄວາມເປັນສ່ວນຕົວ - ການແກ້ໄຂການໂຄສະນາມາກ່ອນ ສໍາລັບຍີ່ຫໍ້, ຜູ້ເຜີຍແຜ່, ແລະ ເວທີ.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
