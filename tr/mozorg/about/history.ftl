@@ -58,14 +58,22 @@ history-the-community-has-shown = Topluluğumuz, ticari şirketlerin açık kayn
 # Variables:
 #   $all (url) link to https://www.mozilla.org/firefox/all/
 history-more-people-than-ever-before = Bugün hiç olmadığı kadar çok insan internet kullanıyor ve internette<a href="{ $all }">kendi dilinde</a> geziniyor.
+# Variables:
+#   $range (url) link to https://www.wikipedia.org
+#   $areas (url) link to https://creativecommons.org/
+history-a-sustainable-organization = Kamu yararı misyonumuzu desteklemek için pazar mekanizmalarını kullanan sürdürülebilir bir kuruluş yarattık. Başkaları da bu modeli <a href="{ $range }">geniş</a> <a href="{ $areas }">bir çerçevede</a> yeniden kullanılarak  açık, şeffaf ve işbirlikçi kuruluşlar meydana getirdi.
 history-the-future-is-full-of-challenges = Gelecek de geçmişimizdekiler gibi zorluklar ve fırsatlarla dolu.
 history-theres-no-guarantee-that = İnternetin açık, keyifli veya güvenli kalacağının bir garantisi yok.
 history-mozilla-will-continue-to = { -brand-name-mozilla }, insanlara seslerini duyurma ve kendi çevrimiçi yaşamlarını şekillendirme fırsatı sunmaya devam edecek.
 history-of-course-were-not-alone = Elbette bunu yaparken yalnız değiliz.
+history-the-mozilla-community-together = { -brand-name-mozilla } topluluğu, diğer açık kaynak projeleriyle ve kamu yararına çalışan diğer kuruluşlarla birlikte, ortak hedeflerimizi gerçeğe dönüştürmek için mücade eden insanlar sayesinde varlığını sürdürüyor.
+# Variables:
+#   $contribute (url) link to https://www.mozilla.org/contribute/
+history-if-you-want-to-join-us-in = Misyonumuzu desteklemek isterseniz lütfen siz de <a href="{ $contribute }">aramıza katılın</a>.
 history-for-more-information-about = { -brand-name-mozilla }’nın tarihiyle ilgili daha fazla bilgi için şu sayfalara da bakabilirsiniz:
 history-mozilla-bookmarks = { -brand-name-mozilla } Yer İmleri
 history-timeline-of-mozilla-project = { -brand-name-mozilla } Projesi’nin zaman çizelgesi
 history-mozilla-digital-memory-bank = { -brand-name-mozilla } Dijital Anı Bankası
 # Variables:
 #   $link (url) link to https://www.foxkeh.com/downloads/
-history-the-history-of-firefox-and = <a href="{ $link }">{ -brand-name-firefox } ve { -brand-name-mozilla } tarihinin posterleri</a> (İngilizce ve Japonca mevcuttur)
+history-the-history-of-firefox-and = <a href="{ $link }">{ -brand-name-firefox } ve { -brand-name-mozilla } Tarihçesinin Posterleri</a> (İngilizce ve Japonca)
