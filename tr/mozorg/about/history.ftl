@@ -46,10 +46,18 @@ history-it-did-this-by-continuing = Vakıf bu amaçla { -brand-name-firefox } ve
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
 history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> 2004’te yayımlandı ve bir yıldan kısa bir süre içinde <a href="{ $millions }">100 milyondan fazla</a> kez indirilerek büyük bir başarı yakaladı.
+history-new-versions-of-firefox = { -brand-name-firefox } o zamandan beri düzenli olarak güncelleniyor ve rekorlar kırmaya devam ediyor. { -brand-name-firefox }’un popülerliği, kullanıcıların yeniden tercih hakkında kavuşmasını sağladı.
+# Variables:
+#   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
+history-the-renewed-competition = Yeniden alevlenen rekabet sayesinde <a href="{ $innovation }">inovasyon hızlandı</a> ve internet herkes için daha iyi bir yere dönüştü.
+# Variables:
+#   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
+history-in-2013-we-launched-firefox = 2013’te, web’in tüm gücünü akıllı telefonlarda ortaya çıkarmak ve internete giren yeni nesle yeniden egemenlik ve tercih hakkı sunmak için  <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a>’i duyurduk.
 history-mozilla-also-celebrated = Ayrıca { -brand-name-mozilla }, 2013 yılında 15. yılını kutladı.
+history-the-community-has-shown = Topluluğumuz, ticari şirketlerin açık kaynaklı projelere katkıda bulunarak fayda sağlayabileceğini ve harika son kullanıcı ürünlerinin de açık kaynaklı olarak üretilebileceğini gösterdi.
 # Variables:
 #   $all (url) link to https://www.mozilla.org/firefox/all/
-history-more-people-than-ever-before = Hiç olmadığı kadar çok insan internet kullanıyor ve internette<a href="{ $all }">kendi dilinde</a> geziniyor.
+history-more-people-than-ever-before = Bugün hiç olmadığı kadar çok insan internet kullanıyor ve internette<a href="{ $all }">kendi dilinde</a> geziniyor.
 history-the-future-is-full-of-challenges = Gelecek de geçmişimizdekiler gibi zorluklar ve fırsatlarla dolu.
 history-theres-no-guarantee-that = İnternetin açık, keyifli veya güvenli kalacağının bir garantisi yok.
 history-mozilla-will-continue-to = { -brand-name-mozilla }, insanlara seslerini duyurma ve kendi çevrimiçi yaşamlarını şekillendirme fırsatı sunmaya devam edecek.
