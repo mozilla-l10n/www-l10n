@@ -29,7 +29,19 @@ history-people-contributed-to-mozilla = İnsanlar { -brand-name-mozilla }’ya f
 history-after-several-years-of-development = Birkaç yıl süren geliştirmenin ardından, 2002 yılında ilk büyük sürüm olan <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a> yayımlandı. Bu sürümde tarayıcı, e-posta istemcisi ve pakete dahil diğer uygulamalar üzerinde birçok yenilik yapılmıştı ama paketi kullanan fazla kişi yoktu.
 # Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
-history-by-2002-well-over-90 = 2002 itibarıyla <a href="{ $over90 }">internet kullanıcılarının %90’ından fazlası</a> { -brand-name-ie } kullanıyordu.
+history-by-2002-well-over-90 = 2002’de <a href="{ $over90 }">internet kullanıcılarının %90’ından fazlası</a> { -brand-name-ie } kullanıyordu.
+# Variables:
+#   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
+history-not-many-people-noticed = O zamanlar çok fazla insan fark etmese de, { -brand-name-mozilla } topluluk üyeleri <a href="{ $charter }">mümkün olan en iyi gezinti deneyimini</a> bütün dünyaya ulaştırmak amacıyla Phoenix’in ilk sürümünü de (daha sonraki adıyla { -brand-name-firefox }) o yıl yayımladı.
+# Variables:
+#   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
+history-in-2003-the-mozilla-project = 2003’te { -brand-name-mozilla } projesi { -brand-name-mozilla-foundation }’ı kurdu. Bireysel bağışçıların ve çeşitli şirketlerin desteklediği bu vakıf, <a href="{ $foundation }"> kâr amacı gütmeyen bağımsız bir kuruluştur</a>.
+# Variables:
+#   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
+history-the-new-mozilla-foundation = Yeni { -brand-name-mozilla-foundation }, projenin günlük operasyonlarını yönetme rolünü sürdürürken, internette <a href="{ $manifesto }">açıklığı, inovasyonu ve fırsat eşitliğini</a> teşvik etme rolünü de resmi olarak üstlendi.
+# Variables:
+#   $grants (url) link to https://www.mozilla.org/moss/
+history-it-did-this-by-continuing = Vakıf bu amaçla { -brand-name-firefox } ve { -brand-name-thunderbird } gibi yazılımları geliştirmeye devam ederken, web’de erişilebilirliği artıran projelere <a href="{ $grants }">hibe sağlamak</a> gibi yeni alanlara doğru da genişledi.
 # Variables:
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
