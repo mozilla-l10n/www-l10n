@@ -12,8 +12,21 @@ history-history-of-the-mozilla-project = { -brand-name-mozilla } Projesinin Tari
 history-the-mozilla-project-was = { -brand-name-mozilla } projesi <a href="{ $coderush }">1998 yılında</a> <a href="{ $sourcerelease }">{ -brand-name-netscape } tarayıcı paketi kaynak kodlarının</a> yayımlanmasıyla doğdu.
 history-it-was-intended-to-harness = Projenin amacı, internetteki binlerce programcının yaratıcı gücünden faydalanarak tarayıcı pazarında eşi benzeri görülmemiş seviyede bir inovasyonu körüklemekti.
 # Variables:
+#   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
+history-within-the-first-year-new = <a href="{ $firstyear }">İlk yıl içinde</a> dünyanın dört bir yanındaki yeni topluluk üyeleri yeni işlevler katkıda bulunmaya, mevcut özellikleri daha da geliştirmeye, projenin yönetimi ve planlanmasıyla ilgilenmeye başladı.
+# Variables:
 #   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
 history-by-creating-an-open-community = { -brand-name-mozilla } projesi açık bir topluluk oluşturarak <a href="{ $stevecase }">tüm şirketlerden daha büyük</a> hale geldi.
+# Variables:
+#   $mission (url) link to https://www-archive.mozilla.org/mission.html
+#   $browsers (url) link to http://www.oreillynet.com/pub/a/mozilla/2002/09/12/mozilla_browsers.html
+#   $bugzilla (url) link to https://www.bugzilla.org
+#   $projects (url) link to https://www.mozilla.org/firefox/
+history-community-members-got-involved = Projeye dahil olan topluluk üyeleri projenin <a href="{ $mission }">ilk misyonunun</a> kapsamını da genişletti. İnsanlar { -brand-name-netscape }’in yeni tarayıcısı üzerinde çalışmak yerine <a href="{ $browsers }">çeşitli tarayıcılar</a>, <a href="{ $bugzilla }">geliştirme araçları</a> ve <a href="{ $projects }">yeni projeler</a> oluşturmaya başladı.
+history-people-contributed-to-mozilla = İnsanlar { -brand-name-mozilla }’ya farklı şekillerde katkıda bulunsalar da hepsinin tutkusu aynıydı: interneti nasıl deneyimleyeceklerinin kararını insanlara bırakan özgür yazılımlar yaratmak.
+# Variables:
+#   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
+history-after-several-years-of-development = Birkaç yıl süren geliştirmenin ardından, 2002 yılında ilk büyük sürüm olan <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a> yayımlandı. Bu sürümde tarayıcı, e-posta istemcisi ve pakete dahil diğer uygulamalar üzerinde birçok yenilik yapılmıştı ama paketi kullanan fazla kişi yoktu.
 # Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = 2002 itibarıyla <a href="{ $over90 }">internet kullanıcılarının %90’ından fazlası</a> { -brand-name-ie } kullanıyordu.
