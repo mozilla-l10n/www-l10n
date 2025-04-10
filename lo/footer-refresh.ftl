@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-refresh-discover-mozilla-products = ຄົ້ນພົບຜະລິດຕະພັນ ແລະ ຂໍ້ລິເລີ່ມຂອງ { -brand-name-mozilla }. ພວກ​ເຮົາ​ສັນ​ຍາ​ວ່າ​ຈະ​ຮັກ​ສາ​ອີ​ເມວ​ຂອງ​ທ່ານ​ເປັນ​ສ່ວນ​ຕົວ ​ແລະ​ ປອດ​ໄພ — ບໍ່​ມີ​ການ​ແບ່ງ​ປັນ​, ບໍ່​ມີ​ການ​ຂາຍ​, ພຽງ​ແຕ່​ການ​ປັບ​ປຸງ​ທີ່​ຍິ່ງ​ໃຫຍ່​.
 footer-refresh-leadership = ຄວາມເປັນຜູ້ນຳ
 footer-refresh-advertise = ໂຄສະນາກັບ { -brand-name-mozilla }
 footer-refresh-mozilla-advertising = { -brand-name-mozilla } ການໂຄສະນາ

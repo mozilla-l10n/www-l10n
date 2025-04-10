@@ -23,6 +23,7 @@ set-as-default-thanks-get-firefox-for-mobile = ເອົາ { -brand-name-firefo
 set-as-default-thanks-travel-the-internet-with = ເດີນທາງອິນເຕີເນັດດ້ວຍການປົກປ້ອງໃນທຸກອຸປະກອນຂອງທ່ານ.
 set-as-default-thanks-download-the-app = ດາວໂຫຼດແອັບ
 set-as-default-create-an-account = ສ້າງບັນຊີ
+set-as-default-thanks-sign-up-for-a-free-account-v2 = ລົງທະບຽນສໍາລັບ { -brand-name-mozilla-account } ຟຣີ ແລະ ຊິ້ງລະຫັດຜ່ານ, ປະຫວັດການທ່ອງເວັບ ແລະ ການຕັ້ງຄ່າທັງໝົດຂອງທ່ານໃນທົ່ວອຸປະກອນຂອງທ່ານ.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = ຮັບບັນຊີ
 set-as-default-thanks-having-trouble = ມີບັນຫາບໍ?
