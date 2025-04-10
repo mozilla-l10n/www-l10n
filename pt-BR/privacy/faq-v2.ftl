@@ -15,6 +15,8 @@ privacy-faq-v2-at-mozilla = Na { -brand-name-mozilla } suas informações pessoa
 # Variables:
 #   $attrs (url) - link to https://www.mozilla.org/privacy/principles/
 privacy-faq-v2-we-follow = Seguimos uma série de <a { $attrs }>princípios de privacidade de dados</a> que moldam nossa abordagem de privacidade nos navegadores { -brand-name-firefox } de computador e dispositivos móveis.
+privacy-faq-v2-we-strive-collect-data = Nos empenhamos em coletar somente os dados necessários para criar os melhores produtos.
+privacy-faq-v2-we-work-to = Trabalhamos para colocar as pessoas no controle de seus dados e experiências online.
 
 ## FAQ
 
