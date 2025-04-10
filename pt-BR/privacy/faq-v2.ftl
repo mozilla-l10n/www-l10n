@@ -7,6 +7,8 @@
 
 # HTML page title
 privacy-faq-v2-title = Dúvidas frequentes sobre privacidade de dados da { -brand-name-mozilla }
+# HTML page description
+privacy-faq-v2-desc = Na { -brand-name-mozilla } suas informações pessoais são respeitadas e protegidas.
 
 ## FAQ
 
