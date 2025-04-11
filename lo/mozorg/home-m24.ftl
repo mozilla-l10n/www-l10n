@@ -8,9 +8,12 @@
 
 ## Intro
 
+m24-home-welcome-to-mozilla = ຍິນດີຕ້ອນຮັບສູ່ { -brand-name-mozilla }
+m24-home-learn-about-us = ຮຽນຮູ້ກ່ຽວກັບພວກເຮົາ
 
 ## Products
 
+m24-home-love-the-internet = ຮັກອິນເຕີເນັດອີກເທື່ອຫນຶ່ງ
 m24-home-firefox = { -brand-name-firefox }
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-fakespot = { -brand-name-fakespot }

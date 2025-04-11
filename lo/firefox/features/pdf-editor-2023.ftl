@@ -16,4 +16,5 @@ pdf-editor-no-more-now-all-you-need-to-do = ບໍ່ມີອີກແລ້ວ
 pdf-editor-add-text = ເພີ່ມຂໍ້ຄວາມ
 pdf-editor-add-drawings-or-your-signature = ເພີ່ມຮູບແຕ້ມ ( ຫຼື ລາຍເຊັນຂອງທ່ານ)
 pdf-editor-add-image-with-alt-text = ເພີ່ມຮູບພາບດ້ວຍຂໍ້ຄວາມ alt
+pdf-editor-open-pdf-click-image-icon = ເປີດ PDF ໃນ { -brand-name-firefox }. ຄລິກທີ່ໄອຄອນຮູບພາບ, ເຊິ່ງຫຼັງຈາກນັ້ນມັນຈະເຕືອນໃຫ້ທ່ານອັບໂຫລດຮູບພາບ. ປັບຂະໜາດ ແລະ ການຈັດວາງຮູບພາບຂອງທ່ານຕາມຄວາມຕ້ອງການ. ຄລິກປຸ່ມ “+Alt text” ໃນຮູບເພື່ອເພີ່ມຄຳອະທິບາຍຮູບເພື່ອເຮັດໃຫ້ PDF ຂອງທ່ານສາມາດເຂົ້າເຖິງໄດ້ຫຼາຍຂຶ້ນ.
 pdf-editor-create-a-highlight = ສ້າງ Highlight
