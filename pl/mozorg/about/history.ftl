@@ -24,3 +24,29 @@ history-by-creating-an-open-community = Dzięki stworzeniu otwartej społecznoś
 #   $projects (url) link to https://www.mozilla.org/firefox/
 history-community-members-got-involved = Członkowie społeczności zaangażowali się i rozszerzyli zakres <a href="{ $mission }">pierwotnej misji</a> projektu — zamiast po prostu pracować nad kolejną przeglądarką { -brand-name-netscape }, ludzie zaczęli tworzyć <a href="{ $browsers }">różne przeglądarki</a>, <a href="{ $bugzilla }">narzędzia programistyczne</a> i szereg innych <a href="{ $projects }">projektów</a>.
 history-people-contributed-to-mozilla = Ludzie na różne sposoby wnosili swój wkład do { -brand-name-mozilla(case: "gen") }, ale wszyscy pasjonowali się tworzeniem wolnego oprogramowania, które umożliwiłoby ludziom decydowanie o tym, w jaki sposób korzystają z Internetu.
+# Variables:
+#   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
+history-after-several-years-of-development = Po kilku latach rozwoju, w 2002 roku wydano pierwszą główną wersję przeglądarki<a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a>. Wersja ta wprowadzała wiele udoskonaleń do przeglądarki, klienta poczty e-mail i innych aplikacji zawartych w pakiecie, ale nie korzystało z niej wiele osób.
+# Variables:
+#   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
+history-by-2002-well-over-90 = Do 2002 roku <a href="{ $over90 }">znacznie ponad 90% użytkowników Internetu</a> przeglądało strony za pomocą { -brand-name-ie }.
+# Variables:
+#   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
+history-not-many-people-noticed = Wówczas niewiele osób to zauważyło, ale pierwsza wersja przeglądarki Phoenix (później przemianowanej na { -brand-name-firefox }) również została wydana przez członków społeczności { -brand-name-mozilla(case: "gen") } w tym samym roku, a jej celem było zapewnienie <a href="{ $charter }">najlepszego możliwego środowiska przeglądania</a> jak najszerszemu gronu użytkowników.
+# Variables:
+#   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
+history-in-2003-the-mozilla-project = W 2003 roku projekt { -brand-name-mozilla } powołał do życia  { -brand-name-mozilla-foundation(case: "acc") }, <a href="{ $foundation }">niezależną organizację non-profit</a>, wspieraną przez indywidualnych darczyńców i szereg firm.
+# Variables:
+#   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
+history-the-new-mozilla-foundation = Nowa { -brand-name-mozilla-foundation } kontynuowała zarządzanie codziennymi operacjami projektu, a także oficjalnie przejęła zadanie promowania <a href="{ $manifesto }">otwartości, innowacji i możliwości</a> w internecie.
+# Variables:
+#   $grants (url) link to https://www.mozilla.org/moss/
+history-it-did-this-by-continuing = Osiągnięto to poprzez dalsze wydawanie oprogramowania, takiego jak { -brand-name-firefox } i { -brand-name-thunderbird }, a także poprzez ekspansję na nowe obszary, np. udzielanie <a href="{ $grants }">dotacji</a> na rzecz wspierania zwiększenia dostępności Internetu.
+# Variables:
+#   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
+#   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
+history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> został wydany w 2004 roku i odniósł duży sukces — w ciągu niecałego roku został pobrany <a href="{ $millions }">ponad 100 milionów razy</a>.
+history-new-versions-of-firefox = Nowe wersje { -brand-name-firefox(case: "gen") } pojawiały się regularnie od tego czasu i wciąż ustanawiały nowe rekordy. Popularność { -brand-name-firefox(case: "gen") } pomogła przywrócić użytkownikom wybór.
+# Variables:
+#   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
+history-the-renewed-competition = Przywrócona konkurencja <a href="{ $innovation }">przyspieszyła innowacje</a> i ulepszyła internet dla każdego.
