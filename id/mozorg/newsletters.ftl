@@ -227,12 +227,6 @@ newsletters-take-action = Ambil Tindakan untuk Internet.
 newsletters-add-your-voice = Tambahkan suara Anda ke petisi, acara, dan inisiatif yang memperjuangkan masa depan web.
 
 # Name for the newsletter in Newsletter subscription page
-newsletters-new-product-testing = Pengujian Produk Baru
-
-# Description for the newsletter in Newsletter subscription page (New Product Testing)
-newsletters-help-us-make-a-better-v2 = Bantu kami menjadikan { -brand-name-mozilla } lebih baik untuk Anda dengan menguji coba produk dan fitur terbaru kami.
-
-# Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Komunitas { -brand-name-mozilla }
 
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)

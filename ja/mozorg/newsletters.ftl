@@ -227,12 +227,6 @@ newsletters-take-action = Take Action for the Internet
 newsletters-add-your-voice = ウェブの将来のために闘う申立てやイベント、運動に関して、あなたの声をお寄せください。
 
 # Name for the newsletter in Newsletter subscription page
-newsletters-new-product-testing = New Product Testing
-
-# Description for the newsletter in Newsletter subscription page (New Product Testing)
-newsletters-help-us-make-a-better-v2 = 最新の製品や機能を試用して { -brand-name-mozilla } の改善を支援してください。
-
-# Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = { -brand-name-mozilla } Community
 
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)

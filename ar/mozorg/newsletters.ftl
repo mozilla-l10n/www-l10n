@@ -227,12 +227,6 @@ newsletters-take-action = بادر بالتحرك من أجل الإنترنت
 newsletters-add-your-voice = أضف صوتك إلى الالتماسات والفعاليات والمبادرات التي تُناضل من أجل مستقبل الويب.
 
 # Name for the newsletter in Newsletter subscription page
-newsletters-new-product-testing = اختبار منتج جديد
-
-# Description for the newsletter in Newsletter subscription page (New Product Testing)
-newsletters-help-us-make-a-better-v2 = ساعدنا في جعل { -brand-name-mozilla } أفضل لك من خلال اختبار أحدث منتجاتنا وميزاتنا.
-
-# Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = مجتمع { -brand-name-mozilla }
 
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
