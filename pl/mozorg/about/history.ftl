@@ -50,3 +50,24 @@ history-new-versions-of-firefox = Nowe wersje { -brand-name-firefox(case: "gen")
 # Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
 history-the-renewed-competition = Przywrócona konkurencja <a href="{ $innovation }">przyspieszyła innowacje</a> i ulepszyła internet dla każdego.
+# Variables:
+#   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
+history-in-2013-we-launched-firefox = W 2013 roku premierę miał <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a>, system mający przenieść całą potęgę sieci na smartfony i po raz kolejny dać kontrolę i wybór nowemu pokoleniu użytkowników korzystających z sieci.
+history-mozilla-also-celebrated = Również w 2013 roku { -brand-name-mozilla } świętowała swoje 15-lecie.
+history-the-community-has-shown = Społeczność pokazała, że przedsiębiorstwa komercyjne mogą czerpać korzyści ze współpracy w ramach projektów open source, a świetne produkty dla użytkowników końcowych mogą być tworzone jako oprogramowanie open source.
+# Variables:
+#   $all (url) link to https://www.mozilla.org/firefox/all/
+history-more-people-than-ever-before = Coraz więcej osób korzysta z Internetu i korzysta z niego <a href="{ $all }">we własnym języku</a>.
+# Variables:
+#   $range (url) link to https://www.wikipedia.org
+#   $areas (url) link to https://creativecommons.org/
+history-a-sustainable-organization = Stworzono zrównoważoną organizację, która wykorzystuje mechanizmy rynkowe do wspierania misji pożytku publicznego. Model ten został ponownie wykorzystany przez innych w celu stworzenia otwartych, przejrzystych i opartych na współpracy organizacji w <a href="{ $range }">szerokim zakresie</a> <a href="{ $areas }">obszarów</a>.
+history-the-future-is-full-of-challenges = Przyszłość pełna jest wyzwań i możliwości równych tym z przeszłości.
+history-theres-no-guarantee-that = Nie ma gwarancji, że Internet pozostanie otwarty, przyjemny i bezpieczny.
+history-mozilla-will-continue-to = { -brand-name-mozilla } nadal będzie dawać ludziom możliwość wyrażania swoich opinii i kształtowania własnego życia online.
+history-of-course-were-not-alone = Oczywiście, nie jesteśmy w tym osamotnieni.
+history-the-mozilla-community-together = Społeczność { -brand-name-mozilla(case: "gen") }, podobnie jak inne projekty open source i organizacje pożytku publicznego, istnieje tylko dzięki ludziom, którzy angażują się w urzeczywistnianie naszych wspólnych celów.
+# Variables:
+#   $contribute (url) link to https://www.mozilla.org/contribute/
+history-if-you-want-to-join-us-in = Jeśli chcesz dołączyć do naszej misji, <a href="{ $contribute }">zapraszamy do współpracy</a>.
+history-for-more-information-about = Więcej informacji na temat historii { -brand-name-mozilla(case: "gen") } można znaleźć poniżej:
