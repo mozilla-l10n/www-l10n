@@ -26,10 +26,10 @@ history-community-members-got-involved = Członkowie społeczności zaangażowal
 history-people-contributed-to-mozilla = Ludzie na różne sposoby wnosili swój wkład do { -brand-name-mozilla(case: "gen") }, ale wszyscy pasjonowali się tworzeniem wolnego oprogramowania, które umożliwiłoby ludziom decydowanie o tym, w jaki sposób korzystają z Internetu.
 # Variables:
 #   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
-history-after-several-years-of-development = Po kilku latach rozwoju, w 2002 roku wydano pierwszą główną wersję przeglądarki<a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a>. Wersja ta wprowadzała wiele udoskonaleń do przeglądarki, klienta poczty e-mail i innych aplikacji zawartych w pakiecie, ale nie korzystało z niej wiele osób.
+history-after-several-years-of-development = Po kilku latach rozwoju, w 2002 roku wydano pierwszą główną wersję przeglądarki <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a>. Wersja ta wprowadzała wiele udoskonaleń do przeglądarki, klienta poczty e-mail i innych aplikacji zawartych w pakiecie, ale nie korzystało z niej wiele osób.
 # Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
-history-by-2002-well-over-90 = Do 2002 roku <a href="{ $over90 }">znacznie ponad 90% użytkowników Internetu</a> przeglądało strony za pomocą { -brand-name-ie }.
+history-by-2002-well-over-90 = Do 2002 roku <a href="{ $over90 }">znacznie ponad 90% użytkowników Internetu</a> przeglądało strony za pomocą { -brand-name-ie(case: "gen") }.
 # Variables:
 #   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
 history-not-many-people-noticed = Wówczas niewiele osób to zauważyło, ale pierwsza wersja przeglądarki Phoenix (później przemianowanej na { -brand-name-firefox }) również została wydana przez członków społeczności { -brand-name-mozilla(case: "gen") } w tym samym roku, a jej celem było zapewnienie <a href="{ $charter }">najlepszego możliwego środowiska przeglądania</a> jak najszerszemu gronu użytkowników.
