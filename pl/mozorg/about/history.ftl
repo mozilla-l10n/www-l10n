@@ -71,3 +71,5 @@ history-the-mozilla-community-together = Społeczność { -brand-name-mozilla(ca
 #   $contribute (url) link to https://www.mozilla.org/contribute/
 history-if-you-want-to-join-us-in = Jeśli chcesz dołączyć do naszej misji, <a href="{ $contribute }">zapraszamy do współpracy</a>.
 history-for-more-information-about = Więcej informacji na temat historii { -brand-name-mozilla(case: "gen") } można znaleźć poniżej:
+history-timeline-of-mozilla-project = Oś czasu projektu { -brand-name-mozilla }
+history-mozilla-digital-memory-bank = Cyfrowy Bank Pamięci { -brand-name-mozilla(case: "gen") }
