@@ -170,10 +170,6 @@ newsletters-take-action = Tegyen lépéseket az internetért
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
 newsletters-add-your-voice = Adja hozzá a hangját azon petíciókhoz, eseményekhez és kezdeményezésekhez, melyek a web jövőjéért harcolnak.
 # Name for the newsletter in Newsletter subscription page
-newsletters-new-product-testing = Új termékek tesztelése
-# Description for the newsletter in Newsletter subscription page (New Product Testing)
-newsletters-help-us-make-a-better-v2 = Segítsen nekünk, hogy a legújabb termékeink és funkcióink tesztelésével egy jobb { -brand-name-mozilla(ending: "accented") }t készítsünk az Ön számára.
-# Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = { -brand-name-mozilla } közösség
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
 newsletters-join-mozillians-all-around = Csatlakozzon a mozillásokhoz világszerte, és ismerje meg a hatásos lehetőségeket, amellyel a { -brand-name-mozilla } küldetését támogathatja.

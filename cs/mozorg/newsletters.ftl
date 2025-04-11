@@ -170,10 +170,6 @@ newsletters-take-action = Bojujte za internet
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
 newsletters-add-your-voice = Připojte se k peticím, událostem a iniciativám, které bojují za budoucnost webu.
 # Name for the newsletter in Newsletter subscription page
-newsletters-new-product-testing = Testování nových produktů
-# Description for the newsletter in Newsletter subscription page (New Product Testing)
-newsletters-help-us-make-a-better-v2 = Pomozte nám vytvořit lepší { -brand-name-mozilla(case: "acc") } pro vás tím, že vyzkoušíte naše nejnovější produkty a funkce.
-# Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Komunita { -brand-name-mozilla(case: "gen") }
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
 newsletters-join-mozillians-all-around = Přidejte se ke komunitě po celém světě a dozvíte se o možnostech, jak podpořit misi { -brand-name-mozilla(case: "gen") }.

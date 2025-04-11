@@ -170,10 +170,6 @@ newsletters-take-action = Zet u in voor het Internet
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
 newsletters-add-your-voice = Voeg uw stem toe aan petities, evenementen en initiatieven die strijden voor de toekomst van het web.
 # Name for the newsletter in Newsletter subscription page
-newsletters-new-product-testing = Nieuwe producten testen
-# Description for the newsletter in Newsletter subscription page (New Product Testing)
-newsletters-help-us-make-a-better-v2 = Help ons een betere { -brand-name-mozilla } voor u te maken door onze nieuwste producten en functies te testen.
-# Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = { -brand-name-mozilla }-gemeenschap
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
 newsletters-join-mozillians-all-around = Doe mee met Mozillians over de hele wereld en leer over invloedrijke mogelijkheden om de missie van { -brand-name-mozilla } te ondersteunen.

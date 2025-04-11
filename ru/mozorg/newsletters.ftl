@@ -170,10 +170,6 @@ newsletters-take-action = Защитите Интернет
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
 newsletters-add-your-voice = Поддержите петиции, мероприятия и инициативы, которые борются за будущее Интернета.
 # Name for the newsletter in Newsletter subscription page
-newsletters-new-product-testing = Тестирование новых продуктов
-# Description for the newsletter in Newsletter subscription page (New Product Testing)
-newsletters-help-us-make-a-better-v2 = Помогите сделать { -brand-name-mozilla } ещё лучше, тестируя наши новые продукты и функции.
-# Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Сообщество { -brand-name-mozilla }
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
 newsletters-join-mozillians-all-around = Присоединяйтесь к Мозилльянам со всего мира и узнайте о том, что можно сделать для поддержки { -brand-name-mozilla }.

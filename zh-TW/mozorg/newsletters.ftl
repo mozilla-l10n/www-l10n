@@ -170,10 +170,6 @@ newsletters-take-action = 為網際網路採取行動
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
 newsletters-add-your-voice = 在我們為網際網路的未來而戰的請願、活動、倡議中，加入您的聲音。
 # Name for the newsletter in Newsletter subscription page
-newsletters-new-product-testing = 新產品測試報
-# Description for the newsletter in Newsletter subscription page (New Product Testing)
-newsletters-help-us-make-a-better-v2 = 透過測試最新的產品與功能來協助我們為您打造更好的 { -brand-name-mozilla }。
-# Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = { -brand-name-mozilla } 社群
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
 newsletters-join-mozillians-all-around = 與全球的摩茲人一起支持 { -brand-name-mozilla } 的使命，並了解如何變得更有影響力。
