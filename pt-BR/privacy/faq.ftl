@@ -13,7 +13,7 @@ privacy-faq-it-can-be-tricky-for-people = Pode ser complicado para as pessoas en
 privacy-faq-at-mozilla-we-respect-and-protect = Na { -brand-name-mozilla } suas informações pessoais são respeitadas e protegidas:
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
-privacy-faq-we-follow-a-set-of-data-privacy = Seguimos uma série de <a href="{ $link }">princípios de privacidade de dados</a> que moldam nossa abordagem de privacidade nos navegadores { -brand-name-firefox } de computador e dispositivos móveis.
+privacy-faq-we-follow-a-set-of-data-privacy = Seguimos uma série de <a href="{ $link }">princípios de privacidade de dados</a> que moldam nossa abordagem de privacidade nos navegadores { -brand-name-firefox } de computador e de dispositivos móveis.
 privacy-faq-we-only-collect-the-data-we = Coletamos somente os dados necessários para criar os melhores produtos.
 privacy-faq-we-put-people-in-control-of = Colocamos as pessoas no controle de seus dados e experiências online.
 privacy-faq-we-adhere-to-no-surprises-principle-v2 = Aderimos ao princípio de “não haver surpresas”, ou seja, trabalhamos duro para assegurar que a percepção das pessoas sobre o { -brand-name-firefox } corresponda à realidade.
