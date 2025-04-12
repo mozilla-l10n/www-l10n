@@ -20,7 +20,7 @@ firefox-developer-help-build-the-last = 帮助我们打造最后一款独立自�
 firefox-developer-start-now = 立即开始
 firefox-developer-design-code-test = 设计、编写、测试、优化。
 # Line break for visual formatting
-firefox-developer-build-and-perfect = 使用 { -brand-name-firefox-devtools }，<br>构建并打磨您的网站
+firefox-developer-build-and-perfect = 使用 { -brand-name-firefox-devtools }<br>构建并打磨您的网站
 firefox-developer-inspector = 查看器
 firefox-developer-inspect-and-refine = 查看并优化代码，让版面上每个像素都显得完美。
 firefox-developer-learn-about-page-inspector = 详细了解页面探查器

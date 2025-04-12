@@ -45,4 +45,4 @@ firefox-enterprise-pkg-installer = PKG 安装包
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32 位
 # Variables:
 #   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
-firefox-enterprise-download-firefox-esr-or-rapid = 下载 { -brand-name-firefox-esr } 或快速发行版<br> <a href="{ $firefox_all }">其他语言和平台。</a>
+firefox-enterprise-download-firefox-esr-or-rapid = 下载 { -brand-name-firefox-esr } 或快速发行版<br><a href="{ $firefox_all }">其他语言和平台</a>
