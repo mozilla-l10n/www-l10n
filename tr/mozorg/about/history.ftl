@@ -13,7 +13,7 @@ history-the-mozilla-project-was = { -brand-name-mozilla } projesi <a href="{ $co
 history-it-was-intended-to-harness = Projenin amacı, internetteki binlerce programcının yaratıcı gücünden faydalanarak tarayıcı pazarında eşi benzeri görülmemiş seviyede bir inovasyonu körüklemekti.
 # Variables:
 #   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
-history-within-the-first-year-new = <a href="{ $firstyear }">İlk yıl içinde</a> dünyanın dört bir yanındaki yeni topluluk üyeleri yeni işlevler katkıda bulunmaya, mevcut özellikleri daha da geliştirmeye, projenin yönetimi ve planlanmasıyla ilgilenmeye başladı.
+history-within-the-first-year-new = <a href="{ $firstyear }">İlk yıl içinde</a> dünyanın dört bir yanındaki yeni topluluk üyeleri yeni işlevlere katkıda bulunmaya, mevcut özellikleri daha da geliştirmeye, projenin yönetimi ve planlanmasıyla ilgilenmeye başladı.
 # Variables:
 #   $stevecase (url) link to https://www-archive.mozilla.org/stevecase.html
 history-by-creating-an-open-community = { -brand-name-mozilla } projesi açık bir topluluk oluşturarak <a href="{ $stevecase }">tüm şirketlerden daha büyük</a> hale geldi.
@@ -61,12 +61,12 @@ history-more-people-than-ever-before = Bugün hiç olmadığı kadar çok insan 
 # Variables:
 #   $range (url) link to https://www.wikipedia.org
 #   $areas (url) link to https://creativecommons.org/
-history-a-sustainable-organization = Kamu yararı misyonumuzu desteklemek için pazar mekanizmalarını kullanan sürdürülebilir bir kuruluş yarattık. Başkaları da bu modeli <a href="{ $range }">geniş</a> <a href="{ $areas }">bir çerçevede</a> yeniden kullanılarak  açık, şeffaf ve işbirlikçi kuruluşlar meydana getirdi.
+history-a-sustainable-organization = Kamu yararı misyonumuzu desteklemek için pazar mekanizmalarını kullanan sürdürülebilir bir kuruluş yarattık. Başkaları da bu modeli <a href="{ $range }">geniş</a> <a href="{ $areas }">bir çerçevede</a> yeniden kullanarak açık, şeffaf ve işbirlikçi kuruluşlar meydana getirdi.
 history-the-future-is-full-of-challenges = Gelecek de geçmişimizdekiler gibi zorluklar ve fırsatlarla dolu.
 history-theres-no-guarantee-that = İnternetin açık, keyifli veya güvenli kalacağının bir garantisi yok.
 history-mozilla-will-continue-to = { -brand-name-mozilla }, insanlara seslerini duyurma ve kendi çevrimiçi yaşamlarını şekillendirme fırsatı sunmaya devam edecek.
 history-of-course-were-not-alone = Elbette bunu yaparken yalnız değiliz.
-history-the-mozilla-community-together = { -brand-name-mozilla } topluluğu, diğer açık kaynak projeleriyle ve kamu yararına çalışan diğer kuruluşlarla birlikte, ortak hedeflerimizi gerçeğe dönüştürmek için mücade eden insanlar sayesinde varlığını sürdürüyor.
+history-the-mozilla-community-together = { -brand-name-mozilla } topluluğu, diğer açık kaynak projeleriyle ve kamu yararına çalışan diğer kuruluşlarla birlikte, ortak hedeflerimizi gerçeğe dönüştürmek için mücadele eden insanlar sayesinde varlığını sürdürüyor.
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
 history-if-you-want-to-join-us-in = Misyonumuzu desteklemek isterseniz lütfen siz de <a href="{ $contribute }">aramıza katılın</a>.

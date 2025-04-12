@@ -14,6 +14,8 @@ ui-watch-the-video = Ehecha ta’ãngamýi
 ui-replay = Je’ejey
 ui-share = Moherakuã
 ui-menu = Poravorã
+# Short for Table of Contents
+ui-contents = Tetepykuéra
 ui-please-turn-on-javascript = Ikatúpiko emyandy JavaScript ehecha porã hag̃ua ko kuatiarogue.
 ui-show-more = Ehechaukave
 ui-show-less = Ehechauka’ive
