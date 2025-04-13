@@ -17,3 +17,6 @@ vpn-windows-if-youre = Jeśli intensywnie korzystasz z przesyłania strumieniowe
 vpn-windows-you-can-exclude = Możesz wykluczyć niektóre aplikacje za pomocą funkcji podzielonego tunelowania. Dzięki temu niektóre aplikacje będą działać przez VPN, a inne pozostaną poza tunelem.
 vpn-windows-using-a-windows = Korzystanie z urządzenia z systemem Windows w publicznej, niezabezpieczonej sieci Wi-Fi naraża Twoje dane o ruchu internetowym na większe ryzyko przechwycenia. Sieć VPN może pomóc Ci zachować prywatność danych, dodając solidną warstwę ochrony.
 vpn-windows-the-mozilla = Aplikacja { -brand-name-mozilla-vpn } nie będzie zużywać zbyt dużej ilości pamięci urządzenia z systemem Windows, spowalniać komputera ani zużywać baterii.
+# Variables:
+#   $url (string) - url('products.vpn.landing')
+vpn-windows-mozilla-vpn = { -brand-name-mozilla-vpn } jest wspierana w systemach Windows 10 i Windows 11 i można jej używać na maksymalnie pięciu urządzeniach. Aby rozpocząć, <a href="{ $url }">wykup subskrypcję na witrynie mozilla.org</a> i pobierz aplikację na urządzenie z systemem Windows.
