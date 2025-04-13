@@ -11,3 +11,4 @@ vpn-desktop-vpns-can-provide = VPN może zapewnić dodatkową warstwę zabezpiec
 vpn-desktop-how-does-a = W jaki sposób VPN chroni mój laptop lub komputer?
 vpn-desktop-there-are-several = Istnieje kilka powodów, dla których warto używać VPN-a, aby chronić się podczas korzystania z laptopa lub komputera stacjonarnego:
 vpn-desktop-stronger-privacy = <strong>Większa prywatność:</strong> Ponieważ VPN maskuje Twój adres IP, możesz przeglądać internet w bardziej prywatnej atmosferze, wiedząc, że Twoja aktywność nie może zostać powiązana przez zbieraczy danych, którzy wykorzystują Twój adres IP jako unikalny identyfikator.
+vpn-desktop-safer-against-spying = <strong>Ochrona przed szpiegowaniem:</strong> Szyfrowanie danych za pomocą VPN-a sprawia, że praktycznie niemożliwe jest, aby ktoś podsłuchujący Twoje połączenie sieciowe dowiedział się, co przesyłasz i z kim się komunikujesz.
