@@ -58,8 +58,10 @@ m24-home-get-started = Introdução
 m24-home-join-the-movement = Participe do movimento:<br> Inteligência artificial para as pessoas
 m24-home-our-mission-is = Nossa missão é facilitar para as pessoas criar e colaborar com inteligência artificial confiável e de código aberto.
 m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Crie seu site e conecte com seu domínio personalizado gratuitamente.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
+m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent-v2 = O { -brand-name-mozilla-builders } ajuda desenvolvedores independentes a criar projetos transformadores de inteligência artificial de código aberto por meio de colaborações sob medida, programação e comunidade.
 # Used as an accessible text alternative for an image

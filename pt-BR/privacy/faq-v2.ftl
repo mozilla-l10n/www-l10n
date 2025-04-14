@@ -20,3 +20,4 @@ privacy-faq-v2-we-work-to = Trabalhamos para colocar as pessoas no controle de s
 
 ## FAQ
 
+privacy-faq-v2-data-collection-bugs-me = A coleta de dados ainda me incomoda. Posso desativar?
