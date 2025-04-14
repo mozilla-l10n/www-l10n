@@ -14,6 +14,8 @@ ui-watch-the-video = Assistir ao vídeo
 ui-replay = Ver novamente
 ui-share = Compartilhar
 ui-menu = Menu
+# Short for Table of Contents
+ui-contents = Conteúdo
 ui-please-turn-on-javascript = Por favor, ative o JavaScript para visualizar esta página corretamente.
 ui-show-more = Mostre mais
 ui-show-less = Mostre menos
