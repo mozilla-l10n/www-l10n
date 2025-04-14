@@ -9,6 +9,8 @@
 features-adblocker-ad-blocking = Bloqueio de propaganda
 # Page Title
 features-adblocker-meta-title = Informações sobre bloqueadores de anúncios - { -brand-name-firefox }
+# HTML page description
+features-adblocker-meta-desc = Descubra como os bloqueadores de anúncios funcionam, o que eles podem fazer por você e como o { -brand-name-firefox } te protege de rastreadores e cookies.
 features-adblocker-the-ad-blocker-a-tool = Bloqueador de anúncios – uma ferramenta para ter uma experiência de navegação limpa e personalizada.
 features-adblocker-finding-the-right = Como descobrir o bloqueador de anúncios adequado para você
 features-adblocker-there-are-many = Há muitas ferramentas de bloqueio de anúncios para descobrir, cada uma oferecendo recursos para atender preferências diferentes. Encontrar a mais adequada depende de seus desejos e hábitos de navegação. Aqui estão algumas dicas a considerar:

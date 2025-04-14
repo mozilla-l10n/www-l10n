@@ -26,6 +26,7 @@ how-do-i = Como obter o { -brand-name-firefox-browser }?
 
 you-can-easily = Você pode baixar facilmente o navegador { -brand-name-firefox } de computador <a href="{ $url }">aqui</a>. O { -brand-name-firefox } funciona em dispositivos <a href="{ $url2 }">{ -brand-name-windows }</a>, <a href="{ $url3 }">{ -brand-name-mac-short }</a> e <a href="{ $url4 }">{ -brand-name-linux }</a>. Também está disponível em <a href="{ $url5 }">{ -brand-name-android } e { -brand-name-ios }</a>. Certifique-se de baixar nosso navegador em uma de nossas páginas { -brand-name-mozilla }/{ -brand-name-firefox } confiáveis.
 is-firefox-free = O { -brand-name-firefox } é gratuito?
+yep-the-firefox-browser-is-free = Sim! O { -brand-name-firefox-browser } é gratuito. Na verdade, totalmente gratuito. Sem custos ocultos ou qualquer coisa do tipo. Você não paga nada para usar.
 related-questions-free = Questões relacionadas: o { -brand-name-firefox-browser } é gratuito, o { -brand-name-firefox } custa dinheiro
 is-chrome-better = O { -brand-name-chrome } é melhor que o { -brand-name-firefox }?
 no-we-dont = Não, não pensamos que o { -brand-name-chrome } seja melhor que o { -brand-name-firefox }, e este é o motivo: quando as pessoas perguntam qual navegador é melhor, estão na verdade perguntando qual é mais rápido e mais seguro. O { -brand-name-firefox } é atualizado mensalmente para garantir que você tenha o navegador mais rápido e que respeita sua privacidade automaticamente.
