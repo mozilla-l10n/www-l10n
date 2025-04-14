@@ -17,6 +17,8 @@ m24-home-page-desc-v2 = Estamos trabalhando para devolver o controle da internet
 m24-home-welcome-to-mozilla = Boas-vindas à { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = Desde tecnologia confiável até políticas que defendem seus direitos digitais, colocamos você em primeiro lugar — sempre.
 m24-home-learn-about-us = Saiba mais sobre nós
+# Used as accessible text alternative for image
+m24-home-alt-flag = Uma bandeira verde estilizada sobre fundo preto, construída a partir do 'M' de { -brand-name-mozilla } e um pixel deslocado para fazer referência a seu logotipo original de dinossauro.
 
 ## Products
 
@@ -55,6 +57,8 @@ m24-home-read-more = Saiba mais
 m24-home-get-started = Introdução
 m24-home-join-the-movement = Participe do movimento:<br> Inteligência artificial para as pessoas
 m24-home-our-mission-is = Nossa missão é facilitar para as pessoas criar e colaborar com inteligência artificial confiável e de código aberto.
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent-v2 = O { -brand-name-mozilla-builders } ajuda desenvolvedores independentes a criar projetos transformadores de inteligência artificial de código aberto por meio de colaborações sob medida, programação e comunidade.
