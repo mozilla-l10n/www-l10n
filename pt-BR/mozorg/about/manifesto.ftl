@@ -53,6 +53,7 @@ manifesto-show-your-support = Demonstre seu apoio
 manifesto-an-internet-with-these = Uma internet com essas qualidades não ganhará vida por conta própria. Indivíduos e organizações devem incorporar essas aspirações à tecnologia da internet e à experiência humana com a internet. O Manifesto { -brand-name-mozilla } e o Adendo representam o compromisso da { -brand-name-mozilla } em promover essas aspirações. Nosso objetivo é trabalhar em todo lugar em conjunto com pessoas e organizações que compartilham essas metas para tornar a internet um lugar ainda melhor para todos.
 # obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Eu apoio a visão da @mozilla de uma internet melhor e mais saudável. E você, vai se juntar a mim?
+manifesto-share-on-bluesky = Compartilhar no Bluesky
 manifesto-our-10-principles = <strong>Nossos 10</strong> princípios
 manifesto-read-the-entire-manifesto = Leia o manifesto completo
 manifesto-love-the-web = Adora a web?
