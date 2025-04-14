@@ -24,6 +24,7 @@ about-this-site-report-a-bug = Zgłoś błąd
 about-this-site-contribute-to-code = Wnieś swój wkład do kodu
 about-this-site-contribute-to-l10n = Przyczyń się do tłumaczenia
 about-this-site-read-the-docs = Przeczytaj dokumentację
+about-this-site-colophon = <a href="https://pl.wikipedia.org/wiki/Kolofon">Kolofon</a>
 about-this-site-some-open-source-projects = Niektóre projekty open source wykorzystane przy tworzeniu tej witryny:
 # Variables:
 #   $django (url) link to https://www.djangoproject.com/
@@ -35,3 +36,9 @@ about-this-site-mozilla-protocol = System projektowania <a href="{ $protocol }">
 # Variables:
 #   $fluent (url) link to https://projectfluent.org/
 about-this-site-fluent = System lokalizacji <a href="{ $fluent }">Fluent</a> firmy { -brand-name-mozilla } służący do tłumaczeń językowych.
+# Variables:
+#   $github (url) link to https://github.com/mozilla/bedrock
+about-this-site-many-other = Wiele innych mniejszych bibliotek i struktur, które można znaleźć w naszym <a href="{ $github }">repo na { -brand-name-github }</a>.
+# Variables:
+#   $credits (url) link to https://www.mozilla.org/credits/
+about-this-site-we-extend = Składamy podziękowania wszystkim <a href="{ $credits }">współpracownikom</a> { -brand-name-mozilla(case: "gen") }, którzy przyczynili się do uczynienia sieci lepszym miejscem.
