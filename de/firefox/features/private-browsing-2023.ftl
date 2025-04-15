@@ -9,9 +9,6 @@ features-private-browsing-private-browsing-mode = Privater Modus
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox } Privater Modus
 
-# HTML page description
-features-private-browsing-firefox-protects = { -brand-name-firefox } schützt Deine Privatsphäre und blockiert Tracker, die ohne Zustimmung Deine Daten sammeln.
-
 features-private-browsing-if-you-share-a-computer = Wenn du dir einen PC mit anderen teilst oder wenn du begrenzen möchtest, wie viele Daten Websites über dich sammeln dürfen, kannst du den Privaten Modus von { -brand-name-firefox } nutzen. Im Privaten Modus werden die digitalen Spuren beseitigt, die du beim Surfen hinterlässt – stell dir Fußspuren im Sand vor.
 features-private-browsing-what-does-private-browsing-do = Was macht der Private Modus?
 features-private-browsing-private-browsing-mode-opens-v2 = Der Private Modus öffnet ein neues Browser-Fenster. Dein Browser-Verlauf und sämtliche Tracking-Cookies von Websites, auf denen du unterwegs warst, werden gelöscht, wenn du es schließt. <strong>{ -brand-name-firefox }-Profitipp:</strong> Vergiss nicht, deine privaten Browser-Fenster zu schließen, wenn du fertig bist!

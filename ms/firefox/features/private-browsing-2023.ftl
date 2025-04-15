@@ -9,9 +9,6 @@ features-private-browsing-private-browsing-mode = Mod Pelayaran Peribadi
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = Mod Pelayaran Peribadi { -brand-name-firefox }
 
-# HTML page description
-features-private-browsing-firefox-protects = { -brand-name-firefox } melindungi privasi dalam talian anda dan menyekat penjejak yang mengekori anda di seluruh web.
-
 features-private-browsing-if-you-share-a-computer = Jika anda berkongsi komputer dengan orang lain atau anda mahu hadkan data yang dikumpul oleh laman web ini, gunakan mod pelayaran peribadi { -brand-name-firefox }. Pelayaran peribadi memadam jejak digital yang anda tinggalkan semasa anda menggunakan internet — anggaplah ia seperti kesan tapak kaki yang kita tinggalkan di atas tanah.
 features-private-browsing-what-does-private-browsing-do = Apa yang boleh dilakukan oleh pelayar peribadi?
 features-private-browsing-private-browsing-mode-opens-v2 = Mod pelayaran peribadi membuka jendela pelayar baru. Sebaik anda menutup jendela pelayar peribadi anda yang terakhir, semua sejarah pelayaran dan kuki penjejak daripada laman web yang anda lawati akan dipadam. <strong>Tip Pro { -brand-name-firefox }:</strong> Jangan lupa menutup semua jendela pelayar peribadi anda sebaik selesai memakai internet!

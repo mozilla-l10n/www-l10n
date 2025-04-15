@@ -9,9 +9,6 @@ features-private-browsing-private-browsing-mode = وضع التصفّح الخا
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = وضع التصفح الخاص في متصفح { -brand-name-firefox }
 
-# HTML page description
-features-private-browsing-firefox-protects = يحمي متصفح { -brand-name-firefox } خصوصيتك على الإنترنت ويمنع المُتعقِّبات التي تتعقَّبك على الويب.
-
 features-private-browsing-if-you-share-a-computer = إذا كنت تشارك جهاز كمبيوتر مع أشخاص آخرين أو كنت تريد تحديد كمية البيانات التي يمكن لمواقع الإنترنت جمعها عنك، فيمكنك استخدام وضع التصفح الخاص في متصفح { -brand-name-firefox }.حيث يمسَح هذا الوضع المسارات الرقمية التي تتركها خلفك عند تصفح الإنترنت—والتي تشبه آثار الأقدام في الغابة.
 features-private-browsing-what-does-private-browsing-do = ماذا يفعل وضع التصفح الخاص؟
 features-private-browsing-private-browsing-mode-opens-v2 = يفتح وضع التصفح الخاص نافذة مُتصفح جديدة. وعند إغلاق آخر نافذة تصفح خاص، يُحذَف سِجل التصفّح وتُحذَف كل ملفات تعريف الارتباط التتبعية التي أنشأتها مواقع الإنترنت التي زرتها. <strong>{ -brand-name-firefox } نصيحة احترافية:</strong>لا تنسَ إغلاق جميع نوافذ التصفّح الخاص فور انتهائك من التصفّح!

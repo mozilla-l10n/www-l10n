@@ -9,9 +9,6 @@ features-private-browsing-private-browsing-mode = プライベートブラウジ
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox } のプライベートブラウジングモード
 
-# HTML page description
-features-private-browsing-firefox-protects = { -brand-name-firefox } はオンラインプライバシーを保護し、ウェブ上でつきまとうトラッカーをブロックします。
-
 features-private-browsing-if-you-share-a-computer = コンピューターを他の人と共有している場合、またはウェブサイトから収集される個人データの量を制限したい場合は、{ -brand-name-firefox } のプライベートブラウジングモードをお試しください。プライベートブラウジングは、ウェブサイトを閲覧したときに残すデジタルトラック (森の中で残す足跡のようなもの) を消去します。
 features-private-browsing-what-does-private-browsing-do = プライベートブラウジングの機能
 features-private-browsing-private-browsing-mode-opens-v2 = プライベートブラウジングモードでは、新しいブラウザーウィンドウが開きます。ウィンドウを閉じると、そのウィンドウの閲覧履歴と、訪問したウェブサイトのトラッキング Cookie を消去します。<strong>{ -brand-name-firefox } プロのアドバイス:</strong> 用事が終わったら、忘れずにプライベートブラウジングウィンドウを忘れずに閉じてください。
