@@ -39,11 +39,6 @@ cookie-settings-category-analytics-what-are-subheading = Was sind Performance-Co
 cookie-settings-category-analytics-what-are-desc = Diese Technologien sammeln Daten darüber, wie Websites genutzt werden, also welche Seiten besucht oder welche Links angeklickt werden, sowie von welchen anderen Websites die Besuche kommen.
 cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } nutzt Daten der Performance-Cookies, um nachzuvollziehen, wie Nutzer*innen mit unseren Websites interagieren, damit wir sie optimieren und mögliche Probleme beheben können. Außerdem nutzen wir eventuell Cookie-Daten, Geräteinformationen und IP-Adressen, um nachzuvollziehen, wie unsere Nutzer*innen mit unseren Produkten, Services, Communications, Websites, Online-Kampagnen, Geräten und anderen Plattformen interagieren. Wir sammeln bzw. setzen Performance-Informationen/-Cookies nur mit deiner Zustimmung.
 
-## Consent section
-
-cookie-settings-your-consent-heading = Deine Zustimmung
-cookie-settings-your-consent-desc = Wenn du Cookies zustimmst, gilt deine Zustimmung für die folgende Liste an { -brand-name-mozilla }-Websites, die alle denselben strengen Standards für Datenschutz unterliegen. Diese Liste kann mit der Zeit aktualisiert werden.
-
 ## Privacy section
 
 cookie-settings-privacy-heading = Unser Datenschutzhinweis

@@ -39,11 +39,6 @@ cookie-settings-category-analytics-what-are-subheading = 分析 Cookie とは？
 cookie-settings-category-analytics-what-are-desc = このテクノロジーは、訪問したページ、クリックされたリンク、ページに導いた他のウェブサイトなど、ユーザーによるウェブサイトの使い方に関する情報を収集します。
 cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } では、分析情報を使用してユーザーによるウェブサイトの使い方を把握し、これによってウェブサイトを改善し、発生した問題を解決しています。また、ユーザーが Mozilla の製品、サービス、連絡、ウェブサイト、オンラインキャンペーン、デバイス、他のプラットフォームをどのように利用しているかを理解するために、Cookie、デバイス情報、IP アドレスからのデータを使用する場合もあります。Mozilla は、同意がある場合にのみ分析情報を収集し、分析 Cookie を設定しています。
 
-## Consent section
-
-cookie-settings-your-consent-heading = あなたの同意
-cookie-settings-your-consent-desc = Cookie に同意すると、共通する厳格なデータプライバシー基準に従う以下の { -brand-name-mozilla } サイトすべてに対して同意が与えられます。このリストは、更新される可能性があることにご留意ください。
-
 ## Privacy section
 
 cookie-settings-privacy-heading = プライバシーに関する通知

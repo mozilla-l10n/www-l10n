@@ -39,11 +39,6 @@ cookie-settings-category-analytics-what-are-subheading = Apa itu Kuki Analitik?
 cookie-settings-category-analytics-what-are-desc = Teknologi ini mengumpulkan maklumat tentang cara pelawat menggunakan laman web contohnya halaman yang dilawati, pautan yang diklik dan dari laman web mana pengguna tersebut datang.
 cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } menggunakan maklumat analitik ini untuk memahami bagaimana pengguna berinteraksi dengan laman web kami agar kami boleh menambah baik serta memperbaiki apa-apa masalah yang timbul. Kami juga mungkin menggunakan data daripada Kuki, maklumat peranti dan alamat IP untuk memahami bagaimana pengguna berinteraksi dengan produk, perkhidmatan, komunikasi, laman web, kempen atas talian, peranti dan lain-lain platform. Kami hanya mengumpul maklumat analitik dan menetapkan Kuki Analitik dengan persetujuan anda.
 
-## Consent section
-
-cookie-settings-your-consent-heading = Persetujuan Anda
-cookie-settings-your-consent-desc = Dengan membenarkan Kuki, anda akan diberikan kebenaran untuk senarai laman web { -brand-name-mozilla } yang berikut, di mana semuanya mengikuti piawaian data peribadi yang sama dan ketat. Sila ambil perhatian bahawa senarai ini mungkin akan dikemas kini lagi di masa hadapan.
-
 ## Privacy section
 
 cookie-settings-privacy-heading = Notis privasi kami
