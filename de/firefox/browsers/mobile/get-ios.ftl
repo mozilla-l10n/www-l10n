@@ -10,6 +10,5 @@ get-ios-firefox-for-ios = { -brand-name-firefox-browser } für { -brand-name-ios
 # HTML page description
 get-ios-firefox-is-fast = Der { -brand-name-firefox }-Browser für { -brand-name-ios } ist schnell, sicher und privat vom ersten Tag an.
 
-get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = { -brand-name-firefox } für { -brand-name-ios } herunterladen
 get-ios-firefox-mobile-adapts = { -brand-name-firefox } fürs Handy passt sich Ihnen an und macht es Ihnen leichter als je zuvor, all Ihre offenen Tabs, letzten Suchanfragen und Lieblingsseiten auf einen Blick zu sehen.

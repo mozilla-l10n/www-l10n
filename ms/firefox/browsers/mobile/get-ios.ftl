@@ -10,6 +10,5 @@ get-ios-firefox-for-ios = { -brand-name-firefox-browser } untuk { -brand-name-io
 # HTML page description
 get-ios-firefox-is-fast = Pelayar { -brand-name-firefox } untuk { -brand-name-ios } amat pantas, selamat dan peribadi daripada kali pertama kali anda menggunanya.
 
-get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = Muat turun { -brand-name-firefox } untuk { -brand-name-ios }
 get-ios-firefox-mobile-adapts = { -brand-name-firefox } mudah alih boleh disesuaikan mengikut cara anda dan jadikan ia lebih mudah untuk mengakses tab terbuka, carian terdahulu dan laman kegemaran.

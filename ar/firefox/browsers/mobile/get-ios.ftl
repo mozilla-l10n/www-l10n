@@ -10,6 +10,5 @@ get-ios-firefox-for-ios = مُتصفح { -brand-name-firefox-browser } لنظا�
 # HTML page description
 get-ios-firefox-is-fast = يَتميز { -brand-name-firefox } المُخصص للأجهزة التي تعمل بنظام { -brand-name-ios } بالسرعة والأمان والخصوصية من أول مرة تفتحه فيها.
 
-get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = نزِّل { -brand-name-firefox }<br> لنظام تشغيل { -brand-name-ios }
 get-ios-firefox-mobile-adapts = يتأقلم { -brand-name-firefox } للهاتف المحمول معك ويُسهّل عليك رؤية جميع التبويبات المفتوحة وعمليات البحث السابقة والمواقع المُفضّلة.

@@ -10,6 +10,5 @@ get-ios-firefox-for-ios = { -brand-name-firefox-browser } untuk { -brand-name-io
 # HTML page description
 get-ios-firefox-is-fast = { -brand-name-firefox } untuk { -brand-name-ios } yang cepat, aman, dan pribadi sejak pertama kali Anda membukanya.
 
-get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = Unduh { -brand-name-firefox } untuk { -brand-name-ios }
 get-ios-firefox-mobile-adapts = { -brand-name-firefox } seluler beradaptasi untuk Anda dan kini semakin mudah melihat semua tab terbuka, penelusuran sebelumnya, dan situs favorit Anda.
