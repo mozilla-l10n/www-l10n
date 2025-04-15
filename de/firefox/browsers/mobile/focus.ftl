@@ -18,7 +18,6 @@ mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } ist
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } ist sowohl für { -brand-name-ios }- als auch für { -brand-name-android }-Geräte verfügbar.
 
 mobile-focus-get-firefox-focus = Jetzt { -brand-name-firefox-focus } nutzen
-mobile-focus-send-a-download-link-to-your = Sende einen Download-Link an dein Handy.
 mobile-focus-scan-the-qr-code-to-get-started = Scanne den QR-Code und leg los
 mobile-focus-scan-alt-text = Scanne den QR-Code, um dir { -brand-name-firefox-focus } zu holen
 

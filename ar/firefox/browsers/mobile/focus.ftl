@@ -18,7 +18,6 @@ mobile-focus-firefox-focus-dedicated-with-v2 = يُعتبر { -brand-name-firefo
 mobile-focus-firefox-focus-is-available = مُتصفح { -brand-name-firefox-focus } مُتوفر للأجهزة التي تعمل بنظام التشغيل { -brand-name-ios } أو { -brand-name-android }.
 
 mobile-focus-get-firefox-focus = نزِّل متصفح { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = أرسِل رابط تنزيل إلى هاتفك.
 mobile-focus-scan-the-qr-code-to-get-started = امسح رمز الاستجابة السريعة (QR) ضوئيًا للبدء
 mobile-focus-scan-alt-text = امسح رمز الاستجابة السريعة (QR) ضوئيًا لتنزيل متصفح { -brand-name-firefox-focus }
 

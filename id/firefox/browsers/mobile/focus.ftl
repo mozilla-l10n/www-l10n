@@ -18,7 +18,6 @@ mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } ada
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } tersedia untuk perangkat { -brand-name-ios } dan { -brand-name-android }.
 
 mobile-focus-get-firefox-focus = Dapatkan { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = Kirim tautan unduhan ke ponsel Anda.
 mobile-focus-scan-the-qr-code-to-get-started = Pindai kode QR untuk memulai
 mobile-focus-scan-alt-text = Pindai kode QR untuk mendapatkan { -brand-name-firefox-focus }
 
