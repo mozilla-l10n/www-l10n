@@ -7,5 +7,6 @@
 
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = 5 grunnar til at du bør bruke eit VPN
+vpn-when-to-use-3-on-the = 3. På farta
 vpn-when-to-use-5-in-your = 5. I din eigen heim
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, ei påliteleg VPN-teneste
