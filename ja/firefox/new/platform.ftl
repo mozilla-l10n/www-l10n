@@ -7,7 +7,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = 無料のウェブブラウザー
-new-platform-download-firefox = { -brand-name-firefox } をダウンロード
 new-platform-download-the-fastest = 史上最速の { -brand-name-firefox } をダウンロード
 new-platform-faster-page-loading = より高速なページ読み込み、メモリ使用量削減、機能満載の最新版 { -brand-name-firefox } が登場しました。
 new-platform-2x-faster = 2 倍高速
@@ -26,9 +25,6 @@ new-platform-download-the-fastest-linux = 史上最速の { -brand-name-linux } 
 
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = より高速なページ読み込み、メモリ使用量削減、機能満載の最新版 { -brand-name-linux } 用 { -brand-name-firefox } が登場しました。
-
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-linux } 用 { -brand-name-firefox }
 
 new-platform-privacy-more-than = プライバシーは、ポリシーの紙面上のものではありません
 new-platform-your-life-your-business = あなたの生活もビジネスも守ります。{ -brand-name-firefox } は、{ -brand-name-linux } でサードパーティトラッキング Cookie をブロックします。

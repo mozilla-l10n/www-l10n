@@ -7,7 +7,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = مُتصفّح ويب مجاني
-new-platform-download-firefox = تنزيل { -brand-name-firefox }
 new-platform-download-the-fastest = نزِّل أسرع مُتصفح { -brand-name-firefox } على الإطلاق
 new-platform-faster-page-loading = تحميل الصفحات بات أسرع، واستخدام الذاكرة أصبح أقل، كما أُضيفت مزايا كثيرة. لقد وصل { -brand-name-firefox } الجديد.
 new-platform-2x-faster = سُرعة مضاعفة
@@ -26,9 +25,6 @@ new-platform-download-the-fastest-linux = نزِّل أسرع متصفح { -bran
 
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = تحميل الصفحات بات أسرع، واستخدام الذاكرة أصبح أقل، كما أُضيفت مزايا كثيرة. لقد وصل متصفح { -brand-name-firefox } الجديد لنظام تشغيل { -brand-name-linux }.
-
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = متصفح { -brand-name-firefox } لنظام تشغيل { -brand-name-linux }
 
 new-platform-privacy-more-than = الخصوصية - أكثر من مجرد سياسة
 new-platform-your-life-your-business = حياتك، أعمالك. يَحجب مُتصفح { -brand-name-firefox } ملفات تعريف الارتباط التعقّبية الخاصة بأطراف ثالثة على { -brand-name-linux }.

@@ -7,7 +7,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Pelayar Web Percuma
-new-platform-download-firefox = Muat turun { -brand-name-firefox }
 new-platform-download-the-fastest = Muat turun { -brand-name-firefox } yang terpantas
 new-platform-faster-page-loading = { -brand-name-firefox } terkini telah tiba. Pemuatan laman lebih pantas, penggunaan memori yang sedikit dan padat dengan ciri-ciri baru.
 new-platform-2x-faster = 2x Lebih Pantas
@@ -26,9 +25,6 @@ new-platform-download-the-fastest-linux = Muat turun { -brand-name-firefox } ter
 
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Pemuatan halaman lebih cepat, kurang penggunaan memori dan padat dengan ciri, { -brand-name-firefox } terkini untuk { -brand-name-linux } telah tiba.
-
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } untuk { -brand-name-linux }
 
 new-platform-privacy-more-than = Privasi - bukan sekadar polisi
 new-platform-your-life-your-business = Hidup anda, hak anda. { -brand-name-firefox } menyekat kuki penjejak pihak ketiga dalam { -brand-name-linux }.
