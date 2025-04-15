@@ -25,6 +25,8 @@ m24-about-read-more = Les meir
 
 ## Showcase
 
+m24-about-lets-build-a = La oss byggje ei meir rettferdig framtid
+m24-about-read-about-our = Les om engasjementet vårt
 
 ## Careers
 
