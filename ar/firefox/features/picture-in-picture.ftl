@@ -11,12 +11,8 @@ features-pip-firefox-picture-in-picture-get-more = الفيديوهات المع
 features-pip-got-things-to-do-and-things-to-watch = هل تريد إنجاز بعض المهام ومُشاهدة بعض الفيديوهات؟ افعل كِلا الأمرين باستخدام ميزة الفيديوهات صورة-في-صورة (PiP) في مُتصفح { -brand-name-firefox }.
 
 features-pip-picture-in-picture = صورة-في-صورة (PiP)
-
-features-pip-new-feature-firefox-multi-picture = ميزة جديدة: الفيديوهات المعترِضة المتعددة في متصفح { -brand-name-firefox }
-features-pip-cool-feature-picture-in-picture = ميزة رائعة: فيديوهات صورة-في-صورة (PiP)
 features-pip-get-more-done-with-pop-out-videos = أَنْجِزْ المزيد من المهام وأنت تُشاهد الفيديوهات المنبثقة
 features-pip-got-things-to-do-do-both-with = هل تريد إنجاز بعض المهام ومُشاهدة بعض الفيديوهات؟ افعل كِلا الأمرين باستخدام ميزة الفيديوهات صورة-في-صورة (PiP) في مُتصفح { -brand-name-firefox }. إذ تتيح لك هذه الميزة فصل فيديو من صفحة الويب الخاصة به وتثبيته على شاشتك لتتمكن من مُتابعة المشاهدة وأنت تستخدم صفحات وعلامات تبويب وتطبيقات أخرى.
-features-pip-play-the-video = شغِّل الفيديو
 features-pip-heres-how-it-works = إليك خطوات تشغيلها:
 features-pip-play-any-video-in-your-updated = <strong>شغّل أي فيديو</strong> في متصفح { -brand-name-firefox }، مثل هذا الفيديو.
 features-pip-play-any-video-in-your = <strong>شغِّل أي فيديو</strong> 1 في متصفح { -brand-name-firefox }، مثل هذا الفيديو الذي يقوم ببطولته أشبال الباندا الحمراء.

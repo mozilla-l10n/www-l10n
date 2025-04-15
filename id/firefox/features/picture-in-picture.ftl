@@ -11,12 +11,8 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Pictu
 features-pip-got-things-to-do-and-things-to-watch = Ada yang harus dilakukan saat menonton sesuatu? Lakukan keduanya dengan menggunakan fitur Picture-in-Picture di { -brand-name-firefox }.
 
 features-pip-picture-in-picture = Gambar-dalam-Gambar
-
-features-pip-new-feature-firefox-multi-picture = Fitur baru: { -brand-name-firefox } multi Picture-in-Picture
-features-pip-cool-feature-picture-in-picture = Fitur keren: Picture-in-Picture
 features-pip-get-more-done-with-pop-out-videos = Selesaikan lebih banyak hal dengan video pop-out
 features-pip-got-things-to-do-do-both-with = Ada yang harus dilakukan saat menonton sesuatu? Lakukan keduanya dengan menggunakan fitur Picture-in-Picture di { -brand-name-firefox }. Fitur ini memungkinkan Anda mengeluarkan video dari halaman webnya dan menyematkannya ke layar Anda sehingga Anda dapat terus menonton saat mengakses halaman, tab, dan aplikasi lain.
-features-pip-play-the-video = Putar videonya
 features-pip-heres-how-it-works = Begini cara kerjanya:
 features-pip-play-any-video-in-your-updated = <strong>Putar video apa saja</strong> di peramban { -brand-name-firefox }, seperti ini.
 features-pip-play-any-video-in-your = <strong>Putar video apa pun</strong> di { -brand-name-firefox }, seperti video bayi panda merah ini.

@@ -11,12 +11,8 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Bild-
 features-pip-got-things-to-do-and-things-to-watch = Du hast einiges zu erledigen, aber die vielen Online-Videos wollen auch geguckt werden? Bring dein Multitasking aufs nächste Level mit dem Bild-im-Bild-Feature. von { -brand-name-firefox }.
 
 features-pip-picture-in-picture = Bild-im-Bild (PiP)
-
-features-pip-new-feature-firefox-multi-picture = Neue Funktion: Multi-Bild-im-Bild von { -brand-name-firefox }
-features-pip-cool-feature-picture-in-picture = Coole Funktion: Bild-im-Bild
 features-pip-get-more-done-with-pop-out-videos = Noch mehr Möglichkeiten mit Pop-out-Videos
 features-pip-got-things-to-do-do-both-with = Du hast einiges zu erledigen, aber die vielen Online-Videos wollen auch geguckt werden? Bring dein Multitasking aufs nächste Level mit dem Bild-im-Bild-Feature von { -brand-name-firefox }. Du kannst ein Video aus seiner Webseite entnehmen und auf deinem Bildschirm anheften, sodass du weiter das Video schauen kannst, während du andere Seiten, Tabs und Apps nutzt.
-features-pip-play-the-video = Video abspielen
 features-pip-heres-how-it-works = So funktioniert es:
 features-pip-play-any-video-in-your-updated = <strong>Spiel ein beliebiges Video</strong> in deinem { -brand-name-firefox }-Browser ab
 features-pip-play-any-video-in-your = <strong>Spiel ein beliebiges Video</strong> in deinem { -brand-name-firefox }-Browser ab, wie dieses mit Nachwuchs des Roten Pandas.

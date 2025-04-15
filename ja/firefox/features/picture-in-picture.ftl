@@ -11,12 +11,8 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } ピ�
 features-pip-got-things-to-do-and-things-to-watch = 用事と動画視聴を一緒にこなしたいとき、{ -brand-name-firefox } のピクチャーインピクチャーなら両方できます。
 
 features-pip-picture-in-picture = ピクチャーインピクチャー
-
-features-pip-new-feature-firefox-multi-picture = 新機能: { -brand-name-firefox } マルチピクチャーインピクチャー
-features-pip-cool-feature-picture-in-picture = 注目の機能: ピクチャーインピクチャー
 features-pip-get-more-done-with-pop-out-videos = ポップアウト動画でもっと可能性が広がる
 features-pip-got-things-to-do-do-both-with = 用事と動画視聴を一緒にこなしたいとき、{ -brand-name-firefox } のピクチャーインピクチャーなら両方できます。ウェブページから動画をポップアウトさせて画面に固定できるので、他のページやタブ、アプリなどを開いていても視聴できます。
-features-pip-play-the-video = 動画を再生
 features-pip-heres-how-it-works = 仕組みを紹介します。
 features-pip-play-any-video-in-your-updated = { -brand-name-firefox } ブラウザーで、このように<strong>適当な動画を再生します</strong>。
 features-pip-play-any-video-in-your = { -brand-name-firefox } ブラウザーで、このレッサーパンダの子のように<strong>お好きな動画を再生します</strong>。

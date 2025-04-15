@@ -11,12 +11,8 @@ features-pip-firefox-picture-in-picture-get-more = Gambar-dalam-Gambar { -brand-
 features-pip-got-things-to-do-and-things-to-watch = Ada benda yang hendak dibuat dan ada benda yang hendak ditonton? Buat kedua-duanya sekali dengan Gambar-dalam-Gambar dalam { -brand-name-firefox }.
 
 features-pip-picture-in-picture = Gambar-dalam-Gambar
-
-features-pip-new-feature-firefox-multi-picture = Ciri baru: Berbilang Gambar-dalam-Gambar { -brand-name-firefox }
-features-pip-cool-feature-picture-in-picture = Ciri hebat: Gambar-dalam-Gambar
 features-pip-get-more-done-with-pop-out-videos = Selesaikan lebih banyak kerja dengan video pop timbul
 features-pip-got-things-to-do-do-both-with = Ada benda yang hendak dibuat dan ada benda yang hendak ditonton? Buat kedua-duanya sekali dengan Gambar-dalam-Gambar dalam { -brand-name-firefox }. Ia membolehkan anda memaparkan video di luar daripada laman web video itu dan mengepinkannya kepada skrin anda supaya anda boleh terus menonton sambil membuka halaman, tab dan aplikasi lain.
-features-pip-play-the-video = Mainkan video
 features-pip-heres-how-it-works = Begini cara ia berfungsi:
 features-pip-play-any-video-in-your-updated = <strong>Mainkan apa-apa video</strong> dalam pelayar { -brand-name-firefox } anda, seperti ini.
 features-pip-play-any-video-in-your = <strong>Mainkan apa-apa video</strong> dalam pelayar { -brand-name-firefox } anda, seperti video yang dibintangi anak panda ini.

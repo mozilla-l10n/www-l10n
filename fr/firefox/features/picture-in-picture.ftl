@@ -11,12 +11,8 @@ features-pip-firefox-picture-in-picture-get-more = Incrustation vidéo { -brand-
 features-pip-got-things-to-do-and-things-to-watch = Vous avez des sites web à visiter et des vidéos à regarder ? Vous pouvez maintenant tout faire en même temps en utilisant l’incrustation vidéo de { -brand-name-firefox }.
 
 features-pip-picture-in-picture = Incrustation vidéo
-
-features-pip-new-feature-firefox-multi-picture = Nouvelle fonctionnalité : multi-incrustation vidéo { -brand-name-firefox }
-features-pip-cool-feature-picture-in-picture = Super fonctionnalité : l’incrustation vidéo
 features-pip-get-more-done-with-pop-out-videos = Gagnez en efficacité avec les vidéos incrustées
 features-pip-got-things-to-do-do-both-with = Vous avez des choses à faire et des vidéos à regarder ? Vous pouvez maintenant tout faire en même temps en utilisant l’incrustation vidéo de { -brand-name-firefox }. Grâce à cette fonctionnalité, vous pouvez extraire une vidéo de sa page web et en faire une fenêtre pop-up à placer sur votre écran pendant que vous consultez d’autres pages, d’autres onglets et d’autres applications.
-features-pip-play-the-video = Lire la vidéo
 features-pip-heres-how-it-works = Voici comment ça marche :
 features-pip-play-any-video-in-your-updated = <strong>Visionnez une vidéo</strong> dans votre navigateur { -brand-name-firefox }, comme celle-ci.
 features-pip-play-any-video-in-your = <strong>Regardez n’importe quelle vidéo</strong> dans votre navigateur { -brand-name-firefox }, comme celle de ces petits pandas roux.
