@@ -16,9 +16,7 @@ a-web-browser = Ein Internet-Browser bringt dich im Internet überall hin und er
 update-your-browser = Aktualisiere deinen Browser auf { -brand-name-firefox }, um schnell und sicher zu surfen.
 the-firefox-browser = Der { -brand-name-firefox }-Browser schützt deine Privatsphäre auf Schritt und Tritt. Dies ist der schnellste Weg, um dich von langsamen Ladevorgängen, störenden Anzeigen und Trackern zu befreien.
 firefox-is-more = { -brand-name-firefox } ist mehr als ein Browser
-its-a-lightning = Es ist eine blitzschnelle Tür zum besten Web-Erlebnis.
 get-the-browsers = Browser, bei denen deine Privatsphäre an erster Stelle steht
-get-the-privacy = Hol dir die Privatsphäre, die du verdienst. Der erweiterte Schutz vor Aktivitätenverfolgung macht die Privatsphäre zum Standard, jedes Mal, wenn du deinen Browser öffnest.
 choose-which-firefox = Hole dir den { -brand-name-firefox-browser } in deiner Sprache
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } für { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Ein { -brand-name-chromebook } hat schon { -brand-name-chrome } vorinstalliert, aber { -brand-name-firefox } als Standardbrowser bietet noch einige Vorteile:
@@ -34,7 +32,6 @@ new-school-meets = Neue Schule trifft alte Schule mit dem bisher schnellsten Bro
 firefox-for-windows = { -brand-name-firefox } für { -brand-name-windows } 64-bit
 we-worry-about = Wir kümmern uns um deine Datensicherheit, damit du dies nicht tun musst.
 
-old-habits-that = Alte Gewohnheiten, die schwer loszuwerden sind, aber du wirst dich besser fühlen, wenn du es tust.
 incognito-browser-what = Inkognito-Browser: Was es wirklich bedeutet
 firefox-calls-it = { -brand-name-firefox } nennt es privates Surfen, { -brand-name-chrome } nennt es Inkognito-Modus. Mit beiden kannst du im Internet surfen, ohne deine Surf-Chronik zu speichern.
 
@@ -42,7 +39,5 @@ firefox-more-fingerprinter-blocking = Blockt Identifizierer (Fingerprinter)
 firefox-more-fingerprinting-is-a = Fingerprinting ist eine Art von Online-Tracking, das invasiver ist als gewöhnliches Cookie-basiertes Tracking. Deshalb wird es von { -brand-name-firefox-browser } blockiert.
 firefox-more-translate-the-web = Das Web übersetzen
 firefox-more-translate-more-than = Übersetze mehr als 100 Sprachen direkt in deinem { -brand-name-firefox-browser } in deine Sprache – einfacher als je zuvor.
-firefox-more-a-guide-to = Ein Leitfaden für sicherere Zugangsdaten und Passwörter
-firefox-more-more-and-more = Immer mehr der sensiblen, wertvollen Dinge in unserem Leben werden durch Passwörter geschützt.
 firefox-more-avoid-misinformation-heading = Falschinformationen im Internet vermeiden – { -brand-name-firefox } hilft Ihnen dabei
 firefox-more-avoid-misinformation-desc = Sieh dir Tipps an, wie du weniger Falschinformationen siehst und dich auf das konzentrierst, was dir wichtig ist.

@@ -16,9 +16,7 @@ a-web-browser = Pelayar web membawa anda ke mana sahaja di Internet, yang membol
 update-your-browser = Kemas kini pelayar anda kepada { -brand-name-firefox } yang pantas, selamat dan dilindungi.
 the-firefox-browser = Pelayar { -brand-name-firefox } dibina untuk melindungi privasi anda pada setiap ketika — kerana itu cara terpantas untuk membebaskan anda daripada pemuatan perlahan, iklan jahat dan penjejak.
 firefox-is-more = { -brand-name-firefox } bukan sekadar pelayar
-its-a-lightning = Ia pintu masuk terpantas dalam menuju pengalaman web terbaik.
 get-the-browsers = Dapatkan pelayar yang mengutamakan privasi anda — sentiasa
-get-the-privacy = Dapatkan privasi yang berhak dinikmati. Perlindungan Penjejakan Dipertingkatkan menjadikan privasi automatik, setiap kali anda membuka pelayar anda.
 choose-which-firefox = Pilih { -brand-name-firefox-browser } untuk dimuat turun dalam bahasa anda
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } untuk { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Walaupun { -brand-name-chromebook } sudah memasang { -brand-name-chrome }, memuat turun dan menggunakan { -brand-name-firefox } sebagai pelayar pilihan anda memberikan beberapa kelebihan
@@ -34,7 +32,6 @@ new-school-meets = Orang baru bertemu orang lama dengan pelayar terpantas yang p
 firefox-for-windows = { -brand-name-firefox } untuk { -brand-name-windows } 64-bit
 we-worry-about = Biar kami saja yang bimbang tentang keselamatan data anda, anda tidak perlu.
 
-old-habits-that = Tabiat lama yang sukar dihapuskan tetapi anda pasti lega selepas itu.
 incognito-browser-what = Pelayar penyamaran: Apakah maksudnya
 firefox-calls-it = { -brand-name-firefox } memanggilnya pelayaran peribadi, { -brand-name-chrome } memanggilnya mod penyamaran. Kedua-duanya membolehkan anda melayari web tanpa menyimpan sejarah pelayaran anda.
 
@@ -42,7 +39,5 @@ firefox-more-fingerprinter-blocking = Menyekat Pengecap Jari
 firefox-more-fingerprinting-is-a = Pengecapan jari ialah sejenis penjejakan dalam talian yang lebih menceroboh berbanding dengan penjejakan berasaskan kuki yang biasa — itulah sebab { -brand-name-firefox-browser } menyekatnya.
 firefox-more-translate-the-web = Terjemahkan web
 firefox-more-translate-more-than = Terjemahkan lebih daripada 100 bahasa ke dalam bahasa anda terus dalam { -brand-name-firefox-browser } anda - ia tak pernah semudah ini.
-firefox-more-a-guide-to = Panduan log masuk dan kata laluan yang lebih selamat
-firefox-more-more-and-more = Kian lama kian banyak perkara sensitif dan berharga dalam hidup kita dilindungi oleh kata laluan.
 firefox-more-avoid-misinformation-heading = Elakkan maklumat salah dalam talian – { -brand-name-firefox } sedia membantu
 firefox-more-avoid-misinformation-desc = Lihat tip untuk kurang melihat maklumat salah dan fokus pada perkara yang penting bagi anda.

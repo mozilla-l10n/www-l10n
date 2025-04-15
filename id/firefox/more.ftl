@@ -16,9 +16,7 @@ a-web-browser = Peramban web membawa Anda ke mana saja di internet, memungkinkan
 update-your-browser = Perbarui peramban { -brand-name-firefox } Anda menjadi cepat, aman, dan terlindungi.
 the-firefox-browser = Peramban { -brand-name-firefox } dibuat untuk melindungi privasi Anda di setiap kesempatan — karena itulah cara tercepat untuk membebaskan Anda dari pemuatan lambat, iklan yang buruk, dan pelacak.
 firefox-is-more = { -brand-name-firefox } lebih dari sekadar peramban
-its-a-lightning = Ini adalah pintu kilat menuju pengalaman web terbaik.
 get-the-browsers = Dapatkan peramban yang mengutamakan privasi Anda — dan selalu seperti itu
-get-the-privacy = Dapatkan privasi yang pantas Anda dapatkan. Perlindungan Pelacakan yang Ditingkatkan menjadikan privasi otomatis, setiap kali Anda membuka peramban Anda.
 choose-which-firefox = Pilih { -brand-name-firefox-browser } yang akan diunduh dalam bahasa Anda
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } untuk { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Walaupun { -brand-name-chromebook } sudah terpasang { -brand-name-chrome }, mengunduh dan menggunakan { -brand-name-firefox } sebagai peramban utama memberi Anda beberapa keuntungan
@@ -34,7 +32,6 @@ new-school-meets = Gaya baru bertemu gaya lama dengan peramban tercepat saat ini
 firefox-for-windows = { -brand-name-firefox } untuk { -brand-name-windows } 64-bit
 we-worry-about = Kami mengkhawatirkan keamanan data Anda, jadi Anda tidak perlu melakukannya.
 
-old-habits-that = Kebiasaan lama sulit dihilangkan tetapi Anda akan merasa lebih baik jika itu terjadi.
 incognito-browser-what = Peramban penyamaran: Apa arti sebenarnya
 firefox-calls-it = { -brand-name-firefox } menyebutnya penjelajahan pribadi, { -brand-name-chrome } menyebutnya mode penyamaran. Keduanya memungkinkan Anda menjelajahi web tanpa menyimpan riwayat penjelajahan Anda.
 
@@ -42,7 +39,5 @@ firefox-more-fingerprinter-blocking = Pemblokiran Fingerprinting
 firefox-more-fingerprinting-is-a = Pengumpulan sidik jari (fingerprinting) adalah jenis pelacakan daring yang lebih invasif dibanding pelacakan berbasis cookie biasa — itulah sebabnya { -brand-name-firefox-browser } memblokirnya.
 firefox-more-translate-the-web = Terjemahkan web
 firefox-more-translate-more-than = Menerjemahkan ke lebih dari 100 bahasa ke bahasa Anda langsung di { -brand-name-firefox-browser } - lebih mudah dari sebelumnya.
-firefox-more-a-guide-to = Panduan untuk info masuk dan kata sandi yang lebih aman
-firefox-more-more-and-more = Semakin banyak hal sensitif dan berharga dalam hidup kita yang dilindungi oleh kata sandi.
 firefox-more-avoid-misinformation-heading = Hindari misinformasi daring – { -brand-name-firefox } hadir untuk membantu
 firefox-more-avoid-misinformation-desc = Lihat kiat-kiat bagaimana melihat lebih sedikit misinformasi dan fokus pada apa yang penting bagi Anda.

@@ -16,9 +16,7 @@ a-web-browser = ブラウザーは、インターネット上のあらゆるサ�
 update-your-browser = 高速・安全な { -brand-name-firefox } ブラウザーにアップデート。
 the-firefox-browser = { -brand-name-firefox } ブラウザーは、あらゆる側面でユーザーのプライバシーを守る設計。それが長びく読み込み時間や迷惑広告、トラッカーを解消する最短距離だからです。
 firefox-is-more = { -brand-name-firefox } は、ただのブラウザーではありません
-its-a-lightning = 最高のウェブエクスペリエンスへの最短距離です。
 get-the-browsers = すべてユーザーのプライバシーを常に優先するブラウザーです。
-get-the-privacy = プライバシーのあるべき姿強化型トラッキング防止により、ブラウザーを開く時、毎回プライバシー保護が自動化されます。
 choose-which-firefox = ご利用の言語でダウンロードする { -brand-name-firefox-browser } を選択してください
 firefox-more-firefox-chromebook = { -brand-name-chromebook } 用 { -brand-name-firefox-browser }
 firefox-more-while-on-chromebook = { -brand-name-chromebook } には { -brand-name-chrome } がプリインストールされていますが、{ -brand-name-firefox } をダウンロードして既定のブラウザーとして使用することには一定の利点があります。
@@ -34,7 +32,6 @@ new-school-meets = 伝統のプラットフォーム用の最先端・最速ブ�
 firefox-for-windows = { -brand-name-windows } 用 { -brand-name-firefox }
 we-worry-about = データの安全性をユーザーに代わって見守ります。
 
-old-habits-that = 長年の習慣を断ち切るのは大変ですが、断ち切れてしまえばすっきりします。
 incognito-browser-what = 真のシークレットブラウザー
 firefox-calls-it = { -brand-name-firefox } では、プライベートブラウジング、{ -brand-name-chrome } ではシークレットモードと呼ばれています。いずれも閲覧履歴を保存せずにウェブをブラウジング可能になります。
 
@@ -42,7 +39,5 @@ firefox-more-fingerprinter-blocking = フィンガープリント採取をブロ
 firefox-more-fingerprinting-is-a = フィンガープリント採取とは、オンライントラッキングの一種で、通常の Cookie ベースのトラッキングよりも侵入度が高くなります。そのため、{ -brand-name-firefox-browser } はこれをブロックします。
 firefox-more-translate-the-web = ウェブを翻訳
 firefox-more-translate-more-than = { -brand-name-firefox-browser } で 100 か国語以上から日本語などに直接翻訳、さらに簡単になりました。
-firefox-more-a-guide-to = ログインとパスワードのセキュリティ強化ガイド
-firefox-more-more-and-more = 医療記録や銀行口座、ラブレター (!?) など、取扱に注意を要する貴重なデータがパスワードで保護されるケースは増え続ける一方です。
 firefox-more-avoid-misinformation-heading = オンラインの誤報を回避 – { -brand-name-firefox } がお手伝いします
 firefox-more-avoid-misinformation-desc = 表示される誤報を減らし、重要な情報に焦点を当てるヒントを紹介します。

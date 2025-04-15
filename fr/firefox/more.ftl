@@ -16,9 +16,7 @@ a-web-browser = Un navigateur web vous emmène partout sur Internet, vous permet
 update-your-browser = Optez pour un navigateur { -brand-name-firefox } rapide et sécurisé.
 the-firefox-browser = Conçu pour protéger votre vie privée à chaque instant, { -brand-name-firefox } est le seul navigateur qui vous aide à vous libérer des chargements lents, des publicités inappropriées et des traqueurs.
 firefox-is-more = { -brand-name-firefox } est bien plus qu’un navigateur.
-its-a-lightning = Un portail rapide comme l’éclair vers la meilleure expérience Web.
 get-the-browsers = Installez les navigateurs qui respectent votre vie privée — et qui l’ont toujours fait
-get-the-privacy = Bénéficiez de l’intimité que vous méritez. La protection renforcée contre le pistage rend la confidentialité automatique, chaque fois que vous ouvrez votre navigateur.
 choose-which-firefox = Choisissez quel { -brand-name-firefox-browser } vous souhaitez télécharger dans votre langue
 firefox-more-firefox-chromebook = { -brand-name-firefox-browser } pour { -brand-name-chromebook }
 firefox-more-while-on-chromebook = Bien qu’un { -brand-name-chromebook } soit fourni avec { -brand-name-chrome }, télécharger et utiliser { -brand-name-firefox } comme navigateur habituel vous offre quelques avantages :
@@ -34,7 +32,6 @@ new-school-meets = La nouvelle garde au service de l’ancienne avec le navigate
 firefox-for-windows = { -brand-name-firefox } pour { -brand-name-windows } 64 bits
 we-worry-about = La sécurité de vos données est notre souci, pas le vôtre.
 
-old-habits-that = Les vieilles habitudes ont la vie dure, mais vous vous sentirez mieux quand elles ne seront plus.
 incognito-browser-what = Navigateur incognito : ce que cela signifie vraiment
 firefox-calls-it = { -brand-name-firefox } et { -brand-name-chrome } l’appellent navigation privée. Tous deux vous permettent de surfer sur le Web sans enregistrer votre historique de navigation.
 
@@ -42,7 +39,5 @@ firefox-more-fingerprinter-blocking = Blocage des détecteurs d’empreinte num�
 firefox-more-fingerprinting-is-a = La détection d’empreinte numérique est une forme de suivi en ligne plus invasive que le suivi ordinaire basé sur les cookies. C’est pour cette raison que { -brand-name-firefox-browser } la bloque.
 firefox-more-translate-the-web = Traduisez le Web
 firefox-more-translate-more-than = Traduisez plus de 100 langues dans votre langue directement dans votre { -brand-name-firefox-browser }. Plus facilement que jamais.
-firefox-more-a-guide-to = Un guide pour des identifiants et des mots de passe plus sûrs
-firefox-more-more-and-more = Un volume toujours plus important de données sensibles et précieuses sont protégées par mot de passe.
 firefox-more-avoid-misinformation-heading = Évitez la mésinformation en ligne : { -brand-name-firefox } est là pour vous aider
 firefox-more-avoid-misinformation-desc = Découvrez nos conseils pour voir moins de mésinformation et vous concentrer sur ce qui compte vraiment pour vous.
