@@ -4,19 +4,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
-# page title
-features-fingerprinting-what-is-fingerprinting-title = Was ist Fingerprinting und warum sollte man es blockieren?
-
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Fingerprinting ist eine Art von Online-Tracking, das invasiver ist als gewöhnliches Cookie-basiertes Tracking. Deshalb wird es von { -brand-name-firefox-browser } blockiert.
 
 features-fingerprinting-fingerprint-blocking = Blockierung von Identifizierern (Fingerprintern)
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blockiert Fingerprinting
-features-fingerprinting-ditch-the-sticky = Lass die störenden Werbeanzeigen, die dich verfolgen, mit dem integrierten Fingerprinting-Blocker des Browsers { -brand-name-firefox } hinter dir.
-
-# description for the header image
-features-fingerprinting-every-fingerprint = Jeder Fingerabdruck ist einzigartig.
-features-fingerprinting-download-firefox = { -brand-name-firefox } herunterladen
 features-fingerprinting-what-is-fingerprinting-body = Was ist Fingerprinting?
 features-fingerprinting-fingerprinting-is-a = Fingerprinting ist eine Art von Online-Tracking, das invasiver ist als gewöhnliches Cookie-basiertes Tracking. Ein digitaler Fingerabdruck wird erstellt, wenn ein Unternehmen ein eindeutiges Profil von dir erstellt, das auf deiner Computerhardware, -software, Add-ons und sogar deinen Einstellungen basiert. Deine Einstellungen wie der von dir verwendete Bildschirm, die auf deinem Computer installierten Schriftarten und sogar die Auswahl eines Webbrowsers können zum Erstellen eines Fingerabdrucks verwendet werden.
 features-fingerprinting-if-you-have = Falls du einen Laptop, PC oder ein Smartphone gemeinsam mit anderen nutzt, könnte es schwieriger sein, dein Gerät durch Fingerprinting zu identifizieren. Allerdings bist du leichter zu finden, je mehr einzigartige Add-ons, Fonts und Einstellungen du hast. Unternehmen können diese einzigartige Kombination von Informationen dazu nutzen, deinen Fingerprint zu erstellen. Deshalb blockiert { -brand-name-firefox } bekannte Fingerprinter, damit du deine Lieblingserweiterungen, Themen und Einstellungen nutzen kannst, ohne dabei von Werbung verfolgt zu werden.
@@ -41,4 +33,3 @@ features-fingerprinting-and-its-not = Die Einstellung ist einfach zu finden. Im 
 
 # $url_download (string) - link to firefox/new
 features-fingerprinting-you-probably-wouldnt = Wahrscheinlich möchtest du im wahren Leben auch nicht auf Schritt und Tritt verfolgt werden. Es gibt also keinen Grund, das online zu akzeptieren. Falls du nicht schon { -brand-name-firefox } hast, <a { $url_download }>lade ihn herunter und schütz dich selbst</a> vor digitalem Fingerprinting.
-features-fingerprinting-protect = Schütze deine Privatsphäre

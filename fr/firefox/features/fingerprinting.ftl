@@ -4,19 +4,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
-# page title
-features-fingerprinting-what-is-fingerprinting-title = Qu’est-ce que la détection d’empreinte numérique et pourquoi vous devriez la bloquer
-
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = La détection d’empreinte numérique est une forme de suivi en ligne plus invasive que le suivi ordinaire basé sur les cookies. C’est pour cette raison que { -brand-name-firefox-browser } la bloque.
 
 features-fingerprinting-fingerprint-blocking = Blocage de l’empreinte numérique
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } bloque la détection d’empreinte numérique
-features-fingerprinting-ditch-the-sticky = Débarrassez-vous des publicités qui vous suivent partout grâce aux bloqueurs de détecteurs d’empreintes numériques intégrés au navigateur { -brand-name-firefox }.
-
-# description for the header image
-features-fingerprinting-every-fingerprint = Chaque empreinte numérique est unique.
-features-fingerprinting-download-firefox = Télécharger { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = Qu’est-ce que la détection d’empreinte numérique ?
 features-fingerprinting-fingerprinting-is-a = Il s’agit d’un nouveau type de suivi en ligne, encore plus invasif que le suivi ordinaire basé sur les cookies. Une empreinte numérique est créée lorsqu’une entreprise établit un profil unique de votre personne en fonction de votre matériel informatique, de vos logiciels, de vos modules complémentaires et même de vos préférences. Des paramètres comme l’écran que vous utilisez, les polices installées sur votre ordinateur et même le navigateur avec lequel vous surfez sur le Web peuvent tous être utilisés pour créer votre empreinte numérique.
 features-fingerprinting-if-you-have = Si vous disposez d’un PC portable, d’un ordinateur de bureau ou d’un smartphone utilisé de façon classique, il peut être plus difficile d’identifier votre appareil de façon formelle grâce à la détection d’empreinte numérique. Toutefois, plus vous avez d’extensions, de polices et de paramètres uniques, plus vous serez facile à trouver. Les entreprises peuvent utiliser cet ensemble unique d’informations personnelles pour créer votre empreinte numérique. C’est pourquoi { -brand-name-firefox } bloque les détections d’empreinte numérique connues, pour vous permettre de continuer à utiliser vos extensions, vos thèmes et vos personnalisations préférés sans être suivi·e par des annonceurs.
@@ -41,4 +33,3 @@ features-fingerprinting-and-its-not = Et pour en profiter, même pas besoin de f
 
 # $url_download (string) - link to firefox/new
 features-fingerprinting-you-probably-wouldnt = Vous n’apprécieriez probablement pas que quelqu’un suive tous vos faits et gestes dans la vie réelle. Et il n’y a aucune raison d’accepter ça en ligne. Si vous n’utilisez pas encore { -brand-name-firefox }, <a { $url_download }>téléchargez-le et protégez-vous</a> de la détection d’empreinte numérique.
-features-fingerprinting-protect = Protégez votre vie privée

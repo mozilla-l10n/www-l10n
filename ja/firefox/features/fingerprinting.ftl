@@ -4,19 +4,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
-# page title
-features-fingerprinting-what-is-fingerprinting-title = フィンガープリント採取とは？ それをブロックする理由は？
-
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = フィンガープリント採取とは、オンライントラッキングの一種で、通常の Cookie ベースのトラッキングよりも侵入度が高くなります。そのため、{ -brand-name-firefox-browser } はこれをブロックします。
 
 features-fingerprinting-fingerprint-blocking = フィンガープリント採取をブロック
 features-fingerprinting-firefox-blocks-fingerprinting = フィンガープリント採取をブロックする { -brand-name-firefox }
-features-fingerprinting-ditch-the-sticky = { -brand-name-firefox } ブラウザーの内蔵フィンガープリント採取ブロッカーで、しつこい広告につきまとわれなくなります。
-
-# description for the header image
-features-fingerprinting-every-fingerprint = フィンガープリントは一人ひとり異なります。
-features-fingerprinting-download-firefox = { -brand-name-firefox } をダウンロード
 features-fingerprinting-what-is-fingerprinting-body = フィンガープリント採取とは？
 features-fingerprinting-fingerprinting-is-a = フィンガープリント採取とは、オンライントラッキングの一種で、通常の Cookie ベースのトラッキングよりも侵入度が高くなります。企業は、ユーザーのコンピューターのハードウェア、ソフトウェア、アドオン、さらには設定に基づいてユーザーの一意のプロファイルを作成することで、デジタルフィンガープリントを作成します。使用している画面、コンピューターにインストールされているフォント、ウェブブラウザーなど、すべてがフィンガープリント作成に使用されます。
 features-fingerprinting-if-you-have = 一般的なノートパソコンやデスクトップ、スマートフォンを使用しているだけなら、フィンガープリント採取でデバイスを特定するのは困難でしょう。しかし、独自性の高いアドオンやフォント、設定を使用しているほど特定されやすくなります。企業は、この情報の組み合わせを使用してユーザーのフィンガープリントを作成します。そこで { -brand-name-firefox } は、既知のフィンガープリント採取行為をブロックすることで、広告につきまとわれることなく、お気に入りの拡張機能やテーマ、カスタマイズを利用できるようにします。
@@ -41,4 +33,3 @@ features-fingerprinting-and-its-not = これは深くまで掘り下げて確認
 
 # $url_download (string) - link to firefox/new
 features-fingerprinting-you-probably-wouldnt = 実生活の中で何者かに後をつけられたら気持ちが悪いはずです。オンラインならやってもいいという理由はありません。まだ { -brand-name-firefox } をインストールしていない場合は、<a { $url_download }>ダウンロードしてデジタルフィンガープリント採取から身を守って</a>ください。
-features-fingerprinting-protect = プライバシーを保護

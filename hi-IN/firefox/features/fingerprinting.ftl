@@ -4,19 +4,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
-# page title
-features-fingerprinting-what-is-fingerprinting-title = फ़िंगरप्रिंटिंग क्या है और आपको इसे क्यों ब्लॉक करना चाहिए
-
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = फ़िंगरप्रिंटिंग ऑनलाइन ट्रैकिंग का एक प्रकार है जो सामान्य कुकी-आधारित ट्रैकिंग की तुलना में अधिक आक्रामक है — यही कारण है कि { -brand-name-firefox-browser } इसे ब्लॉक कर देता है।
 
 features-fingerprinting-fingerprint-blocking = फ़िंगरप्रिंटर ब्लॉकिंग
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } फ़िंगरप्रिंटिंग को ब्लॉक करता है
-features-fingerprinting-ditch-the-sticky = झंझटभरे विज्ञापनों से बचें - { -brand-name-firefox } ब्राउज़र के इन-बिल्ट फ़िंगरप्रिटिंग ब्लॉकर्स के ज़रिए।
-
-# description for the header image
-features-fingerprinting-every-fingerprint = हर फ़िंगरप्रिंट एक-दूसरे से अलग होता है।
-features-fingerprinting-download-firefox = { -brand-name-firefox } डाउनलोड करें
 features-fingerprinting-what-is-fingerprinting-body = फ़्रिंगरप्रिंटिंग किसे कहते हैं?
 features-fingerprinting-fingerprinting-is-a = यह एक किस्म की ऑनलाइन ट्रैकिंग है जो कि कुकीज़ पर आधारित सामान्य ट्रैकिंग की तुलना में कहीं ज्यादा गहरे तौर पर घुसपैठ करती है। जब कोई कंपनी आपके कंप्यूटर के हार्डवेयर, सॉफ्टवेयर, ऐड-ऑन और आपकी प्राथमिकताओं के आधार पर आपकी एक यूनीक प्रोफ़ाइल बनाती है, तो एक डिजिटल फ़िंगरप्रिंट तैयार होता है। आपकी सेटिंग को फ़िंगरप्रिंट बनाने के लिए इस्तेमाल किया जा सकता है। जैसे कि आपकी इस्तेमाल की जाने वाली स्क्रीन, आपके कंप्यूटर पर इंस्टॉल किए गए फ़ॉन्ट और तो और आपकी पसंद का ब्राउज़र भी।
 features-fingerprinting-if-you-have = अगर आपके पास ऐसा लैपटॉप, पीसी या स्मार्टफ़ोन है जिसे कई लोग इस्तेमाल करते हैं, तो हो सकता है कि फ़िंगरप्रिंटिंग के ज़रिए आपकी डिवाइस को अलग से पहचानना मुश्किल हो। हालाँकि, आपके ऐड-ऑन, फ़ॉन्ट और सेटिंग जितनी अलग होंगी, आपको ढूँढ़ना उतना ही आसान होगा। कंपनी इन सभी अलग-अलग चीज़ों के कॉम्बिनेशन के ज़रिए आपका फ़िंगरप्रिंट तैयार कर सकती हैं। इसीलिए { -brand-name-firefox } फ़िंगरप्रिंटिंग को ब्लॉक करता है, ताकि विज्ञापन आपका पीछा न कर सकें और आप अपने पसंदीदा एक्सटेंशन, थीम और कस्टमाइज़ेशन इस्तेमाल करते रह सकें।
@@ -41,4 +33,3 @@ features-fingerprinting-and-its-not = यह कोई ऐसी सेटिं
 
 # $url_download (string) - link to firefox/new
 features-fingerprinting-you-probably-wouldnt = अगर कोई असल ज़िंदगी में आपका पीछा करेगा, तो शायद आपको बिल्कुल अच्छा नहीं लगेगा। तो फिर इंटरनेट पर कोई आपका पीछा क्यों करे? अगर अब तक आपके पास { -brand-name-firefox } नहीं है, तो <a { $url_download }>डाउनलोड करें और खुद को डिजिटल फ़िगरप्रिंटिंग से सुरक्षित रखें</a>।
-features-fingerprinting-protect = अपनी निजता की रक्षा करें
