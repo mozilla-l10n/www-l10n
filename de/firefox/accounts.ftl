@@ -33,7 +33,6 @@ firefox-accounts-get-email-alerts = Erhalte E-Mail-Benachrichtigungen, wenn dein
 
 firefox-accounts-protect-your-identity = Schütze deine Identität mit sicheren Telefon- und E-Mail-Masken
 firefox-accounts-keep-your-passwords = Schütze deine Passwörter und nimm sie überall mit hin.
-firefox-accounts-get-a-lookout-for = Hol dir jemanden zur Seite, der Datenlecks im Auge behält.
 firefox-accounts-travel-the-internet = Beweg dich mit jedem Gerät sicher durchs Internet.
 firefox-accounts-encrypt-your = Verschlüssle deine Netzwerkaktivitäten und verstecke deine IP-Adresse
 firefox-accounts-we-never = Wir loggen, verfolgen oder teilen Ihre Netzwerkdaten nie.
@@ -46,7 +45,5 @@ firefox-accounts-get-it-all-on-every = Hol dir all das auf jedes deiner Geräte 
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

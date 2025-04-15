@@ -33,7 +33,6 @@ firefox-accounts-get-email-alerts = Dapatkan email peringatan jika info tentang 
 
 firefox-accounts-protect-your-identity = Lindungi identitas Anda dengan penyamaran telepon dan email yang aman
 firefox-accounts-keep-your-passwords = Simpan, lindungi, dan bawa kata sandi Anda ke mana saja.
-firefox-accounts-get-a-lookout-for = Dapatkan wawasan atas kebocoran data.
 firefox-accounts-travel-the-internet = Jelajahi internet dengan perlindungan, di setiap perangkat.
 firefox-accounts-encrypt-your = Enkripsi aktivitas jaringan dan sembunyikan alamat IP Anda
 firefox-accounts-we-never = Kami tidak pernah mencatat, melacak, atau membagikan data jaringan Anda
@@ -46,7 +45,5 @@ firefox-accounts-get-it-all-on-every = Dapatkan semuanya di setiap perangkat, ta
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

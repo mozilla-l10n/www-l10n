@@ -33,7 +33,6 @@ firefox-accounts-get-email-alerts = ज्ञात डेटा उल्लं
 
 firefox-accounts-protect-your-identity = सुरक्षित फ़ोन और ईमेल मास्किंग के जरिए अपनी पहचान की रक्षा करें
 firefox-accounts-keep-your-passwords = अपने पासवर्ड सुरक्षित और पोर्टेबल बनाए रखें।
-firefox-accounts-get-a-lookout-for = डेटा चोरी जैसे उल्लंघनों के लिए सतर्क रहें।
 firefox-accounts-travel-the-internet = सुरक्षा के साथ इंटरनेट की सैर करें, हर डिवाइस पर।
 firefox-accounts-encrypt-your = अपनी नेटवर्क गतिविधि को एन्क्रिप्ट करें और अपना IP एड्रेस छुपाएं
 firefox-accounts-we-never = हम आपके नेटवर्क डेटा को कभी भी लॉग, ट्रैक या शेयर नहीं करते
@@ -46,7 +45,5 @@ firefox-accounts-get-it-all-on-every = सभी डिवाइसों के
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

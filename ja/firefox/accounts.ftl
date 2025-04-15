@@ -33,7 +33,6 @@ firefox-accounts-get-email-alerts = 既知のデータ侵害であなたの情�
 
 firefox-accounts-protect-your-identity = 安全な電話とメールのマスキングで ID を保護
 firefox-accounts-keep-your-passwords = パスワードを保護しながらポータブルに。
-firefox-accounts-get-a-lookout-for = データ侵害にご注意ください。
 firefox-accounts-travel-the-internet = あらゆるデバイスで、安全にインターネットを旅しましょう。
 firefox-accounts-encrypt-your = ネットワークアクティビティを暗号化し、IP アドレスを秘匿
 firefox-accounts-we-never = Mozilla がユーザーのネットワークデータを記録、追跡、共有することはありません
@@ -46,7 +45,5 @@ firefox-accounts-get-it-all-on-every = 一つの OS に囚われず、すべて�
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }
