@@ -23,9 +23,6 @@ welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
 
 welcome-page8-see-what-youve-been = Lihat sama ada anda terlibat dalam kebocoran data dalam talian yang diketahui dan ambil tindakan untuk menyelesaikan masalah itu.
 welcome-page8-go-to-monitor = Pergi ke { -brand-name-monitor }
-welcome-page8-firefox-send = { -brand-name-firefox-send }
-welcome-page8-share-large-files = Kongsi fail besar dengan enkripsi hujung ke hujung menggunakan pautan yang luput secara automatik.
-welcome-page8-try-send = Cubalah { -brand-name-send }
 welcome-page8-facebook-container = { -brand-name-facebook-container }
 welcome-page8-stay-connected = Kekal terhubung dengan orang-orang yang tidak dapat bersama anda dalam kehidupan sebenar dan hentikan { -brand-name-facebook } daripada mengekori anda dalam talian.
 welcome-page8-add-facebook-container = Tambah { -brand-name-facebook-container }

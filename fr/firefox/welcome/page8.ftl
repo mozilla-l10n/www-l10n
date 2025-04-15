@@ -23,9 +23,6 @@ welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
 
 welcome-page8-see-what-youve-been = Vérifiez si une fuite de données connue vous implique et prenez les bonnes mesures pour régler le problème.
 welcome-page8-go-to-monitor = Utiliser { -brand-name-monitor }
-welcome-page8-firefox-send = { -brand-name-firefox-send }
-welcome-page8-share-large-files = Partagez des fichiers volumineux avec un chiffrement de bout en bout, en utilisant un lien qui expire automatiquement.
-welcome-page8-try-send = Essayer { -brand-name-send }
 welcome-page8-facebook-container = { -brand-name-facebook-container }
 welcome-page8-stay-connected = Restez connecté·e avec les personnes avec lesquelles vous ne pouvez pas être dans la vraie vie et empêchez { -brand-name-facebook } de vous pister en ligne.
 welcome-page8-add-facebook-container = Ajouter { -brand-name-facebook-container }

@@ -23,9 +23,6 @@ welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
 
 welcome-page8-see-what-youve-been = Lihat apakah Anda pernah terlibat dalam pelanggaran data daring yang diketahui dan ambil tindakan untuk mengatasinya.
 welcome-page8-go-to-monitor = Buka { -brand-name-monitor }
-welcome-page8-firefox-send = { -brand-name-firefox-send }
-welcome-page8-share-large-files = Bagikan file besar dengan enkripsi dari ujung ke ujung, menggunakan tautan yang kedaluwarsa secara otomatis.
-welcome-page8-try-send = Coba { -brand-name-send }
 welcome-page8-facebook-container = { -brand-name-facebook-container }
 welcome-page8-stay-connected = Tetap terhubung dengan orang-orang yang tidak ingin Anda temui dalam kehidupan nyata dan hentikan { -brand-name-facebook } mengikuti Anda secara daring.
 welcome-page8-add-facebook-container = Tambahkan { -brand-name-facebook-container }

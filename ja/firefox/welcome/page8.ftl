@@ -23,9 +23,6 @@ welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
 
 welcome-page8-see-what-youve-been = 確認されているオンライン上のデータ侵害にユーザーが巻き込まれているかどうかを確認し、問題の解決処置を講じることができます。
 welcome-page8-go-to-monitor = { -brand-name-monitor } へ移動
-welcome-page8-firefox-send = { -brand-name-firefox-send }
-welcome-page8-share-large-files = 自動で有効期限切れとなるリンクにより、エンドツーエンド暗号化を使用して大きなファイルを共有できます。
-welcome-page8-try-send = { -brand-name-send } を試用
 welcome-page8-facebook-container = { -brand-name-facebook-container }
 welcome-page8-stay-connected = { -brand-name-facebook } によるオンラインでの追跡を阻止しつつ、実際に会えない人々とのつながりを維持することができます。
 welcome-page8-add-facebook-container = { -brand-name-facebook-container } を追加

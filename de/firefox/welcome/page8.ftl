@@ -23,9 +23,6 @@ welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
 
 welcome-page8-see-what-youve-been = Finde heraus, ob du von einem bekannt gewordenen Datenleck betroffen bist und was jetzt zu tun ist.
 welcome-page8-go-to-monitor = Zu { -brand-name-monitor }
-welcome-page8-firefox-send = { -brand-name-firefox-send }
-welcome-page8-share-large-files = Sende große Dateien Ende-zu-Ende verschlüsselt und per Link, der automatisch abläuft.
-welcome-page8-try-send = { -brand-name-send } nutzen
 welcome-page8-facebook-container = { -brand-name-facebook-container }
 welcome-page8-stay-connected = Bleib mit denen verbunden, die im realen Leben weit weg sind und hindere { -brand-name-facebook } trotzdem daran, dich zu tracken.
 welcome-page8-add-facebook-container = { -brand-name-facebook-container } hinzufügen

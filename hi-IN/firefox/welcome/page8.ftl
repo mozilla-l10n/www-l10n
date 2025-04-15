@@ -23,9 +23,6 @@ welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
 
 welcome-page8-see-what-youve-been = देखें कि क्या आप ज्ञात ऑनलाइन डेटा उल्लंघनों में शामिल हैं और उन्हें हल करने के लिए कार्रवाई करें।
 welcome-page8-go-to-monitor = { -brand-name-monitor } पर जाएँ
-welcome-page8-firefox-send = { -brand-name-firefox-send }
-welcome-page8-share-large-files = स्वतः नष्ट होने वाले लिंक के साथ पूरी तरह से एन्क्रिप्शन वाली बड़ी फ़ाइल साझा करें।
-welcome-page8-try-send = { -brand-name-send } आज़माएँ
 welcome-page8-facebook-container = { -brand-name-facebook-container }
 welcome-page8-stay-connected = उन लोगों से जुड़े रहें जिनसे आप वास्तविक जीवन में दूर हैं, और { -brand-name-facebook } को आपके ऑनलाइन अनुसरण से रोकें।
 welcome-page8-add-facebook-container = { -brand-name-facebook-container } जोड़ें
