@@ -25,10 +25,6 @@ firefox-new-need-help = Butuh bantuan?
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">tidak menyediakan lagi pembaruan keamanan</a> di { -brand-name-windows } { -brand-name-xp } atau { -brand-name-vista }, tetapi Anda masih dapat menggunakan { -brand-name-firefox }.
-
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Unduhan Anda akan dimulai secara otomatis. Tidak berhasil? <a id="{ $id }" href="{ $fallback_url }">Coba unduh lagi.</a>
@@ -38,10 +34,6 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } lebih dari 
 firefox-new-download-interrupted = Unduhan Anda terhenti. Tapi semuanya tidak hilang.
 firefox-new-download-almost-there = Hampir selesai!
 firefox-new-download-select-linux = Pilih opsi unduh di bawah ini
-
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = Ikuti <a href="{ $url }">instruksi ini</a> untuk menginstal { -brand-name-firefox }.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
