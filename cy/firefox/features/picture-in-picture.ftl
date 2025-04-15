@@ -10,11 +10,8 @@ features-pip-firefox-picture-in-picture-get-more = Llun-mewn-Llun { -brand-name-
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Oes gennych chi bethau i'w gwneud a phethau i'w gwylio? Gwnewch y ddau gan ddefnyddio Llun-mewn-Llun yn { -brand-name-firefox }.
 features-pip-picture-in-picture = Llun-mewn-Llun
-features-pip-new-feature-firefox-multi-picture = Nodwedd newydd: { -brand-name-firefox } Llun-mewn-Llun lluosog
-features-pip-cool-feature-picture-in-picture = Nodwedd ddefnyddiol: Llun-mewn-Llun
 features-pip-get-more-done-with-pop-out-videos = Gwnewch ragor gyda fideos popio allan
 features-pip-got-things-to-do-do-both-with = Oes gennych chi bethau i'w gwneud a phethau i'w gwylio? Gwnewch y ddau gan ddefnyddio Llun-mewn-Llun yn { -brand-name-firefox }. Mae'n caniatáu i chi bopio fideo allan o'i dudalen we a'i binio i'ch sgrin fel y gallwch barhau i wylio tra'ch bod chi ar dudalennau, tabiau ac apiau eraill.
-features-pip-play-the-video = Chwarae'r fideo
 features-pip-heres-how-it-works = Dyma sut mae'n gweithio:
 features-pip-play-any-video-in-your-updated = <strong>Chwaraewch unrhyw fideo</strong> yn eich porwr { -brand-name-firefox }, fel hwn.
 features-pip-play-any-video-in-your = <strong>Chwaraewch unrhyw fideo</strong> yn eich porwr { -brand-name-firefox }, fel hwn sy'n serennu cenawon panda coch.

@@ -19,7 +19,5 @@ legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: Om rettane dine
 legal-thunderbird = { -brand-name-thunderbird }
 legal-thunderbird-rights = { -brand-name-thunderbird }: Om rettane dine
-legal-firefox-better-web = { -brand-name-firefox-better-web }
-legal-firefox-better-web-terms = { -brand-name-firefox-better-web } tenestevilkår
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mozilla-subscription-services = { -brand-name-mozilla } abonnementstenester

@@ -7,7 +7,6 @@
 
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Ta neste steg for å beskytte personvernet ditt på nettet med { -brand-name-firefox }-familien av produkter.
-welcome-page1-youre-on-track-to-stay-protected = Du er på rett vei til mer sikkerhet på nettet
 welcome-page1-youve-got-the-web-browser = Du har allerede nettleseren som beskytter personvernet ditt. Neste trinn: Hold et øye med datalekkasjer og hackere.
 welcome-page1-check-your-breach-report = Se datalekkasjerapporten din
 welcome-page1-stay-ahead-of-hackers = Hold deg et steg foran hackere

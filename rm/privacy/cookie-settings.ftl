@@ -39,11 +39,6 @@ cookie-settings-category-analytics-what-are-subheading = Tge èn cookies analiti
 cookie-settings-category-analytics-what-are-desc = Questas tecnologias rimnan infurmaziuns davart la moda e maniera en la quala las persunas utiliseschan las websites; per exempel las paginas visitadas, colliaziuns cliccadas e da tge autras websites che las visitadras ed ils visitaders vegnan.
 cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } utilisescha las statisticas per chapir co las utilisadras ed ils utilisaders interageschan cun sias websites per pudair las meglierar e schliar eventuals problems. Nus pudain era utilisar las datas da cookies, infurmaziuns davart l’apparat ed adressas IP per pudair chapir meglier co las utilisadras ed ils utilisaders dovran noss products, servetschs, communicaziuns, websites, campagnas online, apparats ed autras plattafurmas. Nus vegnin mo a rimnar datas statisticas e memorisar cookies analitics cun tes consentiment.
 
-## Consent section
-
-cookie-settings-your-consent-heading = Tes consentiment
-cookie-settings-your-consent-desc = Cun acceptar ils cookies, das ti tes consentiment per lur utilisaziun sin la suandanta glista da websites da { -brand-name-mozilla } che resguardan tuttas las medemas directivas strictas areguard la protecziun da datas. Considerescha per plaschair che questa glista po vegnir actualisada da temp en temp.
-
 ## Privacy section
 
 cookie-settings-privacy-heading = Nossa decleraziun davart la protecziun da datas

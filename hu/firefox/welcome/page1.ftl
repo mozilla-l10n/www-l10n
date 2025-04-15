@@ -10,7 +10,6 @@ welcome-page1-more-than-a-browser-mozilla = Több mint böngésző – a { -bran
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Tegye meg a következő lépést az online adatvédelme érdekében a { -brand-name-firefox } termékcsaláddal.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Legyen egy lépéssel a hackerek előtt. Ellenőrizze az atomvédelmi incidenseket a { -brand-name-mozilla-monitor } segítségével.
-welcome-page1-youre-on-track-to-stay-protected = Úton van ahhoz, hogy védve maradjon
 welcome-page1-youve-got-the-web-browser = Megkapta a webböngészőt, amely megvédi a magánszféráját – most itt az ideje, hogy szemmel tartsa a hackereket.
 welcome-page1-check-your-breach-report = Ellenőrizze az adatvédelmi incidensekről szóló jelentését
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

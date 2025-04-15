@@ -22,9 +22,5 @@ cookie-settings-category-preference-what-are-subheading = ¿Qué son las cookies
 ## Analytics cookies section
 
 
-## Consent section
-
-cookie-settings-your-consent-heading = Tu consentimiento
-
 ## Privacy section
 

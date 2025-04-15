@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = Csak a { -brand-name-firefox(case
 newsletter-form-if-you-havent-previously = Ha korábban nem erősítette meg a { -brand-name-mozilla }-hírlevél feliratkozását, akkor lehet hogy meg kell tennie. Ellenőrizze a Beérkezett üzenetek mappáját vagy a spam-szűrőjét az e-mailünk után.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Ön
 newsletter-form-get-firefox-tips = { -brand-name-firefox } tippek, trükkök, hírek és továbbiak
-newsletter-form-keep-up-with = Maradjon naprakész<br>mindennel, ami { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Kapjon { -brand-name-mozilla }-híreket
 newsletter-form-available-languages = Elérhető nyelvek
 newsletter-form-select-country = Válasszon országot

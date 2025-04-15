@@ -22,6 +22,5 @@ firefox-accounts-save-and-sync = <a href="{ $password }">രഹസ്യവാ�
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

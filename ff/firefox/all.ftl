@@ -18,14 +18,7 @@ firefox-all-firefox-privacy-notice = Tinndinoore Suturo { -brand-name-firefox }
 firefox-all-learn-about-firefox = Ɓeydu humpito baɗte wanngorde { -brand-name-firefox }
 firefox-all-the-standard-firefox = Wanngorde { -brand-name-firefox } aadannde ndee — yaawnde e suriinde.So a yananaaka hol { -brand-name-firefox } cuɓoto-ɗaa, suɓo mo.
 firefox-all-get-a-sneak-peek-at = Weddo yiytere andannde e fannuuji wanngorde { -brand-name-firefox } cakkitiiɗi  ɗii hade majji bayyineede.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Aawto { $product_label } ngam { $platform } e { $locale }
 firefox-all-msi-installers = Gaafirɗe MSI
-firefox-all-which-version = Hol yamre njiɗɗaa?
-firefox-all-select-your-preferred-installer = Labo aafirde ɓurannoonde ma
 firefox-all-select-your-preferred-language = Labo ɗemngal ɓurannoongal ma
 firefox-all-learn-about-installers = Ɓeydu humpito ko yowitii gaafirɗe
 firefox-all-product-firefox = { -brand-name-firefox }

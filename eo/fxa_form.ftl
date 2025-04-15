@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = Se vi daŭrigas, vi akceptas la <a href="{ $url1 }">kondiĉojn de uzo</a> kaj <a href="{ $url2 }">rimarkon pri privateco</a>.
 fxa-form-email-address = Retpoŝta adreso
 fxa-form-continue = Daŭrigi
-fxa-form-create-account = Krei konton
-fxa-form-get-the-app = Ricevi la programon

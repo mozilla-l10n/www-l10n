@@ -7,8 +7,6 @@
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = ለድርጅትዎ { -brand-name-firefox }ን በ{ -brand-name-esr } እና ፈጣን ልቀትን ያግኙ
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = አጠቃላይ እይታ
-firefox-enterprise-downloads = የወረዱ
 firefox-enterprise-get-firefox-for-your-enterprise = ለድርጅትዎ { -brand-name-firefox }ን ያግኙ
 firefox-enterprise-windows-64-bit = 64-ቢት { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }

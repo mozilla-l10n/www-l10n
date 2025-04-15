@@ -39,11 +39,6 @@ cookie-settings-category-analytics-what-are-subheading = Que es le cookies analy
 cookie-settings-category-analytics-what-are-desc = Iste technologias collige informationes re como on usa sitos web, tal como paginas visitate, ligamines cliccate, e qual altere visitas de sitos web origina.
 cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } usa informationes analytic pro comprender como le usatores interage con nostre sitos web assi que nos pote meliorar los, e remediar cata problemas que nasce. Nos pote usar alsi datos de cookies, informationes re le apparato, e adresses IP pro adjutar nos a comprender como le usatores es interessate con nostre productos, servicios, communicationes, sitos web, campanias online, apparatos, e altere platteformas. Nos solo colligera informationes analytic e predefini cookies analytic con tu consenso.
 
-## Consent section
-
-cookie-settings-your-consent-heading = Tu consentimento
-cookie-settings-your-consent-desc = Acceptante le cookies, tu consenso sera concedite pro le sequente lista de sitos web { -brand-name-mozilla }, que tote seque le mesme rigorose standards pro le confidentialitate de datos. Nota que iste lista pote esser actualisate in le tempore.
-
 ## Privacy section
 
 cookie-settings-privacy-heading = Nostre aviso de confidentialitate

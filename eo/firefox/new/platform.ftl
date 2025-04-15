@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Senpaga retumilo
-new-platform-download-firefox = Elŝuti { -brand-name-firefox }
 new-platform-download-the-fastest = Elŝuti la ĝisnune plej rapidan { -brand-name-firefox }
 new-platform-faster-page-loading = Pli rapida ŝargado de paĝoj, malpli da memoruzo kaj amaso da trajtoj, jen la nova { -brand-name-firefox }.
 new-platform-2x-faster = Duoble pli rapida
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Elŝutu { -brand-name-mozilla } { -br
 new-platform-download-the-fastest-linux = Elŝutu la ĝisnune plej rapidan { -brand-name-firefox } por { -brand-name-linux }
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Pli rapida ŝargado de paĝoj, malpli da memoruzo kaj amaso da trajtoj, jen la nova { -brand-name-firefox } por { -brand-name-linux }.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } por { -brand-name-linux }
 new-platform-privacy-more-than = Privateco - pli ol politiko
 new-platform-your-life-your-business = Via vivo estas via. { -brand-name-firefox } por { -brand-name-linux }blokas kuketajn spurilojn de eksteraj retejoj.
 new-platform-speed-meet-security = Rapideco, bonvolu konatiĝi kun sekureco. { -brand-name-firefox } estas duoble pli rapida kaj uzas 30% malpli da memoro ol { -brand-name-chrome }.

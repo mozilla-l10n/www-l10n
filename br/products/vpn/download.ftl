@@ -7,7 +7,6 @@
 
 vpn-download-page-title = Pellgargañ { -brand-name-mozilla-vpn }
 vpn-download-page-description = Pellgargañ { -brand-name-mozilla-vpn } evit { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android }, hag { -brand-name-ios }.
-vpn-download-button-copy = Pellgargañ
 vpn-download-for-windows-v2 = VPN evit { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit hepken)
 vpn-download-for-windows-long = Pellgargañ { -brand-name-mozilla-vpn } evit { -brand-name-windows }

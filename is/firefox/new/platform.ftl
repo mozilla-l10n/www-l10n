@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Ókeypis vafri
-new-platform-download-firefox = Sækja { -brand-name-firefox }
 new-platform-download-the-fastest = Sæktu hraðasta { -brand-name-firefox } nokkru sinni
 new-platform-faster-page-loading = Hraðari hleðsla á síðum, léttari minnisnotkun og fullt af eiginleikum, nýjasti { -brand-name-firefox } er hérna.
 new-platform-2x-faster = Tvöfalt hraðari
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Sæktu { -brand-name-mozilla } { -bra
 new-platform-download-the-fastest-linux = Sæktu hraðasta { -brand-name-firefox } nokkurn tíma fyrir { -brand-name-linux }
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Hraðari hleðsla á síðum, léttari minnisnotkun og fullt af eiginleikum, nýjasti { -brand-name-firefox } fyrir { -brand-name-linux } er hérna.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } fyrir { -brand-name-linux }
 new-platform-privacy-more-than = Persónuvernd - meira en bara stefna
 new-platform-your-life-your-business = Lífið þitt, þitt mál. { -brand-name-firefox } lokar á rakningarkökur frá utanaðkomandi aðilum á { -brand-name-linux }.
 new-platform-speed-meet-security = Hraði mætir öryggi. { -brand-name-firefox } er tvisvar sinnum hraðari með 30% minni minnisnotkun en { -brand-name-chrome }.

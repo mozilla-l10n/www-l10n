@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = Wobstarajśo { -brand-name-firefox } za swójo pśedewześe z { -brand-name-esr } a Rapid Release
 firefox-enterprise-get-unmatched-data-protection = Dostańśo njepśetrjefjony datowy šćit pla wózjawjeńskego rytmusa z { -brand-name-firefox } za pśedewześa, kótaryž se k wam maka. Ześěgniśo { -brand-name-esr } a Rapid Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Pśeglěd
-firefox-enterprise-downloads = Ześěgnjenja
 firefox-enterprise-get-firefox-for-your-enterprise = Wobstarajśo se { -brand-name-firefox } za Enterprise
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

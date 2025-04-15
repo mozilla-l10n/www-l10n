@@ -29,23 +29,6 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser }-tuki
 firefox-desktop-download-do-what-you-do-v2 = Tee mitä haluat verkossa.<br> { -brand-name-firefox-browser } <strong>suojaa</strong> sinua.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Tee mitä haluat verkossa.<br> { -brand-name-firefox-browser } <strong>ei</strong> tarkkaile.
-firefox-desktop-download-how-firefox-compares = Kuinka { -brand-name-firefox } pärjää muita selaimia vasten
-firefox-desktop-download-get-all-the-speed = Saat kaiken nopeuden ja kaikki työkalut ilman uhkaa yksityisyyden loukkauksesta. { -brand-name-firefox-browser } kerää sinusta mahdollisimman vähän tietoja, emme edes vaadi sähköpostiosoitettasi lataamiseen. Tämä johtuu siitä, että toisin kuin muilla selaimilla, meillä ei ole taloudellista intressiä seurata sinua verkossa.
-firefox-desktop-download-how-we-compare = Miten pärjäämme muihin selaimiin verrattuna
-firefox-desktop-download-compare-firefox-to = Vertaa { -brand-name-firefox }ia:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Kyllä
-firefox-desktop-download-no = Ei
-firefox-desktop-download-blocks-third-party = Estää kolmansien osapuolten seurainevästeet
-firefox-desktop-download-blocks-third-party-default = Estää kolmansien osapuolten seurainevästeet oletusarvoisesti
-firefox-desktop-download-autoplay-blocking = Automaattisen toiston esto
-firefox-desktop-download-blocks-social-trackers = Estää sosiaalisen median seuraimet
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = Saatavuus käyttöjärjestelmille
-firefox-desktop-download-in-browser-screenshot = Selaimen sisäinen kuvakaappaustyökalu
-firefox-desktop-download-primary-password = Pääsalasana
 firefox-desktop-download-we-block-the-ad = Mainosseuraimet estetty. Tutkit Internetiä nopeammin.
 firefox-desktop-download-ads-are-distracting = Mainokset häiritsevät ja niiden vuoksi verkkosivut latautumaan hitaammin, kun niiden seuraimet seuraavat jokaista liikettäsi verkossa. { -brand-name-firefox-browser } estää useimmat seuraimet automaattisesti, joten sinun ei välttämättä tarvitse penkoa turvallisuusasetuksia.
 firefox-desktop-download-see-your-report = Tarkastele suojausraporttiasi
@@ -149,7 +132,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Kysymyksiä? <a { $attrs }>{ -brand-name-mozilla }-tuki</a> auttaa.
-firefox-desktop-download-watch-for-hackers-with-v3 = Varaudu pahoilta hakkereilta { -brand-name-mozilla-monitor }in avulla, suojaa sähköpostiosoitettasi { -brand-name-firefox-relay }lla ja paljon muuta.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -172,18 +154,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = Jos näet kehotteen, jonka mukaan sovellus, jota yrität asentaa, ei ole { -brand-name-microsoft }-vahvistettu sovellus, napsauta "Asenna silti" tai <a { $attrs }>muuta sovellusten suositusasetuksia</a>.
 firefox-desktop-download-visit-support-for-more = Katso lisätietoja tukisivustolta
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ei enää tarjoa tietoturvapäivityksiä</a> { -brand-name-windows } { -brand-name-xp }:lle tai { -brand-name-vista }lle, mutta voit silti käyttää { -brand-name-firefox }ia.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Latauksen tulisi pian käynnistyä automaattisesti. Ongelmia? <a id="{ $id }" href="{ $fallback_url }">Yritä ladata uudelleen.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } on enemmän kuin selain.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Lataus keskeytettiin, mutta kaikki ei ole menetetty.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Voit asentaa { -brand-name-firefox }in seuraamalla <a href="{ $url }">näitä ohjeita</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Järjestelmäsi ei ehkä täytä { -brand-name-firefox }in vaatimuksia, mutta voit kokeilla jotakin <a href="{ $url }">näistä versioista</a>.

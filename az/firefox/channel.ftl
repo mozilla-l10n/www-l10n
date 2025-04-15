@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Yeni özəllikləri hələ tamamlanm
 firefox-channel-download-and-test-future = Masaüstü, { -brand-name-android } və { -brand-name-ios } üçün { -brand-name-firefox }-un gələcək buraxılışlarını endirin və yoxlayın.
 firefox-channel-experience-cutting-edge-android-updated = Ən son özəllikləri { -brand-name-android } üçün buraxılış öncəsi səyyahda yoxlayın: { -brand-name-firefox-beta } və { -brand-name-firefox-nightly }. İndi qurun!
 firefox-channel-experience-cutting-edge-android = Hələ tamamlanmamış { -brand-name-android } səyyahımızda yeni çıxan özəllikləri yoxlayın. { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } və { -brand-name-firefox-nightly }-ni indi endirin!
-firefox-channel-download-and-test-the-latest-android = { -brand-name-aurora }, { -brand-name-beta } və { -brand-name-nightly } buraxılışları ilə { -brand-name-android } üçün { -brand-name-firefox }-un ən yeni halını endirib test edin.
 firefox-channel-try-the-latest-android-features = Ən son { -brand-name-android } özəlliklərini hamıdan öncə siz yoxlayın.
 firefox-channel-all-languages-and-platforms = Bütün Dil və Platformalar
 firefox-channel-all-languages-and-builds = Bütün Dil və Buraxılışlar
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = { -brand-name-nightly } Bloq
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } stabil olmayan və tərtibat platformasıdır. İlkin vəziyyətdə { -brand-name-nightly } { -brand-name-mozilla }ya məlumat göndərir — bəzən də partnyorlarımıza — bu da xətaları tapmağımıza və yeni fikirləri yoxlamağımıza imkan verir. <a href="{ $link }">Nələrin paylaşıldığını öyrənin</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } avtomatik olaraq { -brand-name-mozilla }-ya əks-əlaqə göndərir.
-firefox-channel-try-new-browser-features = Yeni səyyah özəlliklərini hələ tamamlanmamış buraxılışlarda yoxlayın | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Ən son əlavə edilən özəllikləri hələ tamamlanmamış buraxılışlarımızda yoxlayın: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } və { -brand-name-firefox-nightly }-ni indi endirin!
 firefox-channel-download-and-test-the-latest-desktop = { -brand-name-developer-edition }, Aurora, { -brand-name-beta } və { -brand-name-nightly } buraxılışları ilə masaüstü üçün { -brand-name-firefox }-un ən yeni halını endirib test edin.
 firefox-channel-beta = { -brand-name-beta }

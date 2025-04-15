@@ -9,11 +9,9 @@
 vpn-resource-center-title = Centro Risorse VPN
 vpn-resource-center-whats-the-deal = Che cosa succede con le reti private virtuali?
 vpn-resource-center-discover-how-they = Scopri come funzionano, perché sono importanti e in che modo può tornarti utile utilizzare una VPN.
-vpn-resource-center-view-all = Visualizza tutto
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = Inizia oggi a proteggere la tua identità
 vpn-resource-center-obsessed-with = Ci impegniamo per proteggere la tua privacy dal 1998
-vpn-resource-center-get-mozilla-vpn = Ottieni { -brand-name-mozilla-vpn }
 vpn-resource-center-was-this-article = È stato utile questo articolo?
 vpn-resource-center-article-helpful = Utile
 vpn-resource-center-article-not-helpful = Non utile

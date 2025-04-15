@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = 我們只會寄送 { -brand-name-
 newsletter-form-if-you-havent-previously = 若您還沒有確認過要訂閱 { -brand-name-mozilla } 相關電子報，可能會收到我們的確認郵件。請檢查您的信箱收件匣或垃圾信件匣當中有沒有來自我們的郵件。
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + You
 newsletter-form-get-firefox-tips = 訂閱 { -brand-name-firefox } 最新使用密技、最新消息等相關資訊
-newsletter-form-keep-up-with = 保持關注 { -brand-name-firefox } 的最新資訊。
 newsletter-form-get-mozilla-updates = 獲得 { -brand-name-mozilla } 的最新資訊
 newsletter-form-available-languages = 可用語言
 newsletter-form-select-country = 選擇國家

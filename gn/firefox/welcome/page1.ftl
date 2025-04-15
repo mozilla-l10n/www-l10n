@@ -10,7 +10,6 @@ welcome-page1-more-than-a-browser-mozilla = Ndaha’éi kundahára año: { -bran
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Eku’evéke emo’ãkuaa hag̃ua ne ñemigua ñandutípe { -brand-name-firefox } apopyrekuéra ndive.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Eguatáke mba’evaiapoha renonderã. Ehechajey ne mba’ekuaarãpa ivaikuaa { -brand-name-mozilla-monitor } ndive.
-welcome-page1-youre-on-track-to-stay-protected = Eguata tape porãre ne rekorosãrã
 welcome-page1-youve-got-the-web-browser = Eguereko pe ñanduti kundahára omo’ã añetéva ne ñemigua. Ko’ág̃a eñemo’ãke mba’evaiapohágui.
 welcome-page1-check-your-breach-report = Ehecha marandu ñembyaigua
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

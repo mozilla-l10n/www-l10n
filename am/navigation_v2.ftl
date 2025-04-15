@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = { -brand-name-firefox }ን አውርድ
 navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } ያግኙ
 navigation-v2-menu = ምናሌ
 
@@ -69,9 +68,5 @@ navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-editio
 navigation-v2-get-the-firefox-browser-built = ለገንቢዎች ብቻ የተሰራውን የ{ -brand-name-firefox } አሳሽ ያግኙ።
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = ለድር ገንቢ ግብዓቶች ቤቱን ይመልከቱ።
-navigation-v2-firefox-reality = { -brand-name-firefox-reality }
-navigation-v2-explore-the-web-with-the = ለምናባዊ እውነታ ድሩን በ{ -brand-name-firefox } አሳሽ ያስሱ።
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = የድሩ የወደፊት ጊዜ ሁሉንም ሰው መስማት እንዲችል ድምጽዎን ይለግሱ።
-navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-learn-more-about-the-new = ስለ አዲሱ፣ ዝቅተኛ ደረጃ፣ ስብሰባ መሰል ቋንቋ የበለጠ ይወቁ።

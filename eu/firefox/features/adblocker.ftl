@@ -5,4 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Nola blokeatu iragarki gogaikarriak iragarki-blokeatzaile bat erabiliz

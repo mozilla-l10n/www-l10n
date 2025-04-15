@@ -21,7 +21,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Guardar y sincronizar c
 firefox-accounts-get-email-alerts = Recibe alertas por correo electrónico cuando tu información aparezca en una filtración de datos conocida
 firefox-accounts-protect-your-identity = Protege tu identidad con enmascaramiento seguro de correo electrónico y teléfono
 firefox-accounts-keep-your-passwords = Lleva a todas partes tus contraseñas, manteniéndolas seguras.
-firefox-accounts-get-a-lookout-for = Mantente al tanto de las fugas de datos.
 firefox-accounts-travel-the-internet = Explora Internet con protección, en cualquier dispositivo.
 firefox-accounts-encrypt-your = Cifra tu actividad de red y oculta tu dirección IP
 firefox-accounts-we-never = Nunca registramos, rastreamos ni compartimos los datos de tu red
@@ -33,6 +32,5 @@ firefox-accounts-get-it-all-on-every = Consíguelo todo en cualquier dispositivo
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

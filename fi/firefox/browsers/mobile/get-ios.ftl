@@ -9,6 +9,5 @@
 get-ios-firefox-for-ios = { -brand-name-firefox-browser } { -brand-name-ios }:lle
 # HTML page description
 get-ios-firefox-is-fast = { -brand-name-firefox }-selain { -brand-name-ios }:lle on nopea, turvallinen ja yksityinen ensimmäisestä avaamisesta lähtien.
-get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = Lataa { -brand-name-firefox } { -brand-name-ios }:lle
 get-ios-firefox-mobile-adapts = { -brand-name-firefox }in mobiiliversio mukautuu tarpeisiisi ja tekee kaikkien avoinna olevien välilehtien, aiempien hakujen ja suosikkisivustojen tarkastelun helpommaksi kuin koskaan.

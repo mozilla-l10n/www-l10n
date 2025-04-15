@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Estä ärsyttävät mainokset mainostenestäjällä
 features-adblocker-how-to-stop-seeing-too = Estä liiallisten mainosten näkeminen ja estä yrityksiä seuraamasta verkossa. Mainosteneston opas { -brand-name-firefox }-selaimelle.
 features-adblocker-the-ad-blocker-a-secret = Mainostenesto - salainen ase ärsyttäviä mainoksia vastaan.
 features-adblocker-so-many-ads-so-little = Niin paljon mainoksia, niin lyhyt pinna… On aika lopettaa hulluus.

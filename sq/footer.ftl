@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Manifesti i { -brand-name-mozilla }-s
 footer-privacy-hub = Qendër Privatësie
 footer-privacy = Privatësi
 footer-press = Për Shtypin
 footer-mozilla-blog = Blogu i { -brand-name-mozilla }-s
-footer-browser-comparison = Krahasim Shfletuesish
-footer-brand-standards = Standarde Marke
-footer-browsers = Shfletues
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = Zhvillues
 footer-developer-edition = { -brand-name-developer-edition }
@@ -38,7 +34,6 @@ footer-websites-legal = Ligjore
 footer-language = Gjuhë
 footer-go = Shko
 footer-donate = Dhuroni
-footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }

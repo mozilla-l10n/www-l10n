@@ -14,7 +14,6 @@ firefox-channel-see-something-that-isnt-working = Sien iets wat nie werk nie? La
 firefox-channel-file-a-bug-now = Rapporteer 'n fout nou
 firefox-channel-tips-for-filing-a-bug = Wenke vir die rapportering van 'n fout
 firefox-channel-download-and-test-future = Kry en toets toekomstige weergawes van { -brand-name-firefox } vir rekenaars, { -brand-name-android } en { -brand-name-ios }.
-firefox-channel-download-and-test-the-latest-android = Kry en toets die jongste funksies in { -brand-name-firefox } vir { -brand-name-android } met { -brand-name-aurora }, { -brand-name-beta } en { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Probeer die jongste funksionaliteit vir { -brand-name-android } voor dit wêreldwyd vrygestel word.
 firefox-channel-all-languages-and-builds = Alle tale en boukonfigurasies
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } stuur outomaties terugvoer aan { -brand-name-mozilla }.

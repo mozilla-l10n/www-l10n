@@ -10,11 +10,8 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } 画�
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = 想在做其他事的同时观看视频？请使用 { -brand-name-firefox } 的画中画。
 features-pip-picture-in-picture = 画中画
-features-pip-new-feature-firefox-multi-picture = 新功能：{ -brand-name-firefox } 画中画多开
-features-pip-cool-feature-picture-in-picture = 炫酷功能：画中画
 features-pip-get-more-done-with-pop-out-videos = 弹出式视频助您事半功倍
 features-pip-got-things-to-do-do-both-with = 想在做其他事的同时观看视频？请使用 { -brand-name-firefox } 的画中画。它可以将视频从网页弹出并固定在屏幕一处，以便您在浏览其他页面、标签页或软件时继续观看。
-features-pip-play-the-video = 播放视频
 features-pip-heres-how-it-works = 用法如下：
 features-pip-play-any-video-in-your-updated = 在您的 { -brand-name-firefox } 浏览器中<strong>播放任何视频</strong>，例如旁边这个。
 features-pip-play-any-video-in-your = 在您的 { -brand-name-firefox } 浏览器中<strong>播放任何视频</strong>，例如这个小熊猫幼崽视频。

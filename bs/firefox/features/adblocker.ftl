@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Kako blokirati dosadne oglase pomoću blokera oglasa
 features-adblocker-how-to-stop-seeing-too = Kako zaustaviti prikazivanje previše oglasa i spriječiti poduzeća da te prate na mreži. Priručnik za blokiranje oglasa u web browseru { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Bloker oglasa – tajno oružje protiv dosadnih oglasa.
 features-adblocker-so-many-ads-so-little = Puno oglasa, malo strpljenja … Vrijeme je da se zaustavi ludilo.

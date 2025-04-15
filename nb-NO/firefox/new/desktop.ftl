@@ -21,23 +21,6 @@ firefox-desktop-download-download-options = Nedlastingsalternativer og andre spr
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } brukerstøtte
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Gjør hva du vil på nettet. <br> { -brand-name-firefox-browser } <strong>overvåker</strong> deg ikke.
-firefox-desktop-download-how-firefox-compares = Hvordan { -brand-name-firefox } sammenlignes med andre nettlesere
-firefox-desktop-download-get-all-the-speed = Få hastighet og smarte verktøy uten å ofre personvernet. { -brand-name-firefox-browser } samler inn veldig lite data om deg, og vi ber deg heller ikke om e-postadressen din for å laste ned nettleseren. I motsetning til andre nettlesere, har vi ikke noen økonomisk interesse i å spore aktivitetene dine på nettet.
-firefox-desktop-download-how-we-compare = Hvordan vi sammenligner med andre nettlesere
-firefox-desktop-download-compare-firefox-to = Sammenlign { -brand-name-firefox } med:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Ja
-firefox-desktop-download-no = Nei
-firefox-desktop-download-blocks-third-party = Blokkerer tredjeparts sporingsinfokapsler
-firefox-desktop-download-blocks-third-party-default = Blokkerer tredjeparts sporingsinfokapsler som standard
-firefox-desktop-download-autoplay-blocking = Blokkering av automatisk avspilling
-firefox-desktop-download-blocks-social-trackers = Blokkerer alle sosiale media-sporere
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = OS-tilgjengelighet
-firefox-desktop-download-in-browser-screenshot = Skjermbildeverktøy i nettleseren
-firefox-desktop-download-primary-password = Hovedpassord
 firefox-desktop-download-we-block-the-ad = Vi blokkerer annonsesporere. Du utforsker internett raskere.
 firefox-desktop-download-ads-are-distracting = Annonser er irriterende og gjør at nettsidene laster tregere mens sporere sporer aktivitetene dine på nettet. { -brand-name-firefox-browser } blokkerer ganske enkelt de fleste av disse sporere automatisk, uten at du trenger å endre sikkerhetsinnstillingene dine.
 firefox-desktop-download-see-your-report = Se beskyttelsesrapporten din
@@ -154,18 +137,12 @@ firefox-desktop-download-in-another-language = Last ned på et annet språk elle
 firefox-desktop-download-if-you-see-a-prompt = Hvis du får en melding om at appen du prøver å installere ikke er en { -brand-name-microsoft }-bekreftet app, klikker du på «Installer likevel» eller <a { $attrs }>Endre innstillinger for appanbefaling</a>.
 firefox-desktop-download-visit-support-for-more = Besøk brukerstøtte for mer informasjon
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">gir ikke lenger sikkerhetsoppdateringer</a> på { -brand-name-windows } { -brand-name-xp } eller { -brand-name-vista }, men du kan fortsatt bruke { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Nedlastingen din bør starte automatisk. Fungerte det ikke? <a id="{ $id }" href="{ $fallback_url }">Prøv å laste ned på nytt.</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } er mer enn en nettleser.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Nedlastingen din ble avbrutt. Men alt er ikke tapt.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Følg <a href="{ $url }">denne veiledningen</a> for å installere { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Systemet ditt oppfyller kanskje ikke kravene for { -brand-name-firefox }, men du kan prøve en av <a href="{ $url }">disse versjonene</a>.

@@ -14,8 +14,6 @@ bookmark-manager-organize-your-bookmarks-with = Organiziraj svoje zabilješke po
 bookmark-manager-bookmarks-are-links-you-save = Zabilješke su poveznice koje sprema u svoj preglednik za brzo i jednostavno vraćanje na omiljena mjesta na webu. { -brand-name-firefox } uključuje praktičan upravljač za zabilješke tako da možeš organizirati, pretraživati, aktualizirati i <a { $sync }>sinkronizirati sve svoje spremljene poveznice na svim tvojim uređajima</a>.
 bookmark-manager-organize-your-boomarks-into = Organiziraj svoje zabilješke u mape koje se mogu pretraživati
 bookmark-manager-collect-your-bookmarks-in-folders = Spremi svoje zabilješke u mape i označi ih s više pojedinosti. Zabilješke može razvrstati za brzo pronalaženje onih koje trebaš.
-# Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-bookmark-manager = Slika prozora za upravljanje zabilješkama u { -brand-name-firefox }u.
 bookmark-manager-easily-import-bookmarks = Jednostavno uvezi zabilješke
 bookmark-manager-you-can-import-your-bookmarks = Svoje zabilješke iz Chromea, Safarija ili Edgea možeš uvesti pomoću { -brand-name-firefox }ovog čarobnjaka za uvoz. Klikni Zabilješke > Upravljaj zabilješkama i zatim odaberi „Uvoz i sigurnosna kopija”.
 # Used as an accessible text alternative for an image

@@ -9,25 +9,21 @@
 
 ## Company names
 
--brand-name-amazon = Amazon
 -brand-name-apple = Apple
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook = Facebook
 -brand-name-github = GitHub
 -brand-name-google = Google
--brand-name-hulu = Hulu
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
--brand-name-mullvad = Mullvad
 -brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
 -brand-name-wireguard = WireGuard
 -brand-name-linkedin = LinkedIn
 -brand-name-tiktok = TikTok
 -brand-name-spotify = Spotify
--brand-name-mastodon = Mastodon
 
 ## Firefox browsers
 
@@ -55,42 +51,27 @@
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = Aurora
--brand-name-firefox-daylight = Firefox Daylight
--brand-name-daylight = Daylight
 -brand-name-firefox-quantum = Firefox Quantum
--brand-name-firefox-lite = Firefox Lite
--brand-name-lite = Lite
--brand-name-firefox-reality = Firefox Reality
--brand-name-reality = Reality
 
 ## Firefox products
 
 -brand-name-facebook-container = Facebook kontejner
 -brand-name-firefox-devtools = Firefox programerski alati
 -brand-name-firefox-relay = Firefox Relay
--brand-name-firefox-relay-premium = Firefox Relay Premium
--brand-name-firefox-sync = Firefox sinkronizacija
 -brand-name-firefox-translations = Firefox prijevodi
 
 ## Firefox products (short names)
 
 -brand-name-devtools = Programerski alati
 -brand-name-relay = Relay
--brand-name-relay-premium = Relay Premium
--brand-name-sync = Sinkronizacija
 
 ## Firefox products (legacy)
 
 -brand-name-firefox-account = Firefox račun
 -brand-name-firefox-accounts = Firefox računi
--brand-name-firefox-better-web = Firefox Better Web
--brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-marketplace = Firefox tržište
 -brand-name-firefox-os = Firefox OS
--brand-name-firefox-send = Firefox Send
--brand-name-send = Send
 -brand-name-firefox-private-network = Privatna mreža Firefox
--brand-name-fpn = FPN
 
 ## Firefox projects
 
@@ -114,17 +95,14 @@
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
 -brand-name-irl-podcast = IRL podcast
--brand-name-llamafile = Llamafile
 -brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN web dokumenti
--brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account = Mozilla račun
 -brand-name-mozilla-accounts = Mozilla računi
--brand-name-mozilla-social = Mozilla.social
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla investicijski fondovi
 -brand-name-rise25 = Rise25
@@ -135,22 +113,14 @@
 -brand-name-common-voice = Common Voice
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
--brand-name-vpn = VPN
 
 ## Mozilla projects (legacy)
 
--brand-name-mozilla-developer-network = Mozilla Developer Network
--brand-name-mozilla-labs = Mozilla Labs
--brand-name-hubs = Hubs
--brand-name-lockwise = Lockwise
--brand-name-lightbeam = Lightbeam
--brand-name-maker-party = Maker Party
 -brand-name-webmaker = Webmaker
 
 ## Open Source projects
 
 -brand-name-rust = Rust
--brand-name-webassembly = WebAssembly
 
 ## Other browsers
 
@@ -160,7 +130,6 @@
 -brand-name-ie = Internet Explorer
 -brand-name-opera = Opera
 -brand-name-safari = Safari
--brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
@@ -170,10 +139,7 @@
 -brand-name-linux = Linux
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
--brand-name-ubuntu = Ubuntu
--brand-name-vista = Vista
 -brand-name-windows = Windows
--brand-name-xp = XP
 
 ## Apple products
 
@@ -186,7 +152,6 @@
 
 -brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram = Instagram
--brand-name-messenger = Messenger
 -brand-name-workplace = Workplace
 
 ## Google products

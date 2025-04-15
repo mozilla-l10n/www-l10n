@@ -11,7 +11,6 @@
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = Да започваме
 
 ## Press quotations
 

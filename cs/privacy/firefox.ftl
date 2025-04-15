@@ -39,5 +39,3 @@ privacy-firefox-take-me-back = Vezměte mě <a { $attrs }>zpět na začátek</a>
 # Variables:
 #   $attrs (string) - in-page link to the top of the page
 privacy-firefox-lost-in-the = Ztrácíte se v detailech? Vraťte se k <a { $attrs }>{ -brand-name-firefox } základům ochrany osobních údajů</a>.
-# links to Mozilla privacy policy
-privacy-firefox-mozilla-privacy = { -brand-name-mozilla } a soukromí

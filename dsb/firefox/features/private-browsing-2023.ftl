@@ -8,8 +8,6 @@
 features-private-browsing-private-browsing-mode = Priwatny modus
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = Priwatny modus { -brand-name-firefox }
-# HTML page description
-features-private-browsing-firefox-protects = { -brand-name-firefox } šćita wašu priwatnosć online a blokěrujo pśeslědowarje, kótarež wam w interneśe pśeslěduju.
 features-private-browsing-what-does-private-browsing-do = Co priwatny modus cyni?
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = Wokno wobglědowaka { -brand-name-firefox } w priwatnem modusu.

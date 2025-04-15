@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = { -brand-name-firefox } | Preuva e n
 firefox-channel-download-and-test-future = Scarega e preuva a verscion futûra de { -brand-name-firefox } pe computer, { -brand-name-android } e { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = { -brand-name-firefox-beta } e { -brand-name-firefox-nightly }: preuva e fonçioin a l'avangoardia inte 'na verscion sperimentâ de 'n navegatô pe { -brand-name-android }. Installa oua!
 firefox-channel-experience-cutting-edge-android = Preuva e fonçioin a l'avangoardia inte 'na verscion sperimentâ de 'n navegatô pe { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } e { -brand-name-firefox-nightly }. Installa oua!
-firefox-channel-download-and-test-the-latest-android = Scarega e preuva e urtime carateristiche de { -brand-name-firefox } pe { -brand-name-android } co-e build { -brand-name-aurora }, { -brand-name-beta } and { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Preuva e urtime carateristiche de { -brand-name-android }, primma ancon che vegnan rilasciæ a-o resto do mondo.
 firefox-channel-all-languages-and-platforms = Tutte e lengoe e piataforme
 firefox-channel-all-languages-and-builds = Tutte e lengoe e verscioin
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = Blog de { -brand-name-nightly }
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } o l'é 'na piataforma instabile de sviluppo. L'é preinpostou che { -brand-name-nightly } o mande dæti a { -brand-name-mozilla } — e quarche vòtta a-i nòstri coloboratoî — pe agiutane a gestî problemi e provâ idee. <a href="{ $link }">Sacci cöse l'é conivizo</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } o manda in outomatico di comenti a { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Preuva e neuve fonçioin do navegatô inte 'na verscion sperimentâ | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Preuva e fonçioin a l'avangoardia inte 'na verscion sperimentâ do navegatô: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } e { -brand-name-firefox-nightly }. Scarega oua!
 firefox-channel-download-and-test-the-latest-desktop = Scarega e preuva e urtime carateristiche de { -brand-name-firefox } pe computer con { -brand-name-developer-edition }, e build { -brand-name-beta } e { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

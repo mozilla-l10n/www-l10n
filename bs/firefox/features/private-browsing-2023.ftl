@@ -8,8 +8,6 @@
 features-private-browsing-private-browsing-mode = Privatni način pretraživanja
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox } način privatnog pretraživanja
-# HTML page description
-features-private-browsing-firefox-protects = { -brand-name-firefox } štiti vašu internet privatnost i blokira trakere koji vas prate na webu.
 features-private-browsing-if-you-share-a-computer = Ako dijelite računar s drugim ljudima ili ako želite ograničiti koliko podataka web stranice mogu prikupiti o vama, možete koristiti način privatnog pretraživanja u { -brand-name-firefox }u. Privatno pretraživanje briše digitalne tragove koje ostavljate za sobom kada pretražujete online — zamislite ih kao otiske stopala kroz šumu.
 features-private-browsing-what-does-private-browsing-do = Šta radi privatno pretraživanje?
 features-private-browsing-private-browsing-mode-opens-v2 = Režim privatnog pretraživanja otvara novi prozor pretraživača. Kada zatvorite posljednji prozor privatnog pretraživanja, vaša historija pretraživanja i svi kolačići za praćenje sa web stranica koje ste posjetili bit će izbrisani. <strong>{ -brand-name-firefox } Profesionalni savjet:</strong> Ne zaboravite zatvoriti sve prozore privatnog pretraživanja kada završite!

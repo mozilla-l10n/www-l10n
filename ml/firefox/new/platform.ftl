@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = സ്വതന്ത്ര വെബ് ബ്രൗസര്‍
-new-platform-download-firefox = ഫയർഫോക്സ് ഡൗണ്‍ലോഡ് ചെയ്യുക
 new-platform-download-the-fastest = ഫയര്‍ഫോക്സിന്റെ ഏറ്റവും വേഗതയേറിയ പരിപ്പ് ഡൌണ്‍ലോഡ് ചെയ്യു
 new-platform-faster-page-loading = വേഗതയേറിയ പേജ് ലോഡിങ്ങ്, കുറഞ്ഞ മെമ്മറി ഉപയോഗം, കൂടുതല്‍ സവിശേഷതകളുമായ് പുതിയ ഫയര്‍ഫോക്സ് ഇതാ എത്തി.
 new-platform-2x-faster = രണ്ടിരട്ടി വേഗത
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = സ്വതന്ത്ര വൈബ
 new-platform-download-the-fastest-linux = ലിനക്സിനു വേണ്ടിയുള്ള, ഏറ്റവും വേഗതയേറിയ ഫയർഫോക്സ് ഡൌൺലോഡ് ചെയ്യുക
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = വേഗതയേറിയ പേജ് ലോഡിങ്ങ്, കുറഞ്ഞ മെമ്മറി ഉപയോഗം, കൂടുതല്‍ സവിശേഷതകളുമായ് പുതിയ ലിനക്സിനായുള്ള ഫയര്‍ഫോക്സ് ഇതാ എത്തി.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-linux }-നായി { -brand-name-firefox }
 new-platform-privacy-more-than = സ്വകാര്യത - നയത്തിലുമപ്പുറം
 new-platform-open-source = ഓപ്പൺ സോഴ്സ്
 

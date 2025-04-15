@@ -14,7 +14,6 @@ mobile-focus-simply-private-mobile = Đơn giản là duyệt web riêng tư tr�
 mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } là trình duyệt bảo mật chuyên dụng của bạn với tính năng tự động chống theo dõi. Với { -brand-name-focus }, các trang của bạn tải nhanh hơn và dữ liệu của bạn vẫn ở chế độ riêng tư.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } khả dụng cho cả thiết bị { -brand-name-ios } và { -brand-name-android }.
 mobile-focus-get-firefox-focus = Tải { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = Gửi liên kết tải xuống đến điện thoại của bạn.
 mobile-focus-scan-the-qr-code-to-get-started = Quét mã QR để bắt đầu
 mobile-focus-scan-alt-text = Quét mã QR để tải xuống { -brand-name-firefox-focus }
 mobile-focus-delete-your-history = Xóa lịch sử của bạn

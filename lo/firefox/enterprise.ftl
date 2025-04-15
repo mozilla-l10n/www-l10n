@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = ເອົາ { -brand-name-firefox } ສໍາລັບວິສາຫະກິດຂອງທ່ານດ້ວຍ { -brand-name-esr } ແລະການປ່ອຍໄວ
 firefox-enterprise-get-unmatched-data-protection = ຮັບການປົກປ້ອງຂໍ້ມູນທີ່ບໍ່ກົງກັນໃນການປ່ອຍຕົວທີ່ເໝາະສົມກັບທ່ານກັບ { -brand-name-firefox } ສໍາລັບວິສາຫະກິດ. ດາວໂຫລດ { -brand-name-esr } ແລະການປ່ອຍໄວ.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = ພາບລວມ
-firefox-enterprise-downloads = ດາວໂຫລດ
 firefox-enterprise-get-firefox-for-your-enterprise = ເອົາ { -brand-name-firefox } ສໍາລັບວິສາຫະກິດຂອງທ່ານ
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

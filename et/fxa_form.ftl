@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = Jätkates nõustud <a href="{ $url1 }">Teenusetingimuste</a> ja <a href="{ $url2 }">Privaatsuspoliitikaga</a>.
 fxa-form-email-address = E-posti aadress
 fxa-form-continue = Jätkan
-fxa-form-create-account = Loo konto
-fxa-form-get-the-app = Rakenduse hankimine

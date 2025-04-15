@@ -26,7 +26,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">비밀번호 저장 및
 firefox-accounts-get-email-alerts = 정보가 알려진 데이터 위반에 나타날 때 이메일 알림 받기
 firefox-accounts-protect-your-identity = 안전한 전화 및 이메일 마스킹으로 신원을 보호
 firefox-accounts-keep-your-passwords = 비밀번호를 보호하고 항상 가지고 다니세요.
-firefox-accounts-get-a-lookout-for = 데이터 유출에 대비하세요.
 firefox-accounts-travel-the-internet = 모든 기기에서 보호 기능과 함께 인터넷을 활용하세요.
 firefox-accounts-encrypt-your = 네트워크 활동을 암호화하고 IP 주소를 숨김
 firefox-accounts-we-never = 네트워크 데이터를 기록하거나 추적, 공유하지 않습니다.
@@ -38,6 +37,5 @@ firefox-accounts-get-it-all-on-every = 한 운영체제에 갇히지 않고 모�
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

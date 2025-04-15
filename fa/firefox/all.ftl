@@ -27,14 +27,7 @@ firefox-all-windows-installers-for = نصاب‌های ویندوز برای IT 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = برای رایانه‌هایی که دارای پردازنده‌های ۳۲ بیتی هستند - یا برای رایانه‌های قدیمی یا ضعیف‌تر، یک نصاب ۳۲ بیتی را انتخاب کنید. <a href="{ $url }">اگر مطمئن نیستید</a> که یک نصاب ۶۴ بیتی یا ۳۲ بیتی لازم دارید، توصیه می‌کنیم ۳۲ بیتی را انتخاب کنید.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = دریافت { $product_label } برای { $platform } به زبان { $locale }
 firefox-all-msi-installers = نصاب‌های MSI
-firefox-all-which-version = کدام نسخه را دوست دارید؟
-firefox-all-select-your-preferred-installer = نصاب دلخواه خود را انتخاب کنید
 firefox-all-select-your-preferred-language = زبان دلخواه خود را انتخاب کنید
 firefox-all-learn-about-installers = در مورد نصاب‌ها اطلاعات کسب کنید
 firefox-all-product-firefox = { -brand-name-firefox }

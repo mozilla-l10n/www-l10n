@@ -8,25 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn }’i edinin
 vpn-shared-waitlist-link = Bekleme listesine katılın
-vpn-shared-available-countries-v6 = { -brand-name-mozilla-vpn } hizmetine şu anda Avusturya, Belçika, Bulgaristan, Kanada, Hırvatistan, Kıbrıs, Çek Cumhuriyeti, Danimarka, Estonya, Finlandiya, Fransa, Almanya, Macaristan, İrlanda, İtalya, Letonya, Litvanya, Lüksemburg, Malezya, Malta, Hollanda, Yeni Zelanda, Polonya, Portekiz, Romanya, Singapur, Slovenya, Slovakya, İspanya, İsveç, İsviçre, Birleşik Krallık ve ABD'den abone olabilirsiniz.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 gün para iade garantisi
-vpn-shared-features-encrypt = Cihaz düzeyinde şifreleme
-vpn-shared-features-bandwidth = Bant genişliği kısıtlaması yok
-vpn-shared-features-activity = Ağ etkinliğinizin kaydı tutulmaz
-vpn-shared-features-activity-logs = Hiçbir zaman çevrimiçi etkinliğinizin kaydını tutmayız
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = { $countries }+ ülkedeki sunuculara erişim
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = { $devices } cihazda koruma
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = { $countries }+ ülkede bulunan güçlü sunucular
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = { $devices } cihaz bağlayabilme imkânı
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30 gün para iade garantisi
 vpn-shared-privacy-notice = Gizlilik Bildirimi
@@ -65,12 +48,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } henüz
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = Başlayalım
 vpn-shared-platform-cta-button = Fiyatlara ve kullanılabilen ülkelere bakın
-vpn-shared-platform-privacy-promise = Gizliliğiniz sözümüzdür
 vpn-shared-platform-what-is = { -brand-name-mozilla-vpn } nedir?
 vpn-shared-platfrom-why-choose = Neden { -brand-name-mozilla-vpn }?
-vpn-shared-platform-what-youll-get = { -brand-name-mozilla-vpn } ile sahip olacağınız özellikler:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = VPN hakkında bilgi alın

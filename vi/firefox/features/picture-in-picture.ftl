@@ -10,11 +10,8 @@ features-pip-firefox-picture-in-picture-get-more = Hình trong hình trong { -br
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Bạn có những việc cần làm và những việc cần xem? Thực hiện cả hai bằng cách sử dụng Hình trong hình trong { -brand-name-firefox }.
 features-pip-picture-in-picture = Hình trong hình
-features-pip-new-feature-firefox-multi-picture = Tính năng mới: Đa cửa sổ hình-trong-hình trong { -brand-name-firefox }
-features-pip-cool-feature-picture-in-picture = Tính năng thú vị: Hình trong hình
 features-pip-get-more-done-with-pop-out-videos = Hoàn thành nhiều việc hơn với video bật ra
 features-pip-got-things-to-do-do-both-with = Bạn có những việc cần làm và những việc cần xem? Thực hiện cả hai bằng cách sử dụng Hình trong hình trong { -brand-name-firefox }. Nó cho phép bạn mở video ra khỏi trang web của video đó và ghim video đó vào màn hình để bạn có thể tiếp tục xem khi đang xem các trang, thẻ và ứng dụng khác.
-features-pip-play-the-video = Phát video
 features-pip-heres-how-it-works = Đây là cách nó hoạt động:
 features-pip-play-any-video-in-your-updated = <strong>Phát bất kỳ video nào</strong> trong trình duyệt { -brand-name-firefox } của bạn, chẳng hạn như thế này.
 features-pip-play-any-video-in-your = <strong>Phát bất kỳ video nào</strong> trong trình duyệt { -brand-name-firefox } của bạn, chẳng hạn như video này với sự tham gia của các chú gấu trúc đỏ.

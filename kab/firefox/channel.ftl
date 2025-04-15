@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Ɛreḍ timahilin timaynutin deg imi
 firefox-channel-download-and-test-future = Sader u sekyed ileqman i d-iteddun n { -brand-name-firefox } i uselkim, { -brand-name-android } akked { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Sekyed timahilin tineggura s yileqman-nneɣ uzwiren i { -brand-name-android } : { -brand-name-firefox-beta } akked { -brand-name-firefox-nightly }. Sader-iten-id tura!
 firefox-channel-experience-cutting-edge-android = Sekyed isnulfuyen ineggura s yileqman-nneɣ uzwiren i { -brand-name-android } : { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } akked { -brand-name-firefox-nightly }. Sader-iten-id tura!
-firefox-channel-download-and-test-the-latest-android = Sider syen sekyed timahilin tineggura n { -brand-name-firefox } i { -brand-name-android } s yileqman { -brand-name-aurora }, { -brand-name-beta } d { -brand-name-nightly } builds.
 firefox-channel-try-the-latest-android-features = Ɛreḍ timahilin tineggura ɣef { -brand-name-android } send ad d-ffɣent i yal yiwen.
 firefox-channel-all-languages-and-platforms = Akk tutlayin d yinagrawen
 firefox-channel-all-languages-and-builds = Akk tutlayin akked yileqman
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = Ablug { -brand-name-nightly }
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } d anagraw n usekyed akked d tneflit ur yerkiden ara. Di tazwara, { -brand-name-nightly } yettazen isefka i { -brand-name-mozilla } — Tikwal i yimendiden-nneɣ — akken ad ɣ-d-yefk afus ad nefru uguren neɣ ad neɛreḍ tiktiwin-nniḍen, <a href="{ $link }"> Issin ayen yettwabḍan</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } yettazen tikti s wudem awurman i { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Ɛreḍ timahilin timaynutin deg yileqman uzwiren | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Sekyed isnulfuyen ineggura s yileqman uzwiren: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } d { -brand-name-firefox-nightly }. Sider tura!
 firefox-channel-download-and-test-the-latest-desktop = Sader daɣen sekyed timahilin tineggura n { -brand-name-firefox } i uselkim s yileqman n { -brand-name-developer-edition }, { -brand-name-beta } akked { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = Aurrera jarraituz gero, <a href="{ $url1 }">zerbitzuaren baldintzak</a> eta <a href="{ $url2 }">pribatutasun-oharra</a> onartuko dituzu.
 fxa-form-email-address = Helbide elektronikoa
 fxa-form-continue = Jarraitu
-fxa-form-create-account = Sortu kontua
-fxa-form-get-the-app = Eskuratu app-a

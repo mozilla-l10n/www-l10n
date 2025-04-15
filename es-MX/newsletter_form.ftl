@@ -22,7 +22,6 @@ newsletter-form-im-okay-with-mozilla = Me parece bien que { -brand-name-mozilla 
 newsletter-form-if-you-havent-previously = Si no has confirmado previamente una suscripción a un boletín relacionado a { -brand-name-mozilla }, puede que tengas que hacerlo. Por favor, revisa tu bandeja de entrada o filtro de spam en busca de un email de nosotros.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Tú
 newsletter-form-get-firefox-tips = Obtén consejos, trucos, noticias y más de { -brand-name-firefox }
-newsletter-form-keep-up-with = Mantente con<br> todos los detalles de { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Recibe actualizaciones de { -brand-name-mozilla }
 newsletter-form-available-languages = Idiomas disponibles
 newsletter-form-select-country = Elige un país

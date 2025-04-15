@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = <strong>Upiši svoju e-mail adresu</strong> za st
 fxa-form-by-proceeding = Ako nastaviš, slažeš se s <a href="{ $url1 }">uvjetima pružanja usluge</a> i s <a href="{ $url2 }">napomenama o privatnosti</a>.
 fxa-form-email-address = E-mail adresa
 fxa-form-continue = Nastavi
-fxa-form-create-account = Stvori račun
-fxa-form-get-the-app = Preuzmi aplikaciju

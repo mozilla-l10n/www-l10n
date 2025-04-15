@@ -10,7 +10,6 @@ welcome-page1-more-than-a-browser-mozilla = Enemmän kuin selain – { -brand-na
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Ota seuraava askel suojataksesi yksityisyyttäsi verkossa { -brand-name-firefox }-tuoteperheen avulla.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Pysy hakkereiden edellä. Tarkista tietovuotojen varalta { -brand-name-mozilla-monitor }illa.
-welcome-page1-youre-on-track-to-stay-protected = Olet pian aiempaa suojatumpi
 welcome-page1-youve-got-the-web-browser = Sinulla on verkkoselain, joka suojaa yksityisyyttäsi – nyt on aika asettaa hakkerit tarkkailuun.
 welcome-page1-check-your-breach-report = Tarkista vuotoraportti
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

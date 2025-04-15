@@ -9,6 +9,5 @@
 get-ios-firefox-for-ios = { -brand-name-firefox-browser } til { -brand-name-ios }
 # HTML page description
 get-ios-firefox-is-fast = { -brand-name-firefox } til { -brand-name-ios } er hurtig, sikker og beskytter dit privatliv.
-get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = Hent { -brand-name-firefox } til { -brand-name-ios }
 get-ios-firefox-mobile-adapts = { -brand-name-firefox } til mobil tilpasser sig til dine vaner og gør det nemmere end nogensinde at se alle dine åbne faneblade, tidligere søgninger og foretrukne websteder.

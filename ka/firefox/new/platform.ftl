@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = უფასო ბრაუზერი
-new-platform-download-firefox = ჩამოტვირთეთ { -brand-name-firefox }
 new-platform-download-the-fastest = ჩამოტვირთეთ უსწრაფესი { -brand-name-firefox }
 new-platform-faster-page-loading = გვერდების მეტად სწრაფი გახსნა, მეხსიერების ნაკლები მოხმარება, უამრავ დამატებით შესაძლებლობებთან ერთად, ახალი { -brand-name-firefox } გელოდებათ.
 new-platform-2x-faster = 2-ჯერ მეტად სწრაფი
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = ჩამოტვირთეთ { -
 new-platform-download-the-fastest-linux = ჩამოტვირთეთ უსწრაფესი { -brand-name-firefox } { -brand-name-linux }-ზე
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = გვერდების მეტად სწრაფი გახსნა, მეხსიერების ნაკლები მოხმარება, უამრავ დამატებით შესაძლებლობებთან ერთად, ახალი { -brand-name-firefox } { -brand-name-linux }-ისთვის გელით.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } { -brand-name-linux }-ისთვის
 new-platform-privacy-more-than = პირადულობა – მეტი, ვიდრე უბრალო დებულება
 new-platform-your-life-your-business = თქვენი ცხოვრება, თქვენი საქმეა. { -brand-name-firefox } ზღუდავს გარეშე მეთვალყურე ფუნთუშებს { -brand-name-linux }-ზე.
 new-platform-speed-meet-security = სიჩქარე, უსაფრთხოებასთან ერთად. { -brand-name-firefox } ორჯერ უფრო მეტად სწრაფია და 30%-ით ნაკლებ მეხსიერებას იყენებს, ვიდრე { -brand-name-chrome }.

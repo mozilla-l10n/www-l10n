@@ -18,9 +18,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = چلو شروع کریں
 vpn-shared-platform-cta-button = قیمتیں اور دستیابی دیکھیں
-vpn-shared-platform-privacy-promise = آپ کی رازداری ہمارا وعدہ ہے
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 

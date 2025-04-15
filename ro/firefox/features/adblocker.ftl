@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Cum să blochezi reclamele enervante folosind o extensie de blocare a reclamelor
 features-adblocker-how-to-stop-seeing-too = Cum să nu mai vezi prea multe reclame și să împiedici firmele să te urmărească peste tot online. Ghid de blocare a reclamelor din browserul web { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Extensia de blocare a reclamelor - armă secretă împotriva reclamelor sâcâitoare.
 features-adblocker-so-many-ads-so-little = Atât de multe reclame, atât de puțină răbdare… A venit timpul să facem ordine în acest haos.

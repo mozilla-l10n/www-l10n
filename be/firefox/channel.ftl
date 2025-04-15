@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Паспрабуйце новыя м
 firefox-channel-download-and-test-future = Сцягнуць і пратэставаць будучыя выпускі { -brand-name-firefox } для камп'ютара, { -brand-name-android } і { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Паспрабуйце найноўшыя магчымасці ў перад-рэлізнай версіі браўзера для { -brand-name-android }: { -brand-name-firefox-beta } і { -brand-name-firefox-nightly }. Усталюйце зараз!
 firefox-channel-experience-cutting-edge-android = Паспрабуйце найноўшыя магчымасці ў перад-рэлізнай версіі браўзера для { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } і { -brand-name-firefox-nightly }. Усталюйце зараз!
-firefox-channel-download-and-test-the-latest-android = Сцягнуць і пратэставаць апошнія функцыі { -brand-name-firefox } для { -brand-name-android } у выпусках { -brand-name-aurora }, { -brand-name-beta } and { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Паспрабуйце найноўшыя функцыі для { -brand-name-android }, перш чым яны стануць даступныя для ўсяго свету.
 firefox-channel-all-languages-and-platforms = Усе мовы і платформы
 firefox-channel-all-languages-and-builds = Усе мовы і зборкі
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = Блог { -brand-name-nightly }
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } — гэта нестабільная платформа, для тэставання і распрацоўкі. Калі не ўказана іншае, { -brand-name-nightly } адпраўляе звесткі ў { -brand-name-mozilla } — і часам нашым партнёрам — каб дапамагчы нам выпраўляць праблемы і выпрабоўваць ідэі. <a href="{ $link }">Даведайцеся, якія звесткі становяцца даступнымі</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } аўтаматычна ажыццяўляе зваротную сувязь з { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Паспрабуйце новыя магчымасці браўзера ў перад-рэлізнай версіі | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Паспрабуйце найноўшыя магчымасці ў перад-рэлізных версіях: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } і { -brand-name-firefox-nightly }. Сцягніце зараз!
 firefox-channel-download-and-test-the-latest-desktop = Сцягнуць і пратэставаць апошнія функцыі { -brand-name-firefox } для камп'ютара у выпусках { -brand-name-developer-edition }, { -brand-name-beta } and { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

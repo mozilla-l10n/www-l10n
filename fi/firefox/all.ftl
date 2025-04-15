@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = Lataa { -brand-name-firefox } amerikanenglanniksi tai yli 90 muulla kielellä
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Jokainen ansaitsee pääsyn Internetiin – kieli ei saa koskaan olla este. Sen vuoksi tarjoamme { -brand-name-firefox }in omistautuneiden vapaaehtoisten avulla yli 90 kielellä.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = Hanki <em>{ $product_name }</em> skannaamalla QR-koodi
 firefox-all-choose-browser = Valitse selain jatkaaksesi
 firefox-all-choose-platform = Valitse alusta jatkaaksesi
 firefox-all-choose-language = Valitse kieli jatkaaksesi
@@ -65,14 +62,7 @@ firefox-all-product-send-link = Lähetä latauslinkki puhelimeesi
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Valitse 32-bittinen asennusohjelma tietokoneelle, jossa on 32-bittinen prosessori – tai vanhemmalle tai vähemmän tehokkaalle tietokoneelle. <a href="{ $url }">Jos et ole varma</a>, pitäisikö valita 64- vai 32-bittinen asennusohjelma, suosittelemme valitsemaan 32-bittisen.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Lataa { $product_label } alustalle { $platform } kielellä { $locale }
 firefox-all-msi-installers = MSI-asennusohjelmat
-firefox-all-which-version = Minkä version haluat?
-firefox-all-select-your-preferred-installer = Valitse haluamasi asennusohjelma
 firefox-all-select-your-preferred-language = Valitse haluamasi kieli
 firefox-all-learn-about-installers = Lue asennusohjelmista
 firefox-all-product-firefox = { -brand-name-firefox }

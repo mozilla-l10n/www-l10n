@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = Deskargatu { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Eskuratu { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menua
 
@@ -43,6 +42,4 @@ navigation-v2-innovation = Berrikuntza
 navigation-v2-close-innovation-menu = Itxi 'Berrikuntza' menua
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
-navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-common-voice = { -brand-name-common-voice }
-navigation-v2-webassembly = { -brand-name-webassembly }

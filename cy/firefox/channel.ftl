@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Defnyddiwch Nodweddion Newydd mewn P
 firefox-channel-download-and-test-future = Llwythwch i lawr a phrofi fersiynau'r dyfodol o { -brand-name-firefox } bwrdd gwaith, { -brand-name-android } ac { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Profwch nodweddion blaengar mewn porwr cyn ei ryddhau ar gyfer { -brand-name-android }: { -brand-name-firefox-beta } a { -brand-name-firefox-nightly }. Gosodwch nhw nawr!
 firefox-channel-experience-cutting-edge-android = Profwch nodweddion blaengar mewn porwr cyn ei ryddhau ar gyfer { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } a { -brand-name-firefox-nightly }. Gosodwch nhw nawr!
-firefox-channel-download-and-test-the-latest-android = Llwythwch i lawr a phrofi nodweddion y { -brand-name-firefox } { -brand-name-android } diweddaraf gydag fersiynau { -brand-name-aurora }, { -brand-name-beta } a { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Rhowch brawf ar nodweddion diweddaraf { -brand-name-android }, cyn eu bod yn cael eu ryddhau i weddill y byd.
 firefox-channel-all-languages-and-platforms = Pob Iaith a Fersiwn
 firefox-channel-all-languages-and-builds = Pob Iaith a Fersiwn
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = Mae { -brand-name-nightly } yn blatfform profi a datblygu ansad. Drwy ragosodiad mae { -brand-name-nightly }'n anfon data i { -brand-name-mozilla } — ac weithiau i'n partneriaid — i'n cynorthwyo i drin problemau a phrofi syniadau. <a href="{ $link }">Gweld beth sy'n caei ei rannu</a>.
 firefox-channel-firefox-nightly-automatically = Mae { -brand-name-firefox-nightly } yn anfon adborth yn awtomatig i { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Profwch Nodweddion Blaengar mewn Porwr cyn ei Ryddhau | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Profwch nodweddion blaengar mewn fersiynnau cyn eu ryddhau: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } a { -brand-name-firefox-nightly }. Llwythwch nhw lawr nawr!
 firefox-channel-download-and-test-the-latest-desktop = Llwythwch i lawr a phrofi nodweddion y { -brand-name-firefox } Bwrdd Gwaith diweddaraf gydag fersiynau { -brand-name-developer-edition }, { -brand-name-beta } a { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

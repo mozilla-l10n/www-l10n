@@ -8,8 +8,6 @@
 features-private-browsing-private-browsing-mode = Tryb prywatny
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = Tryb prywatny { -brand-name-firefox(case: "gen") }
-# HTML page description
-features-private-browsing-firefox-protects = { -brand-name-firefox } chroni Twoją prywatność i blokuje próby śledzenia Cię w Internecie.
 features-private-browsing-if-you-share-a-computer = Jeśli dzielisz komputer z innymi osobami lub chcesz ograniczyć ilość danych, które witryny mogą o Tobie zbierać, możesz użyć trybu prywatnego w { -brand-name-firefox(case: "loc") }. Tryb prywatny usuwa z komputera cyfrowe ślady, które zostawiasz, przeglądając strony internetowe — pomyśl o nich jak o śladach stóp w lesie.
 features-private-browsing-what-does-private-browsing-do = Co robi tryb prywatny?
 features-private-browsing-private-browsing-mode-opens-v2 = Tryb prywatny otwiera nowe okno przeglądarki. Gdy zamkniesz ostatnie okno trybu prywatnego, Twoja historia przeglądania i wszystkie ciasteczka z odwiedzanych witryn zostaną usunięte. <strong>Wskazówka od eksperta { -brand-name-firefox(case: "gen") }:</strong> Nie zapomnij zamknąć wszystkich okien trybu prywatnego, gdy skończysz!

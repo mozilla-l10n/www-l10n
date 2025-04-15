@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = Download { -brand-name-firefox } in het Nederlands en in meer dan 90 andere talen
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Iedereen verdient toegang tot het internet – uw taal mag nooit een barrière vormen. Daarom stellen we – met hulp van toegewijde vrijwilligers over de hele wereld – { -brand-name-firefox } beschikbaar in meer dan 90 talen.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = Scan de QR-code om <em>{ $product_name }</em> te downloaden
 firefox-all-choose-browser = Kies een browser om door te gaan
 firefox-all-choose-platform = Kies een platform om door te gaan
 firefox-all-choose-language = Kies een taal om door te gaan
@@ -69,14 +66,7 @@ firefox-all-product-send-link = Een downloadkoppeling naar uw telefoon verzenden
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Kies een 32-bits-installatieprogramma voor computers met 32-bits processors of voor oudere of minder krachtige computers. <a href="{ $url }">Als u niet zeker weet</a> of u een 64-bits- of 32-bits-installatieprogramma wilt gebruiken, raden we u aan om 32-bits te gebruiken.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Download { $product_label } voor { $platform } in het { $locale }
 firefox-all-msi-installers = MSI-installatieprogramma’s
-firefox-all-which-version = Welke versie wilt u?
-firefox-all-select-your-preferred-installer = Selecteer het gewenste installatieprogramma
 firefox-all-select-your-preferred-language = Selecteer uw voorkeurstaal
 firefox-all-learn-about-installers = Info over installatieprogramma’s
 firefox-all-product-firefox = { -brand-name-firefox }

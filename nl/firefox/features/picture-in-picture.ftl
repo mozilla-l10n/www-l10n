@@ -10,11 +10,8 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Pictu
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Hebt u dingen te doen en dingen te bekijken? Doe het tegelijkertijd met Picture-in-Picture in { -brand-name-firefox }.
 features-pip-picture-in-picture = Picture-in-Picture
-features-pip-new-feature-firefox-multi-picture = Nieuwe functie: { -brand-name-firefox } multi-Picture-in-Picture
-features-pip-cool-feature-picture-in-picture = Coole functie: Picture-in-Picture
 features-pip-get-more-done-with-pop-out-videos = Krijg meer gedaan met pop-outvideo’s
 features-pip-got-things-to-do-do-both-with = Hebt u dingen te doen en dingen te bekijken? Doe het tegelijkertijd met Picture-in-Picture in { -brand-name-firefox }. U kunt er een video mee uit de webpagina halen en deze aan uw scherm vastmaken, zodat u kunt blijven kijken terwijl u andere pagina’s, tabbladen en apps bezoekt.
-features-pip-play-the-video = De video afspelen
 features-pip-heres-how-it-works = Zo werkt het:
 features-pip-play-any-video-in-your-updated = <strong>Speel elke video af</strong> in uw { -brand-name-firefox }-browser, zoals deze.
 features-pip-play-any-video-in-your = <strong>Speel elke video af</strong> in uw { -brand-name-firefox }-browser, zoals deze met rode pandawelpjes.

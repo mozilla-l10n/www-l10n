@@ -9,7 +9,6 @@
 
 ## Company names
 
--brand-name-amazon = Amazon
 -brand-name-apple = Apple
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook = Facebook
@@ -80,26 +79,18 @@
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = Aurora
--brand-name-firefox-daylight = Firefox Daylight
--brand-name-daylight = Daylight
 -brand-name-firefox-quantum = Firefox Quantum
--brand-name-firefox-lite = Firefox Lite
--brand-name-lite = Lite
--brand-name-firefox-reality = Firefox Reality
--brand-name-reality = Reality
 
 ## Firefox products
 
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-relay = Firefox Relay
--brand-name-firefox-sync = Firefox Sync
 
 ## Firefox products (short names)
 
 -brand-name-devtools = DevTools
 -brand-name-relay = Relay
--brand-name-sync = Sync
 
 ## Firefox products (legacy)
 
@@ -139,14 +130,9 @@
                *[lower] conturi Firefox
             }
     }
--brand-name-firefox-better-web = Firefox Better Web
--brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
--brand-name-firefox-send = Firefox Send
--brand-name-send = Send
 -brand-name-firefox-private-network = Firefox Private Network
--brand-name-fpn = FPN
 
 ## Firefox projects
 
@@ -165,7 +151,6 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-mdn-web-docs = MDN Web Docs
--brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird
@@ -178,18 +163,11 @@
 
 ## Mozilla projects (legacy)
 
--brand-name-mozilla-developer-network = Mozilla Developer Network
--brand-name-mozilla-labs = Mozilla Labs
--brand-name-hubs = Hubs
--brand-name-lockwise = Lockwise
--brand-name-lightbeam = Lightbeam
--brand-name-maker-party = Maker Party
 -brand-name-webmaker = Webmaker
 
 ## Open Source projects
 
 -brand-name-rust = Rust
--brand-name-webassembly = WebAssembly
 
 ## Other browsers
 
@@ -199,7 +177,6 @@
 -brand-name-ie = Internet Explorer
 -brand-name-opera = Opera
 -brand-name-safari = Safari
--brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
@@ -209,10 +186,7 @@
 -brand-name-linux = Linux
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
--brand-name-ubuntu = Ubuntu
--brand-name-vista = Vista
 -brand-name-windows = Windows
--brand-name-xp = XP
 
 ## Apple products
 
@@ -225,7 +199,6 @@
 
 -brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram = Instagram
--brand-name-messenger = Messenger
 -brand-name-workplace = Workplace
 
 ## Google products

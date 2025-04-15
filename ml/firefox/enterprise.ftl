@@ -5,5 +5,4 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
-firefox-enterprise-downloads = ഇറക്കിവയ്ക്കലുകൾ
 firefox-enterprise-macos = { -brand-name-mac }

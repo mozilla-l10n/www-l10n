@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Jak blokovat obtěžující reklamy pomocí blokátoru reklam
 features-adblocker-how-to-stop-seeing-too = Jak zatočit s reklamami a zabránit společnostem ve sledování? Návod od { -brand-name-firefox(case: "gen") } na blokování reklam.
 features-adblocker-the-ad-blocker-a-secret = Blokování reklam je tajná zbraň proti otravným reklamám.
 features-adblocker-so-many-ads-so-little = Tak moc reklam a tak málo trpělivosti… Je načase zastavit šílenství.

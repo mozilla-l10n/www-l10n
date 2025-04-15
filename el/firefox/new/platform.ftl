@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Δωρεάν πρόγραμμα περιήγησης ιστού
-new-platform-download-firefox = Λήψη του { -brand-name-firefox }
 new-platform-download-the-fastest = Λήψη του πιο γρήγορου { -brand-name-firefox }
 new-platform-faster-page-loading = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και πλήθος δυνατοτήτων, το νέο { -brand-name-firefox } είναι εδώ.
 new-platform-2x-faster = 2x ταχύτερο
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Κάντε λήψη του { -brand-n
 new-platform-download-the-fastest-linux = Λήψη του πιο γρήγορου { -brand-name-firefox } για { -brand-name-linux }
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και πλήθος δυνατοτήτων, το νέο { -brand-name-firefox } για { -brand-name-linux } είναι εδώ.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } για { -brand-name-linux }
 new-platform-privacy-more-than = Απόρρητο: κάτι παραπάνω από πολιτική
 new-platform-your-life-your-business = Η ζωή σας αφορά μόνο εσάς. Το { -brand-name-firefox } αποκλείει τα τρίτα cookies καταγραφής στο { -brand-name-linux }.
 new-platform-speed-meet-security = Ταχύτητα, μαζί με ασφάλεια. Το { -brand-name-firefox } είναι δύο φορές ταχύτερο με 30% λιγότερη μνήμη από το { -brand-name-chrome }.

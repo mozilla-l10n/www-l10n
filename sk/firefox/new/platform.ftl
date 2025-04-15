@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Voľne dostupný webový prehliadač
-new-platform-download-firefox = Stiahnuť { -brand-name-firefox }
 new-platform-download-the-fastest = Stiahnite si ten najrýchlejší { -brand-name-firefox } vôbec
 new-platform-faster-page-loading = Rýchlejšie načítavanie stránok, menšia spotreba pamäte a množstvo funkcií. Nový { -brand-name-firefox } je tu.
 new-platform-2x-faster = 2x rýchlejší
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Nainštalujte si { -brand-name-mozill
 new-platform-download-the-fastest-linux = Stiahnite si ten najrýchlejší { -brand-name-firefox } pre { -brand-name-linux } vôbec
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Rýchlejšie načítavanie stránok, menšia spotreba pamäte a množstvo funkcií. Nový { -brand-name-firefox } pre { -brand-name-linux } je tu.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } pre { -brand-name-linux }
 new-platform-privacy-more-than = Súkromie - najdôležitejší prvok
 new-platform-your-life-your-business = Váš život, vaša vec. { -brand-name-firefox } blokuje sledovacie cookies tretích strán na { -brand-name-linux(case: "loc") }.
 new-platform-speed-meet-security = Rýchlosť aj bezpečnosť. { -brand-name-firefox } je dvakrát rýchlejší ako { -brand-name-chrome }, pričom používa o 30% menej pamäte.

@@ -24,18 +24,12 @@ firefox-new-need-help = ¿La nawajo' ato'ik?
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">man nikisüj ta chik kik'exoj jikomal</a> pa { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }, k'a yatikïr nawokisaj { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Ruyonil xtutikirisaj ri aqasanik. ¿La man nub'än ta? <a id="{ $id }" href="{ $fallback_url }">Titojtob'ëx niqasäx chik</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } man choj ta jun okik'amaya'l.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Xq'at ri aqasanik. Man ronojel ta sachel.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = Tab'ana' utzil ke'awoqaj <a href="{ $url }">re taq k'utunem</a> richin niyak ri { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Ri aq'inoj rik'in jub'a' man nuq'i' ta ri taq rajowaxik { -brand-name-firefox }, chuqa' ütz nitikirisäx nitojtob'ëx jun chi ke re <a href="{ $url }"> taq ruwäch re'</a>.

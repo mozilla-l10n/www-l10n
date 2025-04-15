@@ -60,4 +60,3 @@ firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } rec
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } ye lo solo navegador que incluye ferramientas creyadas especificament pa poder crear y disenyar con CSS Grid. Te permiten visualizar la quadricula, amostrar nombres d'aria asociaus, previsualizar los cambios y muito mas.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } ninvia opinions y sucherencias automaticament a { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Descarga lo navegador { -brand-name-firefox } creau pa desenvolvedors
-firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } s'ha redisenyau dende zero pa estar mas rapido, pincho y poderoso que nunca.

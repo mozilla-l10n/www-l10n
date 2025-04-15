@@ -14,13 +14,11 @@ browsers-mobile-infinitely-customizable-private = Oneindig aanpasbaar, privé en
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } voor { -brand-name-ios }
 browsers-mobile-go-your-own-way = Ga uw eigen weg met { -brand-name-firefox } mobiel
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } mobiel past zich aan u aan en maakt het gemakkelijker dan ooit om al uw geopende tabbladen, eerdere zoekopdrachten en favoriete websites te bekijken.
-browsers-mobile-the-more-you-use = Hoe meer u het gebruikt, hoe slimmer het wordt. Het startscherm van { -brand-name-firefox } past zich aan u aan en maakt het gemakkelijker om altijd verder te gaan waar u was gebleven.
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Krijg Verbeterde bescherming tegen volgen en maak van { -brand-name-firefox } uw standaardbrowser voor altijd op uw { -brand-name-iphone } en { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Op zoek naar een gestroomlijnde, supersnelle mobiele browser met privacyfuncties van de volgende generatie? { -brand-name-firefox-focus } wist automatisch al uw navigatiegeschiedenis vanaf het moment dat u uw browser opent tot het moment dat u deze sluit.
 browsers-mobile-compare = Vergelijken
-browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Ontdek hoe { -brand-name-firefox } voor desktop zich verhoudt tot andere browsers.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Ontdek hoe { -brand-name-firefox } voor <strong>desktop</strong> zich verhoudt tot andere browsers.
 browsers-mobile-download = Downloaden

@@ -10,7 +10,6 @@ welcome-page1-more-than-a-browser-mozilla = Más que un navegador: { -brand-name
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Da el siguiente paso para proteger tu privacidad en línea con la gama de productos { -brand-name-firefox }.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Mantente por delante de los hackers. Comprueba si tus datos se han visto afectados por alguna filtración de datos con { -brand-name-mozilla-monitor }.
-welcome-page1-youre-on-track-to-stay-protected = Vas por el buen camino para estar protegido
 welcome-page1-youve-got-the-web-browser = Tienes el navegador web que protege tu privacidad. Ahora es el momento de defenderte de los hackers.
 welcome-page1-check-your-breach-report = Consulta tu informe de filtraciones
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

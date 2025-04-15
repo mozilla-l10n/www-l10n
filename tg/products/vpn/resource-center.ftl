@@ -9,11 +9,9 @@
 vpn-resource-center-title = Маркази захиравии «VPN»
 vpn-resource-center-whats-the-deal = Чӣ гап бо шабакаҳои хусусии маҷозӣ?
 vpn-resource-center-discover-how-they = Бифаҳмед, ки онҳо чӣ тавр кор мекунанд, чаро онҳо муҳиманд ва истифодаи «VPN» барои шумо чӣ кор карда метавонад.
-vpn-resource-center-view-all = Ҳамаро дидан
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = Муҳофизати шахсияти худро имрӯз оғоз намоед
 vpn-resource-center-obsessed-with = Аз соли 1998 инҷониб махфияти шуморо ба парасторӣ гирифтем
-vpn-resource-center-get-mozilla-vpn = «{ -brand-name-mozilla-vpn }»-ро ба даст оред
 vpn-resource-center-was-this-article = Оё ин мақола муфид аст?
 vpn-resource-center-article-helpful = Мақола муфид аст
 vpn-resource-center-article-not-helpful = Мақола муфид нест

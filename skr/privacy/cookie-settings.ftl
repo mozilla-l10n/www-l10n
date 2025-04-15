@@ -30,10 +30,6 @@ cookie-settings-category-preference-what-are-subheading = ترجیح کوکیا�
 cookie-settings-category-analytics-heading = تجزیاتی
 cookie-settings-category-analytics-what-are-subheading = تجزیاتی کوکیاں کیا ہن؟
 
-## Consent section
-
-cookie-settings-your-consent-heading = تہاݙی رضامندی
-
 ## Privacy section
 
 cookie-settings-privacy-heading = ساݙا رازداری نوٹس

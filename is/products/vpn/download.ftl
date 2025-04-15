@@ -10,7 +10,6 @@ vpn-download-page-description = Sæktu { -brand-name-mozilla-vpn } fyrir { -bran
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-download-sub-heading = Þú getur sótt { -brand-name-mozilla-vpn } á allt að { $devices } tæki með einni áskrift.
-vpn-download-button-copy = Sækja
 vpn-download-for-windows-v2 = VPN fyrir { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (aðeins 64-bita)
 vpn-download-for-windows-long = Sæktu { -brand-name-mozilla-vpn } fyrir { -brand-name-windows }
@@ -28,8 +27,6 @@ vpn-download-for-android = VPN fyrir { -brand-name-android }
 vpn-download-for-android-long = Sæktu { -brand-name-mozilla-vpn } fyrir { -brand-name-android }
 vpn-download-for-ios = VPN fyrir { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Sæktu { -brand-name-mozilla-vpn } fyrir { -brand-name-ios }
-vpn-download-get-on-google-play = Ná í á { -brand-name-google-play }
-vpn-download-get-on-app-store = Ná í á { -brand-name-app-store }
 vpn-download-based-on-your = Byggt á núverandi tæki
 vpn-download-get-mozilla-vpn = Fáðu þér { -brand-name-mozilla-vpn }
 vpn-download-privacy-you-can = Persónuvernd sem þú getur treyst

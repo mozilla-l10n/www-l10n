@@ -8,25 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = รับ { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = ลงทะเบียนรอเปิดตัว
-vpn-shared-available-countries-v6 = ขณะนี้เราให้บริการ { -brand-name-mozilla-vpn } ในออสเตรีย เบลเยียม บัลแกเรีย แคนาดา โครเอเชีย ไซปรัส สาธารณรัฐเช็ก เดนมาร์ก เอสโตเนีย ฟินแลนด์ ฝรั่งเศส เยอรมนี ฮังการี ไอร์แลนด์ อิตาลี ลัตเวีย ลิทัวเนีย ลักเซมเบิร์ก มาเลเซีย มอลตา เนเธอร์แลนด์ นิวซีแลนด์ โปแลนด์ โปรตุเกส โรมาเนีย สิงคโปร์ สโลวีเนีย สโลวาเกีย สเปน สวีเดน สวิตเซอร์แลนด์ สหราชอาณาจักร และสหรัฐอเมริกา
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = รับประกันคืนเงินภายใน 30 วัน
-vpn-shared-features-encrypt = การเข้ารหัสลับในระดับอุปกรณ์
-vpn-shared-features-bandwidth = ไม่มีการจำกัดแบนด์วิดธ์
-vpn-shared-features-activity = ไม่มีการบันทึกกิจกรรมเครือข่ายของคุณ
-vpn-shared-features-activity-logs = ไม่มีการบันทึกกิจกรรมออนไลน์เลยทุกเวลา
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = เข้าถึงเซิร์ฟเวอร์ใน { $countries }+ ประเทศ
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = ปกป้องได้ถึง { $devices } อุปกรณ์
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = เซิร์ฟเวอร์อันแข็งแกร่งใน { $countries }+ ประเทศ
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = เชื่อมต่อได้ถึง { $devices } อุปกรณ์
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = รับประกันคืนเงินภายใน 30 วัน
 vpn-shared-privacy-notice = ประกาศความเป็นส่วนตัว
@@ -65,12 +48,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } ยั
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = มาเริ่มกันเลย
 vpn-shared-platform-cta-button = ดูราคาและพื้นที่ให้บริการ
-vpn-shared-platform-privacy-promise = ความเป็นส่วนตัวของคุณคือคำมั่นสัญญาของเรา
 vpn-shared-platform-what-is = { -brand-name-mozilla-vpn } คืออะไร?
 vpn-shared-platfrom-why-choose = ทำไมต้อง { -brand-name-mozilla-vpn }?
-vpn-shared-platform-what-youll-get = สิ่งที่คุณจะได้รับจาก { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = เรียนรู้เกี่ยวกับ VPN

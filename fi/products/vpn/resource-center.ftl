@@ -9,11 +9,9 @@
 vpn-resource-center-title = VPN-resurssikeskus
 vpn-resource-center-whats-the-deal = Mitä virtuaaliset erillisverkot eli VPN:t ovat?
 vpn-resource-center-discover-how-they = Ota selvää, miten ne toimivat, miksi ne ovat tärkeitä ja mitä VPN:n käyttö voi tarjota sinulle.
-vpn-resource-center-view-all = Näytä kaikki
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = Aloita identiteettisi suojaaminen tänään
 vpn-resource-center-obsessed-with = Kiinnostunut yksityisyydestäsi vuodesta 1998 lähtien
-vpn-resource-center-get-mozilla-vpn = Hanki { -brand-name-mozilla-vpn }
 vpn-resource-center-was-this-article = Oliko tästä artikkelista apua?
 vpn-resource-center-article-helpful = Artikkeli hyödyllinen
 vpn-resource-center-article-not-helpful = Artikkeli ei hyödyllinen

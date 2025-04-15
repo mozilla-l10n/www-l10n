@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = Сканирайте QR, за да получите <em>{ $product_name }</em>
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Получете помощ
 firefox-all-lang-multi = Множество езици
@@ -25,14 +22,7 @@ firefox-all-product-send-link = Изпращане на препратка за 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Изберете 32-битов инсталатор за компютри с 32-битови процесори — или за по-стари или по-малко мощни компютри. <a href="{ $url }"> Ако не сте сигурни </a> дали да изберете 64-битов или 32-битов инсталатор, препоръчваме ви да изберете 32-битов.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Изтеглете { $product_label } за { $platform } на { $locale }
 firefox-all-msi-installers = Инсталатори MSI
-firefox-all-which-version = Коя версия бихте искали?
-firefox-all-select-your-preferred-installer = Изберете предпочитан инсталатор
 firefox-all-select-your-preferred-language = Изберете предпочитан език
 firefox-all-learn-about-installers = Научете повече за инсталаторите
 firefox-all-product-firefox = { -brand-name-firefox }

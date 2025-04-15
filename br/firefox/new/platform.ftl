@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Merdeer web digoust
-new-platform-download-firefox = Pellgargañ { -brand-name-firefox }
 new-platform-download-the-fastest = Pellgargit ar merdeer { -brand-name-firefox } buanañ n'eus bet morse
 new-platform-2x-faster = 2x Buanoc'h
 new-platform-download-in-another = Pellgargañ en ur yezh all

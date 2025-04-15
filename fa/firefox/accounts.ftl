@@ -9,7 +9,6 @@ firefox-accounts-enter-your-email-address = برای شروع، آدرس پست 
 firefox-accounts-already-have-an-account = پیش از این حساب داشته‌اید؟
 firefox-accounts-sign-in = ورود
 firefox-accounts-keep-your-passwords = گذرواژه‌های خود را امن و قابل حمل نگهداری کنید.
-firefox-accounts-get-a-lookout-for = از نشت اطلاعات مطلع شوید.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 

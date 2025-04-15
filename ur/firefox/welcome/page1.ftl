@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
-welcome-page1-youre-on-track-to-stay-protected = محفوظ رہنے کے لئے راہ راست پر ہے
 welcome-page1-youve-got-the-web-browser = آپ کو ایک ویب براؤزر مل گیا ہے جو آپ کی رازداری کی حفاظت کرتا ہے۔ اب وقت آگیا ہے کہ ہیکرز کو تلاش کیا جائے۔
 welcome-page1-check-your-breach-report = خلاف ورزیوں کی رپورٹ جانچ پڑتال کریں
 welcome-page1-stay-ahead-of-hackers = ہیکروں سے آگے رہیں

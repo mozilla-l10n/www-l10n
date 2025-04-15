@@ -14,8 +14,6 @@ bookmark-manager-organize-your-bookmarks-with = Organizirajte svoje oznake pomo�
 bookmark-manager-bookmarks-are-links-you-save = Oznake su veze koje čuvate u svom pretraživaču kako biste se brzo i jednostavno vratili na svoja omiljena mjesta na webu. { -brand-name-firefox } uključuje jednostavni menadžer oznaka tako da možete organizirati, pretraživati, ažurirati i <a { $sync }>sinhronizirati sve svoje sačuvane linkove na svim vašim uređajima</a>.
 bookmark-manager-organize-your-boomarks-into = Organizirajte svoje oznake u foldere za pretraživanje
 bookmark-manager-collect-your-bookmarks-in-folders = Prikupite svoje oznake u foldere i označite ih s više detalja. Također možete sortirati svoje oznake da biste brzo pronašli one koje su vam potrebne.
-# Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-bookmark-manager = Slika prozora menadžera oznaka u { -brand-name-firefox }.
 bookmark-manager-easily-import-bookmarks = Lahko uvezite oznake
 bookmark-manager-you-can-import-your-bookmarks = Svoje oznake možete uvesti iz Chromea, Safarija ili Edgea pomoću { -brand-name-firefox }ovog čarobnjaka za uvoz. Samo kliknite na Oznake > Upravljanje oznakama, a zatim odaberite “Uvoz i sigurnosna kopija”.
 # Used as an accessible text alternative for an image

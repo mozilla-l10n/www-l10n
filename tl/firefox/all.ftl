@@ -25,14 +25,7 @@ firefox-all-product-send-link = Magpadala ng download link sa iyong phone.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Pumili ng isang 32-bit installer para sa mga computer na may 32-bit na mga processor - o para sa mas matanda o hindi gaanong malakas na mga computer. <a href="{ $url }">Kapag hindi ka sigurado</a> kung pipili ka ng 64-bit o ng 32-bit installer, inirerekomenda namin na gamitin mo ang 32-bit.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Mag-download ng { $product_label } para sa { $platform } sa { $locale }
 firefox-all-msi-installers = Mga MSI installer
-firefox-all-which-version = Aling bersyon ang gusto mo?
-firefox-all-select-your-preferred-installer = Piliin ang ninanais na installer
 firefox-all-select-your-preferred-language = Piliin ang iyong ninanais na wika
 firefox-all-learn-about-installers = Alamin ang tungkol sa mga installer
 firefox-all-product-firefox = { -brand-name-firefox }

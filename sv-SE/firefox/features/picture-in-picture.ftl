@@ -10,11 +10,8 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } bild-
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Har du saker att göra och saker att titta på? Gör båda med bild-i-bild i { -brand-name-firefox }.
 features-pip-picture-in-picture = Bild-i-bild
-features-pip-new-feature-firefox-multi-picture = Ny funktion: { -brand-name-firefox } multi-bild-i-bild
-features-pip-cool-feature-picture-in-picture = Häftig funktion: bild-i-bild
 features-pip-get-more-done-with-pop-out-videos = Få mer gjort med popup-videor
 features-pip-got-things-to-do-do-both-with = Har du saker att göra och saker att titta på? Gör båda med bild-i-bild i { -brand-name-firefox }. Den låter dig öppna en video i ett nytt fönster från sin webbsida och fästa den på din skärm, så att du kan fortsätta titta medan du använder andra sidor, flikar och appar.
-features-pip-play-the-video = Spela upp video
 features-pip-heres-how-it-works = Så här fungerar det:
 features-pip-play-any-video-in-your-updated = <strong>Spela alla videoklipp</strong> i din { -brand-name-firefox } webbläsare, som den här.
 features-pip-play-any-video-in-your = <strong>Spela upp vilken video som helst</strong> i din { -brand-name-firefox }-webbläsare, som den här med röda pandaungar.

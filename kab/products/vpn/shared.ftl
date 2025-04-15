@@ -10,22 +10,6 @@ vpn-shared-subscribe-link = Awi { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Rnu ɣer tebdart n uṛaǧu
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Ṭṭmana n tiririt n yidrimen deg 30 n wussan
-vpn-shared-features-encrypt = Awgelhen n uswir n yibenkan
-vpn-shared-features-bandwidth = Ulac asemẓi n teɣzi
-vpn-shared-features-activity = Ulac akk lǧerra n uarmud-ik·im n uzeṭṭa yettuskelsen
-vpn-shared-features-activity-logs = Ulac iɣmisen n urmud yettukelsen srid ama tura, ama ɣer sdat
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = Kcem ɣer yiqeddacen deg { $countries }+ timura
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = Ammesten ɣef wugar n { $devices } yibenkan
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = Iqeddacen iǧehden deg { $countries }+ timura
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = Qqen ɣer alamma { $devices } yibenkan
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = Ṭṭmana n tiririt n yidrimen n 30 n wussan
 vpn-shared-privacy-notice = Tasertit n tbaḍnit
@@ -57,12 +41,9 @@ vpn-shared-pricing-total = { $amount } usemday
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = Aha bdu
 vpn-shared-platform-cta-button = Wali ssuma & tilin
-vpn-shared-platform-privacy-promise = Aqader n tudert-ik·im tabaḍnit d lεehd-nneɣ
 vpn-shared-platform-what-is = D acu-t { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Ayɣer { -brand-name-mozilla-vpn }?
-vpn-shared-platform-what-youll-get = Ayen ara tawiḍ s { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-download-mozilla-vpn = Sader { -brand-name-mozilla-vpn }

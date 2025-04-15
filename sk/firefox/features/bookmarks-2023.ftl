@@ -14,8 +14,6 @@ bookmark-manager-organize-your-bookmarks-with = Usporiadajte si záložky pomoco
 bookmark-manager-bookmarks-are-links-you-save = Záložky sú odkazy, ktoré si uložíte do prehliadača, aby ste sa mohli rýchlo a jednoducho vrátiť na svoje obľúbené miesta na webe. { -brand-name-firefox } obsahuje praktického správcu záložiek, takže môžete organizovať, vyhľadávať, aktualizovať a <a { $sync }>synchronizovať všetky svoje uložené odkazy vo všetkých zariadeniach</a>.
 bookmark-manager-organize-your-boomarks-into = Usporiadajte si záložky do prehľadávateľných priečinkov
 bookmark-manager-collect-your-bookmarks-in-folders = Zhromažďujte svoje záložky do priečinkov a označte ich ďalšími informáciami. Môžete tiež triediť svoje záložky, aby ste rýchlo našli tie, ktoré potrebujete.
-# Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-bookmark-manager = Obrázok okna správcu záložiek vo { -brand-name-firefox(case: "loc") }.
 bookmark-manager-easily-import-bookmarks = Jednoduchý import záložiek
 bookmark-manager-you-can-import-your-bookmarks = Svoje záložky môžete importovať z prehliadača Chrome, Safari alebo Edge pomocou sprievodcu importom vo { -brand-name-firefox(case: "loc") }. Stačí kliknúť na Záložky > Spravovať záložky a potom vybrať “Import a zálohovanie”.
 # Used as an accessible text alternative for an image

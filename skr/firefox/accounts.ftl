@@ -26,7 +26,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">پاس ورڈ محفو�
 firefox-accounts-get-email-alerts = ڄݙݨ تہاݙیاں معلومات معلوم ڈیٹا دی خلاف ورزی کریندی ظاہر تھیون تاں ای میل الرٹ گھنو
 firefox-accounts-protect-your-identity = محفوظ فون تے ای میل ماسکنگ نال آپݨی سُن٘ڄاݨ دی حفاظت کرو
 firefox-accounts-keep-your-passwords = آپݨے پاس ورڈ حفاظت نال تے پورٹیبل رکھو۔
-firefox-accounts-get-a-lookout-for = ڈیٹا دی خلاف ورزیاں ݙیکھو۔
 firefox-accounts-travel-the-internet = ہر ڈیوائس تے حفاظت نال انٹرنیٹ دا پن٘دھ کرو۔
 firefox-accounts-encrypt-your = آپݨی نیٹ ورک سرگرمی کوں خفیہ رکھو تے آپݨاں آئی پی پتہ لکاؤ
 firefox-accounts-we-never = اساں تہاݙے نیٹ ورک ڈیٹا کوں کݙاہیں وی لاگ، ٹریک یا شیئر کائنی کریندے
@@ -38,6 +37,5 @@ firefox-accounts-get-it-all-on-every = کہیں ہک آپریٹنگ سسٹم و�
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

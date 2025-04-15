@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = <strong>Zadajte svoj e‑mail</strong> a vytvorte
 fxa-form-by-proceeding = Pokračovaním vyjadrujete súhlas s <a href="{ $url1 }">Podmienkami používania služby</a> a <a href="{ $url2 }">Vyhlásením o ochrane osobných údajov</a>.
 fxa-form-email-address = E‑mailová adresa
 fxa-form-continue = Pokračovať
-fxa-form-create-account = Vytvoriť účet
-fxa-form-get-the-app = Stiahnuť aplikáciu

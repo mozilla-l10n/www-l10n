@@ -9,13 +9,11 @@
 
 ## Company names
 
--brand-name-amazon = Amazon
 -brand-name-apple = Apple
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook = Facebook
 -brand-name-github = GitHub
 -brand-name-google = Google
--brand-name-hulu = Hulu
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
@@ -48,31 +46,20 @@
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = Aurora
--brand-name-firefox-daylight = Firefox Daylight
--brand-name-daylight = Daylight
--brand-name-firefox-lite = Firefox Lite
--brand-name-lite = Lite
--brand-name-firefox-reality = Firefox Reality
--brand-name-reality = Reality
 
 ## Firefox products
 
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-devtools = Firefox DevTools
--brand-name-firefox-sync = Firefox Sync
 
 ## Firefox products (short names)
 
 -brand-name-devtools = DevTools
--brand-name-sync = Sync
 
 ## Firefox products (legacy)
 
 -brand-name-firefox-account = Firefox Account
 -brand-name-firefox-accounts = Firefox Accounts
--brand-name-firefox-lockwise = Firefox Lockwise
--brand-name-firefox-send = Firefox Send
--brand-name-send = Send
 
 ## Firefox projects
 
@@ -91,7 +78,6 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-mdn-web-docs = MDN Web Docs
--brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird
 
@@ -103,9 +89,6 @@
 
 ## Mozilla projects (legacy)
 
--brand-name-mozilla-developer-network = Mozilla Developer Network
--brand-name-hubs = Hubs
--brand-name-lockwise = Lockwise
 -brand-name-webmaker = Taga-gawa ng web
 
 ## Open Source projects
@@ -128,9 +111,7 @@
 -brand-name-linux = Linux
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
--brand-name-vista = Vista
 -brand-name-windows = Windows
--brand-name-xp = XP
 
 ## Apple products
 
@@ -143,7 +124,6 @@
 
 -brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram = Instagram
--brand-name-messenger = Messenger
 -brand-name-workplace = Lugar ng pinagtratrabahunan
 
 ## Google products

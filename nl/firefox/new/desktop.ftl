@@ -29,23 +29,6 @@ firefox-desktop-download-browser-support = Ondersteuning voor { -brand-name-fire
 firefox-desktop-download-do-what-you-do-v2 = Doe wat u online doet. <br> { -brand-name-firefox-browser } heeft u <strong>gedekt</strong>.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Doe wat u online doet. <br> { -brand-name-firefox-browser } kijkt <strong>niet</strong> mee.
-firefox-desktop-download-how-firefox-compares = Hoe { -brand-name-firefox } zich verhoudt tot andere browsers
-firefox-desktop-download-get-all-the-speed = Krijg alle snelheid en hulpmiddelen zonder inbreuk op uw privacy. { -brand-name-firefox-browser } verzamelt zo weinig gegevens over u, dat we uw e-mailadres niet eens nodig hebben om te downloaden. Dat komt omdat we, in tegenstelling tot andere browsers, geen financieel belang hebben om u op het web te volgen.
-firefox-desktop-download-how-we-compare = Hoe we ons verhouden tot andere browsers
-firefox-desktop-download-compare-firefox-to = { -brand-name-firefox } vergelijken met:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Ja
-firefox-desktop-download-no = Nee
-firefox-desktop-download-blocks-third-party = Blokkeert tracking-cookies van derden
-firefox-desktop-download-blocks-third-party-default = Blokkeert standaard tracking-cookies van derden
-firefox-desktop-download-autoplay-blocking = Automatisch afspelen blokkeren
-firefox-desktop-download-blocks-social-trackers = Blokkeert sociale trackers
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = Beschikbaarheid op besturingssystemen
-firefox-desktop-download-in-browser-screenshot = Hulpmiddel voor schermafdrukken in de browser
-firefox-desktop-download-primary-password = Hoofdwachtwoord
 firefox-desktop-download-we-block-the-ad = Wij blokkeren de advertentietrackers. U surft sneller over het internet.
 firefox-desktop-download-ads-are-distracting = Advertenties leiden af en zorgen ervoor dat webpagina’s langzamer worden geladen, terwijl hun trackers al uw online handelingen volgen. De { -brand-name-firefox-browser } blokkeert de meeste trackers automatisch, dus u hoeft uw beveiligingsinstellingen niet door te spitten.
 firefox-desktop-download-see-your-report = Uw beschermingsrapport bekijken
@@ -149,7 +132,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Vragen? <a { $attrs }>{ -brand-name-mozilla }-ondersteuning </a> is er voor u.
-firefox-desktop-download-watch-for-hackers-with-v3 = Let op hackers met { -brand-name-mozilla-monitor }, bescherm uw e-mailadres met { -brand-name-firefox-relay }, en meer.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -172,18 +154,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = Als u een melding ziet waarin wordt gesteld dat de app die u probeert te installeren geen door { -brand-name-microsoft } geverifieerde app is, klik dan op ‘Toch installeren’ of <a { $attrs }>wijzig de instellingen voor app-aanbevelingen</a>.
 firefox-desktop-download-visit-support-for-more = Bezoek Ondersteuning voor meer details
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla }<a href="{ $url }">biedt geen beveiligingsupdates meer aan</a> op { -brand-name-windows } { -brand-name-xp } of { -brand-name-vista }, maar u kunt { -brand-name-firefox } nog steeds gebruiken.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Uw download begint automatisch. Werkt het niet? <a id="{ $id }" href="{ $fallback_url }">Probeer nogmaals te downloaden.</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } is meer dan een browser.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Uw download is onderbroken. Maar er is nog hoop.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Volg <a href="{ $url }">deze instructies</a> om { -brand-name-firefox } te installeren.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Uw systeem voldoet mogelijk niet aan de vereisten voor { -brand-name-firefox }, maar u kunt een van <a href="{ $url }">deze versies</a> proberen.

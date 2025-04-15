@@ -4,5 +4,3 @@
 
 fxa-form-email-address = ಇಮೇಲ್ ವಿಳಾಸ
 fxa-form-continue = ಮುಂದುವರೆ
-fxa-form-create-account = ಖಾತೆಯನ್ನು ತೆರೆಯಿರಿ
-fxa-form-get-the-app = ಆಪ್ ಅನ್ನು ಪಡೆದುಕೊಳ್ಳಿ

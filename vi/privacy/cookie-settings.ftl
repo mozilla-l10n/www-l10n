@@ -39,11 +39,6 @@ cookie-settings-category-analytics-what-are-subheading = Cookie phân tích là 
 cookie-settings-category-analytics-what-are-desc = Những công nghệ này thu thập thông tin về cách mọi người sử dụng trang web, chẳng hạn như các trang đã truy cập, các liên kết được nhấp vào và các trang web khác truy cập từ đâu.
 cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } sử dụng thông tin phân tích để hiểu cách người dùng tương tác với trang web của chúng tôi để chúng tôi có thể cải thiện chúng và khắc phục mọi vấn đề phát sinh. Chúng tôi cũng có thể sử dụng dữ liệu từ cookie, thông tin thiết bị và địa chỉ IP để giúp chúng tôi hiểu cách người dùng tương tác với các sản phẩm, dịch vụ, thông tin liên lạc, trang web, chiến dịch trực tuyến, thiết bị và các nền tảng khác của chúng tôi. Chúng tôi sẽ chỉ thu thập thông tin phân tích và đặt cookie phân tích khi có sự đồng ý của bạn.
 
-## Consent section
-
-cookie-settings-your-consent-heading = Đồng ý của bạn
-cookie-settings-your-consent-desc = Bằng việc đồng ý với cookie, bạn đồng ý sẽ cấp cho danh sách các trang web { -brand-name-mozilla } sau đây, tất cả đều tuân theo các tiêu chuẩn nghiêm ngặt giống nhau về quyền riêng tư dữ liệu. Xin lưu ý rằng danh sách này có thể được cập nhật theo thời gian.
-
 ## Privacy section
 
 cookie-settings-privacy-heading = Thông báo về quyền riêng tư của chúng tôi

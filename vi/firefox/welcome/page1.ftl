@@ -10,7 +10,6 @@ welcome-page1-more-than-a-browser-mozilla = Hơn cả một trình duyệt - { -
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Thực hiện bước tiếp theo để bảo vệ quyền riêng tư trực tuyến của bạn với dòng sản phẩm { -brand-name-firefox }.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Đi trước tin tặc. Kiểm tra rò rỉ dữ liệu với { -brand-name-mozilla-monitor }.
-welcome-page1-youre-on-track-to-stay-protected = Giữ nó và bạn sẽ tiếp tục được bảo vệ
 welcome-page1-youve-got-the-web-browser = Bạn đã có trình duyệt web bảo vệ quyền riêng tư của bạn — bây giờ đã đến lúc để tìm kiếm tin tặc.
 welcome-page1-check-your-breach-report = Kiểm tra báo cáo rò rỉ dữ liệu của bạn
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

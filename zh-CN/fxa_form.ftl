@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = <strong>输入您的邮箱地址</strong>以创�
 fxa-form-by-proceeding = 继续使用即代表您同意我们的<a href="{ $url1 }">使用条款</a>和<a href="{ $url2 }">隐私政策</a>。
 fxa-form-email-address = 电子邮件地址
 fxa-form-continue = 继续
-fxa-form-create-account = 创建账户
-fxa-form-get-the-app = 获取应用

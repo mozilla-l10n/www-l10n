@@ -26,7 +26,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Eñongatu ha embojuehe 
 firefox-accounts-get-email-alerts = Tog̃uahẽ kyhyjerã ñanduti vevépe ne marandu ojehechávo mba’ekuaarã ñemboguape
 firefox-accounts-protect-your-identity = Emo’ã nde reratee tovamo’ãha ñanduti veve ha pumbyry hekorosãva ndive
 firefox-accounts-keep-your-passwords = Eguereko ne ñe’ẽñemi ñemo’ãme ha eraha nendive.
-firefox-accounts-get-a-lookout-for = Ehechakuaáke ára ha ára mba’ekuaarã ñemboguáre.
 firefox-accounts-travel-the-internet = Eikundaha ñandutípe ñemo’ãme opaite mba’e’okápe.
 firefox-accounts-encrypt-your = Embopapapy ne rembiapo ñandutigua ha eñomi nde IP kundaharape
 firefox-accounts-we-never = Noroñongatúi, ndorohapykuehói ha noromoherakuãi ne mba’ekuaarã ñandutípe
@@ -38,6 +37,5 @@ firefox-accounts-get-it-all-on-every = Eguerekopa opaite mba’e’okápe, eñe�
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

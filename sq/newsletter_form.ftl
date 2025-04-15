@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = Do t’ju dërgojmë vetëm infor
 newsletter-form-if-you-havent-previously = Nëse s’e keni ripohuar më parë pajtimin te buletini me lajme nga { -brand-name-mozilla }, mund t’ju duhet ta bëni. Ju lutemi, kontrolloni te të marrat tuaja apo te dosja e të padëshiruarave për një email nga ne.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Ju
 newsletter-form-get-firefox-tips = Merrni ndihmëza, marifete, lajme dhe të tjera gjëra lidhur me { -brand-name-firefox }-in
-newsletter-form-keep-up-with = Ndiqni<br> krejt gjërat { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Merrni përditësime nga { -brand-name-mozilla }
 newsletter-form-available-languages = Gjuhë të Mundshme
 newsletter-form-select-country = Përzgjidhni vendin

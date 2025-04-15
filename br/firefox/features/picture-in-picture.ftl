@@ -6,5 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
 
 features-pip-picture-in-picture = Skeudenn-ouzh-skeudenn
-features-pip-play-the-video = Lenn ar video
 features-pip-heres-how-it-works = Setu penaos ez a en-dro:

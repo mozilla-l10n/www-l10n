@@ -7,5 +7,4 @@
 
 # HTML page title
 get-ios-firefox-for-ios = { -brand-name-firefox-browser } evit { -brand-name-ios }
-get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = Pellgargañ { -brand-name-firefox } evit { -brand-name-ios }

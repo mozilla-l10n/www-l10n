@@ -26,7 +26,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Gronidła składowaś a
 firefox-accounts-get-email-alerts = Dostańśo e-mailowe warnowanja, gaž se waše informacije w znatej datowej źěrje zjawiju
 firefox-accounts-protect-your-identity = Šćitajśo swóju identitu z wěstym telefonowym a e-mailowym maskěrowanim
 firefox-accounts-keep-your-passwords = Šćitajśo swóje gronidła a wzejśo je wšuźi sobu.
-firefox-accounts-get-a-lookout-for = Rozglědujśo se za datowymi źěrami.
 firefox-accounts-travel-the-internet = Gibniśo se ze šćitom na kuždem rěźe pó interneśe.
 firefox-accounts-encrypt-your = Koděrujśo swóju seśowu aktiwitu a schowajśo swóju IP-adresu
 firefox-accounts-we-never = Waše seśowe daty nigda njeprotokolěrujomy, njeslědujomy abo njeźělimy
@@ -38,6 +37,5 @@ firefox-accounts-get-it-all-on-every = Pśinjasćo wykno na kuždy rěd - wšoja
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

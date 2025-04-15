@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Iminig web n baṭel
-new-platform-download-firefox = Sider { -brand-name-firefox }
 new-platform-download-the-fastest = Sider lqem arurad { -brand-name-firefox }
 new-platform-faster-page-loading = Asali n isebtar arurad ugar, asuder n tkatut yenɣes, d ddeqs n timahilin, { -brand-name-firefox } amaynut yewweḍ-d.
 new-platform-2x-faster = 2x d arurad ugar
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Sider { -brand-name-mozilla } { -bran
 new-platform-download-the-fastest-linux = Sider lqem arurad { -brand-name-firefox } i { -brand-name-linux }
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Asali n isebtar arurad ugar, asuder n tkatut yenɣes, ddeqs n timahilin, { -brand-name-firefox } amaynut i { -brand-name-linux } yewweḍ-d.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } i { -brand-name-linux }
 new-platform-privacy-more-than = Tabaḍnit - tugar yal tasertit
 new-platform-your-life-your-business = Tudert-ik ala kečč i teɛna. Deg { -brand-name-linux }, { -brand-name-firefox } yessewḥal inagan n tuqqna i k-yeṭṭafaṛen.
 new-platform-speed-meet-security = Arured, ih, maca s tɣellist. { -brand-name-firefox } d arura ugar n snat n tikkal daɣen itett 30% n tkatut ddaw n wayen itett { -brand-name-chrome }.

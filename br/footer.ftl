@@ -2,11 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Manifest { -brand-name-mozilla }
 footer-privacy = Buhez prevez
 footer-press = Gwask
-footer-browsers = Merdeerioù
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = Diorroerien
 footer-developer-edition = { -brand-name-developer-edition }
@@ -28,7 +26,6 @@ footer-websites-legal = Lezennel
 footer-language = Yezh
 footer-go = Mont
 footer-donate = Ober un donezon
-footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }

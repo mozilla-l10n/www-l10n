@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = အခမဲ့ ဝတ်ဘယောက်ဆာ
-new-platform-download-firefox = { -brand-name-firefox } ကို ရယူပါ
 new-platform-download-the-fastest = လျင်မြန်သော { -brand-name-firefox }ကို ရယူပါ
 new-platform-faster-page-loading = စာမျက်နှာမြန်ဆန်စွာတက်ခြင်း၊မန်မိုရီအသုံးပြုမှုနည်းခြင်းအစရှိသောအစွမ်းများပေးနိုင်သော { -brand-name-firefox }အသစ်ဒီမှာယူပါ
 new-platform-2x-faster = နှစ်ဆပိုမိုမြန်ဆန်
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = { -brand-name-firefox }သည်အ�
 new-platform-download-the-fastest-linux = { -brand-name-linux } စ်အတွက် လျင်မြန်သော { -brand-name-firefox }ကို ရယူပါ
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = စာမျက်နှာမြန်ဆန်စွာတက်ခြင်း၊မန်မိုရီအသုံးပြုမှုနည်းခြင်းအစရှိသောအစွမ်းများပေးနိုင်သော { -brand-name-linux } အတွက် { -brand-name-firefox }အသစ်ဒီမှာယူပါ
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-linux } အတွက် { -brand-name-firefox }
 new-platform-privacy-more-than = သီးသန့်တည်ရှိမှု - မူဝါဒထက်ပိုသည်
 new-platform-your-life-your-business = သင့်အတွက် { -brand-name-firefox } သည် အခြားနောက်ယောင်ခံကွတ်ကီးများကို { -brand-name-linux } ပေါ်တွင်ပိတ်ဆို့ထားသည်။
 new-platform-speed-meet-security = { -brand-name-chrome } ထက်မန်မိုရီ 30%အသုံးပြုနည်းသော၊မြန်ဆန်သော၊လုံခြုံရေးကောင်းသော{ -brand-name-firefox }ကိုရယူလိုက်ပါ။

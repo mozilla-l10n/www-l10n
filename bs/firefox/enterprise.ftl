@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = Preuzmite { -brand-name-firefox } za tvoje poduzeće s { -brand-name-esr } i Brzo izdanje
 firefox-enterprise-get-unmatched-data-protection = Preuzmite { -brand-name-firefox } za poduzeća, za neusporedivu zaštitu podataka u koracima preuzimanja izdanja koji tebi odgovaraju. Preuzmite { -brand-name-esr } i Brzo izdanje.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Pregled
-firefox-enterprise-downloads = Preuzimanja
 firefox-enterprise-get-firefox-for-your-enterprise = Preuzmite { -brand-name-firefox } za svoje preduzeće
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

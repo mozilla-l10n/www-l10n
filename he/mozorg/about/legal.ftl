@@ -5,4 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/about/legal/
 
-legal-firefox-relay-terms = תנאי השירות של { -brand-name-firefox-relay }

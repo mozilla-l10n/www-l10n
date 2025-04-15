@@ -11,7 +11,6 @@ home-fast-for-good = تیز، بہتری کے لیے۔
 home-with-2x-the-speed-built-in = دوغونی رفتار، پہلے سے موجود نجی حیثیت تحفظ اور { -brand-name-mozilla } کے معاونت کے ساتھ، نیا { -brand-name-firefox } براؤز کرنے کا بہترین ذریعہ ہے۔
 home-we-make-the-internet-safer = ہم اچھائی کے لئے انٹرنیٹ کو محفوظ ، صحت مند اور تیز تر بناتے ہیں۔
 home-our-impact = ہمارا اثر
-home-working-to-keep-the-internet = انٹرنیٹ کو صحت مند ، کھلی اور سب کے لییے قابل رسائی رکھنے کے لئے کام کرتے ہوئے ، ہم ویب خواندگی کی تعلیم دیتے ہیں ، اوزار فراہم کرتے ہیں اور ہر ایسے فرد کی طرف سے وکالت کرتے ہیں جو انٹرنیٹ کو عالمی سطح پر عوامی وسائل کی حیثیت سے اہمیت دیتا ہے۔
 home-mozilla-information-trust-initiative = { -brand-name-mozilla } انفارمیشن ٹرسٹ انیشی ایٹو
 home-empowering-women-online = آن لائن خواتین کو بااختیار بنانا
 home-the-coral-project = کورلپروجیکٹ

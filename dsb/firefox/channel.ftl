@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Testujśo nowe funkcije w pśedwersi
 firefox-channel-download-and-test-future = Ześěgniśo a testujśo pśichodne wersije { -brand-name-firefox } za desktop, { -brand-name-android } a { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Dožywśo nowučke funkcije w pśedwersiji wobglědowaka za { -brand-name-android }: { -brand-name-firefox-beta } a { -brand-name-firefox-nightly }. Instalěrujśo něnto!
 firefox-channel-experience-cutting-edge-android = Dožywśo nowučke funkcije w pśedwersiji wobglědowaka za { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } a { -brand-name-firefox-nightly }. Instalěrujśo něnto!
-firefox-channel-download-and-test-the-latest-android = Zesgniśo a testujśo nejnowše funkcije { -brand-name-firefox } za { -brand-name-android } z wersijami { -brand-name-aurora }, { -brand-name-beta } a { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Wopytujśo nejnowše funkcijie { -brand-name-android }, nježli až se zbytkoju swěta wózjaewjaju.
 firefox-channel-all-languages-and-platforms = Wšykne rěcy a platformy
 firefox-channel-all-languages-and-builds = Wše rěcy a wersije
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } jo instabilna testowańska a wuwijańska platforma. Pó standarźe { -brand-name-nightly } { -brand-name-mozilla } daty sćelo - a wótergi našym partnarjam - , aby nam pomagała, problemy rozwězaś a ideje wopytowaś. <a href="{ $link }">Zgóńśo, což se dalej dawa</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } awtomatiski sćelo { -brand-name-mozilla } informacije.
-firefox-channel-try-new-browser-features = Testujśo nowe funkcije w pśedwersijach wobglědowaka | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Dožywśo nowučke funkcije w pśedwersijach wobglědowaka: { -brand-name-firefox-developer-edition } { -brand-name-firefox-beta } a { -brand-name-firefox-nightly }. Ześěgniśo něnto!
 firefox-channel-download-and-test-the-latest-desktop = Ześěgniśo a testujśo nejnowše funkcije { -brand-name-firefox } za desktop z wersijami { -brand-name-developer-edition }, { -brand-name-beta } a { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

@@ -10,7 +10,6 @@ newsletter-form-im-okay-with-mozilla = Tá cead ag { -brand-name-mozilla } mo ch
 newsletter-form-if-you-havent-previously = Murar dheimhnigh tú do shíntiús le nuachtlitir { -brand-name-mozilla } roimhe seo, seans gur gá duit é sin a dhéanamh anois. Coinnigh súil ar do bhosca isteach nó d'fhillteán turscair le haghaidh teachtaireacht ríomhphoist uainn.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> agus Tusa
 newsletter-form-get-firefox-tips = Leideanna { -brand-name-firefox }, cleasa, nuacht, agus tuilleadh
-newsletter-form-keep-up-with = Bí ar an eolas<br> faoi { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Faigh nuacht ó { -brand-name-mozilla }
 newsletter-form-available-languages = Teangacha
 newsletter-form-select-country = Roghnaigh tír

@@ -5,16 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
-# page title
-features-fingerprinting-what-is-fingerprinting-title = Mi az ujjlenyomat-készítés, és miért érdemes blokkolnia
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Az ujjlenyomat-készítés egy olyan online nyomkövetés, amely tolakodóbb mint a szokásos süti-alapú követés – ezért blokkolja őket a { -brand-name-firefox-browser }.
 features-fingerprinting-fingerprint-blocking = Ujjlenyomat-blokkolás
 features-fingerprinting-firefox-blocks-fingerprinting = A { -brand-name-firefox } blokkolja az ujjlenyomat-készítést
-features-fingerprinting-ditch-the-sticky = Rázza le az Önt követő ragadós hirdetéseket a { -brand-name-firefox } böngésző beépített ujjlenyomat-készítő blokkolóival.
-# description for the header image
-features-fingerprinting-every-fingerprint = Minden ujjlenyomat egyedi.
-features-fingerprinting-download-firefox = A { -brand-name-firefox } letöltése
 features-fingerprinting-what-is-fingerprinting-body = Mi az ujjlenyomat-készítés?
 features-fingerprinting-fingerprinting-is-a = Az ujjlenyomat-készítés egy olyan online nyomkövetési típus, amely tolakodóbb mint a szokásos sütialapú követés. A digitális ujjlenyomat úgy jön létre, hogy egy cég egyedi profilt készít a számítógépe hardvere, szoftvere, kiegészítői és beállításai alapján. A beállításai, mint a használt képernyő, a számítógépre telepített betűkészletek és a választott böngésző mind használhatók az ujjlenyomat létrehozásához.
 features-fingerprinting-if-you-have = Ha egy széles körben használt laptopot, PC-t vagy okostelefont használ, akkor nehezebb egyedileg azonosítani az eszközét ujjlenyomat-készítés segítségével. Viszont minél több egyedi kiegészítője van, annál könnyebb lesz Önt megtalálni. A cégek az információk ezen egyedi kombinációját használják az ujjlenyomat létrehozásához. Ezért a { -brand-name-firefox } blokkolja az ismert ujjlenyomat-készítőket, így továbbra is használhatja a kedvenc kiegészítőit, témáit és tesztreszabásait, anélkül hogy a hirdetések követnék.
@@ -35,4 +29,3 @@ features-fingerprinting-the-latest-firefox = A legújabb { -brand-name-firefox }
 features-fingerprinting-and-its-not = Ez nem egy eldugott beállítás, amit meg kell keresnie. A legújabb { -brand-name-firefox } böngészőben az ujjlenyomat-készítés blokkolás gyári, alapértelmezett beállítás. Keresse fel az <a { $url_protections }>adatvédelmi vezérlőpultot</a>, hogy megtekintse, hogyan követik a színfalak mögött, és a { -brand-name-firefox } hogyan akadályozza ezt meg.
 # $url_download (string) - link to firefox/new
 features-fingerprinting-you-probably-wouldnt = Valószínűleg nem örülne neki, hogy valaki a való életben követné a mozgását. Nincs arra ok, hogy ez online másképp legyen. Ha még nem használja a { -brand-name-firefox(case: "accusative") }, akkor <a { $url_download }>töltse le és védje meg magát</a> a digitális ujjlenyomat-készítéstől.
-features-fingerprinting-protect = Védje meg a magánszféráját

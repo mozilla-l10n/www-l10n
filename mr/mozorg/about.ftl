@@ -14,7 +14,6 @@ about-read-our-mission = आमचे ध्येय वाचा
 about-our-mission-in-action = आमचे ध्येय कृतीत असताना
 about-pioneers-of-the-open-web = खुल्या वेब चे आरंभकार
 about-firefox-fast-for-good = FIrefox: हितार्थ जलद
-about-walking-our-privacy-talk = आमचे गोपनीयता धोरण सत्यात उतरवताना
 about-corporation-foundation-not = कार्पोरेशन. संस्था. विना-नफा.
 about-learn-about-the-mozilla-foundation = Mozilla संस्थेबद्दल जाणून घ्या
 about-the-mozilla-manifesto = { -brand-name-mozilla } जाहीरनामा

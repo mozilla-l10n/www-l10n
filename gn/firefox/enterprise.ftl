@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = Ereko { -brand-name-firefox } ne mba’apohaguasúpe { -brand-name-esr } ha Rapid Release ndive
 firefox-enterprise-get-unmatched-data-protection = Ereko mba’ekuaarã ñemo’ã ijojaha’ỹva mbohekopyahu meme eikotevẽva { -brand-name-firefox } ndive mba’apohaguasúpe g̃uarã. Emboguejy { -brand-name-esr } ha Rapid Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Jehechapa
-firefox-enterprise-downloads = Ñemboguejy
 firefox-enterprise-get-firefox-for-your-enterprise = Ereko { -brand-name-firefox } ne mba’apohaguasúpe g̃uarã
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

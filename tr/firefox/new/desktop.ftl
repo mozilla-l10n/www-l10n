@@ -29,23 +29,6 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } deste
 firefox-desktop-download-do-what-you-do-v2 = İnternette ne yaparsanız yapın.<br> { -brand-name-firefox-browser } sizi <strong>koruyor</strong>.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = İnternette ne yaparsanız yapın.<br> { -brand-name-firefox-browser } sizi <strong>izlemiyor</strong>.
-firefox-desktop-download-how-firefox-compares = { -brand-name-firefox }’u diğer tarayıcılarla karşılaştırın
-firefox-desktop-download-get-all-the-speed = Aradığınız hızı ve araçları, gizliliğinizi ihlal etmeden sunuyoruz. { -brand-name-firefox-browser } hakkınızda o kadar az veri topluyor ki tarayıcımızı indirmek için e-posta adresinizi bile sormuyoruz. Çünkü diğer tarayıcıların aksine, internette yaptıklarınızı izlemek bize para kazandırmıyor.
-firefox-desktop-download-how-we-compare = Diğer tarayıcılarla karşılaştırmamızı inceleyin
-firefox-desktop-download-compare-firefox-to = { -brand-name-firefox } ile karşılaştırın:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Evet
-firefox-desktop-download-no = Hayır
-firefox-desktop-download-blocks-third-party = Üçüncü taraf takip çerezlerini engeller
-firefox-desktop-download-blocks-third-party-default = Varsayılan olarak üçüncü taraf takip çerezlerini engeller
-firefox-desktop-download-autoplay-blocking = Otomatik oynatma engelleme
-firefox-desktop-download-blocks-social-trackers = Sosyal takip kodlarını engeller
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = Farklı işletim sistemleri desteği
-firefox-desktop-download-in-browser-screenshot = Tarayıcı içi ekran görüntüsü aracı
-firefox-desktop-download-primary-password = Ana parola
 firefox-desktop-download-we-block-the-ad = Biz reklam takip kodlarını engelliyoruz, siz daha hızlı geziniyorsunuz
 firefox-desktop-download-ads-are-distracting = Reklamlar hem dikkatinizi dağıtıyor hem de web sayfalarını yavaşlatıyor, üstelik internette yaptığınız her hareketi izliyorlar. { -brand-name-firefox-browser } çoğu reklam takip kodunu otomatik olarak engelliyor. Güvenlik ayarlarına girmenize bile gerek yok.
 firefox-desktop-download-see-your-report = Koruma raporunuza bakın
@@ -149,7 +132,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox }, web et
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Sorularınız mı var? <a { $attrs }>{ -brand-name-mozilla } Destek</a>’e danışabilirsiniz.
-firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monitor } ile hacker’lardan kaçınabilir, { -brand-name-firefox-relay } ile e-posta adresinizi koruyabilir ve çok daha fazlasını yapabilirsiniz.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -172,18 +154,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = Yüklemeye çalıştığınız uygulamanın { -brand-name-microsoft } tarafından doğrulanmış olmadığını belirten bir ekran görürseniz "Yine de yükle"ye tıklayın veya <a { $attrs }>uygulama öneri ayarlarını değiştirin</a>.
 firefox-desktop-download-visit-support-for-more = Daha fazla bilgi için destek sitemize bakabilirsiniz
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">artık { -brand-name-windows } { -brand-name-xp } ve { -brand-name-vista } için güvenlik güncellemeleri sağlamıyor</a> ama { -brand-name-firefox }’u kullanmaya devam edebilirsiniz.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = İndirme işlemi birazdan kendiliğinden başlayacak. Başlamazsa <a id="{ $id }" href="{ $fallback_url }">yeniden deneyin.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } yalnızca bir tarayıcı değil.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = İndirmeniz kesintiye uğradı.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = { -brand-name-firefox }’u yüklemek için lütfen <a href="{ $url }">bu yönergeleri</a> izleyin.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Sisteminiz { -brand-name-firefox }’un gereksinimlerini karşılamıyor olabilir ama <a href="{ $url }">şu sürümlerden</a> birini deneyebilirsiniz.

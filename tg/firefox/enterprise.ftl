@@ -6,8 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Шарҳ
-firefox-enterprise-downloads = Боргириҳо
 firefox-enterprise-get-firefox-for-your-enterprise = Браузери «{ -brand-name-firefox }»-ро дар корхонаи худ истифода баред
 firefox-enterprise-your-data-stays-your-business = Маълумоти шахсии шумо — кори шумост!
 firefox-enterprise-deploy-when-and-how-you-want = Бастаи насбро ба интиёри худ ва дар вақти дилхоҳ таҳия намоед

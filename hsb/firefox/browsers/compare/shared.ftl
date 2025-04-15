@@ -7,7 +7,6 @@
 
 compare-shared-compare-firefox = Přirunajće { -brand-name-firefox }
 compare-shared-footer-cta-title = Čińće wjace z { -brand-name-firefox }
-compare-shared-footer-cta-button = { -brand-name-firefox } sćahnyć
 compare-shared-we-also-offer-easy = Poskićamy tež lochko wužiwajomne funkcije kaž:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } ma tež zatwarjene nastroje kaž:
 # Variables

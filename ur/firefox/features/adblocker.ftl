@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = اشتہار بلاکر کا استعمال کرتے ہوئے پریشان کن اشتہارات کو کیسے روکا جائے
 features-adblocker-the-ad-blocker-a-secret = اشتہار  بلاکر - پریشان کن اشتہاروں کے خلاف ایک خفیہ ہتھیار۔
 features-adblocker-so-many-ads-so-little = بہت سارے اشتہار ، بہت کم صبر… جنون کو روکنے کا وقت آگیا ہے۔
 features-adblocker-the-average-person-sees = ایک دن میں عام  آدمی  اوسطا 4000 اشتہار دیکھتا ہے۔ اگر آپ کو لگتا ہے کہ یہ بہت زیادہ ہے تو ، ایک اشتہار مسدود کرنے والا آپ کا نیا بہترین دوست ہے۔

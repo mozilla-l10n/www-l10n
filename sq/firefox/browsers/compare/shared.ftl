@@ -8,7 +8,6 @@
 compare-shared-compare-firefox = Krahasoni { -brand-name-firefox }
 compare-shared-footer-cta-title = Bëni më tepër gjëra me { -brand-name-firefox }-in
 compare-shared-footer-cta-desc = Merrni shfletuesin e shpejtë, të peshës së lehtë, të fokusuar te privatësia, që ka pas një ent jofitimprurës dhe që funksionon nëpër krejt pajisjet tuaja.
-compare-shared-footer-cta-button = Shkarkoni { -brand-name-firefox }-in
 compare-shared-we-also-offer-easy = Ofrojmë gjithashtu veçori të kollajta për t’u përdorur, të tilla si:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox }-i ka gjithashtu mjete të brendshme të tillë si:
 # Variables

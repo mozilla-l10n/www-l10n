@@ -8,25 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } 받기
 vpn-shared-waitlist-link = 대기자 명단에 등록
-vpn-shared-available-countries-v6 = { -brand-name-mozilla-vpn } 서비스는 오스트리아와 벨기에, 불가리아, 캐나다, 크로아티아, 키프로스, 체코, 덴마크, 에스토니아, 핀란드, 프랑스, 독일, 헝가리, 아일랜드, 이탈리아, 라트비아, 리투아니아, 룩셈부르크, 말레이시아, 몰타, 네덜란드, 뉴질랜드, 폴란드, 포르투갈, 루마니아, 싱가포르, 슬로베니아, 슬로바키아, 스페인, 스웨덴, 스위스, 영국, 미국에서 제공됩니다.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30일 환불 보장
-vpn-shared-features-encrypt = 기기 수준 암호화
-vpn-shared-features-bandwidth = 대역폭 제한 없음
-vpn-shared-features-activity = 네트워크 활동 기록 없음
-vpn-shared-features-activity-logs = 온라인 활동 기록 없음
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = { $countries }개 이상 국가에 있는 서버에 접근
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = 최대 { $devices }개의 기기 보호
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = { $countries }개 이상 국가에 있는강한 서버
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = 최대 { $devices }개의 기기 연결
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30일 환불 보장
 vpn-shared-privacy-notice = 개인정보 보호정책
@@ -65,12 +48,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn }은 아
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = 시작합시다
 vpn-shared-platform-cta-button = 가격과 이용 가능성 보기
-vpn-shared-platform-privacy-promise = 개인 정보 보호는 우리의 약속입니다.
 vpn-shared-platform-what-is = { -brand-name-mozilla-vpn }이 무엇인가요?
 vpn-shared-platfrom-why-choose = 왜 { -brand-name-mozilla-vpn }인가요?
-vpn-shared-platform-what-youll-get = { -brand-name-mozilla-vpn }으로 얻을 수 있는 것:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = VPN에 대해 알아보기

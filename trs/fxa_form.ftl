@@ -4,5 +4,3 @@
 
 fxa-form-email-address = Direksiûn Korrêo
 fxa-form-continue = Gun' ne' ñāa
-fxa-form-create-account = Girī ‘ngō Kuenda
-fxa-form-get-the-app = Girì' App nan

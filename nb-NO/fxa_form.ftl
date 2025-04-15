@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = Ved å fortsette, godtar du <a href="{ $url1 }">tjenestevilkårene</a> og <a href="{ $url2 }">personvernbestemmelsen</a>.
 fxa-form-email-address = E-postadresse
 fxa-form-continue = Fortsett
-fxa-form-create-account = Opprett konto
-fxa-form-get-the-app = Skaff deg appen

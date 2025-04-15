@@ -2,11 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-privacy = Privacy
 footer-press = နှိပ်ပါ
-footer-brand-standards = ကုန်ပစ္စည်းအမှတ်တံဆိပ်
-footer-browsers = ဘရောက်ဇာများ
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = Developers
 footer-developer-edition = { -brand-name-developer-edition }

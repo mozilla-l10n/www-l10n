@@ -2,14 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Manifesto { -brand-name-mozilla }
 footer-privacy-hub = Làr-ionad prìobhaideachd
 footer-privacy = Prìobhaideachd
 footer-press = Luchd-naidheachd
-footer-browser-comparison = Coimeas bhrabhsairean
-footer-brand-standards = Stannardan a’ bhrannd
-footer-browsers = Brabhsairean
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = Luchd-leasachaidh
 footer-developer-edition = { -brand-name-developer-edition }

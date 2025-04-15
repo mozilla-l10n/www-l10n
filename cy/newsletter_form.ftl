@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = Dim ond gwybodaeth sy'n ymwneud Ã
 newsletter-form-if-you-havent-previously = Os nad ydych eisoes wedi cadarnhau tanysgrifiad i gylchlythyr yn perthyn i { -brand-name-mozilla }, rhaid i chi wneud hynny nawr. Gwiriwch eich blwch derbyn neu eich hidl sbam am e-bost gennym ni.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Chi
 newsletter-form-get-firefox-tips = Cewch gynghorion, triciau, newyddion { -brand-name-firefox } a rhagor
-newsletter-form-keep-up-with = Cadw'n gyfredol<br> gyda phopeth { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Derbyn diweddariadau { -brand-name-mozilla }
 newsletter-form-available-languages = Ieithoedd Sydd ar Gael
 newsletter-form-select-country = Dewis gwlad

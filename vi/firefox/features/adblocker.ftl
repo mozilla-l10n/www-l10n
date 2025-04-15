@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Cách chặn quảng cáo gây phiền nhiễu bằng trình chặn quảng cáo
 features-adblocker-how-to-stop-seeing-too = Làm thế nào để ngừng xem quá nhiều quảng cáo và ngăn các công ty theo dõi bạn trực tuyến. Hướng dẫn chặn quảng cáo từ trình duyệt web { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Trình chặn quảng cáo - vũ khí bí mật chống lại quảng cáo gây phiền nhiễu.
 features-adblocker-so-many-ads-so-little = Rất nhiều quảng cáo, quá ít kiên nhẫn… Đó là thời gian để ngăn chặn sự điên rồ.

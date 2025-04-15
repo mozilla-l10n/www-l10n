@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = <strong>Voer uw e-mailadres in</strong> om een { 
 fxa-form-by-proceeding = Door verder te gaan, gaat u akkoord met de <a href="{ $url1 }">Servicevoorwaarden</a> en <a href="{ $url2 }">Privacyverklaring</a>.
 fxa-form-email-address = E-mailadres
 fxa-form-continue = Doorgaan
-fxa-form-create-account = Account aanmaken
-fxa-form-get-the-app = App downloaden

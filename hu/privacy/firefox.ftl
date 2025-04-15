@@ -39,5 +39,3 @@ privacy-firefox-take-me-back = Ugrás az Adatvédelmi nyilatkozat <a { $attrs }>
 # Variables:
 #   $attrs (string) - in-page link to the top of the page
 privacy-firefox-lost-in-the = Elveszett a részletekben? Térjen vissza a <a { $attrs }>{ -brand-name-firefox } adatvédelmi alapjaihoz</a>.
-# links to Mozilla privacy policy
-privacy-firefox-mozilla-privacy = { -brand-name-mozilla } adatvédelem

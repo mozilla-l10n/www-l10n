@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = <strong>Adja meg az e-mail-címét</strong> egy {
 fxa-form-by-proceeding = A folytatással elfogadja a <a href="{ $url1 }">Szolgáltatási feltételeket</a> és az <a href="{ $url2 }">Adatvédelmi nyilatkozatot</a>.
 fxa-form-email-address = E-mail cím
 fxa-form-continue = Folytatás
-fxa-form-create-account = Fiók létrehozása
-fxa-form-get-the-app = App beszerzése

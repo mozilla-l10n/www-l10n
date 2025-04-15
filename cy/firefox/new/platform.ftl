@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Y Porwr Gwe Rhydd a Rhad
-new-platform-download-firefox = Llwythwch { -brand-name-firefox } i Lawr
 new-platform-download-the-fastest = Llwythwch i lawr y { -brand-name-firefox } cyflymaf erioed
 new-platform-faster-page-loading = Llwytho tudalennau cynt, llai o ddefnydd o gof, ac yn llawn nodweddion, mae'r { -brand-name-firefox } newydd wedi cyrraedd.
 new-platform-2x-faster = 2x yn Gynt
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Llwythwch { -brand-name-mozilla } { -
 new-platform-download-the-fastest-linux = Llwythwch i lawr y { -brand-name-firefox } { -brand-name-linux } cyflymaf erioed
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Llwytho tudalennau cynt, llai o ddefnydd o gof, ac yn llawn nodweddion, mae'r { -brand-name-firefox } { -brand-name-linux } newydd wedi cyrraedd.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } { -brand-name-linux }
 new-platform-privacy-more-than = Preifatrwydd - mwy na pholisi
 new-platform-your-life-your-business = Eich bywyd, eich busnes. Mae { -brand-name-firefox } yn rhwystro cwcis tracio trydydd parti ar { -brand-name-linux }.
 new-platform-speed-meet-security = Cyflymder, dyma diogelwch. Mae { -brand-name-firefox } ddwywaith yn gyflymach gyda 30% yn llai o gof na { -brand-name-chrome }.

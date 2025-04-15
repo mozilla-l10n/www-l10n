@@ -14,7 +14,6 @@ mobile-focus-simply-private-mobile = Gewoon privé mobiel navigeren
 mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } is uw speciale privacybrowser met automatische bescherming tegen volgen. Met { -brand-name-focus } worden uw pagina’s sneller geladen en blijven uw gegevens privé.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } is beschikbaar voor zowel { -brand-name-ios }- als { -brand-name-android }-apparaten.
 mobile-focus-get-firefox-focus = { -brand-name-firefox-focus } downloaden
-mobile-focus-send-a-download-link-to-your = Een downloadkoppeling naar uw telefoon verzenden.
 mobile-focus-scan-the-qr-code-to-get-started = Scan de QR-code om te beginnen
 mobile-focus-scan-alt-text = Scan de QR-code om { -brand-name-firefox-focus } te downloaden
 mobile-focus-delete-your-history = Uw geschiedenis verwijderen

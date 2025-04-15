@@ -28,14 +28,7 @@ firefox-all-product-send-link = Nusiųskite atsisiuntimo nuorodą į savo telefo
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Rinkitės 32 bitų naršyklę, jei jūsų kompiuteryje veikia 32 bitų procesorius, arba jis tiesiog yra senas ir mažiau galingas. <a href="{ $url }">Jei nesate tikri</a>, 32 ar 64 bitų atmainą rinktis, neprašausite pasirinkdami 32 bitų.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Parsisiųsti „{ $product_label }“ { $locale } kalba, skirtą „{ $platform }“ platformai
 firefox-all-msi-installers = MSI įdiegiklis
-firefox-all-which-version = Kurios versijos norite?
-firefox-all-select-your-preferred-installer = Pasirinkite pageidautiną įdiegiklį
 firefox-all-select-your-preferred-language = Pasirinkite norimą kalbą
 firefox-all-learn-about-installers = Plačiau apie įdiegiklių tipus
 firefox-all-product-firefox = { -brand-name-firefox }

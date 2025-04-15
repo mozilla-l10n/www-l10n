@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = Toq nasamajij el, nawojqaj ri <a href="{ $url1 }">Rojqanib'al Samaj</a> chuqa' <a href="{ $url2 }">Runa'ojil Ichinanem</a>.
 fxa-form-email-address = Rochochib'al taqoya'l
 fxa-form-continue = Titikïr chik el
-fxa-form-create-account = Titz'uk rub'i' taqoya'l
-fxa-form-get-the-app = Tak'ulu' ri chokoy

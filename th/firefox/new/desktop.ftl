@@ -29,23 +29,6 @@ firefox-desktop-download-browser-support = การสนับสนุน { -
 firefox-desktop-download-do-what-you-do-v2 = ให้คุณทำสิ่งที่คุณต้องการออนไลน์<br> { -brand-name-firefox-browser } จะ<strong>ไม่แอบดู</strong>คุณ
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = ให้คุณทำสิ่งที่คุณต้องการออนไลน์<br> { -brand-name-firefox-browser } จะ<strong>ไม่</strong>แอบดูคุณ
-firefox-desktop-download-how-firefox-compares = เปรียบเทียบ { -brand-name-firefox } กับเบราว์เซอร์อื่น ๆ
-firefox-desktop-download-get-all-the-speed = รับความเร็วและเครื่องมือทั้งหมดโดยไม่มีการบุกรุกความเป็นส่วนตัวใด ๆ { -brand-name-firefox-browser } จะรวบรวมข้อมูลเกี่ยวกับคุณเพียงเล็กน้อย เราไม่ต้องการให้คุณใส่ที่อยู่อีเมลเพื่อดาวน์โหลดด้วยซ้ำ เนื่องจากเราไม่มีส่วนได้ส่วนเสียใด ๆ จากการติดตามคุณในขณะที่ท่องเว็บเช่นเดียวกับเบราว์เซอร์อื่น ๆ
-firefox-desktop-download-how-we-compare = เปรียบเทียบกับเบราว์เซอร์อื่น ๆ
-firefox-desktop-download-compare-firefox-to = เปรียบเทียบ { -brand-name-firefox } กับ:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = ใช่
-firefox-desktop-download-no = ไม่
-firefox-desktop-download-blocks-third-party = ปิดกั้นคุกกี้ติดตามจากบุคคลที่สาม
-firefox-desktop-download-blocks-third-party-default = ปิดกั้นคุกกี้ติดตามจากบุคคลที่สามตามค่าเริ่มต้น
-firefox-desktop-download-autoplay-blocking = ปิดกั้นการเล่นอัตโนมัติ
-firefox-desktop-download-blocks-social-trackers = ปิดกั้นตัวติดตามทางสังคม
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = ความพร้อมใช้งานของระบบปฏิบัติการ
-firefox-desktop-download-in-browser-screenshot = เครื่องมือจับภาพหน้าจอในเบราว์เซอร์
-firefox-desktop-download-primary-password = รหัสผ่านหลัก
 firefox-desktop-download-we-block-the-ad = เราจะปิดกั้นตัวติดตามเว็บเพื่อให้คุณสำรวจอินเทอร์เน็ตได้เร็วขึ้น
 firefox-desktop-download-ads-are-distracting = โฆษณาทำให้เสียสมาธิและทำให้หน้าเว็บโหลดช้าลงในขณะที่ตัวติดตามของพวกเขาจะคอยจับตาดูทุกการเคลื่อนไหวของคุณบนโลกออนไลน์ { -brand-name-firefox-browser } จะปิดกั้รตัวติดตามส่วนใหญ่โดยอัตโนมัติ ดังนั้นจึงไม่จำเป็นต้องเจาะการตั้งค่าความปลอดภัยของคุณ
 firefox-desktop-download-see-your-report = ดูรายงานการป้องกันของคุณ
@@ -149,7 +132,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } จะ<
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = มีคำถามใช่หรือไม่ <a { $attrs }>ฝ่ายสนับสนุนของ { -brand-name-mozilla }</a> พร้อมช่วยเหลือคุณในทุกเรื่อง
-firefox-desktop-download-watch-for-hackers-with-v3 = เฝ้าระวังแฮกเกอร์ด้วย { -brand-name-mozilla-monitor } ปกป้องที่อยู่อีเมลของคุณด้วย { -brand-name-firefox-relay } และอื่น ๆ
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -172,18 +154,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = ถ้าคุณเห็นข้อความแจ้งเตือนที่ระบุว่าแอปที่คุณกำลังพยายามติดตั้งไม่ใช้แอปที่ได้รับการตรวจสอบโดย { -brand-name-microsoft } ให้คลิก “ติดตั้งต่อไป” หรือ<a { $attrs }>เปลี่ยนการตั้งค่าการแนะนำแอป</a>
 firefox-desktop-download-visit-support-for-more = เยี่ยมชมฝ่ายสนับสนุนสำหรับรายละเอียดเพิ่มเติม
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">จะไม่มีการอัปเดตด้านความปลอดภัย</a> บน { -brand-name-windows } { -brand-name-xp } หรือ { -brand-name-vista } อีกแล้ว แต่คุณยังสามารถใช้ { -brand-name-firefox } ได้
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = การดาวน์โหลดของคุณควรเริ่มโดยอัตโนมัติ ยังไม่เริ่มใช่หรือไม่ <a id="{ $id }" href="{ $fallback_url }">ลองดาวน์โหลดอีกครั้ง</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } เป็นมากกว่าเบราว์เซอร์
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = การดาวน์โหลดของคุณถูกขัดจังหวะ แต่ส่วนที่ดาวน์โหลดไปแล้วไม่ได้หายไปไหน
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = โปรดทำตาม<a href="{ $url }">คำแนะนำนี้</a>เพื่อติดตั้ง { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = เครื่องของคุณไม่รองรับกับข้อกำหนดสำหรับ { -brand-name-firefox } แต่คุณยังสามารถลองกับ<a href="{ $url }">รุ่นเหล่านี้</a>ได้

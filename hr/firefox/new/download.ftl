@@ -25,9 +25,6 @@ firefox-new-need-help = Trebaš pomoć?
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">više ne pruža sigurnosna aktualiziranja</a> za { -brand-name-windows } { -brand-name-xp } ili { -brand-name-vista }, ali i dalje možeš koristiti { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Preuzimanje bi trebalo započeti automatski. Ne radi? <a id="{ $id }" href="{ $fallback_url }">Pokušaj ponovo preuzeti</a>.
@@ -36,9 +33,6 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je više od
 firefox-new-download-interrupted = Tvoje preuzimanje je prekinuto. Ali nije sve izgubljeno.
 firefox-new-download-almost-there = Skoro gotovo!
 firefox-new-download-select-linux = Odaberi opciju preuzimanja
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = Za instaliranje preglednika { -brand-name-firefox } slijedi <a href="{ $url }">ove upute</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Tvoj sustav možda ne ispunjava preduvjete za { -brand-name-firefox }, ali možeš isprobati jednu od <a href="{ $url }">ovih verzija</a>.

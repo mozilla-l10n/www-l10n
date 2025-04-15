@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = Sadece { -brand-name-firefox } il
 newsletter-form-if-you-havent-previously = Daha önce bir { -brand-name-mozilla } bültenine abone olmadıysanız aboneliğinizi onaylamanız gerekebilir. Lütfen gelen kutunuzu veya spam klasörünüzü kontrol edin.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Sen
 newsletter-form-get-firefox-tips = { -brand-name-firefox } ipuçlarını, haberlerini ve daha fazlasını alın
-newsletter-form-keep-up-with = { -brand-name-firefox } ile ilgili her<br> şeyden haberiniz olsun.
 newsletter-form-get-mozilla-updates = { -brand-name-mozilla } haberlerini alın
 newsletter-form-available-languages = Mevcut diller
 newsletter-form-select-country = Ülkenizi seçin

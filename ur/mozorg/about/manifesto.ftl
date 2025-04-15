@@ -16,7 +16,6 @@ manifesto-individuals-security-and = انٹرنیٹ پر افراد کی سلا�
 manifesto-individuals-must-have = افراد میں انٹرنیٹ اور اس پر اپنے تجربات کی تشکیل کرنے کی صلاحیت ہونی چاہئے۔
 manifesto-the-effectiveness-of-the = عوامی وسائل کی حیثیت سے انٹرنیٹ کی تاثیر کا انحصار انٹرآپریبلٹی (پروٹوکولز ، ڈیٹا فارمیٹس ، مواد) ، جدت طرازی اور دنیا بھر میں وکندریقرت شراکت پر ہے۔
 manifesto-free-and-open-source-software = مفت اور اوپن سورس سافٹ ویئر عوامی وسیلہ کی حیثیت سے انٹرنیٹ کی ترقی کو فروغ دیتے ہیں.
-manifesto-transparent-community = برادری پر مبنی شفاف عمل شراکت ، احتساب اور اعتماد کو فروغ دیتے ہیں۔
 manifesto-commercial-involvement = انٹرنیٹ کی تکمیل کاری میں تجارتی شمولیت بہت سے فوائد لاتا ہے؛ تجارتی منافع اور عوامی فائدے کے درمیان توازن بہت اہم ہے۔
 manifesto-principle-1 = اصول 1
 manifesto-principle-2 = اصول 2
@@ -28,16 +27,6 @@ manifesto-principle-7 = اصول 7
 manifesto-principle-8 = اصول 8
 manifesto-principle-9 = اصول 9
 manifesto-principle-10 = اصول 10
-manifesto-01 = 01
-manifesto-02 = 02
-manifesto-03 = 03
-manifesto-04 = 04
-manifesto-05 = 05
-manifesto-06 = 06
-manifesto-07 = 07
-manifesto-08 = 08
-manifesto-09 = 09
-manifesto-10 = 10
 # Main page heading
 manifesto-the-mozilla-manifesto-addendum = { -brand-name-mozilla } کا منشورضمیمہ
 # Main page sub-heading
@@ -54,8 +43,6 @@ manifesto-an-internet-with-these = ان خصوصیات کا حامل انٹرن�
 manifesto-i-support-the-vision-of = میں @mozilla  سے بہتر ، صحت مند انٹرنیٹ کے وژن کی حمایت کرتا ہوں ، کیا آپ میرے ساتھ شامل ہوں گے؟
 manifesto-our-10-principles = <strong>ہمارے ۱۰</strong>اصول
 manifesto-read-the-entire-manifesto = مکمل منشور بڑھیں
-manifesto-love-the-web = ویب سے محبت ہے؟
-manifesto-get-the-mozilla-newsletter = { -brand-name-mozilla } کا نیوز لیٹر حاصل کریں اور اسے کھلا اور آزاد رکھنے میں ہماری مدد کریں۔
 manifesto-details-the-mozilla-manifesto = { -brand-name-mozilla } کا منشور
 manifesto-details-introduction = تعارف
 manifesto-details-the-internet-is-becoming = انٹرنیٹ ہماری زندگی کا ایک اہم حصہ بنتا جارہا ہے۔

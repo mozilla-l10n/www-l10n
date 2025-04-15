@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Jak blokować irytujące reklamy za pomocą narzędzia do blokowania reklam
 features-adblocker-how-to-stop-seeing-too = Jak zmniejszyć liczbę reklam na stronach i uniemożliwić firmom śledzenie Cię w Internecie. Poradnik blokowania reklam od przeglądarki internetowej { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Bloker reklam — tajna broń przeciwko irytującym reklamom.
 features-adblocker-so-many-ads-so-little = Tyle reklam, tak mało cierpliwości… Czas zatrzymać to szaleństwo.

@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Navegador web gratuït
-new-platform-download-firefox = Baixa el { -brand-name-firefox }
 new-platform-download-the-fastest = Baixeu el { -brand-name-firefox } més ràpid que mai
 new-platform-faster-page-loading = El nou { -brand-name-firefox } ja és aquí: carrega les pàgines més ràpid, consumeix menys memòria i està farcit de noves funcions.
 new-platform-2x-faster = El doble de ràpid
@@ -19,8 +18,6 @@ new-platform-need-help = Necessiteu ajuda?
 
 # Linux
 
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } per al { -brand-name-linux }
 new-platform-privacy-more-than = Privadesa: més que una política
 new-platform-open-source = Codi obert
 

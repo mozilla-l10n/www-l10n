@@ -10,11 +10,8 @@ features-pip-firefox-picture-in-picture-get-more = Obraz w obrazie w { -brand-
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Masz coś do zrobienia i coś do obejrzenia? Skorzystaj z funkcji „Obraz w obrazie” w { -brand-name-firefox(case: "loc") }!
 features-pip-picture-in-picture = Obraz w obrazie
-features-pip-new-feature-firefox-multi-picture = Nowa funkcja: wiele obrazów w obrazie w { -brand-name-firefox(case: "loc") }
-features-pip-cool-feature-picture-in-picture = Fajna funkcja: obraz w obrazie
 features-pip-get-more-done-with-pop-out-videos = Zrób więcej dzięki wyskakującym filmom
 features-pip-got-things-to-do-do-both-with = Masz coś do zrobienia i coś do obejrzenia? Skorzystaj z funkcji „Obraz w obrazie” w { -brand-name-firefox(case: "loc") }! Umożliwia ona wyjęcie filmu ze strony i przypięcie go do ekranu, dzięki czemu możesz dalej go oglądać, gdy jesteś na innych stronach, kartach i aplikacjach.
-features-pip-play-the-video = Odtwórz film
 features-pip-heres-how-it-works = Zobacz, jak to działa:
 features-pip-play-any-video-in-your-updated = <strong>Zacznij oglądać dowolny film</strong> w swojej przeglądarce { -brand-name-firefox }, na przykład ten obok.
 features-pip-play-any-video-in-your = <strong>Zacznij oglądać dowolny film</strong> w swojej przeglądarce { -brand-name-firefox }, na przykład ten obok z młodymi pandkami rudymi.

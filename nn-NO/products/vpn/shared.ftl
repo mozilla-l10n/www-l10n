@@ -34,10 +34,8 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } er enn
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = La oss kome i gang
 vpn-shared-platform-what-is = Kva er { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Kvifor { -brand-name-mozilla-vpn }?
-vpn-shared-platform-what-youll-get = Kva du får med { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Les meir om VPN

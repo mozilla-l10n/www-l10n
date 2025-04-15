@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = ເວັບບຣາວເຊີຟຣີ
-new-platform-download-firefox = ດາວໂຫຼດ { -brand-name-firefox }
 new-platform-download-the-fastest = ດາວໂຫຼດ { -brand-name-firefox } ທີ່ໄວທີ່ສຸດເທົ່າທີ່ເຄີຍມີມາ
 new-platform-faster-page-loading = ການໂຫຼດຫນ້າເວັບທີ່ໄວ, ໃຊ້ຫນ່ວຍຄວາມຈໍາຫນ້ອຍ ແລະ ບັນຈຸຄຸນນະສົມບັດທີ່ຄັບແໜ້ນ, { -brand-name-firefox } ໃຫມ່ແມ່ນຢູ່ທີ່ນີ້ແລ້ວ.
 new-platform-2x-faster = ໄວຂຶ້ນ 2 ເທົ່າ
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = ດາວໂຫລດ { -brand-name-m
 new-platform-download-the-fastest-linux = ດາວໂຫລດ { -brand-name-firefox } ທີ່ໄວທີ່ສຸດສໍາລັບ { -brand-name-linux } ເຄີຍ
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = ການໂຫຼດໜ້າໄວຂຶ້ນ, ການໃຊ້ຄວາມຈຳໜ້ອຍລົງ ແລະເຕັມໄປດ້ວຍຄຸນສົມບັດຕ່າງໆ, { -brand-name-firefox } ໃໝ່ສຳລັບ { -brand-name-linux } ແມ່ນຢູ່ທີ່ນີ້.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } ສຳລັບ { -brand-name-linux }
 new-platform-privacy-more-than = ຄວາມເປັນສ່ວນຕົວ - ບໍ່ແມ່ນເປັນພຽງແຕ່ນະໂຍບາຍ
 new-platform-your-life-your-business = ຊີວິດຂອງເຈົ້າ, ທຸລະກິດຂອງທ່ານ. { -brand-name-firefox } ບລັອກຄຸກກີ້ການຕິດຕາມພາກສ່ວນທີສາມໃນ { -brand-name-linux }.
 new-platform-speed-meet-security = ຄວາມໄວ, ຕອບສະຫນອງຄວາມປອດໄພ. { -brand-name-firefox } ແມ່ນໄວສອງເທົ່າ ໂດຍມີຄວາມຈຳໜ້ອຍກວ່າ { -brand-name-chrome } 30%.

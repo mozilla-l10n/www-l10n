@@ -30,14 +30,7 @@ firefox-all-product-send-link = Sendi elŝutan ligilon al via telefono
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Elektu 32-bita instalilon por komputiloj kun 32-bitaj proceziloj — aŭ por pli malnovaj aŭ malpli povaj komputiloj. <a href="{ $url }">Se vi ne certas</a> ĉu elekti 64-bitan aŭ 32-bitan instalilon, ni rekomendas al vi la 32-bitan.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Elŝuti { $product_label } por { $platform } en la { $locale }
 firefox-all-msi-installers = MSI instaliloj
-firefox-all-which-version = Kiun version vi ŝatus?
-firefox-all-select-your-preferred-installer = Elektu vian preferatan instalilon
 firefox-all-select-your-preferred-language = Elektu vian preferatan lingvon
 firefox-all-learn-about-installers = Pli da informo pri instaliloj
 firefox-all-product-firefox = { -brand-name-firefox }

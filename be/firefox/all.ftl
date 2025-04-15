@@ -49,14 +49,7 @@ firefox-all-product-send-link = Адпраўце спасылку для сця�
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Выберыце 32-разрадную праграму ўстаноўкі для камп'ютараў з 32-разраднымі працэсарамі, або для старых і менш магутных камп'ютараў. <a href="{ $url }">Калі вы не ўпэўнены</a>, выбраць 64-бітны ці 32-разрадны ўсталявальнік, рэкамендуем 32-разрадны.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Сцягнуць { $product_label } для { $platform } на { $locale }
 firefox-all-msi-installers = MSI-інсталятары
-firefox-all-which-version = Якую версію вы хацелі б?
-firefox-all-select-your-preferred-installer = Абярыце пажаданы ўсталёўнік
 firefox-all-select-your-preferred-language = Выберыце пажаданую мову
 firefox-all-learn-about-installers = Даведайцеся больш пра ўсталёўнікі
 firefox-all-product-firefox = { -brand-name-firefox }

@@ -7,6 +7,5 @@
 
 compare-shared-compare-firefox = Keñveriañ { -brand-name-firefox }
 compare-shared-footer-cta-title = Grit muioc’h gant { -brand-name-firefox }
-compare-shared-footer-cta-button = Pellgargañ { -brand-name-firefox }
 # Used as a small link to a cited source
 compare-shared-source = mammenn

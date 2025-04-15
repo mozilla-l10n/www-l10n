@@ -25,9 +25,6 @@ firefox-new-need-help = Yardım mı lazım?
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">artık { -brand-name-windows } { -brand-name-xp } ve { -brand-name-vista } için güvenlik güncellemeleri sağlamıyor</a> ama { -brand-name-firefox }’u kullanmaya devam edebilirsiniz.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = İndirme işlemi birazdan kendiliğinden başlayacak. Başlamazsa <a id="{ $id }" href="{ $fallback_url }">yeniden deneyin</a>.
@@ -36,9 +33,6 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } yalnızca b
 firefox-new-download-interrupted = İndirmeniz kesintiye uğradı.
 firefox-new-download-almost-there = Az kaldı!
 firefox-new-download-select-linux = Aşağıdan bir indirme seçeneği seçin
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = { -brand-name-firefox }’u yüklemek için lütfen <a href="{ $url }">bu yönergeleri</a> izleyin.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Sisteminiz { -brand-name-firefox }’un gereksinimlerini karşılamıyor olabilir ama <a href="{ $url }">şu sürümlerden</a> birini deneyebilirsiniz.

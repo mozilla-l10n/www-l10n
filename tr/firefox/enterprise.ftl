@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = { -brand-name-firefox }'un işletmelere özel { -brand-name-esr } veya Hızlı Sürüm'ünü indirin
 firefox-enterprise-get-unmatched-data-protection = Kurumsal { -brand-name-firefox } sürümleri, eşsiz veri korumasını beklentilerinize uygun sürüm takvimiyle birleştiriyor. { -brand-name-esr } veya Hızlı Sürüm’ü indirin.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Genel Bakış
-firefox-enterprise-downloads = İndirmeler
 firefox-enterprise-get-firefox-for-your-enterprise = İşletmeniz için { -brand-name-firefox }'u edinin
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

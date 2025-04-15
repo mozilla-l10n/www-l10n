@@ -39,11 +39,6 @@ cookie-settings-category-analytics-what-are-subheading = 統計用 Cookie 是什
 cookie-settings-category-analytics-what-are-desc = 這些技術會收集人們如何使用網站的資訊，例如造訪過的頁面、點擊過的鏈結，以及鏈結造訪來源。
 cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } 會使用統計用資訊來了解使用者如何與網站互動，以便我們能夠改善網站或修正問題。我們也可能會使用來自 Cookie 的資料、裝置資訊、IP 地址來幫助我們了解使用者如何使用我們的產品、服務、通訊、網站、線上活動、裝置及其他平台。我們只會在您同意後才收集此資訊並設定統計用 Cookie。
 
-## Consent section
-
-cookie-settings-your-consent-heading = 您的同意內容
-cookie-settings-your-consent-desc = 同意設定 Cookie 就代表您同意下列 { -brand-name-mozilla } 網站，可依照相同且嚴格的資料隱私保護標準設定 Cookie。請注意：這份清單可能會隨時更新。
-
 ## Privacy section
 
 cookie-settings-privacy-heading = 我們的隱私權公告

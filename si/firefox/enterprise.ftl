@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = { -brand-name-esr } සහ ශ්‍රීඝ්‍ර නිකුතු සමඟින් ඔබගේ ව්‍යාපාරය සඳහා { -brand-name-firefox } ගන්න
 firefox-enterprise-get-unmatched-data-protection = ව්‍යවසාය සඳහා { -brand-name-firefox } සමඟ ඔබට ඔබින නිකුතු අවරෝහය මත අසමසම දත්ත රැකවරණයක් අත්විඳින්න. { -brand-name-esr } සහ ශ්‍රීඝ‍්‍ර නිකුතු බාගන්න.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = විශ්ලේෂණය
-firefox-enterprise-downloads = බාගැනීම්
 firefox-enterprise-get-firefox-for-your-enterprise = ඔබගේ ව්‍යාපාරය සඳහා { -brand-name-firefox } ගන්න
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

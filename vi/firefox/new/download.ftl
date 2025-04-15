@@ -25,9 +25,6 @@ firefox-new-need-help = Cần trợ giúp?
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">không còn cung cấp các bản cập nhật bảo mật</a> trên { -brand-name-windows } { -brand-name-xp } và { -brand-name-vista }, nhưng bạn vẫn có thể sử dụng { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Việc tải xuống sẽ diễn ra tự động. Nếu không, hãy <a id="{ $id }" href="{ $fallback_url }">nhấp vào đây</a>.
@@ -36,9 +33,6 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } không ch�
 firefox-new-download-interrupted = Quá trình tải xuống của bạn đã bị gián đoạn, nhưng mọi thứ chưa hẳn đã bị mất.
 firefox-new-download-almost-there = Sắp xong rồi!
 firefox-new-download-select-linux = Chọn lựa chọn tải xuống bên dưới
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = Làm theo <a href="{ $url }">hướng dẫn này</a> để cài đặt { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Hệ thống của bạn có thể không đáp ứng các yêu cầu của { -brand-name-firefox }, nhưng bạn có thể thử một trong <a href="{ $url }">các phiên bản này</a>.

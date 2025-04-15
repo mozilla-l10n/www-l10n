@@ -8,7 +8,6 @@
 compare-shared-compare-firefox = Муқоисаи браузери «{ -brand-name-firefox }»
 compare-shared-footer-cta-title = Имкониятҳои бештар бо «{ -brand-name-firefox }»
 compare-shared-footer-cta-desc = Браузереро ба даст оред, ки тезкор, сабук ва дорои махфият мебошад, ва инчунин, аз ҷониби ташкилоти ғайритиҷоратӣ дастгирӣ карда мешавад ва дар ҳамаи дастгоҳҳои шумо кор мекунад.
-compare-shared-footer-cta-button = «{ -brand-name-firefox }»-ро боргирӣ кунед
 compare-shared-we-also-offer-easy = Мо, инчунин, барои истифода хусусиятҳои осонфаҳмро ба монанди зерин пешниҳод менамоем:
 compare-shared-firefox-also-has-built-in = Браузери «{ -brand-name-firefox }», инчунин, дорои абзорҳои дарунсохт ба монанди зерин мебошад:
 # Variables

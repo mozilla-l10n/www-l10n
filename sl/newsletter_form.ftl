@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = Pošiljali vam bomo samo informac
 newsletter-form-if-you-havent-previously = Če v preteklosti še niste potrdili naročnine na okrožnico { -brand-name-mozilla(sklon: "rodilnik") }, boste morda to morali storiti zdaj. Poiščite našo pošto v poštnem predalu ali mapi z neželeno pošto.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> in vi
 newsletter-form-get-firefox-tips = Nasveti, zvijače in novice o { -brand-name-firefox }u
-newsletter-form-keep-up-with = Ostanite na tekočem<br> s { -brand-name-firefox }om.
 newsletter-form-get-mozilla-updates = Prejemajte novice o { -brand-name-mozilla(sklon: "mestnik") }
 newsletter-form-available-languages = Jeziki na razpolago
 newsletter-form-select-country = Izberite državo

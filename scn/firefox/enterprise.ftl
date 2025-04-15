@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
-firefox-enterprise-downloads = Scarricamenti
 firefox-enterprise-enterprise-downloads = Scarricamenti di { -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } a 64-bit
 firefox-enterprise-macos = { -brand-name-mac }

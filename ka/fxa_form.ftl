@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = <strong>მიუთითეთ თქვენ�
 fxa-form-by-proceeding = თუ განაგრძობთ, თქვენ ეთანხმებით <a href="{ $url1 }">მომსახურების პირობებსა</a> და <a href="{ $url2 }">პირადი მონაცემების დაცვის განაცხადს</a>.
 fxa-form-email-address = ელფოსტის მისამართი
 fxa-form-continue = განაგრძეთ
-fxa-form-create-account = ანგარიშის შექმნა
-fxa-form-get-the-app = გადმოწერა

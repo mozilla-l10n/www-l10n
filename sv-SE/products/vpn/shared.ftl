@@ -8,25 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Hämta { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Ställ dig i väntelistan
-vpn-shared-available-countries-v6 = Vi erbjuder för närvarande { -brand-name-mozilla-vpn } i Österrike, Belgien, Bulgarien, Kanada, Kroatien, Cypern, Tjeckien, Danmark, Estland, Finland, Frankrike, Tyskland, Ungern, Irland, Italien, Lettland, Litauen, Luxemburg, Malaysia, Malta, Nederländerna, Nya Zeeland, Polen, Portugal, Rumänien, Singapore, Slovenien, Slovakien, Spanien, Sverige, Schweiz, Storbritannien och USA.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dagars pengarna tillbaka garanti
-vpn-shared-features-encrypt = Kryptering på enhetsnivå
-vpn-shared-features-bandwidth = Inga bandbreddsbegränsningar
-vpn-shared-features-activity = Ingen loggning av din nätverksaktivitet
-vpn-shared-features-activity-logs = Vi loggar aldrig dina onlineaktiviteter
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = Tillgång till servrar i över { $countries } länder
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = Skydd för upp till { $devices } enheter
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = Starka servrar i över { $countries } länder
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = Anslut upp till { $devices } enheter
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30-dagars pengarna tillbaka garanti
 vpn-shared-privacy-notice = Sekretessmeddelande
@@ -65,12 +48,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } är ä
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = Låt oss börja
 vpn-shared-platform-cta-button = Se pris och tillgänglighet
-vpn-shared-platform-privacy-promise = Din integritet är vårt löfte
 vpn-shared-platform-what-is = Vad är { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Varför { -brand-name-mozilla-vpn }?
-vpn-shared-platform-what-youll-get = Vad får du med { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Lär dig mer om VPN

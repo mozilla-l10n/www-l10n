@@ -6,9 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/whatsnew/
 
 whatsnew-s2d-download-firefox-for-android = Elŝutu { -brand-name-firefox } por { -brand-name-android } kaj { -brand-name-ios }
-whatsnew-s2d-want-privacy-on-every-device = Ĉu vi volas privatecon en ĉiu aparato?
-# "You got it" here is a casual answer to the previous question, "Want privacy on every device?"
-whatsnew-s2d-you-got-it-get-firefox-for = Vi povas ĝin havi. Elŝutu { -brand-name-firefox } por poŝaparatoj.
-# Line break is for visual formatting only
-whatsnew-s2d-send-firefox-to-your-phone = Sendi { -brand-name-firefox } al via telefono<br> kaj senbridigu vian interreton.
 whatsnew-s2d-download-firefox-for-your = Elŝuti { -brand-name-firefox } por via telefono kaj tabulkomputilo.

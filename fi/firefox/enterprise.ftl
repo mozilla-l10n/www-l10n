@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = Hanki { -brand-name-firefox } yrityksellesi { -brand-name-esr }:n ja Rapid Release -sovelluksen avulla
 firefox-enterprise-get-unmatched-data-protection = Saat verrattoman tietosuojan sinulle sopivasta päivitysrytmistä { -brand-name-firefox } yrityksille -sovelluksen kanssa. Lataa { -brand-name-esr } ja Rapid Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Yleiskatsaus
-firefox-enterprise-downloads = Lataukset
 firefox-enterprise-get-firefox-for-your-enterprise = Hanki { -brand-name-firefox } yrityksellesi
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

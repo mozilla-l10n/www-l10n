@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = Ladda ner { -brand-name-firefox } på svenska och mer än 90 andra språk
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Alla förtjänar tillgång till internet — ditt språk ska aldrig vara ett hinder. Det är därför — med hjälp av dedikerade volontärer runt om i världen — som vi gör { -brand-name-firefox } tillgänglig på mer än 90 språk.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = Skanna QR-koden för att hämta <em>{ $product_name }</em>
 firefox-all-choose-browser = Välj en webbläsare för att fortsätta
 firefox-all-choose-platform = Välj en plattform för att fortsätta
 firefox-all-choose-language = Välj ett språk för att fortsätta
@@ -69,14 +66,7 @@ firefox-all-product-send-link = Skicka en nedladdningslänk till din telefon
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Välj ett 32-bitars installationsprogram för datorer med 32-bitars processorer - eller för äldre eller mindre kraftfulla datorer. <a href="{ $url }">Om du inte är säker</a> om du vill välja ett 64-bitars eller 32-bitars installationsprogram rekommenderar vi att du väljer 32-bitars.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Ladda ner { $product_label } för { $platform } på { $locale }
 firefox-all-msi-installers = MSI installationsprogram
-firefox-all-which-version = Vilken version vill du ha?
-firefox-all-select-your-preferred-installer = Välj önskat installationsprogram
 firefox-all-select-your-preferred-language = Välj ditt önskade språk
 firefox-all-learn-about-installers = Läs mer om installationsprogram
 firefox-all-product-firefox = { -brand-name-firefox }

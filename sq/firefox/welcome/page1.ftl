@@ -10,7 +10,6 @@ welcome-page1-more-than-a-browser-mozilla = Më shumë se një shfletues - { -br
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Hidhni hapin pasues në mbrojtjen e privatësisë tuaj internetore me familjen e produkteve { -brand-name-firefox }.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Jini para hacker-ave. Kontrolloni me { -brand-name-mozilla-monitor } për cenime të dhënash.
-welcome-page1-youre-on-track-to-stay-protected = Jeni në rrugën e duhur për të qenë të mbrojtur
 welcome-page1-youve-got-the-web-browser = Morët shfletuesin që mbron privatësinë tuaj — tani erdhi koha të merrni një roje kundër hacker-ave.
 welcome-page1-check-your-breach-report = Kontrolloni Raportin Tuaj të Cenimeve
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

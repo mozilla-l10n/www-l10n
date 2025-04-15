@@ -9,11 +9,9 @@
 vpn-resource-center-title = VPN-resurscenter
 vpn-resource-center-whats-the-deal = Vad är grejen med Virtuella Privata Nätverk?
 vpn-resource-center-discover-how-they = Upptäck hur de fungerar, varför de är viktiga och vad användning av VPN kan innebära för dig.
-vpn-resource-center-view-all = Visa alla
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = Börja skydda din identitet idag
 vpn-resource-center-obsessed-with = Besatt av din integritet sedan 1998
-vpn-resource-center-get-mozilla-vpn = Hämta { -brand-name-mozilla-vpn }
 vpn-resource-center-was-this-article = Var den här artikeln till hjälp?
 vpn-resource-center-article-helpful = Artikeln hjälpte
 vpn-resource-center-article-not-helpful = Artikeln hjälpte inte

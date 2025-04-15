@@ -9,11 +9,9 @@
 vpn-resource-center-title = Κέντρο πόρων VPN
 vpn-resource-center-whats-the-deal = Τι συμβαίνει με τα εικονικά ιδιωτικά δίκτυα;
 vpn-resource-center-discover-how-they = Ανακαλύψτε πώς λειτουργούν, γιατί είναι σημαντικά και σε τι μπορεί να σας ωφελήσει η χρήση ενός VPN.
-vpn-resource-center-view-all = Προβολή όλων
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = Ξεκινήστε να προστατεύετε την ταυτότητά σας σήμερα
 vpn-resource-center-obsessed-with = Με αφοσίωση στο απόρρητό σας από το 1998
-vpn-resource-center-get-mozilla-vpn = Λήψη του { -brand-name-mozilla-vpn }
 vpn-resource-center-was-this-article = Ήταν χρήσιμο αυτό το άρθρο;
 vpn-resource-center-article-helpful = Χρήσιμο άρθρο
 vpn-resource-center-article-not-helpful = Μη χρήσιμο άρθρο

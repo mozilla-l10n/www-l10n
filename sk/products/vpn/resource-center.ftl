@@ -9,11 +9,9 @@
 vpn-resource-center-title = Centrum zdrojov VPN
 vpn-resource-center-whats-the-deal = Ako je to s virtuálnymi privátnymi sieťami?
 vpn-resource-center-discover-how-they = Zistite, ako fungujú, prečo sú dôležité a čo pre vás môže urobiť používanie siete VPN.
-vpn-resource-center-view-all = Zobraziť všetko
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = Začnite chrániť svoju identitu ešte dnes
 vpn-resource-center-obsessed-with = Posadnutý vaším súkromím od roku 1998
-vpn-resource-center-get-mozilla-vpn = Získajte { -brand-name-mozilla-vpn }
 vpn-resource-center-was-this-article = Pomohol vám tento článok?
 vpn-resource-center-article-helpful = Článok bol užitočný
 vpn-resource-center-article-not-helpful = Článok nebol užitočný

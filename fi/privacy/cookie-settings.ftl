@@ -35,11 +35,6 @@ cookie-settings-category-analytics-heading = Analytiikka
 cookie-settings-category-analytics-what-are-subheading = Mitä analytiikkaevästeet ovat?
 cookie-settings-category-analytics-what-are-desc = Nämä tekniikat keräävät tietoja siitä, miten ihmiset käyttävät verkkosivustoja, kuten vieraillut sivut, napsautetut linkit ja miltä verkkosivustoilta vierailut ovat peräisin.
 
-## Consent section
-
-cookie-settings-your-consent-heading = Suostumuksesi
-cookie-settings-your-consent-desc = Hyväksymällä evästeet annat suostumuksesi seuraaville { -brand-name-mozilla }-sivustoille, jotka kaikki noudattavat samoja tiukkoja tietosuojastandardeja. Huomaa, että tämä luettelo saatetaan päivittää ajan myötä.
-
 ## Privacy section
 
 cookie-settings-privacy-heading = Tietosuojakäytäntömme

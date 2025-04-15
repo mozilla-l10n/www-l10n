@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = Sader { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Awi { -brand-name-mozilla-vpn }
 navigation-v2-menu = Umuɣ
 
@@ -67,9 +66,5 @@ navigation-v2-close-innovation-menu = Fren umuɣ n usnulfu
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Awi iminig { -brand-name-firefox } i yettwaxedmen i yineflayen kan.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
-navigation-v2-firefox-reality = { -brand-name-firefox-reality }
-navigation-v2-explore-the-web-with-the = Snirem web s yiminig { -brand-name-firefox } i tilawt tuhlist.
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Mudd-d taɣect-ik.im akken imal n uzeṭṭa Web ad isel i medden merra.
-navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-learn-more-about-the-new = Issin ugar ɣef tutlayt tamaynut n wanaw usemlili n uswir adday.

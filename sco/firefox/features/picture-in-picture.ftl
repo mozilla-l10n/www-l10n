@@ -5,4 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/picture-in-picture/
 
-features-pip-play-the-video = Pley the video

@@ -25,9 +25,6 @@ firefox-new-need-help = بھلا مدد دی لوڑ ہے؟
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ہݨ سیکیورٹی اپ ڈیٹس فراہم نہیں کریندا</a> { -brand-name-windows } { -brand-name-xp } یا { -brand-name-vista }، لیکن تساں وت وی { -brand-name-firefox } استعمال کر سڳدے او۔
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = تہاݙا ڈاؤن لوڈ آپوں ڄاݨ شروع تھیوݨا چاہیدا یے۔ کم نہیں کریندا؟ <a id="{ $id }" href="{ $fallback_url }">دوبارہ ڈاؤن لوڈ کرݨ دی کوشش کرو</a>۔
@@ -36,9 +33,6 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤز�
 firefox-new-download-interrupted = تہاݙے ڈاؤن لوڈ وچ خلل پئے ڳیا ہائی۔ پر ہر شئے ضائع کائنی تھئی۔
 firefox-new-download-almost-there = تقریباً اُتھ!
 firefox-new-download-select-linux = ہیٹھاں ڈاؤن لوڈ آپشن چݨو
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = { -brand-name-firefox } انسٹال کرݨ کیتے سوہݨا، <a href="{ $url }">ان ہدایتاں</a> تے عمل کرو۔
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = تہاݙا نظام { -brand-name-firefox } چلاوݨ دیاں ضروریات پوریاں کائنی کرین٘دا، پر تساں <a href="{ $url }">انہاں ورشناں</a> وچوں ہک ورتݨ دی کوشش کر سڳدے ہو۔

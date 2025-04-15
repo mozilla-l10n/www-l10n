@@ -20,7 +20,6 @@ newsletter-form-im-okay-with-mozilla = Я згодны з тым, як { -brand-
 newsletter-form-if-you-havent-previously = Калі вы яшчэ не пацвердзілі падпіску на навіны аб { -brand-name-mozilla }, вы яшчэ можаце гэта зрабіць. Праверце сваю пошту ці папку спаму на наяўнасць ліста ад нас.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Вы
 newsletter-form-get-firefox-tips = Атрымлівайце парады, падказкі, навіны { -brand-name-firefox } і нават больш
-newsletter-form-keep-up-with = Будзьце ў курсе ўсяго,<br> што звязана з { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Навіны { -brand-name-mozilla }
 newsletter-form-available-languages = Даступныя мовы
 newsletter-form-select-country = Выбар краіны

@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = รับ { -brand-name-firefox } สำหรับองค์กรของคุณด้วย { -brand-name-esr } และ Rapid Release
 firefox-enterprise-get-unmatched-data-protection = ปกป้องข้อมูลชนิดต่าง ๆ บนจังหวะการออกรุ่นที่เหมาะกับคุณด้วย { -brand-name-firefox } สำหรับองค์กร ดาวน์โหลด { -brand-name-esr } และ Rapid Release
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = ภาพรวม
-firefox-enterprise-downloads = ดาวน์โหลด
 firefox-enterprise-get-firefox-for-your-enterprise = รับ { -brand-name-firefox } สำหรับองค์กรของคุณ
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

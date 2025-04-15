@@ -15,19 +15,6 @@ firefox-desktop-download-og-desc = טעינת דפים מהירה יותר, פח
 firefox-desktop-download-firefox = { -brand-name-firefox-browser(case: "a") }
 firefox-desktop-download-download-options = אפשרויות הורדה ושפות אחרות
 firefox-desktop-download-browser-support = תמיכה ב{ -brand-name-firefox-browser(case: "a") }
-firefox-desktop-download-compare-firefox-to = השוואת { -brand-name-firefox } מול:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = כן
-firefox-desktop-download-no = לא
-firefox-desktop-download-blocks-third-party = חסימת עוגיות מעקב צד־שלישי
-firefox-desktop-download-autoplay-blocking = חסימת ניגון אוטומטי
-firefox-desktop-download-blocks-social-trackers = חסימת רכיבי מעקב של רשתות חברתיות
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = זמינות למערכות הפעלה
-firefox-desktop-download-in-browser-screenshot = כלי צילום מסך מובנה בדפדפן
-firefox-desktop-download-primary-password = ססמה ראשית
 firefox-desktop-download-see-your-report = הצגת דוח ההגנה שלך
 firefox-desktop-download-for-everyone = ‏{ -brand-name-firefox } הוא בשביל כולם
 firefox-desktop-download-review-system-req = בדיקת דרישות המערכת
@@ -102,18 +89,12 @@ firefox-desktop-download-now-mac = רק נשאר <strong>לפתוח</strong> א�
 firefox-desktop-download-get-help = נתקלת בבעיות? <a { $attrs }>ניתן לקבל עזרה עם ההתקנה</a>.
 firefox-desktop-download-in-another-language = הורדה בשפה אחרת או עבור מערכת הפעלה אחרת.
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = ‏{ -brand-name-mozilla } <a href="{ $url }">לא מספק יותר עדכוני אבטחה</a> ב־{ -brand-name-windows } { -brand-name-xp } או { -brand-name-vista }, אבל עדיין ניתן להשתמש ב־{ -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = ההורדה שלך אמורה להתחיל אוטומטית. לא התחילה? <a id="{ $id }" href="{ $fallback_url }">אפשר לנסות להוריד שוב</a>
 firefox-new-firefox-is-more-than-a-browser = ‏{ -brand-name-firefox } הוא יותר מדפדפן.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = ההורדה שלך הופסקה, אבל לא הכל אבוד.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = נא לעקוב אחר <a href="{ $url }">ההנחיות האלו</a> כדי להתקין את { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = ייתכן שהמערכת שלך לא עומדת בדרישות עבור { -brand-name-firefox }, אבל ניתן לנסות אחת מ<a href="{ $url }">גרסאות אלו</a>.

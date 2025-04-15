@@ -20,7 +20,6 @@ about-pioneers-of-the-open-web = Pioniri otvorenog weba
 about-our-leadership-has-been-at = Naše se vodstvo bori za izgradnju zdravijeg interneta od prvog dana. Ono što je počelo kao alternativa dominaciji korporacija preraslo je u globalnu silu za dobro na internetu.
 about-firefox-fast-for-good = { -brand-name-firefox }: zauvijek brz
 about-when-you-use-the-new-firefox = Kada koristiš novi { -brand-name-firefox } dobivaš izvanrednu brzinu i podržavaš { -brand-name-mozilla } misiju da internet održi zdravim i ugodnim za sve.
-about-when-the-facebook-breach-was = Kad je otkrivena povreda { -brand-name-facebook }a, { -brand-name-mozilla } je odmah reagirala s { -brand-name-firefox } proizvodom koji podržava privatnost korisnika.
 about-corporation-foundation-not = Korporacija. Zaklada. Neprofitna organizacija.
 about-learn-about-the-mozilla-foundation = Saznaj više o zakladi { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } stavlja ljude ispred profita u svemu što kažemo, izgrađujemo i radimo. Zapravo, srce našeg poduzeća je neprofitna zaklada.

@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = ჩვენ მხოლოდ {
 newsletter-form-if-you-havent-previously = თუ ჯერ არ დაგიმოწმებიათ { -brand-name-mozilla }-ს სიახლეების ცნობარი, ამის გაკეთება ახლაც შეგიძლიათ. გთხოვთ, მონახოთ ჩვენი გზავნილი მიღებული წერილების ან ჯართის საქაღალდეში.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + თქვენ
 newsletter-form-get-firefox-tips = გაეცანით { -brand-name-firefox }-სთან დაკავშირებულ რჩევებს, მითითებებს, სიახლეებს და სხვ.
-newsletter-form-keep-up-with = არ ჩამორჩეთ<br> { -brand-name-firefox }-თან დაკავშირებულ სიახლეებს.
 newsletter-form-get-mozilla-updates = გაეცანით { -brand-name-mozilla }-ს სიახლეებს
 newsletter-form-available-languages = ხელმისაწვდომი ენები
 newsletter-form-select-country = ქვეყნის არჩევა

@@ -14,7 +14,6 @@ mobile-focus-simply-private-mobile = Танҳо тамошои мобилии х
 mobile-focus-firefox-focus-dedicated-with-v2 = «{ -brand-name-firefox-focus }» — браузере мебошад, ки ба хотири махфияти шумо сохта шудааст ва шуморо аз васоити пайгирӣ ба таври худкор муҳофизат мекунад. Ба воситаи { -brand-name-focus } саҳифаҳои шумо тезтар кушода мешаванд ва маълумоти шахсии шумо ба таври махфӣ нигоҳ дошта мешавад.
 mobile-focus-firefox-focus-is-available = Браузери «{ -brand-name-firefox-focus }» барои ҳар ду дастгоҳ — «{ -brand-name-ios }» ва «{ -brand-name-android }» дастрас аст.
 mobile-focus-get-firefox-focus = «{ -brand-name-firefox-focus }»-ро ба даст оред
-mobile-focus-send-a-download-link-to-your = Фиристодани пайванд ба телефон барои боргирӣ кардани браузер.
 mobile-focus-scan-the-qr-code-to-get-started = Барои оғози кор бо барнома рамзи «QR»-ро тасвирбардорӣ намоед.
 mobile-focus-scan-alt-text = Барои гирифтани «{ -brand-name-firefox-focus }», рамзи «QR»-ро тасвирбардорӣ намоед
 mobile-focus-delete-your-history = Нест кардани таърихи худ

@@ -14,7 +14,6 @@ mobile-focus-simply-private-mobile = 單純的隱私保護瀏覽器。
 mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } 是您專門的隱私保護瀏覽器，使用時會自動開啟追蹤保護功能。使用 { -brand-name-focus }，讓您上網可以更快，同時確保隱私資料不外流。
 mobile-focus-firefox-focus-is-available = { -brand-name-ios } 及 { -brand-name-android } 裝置皆可下載安裝 { -brand-name-firefox-focus }。
 mobile-focus-get-firefox-focus = 下載 { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = 傳送下載鏈結到您的手機。
 mobile-focus-scan-the-qr-code-to-get-started = 掃描 QR Code 開始使用
 mobile-focus-scan-alt-text = 掃描 QR Code，下載 { -brand-name-firefox-focus }
 mobile-focus-delete-your-history = 刪除瀏覽紀錄

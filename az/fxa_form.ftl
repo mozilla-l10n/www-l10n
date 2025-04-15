@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = Davam edərək <a href="{ $url1 }">İstifadə Şərtləri</a> və <a href="{ $url2 }">Məxfilik Bildirişi</a> ilə razılaşmış olacaqsınız.
 fxa-form-email-address = E-poçt ünvanı
 fxa-form-continue = Davam et
-fxa-form-create-account = Hesab yarat
-fxa-form-get-the-app = Tətbiqi əldə et

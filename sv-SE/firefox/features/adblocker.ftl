@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Hur man blockerar irriterande annonser med en annonsblockerare
 features-adblocker-how-to-stop-seeing-too = Hur man slutar se för många annonser och hindrar företag från att följa dig på nätet. En guide för annonsblockerare från webbläsaren { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Annonsblockeraren – ett hemligt vapen mot irriterande annonser.
 features-adblocker-so-many-ads-so-little = Så många annonser, så lite tålamod… Det är dags att stoppa galenskapen.

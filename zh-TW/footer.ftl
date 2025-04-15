@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = { -brand-name-mozilla } Manifesto
 footer-privacy-hub = 隱私權中心
 footer-privacy = 隱私權
 footer-press = 媒體中心
 footer-mozilla-blog = { -brand-name-mozilla } 部落格
-footer-browser-comparison = 瀏覽器比較
-footer-brand-standards = 品牌設計準則
-footer-browsers = 瀏覽器
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = 開發者
 footer-developer-edition = { -brand-name-developer-edition }
@@ -38,7 +34,6 @@ footer-websites-legal = 法律資訊
 footer-language = 語言
 footer-go = 前往
 footer-donate = 捐款
-footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }

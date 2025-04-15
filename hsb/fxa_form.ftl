@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = <strong>Zapodajće swoju e-mejlowu adresu</strong
 fxa-form-by-proceeding = Hdyž pokročujeće, zwoliće do <a href="{ $url1 }">wužiwanskich wuměnjenjow</a> a <a href="{ $url2 }">rozłoženja wo škiće datow</a>.
 fxa-form-email-address = E-mejlowa adresa
 fxa-form-continue = Dale
-fxa-form-create-account = Konto załožić
-fxa-form-get-the-app = Nałoženje sćahnyć

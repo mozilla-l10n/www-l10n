@@ -14,11 +14,6 @@ firefox-all-need-help = Hua sa rugûñu’ūnj ñûnj sò’ aj?
 firefox-all-choose-which-firefox = Naguī ahuin sa nana’ui’ { -brand-name-firefox-browser } da’ nadunïnjt ngà sinuguàn’t
 firefox-all-firefox-privacy-notice = Nuguan’ huì nikāj { -brand-name-firefox }
 firefox-all-learn-about-firefox = Gahuin chrūn doj rayi’î nej sa nana’ui’ nikāj { -brand-name-firefox }
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Nādunïnj { $product_label } guendâ { $platform } riña { $locale }
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }

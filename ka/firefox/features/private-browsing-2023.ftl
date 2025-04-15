@@ -8,8 +8,6 @@
 features-private-browsing-private-browsing-mode = პირადი დათვალიერების რეჟიმი
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox }-ის პირადი დათვალიერების რეჟიმი
-# HTML page description
-features-private-browsing-firefox-protects = { -brand-name-firefox } იცავს თქვენს პირად მონაცემებს ინტერნეტში მეთვალყურე ელემენტების შეზღუდვით საიტებზე.
 features-private-browsing-if-you-share-a-computer = თუ კომპიუტერს უზიარებთ სხვებს ან გსურთ შეუზღუდოთ საიტებს თქვენ შესახებ მონაცემების შეგროვება, შეგიძლიათ პირადი თვალიერების რეჟიმით ისარგებლოთ { -brand-name-firefox }-ში. პირადი თვალიერების რეჟიმი ასუფთავებს იმ ციფრულ კვალს, რომელსაც ინტერნეტში გვერდების მონახულებისას ტოვებთ — შეგიძლიათ მიამსგავსოთ ტყეში დატოვებულ კვალს.
 features-private-browsing-what-does-private-browsing-do = რას აკეთებს პირადი დათვალიერება?
 features-private-browsing-private-browsing-mode-opens-v2 = პირადი დათვალიერების რეჟიმი ხსნის ბრაუზერის ახალ ფანჯარას. როგორც კი დახურავთ ბოლო პირად ჩანართს, გვერდების ისტორია და ყველა თვალყურისმდევნელი ფუნთუშა მონახულებული საიტებიდან გასუფთავდება. <strong>{ -brand-name-firefox }-სგან გამოცდილი რჩევა:</strong> არ დაგავიწყდეთ პირადი ფანჯრის დახურვა საქმიანობის დასრულებისთანავე!

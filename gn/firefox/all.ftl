@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = Emboguejy { -brand-name-firefox } inglés-pe (US) ha avei hetaiteve 90 ñe’ẽme oĩva
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Opavave oikekuaava’erã ñandutípe — pe neñe’ẽ ndaha’eiva’erã jokoha. Upévare — opaite pytyvõhara arapygua ndive — rojapo { -brand-name-firefox } ojeporukuaa hag̃ua hetave 90 ñe’ẽme.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = Emoha’ãnga QR ayvu egueru hag̃ua <em>{ $product_name }</em>
 firefox-all-choose-browser = Eiporavo kundahára eku’e hag̃ua
 firefox-all-choose-platform = Eiporavo pyendavusu eku’e hag̃ua
 firefox-all-choose-language = Eiporavo ñe’ẽ eku’e hag̃ua
@@ -67,14 +64,7 @@ firefox-all-product-send-link = Emondo juajuha mboguejyrã ne pumbyrýpe
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Eiporavo ñemohendaha 32-bit ne mohendahápe g̃uarã orekóva procesador 32-bit térã mohendaha itujavévape g̃uarã térã ikangyvéva. <a href="{ $url }">Ndereikuaáiramo</a> eiporútapa 64-bit térã 32-bit, ro’e ndéve eiporu hag̃ua 32-bit.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Emboguejy { $product_label } { $platform } peg̃uarã { $locale } rupive
 firefox-all-msi-installers = Mohendaha MSI
-firefox-all-which-version = ¿Mba’echaguápa eipota?
-firefox-all-select-your-preferred-installer = Eiporavo ne ñemohendaha ehayhuvéva
 firefox-all-select-your-preferred-language = Eiporavo ne ñe’ẽ ehayhuvéva
 firefox-all-learn-about-installers = Eikuaa mohendaha
 firefox-all-product-firefox = { -brand-name-firefox }

@@ -39,11 +39,6 @@ cookie-settings-category-analytics-what-are-subheading = Vad är statistikkakor?
 cookie-settings-category-analytics-what-are-desc = Dessa tekniker samlar in information om hur människor använder webbplatser, till exempel besökta sidor, klickade länkar och vilka andra webbplatser besöket kom ifrån.
 cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } använder analysinformation för att förstå hur användare interagerar med våra webbplatser så att vi kan förbättra dem och åtgärda eventuella problem som uppstår. Vi kan också använda data från kakor, enhetsinformation och IP-adresser för att hjälpa oss att förstå hur användare använder våra produkter, tjänster, kommunikation, webbplatser, onlinekampanjer, enheter och andra plattformar. Vi samlar endast in analysinformation och ställer in analyskakor med ditt samtycke.
 
-## Consent section
-
-cookie-settings-your-consent-heading = Ditt samtycke
-cookie-settings-your-consent-desc = Genom att godkänna kakor, kommer ditt samtycke att beviljas för följande lista över { -brand-name-mozilla } webbplatser, som alla följer samma strikta standarder för datasekretess. Observera att denna lista kan uppdateras med tiden.
-
 ## Privacy section
 
 cookie-settings-privacy-heading = Vårt sekretessmeddelande

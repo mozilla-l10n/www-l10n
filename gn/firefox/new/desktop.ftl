@@ -29,23 +29,6 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } ñepy
 firefox-desktop-download-do-what-you-do-v2 = Ejapo ejapóva ñandutípe.<br> { -brand-name-firefox-browser }<strong> noma’ẽi</strong> nderehe.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Ejapo ejapóva ñandutípe.<br> { -brand-name-firefox-browser }<strong> noma’ẽi</strong> nderehe.
-firefox-desktop-download-how-firefox-compares = Mba’éicha emoñondivekuaa { -brand-name-firefox } ambue kundahára ndive
-firefox-desktop-download-get-all-the-speed = Embopya’eve ha tembiporu erekóta oike’ỹ rehe nde rekomíme. { -brand-name-firefox-browser } rombyaty sa’imi mba’ekuaarã nde rehegua ni ndorojeruréi ne ñanduti veve kundaharape romboguejy hag̃ua. Kóva oiko, ojuavýva ambue kundaháragui, ndoroguekóigui mba’érepa rohapykuehóta ñandutípe.
-firefox-desktop-download-how-we-compare = Mba’éicha ñañomoñondivekuaa ambue kundahára ndive
-firefox-desktop-download-compare-firefox-to = Emoñondive { -brand-name-firefox } ndive:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Héẽ
-firefox-desktop-download-no = Nahániri
-firefox-desktop-download-blocks-third-party = Ejoko umi kookie tapykuehoha mbohapyháva
-firefox-desktop-download-blocks-third-party-default = Ejoko kookie tapykuehoha mbohapyháva ijehegui
-firefox-desktop-download-autoplay-blocking = Ejoko ñemboheta ijeheguíva
-firefox-desktop-download-blocks-social-trackers = Ejoko tapykuehoha atyguáva
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = OS jeporukuaáva
-firefox-desktop-download-in-browser-screenshot = Mba’erecha japyhyha kundahárape rembiporu
-firefox-desktop-download-primary-password = Ñe’ẽñemi ha’etéva
 firefox-desktop-download-we-block-the-ad = Roheka tapykuehoha ñemurãva. Upevarã eheka ñanduti ipya’éva.
 firefox-desktop-download-ads-are-distracting = Pe maranduñemurã nemyangekói ha omyanehẽ mbegueve ñanduti kuatiarogue, péicha umi tapykuehoha ohecha rejapóva ñandutíe. { -brand-name-firefox-browser } ojoko heta umi tapykuehoha ijehegui, péicha rupi natekotevẽi emoĩporã tekorosã.
 firefox-desktop-download-see-your-report = Ehecha ne jehaipy’i ñemo’ãgua
@@ -146,7 +129,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ijehegu
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ¿Porandu? Pe <a { $attrs }>{ -brand-name-mozilla } pytyvõha</a> ne mo’ã meme.
-firefox-desktop-download-watch-for-hackers-with-v3 = Ejesareko mba’evai’apoháre { -brand-name-mozilla-monitor } ndive, emo’ã ne ñanduti veve { -brand-name-firefox-relay } ndive ha hetave.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -169,18 +151,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = Ehecháramo ñe’ẽmondo erévo tembiporu’i emohendaséva ndaha’éi tembiporu’i { -brand-name-microsoft } ohechapyréva, eikutu “Mohenda opaicharei” térã <a { $attrs }>ñemboheko moambue tembiporu’i ñe’ẽporãhague</a>.
 firefox-desktop-download-visit-support-for-more = Eike Pytyvõme eikuaave hag̃ua
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">nombohekopyahuvéima tekorosã</a> { -brand-name-windows }-pe { -brand-name-xp } térã { -brand-name-vista }, hákatu eiporukuaa gueteri { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Ko ñemboguejy oñepyrũva’erã ijehegui. ¿Ndoikói? <a id="{ $id }" href="{ $fallback_url }">Eha’ãjey mboguejy pyahu.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ndaha’éi kundahára año.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Pe ñemboguejy ojejoko. Hákatu nokañymbái.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Ejapomína <a href="{ $url }">ko’ã mba’e</a> emohendávo { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Ikatu hína nde apopyvusu ndorekói { -brand-name-firefox } ojeruréva, hákatu eiporukuaa peteĩva <a href="{ $url }">ãva rehegua</a>.

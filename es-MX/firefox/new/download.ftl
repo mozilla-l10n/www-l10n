@@ -25,9 +25,6 @@ firefox-new-need-help = ¿Necesitas ayuda?
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ya no proporciona actualizaciones de seguridad</a> en { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }, pero aún puedes usar { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = La descarga debería comenzar en un instante. ¿No funcionó? <a id="{ $id }" href="{ $fallback_url }">Intenta descargar nuevamente</a>.
@@ -36,9 +33,6 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } es más que
 firefox-new-download-interrupted = Tu descarga fue interrumpida. Pero no todo está perdido.
 firefox-new-download-almost-there = ¡Casi listo!
 firefox-new-download-select-linux = Selecciona una opción de descarga a continuación
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = Por favor, sigue <a href="{ $url }">estas instrucciones</a> para instalar { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Tu sistema puede no tener los requerimientos para { -brand-name-firefox }, pero puedes intentar con alguna de <a href="{ $url }">estas versiones</a>.

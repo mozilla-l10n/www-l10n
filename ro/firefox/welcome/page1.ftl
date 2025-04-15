@@ -7,7 +7,6 @@
 
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Fă pasul următor pentru a-ți proteja confidențialitatea online cu familia de produse { -brand-name-firefox }.
-welcome-page1-youre-on-track-to-stay-protected = Ești pe drumul corect pentru a rămâne protejat
 welcome-page1-youve-got-the-web-browser = Ai browserul care-ți protejează confidențialitatea - acum trebuie să stăm cu ochii pe hackeri.
 welcome-page1-check-your-breach-report = Vezi raportul tău privind încălcările securității datelor
 welcome-page1-stay-ahead-of-hackers = Fii cu un pas înaintea hackerilor

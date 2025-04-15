@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = Download { -brand-name-firefox } voor uw onderneming met { -brand-name-esr } en Rapid Release
 firefox-enterprise-get-unmatched-data-protection = Verkrijg ongeëvenaarde gegevensbescherming op de uitgavefrequentie die bij u past met { -brand-name-firefox } voor ondernemingen. Download { -brand-name-esr } en Rapid Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Overzicht
-firefox-enterprise-downloads = Downloads
 firefox-enterprise-get-firefox-for-your-enterprise = Download { -brand-name-firefox } voor uw onderneming
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

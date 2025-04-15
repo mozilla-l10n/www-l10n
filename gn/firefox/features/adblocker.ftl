@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Mba’éicha ejokokuaa ñemurã echa’e’ỹha eiporúvo ñemurã jokoha
 features-adblocker-how-to-stop-seeing-too = Mba’éicha ikatu nderehachavéi ñemurã ha emboyke jehapykueho ñandutípe. { -brand-name-firefox } ñanduti kundaha ñemurã jokoha rape.
 features-adblocker-the-ad-blocker-a-secret = Ñemurã jokoha – ñemurã echa’e’ỹha rovake.
 features-adblocker-so-many-ads-so-little = Hetaiterei ñemurã, sa’i py’aguapy… Ejokohápema pe tavyraireko.

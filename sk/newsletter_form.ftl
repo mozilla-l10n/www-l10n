@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = Budeme vám zasielať iba inform�
 newsletter-form-if-you-havent-previously = Ak ste v minulosti nepotvrdili odber noviniek { -brand-name-mozilla(case: "gen") }, budete to musieť urobiť teraz. Pozrite sa, prosím, do vašej e‑mailovej schránky, prípadne i do priečinku s nevyžiadanou poštou, či sa tam nenachádza e‑mail od nás.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> a vy
 newsletter-form-get-firefox-tips = Získajte tipy, triky a novinky o { -brand-name-firefox(case: "loc") }
-newsletter-form-keep-up-with = Zostaňte v spojení<br> s { -brand-name-firefox(case: "ins") }.
 newsletter-form-get-mozilla-updates = Získajte novinky o { -brand-name-mozilla(case: "loc") }
 newsletter-form-available-languages = Dostupné jazyky
 newsletter-form-select-country = Zvoľte krajinu

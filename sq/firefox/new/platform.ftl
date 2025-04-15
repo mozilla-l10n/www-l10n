@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Shfletues i Lirë
-new-platform-download-firefox = Shkarkoni { -brand-name-firefox }-in
 new-platform-download-the-fastest = Shkarkoni { -brand-name-firefox }-in më të shpejtë deri më sot
 new-platform-faster-page-loading = Ngarkim më i shpejtë faqesh, përdorim më i pakët i kujtesës dhe plot me veçori, { -brand-name-firefox }-i i ri erdhi.
 new-platform-2x-faster = 2x Më i Shpejtë
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Shkarkoni { -brand-name-mozilla } { -
 new-platform-download-the-fastest-linux = Shkarkoni { -brand-name-firefox }-in më të shpejtë deri më sot për { -brand-name-linux }
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Ngarkim më i shpejtë faqesh, përdorim më i pakët i kujtesës dhe plot me veçori, { -brand-name-firefox }-i i ri për { -brand-name-linux } erdhi.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } për { -brand-name-linux }
 new-platform-privacy-more-than = Privatësia - më tepër se sa një palë rregulla
 new-platform-your-life-your-business = Punët tuaja, biznesi juaj. { -brand-name-firefox }-i i bllokon cooki-et për gjurmim nga palë të treta në { -brand-name-linux }.
 new-platform-speed-meet-security = Shpejtësia kryqëzohet me sigurinë. { -brand-name-firefox }-i është dy herë më i shpejtë me 30% më pak konsum kujtese, sesa { -brand-name-chrome }-i.

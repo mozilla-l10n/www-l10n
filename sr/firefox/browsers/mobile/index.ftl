@@ -14,7 +14,6 @@ browsers-mobile-infinitely-customizable-private = Неизмерно прила�
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } за { -brand-name-ios }
 browsers-mobile-go-your-own-way = Наставите по своме уз { -brand-name-firefox } за мобилни
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } за мобилне уређаје се прилагођава вама и гледање отворених картица, недавних претрага и омиљених сајтова чини још лакшим.
-browsers-mobile-the-more-you-use = Што чешћа употреба, то паметнији прегледач. Персонализована { -brand-name-firefox } почетна страница вам омогућава да наставите тачно тамо где сте стали.
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Будите безбедни уз побољшану заштиту од праћења и поставите { -brand-name-firefox } као подразумевани прегледач на { -brand-name-iphone } и { -brand-name-ipad } уређајима.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }

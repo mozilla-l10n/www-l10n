@@ -9,7 +9,6 @@ firefox-accounts-enter-your-email-address = Introdu-ți adresa de e-mail pentru 
 firefox-accounts-already-have-an-account = Ai deja un cont?
 firefox-accounts-sign-in = Autentifică-te
 firefox-accounts-keep-your-passwords = Păstrează parolele protejate și portabile.
-firefox-accounts-get-a-lookout-for = Aruncă un ochi la încălcările securității datelor.
 firefox-accounts-travel-the-internet = Călătorește pe internet cu protecție pe fiecare dispozitiv.
 firefox-accounts-get-it-all-on-every = Obține-le pe toate pe fiecare dispozitiv, fără să te simți captiv unui singur sistem de operare.
 

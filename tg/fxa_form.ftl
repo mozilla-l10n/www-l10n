@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = Барои эҷод кардани «{ -brand-nam
 fxa-form-by-proceeding = Бо идома додан, шумо бо <a href="{ $url1 }">Шартҳои хизматрасонӣ</a> ва <a href="{ $url2 }">Огоҳномаи махфият</a> розӣ мешавед.
 fxa-form-email-address = Нишонии почтаи электронӣ
 fxa-form-continue = Давом додан
-fxa-form-create-account = Эҷод кардани ҳисоб
-fxa-form-get-the-app = Барномаро гиред

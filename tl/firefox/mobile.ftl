@@ -8,8 +8,5 @@
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-firefox-mobile = Kunin ang { -brand-name-firefox } Mobile
-firefox-mobile-stop-companies-from-following = Pigilan ang mga kumpanya sa pagsunod sa iyo
-firefox-mobile-android-only = Para sa { -brand-name-android } lamang
-firefox-mobile-get-firefox-for-mobile = Kunin ang { -brand-name-firefox } para sa mobile
 firefox-mobile-send-a-download-link-to-your = Magpadala ng download link sa iyong phone.
 firefox-mobile-scan-the-qr-code-to-get-started = I-scan ang QR code para makapag simula

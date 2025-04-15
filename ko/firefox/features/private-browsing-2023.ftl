@@ -8,8 +8,6 @@
 features-private-browsing-private-browsing-mode = 사생활 보호 모드
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox } 사생활 보호 모드
-# HTML page description
-features-private-browsing-firefox-protects = { -brand-name-firefox }는 여러분의 온라인 개인 정보를 보호하기 위해 각종 온라인 추적 사이트를 차단합니다.
 features-private-browsing-if-you-share-a-computer = 다른 사람과 컴퓨터를 공유하거나 웹사이트가 사용자에 대해 수집할 수 있는 데이터 양을 제한하고 싶은 경우 { -brand-name-firefox }에서 사생활 보호 모드를 사용할 수 있습니다. 사생활 보호 모드는 온라인을 탐색할 때 남기는 디지털 흔적을 지웁니다. 디지털 흔적은 숲속의 발자국과 같은 것입니다.
 features-private-browsing-what-does-private-browsing-do = 사생활 보호 모드는 어떤 기능을 하나요?
 features-private-browsing-private-browsing-mode-opens-v2 = 사생활 보호 모드는 새 브라우저 창을 엽니다. 마지막 사생활 보호 모드 창을 닫으면 방문 기록과 방문했던 웹사이트의 모든 추적 쿠키가 지워집니다. <strong>{ -brand-name-firefox } 전문가의 팁:</strong> 작업을 마치면 모든 사생활 보호 창을 닫는 것을 잊지 마세요!

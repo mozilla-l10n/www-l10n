@@ -7,9 +7,6 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = ඉංග්‍රීසි (එ.ජ.) සහ තවත් භාෂා 90 කින් { -brand-name-firefox } බාගන්න.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = <em>{ $product_name }</em> ගැනීමට QR කේතය සුපිරික්සන්න.
 firefox-all-choose-browser = ඉදිරියට යාමට අතිරික්සුවක් තෝරන්න
 firefox-all-choose-platform = ඉදිරියට යාමට වේදිකාවක් තෝරන්න
 firefox-all-choose-language = ඉදිරියට යාමට භාෂාවක් තෝරන්න
@@ -53,14 +50,7 @@ firefox-all-product-send-link = දුරකථනයට බාගැනීම�
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = පැරණි හෝ අඩු බලයක් සහිත පරිගණක — හෝ බිටු-32 සකසන සහිත පරිගණක සඳහා බිටු-32 ස්ථාපකයක් තෝරන්න. බිටු-64 හෝ බිටු-32 ස්ථාපකයක් තෝරා ගන්නේද යන්න <a href="{ $url }">ඔබට විශ්වාස නැතිනම්</a>, බිටු-32 භාවිත කිරීමට නිර්දේශ කරන්නෙමු.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = { $platform } සඳහා { $locale } { $product_label } බාගන්න
 firefox-all-msi-installers = MSI ස්ථාපක
-firefox-all-which-version = ඔබ කැමති අනුවාදය කුමක්ද?
-firefox-all-select-your-preferred-installer = ඔබ කැමති ස්ථාපකය තෝරන්න
 firefox-all-select-your-preferred-language = ඔබ කැමති භාෂාව තෝරන්න
 firefox-all-learn-about-installers = ස්ථාපක ගැන දැන ගන්න
 firefox-all-product-firefox = { -brand-name-firefox }

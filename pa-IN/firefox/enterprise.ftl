@@ -6,8 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = ਸੰਖੇਪ
-firefox-enterprise-downloads = ਡਾਊਨਲੋਡ
 firefox-enterprise-your-data-stays-your-business = ਤੁਹਾਡਾ ਡਾਟਾ ਤੁਹਾਡੇ ਕਾਰੋਬਾਰ ਨਾਲ ਰਹਿੰਦਾ ਹੈ
 firefox-enterprise-deploy-when-and-how-you-want = ਜਦੋਂ ਤੇ ਜਿਵੇਂ ਤੁਸੀਂ ਚਾਹੋ ਸਥਾਪਤ ਕਰੋ
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } ਡਾਊਨਲੋਡ

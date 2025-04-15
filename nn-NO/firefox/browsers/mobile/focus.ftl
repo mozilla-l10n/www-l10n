@@ -14,7 +14,6 @@ mobile-focus-simply-private-mobile = Enkel, privat, mobilsurfning
 mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } er din dedikerte personvern-nettlesar med automatisk sporingsvern. Med { -brand-name-focus } lastar sidene dine raskare, og dataa dine blir verande private.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } er tilgjengeleg for både { -brand-name-ios } og { -brand-name-android }-einingar.
 mobile-focus-get-firefox-focus = Last ned { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = Send ei nedlastingslenke til telefonen din.
 mobile-focus-scan-the-qr-code-to-get-started = Skann QR-koden for å kome i gang
 mobile-focus-scan-alt-text = Skann QR-koden for å få { -brand-name-firefox-focus }
 mobile-focus-delete-your-history = Slett historikken din

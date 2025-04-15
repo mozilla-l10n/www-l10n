@@ -8,25 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Λήψη του { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Εγγραφή στη λίστα αναμονής
-vpn-shared-available-countries-v6 = Αυτήν τη στιγμή, προσφέρουμε το { -brand-name-mozilla-vpn } στην Αυστρία, το Βέλγιο, τη Βουλγαρία, τη Γαλλία, τη Γερμανία, τη Δανία, την Ελβετία, την Εσθονία, τις ΗΠΑ, το Ηνωμένο Βασίλειο, την Ιρλανδία, την Ισπανία, την Ιταλία, τον Καναδά, την Κροατία, την Κύπρο, τη Λετονία, τη Λιθουανία, το Λουξεμβούργο, τη Μάλτα, τη Μαλαισία, τη Νέα Ζηλανδία, την Ολλανδία, την Ουγγαρία, την Πολωνία, την Πορτογαλία, τη Ρουμανία, τη Σιγκαπούρη, τη Σλοβακία, τη Σλοβενία, τη Σουηδία, την Τσεχία και τη Φινλανδία.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Εγγύηση επιστροφής χρημάτων 30 ημερών
-vpn-shared-features-encrypt = Κρυπτογράφηση σε επίπεδο συσκευής
-vpn-shared-features-bandwidth = Χωρίς περιορισμούς εύρους ζώνης
-vpn-shared-features-activity = Χωρίς καταγραφή δραστηριότητας δικτύου
-vpn-shared-features-activity-logs = Χωρίς αρχεία δραστηριότητας, ούτε τώρα ούτε ποτέ
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = Πρόσβαση σε διακομιστές { $countries }+ χωρών
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = Προστασία για έως και { $devices } συσκευές
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = Ισχυροί διακομιστές σε { $countries }+ χώρες
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = Σύνδεση έως και { $devices } συσκευών
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = Εγγύηση επιστροφής χρημάτων 30 ημερών
 vpn-shared-privacy-notice = Σημείωση απορρήτου
@@ -65,12 +48,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = Το { -brand-name-mozilla-vpn } �
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = Ας ξεκινήσουμε
 vpn-shared-platform-cta-button = Προβολή τιμών και διαθεσιμότητας
-vpn-shared-platform-privacy-promise = Το απόρρητό σας είναι η υπόσχεσή μας
 vpn-shared-platform-what-is = Τι είναι το { -brand-name-mozilla-vpn };
 vpn-shared-platfrom-why-choose = Γιατί να επιλέξω το { -brand-name-mozilla-vpn };
-vpn-shared-platform-what-youll-get = Το { -brand-name-mozilla-vpn } προσφέρει τα εξής:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Μάθετε περισσότερα για τα VPN

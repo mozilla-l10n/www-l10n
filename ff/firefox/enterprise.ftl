@@ -7,8 +7,6 @@
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Heɓ { -brand-name-firefox } ngam gollorde maa  { -brand-name-esr } e Rapid release
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Tiimtorde
-firefox-enterprise-downloads = Gaawte
 firefox-enterprise-get-firefox-for-your-enterprise = Heɓ { -brand-name-firefox } ngam gollorde maa
 firefox-enterprise-your-data-stays-your-business = Keɓe maa ngoni ngoƴa maa
 firefox-enterprise-deploy-when-and-how-you-want = Hollir nde njiɗɗaa e no njiɗirɗaa

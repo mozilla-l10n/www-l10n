@@ -16,12 +16,6 @@ firefox-all-need-help = Besonh d’ajuda ?
 firefox-all-choose-which-firefox = Causissètz quin { -brand-name-firefox-browser } volètz telecargar dins vòstra lenga
 firefox-all-learn-about-firefox = Ne saber mai suls navegadors { -brand-name-firefox }
 firefox-all-product-send-link = Enviar un ligam de telecargar al vòstre telefòn
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Telecargar { $product_label } per { $platform } en { $locale }
-firefox-all-which-version = Quala version volètz ?
 firefox-all-select-your-preferred-language = Causissètz vòstra lenga preferida
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }

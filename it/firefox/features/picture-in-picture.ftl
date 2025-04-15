@@ -10,11 +10,8 @@ features-pip-firefox-picture-in-picture-get-more = Picture-in-Picture in { -bran
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Vuoi fare una cosa mentre ne guardi un’altra? Utilizza Picture-in-Picture in { -brand-name-firefox }.
 features-pip-picture-in-picture = Picture-in-Picture
-features-pip-new-feature-firefox-multi-picture = Nuova funzione: { -brand-name-firefox } Picture-in-Picture con finestre multiple
-features-pip-cool-feature-picture-in-picture = Nuova funzione: Picture-in-Picture
 features-pip-get-more-done-with-pop-out-videos = Aumenta la tua produttività grazie ai video sempre in primo piano
 features-pip-got-things-to-do-do-both-with = Vuoi fare una cosa mentre ne guardi un’altra? Utilizza Picture-in-Picture in { -brand-name-firefox }: consente di staccare il video dalla pagina web in cui si trova e di “appuntarlo” allo schermo, così puoi continuare a guardarlo anche mentre sei su altre pagine, schede e app.
-features-pip-play-the-video = Riproduci il video
 features-pip-heres-how-it-works = Ecco come funziona:
 features-pip-play-any-video-in-your-updated = <strong>Riproduci qualsiasi video</strong> nel tuo browser { -brand-name-firefox }, come questo.
 features-pip-play-any-video-in-your = <strong>Riproduci qualsiasi video</strong> in { -brand-name-firefox }, come questo in cui sono protagonisti dei cuccioli di panda rosso.

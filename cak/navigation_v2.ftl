@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = Taqasaj { -brand-name-firefox }
 navigation-v2-menu = K'utsamaj
 
 ## Firefox menu
@@ -64,9 +63,5 @@ navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-editio
 navigation-v2-get-the-firefox-browser-built = Tak'ulu' ri rokik'amaya'l { -brand-name-firefox } tz'ukun kichin b'anonela'.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = Tanik'oj ri kochoch tob'äl kichin ajk'amaya'l b'anonel.
-navigation-v2-firefox-reality = { -brand-name-firefox-reality }
-navigation-v2-explore-the-web-with-the = Katok pa ajk'amaya'l rik'in ri rokik'amaya'l { -brand-name-firefox } richin ri qitzij k'aslemalil.
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Tasipaj ach'ab'äl richin chi ri ruk'aslema ajk'amaya'l ri chwaq' kab'ij konojel ke'ak'axan.
-navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-learn-more-about-the-new = Tawetamaj pa ruwi' ri k'ak'a' ch'ab'äl ko'öl rupalem, achi'el jun tz'ukun wachinäq.

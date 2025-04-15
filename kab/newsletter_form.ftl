@@ -17,7 +17,6 @@ newsletter-form-im-okay-with-mozilla = Qebleɣ akken { -brand-name-mozilla } ad 
 newsletter-form-if-you-havent-previously = Ma yella ur tsentmeḍ ara yakan ajerred ɣer yizen n telɣutyerzan { -brand-name-mozilla }, ahat yessefk tura. Ma ulac aɣilif, senqed tirawt-inek neɣ imzizdig-inek n yispamen akken ad twaliḍ imayl i ak-d-nuzen.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Kečč
 newsletter-form-get-firefox-tips = Awi-d { -brand-name-firefox } timaheltin, tixbula, isallen d wayen-nniḍen
-newsletter-form-keep-up-with = Qqim deg umaynut <br> akked { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Amaynut seg { -brand-name-mozilla }
 newsletter-form-available-languages = Tutlayin yellan
 newsletter-form-select-country = Fren tamurt

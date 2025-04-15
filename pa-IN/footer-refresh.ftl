@@ -13,7 +13,6 @@ footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } ਨੂੰ ਫ਼ਾਲੋ ਕਰੋ
-footer-refresh-mastodon = ਮਾਸਟੌਡਨ
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -28,7 +27,6 @@ footer-refresh-support = ਸਹਿਯੋਗ
 footer-refresh-product-help = ਉਤਪਾਦ ਮਦਦ
 footer-refresh-file-a-bug = ਬੱਗ ਦੀ ਜਾਣਕਾਰੀ ਦਿਓ
 footer-refresh-localize-mozilla = { -brand-name-mozilla } ਦਾ ਅਨੁਵਾਦ ਕਰੋ
-footer-refresh-brand-standards = ਬਰੈਂਡ ਮਿਆਰ
 footer-refresh-developers = ਡਿਵੈਲਪਰ
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

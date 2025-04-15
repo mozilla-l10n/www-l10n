@@ -14,7 +14,6 @@ mobile-focus-simply-private-mobile = Gizli mobil gezinti
 mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus }, otomatik izlenme koruması özelliğine sahip, gizlilik yanlısı bir tarayıcı. { -brand-name-focus } ile sayfalarınız daha hızlı yüklenir ve verileriniz gizli kalır.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } hem { -brand-name-ios } hem de { -brand-name-android } cihazlara yüklenebilir.
 mobile-focus-get-firefox-focus = { -brand-name-firefox-focus }’u indirin
-mobile-focus-send-a-download-link-to-your = İndirme bağlantısını telefonunuza gönderin.
 mobile-focus-scan-the-qr-code-to-get-started = Başlamak için QR kodunu tarayın
 mobile-focus-scan-alt-text = { -brand-name-firefox-focus } uygulamasını indirmek için QR kodunu okutun
 mobile-focus-delete-your-history = Geçmişinizi silin

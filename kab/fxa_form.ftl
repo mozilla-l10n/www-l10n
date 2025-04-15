@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = Ma tkemmleḍ, ad tqebleḍ <a href="{ $url1 }">Tiwtilin-nneɣ n useqdec</a> akked <a href="{ $url2 }">Tsertit-nneɣ tabaḍnit</a>.
 fxa-form-email-address = Tansa imayl
 fxa-form-continue = Kemmel
-fxa-form-create-account = Rnu amiḍan
-fxa-form-get-the-app = Awi asnas

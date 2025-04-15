@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = Hent { -brand-name-firefox } på dansk (da) eller ét af mere end 90 andre sprog
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Alle fortjener at have adgang til internettet - dit sprog må aldrig være en hindring. Det er grunden til, at vi - med hjælp fra dedikerede frivillige fra hele verden - sørger for, at { -brand-name-firefox } findes på mere end 90 forskellige sprog.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = Scan QR-koden for at få <em>{ $product_name }</em>
 firefox-all-choose-browser = Vælg en browser for at fortsætte
 firefox-all-choose-platform = Vælg en platform for at fortsætte
 firefox-all-choose-language = Vælg et sprog for at fortsætte
@@ -69,14 +66,7 @@ firefox-all-product-send-link = Send et link til at hente Firefox på din telefo
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Vælg et 32-bit-installationsprogram til computere med 32-bit-processorer — eller til ældre, mindre kraftfulde computere. <a href="{ $url }">Hvis du ikke er sikker på</a> , om du skal vælge et 64-bit- eller et 32-bit-installationsprogram, anbefaler vi, at du vælger 32-bit.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Hent { $product_label } til { $platform } på { $locale }
 firefox-all-msi-installers = MSI-installationsprogrammer
-firefox-all-which-version = Hvilken version vil du have?
-firefox-all-select-your-preferred-installer = Vælg dit foretrukne installationsprogram
 firefox-all-select-your-preferred-language = Vælg dit foretrukne sprog
 firefox-all-learn-about-installers = Læs om installationsprogrammer
 firefox-all-product-firefox = { -brand-name-firefox }

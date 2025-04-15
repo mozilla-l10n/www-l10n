@@ -30,10 +30,6 @@ cookie-settings-category-preference-what-are-subheading = Tercih çerezleri nedi
 cookie-settings-category-analytics-heading = Analitik
 cookie-settings-category-analytics-what-are-subheading = Analitik çerezleri nedir?
 
-## Consent section
-
-cookie-settings-your-consent-heading = İzniniz
-
 ## Privacy section
 
 cookie-settings-privacy-heading = Gizlilik bildirimimiz

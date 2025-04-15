@@ -23,23 +23,6 @@ firefox-desktop-download-download-options = አማራጮችን እና ሌሎች 
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } ድጋፍ
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = በመስመር ላይ የሚያደርጉትን ያድርጉ።<br> { -brand-name-firefox-browser } <strong>አያይም</strong>።
-firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } ከሌሎች አሳሾች ጋር እንዴት እንደሚወዳደር
-firefox-desktop-download-get-all-the-speed = ከማንኛውም የግላዊነት ወረራ ውጭ ሁሉንም ፍጥነት እና መሳሪያዎችን ያግኙ። { -brand-name-firefox-browser } ስለእርስዎ በጣም ትንሽ ውሂብ ይሰበስባል፣ ለማውረድ የኢሜይል አድራሻዎን እንኳን አንፈልግም። ይህ የሆነበት ምክንያት እንደሌሎች አሳሾች እርስዎን በድር ላይ በመከታተል ረገድ ምንም አይነት የገንዘብ ድርሻ የለንም።
-firefox-desktop-download-how-we-compare = ከሌሎች አሳሾች ጋር እንዴት እናወዳድር
-firefox-desktop-download-compare-firefox-to = { -brand-name-firefox }ን ከ፡- አወዳድር፡
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = አዎ
-firefox-desktop-download-no = አይ
-firefox-desktop-download-blocks-third-party = የሶስተኛ ወገን መከታተያ ኩኪዎችን ያግዳል
-firefox-desktop-download-blocks-third-party-default = በነባሪ የሶስተኛ ወገን መከታተያ ኩኪዎችን ያግዳል
-firefox-desktop-download-autoplay-blocking = ራስ-አጫዋችን ማገድ
-firefox-desktop-download-blocks-social-trackers = ማህበራዊ ተከታታይዎችን ያግዳል
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = የስርዓተ ክወና መኖር
-firefox-desktop-download-in-browser-screenshot = የአሳሽ-ውስጥ ቅጽበታዊ ገጽ እይታ መሣሪያ
-firefox-desktop-download-primary-password = ዋና የይለፍ ቃል
 firefox-desktop-download-we-block-the-ad = እኛ የማስታወቂያ መከታተያዎችን እናግዳለን። እርስዎ በይነመረቡን በፍጥነት ያስሱ።
 firefox-desktop-download-ads-are-distracting = ማስታወቂያዎች ትኩረት የሚከፋፍሉ እና ድረ-ገጾች በዝግታ እንዲጫኑ ሲያደርጉ ተከታታዮቻቸው ደሞ በመስመር ላይ የሚያደርጉትን እያንዳንዱን እንቅስቃሴ ይመለከታሉ። { -brand-name-firefox-browser } ብዙ መከታተያዎችን በራስ ሰር ያግዳል፣ ስለዚህ የደህንነት ቅንብሮችዎ ውስጥ መቆፈር አያስፈልግም።
 firefox-desktop-download-see-your-report = የጥበቃ ሪፖርትዎን ይመልከቱ
@@ -157,18 +140,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = ለመጫን እየሞከሩት ያለው መተግበሪያ በ{ -brand-name-microsoft } የተረጋገጠ መተግበሪያ አለመሆኑን የሚገልጽ ማሳወቂያ ካዩ፣ “ለማንኛውም ጫን” ን ጠቅ ያድርጉ ወይም <a { $attrs }>የመተግበሪያ ምክር ቅንብሮችን ይቀይሩ</a >።
 firefox-desktop-download-visit-support-for-more = ለተጨማሪ ዝርዝሮች ድጋፍን ይጎብኙ
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } በ{ -brand-name-windows } { -brand-name-xp } ወይም { -brand-name-vista }ላይ <a href="{ $url }">ከአሁን በኋላ የደህንነት ማሻሻያዎችን አያቀርብም</a>፣ ነገር ግን አሁንም { -brand-name-firefox }ን መጠቀም ይችላሉ።
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = ማውረድዎ በራስ-ሰር መጀመር አለበት። አልሰራም? <a id="{ $id }" href="{ $fallback_url }">እንደገና ለማውረድ ይሞክሩ።</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ከአሳሽም በላይ ነው።
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = ማውረድዎ ታጉሏል። ግን ሁሉም ነገር አልጠፋም።
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = { -brand-name-firefox }ን ለመጫን እባክዎ <a href="{ $url }">እነዚህን መመሪያዎች</a> ይከተሉ።
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = የእርስዎ ስርዓት ለ{ -brand-name-firefox } መስፈርቶችን ላያሟላ ይችላል፣ነገር ግን ከ<a href="{ $url }">እነዚህ ስሪቶች</a> አንዱን መሞከር ይችላሉ።

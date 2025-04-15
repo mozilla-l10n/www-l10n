@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = <strong>Введіть адресу е-пошти
 fxa-form-by-proceeding = Продовжуючи, ви погоджуєтеся з <a href="{ $url1 }">Умовами надання послуг</a> і <a href="{ $url2 }">Положенням про приватність</a>.
 fxa-form-email-address = Адреса е-пошти
 fxa-form-continue = Продовжити
-fxa-form-create-account = Створити обліковий запис
-fxa-form-get-the-app = Отримати програму

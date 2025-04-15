@@ -33,11 +33,6 @@ cookie-settings-category-analytics-what-are-subheading = Kaj so analitični piš
 cookie-settings-category-analytics-what-are-desc = Te tehnologije zbirajo podatke o tem, kako ljudje uporabljajo spletna mesta, na primer katere strani obiščejo, katere povezave kliknejo in s katerega spletnega mesta so prišli.
 cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } s pomočjo analitičnih podatkov razume, kako uporabniki uporabljajo naša spletna mesta, da bi jih lahko izboljšali in odpravili morebitne težave. Podatke iz piškotkov, podatke o napravah in naslove IP lahko uporabimo tudi za razumevanje, kako uporabniki uporabljajo naše izdelke, storitve, komunikacije, spletne strani, spletne akcije, naprave in druge platforme. Analitične podatke bomo zbirali in analitične piškotke nalagali samo z vašim soglasjem.
 
-## Consent section
-
-cookie-settings-your-consent-heading = Vaše soglasje
-cookie-settings-your-consent-desc = Soglasje za piškotke bo veljalo za naslednja spletna mesta { -brand-name-mozilla(sklon: "rodilnik") }, ki vsa sledijo enakim strogim standardom varstva podatkov. Upoštevajte, da se lahko ta seznam občasno spremeni.
-
 ## Privacy section
 
 cookie-settings-privacy-heading = Naše obvestilo o zasebnosti

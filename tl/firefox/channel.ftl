@@ -15,7 +15,6 @@ firefox-channel-file-a-bug-now = Mag file ng isang bug ngayon
 firefox-channel-tips-for-filing-a-bug = Mga tip para sa pag-file ng isang bug
 firefox-channel-try-new-features-in-a-pre = Subukan ang mga bagong features sa Pre-release { -brand-name-android } Browser | { -brand-name-firefox }
 firefox-channel-download-and-test-future = I-download at subukan ang hinaharap na labas ng { -brand-name-firefox } para sa mga desktop, { -brand-name-android } at { -brand-name-ios }.
-firefox-channel-download-and-test-the-latest-android = Download and test the latest { -brand-name-firefox } for { -brand-name-android } features with { -brand-name-aurora }, { -brand-name-beta } and { -brand-name-nightly } builds.
 firefox-channel-try-the-latest-android-features = Subukan ang pinakabagong { -brand-name-android } features, bago pa i-release sa buong mundo.
 firefox-channel-all-languages-and-platforms = Lahat ng mga Wika at mga Platform
 firefox-channel-all-languages-and-builds = Lahat ng mga Wika at Build

@@ -8,25 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Cael { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Ymunwch â'r Rhestr Aros
-vpn-shared-available-countries-v6 = Ar hyn o bryd rydym yn cynnig { -brand-name-mozilla-vpn } yn Awstria, Gwlad Belg, Bwlgaria, Canada, Croatia, Cyprus, y Weriniaeth Tsiec, Denmarc, Estonia, y Ffindir, Ffrainc, yr Almaen, Hwngari, Iwerddon, yr Eidal, Latfia, Lithwania, Lwcsembwrg, Malaysia, Malta, yr Iseldiroedd, Seland Newydd, Gwlad Pwyl, Portiwgal, Romania, Singapôr, Slofenia, Slofacia, Sbaen, Sweden, y Swistir, y DU, a'r Unol Daleithiau.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Gwarant arian-yn-ôl 30 diwrnod
-vpn-shared-features-encrypt = Amgryptio ar lefel dyfais
-vpn-shared-features-bandwidth = Dim cyfyngiadau lled band
-vpn-shared-features-activity = Dim cofnodi'ch gweithgaredd rhwydwaith
-vpn-shared-features-activity-logs = Dim cofnodi gweithgaredd ar-lein nawr na byth
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = Mynediad i weinyddion mewn { $countries }+ gwlad
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = Diogelwch hyd at { $devices } o ddyfeisiau
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = Gweinyddion cryf mewn { $countries }+ gwlad
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = Cysylltwch hyd at { $devices } dyfais
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = Gwarant arian-yn-ôl 30 diwrnod
 vpn-shared-privacy-notice = Hysbysiad Preifatrwydd
@@ -65,12 +48,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = Nid yw { -brand-name-mozilla-vpn }
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = Cychwyn arni
 vpn-shared-platform-cta-button = Gweld y prisio a'r argaeledd
-vpn-shared-platform-privacy-promise = Eich preifatrwydd yw ein haddewid
 vpn-shared-platform-what-is = Beth yw { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Pam { -brand-name-mozilla-vpn }?
-vpn-shared-platform-what-youll-get = Beth gewch chi gyda { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Dysgwch am VPNs

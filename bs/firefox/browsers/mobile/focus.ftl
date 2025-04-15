@@ -14,7 +14,6 @@ mobile-focus-simply-private-mobile = Jednostavno privatno mobilno pretraživanje
 mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } je vaš namjenski privatni pretraživač sa automatskom zaštitom od praćenja. Sa { -brand-name-focus }, vaše stranice se brže učitavaju i vaši podaci ostaju privatni.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } je dostupan i za { -brand-name-ios } i { -brand-name-android } uređaje.
 mobile-focus-get-firefox-focus = Preuzmite { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = Pošalji link za preuzimanje na svoj mobitel.
 mobile-focus-scan-the-qr-code-to-get-started = Skenirajte QR kod da započnete
 mobile-focus-scan-alt-text = Skenirajte QR kod da preuzmete { -brand-name-firefox-focus }
 mobile-focus-delete-your-history = Izbrišite svoju historiju

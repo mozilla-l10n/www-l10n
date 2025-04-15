@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = Merrni { -brand-name-firefox }-in për ndërmarrjen tuaj, përmes { -brand-name-esr } dhe Rapid Release
 firefox-enterprise-get-unmatched-data-protection = Merrni mbrojtje të pashoqe të dhënash dhe shpeshti hedhjesh në qarkullim që ju përshtatet, përmes { -brand-name-firefox }-it për ndërmarrje. Shkarkoni { -brand-name-esr } dhe Rapid Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Përmbledhje
-firefox-enterprise-downloads = Shkarkime
 firefox-enterprise-get-firefox-for-your-enterprise = Merrni { -brand-name-firefox }-in për ndërmarrjen tuaj
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

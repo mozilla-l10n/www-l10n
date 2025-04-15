@@ -8,25 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Installar { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = T'inscriva en la glista da spetga
-vpn-shared-available-countries-v6 = Nus purschain actualmain { -brand-name-mozilla-vpn } en: Austria, Belgia, Bulgaria, Canada, Croazia, Cipra, Republica Tscheca, Danemarc, Estonia, Finlanda, Frantscha, Germania, Ungaria, Irlanda, Italia, Lettonia, Lituania, Luxemburg, Malaisia, Malta, Pajais Bass, Nova Zelanda, Pologna, Portugal, Rumenia, Singapur, Slovenia, Slovachia, Spagna, Svezia, Svizra, Gronda Britannia ed USA.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Garanzia da restituziun da 30 dis
-vpn-shared-features-encrypt = Criptadi a nivel da l'apparat
-vpn-shared-features-bandwidth = Nagina restricziun dal volumen da datas transferibel
-vpn-shared-features-activity = Naginas registraziuns da tias activitads en la rait
-vpn-shared-features-activity-logs = Naginas registraziuns da tias activitads online – mai
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = Access a servers en passa { $countries } pajais
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = Protecziun per maximalmain { $devices } apparats
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = Servers potents en passa { $countries } pajais
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = Connectescha maximalmain { $devices } apparats
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = Garanzia da restituziun da 30 dis
 vpn-shared-privacy-notice = Infurmaziuns davart la protecziun da datas
@@ -65,12 +48,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } n’è
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = Introducziun
 vpn-shared-platform-cta-button = Dà in'egliada als pretschs & a la disponibilitad
-vpn-shared-platform-privacy-promise = Tia sfera privata è nossa empermischun
 vpn-shared-platform-what-is = Tge è { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Pertge { -brand-name-mozilla-vpn }?
-vpn-shared-platform-what-youll-get = Tge che ti survegns cun { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Ulteriuras infurmaziuns davart VPNs

@@ -14,8 +14,6 @@ bookmark-manager-organize-your-bookmarks-with = Organisescha tes segnapaginas cu
 bookmark-manager-bookmarks-are-links-you-save = Segnapaginas èn colliaziuns che ti memoriseschas en tes navigatur per che ti possias turnar a moda svelta e simpla en tes lieus preferids dal web. { -brand-name-firefox } includa ina administraziun pratica da segnapaginas che ta pussibilitescha dad organisar, tschertgar, actualisar e <a { $sync }>sincronisar tut tias colliaziuns memorisadas sin tut tes apparats</a>.
 bookmark-manager-organize-your-boomarks-into = Organisescha tes segnapaginas en ordinaturs retschertgabels
 bookmark-manager-collect-your-bookmarks-in-folders = Rimna tes segnapaginas en ordinaturs ed als attribuescha etichettas cun ulteriurs detagls. Ti pos era zavrar tes segnapaginas per chattar svelt quels che ti dovras.
-# Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-bookmark-manager = Maletg da la fanestra da l'administraziun da segnapaginas en { -brand-name-firefox }.
 bookmark-manager-easily-import-bookmarks = Importescha segnapaginas senza schaschins
 bookmark-manager-you-can-import-your-bookmarks = Ti pos importar tes segnapaginas da Chrome, Safari u Edge cun agid da l'assistent d'importaziun da { -brand-name-firefox }. Clicca simplamain sin «Segnapaginas» > «Administrar ils segnapaginas» e tscherna lura «Import e copias da segirezza.»
 # Used as an accessible text alternative for an image

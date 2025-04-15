@@ -25,9 +25,6 @@ firefox-new-need-help = ຕ້ອງການຄວາມຊ່ວຍເຫລ�
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ບໍ່ມີການອັບເດດຄວາມປອດໄພອີກຕໍ່ໄປ</a> ຢູ່ໃນ { -brand-name-windows } { -brand-name-xp } ຫຼື { -brand-name-vista }, ແຕ່ທ່ານຍັງສາມາດໃຊ້ { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = ການດາວໂຫຼດຂອງທ່ານຄວນຈະເລີ່ມຕົ້ນໂດຍອັດຕະໂນມັດ. ບໍ່ໄດ້ຜົນບໍ? <a id="{ $id }" href="{ $fallback_url }">ລອງດາວໂຫລດອີກຄັ້ງ</a>.
@@ -36,9 +33,6 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ເປັ�
 firefox-new-download-interrupted = ການດາວໂຫຼດຂອງທ່ານຖືກຂັດຈັງຫວະ. ແຕ່ທັງຫມົດບໍ່ໄດ້ສູນເສຍ.
 firefox-new-download-almost-there = ໃກ້ແລ້ວ!
 firefox-new-download-select-linux = ເລືອກຕົວເລືອກດາວໂຫຼດຂ້າງລຸ່ມນີ້
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = ກະລຸນາເຮັດຕາມ<a href="{ $url }">ຄຳແນະນຳນີ້</a>ເພື່ອຕິດຕັ້ງ { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = ລະບົບຂອງທ່ານອາດຈະບໍ່ຕອບສະໜອງໄດ້ຂໍ້ກຳນົດຂອງ { -brand-name-firefox }, ແຕ່ທ່ານສາມາດລອງໃຊ້ <a href="{ $url }">ເວີຊັນເຫຼົ່ານີ້</a>.

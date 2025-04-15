@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = Слаћемо вам само и
 newsletter-form-if-you-havent-previously = Мораћете да потврдите пријаву на један од { -brand-name-mozilla } билтена ако већ нисте. Проверите вашу сандуче е-поште или филтер за непожељну пошту.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + ти
 newsletter-form-get-firefox-tips = Примајте савете, трикове, новости и још много тога за { -brand-name-firefox }
-newsletter-form-keep-up-with = Будите у току<br> свега везаног за { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Пријавите се за месечни { -brand-name-mozilla } билтен
 newsletter-form-available-languages = Доступни језици
 newsletter-form-select-country = Одаберите државу

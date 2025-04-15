@@ -5,4 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/
 
-firefox-more-a-guide-to = Ръководство за по-безопасни регистрации и пароли

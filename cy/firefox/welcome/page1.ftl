@@ -10,7 +10,6 @@ welcome-page1-more-than-a-browser-mozilla = Yn fwy na porwr - { -brand-name-mozi
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Cymerwch y cam nesaf i ddiogelu eich preifatrwydd ar-lein gyda theulu { -brand-name-firefox } o gynnyrch.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Cadwch ar y blaen rhag hacwyr. Gwiriwch am doriadau data gyda { -brand-name-mozilla-monitor }.
-welcome-page1-youre-on-track-to-stay-protected = Rydych ar y llwybr cywir i gadw'n ddiogel
 welcome-page1-youve-got-the-web-browser = Mae gennych y porwr gwe sy'n diogelu eich preifatrwydd - nawr mae'n bryd gadw llygad allan am hacwyr.
 welcome-page1-check-your-breach-report = Darllen eich Adroddiad Tor-data
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

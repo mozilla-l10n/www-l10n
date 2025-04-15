@@ -5,9 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/resource-center
 
-vpn-resource-center-view-all = Skoða allt
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
-vpn-resource-center-get-mozilla-vpn = Fáðu { -brand-name-mozilla-vpn }
 vpn-resource-center-was-this-article = Var þessi grein hjálpleg?
 vpn-resource-center-article-helpful = Greinin var gagnleg
 vpn-resource-center-article-not-helpful = Greinin var ekki gagnleg

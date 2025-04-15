@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = এগিয়ে যাওয়ার মাধ্যমে, আপনি <a href="{ $url1 }"> পরিষেবার শর্তাবলী </a> এবং <a href="{ $url2 }"> গোপনীয়তা বিজ্ঞপ্তি </a> তে সম্মত হন।
 fxa-form-email-address = ইমেইল ঠিকানা
 fxa-form-continue = চালিয়ে যান
-fxa-form-create-account = অ্যাকাউন্ট তৈরি করুন
-fxa-form-get-the-app = অ্যাপটি ডাউনলোড করুন

@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = Tęsdami, išreiškiate sutikimą su <a href="{ $url1 }">Paslaugos teikimo nuostatais</a> ir <a href="{ $url2 }">Privatumo pranešimu</a>.
 fxa-form-email-address = El. pašto adresas
 fxa-form-continue = Tęsti
-fxa-form-create-account = Susikurkite paskyrą
-fxa-form-get-the-app = Parsisiųskite programą

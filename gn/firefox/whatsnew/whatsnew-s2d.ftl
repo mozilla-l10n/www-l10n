@@ -6,11 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/whatsnew/
 
 whatsnew-s2d-download-firefox-for-android = Emboguejy { -brand-name-firefox } { -brand-name-android } ha { -brand-name-ios } peg̃uarã
-whatsnew-s2d-want-privacy-on-every-device = ¿Nde reko ñemise opaite nde mba’e’okápe?
-# "You got it" here is a casual answer to the previous question, "Want privacy on every device?"
-whatsnew-s2d-you-got-it-get-firefox-for = Eiporu { -brand-name-firefox } pumbyrýpe g̃uarã, ¡ha oĩma!
-# Line break is for visual formatting only
-whatsnew-s2d-send-firefox-to-your-phone = Emondo { -brand-name-firefox } ne pumbyrýpe<br> ha eiporu ñanduti ejaposeháicha.
 whatsnew-s2d-download-firefox-for-your = Emboguejy { -brand-name-firefox } ne pumbyry ha’evéva ha tablétape.
 # An accessible label for a QR code image
 whatsnew-s2d-qr-code-alt = Emoha’ãnga ko QR ayvu

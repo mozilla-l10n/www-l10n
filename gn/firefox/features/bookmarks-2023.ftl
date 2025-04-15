@@ -14,8 +14,6 @@ bookmark-manager-organize-your-bookmarks-with = Emohenda nde rechaukaha ñongatu
 bookmark-manager-bookmarks-are-links-you-save = Umi techaukaha ha’e juajuha eñongatúva nde kundahárape ikatu hag̃ua -eguevi pya’e ha hasy’ỹre tenda ehayhuvéva ñandutípe. { -brand-name-firefox } ogueroike techaukaha ñangarekoha ikatu hag̃ua emohenda, eheka, embohekopyahua ha <a { $sync }>embojuehe opaite juajuha ñongatupyre ne mba’e’okakuérape</a>.
 bookmark-manager-organize-your-boomarks-into = Emohenda nde rechaukaha ñongatuha ehekakuaahápe
 bookmark-manager-collect-your-bookmarks-in-folders = Embyaty nde rechaukaha marandurendápe ha embohéra eikuaaporã hag̃ua. Avei emohenda nde rechaukaha ejuhu pya’e rekávo eikotevéva.
-# Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-bookmark-manager = Techaukaha rovetã ñangarekoha ra’ãnga { -brand-name-firefox } ndive.
 bookmark-manager-easily-import-bookmarks = Techaukaha jegueru hasy’ỹre
 bookmark-manager-you-can-import-your-bookmarks = Techaukaha erukuaa Chrome, Safari térã Edge guive emba’egueru pytyvõha { -brand-name-firefox } ndive. Eikutu Techaukaha > Eñangareko techaukaháre ha eiporavo “Mba’egueru ha ykeko”
 # Used as an accessible text alternative for an image

@@ -14,8 +14,6 @@ bookmark-manager-organize-your-bookmarks-with = Organiser bokmerka dine med mapp
 bookmark-manager-bookmarks-are-links-you-save = Bokmerke er lenker du lagrar i nettlesaren din slik at du raskt og enkelt kan kome tilbake til favorittnettstadane dine på nettet. { -brand-name-firefox } inneheld ein praktisk bokmerkehandsamar slik at du kan organisere, søke, oppdatere og <a { $sync }>synkronisere alle lagra lenker på alle einingane dine</a>.
 bookmark-manager-organize-your-boomarks-into = Organiser bokmerka dine i søkbare mapper
 bookmark-manager-collect-your-bookmarks-in-folders = Samle bokmerka dine i mapper og merk dei med meir informasjon. Du kan sortere bokmerka dine for å raskt finne dei du treng.
-# Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-bookmark-manager = Bilde av bokmerkehandsamings-vindauget i { -brand-name-firefox }.
 bookmark-manager-easily-import-bookmarks = Importer enkelt bokmerke
 bookmark-manager-you-can-import-your-bookmarks = Du kan importere bokmerka dine frå Chrome, Safari eller Edge med importgaiden til { -brand-name-firefox }. Klikk på Bokmerke > Handsam bokmerke og vel «Importer og sikkerheitskopier».
 # Used as an accessible text alternative for an image

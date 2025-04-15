@@ -8,25 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = «{ -brand-name-mozilla-vpn }»-ро ба даст оред
 vpn-shared-waitlist-link = Ба рӯйхати интизорӣ ҳамроҳ шавед
-vpn-shared-available-countries-v6 = Мо дар айни замон «{ -brand-name-mozilla-vpn }»-ро дар Австрия, Белгия, Булғористон, Канада, Хорватия, Кипр, Ҷумҳурии Чех, Дания, Эстония, Финландия, Фаронса, Олмон, Маҷористон, Ирландия, Италия, Латвия, Литва, Люксембург, Малайзия, Малта, Нидерландия, Зеландияи Нав, Полша, Португалия, Руминия, Сингапур, Словения, Словакия, Испания, Шветсия, Швейтсария, Британияи Кабир ва ИМА пешниҳод менамоем.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Кафолати 30-рӯза барои бозпардохти маблағи шумо
-vpn-shared-features-encrypt = Рамзгузорӣ дар сатҳи дастгоҳ
-vpn-shared-features-bandwidth = Бе ягон маҳдудият барои паҳнои пайвастшавӣ
-vpn-shared-features-activity = Фаъолияти интернетии шумо дар шабака сабт карда намешавад
-vpn-shared-features-activity-logs = Ягон фаъолияти интернетӣ ҳеҷ вақт сабт карда намешавад
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = Дастрасӣ ба серверҳо дар { $countries }+ кишвар
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = Муҳофизат барои то { $devices } дастгоҳ
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = Серверҳои боқувват дар { $countries }+ кишвар
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = Имкони пайваст то { $devices } дастгоҳ
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = Кафолати 30-рӯза барои бозпардохти маблағи шумо
 vpn-shared-privacy-notice = Огоҳномаи махфият
@@ -65,12 +48,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = «{ -brand-name-mozilla-vpn }» ҳ
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = Биёед оғоз намоем
 vpn-shared-platform-cta-button = Дидани нархнома ва дастрасӣ
-vpn-shared-platform-privacy-promise = Ваъдаи мо — махфияти шумо
 vpn-shared-platform-what-is = «{ -brand-name-mozilla-vpn }» чӣ аст?
 vpn-shared-platfrom-why-choose = Чаро «{ -brand-name-mozilla-vpn }»?
-vpn-shared-platform-what-youll-get = Шумо чиро бо «{ -brand-name-mozilla-vpn }» ба даст меоред:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Маълумоти бештар дар бораи имконоти «VPN»

@@ -23,7 +23,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">የይለፍ ቃል አ
 firefox-accounts-get-email-alerts = መረጃዎ በሚታወቅ የውሂብ ጥሰት ውስጥ ሲታይ የኢሜይል ማንቂያዎችን ያግኙ
 firefox-accounts-protect-your-identity = ደህንነቱ በተጠበቀ የስልክ እና የኢሜል ጭንብል ማንነትዎን ይጠብቁ
 firefox-accounts-keep-your-passwords = የይለፍ ቃልዎን ደህንነቱ የተጠበቀ እና ተንቀሳቃሽ ያድርጉ።
-firefox-accounts-get-a-lookout-for = ከመረጃ መጭበርበር ይጠንቀቁ!
 firefox-accounts-travel-the-internet = በማንኛውም መገልገያ መሳሪያ ኢንተርኔት ላይ በጥንቃቄ ይጓዙ።
 firefox-accounts-encrypt-your = የአውታረ መረብ እንቅስቃሴዎን ያመስጥሩ እና የአውታር አድራሻዎን ይደብቁ
 firefox-accounts-we-never = የእርስዎን የአውታረ መረብ ውሂብ አንመዘግብም፣ አንከታተልም ወይም አናጋራም
@@ -35,6 +34,5 @@ firefox-accounts-get-it-all-on-every = በማንኛውም መገልገያ መሳ
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

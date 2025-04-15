@@ -26,7 +26,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Tallentaa ja synkronoid
 firefox-accounts-get-email-alerts = Saada sähköposti-ilmoituksia, kun tietojasi paljastuu tunnetussa tietovuodossa
 firefox-accounts-protect-your-identity = Suojata henkilöyttäsi asettamalla puhelinnumerollesi ja sähköpostiosoitteellesi maski
 firefox-accounts-keep-your-passwords = Pidä salasanat suojattuna ja siirrettävissä.
-firefox-accounts-get-a-lookout-for = Ota tietovuodot tarkkailuun.
 firefox-accounts-travel-the-internet = Matkaa internetissä suojattuna kaikilla laitteillasi.
 firefox-accounts-encrypt-your = Salata verkkotoimintasi ja piilottaa IP-osoitteesi
 firefox-accounts-we-never = Emme koskaan kirjaa, seuraa tai jaa verkossa välitettyä dataa
@@ -38,6 +37,5 @@ firefox-accounts-get-it-all-on-every = Hallitse kaikkea jokaisella laitteella, i
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

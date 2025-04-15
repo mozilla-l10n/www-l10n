@@ -5,16 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
-# page title
-features-fingerprinting-what-is-fingerprinting-title = Que es le detectiones de dactylogrammas e perque tu debe blocar los
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Dactylogrammatores es un typo de traciamento online plus invasive que le ordinari traciamento basate sur cookie: pro isto { -brand-name-firefox-browser } lo bloca.
 features-fingerprinting-fingerprint-blocking = Blocada de dactylogrammas
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } bloca le dactylogrammatores
-features-fingerprinting-ditch-the-sticky = Abandona le enoiose avisos publicitari que seque tu movimentos con le blocatores de dactylogrammatores integrate del navigator { -brand-name-firefox }.
-# description for the header image
-features-fingerprinting-every-fingerprint = Cata dactilogramma es unic.
-features-fingerprinting-download-firefox = Discargar { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = Que es dactylogrammatores?
 features-fingerprinting-fingerprinting-is-a = Dactylogrammatores es un typo de traciamento online plus invasive que ordinari traciamento basate sur cookie. Un dactylogramma digital es create quando un compania face un unic profilo de te in base al hardware, software, additivos e mesmo preferentias de tu computator. Tu parametros como le schermo que tu usa, le typos de character installate sur tu computator e mesmo tu selection de un navigator del Web pote tote esser usate pro crear un dactylogramma.
 features-fingerprinting-if-you-have = Si tu ha un portabile, PC o smartphono, communmente usate, il pote esser plus ardue identificar univocamente tu dispositivo per le dactylogrammatores. Totevia, plus es unic le additivos, typos de character e parametros que tu ha, plus facile essera probabile identificar te. Companias pote usar iste specific combination de informationes pro crear tu dactylogramma. Per isto { -brand-name-firefox } bloca note dactylogrammatores, proque tu pote ancora usar tu favorite extensiones, themas e personalisationes sin esser sequite per avisos publicitari.
@@ -35,4 +29,3 @@ features-fingerprinting-the-latest-firefox = Le ultime navigator { -brand-name-f
 features-fingerprinting-and-its-not = E il non es un profunde parametro que tu debe excavar circum pro trovar. In le ultime navigator { -brand-name-firefox }, le blocada del dactylogrammas es le parametro standard, ordinari. Visita tu <a { $url_protections }>pannello protectiones del confidentialitate</a> pro vider como tu es traciate detra le scenas e como { -brand-name-firefox } lo impedi.
 # $url_download (string) - link to firefox/new
 features-fingerprinting-you-probably-wouldnt = Tu probabilemente non appreciarea que qualcuno tracia tu movimentos in le vita real. Il non ha ulle ration pro acceptar lo online. Si tu non ha tu jam { -brand-name-firefox }, <a { $url_download }>discarga lo e protege te mesme</a> del dactylogrammatores digital.
-features-fingerprinting-protect = Protege tu confidentialitate

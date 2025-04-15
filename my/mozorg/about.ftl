@@ -16,7 +16,6 @@ about-read-our-mission = ကျွန်ုပ်တို့ ရည်ရွယ
 about-our-mission-in-action = ကျွန်ုပ်တို့၏လုပ်ငန်းတာဝန်
 about-pioneers-of-the-open-web = ဝဘ်ရဲ့ ရှေ့ဆောင်လမ်းပြများ
 about-firefox-fast-for-good = မြန်ဆန်သောထုတ်ကုန်{ -brand-name-firefox }
-about-walking-our-privacy-talk = ကျွန်ုပ်တို့၏သီးသန့်ဆွေးနွေးခန်းကိုဝင်ရောက်ခြင်း
 about-corporation-foundation-not = ကော်ပိုရေးရှင်း။ ဖောင်ဒေးရှင်း။ အကျိုးအမြတ်အတွက်မဟုတ်။
 about-learn-about-the-mozilla-foundation = { -brand-name-mozilla-foundation } အကြောင်းလေ့လာပါ
 about-the-mozilla-manifesto = The { -brand-name-mozilla } Manifesto

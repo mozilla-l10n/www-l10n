@@ -26,7 +26,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Salvar e synchronisar c
 firefox-accounts-get-email-alerts = Recipe avisos email quando tu informationes appare in un note violation de datos
 firefox-accounts-protect-your-identity = Protege tu identitate con securitate disguisante telephono e email
 firefox-accounts-keep-your-passwords = Mantene tu contrasignos protegite e portabile.
-firefox-accounts-get-a-lookout-for = Recipe alertas pro violationes de tu datos.
 firefox-accounts-travel-the-internet = Viagia sur Internet con protection, sur omne apparato.
 firefox-accounts-encrypt-your = Crypta tu activitate in rete e cela tu adresse IP
 firefox-accounts-we-never = Nos non registra, tracia o comparti jammais tu datos de rete
@@ -38,6 +37,5 @@ firefox-accounts-get-it-all-on-every = Obtene tote isto sur cata apparato, sin s
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

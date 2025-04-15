@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Sut i rwystro hysbysebion blin gyda rhwystrydd hysbysebion
 features-adblocker-how-to-stop-seeing-too = Sut i beidio â gweld gormod o hysbysebion chadw cwmnïau rhag eich dilyn o gwmpas ar-lein. Canllaw rhwystrydd hysbysebion gan y porwr gwe { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Rhwystrydd hysbysebion - arf dirgel yn erbyn hysbysebion blin.
 features-adblocker-so-many-ads-so-little = Lot o hysbysebion, llai o amynedd… Mae'n bryd rhoi stop ar y gwallgofrwydd.

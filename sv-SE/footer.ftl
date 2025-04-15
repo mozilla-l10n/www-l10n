@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = { -brand-name-mozilla }s manifest
 footer-privacy-hub = Privacy Hub
 footer-privacy = Sekretess
 footer-press = Press
 footer-mozilla-blog = { -brand-name-mozilla }s blogg
-footer-browser-comparison = Webbläsarjämförelse
-footer-brand-standards = Varumärkestandarder
-footer-browsers = Webbläsare
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = Utvecklare
 footer-developer-edition = { -brand-name-developer-edition }
@@ -38,7 +34,6 @@ footer-websites-legal = Juridisk information
 footer-language = Språk
 footer-go = Gå till
 footer-donate = Donera
-footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }

@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Doako web-nabigatzailea
-new-platform-download-firefox = Deskargatu { -brand-name-firefox }
 new-platform-download-the-fastest = Deskargatu inoizko { -brand-name-firefox }ik bizkorrena
 new-platform-faster-page-loading = Orrien karga bizkorragoa, memoria-erabilera txikiagoa eta eginbidez betea. { -brand-name-firefox } berria hemen da.
 new-platform-2x-faster = 2x bizkorragoa
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Deskargatu { -brand-name-mozilla } { 
 new-platform-download-the-fastest-linux = Deskargatu { -brand-name-linux }erako inoiz izan den { -brand-name-firefox }ik bizkorrena
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Orrien karga bizkorragoa, memoria-erabilera txikiagoa eta eginbidez betea. { -brand-name-linux }erako { -brand-name-firefox } berria hemen da.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-linux }erako { -brand-name-firefox }
 new-platform-privacy-more-than = Pribatutasuna - politika bat baino gehiago
 new-platform-your-life-your-business = Zure bizitza, zure kontua. { -brand-name-firefox }ek hirugarrengoen jarraipendun cookieak blokeatzen ditu { -brand-name-linux }en.
 new-platform-speed-meet-security = Abiadura eta segurtasuna bat eginik. { -brand-name-firefox } bi aldiz bizkorragoa da, { -brand-name-chrome } baino %30 memoria gutxiago erabilita.

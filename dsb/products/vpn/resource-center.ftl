@@ -9,11 +9,9 @@
 vpn-resource-center-title = Resursowy centrum VPN
 vpn-resource-center-whats-the-deal = Co ma z wirtuelnymi priwatnyni seśami na sebje?
 vpn-resource-center-discover-how-they = Wuslěźćo, kak funkcioněruju, cogodla wažne su a co VPN móžo za was cynić, gaž jen wužywaśo.
-vpn-resource-center-view-all = Wšykne pokazaś
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = Zachośo źinsa swóju identitu šćitaś.
 vpn-resource-center-obsessed-with = Wobsejźony wót wašeje priwatnosći wót 1998
-vpn-resource-center-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstaraś
 vpn-resource-center-was-this-article = Jo toś ten nastawk wužytny był?
 vpn-resource-center-article-helpful = Nastawk jo wužytny
 vpn-resource-center-article-not-helpful = Nastawk njejo wužytny

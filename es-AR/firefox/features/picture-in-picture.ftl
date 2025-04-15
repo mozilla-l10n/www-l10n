@@ -10,11 +10,8 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Pictu
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = ¿Tenés cosas que hacer y cosas que ver? Hacé ambas cosas con Picture-in-Picture en { -brand-name-firefox }.
 features-pip-picture-in-picture = Picture-in-Picture
-features-pip-new-feature-firefox-multi-picture = Nueva función: { -brand-name-firefox } múltiple Picture-in-Picture
-features-pip-cool-feature-picture-in-picture = Función genial: Picture-in-Picture
 features-pip-get-more-done-with-pop-out-videos = Producí más con los videos emergentes
 features-pip-got-things-to-do-do-both-with = ¿Tenés cosas que hacer y cosas que ver? Hacé ambas usando Picture-in-Picture en { -brand-name-firefox }. Te permite ver un vídeo fuera de su página web y fijarlo a tu pantalla para que lo puedas seguir viendo mientras estás en otras páginas, pestañas y aplicaciones.
-features-pip-play-the-video = Reproducir el video
 features-pip-heres-how-it-works = Mirá cómo funciona:
 features-pip-play-any-video-in-your-updated = <strong>Reproducir cualquier video</strong> en el navegador { -brand-name-firefox }como este.
 features-pip-play-any-video-in-your = <strong>Reproducí cualquier video</strong> en el navegador { -brand-name-firefox }, como este protagonizado por cachorros de panda rojo.

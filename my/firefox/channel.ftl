@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = အစမ်းသုံး { -brand
 firefox-channel-download-and-test-future = အနာဂတ်တွင် ထုတ်လွှင့်မည့် { -brand-name-firefox } { -brand-name-android } နှင့် { -brand-name-ios } ဗားရှင်းများအား ဒေါင်းလုဒ်ရယူပါ
 firefox-channel-experience-cutting-edge-android-updated = { -brand-name-android } အတွက် အစမ်းသုံး ဘရောင်ဇာ ({ -brand-name-firefox-beta } နှင့် { -brand-name-firefox-nightly }) ရှိ နောက်ဆုံးပေါ် လုပ်ဆောင်ချက်များကို အသုံးပြု ခံစားကြည့်ပါ။ ယခုပင် တပ်ဆင် အသုံးပြုကြည့်ပါ။
 firefox-channel-experience-cutting-edge-android = { -brand-name-android } အတွက် အစမ်းသုံး ဘရောင်ဇာ ({ -brand-name-firefox-beta }, { -brand-name-firefox-aurora } နှင့် { -brand-name-firefox-nightly }) ရှိ နောက်ဆုံးပေါ် လုပ်ဆောင်ချက်များကို အသုံးပြု ခံစားကြည့်ပါ။ ယခုပင် တပ်ဆင် အသုံးပြုကြည့်ပါ။
-firefox-channel-download-and-test-the-latest-android = { -brand-name-aurora }, { -brand-name-beta } နှင့် { -brand-name-nightly } ရှိ နောက်ဆုံးပေါ် { -brand-name-firefox } for { -brand-name-android } လုပ်ဆောင်ချက်များကို ဆွဲယူပြီး စမ်းသပ်သုံးစွဲပါ။
 firefox-channel-try-the-latest-android-features = ကမ္ဘာ၏ အခြားနေရာများသို့ မဖြန့်ဖြူးခင် { -brand-name-android } အတွက် လုပ်ဆောင်ချက်များကို စမ်းသပ်အသုံးပြုကြည့်ပါ။
 firefox-channel-all-languages-and-platforms = ဘာသာစကားအားလုံး နှင့် အခြေခံလည်ပတ်စနစ်များ
 firefox-channel-all-languages-and-builds = ဘာသာစကားများနှင့် တည်ဆောက်ထားမှုများ
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = { -brand-name-nightly }ဘလော့ဂ်
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } သည် မတည်ငြိမ်သေးသော စမ်းသပ်ဆဲ၊ ဖန်တီးခြင်းဆိုင်ရာ ပလက်ဖောင်းတစ်ခု ဖြစ်သည်။ ပုံမှန်အားဖြင့် { -brand-name-nightly } သည် { -brand-name-mozilla } ထံသို့ — ထို့ပြင် တခါတရံ အကျိုးတူအဖွဲ့အစည်းများထံသို့ အချက်အလက် ပေးပို့ပါသည်။ ပြဿနာများကို ကိုင်တွယ်ဖြေရှင်းရန်နှင့် စိတ်ကူးများကို အကောင်အထည်ဖော် စမ်းသပ်ကြည့်ရန် ဖြစ်သည်။ <a href="{ $link }">ပေးပို့မည့်အချက်အလက်များကို လေ့လာရန်</a>။
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } မှအကြံပြုချက်များကို { -brand-name-mozilla }သို့ အလိုအလျောက်ပေးပို့သည်
-firefox-channel-try-new-browser-features = အစမ်းသုံးဗားရှင်းများရှိ လုပ်ဆောင်ချက်အသစ်များကို စမ်းသုံးကြည့်ပါ | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = အစမ်းသုံး ဗားရှင်းများရှိ နောက်ဆုံးပေါ် ဘရောင်ဇာ လုပ်ဆောင်ချက်များ ({ -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } နှင့် { -brand-name-firefox-nightly }) ကို အသုံးပြု ခံစားကြည့်ပါ။ ယခုပင် ဆွဲကူးယူပါ။
 firefox-channel-download-and-test-the-latest-desktop = { -brand-name-developer-edition }, { -brand-name-beta } နှင့် ညစဉ်ထုတ် { -brand-name-firefox } { -brand-name-nightly } ပေါ် လုပ်ဆောက်ချက်များကို ဒေါင်းလုဒ်ချ စမ်းသပ်သုံးဆွဲပေးပါ
 firefox-channel-beta = { -brand-name-beta }

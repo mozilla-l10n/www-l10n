@@ -25,9 +25,6 @@ firefox-new-need-help = Ti serbi ajutu?
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">nun duna cchiù attualizzi di sicurizza</a> pi { -brand-name-windows } { -brand-name-xp } o { -brand-name-vista }, ma po' ancora usari { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = U to scarricamentu accumincia 'n autumàticu. Nun s'abbiau? <a id="{ $id }" href="{ $fallback_url }">Torna a prova</a>.
@@ -36,9 +33,6 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } è cchiù a
 firefox-new-download-interrupted = U to scarricamentu fu firmatu, ma nun ti frasturnari.
 firefox-new-download-almost-there = Quasi agghicasti!
 firefox-new-download-select-linux = Scarta n'aḍḍijuta di scarricamentu appressu
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = Pi favuri sicuta <a href="{ $url }">sta guida</a> pi nzitari { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Putissi èssiri ca u to sistema nun è bastanti putenti pi { -brand-name-firefox }, ma po' pruvari una di <a href="{ $url }">sti virsioni</a>.

@@ -28,14 +28,7 @@ firefox-all-arm64-installers = Instaladors ARM64/AArch64
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Tría un instalador de 32 bits pa ordinadors con procesadors de 32 bits, u pa ordinadors mas antigos u menos potents. <a href="{ $url }">Si no'n yes seguro</a> de qué instalador triar, te recomendamos lo de 32 bits.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Descargar { $product_label } pa { $platform } en { $locale }
 firefox-all-msi-installers = Instaladors MSI
-firefox-all-which-version = Qué versión quiers?
-firefox-all-select-your-preferred-installer = Tría lo tuyo instalador preferiu
 firefox-all-select-your-preferred-language = Tría lo tuyo idioma preferiu
 firefox-all-learn-about-installers = Aprende mas sobre instaladors
 firefox-all-product-firefox = { -brand-name-firefox }

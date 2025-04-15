@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = एखादा जाहिरात ब्लॉकर वापरुन त्रासदायक जाहिरातींना कसे ब्लॉक करावे
 features-adblocker-how-to-stop-seeing-too = अती जाहिराती पाहणे आणि कंपन्यांना ऑनलाईन आपल्या मागावर येण्यापासून कसं वाचायचं. { -brand-name-firefox } वेब ब्राउझरकडून जाहिरातविरोधक मार्गदर्शन.
 features-adblocker-the-ad-blocker-a-secret = जाहिरातविरोधक - त्रासदायक जाहिरातींविरोधात एक गुप्त हत्यार.
 features-adblocker-so-many-ads-so-little = संयम कमी अन जाहिराती अती… हा वेडेपणा थांबवायची वेळ आता आली आहे.

@@ -24,7 +24,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">שמירה וסנכרו
 firefox-accounts-get-email-alerts = לקבל הודעות דוא״ל כשהמידע שלך נחשף בדליפת נתונים מוכרת
 firefox-accounts-protect-your-identity = הגנה על הזהות שלך עם מיסוך מאובטח של טלפון ודוא״ל
 firefox-accounts-keep-your-passwords = שמירה על הסיסמה שלך מוגנת וניידת.
-firefox-accounts-get-a-lookout-for = קבלת התרעות על דליפות נתונים.
 firefox-accounts-travel-the-internet = לטייל ברחבי הרשת עם הגנה, בכל מכשיר.
 firefox-accounts-encrypt-your = הצפנת פעילות הרשת שלך והסתרת כתובת ה־IP שלך
 firefox-accounts-we-never = אנחנו אף פעם לא מתעדים, עוקבים או משתפים את נתוני התקשורת שלך
@@ -35,6 +34,5 @@ firefox-accounts-read-in-a = קריאה במרחב שקט ופרטי
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser(case: "a") }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

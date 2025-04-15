@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = Doonload { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Get { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menu
 
@@ -66,9 +65,5 @@ navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-editio
 navigation-v2-get-the-firefox-browser-built = Get the { -brand-name-firefox } stravaiger biggit jist fur forderers.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = Check oot the hame fur wab forderer resoorces.
-navigation-v2-firefox-reality = { -brand-name-firefox-reality }
-navigation-v2-explore-the-web-with-the = Stravaig the wab wi the { -brand-name-firefox } stravaiger fur virtual reality.
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Gie yer vyce sae that the future o the wab can hear awbodie.
-navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-learn-more-about-the-new = Lairn mair aboot the new, low-level, assembly-like leid.

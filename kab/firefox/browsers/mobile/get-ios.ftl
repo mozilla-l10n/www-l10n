@@ -9,5 +9,4 @@
 get-ios-firefox-for-ios = { -brand-name-firefox-browser } i { -brand-name-ios }
 # HTML page description
 get-ios-firefox-is-fast = { -brand-name-firefox } i { -brand-name-ios } d arura, d aɣellsan, d uslig seg mi ara t-teldiḍ.
-get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = Sader { -brand-name-firefox } i { -brand-name-ios }

@@ -8,25 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = 下載 { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = 加入排隊名單
-vpn-shared-available-countries-v6 = 我們已在奧地利、比利時、保加利亞、加拿大、克羅埃西亞、賽普勒斯、捷克、丹麥、愛沙尼亞、芬蘭、法國、德國、匈牙利、愛爾蘭、義大利、拉脫維亞、立陶宛、盧森堡、馬來西亞、馬爾他、荷蘭、紐西蘭、波蘭、葡萄牙、羅馬尼亞、新加坡、斯洛維尼亞、斯洛伐克、西班牙、瑞典、瑞士、英國、美國推出 { -brand-name-mozilla-vpn }。
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 天內保證退款
-vpn-shared-features-encrypt = 裝置層級加密
-vpn-shared-features-bandwidth = 沒有頻寬限制
-vpn-shared-features-activity = 不會紀錄您的上網行為
-vpn-shared-features-activity-logs = 不論現在或未來，都不偷偷記錄您的上網行為
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = 使用位於超過 { $countries } 個國家的伺服器
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = 最多可保護 { $devices } 台裝置
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = 使用位於超過 { $countries } 個國家的強大伺服器
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = 最多可有 { $devices } 台裝置連線
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30 天內保證退款
 vpn-shared-privacy-notice = 隱私權公告
@@ -65,12 +48,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } 尚未
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = 開始使用
 vpn-shared-platform-cta-button = 看看價格與已在哪些市場推出
-vpn-shared-platform-privacy-promise = 我們對您隱私權的承諾
 vpn-shared-platform-what-is = { -brand-name-mozilla-vpn } 是什麼？
 vpn-shared-platfrom-why-choose = 為什麼要選擇 { -brand-name-mozilla-vpn }？
-vpn-shared-platform-what-youll-get = { -brand-name-mozilla-vpn } 當中包含什麼:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = 了解 VPN 的相關資訊

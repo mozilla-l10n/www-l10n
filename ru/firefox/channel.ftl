@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Попробуйте новые фу
 firefox-channel-download-and-test-future = Загрузите и протестируйте будущие релизы { -brand-name-firefox } для компьютера, { -brand-name-android } и { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Испытайте новейшие функции в предварительных версиях браузера для { -brand-name-android }: { -brand-name-firefox-beta } и { -brand-name-firefox-nightly }. Установите их сейчас!
 firefox-channel-experience-cutting-edge-android = Испытайте новейшие функции в предварительных версиях браузера для { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } и { -brand-name-firefox-nightly }. Установите их сейчас!
-firefox-channel-download-and-test-the-latest-android = Загрузите и протестируйте последние возможности { -brand-name-firefox } для { -brand-name-android } в сборках { -brand-name-aurora }, { -brand-name-beta } и { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Попробуйте новейшие функции для { -brand-name-android }, прежде чем они станут доступны для всего мира.
 firefox-channel-all-languages-and-platforms = Все языки и платформы
 firefox-channel-all-languages-and-builds = Все языки и сборки
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = Блог { -brand-name-nightly }
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } — это нестабильная платформа для тестирования и разработки. По умолчанию { -brand-name-nightly } отправляет данные в { -brand-name-mozilla }, а иногда и нашим партнерам, чтобы помочь нам справиться с проблемами и попробовать идеи. <a href="{ $link }">Узнайте, какие данные отправляются</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } автоматически осуществляет обратную связь с { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Попробуйте новые функции в предварительных версиях браузера | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Испытайте новейшие функции в предварительных версиях браузера: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } и { -brand-name-firefox-nightly }. Загрузите их сейчас!
 firefox-channel-download-and-test-the-latest-desktop = Загрузите и протестируйте последние функции компьютерного { -brand-name-firefox } в сборках { -brand-name-developer-edition }, { -brand-name-beta } и { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

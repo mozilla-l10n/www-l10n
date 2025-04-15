@@ -11,28 +11,6 @@ firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Mobilni brskalnik, ustvarjen za vas, ne za oglaševalce
 firefox-mobile-check-out-firefox-again-its = Ponovno preskusite { -brand-name-firefox }. Je hiter, zaseben in na vaši strani. Za { -brand-name-ios } in { -brand-name-android }.
-firefox-mobile-get-automatic-privacy-on-mobile = Prejmite samodejno zasebnost na mobilni napravi
-firefox-mobile-super-fast-private-by-default = Bliskovito hiter. Privzeto zaseben. Zavrača preko 2000 spletnih sledilcev.
 firefox-mobile-get-firefox-mobile = Prenesite mobilni { -brand-name-firefox }
-firefox-mobile-block-online-trackers-and = Zavračajte spletne sledilce in vsiljive oglase
-firefox-mobile-privacy-protection-by-default = Privzeta zaščita zasebnosti
-# Variables:
-#   $promise (url) - link to ttps://www.mozilla.org/firefox/features/private-browsing/
-firefox-mobile-leave-no-trace-with-private = Ne puščajte sledi v <a href="{ $url }">načinu zasebnega brskanja</a>. Ko ga zaprete, se vaša zgodovina in piškotki izbrišejo.
-firefox-mobile-stop-companies-from-following = Preprečite, da bi vam podjetja sledila
-# "Tracking Protection" is a feature name; it should be capitalized
-# Variables:
-#   $promise (url) - link to https://www.mozilla.org/firefox/features/adblocker/
-firefox-mobile-stay-off-their-radar-with = Izognite se njihovemu radarju z <a href="{ $url }">zaščito pred sledenjem { -brand-name-firefox }</a>
-firefox-mobile-discover-products-that-keep = Odkrijte izdelke, ki vas varujejo
-firefox-mobile-sync-your-history-passwords = Sinhronizirajte zgodovino, gesla in zaznamke. Pošljite zavihke na vse svoje naprave.
-firefox-mobile-android-only = Samo za { -brand-name-android }
-firefox-mobile-make-android-your-own = Prisvojite si { -brand-name-android }
-firefox-mobile-customize-your-firefox-mobile-truncated = Prilagodite svoj mobilni brskalnik { -brand-name-firefox } z razširitvami.
-firefox-mobile-find-it-fast-with-a-smart = Poiščite hitro s pametno iskalno vrstico
-firefox-mobile-firefox-anticipates-your-needs = { -brand-name-firefox } izpolnjuje vaša pričakovanja s predlogi pametnega iskanja in hitrim dostopom do najpogosteje obiskanih spletnih mest.
-firefox-mobile-the-privacy-you-deserve-the = Zasebnost, ki si jo zaslužite. Hitrost, ki jo potrebujete.
-firefox-mobile-get-firefox-for-mobile = Prenesite { -brand-name-firefox } za mobilne naprave
 firefox-mobile-send-a-download-link-to-your = Pošljite si povezavo za prenos na telefon.
 firefox-mobile-scan-the-qr-code-to-get-started = Skenirajte QR-kodo, da začnete
-firefox-mobile-scan-alt-text = Skenirajte kodo QR za prenos { -brand-name-firefox }a za mobilne naprave

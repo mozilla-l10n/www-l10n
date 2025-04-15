@@ -25,18 +25,12 @@ firefox-new-need-help = እርዳታ ይፈልጋሉ?
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } በ{ -brand-name-windows } { -brand-name-xp } ወይም { -brand-name-vista }ላይ <a href="{ $url }">ከአሁን በኋላ የደህንነት ማሻሻያዎችን አያቀርብም</a> ፣  ነገር ግን አሁንም { -brand-name-firefox } መጠቀም ይችላሉ።
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = ማውረድዎ በራስ-ሰር መጀመር አለበት። አልሰራም? <a id="{ $id }" href="{ $fallback_url }">እንደገና ለማውረድ ይሞክሩ</a>።
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ከአሳሽም በላይ ነው።
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = ማውረድዎ ተቋርጧል። ግን ሁሉም ነገር አልጠፋም።
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = { -brand-name-firefox }ን ለመጫን እባክዎ <a href="{ $url }">እነዚህን መመሪያዎች</a> ይከተሉ።
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = የእርስዎ ስርዓት የ{ -brand-name-firefox } መስፈርቶችን ላያሟላ ይችላል፣ነገር ግን ከ<a href="{ $url }">እነዚህ ስሪቶች</a> አንዱን መሞከር ይችላሉ።

@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/features/
 
-vpn-features-page-title = Ominaisuudet - { -brand-name-mozilla-vpn }
 vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-features-convenient = Kätevä
 vpn-features-see-our-list = Katso palvelinlistamme.

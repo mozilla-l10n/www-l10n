@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = Мы будем отправля�
 newsletter-form-if-you-havent-previously = Если вы ранее не подтверждали подписку на новостные рассылки { -brand-name-mozilla }, то вам может понадобится сделать это. Пожалуйста, проверьте вашу папку «Входящие» или «Спам» на наличие письма от нас.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Вы
 newsletter-form-get-firefox-tips = Получайте советы, хитрости и новости { -brand-name-firefox } и даже больше
-newsletter-form-keep-up-with = Будьте в курсе всего<br> о { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Получайте новости { -brand-name-mozilla }
 newsletter-form-available-languages = Доступные языки
 newsletter-form-select-country = Выберите страну

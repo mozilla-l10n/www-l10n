@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = Wy stjoere jo allinnich { -brand-
 newsletter-form-if-you-havent-previously = As jo noch net earder in ynskriuwing foar in { -brand-name-mozilla }-relatearre nijsbrief befêstige hawwe, moatte jo dit mooglik dwaan. Kontrolearje jo Postfek YN of jo spamfilter foar in e-mail fan ús.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + jo
 newsletter-form-get-firefox-tips = Untfang tips, trúks, nijs en mear oer { -brand-name-firefox }
-newsletter-form-keep-up-with = Bliuw op 'e hichte<br> fan alles yn { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = { -brand-name-mozilla }-nijs ûntfange
 newsletter-form-available-languages = Beskikbere talen
 newsletter-form-select-country = Selektearje lân

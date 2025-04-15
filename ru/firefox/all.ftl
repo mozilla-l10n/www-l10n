@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = Загрузите { -brand-name-firefox } на русском и более чем 90 других языках
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Любой человек имеет право на доступ в Интернет — ваш язык никогда не должен быть барьером. Вот почему — с помощью преданных волонтёров по всему миру — мы делаем { -brand-name-firefox } доступным на более чем 90 языках.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = Отсканируйте QR-код, чтобы получить <em>{ $product_name }</em>
 firefox-all-choose-browser = Выберите браузер для продолжения
 firefox-all-choose-platform = Выберите платформу для продолжения
 firefox-all-choose-language = Выберите язык для продолжения
@@ -69,14 +66,7 @@ firefox-all-product-send-link = Отправить ссылку для загр�
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Выберите 32-разрядный установщик для компьютеров с 32-разрядными процессорами или для более старых и менее мощных компьютеров. <a href="{ $url }">Если вы не уверены</a>, какой установщик выбрать, мы рекомендуем использовать 32-разрядный.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Загрузить { $product_label } для { $platform }, язык: { $locale }
 firefox-all-msi-installers = MSI-установщики
-firefox-all-which-version = Какая версия вам нужна?
-firefox-all-select-your-preferred-installer = Выберите предпочитаемый установщик
 firefox-all-select-your-preferred-language = Выберите предпочитаемый язык
 firefox-all-learn-about-installers = Узнайте больше об установщиках
 firefox-all-product-firefox = { -brand-name-firefox }

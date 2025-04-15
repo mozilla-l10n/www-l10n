@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Gini’iāj dàj ‘iaj sun a’ng�
 firefox-channel-download-and-test-future = Naduninj ni garahuet daj 'iaj sun { -brand-name-firefox } guenda escritorio, { -brand-name-android } ni { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Gini’iāj nī gini’înt dàj ‘iaj sun a’ngô navegador { -brand-name-android } hìaj gahuī nakà: { -brand-name-firefox-beta } ngà { -brand-name-firefox-nightly }. ¡Nadunïnj hìaj!
 firefox-channel-experience-cutting-edge-android = Gini’iāj nī gini’înt dàj ‘iaj sun a’ngô navegador { -brand-name-android } hìaj gahuī nakà: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } ngà { -brand-name-firefox-nightly }. ¡Nadunïnj hìaj!
-firefox-channel-download-and-test-the-latest-android = Naduninj ni garahuet { -brand-name-firefox } guenda { -brand-name-android } ne' ruku doj { -brand-name-aurora }, { -brand-name-beta } ni { -brand-name-nightly } builds.
 firefox-channel-try-the-latest-android-features = Garasun sa gi'iaj sunt ne'ñan doj guenda { -brand-name-android }, ni ga'chin gini'in a'ngo nej digui'.
 firefox-channel-all-languages-and-platforms = Daran' chre nej nuguan'an ni plataforma
 firefox-channel-all-languages-and-builds = Daran' nej nanj a'mi
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } sani 'ngo plataformâ hìaj arâj huè si ni gàchin nahuin hue'ej. Yi'ì dan { -brand-name-nightly } a'nïn nuguan'an riña { -brand-name-mozilla } — ni da'aj nej dugui' ñûnj — rugûñu'unj nej si nagi'iaj sà' ñûnj sa huaa. <a href="{ $link }">Gini'in si nuhuìn si yinga'</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } a'nìn ma'an nuguan'an riña { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Gini’iāj dàj ‘iaj sun navegador hìaj gahuī nakà | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Gini’iāj nī gini’înt dàj nadunâ ‘iaj sun a’ngô navegador hìaj gahuī nakà: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } ngà { -brand-name-firefox-nightly }. ¡Nadunïnj hìaj!
 firefox-channel-download-and-test-the-latest-desktop = Naduninj ni garahuet daj gi'iaj sun { -brand-name-firefox } ne' ruku doj nga { -brand-name-developer-edition }, { -brand-name-beta } ni { -brand-name-nightly }
 firefox-channel-beta = { -brand-name-beta }

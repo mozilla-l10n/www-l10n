@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = ਅਸੀਂ ਤੁਹਾਨੂ�
 newsletter-form-if-you-havent-previously = ਜੇ ਤੁਸੀਂ ਪਹਿਲਾਂ { -brand-name-mozilla }-ਅਧਾਰਿਤ ਖ਼ਬਰਸਾਰ ਵਾਸਤੇ ਮੈਂਬਰੀ ਨੂੰ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਹੈ ਤਾਂ ਹੁਣ ਕਰ ਸਕਦੇ ਹੋ। ਆਪਣੇ ਇਨਬਾਕਸ ਜਾਂ ਆਪਣੇ ਸਪੈਮ ਫਿਲਟਰ ਨੂੰ ਸਾਡੇ ਵਲੋਂ ਈਮੇਲ ਵਾਸਤੇ ਜਾਂਚ ਕਰੋ।
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + ਤੁਸੀਂ
 newsletter-form-get-firefox-tips = { -brand-name-firefox } ਸੁਝਾਅ, ਗੁਰ, ਖ਼ਬਰਾਂ ਅਤੇ ਹੋਰ ਹਾਸਲ ਕਰੋ
-newsletter-form-keep-up-with = { -brand-name-firefox } ਬਾਰੇ ਸਾਰੀ<br> ਜਾਣਕਾਰੀ ਰੱਖੋ।
 newsletter-form-get-mozilla-updates = { -brand-name-mozilla } ਅੱਪਡੇਟ ਲਵੋ
 newsletter-form-available-languages = ਮੌਜੂਦ ਭਾਸ਼ਾਵਾਂ
 newsletter-form-select-country = ਦੇਸ਼ ਚੁਣੋ

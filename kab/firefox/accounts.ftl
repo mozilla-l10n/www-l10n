@@ -13,7 +13,6 @@ mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Qqen ɣer { -brand-name-mozilla-account }:
 firefox-accounts-keep-your-passwords = Awalen uffiren yettwaḍemnen ara yilin yid-k yal amakan.
-firefox-accounts-get-a-lookout-for = Awellihen ticki tella trewla n yisefka.
 firefox-accounts-travel-the-internet = Tunigin taɣelsant i yibenkan-ik meṛṛa.
 firefox-accounts-get-it-all-on-every = Ɣef yibenkan-ik meṛṛa, akken yebɣu yella unagraw-ik n wammud.
 
@@ -21,6 +20,5 @@ firefox-accounts-get-it-all-on-every = Ɣef yibenkan-ik meṛṛa, akken yebɣu 
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

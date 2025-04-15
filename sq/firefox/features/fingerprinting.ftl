@@ -5,16 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
-# page title
-features-fingerprinting-what-is-fingerprinting-title = Ç’është <em>fingerprinting</em> dhe pse do të duhej ta bllokonit
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = <em>Fingerprinting</em> është një lloj gjurmimi internetor që është më i rëndë se sa gjurmimi i zakonshëm i bazuar në cookie-t — kjo është arsyeja pse { -brand-name-firefox-browser }-i e bllokon.
 features-fingerprinting-fingerprint-blocking = Bllokim krijuesish shenjash gishtash
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox }-i e bllokon <em>fingerprinting</em>
-features-fingerprinting-ditch-the-sticky = Hiqni qafe reklamat e ngjitura, që ju ndjekin ngado, përmes bllokuesve të brendshëm të shfletuesit { -brand-name-firefox } të <em>fingerprinting</em>.
-# description for the header image
-features-fingerprinting-every-fingerprint = Çdo <em>fingerprint</em> është unik.
-features-fingerprinting-download-firefox = Shkarkoni { -brand-name-firefox }-in
 features-fingerprinting-what-is-fingerprinting-body = Ç’është <em>fingerprinting</em>?
 features-fingerprinting-fingerprinting-is-a = <em>Fingerprinting</em> është një lloj gjurmimi internetor që është më i rëndë se gjurmimi i zakonshëm me bazë cookie-t. Një <em>fingerprint</em> dixhital krijohet kur një shoqëri ndërton një profil unik për ju, bazuar në hardware-in e kompjuterit tuaj, software-in, shtesat dhe madje edhe parapëlqimet. Rregullimet tuaja, bie fjala, ekrani që përdorni, shkronjat e instaluara në kompjuterin tuaj dhe madje zgjedhja juaj e një shfletuesi, të tëra mund të përdoren për të krijuar një <em>fingerprint</em>.
 features-fingerprinting-if-you-have = Nëse keni një kompjuter portativ, PC ose telefon të mençur nga ata të rëndomtët, mund të jetë e zorshme të identifikohet në mënyrë unike pajisja juaj përmes <em>fingerprinting</em>. Por, sa më tepër shtesa, shkronja dhe rregullime unike të keni, aq më i lehtë do të jetë profilizimi juaj. Shoqëritë mund ta përdorin këtë ndërthurje unike informacionesh për të krijuar <em>fingerprint</em>-in tuaj. Kjo është arsyeja pse { -brand-name-firefox }-i bllokon teknika të njohura <em>fingerprinting</em>, që kështu të mundeni të përdorni zgjerimet tuaja të parapëlqyera, temat dhe përshtatjet, pa u ndjekur nga reklama.
@@ -35,4 +29,3 @@ features-fingerprinting-the-latest-firefox = Shfletuesi më i ri { -brand-name-f
 features-fingerprinting-and-its-not = Dhe nuk është ndonjë rregullim i zhytur thellë, për të cilin duhet të rrëmoni. Në shfletuesin më të ri { -brand-name-firefox }, bllokimi i profilizimit është standard, rregullim parazgjedhje. Vizitoni <a { $url_protections }>pultin tuaj të mbrojtjeve të privatësisë</a>, që të shihni se si gjurmoheni prapa krahëve dhe se si e pengon këtë { -brand-name-firefox }-i.
 # $url_download (string) - link to firefox/new
 features-fingerprinting-you-probably-wouldnt = Gjasat janë që s’do t’ju vinte mirë që dikush t’ju gjurmonte në jetën reale. S’ka arsye pse kjo të pranohet në internet. Nëse s’keni tashmë { -brand-name-firefox }, <a { $url_download }>shkarkojeni dhe mbroni veten</a> nga profilizimi dixhital.
-features-fingerprinting-protect = Mbroni privatësinë tuaj

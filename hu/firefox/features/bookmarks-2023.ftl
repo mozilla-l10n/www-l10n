@@ -14,8 +14,6 @@ bookmark-manager-organize-your-bookmarks-with = Rendszerezze a könyvjelzőit ma
 bookmark-manager-bookmarks-are-links-you-save = A könyvjelzők olyan hivatkozások, amelyeket a böngészőjében ment el, így gyorsan és könnyen visszajuthat a kedvenc helyeire a weben. A { -brand-name-firefox } tartalmaz egy praktikus könyvjelzőkezelőt, amellyel rendszerezheti, keresheti, frissítheti és <a { $sync }>szinkronizálhatja az összes mentett hivatkozását az összes eszközén</a>.
 bookmark-manager-organize-your-boomarks-into = Rendszerezze a könyvjelzőit kereshető mappákba
 bookmark-manager-collect-your-bookmarks-in-folders = Gyűjtse össze a könyvjelzőit mappákba, és címkézze meg őket további részletekkel. Át is rendezheti a könyvjelzőket, hogy gyorsan megtalálja azt, amelyre szüksége van.
-# Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-bookmark-manager = A könyvjelzőkezelő ablak képe a { -brand-name-firefox(case: "inessive") }.
 bookmark-manager-easily-import-bookmarks = Könyvjelzők egyszerű importálása
 bookmark-manager-you-can-import-your-bookmarks = A { -brand-name-firefox } importáló varázslójával áthozhatja a könyvjelzőit a Chrome-ból, Safariból vagy az Edge-ből. Csak kattintson a Könyvjelzők > Könyvjelzők kezelése lehetőségre, majd válassza az „Importálás és biztonsági mentés” lehetőséget.
 # Used as an accessible text alternative for an image

@@ -28,14 +28,7 @@ firefox-all-arm64-installers = ARM 64/AArch64 ထည့်သွင်းစရ�
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32−ဘစ် ပရိုဆက်ဆာ — သို့မဟုတ် စွမ်းရည်နိမ့်သော သို့မဟုတ် အိုဟောင်းသော ကွန်ပျူတာများ အတွက်  32−ဘစ် ထည့်သွင်းစရာ ကိုရွေးချယ်ပါ။ အကယ်၍ 64−ဘစ် လား 32−ဘစ် ထည့်သွင်းစရာ လားဆိုတာ ကို <a href="{ $url }">သင် မသေခြာ့ပါက </a> 32−ဘစ် ကိုသာ ရွေးချယ်ရန် ကွန်ုပ်တို့ အကြံပြုပါသည်။
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = { $locale } တွင် { $platform } အတွက် { $product_label } ကို ရယူပါ။
 firefox-all-msi-installers = MSI အင်စတော်လာများ
-firefox-all-which-version = သင့်ကြိုက်သောဗားရှင်းရွေးပါ
-firefox-all-select-your-preferred-installer = သင်ကြိုက်နှစ်သက်ရာ အင်စတော်လာကို ရွေးပါ။
 firefox-all-select-your-preferred-language = ကြိုက်နှစ်သက်ရာဘာသာစကားကို ရွေးချယ်ပါ
 firefox-all-learn-about-installers = အင်စတော်လာအကြောင်းလေ့လာပါ
 firefox-all-product-firefox = { -brand-name-firefox }

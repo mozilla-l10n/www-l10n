@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = Që të krijohet një  { -brand-name-mozilla-acco
 fxa-form-by-proceeding = Duke vazhduar, pajtoheni me <a href="{ $url1 }">Kushte Shërbimi</a> dhe <a href="{ $url2 }">Shënim Privatësie</a>.
 fxa-form-email-address = Adresë email
 fxa-form-continue = Vazhdo
-fxa-form-create-account = Krijoje llogarinë
-fxa-form-get-the-app = Merrni aplikacionin

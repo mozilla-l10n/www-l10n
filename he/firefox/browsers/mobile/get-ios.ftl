@@ -9,6 +9,5 @@
 get-ios-firefox-for-ios = ‏‏{ -brand-name-firefox-browser(case: "a") } עבור { -brand-name-ios }
 # HTML page description
 get-ios-firefox-is-fast = ‏{ -brand-name-firefox } עבור { -brand-name-ios } הוא מהיר, מאובטח ופרטי מהפתיחה הראשונה שלו.
-get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = הורדת { -brand-name-firefox } עבור { -brand-name-ios }
 get-ios-firefox-mobile-adapts = ‏{ -brand-name-firefox } לנייד מתאים את עצמו אליך והופך את הגישה ללשוניות הפתוחות שלך, לחיפושים הקודם שלך ולאתרים המועדפים עליך לקלה מתמיד.

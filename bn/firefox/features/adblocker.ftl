@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = কিভাবে বিজ্ঞাপন ব্লকার ব্যবহার করে বিরক্তিকর বিজ্ঞাপনগুলো ব্লক করবেন
 features-adblocker-the-ad-blocker-a-secret = বিজ্ঞাপন ব্লকার – বিরক্তিকর বিজ্ঞাপনগুলির বিরুদ্ধে একটি গোপন অস্ত্র।
 features-adblocker-so-many-ads-so-little = অনেক বিজ্ঞাপন, এত অল্প ধৈর্য … উন্মাদনা বন্ধ করার সময় এসেছে।
 features-adblocker-the-average-person-sees = গড়ে একজন ব্যক্তি গড়ে দিনে 4,000 বিজ্ঞাপন দেখেন। আপনার কাছে যদি এটি অনেক বেশি মনে হয়, তাহলে একটি বিজ্ঞাপন ব্লকার হলো আপনার নতুন সেরা বন্ধু।

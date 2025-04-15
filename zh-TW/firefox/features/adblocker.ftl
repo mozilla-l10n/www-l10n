@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = 如何使用封鎖器來封鎖討厭的廣告
 features-adblocker-how-to-stop-seeing-too = 來自 { -brand-name-firefox } 網頁瀏覽器的廣告封鎖指南，教您如何減少看到廣告的數量，並且防止各個公司在網路上追蹤您。
 features-adblocker-the-ad-blocker-a-secret = 廣告封鎖器：針對討人厭廣告的秘密武器
 features-adblocker-so-many-ads-so-little = 廣告太多了，我才沒有那個閒工夫…是時候該封鎖掉這些廣告了。

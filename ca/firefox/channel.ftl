@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Proveu les característiques noves e
 firefox-channel-download-and-test-future = Baixeu i proveu les futures versions del { -brand-name-firefox } per a l'escriptori, { -brand-name-android } i { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Experimenteu les característiques més innovadores en una versió preliminar del navegador per a l'{ -brand-name-android }: { -brand-name-firefox-beta } i { -brand-name-firefox-nightly }. Instal·leu-les ara!
 firefox-channel-experience-cutting-edge-android = Experimenteu les característiques més innovadores en una versió preliminar del navegador per a l'{ -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } i { -brand-name-firefox-nightly }. Instal·leu-les ara!
-firefox-channel-download-and-test-the-latest-android = Baixeu i proveu les funcions més noves del { -brand-name-firefox } per a l'{ -brand-name-android } amb les versions { -brand-name-aurora }, { -brand-name-beta } i { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Proveu les característiques més noves per a l'{ -brand-name-android }, abans que es presentin a la resta del món.
 firefox-channel-all-languages-and-platforms = Totes les llengües i plataformes
 firefox-channel-all-languages-and-builds = Totes les llengües i versions
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = Blog del { -brand-name-nightly }
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = La versió { -brand-name-nightly } és una plataforma inestable per a proves i desenvolupament. Per defecte, el Firefox { -brand-name-nightly } envia dades a { -brand-name-mozilla } —i de vegades als nostres socis— per ajudar a resoldre problemes i provar idees. <a href="{ $link }">Més informació sobre què es comparteix</a>.
 firefox-channel-firefox-nightly-automatically = El { -brand-name-firefox-nightly } envia informació de forma automàtica a { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Proveu les característiques noves en les versions preliminars del navegador | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Experimenteu les característiques més innovadores en les versions preliminars del navegador: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } i { -brand-name-firefox-nightly }. Baixeu-les ara!
 firefox-channel-download-and-test-the-latest-desktop = Baixeu i proveu les funcions més noves del { -brand-name-firefox } per a l'escriptori amb les versions { -brand-name-developer-edition }, { -brand-name-beta } i { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

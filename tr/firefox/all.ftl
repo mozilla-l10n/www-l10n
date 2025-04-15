@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = { -brand-name-firefox }’u Türkçe veya 90 farklı dilde indirin
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = İnternet herkes için var. Bizce diliniz, internete erişmenize engel olmamalı. Bu yüzden { -brand-name-firefox }’u gönüllülerimizin de yardımıyla 90’dan fazla dilde sunuyoruz.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = <em>{ $product_name }</em> uygulamasını indirmek için QR kodunu okutun
 firefox-all-choose-browser = Devam etmek için bir tarayıcı seçin
 firefox-all-choose-platform = Devam etmek için bir platform seçin
 firefox-all-choose-language = Devam etmek için bir dil seçin
@@ -69,14 +66,7 @@ firefox-all-product-send-link = İndirme bağlantısını telefonunuza gönderin
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32 bit işlemcili bilgisayarlar veya eski ve zayıf bilgisayarlar için 32 bit yükleyiciyi seçin. 64 bit mi yoksa 32 bit mi seçmeniz gerektiğinden <a href="{ $url }">emin değilseniz</a> 32 biti seçmenizi öneririz.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = { $platform } için { $locale } { $product_label } tarayıcısını indir
 firefox-all-msi-installers = MSI yükleyiciler
-firefox-all-which-version = Hangi sürümü istersiniz?
-firefox-all-select-your-preferred-installer = Tercih ettiğiniz yükleyiciyi seçin
 firefox-all-select-your-preferred-language = Tercih ettiğiniz dili seçin
 firefox-all-learn-about-installers = Yükleyiciler hakkında bilgi alın
 firefox-all-product-firefox = { -brand-name-firefox }

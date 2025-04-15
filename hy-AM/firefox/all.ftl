@@ -27,14 +27,7 @@ firefox-all-windows-installers-for = Windows-ի տեղակայիչներ կոր�
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Ընտրեք 32 բիթային տեղադրիչ 32 բիթային մշակիչներով կամ ավելի հին կամ քիչ հզորությամբ համակարգիչների համար: <a href="{ $url }">Եթե համոզված չեք,</a> թե որը՝ ընտրել՝ 64, թե 32 բիթային, ապա խորհուրդ ենք տալիս ընտրել 32 բիթայինը:
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Ներբեռնել { $product_label }-ը { $platform }-ի համար { $locale }-ով
 firefox-all-msi-installers = MSI տեղադրիչներ
-firefox-all-which-version = Ո՞ր տարբերակն եք ցանկանում:
-firefox-all-select-your-preferred-installer = Ընտրեք ձեր նախընտրած տեղադրիչը
 firefox-all-select-your-preferred-language = Ընտրեք ձեր նախընտրած լեզուն
 firefox-all-learn-about-installers = Իմացեք տեղադրիչների մասին
 firefox-all-product-firefox = { -brand-name-firefox }

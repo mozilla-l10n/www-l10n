@@ -8,25 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Získajte { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Pridať sa na zoznam čakateľov
-vpn-shared-available-countries-v6 = V súčasnosti ponúkame { -brand-name-mozilla-vpn } v týchto krajinách: Belgicko, Bulharsko, Chorvátsko, Cyprus, Česká republika, Dánsko, Estónsko, Francúzsko, Fínsko, Holandsko, Írsko, Kanada, Litva, Lotyšsko, Luxembursko, Malajzia, Malta, Maďarsko, Nemecko, Nový Zéland, Portugalsko, Poľsko, Rakúsko, Rumunsko, Singapur, Slovensko, Slovinsko, Španielsko, Švajčiarsko, Švédsko, Taliansko, Veľká Británia a USA.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dňová záruka vrátenia peňazí
-vpn-shared-features-encrypt = Šifrovanie na úrovni zariadenia
-vpn-shared-features-bandwidth = Žiadne obmedzenia rýchlosti
-vpn-shared-features-activity = Žiadne zaznamenávanie vašej aktivity na internete
-vpn-shared-features-activity-logs = Žiadne zaznamenávanie vašej aktivity teraz ani nikdy
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = Prístup k serverom vo viac ako { $countries } krajinách
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = Ochrana až pre { $devices } zariadení
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = Silné servery vo viac ako { $countries }
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = Pripojte až { $devices } zariadení
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30-dňová záruka vrátenia peňazí
 vpn-shared-privacy-notice = Vyhlásenie o ochrane osobných údajov
@@ -65,12 +48,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } zatia�
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = Začíname
 vpn-shared-platform-cta-button = Zobraziť cenu a dostupnosť
-vpn-shared-platform-privacy-promise = Naším prísľubom je vaše súkromie
 vpn-shared-platform-what-is = Čo je { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Prečo { -brand-name-mozilla-vpn }?
-vpn-shared-platform-what-youll-get = Čo získate s { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Ďalšie informácie o sieťach VPN

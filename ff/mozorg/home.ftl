@@ -12,7 +12,6 @@ home-with-2x-the-speed-built-in = Wonndude e jaawgol x2, ndeenka suturo ñiiɓka
 home-we-make-the-internet-safer = Min ɓeydat enternet oo hisde, sellude e yaawde haa cay.
 home-mozilla-is-the-not-for-profit = { -brand-name-mozilla } woni ɓe ɗaɓɓaani ngalu waɗɓe { -brand-name-firefox }, wanngorde lasli ɓuri banngorɗe. Min cosata ko geɗe e kuule ngam Enternet nafa renndo ngoo, wonaa heɓde dañal.
 home-our-impact = Ko min ngaddi
-home-working-at-the-grassroots-and = Gollaade ɗo fuɗɗortee e ɗo eɓɓetee, amin njanngina ganndal geese, min ndokka kuutorɗe tee min kaɓanoo mo woni kala tiiɗaaɗo enternet dariiɗo e goonga, denndal e hurum.
 home-empowering-women-online = Semmbinde rewɓe e Ceŋagol
 home-read-our-internet-health-report = Tar Ciimtol Cellal Enternet amen
 home-our-innovations = Pente amen

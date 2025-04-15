@@ -10,11 +10,8 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Pictu
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = ມີສິ່ງທີ່ຕ້ອງເຮັດ ແລະ ສິ່ງທີ່ຕ້ອງເບິ່ງບໍ? ເຮັດທັງສອງໂດຍໃຊ້ Picture-in-Picture ໃນ { -brand-name-firefox }.
 features-pip-picture-in-picture = ຮູບພາບໃນຮູບ
-features-pip-new-feature-firefox-multi-picture = ຄຸນສົມບັດໃໝ່: { -brand-name-firefox } ຫຼາຍຮູບໃນຮູບ
-features-pip-cool-feature-picture-in-picture = ຄຸນ​ນະ​ສົມ​ບັດ​ທີຄັກ: ຮູບ​ພາບ​ໃນ​ຮູບ​ພາບ​
 features-pip-get-more-done-with-pop-out-videos = ເຮັດໄດ້ຫຼາຍຂຶ້ນກັບວິດີໂອທີ່ອອກມາ
 features-pip-got-things-to-do-do-both-with = ມີສິ່ງທີ່ຕ້ອງເຮັດ ແລະສິ່ງທີ່ຕ້ອງເບິ່ງບໍ? ເຮັດທັງສອງໂດຍໃຊ້ Picture-in-Picture ໃນ { -brand-name-firefox }. ມັນເຮັດໃຫ້ທ່ານປາກົດວິດີໂອອອກຈາກໜ້າເວັບຂອງມັນ ແລະປັກໝຸດມັນໃສ່ໜ້າຈໍຂອງເຈົ້າເພື່ອໃຫ້ເຈົ້າສາມາດສືບຕໍ່ເບິ່ງໄດ້ໃນຂະນະທີ່ເຈົ້າຢູ່ໃນໜ້າອື່ນ, ແຖບ ແລະແອັບຕ່າງໆ.
-features-pip-play-the-video = ຫຼິ້ນວິດີໂອ
 features-pip-heres-how-it-works = ນີ້ແມ່ນວິທີການເຮັດວຽກ:
 features-pip-play-any-video-in-your-updated = <strong>ຫຼິ້ນວິດີໂອໃດກໍໄດ້</strong> ໃນໂປຣແກຣມທ່ອງເວັບ { -brand-name-firefox } ຂອງທ່ານ, ເຊັ່ນອັນນີ້.
 features-pip-play-any-video-in-your = <strong>ຫຼິ້ນວິດີໂອໃດກໍໄດ້</strong> ໃນບຣາວເຊີ { -brand-name-firefox } ຂອງທ່ານ, ເຊັ່ນອັນນີ້ສະແດງໂດຍລູກໝີແພນດາສີແດງ.

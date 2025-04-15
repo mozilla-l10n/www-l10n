@@ -5,16 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
-# page title
-features-fingerprinting-what-is-fingerprinting-title = Tge èn improntaders (fingerprinting) e pertge als duessas ti bloccar?
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Improntaders èn fastizaders anc pli invasivs che solits fastizaders che sa basan sin cookies – perquai als blochescha { -brand-name-firefox-browser }.
 features-fingerprinting-fingerprint-blocking = Bloccada dad improntaders
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blochescha improntaders
-features-fingerprinting-ditch-the-sticky = Ta liberescha da las reclamas mulestusas che ta suondan dapertut cun agid da la funcziun preinstallada da { -brand-name-firefox } per bloccar improntaders.
-# description for the header image
-features-fingerprinting-every-fingerprint = Mintga impronta è unica.
-features-fingerprinting-download-firefox = Telechargiar { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = Tge èn improntaders (fingerprinting)?
 features-fingerprinting-fingerprinting-is-a = Improntaders (fingerprinting) èn fastizaders online ch'èn anc pli invasivs che solits fastizaders a basa da cookies. Ina impronta digitala vegn producida sch'ina interpresa creescha in profil unic da tai che sa basa sin tia hardware, tia software, tes supplements e schizunt sin tias preferenzas. Configuraziuns sco il visur che ti utiliseschas, las scrittiras installadas sin tes computer e schizunt la schelta da tes navigatur pon tuttas vegnir duvradas per crear ina impronta.
 features-fingerprinting-if-you-have = Sche ti has in laptop, PC u telefonin derasà èsi eventualmain pli difficil dad identifitgar definitivamain tes apparat cun agid da l'impronta. E dapli supplements, scrittiras e configuraziuns unicas che ti has e pli simpel èsi da ta chattar. Interpresas pon utilisar questa cumbinaziun specifica dad infurmaziuns per crear tia impronta. Perquai blochescha { -brand-name-firefox } improntaders, uschia che ti pos anc adina utilisar tias extensiuns preferidas, tes designs e tias persunalisaziuns senza che las reclamas ta suondian.
@@ -35,4 +29,3 @@ features-fingerprinting-the-latest-firefox = Il nov navigatur{ -brand-name-firef
 features-fingerprinting-and-its-not = Igl è facil da chattar las configuraziuns correspundentas. En la versiun la pli actuala dal navigatur { -brand-name-firefox } è la bloccada dad improntaders gia activada en la configuraziun da standard. Avra tia <a { $url_protections }>survista da la protecziun da datas</a> per reconstruir co che ti vegns fastizà davos las culissas e co { -brand-name-firefox } impedescha quai.
 # $url_download (string) - link to firefox/new
 features-fingerprinting-you-probably-wouldnt = Probablamain n'avessas ti betg gugent sch'insatgi ta suandass dapertut en la vita reala. I na dat era nagin motiv dad acceptar quai en la rait. Sche ti n'utiliseschas betg anc { -brand-name-firefox }, <a { $url_download } >telechargia e ta protegia</a> cunter improntaders.
-features-fingerprinting-protect = Protegia tia sfera privata

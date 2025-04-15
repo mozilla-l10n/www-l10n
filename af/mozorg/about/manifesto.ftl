@@ -7,17 +7,6 @@
 
 # HTML page title
 manifesto-the-mozilla-manifesto = Die { -brand-name-mozilla }-manifes
-manifesto-transparent-community = Deursigtige gemeenskapsgebaseerde prosesse bevorder deelname, aanspreeklikheid en vertroue.
-manifesto-01 = 01
-manifesto-02 = 02
-manifesto-03 = 03
-manifesto-04 = 04
-manifesto-05 = 05
-manifesto-06 = 06
-manifesto-07 = 07
-manifesto-08 = 08
-manifesto-09 = 09
-manifesto-10 = 10
 manifesto-our-10-principles = <strong>Ons 10</strong> beginsels
 manifesto-read-the-entire-manifesto = Lees die volledige manifes
 manifesto-details-the-mozilla-manifesto = Die { -brand-name-mozilla }-manifes

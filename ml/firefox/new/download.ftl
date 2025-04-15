@@ -27,9 +27,6 @@ firefox-new-need-help = സഹായം വേണോ?
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ഒരു അന്വേഷിയന്ത്രം മാത്രമല്ല
 firefox-new-download-almost-there = തീരാറായി
 firefox-new-download-select-linux = ഇറക്കിവയ്ക്കൽ ഇട തിരഞ്ഞെടുക്കുക
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = { -brand-name-firefox } സ്ഥാപിക്കുന്നതിനു് ദയവായി <a href="{ $url }">ഈ നിര്‍ദ്ദേശങ്ങള്‍</a> പിന്‍തുടരുക.
 firefox-new-windows = { -brand-name-windows }
 
 # Not-Required

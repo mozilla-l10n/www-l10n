@@ -10,11 +10,8 @@ features-pip-firefox-picture-in-picture-get-more = Slika v sliki v { -brand-name
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Imate opravke, čeprav bi raje gledali videoposnetke? { -brand-name-firefox }ova možnost slike v sliki vam omogoča oboje hkrati.
 features-pip-picture-in-picture = Slika v sliki
-features-pip-new-feature-firefox-multi-picture = Novo: več slik v sliki v { -brand-name-firefox(sklon: "mestnik") }
-features-pip-cool-feature-picture-in-picture = Sijajna zmožnost: slika v sliki
 features-pip-get-more-done-with-pop-out-videos = Bodite spretnejši z videoposnetki v posebnih okencih
 features-pip-got-things-to-do-do-both-with = Imate opravke, čeprav bi raje gledali videoposnetke? { -brand-name-firefox }ova možnost slike v sliki vam omogoča oboje hkrati. Z njo lahko napravite, da videoposnetek izskoči iz spletne strani in se pripne na zaslon, in ga tako gledate tudi ob preklopu na drugo stran, zavihek ali program.
-features-pip-play-the-video = Predvajaj videoposnetek
 features-pip-heres-how-it-works = Kako deluje:
 features-pip-play-any-video-in-your-updated = <strong>Predvajajte katerikoli videoposnetek</strong> v { -brand-name-firefox(sklon: "mestnik") }, na primer tega.
 features-pip-play-any-video-in-your = <strong>Predvajajte katerikoli videoposnetek</strong> v { -brand-name-firefox(sklon: "mestnik") }, na primer ta posnetek mladičkov mačjega pande.

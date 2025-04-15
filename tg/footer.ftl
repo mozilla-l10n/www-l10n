@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Санади асосии «{ -brand-name-mozilla }»
 footer-privacy-hub = Маркази махфият
 footer-privacy = Махфият
 footer-press = Матбуот
 footer-mozilla-blog = Блоги «{ -brand-name-mozilla }»
-footer-browser-comparison = Муқоисаи браузер
-footer-brand-standards = Стандартҳои бренд
-footer-browsers = Браузерҳо
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = Барномасозон
 footer-developer-edition = { -brand-name-developer-edition }
@@ -38,7 +34,6 @@ footer-websites-legal = Маълумоти ҳуқуқӣ
 footer-language = Забон
 footer-go = Гузариш
 footer-donate = Саҳм гузоштан
-footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }

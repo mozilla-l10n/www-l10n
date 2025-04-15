@@ -8,7 +8,6 @@
 compare-shared-compare-firefox = 比较 { -brand-name-firefox }
 compare-shared-footer-cta-title = 探索 { -brand-name-firefox } 高阶用法
 compare-shared-footer-cta-desc = 下载快速、轻量、注重隐私，且由非营利组织支持的浏览器。全平台可用。
-compare-shared-footer-cta-button = 下载 { -brand-name-firefox }
 compare-shared-we-also-offer-easy = 我们还提供易于使用的功能，例如：
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } 还内置有下列工具：
 # Variables

@@ -29,23 +29,6 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } მ�
 firefox-desktop-download-do-what-you-do-v2 = აკეთეთ, რასაც აკეთებთ ხოლმე ინტერნეტში.<br> დანარჩენს { -brand-name-firefox-browser } <strong>მიხედავს</strong>.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = აკეთეთ ინტერნეტში, რაც მოგესურვებათ.<br> { -brand-name-firefox-browser } <strong>არ</strong> გითვალთვალებთ.
-firefox-desktop-download-how-firefox-compares = რით განსხვავდება { -brand-name-firefox } სხვა ბრაუზერებისგან
-firefox-desktop-download-get-all-the-speed = მიიღეთ სიჩქარე და უამრავი შესაძლებლობა პირად ცხოვრებაში ჩაურევლად. { -brand-name-firefox-browser } იმდენად მცირე მონაცემებს აგროვებს, რომ ელფოსტასაც არ საჭიროებს ჩამოსატვირთად და გამოსაყენებლად. ეს იმიტომ რომ სხვა ბრაუზერებისგან განსხვავებით არ ვიღებთ ფინანსურ სარგებელს ვებსივრცეში თქვენი დევნით.
-firefox-desktop-download-how-we-compare = როგორ შევადარეთ სხვა ბრაუზერებს
-firefox-desktop-download-compare-firefox-to = შეადარეთ { -brand-name-firefox } და:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = დიახ
-firefox-desktop-download-no = არა
-firefox-desktop-download-blocks-third-party = გარეშე მეთვალყურეების ფუნთუშების შეზღუდვა
-firefox-desktop-download-blocks-third-party-default = გარეშე მეთვალყურეების ფუნთუშების შეზღუდვა ნაგულისხმევად
-firefox-desktop-download-autoplay-blocking = თვითგაშვების შეზღუდვა
-firefox-desktop-download-blocks-social-trackers = სოცქსელების მეთვალყურეების შეზღუდვა
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = სისტემებთან თავსებადობა
-firefox-desktop-download-in-browser-screenshot = ეკრანის გადაღება ბრაუზერშივე
-firefox-desktop-download-primary-password = მთავარი პაროლი
 firefox-desktop-download-we-block-the-ad = სარეკლამო მეთვალყურეები შეზღუდულია. ვებგვერდების მონახულება გაცილებით სწრაფად შეგიძლიათ.
 firefox-desktop-download-ads-are-distracting = რეკლამები ყურადღების გამფანტავია და ანელებს გვერდების ჩატვირთვას, როცა თვალს ადევნებს თითოეულ თქვენს მოქმედებას ინტერნეტში. { -brand-name-firefox-browser } ზღუდავს მეთვალყურეების უმეტესობას ავტომატურად, ასე რომ არ დაგჭირდებათ პარამეტრებში დამატებით ძრომიალი.
 firefox-desktop-download-see-your-report = იხილეთ, უსაფრთხოების ანგარიში
@@ -149,7 +132,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } თა�
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = კითხვები გაქვთ? <a { $attrs }>{ -brand-name-mozilla } მხარდაჭერა</a> გამოგადგებათ.
-firefox-desktop-download-watch-for-hackers-with-v3 = თვალი ადევნეთ ჰაკერებს { -brand-name-mozilla-monitor }-ით, დაიცავით თქვენი ელფოსტის მისამართი { -brand-name-firefox-relay }-ით და სხვა.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -172,18 +154,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = თუ ამოგიგდებთ, რომ დასაყენებელი პროგრამა { -brand-name-microsoft }-ის მიერ არაა დამოწმებული, დაწკაპეთ „მაინც დაყენება“ ან <a { $attrs }>შეცვალეთ პროგრამების შეფასების პარამეტრები</a>.
 firefox-desktop-download-visit-support-for-more = დაწვრილებით, იხილეთ მხარდაჭერის გვერდი
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">აღარ აწარმოებს უსაფრთხოების განახლებებს</a> სისტემებისთვის { -brand-name-windows } { -brand-name-xp } ან { -brand-name-vista }, თუმცა მაინც შეგიძლიათ გამოიყენოთ { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = თქვენი ჩამოტვირთვა თავისით დაიწყება. არ იმუშავა? <a id="{ $id }" href="{ $fallback_url }">სცადეთ ხელახლა.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } მეტია, ვიდრე მხოლოდ ბრაუზერი.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = თქვენი ჩამოტვირთვა შეწყდა. მაგრამ ჯერ ყველაფერი არაა დაკარგული.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = გთხოვთ, { -brand-name-firefox }-ის დასაყენებლად მიჰყვეთ <a href="{ $url }">ამ მითითებებს</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = თქვენი სისტემა შესაძლოა { -brand-name-firefox }-ის მოთხოვნებს ვერ აკმაყოფილებდეს, თუმცა შეგიძლიათ სცადოთ ერთ-ერთი <a href="{ $url }">ამ ვერსიებიდან</a>.

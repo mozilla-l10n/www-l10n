@@ -19,11 +19,6 @@ firefox-all-get-a-sneak-peek-at = Nen jami manyen me layeny me { -brand-name-fir
 firefox-all-test-your-sites-against = Tem kakube mamegi ikom jami manyen me layeny me { -brand-name-firefox } ki DevTools ma tego, gome dok nonge calo makwongo.
 firefox-all-count-on-stability-and = Inongo kero ki yot me tic ki layeny man me { -brand-name-firefox } ma kiyubo pi tiyo jami mapol.
 firefox-all-product-send-link = Cwal kakube me gam i cim mamegi.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Gam { $product_label } pi { $platform } ii { $locale }
 firefox-all-select-your-preferred-language = Yer leb ma imito
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }

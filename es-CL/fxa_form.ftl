@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = <strong>Ingresa tu correo</strong> para crear una
 fxa-form-by-proceeding = Al proceder, aceptas los <a href="{ $url1 }">Términos del servicio</a> y el <a href="{ $url2 }">Aviso de privacidad</a>.
 fxa-form-email-address = Correo electrónico
 fxa-form-continue = Continuar
-fxa-form-create-account = Crear cuenta
-fxa-form-get-the-app = Obtener la app

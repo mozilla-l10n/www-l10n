@@ -10,7 +10,6 @@ welcome-page1-more-than-a-browser-mozilla = Več kot le brskalnik – { -brand-n
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Naredite naslednji korak za zaščito spletne zasebnosti z družino izdelkov { -brand-name-firefox }.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Ostanite korak pred napadalci. Preverite kraje podatkov z { -brand-name-mozilla-monitor }jem.
-welcome-page1-youre-on-track-to-stay-protected = Ste na pravi poti, da ostanete zaščiteni
 welcome-page1-youve-got-the-web-browser = Imate spletni brskalnik, ki ščiti vašo zasebnost – zdaj je čas, da si priskrbite izvidnika za napadalce.
 welcome-page1-check-your-breach-report = Preverite svoje poročilo o krajah podatkov
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

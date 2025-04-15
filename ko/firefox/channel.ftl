@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = 사전 출시된 { -brand-name-andro
 firefox-channel-download-and-test-future = { -brand-name-firefox } 데스크톱, { -brand-name-android } 및 { -brand-name-ios }에서 향후 출시 기능을 테스트할 수 있는 버전을 다운로드 하세요.
 firefox-channel-experience-cutting-edge-android-updated = 신 기능을 미리 체험해 볼 수 있는 { -brand-name-android }용 최신 브라우저: { -brand-name-firefox-beta } 및 { -brand-name-firefox-nightly }. 지금 설치하세요!
 firefox-channel-experience-cutting-edge-android = 신 기능을 미리 체험해 볼 수 있는 { -brand-name-android }용 베타 브라우저: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } 및 { -brand-name-firefox-nightly }. 지금 설치하세요!
-firefox-channel-download-and-test-the-latest-android = { -brand-name-firefox } for { -brand-name-android }의 신규 기능 테스트를 위해 { -brand-name-aurora }, { -brand-name-beta } 및 { -brand-name-nightly } 버전을 다운로드 하세요.
 firefox-channel-try-the-latest-android-features = 정식 버전이 출시 하기 전, 최신 { -brand-name-android } 브라우저 추가 기능을 경험하실 수 있습니다.
 firefox-channel-all-languages-and-platforms = 모든 언어와 플랫폼
 firefox-channel-all-languages-and-builds = 언어별 버전
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = { -brand-name-nightly } 블로그 (영문)
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly }는 테스트와 개발을 위한 불안정한 플랫폼입니다. 기본적으로, { -brand-name-nightly }는 { -brand-name-mozilla } — 그리고 가끔은 우리의 파트너들 — 에게 데이터를 전송해 문제를 다루고 아이디어를 적용하도록 돕습니다. <a href="{ $link }">무엇이 공유되는지 알아보세요</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } 버전은 자동으로 { -brand-name-mozilla }에 피드백을 보냅니다.
-firefox-channel-try-new-browser-features = 신규 기능 테스트를 위한 새로운 브라우저 | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = 신 기능을 미리 체험해 볼 수 있는 { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } 및 { -brand-name-firefox-nightly }. 지금 다운로드하세요!
 firefox-channel-download-and-test-the-latest-desktop = { -brand-name-firefox } 데스크톱의 신규 기능 테스트를 위해 { -brand-name-developer-edition }, { -brand-name-beta } 및 { -brand-name-nightly } 버전을 다운로드 하세요.
 firefox-channel-beta = { -brand-name-beta }

@@ -26,7 +26,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">儲存與同步密碼</
 firefox-accounts-get-email-alerts = 當您的資訊出現在已知的資料外洩事件時，收到警報通知
 firefox-accounts-protect-your-identity = 透過安全的郵件轉寄信箱與虛擬電話轉接功能來保護您的身分資料
 firefox-accounts-keep-your-passwords = 保護密碼，又可隨身攜帶。
-firefox-accounts-get-a-lookout-for = 檢查是否發生資料外洩事件。
 firefox-accounts-travel-the-internet = 在每一台裝置都提供隱私保護功能。
 firefox-accounts-encrypt-your = 加密您的上網行為並隱藏 IP 地址
 firefox-accounts-we-never = 我們從不記錄、追蹤或將您的網路資料分享給別人
@@ -38,6 +37,5 @@ firefox-accounts-get-it-all-on-every = 在所有裝置皆可下載，不會讓�
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

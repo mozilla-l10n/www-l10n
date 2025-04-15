@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = ਇਸ਼ਤਿਹਾਰ ਰੋਕੂ ਨੂੰ ਵਰਤ ਕੇ ਖਿਝਾਉ ਇਸ਼ਿਤਹਾਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਕਿਵੇਂ ਲਾਈਏ
 features-adblocker-how-to-stop-seeing-too = ਐਨੇ ਇਸ਼ਤਿਹਾਰ ਵੇਖਣ ਅਤੇ ਕੰਪਨੀਆਂ ਨੂੰ ਆਨਲਾਈਨ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਤੋਂ ਕਿਵੇ ਰੋਕੀਏ। { -brand-name-firefox } ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਤੋਂ ਇਸ਼ਤਿਹਾਰ ਰੋਕੂ ਗਾਈਡ।
 features-adblocker-the-ad-blocker-a-secret = ਇਸ਼ਤਿਹਾਰ ਬਲਾਕਰ – ਖਿਝਾਊ ਇਸ਼ਤਿਹਾਰਾਂ ਦੇ ਖਿਲਾਫ਼ ਲੁਕਵਾਂ ਹਥਿਆਰ ਹੈ।
 features-adblocker-so-many-ads-so-little = ਬਹੁਤ ਸਾਰੇ ਇਸ਼ਤਿਹਾਰ, ਬਹੁਤ ਘੱਟ ਸਬਰ… ਇਹ ਪਾਗਲਪਨ ਨੂੰ ਰੋਕਣ ਦਾ ਸਮਾਂ ਆ ਗਿਆ ਹੈ।

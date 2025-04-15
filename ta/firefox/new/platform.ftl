@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = இலவச இணைய உலாவி
-new-platform-download-firefox = பயர்பாக்சைப் பதிவிறக்கு
 new-platform-download-the-fastest = எப்போதும் வேகமான பயர்பாக்சைப் பதிவிறக்கவும்
 new-platform-faster-page-loading = வேகமான பக்க ஏற்றம், குறைந்த நினைவகப் பயன்பாடு போன்ற அம்சங்கள் நிறைந்த, புதிய பயர்பாக்சு இதோ.
 new-platform-2x-faster = 2x வேகமானது
@@ -20,8 +19,6 @@ new-platform-need-help = உதவி தேவையா?
 # Linux
 
 new-platform-download-mozilla-linux = இலினக்சிற்கான { -brand-name-firefox } ஐ பதிவிறக்குக
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = இலினக்சிற்கான { -brand-name-firefox }
 new-platform-your-life-your-business = உங்கள் வாழ்க்கை, உங்களுடையது. { -brand-name-firefox } இலினக்சில் மூன்றாம் தரப்பு பின்தொடரல் நினைவிகளைத் தடுக்கிறது.
 new-platform-open-source = திறந்த மூலம்
 

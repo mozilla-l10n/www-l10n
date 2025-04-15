@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Kaip blokuoti įkyrias reklamas naudojantis reklamų blokuoklėmis
 features-adblocker-how-to-stop-seeing-too = Kaip atsikratyti reklamų pertekliaus ir užkirsti kelią kompanijoms jus stebėti internete. Reklamų blokuoklių gidas nuo „{ -brand-name-firefox }“ naršyklės kūrėjų.
 features-adblocker-the-ad-blocker-a-secret = Reklamų blokuoklė – slaptas ginklas kovoje su įkyriomis reklamomis.
 features-adblocker-so-many-ads-so-little = Reklamų daugėja, kantrybė senka… Laikas nutraukti šią beprotybę.

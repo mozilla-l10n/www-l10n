@@ -42,14 +42,7 @@ firefox-all-product-send-link = Azen aseɣwen n usader ɣer tiliɣri-inek·inem
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Fren amsebdad 32 n yibiten i yiselkimen iteddun s usasfar 32 n yibiten — neɣ i yisilkimen iqbuṛen neɣ wid ur neǧhid ara. <a href="{ $url }">Ma yella ur teẓriḍ ara anwa lqem </a> gar umsebdad 64 n yibiten neɣ 32 n yibiten, ad k-nwelleh ad tesbeddeḍ Firefox 32 n yibiten.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Sader { $product_label } i { $platform } s { $locale }
 firefox-all-msi-installers = Imsebdaden MSI
-firefox-all-which-version = Anwa lqem ara tebɣuḍ?
-firefox-all-select-your-preferred-installer = Fren amsebdad i tebɣid
 firefox-all-select-your-preferred-language = Fren tutlayt-ik tasmenyaft
 firefox-all-learn-about-installers = Issin ɣef yimsebdaden
 firefox-all-product-firefox = { -brand-name-firefox }

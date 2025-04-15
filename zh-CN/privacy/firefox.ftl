@@ -39,5 +39,3 @@ privacy-firefox-take-me-back = <a { $attrs }>返回隐私声明顶部</a>
 # Variables:
 #   $attrs (string) - in-page link to the top of the page
 privacy-firefox-lost-in-the = 细则的信息量太大？返回 <a { $attrs }>{ -brand-name-firefox } 隐私概要</a>。
-# links to Mozilla privacy policy
-privacy-firefox-mozilla-privacy = { -brand-name-mozilla } 隐私

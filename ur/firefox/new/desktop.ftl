@@ -21,21 +21,6 @@ firefox-desktop-download-download-options = ڈاؤن لوڈ  اختیارات ا
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } سپورٹ
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = وہ کریں جو آپ آن لائن کرتے ہیں.<br> { -brand-name-firefox-browser }<strong> آپکو نہیں</strong> دیکھ رہا
-firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } کا دیگر براؤزر سے کیسے موازنہ کریں
-firefox-desktop-download-how-we-compare = ہم دوسرے براؤزر سے کس طرح موازنہ کرتے ہیں
-firefox-desktop-download-compare-firefox-to = سے { -brand-name-firefox } کا موازنہ:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = ہاں
-firefox-desktop-download-no = نہیں
-firefox-desktop-download-blocks-third-party = تیسری پارٹی سے باخبر رہنے والی کوکیز کو بلاک کرتا ہے
-firefox-desktop-download-autoplay-blocking = آٹو پلے بلاک ہو رہا ہے
-firefox-desktop-download-blocks-social-trackers = سماجی ٹریکرز بلاک کریں
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = OS کی دستیابی
-firefox-desktop-download-in-browser-screenshot = براؤزر میں اسکرین شاٹ ٹول
-firefox-desktop-download-primary-password = بنیادی پاس ورڈ
 firefox-desktop-download-we-block-the-ad = ہم اشتہاری ٹریکروں کو بلاک کرتے ہیں۔ آپ انٹرنیٹ کو تیزی سے تلاش کرتے ہیں۔
 firefox-desktop-download-ads-are-distracting = اشتہارات پریشان کن ہیں اور ویب صفحات کو سست روی سے لوڈ کرتے ہیں جبکہ ان کے ٹریکرز آپ کے آن لائن کیے جانے والے ہر اقدام کو دیکھتے ہیں۔ { -brand-name-firefox-browser } زیادہ تر ٹریکروں کو خود بخود بلاک کرتا ہے ، لہذا آپ کی سیکیورٹی کی ترتیبات میں کھدائی کرنے کی ضرورت نہیں ہے۔
 firefox-desktop-download-see-your-report = اپنی تحفظ کی رپورٹ دیکھیں

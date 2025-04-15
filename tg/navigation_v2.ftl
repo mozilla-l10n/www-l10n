@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = «{ -brand-name-firefox }»-ро боргирӣ кунед
 navigation-v2-get-mozilla-vpn = «{ -brand-name-mozilla-vpn }»-ро ба даст оред
 navigation-v2-menu = Меню
 
@@ -76,11 +75,7 @@ navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-editio
 navigation-v2-get-the-firefox-browser-built = Браузери «{ -brand-name-firefox }»-ро ба даст оред, ки махсус барои барномасозон таҳия шудааст.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = Ба саҳифаи асосии манбаъҳо барои барномасозони сомонаҳо нигаред.
-navigation-v2-firefox-reality = { -brand-name-firefox-reality }
-navigation-v2-explore-the-web-with-the = Интернетро бо браузери «{ -brand-name-firefox }» барои воқеияти маҷозӣ истифода баред.
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Овози худро саҳм гузоред, то ки ҳар як кас тавонад Интернетро шунавад.
-navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-learn-more-about-the-new = Маълумоти бештар дар бораи забони нави пастдараҷа ва монанд ба ҷамъкунанда.
 navigation-v2-mozilla-innovation-projects = Лоиҳаҳои инноватсионии «{ -brand-name-mozilla }»
 navigation-v2-discover-ways-to-bring = Роҳҳоеро, ки фикру ақидаҳои равшанро ба ҳаёт меоранд, кашф кунед.

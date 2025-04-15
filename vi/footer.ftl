@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Tuyên ngôn { -brand-name-mozilla }
 footer-privacy-hub = Trung tâm riêng tư
 footer-privacy = Riêng tư
 footer-press = Nhấp
 footer-mozilla-blog = Blog { -brand-name-mozilla }
-footer-browser-comparison = So sánh trình duyệt
-footer-brand-standards = Tiêu chuẩn thương hiệu
-footer-browsers = Trình duyệt
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = Nhà phát triển
 footer-developer-edition = { -brand-name-developer-edition }
@@ -38,7 +34,6 @@ footer-websites-legal = Thông tin pháp lý
 footer-language = Ngôn ngữ
 footer-go = Đi
 footer-donate = Quyên góp
-footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }

@@ -25,9 +25,6 @@ firefox-new-need-help = Trjebaće pomoc?
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">hižo wěstotne aktualizacije</a> na { -brand-name-windows } { -brand-name-xp } abo { -brand-name-vista } njeposkića, ale móžeće hišće { -brand-name-firefox } wužiwać.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Waše sćehnjenje dyrbjało so awtomatisce započeć. Njefunguje? <a id="{ $id }" href="{ $fallback_url }">Sćehńće znowa</a>.
@@ -36,9 +33,6 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je wjace ha
 firefox-new-download-interrupted = Waše sćehnjenje je so přetorhnyło. Ale wšitko zhubjene njeje.
 firefox-new-download-almost-there = Nimale zdokonjany!
 firefox-new-download-select-linux = Wubjerće deleka nastajenje sćehnjenja
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = Prošu slědujće <a href="{ $url }">tutym instrukcijam</a> za instalowanje { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Waš system najskerje žadanjam { -brand-name-firefox } njewotpowěduje, ale móžeće jednu z <a href="{ $url }">tutych wersijow</a> wupytać.

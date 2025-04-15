@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = <strong>Εισαγάγετε το email σας</s
 fxa-form-by-proceeding = Συνεχίζοντας, συμφωνείτε με τους <a href="{ $url1 }">Όρους υπηρεσίας</a> και τη <a href="{ $url2 }">Σημείωση απορρήτου</a>.
 fxa-form-email-address = Διεύθυνση email
 fxa-form-continue = Συνέχεια
-fxa-form-create-account = Δημιουργία λογαριασμού
-fxa-form-get-the-app = Λήψη εφαρμογής

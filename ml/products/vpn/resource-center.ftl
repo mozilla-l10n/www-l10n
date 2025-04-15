@@ -5,5 +5,4 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/resource-center
 
-vpn-resource-center-view-all = എല്ലാം കാഴ്ചപ്പെടുക
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }

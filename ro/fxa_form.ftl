@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = Continuând, ești de acord cu <a href="{ $url1 }">Termenii de utilizare a serviciilor</a> și <a href="{ $url2 }">Notificarea privind confidențialitatea</a>.
 fxa-form-email-address = Adresă de e-mail
 fxa-form-continue = Continuă
-fxa-form-create-account = Creează un cont
-fxa-form-get-the-app = Instalează aplicația

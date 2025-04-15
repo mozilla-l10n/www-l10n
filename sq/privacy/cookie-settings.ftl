@@ -39,11 +39,6 @@ cookie-settings-category-analytics-what-are-subheading = Ç’janë Cookie-t Sta
 cookie-settings-category-analytics-what-are-desc = Këto teknologji grumbullojnë informacion rreth se si i përdorin sajtet njerëzit, f.v., faqet që vizitojnë, lidhje që klikojnë dhe prej cilave sajte erdhën vizitat.
 cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } përdor informacion statistikor për të kuptuar se si ndërveprojnë përdoruesit me sajtet tanë, që të mund t’i përmirësojmë ata dhe të ndreqim çfarëdo problemesh që dalin. Mund të përdorim edhe të dhëna nga “Cookies”, informacion pajisjesh dhe adresa IP, për të na ndihmuar të kuptojmë se si angazhohen përdoruesit me produktet, shërbimet, komunikimet, sajtet, fushatat internetore tona, pajisjet dhe platforma të tjera. Do të grumbullojmë informacion statistikor dhe depozitojmë “Cookies” Statistikore vetëm me pëlqimin tuaj.
 
-## Consent section
-
-cookie-settings-your-consent-heading = Pranim nga ju
-cookie-settings-your-consent-desc = Duke rënë dakord me përdorim Cookie-sh, do të jepet pëlqimi juaj për listën vijues të sajteve të { -brand-name-mozilla }-s, të cilët ndjekin që të tërë të njëjtat standarde strikte për privatësinë e të dhënave. Ju lutemi, kini parasysh se kjo listë mund të përditësohet përgjatë kohës.
-
 ## Privacy section
 
 cookie-settings-privacy-heading = Shënimi ynë mbi privatësinë

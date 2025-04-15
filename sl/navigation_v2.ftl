@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = Prenesite { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Namestite { -brand-name-mozilla-vpn }
 navigation-v2-menu = Meni
 
@@ -76,11 +75,7 @@ navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-editio
 navigation-v2-get-the-firefox-browser-built = Prenesite brskalnik { -brand-name-firefox }, ustvarjen samo za razvijalce.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = Obiščite glavno zbirko virov za spletne razvijalce.
-navigation-v2-firefox-reality = { -brand-name-firefox-reality }
-navigation-v2-explore-the-web-with-the = Raziščite splet z brskalnikom { -brand-name-firefox } za navidezno resničnost.
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Darujte svoj glas in pomagajte, da bo splet prihodnosti lahko slišal vsakogar.
-navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-learn-more-about-the-new = Spoznajte novi nizkonivojski, zbirnemu jeziku podobni programski jezik.
 navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla(sklon: "mestnik") }ni inovacijski projekti
 navigation-v2-discover-ways-to-bring = Odkrijte, kako uresničiti dobre zamisli.

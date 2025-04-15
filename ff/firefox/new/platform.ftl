@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Wanngorde Geese Alla meho
-new-platform-download-firefox = Aawto { -brand-name-firefox }
 new-platform-download-the-fastest = Aawto { -brand-name-firefox } ɓurɗo yaawde abadaa oo
 new-platform-faster-page-loading = Loowgol hello ɓurngol yaawde, kuutorogol tesko pamɗungol kadi coomdangol e faannuuji, { -brand-name-firefox } keso oo nani ɗoo.
 new-platform-2x-faster = Ɓuri yaawde x2
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Aawto { -brand-name-mozilla } { -bran
 new-platform-download-the-fastest-linux = Aawto { -brand-name-firefox } ngam { -brand-name-linux } ɓurɗo yaawde abada oo
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Loowgol hello ɓurngol yaawde, kuutorogol tesko pamɗungol kadi coomdangol e faannuuji, { -brand-name-firefox } keso ngam { -brand-name-linux } oo nani ɗoo.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } ngam { -brand-name-linux }
 new-platform-your-life-your-business = Nguurndam maa, ngoƴa maa. { -brand-name-firefox } ina faloo kuukiije janane dewindotooɗe e { -brand-name-linux }.
 new-platform-open-source = Keɓe udditiiɗe
 

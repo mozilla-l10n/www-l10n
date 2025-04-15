@@ -10,7 +10,6 @@ welcome-page1-more-than-a-browser-mozilla = Plus que un navigator, { -brand-name
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Attinge le grado successive pro proteger tu confidentialitate online con le familia de productos { -brand-name-firefox }.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Supera le piratas informatic. Controla pro violationes de datos con { -brand-name-mozilla-monitor }.
-welcome-page1-youre-on-track-to-stay-protected = Tu es sur le tracia pro remaner protegite.
 welcome-page1-youve-got-the-web-browser = Tu ha recipite le navigator web que protege tu confidentialitate, ora il es tempore pro obtener un alerta pro le piratas informatic.
 welcome-page1-check-your-breach-report = Controla tu Reporto de violationes
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

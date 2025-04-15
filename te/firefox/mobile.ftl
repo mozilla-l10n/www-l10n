@@ -7,5 +7,3 @@
 
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
-firefox-mobile-android-only = { -brand-name-android } మాత్రమే
-firefox-mobile-make-android-your-own = { -brand-name-android }‌ని మీ స్వంతం చేసుకోండి

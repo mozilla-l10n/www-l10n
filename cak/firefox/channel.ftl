@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Tatojtob'ej k'ak'a' taq rusamaj jun 
 firefox-channel-download-and-test-future = Tiqasäx chuqa' ketojtob'ëx ri taq ruwäch xke'eleyaj pe richin { -brand-name-firefox } richin kematz'ib', { -brand-name-android } chuqa' { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Ke'atojtob'ej nima'q taq rub'anikil ri okik'amaya'l richin { -brand-name-android } nelesäx yan pe: { -brand-name-firefox-beta } chuqa' { -brand-name-firefox-nightly }. ¡Tiyak wakami!
 firefox-channel-experience-cutting-edge-android = Ke'atojtob'ej nima'q taq b'anikil pa jun okik'amaya'l richin { -brand-name-android } nelesäx yan pe: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } chuqa' { -brand-name-firefox-nightly }. ¡Tiyak qa wakami!
-firefox-channel-download-and-test-the-latest-android = Tiqasäx chuqa' titojtob'ëx ri ruk'isib'äl ruwäch { -brand-name-firefox } richin { -brand-name-android } rik'in { -brand-name-aurora }, { -brand-name-beta } chuqa' { -brand-name-nightly } molon taq ruwäch.
 firefox-channel-try-the-latest-android-features = Ketojtob'ëx ri ruk'isib'al taq rub'anikil { -brand-name-android }, chuwäch xtiya' el q'ij chi ke chi napon pa kiq'a' chijun ri ruwach'ulew.
 firefox-channel-all-languages-and-platforms = Konojel ri taq ch'ab'äl chuqa' taq nuk'uche'el
 firefox-channel-all-languages-and-builds = Konojel ri taq ch'ab'äl chuqa' taq nuk'uj
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = { -brand-name-nightly } Ichinya'l
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = Ri { -brand-name-nightly } jun man choj ta chi tojtob'äl chuqa' k'iyirisab'äl nuk'uche'el. Banon chi ri { -brand-name-nightly } yerutäq taq tzij chi re ri { -brand-name-mozilla }  —  k'o b'ey re chuqa' chi ke qato'onela' — richin yojkito' yeqasamajij taq k'ayewal chuqa' yeqatojtob'ej taq nojib'äl. <a href="{ $link }">Tawetamaj ri yekomonïx</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } pa ruyonil nutäq k'utun tzij chi re { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Ke'atojtob'ej k'ak'a' taq rusamaj Okik'amaya'l pa jun ruwäch nelesäx yan pe | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Tatojtob'ej ri nimaläj taq rub'anikil okik'amaya'l pa jun ruwäch nelesäx yan pe: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } chuqa' { -brand-name-firefox-nightly }. ¡Tiqasäx wakami!
 firefox-channel-download-and-test-the-latest-desktop = Tiqasäx chuqa' titojtob'ëx ri ruk'isib'äl ruwäch { -brand-name-firefox } richin kematz'ib' rik'in Ajb'anonel Nuk'uj, { -brand-name-developer-edition }, { -brand-name-beta } chuqa' { -brand-name-nightly } molon taq ruwäch.
 firefox-channel-beta = { -brand-name-beta }

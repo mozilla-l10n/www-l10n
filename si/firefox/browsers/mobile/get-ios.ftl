@@ -9,6 +9,5 @@
 get-ios-firefox-for-ios = { -brand-name-ios } සඳහා { -brand-name-firefox-browser }
 # HTML page description
 get-ios-firefox-is-fast = { -brand-name-ios } සඳහා { -brand-name-firefox } ඔබ එය විවෘත කරන මොහොතේ සිට වේගවත්ය, පෞද්ගලිකය සහ ආරක්‍ෂිතය.
-get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = { -brand-name-ios } සඳහා { -brand-name-firefox } බාගන්න
 get-ios-firefox-mobile-adapts = ජංගම { -brand-name-firefox } ඔබට අනුවර්තනය වන අතර ඔබගේ සියළු විවෘත පටිති, සෙවුම් ඉතිහාසය සහ ප්‍රියතම අඩවි බැලීම අන් කවරදාටත් වඩා පහසු කරයි.

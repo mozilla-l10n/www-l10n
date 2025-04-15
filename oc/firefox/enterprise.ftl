@@ -5,8 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
-firefox-enterprise-overview = Apercebut
-firefox-enterprise-downloads = Telecargaments
 firefox-enterprise-enterprise-downloads = Telecargaments per { -brand-name-enterprise }
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Seleccionatz vòstre telecargament

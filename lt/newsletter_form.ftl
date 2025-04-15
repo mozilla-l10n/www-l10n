@@ -10,7 +10,6 @@ newsletter-form-im-okay-with-mozilla = Sutinku, kad „{ -brand-name-mozilla }�
 newsletter-form-if-you-havent-previously = Jei nesate anksčiau patvirtinę kurio nors { -brand-name-mozilla } naujienlaiškio prenumeratos, turbūt turėsite tai padaryti dabar. Dėl visa ko patikrinkite ir savo brukalo aplanką – galbūt mūsų laiškas netyčia atsidurs jame.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + jūs
 newsletter-form-get-firefox-tips = Gaukite su „{ -brand-name-firefox }“ susijusius patarimus, naujienas ir kt.
-newsletter-form-keep-up-with = Neatsilikite nuo<br> „{ -brand-name-firefox }“ naujienų.
 newsletter-form-get-mozilla-updates = { -brand-name-mozilla } naujienos
 newsletter-form-available-languages = Galimos kalbos
 newsletter-form-select-country = Pasirinkite šalį

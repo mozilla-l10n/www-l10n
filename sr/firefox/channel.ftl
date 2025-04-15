@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Испробајте нове мог
 firefox-channel-download-and-test-future = Преузмите и тестирајте будућа издања { -brand-name-firefox }-а за десктоп, { -brand-name-android } или { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Искусите нове могућности у тест верзијама прегледача за { -brand-name-android }: { -brand-name-firefox-beta } и { -brand-name-firefox-nightly }. Инсталирајте их одмах!
 firefox-channel-experience-cutting-edge-android = Искусите нове могућности у бета верзијама прегледача за { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } и { -brand-name-firefox-nightly }. Инсталирајте сада!
-firefox-channel-download-and-test-the-latest-android = Преузмите и тестирајте најновије функционалности { -brand-name-firefox }-а за { -brand-name-android } са { -brand-name-aurora }, { -brand-name-beta } и { -brand-name-nightly } издањима.
 firefox-channel-try-the-latest-android-features = Испробајте последње { -brand-name-android } могућности пре него што буду објављене остатку света.
 firefox-channel-all-languages-and-platforms = Сви језици и платформе
 firefox-channel-all-languages-and-builds = Сви језици и издања
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = { -brand-name-nightly } Blog
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } је нестабилна платформа за тестирање и развој. Уобичајено, { -brand-name-nightly } шаље податке { -brand-name-mozilla }-и — а понекад и нашим партнерима — како би нам помогли да решимо проблеме и испробамо идеје. <a href="{ $link }">Сазнајте шта је дељено</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } аутоматски шаље повратне информације { -brand-name-mozilla }-и.
-firefox-channel-try-new-browser-features = Испробајте нове могућности прегледача у бета верзијама | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Искусите нове могућности у бета верзијама: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } и { -brand-name-firefox-nightly }. Преузмите их сада!
 firefox-channel-download-and-test-the-latest-desktop = Преузмите и тестирајте могућности { -brand-name-firefox }-а за десктоп верзије, { -brand-name-developer-edition }, { -brand-name-beta } и { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

@@ -46,7 +46,6 @@ firefox-developer-new-tools = క్రొత్త పనిముట్ట్�
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-master-css-grid = మాస్టర్ CSS గ్రిడ్
 firefox-developer-master-innovative-features = ఇన్నోవేటివ్ ఫీచర్లు
-firefox-developer-convenient-features = అనుకూలమైన ఫీచర్లు
 firefox-developer-faster-innovation = వేగవంతమైన సమాచారం
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } స్వయంచాలకంగా { -brand-name-mozilla } చూడు పంపుతుంది.
 firefox-developer-download-the-firefox-browser = డెవలపర్ల కోసం చేసిన { -brand-name-firefox } విహారిణిని దింపుకోండి

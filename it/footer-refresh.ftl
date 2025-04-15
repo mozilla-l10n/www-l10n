@@ -14,7 +14,6 @@ footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Segui @{ -brand-name-mozilla }
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -29,7 +28,6 @@ footer-refresh-support = Supporto
 footer-refresh-product-help = Supporto per i prodotti
 footer-refresh-file-a-bug = Segnala un errore
 footer-refresh-localize-mozilla = Localizzazione in { -brand-name-mozilla }
-footer-refresh-brand-standards = Uso del marchio
 footer-refresh-developers = Sviluppatori
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

@@ -19,14 +19,7 @@ firefox-all-learn-about-firefox = { -brand-name-firefox } બ્રાઉઝર�
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32-બીટ પ્રોસેસરવાળા કમ્પ્યુટર્સ માટે — અથવા વૃદ્ધ અથવા ઓછા શક્તિશાળી કમ્પ્યુટર માટે 32-બીટ સ્થાપક પસંદ કરો. <a href="{ $url }">જો તમને ખાતરી ન હોય કે</a>64-બીટ અથવા 32-બીટ સ્થાપક પસંદ કરવું, તો અમે તમને 32-બીટ સાથે જવા સૂચન કરીએ છીએ.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = { $locale } માં { $platform } માટે { $product_label } ડાઉનલોડ કરો
 firefox-all-msi-installers = MSI ઇન્સ્ટોલર્સ
-firefox-all-which-version = તમને કયું સંસ્કરણ ગમશે?
-firefox-all-select-your-preferred-installer = તમારા પસંદીદા સ્થાપકને પસંદ કરો
 firefox-all-select-your-preferred-language = તમારી પસંદીદા ભાષા પસંદ કરો
 firefox-all-learn-about-installers = સ્થાપકો વિશે જાણો
 firefox-all-product-firefox = { -brand-name-firefox }

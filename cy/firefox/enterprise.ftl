@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = Cael { -brand-name-firefox } ar gyfer eich sefydliad gydag { -brand-name-esr } a Rapid Release
 firefox-enterprise-get-unmatched-data-protection = Cael diogelwch data heb ei ail gydag amlder ryddhau sy'n addas i chi gyda { -brand-name-firefox } ar gyfer menter. Llwythwch i lawr { -brand-name-esr } a Rapid Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Trosolwg
-firefox-enterprise-downloads = Pecynnau
 firefox-enterprise-get-firefox-for-your-enterprise = Cael { -brand-name-firefox } ar gyfer eich sefydliad
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

@@ -15,10 +15,6 @@
 ## Analytics cookies section
 
 
-## Consent section
-
-cookie-settings-your-consent-heading = ඔබගේ අනුදැනීම
-
 ## Privacy section
 
 cookie-settings-privacy-heading = අපගේ පෞද්ගලිකත්‍ව දැන්වීම

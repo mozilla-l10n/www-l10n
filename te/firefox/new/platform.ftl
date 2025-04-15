@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = ఉచిత జాల విహారిణి
-new-platform-download-firefox = { -brand-name-firefox }ను దింపుకోండి
 new-platform-download-the-fastest = సరికొత్త { -brand-name-firefox }ను దించుకోండి
 new-platform-2x-faster = 2x వేగంగా
 new-platform-advanced-install-options = అధునాతన స్థాపన ఎంపికలు మరియు ఇతర వేదికలు

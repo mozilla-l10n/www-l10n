@@ -30,14 +30,7 @@ firefox-all-product-send-link = Rebeu un enllaç de baixada en el vostre telèfo
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Trieu un instal·lador de 32 bits per a ordinadors amb processadors de 32 bits, o per a ordinadors més antics o menys potents. <a href="{ $url }">Si no esteu segur</a> de quin instal·lador triar, us recomanem el de 32 bits.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Baixa el { $product_label } per al sistema { $platform } en { $locale }
 firefox-all-msi-installers = Instal·ladors MSI
-firefox-all-which-version = Quina versió voleu?
-firefox-all-select-your-preferred-installer = Trieu l’instal·lador que preferiu
 firefox-all-select-your-preferred-language = Trieu la llengua que preferiu
 firefox-all-learn-about-installers = Més informació sobre els instal·ladors
 firefox-all-product-firefox = { -brand-name-firefox }

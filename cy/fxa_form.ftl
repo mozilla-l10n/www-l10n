@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = <strong>Rhowch eich e-bost</strong> i greu cyfrif
 fxa-form-by-proceeding = Drwy fynd yn eich blaen, rydych yn cytuno i'r <a href="{ $url1 }">Amodau Gwasanaeth</a> a'r <a href="{ $url2 }">Hysbysiad Preifatrwydd</a>.
 fxa-form-email-address = Cyfeiriad e-bost
 fxa-form-continue = Ymlaen
-fxa-form-create-account = Creu cyfrif
-fxa-form-get-the-app = Cael yr ap

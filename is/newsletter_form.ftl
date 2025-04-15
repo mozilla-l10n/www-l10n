@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = Við munum aðeins senda þér up
 newsletter-form-if-you-havent-previously = Ef þú hefur ekki þegar staðfest áskrift að { -brand-name-mozilla } tengdu fréttabréfi gætirðu þurft að staðfesta. Athugaðu hvort póstur sé frá okkur í innhólfinu eða í ruslpóst möppunni.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Þú
 newsletter-form-get-firefox-tips = Fáðu { -brand-name-firefox } ábendingar, snjallræði, fréttir og fleira
-newsletter-form-keep-up-with = Vertu vakandi fyrir<br> öllu sem tengist { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Ná í { -brand-name-mozilla } uppfærslur
 newsletter-form-available-languages = Tiltæk tungumál
 newsletter-form-select-country = Veldu land

@@ -39,11 +39,6 @@ cookie-settings-category-analytics-what-are-subheading = Co jsou analytické sou
 cookie-settings-category-analytics-what-are-desc = Tyto technologie shromažďují informace o tom, jak lidé používají webové stránky, například navštívené stránky, odkazy, na které klikli, a informace o tom, z jakých jiných webových stránek návštěvy pocházejí.
 cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } používá analytické informace k pochopení, jak uživatelé používají naše webové stránky, abychom je mohli vylepšovat a opravovat jakékoliv problémy, které nastanou. Data z cookies, informace o zařízeních a IP adresy můžeme použít také k tomu, abychom porozuměli tomu, jak uživatelé pracují s našimi produkty, službami, komunikací, webovými stránkami, online kampaněmi, zařízeními a dalšími platformami. Sbíráme analytické informace a ukládáme analytické cookies pouze od vašeho souhlasu.
 
-## Consent section
-
-cookie-settings-your-consent-heading = Váš souhlas
-cookie-settings-your-consent-desc = Souhlasem se soubory cookie udělíte souhlas s následujícím seznamem webových stránek { -brand-name-mozilla(case: "gen") }, které dodržují stejné přísné standardy ochrany osobních údajů. Upozorňujeme, že tento seznam může být v průběhu času aktualizován.
-
 ## Privacy section
 
 cookie-settings-privacy-heading = Naše oznámení o ochraně osobních údajů

@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = Ti invieremo solo informazioni re
 newsletter-form-if-you-havent-previously = Potrebbe essere necessario confermare l’iscrizione se non sei già iscritto a una newsletter { -brand-name-mozilla }. Verifica se c’è un nostro messaggio nella posta in arrivo o nello spam.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + tu
 newsletter-form-get-firefox-tips = Ricevi suggerimenti, trucchi, notizie e altro ancora su { -brand-name-firefox }
-newsletter-form-keep-up-with = Rimani aggiornato su<br> tutto ciò che c’è da sapere su { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Ricevi aggiornamenti su { -brand-name-mozilla }
 newsletter-form-available-languages = Lingue disponibili
 newsletter-form-select-country = Scegli la nazione

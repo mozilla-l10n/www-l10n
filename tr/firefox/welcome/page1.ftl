@@ -10,7 +10,6 @@ welcome-page1-more-than-a-browser-mozilla = Bir tarayıcıdan daha fazlası. { -
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = { -brand-name-firefox } ürün ailesiyle çevrimiçi gizliliğinizi korumak için bir sonraki adımı atın.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Hacker’ların önüne geçin. { -brand-name-mozilla-monitor } ile veri ihlallerini kontrol edin.
-welcome-page1-youre-on-track-to-stay-protected = Doğru yoldasınız
 welcome-page1-youve-got-the-web-browser = Gizliliğinizi koruyan bir web tarayıcınız var. Şimdi hacker’lardan da korunma zamanı.
 welcome-page1-check-your-breach-report = İhlal raporunuzu kontrol edin
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

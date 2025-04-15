@@ -5,16 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
-# page title
-features-fingerprinting-what-is-fingerprinting-title = فنگر پرنٹنگ کیا ہے تے تساں ایں کوں کیوں بلاک کرݨ چاہسو
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = فنگر پرنٹنگ آن لائن ٹریکنگ دی ہک ونکی ہے جیڑھی عام کوکی تے مبنی ٹریکنگ کنوں زیادہ ناگوار ہے — ایں سانگے { -brand-name-firefox-browser } اونکوں روکیندا ہے۔
 features-fingerprinting-fingerprint-blocking = فنگر پرنٹ بلاک کرݨ
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } فنگر پرنٹنگ کوں بلاک کریندے
-features-fingerprinting-ditch-the-sticky = { -brand-name-firefox } براؤزر دے بلٹ ان فنگر پرنٹنگ بلاکرز دے نال اپݨے نیڑے تیڑے چمبڑیئے اشتہاراں کوں ختم کرو۔
-# description for the header image
-features-fingerprinting-every-fingerprint = ہر فنگرپرنٹ نویکلا ہوندے۔
-features-fingerprinting-download-firefox = { -brand-name-firefox } ڈاؤن لوڈ کرو
 features-fingerprinting-what-is-fingerprinting-body = فنگر پرنٹنگ کیا ہے؟
 features-fingerprinting-fingerprinting-is-a = فنگر پرنٹنگ آن لائن ٹریکنگ دی ہک ونکی ہے جیڑھی عام کوکی تے مبنی ٹریکنگ کنوں زیادہ ناگوار ہے۔ ہک ڈیجیٹل فنگر پرنٹ اوں وقت بݨدا ہے جݙاں کوئی کمپنی تہاݙے کمپیوٹر ہارڈویئر، سافٹ ویئر، ایڈ آنز تے اتنے تائیں جو ترجیحاں دی بنیاد تے تہاݙا منفرد پروفائل بݨیندی ہے۔ تہاݙیاں ترتیباں جیویں جو تساں جیڑھی سکرین استعمال کریندے او، تہاݙے کمپیوٹر تے انسٹال فونٹس، تے اتنے تائیں جو تہاݙے ویب براؤزر دا انتخاب، سبھے فنگر پرنٹ بݨاوݨ کیتے استعمال کیتے ونڄ سڳدے ہن۔
 features-fingerprinting-if-you-have = جے تہاݙے کول عام طور تے استعمال تھیوݨ والا لیپ ٹاپ، PC  یا سمارٹ فون ہے، تاں فنگر پرنٹنگ دے ذریعے اپݨے آلے دی منفرد سنڄاݨ کرݨ مشکل تھی سڳدا ہے۔ بھل جو، تہاݙے کول جتنے زیادہ منفرد ایڈ آنز، فونٹس تے ترتیباں ہوسن، تہاکوں ڳولݨ اتنا ای آسان ہوسے۔ کمپنیاں معلومات دے ایں ہنوکھڑے امتزاج کوں تہاݙے فنگر پرنٹ بݨاوݨ کیتے استعمال کر سڳدیاں ہن۔ ایہا وجہ ہے جو { -brand-name-firefox } معروف فنگر پرنٹنگ کوں روکیندا ہے، لہذا تساں اشتہارات دی پیروی کیتے بغیر وی اپݨیاں من بھانوݨیاں ایکسٹینشن، تھیمز تے حسب ضرورت استعمال کر سڳدے او۔
@@ -35,4 +29,3 @@ features-fingerprinting-the-latest-firefox = تازہ ترین { -brand-name-fir
 features-fingerprinting-and-its-not = تے ایہ کوئی گہری ترتیب کائنی جینکوں ڳولݨ کیتے تہاکوں ٹٹولݨ دی ضرورت ہے۔ تازہ ترین { -brand-name-firefox } براؤزر وِچ، فنگر پرنٹ بلاک کرݨ معیاری، ڈیفالٹ ترتیب ہے۔ اپݨے  <a { $url_protections }> پرائیویسی پروٹیکشنز ڈیش بورڈ </a> تے ونڄو ایہ ݙیکھݨ کیتے جو پردے دے پچھوں تہاکوں کیویں ٹریک کیتا ویندا پیا ہے تے کیویں { -brand-name-firefox } اونکوں روکیندا ہے۔
 # $url_download (string) - link to firefox/new
 features-fingerprinting-you-probably-wouldnt = تساں شاید کہیں اینجھے ڄݨے دی تعریف نہ کریسو جیڑھا حقیقی زندگی وِچ تہاݙی ٹور تے نظر رکھے۔ اونکوں آن لائن قبول کرݨ دی کوئی وجہ کائنی۔ جے تہاݙے کول پہلے کنوں { -brand-name-firefox } کائنی، تاں <a { $url_download }> کرو تے اپݨے آپ کوں ڈیجیٹل فنگر پرنٹنگ کنوں محفوظ رکھو </a>۔
-features-fingerprinting-protect = آپݨی رازداری دی حفاظت کرو

@@ -20,8 +20,5 @@ cookie-settings-i-do-not-agree = Nie zgadzam się
 ## Analytics cookies section
 
 
-## Consent section
-
-
 ## Privacy section
 

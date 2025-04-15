@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = 为您的企业选择 { -brand-name-firefox } { -brand-name-esr } 或快速发行版本
 firefox-enterprise-get-unmatched-data-protection = 选择适合企业的 { -brand-name-firefox }，以适合您的版本发行节奏，获得无与伦比的数据保护。下载延长支持（{ -brand-name-esr }） 或快速发行版。
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = 总览
-firefox-enterprise-downloads = 下载
 firefox-enterprise-get-firefox-for-your-enterprise = 为您的企业选择 { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

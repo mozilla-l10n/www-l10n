@@ -30,14 +30,7 @@ firefox-all-product-send-link = Cuir ceangal luchdaidh a-nuas dhan fhòn agad
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Tagh stàlaichear 32.biod do choimpiutairean sa bheil pròiseasar 32-biod – no do choimpiutairean a tha sean no aig nach eil mòran cumhachd. <a href="{ $url }">Mur eil thu cinnteach</a> an tagh thu stàlaichear 64-biod no 32-biod, mholamaid gun tagh thu 32-biod.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Luchdaich { $product_label } dha { $platform } ann a cànan { $locale }
 firefox-all-msi-installers = Stàlaichearan MSI
-firefox-all-which-version = Dè an tionndadh a thogras tu?
-firefox-all-select-your-preferred-installer = Tagh an stàlaichear as fheàrr leat
 firefox-all-select-your-preferred-language = Tagh an cànan as fheàrr leat
 firefox-all-learn-about-installers = Barrachd fiosrachaidh mu na stàlaichearan
 firefox-all-product-firefox = { -brand-name-firefox }

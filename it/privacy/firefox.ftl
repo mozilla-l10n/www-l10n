@@ -39,5 +39,3 @@ privacy-firefox-take-me-back = <a { $attrs }>Torna all’inizio</a> dell’infor
 # Variables:
 #   $attrs (string) - in-page link to the top of the page
 privacy-firefox-lost-in-the = Ti sei perso nei dettagli? Torna alle <a { $attrs }>informazioni di base sulla privacy di { -brand-name-firefox }</a>.
-# links to Mozilla privacy policy
-privacy-firefox-mozilla-privacy = Privacy { -brand-name-mozilla }

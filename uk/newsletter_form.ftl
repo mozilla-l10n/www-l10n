@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = Ми надсилатимемо �
 newsletter-form-if-you-havent-previously = Якщо ви раніше не підтвердили підписку на новини від { -brand-name-mozilla }, то вам, можливо, доведеться це зробити. Будь ласка, пошукайте наше повідомлення серед вхідних або небажаних листів.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Ви
 newsletter-form-get-firefox-tips = Отримуйте поради, підказки та новини про { -brand-name-firefox }
-newsletter-form-keep-up-with = Будьте в курсі всього,<br> що пов'язано з { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Отримувати новини { -brand-name-mozilla }
 newsletter-form-available-languages = Доступні мови
 newsletter-form-select-country = Виберіть країну

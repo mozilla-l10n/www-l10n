@@ -6,11 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/whatsnew/
 
 whatsnew-s2d-download-firefox-for-android = Загрузить { -brand-name-firefox } для { -brand-name-android } и { -brand-name-ios }
-whatsnew-s2d-want-privacy-on-every-device = Нужна приватность на всех устройствах?
-# "You got it" here is a casual answer to the previous question, "Want privacy on every device?"
-whatsnew-s2d-you-got-it-get-firefox-for = Не проблема. Загрузите мобильный { -brand-name-firefox }.
-# Line break is for visual formatting only
-whatsnew-s2d-send-firefox-to-your-phone = Отправьте { -brand-name-firefox } на ваш телефон<br> и раскройте всю мощь Интернета.
 whatsnew-s2d-download-firefox-for-your = Загрузите { -brand-name-firefox } для вашего смартфона или планшета.
 # An accessible label for a QR code image
 whatsnew-s2d-qr-code-alt = Просканируйте этот QR-код

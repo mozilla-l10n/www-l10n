@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Ilmainen verkkoselain
-new-platform-download-firefox = Lataa { -brand-name-firefox }
 new-platform-download-the-fastest = Lataa nopein { -brand-name-firefox } koskaan
 new-platform-faster-page-loading = Nopeampi sivunlataus. Pienempi muistinkäyttö. Täynnä ominaisuuksia. Uusi { -brand-name-firefox } on täällä.
 new-platform-2x-faster = 2x nopeampi
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Lataa { -brand-name-mozilla } { -bran
 new-platform-download-the-fastest-linux = Lataa nopein { -brand-name-firefox } { -brand-name-linux }ille koskaan
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Nopeampi sivujen latausaika, pienempi keskusmuistin käyttö ja runsaat ominaisuudet – uusi { -brand-name-firefox } { -brand-name-linux }ille on täällä.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } { -brand-name-linux }ille
 new-platform-privacy-more-than = Yksityisyys - enemmän kuin käytäntö
 new-platform-your-life-your-business = Sinun elämäsi, sinun tapasi. { -brand-name-firefox } estää kolmansien osapuolten seurainevästeet { -brand-name-linux }illa.
 new-platform-speed-meet-security = Nopeus, kohtaa turvallisuus. { -brand-name-firefox } on kaksi kertaa nopeampi ja käyttää 30 prosenttia vähemmän muistia kuin { -brand-name-chrome }.

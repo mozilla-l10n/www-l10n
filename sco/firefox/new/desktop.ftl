@@ -21,23 +21,6 @@ firefox-desktop-download-download-options = Doonload options and ither leids
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } support
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Dae whit ye dae online.<br> { -brand-name-firefox-browser } <strong>isnae</strong> watchin.
-firefox-desktop-download-how-firefox-compares = How { -brand-name-firefox } compares tae ither stravaigers
-firefox-desktop-download-get-all-the-speed = Get aw the speed and tools wi nane o the invasions o privacy. { -brand-name-firefox-browser } gaithers sic little data aboot ye, we dinnae even need yer email address tae doonload. That’s cause unlike ither stravaigers, we hivnae onie financial stake in follaein ye aroond the wab.
-firefox-desktop-download-how-we-compare = How we compare tae ither stravaigers
-firefox-desktop-download-compare-firefox-to = Compare { -brand-name-firefox } tae:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Aye
-firefox-desktop-download-no = Naw
-firefox-desktop-download-blocks-third-party = Blocks third-pairty trackin cookies
-firefox-desktop-download-blocks-third-party-default = Blocks third-pairty trackin cookies as staunart
-firefox-desktop-download-autoplay-blocking = Autopley blockin
-firefox-desktop-download-blocks-social-trackers = Blocks social trackers
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = OS availability
-firefox-desktop-download-in-browser-screenshot = In-stravaiger screenshot tool
-firefox-desktop-download-primary-password = Primary passwird
 firefox-desktop-download-we-block-the-ad = We block the ad trackers. You stravaig the internet faster.
 firefox-desktop-download-ads-are-distracting = Ads are distractin and mak wab pages load slower while their trackers tak tent o ilka muive ye mak online. The { -brand-name-firefox-browser } blocks maist trackers automatically, sae there’s nae need tae gang howkin intae yer siccarness settins.
 firefox-desktop-download-see-your-report = Hae a deek at yer bieldin report
@@ -154,18 +137,12 @@ firefox-desktop-download-in-another-language = Doonload in anither leid or fur a
 firefox-desktop-download-if-you-see-a-prompt = If you see a prompt sayin that the app ye’re ettlin tae instaw isnae a { -brand-name-microsoft }-verified app, click “Instaw onywey” or <a { $attrs }>chynge app recommendation settins</a>.
 firefox-desktop-download-visit-support-for-more = Veesit Support fur Mair Details
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">nae langer provides siccarness updates</a> on { -brand-name-windows } { -brand-name-xp } or { -brand-name-vista }, but ye can still yaise { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Yer doonload should stert automatically. Didnae wirk? <a id="{ $id }" href="{ $fallback_url }">Gie doonloadin anither shot.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } is mair than a stravaiger.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Yer doonload wis interruptit. But it's no gemme's a bogey jist yet.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Gonnae follae <a href="{ $url }">these instructions</a> fur tae instaw { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Yer system micht no match the requirements fur { -brand-name-firefox }, but ye can try yin o <a href="{ $url }">these versions</a>.

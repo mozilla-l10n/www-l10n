@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = Last ned { -brand-name-firefox } for virksomheten din med { -brand-name-esr } og Rapid Release
 firefox-enterprise-get-unmatched-data-protection = Få uovertruffen databeskyttelse og en utgivelsesfrekvens som passer deg med { -brand-name-firefox } for virksomheter. Last ned { -brand-name-esr } og Rapid Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Oversikt
-firefox-enterprise-downloads = Nedlastinger
 firefox-enterprise-get-firefox-for-your-enterprise = Få { -brand-name-firefox } for virksomheten din
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = <strong>Fier jo e-mailadres yn</strong> om in { -
 fxa-form-by-proceeding = Troch fierder te gean, geane jo akkoard mei de <a href="{ $url1 }">Servicebetingsten</a> en <a href="{ $url2 }">Privacyferklearring</a>.
 fxa-form-email-address = E-mailadres
 fxa-form-continue = Trochgean
-fxa-form-create-account = Account oanmeitsje
-fxa-form-get-the-app = Download de app

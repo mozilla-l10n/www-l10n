@@ -8,25 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Преузмите { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Придружите се листи чекања
-vpn-shared-available-countries-v6 = { -brand-name-mozilla-vpn } је тренутно доступан у Аустрији, Белгији, Бугарској, Канади, Хрватској, Кипру, Чешкој, Данској, Естонији, Финској, Француској, Немачкој, Мађарској, Ирској, Италији, Летонији, Литванији, Луксембургу, Малезији, Малти, Холандији, Новом Зеланду, Пољској, Португалу, Румунији, Сингапуру, Словенији, Словачкој, Шпанији, Шведској, Швајцарској, Великој Британији и Сједињеним Америчким Државама.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-дневна гаранција поврата новца
-vpn-shared-features-encrypt = Шифровање на нивоу уређаја
-vpn-shared-features-bandwidth = Без ограничења пропусног опсега
-vpn-shared-features-activity = Без бележења ваших веб активности
-vpn-shared-features-activity-logs = Без икаквог бележења ваших веб активности
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = Приступ серверима у преко { $countries } земаља
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = Заштитите до { $devices } уређаја
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = Моћни сервери у више од { $countries } земаља
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = Повежите до { $devices } уређаја
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30-дневна гаранција поврата новца
 vpn-shared-privacy-notice = Обавештење о приватности
@@ -65,12 +48,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } још
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = Започнимо
 vpn-shared-platform-cta-button = Погледајте ценовник и доступност
-vpn-shared-platform-privacy-promise = Ваша приватност је наша обавеза
 vpn-shared-platform-what-is = Шта је { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Зашто { -brand-name-mozilla-vpn }?
-vpn-shared-platform-what-youll-get = Шта добијате са { -brand-name-mozilla-vpn }-ом:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Сазнајте више о VPN-овима

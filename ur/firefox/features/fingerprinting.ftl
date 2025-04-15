@@ -5,8 +5,4 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
-# description for the header image
-features-fingerprinting-every-fingerprint = ہر فنگر پرنٹ منفرد ہوتا ہے
-features-fingerprinting-download-firefox = { -brand-name-firefox } ڈائونلوڈ کریں
 features-fingerprinting-what-is-fingerprinting-body = فنگر پرنٹنگ کیا ہے؟
-features-fingerprinting-protect = اپنی رازداری کی حفاظت کریں

@@ -8,7 +8,6 @@
 compare-shared-compare-firefox = Compara { -brand-name-firefox }
 compare-shared-footer-cta-title = Haz más con { -brand-name-firefox }
 compare-shared-footer-cta-desc = Obtén el navegador rápido, liviano y centrado en la privacidad, respaldado por una organización sin fines de lucro y que funciona en todos tus dispositivos.
-compare-shared-footer-cta-button = Bajar { -brand-name-firefox }
 compare-shared-we-also-offer-easy = También ofrecemos funcionalidades fáciles de usar como:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } también tiene herramientas integradas como:
 # Variables

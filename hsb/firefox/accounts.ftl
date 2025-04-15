@@ -26,7 +26,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Hesła składować a sy
 firefox-accounts-get-email-alerts = Dóstańće e-mejlowe warnowanja, hdyž so waše informacije w znatej datowej dźěrje jewja
 firefox-accounts-protect-your-identity = Škitajće swoju identitu z wěstym telefonowym a e-mejlowym maskowanjom
 firefox-accounts-keep-your-passwords = Škitajće swoje hesła a wzmiće je wšudźe sobu.
-firefox-accounts-get-a-lookout-for = Rozhladujće so za datowymi dźěrami.
 firefox-accounts-travel-the-internet = Pohibujće so ze škitom na kóždym graće po interneće.
 firefox-accounts-encrypt-your = Zaklučujće swoju syćowu aktiwitu a schowajće swoju IP-adresu
 firefox-accounts-we-never = Waše syćowe daty ženje njeprotokolujemy, njeslědujemy abo njedźělimy
@@ -38,6 +37,5 @@ firefox-accounts-get-it-all-on-every = Přinjesće wšitko na kóždy grat - wš
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

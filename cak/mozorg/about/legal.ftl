@@ -9,7 +9,3 @@ legal-terms = Taq ojqanem
 legal-firefox-services = { -brand-name-firefox } Taq Samaj
 legal-firefox = { -brand-name-firefox }
 legal-thunderbird = { -brand-name-thunderbird }
-legal-firefox-better-web = { -brand-name-firefox-better-web }
-legal-firefox-better-web-terms = { -brand-name-firefox-better-web } Rojqanem Samaj
-legal-firefox-private-network-terms = { -brand-name-firefox-private-network } Taq Rojqanem Samaj
-legal-mozilla-vpn-terms = { -brand-name-mozilla-vpn } Taq Rojqanem Samaj

@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = Decindo que sí, yes d'acuerdo con os <a href="{ $url1 }">termins d'o servicio</a> y la <a href="{ $url2 }">nota de privacidat</a>.
 fxa-form-email-address = Adreza de correu
 fxa-form-continue = Continar
-fxa-form-create-account = Crear una cuenta
-fxa-form-get-the-app = Obtener l'aplicación

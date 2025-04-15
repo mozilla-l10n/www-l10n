@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = { -brand-name-mozilla-account } بݨاوݨ کیت
 fxa-form-by-proceeding = اڳوں تے ودھ کے، تسان <a href="{ $url1 }"> سروس دیاں شرطاں </a> تے <a href="{ $url2 }"> رازداری دے نوٹس </a> نال اتفاق کریندے او۔
 fxa-form-email-address = ای میل پتہ
 fxa-form-continue = جاری
-fxa-form-create-account = کھاتہ بݨاؤ
-fxa-form-get-the-app = ایپ گھنو

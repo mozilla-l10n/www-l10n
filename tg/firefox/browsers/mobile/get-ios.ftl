@@ -9,6 +9,5 @@
 get-ios-firefox-for-ios = Браузери «{ -brand-name-firefox-browser }» барои низоми «{ -brand-name-ios }»
 # HTML page description
 get-ios-firefox-is-fast = «{ -brand-name-firefox }» барои «{ -brand-name-ios }» — аз оғози кор зуд, бехатар ва хусусӣ мебошад.
-get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = Боргирӣ кардани «{ -brand-name-firefox }» дар «{ -brand-name-ios }»
 get-ios-firefox-mobile-adapts = Версияи мобилии «{ -brand-name-firefox }» ба ниёзҳои шумо мутобиқ мешавад ва дидани ҳамаи варақаҳои кушодашудаи шумо, ҷустуҷӯҳои охирин ва сомонаҳои дӯстдоштаи шумо осонтар мекунад.

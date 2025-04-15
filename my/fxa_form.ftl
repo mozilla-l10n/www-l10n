@@ -4,5 +4,3 @@
 
 fxa-form-email-address = အီးမေးလ်လိပ်စာ
 fxa-form-continue = ဆက်၍
-fxa-form-create-account = အကောင့်ဖန်တီးပါ
-fxa-form-get-the-app = အက်ပ်ကို ရယူပါ

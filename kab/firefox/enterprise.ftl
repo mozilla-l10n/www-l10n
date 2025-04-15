@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = Awi { -brand-name-firefox } i tkebbanit-inek s { -brand-name-esr } d Rapid Release
 firefox-enterprise-get-unmatched-data-protection = Awi ammesten n yisefka ur nesɛi tamtilt deg unya n lqem i ak-ilaqen akked { -brand-name-firefox } i tkebbanit. Sader { -brand-name-esr } d Rapid Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Tazwert
-firefox-enterprise-downloads = Isidar
 firefox-enterprise-get-firefox-for-your-enterprise = Awi-d { -brand-name-firefox } i tkebbanit-inek
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

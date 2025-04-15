@@ -9,7 +9,6 @@
 
 ## Company names
 
--brand-name-amazon = Amazon
 -brand-name-apple = Apple
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook =
@@ -23,12 +22,10 @@
     }
 -brand-name-github = GitHub
 -brand-name-google = Google
--brand-name-hulu = Hulu
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
--brand-name-mullvad = Mullvad
 -brand-name-netscape = Netscape
 -brand-name-twitter =
     { $case ->
@@ -43,7 +40,6 @@
 -brand-name-linkedin = LinkedIn
 -brand-name-tiktok = TikTok
 -brand-name-spotify = Spotify
--brand-name-mastodon = Mastodon
 
 ## Firefox browsers
 
@@ -89,13 +85,7 @@
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = Aurora
--brand-name-firefox-daylight = Firefox Daylight
--brand-name-daylight = Daylight
 -brand-name-firefox-quantum = Firefox Quantum
--brand-name-firefox-lite = Firefox Lite
--brand-name-lite = Lite
--brand-name-firefox-reality = Firefox Reality
--brand-name-reality = Reality
 
 ## Firefox products
 
@@ -110,16 +100,6 @@
        *[nominative] Инструменты разработчика Firefox
     }
 -brand-name-firefox-relay = Firefox Relay
--brand-name-firefox-relay-premium = Firefox Relay Premium
--brand-name-firefox-sync =
-    { $case ->
-        [genitive] Синхронизации Firefox
-        [dative] Синхронизации Firefox
-        [accusative] Синхронизацию Firefox
-        [instrumental] Синхронизацией Firefox
-        [prepositional] Синхронизации Firefox
-       *[nominative] Синхронизация Firefox
-    }
 -brand-name-firefox-translations = Firefox Translations
 
 ## Firefox products (short names)
@@ -134,17 +114,6 @@
        *[nominative] Инструменты разработчика
     }
 -brand-name-relay = Relay
--brand-name-relay-premium = Relay Premium
--brand-name-sync =
-    { $case ->
-        [genitive] Синхронизации
-        [dative] Синхронизации
-        [accusative] Синхронизацию
-        [instrumental] Синхронизацией
-        [prepositional] Синхронизации
-        [verb] Синхронизируйте
-       *[nominative] Синхронизация
-    }
 
 ## Firefox products (legacy)
 
@@ -166,14 +135,9 @@
         [prepositional] Аккаунтах Firefox
        *[nominative] Аккаунты Firefox
     }
--brand-name-firefox-better-web = Firefox Better Web
--brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
--brand-name-firefox-send = Firefox Send
--brand-name-send = Send
 -brand-name-firefox-private-network = Firefox Private Network
--brand-name-fpn = FPN
 
 ## Firefox projects
 
@@ -197,7 +161,6 @@
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
 -brand-name-irl-podcast = Подкаст IRL
--brand-name-llamafile = Llamafile
 -brand-name-solo-ai = Solo AI
 -brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
@@ -210,13 +173,11 @@
         [prepositional] Веб-документации MDN
        *[nominative] Веб-документация MDN
     }
--brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-festival = Фестиваль Mozilla
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account = Аккаунт Mozilla
 -brand-name-mozilla-accounts = Аккаунты Mozilla
--brand-name-mozilla-social = Mozilla.social
 -brand-name-mozilla-builders = Mozilla Builders
 -brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
@@ -229,24 +190,9 @@
 -brand-name-common-voice = Common Voice
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
--brand-name-vpn = VPN
 
 ## Mozilla projects (legacy)
 
--brand-name-mozilla-developer-network = Сеть разработчиков Mozilla
--brand-name-mozilla-labs = Mozilla Labs
--brand-name-hubs = Клубы
--brand-name-lockwise = Lockwise
--brand-name-lightbeam = Lightbeam
--brand-name-maker-party =
-    { $case ->
-        [genitive] Встречи Создателей
-        [dative] Встрече Создателей
-        [accusative] Встречу Создателей
-        [instrumental] Встречей Создателей
-        [prepositional] Встрече Создателей
-       *[nominative] Встреча Создателей
-    }
 -brand-name-webmaker =
     { $case ->
         [genitive] Вебмейкера
@@ -260,7 +206,6 @@
 ## Open Source projects
 
 -brand-name-rust = Rust
--brand-name-webassembly = WebAssembly
 
 ## Other browsers
 
@@ -270,7 +215,6 @@
 -brand-name-ie = Internet Explorer
 -brand-name-opera = Opera
 -brand-name-safari = Safari
--brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
@@ -280,10 +224,7 @@
 -brand-name-linux = Linux
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
--brand-name-ubuntu = Ubuntu
--brand-name-vista = Vista
 -brand-name-windows = Windows
--brand-name-xp = XP
 
 ## Apple products
 
@@ -304,7 +245,6 @@
         [prepositional] Инстаграме
        *[nominative] Инстаграм
     }
--brand-name-messenger = Messenger
 -brand-name-workplace = Workplace
 
 ## Google products

@@ -29,23 +29,6 @@ firefox-desktop-download-browser-support = Υποστήριξη { -brand-name-fi
 firefox-desktop-download-do-what-you-do-v2 = Κάντε ό,τι θέλετε στο διαδίκτυο.<br>Το { -brand-name-firefox-browser } σάς <strong>προστατεύει</strong>.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Κάντε ό,τι θέλετε στο διαδίκτυο.<br>Το { -brand-name-firefox-browser } <strong>δεν</strong> σας παρακολουθεί.
-firefox-desktop-download-how-firefox-compares = Σύγκριση του { -brand-name-firefox } με αντίστοιχα προγράμματα
-firefox-desktop-download-get-all-the-speed = Αποκτήστε την ταχύτητα και τα εργαλεία χωρίς παραβίαση του απορρήτου. Το { -brand-name-firefox-browser } συλλέγει ελάχιστα δεδομένα· δεν χρειαζόμαστε καν το email σας για λήψη. Σε αντίθεση με άλλα προγράμματα περιήγησης, δεν έχουμε κανένα οικονομικό συμφέρον από την παρακολούθηση των κινήσεών σας στον ιστό.
-firefox-desktop-download-how-we-compare = Τρόπος σύγκρισης με άλλους φυλλομετρητές
-firefox-desktop-download-compare-firefox-to = Σύγκριση του { -brand-name-firefox } με:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Ναι
-firefox-desktop-download-no = Όχι
-firefox-desktop-download-blocks-third-party = Φραγή τρίτων cookies καταγραφής
-firefox-desktop-download-blocks-third-party-default = Φραγή cookies καταγραφής τρίτων από προεπιλογή
-firefox-desktop-download-autoplay-blocking = Φραγή αυτόματης αναπαραγωγής
-firefox-desktop-download-blocks-social-trackers = Φραγή ιχνηλατών κοινωνικής δικτύωσης
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = Διαθεσιμότητα ΛΣ
-firefox-desktop-download-in-browser-screenshot = Ενσωματωμένο εργαλείο στιγμιότυπων οθόνης
-firefox-desktop-download-primary-password = Κύριος κωδικός πρόσβασης
 firefox-desktop-download-we-block-the-ad = Ταχύτερη εξερεύνηση του ιστού, χωρίς ιχνηλάτες διαφημίσεων.
 firefox-desktop-download-ads-are-distracting = Οι διαφημίσεις αποσπούν την προσοχή σας και επιβραδύνουν τη φόρτωση των ιστοσελίδων, ενώ οι ιχνηλάτες τους καταγράφουν την κάθε σας κίνηση στο διαδίκτυο. Το { -brand-name-firefox-browser } αποκλείει αυτόματα τους περισσότερους ιχνηλάτες, επομένως δεν χρειάζεται να ψάχνετε μέσα στις ρυθμίσεις ασφαλείας σας.
 firefox-desktop-download-see-your-report = Προβολή αναφοράς προστασίας
@@ -149,7 +132,6 @@ firefox-desktop-download-firefox-automatically = Το { -brand-name-firefox } <a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Έχετε απορίες; Η <a { $attrs }>Υποστήριξη { -brand-name-mozilla }</a> είναι εδώ για σας.
-firefox-desktop-download-watch-for-hackers-with-v3 = Προφυλαχτείτε από τους hacker με το { -brand-name-mozilla-monitor }, προστατέψτε τη διεύθυνση email σας με το { -brand-name-firefox-relay } και πολλά άλλα.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -172,18 +154,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = Αν δείτε ένα μήνυμα που δηλώνει ότι η εφαρμογή που προσπαθείτε να εγκαταστήσετε δεν είναι επαληθευμένη από τη { -brand-name-microsoft }, κάντε κλικ στο “Εγκατάσταση” ή <a { $attrs }>αλλάξτε τις ρυθμίσεις προτάσεων εφαρμογών</a>.
 firefox-desktop-download-visit-support-for-more = Επισκεφτείτε την Υποστήριξη για περισσότερες λεπτομέρειες
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = Η { -brand-name-mozilla } <a href="{ $url }">δεν παρέχει πλέον ενημερώσεις ασφαλείας</a> στα { -brand-name-windows } { -brand-name-xp } ή στα { -brand-name-vista }, αλλά μπορείτε ακόμα να χρησιμοποιήσετε το { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Η λήψη θα ξεκινήσει αυτόματα. Δεν άρχισε; <a id="{ $id }" href="{ $fallback_url }">Νέα δοκιμή λήψης.</a>
 firefox-new-firefox-is-more-than-a-browser = Το { -brand-name-firefox } είναι κάτι περισσότερο από ένα πρόγραμμα περιήγησης.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Η λήψη σας διακόπηκε. Αλλά δεν έχουν χαθεί όλα.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Ακολουθήστε <a href="{ $url }">αυτές τις οδηγίες</a> για να εγκαταστήσετε το { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Το σύστημά σας ενδέχεται να μην πληροί τις απαιτήσεις του { -brand-name-firefox }, αλλά μπορείτε να δοκιμάσετε κάποια από <a href="{ $url }">αυτές τις εκδόσεις</a>.

@@ -39,11 +39,6 @@ cookie-settings-category-analytics-what-are-subheading = Wat zijn analytische co
 cookie-settings-category-analytics-what-are-desc = Deze technologieën verzamelen gegevens over hoe mensen websites gebruiken, zoals bezochte pagina’s, aangeklikte koppelingen, en van welke andere websites bezoeken afkomstig zijn.
 cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } gebruikt analytische gegevens om te begrijpen hoe gebruikers interactie hebben met onze websites, zodat we ze kunnen verbeteren en eventuele problemen kunnen oplossen. We verzamelen mogelijk ook gegevens van cookies, apparaatgegevens en IP-adressen om ons te helpen begrijpen hoe gebruikers onze producten, services, communicatieberichten, websites, online campagnes, apparaten en andere platforms gebruiken. We verzamelen analytische gegevens en plaatsen analytische cookies alleen met uw toestemming.
 
-## Consent section
-
-cookie-settings-your-consent-heading = Uw toestemming
-cookie-settings-your-consent-desc = Door akkoord te gaan met cookies wordt uw toestemming verleend voor de volgende lijst van { -brand-name-mozilla }-websites, die allemaal dezelfde strenge normen voor gegevensprivacy volgen. Merk op dat deze lijst in de loop van de tijd kan worden bijgewerkt.
-
 ## Privacy section
 
 cookie-settings-privacy-heading = Onze privacyverklaring

@@ -7,7 +7,6 @@
 
 compare-shared-compare-firefox = Serwes { -brand-name-firefox }
 compare-shared-footer-cta-title = Eg ugar d { -brand-name-firefox }
-compare-shared-footer-cta-button = Sader { -brand-name-firefox }
 compare-shared-its-easy-to-switch = Yeshel ad tbeddleḍ
 # Used as a small link to a cited source
 compare-shared-source = aɣbalu

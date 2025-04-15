@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = 우리는 { -brand-name-firefox }
 newsletter-form-if-you-havent-previously = { -brand-name-mozilla } 관련 뉴스레터에 이전에 구독하신 적이 없으시다면, 지금 시작해 보세요. 저희 메일이 스팸함에 있을지 모르니, 확인해 보시기 바랍니다.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + 사용자
 newsletter-form-get-firefox-tips = { -brand-name-firefox } 팁, 트릭, 뉴스 등
-newsletter-form-keep-up-with = { -brand-name-firefox }에 대한<br> 소식을 전해드립니다.
 newsletter-form-get-mozilla-updates = { -brand-name-mozilla } 뉴스
 newsletter-form-available-languages = 언어별
 newsletter-form-select-country = 국가 선택

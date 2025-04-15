@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Provoni Veçoritë e Reja me një Ve
 firefox-channel-download-and-test-future = Shkarkoni dhe provoni hedhjet e ardhshme në qarkullim të { -brand-name-firefox }-it për desktop, { -brand-name-android } dhe { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Shihni veçoritë e fjalës së fundit, me një version paraqarkullim të shfletuesit për { -brand-name-android }: { -brand-name-firefox-beta } dhe { -brand-name-firefox-nightly }. Instalojeni që tani!
 firefox-channel-experience-cutting-edge-android = Shihni veçoritë e fjalës së fundit, me një version paraqarkullim të shfletuesit për { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } dhe { -brand-name-firefox-nightly }. Instalojeni që tani!
-firefox-channel-download-and-test-the-latest-android = Shkarkoni dhe provoni veçoritë më të reja të { -brand-name-firefox }-it për { -brand-name-android }, me montime { -brand-name-aurora }, { -brand-name-beta } dhe { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Provoni veçoritë më të reja për { -brand-name-android }, përpara se t’i jepen botës.
 firefox-channel-all-languages-and-platforms = Krejt Gjuhët dhe Platformat
 firefox-channel-all-languages-and-builds = Krejt Gjuhët dhe Montimet
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = Blog për montimet { -brand-name-nightly }
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } është një platformë e paqëndrueshme testimesh dhe zhvillimi. Si parazgjedhje, { -brand-name-nightly } dërgon të dhëna te { -brand-name-mozilla } — dhe me raste edhe te partnerë tanët — për të na ndihmuar të trajtojmë probleme dhe të provojmë ide. <a href="{ $link }">Mësoni se ç’ndahet me të tjerët</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } i dërgon vetvetiu të dhëna { -brand-name-mozilla }-s.
-firefox-channel-try-new-browser-features = Provoni Veçoritë e Reja me një Version Paraqarkullim | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Shihni veçoritë e fjalës së fundit, me një version paraqarkullim të shfletuesit: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta }, Firefox Aurora dhe { -brand-name-firefox-nightly }. Shkarkojeni që tani!
 firefox-channel-download-and-test-the-latest-desktop = Shkarkoni dhe provoni veçoritë më të reja të { -brand-name-firefox }-it për desktop, me montime { -brand-name-developer-edition }, { -brand-name-beta } dhe { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

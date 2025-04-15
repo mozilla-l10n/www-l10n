@@ -7,17 +7,6 @@
 
 # HTML page title
 manifesto-the-mozilla-manifesto = Forógra { -brand-name-mozilla }
-manifesto-transparent-community = Cuirtear rannpháirtíocht, freagracht, agus iontaofacht chun cinn trí phróisis thrédhearcacha phobalbhunaithe.
-manifesto-01 = 01
-manifesto-02 = 02
-manifesto-03 = 03
-manifesto-04 = 04
-manifesto-05 = 05
-manifesto-06 = 06
-manifesto-07 = 07
-manifesto-08 = 08
-manifesto-09 = 09
-manifesto-10 = 10
 manifesto-our-10-principles = Na <strong>10</strong> bPrionsabal
 manifesto-read-the-entire-manifesto = Léigh an forógra iomlán
 manifesto-details-the-mozilla-manifesto = Forógra { -brand-name-mozilla }

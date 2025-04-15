@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = { -brand-name-firefox } sćahnyć
 navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstarać
 navigation-v2-menu = Meni
 
@@ -74,10 +73,6 @@ navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-editio
 navigation-v2-get-the-firefox-browser-built = Wobstarajće sej wobhladowak { -brand-name-firefox }, jenož za wuwiwarjow wutworjeny.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = Wopytajće strony z resursami za webwuwiwarjow.
-navigation-v2-firefox-reality = { -brand-name-firefox-reality }
-navigation-v2-explore-the-web-with-the = Wuslědźće web z wobhladowakom { -brand-name-firefox } za wirtuelnu realitu.
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Darće swój hłós, zo by přichod weba móže na kóždeho słuchać.
-navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-learn-more-about-the-new = Zhońće wjace wo nowej rěči podobnej na Assembler na niskej runinje.
 navigation-v2-mozilla-innovation-projects = Inowaciske projekty { -brand-name-mozilla }

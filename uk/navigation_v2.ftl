@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = Завантажити { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Отримати { -brand-name-mozilla-vpn }
 navigation-v2-menu = Меню
 
@@ -76,11 +75,7 @@ navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-editio
 navigation-v2-get-the-firefox-browser-built = Отримати створений спеціально для розробників браузер { -brand-name-firefox }.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = Завітайте до домівки джерел для веброзробників.
-navigation-v2-firefox-reality = { -brand-name-firefox-reality }
-navigation-v2-explore-the-web-with-the = Досліджуйте Інтернет за допомогою браузера { -brand-name-firefox } для віртуальної реальності.
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Подаруйте свій голос, щоб майбутнє Інтернету могло почути всіх.
-navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-learn-more-about-the-new = Дізнайтеся більше про нову, низькорівневу, подібну до асемблера мову.
 navigation-v2-mozilla-innovation-projects = Інноваційні проєкти { -brand-name-mozilla }
 navigation-v2-discover-ways-to-bring = Відкрийте для себе способи втілення яскравих ідей.

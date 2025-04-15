@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = Chúng tôi sẽ chỉ gửi cho 
 newsletter-form-if-you-havent-previously = Nếu bạn chưa xác nhận đăng kí các thư mới liên quan đến { -brand-name-mozilla } thì bạn phải xác nhận lại. Hãy kiểm tra email của chúng tôi trong hộp thư đến của bạn hoặc tìm trong hộp thư spam.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Bạn
 newsletter-form-get-firefox-tips = Lấy những lời khuyên, mẹo, tin tức và hơn thế nữa về { -brand-name-firefox }
-newsletter-form-keep-up-with = Cập nhật mọi thứ<br> từ { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Tải cập nhật của { -brand-name-mozilla }
 newsletter-form-available-languages = Ngôn ngữ sẵn có
 newsletter-form-select-country = Chọn quốc gia

@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = { -brand-name-firefox } თქვენი დაწესებულებისთვის { -brand-name-esr } ან სწრაფი გამოშვებით
 firefox-enterprise-get-unmatched-data-protection = მიიღეთ მონაცემთა უბადლო დაცვა გამოშვების სასურველი სიხშირით, დაწესებულებისთვის განკუთვნილ { -brand-name-firefox }-ზე. ჩამოტვირთეთ { -brand-name-esr } და სწრაფი გამოშვება.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = მიმოხილვა
-firefox-enterprise-downloads = ჩამოტვირთვა
 firefox-enterprise-get-firefox-for-your-enterprise = { -brand-name-firefox } თქვენი დაწესებულებისთვის
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

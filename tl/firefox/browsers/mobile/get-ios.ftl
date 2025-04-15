@@ -9,5 +9,4 @@
 get-ios-firefox-for-ios = { -brand-name-firefox-browser } para sa { -brand-name-ios }
 # HTML page description
 get-ios-firefox-is-fast = Ang { -brand-name-firefox } para sa { -brand-name-ios } ay mabilis, ligtas at pribado mula sa unang pagkakataon na buksan mo ito.
-get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = I-download ang { -brand-name-firefox } para sa { -brand-name-ios }

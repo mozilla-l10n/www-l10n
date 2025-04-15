@@ -7,7 +7,6 @@
 
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Ɛeddi ɣer umecwaṛ i d-iteddun i ummesten n tudert-ik:im tabaḍnit srid s twacult n yifarisen { -brand-name-firefox }.
-welcome-page1-youre-on-track-to-stay-protected = Aql-ak·akem deg ubrid yelhan akken ad teqqimeḍ kan temmestneḍ
 welcome-page1-youve-got-the-web-browser = Tesεiḍ iminig web yettqadaren tudert-ik·im tabaḍnit — tura  lawan n unadi ɣef yimakaren.
 welcome-page1-check-your-breach-report = Senqed aneqqis-ik·im n trewla
 welcome-page1-stay-ahead-of-hackers = Ili-k·ikem d (t)amezwaru(t) ɣef yimakaren

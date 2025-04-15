@@ -30,14 +30,7 @@ firefox-all-product-send-link = የማውረጃ አገናኝ ወደ ስልክዎ
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = ባለ 32-ቢት ማቀናጃን ለባለ 32-ቢት መከወኛ ኮምፒውተሮች - ወይም ለቀድሞዎቹ እና አነስተኛ አቅም ላላቸው ኮምፒውተሮች ይምረጡ። <a href="{ $url }">እርግጠኛ ካልሆኑ ግን</a> ባለ 64-ቢት ወይስ ባለ 32-ቢት ማቀናጃ እንደሚሻልዎት፤ ባለ 32-ቢት ቢጠቀሙ የተሻለ ነው።
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = { $product_label } ለ { $platform } በ { $locale } ጫን
 firefox-all-msi-installers = MSI ማቀናጃዎች
-firefox-all-which-version = የትኛውን የምርት ስሪት ይፈልጋሉ?
-firefox-all-select-your-preferred-installer = የሚፈልጉትን ማቀናጃ ይምረጡ
 firefox-all-select-your-preferred-language = የሚፈልጉትን ቋንቋ ይምረጡ
 firefox-all-learn-about-installers = ሰለ ማቀናጃዎች ይወቁ
 firefox-all-product-firefox = { -brand-name-firefox }

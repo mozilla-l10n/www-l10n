@@ -39,5 +39,3 @@ privacy-firefox-take-me-back = Wróć <a { $attrs }>do początku</a> zasad prywa
 # Variables:
 #   $attrs (string) - in-page link to the top of the page
 privacy-firefox-lost-in-the = Zagubiłeś się w szczegółach? Wróć do <a { $attrs }>podstaw prywatności { -brand-name-firefox(case: "gen") }</a>.
-# links to Mozilla privacy policy
-privacy-firefox-mozilla-privacy = { -brand-name-mozilla } a prywatność

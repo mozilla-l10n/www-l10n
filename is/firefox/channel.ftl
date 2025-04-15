@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Prófaðu nýjustu tækni í forútg
 firefox-channel-download-and-test-future = Sæktu og prófaðu framtíðarútgáfur af { -brand-name-firefox } fyrir vinnutölvur, { -brand-name-android } og { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Prófaðu nýjustu tækni í forútgáfu af vafranum fyrir { -brand-name-android }: { -brand-name-firefox-beta } og { -brand-name-firefox-nightly }. Byrjaðu uppsetningu strax!
 firefox-channel-experience-cutting-edge-android = Prófaðu nýjustu tækni í forútgáfu af vafranum fyrir { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } og { -brand-name-firefox-nightly }. Byrjaðu uppsetningu strax!
-firefox-channel-download-and-test-the-latest-android = Sæktu og prófaðu nýjustu eiginleikana í { -brand-name-firefox } fyrir { -brand-name-android } með { -brand-name-aurora }, { -brand-name-beta } og { -brand-name-nightly } afbrigðunum.
 firefox-channel-try-the-latest-android-features = Prófaðu nýjustu { -brand-name-android } útgáfuna, áður en hún fer í almenna dreifingu.
 firefox-channel-all-languages-and-platforms = Öll tungumál og útgáfur
 firefox-channel-all-languages-and-builds = Öll tungumál og útgáfur
@@ -28,7 +27,6 @@ firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }
 firefox-channel-check-out-new-android-features = Kíktu á nýja hluti í { -brand-name-android } sem eru ennþá á byrjunarstigi. Prófaðu samt bara á þína eigin ábyrgð.
 firefox-channel-nightly-blog = { -brand-name-nightly } bloggið
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } sendir sjálkrafa upplýsingar til { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Prófaðu nýja eiginleika í forútgáfu | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Prófaðu nýjustu vafratæknina í forútgáfu: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } og { -brand-name-firefox-nightly }. Sæktu þetta strax!
 firefox-channel-download-and-test-the-latest-desktop = Sæktu og prófaðu nýjustu eiginleikana í { -brand-name-firefox } fyrir vinnutölvuútgáfunni með { -brand-name-developer-edition }, { -brand-name-beta } og { -brand-name-nightly } afbrigðunum.
 firefox-channel-beta = { -brand-name-beta }

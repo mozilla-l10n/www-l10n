@@ -39,11 +39,6 @@ cookie-settings-category-analytics-what-are-subheading = Šta su analitički kol
 cookie-settings-category-analytics-what-are-desc = Ove tehnologije prikupljaju informacije o tome kako ljudi koriste web stranice, kao što su posjećene stranice, linkovi na koje su kliknuli i s kojih drugih web stranica dolaze posjete.
 cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } koristi analitičke informacije da razumije kako korisnici stupaju u interakciju s našim web stranicama kako bismo ih mogli poboljšati i riješiti sve probleme koji se pojave. Također možemo koristiti podatke iz kolačića, informacije o uređajima i IP adrese kako bismo nam pomogli da razumijemo kako korisnici stupaju u interakciju s našim proizvodima, uslugama, komunikacijama, web stranicama, online kampanjama, uređajima i drugim platformama. Prikupljat ćemo analitičke podatke i postavljati analitičke kolačiće samo uz vaš pristanak.
 
-## Consent section
-
-cookie-settings-your-consent-heading = Vaš pristanak
-cookie-settings-your-consent-desc = Pristankom na kolačiće, vaš pristanak će biti odobren za sljedeću listu { -brand-name-mozilla } web stranica, koje sve slijede iste stroge standarde za privatnost podataka. Imajte na umu da se ova lista može vremenom ažurirati.
-
 ## Privacy section
 
 cookie-settings-privacy-heading = Naše obavještenje o privatnosti

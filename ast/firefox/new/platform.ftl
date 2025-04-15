@@ -15,8 +15,6 @@ new-platform-need-help = ¿Precises ayuda?
 
 # Linux
 
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } pa { -brand-name-linux }
 new-platform-privacy-more-than = Privacidá, más qu'una política
 
 ## Mac

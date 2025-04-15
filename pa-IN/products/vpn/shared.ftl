@@ -10,22 +10,6 @@ vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } ਲਵੋ
 vpn-shared-waitlist-link = ਉਡੀਕ-ਸੂਚੀ ਦਾ ਹਿੱਸਾ ਬਣੋ
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-ਦਿਨਾਂ ਦੀ ਪੈਸੇ ਵਾਪਸੀ ਦੀ ਗਾਰੰਟੀ
-vpn-shared-features-encrypt = ਡਿਵਾਇਸ-ਪੱਧਰੀ ਇੰਕ੍ਰਿਪਸ਼ਨ
-vpn-shared-features-bandwidth = ਕੋਈ ਬੈਂਡਵਿੱਥ ਲਈ ਕੋਈ ਪਾਬੰਦੀ ਨਹੀਂ
-vpn-shared-features-activity = ਤੁਹਾਡੀ ਨੈੱਟਵਰਕ ਸਰਗਰਮੀ ਲਈ ਕੋਈ ਲਾਗ ਨਹੀਂ ਰੱਖਦੇ
-vpn-shared-features-activity-logs = ਕੋਈ ਆਨਲਾਈਨ ਸਰਗਰਮ ਲਾਗ ਨਾ ਹੁਣ ਨਾ ਕਦੇ
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = { $countries } ਤੋਂ ਵੱਧ ਦੇਸ਼ਾਂ ਵਿੱਚ ਸਰਵਰਾਂ ਲਈ ਪਹੁੰਚ
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = { $devices } ਡਿਵਾਈਸਾਂ ਤੱਕ ਨੂੰ ਸੁਰੱਖਿਆ
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = { $countries } ਤੋਂ ਵੱਧ ਦੇਸ਼ਾਂ ਵਿੱਚ ਮਜ਼ਬੂਤ ਸਰਵਰ
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = { $devices } ਡਿਵਾਈਸਾਂ ਤੱਕ ਕਨੈਕਟ ਕਰੋ
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30-ਦਿਨ ਦੀ ਰਕਮ ਵਾਪਸੀ ਗਾਰੰਟੀ
 vpn-shared-privacy-notice = ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ
@@ -64,12 +48,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } ਹਾ
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = ਆਓ ਸ਼ੁਰੂ ਕਰੀਏ
 vpn-shared-platform-cta-button = ਕੀਮਤ ਅਤੇ ਮੌਜੂਦਗੀ ਵੇਖੋ
-vpn-shared-platform-privacy-promise = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਸਾਡਾ ਦਾਅਵਾ
 vpn-shared-platform-what-is = { -brand-name-mozilla-vpn } ਕੀ ਹੈ?
 vpn-shared-platfrom-why-choose = { -brand-name-mozilla-vpn } ਹੀ ਕਿਉਂ?
-vpn-shared-platform-what-youll-get = { -brand-name-mozilla-vpn } ਨਾਲ ਤੁਹਾਨੂੰ ਕੀ ਮਿਲੇਗਾ:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = VPN ਬਾਰੇ ਜਾਣੋ

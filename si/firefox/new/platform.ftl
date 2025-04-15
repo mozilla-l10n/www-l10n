@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = නොමිලේ අතිරික්සුවකි
-new-platform-download-firefox = { -brand-name-firefox } බාගන්න
 new-platform-download-the-fastest = මෙතෙක් වේගවත්ම { -brand-name-firefox } බාගන්න
 new-platform-faster-page-loading = වේගයෙන් පිටු පූරණය වන, අඩු මතක භාවිතයක් සහිත විශේෂාංග වලින් පිරී තිබෙන, නව { -brand-name-firefox } මෙහි තිබේ.
 new-platform-2x-faster = 2x වේගවත්
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = { -brand-name-linux } සඳහා { 
 new-platform-download-the-fastest-linux = { -brand-name-linux } සඳහා මෙතෙක් වේගවත්ම { -brand-name-firefox } බාගන්න
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = වේගයෙන් පිටු පූරණය වන, අඩු මතක භාවිතයක් සහිත විශේෂාංග වලින් පිරී තිබෙන, නව { -brand-name-linux } සඳහා { -brand-name-firefox } මෙහි තිබේ.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-linux } සඳහා { -brand-name-firefox }
 new-platform-privacy-more-than = පෞද්ගලිකත්‍වය - ප්‍රතිපත්තියකට වඩා දෙයකි
 new-platform-your-life-your-business = ඔබගේ ජීවිතය, ඔබගේ දෙයකි. { -brand-name-firefox } මගින් { -brand-name-linux } හි තෙවන පාර්ශ්ව ලුහුබඳින දත්තකඩ අවහිර කරයි.
 new-platform-speed-meet-security = වේගය, යෝග්‍ය ආරක්‍ෂාව. { -brand-name-chrome } මෘදුකාංගයට වඩා { -brand-name-firefox } දෙගුණයක් වේගවත් හා 30% අඩු මතක භාවිතයකින් යුක්තය.

@@ -8,25 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = გამოიყენეთ { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = შეუერთდით მსურველებს
-vpn-shared-available-countries-v6 = ამჟამად { -brand-name-mozilla-vpn } ხელმისაწვდომია ავსტრიაში, ბელგიაში, ბულგარეთში, კანადაში, ხორვატიაში, კვიპროსში, ჩეხეთში, დანიაში, ესტონეთში, ფინეთში, საფრანგეთში, გერმანიაში, უნგრეთში, ირლანდიაში, იტალიაში, ლატვიაში, ლიტვაში, ლუქსემბურგში, მალაიზიაში, მალტაში, ნიდერლანდში, ახალ ზელანდიაში, პოლონეთში, პორტუგალიაში, რუმინეთში, სინგაპურში, სლოვენიაში, სლოვაკეთში, ესპანეთში, შვედეთში, შვეიცარიაში, დიდ ბრიტანეთსა და შეერთებულ შტატებში.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-დღიანი ვადით თანხის დასაბრუნებლად
-vpn-shared-features-encrypt = მოწყობილობის დონეზე დაშიფვრა
-vpn-shared-features-bandwidth = შეუზღუდავი გამტარუნარიანობა
-vpn-shared-features-activity = ქსელში მოქმედებების აღურიცხავად
-vpn-shared-features-activity-logs = ინტერნეტში მოქმედებები არ აღირიცხება, არც ახლა და არც არასდროს
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = წვდომა სერვერებთან { $countries }+ ქვეყანაში
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = დაცვა { $devices } მოწყობილობამდე
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = მძლავრი სერვერები { $countries }+ ქვეყანაში
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = კავშირი { $devices } მოწყობილობამდე
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30-დღიანი ვადით თანხის დასაბრუნებლად
 vpn-shared-privacy-notice = პირადულობის განაცხადი
@@ -65,12 +48,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } ჯე
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = დავიწყოთ
 vpn-shared-platform-cta-button = იხილეთ ფასები და ხელმისაწვდომობა
-vpn-shared-platform-privacy-promise = თქვენი პირადულობა ჩვენი პირობაა
 vpn-shared-platform-what-is = რა არის { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = რატომ { -brand-name-mozilla-vpn }?
-vpn-shared-platform-what-youll-get = რას მოგცემთ { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = ვრცლად VPN-ების შესახებ

@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Thử những tính năng mới tron
 firefox-channel-download-and-test-future = Tải xuống và kiểm tra các bản phát hành trong tương lai của { -brand-name-firefox } dành cho máy tính, { -brand-name-android } và { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Trải nghiệm các tính năng tân tiến trong một phiên bản trình duyệt tiền phát hành dành cho { -brand-name-android }: { -brand-name-firefox-beta } và { -brand-name-firefox-nightly }. Cài đặt ngay!
 firefox-channel-experience-cutting-edge-android = Trải nghiệm các tính năng tân tiến trong một phiên bản trình duyệt tiền phát hành dành cho { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } và { -brand-name-firefox-nightly }. Cài đặt ngay!
-firefox-channel-download-and-test-the-latest-android = Tải xuống và thử nghiệm các tính năng mới nhất của { -brand-name-firefox } dành cho { -brand-name-android } với { -brand-name-aurora }, { -brand-name-beta } và { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Thử các tính năng mới nhất của { -brand-name-android }, trước khi họ phát hành cho mọi người trên thế giới.
 firefox-channel-all-languages-and-platforms = Tất cả nền tảng và ngôn ngữ
 firefox-channel-all-languages-and-builds = Tất cả ngôn ngữ và kiến trúc
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } là một nền tảng thử nghiệm và phát triển không ổn định. Theo mặc định, { -brand-name-nightly } sẽ gửi dữ liệu tới { -brand-name-mozilla } — và đôi khi các đối tác của chúng tôi — để giúp chúng tôi xử lý vấn đề và thử các ý tưởng. <a href="{ $link }">Tìm hiểu những gì được chia sẻ</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } tự động gửi phản hồi cho { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Thử các tính năng duyệt web mới ở các phiên bản tiền phát hành | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Trải nghiệm các tính năng trình duyệt tiên tiến trong các phiên bản tiền phát hành: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } và { -brand-name-firefox-nightly }. Tải xuống ngay!
 firefox-channel-download-and-test-the-latest-desktop = Tải xuống và thử { -brand-name-firefox } dành cho máy tính với tính năng mới nhất với { -brand-name-developer-edition }, { -brand-name-beta } và { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

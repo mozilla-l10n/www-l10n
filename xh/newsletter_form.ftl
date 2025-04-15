@@ -10,7 +10,6 @@ newsletter-form-im-okay-with-mozilla = Ndilungile kwi{ -brand-name-mozilla } uku
 newsletter-form-if-you-havent-previously = Ukuba ngaphambili akukhange uqinisekise umrhumo kwiphephandaba elinxulumene ne{ -brand-name-mozilla } kusenokufuneka wenjenjalo. Nceda ukhangele i-inboksi yakho okanye ifiltha yakho yespam ukuze ubone i-imeyili evela kuthi.
 newsletter-form-firefox-and-you = <span>i{ -brand-name-firefox }</span> kwi-iOS
 newsletter-form-get-firefox-tips = Fumana amacebiso e{ -brand-name-firefox }, amaqhinga, iindaba nokungakumbi
-newsletter-form-keep-up-with = Hambisana ne<br> zonke izinto ze{ -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Fumana izihlaziyo ze-{ -brand-name-mozilla }
 newsletter-form-available-languages = Iilwimi Ezifumanekayo
 newsletter-form-select-country = Khetha ilizwe

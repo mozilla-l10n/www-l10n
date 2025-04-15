@@ -8,7 +8,6 @@
 compare-shared-compare-firefox = Samanlikn { -brand-name-firefox }
 compare-shared-footer-cta-title = Gjer meir med { -brand-name-firefox }
 compare-shared-footer-cta-desc = Få den raske, lette, personfokuserte nettlesaren som er støtta av ein ideell organisation og fungerer på alle einingane dine.
-compare-shared-footer-cta-button = Last ned { -brand-name-firefox }
 compare-shared-we-also-offer-easy = Vi tilbyr òg brukarvennlege funksjonar som:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } har òg innebygde verktøy som:
 # Variables

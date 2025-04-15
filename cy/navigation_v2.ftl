@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = Llwytho { -brand-name-firefox } i Lawr
 navigation-v2-get-mozilla-vpn = Cael { -brand-name-mozilla-vpn }
 navigation-v2-menu = Dewislen
 
@@ -76,11 +75,7 @@ navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-editio
 navigation-v2-get-the-firefox-browser-built = Cael y porwr { -brand-name-firefox } wedi'i adeiladu'n bennaf ar gyfer datblygwyr.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = Edrychwch ar gartref adnoddau datblygwr gwe.
-navigation-v2-firefox-reality = { -brand-name-firefox-reality }
-navigation-v2-explore-the-web-with-the = Archwiliwch y we gyda'r porwr { -brand-name-firefox } ar gyfer rhith-realiti.
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Cyfrannwch eich llais fel y gall dyfodol y we glywed pawb.
-navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-learn-more-about-the-new = Dysgwch ragor am yr iaith newydd, lefel isel, cydosodedig.
 navigation-v2-mozilla-innovation-projects = Projectau Arloesedd { -brand-name-mozilla }
 navigation-v2-discover-ways-to-bring = Darganfod ffyrdd o ddod â syniadau da'n fyw.

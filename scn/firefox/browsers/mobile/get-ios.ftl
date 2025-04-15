@@ -9,5 +9,4 @@
 get-ios-firefox-for-ios = { -brand-name-firefox-browser } pi { -brand-name-ios }
 # HTML page description
 get-ios-firefox-is-fast = { -brand-name-firefox } pi { -brand-name-ios } è lestu, sicuru e privatu nzinu di quannu u rapi pâ prima vota.
-get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = Scàrrica { -brand-name-firefox } pi { -brand-name-ios }

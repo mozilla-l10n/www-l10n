@@ -7,5 +7,4 @@
 
 # HTML page title
 get-ios-firefox-for-ios = { -brand-name-ios } కోసం { -brand-name-firefox-browser }
-get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = { -brand-name-ios } కోసం { -brand-name-firefox }ని డౌన్‌లోడ్ చేయండి

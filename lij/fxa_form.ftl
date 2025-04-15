@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = Se ti væ avanti t'ê d'acòrdio co-i <a href="{ $url1 }">Termini do Serviçio</a> e <a href="{ $url2 }">l'Informativa da Privacy</a>.
 fxa-form-email-address = Indirisso de pòsta
 fxa-form-continue = Vanni avanti
-fxa-form-create-account = Crea 'n conto
-fxa-form-get-the-app = Scarega l'app

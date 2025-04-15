@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = 為您的企業取得 { -brand-name-firefox } { -brand-name-esr } 或快速發行版本
 firefox-enterprise-get-unmatched-data-protection = 透過符合您的企業需求的更新步調，獲得無與倫比的資料保護。下載 { -brand-name-firefox } { -brand-name-esr } 或快速發行版本。
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = 概觀
-firefox-enterprise-downloads = 下載
 firefox-enterprise-get-firefox-for-your-enterprise = 下載 { -brand-name-firefox } 企業版
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

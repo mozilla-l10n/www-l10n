@@ -10,22 +10,6 @@ vpn-shared-subscribe-link = Ereko { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Ejuaju tysýi oha’ãrõvare
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 ára haguépe ome’ẽkuaajey viru
-vpn-shared-features-encrypt = Ipapapýva mba’e’okápe
-vpn-shared-features-bandwidth = Ancho de banda jejoko’ỹ
-vpn-shared-features-activity = Ndopytái nde rapykuere ne ñandutípe
-vpn-shared-features-activity-logs = Ndaipóri tapykuere ñandutípe ko’ág̃a ni araka’eve
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = Eikekuaa mohendahavusu  heta { $countries } tetãnguérape
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = Ñemo’ã { $devices } mba’e’oka pevépe g̃uarã
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = Mohendahavusu mbarete { $countries }+ tetãnguérape
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = Eike { $devices } mba’e’okakuéra peve
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30 ára haguépe ome’ẽkuaajey viru
 vpn-shared-privacy-notice = Marandu’i ñemiguáva
@@ -64,12 +48,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } nderei
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = Ñañepyrũkatu
 vpn-shared-platform-cta-button = Ehecha hepy ha joguakuaa
-vpn-shared-platform-privacy-promise = Ne ñemigua ha’e ore me’ẽmbyrã
 vpn-shared-platform-what-is = Mba’épa { -brand-name-mozilla-vpn }
 vpn-shared-platfrom-why-choose = Mba’érepa { -brand-name-mozilla-vpn }
-vpn-shared-platform-what-youll-get = Mba’e erekokuaa { -brand-name-mozilla-vpn } ndive:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Eikuaave VPNs rehegua

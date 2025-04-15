@@ -14,7 +14,6 @@ mobile-focus-simply-private-mobile = Thjesht shfletim privat në celular
 mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } është shfletuesi juaj i përkushtuar privatësisë, me mbrojtje të automatizuar nga gjurmimet. Me { -brand-name-focus }, faqet tuaja ngarkohen më shpejt dhe të dhënat tuaja mbeten private.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } është gati për pajisje { -brand-name-ios } dhe { -brand-name-android }.
 mobile-focus-get-firefox-focus = Merrni { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = Dërgoni te telefoni juaj një lidhje për shkarkim.
 mobile-focus-scan-the-qr-code-to-get-started = Që t’ia filloni, skanoni kodin QR
 mobile-focus-scan-alt-text = Skanoni kodin QR që të merrni { -brand-name-firefox-focus }-in
 mobile-focus-delete-your-history = Fshihni historikun tuaj

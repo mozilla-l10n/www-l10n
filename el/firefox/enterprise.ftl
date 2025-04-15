@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = Αποκτήστε το { -brand-name-firefox } για την επιχείρησή σας με την έκδοση { -brand-name-esr } και την έκδοση ταχείας κυκλοφορίας.
 firefox-enterprise-get-unmatched-data-protection = Λάβετε απαράμιλλη προστασία δεδομένων στο ρυθμό κυκλοφορίας που σας ταιριάζει με το { -brand-name-firefox } για επιχειρήσεις. Λήψη της έκδοσης { -brand-name-esr } και της έκδοσης ταχείας κυκλοφορίας.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Επισκόπηση
-firefox-enterprise-downloads = Λήψεις
 firefox-enterprise-get-firefox-for-your-enterprise = Λήψη του { -brand-name-firefox } για επιχειρήσεις
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

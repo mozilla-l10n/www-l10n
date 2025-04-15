@@ -16,7 +16,6 @@ newsletter-form-im-okay-with-mozilla = Soi d'acuerdo con que { -brand-name-mozil
 newsletter-form-if-you-havent-previously = Si denantes no has confirmau la conducción a bell boletín de noticias de Moilla, ye posible que l'heses de fer. Compreba la servilla de dentrada u lo filtro de correu vasuera pa veyer si i hai bell mensache de { -brand-name-mozilla }.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> y tu
 newsletter-form-get-firefox-tips = Obtiene consellos, trucos, noticias y mas de { -brand-name-firefox }
-newsletter-form-keep-up-with = Mantiene esviellau<br> lo { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Conoixe as actualizacions de { -brand-name-mozilla }
 newsletter-form-available-languages = Luengas disponibles
 newsletter-form-select-country = Triga un país

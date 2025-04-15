@@ -9,7 +9,6 @@
 
 ## Company names
 
--brand-name-amazon = Amazon
 -brand-name-apple = Apple
 -brand-name-creative-commons = Creative Commons
 -brand-name-facebook =
@@ -32,7 +31,6 @@
        *[nom] GitHub
     }
 -brand-name-google = Google
--brand-name-hulu = Hulu
 -brand-name-microsoft =
     { $case ->
         [gen] Microsoftu
@@ -55,7 +53,6 @@
     .gender = feminine
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
--brand-name-mullvad = Mullvad
 -brand-name-netscape =
     { $case ->
         [gen] Netscapu
@@ -78,7 +75,6 @@
 -brand-name-linkedin = LinkedIn
 -brand-name-tiktok = TikTok
 -brand-name-spotify = Spotify
--brand-name-mastodon = Mastodon
 
 ## Firefox browsers
 
@@ -233,8 +229,6 @@
     }
     .gender = masculine
 -brand-name-aurora = Aurora
--brand-name-firefox-daylight = Firefox Daylight
--brand-name-daylight = Daylight
 -brand-name-firefox-quantum =
     { $case ->
         [gen] Firefoxu Quantum
@@ -245,19 +239,6 @@
        *[nom] Firefox Quantum
     }
     .gender = masculine
--brand-name-firefox-lite =
-    { $case ->
-        [gen] Firefoxu Lite
-        [dat] Firefoxu Lite
-        [acc] Firefox Lite
-        [loc] Firefoxe Lite
-        [ins] Firefoxom Lite
-       *[nom] Firefox Lite
-    }
-    .gender = masculine
--brand-name-lite = Lite
--brand-name-firefox-reality = Firefox Reality
--brand-name-reality = Reality
 
 ## Firefox products
 
@@ -281,29 +262,12 @@
         [ins] Firefoxom Relay
        *[nom] Firefox Relay
     }
--brand-name-firefox-relay-premium = Firefox Relay Premium
--brand-name-firefox-sync =
-    { $case ->
-        [gen] Firefoxu Sync
-        [dat] Firefoxu Sync
-        [acc] Firefox Sync
-        [loc] Firefoxe Sync
-        [ins] Firefoxom Sync
-       *[nom] Firefox Sync
-    }
 -brand-name-firefox-translations = Firefox Translations
 
 ## Firefox products (short names)
 
 -brand-name-devtools = DevTools
 -brand-name-relay = Relay
--brand-name-relay-premium = Relay Premium
--brand-name-sync =
-    { $form ->
-        [verb] Synchronizovať
-        [verb2] Synchronizujte
-       *[noun] Synchronizácia
-    }
 
 ## Firefox products (legacy)
 
@@ -373,32 +337,9 @@
                *[upper] Účet Firefox
             }
     }
--brand-name-firefox-better-web = Firefox Better Web
--brand-name-firefox-lockwise =
-    { $case ->
-        [gen] Firefoxu Lockwise
-        [dat] Firefoxu Lockwise
-        [acc] Firefox Lockwise
-        [loc] Firefoxe Lockwise
-        [ins] Firefoxom Lockwise
-       *[nom] Firefox Lockwise
-    }
-    .gender = masculine
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
--brand-name-firefox-send =
-    { $case ->
-        [gen] Firefoxu Send
-        [dat] Firefoxu Send
-        [acc] Firefox Send
-        [loc] Firefoxe Send
-        [ins] Firefoxom Send
-       *[nom] Firefox Send
-    }
-    .gender = masculine
--brand-name-send = Send
 -brand-name-firefox-private-network = Firefox Private Network
--brand-name-fpn = FPN
 
 ## Firefox projects
 
@@ -440,12 +381,10 @@
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
 -brand-name-irl-podcast = IRL podcast
--brand-name-llamafile = Llamafile
 -brand-name-solo-ai = Solo AI
 -brand-name-lumigator = Lumigátor
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = Webová dokumentácia MDN
--brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
@@ -515,7 +454,6 @@
                *[upper] Účty Mozilla
             }
     }
--brand-name-mozilla-social = Mozilla.social
 -brand-name-mozilla-builders = Mozilla Builders
 -brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
@@ -537,25 +475,9 @@
        *[nom] Monitor
     }
     .gender = masculine
--brand-name-vpn = VPN
 
 ## Mozilla projects (legacy)
 
--brand-name-mozilla-developer-network = Mozilla Developer Network
--brand-name-mozilla-labs = Mozilla Labs
--brand-name-hubs = Hubs
--brand-name-lockwise =
-    { $case ->
-        [gen] Lockwisu
-        [dat] Lockwisu
-        [acc] Lockwise
-        [loc] Lockwise
-        [ins] Lockwisom
-       *[nom] Lockwise
-    }
-    .gender = masculine
--brand-name-lightbeam = Lightbeam
--brand-name-maker-party = Maker Party
 -brand-name-webmaker =
     { $case ->
         [gen] Webmakera
@@ -570,7 +492,6 @@
 ## Open Source projects
 
 -brand-name-rust = Rust
--brand-name-webassembly = WebAssembly
 
 ## Other browsers
 
@@ -607,7 +528,6 @@
     }
     .gender = feminine
 -brand-name-safari = Safari
--brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
@@ -644,8 +564,6 @@
        *[nom] Mac
     }
     .gender = masculine
--brand-name-ubuntu = Ubuntu
--brand-name-vista = Vista
 -brand-name-windows =
     { $case ->
         [gen] Windowsu
@@ -656,7 +574,6 @@
        *[nom] Windows
     }
     .gender = masculine
--brand-name-xp = XP
 
 ## Apple products
 
@@ -678,16 +595,6 @@
     }
     .gender = masculine
 -brand-name-instagram = Instagram
--brand-name-messenger =
-    { $case ->
-        [gen] Messengera
-        [dat] Messengeru
-        [acc] Messenger
-        [loc] Messengeri
-        [ins] Messengerom
-       *[nom] Messenger
-    }
-    .gender = masculine
 -brand-name-workplace = Workplace
 
 ## Google products

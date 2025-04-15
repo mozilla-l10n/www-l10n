@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Vyskúšajte nové funkcie vo vývoj
 firefox-channel-download-and-test-future = Stiahnite si a otestujte budúce vydania { -brand-name-firefox(case: "gen") } pre počítače, { -brand-name-android } a { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Vyskúšajte si najnovšie funkcie vo vývojových verziách prehliadača pre { -brand-name-android }: { -brand-name-firefox-beta } a { -brand-name-firefox-nightly }. Nainštalujte si ich hneď teraz!
 firefox-channel-experience-cutting-edge-android = Vyskúšajte si najnovšie funkcie vo vývojových verziách prehliadača pre { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } a { -brand-name-firefox-nightly }. Nainštalujte si ich hneď teraz!
-firefox-channel-download-and-test-the-latest-android = Stiahnite si a otestujte najnovšie funkcie { -brand-name-firefox(case: "gen") } pre { -brand-name-android } s verziami { -brand-name-aurora }, { -brand-name-beta } a { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Vyskúšajte najnovšie funkcie Firefoxu pre { -brand-name-android } skôr než ostatní.
 firefox-channel-all-languages-and-platforms = Všetky jazyky a platformy
 firefox-channel-all-languages-and-builds = Všetky jazyky a verzie
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } je nestabilné zostavenie určené na testovanie a vývoj. V predvolenom nastavení odosiela { -brand-name-nightly } údaje { -brand-name-mozilla(case: "dat") } - a niekedy našim partnerom - za účelom riešenia problémov a skúšania nových nápadov. <a href="{ $link }">Viac informácií o odosielaných údajoch</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } automaticky odosiela spätnú väzbu { -brand-name-mozilla(case: "dat") }.
-firefox-channel-try-new-browser-features = Vyskúšajte nové funkcie prehliadača vo vývojových verziách | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Vyskúšajte si najnovšie funkcie vo vývojových verziách prehliadača: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } a { -brand-name-firefox-nightly }. Stiahnite si ich hneď teraz!
 firefox-channel-download-and-test-the-latest-desktop = Stiahnite si a otestujte najnovšie funkcie { -brand-name-firefox(case: "gen") } pre počítače s verziami { -brand-name-developer-edition }, { -brand-name-beta } a { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

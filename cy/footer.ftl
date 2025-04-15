@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Maniffesto { -brand-name-mozilla }
 footer-privacy-hub = Hwb Preifatrwydd
 footer-privacy = Preifatrwydd
 footer-press = Y Wasg
 footer-mozilla-blog = Blog { -brand-name-mozilla }
-footer-browser-comparison = Cymharu Porwyr
-footer-brand-standards = Safonau'r Brand
-footer-browsers = Porwyr
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = Datblygwyr
 footer-developer-edition = { -brand-name-developer-edition }
@@ -38,7 +34,6 @@ footer-websites-legal = Cyfreithiol
 footer-language = Iaith
 footer-go = Mynd
 footer-donate = Cyfrannu
-footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }

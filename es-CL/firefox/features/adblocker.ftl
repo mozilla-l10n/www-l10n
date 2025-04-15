@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Cómo bloquear la publicidad molesta usando un bloqueador de anuncios
 features-adblocker-how-to-stop-seeing-too = Cómo dejar de ver tanta publicidad y evitar que las compañías te sigan a través de la red. Una guía de bloqueadores de publicidad del navegador web { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = El bloqueador de publicidad – un arma secreta contra la publicidad molesta.
 features-adblocker-so-many-ads-so-little = Tanta publicidad colma la paciencia… Es hora de detener esta locura.

@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = આગળ વધીને, તમે <a href="{ $url1 }"> સેવાની શરતો </a> અને <a href="{ $url2 }"> ગોપનીયતા સૂચના </a> થી સંમત થાઓ છો.
 fxa-form-email-address = ઈ - મેઈલ સરનામું
 fxa-form-continue = ચાલુ રાખો
-fxa-form-create-account = ખાતાને બનાવો
-fxa-form-get-the-app = એપ્લિકેશન મેળવો

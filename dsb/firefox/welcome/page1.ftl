@@ -10,7 +10,6 @@ welcome-page1-more-than-a-browser-mozilla = Wěcej ako wobglědowak - { -brand-n
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Cyńśo pśiducy kšac, aby swóju priwatnosć ze swójźbu produktow { -brand-name-firefox } online šćitał.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Wóstańśo wó kusack pśed hackerami. Pytajśo za datowym źěrami z { -brand-name-mozilla-monitor }.
-welcome-page1-youre-on-track-to-stay-protected = Sćo na pšawej droze, aby šćitany wóstał
 welcome-page1-youve-got-the-web-browser = Maśo wobglědowak, kótaryž wašu priwatnosć šćita – jo něnto cas, se za hackerami rozglědowaś.
 welcome-page1-check-your-breach-report = Rozpšawu wó datowej źěrje woglědaś
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

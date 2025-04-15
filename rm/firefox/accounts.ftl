@@ -26,7 +26,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Memorisar e sincronisar
 firefox-accounts-get-email-alerts = Retschaiver avis via e-mail en cas che tias datas cumparan en ina perdita da datas enconuschenta
 firefox-accounts-protect-your-identity = Protegia tia identitad cun alias segirs per tes numer da telefon e l'adressa dad e-mail
 firefox-accounts-keep-your-passwords = Guarda che tes pleds-clav sajan segirs ed adina per mauns.
-firefox-accounts-get-a-lookout-for = Tegna en egl ils enguladitschs da datas.
 firefox-accounts-travel-the-internet = Navighescha a moda segira en l'internet, cun mintga apparat.
 firefox-accounts-encrypt-your = Criptescha tias activitads en la rait e zuppenta tia adressa IP
 firefox-accounts-we-never = Nus ni registrain ni fastizain ni cundividain tias datas da rait
@@ -38,6 +37,5 @@ firefox-accounts-get-it-all-on-every = Tut sin mintga apparat, senza esser pigli
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

@@ -16,7 +16,6 @@ newsletter-form-im-okay-with-mozilla = Мен { -brand-name-mozilla } менің
 newsletter-form-if-you-havent-previously = { -brand-name-mozilla }-ға байланысты жаңалықтар таспасына жазылуды осыған дейін растамаған болсаңыз, оны жасауыңыз керек болуы мүмкін. Поштаңыздың кіріс және спам бумаларынан бізден хатты іздеңіз.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> және сіз
 newsletter-form-get-firefox-tips = { -brand-name-firefox } жөнінде кеңестер, жаңалықтар және т.б. алу
-newsletter-form-keep-up-with = { -brand-name-firefox } туралы барлығын<br> біліп отырыңыз.
 newsletter-form-get-mozilla-updates = { -brand-name-mozilla } жаңартуларын алу
 newsletter-form-available-languages = Қолжетерлік тілдер
 newsletter-form-select-country = Елді таңдаңыз

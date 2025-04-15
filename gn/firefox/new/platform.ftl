@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Kundahára reiguáva
-new-platform-download-firefox = Emboguejy { -brand-name-firefox }
 new-platform-download-the-fastest = Emboguejy { -brand-name-firefox } ipya’evéva tembiasakuépe
 new-platform-faster-page-loading = Emyanyhẽ kuatiarogue pya’e, sa’ive oiporu mandu’arenda ha heta hembiapoite, ko’ápe oĩma { -brand-name-firefox } pyahu.
 new-platform-2x-faster = Mokõi jevy ipya’eve
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Emboguejy { -brand-name-mozilla } { -
 new-platform-download-the-fastest-linux = Emboguejy { -brand-name-firefox } { -brand-name-linux } peg̃uarã, ipya’evéva opavavégui
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Emyanehẽ pya’eve kuatiarogue, eiporu sa’ive mandu’arenda ha oĩhápe heta tembiapoite: og̃uahẽma { -brand-name-firefox } pyahu { -brand-name-linux } peg̃uarã.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } { -brand-name-linux } peg̃uarã
 new-platform-privacy-more-than = Ñemiguáva: ndaha’éi porureko año
 new-platform-your-life-your-business = Nde rekove, ne ñemuha. { -brand-name-firefox } ojoko kookie rapykuehoha mbohapyháva { -brand-name-linux }-pe
 new-platform-speed-meet-security = Ipya’e ha hekorosã. { -brand-name-firefox } ipya’eve mokõi jey 30% imandu’arenda’ivérõ jepe { -brand-name-chrome }-gui.

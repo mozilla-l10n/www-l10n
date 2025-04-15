@@ -10,7 +10,6 @@ newsletter-form-im-okay-with-mozilla = Onartzen dut { -brand-name-mozilla }k nir
 newsletter-form-if-you-havent-previously = Ez baduzu inoiz berretsi { -brand-name-mozilla }rekin lotutako berripaper baterako harpidetzarik, orain egin beharko duzu. Begiratu zure sarrera-ontzian edo zabor-postan gure mezua aurkitzeko.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Zu
 newsletter-form-get-firefox-tips = Jaso { -brand-name-firefox }en aholkuak, trikimailuak, berriak eta gehiago
-newsletter-form-keep-up-with = Ez galdu<br> { -brand-name-firefox }en berririk.
 newsletter-form-get-mozilla-updates = Jaso { -brand-name-mozilla }ren berriak
 newsletter-form-available-languages = Hizkuntza erabilgarriak
 newsletter-form-select-country = Hautatu herrialdea

@@ -8,7 +8,6 @@
 compare-shared-compare-firefox = Porównaj { -brand-name-firefox }
 compare-shared-footer-cta-title = Osiągnij więcej dzięki { -brand-name-firefox(case: "dat") }
 compare-shared-footer-cta-desc = Pobierz szybką, lekką i dbającą o prywatność przeglądarkę, która jest wspierana przez organizację non-profit i działa na wszystkich twoich urządzeniach.
-compare-shared-footer-cta-button = Pobierz { -brand-name-firefox(case: "acc") }
 compare-shared-we-also-offer-easy = Oferujemy również łatwe w użyciu funkcje, takie jak:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } ma również wbudowane narzędzia, takie jak:
 # Variables

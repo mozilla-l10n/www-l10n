@@ -5,16 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
-# page title
-features-fingerprinting-what-is-fingerprinting-title = Wat is fingerprinting en wêrom soene jo it blokkearje moatte
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Fingerprinting is in soarte fan online folgjen dat mear ynvasyf is as gewoan op cookies basearre folgjen. Dêrom blokkearret { -brand-name-firefox-browser } it.
 features-fingerprinting-fingerprint-blocking = Blokkearjen fan fingerprinters
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blokkearret fingerprinting
-features-fingerprinting-ditch-the-sticky = Fuort mei de plakkerige advertinsjes dy’t jo folgje mei de yn de { -brand-name-firefox }-browser ynboude blokkearring fan fingerprinting.
-# description for the header image
-features-fingerprinting-every-fingerprint = Elke fingerôfdruk is unyk.
-features-fingerprinting-download-firefox = { -brand-name-firefox } downloade
 features-fingerprinting-what-is-fingerprinting-body = Wat is fingerprinting?
 features-fingerprinting-fingerprinting-is-a = Fingerprinting is in soarte fan online folgjen dy’t ynvasiver is as it gewoane op cookies basearre folgjen. In digitale fingerôfdruk wurdt makke as in bedriuw in unyk profyl fan jo makket, op basis fan jo kompjûterhardware, software, add-ons en sels foarkarren. Jo ynstellingen, lykas it skerm dat jo brûke, de op jo kompjûter ynstallearre lettertypen en sels de webbrowser fan jo foarkar, kinne allegearre brûkt wurde om in fingerôfdruk te meitsjen.
 features-fingerprinting-if-you-have = As jo in faak brûkte laptop, PC of smartphone brûke, dan kin it swierder wêze om jo apparaat unyk te identifisearjen troch middel fan fingerprinting. Hoe mear unike add-ons, lettertypen en ynstellingen jo echter brûke, hoe makliker jo fûn wurde kinne. Bedriuwen kinne dizze unike kombinaasje fan gegevens brûke om jo fingerôfdruk te meitsjen. Dêrom blokkearret { -brand-name-firefox } bekende fingerprinters, sadat jo noch hieltyd jo favorite útwreidingen, tema’s en oanpassingen brûke kinne sûnder dat jo troch advertinsjes folge wurde.
@@ -35,4 +29,3 @@ features-fingerprinting-the-latest-firefox = De nijste { -brand-name-firefox }-b
 features-fingerprinting-and-its-not = En it is gjin djip ferstoppe ynstelling wêr’t jo nei grave moatte om him te finen. Yn de nijste { -brand-name-firefox }-browser is fingerprintblokkearring de standertynstelling. Iepenje jo <a { $url_protections }>dashboerd foar privacybeskerming</a> om te sjen hoe’t jo efter de skermen folge wurde en hoe { -brand-name-firefox } dit foarkomt.
 # $url_download (string) - link to firefox/new
 features-fingerprinting-you-probably-wouldnt = Jo stelle it wierskynlik net op priis as ien jo yn it wiere libben efterfolget. Der is gjin inkelde reden om dat online wol te akseptearjen. As jo { -brand-name-firefox } noch net hawwe, <a { $url_download }>download it dan en beskermje josels</a> tsjin fingerprinten.
-features-fingerprinting-protect = Beskermje jo privacy

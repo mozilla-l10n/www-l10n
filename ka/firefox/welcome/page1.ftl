@@ -10,7 +10,6 @@ welcome-page1-more-than-a-browser-mozilla = მეტი, ვიდრე ბრ
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = გადადგით ნაბიჯი თქვენი პირადულობის დასაცავად ინტერნეტში, { -brand-name-firefox }-პროდუქტების ნაკრების მეშვეობით.
 welcome-page1-stay-ahead-of-hackers-check-v2 = დაასწარით ჰაკერებს. გადაამოწმეთ მიტაცებული მონაცემები { -brand-name-mozilla-monitor }-ით.
-welcome-page1-youre-on-track-to-stay-protected = თქვენ, უსაფრთხოებისკენ მიმავალ გზაზე ხართ
 welcome-page1-youve-got-the-web-browser = უკვე გაქვთ ბრაუზერი, რომელიც იცავს თქვენს პირადულობას — ახლა დროა თავი დაიცვათ ჰაკერებისგანაც.
 welcome-page1-check-your-breach-report = იხილეთ მიტაცებებზე ანგარიში
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

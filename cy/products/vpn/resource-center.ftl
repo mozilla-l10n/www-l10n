@@ -9,11 +9,9 @@
 vpn-resource-center-title = Canolfan Adnoddau VPN
 vpn-resource-center-whats-the-deal = Beth yw'r fargen gyda Rhith Rwydweithiau Preifat (VPN)?
 vpn-resource-center-discover-how-they = Darganfyddwch sut maen nhw'n gweithio, pam maen nhw'n bwysig a beth all defnyddio VPN ei wneud i chi.
-vpn-resource-center-view-all = Gweld y cyfan
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = Dechreuwch ddiogelu eich hunaniaeth heddiw
 vpn-resource-center-obsessed-with = Mae gennym obsesiwn am eich preifatrwydd er 1998
-vpn-resource-center-get-mozilla-vpn = Cael { -brand-name-mozilla-vpn }
 vpn-resource-center-was-this-article = A oedd yr erthygl hon yn ddefnyddiol?
 vpn-resource-center-article-helpful = Erthygl yn ddefnyddiol
 vpn-resource-center-article-not-helpful = Erthygl ddim yn ddefnyddiol

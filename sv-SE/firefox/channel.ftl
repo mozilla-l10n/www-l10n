@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Testa nya funktioner i betaversionen
 firefox-channel-download-and-test-future = Ladda ner och testa framtida versioner av { -brand-name-firefox } för datorer, { -brand-name-android } och { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Upplev helt nya funktioner i betaversionen av webbläsaren för { -brand-name-android }: { -brand-name-firefox-beta } och { -brand-name-firefox-nightly }. Installera nu!
 firefox-channel-experience-cutting-edge-android = Upplev helt nya funktioner i betaversionen av webbläsaren för { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } och { -brand-name-firefox-nightly }. Installera nu!
-firefox-channel-download-and-test-the-latest-android = Ladda ner och testa de senaste funktionerna i { -brand-name-firefox } för { -brand-name-android } med { -brand-name-aurora }, { -brand-name-beta } och { -brand-name-nightly } byggen.
 firefox-channel-try-the-latest-android-features = Prova de senaste { -brand-name-android }-funktioner, innan de släpps till resten av världen.
 firefox-channel-all-languages-and-platforms = Alla språk och plattformar
 firefox-channel-all-languages-and-builds = Alla språk och byggen
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = { -brand-name-nightly } blogg
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } är en instabil test- och utvecklingsplattform. Som standard skickar { -brand-name-nightly } data till { -brand-name-mozilla } — och ibland till våra partners — för att hjälpa oss att hantera problem och prova idéer. <a href="{ $link }">Läs mer om vad som delas</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } skickar automatiskt återkoppling till { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Testa nya funktioner i betaversionen av webbläsaren | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Upplev helt nya funktioner i betaversionen av webbläsaren: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } och { -brand-name-firefox-nightly }. Installera nu!
 firefox-channel-download-and-test-the-latest-desktop = Ladda ner och testa de senaste funktionerna i { -brand-name-firefox } för datorer med { -brand-name-developer-edition }, { -brand-name-beta } och { -brand-name-nightly } byggen.
 firefox-channel-beta = { -brand-name-beta }

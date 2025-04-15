@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Hol no ndaaƴirtaa ɓaŋŋine cekniiɗe e kuutorgol ko daaƴata ɓaŋŋine
 features-adblocker-how-to-stop-seeing-too = Hol no nattirtaa yiyde ɓaŋŋine ɓurtuɗe etee kaɗaa gollorɗe woosaade e maa e enternet oo. Ɗowirde daaƴgol ɓaŋŋine ummoraade e wanngorde geese { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Daaƴoowo ɓaŋŋine oo – kaɓirgal cuuɗingal feewde e ɓaŋŋine cekniide.
 features-adblocker-so-many-ads-so-little = Ɓaŋŋine ɓurtuɗe, muñal heewaani… Yontii ndartinaa ɗii kaaɗi.

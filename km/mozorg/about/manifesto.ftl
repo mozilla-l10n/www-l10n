@@ -7,17 +7,6 @@
 
 # HTML page title
 manifesto-the-mozilla-manifesto = The { -brand-name-mozilla } Manifesto
-manifesto-transparent-community = សហគមន៍​ដែល​មាន​តម្លាភាព​ផ្អែកលើ​ដំណើរការ​ការ​បង្កើត​ការ​ចូលរួម, ការ​ទទួល​ខុស​ត្រូវ​ចំពោះ​ទ្រព្យសម្បត្តិ និង​ភាព​​ជឿជាក់។
-manifesto-01 = 01
-manifesto-02 = 02
-manifesto-03 = 03
-manifesto-04 = 04
-manifesto-05 = 05
-manifesto-06 = 06
-manifesto-07 = 07
-manifesto-08 = 08
-manifesto-09 = 09
-manifesto-10 = 10
 manifesto-our-10-principles = គោលការណ៍​<strong> 10</strong> របស់​ពួក​យើង
 manifesto-read-the-entire-manifesto = អាន​សេចក្ដី​ប្រកាស​ទាំងអស់
 manifesto-details-the-mozilla-manifesto = The { -brand-name-mozilla } Manifesto

@@ -25,9 +25,6 @@ firefox-new-need-help = Кумак лозим аст?
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = Хадамоти «{ -brand-name-mozilla }» <a href="{ $url }">дигар навсозиҳои амниятиро</a> дар низомҳои амалкунандаи «{ -brand-name-windows } { -brand-name-xp }» ё «{ -brand-name-vista }» таъмин наменамояд, аммо шумо то ҳол метавонед аз «{ -brand-name-firefox }» истифода баред.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Боргирии барнома бояд ба таври худкор оғоз карда шавад. Оғоз карда нашуд? <a id="{ $id }" href="{ $fallback_url }">Кӯшиш кунед, ки барномаро аз нав боргирӣ намоед</a>.
@@ -36,9 +33,6 @@ firefox-new-firefox-is-more-than-a-browser = Браузери «{ -brand-name-fi
 firefox-new-download-interrupted = Боргирии шумо қатъ шуд. Аммо ҳеҷ чиз гум нашудааст.
 firefox-new-download-almost-there = Қариб тайёр аст!
 firefox-new-download-select-linux = Имкони боргирӣ кардани барномаро дар зер интихоб намоед
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = Барои насб кардани «{ -brand-name-firefox }», лутфан, <a href="{ $url }">ин қадамҳоро</a> иҷро намоед.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Низоми шумо метавонад ба талаботи «{ -brand-name-firefox }» ҷавобгӯ набошад, аммо шумо метавонед яке аз <a href="{ $url }">ин версияҳоро</a> кӯшиш кунед.

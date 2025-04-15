@@ -12,7 +12,6 @@ firefox-channel-be-among-the-first-to-explore = Huru boro jinawey ra kaŋ ga { -
 firefox-channel-see-something-that-isnt-working = Guna hayaa kaŋ goo ma wanji? Ir bayrandi nd'a.
 firefox-channel-file-a-bug-now = Goy laybu bayrandi sohõ
 firefox-channel-download-and-test-future = { -brand-name-firefox } kaataray taagey zumandi nda m'i šii ordinater, { -brand-name-android } nda { -brand-name-ios } ga.
-firefox-channel-download-and-test-the-latest-android = { -brand-name-firefox } { -brand-name-android } alhaali kokorantey zumandi nda m'i šii nda { -brand-name-aurora }, { -brand-name-beta } nda { -brand-name-nightly } cinari-dumey.
 firefox-channel-try-the-latest-android-features = { -brand-name-android } alhaali kokorantey šii hala i ga fatta adduɲɲaa borey kul se.
 firefox-channel-all-languages-and-builds = Šenney nda cinarey kul
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } cinakaw wallafiyan dumi ka willandiyan sanba { -brand-name-mozilla } do nga boŋ se.

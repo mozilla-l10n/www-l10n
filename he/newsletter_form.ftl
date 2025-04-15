@@ -16,7 +16,6 @@ newsletter-form-im-okay-with-mozilla = מקובלת עלי הדרך בה { -bran
 newsletter-form-if-you-havent-previously = אם לא אישרת בעבר הרשמה לניוזלטרים של { -brand-name-mozilla }, יהיה עליך לעשות זאת. נא לבדוק את תיבת הדואר הנכנס או את מסנני דואר הזבל כדי לאתר את הודעת הדואר האלקטרוני ששלחנו.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> ואתם
 newsletter-form-get-firefox-tips = קבלת טיפים וטריקים, חדשות ועוד על אודות { -brand-name-firefox }
-newsletter-form-keep-up-with = הישארו מעודכנים<br>עם { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = קבלת עדכונים מ־{ -brand-name-mozilla }
 newsletter-form-available-languages = שפות זמינות
 newsletter-form-select-country = בחירת מדינה

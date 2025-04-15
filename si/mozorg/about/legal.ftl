@@ -8,4 +8,3 @@
 legal-get-involved = සහභාගී වන්න
 legal-pocket = { -brand-name-pocket }
 legal-privacy-notices-and-policy = රහස්‍යතා දැන්වීම් සහ ප්‍රතිපත්ති
-legal-mozilla-vpn-terms = { -brand-name-mozilla-vpn } සේවාවේ නියම

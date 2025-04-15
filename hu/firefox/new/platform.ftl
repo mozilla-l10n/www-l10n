@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Ingyenes böngésző
-new-platform-download-firefox = { -brand-name-firefox } letöltése
 new-platform-download-the-fastest = A valaha volt leggyorsabb { -brand-name-firefox } letöltése
 new-platform-faster-page-loading = Gyorsabb oldalbetöltés, kisebb memóriahasználat és egy csokor új funkció, az új { -brand-name-firefox } megérkezett.
 new-platform-2x-faster = 2× gyorsabb
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Töltse le { -brand-name-linux }ra a 
 new-platform-download-the-fastest-linux = A valaha volt leggyorsabb { -brand-name-firefox } letöltése { -brand-name-linux }ra
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Gyorsabb oldalbetöltés, kisebb memóriahasználat és egy csokor új funkció, megérkezett az új { -brand-name-firefox } { -brand-name-linux }ra.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } { -brand-name-linux }ra
 new-platform-privacy-more-than = Adatvédelem – több mint egy irányelv
 new-platform-your-life-your-business = Az Ön élete, az Ön dolga. A { -brand-name-firefox } blokkolja a harmadik féltől származó követősütiket { -brand-name-linux }on.
 new-platform-speed-meet-security = Sebesség és biztonság. A { -brand-name-firefox } kétszer gyorsabb, és 30%-kal kevesebb memóriát használ, mint a { -brand-name-chrome }.

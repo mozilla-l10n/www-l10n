@@ -41,7 +41,6 @@ firefox-developer-learn-more-about-style = ශෛලි සංස්කරකය
 firefox-developer-new-tools = නව මෙවලම්
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-built-for-developers = සංවර්ධකයින්ට තනා ඇත
-firefox-developer-shapes-editor = හැඩ සංස්කරකය
 firefox-developer-fonts-panel = රුවකුරු මඬල
 firefox-developer-download-the-firefox-browser = සංවර්ධකයින් සඳහා තනන ලද { -brand-name-firefox } අතිරික්සුව බාගන්න
 firefox-developer-welcome-to-firefox-developer-edition = { -brand-name-firefox-developer-edition } වෙත පිළිගනිමු

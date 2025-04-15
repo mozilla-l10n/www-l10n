@@ -10,7 +10,6 @@ welcome-page1-more-than-a-browser-mozilla = Dapli ch’in navigatur – { -brand
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Fa il proxim pass per proteger tia sfera privata online cun la paletta da products da { -brand-name-firefox }.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Lascha enavos ils hackers. Controllescha sperditas da datas cun { -brand-name-mozilla-monitor }.
-welcome-page1-youre-on-track-to-stay-protected = Ti has chattà la via per dapli protecziun
 welcome-page1-youve-got-the-web-browser = Ti has il navigatur che protegia tia sfera privata – ussa èsi temp da tegnair en egl ils hackers.
 welcome-page1-check-your-breach-report = Consultescha tes rapport da sperditas da datas
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

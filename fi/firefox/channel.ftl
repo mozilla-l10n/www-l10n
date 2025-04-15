@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Kokeile uusia ominaisuuksia { -brand
 firefox-channel-download-and-test-future = Lataa ja testaa { -brand-name-firefox }in tulevia työpöytä-, { -brand-name-android }- ja { -brand-name-ios }-versioita.
 firefox-channel-experience-cutting-edge-android-updated = Koe uusimmat ominaisuudet käyttämällä { -brand-name-android }-selaimen ennakkoversiota: { -brand-name-firefox-beta }a tai { -brand-name-firefox-nightly }ä. Asenna nyt!
 firefox-channel-experience-cutting-edge-android = Koe uusimmat ominaisuudet käyttämällä { -brand-name-android }-selaimen ennakkoversiota: { -brand-name-firefox-beta }a, { -brand-name-firefox-aurora }a tai { -brand-name-firefox-nightly }ä. Asenna nyt!
-firefox-channel-download-and-test-the-latest-android = Lataa ja testaa { -brand-name-firefox }in { -brand-name-android }-version uusimpia ominaisuuksia { -brand-name-aurora }-, { -brand-name-beta }- ja { -brand-name-nightly }-versioilla.
 firefox-channel-try-the-latest-android-features = Kokeile uusimpia { -brand-name-android }-ominaisuuksia ennen kuin ne julkaistaan koko maailmalle.
 firefox-channel-all-languages-and-platforms = Kaikki kielet ja alustat
 firefox-channel-all-languages-and-builds = Kaikki kielet ja versiot
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = { -brand-name-nightly }-blogi
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } on epävakaa testi- ja kehitysversio. Oletusarvoisesti { -brand-name-nightly } lähettää tietoja { -brand-name-mozilla }lle — ja toisinaan kumppaneillemme — auttaakseen meitä käsittelemään ongelmia ja kokeilemaan ideoita. <a href="{ $link }">Lue, mitä kaikkea jaetaan</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } lähettää palautetta { -brand-name-mozilla }lle automaattisesti.
-firefox-channel-try-new-browser-features = Kokeile uusia selainominaisuuksia ennakkoversiolla | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Koe uusimmat selainominaisuudet käyttämällä ennakkoversioita: { -brand-name-firefox-developer-edition }ia, { -brand-name-firefox-beta }a tai { -brand-name-firefox-nightly }ä. Lataa nyt!
 firefox-channel-download-and-test-the-latest-desktop = Lataa ja testaa { -brand-name-firefox }in työpöytäversion uusimpia ominaisuuksia { -brand-name-developer-edition }-, { -brand-name-beta }- ja { -brand-name-nightly }-versioilla.
 firefox-channel-beta = { -brand-name-beta }

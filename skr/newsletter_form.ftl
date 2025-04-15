@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = اساں تہاکوں { -brand-na
 newsletter-form-if-you-havent-previously = جے تساں پہلے { -brand-name-mozilla } دے متعلق نیوز لیٹر دی رکنیت دی تصدیق نہیں کیتی، تاں تہاکوں ایویں کرݨا پئے سڳدا ہے۔ اساݙی طرفوں ای میل کیتے براہ مہربانی اپݨا ان باکس یا اپݨا سپام فلٹر چیک کرو۔
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + تساں
 newsletter-form-get-firefox-tips = { -brand-name-firefox } گُر، چالاکیاں، خبراں تے ٻیا ٻہوں کجھ گھنو
-newsletter-form-keep-up-with = ساریاں چیزاں { -brand-name-firefox }<br> نال جاری رکھو۔
 newsletter-form-get-mozilla-updates = { -brand-name-mozilla } اپ ڈیٹاں گھنو
 newsletter-form-available-languages = دستیاب زباناں
 newsletter-form-select-country = ملک چݨو

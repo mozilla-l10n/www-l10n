@@ -14,13 +14,11 @@ browsers-mobile-infinitely-customizable-private = ปรับแต่งได
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } สำหรับ { -brand-name-ios }
 browsers-mobile-go-your-own-way = ท่องเว็บในแบบคุณเองด้วย { -brand-name-firefox } สำหรับมือถือ
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } รุ่นมือถือจะปรับตัวเข้ากับคุณและทำให้การดูแท็บที่เปิดอยู่ การค้นหาที่ผ่านมา และไซต์โปรดทั้งหมดของคุณง่ายขึ้นกว่าที่เคย
-browsers-mobile-the-more-you-use = ยิ่งคุณใช้มากเท่าไรก็ยิ่งฉลาดมากขึ้นเท่านั้น หน้าแรกของ { -brand-name-firefox } นั้นจะปรับให้เหมาะกับตัวคุณ และทำให้คุณเรียกดูต่อจากจุดที่คุณค้างไว้ได้ง่ายขึ้น
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = รับการป้องกันการติดตามแบบพิเศษและทำให้ { -brand-name-firefox } เป็นเบราว์เซอร์เริ่มต้นที่ใช้งานได้ตลอดไปบน { -brand-name-iphone } และ { -brand-name-ipad }
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = กำลังมองหาเบราว์เซอร์มือถือที่มีประสิทธิภาพและรวดเร็วพร้อมคุณลักษณะความเป็นส่วนตัวที่ล้ำหน้าอยู่ใช่ไหม? { -brand-name-firefox-focus } จะลบประวัติการเข้าชมทั้งหมดของคุณโดยอัตโนมัติตั้งแต่วินาทีแรกที่คุณเปิดเบราว์เซอร์จนถึงวินาทีที่คุณปิด
 browsers-mobile-compare = เปรียบเทียบ
-browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = ดูว่า { -brand-name-firefox } สำหรับเดสก์ท็อปเหนือชั้นกว่าเบราว์เซอร์อื่นๆ อย่างไรบ้าง
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = ดูว่า { -brand-name-firefox } สำหรับ<strong>เดสก์ท็อป</strong>เหนือชั้นกว่าเบราว์เซอร์อื่นๆ อย่างไรบ้าง
 browsers-mobile-download = ดาวน์โหลด

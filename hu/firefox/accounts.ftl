@@ -26,7 +26,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Jelszavak mentése és 
 firefox-accounts-get-email-alerts = E-mail értesítések, ha adatai ismert adatvédelmi incidensben érintettek
 firefox-accounts-protect-your-identity = Védje személyazonosságát a biztonságos telefon- és e-mail-maszkolással
 firefox-accounts-keep-your-passwords = Tartsa védve a jelszavait, és vigye el azokat bárhova.
-firefox-accounts-get-a-lookout-for = Legyen résen az adatvédelmi incidensek miatt.
 firefox-accounts-travel-the-internet = Utazzon védve az interneten, az összes eszközén.
 firefox-accounts-encrypt-your = Titkosítsa hálózati tevékenységét és rejtse el IP-címét
 firefox-accounts-we-never = Sosem naplózzuk, követjük nyomon vagy osztjuk meg hálózati adatait
@@ -38,6 +37,5 @@ firefox-accounts-get-it-all-on-every = Kapja meg az összes eszközén, anélkü
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

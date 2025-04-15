@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = Շարունակելով, դուք համաձայնվում եք <a href="{ $url1 }">Ծառայության պայմաններին</a> և <a href="{ $url2 }">Գաղտնիության ծանուցմանը</a>:
 fxa-form-email-address = Էլ. փոստի հասցե
 fxa-form-continue = Շարունակել
-fxa-form-create-account = Ստեղծել հաշիվ
-fxa-form-get-the-app = Ստանալ հավելվածը

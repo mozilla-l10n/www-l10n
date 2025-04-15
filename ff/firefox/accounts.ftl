@@ -9,7 +9,6 @@ firefox-accounts-enter-your-email-address = Naat-nu ñiiɓirde iimeel maa ngam f
 firefox-accounts-already-have-an-account = Aɗa jogii konte kisa?
 firefox-accounts-sign-in = Seŋo
 firefox-accounts-keep-your-passwords = Hisnu pinle maa ɗe nawortaa nokku kala.
-firefox-accounts-get-a-lookout-for = Heɓ tintine ngam ciigol keɓe
 firefox-accounts-travel-the-internet = Wanngo e Enternet oo e kisal, nder maiŋon maa fof.
 firefox-accounts-get-it-all-on-every = Heɓ ɗum e kala masiŋel tawa a ɓilaaki e hay yuɓɓo huɓnungo wooto.
 

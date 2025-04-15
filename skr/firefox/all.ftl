@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = انگریزی (یو ایس) تے 90 کنوں ودھ ٻیاں زباناں وچ { -brand-name-firefox } ڈاؤن لوڈ کرو
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = ہر کوئی انٹرنیٹ تائیں رسائی دا مستحق ہے — تہاݙی زبان کݙاہیں وی رکاوٹ نہیں ہووݨی چاہیدی۔ ایں سانگے — پوری دنیا دے سر ٻدھ رضاکاراں دی مدد نال — اساں { -brand-name-firefox } کوں 90 توں ودھ زباناں وِچ دستیاب کرویندے ہیں۔
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = <em>{ $product_name }</em> گھنݨ کیتے کیوآر کوڈ سکین کرو
 firefox-all-choose-browser = جاری رکھݨ کیتے براؤزر چݨو
 firefox-all-choose-platform = جاری رکھݨ کیتے پلیٹ فارم چݨو
 firefox-all-choose-language = جاری رکھݨ کیتے زبان چݨو
@@ -66,14 +63,7 @@ firefox-all-product-send-link = آپݨے فون تے ہک ڈاؤن لوڈ لنک
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32 بٹ پروسیسر والے کمپیوٹرز کیتے 32 بٹ انسٹالر دا انتخاب کرو — یا پراݨے یا ہیݨے کمپیوٹرز کیتے۔ <a href="{ $url }"> جے تہاکوں یقین کائنی جو</a> آیا 64-bit یا 32-bit انسٹالر دا انتخاب کرݨا ہے، تاں اساں تہاکوں 32-bit دے نال ونڄݨ دی صلاح ݙیندے ہیں۔
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = { $locale } وچ { $platform } کیتے{ $product_label } ڈاؤن لوڈ کرو
 firefox-all-msi-installers = MSI انسٹالرز
-firefox-all-which-version = تساں کہڑا ورشن پسند کریسو؟
-firefox-all-select-your-preferred-installer = آپݨی پسند دا انسٹالر چُݨو
 firefox-all-select-your-preferred-language = آپݨی ترجیحی زبان چݨو
 firefox-all-learn-about-installers = انسٹالرز بارے سکھو
 firefox-all-product-firefox = { -brand-name-firefox }

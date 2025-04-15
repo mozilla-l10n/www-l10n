@@ -25,9 +25,6 @@ firefox-new-need-help = 도움이 필요한가요?
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla }는 { -brand-name-windows } { -brand-name-xp }나 { -brand-name-vista }에서 <a href="{ $url }">더이상 보안 업데이트를 제공하지 않습니다</a>, 하지만 아직 { -brand-name-firefox }를 계속 사용할 수는 있습니다.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = 자동으로 다운로드가 시작됩니다. 잘 안되나요? <a id="{ $id }" href="{ $fallback_url }">다시 시도해 보세요</a>.
@@ -36,9 +33,6 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }는 브라�
 firefox-new-download-interrupted = 다운로드가 중단되었습니다. 그러나 모두 손실되지는 않았습니다.
 firefox-new-download-almost-there = 거의 다 완료되었습니다!
 firefox-new-download-select-linux = 아래에서 다운로드 옵션을 선택하세요.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = { -brand-name-firefox } 설치를 위해 <a href="{ $url }">설치 방법</a>을 확인하세요.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = 시스템이 { -brand-name-firefox } 설치 요구 사항을 충족하지 않지만, <a href="{ $url }">이 버전</a> 중 하나를 사용할 수 있습니다.

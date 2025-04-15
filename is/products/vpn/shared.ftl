@@ -10,22 +10,6 @@ vpn-shared-subscribe-link = Fáðu { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Skráðu þig á biðlistann
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-daga skilafrestur
-vpn-shared-features-encrypt = Dulritun í hverju tæki
-vpn-shared-features-bandwidth = Engar bandbreiddartakmarkanir
-vpn-shared-features-activity = Engin skráning á netvirkni þinni
-vpn-shared-features-activity-logs = Engin skráning á virkni á netinu núna eða í framtíðinni
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = Aðgangur að netþjónum í meira en { $countries } löndum
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = Vörn fyrir allt að { $devices } tæki
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = Öflugir netþjónar í yfir { $countries } löndum
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = Tengdu allt að { $devices } tæki
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30-daga skilafrestur
 vpn-shared-privacy-notice = Meðferð persónuupplýsinga
@@ -63,12 +47,9 @@ vpn-shared-pricing-total-plus-tax = { $amount } alls + skattur
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = Byrjum á þessu
 vpn-shared-platform-cta-button = Sjá verð og framboð
-vpn-shared-platform-privacy-promise = Friðhelgi þín er loforð okkar
 vpn-shared-platform-what-is = Hvað er { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Hvers vegna { -brand-name-mozilla-vpn }?
-vpn-shared-platform-what-youll-get = Það sem þú færð með { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Fræðstu um VPN

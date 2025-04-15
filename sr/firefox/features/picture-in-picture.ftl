@@ -9,11 +9,8 @@
 features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } „Слика у слици”: Урадите више са искачућим видео снимцима
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Желите да гледате видео док радите друге ствари? Радите обоје уз { -brand-name-firefox } „Слика у слици”
-features-pip-new-feature-firefox-multi-picture = Нова функција: { -brand-name-firefox } вишеструка „Слика у слици”
-features-pip-cool-feature-picture-in-picture = Кул функција: „Слика у слици”
 features-pip-get-more-done-with-pop-out-videos = Урадите више са искачућим видео снимцима
 features-pip-got-things-to-do-do-both-with = Желите да гледате видео док радите друге ствари? Радите обоје уз { -brand-name-firefox } „Слика у слици”. Омогућава вам да пренесете видео са сајта у посебан прозор, који онда закачите на екран како би наставили да гледате док сте на другим страницама, картицама и апликацијама.
-features-pip-play-the-video = Пусти видео
 features-pip-heres-how-it-works = Ево како то ради:
 features-pip-play-any-video-in-your-updated = <strong>Пустите било који видео</strong> у вашем { -brand-name-firefox } прегледачу, као овај за пример.
 features-pip-play-any-video-in-your = <strong>Пустите било који видео</strong> у вашем { -brand-name-firefox } прегледачу, као овај са мечићима црвене панде.

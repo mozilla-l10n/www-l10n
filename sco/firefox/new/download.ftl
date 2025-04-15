@@ -25,18 +25,12 @@ firefox-new-need-help = Needin hauners?
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">nae langer provides siccarness updates</a> on { -brand-name-windows } { -brand-name-xp } or { -brand-name-vista }, but ye can still yaise { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Yer doonload should stert automatically. Didnae wirk? <a id="{ $id }" href="{ $fallback_url }">Gie doonloadin anither shot</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } is mair than a stravaiger.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Yer doonload wis interruptit. But it's no gemme's a bogey jist yet.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = Gonnae follae <a href="{ $url }">these instructions</a> fur tae instaw { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Yer system micht no match the requirements fur { -brand-name-firefox }, but ye can try yin o <a href="{ $url }">these versions</a>.

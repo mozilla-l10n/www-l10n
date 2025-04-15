@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Tasuta veebilehitseja
-new-platform-download-firefox = { -brand-name-firefox }i allalaadimine
 new-platform-download-the-fastest = Laadi alla kiireim { -brand-name-firefox } üldse
 new-platform-faster-page-loading = Koos kiire lehtede laadimise, väiksema mälukasutuse ja paljude võimalustega on uus { -brand-name-firefox } kohal.
 new-platform-2x-faster = 2x kiirem
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Laadi alla tasuta veebilehitseja { -b
 new-platform-download-the-fastest-linux = Laadi alla kiireim { -brand-name-firefox } { -brand-name-linux }ile
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Kiirema veebilehtede laadimise, väiksema mälukasutuse ja paljude lisafunktsioonidega uus { -brand-name-firefox } { -brand-name-linux }ile on kohal.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } { -brand-name-linux }ile
 new-platform-privacy-more-than = Privaatsus - enam kui vaid poliitika
 new-platform-your-life-your-business = Sinu elu on sinu asi. { -brand-name-firefox } blokib kolmanda osapoole küpsised { -brand-name-linux }il.
 new-platform-speed-meet-security = Kiire kohtub turvalisega. { -brand-name-firefox } on kaks korda kiirem, kasutades 30% vähem mälu kui { -brand-name-chrome }.

@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = Жалғастыру арқылы сіз <a href="{ $url1 }">Қызмет көрсету шарттары</a> және <a href="{ $url2 }">Жекелік ескертуімен</a> келісесіз.
 fxa-form-email-address = Эл. пошта адресі
 fxa-form-continue = Жалғастыру
-fxa-form-create-account = Тіркелгі жасау
-fxa-form-get-the-app = Қолданбаны алу

@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = <strong>Endatescha tia adressa dad e-mail</strong
 fxa-form-by-proceeding = Sche ti cuntinueschas, acceptas ti las <a href="{ $url1 }">cundiziuns d'utilisaziun</a> e las <a href="{ $url2 }">infurmaziuns davart la protecziun da datas</a>.
 fxa-form-email-address = Adressa dad e-mail
 fxa-form-continue = Cuntinuar
-fxa-form-create-account = Crear in conto
-fxa-form-get-the-app = Telechargiar l'app

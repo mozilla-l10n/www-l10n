@@ -20,7 +20,6 @@ firefox-channel-all-languages-and-builds = Ҳамаи забонҳо ва сох
 firefox-channel-firefox-beta-automatically = Браузери «{ -brand-name-firefox-beta }» омори истифодабариро ба ташкилоти «{ -brand-name-mozilla }» ба таври худкор мефиристонад.
 firefox-channel-nightly-blog = Блоги «{ -brand-name-nightly }»
 firefox-channel-firefox-nightly-automatically = Браузери «{ -brand-name-firefox-nightly }» омори истифодабариро ба ташкилоти «{ -brand-name-mozilla }» ба таври худкор мефиристонад.
-firefox-channel-try-new-browser-features = Хусусиятҳои навро дар версияи пешакии браузер озмоед | «{ -brand-name-firefox }»
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-release-notes = Қайдҳои нашр
 firefox-channel-previous-nightly-builds = Сохтҳои пешинаи «{ -brand-name-nightly }»

@@ -14,7 +14,6 @@ mobile-focus-simply-private-mobile = Navigaziun mobila, simpla e discreta
 mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } è il navigatur spezial per defender tia sfera privata cun protecziun automatica cunter fastizaders. Cun { -brand-name-focus } chargian tias paginas pli svelt e tias datas restan privatas.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } stat a disposiziun tant per apparats dad { -brand-name-ios } sco era per tals dad { -brand-name-android }.
 mobile-focus-get-firefox-focus = Telechargia { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = Trametta ina colliaziun per telechargiar a tes telefonin.
 mobile-focus-scan-the-qr-code-to-get-started = Scannescha il code QR per entschaiver
 mobile-focus-scan-alt-text = Scannescha il code QR per telechargiar { -brand-name-firefox-focus }
 mobile-focus-delete-your-history = Stizza tia cronologia

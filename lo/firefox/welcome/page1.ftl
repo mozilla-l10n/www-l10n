@@ -10,7 +10,6 @@ welcome-page1-more-than-a-browser-mozilla = ຫຼາຍກວ່າຕົວທ
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = ດໍາເນີນຂັ້ນຕອນຕໍ່ໄປເພື່ອປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງທ່ານອອນໄລນ໌ດ້ວຍຜະລິດຕະພັນຂອງຄອບຄົວ { -brand-name-firefox }.
 welcome-page1-stay-ahead-of-hackers-check-v2 = ຢູ່ນຳໜ້າພວກແຮກເກີ. ກວດສອບການລະເມີດຂໍ້ມູນດ້ວຍ { -brand-name-mozilla-monitor }.
-welcome-page1-youre-on-track-to-stay-protected = ທ່ານຢູ່ໃນເສັ້ນທາງທີ່ຈະຮັກສາການປົກປ້ອງ
 welcome-page1-youve-got-the-web-browser = ທ່ານມີເວັບບຣາວເຊີທີ່ປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າ - ດຽວນີ້ເຖິງເວລາແລ້ວທີ່ຈະຊອກຫາແຮກເກີ.
 welcome-page1-check-your-breach-report = ກວດເບິ່ງບົດລາຍງານການລະເມີດຂອງທ່ານ
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

@@ -14,8 +14,6 @@ bookmark-manager-organize-your-bookmarks-with = Sistemoni faqerojtësit tuaj në
 bookmark-manager-bookmarks-are-links-you-save = Faqerojtësit janë lidhje që i ruani në shfletuesin tuaj, që të mund të riktheheni shpejt dhe kollaj te vendet tuaj të parapëlqyer në web. { -brand-name-firefox }-i përfshin një përgjegjës të dobishëm faqerojtësish, që të sistemoni, të kërkoni, të përditësoni dhe <a { $sync }>të njëkohësoni krejt lidhjet tuaja të ruajtura nëpër krejt pajisjet tuaja</a>.
 bookmark-manager-organize-your-boomarks-into = Sistemojini faqerojtësit tuaj në dosje në të cilat mund të kërkohet
 bookmark-manager-collect-your-bookmarks-in-folders = Grumbullojini faqerojtësit tuaj në dosje dhe vëruni etiketa, për më tepër hollësi. Mundeni edhe t’i renditni faqerojtësit tuaj, për të gjetur shpejt ata që ju duhen.
-# Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-bookmark-manager = Figurë nga dritare përgjegjësi faqerojtësish në { -brand-name-firefox }.
 bookmark-manager-easily-import-bookmarks = Importoni kollaj faqerojtës
 bookmark-manager-you-can-import-your-bookmarks = Faqerojtësit mund t’i importoni nga Chrome, Safari ose Edge, me mekanizimin e importimit të { -brand-name-firefox }-it. Thjesht klikoni Faqerojtës > Administroni Faqerojtës dhe mandej përzgjidhni “Importoni dhe Kopjeruajini”.
 # Used as an accessible text alternative for an image

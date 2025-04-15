@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = Obtén { -brand-name-firefox } para tu empresa con { -brand-name-esr } y lanzamiento rápido
 firefox-enterprise-get-unmatched-data-protection = Obtén una protección de datos sin igual en la línea de lanzamiento que te acomoda con { -brand-name-firefox } para empresas. Descarga la versión { -brand-name-esr } o la de lanzamiento rápido.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = General
-firefox-enterprise-downloads = Descargas
 firefox-enterprise-get-firefox-for-your-enterprise = Obtén { -brand-name-firefox } para tu empresa
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

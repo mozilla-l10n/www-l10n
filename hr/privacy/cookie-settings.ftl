@@ -22,9 +22,6 @@ cookie-settings-category-necessary-what-are-subheading = Što su potrebni kolač
 cookie-settings-category-analytics-heading = Analitika
 cookie-settings-category-analytics-what-are-subheading = Što su kolačići analitike?
 
-## Consent section
-
-
 ## Privacy section
 
 cookie-settings-privacy-heading = Naše napomene o privatnosti

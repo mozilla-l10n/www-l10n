@@ -14,7 +14,6 @@ footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Пайгирӣ кардани @{ -brand-name-mozilla }
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -29,7 +28,6 @@ footer-refresh-support = Дастгирӣ
 footer-refresh-product-help = Кумак барои маҳсулот
 footer-refresh-file-a-bug = Гузориш дар бораи хато
 footer-refresh-localize-mozilla = Маҳаллисозии «{ -brand-name-mozilla }»
-footer-refresh-brand-standards = Стандартҳои бренд
 footer-refresh-developers = Барномасозон
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

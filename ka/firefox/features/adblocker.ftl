@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = როგორ ავირიდოთ მომაბეზრებელი რეკლამები შეზღუდვის საშუალებებით
 features-adblocker-how-to-stop-seeing-too = როგორ შეგიძლიათ ხელი შეუშალოთ ზედმეტად ბევრი რეკლამების ჩვენებასა და დაწესებულებების მიერ თქვენს მოქმედებებზე თვალის დევნებას ინტერნეტში. რეკლამების შეზღუდვის სახელმძღვანელო, { -brand-name-firefox }-ბრაუზერისგან.
 features-adblocker-the-ad-blocker-a-secret = რეკლამების შემზღუდავი – საიდუმლო იარაღი მომაბეზრებელი რეკლამების წინააღმდეგ.
 features-adblocker-so-many-ads-so-little = იმატებს რეკლამები, მცირდება მოთმინება… დროა, დასრულდეს ეს სიგიჟე.

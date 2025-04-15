@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Libreng Web Browser
-new-platform-download-firefox = I-download ang { -brand-name-firefox }
 new-platform-2x-faster = Dobleng Bilis
 new-platform-download-in-another = I-download sa ibang wika
 new-platform-need-help = Kailangan ng tulong?
@@ -17,8 +16,6 @@ new-platform-need-help = Kailangan ng tulong?
 # Linux
 
 new-platform-download-mozilla-linux = i-Download ang { -brand-name-mozilla } { -brand-name-firefox } para sa { -brand-name-linux }
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } para sa { -brand-name-linux }
 new-platform-privacy-more-than = Privacy - higit pa sa isang patakaran
 new-platform-open-source = Open source
 

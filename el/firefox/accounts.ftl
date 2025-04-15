@@ -26,7 +26,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Αποθήκευση κ
 firefox-accounts-get-email-alerts = Λήψη ειδοποιήσεων μέσω email εάν εμφανιστούν τα στοιχεία σας σε γνωστή παραβίαση δεδομένων
 firefox-accounts-protect-your-identity = Προστασία της ταυτότητάς σας με ασφαλή απόκρυψη τηλεφώνου και email
 firefox-accounts-keep-your-passwords = Προστασία και φορητότητα κωδικών πρόσβασης.
-firefox-accounts-get-a-lookout-for = Παρακολούθηση παραβιάσεων δεδομένων.
 firefox-accounts-travel-the-internet = Περιήγηση στο διαδίκτυο με ασφάλεια, σε κάθε συσκευή.
 firefox-accounts-encrypt-your = Κρυπτογράφηση της δραστηριότητας και απόκρυψη της διεύθυνσης IP σας
 firefox-accounts-we-never = Δεν καταγράφουμε και δεν κοινοποιούμε ποτέ τα δεδομένα δικτύου σας
@@ -38,6 +37,5 @@ firefox-accounts-get-it-all-on-every = Όλα αυτά σε κάθε συσκε�
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

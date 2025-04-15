@@ -9,11 +9,9 @@
 vpn-resource-center-title = VPN-boarnensintrum
 vpn-resource-center-whats-the-deal = Hoe sit it mei Virtual Private Networks?
 vpn-resource-center-discover-how-they = Untdek hoe’t se wurkje, wêrom se wichtich binne en wat it gebrûk fan in VPN foar jo dwaan kin.
-vpn-resource-center-view-all = Alles besjen
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = Begjin hjoed noch mei it beskermjen fan jo identiteit
 vpn-resource-center-obsessed-with = Obsedearre troch jo privacy sûnt 1998
-vpn-resource-center-get-mozilla-vpn = { -brand-name-mozilla-vpn } downloade
 vpn-resource-center-was-this-article = Wie dit artikel behelpsum?
 vpn-resource-center-article-helpful = Artikel behelpsum
 vpn-resource-center-article-not-helpful = Artikel net behelpsum

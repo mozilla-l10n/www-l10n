@@ -28,4 +28,3 @@ firefox-developer-learn-more-about-style = Alamin pa ang tungkol sa Style Editor
 firefox-developer-inactive-css = Inactive CSS
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-master-css-grid = Master CSS Grid
-firefox-developer-shapes-editor = Shapes Editor

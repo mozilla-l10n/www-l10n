@@ -14,7 +14,6 @@ mobile-focus-simply-private-mobile = Проста прыватнае мабіл�
 mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } — ваш адданы прыватны браўзер з аўтаматычнай аховай ад сачэння. З { -brand-name-focus } вашыя старонкі загружаюцца хутчэй, а звесткі застаюцца прыватнымі.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } даступны як для { -brand-name-ios }, так і для { -brand-name-android } прылад.
 mobile-focus-get-firefox-focus = Атрымаць { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = Адпраўце спасылку для сцягвання на свой тэлефон.
 mobile-focus-scan-the-qr-code-to-get-started = Скануйце QR-код, каб пачаць
 mobile-focus-scan-alt-text = Скануйце QR-код, каб атрымаць { -brand-name-firefox-focus }
 mobile-focus-delete-your-history = Выдаляйце сваю гісторыю

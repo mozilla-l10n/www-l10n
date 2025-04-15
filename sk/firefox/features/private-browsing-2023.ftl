@@ -8,8 +8,6 @@
 features-private-browsing-private-browsing-mode = Režim súkromného prehliadania
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = Režim súkromného prehliadania vo { -brand-name-firefox(case: "loc") }
-# HTML page description
-features-private-browsing-firefox-protects = { -brand-name-firefox } chráni vaše súkromie na internete a blokuje sledovacie prvky, ktoré vás na internete sledujú.
 features-private-browsing-if-you-share-a-computer = Ak zdieľate počítač s inými ľuďmi alebo ak chcete obmedziť množstvo údajov, ktoré o vás môžu webové stránky zhromažďovať, môžete použiť režim súkromného prehliadania vo { -brand-name-firefox(case: "loc") }. Súkromné prehliadanie vymaže digitálne stopy, ktoré zanecháte pri prehliadaní online – predstavte si ich ako stopy v lese.
 features-private-browsing-what-does-private-browsing-do = Čo robí súkromné prehliadanie?
 features-private-browsing-private-browsing-mode-opens-v2 = Režim súkromného prehliadania otvorí nové okno prehliadača. Keď zatvoríte posledné okno súkromného prehliadania, vaša história prehliadania a všetky sledovacie súbory cookie z webových stránok, ktoré ste navštívili, sa vymažú. <strong>Tip od profesionálov používajúcich { -brand-name-firefox }:</strong> keď skončíte, nezabudnite zavrieť všetky okná súkromného prehliadania!

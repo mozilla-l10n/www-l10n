@@ -20,7 +20,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Kas un ivinell</a> d’un trev
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Enrollañ ha goubredañ gerioù-tremen</a>
 firefox-accounts-keep-your-passwords = Dalc’hit ho kerioù-tremen gwarezet ha ganeoc’h bepred.
-firefox-accounts-get-a-lookout-for = Dizoleiñ ar fuadurioù roadennoù.
 firefox-accounts-travel-the-internet = Merdeit gwarezet war internet, war pep trevnad.
 firefox-accounts-save-articles = Enrollañ lec’hiennoù deus ar genrouedad a-bezh
 firefox-accounts-read-in-a = Lennit en ul lec’h sioul ha prevez
@@ -30,6 +29,5 @@ firefox-accounts-get-it-all-on-every = Kavit pep tra war pep trevnad hep bezañ 
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

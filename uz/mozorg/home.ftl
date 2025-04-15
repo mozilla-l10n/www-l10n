@@ -7,7 +7,6 @@
 
 home-internet-for-people-not-profit = Internet foyda ko‘rish uchun emas – u insonlar uchun
 home-our-impact = Faoliyatimiz
-home-working-at-the-grassroots-and = Barcha uchun internetni ochiq, xavfsiz va oson qilish uchun ishlaymiz. Veb bo‘yicha savodingizni oshiramiz. Turli dastulash asboblari bilan ta’minlaymiz va internetni ochiq global manba deb hisoblovhi har bir kishini himoya qilamiz.
 home-read-our-internet-health-report = Internet sog‘ligi haqidagi hisobotimiz bilan tanishing
 home-our-innovations = Innovatsiya
 home-using-the-web-as-the-platform = Internetdan platforma sifatida foydalanib, ochiq, innovativ texnologiyalarni tuzamiz. Bu texnologiyalar dasturchilarga ochiq, korporativ ekotizimlar ustida ishlash, internetni tez va xavfsiz qilish imkonini beradi.

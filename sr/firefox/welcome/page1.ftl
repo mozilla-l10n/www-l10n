@@ -8,7 +8,6 @@
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Предузмите следећи корак да заштитите вашу приватност на мрежи помоћу { -brand-name-firefox } породице производа.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Будите корак испред хакера. Пратите цурење података преко { -brand-name-mozilla-monitor }-а
-welcome-page1-youre-on-track-to-stay-protected = На добром сте путу ка бољој заштити
 welcome-page1-youve-got-the-web-browser = Већ имате прегледач који штити вашу приватност, а сада је време да се сачувате од хакера.
 welcome-page1-check-your-breach-report = Погледајте извештај о цурењу података
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

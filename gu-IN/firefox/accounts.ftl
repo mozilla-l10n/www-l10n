@@ -9,7 +9,6 @@ firefox-accounts-enter-your-email-address = શરુ કરવા માટે 
 firefox-accounts-already-have-an-account = પહેલેથી જ એક એકાઉન્ટ છે?
 firefox-accounts-sign-in = સાઇન ઇન કરો
 firefox-accounts-keep-your-passwords = તમારા પાસવર્ડ્સ સુરક્ષિત અને પોર્ટેબલ રાખો.
-firefox-accounts-get-a-lookout-for = ડેટા ભંગ માટે એક લૂકઆઉટ મેળવો.
 firefox-accounts-travel-the-internet = દરેક ઉપકરણ પર, સુરક્ષા સાથે ઇન્ટરનેટની મુસાફરી કરો.
 firefox-accounts-get-it-all-on-every = એક જ ઑપરેટિંગ સિસ્ટમમાં ફસાયેલા લાગ્યાં વિના, દરેક ઉપકરણ પર તે બધું મેળવો.
 

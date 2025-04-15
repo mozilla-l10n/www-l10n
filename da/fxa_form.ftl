@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = <strong>Indtast din mailadresse</strong> for at o
 fxa-form-by-proceeding = Ved at fortsætte accepterer du <a href="{ $url1 }">tjenestevilkårene</a> og <a href="{ $url2 }">privatlivserklæringen</a>.
 fxa-form-email-address = Mailadresse
 fxa-form-continue = Fortsæt
-fxa-form-create-account = Opret konto
-fxa-form-get-the-app = Hent appen

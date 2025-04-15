@@ -3,31 +3,12 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 download-button-download-now = දැන් බාගන්න
-download-button-free-download = නොමිලේ බාගන්න
 download-button-firefox-beta = { -brand-name-firefox-beta }
 download-button-firefox-aurora = { -brand-name-firefox-aurora }
 download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span> { -brand-name-developer-edition }
 download-button-firefox-nightly = { -brand-name-firefox-nightly }
-download-button-supported-devices = සහාය දක්වන උපාංග
-download-button-whats-new = අළුත් දෑ
 download-button-systems-languages = පද්ධති amp; භාෂා
-download-button-recommended = නිර්දේශිත
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-download-button-mozilla-no-longer-provides = <a href="{ $url }">{ -brand-name-mozilla } තව දුරටත් { -brand-name-windows } { -brand-name-xp } හෝ { -brand-name-vista }</a> සඳහා { -brand-name-firefox } ආරක්‍ෂණ යාවත්කාල ලබා නොදේ. නමුත් ඔබට තවමත් අවසාන { -brand-name-windows } බිටු-32 අනුවාදය පහතින් බාගැනීමට හැකිය.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-download-button-please-follow-these = කරුණාකර { -brand-name-firefox } ස්ථාපනයට <a href="{ $url }">මෙම උපදෙස්</a> පිළිපදින්න.
-# Variables:
-#   $url (url) - link to https://www.mozilla.org/firefox/system-requirements/
-download-button-your-system-does-not = ඔබගේ පද්ධතිය { -brand-name-firefox } ධාවනය කිරීමට <a href="{ $url }">අවශ්‍යතා</a> සපුරාලන්නේ නැත.
-download-button-firefox-other-platforms = වෙනත් පද්ධති සහ භාෂා සඳහා { -brand-name-firefox }
-download-button-update-your-firefox = { -brand-name-firefox } යාවත්කාල කරන්න
-download-button-get-firefox-android = { -brand-name-android } සඳහා { -brand-name-firefox } ගන්න
-download-button-get-firefox-ios = { -brand-name-ios } සඳහා { -brand-name-firefox } ගන්න
 download-button-google-play = { -brand-name-google-play } වෙතින් ගන්න
-download-button-free-google-play = { -brand-name-google-play } වෙතින් නොමිලේ ගන්න
-download-button-app-store = { -brand-name-app-store } වෙතින් නොමිලේ ගන්න
 download-button-download-app-store = { -brand-name-app-store } වෙතින් බාගන්න
 download-button-download-firefox = { -brand-name-firefox } බාගන්න
 download-button-your-system-may = ඔබගේ පද්ධතිය { -brand-name-firefox } සඳහා අවශ්‍යතා සපුරාලන්නේ නැත, නමුත් ඔබට මෙම අනුවාද වලින් එකක් උත්සාහ කළ හැකිය:

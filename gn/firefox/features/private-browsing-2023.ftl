@@ -8,8 +8,6 @@
 features-private-browsing-private-browsing-mode = Kundaha ñemigua reko
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = Ñeikundaha ñemigua reko { -brand-name-firefox } mba’éva
-# HTML page description
-features-private-browsing-firefox-protects = { -brand-name-firefox } omo’ã ne rekoñemi ñandutípe ha ojoko umi tapykuehoha nde rapykuehóva ñandutípe.
 features-private-browsing-what-does-private-browsing-do = Mba’épa ojapo kundaha ñemigua
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = Kundahára rovetã { -brand-name-firefox } kundahára ñemigua rekópe.

@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Darmotny webwobhladowak
-new-platform-download-firefox = { -brand-name-firefox } sćahnyć
 new-platform-download-the-fastest = Sćehńće dotal najspěšniši { -brand-name-firefox }
 new-platform-faster-page-loading = Strony so spěšnišo začitaja, mjenje składa so wužiwa a z wjele funkcijemi: Nowy { -brand-name-firefox } je wušoł.
 new-platform-2x-faster = 2x spěšniši
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Sćehńće { -brand-name-mozilla } { 
 new-platform-download-the-fastest-linux = Sćehńće dotal najspěšniši { -brand-name-firefox } za { -brand-name-linux }
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Nowy { -brand-name-firefox } za { -brand-name-linux } je wušoł: Spěšniše čitanje stronow, wužiwanje mjenje składa a połny z funkcijemi.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } za { -brand-name-linux }
 new-platform-privacy-more-than = Priwatnosć - wjace hač směrnica
 new-platform-your-life-your-business = Waše žiwjenje, waš wobchod. { -brand-name-firefox } slědowace placki třećich na { -brand-name-linux } blokuje.
 new-platform-speed-meet-security = Spěšnosć so z wěstotu zetkawa. { -brand-name-firefox } je dwójce tak spěšny kaž { -brand-name-chrome } a wužiwa 30% mjenje składa.

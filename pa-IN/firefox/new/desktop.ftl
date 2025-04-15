@@ -29,23 +29,6 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } ਸ�
 firefox-desktop-download-do-what-you-do-v2 = ਜੋ ਤੁਸੀਂ ਆਨਲਾਈਨ ਕਰਦੇ ਹੋ, ਉਹੀ ਕਰੋ।<br> { -brand-name-firefox-browser } ਤੁਹਾਡੇ ਲਈ<strong>ਢਾਲ</strong> ਹੈ।
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = ਜੋ ਤੁਸੀਂ ਆਨਲਾਈਨ ਕਰਦੇ ਹੋ, ਉਹੀ ਕਰੋ।<br> { -brand-name-firefox-browser } ਵੇਖ <strong>ਨਹੀਂ ਰਿਹਾ</strong> ਹੈ।
-firefox-desktop-download-how-firefox-compares = ਹੋਰਾਂ ਬਰਾਊਜ਼ਰਾਂ ਦੇ ਟਾਕਰੇ ‘ਚ { -brand-name-firefox } ਕਿਵੇਂ ਹੈ
-firefox-desktop-download-get-all-the-speed = ਪਰਦੇਦਾਰੀ ਉੱਤੇ ਸੰਨ੍ਹ ਤੋਂ ਬਗੈਰ ਗਤੀ ਅਤੇ ਸਾਰੇ ਟੂਲ ਲਵੋ। { -brand-name-firefox-browser } ਤੁਹਾਡੇ ਬਾਰੇ ਬਹੁਤ ਘੱਟ ਜਾਣਕਾਰੀ ਇਕੱਤਰ ਕਰਦਾ ਹੈ, ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਸਾਨੂੰ ਤੁਹਾਡਾ ਈਮੇਲ ਐਡਰੈਸ ਵੀ ਨਹੀਂ ਚਾਹੀਦਾ ਹੈ। ਹੋਰ ਬਰਾਊਜ਼ਰਾਂ ਦੇ ਦੇ ਉਲਟ ਅਸੀਂ ਇਹ ਤਾਂ ਕਰ ਸਕਦੇ ਹਾਂ, ਕਿਉਂਕਿ ਸਾਨੂੰ ਵੈੱਬ ਉੱਤੇ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਵਿੱਚ ਕੋਈ ਵਿੱਤੀ ਲਾਲਚ ਨਹੀਂ ਹੈ।
-firefox-desktop-download-how-we-compare = ਅਸੀਂ ਹੋਰਾਂ ਬਰਾਊਜ਼ਰਾਂ ਨਾਲ ਟਾਕਰਾ ਕਿਵੇਂ ਕਰਦੇ ਹਾਂ
-firefox-desktop-download-compare-firefox-to = { -brand-name-firefox } ਨਾਲ ਟਾਕਰਾ:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = ਹਾਂ
-firefox-desktop-download-no = ਨਹੀਂ
-firefox-desktop-download-blocks-third-party = ਤੀਜੀ ਧਿਰ ਟਰੈਕਿੰਗ ਕੂਕੀਜ਼ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਉਣੀ
-firefox-desktop-download-blocks-third-party-default = ਮੂਲ ਰੂਪ ਵਿੱਚ ਤੀਜੀ-ਧਿਰ ਟਰੈਕਿੰਗ ਕੂਕੀਜ਼ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦਾ ਹੈ
-firefox-desktop-download-autoplay-blocking = ਆਪਣੇ-ਆਪ ਚੱਲਣ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਉਣੀ
-firefox-desktop-download-blocks-social-trackers = ਸਮਾਜਿਕ ਟਰੈਕਰਾਂ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਉਣੀ
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ
-firefox-desktop-download-in-browser-screenshot = ਬਰਾਊਜ਼ਰ ਵਿਚੇ ਸਕਰੀਨਸ਼ਾਟ ਟੂਲ
-firefox-desktop-download-primary-password = ਮੁੱਖ ਪਾਸਵਰਡ
 firefox-desktop-download-we-block-the-ad = ਅਸੀਂ ਇਸ਼ਤਿਹਾਰੀ ਟਰੈਕਰਾਂ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦੇ ਹਾਂ। ਤੁਸੀਂ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਇੰਟਰਨੈੱਟ ਵਰਤਦੇ ਹੋ।
 firefox-desktop-download-ads-are-distracting = ਇਸ਼ਤਿਹਾਰ ਧਿਆਨ ਭਟਕਾਉਂਦੇ ਅਤੇ ਵੈੱਬ ਸਫ਼ਿਆਂ ਨੂੰ ਲੋਡ ਕਰਨਾ ਹੌਲੀ ਕਰ ਦਿੰਦੇ ਹਨ, ਜਦੋਂ ਕਿ ਟਰੈਕਰ ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਆਨਲਾਈਨ ਸਰਗਰਮੀਆਂ ਦੀ ਸੂਹ ਲੈਂਦੇ ਹਨ। { -brand-name-firefox-browser } ਆਪਣੇ-ਆਪ ਹੀ ਬਹੁਤੇ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦਾ ਹੈ, ਤਾਂ ਕਿ ਤੁਹਾਨੂੰ ਆਪਣੀ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ ਦੀ ਜਾਂਚ ਨਾ ਕਰਨੀ ਪਵੇ।
 firefox-desktop-download-see-your-report = ਆਪਣੀ ਸੁਰੱਖਿਆ ਰਿਪੋਰਟ ਵੇਖੋ
@@ -146,7 +129,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ਆਪ�
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ਕੋਈ ਸਵਾਲ? <a { $attrs }>{ -brand-name-mozilla } ਸਹਿਯੋਗ</a> ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ।
-firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monitor } ਨਾਲ ਹੈਕਰਾਂ ਤੋਂ ਬਚਾਅ ਰੱਖੋ, { -brand-name-firefox-relay } ਨਾਲ ਆਪਣੇ ਈਮੇਲ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ ਅਤੇ ਕਈ ਕੁਝ ਹੋਰ।
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -169,18 +151,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = ਜੇ ਤੁਹਾਨੂੰ ਐਪ ਸ਼ੁਰੂ ਵੇਲੇ ਪੁੱਛਿਆ ਜਾਂਦਾ ਕਿ ਤੁਸੀਂ { -brand-name-microsoft }-ਜਾਂਚ ਕੀਤੀ ਐਪ ਇੰਸਟਾਲ ਨਹੀਂ ਕਰ ਸਕਦੇ ਤਾਂ  “Install anyway” ਜਾਂ <a { $attrs }>change app recommendation settings</a> ਨੂੰ ਕਲਿੱਕ ਕਰੋ।
 firefox-desktop-download-visit-support-for-more = ਹੋਰ ਵੇਰਵਿਆਂ ਲਈ ਸਹਾਇਤਾ ਨੂੰ ਵੇਖੋ
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } { -brand-name-windows } { -brand-name-xp } ਜਾਂ { -brand-name-vista } ਲਈ <a href="{ $url }">ਹੁਣ ਸੁਰੱਖਿਆ ਅੱਪਡੇਟ ਨਹੀਂ ਦਿੰਦਾ ਹੈ</a>, ਪਰ ਤੁਸੀਂ ਹਾਲੇ ਵੀ { -brand-name-firefox } ਨੂੰ ਵਰਤਣਾ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹੋ।
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = ਤੁਹਾਡਾ ਡਾਊਨਲੋਡ ਆਪਣੇ-ਆਪ ਸ਼ੁਰੂ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ। ਨਹੀਂ ਹੋਇਆ? <a id="{ $id }" href="{ $fallback_url }">ਮੁੜ ਡਾਊਨਲੋਡ ਕਰਕੇ ਵੇਖੋ।</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ਬਰਾਊਜ਼ਰ ਤੋਂ ਵਧਕੇ ਹੈ।
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = ਤੁਹਾਡੇ ਡਾਊਨਲੋਡ ਵਿੱਚ ਰੁਕਾਵਟ ਆਈ ਹੈ। ਪਰ ਸਭ ਖ਼ਤਮ ਨਹੀਂ ਹੋਇਆ।
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = { -brand-name-firefox } ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਲਈ <a href="{ $url }">ਇਹਨਾਂ ਸੇਧਾਂ</a> ਦੀ ਪਾਲਣਾ ਕਰੋ।
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = { -brand-name-firefox } ਲਈ ਤੁਹਾਡਾ ਸਿਸਟਮ ਲੋੜਾਂ ਪੂਰੀਆਂ ਨਹੀਂ ਕਰਦਾ ਹੈ, ਪਰ ਤੁਹਾਨੂੰ <a href="{ $url }">ਇਹਨਾਂ ਵਰਜ਼ਨਾਂ</a> ਵਿੱਚੋਂ ਇੱਕ ਵਰਤ ਕੇ ਵੇਖਣਾ ਚਾਹੀਦਾ ਹੈ।

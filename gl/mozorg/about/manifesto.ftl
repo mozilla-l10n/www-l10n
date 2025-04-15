@@ -7,17 +7,6 @@
 
 # HTML page title
 manifesto-the-mozilla-manifesto = O { -brand-name-mozilla } Manifesto
-manifesto-transparent-community = Os procesos transparentes e baseados en comunidades promoven a participación, a responsabilidade e a confianza.
-manifesto-01 = 1
-manifesto-02 = 2
-manifesto-03 = 3
-manifesto-04 = 4
-manifesto-05 = 5
-manifesto-06 = 6
-manifesto-07 = 7
-manifesto-08 = 8
-manifesto-09 = 9
-manifesto-10 = 10
 manifesto-our-10-principles = <strong>Nosos 10</strong> principios
 manifesto-read-the-entire-manifesto = Lea o manifesto completo
 manifesto-details-the-mozilla-manifesto = O { -brand-name-mozilla } Manifesto

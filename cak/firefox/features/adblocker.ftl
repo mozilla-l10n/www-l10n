@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Achike rub'eyal ye'awïl itzel taq eltzijol rik'in jun q'atöy eltzijol
 features-adblocker-how-to-stop-seeing-too = Achike rub'eyal man ye'atz'ët ta chik k'ïy taq eltzijol chuqa' ye'aq'ät ri ajk'ayij yatkojqaj pa k'amab'ey. Jun rucholajem chi kij q'atonela' eltzijol, richin ri { -brand-name-firefox } ajk'amaya'l.
 features-adblocker-the-ad-blocker-a-secret = El q'atoy eltzijol – jun ewan samajib'äl yeruq'ät itzel taq eltzijol.
 features-adblocker-so-many-ads-so-little = ¿La man nawïl ta achike nab'än kik'in ri eltzijol? ramaj chik richin ye'aq'ät.

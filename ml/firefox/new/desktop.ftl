@@ -7,12 +7,6 @@
 
 firefox-desktop-download-download-options = ഇറക്കിവയ്ക്കൽ സാധ്യതകളും മറ്റെ ഭാഷകളും
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } പിന്തുണ
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = അതെ
-firefox-desktop-download-no = ഇല്ല
-firefox-desktop-download-blocks-third-party = മൂന്നാം കക്ഷി പിന്തുടൎച്ച കുക്കികളെ തടയുന്നു
 firefox-desktop-download-bookmark-history = അടയാളക്കുറിപ്പുകളും നാൾവഴിയും തുറന്ന ടാബുകളും ഫലങ്ങളിൽ കാണുക
 firefox-desktop-download-sync-across-devices = എല്ലാ ഉപകരണങ്ങളും സമന്വയിപ്പിക്കുക
 firefox-desktop-download-reader-mode = വായന പരി

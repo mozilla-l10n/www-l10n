@@ -21,22 +21,6 @@ firefox-desktop-download-download-options = Opcions de descarga y atros idiomas
 firefox-desktop-download-browser-support = Aduya de { -brand-name-firefox-browser }
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Fe lo que fafass en linia.<br> { -brand-name-firefox-browser } <strong>no te ye</strong> mirando.
-firefox-desktop-download-how-firefox-compares = Compara { -brand-name-firefox } con atros navegadors
-firefox-desktop-download-get-all-the-speed = Obtiene tota la velocidat y las ferramientas sin las invasions a la privacidat. { -brand-name-firefox-browser } recopila tant pocos datos sobre tu que ni sisquiera te solicitamos la tuya adreza de correu electronico pa descargar-lo. Esto ye perque, a diferencia d'atros navegadors, no tenemos garra interés economico pa seguir-te per la Web.
-firefox-desktop-download-how-we-compare = Cómo nos comparamos con atros navegadors
-firefox-desktop-download-compare-firefox-to = Compara { -brand-name-firefox } con:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Sí
-firefox-desktop-download-no = No
-firefox-desktop-download-blocks-third-party = Bloca las cookies de seguimiento de tercers
-firefox-desktop-download-blocks-third-party-default = Bloca las cookies de seguimiento de tercers per defecto
-firefox-desktop-download-autoplay-blocking = Bloca la reproducción automatica
-firefox-desktop-download-blocks-social-trackers = Bloca los elementos de seguimiento en retz socials
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = Disponibilidat pa sistemas operativos
-firefox-desktop-download-in-browser-screenshot = Ferramienta de captura de pantalla en o navegador
 firefox-desktop-download-we-block-the-ad = Blocamos los elementos de seguimiento publicitarios. Per ixo, puetz explorar mas aprisa internet.
 firefox-desktop-download-ads-are-distracting = La publicidat distraye y fa que las pachinas web se carguen mas pandas, mientres que los elementos de seguimiento observan cada movimiento que fas en linia. { -brand-name-firefox-browser } bloca la mayoría d'os elementos de seguimieto automaticament, per lo que no ye necesario rechirar en os achustes de seguranza.
 firefox-desktop-download-see-your-report = Mira lo tuyo reporte de protección
@@ -149,18 +133,12 @@ firefox-desktop-download-now-mac = Agora <strong>ubre</strong> lo fichero que ac
 firefox-desktop-download-get-help = Tiens problemas? <a { $attrs }>Aquí trobarás aduya sobre la tuya instalación</a>.
 firefox-desktop-download-in-another-language = Descargar en belatro idioma u pa belatro sistema operativo.
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">ya no furneix d'actualizacions de seguranza</a> en { -brand-name-windows } { -brand-name-xp } u { -brand-name-vista }, pero encara i puetz fer servir { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = La tuya descarga habría d'empecipiar automaticament. No s'ha iniciau? <a id="{ $id }" href="{ $fallback_url }">Mira de baixar-lo de nuevas</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ye mas que un navegador.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = La descarga s'ha interrompiu. Pero no tot ye perdiu.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Siga <a href="{ $url }">estas instruccions</a> pa instalar { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Lo suyo sistema no cumple con os requisitos d'o { -brand-name-firefox }, pero puetz prebar una d'<a href="{ $url }">estas versions</a>.

@@ -26,7 +26,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Ruani dhe njëkohësoni
 firefox-accounts-get-email-alerts = Merrni sinjalizime me email, kur hollësitë tuaja shfaqen te një cenim i ditur të dhënash
 firefox-accounts-protect-your-identity = Mbroni identitetin tuaj me maskim të siguruar telefonash dhe email-esh
 firefox-accounts-keep-your-passwords = Mbajini fjalëkalimet tuaja të mbrojtur dhe me vete.
-firefox-accounts-get-a-lookout-for = Merrni njoftime mbi cenim të dhënash.
 firefox-accounts-travel-the-internet = Udhëtoni në internet i mbrojtur, në çdo pajisje.
 firefox-accounts-encrypt-your = Fshehtëzoni veprimtarinë tuaj në rrjet dhe fshihni adresën tuaj IP
 firefox-accounts-we-never = Kurrë s’regjistrojmë, gjurmojmë apo ndajmë me të tjerët të dhënat tuaja të rrjetit
@@ -38,6 +37,5 @@ firefox-accounts-get-it-all-on-every = Kini gjithçka në secilën pajisje, pa u
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

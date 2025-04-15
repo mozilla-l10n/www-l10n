@@ -14,8 +14,6 @@ bookmark-manager-organize-your-bookmarks-with = Organizza i tuoi segnalibri con 
 bookmark-manager-bookmarks-are-links-you-save = I segnalibri sono link ai tuoi siti preferiti sul Web che salvi nel tuo browser, così da poter tornare a a visitarli rapidamente e facilmente. { -brand-name-firefox } include un pratico strumento per la gestione dei segnalibri che ti consente di organizzare, cercare, aggiornare e <a { $sync }>sincronizzare tutti i link salvati in tutti i tuoi dispositivi</a>.
 bookmark-manager-organize-your-boomarks-into = Organizza i tuoi segnalibri in cartelle ricercabili
 bookmark-manager-collect-your-bookmarks-in-folders = Organizza i segnalibri in cartelle ed etichettali con ulteriori dettagli. Puoi anche ordinare i segnalibri per trovare più rapidamente ciò che ti serve.
-# Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-bookmark-manager = Immagine della finestra di gestione segnalibri in { -brand-name-firefox }.
 bookmark-manager-easily-import-bookmarks = Importa facilmente i segnalibri
 bookmark-manager-you-can-import-your-bookmarks = Puoi importare i segnalibri da Chrome, Safari o Edge con la procedura guidata di importazione di { -brand-name-firefox }. Basta fare clic su Segnalibri > Gestisci segnalibri, quindi selezionare “Importa e salva”.
 # Used as an accessible text alternative for an image

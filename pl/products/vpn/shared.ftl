@@ -10,21 +10,6 @@ vpn-shared-subscribe-link = Wypróbuj { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Dołącz do listy oczekujących
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dniowa gwarancja zwrotu pieniędzy
-vpn-shared-features-encrypt = Szyfrowanie na poziomie urządzenia
-vpn-shared-features-bandwidth = Bez ograniczeń przepustowości
-vpn-shared-features-activity = Nie jest rejestrowana Twoja aktywność w sieci
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = Dostęp do serwerów w { $countries }+ krajach
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = Ochrona do { $devices } urządzeń
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = Mocne serwery w { $countries }+ krajach
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = Podłączenie do { $devices } urządzeń
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30-dniowa gwarancja zwrotu pieniędzy
 vpn-shared-privacy-notice = Zasady ochrony prywatności
@@ -59,7 +44,6 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } nie je
 
 # Platform subpage shared strings
 
-vpn-shared-platform-privacy-promise = Twoja prywatność to nasza obietnica
 vpn-shared-platform-what-is = Czym jest { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Dlaczego { -brand-name-mozilla-vpn }?
 # Subnav strings

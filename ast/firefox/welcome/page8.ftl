@@ -5,5 +5,4 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/8/
 
-welcome-page8-firefox-send = { -brand-name-firefox-send }
 welcome-page8-facebook-container = { -brand-name-facebook-container }

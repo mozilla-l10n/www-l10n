@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = প্রাক-রিলিজ { -b
 firefox-channel-download-and-test-future = ডেস্কটপ, { -brand-name-android } এবং { -brand-name-ios } এর জন্য { -brand-name-firefox } এর ভবিষ্যত রিলিজগুলো ডাউনলোড এবং পরখ করুন।
 firefox-channel-experience-cutting-edge-android-updated = { -brand-name-android } এর জন্য প্রাক-রিলিজ ব্রাউজারে নতুন ও উন্নত বৈশিষ্ট্যগুলো উপভোগ করুন: { -brand-name-firefox-beta } এবং { -brand-name-firefox-nightly }। এখনই ইন্সটল করুন!
 firefox-channel-experience-cutting-edge-android = { -brand-name-android } এর জন্য প্রাক-রিলিজ ব্রাউজারে নতুন ও উন্নত বৈশিষ্ট্যগুলো উপভোগ করুন: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } এবং { -brand-name-firefox-nightly }। এখনই ইন্সটল করুন!
-firefox-channel-download-and-test-the-latest-android = { -brand-name-android } এর জন্য { -brand-name-firefox } এর { -brand-name-aurora }, { -brand-name-beta } ও { -brand-name-nightly } বিল্ড ডাউনলোড ও পরখ করুন।
 firefox-channel-try-the-latest-android-features = অবশিষ্ট বিশ্বের কাছে মুক্তি দেওয়ার আগেই, সাম্প্রতিকতম { -brand-name-android } বৈশিষ্ট্যগুলো ব্যবহার করুন।
 firefox-channel-all-languages-and-platforms = সকল ভাষা এবং মাধ্যম
 firefox-channel-all-languages-and-builds = সব ভাষা ও বিল্ড
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = { -brand-name-nightly } ব্লগ
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } একটি পরিবর্তনশীল পরীক্ষামূলক ও ডেভলপমেন্ট প্লাটফর্ম। সমস্যা মোকাবেলায় এবং নতুন ধারণাগুলো পরীক্ষা করতে — পূর্বনির্ধারিতভাবে, বেটা { -brand-name-mozilla } — ও অনেক ক্ষেত্রে অংশীদারদের কাছে তথ্য প্রেরণ করে। <a href="{ $link }">জানুন কি পাঠানো হয়</a>।
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } স্বয়ংক্রিয়ভাবেই { -brand-name-mozilla } কে ফিডব্যাক পাঠিয়ে দেয়।
-firefox-channel-try-new-browser-features = প্রি-রিলিজ সংস্করণে ব্রাউজারের নতুন বৈশিষ্ট্যগুলো পরখ করুন | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = প্রি-রিলিজ সংস্করণে নতুন ও উন্নত ব্রাউজার বৈশিষ্ট্যগুলো উপভোগ করুন: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } এবং { -brand-name-firefox-nightly }। এখনই ডাউনলোড করুন!
 firefox-channel-download-and-test-the-latest-desktop = { -brand-name-developer-edition }, { -brand-name-beta } এবং { -brand-name-nightly } বিল্ডসমূহে, ডেস্কটপ { -brand-name-firefox } ডাউনলোড করে, নতুন ফিচারসমূহ পরখ করুন।
 firefox-channel-beta = { -brand-name-beta }

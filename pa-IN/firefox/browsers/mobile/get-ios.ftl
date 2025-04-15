@@ -9,6 +9,5 @@
 get-ios-firefox-for-ios = { -brand-name-ios } ਲਈ { -brand-name-firefox-browser }
 # HTML page description
 get-ios-firefox-is-fast = { -brand-name-ios } ਲਈ { -brand-name-firefox } ਤੁਹਾਡੇ ਵਲੋਂ ਪਹਿਲੀ ਵਾਰ ਖੋਲ੍ਹਣ ਤੋਂ ਹੀ ਤੇਜ਼, ਸੁਰੱਖਿਅਤ ਅਤੇ ਪ੍ਰਾਈਵੇਟ ਹੁੰਦਾ ਹੈ।
-get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = { -brand-name-ios } ਲਈ { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
 get-ios-firefox-mobile-adapts = { -brand-name-firefox } ਮੋਬਾਈਲ ਤੁਹਾਡੇ ਮੁਤਾਬਕ ਢਲ ਜਾਂਦਾ ਹੈ ਅਤੇ ਤੁਹਾਨੂੰ ਤੁਹਾਡੀਆਂ ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ, ਪਿਛਲੀਆਂ ਖੋਜਾਂ ਤੇ ਪਸੰਦੀਦਾ ਸਾਈਟਾਂ ਵੇਖਣ ਲਈ ਪਹਿਲਾਂ ਤੋਂ ਸੌਖਾ ਬਣਾ ਦਿੰਦਾ ਹੈ।

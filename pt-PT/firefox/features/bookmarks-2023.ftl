@@ -14,8 +14,6 @@ bookmark-manager-organize-your-bookmarks-with = Organize os seus marcadores com 
 bookmark-manager-bookmarks-are-links-you-save = Os marcadores são ligações que guarda no seu navegador para que possa, rápida e facilmente, voltar aos seus lugares favoritos na web. O { -brand-name-firefox } inclui um gestor de marcadores útil para que possa organizar, pesquisar, atualizar e <a { $sync }>sincronizar todas as suas ligações guardadas em todos os seus dispositivos</a>.
 bookmark-manager-organize-your-boomarks-into = Organize os seus marcadores em pastas pesquisáveis
 bookmark-manager-collect-your-bookmarks-in-folders = Reúna os seus marcadores em pastas e adicione etiquetas com mais detalhes. Pode também ordenar os seus marcadores para encontrar rapidamente aqueles que precisa.
-# Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-bookmark-manager = Imagem da janela do gestor de marcadores no { -brand-name-firefox }.
 bookmark-manager-easily-import-bookmarks = Importe marcadores facilmente
 bookmark-manager-you-can-import-your-bookmarks = Pode importar os seus marcadores do Chrome, Safari ou Edge com o assistente de importação do { -brand-name-firefox }. Basta clicar em Marcadores > Gerir marcadores e depois selecionar “Importar e criar cópia de segurança”.
 # Used as an accessible text alternative for an image

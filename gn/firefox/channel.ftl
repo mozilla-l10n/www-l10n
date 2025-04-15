@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Eiporumína umi tembiapoite pyahu pe
 firefox-channel-download-and-test-future = Emboguejy ha eiporumi rembiapokue pyahu { -brand-name-firefox } mesa arigua, { -brand-name-android } ha { -brand-name-ios } rehegua.
 firefox-channel-experience-cutting-edge-android-updated = Ehechakuaa umi kundaha rembiapoite ipyahúva { -brand-name-android } rehegua oiporukuaa’ỹre opavave: { -brand-name-firefox-beta } y { -brand-name-firefox-nightly }. ¡Emboguejýna!
 firefox-channel-experience-cutting-edge-android = Ehechakuaa umi kundaha rembiapoite ipyahúva { -brand-name-android } rehegua ko’ã porupyrã reheve: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } y { -brand-name-firefox-nightly }. ¡Emboguejýna!
-firefox-channel-download-and-test-the-latest-android = Emboguejy ha eiporu umi mba’eta ipyahuvéva { -brand-name-firefox } mba’éva { -brand-name-android }-pe g̃uarãva, { -brand-name-aurora }, { -brand-name-beta } ha { -brand-name-nightly } rehegua.
 firefox-channel-try-the-latest-android-features = Eiporu umi tembiapokue ipyahuetéva { -brand-name-android } pegua ojeporukuaa mboyve arapy tuichakue jave.
 firefox-channel-all-languages-and-platforms = Opavavete ñe’ẽ ha jehechaukaha
 firefox-channel-all-languages-and-builds = Oĩvéva ñe’ẽ ha peteĩchaguáva
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = { -brand-name-nightly } reheguaite
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ha’e jehechaukaha oikoporã’ỹva gueteri. Ijypykue rupi, Beta omondo mba’ekuaarã { -brand-name-mozilla }-pe — ha avei orendiveguápe — oipytyvõ hag̃ua apañuái ñembohapépe ha iñamindu’úpe. <a href="{ $link }">Moherakuãngue jekuaa</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } omondo marandu ijeheguite { -brand-name-mozilla }-pe.
-firefox-channel-try-new-browser-features = Eiporumína umi tembiapoite ipyahuvéva | { -brand-name-firefox } rehegua
 firefox-channel-experience-cutting-edge-desktop = Eiporumína umi tembiapoite ipyahuvéva | { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } ha { -brand-name-firefox-nightly }. ¡Emboguejymína!
 firefox-channel-download-and-test-the-latest-desktop = Emboguejy ha eiporu { -brand-name-firefox } rembiapokue ipyahuvéva mesa ariguápe g̃uarã umi { -brand-name-developer-edition }, { -brand-name-beta } ha { -brand-name-nightly } reheguáva.
 firefox-channel-beta = { -brand-name-beta }

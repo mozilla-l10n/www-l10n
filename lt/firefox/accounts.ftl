@@ -9,7 +9,6 @@ firefox-accounts-enter-your-email-address = Pradėkite, įvesdami savo el. paš
 firefox-accounts-already-have-an-account = Jau turite paskyrą?
 firefox-accounts-sign-in = Prisijunkite
 firefox-accounts-keep-your-passwords = Laikykite savo slaptažodžius saugiai. Turėkite juos su savimi.
-firefox-accounts-get-a-lookout-for = Būkite informuoti apie duomenų pažeidimus.
 firefox-accounts-travel-the-internet = Naršykite internetą saugiai. Bet kuriame įrenginyje.
 firefox-accounts-get-it-all-on-every = Naudokitės ja visuose įrenginiuose, nepriklausomai nuo juose veikiančios operacinės sistemos.
 

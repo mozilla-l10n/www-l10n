@@ -2,14 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = { -brand-name-mozilla } کا منشور
 footer-privacy-hub = پرائیویسی حب
 footer-privacy = نجی نوعیت
 footer-press = صحافت
-footer-browser-comparison = براؤزر کا موازنہ
-footer-brand-standards = برانڈ کے معیار
-footer-browsers = براؤزرز
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = تخلیق کار
 footer-developer-edition = { -brand-name-developer-edition }

@@ -9,14 +9,6 @@ firefox-desktop-download-og-title = Pellgargit ar buanañ { -brand-name-firefox 
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-download-options = Dibarzhioù pellgargañ ha yezhoù all
 firefox-desktop-download-browser-support = Skor { -brand-name-firefox-browser }
-firefox-desktop-download-compare-firefox-to = Keñveriit { -brand-name-firefox } gant:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Ya
-firefox-desktop-download-no = Ket
-firefox-desktop-download-autoplay-blocking = Herzel al lenn emgefreek
-firefox-desktop-download-primary-password = Ger-tremen pennañ
 firefox-desktop-download-all-your-devices = Stailhit { -brand-name-firefox } war ho holl drevnadoù
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Grit <strong>pep tra</strong> gant { -brand-name-firefox }

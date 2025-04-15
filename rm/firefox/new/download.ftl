@@ -25,9 +25,6 @@ firefox-new-need-help = Dovras agid?
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">na porscha naginas actualisaziuns da segirezza pli</a> sin { -brand-name-windows } { -brand-name-xp } u { -brand-name-vista }, ma ti pos anc adina utilisar { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Tia telechargiada duess cumenzar automaticamain. N'hai betg funcziunà? <a id="{ $id }" href="{ $fallback_url }">Emprova anc ina giada da telechargiar</a>.
@@ -36,9 +33,6 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } è dapli ch
 firefox-new-download-interrupted = Tia telechargiada è interrutta. Ma betg tut è pers.
 firefox-new-download-almost-there = Quasi fatg!
 firefox-new-download-select-linux = Tscherna ina opziun da telechargiada sutvart
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = Suonda per plaschair <a href="{ $url }">questas instrucziuns</a> per installar { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Tes sistem n'ademplescha forsa betg las pretensiuns per { -brand-name-firefox }, ti pos dentant empruvar cun ina da <a href="{ $url }">questas versiuns</a>.

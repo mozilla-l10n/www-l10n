@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
-welcome-page1-youre-on-track-to-stay-protected = Шумо дар роҳи муҳофизат қарор доред
 welcome-page1-check-your-breach-report = Гузориши худро дар бораи вайронкуниҳо ба даст оред
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
 welcome-page1-stay-ahead-of-hackers = Аз ҳакерон як қадам пеш равед

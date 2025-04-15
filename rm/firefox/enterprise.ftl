@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = Telechargia { -brand-name-firefox } per tia interpresa cun { -brand-name-esr } u la versiun cun la cadenza da publicaziun rapida
 firefox-enterprise-get-unmatched-data-protection = Profitescha dad ina protecziun da datas insuperada e la cadenza da novas versiuns che ta correspunda cun { -brand-name-firefox } per interpresas. Telechargia { -brand-name-esr } e la versiun cun la cadenza da publicaziun rapida (Rapid Release)
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Survista
-firefox-enterprise-downloads = Telechargiadas
 firefox-enterprise-get-firefox-for-your-enterprise = Installescha { -brand-name-firefox } per tia interpresa
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

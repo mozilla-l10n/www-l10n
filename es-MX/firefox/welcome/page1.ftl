@@ -8,7 +8,6 @@
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Da el siguiente paso para proteger tu privacidad en línea con la familia de productos { -brand-name-firefox }.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Mantente un paso adelante de los hackers. Comprueba si hay filtraciones de datos con { -brand-name-mozilla-monitor }.
-welcome-page1-youre-on-track-to-stay-protected = Vas por el buen camino para estar protegido
 welcome-page1-youve-got-the-web-browser = Tienes el navegador web que protege tu privacidad — ahora es el momento de defenderte de los hackers
 welcome-page1-check-your-breach-report = Revisa tu informe de filtraciones
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

@@ -6,9 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/whatsnew/
 
 whatsnew-s2d-download-firefox-for-android = Descarcă { -brand-name-firefox } pentru { -brand-name-android } și { -brand-name-ios }
-whatsnew-s2d-want-privacy-on-every-device = Vrei confidențialitate pe fiecare dispozitiv?
-# "You got it" here is a casual answer to the previous question, "Want privacy on every device?"
-whatsnew-s2d-you-got-it-get-firefox-for = Desigur. Obține { -brand-name-firefox } pentru mobil.
-# Line break is for visual formatting only
-whatsnew-s2d-send-firefox-to-your-phone = Trimite { -brand-name-firefox } pe telefon<br> și descătușează internetul.
 whatsnew-s2d-download-firefox-for-your = Descarcă { -brand-name-firefox } pentru smartphone și tabletă.

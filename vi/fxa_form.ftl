@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = <strong>Nhập địa chỉ email của bạn</st
 fxa-form-by-proceeding = Bằng cách tiếp tục, bạn đồng ý với <a href="{ $url1 }">Điều khoản dịch vụ</a> và <a href="{ $url2 }">Thông báo bảo mật</a>.
 fxa-form-email-address = Địa chỉ Email
 fxa-form-continue = Tiếp tục
-fxa-form-create-account = Tạo tài khoản
-fxa-form-get-the-app = Tải ứng dụng

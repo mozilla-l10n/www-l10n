@@ -16,7 +16,6 @@ newsletter-form-im-okay-with-mozilla = Acepto que { -brand-name-mozilla } xestio
 newsletter-form-if-you-havent-previously = Se nunca confirmaches unha subscrición a ningún boletín de { -brand-name-mozilla }, é posíbel que teñas que facelo. Comproba se tes algún correo electrónico noso na caixa de entrada ou entre o correo non desexado.
 newsletter-form-firefox-and-you = O <span>{ -brand-name-firefox }</span> e ti
 newsletter-form-get-firefox-tips = Obter consellos, trucos, novas e moito máis sobre o { -brand-name-firefox }
-newsletter-form-keep-up-with = Está ao día<br> sobre o { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Obter actualizacións de { -brand-name-mozilla }
 newsletter-form-available-languages = Idiomas dispoñíbeis
 newsletter-form-select-country = Seleccionar país

@@ -9,7 +9,6 @@ firefox-accounts-enter-your-email-address = Ilagay ang iyong email address upang
 firefox-accounts-already-have-an-account = Mayroon nang account?
 firefox-accounts-sign-in = Mag-sign in
 firefox-accounts-keep-your-passwords = Panatilihing protektado at portable ang iyong mga password.
-firefox-accounts-get-a-lookout-for = Magkaroon ng tigabantay sa mga data breach.
 firefox-accounts-travel-the-internet = Maglakbay sa internet na may proteksyon, sa bawat aparato.
 firefox-accounts-get-it-all-on-every = Kunin lahat ito sa bawat device, na hindi mo nararamdamang ikaw ay ipit sa iisang operating system.
 

@@ -8,12 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Pigghia { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Scrìviti â lista d'aspettu
-vpn-shared-available-countries-v6 = Accamora { -brand-name-mozilla-vpn } è dispunìbbili 'n Austria, Bergiu, Burgarìa, Cànada, Cruazzia, Cipru, Ripùbblica Ceca, Danimarca, Estonia, Fillannia, Franza, Girmania, Ungarìa, Irlanna, Italia, Littonia, Lituania, Lussimmurgu, Malesia, Mauta, Nova Zilannia, Pulonia, Purtugallu, Regnu Junciutu, Rumania, Singapuri, Sluvenia, Sluvacchia, Sbezzia, Sbìzzira, Stati Junciuti dâ Mèrica e Ulanna.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Priggiarìa di rifazzioni pi 30 jorna
-vpn-shared-features-encrypt = Cifratura a liveḍḍu di dispusitivu
-vpn-shared-features-bandwidth = Nuḍḍa ristrizzioni dâ banda
-vpn-shared-features-activity = Nuḍḍu riggistru dâ to attività 'n riti
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = Priggiarìa di rifazzioni pi 30 jorna
 vpn-shared-privacy-notice = Abbisu di privatizza
@@ -51,12 +47,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } nun è
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = Accuminciamu
 vpn-shared-platform-cta-button = Vidi prezzi e dispunibbilità
-vpn-shared-platform-privacy-promise = Ti prumittemu privatizza
 vpn-shared-platform-what-is = Chi è { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Picchì { -brand-name-mozilla-vpn }?
-vpn-shared-platform-what-youll-get = Chi ricivi cu { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Cchiù nfurmazzioni ncapu ê VPN

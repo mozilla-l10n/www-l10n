@@ -14,8 +14,6 @@ bookmark-manager-organize-your-bookmarks-with = Упорядкуйте свої 
 bookmark-manager-bookmarks-are-links-you-save = Закладки – це посилання, які ви зберігаєте у своєму браузері, щоб мати можливість швидко та легко повернутися до обраних місць в інтернеті. { -brand-name-firefox } містить зручний менеджер закладок, щоб ви могли впорядковувати, шукати, оновлювати та <a { $sync }>синхронізувати всі збережені посилання на всіх своїх пристроях</a>.
 bookmark-manager-organize-your-boomarks-into = Упорядкуйте свої закладки в теки з можливістю пошуку
 bookmark-manager-collect-your-bookmarks-in-folders = Зберіть свої закладки в теки та позначте їх мітками з докладнішим описом. Ви також можете сортувати свої закладки, щоб швидко знаходити потрібні.
-# Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-bookmark-manager = Зображення вікна менеджера закладок у { -brand-name-firefox }.
 bookmark-manager-easily-import-bookmarks = Легко імпортуйте закладки
 bookmark-manager-you-can-import-your-bookmarks = Ви можете імпортувати свої закладки з Chrome, Safari або Edge за допомогою майстра імпорту { -brand-name-firefox }. Просто натисніть Закладки > Керувати закладками, а потім виберіть Імпорт і резервні копії.
 # Used as an accessible text alternative for an image

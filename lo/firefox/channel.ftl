@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = ລອງໃຊ້ຄຸນນະສ
 firefox-channel-download-and-test-future = ດາວໂຫຼດ ແລະ ທົດສອບລຸ້ນຕ່າງໆ ໃນອະນາຄົດຂອງ { -brand-name-firefox } ສຳລັບ desktop, { -brand-name-android } ແລະ { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = ສຳພັດຄວາມສາມາດທີ່ລຳ້ສະໄໝຂອງບາວເຊີກ່ອນລຸ້ນເປິດຕົວຈິງສຳລັບ { -brand-name-android }: { -brand-name-firefox-beta } ແລະ { -brand-name-firefox-nightly }. ຕິດຕັ້ງເລີຍ!
 firefox-channel-experience-cutting-edge-android = ສຳພັດຄວາມສາມາດທີ່ລຳ້ສະໄໝຂອງບາວເຊີກ່ອນລຸ້ນເປິດຕົວຈິງສຳລັບ { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } ແລະ { -brand-name-firefox-nightly }. ຕິດຕັ້ງເລີຍ!
-firefox-channel-download-and-test-the-latest-android = ດາວໂຫຼດ ແລະ ທົດສອບ ຄຸນສົມບັດຫຼ້າສຸດຂອງ { -brand-name-firefox } ສຳລັບ { -brand-name-android } ດ້ວຍການສ້າງແບບ { -brand-name-aurora }, { -brand-name-beta } ແລະ { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = ລອງໃຊ້ຄຸນສົມບັດຫຼ້າສຸດຂອງ { -brand-name-android } ກ່ອນທີ່ຈະເຜີຍແຜ່ສູ່ສ່ວນອື່ນໆຂອງໂລກ.
 firefox-channel-all-languages-and-platforms = ທຸກພາສາ ແລະ platform
 firefox-channel-all-languages-and-builds = ທຸກພາສາ ແລະ ການປະກອບ
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = ບົດຄວາມ { -brand-name-nightly }
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ແມ່ນແພັດຟອມສຳລັບໄວ້ທົດສອບ ແລະ ການພັດທະນາທີ່ຍັງບໍ່ທັນສະຖຽນ. ໂດຍພື້ນຖານແລ້ວ { -brand-name-nightly } ຈະສົ່ງຂໍ້ມູນກັບໄປຫາ { -brand-name-mozilla } — ແລະ ບາງຄັ້ງຈະສົ່ງໄປຫາພັນທະມິດຂອງພວກເຮົາ — ເພື່ອຊ່ວຍພວກເຮົາຈັດການກັບບັນຫາຕ່າງໆ ແລະ ທົດລອງແນວຄິດໃຫມ່ໆ <a href="{ $link }"> ຮຽນຮຽນສິ່ງທີ່ໄດ້ແບ່ງປັນ</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } ຈະສົ່ງຜົນຕອບຮັບໄປຍັງ { -brand-name-mozilla } ໂດຍອັດຕະໂນມັດ.
-firefox-channel-try-new-browser-features = ລອງໃຊ້ຄຸນນະສົມບັດໃໝ່ຂອງບາວເຊີໃນລຸ້ນ Pre-Release | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = ສຳພັດຄວາມສາມາດທີ່ລຳ້ສະໄໝຂອງບາວເຊີໃນລຸ້ນ pre-release: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } ແລະ { -brand-name-firefox-nightly }. ດາວໂຫຼດເລີຍ!
 firefox-channel-download-and-test-the-latest-desktop = ດາວໂຫຼດ ແລະ ທົດສອບ ຄຸນສົມບັດຫຼ້າສຸດຂອງ { -brand-name-firefox } ສຳລັບ desktop ກັບການສ້າງແບບ { -brand-name-developer-edition }, { -brand-name-beta } ແລະ { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

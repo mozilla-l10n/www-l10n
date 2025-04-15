@@ -10,7 +10,6 @@ footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } 팔로우
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -25,7 +24,6 @@ footer-refresh-support = 지원
 footer-refresh-product-help = 제품 도움말
 footer-refresh-file-a-bug = 버그 신고
 footer-refresh-localize-mozilla = { -brand-name-mozilla } 지역화
-footer-refresh-brand-standards = 브랜드 가이드
 footer-refresh-developers = 개발자
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

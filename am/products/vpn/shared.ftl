@@ -8,25 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } ያግኙ
 vpn-shared-waitlist-link = የተጠባባቂ ዝርዝሩን ይቀላቀሉ
-vpn-shared-available-countries-v6 = በአሁኑ ጊዜ { -brand-name-mozilla-vpn } በኦስትሪያ፣ ቤልጂየም፣ ቡልጋሪያ፣ ካናዳ፣ ክሮኤሺያ፣ ቆጵሮስ፣ ቼክ ሪፐብሊክ፣ ዴንማርክ፣ ኢስቶኒያ፣ ፊንላንድ፣ ፈረንሳይ፣ ጀርመን፣ ሃንጋሪ፣ አየርላንድ፣ ጣሊያን፣ ላቲቪያ፣ ሊቱዌኒያ እናቀርባለን ሉክሰምበርግ፣ ማሌዢያ፣ ማልታ፣ ኔዘርላንድስ፣ ኒውዚላንድ፣ ፖላንድ፣ ፖርቱጋል፣ ሮማኒያ፣ ሲንጋፖር፣ ስሎቬንያ፣ ስሎቫኪያ፣ ስፔን፣ ስዊድን፣ ስዊዘርላንድ፣ እንግሊዝ እና አሜሪካ እናቀርባለን።
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = የ 30 ቀን ገንዘብ ተመላሽ ዋስትና
-vpn-shared-features-encrypt = በመሣሪያ ደረጃ ምስጠራ
-vpn-shared-features-bandwidth = የመተላለፊያ ይዘት ገደቦች የሉም
-vpn-shared-features-activity = የአውታረ መረብ እንቅስቃሴዎ አይመዘገብም
-vpn-shared-features-activity-logs = ምንም የመስመር ላይ የእንቅስቃሴ መዝገብ ማስታወሻዎች አሁን ወይም በጭራሽ የሉም
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = በ { $countries }+ አገሮች ውስጥ ያሉ አገልጋዮች መዳረሻ
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = እስከ { $devices } መሳሪያዎች ድረስ ጥበቃ ያለው
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = በ{ $countries }+ አገሮች ውስጥ ያሉ ጠንካራ አገልጋዮች
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = እስከ { $devices } መሳሪያዎች ድረስ ያገናኙ
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = የ 30 ቀን ገንዘብ ተመላሽ ዋስትና
 vpn-shared-privacy-notice = የግላዊነት ማስታወቂያ
@@ -62,12 +45,9 @@ vpn-shared-pricing-total-plus-tax = { $amount } ጠቅላላ + ግብር
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = እንጀምር
 vpn-shared-platform-cta-button = ዋጋን እና ተገኝነትን ይመልከቱ
-vpn-shared-platform-privacy-promise = የእርስዎ ግላዊነት የእኛ ቃል-ኪዳን ነው
 vpn-shared-platform-what-is = { -brand-name-mozilla-vpn } ምንድን ነው?
 vpn-shared-platfrom-why-choose = { -brand-name-mozilla-vpn } ለምን?
-vpn-shared-platform-what-youll-get = በ{ -brand-name-mozilla-vpn } ምን ያገኛሉ፡-
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = ስለ VPNs ይወቁ

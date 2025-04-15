@@ -5,4 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/resource-center
 
-vpn-resource-center-get-mozilla-vpn = Tapout { -brand-name-mozilla-vpn }

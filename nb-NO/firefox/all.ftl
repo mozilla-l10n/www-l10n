@@ -30,14 +30,7 @@ firefox-all-product-send-link = Send en nedlastingslenke til telefonen din
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Velg et 32-bit installasjonsprogram for datamaskiner med 32-bits prosessorer — eller til eldre, mindre kraftfulle datamaskiner. <a href="{ $url }">Hvis du ikke er sikker på</a> om du skal velge et 64-bit- eller et 32-bit-installasjonsprogram, anbefaler vi, at du velger 32-bit.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Last ned { $product_label } for { $platform } på { $locale }
 firefox-all-msi-installers = MSI-installasjonsprogrammer
-firefox-all-which-version = Hvilken versjon vil du ha?
-firefox-all-select-your-preferred-installer = Velg ønsket installasjonsprogram
 firefox-all-select-your-preferred-language = Velg ønsket språk
 firefox-all-learn-about-installers = Les mer om installasjonsprogrammer
 firefox-all-product-firefox = { -brand-name-firefox }

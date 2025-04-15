@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Як заблокувати надокучливу рекламу за допомогою блокувальника
 features-adblocker-how-to-stop-seeing-too = Як припинити бачити надто багато реклами і не дозволяти компаніям переслідувати вас в Інтернеті. Посібник з блокування реклами від браузера { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Блокувальник реклами – секретна зброя проти надокучливої реклами.
 features-adblocker-so-many-ads-so-little = Так багато реклами, так мало спокою… Час припинити цей безлад.

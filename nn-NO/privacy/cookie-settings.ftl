@@ -28,10 +28,6 @@ cookie-settings-category-preference-heading = Innstilling
 cookie-settings-category-analytics-heading = Analyse
 cookie-settings-category-analytics-what-are-subheading = Kva er analyse-infokapslar?
 
-## Consent section
-
-cookie-settings-your-consent-heading = Ditt samtykke
-
 ## Privacy section
 
 cookie-settings-privacy-heading = Personvernerklæringa vår

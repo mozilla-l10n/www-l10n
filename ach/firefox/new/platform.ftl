@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Layeny Kakube me nono
-new-platform-download-firefox = Gam { -brand-name-firefox }
 new-platform-download-the-fastest = Gam { -brand-name-firefox } ma pud dong dwir loyo
 new-platform-download-in-another = Gam i leb mapat
 new-platform-need-help = Imito kony?
@@ -21,8 +20,6 @@ new-platform-download-mozilla-linux = Gam { -brand-name-mozilla } { -brand-name-
 new-platform-download-mozilla-desc-linux = Gam { -brand-name-mozilla } { -brand-name-firefox } pi { -brand-name-linux }, layeny Kakube me nono. { -brand-name-firefox } layubo ne aye dul me wilobo ma pe me nongo magoba ma odyere me keto dano i loc iwiyamo. Nong { -brand-name-firefox } pi { -brand-name-linux } tin!
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = Gam { -brand-name-firefox } ma pud dong dwir loyo pi { -brand-name-linux }
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } pi { -brand-name-linux }
 new-platform-privacy-more-than = Mung - kato cik
 
 ## Mac

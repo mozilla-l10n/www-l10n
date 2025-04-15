@@ -8,25 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } گھنو
 vpn-shared-waitlist-link = تانگھ تندیر نال رلت کرو
-vpn-shared-available-countries-v6 = اَساں اِیں ویلے { -brand-name-mozilla-vpn } آسٹریا، بیلجیئم، بلغاریہ، کینیڈا، کروشیا، قبرض، جمہوریہ چیک، ڈنمارک، ایسٹونیا، فِن لینڈ، فرانس، جرمنی، ہنگری، آئر لینڈ، اٹلی، لیٹویا، لیتھوینیا، لکسمبرگ، ملائشیا، مالٹا، نیدر لینڈ، نیوزی لینڈ، پولینڈ، پرتگال، رومانیہ، سنگا پور، سلووینیا، سلوواکیہ، ہسپانیہ، سویڈن، سوئٹزر لینڈ، برطانیہ اَتے امریکہ وِچ پیش کرین٘دے ہِسے۔
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 ڈین٘ہ رقم واپس کرݨ دی ضمانت
-vpn-shared-features-encrypt = ڈیوائس سطح اینکرپشن
-vpn-shared-features-bandwidth = کوئی بینڈ وِتھ پابندیاں کائنی
-vpn-shared-features-activity = تہاݙی نیٹ ورک سرگرمی دا کوئی لاگنگ کائنی
-vpn-shared-features-activity-logs = کوئی آن لان سرگرمی لاگ کائنی ہݨ یا کڈاہیں
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = { $countries }+ ملکاں وچ  سروراں تے رسائی
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = { $devices } ڈیوائساں تائیں کیتے حفاظت
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = { $countries }+ ملکاں وچ مضبوط سرور
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = { $devices } ڈیوائساں تائیں کنکٹ تھیوو
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30 ڈین٘ہ رقم واپس کرݨ دی ضمانت
 vpn-shared-privacy-notice = رازداری نوٹس
@@ -65,12 +48,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = اڄ تہاݙے ملک وچ { -bra
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = آؤ شروع کروں
 vpn-shared-platform-cta-button = قیمتاں تے دستیابی ݙیکھو
-vpn-shared-platform-privacy-promise = تہاݙی رازداری ساݙا وعدہ ہے
 vpn-shared-platform-what-is = { -brand-name-mozilla-vpn } کیا ہے؟
 vpn-shared-platfrom-why-choose = { -brand-name-mozilla-vpn } کیوں؟
-vpn-shared-platform-what-youll-get = { -brand-name-mozilla-vpn } نال تساں کیا گھنسو:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = VPNs بارے ڄاݨو

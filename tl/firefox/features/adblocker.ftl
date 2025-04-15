@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Paano harangin ang mga nakakabwiset na ad gamit ang ad blocker
 features-adblocker-how-to-stop-seeing-too = Paano mabawasan ang pagpapakita ng masyadong maraming mga ad at iwasan kang sundan ng mga kumpanya online. Isang gabay para sa mga ad blocker mula sa { -brand-name-firefox } web browser.
 features-adblocker-the-ad-blocker-a-secret = Ang ad blocker – isang sikretong sandata laban sa nakakabwiset na mga ad.
 features-adblocker-so-many-ads-so-little = Napakaraming mga ad, napakaikling pasensya… Itigil ang kahibangang ito.

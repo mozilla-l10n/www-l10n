@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = Scàrricati { -brand-name-firefox } 'n sicilianu è cchiù assai di 90 autri lingui
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Tutti miritamu l'accessu â riti, senza nuḍḍu sbarramentu linguìsticu. Pi sta scaciuni — grazzi a l'ajutu di vuluntari di tuttu u munnu — putemu fari { -brand-name-firefox } nna cchiù assai di 90 lingui.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = Scanziuna u còdici QR p'aviri <em>{ $product_name }</em>
 firefox-all-choose-browser = Scarta un navicaturi pi jiri avanti
 firefox-all-choose-platform = Scarta na chiattafurma pi jiri avanti
 firefox-all-choose-language = Scarta na lingua pi jiri avanti
@@ -69,14 +66,7 @@ firefox-all-product-send-link = Manna na lijami di scarricamentu ô to tilèfunu
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Scarta nu nzitaturi a 32 bit pî computer c'un prucissuri a 32 bit — o pî computer cchiù vecchi o cchiù picca putenti. <a href="{ $url }">Si nun sì sicuru</a> si scartari 32 o 64 bit, ti cunzigghiamu di scartari 32 bit.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Scàrricati { $product_label } pi { $platform } ({ $locale })
 firefox-all-msi-installers = Nzitatura MSI
-firefox-all-which-version = Quali virsiuni voi?
-firefox-all-select-your-preferred-installer = Scarta u nzitaturi chi prifirisci
 firefox-all-select-your-preferred-language = Scarta a lingua chi prifirisci
 firefox-all-learn-about-installers = Cchiù nfurmazzioni ncapu ê nzitaturi
 firefox-all-product-firefox = { -brand-name-firefox }

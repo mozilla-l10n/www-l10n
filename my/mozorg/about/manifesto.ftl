@@ -21,16 +21,6 @@ manifesto-principle-7 = နိယာမ 7
 manifesto-principle-8 = နိယာမ 8
 manifesto-principle-9 = နိယာမ 9
 manifesto-principle-10 = နိယာမ 10
-manifesto-01 = 01
-manifesto-02 = 02
-manifesto-03 = 03
-manifesto-04 = 04
-manifesto-05 = 05
-manifesto-06 = 06
-manifesto-07 = 07
-manifesto-08 = 08
-manifesto-09 = 09
-manifesto-10 = 10
 # Main page heading
 manifesto-the-mozilla-manifesto-addendum = The { -brand-name-mozilla } Manifesto Addendum
 # Main page sub-heading
@@ -41,8 +31,6 @@ manifesto-show-your-support = သင်၏အထောက်အပံ့ကိ�
 manifesto-i-support-the-vision-of = @mozilla မှပိုမိုကောင်းမွန်အဆင်ပြေသောအင်တာနက်ရည်မှန်းချက်ကိုကျွန်ုပ်ထောက်ခံသည်၊ သင်ကျွန်ုပ်နှင့်ပူးပေါင်းမည်လား။
 manifesto-our-10-principles = <strong>ကျွနု်ပ်တို့ရဲ့ 10</strong> ခံယူချက်များ
 manifesto-read-the-entire-manifesto = စာတမ်းတစ်ခုလုံးကိုဖတ်ပါ
-manifesto-love-the-web = ဝဘ်ကို နှစ်သက်လား။
-manifesto-get-the-mozilla-newsletter = { -brand-name-mozilla } သတင်းလွှာကိုရယူပြီး၎င်းကိုကျွန်ုပ်တို့အားပွင့်လင်းစွာလွတ်လပ်စွာကူညီပါ။
 manifesto-details-the-mozilla-manifesto = { -brand-name-mozilla } ခံယူချက်
 manifesto-details-introduction = မိတ်ဆက်
 manifesto-details-the-internet-is-becoming = အင်တာနက်သည်ကျွန်ုပ်တို့ဘ၀၏အရေးပါသောအစိတ်အပိုင်းတစ်ခုဖြစ်လာသည်။

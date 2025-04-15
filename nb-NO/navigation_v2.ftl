@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = Last ned { -brand-name-firefox }
 navigation-v2-menu = Meny
 
 ## Firefox menu
@@ -56,7 +55,5 @@ navigation-v2-close-innovation-menu = Lukk Innovasjon-menyen
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 navigation-v2-get-the-firefox-browser-built = Få nettleseren { -brand-name-firefox } utviklet for utviklere.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
-navigation-v2-firefox-reality = { -brand-name-firefox-reality }
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Bidra med stemmen din slik at fremtiden på nettet kan høre alle.
-navigation-v2-webassembly = { -brand-name-webassembly }

@@ -27,22 +27,6 @@ firefox-desktop-download-browser-support = Pomoc wó { -brand-name-firefox-brows
 firefox-desktop-download-do-what-you-do-v2 = Cyńśo online, což cośo.<br> { -brand-name-firefox-browser } was <strong>šćita</strong>.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Cyńśo online, což cośo.<br> { -brand-name-firefox-browser } <strong>nje</strong>pśiglědujo.
-firefox-desktop-download-how-firefox-compares = Pśirownanje mjazy { -brand-name-firefox } a drugimi wobglědowakami
-firefox-desktop-download-how-we-compare = Kak w pśirownanju k drugim wobglědowakam wótrěznjomy
-firefox-desktop-download-compare-firefox-to = Pśirownajśo { -brand-name-firefox } z:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Jo
-firefox-desktop-download-no = Ně
-firefox-desktop-download-blocks-third-party = Blokěrujo slědujuce cookiejei tśeśich
-firefox-desktop-download-blocks-third-party-default = Blokěrujo pó standarźe slědujuce cookieje tśeśich
-firefox-desktop-download-autoplay-blocking = Blokěrowanje awtomatiskego wótgrawanja
-firefox-desktop-download-blocks-social-trackers = Blokěrujo socialne pśeslědowaki
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = K-dispoziciji-byśe źěłowego systema
-firefox-desktop-download-in-browser-screenshot = Rěd za fota wobrazowki we wobglědowaku
-firefox-desktop-download-primary-password = Głowne gronidło
 firefox-desktop-download-we-block-the-ad = My blokěrujomy wabjeńske pśeslědowaki. Wy pśeslěźujośo internet malsnjej.
 firefox-desktop-download-ads-are-distracting = Wabjenje móli a wjeźo k tomu, až se webboki pómałčej zacytuju, mjaztym až pśeslědowaki kužde pógib wobglěduju, kótaryž online cyniśo. { -brand-name-firefox-browser } nejwěcej pśeslědowakow awtomatiski blokěrujo, togodla njetrjebaśo se do swójich wěstotnych nastajenjow zaryś.
 firefox-desktop-download-see-your-report = Wašu šćitnu rozpšawu pokazaś
@@ -143,7 +127,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Maśo pšašanja? <a { $attrs }>Pomoc { -brand-name-mozilla }</a> buźo wam pomagaś.
-firefox-desktop-download-watch-for-hackers-with-v3 = Wobglědujśo hackerow z { -brand-name-mozilla-monitor }, šćitajśo swóju e-mailowu adresu z { -brand-name-firefox-relay } a wěcej.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -166,18 +149,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = Jolic napominanje wiźiśo, kótarež k wěsć dawa, až nałoženje, kótarež cośo instalěrowaś, njejo wót { -brand-name-microsoft } pśeglědane, klikniśo na „Weto instalěrowaś“ abo <a { $attrs }>změńśo dopóruceńske nastajenja nałoženja</a>.
 firefox-desktop-download-visit-support-for-more = Woglědajśo se k bokam pomocy za dalšne drobnostki
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">južo wěstotne aktualizacije</a> na { -brand-name-windows } { -brand-name-xp } abo { -brand-name-vista } njepóbitujo, ale móžośo hyšći { -brand-name-firefox } wužywaś.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Wašo ześěgnjenje dejało se awtomatiski zachopiś. Njefunkcioněrujo? <a id="{ $id }" href="{ $fallback_url }">Ześěgniśo znowego</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } oe wěcej ako wobglědowak.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Wašo ześěgnjenje jo se pśetergnuło. Ale wšykno njejo zhubjone.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Pšosym slědujśo <a href="{ $url }">toś tym instrukcijam</a> za instalěrowanje { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Waš system nejskerjej njewótpowědujo pominanjam { -brand-name-firefox }, ale móžośo jadnu z <a href="{ $url }">toś tych wersijow</a> wopytowaś.

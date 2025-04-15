@@ -7,7 +7,6 @@
 
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Կատարեք հաջորդ քայլը՝ պաշտպանելու համար ձեր առցանց գաղտնիությունը { -brand-name-firefox } ընտանիքի ծրագրերով:
-welcome-page1-youre-on-track-to-stay-protected = Դուք պաշտպանված լինելու ճիշտ ճանապարհին եք:
 welcome-page1-youve-got-the-web-browser = Դուք ունեք վեբ զննարկիչ, որը պաշտպանում է ձեր գաղտնիությունը, այժմ հակերներին հետևելու ժամանակն է եկել:
 welcome-page1-check-your-breach-report = Ստուգեք խախտուների ձեր զեկույցը
 welcome-page1-stay-ahead-of-hackers = Հակերներից առաջ եղեք

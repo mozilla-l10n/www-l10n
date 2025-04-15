@@ -26,23 +26,6 @@ firefox-desktop-download-download-options = Параметри завантаж�
 firefox-desktop-download-browser-support = Підтримка { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Робіть в Інтернеті що завгодно.<br> { -brand-name-firefox-browser } <strong>не</strong> стежить.
-firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } у порівнянні з іншими браузерами
-firefox-desktop-download-get-all-the-speed = Отримайте всю швидкість та засоби без жодного вторгнення до приватності. { -brand-name-firefox-browser } збирає так мало даних про вас, що нам навіть не потрібна ваша електронна адреса для завантаження. Це тому, що, на відміну від інших браузерів, ми не спираємося на фінансову вигоду від слідкування за вами в Інтернеті.
-firefox-desktop-download-how-we-compare = Як ми порівнюємо наш та інші браузери
-firefox-desktop-download-compare-firefox-to = Порівняння { -brand-name-firefox } та:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Так
-firefox-desktop-download-no = Ні
-firefox-desktop-download-blocks-third-party = Блокує сторонні файли cookie стеження
-firefox-desktop-download-blocks-third-party-default = Типово блокує сторонні файли cookie стеження
-firefox-desktop-download-autoplay-blocking = Блокує автовідтворення
-firefox-desktop-download-blocks-social-trackers = Блокує стеження соціальних мереж
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = Доступність для різних ОС
-firefox-desktop-download-in-browser-screenshot = Вбудований засіб знімків екрана
-firefox-desktop-download-primary-password = Головний пароль
 firefox-desktop-download-we-block-the-ad = Ми блокуємо елементи стеження оголошень. Ви швидше переглядаєте в Інтернеті.
 firefox-desktop-download-ads-are-distracting = Оголошення відвертають увагу та сповільнюють завантаження вебсторінок, а їхні елементи стеження слідкують за кожним вашим кроком в Інтернеті. { -brand-name-firefox-browser } блокує більшість елементів стеження автоматично, тому не потрібно заглиблюватися в налаштування безпеки.
 firefox-desktop-download-see-your-report = Переглянути звіт про ваш захист
@@ -143,7 +126,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } авт�
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Маєте питання? <a { $attrs }>Підтримка { -brand-name-mozilla }</a> має для вас відповіді.
-firefox-desktop-download-watch-for-hackers-with-v3 = Слідкуйте за хакерами за допомогою { -brand-name-mozilla-monitor }, захистіть свою адресу електронної пошти за допомогою { -brand-name-firefox-relay }, а також інші можливості.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -166,18 +148,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = Якщо ви бачите підказку, що програма, яку ви намагаєтесь встановити, не є затвердженою програмою { -brand-name-microsoft }, натисніть “Все одно встановити” або <a { $attrs }>змініть налаштування рекомендацій програм</a>.
 firefox-desktop-download-visit-support-for-more = Відвідайте службу підтримки, щоб отримати подробиці
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">більше не випускає оновлень безпеки</a> для { -brand-name-windows } { -brand-name-xp } чи { -brand-name-vista }, але ви все ще можете користуватися { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Завантаження розпочнеться автоматично. Не почалося? <a id="{ $id }" href="{ $fallback_url }">Спробуйте ще раз.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } - це більше, ніж браузер.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Завантаження було перервано. Але нічого не втрачено.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Дотримуйтесь <a href="{ $url }">цих настанов,</a> щоб встановити { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Ваша система може не задовольняти вимог для { -brand-name-firefox }, але ви можете спробувати одну з <a href="{ $url }">цих версій</a>.

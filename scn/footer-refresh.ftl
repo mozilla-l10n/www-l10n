@@ -9,7 +9,6 @@ footer-refresh-firefox-release-notes = Noti di pubblicazzioni di { -brand-name-f
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Sicuta @{ -brand-name-mozilla }
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -24,7 +23,6 @@ footer-refresh-support = Supportu
 footer-refresh-product-help = Ajutu pî prudutti
 footer-refresh-file-a-bug = Signalija nu sbagghiu
 footer-refresh-localize-mozilla = Traduci { -brand-name-mozilla }
-footer-refresh-brand-standards = Usu dû mercu
 footer-refresh-developers = Sbiluppatura
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

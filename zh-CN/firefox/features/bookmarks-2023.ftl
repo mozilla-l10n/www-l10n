@@ -14,8 +14,6 @@ bookmark-manager-organize-your-bookmarks-with = 使用文件夹和标签来整�
 bookmark-manager-bookmarks-are-links-you-save = 书签是您保存在浏览器中的链接，可以通过它来轻松快捷地打开您的常用网站。{ -brand-name-firefox } 自带易用的书签管理器，便于整理、搜索、更新并<a { $sync }>跨设备同步您保存的所有链接</a>。
 bookmark-manager-organize-your-boomarks-into = 将书签整理到可搜索的文件夹中
 bookmark-manager-collect-your-bookmarks-in-folders = 将书签收纳到文件夹中，并根据详细信息打上标签，方便寻找。您还可以对书签进行排序，以快速找到需要的书签。
-# Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-bookmark-manager = { -brand-name-firefox } 书签管理器窗口的图片。
 bookmark-manager-easily-import-bookmarks = 轻松导入书签
 bookmark-manager-you-can-import-your-bookmarks = 您可以使用 { -brand-name-firefox } 的导入向导，从 Chrome、Safari 和 Edge 导入书签。只需前往“书签”>“管理书签”，选择“导入和备份”即可导入。
 # Used as an accessible text alternative for an image

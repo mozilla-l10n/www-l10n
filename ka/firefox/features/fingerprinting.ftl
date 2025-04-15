@@ -5,16 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
-# page title
-features-fingerprinting-what-is-fingerprinting-title = რა არის ანაბეჭდით ამოცნობა და რატომ ჯობია შეზღუდოთ
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = ანაბეჭდით ამოცნობა ინტერნეტში თვალის დევნების სახეა, მეტად მძლავრი ვიდრე ფუნთუშებით მეთვალყურეობა — სწორედ ამიტომაც ზღუდავს { -brand-name-firefox-browser }.
 features-fingerprinting-fingerprint-blocking = ამოცნობის შეზღუდვა
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } ზღუდავს ამოცნობას
-features-fingerprinting-ditch-the-sticky = მოიცილეთ ადევნებული რეკლამები რომლებიც  მუდამ თან დაგყვებათ, { -brand-name-firefox }-ბრაუზერის ჩაშენებული შემზღუდავით, ამოცნობის წინააღმდეგ.
-# description for the header image
-features-fingerprinting-every-fingerprint = ყველა ანაბეჭდი განსხვავებულია.
-features-fingerprinting-download-firefox = ჩამოტვირთეთ { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = რა არის ანაბეჭდით ამოცნობა?
 features-fingerprinting-fingerprinting-is-a = ანაბეჭდით ამოცნობა, ინტერნეტში თვალის დევნების სახეა, მეტად მძლავრი ვიდრე ფუნთუშებით მეთვალყურეობა. ციფრული ანაბეჭდი იქმნება, როცა კომპანია ადგენს თქვენს დახასიათებას, თქვენი კომპიუტერის აპარატურის, პროგრამული უზრუნველყოფის, დამატებების და ასევე, პარამეტრების საფუძველზე. ეკრანის ზომები, სისტემაში დაყენებული შრიფტები და თუნდაც შერჩეული ბრაუზერი, შეიძლება გამოიყენონ თქვენი ანაბეჭდის შესაქმნელად.
 features-fingerprinting-if-you-have = თუ გაქვთ ცნობილი მწარმოებლის ლეპტოპი, სამაგიდო კომპიუტერი ან სმარტფონი, შესაძლოა გართულდეს თქვენი მოწყობილობით გამორჩევა ანაბეჭდის შესაქმნელად. თუმცა განსხვავებული დამატებებით, შრიფტებითა და პარამეტრებით, მაინც ადვილია თქვენი პოვნა. კომპანიებს შეუძლია ამ განმასხვავებელი კომბინაციებით შექმნას თქვენი ანაბეჭდი. სწორედ ამიტომ, { -brand-name-firefox } ზღუდავს გავრცელებულ ამომცნობებს, რომ თავისუფლად შეძლოთ რჩეული გაფართოებების, იერსახისა და მორგებული პარამეტრების გამოყენება, ადევნებული რეკლამების გარეშე.
@@ -35,4 +29,3 @@ features-fingerprinting-the-latest-firefox = უახლესი { -brand-name
 features-fingerprinting-and-its-not = და ამისთვის არაა საჭირო პარამეტრებში ქექვა. უახლეს { -brand-name-firefox }-ბრაუზერში, ამომცნობების შეზღუდვა ჩვეულებრივ, ნაგულისხმევადაა მითითებული. იხილეთ თქვენი <a { $url_protections }>პირადულობის დაცვის მაჩვენებლები</a> და შეამოწმეთ, როგორ ცდილობდნენ ფარულად თქვენს თვალთვალს და როგორ გიცავდათ { -brand-name-firefox } ამისგან.
 # $url_download (string) - link to firefox/new
 features-fingerprinting-you-probably-wouldnt = ალბათ მიუღებელი იქნებოდა თქვენთვის, ვინმე რომ თქვენს თითოეულ ნაბიჯს თვალყურს ადევნდებეს ნამდვილ ცხოვრებაში. შესაბამისად, არც იმის მიზეზი არსებობს, რატომაც ეს მისაღები უნდა იყოს ვებსამყაროში. თუ უკვე არ გაქვთ { -brand-name-firefox }, <a { $url_download }>ჩამოტვირთეთ და დაიცავით თავი</a> ციფრული ანაბეჭდით თვალთვალისგან.
-features-fingerprinting-protect = დაიცავით თქვენი პირადულობა

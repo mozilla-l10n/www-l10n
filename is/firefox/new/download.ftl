@@ -25,9 +25,6 @@ firefox-new-need-help = Þarftu aðstoð?
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">veitir ekki lengur öryggisuppfærslur</a> á { -brand-name-windows } { -brand-name-xp } eða { -brand-name-vista }, en þú getur samt notað { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Niðurhalið þitt ætti að hefjast sjálfkrafa. Virkaði það ekki? <a id="{ $id }" href="{ $fallback_url }">Reyndu aftur að sækja</a>.
@@ -36,9 +33,6 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } er meira en
 firefox-new-download-interrupted = Niðurhalið þitt var truflað. En ekki er allt alveg glatað.
 firefox-new-download-almost-there = Næstum komið!
 firefox-new-download-select-linux = Veldu valkost fyrir niðurhal hér að neðan
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = Fylgdu þessum <a href="{ $url }">leiðbeiningum</a> til að setja inn { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Kerfið þitt uppfyllir mögulega ekki þær kröfur sem þarf fyrir { -brand-name-firefox }, en þú getur prófað einhverja af <a href="{ $url }">þessum útgáfum</a>.

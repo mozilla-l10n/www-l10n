@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = Ti mannamu sulu nfurmazzioni ncap
 newsletter-form-if-you-havent-previously = Si nun cunfirmasti già n'abbunamentu ôn bullittinu di { -brand-name-mozilla }, putissi avìrilu a fari ora. Pi favuri cuntrolla a to posta si ricivisti na littra di nuiautri.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> e tu
 newsletter-form-get-firefox-tips = Ricivi suggirimenti, trucchi, nutizzi e autru ncapu a { -brand-name-firefox }
-newsletter-form-keep-up-with = Mantèniti 'n cuntattu<br>chî nuvità ncapu a { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Ricivi l'attualizzi di { -brand-name-mozilla }
 newsletter-form-available-languages = Lingui dispunìbbili
 newsletter-form-select-country = Scarta u pajisi

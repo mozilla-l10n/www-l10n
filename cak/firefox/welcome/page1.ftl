@@ -7,7 +7,6 @@
 
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Tana' awi' richin nachajij ri awichinanem pa k'amab'ey rik'in ri molaj rutikojil { -brand-name-firefox }.
-welcome-page1-youre-on-track-to-stay-protected = Ütz at b'enäq richin nachajij awi'
 welcome-page1-youve-got-the-web-browser = K'o ri awokik'amaya'l nuchajij ri awichinanem — ramaj chik richin nato' awi' pa kiq'a' ri ajjak.
 welcome-page1-check-your-breach-report = Takanoj ri Rutzijol Tz'ilanem
 welcome-page1-stay-ahead-of-hackers = Kanab'eyij chi kiwa ri ajjak

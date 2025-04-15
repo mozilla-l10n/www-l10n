@@ -8,8 +8,6 @@
 features-private-browsing-private-browsing-mode = Modo de navigation private
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = Modo navigation private de { -brand-name-firefox }
-# HTML page description
-features-private-browsing-firefox-protects = { -brand-name-firefox } protege tu confidentialitate in rete e bloca le traciatores que te seque circum le web.
 features-private-browsing-if-you-share-a-computer = Si tu comparti un computator con altere personas o si tu desira limitar quante datos pote colliger re te le sitos web, tu pote usar le modalitate de navigation in privato in { -brand-name-firefox }. Le navigation private cancella le tracias digital que tu lassa detra te quando tu naviga online, pensa re illos como vestigios per le boscos.
 features-private-browsing-what-does-private-browsing-do = Que face le navigation private?
 features-private-browsing-private-browsing-mode-opens-v2 = Le modalitate de navigation in privato se aperi in un nove fenestra del navigator. Quando tu claude le ultime fenestra de navigation private, tu chronologia de navigation e ulle cookies del sitos web que tu visitava sera cancellate. <strong>{ -brand-name-firefox } Pro consilio:</strong> Non oblida de clauder tote tu fenestras de navigation private quando tu ha finite!

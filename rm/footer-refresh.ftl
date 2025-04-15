@@ -9,7 +9,6 @@ footer-refresh-firefox-release-notes = Remartgas davart la versiun da { -brand-n
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Suonda @{ -brand-name-mozilla }
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -24,7 +23,6 @@ footer-refresh-support = Agid
 footer-refresh-product-help = Agid per products
 footer-refresh-file-a-bug = Annunziar ina errur
 footer-refresh-localize-mozilla = Translaziun da { -brand-name-mozilla }
-footer-refresh-brand-standards = Utilisaziun da la marca
 footer-refresh-developers = Sviluppaders
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

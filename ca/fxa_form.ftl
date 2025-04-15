@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = En continuar, accepteu les <a href="{ $url1 }">condicions d'ús del servei</a> i l'<a href="{ $url2 }">avís de privadesa</a>.
 fxa-form-email-address = Adreça electrònica
 fxa-form-continue = Continua
-fxa-form-create-account = Crea un compte
-fxa-form-get-the-app = Baixa l'aplicació

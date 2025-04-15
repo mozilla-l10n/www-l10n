@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = <strong>이메일 주소를 입력</strong>하고
 fxa-form-by-proceeding = 계속 진행하면 <a href="{ $url1 }">이용 약관</a>과 <a href="{ $url2 }">개인정보 보호정책</a>에 동의하게 됩니다.
 fxa-form-email-address = 이메일 주소
 fxa-form-continue = 계속
-fxa-form-create-account = 계정 생성
-fxa-form-get-the-app = 앱 다운로드

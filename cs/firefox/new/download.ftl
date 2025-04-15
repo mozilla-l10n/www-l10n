@@ -25,9 +25,6 @@ firefox-new-need-help = Potřebujete pomoci?
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = I když můžete { -brand-name-firefox(case: "acc") } stále používat, { -brand-name-mozilla } už nadále bezpečnostní aktualizace pro { -brand-name-windows } { -brand-name-xp } ani { -brand-name-vista } <a href="{ $url }">neposkytuje</a>.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Vaše stahování by mělo začít automaticky. Nezačalo? <a id="{ $id }" href="{ $fallback_url }">Zkuste to znova</a>.
@@ -36,9 +33,6 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } je víc ne�
 firefox-new-download-interrupted = Vaše stahování bylo přerušeno. Ale nic není ztraceno.
 firefox-new-download-almost-there = Téměř hotovo!
 firefox-new-download-select-linux = Níže vyberte možnost stažení
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = Pro instalaci { -brand-name-firefox(case: "gen") } prosím <a href="{ $url }">postupujte podle těchto pokynů</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Váš systém nemusí splňovat požadavky pro { -brand-name-firefox(case: "acc") }, ale můžete zkusit některou <a href="{ $url }">z těchto verzí</a>.

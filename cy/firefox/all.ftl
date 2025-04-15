@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = Llwythwch { -brand-name-firefox }  i Lawr yn Gymraeg (cy) neu mewn mwy na 90 o ieithoedd eraill
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Mae pawb yn haeddu mynediad i'r rhyngrwyd - dylai'ch iaith chi ddim bod yn rhwystr. Dyna pam - gyda chymorth gwirfoddolwyr ymroddedig ledled y byd - rydym yn darparu { -brand-name-firefox } mewn mwy na 90 o ieithoedd.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = Sganiwch y cod QR i gael <em>{ $product_name }</em>
 firefox-all-choose-browser = Dewiswch borwr i barhau
 firefox-all-choose-platform = Dewiswch blatfform i barhau
 firefox-all-choose-language = Dewiswch iaith i barhau
@@ -69,14 +66,7 @@ firefox-all-product-send-link = Anfonwch ddolen llwytho i'ch ffôn.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Dewiswch osodwr 32-did ar gyfer cyfrifiaduron gyda phroseswyr 32-did - neu ar gyfer cyfrifiaduron hŷn neu lai pwerus. <a href="{ $url }">Os nad ydych yn siŵr</a> a ydych am ddewis gosodwr 64-did neu 32-did, rydym yn argymell eich bod yn mynd am y 32-did.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Llwytho i lawr { $product_label } ar gyfer { $platform } yn { $locale }
 firefox-all-msi-installers = Gosodwyr MSI
-firefox-all-which-version = Pa fersiwn hoffech chi?
-firefox-all-select-your-preferred-installer = Dewiswch eich hoff osodwr
 firefox-all-select-your-preferred-language = Dewiswch eich iaith
 firefox-all-learn-about-installers = Rhagor am osodwyr
 firefox-all-product-firefox = { -brand-name-firefox }

@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = Sćehńće wobhladowak { -brand-name-firefox } w hornjoserbšćinje a wjace hač 90 druhich rěčach
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Kóždy sej přistup na internet zasłuži - waša rěč njeměła ženje zadźěwk być. Tohodla stajamy z pomocu angažowanych dobrowólnikow z cyłeho swěta wobhladowak { -brand-name-firefox } we wjace hač 90 rěčach k dispoziciji.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = Skenujće QR-kod, zo byšće <em>{ $product_name }</em> dóstał
 firefox-all-choose-browser = Wubjerće wobhladowak, zo byšće pokročował
 firefox-all-choose-platform = Wubjerće platformu, zo byšće pokročował
 firefox-all-choose-language = Wubjerće rěč, zo byšće pokročował
@@ -66,14 +63,7 @@ firefox-all-product-send-link = Sćelće swojemu telefonej sćehnjenski wotkaz.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Wubjerće 32-bitowy instalowanski program za ličaki z 32-bitowymi procesorami - abo za starše abo mjenje wukonliwe ličaki. <a href="{ $url }">Jeli sej wěsty njejsće</a>, hač maće 64-bitowy abo 32-bitowy instalowanski program wubrać, poručamy wam 32-bitowy instalowanski program wubrać.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = { $product_label } za platformu { $platform } w rěči { $locale } sćahnyć
 firefox-all-msi-installers = MSI-instalowaki
-firefox-all-which-version = Kotru wersiju chceće?
-firefox-all-select-your-preferred-installer = Wubjerće swój preferowany instalowak
 firefox-all-select-your-preferred-language = Wubjerće swoju preferowanu rěč
 firefox-all-learn-about-installers = Zeznajće so z instalowakami
 firefox-all-product-firefox = { -brand-name-firefox }

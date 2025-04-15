@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = Загрузите { -brand-name-firefox } { -brand-name-esr } или версию с регулярными выпусками для вашей организации
 firefox-enterprise-get-unmatched-data-protection = Получите непревзойдённую защиту данных с периодичностью обновлений, которая наиболее подходит вашему корпоративному { -brand-name-firefox }. Загрузите { -brand-name-esr } или версию с регулярными выпусками.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Обзор
-firefox-enterprise-downloads = Загрузки
 firefox-enterprise-get-firefox-for-your-enterprise = Загрузите { -brand-name-firefox } для вашей организации
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

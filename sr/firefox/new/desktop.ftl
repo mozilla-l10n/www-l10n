@@ -26,23 +26,6 @@ firefox-desktop-download-download-options = Опције преузимања и
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } подршка
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Шта год да радите на мрежи, <br> { -brand-name-firefox-browser } <strong>не</strong> гледа.
-firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } у поређењу с другим прегледачима
-firefox-desktop-download-get-all-the-speed = Добијте сву брзину и алате без жртвовања приватности. { -brand-name-firefox-browser } прикупља тако мало података о вама да нам чак није потребна ваша адреса е-поште за преузимање. За разлику од других прегледача, ми немамо финансијски интерес да пратимо ваше активности на вебу.
-firefox-desktop-download-how-we-compare = Како стојимо у поређењу са другим прегледачима
-firefox-desktop-download-compare-firefox-to = Упоредите { -brand-name-firefox } са:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Да
-firefox-desktop-download-no = Не
-firefox-desktop-download-blocks-third-party = Блокира колачиће трећих страна
-firefox-desktop-download-blocks-third-party-default = Подразумевано блокира колачиће трећих страна
-firefox-desktop-download-autoplay-blocking = Блоирање аутоматксе репродукције
-firefox-desktop-download-blocks-social-trackers = Блокира праћење друштвених мрежа
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = Доступност на оперативним системима
-firefox-desktop-download-in-browser-screenshot = Уграђени алат за снимање странице
-firefox-desktop-download-primary-password = Главна лозинка
 firefox-desktop-download-we-block-the-ad = Ми блокирамо огласе који вас прате. Ви брже прегледате интернет.
 firefox-desktop-download-ads-are-distracting = Огласи ометају и успоравају учитавање веб страница, док њихови пратиоци бележе сваки покрет који направите на интернету. { -brand-name-firefox-browser } блокира већину пратилаца аутоматски, тако да не морате да проучавате безбедносна подешавања.
 firefox-desktop-download-see-your-report = Погледајте ваш извештај о заштити
@@ -143,7 +126,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } аут�
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Питања? <a { $attrs }>{ -brand-name-mozilla } подршка</a> вам стоји на услузи.
-firefox-desktop-download-watch-for-hackers-with-v3 = Пазите на хакере уз { -brand-name-mozilla-monitor }, заштитите адресу е-поште уз { -brand-name-firefox-relay }, и друго.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -166,18 +148,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = Ако видите упит да апликацију коју покушавате да инсталирате није верификовао { -brand-name-microsoft }, кликните на “Свеједно инсталирај” или на <a { $attrs }>промени подешавања препоруке апликације</a>.
 firefox-desktop-download-visit-support-for-more = Посетите подршку за више детаља
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">више не пружа безбедносне исправке</a> за { -brand-name-windows } { -brand-name-xp } или { -brand-name-vista }-у, али и даље можете да користите { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Ваше преузимање треба да почне аутоматски. Није успело? <a id="{ $id }" href="{ $fallback_url }">Покушајте поново преузети.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } је више од прегледача.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Ваше преузимање је прекинуто. Али није све изгубљено.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Пратите <a href="{ $url }">ова упутства</a> да инсталирате { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Ваш систем можда не испуњава захтеве за { -brand-name-firefox }, али можете испробати једну од <a href="{ $url }">ових верзија</a>.

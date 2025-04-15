@@ -24,18 +24,12 @@ firefox-new-need-help = Ai nevoie de ajutor?
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">nu mai oferă actualizări de securitate</a> pentru { -brand-name-windows } { -brand-name-xp } sau { -brand-name-vista }, dar mai poți folosi în continuare { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Descărcarea ar trebui să înceapă automat. Nu a mers? <a id="{ $id }" href="{ $fallback_url }">Încearcă să descarci din nou</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } este mai mult decât un browser.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Descărcarea s-a întrerupt. Dar nu-i bai.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = Urmează <a href="{ $url }">aceste instrucțiuni</a> pentru a instala { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Este posibil ca sistemul să nu îndeplinească cerințele minime pentru { -brand-name-firefox }, dar poți încerca una din <a href="{ $url }">aceste versiuni</a>.

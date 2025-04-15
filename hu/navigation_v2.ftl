@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = Töltse le a { -brand-name-firefox(case: "accusative") }
 navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } beszerzése
 navigation-v2-menu = Menü
 
@@ -76,11 +75,7 @@ navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-editio
 navigation-v2-get-the-firefox-browser-built = Szerezze be a fejlesztők számára összeállított { -brand-name-firefox } böngészőt.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = Nézze meg a webfejlesztői erőforrások otthonát.
-navigation-v2-firefox-reality = { -brand-name-firefox-reality }
-navigation-v2-explore-the-web-with-the = Fedezze fel a webet a virtuális valósághoz készült { -brand-name-firefox } böngészővel.
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Adományozza a hangját, hogy a web jövője mindenkit meghallhasson.
-navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-learn-more-about-the-new = Tudjon meg többet az új, alacsony szintű, assemblyhez hasonló nyelvet.
 navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } innovációs projektek
 navigation-v2-discover-ways-to-bring = Fedezze fel a nagyszerű ötletek megvalósításának módjait.

@@ -9,11 +9,9 @@
 vpn-resource-center-title = Qendër Burimesh VPN
 vpn-resource-center-whats-the-deal = Si qëndron punë me Rrjetet Private Virtuale?
 vpn-resource-center-discover-how-they = Shihni se si funksionojnë, pse kanë rëndësi dhe ç’mund të bëjë për ju përdorimi i një VPN-je.
-vpn-resource-center-view-all = Shihini krejt
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = Filloni të mbron identitetin tuaj që sot
 vpn-resource-center-obsessed-with = Të fiksuar për privatësinë tuaj që prej 1998-s
-vpn-resource-center-get-mozilla-vpn = Merrni { -brand-name-mozilla-vpn }
 vpn-resource-center-was-this-article = Qe i dobishëm ky artikull?
 vpn-resource-center-article-helpful = Artikull i dobishëm
 vpn-resource-center-article-not-helpful = Artikull jo i dobishëm

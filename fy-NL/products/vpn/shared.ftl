@@ -8,25 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } downloade
 vpn-shared-waitlist-link = Op de wachtlist pleatse
-vpn-shared-available-countries-v6 = Wy biede op dit stuit { -brand-name-mozilla-vpn } oan yn Eastenryk, België, Bulgarije, Kanada, Kroaasje, Syprus, Tsjechië, Denemarken, Estlân, Finlân, Frankryk, Dútslân, Hongarije, Ierlân, Italië, Letlân, Litouwen, Lúksemboarch, Maleizje, Malta, Nederlân, Nij-Seelân, Poalen, Portugal, Roemenië, Singapore, Sloveenje, Slowakije, Spanje, Sweden, Switserlân, it Feriene Keninkryk en de FS.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-dagen-jildweromgarânsje
-vpn-shared-features-encrypt = Fersifering op apparaatnivo
-vpn-shared-features-bandwidth = Gjin bânbreedtebeheiningen
-vpn-shared-features-activity = Gjin logging fan jo netwurkaktiviteit
-vpn-shared-features-activity-logs = Nea logs fan online aktiviteiten
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = Tagong ta servers yn mear as { $countries } lannen
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = Beskerming foar maksimaal { $devices } apparaten
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = Krêftige servers yn mear as { $countries } lannen
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = Ferbyn maksimaal { $devices } apparaten
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30-dagen-jildweromgarânsje
 vpn-shared-privacy-notice = Privacyferklearring
@@ -65,12 +48,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } is yn 
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = Litte wy begjinne
 vpn-shared-platform-cta-button = Prizen en beskikberheid
-vpn-shared-platform-privacy-promise = Jo privacy is ús belofte
 vpn-shared-platform-what-is = Wat is { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Wêrom { -brand-name-mozilla-vpn }?
-vpn-shared-platform-what-youll-get = Wat krije jo mei { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Mear ynfo oer VPN’s

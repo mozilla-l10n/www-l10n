@@ -11,7 +11,6 @@ firefox-accounts-sign-in = Hasi saioa
 firefox-accounts-manage = Kudeatu zure kontua
 mozilla-account-header = { -brand-name-mozilla-account }
 firefox-accounts-keep-your-passwords = Mantendu pasahitzak babespean alde guztietan.
-firefox-accounts-get-a-lookout-for = Lortu datu-urratzeen talaia bat.
 firefox-accounts-travel-the-internet = Nabigatu Interneten babesturik, gailu guztietan.
 firefox-accounts-get-it-all-on-every = Eskuratu guztia edozein gailutatik, sistema eragile batera lotua sentitu gabe.
 
@@ -19,6 +18,5 @@ firefox-accounts-get-it-all-on-every = Eskuratu guztia edozein gailutatik, siste
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

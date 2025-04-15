@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Experimente os novos recursos da ver
 firefox-channel-download-and-test-future = Baixe e teste futuras versões do { -brand-name-firefox } para desktop, { -brand-name-android } e { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Experimente recursos super recentes em versão de pré-lançamento do navegador para { -brand-name-android }: { -brand-name-firefox-beta } e { -brand-name-firefox-nightly }. Instale agora!
 firefox-channel-experience-cutting-edge-android = Experimente recursos super recentes em versão de pré-lançamento do navegador para { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } e { -brand-name-firefox-nightly }. Instale agora!
-firefox-channel-download-and-test-the-latest-android = Baixe e experimente os últimas recursos do { -brand-name-firefox } para o { -brand-name-android } com as versões { -brand-name-aurora }, { -brand-name-beta } e { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Experimente os recursos mais recentes no { -brand-name-android } antes de ser disponibilizados para o resto do mundo.
 firefox-channel-all-languages-and-platforms = Todos os idiomas e plataformas
 firefox-channel-all-languages-and-builds = Todos os idiomas e versões
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = O { -brand-name-nightly } é uma plataforma instável destinada a testes e desenvolvimento. Por padrão, o { -brand-name-nightly } envia dados para a { -brand-name-mozilla } — e, algumas vezes, para nossos parceiros — para nos ajudar a identificar e resolver problemas e experimentar ideias. <a href="{ $link }">Veja o que é compartilhado</a>.
 firefox-channel-firefox-nightly-automatically = O { -brand-name-firefox-nightly } envia automaticamente estatísticas para a { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Experimente os novos recursos do navegador em versões de pré-lançamento | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Experimente recursos super recentes em versão de pré-lançamento: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } e { -brand-name-firefox-nightly }. Baixe agora!
 firefox-channel-download-and-test-the-latest-desktop = Baixe e experimente os últimos recursos do { -brand-name-firefox } para computadores com as versões { -brand-name-developer-edition }, { -brand-name-beta } e { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

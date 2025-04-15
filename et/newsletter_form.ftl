@@ -10,7 +10,6 @@ newsletter-form-im-okay-with-mozilla = Luban { -brand-name-mozilla }l minu andme
 newsletter-form-if-you-havent-previously = Kui sa pole varem kinnitanud mõnda { -brand-name-mozilla } uudiskirjatellimust, siis pead seda võib-olla tegema. Palun kontrolli oma postkasti või rämpspostikausta meie kirja vaatamiseks.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + sina
 newsletter-form-get-firefox-tips = Hangi { -brand-name-firefox }i nippe, trikke, uudiseid ja muud
-newsletter-form-keep-up-with = Ole { -brand-name-firefox }i<br> uudistega kursis.
 newsletter-form-get-mozilla-updates = Hangi { -brand-name-mozilla } uuendusi
 newsletter-form-available-languages = Saadaval olevad keeled
 newsletter-form-select-country = Vali riik

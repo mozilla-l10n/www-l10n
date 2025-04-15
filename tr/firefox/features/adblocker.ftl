@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Reklam engelleyici kullanarak sinir bozucu reklamları engelleme
 features-adblocker-the-ad-blocker-a-secret = Reklam engelleyici: Sinir bozucu reklamlara karşı gizli bir silah.
 features-adblocker-so-many-ads-so-little = Reklam çok, sabrınız az… Artık bu çılgınlığı durdurmanın zamanı geldi.
 features-adblocker-the-average-person-sees = Ortalama bir kişi günde yaklaşık 4.000 reklam görür. Bu size fazla geldiyse reklam engelleyicilerle dost olabilirsiniz.

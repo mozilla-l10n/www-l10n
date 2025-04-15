@@ -29,23 +29,6 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } aðst
 firefox-desktop-download-do-what-you-do-v2 = Gerðu það sem þú gerir á netinu.<br> { -brand-name-firefox-browser } <strong>verndar</strong> þig.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Gerðu það sem þú gerir á netinu.<br> { -brand-name-firefox-browser } <strong>er ekki</strong> að glápa.
-firefox-desktop-download-how-firefox-compares = Hvernig { -brand-name-firefox } er í samanburði við aðra vafra
-firefox-desktop-download-get-all-the-speed = Fáðu allan hraðann og öll verkfærin án innrása í friðhelgi einkalífsins. { -brand-name-firefox-browser } safnar svo litlum gögnum um þig að við þurfum ekki einu sinni að fá tölvupóstfangið þitt svo þú getir sótt vafrann. Ólíkt öðrum vöfrum höfum við nefninlega engan fjárhagslegan ávinning í að fylgjast með þér vafra um vefinn.
-firefox-desktop-download-how-we-compare = Hvernig við stöndum okkur miðað við aðra vafra
-firefox-desktop-download-compare-firefox-to = Bera { -brand-name-firefox } samanvið:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Já
-firefox-desktop-download-no = Nei
-firefox-desktop-download-blocks-third-party = Lokar á vefkökur frá utanaðkomandi aðilum
-firefox-desktop-download-blocks-third-party-default = Lokar sjálfgefið á vefkökur frá utanaðkomandi aðilum
-firefox-desktop-download-autoplay-blocking = Lokun á sjálfvirkri spilun
-firefox-desktop-download-blocks-social-trackers = Lokar á samfélagmiðlarekjara
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = Framboð stýrikerfa
-firefox-desktop-download-in-browser-screenshot = Skjámyndatól í vafra
-firefox-desktop-download-primary-password = Aðallykilorð
 firefox-desktop-download-we-block-the-ad = Við lokum á auglýsinganjósnirnar. Þú kannar netið hraðar.
 firefox-desktop-download-ads-are-distracting = Auglýsingar eru truflandi og láta vefsíður hlaðast hægar á meðan rekjararnir í þeim fylgjast með hverri hreyfingu sem þú gerir á netinu. { -brand-name-firefox-browser } lokar sjálfkrafa á flesta rekjara, svo það er engin þörf á að grafa eftir þessu í öryggisstillingarnar þínar.
 firefox-desktop-download-see-your-report = Skoðaðu skýrslu um verndina þína
@@ -149,7 +132,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Spurningar? <a { $attrs }>{ -brand-name-mozilla } aðstoðin</a> hefur flest sem þú þarft.
-firefox-desktop-download-watch-for-hackers-with-v3 = Fylgstu með tölvuþrjótum í gegnum { -brand-name-mozilla-monitor }, verndaðu tölvupóstfangið þitt með { -brand-name-firefox-relay } og ýmislegt fleira.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -172,18 +154,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = Ef þú sérð vísbendingu um að forritið sem þú ert að reyna að setja upp sé ekki { -brand-name-microsoft }-staðfest forrit, smelltu á „Setja samt upp“ eða <a { $attrs }>breyttu stillingum fyrir tillögur forrita</a >.
 firefox-desktop-download-visit-support-for-more = Heimsæktu aðstoðargáttina fyrir frekari upplýsingar
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">veitir ekki lengur öryggisuppfærslur</a> á { -brand-name-windows } { -brand-name-xp } eða { -brand-name-vista }, en þú getur samt notað { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Niðurhalið þitt ætti að hefjast sjálfkrafa. Virkaði það ekki? <a id="{ $id }" href="{ $fallback_url }">Reyndu aftur að sækja.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } er meira en bara vafri.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Niðurhalið þitt var truflað. En ekki er allt alveg glatað.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Fylgdu þessum <a href="{ $url }">leiðbeiningum</a> til að setja inn { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Kerfið þitt uppfyllir mögulega ekki þær kröfur sem þarf fyrir { -brand-name-firefox }, en þú getur prófað einhverja af <a href="{ $url }">þessum útgáfum</a>.

@@ -8,8 +8,6 @@
 home-internet-for-people-not-profit = Idirlíon a chuireann daoine roimh bhrabús
 home-did-you-know-mozilla-the-maker = An raibh a fhios agat? Tá { -brand-name-mozilla } — lucht déanta { -brand-name-firefox } — ag troid ar son an Idirlín mar acmhainn dhomhanda phoiblí atá oscailte agus ar fáil do chách.
 home-our-impact = Ár dtionchar
-home-working-to-keep-the-internet = Táimid ag déanamh ar ndíchill an tIdirlíon a choinneáil slán, oscailte, agus ar fáil do chách. Múinimid litearthacht Ghréasáin, soláthraímid uirlisí don phobal, agus tugaimid tacaíocht do gach duine atá ar son an Idirlín mar acmhainn phoiblí dhomhanda.
-home-working-at-the-grassroots-and = Ag obair i gcomhar leis an bpobal agus le lucht déanta polasaí, múinimid litearthacht Ghréasáin, soláthraímid uirlisí don phobal, agus tugaimid tacaíocht do gach duine atá ar son Idirlín bunaithe ar chothrom na Féinne, ar chuimsitheacht shóisialta, agus ar dhea-mheas.
 home-read-our-internet-health-report = Léigh ár dtuairisc ar Shláinte an Idirlín
 home-our-innovations = Nuálaíocht
 home-using-the-web-as-the-platform = Bainimid úsáid as an nGréasán mar ardán chun teicneolaíochtaí oscailte nuálacha a fhorbairt, teicneolaíochtaí a ligeann d'fhorbróirí eispéireas Gréasáin níos sciobtha níos sláine a chruthú, go hiomlán neamhspleách ar aon éiceachóras dúnta corparáideach.

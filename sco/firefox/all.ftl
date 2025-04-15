@@ -30,14 +30,7 @@ firefox-all-product-send-link = Send a doonload link tae yer phone
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Wale a 32-bit instawer fur computers wi 32-bit processors — or fur aulder or no sae pouerfu computers. <a href="{ $url }">If ye arenae siccar</a> whether tae wale a 64-bit or 32-bit instawer, we recommend ye gang wi 32-bit.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Doonload { $product_label } fur { $platform } in { $locale }
 firefox-all-msi-installers = MSI instawers
-firefox-all-which-version = Whit version are ye wantin?
-firefox-all-select-your-preferred-installer = Wale yer preferred instawer
 firefox-all-select-your-preferred-language = Wale yer preferred leid
 firefox-all-learn-about-installers = Lairn aboot instawers
 firefox-all-product-firefox = { -brand-name-firefox }

@@ -10,11 +10,8 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Bilde
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Har du noko å gjere og noko å sjå på? Dra nytte av bilde-i-bilde-funksjonen i { -brand-name-firefox }.
 features-pip-picture-in-picture = Bilde-i-bilde
-features-pip-new-feature-firefox-multi-picture = Ny funksjon: { -brand-name-firefox } multi-bilde-i-bilde
-features-pip-cool-feature-picture-in-picture = Kul funksjon: Bilde-i-bilde
 features-pip-get-more-done-with-pop-out-videos = Få meir gjort med sprettut-videoar
 features-pip-got-things-to-do-do-both-with = Har du noko å gjere og noko å sjå på? Dra nytte av bilde-i-bilde-funksjonen i  { -brand-name-firefox }. Den lèt deg opne ein video i eit nytt vindauge frå ei nettside og feste han til skjermen din slik at du kan halde fram å sjå medan du er på andre sider, faner og appar.
-features-pip-play-the-video = Spel av videoen
 features-pip-heres-how-it-works = Slik fungerer det:
 features-pip-play-any-video-in-your-updated = <strong>Spel alle videoklipp</strong> i { -brand-name-firefox }-nettlesaren din, som denne.
 features-pip-play-any-video-in-your = <strong>Spel alle videoklipp</strong> i { -brand-name-firefox }-nettlesaren din, som denne med raude babypandaer.

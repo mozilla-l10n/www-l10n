@@ -29,10 +29,6 @@ cookie-settings-category-preference-what-are-subheading = Кукиҳои хус�
 cookie-settings-category-analytics-heading = Таҳлил
 cookie-settings-category-analytics-what-are-subheading = Кукиҳои таҳлилӣ кадоманд?
 
-## Consent section
-
-cookie-settings-your-consent-heading = Ризоияти шумо
-
 ## Privacy section
 
 cookie-settings-privacy-heading = Огоҳномаи махфияти мо

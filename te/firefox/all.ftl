@@ -26,14 +26,7 @@ firefox-all-firefox-privacy-notice = { -brand-name-firefox } గోప్యత�
 firefox-all-learn-about-firefox = { -brand-name-firefox } విహారిణుల గురించి తెలుసుకోండి
 firefox-all-arm64-installers = ARM64/AArch64 ఇన్‌స్టాలర్‌లు
 firefox-all-product-send-link = మీ ఫోనుకు దింపుకోలు లంకెను పంపండి.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = { $locale }లో { $platform } కోసం { $product_label }ని డౌన్‌లోడ్ చేయండి
 firefox-all-msi-installers = MSI ఇన్‌స్టాలర్లు
-firefox-all-which-version = మీకు ఏ వెర్షను నచ్చుతుంది?
-firefox-all-select-your-preferred-installer = మీకు నచ్చే స్థాపకిని ఎంచుకోండి
 firefox-all-select-your-preferred-language = మీ అభిమత భాషను ఎంచుకోండి
 firefox-all-learn-about-installers = ఇన్‌స్టాలర్ల గురించి తెలుసుకోండి
 firefox-all-product-firefox = { -brand-name-firefox }

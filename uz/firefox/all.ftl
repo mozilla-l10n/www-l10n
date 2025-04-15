@@ -27,14 +27,7 @@ firefox-all-windows-installers-for = AKTga asoslangan korporativ kompaniylar uch
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32 bit razryadli protsessorli yoki eski va kuchsiz kompyuterlar uchun 32 bitlik oʻrnatkichni tanlang. 64 yoki 32 bitlik oʻrnatkichdan birini <a href="{ $url }">tanlashga ikkilanayotgan boʻlsangiz,</a> 32 bitlikni tanlashni tavsiya qilamiz.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = { $locale } tilidagi { $platform } uchun { $product_label }ni tanlang
 firefox-all-msi-installers = MSI oʻrnatkichlar
-firefox-all-which-version = Qaysi versiya kerak?
-firefox-all-select-your-preferred-installer = Kerakli oʻrnatkichni tanlang
 firefox-all-select-your-preferred-language = Kerakli tilni tanlang
 firefox-all-learn-about-installers = Oʻrnatkichlar haqida batafsil
 firefox-all-product-firefox = { -brand-name-firefox }

@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = ਪ੍ਰੀ-ਰੀਲਿਜ਼ { -bran
 firefox-channel-download-and-test-future = ਡਾਊਨਲੋਡ ਕਰੋ ਅਤੇ ਡੈਸਕਟਾਪ, { -brand-name-android } ਅਤੇ { -brand-name-ios } ਲਈ { -brand-name-firefox } ਦੇ ਰੀਲਿਜ਼ ਹੋਏ ਫੀਚਰਾਂ ਨੂੰ ਟੈਸਟ ਕਰੋ।
 firefox-channel-experience-cutting-edge-android-updated = { -brand-name-android } ਲਈ ਜਾਰੀ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਵਾਲੇ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਨਵੇਂ ਨਕੋਰ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖਣ ਲਈ: { -brand-name-firefox-beta } ਅਤੇ { -brand-name-firefox-nightly }। ਹੁਣੇ ਇੰਸਟਾਲ ਕਰੋ!
 firefox-channel-experience-cutting-edge-android = { -brand-name-android } ਲਈ ਪ੍ਰੀ-ਰੀਲਿਜ਼ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਨਵੇਂ-ਨਕੋਰ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } ਅਤੇ { -brand-name-firefox-nightly }। ਹੁਣੇ ਇੰਸਟਾਲ ਕਰੋ!
-firefox-channel-download-and-test-the-latest-android = { -brand-name-aurora }, { -brand-name-beta } ਅਤੇ { -brand-name-nightly } ਬਿਲਡ ਨਾਲ { -brand-name-android } ਲਈ { -brand-name-firefox } ਨੂੰ ਡਾਊਨਲੋਡ ਤੇ ਟੈਸਟ ਕਰੋ।
 firefox-channel-try-the-latest-android-features = ਬਾਕੀ ਸੰਸਾਰ ਨੂੰ ਮਿਲਣ ਤੋਂ ਪਹਿਲਾਂ { -brand-name-android } ਦੇ ਨਵੇਂ ਨਕੋਰ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ।
 firefox-channel-all-languages-and-platforms = ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਅਤੇ ਪਲੇਟਫਾਰਮ
 firefox-channel-all-languages-and-builds = ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਅਤੇ ਬਿਲਡ
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = { -brand-name-nightly } ਬਲੌਗ
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ਇੱਕ ਅਸਥਿਰ ਟੈਸਟਿੰਗ ਅਤੇ ਵਿਕਾਸ ਪਲੇਟਫਾਰਮ ਹੈ। ਮੂਲ ਰੂਪ ਵਿੱਚ { -brand-name-nightly } { -brand-name-mozilla } ਨੂੰ ਡਾਟਾ ਭੇਜਦਾ ਹੈ — ਅਤੇ ਕਦੇ-ਕਦੇ ਸਾਡੇ ਸਾਂਝੇਦਾਰ — ਸਮੱਸਿਆਵਾਂ ਨੂੰ ਸੁਲਝਾਉਣ ਅਤੇ ਵਿਚਾਰਾਂ ਨੂੰ ਅਜਮਾਉਣ ਵਿੱਚ ਸਾਡੀ ਸਹਾਈਤਾ ਦੇ ਲਈ। <a href="{ $link }"> ਕੀ ਸਾਂਝਾ ਕੀਤਾ ਗਿਆ ਹੈ ਸਿੱਖੋ </a>।
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } ਆਪਣੇ-ਆਪ ਫੀਡਬੈਕ { -brand-name-mozilla } ਨੂੰ ਭੇਜਦਾ ਹੈ।
-firefox-channel-try-new-browser-features = ਪ੍ਰੀ-ਰੀਲਿਜ਼ ਵਰਜ਼ਨ ਵਿੱਚ ਨਵੇਂ ਬਰਾਊਜ਼ਰ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = ਪ੍ਰੀ-ਰੀਲਿਜ਼ ਵਰਜ਼ਨ ਵਿੱਚ ਨਵੇਂ-ਨਕੋਰ ਫੀਚਰਾਂ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } ਅਤੇ { -brand-name-firefox-nightly }। ਹੁਣੇ ਇੰਸਟਾਲ ਕਰੋ!
 firefox-channel-download-and-test-the-latest-desktop = { -brand-name-developer-edition }, { -brand-name-beta } ਅਤੇ { -brand-name-nightly } ਵਾਲੇ ਨਵੇਂ ਨਕੋਰ ਡੈਸਕਟਾਪ ਲਈ { -brand-name-firefox } ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਕੇ ਟੈਸਟ ਕਰੋ।
 firefox-channel-beta = { -brand-name-beta }

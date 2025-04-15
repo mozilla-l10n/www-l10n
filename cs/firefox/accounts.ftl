@@ -26,7 +26,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Ukládat si a synchroni
 firefox-accounts-get-email-alerts = Nechat se upozornit, jestliže se vaše údaje objeví ve známém úniku dat
 firefox-accounts-protect-your-identity = Chránit svou identitu pomocí bezpečného maskování telefonu a e-mailu
 firefox-accounts-keep-your-passwords = Mít svá hesla v bezpečí a stále s sebou
-firefox-accounts-get-a-lookout-for = Být informováni o únicích dat
 firefox-accounts-travel-the-internet = Surfovat po internetu bezpečně na každém svém zařízení
 firefox-accounts-encrypt-your = Šifrovat svou síťovou aktivitu a skrývat svou IP adresu
 firefox-accounts-we-never = Nikdy si nezaznamenáváme, nesledujeme ani nesdílíme vaše síťová data
@@ -38,6 +37,5 @@ firefox-accounts-get-it-all-on-every = Toto vše získáte na každém svém za�
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

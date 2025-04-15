@@ -26,23 +26,6 @@ firefox-desktop-download-download-options = Opziuns da telechargiadas ed autras 
 firefox-desktop-download-browser-support = Agid dal { -brand-name-firefox-browser }
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Sta patgific en l'internet.<br> Il { -brand-name-firefox-browser } na t'observa <strong>betg</strong>.
-firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } en cumparegliaziun cun auters navigaturs
-firefox-desktop-download-get-all-the-speed = Profitescha da sveltezza ed ina massa utensils senza desister da la sfera privata. Il { -brand-name-firefox-browser } na rimna quasi naginas datas da tai. Nus na duvrain gnanc tia adressa d'e-mail per la telechargiada. En confrunt cun auters navigaturs n'avain nus nagin interess finanzial da ta persequitar en il web.
-firefox-desktop-download-how-we-compare = Ans cumpareglia cun auters navigaturs
-firefox-desktop-download-compare-firefox-to = Cumparegliar { -brand-name-firefox } cun:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Gea
-firefox-desktop-download-no = Na
-firefox-desktop-download-blocks-third-party = Blochescha cookies da terzas partidas che fastizeschan
-firefox-desktop-download-blocks-third-party-default = Blochescha cookies da terzas partidas che fastizeschan gia en la configuraziun predefinida
-firefox-desktop-download-autoplay-blocking = Bloccada da la reproducziun automatica
-firefox-desktop-download-blocks-social-trackers = Blochescha fastizaders da social media
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = Disponibladad per sistems operativs
-firefox-desktop-download-in-browser-screenshot = Utensil integrà per far maletgs dal visur
-firefox-desktop-download-primary-password = Pled-clav universal
 firefox-desktop-download-we-block-the-ad = Nus bloccain ils fastizaders da reclama. Ti navigheschas pli svelt en l'internet.
 firefox-desktop-download-ads-are-distracting = Reclamas distiran ed han per consequenza che paginas chargian pli plaun, fertant che lur fastizaders observan mintga pass che ti fas online. Il { -brand-name-firefox-browser } blochescha automaticamain la plipart dals fastizaders – uschia ch'i na fa gnanc da basegn da svutrar ditg en ils parameters da segirezza.
 firefox-desktop-download-see-your-report = Vesair tes rapport da protecziun
@@ -143,7 +126,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Dumondas? <a { $attrs }>L'agid da { -brand-name-mozilla }</a> stat a tia disposiziun.
-firefox-desktop-download-watch-for-hackers-with-v3 = Surveglia ils hackers cun { -brand-name-mozilla-monitor }, protegia tia adressa dad e-mail cun { -brand-name-firefox-relay } ed auter pli.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -166,18 +148,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = Sche ti vesas in'annunzia che pretenda che l'app che ti emprovas dad installar na saja betg ina app verifitgada per { -brand-name-microsoft }, clicca sin il buttun per tuttina installar u <a { $attrs }>mida ils parameters per l'installaziun dad apps</a>.
 firefox-desktop-download-visit-support-for-more = Visita l'agid per ulteriuras infurmaziuns
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">na porscha naginas actualisaziuns da segirezza pli</a> sin { -brand-name-windows } { -brand-name-xp } u { -brand-name-vista }, ma ti pos anc adina utilisar { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Tia telechargiada duess cumenzar automaticamain. Betg funcziunà? <a id="{ $id }" href="{ $fallback_url }">Emprova anc ina giada da telechargiar.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } è dapli ch'in navigatur.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Tia telechargiada è interrutta. Ma betg tut è pers.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Suonda per plaschair <a href="{ $url }">questas instrucziuns</a> per installar { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Tes sistem n'ademplescha forsa betg las pretensiuns per { -brand-name-firefox }, ti pos dentant empruvar cun ina da <a href="{ $url }">questas versiuns</a>.

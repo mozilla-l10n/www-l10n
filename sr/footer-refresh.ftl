@@ -8,7 +8,6 @@ footer-refresh-firefox-release-notes = { -brand-name-firefox } напомене 
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Пратите @{ -brand-name-mozilla }
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -23,7 +22,6 @@ footer-refresh-support = Подршка
 footer-refresh-product-help = Помоћ за производ
 footer-refresh-file-a-bug = Пријавите грешку
 footer-refresh-localize-mozilla = Преведите { -brand-name-mozilla }-у
-footer-refresh-brand-standards = Стандарди бренда
 footer-refresh-developers = Програмери
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

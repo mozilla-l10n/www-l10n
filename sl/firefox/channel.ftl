@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Preskusite nove funkcije v predizdaj
 firefox-channel-download-and-test-future = Prenesite in preskusite prihodnje izdaje { -brand-name-firefox }a za namizja, { -brand-name-android } in { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Doživite čisto sveže funkcije v predizdajnem brskalniku za { -brand-name-android }: { -brand-name-firefox-beta } in { -brand-name-firefox-nightly }. Namestite zdaj!
 firefox-channel-experience-cutting-edge-android = Doživite čisto sveže funkcije v predizdajnem brskalniku za { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } in { -brand-name-firefox-nightly }. Namestite zdaj!
-firefox-channel-download-and-test-the-latest-android = Prenesite izdajo { -brand-name-aurora }, { -brand-name-beta } ali { -brand-name-nightly } { -brand-name-firefox }a za { -brand-name-android } in preskusite najnovejše funkcije.
 firefox-channel-try-the-latest-android-features = Preskusite najnovejše funkcije za { -brand-name-android }, še preden so uradno izdane.
 firefox-channel-all-languages-and-platforms = Vsi jeziki in platforme
 firefox-channel-all-languages-and-builds = Vsi jeziki in izgradnje
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } je nezanesljiva platforma, namenjena preskušanju in razvoju. { -brand-name-nightly } { -brand-name-mozilla(sklon: "dajalnik") } – in občasno našim partnerjem – privzeto pošilja podatke, ki nam pomagajo odkrivati težave in preskušati zamisli. <a href="{ $link }">Preberite, kaj { -brand-name-nightly } pošilja</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } samodejno pošilja povratne informacije { -brand-name-mozilla(sklon: "dajalnik") }.
-firefox-channel-try-new-browser-features = Preskusite nove funkcije brskalnika v predizdajnih različicah | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Doživite čisto sveže funkcije v predizdajnih različicah: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } in { -brand-name-firefox-nightly }. Prenesite zdaj!
 firefox-channel-download-and-test-the-latest-desktop = Prenesite in preskusite najnovejše različice { -brand-name-firefox }a za namizja v različicah { -brand-name-developer-edition }, { -brand-name-beta } in { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

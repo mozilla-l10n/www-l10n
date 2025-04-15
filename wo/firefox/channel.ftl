@@ -23,7 +23,6 @@ firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }
 firefox-channel-check-out-new-android-features = Xoolal sunu solo yu yees yi yu { -brand-name-android } ci seenug njëlbeen. Jëfandikoo leen ak moytu.
 firefox-channel-nightly-blog = Blog bu { -brand-name-nightly }
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } mooy yónneel boppam xibaar { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Jéemal jëfandikoo solo yu yees yu joowukaay bi ci sumb yiy waaj-a-génn|{ -brand-name-firefox }
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-release-notes = Karmati sumb
 firefox-channel-developer-edition = { -brand-name-developer-edition }

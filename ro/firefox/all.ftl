@@ -29,14 +29,7 @@ firefox-all-arm64-installers = Programe de instalare ARM64/AArch64
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Alege un program de instalare pe 32 de biți pentru calculatoarele cu procesoare pe 32 de biți — sau pentru calculatoare mai vechi sau mai slabe. <a href="{ $url }">Dacă nu știi sigur</a>ce program de instalare să alegi, pe 64 sau pe 32 biți, îți recomandăm să mergi pe 32 biți.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Descarcă { $product_label } pentru { $platform } în { $locale }
 firefox-all-msi-installers = Programe de instalare MSI
-firefox-all-which-version = Ce versiune dorești?
-firefox-all-select-your-preferred-installer = Selectează programul de instalare preferat
 firefox-all-select-your-preferred-language = Selectează limba preferată
 firefox-all-learn-about-installers = Află despre programele de instalare
 firefox-all-product-firefox = { -brand-name-firefox }

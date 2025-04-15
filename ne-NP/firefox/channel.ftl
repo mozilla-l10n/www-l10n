@@ -14,7 +14,6 @@ firefox-channel-see-something-that-isnt-working = कुनै चिजले �
 firefox-channel-file-a-bug-now = Bug दर्ता गर्नुहोस्
 firefox-channel-tips-for-filing-a-bug = Bug दर्ता गर्ने सुझाव
 firefox-channel-download-and-test-future = डेस्कटप, { -brand-name-android } र { -brand-name-ios } का लागी बनाईएको { -brand-name-firefox } को भविष्यको संस्करण डाउनलोड र टेस्ट गर्नुहोस्।
-firefox-channel-download-and-test-the-latest-android = { -brand-name-android } का लागी { -brand-name-firefox } { -brand-name-aurora }, { -brand-name-beta }, र { -brand-name-nightly } build हरूको मार्फत डाउनलोड र जाँच गर्नुहोस्।
 firefox-channel-try-the-latest-android-features = अरुसम्म पुग्नु अगावै { -brand-name-android } को नवीनतम बिशेषताहरू प्रयोग गर्नुहोस्।
 firefox-channel-all-languages-and-builds = सवै भाषाहरू र Build हरू
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } ले सुझावहरू स्वतः { -brand-name-mozilla } लाई पठाउँछ।

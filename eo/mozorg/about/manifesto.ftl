@@ -9,7 +9,6 @@
 manifesto-the-mozilla-manifesto = La manifesto de { -brand-name-mozilla }
 # HTML page description
 manifesto-these-are-the-principles = Tiuj ĉi estas la principioj, kiuj gvidas nian mision: antaŭenigi malfermitecon, novaĵkreemon kaj oportunojn en la Teksaĵo.
-manifesto-transparent-community = Travideblaj kaj komunumpelitaj procezoj favoras partoprenon, respondecon kaj fidon.
 manifesto-commercial-involvement = Komerca partopreno en la disvolviĝo de interreto alportas plurajn bonaĵojn; ekvilibro inter komerca profito kaj publika bono estas gravega.
 manifesto-principle-1 = Principo 1
 manifesto-principle-2 = Principo 2
@@ -21,16 +20,6 @@ manifesto-principle-7 = Principo 7
 manifesto-principle-8 = Principo 8
 manifesto-principle-9 = Principo 9
 manifesto-principle-10 = Principo 10
-manifesto-01 = 01
-manifesto-02 = 02
-manifesto-03 = 03
-manifesto-04 = 04
-manifesto-05 = 05
-manifesto-06 = 06
-manifesto-07 = 07
-manifesto-08 = 08
-manifesto-09 = 09
-manifesto-10 = 10
 # Main page heading
 manifesto-the-mozilla-manifesto-addendum = Suplemento al la manifesto de { -brand-name-mozilla }
 # Main page sub-heading
@@ -40,7 +29,6 @@ manifesto-show-your-support = Montri vian subtenon
 manifesto-i-support-the-vision-of = Mi subtenas la projekton de @mozilla pri pli bona, pli sana interreto. Ĉu vi akompanas min?
 manifesto-our-10-principles = <strong>Niaj 10</strong> principoj
 manifesto-read-the-entire-manifesto = Legu la tutan manifeston
-manifesto-love-the-web = Ĉu vi amas la teksaĵon?
 manifesto-details-the-mozilla-manifesto = La manifesto de { -brand-name-mozilla }
 manifesto-details-introduction = Enkonduko
 manifesto-details-the-internet-is-becoming = Interreto iĝas pli kaj pli grava parto de niaj vivoj.

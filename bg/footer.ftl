@@ -2,11 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Манифест на { -brand-name-mozilla }
 footer-privacy-hub = Център за лични данни
 footer-privacy = Лични данни
-footer-browsers = Мрежови четци
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = Разработчици
 footer-developer-edition = { -brand-name-developer-edition }
@@ -30,7 +28,6 @@ footer-websites-legal = Правни въпроси
 footer-language = Език
 footer-go = Напред
 footer-donate = Дарете
-footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-tiktok = { -brand-name-tiktok }

@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = 我们只会向您发送与 { -br
 newsletter-form-if-you-havent-previously = 如果您以前没有确认订阅过 { -brand-name-mozilla } 相关的新闻报，您可能需要检查您的收件箱、垃圾邮件箱或垃圾邮件过滤器，以找到我们发给您的确认邮件。
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + 您
 newsletter-form-get-firefox-tips = 获得 { -brand-name-firefox } 的技巧、提示、新闻等等
-newsletter-form-keep-up-with = 持续关注<br>{ -brand-name-firefox } 的最新动态。
 newsletter-form-get-mozilla-updates = 获取 { -brand-name-mozilla } 更新
 newsletter-form-available-languages = 可用语言
 newsletter-form-select-country = 选择国家/地区

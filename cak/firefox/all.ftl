@@ -30,14 +30,7 @@ firefox-all-product-send-link = Titaq jun ruximik qasanïk pan awoyonib'al.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Tacha' jun 32-bit yakonel kichin kematz'ib' rik'in 32-bit xenab'ab'äl — o ojer taq samajib'äl o man kan ta k'o kuchuq'a'. <a href="{ $url }">We man awetaman ta</a> we nacha' chi kikojol 64-bit o 32-bit yakonel, niqachilab'ej chi tacha' ri 32-bit.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Tiqasäx { $product_label } richin { $platform } pa { $locale }
 firefox-all-msi-installers = MSi yakonela'
-firefox-all-which-version = ¿Achike ruwäch niqa chawäch?
-firefox-all-select-your-preferred-installer = Tacha' ri yakonel niqa chawäch
 firefox-all-select-your-preferred-language = Tacha' ri ch'ab'äl niqa chawäch
 firefox-all-learn-about-installers = Tetamäx chi kij ri yakonela'
 firefox-all-product-firefox = { -brand-name-firefox }

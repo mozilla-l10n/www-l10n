@@ -8,7 +8,6 @@ footer-refresh-firefox-release-notes = { -brand-name-firefox } ریلیز نوٹ
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = { -brand-name-mozilla } تے فالو کرو
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -23,7 +22,6 @@ footer-refresh-support = سہارا
 footer-refresh-product-help = مصنوعات دی مدد
 footer-refresh-file-a-bug = بگ فائل کرو
 footer-refresh-localize-mozilla = { -brand-name-mozilla } مقامی بݨاؤ
-footer-refresh-brand-standards = برانڈ دے معیار
 footer-refresh-developers = ڈویلپرز
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Sipan chi Ajk'amaya'l Okik'amaya'l
-new-platform-download-firefox = Tiqasäx { -brand-name-firefox }
 new-platform-download-the-fastest = Tiqasäx ri { -brand-name-firefox }, ri janila chi aninäq majub'ey titz'et
 new-platform-faster-page-loading = Ri rusamajib'exik ri aninäq ruxaq, rokisaxik jub'a' tzatzq'ob'äl chuqa' nojinäq chi b'anikil, wawe' k'o wi ri k'ak'a' { -brand-name-firefox }.
 new-platform-2x-faster = 2x Mul Aninäq
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Taqasaj { -brand-name-mozilla } { -br
 new-platform-download-the-fastest-linux = Tiqasäx ri { -brand-name-firefox } richin { -brand-name-linux }, ri janila aninäq majub'ey titz'et
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Ri rusamajib'exik ri aninäq ruxaq, rokisaxik jub'a' tzatzq'ob'äl chuqa' nojinäq chi b'anikil, wawe' k'o wi ri k'ak'a' { -brand-name-firefox } richin { -brand-name-linux }.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } richin { -brand-name-linux }
 new-platform-privacy-more-than = Ichinanem - nïm chuwäch ri na'ojil
 new-platform-your-life-your-business = Ak'aslem, ak'ayij. { -brand-name-firefox } yeruq'ät taq rukuki ojqanem kichin aj rox winäq pa { -brand-name-linux }.
 new-platform-speed-meet-security = Aninem, jikomal. { -brand-name-firefox } ka'i' mul mas aninäq rik'in jun 30% jub'a' rutzatzq'or chuwäch ri { -brand-name-chrome }.

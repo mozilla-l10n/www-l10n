@@ -4,5 +4,3 @@
 
 fxa-form-email-address = Chomlec'h postel
 fxa-form-continue = Kenderc'hel
-fxa-form-create-account = Krouiñ ur gont
-fxa-form-get-the-app = Kaout an arload

@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = Będziemy wysyłać Ci wyłączni
 newsletter-form-if-you-havent-previously = Jeśli jeszcze nigdy nie potwierdzono subskrypcji biuletynu { -brand-name-mozilla(case: "gen") }, to możesz musieć to zrobić. Sprawdź, czy w skrzynce pocztowej lub spamie jest wiadomość od nas.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> i Ty
 newsletter-form-get-firefox-tips = Porady, wskazówki i wiadomości ze świata { -brand-name-firefox(case: "gen") }
-newsletter-form-keep-up-with = Wszystko<br> o { -brand-name-firefox(case: "loc") }.
 newsletter-form-get-mozilla-updates = Bądź na bieżąco z { -brand-name-mozilla(case: "ins") }
 newsletter-form-available-languages = Dostępne języki
 newsletter-form-select-country = Wybierz państwo

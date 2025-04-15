@@ -9,7 +9,6 @@ firefox-accounts-enter-your-email-address = Մուտքագրեք ձեր էլփո
 firefox-accounts-already-have-an-account = Արդեն ունե՞ք հաշիվ
 firefox-accounts-sign-in = Մուտք գործել
 firefox-accounts-keep-your-passwords = Ձեր գաղտնաբառերը պահեք պաշտպանված և դյուրակիր:
-firefox-accounts-get-a-lookout-for = Հետևեք տվյալների խախտումներին:
 firefox-accounts-travel-the-internet = Ճանապարհորդեք ինտերնետով պաշտպանությամբ՝յուրաքանչյուր սարքի միջոցով։
 firefox-accounts-get-it-all-on-every = Ստացեք դրանք բոլոր սարքերում, առանց կախվածություն ունենալու որևէ օպերացիոն համակարգից:
 

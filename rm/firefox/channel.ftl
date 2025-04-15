@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Emprova novas funcziunalitads en ina
 firefox-channel-download-and-test-future = Telechargia e testescha las proximas versiuns da { -brand-name-firefox } per desktop, { -brand-name-android } ed { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Emprova las pli novas funcziunalitads en ina versiun preliminara dal navigatur per { -brand-name-android }: { -brand-name-firefox-beta } e { -brand-name-firefox-nightly }. Ussa installar!
 firefox-channel-experience-cutting-edge-android = Emprova las pli novas funcziunalitads en ina versiun preliminara dal navigatur per { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } e { -brand-name-firefox-nightly }. Ussa installar!
-firefox-channel-download-and-test-the-latest-android = Telechargiar e testar las pli novas funcziuns da { -brand-name-firefox } per { -brand-name-android } cun las versiuns { -brand-name-aurora }, { -brand-name-beta } ed { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Emprova las pli novas funcziuns sin { -brand-name-android }, avant ch'ellas vegnan publitgadas per il rest dal mund.
 firefox-channel-all-languages-and-platforms = Tuttas linguas e plattafurmas
 firefox-channel-all-languages-and-builds = Tut las linguas e versiuns
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = Blog da { -brand-name-nightly }
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } è ina plattafurma instabla per tests e svilup. { -brand-name-nightly } trametta, sco standard, datas a { -brand-name-mozilla } — e mintgatant a noss partenaris — per gidar a schliar problems ed empruvar novas ideas. <a href="{ $link }">Ve a savair tge che vegn transmess</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } trametta automaticamain tschertas infurmaziuns a { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Emprova novas funcziunalitads dal navigatur en ina versiun preliminara | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Emprova las pli novas funcziunalitads en ina versiun preliminara dal navigatur: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } e { -brand-name-firefox-nightly }. Ussa telechargiar!
 firefox-channel-download-and-test-the-latest-desktop = Telechargiar e testar las pli novas funcziuns per { -brand-name-firefox } desktop cun las versiuns { -brand-name-developer-edition }, { -brand-name-beta } e { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

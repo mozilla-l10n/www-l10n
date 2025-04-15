@@ -10,7 +10,6 @@ newsletter-form-im-okay-with-mozilla = Accepti que { -brand-name-mozilla } utili
 newsletter-form-if-you-havent-previously = S'avètz pas jamai confirmat èsser marcat a una letra d'informacion ligada a { -brand-name-mozilla } benlèu que vos cal far aquò. Mercés de verificar vòstra messatjariá o vòstre repertòri de corrièls indesirables.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Vos
 newsletter-form-get-firefox-tips = Recebre las actualitats, astúcias e mai de { -brand-name-firefox }
-newsletter-form-keep-up-with = Tenètz-vos al fial<br> de l'actualitat de { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Las nòvas de { -brand-name-mozilla }
 newsletter-form-available-languages = Lengas disponiblas
 newsletter-form-select-country = Seleccionatz vòstre país

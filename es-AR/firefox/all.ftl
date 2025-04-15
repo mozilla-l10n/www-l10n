@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = Descargá { -brand-name-firefox } en inglés (US) y en más de 90 otros idiomas
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Todos merecen acceso a Internet: tu idioma nunca debe ser una barrera. Por eso, con la ayuda de voluntarios dedicados de todo el mundo, hacemos que { -brand-name-firefox } esté disponible en más de 90 idiomas.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = Escaneá el código QR para conseguir <em>{ $product_name }</em>
 firefox-all-choose-browser = Seleccioná un navegador para continuar
 firefox-all-choose-platform = Seleccioná una plataforma para continuar
 firefox-all-choose-language = Seleccioná un idioma para continuar
@@ -69,14 +66,7 @@ firefox-all-product-send-link = Enviar un enlace de descarga a tu teléfono.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Elegí un instalador de 32 -bit para computadoras con procesadores de 32 -bit o para computadoras más antiguas o menos potentes. <a href="{ $url }">Si no estás seguro </a> de elegir un instalador de 64 -bit o de 32 -bit, te recomendamos que elijas el de 32 -bit.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Descargá { $product_label } para { $platform } en { $locale }
 firefox-all-msi-installers = Instaladores MSI
-firefox-all-which-version = ¿Qué versión querés?
-firefox-all-select-your-preferred-installer = Elegí tu instalador favorito
 firefox-all-select-your-preferred-language = Elegí tu idioma favorito
 firefox-all-learn-about-installers = Conocé sobre los instaladores
 firefox-all-product-firefox = { -brand-name-firefox }

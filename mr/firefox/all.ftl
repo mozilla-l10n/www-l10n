@@ -27,14 +27,7 @@ firefox-all-windows-installers-for = कॉर्पोरेट IT साठी
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32-बिट प्रोसेसर असणाऱ्या संगणकांसाठी 32-बिट आवृत्ती निवडा — जुन्या किंवा कमकुवत संगणकांसाठी. जर आपल्याला 64-बिट कि 32-बिट निवडायचे हे <a href="{ $url }">माहित नसेल</a> तर आम्ही 32-बिट निवडण्याची शिफारस करतो.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = { $locale } मध्ये { $platform } साठी { $product_label } डाउनलोड करा
 firefox-all-msi-installers = MSI इंस्टॉलर
-firefox-all-which-version = आपल्याला कोणती आवृत्ती आवडेल?
-firefox-all-select-your-preferred-installer = आपला पसंतीचा इन्स्टॉलर निवडा
 firefox-all-select-your-preferred-language = आपली पसंतीची भाषा निवडा
 firefox-all-learn-about-installers = इंस्टॉलर बद्दल जाणून घ्या
 firefox-all-product-firefox = { -brand-name-firefox }

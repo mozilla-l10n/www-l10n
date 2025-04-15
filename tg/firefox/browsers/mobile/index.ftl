@@ -15,7 +15,6 @@ browsers-mobile-go-your-own-way = Ба воситаи браузери моби�
 browsers-mobile-firefox-mobile-adapts-to-you = Версияи мобилии «{ -brand-name-firefox }» ба ниёзҳои шумо мутобиқ мешавад ва дидани ҳамаи варақаҳои кушодашудаи шумо, ҷустуҷӯҳои охирин ва сомонаҳои дӯстдоштаи шумо осонтар мекунад.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare = Муқоиса кардан
-browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Аз назар гузаронед, ки чӣ тавр браузери «{ -brand-name-firefox }» барои компютери мизи корӣ аз браузерҳои дигар фарқ мекунад.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Аз назар гузаронед, ки чӣ тавр браузери «{ -brand-name-firefox }» барои <strong>компютери мизи корӣ</strong> аз браузерҳои дигар фарқ мекунад.
 browsers-mobile-download = Боргирӣ кардан

@@ -8,8 +8,6 @@
 features-private-browsing-private-browsing-mode = Modo de navegación privada
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = Modo de navegación privada de { -brand-name-firefox }
-# HTML page description
-features-private-browsing-firefox-protects = { -brand-name-firefox } protege tu privacidad en línea y bloquea los rastreadores que te siguen por la web.
 features-private-browsing-if-you-share-a-computer = Si compartes un ordenador con otras personas o si quieres limitar la cantidad de datos que los sitios web pueden recopilar sobre ti, puedes usar el modo de navegación privada en { -brand-name-firefox }. La navegación privada borra el rastro digital que dejas cuando navegas en línea; piensa en ellas como huellas en el bosque.
 features-private-browsing-what-does-private-browsing-do = ¿Qué hace la navegación privada?
 features-private-browsing-private-browsing-mode-opens-v2 = El modo de navegación privada abre una nueva ventana del navegador. Cuando cierres la última ventana de navegación privada, se borrará tu historial de navegación y cualquier cookie de seguimiento de los sitios web que visitaste. <strong>Consejo profesional de { -brand-name-firefox }:</strong> ¡No olvides cerrar todas las ventanas de navegación privada cuando hayas terminado!

@@ -11,7 +11,6 @@ firefox-has-been = ‏{ -brand-name-firefox } היה שם כמעט מההתחל�
 what-is-a = מהו דפדפן?
 a-web-browser = דפדפן אינטרנט לוקח אותך לכל מקום ברשת, מאפשר לך לראות טקסט, תמונות וסרטונים מכל מקום בעולם.
 firefox-is-more = ‏{ -brand-name-firefox } הוא יותר מדפדפן
-get-the-privacy = קבלת הפרטיות שמגיעה לך. הגנת המעקב המתקדמת הופכת את הפרטיות לאוטומטית, בכל פעם שהדפדפן נפתח.
 choose-which-firefox = ניתן לבחור איזה { -brand-name-firefox-browser } להוריד בשפה שלך
 we-believe-everyone = אנו מאמינים שלכולם צריכה להיות גישה לאינטרנט — זו הסיבה שאנחנו הופכים את { -brand-name-firefox-browser } לזמין בלמעלה מ־90 שפות בזכות העזרה של מתנדבים ייעודיים ברחבי העולם.
 firefox-fights-for = ‏{ -brand-name-firefox } נלחם עבורך ב־{ -brand-name-windows }

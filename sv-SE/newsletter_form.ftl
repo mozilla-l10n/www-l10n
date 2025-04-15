@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = Vi skickar endast { -brand-name-f
 newsletter-form-if-you-havent-previously = Om du inte tidigare har bekräftat en prenumeration på ett { -brand-name-mozilla }-relaterat nyhetsbrev kan du behöva göra det. Vänligen kontrollera din inkorg eller ditt spamfilter efter e-post från oss.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Du
 newsletter-form-get-firefox-tips = Få { -brand-name-firefox } tips, tricks, nyheter och mer
-newsletter-form-keep-up-with = Håll dig uppdaterad med<br> de senaste nyheterna i { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Få nyheter om { -brand-name-mozilla }
 newsletter-form-available-languages = Tillgängliga språk
 newsletter-form-select-country = Välj land

@@ -6,8 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = جائزہ
-firefox-enterprise-downloads = ڈاؤن لوڈز
 firefox-enterprise-get-firefox-for-your-enterprise = اپنے انٹرپرائز کے لئے { -brand-name-firefox } حاصل کریں
 firefox-enterprise-your-data-stays-your-business = آپ کا ڈیٹا آپ کے کاروبار کو برقرار رہے گا
 firefox-enterprise-deploy-when-and-how-you-want = جب اور جیسے چاہیں تعینات کریں

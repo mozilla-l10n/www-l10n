@@ -16,7 +16,6 @@ newsletter-form-im-okay-with-mozilla = میں { -brand-name-mozilla } سے می�
 newsletter-form-if-you-havent-previously = اگر آپ نے پہلے { -brand-name-mozilla }-related نیوز لیٹر کی رکنیت کی تصدیق نھیں کی تو ھو سکتا ھے اپکو کرنی پڑے۔ براہ مہربانی اپنے آمد خانہ کی پڑتال کریں یا ھماری طرف سے ایک ای میل کو اپنے سپیم فلٹر میں۔
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span>+ آپ
 newsletter-form-get-firefox-tips = { -brand-name-firefox } کے ٹوٹکے، چالاکی، خبریں اور مزید حاصل کریں
-newsletter-form-keep-up-with = { -brand-name-firefox } کے <br>ساتھ تمام چیزوں کے ساتھ تازہ رہے۔
 newsletter-form-get-mozilla-updates = { -brand-name-mozilla } کی تازہ کاری حاصل کریں
 newsletter-form-available-languages = دستیاب زبانیں
 newsletter-form-select-country = ملک منتخب کریں

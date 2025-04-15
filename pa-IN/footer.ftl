@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = { -brand-name-mozilla } ਮੈਨੀਫਿਸਟੋ
 footer-privacy-hub = ਪਰਦੇਦਾਰੀ ਹੱਬ
 footer-privacy = ਪਰਦੇਦਾਰੀ
 footer-press = ਦੱਬੋ
 footer-mozilla-blog = { -brand-name-mozilla } ਬਲੌਗ
-footer-browser-comparison = ਬਰਾਊਜ਼ਰਾਂ ਦੀ ਤੁਲਨਾ
-footer-brand-standards = ਬਰੈਂਡ ਮਿਆਰ
-footer-browsers = ਬਰਾਊਜ਼ਰ
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = ਡਿਵੈਲਪਰ
 footer-developer-edition = { -brand-name-developer-edition }
@@ -38,7 +34,6 @@ footer-websites-legal = ਕਨੂੰਨੀ
 footer-language = ਭਾਸ਼ਾ
 footer-go = ਜਾਓ
 footer-donate = ਦਾਨ ਦਿਓ
-footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }

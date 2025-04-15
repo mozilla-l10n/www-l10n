@@ -6,6 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/whatsnew/
 
 whatsnew-s2d-download-firefox-for-android = { -brand-name-firefox }i allalaadimine { -brand-name-android }ile ja { -brand-name-ios }-ile
-# Line break is for visual formatting only
-whatsnew-s2d-send-firefox-to-your-phone = Saada { -brand-name-firefox } telefoni<br> ning päästa internet valla.
 whatsnew-s2d-download-firefox-for-your = Laadi { -brand-name-firefox } nutitelefoni ja tahvlisse.

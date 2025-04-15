@@ -2,14 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = { -brand-name-mozilla } ማኒፌስቶ
 footer-privacy-hub = የግላዊነት ማዕከል
 footer-privacy = ግላዊነት
 footer-press = ይጫኑ
-footer-browser-comparison = የአሳሽ ንጽጽር
-footer-brand-standards = የምርት ስም ደረጃዎች
-footer-browsers = አሳሾች
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = አበልጻጊዎች
 footer-developer-edition = { -brand-name-developer-edition }
@@ -37,7 +33,6 @@ footer-websites-legal = ሕግ ነክ
 footer-language = ቋንቋ
 footer-go = ሂድ
 footer-donate = ይለግሱ
-footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }

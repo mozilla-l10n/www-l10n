@@ -8,25 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = ເອົາ { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = ເຂົ້າຮ່ວມບັນຊີລາຍຊື່ລໍຖ້າ
-vpn-shared-available-countries-v6 = ໃນປັດຈຸບັນພວກເຮົາສະເຫນີ { -brand-name-mozilla-vpn } ໃນອອສເຕີຍ, ແບນຊິກ, Bulgaria, ການາດາ, Croatia, Cyprus, ສາທາລະນະລັດເຊັກ, ເດນມາກ, Estonia, ຟິນແລນ, ຝຣັ່ງ, ເຢຍລະມັນ, ຮັງກາຣີ, ໄອແລນ, ອິຕາລີ, ລັດເວຍ, ລິທົວເນຍ, Luxembourg, ມາເລເຊຍ, Malta, ເນເທີແລນ, ນິວຊີແລນ, ໂປແລນ, ປອກຕຸຍການ, ໂຣມາເນຍ, ສິງກະໂປ, ສະໂລເວເນຍ, ສະໂລວາເກຍ, ສະເປນ, ສວີເດນ, ສະວິດເຊີແລນ, ອັງກິດ, ແລະ ສະຫະລັດ.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = ຮັບປະກັນການຄືນເງິນ 30 ວັນ
-vpn-shared-features-encrypt = ການເຂົ້າລະຫັດລະດັບອຸປະກອນ
-vpn-shared-features-bandwidth = ບໍ່ມີຂໍ້ຈໍາກັດແບນວິດ
-vpn-shared-features-activity = ບໍ່ມີການບັນທຶກການເຄື່ອນໄຫວເຄືອຂ່າຍຂອງທ່ານ
-vpn-shared-features-activity-logs = ບໍ່ມີບັນທຶກກິດຈະກໍາອອນໄລນ໌ໃນປັດຈຸບັນຫຼືເຄີຍ
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = ເຂົ້າເຖິງເຊີບເວີໃນ { $countries }+ ປະເທດ
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = ການປົກປ້ອງສູງສຸດ { $devices } ອຸປະກອນ
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = ເຊີບເວີທີ່ເຂັ້ມແຂງໃນ { $countries }+ ປະເທດ
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = ເຊື່ອມຕໍ່ໄດ້ເຖິງ { $devices } ອຸປະກອນ
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = ຮັບປະກັນການຄືນເງິນ 30 ວັນ
 vpn-shared-privacy-notice = ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ
@@ -62,12 +45,9 @@ vpn-shared-pricing-total-plus-tax = { $amount } ທັງໝົດ + ອາກ�
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = ມາເລີ່ມກັນເທາະ
 vpn-shared-platform-cta-button = ເບິ່ງລາຄາ & ສິ່ງທີ່ມີ
-vpn-shared-platform-privacy-promise = ຄວາມເປັນສ່ວນຕົວຂອງທ່ານແມ່ນສັນຍາຂອງພວກເຮົາ
 vpn-shared-platform-what-is = { -brand-name-mozilla-vpn } ແມ່ນຫຍັງ?
 vpn-shared-platfrom-why-choose = ເປັນຫຍັງ { -brand-name-mozilla-vpn }?
-vpn-shared-platform-what-youll-get = ສິ່ງທີ່ທ່ານຈະໄດ້ຮັບກັບ { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = ຮຽນຮູ້ກ່ຽວກັບ VPNs

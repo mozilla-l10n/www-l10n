@@ -12,7 +12,6 @@ footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Ehapykueho @{ -brand-name-mozilla }
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -27,7 +26,6 @@ footer-refresh-support = Ñepytyvõ
 footer-refresh-product-help = Apopyre ñepytyvõ
 footer-refresh-file-a-bug = Emomarandu jejavy
 footer-refresh-localize-mozilla = Emoñe’ẽasa { -brand-name-mozilla }
-footer-refresh-brand-standards = Marca reko’ypy
 footer-refresh-developers = Mboguataha
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

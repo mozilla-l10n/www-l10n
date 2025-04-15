@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Reklamalarni bloklagich yordamida asabga teguvchi reklamalarni qanday bloklash mumkin
 features-adblocker-how-to-stop-seeing-too = Koʻpab reklamalar chiqishi va kompaniyalarni sizni onlayn kuzatishini qanday toʻxtatish haqida. { -brand-name-firefox } brauzerida reklamalarni bloklash haqida qoʻllanma.
 features-adblocker-the-ad-blocker-a-secret = Reklamalarni bloklagich – asabga teguvchi reklamalarni qarshi maxfiy qurol.
 features-adblocker-so-many-ads-so-little = Qancha koʻp reklama chiqsa, shuncha asabga tegadi… Bu ahmoqgarchilikni toʻxtatish vaqti keldi.

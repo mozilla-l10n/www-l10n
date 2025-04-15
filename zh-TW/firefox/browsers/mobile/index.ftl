@@ -14,13 +14,11 @@ browsers-mobile-infinitely-customizable-private = 可自訂程度極高，有隱
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } for { -brand-name-ios }
 browsers-mobile-go-your-own-way = 使用有您的風格的 { -brand-name-firefox } 行動版
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } 行動版會自動符合您的需求，讓您更簡單就能看到所有開啟的分頁、過去搜尋紀錄與最愛網站。
-browsers-mobile-the-more-you-use = 您用得越多它就會越聰明。{ -brand-name-firefox } 會自動調整主畫面，讓您更輕鬆就能從上次結束瀏覽的地方繼續。
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = 獲得加強型追蹤保護功能，讓 { -brand-name-firefox } 成為您 { -brand-name-iphone } 與 { -brand-name-ipad } 預設、永久使用的瀏覽器。
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = 正在尋找一套精簡、速度超快，又有隱私保護功能的行動瀏覽器嗎？{ -brand-name-firefox-focus } 會自動清除您瀏覽過程中的所有瀏覽紀錄。
 browsers-mobile-compare = 比較
-browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = 看看 { -brand-name-firefox } 桌面版與其他瀏覽器有什麼不同。
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = 看看 { -brand-name-firefox } <strong>桌面版</strong>與其他瀏覽器有什麼不同。
 browsers-mobile-download = 下載

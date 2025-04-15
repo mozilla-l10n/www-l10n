@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Preba las nuevas funcionalidatz en u
 firefox-channel-download-and-test-future = Descarga y preba los versions futuras de { -brand-name-firefox } pa l'ordinador, { -brand-name-android } y { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Experimenta las funcionalidatz punteras en un navegador pre-lanzamiento pa { -brand-name-android }: { -brand-name-firefox-beta } y { -brand-name-firefox-nightly }. Instala-los agora!
 firefox-channel-experience-cutting-edge-android = Experimenta las funcionalidatz punteras en un navegador pre-lanzamiento pa { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } y { -brand-name-firefox-nightly }. Instala-las agora!
-firefox-channel-download-and-test-the-latest-android = Descarga y preba las zagueras funcionalidatz d'o { -brand-name-firefox } pa { -brand-name-android } con as versions { -brand-name-aurora }, { -brand-name-beta } y { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Preba las zagueras funcionalidatz d'{ -brand-name-android }, antes d'o lanzamiento enta la resta d'o mundo.
 firefox-channel-all-languages-and-platforms = Totz los idiomas y plataformas
 firefox-channel-all-languages-and-builds = Totz los idiomas y versions
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = La versión { -brand-name-nightly } ye una plataforma instable de prebas y desenvolvimiento. Per defecto, los datos se ninviarán a { -brand-name-mozilla } (y bella vez tamién ta los nuestros socios) pa aduyar-nos a tractar problemas y prebar ideyas. <a href="{ $link }">Veyer qué información se replegará</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } ninvia automaticament información a { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Preba las nuevas funcionalidatz de navegaodr con as versions pre-lanzamiento | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Experimenta las funcionalidatz punteras d'o navegador en as version pre-lanzamiento: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } y { -brand-name-firefox-nightly }. Descarga-las agora!
 firefox-channel-download-and-test-the-latest-desktop = Descarga y preba las zagueras funcionalidatz d'o { -brand-name-firefox } de sobremesa con las versions { -brand-name-developer-edition }, { -brand-name-beta } y { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

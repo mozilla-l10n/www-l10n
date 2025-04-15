@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = <strong>Ehai ne ñanduti veve</strong> eikekuaa h
 fxa-form-by-proceeding = Eku’ejeývo, emoneĩma umi <a href="{ $url1 }">Mba’epytyvõrã ñemboguata</a> y <a href="{ $url2 }">Temiñemi porureko</a>.
 fxa-form-email-address = Ñanduti veve kundaharape
 fxa-form-continue = Eku’ejey
-fxa-form-create-account = Emoheñói mba’ete
-fxa-form-get-the-app = Egueru tembiporu’i

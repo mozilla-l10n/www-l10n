@@ -5,16 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
-# page title
-features-fingerprinting-what-is-fingerprinting-title = ¿Qué son los detectores de huellas digitales (fingerprinting) y por qué deberías bloquearos?
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = La creación de huellas digitales (fingerprinting) es un tipo de rastreo en línea que es más invasivo que el rastreo habitual basado en cookies; por eso, { -brand-name-firefox-browser } lo bloquea.
 features-fingerprinting-fingerprint-blocking = Bloqueo de huellas dactilares
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } bloquea el rastreo de huellas digitales
-features-fingerprinting-ditch-the-sticky = Deshazte de los anuncios que te persiguen con los bloqueadores de huellas digitales integrados en el navegador { -brand-name-firefox }.
-# description for the header image
-features-fingerprinting-every-fingerprint = Cada huella digital es única.
-features-fingerprinting-download-firefox = Descargar { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = ¿Qué es la creación de huellas digitales (fingerprinting)?
 features-fingerprinting-fingerprinting-is-a = La creación de huellas digitales (fingerprinting) es un tipo de seguimiento en línea que es más invasivo que el seguimiento ordinario basado en cookies. Una huella digital se crea cuando una empresa crea un perfil único de ti en función del hardware, software, complementos e incluso preferencias de tu computadora. Tu configuración, como la pantalla que usas, las fuentes instaladas en tu computadora e incluso tu elección de un navegador web, pueden usarse para crear una huella digital.
 features-fingerprinting-if-you-have = Si tienes una laptop, PC o smartphone de uso común, puede que sea más difícil identificar de manera única tu dispositivo mediante la creación de huellas digitales. Sin embargo, cuanto más únicos sean los complementos, las fuentes y los ajustes que tengas, más fácil será identificarte. Las empresas pueden utilizar esta combinación única de información para crear tu huella digital. Es por eso que { -brand-name-firefox } bloquea los creadores de huellas digitales conocidos, para que puedas usar tus extensiones, temas y personalización favoritos sin que te persiga la publicidad.
@@ -35,4 +29,3 @@ features-fingerprinting-the-latest-firefox = El último navegador { -brand-name-
 features-fingerprinting-and-its-not = Y no es un ajuste escondido en las profundidades que tengas que buscar. En el último navegador { -brand-name-firefox }, el bloqueo de huellas digitales es la configuración estándar y predeterminada. Visita tu <a { $url_protections }>panel de protección de privacidad</a> para ver cómo te están rastreando entre bambalinas y cómo { -brand-name-firefox } lo impide.
 # $url_download (string) - link to firefox/new
 features-fingerprinting-you-probably-wouldnt = Probablemente no te gustaría que alguien rastree tus movimientos en la vida real. No hay razón para aceptarlo en línea. Si todavía no tienes { -brand-name-firefox }, <a { $url_download }>descárgalo y protégete</a> de las huellas digitales (fingerprinting).
-features-fingerprinting-protect = Protege tu privacidad

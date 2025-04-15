@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = { -brand-name-mozilla }-ს დებულებები
 footer-privacy-hub = პირადულობის ცენტრი
 footer-privacy = პირადულობა
 footer-press = პრესა
 footer-mozilla-blog = { -brand-name-mozilla } სვეტი
-footer-browser-comparison = ბრაუზერების შედარება
-footer-brand-standards = სავაჭრო ნიშნები
-footer-browsers = ბრაუზერები
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = შემმუშავებლები
 footer-developer-edition = { -brand-name-developer-edition }
@@ -38,7 +34,6 @@ footer-websites-legal = სამართლებრივი საკით�
 footer-language = ენა
 footer-go = წინ
 footer-donate = შემოწირულობა
-footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }

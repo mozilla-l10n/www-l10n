@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = 如何使用广告拦截器屏蔽恼人的广告
 features-adblocker-how-to-stop-seeing-too = 来自 { -brand-name-firefox } 网页浏览器的广告屏蔽指南，如何减少看到广告的数量，并阻止各个公司在网络上跟踪您。
 features-adblocker-the-ad-blocker-a-secret = 广告拦截器 ，对付恼人广告的秘密武器。
 features-adblocker-so-many-ads-so-little = 广告太多了，我的耐心是有限的……是时候干掉这些广告了。

@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = Sæktu { -brand-name-firefox } á ensku (US) og meira en 90 öðrum tungumálum
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Allir eiga skilið aðgang að internetinu - tungumálið þitt ætti aldrei að vera hindrun. Þess vegna – með hjálp sjálfboðaliða um allan heim – gerum við { -brand-name-firefox } aðgengilegt á meira en 90 tungumálum.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = Skannaðu QR-kóða til að ná í <em>{ $product_name }</em>
 firefox-all-choose-browser = Veldu vafra til að halda áfram
 firefox-all-choose-platform = Veldu stýrikerfi til að halda áfram
 firefox-all-choose-language = Veldu tungumál til að halda áfram
@@ -69,14 +66,7 @@ firefox-all-product-send-link = Sendu niðurhalstengil í símann þinn.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Veldu 32-bita uppsetningarforrit fyrir tölvur með 32-bita örgjörva - eða fyrir eldri eða minna öflugar tölvur. <a href="{ $url }">Ef þú ert ekki viss</a> hvort þú eigir að velja 64-bita eða 32-bita uppsetningarforrit mælum við með að þú takir 32-bita.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Sæktu { $product_label } fyrir { $platform } á { $locale }
 firefox-all-msi-installers = MSI-uppsetningarforrit
-firefox-all-which-version = Hvaða útgáfu myndir þú vilja?
-firefox-all-select-your-preferred-installer = Veldu uppsetningarforritið sem þú kýst.
 firefox-all-select-your-preferred-language = Veldu tungumálið sem þú kýst.
 firefox-all-learn-about-installers = Lærðu um uppsetningarforrit
 firefox-all-product-firefox = { -brand-name-firefox }

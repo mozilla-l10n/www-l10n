@@ -6,11 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/whatsnew/
 
 whatsnew-s2d-download-firefox-for-android = Prenesite { -brand-name-firefox } za { -brand-name-android } in { -brand-name-ios }
-whatsnew-s2d-want-privacy-on-every-device = Želite zasebnost na vsaki napravi?
-# "You got it" here is a casual answer to the previous question, "Want privacy on every device?"
-whatsnew-s2d-you-got-it-get-firefox-for = Z lahkoto! Prenesite { -brand-name-firefox } za mobilne naprave.
-# Line break is for visual formatting only
-whatsnew-s2d-send-firefox-to-your-phone = Pošljite si { -brand-name-firefox } na telefon<br> in spustite internet z verige.
 whatsnew-s2d-download-firefox-for-your = Prenesite { -brand-name-firefox } za svoj telefon in tablico.
 # An accessible label for a QR code image
 whatsnew-s2d-qr-code-alt = Skenirajte to QR-kodo

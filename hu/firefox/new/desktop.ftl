@@ -29,23 +29,6 @@ firefox-desktop-download-browser-support = { -brand-name-firefox-browser } támo
 firefox-desktop-download-do-what-you-do-v2 = Tegye, amit tesz online.<br> A { -brand-name-firefox-browser } <strong>Ön mellett áll</strong>.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Tegye, amit tesz online.<br> A { -brand-name-firefox-browser } <strong>nem</strong> figyeli.
-firefox-desktop-download-how-firefox-compares = Hogy áll a { -brand-name-firefox } a többi böngészőhöz képest
-firefox-desktop-download-get-all-the-speed = Használja ki a sebességet és az eszközöket, anélkül hogy engedne az adatvédelemből. A { -brand-name-firefox-browser } olyan kevés adatot gyűjt Önről, hogy még az e-mail címét sem kérjük el a letöltéshez. Ennek az az oka, hogy más cégekkel ellentétben nincs pénzügyi okunk arra, hogy kövessük Önt a weben.
-firefox-desktop-download-how-we-compare = Hogyan állunk más böngészőkkel szemben
-firefox-desktop-download-compare-firefox-to = A { -brand-name-firefox } összehasonlítása:
-firefox-desktop-download-compare-chrome = a { -brand-name-chrome }-mal
-firefox-desktop-download-compare-edge = az { -brand-name-edge }-dzsel
-firefox-desktop-download-compare-safari = a { -brand-name-safari }val
-firefox-desktop-download-yes = Igen
-firefox-desktop-download-no = Nem
-firefox-desktop-download-blocks-third-party = Harmadik féltől származó követő sütik blokkolása
-firefox-desktop-download-blocks-third-party-default = Alapértelmezetten blokkolja a harmadik féltől származó követő sütiket
-firefox-desktop-download-autoplay-blocking = Automatikus lejátszás blokkolása
-firefox-desktop-download-blocks-social-trackers = Közösségi oldalak követőinek blokkolása
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = Elérhetőség különböző operációs rendszereken
-firefox-desktop-download-in-browser-screenshot = Böngészőn belüli képernyőkép eszköz
-firefox-desktop-download-primary-password = Elsődleges jelszó
 firefox-desktop-download-we-block-the-ad = Blokkoljuk a hirdetéskövetőket. Gyorsabban fedezheti fel az internetet.
 firefox-desktop-download-ads-are-distracting = A reklámok elvonják a figyelmet, és lassabbá teszik a weboldalak betöltését, miközben a nyomkövetőik minden online mozdulatát követik. A { -brand-name-firefox-browser } automatikusan blokkolja a legtöbb követőt, így nem kell beleásnia magát a biztonsági beállításokba.
 firefox-desktop-download-see-your-report = Nézze meg a védelmi jelentését
@@ -149,7 +132,6 @@ firefox-desktop-download-firefox-automatically = A { -brand-name-firefox } autom
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Kérdései vannak? A <a { $attrs }>{ -brand-name-mozilla } támogatás</a> a rendelkezésére áll.
-firefox-desktop-download-watch-for-hackers-with-v3 = Figyeljen a hackerekre a { -brand-name-mozilla-monitor }ral, védje meg az e-mail-címét a { -brand-name-firefox-relay } segítségével, és így tovább.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -172,18 +154,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = Ha megjelenik egy olyan üzenet, hogy a telepítendő alkalmazás nem egy { -brand-name-microsoft } által ellenőrzött alkalmazás, akkor kattintson a „Telepítés mindenképpen” lehetőségre, vagy <a { $attrs }>módosítsa az alkalmazásajánlási beállításokat</a>.
 firefox-desktop-download-visit-support-for-more = További részletekért látogasson el a Támogatás oldalra
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = A { -brand-name-mozilla } <a href="{ $url }">már nem biztosít biztonsági frissítéseket</a> { -brand-name-windows } { -brand-name-xp } vagy { -brand-name-vista } operációs rendszerre, de továbbra is használhatja a { -brand-name-firefox(case: "accusative") }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = A letöltés automatikusan elindul. Nem működött? <a id="{ $id }" href="{ $fallback_url }">Próbálja újra letölteni</a>.
 firefox-new-firefox-is-more-than-a-browser = A { -brand-name-firefox } több, mint egy böngésző.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = A letöltése megszakadt. De nincs minden veszve.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = A { -brand-name-firefox } telepítéséhez kövesse <a href="{ $url }">ezeket az utasításokat</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Rendszere nem biztos, hogy teljesíti a { -brand-name-firefox } követelményeit, de kipróbálhatja <a href="{ $url }">ezen verziók</a> egyikét.

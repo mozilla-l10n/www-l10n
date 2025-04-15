@@ -10,7 +10,6 @@ newsletter-form-im-okay-with-mozilla = હું { -brand-name-mozilla } મા�
 newsletter-form-if-you-havent-previously = જો તમે પહેલાં { -brand-name-mozilla } સંબંધિત ન્યૂઝલેટર માટે ઉમેદવારી પુષ્ટિ ન હોય તો તમે આવું કરવા માટે હોઈ શકે છે. તમારા ઇનબૉક્સમાં અથવા અમારી પાસેથી ઇમેઇલ માટે તમારા સ્પામ ફિલ્ટર તપાસો.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + તમે
 newsletter-form-get-firefox-tips = { -brand-name-firefox } ટીપ્સ, યુક્તિઓ, સમાચાર અને વધુ મેળવો
-newsletter-form-keep-up-with = સાથે રાખવા <br> બધી વસ્તુઓ { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = { -brand-name-mozilla } સુધારાઓ મેળવો
 newsletter-form-available-languages = ઉપલબ્ધ ભાષાઓ
 newsletter-form-select-country = દેશ પસંદ કરો

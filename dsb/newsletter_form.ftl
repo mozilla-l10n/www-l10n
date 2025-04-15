@@ -21,7 +21,6 @@ newsletter-form-im-okay-with-mozilla = Som z tym wobjadny, kak { -brand-name-moz
 newsletter-form-if-you-havent-previously = Jolic hyšći njejsćo abonement powěsćowego lista { -brand-name-mozilla } wobkšuśił, musyśo to něnto cyniś. Pšosym glědajśo do dochada posta abo papjernika za mejlku wót nas.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Wy
 newsletter-form-get-firefox-tips = Wobstarajśo se tipy, triki, nowosći a wěcej za { -brand-name-firefox }
-newsletter-form-keep-up-with = Wóstańśo wó<br> wšych wěcach { -brand-name-firefox } na běžnem.
 newsletter-form-get-mozilla-updates = Aktualizacije { -brand-name-mozilla } se wobstaraś
 newsletter-form-available-languages = K dispoziciji stojece rěcy
 newsletter-form-select-country = Wubjeŕśo kraj

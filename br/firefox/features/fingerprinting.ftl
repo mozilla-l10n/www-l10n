@@ -5,4 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
-features-fingerprinting-download-firefox = Pellgargañ { -brand-name-firefox }

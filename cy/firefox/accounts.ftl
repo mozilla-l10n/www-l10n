@@ -26,7 +26,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Cadw a chydweddu cyfrin
 firefox-accounts-get-email-alerts = Derbyn rhybuddion e-bost pan fydd eich manylion yn ymddangos mewn achos hysbys o dor-data
 firefox-accounts-protect-your-identity = Diogelwch eich hunaniaeth trwy guddio rhif ffôn ac e-bost diogel
 firefox-accounts-keep-your-passwords = Cadwch eich cyfrineiriau wedi'u diogelu ac yn gludadwy.
-firefox-accounts-get-a-lookout-for = Cadw llygad allan am dor-data.
 firefox-accounts-travel-the-internet = Teithiwch y rhyngrwyd gyda diogelwch, ar bob dyfais.
 firefox-accounts-encrypt-your = Amgryptiwch eich gweithgaredd rhwydwaith a chuddio'ch cyfeiriad IP
 firefox-accounts-we-never = Fyddwn ni byth yn cofnodi, tracio na rhannu eich data rhwydwaith
@@ -38,6 +37,5 @@ firefox-accounts-get-it-all-on-every = Ar gael ar bob dyfais, heb deimlo'n gaeth
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Browser web gratuit
-new-platform-download-firefox = Descarcă { -brand-name-firefox }
 new-platform-download-the-fastest = Descarcă cel mai rapid { -brand-name-firefox } care a existat vreodată
 new-platform-faster-page-loading = Încărcare mai rapidă a paginilor, mai puțină memorie utilizată și prevăzut cu funcții, noul { -brand-name-firefox } este aici.
 new-platform-2x-faster = De 2x mai rapid
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Descarcă { -brand-name-mozilla } { -
 new-platform-download-the-fastest-linux = Descarcă cel mai rapid { -brand-name-firefox } pentru { -brand-name-linux } care a existat vreodată
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Încărcare mai rapidă a paginilor, mai puțină memorie utilizată și prevăzut cu funcții, noul { -brand-name-firefox } pentru { -brand-name-linux } este aici.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } pentru { -brand-name-linux }
 new-platform-privacy-more-than = Confidențialitatea - mai mult decât o politică
 new-platform-your-life-your-business = Viața ta, treaba ta. { -brand-name-firefox } blochează pe { -brand-name-linux } cookie-urile de urmărire ale terților.
 new-platform-speed-meet-security = Viteza își dă mâna cu securitatea. { -brand-name-firefox } este de două ori mai rapid, la un consum de memorie cu 30% decât { -brand-name-chrome }.

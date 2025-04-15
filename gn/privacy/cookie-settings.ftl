@@ -33,10 +33,6 @@ cookie-settings-category-analytics-heading = Hesa’ỹijopýva
 cookie-settings-category-analytics-what-are-subheading = Mba’épa kookie ñehesa’ỹijoha rehegua
 cookie-settings-category-analytics-what-are-desc = Ko’ã tembiporupyahu ombyaty marandu mba’éichapa tapichakuéra oiporu ñanduti rogue, kuatiarogue oikehague, juajuhakuéra oiporúva ha mavaite ñanduti roguégui ojeikera’e.
 
-## Consent section
-
-cookie-settings-your-consent-heading = Nde emoneĩ
-
 ## Privacy section
 
 cookie-settings-privacy-heading = Ore marandu ñemi rehegua

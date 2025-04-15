@@ -27,7 +27,6 @@ firefox-all-download-esr-version = { $esr_version } ഇറക്കിവയ്�
 firefox-all-release-notes = വെളിപ്പെടുത്തല്കുറിപ്പുകൾ
 firefox-all-source-code = ഉറവിടസങ്കേതം
 firefox-all-need-help = തുണ വേണോ?
-firefox-all-which-version = താങ്ങൾക്കു് ഏതു് പതിപ്പു് വേണം?
 firefox-all-select-your-preferred-language = ഇഷ്ഠപെട്ട ഭാഷ തിരഞ്ഞെടുക്കുക
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }

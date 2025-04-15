@@ -9,6 +9,5 @@
 get-ios-firefox-for-ios = { -brand-name-ios } için { -brand-name-firefox-browser }
 # HTML page description
 get-ios-firefox-is-fast = { -brand-name-ios } için { -brand-name-firefox } hızlı, güvenli ve ilk andan itibaren gizliliğiniz koruyor.
-get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = { -brand-name-ios } için { -brand-name-firefox }’u indirin
 get-ios-firefox-mobile-adapts = { -brand-name-firefox } mobil size uyum sağlıyor ve açık sekmelerinizi, geçmiş aramalarınızı ve sık kullandığınız siteleri görmenizi daha da kolaylaştırıyor.

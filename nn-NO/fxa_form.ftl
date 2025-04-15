@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = <strong>Skriv inn e-postadressa di</strong> for �
 fxa-form-by-proceeding = Ved å halde fram godtek du <a href="{ $url1 }">tenestevilkåra</a> og <a href="{ $url2 }">personvernpraksisen</a>.
 fxa-form-email-address = E-postadresse
 fxa-form-continue = Hald fram
-fxa-form-create-account = Lag konto
-fxa-form-get-the-app = Last ned appen

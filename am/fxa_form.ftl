@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = በመቀጠል፣ በ<a href="{ $url1 }">የአገልግሎት ውል</a> እና <a href="{ $url2 }">የግላዊነት ማስታወቂያ</a> ተስማምተዋል።
 fxa-form-email-address = የኢሜል አድራሻ
 fxa-form-continue = ቀጥል
-fxa-form-create-account = መለያ ይፍጠሩ
-fxa-form-get-the-app = መተግበሪያውን ያግኙ

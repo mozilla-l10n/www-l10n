@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = 試用測試版 { -brand-name-androi
 firefox-channel-download-and-test-future = 下載測試未來版本的 { -brand-name-firefox } 桌面版、{ -brand-name-android } 及 { -brand-name-ios } 版本。
 firefox-channel-experience-cutting-edge-android-updated = 體驗測試版 { -brand-name-android } 瀏覽器當中的最新功能: 立即安裝 { -brand-name-firefox-beta } 或 { -brand-name-firefox-nightly }！
 firefox-channel-experience-cutting-edge-android = 體驗測試版 { -brand-name-android } 瀏覽器當中的最新功能: 立即安裝 { -brand-name-firefox-beta }、{ -brand-name-firefox-aurora } 或 { -brand-name-firefox-nightly }！
-firefox-channel-download-and-test-the-latest-android = 下載 { -brand-name-aurora }、{ -brand-name-beta } 或 { -brand-name-nightly } 版本測試 { -brand-name-firefox } for { -brand-name-android } 的最新功能。
 firefox-channel-try-the-latest-android-features = 在 { -brand-name-android } 版最新功能正式發行前搶先試用。
 firefox-channel-all-languages-and-platforms = 所有語言與平台
 firefox-channel-all-languages-and-builds = 所有語言與編譯版本
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = { -brand-name-nightly } 部落格
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } 版是一個不穩定的測試與開發平台。預設情況下，{ -brand-name-nightly } 版會傳送資料回 { -brand-name-mozilla }，某些時候還會傳送給我們的夥伴，以協助我們處理問題與測試新功能的點子。<a href="{ $link }">了解會回傳哪些資料</a>。
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } 會自動傳送意見回饋給 { -brand-name-mozilla }。
-firefox-channel-try-new-browser-features = 試用測試版瀏覽器當中的全新功能 | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = 體驗測試版瀏覽器當中的最新功能: 立即安裝 { -brand-name-firefox-developer-edition }、{ -brand-name-firefox-beta } 或 { -brand-name-firefox-nightly }！
 firefox-channel-download-and-test-the-latest-desktop = 下載 { -brand-name-developer-edition }、{ -brand-name-beta } 或 { -brand-name-nightly } 版本測試 { -brand-name-firefox } 桌面版的最新功能。
 firefox-channel-beta = { -brand-name-beta }

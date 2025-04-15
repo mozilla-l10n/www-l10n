@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = 빠르게 출시하는 기업용 { -brand-name-esr }를 위한  { -brand-name-firefox } 받기
 firefox-enterprise-get-unmatched-data-protection = 기업용 { -brand-name-firefox }를 사용하여 자신에게 적합한 출시 주기로 탁월한 데이터 보호를 받으세요. { -brand-name-esr } 및 빠른 출시 버전을 다운로드합니다.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = 개요
-firefox-enterprise-downloads = 다운로드
 firefox-enterprise-get-firefox-for-your-enterprise = 기업용 { -brand-name-firefox } 다운로드
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

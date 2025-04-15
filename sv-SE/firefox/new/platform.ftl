@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Gratis webbläsare
-new-platform-download-firefox = Hämta { -brand-name-firefox }
 new-platform-download-the-fastest = Ladda ner den snabbaste { -brand-name-firefox } någonsin
 new-platform-faster-page-loading = Snabbare sidladdning, mindre minnesanvändning och fulländad med funktioner, den nya { -brand-name-firefox } är här.
 new-platform-2x-faster = 2x snabbare
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Ladda ner { -brand-name-mozilla } { -
 new-platform-download-the-fastest-linux = Ladda ner den snabbaste { -brand-name-firefox } för { -brand-name-linux } någonsin
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Snabbare sidladdning, mindre minnesanvändning och fulländad med funktioner, den nya { -brand-name-firefox } för { -brand-name-linux } är här.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } för { -brand-name-linux }
 new-platform-privacy-more-than = Integritet - mer än en policy
 new-platform-your-life-your-business = Ditt liv, din angelägenhet. { -brand-name-firefox } blockerar spårningskakor från tredje part på { -brand-name-linux }.
 new-platform-speed-meet-security = Hastighet, möter säkerhet. { -brand-name-firefox } är två gånger snabbare och använder 30% mindre minne än { -brand-name-chrome }.

@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Próbálja ki az új funkciókat egy
 firefox-channel-download-and-test-future = Töltse le és tesztelje a { -brand-name-firefox } asztali, { -brand-name-android } és { -brand-name-ios } változatainak jövőbeli kiadásait.
 firefox-channel-experience-cutting-edge-android-updated = Próbálja ki a legújabb funkciókat egy előzetes kiadású { -brand-name-android } böngészőben: { -brand-name-firefox-beta }, Firefox Aurora és { -brand-name-firefox-nightly }. Telepítse most!
 firefox-channel-experience-cutting-edge-android = Próbálja ki a legújabb funkciókat egy előzetes kiadású { -brand-name-android } böngészőben: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } és { -brand-name-firefox-nightly }. Telepítse most!
-firefox-channel-download-and-test-the-latest-android = Töltse le és tesztelje a legfrissebb { -brand-name-firefox } for { -brand-name-android } funkciókat az { -brand-name-aurora }, { -brand-name-beta } és { -brand-name-nightly } kiadásokkal.
 firefox-channel-try-the-latest-android-features = Próbálja ki a legújabb { -brand-name-android } funkciókat, mielőtt a világ többi része is megkapná.
 firefox-channel-all-languages-and-platforms = Minden nyelv és platform
 firefox-channel-all-languages-and-builds = Minden nyelv és kiadás
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = { -brand-name-nightly } Blog
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = A { -brand-name-nightly } egy nem stabil tesztelői és fejlesztői platform. Alapértelmezetten, a { -brand-name-nightly } adatokat küld a { -brand-name-mozilla } részére – és néha a partnereinknek is, hogy segítsen nekünk kezelni a problémákat, és hogy új ötleteket próbáljunk ki. <a href="{ $link }">Tudja meg mi kerül megosztásra</a>.
 firefox-channel-firefox-nightly-automatically = A { -brand-name-firefox-nightly } automatikus visszajelzést küld a { -brand-name-mozilla } részére.
-firefox-channel-try-new-browser-features = Próbálja ki az új böngészőfunkciókat az előzetes kiadású verziókban | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Próbálja ki a legújabb böngésző funkciókat az előzetes kiadású verziókban: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } és { -brand-name-firefox-nightly }. Töltse le most!
 firefox-channel-download-and-test-the-latest-desktop = Töltse le és tesztelje a legfrissebb asztali { -brand-name-firefox } funkciókat a { -brand-name-developer-edition }, { -brand-name-beta } és { -brand-name-nightly } kiadásokkal.
 firefox-channel-beta = { -brand-name-beta }

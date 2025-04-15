@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = آزاد ویب براؤزر
-new-platform-download-firefox = { -brand-name-firefox } ڈائونلوڈ کریں
 new-platform-download-the-fastest = تیز ترین { -brand-name-firefox } ڈاؤن لوڈ کریں
 new-platform-2x-faster = 2 گنا تیز
 new-platform-advanced-install-options = اعلی درجے کی انسٹال کے اختیارات اور دوسرے پلیٹ فارم
@@ -21,8 +20,6 @@ new-platform-need-help = مدد چاہیے؟
 new-platform-download-mozilla-linux = { -brand-name-mozilla } { -brand-name-firefox }برائے { -brand-name-linux } ڈائونلوڈ کریں
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = { -brand-name-linux } کے لئے تیز ترین { -brand-name-firefox } ڈاؤن لوڈ کریں
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } برائے { -brand-name-linux }
 new-platform-privacy-more-than = رازداری-کسی پالیسی سے کہی  زیادہ
 new-platform-open-source = کھلا ماخز
 

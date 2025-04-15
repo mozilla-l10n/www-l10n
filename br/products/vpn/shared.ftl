@@ -32,7 +32,6 @@ vpn-shared-pricing-total-plus-tax = { $amount } en holl + tailh
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = Krogomp ganti
 vpn-shared-platform-what-is = Petra eo { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Perak { -brand-name-mozilla-vpn }?
 # Subnav strings

@@ -26,7 +26,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Lưu và đồng bộ h
 firefox-accounts-get-email-alerts = Nhận thông báo qua email khi thông tin của bạn xuất hiện trong vụ rò rỉ dữ liệu đã biết
 firefox-accounts-protect-your-identity = Bảo vệ danh tính của bạn bằng điện thoại và email ẩn danh an toàn
 firefox-accounts-keep-your-passwords = Giữ mật khẩu của bạn được bảo vệ và di động.
-firefox-accounts-get-a-lookout-for = Cảnh giác với các rò rỉ dữ liệu.
 firefox-accounts-travel-the-internet = Du lịch trên internet với bảo vệ, trên mọi thiết bị.
 firefox-accounts-encrypt-your = Mã hóa hoạt động mạng và ẩn địa chỉ IP của bạn
 firefox-accounts-we-never = Chúng tôi không bao giờ đăng nhập, theo dõi hoặc chia sẻ dữ liệu mạng của bạn
@@ -38,6 +37,5 @@ firefox-accounts-get-it-all-on-every = Nhận tất cả trên mọi thiết b�
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

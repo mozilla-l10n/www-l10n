@@ -26,7 +26,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Parolaları kaydedip e�
 firefox-accounts-get-email-alerts = Bilgileriniz yeni bir veri ihlalinde yer alırsa e-posta uyarıları alın
 firefox-accounts-protect-your-identity = Güvenli telefon ve e-posta maskeleme ile kimliğinizi koruyun
 firefox-accounts-keep-your-passwords = Parolalarınızı güvenle yanınızda taşıyın.
-firefox-accounts-get-a-lookout-for = Veri hırsızlıklarından haberin olsun.
 firefox-accounts-travel-the-internet = İnternette gezinirken her cihazda üstün koruma.
 firefox-accounts-encrypt-your = Ağ etkinliğinizi şifreleyin ve IP adresinizi gizleyin
 firefox-accounts-we-never = Ağ trafiğinizi asla kaydetmiyor, izlemiyor ve paylaşmıyoruz
@@ -38,6 +37,5 @@ firefox-accounts-get-it-all-on-every = Tek bir işletim sistemine takılıp kalm
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Probearje nije funksjes yn in pre-re
 firefox-channel-download-and-test-future = Download en test takomstige ferzjes fan { -brand-name-firefox } foar desktop, { -brand-name-android } en { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Underfyn grinsferlizzende funksjes yn in pre-release-browser foar { -brand-name-android }: { -brand-name-firefox-beta } en { -brand-name-firefox-nightly }. Ynstallearje it no!
 firefox-channel-experience-cutting-edge-android = Underfyn grinsferlizzende funksjes yn in pre-release-browser foar { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } en { -brand-name-firefox-nightly }. Ynstallearje it no!
-firefox-channel-download-and-test-the-latest-android = Download en test de nijste funksjes yn { -brand-name-firefox } foar { -brand-name-android } mei { -brand-name-aurora }-, { -brand-name-beta }- en { -brand-name-nightly }-builds.
 firefox-channel-try-the-latest-android-features = Probearje de nijste { -brand-name-android }-funksjes eardat se foar de rest fan de wrâld frijjûn wurde.
 firefox-channel-all-languages-and-platforms = Alle talen en platfoarms
 firefox-channel-all-languages-and-builds = Alle talen en builds
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = { -brand-name-nightly }-blog
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } is in net-stabyl test- en ûntwikkelplatfoarm. Standert ferstjoert { -brand-name-nightly } gegevens nei { -brand-name-mozilla } – en somtiden ús partners – om ús te helpen by it oanpakken fan problemen en it probearjen fan ideeën. <a href="{ $link }">Lês wat der dield wurdt</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } ferstjoert automatysk feedback nei { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Probearje nije browserfunksjes yn pre-release-ferzjes | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Underfyn grinsferlizzende browserfunksjes yn pre-release-ferzjes: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } en { -brand-name-firefox-nightly }. Ynstallearje it no!
 firefox-channel-download-and-test-the-latest-desktop = Download en test de nijste funksjes fan { -brand-name-firefox } foar desktop mei { -brand-name-developer-edition }-, { -brand-name-beta }- en { -brand-name-nightly }-builds.
 firefox-channel-beta = { -brand-name-beta }

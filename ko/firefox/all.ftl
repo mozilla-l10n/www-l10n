@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = 영어(미국) 및 기타 90개 이상의 언어로 { -brand-name-firefox }를 다운로드하세요.
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = 모든 사람이 인터넷에 접속할 자격이 있습니다. 언어가 장벽이 되어서는 안 됩니다. 그래서 전 세계의 헌신적인 자원봉사자들의 도움으로 { -brand-name-firefox }를 90개 이상의 언어로 제공합니다.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = QR 코드를 스캔하여 <em>{ $product_name }</em> 다운로드
 firefox-all-choose-browser = 브라우저를 선택하고 계속
 firefox-all-choose-platform = 플랫폼을 선택하고 계속
 firefox-all-choose-language = 언어를 선택하고 계속
@@ -69,14 +66,7 @@ firefox-all-product-send-link = 휴대 전화로 다운로드 링크 보내기
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32 비트 프로세서가 있는 컴퓨터 또는 일반적인 성능을 가진 컴퓨터의 경우 32 비트 설치 관리자를 선택하십시오. 64 비트 또는 32 비트 설치 프로그램을 선택할지 <a href="{ $url }">확실하지 않으시면</a>, 32 비트를 사용하는 것이 좋습니다.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = { $product_label } 다운로드 - { $locale } / { $platform }
 firefox-all-msi-installers = MSI 설치 프로그램
-firefox-all-which-version = 어떤 버전을 원하십니까?
-firefox-all-select-your-preferred-installer = 원하는 운영 체제 선택
 firefox-all-select-your-preferred-language = 원하는 언어 선택
 firefox-all-learn-about-installers = 설치 프로그램에 대해 알아보기
 firefox-all-product-firefox = { -brand-name-firefox }

@@ -15,9 +15,6 @@
 ## Analytics cookies section
 
 
-## Consent section
-
-
 ## Privacy section
 
 cookie-settings-privacy-policy-link = Upplýsingar um meðferð persónuupplýsinga

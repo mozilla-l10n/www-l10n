@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = အနှောင့်အယှက်ဖြစ်စေသည့်ကြော်ငြာများကို ကြော်ငြာပိတ်ဆို့ခြင်းသုံးပြီး ပိတ်ဆို့ပုံ
 features-adblocker-how-to-stop-seeing-too = အွန်လိုင်ပေါ်တွင် များစွာသောကြော်ငြာများကို { -brand-name-firefox }ဝဘ်ဘရောက်ဇာမှ ကြော်ငြာပိတ်ဆို့ခြင်းအညွှန်း
 features-adblocker-the-ad-blocker-a-secret = ကြော်ငြာပိတ်ဆို့ခြင်း – အနှောင့်အယှက်ဖြစ်စေသောကြော်ငြာများကိုပိတ်ဆို့သောအရာ
 features-adblocker-so-many-ads-so-little = ကြော်ငြာများစွာရှိသည် ထို့ကြောင့် သည်းခံပေးပါ … ဤအရာများကို ရပ်တန့်ရန် အချိန်ရောက်ပြီ

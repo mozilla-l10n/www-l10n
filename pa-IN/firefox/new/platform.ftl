@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = ਮੁਫ਼ਤ ਵੈੱਬ ਬਰਾਊਜ਼ਰ
-new-platform-download-firefox = { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
 new-platform-download-the-fastest = ਹੁਣ ਹੋਰ ਵੀ ਤੇਜ਼ { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
 new-platform-faster-page-loading = ਹੋਰ ਵੱਧ ਤੇਜ਼ ਸਫ਼ੇ ਲੋਡ ਕਰਨਾ, ਘੱਟ ਮੈਮੋਰੀ ਦੀ ਵਰਤੋਂ ਕਰਨਾ ਅਤੇ ਫੀਚਰਾਂ ਨਾਲ ਭਰਪੂਰ, ਨਵਾਂ { -brand-name-firefox } ਆ ਗਿਆ ਹੈ।
 new-platform-2x-faster = 2x ਵੱਧ ਤੇਜ਼
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = { -brand-name-linux } ਲਈ { -brand
 new-platform-download-the-fastest-linux = { -brand-name-linux } ਲਈ ਸਭ ਤੋਂ ਤੇਜ਼ { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = ਵੱਧ ਤੇਜ਼ ਸਫ਼ੇ ਲੋਡ ਕਰਨ ਵਾਲਾ, ਘੱਟ ਮੈਮੋਰੀ ਵਰਤਣ ਵਾਲਾ ਅਤੇ ਫੀਚਰਾਂ ਨਾਲ ਭਰਪੂਰ, { -brand-name-linux } ਲਈ ਨਵਾਂ { -brand-name-firefox } ਆ ਗਿਆ।
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-linux } ਲਈ { -brand-name-firefox }
 new-platform-privacy-more-than = ਪਰਦੇਦਾਰੀ - ਨੀਤੀ ਤੋਂ ਵੱਧ ਵੀ
 new-platform-your-life-your-business = ਤੁਹਾਡਾ ਜੀਵਨ, ਤੁਹਾਡਾ ਕੰਮ। { -brand-name-firefox }, { -brand-name-linux } ’ਤੇ ਥਰਡ-ਪਾਰਟੀ ਟਰੈਕਿੰਗ ਕੂਕੀਜ਼ ਤੇ ਰੋਕ ਲਾਉਂਦਾ ਹੈ।
 new-platform-speed-meet-security = ਤੇਜ਼ੀ ਨਾਲ ਸੁਰੱਖਿਆ। { -brand-name-firefox }, { -brand-name-chrome } ਦੇ ਮੁਕਾਬਲੇ 30% ਘੱਟ ਮੈਮੋਰੀ ਨਾਲ ਦੋ ਗੁਣਾ ਜ਼ਿਆਦਾ ਤੇਜ਼ ਹੈ।

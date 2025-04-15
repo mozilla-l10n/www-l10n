@@ -11,8 +11,6 @@ bookmark-manager-bookmark-manager = Administrador de marcadores
 bookmark-manager-organize-your-bookmarks-with = Organiza tus marcadores con carpetas y etiquetas.
 bookmark-manager-organize-your-boomarks-into = Organiza tus marcadores en carpetas con capacidad de búsqueda
 bookmark-manager-collect-your-bookmarks-in-folders = Reúna sus marcadores en carpetas y etiquételos con más detalles. También puedes ordenar tus marcadores para encontrar rápidamente los que necesitas.
-# Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-bookmark-manager = Imagen de la ventana del administrador de marcadores en { -brand-name-firefox }.
 bookmark-manager-easily-import-bookmarks = Importa marcadores fácilmente
 bookmark-manager-you-can-import-your-bookmarks = Puedes importar tus marcadores desde Chrome, Safari o Edge con el asistente de importación de { -brand-name-firefox }. Simplemente haga clic en Marcadores > Administrar marcadores y luego seleccione "Importar y hacer copia de seguridad".
 # Used as an accessible text alternative for an image

@@ -26,7 +26,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Sende og synkronisere a
 firefox-accounts-get-email-alerts = Få advarsler via mail, når dine data optræder i en kendt datalæk
 firefox-accounts-protect-your-identity = Beskytte din identitet med sikker maskering af telefonnummer og mailadresse
 firefox-accounts-keep-your-passwords = Brug sikre og bærbare adgangskoder.
-firefox-accounts-get-a-lookout-for = Få holdt øje med datalæk.
 firefox-accounts-travel-the-internet = Beskyt dig selv på nettet - på alle dine enheder.
 firefox-accounts-encrypt-your = Kryptere din netværksaktivitet og skjule din IP-adresse
 firefox-accounts-we-never = Vi logger, sporer eller deler aldrig dine netværksdata
@@ -38,6 +37,5 @@ firefox-accounts-get-it-all-on-every = Få det hele på alle dine enheder - uden
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

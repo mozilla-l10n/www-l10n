@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = U navicaturi lìbbiru e a francu
-new-platform-download-firefox = Scàrrica { -brand-name-firefox }
 new-platform-download-the-fastest = Scàrrica u { -brand-name-firefox } cchiù lestu di sempri
 new-platform-faster-page-loading = Agghicau u { -brand-name-firefox } novu: carricamentu dî pàggini cchiù lestu, cchiù picca mimoria usata e jincutu di na marina di funzioni.
 new-platform-2x-faster = 2 voti cchiù lestu
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Scàrricati { -brand-name-mozilla }{ 
 new-platform-download-the-fastest-linux = Scàrricati u { -brand-name-firefox } pi { -brand-name-linux } cchiù lestu di sempri
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Agghicau u { -brand-name-firefox } pi { -brand-name-linux } novu: carricamentu dî pàggini cchiù lestu, cchiù picca mimoria usata e jincutu di na marina di funzioni.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } pi { -brand-name-linux }
 new-platform-privacy-more-than = Privatizza - cchiù assai di na pulìtica
 new-platform-your-life-your-business = Comu campi sunnu fatti to. { -brand-name-firefox } pi { -brand-name-linux } ferma i viscotta trazzanti.
 new-platform-speed-meet-security = A listizza si junci câ sicurizza. { -brand-name-firefox } è du' voti cchiù lestu, e usa u 30% cchiù picca mimoria di { -brand-name-chrome }.

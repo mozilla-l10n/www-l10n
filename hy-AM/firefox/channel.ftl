@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Փորձեք նոր յուրահատ
 firefox-channel-download-and-test-future = Ներբեռնեք և փորձարկեք { -brand-name-firefox }-ի ապագա տարբերակները դեսքթոփի, { -brand-name-android }-ի և { -brand-name-ios }-ի համար:
 firefox-channel-experience-cutting-edge-android-updated = Փորձարկեք նորագույն յուրահատկությունները նախաթողարկվող դիտարկիչում { -brand-name-android }-ի համար. { -brand-name-firefox-beta } և { -brand-name-firefox-nightly }. Տեղադրեք հիմա:
 firefox-channel-experience-cutting-edge-android = Փորձարկեք նորագույն յուրահատկությունները նախաթողարկվող դիտարկիչում { -brand-name-android }-ի համար. { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } և { -brand-name-firefox-nightly }. Տեղադրեք հիմա:
-firefox-channel-download-and-test-the-latest-android = Ներբեռնեք և փորձարկեք { -brand-name-firefox } for { -brand-name-android }-ի ամենավերջին յուրահատկությունները { -brand-name-aurora }-ով, { -brand-name-beta }-ով և { -brand-name-nightly }-ով:
 firefox-channel-try-the-latest-android-features = Փորձեք ամենավերջին յուրահատկությունները { -brand-name-android }-ում՝ մինչև դրանց թողարկումը:
 firefox-channel-all-languages-and-platforms = Բոլոր լեզուները և հարթակները
 firefox-channel-all-languages-and-builds = Բոլոր լեզուներ և կառուցումները
@@ -28,7 +27,6 @@ firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }
 firefox-channel-check-out-new-android-features = Ծանոթացեք { -brand-name-android }-ի նոր յուրահատկություններին նախնական փուլում: Վայելեք ձեր պատասխանատվությամբ:
 firefox-channel-nightly-blog = { -brand-name-nightly }-ի բլոգը
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly }-ին ինքնաբար է ուղարկում արձագանքը { -brand-name-mozilla }-ին:
-firefox-channel-try-new-browser-features = Փորձեք դիտարկիչի նոր յուրահատկությունները նախաթողարկվող տարբերակներում | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Փորձարկեք նորագույն յուրահատկությունները դիտարկիչի նախաթողարկվող տարբերակներում. { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } և { -brand-name-firefox-nightly }. Տեղադրեք հիմա:
 firefox-channel-download-and-test-the-latest-desktop = Ներբեռնեք և փորձարկեք { -brand-name-firefox }-ի ամենավերջին յուրահատկությունները { -brand-name-developer-edition }-ով, { -brand-name-beta }-ով և { -brand-name-nightly }-ով:
 firefox-channel-beta = { -brand-name-beta }

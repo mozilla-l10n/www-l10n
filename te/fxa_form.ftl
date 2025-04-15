@@ -4,5 +4,3 @@
 
 fxa-form-email-address = ఈమెయిలు చిరునామా
 fxa-form-continue = కొనసాగించు
-fxa-form-create-account = ఖాతాను సృష్టించు
-fxa-form-get-the-app = అనువర్తనాన్ని తెచ్చుకో

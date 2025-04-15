@@ -30,10 +30,6 @@ cookie-settings-category-preference-what-are-subheading = Što su placki nastaje
 cookie-settings-category-analytics-heading = Analytika
 cookie-settings-category-analytics-what-are-subheading = Što su analyzowe placki?
 
-## Consent section
-
-cookie-settings-your-consent-heading = Waše přizwolenje
-
 ## Privacy section
 
 cookie-settings-privacy-heading = Naša zdźělenka priwatnosće

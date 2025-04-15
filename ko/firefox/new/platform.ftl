@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = 자유로운 웹 브라우저
-new-platform-download-firefox = { -brand-name-firefox } 다운로드
 new-platform-download-the-fastest = 이제까지 가장 빠른 { -brand-name-firefox } 다운로드
 new-platform-faster-page-loading = 더 빠른 페이지 로딩, 더 적은 메모리 사용량, 다양한 기능 탑재, 새로운 { -brand-name-firefox }가 여기 있습니다.
 new-platform-2x-faster = 두 배 더 빠른
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = 무료 웹 브라우저, { -brand-nam
 new-platform-download-the-fastest-linux = 이제까지 가장 빠른 { -brand-name-linux }용 { -brand-name-firefox } 다운로드
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = 더 빠른 페이지 로딩, 더 적은 메모리 사용량, 다양한 기능 탑재, 새로운 { -brand-name-linux }용 { -brand-name-firefox }가 여기 있습니다.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-linux }용 { -brand-name-firefox }
 new-platform-privacy-more-than = 사생활 - 정책 이상의 것
 new-platform-your-life-your-business = 사용자의 삶, 사용자의 일. { -brand-name-firefox }는 { -brand-name-linux }에서 제 3자 추적 쿠키를 차단합니다.
 new-platform-speed-meet-security = 속도가 보안을 만났습니다. { -brand-name-firefox }는 { -brand-name-chrome }보다 2배 빠르며 30% 적게 메모리를 사용합니다.

@@ -10,7 +10,6 @@ welcome-page1-more-than-a-browser-mozilla = Više od pretraživača - { -brand-n
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Preduzmite sljedeći korak da zaštitite svoju online privatnost s { -brand-name-firefox }ovom porodicom proizvoda.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Budite ispred hakera. Provjerite ima li curenja podataka pomoću { -brand-name-mozilla-monitor }a.
-welcome-page1-youre-on-track-to-stay-protected = Na pravom ste putu da ostanete zaštićeni
 welcome-page1-youve-got-the-web-browser = Imate web pretraživač koji štiti vašu privatnost - sada je vrijeme da se sačuvate od hakera.
 welcome-page1-check-your-breach-report = Provjerite svoj izvještaj o curenju podataka
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

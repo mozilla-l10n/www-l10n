@@ -7,5 +7,4 @@
 
 # HTML page title
 get-ios-firefox-for-ios = { -brand-name-firefox-browser } pi { -brand-name-ios }
-get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = Gam { -brand-name-firefox } pi { -brand-name-ios }

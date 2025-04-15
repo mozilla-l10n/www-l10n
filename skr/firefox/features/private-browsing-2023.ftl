@@ -8,8 +8,6 @@
 features-private-browsing-private-browsing-mode = نجی براؤزنگ موڈ
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox } نجی براؤزنگ موڈ
-# HTML page description
-features-private-browsing-firefox-protects = { -brand-name-firefox } تہاݙی آن لائن رازداری دی حفاظت کریندا ہے تے ویب تے تہاݙی پیروی کرݨ والے ٹریکرز کوں روکیندا ہے۔
 features-private-browsing-if-you-share-a-computer = ڄیکر تُساں ٻِنّھاں لوکاں دے نال کمپیوٹر دی بھئیوالی کرین٘دے ہِیوے یا ڄیکر تُساں اِیکوں محدود کرݨاں چاہن٘دے ہِیوے جو ویب سائٹاں تُہاݙے بارے وِچ کِتّی دیٹا کَٹّھا کر سڳدیاں ہِن، تاں تُساں { -brand-name-firefox } وِچ نجی براؤزنگ موڈ استعمال کر سڳدے ہِیوے۔ پرائیویٹ براؤزنگ اِنّھاں ڈیجیٹل ٹریکس کوں مِٹا ݙین٘دی ہِے جہڑی تُساں آن لائن براؤز کرݨ ویلے پِچّھاں چھوڑ ݙین٘دے ہِیوے — اِنّھاں دے بارے وِچ جنگل وِچ قدماں دے نشاناں آلی کار سوچو۔
 features-private-browsing-what-does-private-browsing-do = نجی براؤزنگ کیا کریندی ہے؟
 features-private-browsing-private-browsing-mode-opens-v2 = پرائیویٹ براؤزنگ موڈ ہِک نویں براؤزر ونڈو کُھلین٘دا ہِے۔ جہڑیلے تُساں چھیکڑی نجی براؤزنگ ونڈو بند کرین٘دے ہِیوے، تاں تُہاݙی براؤزنگ ہسٹری اَتے تُہاݙے ݙِٹّھے ڳئے ویب سائٹاں کنوں کُئی وی ٹریکنگ کوکیز مِٹا ݙِتّیاں ویسِن۔ <strong>{ -brand-name-firefox }ماہرانہ صلاح:</strong> جہڑیلے تُساں کَم کر گِھنّو تاں ساریاں آپݨیاں  نجی براؤزنگ ونڈوز کوں بند کرݨ نہ بُھلّو!

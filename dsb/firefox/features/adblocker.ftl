@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Kak móžośo gramne wabjenje z wabjeńskim blokěrowakom blokěrowaś
 features-adblocker-how-to-stop-seeing-too = Tak tomu zajźujośo, až se pśewjele wabjenja pokazuju a pśedewześa online slěduju. Rozpokazanje za blokěrowanje wabjenja we wobglědowaku { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Wabjeński blokěrowak - pótajmna bróń pśeśiwo gramnemu wabjenjeju.
 features-adblocker-so-many-ads-so-little = Tak wjele wabjenja, tak mało sćerpnosći… Jo cas, błaznosć skóńcyś.

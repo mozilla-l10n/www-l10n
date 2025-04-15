@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Besplatni web pretraživač
-new-platform-download-firefox = Preuzmite { -brand-name-firefox }
 new-platform-download-the-fastest = Preuzmite najbrži { -brand-name-firefox } ikad
 new-platform-faster-page-loading = Brže učitavanje stranica, manje korištenje memorije i upakovane funkcije - novi { -brand-name-firefox } je ovdje.
 new-platform-2x-faster = 2x brži
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Preuzmite { -brand-name-mozilla } { -
 new-platform-download-the-fastest-linux = Preuzmite najbrži { -brand-name-firefox } za { -brand-name-linux } ikada
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Brže učitavanje stranica, manje korištenje memorije i upakovane funkcije, novi { -brand-name-firefox } za { -brand-name-linux } je ovdje.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } za { -brand-name-linux }
 new-platform-privacy-more-than = Privatnost - više od pravilnika
 new-platform-your-life-your-business = Tvoj život, tvoj posao. { -brand-name-firefox } blokira kolačiće treće strane za praćenje na { -brand-name-linux }u.
 new-platform-speed-meet-security = Brzina, upoznajte sigurnost. { -brand-name-firefox } je dva puta brži sa 30% manje memorije nego { -brand-name-chrome }.

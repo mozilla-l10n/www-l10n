@@ -14,7 +14,6 @@ mobile-focus-simply-private-mobile = Simplemente navegación privada móvil
 mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } es tu navegador dedicado a la privacidad con protección contra rastreo automática. Con { -brand-name-focus } las páginas se cargan más rápido y los datos se mantienen privados.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } está disponible en dispositivos con { -brand-name-ios } y { -brand-name-android }.
 mobile-focus-get-firefox-focus = Conseguí { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = Enviá un enlace de descarga a tu teléfono.
 mobile-focus-scan-the-qr-code-to-get-started = Escaneá el código QR para comenzar
 mobile-focus-scan-alt-text = Escaneá el código QR para obtener { -brand-name-firefox-focus }
 mobile-focus-delete-your-history = Borrar historial

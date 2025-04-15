@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = Працягваючы, вы згаджаецеся з <a href="{ $url1 }">Умовамі абслугоўвання</a> і <a href="{ $url2 }">Палітыкай прыватнасці</a>.
 fxa-form-email-address = Адрас электроннай пошты
 fxa-form-continue = Працягнуць
-fxa-form-create-account = Стварыць уліковы запіс
-fxa-form-get-the-app = Атрымайце праграму

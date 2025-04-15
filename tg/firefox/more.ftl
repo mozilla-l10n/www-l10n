@@ -26,5 +26,4 @@ firefox-for-linux = Браузери «{ -brand-name-firefox }» барои ни
 firefox-for-windows = Браузери «{ -brand-name-firefox }» барои низоми амалкунандаи «{ -brand-name-windows }» 64-бит
 firefox-more-fingerprinter-blocking = Хонандаи нақши ангуштон манъ карда мешаванд
 firefox-more-translate-the-web = Тарҷума кардани саҳифаи сомона
-firefox-more-a-guide-to = Роҳнамо барои муҳофизат кардани воридшавиҳо ва ниҳонвожаҳо
 firefox-more-avoid-misinformation-heading = Аз маълумоти нодуруст ва бардурӯғ дар Интернет худдорӣ намоед – дар ин масъала ба шумо браузери «{ -brand-name-firefox }» ёрӣ медиҳад

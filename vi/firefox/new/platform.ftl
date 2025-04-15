@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Trình duyệt web miễn phí
-new-platform-download-firefox = Tải xuống { -brand-name-firefox }
 new-platform-download-the-fastest = Tải ngay { -brand-name-firefox } nhanh hơn bao giờ hết
 new-platform-faster-page-loading = Tải trang nhanh hơn, sử dụng ít bộ nhớ hơn và có nhiều tính năng, { -brand-name-firefox } mới có ở đây.
 new-platform-2x-faster = Nhanh hơn 2 lần
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Tải xuống { -brand-name-mozilla }
 new-platform-download-the-fastest-linux = Tải xuống { -brand-name-firefox } nhanh nhất cho { -brand-name-linux } từ trước đến nay
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Tải trang nhanh hơn, sử dụng ít bộ nhớ hơn và được tích hợp nhiều tính năng, { -brand-name-firefox } mới cho { -brand-name-linux } có ở đây.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } dành cho { -brand-name-linux }
 new-platform-privacy-more-than = Quyền riêng tư - hơn cả một chính sách
 new-platform-your-life-your-business = Cuộc sống của bạn, doanh nghiệp của bạn. { -brand-name-firefox } chặn cookie theo dõi của bên thứ ba trên { -brand-name-linux }.
 new-platform-speed-meet-security = Tốc độ, đáp ứng an ninh. { -brand-name-firefox } nhanh gấp hai lần với bộ nhớ ít hơn 30% so với { -brand-name-chrome }.

@@ -7,7 +7,6 @@
 
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Dá un paso adiante na protección da privacidade en liña coa familia de produtos { -brand-name-firefox }.
-welcome-page1-youre-on-track-to-stay-protected = Vas por bo camiño para estar protexido
 welcome-page1-youve-got-the-web-browser = Xa tes o navegador web que protexe a túa privacidade; agora é o momento de te defenderes contra os piratas informáticos.
 welcome-page1-check-your-breach-report = Revisa o informe de incumprimentos
 welcome-page1-stay-ahead-of-hackers = Mantente á fronte contra os piratas informáticos

@@ -39,11 +39,6 @@ cookie-settings-category-analytics-what-are-subheading = Beth yw Cwcis Dadansodd
 cookie-settings-category-analytics-what-are-desc = Mae’r technolegau hyn yn casglu gwybodaeth am sut mae pobl yn defnyddio gwefannau, megis tudalennau yr ymwelwyd â nhw, dolenni y cliciwyd arnyn nhw, ac o ba gwefannau eraill y daethon nhw.
 cookie-settings-category-analytics-how-does-desc = Mae { -brand-name-mozilla } yn defnyddio gwybodaeth ddadansoddol i ddeall sut mae defnyddwyr yn rhyngweithio â'n gwefannau fel y gallwn eu gwella, a thrwsio unrhyw broblemau sy'n codi. Efallai y byddwn hefyd yn defnyddio data o Gwcis, gwybodaeth dyfais, a chyfeiriadau IP i'n helpu i ddeall sut mae defnyddwyr yn ymgysylltu â'n cynnyrch, gwasanaethau, cyfathrebiadau, gwefannau, ymgyrchoedd ar-lein, dyfeisiau, a llwyfannau eraill. Dim ond gyda'ch caniatâd chi y byddwn yn casglu gwybodaeth ddadansoddeg ac yn gosod Cwcis Dadansoddeg.
 
-## Consent section
-
-cookie-settings-your-consent-heading = Eich cydsyniad
-cookie-settings-your-consent-desc = Trwy gytuno i Gwcis, bydd eich caniatâd yn cael ei roi i'r rhestr ganlynol o wefannau { -brand-name-mozilla }, sydd i gyd yn dilyn yr un safonau preifatrwydd data llym. Sylwch y gall y rhestr hon gael ei diweddaru dros amser.
-
 ## Privacy section
 
 cookie-settings-privacy-heading = Ein hysbysiad preifatrwydd

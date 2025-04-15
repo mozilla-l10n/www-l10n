@@ -14,7 +14,6 @@ mobile-focus-simply-private-mobile = 간단한 개인 모바일 브라우징
 mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus }는 자동 추적 보호 기능을 갖춘 당신만의 개인 정보 보호 브라우저입니다. { -brand-name-focus }를 사용하면 페이지는 더 빨리 로드되고 사용자의 데이터는 비공개로 유지됩니다.
 mobile-focus-firefox-focus-is-available = { -brand-name-ios }와 { -brand-name-android } 디바이스 모두에서 { -brand-name-firefox-focus } 사용이 가능합니다.
 mobile-focus-get-firefox-focus = { -brand-name-firefox-focus } 다운로드
-mobile-focus-send-a-download-link-to-your = 휴대전화로 다운로드 링크를 보냅니다.
 mobile-focus-scan-the-qr-code-to-get-started = QR 코드를 스캔하여 시작하기
 mobile-focus-scan-alt-text = QR 코드를 스캔하여 { -brand-name-firefox-focus } 다운로드
 mobile-focus-delete-your-history = 사용 기록 삭제

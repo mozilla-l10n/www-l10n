@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = Атрымайце { -brand-name-firefox } { -brand-name-esr } і хуткі выпуск для вашага прадпрыемства
 firefox-enterprise-get-unmatched-data-protection = Атрымайце непараўнальную ахову дадзеных з перыядычнасцю выпускаў, якая вам падыходзіць, з { -brand-name-firefox } для прадпрыемстваў. Сцягніце { -brand-name-esr } і хуткі выпуск.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Агляд
-firefox-enterprise-downloads = Сцягванні
 firefox-enterprise-get-firefox-for-your-enterprise = Атрымайце { -brand-name-firefox } для свайго прадпрыемства
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

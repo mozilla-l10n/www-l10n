@@ -8,7 +8,6 @@
 compare-shared-compare-firefox = { -brand-name-firefox }  fergelykje
 compare-shared-footer-cta-title = Doch mear mei { -brand-name-firefox }
 compare-shared-footer-cta-desc = Untfang de rappe, ljochtgewicht, op privacy rjochte browser dy’t stipe wurdt troch in non-profitorganisaasje en op al jo apparaten wurket.
-compare-shared-footer-cta-button = { -brand-name-firefox } downloade
 compare-shared-we-also-offer-easy = Wy biede ek maklik te brûken funksjes, lykas:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } hat ek ynboud ark, lykas:
 # Variables

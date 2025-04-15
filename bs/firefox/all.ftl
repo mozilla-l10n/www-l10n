@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = Preuzmite { -brand-name-firefox } na engleskom (SAD) i više od 90 drugih jezika
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Svako zaslužuje pristup internetu — jezik nikada ne bi trebao biti prepreka. Stoga, uz pomoć mnogobrojnih volontera širom svijeta, nudimo { -brand-name-firefox } na više od 90 jezika.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = Skenirajte QR kod da dobijete <em>{ $product_name }</em>
 firefox-all-choose-browser = Odaberite pretraživač da nastavite
 firefox-all-choose-platform = Odaberite platformu da nastavite
 firefox-all-choose-language = Odaberite jezik da nastavite
@@ -69,14 +66,7 @@ firefox-all-product-send-link = Pošalji link za preuzimanje na svoj mobitel
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Odaberi 32-bitni instalacijski program za računare s 32-bitnim procesorima — ili za starije ili manje snažne računare. <a href="{ $url }">Ako ne znate</a> da li odabrati 64-bitni ili 32-bitni instaler, preporučujemo 32-bitni.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Preuzmi { $product_label } za { $platform } za { $locale }
 firefox-all-msi-installers = MSI instalacijski programi
-firefox-all-which-version = Koju verziju želite?
-firefox-all-select-your-preferred-installer = Odaberi željeni instalacijski program
 firefox-all-select-your-preferred-language = Odaberi željeni jezik
 firefox-all-learn-about-installers = Saznajte više o programima za instaliranje
 firefox-all-product-firefox = { -brand-name-firefox }

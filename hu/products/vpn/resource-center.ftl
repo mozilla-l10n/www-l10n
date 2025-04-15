@@ -9,11 +9,9 @@
 vpn-resource-center-title = VPN erőforrásközpont
 vpn-resource-center-whats-the-deal = Mi a helyzet a virtuális magánhálózatokkal?
 vpn-resource-center-discover-how-they = Fedezze fel, hogyan működnek, miért fontosak, és mit jelenthet Önnek a VPN használata.
-vpn-resource-center-view-all = Összes megjelenítése
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = Kezdje el védeni a személyazonosságát még ma
 vpn-resource-center-obsessed-with = 1998 óta az adatvédelem megszállotja
-vpn-resource-center-get-mozilla-vpn = { -brand-name-mozilla-vpn } beszerzése
 vpn-resource-center-was-this-article = Hasznos volt a leírás?
 vpn-resource-center-article-helpful = A cikk hasznos
 vpn-resource-center-article-not-helpful = A cikk nem hasznos

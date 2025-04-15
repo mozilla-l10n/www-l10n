@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Penaos stankañ bruderezh strobus gant ar stanker bruderezh
 features-adblocker-how-to-stop-seeing-too = Penaos paouez da welout re a vruderezh ha chom hep bezañ heuliet enlinenn gant an embregerezhioù. Sturlevr ar stankañ bruderezh deus ar merdeer web { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Ar stanker bruderezh – un arm kuzh a-enep ar bruderezh strobus.
 features-adblocker-so-many-ads-so-little = Kement a vruderezh, ken nebeut a basianted… Poent eo lakaat un dermen d'ar follentez-se.

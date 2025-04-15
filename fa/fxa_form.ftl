@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = با این اقدام،‌ شما موافق هستید با <a href="{ $url1 }"> شرایط استفاده </a> و<a href="{ $url2 }"> اطلاعات حریم شخصی</a>.
 fxa-form-email-address = آدرس پست الکترونیکی
 fxa-form-continue = ادامه
-fxa-form-create-account = ساخت حساب
-fxa-form-get-the-app = دریافت نرم افزار

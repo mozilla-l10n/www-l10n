@@ -14,7 +14,6 @@ footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = გამოიწერეთ @{ -brand-name-mozilla }
-footer-refresh-mastodon = Mastodon
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
@@ -29,7 +28,6 @@ footer-refresh-support = მხარდაჭერა
 footer-refresh-product-help = დახმარების მიღება
 footer-refresh-file-a-bug = ხარვეზის მოხსენება
 footer-refresh-localize-mozilla = თარგმნეთ { -brand-name-mozilla }
-footer-refresh-brand-standards = სავაჭრო ნიშნები
 footer-refresh-developers = შემმუშავებლები
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

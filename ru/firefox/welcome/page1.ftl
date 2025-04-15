@@ -10,7 +10,6 @@ welcome-page1-more-than-a-browser-mozilla = Больше, чем просто б
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Сделайте следующий шаг к защите своей приватности в Интернете с помощью семейства продуктов { -brand-name-firefox }.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Опережайте хакеров. Сделите за утечками данных с помощью { -brand-name-mozilla-monitor }.
-welcome-page1-youre-on-track-to-stay-protected = Вы на пути к защите
 welcome-page1-youve-got-the-web-browser = У вас есть веб-браузер, защищающий вашу приватность — теперь пора обратить внимание на хакеров.
 welcome-page1-check-your-breach-report = Посмотрите свой отчёт об утечках данных
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

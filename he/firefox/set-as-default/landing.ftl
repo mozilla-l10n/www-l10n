@@ -9,4 +9,3 @@
 set-as-default-landing-make-firefox-your-default = הגדרת { -brand-name-firefox } כדפדפן ברירת המחדל שלך
 set-as-default-landing-choose-automatic-privacy = בחירה בפרטיות אוטומטית
 set-as-default-landing-companies-keep-finding = חברות ממשיכות למצוא דרכים חדשות לצוד את הנתונים האישיים שלכם. { -brand-name-firefox } הוא הדפדפן שמטרתו למצוא דרכים חדשות להגן עליכם.
-set-as-default-landing-the-internet-keeps = האינטרנט ממשיך למצוא דרכים חדשות לצוד את הנתונים האישיים שלכם. { -brand-name-firefox } הוא הדפדפן שמטרתו למצוא דרכים חדשות להגן עליכם.

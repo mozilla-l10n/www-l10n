@@ -10,7 +10,6 @@ newsletter-form-im-okay-with-mozilla = Nangu naa { -brand-name-mozilla } jëfand
 newsletter-form-if-you-havent-previously = Su fekkee dangaa dëggalagul ag bindu ci ab bataaxalu xibaar ñeel { -brand-name-mozilla }, dina laaj nga def ko. Xoolal ci sa sàq ba-xam jottoo sunu bataaxal.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span>&nbsp;+&nbsp;Yaw
 newsletter-form-get-firefox-tips = Jotee ci { -brand-name-firefox } ay dégtal, xelal ak yeneen
-newsletter-form-keep-up-with = Wéy di yeeslu<br> ci léppi { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Jot yeesali { -brand-name-mozilla }
 newsletter-form-available-languages = Làkk yi jàppandi
 newsletter-form-select-country = Tànnal sa réew

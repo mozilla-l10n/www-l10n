@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Il navigatur gratuit
-new-platform-download-firefox = Telechargiar { -brand-name-firefox }
 new-platform-download-the-fastest = Telechargiar la versiun la pli sperta da { -brand-name-firefox }
 new-platform-faster-page-loading = Paginas che chargian pli spert, in consum da memoria reducì e novas funcziuns: Il nov { -brand-name-firefox } è qua.
 new-platform-2x-faster = 2x pli spert
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Telechargia { -brand-name-mozilla } {
 new-platform-download-the-fastest-linux = Telechargiar la versiun la pli sperta da { -brand-name-firefox } per { -brand-name-linux }
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Paginas che chargian pli spert, in consum da memoria reducì e novas funcziuns: Il nov { -brand-name-firefox } per { -brand-name-linux } è qua.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } per { -brand-name-linux }
 new-platform-privacy-more-than = Protecziun da datas – dapli che mo ina directiva
 new-platform-your-life-your-business = Tia vita – tes affar. { -brand-name-firefox } blochescha cookies da terzas partidas che fastizeschan sin { -brand-name-linux }.
 new-platform-speed-meet-security = Sveltezza e segirezza. { -brand-name-firefox } è duas giadas pli svelt e dovra 30% damain memoria che { -brand-name-chrome }.

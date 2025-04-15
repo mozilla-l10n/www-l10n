@@ -5,5 +5,4 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
-features-fingerprinting-download-firefox = { -brand-name-firefox } බාගන්න
 features-fingerprinting-what-is-fingerprinting-body = ඇඟිලි සටහන් යනු කුමක්ද?

@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = Mede, nyuto ni iyee <a href="{ $url1 }">Cik me tic kwede</a> and <a href="{ $url2 }">Ngec me Mung</a>.
 fxa-form-email-address = Kanonge me email
 fxa-form-continue = Mede
-fxa-form-create-account = Cwe akaunt
-fxa-form-get-the-app = Nong purugram ne

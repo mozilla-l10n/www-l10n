@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = { -brand-name-mozilla } Je’epy
 footer-privacy-hub = Ñemigua Ñe’ã
 footer-privacy = Ñemigua
 footer-press = Jopy
 footer-mozilla-blog = { -brand-name-mozilla } Blog
-footer-browser-comparison = Kundahára Atyguasu
-footer-brand-standards = Marca reko’ypy
-footer-browsers = Kundahára
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = Mboguataha
 footer-developer-edition = { -brand-name-developer-edition }
@@ -38,7 +34,6 @@ footer-websites-legal = Añetegua
 footer-language = Ñe’ẽ
 footer-go = Ho
 footer-donate = Me’ẽ
-footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }

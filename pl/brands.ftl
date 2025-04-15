@@ -9,15 +9,6 @@
 
 ## Company names
 
--brand-name-amazon =
-    { $case ->
-        [gen] Amazona
-        [dat] Amazonowi
-        [acc] Amazona
-        [ins] Amazonem
-        [loc] Amazonie
-       *[nom] Amazon
-    }
 -brand-name-apple =
     { $case ->
         [gen] Apple’a
@@ -55,7 +46,6 @@
         [loc] Google’u
        *[nom] Google
     }
--brand-name-hulu = Hulu
 -brand-name-microsoft =
     { $case ->
         [gen] Microsoftu
@@ -76,7 +66,6 @@
     }
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
--brand-name-mullvad = Mullvad
 -brand-name-netscape = Netscape
 -brand-name-twitter =
     { $case ->
@@ -99,15 +88,6 @@
        *[nom] TikTok
     }
 -brand-name-spotify = Spotify
--brand-name-mastodon =
-    { $case ->
-        [gen] Mastodona
-        [dat] Mastodonowi
-        [acc] Mastodona
-        [ins] Mastodonem
-        [loc] Mastodonie
-       *[nom] Mastodon
-    }
 
 ## Firefox browsers
 
@@ -279,16 +259,6 @@
         [loc] Aurorze
        *[nom] Aurora
     }
--brand-name-firefox-daylight =
-    { $case ->
-        [gen] Firefoksa Daylight
-        [dat] Firefoksowi Daylight
-        [acc] Firefoksa Daylight
-        [ins] Firefoksem Daylight
-        [loc] Firefoksie Daylight
-       *[nom] Firefox Daylight
-    }
--brand-name-daylight = Daylight
 -brand-name-firefox-quantum =
     { $case ->
         [gen] Firefoksa Quantum
@@ -298,26 +268,6 @@
         [loc] Firefoksie Quantum
        *[nom] Firefox Quantum
     }
--brand-name-firefox-lite =
-    { $case ->
-        [gen] Firefoksa Lite
-        [dat] Firefoksowi Lite
-        [acc] Firefoksa Lite
-        [ins] Firefoksem Lite
-        [loc] Firefoksie Lite
-       *[nom] Firefox Lite
-    }
--brand-name-lite = Lite
--brand-name-firefox-reality =
-    { $case ->
-        [gen] Firefoksa Reality
-        [dat] Firefoksowi Reality
-        [acc] Firefoksa Reality
-        [ins] Firefoksem Reality
-        [loc] Firefoksie Reality
-       *[nom] Firefox Reality
-    }
--brand-name-reality = Reality
 
 ## Firefox products
 
@@ -356,40 +306,6 @@
             }
     }
 -brand-name-firefox-relay = Firefox Relay
--brand-name-firefox-relay-premium = Firefox Relay Premium
--brand-name-firefox-sync =
-    { $case ->
-        [gen]
-            { $capitalization ->
-                [lower] synchronizacji Firefoksa
-               *[upper] Synchronizacji Firefoksa
-            }
-        [dat]
-            { $capitalization ->
-                [lower] synchronizacji Firefoksa
-               *[upper] Synchronizacji Firefoksa
-            }
-        [acc]
-            { $capitalization ->
-                [lower] synchronizację Firefoksa
-               *[upper] Synchronizację Firefoksa
-            }
-        [ins]
-            { $capitalization ->
-                [lower] synchronizacją Firefoksa
-               *[upper] Synchronizacją Firefoksa
-            }
-        [loc]
-            { $capitalization ->
-                [lower] synchronizacji Firefoksa
-               *[upper] Synchronizacji Firefoksa
-            }
-       *[nom]
-            { $capitalization ->
-                [lower] synchronizacja Firefoksa
-               *[upper] Synchronizacja Firefoksa
-            }
-    }
 -brand-name-firefox-translations = Firefox Translations
 
 ## Firefox products (short names)
@@ -428,40 +344,6 @@
             }
     }
 -brand-name-relay = Relay
--brand-name-relay-premium = Relay Premium
--brand-name-sync =
-    { $case ->
-        [gen]
-            { $capitalization ->
-                [lower] synchronizacji
-               *[upper] Synchronizacji
-            }
-        [dat]
-            { $capitalization ->
-                [lower] synchronizacji
-               *[upper] Synchronizacji
-            }
-        [acc]
-            { $capitalization ->
-                [lower] synchronizację
-               *[upper] Synchronizację
-            }
-        [ins]
-            { $capitalization ->
-                [lower] synchronizacją
-               *[upper] Synchronizacją
-            }
-        [loc]
-            { $capitalization ->
-                [lower] synchronizacji
-               *[upper] Synchronizacji
-            }
-       *[nom]
-            { $capitalization ->
-                [lower] synchronizacja
-               *[upper] Synchronizacja
-            }
-    }
 
 ## Firefox products (legacy)
 
@@ -531,14 +413,9 @@
                *[upper] Konta Firefoksa
             }
     }
--brand-name-firefox-better-web = Firefox Better Web
--brand-name-firefox-lockwise = Firefox Lockwise
 -brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
--brand-name-firefox-send = Firefox Send
--brand-name-send = Send
 -brand-name-firefox-private-network = Firefox Private Network
--brand-name-fpn = FPN
 
 ## Firefox projects
 
@@ -602,7 +479,6 @@
                *[upper] Podcast IRL
             }
     }
--brand-name-llamafile = Llamafile
 -brand-name-solo-ai = Solo AI
 -brand-name-lumigator =
     { $case ->
@@ -647,7 +523,6 @@
                *[upper] Dokumentacja MDN
             }
     }
--brand-name-mozilla-common-voice = Mozilla Common Voice
 -brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
@@ -717,7 +592,6 @@
                *[upper] Konta Mozilli
             }
     }
--brand-name-mozilla-social = Mozilla.social
 -brand-name-mozilla-builders = Mozilla Builders
 -brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
@@ -738,22 +612,14 @@
 -brand-name-common-voice = Common Voice
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
--brand-name-vpn = VPN
 
 ## Mozilla projects (legacy)
 
--brand-name-mozilla-developer-network = Mozilla Developer Network
--brand-name-mozilla-labs = Mozilla Labs
--brand-name-hubs = Hubs
--brand-name-lockwise = Lockwise
--brand-name-lightbeam = Lightbeam
--brand-name-maker-party = Maker Party
 -brand-name-webmaker = Webmaker
 
 ## Open Source projects
 
 -brand-name-rust = Rust
--brand-name-webassembly = WebAssembly
 
 ## Other browsers
 
@@ -779,7 +645,6 @@
        *[nom] Opera
     }
 -brand-name-safari = Safari
--brand-name-duckduckgo = DuckDuckGo
 
 ## Platforms
 
@@ -805,10 +670,7 @@
     }
 -brand-name-mac = macOS
 -brand-name-mac-short = Mac
--brand-name-ubuntu = Ubuntu
--brand-name-vista = Vista
 -brand-name-windows = Windows
--brand-name-xp = XP
 
 ## Apple products
 
@@ -844,15 +706,6 @@
         [ins] Instagramem
         [loc] Instagramie
        *[nom] Instagram
-    }
--brand-name-messenger =
-    { $case ->
-        [gen] Messengera
-        [dat] Messengerowi
-        [acc] Messengera
-        [ins] Messengerem
-        [loc] Messengerze
-       *[nom] Messenger
     }
 -brand-name-workplace = Workplace
 

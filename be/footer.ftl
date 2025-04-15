@@ -2,14 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Маніфест { -brand-name-mozilla }
 footer-privacy-hub = Цэнтр прыватнасці
 footer-privacy = Прыватнасць
 footer-press = Прэса
-footer-browser-comparison = Параўнанне браўзераў
-footer-brand-standards = Стандарты брэнда
-footer-browsers = Браўзеры
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = Распрацоўшчыкам
 footer-developer-edition = { -brand-name-developer-edition }
@@ -37,7 +33,6 @@ footer-websites-legal = Юрыдычная інфармацыя
 footer-language = Мова
 footer-go = Перайсці
 footer-donate = Ахвяраваць
-footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }

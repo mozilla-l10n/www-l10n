@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Δοκιμάστε νέες λειτ
 firefox-channel-download-and-test-future = Κάντε λήψη και δοκιμάστε τις μελλοντικές εκδόσεις του { -brand-name-firefox } για υπολογιστές, { -brand-name-android } και { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Δοκιμάστε τις πιο πρόσφατες λειτουργίες σε μια προ-έκδοση του προγράμματος περιήγησης για { -brand-name-android }: { -brand-name-firefox-beta } και { -brand-name-firefox-nightly }. Εγκατάσταση τώρα!
 firefox-channel-experience-cutting-edge-android = Πειραματιστείτε με τα πιο σύγχρονα χαρακτηριστικά στην προ-έκδοση ενός προγράμματος περιήγησης για { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } και { -brand-name-firefox-nightly }. Εγκατάσταση τώρα!
-firefox-channel-download-and-test-the-latest-android = Κάντε λήψη και δοκιμάστε τις νεότερες δυνατότητες του { -brand-name-firefox } για { -brand-name-android } με τις εκδόσεις { -brand-name-aurora }, { -brand-name-beta } και { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Δοκιμάστε τις νεότερες δυνατότητες για { -brand-name-android }, προτού να κυκλοφορήσουν στον υπόλοιπο κόσμο.
 firefox-channel-all-languages-and-platforms = Όλες οι γλώσσες και οι πλατφόρμες
 firefox-channel-all-languages-and-builds = Όλες οι γλώσσες και οι εκδόσεις
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = { -brand-name-nightly } Blog
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = Το { -brand-name-nightly } είναι μια ασταθής, δοκιμαστική πλατφόρμα ανάπτυξης. Από προεπιλογή, το { -brand-name-nightly } στέλνει δεδομένα στη { -brand-name-mozilla } (και, κάποιες φορές, στους συνεργάτες μας) για την επίλυση προβλημάτων και τη δοκιμή νέων ιδεών. <a href="{ $link }">Μάθετε ποια δεδομένα συλλέγονται</a>.
 firefox-channel-firefox-nightly-automatically = Το { -brand-name-firefox-nightly } στέλνει αυτομάτως σχόλια στη { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Δοκιμάστε νέα χαρακτηριστικά στις προ-εκδόσεις | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Πειραματιστείτε με τα πιο σύγχρονα χαρακτηριστικά στις προ-εκδόσεις: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } και { -brand-name-firefox-nightly }. Λήψη τώρα!
 firefox-channel-download-and-test-the-latest-desktop = Κάντε λήψη για δοκιμή των τελευταίων λειτουργιών του { -brand-name-firefox } για υπολογιστές με τις εκδόσεις { -brand-name-developer-edition }, { -brand-name-beta } και { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

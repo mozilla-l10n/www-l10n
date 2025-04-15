@@ -12,4 +12,3 @@ set-as-default-landing-make-sure-youre-protected = Yanane kaa deenaaɗo, kala nd
 set-as-default-landing-choose-automatic-privacy = Suɓo suturo jooni jooni
 set-as-default-landing-companies-keep-finding = Gollorɗe ina njokki ƴeewde peeje kese ngam sostin'de keɓe maa keeriiɗe. { -brand-name-firefox } woni wanngorde jogiinde faandaare yiytude peeje kese ngam reendema.
 set-as-default-landing-choose-freedom-on-every = Suɓo wellitaare e kala masiŋel maa
-set-as-default-landing-the-internet-keeps = Enternet oo ina jokki ƴeewde peeje kese ngam sostin'de keɓe maa keeriiɗe. { -brand-name-firefox } woni wanngorde jogiinde faandaare yiytude peeje kese ngam reendema.

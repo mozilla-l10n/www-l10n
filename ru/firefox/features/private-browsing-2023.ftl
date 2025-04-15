@@ -8,8 +8,6 @@
 features-private-browsing-private-browsing-mode = Режим приватного просмотра
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = Режим приватного просмотра { -brand-name-firefox }
-# HTML page description
-features-private-browsing-firefox-protects = { -brand-name-firefox } защищает вашу приватность в Интернете и блокирует трекеры, следующие за вами по сети.
 features-private-browsing-if-you-share-a-computer = Если вы используете компьютер совместно с другими людьми или хотите ограничить объем данных, которые веб-сайты могут собирать о вас, вы можете использовать режим приватного просмотра в { -brand-name-firefox }. Приватный просмотр стирает цифровые следы, которые вы оставляете после себя в Интернете — думайте о них как о следах в лесу.
 features-private-browsing-what-does-private-browsing-do = Что делает приватный просмотр?
 features-private-browsing-private-browsing-mode-opens-v2 = В режиме приватного просмотра открывается новое окно браузера. Когда вы закроете последнее окно приватного просмотра, ваша история просмотров и все отслеживающие куки с посещенных вами веб-сайтов будут удалены. <strong>Профессиональный совет { -brand-name-firefox }:</strong> не забудьте закрыть все окна приватного просмотра, когда закончите!

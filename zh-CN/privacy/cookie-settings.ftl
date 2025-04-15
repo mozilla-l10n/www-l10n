@@ -39,11 +39,6 @@ cookie-settings-category-analytics-what-are-subheading = 什么是分析型 Cook
 cookie-settings-category-analytics-what-are-desc = 此类技术用于收集用户使用网站的方式（例如访问的页面、点击的链接、从何网站进入本站）。
 cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } 使用分析型信息来了解用户与我们网站交互的方式，以改进交互体验及修复出现的问题。我们可能还会通过来自 Cookie、设备信息、IP 地址的数据来了解用户使用我们的产品、服务、通信、网站、在线活动、设备、其他平台的方式。我们只会在征得您的同意后才收集分析型信息及设置分析型 Cookie。
 
-## Consent section
-
-cookie-settings-your-consent-heading = 您的同意内容
-cookie-settings-your-consent-desc = 接受 Cookie 即代表您一并同意下列 { -brand-name-mozilla } 网站遵循相同且严格的数据隐私标准来设置 Cookie。请注意，此列表未来可能会有所更新。
-
 ## Privacy section
 
 cookie-settings-privacy-heading = 我们的隐私声明

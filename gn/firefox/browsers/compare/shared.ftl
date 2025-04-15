@@ -8,7 +8,6 @@
 compare-shared-compare-firefox = Embojoja { -brand-name-firefox }
 compare-shared-footer-cta-title = Ejapove { -brand-name-firefox } ndive
 compare-shared-footer-cta-desc = Erekóke kundahára ipya’e, ivevýi ha hekoñemíva, oykekóva mba’apohaguasu viru’ỹgua ha eiporukuaáva opaite mba’e’okápe
-compare-shared-footer-cta-button = Emboguejy { -brand-name-firefox }
 compare-shared-we-also-offer-easy = Roikuave’ẽ avei tembiapoite hasy’ỹva ijeporu:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } oreko avei tembiporu ijehevoi:
 # Variables

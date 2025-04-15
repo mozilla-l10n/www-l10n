@@ -10,7 +10,6 @@ welcome-page1-more-than-a-browser-mozilla = Viac než len prehliadač - { -brand
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Urobte ďalší krok v ochrane svojho súkromia na internete pomocou radu produktov { -brand-name-firefox }.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Buďte o krok vpred pred hackermi. Kontrolujte úniky dát pomocou služby { -brand-name-mozilla-monitor }.
-welcome-page1-youre-on-track-to-stay-protected = Ste na dobrej ceste byť neustále v bezpečí
 welcome-page1-youve-got-the-web-browser = Máte webový prehliadač, ktorý chráni vaše súkromie - teraz je čas dávať si pozor na hackerov.
 welcome-page1-check-your-breach-report = Pozrite sa na úniky vašich dát
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

@@ -2,14 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Rutzijoxik { -brand-name-mozilla }
 footer-privacy-hub = Ichinanem Jay
 footer-privacy = Ichinanem
 footer-press = Tipitz'
-footer-browser-comparison = Kijunamaxik Okik'amaya'l
-footer-brand-standards = Taq Rub'eyal Retal Wachib'äl
-footer-browsers = Taq Okik'amaya'l
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = B'anonela'
 footer-developer-edition = { -brand-name-developer-edition }

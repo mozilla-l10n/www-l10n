@@ -10,7 +10,6 @@ newsletter-form-im-okay-with-mozilla = Guendaj ni hua hue'ej sin { -brand-name-m
 newsletter-form-if-you-havent-previously = Ni'ias si nga garajyinat gi'iaj sunt nga { -brand-name-mozilla }, si nihuij ni da'ui ginùn huint. Gi'iaj suntuj ni ni'iaj riña si korreôt da' gi'iaj hià raj.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> guenda iOS
 newsletter-form-get-firefox-tips = Nana'ui' nuin si hua doj riña { -brand-name-firefox }
-newsletter-form-keep-up-with = Garasun nga <br> nuin si hua rayi'i { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Nahuin ràa sa nagui'iaj nako' { -brand-name-mozilla }
 newsletter-form-available-languages = Nej nanj hua
 newsletter-form-select-country = Ganahui ngo país

@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Μάθετε πώς να αποκλείσετε ενοχλητικές διαφημίσεις με ένα πρόσθετο φραγής διαφημίσεων
 features-adblocker-how-to-stop-seeing-too = Μάθετε πώς να εμποδίσετε τις περισσότερες διαφημίσεις και εταιρείες που σας παρακολουθούν στο διαδίκτυο. Ένας οδηγός φραγής διαφημίσεων από το { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Πρόσθετα φραγής – ένα μυστικό όπλο κατά των διαφημίσεων.
 features-adblocker-so-many-ads-so-little = Πολλές διαφημίσεις, λίγη υπομονή… Καιρός να σταματήσει αυτή η τρέλα.

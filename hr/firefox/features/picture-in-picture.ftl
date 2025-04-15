@@ -10,10 +10,8 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } slika
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Želiš istovremeno raditi i nešto gledati? Koristi { -brand-name-firefox } funkciju slika-u-slici.
 features-pip-picture-in-picture = Slika-u-slici
-features-pip-new-feature-firefox-multi-picture = Nova funkcija: { -brand-name-firefox } višestruka slika-u-slici
 features-pip-get-more-done-with-pop-out-videos = Obavi više sa skočnim prozorima videa
 features-pip-got-things-to-do-do-both-with = Želiš istovremeno raditi i nešto gledati? Koristi { -brand-name-firefox } funkciju slika-u-slici. Omogućuje prikaz videa s jedne web-stranice u vlastitom prozoru. Prikvači ga na ekran te ga nastavi gledati dok si na drugim stranicama, karticama i aplikacijama.
-features-pip-play-the-video = Reproduciraj video
 features-pip-heres-how-it-works = Ovako funkcionira:
 features-pip-play-any-video-in-your-updated = <strong>Reproduciraj bilo koji video</strong> u svom { -brand-name-firefox } pregledniku, poput ovog.
 features-pip-play-any-video-in-your = <strong>Reproduciraj bilo koji video</strong> u svom { -brand-name-firefox } pregledniku, poput ovog s mladim crvenim pandama.

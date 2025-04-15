@@ -5,4 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
-mobile-focus-send-a-download-link-to-your = Enviar un ligam de telecargar al vòstre telefòn.

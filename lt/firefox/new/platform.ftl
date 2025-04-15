@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Nemokama saityno naršyklė
-new-platform-download-firefox = „{ -brand-name-firefox }“ parsisiuntimas
 new-platform-download-the-fastest = Parsisiųskite sparčiausią „{ -brand-name-firefox }“ laidą
 new-platform-faster-page-loading = Spartesnis tinklalapių įkėlimas, mažesnis atminties vartojimas, daugybė kitų savybių. Naujoji „{ -brand-name-firefox }“ – jau čia!
 new-platform-2x-faster = Dukart didesnė sparta
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Parsisiųskite „{ -brand-name-mozil
 new-platform-download-the-fastest-linux = Parsisiųskite sparčiausią „{ -brand-name-firefox }“ laidą „{ -brand-name-linux }“ kompiuteriams
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Spartesnis tinklalapių įkėlimas, mažesnis atminties vartojimas, daugybė kitų savybių. Naujoji „{ -brand-name-firefox }“, skirta „{ -brand-name-linux }“ kompiuteriams – jau čia!
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = „{ -brand-name-firefox }“ naršyklė „{ -brand-name-linux }“ kompiuteriams
 new-platform-privacy-more-than = Privatumas – daugiau nei deklaracija
 new-platform-your-life-your-business = Jūsų gyvenimas – jūsų reikalas. „{ -brand-name-firefox }“ blokuoja trečiųjų šalių slapukus „{ -brand-name-linux }“ sistemose.
 new-platform-speed-meet-security = Sparti ir saugi. „{ -brand-name-firefox }“ naršyklė dukart spartesnė ir reikalauja 30% mažiau atminties nei „{ -brand-name-chrome }“.

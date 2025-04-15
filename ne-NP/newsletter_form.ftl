@@ -10,7 +10,6 @@ newsletter-form-im-okay-with-mozilla = यस <a href="{ $url }">गोपनि
 newsletter-form-if-you-havent-previously = यदि तपाईँले पहिले नै { -brand-name-mozilla } संग सम्बन्धित समाचारपत्र को सदस्यता पक्का गर्नुएको छैन भने तपाईँले सो गर्नुपर्ने हुन सक्छ। कृपया अाफ्नो इमेल खातामा हामिबाट अाएको इमेल खोज्नुहोस्।
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + तपाईँ
 newsletter-form-get-firefox-tips = { -brand-name-firefox } को सुझाव, तरिका, समाचार र अरु पाउनुहोस्
-newsletter-form-keep-up-with = Keep up with<br> all things { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = { -brand-name-mozilla } बाट सुन्नुहोस्
 newsletter-form-available-languages = उपलब्ध भाषाहरु
 newsletter-form-select-country = देश चयन गर्नुहोस्

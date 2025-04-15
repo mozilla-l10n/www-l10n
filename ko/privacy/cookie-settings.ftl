@@ -39,11 +39,6 @@ cookie-settings-category-analytics-what-are-subheading = 분석 쿠키란 무엇
 cookie-settings-category-analytics-what-are-desc = 이러한 기술은 사용자가 방문한 페이지, 클릭한 링크, 유입된 출처 사이트 등 사람들이 웹사이트를 어떻게 사용하는지 정보를 수집합니다.
 cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla }는 사용자가 우리 웹사이트와 어떻게 상호 작용 하는지 이해하여 웹사이트를 개선하고 발생하는 모든 문제를 고칠 수 있도록 분석 정보를 사용합니다. 사용자가 우리 제품과 서비스, 커뮤니케이션, 웹사이트, 온라인 캠페인, 기기, 기타 플랫폼을 사용하는 방식을 이해하기 위해 쿠키에서 얻은 데이터, 기기 정보, IP 주소를 사용할 수 있습니다. 사용자가 동의한 경우에만 분석 정보를 수집하고 분석 쿠키를 설정합니다.
 
-## Consent section
-
-cookie-settings-your-consent-heading = 동의 여부
-cookie-settings-your-consent-desc = 쿠키에 동의하면 다음 { -brand-name-mozilla } 웹 사이트 목록에 동의하게 되며 이 웹사이트들은 모두 동일한 엄격한 데이터 개인정보 보호 표준을 따릅니다. 시간이 지나면 목록이 업데이트될 수 있습니다.
-
 ## Privacy section
 
 cookie-settings-privacy-heading = 개인정보 보호정책

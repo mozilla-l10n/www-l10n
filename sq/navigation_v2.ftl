@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = Shkarkoni { -brand-name-firefox }-in
 navigation-v2-get-mozilla-vpn = Merrni { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menu
 
@@ -76,11 +75,7 @@ navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-editio
 navigation-v2-get-the-firefox-browser-built = Merrni { -brand-name-firefox } e ndërtuar pikërisht për zhvilluesit.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = Shihni vatrën e burime për zhvillues web.
-navigation-v2-firefox-reality = { -brand-name-firefox-reality }
-navigation-v2-explore-the-web-with-the = Eksploroni web-in me shfletuesin { -brand-name-firefox } për realitet virtual.
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Dhuroni zërin tuaj, që e ardhmja e web-it të dëgjojë këdo.
-navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-learn-more-about-the-new = Mësoni më tepër për gjuhën e re, e shkallës së ulët, e ngjashme me Assembly-n
 navigation-v2-mozilla-innovation-projects = Projekte Novacioni { -brand-name-mozilla }
 navigation-v2-discover-ways-to-bring = Zbuloni rrugë për të vënë në jetë ide të ndritura.

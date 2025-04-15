@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Como blocar annuncios moleste con un blocator de publicitate
 features-adblocker-how-to-stop-seeing-too = Como defender se contra le excesso de annuncios e impedir al companias de traciar te in linea. Ab { -brand-name-firefox }, le navigator del Web, un guida al blocator de annuncios.
 features-adblocker-the-ad-blocker-a-secret = Le blocator de publicitate – un arma secrete contra annuncios moleste.
 features-adblocker-so-many-ads-so-little = Tante annuncios, si poc patientia… Il es tempore de mitter fin a iste follia.

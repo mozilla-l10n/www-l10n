@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Si të bllokohen reklama bezdisëse duke përdorur një bllokues reklamash
 features-adblocker-how-to-stop-seeing-too = Si të reshtet shfaqja e shumë reklamave dhe si t’u pengohet shoqërive t’ju ndjekin nëpër internet. Një udhërrëfyes bllokuesish reklamash për shfletuesin { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Bllokuesi i reklamave – një armë e fshehtë kundër reklamave bezdisëse.
 features-adblocker-so-many-ads-so-little = Kaq shumë reklama, kaq pak durim… Ka ardhur koha të ndalet çmenduria.

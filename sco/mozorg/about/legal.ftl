@@ -12,6 +12,3 @@ legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: Aboot Yer Richts
 legal-thunderbird = { -brand-name-thunderbird }
 legal-thunderbird-rights = { -brand-name-thunderbird }: Aboot Yer Richts
-legal-firefox-better-web = { -brand-name-firefox-better-web }
-legal-firefox-light-rights = { -brand-name-firefox-lite }: Aboot Yer Richts
-legal-firefox-reality-rights = { -brand-name-firefox-reality }: Aboot Yer Richts

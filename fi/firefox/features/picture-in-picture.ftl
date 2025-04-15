@@ -10,11 +10,8 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Kuva 
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Onko sinulla tekemistä ja katsottavaa? Tee molemmat käyttämällä  { -brand-name-firefox }in Kuva kuvassa -toimintoa.
 features-pip-picture-in-picture = Kuva kuvassa
-features-pip-new-feature-firefox-multi-picture = Uusi ominaisuus: { -brand-name-firefox }in kuva kuvassa
-features-pip-cool-feature-picture-in-picture = Hieno ominaisuus: Kuva kuvassa
 features-pip-get-more-done-with-pop-out-videos = Saa enemmän aikaan ponnahdusvideoilla
 features-pip-got-things-to-do-do-both-with = Onko sinulla tekemistä ja katsottavaa? Tee molemmat käyttämällä { -brand-name-firefox }in Kuva kuvassa -toimintoa . Sen avulla voit ponnahduttaa videon irti verkkosivusta ja kiinnittää sen näytöllesi, jotta voit jatkaa katsomista samalla, kun olet muilla sivuilla, välilehdillä ja sovelluksissa.
-features-pip-play-the-video = Toista video
 features-pip-heres-how-it-works = Näin se toimii:
 features-pip-play-any-video-in-your-updated = <strong>Toista mitä tahansa videota</strong> { -brand-name-firefox }-selaimessa, esimerkiksi viereistä videota.
 features-pip-play-any-video-in-your = <strong>Toista mitä tahansa videota</strong> { -brand-name-firefox }-selaimessa, kuten viereistä, jossa on punapandanpentuja.

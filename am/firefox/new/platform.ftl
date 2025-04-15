@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = ነፃ የድር አሳሽ
-new-platform-download-firefox = { -brand-name-firefox }ን አውርድ
 new-platform-download-the-fastest = ከመቼውም ጊዜ ፈጣኑን { -brand-name-firefox } አውርድ
 new-platform-faster-page-loading = ፈጣን ገጽ መጫን፣ አነስተኛ የማህደረ ትውስታ አጠቃቀም እና በልዩ ባህሪያት የታጨቀ፣ አዲሱ { -brand-name-firefox } እዚህ አለ።
 new-platform-2x-faster = 2እጥፍ ፈጣን
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = ለ{ -brand-name-linux }፣ ነጻ �
 new-platform-download-the-fastest-linux = የምንግዜም ፈጣኑን { -brand-name-firefox } ለ { -brand-name-linux } አውርድ
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = ፈጣን ገጽ መጫን፣ አነስተኛ የማህደረ ትውስታ አጠቃቀም እና በልዩ ባህሪያት የታጨቀ፣ አዲሱ { -brand-name-firefox } ለ{ -brand-name-linux } እዚህ አለ።
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } ለ { -brand-name-linux }
 new-platform-privacy-more-than = ግላዊነት - ከመመሪያም በላይ
 new-platform-your-life-your-business = ሕይወትዎ ፣ የእርስዎ ጉዳይ ። { -brand-name-firefox } በ{ -brand-name-linux } ላይ የሶስተኛ ወገን መከታተያ ኩኪዎችን ያግዳል።
 new-platform-speed-meet-security = ፍጥነት እንዲሁም ደህንነትን ያሟላ። { -brand-name-firefox } ከ{ -brand-name-chrome } በ30% ባነሰ ማህደረ ትውስታ ሁለት እጥፍ ፈጣን ነው።

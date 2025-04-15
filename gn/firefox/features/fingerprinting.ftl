@@ -5,16 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
-# page title
-features-fingerprinting-what-is-fingerprinting-title = ¿Mba’e umi kuãhũ ñandutigua juhuha (fingerprinting) ha mba’érepa ejokova’erã?
 # page description
 features-fingerprinting-fingerprinting-is-a-desc = Pe ñemokuãhũ (fingerprinting) ñemoheñói ha’e peteĩchagua tapykuehoha ñandutípe imbaretevéva pe tapykuehoha oĩvagui kookie rehegua; upévare { -brand-name-firefox-browser } ojokóma.
 features-fingerprinting-fingerprint-blocking = Ñemokuãhũ jejoko
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } ojoko kuãhũ ñandutigua rapykuehoha (fingerprinting)
-features-fingerprinting-ditch-the-sticky = Ejei umi maranduñemurã nderapykuehóvagui ñemokuãhũ (fingerprinting) jokoha ndive oĩva { -brand-name-firefox } kundahárape.
-# description for the header image
-features-fingerprinting-every-fingerprint = Peteĩteĩva kuãhũ ñandutigua ha’eño.
-features-fingerprinting-download-firefox = Emboguejy { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = ¿Mba’e pe kuãhũ rapykuere jeujhu?
 features-fingerprinting-fingerprinting-is-a = Pe kuãhũ rapykuere (fingerprinting) ñemoheñói ha’e jehapykueho ñandutípe hypy’ũvéva pe jehapykueho jepiguágui kookie rehegua. Pe kuãhũ rapykuere oñemoheñói pe mba’apohaguasu orekóvo mba’ete nemba’éva hardware, software, moĩmbaha ha oikehápe oguerohoryvéva ne mohendaha. Ne ñemboheko, mba’erechaha eiporúvape, teñoiha mohendapyre ne mohendaha ha avei ne ñanduti kundahára jeporavo, ikatu ojeporu oñemoheñói hag̃ua kuãhũ rapykuere.
 features-fingerprinting-if-you-have = Erekórõ mohendaha’i, PC térã smartphone ojeporuvéva, ombohasyvekuaa eikuaa hag̃ua ne mba’e’oka pe kuãhũ kuaaukaha ñemoheñói rupive. Upéicharõ jepe, ha’eñovérõ moĩmbaha, teñoiha ha ñemoĩporã erekóva, ndahasyivéta ehecha hag̃ua. Umi mba’apohaguasu oiporukuaa ko marandu ojueheguáva emoheñói hag̃ua kuãhũ kuaaukaha. Upévare { -brand-name-firefox } ojoko kuãhũ kuaaukaha moheñoihára ojekuaávape, eiporukuaa hag̃ua jepysokue, téma ha ñemboava erohoryvéva nde myangekoi’ỹre maranduñemurã.
@@ -35,4 +29,3 @@ features-fingerprinting-the-latest-firefox = { -brand-name-firefox } kundahára 
 features-fingerprinting-and-its-not = Ha ndaha’éi ñemoĩporã ñomimbyre ehekakuaáva. Pe { -brand-name-firefox } apopyre ipyahuvéva, pe kuãhũ rapykuere jejoko ha’e ñemboheko ypyguáva, ñemoĩmbyre. Eike ne ñemo’ã ñemigua rupápe <a { $url_protections }>ehecha hag̃ua mba’éichapa </a>ohapykueho ehecha’ỹre ha mba’éichapa { -brand-name-firefox } omboykekuaa.
 # $url_download (string) - link to firefox/new
 features-fingerprinting-you-probably-wouldnt = Neremoneĩmo’ãi peteĩva nde rapykuehóvo nde rekovépe. Ndaipóri mba’érepa emoneĩta ñandutípe. Ndereguerekóiramo gueteri { -brand-name-firefox }, <a { $url_download }>emboguejy ha eñemo’ã</a> umi kuãhũ rapykuerégui (fingerprinting).
-features-fingerprinting-protect = Emo’ã ne rekorosãrã

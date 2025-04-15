@@ -8,8 +8,6 @@
 features-private-browsing-private-browsing-mode = Privénavigatiemodus
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox }-privénavigatiemodus
-# HTML page description
-features-private-browsing-firefox-protects = { -brand-name-firefox } beschermt uw online privacy en blokkeert trackers die u overal op het web volgen.
 features-private-browsing-if-you-share-a-computer = Als u een computer met andere mensen deelt of als u wilt beperken hoeveel gegevens websites over u kunnen verzamelen, kunt u de privénavigatiemodus gebruiken in { -brand-name-firefox }. Bij privénavigatie worden de digitale sporen gewist die u achterlaat wanneer u online surft. Zie ze als voetafdrukken door het bos.
 features-private-browsing-what-does-private-browsing-do = Wat doet privénavigatie?
 features-private-browsing-private-browsing-mode-opens-v2 = De privénavigatiemodus opent een nieuw browservenster. Wanneer u het laatste privénavigatievenster sluit, worden uw navigatiegeschiedenis en eventuele volgcookies van door u bezochte websites gewist. <strong>{ -brand-name-firefox } Pro-tip:</strong> vergeet niet al uw privé-navigatievensters te sluiten als u klaar bent!

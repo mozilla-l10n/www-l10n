@@ -10,7 +10,6 @@ welcome-page1-more-than-a-browser-mozilla = 브라우저 그 이상 - { -brand-n
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = { -brand-name-firefox } 제품으로 온라인에서 개인 정보를 보호하기 위한 다음 단계를 수행하세요.
 welcome-page1-stay-ahead-of-hackers-check-v2 = 해커보다 앞서 { -brand-name-mozilla-monitor }로 개인 정보 유출을 점검하세요.
-welcome-page1-youre-on-track-to-stay-protected = 보호 상태를 유지하고 있습니다
 welcome-page1-youve-got-the-web-browser = 개인정보를 보호하는 웹 브라우저입니다 — 이제 여러분이 직접 해커를 감시할 차례입니다.
 welcome-page1-check-your-breach-report = 데이터 유출 보고서 확인
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

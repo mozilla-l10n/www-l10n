@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = Ստացեք { -brand-name-firefox }-ը ձեր ձեռնարկության համար { -brand-name-esr }-ով և արագ թողարկման միջոցով
 firefox-enterprise-get-unmatched-data-protection = Ստացե՛ք տվյալների անհամեմատելի պաշտպանություն թողարկման ռիթմում, որը ձեզ հարմար է { -brand-name-firefox }-ը ձեռնարկատիրության համար: Ներբեռնեք { -brand-name-esr }-ը և արագ թողարկումը:
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Ակնարկ
-firefox-enterprise-downloads = Ներբեռնումներ
 firefox-enterprise-get-firefox-for-your-enterprise = Ստացեք { -brand-name-firefox }-ը ձեր ձեռնարկության համար
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

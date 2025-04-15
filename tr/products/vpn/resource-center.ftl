@@ -9,11 +9,9 @@
 vpn-resource-center-title = VPN Kaynak Merkezi
 vpn-resource-center-whats-the-deal = Sanal özel ağ nedir?
 vpn-resource-center-discover-how-they = Nasıl çalıştığını, neden önemli olduğunu ve VPN kullanmanın size ne gibi faydalar sağlayacağını keşfedin.
-vpn-resource-center-view-all = Tümünü göster
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = Hemen kimliğinizi korumaya başlayın
 vpn-resource-center-obsessed-with = 1998'den beri gizliliğiniz için çalışıyoruz
-vpn-resource-center-get-mozilla-vpn = { -brand-name-mozilla-vpn }’i edinin
 vpn-resource-center-was-this-article = Bu maddeyi yararlı buldunuz mu?
 vpn-resource-center-article-helpful = Yararlı
 vpn-resource-center-article-not-helpful = Yararlı değil

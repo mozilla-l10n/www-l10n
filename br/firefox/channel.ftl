@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Klaskit keweriusterioù nevez er mer
 firefox-channel-download-and-test-future = Pellgargit hag amprouit ermaeziadennoù da zont { -brand-name-firefox } war urzhiataer, { -brand-name-android } hag { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Arnodit keweriusterioù nevez-flamm en ur merdeer rak-ermaeziadenn evit { -brand-name-android }: { -brand-name-firefox-beta } ha { -brand-name-firefox-nightly }. Stailhit anezho bremañ!
 firefox-channel-experience-cutting-edge-android = Arnodit keweriusterioù nevez-flamm en ur merdeer rak-ermaeziadenn evit { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } ha { -brand-name-firefox-nightly }. Stailhit anezho bremañ!
-firefox-channel-download-and-test-the-latest-android = Pellgargit hag amprouit keweriusterioù diwezhañ { -brand-name-firefox } hag { -brand-name-android } gant { -brand-name-aurora }, { -brand-name-beta } ha { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Klaskit keweriusterioù diwezhañ { -brand-name-android }, a-raok na vefent ermaeziet evit peurrest ar bed.
 firefox-channel-all-languages-and-platforms = An holl yezhoù ha savennoù
 firefox-channel-all-languages-and-builds = An holl yezhoù hag handelvoù
@@ -30,7 +29,6 @@ firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } a gas 
 firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }">Roit hoc'h ali</a> evit sikour ac'hanomp da beurlipat an digonusted hag ar c'heweriusterioù en un endro stabil.
 firefox-channel-check-out-new-android-features = Dizoloit keweriusterioù nevez { -brand-name-android } en o fazennoù kentañ, daoust d'ar riskloù.
 firefox-channel-nightly-blog = Blog { -brand-name-nightly }
-firefox-channel-try-new-browser-features = Klaskit keweriusterioù nevez en handelvoù rak-ermaeziadenn | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Arnodit keweriusterioù nevez-flamm en handelvoù rak-ermaeziadenn: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } ha { -brand-name-firefox-nightly }. Pellgargit bremañ!
 firefox-channel-download-and-test-the-latest-desktop = Pellgargit hag amprouit ar c'heweriusterioù diwezhañ war { -brand-name-firefox } war urzhiataer gant an { -brand-name-developer-edition }, { -brand-name-beta } hag an handelvoù { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

@@ -8,25 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = קבלת { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = הצטרפות לרשימה ההמתנה
-vpn-shared-available-countries-v6 = כרגע אנו מציעים את { -brand-name-mozilla-vpn } באוסטריה, בלגיה, בולגריה, קנדה, קרואטיה, קפריסין, צ'כיה, דנמרק, אסטוניה, פינלנד, צרפת, גרמניה, הונגריה, אירלנד, איטליה, לטביה, ליטא, לוקסמבורג, מלזיה, מלטה, הולנד, ניו זילנד, פולין, פורטוגל, רומניה, סינגפור, סלובניה, סלובקיה, ספרד, שוודיה, שוויץ, בריטניה וארה״ב.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = החזר כספי מובטח תוך 30 יום
-vpn-shared-features-encrypt = הצפנה ברמת המכשיר
-vpn-shared-features-bandwidth = ללא הגבלות רוחב פס
-vpn-shared-features-activity = ללא רישום של הפעילות שלך ברשת
-vpn-shared-features-activity-logs = ללא יומני פעילות מקוונת עכשיו או אי פעם
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = גישה לשרתים בלמעלה מ־{ $countries } מדינות
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = הגנה עבור עד { $devices } מכשירים
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = שרתים חזקים בלמעלה מ־{ $countries } מדינות
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = חיבור עד { $devices } מכשירים
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = החזר כספי מובטח תוך 30 יום
 vpn-shared-privacy-notice = הצהרת פרטיות
@@ -65,12 +48,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = ‏{ -brand-name-mozilla-vpn } ע�
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = בואו נתחיל
 vpn-shared-platform-cta-button = הצגת תמחור וזמינות
-vpn-shared-platform-privacy-promise = הפרטיות שלך היא ההבטחה שלנו
 vpn-shared-platform-what-is = מהו { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = למה { -brand-name-mozilla-vpn }?
-vpn-shared-platform-what-youll-get = מה כלול ב־{ -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = מידע נוסף על VPN

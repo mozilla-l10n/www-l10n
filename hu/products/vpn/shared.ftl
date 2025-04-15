@@ -8,25 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } beszerzése
 vpn-shared-waitlist-link = Csatlakozzon a várólistához
-vpn-shared-available-countries-v6 = Jelenleg a { -brand-name-mozilla-vpn }-t Ausztriában, Belgiumban, Bulgáriában, Kanadában, Horvátországban, Cipruson, a Cseh Köztársaságban, Dániában, Észtországban, Finnországban, Franciaországban, Németországban, Magyarországon, Írországban, Olaszországban, Lettországban, Litvániában, Luxemburgban, Malajziában, Máltán, Hollandiában, Új-Zélandon, Lengyelországban, Portugáliában, Romániában, Szingapúrban, Szlovéniában, Szlovákiában, Spanyolországban, Svédországban, Svájcban, az Egyesült Királyságban és az USA-ban kínáljuk.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 napos pénzvisszafizetési garancia
-vpn-shared-features-encrypt = Eszközszintű titkosítás
-vpn-shared-features-bandwidth = Nincs sávszélesség-korlátozás
-vpn-shared-features-activity = Nincs hálózati forgalom naplózás
-vpn-shared-features-activity-logs = Nem naplózzuk az online tevékenységet, sem most, sem később
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = Kapcsolódás kiszolgálókhoz { $countries }+ országban
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = Védelem akár { $devices } eszköznek
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = Erős kiszolgálók { $countries }+ országban
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = Csatlakoztasson akár { $devices } eszközt
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30 napos pénzvisszafizetési garancia
 vpn-shared-privacy-notice = Adatvédelmi nyilatkozat
@@ -65,12 +48,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = A { -brand-name-mozilla-vpn } még
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = Kezdjen neki
 vpn-shared-platform-cta-button = Árak és elérhetőség megtekintése
-vpn-shared-platform-privacy-promise = Az adatvédelem az ígéretünk
 vpn-shared-platform-what-is = Mi a { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Miért a { -brand-name-mozilla-vpn }?
-vpn-shared-platform-what-youll-get = Mit kap a { -brand-name-mozilla-vpn }-től:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Tudjon meg többet a VPN-ekről

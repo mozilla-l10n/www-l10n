@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = 광고 차단기로 성가신 광고를 차단하는 방법
 features-adblocker-how-to-stop-seeing-too = 지나치게 많은 광고를 보거나 추적당하지 않도록 막는 방법. { -brand-name-firefox } 웹 브라우저가 광고 차단 가이드를 제시합니다.
 features-adblocker-the-ad-blocker-a-secret = 광고 차단은 성가신 광고에 대항하는 비밀 무기입니다.
 features-adblocker-so-many-ads-so-little = 너무 많은 광고, 한계에 다다른 인내심…이젠 이 답답함에서 벗어날 시간입니다.

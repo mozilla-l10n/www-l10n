@@ -9,6 +9,5 @@
 get-ios-firefox-for-ios = { -brand-name-firefox-browser } foar { -brand-name-ios }
 # HTML page description
 get-ios-firefox-is-fast = { -brand-name-firefox } foar { -brand-name-ios } is fluch, feilich en privee fan it momint ôf dat jo it foar de earste kear iepenje.
-get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = Download { -brand-name-firefox } foar { -brand-name-ios }
 get-ios-firefox-mobile-adapts = { -brand-name-firefox } mobyl past him oan jo oan en makket it makliker as ea om al jo iepene ljepblêden, eardere sykopdrachten en favorite websites te besjen.

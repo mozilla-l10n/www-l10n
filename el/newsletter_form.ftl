@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = Θα σας στέλνουμε μ
 newsletter-form-if-you-havent-previously = Αν δεν έχετε επιβεβαιώσει ήδη τη συνδρομή σας σε κάποιο ενημερωτικό δελτίο της { -brand-name-mozilla }, ίσως χρειαστεί να το κάνετε. Ελέγξτε τα εισερχόμενα ή τον φάκελο ανεπιθύμητων μηνυμάτων σας για ένα email από εμάς.
 newsletter-form-firefox-and-you = <span>Το { -brand-name-firefox }</span> + Εσείς
 newsletter-form-get-firefox-tips = Λάβετε συμβουλές, κόλπα, ειδήσεις και πολλά άλλα για το { -brand-name-firefox }
-newsletter-form-keep-up-with = Μη χάσετε <br> τα νέα του { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Λάβετε ενημερώσεις από το έργο { -brand-name-mozilla }
 newsletter-form-available-languages = Διαθέσιμες γλώσσες
 newsletter-form-select-country = Επιλογή χώρας

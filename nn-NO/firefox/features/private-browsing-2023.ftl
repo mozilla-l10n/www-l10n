@@ -8,8 +8,6 @@
 features-private-browsing-private-browsing-mode = Privat nettlesingsmodus
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox } privat nettlesingsmodus
-# HTML page description
-features-private-browsing-firefox-protects = { -brand-name-firefox } vernar om privatlivet ditt og blokkerer sporarar som følgjer deg rundt om på nettet.
 features-private-browsing-if-you-share-a-computer = Om du deler ei datamaskin med andre personar eller om du vil avgrense kor mykje data nettstadar kan samle inn om deg kan du bruke privat nettlesingsmodus i { -brand-name-firefox }. Privat surfing slettar dei digitale spora du etterlèt deg når du surfar på nettet — tenk på dei som fotspor gjennom skogen.
 features-private-browsing-what-does-private-browsing-do = Kva gjer privat nettlesing?
 features-private-browsing-private-browsing-mode-opens-v2 = Privat nettlesing opnar eit nytt nettlesarvindauge. Når du lèt att det sista private nettlesarvindauget, vert nettlesarhistorikken din sletta, og eventuelle infokapslar frå nettstadar du besøkte. <strong>{ -brand-name-firefox } Profftips:</strong> Gløym ikkje å late att alle dei private nettlesarvindauga dine når du er ferdig!

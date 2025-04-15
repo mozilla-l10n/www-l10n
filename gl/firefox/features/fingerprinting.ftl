@@ -5,5 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
-features-fingerprinting-download-firefox = Descargar o { -brand-name-firefox }
-features-fingerprinting-protect = Protexa a súa privacidade

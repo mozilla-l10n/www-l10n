@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = วิธีปิดกั้นโฆษณาที่น่ารำคาญโดยใช้ตัวปิดกั้นโฆษณา
 features-adblocker-how-to-stop-seeing-too = วิธีหยุดเห็นโฆษณามากเกินไปและป้องกันไม่ให้บริษัทต่าง ๆ ติดตามคุณในโลกออนไลน์ คำแนะนำตัวปิดกั้นโฆษณาจากเว็บเบราว์เซอร์ { -brand-name-firefox }
 features-adblocker-the-ad-blocker-a-secret = ตัวปิดกั้นโฆษณา อาวุธลับป้องกันโฆษณาที่น่ารำคาญ
 features-adblocker-so-many-ads-so-little = ยิ่งมีโฆษณาเยอะ ก็ยิ่งมีความอดทนน้อยลง… ถึงเวลาแล้วที่จะหยุดความบ้าคลั่ง

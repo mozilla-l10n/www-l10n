@@ -26,14 +26,7 @@ firefox-all-product-send-link = اپنے فون پر ڈاؤن لوڈ کا ربط
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32 بٹ پروسیسر والے کمپیوٹرز کے ل 32 32 بٹ انسٹالر کا انتخاب کریں۔ یا زیادہ پرانے یا کم طاقت ور کمپیوٹرز کے لئے۔ <a href="{ $url }"> اگر آپ کو یقین نہیں ہے </a> اگر 64 بٹ یا 32 بٹ انسٹالر کا انتخاب کریں تو ، ہم آپ کو 32 بٹ کے ساتھ جانے کی تجویز کریں گے۔
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = { $product_label } کے لیے { $platform } پر { $locale } میںدوولوڈ کریں
 firefox-all-msi-installers = MSI انسٹالرز
-firefox-all-which-version = آپ کون سا ورژن پسند کریں گے؟
-firefox-all-select-your-preferred-installer = اپنا پسندیدہ انسٹالر منتخب کریں
 firefox-all-select-your-preferred-language = اپنا پسندیدہ زبان منتخب کریں
 firefox-all-learn-about-installers = انسٹالرز کے بارے میں جانیں
 firefox-all-product-firefox = { -brand-name-firefox }

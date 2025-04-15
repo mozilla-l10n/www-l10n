@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = የማስታወቂያ ማገጃን በመጠቀም የሚያናድዱ ማስታወቂያዎችን እንዴት ማገድ እንደሚቻል
 features-adblocker-how-to-stop-seeing-too = እንዴት ነው ብዙ ማስታወቂያዎችን ከማየት ማስቆም እና ካምፓኒዎች በመስመር ላይ የእርስዎን ዱካ እንዳይከተሉ ማድረግ የሚችሉት። የማስታወቂያ ማገጃ መመሪያ ከ{ -brand-name-firefox } ድረ-ገፅ ማሰሻ ላይ ያንብቡ።
 features-adblocker-the-ad-blocker-a-secret = የማስታወቂያ ማገጃ - የሚያበሳጩ ማስታወቂያዎችን የሚከላከል ሚስጥራዊ መሣሪያ።
 features-adblocker-so-many-ads-so-little = ብዙ ማስታወቂያዎች ፣ ስለዚህ ትንሽ ትዕግስት… እብደትን ለማቆም ጊዜው አሁን ነው።

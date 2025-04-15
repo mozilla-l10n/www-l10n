@@ -5,8 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
-firefox-desktop-download-yes = Gā’hue
-firefox-desktop-download-no = Sī ga’hue
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 

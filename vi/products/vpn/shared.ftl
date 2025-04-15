@@ -8,25 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Sử dụng { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Tham gia danh sách chờ
-vpn-shared-available-countries-v6 = Chúng tôi hiện đang cung cấp { -brand-name-mozilla-vpn } tại Áo, Bỉ, Bulgaria, Canada, Croatia, Síp, Cộng hòa Séc, Đan Mạch, Estonia, Phần Lan, Pháp, Đức, Hungary, Ireland, Ý, Latvia, Litva, Luxembourg, Malaysia, Malta, Hà Lan, New Zealand, Ba Lan, Bồ Đào Nha, Romania, Singapore, Slovenia, Slovakia, Tây Ban Nha, Thụy Điển, Thụy Sĩ, Vương quốc Anh và Hoa Kỳ.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Đảm bảo hoàn tiền trong 30 ngày
-vpn-shared-features-encrypt = Mã hóa cấp độ thiết bị
-vpn-shared-features-bandwidth = Không hạn chế băng thông
-vpn-shared-features-activity = Không ghi nhật ký hoạt động mạng của bạn
-vpn-shared-features-activity-logs = Không có nhật ký hoạt động trực tuyến nào ngay bây giờ hoặc từ trước đến nay
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = Truy cập vào máy chủ ở hơn { $countries } quốc gia
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = Bảo vệ lên đến { $devices } thiết bị
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = Máy chủ mạnh ở hơn { $countries } quốc gia
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = Kết nối lên đến { $devices } thiết bị
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = Đảm bảo hoàn tiền trong 30 ngày
 vpn-shared-privacy-notice = Thông báo bảo mật
@@ -65,12 +48,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } hiện
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = Hãy bắt đầu
 vpn-shared-platform-cta-button = Xem giá cả & tình trạng còn hàng
-vpn-shared-platform-privacy-promise = Sự riêng tư của bạn là sứ mệnh của chúng tôi
 vpn-shared-platform-what-is = { -brand-name-mozilla-vpn } là gì?
 vpn-shared-platfrom-why-choose = Tại sao nên dùng { -brand-name-mozilla-vpn }?
-vpn-shared-platform-what-youll-get = Những gì bạn sẽ nhận được với { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Tìm hiểu thêm về VPN

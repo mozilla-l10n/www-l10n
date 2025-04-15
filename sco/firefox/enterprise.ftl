@@ -6,7 +6,6 @@
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-downloads = Doonloads
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } doonloads
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }

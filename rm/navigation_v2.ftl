@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = Telechargiar { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Utilisar ussa { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menu
 
@@ -76,11 +75,7 @@ navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-editio
 navigation-v2-get-the-firefox-browser-built = Va per il navigatur { -brand-name-firefox } creà aposta per sviluppaders.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = L'adressa cun resursas per sviluppaders dal web.
-navigation-v2-firefox-reality = { -brand-name-firefox-reality }
-navigation-v2-explore-the-web-with-the = Explorescha il web cun il navigatur { -brand-name-firefox } per la realitad virtuala.
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Dà tia vusch per ch'il web da l'avegnir possia udir e chapir ina e mintgin.
-navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-learn-more-about-the-new = Ve a savair dapli dal nov linguatg da nivel bass en stil assembly.
 navigation-v2-mozilla-innovation-projects = Projects d’innovaziun da { -brand-name-mozilla }
 navigation-v2-discover-ways-to-bring = Ve a savair co dar vita ad ideas brigliantas.

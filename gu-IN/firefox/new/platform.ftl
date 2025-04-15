@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = મફત વેબ બ્રાઉઝર
-new-platform-download-firefox = { -brand-name-firefox } ડાઉનલોડ કરો
 new-platform-download-the-fastest = અત્યાર સુધીનુ સૌથી ઝડપી { -brand-name-firefox } ડાઉનલોડ કરો
 new-platform-faster-page-loading = ઝડપી પૃષ્ઠ લોડ કરવું, ઓછું મેમરી વપરાશ અને સુવિધાઓ સાથે પેક, નવુ { -brand-name-firefox } અહીં છે.
 new-platform-2x-faster = 2x ઝડપી
@@ -22,8 +21,6 @@ new-platform-need-help = મદદની જરૂર છે?
 new-platform-download-mozilla-linux = { -brand-name-linux } માટે { -brand-name-mozilla } { -brand-name-firefox } ડાઉનલોડ કરો
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = { -brand-name-linux } માટે સૌથી ઝડપી { -brand-name-firefox } ડાઉનલોડ કરો
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-linux } માટે { -brand-name-firefox }
 new-platform-privacy-more-than = ગોપનીયતા - નીતિ કરતાં વધુ
 new-platform-your-life-your-business = તમારું જીવન, તમારો વ્યવસાય. { -brand-name-firefox } { -brand-name-linux } પર તૃતીય પક્ષ ટ્રેકિંગ કુકીઝને અવરોધિત કરે છે.
 new-platform-open-source = Open source

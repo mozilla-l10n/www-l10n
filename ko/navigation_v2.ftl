@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = { -brand-name-firefox } 다운로드
 navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } 받기
 navigation-v2-menu = 메뉴
 
@@ -76,11 +75,7 @@ navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-editio
 navigation-v2-get-the-firefox-browser-built = 개발자 전용으로 제작 된 { -brand-name-firefox } 브라우저를 받으세요.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = 웹 개발자 자료의 시작을 살펴 보세요.
-navigation-v2-firefox-reality = { -brand-name-firefox-reality }
-navigation-v2-explore-the-web-with-the = 가상 현실용 { -brand-name-firefox } 브라우저로 웹을 탐색하세요.
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = 웹의 미래가 모두의 말소리를 들을 수 있도록 목소리를 기부하세요.
-navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-learn-more-about-the-new = 새로운 로우 레벨, 어셈블리어와 유사한 언어에 대해 자세히 알아보세요.
 navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } 혁신 프로젝트
 navigation-v2-discover-ways-to-bring = 기발한 아이디어를 실현하는 방법을 찾아보세요.

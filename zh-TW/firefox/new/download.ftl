@@ -25,9 +25,6 @@ firefox-new-need-help = 需要幫忙嗎？
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">不再針對 { -brand-name-windows } { -brand-name-xp } 或 { -brand-name-vista } 平台提供安全性更新</a>，但您還是可以使用已安裝的 { -brand-name-firefox }。
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = 將自動開始下載，若沒有的話請<a id="{ $id }" href="{ $fallback_url }">點擊此處再試一次</a>。
@@ -36,9 +33,6 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } 不只是�
 firefox-new-download-interrupted = 下載已中斷，但已下載的部分將保留。
 firefox-new-download-almost-there = 快完成了！
 firefox-new-download-select-linux = 請選擇下載選項
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = 請依照<a href="{ $url }">此步驟</a>安裝 { -brand-name-firefox }。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = 您的系統可能不符合執行 { -brand-name-firefox } 的最低需求，但還是可以試試<a href="{ $url }">這些版本</a>。

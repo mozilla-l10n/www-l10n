@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = 下載 { -brand-name-firefox } 正體中文版。另外還有超過 90 種語言版本。
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = 不論使用哪種語言，每個人都應該有上網的權利。這也就是為什麼我們要透過全球志工的協助，推出超過 90 種語言版本的 { -brand-name-firefox }。
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = 掃描 QR Code下載 <em>{ $product_name }</em>
 firefox-all-choose-browser = 選擇一套瀏覽器以繼續
 firefox-all-choose-platform = 選擇一種平台以繼續
 firefox-all-choose-language = 選擇一種語言以繼續
@@ -69,14 +66,7 @@ firefox-all-product-send-link = 傳送下載鏈結到您的手機
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 若電腦使用的是 32 位元處理器，請選擇 32 位元版本安裝程式。一般為較舊或較低階的電腦適用。<a href="{ $url }">若您不確定該挑 64 或 32 位元安裝程式</a>，建議您先選 32 位元版本。
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = 下載 { $platform } 平台的 { $locale } 版 { $product_label }
 firefox-all-msi-installers = MSI 格式安裝程式
-firefox-all-which-version = 您想要哪種版本？
-firefox-all-select-your-preferred-installer = 選擇安裝程式類型
 firefox-all-select-your-preferred-language = 選擇想使用的語言
 firefox-all-learn-about-installers = 了解安裝程式類型
 firefox-all-product-firefox = { -brand-name-firefox }

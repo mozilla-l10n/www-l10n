@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Free Wab Stravaiger
-new-platform-download-firefox = Doonload { -brand-name-firefox }
 new-platform-download-the-fastest = Doonload the fastest { -brand-name-firefox } yet
 new-platform-faster-page-loading = Faster page loadin, less memory yaise and hoachin wi featurs, the new { -brand-name-firefox } is here.
 new-platform-2x-faster = 2x Mair Fast
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Doonload { -brand-name-mozilla } { -b
 new-platform-download-the-fastest-linux = Doonload the fastest { -brand-name-firefox } fur { -brand-name-linux } ever
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Faster page loadin, less memory yaise and hoachin wi featurs, the new { -brand-name-firefox } fur { -brand-name-linux } is here.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } fur { -brand-name-linux }
 new-platform-privacy-more-than = Privacy - mair than jist a policy
 new-platform-your-life-your-business = Yer life is yer business. { -brand-name-firefox } blocks third-pairty trackin cookies on { -brand-name-linux }.
 new-platform-speed-meet-security = Speed, meet siccarness. { -brand-name-firefox } is twa times faster wi 30% less memory than { -brand-name-chrome }.

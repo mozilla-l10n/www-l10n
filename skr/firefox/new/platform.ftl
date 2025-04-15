@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = آزاد ویب براؤزر
-new-platform-download-firefox = { -brand-name-firefox } ڈاؤن لوڈ کرو
 new-platform-download-the-fastest = ہݨ تائیں دا تکھا ترین { -brand-name-firefox } ڈاؤن لوڈ کرو
 new-platform-faster-page-loading = ورقہ دی تکھی لوڈنگ، میموری دا کم استعمال تے خصوصیات نال بھریا ہویا، نواں { -brand-name-firefox } اتھاں ہے۔
 new-platform-2x-faster = ݙوڑا تکھا
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = ہک مفت ویب براؤزر { -br
 new-platform-download-the-fastest-linux = { -brand-name-linux } کیتے ہݨ تائیں دا تکھا ترین { -brand-name-firefox } ڈاؤن لوڈ کرو
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = ورقہ دی تکھی لوڈنگ، میموری دا گھٹ استعمال تے خصوصیات نال بھریا ہویا، { -brand-name-linux } کیتے نواں { -brand-name-firefox } اتھاں ہے۔
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-linux } کیتے { -brand-name-firefox }
 new-platform-privacy-more-than = رازداری ــ پالیسی کنوں ودھ
 new-platform-your-life-your-business = تہاݙی زندگی، تہاݙا کاروبار۔ { -brand-name-firefox } تریاکل دیاں ٹریکنگ کوکیاں کوں { -brand-name-linux } تے روکیندا ہے۔
 new-platform-speed-meet-security = رفتار، سیکورٹی کوں پورا کرو. { -brand-name-firefox } { -brand-name-chrome } کنوں 30% گھٹ میموری دے نال ݙو گنا تیز ہے۔

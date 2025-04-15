@@ -9,7 +9,6 @@ firefox-accounts-enter-your-email-address = Skriv inn e-postadressen din for å 
 firefox-accounts-already-have-an-account = Har du allerede en konto?
 firefox-accounts-sign-in = Logg inn
 firefox-accounts-keep-your-passwords = Beskytt passordene dine og ta de med overalt.
-firefox-accounts-get-a-lookout-for = Hold øye med datalekkasjer.
 firefox-accounts-travel-the-internet = Surf på nettet med beskyttelse, på alle enheter.
 firefox-accounts-get-it-all-on-every = Få alt på alle enheter, uten å føle deg fanget av et enkelt operativsystem.
 

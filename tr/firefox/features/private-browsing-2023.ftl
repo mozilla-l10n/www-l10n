@@ -8,8 +8,6 @@
 features-private-browsing-private-browsing-mode = Gizli gezinti modu
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox } gizli gezinti modu
-# HTML page description
-features-private-browsing-firefox-protects = { -brand-name-firefox } çevrimiçi gizliliğinizi korur ve web’de sizi takip eden takip kodlarını engeller.
 features-private-browsing-if-you-share-a-computer = Bilgisayarınızı başkalarıyla paylaşıyorsanız veya web sitelerinin hakkınızda toplayabilecekleri verileri sınırlamak istiyorsanız { -brand-name-firefox }’ta gizli gezinti modunu kullanabilirsiniz. Gizli gezinti, internette gezinirken arkanızda bıraktığınız izleri siler.
 features-private-browsing-what-does-private-browsing-do = Gizli gezinti ne işe yarar?
 features-private-browsing-private-browsing-mode-opens-v2 = Gizli gezinti modu yeni bir tarayıcı penceresi açar. Açık olan son gizli gezinti penceresini kapattığınızda gezinti geçmişiniz ve ziyaret ettiğiniz web sitelerinden gelen takip çerezleri silinecektir. <strong>{ -brand-name-firefox } ipucu:</strong> İşiniz bitince tüm gizli gezinti pencerelerinizi kapatmayı unutmayın!

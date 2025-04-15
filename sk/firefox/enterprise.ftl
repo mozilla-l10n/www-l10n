@@ -8,8 +8,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = Získajte { -brand-name-firefox } pre svoj podnik - { -brand-name-esr } alebo klasickú verziu
 firefox-enterprise-get-unmatched-data-protection = Získajte bezkonkurenčnú ochranu údajov pri kadencii vydania, ktorá vám vyhovuje s prehliadačom { -brand-name-firefox } pre podniky. Vyberte si { -brand-name-esr } alebo klasickú verziu.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Prehľad
-firefox-enterprise-downloads = Stiahnuť
 firefox-enterprise-get-firefox-for-your-enterprise = Získajte { -brand-name-firefox } pre svoj podnik
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel

@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Hogyan blokkolhatja a bosszantó hirdetéseket egy reklámblokkoló használatával
 features-adblocker-how-to-stop-seeing-too = Hogyan állíthatja meg a túl sok hirdetést, és a cégeket, melyek követik Önt online. Reklámblokkolási útmutató a { -brand-name-firefox } webböngészőtől.
 features-adblocker-the-ad-blocker-a-secret = A reklámblokkoló – titkos fegyver a bosszantó hirdetések ellen.
 features-adblocker-so-many-ads-so-little = Oly sok hirdetés, oly kevés türelem… Ideje véget vetni az őrületnek.

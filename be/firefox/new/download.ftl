@@ -25,18 +25,12 @@ firefox-new-need-help = Патрэбна дапамога?
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">больш не выпускае абнаўленні бяспекі</a> на { -brand-name-windows } { -brand-name-xp } ці { -brand-name-vista }, але вы ўсё яшчэ можаце карыстацца { -brand-name-firefox }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Ваша сцягванне пачнецца аўтаматычна. Не робіць? <a id="{ $id }" href="{ $fallback_url }">Паспрабуйце яшчэ раз</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } - гэта больш, чым браўзер.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Сцягванне была перарвана. Але яшчэ не ўсё страчана.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = Калі ласка, прытрымлівайцеся <a href="{ $url }">гэтых інструкцый</a>, каб усталяваць { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Ваша сістэма можа не задавальняць патрабаванням { -brand-name-firefox }, але вы можаце паспрабаваць адну з <a href="{ $url }">гэтых версій</a>:

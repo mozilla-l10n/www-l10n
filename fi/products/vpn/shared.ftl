@@ -8,25 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Hanki { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Liity odotuslistalle
-vpn-shared-available-countries-v6 = { -brand-name-mozilla-vpn } on tällä hetkellä saatavilla Alankomaissa, Belgiassa, Bulgariassa, Espanjassa, Irlannissa, Iso-Britanniassa, Italiassa, Itävallassa, Kanadassa, Kroatiassa, Kyproksella, Latviassa, Liettuassa, Luxemburgissa, Malesiassa, Maltalla, Puolassa, Portugalissa, Ranskassa, Ruotsissa, Romaniassa, Saksassa, Singaporessa, Sloveniassa, Slovakiassa, Suomessa, Sveitsissä, Tanskassa, Tšekissä, Uudessa-Seelannissa, Unkarissa, Virossa ja Yhdysvalloissa.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 päivän rahat takaisin -takuu
-vpn-shared-features-encrypt = Laitetason salaus
-vpn-shared-features-bandwidth = Ei kaistanleveysrajoituksia
-vpn-shared-features-activity = Verkkotoimintojasi ei kirjata lokiin
-vpn-shared-features-activity-logs = Ei verkkotapahtumien lokeja nyt eikä koskaan
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = Pääsy palvelimiin { $countries }+ maassa
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = Suojaus jopa { $devices } laitteelle
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = Kykenevät palvelimet { $countries }+ maassa
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = Yhdistä enintään { $devices } laitetta
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30 päivän rahat takaisin -takuu
 vpn-shared-privacy-notice = Tietosuojakäytäntö
@@ -65,12 +48,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } ei ole
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = Aloitetaan
 vpn-shared-platform-cta-button = Katso hinnat ja saatavuus
-vpn-shared-platform-privacy-promise = Yksityisyytesi on lupauksemme
 vpn-shared-platform-what-is = Mikä on { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Miksi { -brand-name-mozilla-vpn }?
-vpn-shared-platform-what-youll-get = Tämän saat { -brand-name-mozilla-vpn }:llä:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Lisätietoja VPN:istä

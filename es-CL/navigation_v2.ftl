@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = Bajar { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Obtener { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menú
 
@@ -76,11 +75,7 @@ navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-editio
 navigation-v2-get-the-firefox-browser-built = Obtén el navegador{ -brand-name-firefox } construido solo para desarrolladores.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = Revisá el hogar de los recursos para el desarrollador web.
-navigation-v2-firefox-reality = { -brand-name-firefox-reality }
-navigation-v2-explore-the-web-with-the = Explora la web con el navegador { -brand-name-firefox } para la realidad virtual.
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Dona tu voz para que el futuro de la web pueda escucharlos a todos.
-navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-learn-more-about-the-new = Conocé más acerca del nuevo lenguaje de nivel bajo, parecido al ensamblador.
 navigation-v2-mozilla-innovation-projects = Proyectos de innovación de { -brand-name-mozilla }
 navigation-v2-discover-ways-to-bring = Descubre formas de dar vida a tus ideas brillantes.

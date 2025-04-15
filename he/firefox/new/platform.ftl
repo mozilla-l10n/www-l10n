@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = דפדפן אינטרנט חינמי
-new-platform-download-firefox = הורדת { -brand-name-firefox }
 new-platform-download-the-fastest = הורידו את ה־{ -brand-name-firefox } המהיר ביותר אי פעם
 new-platform-faster-page-loading = טעינת דפים מהירה יותר, פחות שימוש בזיכרון ושלל תכונות חדשות, ה־{ -brand-name-firefox } החדש כאן.
 new-platform-2x-faster = מהיר כפליים
@@ -24,8 +23,6 @@ new-platform-download-mozilla-linux = הורדת { -brand-name-mozilla } { -bran
 new-platform-download-mozilla-desc-linux = הורידו את { -brand-name-mozilla } { -brand-name-firefox } עבור { -brand-name-linux }, הדפדפן החופשי. { -brand-name-firefox } נוצר על־ידי קהילה עולמית שאינה למטרות רווח שמטרתה לתת לכולנו שליטה מקוונת. הורידו את { -brand-name-firefox } עבור { -brand-name-linux } עוד היום!
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = הורידו את ה־{ -brand-name-firefox } עבור { -brand-name-linux } המהיר ביותר אי פעם
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } עבור { -brand-name-linux }
 new-platform-open-source = קוד פתוח
 
 ## Mac

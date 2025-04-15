@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Išbandykite naujoves negalutinėse 
 firefox-channel-download-and-test-future = Parsisiųskite ir išbandykite būsimąsias „{ -brand-name-firefox }“ laidas savo kompiuteryje, „{ -brand-name-android }“ ar „{ -brand-name-ios }“ įrenginyje.
 firefox-channel-experience-cutting-edge-android-updated = Išbandykite šviežiausias naujoves negalutinėse „{ -brand-name-android }“ naršyklės versijose: „{ -brand-name-firefox-beta }“ ir „{ -brand-name-firefox-nightly }“. Įsidiekite dabar!
 firefox-channel-experience-cutting-edge-android = Išbandykite šviežiausias naujoves negalutinėse „{ -brand-name-android }“ naršyklės versijose: „{ -brand-name-firefox-beta }“, „{ -brand-name-firefox-aurora }“ ir „{ -brand-name-firefox-nightly }“. Įsidiekite dabar!
-firefox-channel-download-and-test-the-latest-android = Parsisiųskite ir išbandykite šviežiausias „{ -brand-name-firefox }“ „{ -brand-name-android }“ įrenginiams naujoves „{ -brand-name-aurora }“, „{ -brand-name-beta }“ ir „{ -brand-name-nightly }“ dariniuose.
 firefox-channel-try-the-latest-android-features = Išbandykite šviežiausias „Firefox“ naujoves „{ -brand-name-android }“ platformoje, prieš joms pasiekiant visų kitų išmaniuosius įrenginius.
 firefox-channel-all-languages-and-platforms = Visos kalbos ir platformos
 firefox-channel-all-languages-and-builds = Visos kalbos ir platformos
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = „{ -brand-name-nightly }“ tinklaraštis
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = „{ -brand-name-nightly }“ yra nestabili programa, skirta testuotojams ir programuotojams. Numatytuoju atveju „{ -brand-name-nightly }“ siunčia duomenis „{ -brand-name-mozilla }i“ – ir kartais mūsų partneriams – taip padėdama mums spręsti problemas ir išbandyti naujas idėjas. <a href="{ $link }">Sužinkokite, kokia informacija siunčiama</a>.
 firefox-channel-firefox-nightly-automatically = „{ -brand-name-firefox-nightly }“ automatiškai siunčia informaciją „{ -brand-name-mozilla }i“.
-firefox-channel-try-new-browser-features = Išbandykite naujoves negalutinėse naršyklės versijose | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Išbandykite pačias šviežiausias naujoves negalutinėse „Firefox“ naršyklės versijose: „{ -brand-name-firefox-developer-edition }“, „{ -brand-name-firefox-beta }“ ir „{ -brand-name-firefox-nightly }“. Parsisiųskite dabar!
 firefox-channel-download-and-test-the-latest-desktop = Parsisiųskite ir išbandykite šviežiausias „{ -brand-name-firefox }“ naujoves „{ -brand-name-developer-edition }“, „{ -brand-name-beta }“ ir „{ -brand-name-nightly }“ dariniuose.
 firefox-channel-beta = { -brand-name-beta }

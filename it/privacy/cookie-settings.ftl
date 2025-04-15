@@ -39,11 +39,6 @@ cookie-settings-category-analytics-what-are-subheading = Che cosa sono i cookie 
 cookie-settings-category-analytics-what-are-desc = Queste tecnologie raccolgono informazioni sul modo in cui le persone utilizzano i siti web, come le pagine visitate, i link su cui si è fatto clic e da quali altri siti web provengono le visite.
 cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } utilizza le statistiche per capire in che modo gli utenti interagiscono con i suoi siti web, in modo da poterli migliorare e risolvere eventuali problemi. Possiamo anche utilizzare i dati provenienti da cookie, informazioni sul dispositivo e indirizzi IP per aiutarci a capire in che modo gli utenti interagiscono con i nostri prodotti, servizi, comunicazioni, siti web, campagne online, dispositivi e altre piattaforme. Raccoglieremo statistiche e imposteremo cookie analitici solo con il tuo consenso.
 
-## Consent section
-
-cookie-settings-your-consent-heading = Il tuo consenso
-cookie-settings-your-consent-desc = Accettando l’utilizzo dei cookie, fornisci il tuo consenso per il seguente elenco di siti web { -brand-name-mozilla }. Tutti i siti seguono gli stessi rigorosi standard in materia di privacy dei dati. È importante notare che questo elenco potrebbe essere aggiornato nel tempo.
-
 ## Privacy section
 
 cookie-settings-privacy-heading = La nostra informativa sulla privacy

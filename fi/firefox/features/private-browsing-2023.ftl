@@ -8,8 +8,6 @@
 features-private-browsing-private-browsing-mode = Yksityinen selaus
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox }in yksityinen selaustila
-# HTML page description
-features-private-browsing-firefox-protects = { -brand-name-firefox } suojelee yksityisyyttäsi verkossa ja estää sinua verkossa seuraavat seurantaohjelmat.
 features-private-browsing-if-you-share-a-computer = Jos jaat tietokoneen muiden ihmisten kanssa tai jos haluat rajoittaa sitä, kuinka paljon tietoa verkkosivustot voivat kerätä sinusta, voit käyttää { -brand-name-firefox }in yksityistä selaustilaa. Yksityinen selaus poistaa digitaaliset jäljet, jotka jätät taaksesi, kun selaat verkkoa – ajattele niitä ikään kuin jalanjälkinä metsäpolulla.
 features-private-browsing-what-does-private-browsing-do = Mitä yksityinen selaus tekee?
 features-private-browsing-private-browsing-mode-opens-v2 = Yksityinen selaustila avaa uuden selainikkunan. Kun suljet viimeisen yksityisen selausikkunan, selaushistoriasi ja kaikki vierailemiesi verkkosivustojen seurainevästeet poistetaan. <strong>{ -brand-name-firefox }-vinkki:</strong> Muista sulkea kaikki yksityiset selausikkunasi, kun lopetat selaamisen!

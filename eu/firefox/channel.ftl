@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Probatu eginbide berriak { -brand-na
 firefox-channel-download-and-test-future = Deskargatu eta probatu { -brand-name-firefox }en etorkizuneko bertsioak mahaigaineko, { -brand-name-android } eta { -brand-name-ios }erako.
 firefox-channel-experience-cutting-edge-android-updated = Gozatu punta-puntako eginbideez { -brand-name-android }erako nabigatzailearen aurreargitalpen bertsioetan: { -brand-name-firefox-beta } eta { -brand-name-firefox-nightly }. Instalatu orain!
 firefox-channel-experience-cutting-edge-android = Gozatu punta-puntako eginbideez { -brand-name-android }erako nabigatzailearen aurreargitalpen bertsioetan: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } eta { -brand-name-firefox-nightly }. Instalatu orain!
-firefox-channel-download-and-test-the-latest-android = Deskargatu eta probatu { -brand-name-android }erako { -brand-name-firefox }en azken eginbideak { -brand-name-aurora }, { -brand-name-beta } eta { -brand-name-nightly } konpilazioekin.
 firefox-channel-try-the-latest-android-features = Probatu { -brand-name-android }erako azken eginbideak, gainontzeko erabiltzaileentzat argitaratu baino lehen.
 firefox-channel-all-languages-and-platforms = Hizkuntza eta plataforma guztiak
 firefox-channel-all-languages-and-builds = Hizkuntza eta konpilazio guztiak
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = { -brand-name-nightly } bloga
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } probatarako eta garapenerako plataforma ez egonkorra da. Defektuz, { -brand-name-nightly }k { -brand-name-mozilla }ri datuak bidaltzen dizkio — eta batzuetan gure kideei ere bai —, arazoak konpontzeko eta ideiak probatzeko lagungarriak direlarik. <a href="{ $link }">Jakizu zer partekatzen den</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly }k automatikoki bidaltzen dio zure iritzia { -brand-name-mozilla }ri.
-firefox-channel-try-new-browser-features = Probatu nabigatzailearen eginbide berriak aurreargitalpen bertsioetan | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Gozatu punta-puntako nabigatze-eginbideak aurreargitalpen bertsioetan: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } eta { -brand-name-firefox-nightly }. Deskargatu orain!
 firefox-channel-download-and-test-the-latest-desktop = Deskargatu eta probatu mahaigainerako { -brand-name-firefox }en azken eginbideak { -brand-name-developer-edition }, { -brand-name-beta } eta { -brand-name-nightly } konpilazioekin.
 firefox-channel-beta = { -brand-name-beta }

@@ -16,7 +16,6 @@ firefox-channel-try-new-features-in-a-pre = امکانات جدید مرورگر
 firefox-channel-download-and-test-future = نسخه‌های آینده { -brand-name-firefox } برای رومیزی، { -brand-name-android } و { -brand-name-ios } را دریافت و آزمایش کنید.
 firefox-channel-experience-cutting-edge-android-updated = آخرین امکانات مرورگر { -brand-name-android } را با نسخه پیش از انتشار آن تجربه کنید: { -brand-name-firefox-beta } و { -brand-name-firefox-nightly }. همین امروز نصبشان کنید!
 firefox-channel-experience-cutting-edge-android = تازه‌ترین امکانات مرورگر { -brand-name-android } را در نگارش‌های قبل از انتشار تجربه کنید: { -brand-name-firefox-beta }، { -brand-name-firefox-aurora } و { -brand-name-firefox-nightly }. هم‌اکنون نصب کنید!
-firefox-channel-download-and-test-the-latest-android = بارگیری و بررسی آخرین امکانات { -brand-name-firefox } برای { -brand-name-android } با نسخه‌های { -brand-name-aurora }، { -brand-name-beta } و { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = آخرین امکانات در { -brand-name-android } را قبل از اینکه برای باقی جهان رونمایی شود را بررسی کنید.
 firefox-channel-all-languages-and-platforms = تمام زبان‌ها و سکوها
 firefox-channel-all-languages-and-builds = تمام زبان‌ها و نسخه‌ها
@@ -33,7 +32,6 @@ firefox-channel-nightly-blog = وبلاگ { -brand-name-nightly }
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } یک پلتفرم ناپایدار جهت تست و توسعه می‌باشد. به طور پیش‌فرض، { -brand-name-nightly }» اطلاعاتی به { -brand-name-mozilla } ارسال می‌کند — و گاهی به بعضی از همکاران ما — تا به ما کمک کند تا مشکلات را حل کنیم و ایده‌های جدیدی به کار بگیریم. <a href="{ $link }">ببینید چه اطلاعاتی که به اشتراک گذاشته می‌شود</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } بطور خودکار به { -brand-name-mozilla } بازخورد می‌فرستد.
-firefox-channel-try-new-browser-features = امکانات جدید مرورگر را در نگارش‌های قبل از انتشار امتحان کنید | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = تازه‌ترین امکانات مرورگر را در نگارش‌های قبل از انتشار تجربه کنید: { -brand-name-firefox-developer-edition }، { -brand-name-firefox-beta } و{ -brand-name-firefox-nightly }. هم‌اکنون دریافت کنید!
 firefox-channel-download-and-test-the-latest-desktop = با نسخه‌های { -brand-name-developer-edition }، { -brand-name-beta } و { -brand-name-nightly } آخرین امکانات { -brand-name-firefox } را برای رومیزی دریافت و بررسی کنید.
 firefox-channel-beta = { -brand-name-beta }

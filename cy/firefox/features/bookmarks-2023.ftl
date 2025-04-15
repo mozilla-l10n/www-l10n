@@ -14,8 +14,6 @@ bookmark-manager-organize-your-bookmarks-with = Trefnwch eich nodau tudalen gyda
 bookmark-manager-bookmarks-are-links-you-save = Mae nodau tudalen yn ddolenni rydych chi'n eu cadw yn eich porwr fel y gallwch chi fynd yn ôl yn gyflym ac yn hawdd i'ch hoff leoedd ar y we. Mae { -brand-name-firefox } yn cynnwys rheolwr nod tudalen hylaw fel y gallwch drefnu, chwilio, diweddaru a <a { $sync }>chysoni'ch holl ddolenni sydd wedi'u cadw ar draws eich holl ddyfeisiau</a>.
 bookmark-manager-organize-your-boomarks-into = Trefnwch eich nodau tudalen i ffolderi chwiliadwy
 bookmark-manager-collect-your-bookmarks-in-folders = Casglwch eich nodau tudalen mewn ffolderi a'u tagio gyda manylion ychwanegol. Gallwch hefyd ddidoli eich nodau tudalen i ddod o hyd i'r rhai sydd eu hangen arnoch chi'n gyflym.
-# Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-bookmark-manager = Delwedd o ffenestr y rheolwr nodau tudalen yn { -brand-name-firefox }.
 bookmark-manager-easily-import-bookmarks = Mewnforio nodau tudalen yn hawdd
 bookmark-manager-you-can-import-your-bookmarks = Gallwch fewnforio eich nodau tudalen o Chrome, Safari neu Edge gyda dewin mewnforio { -brand-name-firefox }. Cliciwch ar Nodau Tudalen > Rheoli nodau tudalen ac yna dewiswch “Mewnforio a Chadw”.
 # Used as an accessible text alternative for an image

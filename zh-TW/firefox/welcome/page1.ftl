@@ -10,7 +10,6 @@ welcome-page1-more-than-a-browser-mozilla = 不只是瀏覽器：{ -brand-name-m
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = 使用 { -brand-name-firefox } 系列產品，搶先一步保護您的線上隱私。
 welcome-page1-stay-ahead-of-hackers-check-v2 = 比駭客搶先一步。到 { -brand-name-mozilla-monitor } 檢查是否有資料外洩事件。
-welcome-page1-youre-on-track-to-stay-protected = 保持下去，就能繼續受到保護
 welcome-page1-youve-got-the-web-browser = 您有了會保護隱私的瀏覽器，現在更該搶先一步防堵駭客攻擊。
 welcome-page1-check-your-breach-report = 確認您的資料外洩報告
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

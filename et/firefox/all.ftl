@@ -27,14 +27,7 @@ firefox-all-windows-installers-for = Windowsi paigaldajad ettevõtetele lihtsust
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32-bitine paigaldaja vali arvutitele, millel on 32-bitine protsessor, või vanematele või vähemvõimekatele arvutitele. <a href="{ $url }">Kui sa pole kindel</a>, kumba valida, siis soovitame võtta 32-bitise.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Laadi alla { $product_label } { $platform } platvormile { $locale } keeles
 firefox-all-msi-installers = MSI-paigaldajad
-firefox-all-which-version = Millist versiooni soovid?
-firefox-all-select-your-preferred-installer = Vali eelistatud paigaldus
 firefox-all-select-your-preferred-language = Vali eelistatud keel
 firefox-all-learn-about-installers = Rohkem teavet paigaldusest
 firefox-all-product-firefox = { -brand-name-firefox }

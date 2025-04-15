@@ -25,9 +25,6 @@ firefox-new-need-help = ต้องการความช่วยเหล�
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-new-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">จะไม่มีการอัปเดตด้านความปลอดภัย</a> บน { -brand-name-windows } { -brand-name-xp } หรือ { -brand-name-vista } อีกแล้ว แต่คุณยังสามารถใช้ { -brand-name-firefox } ได้
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = จะเริ่มดาวน์โหลดอัตโนมัติ ถ้าหากดาวน์โหลดไม่ได้ <a id="{ $id }" href="{ $fallback_url }">ลองดาวน์โหลดใหม่อีกครั้ง</a>
@@ -36,9 +33,6 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } เป็�
 firefox-new-download-interrupted = การดาวน์โหลดของคุณถูกขัดจังหวะ แต่ส่วนที่ดาวน์โหลดไปแล้วไม่ได้หายไปไหน
 firefox-new-download-almost-there = เกือบเสร็จแล้ว!
 firefox-new-download-select-linux = เลือกตัวเลือกการดาวน์โหลดด้านล่าง
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-new-please-follow = โปรดทำตาม<a href="{ $url }">คำแนะนำนี้</a>เพื่อติดตั้ง { -brand-name-firefox }
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = เครื่องของคุณไม่รองรับกับข้อกำหนดสำหรับ { -brand-name-firefox } แต่คุณยังสามารถลองกับ<a href="{ $url }">รุ่นเหล่านี้</a>ได้

@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = Töltse le a { -brand-name-firefox(case: "accusative") } magyarul és több mint 90 egyéb nyelven
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Mindenki megérdemli az internethez való hozzáférést – és a nyelvtudás nem lehet akadály. Ezért tesszük elérhetővé – a világ minden táján lévő elkötelezett önkéntesek segítségével – a { -brand-name-firefox(case: "accusative") } több mint 90 nyelven.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = Olvassa le a QR-kódot a <em>{ $product_name }</em> beszerzéséhez
 firefox-all-choose-browser = Válasszon böngészőt a folytatáshoz
 firefox-all-choose-platform = Válasszon platformot a folytatáshoz
 firefox-all-choose-language = Válasszon nyelvet a folytatáshoz
@@ -69,14 +66,7 @@ firefox-all-product-send-link = Küldjön egy letöltési hivatkozást a telefon
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32 bites processzorral rendelkező számítógépekre válassza a 32 bites telepítőt – régebbi vagy kevésbé erős számítógépekhez. <a href="{ $url }">Ha nem biztos benne</a> hogy a 64 vagy a 32 bites telepítőt válassza, akkor a 32 bitest javasoljuk.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = A { $product_label } letöltése { $platform } platformra, { $locale } nyelven
 firefox-all-msi-installers = MSI telepítők
-firefox-all-which-version = Melyik verziót szeretné?
-firefox-all-select-your-preferred-installer = Válassza ki az előnyben részesített telepítőt
 firefox-all-select-your-preferred-language = Válassza ki az előnyben részesített nyelvét
 firefox-all-learn-about-installers = Tudjon meg többet a telepítőkről
 firefox-all-product-firefox = { -brand-name-firefox }

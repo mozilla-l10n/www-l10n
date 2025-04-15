@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = <strong>Ange din e-postadress</strong> för att s
 fxa-form-by-proceeding = Genom att fortsätta godkänner du <a href="{ $url1 }">användarvillkor</a> och <a href="{ $url2 }">sekretesspolicy</a>.
 fxa-form-email-address = E-postadress
 fxa-form-continue = Fortsätt
-fxa-form-create-account = Skapa konto
-fxa-form-get-the-app = Hämta appen

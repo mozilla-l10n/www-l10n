@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Ensajatz las novèlas foncionalitats
 firefox-channel-download-and-test-future = Telecargatz e testatz las versions futuras de { -brand-name-firefox } per ordinator, { -brand-name-android } e { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Testatz las foncionalitats de punta dins nòstras preversions per { -brand-name-android } : { -brand-name-firefox-beta } e { -brand-name-firefox-nightly }. Installatz-las ara !
 firefox-channel-experience-cutting-edge-android = Experimentatz las foncionalitats de punta dins nòstras preversions per { -brand-name-android } : { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } e { -brand-name-firefox-nightly }. Installatz-las ara !
-firefox-channel-download-and-test-the-latest-android = Telecargatz e provatz las darrièras foncionalitats de { -brand-name-firefox } per { -brand-name-android } amb las versions { -brand-name-aurora }, { -brand-name-beta } e { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Ensajar las darrièras foncionalitats d'{ -brand-name-android }, abans que sián disponiblas per la rèsta del mond.
 firefox-channel-all-languages-and-builds = Totas las lengas e versions
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } manda automaticament d'informacions a { -brand-name-mozilla }.
@@ -27,7 +26,6 @@ firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }
 firefox-channel-check-out-new-android-features = Descobrissètz las totas darrièras foncionalitats sus { -brand-name-android }. Gausissètz jos responsabilitat.
 firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } manda automaticament de remontadas d'experiéncia a { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Ensajatz las darrièras foncionalitats del navigator mercés a las preversions | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Experimentatz las totas darrièras foncionalitats dins las preversions : { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } e { -brand-name-firefox-nightly }. Telecargatz-las ara !
 firefox-channel-download-and-test-the-latest-desktop = Telecargatz e provatz las darrièras foncionalitats de { -brand-name-firefox } per ordenador amb las versions { -brand-name-developer-edition }, { -brand-name-beta } e { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

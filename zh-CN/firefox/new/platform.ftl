@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = 免费网络浏览器
-new-platform-download-firefox = 下载 { -brand-name-firefox }
 new-platform-download-the-fastest = 下载有史以来最快的 { -brand-name-firefox }
 new-platform-faster-page-loading = 加载更快、内存占用更低、包含更多功能。全新的 { -brand-name-firefox } 闪耀登场！
 new-platform-2x-faster = 速度翻倍
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = 下载适用于 { -brand-name-linux }
 new-platform-download-the-fastest-linux = 下载适用于 { -brand-name-linux } 的有史以来最快的 { -brand-name-firefox }
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = 加载更快、内存占用更低、包含更多功能。适用于 { -brand-name-linux } 的全新 { -brand-name-firefox } 闪耀登场！
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = 适用于 { -brand-name-linux } 的 { -brand-name-firefox }
 new-platform-privacy-more-than = 隐私 - 不只是一项政策
 new-platform-your-life-your-business = 您的生活您做主。{ -brand-name-firefox } 会在 { -brand-name-linux } 拦截来自第三方的跟踪性 Cookie。
 new-platform-speed-meet-security = 快速、安全，相得益彰。{ -brand-name-firefox } 速度翻倍，占用内存比 { -brand-name-chrome } 低 30%。

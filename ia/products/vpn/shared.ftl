@@ -8,25 +8,8 @@
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Installar { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Junge te al lista de attender
-vpn-shared-available-countries-v6 = Nos actualmente offere { -brand-name-mozilla-vpn } in Austria, Belgio, Bulgaria, Canada, Croatia, Cypro, le Republica chec, Danmark, Estonia, Finlandia, Francia, Germania, Hungaria, Irlanda, Italia, Latvia, Lituania, Luxemburg, Malaysia, Malta, Hollanda, Nove Zelanda, Polonia, Portugal, Romania, Singapore, Slovenia, Slovachia, Espania, Svedia, Suissa, Regno unite, e Statos unite.
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Garantia de reimbursamento de 30 dies
-vpn-shared-features-encrypt = Cryptation a nivello de apparato
-vpn-shared-features-bandwidth = Nulle limitationes de largessa de banda
-vpn-shared-features-activity = Nulle registration de tu activitate de rete
-vpn-shared-features-activity-logs = Nulle registros de activitate online ora o sempre
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = Accede a servitores in plus de { $countries } paises
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = Protection pro maximo { $devices } apparatos
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = Forte servitores in ultra { $countries } paises
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = Connecte te a maximo { $devices } apparatos
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = Garantia de reimbursamento de 30 dies
 vpn-shared-privacy-notice = Aviso de confidentialitate
@@ -65,12 +48,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } non an
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = Que nos comencia
 vpn-shared-platform-cta-button = Vider precio e disponibilitate
-vpn-shared-platform-privacy-promise = Tu confidentialitate es nostre promissa
 vpn-shared-platform-what-is = Que es { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Perque { -brand-name-mozilla-vpn }?
-vpn-shared-platform-what-youll-get = Que obtenera tu con { -brand-name-mozilla-vpn }:
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Discoperi le VPNs

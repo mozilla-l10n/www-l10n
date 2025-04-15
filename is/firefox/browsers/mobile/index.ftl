@@ -14,7 +14,6 @@ browsers-mobile-infinitely-customizable-private = Óendanlega sérsníðanlegur,
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } fyrir { -brand-name-ios }
 browsers-mobile-go-your-own-way = Farðu þínar eigin leiðir með { -brand-name-firefox } í farsímanum
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } farsímavafrinn lagar sig að þér og gerir það auðveldara en nokkru sinni fyrr að sjá alla opnu flipana þína, fyrri leitir og uppáhaldssíður.
-browsers-mobile-the-more-you-use = Því meira sem þú notar hann, því snjallari verður hann. Upphafsskjár { -brand-name-firefox } lagar sig að þér og auðveldar þér að halda áfram þar sem frá var horfið.
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Fáðu aukna rakningarvernd og gerðu { -brand-name-firefox } að sjálfgefna vafranum þínum á { -brand-name-iphone } og { -brand-name-ipad }.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }

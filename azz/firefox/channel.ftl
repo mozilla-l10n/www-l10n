@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Xikontatekiujti yankuikej nepaleuilm
 firefox-channel-download-and-test-future = Xikontemoui uan xikonixejeko oksekin versiones { -brand-name-firefox } tein satepan ualaskej ika tajkuiloluapal, { -brand-name-android } uan { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Xikonixejeko yankuikej nepaleuilmej tein kipia se navegador achto ke nochin uelis kitatekiujtis, ika { -brand-name-android }: { -brand-name-firefox-beta } uan { -brand-name-firefox-nightly }. ¡Axkan xikontalili motepos!
 firefox-channel-experience-cutting-edge-android = Xikonixejeko yankuikej nepaleuilmej tein kipia se navegador achto ke nochin uelis kitatekiujtis, ika { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } uan { -brand-name-firefox-nightly }. ¡Axkan xikontalili motepos!
-firefox-channel-download-and-test-the-latest-android = Xikontemoui uan xikonixejeko inepaleuiluan { -brand-name-firefox } tein okachi yankuikej ika { -brand-name-android } tein kipia { -brand-name-aurora }, { -brand-name-beta } uan { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Xikonixejeko inepaleuiluan { -brand-name-android } tein okachi yankuikej, achto taltikpakneminij uelis kichiuaskej.
 firefox-channel-all-languages-and-builds = Nochin tepostajtolis uan compilaciones
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } iselti san kititanilia { -brand-name-mozilla } tanemililmej.
@@ -27,7 +26,6 @@ firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }
 firefox-channel-check-out-new-android-features = Xiontachiati yankuikej nepaleuilmej ika { -brand-name-android } ijkuak peua. Xionixmatati uan xionmopakilti.
 firefox-channel-nightly-blog = Tepostanojnots blog tein poui { -brand-name-nightly }
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } iselti san kipanoltilia { -brand-name-mozilla } tanemililmej.
-firefox-channel-try-new-browser-features = Xikontatekiujti yankuikej nepaleuilmej tein kipia navegador tein ika versiones acho release | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Xikontatekiujti yankuikej nepaleuilmej tein kipia navegador tein ika versiones acho release: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } uan { -brand-name-firefox-nightly }. ¡Axkan xikontemoui!
 firefox-channel-download-and-test-the-latest-desktop = Xikontemoui uan xikonixejeko inepaleuiluan { -brand-name-firefox } tein tajkuiloluapal ika { -brand-name-developer-edition }, { -brand-name-beta } uan { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

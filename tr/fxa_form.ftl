@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = { -brand-name-mozilla-account } açmak için <str
 fxa-form-by-proceeding = Devam ederseniz <a href="{ $url1 }">Hizmet Koşulları</a>’nı ve <a href="{ $url2 }">Gizlilik Bildirimi</a>’ni kabul etmiş olursunuz.
 fxa-form-email-address = E-posta adresi
 fxa-form-continue = Devam et
-fxa-form-create-account = Hesap oluştur
-fxa-form-get-the-app = Uygulamayı indir

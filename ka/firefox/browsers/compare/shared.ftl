@@ -8,7 +8,6 @@
 compare-shared-compare-firefox = შეადარეთ { -brand-name-firefox }
 compare-shared-footer-cta-title = უკეთ გამოიყენეთ { -brand-name-firefox }
 compare-shared-footer-cta-desc = მიიღეთ სწრაფი, მსუბუქი, პირადულობის უზრუნველმყოფი ბრაუზერი, რომელიც არამომგებიანი დაწესებულებისგანაა და იმუშავებს ყველა თქვენს მოწყობილობაზე.
-compare-shared-footer-cta-button = ჩამოტვირთეთ { -brand-name-firefox }
 compare-shared-we-also-offer-easy = ჩვენ ასევე გთავაზობთ იოლად გამოსაყენებელ შესაძლებლობებს, მათ შორის:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } კიდევ შეიცავს ჩაშენებულ ხელსაწყოებსაც, მათ შორის:
 # Variables

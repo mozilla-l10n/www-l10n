@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = തുടരുന്നതിലൂടെ നിങ്ങൾ <a href="{ $url1 }">സേവന നിബന്ധനകൾ</a>, <a href="{ $url2 }"‍>സ്വകാര്യതാ നയം </a> എന്നിവ അംഗീകരിക്കുന്നു.
 fxa-form-email-address = ഇമെയില്‍ വിലാസം
 fxa-form-continue = തുടരുക
-fxa-form-create-account = അക്കൗണ്ട് തുടങ്ങുക
-fxa-form-get-the-app = ആപ്പ് എടുക്കുക

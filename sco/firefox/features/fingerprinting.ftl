@@ -6,5 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blocks fingirprentin
-features-fingerprinting-download-firefox = Doonload { -brand-name-firefox }
 features-fingerprinting-what-is-fingerprinting-body = Whit is fingirprentin?

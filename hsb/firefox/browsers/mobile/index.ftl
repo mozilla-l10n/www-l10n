@@ -19,7 +19,6 @@ browsers-mobile-get-enhanced-tracking-protection = Wobstarajće sej polěpšeny 
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Pytaće za optimowanym, superspěšnym wobhladowakom z funkcijemi priwatnosće přichodneho stopnja? { -brand-name-firefox-focus } wašu přehladowansku historiju wot toho wokomika awtomatisce zhaša, wot kotrehož jón wočinjeće a druhi raz začinjeće.
 browsers-mobile-compare = Přirunać
-browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Hladajće, kak { -brand-name-firefox } za desktop porno druhim wobhladowakam wotrěznje.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Hladajće, kak { -brand-name-firefox } za <strong>desktop</strong> porno druhim wobhladowakam wotrěznje.
 browsers-mobile-download = Sćahnyć

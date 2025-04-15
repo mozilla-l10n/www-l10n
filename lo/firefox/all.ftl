@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = ດາວໂຫລດ { -brand-name-firefox } ໃນພາສາອັງກິດ (ສະຫະລັດ) ແລະ ຫຼາຍກວ່າ 90 ພາສາອື່ນໆ
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = ທຸກຄົນສົມຄວນໄດ້ຮັບການເຂົ້າເຖິງອິນເຕີເນັດ — ພາສາຂອງທ່ານບໍ່ຄວນເປັນອຸປະສັກ. ດ້ວຍ​ເຫດ​ນີ້ — ດ້ວຍ​ການ​ຊ່ວຍ​ເຫຼືອ​ຂອງ​ອາ​ສາ​ສະ​ຫມັກ​ທີ່​ອຸ​ທິດ​ຕົນ​ໃນ​ທົ່ວ​ໂລກ — ພວກ​ເຮົາ​ເຮັດ​ໃຫ້ { -brand-name-firefox } ມີ​ໃຫ້​ໃນ​ຫຼາຍ​ກ​່​ວາ 90 ພາ​ສາ​.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = ສະແກນລະຫັດ QR ເພື່ອຮັບເອົາ <em>{ $product_name }</em>
 firefox-all-choose-browser = ເລືອກຕົວທ່ອງເວັບເພື່ອສືບຕໍ່
 firefox-all-choose-platform = ເລືອກ platform ເພື່ອສືບຕໍ່
 firefox-all-choose-language = ເລືອກພາສາເພື່ອສືບຕໍ່
@@ -69,14 +66,7 @@ firefox-all-product-send-link = ສົ່ງລິ້ງດາວໂຫລດໄ
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = ເລືອກຕົວຕິດຕັ້ງ 32-bit ສໍາລັບຄອມພິວເຕີທີ່ມີໂປເຊດເຊີ 32-bit — ຫຼືສໍາລັບຄອມພິວເຕີທີ່ເກົ່າກວ່າ ຫຼືມີອໍານາດຫນ້ອຍ. <a href="{ $url }">ຖ້າທ່ານບໍ່ແນ່ໃຈວ່າ</a> ຈະເລືອກຕົວຕິດຕັ້ງ 64-bit ຫຼື 32-bit, ພວກເຮົາແນະນໍາໃຫ້ທ່ານໄປກັບ 32-bit.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = ດາວໂຫລດ { $product_label } ສຳລັບ { $platform } ໃນ { $locale }
 firefox-all-msi-installers = ຕົວຕິດຕັ້ງ MSI
-firefox-all-which-version = ທ່ານຕ້ອງການເວີຊັນໃດ?
-firefox-all-select-your-preferred-installer = ເລືອກຕົວຕິດຕັ້ງທີ່ທ່ານມັກ
 firefox-all-select-your-preferred-language = ເລືອກພາສາທີ່ທ່ານຕ້ອງການ
 firefox-all-learn-about-installers = ຮຽນຮູ້ກ່ຽວກັບຕົວຕິດຕັ້ງ
 firefox-all-product-firefox = { -brand-name-firefox }

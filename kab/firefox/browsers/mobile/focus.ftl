@@ -11,7 +11,6 @@ mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Tunigin tazirazt tusligt tafessast
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } yella i sin yibenkan { -brand-name-ios } d { -brand-name-android }.
 mobile-focus-get-firefox-focus = Awi { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = Azen aseɣwen n usader ɣer tiliɣri-ik.
 mobile-focus-scan-the-qr-code-to-get-started = Ṭṭef tangalt QR akken ad tebduḍ
 mobile-focus-scan-alt-text = Smiḍen tangalt QR akken ad tawiḍ { -brand-name-firefox-focus }
 mobile-focus-delete-your-history = Kkes azray-ik•im

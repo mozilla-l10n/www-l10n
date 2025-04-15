@@ -7,5 +7,4 @@
 
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
-firefox-mobile-the-privacy-you-deserve-the = Поверителността, която заслужавате. Скоростта, от която се нуждаете.
 firefox-mobile-scan-the-qr-code-to-get-started = Сканирайте кода на QR за начало

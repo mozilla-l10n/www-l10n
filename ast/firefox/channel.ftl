@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Prueba les novedaes na versión de p
 firefox-channel-download-and-test-future = Baxa y prueba les versiones en desendolcu de { -brand-name-firefox } pa escritoriu, { -brand-name-android } ya { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Esperimenta les útlimes novedaes nuna versión de prellanzamientu del restolador p'{ -brand-name-android }: { -brand-name-firefox-beta } y { -brand-name-firefox-nightly }. ¡Instálalos agora!
 firefox-channel-experience-cutting-edge-android = Esperimenta les últimes novedaes nuna versión prellanzamientu del restolador p'{ -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } y { -brand-name-firefox-nightly }. ¡Instálalos agora!
-firefox-channel-download-and-test-the-latest-android = Baxa y prueba lo último de { -brand-name-firefox } p'{ -brand-name-android } coles versiones { -brand-name-aurora }, { -brand-name-beta } y { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Prueba lo último d'{ -brand-name-android } enantes de llanzalo al restu del mundu.
 firefox-channel-all-languages-and-platforms = Toles llingües y plataformes
 firefox-channel-all-languages-and-builds = Toles llingües y versiones
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = Blogue de { -brand-name-nightly }
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ye una plataforma de desendolcu y pruebes inestable. Por defeutu, { -brand-name-nightly } unvia datos a { -brand-name-mozilla }, y a vegaes a los nuesos socios, p'ayudanos a remanar los problemes y probar idees. <a href="{ $link }">Llei lo que se comparte</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } unvia automáticamente información a { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Prueba les novedaes del restolador nes versiones de prellanzamientu | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Esperimenta les últimes novedaes nes versiones de prellanzamientu: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } y { -brand-name-firefox-nightly }. ¡Báxales agora!
 firefox-channel-download-and-test-the-latest-desktop = Baxa y prueba lo último de { -brand-name-firefox } pa escritoriu coles versiones { -brand-name-developer-edition }, { -brand-name-beta } y { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

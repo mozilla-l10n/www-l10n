@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = แถลงการณ์ { -brand-name-mozilla }
 footer-privacy-hub = ศูนย์กลางความเป็นส่วนตัว
 footer-privacy = ความเป็นส่วนตัว
 footer-press = สื่อ
 footer-mozilla-blog = บล็อก { -brand-name-mozilla }
-footer-browser-comparison = เปรียบเทียบเบราว์เซอร์
-footer-brand-standards = มาตรฐานแบรนด์
-footer-browsers = เบราว์เซอร์
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = นักพัฒนา
 footer-developer-edition = { -brand-name-developer-edition }
@@ -38,7 +34,6 @@ footer-websites-legal = ข้อกฎหมาย
 footer-language = ภาษา
 footer-go = ไป
 footer-donate = บริจาค
-footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }

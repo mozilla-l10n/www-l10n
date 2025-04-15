@@ -8,8 +8,6 @@
 home-internet-for-people-not-profit = Internetu ñépp, wutuñ ci xaalis
 home-did-you-know-mozilla-the-maker = Xamoon nga ne { -brand-name-mozilla }, màndarga miy liggéey { -brand-name-firefox }, ci xeex ngir Internet wéy doon yéfi ñépp, te itam jàppandi ngir ñépp la nekk?
 home-our-impact = Sunu njeexit
-home-working-to-keep-the-internet = Danuy liggéey ngir sàmm Internet, mu wéy doon lu ubbeeku te ñépp man cee jot, danuy jàngale abajada web, jébbaley jumtukaay te it di teewal képp ku gëm ni Internet daa war a doon yëfu ñépp.
-home-working-at-the-grassroots-and = Di liggéey ci waar wi ak ci wàllu politig, di jàngale abajada web, jébbaley jumtukaay te itam di sàmm àqi képp ku gëm internet bees tabax ci yamoo, mboole ak wegante.
 home-read-our-internet-health-report = Jàngal sunu këyitu wér-gi-yaramu Internet
 home-our-innovations = Sunuy yeesal
 home-using-the-web-as-the-platform = Ci jëfandikoo web bi niki ab joyalukaay, la nuy defariy xarala yu ubbeeku te yees ngir may suqalikat yi man di liggéey ci péexte, mucc ci noste yu tëju yu këri liggéey yiy wut xaalis kese, ngir man a bind web bu gën a wóor te gën a gaaw ngir nu ñépp.

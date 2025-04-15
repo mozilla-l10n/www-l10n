@@ -2,15 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = Manifest { -brand-name-mozilla(sklon: "rodilnik") }
 footer-privacy-hub = Središče za zasebnost
 footer-privacy = Zasebnost
 footer-press = Novinarsko središče
 footer-mozilla-blog = Blog { -brand-name-mozilla(sklon: "rodilnik") }
-footer-browser-comparison = Primerjava brskalnikov
-footer-brand-standards = Standardi blagovne znamke
-footer-browsers = Brskalniki
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = Razvijalci
 footer-developer-edition = { -brand-name-developer-edition }
@@ -38,7 +34,6 @@ footer-websites-legal = Pravno obvestilo
 footer-language = Jezik
 footer-go = Pojdi
 footer-donate = Donirajte
-footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }

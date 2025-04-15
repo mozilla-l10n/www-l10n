@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Tem jami manyen ii Layeny me { -bran
 firefox-channel-download-and-test-future = Gam ka item { -brand-name-firefox } pi desktop, { -brand-name-android } ki { -brand-name-ios } ma bibino iyie anyim.
 firefox-channel-experience-cutting-edge-android-updated = Nong jami manyen loyo ii layeny pi { -brand-name-android }: { -brand-name-firefox-beta } and { -brand-name-firefox-nightly } mapud pe kikelo woko. Ket kombedi!
 firefox-channel-experience-cutting-edge-android = Nong jami manyen loyo ii layeny pi { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } ki { -brand-name-firefox-nightly } mapud pe kikelo woko. Ket kombedi!
-firefox-channel-download-and-test-the-latest-android = Gam ka item jami manyen loyo me { -brand-name-firefox } pi { -brand-name-android } ki { -brand-name-aurora }, { -brand-name-beta } ki { -brand-name-nightly } ma ki tye ka yubo gi.
 firefox-channel-try-the-latest-android-features = Tem jami manyen loyo me { -brand-name-android }, mapud pe kikelo gi woko bot dano me wilobo weng.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } cwalo pire kene adwogi bot { -brand-name-mozilla }.
 firefox-channel-check-out-new-android-features = Nen jami manyen me { -brand-name-android } wa ki ii acaki gi. Nong mite kit ma itwero.
@@ -26,7 +25,6 @@ firefox-channel-nightly-blog = Coc me { -brand-name-nightly }
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } obedo kabedo me temo ki yubo jami. Pire kene, { -brand-name-nightly } cwalo data bot { -brand-name-mozilla } — ki kare mukene bot jo ma oribe kwedwa — me konyo wa yubo peko ki temo tam. <a href="{ $link }">Nong ngec i ngo ma kinywako</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } cwalo adwogi pire kene bot { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Tem jami manyen me Layeny ii kit mapud pe kikelo woko | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Nong jami manyen loyo me layeny mapud pe kikelo gi woko: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } ka { -brand-name-firefox-nightly }. Gam kombedi!
 firefox-channel-download-and-test-the-latest-desktop = Gam ka item jami manyen loyo me { -brand-name-firefox } pi desktop ki { -brand-name-developer-edition }, { -brand-name-beta } ka { -brand-name-nightly } builds.
 firefox-channel-beta = { -brand-name-beta }

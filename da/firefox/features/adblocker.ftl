@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Sådan hjælper en adblocker dig med at slippe for irriterende reklamer
 features-adblocker-how-to-stop-seeing-too = Sådan slipper du for at se på for mange reklamer, mens du forhindrer virksomheder i at forfølge dig rundt på nettet. En guide til adblockere fra { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Adblockeren - det hemmelige våben mod irriterende reklamer.
 features-adblocker-so-many-ads-so-little = Så mange reklamer, så lidt tålmodighed… Det er på tide at stoppe vanviddet.

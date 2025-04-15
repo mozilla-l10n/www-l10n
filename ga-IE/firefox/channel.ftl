@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Bain triail as gnéithe nua i réamh
 firefox-channel-download-and-test-future = Íoslódáil agus tástáil réamhleaganacha de { -brand-name-firefox } ar an deasc, ar { -brand-name-android }, agus ar { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Bain triail as na gnéithe is nuaí i réamhleagan de bhrabhsálaí { -brand-name-android }: { -brand-name-firefox-beta } agus { -brand-name-firefox-nightly }. Suiteáil anois!
 firefox-channel-experience-cutting-edge-android = Bain triail as na gnéithe is nuaí i réamhleagan de bhrabhsálaí { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora }, agus { -brand-name-firefox-nightly }. Suiteáil anois!
-firefox-channel-download-and-test-the-latest-android = Íoslódáil agus tástáil na gnéithe is déanaí in { -brand-name-firefox } ar { -brand-name-android } leis na leaganacha { -brand-name-aurora }, { -brand-name-beta }, agus { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Bain triail as na gnéithe is déanaí ar { -brand-name-android }, sula mbeidh siad ar fáil don saol ar fad.
 firefox-channel-all-languages-and-builds = Gach Teanga agus Leagan
 firefox-channel-firefox-beta-automatically = Seolfaidh { -brand-name-firefox-beta } aiseolas chuig { -brand-name-mozilla } go huathoibríoch.
@@ -27,7 +26,6 @@ firefox-channel-give-us-feedback-to-help = <a rel="external" href="{ $feedback }
 firefox-channel-check-out-new-android-features = Bain triail as na gnéithe is nuaí ar { -brand-name-android }, ar do phriacal féin.
 firefox-channel-nightly-blog = Blag Firefox { -brand-name-nightly }
 firefox-channel-firefox-nightly-automatically = Seolfaidh { -brand-name-firefox-nightly } aiseolas chuig { -brand-name-mozilla } go huathoibríoch.
-firefox-channel-try-new-browser-features = Bain triail as gnéithe nua i réamhleagan den bhrabhsálaí | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Bain triail as na gnéithe is nuaí i réamhleaganacha den bhrabhsálaí: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta }, agus { -brand-name-firefox-nightly }. Íoslódáil anois é!
 firefox-channel-download-and-test-the-latest-desktop = Íoslódáil agus tástáil na gnéithe is déanaí in { -brand-name-firefox } ar an deasc le { -brand-name-developer-edition } agus na leaganacha { -brand-name-beta } agus { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

@@ -30,10 +30,6 @@ cookie-settings-category-preference-what-are-subheading = Co su cookieje nastaje
 cookie-settings-category-analytics-heading = Analytika
 cookie-settings-category-analytics-what-are-subheading = Co su analytiske cookieje?
 
-## Consent section
-
-cookie-settings-your-consent-heading = Wašo pśizwólenje
-
 ## Privacy section
 
 cookie-settings-privacy-heading = Naša powěźeńka priwatnosći

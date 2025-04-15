@@ -31,11 +31,6 @@ cookie-settings-category-preference-what-are-subheading = ਪਸੰਦੀਦਾ 
 cookie-settings-category-analytics-heading = ਵਿਸ਼ਲੇਸ਼ਣ
 cookie-settings-category-analytics-what-are-subheading = ਵਿਸ਼ਲੇਸ਼ਣ ਕੂਕੀਜ਼ ਕੀ ਹਨ?
 
-## Consent section
-
-cookie-settings-your-consent-heading = ਤੁਹਾਡੀ ਸਹਿਮਤੀ
-cookie-settings-your-consent-desc = ਕੂਕੀਜ਼ ਨਾਲ ਸਹਿਮਤ ਹੋ ਕੇ ਤੁਸੀਂ { -brand-name-mozilla } ਵੈੱਬਸਾਈਟਾਂ ਦੀ ਹੇਠਲੀ ਸੂਚੀ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿੰਦੇ ਹੋ, ਜੋ ਕਿ ਡਾਟਾ ਪਰਦੇਦਾਰੀ ਬਾਰੇ ਉਹੀ ਉੱਚੇ ਸਟੈਂਡਰਡਾਂ ਦੀ ਪਾਲਣਾ ਕਰਦੀਆਂ ਹਨ। ਯਾਦ ਰੱਖੋ ਕਿ ਇਸ ਸੂਚੀ ਨੂੰ ਸਮੇਂ ਸਮੇਂ ਉੱਤੇ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
-
 ## Privacy section
 
 cookie-settings-privacy-heading = ਸਾਡੀ ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ

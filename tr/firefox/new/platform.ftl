@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Ücretsiz web tarayıcısı
-new-platform-download-firefox = { -brand-name-firefox }’u indir
 new-platform-download-the-fastest = Bugüne kadarki en hızlı { -brand-name-firefox }'u indirin
 new-platform-faster-page-loading = Daha hızlı açılan sayfalar, daha az bellek kullanımı ve bir sürü özelliğiyle yeni { -brand-name-firefox } burada.
 new-platform-2x-faster = 2 kat daha hızlı
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Özgür web tarayıcısı { -brand-na
 new-platform-download-the-fastest-linux = { -brand-name-linux }'ta bugüne kadarki en hızlı { -brand-name-firefox }'u indirin
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Daha hızlı açılan sayfalar, daha az bellek kullanımı ve bir sürü özelliğiyle yeni { -brand-name-firefox }'un { -brand-name-linux } sürümü burada.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-linux } için { -brand-name-firefox }
 new-platform-privacy-more-than = Lafta değil, icraatta gizlilik
 new-platform-your-life-your-business = İnternetteki hayatın başkalarını ilgilendirmez. { -brand-name-firefox }, { -brand-name-linux }’ta da üçüncü taraf takip çerezlerini engeller.
 new-platform-speed-meet-security = Hız ve güvenlik bir arada. { -brand-name-firefox } eskisinden iki kat daha hızlı ve { -brand-name-chrome }’dan %30 daha az bellek tüketiyor.

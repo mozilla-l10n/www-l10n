@@ -10,11 +10,8 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox }ova sl
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Imate li stvari za raditi i gledati? Obavite oboje koristeći Slika-u-slici u { -brand-name-firefox }u.
 features-pip-picture-in-picture = Slika-u-slici
-features-pip-new-feature-firefox-multi-picture = Nova funkcija: { -brand-name-firefox } više slika-u-slici
-features-pip-cool-feature-picture-in-picture = Cool funkcija: Slika-u-slici
 features-pip-get-more-done-with-pop-out-videos = Uradite više uz iskočne videozapise
 features-pip-got-things-to-do-do-both-with = Imate li stvari za raditi i gledati? Obavite oboje koristeći funkciju Slika-u-slici u { -brand-name-firefox }u. Omogućuje vam da izbacite video s njegove web stranice i zakačite ga na ekran kako biste mogli nastaviti gledati dok ste na drugim stranicama, tabovima i aplikacijama.
-features-pip-play-the-video = Pusti video
 features-pip-heres-how-it-works = Evo kako to radi:
 features-pip-play-any-video-in-your-updated = <strong>Reproducirajte bilo koji video</strong> u vašem { -brand-name-firefox } pretraživaču, poput ovog.
 features-pip-play-any-video-in-your = <strong>Reproduciraj bilo koji video</strong> u svom { -brand-name-firefox } pretraživaču, poput ovog sa mladuncima crvene pande u glavnoj ulozi.

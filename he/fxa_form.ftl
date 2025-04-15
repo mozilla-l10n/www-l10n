@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = בחירה בהמשך התהליך מהווה הסכמה ל<a href="{ $url1 }">תנאי השירות</a> ול<a href="{ $url2 }">הצהרת הפרטיות</a>.
 fxa-form-email-address = כתובת דוא״ל
 fxa-form-continue = המשך
-fxa-form-create-account = יצירת חשבון
-fxa-form-get-the-app = הורדת היישום

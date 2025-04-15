@@ -14,8 +14,6 @@ bookmark-manager-organize-your-bookmarks-with = فولڈراں تے ٹیگاں �
 bookmark-manager-bookmarks-are-links-you-save = بُک مارکس اُوہ لنکس ہِن جِنّھاں کوں تُساں آپݨے براؤزر وِچ محفوظ کرین٘دے ہِیوے تاں جو تُساں ویب اُتے آپݨی مَن بھان٘دیاں جائیں اُتے جَلتی اَتے سَوکھ نال وَل ون٘ڄ سڳو۔ { -brand-name-firefox }وِچ ہِک سَوکھا بُک مارک مینیجر شامل ہِے تاں جو تُساں ترتیب ݙے سڳو، ڳویڑ کر سڳو، اَپ ڈیٹ کر سڳو اَتے <a { $sync }>آپݨے سارے محفوظ کِیتے ڳئے لنکاں کوں آپݨے سبّھے ڈیوائساں اُتّے ہم وقت کر سڳو</a>۔
 bookmark-manager-organize-your-boomarks-into = آپݨے بُک مارکس کوں لبّھݨ دے قابل فولڈرز وِچ ترتیب ݙیؤ
 bookmark-manager-collect-your-bookmarks-in-folders = آپݨے بُک مارکس کوں فولڈرز وِچ کَٹّھا کرو اَتے ودھیک تفصیلاں دے نال ٹیگ کرو۔ تُساں آپݨے بُک مارکس کوں تِکھائی نال ڳویڑ کرݨ کِیتے ترتیب ݙے سڳدے ہِیوے جِنّھاں دی تُہاکوں لوڑ ہِے۔
-# Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-bookmark-manager = { -brand-name-firefox } وِچ بُک مارک مینیجر ونڈو دی تصویر۔
 bookmark-manager-easily-import-bookmarks = سوکھ نال نشانیاں درآمد کرو
 bookmark-manager-you-can-import-your-bookmarks = تُساں آپݨے بُک مارکس کوں کروم، سفاری، یا ایج کنوں { -brand-name-firefox } دے درآمد ویزرڈ نال درآمد کر سڳدے ہِیوے۔ صرف بُک مارکس > بُک مارکس کوں مُرتب کرو اُتے دباؤ اَتے وَل "درآمد اَتے بیک اَپ" کوں چُݨو۔
 # Used as an accessible text alternative for an image

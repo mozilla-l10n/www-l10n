@@ -10,11 +10,8 @@ features-pip-firefox-picture-in-picture-get-more = Imagine annidate de { -brand-
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Vole tu facer alcun cosas durante que tu reguarda altere cosas? Face ambe per Imagine annidate in { -brand-name-firefox }.
 features-pip-picture-in-picture = Imagine-in-imagine
-features-pip-new-feature-firefox-multi-picture = Nove function: { -brand-name-firefox } imagine annidate in plure fenestras
-features-pip-cool-feature-picture-in-picture = Belle functionalitate: Imagine annidate
 features-pip-get-more-done-with-pop-out-videos = Sia plus productive con le videos emergente
 features-pip-got-things-to-do-do-both-with = Vole tu facer alcun cosas durante que tu reguarda altere cosas? Face ambe per Imagine annidate in { -brand-name-firefox }. Illo te permitte de facer saltar foras un video de su pagina web e de appunctar lo a tu schermo, assi que tu pote continuar lo spectar durante que tu es sur altere paginas, schedas e applicationes
-features-pip-play-the-video = Reproducer le video
 features-pip-heres-how-it-works = Ecce como illo functiona
 features-pip-play-any-video-in-your-updated = <strong>Reproduce ulle video</strong> in tu navigator { -brand-name-firefox }, como isto.
 features-pip-play-any-video-in-your = <strong>Reproduce qualcunque video</strong> in tu navigator { -brand-name-firefox }, como isto interpretate per babies de panda rubie.

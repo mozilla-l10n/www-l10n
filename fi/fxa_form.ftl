@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = <strong>Kirjoita sähköpostiosoitteesi</strong> 
 fxa-form-by-proceeding = Jatkamalla hyväksyt <a href="{ $url1 }">palvelun käyttöehdot</a> ja <a href="{ $url2 }">tietosuojakäytännön</a>.
 fxa-form-email-address = Sähköpostiosoite
 fxa-form-continue = Jatka
-fxa-form-create-account = Luo tili
-fxa-form-get-the-app = Hanki sovellus

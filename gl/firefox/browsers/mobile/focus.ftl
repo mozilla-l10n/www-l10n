@@ -7,7 +7,6 @@
 
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-get-firefox-focus = Obter o { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = Envíar unha ligazón de descarga ao seu móbil.
 mobile-focus-scan-the-qr-code-to-get-started = Escanear o código QR para comezar
 mobile-focus-tracking-protection = Protección contra o seguimento
 mobile-focus-see-it-all = Velo todo máis rápido

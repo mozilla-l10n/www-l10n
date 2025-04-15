@@ -10,11 +10,8 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } Pictu
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Keni punë për të bërë dhe gjëra për të parë? Bëjini që të dyja përmes funksionit “Picture-in-Picture” në { -brand-name-firefox }.
 features-pip-picture-in-picture = Picture-in-Picture
-features-pip-new-feature-firefox-multi-picture = Veçori e re: { -brand-name-firefox } multi Picture-in-Picture
-features-pip-cool-feature-picture-in-picture = Veçori e lezetshme: Picture-in-Picture
 features-pip-get-more-done-with-pop-out-videos = Bëni më tepër gjëra me video hapur si flluska
 features-pip-got-things-to-do-do-both-with = Keni gjëra për të bërë dhe gjëra për të parë? Bëjini të dyja, duke përdorur Picture-in-Picture në { -brand-name-firefox }. Ju lejon të hapni një video jashtë faqes përkatëse dhe ta fiksoni në ekranin tuaj, që të mund ta shihni teksa gjendeni në faqe, skeda dhe aplikacione të tjera.
-features-pip-play-the-video = Luaje videon
 features-pip-heres-how-it-works = Ja se si funksionon:
 features-pip-play-any-video-in-your-updated = <strong>Luani çfarëdo videoje</strong> në shfletuesin tuaj { -brand-name-firefox }, si kjo.
 features-pip-play-any-video-in-your = <strong>Luani çfarëdo videoje</strong> në shfletuesin tuaj { -brand-name-firefox }, si kjo me këlyshë pande të kuqe.

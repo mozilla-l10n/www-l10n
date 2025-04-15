@@ -8,8 +8,6 @@
 features-private-browsing-private-browsing-mode = Privat surfläge
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox } privat surfläge
-# HTML page description
-features-private-browsing-firefox-protects = { -brand-name-firefox } skyddar din personliga integritet och blockerar spårare som följer dig på webben.
 features-private-browsing-if-you-share-a-computer = Om du delar en dator med andra personer eller om du vill begränsa hur mycket data webbplatser kan samla in om dig kan du använda privat surfläge i { -brand-name-firefox }. Privat surfning raderar de digitala spåren du lämnar efter dig när du surfar online — tänk på dem som fotspår genom skogen.
 features-private-browsing-what-does-private-browsing-do = Vad gör privat surfning?
 features-private-browsing-private-browsing-mode-opens-v2 = Privat surfläge öppnar ett nytt webbläsarfönster. När du stänger det sista privata surffönstret raderas din webbhistorik och eventuella spårningskakor från webbplatser du besökte. <strong>{ -brand-name-firefox } proffstips:</strong> Glöm inte att stänga alla dina privata surffönster när du är klar!

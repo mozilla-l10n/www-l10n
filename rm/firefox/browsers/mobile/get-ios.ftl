@@ -9,6 +9,5 @@
 get-ios-firefox-for-ios = { -brand-name-firefox-browser } per { -brand-name-ios }
 # HTML page description
 get-ios-firefox-is-fast = { -brand-name-firefox } per { -brand-name-ios } è svelt, segir e privat da bell'entschatta.
-get-ios-firefox-browser = { -brand-name-firefox }
 get-ios-download-firefox = Telechargiar { -brand-name-firefox } per { -brand-name-ios }
 get-ios-firefox-mobile-adapts = { -brand-name-firefox } per apparats mobils s'adatta a tai e ta facilitescha pli che mai da vesair tuts tes tabs averts, tias davosas tschertgas e tias websites preferidas en in'egliada.

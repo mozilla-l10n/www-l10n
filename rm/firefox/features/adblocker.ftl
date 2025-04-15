@@ -5,7 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Co bloccar reclamas stentusas cun agid dad in bloccader da reclamas
 features-adblocker-how-to-stop-seeing-too = Co sa defender cunter memia bleras reclamas e co evitar che interpresas ta persequiteschan en l'internet. In manual per bloccar reclamas dal navigatur { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Il bloccader da reclamas – in'arma secreta cunter reclamas stentusas.
 features-adblocker-so-many-ads-so-little = Uschè bleras reclamas, uschè pauca pazienza… Temp da far ina fin a questa sturnadad.

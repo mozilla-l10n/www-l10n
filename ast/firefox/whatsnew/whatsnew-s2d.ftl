@@ -5,5 +5,4 @@
 
 ### URL: https://www-dev.allizom.org/firefox/whatsnew/
 
-whatsnew-s2d-want-privacy-on-every-device = ¿Quies privacidá en tolos preseos?
 whatsnew-s2d-download-firefox-for-your = Baxa { -brand-name-firefox } pal to teléfonu intelixente y tableta.

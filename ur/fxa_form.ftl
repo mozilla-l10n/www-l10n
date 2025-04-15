@@ -8,5 +8,3 @@
 fxa-form-by-proceeding = آگے بڑھ کر ، آپ <a href="{ $url1 }"> سروس کی شرائط </a> اور <a href="{ $url2 }"> رازداری کا نوٹس </a> سے اتفاق کرتے ہیں۔
 fxa-form-email-address = ای میل کا پتہ
 fxa-form-continue = جاری رکھیں
-fxa-form-create-account = اکاؤنٹ بنائیں
-fxa-form-get-the-app = اپلی کیشن حاصل کریں

@@ -10,10 +10,7 @@ features-pip-firefox-picture-in-picture-get-more = { -brand-name-firefox } ਤ�
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = ਕੰਮ ਕਰਨ ਅਤੇ ਵੇਖਣ ਲਈ ਵੀ ਚੀਜ਼ਾਂ ਹਨ? { -brand-name-firefox } ਵਿੱਚ ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਵਰਤ ਕੇ ਦੋਵੇਂ ਚੀਜ਼ਾਂ ਕਰੋ।
 features-pip-picture-in-picture = ਤਸਵੀਰ-‘ਚ-ਤਸਵੀਰ
-features-pip-new-feature-firefox-multi-picture = ਨਵਾਂ ਫ਼ੀਚਰ: { -brand-name-firefox } ਕਈ ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ
-features-pip-cool-feature-picture-in-picture = ਘੈਂਟ ਫ਼ੀਚਰ: ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ
 features-pip-get-more-done-with-pop-out-videos = ਪੌਪ-ਅੱਪ ਵੀਡੀਓ ਨਾਲ ਵੱਧ ਕੰਮ ਕਰੋ
-features-pip-play-the-video = ਵੀਡੀਓ ਚਲਾਓ
 features-pip-heres-how-it-works = ਇਹ ਇੰਞ ਕੰਮ ਕਰਦਾ ਹੈ:
 features-pip-play-any-video-in-your-updated = ਆਪਣੇ { -brand-name-firefox } ਵਿੱਚ <strong>ਕੋਈ ਵੀ ਵੀਡੀਓ ਚਲਾਓ</strong>, ਜਿਵੇਂ ਇਹ।
 features-pip-play-any-video-in-your = ਆਪਣੇ { -brand-name-firefox } ਵਿੱਚ <strong>ਕੋਈ ਵੀ ਵੀਡੀਓ ਚਲਾਓ</strong>, ਜਿਵੇਂ ਇਹ ਰੈਡ ਪਾਂਡੇ ਦੇ ਬੱਚੇ।

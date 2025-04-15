@@ -8,8 +8,6 @@
 features-private-browsing-private-browsing-mode = Λειτουργία ιδιωτικής περιήγησης
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = Λειτουργία ιδιωτικής περιήγησης του { -brand-name-firefox }
-# HTML page description
-features-private-browsing-firefox-protects = Το { -brand-name-firefox } προστατεύει το διαδικτυακό σας απόρρητο και αποκλείει τρίτους που σας ακολουθούν στο διαδίκτυο.
 features-private-browsing-if-you-share-a-computer = Εάν μοιράζεστε έναν υπολογιστή με άλλα άτομα ή εάν θέλετε να περιορίσετε τον όγκο δεδομένων που μπορούν να συλλέξουν οι ιστότοποι για εσάς, μπορείτε να χρησιμοποιήσετε τη λειτουργία ιδιωτικής περιήγησης του { -brand-name-firefox }. Η ιδιωτική περιήγηση διαγράφει τα ψηφιακά ίχνη που αφήνετε όταν περιηγείστε στο διαδίκτυο, κάτι σαν τα ίχνη που θα αφήνατε στο δάσος.
 features-private-browsing-what-does-private-browsing-do = Τι κάνει η ιδιωτική περιήγηση;
 features-private-browsing-private-browsing-mode-opens-v2 = Η λειτουργία ιδιωτικής περιήγησης ανοίγει ένα νέο παράθυρο προγράμματος περιήγησης. Όταν κλείσετε το τελευταίο παράθυρο ιδιωτικής περιήγησης, θα διαγραφεί το ιστορικό σας και τυχόν cookie καταγραφής από τους ιστοτόπους που επισκεφτήκατε. <strong>Συμβουλή από το { -brand-name-firefox }:</strong> Μην ξεχάσετε να κλείσετε όλα τα παράθυρα ιδιωτικής περιήγησης όταν τελειώσετε!

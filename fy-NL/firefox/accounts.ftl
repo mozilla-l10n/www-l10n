@@ -26,7 +26,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Wachtwurden te bewarjen
 firefox-accounts-get-email-alerts = E-mailwarskôgingen te ûntfangen wannear’t jo gegevens foar komme yn in bekend datalek
 firefox-accounts-protect-your-identity = Jo identiteit beskermje mei feilige telefoan- en e-mailmaskearring
 firefox-accounts-keep-your-passwords = Hâld jo wachtwurden beskerme en nim se mei.
-firefox-accounts-get-a-lookout-for = Untfang sicht op datalekken.
 firefox-accounts-travel-the-internet = Reizgje op it ynternet mei beskerming, op elk apparaat.
 firefox-accounts-encrypt-your = Jo netwurkaktiviteit te fersiferjen en jo IP-adres te ferstopjen
 firefox-accounts-we-never = Wy logge, folgje of diele jo netwurkgegevens nea
@@ -38,6 +37,5 @@ firefox-accounts-get-it-all-on-every = Download alles op elk apparaat, sûnder d
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }

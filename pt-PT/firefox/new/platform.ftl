@@ -9,7 +9,6 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Navegador Web gratuito
-new-platform-download-firefox = Transferir o { -brand-name-firefox }
 new-platform-download-the-fastest = Transfira o { -brand-name-firefox } mais rápido de sempre
 new-platform-faster-page-loading = Carregamento de páginas mais rápido, menos utilização de memória e repleto de funcionalidades, o novo { -brand-name-firefox } está aqui.
 new-platform-2x-faster = 2x mais rápido
@@ -26,8 +25,6 @@ new-platform-download-mozilla-desc-linux = Transfira o { -brand-name-mozilla } {
 new-platform-download-the-fastest-linux = Transfira o { -brand-name-firefox } para { -brand-name-linux } mais rápido de sempre
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Carregamento de páginas mais rápido, menor consumo de memória e repleto de funcionalidades, o novo { -brand-name-firefox } para { -brand-name-linux } está aqui.
-# /firefox/linux/ main page title
-new-platform-firefox-for-linux = { -brand-name-firefox } para { -brand-name-linux }
 new-platform-privacy-more-than = Privacidade - mais do que uma política
 new-platform-your-life-your-business = A sua vida só a si lhe diz respeito. O { -brand-name-firefox } bloqueia os cookies de monitorização de terceiros no { -brand-name-linux }.
 new-platform-speed-meet-security = Velocidade conhece segurança. O { -brand-name-firefox } é duas vezes mais rápido e consome 30% menos memória do que o { -brand-name-chrome }.

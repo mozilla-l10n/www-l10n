@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = Provi novajn trajtojn en prepara ver
 firefox-channel-download-and-test-future = Elŝuti kaj testi estontajn versiojn de { -brand-name-firefox } por komputiloj, { -brand-name-android } kaj { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Sperti la lastajn trajtojn en prepara versio de la retumilo por { -brand-name-android }: { -brand-name-firefox-beta } kaj { -brand-name-firefox-nightly }. Instalu nun!
 firefox-channel-experience-cutting-edge-android = Sperti la lastajn trajtojn en prepara versio de la retumilo por { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } kaj { -brand-name-firefox-nightly }. Instalu nun!
-firefox-channel-download-and-test-the-latest-android = Elŝuti kaj testi la lastajn trajtojn de { -brand-name-firefox } por { -brand-name-android } per la versioj { -brand-name-aurora }, { -brand-name-beta } kaj { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Provu la lastajn trajtojn por { -brand-name-android }, antaŭ ol ili estos liveritaj por ĉiuj.
 firefox-channel-all-languages-and-platforms = Ĉiuj lingvoj kaj sistemoj
 firefox-channel-all-languages-and-builds = Ĉiuj lingvoj kaj versioj
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = Blogo de { -brand-name-nightly }
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } estas nestabila testa kaj programista platformo. { -brand-name-nightly } norme sendas datumojn al { -brand-name-mozilla } (kaj iam al ĝiaj asociitoj) por helpi al ni solvi problemojn kaj provi novajn ideojn. <a href="{ $link }">Pli da informo pri tio, kio estas sendata</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } aŭtomate sendas informojn al { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Provi novajn trajtojn de la retumilo en la preparaj versioj | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Sperti la lastajn trajtojn de la retumilo en la preparaj versioj: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } kaj { -brand-name-firefox-nightly }. Elŝutu nun!
 firefox-channel-download-and-test-the-latest-desktop = Elŝuti kaj testi la lastajn trajtojn de { -brand-name-firefox } por komputiloj per la versioj { -brand-name-developer-edition }, { -brand-name-beta } kaj { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

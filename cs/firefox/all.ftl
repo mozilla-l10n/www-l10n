@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = Stažení { -brand-name-firefox(case: "gen") } v angličtině a více než 90 dalších jazycích
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Každý si zaslouží přístup k internetu – jazyk by nikdy neměl být překážkou. To je důvod, proč s pomocí dobrovolníků z celého světa dáváme { -brand-name-firefox(case: "acc") } k dispozici ve více než 90 jazycích.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = Naskenujte QR kód a získejte <em>{ $product_name }</em>
 firefox-all-choose-browser = Pro pokračování zvolte prohlížeč
 firefox-all-choose-platform = Pro pokračování vyberte platformu
 firefox-all-choose-language = Pro pokračování vyberte jazyk
@@ -69,14 +66,7 @@ firefox-all-product-send-link = Poslat odkaz ke stažení do vašeho telefonu
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32-bitový instalátor vyberte pro počítače s 32-bitovými procesory nebo pro starší či méně výkonné počítače. <a href="{ $url }">Pokud si nejste jisti</a>, zda vybrat 64-bitový nebo 32-bitový instalátor, doporučujeme zvolit 32-bitový.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Stáhnout { $product_label } pro systém { $platform } v jazyce { $locale }
 firefox-all-msi-installers = MSI instalátory
-firefox-all-which-version = Jakou verzi byste si přáli?
-firefox-all-select-your-preferred-installer = Vyberte preferovaný instalátor
 firefox-all-select-your-preferred-language = Vyberte požadovaný jazyk
 firefox-all-learn-about-installers = Bližší informace o instalátorech
 firefox-all-product-firefox = { -brand-name-firefox }

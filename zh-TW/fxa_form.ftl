@@ -9,5 +9,3 @@ fxa-form-enter-your-email-v2 = <strong>輸入您的 E-Mail 地址</strong>即可
 fxa-form-by-proceeding = 送出表單，代表您同意我們的<a href="{ $url1 }">使用條款</a>及<a href="{ $url2 }">隱私權公告</a>。
 fxa-form-email-address = 電子郵件地址
 fxa-form-continue = 繼續
-fxa-form-create-account = 註冊帳號
-fxa-form-get-the-app = 下載程式

@@ -24,7 +24,6 @@ newsletter-form-we-will-only-send-firefox-v2 = เราจะส่งเฉพ
 newsletter-form-if-you-havent-previously = ถ้าคุณยังไม่เคยยืนยันการสมัครจดหมายข่าวที่เกี่ยวข้องกับ { -brand-name-mozilla } คุณอาจจะต้องทำต่อไปนี้ โปรดตรวจสอบกล่องจดหมายเข้าของคุณหรือตัวกรองสแปมของคุณเพื่อดูอีเมลจากเรา
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + คุณ
 newsletter-form-get-firefox-tips = รับกลเม็ด เคล็ดลับ ข่าว และอีกมากมายเกี่ยวกับ { -brand-name-firefox }
-newsletter-form-keep-up-with = คงอยู่ไว้กับ <br> { -brand-name-firefox } ทุกอย่าง
 newsletter-form-get-mozilla-updates = รับการอัปเดตจาก { -brand-name-mozilla }
 newsletter-form-available-languages = ภาษาที่มี
 newsletter-form-select-country = เลือกประเทศ

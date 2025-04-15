@@ -17,7 +17,6 @@ firefox-channel-try-new-features-in-a-pre = ทดลองความสาม
 firefox-channel-download-and-test-future = ดาวน์โหลดและทดสอบรุ่นต่าง ๆ ในอนาคตของ { -brand-name-firefox } สำหรับเดสก์ท็อป { -brand-name-android } และ { -brand-name-ios }
 firefox-channel-experience-cutting-edge-android-updated = สัมผัสความสามารถล้ำสมัยของเบราว์เซอร์ก่อนรุ่นเปิดตัวจริงสำหรับ { -brand-name-android }: { -brand-name-firefox-beta } และ { -brand-name-firefox-nightly } ติดตั้งเลย!
 firefox-channel-experience-cutting-edge-android = สัมผัสความสามารถล้ำสมัยของเบราว์เซอร์ pre-release สำหรับ { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } และ { -brand-name-firefox-nightly } ติดตั้งเลย!
-firefox-channel-download-and-test-the-latest-android = ดาวน์โหลดและทดสอบคุณลักษณะล่าสุดของ { -brand-name-firefox } สำหรับ { -brand-name-android } ด้วยการประกอบแบบ { -brand-name-aurora } { -brand-name-beta } และ { -brand-name-nightly }
 firefox-channel-try-the-latest-android-features = ลองใช้คุณลักษณะล่าสุดของ { -brand-name-android } ก่อนที่จะเผยแพร่สู่ส่วนอื่นของโลก
 firefox-channel-all-languages-and-platforms = ทุกภาษาและแพลตฟอร์ม
 firefox-channel-all-languages-and-builds = ทุกภาษาและการประกอบ
@@ -34,7 +33,6 @@ firefox-channel-nightly-blog = { -brand-name-nightly } Blog
 #   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } เป็นแพลตฟอร์มทดสอบและพัฒนาที่ไม่เสถียร โดยค่าเริ่มต้น { -brand-name-nightly } จะส่งข้อมูลไปยัง { -brand-name-mozilla } และพันธมิตรของเราในบางครั้งเพื่อช่วยเราจัดการกับปัญหาและทดลองแนวคิดต่าง ๆ <a href="{ $link }">เรียนรู้สิ่งที่แบ่งปัน</a>
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } จะส่งข้อมูลตอบกลับสู่ { -brand-name-mozilla }  อัตโนมัติ
-firefox-channel-try-new-browser-features = ลองความสามารถใหม่ของเบราว์เซอร์ในรุ่น Pre-Release | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = สัมผัสความสามารถล้ำสมัยของเบราว์เซอร์ในรุ่น pre-release: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } และ { -brand-name-firefox-nightly }. ดาวน์โหลดเลย!
 firefox-channel-download-and-test-the-latest-desktop = ดาวน์โหลดและทดสอบคุณลักษณะล่าสุดของ { -brand-name-firefox } สำหรับเดสก์ท็อปด้วยบิลด์ { -brand-name-developer-edition }, { -brand-name-beta } และ { -brand-name-nightly }
 firefox-channel-beta = { -brand-name-beta }

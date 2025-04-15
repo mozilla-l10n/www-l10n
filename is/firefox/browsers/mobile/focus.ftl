@@ -11,7 +11,6 @@ mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Einfalt huliðsvafur á farsímum
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } er tiltækur fyrir bæði { -brand-name-ios } og { -brand-name-android } tæki.
 mobile-focus-get-firefox-focus = Fáðu þér { -brand-name-firefox-focus }
-mobile-focus-send-a-download-link-to-your = Sendu niðurhalstengil í símann þinn.
 mobile-focus-scan-the-qr-code-to-get-started = Skannaðu QR-kóðann til að komast í gang
 mobile-focus-scan-alt-text = Skannaðu QR-kóðann til að sækja { -brand-name-firefox-focus }
 mobile-focus-delete-your-history = Eyddu vafurferlinum þínum

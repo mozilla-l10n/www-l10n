@@ -35,14 +35,7 @@ firefox-all-firefox-privacy-notice = Politikerezh prevezded { -brand-name-firefo
 firefox-all-learn-about-firefox = Gouzout hiroc’h diwar-benn merdeerioù { -brand-name-firefox }
 firefox-all-arm64-installers = Stalierioù ARM64/AArch64
 firefox-all-product-send-link = Kas ul liamm pellgargañ d’ho pellgomzer
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Pellgargañ { $product_label } evit { $platform } e { $locale }
 firefox-all-msi-installers = Stalierioù MSI
-firefox-all-which-version = Peseurt stumm ho peus c’hoant?
-firefox-all-select-your-preferred-installer = Dibabit ho stalier karetañ
 firefox-all-select-your-preferred-language = Diuzit ho yezh garetañ
 firefox-all-learn-about-installers = Gouzout hiroc’h diwar-benn ar stalierioù
 firefox-all-product-firefox = { -brand-name-firefox }

@@ -29,23 +29,6 @@ firefox-desktop-download-browser-support = Pomoc { -brand-name-firefox-browser(c
 firefox-desktop-download-do-what-you-do-v2 = Rób w Internecie, co tylko chcesz.<br> { -brand-name-firefox-browser } jest po <strong>Twojej</strong> stronie.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Rób w Internecie, co tylko chcesz.<br> { -brand-name-firefox-browser } <strong>nie</strong> patrzy.
-firefox-desktop-download-how-firefox-compares = Jak { -brand-name-firefox } wypada na tle innych przeglądarek
-firefox-desktop-download-get-all-the-speed = Korzystaj z pełnej prędkości i wszystkich narzędzi bez poświęcania swojej prywatności. { -brand-name-firefox-browser } zbiera tak mało informacji o Tobie, że nie wymagamy nawet adresu e-mail, aby ją pobrać. Dzieje się tak, ponieważ w przeciwieństwie do innych przeglądarek, nie mamy żadnego interesu finansowego w śledzeniu Cię po sieci.
-firefox-desktop-download-how-we-compare = Jak wypadamy na tle innych przeglądarek
-firefox-desktop-download-compare-firefox-to = Porównaj { -brand-name-firefox(case: "acc") } z:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Tak
-firefox-desktop-download-no = Nie
-firefox-desktop-download-blocks-third-party = Blokuje ciasteczka zewnętrznych witryn używane do śledzenia
-firefox-desktop-download-blocks-third-party-default = Domyślnie blokuje ciasteczka zewnętrznych witryn używane do śledzenia
-firefox-desktop-download-autoplay-blocking = Blokowanie automatycznego odtwarzania
-firefox-desktop-download-blocks-social-trackers = Blokuje elementy śledzące serwisów społecznościowych
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = Dostępna w różnych systemach operacyjnych
-firefox-desktop-download-in-browser-screenshot = Wbudowane narzędzie do wykonywania zrzutów ekranu
-firefox-desktop-download-primary-password = Hasło główne
 firefox-desktop-download-we-block-the-ad = My blokujemy śledzące reklamy. Ty szybciej przeglądasz Internet.
 firefox-desktop-download-ads-are-distracting = Reklamy rozpraszają uwagę i spowalniają wczytywanie stron, a ich elementy śledzące obserwują Twój każdy ruch w sieci. { -brand-name-firefox-browser } automatycznie blokuje większość elementów śledzących, więc nie ma potrzeby zagłębiać się w ustawienia bezpieczeństwa.
 firefox-desktop-download-see-your-report = Zobacz swój raport ochrony
@@ -149,7 +132,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automat
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Pytania? <a { $attrs }>Pomoc { -brand-name-mozilla(case: "gen") }</a> ma odpowiedzi.
-firefox-desktop-download-watch-for-hackers-with-v3 = Uważaj na hakerów za pomocą { -brand-name-mozilla-monitor }, chroń adres e-mail dzięki { -brand-name-firefox-relay } i nie tylko.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
@@ -172,18 +154,12 @@ firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-if-you-see-a-prompt = Jeśli zobaczysz komunikat informujący, że instalowana aplikacja nie została zweryfikowana przez firmę { -brand-name-microsoft }, kliknij przycisk „Zainstaluj mimo to” lub <a { $attrs }>zmień ustawienia polecanych aplikacji</a>.
 firefox-desktop-download-visit-support-for-more = Pomoc zawiera więcej informacji
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">nie zapewnia już aktualizacji zabezpieczeń</a> w systemach { -brand-name-windows } { -brand-name-xp } i { -brand-name-vista }, ale nadal można na nich używać { -brand-name-firefox(case: "gen") }.
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Pobieranie powinno rozpocząć się samoczynnie. Jeśli nie, to <a id="{ $id }" href="{ $fallback_url }">spróbuj jeszcze raz</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } to więcej niż przeglądarka.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Pobieranie zostało przerwane. Ale nie wszystko stracone.
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Instrukcje, jak <a href="{ $url }">zainstalować { -brand-name-firefox(case: "gen") }</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Używany system operacyjny może nie spełniać wymagań { -brand-name-firefox(case: "gen") }, można jednak spróbować jedną z <a href="{ $url }">tych wersji</a>.

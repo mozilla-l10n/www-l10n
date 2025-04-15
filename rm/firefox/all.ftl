@@ -9,9 +9,6 @@
 firefox-all-download-the-firefox-v2 = Telechargia { -brand-name-firefox } per rumantsch e dapli che 90 autras linguas
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Mintgin merita dad avair access a l’internet — tia lingua na duess mai esser ina barriera. Perquai mettain nus a disposiziun { -brand-name-firefox } — cun agid da voluntaris passiunads da tut il mund — en passa 90 linguas.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = Scannescha il code QR per ir per <em>{ $product_name }</em>
 firefox-all-choose-browser = Tscherna in navigatur per cuntinuar
 firefox-all-choose-platform = Tscherna ina plattafurma per cuntinuar
 firefox-all-choose-language = Tscherna ina lingua per cuntinuar
@@ -69,14 +66,7 @@ firefox-all-product-send-link = Trametter ina colliaziun per telechargiar a tes 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Tscherna in program d'installaziun da 32 bits per computers cun processurs da 32 bits — u per computers pli vegls u main ferms. <a href="{ $url }">Sche ti na pos betg ta decider</a> per in program d'installaziun da 64 bits u in da 32 bits, ta recumandain nus d'installar la versiun da 32 bits.
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Telechargiar { $product_label } per { $platform } per { $locale }
 firefox-all-msi-installers = Program d'installaziun MSI
-firefox-all-which-version = Tge versiun vuls ti?
-firefox-all-select-your-preferred-installer = Tscherna il program d'installaziun preferì
 firefox-all-select-your-preferred-language = Tscherna la lingua preferida
 firefox-all-learn-about-installers = Infurmaziuns davart ils programs d'installaziun
 firefox-all-product-firefox = { -brand-name-firefox }

@@ -26,7 +26,6 @@ firefox-accounts-save-and-sync = <a href="{ $password }">Spremi i sinkroniziraj 
 firefox-accounts-get-email-alerts = Primaj upozorenja e-poštom kada se tvoji podaci pojave u poznatoj krađi podataka
 firefox-accounts-protect-your-identity = Zaštiti svoj identitet sigurnim maskiranjem broja telefona i e-mail adrese
 firefox-accounts-keep-your-passwords = Čuvaj i prenosi svoje lozinke.
-firefox-accounts-get-a-lookout-for = Dobij obavijesti o curenju podataka.
 firefox-accounts-travel-the-internet = Kreći se po internetu sa zaštitom na svim uređajima.
 firefox-accounts-encrypt-your = Šifriraj svoju mrežnu aktivnost i sakrij svoju IP adresu
 firefox-accounts-we-never = Nikada ne bilježimo, pratimo ili dijelimo tvoje mrežne podatke
@@ -38,6 +37,5 @@ firefox-accounts-get-it-all-on-every = Imaj sve na svakom uređaju, bez osjećaj
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
-firefox-accounts-mozilla-relay = { -brand-name-firefox-relay }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-accounts-pocket = { -brand-name-pocket }
