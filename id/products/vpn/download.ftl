@@ -13,7 +13,6 @@ vpn-download-sub-heading = Anda dapat mengunduh { -brand-name-mozilla-vpn } hing
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } menawarkan perlindungan yang andal dan aman untuk semua sistem operasi utama.
 
 vpn-download-not-available-in-country = Maaf, { -brand-name-mozilla-vpn } tidak tersedia untuk diunduh di negara Anda.
-vpn-download-button-copy = Unduh
 
 vpn-download-for-windows-v2 = VPN untuk { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit saja)
@@ -38,8 +37,6 @@ vpn-download-for-android-long = Unduh { -brand-name-mozilla-vpn } untuk { -brand
 vpn-download-for-ios = VPN untuk { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Unduh { -brand-name-mozilla-vpn } untuk { -brand-name-ios }
 
-vpn-download-get-on-google-play = Dapatkan di { -brand-name-google-play } Store
-vpn-download-get-on-app-store = Dapatkan di { -brand-name-app-store }
 vpn-download-based-on-your = Berdasarkan perangkat Anda saat ini
 vpn-download-get-mozilla-vpn = Dapatkan { -brand-name-mozilla-vpn }
 vpn-download-privacy-you-can = Privasi yang bisa Anda percaya

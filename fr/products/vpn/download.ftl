@@ -13,7 +13,6 @@ vpn-download-sub-heading = Vous pouvez télécharger { -brand-name-mozilla-vpn }
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } offre une protection sécurisée sur tous les principaux systèmes d’exploitation.
 
 vpn-download-not-available-in-country = Désolés, { -brand-name-mozilla-vpn } n’est pas disponible dans votre pays.
-vpn-download-button-copy = Télécharger
 
 vpn-download-for-windows-v2 = VPN pour { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64 bits uniquement)
@@ -38,8 +37,6 @@ vpn-download-for-android-long = Téléchargez { -brand-name-mozilla-vpn } pour {
 vpn-download-for-ios = VPN pour { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Téléchargez { -brand-name-mozilla-vpn } pour { -brand-name-ios }
 
-vpn-download-get-on-google-play = Télécharger sur le { -brand-name-google-play } Store
-vpn-download-get-on-app-store = Télécharger sur l’{ -brand-name-app-store }
 vpn-download-based-on-your = Basé sur votre appareil actuel
 vpn-download-get-mozilla-vpn = Installer { -brand-name-mozilla-vpn }
 vpn-download-privacy-you-can = Une confidentialité à toute épreuve
