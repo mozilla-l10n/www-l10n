@@ -42,5 +42,3 @@ privacy-firefox-take-me-back = मुझे निजता नोटिस म�
 # Variables:
 #   $attrs (string) - in-page link to the top of the page
 privacy-firefox-lost-in-the = विवरण में खो गए? वापस <a { $attrs }>{ -brand-name-firefox } निजता की बुनियादी बातें</a> पर जाएं।
-# links to Mozilla privacy policy
-privacy-firefox-mozilla-privacy = { -brand-name-mozilla } निजता

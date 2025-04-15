@@ -42,5 +42,3 @@ privacy-firefox-take-me-back = Bawa saya <a { $attrs }>kembali ke bagian atas</a
 # Variables:
 #   $attrs (string) - in-page link to the top of the page
 privacy-firefox-lost-in-the = Terlalu banyak detail? Kembali ke <a { $attrs }>prinsip dasar privasi { -brand-name-firefox }</a>.
-# links to Mozilla privacy policy
-privacy-firefox-mozilla-privacy = Privasi { -brand-name-mozilla }

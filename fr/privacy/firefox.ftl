@@ -42,5 +42,3 @@ privacy-firefox-take-me-back = Ramenez-moi <a { $attrs }>en haut</a> de la Polit
 # Variables:
 #   $attrs (string) - in-page link to the top of the page
 privacy-firefox-lost-in-the = Trop de détails pour vous ? Retournez sur la page des <a { $attrs }>bases de la confidentialité de { -brand-name-firefox }</a>.
-# links to Mozilla privacy policy
-privacy-firefox-mozilla-privacy = La confidentialité chez { -brand-name-mozilla }

@@ -42,5 +42,3 @@ privacy-firefox-take-me-back = プライバシー通知の<a { $attrs }>トッ�
 # Variables:
 #   $attrs (string) - in-page link to the top of the page
 privacy-firefox-lost-in-the = 迷ったら、<a { $attrs }>{ -brand-name-firefox } のプライバシーの基本</a>に戻ってください。
-# links to Mozilla privacy policy
-privacy-firefox-mozilla-privacy = { -brand-name-mozilla } のプライバシー
