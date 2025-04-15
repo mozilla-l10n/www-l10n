@@ -8,30 +8,8 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } पाएँ
 vpn-shared-waitlist-link = वेटिंग लिस्ट में शामिल हों
 
-vpn-shared-available-countries-v6 = अभी हम { -brand-name-mozilla-vpn } को ऑस्ट्रिया, बेल्जियम, बुल्गारिया, कनाडा, क्रोएशिया, साइप्रस, चेक रिपब्लिक, डेनमार्क, एस्टोनिया, फ़िनलैंड, फ़्रांस, जर्मनी, हंगरी, आयरलैंड, इटली, लातविया, लिथुआनिया, लक्ज़मबर्ग, मलेशिया, माल्टा, नीदरलैंड, न्यूज़ीलैंड, पोलैंड, पुर्तगाल, रोमानिया, सिंगापुर, स्लोवेनिया, स्लोवाकिया, स्पेन, स्वीडन, स्विट्ज़रलैंड, यूके और यूएस में ऑफ़र कर रहे हैं।
-
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30-दिन में धनवापसी की गारंटी
-vpn-shared-features-encrypt = डिवाइस के स्तर पर एन्क्रिप्शन
-vpn-shared-features-bandwidth = बैंडविड्थ की कोई पाबंदी नहीं
-vpn-shared-features-activity = आपकी नेटवर्क संबंधी गतिविधि का लॉग नहीं रखा जाता
-vpn-shared-features-activity-logs = ऑनलाइन गतिविधि वाले कोई लॉग नहीं, न आज न आगे कभी
-
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = { $countries }+ देशों के सर्वरों का एक्सेस
-
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = अधिकतम { $devices } डिवाइसों के लिए सुरक्षा
-
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = { $countries }+ देशों में मज़बूत सर्वर
-
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = अधिकतम { $devices } डिवाइस कनेक्ट करें
 
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30-दिन की धनवापसी की गारंटी
@@ -80,12 +58,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } अभ
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = आइए शुरू करें
 vpn-shared-platform-cta-button = कीमत एवं उपलब्धता देखें
-vpn-shared-platform-privacy-promise = आपकी निजता की सुरक्षा - हमारा वादा है
 vpn-shared-platform-what-is = { -brand-name-mozilla-vpn } क्या है?
 vpn-shared-platfrom-why-choose = { -brand-name-mozilla-vpn } ही क्यों?
-vpn-shared-platform-what-youll-get = { -brand-name-mozilla-vpn } में आपको क्या-क्या मिलेगा:
 
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }

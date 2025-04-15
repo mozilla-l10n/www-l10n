@@ -8,30 +8,8 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = { -brand-name-mozilla-vpn } をダウンロード
 vpn-shared-waitlist-link = ウェイトリストに登録
 
-vpn-shared-available-countries-v6 = 現在 { -brand-name-mozilla-vpn } を提供している国は、オーストリア、ベルギー、ブルガリア、カナダ、クロアチア、キプロス、チェコ共和国、デンマーク、エストニア、フィンランド、フランス、ドイツ、ハンガリー、アイルランド、イタリア、ラトビア、リトアニア、ルクセンブルク、マレーシア、マルタ、オランダ、ニュージーランド、ポーランド、ポルトガル、ルーマニア、シンガポール、スロベニア、スロバキア、スペイン、スウェーデン、スイス、英国、米国です。
-
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = 30 日間の返金保証
-vpn-shared-features-encrypt = デバイスレベルの暗号化
-vpn-shared-features-bandwidth = 帯域幅の制限なし
-vpn-shared-features-activity = ネットワークアクティビティの記録なし
-vpn-shared-features-activity-logs = いつでもオンラインアクティビティログなし
-
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = { $countries } か国以上のサーバーにアクセス
-
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = デバイス { $devices } 台まで保護
-
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = { $countries } か国以上に強力なサーバー
-
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = デバイス { $devices } 台まで接続
 
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30 日間の返金保証
@@ -80,12 +58,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } はお
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = 始めましょう
 vpn-shared-platform-cta-button = 料金と利用可否を確認
-vpn-shared-platform-privacy-promise = あなたのプライバシーは、私たちの約束です
 vpn-shared-platform-what-is = { -brand-name-mozilla-vpn } とは？
 vpn-shared-platfrom-why-choose = { -brand-name-mozilla-vpn } を使う理由
-vpn-shared-platform-what-youll-get = { -brand-name-mozilla-vpn } の内容
 
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }

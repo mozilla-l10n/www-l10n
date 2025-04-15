@@ -8,30 +8,8 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = احصل على { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = انضم إلى قائمة الانتظار
 
-vpn-shared-available-countries-v6 = نوفّر { -brand-name-mozilla-vpn } حاليًا في النمسا وبلجيكا وبلغاريا وكندا وكرواتيا وقبرص وجمهورية التشيك والدنمارك وإستونيا وفنلندا وفرنسا وألمانيا والمجر وأيرلندا وإيطاليا ولاتفيا وليتوانيا ولوكسمبورغ وماليزيا ومالطا وهولندا ونيوزيلندا وبولندا والبرتغال ورومانيا وسنغافورة وسلوفينيا وسلوفاكيا وإسبانيا والسويد وسويسرا والمملكة المتحدة والولايات المتحدة.
-
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = ضمان استرداد الأموال لمدة 30 يومًا
-vpn-shared-features-encrypt = تشفير على مستوى الجهاز
-vpn-shared-features-bandwidth = لا توجد قيود على النطاق الترددي
-vpn-shared-features-activity = لا يوجد تسجيل لأنشطتك التي تقوم بها على الشبكة
-vpn-shared-features-activity-logs = لا توجد سِجلات للأنشطة التي تتم على الإنترنت الآن أو في أي وقت مضى
-
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = وصول إلى خوادم في أكثر من { $countries } بلدًا
-
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = حماية ما يصل إلى { $devices } أجهزة
-
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = خوادم قوية في أكثر من { $countries } بلدًا
-
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = توصيل { $devices } أجهزة بحد أقصى
 
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = ضمان استرداد الأموال لِمدة 30 يومًا
@@ -80,12 +58,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } غير
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = لنبدأ
 vpn-shared-platform-cta-button = تعرَّف على الأسعار والتوافر
-vpn-shared-platform-privacy-promise = خصوصيتك وَعدٌ منّا
 vpn-shared-platform-what-is = ما هو { -brand-name-mozilla-vpn }؟
 vpn-shared-platfrom-why-choose = لماذا { -brand-name-mozilla-vpn }؟
-vpn-shared-platform-what-youll-get = المزايا التي سَتحصُل عليها من خلال تطبيق { -brand-name-mozilla-vpn }:
 
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }

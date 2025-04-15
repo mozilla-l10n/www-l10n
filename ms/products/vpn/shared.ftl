@@ -8,30 +8,8 @@ vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Dapatkan { -brand-name-mozilla-vpn }
 vpn-shared-waitlist-link = Sertai Senarai Menunggu
 
-vpn-shared-available-countries-v6 = Kami menawarkan { -brand-name-mozilla-vpn } di Austria, Belgium, Bulgaria, Kanada, Croatia, Cyprus, Republik Czech, Denmark, Estonia, Finland, Perancis, Jerman, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malaysia, Malta, Netherlands, New Zealand, Poland, Portugal, Romania, Singapura, Slovenia, Slovakia, Spain, Sweden, Switzerland, UK dan AS.
-
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Jaminan wang dikembalikan dalam masa 30 hari
-vpn-shared-features-encrypt = Enkripsi peringkat peranti
-vpn-shared-features-bandwidth = Tiada sekatan jalur lebar
-vpn-shared-features-activity = Tiada rekod bagi aktiviti rangkaian anda
-vpn-shared-features-activity-logs = Tiada catatan aktiviti dalam talian kini dan selamanya
-
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-access-countries = Akses ke pelayan di { $countries }+ negara
-
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-protection = Perlindungan sehingga { $devices } peranti
-
-# Variables:
-#   $countries (number) - number of available countries
-vpn-shared-features-strong-servers = Pelayan yang mantap di { $countries }+ negara
-
-# Variables:
-#   $devices (number) - number of available devices
-vpn-shared-features-connect = Sambungkan sehingga { $devices } peranti
 
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = Jaminan wang dikembalikan dalam 30 hari
@@ -80,12 +58,9 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } masih 
 
 # Platform subpage shared strings
 
-vpn-shared-platform-cta-headline = Mari kita mulakan
 vpn-shared-platform-cta-button = Lihat harga & ketersediaan
-vpn-shared-platform-privacy-promise = Privasi anda adalah janji kami
 vpn-shared-platform-what-is = Apakah { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Mengapa { -brand-name-mozilla-vpn }?
-vpn-shared-platform-what-youll-get = Apa yang anda perolehi dengan { -brand-name-mozilla-vpn }:
 
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
