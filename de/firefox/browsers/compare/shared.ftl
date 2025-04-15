@@ -7,7 +7,6 @@
 compare-shared-compare-firefox = Vergleiche { -brand-name-firefox }
 compare-shared-footer-cta-title = Mehr machen mit { -brand-name-firefox }
 compare-shared-footer-cta-desc = Hol dir den schnellen, leichten, datenschutzorientierten Browser, der von einer Non-Profit unterstützt wird und auf all deinen Geräten funktioniert.
-compare-shared-footer-cta-button = { -brand-name-firefox } herunterladen
 compare-shared-we-also-offer-easy = Wir bieten außerdem benutzerfreundliche Funktionen wie:
 compare-shared-firefox-also-has-built-in = Aber { -brand-name-firefox } ist außerdem mit folgenden integrierten Tools ausgestattet:
 

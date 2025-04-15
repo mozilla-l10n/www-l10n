@@ -7,7 +7,6 @@
 compare-shared-compare-firefox = { -brand-name-firefox } の比較
 compare-shared-footer-cta-title = { -brand-name-firefox } で可能性が広がる
 compare-shared-footer-cta-desc = 非営利団体が支援し、すべてのデバイスで使える、高速で軽量、プライバシー重視のブラウザーをご利用ください。
-compare-shared-footer-cta-button = { -brand-name-firefox } をダウンロード
 compare-shared-we-also-offer-easy = Firefox は、次のような使いやすい機能も提供しています。
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } には次のようなツールも組み込まれています。
 

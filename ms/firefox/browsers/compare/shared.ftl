@@ -7,7 +7,6 @@
 compare-shared-compare-firefox = Bandingkan { -brand-name-firefox }
 compare-shared-footer-cta-title = Nikmati lebih lagi dengan { -brand-name-firefox }
 compare-shared-footer-cta-desc = Dapatkan pelayar yang pantas, ringan serta memfokus kepada privasi pengguna yang disokong oleh organisasi bukan berasaskan keuntungan serta boleh digunakan di semua peranti anda.
-compare-shared-footer-cta-button = Muat turun { -brand-name-firefox }
 compare-shared-we-also-offer-easy = Kami juga menawarkan ciri-ciri seperti:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } juga mempunyai alatan siap bina seperti:
 
