@@ -12,7 +12,6 @@ welcome-page1-take-the-next-step-to-protect = Ambil langkah selanjutnya untuk me
 
 welcome-page1-stay-ahead-of-hackers-check-v2 = Selangkah lebih maju dari peretas. Periksa pelanggaran data dengan { -brand-name-mozilla-monitor }.
 
-welcome-page1-youre-on-track-to-stay-protected = Anda berada di jalur yang tepat untuk tetap terlindungi
 welcome-page1-youve-got-the-web-browser = Anda memiliki peramban web yang dapat melindungi privasi Anda — sekarang saatnya Anda mengawasi peretas.
 welcome-page1-check-your-breach-report = Periksa Laporan Pembobolan Anda
 

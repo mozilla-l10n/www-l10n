@@ -12,7 +12,6 @@ welcome-page1-take-the-next-step-to-protect = اتخذ الخطوة التالي
 
 welcome-page1-stay-ahead-of-hackers-check-v2 = اسبق المخترقين بخطوات. تحقّق من وجود تسريبات في البيانات باستخدام { -brand-name-mozilla-monitor }.
 
-welcome-page1-youre-on-track-to-stay-protected = أنت على الطريق الصحيح للبقاء محميًا
 welcome-page1-youve-got-the-web-browser = لديك متصفّح الوِيب الذي يحمي خصوصيتك — حان الوقت لتمتلك حارسك الخاص ضد المُخترقين.
 welcome-page1-check-your-breach-report = راجع تقرير الخروقات الخاص بك
 

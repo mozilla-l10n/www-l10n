@@ -12,7 +12,6 @@ welcome-page1-take-the-next-step-to-protect = Ambil langkah seterusnya untuk mel
 
 welcome-page1-stay-ahead-of-hackers-check-v2 = Teruskan mendahului penggodam. Lihat jika ada kebocoran data dengan { -brand-name-mozilla-monitor }.
 
-welcome-page1-youre-on-track-to-stay-protected = Anda di laluan yang betul untuk terus mendapat perlindungan
 welcome-page1-youve-got-the-web-browser = Anda sudah dapat pelayar web yang melindungi privasi anda — sekarang masanya untuk mendapatkan pengawas penggodam.
 welcome-page1-check-your-breach-report = Semak Laporan Kebocoran Anda
 

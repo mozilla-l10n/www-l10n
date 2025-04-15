@@ -12,7 +12,6 @@ welcome-page1-take-the-next-step-to-protect = { -brand-name-firefox } ファミ�
 
 welcome-page1-stay-ahead-of-hackers-check-v2 = ハッカーの機先を制する。{ -brand-name-mozilla-monitor } でデータ侵害を警戒。
 
-welcome-page1-youre-on-track-to-stay-protected = さらなる保護強化へ
 welcome-page1-youve-got-the-web-browser = プライバシーを保護するウェブブラウザーを手に入れたら、次はハッカーを警戒しましょう。
 welcome-page1-check-your-breach-report = 侵害レポートを確認
 

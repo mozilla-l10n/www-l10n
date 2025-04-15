@@ -12,7 +12,6 @@ welcome-page1-take-the-next-step-to-protect = { -brand-name-firefox } के उ
 
 welcome-page1-stay-ahead-of-hackers-check-v2 = हैकर्स से आगे रहें। { -brand-name-mozilla-monitor } के साथ डेटा उल्लंघनों के लिए सतर्क रहें।
 
-welcome-page1-youre-on-track-to-stay-protected = अपनी सुरक्षा के लिए आप सही कदम उठा रहे हैं
 welcome-page1-youve-got-the-web-browser = आपकी निजता की रक्षा करने वाला वेब ब्राउज़र आपको मिल गया है — अब हैकर्स से सतर्क रहने की बारी है।
 welcome-page1-check-your-breach-report = उल्लंघन से जुड़ी अपनी रिपोर्ट देखें
 

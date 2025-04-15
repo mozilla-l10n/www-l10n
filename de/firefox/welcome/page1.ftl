@@ -12,7 +12,6 @@ welcome-page1-take-the-next-step-to-protect = Geh den nächsten Schritt in Sache
 
 welcome-page1-stay-ahead-of-hackers-check-v2 = Bleib Hackern einen Schritt voraus. Checke Datenleaks mit { -brand-name-mozilla-monitor }.
 
-welcome-page1-youre-on-track-to-stay-protected = Du bist auf dem richtigen Weg zu mehr Sicherheit online
 welcome-page1-youve-got-the-web-browser = Den Browser, der deine Privatsphäre schützt, hast du schon mal. Nächster Schritt: Datenlecks und Hacker im Auge behalten.
 welcome-page1-check-your-breach-report = Checke deinen Datenleak-Report
 
