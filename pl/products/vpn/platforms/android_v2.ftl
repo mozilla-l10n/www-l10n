@@ -12,4 +12,4 @@ vpn-android-whether-youre = Niezależnie od tego, czy jesteś w domu, w pracy, c
 vpn-android-using-the-fast = Korzystając z szybkiego i bezpiecznego protokołu VPN { -brand-name-wireguard }, nasz VPN jest w stanie zaszyfrować ruch internetowy między Twoim urządzeniem a siecią serwerów VPN. Pomaga nam to chronić Twój ruch internetowy, gdy jesteś w ruchu. To jak pokrywka chroniąca Twoją zieloną herbatę z miodem przed muchami brzęczącymi wokół stołu.
 vpn-android-how-does-a = W jaki sposób VPN chroni moje urządzenie z Androidem?
 vpn-android-vpns-help = VPN pomaga zapobiegać:
-vpn-android-your-internet-activity = Twoją aktywność w Internecie przed podglądaniem, a następnie sprzedażą lub udostępnianiem reklamodawcom.
+vpn-android-your-internet-activity = Podglądaniu aktywności użytkownika w Internecie, a następnie jej sprzedaży lub udostępnianiu reklamodawcom.
