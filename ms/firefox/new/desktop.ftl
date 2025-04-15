@@ -36,24 +36,6 @@ firefox-desktop-download-do-what-you-do-v2 = Buatlah apa yang anda gemari atas t
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Buatlah apa yang anda perlu atas talian.<br> { -brand-name-firefox-browser } <strong>tidak</strong> memerhati.
 
-firefox-desktop-download-how-firefox-compares = Bagaimana { -brand-name-firefox } dibandingkan dengan pelayar lain
-firefox-desktop-download-get-all-the-speed = Dapatkan kepantasan dan ciri-ciri tanpa pencerobohan privasi. Data yang dikumpulkan oleh { -brand-name-firefox-browser } terlalu sedikit sehinggakan kami tidak memerlukan e-mel anda untuk dimuat turun. Tidak seperti pelayar lain, kami tidak mempunyai kepentingan kewangan untuk menjejaki anda ke mana saja di web.
-firefox-desktop-download-how-we-compare = Perbandingan kami dengan pelayar lain
-firefox-desktop-download-compare-firefox-to = Bandingkan { -brand-name-firefox } dengan:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = Ya
-firefox-desktop-download-no = Tidak
-firefox-desktop-download-blocks-third-party = Menyekat kuki penjejak pihak ketiga
-firefox-desktop-download-blocks-third-party-default = Menyekat kuki penjejak pihak ketiga secara lalai
-firefox-desktop-download-autoplay-blocking = Sekatan main automatik
-firefox-desktop-download-blocks-social-trackers = Menyekat pengesan sosial
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = Ketersediaan OS
-firefox-desktop-download-in-browser-screenshot = Ciri tangkapan skrin dalam pelayar
-firefox-desktop-download-primary-password = Kata laluan utama
-
 firefox-desktop-download-we-block-the-ad = Kami menyekat penjejak iklan. Anda mampu melayari internet lebih pantas.
 firefox-desktop-download-ads-are-distracting = Iklan bersifat mengacau dan menjadikan pemuatan laman web perlahan manakala penjejak pula memerhati setiap pergerakan anda di atas talian. { -brand-name-firefox-browser } menyekat kebanyakan penjejak automatik maka anda tidak perlu menggodek tetapan keselamatan anda.
 firefox-desktop-download-see-your-report = Lihat laporan perlindungan anda
@@ -167,8 +149,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $a
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Ada soalan? <a { $attrs }>Bantuan { -brand-name-mozilla } </a> sedia membantu.
 
-firefox-desktop-download-watch-for-hackers-with-v3 = Awasi penggodam dengan { -brand-name-mozilla-monitor }, lindungi e-mel anda dengan { -brand-name-firefox-relay } dan banyak lagi.
-
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Hampir tiba!
@@ -192,10 +172,6 @@ firefox-desktop-download-if-you-see-a-prompt = Jika anda nampak arahan yang meny
 firefox-desktop-download-visit-support-for-more = Layari Sokongan untuk Maklumat Lanjut
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } <a href="{ $url }">tidak lagi membekalkan kemas kini keselamatan</a> bagi { -brand-name-windows } { -brand-name-xp } atau { -brand-name-vista }, tetapi anda masih boleh menggunakan { -brand-name-firefox }.
-
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Muat turun anda akan bermula secara automatik. Tidak berjaya? <a id="{ $id }" href="{ $fallback_url }">Cuba muat turun semula.</a>
@@ -203,10 +179,6 @@ firefox-desktop-download-your-firefox-new-should-begin = Muat turun anda akan be
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } lebih daripada sekadar pelayar.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Muat turun anda terganggu. Tapi jangan bimbang.
-
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Ikuti <a href="{ $url }">arahan ini</a> untuk memasang { -brand-name-firefox }.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/

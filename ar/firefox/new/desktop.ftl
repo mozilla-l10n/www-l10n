@@ -36,24 +36,6 @@ firefox-desktop-download-do-what-you-do-v2 = افعل كل ما يَحلو لك 
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = افعل كل ما يحلو لك على الإنترنت. فمُتصفح { -brand-name-firefox-browser } <strong>لا</strong> يراقبك.
 
-firefox-desktop-download-how-firefox-compares = كيفية مقارنة { -brand-name-firefox } بالمتصفحات الأخرى
-firefox-desktop-download-get-all-the-speed = استمتع بسرعة تصفح الإنترنت الفائقة واستخدم جميع الأدوات المُتاحة دون أي انتهاك لخصوصيتك. فمُتصفح { -brand-name-firefox-browser } لا يجمع سوى القليل جدًا من البيانات عنك، حتى إننا لا نطلُب عنوان بريدك الإلكتروني لتنزيل المُتصفح. ذلك لأنه مُميز عن المتصفحات الأخرى، وليس له أي مصلحة مالية في تتبعك عبر شبكة الويب.
-firefox-desktop-download-how-we-compare = كيفية المقارنة بيننا وبين المتصفحات الأخرى
-firefox-desktop-download-compare-firefox-to = مقارنة { -brand-name-firefox } مع:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = نعم
-firefox-desktop-download-no = لا
-firefox-desktop-download-blocks-third-party = يَحجب ملفات تعريف الارتباط التعقّبية من الأطراف الثالثة
-firefox-desktop-download-blocks-third-party-default = يَحجب ملفات تعريف الارتباط التعقّبية من الأطراف الثالثة افتراضيًا
-firefox-desktop-download-autoplay-blocking = منع التشغيل التلقائي
-firefox-desktop-download-blocks-social-trackers = يَحجب المُتعقّبات الاجتماعية
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = التوافر على أنظمة التشغيل
-firefox-desktop-download-in-browser-screenshot = أداة مُدمجة بالمتصفح لأخذ لقطات الشاشة
-firefox-desktop-download-primary-password = كلمة مرور رئيسية
-
 firefox-desktop-download-we-block-the-ad = نحجب المتعقِّبات الإعلانية، لتتمكن من تصفح الإنترنت على نحو أسرع.
 firefox-desktop-download-ads-are-distracting = تتسبّب الإعلانات في تشتيت الانتباه وإبطاء تحميل صفحات الإنترنت، وتراقِب الأدوات التي تتعقب تلك الإعلانات كل خطوة تخطوها على الإنترنت. ونظرًا لأن { -brand-name-firefox-browser } يحجب معظم أدوات التعقُّب تلقائيًا، فلا داعي للبحث في إعدادات الأمان.
 firefox-desktop-download-see-your-report = اطَّلِع على تقرير الحماية
@@ -167,8 +149,6 @@ firefox-desktop-download-firefox-automatically = يَعمل مُتصفح { -bran
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = هل لديك أسئلة؟ يمكنك الحصول على الجواب من <a { $attrs }>دعم { -brand-name-mozilla }</a>.
 
-firefox-desktop-download-watch-for-hackers-with-v3 = احترس من المُخترقين وراقبهم باستخدام { -brand-name-mozilla-monitor }، واحمِ عنوان بريدك الإلكتروني باستخدام { -brand-name-firefox-relay }، وغير ذلك الكثير.
-
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = على وشك الانتهاء!
@@ -192,10 +172,6 @@ firefox-desktop-download-if-you-see-a-prompt = إذا ظهرت لك مُطالب
 firefox-desktop-download-visit-support-for-more = تفضل بزيارة الدعم للحصول على مزيد من التفاصيل
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = <a href="{ $url }">لم تَعد شركة { -brand-name-mozilla } تقدم تحديثات أمنية</a> لنظام تشغيل { -brand-name-windows }{ -brand-name-xp } أو { -brand-name-vista }، ولكن لا يزال بإمكانك استخدام { -brand-name-firefox }.
-
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = التنزيل سيبدأ تلقائيًا. ألم ينجح ذلك؟ <a id="{ $id }" href="{ $fallback_url }">حاول التنزيل مرة أخرى.</a>
@@ -203,10 +179,6 @@ firefox-desktop-download-your-firefox-new-should-begin = التنزيل سيبد
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } أكثر من مُجرد مُتصفح
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = انقطعت عملية التنزيل. ولكن لم يُفقد كل شيء.
-
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = يُرجى اتباع <a href="{ $url }">هذه التعليمات</a> لتثبيت { -brand-name-firefox }.
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/

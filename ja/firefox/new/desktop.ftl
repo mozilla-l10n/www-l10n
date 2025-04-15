@@ -36,24 +36,6 @@ firefox-desktop-download-do-what-you-do-v2 = オンライン生活をご自由�
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = オンライン生活をご自由にお楽しみください。<br>{ -brand-name-firefox-browser } が<strong>プライバシーを守ります</strong>。
 
-firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } と他社ブラウザーの比較
-firefox-desktop-download-get-all-the-speed = プライバシーを一切侵害せず、スピードとツールを揃えました。{ -brand-name-firefox-browser } はユーザーに関するデータをほとんど収集しないため、ダウンロードの際にメールアドレスもいただきません。他社のブラウザーとは異なり、金銭的利益を求めてウェブ上でユーザーを追跡する必要がないためです。
-firefox-desktop-download-how-we-compare = 他社ブラウザーとの比較
-firefox-desktop-download-compare-firefox-to = { -brand-name-firefox } と比較:
-firefox-desktop-download-compare-chrome = { -brand-name-chrome }
-firefox-desktop-download-compare-edge = { -brand-name-edge }
-firefox-desktop-download-compare-safari = { -brand-name-safari }
-firefox-desktop-download-yes = あり
-firefox-desktop-download-no = なし
-firefox-desktop-download-blocks-third-party = サードパーティのトラッキング Cookie をブロック
-firefox-desktop-download-blocks-third-party-default = 既定でサードパーティトラッキング Cookie をブロック
-firefox-desktop-download-autoplay-blocking = 自動再生をブロック
-firefox-desktop-download-blocks-social-trackers = ソーシャルトラッカーをブロック
-# OS is short for "Operating System"
-firefox-desktop-download-os-availability = OS 対応
-firefox-desktop-download-in-browser-screenshot = ブラウザー内スクリーンショットツール
-firefox-desktop-download-primary-password = プライマリパスワード
-
 firefox-desktop-download-we-block-the-ad = 広告トラッカーをブロックします。もっと高速にインターネットをお楽しみください。
 firefox-desktop-download-ads-are-distracting = 広告は視界の妨げになり、ウェブページの読み込みを遅くするうえに、ユーザーはオンライン上のあらゆる操作が広告トラッカーによって追跡されます。{ -brand-name-firefox-browser } なら、ほとんどのトラッカーを自動的にブロックするため、セキュリティ設定を確認する必要はありません。
 firefox-desktop-download-see-your-report = 保護レポートを見る
@@ -167,8 +149,6 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } は、�
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = お問い合わせがありましたら、<a { $attrs }>{ -brand-name-mozilla } サポート</a>がお答えします。
 
-firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monitor } でハッカーを防止して、{ -brand-name-firefox-relay } でメールアドレスを保護。他にも機能充実。
-
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = もう少しです!
@@ -192,10 +172,6 @@ firefox-desktop-download-if-you-see-a-prompt = インストールしようとし
 firefox-desktop-download-visit-support-for-more = 詳しくはサポートをご覧ください
 
 # Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/end-support-windows-xp-and-vista
-firefox-desktop-download-mozilla-no-longer-provides = { -brand-name-mozilla } は、{ -brand-name-windows } { -brand-name-xp } および { -brand-name-vista } の<a href="{ $url }">セキュリティアップデートの提供を終了しています</a>が、引き続き { -brand-name-firefox } をご利用になれます。
-
-# Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = ダウンロードは自動的に開始します。開始しない場合は、<a id="{ $id }" href="{ $fallback_url }">もう一度ダウンロードしてみてください。</a>
@@ -203,10 +179,6 @@ firefox-desktop-download-your-firefox-new-should-begin = ダウンロードは�
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } は、ただのブラウザーではありません
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = ダウンロードが中断されましたが、すべてが失われたわけではありません。
-
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = { -brand-name-firefox } をインストールするには、<a href="{ $url }">こちらの手順に従ってください</a>。
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
