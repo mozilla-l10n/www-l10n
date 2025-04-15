@@ -15,14 +15,12 @@ browsers-mobile-infinitely-customizable-private = { -brand-name-android } के
 browsers-mobile-firefox-for-ios = { -brand-name-ios } के लिए { -brand-name-firefox }
 browsers-mobile-go-your-own-way = { -brand-name-firefox } मोबाइल के जरिए मनमुताबिक काम करें
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } मोबाइल आपके हिसाब से ढल जाता है और आपके अपनी सभी खुले टैब, पिछली खोजें और पसंदीदा साइटें देखना पहले से कहीं अधिक आसान बना देता है।
-browsers-mobile-the-more-you-use = जितना आप इसे इस्तेमाल करते हैं, यह उतना ही स्मार्ट होता जाता है। { -brand-name-firefox } होम स्क्रीन आपके अनुकूल हो जाती है और हमेशा वहीं से कोई भी चीज़ शुरू करना आसान बनाती है जहां आपने छोड़ा था।
 
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = { -brand-name-iphone } और { -brand-name-ipad } पर { -brand-name-firefox } को अपना डिफ़ॉल्ट, भरोसेमंद और हमेशा वाला ब्राउज़र बनाएँ, उन्नत ट्रैकिंग सुरक्षा पाएँ.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = बेहतर गोपनीयता फ़ीचर्स वाले एक स्मूद, सुपर फास्ट मोबाइल ब्राउज़र की तलाश है? { -brand-name-firefox-focus } आपके द्वारा अपना ब्राउज़र खोलने से लेकर बंद करने के क्षण तक आपकी समस्त ब्राउज़िंग हिस्ट्री को स्वचालित रूप से मिटा देता है।
 browsers-mobile-compare = तुलना करें
-browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = देखें कि किस तरह डेस्कटॉप वाला { -brand-name-firefox } अन्य ब्राउज़रों के बीच अलग नज़र आता है।
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = देखें कि किस तरह <strong>डेस्कटॉप</strong> वाला { -brand-name-firefox } अन्य ब्राउज़रों के बीच अलग नज़र आता है।

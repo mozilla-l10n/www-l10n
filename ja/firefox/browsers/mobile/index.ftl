@@ -15,14 +15,12 @@ browsers-mobile-infinitely-customizable-private = どこまでもカスタマイ
 browsers-mobile-firefox-for-ios = { -brand-name-ios } 用 { -brand-name-firefox }
 browsers-mobile-go-your-own-way = { -brand-name-firefox } モバイルでお好みのやり方で
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } モバイルは、ユーザーに合わせて開いているタブ、過去の検索、お気に入りのサイトを見やすく表示します。
-browsers-mobile-the-more-you-use = 使えば使うほどスマートになります。{ -brand-name-firefox } のホーム画面は、ユーザーに適応し、いつでも簡単に作業を再開できます。
 
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = 強化型トラッキング防止機能を利用し、{ -brand-name-iphone } と { -brand-name-ipad } で { -brand-name-firefox } を既定のブラウザーとしてご愛用ください。
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = 1 レベル上のプライバシー機能を備えた効率的かつ超高速のモバイルブラウザーがあります。{ -brand-name-firefox-focus } は、ブラウザーを開いてから閉じるまでのすべての閲覧履歴を自動的に消去します。
 browsers-mobile-compare = 比較
-browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = デスクトップ用 { -brand-name-firefox } と他のブラウザーを比較しました。
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = <strong>デスクトップ</strong>用 { -brand-name-firefox } と他のブラウザーを比較しました。

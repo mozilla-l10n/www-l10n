@@ -15,14 +15,12 @@ browsers-mobile-infinitely-customizable-private = Amat mudah untuk diperibadikan
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } untuk { -brand-name-ios }
 browsers-mobile-go-your-own-way = Gunakannya mengikut cara anda tersendiri dengan { -brand-name-firefox } mudah alih
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } mudah alih boleh disesuaikan mengikut cara anda dan jadikan ia lebih mudah untuk mengakses tab terbuka, carian terdahulu dan laman kegemaran.
-browsers-mobile-the-more-you-use = Lebih banyak anda menggunakannya, semakin pintar jadinya. Laman utama { -brand-name-firefox } akan beradaptasi dengan anda dan ini menjadikannya lebih mudah untuk anda kembali ke tempat anda tinggalkan.
 
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Dapatkan Enhanced Tracking Protection dan jadi { -brand-name-firefox } pelayar utama dan selamanya untuk { -brand-name-iphone } dan { -brand-name-ipad } anda.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Mencari pelayar mudah alih yang super pantas dengan ciri privasi di tahap yang lebih tinggi? { -brand-name-firefox-focus } memadamkan kesemua sejarah pelayaran anda secara automatik dari saat anda membuka sehingga anda menutup pelayar anda.
 browsers-mobile-compare = Bandingkan
-browsers-mobile-see-how-firefox-for-desktop-stacks-v2 = Lihat bagaimana { -brand-name-firefox } desktop berbanding lain-lain pelayar.
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Lihat bagaimana { -brand-name-firefox } <strong>desktop</strong> berbanding lain-lain pelayar.
