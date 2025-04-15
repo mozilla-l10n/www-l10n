@@ -4,7 +4,6 @@
 
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = Muat turun { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = Dapatkan { -brand-name-mozilla-vpn }
 navigation-v2-menu = Menu
 
@@ -77,11 +76,7 @@ navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-editio
 navigation-v2-get-the-firefox-browser-built = Dapatkan pelayar { -brand-name-firefox } yang direka khusus untuk para pembangun.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = Lihatlah pusat tumpuan bagi sumber pembangun web.
-navigation-v2-firefox-reality = { -brand-name-firefox-reality }
-navigation-v2-explore-the-web-with-the = Terokai internet dengan pelayar { -brand-name-firefox } dengan realiti maya.
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Sumbang suara anda agar masa depan internet mampu berkhidmat untuk kita semua.
-navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-learn-more-about-the-new = Ketahui lebih lanjut tentang bahasa baru yang, bertaraf rendah dan mudah terpasang.
 navigation-v2-mozilla-innovation-projects = Innovation Projects { -brand-name-mozilla }
 navigation-v2-discover-ways-to-bring = Ketahui cara untuk merealisasikan idea-idea bernas.

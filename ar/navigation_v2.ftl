@@ -4,7 +4,6 @@
 
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = تنزيل { -brand-name-firefox }
 navigation-v2-get-mozilla-vpn = احصل على { -brand-name-mozilla-vpn }
 navigation-v2-menu = القائمة
 
@@ -77,11 +76,7 @@ navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-editio
 navigation-v2-get-the-firefox-browser-built = احصل على متصفح { -brand-name-firefox } المصمَّم خصيصًا للمطورين.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = اطَّلع على الصفحة الرئيسية لمصادر مُطوري شبكة الويب.
-navigation-v2-firefox-reality = { -brand-name-firefox-reality }
-navigation-v2-explore-the-web-with-the = تصفَّح شبكة الويب باستخدام متصفح { -brand-name-firefox } المخصص للواقع الافتراضي.
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = ساهِم بصوتك لِتتمكن شبكة الويب من سماع الجميع في المستقبل.
-navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-learn-more-about-the-new = اطّلِع على المزيد حول اللغة الجديدة المنخفضة المستوى التي تشبه لغة التجمع.
 navigation-v2-mozilla-innovation-projects = مشاريع الابتكار في { -brand-name-mozilla }
 navigation-v2-discover-ways-to-bring = اكتشف طرقًا لتحويل الأفكار اللامعة إلى واقع ملموس.

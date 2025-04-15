@@ -4,7 +4,6 @@
 
 
 navigation-v2-mozilla = { -brand-name-mozilla }
-navigation-v2-download-firefox = { -brand-name-firefox } डाउनलोड करें
 navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } प्राप्त करें
 navigation-v2-menu = मेन्यू
 
@@ -77,11 +76,7 @@ navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-editio
 navigation-v2-get-the-firefox-browser-built = सिर्फ़ डेवलपर्स के लिए बनाया गया { -brand-name-firefox } ब्राउज़र पाएँ।
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = वेब डेवलपर संसाधन देखने के लिए होम पर जाएँ।
-navigation-v2-firefox-reality = { -brand-name-firefox-reality }
-navigation-v2-explore-the-web-with-the = वर्चुअल रिएलिटी का अनुभव लेने के लिए { -brand-name-firefox } ब्राउज़र से इंटरनेट चलाएँ।
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = अपनी आवाज़ डोनेट करें ताकि इंटरनेट के भविष्य में सभी लोगों की आवाज़ सुनाई दे।
-navigation-v2-webassembly = { -brand-name-webassembly }
-navigation-v2-learn-more-about-the-new = नई, लो-लेवल, असेंबली जैसी लैंग्वेज के बारे में और जानें।
 navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } इनोवेशन प्रोजेक्ट्स
 navigation-v2-discover-ways-to-bring = जो बेहतरीन आइडिया हैं उन्हें अमल में लाने के तरीके खोजें-जानें।
