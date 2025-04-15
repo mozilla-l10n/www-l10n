@@ -62,16 +62,11 @@ firefox-developer-master-innovative-features = مزايا مبتكرة
 firefox-developer-want-to-be-on-the-cutting-edge = أتود أن تكون مواكبًا للتطور والتحديث؟
 firefox-developer-firefox-nightly-receives = يتلقى { -brand-name-firefox-nightly } تحديثات يومية ويسمح لك بالوصول إلى الميزات قبل أشهر من تعميمها.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } هو المتصفح الوحيد الذي يحتوي على أدوات مُصممة خصيصًا للبناء والتصميم مع CSS Grid. تُتيح لك هذه الأدوات تصوّر الشبكة وعرض أسماء المناطق المرتبطة ومعاينة التحويلات على الشبكة وغير ذلك الكثير.
-firefox-developer-convenient-features = مزايا مريحة
-firefox-developer-shapes-editor = Shapes Editor
-firefox-developer-firefox-devtools-has-a-brand-new-v2 = يحتوي { -brand-name-firefox-devtools } على مُحرر مسار شكل جديد تمامًا يُزيل التخمين من ضبط الشكل الخارجي وأشكال مسار القصاصة من خلال السماح لك بضبط تعديلاتك بسهولة باستخدام مُحرر مرئي.
-firefox-developer-firefox-devtools-has-a-brand-new = يحتوي { -brand-name-firefox-devtools } على مُحرر مسار شكل جديد تمامًا يزيل التخمين من ضبط أشكال الظل الخارجي ومسار القصاصة من خلال السماح لك بضبط تعديلاتك بسهولة باستخدام مُحرر مرئي.
 firefox-developer-faster-innovation = معلومات أسرع
 firefox-developer-fonts-panel = لوحة الخطوط
 firefox-developer-the-new-fonts-panel = توفر لوحة الخطوط في متصفّح { -brand-name-firefox-devtools } المُطورين وصولاً سريعًا إلى جميع المعلومات التي يحتاجونها حول الخطوط المستخدمة في عنصر ما. ويتضمن أيضًا معلومات قيمة، مثل مصدر الخط ووزنه ونمطه والمزيد.
 firefox-developer-firefox-developer-edition-sends = يُرسِل { -brand-name-firefox-developer-edition } تلقائيًا تعليقات إلى { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = تنزيل { -brand-name-firefox } المُصمم خصيصًا للمطوّرين
-firefox-developer-firefox-has-been-rebuilt = تمت إعادة بناء { -brand-name-firefox } من الألِف إلى الياء ليكون أسرع وأكثر أناقة وقوة من أي وقت مضى.
 firefox-developer-welcome-to-firefox-developer-edition = مرحبًا بك في { -brand-name-firefox-developer-edition }
 
 firefox-developer-made-for-developers = صُمم المتصفّح للمطوّرين

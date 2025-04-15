@@ -62,16 +62,11 @@ firefox-developer-master-innovative-features = Des fonctionnalités innovantes
 firefox-developer-want-to-be-on-the-cutting-edge = Vous voulez avoir encore plus d’avance ?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } est mis à jour quotidiennement afin de vous permettre d’accéder aux nouvelles fonctionnalités plusieurs mois avant leur disponibilité pour le grand public.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } est le seul navigateur disposant d’outils dédiés pour la conception et la création à l’aide de grilles CSS. Ces outils vous permettent de visualiser une grille, d’afficher le nom des zones associées, de générer un aperçu des transformations sur la grille et bien plus encore.
-firefox-developer-convenient-features = Fonctions pratiques
-firefox-developer-shapes-editor = Éditeur de formes
-firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } propose un nouvel éditeur de tracés de formes qui vous permet de ne plus tâtonner pour aligner vos formes shape-outside et clip-path et de faire vos ajustements dans un éditeur visuel.
-firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } propose un nouvel éditeur de tracés de formes qui vous permet de ne plus tâtonner pour aligner vos formes shadow-outside et clip-path et de faire vos ajustements dans un éditeur visuel.
 firefox-developer-faster-innovation = Des informations plus rapides
 firefox-developer-fonts-panel = Panneau de polices
 firefox-developer-the-new-fonts-panel = Le nouveau panneau de polices dans les { -brand-name-firefox-devtools } permet aux développeurs d’accéder rapidement à toutes les informations pertinentes concernant les polices utilisées sur un élément. Il s’agit notamment de leur source, formatage, style, etc.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } envoie automatiquement des informations à { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Téléchargez la version de { -brand-name-firefox } conçue pour les développeurs
-firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } a été repensé de fond en comble pour être plus rapide et plus puissant qu’il ne l’a jamais été.
 firefox-developer-welcome-to-firefox-developer-edition = Bienvenue chez { -brand-name-firefox-developer-edition }
 
 firefox-developer-made-for-developers = Le navigateur conçu pour les développeurs

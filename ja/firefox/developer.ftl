@@ -62,16 +62,11 @@ firefox-developer-master-innovative-features = 革新的機能
 firefox-developer-want-to-be-on-the-cutting-edge = 最先端を求める方へ
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } は更新を毎日取得し、新機能が主流となる数ヶ月前に利用することができます。
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } は、CSS グリッドを用いた構築・デザイン専用に開発されたツールを備えた唯一のブラウザーです。これらのツールで実現されるのは、グリッドを可視化し、関連する領域名を表示し、グリッドの変換のプレビューなどなど盛りだくさんです。
-firefox-developer-convenient-features = 便利な機能
-firefox-developer-shapes-editor = Style Editor
-firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } は新しい図形パスエディターを内蔵しています。このエディターは微調整作業を容易にするビジュアルエディターにより、 shape-outside や clip-path の図形での勘に頼った作業を解消します。
-firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } は新しい図形パスエディターを内蔵しています。このエディターは微調整作業を容易にするビジュアルエディターにより、 shadow-outside や clip-path の図形での勘に頼った作業を解消します。
 firefox-developer-faster-innovation = 迅速な情報
 firefox-developer-fonts-panel = フォントパネル
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools } の新フォントパネルを使用して、要素で使用されているフォントに関して必要なすべての情報にすばやくアクセスできます。また、フォントのソース、太さ、スタイルなど、重宝する情報も含まれています。
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } は { -brand-name-mozilla } にフィードバックを自動送信します。
 firefox-developer-download-the-firefox-browser = デベロッパー専用に構築されたブラウザー、{ -brand-name-firefox } をダウンロード
-firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } が完全に再構築されて、さらに高速、シンプル、パワフルになりました。
 firefox-developer-welcome-to-firefox-developer-edition = ようこそ { -brand-name-firefox-developer-edition } へ
 
 firefox-developer-made-for-developers = デベロッパー専用に構築されたブラウザー

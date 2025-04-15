@@ -62,16 +62,11 @@ firefox-developer-master-innovative-features = Ciri Inovatif
 firefox-developer-want-to-be-on-the-cutting-edge = Ingin menjadi yang tercanggih?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } menerima kemas kini harian dan membolehkan anda mengakses ciri-ciri lama sebelum ia memasuki arus perdana.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } merupakan satu-satunya pelayar dengan alatan yang dibina khusus untuk membina dan mereka bentuk menggunakan CSS Grid. Alatan ini membolehkan anda menggambarkan grid, memaparkan nama kawasan yang berkaitan, pratonton transformasi pada grid dan banyak lagi.
-firefox-developer-convenient-features = Ciri yang Mudah
-firefox-developer-shapes-editor = Editor Bentuk
-firefox-developer-firefox-devtools-has-a-brand-new-v2 = { -brand-name-firefox-devtools } mempunyai editor laluan bentuk yang baru. Anda tidak perlu lagi meneka ketika menala halus bentuk luar dan bentuk laluan klip kerana ia membolehkan anda menala halus penyesuaian menggunakan editor visual dengan amat mudah.
-firefox-developer-firefox-devtools-has-a-brand-new = { -brand-name-firefox-devtools } mempunyai editor laluan bentuk yang baru. Anda tidak perlu lagi membuat tekaan ketika menala halus bayang-bayang luar dan bentuk laluan klip kerana ia membolehkan anda menala halus penyesuaian menggunakan editor visual dengan amat mudah.
 firefox-developer-faster-innovation = Maklumat Lebih Pantas
 firefox-developer-fonts-panel = Panel Fon
 firefox-developer-the-new-fonts-panel = Panel fon yang baru dalam { -brand-name-firefox-devtools } memberikan pembangun akses pantas kepada semua maklumat yang diperlukan tentang fon yang digunakan dalam sesuatu elemen. Ia juga merangkumi maklumat berharga seperti sumber fon, ketebalan, gaya dan banyak lagi.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } akan menghantar maklum balas kepada { -brand-name-mozilla } secara automatik.
 firefox-developer-download-the-firefox-browser = Muat turun pelayar { -brand-name-firefox } yang dibuat untuk pembangun
-firefox-developer-firefox-has-been-rebuilt = { -brand-name-firefox } telah dibina semula sepenuhnya untuk menjadi lebih pantas, lebih lancar dan lebih hebat daripada sebelumnya.
 firefox-developer-welcome-to-firefox-developer-edition = Selamat datang ke { -brand-name-firefox-developer-edition }
 
 firefox-developer-made-for-developers = Pelayar yang dibuat untuk pembangun
