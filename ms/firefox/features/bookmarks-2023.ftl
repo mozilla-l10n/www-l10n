@@ -15,9 +15,6 @@ bookmark-manager-organize-your-bookmarks-with = Susun penanda buku dengan folder
 bookmark-manager-bookmarks-are-links-you-save = Penanda buku adalah pautan yang anda simpan di dalam pelayar agar anda mampu pergi ke laman kegemaran dengan lebih mudah. { -brand-name-firefox } ada ciri pengurusan penanda buku agar anda boleh menyusun, mencari, mengemas kini dan <a { $sync }>menyelaras semua pautan yang anda simpan di kesemua peranti sendiri</a>.
 bookmark-manager-organize-your-boomarks-into = Susun penanda buku anda di dalam folder yang mudah dicari
 bookmark-manager-collect-your-bookmarks-in-folders = Simpan penanda buku anda di dalam folder dan tagkan agar lebih mudah dicari. Anda juga boleh menyusun penanda buku untuk menemui apa yang anda cari dengan lebih tepat.
-
-# Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-bookmark-manager = Imej jendela pengurus penanda buku dalam { -brand-name-firefox }.
 bookmark-manager-easily-import-bookmarks = Import penanda buku dengan mudah
 bookmark-manager-you-can-import-your-bookmarks = Anda boleh mengimport penanda buku anda dari Chrome, Safari atau Edge dengan fungsi pengimport { -brand-name-firefox }. Hanya klik Penanda Buku > Uruskan Penanda Buku dan pilih "Import dan Backup".
 

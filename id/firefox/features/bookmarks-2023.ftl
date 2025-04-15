@@ -15,9 +15,6 @@ bookmark-manager-organize-your-bookmarks-with = Atur markah Anda dengan folder d
 bookmark-manager-bookmarks-are-links-you-save = Markah adalah tautan yang Anda simpan di peramban agar Anda dapat dengan cepat dan mudah mengakses kembali situs favorit di web. { -brand-name-firefox } menyertakan pengelola markah yang praktis sehingga Anda dapat mengatur, mencari, memperbarui, dan <a { $sync }>menyinkronkan semua tautan tersimpan di semua perangkat Anda</a>.
 bookmark-manager-organize-your-boomarks-into = Atur markah Anda ke dalam folder yang dapat dicari
 bookmark-manager-collect-your-bookmarks-in-folders = Kumpulkan markah Anda di dalam folder dan tandai dengan lebih detail. Anda juga dapat mengurutkan markah agar dapat menemukan tautan yang Anda perlukan dengan cepat.
-
-# Used as an accessible text alternative for an image
-bookmark-manager-image-of-the-bookmark-manager = Gambar jendela pengelola markah di { -brand-name-firefox }.
 bookmark-manager-easily-import-bookmarks = Impor markah dengan mudah
 bookmark-manager-you-can-import-your-bookmarks = Anda dapat mengimpor peramban dari Chrome, Safari, atau Edge dengan import wizard { -brand-name-firefox }. Cukup klik Markah > Kelola Markah lalu pilih “Impor dan Cadangkan”.
 
