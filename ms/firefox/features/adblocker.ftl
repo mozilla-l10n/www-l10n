@@ -4,7 +4,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Cara menyekat iklan yang menjengkelkan menggunakan penyekat iklan
 features-adblocker-how-to-stop-seeing-too = Cara mengelak daripada melihat terlalu banyak iklan dan menjauhkan syarikat daripada mengekori anda di dalam talian. Panduan penyekat iklan daripada pelayar web { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Penyekat iklan – senjata rahsia dalam memerangi iklan menjengkelkan.
 features-adblocker-so-many-ads-so-little = Semakin banyak iklan, semakin kurang kesabaran… Tiba masanya untuk kita hentikan kegilaan ini.

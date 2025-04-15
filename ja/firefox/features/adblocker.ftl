@@ -4,7 +4,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = 広告ブロッカーで迷惑な広告をブロックする方法
 features-adblocker-how-to-stop-seeing-too = 多すぎる広告をブロックし、オンラインで追跡されなくする方法をご覧ください。{ -brand-name-firefox } ウェブブラウザーの広告ブロッカーガイドです。
 features-adblocker-the-ad-blocker-a-secret = 広告ブロッカー — 迷惑な広告に対抗する秘密兵器。
 features-adblocker-so-many-ads-so-little = 広告がたくさん、我慢ももうたくさん... ここで終わりにしましょう。

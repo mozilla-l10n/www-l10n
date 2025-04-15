@@ -4,7 +4,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = كيف تحجب الإعلانات المُزعجة باستعمال حاجِب إعلانات
 features-adblocker-how-to-stop-seeing-too = كيفية وقف رؤية الكثير من الإعلانات ومنع الشركات من تعقُّبك على الإنترنت. دليل حاجبات الإعلانات من متصفح { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = حاجب الإعلانات – سِلاح سِري ضد الإعلانات المزعجة.
 features-adblocker-so-many-ads-so-little = كثرت الإعلانات، ونفد الصبر… ها قد حان الوقت لوضع حد لهذه الحماقة.

@@ -4,7 +4,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = तंग करने वाले विज्ञापनों को ऐड-ब्लॉकर से कैसे ब्लॉक करें
 features-adblocker-how-to-stop-seeing-too = बहुत सारे विज्ञापन देखने से कैसे बचें और कंपनियों को ऑनलाइन आप पर नज़र रखने से कैसे रोकें। { -brand-name-firefox } वेब ब्राउज़र की ऐड-ब्लॉकर गाइड।
 features-adblocker-the-ad-blocker-a-secret = ऐड ब्लॉकर – परेशान करने वाले विज्ञापनों से लड़ने के लिए एक सीक्रेट हथियार।
 features-adblocker-so-many-ads-so-little = इतने सारे विज्ञापन, कब तक बर्दाश्त करें… इस पागलपन को रोकना ही होगा।

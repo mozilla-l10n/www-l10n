@@ -4,7 +4,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-adblocker-how-to-block-annoying = Cara memblokir iklan yang mengganggu menggunakan pemblokir iklan
 features-adblocker-how-to-stop-seeing-too = Cara berhenti melihat terlalu banyak iklan dan mencegah perusahaan agar tidak mengikuti Anda saat daring. Panduan pemblokir iklan dari peramban web { -brand-name-firefox }.
 features-adblocker-the-ad-blocker-a-secret = Pemblokir iklan – senjata rahasia melawan iklan yang mengganggu.
 features-adblocker-so-many-ads-so-little = Begitu banyak iklan, sedikit kesabaran… Saatnya untuk menghentikan kegilaan ini.
