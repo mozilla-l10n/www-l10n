@@ -4,7 +4,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/features/
 
-vpn-features-page-title = 機能 - { -brand-name-mozilla-vpn }
 vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 # HTML page title
