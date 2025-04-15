@@ -16,7 +16,6 @@ firefox-channel-try-new-features-in-a-pre = プレリリースの { -brand-name-
 firefox-channel-download-and-test-future = 今後のデスクトップ用、{ -brand-name-android } 用、{ -brand-name-ios } 用 { -brand-name-firefox } リリースをいち早くご利用ください。
 firefox-channel-experience-cutting-edge-android-updated = プレリリースの { -brand-name-android } 用ブラウザー、{ -brand-name-firefox-beta } と { -brand-name-firefox-nightly } の最先端の機能をご試用ください。今すぐインストール
 firefox-channel-experience-cutting-edge-android = プレリリースの { -brand-name-android } 用ブラウザー、{ -brand-name-firefox-beta } と { -brand-name-firefox-aurora }、{ -brand-name-firefox-nightly } の最先端の機能をご試用ください。今すぐインストール
-firefox-channel-download-and-test-the-latest-android = { -brand-name-aurora }、 { -brand-name-beta } と { -brand-name-nightly } ビルドをダウンロードして { -brand-name-android } 用 { -brand-name-firefox } の最新機能をお試しください。
 firefox-channel-try-the-latest-android-features = 最新の { -brand-name-android } 用機能を、全世界へのリリース前にお試しください。
 firefox-channel-all-languages-and-platforms = 言語・プラットフォーム全種
 firefox-channel-all-languages-and-builds = 言語・ビルド全種
@@ -39,7 +38,6 @@ firefox-channel-nightly-blog = { -brand-name-nightly } のブログ
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } は不安定な開発中の試験版プラットフォームです。問題対処とアイデア試行に役立てるため、{ -brand-name-nightly } は既定の設定で { -brand-name-mozilla } にデータを送信するほか、Mozilla の提携企業にデータを送信する場合もあります。<a href="{ $link }">共有されるデータの詳細</a>.
 
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } は { -brand-name-mozilla } にフィードバックを自動送信します。
-firefox-channel-try-new-browser-features = プレリリースのブラウザー新機能を試用 | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = プレリリースの { -brand-name-firefox-developer-edition }、{ -brand-name-firefox-beta }、{ -brand-name-firefox-nightly } ブラウザーの最先端の機能をご試用ください。今すぐダウンロード
 firefox-channel-download-and-test-the-latest-desktop = { -brand-name-developer-edition }、{ -brand-name-beta } と { -brand-name-nightly } ビルドをダウンロードしてデスクトップ用 { -brand-name-firefox } の最新機能をお試しください。
 firefox-channel-beta = { -brand-name-beta }

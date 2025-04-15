@@ -16,7 +16,6 @@ firefox-channel-try-new-features-in-a-pre = Testez les nouvelles fonctionnalité
 firefox-channel-download-and-test-future = Téléchargez et testez les prochaines versions de { -brand-name-firefox } pour ordinateur, { -brand-name-android } et { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Testez nos dernières innovations via nos préversions pour { -brand-name-android } : { -brand-name-firefox-beta } et { -brand-name-firefox-nightly }. Téléchargez-les !
 firefox-channel-experience-cutting-edge-android = Testez nos dernières innovations via nos préversions pour { -brand-name-android } : { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } et { -brand-name-firefox-nightly }. Téléchargez-les !
-firefox-channel-download-and-test-the-latest-android = Téléchargez et testez les dernières fonctionnalités de { -brand-name-firefox } pour { -brand-name-android } avec les versions { -brand-name-aurora }, { -brand-name-beta } et { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Essayez les dernières fonctionnalités sur { -brand-name-android } avant qu’elles ne soient disponibles pour tout le monde.
 firefox-channel-all-languages-and-platforms = Toutes les langues et plateformes
 firefox-channel-all-languages-and-builds = Toutes les langues et versions
@@ -39,7 +38,6 @@ firefox-channel-nightly-blog = Blog de { -brand-name-nightly }
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } est une plateforme instable de test et de développement. Par défaut, { -brand-name-nightly } envoie vos données à { -brand-name-mozilla } (et parfois nos partenaires) pour nous aider à traiter les éventuels problèmes et continuer d’innover. <a href="{ $link }">En savoir plus sur ce qui est partagé avec nos partenaires</a>.
 
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } envoie automatiquement des informations à { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = Essayez les dernières fonctionnalités du navigateur grâce aux préversions | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Profitez en avant-première des dernières fonctionnalités dans les préversions : { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } et { -brand-name-firefox-nightly }. Téléchargez-les dès maintenant !
 firefox-channel-download-and-test-the-latest-desktop = Téléchargez et testez les dernières fonctionnalités de { -brand-name-firefox } pour ordinateur avec les versions { -brand-name-developer-edition }, { -brand-name-beta } et { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

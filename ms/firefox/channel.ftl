@@ -16,7 +16,6 @@ firefox-channel-try-new-features-in-a-pre = Cuba Ciri Baru dalam Pelayar Pra Kel
 firefox-channel-download-and-test-future = Muat turun dan uji keluaran akan datang { -brand-name-firefox } untuk desktop, { -brand-name-android } dan { -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = Alami ciri canggih dalam pelayar pra keluaran untuk { -brand-name-android }: { -brand-name-firefox-beta } dan { -brand-name-firefox-nightly }. Pasang sekarang!
 firefox-channel-experience-cutting-edge-android = Alami ciri canggih dalam pelayar pra keluaran untuk { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } dan { -brand-name-firefox-nightly }. Pasang sekarang!
-firefox-channel-download-and-test-the-latest-android = Muat turun dan uji { -brand-name-firefox } terkini untuk ciri { -brand-name-android } dengan binaan { -brand-name-aurora }, { -brand-name-beta } dan { -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = Cubalah ciri { -brand-name-android } terkini, sebelum ia dilancarkan ke seluruh dunia.
 firefox-channel-all-languages-and-platforms = Semua Bahasa dan Platform
 firefox-channel-all-languages-and-builds = Semua Bahasa dan Binaan
@@ -39,7 +38,6 @@ firefox-channel-nightly-blog = Blog { -brand-name-nightly }
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } ialah platform ujian dan pembangunan yang tidak stabil. Secara lalai, { -brand-name-nightly } akan menghantar data kepada { -brand-name-mozilla } — dan kadang-kadang kepada rakan kongsi kami — bagi membantu kami menangani masalah dan mencuba idea. <a href="{ $link }">Ketahui perkara yang dikongsi</a>.
 
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } akan menghantar maklum balas kepada { -brand-name-mozilla } secara automatik.
-firefox-channel-try-new-browser-features = Cuba Ciri Pelayar Baru dalam Versi Pra Keluaran | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = Alami ciri pelayar canggih dalam versi pra keluaran: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } dan { -brand-name-firefox-nightly }. Muat turun sekarang!
 firefox-channel-download-and-test-the-latest-desktop = Muat turun dan uji ciri { -brand-name-firefox } untuk desktop terkini dengan binaan { -brand-name-developer-edition }, { -brand-name-beta } dan { -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }

@@ -16,7 +16,6 @@ firefox-channel-try-new-features-in-a-pre = جرّب الميزات الجديد
 firefox-channel-download-and-test-future = نزّل واختبر الإصدارات المستقبلية من { -brand-name-firefox } لسطح المكتب، { -brand-name-android } و{ -brand-name-ios }.
 firefox-channel-experience-cutting-edge-android-updated = جرب الميزات المتطورة في متصفح التجريبي لنظام { -brand-name-android }: { -brand-name-firefox-beta } و{ -brand-name-firefox-nightly }. ثبّت الآن!
 firefox-channel-experience-cutting-edge-android = جرب الميزات المتطورة في متصفح تجريبي لنظام { -brand-name-android }: { -brand-name-firefox-beta }، و { -brand-name-firefox-aurora }، و{ -brand-name-firefox-nightly }. ثبّت الآن!
-firefox-channel-download-and-test-the-latest-android = نزّل واختبر أحدث ميزات { -brand-name-firefox } لنظام { -brand-name-android } مع إصدارات{ -brand-name-aurora }، { -brand-name-beta }، و{ -brand-name-nightly }.
 firefox-channel-try-the-latest-android-features = جرّب أحدث ميزات { -brand-name-android }، قبل أن تم إصدارها لبقية العالم.
 firefox-channel-all-languages-and-platforms = كل اللغات والأنظمة الأساسية
 firefox-channel-all-languages-and-builds = كل اللغات والإصدارات
@@ -39,7 +38,6 @@ firefox-channel-nightly-blog = مدونة { -brand-name-nightly }
 firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } هو نظام أساسي غير مستقر للاختبار والتطوير. يُرسل { -brand-name-nightly } بشكل افتراضي بيانات إلى { -brand-name-mozilla } — وأحيانًا إلى الشركاء — لمساعدتنا في التعامل مع المشاكل وتجربة الأفكار. <a href="{ $link }">معرفة المزيد عن ما تمت مشاركته</a>.
 
 firefox-channel-firefox-nightly-automatically = يُرسل { -brand-name-firefox-nightly } تلقائيًا تعليقات إلى { -brand-name-mozilla }.
-firefox-channel-try-new-browser-features = جرّب ميزات المتصفح الجديد في الإصدارات التجريبية | { -brand-name-firefox }
 firefox-channel-experience-cutting-edge-desktop = جرب ميزات المتصفح المتطورة في الإصدارات التجريبية: { -brand-name-firefox-developer-edition }، و{ -brand-name-firefox-beta }، و{ -brand-name-firefox-nightly }. نزّله الآن!
 firefox-channel-download-and-test-the-latest-desktop = جرّب واختبر أحدث ميزات { -brand-name-firefox } لأجهزة سطح المكتب { -brand-name-developer-edition } مع إصدارات{ -brand-name-beta } و{ -brand-name-nightly }.
 firefox-channel-beta = { -brand-name-beta }
