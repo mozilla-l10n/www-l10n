@@ -16,6 +16,7 @@ vpn-landing-whats-a-vpn = Kva er eit VPN?
 vpn-landing-a-virtual-private-network-protects = Eit virtuelt privat nettverk vernar tilkoplinga di til internett, og held posisjonen din og det du gjer på nettet meir privat på tvers av einingane dine.
 vpn-landing-see-all-the-ways-mozilla-vpn = Sjå alle måtane { -brand-name-mozilla-vpn } vernar deg på.
 vpn-landing-how-a-vpn-helps-you = Korleis eit VPN hjelper deg
+vpn-landing-how-a-vpn-helps-you-v2 = Korleis { -brand-name-mozilla-vpn } kan hjelpe deg
 vpn-landing-keeps-your-data-safe = Held dataa dine trygge på offentleg Wi-fi
 vpn-landing-features = Funksjonar
 # Variables:

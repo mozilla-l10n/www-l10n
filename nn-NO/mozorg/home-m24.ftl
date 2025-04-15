@@ -41,6 +41,7 @@ m24-home-tag-event = Hending
 m24-home-read-more = Les meir
 m24-home-get-started = Kom i gang
 m24-home-join-the-movement = Bli med i rørsla:<br> AI for folket
+m24-home-solo-ai = { -brand-name-solo-ai }
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
@@ -76,6 +77,8 @@ m24-home-read-the-report = Les rapporten
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Smarteiningar med varsemdikon.
 m24-home-privacy-not-included = *Personvern ikkje inkludert
 m24-home-pni-search-now = Søk no
 m24-home-irl-podcast = { -brand-name-irl-podcast }
