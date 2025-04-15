@@ -11,5 +11,3 @@ fxa-form-by-proceeding = Indem du fortfährst, stimmst du unseren <a href="{ $ur
 
 fxa-form-email-address = E-Mail-Adresse
 fxa-form-continue = Weiter
-fxa-form-create-account = Konto erstellen
-fxa-form-get-the-app = App herunterladen

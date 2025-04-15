@@ -11,5 +11,3 @@ fxa-form-by-proceeding = بالمتابعة ، فإنك تُوافق على <a h
 
 fxa-form-email-address = عنوان البريد الإلكتروني
 fxa-form-continue = واصِل
-fxa-form-create-account = أنشئ حسابًا
-fxa-form-get-the-app = نزّل التطبيق

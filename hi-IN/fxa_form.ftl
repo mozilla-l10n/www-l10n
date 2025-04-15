@@ -11,5 +11,3 @@ fxa-form-by-proceeding = आगे बढ़ने से, आप <a href="{ $ur
 
 fxa-form-email-address = ईमेल पता
 fxa-form-continue = जारी रखें
-fxa-form-create-account = एकाउंट बनाएँ
-fxa-form-get-the-app = ऐप पाएँ

@@ -11,5 +11,3 @@ fxa-form-by-proceeding = En continuant, vous acceptez nos <a href="{ $url1 }">Co
 
 fxa-form-email-address = Adresse électronique
 fxa-form-continue = Continuer
-fxa-form-create-account = Créer un compte
-fxa-form-get-the-app = Installer l’application

@@ -11,5 +11,3 @@ fxa-form-by-proceeding = 続行することをもって、<a href="{ $url1 }">�
 
 fxa-form-email-address = メールアドレス
 fxa-form-continue = 続行
-fxa-form-create-account = Firefox アカウント
-fxa-form-get-the-app = アプリをダウンロード

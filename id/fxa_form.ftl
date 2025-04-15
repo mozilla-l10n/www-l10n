@@ -11,5 +11,3 @@ fxa-form-by-proceeding = Dengan melanjutkan, Anda menyetujui <a href="{ $url1 }"
 
 fxa-form-email-address = Alamat email
 fxa-form-continue = Lanjut
-fxa-form-create-account = Buat Akun
-fxa-form-get-the-app = Dapatkan aplikasinya
