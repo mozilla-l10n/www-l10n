@@ -9,12 +9,10 @@ vpn-resource-center-title = VPN リソースセンター
 
 vpn-resource-center-whats-the-deal = バーチャル・プライベート・ネットワークとは？
 vpn-resource-center-discover-how-they = VPN の仕組み、これが重要である理由、そして VPN を利用するメリットをご紹介します。
-vpn-resource-center-view-all = すべて見る
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = 今すぐプライバシーを守りましょう
 
 vpn-resource-center-obsessed-with = 1998 年よりユーザーのプライバシーを第一にしてきました
-vpn-resource-center-get-mozilla-vpn = { -brand-name-mozilla-vpn } をダウンロード
 vpn-resource-center-was-this-article = この記事は役に立ちましたか？
 vpn-resource-center-article-helpful = 役に立った
 vpn-resource-center-article-not-helpful = 役に立たなかった

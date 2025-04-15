@@ -9,12 +9,10 @@ vpn-resource-center-title = Pusat Sumber Daya VPN
 
 vpn-resource-center-whats-the-deal = Tentang Virtual Private Network
 vpn-resource-center-discover-how-they = Ketahui cara kerjanya, alasan mengapa fitur ini penting, dan manfaat menggunakan VPN bagi Anda.
-vpn-resource-center-view-all = Lihat semua
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = Lindungi identitas Anda sekarang juga
 
 vpn-resource-center-obsessed-with = Terobsesi melindungi privasi Anda sejak 1998
-vpn-resource-center-get-mozilla-vpn = Dapatkan { -brand-name-mozilla-vpn }
 vpn-resource-center-was-this-article = Apakah artikel ini bermanfaat?
 vpn-resource-center-article-helpful = Artikel ini bermanfaat
 vpn-resource-center-article-not-helpful = Artikel ini tidak bermanfaat
