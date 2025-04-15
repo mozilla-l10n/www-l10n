@@ -117,6 +117,7 @@ m24-home-state-of-mozilla = Estado da { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = A { -brand-name-mozilla } está se reinventando, diversificando em torno de uma constelação de organizações, reimaginando a publicidade e criando um ecossistema de inteligência artificial de código aberto. Leia sobre isso no Relatório do Estado da { -brand-name-mozilla } de 2024.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Arte com pontos abstrata em tons de verde, laranja e rosa.
+m24-home-read-the-report = Ler o relatório
 
 ## Issues
 
