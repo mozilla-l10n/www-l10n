@@ -30,7 +30,6 @@ newsletter-form-we-will-only-send-firefox-v2 = Kami hanya akan menghantar anda m
 newsletter-form-if-you-havent-previously = Jika anda belum mengesahkan langganan buletin { -brand-name-mozilla }, anda mungkin perlu melakukannya. Sila semak peti e-mel atau penapis spam anda untuk e-mel daripada kami.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Anda
 newsletter-form-get-firefox-tips = Dapatkan { -brand-name-firefox } petua, tip, berita dan banyak lagi
-newsletter-form-keep-up-with = Ikuti perkembangan<br> { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Dapatkan kemas kini { -brand-name-mozilla }
 newsletter-form-available-languages = Bahasa yang Ada
 newsletter-form-select-country = Pilih negara

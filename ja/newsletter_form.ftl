@@ -30,7 +30,6 @@ newsletter-form-we-will-only-send-firefox-v2 = 送付されるのは { -brand-na
 newsletter-form-if-you-havent-previously = 以前に { -brand-name-mozilla } に関するニュースレターの定期購読を確定していない場合は、確定する必要があります。受信箱かスパムフィルターで Mozilla から送付されたメールを確認してください。
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + You
 newsletter-form-get-firefox-tips = { -brand-name-firefox } のヒントやコツ、ニュースなどをお届けします
-newsletter-form-keep-up-with = { -brand-name-firefox } の最新情報をお見逃しなく。
 newsletter-form-get-mozilla-updates = { -brand-name-mozilla } の最新情報をお届けします。
 newsletter-form-available-languages = 使用可能な言語
 newsletter-form-select-country = 国または地域を選択してください

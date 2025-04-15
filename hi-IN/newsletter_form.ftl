@@ -30,7 +30,6 @@ newsletter-form-we-will-only-send-firefox-v2 = हम आपको केवल 
 newsletter-form-if-you-havent-previously = अगर आपने पिछली किसी { -brand-name-mozilla }-संबंधित खबर की सदस्यता की पुष्टि नहीं की है, तो आपको ऐसा करना पड़ सकता है। कृपया अपने इनबॉक्स या स्पैम फ़िल्टर में हमारे द्वारा भेजी गयी ईमेल तलाशें।
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + आप
 newsletter-form-get-firefox-tips = { -brand-name-firefox } सुझाव, तरकीब, खबर और भी बहुत कुछ पाएँ
-newsletter-form-keep-up-with = { -brand-name-firefox } के साथ सब चीज़ें<br> जानें।
 newsletter-form-get-mozilla-updates = { -brand-name-mozilla } अपडेट पाएँ
 newsletter-form-available-languages = उपलब्ध भाषाएँ
 newsletter-form-select-country = देश चुनें

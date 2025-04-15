@@ -30,7 +30,6 @@ newsletter-form-we-will-only-send-firefox-v2 = Nous ne vous enverrons que des in
 newsletter-form-if-you-havent-previously = Si vous n’avez jamais confirmé d’abonnement à une lettre d’information liée à { -brand-name-mozilla }, vous devrez peut-être le faire. Veuillez vérifier votre boîte de réception ou vos courriers indésirables et recherchez un message de notre part.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> et vous
 newsletter-form-get-firefox-tips = Recevez des actualités et des astuces { -brand-name-firefox }
-newsletter-form-keep-up-with = Tenez-vous informé(e)<br> de l’actualité { -brand-name-firefox }.
 newsletter-form-get-mozilla-updates = Recevez l’actualité de { -brand-name-mozilla }
 newsletter-form-available-languages = Langues disponibles
 newsletter-form-select-country = Sélectionnez votre pays
