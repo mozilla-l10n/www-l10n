@@ -11,9 +11,6 @@ firefox-all-download-the-firefox-v2 = Lade dir { -brand-name-firefox } in Deutsc
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Sprache sollte keine Barriere sein. Das Internet spricht viele Sprachen — auch deine. Wir alle verdienen einen Zugang zum Internet ohne Sprachbarrieren. Deshalb stellen wir { -brand-name-firefox } — dank vieler engagierter Freiwilliger aus aller Welt — in mehr als 90 Sprachen zur Verfügung.
 
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = Scanne den QR-Code, um dir <em>{ $product_name }</em> zu holen
 firefox-all-choose-browser = Wähle einen Browser, um fortzufahren
 firefox-all-choose-platform = Wähle eine Plattform, um fortzufahren
 firefox-all-choose-language = Wähle eine Sprache, um fortzufahren
@@ -79,15 +76,7 @@ firefox-all-product-send-link = Download-Link an Ihr Telefon senden
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Wähle ein 32-Bit-Installationsprogramm für Computer mit 32-Bit-Prozessoren – oder für ältere oder weniger leistungsstarke Computer. <a href="{ $url }"> Wenn du nicht sicher bist, </a> ob du ein 64-Bit- oder ein 32-Bit-Installationsprogramm auswählen solltest, empfehlen wir dir, 32-Bit zu verwenden.
 
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = { $product_label } für { $platform } auf { $locale } herunterladen
-
 firefox-all-msi-installers = MSI-Installationsprogramme
-firefox-all-which-version = Welche Version möchtest du?
-firefox-all-select-your-preferred-installer = Wähle dein bevorzugtes Installationsprogramm
 firefox-all-select-your-preferred-language = Wähle deine bevorzugte Sprache
 firefox-all-learn-about-installers = Informationen zu den Installationsprogrammen
 firefox-all-product-firefox = { -brand-name-firefox }

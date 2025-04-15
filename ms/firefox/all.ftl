@@ -11,9 +11,6 @@ firefox-all-download-the-firefox-v2 = Muat turun { -brand-name-firefox } dalam B
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Semua orang berhak mengakses internet — bahasa anda tidak sepatutnya menjadi penghalang. Kerana itulah — dengan bantuan sukarelawan berdedikasi di seluruh dunia — kami membolehkan { -brand-name-firefox } didapati dalam lebih 90 bahasa.
 
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = Imbas kod QR untuk dapatkan <em>{ $product_name }</em>
 firefox-all-choose-browser = Pilih pelayar untuk seterusnya
 firefox-all-choose-platform = Pilih platform untuk seterusnya
 firefox-all-choose-language = Pilih bahasa untuk seterusnya
@@ -79,15 +76,7 @@ firefox-all-product-send-link = Hantar pautan muat turun ke telefon anda
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Pilih pemasang 32-bit untuk komputer dengan pemproses 32-bit — atau untuk komputer lama atau kurang berkuasa. <a href="{ $url }">Jika anda tidak pasti</a> sama ada pemasang 64-bit atau 32-bit, kami mengesyorkan anda menggunakan 32-bit.
 
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = Muat turun { $product_label } untuk { $platform } dalam { $locale }
-
 firefox-all-msi-installers = Pemasang MSI
-firefox-all-which-version = Versi mana yang anda gemari?
-firefox-all-select-your-preferred-installer = Pilih pemasang pilihan anda
 firefox-all-select-your-preferred-language = Pilih bahasa pilihan anda
 firefox-all-learn-about-installers = Ketahui tentang pemasang
 firefox-all-product-firefox = { -brand-name-firefox }

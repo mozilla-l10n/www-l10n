@@ -11,9 +11,6 @@ firefox-all-download-the-firefox-v2 = 日本語ほか 90 か国語以上に対�
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = インターネットは、あらゆる人がアクセスできるものであるべきで、言語が障壁となることはあってはなりません。そのため、世界中のボランティアたちの手を借りて、{ -brand-name-firefox } を 90 か国語以上で公開しています。
 
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-firefox-all-qrcode = QR コードをスキャンして <em>{ $product_name }</em> をダウンロードしてください
 firefox-all-choose-browser = ブラウザーを選択して続行
 firefox-all-choose-platform = プラットフォームを選択して続行
 firefox-all-choose-language = 言語を選択して続行
@@ -79,15 +76,7 @@ firefox-all-product-send-link = スマートフォンにダウンロードリン
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = 32 ビットプロセッサーを搭載したコンピューター、古いコンピューター、低スペックのコンピューターをお使いの場合は、32 ビットインストーラーをご選択ください。64 ビットと 32 ビットのどちらのインストーラーを選択したらいいか<a href="{ $url }">分からない場合</a>は、32 ビットをお勧めします。
 
-# Variables:
-#   $product_label (string) e.g. Firefox, Firefox Nightly
-#   $platform (string) e.g. Windows, macOS, Linux
-#   $locale(string) e.g. English (US), German, French
-firefox-all-download-product-for = { $locale }で { $platform } 用 { $product_label } をダウンロード
-
 firefox-all-msi-installers = MSI インストーラー
-firefox-all-which-version = どのバージョンをダウンロードしますか？
-firefox-all-select-your-preferred-installer = ご希望のインストーラーをご選択ください
 firefox-all-select-your-preferred-language = ご希望の言語をご選択ください
 firefox-all-learn-about-installers = インストーラーについて
 firefox-all-product-firefox = { -brand-name-firefox }
