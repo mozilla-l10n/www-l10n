@@ -7,8 +7,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = Téléchargez { -brand-name-firefox } pour votre entreprise avec { -brand-name-esr } et la version à cadence de publication rapide
 firefox-enterprise-get-unmatched-data-protection = Bénéficiez d’une protection des données inégalée à la cadence de publication qui vous convient avec { -brand-name-firefox } pour les entreprises. Téléchargez { -brand-name-esr } et la version à cadence de publication rapide.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Vue d’ensemble
-firefox-enterprise-downloads = Téléchargements
 firefox-enterprise-get-firefox-for-your-enterprise = Obtenez { -brand-name-firefox } pour votre entreprise
 
 # Variables:

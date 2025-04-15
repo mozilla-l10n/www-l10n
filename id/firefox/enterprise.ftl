@@ -7,8 +7,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = Dapatkan { -brand-name-firefox } untuk perusahaan Anda dengan { -brand-name-esr } dan Rilis Rapid
 firefox-enterprise-get-unmatched-data-protection = Dapatkan perlindungan data yang tak tertandingi pada laju rilis yang cocok dengan Anda { -brand-name-firefox } untuk perusahaan. Unduh { -brand-name-esr } dan Rilis Rapid
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Ikhtisar
-firefox-enterprise-downloads = Unduhan
 firefox-enterprise-get-firefox-for-your-enterprise = Dapatkan { -brand-name-firefox } untuk perusahaan Anda
 
 # Variables:

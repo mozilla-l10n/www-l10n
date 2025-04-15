@@ -7,8 +7,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = अपने बिज़नेस के लिए { -brand-name-esr } और रैपिड रिलीज़ के साथ { -brand-name-firefox } पाएँ
 firefox-enterprise-get-unmatched-data-protection = बिज़नेस के लिए { -brand-name-firefox } के साथ आपकी पसंद की रिलीज़ पर बेमिसाल डेटा सुरक्षा पाएँ। { -brand-name-esr } और रैपिड रिलीज़ डाउनलोड करें।
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = अवलोकन
-firefox-enterprise-downloads = डाउनलोड
 firefox-enterprise-get-firefox-for-your-enterprise = अपने बिज़नेस के लिए { -brand-name-firefox } पाएँ
 
 # Variables:

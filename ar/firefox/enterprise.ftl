@@ -7,8 +7,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = احصل على { -brand-name-firefox } لِشركتك مع { -brand-name-esr } والإصدار السريع
 firefox-enterprise-get-unmatched-data-protection = احصل على حماية بيانات لا مثيل لها على إيقاع الإصدار الذي يُناسبك مع { -brand-name-firefox } للشركات. نزّل { -brand-name-esr } والإصدار السريع.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = نظرة عامة
-firefox-enterprise-downloads = التّنزيلات
 firefox-enterprise-get-firefox-for-your-enterprise = نزّل { -brand-name-firefox } لشركتك
 
 # Variables:

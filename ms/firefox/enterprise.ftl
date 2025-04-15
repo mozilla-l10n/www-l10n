@@ -7,8 +7,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = Dapatkan { -brand-name-firefox } untuk syarikat anda dengan { -brand-name-esr } dan Rapid Release
 firefox-enterprise-get-unmatched-data-protection = Dapatkan perlindungan data yang tiada tandingannya pada kadens keluaran yang sesuai dengan anda melalui { -brand-name-firefox } untuk syarikat. Muat turun { -brand-name-esr } dan Rapid Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Gambaran keseluruhan
-firefox-enterprise-downloads = Muat turun
 firefox-enterprise-get-firefox-for-your-enterprise = Dapatkan { -brand-name-firefox } untuk perusahaan anda
 
 # Variables:

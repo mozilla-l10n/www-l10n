@@ -7,8 +7,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = Hol dir { -brand-name-firefox } für dein Unternehmen mit { -brand-name-esr } und Rapid Release
 firefox-enterprise-get-unmatched-data-protection = Hol dir mit { -brand-name-firefox } für Unternehmen unübertroffenen Datenschutz und eine Release-Frequenz, die zu dir passt. Lade { -brand-name-esr } und Rapid Release herunter.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = Übersicht
-firefox-enterprise-downloads = Downloads
 firefox-enterprise-get-firefox-for-your-enterprise = Hol dir { -brand-name-firefox } für dein Unternehmen
 
 # Variables:

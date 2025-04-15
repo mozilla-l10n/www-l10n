@@ -7,8 +7,6 @@
 firefox-enterprise-get-firefox-for-your-enterprise-with = 業務用としての { -brand-name-esr } とRapid Release の { -brand-name-firefox }
 firefox-enterprise-get-unmatched-data-protection = 所属組織に合った頻度の { -brand-name-firefox } リリースで、業界随一のデータ保護を{ -brand-name-esr } と Rapid Release のダウンロード。
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-overview = 概要
-firefox-enterprise-downloads = ダウンロード
 firefox-enterprise-get-firefox-for-your-enterprise = 業務用として { -brand-name-firefox } をご利用ください
 
 # Variables:
