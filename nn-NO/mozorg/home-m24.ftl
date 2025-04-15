@@ -5,9 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/
 
+# HTML Page title
+m24-home-page-title = Internett for folk, ikkje profitt — { -brand-name-mozilla }
+m24-home-page-title-v2 = { -brand-name-mozilla } — Internett for folk, ikkje profitt
+# HTML page description
+m24-home-page-desc = Visste du at { -brand-name-mozilla } — organisajonen bak { -brand-name-firefox } — kjempar for at Internett skal halde fram med å vere ein global, allmenn resurs, som er open og tilgjengeleg for alle.
 
 ## Intro
 
+m24-home-welcome-to-mozilla = Velkomen til { -brand-name-mozilla }
 m24-home-learn-about-us = Les meir om oss
 
 ## Products
@@ -23,6 +29,7 @@ m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
 
+m24-home-donate-to-the = Doner til den ideelle organisasjonen { -brand-name-mozilla }
 m24-home-donate = Doner
 
 ## AI gallery
@@ -64,10 +71,12 @@ m24-home-headline-you-ai-v2 = Du, AI og internett – kva skjer eigentleg?
 ## Showcase
 
 m24-home-rise25-awards = { -brand-name-rise25 }-prisar
+m24-home-watch-the-award = Sjå prisutdelinga
 m24-home-read-the-report = Les rapporten
 
 ## Issues
 
+m24-home-privacy-not-included = *Personvern ikkje inkludert
 m24-home-pni-search-now = Søk no
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-irl-listen-now = Lytt no
