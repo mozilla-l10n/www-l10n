@@ -2,16 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-firefox = { -brand-name-firefox }
 footer-mozilla-manifesto = { -brand-name-mozilla } のマニフェスト
 footer-privacy-hub = プライバシーハブ
 footer-privacy = プライバシー
 footer-press = プレス
 
 footer-mozilla-blog = { -brand-name-mozilla } のブログ
-footer-browser-comparison = ブラウザーの比較
-footer-brand-standards = ブランド基準
-footer-browsers = ブラウザー
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = デベロッパー
 footer-developer-edition = { -brand-name-developer-edition }
@@ -40,7 +36,6 @@ footer-language = 言語
 footer-go = 進む
 footer-donate = 寄付する
 
-footer-mastodon = { -brand-name-mastodon }
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }
