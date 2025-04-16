@@ -8,3 +8,6 @@
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Przetłumacz stronę za pomocą { -brand-name-firefox(case: "gen") }
 features-translate-translate-the-web = Tłumacz Internet
+# HTML page description
+features-translate-firefox-translations-is-a-built-in-v2 = { -brand-name-firefox-translations } to wbudowana funkcja tłumaczenia, która umożliwia łatwe przeglądanie sieci w preferowanym języku. Dowiedz się więcej o tym, jak działa ta funkcja w { -brand-name-firefox(case: "loc") } i jak { -brand-name-mozilla } pomaga zachować prywatność tłumaczonych treści.
+features-translate-what-languages-are-currently = Jakie języki są obecnie obsługiwane?
