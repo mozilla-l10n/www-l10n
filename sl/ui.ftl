@@ -14,6 +14,8 @@ ui-watch-the-video = Oglejte si posnetek
 ui-replay = Ponovi
 ui-share = Delite
 ui-menu = Meni
+# Short for Table of Contents
+ui-contents = Vsebina
 ui-please-turn-on-javascript = Za pravilen prikaz strani vključite JavaScript.
 ui-show-more = Prikaži več
 ui-show-less = Prikaži manj

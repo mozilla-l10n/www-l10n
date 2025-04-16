@@ -55,6 +55,11 @@ m24-home-read-more = Preberite več
 m24-home-get-started = Začnite
 m24-home-join-the-movement = Pridružite se gibanju:<br> UI za ljudi
 # Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = Logotip { -brand-name-solo-ai }
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-alt-builders-v2 = { -brand-name-builders }
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+# Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logotip { -brand-name-lumigator }ja.
 m24-home-lumigator = { -brand-name-lumigator }
 # Used as an accessible text alternative for an image
