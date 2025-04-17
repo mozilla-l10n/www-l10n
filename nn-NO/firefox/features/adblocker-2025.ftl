@@ -10,4 +10,5 @@ features-adblocker-ad-blocking = Annonseblokkering
 # Page Title
 features-adblocker-meta-title = Om annonseblokkerarar - { -brand-name-firefox }
 features-adblocker-finding-the-right = Finn rett annonseblokkerar for deg
+features-adblocker-enhanced-privacy = Forbetra personvern og yting med { -brand-name-firefox }
 features-adblocker-why-use = Kvifor bruke ein annonseblokkerar?
