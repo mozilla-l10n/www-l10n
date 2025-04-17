@@ -12,5 +12,7 @@ features-translate-one-of-the-best-things-about = Noko av det beste med internet
 features-translate-when-you-translate-a-webpage = Når du omset ei nettside blir ho verande privat.
 features-translate-when-your-translations-are = Når omsettingane dine vert behandla lokalt, forlèt ingen data frå vald eining, eininga di, eller er avhengig av sky-tenester for omsetting. Det tyder at { -brand-name-mozilla } ikkje veit kva for nettside du omset og gjer at omsettingsfunksjonen vår skil seg ut, samanlikna med andre omsettingsverktøy.
 features-translate-what-languages-are-currently = Kva for språk er for tida støtta?
+# This is followed by a localized list of supported languages
+features-translate-the-languages-below-are-what-v2 = Språka nedanfor er for tida støtta av funksjonen { -brand-name-firefox-translations }:
 features-translate-and-more-languages-are-in = Og fleire språk er under utvikling!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } snakkar ditt språk
