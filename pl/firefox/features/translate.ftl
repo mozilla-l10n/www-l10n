@@ -19,3 +19,6 @@ features-translate-what-languages-are-currently = Jakie języki są obecnie obs�
 features-translate-the-languages-below-are-what-v2 = Poniższe języki są obecnie obsługiwane przez funkcję { -brand-name-firefox-translations }:
 features-translate-and-more-languages-are-in = Kolejne języki są w przygotowaniu!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } mówi w Twoim języku
+# Variables:
+#   $download (url) = link to https://www.mozilla.org/firefox/new/
+features-translate-the-firefox-translations-feature-v2 = Funkcja { -brand-name-firefox-translations } to kolejny sposób, w jaki { -brand-name-mozilla } zapewnia spersonalizowane i bardziej prywatne korzystanie z Internetu. { -brand-name-mozilla } nie śledzi, jakie strony internetowe tłumaczysz. Mając miliony użytkowników na całym świecie, { -brand-name-mozilla } chce mieć pewność, że osoby korzystające z { -brand-name-firefox(case: "gen") } uczą się, komunikują, dzielą się i ssą na bieżąco z informacjami na własnych warunkach. <a { $download }>Rozpocznij w swoim preferowanym języku, pobierając przeglądarkę { -brand-name-firefox }.</a>
