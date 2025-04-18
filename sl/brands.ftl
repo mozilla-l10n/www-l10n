@@ -223,6 +223,7 @@
        *[imenovalnik] Glean
     }
 -brand-name-irl-podcast = Podkast IRL
+-brand-name-solo-ai = Solo AI
 -brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs

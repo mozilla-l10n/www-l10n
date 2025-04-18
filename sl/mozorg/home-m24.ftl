@@ -57,7 +57,9 @@ m24-home-join-the-movement = Pridružite se gibanju:<br> UI za ljudi
 # Used as an accessible text alternative for an image
 m24-home-alt-solo-ai-logo = Logotip { -brand-name-solo-ai }
 m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
+m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logotip { -brand-name-lumigator }ja.
