@@ -14,6 +14,3 @@ welcome-page22-update-now = <strong>قد يبدأ الإصدار الحالي م
 
 welcome-page22-update-now-cta = حدّث الآن
 welcome-page22-usually-takes = يستغرق 2–3 دقائق عادةً
-
-
-

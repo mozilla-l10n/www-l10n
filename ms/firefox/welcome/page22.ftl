@@ -14,6 +14,3 @@ welcome-page22-update-now = <strong>Versi { -brand-name-firefox } anda gunakan a
 
 welcome-page22-update-now-cta = Kemas kini sekarang
 welcome-page22-usually-takes = Biasanya mengambil masa 2–3 minit
-
-
-

@@ -14,6 +14,3 @@ welcome-page22-update-now = <strong> Ab 14. Januar</strong> 2025 werden mit dein
 
 welcome-page22-update-now-cta = Jetzt aktualisieren
 welcome-page22-usually-takes = Dauert normalerweise 2–3 Minuten
-
-
-

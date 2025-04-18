@@ -14,6 +14,3 @@ welcome-page22-update-now = <strong>お使いのバージョンの { -brand-name
 
 welcome-page22-update-now-cta = 今すぐアップデート
 welcome-page22-usually-takes = 通常は 2~3 分かかります
-
-
-

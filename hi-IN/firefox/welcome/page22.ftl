@@ -14,6 +14,3 @@ welcome-page22-update-now = <strong>{ -brand-name-firefox } के आपके 
 
 welcome-page22-update-now-cta = अभी अपडेट करें
 welcome-page22-usually-takes = आमतौर पर 2-3 मिनट लगते हैं
-
-
-
