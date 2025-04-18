@@ -15,6 +15,7 @@ what-is-firefox = O que é { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+the-firefox-browser-the-only = O { -brand-name-firefox-browser }, único grande navegador respaldado por uma organização sem fins lucrativos, ajuda você a proteger suas informações pessoais. Saiba mais sobre o <a href="{ $url }">{ -brand-name-firefox-browsers }</a> e <a href="{ $url2 }">outros produtos</a>.
 how-do-i = Como obter o { -brand-name-firefox-browser }?
 
 # Variables:
