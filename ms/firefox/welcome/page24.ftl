@@ -14,6 +14,3 @@ welcome-page24-your-version-of-firefox = <strong>Versi { -brand-name-firefox } y
 
 welcome-page24-update-now-cta = Kemas kini sekarang
 welcome-page24-usually-takes = Biasanya mengambil masa 2–3 minit
-
-
-

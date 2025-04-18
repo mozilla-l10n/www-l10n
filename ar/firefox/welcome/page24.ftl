@@ -14,6 +14,3 @@ welcome-page24-your-version-of-firefox = <strong>سَيتوقف الإصدار �
 
 welcome-page24-update-now-cta = حدّث الآن
 welcome-page24-usually-takes = يستغرق 2–3 دقائق عادةً
-
-
-

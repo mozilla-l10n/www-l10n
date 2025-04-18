@@ -14,6 +14,3 @@ welcome-page24-your-version-of-firefox = <strong>お使いのバージョンの 
 
 welcome-page24-update-now-cta = 今すぐアップデート
 welcome-page24-usually-takes = 通常は 2~3 分かかります
-
-
-

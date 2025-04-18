@@ -14,6 +14,3 @@ welcome-page24-your-version-of-firefox = <strong>Deine Version von { -brand-name
 
 welcome-page24-update-now-cta = Jetzt aktualisieren
 welcome-page24-usually-takes = Dauert normalerweise 2–3 Minuten
-
-
-

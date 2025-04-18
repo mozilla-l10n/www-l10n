@@ -14,6 +14,3 @@ welcome-page24-your-version-of-firefox = <strong>{ -brand-name-firefox } का 
 
 welcome-page24-update-now-cta = अभी अपडेट करें
 welcome-page24-usually-takes = आमतौर पर 2-3 मिनट लगते हैं
-
-
-
