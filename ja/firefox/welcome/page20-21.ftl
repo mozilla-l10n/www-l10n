@@ -38,4 +38,3 @@ welcome-page20-21-search-add-ons = アドオンを検索
 welcome-page20-21-talk-to-us = ご相談ください
 welcome-page20-21-firefox-support-community = { -brand-name-firefox } のサポートコミュニティが疑問を解決します。
 welcome-page20-21-get-in-touch = お問い合わせ
-

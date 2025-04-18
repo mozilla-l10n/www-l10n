@@ -38,4 +38,3 @@ welcome-page20-21-search-add-ons = Cari add-on
 welcome-page20-21-talk-to-us = Bercakap dengan kami
 welcome-page20-21-firefox-support-community = Komuniti sokongan { -brand-name-firefox } sedia membantu anda menyelesaikan masalah anda.
 welcome-page20-21-get-in-touch = Hubungi kami
-

@@ -38,4 +38,3 @@ welcome-page20-21-search-add-ons = بحث عن إضافات
 welcome-page20-21-talk-to-us = تواصل معنا
 welcome-page20-21-firefox-support-community = يتوفّر فريق دعم { -brand-name-firefox } هنا دائمًا للإجابة عن أسئلتك.
 welcome-page20-21-get-in-touch = تواصل معنا
-
