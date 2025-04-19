@@ -57,6 +57,10 @@ m24-home-read-more = 더 보기
 m24-home-get-started = 시작하기
 m24-home-join-the-movement = 동참하기:<br> 사람을 위한 AI
 m24-home-our-mission-is = 우리의 사명은 사람들이 신뢰할 수 있는 오픈 소스 AI를 사용하여 쉽게 협업할 수 있도록 하는 것입니다.
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = { -brand-name-solo-ai } 로고
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = 웹 사이트 생성 및 사용자 지정 도메인 무료 연결
 m24-home-alt-builders = 빌더
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } 빌더

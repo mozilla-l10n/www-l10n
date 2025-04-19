@@ -80,8 +80,11 @@ firefox-developer-developer-tools-user = 개발자 도구 사용자 문서
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = 개발자에 의한, 개발자를 위한 리소스
 firefox-developer-mdn-playground = 플레이그라운드
+firefox-developer-mdn-write-test-and-share = 코드를 작성하고 테스트하고 공유해 보세요. 이곳은 여러분의 놀라운 작품을 전 세계 사람들과 공유할 수 있는 놀이터입니다.
 firefox-developer-mdn-blog = { -brand-name-mdn } 블로그
+firefox-developer-mdn-unlock-the-world = { -brand-name-mdn } 블로그와 함께 웹 개발의 세계를 열어보세요 — 전문적인 통찰력, 최신 웹 표준 및 코딩 팁을 확인할 수 있는 허브입니다.
 firefox-developer-mdn-updates = 업데이트
+firefox-developer-mdn-the-web-doesnt-have = 웹에는 변경 로그가 없지만 { -brand-name-mdn }이 도움이 될 수 있습니다. JavaScript, CSS 등 관심 있는 기술 카테고리에 따라 웹 브라우저 호환성 변경 사항을 맞춤형으로 필터링 할 수 있습니다.
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } 참조
 # Obsolete string (expires 18-04-2025)

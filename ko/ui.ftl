@@ -14,6 +14,8 @@ ui-watch-the-video = 동영상 보기
 ui-replay = 다시 실행
 ui-share = 공유
 ui-menu = 메뉴
+# Short for Table of Contents
+ui-contents = 콘텐츠
 ui-please-turn-on-javascript = 페이지가 올바르게 표시되려면 JavaScript 기능을 사용해야 합니다.
 ui-show-more = 자세히 보기
 ui-show-less = 간략히 보기
