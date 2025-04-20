@@ -34,6 +34,7 @@ m24-about-we-fund-and = Finansujemy i inwestujemy w ludzi i wysiłki, dzięki kt
 
 m24-about-read-more = Przeczytaj więcej
 m24-about-read-the-latest = Przeczytaj najnowsze wiadomości i artykuły dotyczące { -brand-name-mozilla(case: "gen") }
+m24-about-builders-program = { -brand-name-mozilla-builders } pomaga deweloperom tworzyć rewolucyjne projekty z zakresu sztucznej inteligencji oparte na otwartym kodzie źródłowym poprzez współpracę, programowanie i społeczność.
 
 ## Showcase
 
@@ -43,6 +44,14 @@ m24-about-read-about-our = Przeczytaj o naszych działaniach
 
 ## Careers
 
+m24-about-join-us-and = Dołącz do nas i zmień świat na lepsze
+m24-about-join-our-team = Dołącz do naszego zespołu i przesuwaj granice tego, co możliwe - nie rezygnując z tego, co ważne.
+m24-about-see-open-positions = Sprawdź wolne stanowiska
 
 ## Community
 
+m24-about-community-love-v2 = Miłość społeczności, nasza siła napędowa
+m24-about-mozilla-is-a = { -brand-name-mozilla } to globalna społeczność pełnych pasji wolontariuszy, członków i współpracowników, którzy wspólnie z nami budują, chronią i kształtują Internet od 1998 roku.
+m24-about-from-writing-code = Od pisania kodu i wykrywania błędów po wspieranie prywatności i utrzymywanie Internetu otwartego dla wszystkich — członkowie naszej społeczności są podstawą wszystkiego, co robimy. Ich pasja i poświęcenie inspirują nas każdego dnia.
+# Used as an accessible text alternative for an image
+m24-about-alt-community = Osoba z torbą na laptopa i smyczą { -brand-name-mozilla }.
