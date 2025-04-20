@@ -18,7 +18,7 @@ vpn-linux-device-level = <strong>Szyfrowanie na poziomie urządzenia:</strong> W
 vpn-linux-multi-hop = <strong>Routing wielopunktowy:</strong> w celu zapewnienia dodatkowej ochrony { -brand-name-mozilla-vpn } może szyfrować ruch i kierować go przez dwie lokalizacje zamiast jednej, co utrudnia śledzenie Twojej aktywności online.
 vpn-linux-simple-and = <strong>Prosty i intuicyjny interfejs:</strong> Połącz się z serwerem jednym kliknięciem. Możesz również dostosować swoje ustawienia i preferencje do swoich potrzeb.
 vpn-linux-it-helps-restore = <strong>Pomaga przywrócić neutralność sieci:</strong> { -brand-name-mozilla-vpn } pomaga odzyskać kontrolę nad działaniami online, uniemożliwiając rządom i dostawcom usług internetowych ograniczanie przepustowości lub blokowanie witryn i usług, które im się nie podobają lub które konkurują z ich własną ofertą.
-vpn-linux-gui-client = <strong>Klient GUI:</strong>{ -brand-name-mozilla-vpn } ma klienta GUI (z graficznym interfejsem użytkownika), podczas gdy niektórzy dostawcy VPN udostępniają wyłącznie wersję CLI (uruchamianą z wiersza poleceń).
+vpn-linux-gui-client = <strong>Klient GUI:</strong> { -brand-name-mozilla-vpn } ma klienta GUI (z graficznym interfejsem użytkownika), podczas gdy niektórzy dostawcy VPN udostępniają wyłącznie wersję CLI (uruchamianą z wiersza poleceń).
 vpn-linux-by-using = Korzystając z { -brand-name-mozilla-vpn } możesz odzyskać kontrolę nad swoimi działaniami online i chronić swoją prywatność i dane. Pobierz { -brand-name-mozilla-vpn } już dziś i ciesz się 30-dniową gwarancją zwrotu pieniędzy bez logów, kłopotów i ryzyka.
 vpn-linux-how-to-install = Jak zainstalować { -brand-name-mozilla-vpn } na Linuksie
 # Variables:
