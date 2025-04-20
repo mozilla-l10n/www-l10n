@@ -84,7 +84,7 @@ firefox-developer-mdn-write-test-and-share = Escreva, teste e partilhe o seu có
 firefox-developer-mdn-blog = Blogue da { -brand-name-mdn }
 firefox-developer-mdn-unlock-the-world = Desbloqueie o mundo da programação web com o blogue da { -brand-name-mdn } — o seu ponto central para informações de especialistas, padrões da web mais recentes e dicas de programação.
 firefox-developer-mdn-updates = Atualizações
-firefox-developer-mdn-the-web-doesnt-have = A web não tem um registo de alterações, mas o { -brand-name-mdn } pode ajudar. Pode personalizar e filtrar alterações de compatibilidade com base nos navegadores ou na categoria tecnológica em que está interessado, seja JavaScript, CSS, etc.
+firefox-developer-mdn-the-web-doesnt-have = A web não tem um registo de alterações, mas o { -brand-name-mdn } pode ajudar. Pode personalizar e filtrar alterações de compatibilidade com base nos navegadores ou na categoria tecnológica em que tem interesse, quer seja JavaScript, CSS, entre outras.
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Referências da { -brand-name-mdn }
 # Obsolete string (expires 18-04-2025)
