@@ -19,6 +19,8 @@ m24-about-mozilla-is-working = { -brand-name-mozilla } pracuje nad tym, aby kont
 
 m24-about-together-we-can = Razem możemy sprawić, że internet będzie łatwy, bezpieczny i darmowy — dla każdego.
 m24-about-read-our-manifesto = Przeczytaj nasz manifest
+# Used as an accessible text alternative for an image
+m24-about-a-group-of = Grupa myślicieli siedzących w kręgu na podłodze i wymieniających się pomysłami.
 m24-about-advocate = Orędownictwo
 m24-about-we-advocate-for = Jesteśmy orędownikami walki o lepsze produkty, pociągając rządy i korporacje technologiczne do odpowiedzialności za to, co tworzą.
 m24-about-research = Badania

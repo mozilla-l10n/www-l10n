@@ -20,3 +20,17 @@ vpn-linux-simple-and = <strong>Prosty i intuicyjny interfejs:</strong> Połącz 
 vpn-linux-it-helps-restore = <strong>Pomaga przywrócić neutralność sieci:</strong> { -brand-name-mozilla-vpn } pomaga odzyskać kontrolę nad działaniami online, uniemożliwiając rządom i dostawcom usług internetowych ograniczanie przepustowości lub blokowanie witryn i usług, które im się nie podobają lub które konkurują z ich własną ofertą.
 vpn-linux-gui-client = <strong>Klient GUI:</strong>{ -brand-name-mozilla-vpn } ma klienta GUI (z graficznym interfejsem użytkownika), podczas gdy niektórzy dostawcy VPN udostępniają wyłącznie wersję CLI (uruchamianą z wiersza poleceń).
 vpn-linux-by-using = Korzystając z { -brand-name-mozilla-vpn } możesz odzyskać kontrolę nad swoimi działaniami online i chronić swoją prywatność i dane. Pobierz { -brand-name-mozilla-vpn } już dziś i ciesz się 30-dniową gwarancją zwrotu pieniędzy bez logów, kłopotów i ryzyka.
+vpn-linux-how-to-install = Jak zainstalować { -brand-name-mozilla-vpn } na Linuksie
+# Variables:
+#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
+# 'mozillavpn' should not be translated as it is the proper name of the package
+vpn-linux-if-you-use-v2 = Jeśli używasz jednej z obsługiwanych wersji Ubuntu, istnieją dwa sposoby instalacji oficjalnych pakietów mozillavpn hostowanych na <a { $attrs }>Launchpadzie:</a>
+# Variables:
+#   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
+vpn-linux-ubuntu-command = <strong>Tryb wiersza poleceń Ubuntu:</strong> Szczegółowe instrukcje dotyczące instalacji { -brand-name-mozilla-vpn } przy użyciu narzędzi trybu wiersza poleceń można znaleźć w artykule <a { $attrs }>Jak zainstalować { -brand-name-mozilla-vpn } na komputerze z systemem Linux</a>.
+# Variables:
+#   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
+vpn-linux-ubuntu-graphical = <strong>Interfejs użytkownika graficznego Ubuntu:</strong> Przejdź do <a { $attrs }>tego artykułu</a> i postępuj zgodnie z instrukcjami podanymi w sekcji <em>Adding personal package archives<em>.
+# Variables:
+#   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
+vpn-linux-additionally = Ponadto w przypadku nieobsługiwanych dystrybucji Linuksa można pobrać kod źródłowy z <a { $attrs }>oficjalnego repozytorium GitHub</a> i skompilować go.
