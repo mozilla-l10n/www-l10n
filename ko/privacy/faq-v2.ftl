@@ -51,12 +51,12 @@ privacy-faq-v2-data-collection-bugs-me = 데이터 수집은 여전히 저를 �
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 #   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
-privacy-faq-v2-yes-user-control = 예. 사용자 제어는 우리의 개인 정보 보호 원칙 중 하나입니다. 우리는 { -brand-name-firefox }에서 개인 정보를 관리하려는 모든 사람들을 위해 <a href="{ $settings }">개인 정보 설정 페이지</a>를 원 스톱 설정 페이지로 { -brand-name-firefox }에 적용하였습니다. 여기에서 <a href="{ $data }">데이터 수집을 중지</a> 할 수 있습니다.
+privacy-faq-v2-yes-user-control = 예. 사용자 제어는 우리의 개인 정보 보호 원칙 중 하나입니다. 우리는 { -brand-name-firefox }에서 개인 정보를 관리하려는 모든 사람들을 위해 <a { $privacy }>개인 정보 설정 페이지</a>를 원 스톱 설정 페이지로 { -brand-name-firefox }에 적용하였습니다. 여기에서 <a { $data }>데이터 수집을 중지</a> 할 수 있습니다.
 privacy-faq-v2-what-about-my-account = 내 계정 데이터는 어떤가요?
 privacy-faq-v2-we-are-big-believers = 우리는 데이터 최소화를 중요하게 생각하고 필요하지 않은 것은 요구하지 않습니다.
 # Variables:
 #   $attrs (url) - link to https://www.mozilla.org/account/
-privacy-faq-v2-you-dont-need-an-account = { -brand-name-firefox }를 사용하기 위해 계정은 필요하지 않습니다. 기기 간에 데이터를 동기화하려면 <a href="{ $accounts }">계정</a>이 필요하지만 전자 메일 주소만을 요청할 뿐입니다. 우리는 사용자의 이름, 주소, 생일 및 전화 번호 같은 것을 원하지 않습니다.
+privacy-faq-v2-you-dont-need-an-account = { -brand-name-firefox }를 사용하기 위해 계정은 필요하지 않습니다. 기기 간에 데이터를 동기화하려면 <a { $attrs }>계정</a>이 필요하지만 전자 메일 주소만을 요청할 뿐입니다. 우리는 사용자의 이름, 주소, 생일 및 전화 번호 같은 것을 원하지 않습니다.
 privacy-faq-v2-you-use-digital = 마케팅믹스의 일부로 디지털 광고를 사용합니다. 온라인 광고를 더 효과적으로 타겟팅하기 위해 사람들의 데이터를 구매합니까?
 privacy-faq-v2-no-we-do-not-buy = 아니요, 광고를 타겟팅하기 위해 사람들의 데이터를 구매하지 않습니다.
 privacy-faq-v2-we-do-not-ask = 우리는 광고 파트너에게 사용중인 브라우저 및 사용중인 기기와 같이 모든 사용자에 대해 웹 사이트 및 퍼블리셔가 알고 있는 자사 데이터만을 이용하도록 요청합니다.
