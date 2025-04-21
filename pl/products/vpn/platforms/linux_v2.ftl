@@ -30,7 +30,7 @@ vpn-linux-if-you-use-v2 = Jeśli używasz jednej z obsługiwanych wersji Ubuntu,
 vpn-linux-ubuntu-command = <strong>Tryb wiersza poleceń Ubuntu:</strong> Szczegółowe instrukcje dotyczące instalacji { -brand-name-mozilla-vpn } przy użyciu narzędzi trybu wiersza poleceń można znaleźć w artykule <a { $attrs }>Jak zainstalować { -brand-name-mozilla-vpn } na komputerze z systemem Linux</a>.
 # Variables:
 #   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
-vpn-linux-ubuntu-graphical = <strong>Interfejs użytkownika graficznego Ubuntu:</strong> Przejdź do <a { $attrs }>tego artykułu</a> i postępuj zgodnie z instrukcjami podanymi w sekcji <em>Adding personal package archives<em>.
+vpn-linux-ubuntu-graphical = <strong>Interfejs użytkownika graficznego Ubuntu:</strong> Przejdź do <a { $attrs }>tego artykułu</a> i postępuj zgodnie z instrukcjami podanymi w sekcji „Adding personal package archives”.
 # Variables:
 #   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
 vpn-linux-additionally = Ponadto w przypadku nieobsługiwanych dystrybucji Linuksa można pobrać kod źródłowy z <a { $attrs }>oficjalnego repozytorium GitHub</a> i skompilować go.
