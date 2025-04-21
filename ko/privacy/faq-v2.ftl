@@ -41,7 +41,7 @@ privacy-faq-v2-do-you-collect = { -brand-name-firefox } 시험판 버전에서 �
 privacy-faq-v2-sort-of = 어느정도요. 위에 설명한 데이터 외에도 우리는 { -brand-name-firefox } 시험판 버전에서 기본적으로 충돌 및 오류 보고서를 수집합니다.
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/shield
-privacy-faq-v2-we-may-also = 우리는 또한 <a href="{ $link }">연구</a>를 위해 사전 출시에서 추가 데이터를 수집할 수 있습니다. 예를 들어 일부 연구에서는 특정 웹사이트에 대한 URL 및 기타 정보가 포함될 수 있는 “웹 활동 데이터”가 필요합니다. 특정 지역의 인기 있는 웹 사이트를 보다 잘 통합하는 방법 등 { -brand-name-firefox } 개선을 위한 특정 질문에 대한 답을 얻도록 도움을 줍니다.
+privacy-faq-v2-we-may-also = 우리는 또한<a { $attrs }>연구</a>를 위해 사전 출시에서 추가 데이터를 수집할 수 있습니다. 예를 들어 일부 연구에서는 특정 웹사이트에 대한 URL 및 기타 정보가 포함될 수 있는 “웹 활동 데이터”가 필요합니다. 특정 지역의 인기 있는 웹 사이트를 보다 잘 통합하는 방법 등 { -brand-name-firefox } 개선을 위한 특정 질문에 대한 답을 얻도록 도움을 줍니다.
 privacy-faq-v2-mozilla-pre-release = { -brand-name-mozilla }의 { -brand-name-firefox } 출시전 버전은 개발 플랫폼이어서 실험용 기능이 자주 업데이트됩니다. 실험적 기능이 작동하는 방식을 이해하기 위해 출시 전보다 더 많은 데이터를 수집합니다. 환경 설정에서 이 데이터를 수집하지 않도록 선택할 수 있습니다.
 privacy-faq-v2-but-why-do-you = 그런데 모든 데이터를 왜 수집합니까?
 # Variables:
