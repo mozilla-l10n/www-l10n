@@ -14,6 +14,7 @@ sub-navigation-ios = { -brand-name-ios }
 sub-navigation-desktop-beta-and-developer = Asztali { -brand-name-beta } és { -brand-name-developer-edition }
 sub-navigation-desktop-nightly = Asztali { -brand-name-nightly }
 sub-navigation-features = Funkciók
+sub-navigation-more = Több
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = 64 bites { -brand-name-windows }

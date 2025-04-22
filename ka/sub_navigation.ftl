@@ -14,6 +14,7 @@ sub-navigation-ios = { -brand-name-ios }
 sub-navigation-desktop-beta-and-developer = კომპიუტერზე { -brand-name-beta } და { -brand-name-developer-edition }
 sub-navigation-desktop-nightly = კომპიუტერზე { -brand-name-nightly }
 sub-navigation-features = შესაძლებლობები
+sub-navigation-more = სხვა
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64-ბიტიანი
