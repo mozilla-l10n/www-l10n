@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
+misinformation-social-media-clean-heading = { -brand-name-firefox } pomaga utrzymać czystość Twoich kanałów społecznościowych:
