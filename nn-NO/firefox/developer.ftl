@@ -83,6 +83,7 @@ firefox-developer-mdn-playground = Testområde
 firefox-developer-mdn-blog = { -brand-name-mdn }-blogg
 firefox-developer-mdn-unlock-the-world = Lås opp ei verd av nettutvikling med { -brand-name-mdn }-bloggen – hovudpunktet ditt for ekspertinnsikt, nyaste nettstandardar og kodingstips.
 firefox-developer-mdn-updates = Oppdateringar
+firefox-developer-mdn-the-web-doesnt-have = Internett har ingen endringslogg, men { -brand-name-mdn } kan hjelpe. Du kan tilpasse og filtrere kompatibilitetsendringar basert på nettlesarar eller teknologikategorien du er interessert i, anten det er JavaScript, CSS, osv.
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } er eit samarbeidsprosjekt med open kjeldekode som dokumenterer nettplattformteknologiar, inkludert CSs, HTML, JavaScript og web-API-ar.
 # Obsolete string (expires 18-04-2025)
