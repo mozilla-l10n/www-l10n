@@ -7,3 +7,6 @@
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-social-media-clean-heading = { -brand-name-firefox } pomaga utrzymać czystość Twoich kanałów społecznościowych:
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = Portale społecznościowe wiedzą o tobie bardzo dużo. Ponadto mogą Cię śledzić poza swoimi platformami za pomocą przycisków Udostępnij i Lubię to, nawet jeśli nie masz konta. <a href="{ $container }">{ -brand-name-facebook-container }</a> dla { -brand-name-firefox(case: "gen") } gwarantuje, że { -brand-name-facebook } i { -brand-name-instagram } nie mogą tego robić za łatwo, co ponownie znacznie zmniejsza prawdopodobieństwo zobaczenia dezinformacji za pośrednictwem reklam i promowanych treści.
