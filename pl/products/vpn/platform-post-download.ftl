@@ -67,3 +67,7 @@ vpn-download-faq-traffic = Jeśli Twoim celem jest ochrona ruchu internetowego p
 vpn-download-faq-experience = Jeśli Twoim celem jest korzystanie z Internetu tak, jakbyś znajdował się w innej części świata, możesz wybrać tam lokalizację serwera, a wszystkie odwiedzane przez Ciebie strony internetowe będą wyświetlane tak, jakbyś tam był.
 vpn-download-faq-protect = Jeśli chcesz się jeszcze bardziej zabezpieczyć, możesz aktywować zabezpieczenia przed reklamami, skryptami reklamowymi i złośliwym oprogramowaniem,  Ustawienia > Funkcje prywatności. Należy pamiętać, że może to spowodować uszkodzenie lub brak ładowania niektórych witryn, więc może być konieczne tymczasowe wyłączenie tych zabezpieczeń, jeśli napotkasz ten problem.
 vpn-download-faq-lastly = Na koniec, na obsługiwanych urządzeniach możesz sprawić, że VPN będzie jeszcze inteligentniejszy, wykluczając niektóre aplikacje (np. Netflix) z ochrony VPN.
+vpn-download-faq-need-more = Potrzebujesz jeszcze trochę pomocy?
+# Variables
+#   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
+vpn-download-faq-support = Możesz skontaktować się z naszym zespołem wsparcia bezpośrednio z aplikacji { -brand-name-mozilla-vpn }, klikając Ustawienia > Uzyskaj pomoc > Skontaktuj się z pomocą techniczną. Możesz również skontaktować się z nami <a href="{ $support }">na naszej stronie pomocy technicznej</a>.
