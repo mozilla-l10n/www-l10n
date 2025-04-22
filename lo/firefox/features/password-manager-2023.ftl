@@ -12,4 +12,6 @@ password-manager-password-autofill-for-easy-logins = ຕື່ມລະຫັດ
 password-manager-image-of-a-websites-login-form = ຮູບພາບຂອງແບບຟອມການເຂົ້າສູ່ລະບົບຂອງເວັບໄຊທ໌ທີ່ມີ { -brand-name-firefox } ສະແດງບັນຊີທີ່ບັນທຶກໄວ້ຫຼາຍບັນຊີທີ່ຈະເລືອກເອົາໃນເວລາເຂົ້າສູ່ລະບົບ.
 password-manager-import-passwords = ນຳເຂົ້າລະຫັດຜ່ານ
 password-manager-no-more-reusing-your-passwords = ບໍ່ຕ້ອງໃຊ້ລະຫັດຜ່ານຂອງທ່ານຄືນໃໝ່
+# Used as an accessible text alternative for an image
+password-manager-image-of-a-websites-sign-up-form = ຮູບພາບຂອງແບບຟອມການລົງທະບຽນຂອງເວັບໄຊທ໌ທີ່ມີ { -brand-name-firefox } ແນະນໍາລະຫັດຜ່ານທີ່ເຂັ້ມແຂງທີ່ມັນຈະເກັບຮັກສາໄວ້ອັດຕະໂນມັດສໍາລັບການນໍາໃຊ້ໃນອະນາຄົດ.
 password-manager-password-security-alerts = ແຈ້ງເຕືອນຄວາມປອດໄພລະຫັດຜ່ານ
