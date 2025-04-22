@@ -15,6 +15,7 @@ sub-navigation-ios = { -brand-name-ios }
 sub-navigation-desktop-beta-and-developer = डेस्कटॉप { -brand-name-beta } और { -brand-name-developer-edition }
 sub-navigation-desktop-nightly = डेस्कटॉप { -brand-name-nightly }
 sub-navigation-features = फ़ीचर्स
+sub-navigation-more = और ज्याद
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64-बिट

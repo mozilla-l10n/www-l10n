@@ -15,6 +15,7 @@ sub-navigation-ios = { -brand-name-ios }
 sub-navigation-desktop-beta-and-developer = { -brand-name-beta } و{ -brand-name-developer-edition } لأجهزة الكمبيوتر
 sub-navigation-desktop-nightly = { -brand-name-nightly } لأجهزة الكمبيوتر
 sub-navigation-features = الميزات
+sub-navigation-more = المزيد
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64 بت
