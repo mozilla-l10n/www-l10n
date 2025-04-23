@@ -8,3 +8,6 @@
 browser-history-browser-history = Historia przeglądarki: Epickie zmagania o władzę, które przyniosły nam nowoczesne przeglądarki
 browser-history-the-browser-wars-underdogs-giants = Wojny przeglądarek, słabsi kontra giganci oraz momenty, które zmieniły świat. Przeczytaj o historii przeglądarki internetowej.
 browser-history-the-history-of-web = Historia przeglądarek internetowych
+# Variables:
+#   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
+browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> był pierwszym udanym projektem sieciowym; w 1969 roku wysłano pierwszą wiadomość z laboratorium informatycznego Uniwersytetu Kalifornijskiego w Los Angeles (UCLA) do Stanford Research Institute (SRI), również w Kalifornii.
