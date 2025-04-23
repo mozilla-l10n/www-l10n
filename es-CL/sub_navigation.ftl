@@ -14,6 +14,7 @@ sub-navigation-ios = { -brand-name-ios }
 sub-navigation-desktop-beta-and-developer = Escritorio { -brand-name-beta } y { -brand-name-developer-edition }
 sub-navigation-desktop-nightly = Escritorio { -brand-name-nightly }
 sub-navigation-features = Características
+sub-navigation-more = Más
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64-bit
