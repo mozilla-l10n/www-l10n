@@ -44,6 +44,7 @@ vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } nie je
 
 # Platform subpage shared strings
 
+vpn-shared-platform-cta-button = Sprawdź ceny i dostępność
 vpn-shared-platform-what-is = Czym jest { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Dlaczego { -brand-name-mozilla-vpn }?
 # Subnav strings
