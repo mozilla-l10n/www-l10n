@@ -25,6 +25,7 @@ m24-about-advocate = Pysyrõhára
 m24-about-research = Jehapereka
 m24-about-we-uncover-insights = Rojuhu temiandu, rojapo mba’e ikatúva apopy moporãverã ha romoakãrapu’ã umi ouporãtava ndéve.
 m24-about-build = Jejapo
+m24-about-we-build-products = Romoheñói apopy ne pytyvõtava eiko porãvévo, ãva { -brand-name-firefox }, { -brand-name-fakespot } ha hetave.
 m24-about-fund = Hepyme’ẽ
 
 ## News
@@ -33,6 +34,7 @@ m24-about-read-more = Emoñe’ẽve
 m24-about-read-the-latest = Emoñe’ẽ marandu pyahu ha { -brand-name-mozilla } ohaipyre
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = { -brand-name-rise25 } ombojopóiva ohechaukávo ñeme’ẽmbyre.
+m24-about-empowering-chicagos-entrepreneurs = Romyakãraku umi mba’eapohára Chicago-guápe hekoambue hag̃ua
 # Used as an accessible text alternative for an image
 m24-about-chicago = Peteĩ moheñoihára oĩva Chicago-pe.
 

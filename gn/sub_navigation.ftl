@@ -14,6 +14,7 @@ sub-navigation-ios = { -brand-name-ios }
 sub-navigation-desktop-beta-and-developer = { -brand-name-beta } ha { -brand-name-developer-edition } mesa ariguápe g̃uarã
 sub-navigation-desktop-nightly = { -brand-name-nightly } mesa ariguáva
 sub-navigation-features = Tembiapoite
+sub-navigation-more = Hetave
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64-bit
