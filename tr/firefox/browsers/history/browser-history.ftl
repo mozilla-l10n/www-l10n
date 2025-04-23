@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-browser-history = Tarayıcıların Tarihi: Modern tarayıcıları yaratan destansı güç mücadeleleri
+browser-history-the-browser-wars-underdogs-giants = Tarayıcı savaşları, mazlumların devlerle mücadelesi ve dünyayı değiştiren anlar. Web tarayıcılarının tarihini okuyun.
 browser-history-the-history-of-web = Web Tarayıcılarının Tarihi
 browser-history-before-web-era = Web Çağı’ndan önce
 browser-history-web-era = Web Çağı

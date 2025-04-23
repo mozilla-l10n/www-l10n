@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
+misinformation-page-title = Unikaj dezinformacji w Internecie – { -brand-name-firefox } jest tutaj, aby pomóc
 misinformation-spot-online-heading = Jak rozpoznawać fałszywe informacje w Internecie i pomóc powstrzymać ich rozprzestrzenianie
 misinformation-overly-sensational = Czy nagłówek nie jest przesadnie sensacyjny?
 misinformation-content-up-to-date = Czy treść jest aktualna?
@@ -17,3 +18,11 @@ misinformation-social-media-clean-desc = Portale społecznościowe wiedzą o tob
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } pomaga wydobyć treści, które są warte Twojego czasu:
 misinformation-why-trust-firefox = Dlaczego warto zaufać { -brand-name-firefox(case: "dat") }?
+# Variables:
+#   $foundation (url) - link to https://foundation.mozilla.org/
+misinformation-because-we-put-people-first = Ponieważ stawiamy ludzi na pierwszym miejscu. Co więcej, jesteśmy wspierani przez <a href="{ $foundation }">fundację non-profit</a>. Od samego początku naszą misją jest ochrona Internetu i wszystkich jego użytkowników.
+misinformation-learn-more-about-our-mission = Dodatkowe informacje o naszej misji
+misinformation-your-privacy-by-the-product = Twoja prywatność jako produkt
+misinformation-firefox-products-work-differently = Produkty { -brand-name-firefox(case: "gen") } działają inaczej — ponieważ zostały zaprojektowane przede wszystkim z myślą o ochronie Twojej prywatności.
+misinformation-learn-about-our-products = Poznaj nasze produkty
+misinformation-designed-to-protect = Stworzony, by chronić Twoją prywatność

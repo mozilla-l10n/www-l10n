@@ -10,6 +10,10 @@ features-adblocker-so-many-ads-so-little = Reklam çok, sabrınız az… Artık 
 features-adblocker-the-average-person-sees = Ortalama bir kişi günde yaklaşık 4.000 reklam görür. Bu size fazla geldiyse reklam engelleyicilerle dost olabilirsiniz.
 features-adblocker-find-the-right-ad-blocker = Size en uygun reklam engelleyiciyi bulun
 features-adblocker-there-are-scores-of-content = Kullanabileceğiniz birçok içerik engelleyici var ama işte { -brand-name-mozilla }’nın seçtiği birkaç harika seçenek…
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = Bu uzantılar { -brand-name-firefox }’un hem <a { $attrs1 }>bilgisayar</a> hem de <a { $attrs2 }>Android</a> sürümlerinde çalışır.
 features-adblocker-create-a-tracker-free = İçerik engelleme sayesinde takip kodlarından arınmış bir bölge yaratın
 features-adblocker-choose-your-level-of-protection = Koruma düzeyinizi seçin
 features-adblocker-go-easy-with-standard = Standart mod ile ağırdan alın
