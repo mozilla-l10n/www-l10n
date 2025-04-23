@@ -15,5 +15,7 @@ features-adblocker-tip-1 = <strong>Ñemurã jokoha:</strong> Ejokoséramo ñemur
 features-adblocker-tip-2 = <strong>Jepy’apy tekoñemi rehegua:</strong> Nde py’apýramo tapykuehohakuéra, eheka ñemurã jokoha orekovavoi tekoñemi reko.
 features-adblocker-tip-4 = <strong>Mba’e’oka ojokupytýva:</strong> ehecha eikotevẽpa mohendaha mesa arigua, pumbyry térã mokõivéva.
 features-adblocker-tip-5 = <strong>Malware jokoha:</strong> oĩ ñemurã jokohakuéra omo’ãva ñemurã imarãva (techapyrã, AdGuard).
+features-adblocker-tip-6 = <strong>Jehecharã poravopýva:</strong> iporã ejokokuaa hag̃ua tetepy eipota’ỹva.
 features-adblocker-enhanced-privacy = Tekoñemi ha oikoporãngue { -brand-name-firefox } ndive
+features-adblocker-tool-1 = <strong>Ejypykue rekotee:</strong> peteĩ porupyrã ojokokuaáva tapykuehohakuéra ombyai’ỹre ñanduti rogue rembapoite.
 features-adblocker-why-use = ¿Mba’ére emyandyva’erã pe ñemurã jokoha?

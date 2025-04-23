@@ -14,6 +14,7 @@ sub-navigation-ios = { -brand-name-ios }
 sub-navigation-desktop-beta-and-developer = { -brand-name-beta } in { -brand-name-developer-edition } za namizja
 sub-navigation-desktop-nightly = { -brand-name-nightly } za namizja
 sub-navigation-features = Značilnosti
+sub-navigation-more = Več
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } (64-bitni)
