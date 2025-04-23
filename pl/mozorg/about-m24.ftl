@@ -35,6 +35,8 @@ m24-about-we-fund-and = Finansujemy i inwestujemy w ludzi i wysiłki, dzięki kt
 m24-about-read-more = Przeczytaj więcej
 m24-about-read-the-latest = Przeczytaj najnowsze wiadomości i artykuły dotyczące { -brand-name-mozilla(case: "gen") }
 m24-about-builders-program = { -brand-name-mozilla-builders } pomaga deweloperom tworzyć rewolucyjne projekty z zakresu sztucznej inteligencji oparte na otwartym kodzie źródłowym poprzez współpracę, programowanie i społeczność.
+# Used as an accessible text alternative for an image
+m24-about-rise25-award = Laureatka nagrody { -brand-name-rise25 } wskazująca na swoje trofeum.
 
 ## Showcase
 
@@ -44,6 +46,8 @@ m24-about-read-about-our = Przeczytaj o naszych działaniach
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = Pracownik { -brand-name-mozilla(case: "dat") } pijący kawę.
 m24-about-join-us-and = Dołącz do nas i zmień świat na lepsze
 m24-about-join-our-team = Dołącz do naszego zespołu i przesuwaj granice tego, co możliwe - nie rezygnując z tego, co ważne.
 m24-about-see-open-positions = Sprawdź wolne stanowiska
