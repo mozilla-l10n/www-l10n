@@ -13,9 +13,11 @@ m24-about-page-desc = { -brand-name-mozilla } lagar nettlesarar, appar, kode og 
 ## Intro
 
 m24-about-reclaim-the-internet = Ta tilbake nettet med oss
+m24-about-mozilla-is-working = { -brand-name-mozilla } jobbar med å gi brukarane tilbake kontrollen over Internett.
 
 ## Manifesto
 
+m24-about-together-we-can = Saman kan vi gjere internett enkelt, trygt og gratis — for alle.
 m24-about-read-our-manifesto = Les manifestet vårt
 m24-about-research = Forsking
 
