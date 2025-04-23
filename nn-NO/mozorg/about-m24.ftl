@@ -27,6 +27,7 @@ m24-about-we-fund-and = Vi finansierer og investerer i menneska og innsatsen som
 ## News
 
 m24-about-read-more = Les meir
+m24-about-read-the-latest = Les dei siste artiklane og nyheitene om { -brand-name-mozilla }
 
 ## Showcase
 
