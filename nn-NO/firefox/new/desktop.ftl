@@ -25,6 +25,8 @@ firefox-desktop-download-fast-reliable-private = Rask, påliteleg og privat — 
 firefox-desktop-download-no-shady = Ingen lyssky personvernreglar eller bakdører for annonsørar. Berre ein lynrask nettlesar som ikkje sel dataa dine.
 firefox-desktop-download-download-options = Nedlastingsalternativ og andre språk
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } brukarstøtte
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Gjer kva du vil på nettet.<br> { -brand-name-firefox-browser } <strong>beskyttar</strong> deg.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Gjer det du vil på nettet. <br> { -brand-name-firefox-browser } <strong>overvakar</strong> deg ikkje.
 firefox-desktop-download-we-block-the-ad = Vi blokkerer annonsesporarar. Du utforskar internett raskare.
@@ -111,6 +113,9 @@ firefox-desktop-download-from-security-to = Frå sikkerheit til nyheiter til spe
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } vart utvikla av <a { $attrs }>{ -brand-name-mozilla }</a> som eit raskare, meir privat alternativ til nettlesarar som { -brand-name-ie }, og no { -brand-name-chrome }. I dag held det visjonære selskapet vårt og frivilligsamfunn fram med å setje personvernet ditt framfor alt anna.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Ettersom internett veks og blir endra, held { -brand-name-firefox } fram med å fokusere på din rett til personvern – det har alltid vore greia vår. Finn ut meir om datapraksisen vår i <a { $attrs }>personvernfråsegna</a> vår.
 # Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/

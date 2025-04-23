@@ -23,6 +23,7 @@ m24-about-read-our-manifesto = Emoñe’ẽ Mozilla he’ipyre
 m24-about-a-group-of = Peteĩ oñepy’amongetáva aty oguapýva jerépe oguenohẽva hemiandu.
 m24-about-advocate = Pysyrõhára
 m24-about-research = Jehapereka
+m24-about-we-uncover-insights = Rojuhu temiandu, rojapo mba’e ikatúva apopy moporãverã ha romoakãrapu’ã umi ouporãtava ndéve.
 m24-about-build = Jejapo
 m24-about-fund = Hepyme’ẽ
 
