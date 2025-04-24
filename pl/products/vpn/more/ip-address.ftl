@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/more/what-is-an-ip-address/
 
 # HTML page title and main title
-vpn-ip-address-what-is-an-ip-address = Co to jest adres IP?
-# HTML page description and intro
-vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } odpowiada na wszystkie pytania dotyczące adresów IP, począwszy od tego, czym jest adres IP, jak działa, aż po to, czy warto go ukrywać.
+vpn-ip-address-what-is-an-ip-address = Czym jest adres IP?
+vpn-ip-address-can-more-than = Czy więcej niż jedno urządzenie może mieć ten sam adres IP?
+vpn-ip-address-can-we-run = Czy zasób adresów może się wyczerpać?
+vpn-ip-address-should-you-hide = Czy powinno się ukrywać adres IP?
