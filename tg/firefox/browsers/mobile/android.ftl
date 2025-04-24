@@ -18,6 +18,7 @@ mobile-android-fast-and-private = Тез ва хусусӣ
 mobile-android-one-tap-to = Ба реҷаи «Тамошобинии хусусӣ» бо як ламс гузаред
 mobile-android-search-your-own = Ба таври дилхоҳ ҷустуҷӯ кунед
 mobile-android-save-power-with = Ба воситаи реҷаи «Торик» қувваи барқро сарфа намоед
+mobile-android-switch-to-dark = Шумо метавонед дар вақти дилхоҳ ба реҷаи торик гузаред, то хастагии чашмро кам кунед ва батареяи дастгоҳро сарфа кунед.
 mobile-android-easily-organize-your = Варақаҳои худро ба осонӣ ташкил кунед
 mobile-android-supercharge-firefox-with = Браузери «{ -brand-name-firefox }»-ро бо ҷузъҳои иловагӣ пурқувват кунед
 mobile-android-pick-up-where = Ба он ҷое, ки шумо ба қарибӣ тамошо кардаед, баргардонед
