@@ -26,10 +26,15 @@ m24-home-love-the-internet = Боз Интернетро дӯст доред
 m24-home-break-free-from = Аз технологияҳои бузург раҳо шавед - маҳсулоти мо шуморо таҳти назорати таҷрибаи бехатартар ва Интернети хусусӣ қарор медиҳанд.
 m24-home-explore-our-products = Бо маҳсулоти мо шинос шавед
 m24-home-firefox = { -brand-name-firefox }
+m24-home-get-the-gold = Стандарти тиллоиро барои тамошобинии босуръат, дар асоси махфият ва назорат ба даст оред.
 m24-home-thunderbird = { -brand-name-thunderbird }
+m24-home-go-chaosfree-with = Ҳаёти худро бо як барнома барои ҳамаи паёмҳои почтаи электронӣ, тақвимҳо ва тамосҳои худ содатар гардонед.
 m24-home-fakespot = { -brand-name-fakespot }
+m24-home-spot-fake-reviews = Тақризҳои қалбакӣ, маҳсулоти бадсифат ва фурӯшандагони беэътимодро муайян кунед.
 m24-home-pocket = { -brand-name-pocket }
+m24-home-save-the-internets = Муҳтавои беҳтаринро аз саросари Интернет дар ҳама гуна дастгоҳи худ нигоҳ доред - зеро имрӯз кӣ барои хондани ҳама чиз вақт дорад?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-keep-your-location = Ҷойгиршавӣ ва саёҳатҳои онлайни худро ба таври хусусӣ нигоҳ доред - мисли сокини як ҷойи маҳаллӣ, аммо дар ҳамаи ҷойҳо ҷараён диҳед.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 
