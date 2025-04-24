@@ -10,15 +10,20 @@ m24-home-page-title = Интернет барои одамон, на фоида 
 m24-home-page-title-v2 = «{ -brand-name-mozilla }» — Интернет барои одамон, на фоида
 # HTML page description
 m24-home-page-desc = Шумо медонед, ки «{ -brand-name-mozilla }» — созандаи «{ -brand-name-firefox }» мебошад — ва мубориза мекунад, то ки Интернет барои ҳар як кас ҳамчун манбаи ҷамъиятии умумиҷаҳонӣ, кушод ва дастрас нигоҳ дошта шавад.
+m24-home-page-desc-v2 = Мо кор карда истодаем, ки назорати Интернетро ба дасти одамоне, ки аз он истифода мебаранд, баргардонем.
 
 ## Intro
 
 m24-home-welcome-to-mozilla = Хуш омадед ба «{ -brand-name-mozilla }»
+m24-home-from-trustworthy-tech = Аз технологияи боэътимод то сиёсатҳое, ки ҳуқуқҳои рақамии шуморо муҳофизат мекунанд, мо шуморо ҳамеша дар ҷойи аввал мегузорем.
 m24-home-learn-about-us = Маълумот дар бораи мо
+# Used as accessible text alternative for image
+m24-home-alt-flag = Парчами сабзи услубӣ дар заминаи сиёҳ, ки аз «M» барои «{ -brand-name-mozilla }» сохта шудааст ва як пикселе, ки барои истинод ба ангораи аслии динозаври он омехта шудааст.
 
 ## Products
 
 m24-home-love-the-internet = Боз Интернетро дӯст доред
+m24-home-break-free-from = Аз технологияҳои бузург раҳо шавед - маҳсулоти мо шуморо таҳти назорати таҷрибаи бехатартар ва Интернети хусусӣ қарор медиҳанд.
 m24-home-explore-our-products = Бо маҳсулоти мо шинос шавед
 m24-home-firefox = { -brand-name-firefox }
 m24-home-thunderbird = { -brand-name-thunderbird }
