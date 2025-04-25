@@ -17,6 +17,7 @@ browsers-chromebook-dropdown-copy = Ба даст овардани «{ -brand-na
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Чаро ман бояд браузери <span>«{ -brand-name-firefox }»</span>-ро барои «{ -brand-name-chromebook }» ба даст орам?
 browsers-chromebook-while-a-chromebook = Агарчанде, ки дар «{ -brand-name-chromebook }» браузери «{ -brand-name-chrome }» аллакай насб шудааст, боргирӣ ва истифодаи браузери «{ -brand-name-firefox }» ҳамчун браузери асосӣ ба шумо чанд бартарӣ медиҳад:
+browsers-chromebook-alwayson-tracking-protection = Муҳофизат аз пайгирӣ ҳамеша фаъол аст: ба таври пешфарз, браузери «{ -brand-name-firefox }» барои ҳифзи маълумоти шахсии шумо аз ҳар гуна васоити пайгирӣ, аз ҷумла васоити пайгирии рекламавӣ, васоити пайгирии шабакаҳои иҷтимоӣ ва скриптҳои криптомайнинг, ки шуморо дар саросари Интернет пайгирӣ мекунанд, аз хусусияти «Муҳофизати такмилёфта аз пайгирӣ» (ETP) истифода мебарад.
 browsers-chromebook-is-it-hard = Оё насб кардани браузери «{ -brand-name-firefox }» барои «{ -brand-name-chromebook }» душвор аст?
 
 # Variables:
