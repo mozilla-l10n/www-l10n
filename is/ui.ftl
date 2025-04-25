@@ -14,6 +14,8 @@ ui-watch-the-video = Horfa á myndbandið
 ui-replay = Spila aftur
 ui-share = Deila
 ui-menu = Valmynd
+# Short for Table of Contents
+ui-contents = Efni
 ui-please-turn-on-javascript = Kveiktu á JavaScript svo hægt sé að birta þessa síðu rétt.
 ui-show-more = Sýna meira
 ui-show-less = Sýna minna

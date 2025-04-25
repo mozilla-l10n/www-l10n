@@ -14,6 +14,7 @@ sub-navigation-ios = { -brand-name-ios }
 sub-navigation-desktop-beta-and-developer = { -brand-name-beta } fyrir vinnutölvur og { -brand-name-developer-edition }
 sub-navigation-desktop-nightly = { -brand-name-nightly } fyrir vinnutölvur
 sub-navigation-features = Eiginleikar
+sub-navigation-more = Meira
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64-bita

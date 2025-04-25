@@ -57,6 +57,10 @@ m24-home-read-more = Lesa meira
 m24-home-get-started = Hefjast handa
 m24-home-join-the-movement = Vertu með í hreyfingunni:<br> AI-gervigreind fyrir fólkið
 m24-home-our-mission-is = Markmið okkar er að auðvelda fólki að byggja og vinna með áreiðanlega gervigreind, með opinn grunnkóða.
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = { -brand-name-solo-ai }-táknmerki
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Búðu til þitt eigið vefsvæði og tengdu þitt eigið sérsniðið lén ókeypis
 m24-home-alt-builders = Builders-smiðir
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders-smiðir
