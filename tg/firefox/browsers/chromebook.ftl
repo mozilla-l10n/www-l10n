@@ -18,6 +18,7 @@ browsers-chromebook-dropdown-copy = Ба даст овардани «{ -brand-na
 browsers-chromebook-why-get-firefox = Чаро ман бояд браузери <span>«{ -brand-name-firefox }»</span>-ро барои «{ -brand-name-chromebook }» ба даст орам?
 browsers-chromebook-while-a-chromebook = Агарчанде, ки дар «{ -brand-name-chromebook }» браузери «{ -brand-name-chrome }» аллакай насб шудааст, боргирӣ ва истифодаи браузери «{ -brand-name-firefox }» ҳамчун браузери асосӣ ба шумо чанд бартарӣ медиҳад:
 browsers-chromebook-alwayson-tracking-protection = Муҳофизат аз пайгирӣ ҳамеша фаъол аст: ба таври пешфарз, браузери «{ -brand-name-firefox }» барои ҳифзи маълумоти шахсии шумо аз ҳар гуна васоити пайгирӣ, аз ҷумла васоити пайгирии рекламавӣ, васоити пайгирии шабакаҳои иҷтимоӣ ва скриптҳои криптомайнинг, ки шуморо дар саросари Интернет пайгирӣ мекунанд, аз хусусияти «Муҳофизати такмилёфта аз пайгирӣ» (ETP) истифода мебарад.
+browsers-chromebook-supporting-independent-technology = Дастгирии технологияи мустақил: зеро ки аксари браузерҳои асосӣ ҳоло дар асоси «{ -brand-name-chromium }» кор мекунанд, имконоти камтаре мавҷуданд, ки ҳамаи онҳо ба «мошини бузурги технологӣ» тааллуқ надоранд. Браузери «{ -brand-name-firefox }» аз ҷониби як ширкати ғайритиҷоратӣ дастгирӣ карда мешавад ва барои беҳтар кардани Интернет бахшида шудааст. Дар раванди ин такмил, истифодаи браузери «{ -brand-name-firefox }» дастгирии шуморо нишон медиҳад.
 browsers-chromebook-is-it-hard = Оё насб кардани браузери «{ -brand-name-firefox }» барои «{ -brand-name-chromebook }» душвор аст?
 
 # Variables:
