@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 privacy-principles-data-privacy-principles = עקרונות אבטחת נתונים
+# HTML page description
+privacy-principles-mozilla-is-an-open-source = ‏{ -brand-name-mozilla } הוא מיזם קוד פתוח שמטרתו לשפר את חוויית האינטרנט שלך. זהו הכוח המניע מאחורי נהלי הפרטיות שלנו.
 privacy-principles-develop-our-products = פיתוח המוצרים והשירותים שלנו
 privacy-principles-manage-user-data-we-collect = ניהול נתוני המשתמשים שאנו אוספים
 privacy-principles-select-and-interact-with = בחירה ויצירת קשר עם שותפים

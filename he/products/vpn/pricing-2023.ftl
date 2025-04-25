@@ -57,5 +57,8 @@ vpn-pricing-if-already-subscribed = אם כבר נרשמת כמינוי ל־{ -b
 ## Mobile only subscription copy
 
 vpn-pricing-scan-qrcode-to-download = כדי להוריד את היישומון, יש לסרוק את קוד ה־QR עם המכשיר הנייד או מחשב הלוח שלך.
+vpn-pricing-scan-qrcode-to-download-android = כדי להוריד את היישומון, יש לסרוק את קוד ה-QR עם מכשיר ה־Android או הטאבלט שלך
 vpn-pricing-sign-up-on-your-mobile-device = הרשמה כמינוי של { -brand-name-mozilla-vpn } במכשיר הנייד שלך
+vpn-pricing-sign-up-on-your-android-device = הרשמה כמינוי של { -brand-name-mozilla-vpn } במכשיר ה־Android שלך
 vpn-pricing-download-the-app = הורדת היישומון
+vpn-pricing-transaction-may-be-in = * העסקה עשויה להיות בהמרה למטבע מקומי.
