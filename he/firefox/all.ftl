@@ -22,6 +22,7 @@ firefox-all-get-help = קבלת עזרה
 firefox-all-browser-v2 = 1. דפדפן:
 firefox-all-platform-v2 = 2. פלטפורמה:
 firefox-all-language-v2 = 3. שפה:
+firefox-all-download = 4. הורדה:
 firefox-all-desktop = מחשב שולחני
 firefox-all-mobile = נייד
 firefox-all-recommended = (מומלץ)

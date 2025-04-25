@@ -108,12 +108,16 @@
 
 ## Anonym
 
+-brand-name-anonym = Anonym
 
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
+-brand-name-irl-podcast = IRL Podcast
+-brand-name-solo-ai = Solo AI
+-brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-festival = Mozilla Festival
@@ -125,6 +129,10 @@
        *[a] חשבון Mozilla
     }
 -brand-name-mozilla-accounts = חשבונות Mozilla
+-brand-name-mozilla-builders = Mozilla Builders
+-brand-name-builders = Builders
+-brand-name-mozilla-ai-v2 = Mozilla.ai
+-brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
