@@ -24,6 +24,7 @@ firefox-desktop-download-see-your-report = הצגת דוח ההגנה שלך
 firefox-desktop-download-for-everyone = ‏{ -brand-name-firefox } הוא בשביל כולם
 firefox-desktop-download-available-in-over = זמין בלמעלה מ־90 שפות, ומותאם למכשירי { -brand-name-windows }, ‏{ -brand-name-mac-short }, ו־{ -brand-name-linux }, ‏{ -brand-name-firefox } עובד לא משנה במה אתם משתמשים או היכן אתם נמצאים. יש רק לוודא שמערכת ההפעלה שלכם עדכנית עבור החוויה הטובה ביותר.
 firefox-desktop-download-review-system-req = בדיקת דרישות המערכת
+firefox-desktop-download-take-your-privacy = קחו את הפרטיות שלכם אתכם לכל מקום. ל־{ -brand-name-firefox-browsers } עבור { -brand-name-ios } ו־{ -brand-name-android } יש את אותן הגדרות הפרטיות החזקות כדי לחסום רכיבי מעקב מהאפשרות לעקוב אחריכם ברחבי הרשת, לא משנה היכן אתם נמצאים.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = לעשות <strong>הכל</strong> עם { -brand-name-firefox }
 firefox-desktop-download-search-smarter = חיפוש חכם יותר, מהיר יותר
@@ -43,6 +44,7 @@ firefox-desktop-download-pinned-tabs = לשוניות מוצמדות
 firefox-desktop-download-block-autoplay-of = חסימת ניגון אוטומטי של וידאו ושמע
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = תמונה בתוך תמונה
+firefox-desktop-download-curated-content-on = תוכן מותאם אישית בלשונית חדשה
 firefox-desktop-download-share-links = שיתוף קישורים
 firefox-desktop-download-protect-your-privacy = הגנה על הפרטיות שלך
 firefox-desktop-download-third-party-cookie = חסימת עוגיות צד־שלישי
@@ -60,8 +62,10 @@ firefox-desktop-download-dark-mode = מצב כהה
 firefox-desktop-download-library-of-extensions = ספרייה של הרחבות
 firefox-desktop-download-adjust-search-bar = התאמה אישית של הגדרות שורת החיפוש
 firefox-desktop-download-change-new-tab = שינוי פריסת דף הלשונית החדשה
+firefox-desktop-download-make-firefox-your = עשו את <strong>{ -brand-name-firefox }</strong> שלכם
 firefox-desktop-download-extensions-for-every = הרחבות לכל מטרה
 firefox-desktop-download-change-up-your = שינוי המראה שלך
+firefox-desktop-download-go-from-light = עברו ממצב בהיר למצב כהה בהתאם למצב הרוח או ההעדפה שלכם, או שתקפיצו את האווירה עם ערכת נושא מותאמת אישית (חד קרן בצבעי הקשת, למשל).
 firefox-desktop-download-challenging-the-status = מאתגרים את הסטטוס קוו מאז 1998
 firefox-desktop-download-your-privacy-comes = הפרטיות שלך קודמת לכל
 # Gmail and Docs are product names and should not be translated

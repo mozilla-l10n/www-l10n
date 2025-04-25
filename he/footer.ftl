@@ -4,6 +4,7 @@
 
 footer-privacy = פרטיות
 footer-press = עיתונות
+footer-mozilla-blog = הבלוג של { -brand-name-mozilla }
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = מפתחים
 footer-developer-edition = { -brand-name-developer-edition(case: "the") }
@@ -37,3 +38,4 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = עקבו אחרי ‎@{ -brand-name-mozilla }
 footer-follow-firefox = עקבו אחרי ‎@{ -brand-name-firefox }
 footer-about-this-site = על אודות אתר זה
+footer-advertise = פרסום עם { -brand-name-mozilla }
