@@ -13,10 +13,16 @@ firefox-desktop-download-meta-title = הורדת ה{ -brand-name-firefox-browser
 firefox-desktop-download-og-title = הורדת ה־{ -brand-name-firefox } המהיר ביותר אי פעם
 firefox-desktop-download-og-desc = טעינת דפים מהירה יותר, פחות שימוש בזיכרון ושלל תכונות חדשות, ה־{ -brand-name-firefox } החדש כאן.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser(case: "a") }
+firefox-desktop-download-fast-reliable-private = מהיר, אמין ופרטי - לשקט נפשי באינטרנט.
 firefox-desktop-download-download-options = אפשרויות הורדה ושפות אחרות
 firefox-desktop-download-browser-support = תמיכה ב{ -brand-name-firefox-browser(case: "a") }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = עשו מה שאתם עושים באינטרנט.<br> { -brand-name-firefox-browser } </strong>דואג<strong> לכם.
+firefox-desktop-download-we-block-the-ad = אנחנו חוסמים את עוקבי הפרסומות. אתם גולשים באינטרנט מהר יותר.
+firefox-desktop-download-ads-are-distracting = פרסומות מסיחות את הדעת וגורמות לדפי אינטרנט להיטען לאט יותר בזמן שרכיבי המעקב שלהם צופים בכל תנועה שאתם עושים ברשת. { -brand-name-firefox-browser } חוסם את רוב רכיבי המעקב באופן אוטומטי, כך שאין צורך לחפור בתוך הגדרות האבטחה שלכם.
 firefox-desktop-download-see-your-report = הצגת דוח ההגנה שלך
 firefox-desktop-download-for-everyone = ‏{ -brand-name-firefox } הוא בשביל כולם
+firefox-desktop-download-available-in-over = זמין בלמעלה מ־90 שפות, ומותאם למכשירי { -brand-name-windows }, ‏{ -brand-name-mac-short }, ו־{ -brand-name-linux }, ‏{ -brand-name-firefox } עובד לא משנה במה אתם משתמשים או היכן אתם נמצאים. יש רק לוודא שמערכת ההפעלה שלכם עדכנית עבור החוויה הטובה ביותר.
 firefox-desktop-download-review-system-req = בדיקת דרישות המערכת
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = לעשות <strong>הכל</strong> עם { -brand-name-firefox }

@@ -38,6 +38,15 @@ firefox-all-choose-a-microsoft-store-installer = אפשרות זו תפתח את
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = הורדת { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = אנחנו בתקופת מעבר בין גרסאות ESR גדולות { $esr_next_major } ו־{ $esr_current_major }.
+firefox-all-esr-when-there-is = כאשר מתבצע עדכון גרסה גדול, תמיד ישנה חפיפה של כמה גרסאות { -brand-name-firefox-esr } קטנות כדי לאפשר לאנשים שמשתמשים בגרסה הישנה להתכונן לעבור לחדשה.
+firefox-all-esr-if-you-choose = בבחירה של הורדת גרסת ESR ישנה יותר, יבוצע עדכון אוטומטי לגרסה החדשה כאשר תקופת המעבר תסתיים.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = מידע נוסף על <a { $attrs }>מחזור ההשקה של { -brand-name-firefox-esr }</a>.
 firefox-all-check-the-system-requirements = בדיקת דרישות המערכת
 firefox-all-release-notes = הערות שחרור
 firefox-all-source-code = קוד מקור
@@ -51,6 +60,7 @@ firefox-all-test-your-sites-against = בדקו את האתרים שלכם מול
 firefox-all-windows-installers-for = חבילות התקנה של Windows עבור IT של ארגונים המפשטים את התצורה, הפריסה והניהול של { -brand-name-firefox-browser(case: "the") }.
 firefox-all-arm64-installers = מתקיני ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = מתקיני ARM64/AArch64 מתאימים למחשבי Windows ו־Linux.
+firefox-all-testflight = הרשמה לבדיקת { -brand-name-firefox } עבור iOS עם TestFlight
 firefox-all-product-send-link = שליחת קישור הורדה לטלפון שלך
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -67,3 +77,6 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
+firefox-all-download-esr-115 = הורדת ESR 115
+firefox-all-note-unsupported = הערה: אם אתם משתמשים ב־Windows 7, ‏Windows 8, ‏Windows 8.1 או macOS 10.12, 10.13 או 10.14, נא להוריד את ESR 115 כדי להשתמש ב־{ -brand-name-firefox }.
