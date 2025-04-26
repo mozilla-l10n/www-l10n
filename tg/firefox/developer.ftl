@@ -15,9 +15,13 @@ firefox-developer-speak-up = Фикрҳои худро баён кунед
 firefox-developer-feedback-makes-us = Фикрҳои шумо кори моро беҳтар мекунанд. Ба мо маълумот диҳед, ки мо чӣ тавр метавонем худи браузер ва абзорҳои барномасозиро беҳтар кунед.
 firefox-developer-join-the-convo = Ба суҳбат ҳамроҳ шавед
 firefox-developer-get-involved = Ҳамроҳ шавед
+firefox-developer-help-build-the-last = Ба сохтани навтарин браузери соҳибихтиёр ба мо кумак расонед. Барномарезӣ кунед, хатоҳоро ислоҳ кунед, ҷузъҳои иловагиро таҳия кунед ва чизҳои бештар пешниҳод намоед.
 firefox-developer-start-now = Ҳозир оғоз намоед
 firefox-developer-design-code-test = Тарҳрезӣ кунед. Барномарезӣ кунед. Аз санҷиш гузаронед. Такмил диҳед.
+# Line break for visual formatting
+firefox-developer-build-and-perfect = Сомонаҳои худро ҳамчун мутахассиси ҷаҳонӣ<br> бо истифода аз «{ -brand-name-firefox-devtools }» созед ва такмил диҳед
 firefox-developer-inspector = Тафтишкунанда
+firefox-developer-inspect-and-refine = Рамзро тафтиш ва такмил дода, тарҳбандии сомонаро бо пикселҳо дар сатҳи олӣ созед.
 firefox-developer-learn-about-page-inspector = Маълумоти бештар дар бораи «Тафтишкунандаи саҳифа»
 firefox-developer-console = Консол
 firefox-developer-learn-about-web-console = Маълумоти бештар дар бораи «Консоли сомона»
