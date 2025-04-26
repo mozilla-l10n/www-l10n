@@ -21,6 +21,7 @@ vpn-landing-keeps-your-data-safe = Маълумоти шуморо дар шаб
 vpn-landing-log-in-to-your-bank-or = Ба суратҳисоби бонкӣ ё идораи пизишкии худ аз фурудгоҳ, қаҳвахона ё аз ҷойи дилхоҳи дигар бо роҳати дилу ҷон ворид шавед.
 vpn-landing-blocks-advertisers-from = Ҳар гуна ҳадафи рекламадеҳро манъ карда, шуморо ҳифз мекунад
 vpn-landing-hide-your-activity-from = Фаъолияти худро аз васоити пайгирӣ ва нармафзори зараровар пинҳон кунед, то шумо тавонед бе тамошобинон дар Интернет харид кунед.
+vpn-landing-take-control = Танзимоти махсуси «VPN»-ро барои сомонаҳо ба таври хусусӣ идора намоед
 vpn-landing-features = Хусусиятҳо
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -42,6 +43,7 @@ vpn-landing-no-logging-tracking-or-sharing = Маълумоти интернет
 vpn-landing-no-bandwidth-restrictions-or = Паҳнои пайвастшавӣ ё ҳаҷми интиқол маҳдуд карда намешавад
 vpn-landing-extra-security-whole-device = Амнияти иловагӣ: муҳофизати комили дастгоҳ, масиргирии чандқабата ва ғайра
 vpn-landing-built-transparently = Дар муҳити манбаи кушод бо кори бошарафона сохта шудааст
+vpn-landing-easy-firefox-integration = Ҳамгироии ҳамвори «{ -brand-name-firefox }» бо васеъшавии «{ -brand-name-mozilla-vpn }» (танҳо барои «Windows»)
 vpn-landing-see-all-features = Ҳамаи ҳусусиятҳоро аз назар гузаронед
 vpn-landing-fram-a-brand-you-can-trust = Аз тамғаи молие, ки шумо ба он эътимод доред
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } — ташкилоти интернетии ғайритиҷоратиест, ки аз соли 1998 барои Интернети солим мубориза мебарад.
