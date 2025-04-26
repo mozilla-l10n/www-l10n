@@ -9,7 +9,7 @@
 # HTML page title
 
 browsers-chromebook-get-firefox-browser = Ба даст овардани «{ -brand-name-firefox-browser }» дар «{ -brand-name-chromebook }»
-browsers-chromebook-so-youve-got = Инак, шумо «{ -brand-name-chromebook }» доред — акнун вақти он расидааст, ки барои ҳифзи маълумоти шахсии худ шумо бояд браузери «{ -brand-name-firefox-browser }»-ро ба даст оред, зеро он мустақил ва ба таври худкор хусусӣ мебошад.
+browsers-chromebook-so-youve-got = Инак, шумо «{ -brand-name-chromebook }» доред — акнун вақти он расидааст, ки барои ҳифзи маълумоти шахсии худ шумо бояд { -brand-name-firefox-browser }-ро ба даст оред, зеро он мустақил ва ба таври худкор хусусӣ мебошад.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Ба даст овардани «{ -brand-name-firefox }» дар «{ -brand-name-android }»
 browsers-chromebook-get-firefox-desktop = Ба даст овардани версияи мизи кории «{ -brand-name-firefox }» дар «{ -brand-name-chromebook }»
 browsers-chromebook-x86-based-chromebook = *x86 дар асоси «{ -brand-name-chromebook }» дар зери идоракунии «{ -brand-name-chromeos }» бо версияи 80 ё навтар
@@ -26,3 +26,4 @@ browsers-chromebook-install-firefox-from = Браузери «{ -brand-name-fire
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
+browsers-chromebook-install-firefox-as = Браузери «{ -brand-name-firefox }»-ро ҳамчун барномаи «{ -brand-name-linux }» насб кунед: агар шумо бо ҳамин роҳ равед, якчанд қадами дигар лозим мешавад, аммо ин меарзад. Вақте ки шумо браузери «{ -brand-name-firefox }»-ро ҳамчун барномаи «{ -brand-name-linux }» насб мекунед, шумо браузери мизи кории «{ -brand-name-firefox }» ва ҳамаи бартариҳои онро ба даст меоред, аз он ҷумла, хусусияти «Муҳофизати такмилёфта аз пайгирӣ», мудири ниҳонвожаҳои дарунсохт, дастрасӣ ба ҳазорҳо замима ва ҷузъи иловагӣ (бо дарназардошти барномаи «UBlock Origin» - манъкунандаи реклама) ва мавзуъҳо барои танзимоти шахсии намуди зоҳирии браузери худ. <a { $url }>Дар бораи насб кардани браузери мизи кории «{ -brand-name-firefox }» барои »{ -brand-name-chromebook }» маълумоти бештар гиред.</a>
