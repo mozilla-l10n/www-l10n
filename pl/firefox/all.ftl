@@ -34,6 +34,7 @@ firefox-all-64-bit-installers = Instalatory 64-bitowe
 firefox-all-choose-a-64-bit-installer = Wybierz 64-bitowy instalator dla komputerów z procesorami 64-bitowymi, które umożliwiają przydzielenie większej ilości pamięci RAM dla poszczególnych programów — co jest szczególnie ważne w przypadku gier i innych wymagających aplikacji.
 firefox-all-32-bit-installers = Instalatory 32-bitowe
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Ta opcja spowoduje otwarcie strony produktu { -brand-name-firefox } w witrynie Microsoft Store. Jeśli używasz systemu Windows 10 lub Windows 11, będziesz mieć możliwość otwarcia Microsoft Store z tej strony i zainstalowania przeglądarki { -brand-name-firefox }. Jeśli instalujesz z Microsoft Store, aktualizacje do { -brand-name-firefox(case: "gen") } będą również obsługiwane przez Microsoft Store. Istnieją drobne różnice w zachowaniach i możliwościach { -brand-name-firefox(case: "gen") } po zainstalowaniu z Microsoft Store, ale dla większości użytkowników te różnice nie są zauważalne.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Pobierz { $esr_version }
@@ -41,7 +42,11 @@ firefox-all-download-esr-version = Pobierz { $esr_version }
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = Jesteśmy w okresie przejściowym pomiędzy głównymi wersjami ESR { $esr_next_major } i { $esr_current_major }.
+firefox-all-esr-when-there-is = Kiedy pojawia się aktualizacja wersji głównej, zawsze następuje faza nałożenia się kilku wydań { -brand-name-firefox-esr }, w obu liniach zwiększając numer wersji po kropce, aby umożliwić osobom korzystającym ze starej wersji przygotowanie się do przejścia na nową.
 firefox-all-esr-if-you-choose = Jeśli zdecydujesz się na pobranie starszej wersji ESR, po zakończeniu okresu przejściowego nastąpi automatyczna aktualizacja do nowej wersji.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Przeczytaj więcej o cyklu wydań <a { $attrs }>{ -brand-name-firefox-esr }</a>.
 firefox-all-check-the-system-requirements = Wymagania systemowe
 firefox-all-release-notes = Informacje o wydaniu
 firefox-all-source-code = Kod źródłowy

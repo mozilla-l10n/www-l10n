@@ -15,5 +15,6 @@ home-product-vpn-trust = VPN, któremu możesz zaufać
 home-cta-get-vpn = Wypróbuj { -brand-name-mozilla-vpn }
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-read-more = Przeczytaj więcej
 home-learn-about-mofo = Poznaj { -brand-name-mozilla-foundation }
 home-join-the-fight = Dołącz do walki o zdrowy Internet.
