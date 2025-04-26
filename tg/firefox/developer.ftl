@@ -10,6 +10,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+firefox-developer-welcome-to-your-new-favorite = Хуш омадед ба браузери нави дӯстдоштаи шумо. Хусусиятҳои навтарин, иҷрои самаранок ва абзорҳои барномарезиеро, ки барои сохтани Интернети кушод ба шумо лозиманд, ба даст оред.
 firefox-developer-speak-up = Фикрҳои худро баён кунед
 firefox-developer-feedback-makes-us = Фикрҳои шумо кори моро беҳтар мекунанд. Ба мо маълумот диҳед, ки мо чӣ тавр метавонем худи браузер ва абзорҳои барномасозиро беҳтар кунед.
 firefox-developer-join-the-convo = Ба суҳбат ҳамроҳ шавед
