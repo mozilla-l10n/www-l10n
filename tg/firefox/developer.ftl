@@ -49,6 +49,7 @@ firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-master-css-grid = Идоракунии тарҳи «CSS»
 firefox-developer-built-for-developers = Барои барномасозон сохта шудааст
 firefox-developer-master-innovative-features = Хусусиятҳои инноватсионӣ
+firefox-developer-want-to-be-on-the-cutting-edge = Мехоҳед аз навигариҳо ва технологиҳои муосир истифода баред?
 firefox-developer-faster-innovation = Маълумоти тезкор
 firefox-developer-fonts-panel = Лавҳаи ҳарфҳо
 firefox-developer-firefox-developer-edition-sends = Браузери «{ -brand-name-firefox-developer-edition }» омори истифодабариро ба ташкилоти «{ -brand-name-mozilla }» ба таври худкор мефиристонад.

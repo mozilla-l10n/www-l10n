@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
+facebook-container-millions-of-people-around = Миллионҳо нафар дар саросари ҷаҳон ба браузерҳои интернетии «{ -brand-name-firefox }» дар низомҳои «{ -brand-name-android }», «{ -brand-name-ios }» ва компютерҳои мизи корӣ эътимод доранд. Браузери мо тезкор ва хусусӣ мебошад. Ҳозир насб кунед!
 facebook-container-get-the-facebook-container = Васеъшавии «{ -brand-name-facebook-container }»-ро ба даст оред
 facebook-container-download-firefox-and-get-the = Браузери «{ -brand-name-firefox }»-ро боргирӣ кунед ва васеъшавии «{ -brand-name-facebook-container }»-ро насб намоед
 facebook-container-only-available-for-desktop = Дар айни замон васеъшавии «{ -brand-name-facebook-container }» танҳо барои версияи мизи кории «{ -brand-name-firefox }» дастрас аст.
