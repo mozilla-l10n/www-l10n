@@ -23,6 +23,7 @@ mobile-android-easily-organize-your = Варақаҳои худро ба осо�
 mobile-android-supercharge-firefox-with = Браузери «{ -brand-name-firefox }»-ро бо ҷузъҳои иловагӣ пурқувват кунед
 mobile-android-pick-up-where = Ба он ҷое, ки шумо ба қарибӣ тамошо кардаед, баргардонед
 mobile-android-search-from-your = Аз экрани асосии телефони худ ҷустуҷӯ кунед
+mobile-android-no-need-to = Шарт нест, ки барномаро кушед. Виҷети ҷустуҷӯии «{ -brand-name-firefox }»-ро илова кунед ва мустақиман аз экрани асосии дастгоҳи худ дар Интернет ҷустуҷӯ намоед.
 mobile-android-pin-videos-to = Видеоҳоро ба экрани худ васл кунед
 mobile-android-about-mozilla = Дар бораи «{ -brand-name-mozilla }»
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'

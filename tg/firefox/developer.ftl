@@ -24,6 +24,7 @@ firefox-developer-inspector = Тафтишкунанда
 firefox-developer-inspect-and-refine = Рамзро тафтиш ва такмил дода, тарҳбандии сомонаро бо пикселҳо дар сатҳи олӣ созед.
 firefox-developer-learn-about-page-inspector = Маълумоти бештар дар бораи «Тафтишкунандаи саҳифа»
 firefox-developer-console = Консол
+firefox-developer-track-css = Масъалаҳои гуногунро, ки ба «CSS», «JavaScript», амният ва шабака марбутанд, пайгирӣ намоед.
 firefox-developer-learn-about-web-console = Маълумоти бештар дар бораи «Консоли сомона»
 firefox-developer-debugger = Ислоҳкунанда
 firefox-developer-learn-more-about-debugger = Дар бораи Ислоҳкунандаи хатоҳои «JavaScript» маълумоти бештар гиред
