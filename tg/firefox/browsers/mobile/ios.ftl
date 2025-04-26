@@ -17,6 +17,7 @@ mobile-ios-fast-private-secure = Зудкор. Хусусӣ. Бехатар
 mobile-ios-stay-private-online = Дар соросари Интернет махфияти худро нигоҳ доред
 mobile-ios-your-browsing-history = Таърихи тамошобинии шумо таърих аст
 mobile-ios-get-more-firefox = Браузери «{ -brand-name-firefox }»-ро ба ҳаёти худ бештар илова кунед
+mobile-ios-get-to-your-go-to = Дар дастгоҳҳои худ бо низомҳои «{ -brand-name-iphone }» ва «{ -brand-name-ipad }» ба ҷойҳои дӯстдоштаи худ дар Интернет зудтар расед.
 mobile-ios-own-your-home = Соҳиби экрани асосии худ шавед
 mobile-ios-find-it-all = Ҳамаашро тезтар пайдо кунед
 mobile-ios-discover-more-of = Он чизҳоеро, ки дӯст медоред, бештар кашф кунед

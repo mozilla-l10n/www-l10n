@@ -17,6 +17,7 @@ browsers-mobile-firefox-mobile-adapts-to-you = Версияи мобилии «{
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Хусусияти «Муҳофизати такмилёфта аз пайгирӣ»-ро ба даст оред ва браузери «{ -brand-name-firefox }»-ро ҳамчун барномаи пешфарз ва браузери асосии худ истифода баред - ҳамеша дар «{ -brand-name-iphone }» ва «{ -brand-name-ipad }».
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
+browsers-mobile-looking-for-a-streamlined = Дар ҷустуҷӯи браузери фаврӣ ва муташаккил бо хусусиятҳои махфияти сатҳи баланд ҳастед? Браузери «{ -brand-name-firefox-focus }» таърихи тамошои шуморо аз лаҳзаи кушодан то пӯшидани он ба таври худкор нест мекунад.
 browsers-mobile-compare = Муқоиса кардан
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Аз назар гузаронед, ки чӣ тавр браузери «{ -brand-name-firefox }» барои <strong>компютери мизи корӣ</strong> аз браузерҳои дигар фарқ мекунад.
