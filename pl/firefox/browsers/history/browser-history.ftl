@@ -21,8 +21,14 @@ browser-history-web-era = Era Internetu
 browser-history-british-computer = Brytyjski informatyk Tim Berners-Lee stworzył pierwszy serwer WWW i graficzną przeglądarkę internetową w 1990 roku, gdy <a href="{ $cern }">pracował w CERN</a>, Europejskim Ośrodku Badań Jądrowych, w Szwajcarii. Swoje nowe okno na internet nazwał „WorldWideWeb”. Był to łatwy w użyciu interfejs graficzny stworzony dla komputera NeXT. Po raz pierwszy dokumenty tekstowe zostały połączone ze sobą za pośrednictwem publicznej sieci — sieci, jaką znamy.
 browser-history-a-year-later-berners = Rok później Berners-Lee poprosił Nicolę Pellow, studentkę matematyki pracującą w CERN, o napisanie programu Line Mode Browser, przeznaczonego dla prostych terminali komputerowych.
 # Variables:
+#   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
+browser-history-by-1993-the-web = Do roku 1993 sieć eksplodowała. Uniwersytety, rządy i korporacje prywatne dostrzegły możliwości w otwartym internecie. Każdy potrzebował nowych programów komputerowych, aby mieć do niego dostęp. Tego samego roku w National Center for Supercomputing Applications (NCSA) na Uniwersytecie Illinois przez informatyka Marca Andreessena został stworzony Mosaic. Była to pierwsza popularna przeglądarka internetowa i wczesny przodek przeglądarki <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a>.
+# Variables:
 #   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
 browser-history-ncsa-mosaic-ran = NCSA Mosaic działała na komputerach { -brand-name-windows }, była łatwa w użyciu i każdemu posiadaczowi komputera PC dawała dostęp do wczesnych stron internetowych, czatów i bibliotek obrazów. W następnym roku (1994) Andreessen założył <a href="{ $netscape }">{ -brand-name-netscape }</a> i wydał przeglądarkę { -brand-name-netscape } Navigator. Odniosła ona ogromny sukces i była pierwszą przeglądarką dla ludzi. Był to również pierwszy krok w nowym rodzaju wojny o użytkowników Internetu.
 browser-history-the-browser-wars = Wojny przeglądarek
+# Variables:
+#   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
+browser-history-by-1995-netscape = W 1995 r. { -brand-name-netscape } Navigator nie był jedynym sposobem na dostęp do sieci. Gigant oprogramowania komputerowego { -brand-name-microsoft } uzyskał licencję na stary kod Mosaic i zbudował własne okno na sieć, <a href="{ $ie }">{ -brand-name-ie }</a>. Wydanie wywołało wojnę. { -brand-name-netscape } i { -brand-name-microsoft } gorączkowo pracowali nad stworzeniem nowych wersji swoich programów, każdy próbując prześcignąć drugiego szybszymi, lepszymi produktami.
 browser-history-resources = Dodatkowe informacje
 browser-history-take-control-of = Przejmij kontrolę nad przeglądarką.
