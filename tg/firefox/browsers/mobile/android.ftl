@@ -27,4 +27,5 @@ mobile-android-pin-videos-to = Видеоҳоро ба экрани худ ва�
 mobile-android-about-mozilla = Дар бораи «{ -brand-name-mozilla }»
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Ба фазои Интернет тавассути браузери «{ -brand-name-firefox }» барои «{ -brand-name-android }» якбора дароед
+mobile-android-see-all-your-open-tabs = Бо браузери «{ -brand-name-firefox }» барои «{ -brand-name-android }» ҳамаи варақаҳои кушодашуда, ҷустуҷӯҳои охирин ва сомонаҳои дӯстдоштаи худро дар як ҷой аз назар гузаронед.
 mobile-android-own-your-home = Соҳиби экрани асосии худ шавед
