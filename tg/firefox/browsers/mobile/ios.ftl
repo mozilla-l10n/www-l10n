@@ -18,6 +18,7 @@ mobile-ios-stay-private-online = Дар соросари Интернет мах
 mobile-ios-your-browsing-history = Таърихи тамошобинии шумо таърих аст
 mobile-ios-get-more-firefox = Браузери «{ -brand-name-firefox }»-ро ба ҳаёти худ бештар илова кунед
 mobile-ios-get-to-your-go-to = Дар дастгоҳҳои худ бо низомҳои «{ -brand-name-iphone }» ва «{ -brand-name-ipad }» ба ҷойҳои дӯстдоштаи худ дар Интернет зудтар расед.
+mobile-ios-see-your-open-tabs = Бо браузери «{ -brand-name-firefox-browser }» барои «{ -brand-name-ios }» ҳамаи варақаҳои кушодашуда, ҷустуҷӯҳои охирин ва сомонаҳои дӯстдоштаи худро дар як ҷой аз назар гузаронед.
 mobile-ios-own-your-home = Соҳиби экрани асосии худ шавед
 mobile-ios-find-it-all = Ҳамаашро тезтар пайдо кунед
 mobile-ios-discover-more-of = Он чизҳоеро, ки дӯст медоред, бештар кашф кунед
