@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-ip-address-what-is-an-ip-address = IP adresi nedir?
+# HTML page description and intro
+vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla }; IP adresinin ne olduğu, nasıl çalıştığı ve IP adresini gizlemeniz gerekip gerekmediği gibi IP adresleri hakkında tüm sorularınızı yanıtlıyor.
 # Used as an accessible text alternative for an image
 vpn-ip-address-an-example-of-an-ip = Noktalarla ayrılmış dört sayıdan oluşan bir IP adresi örneği: 123.45.67.89
 vpn-ip-address-if-you-look-up-your = IP adresinize bakarsanız bunun gibi bir şey görünecektir.
