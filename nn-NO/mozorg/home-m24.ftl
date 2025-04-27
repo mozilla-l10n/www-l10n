@@ -87,5 +87,7 @@ m24-home-read-the-report = Les rapporten
 m24-home-alt-pni = Smarteiningar med varsemdikon.
 m24-home-privacy-not-included = *Personvern ikkje inkludert
 m24-home-pni-search-now = Søk no
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = Bridget Todd, programleiar for IRL-podkasten.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-irl-listen-now = Lytt no
