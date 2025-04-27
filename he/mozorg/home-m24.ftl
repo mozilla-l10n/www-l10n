@@ -56,3 +56,4 @@ m24-home-donate-your-voice = תרמו את קולכם
 
 ## Issues
 
+m24-home-irl-podcast = { -brand-name-irl-podcast }
