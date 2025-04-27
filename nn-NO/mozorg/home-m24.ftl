@@ -24,6 +24,7 @@ m24-home-explore-our-products = Utforsk produkta våre
 m24-home-firefox = { -brand-name-firefox }
 m24-home-get-the-gold = Få gullstandarden for surfing med fart, personvern og kontroll.
 m24-home-thunderbird = { -brand-name-thunderbird }
+m24-home-go-chaosfree-with = Gjer livet ditt enklare med éin app for alle e-postane, kalendrane og kontaktane dine.
 m24-home-fakespot = { -brand-name-fakespot }
 m24-home-pocket = { -brand-name-pocket }
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
