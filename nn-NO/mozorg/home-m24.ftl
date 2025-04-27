@@ -51,6 +51,7 @@ m24-home-tag-event = Hending
 m24-home-read-more = Les meir
 m24-home-get-started = Kom i gang
 m24-home-join-the-movement = Bli med i rørsla:<br> AI for folket
+m24-home-our-mission-is = Oppdraget vårt er å gjere det enkelt for folk å byggje med, og samarbeide omkring AI som er open kjeldekode og påliteleg.
 # Used as an accessible text alternative for an image
 m24-home-alt-solo-ai-logo = { -brand-name-solo-ai }-logo
 m24-home-solo-ai = { -brand-name-solo-ai }
