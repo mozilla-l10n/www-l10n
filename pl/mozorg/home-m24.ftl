@@ -23,9 +23,13 @@ m24-home-learn-about-us = Poznaj Mozillę
 m24-home-love-the-internet = Znów pokochaj internet
 m24-home-explore-our-products = Poznaj nasze produkty
 m24-home-firefox = { -brand-name-firefox }
+m24-home-get-the-gold = Ciesz się najwyższym standardem szybkości, prywatności i kontroli podczas przeglądania.
 m24-home-thunderbird = { -brand-name-thunderbird }
+m24-home-go-chaosfree-with = Uprość swoje życie dzięki jednej aplikacji do obsługi wszystkich kont e-mail, kalendarzy i kontaktów.
 m24-home-fakespot = { -brand-name-fakespot }
+m24-home-spot-fake-reviews = Wykrywaj fałszywe recenzje, złe produkty i niewiarygodnych sprzedawców.
 m24-home-pocket = { -brand-name-pocket }
+m24-home-save-the-internets = Zapisz najlepsze treści z Internetu na dowolnym urządzeniu — bo kto ma teraz czas, żeby wszystko czytać?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-firefox-relay = { -brand-name-firefox-relay }
@@ -33,6 +37,7 @@ m24-home-mask-your-email = Ukryj swój adres e-mail i numer telefonu, aby otrzym
 
 ## Donate
 
+m24-home-mozilla-is-building = { -brand-name-mozilla } buduje ruch mający na celu odzyskanie Internetu. Razem możemy zbudować przyszłość, w której nasza prywatność jest chroniona, AI jest godna zaufania, a nieodpowiedzialne firmy technologiczne są pociągane do odpowiedzialności. Ale to jest możliwe tylko wtedy, gdy zrobimy to razem.
 
 ## AI gallery
 
