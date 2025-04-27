@@ -44,6 +44,7 @@ is-firefox-safe = Makakatiwalaan ba ang { -brand-name-firefox } ?
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } ang default na search engine sa { -brand-name-firefox }, ibig sabihin, maaari kang maghanap sa web direkta mula sa address bar. <a href="{ $url }">Alamin ang tungkol sa mga kagustuhan at pagbago ng default na search engine.</a>
 does-firefox-have = Meron bang built-in na VPN ang { -brand-name-firefox }?
 
 # Variables:
