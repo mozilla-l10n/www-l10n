@@ -9,6 +9,7 @@
 privacy-faq-mozillas-data-privacy-faq = { -brand-name-mozilla }’s Data Privacy FAQ
 privacy-faq-at-mozilla-we-respect-and-protect-desc = Sa { -brand-name-mozilla }, nirerespeto at pinoproteksyunan ang iyong personal information.
 privacy-faq-at-mozilla-we-respect-and-protect = Sa { -brand-name-mozilla }, nirerespeto at pinoproteksyunan ang iyong personal information:
+privacy-faq-really-you-dont-collect-my-browsing = Talaga, hindi mo kinokolekta ang aking browsing history?
 privacy-faq-wait-so-how-do-you-make-money = Teka, magkano ang kinikita ninyo?
 privacy-faq-but-why-do-you-collect-any-data = Bakit ninyo kailangang mangolekta ng data?
 privacy-faq-data-collection-still-bugs-me = Binabagabag ako ng data collection. Maaari ko ba itong i-off?
