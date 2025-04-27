@@ -14,6 +14,7 @@ m24-home-page-desc = Visste du at { -brand-name-mozilla } — organisajonen bak 
 ## Intro
 
 m24-home-welcome-to-mozilla = Velkomen til { -brand-name-mozilla }
+m24-home-from-trustworthy-tech = Frå påliteleg teknologi til retningslinjer som vernar dei digitale rettane dine, set vi deg først – alltid.
 m24-home-learn-about-us = Les meir om oss
 
 ## Products
