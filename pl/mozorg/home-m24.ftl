@@ -89,7 +89,10 @@ m24-home-read-the-report = Przeczytaj raport
 
 ## Issues
 
+m24-home-explore-issues-shaping = Poznaj problemy kształtujące przyszłość Internetu
 m24-home-privacy-not-included = *Prywatność do nabycia osobno
 m24-home-search-our-reviews = Przejrzyj nasze recenzje, aby dowiedzieć się, które gadżety technologiczne i aplikacje dyskretnie wykradają Twoje dane.
+m24-home-pni-search-now = Przejrzyj teraz
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = Nasz wielokrotnie nagradzany podcast przedstawia osoby, które działają na rzecz zwiększenia bezpieczeństwa Internetu i zaufania do sztucznej inteligencji.
 m24-home-irl-listen-now = Posłuchaj teraz
