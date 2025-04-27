@@ -7,15 +7,20 @@
 
 # HTML Page title
 m24-about-page-title = Маълумот дар бораи «{ -brand-name-mozilla }»
+# HTML page description
+m24-about-page-desc = «{ -brand-name-mozilla }» браузерҳо, барномаҳо, рамзҳо ва абзорҳое эҷод мекунад, ки инсонро аз фоида болотар мегузоранд. Вазифаи асосии мо: Мо Интернетро кушода ва барои ҳама дастрас нигоҳ медорем.
 
 ## Intro
 
 m24-about-reclaim-the-internet = Интернетро бо мо барқарор созед
+m24-about-mozilla-is-working = «{ -brand-name-mozilla }» кор карда истодааст, ки назорати Интернетро ба дасти одамоне, ки аз он истифода мебаранд, баргардонем.
 
 ## Manifesto
 
 m24-about-together-we-can = Якҷоя мо метавонем Интернетро барои ҳамаи мо осон, бехатар ва ройгон нигоҳ дорем.
 m24-about-read-our-manifesto = Санадҳои асосии моро мутолиа намоед
+# Used as an accessible text alternative for an image
+m24-about-a-group-of = Гурӯҳи мутафаккирон дар доирае дар рӯйи фарш нишаста, фикру мулоҳизаҳои худро мубодила мекунанд.
 m24-about-advocate = Муҳофизат
 m24-about-research = Тадқиқот
 m24-about-build = Офариниш
