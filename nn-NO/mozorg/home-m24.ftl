@@ -19,8 +19,10 @@ m24-home-learn-about-us = Les meir om oss
 
 ## Products
 
+m24-home-break-free-from = Fri deg frå frå storteknologien (big tech) – produkta våre gir deg kontroll over ei tryggare og meir privat internettoppleving.
 m24-home-explore-our-products = Utforsk produkta våre
 m24-home-firefox = { -brand-name-firefox }
+m24-home-get-the-gold = Få gullstandarden for surfing med fart, personvern og kontroll.
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-fakespot = { -brand-name-fakespot }
 m24-home-pocket = { -brand-name-pocket }
@@ -31,6 +33,7 @@ m24-home-firefox-relay = { -brand-name-firefox-relay }
 ## Donate
 
 m24-home-donate-to-the = Doner til den ideelle organisasjonen { -brand-name-mozilla }
+m24-home-were-proudly-nonprofit = Vi er stolte av å vere ein ideell organisasjon. Vil du donere til { -brand-name-mozilla } i dag?
 m24-home-donate = Doner
 
 ## AI gallery
