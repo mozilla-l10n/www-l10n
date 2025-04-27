@@ -49,9 +49,11 @@ m24-about-read-about-our = Przeczytaj o naszych działaniach
 ## Careers
 
 # Used as an accessible text alternative for an image
+m24-about-alt-conversation = Pracownik { -brand-name-mozilla(case: "gen") } w trakcie rozmowy.
+# Used as an accessible text alternative for an image
 m24-about-alt-drinking-coffee = Pracownik { -brand-name-mozilla(case: "dat") } pijący kawę.
 # Used as an accessible text alternative for an image
-m24-about-alt-collaborating = Współpracujący pracownicy { -brand-name-mozilla(case: "gen") }
+m24-about-alt-collaborating = Rozmawiający pracownicy { -brand-name-mozilla(case: "gen") }
 m24-about-join-us-and = Dołącz do nas i zmień świat na lepsze
 m24-about-join-our-team = Dołącz do naszego zespołu i przesuwaj granice tego, co możliwe - nie rezygnując z tego, co ważne.
 m24-about-see-open-positions = Sprawdź wolne stanowiska
