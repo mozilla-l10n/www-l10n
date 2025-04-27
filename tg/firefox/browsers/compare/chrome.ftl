@@ -9,6 +9,10 @@
 compare-chrome-firefox-vs-google-chrome = Муқоисаи браузери «{ -brand-name-firefox }» бо «Google Chrome»
 # HTML page description
 compare-chome-read-our-comparison = Муқоисаи моро байни браузерҳои «{ -brand-name-firefox }» ва «Chrome» оид ба хусусиятҳо, махфият ва осонии истифода мутолиа намоед.
+# Variables:
+# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
+# $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
+compare-chrome-firefoxs-default-privacy-settings = Танзимоти пешфарзи махфияти «{ -brand-name-firefox }» нисбат ба танзимоти «Chrome» хеле қавитар мебошанд — ва мо, инчунин, хусусиятҳои иловагӣ дорем, ки аз пайгирии шумо тавассути сомонаҳо пешгирӣ мекунанд, аз қабили <a { $fingerprint }>манъкунии нақши рақамии ангуштон</a> ва интихоби шумо нисбат ба васеъшавиҳо барои <a { $adblocker }>манъкунии реклама</a>.
 compare-chrome-we-block-trackers-by-default = Мо ҳар гуна васоити пайригиро ба таври пешфарз манъ мекунем. Браузери «Chrome» онҳоро манъ намекунад.
 compare-chrome-google-runs-the-worlds-largest = Ширкати «Google» бузургтарин шабакаи таблиғотии ҷаҳонро идора мекунад ва браузери «Chrome» як қисми он мебошад.
 # Variables:
