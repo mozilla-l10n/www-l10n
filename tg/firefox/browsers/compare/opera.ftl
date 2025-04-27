@@ -9,6 +9,9 @@
 compare-opera-firefox-vs-opera = Муқоисаи браузери «{ -brand-name-firefox }» бо «Opera»
 # HTML page description
 compare-opera-read-our-comparison = Муқоисаи моро байни браузерҳои «{ -brand-name-firefox }» ва «Opera» оид ба хусусиятҳо, махфият ва осонии истифода мутолиа намоед.
+# Variables:
+# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
+compare-opera-firefoxs-default-privacy-settings = Танзимоти пешфарзи махфияти браузери «{ -brand-name-firefox }» нисбат ба браузери «Opera» қавитар мебошанд — ва мо хусусиятҳои иловагӣ дорем, ки аз пайгирии шумо тавассути сомонаҳо пешгирӣ мекунанд, аз ҷумла <a { $fingerprint }>манъкунии нақши рақамии ангуштон</a>.
 compare-opera-firefox-offers-a-wide-range-of = Браузери «{ -brand-name-firefox }» доираи васеи имконоти мутобиқсозӣ, аз он ҷумла қобилияти интиқоли менюҳо ва наворҳои абзорҳоро ба ҷойҳои гуногуни равзанаи браузер пешниҳод мекунад. Интерфейси браузери «Opera» нисбатан камтар танзимшаванда мебошад.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
