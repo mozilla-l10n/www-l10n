@@ -65,6 +65,7 @@ m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } pomaga
 m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Znajdź LLM odpowiadający Twoim potrzebom, przypadkom użycia i danym.
+m24-home-watch-now = Obejrzyj teraz
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
 
@@ -89,4 +90,6 @@ m24-home-read-the-report = Przeczytaj raport
 ## Issues
 
 m24-home-privacy-not-included = *Prywatność do nabycia osobno
+m24-home-search-our-reviews = Przejrzyj nasze recenzje, aby dowiedzieć się, które gadżety technologiczne i aplikacje dyskretnie wykradają Twoje dane.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-irl-listen-now = Posłuchaj teraz
