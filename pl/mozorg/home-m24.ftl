@@ -31,17 +31,26 @@ m24-home-spot-fake-reviews = Wykrywaj fałszywe recenzje, złe produkty i niewia
 m24-home-pocket = { -brand-name-pocket }
 m24-home-save-the-internets = Zapisz najlepsze treści z Internetu na dowolnym urządzeniu — bo kto ma teraz czas, żeby wszystko czytać?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-keep-your-location = Zachowaj prywatność swojej lokalizacji i przygód w Internecie — streamuj jak lokalsi, w dowolnym miejscu.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+m24-home-get-a-headsup = Otrzymuj ostrzeżenia, jeśli Twoje dane osobowe są zagrożone i chroń je jak profesjonalista.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Ukryj swój adres e-mail i numer telefonu, aby otrzymywać tylko interesujące Cię wiadomości.
 
 ## Donate
 
 m24-home-mozilla-is-building = { -brand-name-mozilla } buduje ruch mający na celu odzyskanie Internetu. Razem możemy zbudować przyszłość, w której nasza prywatność jest chroniona, AI jest godna zaufania, a nieodpowiedzialne firmy technologiczne są pociągane do odpowiedzialności. Ale to jest możliwe tylko wtedy, gdy zrobimy to razem.
+m24-home-donate = Przekaż datek
 
 ## AI gallery
 
+m24-home-tag-product = Produkt
+m24-home-tag-project = Projekt
+m24-home-tag-program = Program
+m24-home-tag-event = Wydarzenie
 m24-home-read-more = Przeczytaj więcej
+m24-home-get-started = Pierwsze kroki
+m24-home-join-the-movement = Dołącz do ruchu:<br>AI dla ludzi
 # Used as an accessible text alternative for an image
 m24-home-alt-solo-ai-logo = Logo { -brand-name-solo-ai }
 m24-home-solo-ai = { -brand-name-solo-ai }
