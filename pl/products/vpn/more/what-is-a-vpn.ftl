@@ -13,6 +13,12 @@ vpn-what-is-wait-i-thought = Ale chwila… wydawało mi się, że moje dane już
 vpn-what-is-why-would-i = Dlaczego warto używać VPN?
 vpn-what-is-what-are-the = Jakie są wady korzystania z VPN?
 vpn-what-is-are-vpns-safe = Czy usługi VPN są bezpieczne?
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-what-is-weve-done-the = Wykonaliśmy ciężką pracę, aby upewnić się, że <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> faktycznie szanuje Twoją prywatność, a jest to coś, na czym chcemy budować naszą reputację. { -brand-name-mozilla } ma reputację tworzenia produktów, które pomagają Ci chronić Twoje informacje. Przestrzegamy naszych łatwych do odczytania, konkretnych <a href="{ $principles }">Zasad ochrony danych</a>, które pozwalają nam skupić się tylko na informacjach, których potrzebujemy do świadczenia usługi. A ponieważ twórców tego VPN-a  wspiera firma <a href="{ $mission }">kierująca się misją</a>, możesz być pewien, że złotówki, które wydasz na ten produkt, nie tylko zapewnią Ci VPN-a najwyższej klasy, ale także uczynią internet lepszym dla wszystkich.
 vpn-what-is-can-vpns-protect = Czy VPN ochroni mnie przed cyberprzestępcami?
 vpn-what-is-are-vpns-legal = Czy usługi VPN są zgodne z prawem?
 vpn-what-is-are-vpns-only = Czy usługi VPN działają wyłącznie na komputerach?
