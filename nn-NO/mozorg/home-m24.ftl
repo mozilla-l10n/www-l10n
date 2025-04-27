@@ -66,6 +66,7 @@ m24-home-can-ai-be = Kan AI vere påliteleg?
 m24-home-watch-now = Sjå no
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice-to-make = Doner stemma di for å gjere taleteknologi meir inkluderande og tilgjengeleg for alle.
 m24-home-donate-your-voice = Doner stemma di
 
 ## Media Springboard
