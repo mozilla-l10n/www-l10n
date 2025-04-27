@@ -87,6 +87,8 @@ m24-home-tag-video = Видео
 m24-home-topic-news = Хабарҳо
 m24-home-topic-ai = Зеҳни сунъӣ
 m24-home-topic-ps = Махфият ва амният
+m24-home-headline-you-ai-v2 = Шумо, зеҳни сунъӣ (AI) ва Интернет - воқеан чӣ рӯй дода истодааст?
+m24-home-keeping-genai-technologies = Ҳифзи амнияти технологияҳои зеҳни сунъии эҷодӣ (GenAI) масъулияти муштарак мебошад.
 
 ## Showcase
 
@@ -96,6 +98,9 @@ m24-home-read-the-report = Хондани гузориш
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Дастгоҳҳои ҳушманд бо нишони огоҳӣ.
+m24-home-explore-issues-shaping = Масъалаҳоеро, ки ояндаи Интернетро шакл медиҳанд, омӯзед
 m24-home-privacy-not-included = *Махфият дохил карда нашудааст
 m24-home-pni-search-now = Ҳозир ҷустуҷӯ кунед
 m24-home-irl-podcast = { -brand-name-irl-podcast }
