@@ -28,7 +28,9 @@ m24-home-go-chaosfree-with = Gjer livet ditt enklare med éin app for alle e-pos
 m24-home-fakespot = { -brand-name-fakespot }
 m24-home-spot-fake-reviews = Oppdag falske vurderingar, dårlege produkt og upålitelege seljarar.
 m24-home-pocket = { -brand-name-pocket }
+m24-home-save-the-internets = Lagre det beste innhaldet på internett på kva som helst eining — for kven har tid til å lese alt no?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-keep-your-location = Hald plasseringa di og netteventyra dine private – strøym lokalt, kvar som helst.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 
