@@ -11,7 +11,7 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } to oszałamiająco wydajna przeglądarka, oferująca nowoczesne narzędzia dla programistów i najnowsze funkcje, takie jak obsługa CSS Grid i debugowanie bibliotek
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-firefox-developer-welcome-to-your-new-favorite = Witaj na pokładzie swojej nowej ulubionej przeglądarki. Najnowsze funkcje, najszybsze działanie oraz narzędzia do budowania otwartego Internetu.
+firefox-developer-welcome-to-your-new-favorite = Witaj na pokładzie twojej nowej ulubionej przeglądarki. Najnowsze funkcje, najszybsze działanie oraz narzędzia do budowania otwartego Internetu.
 firefox-developer-speak-up = Daj nam znać
 firefox-developer-feedback-makes-us = Opinie innych pomagają nam być lepszymi. Powiedz nam, jak możemy ulepszyć przeglądarkę i narzędzia.
 firefox-developer-join-the-convo = Dołącz do rozmowy
