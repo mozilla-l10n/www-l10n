@@ -41,6 +41,8 @@ m24-home-tag-event = Hending
 m24-home-read-more = Les meir
 m24-home-get-started = Kom i gang
 m24-home-join-the-movement = Bli med i rørsla:<br> AI for folket
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = { -brand-name-solo-ai }-logo
 m24-home-solo-ai = { -brand-name-solo-ai }
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
@@ -73,6 +75,10 @@ m24-home-headline-you-ai-v2 = Du, AI og internett – kva skjer eigentleg?
 
 m24-home-rise25-awards = { -brand-name-rise25 }-prisar
 m24-home-watch-the-award = Sjå prisutdelinga
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = Ein stolt prisvinnar hos { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = Ein sjølvsikker, smilande talar på { -brand-name-rise25 }.
 m24-home-read-the-report = Les rapporten
 
 ## Issues
