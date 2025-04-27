@@ -33,10 +33,12 @@ m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-keep-your-location = Hald plasseringa di og netteventyra dine private – strøym lokalt, kvar som helst.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-firefox-relay = { -brand-name-firefox-relay }
+m24-home-mask-your-email = Skjul e-postadressa og telefonnummeret ditt, slik at du berre får dei meldingane du ønskjer.
 
 ## Donate
 
 m24-home-donate-to-the = Doner til den ideelle organisasjonen { -brand-name-mozilla }
+m24-home-mozilla-is-building = { -brand-name-mozilla } byggjer ei rørsle for å gjenerobre internett. Saman kan vi byggje ei framtid der personvernet vårt er tatt vare på, AI er påliteleg, og uansvarlege teknologiselskap vert haldne ansvarlege. Men det er berre mogleg om vi gjer det saman.
 m24-home-were-proudly-nonprofit = Vi er stolte av å vere ein ideell organisasjon. Vil du donere til { -brand-name-mozilla } i dag?
 m24-home-donate = Doner
 
