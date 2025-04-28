@@ -133,4 +133,5 @@ m24-home-pni-search-now = Ҳозир ҷустуҷӯ кунед
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Бридҷет Тодд, барандаи подкасти «IRL».
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = Подкасти серҷоизаи мо шахсонеро муаррифӣ мекунад, ки барои бехатар кардани Интернет ва сохтани зеҳни сунъии (AI) боэътимод  фаъолият доранд.
 m24-home-irl-listen-now = Ҳозир гӯш кунед
