@@ -28,11 +28,13 @@ m24-about-we-uncover-insights = Мо барои шумо донишҳои рақ
 m24-about-build = Офариниш
 m24-about-we-build-products = Мо маҳсулотеро месозем, ки шуморо таҳти назорат қарор медиҳанд — ба монанди «{ -brand-name-firefox }», «{ -brand-name-fakespot }» ва барномаҳои дигар.
 m24-about-fund = Сармоягузорӣ
+m24-about-we-fund-and = Мо ба одамон ва ташаббусҳое, ки технологияҳо, Интернет ва зеҳни сунъӣ (AI)-ро ба самти дуруст равона мекунанд, маблағгузорӣ ва сармоягузорӣ мекунем.
 
 ## News
 
 m24-about-read-more = Бештар хондан
 m24-about-read-the-latest = Хабарҳо ва мақолаҳои охиринро дар бораи «{ -brand-name-mozilla }» хонед
+m24-about-builders-program = «{ -brand-name-mozilla-builders }» ба барномасозон ва таҳиягарон кумак мекунад, ки онҳо тавассути ҳамкорӣ, барномасозӣ ва ҷомеаи мо лоиҳаҳои табдилдиҳандаи манбаи кушодаи зеҳни сунъӣ (AI)-ро эҷод намоянд
 # Used as an accessible text alternative for an image
 m24-about-chicago = Соҳибкор аз донишгоҳи шаҳри Чикаго.
 
