@@ -79,6 +79,7 @@ m24-home-watch-now = Ҳоло тамошо кунед
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Суханвар дар саҳна бо чандин тамғаи маҳсулот.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-got-an-earlystage = Оё шумо як стартап дар марҳилаи ибтидоӣ доред? Ширкати худро ба «{ -brand-name-mozilla-ventures }» муаррифӣ кунед ва барои пешбурди тағйироти мусбат дар ояндаи зеҳни сунъӣ (AI) ва Интернет маблағгузории боэътимодро ба даст оред.
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Овози худро ҳадя кунед, то технологияи нутқ фарогир ва барои ҳамаи инсонҳо боз ҳам дастрас ва қобили истифода гардад.
 m24-home-donate-your-voice = Овози худро пешкаш кунед
@@ -122,6 +123,7 @@ m24-home-read-the-report = Хондани гузориш
 m24-home-alt-pni = Дастгоҳҳои ҳушманд бо нишони огоҳӣ.
 m24-home-explore-issues-shaping = Масъалаҳоеро, ки ояндаи Интернетро шакл медиҳанд, омӯзед
 m24-home-privacy-not-included = *Махфият дохил карда нашудааст
+m24-home-search-our-reviews = Шарҳҳо ва баррасии моро омӯзед, то фаҳмед, ки кадом дастгоҳҳои техникӣ ва замимаҳо ба таври пинҳонӣ маълумоти шуморо ҷамъоварӣ мекунанд.
 m24-home-pni-search-now = Ҳозир ҷустуҷӯ кунед
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Бридҷет Тодд, барандаи подкасти «IRL».
