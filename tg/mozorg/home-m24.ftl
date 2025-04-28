@@ -56,6 +56,7 @@ m24-home-tag-event = Рӯйдод
 m24-home-read-more = Бештар хондан
 m24-home-get-started = Оғози кор
 m24-home-join-the-movement = Ба ҷомеаи мо ҳамроҳ шавед:<br> Зеҳни сунъӣ (AI) барои мардум
+m24-home-our-mission-is = Ҳадафи мо ин аст, ки барои одамон сохтани зеҳни сунъии (AI) кушода ва боэътимод ва ҳамкорӣ бо он осон гардад.
 # Used as an accessible text alternative for an image
 m24-home-alt-solo-ai-logo = Тамғаи «{ -brand-name-solo-ai }»
 m24-home-solo-ai = { -brand-name-solo-ai }
