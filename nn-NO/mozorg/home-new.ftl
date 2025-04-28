@@ -32,6 +32,10 @@ home-join-us-in-shaping = Bli med oss ​​i å forme påliteleg AI
 home-work-on-ai = { -brand-name-mozilla }s arbeid med AI er ikkje berre ein ny ting – vi har brukt år på å finansiere, byggje og gå inn for AI som er open, rettferdig og ansvarleg utvikla. Fokuset vårt er å skape AI som tener folket, prioriterer openheit og støttar allmenta, ikkje dagsordenane til bedrifta.
 home-read-more = Les meir
 home-so-what-is-mozilla = So, kva er { -brand-name-mozilla }?
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core-v2 = I kjernen er { -brand-name-mozilla } ein aktivistorganisasjon leidd av { -brand-name-mozilla-foundation } som gjer endringar i verda gjennom ei rekkje satsingar, inkludert { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> og <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a>. Korleis er vi ulike? Fordi vi er oppdragsdrivne, betyr det at vi har fridommen til å ta alle avgjerdene våre basert på kva som er best for internett og for alle på nettet, ikkje basert på krav frå aksjonærar — vi har faktisk ingen av desse.
 home-learn-about-mofo = Les om { -brand-name-mozilla-foundation }
 home-join-the-fight = Ver med i kampen for eit helsesamt internett
 home-your-voice-your-code = Di røyst. Din kode. Dine idéar. Det finst bokstavleg tala tusenvis av måtar du kan bidra til { -brand-name-mozilla }.
