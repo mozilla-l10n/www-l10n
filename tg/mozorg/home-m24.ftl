@@ -74,9 +74,13 @@ m24-home-find-the-just = Модели забонии бузургеро (LLM) п
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Марк Сурман, Президенти «{ -brand-name-mozilla }».
 m24-home-can-ai-be = Оё зеҳни сунъӣ (AI) эътимоднок буда метавонад?
+m24-home-in-a-world = Дар ҷаҳоне, ки навовариҳои зеҳни сунъӣ (AI) аз ҷониби як гурӯҳи интихобшуда идора карда мешаванд, мо бо хатари монополизатсияи ин технология рӯ ба рӯ ҳастем. Татбиқи консепсияҳои манбаи кушода ба зеҳни сунъӣ (AI) метавонад ин вазъиятро тағйир диҳад.
 m24-home-watch-now = Ҳоло тамошо кунед
+# Used as an accessible text alternative for an image
+m24-home-alt-ventures = Суханвар дар саҳна бо чандин тамғаи маҳсулот.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice-to-make = Овози худро ҳадя кунед, то технологияи нутқ фарогир ва барои ҳамаи инсонҳо боз ҳам дастрас ва қобили истифода гардад.
 m24-home-donate-your-voice = Овози худро пешкаш кунед
 
 ## Media Springboard
@@ -92,6 +96,7 @@ m24-home-topic-news = Хабарҳо
 m24-home-topic-ai = Зеҳни сунъӣ
 m24-home-topic-ps = Махфият ва амният
 m24-home-headline-you-ai-v2 = Шумо, зеҳни сунъӣ (AI) ва Интернет - воқеан чӣ рӯй дода истодааст?
+m24-home-introducing-anonym = Муаррифии «{ -brand-name-anonym }»: баланд бардоштани сатҳи рекламаи рақамии ҳифзкунандаи арзишҳои махфият.
 m24-home-keeping-genai-technologies = Ҳифзи амнияти технологияҳои зеҳни сунъии эҷодӣ (GenAI) масъулияти муштарак мебошад.
 
 ## Showcase
