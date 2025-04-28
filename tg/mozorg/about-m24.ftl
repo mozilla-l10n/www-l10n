@@ -35,6 +35,10 @@ m24-about-we-fund-and = Мо ба одамон ва ташаббусҳое, ки
 m24-about-read-more = Бештар хондан
 m24-about-read-the-latest = Хабарҳо ва мақолаҳои охиринро дар бораи «{ -brand-name-mozilla }» хонед
 m24-about-builders-program = «{ -brand-name-mozilla-builders }» ба барномасозон ва таҳиягарон кумак мекунад, ки онҳо тавассути ҳамкорӣ, барномасозӣ ва ҷомеаи мо лоиҳаҳои табдилдиҳандаи манбаи кушодаи зеҳни сунъӣ (AI)-ро эҷод намоянд
+m24-about-at-our-rise25 = Ояндаи боэътимод, фарогир ва масъулиятноки зеҳни сунъӣ (AI) бо ҷоизаҳои «{ -brand-name-rise25 }», ки мо ба саҳмгузорон тақдим мекунем, таъмин карда мешавад.
+# Used as an accessible text alternative for an image
+m24-about-rise25-award = Гирандаи ҷоизаи «{ -brand-name-rise25 }» ба ҷоизаи худ ишора мекунад.
+m24-about-empowering-chicagos-entrepreneurs = Тақвияти соҳибкорони Чикаго ҷиҳати дастгирии тағйироти насли ҷорӣ
 # Used as an accessible text alternative for an image
 m24-about-chicago = Соҳибкор аз донишгоҳи шаҳри Чикаго.
 
