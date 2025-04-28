@@ -14,6 +14,7 @@ sub-navigation-ios = { -brand-name-ios }
 sub-navigation-desktop-beta-and-developer = { -brand-name-beta } και { -brand-name-developer-edition } για υπολογιστές
 sub-navigation-desktop-nightly = { -brand-name-nightly } για υπολογιστές
 sub-navigation-features = Δυνατότητες
+sub-navigation-more = Περισσότερα
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64-bit
