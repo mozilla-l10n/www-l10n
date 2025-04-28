@@ -65,9 +65,12 @@ m24-home-alt-builders = Созандагон
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = Созандагони «{ -brand-name-mozilla }»
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+m24-home-builders-helps-independent = Созандагон ба таҳиягарони мустақил кумак мекунад, ки тавассути ҳамкории инфиродӣ, барномасозӣ ва ҷомеаи мо лоиҳаҳои табдилдиҳандаи манбаи кушодаи зеҳни сунъӣ (AI)-ро эҷод намоянд.
+m24-home-builders-helps-independent-v2 = «{ -brand-name-mozilla-builders }» ба барномасозон ва таҳиягарони мустақил кумак мекунад, ки онҳо тавассути ҳамкорӣ, барномасозӣ ва ҷомеаи мо лоиҳаҳои фармоишии табдилдиҳандаи манбаи кушодаи зеҳни сунъӣ (AI)-ро эҷод намоянд.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Ангораи «{ -brand-name-lumigator }».
 m24-home-lumigator = { -brand-name-lumigator }
+m24-home-find-the-just = Модели забонии бузургеро (LLM) пайдо кунед, ки ба эҳтиёҷот, мавриди истифода ва маълумоти шумо мувофиқ бошад.
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Марк Сурман, Президенти «{ -brand-name-mozilla }».
 m24-home-can-ai-be = Оё зеҳни сунъӣ (AI) эътимоднок буда метавонад?
