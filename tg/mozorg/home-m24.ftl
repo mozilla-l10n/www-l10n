@@ -98,10 +98,18 @@ m24-home-topic-ps = Махфият ва амният
 m24-home-headline-you-ai-v2 = Шумо, зеҳни сунъӣ (AI) ва Интернет - воқеан чӣ рӯй дода истодааст?
 m24-home-introducing-anonym = Муаррифии «{ -brand-name-anonym }»: баланд бардоштани сатҳи рекламаи рақамии ҳифзкунандаи арзишҳои махфият.
 m24-home-keeping-genai-technologies = Ҳифзи амнияти технологияҳои зеҳни сунъии эҷодӣ (GenAI) масъулияти муштарак мебошад.
+m24-home-from-hollywood-to = Аз Ҳолливуд то ҳип-ҳоп, рассомон масъалаи розигӣ ба истифодаи зеҳни сунъӣ (AI)-ро баррасӣ мекунанд.
 
 ## Showcase
 
 m24-home-rise25-awards = Ҷоизаҳои «{ -brand-name-rise25 }»
+m24-home-watch-the-award = Тамошои маросими супоридани ҷоиза
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = Гирандаи ифтихорманди ҷоиза дар «{ -brand-name-rise25 }».
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = Сухангӯи боэътимод ва хандон дар чорабинии «{ -brand-name-rise25 }».
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = Гирандаи шодманди ҷоиза дар «{ -brand-name-rise25 }».
 m24-home-state-of-mozilla = Вазъияти «{ -brand-name-mozilla }»
 m24-home-read-the-report = Хондани гузориш
 
@@ -112,5 +120,7 @@ m24-home-alt-pni = Дастгоҳҳои ҳушманд бо нишони ого�
 m24-home-explore-issues-shaping = Масъалаҳоеро, ки ояндаи Интернетро шакл медиҳанд, омӯзед
 m24-home-privacy-not-included = *Махфият дохил карда нашудааст
 m24-home-pni-search-now = Ҳозир ҷустуҷӯ кунед
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = Бридҷет Тодд, барандаи подкасти «IRL».
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-irl-listen-now = Ҳозир гӯш кунед
