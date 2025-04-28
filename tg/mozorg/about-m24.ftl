@@ -45,10 +45,19 @@ m24-about-chicago = Соҳибкор аз донишгоҳи шаҳри Чика
 ## Showcase
 
 m24-about-lets-build-a = Биёед ояндаи одилонаро бунёд созем
+m24-about-see-how-were = Аз назар гузаронед, ки мо чӣ тавр муҳити гуногун, фарогир ва дастрасро барои ҳама дар фазои онлайн ташаккул медиҳем.
 m24-about-read-about-our = Дар бораи уҳдадориҳои мо хонед
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-trustworthy = Зеҳни сунъии (AI) боэътимод, «{ -brand-name-common-voice }», омӯзиши федеративӣ.
+# Used as an accessible text alternative for an image
+m24-about-alt-conversation = Корманди «{ -brand-name-mozilla }» ҳангоми суҳбат.
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = Корманди «{ -brand-name-mozilla }» қаҳва менӯшад.
+# Used as an accessible text alternative for an image
+m24-about-alt-collaborating = Кормандони «{ -brand-name-mozilla }» ҳамкорӣ доранд.
 m24-about-join-us-and = Ба мо ҳамроҳ шавед ва саҳми худро гузоред
 m24-about-see-open-positions = Дидани ҷойҳои кории холӣ
 
