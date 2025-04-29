@@ -18,6 +18,7 @@ vpn-what-is-why-would-i = Чаро ман бояд аз «VPN» истифода
 vpn-what-is-keeping-your-online = Фаъолияти шумо дар Интернет ба таври махфӣ нигоҳ дошта мешавад.
 vpn-what-is-keeping-your-home = Ҷойгиршавии хонаи шумо ё ҷойҳо ва сомонаҳои дӯстдоштаи шумо махфӣ нигоҳ дошта мешаванд.
 vpn-what-is-protecting-your-connection = Пайвасти шумо ба шабакаи Wi-Fi-и ҷамъиятӣ, масалан дар қаҳвахона, фурудгоҳ, мағоза ё китобхона муҳофизат карда мешавад.
+vpn-what-is-ensuring-the-confidentiality = Дастрасии шумо ба Интернет махфӣ ва бехатар нигоҳ дошта мешавад.
 vpn-what-is-are-vpns-safe = Оё «VPN» бехатар аст?
 vpn-what-is-are-vpns-legal = Оё «VPN» мувофиқи қонунгузорӣ кор мекунад?
 vpn-what-is-are-vpns-only = Оё «VPN» танҳо дар компютерҳо кор мекунад?
