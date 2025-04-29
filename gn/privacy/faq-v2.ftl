@@ -12,6 +12,9 @@ privacy-faq-v2-desc = { -brand-name-mozilla } omomba’e añetehápe ha omo’ã
 privacy-faq-v2-heading = Ore romopyenda yvypórape viru rendaguépe.
 privacy-faq-v2-intro = Ikatu hína hasy opavavépe ndoikuaáivo mba’etépa oha’ãrõta oimeraẽva software térã mba’eporurã ojeporúva ko ára rupi. Umi tembiporupyahu omongu’éva ñande rekove ijetu’u ha, tuichaháicha, mavakuéra ndoguerekói pa’ũ oikuaa hag̃ua mba’emimi. Kóva añetegua { -brand-name-firefox } ohecháva avei, ojejuhuhápe opaite tapicha hemiandu juavýva umi mba’e oikóva ikundahápe rehegua.
 privacy-faq-v2-at-mozilla = { -brand-name-mozilla }-pe, romomba’e ha romo’ã ne marandu jeheguáva:
+# Variables:
+#   $attrs (url) - link to https://www.mozilla.org/privacy/principles/
+privacy-faq-v2-we-follow = Rohapykueho heta <a { $attrs }>mba’ekuaarã ñemigua ñepyrũha</a> ohechaukáva mba’éichapa oiko kundahára ñemigua { -brand-name-firefox } mesa arigua ha pumbyry.
 privacy-faq-v2-we-strive-collect-data = Roñongatúnte umi marandu roikotevẽva rojapo hag̃ua apopyre iporãvéva.
 privacy-faq-v2-we-work-to = Romoĩ yvypórape oma’ẽ hag̃ua imarandu ha hembiasakue ñanduti pegua rehe.
 privacy-faq-v2-we-adhere = Roike ñepyrũrãme “mba’etuicha’ỹre”, he’iséva romba’apo hetaha ikatu hag̃uáicha pe oikumbýva opavave { -brand-name-firefox } rehegua ha’eha pe oikovavoi.
