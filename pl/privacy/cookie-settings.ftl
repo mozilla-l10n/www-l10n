@@ -8,11 +8,13 @@
 cookie-settings-page-title = Ustawienia ciasteczek
 cookie-settings-breadcrumb-link = Poprzednia strona
 cookie-settings-save-changes = Zapisz zmiany
+cookie-settings-your-cookie-settings-have = Ustawienia ciasteczek zostały zaktualizowane.
 cookie-settings-i-agree = Zgadzam się
 cookie-settings-i-do-not-agree = Nie zgadzam się
 
 ## Necessary cookies section
 
+cookie-settings-category-necessary-heading = Niezbędne
 
 ## Preference cookies section
 
