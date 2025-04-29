@@ -9,6 +9,8 @@
 features-adblocker-ad-blocking = Ñemurã jejoko
 # Page Title
 features-adblocker-meta-title = Ñemurã jokoha rehegua - { -brand-name-firefox }
+# HTML page description
+features-adblocker-meta-desc = Ehecha mba’éichapa omba’apo marandu jokoha, mba’épa ojapo nde rehe ha mba’éicha { -brand-name-firefox } ne mo’ãta tapykuehoha ha kookiegui.
 features-adblocker-the-ad-blocker-a-tool = Ñemurã jokoha: peteĩ tembiporu ñeikundaha raperã mbohérava ha mba’erãitéva.
 features-adblocker-finding-the-right = Eheka ñemurã jokoha ndéve g̃uarãite
 features-adblocker-tip-1 = <strong>Ñemurã jokoha:</strong> Ejokoséramo ñemurã añónte, eiporavo peteĩ hasy’ỹ ha ipya’éva.
