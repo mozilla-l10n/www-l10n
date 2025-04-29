@@ -7,6 +7,7 @@
 
 # HTML page title and main title
 vpn-or-proxy-the-difference-between = Фарқият байни «VPN» ва «Прокси веб»
+vpn-or-proxy-stop-isps-from = Нагузоред, ки провайдерҳои интернет фаъолияти шуморо дар онлайн назорат ва ҷосусӣ кунанд
 vpn-or-proxy-when-should-you = Дар кадом ҳолат шумо бояд аз «VPN» истифода баред, ва дар қадом ҳолат — аз прокси бехатар?
 vpn-or-proxy-secure-web-proxy = Прокси бехатар барои сомонаҳо: муҳофизат дар сатҳи браузер
 vpn-or-proxy-vpns-devicelevel-protection = «VPN»-ҳо: муҳофизат дар сатҳи дастгоҳ
