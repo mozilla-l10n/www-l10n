@@ -33,6 +33,7 @@ m24-about-fund = Hepyme’ẽ
 m24-about-read-more = Emoñe’ẽve
 m24-about-read-the-latest = Emoñe’ẽ marandu pyahu ha { -brand-name-mozilla } ohaipyre
 m24-about-builders-program = { -brand-name-mozilla-builders } oipytyvõ mboguatahárape omoheñóivo apopyrã IA ayvu ijurujáva omoambuekuaáva ñepytyvõ, mbosako’i ha tekoha rupive.
+m24-about-at-our-rise25 = Ore mbojopoirãme { -brand-name-rise25 }, IA renonderã ha’éta jeroviaha, opavavegua ha hekoporãva
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = { -brand-name-rise25 } ombojopóiva ohechaukávo ñeme’ẽmbyre.
 m24-about-empowering-chicagos-entrepreneurs = Romyakãraku umi mba’eapohára Chicago-guápe hekoambue hag̃ua

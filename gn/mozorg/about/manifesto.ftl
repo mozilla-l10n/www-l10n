@@ -40,6 +40,7 @@ manifesto-we-are-committed-to-thinking = Roñeha’ãta rojapo peteĩ ñanduti o
 manifesto-we-are-committed-to-diverse = Roñeha’ãta rojapo peteĩ ñanduti omokyre’ỹva ñepytyvõ opaite tekoha ndive, oñemba’apohápe oñondivepa opavavépe g̃uarã.
 manifesto-show-your-support = Ehechauka ne ñepytyvõ
 manifesto-an-internet-with-these = Peteĩ ñanduti ndoikomo’ãi ha’eño ijehegui. Avakuéra ha avei opavave omoĩva’erã tembiporupyahu ñandutípe ha jekuaapy ñandutípe. { -brand-name-mozilla } he’i ha oikuaauka orekoha jehechauka ikatu hag̃ua omoambue hembiapo tenonderã. Jaheka tembiapo oñondive ava ha tembiapoha oparupigua oĩ guive orendive ha ojapo ñandutígui peteĩ tenda iporãvéva.
+manifesto-i-support-the-vision-of-v2 = Che aykeko pe ñanduti rembiecharã iporãvéva { -brand-name-mozilla } ndive, ¿eñemoĩtapa ore ykére?
 # obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Che añeme’ẽ pe jehechapy iporãvéva ha oĩporãvéva ñanduti @mozilla-pe, ¿eñemoĩta che ykére?
 manifesto-share-on-bluesky = Emoherakuã Bluesky-pe

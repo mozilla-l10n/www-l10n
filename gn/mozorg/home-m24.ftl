@@ -30,6 +30,7 @@ m24-home-spot-fake-reviews = Ehecha jehaipy imarãva, apopyre vai ha vendehára 
 m24-home-pocket = { -brand-name-pocket }
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+m24-home-get-a-headsup = Eikuaa ne maranduete imarãkuaaha ha upévare ejoko teko katupyrýpe.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
