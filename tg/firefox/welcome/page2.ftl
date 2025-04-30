@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/2/
 
+# HTML page title
+welcome-page2-pocket-save-news-videos-stories = «{ -brand-name-pocket }» — Хабарҳо, видеоҳо, қиссаҳо ва дигар маводро нигоҳ доред
+welcome-page2-your-time-online-is-worth = Вақти шумо дар Интернет сазовори ҳифз мебошад
 welcome-page2-activate-pocket = Фаъолсозии «{ -brand-name-pocket }»
 welcome-page2-pocket = { -brand-name-pocket }
 welcome-page2-why-am-i-seeing-this = Чаро ман инро дида истодаам?

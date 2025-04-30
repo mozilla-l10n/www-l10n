@@ -6,6 +6,8 @@
 ### URL: https://www-dev.allizom.org/mission/
 
 mission-were-building-a-better-internet = Мо бо тамоми нерӯ барои ҳифз ва рушди Интернети беҳтар меҳнат карда истодаем
+# Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
+mission-our-mission-is-to-promote-openness = Мо барои пешбурди арзишҳои кушодагӣ, шаффофият, навоварӣ ва фароҳамсозии имкониятҳои баробар дар Интернет фаъолият дорем
 mission-get-involved = Ҳамроҳ шавед
 mission-volunteer-opportunities-in-a-number = Имкониятҳои волонтёрӣ дар як қатор самтҳои гуногун
 mission-history = Таърих
