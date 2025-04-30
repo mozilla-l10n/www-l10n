@@ -42,6 +42,7 @@ manifesto-show-your-support = Sken-d afud-ik
 manifesto-an-internet-with-these = Internet s tɣara-agi ur yezmir ara ad d-ilal i yiman-is. Imdanen akked tuddsiwin yessefk ad ddun ar isaramen-agi di tlemmast n titiknulujiyin n internet akked wassaɣen yellan gar yimdanen d internet. Ameskan n { -brand-name-mozilla } d wayen i d-yernan, mmalen-d asiḥbiber n { -brand-name-mozilla } i usnerni n yisaramen-agi. Iswi-nneɣ d axeddim akked yimdanen d tuddsiwin yebḍan yid-neɣ iswiyen-agiakken ad nerr internet d amḍiq icebḥen ugar i yal yiwen.
 # obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Ad muddeɣ afud i tmuɣli , internet ufrin, uzmir si @mozilla, ad tedduḍ ɣur-neɣ?
+manifesto-share-on-bluesky = Bḍu-t deg Bluesky
 manifesto-our-10-principles = <strong>10 nneɣ</strong> n imenzayen
 manifesto-read-the-entire-manifesto = Γeṛ ameskan imeṛṛa
 manifesto-details-the-mozilla-manifesto = Ameskan { -brand-name-mozilla }

@@ -72,6 +72,7 @@ m24-home-in-a-world = W świecie, w którym innowacjami w dziedzinie AI kieruje 
 m24-home-watch-now = Obejrzyj teraz
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice-to-make = Podaruj swój głos, aby technologia mowy stała się bardziej inkluzywna i dostępna dla każdego.
 m24-home-donate-your-voice = Podaruj swój głos
 
 ## Media Springboard
@@ -86,6 +87,9 @@ m24-home-tag-video = Wideo
 m24-home-topic-news = Aktualności
 m24-home-topic-ai = Sztuczna inteligencja
 m24-home-topic-ps = Prywatność i bezpieczeństwo
+m24-home-headline-you-ai-v2 = Ty, AI i internet — co się naprawdę dzieje?
+m24-home-introducing-anonym = Przedstawiamy { -brand-name-anonym }: Podnosimy poprzeczkę w zakresie reklamy cyfrowej chroniącej prywatność.
+m24-home-kids-are-growing = Dzieci dorastają w bardzo internetowym świecie. Co może zrobić zaniepokojony rodzic?
 
 ## Showcase
 
@@ -100,6 +104,8 @@ m24-home-explore-issues-shaping = Poznaj problemy kształtujące przyszłość I
 m24-home-privacy-not-included = *Prywatność do nabycia osobno
 m24-home-search-our-reviews = Przejrzyj nasze recenzje, aby dowiedzieć się, które gadżety technologiczne i aplikacje dyskretnie wykradają Twoje dane.
 m24-home-pni-search-now = Przejrzyj teraz
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = Bridget Todd, prowadząca podcast IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Nasz wielokrotnie nagradzany podcast przedstawia osoby, które działają na rzecz zwiększenia bezpieczeństwa Internetu i zaufania do sztucznej inteligencji.
 m24-home-irl-listen-now = Posłuchaj teraz
