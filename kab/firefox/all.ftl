@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+firefox-all-choose-browser = Fren iminig akken ad tkemmleḍ
+firefox-all-choose-platform = Fren tiɣerɣert akken ad tkemmleḍ
+firefox-all-choose-language = Fren tutlayt akken ad tkemmleḍ
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Awi tallelt
 firefox-all-browser-v2 = 1. Iminig:
