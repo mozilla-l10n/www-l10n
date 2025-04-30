@@ -13,3 +13,4 @@ mission-where-we-come-from-and-how-we-got = Мо фаъолияти худро �
 mission-forums = Форумҳо
 mission-topics-include-support-products = Мавзуъҳои мо ба масъалаҳои дастгирӣ, маҳсулот ва технологияҳо марбут мебошанд
 mission-governance = Идоракунӣ
+mission-our-structure-organization-and-the-v2 = Сохтор, ташкилот ва ҷомеаи васеи мо дар доираи «{ -brand-name-mozilla }»
