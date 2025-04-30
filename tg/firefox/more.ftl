@@ -13,6 +13,7 @@ firefox-has-been = Браузери «{ -brand-name-firefox }» қариб аз 
 what-is-a = Браузери веб чист?
 a-web-browser = Браузери интернетӣ воситаест, ки шуморо ба ҳар гӯшаи Интернет мерасонад ва имконият медиҳад, ки матн, тасвир ва наворҳоро аз тамоми ҷаҳон тамошо намоед.
 firefox-is-more = Браузери «{ -brand-name-firefox }» — зиёда аз браузер мебошад
+get-the-browsers = Браузереро ба даст оред, ки махфияти шуморо дар ҷои аввал мегузорад — ва ҳамеша ин тавр
 choose-which-firefox = Интихоб кунед, ки кадом { -brand-name-firefox-browser }-ро бо забони модарии худ боргирӣ мекунед
 firefox-more-firefox-chromebook = «{ -brand-name-firefox-browser }» барои «{ -brand-name-chromebook }»
 firefox-more-while-on-chromebook = Агарчанде, ки дар «{ -brand-name-chromebook }» браузери «{ -brand-name-chrome }» аллакай насб шудааст, боргирӣ ва истифодаи браузери «{ -brand-name-firefox }» ҳамчун браузери асосӣ ба шумо чанд бартарӣ медиҳад:
