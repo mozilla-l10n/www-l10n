@@ -51,6 +51,7 @@ m24-home-tag-event = Wydarzenie
 m24-home-read-more = Przeczytaj więcej
 m24-home-get-started = Pierwsze kroki
 m24-home-join-the-movement = Dołącz do ruchu:<br>AI dla ludzi
+m24-home-our-mission-is = Naszą misją jest umożliwienie ludziom łatwego tworzenia i współpracy przy wykorzystaniu godnych zaufania rozwiązań AI opartych na otwartym kodzie źródłowym.
 # Used as an accessible text alternative for an image
 m24-home-alt-solo-ai-logo = Logo { -brand-name-solo-ai }
 m24-home-solo-ai = { -brand-name-solo-ai }
@@ -65,6 +66,7 @@ m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } pomaga
 m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Znajdź LLM odpowiadający Twoim potrzebom, przypadkom użycia i danym.
+m24-home-can-ai-be = Czy AI może być godna zaufania?
 m24-home-watch-now = Obejrzyj teraz
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
@@ -85,6 +87,8 @@ m24-home-topic-ps = Prywatność i bezpieczeństwo
 ## Showcase
 
 m24-home-rise25-awards = Nagrody { -brand-name-rise25 }
+m24-home-get-to-know = Poznaj liderów promujących godny zaufania, inkluzywny i przejrzysty rozwój sztucznej inteligencji, którzy wyznaczają nowe standardy i inspirują kolejne pokolenie innowatorów.
+m24-home-watch-the-award = Obejrzyj galę wręczenia nagród
 m24-home-read-the-report = Przeczytaj raport
 
 ## Issues

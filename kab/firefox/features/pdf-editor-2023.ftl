@@ -3,6 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/
+### URL: https://www-dev.allizom.org/firefox/features/pdf-editor/
 
-features-shared-firefox-features = Timahilin n { -brand-name-firefox }
+# Short title used in the subnav
+pdf-editor-pdf-editor = Amaẓrag n PDF
+pdf-editor-add-text = Rnu aḍris

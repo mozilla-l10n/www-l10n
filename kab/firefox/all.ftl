@@ -8,6 +8,9 @@
 firefox-all-choose-browser = Fren iminig akken ad tkemmleḍ
 firefox-all-choose-platform = Fren tiɣerɣert akken ad tkemmleḍ
 firefox-all-choose-language = Fren tutlayt akken ad tkemmleḍ
+firefox-all-change-language = Fren tutlayt-nniḍen
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Fren seg tebdart-a ddaw-a
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Awi tallelt
 firefox-all-browser-v2 = 1. Iminig:
@@ -57,3 +60,4 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-download-esr-115 = Sider ESR 115

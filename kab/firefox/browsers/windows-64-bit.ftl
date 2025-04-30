@@ -31,3 +31,4 @@ windows-64-bit-if-you-see-32-bit-newer = Ma yella twalaḍ "(32-bit)", kečč ts
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = Ma teḥwaǧeḍ ad teslekmeḍ { -brand-name-firefox } 32-bit neɣ ad tesbeddeḍ s ufus { -brand-name-firefox } 64-bit, tzemreḍ ad dd-tesidreḍ kan syen ad tεiwdeḍ asenkar n ugbur n usbeddi n { -brand-name-firefox } i { -brand-name-windows } (32-bit neɣ 64-bit) seg usebter <a href="{ $all }">n usali n tilɣubliḍin d tutlayin n { -brand-name-firefox }. </a>
 windows-64-bit-take-control-of-your = Ṭṭef iminig-ik gar ifassen-ik.
+windows-64-bit-download-firefox = Sader { -brand-name-firefox } i Windows 64-yibiten

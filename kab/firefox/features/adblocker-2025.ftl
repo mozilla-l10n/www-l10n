@@ -3,6 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/
+### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
-features-shared-firefox-features = Timahilin n { -brand-name-firefox }
+# Breadcrumb navigation
+features-adblocker-ad-blocking = Asewḥel n udellel

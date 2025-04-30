@@ -16,8 +16,11 @@ installer-help-action-choose = Fren asader n ddaw.
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Sekyed timahilin ara d-yeffɣen akka kra n wakud s useqdec n warid urkid.
+installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Rnu, sekyed daɣen ales s useqdec n yiminig-a kan yettwafeṣlen i yineflayen.
+installer-help-firefox-nightly-title-v2 = { -brand-name-firefox } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = Ẓer iminig-nneɣ web n tsuta i d-itteddun, tɛawneḍ-aɣ ad t-nerr d iminig yufraren.
 installer-help-need-help = Tesriḍ tallelt n usbeddi?
 # Variables:

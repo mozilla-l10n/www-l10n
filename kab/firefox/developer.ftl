@@ -66,8 +66,11 @@ firefox-developer-fonts-panel = Agalis n tsefsiyin
 firefox-developer-the-new-fonts-panel = Agalis n tsefsit amaynut deg { -brand-name-firefox-devtools } yettmuddu-d i yineflayen anekcum uzrib ɣer telɣut meṛṛa i ḥwaǧen ɣef tsefsit i yettwasqedcen deg uferdis. Yegber daɣen talɣut meqqren am uɣbalu n tesfsit, tuzert, aɣanib d wayen-nniḍen.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } yettazen tikti s wudem awurman i { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Sider iminig { -brand-name-firefox } ittwaxedmen i yineflayen
+firefox-developer-welcome-to-firefox-developer-edition = Ansuf ar { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Iminig yettwag i yineflayen
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Tiɣbula i yineflayen, sɣur ineflayen.
+firefox-developer-mdn-blog = Ablug n { -brand-name-mdn }
+firefox-developer-mdn-updates = Ileqman
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Ismenyifen { -brand-name-mdn }

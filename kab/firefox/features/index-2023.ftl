@@ -17,3 +17,5 @@ features-index-choose-how-your-browser-looks = Fren udem swayes tebɣiḍ i yimi
 features-index-firefox-browser-sync = Amtawi n yiminig n { -brand-name-firefox }
 features-index-bookmark-manager = Amsefrak n tecraḍ
 features-index-organize-your-bookmarks-with = Suddes ticraḍ-ik n yisebtar s yikaramen d tebzimin.
+features-index-pdf-editor = Amaẓrag n PDF
+features-index-translate-the-web = Suqel web
