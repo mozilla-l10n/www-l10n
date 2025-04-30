@@ -50,6 +50,7 @@ m24-home-get-started = ਸ਼ੁਰੂ ਕਰੀਏ
 m24-home-join-the-movement = ਮੁਹਿੰਮ ਵਿੱਚ ਹਿੱਸਾ ਲਵੋ:<br> ਲੋਕਾਂ ਲਈ AI
 m24-home-alt-builders = ਬਿਲਡਰ
 m24-home-mozilla-builders = { -brand-name-mozilla } ਬਿਲਡਰ
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } ਲੋਗੋ
 m24-home-lumigator = { -brand-name-lumigator }

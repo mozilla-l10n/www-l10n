@@ -94,6 +94,7 @@
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
 -brand-name-irl-podcast = IRL ਪੌਡਕਾਸਟ
+-brand-name-solo-ai = ਸੋਲੋ AI
 -brand-name-lumigator = ਲੂਮੀਗੇਟਰ
 -brand-name-mdn-plus = MDN ਪਲੱਸ
 -brand-name-mdn-web-docs = MDN Web Docs
