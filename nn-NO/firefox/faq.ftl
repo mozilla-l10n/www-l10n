@@ -15,6 +15,7 @@ what-is-firefox = Kva er { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+the-firefox-browser-the-only = { -brand-name-firefox-browser }, den einaste store nettlesaren som blir støtta av ein ideell organisasjon, hjelper deg med å verne den personlege informasjonen din. Lær meir om <a href="{ $url }">{ -brand-name-firefox-browsers }</a> og <a href="{ $url2 }">andre produkt.</a>
 how-do-i = Korleis lastar eg ned { -brand-name-firefox-browser }?
 
 # Variables:
