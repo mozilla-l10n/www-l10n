@@ -12,6 +12,7 @@ set-as-default-landing-choose-the-browser = Vel nettlesaren som tar vare på per
 set-as-default-landing-thanks-for-using-the = Takk for at du brukar den nyaste { -brand-name-firefox }-nettlesaren. Når du vel { -brand-name-firefox }, støttar du eit betre nett for deg og alle andre. Ta no neste steg for å beskytte deg sjølv.
 set-as-default-landing-make-sure-youre-protected = Forsikre deg om at du er beskytta, kvar gong du går på nettet
 set-as-default-landing-you-should-get = Du bør ha innverknad over korleis du surfar
+set-as-default-landing-if-you-recently = Om du nyleg har oppdatert datamaskina di, kan det hende at innstillingane dine har endra seg. Støtt eit fritt og ope internett kvar gong du koplar deg til nettet med { -brand-name-firefox }.
 set-as-default-landing-choose-automatic-privacy = Vel automatisk personvern
 set-as-default-landing-companies-keep-finding = Selskap finn stadig nye måtar å tappe personlege data på. { -brand-name-firefox } er nettlesaren som har som oppgåve å finne nye måtar å beskytte deg på.
 set-as-default-landing-choose-freedom-on-every = Vel fridom på alle einingar
