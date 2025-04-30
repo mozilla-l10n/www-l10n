@@ -15,3 +15,4 @@ pdf-editor-fill-in-forms-online-without = Шаклҳоро бе ниёзи чо�
 pdf-editor-add-text = Илова кардани матн
 pdf-editor-add-drawings-or-your-signature = Илова кардани расмҳо (ё имзои шумо)
 pdf-editor-add-image-with-alt-text = Илова кардани тасвир бо матни иловагӣ
+pdf-editor-create-a-highlight = Эҷод кардани нуқтаи муҳим

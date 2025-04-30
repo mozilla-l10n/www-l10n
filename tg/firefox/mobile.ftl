@@ -8,6 +8,7 @@
 firefox-mobile-download-the-firefox-browser = Браузери «{ -brand-name-firefox-browser }»-ро дар дастгоҳи мобилии худ барои «{ -brand-name-ios }» ва «{ -brand-name-android }» боргирӣ намоед
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
+firefox-mobile-get-the-mobile-browser-built = Браузери мобилии моро гиред — барои шумо сохта шудааст, на барои рекламадиҳандагон
 firefox-mobile-get-firefox-mobile = «{ -brand-name-firefox }»-и мобилиро ба даст оред
 firefox-mobile-send-a-download-link-to-your = Фиристодани пайванд ба телефон барои боргирӣ кардани браузер.
 firefox-mobile-scan-the-qr-code-to-get-started = Барои оғози кор бо барнома рамзи «QR»-ро тасвирбардорӣ намоед.
