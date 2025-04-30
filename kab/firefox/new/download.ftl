@@ -31,6 +31,7 @@ firefox-new-your-firefox-new-should-begin = Asider-ik ad yekker s wudem awurman.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } mačči d iminig kan.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Asader-inek·inem yettuḥbes . Maca cemma ur iruḥ.
+firefox-new-download-select-linux = Fren taxtiṛt n usider ddaw-a
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Anagraw-ik·im ur igbir ara ayen i iwulmen i { -brand-name-firefox }, acu kan ɛreḍ yiwen seg <a href="{ $url }">yileqman-a</a>.

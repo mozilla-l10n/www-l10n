@@ -22,6 +22,7 @@ set-as-default-thanks-youre-all-set = Kullec ihegga.
 set-as-default-thanks-get-firefox-for-mobile = Awi { -brand-name-firefox } i uziraz
 set-as-default-thanks-travel-the-internet-with = Inig deg Internet s ummesten deg yibenkan-ik meṛṛa.
 set-as-default-thanks-download-the-app = Sader asnas
+set-as-default-create-an-account = Snulfu-d amiḍan
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Awi amiḍan
 set-as-default-thanks-having-trouble = Llan wuguren?

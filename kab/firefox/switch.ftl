@@ -23,6 +23,8 @@ switch-enjoy-the-web-faster = Zhu s web arurad, yal taɣawsa tbedd i kečč.
 switch-download-and-switch = Sider sakin beddel
 switch-share-to-facebook = Bḍu ɣer Facebook
 switch-share-to-facebook-updated = Bḍu deg { -brand-name-facebook }
+# Note: Bluesky is a brand name and should not be translated
+switch-share-to-bluesky = Bḍu-t deg Bluesky
 switch-hey = Hey,
 switch-check-it-out = Maɛlic imi ur tumineɣ ara ayen i d-nenna, acu kan, ɛreḍ-it :
 switch-send-an-email = Azen imayl

@@ -21,6 +21,7 @@ m24-home-learn-about-us = Poznaj Mozillę
 ## Products
 
 m24-home-love-the-internet = Znów pokochaj internet
+m24-home-break-free-from = Uwolnij się od big techu — nasze produkty dają Ci kontrolę nad bezpieczniejszym, bardziej prywatnym korzystaniem z Internetu.
 m24-home-explore-our-products = Poznaj nasze produkty
 m24-home-firefox = { -brand-name-firefox }
 m24-home-get-the-gold = Ciesz się najwyższym standardem szybkości, prywatności i kontroli podczas przeglądania.
@@ -67,9 +68,11 @@ m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Znajdź LLM odpowiadający Twoim potrzebom, przypadkom użycia i danym.
 m24-home-can-ai-be = Czy AI może być godna zaufania?
+m24-home-in-a-world = W świecie, w którym innowacjami w dziedzinie AI kieruje garstka wybranych, ryzykujemy monopolizację tej technologii. Zastosowanie koncepcji open source w AI mogłoby to zmienić.
 m24-home-watch-now = Obejrzyj teraz
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice = Podaruj swój głos
 
 ## Media Springboard
 
