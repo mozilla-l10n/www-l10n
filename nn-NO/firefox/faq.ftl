@@ -26,6 +26,7 @@ how-do-i = Korleis lastar eg ned { -brand-name-firefox-browser }?
 
 you-can-easily = Du kan enkelt laste ned nettlesaren { -brand-name-firefox } <a href="{ $url }">her</a>. { -brand-name-firefox } fungerer på <a href="{ $url2 }">{ -brand-name-windows }</a>, <a href="{ $url3 }">{ -brand-name-mac-short }</a> og <a href="{ $url4 }">{ -brand-name-linux }</a> einingar og er også tilgjengeleg for <a href="{ $url5 }">{ -brand-name-android } og { -brand-name-ios }</a>. Pass på at du lastar ned nettlesaren vår frå ei av dei pålitelege  { -brand-name-mozilla }/{ -brand-name-firefox }-sidene våre.
 is-firefox-free = Er { -brand-name-firefox } gratis?
+yep-the-firefox-browser-is-free = Ja! { -brand-name-firefox-browser } er gratis. Heilt gratis, faktisk. Ingen skjulte kostnadar eller noko. Du betaler ingenting for å bruke han.
 related-questions-free = Liknande spørsmål: er { -brand-name-firefox-browser } gratis, kostar { -brand-name-firefox } pengar
 is-chrome-better = Er { -brand-name-chrome } betre enn { -brand-name-firefox }?
 no-we-dont = Nei, vi synest ikkje at { -brand-name-chrome } er betre enn { -brand-name-firefox } og grunnen til det er: når folk spør kva for nettlesar som er best, spør dei eigentleg kva nettlesar som er raskast og sikrast. { -brand-name-firefox } vert oppdatert kvar månad for å passe på at du har den raskaste nettlesaren som respekterer personvernet ditt automatisk.
