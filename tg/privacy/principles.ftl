@@ -17,6 +17,7 @@ privacy-principles-manage-user-data-we-collect = маълумоти корбар
 privacy-principles-select-and-interact-with = шариконро интихоб мекунем ва бо онҳо ҳамкорӣ менамоем
 privacy-principles-shape-our-public-policy = сиёсати иҷтимоӣ ва кори таблиғотии худро ташаккул медиҳем
 privacy-principles-no-surprises = Бе ягон тааҷҷуб
+privacy-principles-use-and-share-information = Мо маълумоти шахсиро ба тарзе истифода ва мубодила мекунем, ки амалҳои мо ҳамеша шаффоф мебошанд ва ба корбар фоида мерасонанд.
 privacy-principles-user-control = Корбар идора мекунад
 privacy-principles-limited-data = Маълумоти маҳдуд
 privacy-principles-sensible-settings = Танзимоти хирадманд

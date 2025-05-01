@@ -7,6 +7,7 @@
 
 # HTML page title and main title
 vpn-ip-address-what-is-an-ip-address = Нишонии «IP» чӣ аст?
+vpn-ip-address-if-you-look-up-your = Агар шумо нишонии «IP»-и худро ҷустуҷӯ кунед, он тақрибан чунин ба назар мерасад.
 vpn-ip-address-does-it-travel = Оё он шуморо ҳамроҳӣ мекунад?
 vpn-ip-address-does-your-ip = Оё нишонии IP-и шумо тағйир меёбад?
 vpn-ip-address-can-we-run = Оё онҳо метавонанд ба анҷом расонанд?
