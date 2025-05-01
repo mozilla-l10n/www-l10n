@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 privacy-principles-data-privacy-principles = Принсипҳои махфияти маълумот
+# HTML page description
+privacy-principles-mozilla-is-an-open-source = «{ -brand-name-mozilla }» -ин лоиҳаи манбаи кушод аст, ки ҳадафи он беҳтар кардани таҷрибаи шумо дар саросари Интернет мебошад. Ин ғоя нерӯи асосии амалҳои мо дар самти ҳифзи махфияти шумо ба шумор меравад.
 privacy-principles-no-surprises = Бе ягон тааҷҷуб
 privacy-principles-user-control = Корбар идора мекунад
 privacy-principles-limited-data = Маълумоти маҳдуд
