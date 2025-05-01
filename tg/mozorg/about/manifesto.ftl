@@ -7,6 +7,9 @@
 
 # HTML page title
 manifesto-the-mozilla-manifesto = Санади асосии «{ -brand-name-mozilla }»
+# HTML page description
+manifesto-these-are-the-principles = Инҳо принсипҳои асосие мебошанд, ки вазифаи моро дар пешбурди арзишҳои кушодагӣ, шаффофият, навоварӣ ва имкониятҳо дар шабакаи ҷаҳонӣ роҳнамоӣ мекунанд.
+manifesto-the-internet-is-an-integral = Интернет қисми ҷудонашавандаи зиндагии муосир аст — унсури калидӣ дар маориф, муошират, ҳамкорӣ, тиҷорат, фароғат ва ҳаёти иҷтимоӣ дар маҷмуъ.
 manifesto-principle-1 = Қоидаи асосии 1
 manifesto-principle-2 = Қоидаи асосии 2
 manifesto-principle-3 = Қоидаи асосии 3
