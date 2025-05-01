@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
+switch-switch-from-chrome = Аз браузери «{ -brand-name-chrome }» ба браузери «{ -brand-name-firefox }» ҳамагӣ дар якчанд дақиқа гузаред
+switch-select-what-to-take = Интихоб кунед, ки кадом маълумотро мехоҳед аз браузери «{ -brand-name-chrome }» ба браузери нав интиқол диҳед.
 switch-let-firefox-do-the-rest = Бигзор «{ -brand-name-firefox }» боқимондаро иҷро кунад.
 switch-switch-to-firefox = Гузариш ба «{ -brand-name-firefox }»
 switch-still-not-convinced = Шумо то ҳол боварӣ надоред, ки гузариш ба истифодаи браузери  «{ -brand-name-firefox }» осон аст?
