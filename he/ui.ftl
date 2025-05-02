@@ -22,6 +22,7 @@ ui-show-less = הצגת פחות
 ui-show-all = הצגת הכל
 ui-hide-all = הסתרת הכל
 ui-learn-more = מידע נוסף
+ui-view = הצגה
 ui-pause-animation = השהיית הנפשה
 ui-play-animation = הפעלת הנפשה
 # An accessible label used to describe the purpose of a cross-promotional page element.
