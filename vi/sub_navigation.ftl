@@ -14,6 +14,7 @@ sub-navigation-ios = { -brand-name-ios }
 sub-navigation-desktop-beta-and-developer = { -brand-name-beta } & { -brand-name-developer-edition } dành cho máy tính để bàn
 sub-navigation-desktop-nightly = { -brand-name-nightly } dành cho máy tính để bàn
 sub-navigation-features = Tính năng
+sub-navigation-more = Thêm
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64-bit
