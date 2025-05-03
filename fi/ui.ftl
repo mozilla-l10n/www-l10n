@@ -14,6 +14,8 @@ ui-watch-the-video = Katso video
 ui-replay = Toista uudelleen
 ui-share = Jaa
 ui-menu = Valikko
+# Short for Table of Contents
+ui-contents = Sisältö
 ui-please-turn-on-javascript = Aseta JavaScript päälle nähdäksesi sivun oikein.
 ui-show-more = Näytä enemmän
 ui-show-less = Näytä vähemmän
