@@ -11,6 +11,7 @@ misinformation-what-is-heading = Маълумоти нодуруст чист? �
 misinformation-false-info-heading = Маълумоти бардурӯғ дар куҷо пайдо мешавад?
 misinformation-look-at-url = Ба нишонии «URL» ва/ё манбаи мавод нигаред.
 misinformation-overly-sensational = Оё сарлавҳа аз ҳад зиёд ҳангомадор аст?
+misinformation-content-up-to-date = Оё муҳтаво ба ҳолати кунунӣ мутобиқ аст?
 misinformation-images-captions = Оё тасвирҳо ва сарлавҳаҳо мувофиқат мекунанд?
 misinformation-how-firefox-helps-heading = Чӣ тавр «{ -brand-name-firefox }» ба шумо барои карорагирии маълумоти нодуруст кумак мекунад
 misinformation-why-trust-firefox = Чаро «{ -brand-name-firefox }» боэътимод мебошад?
