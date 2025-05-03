@@ -30,3 +30,4 @@ mobile-android-about-mozilla = Дар бораи «{ -brand-name-mozilla }»
 mobile-android-short-cut-the-internet = Ба фазои Интернет тавассути браузери «{ -brand-name-firefox }» барои «{ -brand-name-android }» якбора дароед
 mobile-android-see-all-your-open-tabs = Бо браузери «{ -brand-name-firefox }» барои «{ -brand-name-android }» ҳамаи варақаҳои кушодашуда, ҷустуҷӯҳои охирин ва сомонаҳои дӯстдоштаи худро дар як ҷой аз назар гузаронед.
 mobile-android-own-your-home = Соҳиби экрани асосии худ шавед
+mobile-android-get-to-the-parts = Ба қисматҳои муҳими Интернет зудтар дастрасӣ пайдо кунед. Ҳамаи варақаҳои кушодашуда, ҷустуҷӯҳои охирин, хатбаракҳо ва сомонаҳои дӯстдоштаи худро дар як ҷой аз назар гузаронед — ба ихтиёри худ.
