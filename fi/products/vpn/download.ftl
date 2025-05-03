@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = Valitettavasti { -brand-name-mozilla-vpn
 vpn-download-for-windows-v2 = VPN { -brand-name-windows }ille
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (vain 64-bit)
 vpn-download-for-windows-long = Lataa { -brand-name-mozilla-vpn } { -brand-name-windows }ille
+vpn-download-for-firefox-extension = Asenna { -brand-name-firefox }-laajennus
 vpn-download-for-mac = VPN { -brand-name-mac-short }ille
 vpn-download-for-mac-long = Lataa { -brand-name-mozilla-vpn } { -brand-name-mac-short }ille
 # Variables:

@@ -35,7 +35,11 @@ vpn-launch-the-app = 2. Käynnistä sovellus
 vpn-login-or-signup = 3. Kirjaudu sisään tai rekisteröidy
 vpn-enter-your-email = Kirjoita sähköpostiosoitteesi kirjautuaksesi sisään tai rekisteröityäksesi ja aloittaaksesi
 vpn-turn-on-vpn = 4. Ota VPN käyttöön
+vpn-install-firefox-extension = 5. Asenna { -brand-name-firefox }-laajennus
 vpn-pick-a-recommended = Valitse suositeltu sijainti nopeaa ja vakaata yhteyttä varten tai valitse haluamasi sijainti itse ja kytke sitten VPN-yhteys päälle
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = <a href="{ $extension }">Lataa ja asenna laajennus</a> asettaaksesi sivustokohtaisia ohituksia ja valitaksesi eri sijainteja eri verkkosivustoille.
 
 ## FAQ Strings
 

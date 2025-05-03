@@ -26,6 +26,7 @@ how-do-i = Miten { -brand-name-firefox-browser } on mahdollista saada?
 
 you-can-easily = Voit ladata { -brand-name-firefox }in työpöytäversion <a href="{ $url }">täältä.</a> { -brand-name-firefox } toimii <a href="{ $url2 }">{ -brand-name-windows }illa,</a> <a href="{ $url3 }">{ -brand-name-mac-short }illa</a> ja <a href="{ $url4 }">{ -brand-name-linux }illa</a>, ja se on saatavana myös <a href="{ $url5 }">{ -brand-name-android }ille ja { -brand-name-ios }:lle.</a> Varmista, että lataat selaimemme joltain luotetuista { -brand-name-mozilla }/{ -brand-name-firefox }-sivuistamme.
 is-firefox-free = Onko { -brand-name-firefox } ilmainen?
+yep-the-firefox-browser-is-free = Kyllä! { -brand-name-firefox-browser } on ilmainen. Itse asiassa todella ilmainen. Se ei sisällä piilokuluja. Et maksa mitään sen käytöstä.
 related-questions-free = Aiheeseen liittyviä kysymyksiä: onko { -brand-name-firefox-browser } ilmainen, maksaako { -brand-name-firefox }
 is-chrome-better = Onko { -brand-name-chrome } parempi kuin { -brand-name-firefox }?
 no-we-dont = Ei, emme usko, että { -brand-name-chrome } on parempi kuin { -brand-name-firefox }, ja tässä syy: kun ihmiset kysyvät, mikä selain on parempi, he todella kysyvät, mikä selain on nopeampi ja turvallisempi. { -brand-name-firefox } päivitetään kuukausittain, jotta sinulla olisi nopein selain, joka kunnioittaa automaattisesti yksityisyyttäsi.
