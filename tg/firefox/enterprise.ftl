@@ -27,6 +27,9 @@ firefox-enterprise-deployment-guide = Дастур барои рушду так�
 firefox-enterprise-policy-documentation = Ҳуҷҷатҳо барои сиёсатмадорӣ
 firefox-enterprise-release-notes = Қайдҳои нашр
 firefox-enterprise-documentation-and-community = Ҳуҷҷатгузорӣ ва дастгирии ҷомеа
+# Variables:
+#   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
+firefox-enterprise-sample-plist-for-configuration = Намунаи <a href="{ $url }">файли рӯйхати хусусиятҳо (plist) барои профили танзимот</a>
 firefox-enterprise-pkg-installer = Насбкунандаи «PKG»
 firefox-enterprise-windows-32-bit = { -brand-name-windows } 32-бит
 # Variables:

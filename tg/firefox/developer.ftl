@@ -71,3 +71,5 @@ firefox-developer-mdn-references = Иқтибосҳо аз «{ -brand-name-mdn }
 firefox-developer-mdn-curriculum = Нақшаи таълимии «{ -brand-name-mdn }»
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
+firefox-developer-support-mdn-and = Лоиҳаи «{ -brand-name-mdn }»-ро дастгирӣ кунед ва онро бо маҷмуаҳо, огоҳномаҳо ва майдончаҳои таҷрибавӣ барои худ созед.
