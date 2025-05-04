@@ -18,6 +18,7 @@ features-index-firefox-browser-sync = Amtawi n yiminig n { -brand-name-firefox }
 features-index-bookmark-manager = Amsefrak n tecraḍ
 features-index-organize-your-bookmarks-with = Suddes ticraḍ-ik n yisebtar s yikaramen d tebzimin.
 features-index-private-browsing-mode = Askar n tunigin tusligt
+features-index-firefox-add-ons-and-browser-extensions = Izegrar d yiseɣẓanen n tunigin { -brand-name-firefox }
 features-index-pdf-editor = Amaẓrag n PDF
 features-index-translate-the-web = Suqel web
 features-index-picture-in-picture = Tugna-deg-tugna
