@@ -33,3 +33,11 @@ newsletter-form-thanks = תודה!
 newsletter-form-leave-this-field-empty = יש להשאיר שדה זה ריק.
 newsletter-form-yes = כן
 newsletter-form-no = לא
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = טופס הרשמה לרשימת דיוור
+multi-newsletter-form-checkboxes-legend = אני רוצה מידע על:
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = נא לסמן לפחות אחת מאפשרויות רשימת הדיוור.
+multi-newsletter-form-title = לאהוב את האינטרנט
+multi-newsletter-form-desc = קבלו את רשימות הדיוור של { -brand-name-mozilla } ועזרו לנו לשמור על האינטרנט פתוח וחינמי.
