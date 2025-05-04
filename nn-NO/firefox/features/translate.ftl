@@ -8,7 +8,10 @@
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Omset ei nettside med { -brand-name-firefox }
 features-translate-translate-the-web = Omset nettet
+# HTML page description
+features-translate-firefox-translations-is-a-built-in-v2 = { -brand-name-firefox-translations } er ein innebygd omsetjingsfunksjon som lèt deg enkelt surfe på nettet på det føretrekte språket ditt. Lær meir om korleis denne funksjonen i { -brand-name-firefox } fungerer, og korleis { -brand-name-mozilla } bidreg til å halde det du omset privat.
 features-translate-one-of-the-best-things-about = Noko av det beste med internett er at vi kan få tilgang til innhald frå heile verda. Same om det er nyheitsartiklar, bloggar, eller til og med ei vurdering av den siste duppeditten din, kan du finne alt på det tilsynelatande uendelege nettet. Med { -brand-name-firefox } sin siste omsettingsfunksjon, vil dette verktyet kontinuerleg omsette ei nettside i sanntid.
+features-translate-while-other-browsers-rely-on-v2 = Medan andre nettlesarar er avhengige av skytenester, blir språkmodellane for { -brand-name-firefox-translations }-omsettinga lasta ned til nettlesaren til brukaren, og omsettingane blir gjorde lokalt, slik at { -brand-name-mozilla } ikkje registrerer kva for nettsider du omset.
 features-translate-when-you-translate-a-webpage = Når du omset ei nettside blir ho verande privat.
 features-translate-when-your-translations-are = Når omsettingane dine vert behandla lokalt, forlèt ingen data frå vald eining, eininga di, eller er avhengig av sky-tenester for omsetting. Det tyder at { -brand-name-mozilla } ikkje veit kva for nettside du omset og gjer at omsettingsfunksjonen vår skil seg ut, samanlikna med andre omsettingsverktøy.
 features-translate-what-languages-are-currently = Kva for språk er for tida støtta?
