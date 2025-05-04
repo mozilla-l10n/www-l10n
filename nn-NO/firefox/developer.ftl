@@ -80,6 +80,7 @@ firefox-developer-developer-tools-user = Dokumentasjon for utviklarverktøy
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resursar for utviklarar, av utviklarar
 firefox-developer-mdn-playground = Testområde
+firefox-developer-mdn-write-test-and-share = Skriv, test og del koden din. Eit testområde for å lære, og å dele det fantastiske arbeidet ditt med verda.
 firefox-developer-mdn-blog = { -brand-name-mdn }-blogg
 firefox-developer-mdn-unlock-the-world = Lås opp ei verd av nettutvikling med { -brand-name-mdn }-bloggen – hovudpunktet ditt for ekspertinnsikt, nyaste nettstandardar og kodingstips.
 firefox-developer-mdn-updates = Oppdateringar

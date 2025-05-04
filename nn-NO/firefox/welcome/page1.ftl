@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
+# HTML page title
+welcome-page1-more-than-a-browser-mozilla = Meir enn berre ein nettlesar - { -brand-name-mozilla-monitor } beskyttar deg mot hackarar
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Ta neste steg for å beskytte personvernet ditt på nettet med { -brand-name-firefox }-familien av produkt.
 welcome-page1-youve-got-the-web-browser = Du har allereie nettlesaren som tek vare på personvernet ditt. Neste steg: Hald eit auge med datalekkasjar og hackarar.

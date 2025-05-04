@@ -19,3 +19,6 @@ features-translate-what-languages-are-currently = Kva for språk er for tida st�
 features-translate-the-languages-below-are-what-v2 = Språka nedanfor er for tida støtta av funksjonen { -brand-name-firefox-translations }:
 features-translate-and-more-languages-are-in = Og fleire språk er under utvikling!
 features-translate-firefox-speaks-your-language = { -brand-name-firefox } snakkar ditt språk
+# Variables:
+#   $download (url) = link to https://www.mozilla.org/firefox/new/
+features-translate-the-firefox-translations-feature-v2 = Funksjonen { -brand-name-firefox-translations } er ein annan måte som { -brand-name-mozilla } held ditt internett personleg og meir privat. { -brand-name-mozilla } sporar ikkje kva for nettstadar du omset. Med millionar av brukarar over heile verda vil { -brand-name-mozilla } sjå til at dei som brukar { -brand-name-firefox } lærer seg, kommuniserer, deler og held seg informert på sine eigne villkår. <a { $download }>Kom i gang på ditt føretrekte språk ved å laste ned { -brand-name-firefox }.</a>
