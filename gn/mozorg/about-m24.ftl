@@ -57,6 +57,7 @@ m24-about-alt-drinking-coffee = { -brand-name-mozilla } mba’apohára ho’úvo
 # Used as an accessible text alternative for an image
 m24-about-alt-collaborating = { -brand-name-mozilla } mba’apohára ñopytyvõme.
 m24-about-join-us-and = Eike orendive ha ehechauka ambue mba’e
+m24-about-join-our-team = Eike ore atýpe ha eg̃uahẽ yvateve eipotahápe, eheja’ỹre umi mba’e hecharamovéva.
 m24-about-see-open-positions = Ehecha mba’aporã nandíva
 
 ## Community
