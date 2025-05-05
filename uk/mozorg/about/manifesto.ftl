@@ -40,8 +40,10 @@ manifesto-we-are-committed-to-thinking = Ми виступаємо за інте
 manifesto-we-are-committed-to-diverse = Ми виступаємо за інтернет, який сприяє співпраці між різними громадами заради спільного блага.
 manifesto-show-your-support = Підтримати
 manifesto-an-internet-with-these = Інтернет не може змінитися сам по собі. Ці характеристики повинні бути вбудовані в інтернет-технології та у досвід користування інтернетом. Маніфест { -brand-name-mozilla } та Додаток до маніфесту свідчать про готовність { -brand-name-mozilla } сприяти просуванню цих якостей. Ми прагнемо співпраці з людьми та організаціями, які поділяють наші принципи, щоб разом зробити інтернет кращим.
+manifesto-i-support-the-vision-of-v2 = Я - за кращий, здоровий інтернет разом з { -brand-name-mozilla }, а ти - з нами?
 # obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Я - за кращий, здоровий інтернет разом з @mozilla, а ти - з нами?
+manifesto-share-on-bluesky = Поділитися на Bluesky
 manifesto-our-10-principles = <strong>Наші 10</strong> Принципів
 manifesto-read-the-entire-manifesto = Перечитайте весь маніфест
 manifesto-details-the-mozilla-manifesto = Маніфест { -brand-name-mozilla }
