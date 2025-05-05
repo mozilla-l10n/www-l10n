@@ -27,6 +27,9 @@ browser-history-by-1993-the-web = То соли 1993 веб ба таври на
 #   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
 browser-history-ncsa-mosaic-ran = «NCSA Mosaic» дар компютерҳое, ки бо низоми амалиётии «{ -brand-name-windows }» кор мекарданд, ба осонӣ истифода мешуд ва ба ҳар шахсе, ки компютер дошт, имкон медод ба саҳифаҳои ибтидоии интернетӣ, утоқҳои суҳбат ва китобхонаҳои тасвирӣ дастрасӣ пайдо кунад. Соли дигар (1994), Андреессен ширкати <a href="{ $netscape }">«{ -brand-name-netscape }»</a>-ро таъсис дод ва браузери «{ -brand-name-netscape } Navigator»-ро барои корбарони байналмилалӣ муаррифӣ кард. Ин як муваффақияти бузург буд ва аввалин браузере гардид, ки барои доираи васеи корбарон пешбинӣ шуда буд. Инчунин, он оғози нахустин рақобати ҷиддӣ дар набард барои корбарони интернет ба шумор мерафт.
 browser-history-the-browser-wars = Ҷангҳои браузерҳо
+# Variables:
+#   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
+browser-history-by-1995-netscape = То соли 1995, «{ -brand-name-netscape } Navigator» дигар танҳо як роҳи пайвастшавӣ ба Интернет набуд. Ширкати бузурги нармафзори компютерӣ «{ -brand-name-microsoft }» рамзи куҳнаи «Mosaic»-ро дар асоси иҷозатнома истифода бурд ва равзанаи худро барои кор бо Интернет — <a href="{ $ie }">«{ -brand-name-ie }»</a> — эҷод намуд. Ин озодсозӣ боиси оғози рақобати шадид шуд. «{ -brand-name-netscape }» ва «{ -brand-name-microsoft }» бо ҷидду ҷаҳд барои таҳияи версияҳои навтари барномаҳои худро кор мекарданд — ҳар яке аз онҳо кӯшиш кард, то бо маҳсулоти тезтар ва беҳтар, бартарӣ пайдо кунад.
 browser-history-browsing-the-web = Аз Интернет имрӯз истифода баред
 browser-history-resources = Манбаъҳо
 browser-history-take-control-of = Браузери худро дар зери назорат гиред.
