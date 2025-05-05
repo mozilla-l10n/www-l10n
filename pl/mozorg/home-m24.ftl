@@ -40,7 +40,9 @@ m24-home-mask-your-email = Ukryj swój adres e-mail i numer telefonu, aby otrzym
 
 ## Donate
 
+m24-home-donate-to-the = Przekaż datek na rzecz { -brand-name-mozilla(case: "gen") }
 m24-home-mozilla-is-building = { -brand-name-mozilla } buduje ruch mający na celu odzyskanie Internetu. Razem możemy zbudować przyszłość, w której nasza prywatność jest chroniona, AI jest godna zaufania, a nieodpowiedzialne firmy technologiczne są pociągane do odpowiedzialności. Ale to jest możliwe tylko wtedy, gdy zrobimy to razem.
+m24-home-were-proudly-nonprofit = Z dumą działamy na zasadach non-profit. Czy przekażesz dziś darowiznę na rzecz { -brand-name-mozilla(case: "gen") }?
 m24-home-donate = Przekaż datek
 
 ## AI gallery

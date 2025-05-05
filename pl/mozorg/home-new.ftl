@@ -27,3 +27,4 @@ home-the-mozilla-project = Projekt { -brand-name-mozilla } został założony w 
 home-eventually-the-open = Z czasem projekt open source { -brand-name-mozilla } przekształcił się w niezwykle popularną pierwszą wersję { -brand-name-firefox(case: "gen") }.
 home-today-mozilla-continues = Obecnie { -brand-name-mozilla } kontynuuje swoje działania na rzecz lepszego Internetu, skupiając miliony aktywnych członków społeczności na całym świecie, opowiadających się za etyczną technologią, godną zaufania sztuczną inteligencją i tworzących produkty stawiające na pierwszym miejscu prywatność, które dają ludziom większą władzę.
 home-learn-more-about-mozilla = Dowiedz się więcej o { -brand-name-mozilla(case: "loc") }
+home-mofo-donate-to-mofo-today = Przekaż darowiznę na rzecz { -brand-name-mozilla-foundation(case: "gen") } już dziś, aby zagwarantować, że internet pozostanie otwarty i dostępny dla wszystkich.
