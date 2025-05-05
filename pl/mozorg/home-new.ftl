@@ -18,6 +18,7 @@ home-product-vpn-trust = VPN, któremu możesz zaufać
 home-cta-get-vpn = Wypróbuj { -brand-name-mozilla-vpn }
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-work-on-ai = Praca { -brand-name-mozilla(case: "gen") } nad sztuczną inteligencją to nie nowość — od lat finansujemy, budujemy i orędujemy za sztuczną inteligencją, która jest otwarta, uczciwa i rozwijana w sposób odpowiedzialny. Skupiamy się na tworzeniu sztucznej inteligencji, która służy ludziom, priorytetowo traktuje przejrzystość i wspiera dobro publiczne, a nie programy korporacyjne.
 home-read-more = Przeczytaj więcej
 home-so-what-is-mozilla = Czym zatem jest { -brand-name-mozilla }?
 home-learn-about-mofo = Poznaj { -brand-name-mozilla-foundation }
