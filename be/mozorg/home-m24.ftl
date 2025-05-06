@@ -26,6 +26,12 @@ m24-home-go-chaosfree-with = Спрасціце сваё жыццё з адно
 m24-home-fakespot = { -brand-name-fakespot }
 m24-home-spot-fake-reviews = Выкрывайце падробленыя водгукі, дрэнныя тавары і ненадзейных прадаўцоў.
 m24-home-pocket = { -brand-name-pocket }
+m24-home-save-the-internets = Захоўвайце найлепшае змесціва інтэрнэту на любой прыладзе — бо ў каго цяпер ёсць час чытаць усё?
+m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-keep-your-location = Трымайце сваё месцазнаходжанне і прыгоды ў сеціве прыватнымі — рабіце стрымы як мясцовы жыхар, паўсюль.
+m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+m24-home-get-a-headsup = Атрымайце папярэджанне, калі ваша асабістая інфармацыя пад пагрозай, і заблакуйце яе як прафесіянал.
+m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
 
