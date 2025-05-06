@@ -14,6 +14,7 @@ sub-navigation-ios = { -brand-name-ios }
 sub-navigation-desktop-beta-and-developer = 데스크톱 { -brand-name-beta }와 { -brand-name-developer-edition }
 sub-navigation-desktop-nightly = 데스크톱 { -brand-name-nightly }
 sub-navigation-features = 기능
+sub-navigation-more = 더보기
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64비트
