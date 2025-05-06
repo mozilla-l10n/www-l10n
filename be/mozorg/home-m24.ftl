@@ -14,6 +14,10 @@ m24-home-learn-about-us = Даведацца пра нас
 
 ## Products
 
+m24-home-love-the-internet = Палюбіце інтэрнэт ізноў
+m24-home-break-free-from = Вызваліцеся ад буйных тэхналагічных кампаній — нашы прадукты даюць вам кантроль над больш бяспечным і прыватным досведам карыстання інтэрнэтам.
+m24-home-explore-our-products = Азнаёміцца з нашымі прадуктамі
+m24-home-firefox = { -brand-name-firefox }
 
 ## Donate
 

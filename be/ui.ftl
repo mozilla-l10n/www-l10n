@@ -21,3 +21,5 @@ ui-show-all = Паказаць усё
 ui-hide-all = Не паказваць нічога
 ui-learn-more = Падрабязней
 ui-view = Прагляд
+ui-pause-animation = Прыпыніць анімацыю
+ui-play-animation = Прайграць анімацыю
