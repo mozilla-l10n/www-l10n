@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = Перепрошуємо, але { -bran
 vpn-download-for-windows-v2 = VPN для { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (тільки 64-бітна)
 vpn-download-for-windows-long = Звантажити { -brand-name-mozilla-vpn } для { -brand-name-windows }
+vpn-download-for-firefox-extension = Установити розширення { -brand-name-firefox }
 vpn-download-for-mac = VPN для { -brand-name-mac-short }
 vpn-download-for-mac-long = Завантажити { -brand-name-mozilla-vpn } для { -brand-name-mac-short }
 # Variables:

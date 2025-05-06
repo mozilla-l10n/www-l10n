@@ -51,6 +51,8 @@ vpn-features-support-for-custom-dns = Підтримка власного DNS
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
 vpn-features-keep-traffic-protected = За допомогою { -brand-name-mozilla-vpn } ви можете захистити свій трафік, використовуючи бажаний DNS-сервер. <a { $dns }>Дізнайтеся більше про підтримку користувацьких DNS-серверів</a>.
 vpn-features-flexible = Гнучкість
+vpn-features-webste-specific-vpn = Налаштування VPN для вебсайтів якісно інтегровані в { -brand-name-firefox }
+vpn-features-with-the-mozilla-vpn-extention = За допомогою розширення { -brand-name-mozilla-vpn } для { -brand-name-firefox } (лише для Windows) ви можете налаштувати роботу VPN окремо для кожного вебсайту. Приберіть окремі вебсайти з-під захисту VPN або встановіть бажані розташування серверів для певних сайтів, що забезпечить гнучку і персоналізовану роботу.
 vpn-features-personalized-server = Персоналізовані рекомендації щодо розташування сервера
 vpn-features-well-suggest-which-servers = Ми підкажемо, які сервери поблизу вас забезпечать найшвидше та найнадійніше інтернет-з'єднання.
 vpn-features-personalize-which-apps = Обирайте, які програми захищатимуться VPN
