@@ -26,7 +26,7 @@ firefox-desktop-download-no-shady = Жодних прихованих політ
 firefox-desktop-download-download-options = Параметри завантаження та інші мови
 firefox-desktop-download-browser-support = Підтримка { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do-v2 = Робіть в Інтернеті що завгодно.<br> { -brand-name-firefox-browser } захищає</strong> вас.
+firefox-desktop-download-do-what-you-do-v2 = Робіть в Інтернеті що завгодно.<br> { -brand-name-firefox-browser } <strong>захищає</strong> вас.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Робіть в Інтернеті що завгодно.<br> { -brand-name-firefox-browser } <strong>не</strong> стежить.
 firefox-desktop-download-we-block-the-ad = Ми блокуємо елементи стеження оголошень. Ви швидше переглядаєте в Інтернеті.

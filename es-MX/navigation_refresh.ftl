@@ -11,7 +11,6 @@ navigation-refresh-close-about-us-menu = Cerrar menú acerca de nosotros
 navigation-refresh-mozilla-manifesto = Manifiesto { -brand-name-mozilla }
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Involúcrate
-navigation-refresh-innovation-projects = Proyectos de innovación
 navigation-refresh-blog = Blog
 
 ## Firefox

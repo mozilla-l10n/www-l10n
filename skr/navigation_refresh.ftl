@@ -11,7 +11,6 @@ navigation-refresh-close-about-us-menu = تعارف مینیو بند کرو
 navigation-refresh-mozilla-manifesto = { -brand-name-mozilla } دا منشور
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = نال رلت کرو
-navigation-refresh-innovation-projects = اختراعی منصوبے
 navigation-refresh-blog = بلاگ
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
