@@ -36,6 +36,15 @@ navigation-refresh-firefox-for-ios = { -brand-name-firefox } для { -brand-nam
 navigation-refresh-firefox-focus = { -brand-name-firefox-focus }
 navigation-refresh-firefox-relay = { -brand-name-firefox-relay }
 navigation-refresh-all-products = Усе прадукты
+navigation-refresh-firefox-blog = Блог { -brand-name-firefox }
 
 ## Products
 
+navigation-refresh-products = Прадукты
+navigation-refresh-close-products-menu = Закрыць меню «Прадукты»
+navigation-refresh-mozilla-monitor-v2 = { -brand-name-mozilla-monitor }
+navigation-refresh-pocket = { -brand-name-pocket }
+navigation-refresh-mozilla-vpn-v2 = { -brand-name-mozilla-vpn }
+navigation-refresh-mdn-plus = { -brand-name-mdn-plus }
+navigation-refresh-fakespot = { -brand-name-fakespot }
+navigation-refresh-thunderbird = { -brand-name-thunderbird }
