@@ -14,6 +14,7 @@ sub-navigation-ios = { -brand-name-ios }
 sub-navigation-desktop-beta-and-developer = { -brand-name-beta } та { -brand-name-developer-edition } для комп'ютерів
 sub-navigation-desktop-nightly = { -brand-name-nightly } для комп'ютерів
 sub-navigation-features = Можливості
+sub-navigation-more = Більше
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64-розрядна
