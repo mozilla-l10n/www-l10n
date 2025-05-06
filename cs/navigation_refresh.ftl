@@ -23,7 +23,7 @@ navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = Reklama v { -brand-name-mozilla(case: "loc") }
-navigation-refresh-mozilla-new-products = Nové produkty { -brand-name-mozilla(case: "gen") }
+navigation-refresh-mozilla-new-products = Nové produkty od { -brand-name-mozilla(case: "gen") }
 
 ## Firefox
 
