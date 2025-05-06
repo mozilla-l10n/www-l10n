@@ -30,6 +30,9 @@ browser-history-the-browser-wars = Ҷангҳои браузерҳо
 # Variables:
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = То соли 1995, «{ -brand-name-netscape } Navigator» дигар танҳо як роҳи пайвастшавӣ ба Интернет набуд. Ширкати бузурги нармафзори компютерӣ «{ -brand-name-microsoft }» рамзи куҳнаи «Mosaic»-ро дар асоси иҷозатнома истифода бурд ва равзанаи худро барои кор бо Интернет — <a href="{ $ie }">«{ -brand-name-ie }»</a> — эҷод намуд. Ин озодсозӣ боиси оғози рақобати шадид шуд. «{ -brand-name-netscape }» ва «{ -brand-name-microsoft }» бо ҷидду ҷаҳд барои таҳияи версияҳои навтари барномаҳои худро кор мекарданд — ҳар яке аз онҳо кӯшиш кард, то бо маҳсулоти тезтар ва беҳтар, бартарӣ пайдо кунад.
+# Variables:
+#   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
+browser-history-netscape-created = «{ -brand-name-netscape }» забони барномасозии «JavaScript»-ро эҷод ва нашр кард, ки ба сомонаҳо қобилиятҳои ҳисоббарории пуриқтидорро таъмин кард — чизе, ки қаблан дастнорас буд. (Онҳо, инчунин, барчаспҳои машҳури «<a href="{ $blink }"><blink></a>»-ро низ муаррифӣ карданд.) Дар посух, «{ -brand-name-microsoft }» ҷадвалҳои «Cascading Style Sheets (CSS)»-ро муаррифӣ намуд, ки ба стандарти тарҳрезии саҳифаҳои веб табдил ёфт.
 browser-history-browsing-the-web = Аз Интернет имрӯз истифода баред
 browser-history-resources = Манбаъҳо
 browser-history-take-control-of = Браузери худро дар зери назорат гиред.
