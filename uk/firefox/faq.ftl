@@ -15,6 +15,7 @@ what-is-firefox = Що таке { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+the-firefox-browser-the-only = { -brand-name-firefox-browser } — єдиний великий браузер, що підтримується некомерційною організацією і допомагає вам захистити вашу особисту інформацію. Дізнайтеся більше про <a href="{ $url }">{ -brand-name-firefox-browsers }</a> та <a href="{ $url2 }">інші продукти.</a>
 how-do-i = Як отримати { -brand-name-firefox-browser }?
 
 # Variables:
@@ -26,6 +27,7 @@ how-do-i = Як отримати { -brand-name-firefox-browser }?
 
 you-can-easily = Ви можете легко завантажити браузер { -brand-name-firefox } <a href="{ $url }">звідси.</a> { -brand-name-firefox } працює на пристроях з <a href="{ $url2 }">{ -brand-name-windows }, </a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> і <a href="{ $url4 }">{ -brand-name-linux }</a>, а також доступний для<a href="{ $url5 }">{ -brand-name-android } та { -brand-name-ios } . </a> Переконайтеся, що ви завантажуєте наш браузер з однієї з наших надійних сторінок { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = { -brand-name-firefox } безплатний?
+yep-the-firefox-browser-is-free = Так! { -brand-name-firefox-browser } безплатний. Насправді надзвичайно безплатний. Жодних прихованих платежів чи чогось такого. Ви нічого не платите за користування ним.
 related-questions-free = Пов’язані питання: { -brand-name-firefox-browser } безплатний, чи коштує { -brand-name-firefox } грошей
 is-chrome-better = Чи є { -brand-name-chrome } кращим за { -brand-name-firefox }?
 no-we-dont = Ні, ми не вважаємо, що { -brand-name-chrome } кращий за { -brand-name-firefox }, і ось чому: коли люди запитують, який браузер кращий, вони справді запитують, який браузер швидший і безпечніший. { -brand-name-firefox } оновлюється щомісяця, щоб бути певними, що у вас є найшвидший браузер, який автоматично поважає вашу приватність.
