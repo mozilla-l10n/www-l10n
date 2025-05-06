@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/
 
+# HTML Page title
+m24-home-page-title = Інтэрнэт для людзей, а не для прыбытку — { -brand-name-mozilla }
 
 ## Intro
 
@@ -18,6 +20,12 @@ m24-home-love-the-internet = Палюбіце інтэрнэт ізноў
 m24-home-break-free-from = Вызваліцеся ад буйных тэхналагічных кампаній — нашы прадукты даюць вам кантроль над больш бяспечным і прыватным досведам карыстання інтэрнэтам.
 m24-home-explore-our-products = Азнаёміцца з нашымі прадуктамі
 m24-home-firefox = { -brand-name-firefox }
+m24-home-get-the-gold = Атрымайце залаты стандарт для аглядання з хуткасцю, прыватнасцю і адказнасцю.
+m24-home-thunderbird = { -brand-name-thunderbird }
+m24-home-go-chaosfree-with = Спрасціце сваё жыццё з адной праграмай для электроннай пошты, календароў і кантактаў.
+m24-home-fakespot = { -brand-name-fakespot }
+m24-home-spot-fake-reviews = Выкрывайце падробленыя водгукі, дрэнныя тавары і ненадзейных прадаўцоў.
+m24-home-pocket = { -brand-name-pocket }
 
 ## Donate
 
