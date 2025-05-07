@@ -18,6 +18,7 @@ browsers-chromebook-dropdown-copy = { -brand-name-chromebook } için { -brand-na
 browsers-chromebook-why-get-firefox = { -brand-name-chromebook } için neden <span>{ -brand-name-firefox }</span>’u indirmelisiniz?
 browsers-chromebook-while-a-chromebook = { -brand-name-chromebook }’ta halihazırda { -brand-name-chrome } yüklü olsa da { -brand-name-firefox }’u indirip kullanmak size birkaç avantaj sağlar:
 browsers-chromebook-is-it-hard = { -brand-name-firefox } için { -brand-name-chromebook }’u yüklemek zor mu?
+browsers-chromebook-we-wish-it = Keşke daha kolay olsaydı, ama { -brand-name-chromebook } cihazınız sizi { -brand-name-google-play } ekosisteminde tutmayı tercih ediyor. Ancak { -brand-name-firefox } tarayıcısını { -brand-name-chromebook } cihazınıza yüklemek için uğraştığınıza değecek. İhtiyacınız olursa size yardımcı olacak kaynaklarımız da var. { -brand-name-firefox }’u cihazınıza yüklemenin iki yolu bulunuyor.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
