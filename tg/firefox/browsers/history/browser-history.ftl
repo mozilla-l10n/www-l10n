@@ -33,6 +33,9 @@ browser-history-by-1995-netscape = То соли 1995, «{ -brand-name-netscape 
 # Variables:
 #   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = «{ -brand-name-netscape }» забони барномасозии «JavaScript»-ро эҷод ва нашр кард, ки ба сомонаҳо қобилиятҳои ҳисоббарории пуриқтидорро таъмин кард — чизе, ки қаблан дастнорас буд. (Онҳо, инчунин, барчаспҳои машҳури «<a href="{ $blink }"><blink></a>»-ро низ муаррифӣ карданд.) Дар посух, «{ -brand-name-microsoft }» ҷадвалҳои «Cascading Style Sheets (CSS)»-ро муаррифӣ намуд, ки ба стандарти тарҳрезии саҳифаҳои веб табдил ёфт.
+# Variables:
+#   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
+browser-history-things-got-a-little = Дар соли 1997, вақте ки «{ -brand-name-microsoft }» версияи 4.0-и «{ -brand-name-ie }»-ро нашр кард. Гурӯҳи корӣ ҳарфи азими «e»-ро сохт ва онро пинҳонӣ дар майдони алафзори қароргоҳи марказии «{ -brand-name-netscape }» гузоштанд. Дастаи «{ -brand-name-netscape }» зуд вокуниш нишон дод — онҳо ба ҳарфи азимҷуссаи «e» зарба заданд ва <a href="{ $dino }">тилисми динозаврии «{ -brand-name-mozilla }»-и худро болои он гузоштанд</a>.
 browser-history-browsing-the-web = Аз Интернет имрӯз истифода баред
 browser-history-resources = Манбаъҳо
 browser-history-take-control-of = Браузери худро дар зери назорат гиред.
