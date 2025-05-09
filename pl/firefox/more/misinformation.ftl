@@ -8,10 +8,16 @@
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = Unikaj dezinformacji w Internecie – { -brand-name-firefox } jest tutaj, aby pomóc
 misinformation-page-subheading = Dowiedz się, jak ograniczyć dezinformację i skupić się na tym, co dla Ciebie ważne
+misinformation-what-is-heading = Czym jest dezinformacja celowa? Czym jest dezinformacja niezamierzona?
+misinformation-false-info-heading = Gdzie pojawiają się fałszywe informacje?
 misinformation-spot-online-heading = Jak rozpoznawać fałszywe informacje w Internecie i pomóc powstrzymać ich rozprzestrzenianie
+misinformation-look-at-url = Sprawdź adres URL i/lub źródło.
 misinformation-overly-sensational = Czy nagłówek nie jest przesadnie sensacyjny?
 misinformation-content-up-to-date = Czy treść jest aktualna?
+misinformation-outdated-information = Nieaktualne informacje niekoniecznie mają na celu dezinformację, ale mogą nie być już zgodne z faktami.
 misinformation-images-captions = Czy obrazy i podpisy pasują do siebie?
+misinformation-images-are-powerful = Obrazy są bardzo skutecznym narzędziem ukierunkowanej dezinformacji. W zależności od podpisu, percepcja może zostać przekręcona w kierunku absolutnego przeciwieństwa. Jeśli nie jesteś pewien, wykonaj odwrotne wyszukiwanie obrazów, aby dowiedzieć się, jak obraz jest opisany na innych stronach.
+misinformation-how-firefox-helps-heading = W jaki sposób { -brand-name-firefox } pomaga unikać dezinformacji
 misinformation-social-media-clean-heading = { -brand-name-firefox } pomaga utrzymać czystość Twoich kanałów społecznościowych:
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/

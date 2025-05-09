@@ -28,7 +28,11 @@ contribute-mission-desc = Nasza misją jest dopilnowanie, aby Internet pozostał
 contribute-learn = Poznaj { -brand-name-mozilla(case: "acc") }
 contribute-read-manifesto = Przeczytaj nasz manifest
 contribute-find-event = Znajdź wydarzenie
+contribute-meet-volunteers = Poznaj naszych pełnych pasji wolontariuszy
+contribute-donate = Przekaż datek
 contribute-help-fund = Pomóż sfinansować naszą misję
+contribute-follow-mozilla = Obserwuj { -brand-name-mozilla(case: "gen") }
+contribute-opportunities = Aktualności i możliwości wolontariatu
 
 ## Made by
 
