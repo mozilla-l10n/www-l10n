@@ -33,6 +33,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = ເຄື່ອງມື
 footer-refresh-donate = ບໍລິຈາກ
+footer-refresh-visit-mozilla-corporations = ເຂົ້າໄປເບິ່ງ <a { $moco_link }>{ -brand-name-mozilla-corporation }'s</a> non-for-profit parent, the <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-websites-privacy-notice = ປະກາດຄວາມເປັນສ່ວນຕົວຂອງເວັບໄຊທ໌
 footer-refresh-websites-cookies = ຄຸກກີ້
 footer-refresh-websites-legal = ຂໍ້ກົດຫມາຍ

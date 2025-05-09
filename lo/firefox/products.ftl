@@ -57,4 +57,5 @@ firefox-products-analyze = ວິເຄາະ URL
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content-v2 = ຄົ້ນພົບເນື້ອຫາທີ່ດີທີ່ສຸດໃນເວັບ — ແລະ ບໍລິໂພກມັນຢູ່ໃສ ແລະ ທຸກເວລາທີ່ທ່ານຕ້ອງການ. ສ້າງໂດຍ { -brand-name-mozilla }.
 firefox-products-get-pocket = ເອົາ { -brand-name-pocket }
