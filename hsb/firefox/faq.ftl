@@ -26,6 +26,7 @@ how-do-i = Kak móžu sej { -brand-name-firefox-browser } wobstarać?
 
 you-can-easily = Móžeće desktopowy wobhladowak { -brand-name-firefox } <a href="{ $url }">tu</a> lochko sćahnyć. { -brand-name-firefox } na gratach <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> a <a href="{ $url4 }">{ -brand-name-linux }</a> funguje, a je tež za <a href="{ $url5 }">{ -brand-name-android } a { -brand-name-ios } k dispoziciji.</a> Zawěsćće, zo naš wobhladowak wot jedneje z našich dowěry hódnych stronow { -brand-name-mozilla }/{ -brand-name-firefox } sćahujeće.
 is-firefox-free = Je { -brand-name-firefox } darmotny?
+yep-the-firefox-browser-is-free = Haj! { -brand-name-firefox-browser } je darmotny. Samo wjace hač darmotny. Žane schowane košty abo tak. Njetrjebaće ničo płaćić, zo byšće jón wužiwał.
 related-questions-free = Podobne prašenja: Je { -brand-name-firefox-browser } darmotny, płaći { -brand-name-firefox } pjenjezy
 is-chrome-better = Je { -brand-name-chrome } lěpši hač { -brand-name-firefox }?
 no-we-dont = Ně, njemyslimy sej, zo { -brand-name-chrome } je lěpši hač { -brand-name-firefox } a tole je přičina: Hdyž ludźo so prašeja, kotry wobhladowak je lěpši, prašeja so poprawom, kotry wobhladowak je spěšniši a wěsćiši. { -brand-name-firefox } so kóždy měsac aktualizuje, zo byšće zawěsćił, zo maće najspěšniši wobhladowak, kotryž wašu priwatnosć awtomatisce respektuje.
