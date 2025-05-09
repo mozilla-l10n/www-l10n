@@ -14,6 +14,7 @@ vpn-when-to-use-2-in-the = 2, Wu susodstwje
 vpn-when-to-use-3-on-the = 3. Po puću
 vpn-when-to-use-4-home-away = 4. Druha domizna
 vpn-when-to-use-5-in-your = 5. Doma
+vpn-when-to-use-because-your-internet = Dokelž so waš internetny wobchad doma přez wašeho internetneho poskićowarja – krótko ISP – do a wot wašich gratow pohibuje, móže widźeć, hdźež online dźeće. ISP móže widźeć, kotre sydła wopytujeće, kak dołho sće na nich, waše stejnišćo a informacije wo wašich gratach. ISP snano dla koděrowanja podrobnosće wo tym njewidźi, štož sće na tych sydłach činił (na přikład nakupować, pytać abo čitać), ale móhł na zakładźe tych sydłow wo was konkluzije ćahnyć, kotrež sće wopytał. Tute wosobinske daty dadźa so wot ISP wužiwać, zo byšće so podrobne profile wo was załožili. Hdyž w priwatnym modusu přehladujeće, njezadźěwa tomu, zo ISP widźa, hdźež online dźeće. Ale hdyž swój webowy wobchad přez VPN sćeleće, so to jara poćežuje.
 vpn-when-to-use-make-sure-you = Zawěsćće so, zo rozumiće, štož VPN nječini
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, dowěryhódna VPN-słužba
 # Variables
