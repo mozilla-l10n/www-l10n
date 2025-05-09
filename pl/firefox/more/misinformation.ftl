@@ -7,6 +7,7 @@
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = Unikaj dezinformacji w Internecie – { -brand-name-firefox } jest tutaj, aby pomóc
+misinformation-page-subheading = Dowiedz się, jak ograniczyć dezinformację i skupić się na tym, co dla Ciebie ważne
 misinformation-spot-online-heading = Jak rozpoznawać fałszywe informacje w Internecie i pomóc powstrzymać ich rozprzestrzenianie
 misinformation-overly-sensational = Czy nagłówek nie jest przesadnie sensacyjny?
 misinformation-content-up-to-date = Czy treść jest aktualna?
