@@ -17,6 +17,8 @@ m24-home-page-desc-v2 = Pracujemy nad tym, aby kontrola nad Internetem wróciła
 m24-home-welcome-to-mozilla = Witamy w { -brand-name-mozilla(case: "loc") }
 m24-home-from-trustworthy-tech = Od godnych zaufania rozwiązań technologicznych po zasady chroniące Twoje prawa cyfrowe — zawsze stawiamy Cię na pierwszym miejscu.
 m24-home-learn-about-us = Poznaj Mozillę
+# Used as accessible text alternative for image
+m24-home-alt-flag = Stylizowana zielona flaga na czarnym tle, zbudowana z litery „M” jak { -brand-name-mozilla } oraz piksela przesuniętego tak, aby nawiązywać do oryginalnego logo przedstawiającego dinozaura.
 
 ## Products
 
@@ -98,10 +100,14 @@ m24-home-kids-are-growing = Dzieci dorastają w bardzo internetowym świecie. Co
 m24-home-rise25-awards = Nagrody { -brand-name-rise25 }
 m24-home-get-to-know = Poznaj liderów promujących godny zaufania, inkluzywny i przejrzysty rozwój sztucznej inteligencji, którzy wyznaczają nowe standardy i inspirują kolejne pokolenie innowatorów.
 m24-home-watch-the-award = Obejrzyj galę wręczenia nagród
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = Abstrakcyjna grafika pikselowa w odcieniach zieleni, pomarańczy i różu
 m24-home-read-the-report = Przeczytaj raport
 
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-pni = Urządzenia inteligentne z ikoną ostrzegawczą.
 m24-home-explore-issues-shaping = Poznaj problemy kształtujące przyszłość Internetu
 m24-home-privacy-not-included = *Prywatność do nabycia osobno
 m24-home-search-our-reviews = Przejrzyj nasze recenzje, aby dowiedzieć się, które gadżety technologiczne i aplikacje dyskretnie wykradają Twoje dane.
