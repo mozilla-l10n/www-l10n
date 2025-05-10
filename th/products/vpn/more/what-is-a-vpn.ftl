@@ -7,3 +7,4 @@
 
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = VPN คืออะไร?
+vpn-what-is-how-do-vpns = VPN ทำงานอย่างไร?
