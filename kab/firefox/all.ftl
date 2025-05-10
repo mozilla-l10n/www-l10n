@@ -8,6 +8,8 @@
 firefox-all-choose-browser = Fren iminig akken ad tkemmleḍ
 firefox-all-choose-platform = Fren tiɣerɣert akken ad tkemmleḍ
 firefox-all-choose-language = Fren tutlayt akken ad tkemmleḍ
+firefox-all-change-browser = Fren afaris nniḍen
+firefox-all-change-platform = Fren tiɣerɣert nniḍen
 firefox-all-change-language = Fren tutlayt-nniḍen
 # Used as an accessible label for an image that points down
 firefox-all-down-arrow = Fren seg tebdart-a ddaw-a

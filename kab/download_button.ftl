@@ -26,3 +26,7 @@ download-firefox-esr-64 = Sader { -brand-name-firefox-esr } 64-yibiten
 
 ## Linux
 
+download-button-linux-32-v2 = Zdem i Linux 32-ibiten
+download-button-linux-64-v2 = Zdem i Linux 64-ibiten
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Awi-t-id sɣur Microsoft

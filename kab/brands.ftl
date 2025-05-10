@@ -93,6 +93,8 @@
 -brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
+-brand-name-solo-ai = Solo AI
+-brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-festival = Mozilla Festival
@@ -100,6 +102,7 @@
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account = Amiḍan n Mozilla
 -brand-name-mozilla-accounts = Imiḍanen n Mozilla
+-brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
