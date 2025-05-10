@@ -28,5 +28,9 @@ download-firefox-esr-64 = Sader { -brand-name-firefox-esr } 64-yibiten
 
 download-button-linux-32-v2 = Zdem i Linux 32-ibiten
 download-button-linux-64-v2 = Zdem i Linux 64-ibiten
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Tesseqdaceḍ Debian, Ubuntu neɣ kra n uzuzer n Linux yebnan ɣef Debian?<br> Tzemreḍ ad tesbeddeḍ <a { $attrs }>akufi-nneɣ n APT</a>.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Awi-t-id sɣur Microsoft

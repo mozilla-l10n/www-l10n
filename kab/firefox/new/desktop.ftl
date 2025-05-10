@@ -16,6 +16,7 @@ firefox-desktop-download-og-title = Sader-d { -brand-name-firefox } arurad i leb
 firefox-desktop-download-og-desc = Asali n usebter arurad, drus n tkatut n useqdec yerna yeččur d timahilin, { -brand-name-firefox } amaynut dagi.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Awi iminig ara yemmestnen ayen yesεan azal
+firefox-desktop-download-fast-reliable-private = D arurad, d anaflas, d uslig — i talwit n uqeṛruy deg Internet.
 firefox-desktop-download-download-options = Sader iɣewwaṛen d tutlayin-nniḍen
 firefox-desktop-download-browser-support = Asefrek { -brand-name-firefox-browser }
 # Obsolete string (expires: 2025-04-17)
@@ -107,6 +108,8 @@ firefox-desktop-download-now-else = Tura fakk <strong>asali</strong> n { -brand-
 firefox-desktop-download-now-windows = Tura <strong>selkem</strong> amsebdad i d-tsuliḍ kan akka tura.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Tura <strong>ldi</strong> afaylu i d-tsuliḍ kan akka tura.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Fren taxtiṛt n <strong>wezdam</strong> ddaw-a
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Tesεuḍ ugur? <a { $attrs }>Awi tallalt i usebded-inek·inem</a>.
