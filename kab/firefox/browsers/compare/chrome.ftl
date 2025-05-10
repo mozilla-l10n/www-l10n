@@ -7,3 +7,4 @@
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
+compare-chrome-google-runs-the-worlds-largest = Google yesseday aẓeṭṭa n udellel meqqren akk deg umaḍal, ma d Chrome izeddi deg waya.
