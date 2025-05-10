@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/ (Global locales)
 
 home-read-more = Ɣeṛ ugar
+home-learn-more-about-mozilla = Issin ugar ɣef { -brand-name-mozilla }

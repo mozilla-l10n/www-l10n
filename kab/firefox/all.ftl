@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Zdem-d { -brand-name-firefox } s Teqbaylit d wugar n 90 tutlayin-nniḍen
 firefox-all-choose-browser = Fren iminig akken ad tkemmleḍ
 firefox-all-choose-platform = Fren tiɣerɣert akken ad tkemmleḍ
 firefox-all-choose-language = Fren tutlayt akken ad tkemmleḍ
@@ -37,7 +39,7 @@ firefox-all-check-the-system-requirements = Wali ayen ilaqen deg unagraw-ik
 firefox-all-release-notes = Iwenniten n lqem
 firefox-all-source-code = Tangalt aɣbalu
 firefox-all-need-help = Tesriḍ tallelt?
-firefox-all-choose-which-firefox = Fren anwa { -brand-name-firefox-browser } ara d-tsidreḍ deg tutlayt-ik
+firefox-all-choose-which-firefox = Fren anwa { -brand-name-firefox-browser } i tebɣiḍ ad tesidreḍ s tutlayt-ik⋅im
 firefox-all-firefox-privacy-notice = Tasertit tabaḍnit n { -brand-name-firefox }
 firefox-all-learn-about-firefox = Lmed ugar ɣef yiminigen { -brand-name-firefox }
 firefox-all-the-standard-firefox = Iminig n tziɣet { -brand-name-firefox } — d arurad u diɣ d aɣelsan. Ma yella ur tessineḍ ara ad tferneḍ, awi wagi.
