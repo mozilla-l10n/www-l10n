@@ -7,6 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Zdem-d { -brand-name-firefox } s Teqbaylit d wugar n 90 tutlayin-nniḍen
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Imdanen akk uklalen adduf ɣer Internet — tutlayt-ik⋅im ur ilaq ara ad tili d aɛewwiq. Ɣef waya — s tallalt n kra n yiwiziwen deg umaḍal s umata — nerra-d { -brand-name-firefox } yella s wugar n 90 n tutlayin.
 firefox-all-choose-browser = Fren iminig akken ad tkemmleḍ
 firefox-all-choose-platform = Fren tiɣerɣert akken ad tkemmleḍ
 firefox-all-choose-language = Fren tutlayt akken ad tkemmleḍ

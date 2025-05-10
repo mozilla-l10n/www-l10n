@@ -5,6 +5,7 @@
 newsletter-form-please-enter-a-valid = Ma ulac aɣilif, sekcem tansa imayl tameɣtut
 newsletter-form-you-must-agree-to = YEssefk ad tqebleḍ tasertit tabaḍnit
 newsletter-form-your-email-address = Tansa-inek imayl
+newsletter-form-please-select-language = Fren tutlayt, ma ulac aɣilif
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Fren tamnaḍt neγ tamurt
