@@ -15,15 +15,20 @@ m24-home-page-desc-v2 = Dźěłamy na tym, kontrolu nad internetom do rukow lud�
 ## Intro
 
 m24-home-welcome-to-mozilla = Witajće k { -brand-name-mozilla }
+m24-home-from-trustworthy-tech = Wot dowěryhódnych technologijow do prawidłow, kotrež waše digitalne prawa škitaja, stajamy was na prěnje městno – přeco.
 m24-home-learn-about-us = Zhońće wjace wo nas
 
 ## Products
 
 m24-home-love-the-internet = Lubujće internet znowa
+m24-home-break-free-from = Wuswobodźće so wot wulkich technologijowych předewzaćow – naše produkty wam kontrolu nad wěsćišim, priwatnišim internetnym dožiwjenjom dawaće.
 m24-home-explore-our-products = Wuslědźće naše produkty
 m24-home-firefox = { -brand-name-firefox }
+m24-home-get-the-gold = Dóstańće złotowy standard za přehladowanje ze spěšnosću, priwatnosću a kontrolu.
 m24-home-thunderbird = { -brand-name-thunderbird }
+m24-home-go-chaosfree-with = Zjednorće swoje žiwjenje z jednym nałoženjom za wšě swoje mejlki, protyki a kontakty.
 m24-home-fakespot = { -brand-name-fakespot }
+m24-home-spot-fake-reviews = Wotkryjće sfalšowane pohódnoćenja, špatne produkty a dowěry njehódnych předawarjow.
 m24-home-pocket = { -brand-name-pocket }
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
