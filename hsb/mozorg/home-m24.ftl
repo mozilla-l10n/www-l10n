@@ -34,6 +34,7 @@ m24-home-save-the-internets = Składujće najlěpši internetny wobsah na kóžd
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-keep-your-location = Dźeržće swoje stejnišćo a dyrdomdeje priwatne – prudźće kaž by to lokalne było, wšudźe.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+m24-home-get-a-headsup = Bjerće so na kedźbu, jeli waše wosobinske informacije su wohrožene a škitajće je kaž profi.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Maskěrujće swoju e-mejlowu adresu a swoje telefonowe čisło, zo byšće jenož te powěsće dóstał, kotrež chceće.
 
@@ -102,6 +103,7 @@ m24-home-read-the-report = Čitajće rozprawu
 
 # Used as an accessible text alternative for an image
 m24-home-alt-pni = Inteligentne graty z warnowanskim symbolom.
+m24-home-explore-issues-shaping = Wuslědźće problemy, zo byšće přichod interneta tworił
 m24-home-privacy-not-included = *Priwatnosć njeje zapřijata
 m24-home-pni-search-now = Nětko pytać
 # Used as an accessible text alternative for an image
