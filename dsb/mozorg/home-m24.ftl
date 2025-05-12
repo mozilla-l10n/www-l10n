@@ -32,13 +32,16 @@ m24-home-spot-fake-reviews = Namakajśo sfalšowane pógódnośenja, špatne pro
 m24-home-pocket = { -brand-name-pocket }
 m24-home-save-the-internets = Składujśo nejlěpše internetne wopśimjeśe na kuždem rěźe – pśeto: Chto ma chylu wšykno něnto cytaś?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-keep-your-location = Źaržćo swójo stojnišćo a dyrdakojstwa online priwatne – streamujśo ako by to lokalne było, wšuźi.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+m24-home-get-a-headsup = Glědajśo se, jolic waše wósobinske informacije su wobgrozone a šćitajśo je ako profi.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Maskěrujśo swóju e-mailowu adresu a swój telefonowy numer, aby jano te powěsćo dostał, kótarež cośo.
 
 ## Donate
 
 m24-home-donate-to-the = Pósććo za wšě wužytnej organizaciji { -brand-name-mozilla }
+m24-home-mozilla-is-building = { -brand-name-mozilla } gibanje twóri, aby internet slědk dobył. Gromaźe móžomy pśichod napóraś, źož se naša priwatnosć šćita, KI jo dowěry gódna a njezagronite pśedewześa technologije zagronite cynje. Ale to jo jano móžne, jolic to gromaźe cynimy.
 m24-home-were-proudly-nonprofit = Smy z gjardosću za wše wužytne. Pósćiwaśo źinsa na { -brand-name-mozilla }?
 m24-home-donate = Pósćiś
 
