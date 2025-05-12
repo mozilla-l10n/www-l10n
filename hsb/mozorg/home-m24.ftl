@@ -92,6 +92,8 @@ m24-home-topic-news = Nowinki
 m24-home-topic-ai = Kumštna inteligenca
 m24-home-topic-ps = Priwatnosć a wěstota
 m24-home-headline-you-ai-v2 = Wy, KI a internet – što so woprawdźe stawa?
+m24-home-introducing-anonym = Předstajamy { -brand-name-anonym }: Předewzamy sej wysoke zaměry za digitalne wabjenje, kotrež priwatnosć škita.
+m24-home-keeping-genai-technologies = Je zhromadna zamołwitosć, technologije GenKI wěste dźeržeć.
 
 ## Showcase
 
