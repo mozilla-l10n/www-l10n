@@ -96,6 +96,7 @@ m24-home-headline-you-ai-v2 = Wy, KI a internet – što so woprawdźe stawa?
 ## Showcase
 
 m24-home-rise25-awards = Myta { -brand-name-rise25 }
+m24-home-get-to-know = Zeznajće so z nawodami, kotřiž so za dowěry hódne, inkluziwne a transparentne wuwiwanje KI angažuja, dokelž su nowy standard stajili a přichodnu generaciju pućrubarjow inspiruja.
 m24-home-watch-the-award = Wobhladajće sej spožčenje myta
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-proud = Hordy nošer myta na { -brand-name-rise25 }.
