@@ -63,6 +63,7 @@ m24-home-alt-builders = Twarcy
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = Twarcy { -brand-name-mozilla }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+m24-home-builders-helps-independent = Builders njewotwisnym wuwiwarjam pomha, transformatiwne projekty KI wotewrjeneho žórła z na to přiměrjenym zhromadnym dźěłom, programowanjom a zhromadźenstwom wutworić.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } njewotwisnym wuwiwarjam pomha, transformatiwne projekty KI wotewrjeneho žórła z na to přiměrjenym zhromadnym dźěłom, programowanjom a zhromadźenstwom wutworić.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }.
