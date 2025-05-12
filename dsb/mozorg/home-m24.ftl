@@ -125,4 +125,5 @@ m24-home-pni-search-now = Něnto pytaś
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, host Podcast IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = Naš wěcej raz mytowany podcast stwóriśelow změnow pśedstaja, kótarež na tom źěłaju, internet wěsćejšy a KI wěcej dowěry gódnu cyniś.
 m24-home-irl-listen-now = Słuchajśo něnto
