@@ -9,6 +9,7 @@ footer-refresh-mozilla-advertising = Wabjenje { -brand-name-mozilla }
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
 footer-refresh-learn-more-about-mozilla-advertising = Zhońće wjace <span>wo { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Wersijowe informacije { -brand-name-firefox }
+footer-refresh-privacy-first = Wabjenske rozrisanja za marki, wudawaćelow a platformy, kotrež priwatnosć na prěnje městno stajeja.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
