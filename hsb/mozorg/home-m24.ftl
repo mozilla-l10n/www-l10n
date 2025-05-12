@@ -96,6 +96,7 @@ m24-home-introducing-anonym = Předstajamy { -brand-name-anonym }: Předewzamy s
 m24-home-keeping-genai-technologies = Je zhromadna zamołwitosć, technologije GenKI wěste dźeržeć.
 m24-home-from-hollywood-to = Wot Hollywooda do hiphopa, wuměłcy dojednanje KI wujednawaja.
 m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } pućrubarskich twórcow w nowej dokumentarnej seriji “{ -brand-name-firefox } Presents” swjeći.
+m24-home-big-techs-power = Móc wulkich technologijow nad rěču móc nad ludźimi woznamjenja. Bridget Tood k nawodam rěčnych zhromadźenstwow rěči, kotřiž puć za KI hłosow w swojich rěčach a dialektach runaja.
 
 ## Showcase
 
