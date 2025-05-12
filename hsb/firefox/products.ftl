@@ -38,16 +38,19 @@ firefox-products-get-relay = Wobstarajće sej { -brand-name-firefox-relay }
 ## VPN
 
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Přehladujće, streamujće a sčińće dźěło na serwerach we wjace hač 30 krajach za wěsty internetny zwisk z nowej perspektiwu.
 firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstarać
 
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Resursy za wuwiwarjow, wot wuwiwarjow. Podpěrajće { -brand-name-mdn } a přiswojće sej ze zběrkami, zdźělenkami a hrajkanišćemi.
 firefox-products-support-mdn = Pomoc { -brand-name-mdn }
 
 ## Thunderbird
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = Mějće přistup k swojej e-mejli, protykam a kontaktam w jednym spěšnym nałoženju. Filtrujće a rjadujće je na wašnje, kotrež wam spodoba.
 firefox-products-download-thunderbird = Sćehńće { -brand-name-thunderbird }
 
 ## Fakespot
