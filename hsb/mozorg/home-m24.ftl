@@ -54,7 +54,7 @@ m24-home-tag-event = Podawk
 m24-home-read-more = Čitajće wjace
 m24-home-get-started = Prěnje kroki
 m24-home-join-the-movement = Přidružće so hibanju:<br> KI za ludźi
-m24-home-our-mission-is = Naše misija je, ludźom wosnadnić, dowěry hódnu KI wotewrjeneho žórła sobu wuwiwać a na njej sobu dźěłać.
+m24-home-our-mission-is = Naša misija je, ludźom wosnadnić, dowěry hódnu KI wotewrjeneho žórła sobu wuwiwać a na njej sobu dźěłać.
 # Used as an accessible text alternative for an image
 m24-home-alt-solo-ai-logo = Logo { -brand-name-solo-ai }
 m24-home-solo-ai = { -brand-name-solo-ai }
