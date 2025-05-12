@@ -24,9 +24,13 @@ m24-home-love-the-internet = Lubujśo internet znowego
 m24-home-break-free-from = Wulichujśo se wót wjelikich pśedewześow technologije – naše produkty wam kontrolu nad wěsćejšym, priwatnjejšym internetnym dožywjenim dawaśo.
 m24-home-explore-our-products = Wuslěźćo naše produkty
 m24-home-firefox = { -brand-name-firefox }
+m24-home-get-the-gold = Dostańśo złotowy standard za pśeglědowanje z malsnosću, priwatnosću a kontrolu.
 m24-home-thunderbird = { -brand-name-thunderbird }
+m24-home-go-chaosfree-with = Zjadnoŕśo swójo žywjenje z jadnym nałoženim za wšykne swóje mejlki, kalendarje a kontakty.
 m24-home-fakespot = { -brand-name-fakespot }
+m24-home-spot-fake-reviews = Namakajśo sfalšowane pógódnośenja, špatne produkty a dowěry njegódnych pśedawarjow.
 m24-home-pocket = { -brand-name-pocket }
+m24-home-save-the-internets = Składujśo nejlěpše internetne wopśimjeśe na kuždem rěźe – pśeto: Chto ma chylu wšykno něnto cytaś?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-firefox-relay = { -brand-name-firefox-relay }
@@ -97,6 +101,7 @@ m24-home-read-the-report = Cytajśo rozpšawu
 
 # Used as an accessible text alternative for an image
 m24-home-alt-pni = Inteligentne rědy z warnowańskim symbolom.
+m24-home-explore-issues-shaping = Wuslěźćo problemy, aby pśichod interneta twórił
 m24-home-privacy-not-included = *Priwatnosć njejo zapśimjona
 m24-home-pni-search-now = Něnto pytaś
 # Used as an accessible text alternative for an image
