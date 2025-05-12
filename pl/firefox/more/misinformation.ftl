@@ -11,6 +11,7 @@ misinformation-page-desc = Dezinformacja jest irytująca, rozpraszająca i koszt
 misinformation-page-subheading = Dowiedz się, jak ograniczyć dezinformację i skupić się na tym, co dla Ciebie ważne
 misinformation-what-is-heading = Czym jest dezinformacja celowa? Czym jest dezinformacja niezamierzona?
 misinformation-false-info-heading = Gdzie pojawiają się fałszywe informacje?
+misinformation-tracking-advertising = Być może słyszałeś o śledzeniu głównie w kontekście reklamy. Jest to jednak również potężne narzędzie, jeśli chodzi o rozprzestrzenianie fałszywych informacji. Dlaczego? Kiedy przeglądasz internet lub swój kanał społecznościowy, Twoje zachowanie, zainteresowania, czasem nawet kontakty i inne dane są zbierane przez różne podmioty na wielu stronach internetowych w celu stworzenia niezwykle szczegółowego profilu, który można sprzedać innym bez Twojej wiedzy lub zgody. Profile te są wykorzystywane do dostarczania spersonalizowanych reklam, ale mogą również służyć do prezentowania dowolnego rodzaju ukierunkowanych informacji.
 misinformation-spot-online-heading = Jak rozpoznawać fałszywe informacje w Internecie i pomóc powstrzymać ich rozprzestrzenianie
 misinformation-look-at-url = Sprawdź adres URL i/lub źródło.
 misinformation-overly-sensational = Czy nagłówek nie jest przesadnie sensacyjny?

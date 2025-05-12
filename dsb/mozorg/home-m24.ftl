@@ -15,11 +15,13 @@ m24-home-page-desc-v2 = Źěłamy na tom, kontrolu nad internetom do rukow luźi
 ## Intro
 
 m24-home-welcome-to-mozilla = Witajśo k { -brand-name-mozilla }
+m24-home-from-trustworthy-tech = Wót dowěry gódnych technologijow do pšawidłow, kótarež waše digitalne pšawa šćitaju, stajamy was na prědne městno – pśecej.
 m24-home-learn-about-us = Zgóńśo wěcej wó nas
 
 ## Products
 
 m24-home-love-the-internet = Lubujśo internet znowego
+m24-home-break-free-from = Wulichujśo se wót wjelikich pśedewześow technologije – naše produkty wam kontrolu nad wěsćejšym, priwatnjejšym internetnym dožywjenim dawaśo.
 m24-home-explore-our-products = Wuslěźćo naše produkty
 m24-home-firefox = { -brand-name-firefox }
 m24-home-thunderbird = { -brand-name-thunderbird }
