@@ -12,5 +12,5 @@ windows-64-bit-64-bit = 64-бит
 windows-64-bit-a-more-secure-firefox = Браузери «{ -brand-name-firefox }» бехатартар аст.
 windows-64-bit-whats-the-difference = Низоми 32-бит аз 64-бит чӣ фарқ мекунад?
 windows-64-bit-how-do-you-get-64 = Шумо чӣ тавр браузери «{ -brand-name-firefox }»-и 64-битро ба даст меоред?
-windows-64-bit-take-control-of-your = Браузери худро дар зери назорат гиред.
+windows-64-bit-take-control-of-your = Браузери худро дар зери назорати ҷиддӣ истифода баред.
 windows-64-bit-download-firefox = Боргирӣ кардани браузери «{ -brand-name-firefox }» барои низоми амалкунандаи «Windows» 64-бит
