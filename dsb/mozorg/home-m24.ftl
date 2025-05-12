@@ -62,6 +62,8 @@ m24-home-alt-builders = Twaŕce
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = Twaŕce { -brand-name-mozilla }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+m24-home-builders-helps-independent = Builders njewótwisnym wuwijarjam pomaga, transformatiwne projekty KI wótwórjonego žrědła z na to pśiměrjonym zgromadnym źěłom, programěrowanim a zgromaźeństwom napóraś.
+m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } njewótwisnym wuwijarjam pomaga, transformatiwne projekty KI wótwórjonego žrědła z na to pśiměrjonym zgromadnym źěłom, programěrowanim a zgromaźeństwom napóraś.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
@@ -90,6 +92,8 @@ m24-home-topic-news = Nowosći
 m24-home-topic-ai = Kumštna inteligenca
 m24-home-topic-ps = Priwatnosć a wěstota
 m24-home-headline-you-ai-v2 = Wy, KI a internet – co se napšawdu stawa?
+m24-home-introducing-anonym = Pśedstajamy { -brand-name-anonym }: Stajamy se wusoke zaměry za digitalne wabjenje, kótarež priwatnosć šćita.
+m24-home-keeping-genai-technologies = Jo zgromadna zagronitosć, technologije GenKI wěste źaržaś.
 
 ## Showcase
 
