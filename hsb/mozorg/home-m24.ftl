@@ -73,6 +73,7 @@ m24-home-can-ai-be = Móže KI dowěry hódna być?
 m24-home-in-a-world = W swěće, hdźež so inowacija KI wot skupiny wuzwolenych doprědka pohonja, riskěrujemy, zo so tuta technologija monopolizuje. Hdyž so koncepty wotewrjeneho žórła na KI nałožuja, móhło so to změnić.
 m24-home-watch-now = Nětko wobhladać
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-got-an-earlystage = Maće projekt w zažnej fazy? Předstajće { -brand-name-mozilla-ventures } swoje předewzaće a zawěsćće financowanje za pozitiwnu změnu přichoda KI a interneta.
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Darće swój hłós, zo byšće rěčensku technologiju bóle wotewrjenu a přistupnu za wšěch činił.
 m24-home-donate-your-voice = Darće swój hłós
