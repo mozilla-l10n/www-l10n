@@ -94,6 +94,8 @@ m24-home-topic-ps = Priwatnosć a wěstota
 m24-home-headline-you-ai-v2 = Wy, KI a internet – što so woprawdźe stawa?
 m24-home-introducing-anonym = Předstajamy { -brand-name-anonym }: Předewzamy sej wysoke zaměry za digitalne wabjenje, kotrež priwatnosć škita.
 m24-home-keeping-genai-technologies = Je zhromadna zamołwitosć, technologije GenKI wěste dźeržeć.
+m24-home-from-hollywood-to = Wot Hollywooda do hiphopa, wuměłcy dojednanje KI wujednawaja.
+m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } pućrubarskich twórcow w nowej dokumentarnej seriji “{ -brand-name-firefox } Presents” swjeći.
 
 ## Showcase
 
