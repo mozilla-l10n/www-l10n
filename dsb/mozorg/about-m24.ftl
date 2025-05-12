@@ -24,6 +24,7 @@ m24-about-a-group-of = Kupka myslarjow, kótarež w kólasu na špundowanju sej�
 m24-about-advocate = Pśirucaŕ
 m24-about-we-advocate-for = Zasajźujomy se za lěpše produkty, cynimy kněžeŕstwa a technologiske pśedewześa zagronite za to, což napóraju.
 m24-about-research = Slěźenje
+m24-about-we-uncover-insights = Wótekšywamy dowiźenja, pśewjedujomy kampanje, aby produkty pólěpšyli a wuwijamy pšawidła, kótarež waše zajmy reprezentěruju.
 m24-about-build = Wuwijaś
 m24-about-we-build-products = Wuwijamy produkty, kótarež wam kontrolu daju – ako { -brand-name-firefox }, { -brand-name-fakespot } a dalšne.
 m24-about-fund = Financěrowanje
