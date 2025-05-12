@@ -66,9 +66,11 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
+m24-home-find-the-just = Namakajće prawy LLM za waše potrěbnosće, wužiwanski pad a daty.
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Mark Surman, prezident { -brand-name-mozilla }.
 m24-home-can-ai-be = Móže KI dowěry hódna być?
+m24-home-in-a-world = W swěće, hdźež so inowacija KI wot skupiny wuzwolenych doprědka pohonja, riskěrujemy, zo so tuta technologija monopolizuje. Hdyž so koncepty wotewrjeneho žórła na KI nałožuja, móhło so to změnić.
 m24-home-watch-now = Nětko wobhladać
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
