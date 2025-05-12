@@ -7,6 +7,7 @@
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = Unikaj dezinformacji w Internecie – { -brand-name-firefox } jest tutaj, aby pomóc
+misinformation-page-desc = Dezinformacja jest irytująca, rozpraszająca i kosztowna. { -brand-name-firefox } daje kilka wskazówek, jak unikać fałszywych informacji – i rzadziej je widzieć podczas przeglądania sieci.
 misinformation-page-subheading = Dowiedz się, jak ograniczyć dezinformację i skupić się na tym, co dla Ciebie ważne
 misinformation-what-is-heading = Czym jest dezinformacja celowa? Czym jest dezinformacja niezamierzona?
 misinformation-false-info-heading = Gdzie pojawiają się fałszywe informacje?
