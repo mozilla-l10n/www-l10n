@@ -51,7 +51,7 @@ firefox-desktop-download-sync-across-devices = Synchronizacija mjez gratami
 firefox-desktop-download-reader-mode = Čitanski modus
 firefox-desktop-download-spell-check = Prawopisna kontrola
 firefox-desktop-download-pinned-tabs = Připjate rajtarki
-firefox-desktop-download-stream-share-play = Prudźić, dźělić a hrać
+firefox-desktop-download-stream-share-play = Streamować, dźělić a hrać
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Awtomatiske wothrawanje widejow a awdio blokować
 # Picture-in-Picture is a feature names and so is capitalized in English
