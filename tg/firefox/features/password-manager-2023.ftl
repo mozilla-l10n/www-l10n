@@ -7,6 +7,9 @@
 
 # HTML page title
 password-manager-free-password-manager = Мудири ройгон барои идораи ниҳонвожаҳо
+# HTML page description
+password-manager-firefox-password-manager-saves-all = Мудири ниҳонвожаҳои «{ -brand-name-firefox }» ҳамаи ниҳонвожаҳои шуморо дар як ҷой нигоҳ медорад, то шумо тавонед ба сомонаҳо ба таври худкор ворид шавед ё ниҳонвожаҳои нигоҳдошташударо дарёфт кунед.
+password-manager-firefox-securely-stores-your = Браузери «{ -brand-name-firefox }» номҳои корбарон ва ниҳонвожаҳои шуморо барои пайдо кардани дастрасӣ ба сомонаҳо ба таври бехатар нигоҳ медорад, ҳангоми аз нав кушодани сомона, онҳоро барои шумо ба таври худкор пур мекунад ва ба шумо имкон медиҳад, ки воридшавиҳои нигоҳдошташудаи худро бо хусусияти дарунсохти идоракунии ниҳонвожаҳо идора кунед.
 password-manager-password-autofill-for-easy-logins = Барои воридшавиҳои осон ниҳонвожаҳо ба таври худкор пур мешаванд
 password-manager-import-passwords = Ворид кардани ниҳонвожаҳо
 # Used as an accessible text alternative for an image
