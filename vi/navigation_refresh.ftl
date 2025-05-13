@@ -23,6 +23,7 @@ navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = Quảng cáo với { -brand-name-mozilla }
+navigation-refresh-mozilla-new-products = Sản phẩm mới của { -brand-name-mozilla }
 
 ## Firefox
 
