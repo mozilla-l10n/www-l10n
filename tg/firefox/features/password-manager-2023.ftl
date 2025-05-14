@@ -18,6 +18,7 @@ password-manager-firefox-can-automatically-fill-in = Браузери «{ -brand
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = Тасвири шакли воридшавии сомона аз браузери «{ -brand-name-firefox }», ки якчанд ҳисоби нигоҳдошташудаеро нишон медиҳад, ки корбар метавонад ҳангоми воридшавӣ интихоб намояд.
 password-manager-import-passwords = Ворид кардани ниҳонвожаҳо
+password-manager-you-can-use-the-import-wizard = Шумо метавонед барои ба таври осон (афсонавӣ) ворид кардани номҳои корбарон ва ниҳонвожаҳое, ки дар «Chrome», «Edge», «Safari» ё ҳар гуна браузери дигар нигоҳ дошта шудаанд, аз устоди воридот истифода баред. Аз менюи асоси бахши «Ниҳонвожаҳо»-ро интихоб кунед ва сипас дар поёни саҳифаи «Воридшавиҳо ва ниҳонвожаҳо» имкони воридкунии онҳо ба браузери «{ -brand-name-firefox }» зер кунед.
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = Тасвири равзанаи гуфтугӯии устоди воридоти «{ -brand-name-firefox }», ки имконотро барои ворид кардани танзимот ва маълумот аз браузерҳои дигар нишон медиҳад.
 password-manager-no-more-reusing-your-passwords = Ниҳонвожаҳои худро такроран истифода набаред
