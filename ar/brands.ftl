@@ -14,8 +14,8 @@
 -brand-name-google = Google
 -brand-name-microsoft = Microsoft
 -brand-name-mozilla = Mozilla
--brand-name-mozilla-corporation = شركة Mozilla
--brand-name-mozilla-foundation = مؤسّسة Mozilla
+-brand-name-mozilla-corporation = Mozilla Corporation
+-brand-name-mozilla-foundation = Mozilla Foundation
 -brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
 -brand-name-wireguard = WireGuard
@@ -27,23 +27,23 @@
 
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
--brand-name-firefox-browser = متصفّح Firefox
--brand-name-firefox-browsers = مُتصفّحات Firefox
--brand-name-firefox-developer-edition = إصدار Firefox للمطوّرين
--brand-name-firefox-enterprise = Firefox للشركات
+-brand-name-firefox-browser = Firefox Browser
+-brand-name-firefox-browsers = Firefox Browsers
+-brand-name-firefox-developer-edition = Firefox Developer Edition
+-brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
--brand-name-firefox-extended-support-release = إصدار الدعم المُمتد من Firefox
+-brand-name-firefox-extended-support-release = Firefox Extended Support Release
 -brand-name-firefox-focus = Firefox Focus
--brand-name-firefox-nightly = Firefox الليلي
+-brand-name-firefox-nightly = Firefox Nightly
 
 ## Firefox browsers (short names)
 
--brand-name-beta = إصدار تجريبي
--brand-name-developer-edition = إصدار المُطوّرين
--brand-name-enterprise = الشركات
+-brand-name-beta = Beta
+-brand-name-developer-edition = Developer Edition
+-brand-name-enterprise = Enterprise
 -brand-name-esr = ESR
 -brand-name-focus = Focus
--brand-name-nightly = الإصدار الليلي
+-brand-name-nightly = Nightly
 
 ## Firefox browsers (legacy)
 
@@ -54,22 +54,22 @@
 ## Firefox products
 
 -brand-name-facebook-container = Facebook Container
--brand-name-firefox-devtools = أدواتFirefox للمطوّرين
+-brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-relay = Firefox Relay
--brand-name-firefox-translations = ترجمات Firefox
+-brand-name-firefox-translations = Firefox Translations
 
 ## Firefox products (short names)
 
--brand-name-devtools = أدوات المطوّرين
+-brand-name-devtools = DevTools
 -brand-name-relay = Relay
 
 ## Firefox products (legacy)
 
--brand-name-firefox-account = حساب Firefox
--brand-name-firefox-accounts = حسابات Firefox
--brand-name-firefox-marketplace = متجر Firefox
--brand-name-firefox-os = نظام تشغيل Firefox
--brand-name-firefox-private-network = شبكة Firefox الخاصة
+-brand-name-firefox-account = Firefox Account
+-brand-name-firefox-accounts = Firefox Accounts
+-brand-name-firefox-marketplace = Firefox Marketplace
+-brand-name-firefox-os = Firefox OS
+-brand-name-firefox-private-network = Firefox Private Network
 
 ## Firefox projects
 
@@ -92,11 +92,11 @@
 -brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
--brand-name-irl-podcast = بودكاست IRL
+-brand-name-irl-podcast = IRL Podcast
 -brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
--brand-name-mozilla-festival = مهرجان Mozilla
+-brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account = حساب Mozilla
@@ -104,7 +104,7 @@
 -brand-name-mozilla-builders = Mozilla Builders
 -brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
--brand-name-mozilla-ventures = مشاريع Mozilla
+-brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
 
