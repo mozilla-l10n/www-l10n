@@ -37,5 +37,6 @@ features-index-firefox-automatically-blocks = Браузери «{ -brand-name-f
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
 features-index-ditch-the-sticky-ads = Ба воситаи абзорҳои манъкунандаи нақши рақамии ангуштони «{ -brand-name-firefox }», рекламаи безоркунандеро, ки шуморо аз ҳар тараф пайгирӣ мекунад, нест кунед.
 features-index-translate-the-web = Тарҷума кардани саҳифаи сомона
+features-index-translate-websites-to-your = Сомонаҳоро ба забони модарии худ бевосита дар браузери «{ -brand-name-firefox }» тарҷума кунед – ва маълумоти шахсии худро бо ҳеҷ касе дигар мубодила накунед.
 features-index-picture-in-picture = Реҷаи «Расм-дар-расм»
 features-index-got-things-to-do = Корҳое доред, ки шумо бояд якбора иҷро ва тамошо кунед? Ҳар ду вазифаро ба воситаи реҷаи «Расм-дар-расм» дар браузери «{ -brand-name-firefox }» ба анҷом расонед.
