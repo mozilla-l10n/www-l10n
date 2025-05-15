@@ -10,3 +10,5 @@ banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: Wobhladowa
 banner-firefox-app-store-mozilla = { -brand-name-mozilla }
 banner-firefox-app-store-free-google-play = Darmotny – w { -brand-name-google-play }
 banner-firefox-app-store-free-app-store = Darmotny – w { -brand-name-app-store }
+# An accessible label used to describe the purpose of the page element.
+banner-firefox-app-store-label = Sćehnjenje z wobchoda nałoženjow
