@@ -22,6 +22,11 @@ misinformation-authors-name = Jeśli znajdujesz nazwisko autora tylko na wątpli
 misinformation-images-captions = Czy obrazy i podpisy pasują do siebie?
 misinformation-images-are-powerful = Obrazy są bardzo skutecznym narzędziem ukierunkowanej dezinformacji. W zależności od podpisu, percepcja może zostać przekręcona w kierunku absolutnego przeciwieństwa. Jeśli nie jesteś pewien, wykonaj odwrotne wyszukiwanie obrazów, aby dowiedzieć się, jak obraz jest opisany na innych stronach.
 misinformation-how-firefox-helps-heading = W jaki sposób { -brand-name-firefox } pomaga unikać dezinformacji
+misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } trzyma skrypty śledzące pod kontrolą:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = Jak wspomniano wcześniej, śledzenie odgrywa dużą rolę w rozprzestrzenianiu się dezinformacji. <a href="{ $firefox }">Korzystanie z przeglądarki { -brand-name-firefox }</a> ze <a href="{ $protection }">wzmocnioną ochroną przed śledzeniem</a> pomaga poprzez domyślne blokowanie elementów śledzących od wielu reklamodawców i innych graczy podczas przeglądania sieci, dzięki czemu odzyskujesz kontrolę nad swoimi danymi online.
 misinformation-social-media-clean-heading = { -brand-name-firefox } pomaga utrzymać czystość Twoich kanałów społecznościowych:
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
