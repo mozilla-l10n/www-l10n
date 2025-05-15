@@ -18,6 +18,7 @@ browsers-chromebook-dropdown-copy = Wobstarajśo se { -brand-name-firefox } za {
 browsers-chromebook-why-get-firefox = Cogodla wobstaraśo se <span>{ -brand-name-firefox }</span> za { -brand-name-chromebook }?
 browsers-chromebook-while-a-chromebook = W { -brand-name-chromebook } jo { -brand-name-chrome } južo pśedinstalěrowany, ale { -brand-name-firefox } ako waš standardny wobglědowak ma hyšći někotare lěpšyny:
 browsers-chromebook-is-it-hard = Jo śěžko { -brand-name-firefox } za { -brand-name-chromebook } instalěrowaś?
+browsers-chromebook-install-firefox-from = Instalěrujśo { -brand-name-firefox } z wobchoda { -brand-name-google-play }: pśi nowšych wersijach { -brand-name-chromeos } (na zakłaźe x86 { -brand-name-chromebook }, kótaryž z { -brand-name-chromeos } 80 abo nowšy běžy), maśo móžnosć, nałoženje  { -brand-name-firefox } za { -brand-name-android } instalěrowaś. Toś to nałoženje jo se wuwiło za mobilne rědy.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes

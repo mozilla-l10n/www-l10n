@@ -15,3 +15,6 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Zgóńśo</a> 
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Ześěgniśo</a>wobglědowak { -brand-name-firefox } za swój mobilny rěd abo desktop
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Pósććo</a> załožbje { -brand-name-mozilla-foundation } a dostańśo internet wót wjelikich technologiskich pśedewześow slědk.
