@@ -27,6 +27,7 @@ firefox-developer-console = Консол
 firefox-developer-track-css = Масъалаҳои гуногунро, ки ба «CSS», «JavaScript», амният ва шабака марбутанд, пайгирӣ намоед.
 firefox-developer-learn-about-web-console = Маълумоти бештар дар бораи «Консоли сомона»
 firefox-developer-debugger = Ислоҳкунанда
+firefox-developer-powerful-javascript = Ислоҳкунандаи пурқуввати «JavaScript» бо дастгирии чорҷӯбаи кории (фреймворки/платформаи) дӯстдоштаи шумо.
 firefox-developer-learn-more-about-debugger = Дар бораи Ислоҳкунандаи хатоҳои «JavaScript» маълумоти бештар гиред
 firefox-developer-network = Шабака
 firefox-developer-monitor-network-requests = Назорат кунед, ки кадом дархостҳои шабакавӣ метавонанд суръати сомонаи шуморо кам кунанд ё онро маҳдуд намоянд.
