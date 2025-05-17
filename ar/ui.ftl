@@ -13,6 +13,8 @@ ui-watch-the-video = شاهد الفيديو
 ui-replay = إعادة تشغيل
 ui-share = مشاركة
 ui-menu = القائمة
+# Short for Table of Contents
+ui-contents = المحتويات
 ui-please-turn-on-javascript = يُرجى تشغيل JavaScript لعرض هذه الصفحة بشكل صحيح.
 ui-show-more = إظهار المزيد
 ui-show-less = إظهار أقل

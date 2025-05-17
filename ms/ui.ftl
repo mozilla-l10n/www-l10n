@@ -13,6 +13,8 @@ ui-watch-the-video = Tonton video
 ui-replay = Main semula
 ui-share = Kongsikan
 ui-menu = Menu
+# Short for Table of Contents
+ui-contents = Kandungan
 ui-please-turn-on-javascript = Sila hidupkan JavaScript untuk pengalaman paparan yang optimum.
 ui-show-more = Tunjukkan Lagi
 ui-show-less = Kurangkan Lagi

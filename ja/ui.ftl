@@ -13,6 +13,8 @@ ui-watch-the-video = 動画を見る
 ui-replay = リプレイ
 ui-share = 共有
 ui-menu = メニュー
+# Short for Table of Contents
+ui-contents = コンテンツ
 ui-please-turn-on-javascript = このページを正しく表示するには、JavaScript を有効にしてください。
 ui-show-more = 展開
 ui-show-less = 折りたたむ
