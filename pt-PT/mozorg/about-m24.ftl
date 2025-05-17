@@ -25,7 +25,7 @@ m24-about-advocate = Ativismo
 m24-about-we-advocate-for = Defendemos a criação de melhores produtos, responsabilizando os governos e as empresas tecnológicas pelo que criam.
 m24-about-research = Investigação
 m24-about-we-uncover-insights = Recolhemos conhecimentos, fazemos campanhas para melhorar produtos e impulsionamos políticas que representam os seus interesses.
-m24-about-build = Construa
+m24-about-build = Construção
 m24-about-we-build-products = Nós construímos produtos que o colocam em controlo — como o { -brand-name-firefox }, { -brand-name-fakespot } e muito mais.
 m24-about-fund = Fundo
 m24-about-we-fund-and = Nós financiamos e investimos nas pessoas e esforços para levar a tecnologia, a Internet e a IA na direção certa.
@@ -45,7 +45,7 @@ m24-about-chicago = Um Empresário baseado em Chiado.
 ## Showcase
 
 m24-about-lets-build-a = Vamos construir um futuro mais válido
-m24-about-see-how-were = Veja como estamos a promover um ambiente online diverso, inclusão e acessível para todos.
+m24-about-see-how-were = Descubra como estamos a promover um ambiente online diversificado, inclusivo e acessível para todas as pessoas.
 m24-about-read-about-our = Leia acerca do nosso compromisso
 
 ## Careers
