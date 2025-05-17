@@ -16,6 +16,7 @@ vpn-landing-whats-a-vpn = VPN คืออะไร?
 vpn-landing-a-virtual-private-network-protects = เครือข่ายส่วนตัวเสมือน (VPN) คือสิ่งที่ช่วยปกป้องการเชื่อมต่ออินเทอร์เน็ตของคุณ โดยปกปิดตำแหน่งของคุณและสิ่งที่คุณทำทางออนไลน์ให้เป็นส่วนตัวยิ่งขึ้นในทุกอุปกรณ์ของคุณ
 vpn-landing-see-all-the-ways-mozilla-vpn = ดูวิธีทั้งหมดที่ { -brand-name-mozilla-vpn } ปกป้องคุณ
 vpn-landing-how-a-vpn-helps-you = VPN ช่วยคุณได้อย่างไร
+vpn-landing-how-a-vpn-helps-you-v2 = { -brand-name-mozilla-vpn } ช่วยคุณได้อย่างไร
 vpn-landing-keeps-your-data-safe = ปกป้องข้อมูลของคุณให้ปลอดภัยบน Wi-Fi สาธารณะ
 vpn-landing-log-in-to-your-bank-or = ให้คุณเข้าสู่ระบบเครือข่ายที่ธนาคารหรือห้องทำงานแพทย์ของคุณจากสนามบิน ร้านกาแฟ หรือที่ไหนก็ได้ ด้วยความสบายใจ
 vpn-landing-blocks-advertisers-from = ปิดกั้นผู้ลงโฆษณาไม่ให้ใช้คุณเป็นเป้าหมาย

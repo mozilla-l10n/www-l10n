@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = ขออภัย { -brand-name-mozilla
 vpn-download-for-windows-v2 = VPN สำหรับ { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64 บิตเท่านั้น)
 vpn-download-for-windows-long = ดาวน์โหลด { -brand-name-mozilla-vpn } สำหรับ { -brand-name-windows }
+vpn-download-for-firefox-extension = ติดตั้งส่วนขยายสำหรับ { -brand-name-firefox }
 vpn-download-for-mac = VPN สำหรับ { -brand-name-mac-short }
 vpn-download-for-mac-long = ดาวน์โหลด { -brand-name-mozilla-vpn } สำหรับ { -brand-name-mac-short }
 # Variables:
