@@ -58,6 +58,10 @@ m24-home-read-more = और पढ़ें
 m24-home-get-started = आरंभ करें
 m24-home-join-the-movement = मुहिम से जुड़ें:<br> AI हो आम लोगों के हित में
 m24-home-our-mission-is = हमारा मिशन है कि ओपन-सोर्स, भरोसेमंद AI से आम लोग आसानी से रिश्ता बनाते हुए इसका उपयोग कर सकें और परस्पर-सहयोग करना भी आसान हो।
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = { -brand-name-solo-ai } लोगो
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = अपनी खुद की वेबसाइट बनाएं और अपना कस्टम डोमेन कनेक्ट करें - एकदम मुफ़्त में
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } बिल्डर
