@@ -12,6 +12,7 @@ pdf-editor-add-text-to-pdfs-v2 = Wobdźěłajće PDF-dataje darmotnje z PDF-edit
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Wobhladajće sej a wobdźěłajće PDF-dataje direktnje w { -brand-name-firefox }.
 pdf-editor-fill-in-forms-online-without = Wupjelńće formulary online, bjeztoho zo byšće je ćišćał a skenował
+pdf-editor-no-more-now-all-you-need-to-do = Ženje wjac! Wšitko, štož dyrbiće nětko činić, je, PDF z { -brand-name-firefox } online wobdźěłać, jón składować a jón wot wašeho ličaka z e-mejlu słać.
 pdf-editor-add-text = Tekst přidać
 pdf-editor-add-drawings-or-your-signature = Přidajće rysowanki (abo swoju signaturu)
 pdf-editor-add-image-with-alt-text = Wobraz z alternatiwnym tekstom přidać
