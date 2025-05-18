@@ -58,6 +58,10 @@ m24-home-read-more = اطَّلِع على المزيد
 m24-home-get-started = لنبدأ
 m24-home-join-the-movement = انضم للحركة:<br>الذكاء الاصطناعي للناس
 m24-home-our-mission-is = مهمتنا هي تسهيل إنشاء تقنيات ذكاء اصطناعي مفتوحة المصدر وموثوقة والتعاون في مثل هذه التقنيات.
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = شعار { -brand-name-solo-ai }
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = أنشئ موقعك الإلكتروني واربط نطاقك المخصّص مجانًا
 m24-home-alt-builders = برنامج Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = مُطوّرو وبُناة { -brand-name-mozilla }
