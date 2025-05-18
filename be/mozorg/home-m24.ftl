@@ -32,9 +32,11 @@ m24-home-keep-your-location = Трымайце сваё месцазнаходж
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Атрымайце папярэджанне, калі ваша асабістая інфармацыя пад пагрозай, і заблакуйце яе як прафесіянал.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
+m24-home-mask-your-email = Замаскіруйце свой адрас электроннай пошты і нумар тэлефона, каб атрымліваць толькі патрэбныя вам паведамленні.
 
 ## Donate
 
+m24-home-donate-to-the = Зрабіць ахвяраванне для некамерцыйнай арганізацыі { -brand-name-mozilla }
 m24-home-donate = Ахвяраваць
 
 ## AI gallery
