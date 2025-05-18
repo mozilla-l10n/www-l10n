@@ -97,7 +97,7 @@ m24-home-introducing-anonym = Předstajamy { -brand-name-anonym }: Předewzamy s
 m24-home-keeping-genai-technologies = Je zhromadna zamołwitosć, technologije GenKI wěste dźeržeć.
 m24-home-from-hollywood-to = Wot Hollywooda do hiphopa, wuměłcy dojednanje KI wujednawaja.
 m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } pućrubarskich twórcow w nowej dokumentarnej seriji “{ -brand-name-firefox } Presents” swjeći.
-m24-home-big-techs-power = Móc wulkich technologijow nad rěču móc nad ludźimi woznamjenja. Bridget Tood k nawodam rěčnych zhromadźenstwow rěči, kotřiž puć za KI hłosow w swojich rěčach a dialektach runaja.
+m24-home-big-techs-power = Móc wulkich technologijow nad rěču móc nad ludźimi woznamjenja. Bridget Tood k nawodam rěčnych<br>zhromadźenstwow rěči, kotřiž puć za KI hłosow w swojich rěčach a dialektach runaja.
 m24-home-why-does-it = Čehodla so tak husto čujemy, kaž bychmy dźěl masoweho eksperimenta KI byli? Što je zamołwite wašnje, zo bychmy nowe technologije testowali? Bridget Todd wuslědźuje, što woznamjenja, zo smy z njewupruwowanymi systemami KI žiwi, kotrež miliony ludźi wobwliwuja, hdyž so do zjawneho žiwjenja dóstawaja.
 m24-home-kids-are-growing = Dźěći w swěće wotrostuja, hdźež je jara wjele online. Što matej jich staršej činić?
 
