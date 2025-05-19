@@ -58,6 +58,10 @@ m24-home-read-more = Baca Lagi
 m24-home-get-started = Mulakan Sekarang
 m24-home-join-the-movement = Sertai pergerakan ini:<br> AI untuk manusia
 m24-home-our-mission-is = Misi kami adalah untuk menjadikannya mudah untuk kita semua membangun, berkolaborasi dengan AI sumber terbuka yang boleh dipercayai.
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = Logo { -brand-name-solo-ai }
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Bangunkan laman web dan padankan nama domain anda secara percuma
 m24-home-alt-builders = Pembina
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders

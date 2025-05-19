@@ -58,6 +58,10 @@ m24-home-read-more = Weiterlesen
 m24-home-get-started = Loslegen
 m24-home-join-the-movement = Werde Teil der Bewegung:<br> KI für das Volk
 m24-home-our-mission-is = Wir wollen den Menschen die Entwicklung und Zusammenarbeit mit vertrauenswürdiger Open-Source-KI erleichtern.
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = { -brand-name-solo-ai }-Logo
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Erstelle deine Website und verbinde deine benutzerdefinierte Domain kostenlos
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
