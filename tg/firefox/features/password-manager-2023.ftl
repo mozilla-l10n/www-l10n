@@ -28,3 +28,9 @@ password-manager-have-firefox-create-a-strong-unique = Ба браузери «{
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-sign-up-form = Тасвири шакли сабти ном дар сомонаи намунавӣ, ки дар он «{ -brand-name-firefox }» ниҳонвожаи қавӣ ва нотакрореро пешниҳод мекунад ва онро барои истифодаи минбаъда ба таври худкор нигоҳ медорад.
 password-manager-password-security-alerts = Огоҳиҳои амниятӣ дар бораи ниҳонвожаҳо
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
+# "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
+password-manager-firefox-alerts-you-if-a-password-has = Браузери «{ -brand-name-firefox }» <a { $attrs }>шуморо огоҳ мекунад, агар ниҳонвожаи шумо ба сабаби рахнаи амниятӣ ошкор шуда бошад</a>, то шумо тавонед онро пеш аз он ки ҳакерҳо, масалан, барои иҷораи мошини «Ламборҷини» бо корти кредитии шумо истифода баранд, иваз намоед.
+# Used as an accessible text alternative for an image
+password-manager-image-of-the-firefox-password-manager = Тасвири мудири ниҳонвожаҳои «{ -brand-name-firefox }» паёми огоҳиро нишон медиҳад: «Ин ниҳонвожа қаблан дар ҳисоби дигар истифода шудааст, ки эҳтимолан дар ҳолати ошкор ё дуздидани маълумоти шумо қарор дошт. Истифодаи як ниҳонвожа барои чанд ҳисоб метавонад ҳамаи онҳоро зери хатар гузорад. Ниҳонвожаро иваз намоед.
