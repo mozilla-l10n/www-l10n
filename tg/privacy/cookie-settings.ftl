@@ -13,6 +13,7 @@ cookie-settings-save-changes = Нигоҳ доштани тағйирот
 cookie-settings-your-cookie-settings-have = Танзимоти кукиҳои шумо навсозӣ карда шудаанд.
 cookie-settings-i-agree = Ман розӣ ҳастам
 cookie-settings-i-do-not-agree = Ман розӣ нестам
+cookie-settings-turn-on-javascript = Лутфан «JavaScript»-ро фаъол созед, то тавонед танзимоти кукиҳои худро навсозӣ кунед.
 
 ## Necessary cookies section
 

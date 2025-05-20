@@ -27,6 +27,7 @@ manifesto-principle-8 = Қоидаи асосии 8
 manifesto-principle-9 = Қоидаи асосии 9
 manifesto-principle-10 = Қоидаи асосии 10
 manifesto-show-your-support = Дастгирии худро нишон диҳед
+manifesto-share-on-bluesky = Дар «Bluesky» мубодила намоед
 manifesto-our-10-principles = <strong>10 қоидаи асосии мо</strong>
 manifesto-read-the-entire-manifesto = Санадҳои асосии моро дар шакли пурра мутолиа намоед
 manifesto-details-the-mozilla-manifesto = Санади асосии «{ -brand-name-mozilla }»
