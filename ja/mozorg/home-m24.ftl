@@ -58,6 +58,10 @@ m24-home-read-more = 詳しく読む
 m24-home-get-started = はじめる
 m24-home-join-the-movement = 運動に参加しましょう:<br>人々のための AI
 m24-home-our-mission-is = Mozilla のミッションは、オープンソースで信頼できる AI を簡単に構築したり、共同作業をしたりできるようにすることです。
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = { -brand-name-solo-ai } のロゴ
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = ウェブサイトを作成し、カスタムドメインを無料で接続
 m24-home-alt-builders = ビルダー
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } ビルダー
