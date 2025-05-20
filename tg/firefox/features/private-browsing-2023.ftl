@@ -8,6 +8,7 @@
 features-private-browsing-private-browsing-mode = Реҷаи «Тамошобинии хусусӣ»
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = Реҷаи «Тамошобинии хусусӣ» дар браузери «{ -brand-name-firefox }»
+features-private-browsing-if-you-share-a-computer = Агар шумо компютерро бо дигарон муштарак истифода баред ё хоҳед, ки ҷамъоварии маълумот аз ҷониби сомонаҳоро маҳдуд созед, метавонед реҷаи тамошокунии хусусиро дар «{ -brand-name-firefox }» истифода баред. Реҷаи «Тамошокунии хусусӣ» изҳои рақамии шуморо, ки ҳангоми гаштугузор дар Интернет боқӣ мемонанд, пок мекунад — фикр кунед, ки онҳо мисли изи по дар миёни ҷангал ҳастанд.
 features-private-browsing-what-does-private-browsing-do = Реҷаи «Тамошобинии хусусӣ» чӣ тавр кор мекунад?
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = Равзанаи браузери «{ -brand-name-firefox }» дар реҷаи «Тамошобинии хусусӣ».
