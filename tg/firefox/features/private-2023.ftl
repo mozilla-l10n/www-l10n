@@ -8,6 +8,12 @@
 features-private-is-firefox-a-private-browser = Оё браузери «{ -brand-name-firefox }» хусусӣ аст?
 # HTML description
 features-private-were-focused-on-your-right-to = Мо ба ҳифзи ҳуқуқи шумо ба махфияти шахсӣ аҳамияти ҷиддӣ медиҳем. Маълумоти шахсӣ, фаъолияти шумо дар Интернет ва ҳаёти онлайни шумо бо «{ -brand-name-firefox }» муҳофизат карда мешавад.
+# Variables:
+#   $url (url) = link to https://www.mozilla.org/firefox/features/private-browsing/
+features-private-yes-firefox-protects-your = Бале. «{ -brand-name-firefox }» махфияти шуморо бо чунин хусусиятҳо, ба мисли <a href="{ $url }">Тамошобинии хусусӣ</a> ҳифз мекунад. Он ба шумо имкон медиҳад, ки таърихи тамошо ва ниҳонвожаҳои худро махфӣ нигоҳ доред, ҳатто ҳангоми истифодаи дастгоҳе, ки бо дигарон муштарак истифода мебаред — масалан, компютери хонагӣ ё «{ -brand-name-ipad }».
+# Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+features-private-firefox-also-protects-your = Браузери «{ -brand-name-firefox }» инчунин бо истифодаи <a href="{ $url }">Муҳофизати такмилёфта аз пайгирӣ</a> махфияти шуморо ҳифз мекунад — он васоити пайгириеро, ки аз як сомона ба сомонаи дигар шуморо таъқиб мекунанд ва маълумотро дар бораи одатҳои тамошобинии шумо ҷамъ мекунанд, манъ менамояд. Илова бар ин, он дорои муҳофизат аз скриптҳои зараровар ва нармафзори вредонос низ мебошад.
 features-private-what-information-does-firefox = Браузери «{ -brand-name-firefox }» кадом маълумотро ҷамъ мекунад?
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/privacy/firefox/
