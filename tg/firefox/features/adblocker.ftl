@@ -18,5 +18,6 @@ features-adblocker-choose-your-level-of-protection = Сатҳи муҳофиза
 features-adblocker-go-easy-with-standard = Тамошобинии тинҷу осуда дар реҷаи «Стандартӣ»
 features-adblocker-get-tough-with-strict = Тамошобинии тобовар дар реҷаи «Ҷиддӣ»
 features-adblocker-do-it-yourself-custom = Дар реҷаи «Фармоишӣ» танзимоти дилхоҳро интихоб намоед
+features-adblocker-cover-your-trail-block = Пайи худро пинҳон кунед ва васоити пайгириро манъ кунед
 features-adblocker-take-a-bite-out-of-cookies = Кукиҳоро маҳдуд кунед — махфияти худро ҳифз намоед!
 features-adblocker-speed-up-thanks-to-ad = Ба шарофати абзорҳои манъкунандаи реклама суръати браузерро афзоиш диҳед

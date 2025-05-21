@@ -7,8 +7,11 @@
 
 # HTML page title
 firefox-products-mozilla-products = Маҳсулоти «{ -brand-name-mozilla }»
+# HTML page description
+firefox-products-mozillas-family-of-products = Ҳамаи маҳсулоти оилаи «{ -brand-name-mozilla }» бо ҳадафи бехатарӣ ва истифодаи оқилонаи Интернет барои шумо тарҳрезӣ шудаанд
 firefox-products-products = Маҳсулот
 firefox-products-firefox-beginning-v2 = Браузери «{ -brand-name-firefox }» танҳо нуқтаи ибтидо аст.
+firefox-products-mozillas-family-of-products-sentence = Ҳамаи маҳсулоти оилаи «{ -brand-name-mozilla }» бо ҳадафи бехатарӣ ва истифодаи оқилонаи Интернет барои шумо тарҳрезӣ шудаанд.
 
 ## Firefox
 
@@ -17,6 +20,7 @@ firefox-products-firefox = { -brand-name-firefox }
 ## Focus
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Браузери хусусии шумо, ки бо ҳадафи ҳифзи махфияти шумо сохта шудааст ва дорои муҳофизати дарунсохт бар зидди васоити пайгирӣ ва бастани реклама мебошад.
 
 ## Monitor
 

@@ -14,6 +14,7 @@ misinformation-overly-sensational = Оё сарлавҳа аз ҳад зиёд �
 misinformation-content-up-to-date = Оё муҳтаво ба ҳолати кунунӣ мутобиқ аст?
 misinformation-images-captions = Оё тасвирҳо ва сарлавҳаҳо мувофиқат мекунанд?
 misinformation-how-firefox-helps-heading = Чӣ тавр «{ -brand-name-firefox }» ба шумо барои карорагирии маълумоти нодуруст кумак мекунад
+misinformation-firefox-keeps-trackers-heading = «{ -brand-name-firefox }» ҳар гуна васоити пайгириро манъ мекунад:
 misinformation-social-media-clean-heading = Браузери «{ -brand-name-firefox }» барои тоза нигоҳ доштани шабакаҳои васоити ахбори иҷтимоӣ кумак мекунад:
 misinformation-why-trust-firefox = Чаро «{ -brand-name-firefox }» боэътимод мебошад?
 misinformation-learn-more-about-our-mission = Маълумоти бештар дар бораи рисолати мо
