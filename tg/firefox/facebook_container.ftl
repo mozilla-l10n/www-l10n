@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
+facebook-container-facebook-container-for-firefox = «{ -brand-name-facebook-container }» барои «{ -brand-name-firefox }» | Ба «{ -brand-name-facebook }» иҷозат надиҳед, ки сомонаҳои дӯстдоштаи шуморо аз назар гузаронад.
 facebook-container-millions-of-people-around = Миллионҳо нафар дар саросари ҷаҳон ба браузерҳои интернетии «{ -brand-name-firefox }» дар низомҳои «{ -brand-name-android }», «{ -brand-name-ios }» ва компютерҳои мизи корӣ эътимод доранд. Браузери мо тезкор ва хусусӣ мебошад. Ҳозир насб кунед!
 facebook-container-facebook-well-contained-keep = «{ -brand-name-facebook }». Аз атрофи шумо хуб нигоҳ дошта шудааст. Чизҳои дигари ҳаёти худро танҳо барои худ нигоҳ доред.
 facebook-container-get-the-facebook-container = Васеъшавии «{ -brand-name-facebook-container }»-ро ба даст оред
