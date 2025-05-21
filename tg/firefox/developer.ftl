@@ -42,6 +42,7 @@ firefox-developer-visual-editing = Таҳрири дидорӣ
 firefox-developer-fine-tuning-animations = Танзимоти дақиқи аниматсияи, баробарсозӣ ва фосиласозии матн.
 firefox-developer-learn-more-about-visual-editing = Маълумоти бештар дар бораи таҳрири дидорӣ
 firefox-developer-performance = Самаранокӣ
+firefox-developer-unblock-bottlenecks = Монеаҳоро боз кунед, равандҳоро муқаррар кунед, дороиҳоро беҳина созед.
 firefox-developer-learn-more-about-performance = Маълумоти бештар дар бораи абзорҳои самаранокӣ
 firefox-developer-memory = Ҳофиза
 firefox-developer-learn-more-about-memory = Маълумоти бештар дар бораи абзорҳои ҳофиза
