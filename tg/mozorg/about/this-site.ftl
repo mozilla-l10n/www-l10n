@@ -12,3 +12,4 @@ about-this-site-report-a-bug = Фиристодани гузориш дар бо
 about-this-site-contribute-to-code = Бо барномарезӣ саҳм гузоред
 about-this-site-contribute-to-l10n = Бо тарҷумаҳо саҳм гузоред
 about-this-site-read-the-docs = Хондани маҷмуи ҳуҷҷатҳо
+about-this-site-colophon = Лоиҳаҳои истифодашуда
