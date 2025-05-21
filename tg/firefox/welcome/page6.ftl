@@ -7,6 +7,7 @@
 
 # HTML page title
 welcome-page6-make-firefox-your-default = Браузери «{ -brand-name-firefox }»-ро ҳамчун браузери пешфарзи худ таъин намоед
+welcome-page6-make-sure-youre-protected = Боварӣ ҳосил кунед, ки ҳар дафъае, ки шумо ба онлайн меравед, тавонед худро муҳофизат кунед
 welcome-page6-get-the-firefox-app = Барномаи «{ -brand-name-firefox }»-ро ба даст оред
 welcome-page6-get-firefox-on-your-phone = «{ -brand-name-firefox }»-ро барои телефони мобилии худ ба даст оред
 welcome-page6-scan-the-qr-code-to-get-started = Барои оғози кор бо барнома рамзи «QR»-ро тасвирбардорӣ намоед

@@ -7,6 +7,8 @@
 
 # HTML page title
 welcome-page8-firefox-protects-your-privacy = Браузери «{ -brand-name-firefox }» махфияти шуморо ба таври худкор муҳофизат мекунад
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+welcome-page8-your-privacy-respected = Махфияти шумо <strong>ба таври худкор</strong> эҳтиром карда мешавад
 welcome-page8-view-your-protection-report = Нишон додани гузориш дар бораи муҳофизати худ
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 welcome-page8-enhanced-tracking-protection = Муҳофизати такмилёфта аз пайгирӣ

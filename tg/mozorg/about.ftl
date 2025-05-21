@@ -7,6 +7,13 @@
 
 # HTML Page title
 about-learn-about-mozilla = Маълумот дар бораи «{ -brand-name-mozilla }»
+# HTML page description
+about-mozilla-makes-browsers-apps-desc = «{ -brand-name-mozilla }» браузерҳо, барномаҳо, рамзҳо ва абзорҳое эҷод мекунад, ки инсонро аз фоида болотар мегузоранд. Вазифаи асосии мо: Мо Интернетро кушода ва барои ҳама дастрас нигоҳ медорем.
+# Main sub-heading
+about-our-mission-keep-the-internet = Вазифаи мо: Мо Интернетро кушода ва барои ҳама дастрас нигоҳ медорем.
+# Main call to action
+about-read-our-mission = Дар бораи вазифаҳои мо хонед
+about-our-mission-in-action = Вазифаҳои мо дар амал
 about-corporation-foundation-not = Иттиҳод. Бунёд. Ташкилоти ғайритиҷорӣ.
 about-learn-about-the-mozilla-foundation = Маълумоти бештар дар бораи «{ -brand-name-mozilla-foundation }»
 about-the-mozilla-manifesto = Санади асосии «{ -brand-name-mozilla }»
@@ -23,4 +30,5 @@ about-get-involved = Ҳамроҳ шавед
 
 ## Newsletter
 
+about-get-the-mozilla-newsletter = Хабарҳоро аз «{ -brand-name-mozilla }» қабул кунед
 about-subscribe = Обуна шудан
