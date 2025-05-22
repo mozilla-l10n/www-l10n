@@ -45,6 +45,7 @@ firefox-developer-performance = Самаранокӣ
 firefox-developer-unblock-bottlenecks = Монеаҳоро боз кунед, равандҳоро муқаррар кунед, дороиҳоро беҳина созед.
 firefox-developer-learn-more-about-performance = Маълумоти бештар дар бораи абзорҳои самаранокӣ
 firefox-developer-memory = Ҳофиза
+firefox-developer-find-memory-leaks = Рахнаҳоеро дар ҳофиза ёбед ва барномаи худро боғайрат кунед.
 firefox-developer-learn-more-about-memory = Маълумоти бештар дар бораи абзорҳои ҳофиза
 firefox-developer-style-editor = Муҳаррири услубҳо
 firefox-developer-edit-and-manage = Ҳамаи ҷадвалҳои услубҳои «CSS»-ро дар браузери худ таҳрир ва идора кунед.
