@@ -87,12 +87,14 @@
 
 ## Anonym
 
+-brand-name-anonym = Udrig
 
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
+-brand-name-irl-podcast = Abudkast IRL
 -brand-name-solo-ai = Solo AI
 -brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
