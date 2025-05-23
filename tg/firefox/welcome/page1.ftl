@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
+# HTML page title
+welcome-page1-more-than-a-browser-mozilla = Аз браузер волотар аст - «{ -brand-name-mozilla-monitor }» ҳамчун дидбони шахсии шумо бар зидди ҳакерҳо кор мекунад
 welcome-page1-check-your-breach-report = Гузориши худро дар бораи вайронкуниҳо ба даст оред
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
 welcome-page1-stay-ahead-of-hackers = Аз ҳакерон як қадам пеш равед
