@@ -14,6 +14,7 @@ about-our-mission-keep-the-internet = Вазифаи мо: Мо Интернет
 # Main call to action
 about-read-our-mission = Дар бораи вазифаҳои мо хонед
 about-our-mission-in-action = Вазифаҳои мо дар амал
+about-firefox-fast-for-good = Браузери «{ -brand-name-firefox }»: Тезкор ба хотири некуаҳволӣ
 about-corporation-foundation-not = Иттиҳод. Бунёд. Ташкилоти ғайритиҷорӣ.
 about-learn-about-the-mozilla-foundation = Маълумоти бештар дар бораи «{ -brand-name-mozilla-foundation }»
 about-the-mozilla-manifesto = Санади асосии «{ -brand-name-mozilla }»

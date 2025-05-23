@@ -30,6 +30,7 @@ firefox-products-check-for-breaches = Дар бораи вайронкуниҳо
 ## Relay
 
 firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Нишонии почтаи электронии воқеии худро муҳофизат кунед ва ҳамин тавр паёмдони худро идора намоед.
 firefox-products-get-relay = «{ -brand-name-firefox-relay }»-ро ба даст оред
 
 ## VPN

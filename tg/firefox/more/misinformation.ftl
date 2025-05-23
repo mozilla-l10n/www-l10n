@@ -7,6 +7,7 @@
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = Аз маълумоти нодуруст ва бардурӯғ дар Интернет худдорӣ намоед – дар ин масъала ба шумо браузери «{ -brand-name-firefox }» ёрӣ медиҳад
+misinformation-page-subheading = Маслиҳатҳоро дар барои кам дидани маълумоти нодуруст ва зиёдтар тамаркуз додани диққати худ ба он чизҳое, ки ба шумо муҳиманд, аз назар гузаронед
 misinformation-what-is-heading = Маълумоти нодуруст чист? Маълумоти бардурӯғ чист?
 misinformation-false-info-heading = Маълумоти бардурӯғ дар куҷо пайдо мешавад?
 misinformation-look-at-url = Ба нишонии «URL» ва/ё манбаи мавод нигаред.
