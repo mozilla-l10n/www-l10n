@@ -57,6 +57,7 @@ firefox-developer-master-css-grid = Идоракунии тарҳи «CSS»
 firefox-developer-built-for-developers = Барои барномасозон сохта шудааст
 firefox-developer-master-innovative-features = Хусусиятҳои инноватсионӣ
 firefox-developer-want-to-be-on-the-cutting-edge = Мехоҳед аз навигариҳо ва технологиҳои муосир истифода баред?
+firefox-developer-firefox-nightly-receives = Браузери «{ -brand-name-firefox-nightly }» навсозиҳои ҳаррӯзаро қабул мекунад ва ба шумо имкон медиҳад, то ки тавонед ба хусусиятҳо ва навигариҳо якчанд моҳ пеш аз он ки онҳо ба ҷараёни асосӣ ворид мешаванд, дастрасӣ пайдо кунед.
 firefox-developer-faster-innovation = Маълумоти тезкор
 firefox-developer-fonts-panel = Лавҳаи ҳарфҳо
 firefox-developer-firefox-developer-edition-sends = Браузери «{ -brand-name-firefox-developer-edition }» омори истифодабариро ба ташкилоти «{ -brand-name-mozilla }» ба таври худкор мефиристонад.
@@ -64,6 +65,9 @@ firefox-developer-download-the-firefox-browser = Браузери «{ -brand-nam
 firefox-developer-welcome-to-firefox-developer-edition = Хуш омадед ба «{ -brand-name-firefox-developer-edition }»
 firefox-developer-made-for-developers = Браузере, ки барои барномасозон сохта шудааст
 firefox-developer-congrats-you-now-have-latest-v2 = Акнун шумо версияи навтарини «{ -brand-name-firefox-developer-edition }»-ро ба даст гирифтед.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Нишон додани <a { $attrs }>қайдҳои нашр</a> (танҳо бо забони англисӣ) барои дидани навигариҳо.
 firefox-developer-developer-tools-user = Ҳуҷҷатҳои корбар оид ба абзорҳои барномасозӣ
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Манбаъҳо барои барномасозон ва аз ҷониби барномасозон
