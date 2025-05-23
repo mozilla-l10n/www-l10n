@@ -82,6 +82,7 @@ firefox-developer-resources-for-developers = Mba’eita mboguatahárape g̃uarã
 firefox-developer-mdn-playground = Tenda ñembosaraiha
 firefox-developer-mdn-write-test-and-share = Ehai, eiporu ha emoherakuã nde ayvu. Ne ñembosaraiha eikuaa ha emoherakuã ne rembiapo arapy ndive.
 firefox-developer-mdn-blog = { -brand-name-mdn } Blog
+firefox-developer-mdn-unlock-the-world = Eikuaa ñanduti ñemboguatagua { -brand-name-mdn } blog ndive: nde eikuaaséva marandu ikatupyrýva rehegua, ñanduti rekotee ha programación ñe’ẽporãgua.
 firefox-developer-mdn-updates = Ñembohekopyahu
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = { -brand-name-mdn } Jeikekuaaha
