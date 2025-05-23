@@ -27,4 +27,4 @@ home-personalize-firefox-with-your = Pirsunalizza { -brand-name-firefox } chî t
 home-careers = Uppurtunità di travagghiu
 home-learn-about-the-benefits-of = Cchiù nfurmazzioni ncapu ê vantaggi di travagghiari pi { -brand-name-mozilla } e vidi chi genti circamu 'n tuttu u munnu.
 home-need-help = Ti serbi ajutu?
-home-get-answers-to-your-questions = Ricevi risposti ê to dumanni ncapu a { -brand-name-firefox } e tutti i prudutti di { -brand-name-mozilla } dâ nostra squatra di l'assistenza.
+home-get-answers-to-your-questions = Ricivi risposti ê to dumanni ncapu a { -brand-name-firefox } e tutti i prudutti di { -brand-name-mozilla } dâ nostra squatra di l'assistenza.
