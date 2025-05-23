@@ -13,7 +13,7 @@ what-is-firefox = «{ -brand-name-firefox }» чӣ аст?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
-how-do-i = Чӣ тавр браузери «{ -brand-name-firefox-browser }»-ро боргирӣ намоям?
+how-do-i = Чӣ тавр { -brand-name-firefox-browser }-ро боргирӣ намоям?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -23,7 +23,7 @@ how-do-i = Чӣ тавр браузери «{ -brand-name-firefox-browser }»-р
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = Браузери «{ -brand-name-firefox }» ройгон аст?
-related-questions-free = Саволҳои марбут: Оё «{ -brand-name-firefox-browser }» ройгон аст? Оё «{ -brand-name-firefox }» ягон пул меарзад?
+related-questions-free = Саволҳои марбут: Оё { -brand-name-firefox-browser } ройгон аст? Оё «{ -brand-name-firefox }» ягон пул меарзад?
 is-chrome-better = Оё браузери «{ -brand-name-chrome }» нисбат ба браузери «{ -brand-name-firefox }» беҳтар аст?
 
 # Variables:
