@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
 consent-banner-heading = Orepytyvõmína roykeo hag̃ua nde { -brand-name-mozilla } jeporu
-consent-banner-body-v2 = Oĩ umi kookie tekotevẽva ko kuatiarogue oiko porã hag̃ua, rojerurese ndéve nemoneĩ roipuru hag̃ua peteĩva umi kookie reikuaa porãve hag̃ua mba’épa reikotevẽ reikundahakuévo ha remoporãve hag̃ua ijeporu. Ani rejepy’apy, nde rekoñemi tuicha mba’e oréve g̃uarã.
+consent-banner-body-v2 = Oĩ umi kookie tekotevẽva ko kuatiarogue oiko porã hag̃ua, rojerurese ndéve nemoneĩ roiporu hag̃ua peteĩva umi kookie reikuaa porãve hag̃ua mba’épa reikotevẽ reikundahakuévo ha remoporãve hag̃ua ijeporu. Ani rejepy’apy, nde rekoñemi tuicha mba’e oréve g̃uarã.
 consent-banner-button-reject = Emboykepaite kookie juajupyre
 consent-banner-button-accept = Emoneĩmbaite kookie juajupyre
 consent-banner-settings-link = Kookie ñemboheko
