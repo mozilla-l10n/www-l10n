@@ -46,6 +46,7 @@ firefox-products-support-mdn = Дастгирӣ кардани «{ -brand-name-m
 ## Thunderbird
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = Ба ҳамаи паёмҳои почтаи электронӣ, тақвимҳо ва тамосҳои худ дар як барномаи зуд дастрасӣ пайдо кунед. Онҳоро, чӣ тавре ки мехоҳед, поло кунед ва ба тартиб дароред.
 firefox-products-download-thunderbird = Боргирӣ кардани «{ -brand-name-thunderbird }»
 
 ## Fakespot
