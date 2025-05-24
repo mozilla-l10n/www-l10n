@@ -28,10 +28,13 @@ m24-home-go-chaosfree-with = Eiko porãve nde rekovépe peteĩ tembiporu’i ndi
 m24-home-fakespot = { -brand-name-fakespot }
 m24-home-spot-fake-reviews = Ehecha jehaipy imarãva, apopyre vai ha vendehára jerovia’ỹha.
 m24-home-pocket = { -brand-name-pocket }
+m24-home-save-the-internets = Eñongatu tetepy iporãvéva Ñandutípe oimeraẽva mba’e’okápe, mba’ére ¿máva ko’ág̃a omoñe’ẽmba oĩva?
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-keep-your-location = Ereko ñemíme ne rendatee ha ejapóva guive ñandutípe: ehecha streaming tendaguáicha, oimehápe.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Eikuaa ne maranduete imarãkuaaha ha upévare ejoko teko katupyrýpe.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
+m24-home-mask-your-email = Ehovañomi ne ñanduti veve ha pumbyry papapy og̃uahẽ hag̃ua ñe’ẽmondo eipotávante.
 
 ## Donate
 
@@ -84,6 +87,7 @@ m24-home-topic-news = Marandu
 m24-home-topic-ai = Inteligencia artificial
 m24-home-topic-ps = Ñemigua ha Tekorosã
 m24-home-headline-you-ai-v2 = Nde, IA ha ñanduti: ¿mba’ete pe ojehuvahína?
+m24-home-introducing-anonym = Rohechauka { -brand-name-anonym }: rohupi yvateve ñemurã ñandutigua omomba’éva nde rekoñemi.
 m24-home-keeping-genai-technologies = Hekorosã hag̃ua tembiporupyahu GenAI ha’e opavavete rembiaporã.
 m24-home-from-hollywood-to = Hollywood guive hip hop reheguáva peve, oñomongeta IA jarakuéra ndive.
 m24-home-kids-are-growing = Mitãnguéra okakuaa arapýpe ñanduti jeporúpe. ¿Mba’épa ojapokuaa tuvakuéra ojepy’apýva?
