@@ -8,6 +8,7 @@
 features-customize-customize-your-firefox = { -brand-name-firefox } tarayıcınızı özelleştirin
 # HTML page description
 features-customize-choose-how-your-browser-looks = Binlerce ücretsiz temayla tarayıcınızın nasıl görüneceğini seçin.
+features-customize-firefox-themes-let-you-change = { -brand-name-firefox } temaları, tarayıcınızın görünümünü değiştirmenizi sağlar. Tarayıcı menülerinin ve { -brand-name-firefox } sistem sayfalarının renklerini değiştirebilir, hatta { -brand-name-firefox } araç çubuğunuza arka plan resmi bile ekleyebilirler.
 features-customize-firefox-comes-with-a-default = { -brand-name-firefox } varsayılan sistem temasıyla gelir. Bu temanın açık, koyu ve renkli seçenekleri de vardır.
 # Used as accessible alternative text for an image
 features-customize-image-of-the-default-themes = { -brand-name-firefox } ile gelen varsayılan temaların açık, koyu ve renkli çeşitlerini gösteren resim.

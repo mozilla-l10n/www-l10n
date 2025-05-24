@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-or-proxy-the-difference-between = VPN ile web vekil sunucusu arasındaki fark
+# HTML page description and intro
+vpn-or-proxy-vpns-and-proxies-are = Hem VPN’ler hem de vekil sunucular çevrimiçi gizlilik ve güvenlik çözümleridir. Bunların sizi nasıl koruduğunu ve en iyisini nasıl seçebileceğinizi anlatıyoruz.
 vpn-or-proxy-stop-isps-from = İSS’lerin sizi gözetlemesini durdurun
 vpn-or-proxy-when-should-you = Ne zaman VPN veya güvenli bir proxy kullanmalısınız?
 vpn-or-proxy-secure-web-proxy = Güvenli web vekil sunucusu: tarayıcı düzeyinde koruma
