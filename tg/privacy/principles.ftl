@@ -21,3 +21,4 @@ privacy-principles-use-and-share-information = Мо маълумоти шахс�
 privacy-principles-user-control = Корбар идора мекунад
 privacy-principles-limited-data = Маълумоти маҳдуд
 privacy-principles-sensible-settings = Танзимоти хирадманд
+privacy-principles-defense-in-depth = Муҳофизати ҷиддӣ
