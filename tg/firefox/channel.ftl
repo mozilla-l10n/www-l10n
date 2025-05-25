@@ -20,6 +20,9 @@ firefox-channel-experience-cutting-edge-android = Аз хусусиятҳои п
 firefox-channel-try-the-latest-android-features = Хусусиятҳои охирини «{ -brand-name-android }»-ро пеш аз он, ки онҳо ба тамоми ҷаҳон дастрас мешаванд, озмоед.
 firefox-channel-all-languages-and-platforms = Ҳамаи забонҳо ва платформаҳо
 firefox-channel-all-languages-and-builds = Ҳамаи забонҳо ва сохтҳо
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+firefox-channel-beta-is-an-unstable-testing = «{ -brand-name-beta }» платформаи ноустувори озмоишӣ барои рушди барнома мебошад. Ба таври пешфарз, «{ -brand-name-beta }» маълумотро ба «{ -brand-name-mozilla }» ва баъзан ба шарикони мо мефиристад, то ба мо дар ҳалли мушкилот ва барномарезии фикрҳо кумак расонанд. <a href="{ $link }">Бифаҳмед, ки кадом маълумот мубодила мешавад</a>.
 firefox-channel-firefox-beta-automatically = Браузери «{ -brand-name-firefox-beta }» омори истифодабариро ба ташкилоти «{ -brand-name-mozilla }» ба таври худкор мефиристонад.
 firefox-channel-check-out-new-android-features = Хусусиятҳои нави «{ -brand-name-android }»-ро дар марҳилаҳои аввали рушди барнома озмоед. Бо таваккали худ истифода кунед ва лаззат баред.
 firefox-channel-nightly-blog = Блоги «{ -brand-name-nightly }»
