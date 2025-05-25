@@ -46,6 +46,7 @@ firefox-channel-build-test-scale-and-more = Бо браузери ягонае, 
 firefox-channel-developer-edition-is-an = «{ -brand-name-developer-edition }» платформаи ноустувори озмоишӣ барои рушди барнома мебошад. Ба таври пешфарз, «{ -brand-name-developer-edition }» маълумотро ба «{ -brand-name-mozilla }» ва баъзан ба шарикони мо мефиристад, то ба мо дар ҳалли мушкилот ва барномарезии фикрҳо кумак расонанд. <a href="{ $link }">Бифаҳмед, ки кадом маълумот мубодила мешавад</a>.
 firefox-channel-firefox-developer-edition = Браузери «{ -brand-name-firefox-developer-edition }» омори истифодабариро ба ташкилоти «{ -brand-name-mozilla }» ба таври худкор мефиристонад.
 firefox-channel-nightly = { -brand-name-nightly }
+firefox-channel-get-a-sneak-peek-at-our = Бо браузери веби насли ояндаи мо шинос шавед ва ба мо кумак расонед, то тавонем онро ҳар чӣ беҳтар созем: браузери «{ -brand-name-firefox-nightly }»-ро озмоед.
 firefox-channel-test-brand-new-features = Ҳар рӯз хусусиятҳои навро санҷед (ё… ҳар шаб). Бо таваккали худ лаззат баред.
 firefox-channel-try-new-features-in-a-pre-release = Хусусиятҳои навро дар версияи пешакии браузер барои «{ -brand-name-ios }» озмоед | «{ -brand-name-firefox }»
 firefox-channel-experience-cutting-edge-features-ios = Аз таҷрибаи хусусиятҳои пешрафтаи браузери муосир дар версияҳои пеш аз нашр дар низоми «{ -brand-name-ios }» тавассути барномаи «{ -brand-name-test-flight }» аз ҷониби «{ -brand-name-apple }» баҳра баред. Ҳозир насб кунед!
