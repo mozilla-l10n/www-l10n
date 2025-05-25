@@ -41,6 +41,7 @@ firefox-products-get-mozilla-vpn = «{ -brand-name-mozilla-vpn }»-ро ба д�
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Манбаъҳо барои барномасозон ва аз ҷониби барномасозон. Лоиҳаи «{ -brand-name-mdn }»-ро дастгирӣ кунед ва онро бо маҷмуаҳо, огоҳномаҳо ва майдончаҳои таҷрибавӣ барои худ созед.
 firefox-products-support-mdn = Дастгирӣ кардани «{ -brand-name-mdn }»
 
 ## Thunderbird

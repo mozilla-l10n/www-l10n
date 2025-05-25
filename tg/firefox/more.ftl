@@ -32,5 +32,6 @@ we-worry-about = Мо дар бораи амнияти маълумоти шах
 incognito-browser-what = Браузери «Инкогнито»: Ин дар ҳақиқат чӣ маъно дорад?
 firefox-more-fingerprinter-blocking = Хонандаи нақши ангуштон манъ карда мешавад
 firefox-more-translate-the-web = Тарҷума кардани саҳифаи сомона
+firefox-more-translate-more-than = Зиёда аз 100 забонро мустақиман дар «{ -brand-name-firefox-browser }»-и худ ба забони худ тарҷума кунед - аз ҳарвақта осонтар аст.
 firefox-more-avoid-misinformation-heading = Аз маълумоти нодуруст ва бардурӯғ дар Интернет худдорӣ намоед – дар ин масъала ба шумо браузери «{ -brand-name-firefox }» ёрӣ медиҳад
 firefox-more-avoid-misinformation-desc = Маслиҳатҳоро дар барои кам дидани маълумоти нодуруст ва зиёдтар тамаркуз додани диққати худ ба он чизҳое, ки ба шумо муҳиманд, аз назар гузаронед.
