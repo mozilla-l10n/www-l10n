@@ -26,7 +26,7 @@ firefox-desktop-download-no-shady = Ягон сиёсати махфияти с�
 firefox-desktop-download-download-options = Имконоти боргирӣ ва забонҳои дигар
 firefox-desktop-download-browser-support = Дастгирии «{ -brand-name-firefox-browser }»
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do-v2 = Аз фаъолияти дӯстдошта дар Интернет ҳаловат баред.<br> { -brand-name-firefox-browser } муҳофизати шуморо<strong>таъмин мекунад</strong>.
+firefox-desktop-download-do-what-you-do-v2 = Аз фаъолияти дӯстдошта дар Интернет ҳаловат баред.<br> { -brand-name-firefox-browser } муҳофизати шуморо <strong>таъмин мекунад</strong>.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Аз фаъолияти дӯстдошта дар Интернет ҳаловат баред.<br> { -brand-name-firefox-browser } шуморо назорат <strong>намекунад</strong>.
 firefox-desktop-download-we-block-the-ad = Мо васоити пайгирии рекламавиро манъ мекунем. Шумо аз Интернети тезтар истифода мебаред.
