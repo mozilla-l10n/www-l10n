@@ -34,6 +34,6 @@ footer-refresh-websites-privacy-notice = Napomena o privatnosti web stranice
 footer-refresh-websites-cookies = Kolačići
 footer-refresh-websites-legal = Pravne informacije
 footer-refresh-community-participation-guidelines = Smjernice za sudjelovanje u zajednici
-footer-refresh-about-this-site = O ovoj web-stranici
+footer-refresh-about-this-site = O ovoj web stranici
 footer-refresh-all-languages = Svi jezici
 footer-refresh-language = Jezik

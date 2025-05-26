@@ -15,7 +15,7 @@ misinformation-ultimately-harmful = Općenito, netočne informacije i dezinforma
 misinformation-false-info-heading = Gdje se pojavljuju netočne informacije?
 # Variables:
 #   $tracking (url) - link to https://blog.mozilla.org/products/firefox/firefox-privacy-protections/
-misinformation-widespread-online = Na netočne informacije i dezinformacije možeš naići posvuda, ali one su najraširenije i najučinkovitije kada se dijele na internetu. Algoritmi i <a href="{ $tracking }">praćenje</a> su povećali mogućnost da netočne informacije i dezinformacije dosegnu veću publiku na web-stranicama, blogovima, forumima i društvenim mrežama.
+misinformation-widespread-online = Na netočne informacije i dezinformacije možeš naići posvuda, ali one su najraširenije i najučinkovitije kada se dijele na internetu. Algoritmi i <a href="{ $tracking }">praćenje</a> su povećali mogućnost da netočne informacije i dezinformacije dosegnu veću publiku na web stranicama, blogovima, forumima i društvenim mrežama.
 misinformation-spot-online-heading = Kako prepoznati netočne informacije na internetu i pomoći zaustaviti njihovo širenje
 misinformation-look-at-url = Pogledaj URL adresu i/ili izvor.
 misinformation-known-to-br-credible = Jesu li URL ili izvor vjerodostojni? Ako si u nedoumici, pokušaj saznati više o izvoru i njegovoj reputaciji na internetu.
