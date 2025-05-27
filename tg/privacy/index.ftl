@@ -8,6 +8,7 @@
 # HTML page title
 privacy-index-mozilla-privacy = Махфияти «{ -brand-name-mozilla }»
 privacy-index-contact-mozilla = Бо «{ -brand-name-mozilla }» дар тамос шавед
+privacy-index-if-you-want-to-make-a-correction = Агар шумо хоҳед, ки маълумоти худро ислоҳ кунед ё дар бораи сиёсати махфияти мо ягон савол дошта бошед, лутфан, бо мо дар тамос шавед:
 # Variables:
 #   $sumo (url) - link to https://support.mozilla.org/
 privacy-index-for-product-support-requests = Барои дархост кардани дастгирӣ оид ба маҳсулот, лутфан, <a href="{ $sumo }">ба форумҳои мо ворид шавед</a>.
