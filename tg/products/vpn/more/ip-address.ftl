@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-ip-address-what-is-an-ip-address = Нишонии «IP» чӣ аст?
+# HTML page description and intro
+vpn-ip-address-mozilla-answers-all-of = «{ -brand-name-mozilla }» ба ҳамаи саволҳои шумо дар бораи нишониҳои «IP», аз он ҷумла дар бораи он, ки нишонии «IP» чӣ маъно дорад ва чӣ гуна кор мекунад ва агар шумо бояд онро пинҳон кунед, ҷавоб медиҳад.
 vpn-ip-address-if-you-look-up-your = Агар шумо нишонии «IP»-и худро ҷустуҷӯ кунед, он тақрибан чунин ба назар мерасад.
 vpn-ip-address-does-it-travel = Оё он шуморо ҳамроҳӣ мекунад?
 vpn-ip-address-does-your-ip = Оё нишонии IP-и шумо тағйир меёбад?

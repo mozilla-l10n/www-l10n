@@ -28,6 +28,9 @@ privacy-index-as-an-open-source-project = Ҳамчун лоиҳаи манбаи
 # Variables:
 #   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
 privacy-index-to-review-and-comment-on-proposed = Барои баррасӣ ва шарҳ додан ба тағйироти пешниҳодшуда нисбат ба сиёсати махфияти мо, <a href="{ $group }"> ба гурӯҳи идоракунии «{ -brand-name-mozilla }» обуна шавед</a>.
+# Variables:
+#   $blog (url) - link to https://blog.mozilla.org/privacy/
+privacy-index-read-more-about-our-ongoing = Маълумоти бештар дар бораи кори ҷории мо оид ба сиёсати махфият ва амнияти ҷамъиятӣ дар <a href="{ $blog }">Блоги мо дар бораи сиёсати кушодагӣ ва фаъолияти ҷамъиятии «{ -brand-name-mozilla }»</a> дастрас аст.
 privacy-index-outdated-policies = Сиёсатҳои собиқ
 privacy-index-mozilla-websites-communications = Сомонаҳо, алоқаҳо ва кукиҳои «{ -brand-name-mozilla }»
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
