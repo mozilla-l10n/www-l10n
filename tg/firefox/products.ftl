@@ -25,6 +25,7 @@ firefox-products-your-dedicated-privacy = Браузери хусусии шум
 ## Monitor
 
 firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
+firefox-products-see-if-your-personal-information = Тафтиш кунед, ки агар маълумоти шахсии шумо ба сабаби вайроншавии маълумоти корхона ошкор карда шудааст ва барои огоҳиҳои оянда обуна шавед.
 firefox-products-check-for-breaches = Дар бораи вайронкуниҳо маълумот гиред
 
 ## Relay
