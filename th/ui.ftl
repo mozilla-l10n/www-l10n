@@ -14,6 +14,8 @@ ui-watch-the-video = ดูวิดีโอ
 ui-replay = เล่นซ้ำ
 ui-share = แบ่งปัน
 ui-menu = เมนู
+# Short for Table of Contents
+ui-contents = สารบัญ
 ui-please-turn-on-javascript = โปรดเปิดใช้งาน JavaScript เพื่อแสดงหน้านี้อย่างถูกต้อง
 ui-show-more = แสดงเพิ่มเติม
 ui-show-less = แสดงน้อยลง
