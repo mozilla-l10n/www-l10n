@@ -16,8 +16,18 @@ privacy-index-see-here-for-data-subject = <a href="{ $dsar }">Барои дид�
 #   $sumo (url) - link to https://support.mozilla.org/
 privacy-index-for-product-support-requests = Барои дархост кардани дастгирӣ оид ба маҳсулот, лутфан, <a href="{ $sumo }">ба форумҳои мо ворид шавед</a>.
 privacy-index-data-privacy-principles = Принсипҳои махфияти маълумот
+# Variables:
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $faq (url) - link to https://www.mozilla.org/privacy/faq/
+privacy-index-mozillas-data-privacy-principles = <a href="{ $principles }">Принсипҳои махфияти маълумот</a> аз ҷониби «{ -brand-name-mozilla }» ба амалияҳои мо илҳом мебахшанд ва одамонеро, ки Интернетро истифода мебаранд, эҳтиром ва муҳофизат мекунанд. Бифаҳмед, ки чӣ тавр ҳамаи ин принсипҳо браузери «{ -brand-name-firefox }» ва тамоми маҳсулоти моро ба воситаи <a href="{ $faq }">ҳамин саволу ҷавобҳо</a> шакл медиҳанд.
 privacy-index-transparency-report = Гузориши дар бораи шаффофӣ
 privacy-index-get-involved = Ҳамроҳ шавед
+# Variables:
+#   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
+privacy-index-as-an-open-source-project = Ҳамчун лоиҳаи манбаи кушод, арзишҳои шаффофият ва кушодагӣ қисми муҳими принсипҳои бунёди «{ -brand-name-mozilla }» мебошанд. Пойгоҳҳои рамзҳои мо кушода ва масъулиятшинос мебошанд. Кори ободонии мо кушода аст. <a href="{ $report }">Ҳисоботи дусолаи мо дар бораи шаффофият</a> низ содиқ будани моро ба ҳамаи ин принсипҳо нишон медиҳад.
+# Variables:
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
+privacy-index-to-review-and-comment-on-proposed = Барои баррасӣ ва шарҳ додан ба тағйироти пешниҳодшуда нисбат ба сиёсати махфияти мо, <a href="{ $group }"> ба гурӯҳи идоракунии «{ -brand-name-mozilla }» обуна шавед</a>.
 privacy-index-outdated-policies = Сиёсатҳои собиқ
 privacy-index-mozilla-websites-communications = Сомонаҳо, алоқаҳо ва кукиҳои «{ -brand-name-mozilla }»
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
