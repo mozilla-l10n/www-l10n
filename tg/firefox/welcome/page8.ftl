@@ -12,6 +12,7 @@ welcome-page8-your-privacy-respected = Махфияти шумо <strong>ба т
 welcome-page8-view-your-protection-report = Нишон додани гузориш дар бораи муҳофизати худ
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 welcome-page8-enhanced-tracking-protection = Муҳофизати такмилёфта аз пайгирӣ
+welcome-page8-automatically-block-sites = Сомонаҳоро ба таври худкор маҳдуд мекунад, то ки онҳо шуморо дар саросари Интернет пайгирӣ накунанд.
 welcome-page8-see-whats-blocked = Нигаред, ки чӣ баста шудааст
 welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
 welcome-page8-go-to-monitor = Гузариш ба «{ -brand-name-monitor }»
