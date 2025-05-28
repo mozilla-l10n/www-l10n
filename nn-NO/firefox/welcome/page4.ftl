@@ -14,7 +14,7 @@ welcome-page4-privacy-on-by-default = Personvernet ditt er som standard slått p
 welcome-page4-get-the-firefox-mobile = Last ned { -brand-name-firefox } for mobil
 welcome-page4-get-firefox-on-your-phone = Få { -brand-name-firefox } på telefonen
 welcome-page4-send-the-download-link-right = Send nedlastingslenka på SMS eller e-post.
-welcome-page4-download-firefox-for-your = Last ned { -brand-name-firefox } til smarttelefonen din, og nettbrettet ditt.
+welcome-page4-download-firefox-for-your = Last ned { -brand-name-firefox } til smarttelefonen og nettbrettet ditt.
 welcome-page4-firefox-private-safe-browser = «{ -brand-name-firefox }: Privat, sikker nettlesar» på { -brand-name-ios } eller { -brand-name-android }.
 # "off your trail" is an expression for not being followed around.
 welcome-page4-get-data-trackers-off-your = Få bort datasporarane
