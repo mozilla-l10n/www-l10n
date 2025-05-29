@@ -9,6 +9,8 @@ privacy-firefox-read-our-privacy = Lege nostre aviso de confidentialitate
 privacy-firefox-transparency-first = Transparentia prime
 privacy-firefox-how-we-use = Como nos usa datos
 privacy-firefox-always-protected = Sempre protecte
+# Obsolete string (expires: 2025-04-24)
+privacy-firefox-firefox-for-desktop = { -brand-name-firefox } pro scriptorio
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } pro scriptorio
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-mobile = { -brand-name-firefox } pro mobile
