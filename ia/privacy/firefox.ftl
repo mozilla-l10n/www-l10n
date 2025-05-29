@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/privacy/firefox
 
 privacy-firefox-read-our-privacy = Lege nostre aviso de confidentialitate
+privacy-firefox-transparency-first = Transparentia prime
 privacy-firefox-how-we-use = Como nos usa datos
 privacy-firefox-always-protected = Sempre protecte
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } pro scriptorio
