@@ -6,8 +6,9 @@
 
 import argparse
 import os
-from moz.l10n.paths import L10nConfigPaths
 from pathlib import Path
+
+from moz.l10n.paths import L10nConfigPaths
 
 
 class FilesExtraction:
@@ -115,16 +116,22 @@ class FilesExtraction:
             print("No locales defined in the project configuration...")
         else:
             print(f"Extracting files for other locales ({len(locales)})...")
-            tgt_paths = [tgt_path for _, tgt_path in project_config_paths.all()]
+            tgt_paths = {
+                tgt_path: locales
+                for (_, tgt_path), locales in project_config_paths.all().items()
+            }
+            # Ignore target file if it does not exist, or if it's not listed in
+            # the supported locales.
             for locale in locales:
                 self.l10n_files.extend(
                     os.path.relpath(path, basedir)
-                    for tgt_path in tgt_paths
+                    for tgt_path, tgt_locales in tgt_paths.items()
                     if os.path.exists(
                         path := project_config_paths.format_target_path(
                             tgt_path, locale
                         )
                     )
+                    and locale in tgt_locales
                 )
 
         # Extract vendor files
