@@ -9,11 +9,14 @@
 about-learn-about-mozilla = Маълумот дар бораи «{ -brand-name-mozilla }»
 # HTML page description
 about-mozilla-makes-browsers-apps-desc = «{ -brand-name-mozilla }» браузерҳо, барномаҳо, рамзҳо ва абзорҳое эҷод мекунад, ки инсонро аз фоида болотар мегузоранд. Вазифаи асосии мо: Мо Интернетро кушода ва барои ҳама дастрас нигоҳ медорем.
+# Main heading
+about-mozilla-makes-browsers-apps = Ташкилоти «{ -brand-name-mozilla }» браузерҳо, барномаҳо, рамзҳо ва абзорҳоеро месозад, ки одамонро аз арзишҳои тиҷоратӣ болотар мегузорад.
 # Main sub-heading
 about-our-mission-keep-the-internet = Вазифаи мо: Мо Интернетро кушода ва барои ҳама дастрас нигоҳ медорем.
 # Main call to action
 about-read-our-mission = Дар бораи вазифаҳои мо хонед
 about-our-mission-in-action = Вазифаҳои мо дар амал
+about-pioneers-of-the-open-web = Пешравони интернети кушод - «The Open Web»
 about-firefox-fast-for-good = Браузери «{ -brand-name-firefox }»: Тезкор ба хотири некуаҳволӣ
 about-corporation-foundation-not = Иттиҳод. Бунёд. Ташкилоти ғайритиҷорӣ.
 about-learn-about-the-mozilla-foundation = Маълумоти бештар дар бораи «{ -brand-name-mozilla-foundation }»

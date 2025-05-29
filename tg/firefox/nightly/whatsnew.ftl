@@ -10,4 +10,5 @@
 nightly-whatsnew-youve-just-been = Шумо ҳоло браузери худро ба версияи «{ -brand-name-firefox-nightly } { $version } » такмил додаед!
 nightly-whatsnew-your-firefox-nightly = Браузери «{ -brand-name-firefox-nightly }»-и шумо навсозӣ карда шуд.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
+nightly-whatsnew-every-4-to-5-weeks = Пас аз ҳар 4 ё 5 ҳафта версияи нави браузери асосии «{ -brand-name-firefox }» бароварда мешавад ва дар натиҷа, версияи браузери «{ -brand-name-nightly }» низ меафзояд.
 nightly-whatsnew-go-community = Ҷамъият ба пеш!
