@@ -9,6 +9,9 @@
 set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = Ташаккур барои интихоб кардани «{ -brand-name-firefox }»
 set-as-default-thanks-success-your-default-browser = Муваффақият! Браузери стандартии шумо ба браузери «{ -brand-name-firefox }» гузошта шудааст.
 set-as-default-thanks-having-trouble-setting-your = Барои танзим кардани браузери пешфарзи худ мушкилӣ мекашед?
+# Variables:
+#   $ios (url) - link to https://support.mozilla.org/en-US/kb/unable-set-firefox-default-browser-ios
+set-as-default-thanks-heres-everything-you-need-ios = Дар ин ҷой барои шумо тамоми маълумот дар бораи насб кардани браузери пешфарз дар <a href="{ $ios }">дастгоҳҳои «iOS»</a> дастрас аст.
 set-as-default-thanks-youre-all-set = Шумо ҳамаашро танзим кардед.
 set-as-default-thanks-get-firefox-for-mobile = Браузери «{ -brand-name-firefox }»-ро барои дастгоҳи мобилӣ ба даст оред
 set-as-default-thanks-travel-the-internet-with = Дар фазои Интернет бо муҳофизати боэътимод дар ҳамаи дастгоҳҳои худ кор кунед.
