@@ -20,9 +20,11 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> i { -brand-na
 download-button-firefox-privacy = Tasertit n tbaḍnit n { -brand-name-firefox }
 download-button-firefox-privacy-notice = Tasertit tabaḍnit n { -brand-name-firefox }
 download-button-download = Sader
+download-button-please-download-esr = Ttxil-k⋅m sader { -brand-name-firefox-esr } (Lqem n tallalt wessiɛen ESR) i useqdec n { -brand-name-firefox }.
 download-firefox-esr = Sader { -brand-name-firefox-esr }
 download-firefox-esr-32 = Sader { -brand-name-firefox-esr } 32-yibiten
 download-firefox-esr-64 = Sader { -brand-name-firefox-esr } 64-yibiten
+download-a-different-build = Sader-d asefsu nniḍen
 
 ## Linux
 

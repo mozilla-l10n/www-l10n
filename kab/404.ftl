@@ -15,3 +15,6 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Lmed</a> ɣef 
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Asader</a> iminig { -brand-name-firefox } i yibenk-ik aziraz neɣ n tnarit
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Mudd tawsa</a> i { -brand-name-mozilla-foundation }, terreḍ-d internet seg big tech.
