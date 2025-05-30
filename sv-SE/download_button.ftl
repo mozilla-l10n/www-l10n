@@ -18,7 +18,7 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> för { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> för { -brand-name-ios }
 download-button-firefox-privacy = { -brand-name-firefox } sekretess
-download-button-firefox-privacy-notice = { -brand-name-firefox } sekretesspolicy
+download-button-firefox-privacy-notice = { -brand-name-firefox } sekretessmeddelande
 download-button-download = Hämta
 # Variables:
 #   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly

@@ -27,7 +27,7 @@ privacy-index-get-involved = Engagera dig
 privacy-index-as-an-open-source-project = Som ett open source-projekt, är insyn och öppenhet en viktig del av { -brand-name-mozilla } grundläggande principer. Våra kodbaser är öppna och granskningsbara. Vårt utvecklingsarbete är öppet. Vår tvååriga <a href="{ $report }">Rapport om öppenhet</a> visar också vårt engagemang för dessa principer.
 # Variables:
 #   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
-privacy-index-to-review-and-comment-on-proposed = För att granska och kommentera föreslagna ändringar av vår sekretesspolicy, <a href="{ $group }"> prenumerera på { -brand-name-mozilla }s ledningsgrupp</a>.
+privacy-index-to-review-and-comment-on-proposed = För att granska och kommentera föreslagna ändringar av vårt sekretessmeddelande, <a href="{ $group }"> prenumerera på { -brand-name-mozilla }s ledningsgrupp</a>.
 # Variables:
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Läs mer om vårt pågående arbete med säkerhets- och sekretesspolicy på <a href="{ $blog }">bloggen för { -brand-name-mozilla }'s Open Policy and Advocacy</a>.

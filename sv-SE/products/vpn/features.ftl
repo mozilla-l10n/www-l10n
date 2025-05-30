@@ -61,7 +61,7 @@ vpn-features-plus-customer-support = Plus kundsupport 24/7.
 vpn-features-we-never-log = Vi loggar, spårar eller delar aldrig dina nätverksdata
 # Variables
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-features-simply-put-we-dont = Enkelt uttryckt samlar vi inte in din personliga webbinformation. Här är vår <a { $privacy }>lättlästa sekretesspolicy</a>.
+vpn-features-simply-put-we-dont = Enkelt uttryckt samlar vi inte in din personliga webbinformation. Här är vårt <a { $privacy }>lättlästa sekretessmeddelande</a>.
 vpn-features-built-transparently = Byggd transparent i öppen källkod
 # Variables
 #   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
