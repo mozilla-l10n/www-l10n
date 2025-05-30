@@ -5,5 +5,20 @@
 
 ### URL: https://www-dev.allizom.org/ (Global locales)
 
+home-internet-for-people-not-profit = Internet i yimdanen, mačči i ubaɣur
+home-product-firefox-browsing = Tunigin tuslig taɣellsant
+home-cta-get-firefox = Awi-d { -brand-name-firefox }
+home-cta-get-pocket = Awi-d { -brand-name-pocket }
+home-cta-get-relay = Awi-d { -brand-name-relay }
+home-cta-get-vpn = Awi-d { -brand-name-mozilla-vpn }
+home-cta-get-monitor = Awi-d { -brand-name-monitor }
+home-cta-get-fakespot = Awi-d { -brand-name-fakespot }
+# Politico is a brand name for a news organization
+home-politico-cite = Politico
 home-read-more = Ɣeṛ ugar
+home-so-what-is-mozilla = Ihi, d acu-tt { -brand-name-mozilla }?
+home-learn-about-mofo = Issin ugar ɣef { -brand-name-mozilla-foundation }
+home-join-the-fight = Ddu d umennuɣ ɣef Internet n tezmert yelhan
+home-that-one-time = Ass deg i d-nefka tangalt-nneɣ taɣbalut…
 home-learn-more-about-mozilla = Issin ugar ɣef { -brand-name-mozilla }
+home-mofo-donate = Mudd tawsa

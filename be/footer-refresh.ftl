@@ -33,4 +33,5 @@ footer-refresh-websites-cookies = Кукі
 footer-refresh-websites-legal = Прававыя звесткі
 footer-refresh-community-participation-guidelines = Правілы ўдзелу ў супольнасці
 footer-refresh-about-this-site = Аб гэтым сайце
+footer-refresh-all-languages = Усе мовы
 footer-refresh-language = Мова

@@ -20,6 +20,11 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> i { -brand-na
 download-button-firefox-privacy = Tasertit n tbaḍnit n { -brand-name-firefox }
 download-button-firefox-privacy-notice = Tasertit tabaḍnit n { -brand-name-firefox }
 download-button-download = Sader
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } d <a href="{ $help_url }">dayen ur yettwasefrak ara</a> ɣef { $os_version } akked ddaw-as.
 download-button-please-download-esr = Ttxil-k⋅m sader { -brand-name-firefox-esr } (Lqem n tallalt wessiɛen ESR) i useqdec n { -brand-name-firefox }.
 download-firefox-esr = Sader { -brand-name-firefox-esr }
 download-firefox-esr-32 = Sader { -brand-name-firefox-esr } 32-yibiten

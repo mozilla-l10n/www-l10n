@@ -7,6 +7,9 @@
 
 # HTML Page title
 m24-home-page-title = Інтэрнэт для людзей, а не для прыбытку — { -brand-name-mozilla }
+m24-home-page-title-v2 = { -brand-name-mozilla } — Інтэрнэт для людзей, а не прыбытку
+# HTML page description
+m24-home-page-desc = Ці ведаеце вы, што { -brand-name-mozilla } — стваральнік { -brand-name-firefox } — змагаецца за тое, каб Інтэрнэт быў глабальным публічным рэсурсам, адкрытым і даступным для ўсіх і кожнага?
 
 ## Intro
 
@@ -48,6 +51,7 @@ m24-home-tag-program = Праграма
 m24-home-tag-event = Падзея
 m24-home-read-more = Падрабязней
 m24-home-get-started = Пачаць
+m24-home-join-the-movement = Далучайцеся да руху:<br> Штучны інтэлект для людзей
 
 ## Media Springboard
 
