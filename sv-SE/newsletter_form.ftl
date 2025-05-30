@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Ange en giltig e-postadress.
-newsletter-form-you-must-agree-to = Du måste godkänna sekretesspolicyn.
+newsletter-form-you-must-agree-to = Du måste godkänna sekretessmeddelandet
 newsletter-form-your-email-address = Din e-postadress
 newsletter-form-we-are-sorry-but-there = Vi ber om ursäkt, men det inträffade ett fel i vårt system. Försök igen senare!
 newsletter-form-please-select-country = Välj ett land eller en region
@@ -18,7 +18,7 @@ newsletter-form-join-the-community = Gå med i gemenskapen
 newsletter-form-sign-up-to-receive = Registrera dig för att få månatliga uppdateringar från { -brand-name-firefox } och internettrender som formar ditt liv online.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
-newsletter-form-im-okay-with-mozilla = Jag godkänner att { -brand-name-mozilla } hanterar min information på det sätt som beskrivs och förklaras i denna <a href="{ $url }">sekretesspolicy</a>
+newsletter-form-im-okay-with-mozilla = Jag godkänner att { -brand-name-mozilla } hanterar min information enligt beskrivningen i <a href="{ $url }">detta sekretessmeddelande</a>
 newsletter-form-we-will-only-send-v2 = Vi kommer endast att skicka dig { -brand-name-mozilla }-relaterad information. Du kan avbryta prenumerationen när som helst.
 newsletter-form-we-will-only-send-firefox-v2 = Vi skickar endast { -brand-name-firefox }-relaterad information. Du kan avbryta prenumerationen när som helst.
 newsletter-form-if-you-havent-previously = Om du inte tidigare har bekräftat en prenumeration på ett { -brand-name-mozilla }-relaterat nyhetsbrev kan du behöva göra det. Vänligen kontrollera din inkorg eller ditt spamfilter efter e-post från oss.

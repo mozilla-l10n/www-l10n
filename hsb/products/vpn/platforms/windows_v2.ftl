@@ -7,3 +7,4 @@
 
 # New strings for updated page
 vpn-windows-get-a-vpn = Wobstarajće sej VPN za Windows wot { -brand-name-mozilla }
+vpn-windows-stay-safe = Wostańće wěsty na swojim graće Windows z VPN
