@@ -9,6 +9,7 @@
 privacy-firefox-basics = Conceptos básicos de privacidad
 privacy-firefox-youre-in-control = Tú tienes el control
 privacy-firefox-read-our-privacy = Lee nuestra política de privacidad
+privacy-firefox-transparency-first = Transparencia ante todo
 privacy-firefox-how-we-use = Cómo utilizamos los datos
 privacy-firefox-builtin-control = Control incorporado
 privacy-firefox-always-protected = Siempre protegido
