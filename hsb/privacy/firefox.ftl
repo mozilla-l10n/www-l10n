@@ -14,6 +14,9 @@ privacy-firefox-how-we-use = Kak daty wužiwamy
 privacy-firefox-builtin-control = Zatwarjena kontrola
 privacy-firefox-always-protected = Přeco škitany
 privacy-firefox-privacy-that-works = Priwatnosć, kotraž za was funguje
+privacy-firefox-manage-your-privacy = Rjadujće swoje nastajenja priwatnosće:
+# Obsolete string (expires: 2025-04-24)
+privacy-firefox-firefox-for-desktop = { -brand-name-firefox } za Desktop
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } za desktop
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-mobile = { -brand-name-firefox } za mobilne graty
