@@ -5,5 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/privacy/firefox
 
+privacy-firefox-youre-in-control = Εσείς έχετε τον έλεγχο
+privacy-firefox-read-our-privacy = Διαβάστε τη Σημείωση απορρήτου μας
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Περιεχόμενα
