@@ -130,7 +130,7 @@ firefox-desktop-download-now-windows = Nå kan du <strong>kjøre</strong> det ne
 firefox-desktop-download-now-mac = Nå kan du <strong>åpne</strong> den nedlastede filen.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
-firefox-desktop-download-get-help = Har problemer? <a { $attrs }>Få hjelp med installasjonen</a>.
+firefox-desktop-download-get-help = Har du problemer? <a { $attrs }>Få hjelp med installasjonen</a>.
 firefox-desktop-download-in-another-language = Last ned på et annet språk eller for et annet operativsystem.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
