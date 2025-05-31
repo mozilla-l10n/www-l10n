@@ -10,7 +10,7 @@ welcome-page4-download-the-firefox-browser = Aawto { -brand-name-firefox-browser
 welcome-page4-wallet-keys-phone-firefox = Kalbe. Coktirɗe. Noddirgel. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-get-firefox-on-your-phone = Heɓ { -brand-name-firefox } e noddirgel maa
 welcome-page4-send-the-download-link-right = Neldu jokkol aawtogol ngol feewde e noddirgel maa walla iimeel maa.
-welcome-page4-download-firefox-for-your = Aawto { -brand-name-firefox } ngam cinndel maa kam e alluwel maa.
+welcome-page4-download-firefox-for-your = Aawto { -brand-name-firefox } e cinndel maa kam e taable maa.
 welcome-page4-firefox-private-safe-browser = “{ -brand-name-firefox }: Wanngorde suuriinde, hisnde" e { -brand-name-ios } walla { -brand-name-android }.
 # "off your trail" is an expression for not being followed around.
 welcome-page4-get-data-trackers-off-your = Woɗɗin rewindotooɓe keɓe lappol maa
