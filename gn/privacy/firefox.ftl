@@ -12,6 +12,7 @@ privacy-firefox-read-our-privacy = Emoñe’ẽ ore Marandu’i Ñemigua
 privacy-firefox-transparency-first = Tekosakã opaite ára
 privacy-firefox-how-we-use = Mba’éichapa jaiporu mba’ekuaarã
 privacy-firefox-builtin-control = Tekorosã ñangareko
+privacy-firefox-always-protected = Oñemo’ã meméva
 privacy-firefox-privacy-that-works = Tekoñemi ndéve g̃uarã
 privacy-firefox-manage-your-privacy = Emongu’e nde rekoñemi ñemboheko:
 # Obsolete string (expires: 2025-04-24)
