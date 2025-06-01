@@ -9,7 +9,10 @@
 privacy-firefox-basics = Βασικές πληροφορίες απορρήτου
 privacy-firefox-youre-in-control = Εσείς έχετε τον έλεγχο
 privacy-firefox-read-our-privacy = Διαβάστε τη Σημείωση απορρήτου μας
+privacy-firefox-transparency-first = Διαφάνεια πάνω απ' όλα
 privacy-firefox-builtin-control = Ενσωματωμένος έλεγχος
+privacy-firefox-privacy-that-works = Απόρρητο που λειτουργεί για εσάς
+privacy-firefox-manage-your-privacy = Διαχειριστείτε τις ρυθμίσεις απορρήτου σας:
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-desktop = { -brand-name-firefox } για υπολογιστές
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } για υπολογιστές
