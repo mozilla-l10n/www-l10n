@@ -7,3 +7,4 @@
 
 # Page title
 compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } vs Microsoft Edge
+compare-edge-we-block-trackers-by-default = Nsewḥal ineḍfaren s wudem amezwar. Edge ur ixeddem ara aya.

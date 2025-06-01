@@ -37,6 +37,14 @@ firefox-all-microsoft-store-installers = Microsoft Store
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Sader { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Aql-aɣ deg tallit n usaka gar yileqman imeqqranen n ESR { $esr_next_major } akked { $esr_current_major }.
+firefox-all-esr-if-you-choose = Ma tferneḍ ad d-tzedmeḍ lqem aqbur n ESR, ad tettwaleqqmeḍ s wudem awurman ɣer umaynut mi ara tɛeddi tallit n usaka.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Ɣeṛ ugar ɣef <a { $attrs }>{ -brand-name-firefox-esr }wallus n lqem</a>.
 firefox-all-check-the-system-requirements = Wali ayen ilaqen deg unagraw-ik
 firefox-all-release-notes = Iwenniten n lqem
 firefox-all-source-code = Tangalt aɣbalu
@@ -50,6 +58,7 @@ firefox-all-test-your-sites-against = Sekyed asmel-ik s tmahilin i d-iteddun n y
 firefox-all-count-on-stability-and = Ttkel ɣef urkad d sshala n useqdec s yiminig-a { -brand-name-firefox } yettwabna i tkebbanit.
 firefox-all-windows-installers-for = Imsebdaden Windows i yimeẓla isenselkamen n tkebbaniyin i yissefsisen tawila, asbeddi akked usefrek n { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Imsebdaden ARM 64/AArch64
+firefox-all-testflight = Kcem i usekyed n { -brand-name-firefox } i iOS s TestFlight
 firefox-all-product-send-link = Azen aseɣwen n usader ɣer tiliɣri-inek·inem
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -68,3 +77,4 @@ firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-n
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } i iOS TestFlight
 firefox-all-download-esr-115 = Sider ESR 115
+firefox-all-note-unsupported = Tamawat: Ma yella tesseqdaceḍ Windows 7, Windows 8.1, neɣ macOS 10.12, 10.13 neɣ 10.14, sader ihi ESR 115 i wakken ad tesqedceḍ { -brand-name-firefox }.

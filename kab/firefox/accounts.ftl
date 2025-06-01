@@ -12,6 +12,10 @@ firefox-accounts-manage = Sefrek amiḍan-ik·im
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Qqen ɣer { -brand-name-mozilla-account }:
+# Variables:
+#   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
+firefox-accounts-save-and-sync = <a href="{ $password }">Sekles, temtawiḍ awalen n uɛeddi
+firefox-accounts-get-email-alerts = Qqim d aɣelsan: Ṭṭef-d ilɣa s ttawil n yimayl yal mi ara d-tban talɣut-inek deg trewla n yisefka yettwassnen.
 firefox-accounts-keep-your-passwords = Awalen uffiren yettwaḍemnen ara yilin yid-k yal amakan.
 firefox-accounts-travel-the-internet = Tunigin taɣelsant i yibenkan-ik meṛṛa.
 firefox-accounts-get-it-all-on-every = Ɣef yibenkan-ik meṛṛa, akken yebɣu yella unagraw-ik n wammud.

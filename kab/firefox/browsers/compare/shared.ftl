@@ -7,6 +7,9 @@
 
 compare-shared-compare-firefox = Serwes { -brand-name-firefox }
 compare-shared-footer-cta-title = Eg ugar d { -brand-name-firefox }
+# Variables
+# $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
+compare-shared-translate-a-web-page = <a { $translate }>Suqel asebter web</a> s wudem adigan uslig.
 compare-shared-its-easy-to-switch = Yeshel ad tbeddleḍ
 # Used as a small link to a cited source
 compare-shared-source = aɣbalu
