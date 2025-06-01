@@ -14,3 +14,4 @@ about-this-site-contribute-to-code = Бо барномарезӣ саҳм гуз
 about-this-site-contribute-to-l10n = Бо тарҷумаҳо саҳм гузоред
 about-this-site-read-the-docs = Хондани маҷмуи ҳуҷҷатҳо
 about-this-site-colophon = Лоиҳаҳои истифодашуда
+about-this-site-some-open-source-projects = Баъзе лоиҳаҳо бо манбаи кушод, ки барои барномарезии ин сомона истифода мешаванд:
