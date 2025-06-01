@@ -22,3 +22,4 @@ legal-websites-and-communications = Tiwtilin n useqdec n Yismal web akked Teywal
 legal-acceptable-use-policy = Tasertit n useqdec yettwaqbalen
 legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = Tiwtilin n useqdec { -brand-name-mdn-plus }
+legal-amo-policies = Tisertiyin n AMO

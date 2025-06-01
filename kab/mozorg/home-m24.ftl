@@ -44,8 +44,10 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Alugu { -brand-name-lumigator }
 m24-home-lumigator = { -brand-name-lumigator }
+m24-home-watch-now = Wali tura
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice = Mudd-d taɣect-ik
 
 ## Media Springboard
 
@@ -57,9 +59,11 @@ m24-home-tag-podcast = Apudkast
 m24-home-tag-video = Tividyutin
 m24-home-topic-news = Isallen
 m24-home-topic-ai = Tigzi taragmawant
+m24-home-topic-ps = Tabaḍnit  & Taɣellist
 
 ## Showcase
 
+m24-home-state-of-mozilla = Addad n { -brand-name-mozilla }
 m24-home-read-the-report = Ɣeṛ aneqqis
 
 ## Issues
