@@ -7,3 +7,7 @@
 
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Asewḥel n udellel
+# Page Title
+features-adblocker-meta-title = Ɣef umsewḥal n udellel - { -brand-name-firefox }
+features-adblocker-finding-the-right = Tifin n umsewḥal n udellel n tidet i kečč⋅kemm
+features-adblocker-why-use = Ayɣer aseqdec n Umsewḥal n Udellel?

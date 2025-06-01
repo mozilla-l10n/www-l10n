@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
+features-fast-firefox-keeps-getting-faster = { -brand-name-firefox } yettaǧǧa ad tiliḍ d uzrib
 features-fast-faster-every-day = D arurad yal ass

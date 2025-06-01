@@ -16,6 +16,9 @@ installer-help-action-choose = Fren asader n ddaw.
 ##
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
+# Variables:
+#   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
+installer-help-firefox-release-desc-v2 = Awi-d aneggaru. Tabaḍnit tawurmant ha-tt-an da. Sader { -brand-name-firefox } akken ad tesweḥleḍ azal n { $trackers } n ineḍfaṛen.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Sekyed timahilin ara d-yeffɣen akka kra n wakud s useqdec n warid urkid.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }

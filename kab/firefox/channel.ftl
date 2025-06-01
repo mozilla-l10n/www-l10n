@@ -54,3 +54,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = Seqdec ileqman beta n {
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = Sekyed ileqman beta n { -brand-name-firefox } i { -brand-name-ios } s useqdec n wahil { -brand-name-test-flight } n { -brand-name-apple }.
 firefox-channel-sign-up-now = Jerred tura
+firefox-channel-nightly-update-one-or-more-times = Tamawt: { -brand-name-firefox-nightly } ad ittwaleqqem azal n tikkelt neɣ snat deg wass.

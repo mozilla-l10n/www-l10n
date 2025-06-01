@@ -5,9 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/products/
 
+# HTML page title
+firefox-products-mozilla-products = Ifarisen n { -brand-name-mozilla }
+firefox-products-products = Ifarisen
 
 ## Firefox
 
+firefox-products-firefox = { -brand-name-firefox }
+firefox-products-get-the-browser-that-blocks = Sider iminig yessewḥalen ugar n 2000 i ineḍfaren n yisefka s wudem awurman. Ammesten yennarnan mgal aḍfar  yettili s wudem amezwer di yal iminig { -brand-name-firefox }.
 
 ## Focus
 
@@ -16,6 +21,7 @@ firefox-products-your-dedicated-privacy = Iminig-ik n tbaḍnit yettwagen i umme
 
 ## Monitor
 
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
 firefox-products-see-if-your-personal-information = Wali ma yella isefka-k udmawanen tḥuza-ten trewla n yisefka n tkebbanit, rnu jerred i tilɣa timaynutin.
 firefox-products-check-for-breaches = Senqed tarewla n yisefka
 
@@ -23,6 +29,7 @@ firefox-products-check-for-breaches = Senqed tarewla n yisefka
 
 firefox-products-relay = { -brand-name-firefox-relay }
 firefox-products-protect-your-real = Mmesten tansa-k n yimayl n tidet i wakken ad tesεuḍ asenqed ɣef tbewwaḍt-ik n tirawt.
+firefox-products-get-relay = Awi { -brand-name-firefox-relay }
 
 ## VPN
 

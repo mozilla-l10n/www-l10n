@@ -22,3 +22,4 @@ features-index-firefox-add-ons-and-browser-extensions = Izegrar d yiseɣẓanen 
 features-index-pdf-editor = Amaẓrag n PDF
 features-index-translate-the-web = Suqel web
 features-index-picture-in-picture = Tugna-deg-tugna
+features-index-got-things-to-do = Yella wayen ara txedmeḍ neɣ ara twaliḍ? Eg-iten ɣef tikkelt s useqdec n tugna-deg-tugna deg { -brand-name-firefox }.

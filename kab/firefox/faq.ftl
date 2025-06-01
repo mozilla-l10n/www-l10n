@@ -32,6 +32,7 @@ is-chrome-better = { -brand-name-chrome } xiṛ n { -brand-name-firefox }?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
+see-how-firefox = <a href="{ $url }">Wali amek ara tesrewseḍ gar { -brand-name-firefox } d { -brand-name-chrome }.</a>
 is-firefox-safe-download = { -brand-name-firefox } d aɣellsan i usader?
 
 # Variables:

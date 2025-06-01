@@ -7,4 +7,7 @@
 
 # HTML page title
 password-manager-free-password-manager = Amsefrak n wawalen n uεeddi ilelli
+# HTML page description
+password-manager-firefox-password-manager-saves-all = Amsefrak n wawalen uffiren { -brand-name-firefox } isseklas akk awalen-ik uffiren deg yiwen n umḍiq ayen ara ak·akem-yeǧǧen ad teqqneḍ s wudem awurman ɣer yismal, neɣ ad tafeḍ awalen-ik uffiren yettwaskelsen.
 password-manager-import-passwords = Kter awalen n uɛeddi
+password-manager-password-security-alerts = Ilɣa n tɣellist n wawalen n uɛeddi

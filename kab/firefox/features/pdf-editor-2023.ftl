@@ -7,4 +7,10 @@
 
 # Short title used in the subnav
 pdf-editor-pdf-editor = Amaẓrag n PDF
+# page title
+pdf-editor-add-text-to-pdfs-v2 = Ẓreg ifuyla n PDF baṭel s Umaẓrag PDF n { -brand-name-firefox }
+# HTML page description
+pdf-editor-view-and-edit-pdf-files-right-in = Wali sakin ẓreg ifuyla PDF srid deg { -brand-name-firefox }.
 pdf-editor-add-text = Rnu aḍris
+pdf-editor-add-image-with-alt-text = Rnu tugna s uḍris amlellay
+pdf-editor-create-a-highlight = Snulfu-d asebṛureq

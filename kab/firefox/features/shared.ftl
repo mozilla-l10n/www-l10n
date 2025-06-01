@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 features-shared-firefox-features = Timahilin n { -brand-name-firefox }
+features-shared-footer-cta-title = Eg ugar d { -brand-name-firefox }
