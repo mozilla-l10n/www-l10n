@@ -9,3 +9,8 @@ whatsnew-page-title-v2 = D acu n umaynut yellan deg { -brand-name-firefox }
 whatsnew-page-description = Bedd mgal asnulfu yesnuzuen isefka-inek i wiyaḍ. Qqim tḥerceḍ, d aɣelsan deg internet s tetiknulujit i yesseḥbibiren fell-ak.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = { -brand-name-firefox } inek·inem yettwaleqqem.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/notes/
+whatsnew-release-notes-v2 = Wali<a { $url }>tizmilin n lqem</a> akken ad tissineḍ ugar ɣef umaynut n yiminig-ik { -brand-name-firefox }.
+whatsnew-donate-to-mofo = Mudd tawsa ɣer { -brand-name-mozilla-foundation }
+whatsnew-thanks-for-choosing = Tanemmirt mi tferneḍ { -brand-name-firefox }

@@ -11,3 +11,4 @@ about-this-site-report-a-bug = Azen-d abug
 about-this-site-contribute-to-code = Ttekki deg taffa n tengalin
 about-this-site-contribute-to-l10n = Ttekki deg tsuqqilt
 about-this-site-read-the-docs = Ɣeṛ tasemlit
+about-this-site-colophon = Colophon

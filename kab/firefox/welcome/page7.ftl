@@ -17,5 +17,6 @@ page7-make-them-unfollow-you = Sewḥel-iten ur ṭṭafaṛen ara imiḍanen-ik
 page7-that-sneaky-little-button = Taqeffalt-nni tameẓẓyant taxeddaɛt
 page7-those-innocent-looking-f-buttons = Tiqeffalin-nni F s wudem icebḥen n { -brand-name-facebook } ṭṭafarent armud-inek·inem deg web, ɣas akken ur tesεiḍ ara amiḍan. { -brand-name-facebook-container } issewḥal-iten.
 page7-stay-ahead-of-hackers = Zwir imakaren
+page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } ad ak·akem-yeǧǧ ad teẓreḍ ayen i izemren yakan yimakaren ad tissinen fell-ak·am syen ad ak·akem-iεawen ad ten-tezwireḍ. (Yerna baṭel.)
 page7-get-mozilla-monitor = Awi-d { -brand-name-mozilla-monitor }
 page7-why-am-i-seeing-this = Acuɣer i ttwaliɣ aya?

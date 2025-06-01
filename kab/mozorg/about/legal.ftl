@@ -11,6 +11,9 @@ legal-protect-the-fox = MMesten Fox
 legal-terms = Tiwtilin
 legal-our-websites = Ismal-nneɣ web
 legal-firefox-services = Imeẓla n { -brand-name-firefox }
+legal-pocket = { -brand-name-pocket }
+# heading for the table of contents, a shorter heading is better
+legal-firefox-contents = Agbur
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: Γef yizerfan-ik·im
 legal-thunderbird = { -brand-name-thunderbird }

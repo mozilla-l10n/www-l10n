@@ -5,10 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
+# HTML page title
+welcome-page1-more-than-a-browser-mozilla = Ugar d iminig - { -brand-name-mozilla-monitor } d amnadi-ik·im n yimakaren
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Ɛeddi ɣer umecwaṛ i d-iteddun i ummesten n tudert-ik:im tabaḍnit srid s twacult n yifarisen { -brand-name-firefox }.
+welcome-page1-stay-ahead-of-hackers-check-v2 = Ili-k·kem d (t)amezwaru(t) ɣef yimakaren. Senqed tarewla n yisefka s { -brand-name-mozilla-monitor }.
 welcome-page1-youve-got-the-web-browser = Tesεiḍ iminig web yettqadaren tudert-ik·im tabaḍnit — tura  lawan n unadi ɣef yimakaren.
 welcome-page1-check-your-breach-report = Senqed aneqqis-ik·im n trewla
+welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
+welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } ad ak-am-d-yesken ma yella talɣut-ik·im tban-d deg trewla n yisefka yettwassnen, ad ak-akem-id-yesselɣu ma yella teḍra-d ɣer sdat.
 welcome-page1-stay-ahead-of-hackers = Ili-k·ikem d (t)amezwaru(t) ɣef yimakaren
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/

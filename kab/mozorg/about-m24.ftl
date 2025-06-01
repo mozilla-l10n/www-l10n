@@ -5,12 +5,19 @@
 
 ### URL: https://www-dev.allizom.org/about/
 
+# HTML Page title
+m24-about-page-title = Issin ugar ɣef { -brand-name-mozilla }
+# HTML page description
+m24-about-page-desc = { -brand-name-mozilla } txeddem iminigen, isnasen, tangalt akked yifecka i zewwiren imdanen uqbel abaɣur. Tuɣdaḍt-nneɣ: Aḥraz n Internet yeldin daɣen yettwakcam i yal yiwen.
 
 ## Intro
 
 
 ## Manifesto
 
+m24-about-read-our-manifesto = Γeṛ ameskan-nneɣ
+m24-about-research = Anadi
+m24-about-build = Bnu
 
 ## News
 

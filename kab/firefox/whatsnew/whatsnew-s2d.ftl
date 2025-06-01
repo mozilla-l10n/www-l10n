@@ -7,3 +7,5 @@
 
 whatsnew-s2d-download-firefox-for-android = Sider { -brand-name-firefox } i { -brand-name-android } akked { -brand-name-ios }
 whatsnew-s2d-download-firefox-for-your = Sider { -brand-name-firefox } i tiliɣri-ik tazirazt akked tfelwit-ik n uselkem.
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = Semḍen Tangalt-a QR

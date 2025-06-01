@@ -8,3 +8,4 @@
 welcome-page14-get-mozilla-vpn = Awi { -brand-name-mozilla-vpn }
 welcome-page14-copy-code = Nɣel tangalt
 welcome-page14-code-copied = Yettwanɣel tenglat!
+welcome-page14-why-see-this = Acuɣer i ttwaliɣ aya?

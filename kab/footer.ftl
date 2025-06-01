@@ -5,6 +5,7 @@
 footer-mozilla-manifesto = Ameskan { -brand-name-mozilla }
 footer-privacy = Tudert tabaḍnit
 footer-press = Taɣamsa
+footer-mozilla-blog = Ablug n { -brand-name-mozilla }
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = Ineflayen
 footer-developer-edition = { -brand-name-developer-edition }
@@ -24,6 +25,7 @@ footer-contact = Inermisen
 footer-product-help = Tallelt ɣef ufaris
 footer-support = Tallelt
 footer-file-a-bug = Azen abug
+footer-localize-mozilla = Sideg { -brand-name-mozilla }
 footer-community-participation-guidelines = Iwellihen n uttekki i terbaɛt
 footer-websites-privacy-notice = Tasertit-nneɣ tabadnit n usmel
 footer-websites-cookies = Inagan n tuqqna
