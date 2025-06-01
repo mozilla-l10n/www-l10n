@@ -16,4 +16,5 @@ vpn-download-for-mac-long = Sader { -brand-name-mozilla-vpn } i { -brand-name-ma
 vpn-download-for-linux = VPN i { -brand-name-linux }
 vpn-download-for-linux-long = Sader { -brand-name-mozilla-vpn } i { -brand-name-linux }
 vpn-download-for-android = VPN i { -brand-name-android }
+vpn-download-for-android-long = Sader { -brand-name-mozilla-vpn } i { -brand-name-android }
 vpn-download-for-ios = VPN i { -brand-name-ios }

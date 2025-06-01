@@ -7,3 +7,5 @@
 
 # Page title
 compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } vs Apple Safari
+compare-safari-safari-and-firefox-both-have = Safari d { -brand-name-firefox } sɛan i sin timahilin n tbaḍnit d tɣellist yelhan.
+compare-safari-but-firefox-also-has-built-in = Maca { -brand-name-firefox } yesεa daɣen ifecka usliɣen am:

@@ -5,3 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/opera/
 
+# Page title
+compare-opera-firefox-vs-opera = { -brand-name-firefox } mgal Opera

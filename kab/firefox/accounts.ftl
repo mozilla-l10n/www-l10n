@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
+# HTML page title
+mozilla-accounts-get-a-mozilla-account = Awi amiḍan { -brand-name-mozilla-account } – Eǧǧ isefka-ik d usligen, d iɣelsanen, mtawin
+# HTML page description
+mozilla-accounts-securely-sync-your = Mtawi awalen-ik uffiren, ticraḍ-ik n yisebtar akked yiccaren-ik ɣef yisuga-ik meṛṛa. Rnu amiḍan { -brand-name-mozilla-account } tura – Yiwet n tuqqna – ad ak-teḍmen tazmert akked tbaḍnit deg yal amḍiq.
 firefox-accounts-enter-your-email-address = Sekcem tansa n yimayl-inek akken ad tebduḍ.
 firefox-accounts-already-have-an-account = Ɣur-k yakan amiḍan?
 firefox-accounts-sign-in = Kcem
@@ -12,6 +16,9 @@ firefox-accounts-manage = Sefrek amiḍan-ik·im
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
 mozilla-account-sign-in-to = Qqen ɣer { -brand-name-mozilla-account }:
+# Variables:
+#   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
+firefox-accounts-send-a-tab = <a href="{ $send }">Azen iccer</a> ɣer yibenkan niḍen
 # Variables:
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Sekles, temtawiḍ awalen n uɛeddi
