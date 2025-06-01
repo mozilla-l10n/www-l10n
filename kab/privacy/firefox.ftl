@@ -14,3 +14,6 @@ privacy-firefox-firefox-for-desktop = { -brand-name-firefox } i uselkim
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } i tnarit
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-mobile = { -brand-name-firefox } i uziraz
+privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } i uziraz
+# heading for the table of contents, a shorter heading is better
+privacy-firefox-contents = Igburen
