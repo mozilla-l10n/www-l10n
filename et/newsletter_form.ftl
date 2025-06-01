@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+# Only localize "yourname". Do not change "@example.com".
+newsletter-form-yournameexamplecom = sinunimi@example.com
 newsletter-form-your-email-here = SINU E-POSTI AADRESS
 newsletter-form-get-firefox-news = Telli { -brand-name-firefox }i uudised
 # Variables:
