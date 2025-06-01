@@ -18,3 +18,7 @@ vpn-download-for-linux-long = Sader { -brand-name-mozilla-vpn } i { -brand-name-
 vpn-download-for-android = VPN i { -brand-name-android }
 vpn-download-for-android-long = Sader { -brand-name-mozilla-vpn } i { -brand-name-android }
 vpn-download-for-ios = VPN i { -brand-name-ios }
+vpn-download-for-ios-long-v2 = Sader { -brand-name-mozilla-vpn } i { -brand-name-ios }
+vpn-download-based-on-your = Yella deg yibenk-ik⋅im amiran
+vpn-download-get-mozilla-vpn = Awi { -brand-name-mozilla-vpn }
+vpn-download-also-available = Yella daɣen:

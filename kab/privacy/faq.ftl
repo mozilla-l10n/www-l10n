@@ -16,6 +16,7 @@ privacy-faq-at-mozilla-we-respect-and-protect = Di { -brand-name-mozilla }, nett
 privacy-faq-we-follow-a-set-of-data-privacy = Neṭṭafaṛ azrir n <a href="{ $link }"> Insayen ɣef tbaḍnit n isefka</a> ara yemudden talɣa n tarrayt-nneɣ icudden ar tbaḍnit deg useqdec n yiminigen { -brand-name-firefox } i uselkim neɣ aziraz.
 privacy-faq-we-only-collect-the-data-we = Nleqqeḍ kan ayen nesra akken ad d-nesnulfu ifarisen ufrinen.
 privacy-faq-we-put-people-in-control-of = Nettumuddu i yiseqdacen akked tiseqdacen tuṭṭfa gar ifassen n tudert-nsen srid akked beṭṭu n yisefka-nsen.
+privacy-faq-we-adhere-to-no-surprises-principle-v2 = Nedda akked tikti "ulac ayen fiɣef ur negmin". Amahil-nneɣ ihi d aheggi n wudem amek ara walin yimdanen tilawt n { -brand-name-firefox }.
 privacy-faq-the-following-questions-and = Isteqsiyen d tririyin id-iteddun ad k-ɛawnen ad tegzuḍ ayen tzemreḍ ad terǧuḍ seg { -brand-name-mozilla } akked { -brand-name-firefox }:
 privacy-faq-i-use-firefox-for-almost-everything = Seqdaceɣ { -brand-name-firefox } i yal taɣawsa di Web. Di { -brand-name-mozilla }, ad tilim tesnem aṭas fell-i, d tidet?
 privacy-faq-really-you-dont-collect-my-browsing = S tedett, ur tleqqeḍ ara amezruy-iw n tunigin?

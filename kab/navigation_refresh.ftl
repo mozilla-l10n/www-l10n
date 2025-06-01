@@ -2,9 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+navigation-refresh-mozilla = { -brand-name-mozilla }
+# An accessible label used to describe that the role of the element is the primary website navigation.
+navigation-refresh-landmark-label = Agejdan
 
 ## About us
 
+navigation-refresh-about-us = Fell-aɣ
+navigation-refresh-about-mozilla = Ɣef { -brand-name-mozilla }
+navigation-refresh-mozilla-manifesto-v2 = Ameskan { -brand-name-mozilla }
+navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = Ttekki
 navigation-refresh-get-involved-v2 = Ttekki
 navigation-refresh-blog = Ablug
