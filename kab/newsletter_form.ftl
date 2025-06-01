@@ -5,6 +5,8 @@
 newsletter-form-please-enter-a-valid = Ma ulac aɣilif, sekcem tansa imayl tameɣtut
 newsletter-form-you-must-agree-to = YEssefk ad tqebleḍ tasertit tabaḍnit
 newsletter-form-your-email-address = Tansa-inek imayl
+newsletter-form-we-are-sorry-but-there = Nesḥassef, maca yella wugur akked unagraw-ik⋅im. Ttxil-k⋅m ɛreḍ tikkelt niḍen ticki?
+newsletter-form-please-select-country = Ttxil-k⋅m fren tamurt neɣ tamnaḍt
 newsletter-form-please-select-language = Fren tutlayt, ma ulac aɣilif
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
@@ -12,9 +14,12 @@ newsletter-form-select-country-or-region = Fren tamnaḍt neγ tamurt
 newsletter-form-select-language = Fren tutlayt
 newsletter-form-your-email-here = IMAYL-INEK DA
 newsletter-form-get-firefox-news = Awi isallen ɣef { -brand-name-firefox }
+newsletter-form-join-the-community = Rnu ɣer temɣiwent
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Qebleɣ akken { -brand-name-mozilla } ad tesseqdec talɣut-inu akken tella <a href="{ $url }">tsertit-a n tbaḍnit</a>
+newsletter-form-we-will-only-send-v2 = Ad ak⋅am-n-nazen kan talɣet yeqqnen ɣer { -brand-name-mozilla }. Tzemreḍ ad tesfesxeḍ ajerred melmi i tebɣiḍ.
+newsletter-form-we-will-only-send-firefox-v2 = Ad ak⋅am-n-nazen kan talɣet yeqqnen ɣer { -brand-name-firefox }. Tzemreḍ ad tesfesxeḍ ajerred melmi i tebɣiḍ.
 newsletter-form-if-you-havent-previously = Ma yella ur tsentmeḍ ara yakan ajerred ɣer yizen n telɣutyerzan { -brand-name-mozilla }, ahat yessefk tura. Ma ulac aɣilif, senqed tirawt-inek neɣ imzizdig-inek n yispamen akken ad twaliḍ imayl i ak-d-nuzen.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Kečč
 newsletter-form-get-firefox-tips = Awi-d { -brand-name-firefox } timaheltin, tixbula, isallen d wayen-nniḍen
@@ -30,5 +35,6 @@ newsletter-form-no = Uhu
 multi-newsletter-form-checkboxes-legend = Bɣiɣ talɣut ɣef:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Ttxil-k⋅m senqed xerṣum yiwet seg textiṛiyin n tɣamsa.
 multi-newsletter-form-title = Ḥemmel web
 multi-newsletter-form-desc = Rmes-d iznan n telɣut n { -brand-name-mozilla } sakin mudd-aɣ-d afus akken ad yeqqim web yeldi, d ilelli.

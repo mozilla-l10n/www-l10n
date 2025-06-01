@@ -16,6 +16,8 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } i { -brand-name-andr
 navigation-v2-get-the-customizable-mobile = Awi iminig aziraz yettwasaganen i tiliɣriyin tuḥricin { -brand-name-android }
 navigation-v2-firefox-for-ios = { -brand-name-firefox } i { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Awi iminig aziraz i { -brand-name-iphone } neɣ { -brand-name-ipad } inek.inem.
+navigation-v2-firefox-for-mobile = { -brand-name-firefox-browser } i uziraz
+navigation-v2-take-speed-privacy-and = Awi yid-k arured, tabaḍnit akked talwit. Deg { -brand-name-android } akked { -brand-name-ios }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Tunigin tazirazt tusligt tafessast.
 navigation-v2-firefox-blog = Ablug { -brand-name-firefox }
@@ -28,6 +30,7 @@ navigation-v2-view-all-firefox-browsers = S'en akk { -brand-name-firefox-browser
 
 navigation-v2-products = Ifarisen
 navigation-v2-close-products-menu = Mdel umuɣ n yifarisen
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
 navigation-v2-see-if-your-email-has = Ẓer ma imayl-ik.im yettban-d deg trewla n yisefka n tkebbanit.
 navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-save-and-discover-the-best = Sekles rnu snirem tiqsiḍin igerrzen seg web.
@@ -40,6 +43,7 @@ navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Rnu imiḍanen imaynuten war ma tefkiḍ-d tansa imayl.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-view-all-products = Sken akk ifarisen
+navigation-v2-fakespot = { -brand-name-fakespot }
 
 ## Who We Are menu
 
@@ -58,6 +62,7 @@ navigation-v2-work-for-a-mission-driven-updated = Xdem ɣef tuddsa yesɛan tuɣd
 navigation-v2-mozilla-blog = Ablug n { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Issin ɣef { -brand-name-mozilla }d wuguren i aɣ-yeɛnan.
 navigation-v2-more-about-mozilla = Ugar ɣef { -brand-name-mozilla }
+navigation-v2-impact = Asemdu
 
 ## Innovation menu
 
