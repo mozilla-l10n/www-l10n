@@ -10,3 +10,4 @@ vpn-what-is-what-is-a-vpn = D acu-t VPN?
 vpn-what-is-how-do-vpns = Amek i iteddu VPNs?
 vpn-what-is-when-should-i = Melmi i ilaq ad sqedceɣ VPN
 vpn-what-is-why-would-i = Amek ara sqedceɣ VPN
+vpn-what-is-are-vpns-only = VPN, i yiselkimen kan?

@@ -19,3 +19,7 @@ vpn-landing-connect-up-to-devices =
        *[other] Qqen ɣer alamma { $devices } yibenkan
     }
 vpn-landing-see-all-features = Wali akk timahilin
+vpn-landing-one-subscription-for-all-your = Yiwen umulteɣ i meṛṛa ibenkan-ik
+vpn-landing-learn-more-from-our-experts = Lmed ugar seg yimussnawen-nneɣ
+vpn-landing-what-is-an-ip-address = D acu i d tansa n IP?
+vpn-landing-see-more-resources = Wali ugar n tiɣbula

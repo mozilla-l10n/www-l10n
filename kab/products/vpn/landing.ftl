@@ -5,8 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/invite/
 
+vpn-landing-invite-email-label = D acu-tt tansa-k⋅m n yimayl?
+vpn-landing-invite-required-label = Yettawsra
 # Only localize "yourname". Do not change "@example.com".
 vpn-landing-invite-email-placeholder = yourname@example.com
+vpn-landing-invite-country-label = Anta tamurt ideg i tzedɣeḍ?
 vpn-landing-invite-language-label = Fren tutlayt-ik⋅im tasmenyaft
 vpn-landing-invite-thanks-heading = Tanemmirt! Aql-ak•akem ɣef tebdart
 vpn-landing-invite-thanks-desc = Akken ara yuɣal { -brand-name-mozilla-vpn } yella i tmurt-ik•im, ad ak•am-n-nermes.
