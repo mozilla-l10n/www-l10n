@@ -33,3 +33,9 @@ privacy-firefox-firefox-for-mobile = { -brand-name-firefox } pre mobilné zariad
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } pre mobilné zariadenia
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Obsah
+# Variables:
+#   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
+privacy-firefox-take-me-back = Prejsť <a { $attrs }>späť na začiatok</a> Vyhlásenia o ochrane osobných údajov
+# Variables:
+#   $attrs (string) - in-page link to the top of the page
+privacy-firefox-lost-in-the = Stratili ste sa v detailoch? Vráťte sa k základom ochrany osobných údajov vo <a { $attrs }>{ -brand-name-firefox(case: "loc") }</a>.
