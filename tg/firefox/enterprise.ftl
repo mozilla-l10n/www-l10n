@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Гирифтани «{ -brand-name-firefox }» барои корхонаи худ бо истифода аз «{ -brand-name-esr }» ва нашрҳои мунтазами «Rapid Release»
+firefox-enterprise-get-unmatched-data-protection = Бо «{ -brand-name-firefox }» барои корхонаҳо, ҳимояи баландсифати маълумотро мувофиқи ҷадвали нашри силсилаи браузерҳо истифода баред. Нашри дарозмуддат («{ -brand-name-esr }») ва нашри зудро («Rapid Release») боргирӣ намоед.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-get-firefox-for-your-enterprise = Браузери «{ -brand-name-firefox }»-ро дар корхонаи худ истифода баред
 firefox-enterprise-unmatched-data-protection = Муҳофизати беназир барои маълумоти шахсии шумо — аз пайдарпайи релизҳое, ки ба шумо беҳтар мувофиқат мекунанд
