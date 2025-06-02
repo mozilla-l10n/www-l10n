@@ -21,7 +21,7 @@ mozilla-account-sign-in-to = Qqen ɣer { -brand-name-mozilla-account }:
 firefox-accounts-send-a-tab = <a href="{ $send }">Azen iccer</a> ɣer yibenkan niḍen
 # Variables:
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
-firefox-accounts-save-and-sync = <a href="{ $password }">Sekles, temtawiḍ awalen n uɛeddi
+firefox-accounts-save-and-sync = <a href="{ $password }">Sekles, temtawiḍ awalen n uɛeddi</a>
 firefox-accounts-get-email-alerts = Qqim d aɣelsan: Ṭṭef-d ilɣa s ttawil n yimayl yal mi ara d-tban talɣut-inek deg trewla n yisefka yettwassnen.
 firefox-accounts-keep-your-passwords = Awalen uffiren yettwaḍemnen ara yilin yid-k yal amakan.
 firefox-accounts-travel-the-internet = Tunigin taɣelsant i yibenkan-ik meṛṛa.
