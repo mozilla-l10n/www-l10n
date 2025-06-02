@@ -38,6 +38,7 @@ firefox-products-get-relay = «{ -brand-name-firefox-relay }»-ро ба дас�
 ## VPN
 
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Сомонаҳоро тамошо кунед, видеоҳоро пахш намоед ва корҳои худро анҷом диҳед — ҳамаи ин тавассути серверҳо дар зиёда аз 30 кишвар барои пайвасти бехатари Интернет бо имкониятҳои нав.
 firefox-products-get-mozilla-vpn = «{ -brand-name-mozilla-vpn }»-ро ба даст оред
 
 ## MDN Plus
@@ -55,9 +56,13 @@ firefox-products-download-thunderbird = Боргирӣ кардани «{ -brand
 ## Fakespot
 
 firefox-products-fakespot = { -brand-name-fakespot }
+# scam artists are people who are trying to sell fakes or steal money
+# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
+firefox-products-fakespot-has-your = «{ -brand-name-fakespot }» ҳангоми харидорӣ дар Интернет пуштибони шумо аст — фурӯшандагони қалбакӣ ва қаллобонро ҷудо мекунад ва беҳтарин пешниҳодҳоро барои интихоби шумо меёбад. Аз ҷониби «{ -brand-name-mozilla }» таҳия шудааст.
 firefox-products-analyze = Таҳлил кардани нишонии URL
 
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
+firefox-products-discover-the-best-content-v2 = Муҳтавои беҳтаринро дар саросари Интернет пайдо кунед — ва онро дар вақти дилхоҳ ва аз ҷойи дӯстдоштаи худ тамошо кунед. Аз ҷониби «{ -brand-name-mozilla }» таҳия шудааст.
 firefox-products-get-pocket = «{ -brand-name-pocket }»-ро ба даст оред
