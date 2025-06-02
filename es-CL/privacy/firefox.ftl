@@ -23,3 +23,9 @@ privacy-firefox-firefox-for-mobile = { -brand-name-firefox } para móviles
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } para móviles
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Contenidos
+# Variables:
+#   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
+privacy-firefox-take-me-back = Llévame <a { $attrs }>de vuelta al inicio</a> del Aviso de privacidad
+# Variables:
+#   $attrs (string) - in-page link to the top of the page
+privacy-firefox-lost-in-the = ¿Te has perdido en los detalles? Vuelve a los fundamentos de la privacidad de <a { $attrs }>{ -brand-name-firefox }</a>.
