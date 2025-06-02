@@ -9,7 +9,12 @@ firefox-enterprise-get-firefox-for-your-enterprise-with = Гирифтани «{
 firefox-enterprise-get-unmatched-data-protection = Бо «{ -brand-name-firefox }» барои корхонаҳо, ҳимояи баландсифати маълумотро мувофиқи ҷадвали нашри силсилаи браузерҳо истифода баред. Нашри дарозмуддат («{ -brand-name-esr }») ва нашри зудро («Rapid Release») боргирӣ намоед.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-get-firefox-for-your-enterprise = Браузери «{ -brand-name-firefox }»-ро дар корхонаи худ истифода баред
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+firefox-enterprise-get-the-firefox-extended-support = Браузери нашри дарозмуддат <a href="{ $url }">«{ -brand-name-firefox-extended-support-release }» ё нашри зудро («Rapid Release»)</a> барои амнияти ҳамаҷонибаи маълумоти шахсӣ ва ҳифзи маълумоти шахсӣ ба даст оред.
 firefox-enterprise-unmatched-data-protection = Муҳофизати беназир барои маълумоти шахсии шумо — аз пайдарпайи релизҳое, ки ба шумо беҳтар мувофиқат мекунанд
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-enterprise-the-firefox-browser-is-open = Браузери «{ -brand-name-firefox }» бо рамзи манбаи кушод буда, муҳофизати такмилёфта аз пайгирӣ — яъне ҳамаи қисмҳои уҳдадориҳои дарозмуддати моро оид ба ҳифзи маълумоти шахсӣ таъмин мекунад.
 firefox-enterprise-your-data-stays-your-business = Маълумоти шахсии шумо — кори шумост!
 firefox-enterprise-deploy-when-and-how-you-want = Бастаи насбро ба интиёри худ ва дар вақти дилхоҳ таҳия намоед
 firefox-enterprise-choose-your-release-cadence = Муҳлати силсилаи бароришҳои худро интихоб намоед
