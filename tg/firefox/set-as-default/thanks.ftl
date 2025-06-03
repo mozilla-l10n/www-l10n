@@ -14,7 +14,7 @@ set-as-default-thanks-youre-almost-done-just-change = Шумо қариб ҳам
 set-as-default-thanks-having-trouble-setting-your = Барои танзим кардани браузери пешфарзи худ мушкилӣ мекашед?
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
-set-as-default-thanks-heres-everything-you-need-android = Дар ин ҷой барои шумо тамоми маълумот дар бораи насб кардани браузери пешфарз дар <a href="{ $ios }">дастгоҳҳои «Android»</a> дастрас аст.
+set-as-default-thanks-heres-everything-you-need-android = Дар ин ҷой барои шумо тамоми маълумот дар бораи насб кардани браузери пешфарз дар <a href="{ $android }">дастгоҳҳои «Android»</a> дастрас аст.
 # Variables:
 #   $ios (url) - link to https://support.mozilla.org/en-US/kb/unable-set-firefox-default-browser-ios
 set-as-default-thanks-heres-everything-you-need-ios = Дар ин ҷой барои шумо тамоми маълумот дар бораи насб кардани браузери пешфарз дар <a href="{ $ios }">дастгоҳҳои «iOS»</a> дастрас аст.
