@@ -13,7 +13,7 @@ features-adblocker-an-ad-blocker-is-a-piece = Τα πρόσθετα φραγής
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
-features-adblocker-these-ads-might-be-loud = Οι διαφημίσεις μπορεί να είναι θορυβώδη βίντεο, στοιχεία που σας ακολουθούν στο διαδίκτυο, ιχνηλάτες, cookies τρίτων και πολλά άλλα. Μπορείτε να αναζητήσετε τα πρόσθετα φραγής διαφημίσεων που διατίθενται για το πρόγραμμα περιήγησής σας. Το <a href="{ $firefox }">{ -brand-name-firefox }</a>, για παράδειγμα, διαθέτει <a href="{ $addons }">αυτή τη λίστα εγκεκριμένων προσθέτων φραγής διαφημίσεων</a>. Κάντε κλικ σε αυτή τη λίστα (ή τα εγκεκριμένα πρόσθετα φραγής του προγράμματος περιήγησής σας) και δείτε ποιo ταιριάζει στις ανάγκες σας.
+features-adblocker-these-ads-might-be-loud = Οι διαφημίσεις αυτές μπορεί να είναι θορυβώδη βίντεο, στοιχεία που σας ακολουθούν στο διαδίκτυο, ιχνηλάτες, τρίτα cookie και πολλά άλλα. Μπορείτε να αναζητήσετε τα πρόσθετα φραγής διαφημίσεων που διατίθενται για το πρόγραμμα περιήγησής σας. Το <a href="{ $firefox }">{ -brand-name-firefox }</a>, για παράδειγμα, διαθέτει <a href="{ $addons }">αυτή τη λίστα εγκεκριμένων προσθέτων φραγής διαφημίσεων</a>. Κάντε κλικ σε αυτήν τη λίστα (ή τα εγκεκριμένα πρόσθετα φραγής του προγράμματος περιήγησής σας) και δείτε ποιo ταιριάζει στις ανάγκες σας.
 features-adblocker-find-the-right-ad-blocker = Βρείτε το κατάλληλο πρόσθετο για εσάς
 features-adblocker-there-are-scores-of-content = Υπάρχουν πολλά πρόσθετα φραγής περιεχομένου, αλλά δείτε μερικές φανταστικές επιλογές που προτείνει η { -brand-name-mozilla }…
 # Variables:
@@ -51,7 +51,7 @@ features-adblocker-take-a-bite-out-of-cookies = "Δαγκώστε" τα cookies
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/storage
 features-adblocker-cookies-are-sent-by-websites = Τα <a href="{ $url }">cookies</a> αποστέλλονται από τις ιστοσελίδες που επισκέπτεστε. Μένουν στον υπολογιστή σας και ελέγχουν τι κάνετε στο διαδίκτυο. Όταν μια αεροπορική εταιρεία αυξάνει τις τιμές επειδή κοιτάξατε αεροπορικά εισιτήρια εκείνη την ημέρα, αυτό οφείλεται σε ένα cookie.
-features-adblocker-in-firefox-you-can-block = Στο { -brand-name-firefox }, μπορείτε να αποκλείσετε όλα τα cookies τρίτων ή μόνο τα cookies ιχνηλατών. Σημειώστε ότι η φραγή όλων των cookies μπορεί να προκαλέσει δυσλειτουργίες ιστοσελίδων.
+features-adblocker-in-firefox-you-can-block = Στο { -brand-name-firefox }, μπορείτε να αποκλείσετε όλα τα τρίτα cookie ή μόνο τα cookie ιχνηλατών. Σημειώστε ότι η φραγή όλων των cookie μπορεί να προκαλέσει δυσλειτουργίες σε ορισμένους ιστοτόπους.
 features-adblocker-speed-up-thanks-to-ad = Επιτάχυνση μέσω φραγής διαφημίσεων
 features-adblocker-in-some-cases-an-ad-blocker = Μερικές φορές, η φραγή διαφημίσεων μπορεί να επιταχύνει την περιήγησή σας. Αυτό συμβαίνει επειδή, κατά τη φόρτωση μιας διαφήμισης, επιβραδύνεται η ιστοσελίδα. Ταυτόχρονα, χρειάζεστε περισσότερο χρόνο για να βρείτε αυτό που ψάχνετε όταν πρέπει να κλείνετε τη μία διαφήμιση μετά την άλλη.
 # Variables:

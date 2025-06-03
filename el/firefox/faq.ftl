@@ -48,7 +48,7 @@ is-firefox-safe = Είναι το { -brand-name-firefox } ασφαλές;
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
-not-only-is = Όχι μόνο είναι ασφαλής η χρήση του { -brand-name-firefox }, αλλά σας βοηθά να προφυλάξετε τα προσωπικά σας δεδομένα. Το { -brand-name-firefox-browser } εμποδίζει αυτόματα τη συλλογή των δεδομένων σας από γνωστούς ιχνηλάτες τρίτων, ιχνηλάτες κοινωνικών δικτύων, cryptominers και fingerprinters. <a href="{ $url }">Μάθετε περισσότερα σχετικά με το απόρρητο στα προϊόντα μας.</a>
+not-only-is = Όχι μόνο είναι ασφαλής η χρήση του { -brand-name-firefox }, αλλά σας βοηθά να προφυλάξετε τα προσωπικά σας δεδομένα. Το { -brand-name-firefox-browser } εμποδίζει αυτόματα τη συλλογή των δεδομένων σας από γνωστούς ιχνηλάτες τρίτων, ιχνηλάτες κοινωνικών δικτύων, cryptominer και fingerprinter. <a href="{ $url }">Μάθετε περισσότερα σχετικά με το απόρρητο στα προϊόντα μας.</a>
 related-questions-safe = Σχετικές ερωτήσεις: είναι το { -brand-name-firefox } κατάλληλο για το απόρρητο, είναι το { -brand-name-firefox } ασφαλές, είναι το { -brand-name-firefox } καλύτερο για το απόρρητο
 
 # Variables:
