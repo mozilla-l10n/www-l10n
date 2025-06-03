@@ -23,6 +23,7 @@ navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = Reklama { -brand-name-mozilla }
+navigation-refresh-mozilla-new-products = Produkte të Reja { -brand-name-mozilla }
 
 ## Firefox
 
