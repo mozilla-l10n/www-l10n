@@ -13,4 +13,4 @@ features-translate-what-languages-are-currently = Айни ҳол кадом з�
 # This is followed by a localized list of supported languages
 features-translate-the-languages-below-are-what-v2 = Дар айни замон хусусияти тарҷумаҳои «{ -brand-name-firefox-translations }» забонҳои зеринро дастгирӣ мекунад:
 features-translate-and-more-languages-are-in = Ва забонҳои бештар дар ҳоли рушд қарор доранд!
-features-translate-firefox-speaks-your-language = «{ -brand-name-firefox }» бо забони шумо ҳарф мезанад
+features-translate-firefox-speaks-your-language = Барномаи «{ -brand-name-firefox }» бо забони шумо ҳарф мезанад

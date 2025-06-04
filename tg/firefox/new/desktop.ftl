@@ -146,7 +146,7 @@ firefox-desktop-download-now-mac = Акнун, файлеро, ки ҳоли ҳ�
 firefox-desktop-download-select-linux = Имкони «<strong>Боргирӣ кардан</strong>»-ро дар зер интихоб намоед
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
-firefox-desktop-download-get-help = Мушкилӣ мекашед? <a { $attrs }>Барои насби худ кумак гиред</a>.
+firefox-desktop-download-get-help = Мушкилӣ мекашед? <a { $attrs }>Барои насб кардани барномаи худ кумак гиред</a>.
 firefox-desktop-download-in-another-language = Бо забони дигар ё барои низоми амалкунандаи дигар боргирӣ намоед.
 firefox-desktop-download-windows = { -brand-name-windows }
 # Variables:
