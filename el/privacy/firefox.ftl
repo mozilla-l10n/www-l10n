@@ -8,7 +8,9 @@
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Βασικές πληροφορίες απορρήτου
 privacy-firefox-youre-in-control = Εσείς έχετε τον έλεγχο
+privacy-firefox-privacy-isnt-just = Το απόρρητο δεν είναι απλά μια ρύθμιση — είναι δικαίωμά σας. Η σημείωση απορρήτου του { -brand-name-firefox } βασίζεται στη σαφήνεια, τον έλεγχο και τις υπεύθυνες προεπιλογές. Πιστεύουμε ότι πρέπει πάντα να έχετε τον έλεγχο για ό,τι συμβαίνει με τα δεδομένα σας. Μπορείτε να βασιστείτε σε εμάς για να εξηγήσουμε με σαφήνεια τι κάνει το { -brand-name-firefox } από προεπιλογή και να προσαρμόσετε τις ρυθμίσεις σας ώστε να μπορέσετε να περιηγηθείτε με τον τρόπο που εσείς θέλετε.
 privacy-firefox-read-our-privacy = Διαβάστε τη Σημείωση απορρήτου μας
+privacy-firefox-we-believe-you = Πιστεύουμε ότι πρέπει να γνωρίζετε πώς και γιατί χρησιμοποιούνται τα δεδομένα σας. Το { -brand-name-firefox } αναπτύσσεται με γνώμονα το απόρρητο και τη διαφάνεια σε κάθε βήμα.
 privacy-firefox-transparency-first = Διαφάνεια πάνω απ' όλα
 privacy-firefox-builtin-control = Ενσωματωμένος έλεγχος
 privacy-firefox-privacy-that-works = Απόρρητο που λειτουργεί για εσάς
