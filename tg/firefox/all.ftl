@@ -59,14 +59,14 @@ firefox-all-get-a-sneak-peek-at = Имкониятҳоро дар хусусия
 firefox-all-test-your-sites-against = Сомонаҳои худро барои мувофиқат бо хусусиятҳои браузери «{ -brand-name-firefox }», ки ба наздикӣ бароварда мешаванд, ба воситаи абзорҳои барномарезии пурзӯри «DevTools», ки ба таври пешфарз фаъол мебошанд, озмоед.
 firefox-all-count-on-stability-and = Ба устоворӣ ва осонӣ дар истифодаи браузери «{ -brand-name-firefox }» барои корхонаҳо аҳамият диҳед.
 firefox-all-windows-installers-for = Насбкунандаҳои «Windows» барои технологияҳои иттилоотии корхонаҳо, ки танзимот, рушду такомул ва идоракунии «{ -brand-name-firefox-browser }»-ро осон месозанд.
-firefox-all-arm64-installers = Насбкунандаи ARM64/AArch64
+firefox-all-arm64-installers = Насбкунандаи «ARM64/AArch64»
 firefox-all-arm64-installers-optimized-v2 = Насбкунандаҳои «ARM64/AArch64» барои компютерҳои шахсии «Windows» ва «Linux» беҳин шудаанд.
 firefox-all-testflight = Барои санҷиши «{ -brand-name-firefox }» дар iOS тавассути «TestFlight» сабти ном намоед.
 firefox-all-product-send-link = Фиристодани пайванд ба телефон барои боргирӣ кардани браузер
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Насбкунандаи 32-битро барои компютерҳо бо протсессорҳои 32-бит — ё барои компютерҳои куҳна ё камқувват интихоб намоед. <a href="{ $url }">Агар шумо боварӣ набошта бошед</a>, ки аз кадом насбкунандаи 64-бит ё 32-бит истифода баред, мо тавсия медиҳем, ки шумо аз насбкунандаи 32-бит истифода баред.
-firefox-all-msi-installers = Насбкунандаи MSI
+firefox-all-msi-installers = Насбкунандаи «MSI»
 firefox-all-select-your-preferred-language = Забони дилхоҳи худро интихоб намоед
 firefox-all-learn-about-installers = Маълумот дар бораи насбкунандаҳо
 firefox-all-product-firefox = { -brand-name-firefox }
