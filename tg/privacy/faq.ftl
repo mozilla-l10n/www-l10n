@@ -16,6 +16,7 @@ privacy-faq-at-mozilla-we-respect-and-protect = Дар «{ -brand-name-mozilla }
 privacy-faq-we-follow-a-set-of-data-privacy = Мо маҷмуи васеи <a href="{ $link }">Принсипҳои махфияти маълумотро</a> риоя мекунем, ки таҷрибаи моро дар масъалаи махфияти шахсӣ дар браузерҳои мизи корӣ ва мобилии «{ -brand-name-firefox }» муайян карда, таквият медиҳанд.
 privacy-faq-we-only-collect-the-data-we = Мо танҳо он маълумотеро ҷамъоварӣ мекунем, ки барои истеҳсоли маҳсулоти беҳтарин лозим аст.
 privacy-faq-we-put-people-in-control-of = Мо мехоҳем, ки одамон тавонанд мустақилона назорати маълумоти шахсӣ ва таҷрибаҳои онлайнии худро ба даст гиранд.
+privacy-faq-we-adhere-to-no-surprises-principle-v2 = Мо ба принсипи “бе ягон ҳайрат” вафодор мебошем, яъне ҳамеша кӯшиш мекунем, ки тасаввури мардум бояд аз «{ -brand-name-firefox }» ба воқеият мувофиқ бошад.
 privacy-faq-the-following-questions-and = Саволҳо ва ҷавобҳои зерин ба шумо кумак мекунанд, то фаҳмед, ки ҳар як корбари браузер аз «{ -brand-name-mozilla }» ва «{ -brand-name-firefox }» чӣ интизор шуда метавонад.
 privacy-faq-i-use-firefox-for-almost-everything = Ман барои аксари корҳои худ дар саросари Интернет аз браузери «{ -brand-name-firefox }» истифода мебарам. Шумо дар «{ -brand-name-mozilla }» эҳтимол бисёр чизҳоро дар бораи ман ҷамъ кардаед, дуруст?
 privacy-faq-really-you-dont-collect-my-browsing = Дар ҳақиқат, шумо таърихи тамошои маро дар браузер ҷамъ намекунед?
