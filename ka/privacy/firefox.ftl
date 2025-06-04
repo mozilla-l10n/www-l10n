@@ -17,3 +17,23 @@ privacy-firefox-transparency-first = გამჭვირვალობა უ
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = მკაფიოდ ვაცხადებთ, რომელ მონაცემებს ვიყენებთ და რისთვის. არავითარი მოულოდნელობები. <a { $attrs }>{ -brand-name-firefox } პირადი მონაცემების დაცვის დებულებით</a> დაწვრილებით აღწერს ყველაფერს.
 privacy-firefox-how-we-use = როგორ ვიყენებთ მონაცემებს
+privacy-firefox-we-use-data = გარკვეული მონაცემები გვესაჭიროება, რომ { -brand-name-firefox } მუდამ შეუფერხებლად მუშაობდეს და იხვეწებოდეს ახალი შესაძლებლობებით — ეს ყველაფერი თქვენი პირადულობის დაცვით. ზოგიერთი დამატებითი შესაძლებლობა მუშაობისთვის შეიძლება დამატებით მონაცემებს მოითხოვდეს, რომელთა იოლად მართვის საშუალებასაც გაძლევთ პარამეტრებიდან.
+privacy-firefox-builtin-control = მართვის ჩაშენებული საშუალებები
+privacy-firefox-always-protected = მუდამ დაცული
+privacy-firefox-privacy-that-works = თქვენზე მორგებული პირადულობა
+privacy-firefox-firefox-makes-it = { -brand-name-firefox } გიადვილებთ თქვენი მონაცემების განკარგვის საშუალებას პირადულობისა და უსაფრთხოების ჩაშენებული შესაძლებლობებით, ამასთანავე, ისეთი პარამეტრებით, რომლებითაც უკეთ შეძლებთ, სურვილისამებრ ინახულოთ გვერდები.
+privacy-firefox-manage-your-privacy = მართეთ თქვენი პირადულობის პარამეტრები:
+# Obsolete string (expires: 2025-04-24)
+privacy-firefox-firefox-for-desktop = { -brand-name-firefox } კომპიუტერისთვის
+privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } კომპიუტერისთვის
+# Obsolete string (expires: 2025-04-24)
+privacy-firefox-firefox-for-mobile = { -brand-name-firefox } მობილურზე
+privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } მობილურზე
+# heading for the table of contents, a shorter heading is better
+privacy-firefox-contents = სარჩევი
+# Variables:
+#   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
+privacy-firefox-take-me-back = დაბრუნება <a { $attrs }>უკან, პირადულობის განაცხადის დასაწყისში</a>
+# Variables:
+#   $attrs (string) - in-page link to the top of the page
+privacy-firefox-lost-in-the = დაგაბნიათ წვრილმანებმა? დაბრუნდით და იხილეთ <a { $attrs }>{ -brand-name-firefox } – პირადულობის საფუძვლები</a>.
