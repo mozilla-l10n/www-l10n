@@ -12,7 +12,13 @@ privacy-firefox-privacy-isnt-just = Το απόρρητο δεν είναι απ
 privacy-firefox-read-our-privacy = Διαβάστε τη Σημείωση απορρήτου μας
 privacy-firefox-we-believe-you = Πιστεύουμε ότι πρέπει να γνωρίζετε πώς και γιατί χρησιμοποιούνται τα δεδομένα σας. Το { -brand-name-firefox } αναπτύσσεται με γνώμονα το απόρρητο και τη διαφάνεια σε κάθε βήμα.
 privacy-firefox-transparency-first = Διαφάνεια πάνω απ' όλα
+# Variables:
+#   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
+privacy-firefox-were-clear-about = Είμαστε ξεκάθαροι ποια δεδομένα και γιατί τα χρησιμοποιούμε, χωρίς εκπλήξεις. Η <a { $attrs }>Σημείωση απορρήτου του { -brand-name-firefox }</a> τα περιγράφει λεπτομερώς.
+privacy-firefox-how-we-use = Πώς χρησιμοποιούμε τα δεδομένα
+privacy-firefox-we-use-data = Χρησιμοποιούμε τα δεδομένα για να συνεχίσουμε την ομαλή λειτουργία του { -brand-name-firefox }, να βελτιώσουμε τις λειτουργίες και να συνεισφέρουμε στη στήριξη της επιχείρησής μας, με σεβασμό στο απόρρητό σας. Ορισμένες προαιρετικές λειτουργίες ενδέχεται να απαιτούν επιπρόσθετα δεδομένα για να λειτουργήσουν και εμείς κάνουμε εύκολη τη διαχείριση των προτιμήσεών σας.
 privacy-firefox-builtin-control = Ενσωματωμένος έλεγχος
+privacy-firefox-firefox-gives-you = Το { -brand-name-firefox } σάς παρέχει απλά, ισχυρά εργαλεία για να διαχειριστείτε τα δεδομένα σας με τον τρόπο που θέλετε. Μπορείτε να βελτιώσετε τις ρυθμίσεις σας, να διαχωρίσετε την εργασία από την προσωπική σας ζωή ή να διαγράψετε το ανεπιθύμητο ιστορικό με λίγα μόνο κλικ.
 privacy-firefox-privacy-that-works = Απόρρητο που λειτουργεί για εσάς
 privacy-firefox-manage-your-privacy = Διαχειριστείτε τις ρυθμίσεις απορρήτου σας:
 # Obsolete string (expires: 2025-04-24)
