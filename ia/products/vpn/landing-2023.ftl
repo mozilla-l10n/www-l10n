@@ -56,3 +56,6 @@ vpn-landing-do-you-need-a-vpn-at-home = Besonia tu un VPN a casa? Ecce 5 ratione
 vpn-landing-what-is-an-ip-address = Que es un adresse IP?
 vpn-landing-how-your-location-is-tracked = Como tu position es traciate e como pote tu limitar compartir lo
 vpn-landing-see-more-resources = Vide altere ressources
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }
