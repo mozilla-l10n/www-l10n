@@ -17,6 +17,25 @@ privacy-firefox-transparency-first = Blaenori tryloywder
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Rydym yn glir ynghylch pa ddata rydym yn ei ddefnyddio a pham. Dim byd annisgwyl. Mae <a { $attrs }>Hysbysiad Preifatrwydd { -brand-name-firefox }</a> yn rhannu'r manylion hyn.
 privacy-firefox-how-we-use = Sut rydym yn defnyddio data
-privacy-firefox-we-use-data = Rydym yn defnyddio data i gadw { -brand-name-firefox } i redeg yn esmwyth, gwella nodweddion a helpu i gynnal ein busnes — y cyfan wrth barchu eich preifatrwydd. Efallai y bydd angen data ychwanegol ar rai nodweddion dewisol i weithredu, ac rydym yn ei gwneud hi'n hawdd rheoli'ch dewisiadau.
+privacy-firefox-we-use-data = Rydym yn defnyddio data i gadw { -brand-name-firefox } i redeg yn llyfn, gwella nodweddion a helpu i gynnal ein busnes — y cyfan wrth barchu eich preifatrwydd. Efallai y bydd angen data ychwanegol ar rai nodweddion dewisol i weithredu, ac rydym yn ei gwneud hi'n hawdd rheoli'ch dewisiadau.
 privacy-firefox-builtin-control = Rheolaeth fewnol
 privacy-firefox-firefox-gives-you = Mae { -brand-name-firefox } yn rhoi offer syml ond pwerus i chi reoli eich data yn ôl eich dymuniad. Gallwch chi fireinio'ch gosodiadau, gwahanu gwaith oddi wrth eich bywyd personol neu ddileu hanes diangen gyda dim ond ychydig o gliciau.
+privacy-firefox-always-protected = Diogelu parhaus
+privacy-firefox-firefox-protects-you = Mae { -brand-name-firefox } yn eich diogelu rhag tracwyr trydydd parti hysbys, tracwyr cyfryngau cymdeithasol, cryptogloddwyr, cwcis a thechnolegau olbysedd sy'n ceisio eich dilyn o amgylch y we.
+privacy-firefox-privacy-that-works = Preifatrwydd sy'n gweithio i chi
+privacy-firefox-firefox-makes-it = Mae { -brand-name-firefox } yn ei gwneud hi'n hawdd rheoli'ch data gyda nodweddion preifatrwydd a diogelwch integredig, ynghyd â gosodiadau sy'n caniatáu ichi fireinio'ch profiad pori.
+privacy-firefox-manage-your-privacy = Rheoli eich gosodiadau preifatrwydd:
+# Obsolete string (expires: 2025-04-24)
+privacy-firefox-firefox-for-desktop = { -brand-name-firefox } ar gyfer y Bwrdd Gwaith
+privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } ar gyfer bwrdd gwaith
+# Obsolete string (expires: 2025-04-24)
+privacy-firefox-firefox-for-mobile = { -brand-name-firefox } ar gyfer Symudol
+privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } ar gyfer symudol
+# heading for the table of contents, a shorter heading is better
+privacy-firefox-contents = Cynnwys
+# Variables:
+#   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
+privacy-firefox-take-me-back = Mynd nôl <a { $attrs }>i frig</a> yr Hysbysiad Preifatrwydd
+# Variables:
+#   $attrs (string) - in-page link to the top of the page
+privacy-firefox-lost-in-the = Ar goll yn y manylion? Ewch nôl at <a { $attrs }>hanfodion preifatrwydd { -brand-name-firefox }</a>.
