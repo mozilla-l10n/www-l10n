@@ -21,5 +21,9 @@ privacy-firefox-firefox-for-desktop = { -brand-name-firefox } mesa ariguápe
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } mesa ariguápe
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-mobile = { -brand-name-firefox } pumbyrygua
+privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } pumbyrýpe g̃uarã
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Tetepykuéra
+# Variables:
+#   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
+privacy-firefox-take-me-back = Ejevy <a { $attrs }>ñepyrũme</a> marandu’i ñemiguáva
