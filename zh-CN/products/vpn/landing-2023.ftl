@@ -54,3 +54,6 @@ vpn-landing-do-you-need-a-vpn-at-home = 在家也需要用 VPN 吗？请看五�
 vpn-landing-what-is-an-ip-address = 什么是 IP 地址？
 vpn-landing-how-your-location-is-tracked = 您所在位置被跟踪的原理，以及规避跟踪的措施
 vpn-landing-see-more-resources = 参阅更多资源
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }

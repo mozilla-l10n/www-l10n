@@ -56,3 +56,6 @@ vpn-landing-do-you-need-a-vpn-at-home = Otthon is szüksége van egy VPN-re? Ím
 vpn-landing-what-is-an-ip-address = Mi az IP-cím?
 vpn-landing-how-your-location-is-tracked = Hogyan történik a tartózkodási helyének követése, és hogyan korlátozhatja a megosztását
 vpn-landing-see-more-resources = További erőforrások megtekintése
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }

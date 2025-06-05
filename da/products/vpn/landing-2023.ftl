@@ -55,3 +55,6 @@ vpn-landing-do-you-need-a-vpn-at-home = Har du brug for en VPN derhjemme? Her er
 vpn-landing-what-is-an-ip-address = Hvad er en IP-adresse?
 vpn-landing-how-your-location-is-tracked = Hvordan din placering spores, og hvad du kan gøre for at begrænse delingen af den
 vpn-landing-see-more-resources = Se flere ressourcer
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }

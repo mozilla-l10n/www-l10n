@@ -64,3 +64,6 @@ vpn-landing-do-you-need-a-vpn-at-home = Oes angen VPN arnoch chi gartref? Dyma 5
 vpn-landing-what-is-an-ip-address = Beth yw cyfeiriad IP?
 vpn-landing-how-your-location-is-tracked = Sut y caiff eich lleoliad ei dracio a sut y gallwch gyfyngu ar ei rannu
 vpn-landing-see-more-resources = Gweld mwy o adnoddau
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }

@@ -58,3 +58,6 @@ vpn-landing-do-you-need-a-vpn-at-home = Вам нужен VPN дома? Вот 5
 vpn-landing-what-is-an-ip-address = Что такое IP-адрес?
 vpn-landing-how-your-location-is-tracked = Как отслеживается ваше местоположение и как вы можете ограничить его распространение
 vpn-landing-see-more-resources = Посмотреть больше ресурсов
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }
