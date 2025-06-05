@@ -5,7 +5,7 @@
 newsletter-form-please-enter-a-valid = يُرجى إدخال عنوان بريد إلكتروني صالح.
 newsletter-form-you-must-agree-to = يجب أن تُوافق على إشعار الخصوصية
 newsletter-form-your-email-address = عنوان البريد الإلكتروني
-newsletter-form-we-are-sorry-but-there = نأسف، حدثت مشكلة في نظامنا. من فضلك حاول ثانية فيما بعد!
+newsletter-form-we-are-sorry-but-there = عذرًا، لقد حدثت مُشكلة في نظامنا. من فضلك أعِد المحاولة في وقت لاحق.
 newsletter-form-please-select-country = يُرجى اختيار بلد أو منطقة
 newsletter-form-please-select-language = يُرجى اختيار لغة
 
@@ -46,6 +46,6 @@ newsletter-form-label = نموذج الاشتراك في النشرة الإخب
 multi-newsletter-form-checkboxes-legend = أريد معلومات عن:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
-multi-newsletter-form-checkboxes-error = يُرجى تحديد خيار واحد على الأقل من خيارات الرسائل الإخبارية.
+multi-newsletter-form-checkboxes-error = يُرجى تحديد خيار واحد على الأقل من خيارات النشرات الإخبارية.
 multi-newsletter-form-title = أحب الويب
 multi-newsletter-form-desc = استقبل الرسائل الإخبارية من { -brand-name-mozilla } وساعِدنا على الحفاظ على إبقاء شبكة الويب مفتوحة ومجانية.
