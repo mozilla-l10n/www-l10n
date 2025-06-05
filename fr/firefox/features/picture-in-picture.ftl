@@ -8,7 +8,7 @@
 features-pip-firefox-picture-in-picture-get-more = Incrustation vidéo { -brand-name-firefox } : gagnez en efficacité avec les vidéos incrustées
 
 # HTML page description
-features-pip-got-things-to-do-and-things-to-watch = Vous avez des sites web à visiter et des vidéos à regarder ? Vous pouvez maintenant tout faire en même temps en utilisant l’incrustation vidéo de { -brand-name-firefox }.
+features-pip-got-things-to-do-and-things-to-watch = Vous avez des choses à faire et des vidéos à regarder ? Vous pouvez maintenant tout faire en même temps en utilisant l’incrustation vidéo de { -brand-name-firefox }.
 
 features-pip-picture-in-picture = Incrustation vidéo
 features-pip-get-more-done-with-pop-out-videos = Gagnez en efficacité avec les vidéos incrustées

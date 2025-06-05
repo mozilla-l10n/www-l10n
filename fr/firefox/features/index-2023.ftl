@@ -41,4 +41,4 @@ features-index-ditch-the-sticky-ads = Débarrassez-vous des publicités qui vous
 features-index-translate-the-web = Traduisez le Web
 features-index-translate-websites-to-your = Traduisez des sites web dans votre langue directement depuis votre navigateur { -brand-name-firefox }, sans partager vos données.
 features-index-picture-in-picture = Incrustation vidéo
-features-index-got-things-to-do = Vous avez des choses à faire et de vidéos à regarder ? Vous pouvez maintenant tout faire en même temps en utilisant l’incrustation vidéo de { -brand-name-firefox }.
+features-index-got-things-to-do = Vous avez des choses à faire et des vidéos à regarder ? Vous pouvez maintenant tout faire en même temps en utilisant l’incrustation vidéo de { -brand-name-firefox }.

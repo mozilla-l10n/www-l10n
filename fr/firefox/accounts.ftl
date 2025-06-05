@@ -31,7 +31,7 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Envoyer un onglet</a> vers un 
 firefox-accounts-save-and-sync = <a href="{ $password }">Enregistrer et synchroniser vos mots de passe</a>
 firefox-accounts-get-email-alerts = Recevoir des alertes par e-mail quand vos informations sont concernées par une faille de données connue
 
-firefox-accounts-protect-your-identity = Protéger votre identité grâce au masquage sécurisé du numéro de téléphone et de l’adresse e-mail
+firefox-accounts-protect-your-identity = Protégez votre identité avec des alias de messagerie et de numéro de téléphone sécurisés
 firefox-accounts-keep-your-passwords = Des mots de passe sûrs qui vous suivent partout.
 firefox-accounts-travel-the-internet = Une navigation sécurisée sur tous vos appareils.
 firefox-accounts-encrypt-your = Chiffrer votre activité en réseau et masquer votre adresse IP

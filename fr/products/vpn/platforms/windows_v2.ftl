@@ -12,8 +12,8 @@ vpn-windows-windows-is-one = Windows est l'un des systèmes d’exploitation les
 vpn-windows-a-vpn-creates = Un VPN crée un « tunnel » chiffré pour vos données en ligne entre votre ordinateur Windows et Internet, et masque votre localisation aux sites web que vous visitez. Ces opérations contribuent à empêcher les tiers et les espions d’obtenir des informations sur vous qu’ils n’ont pas besoin de connaître.
 vpn-windows-what-are-the-benefits = Quels sont les avantages de télécharger { -brand-name-mozilla-vpn } sur mon appareil Windows ?
 vpn-windows-avoid-your-online = Évitez que votre activité en ligne soit enregistrée et partagée avec des tiers ou des annonceurs.
-vpn-windows-if-youre = Si vous utilisez beaucoup les services de streaming vidéo ou musicaux, vous pouvez potentiellement éviter la restriction ou la réduction de votre bande passante par votre fournisseur d’accès à Internet en utilisant un VPN.
-vpn-windows-you-can-exclude = Vous pouvez exclure certaines applications grâce à la fonctionnalité de tunnels fractionnés. Elle vous permet de faire fonctionner certaines applications avec le VPN, et d’autres hors du tunnel.
+vpn-windows-if-youre = Si vous utilisez souvent les services de streaming vidéo ou musical, vous pouvez potentiellement éviter la restriction ou la réduction de votre bande passante par votre fournisseur d’accès à Internet en utilisant un VPN.
+vpn-windows-you-can-exclude = Vous pouvez exclure certaines applications grâce à la fonctionnalité de tunnels fractionnés. Celle-ci vous permet de faire fonctionner certaines applications avec le VPN, et d’autres hors du tunnel.
 vpn-windows-using-a-windows = Utiliser un appareil Windows sur un réseau Wi-Fi public non sécurisé rend vos informations de trafic plus vulnérables à l’espionnage sur le réseau. Un VPN peut vous aider à préserver la confidentialité de vos données en ajoutant une solide protection.
 vpn-windows-the-mozilla = L’application { -brand-name-mozilla-vpn } utilise peu de mémoire sur votre appareil Windows, ne le ralentit pas et ne draine pas votre batterie.
 
