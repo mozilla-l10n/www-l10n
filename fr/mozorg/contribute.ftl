@@ -44,7 +44,7 @@ contribute-opportunities = Informations et possibilités de bénévolat
 
 contribute-made-by-heading = Créé par des passionnés comme vous
 contribute-made-by-desc = Lorsque vous contribuez à { -brand-name-mozilla }, vous faites partie d’une communauté mondiale de personnes qui croient que nous avons toutes et tous un rôle à jouer pour garantir qu’Internet reste une force de progrès.
-contribute-made-by-desc-cont = Nous pensons que la collaboration communautaire est essentielle pour créer un Internet diversifié, innovant et responsable envers les personnes qui en ont le plus besoin. Que vous ayez des compétences techniques ou d’organisation communautaire, ou avez juste un ordinateur et un peu de temps libre, vous pouvez nous aider à faire d’Internet un meilleur endroit.
+contribute-made-by-desc-cont = Nous pensons que la collaboration communautaire est essentielle pour créer un Internet diversifié, innovant et responsable envers les personnes qui en ont le plus besoin. Que vous ayez des compétences techniques ou d’organisation communautaire, ou simplement un ordinateur et un peu de temps libre, vous pouvez nous aider à faire d’Internet un endroit meilleur.
 
 ## Newsletter
 
@@ -61,5 +61,5 @@ contribute-mozilla-support = Assistance pour { -brand-name-mozilla }
 ## Web compat
 
 contribute-web-compat-heading = Des problèmes avec une page web ?
-contribute-web-compat-desc = Si votre expérience d'un site web diffère d'un navigateur à l'autre, c'est peut-être parce que vous avez découvert un problème de compatibilité web. Nous serions ravis de le savoir !
+contribute-web-compat-desc = Si votre expérience d’un site web diffère d’un navigateur à l’autre, c’est peut-être parce que vous avez découvert un problème de compatibilité web. Nous serions ravis de le savoir !
 contribute-report-issue = Signaler un problème

@@ -5,7 +5,7 @@
 newsletter-form-please-enter-a-valid = कृपया एक वैध ईमेल पता दर्ज करें
 newsletter-form-you-must-agree-to = आपको निजता सूचना से सहमत होना चाहिए
 newsletter-form-your-email-address = आपका ईमेल पता
-newsletter-form-we-are-sorry-but-there = हमें खेद है, लेकिन हमारे सिस्टम में एक समस्या थी। कृपया बाद में पुनः प्रयास करें!
+newsletter-form-we-are-sorry-but-there = हमें खेद है, लेकिन हमारे सिस्टम में कुछ दिक्कत आ गई थी। कृपया बाद में फिर से कोशिश करें!
 newsletter-form-please-select-country = कृपया देश या क्षेत्र चुनें
 newsletter-form-please-select-language = कृपया भाषा चुनें
 

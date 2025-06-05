@@ -19,7 +19,7 @@ mission-we-believe-this-act-of-human-collaboration = Kami percaya tindakan kolab
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn-v2 = Baca <a href="{ $url }">Manifesto { -brand-name-mozilla }</a> untuk mempelajari lebih lanjut mengenai nilai dan prinsip yang memandu pencapaian misi kami.
 
-mission-watch-the-video-above-to-learn-more = Tonton video di atas untuk mempelajari lebih lanjut mengenai kami, di mana kami berasal, dan bagaimana kami membuat Web menjadi lebih baik untuk Anda.
+mission-watch-the-video-above-to-learn-more = Tonton video di atas untuk mempelajari lebih lanjut mengenai kami, dari mana kami berasal, dan bagaimana kami membuat Web menjadi lebih baik untuk Anda.
 
 mission-get-involved = Mari Terlibat
 

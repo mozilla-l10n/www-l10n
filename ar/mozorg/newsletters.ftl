@@ -21,24 +21,24 @@ newsletters-newsletter-confirm = تأكيد النشرة الإخبارية
 
 newsletters-thanks-for-subscribing = شكرًا لك على اشتراكك!
 newsletters-your-newsletter-subscription = تم تأكيد اشتراكك في الرسائل الإخبارية.
-newsletters-please-be-sure-to-add-our-v2 = يُرجى التأكد من إضافة عنوان الإرسال الخاص بنا: mozilla@email.mozilla.org إلى دفتر عناوينك لِضمان وصولنا دائمًا إلى صندوق الوارد لديك.
+newsletters-please-be-sure-to-add-our-v2 = يُرجى التأكد من إضافة عنوان بريدنا الإلكتروني mozilla@email.mozilla.org إلى دفتر عناوينك لِضمان وصولنا دائمًا إلى صندوق الوارد لديك.
 
 # Variables:
 #   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
 newsletters-the-supplied-link-has-expired-v2 = انتهت صلاحية الرابط المُتوفر. يُرجى <a { $recovery_href }>طلب رابط جديد هنا</a>.
 
-newsletters-something-is-amiss-with = حدث خطأ في نظامنا، نأسف! من فضلك حاول ثانية فيما بعد.
-newsletters-youre-awesome = انت رائع!
+newsletters-something-is-amiss-with = عذرًا، لقد حدث خطأ في نظامنا. من فضلك أعِد المحاولة في وقت لاحق.
+newsletters-youre-awesome = أنت رائع!
 newsletters-and-were-not-just-saying = ونحن لا نقول ذلك لمجرد أنك تثق بنا واطلعتنا على بريدك الإلكتروني.
-newsletters-please-be-sure-to-add-mozillaemailmozillaorg = يُرجى التأكد من إضافة mozilla@email.mozilla.org إلى دفتر عناوينك لِضمان وصولنا دائمًا إلى صندوق الوارد لديك.
+newsletters-please-be-sure-to-add-mozillaemailmozillaorg = يُرجى التأكد من إضافة عنوان البريد الإلكتروني mozilla@email.mozilla.org إلى دفتر عناوينك لِضمان وصولنا دائمًا إلى صندوق الوارد لديك.
 
 newsletters-mozilla-touches-on-a-variety = يعالج { -brand-name-mozilla } مجموعة متنوعة من المسائل المهمة.
 newsletters-open-your-inbox-and-your = افتح صندوق الوارد الخاص بك (وقلبك) أكثر — ألق نظرة على الموضوعات الأخرى التي نغطيها.
-newsletters-manage-your-email-preferences = أدر تفضيلاتك الخاصّة بالبريد
+newsletters-manage-your-email-preferences = أدِر تفضيلات بريدك الإلكتروني
 newsletters-this-page-is-in-maintenance = هذه الصفحة في وضع الصيانة وغير متاحة مؤقتًا.
-newsletters-to-update-your-email-preferences = لتحديث تفضيلات البريد الإلكتروني الخاصة بك، يُرجى التحقق مرة أخرى بعد قليل. شكراً!
+newsletters-to-update-your-email-preferences = لتحديث تفضيلات بريدك الإلكتروني، يُرجى التحقّق مرة أخرى بعد قليل. شكرًا!
 newsletters-we-love-sharing-updates = نحن نحب مشاركة التحديثات حول كل الأشياء الرائعة التي تحدث في { -brand-name-mozilla }.
-newsletters-set-your-preferences-below = قم بتعيين تفضيلاتك أدناه للتأكد من أنك تتلقى الأخبار التي تريدها دائمًا.
+newsletters-set-your-preferences-below = حدِّد تفضيلاتك فيما يَلي للتأكد من أنك تتلقّى الأخبار التي تريدها دائمًا.
 
 # Form field label
 newsletters-your-email-address = عنوان بريدك الإلكتروني:
@@ -88,7 +88,7 @@ newsletters-newsletter-email-recovery = استعادة البريد الالكت
 newsletters-manage-your-newsletter = إدارة <span>اشتراكات الرسائل الإخبارية</span>
 
 # Subtitle for https://www-dev.allizom.org/newsletter/recovery/
-newsletters-enter-your-email-address = أدخل عنوان بريدك الإلكتروني وسنرسل لك رابطًا إلى مركز تفضيلات بريدك الإلكتروني.
+newsletters-enter-your-email-address = أَدخِل عنوان بريدك الإلكتروني وسنُرسل لك رابطًا إلى مركز تفضيلات بريدك الإلكتروني.
 
 newsletters-send-me-a-link = أرسِل إليّ رابطًا
 newsletters-youve-been-unsubscribed = لقد ألغي اشتراكك.
@@ -111,7 +111,7 @@ newsletters-whats-mozilla-all-about = ما هي أهداف { -brand-name-mozilla
 newsletters-were-glad-you-asked = مسرورون لأنك سألت عن ذلك!
 
 # Headline for https://www-dev.allizom.org/newsletter/developer/
-newsletters-love-the-web-so-do-we = هل تحب الويب؟ ونحن كذلك!ّ
+newsletters-love-the-web-so-do-we = هل تُحب الإنترنت؟ ونحن كذلك!ّ
 
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
 newsletters-unlock-the-world-of-web = اطلع على عالم تطوير الويب من خلال نشرتنا المطوّرة الإخبارية من { -brand-name-mozilla }. يُقدم لك كل إصدار تقنيات البرمجة وأفضل المُمارسات، وتحديثات { -brand-name-mdn } معلومات حول التقنيات الناشئة ونصائح أدوات المُطور والمزيد.
@@ -122,9 +122,9 @@ newsletters-make-the-most = حقّق أقصى استفادة من { -brand-name-
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-sign-up-to-receive-monthly = اشترك لتصلك التحديثات الشهرية من { -brand-name-firefox } وأخبار الإنترنت التي تُشكل حياتك عبر الإنترنت.
 
-newsletters-we-are-sorry-but-there = نأسف، حدثت مشكلة في نظامنا. من فضلك حاول ثانية فيما بعد!
+newsletters-we-are-sorry-but-there = عذرًا، لقد حدثت مُشكلة في نظامنا. من فضلك أعِد المحاولة في وقت لاحق.
 newsletters-thanks-for-updating-your = شكرا لتحديث تفضيلاتك الخاصّة بالبريد الإلكتروني.
-newsletters-success-an-email-has-been-sent = نجاح! تم إرسال بريد إلكتروني إليك يحتوي على رابط مركز التفضيلات الخاص بك. شكراً!
+newsletters-success-an-email-has-been-sent = نجحت! أُرسِلَت رسالة بريد إلكتروني إليك تحتوي على رابط مركز تفضيلاتك. شكراً!
 newsletters-this-is-not-a-valid-email = هذا ليس عنوان بريد إلكتروني صالح. يُرجى التحقق من الإملاء.
 newsletters-you-send-too-many-emails = ترسلون الكثير من الرسائل الإلكترونية.
 newsletters-your-content-wasnt-relevant = ليس لمُحتواكم صلة بيّ.
@@ -135,7 +135,7 @@ newsletters-fxa-error-retry = عذرًا، لقد حدثت مُشكلة أثنا
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
-newsletters-this-email-address-is-not = عنوان البريد الإلكتروني هذا ليس مدرجًا في نظامنا. يُرجى التحقق مرتين من عنوانك أو <a href="{ $url }">اشترك في الرسائل الإخبارية.</a>
+newsletters-this-email-address-is-not = عنوان البريد الإلكتروني الإلكتروني هذا ليس مدرجًا في نظامنا. يُرجى التحقق مرتين من عنوانك أو <a href="{ $url }">اشترك في الرسائل الإخبارية.</a>
 
 # Note: Bluesky is a brand name that shouldn't be translated
 newsletters-im-keeping-in-touch-v3 = أنا على تواصل مع { -brand-name-mozilla } على Bluesky بدلًا من ذلك.
@@ -151,9 +151,9 @@ newsletters-get-smart-on-the-issues = كن ذكيًا في المسائل الت
 newsletters-your-email-preferences = تم تحديث تفضيلات البريد الإلكتروني الخاص بك بنجاح.
 newsletters-consider-it-done = اعتبر الأمر منتهٍِ
 newsletters-back-to-email-preferences = العودة إلى تفضيلات البريد الإلكتروني
-newsletters-here-are-a-few-things = في ما يلي بعض الأشياء التي يجب النظر فيها أثناء انتظار بريدك الإلكتروني التالي.
+newsletters-here-are-a-few-things = إليك بعض الأشياء التي يَجب النظر فيها أثناء انتظار بريدك الإلكتروني التالي.
 newsletters-take-your-privacy = خذ خصوصيتك معك أينما ذهبت
-newsletters-travel-the-internet = أبحر في غمار الإنترنت بفضل الحماية على جميع أجهزتك.
+newsletters-travel-the-internet = أبحِر في غمار الإنترنت بفضل الحماية الموجودة على جميع أجهزتك.
 newsletters-download-the-app = نزّل التطبيق
 newsletters-check-for-data-breaches = تحقق من حدوث أية خروقات
 
@@ -182,10 +182,10 @@ newsletters-drumbeat-newsgroup = Drumbeat Newsgroup
 newsletters-firefox-for-desktop = { -brand-name-firefox } لأجهزة كمبيوتر سطح المكتب
 
 # Description for the newsletter in Newsletter subscription page (Firefox for desktop)
-newsletters-dont-miss-the-latest = لا تُفوّت أحدث إعلاناتنا المُتعلّقة بإصدار سطح المكتب من المُتصفّح.
+newsletters-dont-miss-the-latest = لا تُفوّت أحدث الإعلانات ذات الصِلة بمُتصفحنا المُخصّص لأجهزة الكمبيوتر المكتبية.
 
 # Name for the newsletter in Newsletter subscription page
-newsletters-get-involved = شارك
+newsletters-get-involved = شارِك
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-insights = رؤى
@@ -221,10 +221,10 @@ newsletters-student-reps = مُمثلو الطلاب
 newsletters-former-university-program-v2 = البرنامج الجامعي السابق (2008-2011) والذي أعيد إطلاقه الآن، بعد توقفه، تحت مُسمى { -brand-name-firefox } برنامج الطالب السفير.
 
 # Name for the newsletter in Newsletter subscription page
-newsletters-take-action = بادر بالتحرك من أجل الإنترنت
+newsletters-take-action = بادر بالتحرّك من أجل الإنترنت
 
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
-newsletters-add-your-voice = أضف صوتك إلى الالتماسات والفعاليات والمبادرات التي تُناضل من أجل مستقبل الويب.
+newsletters-add-your-voice = أضف صوتك إلى الالتماسات والفعاليات والمبادرات التي تُناضل من أجل مستقبل الإنترنت.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = مجتمع { -brand-name-mozilla }
@@ -377,7 +377,7 @@ newsletter-welcome-emails-that-get-you = رسائل بريد إلكتروني ت
 newsletters-subscribe-to-the-newsletter = اشترك في النشرة الإخبارية
 
 # Out of date browser message for newsletter management page.
-newsletters-update-your-browser = يَحتاج مُتصفح الويب لديك للتحديث لتتمكّن من استخدام هذه الصفحة.
+newsletters-update-your-browser = يَحتاج مُتصفح الإنترنت الذي تستخدمه إلى تحديث لتتمكّن من استخدام هذه الصفحة.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-security-and-privacy-news = أخبار الأمان والخصوصية
@@ -388,4 +388,4 @@ newsletters-stay-informed-of-the-latest = ابق على عِلم بكل ما ه�
 # Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-get-security-and-privacy-news-and-tips = احصل على أخبار الأمان والخصوصية وتحديثات المنتجات من { -brand-name-mozilla } لتبقى آمنًا وعلى معرفة بكل شيء يجعل الويب مكانًا أكثر أمانًا.
 
-newsletters-opt-out-delay = قد يستغرق الأمر من 1 إلى 2 يوم عمل لمعالجة طلب إلغاء الاشتراك الخاص بك، وخلال هذه الفترة قد تستقبل بريدًا إلكترونيًا آخرًا.
+newsletters-opt-out-delay = قد تستغرق مُعالجة طلب إلغاء اشتراكك مدة تتراوح من يومٍ إلى يومي عمل تتلقى خلالها رسالة بريد إلكتروني أخرى.

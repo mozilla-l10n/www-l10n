@@ -9,7 +9,7 @@ navigation-v2-menu = Menu
 
 ## Firefox menu
 
-navigation-v2-firefox-browsers = Navigateurs Firefox
+navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Fermer le menu { -brand-name-firefox-browsers }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } pour ordinateur
 navigation-v2-get-the-not-for-profit-backed = Adoptez le navigateur soutenu par une organisation à but non lucratif sous { -brand-name-windows }, { -brand-name-mac-short } ou { -brand-name-linux }.
@@ -59,7 +59,7 @@ navigation-v2-meet-the-not-for-profit-behind = Découvrez l’organisation à bu
 navigation-v2-get-involved = Contribuer
 navigation-v2-join-the-fight-for-a = Aidez-nous à lutter pour un Internet en bonne santé.
 navigation-v2-leadership = Direction
-navigation-v2-meet-the-team-thats-building = Découvrez l’équipe qui développe des technologies pour un meilleur Internet.
+navigation-v2-meet-the-team-thats-building = Découvrez l’équipe qui développe des technologies pour un Internet meilleur.
 navigation-v2-careers = Emplois
 navigation-v2-work-for-a-mission-driven-updated = Travaillez pour une organisation dont la mission est de concevoir des produits axés sur les personnes.
 navigation-v2-mozilla-blog = Blog de { -brand-name-mozilla }

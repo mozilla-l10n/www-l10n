@@ -9,7 +9,7 @@ moz-account-promo-title = 1 回のログインで<br>{ -brand-name-mozilla } の
 # Variables
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
-moz-account-already-have-v2 = 既にアカウントをお持ちの場合:<a { $sign_in_url }>ログイン</a>または { -brand-name-mozilla } への登録の<a { $learn_more_url }>詳細を確認</a>
+moz-account-already-have-v2 = 既にアカウントをお持ちの場合: <a { $sign_in_url }>ログイン</a>または { -brand-name-mozilla } への登録の<a { $learn_more_url }>詳細を確認</a>
 
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }

@@ -19,7 +19,7 @@ mission-we-believe-this-act-of-human-collaboration = نعتقد أن هذا ال
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
 mission-read-the-mozilla-manifesto-to-learn-v2 = اقرأ <a href="{ $url }">بيان { -brand-name-mozilla }</a> لِمعرفة المزيد عن القيم والمبادئ التي تسترشد بها مُهمتنا.
 
-mission-watch-the-video-above-to-learn-more = شاهد الفيديو أعلاه لمعرفة المزيد عن من نحن ومن أين أتينا وكيف نجعل الويب أفضل بالنسبة لك.
+mission-watch-the-video-above-to-learn-more = شاهد الفيديو المعروض أعلاه لِمعرفة المزيد عنا وعن نشأتنا وعن الطرق التي نتبعها لِجعل الإنترنت خدمة أفضل لك.
 
 mission-get-involved = اشترك
 
