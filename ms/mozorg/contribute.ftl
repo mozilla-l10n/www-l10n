@@ -8,7 +8,7 @@
 
 contribute-page-title = Peluang Sukarelawan di { -brand-name-mozilla }
 contribute-page-heading = Bakat anda diperlukan untuk internet yang lebih baik
-contribute-page-intro = { -brand-name-mozilla } adalah sebuah organisasi bukan berasaskan keuntungan yang berusaha memastikan internet adalah terbuka dan mengalu-alukan semua. Dan kami perlukan bantuan anda. Dengan menyertai komuniti kami, anda boleh memacu inovasi, meningkatkan rasa tanggungjawab dan kepercayaan dan menjadikan internet satu tempat yang selamat untuk semua.
+contribute-page-intro = { -brand-name-mozilla } adalah sebuah organisasi bukan berasaskan keuntungan yang berusaha memastikan internet adalah terbuka dan mengalu-alukan semua. Dan kami perlukan bantuan anda. Dengan menyertai komuniti kami, anda boleh memacu inovasi, meningkatkan rasa tanggungjawab dan kepercayaan serta menjadikan internet satu tempat yang selamat untuk semua.
 contribute-how-heading = Bagaimana anda boleh menyumbang…
 
 ## Contribution tasks

@@ -21,20 +21,20 @@ newsletters-newsletter-confirm = Sahkan Buletin
 
 newsletters-thanks-for-subscribing = Terima kasih di atas Langganan!
 newsletters-your-newsletter-subscription = Langganan buletin anda telah disahkan.
-newsletters-please-be-sure-to-add-our-v2 = Pastikan alamat penghantaran kami: mozilla@email.mozilla.org disimpan di dalam buku alamat agar kandungan kami sampai kepada anda.
+newsletters-please-be-sure-to-add-our-v2 = Pastikan alamat penghantaran kami: mozilla@email.mozilla.org disimpan di dalam buku alamat agar kandungan kami dapat diterima oleh anda.
 
 # Variables:
 #   $recovery_href (url) - link href to https://www.mozilla.org/newsletter/recovery/
-newsletters-the-supplied-link-has-expired-v2 = Pautan yang diberikan telah tamat. Sila <a { $recovery_href }>mohon pautan baru di sini</a>.
+newsletters-the-supplied-link-has-expired-v2 = Pautan yang diberikan telah luput. Sila <a { $recovery_href }>mohon pautan baru di sini</a>.
 
-newsletters-something-is-amiss-with = Ada yang tidak kena dengan sistem kami, maaf! Sila cuba sebentar lagi.
-newsletters-youre-awesome = Anda hebat!
+newsletters-something-is-amiss-with = Maaf! Ada yang tidak kena dengan sistem kami. Sila cuba sebentar lagi.
+newsletters-youre-awesome = Anda memang gempak!
 newsletters-and-were-not-just-saying = Kami tidak hanya mengatakannya kerana anda mempercayai kami dengan alamat e-mel anda.
-newsletters-please-be-sure-to-add-mozillaemailmozillaorg = Pastikan alamat mozilla@email.mozilla.org disimpan di dalam buku alamat agar kandungan kami sampai kepada anda.
+newsletters-please-be-sure-to-add-mozillaemailmozillaorg = Pastikan alamat mozilla@email.mozilla.org disimpan di dalam buku alamat agar kandungan kami dapat anda terima.
 
 newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } menyentuh tentang pelbagai isu yang penting.
 newsletters-open-your-inbox-and-your = Buka peti e-mel anda (dan hati) lebih kerap — lihat topik lain yang kami rangkumi.
-newsletters-manage-your-email-preferences = Urus Pilihan E-mel anda
+newsletters-manage-your-email-preferences = Uruskan Pilihan E-mel anda
 newsletters-this-page-is-in-maintenance = Halaman ini dalam mod penyelenggaraan dan tidak tersedia buat sementara waktu.
 newsletters-to-update-your-email-preferences = Untuk mengemas kini pilihan e-mel anda, sila kembali sebentar lagi. Terima kasih!
 newsletters-we-love-sharing-updates = Kami suka berkongsi perkembangan terkini dan kehebatan yang berlaku di { -brand-name-mozilla }.
@@ -111,7 +111,7 @@ newsletters-whats-mozilla-all-about = Apa ceritanya { -brand-name-mozilla } ini?
 newsletters-were-glad-you-asked = Kami gembira anda bertanya!
 
 # Headline for https://www-dev.allizom.org/newsletter/developer/
-newsletters-love-the-web-so-do-we = Gemarkan internet? Kami pun sama!
+newsletters-love-the-web-so-do-we = Cintakan internet? Kami pun sama!
 
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
 newsletters-unlock-the-world-of-web = Bukakan dunia pembangunan web dengan { -brand-name-mozilla } Developer Newsletter mingguan. Setiap edisi membawa anda teknik pengkodan dan amalan terbaik, kemas kini { -brand-name-mdn }, maklumat mengenai teknologi baru, tip alat pembangun, dan banyak lagi.
@@ -135,7 +135,7 @@ newsletters-fxa-error-retry = Maaf, ada masalah yang menghalang anda mengakses t
 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/newsletter/
-newsletters-this-email-address-is-not = Alamat e-mel ini tidak ada di dalam sistem kami. Sila periksa semula alamat anda atau <a href="{ $url }">melanggan buletin kami.</a>
+newsletters-this-email-address-is-not = Alamat e-mel ini tiada di dalam sistem kami. Sila periksa semula alamat anda atau <a href="{ $url }">melanggan buletin kami.</a>
 
 # Note: Bluesky is a brand name that shouldn't be translated
 newsletters-im-keeping-in-touch-v3 = Saya kekal berhubung dengan { -brand-name-mozilla } di Bluesky.
@@ -153,7 +153,7 @@ newsletters-consider-it-done = Anggap sahaja semuanya selesai
 newsletters-back-to-email-preferences = Kembali ke pilihan e-mel
 newsletters-here-are-a-few-things = Berikut adalah beberapa perkara yang boleh anda ketahui sambil menunggu e-mel yang seterusnya.
 newsletters-take-your-privacy = Bawa privasi anda bersama
-newsletters-travel-the-internet = Mengembara ke seluruh pelosok internet dengan semua peranti anda dilindungi.
+newsletters-travel-the-internet = Mengembara ke seluruh internet dengan semua peranti anda dilindungi.
 newsletters-download-the-app = Muat turun Aplikasi
 newsletters-check-for-data-breaches = Periksa pencerobohan data
 
@@ -224,7 +224,7 @@ newsletters-former-university-program-v2 = Program yang dikenali sebagai Former 
 newsletters-take-action = Ambil Tindakan demi Internet
 
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
-newsletters-add-your-voice = Benarkan suara anda didengari dalam petisyen, acara dan usaha bagi memperjuangkan masa hadapan internet.
+newsletters-add-your-voice = Luahkan suara anda dalam petisyen, acara dan usaha bagi memperjuangkan masa hadapan internet.
 
 # Name for the newsletter in Newsletter subscription page
 newsletters-mozilla-community = Komuniti { -brand-name-mozilla }
@@ -388,4 +388,4 @@ newsletters-stay-informed-of-the-latest = Kekal bermaklumat dalam trend terkini 
 # Subtitle for https://www-dev.allizom.org/newsletter/security-and-privacy/
 newsletters-get-security-and-privacy-news-and-tips = Dapatkan berita keselamatan dan privasi terkini daripada { -brand-name-mozilla } untuk kekal selamat dan bermaklumat tentang segalanya yang menjadikan internet ini platform yang lebih sihat.
 
-newsletters-opt-out-delay = Ia mungkin mengambil 1-2 hari bekerja untuk memproses permintaan opt-out dan dalam tempoh ini anda mungkin masih menerima e-mel.
+newsletters-opt-out-delay = Ia mungkin mengambil 1-2 hari bekerja untuk memproses permintaan pilih-keluar dan dalam tempoh ini anda mungkin masih menerima e-mel lain.
