@@ -22,7 +22,7 @@ privacy-faq-we-adhere-to-no-surprises-principle-v2 = 「予期せぬ事態なし
 privacy-faq-the-following-questions-and = { -brand-name-mozilla } と { -brand-name-firefox } に求められる事柄について理解する上で、次に挙げる質問と回答が役立つでしょう。
 privacy-faq-i-use-firefox-for-almost-everything = ウェブでは何をするにも { -brand-name-firefox } を使ってるから、{ -brand-name-mozilla } は私について知ってることがたくさんあるんじゃないの？
 
-privacy-faq-firefox-the-web-browser-that-v2 = ご使用のデバイスやコンピューター上で実行される { -brand-name-firefox } ウェブブラウザーはインターネット接続のための手段です。ご使用のブラウザーでは訪問するウェブサイトに関する大量の情報が管理されますが、一般的にその情報がデバイスから出ることはありません。{ -brand-name-firefox } の製造元である { -brand-name-mozilla } はそうした情報を収集しません (ただしユーザーが要求する場合はこの限りではありません)。
+privacy-faq-firefox-the-web-browser-that-v2 = ご使用のデバイスやコンピューター上で実行される { -brand-name-firefox } ウェブブラウザーはインターネット接続のための手段です。ご使用のブラウザーでは訪問するウェブサイトに関する大量の情報が管理されますが、その情報がデバイスから出ることは基本的にありません。 { -brand-name-firefox } の製造元である { -brand-name-mozilla } はそうした情報を収集しません (ただしユーザーが要求する場合はこの限りではありません)。
 privacy-faq-really-you-dont-collect-my-browsing = 本当に？Mozilla は私の閲覧履歴を収集しないの？
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } は、ユーザーがウェブをどのようにブラウジングしているかについて、あなたが思うほど知りません。実のところ、ブラウザーメーカーとして、それは大きな課題です。そこで、Mozilla は関心のあるユーザーが Mozilla に自分のウェブブラウジングに関するインサイトを提供できるオプトインツールを作りました。閲覧履歴を複数の { -brand-name-firefox } インストールで同期した場合、その履歴はデバイスで暗号化されているので、Mozilla はその履歴を知ることができません。
 

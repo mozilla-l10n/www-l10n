@@ -36,7 +36,7 @@ newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } は様々な�
 newsletters-open-your-inbox-and-your = その他のトピックに関する Mozilla の記事についてもメールにて送付いたしますので、ぜひお読みください。
 newsletters-manage-your-email-preferences = メールの設定管理
 newsletters-this-page-is-in-maintenance = このページはメンテナンスモードになっているため、現在使用できません。
-newsletters-to-update-your-email-preferences = メールの設定を更新するには、後ほどもう一度お試しください。申しわけありません。
+newsletters-to-update-your-email-preferences = メールの設定を更新するには、後ほどもう一度お試しください。ありがとうございました。
 newsletters-we-love-sharing-updates = { -brand-name-mozilla } では、Mozilla の最新ニュースをぜひお読みいただきたいと思っています。
 newsletters-set-your-preferences-below = 以下の設定で、ニュースを常に受信するように設定できます。
 

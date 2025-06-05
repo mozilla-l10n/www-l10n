@@ -6,7 +6,7 @@
 
 vpn-ipad-vpn-for = { -brand-name-mozilla } の iOS/iPad 用 VPN
 vpn-ipad-looking-for = iPad を保護する VPN をお求めの方に。{ -brand-name-mozilla-vpn } は非営利法人が提供しています。VPN があなたを保護する仕組み、プライバシーとセキュリティについて { -brand-name-mozilla } が信頼できる理由をご覧ください。
-vpn-ipad-if-you-own = iPad をお持ちであれば、ウェブブラウズや動画の視聴、ゲーム、読書など、さまざまな用途に使用しているはずです。ただし、自宅でも外出先でも、インターネットに接続すれば、あなたの個人データや位置情報は、Cookie や IP アドレスを使用して追跡するハッカーや広告主などの第三者に渡る可能性があります。
+vpn-ipad-if-you-own = iPad をお持ちであれば、ウェブブラウジングや動画の視聴、ゲーム、読書など、さまざまな用途に使用しているはずです。ただし、自宅でも外出先でも、インターネットに接続すれば、あなたの個人データや位置情報は、Cookie や IP アドレスを使用して追跡するハッカーや広告主などの第三者に渡る可能性があります。
 vpn-ipad-thats-why-you = だからこそ、オンラインアクティビティを傍受から守る、高速で信頼性が高く、使いやすい VPN サービス { -brand-name-mozilla-vpn } が必要なのです。
 vpn-ipad-mozilla-vpn-is = { -brand-name-mozilla-vpn } は、インターネットトラフィックを暗号化し、IP アドレスを秘匿する仮想プライベートネットワークサービスです。
 vpn-ipad-with-mozilla-vpn = { -brand-name-mozilla-vpn } のメリット
