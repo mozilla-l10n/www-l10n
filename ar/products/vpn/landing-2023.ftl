@@ -69,3 +69,4 @@ vpn-landing-do-you-need-a-vpn-at-home = هل تحتاج إلى VPN في المن
 vpn-landing-what-is-an-ip-address = ما هو عنوان IP؟
 vpn-landing-how-your-location-is-tracked = كيف يخضع موقعك للتعقُّب وكيف يمكنك الحد من مشاركته
 vpn-landing-see-more-resources = اطَّلِع على المزيد من الموارد
+

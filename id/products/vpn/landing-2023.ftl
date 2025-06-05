@@ -59,3 +59,4 @@ vpn-landing-do-you-need-a-vpn-at-home = Apakah Anda memerlukan VPN di rumah? Ber
 vpn-landing-what-is-an-ip-address = Apa itu alamat IP?
 vpn-landing-how-your-location-is-tracked = Bagaimana lokasi Anda dilacak dan cara Anda dapat membatasi informasinya
 vpn-landing-see-more-resources = Lihat sumber daya selengkapnya
+
