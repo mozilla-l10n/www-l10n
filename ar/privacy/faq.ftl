@@ -40,7 +40,7 @@ privacy-faq-okay-those-first-few-were-softballs = حسنًا، كان هذا م�
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited-v2 = { -brand-name-mozilla } يجمع مجموعة محدودة من البيانات بشكل افتراضي من { -brand-name-firefox } ليساعدنا في فهم كيفية استخدام الأشخاص للمُتصفح. يُمكنك قراءة المزيد عن ذلك على <a href="{ $privacy }">إشعار الخصوصية</a> ويمكنك قراءة <a href="{ $data }">المستندات الكاملة لجمع البيانات</a>.
+privacy-faq-mozilla-does-collect-a-limited-v2 = { -brand-name-mozilla } يجمع مجموعة محدودة من البيانات بشكل افتراضي من { -brand-name-firefox } ليساعدنا على فهم كيفية استخدام الأشخاص للمُتصفح. يُمكنك قراءة المزيد عن ذلك على <a href="{ $privacy }">إشعار الخصوصية</a> ويمكنك قراءة <a href="{ $data }">المستندات الكاملة لجمع البيانات</a>.
 privacy-faq-we-make-our-documentation-public = ننشر هذه المستندات للعامة حتى يتمكن أي شخص من التحقق من صحة ما نقوله، وإخبارنا ما إذا كُنا بحاجة إلى التحسين، ولدينا الثقة في أننا لا نُخفي أي شيء.
 
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
