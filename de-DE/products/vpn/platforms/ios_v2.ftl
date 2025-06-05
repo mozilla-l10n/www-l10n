@@ -1,0 +1,15 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+### URL: https://www-dev.allizom.org/products/vpn/mobile/ios/
+
+vpn-ios-vpn-for-iphone = VPN für iPhone { -brand-name-mozilla }
+vpn-ios-looking-for-a = Du suchst nach einem VPN für dein iPhone? Die VPN-Dienste von { -brand-name-mozilla } schützen dich online, wann immer du dich auf deinem Gerät anmeldest. Lies weiter und erfahre, wie du dein iPhone mit { -brand-name-mozilla-vpn } für iPhone vor Cyber-Angriffen schützen kannst.
+vpn-ios-iphones-are-great = iPhones sind gut darin, deine Daten zu schützen, können dich aber nicht vor allen Gefahren abschirmen, die online lauern. Deshalb brauchst du { -brand-name-mozilla-vpn } einen Dienst für iPhone, der deinen Datenverkehr verschlüsselt und deinen Standort verdeckt. In diesem Artikel erklären wir, wie du { -brand-name-mozilla-vpn } für iPhone nutzt, welche Vorteile es bietet und wie es im Vergleich mit anderen VPNs abschneidet.
+vpn-ios-mozilla-vpn-is = { -brand-name-mozilla-vpn } ist ein Virtual-Private-Network-Dienst, der Ihren Datenverkehr verschlüsselt und Ihre IP-Adresse vor neugierigen Blicken schützt.
+vpn-ios-there-are-many = Es gibt viele Gründe, warum du { -brand-name-mozilla-vpn } für iPhone anwenden sollten. Zum Beispiel:
+vpn-ios-protecting-your-personal = <strong>Der Schutz deiner personenbezogenen Daten:</strong> Wenn du dich mit einem öffentlichen WLAN-Netzwerk verbindest, etwa in einem Coffee Shop oder am Flughafen, kann dein Datenverkehr von Hackern oder böswilligen Akteuren abgehört und untersucht werden. Mit { -brand-name-mozilla-vpn } kannst du deine Daten verschlüsseln und verhindern, dass jemand in deinen Online-Aktivitäten herumschnüffelt.
+vpn-ios-enhancing-your = <strong>Eine verbesserte Browsing-Experience:</strong> { -brand-name-mozilla-vpn } bietet schnelle und verlässliche Verbindungen, die deine Browsing-Geschwindigkeit und -Performance verbessern können. Du kannst { -brand-name-mozilla-vpn } auch nutzen, um Anzeigen und Tracker zu blocken, die dein Gerät ausbremsen und deine Daten kompromittieren können.
+vpn-ios-mozilla-vpn-is-a-vpn = { -brand-name-mozilla-vpn } ist ein VPN-Dienst, der von einer vertrauenswürdigen und respektierten Organisation unterstützt wird, die sich seit Jahrzehnten für Online-Datenschutz und -Sicherheit einsetzt. { -brand-name-mozilla } ist das Unternehmen hinter { -brand-name-firefox }, einem der beliebtesten Browser mit Fokus auf Datenschutz weltweit, der zudem von der gemeinnützigen { -brand-name-mozilla-foundation } gestützt wird. Indem du dich für { -brand-name-mozilla-vpn } entscheidest, unterstützt du unsere Mission, das Internet offen und zugänglich für alle zu erhalten.
+vpn-ios-ready-to-try = Möchtest du { -brand-name-mozilla-vpn } für dein iPhone ausprobieren? Lade es heute herunter und profitiere von einer 30-Tage-Geld-zurück-Garantie. Keine Protokolle, kein Ärger, kein Risiko.
