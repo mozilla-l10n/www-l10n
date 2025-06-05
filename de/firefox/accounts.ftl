@@ -14,7 +14,7 @@ firefox-accounts-enter-your-email-address = Gib deine E-Mail-Adresse ein, um los
 firefox-accounts-already-have-an-account = Du hast schon ein Konto?
 firefox-accounts-sign-in = Einloggen
 
-mozilla-accounts-already = Du hast bereits ein { -brand-name-mozilla-account }. Herzlichen Glückwunsch!
+mozilla-accounts-already = Sie haben bereits ein { -brand-name-mozilla-account }. Herzlichen Glückwunsch!
 firefox-accounts-manage = Konto verwalten
 
 mozilla-account-header = { -brand-name-mozilla-account }
