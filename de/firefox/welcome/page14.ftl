@@ -8,7 +8,7 @@ welcome-page14-page-title = Erhalte 20 % Rabatt auf { -brand-name-mozilla-vpn }
 
 welcome-page14-page-title-alt = Es ist Cybersecurity Month – Zeit für ein Upgrade deiner Privatsphäre
 
-welcome-page14-main-description = { -brand-name-mozilla-vpn } (Virtual Private Network) schützt deine gesamte Internetverbindung auf dem PC, Tablet und sogar Smartphone. Für noch mehr Sicherheit erhältst du eine 30-Tage-Geld-zurück-Garantie.
+welcome-page14-main-description = { -brand-name-mozilla-vpn } (Virtual Private Network) schützt deine gesamte Internetverbindung auf deinem PC, Tablet und sogar deinem Smartphone. Für noch mehr Sicherheit erhältst du eine 30-Tage-Geld-zurück-Garantie.
 
 welcome-page14-main-description-v2 = { -brand-name-mozilla-vpn } (Virtuelles privates Netzwerk) schützt die gesamte Internetverbindung auf deinem Computer, Tablet und Smartphone. Für noch mehr Sicherheit erhältst du eine 30-Tage-Geld-zurück-Garantie.
 
