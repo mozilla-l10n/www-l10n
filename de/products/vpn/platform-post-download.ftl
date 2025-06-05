@@ -67,7 +67,7 @@ vpn-download-faq-add-device = Wie kann ich ein weiteres Gerät hinzufügen?
 
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
-vpn-download-faq-adding-another-v3 = Um ein neues Gerät hinzuzufügen, lade einfach die { -brand-name-mozilla-vpn }-Software herunter, installiere sie und melde dich anschließend auf dem neuen Gerät bei deinem bestehenden { -brand-name-mozilla-account } an. Für weitere Informationen, lies bitte <a href="{ $subscription }">Wie du Geräte zu deinem { -brand-name-mozilla-vpn }-Abo hinzufügst</a>.
+vpn-download-faq-adding-another-v3 = Um ein neues Gerät hinzuzufügen, lade einfach die { -brand-name-mozilla-vpn }-Software herunter, installiere sie und melde dich anschließend auf dem neuen Gerät bei deinem bestehenden { -brand-name-mozilla-account } an. Für weitere Informationen, lies bitte <a href="{ $subscription }">Wie du Geräte zu deinem { -brand-name-mozilla-vpn }-Abo hinzufügst.</a>
 
 vpn-download-faq-best-practices = Welche VPN Best Practices gibt es?
 vpn-download-faq-traffic = Wenn du deinen Datenverkehr schützen möchtest und trotzdem schnell im Internet unterwegs sein willst, solltest du einen Server-Standort wählen, der so nah wie möglich an deinem tatsächlichen Standort liegt. Dadurch erhöht sich die Zuverlässigkeit und Geschwindigkeit deiner Verbindung und dein Datenverkehr muss nicht erst einen großen Umweg nehmen, bevor er an seiner Zieladresse ankommt.
