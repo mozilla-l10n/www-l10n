@@ -17,6 +17,8 @@ browsers-chromebook-dropdown-copy = Wobstarajće sej { -brand-name-firefox } za 
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Čehodla wobstarujće sej <span>{ -brand-name-firefox }</span> za { -brand-name-chromebook }?
 browsers-chromebook-while-a-chromebook = W { -brand-name-chromebook } je { -brand-name-chrome } hižo předinstalowany, ale { -brand-name-firefox } jako waš standardny wobhladowak ma hišće někotre lěpšiny:
+browsers-chromebook-alwayson-tracking-protection = Stajnje aktiwny slědowanski škit: Po standardźe { -brand-name-firefox } rozšěrjeny slědowanski škit (ETP) wužiwa, zo by waše wosobinske daty před znatymi wabjenskimi přesćěhowakami, socialnymi přesćěhowakami a skriptami kryptokopanja škitał, kotrež wam po interneće slěduja.
+browsers-chromebook-supporting-independent-technology = Njewotwisna technologija so podpěruje: Dokelž najwjace wulkich wobhladowakow nětko na { -brand-name-chromium } funguje, je mjenje móžnosćow, kotrež do mašiny wulkich technologiskich předewzaćow přechadźeja. { -brand-name-firefox } so wot powšitkownosći wužitneje organizacije podpěruje a je za to mysleny, internet polěpšować. Z { -brand-name-firefox } budźeće jeho dźěl.
 browsers-chromebook-is-it-hard = Je ćežko { -brand-name-firefox } za { -brand-name-chromebook } instalować?
 browsers-chromebook-install-firefox-from = Instalujće { -brand-name-firefox } z wobchoda { -brand-name-google-play }: při nowšich wersijach { -brand-name-chromeos } (na zakładźe x86 { -brand-name-chromebook }, kotryž z { -brand-name-chromeos } 80 abo nowši běži), maće móžnosć, nałoženje  { -brand-name-firefox } za { -brand-name-android } instalować. Tute nałoženje je so za mobilne graty wuwiło.
 

@@ -59,3 +59,6 @@ vpn-landing-do-you-need-a-vpn-at-home = Trjebaśo VPN doma? How jo 5 pśicynow, 
 vpn-landing-what-is-an-ip-address = Co jo IP-adresa?
 vpn-landing-how-your-location-is-tracked = Kak se wašo stojnišćo pśeslědujo a kak móžośo jogo rozšyrjenje wobgranicowaś
 vpn-landing-see-more-resources = Dalšne resurse pokazaś
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }
