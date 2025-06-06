@@ -14,3 +14,4 @@ features-eyedropper-there-are-a-lot-of-reasons = Vous pouvez vouloir connaître 
 
 # Used as an accessible text alternative for an image
 features-eyedropper-screenshot-of-the-eyedropper-tool = Capture d’écran de l’outil Pipette à couleurs dans { -brand-name-firefox }, montrant le code hexadécimal exact d’un pixel sur une page web.
+features-eyedropper-you-can-find-the-eyedropper = Vous trouverez la pipette à couleurs dans la section « Outils du navigateur » du menu « Outils » ou dans la section « Outils supplémentaires » du menu de { -brand-name-firefox } (situé au bout de la barre d’outils { -brand-name-firefox }).
