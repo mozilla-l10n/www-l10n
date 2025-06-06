@@ -56,3 +56,6 @@ vpn-landing-do-you-need-a-vpn-at-home = Hawwe jo thús in VPN nedich? Hjir binne
 vpn-landing-what-is-an-ip-address = Wat is in IP-adres?
 vpn-landing-how-your-location-is-tracked = Hoe’t jo lokaasje folge wurdt en hoe’t jo it dielen derfan beheine kinne
 vpn-landing-see-more-resources = Mear helpboarnen besjen
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }
