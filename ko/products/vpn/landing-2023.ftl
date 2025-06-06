@@ -48,3 +48,6 @@ vpn-landing-do-you-need-a-vpn-at-home = 집에 VPN이 필요하십니까? 5가�
 vpn-landing-what-is-an-ip-address = IP 주소란 무엇인가요?
 vpn-landing-how-your-location-is-tracked = 위치가 추적되는 방법과 공유를 제한하는 방법
 vpn-landing-see-more-resources = 자료 더보기
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }
