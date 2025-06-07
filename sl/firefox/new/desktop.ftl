@@ -15,7 +15,7 @@ firefox-desktop-download-meta-desc = Prenesite { -brand-name-firefox }, brezpla�
 firefox-desktop-download-meta-desc-v2 = Pridobite { -brand-name-firefox } za { -brand-name-windows }, { -brand-name-mac-short } ali { -brand-name-linux }. { -brand-name-firefox } je brezplačen brskalnik, za katerim stoji { -brand-name-mozilla }, neprofitna organizacija, predana zdravemu in zasebnemu internetu.
 firefox-desktop-download-og-title = Prenesite najhitrejši { -brand-name-firefox } vseh časov
 firefox-desktop-download-og-desc = Hitrejše nalaganje strani, manjša poraba pomnilnika in kopica novih zmožnosti – novi { -brand-name-firefox } je tu.
-firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-firefox = { -brand-name-firefox-browser(zacetnica: "velika") }
 # Variables:
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Na voljo je še novejši { -brand-name-firefox }. <a { $update_url }>Posodobite na najnovejšo različico</a>
@@ -26,11 +26,11 @@ firefox-desktop-download-no-shady = Brez dvoumnih politik zasebnosti ali oglaše
 firefox-desktop-download-download-options = Možnosti prenosa in drugi jeziki
 firefox-desktop-download-browser-support = Podpora za { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do-v2 = Počnite na spletu, kar želite.<br> { -brand-name-firefox-browser } vam <strong>krije hrbet</strong>.
+firefox-desktop-download-do-what-you-do-v2 = Počnite na spletu, kar želite.<br> { -brand-name-firefox-browser(zacetnica: "velika") } vam <strong>krije hrbet</strong>.
 # Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-do-what-you-do = Počnite na spletu, kar želite.<br> { -brand-name-firefox-browser } vas <strong>ne</strong> opazuje.
+firefox-desktop-download-do-what-you-do = Počnite na spletu, kar želite.<br> { -brand-name-firefox-browser(zacetnica: "velika") } vas <strong>ne</strong> opazuje.
 firefox-desktop-download-we-block-the-ad = Mi zavračamo oglaševalske sledilce. Vi hitreje brskate po sletu.
-firefox-desktop-download-ads-are-distracting = Oglasi so moteči in upočasnjujejo nalaganje spletnih strani, njihovi sledilci pa spremljajo vaš vsak korak na spletu. { -brand-name-firefox-browser } večino sledilcev samodejno zavrača, zato ni potrebe po poglabljanju v varnostne nastavitve.
+firefox-desktop-download-ads-are-distracting = Oglasi so moteči in upočasnjujejo nalaganje spletnih strani, njihovi sledilci pa spremljajo vaš vsak korak na spletu. { -brand-name-firefox-browser(zacetnica: "velika") } večino sledilcev samodejno zavrača, zato ni potrebe po poglabljanju v varnostne nastavitve.
 firefox-desktop-download-see-your-report = Oglejte si svoje poročilo o zaščiti
 firefox-desktop-download-for-everyone = { -brand-name-firefox } je za vsakogar
 firefox-desktop-download-available-in-over = { -brand-name-firefox } je na voljo v več kot 90 jezikih in je združljiv z napravami { -brand-name-windows }, { -brand-name-mac-short } in { -brand-name-linux }, zato bo z vami ne glede na to, kje ste in kaj uporabljate. Za najboljše delovanje se prepričate, da je vaš sistem posodobljen na najnovejšo različico.
@@ -101,7 +101,7 @@ firefox-desktop-download-screenshots = Posnetki zaslona
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Izboljšana zaščita pred sledenjem
 firefox-desktop-download-from-watching-a = Od priročnika z YouTuba do vaše priljubljene serije – video vam sledi, ko se premikate med stranmi in med programi.
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser(zacetnica: "velika") }
 firefox-desktop-download-get-firefox-android = Prenesite { -brand-name-firefox-browser } za <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Prenesite { -brand-name-firefox-browser } za <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Prenesite mobilni brskalnik { -brand-name-firefox } za samodejno zaščito na vseh svojih napravah.

@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
-misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
+misinformation-brand-firefox-browser = { -brand-name-firefox-browser(zacetnica: "velika") }
 misinformation-page-title = Izogibajte se napačnim informacijam na spletu – { -brand-name-firefox } je tu, da vam pomaga
 misinformation-page-desc = Napačne informacije so nadležne, moteče in lahko drago stanejo. { -brand-name-firefox } vam ponuja nekaj nasvetov, kako se neresničnim informacijam izogniti in jim biti med brskanjem po spletu čim manj izpostavljeni.
 misinformation-page-subheading = Oglejte si nasvete, kako se izogniti napačnim informacijam in se osredotočiti na tisto, kar vam je pomembno
