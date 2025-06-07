@@ -7,7 +7,7 @@
 
 home-internet-for-people-not-profit = Internet za ljudi, ne za dobiček
 home-did-you-know-mozilla-the-maker = Ali ste vedeli? { -brand-name-mozilla } — razvijalec { -brand-name-firefox }a — se bori za ohranitev interneta kot globalnega javnega vira, odprtega in dostopnega vsem.
-home-firefox-browser = { -brand-name-firefox-browser }
+home-firefox-browser = { -brand-name-firefox-browser(zacetnica: "velika") }
 home-fast-for-good = Hiter za vedno.
 home-with-2x-the-speed-built-in = Dvojna hitrost in vgrajena zaščita zasebnosti, pod okriljem { -brand-name-mozilla(sklon: "rodilnik") } – novi { -brand-name-firefox } je boljša izbira za brskanje.
 home-we-make-the-internet-safer = Internet delamo varnejši, hitrejši in boljši za vekomaj.
