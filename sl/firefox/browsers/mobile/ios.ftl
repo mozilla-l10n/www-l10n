@@ -7,7 +7,7 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser(zacetnica: "velika") } za { -brand-name-ios } ({ -brand-name-iphone } in { -brand-name-ipad })
-mobile-ios-firefox-browser = { -brand-name-firefox-browser }
+mobile-ios-firefox-browser = { -brand-name-firefox-browser(zacetnica: "velika") }
 mobile-ios-get-firefox-for = Prenesite { -brand-name-firefox } za { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Pošljite si povezavo za prenos na telefon.
 mobile-ios-scan-the-qr-code-to-get-started = Skenirajte kodo QR, da začnete

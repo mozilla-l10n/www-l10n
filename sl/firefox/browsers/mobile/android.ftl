@@ -9,7 +9,7 @@
 mobile-android-firefox-browser-android = { -brand-name-firefox-browser(zacetnica: "velika") } za { -brand-name-android }
 # HTML description
 mobile-android-firefox-browser-for = Brskalnik { -brand-name-firefox } za { -brand-name-android } je hiter, varen in zaseben od prvega trenutka, ko ga odprete.
-mobile-android-firefox-browser = { -brand-name-firefox-browser }
+mobile-android-firefox-browser = { -brand-name-firefox-browser(zacetnica: "velika") }
 mobile-android-get-firefox-for = Prenesite { -brand-name-firefox } za { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Pošljite si povezavo za prenos na telefon.
 mobile-android-scan-the-qr-code-to-get-started = Skenirajte kodo QR, da začnete
