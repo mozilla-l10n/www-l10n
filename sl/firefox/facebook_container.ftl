@@ -11,7 +11,7 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Teme
 facebook-container-get-the-facebook-container = Prenesite razširitev { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Prenesite { -brand-name-firefox } in namestite razširitev { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = Razširitev { -brand-name-facebook-container } je trenutno na voljo samo za { -brand-name-firefox } za namizja.
-facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser(zacetnica: "velika") }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/

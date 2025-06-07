@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
 firefox-mobile-download-the-firefox-browser = Prenesite mobilni { -brand-name-firefox-browser } za { -brand-name-ios } ali { -brand-name-android }
-firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } za mobilne naprave privzeto zavrača več kot 2000 sledilcev, kar vam omogoča zasebnost, ki so jo zaslužite, in hitrost, ki jo potrebujete v zasebnem mobilnem brskalniku.
+firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser(zacetnica: "velika") } za mobilne naprave privzeto zavrača več kot 2000 sledilcev, kar vam omogoča zasebnost, ki so jo zaslužite, in hitrost, ki jo potrebujete v zasebnem mobilnem brskalniku.
 firefox-mobile-firefox = { -brand-name-firefox }
-firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
+firefox-mobile-firefox-browser = { -brand-name-firefox-browser(zacetnica: "velika") }
 firefox-mobile-get-the-mobile-browser-built = Mobilni brskalnik, ustvarjen za vas, ne za oglaševalce
 firefox-mobile-check-out-firefox-again-its = Ponovno preskusite { -brand-name-firefox }. Je hiter, zaseben in na vaši strani. Za { -brand-name-ios } in { -brand-name-android }.
 firefox-mobile-get-firefox-mobile = Prenesite mobilni { -brand-name-firefox }
