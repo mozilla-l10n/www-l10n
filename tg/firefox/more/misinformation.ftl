@@ -14,6 +14,7 @@ misinformation-spot-online-heading = Чӣ тавр маълумоти барду
 misinformation-look-at-url = Ба нишонии «URL» ва/ё манбаи мавод нигаред.
 misinformation-overly-sensational = Оё сарлавҳа аз ҳад зиёд ҳангомадор аст?
 misinformation-content-up-to-date = Оё муҳтаво ба ҳолати кунунӣ мутобиқ аст?
+misinformation-credible-publication = Оё муаллиф мақолаҳо ё мақолаҳои дигарро нашр кардааст, ки дар нашрияҳои cазoвopи эътимoд, инчунин, дар сифати олӣ мебошанд?
 misinformation-images-captions = Оё тасвирҳо ва сарлавҳаҳо мувофиқат мекунанд?
 misinformation-how-firefox-helps-heading = Чӣ тавр «{ -brand-name-firefox }» ба шумо барои карорагирии маълумоти нодуруст кумак мекунад
 misinformation-firefox-keeps-trackers-heading = «{ -brand-name-firefox }» ҳар гуна васоити пайгириро манъ мекунад:

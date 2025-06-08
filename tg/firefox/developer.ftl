@@ -72,6 +72,7 @@ firefox-developer-developer-tools-user = Ҳуҷҷатҳои корбар оид 
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Манбаъҳо барои барномасозон ва аз ҷониби барномасозон
 firefox-developer-mdn-playground = Озмоишгоҳ
+firefox-developer-mdn-write-test-and-share = Рамзи худро нависед, санҷед ва мубодила кунед. Ин майдони бозии шумо барои омӯхтан ва мубодилаи кори аҷиби худ бо ҷаҳон мебошад.
 firefox-developer-mdn-blog = Блоги «{ -brand-name-mdn }»
 firefox-developer-mdn-updates = Навигариҳо
 # Obsolete string (expires 18-04-2025)
