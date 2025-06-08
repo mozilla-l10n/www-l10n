@@ -56,3 +56,6 @@ vpn-landing-do-you-need-a-vpn-at-home = Оё ба шумо дар хона ис�
 vpn-landing-what-is-an-ip-address = Нишонии «IP» чӣ аст?
 vpn-landing-how-your-location-is-tracked = Чӣ тавр ҷойгиршавии шумо пайгирӣ карда мешавад ва чӣ гуна шумо метавонед мубодилаи онро маҳдуд намоед
 vpn-landing-see-more-resources = Дидани манбаъҳои бештар
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }

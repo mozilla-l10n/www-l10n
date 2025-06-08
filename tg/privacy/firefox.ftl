@@ -10,6 +10,7 @@ privacy-firefox-basics = Асосҳои махфият
 privacy-firefox-youre-in-control = Шумо назорат мекунед
 privacy-firefox-read-our-privacy = Огоҳномаи махфияти моро хонед
 privacy-firefox-keeping-you-informed = Мо дар ҳар як қадам ба шумо хабар медиҳем
+privacy-firefox-we-believe-you = Мо боварӣ дорем, ки шумо бояд аниқ донед, ки маълумоти шумо чӣ гуна ва чаро истифода мешавад. «{ -brand-name-firefox }» дар ҳар қадам бо дарназардошти махфият ва шаффофият сохта шудааст.
 privacy-firefox-transparency-first = Пеш аз ҳама - ин шаффофият
 privacy-firefox-how-we-use = Чӣ тавр мо маълумотро истифода мебарем
 privacy-firefox-builtin-control = Назорати дарунсохт
