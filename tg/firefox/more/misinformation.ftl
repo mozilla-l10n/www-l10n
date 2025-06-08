@@ -16,9 +16,11 @@ misinformation-overly-sensational = Оё сарлавҳа аз ҳад зиёд �
 misinformation-content-up-to-date = Оё муҳтаво ба ҳолати кунунӣ мутобиқ аст?
 misinformation-credible-publication = Оё муаллиф мақолаҳо ё мақолаҳои дигарро нашр кардааст, ки дар нашрияҳои cазoвopи эътимoд, инчунин, дар сифати олӣ мебошанд?
 misinformation-images-captions = Оё тасвирҳо ва сарлавҳаҳо мувофиқат мекунанд?
-misinformation-how-firefox-helps-heading = Чӣ тавр «{ -brand-name-firefox }» ба шумо барои карорагирии маълумоти нодуруст кумак мекунад
+misinformation-how-firefox-helps-heading = Чӣ тавр «{ -brand-name-firefox }» ба шумо барои канорагирии маълумоти нодуруст кумак мекунад
 misinformation-firefox-keeps-trackers-heading = «{ -brand-name-firefox }» ҳар гуна васоити пайгириро манъ мекунад:
 misinformation-social-media-clean-heading = Браузери «{ -brand-name-firefox }» барои тоза нигоҳ доштани шабакаҳои васоити ахбори иҷтимоӣ кумак мекунад:
+# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
+misinformation-surface-content-heading = Бо ёрии «{ -brand-name-firefox }» шумо метавонед муҳтавоеро пайдо намоед, ки ба диққат ва вақти шумо сазовор аст.
 misinformation-why-trust-firefox = Чаро «{ -brand-name-firefox }» боэътимод мебошад?
 misinformation-learn-more-about-our-mission = Маълумоти бештар дар бораи рисолати мо
 misinformation-your-privacy-by-the-product = Таъмини махфият дар маҳсулоти мо
