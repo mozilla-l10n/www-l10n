@@ -11,7 +11,7 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 firefox-developer-speak-up = Fatti sèntiri
-firefox-developer-feedback-makes-us = I to cummenti n'ajùtanu. Cùntani comu putemu ammigghiurari u navicaturi e i nostri stigghi pî sbiluppatura.
+firefox-developer-feedback-makes-us = I to cummenti n'ajùtanu. Cùntani comu putemu fari megghiu u navicaturi e i nostri stigghi pî sbiluppatura.
 firefox-developer-join-the-convo = Jùnciti â cummirsazzioni
 firefox-developer-get-involved = Cullàbbura cu nuiautri
 firefox-developer-start-now = Accumincia sùbbitu
