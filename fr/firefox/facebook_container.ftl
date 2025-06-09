@@ -26,6 +26,9 @@ facebook-container-facebook-can-track-almost = { -brand-name-facebook } peut sui
 
 facebook-container-install-and-contain = Installez l’extension et reprenez le contrôle
 
+# Variables:
+#   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+facebook-container-installing-the-extension-is = Installer <a href="{ $fbcontainer }">l’extension</a> est facile et, une fois celle-ci activée, { -brand-name-facebook } s’ouvrira dans un onglet bleu à chaque utilisation. Vous pourrez utiliser { -brand-name-facebook } comme d’habitude. { -brand-name-facebook } pourra toujours vous envoyer de la publicité et des recommandations sur son site, mais il sera beaucoup plus difficile pour { -brand-name-facebook } de collecter et d’utiliser votre activité <strong>en dehors de { -brand-name-facebook }</strong> pour vous envoyer des publicités et d’autres messages ciblés.
 
 facebook-container-about-firefox-and-mozilla = À propos de { -brand-name-firefox } et de { -brand-name-mozilla }
 
