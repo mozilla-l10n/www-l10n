@@ -30,6 +30,12 @@ privacy-firefox-firefox-for-desktop = { -brand-name-firefox } za desktop
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } za desktop
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-mobile = { -brand-name-firefox } za mobilne uređaje
+privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } za mobilne uređaje
+# heading for the table of contents, a shorter heading is better
+privacy-firefox-contents = Sadržaji
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-take-me-back = Vrati me <a { $attrs }>nazad na vrh</a> Police privatnosti
+# Variables:
+#   $attrs (string) - in-page link to the top of the page
+privacy-firefox-lost-in-the = Izgubljeni ste u detaljima? Vratite se na <a { $attrs }>osnove privatnosti za { -brand-name-firefox }</a>.
