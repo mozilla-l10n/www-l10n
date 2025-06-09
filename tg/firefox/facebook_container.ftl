@@ -18,6 +18,9 @@ facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 facebook-container-visit-to-get-for-desktop = Ба <a href="{ $url }">{ $link_copy }</a> ворид шавед ва «{ -brand-name-firefox }»-ро барои компютери мизи корӣ ба даст оред.
 facebook-container-get-firefox-android-ios = Браузери «{ -brand-name-firefox }»-ро барои «{ -brand-name-android }» ва «{ -brand-name-ios }» ҳозир боргирӣ намоед.
 facebook-container-opt-out-on-your-terms = Дар асоси шартҳои худ иштирок накунед
+# Variables:
+#   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+facebook-container-facebook-can-track-almost = «{ -brand-name-facebook }» метавонад қариб тамоми фаъолияти шуморо дар Интернет пайгирӣ кунад ва онро бо шахсияти шумо дар «{ -brand-name-facebook }» пайваст кунад. Агар ин ба арзишҳои шумо номувофиқ бошад, <a href="{ $fbcontainer }">васеъшавии «{ -brand-name-facebook-container }»</a> шахсияти шуморо ба як варақаи дарбаргирандаи алоҳида ҷудо мекунад ва пайгирии шуморо дар Интернет берун аз «{ -brand-name-facebook }» барои «{ -brand-name-facebook }» душвортар мекунад.
 facebook-container-install-and-contain = Насб кунед ва дар худ нигоҳ доред
 facebook-container-about-firefox-and-mozilla = Дар бораи «{ -brand-name-firefox }» ва «{ -brand-name-mozilla }»
 facebook-container-browse-freely-with-firefox = Имрӯз ба воситаи «{ -brand-name-firefox }» озодона тамошо кунед.
