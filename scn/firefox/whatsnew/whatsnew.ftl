@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
 whatsnew-page-title-v2 = Nuvità di { -brand-name-firefox }
-whatsnew-page-description = Addifènniti contra ôn sitturi chi vinni i to dati a l'autri. Nàvica 'n riti di manera sperta e sicura, cu na ticnuluggìa chi cummatti pi tia.
+whatsnew-page-description = Addifènniti contra ôn sitturi chi vinni i to dati a l’autri. Nàvica ’n riti di manera sperta e sicura, cu na ticnuluggìa chi cummatti pi tia.
 whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = U to { -brand-name-firefox } fu attualizzatu.
 # Variables:

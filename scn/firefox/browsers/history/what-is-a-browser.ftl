@@ -7,4 +7,4 @@
 
 # HTML page title
 what-is-a-browser-what-is-a-web = Chi è un navicaturi?
-what-is-a-browser-making-your-web = Fa' travagghiari u to navicaturi pi tia
+what-is-a-browser-making-your-web = Fa’ travagghiari u to navicaturi pi tia

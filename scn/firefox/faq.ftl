@@ -45,7 +45,7 @@ does-firefox-use = { -brand-name-firefox } usa { -brand-name-google }?
 
 does-firefox-have = { -brand-name-firefox } àvi na VPN ntigrata?
 related-questions-ip = Dumanni currilati: { -brand-name-firefox } ammuccia u to nnirizzu IP
-who-owns-firefox = A cu' apparteni { -brand-name-firefox }?
+who-owns-firefox = A cu’ apparteni { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://foundation.mozilla.org

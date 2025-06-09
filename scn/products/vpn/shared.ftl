@@ -7,7 +7,7 @@
 
 vpn-shared-product-name = { -brand-name-mozilla-vpn }
 vpn-shared-subscribe-link = Pigghia { -brand-name-mozilla-vpn }
-vpn-shared-waitlist-link = Scrìviti â lista d'aspettu
+vpn-shared-waitlist-link = Scrìviti â lista d’aspettu
 # This is a standalone string that is typically displayed underneath a "Get Mozilla VPN" button.
 vpn-shared-money-back-guarantee = Priggiarìa di rifazzioni pi 30 jorna
 # This string is displayed as an item in a list of features.
@@ -33,9 +33,9 @@ vpn-shared-pricing-save-percent = Sparagna u { $percent }%
 # Asterisk indicates a footnote for the following string
 vpn-shared-save-percent-on = Sparagna u { $percent }% ncapu a { -brand-name-mozilla-vpn }*
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
-vpn-shared-when-you-subscribe = *si ti fai n'abbunamentu pi 12 misi
+vpn-shared-when-you-subscribe = *si ti fai n’abbunamentu pi 12 misi
 # this is used as a footnote for the previous string and should include the asterisk OR matching character for both strings.
-vpn-shared-with-an-annual-subscription = *cu n'abbunamentu pi n'annu
+vpn-shared-with-an-annual-subscription = *cu n’abbunamentu pi n’annu
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } tutali

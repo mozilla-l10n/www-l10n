@@ -9,9 +9,9 @@ download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span>
 download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-systems-languages = Sistemi e lingui
 download-button-google-play = Pìgghialu nne { -brand-name-google-play }
-download-button-download-app-store = Scàrricalu di l'{ -brand-name-app-store }
+download-button-download-app-store = Scàrricalu di l’{ -brand-name-app-store }
 download-button-download-firefox = Scàrrica { -brand-name-firefox }
-download-button-your-system-may = Putissi èssiri ca u to sistema nun è bastanti putenti pi { -brand-name-firefox }, ma po' pruvari una di sti virsioni.
+download-button-your-system-may = Putissi èssiri ca u to sistema nun è bastanti putenti pi { -brand-name-firefox }, ma po’ pruvari una di sti virsioni.
 download-button-firefox-beta-android = <span>{ -brand-name-firefox-beta }</span> pi { -brand-name-android }
 download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</span> pi { -brand-name-android }
 download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }</span> pi { -brand-name-android }
@@ -29,7 +29,7 @@ download-button-please-download-esr = Pi favuri scàrrica { -brand-name-firefox-
 download-firefox-esr = Scàrrica { -brand-name-firefox-esr }
 download-firefox-esr-32 = Scàrrica { -brand-name-firefox-esr } a 32-bit
 download-firefox-esr-64 = Scàrrica { -brand-name-firefox-esr } a 64-bit
-download-a-different-build = Scàrrica n'autra virsioni
+download-a-different-build = Scàrrica n’autra virsioni
 
 ## Linux
 
@@ -38,10 +38,10 @@ download-button-linux-64-v2 = Scàrrica pi Linux a 64-bit
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
-download-button-using-debian = Usi Debian, Ubuntu o n'autra distribbuzzioni basata ncapu a Debian?<br>Po' cunfijurari u nostru <a { $attrs }>dipòsitu APT</a>.
+download-button-using-debian = Usi Debian, Ubuntu o n’autra distribbuzzioni basata ncapu a Debian?<br>Po’ cunfijurari u nostru <a { $attrs }>dipòsitu APT</a>.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Scàrricalu di Microsoft
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
 # “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
-download-button-share-how-you-discovered = Sparti câ squatra dâ pubblicità di { -brand-name-mozilla } di comu scupristi e chi usi { -brand-name-firefox }. Sti dati nun i vinnemu mai, e nun l'usamu pi mustràriti pubblicità. <a { $attrs }>Vidi comu usamu i dati</a>.
+download-button-share-how-you-discovered = Sparti câ squatra dâ pubblicità di { -brand-name-mozilla } di comu scupristi e chi usi { -brand-name-firefox }. Sti dati nun i vinnemu mai, e nun l’usamu pi mustràriti pubblicità. <a { $attrs }>Vidi comu usamu i dati</a>.

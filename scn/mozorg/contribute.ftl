@@ -10,8 +10,8 @@
 
 contribute-page-title = Uppurtunità di vuluntariatu cu { -brand-name-mozilla }
 contribute-page-heading = Avemu bisognu dî to talenti pi fari na riti megghiu
-contribute-page-intro = { -brand-name-mozilla } è n'urganizzazzioni senza scopu di lucru chi travagghia pi mantèniri a riti graputa e accissìbbili pi tutti. E abbisugnamu dû to ajutu. Juncènnuti â nostra cumunità, po' cuntribbuiri purtari avanti a nnuvazzioni, a fari crìsciri u senzu di rispunzabbilità, a fiducia di l'utenti e a fari dâ riti un postu megghiu pi tutti
-contribute-how-heading = Comu po' cuntribbuiri…
+contribute-page-intro = { -brand-name-mozilla } è n’urganizzazzioni senza scopu di lucru chi travagghia pi mantèniri a riti graputa e accissìbbili pi tutti. E abbisugnamu dû to ajutu. Juncènnuti â nostra cumunità, po’ cuntribbuiri purtari avanti a nnuvazzioni, a fari crìsciri u senzu di rispunzabbilità, a fiducia di l’utenti e a fari dâ riti un postu megghiu pi tutti
+contribute-how-heading = Comu po’ cuntribbuiri…
 
 ## Contribution tasks
 
@@ -22,12 +22,12 @@ contribute-tag-individual-event = Nnividuali e urganizzazzioni di mmàttiti
 contribute-tag-individual = Nnividuali
 contribute-tag-support = Supportu
 contribute-task-translate-heading = Traduci i cuntinuti
-contribute-task-translate-desc = A riti è glubbali sulu si veni caputa unn'è-è. Ajùtani a tradùciri i pruggetti e i siti { -brand-name-mozilla } nnâ to lingua lucali.
+contribute-task-translate-desc = A riti è glubbali sulu si veni caputa unn’è-è. Ajùtani a tradùciri i pruggetti e i siti { -brand-name-mozilla } nnâ to lingua lucali.
 contribute-task-mozilla-codebase-heading = Cuntribuisci ô còdici di { -brand-name-mozilla }
 contribute-task-mozilla-codebase-desc = Cuntribbuisci di manera attiva ê prudutti { -brand-name-mozilla } scartannu ntra assai pruggetti.
-contribute-task-support-desc = Ajuta a fari i prudutti { -brand-name-mozilla } fàcili d'usari. Arrispunni ê dumanni dâ genti nnî forum dâ Cumunità di Supportu { -brand-name-mozilla }.
+contribute-task-support-desc = Ajuta a fari i prudutti { -brand-name-mozilla } fàcili d’usari. Arrispunni ê dumanni dâ genti nnî forum dâ Cumunità di Supportu { -brand-name-mozilla }.
 contribute-task-join-heading = Jùnciti â cumunità
-contribute-task-join-desc = Ti vo' ntricari câ cumunità { -brand-name-mozilla }? Vidi tutti l'uppurtunità pî vuluntari nnô Purtali Cumunità.
+contribute-task-join-desc = Ti vo’ ntricari câ cumunità { -brand-name-mozilla }? Vidi tutti l’uppurtunità pî vuluntari nnô Purtali Cumunità.
 
 ## Mission
 

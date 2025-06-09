@@ -8,8 +8,8 @@
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Cria un cuntu { -brand-name-mozilla-account } – Teni i to dati privati, sicuri e sincrunizzati.
 # HTML page description
-mozilla-accounts-securely-sync-your = Sincrunizza di manera sicura tutti i to chiavi, i nzingalibbra e i schedi ntra tutti i to dispusitivi. Crìa ora un { -brand-name-mozilla-account }: na chiavi sula p'aviri libbirtà e privatizza unn'è-è.
-firefox-accounts-enter-your-email-address = Metti u to nnirizzu di posta elittrònica p'accuminciari.
+mozilla-accounts-securely-sync-your = Sincrunizza di manera sicura tutti i to chiavi, i nzingalibbra e i schedi ntra tutti i to dispusitivi. Crìa ora un { -brand-name-mozilla-account }: na chiavi sula p’aviri libbirtà e privatizza unn’è-è.
+firefox-accounts-enter-your-email-address = Metti u to nnirizzu di posta elittrònica p’accuminciari.
 firefox-accounts-already-have-an-account = Ài già un cuntu?
 firefox-accounts-sign-in = Trasi
 mozilla-accounts-already = Già ài un { -brand-name-mozilla-account }. Accussì si fa!
@@ -19,7 +19,7 @@ mozilla-account-header = { -brand-name-mozilla-account }
 mozilla-account-sign-in-to = Trasi nnô to { -brand-name-mozilla-account } pi:
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
-firefox-accounts-send-a-tab = <a href="{ $send }">Mannari na scheda</a> a n'autru dispusitivu
+firefox-accounts-send-a-tab = <a href="{ $send }">Mannari na scheda</a> a n’autru dispusitivu
 # Variables:
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Sarbari e sincrunizzari i chiavi</a>

@@ -11,4 +11,4 @@ banner-firefox-app-store-mozilla = { -brand-name-mozilla }
 banner-firefox-app-store-free-google-play = A francu – Nne { -brand-name-google-play }
 banner-firefox-app-store-free-app-store = A francu – Nne { -brand-name-app-store }
 # An accessible label used to describe the purpose of the page element.
-banner-firefox-app-store-label = Scàricca di l'App Store
+banner-firefox-app-store-label = Scàricca di l’App Store

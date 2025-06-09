@@ -9,7 +9,7 @@ vpn-download-page-title = Scàrrica { -brand-name-mozilla-vpn }
 vpn-download-page-description = Scàrrica { -brand-name-mozilla-vpn } pi { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } e { -brand-name-ios }.
 # Variables:
 #   $devices (number) - maximum number of connected devices
-vpn-download-sub-heading = Po' scarricari { -brand-name-mozilla-vpn } nzinu a { $devices } cu n'abbunamentu sulu.
+vpn-download-sub-heading = Po’ scarricari { -brand-name-mozilla-vpn } nzinu a { $devices } cu n’abbunamentu sulu.
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } ti duna na prutizzioni sicura pi tutti i sistemi upirativi majuri.
 vpn-download-not-available-in-country = Ni dispiaci, accamora { -brand-name-mozilla-vpn } nun è dispunìbbili nnô to pajisi.
 vpn-download-for-windows-v2 = VPN pi { -brand-name-windows }
@@ -36,6 +36,6 @@ vpn-download-also-available = Dispunìbbili macari pi:
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
 #   $attrs (string) - specific attributes added to external links
-vpn-download-from-the-maker = Dî criatura di { -brand-name-firefox }, { -brand-name-mozilla-vpn } usa u prutucollu avanzatu <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® pi cifrari a to attività 'n riti e ammucciari a to pusizzioni.
+vpn-download-from-the-maker = Dî criatura di { -brand-name-firefox }, { -brand-name-mozilla-vpn } usa u prutucollu avanzatu <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® pi cifrari a to attività ’n riti e ammucciari a to pusizzioni.
 vpn-download-we-never-log = Nun riggistramu, trazzamu o spartemu mai i to dati di riti
 vpn-download-previous-versions = Scàrrica i virsioni cchiù vecchi pi { -brand-name-windows } e { -brand-name-mac-short }
