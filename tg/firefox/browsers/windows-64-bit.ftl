@@ -7,6 +7,8 @@
 
 # HTML page title
 windows-64-bit-firefox-for-windows = Браузери «{ -brand-name-firefox }» барои низоми амалкунандаи «{ -brand-name-windows }» 64-бит
+# HTML page description
+windows-64-bit-users-on-64-bit-windows = Корбароне, ки аз низоми амалкунандаи «{ -brand-name-windows }» 64-бит истифода мебаранд, ҳангоми бор кардани браузери «{ -brand-name-firefox }» метавонанд версияи 64-битро ба таври пешфарз гиранд. Ин маънои онро дорад, ки шумо версияи «{ -brand-name-firefox }»-и боз ҳам бехатарро ба даст меоред.
 windows-64-bit-64-bit = 64-бит
 # Main title
 windows-64-bit-a-more-secure-firefox = Браузери «{ -brand-name-firefox }» бехатартар аст.
