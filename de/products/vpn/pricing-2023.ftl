@@ -52,6 +52,10 @@ vpn-pricing-if-you-purchased = Falls du dein Abonnement über In-App-Kauf im App
 
 vpn-pricing-what-information = Welche Informationen speichert { -brand-name-mozilla-vpn }?
 
+# Variables
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-pricing-we-adhere-strictly = Wir halten uns strikt an die <a { $principles }>Datenschutzprinzipien</a> von { -brand-name-mozilla }. Wir sammeln die Daten, die wir brauchen, um das { -brand-name-mozilla-vpn } funktional zu erhalten und das Produkt mit der Zeit zu verbessern. Außerdem tracken wir Kampagnen- und Empfehlungsdaten in unserer mobilen App, um { -brand-name-mozilla } zu helfen, die Effektivität unserer Marketingkampagnen nachzuvollziehen. Erfahre mehr dazu in unserem <a { $notice }>Datenschutzhinweis</a>.
 
 vpn-pricing-how-do-i-manage = Wie verwalte und ändere ich mein Abonnement?
 
