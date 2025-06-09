@@ -36,6 +36,7 @@ manifesto-our-10-principles = <strong>10 қоидаи асосии мо</strong>
 manifesto-read-the-entire-manifesto = Санадҳои асосии моро дар шакли пурра мутолиа намоед
 manifesto-details-the-mozilla-manifesto = Санади асосии «{ -brand-name-mozilla }»
 manifesto-details-introduction = Муқаддима
+manifesto-details-the-internet-is-becoming = Интернет рӯз то рӯз ба қисми ҷудонопазири ҳаёти мо табдил ёфта, нақши муҳимтарини худро бозӣ мекунад.
 manifesto-details-the-goals-for = Мақсадҳои санади асосии мо:
 manifesto-details-principles = Қоидаҳои асосӣ
 manifesto-details-the-internet-is-integral = Интернет қисми ҷудонашавандаи зиндагии муосир аст — унсури калидӣ дар маориф, муошират, ҳамкорӣ, тиҷорат, фароғат ва ҳаёти иҷтимоӣ дар маҷмуъ.
