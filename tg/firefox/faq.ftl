@@ -23,6 +23,7 @@ how-do-i = Чӣ тавр { -brand-name-firefox-browser }-ро боргирӣ н�
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
 is-firefox-free = Браузери «{ -brand-name-firefox }» ройгон аст?
+yep-the-firefox-browser-is-free = Ҳа! «{ -brand-name-firefox-browser }» ройгон аст. Дар ҳақиқат ин ройгон аст. Ягон пардохти ноаён ё чизе монанд пинҳон нашудааст. Шумо барои истифодаи он ягон чиз пардохт намекунед.
 related-questions-free = Саволҳои марбут: Оё { -brand-name-firefox-browser } ройгон аст? Оё «{ -brand-name-firefox }» ягон пул меарзад?
 is-chrome-better = Оё браузери «{ -brand-name-chrome }» нисбат ба браузери «{ -brand-name-firefox }» беҳтар аст?
 
@@ -40,6 +41,7 @@ is-firefox-safe = Браузери «{ -brand-name-firefox }» бехатар а
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
+related-questions-safe = Саволҳои марбут: оё браузери «{ -brand-name-firefox }» барои махфият хуб аст, оё браузери «{ -brand-name-firefox }» бехатар аст, оё браузери «{ -brand-name-firefox }» барои махфият беҳтар аст?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/

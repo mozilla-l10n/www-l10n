@@ -15,3 +15,19 @@ about-this-site-contribute-to-l10n = Бо тарҷумаҳо саҳм гузор
 about-this-site-read-the-docs = Хондани маҷмуи ҳуҷҷатҳо
 about-this-site-colophon = Лоиҳаҳои истифодашуда
 about-this-site-some-open-source-projects = Баъзе лоиҳаҳо бо манбаи кушод, ки барои барномарезии ин сомона истифода мешаванд:
+# Variables:
+#   $django (url) link to https://www.djangoproject.com/
+#   $jinja (url) link to https://jinja.palletsprojects.com/
+about-this-site-django = <a href="{ $django }">«Django»</a> ҳамчун сохтори дохилии сомона ва истифодаи <a href="{ $jinja }">«Jinja»</a> барои қолабсозӣ.
+# Variables:
+#   $protocol (url) link to https://protocol.mozilla.org/
+about-this-site-mozilla-protocol = Низоми тарроҳии <a href="{ $protocol }">«Protocol»</a> аз ҷониби «{ -brand-name-mozilla }» барои унсурҳои интерфейс ва тамғаҳои молӣ.
+# Variables:
+#   $fluent (url) link to https://projectfluent.org/
+about-this-site-fluent = Низоми маҳаллисозии <a href="{ $fluent }">«Fluent»</a> аз ҷониби «{ -brand-name-mozilla }» барои тарҷума кардани барномаҳо ба забонҳои дигар.
+# Variables:
+#   $github (url) link to https://github.com/mozilla/bedrock
+about-this-site-many-other = Бисёр китобхонаҳо ва сохторҳои хурди дигар, ки шумо метавонед онҳоро дар <a href="{ $github }"> феҳристи «{ -brand-name-github }»</a> пайдо намоед.
+# Variables:
+#   $credits (url) link to https://www.mozilla.org/credits/
+about-this-site-we-extend = Мо ба ҳамаи <a href="{ $credits }">саҳмгузорони</a> «{ -brand-name-mozilla }», ки барои беҳтар кардани Интернет кумак мерасонанд, изҳори сипос мекунем.

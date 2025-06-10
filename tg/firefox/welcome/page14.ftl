@@ -12,5 +12,6 @@ welcome-page14-use-code = Барои ба даст овардани тахфиф
 welcome-page14-copy-code = Нусха бардоштани рамз
 welcome-page14-code-copied = Рамз нусха бардошта шуд!
 welcome-page14-very-fast = Ин зуд, хеле зуд аст
+welcome-page14-wireguard-powered = Серверҳои мо дар асоси «{ -brand-name-wireguard }®» барои суръат сохта шудаанд, то шумо метавонед ба таври муқаррар видеоҳоро ҷараён кунед, файлҳоро боргирӣ кунед ва бозиҳоро бозӣ кунед.
 welcome-page14-without-trace = Интернет бе пайгирӣ
 welcome-page14-why-see-this = Чаро ман инро дида истодаам?
