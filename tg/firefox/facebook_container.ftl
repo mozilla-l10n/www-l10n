@@ -26,4 +26,7 @@ facebook-container-install-and-contain = Насб кунед ва дар худ 
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
 facebook-container-installing-the-extension-is = Насб кардани <a href="{ $fbcontainer }">васеъшавӣ</a> осон аст ва пас аз фаъолсозӣ он сомонаи «{ -brand-name-facebook }»-ро дар варақаи кабуд ҳар вақте, ки шумо онро истифода мебаред, мекушояд. «{ -brand-name-facebook }»-ро ба таври муқаррар истифода баред ва хурсанд шавед. «{ -brand-name-facebook }» то ҳол метавонад дар ҳудуд сомонаи худ ба шумо таблиғу реклама ва тавсияҳоро ирсол кунад, аммо барои «{ -brand-name-facebook }» истифодаи таърихи фаъолияти ҷамъшудаи шумо <strong>берун аз «{ -brand-name-facebook }»</strong> барои ирсоли таблиғу реклама ва дигар паёмҳои мақсаднок ба шумо хеле мушкил мешавад.
 facebook-container-about-firefox-and-mozilla = Дар бораи «{ -brand-name-firefox }» ва «{ -brand-name-mozilla }»
+# Variables:
+#   $mozilla (url) - link to https://www.mozilla.org/
+facebook-container-were-backed-by-mozilla-the = Моро ташкилоти ғайритиҷоратии <a href="{ $mozilla }">«{ -brand-name-mozilla }»</a> дастгирӣ мекунад, ки ба одамон нисбат ба фоидаи молӣ аҳамияти баланд медиҳанд, то ҳар як кас тавонад дар Интернет боқувват шавад. Мо ин васеъшавиро эҷод кардем, зеро ки мо боварӣ дорем, ки шумо бояд аз абзорҳои осонфаҳм истифода баред, ки ба шумо дар идоракунии махфият ва амнияти шахсӣ кумак мерасонанд.
 facebook-container-browse-freely-with-firefox = Имрӯз ба воситаи «{ -brand-name-firefox }» озодона тамошо кунед.
