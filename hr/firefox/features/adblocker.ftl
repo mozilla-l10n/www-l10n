@@ -15,6 +15,17 @@ features-adblocker-an-ad-blocker-is-a-piece = Bloker oglasa je softver koji slu�
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Ti bi oglasi mogli biti glasni video oglasi, oglasi koji te prate po webu, programi za praćenje, kolačići trećih strana i još mnogo toga. Za upotrebu blokator oglasa, potraži dodatke za blokiranje oglasa koji su dostupni u tvom pregledniku. <a href="{ $firefox }">{ -brand-name-firefox }</a>, na primjer, <a href="{ $addons }">ima ovaj popis odobrenih dodataka za blokiranje oglasa</a>. Klikni ovaj popis (ili blokatore oglasa koji su odobreni za tvoj preglednik) i pogledaj koji odgovara tvojim potrebama.
 features-adblocker-find-the-right-ad-blocker = Pronađi bloker oglasa koji tebi odgovara
+features-adblocker-there-are-scores-of-content = Postoje brojni blokatori sadržaja, ali evo nekoliko fantastičnih opcija koje je odabrala { -brand-name-mozilla } …
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = Mnogi smatraju da je <a { $attrs }>uBlock Origin</a> zlatni standard među blokatorima oglasa, a poznat je po svojoj učinkovitosti i efikasnosti. Vrlo je prilagodljiv, ali briljantno radi već i sa standardnim postavkama.
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> blokira oglašavanje posvuda. Blokira oglase na webu, društvenim mrežama, čak i one dosadne skočne prozore (međutim, ako želiš samo suzbiti skočne prozore, ne možeš pogriješiti s blokatorom <a { $attrs2 }>Popup Blocker</a>).
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> je još jedan odličan izbor koji ne samo da blokira oglase, već pruža i dodatne prednosti protiv praćenja.
 # Variables:
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes

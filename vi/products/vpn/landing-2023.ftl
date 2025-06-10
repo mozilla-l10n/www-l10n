@@ -48,3 +48,6 @@ vpn-landing-do-you-need-a-vpn-at-home = Bạn có cần VPN ở nhà không? Dư
 vpn-landing-what-is-an-ip-address = Địa chỉ IP là gì?
 vpn-landing-how-your-location-is-tracked = Cách theo dõi vị trí của bạn và cách bạn có thể hạn chế chia sẻ vị trí đó
 vpn-landing-see-more-resources = Xem thêm tài nguyên
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }
