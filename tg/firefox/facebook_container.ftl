@@ -22,5 +22,8 @@ facebook-container-opt-out-on-your-terms = Дар асоси шартҳои ху
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
 facebook-container-facebook-can-track-almost = «{ -brand-name-facebook }» метавонад қариб тамоми фаъолияти шуморо дар Интернет пайгирӣ кунад ва онро бо шахсияти шумо дар «{ -brand-name-facebook }» пайваст кунад. Агар ин ба арзишҳои шумо номувофиқ бошад, <a href="{ $fbcontainer }">васеъшавии «{ -brand-name-facebook-container }»</a> шахсияти шуморо ба як варақаи дарбаргирандаи алоҳида ҷудо мекунад ва пайгирии шуморо дар Интернет берун аз «{ -brand-name-facebook }» барои «{ -brand-name-facebook }» душвортар мекунад.
 facebook-container-install-and-contain = Насб кунед ва дар худ нигоҳ доред
+# Variables:
+#   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+facebook-container-installing-the-extension-is = Насб кардани <a href="{ $fbcontainer }">васеъшавӣ</a> осон аст ва пас аз фаъолсозӣ он сомонаи «{ -brand-name-facebook }»-ро дар варақаи кабуд ҳар вақте, ки шумо онро истифода мебаред, мекушояд. «{ -brand-name-facebook }»-ро ба таври муқаррар истифода баред ва хурсанд шавед. «{ -brand-name-facebook }» то ҳол метавонад дар ҳудуд сомонаи худ ба шумо таблиғу реклама ва тавсияҳоро ирсол кунад, аммо барои «{ -brand-name-facebook }» истифодаи таърихи фаъолияти ҷамъшудаи шумо <strong>берун аз «{ -brand-name-facebook }»</strong> барои ирсоли таблиғу реклама ва дигар паёмҳои мақсаднок ба шумо хеле мушкил мешавад.
 facebook-container-about-firefox-and-mozilla = Дар бораи «{ -brand-name-firefox }» ва «{ -brand-name-mozilla }»
 facebook-container-browse-freely-with-firefox = Имрӯз ба воситаи «{ -brand-name-firefox }» озодона тамошо кунед.
