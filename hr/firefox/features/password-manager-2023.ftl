@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/password-manager
 
 # HTML page title
-password-manager-free-password-manager = Besplatni upravljač lozinki
+password-manager-free-password-manager = Besplatan upravljač lozinki
 # HTML page description
 password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } upravljač lozinki čuva sve tvoje lozinke na jednom mjestu tako da se možeš automatski prijavljivati na stranice ili dohvatiti spremljene lozinke.
 password-manager-password-autofill-for-easy-logins = Automatsko ispunjavanje lozinke za jednostavnu prijavu

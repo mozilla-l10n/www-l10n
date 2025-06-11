@@ -51,5 +51,5 @@ firefox-new-visit-support-for-more = Posjeti stranicu podrške za više pojedino
 firefox-new-download-browser = Preuzmi { -brand-name-firefox-browser }
 firefox-new-fast = Brzo, privatno i besplatno
 firefox-new-from-mozilla = od { -brand-name-mozilla }
-firefox-new-desc = { -brand-name-firefox-browser } je besplatni web preglednik s brzim učitavanjem stranica, manjim korištenjem memorije i mnogim funkcijama – projekt neprofitne organizacije { -brand-name-mozilla }.
+firefox-new-desc = { -brand-name-firefox-browser } je besplatan web preglednik s brzim učitavanjem stranica, manjim korištenjem memorije i mnogim funkcijama – projekt neprofitne organizacije { -brand-name-mozilla }.
 firefox-new-download-a-different = Preuzmi jednu drugu platformu ili jezik

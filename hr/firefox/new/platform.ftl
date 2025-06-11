@@ -20,7 +20,7 @@ new-platform-need-help = Trebaš pomoć?
 
 new-platform-download-mozilla-linux = Preuzmi { -brand-name-mozilla } { -brand-name-firefox } za { -brand-name-linux }
 # /firefox/linux/ HTML page description
-new-platform-download-mozilla-desc-linux = Preuzmi { -brand-name-mozilla } { -brand-name-firefox }, besplatni web preglednik za { -brand-name-linux }. { -brand-name-firefox } je stvorila globalna neprofitna organizacija, s ciljem da pojedincu omogući upravljanje internetskim podacima. Preuzmi { -brand-name-firefox } za { -brand-name-linux } još danas!
+new-platform-download-mozilla-desc-linux = Preuzmi { -brand-name-mozilla } { -brand-name-firefox }, besplatan web preglednik za { -brand-name-linux }. { -brand-name-firefox } je stvorila globalna neprofitna organizacija, s ciljem da pojedincu omogući upravljanje internetskim podacima. Preuzmi { -brand-name-firefox } za { -brand-name-linux } još danas!
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = Preuzmi najbrži { -brand-name-firefox } ikad za { -brand-name-linux }
 # /firefox/linux/ social sharing description
@@ -35,7 +35,7 @@ new-platform-look-under-the-hood = Pogledaj ispod haube. Kao i { -brand-name-lin
 
 new-platform-download-mozilla-firefox-mac = Preuzmi { -brand-name-mozilla } { -brand-name-firefox } za { -brand-name-mac-short }
 # /firefox/mac/ HTML page description
-new-platform-download-mozilla-firefox-desc-mac = Preuzmi { -brand-name-mozilla } { -brand-name-firefox }, besplatni web preglednik za { -brand-name-mac-short }. { -brand-name-firefox } je stvorila globalna neprofitna organizacija, s ciljem da pojedincu omogući upravljanje internetskim podacima. Preuzmi { -brand-name-firefox } za { -brand-name-mac-short } još danas!
+new-platform-download-mozilla-firefox-desc-mac = Preuzmi { -brand-name-mozilla } { -brand-name-firefox }, besplatan web preglednik za { -brand-name-mac-short }. { -brand-name-firefox } je stvorila globalna neprofitna organizacija, s ciljem da pojedincu omogući upravljanje internetskim podacima. Preuzmi { -brand-name-firefox } za { -brand-name-mac-short } još danas!
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = Preuzmi najbrži { -brand-name-firefox } ikad za { -brand-name-mac-short }
 # /firefox/mac/ social sharing description
