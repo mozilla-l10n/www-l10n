@@ -5,7 +5,11 @@
 footer-refresh-discover-mozilla-products = Otkrij { -brand-name-mozilla } proizvode i inicijative. Obećavamo da ćemo tvoju e-mail adresu držati privatnom i sigurnom – bez dijeljenja, bez prodaje, samo sjajna aktualiziranja.
 footer-refresh-leadership = Vodstvo
 footer-refresh-advertise = Oglašavaj s { -brand-name-mozilla }
+footer-refresh-mozilla-advertising = { -brand-name-mozilla } oglašavanje
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = Saznaj više <span>o { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Napomene o { -brand-name-firefox } izdanju
+footer-refresh-privacy-first = Rješenja za oglašavanje usmjerena na privatnost za brendove, izdavače i platforme.
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Slijedi @{ -brand-name-mozilla }
