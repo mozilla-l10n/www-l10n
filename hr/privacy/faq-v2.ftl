@@ -8,4 +8,6 @@
 
 ## FAQ
 
-privacy-faq-v2-no-we-do-not-buy = Ne, ne kupujemo podatke od ljudi za ciljano oglašavanje.
+privacy-faq-v2-you-use-digital = Koristite digitalno oglašavanje kao dio vaše marketinške strategije. Kupujete li podatke o ljudima kako biste bolje personalizirali vaše online oglase?
+privacy-faq-v2-no-we-do-not-buy = Ne, ne kupujemo podatke o ljudima za presonalizirano oglašavanje.
+privacy-faq-v2-find-out-more = Saznaj više o tome kako { -brand-name-mozilla } štiti internet.

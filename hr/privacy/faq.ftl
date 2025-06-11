@@ -26,6 +26,6 @@ privacy-faq-yes-user-control-is-one-of-our = Da. Kontrola korisnika jedno je od 
 # Variables:
 #   $accounts (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 privacy-faq-you-dont-need-an-account-to = { -brand-name-firefox } možeš koristiti bez računa. <a href="{ $accounts }">Računi</a> su potrebni za sinkronizaciju podataka na svim uređajima, ali od tebe tražimo samo e-mail adresu. Mi ne želimo znati tvoje ime, adresu, datum rođenja i broja telefona.
-privacy-faq-you-use-digital-advertising = Koristite digitalno oglašavanje kao dio svoje marketinške strategije. Kupujete li podatke od ljudi kako biste bolje prilagodili svoje online oglašavanje?
-privacy-faq-no-we-do-not-buy-peoples-data = Ne, ne kupujemo podatke od ljudi za ciljano oglašavanje.
+privacy-faq-you-use-digital-advertising = Koristite digitalno oglašavanje kao dio vaše marketinške strategije. Kupujete li podatke o ljudima kako biste bolje personalizirali vaše online oglase?
+privacy-faq-no-we-do-not-buy-peoples-data = Ne, ne kupujemo podatke o ljudima za presonalizirano oglašavanje.
 privacy-faq-find-out-more-about-how-mozilla = Saznaj više o tome kako { -brand-name-mozilla } štiti internet.
