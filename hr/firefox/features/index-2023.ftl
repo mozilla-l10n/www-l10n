@@ -8,10 +8,10 @@
 # HTML page title
 features-index-firefox-browser-features = Funkcije { -brand-name-firefox } preglednika
 # HTML page description
-features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } je brz i lagan preglednik fokusiran na privatnost koji radi na svim tvojim uređajima.
+features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } je brz, eficijentan i na privatnost fokusiran preglednik koji radi na svim tvojim uređajima.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } postaje sve brži
 features-index-the-latest-browser-speed-benchmarks = Najnovija mjerenja brzine preglednika dokazuju da je { -brand-name-firefox } brži nego ikada.
-features-index-is-firefox-a-private-browser = Je li je { -brand-name-firefox } privatni preglednik?
+features-index-is-firefox-a-private-browser = Je li { -brand-name-firefox } privatan preglednik?
 features-index-were-focused-on-your-right-to = Usredotočeni smo na tvoje pravo na privatnost. { -brand-name-firefox } štiti tvoje podatke, tvoju web aktivnost, tvoj život na internetu.
 features-index-free-password-manager = Besplatan upravljač lozinki
 features-index-get-help-creating-new-passwords = Dobij pomoć za stvaranje novih lozinki, za automatsko ispunjavanje obrazaca na internetu i za automatske prijave.

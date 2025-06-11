@@ -9,7 +9,7 @@
 # HTML page title
 
 browsers-chromebook-get-firefox-browser = Nabavi { -brand-name-firefox-browser } za { -brand-name-chromebook }
-browsers-chromebook-so-youve-got = Imaš { -brand-name-chromebook } – sada je vrijeme da nabaviš neovisni, automatski privatni { -brand-name-firefox-browser } za zaštitu osobnih podataka.
+browsers-chromebook-so-youve-got = Imaš { -brand-name-chromebook } – sada je vrijeme da nabaviš neovisan, automatski privatan { -brand-name-firefox-browser } za zaštitu osobnih podataka.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Nabavi { -brand-name-firefox } za { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Nabavi { -brand-name-firefox } za desktop za { -brand-name-chromebook }
 browsers-chromebook-x86-based-chromebook = * x86 zasnovan { -brand-name-chromebook } pokreće { -brand-name-chromeos } 80 ili noviji
