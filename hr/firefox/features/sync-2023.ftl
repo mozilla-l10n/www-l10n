@@ -10,7 +10,7 @@ features-sync-firefox-browser-sync = Sinkronizacija { -brand-name-firefox } preg
 # HTML page description
 features-sync-access-your-firefox-bookmarks = Pristupi svojim { -brand-name-firefox } zabilješkama, lozinkama, otvorenim karticama i još više s bilo kojeg uređaja.
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
-features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Prijavi se za besplatni { -brand-name-mozilla-account }</a> i moći ćeš sinkronizirati svoje podatke svugdje gdje koristiš { -brand-name-firefox } i druge { -brand-name-mozilla } proizvode.
+features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Prijavi se za besplatan { -brand-name-mozilla-account }</a> i moći ćeš sinkronizirati svoje podatke svugdje gdje koristiš { -brand-name-firefox } i druge { -brand-name-mozilla } proizvode.
 features-sync-send-tabs-from-one-device-to-another = Pošalji kartice s jednog uređaja na drugi
 # Used as accessible alternative text for an image
 features-sync-an-image-of-a-firefox-application = Slika izbornika { -brand-name-firefox } aplikacije koja ističe opciju „Pošalji karticu na uređaj”.

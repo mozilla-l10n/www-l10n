@@ -50,7 +50,7 @@ new-platform-be-the-master-of-your = Vladaj svojom domenom uz strogo blokiranje 
 
 new-platform-download-mozilla-windows = Preuzmi { -brand-name-mozilla } { -brand-name-firefox } za { -brand-name-windows }
 # /firefox/windows/ HTML page description
-new-platform-download-mozilla-desc-windows = Preuzmi { -brand-name-mozilla } { -brand-name-firefox }, besplatni web preglednik za { -brand-name-windows }. { -brand-name-firefox } je stvorila globalna neprofitna organizacija, s ciljem da pojedincu omogući upravljanje internetskim podacima. Preuzmi { -brand-name-firefox } za { -brand-name-windows } još danas!
+new-platform-download-mozilla-desc-windows = Preuzmi { -brand-name-mozilla } { -brand-name-firefox }, besplatan web preglednik za { -brand-name-windows }. { -brand-name-firefox } je stvorila globalna neprofitna organizacija, s ciljem da pojedincu omogući upravljanje internetskim podacima. Preuzmi { -brand-name-firefox } za { -brand-name-windows } još danas!
 # /firefox/windows/ social sharing title
 new-platform-download-the-fastest-windows = Preuzmi najbrži { -brand-name-firefox } ikad za { -brand-name-windows }
 # /firefox/windows/ social sharing description

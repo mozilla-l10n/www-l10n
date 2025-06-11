@@ -7,6 +7,8 @@
 
 # HTML page title
 welcome-page1-more-than-a-browser-mozilla = Аз браузер волотар аст - «{ -brand-name-mozilla-monitor }» ҳамчун дидбони шахсии шумо бар зидди ҳакерҳо кор мекунад
+# HTML page description
+welcome-page1-take-the-next-step-to-protect = Барои ҳифзи махфияти худ дар Интернет бо истифода аз оилаи маҳсулоти «{ -brand-name-firefox }» қадами навбатии худро гузоред.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Аз ҳакерон як қадам пеш равед. Дар бораи вайроншавии маълумот ба воситаи «{ -brand-name-mozilla-monitor }» маълумот гиред.
 welcome-page1-check-your-breach-report = Гузориши худро дар бораи вайронкуниҳо ба даст оред
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }

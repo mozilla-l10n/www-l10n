@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = Танзимоти кукиҳо
+cookie-settings-page-desc = Ин саҳифа намудҳои гуногуни кукиҳоро, ки «{ -brand-name-mozilla }» метавонад истифода барад, тавсиф мекунад ва ба шумо имкон медиҳад, то розигии худро муайян кунед ва назорат кунед, ки кадом намуди маълумот аз ҷониби «{ -brand-name-mozilla }» ҷамъоварӣ карда мешавад.
 cookie-settings-breadcrumb-link = Саҳифаи қаблӣ
 cookie-settings-how-mozilla-heading = Чӣ тавр «{ -brand-name-mozilla }» аз кукиҳо истифода мебарад
 cookie-settings-how-does-mozilla-use-subheading = Чӣ тавр «{ -brand-name-mozilla }» аз ин маълумот истифода мебарад?
@@ -33,4 +34,5 @@ cookie-settings-category-analytics-what-are-subheading = Кукиҳои таҳл
 ## Privacy section
 
 cookie-settings-privacy-heading = Огоҳномаи махфияти мо
+cookie-settings-privacy-desc = Барои маълумоти муфассал дар бораи намудҳои гуногуни маълумоте, ки «{ -brand-name-mozilla }» ҳангоми тамошобинӣ аз сомонаҳои мо ҷамъоварӣ мекунад, шумо метавонед истиноди огоҳномаи махфияти моро дар зер пайдо намоед.
 cookie-settings-privacy-policy-link = Огоҳномаи махфият
