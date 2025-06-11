@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/privacy/faq
 
+# HTML page title
+privacy-faq-v2-title = ČPP o { -brand-name-mozilla } privatnosti podataka
 
 ## FAQ
 
