@@ -11,6 +11,9 @@ features-adblocker-so-many-ads-so-little = Ин қадар бисёр рекла
 features-adblocker-the-average-person-sees = Ба ҳисоби миёна як нафар дар як рӯз тахминан 4000 таблиғу рекламаро мебинад. Агар шумо фикр кунед, ки ин хеле зиёд аст, он гоҳ манъкунандаи реклама дӯсти нави беҳтарини шумо аст.
 features-adblocker-find-the-right-ad-blocker = Манъкунандаи рекламаеро, ки ба ниёзҳои шумо мувофиқ аст, дарёфт кунед
 # Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>«Ghostery»</a> боз як интихоби беҳтарин аст, ки на танҳо таблиғу рекламаро манъ мекунад, балки имтиёзҳои иловагиро барои муҳофизат аз ҳар гуна васоити пайгирӣ фароҳам меорад.
+# Variables:
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Ин васеъшавиҳо ҳам дар <a { $attrs1 }>браузери «{ -brand-name-firefox }» барои мизи корӣ</a> ва ҳам дар <a { $attrs2 }>браузер барои «Android»</a> хуб кор мекунанд.
