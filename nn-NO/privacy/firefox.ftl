@@ -8,6 +8,7 @@
 privacy-firefox-read-our-privacy = Les personvernfråsegna vår
 privacy-firefox-transparency-first = Openheit først
 privacy-firefox-how-we-use = Korleis vi brukar data
+privacy-firefox-always-protected = Alltid verna
 privacy-firefox-privacy-that-works = Personvern som fungerer for deg
 privacy-firefox-manage-your-privacy = Handsam personverninnstillingane dine:
 # Obsolete string (expires: 2025-04-24)

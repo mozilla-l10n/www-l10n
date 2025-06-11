@@ -19,6 +19,7 @@ m24-about-mozilla-is-working = { -brand-name-mozilla } jobbar med å gi brukaran
 
 m24-about-together-we-can = Saman kan vi gjere internett enkelt, trygt og gratis — for alle.
 m24-about-read-our-manifesto = Les manifestet vårt
+m24-about-we-advocate-for = Vi jobbar for betre produkt, og held styresmakter og teknologiselskap ansvarlege for det dei skaper.
 m24-about-research = Forsking
 m24-about-we-build-products = Vi byggjer produkt som gir deg kontroll — som { -brand-name-firefox }, { -brand-name-fakespot } og fleire andre.
 m24-about-fund = Finansiering
