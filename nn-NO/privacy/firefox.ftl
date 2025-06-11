@@ -6,6 +6,10 @@
 ### URL: https://www-dev.allizom.org/privacy/firefox
 
 privacy-firefox-read-our-privacy = Les personvernfråsegna vår
+privacy-firefox-transparency-first = Openheit først
+privacy-firefox-how-we-use = Korleis vi brukar data
+privacy-firefox-privacy-that-works = Personvern som fungerer for deg
+privacy-firefox-manage-your-privacy = Handsam personverninnstillingane dine:
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-desktop = { -brand-name-firefox } for datamaskiner
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } for datamaskiner
