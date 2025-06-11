@@ -16,6 +16,7 @@ mobile-android-scan-the-qr-code-to-get-started = Барои оғози кор б
 mobile-android-scan-alt-text = Барои гирифтани «{ -brand-name-firefox }» дар «{ -brand-name-android }», рамзи «QR»-ро тасвирбардорӣ намоед
 mobile-android-fast-and-private = Тез ва хусусӣ
 mobile-android-one-tap-to = Ба реҷаи «Тамошобинии хусусӣ» бо як ламс гузаред
+mobile-android-get-to-private = Танҳо бо зер кардани як тугма ба Реҷаи «Тамошобинии хусусӣ» ворид шавед. Ва вақте ки шумо Реҷаи «Тамошобинии хусусӣ»-ро пӯшед, таърихи тамошобинии шумо ба таври худкор аз дастгоҳи шумо нест карда мешавад.
 mobile-android-search-your-own = Ба таври дилхоҳ ҷустуҷӯ кунед
 mobile-android-save-power-with = Ба воситаи реҷаи «Торик» қувваи барқро сарфа намоед
 mobile-android-switch-to-dark = Шумо метавонед дар вақти дилхоҳ ба реҷаи торик гузаред, то хастагии чашмро кам кунед ва батареяи дастгоҳро сарфа кунед.
