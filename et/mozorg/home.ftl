@@ -8,7 +8,7 @@
 home-internet-for-people-not-profit = Internet inimeste hüvanguks, mitte tulu eesmärgil
 home-did-you-know-mozilla-the-maker = Kas teadsid? { -brand-name-mozilla }, { -brand-name-firefox }i looja, võitleb interneti üleilmse avaliku ressursina hoidmise eest, avatuna ja ligipääsetavana kõigile.
 home-fast-for-good = Kiire igavesti, avalikkuse hüvanguks.
-home-with-2x-the-speed-built-in = 2x kiiruse, sisseehitatud privaatsuskaitse ning { -brand-name-mozilla }ga selle selja taga, on uus { -brand-name-firefox } parem viis veebilehitsemiseks.
+home-with-2x-the-speed-built-in = 2x kiiruse, sisseehitatud privaatsuskaitse ning { -brand-name-mozilla }ga selle selja taga on uus { -brand-name-firefox } parem viis veebilehitsemiseks.
 home-we-make-the-internet-safer = Muudame avalikkuse hüvanguks interneti turvalisemaks, tervemaks ja kiiremaks.
 home-mozilla-is-the-not-for-profit = { -brand-name-mozilla } on { -brand-name-firefox }i, originaalse alternatiivse veebilehitseja, taga seisev mittetulunduslik organisatsioon. Loome tooteid ja poliitikaid selleks, et internet oleks jätkuvalt inimeste käsutuses, mitte kasumi eesmärgil.
 home-our-impact = Meie mõju
