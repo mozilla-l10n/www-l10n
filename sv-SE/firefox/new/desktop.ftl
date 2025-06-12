@@ -21,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = En ännu nyare { -brand-name-firefox } är tillgänglig. <a { $update_url }>Uppdatera till den senaste versionen</a>
 firefox-desktop-download-get-the-browser = Skaffa webbläsaren som skyddar det som är viktigt
 firefox-desktop-download-fast-reliable-private = Snabb, pålitlig och privat — för sinnesfrid online.
+firefox-desktop-set-as-default = Ställ in { -brand-name-firefox } som din standardwebbläsare.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Inga konstiga sekretesspolicyer eller bakdörrar för annonsörer. Bara en blixtsnabb webbläsare som inte säljer din data.
 firefox-desktop-download-download-options = Nedladdningsalternativ och andra språk
