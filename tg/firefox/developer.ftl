@@ -64,6 +64,9 @@ firefox-developer-firefox-developer-edition-sends = Браузери «{ -brand-
 firefox-developer-download-the-firefox-browser = Браузери «{ -brand-name-firefox }»-ро ба даст оред, ки барои барномасозон эҷод карда шудааст.
 firefox-developer-welcome-to-firefox-developer-edition = Хуш омадед ба «{ -brand-name-firefox-developer-edition }»
 firefox-developer-made-for-developers = Браузере, ки барои барномасозон сохта шудааст
+firefox-developer-all-the-latest-v2 = Ҳамаи абзорҳои барномарезӣ дар версияи бета илова ба бар хусусиятҳои монанд ба «Multi-line Console Editor» ва «WebSocket Inspector».
+firefox-developer-a-separate-profile = <strong>Профили алоҳида ва масир</strong>, то шумо тавонед онро ба осонӣ дар баробари релиз ё «{ -brand-name-beta } { -brand-name-firefox }» иҷро намоед.
+firefox-developer-preferences-tailored = Хусусиятҳое, ки <strong>барои мутахассисони барномарезии сомонаҳо</strong> таҳия карда шудаанд: Браузер ва ислоҳи нуқсонҳо ба таври дурдаст, аз он ҷумла мавзуи торик ва тугмаи навори абзорҳои барномасозон ба таври пешфарз фаъол карда мешаванд.
 firefox-developer-congrats-you-now-have-latest-v2 = Акнун шумо версияи навтарини «{ -brand-name-firefox-developer-edition }»-ро ба даст гирифтед.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
