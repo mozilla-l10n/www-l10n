@@ -31,6 +31,7 @@ is-chrome-better = Оё браузери «{ -brand-name-chrome }» нисбат
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Бинед, ки чӣ тавр «{ -brand-name-firefox }» нисбат ба «{ -brand-name-chrome }» муқоиса карда мешавад.</a>
+related-questions-better = Саволҳои марбут: Оё «{ -brand-name-firefox }» нисбат ба «{ -brand-name-chrome }» беҳтар аст?, оё «{ -brand-name-firefox }» нисбат ба «{ -brand-name-google }» беҳтар аст?, оё «{ -brand-name-firefox }» нисбат ба «{ -brand-name-chrome }» бехатартар аст, оё «{ -brand-name-firefox }» нисбат ба «{ -brand-name-chrome }» махфиятро беҳтар ҳифз мекунад?
 is-firefox-safe-download = Браузери «{ -brand-name-firefox }» барои боргирӣ бехатар аст?
 
 # Variables:
