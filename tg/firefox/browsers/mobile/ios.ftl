@@ -20,6 +20,7 @@ mobile-ios-get-more-firefox = Браузери «{ -brand-name-firefox }»-ро 
 mobile-ios-get-to-your-go-to = Дар дастгоҳҳои худ бо низомҳои «{ -brand-name-iphone }» ва «{ -brand-name-ipad }» ба ҷойҳои дӯстдоштаи худ дар Интернет зудтар расед.
 mobile-ios-see-your-open-tabs = Бо { -brand-name-firefox-browser } барои «{ -brand-name-ios }» ҳамаи варақаҳои кушодашуда, ҷустуҷӯҳои охирин ва сомонаҳои дӯстдоштаи худро дар як ҷой аз назар гузаронед.
 mobile-ios-own-your-home = Соҳиби экрани асосии худ шавед
+mobile-ios-get-to-the-parts = Ба қисматҳои муҳими Интернет зудтар дастрасӣ пайдо кунед. Ҳамаи варақаҳои кушодашуда, ҷустуҷӯҳои охирин, хатбаракҳо ва сомонаҳои дӯстдоштаи худро дар як ҷой аз назар гузаронед — ба ихтиёри худ.
 mobile-ios-find-it-all = Ҳамаашро тезтар пайдо кунед
 mobile-ios-discover-more-of = Он чизҳоеро, ки дӯст медоред, бештар кашф кунед
 mobile-ios-about-mozilla = Дар бораи «{ -brand-name-mozilla }»

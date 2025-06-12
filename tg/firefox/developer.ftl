@@ -81,6 +81,8 @@ firefox-developer-mdn-updates = Навигариҳо
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Иқтибосҳо аз «{ -brand-name-mdn }»
 # Obsolete string (expires 18-04-2025)
+firefox-developer-mdn-is-a = «{ -brand-name-mdn }» — лоиҳаи ҳамкорӣ дар асоси манбаи кушод мебошад, ки барои технологияҳои платформаи веб, аз он ҷумла «CSS», «HTML», «JavaScript» ва «API»-ҳои веб санаду ҳуҷҷатҳоро таҳия мекунад.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = Нақшаи таълимии «{ -brand-name-mdn }»
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
