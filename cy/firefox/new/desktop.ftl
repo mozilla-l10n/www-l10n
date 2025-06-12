@@ -21,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Mae { -brand-name-firefox } mwy diweddar byth ar gael. <a { $update_url }>Diweddaru i'r fersiwn diweddaraf</a>
 firefox-desktop-download-get-the-browser = Cael y porwr sy'n diogelu'r hyn sy'n bwysig
 firefox-desktop-download-fast-reliable-private = Cyflym, dibynadwy a phreifat - er tawelwch meddwl ar-lein.
+firefox-desktop-set-as-default = Gosod { -brand-name-firefox } fel eich porwr rhagosodedig.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Dim polisïau preifatrwydd amheus na drysau cefn i hysbysebwyr. Porwr cyflym iawn sydd ddim yn eich trin fel rhywbeth i'w werthu.
 firefox-desktop-download-download-options = Dewisiadau llwytho i lawr ac ieithoedd eraill

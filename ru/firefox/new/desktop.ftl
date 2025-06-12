@@ -21,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Доступна еще более новая версия { -brand-name-firefox }. <a { $update_url }>Обновить до последней версии</a>
 firefox-desktop-download-get-the-browser = Получите браузер, который защищает всё важное
 firefox-desktop-download-fast-reliable-private = Быстрый, надежный и приватный — для вашего спокойствия в Интернете.
+firefox-desktop-set-as-default = Установите { -brand-name-firefox } в качестве браузера по умолчанию.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Никаких скрытых политик приватности или лазеек для рекламодателей. Просто молниеносный браузер, который никогда вас не предаст.
 firefox-desktop-download-download-options = Параметры загрузки и другие языки

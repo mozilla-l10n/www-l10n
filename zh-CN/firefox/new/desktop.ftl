@@ -21,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = 已有更新的 { -brand-name-firefox } 可用。 <a { $update_url }>更新到最新版本</a>
 firefox-desktop-download-get-the-browser = 选择会保护重要数据的浏览器
 firefox-desktop-download-fast-reliable-private = 快速、可靠、私密——让您高枕无忧。
+firefox-desktop-set-as-default = 将 { -brand-name-firefox } 设为您的默认浏览器。
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = 没有晦涩难懂的隐私保护政策，更不向广告商预留后门，纯粹是一款闪电般快、不会出卖您的浏览器。
 firefox-desktop-download-download-options = 下载其他平台与语言版本
