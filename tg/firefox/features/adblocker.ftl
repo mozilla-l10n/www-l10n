@@ -10,6 +10,7 @@ features-adblocker-the-ad-blocker-a-secret = «Манъкунандаи рекл
 features-adblocker-so-many-ads-so-little = Ин қадар бисёр рекламаи безоркунанда, он қадар сабри кам… Акнун вақти он расидааст, ки мо бояд девонагиро бас кунем.
 features-adblocker-the-average-person-sees = Ба ҳисоби миёна як нафар дар як рӯз тахминан 4000 таблиғу рекламаро мебинад. Агар шумо фикр кунед, ки ин хеле зиёд аст, он гоҳ манъкунандаи реклама дӯсти нави беҳтарини шумо аст.
 features-adblocker-find-the-right-ad-blocker = Манъкунандаи рекламаеро, ки ба ниёзҳои шумо мувофиқ аст, дарёфт кунед
+features-adblocker-there-are-scores-of-content = Воситаҳои зиёде барои маҳдуд кардани муҳтаво мавҷуданд. Аммо, инчунин, чанд варианти беназире ҳастанд, ки махсус аз ҷониби «{ -brand-name-mozilla }» таҳия шудаанд…
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>«Ghostery»</a> боз як интихоби беҳтарин аст, ки на танҳо таблиғу рекламаро манъ мекунад, балки имтиёзҳои иловагиро барои муҳофизат аз ҳар гуна васоити пайгирӣ фароҳам меорад.

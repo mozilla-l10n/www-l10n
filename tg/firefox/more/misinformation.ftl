@@ -14,6 +14,7 @@ misinformation-spot-online-heading = Чӣ тавр маълумоти барду
 misinformation-look-at-url = Ба нишонии «URL» ва/ё манбаи мавод нигаред.
 misinformation-overly-sensational = Оё сарлавҳа аз ҳад зиёд ҳангомадор аст?
 misinformation-content-up-to-date = Оё муҳтаво ба ҳолати кунунӣ мутобиқ аст?
+misinformation-outdated-information = Шарт нест, ки маълумоти куҳна маънои беэътиноӣ дорад, аммо он метавонад дар асл дигар дуруст набошад.
 misinformation-credible-publication = Оё муаллиф мақолаҳо ё мақолаҳои дигарро нашр кардааст, ки дар нашрияҳои cазoвopи эътимoд, инчунин, дар сифати олӣ мебошанд?
 misinformation-authors-name = Агар шумо танҳо номи муаллифро дар сомонаҳои шубҳанок пайдо кунед, шумо набояд ба изҳороти онҳо аҳамияти зиёд диҳед.
 misinformation-images-captions = Оё тасвирҳо ва сарлавҳаҳо мувофиқат мекунанд?
