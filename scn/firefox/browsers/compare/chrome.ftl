@@ -7,4 +7,4 @@
 
 # Page title
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
-compare-chrome-we-block-trackers-by-default = Bluccamu i trazzatura di manera pridifinuta. Chroma nun u fa.
+compare-chrome-we-block-trackers-by-default = Bluccamu i trazzatura di manera pridifinuta. Chrome nun u fa.
