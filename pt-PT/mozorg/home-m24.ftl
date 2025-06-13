@@ -36,13 +36,13 @@ m24-home-save-the-internets = Guarde o melhor conteúdo da Internet em qualquer 
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-keep-your-location = Mantenha a sua localização e as suas aventuras online privadas — faça streaming como um local, em qualquer lugar.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
-m24-home-get-a-headsup = Saiba se a sua informação pessoal está em risco e bloqueie-as como um pro.
+m24-home-get-a-headsup = Saiba se a sua informação pessoal está em risco e bloqueie-a como um profissional.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
-m24-home-mask-your-email = Mascare o seu email e número de telefone para que apenas receba as mensagens que pretende.
+m24-home-mask-your-email = Mascare o seu e-mail e número de telefone para que receba apenas as mensagens que pretende.
 
 ## Donate
 
-m24-home-donate-to-the = Fazer um donativo para a { -brand-name-mozilla }, uma organização sem fins lucrativos
+m24-home-donate-to-the = Faça donativos à { -brand-name-mozilla }, uma organização sem fins lucrativos
 m24-home-mozilla-is-building = A { -brand-name-mozilla } está a construir um movimento para recuperar a Internet. Juntos podemos construir um futuro onde a nossa privacidade está protegida, a IA é confiável e as empresas de tecnologia irresponsáveis são responsabilizadas. Mas isto só é possível se o fizermos juntos.
 m24-home-were-proudly-nonprofit = Temos orgulho de ser uma organização sem fins lucrativos. Vai fazer um donativo para a { -brand-name-mozilla } hoje?
 m24-home-donate = Doar
@@ -61,9 +61,9 @@ m24-home-our-mission-is = A nossa missão é tornar mais fácil para as pessoas 
 m24-home-alt-solo-ai-logo = Logótipo de { -brand-name-solo-ai }
 m24-home-solo-ai = { -brand-name-solo-ai }
 m24-home-create-your-website = Crie o seu website e ligue o seu domínio personalizado gratuitamente
-m24-home-alt-builders = Construtores
+m24-home-alt-builders = Criadores
 m24-home-alt-builders-v2 = { -brand-name-builders }
-m24-home-mozilla-builders = Construtores da { -brand-name-mozilla }
+m24-home-mozilla-builders = Criadores da { -brand-name-mozilla }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = A Construtores ajuda programadores independentes a criar projetos de IA de código aberto e transformadores através de colaborações, programação e comunidade sob medida.
 m24-home-builders-helps-independent-v2 = A { -brand-name-mozilla-builders } ajuda programadores independentes a criar projetos de IA de código aberto e transformadores através de colaborações, programação e comunidade sob medida.
