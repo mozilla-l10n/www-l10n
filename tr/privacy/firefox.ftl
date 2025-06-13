@@ -14,6 +14,8 @@ privacy-firefox-transparency-first = Önce şeffaflık
 privacy-firefox-how-we-use = Bu verileri nasıl kullanıyoruz?
 privacy-firefox-privacy-that-works = Size en uygun gizlilik
 privacy-firefox-manage-your-privacy = Gizlilik ayarlarınızı yönetin:
+# Obsolete string (expires: 2025-04-24)
+privacy-firefox-firefox-for-desktop = Bilgisayarlar için { -brand-name-firefox }
 privacy-firefox-firefox-for-desktop-v2 = Bilgisayarlar için { -brand-name-firefox }
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-mobile = Mobil cihazlar için { -brand-name-firefox }
