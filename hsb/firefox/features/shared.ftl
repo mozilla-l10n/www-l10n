@@ -7,3 +7,4 @@
 
 features-shared-firefox-features = Funkcije { -brand-name-firefox }
 features-shared-footer-cta-title = Čińće wjace z { -brand-name-firefox }
+features-shared-footer-cta-desc = Wobstarajće sej spěšny, lochki wobhladowak z fokusom na priwatnosći, kotryž so wot powšitkowni wužitneje organizacije podpěruje a na wšěch wašich gratach funguje.

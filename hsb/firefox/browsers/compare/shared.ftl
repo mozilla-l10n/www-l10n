@@ -7,6 +7,7 @@
 
 compare-shared-compare-firefox = Přirunajće { -brand-name-firefox }
 compare-shared-footer-cta-title = Čińće wjace z { -brand-name-firefox }
+compare-shared-footer-cta-desc = Wobstarajće sej spěšny, lochki wobhladowak z fokusom na priwatnosći, kotryž so wot powšitkowni wužitneje organizacije podpěruje a na wšěch wašich gratach funguje.
 compare-shared-we-also-offer-easy = Poskićamy tež lochko wužiwajomne funkcije kaž:
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } ma tež zatwarjene nastroje kaž:
 # Variables
