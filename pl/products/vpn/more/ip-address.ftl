@@ -11,6 +11,9 @@ vpn-ip-address-what-is-an-ip-address = Czym jest adres IP?
 vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } odpowiada na wszystkie pytania dotyczące adresów IP, począwszy od tego, czym jest adres IP, jak działa, aż po to, czy warto go ukrywać.
 vpn-ip-address-every-time-you = Zawsze, kiedy korzystasz z internetu, adresy IP odgrywają kluczową rolę w wymianie informacji umożliwiającej wyświetlenie stron, które są Twoim celem. Mimo to możesz nie wiedzieć, czym taki adres jest – właśnie dlatego poniżej odpowiadamy na najczęściej zadawane pytania.
 vpn-ip-address-your-ip-address = Twój adres IP to unikatowy identyfikator, taki jak adres e-mail, powiązany z Twoją aktywnością online. Za każdym razem, kiedy korzystasz z internetu (kupujesz online, wysyłasz wiadomości e-mail, oglądasz telewizję strumieniową), prosisz o dostęp do określonego miejsca w sieci, a w odpowiedzi otrzymujesz informacje. Jak to działa? Skrót IP pochodzi od anglojęzycznego terminu „Internet Protocol”, oznaczającego „Protokół internetowy”, czyli zbiór zasad i reguł wymiany danych i łączenia się z internetem. Zasady zebrane w tym protokole powinny być przestrzegane przez wszystkie strony, aby obustronna wymiana danych była możliwa.
+# Used as an accessible text alternative for an image
+vpn-ip-address-an-example-of-an-ip = Przykład adresu IP, który jest ciągiem czterech liczb oddzielonych kropkami: 123.45.67.89
+vpn-ip-address-if-you-look-up-your = Jeśli sprawdzisz swój adres IP, będzie on wyglądał mniej więcej tak.
 vpn-ip-address-does-it-travel = Czy ten adres podróżuje ze mną?
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
