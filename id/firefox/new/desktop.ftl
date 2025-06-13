@@ -24,6 +24,7 @@ firefox-desktop-download-get-the-browser = Dapatkan peramban yang melindungi apa
 
 firefox-desktop-download-fast-reliable-private = Cepat, andal, dan pribadi — agar pikiran lebih tenang saat daring.
 
+
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Tanpa adanya kebijakan privasi yang menjebak ataupun pintu belakang bagi pengiklan. Hanya peramban secepat kilat yang tidak menjual Anda.
 

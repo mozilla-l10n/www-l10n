@@ -24,6 +24,7 @@ firefox-desktop-download-get-the-browser = Der Browser, der das schützt, was di
 
 firefox-desktop-download-fast-reliable-private = Schnell, verlässlich und privat – sorgenfrei online.
 
+
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Keine zwielichtigen Datenschutzhinweise oder Hintertürchen für Werbetreibende. Nur ein blitzschneller Browser, der deine Privatsphäre respektiert.
 
