@@ -21,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Der is in noch nijere { -brand-name-firefox } beskikber. <a { $update_url }>Bywurkje nei de nijste ferzje</a>
 firefox-desktop-download-get-the-browser = Download de browser dy’t beskermet wat wichtich is
 firefox-desktop-download-fast-reliable-private = Fluch, betrouber en privee – foar gemoedsrêst online.
+firefox-desktop-set-as-default = { -brand-name-firefox } as jo standertbrowser ynstelle.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Gjin skimerich privacybelied of efterdoarkes foar advertearders. Gewoan in razendflugge browser dy’t jo net bedriget.
 firefox-desktop-download-download-options = Downloadopsjes en oare talen
