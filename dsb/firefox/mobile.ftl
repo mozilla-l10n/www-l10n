@@ -13,4 +13,4 @@ firefox-mobile-get-the-mobile-browser-built = Wobstarajśo se mobilny wobglědow
 firefox-mobile-check-out-firefox-again-its = Wopytujśo { -brand-name-firefox } znowego. Jo malsny, priwatny a na wašom boku. Za { -brand-name-ios } a { -brand-name-android }.
 firefox-mobile-get-firefox-mobile = Wobstarajśo se { -brand-name-firefox } Mobile
 firefox-mobile-send-a-download-link-to-your = Sćelśo swójomu telefonoju ześěgnjeński wótkaz.
-firefox-mobile-scan-the-qr-code-to-get-started = Skannujśo QR-kod, aby zachopił
+firefox-mobile-scan-the-qr-code-to-get-started = Scannujśo QR-kod, aby zachopił

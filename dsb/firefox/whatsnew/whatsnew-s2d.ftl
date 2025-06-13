@@ -8,4 +8,4 @@
 whatsnew-s2d-download-firefox-for-android = Ześěgniśo { -brand-name-firefox } za { -brand-name-android } a { -brand-name-ios }
 whatsnew-s2d-download-firefox-for-your = Ześěgniśo { -brand-name-firefox } za swój smartfon a tablet.
 # An accessible label for a QR code image
-whatsnew-s2d-qr-code-alt = Toś ten QR-kod skannowaś
+whatsnew-s2d-qr-code-alt = Toś ten QR-kod scannowaś
