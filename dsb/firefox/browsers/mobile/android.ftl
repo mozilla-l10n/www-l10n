@@ -23,6 +23,7 @@ mobile-android-got-a-big = Maśo wjeliki telefon a tłuste palce normalneje wjel
 mobile-android-save-power-with = Ze śamnym modusom milinu zažariś
 mobile-android-switch-to-dark = Pśejźćo kuždy cas k śamnemu modusoju, aby póśěženje wócowu reducěrował a wugbaśe swójeje baterije pódlejšył.
 mobile-android-easily-organize-your = Organizěrujśo swóje rejtariki lažko
+mobile-android-got-lots-of = Maśo wjele rejtarikow? Žeden problem, organizěrujśo je do zběrkow, aby pśi nadawku wóstał. Zběrki daju se teke pśez rědy źěliś, tak móžośo samske wěcy dalej pśeglědowaś, njeźiwajucy na rěd, kótaryž rowno wužywaśo.
 mobile-android-supercharge-firefox-with = Rozšyŕśo { -brand-name-firefox } z dodankami
 mobile-android-addons-are-like = Dodanki su ako mócne małe rědy, kótarež móžośo swójomu wobglědowakoju pśidaś, aby na pśikład standardne nastajenja priwatnosći pówušył a waše dožywjenje pśiměrił.
 mobile-android-pick-up-where = Cyńśo tam dalej, źož sćo pśestał

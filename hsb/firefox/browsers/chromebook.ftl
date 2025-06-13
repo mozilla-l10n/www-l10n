@@ -25,3 +25,4 @@ browsers-chromebook-install-firefox-from = Instalujće { -brand-name-firefox } z
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
+browsers-chromebook-install-firefox-as = Instalujće { -brand-name-firefox } jako nałoženje { -brand-name-linux }: Trjebaće potom mjenje krokow, ale so zadani. Hdyž wobhladowak { -brand-name-firefox } jako nałoženje { -brand-name-linux } instalujeće, dóstanjeće desktopowy wobhladowak { -brand-name-firefox } a wšě lěpšiny, kotrež ma, mjez nimi polěpšeny slědowanski škit, zatwarjeny zrjadowak hesłow, přistup k tysacam přidatkow (mjez nimi wabjenski blokowak uBlock Origin) a drastam, z kotrymiž móžeće napohlad swojeho wobhladowaka přiměrić. <a { $url }>Zhońće wjace wo instalowanju desktopoweho wobhladowaka { -brand-name-firefox } za { -brand-name-chromebook }.</a>

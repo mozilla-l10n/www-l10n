@@ -21,7 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = კიდევ უფრო ახალი { -brand-name-firefox } ხელმისაწვდომია. <a { $update_url }>განაახლეთ ბოლო ვერსიაზე</a>
 firefox-desktop-download-get-the-browser = ბრაუზერი, რომელიც იცავს იმას, რაც მეტად ღირებულია
 firefox-desktop-download-fast-reliable-private = სწრაფი, საიმედო და პირადი — ინტერნეტის მშვიდად გამოყენებისთვის.
-firefox-desktop-set-as-default = მიუთითეთ { -brand-name-firefox } ნაგულისხმევ ბრაუზერად.
+firefox-desktop-set-as-default = გახადეთ { -brand-name-firefox } ნაგულისხმევი ბრაუზერი.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = არავითარი ფარული მუხლები პირადულობის დებულებებში ან დატოვებული ხვრელები სარეკლამოებისთვის. მხოლოდ მსუბუქი ბრაუზერი, რომელიც თქვენი მონაცემებით არ ვაჭრობს.
 firefox-desktop-download-download-options = ჩამოტვირთვის ვარიანტები და სხვა ენები

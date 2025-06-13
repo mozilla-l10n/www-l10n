@@ -41,6 +41,8 @@ firefox-all-download-esr-version = { $esr_version } ześěgnuś
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = Smy w pśechadnej perioźe mjazy głownyma wersijoma ESR { $esr_next_major } a { $esr_current_major }.
+firefox-all-esr-when-there-is = Gaž dajo wjeliku wersijowu aktualizaciju, se pśecej někotare wersije { -brand-name-firefox-esr } prěkuju, aby luźe, kótarež staru wersiju wužywaju, móžnosć dostali, se na pśechod na nowu wersiju pśigótowaś.
+firefox-all-esr-if-you-choose = Jolic rozsuźujośo, staršu ESR-wersiju ześěgnuś, dostanjośo awtomatiski aktualizaciju na nowu wersiju, gaž se pśechodny cas kóńcy.
 # Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
 firefox-all-esr-read-more = Cytajśo wěcej wó <a { $attrs }>wózjawjeńskem cyklusu { -brand-name-firefox-esr }</a>.

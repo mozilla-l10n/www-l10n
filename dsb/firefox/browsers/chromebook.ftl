@@ -25,3 +25,4 @@ browsers-chromebook-install-firefox-from = Instalěrujśo { -brand-name-firefox 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
+browsers-chromebook-install-firefox-as = Instalěrujśo { -brand-name-firefox } ako nałoženje { -brand-name-linux }: Trjebaśo pótom mjenjej kšacow, ale se zadanijo. Gaž wobglědowak { -brand-name-firefox } ako nałoženje { -brand-name-linux } instalěrujośo, dostanjośo desktopowy wobglědowak { -brand-name-firefox } a wšykne lěpšyny, kótarež ma, mjazy nimi pólěpšony slědowański šćit, zatwarjony zastojnik gronidłow, pśistup k tysacam dodankow (mjazy nimi wabjeński blokěrowak uBlock Origin) a drastwam, z kótarymiž móžośo naglěd swójogo wobglědowaka pśiměriś. <a { $url }>Zgóńśo wěcej wó instalěrowanju desktopowego wobglědowaka { -brand-name-firefox } za { -brand-name-chromebook }.</a>
