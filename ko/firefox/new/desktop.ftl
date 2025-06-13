@@ -21,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = 더 새로운 { -brand-name-firefox }를 사용할 수 있습니다. <a { $update_url }>최신 버전으로 업데이트</a>
 firefox-desktop-download-get-the-browser = 여러분에게 중요한 것을 먼저 생각하는 브라우저
 firefox-desktop-download-fast-reliable-private = 빠르고, 안정적이며, 사생활 보호 — 온라인에서 마음의 평화를
+firefox-desktop-set-as-default = { -brand-name-firefox }를 기본 브라우저로 설정하세요.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = 광고주를 위한 복잡한 개인 정보 보호 정책이나 백도어가 없습니다. 여러분을 상품으로 취급하는 브라우저가 아닙니다.
 firefox-desktop-download-download-options = 다운로드 선택 및 기타 언어
