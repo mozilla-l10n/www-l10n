@@ -41,3 +41,7 @@ download-button-linux-64-v2 = Za 64-bitowy Linux ześěgnuś
 download-button-using-debian = Wužywaśo Debian, Ubuntu abo distribuciju na zakłaźe Debiana?<br> Móžośo naš <a { $attrs }>repozitorium APT město togo</a> konfigurěrowaś.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Wobstarajśo se jen wót Microsoft
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = Dajśo k wěsći, kak sćo namakał { -brand-name-firefox } a až jen z marketingowymi technologijowymi partnarjami { -brand-name-mozilla } wužywaśo. Toś te daty se nigda njepśedawaju abo njewužywaju, aby wam wabjenje pokazali. <a { $attrs }>Zgóńśo, kak daty wužywamy</a>.

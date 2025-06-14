@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
 consent-banner-heading = Pomagajśo nam, wašo dožywjenje { -brand-name-mozilla } pólěpšyś
+consent-banner-body-v2 = Mimo cookiejow, kótare su trjebne za toś to sedło, aby funkcioněrowało, by my rady wašo dowólenje měli, aby my někotare pśidatne cookieje stajili, aby my lěpjej waše pótrjeby pśeglědowanja rozměli a wašo dožywjenje pólěpšyli. Buźćo se wěsty – wažymy se wašu priwatnosć.
 consent-banner-button-reject = Wšykne pśidatne cookieje wótpokazaś
 consent-banner-button-accept = Wšykne pśidatne cookieje akceptěrowaś
 consent-banner-settings-link = Cookiejowe nastajenja
