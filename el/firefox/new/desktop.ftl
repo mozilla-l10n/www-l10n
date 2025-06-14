@@ -21,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Διατίθεται ένα ακόμα νεότερο { -brand-name-firefox }. <a { $update_url }>Κάντε ενημέρωση στην πιο πρόσφατη έκδοση</a>
 firefox-desktop-download-get-the-browser = Το πρόγραμμα περιήγησης που φυλάσσει ό,τι είναι σημαντικό
 firefox-desktop-download-fast-reliable-private = Γρήγορο, αξιόπιστο και ιδιωτικό, για ξέγνοιαστη περιήγηση στο διαδίκτυο.
+firefox-desktop-set-as-default = Ορίστε το { -brand-name-firefox } ως το προεπιλεγμένο σας πρόγραμμα περιήγησης.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Καμία κρυφή πολιτική απορρήτου ή πίσω πόρτες για διαφημιστές. Απλά ένα αξιόπιστο και γρήγορο πρόγραμμα περιήγησης.
 firefox-desktop-download-download-options = Επιλογές λήψεων και άλλες γλώσσες
