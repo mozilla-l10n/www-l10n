@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/
 
 # HTML page title
-set-as-default-landing-make-firefox-your-default = { -brand-name-firefox }'u varsayılan tarayıcınız yapın
+set-as-default-landing-make-firefox-your-default = { -brand-name-firefox }’u varsayılan tarayıcınız yapın
 # HTML page description
 set-as-default-landing-choose-the-browser = Gizliliğinizi koruyan tarayıcıyı seçin. { -brand-name-firefox }’u varsayılan tarayıcınız olarak ayarlayın.
 set-as-default-landing-thanks-for-using-the = En yeni { -brand-name-firefox } tarayıcısını kullandığınız için teşekkür ederiz. { -brand-name-firefox }’u seçtiğinizde tüm insanlık için daha iyi bir web’i desteklemiş oluyorsunuz. Şimdi kendinizi korumak için bir sonraki adımı atın.
