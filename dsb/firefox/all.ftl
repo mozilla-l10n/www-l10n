@@ -34,6 +34,7 @@ firefox-all-64-bit-installers = 64-bitowe instalěrowaki
 firefox-all-choose-a-64-bit-installer = Wubjeŕśo 64-bitowy instalěrowański program za licadła z 64-bitowymi procesorami, kótaryž jim dowólujo, wěcej RAM pśipokazaś - wósebnje wažne za graśa a druge wupominańske nałoženja.
 firefox-all-32-bit-installers = 32-bitowe instalěrowaki
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Toś to nastajenje produktowy bok { -brand-name-firefox } we webportalu Microsoft Store wócynijo. Jolic Windows 10 abo Windows 11 wužywaśo, maśo móžnosć Microsoft Store z toś togo boka wócyniś a { -brand-name-firefox } instalěrowaś. Jolic z Microsoft Store instalěrujośo, se aktualizacije { -brand-name-firefox } teke pśez Microsoft Store pśeźěłuju. Daju mjeńše rozdźěle w zaźaržanjach a zamóžnosćach { -brand-name-firefox }, gaž jo se instalěrował z Microsoft Store, ale za nejwěcej wužywarjow toś te rozdźěle njejsu spóznajobne.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = { $esr_version } ześěgnuś
