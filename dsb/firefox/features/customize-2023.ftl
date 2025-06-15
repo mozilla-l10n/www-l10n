@@ -12,3 +12,13 @@ features-customize-firefox-themes-let-you-change = Drastwy { -brand-name-firefox
 features-customize-firefox-comes-with-a-default = { -brand-name-firefox } ze standardneju systemoweju drastwu pśiźo a startujo ze swětłeju, śamneju a barwneju wariantu.
 # Used as accessible alternative text for an image
 features-customize-image-of-the-default-themes = Wobraz standardnych drastwow, kótarež { -brand-name-firefox } sobu pśinjaso, kótaryž swětłe, śamne a barwne warianty pokazujo.
+# Variables:
+#   $amo (url) - link to https://addons.mozilla.org/firefox/themes/
+#   $top (url) - link to https://addons.mozilla.org/firefox/search/?sort=rating&type=statictheme
+#   $trending (url) - link to https://addons.mozilla.org/firefox/search/?sort=hotness&type=statictheme
+#   $recommended (url) - link to https://addons.mozilla.org/firefox/search/?promoted=recommended&sort=random&type=statictheme
+#   $music (url) - link to https://addons.mozilla.org/firefox/themes/category/music/
+#   $seasonal (url) - link to https://addons.mozilla.org/firefox/themes/category/seasonal/
+#   $sports (url) - link to https://addons.mozilla.org/firefox/themes/category/sports/
+#   $nature (url) - link to https://addons.mozilla.org/firefox/themes/category/nature/
+features-customize-you-can-find-more-free-custom-v2 = Namakajośo dalšne dermotne drastwy na <a { $amo }>addons.mozilla.org</a>. Pśepytajśo <a { $top }>nejlěpjej pógódnośone</a>, <a { $trending }>trendowe</a> a <a { $recommended }>nejwěcej dopórucone</a> drastwy. Abo pytajśo drastwy pó kategoriji, mjazy nimi <a { $music }>za muziku</a>, <a { $seasonal }>lětnego casa</a>, <a { $sports }>za sport</a> a za <a { $nature }>pśirodu</a>. Pśirěžćo swóje dožywjenje pó swójich słodach. Něžne kreatury, złe robotery, rědne krajiny – dajo tysace móžnosćow, z kótarymiž móžośo se { -brand-name-firefox } pśiswójś.
