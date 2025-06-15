@@ -32,4 +32,5 @@ features-adblocker-beyond-ad-blockers = Mimo wabjeńskich blokěrowakow { -brand
 features-adblocker-tool-1 = <strong>Standardny modus:</strong> Wurownane nastajenje, kótarež zwucone pśeslědowaki blokěrujo, mjaztym až se běžna funkcionalnosć websedła zdźaržujo.
 features-adblocker-tool-2 = <strong>Striktny modus:</strong> Idealny za wužywarje, kótarež kśě mócnjejšy šćit priwatnosći pśez blokěrowanje wěcej pśeslědowakow a cookiejow. Źiwajśo na to, až někotare sedła se pśiměrjenja w toś tom modusu pominaju.
 features-adblocker-tool-3 = <strong>Swójski modus:</strong> Za te, kótarež kśě połnu kontrolu měś, swójski modus wam zmóžnja wubraś, což se ma blokěrowaś, wót cookiejow do pśeslědowakow a wěcej.
+features-adblocker-to-adjust = Aby toś te nastajenja pśiměrił, klikniśo na šćitny symbol nalěwo wót adresowego póla na někakem webboku a wubjeŕśo „Šćitne nastajenja“. To meni wócynijo, źož móžośo pšawy šćitny schójźeńk za was wubraś.
 features-adblocker-why-use = Cogodla wabjeński blokěrowak wužywaś?
