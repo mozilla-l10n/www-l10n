@@ -34,3 +34,4 @@ features-adblocker-tool-2 = <strong>Striktny modus:</strong> Idealny za wužiwar
 features-adblocker-tool-3 = <strong>Swójski modus:</strong> Za tych, kotřiž chcedźa połnu kontrolu měć, swójski modus wam zmóžnja wubrać, štož so ma blokować, wot plackow do přesćěhowakow a wjace.
 features-adblocker-to-adjust = Zo byšće tute nastajenja přiměrił, klikńće na tarčowy symbol nalěwo wot adresoweho pola na někajkej webstronje a wubjerće „Škitne nastajenja“. To meni wočini, hdźež móžeće prawy škitny schodźenk za was wubrać.
 features-adblocker-why-use = Čehodla wabjenski blokowak wužiwać?
+features-adblocker-ad-blockers-do-more = Wabjenske blokowaki wjace činja, hač wabjenje rjadować – móža wašu spěšnosć přehladowanja a wěstotu polěpšować, hdyž njetrěbny wobsah redukuja. Wukmanjeja was, přirězane webdožiwjenje bjez wotwjedźenja wutworić, kotrež wam zmóžnja, fokus na najwažniše stajić.
