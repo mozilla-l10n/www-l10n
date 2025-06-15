@@ -35,3 +35,6 @@ features-adblocker-tool-3 = <strong>Swójski modus:</strong> Za te, kótarež k�
 features-adblocker-to-adjust = Aby toś te nastajenja pśiměrił, klikniśo na šćitny symbol nalěwo wót adresowego póla na někakem webboku a wubjeŕśo „Šćitne nastajenja“. To meni wócynijo, źož móžośo pšawy šćitny schójźeńk za was wubraś.
 features-adblocker-why-use = Cogodla wabjeński blokěrowak wužywaś?
 features-adblocker-ad-blockers-do-more = Wabjeńske blokěrowaki wěcej cynje, ako wabjenje zastojaś – mógu wašu malsnosć pśeglědowanja a wěstotu pólěpšowaś, gaž njetrjebne wopśimjeśe reducěruju. Wuzamóžnjaju was, pśirězane webdožywjenje bźez wótchylenja napóraś, kótarež wam zmóžnja, fokus na nejwažnjejše stajiś.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-explore-hundreds = Wuslěźćo sta dodankow z fokusom na priwatnosć, kótarež su za { -brand-name-firefox } k dispoziciji a namakajśo pšawe rědy za sebje. <a href="{ $url }">Ześěgniśo { -brand-name-firefox }</a> źinsa, aby wobglědowak dožywił, kótaryž jo se wuwił źiwajucy na wašu priwatnosć a wugbaśe.

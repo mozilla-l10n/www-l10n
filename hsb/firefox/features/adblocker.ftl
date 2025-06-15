@@ -15,6 +15,7 @@ features-adblocker-an-ad-blocker-is-a-piece = Blokowak wabjenja je program, z ko
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Tute wabjenje móhło hłósne wabjenske wideja, wabjenje, kotrež wam we webje slěduje, přesćěhowaki, placki třećich poskićowarjow a wjace być. Zo byšće blokowak wabjenja wužiwał, móžeće za přidatkami blokowakow wabjenja pytać, kotrež su za waš wobhladowak k dispoziciji. <a href="{ $firefox }">{ -brand-name-firefox }</a>, na přikład, ma <a href="{ $addons }">tutu lisćinu schwalenych přidatkow blokowakow wabjenja</a>. Klikńće na tutu lisćinu (abo blokowaki wabjenja, kotrež su schwalene za waše wobhladowak) a hladajće, kotry wašim potrěbnosćam wotpowěduje.
 features-adblocker-find-the-right-ad-blocker = Namakajće prawy wabjenski blokowak za sebje
+features-adblocker-there-are-scores-of-content = Je hromada wobsahowych blokowakow tam wonka, ale tu su někotre fantastiske móžnosće, kotrež { -brand-name-mozilla } wothladuje …
 # Variables:
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
