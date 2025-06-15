@@ -20,6 +20,9 @@ features-adblocker-there-are-scores-of-content = Dajo kopicu wopśimjeśowych bl
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
 features-adblocker-considered-by-many-to-be-the = <a { $attrs }>uBlock Origin</a>, kótaryž wjele za měru wšych wěcow mjazy wabjeńskimi blokěrowakami ma, jo znaty za swóju statkownosć a eficiencu. Jo wjelgickan pśiměrjujobny, ale funkcioněrujo teke wjelicnje ze standardnymi nastajenjami.
 # Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> jo druga wjelicna wólba, kótaraž nic jano wabjenje blokěrujo, ale pśidatne lěpšyny pśeśiwo pśeslědowanjeju bitujo.
+# Variables:
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Toś te rozšyrjenja na <a { $attrs1 }>{ -brand-name-firefox } za desktop</a> ako teke <a { $attrs2 }>Android</a> wjelicnje funkcioněruju.
