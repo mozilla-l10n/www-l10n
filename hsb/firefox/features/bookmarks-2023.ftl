@@ -9,6 +9,9 @@
 bookmark-manager-bookmark-manager = Zrjadowak zapołožkow
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = Organizujće swoje zapołožki z rjadowakami a značkami.
+# Variables:
+#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
+bookmark-manager-bookmarks-are-links-you-save = Zapołožki su wotkazy, kotrež w swojim wobhladowaku składujeće, zo byšće so spěšnje a lochko k swojim najlubšim městnach w interneće dóstał. { -brand-name-firefox } zručny zrjadowak zapołožkow wobsahuje, zo byšće móhł <a { $sync }>wšě waše składowane wotkazy na wšěch wašich gratach synchronizować</a>, organizować, přepytać a aktualizować.
 bookmark-manager-organize-your-boomarks-into = Organizujće swoje zapołožki w přepytujomnych rjadowakach
 bookmark-manager-collect-your-bookmarks-in-folders = Zběrajće swoje zapołožki w rjadowakach a přidajće jim znački z dalšimi podrobnosćemi. Móžeće tež swoje zapołožki sortěrować, zo byšće te zapołožki spěšnje namakał, kotrež trjebaće.
 bookmark-manager-easily-import-bookmarks = Zapołožki lochko importować
