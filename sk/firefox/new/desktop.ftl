@@ -21,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = K dispozícii je ešte novšia verzia { -brand-name-firefox(case: "gen") }. <a { $update_url }>Aktualizovať na najnovšiu verziu</a>.
 firefox-desktop-download-get-the-browser = Získajte prehliadač, ktorý chráni to, čo je dôležité
 firefox-desktop-download-fast-reliable-private = Rýchly, spoľahlivý a súkromný – pre pokoj online.
+firefox-desktop-set-as-default = Nastavte si { -brand-name-firefox } ako predvolený prehliadač.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Žiadne zahmlievacie pravidlá ochrany osobných údajov ani zadné vrátka pre inzerentov. Len bleskovo rýchly prehliadač, ktorý vás nepredáva.
 firefox-desktop-download-download-options = Možnosti sťahovania a iné jazyky
