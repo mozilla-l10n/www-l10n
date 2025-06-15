@@ -7,3 +7,4 @@
 
 features-add-ons-firefox-add-ons = Přidatki { -brand-name-firefox }
 features-add-ons-firefox-add-ons-and-browser-extensions = Přidatki a rozšěrjenja wobhladowaka { -brand-name-firefox }
+features-add-ons-extensions-also-known-as-add-ons = Rozšěrjenja – tež jako přidatki { -brand-name-firefox } znate – su přidatne funkcije, kotrež móžeće sćahnyć a instalować, zo byšće swojemu wobhladowakej wjace funkcionalnosće a dalše nastroje přidał. Přidatki wam zmóžnjeja, waš wobhladowak { -brand-name-firefox } přiměrić a wašnje polěpšować, na kotrež web wužiwaće.
