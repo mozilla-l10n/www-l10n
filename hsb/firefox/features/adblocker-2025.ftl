@@ -30,4 +30,6 @@ features-adblocker-its-important-to-note = Je wažnje přispomnić, zo so někot
 features-adblocker-enhanced-privacy = Polěpšena priwatnosć a polěpšeny wukon z { -brand-name-firefox }
 features-adblocker-beyond-ad-blockers = Nimo wabjenskich blokowakow { -brand-name-firefox } zatwarjene funkcije wobsahuje, zo by wam samo wjetšu kontrolu nad wašim přehladowanjom dał. Tute nastroje pomhaja, wašu priwatnosć škitać, mjeztym zo wam zmóžnjeja, waše dožiwjenje přiměrić:
 features-adblocker-tool-1 = <strong>Standardny modus:</strong> Wurunane nastajenje, kotrež zwučene přesćěhowaki blokuje, mjeztym zo so běžna funkcionalnosć websydła wobchowuje.
+features-adblocker-tool-2 = <strong>Striktny modus:</strong> Idealny za wužiwarjow, kotřiž chcedźa mócniši škit priwatnosće přez blokowanje wjace přesćěhowakow a plackow. Dźiwajće na to, zo někotre sydła sej přiměrjenja w tutym modusu wužaduja.
+features-adblocker-tool-3 = <strong>Swójski modus:</strong> Za tych, kotřiž chcedźa połnu kontrolu měć, swójski modus wam zmóžnja wubrać, štož so ma blokować, wot plackow do přesćěhowakow a wjace.
 features-adblocker-why-use = Čehodla wabjenski blokowak wužiwać?
