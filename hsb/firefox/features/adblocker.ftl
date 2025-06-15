@@ -36,6 +36,7 @@ features-adblocker-create-a-tracker-free = Wutworće conu bjez přesćěhowaka z
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = W { -brand-name-firefox } móžeće nastajenja <a href="{ $privacy }">priwatnosće</a> abo <a href="{ $blocking }">blokowanja wobsaha</a> wužiwać, zo byšće wjace kontrole nad wabjenskimi přesćěhowakami dóstał, kotrež wam wabjenje prezentuja.
 features-adblocker-choose-your-level-of-protection = Wubjerće škitny schodźenk
+features-adblocker-to-start-click-on-the-v2 = Zo byšće započał, klikńće na tarč nalěwo wot adresoweho pola na někajkej webstronje a wubjerće „Škitne nastajenja“. To wobłuk nastajenjow Priwatnosć a wěstota { -brand-name-firefox } w nowym rajtarku wočini. Wy dyrbjał módre wuskakowace wokno z rozdźělnymi wuběrami widźeć.
 features-adblocker-go-easy-with-standard = Čińće sej lochko ze standardnym modusom
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
