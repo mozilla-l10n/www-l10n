@@ -17,6 +17,9 @@ features-adblocker-these-ads-might-be-loud = Toś to wabjenje mógło głosne wa
 features-adblocker-find-the-right-ad-blocker = Namakajśo pšawy wabjeński blokěrowak za sebje
 features-adblocker-there-are-scores-of-content = Dajo kopicu wopśimjeśowych blokěrowakow tam wenka, ale how su někotare fantastiske móžnosći, kótarež { -brand-name-mozilla } wótwardujo …
 # Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = <a { $attrs }>uBlock Origin</a>, kótaryž wjele za měru wšych wěcow mjazy wabjeńskimi blokěrowakami ma, jo znaty za swóju statkownosć a eficiencu. Jo wjelgickan pśiměrjujobny, ale funkcioněrujo teke wjelicnje ze standardnymi nastajenjami.
+# Variables:
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Toś te rozšyrjenja na <a { $attrs1 }>{ -brand-name-firefox } za desktop</a> ako teke <a { $attrs2 }>Android</a> wjelicnje funkcioněruju.
