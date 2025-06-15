@@ -12,3 +12,5 @@ features-customize-firefox-themes-let-you-change = { -brand-name-firefox } temal
 features-customize-firefox-comes-with-a-default = { -brand-name-firefox } varsayılan sistem temasıyla gelir. Bu temanın açık, koyu ve renkli seçenekleri de vardır.
 # Used as accessible alternative text for an image
 features-customize-image-of-the-default-themes = { -brand-name-firefox } ile gelen varsayılan temaların açık, koyu ve renkli çeşitlerini gösteren resim.
+# Used as accessible alternative text for an image
+features-customize-image-of-three-custom-firefox = Üç özel { -brand-name-firefox } temasının resmi: beyaz ve turuncu vurgularla koyu mor ve pembe tema, sulu boya kuşlar ve kiraz çiçekleri içeren açık bej tema ve yüksek teknolojili bir devre deseni içeren koyu siyah ve yeşil tema.

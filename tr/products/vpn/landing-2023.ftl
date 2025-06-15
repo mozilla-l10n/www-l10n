@@ -56,3 +56,6 @@ vpn-landing-do-you-need-a-vpn-at-home = Evinizde bir VPN’e ihtiyacınız var m
 vpn-landing-what-is-an-ip-address = IP adresi nedir?
 vpn-landing-how-your-location-is-tracked = Konumunuz nasıl izleniyor ve bunu nasıl kısıtlayabilirsiniz?
 vpn-landing-see-more-resources = Diğer kaynakları inceleyin
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }

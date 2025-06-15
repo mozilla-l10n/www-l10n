@@ -21,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Daha yeni bir { -brand-name-firefox } sürümü mevcut. <a { $update_url }>Son sürüme güncelleme yapın</a>
 firefox-desktop-download-get-the-browser = Önemli olanı koruyan tarayıcıyı indirin
 firefox-desktop-download-fast-reliable-private = Hızlı, güvenilir ve gizli: İnternette içiniz rahat olsun.
+firefox-desktop-set-as-default = { -brand-name-firefox }’u varsayılan tarayıcınız yapın.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Anlaşılmaz gizlilik ilkelerimiz yok. Reklamcılara açık kapı bırakmak yok. Sizi satmayan, ışık hızında bir tarayıcı.
 firefox-desktop-download-download-options = İndirme seçenekleri ve diğer diller
