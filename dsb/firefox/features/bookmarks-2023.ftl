@@ -9,6 +9,9 @@
 bookmark-manager-bookmark-manager = Zastojnik cytańskich znamjenjow
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = Organizěrujśo swóje cytańske znamjenja ze zarědnikami a wobznamjenjami.
+# Variables:
+#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
+bookmark-manager-bookmarks-are-links-you-save = Cytańske znamjenja su wótkaze, kótarež w swójom wobglědowaku składujośo, aby se malsnje a lažko k swójim nejlubšym městnam w interneśe dostał. { -brand-name-firefox } pśirucny zastojnik cytańskich znamjenjow wopśimujo, aby mógał <a { $sync }>wšykne swóje skłaźone wótkaze na wšych wašych rědach synchronizěrowaś</a>, organizěrowaś, pśepytowaś a aktualizěrowaś.
 bookmark-manager-organize-your-boomarks-into = Organizěrujśo swóje cvytańske znamjenja w pśepytujobnych zarědnikach
 bookmark-manager-collect-your-bookmarks-in-folders = Zběrajśo swóje cytańske znamjenja w zarědnikach a pśidajśo jim wobznamjenja z dalšnymi drobnostkami. Móžośo teke swóje cytańske znamjenja sortěrowaś, aby te cytańske znamjenja malsnje namakał, kótarež trjebaśo.
 bookmark-manager-easily-import-bookmarks = Cytańske znamjenja lažko importěrowaś
