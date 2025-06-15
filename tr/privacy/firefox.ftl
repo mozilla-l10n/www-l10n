@@ -18,7 +18,12 @@ privacy-firefox-transparency-first = Önce şeffaflık
 privacy-firefox-were-clear-about = Hangi verileri neden kullandığımızı net bir şekilde açıklıyoruz. Bizde sürprizlere yer yok. Ayrıntıları <a { $attrs }>{ -brand-name-firefox } Gizlilik Bildirimi</a>’mizde okuyabilirsiniz.
 privacy-firefox-how-we-use = Bu verileri nasıl kullanıyoruz?
 privacy-firefox-we-use-data = Bu verileri { -brand-name-firefox }’un sorunsuz çalışmasını sağlamak, mevcut özellikleri geliştirmek ve finansal sürdürebilirliğimizi korumak için kullanıyoruz. Tüm bunları yaparken gizliliğinize saygı gösteriyoruz. İsteğe bağlı bazı özelliklerin çalışması için ek veri gerekiyorsa tercihlerinizi yönetmeyi kolaylaştırıyoruz.
+privacy-firefox-builtin-control = Yerleşik kontrol
+privacy-firefox-firefox-gives-you = { -brand-name-firefox }, verilerinizi istediğiniz şekilde yönetmeniz için basit ama güçlü araçlar sunuyor. Yalnızca birkaç tıklamayla ayarlarınızı değiştirebilir, kişisel yaşamınızla işinizi birbirinden ayırabilir, geçmişinizdeki istemediğiniz şeyleri silebilirsiniz.
+privacy-firefox-always-protected = Her an koruma altında
+privacy-firefox-firefox-protects-you = { -brand-name-firefox }, web’de sizi takip etmeye çalışan üçüncü taraf takip kodlarından, sosyal medya takip kodlarından, kripto madencilerinden, çerezlerden ve parmak izi teknolojilerinden sizi koruyor.
 privacy-firefox-privacy-that-works = Size en uygun gizlilik
+privacy-firefox-firefox-makes-it = { -brand-name-firefox }, yerleşik gizlilik ve güvenlik özelliklerinin yanı sıra gezinti deneyiminizi geliştirmenizi sağlayan ayarlarla da verilerinizi yönetmeyi kolaylaştırıyor.
 privacy-firefox-manage-your-privacy = Gizlilik ayarlarınızı yönetin:
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-desktop = Bilgisayarlar için { -brand-name-firefox }
@@ -28,3 +33,9 @@ privacy-firefox-firefox-for-mobile = Mobil cihazlar için { -brand-name-firefox 
 privacy-firefox-firefox-for-mobile-v2 = Mobil cihazlar için { -brand-name-firefox }
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = İçindekiler
+# Variables:
+#   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
+privacy-firefox-take-me-back = Gizlilik Bildirimi’nin <a { $attrs }>baş kısmına</a> dön
+# Variables:
+#   $attrs (string) - in-page link to the top of the page
+privacy-firefox-lost-in-the = Ayrıntılar sizi yordu mu? <a { $attrs }>{ -brand-name-firefox } gizliliğiyle ilgili temel bilgileri</a> inceleyin.
