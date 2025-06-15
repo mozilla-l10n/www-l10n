@@ -31,6 +31,9 @@ manifesto-the-mozilla-manifesto-addendum = Тағйиру иловаҳо ба с
 # Main page sub-heading
 manifesto-pledge-for-a-healthy-internet = Гарав барои Интернети солим
 manifesto-show-your-support = Дастгирии худро нишон диҳед
+manifesto-i-support-the-vision-of-v2 = Ман ҷонибдори Интернети беҳтар ва солимтар ҳастам, ки { -brand-name-mozilla } низ онро дастгирӣ мекунад. Шумо низ ҳамроҳ мешавед?
+# obsolete (expires 2025-04-12)
+manifesto-i-support-the-vision-of = Ман ҷонибдори Интернети беҳтар ва солимтар ҳастам, ки @mozilla низ онро дастгирӣ мекунад. Шумо низ ҳамроҳ мешавед?
 manifesto-share-on-bluesky = Дар «Bluesky» мубодила намоед
 manifesto-our-10-principles = <strong>10 қоидаи асосии мо</strong>
 manifesto-read-the-entire-manifesto = Санадҳои асосии моро дар шакли пурра мутолиа намоед
