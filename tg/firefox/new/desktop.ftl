@@ -21,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Браузери «{ -brand-name-firefox }» дар нашри боз ҳам навтар дастрас аст. <a { $update_url }>Ба версияи охирин навсозӣ кунед</a>
 firefox-desktop-download-get-the-browser = Браузереро боргирӣ намоед, ки чизҳои муҳими шуморо муҳофизат мекунад
 firefox-desktop-download-fast-reliable-private = Тезкор, боэътимод ва хусусӣ — барои оромии дил дар реҷаи онлайн.
+firefox-desktop-set-as-default = Браузери «{ -brand-name-firefox }»-ро ҳамчун браузери пешфарзи худ танзим намоед.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Ягон сиёсати махфияти сояандоз ё роҳҳои пуштибонии таблиғгарон вуҷуд надорад. Танҳо як браузери барқрафтор, ки шуморо фурӯхта наметавонад.
 firefox-desktop-download-download-options = Имконоти боргирӣ ва забонҳои дигар
