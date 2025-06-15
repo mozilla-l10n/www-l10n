@@ -20,6 +20,10 @@ features-adblocker-there-are-scores-of-content = Je hromada wobsahowych blokowak
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
 features-adblocker-considered-by-many-to-be-the = <a { $attrs }>uBlock Origin</a>, kotryž wjele za měru wšěch wěcow mjez wabjenskimi blokowakami ma, je znaty za swoju skutkownosć a eficiencu. Je nimoměry přiměrjomny, ale funguje tež wuběrnje ze standardnymi nastajenjemi.
 # Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> wabjenje wšudźe wosłabja. Blokuje wabjenje winterneće, w socialnych medijach, samo te mjerzace wuskakowace wokna (jeli wšak chcedźa wuskakowace wokna jenož potłóčić, njemóžeće ničo z <a { $attrs2 }>Popup Blocker</a> wopak činić).
+# Variables:
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Tute rozšěrjenja na <a { $attrs1 }>{ -brand-name-firefox } za desktop</a> kaž tež <a { $attrs2 }>Android</a> wulkotnje funguja.
