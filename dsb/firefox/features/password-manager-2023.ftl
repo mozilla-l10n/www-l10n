@@ -28,3 +28,7 @@ password-manager-have-firefox-create-a-strong-unique = Dajśo { -brand-name-fire
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-sign-up-form = Wobraz registrěrowańskego formulara websedła z { -brand-name-firefox }, kótaryž mócne gronidło naraźujo, kótarež se awtomatiski za pśichodne wužywanje składujo.
 password-manager-password-security-alerts = Warnowanja wó wěstośe gronidłow
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
+# "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
+password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } <a { $attrs }>was warnujo, jolic jo se gronidło w datowej źěrje wótekšyło</a>, aby mógał jo změniś, nježli až hackery móžnosć maju, take ako najmanje Lamba z wašeju kreditoweju kórtu cyniś.
