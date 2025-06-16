@@ -18,6 +18,7 @@ password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } mó
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = Wobraz přizjewjenskeho formulara websydła z { -brand-name-firefox }, kotryž wjacore składowane konta pokazuje, kotrež móžeće wubrać, hdyž so přizjewjeće.
 password-manager-import-passwords = Hesła importować
+password-manager-you-can-use-the-import-wizard = Móžeće importowy asistent wužiwać, zo byšće wužiwarske mjena a hesła lochko (na magiske wašnje) importował, kotrež su w Chrome, Edge, Safari abo druhich wobhladowakach składowane. Wubjerće Hesła z menija a klikńće potom na „ je do { -brand-name-firefox } importować“ deleka na stronje Přizjewjenja a hesła.
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = Wobraz dialoga importoweho asistenta { -brand-name-firefox }, kotryž nastajenja za importowanje nastajenjow a datow z druhich wobhladowakow pokazuje.
 password-manager-no-more-reusing-your-passwords = Ženje wjac wjacekróćne wužiwanje wašich hesłow

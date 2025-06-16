@@ -18,6 +18,7 @@ password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } mó
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = Wobraz pśizjawjeńskego formulara websedła z { -brand-name-firefox }, kótaryž někotare skłaźone konta pokazujo, kótarež móžośo wubraś, gaž se pśizjawjaśo.
 password-manager-import-passwords = Gronidła importěrowaś
+password-manager-you-can-use-the-import-wizard = Móžośo importowy asistent wužywaś, aby wužywaŕske mjenja a gronidła lažko (na magiski nałog) importěrował, kótarež su w Chrome, Edge, Safari abo drugich wobglědowakach skłaźone. Wubjeŕśo Gronidła z menija a klikniśo pón na „ je do { -brand-name-firefox } importěrowaś“ dołojce na boku Pśizjawjenja a gronidła.
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = Wobraz dialoga importowego asistenta { -brand-name-firefox }, kótaryž nastajenja za importěrowanje nastajenjow a datow z drugich wobglědowakow pokazujo.
 password-manager-no-more-reusing-your-passwords = Nigda wěcej wěcejrazne wužywanje wašych gronidłow
