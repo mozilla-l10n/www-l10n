@@ -9,6 +9,10 @@
 password-manager-free-password-manager = Dermotny zastojnik gronidłow
 # HTML page description
 password-manager-firefox-password-manager-saves-all = Zastojnik gronidłow { -brand-name-firefox } waše gronidła na jadnom městnje składujo, aby wy mógł se awtomatiski pla sedłow pśizjawiś abo skłaźone gronidła wótwołaś.
+password-manager-firefox-securely-stores-your = { -brand-name-firefox } waše wužywaŕske mjenja a gronidła za pśistup k websedłam wěsće składujo, zapisujo je awtomatiski za was, gaž se pśiducy raz k websedłoju woglědujośo a zmóžnja wam, waše skłaźone pśizjawjenja z jogo zatwarjoneju funkciju za zastojanje gronidłow zastojaś.
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account-v2 = Z <a { $fxa }>dermotnym { -brand-name-mozilla-account }</a> móžośo swóje gronidła wěsće ze wšymi rědami synchronizěrowaś. Maśo teke pśistup ku wšym drugim produktam { -brand-name-mozilla }, kótarež priwatnosć respektěruju.
 password-manager-password-autofill-for-easy-logins = Awtomatiske wupołnjenje gronidłow za lažke pśizjawjenja
 password-manager-import-passwords = Gronidła importěrowaś
 # Used as an accessible text alternative for an image

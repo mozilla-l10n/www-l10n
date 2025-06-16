@@ -10,6 +10,9 @@ password-manager-free-password-manager = Darmotny zrjadowak hesłow
 # HTML page description
 password-manager-firefox-password-manager-saves-all = Zrjadowak hesłow { -brand-name-firefox } waše hesła na jednym městnje składuje, zo byšće móhł so awtomatisce pola sydłow přizjewić abo składowane hesła wotwołać.
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } waše wužiwarske mjena a hesła za přistup k websydłam wěsće składuje, zapisuje je awtomatisce za was, hdyž přichodny raz websydło wopytujeće a zmóžnja wam, waše składowane přizjewjenja z jeho zatwarjenej funkciju za rjadowanje hesłow rjadować.
+# Variables:
+#   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
+password-manager-with-a-free-mozilla-account-v2 = Z <a { $fxa }>darmotnym { -brand-name-mozilla-account }</a> móžeće swoje hesła wěsće ze wšěmi gratami synchronizować. Maće tež přistup ke wšěm druhim produktam { -brand-name-mozilla }, kotrež priwatnosć respektuja.
 password-manager-password-autofill-for-easy-logins = Awtomatiske wupjelnjenje hesłow za lochke přizjewjenja
 password-manager-import-passwords = Hesła importować
 # Used as an accessible text alternative for an image
