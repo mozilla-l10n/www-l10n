@@ -21,7 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Elérhető egy még újabb { -brand-name-firefox }. <a { $update_url }>Frissítés a legújabb verzióra</a>
 firefox-desktop-download-get-the-browser = Szerezze be azt a böngészőt, amely védi, ami fontos
 firefox-desktop-download-fast-reliable-private = Gyors, megbízható és privát – az online nyugalomért.
-firefox-desktop-set-as-default = Állítsa be a { -brand-name-firefox(case: "accusative") } alapértelmezett böngészőnek.
+firefox-desktop-set-as-default = A { -brand-name-firefox } beállítása alapértelmezett böngészőként.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Nincsenek kétes adatvédelmi irányelvek vagy hátsó ajtók a hirdetőknek. Csak egy villámgyors böngésző, ami nem bocsátja áruba.
 firefox-desktop-download-download-options = Letöltési lehetőségek és más nyelvek
