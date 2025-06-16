@@ -93,6 +93,7 @@ m24-home-topic-ai = Sztuczna inteligencja
 m24-home-topic-ps = Prywatność i bezpieczeństwo
 m24-home-headline-you-ai-v2 = Ty, AI i internet — co się naprawdę dzieje?
 m24-home-introducing-anonym = Przedstawiamy { -brand-name-anonym }: Podnosimy poprzeczkę w zakresie reklamy cyfrowej chroniącej prywatność.
+m24-home-keeping-genai-technologies = Dbanie o bezpieczeństwo technologii GenAI to wspólna odpowiedzialność.
 m24-home-kids-are-growing = Dzieci dorastają w bardzo internetowym świecie. Co może zrobić zaniepokojony rodzic?
 
 ## Showcase
