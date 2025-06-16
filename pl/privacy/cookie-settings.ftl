@@ -29,9 +29,15 @@ cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } u�
 
 cookie-settings-category-preference-heading = Preferencyjne
 cookie-settings-category-preference-what-are-subheading = Czym są ciasteczka preferencyjne?
+cookie-settings-category-preference-what-are-desc = Te technologie są używane do zapamiętywania wyborów, których dokonałeś podczas poprzedniej wizyty na stronie internetowej. Przykłady mogą obejmować język, w którym wolisz czytać, lub który motyw kolorystyczny jest twoim ulubionym.
+cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } używa ciasteczek preferencyjnych, aby uszanować Twoje preferencje i poprawić Twoje doświadczenia podczas odwiedzania naszych witryn. Nie są one wykorzystywane do celów analitycznych. Ciasteczka preferencyjne obsługują funkcje w podobny sposób jak niezbędne ciasteczka, jednak witryna nadal może działać bez nich. W związku z tym możesz zrezygnować z ich używania.
 
 ## Analytics cookies section
 
+cookie-settings-category-analytics-heading = Analityczne
+cookie-settings-category-analytics-what-are-subheading = Czym są ciasteczka analityczne?
+cookie-settings-category-analytics-what-are-desc = Technologie te zbierają informacje o tym, jak ludzie korzystają ze stron internetowych, np. odwiedzane strony, klikane linki, a także z jakich innych stron internetowych pochodzą wizyty.
+cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } wykorzystuje informacje analityczne, aby zrozumieć, w jaki sposób użytkownicy wchodzą w interakcje z naszymi witrynami, dzięki czemu możemy je ulepszyć i rozwiązać wszelkie problemy, które się pojawią. Możemy również wykorzystywać dane z ciasteczek, informacji o urządzeniach i adresów IP, aby pomóc nam zrozumieć, w jaki sposób użytkownicy wchodzą w interakcje z naszymi produktami, usługami, komunikacją, witrynami, kampaniami online, urządzeniami i innymi platformami. Będziemy zbierać informacje analityczne i ustawiać ciasteczka analityczne wyłącznie za Twoją zgodą.
 
 ## Privacy section
 
