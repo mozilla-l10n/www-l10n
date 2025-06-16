@@ -9,5 +9,6 @@ features-fast-firefox-keeps-getting-faster = { -brand-name-firefox } budźe dale
 # HTML description
 features-fast-firefox-is-faster-than-ever = { -brand-name-firefox } je spěšniši hač hdy prjedy, ze spěšnosću, kotruž móžeće woprawdźe čuć, inkluziwnje spěšne začitanje stronow a łahodniše interakcije.
 features-fast-how-is-browser-speed-measured = Kak so spěšnosć wobhladowaka měri?
+features-fast-speedometer-is-the-most-widely = Najdale wužity měrjenski nastroj za wukon wobhladowaka za měrjenje reakcijekmanosć  webnałoženja je speedometer. Hačrunjež druhe nastroje za měrjenje wukona wobhladowaka eksistuja, je Speedometer 3 nowy standard za to, kak spěšnosć wašeho přehladowanskeho dožiwjenja měrimy. Najnowše testy dźensniši web lěpje reflektuja – dźěłaja z wizuelnje bohatymi diagramami, wobdźěłuja tekst, interagěruja z komplikowanymi a wobšěrnymi webstronami kaž sydła nowinkow – a měri połny wobraz wukona wobhladowaka.
 features-fast-faster-every-day = Kóždy dźeń spěšniši
 features-fast-towards-a-faster-web = Za spěšniši web
