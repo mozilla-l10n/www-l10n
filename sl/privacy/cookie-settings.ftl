@@ -8,6 +8,7 @@
 cookie-settings-page-title = Nastavitve piškotkov
 cookie-settings-page-desc = Na tej strani so opisane različne vrste piškotkov, ki jih uporablja { -brand-name-mozilla }, in vam omogoča podati ali spremeniti soglasje za zbiranje posameznih vrst podatkov s strani { -brand-name-mozilla(sklon: "rodilnik") }.
 cookie-settings-breadcrumb-link = Prejšnja stran
+cookie-settings-explainer = Piškotki so majhne datoteke s podatki, ki se ob obisku spletne strani shranijo na vaš računalnik oziroma napravo. { -brand-name-mozilla } uporablja piškotke, da omogoči pravilno delovanje naših spletnih mest ter za zbiranje podatkov o uporabi in interakciji z našimi spletnimi mesti, npr. katere strani obiskujete.
 cookie-settings-how-mozilla-heading = Kako { -brand-name-mozilla } uporablja piškotke
 cookie-settings-how-does-mozilla-use-subheading = Za kaj { -brand-name-mozilla } uporablja te podatke?
 cookie-settings-save-changes = Shrani spremembe
