@@ -17,3 +17,6 @@ features-fast-firefox-is-powered-by-the-world = { -brand-name-firefox } so přez
 #   $link (url) - link to https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/
 features-fast-all-browsers-had-to-make = Wšě wobhladowaki dyrbjachu polěpšenja přewjesć, zo bychu derje w testach noweho Speedometer 3 fungowali. { -brand-name-firefox } předewšěm hoberske pokroki činješe, <a { $link }>bu čujomnje spěšniši</a> za našich wužiwarjow jako direktny wuslědk tutoho dźěła. { -brand-name-firefox } je spěšniši hač hdy do toho, ze spěšnosću, kotruž móžeće woprawdźe čuć, inkluziwnje spěšniše začitanje stronow a łahodniše interakcije.
 features-fast-towards-a-faster-web = Za spěšniši web
+# Variables
+#   $link (url) - link to /about/webvision/full/#performance
+features-fast-theres-been-an-encouraging = { -brand-name-mozilla } je <a { $link }>zawjazany</a> njepřestawajcy naš swójski wobhladowak kaž tež cyły web polěpšować. Tohodla smy do zhromadneho dźěła inwestowali, zo bychmy Speedometer 3 wuwiwali, kotryž ze swojeje strony wukon wšěch wobhladowakow polěpši. Kotryžkuli wobhladowak wuběraće, { -brand-name-mozilla } chce, zo je spěšny.
