@@ -15,8 +15,12 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } waše wu
 password-manager-with-a-free-mozilla-account-v2 = Z <a { $fxa }>dermotnym { -brand-name-mozilla-account }</a> móžośo swóje gronidła wěsće ze wšymi rědami synchronizěrowaś. Maśo teke pśistup ku wšym drugim produktam { -brand-name-mozilla }, kótarež priwatnosć respektěruju.
 password-manager-password-autofill-for-easy-logins = Awtomatiske wupołnjenje gronidłow za lažke pśizjawjenja
 password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } móžo wašo skłaźone wužywaŕske mě a gronidło awtomatiski zapisaś. Jolic maśo wěcej ako jadno pśizjawjenje za sedło, móžośo jadnorje konto wubraś, kótarež cośo a my bjerjomy jo wót tam.
+# Used as an accessible text alternative for an image
+password-manager-image-of-a-websites-login-form = Wobraz pśizjawjeńskego formulara websedła z { -brand-name-firefox }, kótaryž někotare skłaźone konta pokazujo, kótarež móžośo wubraś, gaž se pśizjawjaśo.
 password-manager-import-passwords = Gronidła importěrowaś
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = Wobraz dialoga importowego asistenta { -brand-name-firefox }, kótaryž nastajenja za importěrowanje nastajenjow a datow z drugich wobglědowakow pokazujo.
 password-manager-no-more-reusing-your-passwords = Nigda wěcej wěcejrazne wužywanje wašych gronidłow
+# Used as an accessible text alternative for an image
+password-manager-image-of-a-websites-sign-up-form = Wobraz registrěrowańskego formulara websedła z { -brand-name-firefox }, kótaryž mócne gronidło naraźujo, kótarež se awtomatiski za pśichodne wužywanje składujo.
 password-manager-password-security-alerts = Warnowanja wó wěstośe gronidłow
