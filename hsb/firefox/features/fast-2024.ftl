@@ -13,4 +13,7 @@ features-fast-speedometer-is-the-most-widely = Najdale wužity měrjenski nastro
 features-fast-the-new-speedomer-3-benchmark = Nowy test Speedometer 3 je prěni wulki test wobhladowakow, kotryž je so hdy přez zhromadne dźěło wuwił, kotrež so přez kóždy wulki wobhladowak podpěruje, z wužitkom za cyły web.
 features-fast-faster-every-day = Kóždy dźeń spěšniši
 features-fast-firefox-is-powered-by-the-world = { -brand-name-firefox } so přez engine swětoweje klasy { -brand-name-gecko }, ze smjerćspěšnym rysowanjom a wuhotowanjom stronow, modernymi funkcijemi JavaScript a ženje so njekónčacym přiwalom nowych wukonowych polěpšenjow, zo bychu naši wužiwarjo zbožowni wostawaja a so webplatforma doprědka ćěri.
+# Variables
+#   $link (url) - link to https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/
+features-fast-all-browsers-had-to-make = Wšě wobhladowaki dyrbjachu polěpšenja přewjesć, zo bychu derje w testach noweho Speedometer 3 fungowali. { -brand-name-firefox } předewšěm hoberske pokroki činješe, <a { $link }>bu čujomnje spěšniši</a> za našich wužiwarjow jako direktny wuslědk tutoho dźěła. { -brand-name-firefox } je spěšnišo hač hdy do toho, ze spěšnosću, kotruž móžeće woprawdźe čuć, inkluziwnje spěšniše začitanje stronow a łahodniše interakcije.
 features-fast-towards-a-faster-web = Za spěšniši web
