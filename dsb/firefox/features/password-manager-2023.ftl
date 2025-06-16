@@ -22,6 +22,9 @@ password-manager-you-can-use-the-import-wizard = Móžośo importowy asistent wu
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = Wobraz dialoga importowego asistenta { -brand-name-firefox }, kótaryž nastajenja za importěrowanje nastajenjow a datow z drugich wobglědowakow pokazujo.
 password-manager-no-more-reusing-your-passwords = Nigda wěcej wěcejrazne wužywanje wašych gronidłow
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
+password-manager-have-firefox-create-a-strong-unique = Dajśo { -brand-name-firefox } <a { $attrs }>mócne, jadnorazowe gronidło napóraś</a>, za kužde pśizjawjenje, kótarež w interneśe wužywaśo – na toś ten nałog, jolic se jadno z wašych gronidłow pśez wěstotnu źěru wótekšywa, se jano toś to jadno konto wobwliwujo, druge konta nic.
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-sign-up-form = Wobraz registrěrowańskego formulara websedła z { -brand-name-firefox }, kótaryž mócne gronidło naraźujo, kótarež se awtomatiski za pśichodne wužywanje składujo.
 password-manager-password-security-alerts = Warnowanja wó wěstośe gronidłow
