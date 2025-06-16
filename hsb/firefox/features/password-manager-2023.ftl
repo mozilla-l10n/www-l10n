@@ -14,6 +14,9 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } waše wu
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Z <a { $fxa }>darmotnym { -brand-name-mozilla-account }</a> móžeće swoje hesła wěsće ze wšěmi gratami synchronizować. Maće tež přistup ke wšěm druhim produktam { -brand-name-mozilla }, kotrež priwatnosć respektuja.
 password-manager-password-autofill-for-easy-logins = Awtomatiske wupjelnjenje hesłow za lochke přizjewjenja
+password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } móže waše składowane wužiwarske mjeno a hesło awtomatisce zapisać. Jeli maće wjace hač jedne přizjewjenje za sydło, móžeće prosće konto wubrać, kotrež chceće a my bjerjemy jo wot tam.
+# Used as an accessible text alternative for an image
+password-manager-image-of-a-websites-login-form = Wobraz přizjewjenskeho formulara websydła z { -brand-name-firefox }, kotryž wjacore składowane konta pokazuje, kotrež móžeće wubrać, hdyž so přizjewjeće.
 password-manager-import-passwords = Hesła importować
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = Wobraz dialoga importoweho asistenta { -brand-name-firefox }, kotryž nastajenja za importowanje nastajenjow a datow z druhich wobhladowakow pokazuje.

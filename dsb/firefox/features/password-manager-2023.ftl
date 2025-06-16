@@ -14,6 +14,7 @@ password-manager-firefox-securely-stores-your = { -brand-name-firefox } waše wu
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 password-manager-with-a-free-mozilla-account-v2 = Z <a { $fxa }>dermotnym { -brand-name-mozilla-account }</a> móžośo swóje gronidła wěsće ze wšymi rědami synchronizěrowaś. Maśo teke pśistup ku wšym drugim produktam { -brand-name-mozilla }, kótarež priwatnosć respektěruju.
 password-manager-password-autofill-for-easy-logins = Awtomatiske wupołnjenje gronidłow za lažke pśizjawjenja
+password-manager-firefox-can-automatically-fill-in = { -brand-name-firefox } móžo wašo skłaźone wužywaŕske mě a gronidło awtomatiski zapisaś. Jolic maśo wěcej ako jadno pśizjawjenje za sedło, móžośo jadnorje konto wubraś, kótarež cośo a my bjerjomy jo wót tam.
 password-manager-import-passwords = Gronidła importěrowaś
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = Wobraz dialoga importowego asistenta { -brand-name-firefox }, kótaryž nastajenja za importěrowanje nastajenjow a datow z drugich wobglědowakow pokazujo.
