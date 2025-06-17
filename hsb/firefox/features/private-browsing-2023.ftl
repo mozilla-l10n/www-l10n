@@ -14,3 +14,6 @@ features-private-browsing-private-browsing-mode-opens-v2 = Priwatny modus nowe w
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = Wokno wobhladowaka { -brand-name-firefox } w priwatnym modusu.
 features-private-browsing-what-private-browsing-doesnt-do = Što priwatny modus nječini
+# Variables:
+#   $vpn (url) = link to https://www.mozilla.org/products/vpn/
+features-private-browsing-private-browsing-mode-will-not = Priwatny modus nowe zapołožki, kotrež sće w priwatnym woknje składował, njezhaša abo před škódnej software abo wirusami nješkita. Ani tomu njezadźěwa, zo websydła, kotrež sće wopytał, widźa, hdźež fyzisce sće abo zo internetny słužbny poskićowar protokoluje, štož činiće. Trjebaće <a href="{ $vpn }">dowěry hódny VPN</a> za to.
