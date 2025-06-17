@@ -8,6 +8,7 @@
 features-private-browsing-private-browsing-mode = Priwatny modus
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = Priwatny modus { -brand-name-firefox }
+features-private-browsing-if-you-share-a-computer = Jeli ličak z druhimi ludźimi dźěliće abo jeli chceće limit měć, kelko datow websydła móža wo was nahromadźić, móžeće priwatny modus w { -brand-name-firefox } wužiwać. Priwatny modus digitalne slědy zhaša, kotrež zawostajeće, hdyž online přehladujeće – předstajće sej je kaž wotćišće nohi w lěsach.
 features-private-browsing-what-does-private-browsing-do = Što priwatny modus čini?
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = Wokno wobhladowaka { -brand-name-firefox } w priwatnym modusu.
