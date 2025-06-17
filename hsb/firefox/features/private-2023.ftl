@@ -14,4 +14,5 @@ features-private-yes-firefox-protects-your = Haj. { -brand-name-firefox } wašu 
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 features-private-firefox-also-protects-your = { -brand-name-firefox } tež wašu priwatnosć z <a href="{ $url }">Polěpšenym slědowanskim škitom</a> škita, zo by přesćěhowaki blokował, kotrež wam wot sydła do sydła slěduja a informacije wo wašich přehladowanskich zwučenosćach hromadźa. Wobsahuje tež škit před škódnymi skriptami a škódnej software.
+features-private-sidenote-we-are-not-big-tech = <em>Pódlanske přispomnjenje:</em> Wulke technologiske předewzaće njejsmy. Činimy wěcy hinak. Smy njewotwisni (žani akcionarojo) a to nam zmóžnja, ludźi na prěnje městno stajić, nad profitom. Na rozdźěl wot druhich předewzaćow přistup k wašim datam njepředawamy.
 features-private-what-information-does-firefox = Kotre informacije { -brand-name-firefox } hromadźi?
