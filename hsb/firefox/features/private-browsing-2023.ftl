@@ -17,3 +17,6 @@ features-private-browsing-what-private-browsing-doesnt-do = Što priwatny modus 
 # Variables:
 #   $vpn (url) = link to https://www.mozilla.org/products/vpn/
 features-private-browsing-private-browsing-mode-will-not = Priwatny modus nowe zapołožki, kotrež sće w priwatnym woknje składował, njezhaša abo před škódnej software abo wirusami nješkita. Ani tomu njezadźěwa, zo websydła, kotrež sće wopytał, widźa, hdźež fyzisce sće abo zo internetny słužbny poskićowar protokoluje, štož činiće. Trjebaće <a href="{ $vpn }">dowěry hódny VPN</a> za to.
+# Variables:
+#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+features-private-browsing-compare-firefoxs-private-browsing = Přirunajće priwatny modus { -brand-name-firefox } z <a href="{ $chrome }">modusom inkognito Chrome</a>.
