@@ -9,6 +9,7 @@
 features-sync-firefox-browser-sync = Synchronizacija wobhladowaka { -brand-name-firefox }
 # HTML page description
 features-sync-access-your-firefox-bookmarks = Mějće přistup k wašim zapołožkam, hesłam a wočinjenym rajtarkam { -brand-name-firefox } a wjace z kóždeho grata.
+features-sync-with-firefox-you-can-pick-up-where = Z { -brand-name-firefox } móžeće tam pokročować, hdźež sće přestał, hdyž wot swojeho desktopoweho ličaka k swojemu mobilnemu telefonej abo tabletej přeńdźetej. { -brand-name-firefox } wam zmóžnja, waše zapołožki, wašu přehladowansku historiju, waše hesła a wjace widźeć, njedźiwajo na grat, kotryž wužiwaće.
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Registrujće so za darmotne { -brand-name-mozilla-account }</a> a móžeće swoje daty wšudźe synchronizować, hdźež  { -brand-name-firefox } a druhe produkty { -brand-name-mozilla } wužiwaće.
 features-sync-send-tabs-from-one-device-to-another = Sćelće rajtarki wot jednoho grata do druheho
