@@ -16,3 +16,6 @@ features-private-yes-firefox-protects-your = Haj. { -brand-name-firefox } wašu 
 features-private-firefox-also-protects-your = { -brand-name-firefox } tež wašu priwatnosć z <a href="{ $url }">Polěpšenym slědowanskim škitom</a> škita, zo by přesćěhowaki blokował, kotrež wam wot sydła do sydła slěduja a informacije wo wašich přehladowanskich zwučenosćach hromadźa. Wobsahuje tež škit před škódnymi skriptami a škódnej software.
 features-private-sidenote-we-are-not-big-tech = <em>Pódlanske přispomnjenje:</em> Wulke technologiske předewzaće njejsmy. Činimy wěcy hinak. Smy njewotwisni (žani akcionarojo) a to nam zmóžnja, ludźi na prěnje městno stajić, nad profitom. Na rozdźěl wot druhich předewzaćow přistup k wašim datam njepředawamy.
 features-private-what-information-does-firefox = Kotre informacije { -brand-name-firefox } hromadźi?
+# Variables:
+#   $url (url) = link to https://www.mozilla.org/firefox/privacy/
+features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } (zhotowjer { -brand-name-firefox }) priwatnosć jara chutnu bjerje. <strong>Jara chutnu</strong>. Woprawdźe, kóždy produkt { -brand-name-firefox }, kotryž zhotowjamy, naše <a href="{ $url }">wosobinske datowe slubjenje </a> honoruje: Wozmiće mjenje. Dźeržće jón wěsty. Žane potajnstwa.
