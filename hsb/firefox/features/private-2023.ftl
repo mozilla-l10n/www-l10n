@@ -11,4 +11,7 @@ features-private-were-focused-on-your-right-to = Stajamy fokus na waše prawo na
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/firefox/features/private-browsing/
 features-private-yes-firefox-protects-your = Haj. { -brand-name-firefox } wašu priwatnosć z funkcijemi kaž <a href="{ $url }">priwatny modus</a> škita. Zmóžnja wam, wašu přehladowansku historiju a hesła priwatne dźeržeć, samo hdyž grat wužiwaće, kotryž z druhimi ludźimi dźěliće, na přikład domjacy ličak abo { -brand-name-ipad }.
+# Variables:
+#   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+features-private-firefox-also-protects-your = { -brand-name-firefox } tež wašu priwatnosć z <a href="{ $url }">Polěpšenym slědowanskim škitom</a> škita, zo by přesćěhowaki blokował, kotrež wam wot sydła do sydła a informacije wo wašich přehladowanskich zwučenosćach hromadźa. Wobsahuje tež škit před škódnymi skriptami a škódnej software.
 features-private-what-information-does-firefox = Kotre informacije { -brand-name-firefox } hromadźi?
