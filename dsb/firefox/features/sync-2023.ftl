@@ -12,6 +12,9 @@ features-sync-access-your-firefox-bookmarks = Mějśo pśistup k wašym cytańsk
 features-sync-with-firefox-you-can-pick-up-where = Z { -brand-name-firefox } móžośo tam pókšacowaś, źož sćo pśestał, gaž wót swójogo desktopowego licadła k swójomu mobilnemu telefonoju abo tabletoju pśejźotej. { -brand-name-firefox } wam zmóžnja, waše cytańske znamjenja, wašu pśeglědowańsku historiju, waše gronidła a wěcej wiźeś, njeźiwajucy na rěd, kótaryž wužywaśo.
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Registrěrujśo se za dermotne { -brand-name-mozilla-account }</a> a móžośo swóje daty wšuźi synchronizěrowaś, źož  { -brand-name-firefox } a druge produkty { -brand-name-mozilla } wužywaśo.
+# Variables:
+#   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
+features-sync-all-your-data-is-encrypted-on-our = Wšykne waše daty se na našych serwerach koděruju, až njeby my mógli je cytaś – mamy jano pśistup k nim. Njepśedawamy wabjarjam waše informacije, dokulaž se to pśeśiwo našomu <a href="{ $privacy }">zlubjenjeju datoweje priwatnosći</a> pśejšło.
 features-sync-send-tabs-from-one-device-to-another = Sćelśo rejtariki wót jadnogo rěda do drugego
 # Used as accessible alternative text for an image
 features-sync-an-image-of-a-firefox-application = Wobraz nałožeńskego menija { -brand-name-firefox }, kótaryž nastajenje „Rejtarik na rěd pósłaś“ wuzwigujo.

@@ -12,6 +12,9 @@ features-sync-access-your-firefox-bookmarks = Mějće přistup k wašim zapoło�
 features-sync-with-firefox-you-can-pick-up-where = Z { -brand-name-firefox } móžeće tam pokročować, hdźež sće přestał, hdyž wot swojeho desktopoweho ličaka k swojemu mobilnemu telefonej abo tabletej přeńdźetej. { -brand-name-firefox } wam zmóžnja, waše zapołožki, wašu přehladowansku historiju, waše hesła a wjace widźeć, njedźiwajo na grat, kotryž wužiwaće.
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Registrujće so za darmotne { -brand-name-mozilla-account }</a> a móžeće swoje daty wšudźe synchronizować, hdźež  { -brand-name-firefox } a druhe produkty { -brand-name-mozilla } wužiwaće.
+# Variables:
+#   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
+features-sync-all-your-data-is-encrypted-on-our = Wšě waše daty so na našich serwerach zaklučuja, zo njebychmy móhli je čitać – mamy jenož přistup k nim. Njepředawamy wabjerjam waše informacije, dokelž so to přećiwo našemu <a href="{ $privacy }">slubjenju datoweje priwatnosće</a> přešło.
 features-sync-send-tabs-from-one-device-to-another = Sćelće rajtarki wot jednoho grata do druheho
 # Used as accessible alternative text for an image
 features-sync-an-image-of-a-firefox-application = Wobraz nałoženskeho menija { -brand-name-firefox }, kotryž nastajenje „Rajtark na grat pósłać“ wuzběhuje.
