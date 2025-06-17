@@ -71,11 +71,13 @@ m24-home-find-the-just = Poiščite pravi veliki jezikovni model za svoje potreb
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Mark Surman, predsednik { -brand-name-mozilla(sklon: "rodilnik") }.
 m24-home-can-ai-be = Ali je umetna inteligenca lahko vredna zaupanja?
+m24-home-in-a-world = V svetu, v katerem razvoj umetne inteligence poganja nekaj izbrancev, obstaja nevarnost, da se nad to tehnologijo ustvari monopol. Uporaba odprtokodnih konceptov za umetno inteligenco lahko to spremeni.
 m24-home-watch-now = Glejte zdaj
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Govorec na odru z logotipi več izdelkov.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice-to-make = Prispevajte svoj glas, da bi govorna tehnologija postala bolj vključujoča in dostopna vsakomur.
 m24-home-donate-your-voice = Prispevajte svoj glas
 
 ## Media Springboard
@@ -103,6 +105,7 @@ m24-home-alt-rise25-proud = Ponosen nagrajenec na { -brand-name-rise25 }.
 m24-home-alt-rise25-smiling = Samozavestna nasmejana govorka na { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Vesela nagrajenka na { -brand-name-rise25 }.
+m24-home-state-of-mozilla = Stanje { -brand-name-mozilla(sklon: "rodilnik") }
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstraktna umetnost iz pikslov v zelenih, oranžnih in roza odtenkih
 m24-home-read-the-report = Preberite poročilo
