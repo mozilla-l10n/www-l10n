@@ -11,6 +11,7 @@ features-pip-firefox-picture-in-picture-get-more = Wobraz-we-wobrazu { -brand-na
 features-pip-got-things-to-do-and-things-to-watch = Dyrbiće něšto činić a něšto sej wobhladać? Čińće woboje z modusom wobraz-we-wobrazu w { -brand-name-firefox }.
 features-pip-picture-in-picture = Wobraz-we-wobrazu
 features-pip-get-more-done-with-pop-out-videos = Čińće wjace z přeměstnjenymi widejemi
+features-pip-got-things-to-do-do-both-with = Dyrbiće něšto činić a sej wobhladać? Čińće wobě z pomocu Wobraz-we-wobrazu w { -brand-name-firefox }. Zmóžnja wam, widejo z jeje webstrony wućahnyć a jo k wašej wobrazowce připjeć, zo byšće móhł je dale wobhladać, mjeztym zo sće na druhich stronach, rajtarkach a nałoženjach.
 features-pip-heres-how-it-works = Tak to funguje:
 features-pip-play-any-video-in-your-updated = <strong>Wothrajće widejo</strong> w swojim wobhladowaku { -brand-name-firefox }, kaž tute.
 features-pip-play-any-video-in-your = <strong>Wothrajće widejo</strong> w swojim wobhladowaku { -brand-name-firefox }, kaž tute z młodźatkami čerwjeneho pandy.
