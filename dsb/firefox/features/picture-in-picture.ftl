@@ -11,6 +11,7 @@ features-pip-firefox-picture-in-picture-get-more = Wobraz-we-wobrazu { -brand-na
 features-pip-got-things-to-do-and-things-to-watch = Musyśo něco cyniś a něco se woglědaś? Cyńśo woboje z modusom wobraz-we-wobrazu w { -brand-name-firefox }.
 features-pip-picture-in-picture = Wobraz-we-wobrazu
 features-pip-get-more-done-with-pop-out-videos = Cyńśo wěcej z wuměstnjonymi wideo
+features-pip-got-things-to-do-do-both-with = Musyśo něco cyniś a se woglědaś? Cyńśo wobej z pomocu Wobraz-we-wobrazu w { -brand-name-firefox }. Zmóžnja wam, wideo z jogo webboka naprědk póraś a jo k wašej wobrazowce pśipěś, aby se mógał jo dalej woglědaś, mjaztym až sćo na drugich bokach, rejtarikach a nałoženjach.
 features-pip-heres-how-it-works = Tak to funkcioněrujo:
 features-pip-play-any-video-in-your-updated = <strong>Wotgrajśo wideo</strong> w swójom wobglědowaku { -brand-name-firefox }, ako toś to.
 features-pip-play-any-video-in-your = <strong>Wótgrajśo wideo</strong> w swójom wobglědowaku { -brand-name-firefox }, ako toś te z młoźami cerwjenego panda.
