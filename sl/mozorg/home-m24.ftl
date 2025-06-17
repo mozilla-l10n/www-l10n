@@ -17,6 +17,8 @@ m24-home-page-desc-v2 = Trudimo se, da bi nadzor nad internetom vrnili v roke lj
 m24-home-welcome-to-mozilla = Dobrodošli pri { -brand-name-mozilla(sklon: "mestnik") }!
 m24-home-from-trustworthy-tech = Od zaupanja vredne tehnologije do pravilnikov, ki ščitijo vaše digitalne pravice – postavljamo vas na prvo mesto. Vedno.
 m24-home-learn-about-us = Več o nas
+# Used as accessible text alternative for image
+m24-home-alt-flag = Stilizirana zelena zastava na črnem ozadju, zgrajena iz 'M' za { -brand-name-mozilla } in premaknjene slikovne pike, da spominja na izvirni logotip z dinozavrom.
 
 ## Products
 
@@ -57,6 +59,7 @@ m24-home-join-the-movement = Pridružite se gibanju:<br> UI za ljudi
 # Used as an accessible text alternative for an image
 m24-home-alt-solo-ai-logo = Logotip { -brand-name-solo-ai }
 m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Ustvarite svoje spletno mesto in brezplačno povežite domeno po meri
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
@@ -64,6 +67,7 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logotip { -brand-name-lumigator }ja.
 m24-home-lumigator = { -brand-name-lumigator }
+m24-home-find-the-just = Poiščite pravi veliki jezikovni model za svoje potrebe, primer uporabe in podatke.
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Mark Surman, predsednik { -brand-name-mozilla(sklon: "rodilnik") }.
 m24-home-can-ai-be = Ali je umetna inteligenca lahko vredna zaupanja?
