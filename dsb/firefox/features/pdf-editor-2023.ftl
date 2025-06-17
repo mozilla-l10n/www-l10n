@@ -18,5 +18,6 @@ pdf-editor-no-more-now-all-you-need-to-do = Žednje wěcej! Wšykno, což musyś
 pdf-editor-add-text = Tekst pśidaś
 pdf-editor-open-the-pdf-in-firefox-click-text = Wócyńśo PDF w { -brand-name-firefox }. Klikniśo na tłocašk Tekst, aby barwu a tekstowu wjelikosć wubrał, nježli až wuběraśo, źo na dokumenśe cośo tekst pśidaś. Jo to tak lažko!
 pdf-editor-add-drawings-or-your-signature = Pśidajśo kreslanki (abo swóju signaturu)
+pdf-editor-open-the-pdf-in-firefox-click-draw = Wócyńśo PDF w { -brand-name-firefox }. Klikniśo na symbol Kresliś, aby barwu, tłustosć a opacitu wubrał, nježli až móžośo pón na dokumenśe kresliś. To nejskerjej njejo njepórědnjejše ako waša zwucona signatura!
 pdf-editor-add-image-with-alt-text = Wobraz z alternatiwnym tekstom pśidaś
 pdf-editor-create-a-highlight = Napórajśo wjerašk
