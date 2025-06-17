@@ -20,6 +20,10 @@ features-adblocker-there-are-scores-of-content = Dajo kopicu wopśimjeśowych bl
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
 features-adblocker-considered-by-many-to-be-the = <a { $attrs }>uBlock Origin</a>, kótaryž wjele za měru wšych wěcow mjazy wabjeńskimi blokěrowakami ma, jo znaty za swóju statkownosć a eficiencu. Jo wjelgickan pśiměrjujobny, ale funkcioněrujo teke wjelicnje ze standardnymi nastajenjami.
 # Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> wabjenje wšuźi wósłabja. Blokěrujo wabjenje w interneśe, w socialnych medijach, samo te wobuzne wuskokujuce wokna (jolic pak cosó wuskokujuce wokna jano pódtłocyś, njamóžośo nic z <a { $attrs2 }>Popup Blocker</a> wopak cyniś).
+# Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> jo druga wjelicna wólba, kótaraž nic jano wabjenje blokěrujo, ale pśidatne lěpšyny pśeśiwo pśeslědowanjeju bitujo.
 # Variables:
