@@ -19,3 +19,6 @@ features-private-what-information-does-firefox = Kotre informacije { -brand-name
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/firefox/privacy/
 features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } (zhotowjer { -brand-name-firefox }) priwatnosć jara chutnu bjerje. <strong>Jara chutnu</strong>. Woprawdźe, kóždy produkt { -brand-name-firefox }, kotryž zhotowjamy, naše <a href="{ $url }">wosobinske datowe slubjenje </a> honoruje: Wozmiće mjenje. Dźeržće jón wěsty. Žane potajnstwa.
+# Variables:
+#   $url (url) = link to https://www.mozilla.org/privacy/firefox/
+features-private-read-firefoxs-privacy-notice = Čitajće <a href="{ $url }">priwatnu zdźělenku { -brand-name-firefox }</a> za dalše informacije. Chutnje, čitajće ju. Pismo ma normalnu wulkosć a wjele druheho.

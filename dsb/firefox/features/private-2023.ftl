@@ -19,3 +19,6 @@ features-private-what-information-does-firefox = Kótare informacije { -brand-na
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/firefox/privacy/
 features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } (zgótowaŕ { -brand-name-firefox }) priwatnosć wjelgin serioznje měni. <strong>Wjelgin serioznje</strong>. Napšawdu kuždy produkt { -brand-name-firefox }, kótaryž gótujomy, naše <a href="{ $url }">wósobinske datowe zlubjenje </a> honorěrujo: Wzejśo mjenjej. Źaržćo jen wěsty. Žedne pótajmstwa.
+# Variables:
+#   $url (url) = link to https://www.mozilla.org/privacy/firefox/
+features-private-read-firefoxs-privacy-notice = Cytajśo <a href="{ $url }">priwatnu powěźeńku { -brand-name-firefox }</a> za dalšne informacije. Serioznje, cytajśo ju. Pismo ma normalnu wjelikosć a wjele drugego.
