@@ -16,6 +16,7 @@ pdf-editor-fill-in-forms-online-without = Wupołniśo formulary online, bźez to
 pdf-editor-weve-all-faced-this-you-need-to = My wšykne smy napśisko stojali pśed tym: Musyśo formular wupołniś, kótaryž jo PDF, ale njedajo se wobźěłowaś. W zajźonosći jo była jadnučka móžnosć, jen na kus papjery śišćaś, wěcy z tintu pśidaś a pón jen slědk do wašogo licadła scannowaś.
 pdf-editor-no-more-now-all-you-need-to-do = Žednje wěcej! Wšykno, což musyśo něnto cyniś, jo, PDF z { -brand-name-firefox } online wobźěłaś, jen składowaś a jen wót wašogo licadła z e-mailu słaś.
 pdf-editor-add-text = Tekst pśidaś
+pdf-editor-open-the-pdf-in-firefox-click-text = Wócyńśo PDF w { -brand-name-firefox }. Klikniśo na tłocašk Tekst, aby barwu a tekstowu wjelikosć wubrał, nježli až wuběraśo, źo na dokumenśe cośo tekst pśidaś. Jo to tak lažko!
 pdf-editor-add-drawings-or-your-signature = Pśidajśo kreslanki (abo swóju signaturu)
 pdf-editor-add-image-with-alt-text = Wobraz z alternatiwnym tekstom pśidaś
 pdf-editor-create-a-highlight = Napórajśo wjerašk
