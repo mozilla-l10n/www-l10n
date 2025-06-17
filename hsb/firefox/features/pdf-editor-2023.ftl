@@ -22,3 +22,4 @@ pdf-editor-open-the-pdf-in-firefox-click-draw = Wočińće PDF w { -brand-name-f
 pdf-editor-add-image-with-alt-text = Wobraz z alternatiwnym tekstom přidać
 pdf-editor-open-pdf-click-image-icon = Wočińće PDF w { -brand-name-firefox }. Klikńće na symbol Wobraz přidać a wobdźěłać, kotryž was potom namołwja, wobraz nahrać. Přiměrće po potrěbnosći wulkosć a poziciju wašeho wobraza. Klikńće na tłóčatko „+Alternatiwny tekst“ na wobrazu, zo byšće wopisanje fota přidał, zo byšće swój PDF přistupniši činił.
 pdf-editor-create-a-highlight = Wutworće wjeršk
+pdf-editor-select-text-you-want-to = Wočińće PDF w { -brand-name-firefox }. Wubjerće tekst, kotryž chceće wuzběhnyć, klikńće potom na symbol Wuzběhnyć, kotryž so pod wuběrom jewi abo klikńće, zo byšće móžnosć wuzběhnjenje w kontekstowym meniju namakał. Klikńće na symbol horjeka naprawo, zo byšće wólnoručne wuzběhowanske wotrězki PDF rysował.

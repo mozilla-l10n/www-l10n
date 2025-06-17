@@ -22,3 +22,4 @@ pdf-editor-open-the-pdf-in-firefox-click-draw = Wócyńśo PDF w { -brand-name-f
 pdf-editor-add-image-with-alt-text = Wobraz z alternatiwnym tekstom pśidaś
 pdf-editor-open-pdf-click-image-icon = Wócyńśo PDF w { -brand-name-firefox }. Klikniśo na symbol Wobraz pśidaś a wobźěłaś, kótaryž was pón naspomina, wobraz nagraś. Pśiměŕśo pó pótrjebnosći wjelikosć a poziciju wašogo wobraza. Klikniśo na tłocašk „+Alternatiwny tekst“ na wobrazu, aby wopisanje fota pśidał, aby swój PDF pśistupnjejšy cynił.
 pdf-editor-create-a-highlight = Napórajśo wjerašk
+pdf-editor-select-text-you-want-to = Wócyńśo PDF w { -brand-name-firefox }. Wubjeŕśo tekst, kótaryž cośo wuzwignuś, klikniśo pón na symbol Wuzwignuś, kótaryž se pód wuběrkom zjawijo abo klikniśo, aby móžnosć wuzwignjenja w kontekstowem meniju namakał. Klikniśo na symbol górjejce napšawo, aby wótrězki wuzwignjenja PDF jano z rukoma kreslił.
