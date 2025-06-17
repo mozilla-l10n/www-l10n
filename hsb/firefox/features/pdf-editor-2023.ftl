@@ -16,6 +16,7 @@ pdf-editor-fill-in-forms-online-without = Wupjelńće formulary online, bjeztoho
 pdf-editor-weve-all-faced-this-you-need-to = My wšitcy smy njenadźicy na to storčili: Dyrbiće formular wupjelnić, kotryž je PDF, ale njeda so wobdźěłować. W zańdźenosći běše jenička móžnosć, jón na kus papjery ćišćeć, wěcy z tintu přidać a potom jón wróćo do wašeho ličaka skenować.
 pdf-editor-no-more-now-all-you-need-to-do = Ženje wjac! Wšitko, štož dyrbiće nětko činić, je, PDF z { -brand-name-firefox } online wobdźěłać, jón składować a jón wot wašeho ličaka z e-mejlu słać.
 pdf-editor-add-text = Tekst přidać
+pdf-editor-open-the-pdf-in-firefox-click-text = Wočińće PDF w { -brand-name-firefox }. Klikńće na tłóčatko Tekst, zo byšće barbu a tekstowu wulkosć wubrał, prjedy hač wuběraće, hdźe na dokumenće chceće tekst přidać. Je to tak lochko!
 pdf-editor-add-drawings-or-your-signature = Přidajće rysowanki (abo swoju signaturu)
 pdf-editor-add-image-with-alt-text = Wobraz z alternatiwnym tekstom přidać
 pdf-editor-create-a-highlight = Wutworće wjeršk
