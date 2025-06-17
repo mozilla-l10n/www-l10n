@@ -11,6 +11,7 @@ pdf-editor-pdf-editor = PDF-editor
 pdf-editor-add-text-to-pdfs-v2 = Wobźěłajśo PDF-dataje dermotnje z PDF-editorom { -brand-name-firefox }
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Woglědajśo se a wobźěłajśo PDF-dataje direktnje w { -brand-name-firefox }.
+pdf-editor-if-you-need-to-add-stuff-to-a-pdf = Jolic musyśo PDF-dokumentoju maśiznu pśidaś, móžośo to něnto z { -brand-name-firefox } online cyniś. Wócyńśo PDF w { -brand-name-firefox } a klikniśo na tłocašk Tekst abo Kresliś w rožku górjejce napšawo, aby změny na swójom dokumenśe pśewjadł. Ześěgniśo dataju, aby ju ze swójimi změnami składował.
 pdf-editor-fill-in-forms-online-without = Wupołniśo formulary online, bźez togo aby je śišćał a scannował
 pdf-editor-no-more-now-all-you-need-to-do = Žednje wěcej! Wšykno, což musyśo něnto cyniś, jo, PDF z { -brand-name-firefox } online wobźěłaś, jen składowaś a jen wót wašogo licadła z e-mailu słaś.
 pdf-editor-add-text = Tekst pśidaś
