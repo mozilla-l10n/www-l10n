@@ -20,4 +20,5 @@ pdf-editor-open-the-pdf-in-firefox-click-text = Wócyńśo PDF w { -brand-name-f
 pdf-editor-add-drawings-or-your-signature = Pśidajśo kreslanki (abo swóju signaturu)
 pdf-editor-open-the-pdf-in-firefox-click-draw = Wócyńśo PDF w { -brand-name-firefox }. Klikniśo na symbol Kresliś, aby barwu, tłustosć a opacitu wubrał, nježli až móžośo pón na dokumenśe kresliś. To nejskerjej njejo njepórědnjejše ako waša zwucona signatura!
 pdf-editor-add-image-with-alt-text = Wobraz z alternatiwnym tekstom pśidaś
+pdf-editor-open-pdf-click-image-icon = Wócyńśo PDF w { -brand-name-firefox }. Klikniśo na symbol Wobraz pśidaś a wobźěłaś, kótaryž was pón naspomina, wobraz nagraś. Pśiměŕśo pó pótrjebnosći wjelikosć a poziciju wašogo wobraza. Klikniśo na tłocašk „+Alternatiwny tekst“ na wobrazu, aby wopisanje fota pśidał, aby swój PDF pśistupnjejšy cynił.
 pdf-editor-create-a-highlight = Napórajśo wjerašk

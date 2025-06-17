@@ -20,4 +20,5 @@ pdf-editor-open-the-pdf-in-firefox-click-text = Wočińće PDF w { -brand-name-f
 pdf-editor-add-drawings-or-your-signature = Přidajće rysowanki (abo swoju signaturu)
 pdf-editor-open-the-pdf-in-firefox-click-draw = Wočińće PDF w { -brand-name-firefox }. Klikńće na symbol Rysować, zo byšće barbu, tołstosć a opacitu wubrał, prjedy hač móžeće potom na dokumenće rysować. To najskerje njeporjadniše njeje hač waša zwučena signatura!
 pdf-editor-add-image-with-alt-text = Wobraz z alternatiwnym tekstom přidać
+pdf-editor-open-pdf-click-image-icon = Wočińće PDF w { -brand-name-firefox }. Klikńće na symbol Wobraz přidać a wobdźěłać, kotryž was potom namołwja, wobraz nahrać. Přiměrće po potrěbnosći wulkosć a poziciju wašeho wobraza. Klikńće na tłóčatko „+Alternatiwny tekst“ na wobrazu, zo byšće wopisanje fota přidał, zo byšće swój PDF přistupniši činił.
 pdf-editor-create-a-highlight = Wutworće wjeršk
