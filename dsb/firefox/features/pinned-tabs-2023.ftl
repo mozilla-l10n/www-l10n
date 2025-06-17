@@ -9,3 +9,4 @@
 pinned-tabs-pinned-browser-tabs = Pśipněte rejtariki wobglědowaka
 # HTML page description
 pinned-tabs-keep-your-favorite-pages-open = Źaržćo swóje nejlubše boki wócynjone a jano jadno kliknjenje zdalone. Wužywajśo pśipěte rejtariki, aby pśecej woko na waše mejlki abo powěsćowe nałoženja měł.
+pinned-tabs-pinning-a-tab-in-firefox-allows = Pśipinanje rejtarika w { -brand-name-firefox } wam zmóžnja, aby swóje nejlubše sedła pśecej wócynjine a kliknjenje pšec źaržał. Wócynjaju se awtomatiski, gaž { -brand-name-firefox } startujośo. Smy je měli wósebnje za wužytne, aby wěcy kaž e-mail a pratyjowe websedła pśecej k ruce měli.
