@@ -15,11 +15,13 @@ m24-home-page-desc-v2 = Ore romba’apo opytakuaa hag̃uáicha yvypóra ñanduti
 ## Intro
 
 m24-home-welcome-to-mozilla = ¡Eg̃uahẽporã { -brand-name-mozilla }-pe!
+m24-home-from-trustworthy-tech = Tembiporupyahu jeroviaha guive porureko omo’ãva nde derécho peve, nde reñemotenonde — tapiaite.
 m24-home-learn-about-us = Eikuaave ore rehegua
 
 ## Products
 
 m24-home-love-the-internet = Ehayhu jey ñanduti
+m24-home-break-free-from = Ejehekýi tembiporupyahu guasúgui: ore mba’erepy nemoĩ ehecha hag̃ua ñandutípe jeike tekorosã ha tekoñemíme.
 m24-home-explore-our-products = Eikuaave ore apore
 m24-home-firefox = { -brand-name-firefox }
 m24-home-get-the-gold = Eguereko iporãvéva eikundaha pya’eve hag̃ua, tekoñemi ha porukuaa.
