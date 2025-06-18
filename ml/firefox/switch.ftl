@@ -6,10 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/switch/
 
 switch-switch-from-chrome = { -brand-name-chrome } നിന്നും { -brand-name-firefox }-ലേക്കു് ഞൊടിയിടയില്‍ മാറുക
-switch-switching-to-firefox-is-fast-updated = { -brand-name-firefox }-ലേക്കു് മാറുന്നതു് വേഗതയാർന്നതും എളുപ്പവും സുരക്ഷിതവുമാണു്. കാരണം { -brand-name-firefox } താങ്ങളുടെ അടയാളകുറിപ്പുകള, രഹസ്യവാക്കുകള്‍, മുൻഗണനകൾ എന്നിവ { -brand-name-chrome }-ൽ നിന്നുമാണു് ഇറക്കുമതി ചെയ്യുന്നതു്.
-switch-switching-to-firefox-is-fast = { -brand-name-firefox }-ലേക്കു് മാറുന്നത് വേഗതയാർന്നതും എളുപ്പവും സുരക്ഷിതവുമാണ്. കാരണം { -brand-name-firefox } നിങ്ങളുടെ രഹസ്യവാക്കുകള്‍, ഓട്ടോഫില്ലുകൾ, രഹസ്യവാക്കുകള്‍, മുൻഗണനകൾ എന്നിവ { -brand-name-chrome }-ൽ നിന്നുമാണ് ഇറക്കുമതി ചെയ്യുന്നത്.
-switch-switching-to-firefox-page-description-updated = { -brand-name-firefox }-ലേക്കു് മാറുന്നതു് വേഗതയാർന്നതും എളുപ്പവും സുരക്ഷിതവുമാണു്. കാരണം { -brand-name-firefox } താങ്ങളുടെ അടയാളകുറിപ്പുകള, രഹസ്യവാക്കുകള്‍, മുൻഗണനകൾ എന്നിവ { -brand-name-chrome }-ൽ നിന്നുമാണു് ഇറക്കുമതി ചെയ്യുന്നതു്.
-switch-switching-to-firefox-page-description = { -brand-name-firefox }-ലേക്കു് മാറുന്നതു് വേഗതയാർന്നതും എളുപ്പവും സുരക്ഷിതവുമാണു്. കാരണം { -brand-name-firefox } താങ്ങളുടെ അടയാളകുറിപ്പുകള്‍, ഓട്ടോഫില്ലുകൾ, രഹസ്യവാക്കുകള്‍, മുൻഗണനകൾ എന്നിവ { -brand-name-chrome }-ൽ നിന്നുമാണു് ഇറക്കുമതി ചെയ്യുന്നതു്.
+switch-switching-to-firefox-is-fast-updated = { -brand-name-firefox }-ലേക്കു് മാറുന്നതു് വേഗതയാർന്നതും എളുപ്പവും സുരക്ഷിതവുമാണു്. കാരണം { -brand-name-firefox } താങ്ങളുടെ അടയാളകുറിപ്പുകള, ഒളിവാക്കുകള്‍, മുൻഗണനകൾ എന്നിവ { -brand-name-chrome }-ൽ നിന്നുമാണു് ഇറക്കുമതി ചെയ്യുന്നതു്.
+switch-switching-to-firefox-is-fast = { -brand-name-firefox }-ലേക്കു് മാറുന്നത് വേഗതയാർന്നതും എളുപ്പവും സുരക്ഷിതവുമാണ്. കാരണം { -brand-name-firefox } നിങ്ങളുടെ ഒളിവാക്കുകള്‍, ഓട്ടോഫില്ലുകൾ, ഒളിവാക്കുകള്‍, മുൻഗണനകൾ എന്നിവ { -brand-name-chrome }-ൽ നിന്നുമാണ് ഇറക്കുമതി ചെയ്യുന്നത്.
+switch-switching-to-firefox-page-description-updated = { -brand-name-firefox }-ലേക്കു് മാറുന്നതു് വേഗതയാർന്നതും എളുപ്പവും സുരക്ഷിതവുമാണു്. കാരണം { -brand-name-firefox } താങ്ങളുടെ അടയാളകുറിപ്പുകള, ഒളിവാക്കുകള്‍, മുൻഗണനകൾ എന്നിവ { -brand-name-chrome }-ൽ നിന്നുമാണു് ഇറക്കുമതി ചെയ്യുന്നതു്.
+switch-switching-to-firefox-page-description = { -brand-name-firefox }-ലേക്കു് മാറുന്നതു് വേഗതയാർന്നതും എളുപ്പവും സുരക്ഷിതവുമാണു്. കാരണം { -brand-name-firefox } താങ്ങളുടെ അടയാളകുറിപ്പുകള്‍, ഓട്ടോഫില്ലുകൾ, ഒളിവാക്കുകള്‍, മുൻഗണനകൾ എന്നിവ { -brand-name-chrome }-ൽ നിന്നുമാണു് ഇറക്കുമതി ചെയ്യുന്നതു്.
 switch-select-what-to-take = { -brand-name-chrome }-ൽ നിന്നു് എടുക്കേണ്ടതു് എന്തെല്ലാമെന്നു് തിരഞ്ഞെടുക്കുക.
 switch-let-firefox-do-the-rest = ബാക്കിയുള്ളവ ചെയ്യാൻ { -brand-name-firefox }-നു് അനുവദിക്കൂ.
 switch-use-firefox-and-still-chrome = താങ്ങൾക്കു് { -brand-name-firefox }-ഉം { -brand-name-chrome }-ഉം ഉപയോഗിയ്ക്കാം. { -brand-name-chrome } താങ്ങളുടെ മെഷീനിൽ ഒരു തരി മാറ്റവും വരുത്തില്ല.

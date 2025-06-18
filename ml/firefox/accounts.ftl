@@ -16,7 +16,7 @@ mozilla-account-sign-in-to = താഴെപറയുന്ന കാര്യ�
 firefox-accounts-send-a-tab = മറ്റൊരു ഉപകരണത്തിലോട്ടു് <a href="{ $send }">ഒരു ടാബു് അയയ്ക്കുക</a>
 # Variables:
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
-firefox-accounts-save-and-sync = <a href="{ $password }">രഹസ്യവാക്കുകളെ കരുതിവച്ചിട്ടു് സമന്വയിപ്പിക്കുക</a>
+firefox-accounts-save-and-sync = <a href="{ $password }">ഒളിവാക്കുകളെ കരുതിവച്ചിട്ടു് സമന്വയിപ്പിക്കുക</a>
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
