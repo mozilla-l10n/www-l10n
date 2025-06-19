@@ -16,7 +16,20 @@ browser-history-in-1950-computers = W lěće 1950 su ličaki cyłe rumnosće zab
 browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> běše prěni wuspěšny syćowy projekt a w lěće 1979 je so prěnja powěsć pósłała, z laboratorija za kompjuterowu wědomosć na uniwersiće Kaliforniskeje, Los Angeles (UCLA) na slědźerski institut w Stanfordźe (SRI), tež w Kaliforniskej.
 browser-history-that-sparked-a-revolution = To je rewoluciju w splećenje ličakow zbudźiło. Nowe syće su so tworili, kotrež uniwersity a slědźenišća po cyłym swěće zwjazachu. Ale za přichodne 20 lět njeje internet za zjawnosć přistupny był. Wosta na slědźerjow uniwersitow a knježerstwow, studentow a priwatne předewzaća wobmjezowany. Běchu dwanatki programow, kotrež móžachu z informacijemi přez telefonowody wikować, ale žadyn z nich da so lochko wužiwać. Woprawdźity wotewrjeny internet a prěni webwobhladowak njejstej do lěta 1990 nastałoj.
 browser-history-web-era = Doba interneta
+# Variables:
+#   $cern (url) - https://home.cern/topics/birth-web
+browser-history-british-computer = Britiski kompjuterowy wědomostnik Tim Berners-Lee je w lěće 1990 prěni webserwer a grafiski wobhladowak wutworił, hdyž <a href="{ $cern }">w CERN dźěłaśe</a>, w europskej organizaciji za nuklearne slědźenje w Šwicarskej. Je swoje nowe wokno do interneta „WorldWideWeb“ mjenował. Je lochko wužiwajomny grafiski wužiwarski powjerch za ličak NeXT było. Prěni raz su so tekstowe dokumenty w zjawnej syći zwjazali – web, kaž jón znajemy.
+browser-history-a-year-later-berners = Jedne lěto pozdźišo je Berners-Lee studenta matematiki w CERN, Nicola Pellow, prosył, wobhladowak Line Mode napisać, program za zakładne kompjuterowe terminale.
+# Variables:
+#   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
+browser-history-by-1993-the-web = Hač do 1993 web eksplodowaše. Uniwersity, knježerstwa a priwatne předewzaća we wotewrjenym interneće swoje šansy widźachu. Kóždy trjebaše nowe kompjuterowe programy za přistup k njemu. W tym lěće je so Mosaic na Nationall Center for Supercomputing Applications (NCSA) na uniwersiće University of Illinois Urbana-Champaign wot kompjuteroweho wědomostnika Marc Andreesen wutworił. Běše najprěńši popularny webwobhladowak a zažny předchadnik  <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox }</a>.
+# Variables:
+#   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
+browser-history-ncsa-mosaic-ran = NCSA Mosaic na ličakach { -brand-name-windows } běžeše, da so lochko wužiwać a zmóžni kóždemu z PC přistup k prěnim webstronam, chatowym rumam a wobrazowym bibliotekam. W lěće po tym (1994) je Andreesen <a href="{ $netscape }">{ -brand-name-netscape }</a> załožił a { -brand-name-netscape } Navigator wozjewił. Je nad měru wuspěšny był, a běše prěni wobhladowak za ludźi. Je tež prěnja kročel w nowej družinje wójny za internetnych wužiwarjow był.
 browser-history-the-browser-wars = Wójny wobhladowakow
+# Variables:
+#   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
+browser-history-by-1995-netscape = Wot 1995 { -brand-name-netscape } Navigator jenička móžnosć njeběše so online dóstać. Gigant za kompjuterowu software { -brand-name-microsoft } stary kod Mosaic licencowaše a wuwiwaše swójske wokno do weba, <a href="{ $ie }">{ -brand-name-ie }</a>. Wozjewjenje wójnu wubudźi. { -brand-name-netscape } a { -brand-name-microsoft } hektisce dźěłaštej, zo byštej nowe wersije swojeju programow zhotowjałoj, kóždy spyta, druhi ze spěšnišimi, lěpšimi produktami přetrjechić.
 browser-history-browsing-the-web = Kaž web dźensa přehladujemy
 browser-history-resources = Resursy
 browser-history-take-control-of = Přewzmiće kontrolu nad swojim wobhladowakom.
