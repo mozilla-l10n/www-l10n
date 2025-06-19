@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
+browser-history-browser-history = Stawizny wobhladowakow: Episke boje wo móc, kotrež su nam moderne wobhladowaki přinjesli
 browser-history-the-history-of-web = Historija webwobhladowakow
 browser-history-before-web-era = Před dobu interneta
 browser-history-web-era = Doba interneta
