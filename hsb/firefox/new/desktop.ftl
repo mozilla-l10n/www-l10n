@@ -19,6 +19,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Samo nowši { -brand-name-firefox } je k dispoziciji. <a { $update_url }>Na najnowšu wersiju aktualizować</a>
 firefox-desktop-download-get-the-browser = Wobstarajće sej wobhladowak, kotryž škita, štož je wažne.
+firefox-desktop-download-fast-reliable-private = Spěšny, spušćomny a priwatny – za dušiny měr online.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Žane dwělomne prawidła priwatnosće abo zadnje durčki za wabjerjow. Jenož błyskospěšny wobhladowak, kotryž was njewobšudźa.
 firefox-desktop-download-download-options = Sćehnjenske móžnosće a druhe rěče

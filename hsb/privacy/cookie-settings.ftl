@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = Plackowe nastajenja
+cookie-settings-page-desc = Tuta strona rozdźělne typy plackow wopisuje, kotrež { -brand-name-mozilla } móže wužiwać a dawa wam kontrolu nad tym, do kotrych typow datow zwoliće, hdyž { -brand-name-mozilla } hromadźi.
 cookie-settings-breadcrumb-link = Předchadna strona
 cookie-settings-how-mozilla-heading = Kak { -brand-name-mozilla } placki wužiwa
 cookie-settings-how-does-mozilla-use-subheading = Kak { -brand-name-mozilla } tute daty wužiwa?
@@ -33,4 +34,5 @@ cookie-settings-category-analytics-what-are-subheading = Što su analyzowe plack
 ## Privacy section
 
 cookie-settings-privacy-heading = Naša zdźělenka priwatnosće
+cookie-settings-privacy-desc = Za podrobniše informacije wo rozdźělnych typach informacijow, kotrež { -brand-name-mozilla } hromadźi, hdyž naše websydła wopytujeće, namakaće deleka wotkaz na našu zdźělenku priwatnosće.
 cookie-settings-privacy-policy-link = Zdźělenka priwatnosće

@@ -60,6 +60,7 @@ m24-home-our-mission-is = Vores mission er at gøre det nemt for folk at bruge o
 # Used as an accessible text alternative for an image
 m24-home-alt-solo-ai-logo = { -brand-name-solo-ai }-logo
 m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Opret din hjemmeside og brug dit eget domæne helt gratis
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders

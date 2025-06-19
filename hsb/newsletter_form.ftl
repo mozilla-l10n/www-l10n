@@ -18,6 +18,8 @@ newsletter-form-join-the-community = Přidružće so zhromadźenstwu
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Sym z tym přezjedny, kak { -brand-name-mozilla } po <a href="{ $url }">tutych prawidłach priwatnosće</a> z mojimi informacijemi wobchadźa
+newsletter-form-we-will-only-send-v2 = Budźemy wam jenož { -brand-name-mozilla } poćahowane informacije słać. Móžeće kóždy čas wotskazać.
+newsletter-form-we-will-only-send-firefox-v2 = Budźemy wam jenož { -brand-name-firefox } poćahowane informacije słać. Móžeće kóždy čas wotskazać.
 newsletter-form-if-you-havent-previously = Jeli hišće njejsće abonement powěsćoweho lista { -brand-name-mozilla } wobkrućił, dyrbiće to nětko činić. Prošu hladajće do dochadneje e-mejle abo papjernika za e-mejlku wot nas.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Wy
 newsletter-form-get-firefox-tips = Wobstarajće sej pokiwy, triki, nowinki a wjace za { -brand-name-firefox }
