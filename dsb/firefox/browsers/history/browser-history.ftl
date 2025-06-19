@@ -30,6 +30,10 @@ browser-history-the-browser-wars = Wójny wobglědowakow
 # Variables:
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = Wót 1995 { -brand-name-netscape } Navigator njejo był jadnučka móžnosć, se online dostaś. Gigant za kompjuterowu software { -brand-name-microsoft } jo licencěrował stary kod Mosaic a jo wuwijał swójske wokno do weba, <a href="{ $ie }">{ -brand-name-ie }</a>. Wózjawjenje jo zapaliło wójnu. { -brand-name-netscape } a { -brand-name-microsoft }stej  hektiski źěłałej, aby nowe wersije swójeju programowu zgótowałej, kuždy jo wopytał, drugi z malsnymi, lěpšymi produktami pśetrjefiś.
+# Variables:
+#   $mozilla (url) - https://en.wikipedia.org/wiki/Mozilla
+#   $marketshare (url) - https://en.wikipedia.org/wiki/Internet_Explorer#Market_adoption_and_usage_share
+browser-history-then-microsoft-began = Pótom jo { -brand-name-microsoft } zachopił, { -brand-name-ie } ze swójim źěłowym systemom { -brand-name-windows } librowaś. W běgu 4 lět jo měł późěł 75 % na wikach a w lěśe 1999 późěl 99 % na wikach. Pśedewześe jo stojał pśez noc pśed kartelowym procesom a { -brand-name-netscape } jo rozsuźił, swój programowy kod za wótwórjone žrědło deklarěrowaś a jo załožył za wše wužytny <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, kótaryž jo dalej cynił a jo wózjawił { -brand-name-firefox } w lěśe 2002. Dokulaž su zrozměli, až monopol wobglědowaka njejo w nejlěpšych zajmach wužywarjow a wótwórjonego weba, jo se { -brand-name-firefox } napórał, aby wólba za webwužywarje był. W lěśe 2010 su { -brand-name-mozilla } { -brand-name-firefox } a druge <a href="{ $marketshare }">późěl { -brand-name-ie } na wikach na 50 % reducěrowali</a>.
 browser-history-other-competitors = Druge wuběźowarje su se pokazali kóńc 1990tych a 2000tych lět, mjazy nimi { -brand-name-opera }, { -brand-name-safari } a { -brand-name-google } { -brand-name-chrome }. { -brand-name-microsoft } { -brand-name-edge } jo narownał { -brand-name-ie } z wózjawjenim { -brand-name-windows } 10 w lěśe 2015.
 browser-history-browsing-the-web = Ako web źinsa pśeglědujomy
 browser-history-resources = Resurse
