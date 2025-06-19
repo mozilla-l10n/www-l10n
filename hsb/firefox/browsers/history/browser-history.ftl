@@ -33,6 +33,9 @@ browser-history-by-1995-netscape = Wot 1995 { -brand-name-netscape } Navigator j
 # Variables:
 #   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = { -brand-name-netscape } JavaScript wutwori a wozjewi, kotryž websydłam mócne ličenske kmanosće da, kotrež njemějachu ženje do toho. (Tež zlě wuwołana <a href="{ $blink }">značka &lt;blink&gt;</a> je so wutworiła.) { -brand-name-microsoft } z Cascading Style Sheets (CSS) konterowaše, kotrež su so k standardej za design webstronow wuwili.
+# Variables:
+#   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
+browser-history-things-got-a-little = Wěcy so w lěće 1997 trochu nimo kontrole dóstachu, hdyž { -brand-name-microsoft } { -brand-name-ie } 4.0 wozjewi. Team hoberski pismik „e“ wutwori a přesmyka jón na trawnik firmoweho sydła { -brand-name-netscape }. Team { -brand-name-netscape } hoberski „e“ promptnje wotstroni a <a href="{ $dino }">staji swójsku maskotku dinosawrija { -brand-name-mozilla } na njón.</a>
 browser-history-browsing-the-web = Kaž web dźensa přehladujemy
 browser-history-resources = Resursy
 browser-history-take-control-of = Přewzmiće kontrolu nad swojim wobhladowakom.
