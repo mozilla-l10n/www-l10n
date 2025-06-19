@@ -28,6 +28,7 @@ m24-about-we-uncover-insights = Vi afdækker nye indsigter, fører kampagner for
 m24-about-build = Produkter
 m24-about-we-build-products = Vi laver produkter, der sætter dig i førersædet — som { -brand-name-firefox }, { -brand-name-fakespot } med mere.
 m24-about-fund = Finansiering
+m24-about-we-fund-and = Vi støtter og investerer i mennesker og tiltag, der skubber den teknologiske udvikling, internettet og AI i den rigtige retning.
 
 ## News
 
