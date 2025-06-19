@@ -8,6 +8,7 @@
 cookie-settings-page-title = Plackowe nastajenja
 cookie-settings-page-desc = Tuta strona rozdźělne typy plackow wopisuje, kotrež { -brand-name-mozilla } móže wužiwać a dawa wam kontrolu nad tym, do kotrych typow datow zwoliće, hdyž { -brand-name-mozilla } hromadźi.
 cookie-settings-breadcrumb-link = Předchadna strona
+cookie-settings-explainer = Placki su małe dataje, kotrež informacije wobsahuja, kotrež su so na wašim ličaku abo graće składuja, hdyž websydło wopytujeće. { -brand-name-mozilla } placki wužiwa, zo bychu naše websydła fungowali a zo by informacije wo tym hromadźił, kak naše websydła wužiwaće a kak z nimi interagěrujeće, na přikład ze stronami, kotrež wopytujeće.
 cookie-settings-how-mozilla-heading = Kak { -brand-name-mozilla } placki wužiwa
 cookie-settings-how-does-mozilla-use-subheading = Kak { -brand-name-mozilla } tute daty wužiwa?
 cookie-settings-save-changes = Změny składować
