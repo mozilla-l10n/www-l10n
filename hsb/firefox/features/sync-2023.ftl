@@ -16,5 +16,6 @@ features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Registrujće s
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Wšě waše daty so na našich serwerach zaklučuja, zo njebychmy móhli je čitać – mamy jenož přistup k nim. Njepředawamy wabjerjam waše informacije, dokelž so to přećiwo našemu <a href="{ $privacy }">slubjenju datoweje priwatnosće</a> přešło.
 features-sync-send-tabs-from-one-device-to-another = Sćelće rajtarki wot jednoho grata do druheho
+features-sync-the-send-tab-feature-in-firefox = Funkcija Rajtark pósłać w { -brand-name-firefox } wam zmóžnja, strony z { -brand-name-firefox } na jednym graće na druhe graty (na přikład iPhone, iPad abo grat Android) słać. Sće nastawk namakał, mjeztym zo na swojim telefonje přehladujeće, kotryž chceće čitać, hdyž so k swojemu pisanskemu blidu wróćeće? Abo wažny dokument z dźěła, kotryž chceće składować, hdyž so domoj wróćeće? Sće snano recept na swojim laptopje namakał, kotryž chceće na swój tablet w kuchni słać. Sćelće tón rajtark!
 # Used as accessible alternative text for an image
 features-sync-an-image-of-a-firefox-application = Wobraz nałoženskeho menija { -brand-name-firefox }, kotryž nastajenje „Rajtark na grat pósłać“ wuzběhuje.

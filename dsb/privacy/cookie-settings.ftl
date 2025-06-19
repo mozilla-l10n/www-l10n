@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
 
 cookie-settings-page-title = Cookiejowe nastajenja
+cookie-settings-page-desc = Toś ten bok rozdźělne typy cookiejow wopisujo, kótarež { -brand-name-mozilla } móžo wužywaś a dawa wam kontrolu nad tym, do kótarych typow datow zwólijośo, gaž { -brand-name-mozilla } gromaźi.
 cookie-settings-breadcrumb-link = Pjerwjejšny bok
 cookie-settings-how-mozilla-heading = Ako { -brand-name-mozilla } cookieje wužywa
 cookie-settings-how-does-mozilla-use-subheading = Kak { -brand-name-mozilla } toś te daty wužywa?
