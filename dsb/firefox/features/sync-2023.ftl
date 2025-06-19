@@ -16,5 +16,6 @@ features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Registrěrujś
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
 features-sync-all-your-data-is-encrypted-on-our = Wšykne waše daty se na našych serwerach koděruju, až njeby my mógli je cytaś – mamy jano pśistup k nim. Njepśedawamy wabjarjam waše informacije, dokulaž se to pśeśiwo našomu <a href="{ $privacy }">zlubjenjeju datoweje priwatnosći</a> pśejšło.
 features-sync-send-tabs-from-one-device-to-another = Sćelśo rejtariki wót jadnogo rěda do drugego
+features-sync-the-send-tab-feature-in-firefox = Funkcija Rejtarik pósłaś w { -brand-name-firefox } wam zmóžnja, boki z { -brand-name-firefox } na jadnom rěźe na druge rědy (na pśikład iPhone, iPad abo rěd Android) słaś. Sćo namakał nastawk, mjaztym až na swójom telefonje pśeglědujośo, kótaryž cośo cytaś, gaž se k swójomu pisańskemu blidu wrośaśo? Abo wažny dokument ze źěła, kótaryž cośo składowaś, gaž se domoj wrośaśo? Sćo snaź namakał recept na swójom laptopje, kótaryž cośo na swój tablet w kuchni słaś. Sćelśo ten rejtarik!
 # Used as accessible alternative text for an image
 features-sync-an-image-of-a-firefox-application = Wobraz nałožeńskego menija { -brand-name-firefox }, kótaryž nastajenje „Rejtarik na rěd pósłaś“ wuzwigujo.
