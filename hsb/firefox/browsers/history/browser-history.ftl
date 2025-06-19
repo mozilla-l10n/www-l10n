@@ -36,6 +36,10 @@ browser-history-netscape-created = { -brand-name-netscape } JavaScript wutwori a
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
 browser-history-things-got-a-little = Wěcy so w lěće 1997 trochu nimo kontrole dóstachu, hdyž { -brand-name-microsoft } { -brand-name-ie } 4.0 wozjewi. Team hoberski pismik „e“ wutwori a přesmyka jón na trawnik firmoweho sydła { -brand-name-netscape }. Team { -brand-name-netscape } hoberski „e“ promptnje wotstroni a <a href="{ $dino }">staji swójsku maskotku dinosawrija { -brand-name-mozilla } na njón.</a>
+# Variables:
+#   $mozilla (url) - https://en.wikipedia.org/wiki/Mozilla
+#   $marketshare (url) - https://en.wikipedia.org/wiki/Internet_Explorer#Market_adoption_and_usage_share
+browser-history-then-microsoft-began = Potom započa { -brand-name-microsoft } { -brand-name-ie } ze swojim dźěłowym systemom { -brand-name-windows } dodawać. W běhu 4 lět měješe podźěł 75 % na wikach a w lěće 1999 měješe podźěl 99 % na wikach. Předewzaće na nóc njenadźicy před kartelowym jednanjom steješe a { -brand-name-netscape } rozsudźi, swój programowy kod za wotewrjene žórło deklarować a załoži  powšitkownosći wužitny <a href="{ $mozilla }">{ -brand-name-mozilla }</a>, kotryž dale činješe a { -brand-name-firefox } w lěće 2002 wozjewi. Dokelž zrozumichu, zo monopol wobhladowaka w najlěpšich zajimach wužiwarjow a wotewrjeneho weba njeje, je so { -brand-name-firefox } wutworił, zo by wólba za webwužiwarjow był. W lěće 2010 su { -brand-name-mozilla } { -brand-name-firefox } a druhe <a href="{ $marketshare }">podźěl { -brand-name-ie } na wikach na 50 % redukowali</a>.
 browser-history-other-competitors = Druzy wubědźowarjo su so kónc 1990tych a 2000tych lět wunurili, mjez nimi { -brand-name-opera }, { -brand-name-safari } a { -brand-name-google } { -brand-name-chrome }. { -brand-name-microsoft } { -brand-name-edge }  je { -brand-name-ie } z wozjewjenjom { -brand-name-windows } 10 w lěće 2015 narunał.
 browser-history-browsing-the-web = Kaž web dźensa přehladujemy
 browser-history-resources = Resursy
