@@ -12,6 +12,7 @@ set-as-default-landing-choose-the-browser = Wubjeŕśo wobglědowak, kótaryž w
 set-as-default-landing-thanks-for-using-the = Wjeliki źěk, až nejnowšy wobglědowak { -brand-name-firefox } wužywaśo. Gaž { -brand-name-firefox } wužywaśo, pódpěraśo lěpšy web za sebje a wšych drugich. Něnto móžośo se šćitaś.
 set-as-default-landing-make-sure-youre-protected = Źiwajśo na to, až sćo šćitany, kuždy raz, gaž do interneta źiśo
 set-as-default-landing-you-should-get = Wy dejał pšawo sobupowědanja měś, kak pśeglědujośo.
+set-as-default-landing-if-you-recently = Jolic sćo njedawno zaktualizěrował swój licak, su se snaź waše nastajenja změnili. Pódpěrajśo dermotny a wótwórjony internet kuždy raz, gaž z { -brand-name-firefox } online źośo.
 set-as-default-landing-choose-automatic-privacy = Awtomatisku priwatnosć wubraś
 set-as-default-landing-companies-keep-finding = Pśedewzesá pśecej zasej nowe móžnosći namakaju, aby waše wósobinske daty kšadnuł. { -brand-name-firefox } jo wobglědowak z misiju, kótaraž ma nowe móžnosći namakać, kótarež was šćitaju.
 set-as-default-landing-choose-freedom-on-every = Wólśo lichosć na kuždem rěźe
