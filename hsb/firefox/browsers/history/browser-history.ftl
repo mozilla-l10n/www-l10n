@@ -36,6 +36,7 @@ browser-history-netscape-created = { -brand-name-netscape } JavaScript wutwori a
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
 browser-history-things-got-a-little = Wěcy so w lěće 1997 trochu nimo kontrole dóstachu, hdyž { -brand-name-microsoft } { -brand-name-ie } 4.0 wozjewi. Team hoberski pismik „e“ wutwori a přesmyka jón na trawnik firmoweho sydła { -brand-name-netscape }. Team { -brand-name-netscape } hoberski „e“ promptnje wotstroni a <a href="{ $dino }">staji swójsku maskotku dinosawrija { -brand-name-mozilla } na njón.</a>
+browser-history-other-competitors = Druzy wubědźowarjo su so kónc 1990tych a 2000tych lět wunurili, mjez nimi { -brand-name-opera }, { -brand-name-safari } a { -brand-name-google } { -brand-name-chrome }. { -brand-name-microsoft } { -brand-name-edge } { -brand-name-ie } z wozjewjenjom { -brand-name-windows } 10 w lěće 2015 wuměni.
 browser-history-browsing-the-web = Kaž web dźensa přehladujemy
 browser-history-resources = Resursy
 browser-history-take-control-of = Přewzmiće kontrolu nad swojim wobhladowakom.

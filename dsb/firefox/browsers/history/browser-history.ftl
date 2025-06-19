@@ -30,6 +30,7 @@ browser-history-the-browser-wars = Wójny wobglědowakow
 # Variables:
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
 browser-history-by-1995-netscape = Wót 1995 { -brand-name-netscape } Navigator njejo był jadnučka móžnosć, se online dostaś. Gigant za kompjuterowu software { -brand-name-microsoft } jo licencěrował stary kod Mosaic a jo wuwijał swójske wokno do weba, <a href="{ $ie }">{ -brand-name-ie }</a>. Wózjawjenje jo zapaliło wójnu. { -brand-name-netscape } a { -brand-name-microsoft }stej  hektiski źěłałej, aby nowe wersije swójeju programowu zgótowałej, kuždy jo wopytał, drugi z malsnymi, lěpšymi produktami pśetrjefiś.
+browser-history-other-competitors = Druge wuběźowarje su se pokazali kóńc 1990tych a 2000tych lět, mjazy nimi { -brand-name-opera }, { -brand-name-safari } a { -brand-name-google } { -brand-name-chrome }. { -brand-name-microsoft } { -brand-name-edge } jo narownał { -brand-name-ie } z wózjawjenim { -brand-name-windows } 10 w lěśe 2015.
 browser-history-browsing-the-web = Ako web źinsa pśeglědujomy
 browser-history-resources = Resurse
 browser-history-take-control-of = Pśewzejśo kontrolu nad swójim wobglědowakom.
