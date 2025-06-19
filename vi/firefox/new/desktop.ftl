@@ -21,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Một phiên bản mới của { -brand-name-firefox } đã có sẵn. <a { $update_url }>Cập nhật lên phiên bản mới nhất</a>
 firefox-desktop-download-get-the-browser = Tải trình duyệt bảo vệ những gì quan trọng
 firefox-desktop-download-fast-reliable-private = Nhanh chóng, đáng tin cậy và riêng tư — để bạn yên tâm khi trực tuyến.
+firefox-desktop-set-as-default = Đặt { -brand-name-firefox } làm trình duyệt mặc định của bạn.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Không có chính sách bảo mật mờ ám hoặc cửa sau cho các nhà quảng cáo. Chỉ cần một trình duyệt nhanh như chớp mà không bán bất kỳ thứ gì của bạn.
 firefox-desktop-download-download-options = Tùy chọn tải xuống và các ngôn ngữ khác
