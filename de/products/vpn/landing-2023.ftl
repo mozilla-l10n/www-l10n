@@ -62,3 +62,6 @@ vpn-landing-what-is-an-ip-address = Was ist eine IP-Adresse?
 vpn-landing-how-your-location-is-tracked = So wird dein Standort verfolgt und das Teilen davon eingeschränkt
 vpn-landing-see-more-resources = Weitere Ressourcen anzeigen
 
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }
