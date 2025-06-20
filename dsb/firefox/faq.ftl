@@ -15,6 +15,7 @@ what-is-firefox = Co jo { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+the-firefox-browser-the-only = { -brand-name-firefox-browser }, jadnučki głowny wobglědowak, kótaryž se wót za wše wužytneje organizacije pódpěra, pomaga wam, waše wósobinske informacije šćitaś. Zgóńśo wěcej wó <a href="{ $url }">{ -brand-name-firefox-browsers }</a> a <a href="{ $url2 }">dalšnych produktach.</a>
 how-do-i = Kak mógu se { -brand-name-firefox-browser } wobstaraś?
 
 # Variables:
