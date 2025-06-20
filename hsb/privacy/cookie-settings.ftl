@@ -31,6 +31,7 @@ cookie-settings-category-preference-what-are-subheading = Što su placki nastaje
 
 cookie-settings-category-analytics-heading = Analytika
 cookie-settings-category-analytics-what-are-subheading = Što su analyzowe placki?
+cookie-settings-category-analytics-what-are-desc = Tute technologije informacije wo tym hromadźa, kak ludźo websydła wužiwaja, na přikład wopytane strony, wotkazy, na kotrež su kliknyli a z kotrych druhich websydłow wopyty pochadźeja.
 
 ## Privacy section
 

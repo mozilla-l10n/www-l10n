@@ -31,6 +31,7 @@ cookie-settings-category-preference-what-are-subheading = Co su cookieje nastaje
 
 cookie-settings-category-analytics-heading = Analytika
 cookie-settings-category-analytics-what-are-subheading = Co su analytiske cookieje?
+cookie-settings-category-analytics-what-are-desc = Toś te technologije informacije wó tom gromaźe, kak luźe websedła wužywaju, na pśikład woglědane boki, wótkaze, na kótarež su kliknuli a z kótarych drugich websedłow woglědy póchadaju.
 
 ## Privacy section
 
