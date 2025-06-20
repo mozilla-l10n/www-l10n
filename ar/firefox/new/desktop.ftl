@@ -24,6 +24,7 @@ firefox-desktop-download-get-the-browser = احصل على المُتصفح ال
 
 firefox-desktop-download-fast-reliable-private = سرعة واعتمادية وخصوصية — للاستمتاع براحة البال على الإنترنت.
 
+firefox-desktop-set-as-default = عيّن { -brand-name-firefox } كمتصفح افتراضي خاص بك.
 
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = لا نتبنى سياسات خصوصية مشبوهة أو أساليب مُلتوية للمُعلِنين. كما يَتميز المُتصفح بسرعته الفائقة وعدم بيع بياناتك أو التفريط فيها.
