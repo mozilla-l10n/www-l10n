@@ -9,6 +9,7 @@
 what-is-a-browser-what-is-a-web = Što je webwobhladowak?
 # HTML page description
 what-is-a-browser-a-web-browser = Webwobhladowak was wšudźe w interneće wjedźe a zmóžnja wam, sej wobrazy a wideja z cyłeho swěta wobhladać.
+what-is-a-browser-the-web-is-a-vast = Web je hoberski a mócny nastroj. W běhu někotrych lětdźesatkow je internet wašnje změnił, na kotrež dźěłamy, wašnje, na kotrež hrajemy a wašnje, na kotrež z druhimi interagěrujemy. Wotwisujo wot toho, kak so wužiwa, přemosća narody, wodźi wikowanje, wudźeržuje styki, ćěri motor inowacije přichoda a je zamołwity za wjace memow hač wěmy, štož mamy z nimi činić.
 what-is-a-browser-how-does-a-web = Kak webwobhladowak funguje?
 what-is-a-browser-cookies-not-the = Placki (nic te słódne jědźne)
 what-is-a-browser-when-you-go-to = Hdyž websydło wopytujeće a wono sej waše wužiwarske mjeno a hesło spomjatkuje – so to přez plack zmóžnja.
