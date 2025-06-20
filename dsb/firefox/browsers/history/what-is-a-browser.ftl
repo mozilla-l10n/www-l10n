@@ -9,6 +9,7 @@
 what-is-a-browser-what-is-a-web = Co jo webwobglědowak?
 # HTML page description
 what-is-a-browser-a-web-browser = Webwobglědowak was wšuźi w interneśe wjeźo a zmóžnja wam, se wobraze a wideo z cełego swěta woglědaś.
+what-is-a-browser-the-web-is-a-vast = Web jo wjelicki a mócny rěd. W běgu někotarych lětźasetkow jo internet nałog změnił, na kótaryž źěłamy, nałog, na kótaryž grajomy a nałog, na kótaryž z drugimi interagěrujomy. Wótwisujucy wót togo, kak se wužywa, pśemosćujo narody, wóźi wikowanje, wuźaržujo styki, góni motor inowacije pśichoda a jo zagronity za wěcej memow ako wěmy, což mamy z nimi cyniś.
 what-is-a-browser-how-does-a-web = Kak funkcioněrujo webwobglědowak?
 what-is-a-browser-cookies-not-the = Cookije (nic te słodne k jěźi)
 what-is-a-browser-when-you-go-to = Gaž se k websedłoju woglědujośo a wóno se wašo wužywaŕske mě a gronidło markujo – se to pśez cookie zmóžnja.
