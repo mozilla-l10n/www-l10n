@@ -24,6 +24,7 @@ firefox-desktop-download-get-the-browser = Dapatkan pelayar yang melindungi kepe
 
 firefox-desktop-download-fast-reliable-private = Pantas, boleh harap dan peribadi — demi kesejahteraan di atas talian.
 
+firefox-desktop-set-as-default = Tetapkan { -brand-name-firefox } sebagai pelayar lalai anda.
 
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Tiada lagi polisi yang mencurigakan atau pintu belakang bagi pengiklan. Yang ada hanya pelayar pantas yang tidak menjual maklumat anda.

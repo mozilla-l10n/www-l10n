@@ -60,3 +60,6 @@ vpn-landing-what-is-an-ip-address = Apa itu alamat IP?
 vpn-landing-how-your-location-is-tracked = Lokasi anda dijejaki dan cara untuk mengehadkan perkongsiannya
 vpn-landing-see-more-resources = Lihat sumber lain
 
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }
