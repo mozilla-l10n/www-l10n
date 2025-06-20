@@ -60,3 +60,6 @@ vpn-landing-what-is-an-ip-address = IP アドレスとは？
 vpn-landing-how-your-location-is-tracked = 位置情報が追跡される仕組みとその共有を制限する方法
 vpn-landing-see-more-resources = リソースをもっと見る
 
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }

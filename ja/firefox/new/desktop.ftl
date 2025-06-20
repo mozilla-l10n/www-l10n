@@ -24,6 +24,7 @@ firefox-desktop-download-get-the-browser = 大切なものを守るブラウザ�
 
 firefox-desktop-download-fast-reliable-private = 高速で信頼性が高く、プライベート — オンラインの安心を守ります。
 
+firefox-desktop-set-as-default = { -brand-name-firefox } を既定のブラウザーにする
 
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = 怪しいプライバシーポリシーや広告業者用のバックドアはありません。あなたの個人情報を売却しない高速ブラウザーです。
