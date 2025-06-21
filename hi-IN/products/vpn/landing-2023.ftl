@@ -62,3 +62,6 @@ vpn-landing-what-is-an-ip-address = आईपी एड्रेस क्या
 vpn-landing-how-your-location-is-tracked = आपकी लोकेशन कैसे ट्रैक की जाती है और आप इसे शेयर करना कैसे कम कर सकते हैं
 vpn-landing-see-more-resources = और अधिक संसाधन देखें
 
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }

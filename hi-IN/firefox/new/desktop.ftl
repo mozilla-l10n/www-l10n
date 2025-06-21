@@ -24,6 +24,7 @@ firefox-desktop-download-get-the-browser = ज़रूरी चीज़ों
 
 firefox-desktop-download-fast-reliable-private = तेज़, भरोसेमंद और गोपनीय — ऑनलाइन मानसिक सुकून के साथ।
 
+firefox-desktop-set-as-default = { -brand-name-firefox } को अपने डिफ़ॉल्ट ब्राउज़र के रूप में सेट करें।
 
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = कोई भी संदेहजनक निजता नीति नहीं है या विज्ञापनदाताओं के लिए कोई चोर-दरवाजा नहीं है। यह बस एक तेज़ ब्राउज़र है, जो आपका डेटा किसी को बेचता नहीं है।

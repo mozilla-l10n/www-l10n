@@ -70,3 +70,6 @@ vpn-landing-what-is-an-ip-address = ما هو عنوان IP؟
 vpn-landing-how-your-location-is-tracked = كيف يخضع موقعك للتعقُّب وكيف يمكنك الحد من مشاركته
 vpn-landing-see-more-resources = اطَّلِع على المزيد من الموارد
 
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }
