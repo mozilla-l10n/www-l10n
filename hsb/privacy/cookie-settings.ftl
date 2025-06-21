@@ -37,6 +37,7 @@ cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } plac
 cookie-settings-category-analytics-heading = Analytika
 cookie-settings-category-analytics-what-are-subheading = Što su analyzowe placki?
 cookie-settings-category-analytics-what-are-desc = Tute technologije informacije wo tym hromadźa, kak ludźo websydła wužiwaja, na přikład wopytane strony, wotkazy, na kotrež su kliknyli a z kotrych druhich websydłow wopyty pochadźeja.
+cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } analyzowe informacije wužiwa, zo by rozumił, kak wužiwarjo z našimi websydłami interagěruja, zo bychmy móhli je polěpšić a problemy rozrisali, kotrež nastawaja. Wužiwamy snano tež daty z plackow, gratowych informacijow a IP-adresow, zo bychu nam pomhali rozumić, kak so wužiwarjo do našich produktow, słužbow, komunikacijow, websydłow, kampanjow online, gratow a druhich platformow pušćeja. Budźemy jenož analyzowe informacije hromadźić a analyzowe placki jenož z wašim přizwolenjom stajeć.
 
 ## Privacy section
 
