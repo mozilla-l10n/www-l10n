@@ -27,6 +27,7 @@ cookie-settings-category-necessary-what-are-desc = Tute technologije su trěbne 
 
 cookie-settings-category-preference-heading = Nastajenje
 cookie-settings-category-preference-what-are-subheading = Što su placki nastajenjow?
+cookie-settings-category-preference-what-are-desc = Tute technologije so wužiwaja, zo bychu sej wólby spomjatkuja, kotrež sće za předchadny wopyt na websydle činił. Přikłady móhli być, w kotrej rěči chceće čitać abo waša najlubša barbna drasta.
 
 ## Analytics cookies section
 

@@ -27,6 +27,7 @@ cookie-settings-category-necessary-what-are-desc = Toś te technologije su trjeb
 
 cookie-settings-category-preference-heading = Nastajenje
 cookie-settings-category-preference-what-are-subheading = Co su cookieje nastajenjow?
+cookie-settings-category-preference-what-are-desc = Toś te technologije se wužywaju, aby se wólby markowali, kótarež sćo cynił za pjerwjejšny woglěd na websedle. Pśikłady mógli byś, w kótarej rěcy cośo cytaś abo waša nejlubša barwna drastwa.
 
 ## Analytics cookies section
 
