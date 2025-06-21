@@ -10,6 +10,9 @@ what-is-a-browser-what-is-a-web = Co jo webwobglědowak?
 # HTML page description
 what-is-a-browser-a-web-browser = Webwobglědowak was wšuźi w interneśe wjeźo a zmóžnja wam, se wobraze a wideo z cełego swěta woglědaś.
 what-is-a-browser-the-web-is-a-vast = Web jo wjelicki a mócny rěd. W běgu někotarych lětźasetkow jo internet nałog změnił, na kótaryž źěłamy, nałog, na kótaryž grajomy a nałog, na kótaryž z drugimi interagěrujomy. Wótwisujucy wót togo, kak se wužywa, pśemosćujo narody, wóźi wikowanje, wuźaržujo styki, góni motor inowacije pśichoda a jo zagronity za wěcej memow ako wěmy, což mamy z nimi cyniś.
+# Variables:
+#   $tools (url) - link to https://blog.mozilla.org/firefox/internet-search-engine-browser/
+what-is-a-browser-its-important = Jo wažnje, až kuždy ma pśistup k weboju, ale jo teke notnostne, až smy wše  <a href="{ $tools }">rědy rozmějomy</a>, kótarež wužywamy, aby my pśistup k njomu měli. Wužywamy webwobglědowaki ako { -brand-name-mozilla } { -brand-name-firefox }, { -brand-name-google } { -brand-name-chrome }, { -brand-name-microsoft } { -brand-name-edge } a { -brand-name-apple }{ -brand-name-safari } kuždy źeń, ale rozmějomy, což su a kak funkcioněruju?
 what-is-a-browser-how-does-a-web = Kak funkcioněrujo webwobglědowak?
 what-is-a-browser-cookies-not-the = Cookije (nic te słodne k jěźi)
 what-is-a-browser-when-you-go-to = Gaž se k websedłoju woglědujośo a wóno se wašo wužywaŕske mě a gronidło markujo – se to pśez cookie zmóžnja.
