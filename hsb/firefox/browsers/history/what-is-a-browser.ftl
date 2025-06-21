@@ -16,6 +16,7 @@ what-is-a-browser-its-important = Je wažnje, zo kóždy ma přistup k webej, al
 what-is-a-browser-in-a-short-period-long = W krótkim času smy po puću šli wot toho, zo smy so móžnosći dźiwali, zo so da mejlka na někoho w swěće słać, hač k změnje w tym, kak sej na informacije myslimy. Njeje prašenje, kelko hišće wjace wěsće, ale prosće prašenje, kotry wobhladowak abo kotre nałoženje móže wam te informacije najspěšnišo wobstarać.
 what-is-a-browser-in-a-short-period = W krótkim času smy po puću šli wot toho, zo smy so móžnosći dźiwali, zo so da mejlka na někoho w swěće słać, hač k změnje w tym, kak sej na informacije myslimy.
 what-is-a-browser-how-does-a-web = Kak webwobhladowak funguje?
+what-is-a-browser-a-web-browser-long = Webwobhladowak was wšudźe w interneće sobu bjerje. Wotwołuje informacije z druhich dźělow weba a pokazuje je na wašim desktopje abo mobilnym graće. Informacije so z pomocu Hypertext Transfer Protocol přenošuja, kotryž definuje, kak so maja tekst, wobrazy a wideja we webje přenošować. Tute informacije dyrbja so w konsistentnym formaće dźělić a pokazać, zo bychu ludźo, kotřiž wobhladowak wužiwaja, wšudźe w swěće móhli informacije widźeć.
 what-is-a-browser-cookies-not-the = Placki (nic te słódne jědźne)
 what-is-a-browser-when-you-go-to = Hdyž websydło wopytujeće a wono sej waše wužiwarske mjeno a hesło spomjatkuje – so to přez plack zmóžnja.
 what-is-a-browser-understanding = Priwatnosć rozumić
