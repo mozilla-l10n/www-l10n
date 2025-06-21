@@ -31,6 +31,7 @@ what-is-a-browser-cookies-not-the = Placki (nic te słódne jědźne)
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
 what-is-a-browser-websites-save = Websydła informacije wo was w datajach składuja, kotrež <a href="{ $cookies }">placki</a> rěkaja. Składuja so na wašim ličaku za přichodny raz, hdyž te sydło wopytujeće. Hdyž so wróćeće, budźe kod websydła tu dataju čitać, zo by widźał, hač to wy sće. Hdyž na přikład websydło wopytujeće, sej strona waše wužiwarske mjeno a hesło spomjatkuje – to je z plackom móžne.
+what-is-a-browser-there-are-also = Su tež placki, kotrež sej podrobniše informacije wo was spomjatkuja. Snano waše zajimy, waš mustry webpřehladowanja atd. To rěka, zo sydło móže wam na zaměr bóle wusměrjeny wobsah poskićić – husto w formje wabjenje. Su typy plackow, kotrež placki <em>třećeho poskićowarja</em> rěkaja, kotrež wot sydłow přińdu, kotrež runje  samo njewopytujeće móža wam wot sydła do sydła slědować, zo bychu informacije wo was hromadźili, kotrež so druhdy na druhe předewzaća předawaja. Druhdy móžeće tute typy plackow blokować, hačrunjež nic wšě wobhladowaki to zmóžnjeja.
 what-is-a-browser-when-you-go-to = Hdyž websydło wopytujeće a wono sej waše wužiwarske mjeno a hesło spomjatkuje – so to přez plack zmóžnja.
 what-is-a-browser-understanding = Priwatnosć rozumić
 what-is-a-browser-firefox-helps = { -brand-name-firefox } wam zmóžnja, přesćěhowakam při slědowanju po webje haćić, zo by wam pomhał, online wjace priwatny być.
