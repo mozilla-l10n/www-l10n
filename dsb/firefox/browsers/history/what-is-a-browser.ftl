@@ -31,6 +31,7 @@ what-is-a-browser-cookies-not-the = Cookije (nic te słodne k jěźi)
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
 what-is-a-browser-websites-save = Websedła informacije wó was w datajach składuju, kótarež se <a href="{ $cookies }">cookieje</a> gronje. Składuju se na wašom licadle za pśiducy raz, gaž se k tomu sedłoju woglědujośo. Gaž se wrośaśo, buźo kod websedła tu dataju cytaś, aby wiźeł, lěc to wy sćo. Gaž na pśikład se k websedłoju woglědujośo, se bok wašo wužywaŕske mě a gronidło markujo – to jo z cookiejom móžne.
+what-is-a-browser-there-are-also = Dajo teke cookieje, kótarež se pódrobnjejše informacije wó was markuju. Snaź waše zajmy, waše mustry webpśeglědowanja atd. To groni, až sedło móžo wam zaměrnjejše wopśimjeśe póbitowaś – cesto w formje wabjenja. Dajo typy plackow, kótarež se cookieje <em>tśeśego póbitowarja</em> gronje, kótarež wót sedłow pśidu, ku kótarymž se rowno  samo njewoglědujośo a mógu wam wót sedła do sedła slědowaś, aby informacije wó was gromaźili, kótarež se wótergi na druge pśedewześa pśedawaju. Wótergi móžośo toś te typy cookiejow blokěrowaś, lěcrownož nic wšykne wobglědowaki to zmóžnjaju.
 what-is-a-browser-when-you-go-to = Gaž se k websedłoju woglědujośo a wóno se wašo wužywaŕske mě a gronidło markujo – se to pśez cookie zmóžnja.
 what-is-a-browser-understanding = Priwatnosć rozměś
 what-is-a-browser-firefox-helps = { -brand-name-firefox } wam zmóžnja, pśeslědowakam slědowanje pó webje zawoboraś, aby wam pomagał, online wěcej priwatny byś.
