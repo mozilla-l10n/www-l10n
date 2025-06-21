@@ -20,6 +20,9 @@ what-is-a-browser-a-web-browser-long = Webwobglědowak was wšuźi w interneśe 
 # Variables:
 #   $standards (url) - link to https://developer.mozilla.org/docs/Archive/Web_Standards
 what-is-a-browser-sadly-not-all = Bóžko se nic wše zgótowarje wobglědowakow rozsuźuju, format na samski nałog interpretěrowaś. Za wužywarja to groni, až websedło móžo rozdźělnje wuglědaś a funkcioněrowaś. Napóranje konsistence mjazy wobglědowakami, aby kuždy wužywaŕ mógał internet wužywaś, njeźiwajucy na wobglědowak, za kótaryž se rozsuźujo, se <a href="{ $standards }">webstandardy</a> groni.
+# Variables:
+#   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
+what-is-a-browser-when-the-web-browser = Gaž webwobglědowak daty z interneta śěgnjo a jo ze serwerom zwězany, wužywa software z mjenim rendering engine, aby se daty do teksta a wobrazow pśełožowali. Toś te daty su w <a href="{ $html }">Hypertext Markup Language</a> (HTML) napisane a webwobglědowaki toś ten kod cytaju, aby to napórali, což w interneśe wiźimy, słyšymy a dožywjamy.
 what-is-a-browser-cookies-not-the = Cookije (nic te słodne k jěźi)
 what-is-a-browser-when-you-go-to = Gaž se k websedłoju woglědujośo a wóno se wašo wužywaŕske mě a gronidło markujo – se to pśez cookie zmóžnja.
 what-is-a-browser-understanding = Priwatnosć rozměś
