@@ -30,6 +30,7 @@ cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } tr
 cookie-settings-category-preference-heading = Nastajenje
 cookie-settings-category-preference-what-are-subheading = Što su placki nastajenjow?
 cookie-settings-category-preference-what-are-desc = Tute technologije so wužiwaja, zo bychu sej wólby spomjatkuja, kotrež sće za předchadny wopyt na websydle činił. Přikłady móhli być, w kotrej rěči chceće čitać abo waša najlubša barbna drasta.
+cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } placki preferencow wužiwa, zo by waše preferency wobkedźbował a waše dožiwjenje polěpšował, hdyž naše websydła wopytujeće. Njewužiwaja so za analytiske zaměry. Placki preferencow funkcije na podobne wašnje kaž trěbne placki podpěruja, ale websydło móže hišće bjez nich fungować. Móžeće tuž so rozsudźić, jich wužiwanje wotpokazać.
 
 ## Analytics cookies section
 

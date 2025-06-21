@@ -30,6 +30,7 @@ cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } tr
 cookie-settings-category-preference-heading = Nastajenje
 cookie-settings-category-preference-what-are-subheading = Co su cookieje nastajenjow?
 cookie-settings-category-preference-what-are-desc = Toś te technologije se wužywaju, aby se wólby markowali, kótarež sćo cynił za pjerwjejšny woglěd na websedle. Pśikłady mógli byś, w kótarej rěcy cośo cytaś abo waša nejlubša barwna drastwa.
+cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } cookieje preferencow wužywa, aby na waše preference źiwał a wašo dožywjenje pólěpšował, gaž se k našym websedłam woglědujośo. Njewužywaju se za analytiske zaměry. Cookieje preferencow funkcije na pódobny nałog ako trjebne cookieje pódpěraju, ale websedło móžo hyšći bźez nich funkcioněrowaś. Móžośo pótakem se rozsuźiś, jich wužywanje wótpokazaś.
 
 ## Analytics cookies section
 
