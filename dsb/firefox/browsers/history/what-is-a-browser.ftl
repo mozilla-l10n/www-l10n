@@ -28,6 +28,9 @@ what-is-a-browser-when-the-web-browser = Gaž webwobglědowak daty z interneta �
 #   $url(url) - link to https://wikipedia.org/wiki/URL
 what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Hyperwótkaze</a> wužywarjam zmóžnjaju, sćažce k drugim bokam abo sedłam we webje slědowaś. Kuždy webbok, kuždy wobraz a kužde wideo ma swójski jadnorazowy <a href="{ $url }">Uniform Resource Locator</a> (URL), kótaryž jo teke ako webadresa znaty. Gaž wobglědowak se k serweroju za daty woglědujo, webadresa wobglědowakoju k wěsći dawa, źož ma za kuždym elementom pytaś, kótaryž jo w html wopisany, což pón wobglědowakoju k wěsći dawa, kak se k webbokoju dostawa.
 what-is-a-browser-cookies-not-the = Cookije (nic te słodne k jěźi)
+# Variables:
+#   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
+what-is-a-browser-websites-save = Websedła informacije wó was w datajach składuju, kótarež se <a href="{ $cookies }">cookieje</a> gronje. Składuju se na wašom licadle za pśiducy raz, gaž se k tomu sedłoju woglědujośo. Gaž se wrośaśo, buźo kod websedła tu dataju cytaś, aby wiźeł, lěc to wy sćo. Gaž na pśikład se k websedłoju woglědujośo, se bok wašo wužywaŕske mě a gronidło markujo – to jo z cookiejom móžne.
 what-is-a-browser-when-you-go-to = Gaž se k websedłoju woglědujośo a wóno se wašo wužywaŕske mě a gronidło markujo – se to pśez cookie zmóžnja.
 what-is-a-browser-understanding = Priwatnosć rozměś
 what-is-a-browser-firefox-helps = { -brand-name-firefox } wam zmóžnja, pśeslědowakam slědowanje pó webje zawoboraś, aby wam pomagał, online wěcej priwatny byś.

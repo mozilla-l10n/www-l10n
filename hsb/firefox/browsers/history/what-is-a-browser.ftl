@@ -28,6 +28,9 @@ what-is-a-browser-when-the-web-browser = Hdyž webwobhladowak daty z interneta �
 #   $url(url) - link to https://wikipedia.org/wiki/URL
 what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Hyperwotkazy</a> wužiwarjam zmóžnjeja, šćežce k druhim stronam abo sydłam we webje slědować. Kóžda webstrona, kóždy wobraz a kóžde widejo ma swójski jónkróćny <a href="{ $url }">Uniform Resource Locator</a> (URL), kotryž je tež jako webadresa znaty. Hdyž wobhladowak serwer za daty wopytuje, webadresa wobhladowakej zdźěla, hdźež ma za kóždym elementom pytać, kotryž je w html wopisany, štož potom wobhladowakej zdźěli, kak so k webstronje dóstawa.
 what-is-a-browser-cookies-not-the = Placki (nic te słódne jědźne)
+# Variables:
+#   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
+what-is-a-browser-websites-save = Websydła informacije wo was w datajach składuja, kotrež <a href="{ $cookies }">placki</a> rěkaja. Składuja so na wašim ličaku za přichodny raz, hdyž te sydło wopytujeće. Hdyž so wróćeće, budźe kod websydła tu dataju čitać, zo by widźał, hač to wy sće. Hdyž na přikład websydło wopytujeće, sej strona waše wužiwarske mjeno a hesło spomjatkuje – to je z plackom móžne.
 what-is-a-browser-when-you-go-to = Hdyž websydło wopytujeće a wono sej waše wužiwarske mjeno a hesło spomjatkuje – so to přez plack zmóžnja.
 what-is-a-browser-understanding = Priwatnosć rozumić
 what-is-a-browser-firefox-helps = { -brand-name-firefox } wam zmóžnja, přesćěhowakam při slědowanju po webje haćić, zo by wam pomhał, online wjace priwatny być.
