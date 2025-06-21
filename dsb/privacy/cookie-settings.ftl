@@ -37,6 +37,7 @@ cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } cook
 cookie-settings-category-analytics-heading = Analytika
 cookie-settings-category-analytics-what-are-subheading = Co su analytiske cookieje?
 cookie-settings-category-analytics-what-are-desc = Toś te technologije informacije wó tom gromaźe, kak luźe websedła wužywaju, na pśikład woglědane boki, wótkaze, na kótarež su kliknuli a z kótarych drugich websedłow woglědy póchadaju.
+cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } informacije analyzow wužywa, aby rozměł, kak wužywarje z našymi websedłami interagěruju, aby my mógli je pólěpšyś a problemy rozwězali, kótarež nastawaju. Wužywamy snaź teke daty z cookiejow, rědowych informacijow a IP-adresow, aby nam pomagali rozměś, kak se wužywarje do našych produktow, słužbow, komunikacijow, websedłow, kampanjow online, rědow a drugich platformow daju. Buźomy jano informacije analyzow gromaźiś a cookieje analyzow jano z wašym pśizwólenim stajaś.
 
 ## Privacy section
 
