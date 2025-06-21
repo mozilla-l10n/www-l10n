@@ -9,6 +9,7 @@ cookie-settings-page-title = Cookiejowe nastajenja
 cookie-settings-page-desc = Toś ten bok rozdźělne typy cookiejow wopisujo, kótarež { -brand-name-mozilla } móžo wužywaś a dawa wam kontrolu nad tym, do kótarych typow datow zwólijośo, gaž { -brand-name-mozilla } gromaźi.
 cookie-settings-breadcrumb-link = Pjerwjejšny bok
 cookie-settings-explainer = Cookieje su małe dataje, kótarež informacije wopśimuju, kótarež se na wašom licaku abo rěźe składuju, gaž se k websedłoju woglědujośo. { -brand-name-mozilla } cookieje wužywa, aby naše websedła funkcioněrowali a aby informacije wó tom gromaźił, kak naše websedła wužywaśo a kak z nimi interagěrujośo, na pśikład z bokami, ku kótarymž se woglědujośo.
+cookie-settings-page-intro-v2 = Tiś ten bok rozdźělne typy cookiejow a pódobne technologije ako pikselowe wobznamjenja, webbaki, transparentne GIF, JavaScript a lokalny skład (dalej „cookieje“) wopisujo, kótarež { -brand-name-mozilla } snaź wužywa, dajo wam kontrolu nad tym, do kótarych typow datow zwólijośo, gaž { -brand-name-mozilla } gromaźi.
 cookie-settings-how-mozilla-heading = Ako { -brand-name-mozilla } cookieje wužywa
 cookie-settings-how-does-mozilla-use-subheading = Kak { -brand-name-mozilla } toś te daty wužywa?
 cookie-settings-save-changes = Změny składowaś

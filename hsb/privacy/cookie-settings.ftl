@@ -9,6 +9,7 @@ cookie-settings-page-title = Plackowe nastajenja
 cookie-settings-page-desc = Tuta strona rozdźělne typy plackow wopisuje, kotrež { -brand-name-mozilla } móže wužiwać a dawa wam kontrolu nad tym, do kotrych typow datow zwoliće, hdyž { -brand-name-mozilla } hromadźi.
 cookie-settings-breadcrumb-link = Předchadna strona
 cookie-settings-explainer = Placki su małe dataje, kotrež informacije wobsahuja, kotrež su so na wašim ličaku abo graće składuja, hdyž websydło wopytujeće. { -brand-name-mozilla } placki wužiwa, zo bychu naše websydła fungowali a zo by informacije wo tym hromadźił, kak naše websydła wužiwaće a kak z nimi interagěrujeće, na přikład ze stronami, kotrež wopytujeće.
+cookie-settings-page-intro-v2 = Tuta strona rozdźělne typy plackow a podobne technologije kaž pikselowe znački, webbaki, transparentne GIF, JavaScript a lokalny skład (dale „placki“) wopisuje, kotrež { -brand-name-mozilla } snano wužiwa, da wam kontrolu nad tym, do kotrych typow datow zwoliće, hdyž { -brand-name-mozilla } hromadźi.
 cookie-settings-how-mozilla-heading = Kak { -brand-name-mozilla } placki wužiwa
 cookie-settings-how-does-mozilla-use-subheading = Kak { -brand-name-mozilla } tute daty wužiwa?
 cookie-settings-save-changes = Změny składować
@@ -22,6 +23,7 @@ cookie-settings-turn-on-javascript = Prošu zmóžńće JavaScript, zo byšće s
 cookie-settings-category-necessary-heading = Trěbny
 cookie-settings-category-necessary-what-are-subheading = Što su trěbne placki?
 cookie-settings-category-necessary-what-are-desc = Tute technologije su trěbne za podpěru zakładnych funkcijow websydła, na přikład za přizjewjenje pola wěsteho wobłuka websydła abo za přidawanje artiklow do nakupowanskeho koša a njedadźa so znjemóžnić.
+cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } trěbne placki jenož wužiwa, zo by zakładne funkcije websydła skićił, na přikład přizjewjenje z wašim kontom { -brand-name-mozilla-account } abo kupowanje softwaroweho abonementa při wotzjewjenju. Bjez tutych technologijow snano zakładne funkcije websydła fungowali njebychu.
 
 ## Preference cookies section
 
