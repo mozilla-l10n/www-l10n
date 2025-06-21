@@ -23,6 +23,10 @@ what-is-a-browser-sadly-not-all = Bohužel so nic wšě zhotowjerjo wobhladowako
 # Variables:
 #   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
 what-is-a-browser-when-the-web-browser = Hdyž webwobhladowak daty z interneta ćehnje a je ze serwerom zwjazany, wužiwa software z mjenom rendering engine, zo bychu so daty do teksta a wobrazow přełožowali. Tute daty su w <a href="{ $html }">Hypertext Markup Language</a> (HTML) napisane a webwobhladowaki tutón kod čitaja, zo bychu to wutworili, štož w interneće widźimy, słyšimy a dožiwjamy.
+# Variables:
+#   $hyperlink (url) - link to https://developer.mozilla.org/docs/Glossary/Hyperlink
+#   $url(url) - link to https://wikipedia.org/wiki/URL
+what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Hyperwotkazy</a> wužiwarjam zmóžnjeja, šćežce k druhim stronam abo sydłam we webje slědować. Kóžda webstrona, kóždy wobraz a kóžde widejo ma swójski jónkróćny <a href="{ $url }">Uniform Resource Locator</a> (URL), kotryž je tež jako webadresa znaty. Hdyž wobhladowak serwer za daty wopytuje, webadresa wobhladowakej zdźěla, hdźež ma za kóždym elementom pytać, kotryž je w html wopisany, štož potom wobhladowakej zdźěli, kak so k webstronje dóstawa.
 what-is-a-browser-cookies-not-the = Placki (nic te słódne jědźne)
 what-is-a-browser-when-you-go-to = Hdyž websydło wopytujeće a wono sej waše wužiwarske mjeno a hesło spomjatkuje – so to přez plack zmóžnja.
 what-is-a-browser-understanding = Priwatnosć rozumić
