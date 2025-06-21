@@ -21,6 +21,7 @@ cookie-settings-turn-on-javascript = Prošu zmóžńće JavaScript, zo byšće s
 
 cookie-settings-category-necessary-heading = Trěbny
 cookie-settings-category-necessary-what-are-subheading = Što su trěbne placki?
+cookie-settings-category-necessary-what-are-desc = Tute technologije su trěbne za podpěru zakładnych funkcijow websydła, na přikład za přizjewjenje pola wěsteho wobłuka websydła abo za přidawanje artiklow do nakupowanskeho koša a njedadźa so znjemóžnić.
 
 ## Preference cookies section
 
