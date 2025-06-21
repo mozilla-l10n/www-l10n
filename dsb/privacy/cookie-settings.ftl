@@ -23,6 +23,7 @@ cookie-settings-turn-on-javascript = Pšosym zmóžniśo JavaScript, aby swóje 
 cookie-settings-category-necessary-heading = Trjebny
 cookie-settings-category-necessary-what-are-subheading = Co su trjebne cookieje?
 cookie-settings-category-necessary-what-are-desc = Toś te technologije su trjebne za pódpěru zakładnych funkcijow websedła, na pśikład za pśizjawjenje pla wěstego wobceŕka websedła abo za pśidawanje artiklow do nakupowańskego kórbika a njedaju se znjemóžniś.
+cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } trjebne cookieje jano wužywa, aby zakładne funkcije websedła bitował, na pśikład pśizjawjenje z wašym kontom { -brand-name-mozilla-account } abo kupowanje softwarowego abonementa pśi wótzjawjenju. Bźez toś tych technologijow snaź njeby funkcioněrowali zakładne funkcije websedła.
 
 ## Preference cookies section
 
