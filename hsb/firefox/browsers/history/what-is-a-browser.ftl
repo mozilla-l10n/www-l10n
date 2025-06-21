@@ -13,6 +13,8 @@ what-is-a-browser-the-web-is-a-vast = Web je hoberski a mócny nastroj. W běhu 
 # Variables:
 #   $tools (url) - link to https://blog.mozilla.org/firefox/internet-search-engine-browser/
 what-is-a-browser-its-important = Je wažnje, zo kóždy ma přistup k webej, ale je tež njewuměnite, zo smy wšitcy  <a href="{ $tools }">nastroje rozumimy</a>, kotrež wužiwamy, zo bychmy přistup k njemu měli. Wužiwamy webwobhladowaki kaž { -brand-name-mozilla } { -brand-name-firefox }, { -brand-name-google } { -brand-name-chrome }, { -brand-name-microsoft } { -brand-name-edge } a { -brand-name-apple }{ -brand-name-safari } kóždy dźeń, ale rozumimy, štož su a kak funguja?
+what-is-a-browser-in-a-short-period-long = W krótkim času smy po puću šli wot toho, zo smy so móžnosći dźiwali, zo so da mejlka na někoho w swěće słać, hač k změnje w tym, kak sej na informacije myslimy. Njeje prašenje, kelko hišće wjace wěsće, ale prosće prašenje, kotry wobhladowak abo kotre nałoženje móže wam te informacije najspěšnišo wobstarać.
+what-is-a-browser-in-a-short-period = W krótkim času smy po puću šli wot toho, zo smy so móžnosći dźiwali, zo so da mejlka na někoho w swěće słać, hač k změnje w tym, kak sej na informacije myslimy.
 what-is-a-browser-how-does-a-web = Kak webwobhladowak funguje?
 what-is-a-browser-cookies-not-the = Placki (nic te słódne jědźne)
 what-is-a-browser-when-you-go-to = Hdyž websydło wopytujeće a wono sej waše wužiwarske mjeno a hesło spomjatkuje – so to přez plack zmóžnja.
