@@ -7,6 +7,10 @@
 
 about-this-site-title = Дар бораи ин сомона
 about-this-site-desc = Маълумот дар бораи сомонаи www.mozilla.org ва абзорҳои манбаи кушод, ки барои сохтани сомонаи мо истифода мешаванд.
+# Variables:
+#   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
+#   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
+about-this-site-this-website = Сомонаи www.mozilla.org зиёда аз бист сол боз дар фазои Интернет фаъол аст. Яъне, аз замони <a href="{ $archive }">давраи динозаврҳо</a>, агар аз лаҳзаҳои нахустини рушди Интернет ҳисоб кунем. Аз ҳамин ҷост, ки www.mozilla.org яке аз пояҳои асосии Интернет маҳсуб меёбад, ки реша дар ҳаракати рамзи манбаи кушода дошта, шоҳиди <a href="{ $coderush }">таъсиси «{ -brand-name-mozilla }»</a> мебошад.
 about-this-site-like-many = Ин сомона ба мисли бисёре аз маҳсулоти мо, низ дар манбаи кушод асос меёбад:
 about-this-site-view-source = Дидани рамзи манбаъ дар «{ -brand-name-github }»
 about-this-site-report-a-bug = Фиристодани гузориш дар бораи хато
