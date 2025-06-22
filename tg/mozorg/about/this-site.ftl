@@ -11,6 +11,13 @@ about-this-site-desc = Маълумот дар бораи сомонаи www.moz
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 about-this-site-this-website = Сомонаи www.mozilla.org зиёда аз бист сол боз дар фазои Интернет фаъол аст. Яъне, аз замони <a href="{ $archive }">давраи динозаврҳо</a>, агар аз лаҳзаҳои нахустини рушди Интернет ҳисоб кунем. Аз ҳамин ҷост, ки www.mozilla.org яке аз пояҳои асосии Интернет маҳсуб меёбад, ки реша дар ҳаракати рамзи манбаи кушода дошта, шоҳиди <a href="{ $coderush }">таъсиси «{ -brand-name-mozilla }»</a> мебошад.
+# Variables:
+#   $firefox (url) link to https://www.mozilla.org/firefox/new/
+#   $vpn (url) link to https://www.mozilla.org/products/vpn/
+#   $mozilla (url) link to https://www.mozilla.org/about/
+#   $book (url) link to https://www.mozilla.org/book/
+#   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+about-this-site-today = Имрӯз, сомонаи www.mozilla.org ҷойест, ки одамон барои боргирӣ ва насб кардани браузери маъруфи <a href="{ $firefox }">«{ -brand-name-firefox }»</a>, санҷидани хидмати <a href="{ $vpn }">«{ -brand-name-mozilla-vpn }»</a> ва шиносоӣ <a href="{ $mozilla }">бо таърих ва мақсадҳои «{ -brand-name-mozilla }»</a> ба он муроҷиат мекунанд. Дар баробари ин, мумкин аст, ки ҳангоми сайругашт якчанд <a href="{ $book }">сирру кашфиёти пинҳонӣ</a> низ ба чашматон мерасанд!
 about-this-site-like-many = Ин сомона ба мисли бисёре аз маҳсулоти мо, низ дар манбаи кушод асос меёбад:
 about-this-site-view-source = Дидани рамзи манбаъ дар «{ -brand-name-github }»
 about-this-site-report-a-bug = Фиристодани гузориш дар бораи хато
