@@ -21,6 +21,9 @@
 -brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
 -brand-name-wireguard = WireGuard
+-brand-name-linkedin = LinkedIn
+-brand-name-tiktok = TikTok
+-brand-name-spotify = Spotify
 
 ## Firefox browsers
 
@@ -55,6 +58,7 @@
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-translations = Firefox Translations
 
 ## Firefox products (short names)
 
@@ -71,6 +75,7 @@
 
 ## Firefox projects
 
+-brand-name-firefox-labs = Firefox Labs
 
 ## Pocket
 
@@ -78,16 +83,32 @@
 
 ## Fakespot
 
+-brand-name-fakespot = Fakespot
 
 ## Anonym
 
+-brand-name-anonym = Anonym
 
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
+-brand-name-gecko = Gecko
+-brand-name-glean = Glean
+-brand-name-irl-podcast = IRL-podcast
+-brand-name-solo-ai = Solo AI
+-brand-name-lumigator = Lumigator
+-brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-festival = Mozilla Festival
+-brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
+-brand-name-mozilla-account = Mozilla-konto
+-brand-name-mozilla-accounts = Mozilla-kontoer
+-brand-name-mozilla-builders = Mozilla Builders
+-brand-name-builders = Builders
+-brand-name-mozilla-ai-v2 = Mozilla.ai
+-brand-name-mozilla-ventures = Mozilla Ventures
+-brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)

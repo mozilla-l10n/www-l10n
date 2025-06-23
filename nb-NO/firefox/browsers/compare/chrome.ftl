@@ -5,3 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
 
+# Page title
+compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } mot Google Chrome

@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+error-page-mozilla = { -brand-name-mozilla }
+error-page-firefox = { -brand-name-firefox }
 error-page-error-page-internal-server-error = 500: Intern serverfeil
 error-page-something-went-wrong = Noe gikk galt
 error-page-its-probably-just-a-server-error = Det er sannsynligvis bare en serverfeil, og vi jobber med å fikse det.
