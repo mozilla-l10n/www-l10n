@@ -26,4 +26,7 @@ nightly-whatsnew-if-you-want-to-v3 = Агар шумо мехоҳед, ки аз
 # Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v3 = Шумо мехоҳед фаҳмед, ки кадом хусусиятҳои платформа фақат барои озмоиш дар «{ -brand-name-nightly }» дастрасанд ва то ҳол дар шабакаҳои дигари «{ -brand-name-firefox }» дастрас нестанд? Пас ба саҳифаи хусусиятҳои <a { $attrs }>«{ -brand-name-firefox-labs }»</a> ворид шавед ва навгониҳоро омӯзед.
+# Variables:
+#   $bugzilla (url) - link to https://bugzilla.mozilla.org/
+nightly-whatsnew-do-you-experience = Бо садамаҳо рӯ ба рӯ мешавед? Рафтори ғайричашмдоштро мушоҳида мекунед? Ё мушкилоти мутобиқати саҳифвҳои сомона? Мо хеле миннатдор мешавем, агар шумо дар бораи ҳамаи ин мушкилиҳо тавассути <a href="{ $bugzilla }">«{ -brand-name-bugzilla }»</a> гузориш диҳед, то мо пешгирӣ кунем, ки онҳо ба версияи ниҳоӣ роҳ наёбанд (агар калимаи калидии «<em>{ -brand-name-nightly }-community</em>»-ро низ илова кунед, савоби иловагӣ ба даст меоред!).
 nightly-whatsnew-go-community = Ҷамъият ба пеш!
