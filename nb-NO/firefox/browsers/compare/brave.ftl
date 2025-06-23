@@ -5,3 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/brave/
 
+# Page title
+compare-brave-firefox-vs-brave = { -brand-name-firefox } mot Brave
+# HTML page description
+compare-brave-read-our-comparison = Les sammenligningen vår av nettleseren { -brand-name-firefox } og Brave om funksjoner, personvern og brukervennlighet.
