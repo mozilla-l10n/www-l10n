@@ -32,4 +32,6 @@ features-adblocker-beyond-ad-blockers = Além dos bloqueadores de anúncios, o {
 features-adblocker-tool-1 = <strong>Modo normal:</strong> Uma opção equilibrada que bloqueia rastreadores comuns enquanto mantém funcionalidades fluidas de sites.
 features-adblocker-tool-2 = <strong>Modo rigoroso:</strong> Ideal para quem quer proteção de privacidade mais forte, bloqueando mais rastreadores e cookies. Note que neste modo alguns sites podem precisar de ajustes.
 features-adblocker-tool-3 = <strong>Modo personalizado:</strong> Para quem quer controle total, o modo personalizado permite selecionar o que bloquear, cookies, rastreadores e muito mais.
+features-adblocker-to-adjust = Para ajustar essas configurações, clique no ícone de escudo à esquerda da barra de endereços em qualquer página da web e selecione “Configuração de proteção”. É aberto um menu onde você pode escolher o nível de proteção mais adequado para você.
 features-adblocker-why-use = Por que usar um bloqueador de anúncios?
+features-adblocker-ad-blockers-do-more = Os bloqueadores de anúncios fazem mais do que gerenciar anúncios, podem aumentar a velocidade e segurança de navegação, ao reduzir conteúdo desnecessário. Com eles você pode criar uma experiência na web sob medida, sem distrações, permitindo se concentrar no que mais importa.

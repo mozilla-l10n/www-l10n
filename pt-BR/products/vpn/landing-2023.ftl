@@ -41,6 +41,7 @@ vpn-landing-fast-network-speeds-even-while = Velocidades rápidas de rede, mesmo
 vpn-landing-no-logging-tracking-or-sharing = Sem registro, rastreamento ou compartilhamento de dados de rede
 vpn-landing-no-bandwidth-restrictions-or = Sem restrições ou limitação de largura de banda
 vpn-landing-extra-security-whole-device = Segurança extra: proteção do dispositivo todo, roteamento em saltos múltiplos e muito mais
+vpn-landing-built-transparently = Desenvolvido de forma transparente em código aberto
 vpn-landing-see-all-features = Veja todos os recursos
 vpn-landing-fram-a-brand-you-can-trust = De uma marca em que você pode confiar
 vpn-landing-mozilla-is-a-non-profit-backed = A { -brand-name-mozilla } é uma empresa de internet respaldada por uma entidade sem fins lucrativos, que luta por uma web saudável desde 1998.

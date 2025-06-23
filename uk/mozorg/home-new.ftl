@@ -21,14 +21,21 @@ home-product-relay-hide-your = Приховайте свій номер теле
 home-cta-get-relay = Отримати { -brand-name-relay }
 home-product-vpn-trust = VPN, якій можна довіряти
 home-cta-get-vpn = Отримати { -brand-name-mozilla-vpn }
+home-product-monitor-protect-your = Захистіть свою особисту інформацію від обробників даних
 home-cta-get-monitor = Отримати { -brand-name-monitor }
 home-product-fakespot-detect = Виявляйте підроблені відгуки про покупки
 home-cta-get-fakespot = Отримати { -brand-name-fakespot }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } робить ставки, щоб показати світові, що бізнес можна розвивати за допомогою довіреного штучного інтелекту. Це включає такі речі, як права людини, захист даних і прозорість, як основу роботи цих складних систем.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-join-us-in-shaping = Приєднуйтесь до нас для створення довіреного ШІ
+home-work-on-ai = Робота { -brand-name-mozilla } із штучним інтелектом – це не просто щось нове. Протягом років ми фінансували, створювали й пропагували відкритий, прозорий ШІ, розроблений відповідально. Ми зосереджені на створенні ШІ, який служить людям, надає пріоритет прозорості та підтримує суспільне благо, а не корпоративні плани.
 home-read-more = Докладніше
 home-so-what-is-mozilla = Отже, що таке { -brand-name-mozilla }?
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core-v2 = За своєю суттю { -brand-name-mozilla } є активістською організацією під керівництвом { -brand-name-mozilla-foundation }, яка змінює світ за допомогою різноманітних ініціатив, зокрема { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> і <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a>. Чим ми вирізняємось? Оскільки ми покладаємося на нашу місію, це означає, що ми вільні приймати всі рішення, керуючись тим, що найкраще для Інтернету й усіх користувачів, а не вимогами акціонерів, яких насправді в нас немає.
 home-learn-about-mofo = Докладніше про { -brand-name-mozilla-foundation }
 home-join-the-fight = Приєднуйтесь до боротьби за здоровий інтернет
 home-your-voice-your-code = Ваш голос. Ваш код. Ваші ідеї. Є безліч способів зробити свій внесок на користь { -brand-name-mozilla }.
@@ -42,3 +49,7 @@ home-learn-more-about-mozilla = Дізнатися більше про { -brand-
 home-featured-product = Рекомендований продукт
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
 home-feature-blur-your-location = Приховайте своє розташування та діяльність за допомогою <span>{ -brand-name-mozilla-vpn }</span>
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Розвивайте наш рух
+home-mofo-donate-to-mofo-today = Зробіть внесок для { -brand-name-mozilla-foundation } сьогодні, щоб Інтернет залишався відкритим і доступним для всіх.
+home-mofo-donate = Зробити внесок

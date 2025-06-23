@@ -20,4 +20,5 @@ privacy-faq-v2-we-work-to = Trabalhamos para colocar as pessoas no controle de s
 
 ## FAQ
 
+privacy-faq-v2-i-use-firefox = Uso o { -brand-name-firefox } para quase tudo na web. Vocês da { -brand-name-mozilla } devem ter uma tonelada de informações sobre mim, não é?
 privacy-faq-v2-data-collection-bugs-me = A coleta de dados ainda me incomoda. Posso desativar?
