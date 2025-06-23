@@ -43,7 +43,7 @@ m24-home-mask-your-email = Mascare o seu e-mail e número de telefone para que r
 ## Donate
 
 m24-home-donate-to-the = Faça donativos à { -brand-name-mozilla }, uma organização sem fins lucrativos
-m24-home-mozilla-is-building = A { -brand-name-mozilla } está a construir um movimento para recuperar a Internet. Juntos podemos construir um futuro onde a nossa privacidade está protegida, a IA é confiável e as empresas de tecnologia irresponsáveis são responsabilizadas. Mas isto só é possível se o fizermos juntos.
+m24-home-mozilla-is-building = A { -brand-name-mozilla } está a criar um movimento para reclamar a Internet. Juntos, nós podemos criar um futuro onde a nossa privacidade esteja protegida, a IA seja confiável e as empresas de tecnologia irresponsáveis sejam  responsabilizadas. Mas isto só é possível se nós o fizermos juntos.
 m24-home-were-proudly-nonprofit = Temos orgulho de ser uma organização sem fins lucrativos. Vai fazer um donativo para a { -brand-name-mozilla } hoje?
 m24-home-donate = Doar
 
@@ -60,7 +60,7 @@ m24-home-our-mission-is = A nossa missão é tornar mais fácil para as pessoas 
 # Used as an accessible text alternative for an image
 m24-home-alt-solo-ai-logo = Logótipo de { -brand-name-solo-ai }
 m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Crie o seu website e ligue o seu domínio personalizado gratuitamente
+m24-home-create-your-website = Crie o seu site e associe o seu domínio personalizado gratuitamente
 m24-home-alt-builders = Criadores
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = Criadores da { -brand-name-mozilla }
