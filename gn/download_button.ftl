@@ -41,3 +41,7 @@ download-button-linux-64-v2 = Emboguejy Linux-pe g̃uarã 64-bit
 download-button-using-debian = ¿Eiporuhína Debian, Ubuntu térã oñemyasãiva Debian rupive?<br> Avei embohekokuaa ore <a { $attrs }>APT ñeñongatuha</a>.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Egueru Microsoft guive
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = Emombe’u mba’éicha ejuhu { -brand-name-firefox } ha mba’éicha eiporu { -brand-name-mozilla } irũnguéra marketing-gua ndive. Ko’ã mba’ekuaarã noñevendéi ha ndojeporúi ojehechauka hag̃ua marandu ñemurã. <a { $attrs }>Eikuaa mba’éichapa roiporu mba’ekuaarã</a>.

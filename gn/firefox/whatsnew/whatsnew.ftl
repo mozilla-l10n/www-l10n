@@ -15,4 +15,5 @@ whatsnew-release-notes-v2 = Emoñe’ẽ <a { $url }>jehaipy rehegua</a> ereko h
 whatsnew-signoff = <strong>Omboguata { -brand-name-mozilla }.</strong> Omotenondévo yvypóra viru rovake 1998 guive.
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Embojopói { -brand-name-mozilla-foundation }
+whatsnew-donate-to-mofo-v2 = Embojopói { -brand-name-mozilla-foundation }-pe.
 whatsnew-thanks-for-choosing = Aguyje eiporúre { -brand-name-firefox }
