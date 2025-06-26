@@ -27,6 +27,7 @@ m24-about-research = Raziskujemo
 m24-about-build = Gradimo
 # Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Razvijamo izdelke, ki vam dajejo nadzor – kot so { -brand-name-firefox }, { -brand-name-fakespot } in drugi.
+m24-about-we-build-products-v2 = Razvijamo izdelke, ki vam dajejo nadzor – kot so { -brand-name-firefox } in drugi.
 m24-about-fund = Podpiramo
 m24-about-we-fund-and = Financiramo in vlagamo v ljudi in v prizadevanja, ki vodijo tehnologijo, internet in umetno inteligenco v pravo smer.
 
