@@ -12,5 +12,6 @@ whatsnew-update-notification = { -brand-name-firefox } inek·inem yettwaleqqem.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes-v2 = Wali<a { $url }>tizmilin n lqem</a> akken ad tissineḍ ugar ɣef umaynut n yiminig-ik { -brand-name-firefox }.
+# Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Mudd tawsa ɣer { -brand-name-mozilla-foundation }
 whatsnew-thanks-for-choosing = Tanemmirt mi tferneḍ { -brand-name-firefox }

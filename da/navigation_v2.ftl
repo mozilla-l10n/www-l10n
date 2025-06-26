@@ -44,8 +44,6 @@ navigation-v2-sign-up-for-new-accounts = Opret nye konti uden at udlevere din ma
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = En tilpasset { -brand-name-mdn }-oplevelse med nye funktioner og værktøj.
 navigation-v2-view-all-products = Vis alle produkter
-navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = Brug AI til at opdage falske anmeldelser og svindel
 
 ## Who We Are menu
 

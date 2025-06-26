@@ -26,6 +26,7 @@ m24-about-we-advocate-for = Vi förespråkar för bättre produkter, som håller
 m24-about-research = Forskning
 m24-about-we-uncover-insights = Vi avslöjar insikter, kampanjer för att förbättra produkter och driver policyer som representerar dina intressen.
 m24-about-build = Skapar
+# Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Vi skapar produkter som ger dig kontroll — som { -brand-name-firefox }, { -brand-name-fakespot } och fler.
 m24-about-fund = Finansiering
 m24-about-we-fund-and = Vi finansierar och investerar i människorna och de insatser som tar teknik, internet och AI i rätt riktning.

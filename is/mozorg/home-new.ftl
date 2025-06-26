@@ -23,8 +23,6 @@ home-product-vpn-trust = VPN sem þú getur treyst
 home-cta-get-vpn = Fáðu þér { -brand-name-mozilla-vpn }
 home-product-monitor-protect-your = Verndaðu persónulegar upplýsingar þínar fyrir gagnasölumönnum
 home-cta-get-monitor = Fáðu þér { -brand-name-monitor }
-home-product-fakespot-detect = Finndu falsaðar umsagnir í vefverslunum
-home-cta-get-fakespot = Fáðu þér { -brand-name-fakespot }
 home-mozilla-takes-bets = „{ -brand-name-mozilla } veðjar sínu til að sýna heiminum að markaður sé fyrir áreiðanlegra gervigreind. Það felur í sér að setja atriði eins og mannréttindi, gagnavernd og gagnsæi í kjarnavirkni þessara flóknu kerfa.“
 # Politico is a brand name for a news organization
 home-politico-cite = Politico

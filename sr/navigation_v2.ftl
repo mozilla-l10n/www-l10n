@@ -44,8 +44,6 @@ navigation-v2-sign-up-for-new-accounts = Региструјте се за нов
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Нове функције и алатке за прилагођено { -brand-name-mdn } искуство
 navigation-v2-view-all-products = Погледајте све производе
-navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = Користите ВИ да откријете лажне рецензије и преваре
 
 ## Who We Are menu
 

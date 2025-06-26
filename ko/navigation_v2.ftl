@@ -44,8 +44,6 @@ navigation-v2-sign-up-for-new-accounts = 사용자의 이메일 주소 전달 �
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = 맞춤형 { -brand-name-mdn } 경험을 위한 새로운 기능과 도구
 navigation-v2-view-all-products = 모든 제품보기
-navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = AI를 사용하여 가짜 리뷰와 사기를 감지합니다.
 
 ## Who We Are menu
 

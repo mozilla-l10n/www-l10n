@@ -53,14 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = 하나의 빠른 앱에서 모든 이메일과 캘린더, 연락처를 이용하세요. 원하는 대로 필터링하고 구성하세요.
 firefox-products-download-thunderbird = { -brand-name-thunderbird } 다운로드
 
-## Fakespot
-
-firefox-products-fakespot = { -brand-name-fakespot }
-# scam artists are people who are trying to sell fakes or steal money
-# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
-firefox-products-fakespot-has-your = { -brand-name-fakespot }이 온라인 쇼핑을 도와드립니다. — 사기꾼을 걸러내고 최고의 거래를 찾아 드립니다. { -brand-name-mozilla } 제품입니다.
-firefox-products-analyze = URL 분석
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

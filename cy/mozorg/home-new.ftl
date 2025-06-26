@@ -23,8 +23,6 @@ home-product-vpn-trust = VPN y gallwch ymddiried ynddo
 home-cta-get-vpn = Cael { -brand-name-mozilla-vpn }
 home-product-monitor-protect-your = Diogelu eich manylion preifat rhag broceriaid data
 home-cta-get-monitor = Cael { -brand-name-monitor }
-home-product-fakespot-detect = Canfod adolygiadau siopa ffug
-home-cta-get-fakespot = Cael { -brand-name-fakespot }
 home-mozilla-takes-bets = “Mae { -brand-name-mozilla }'n hyderus bod modd dangos i’r byd bod modd gwneud busnes gydag AI dibynadwy. Mae hynny’n cynnwys rhoi pethau fel hawliau dynol, diogelu data a thryloywder wrth wraidd y ffordd y mae’r systemau cymhleth hyn yn gweithio.”
 # Politico is a brand name for a news organization
 home-politico-cite = Gwleidyddiaeth

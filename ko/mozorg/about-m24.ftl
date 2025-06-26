@@ -26,6 +26,7 @@ m24-about-we-advocate-for = 우리는 더 나은 제품을 지지하고, 정부�
 m24-about-research = 연구
 m24-about-we-uncover-insights = 통찰력을 얻고, 제품 개선 캠페인을하며, 사용자의 관심사를 대표하는 정책을 추진합니다.
 m24-about-build = 제작
+# Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = { -brand-name-firefox }나 { -brand-name-fakespot } 등과 같이 사용자가 제어할 수 있는 제품을 만들고 있습니다.
 m24-about-fund = 자금
 m24-about-we-fund-and = 우리는 기술, 인터넷, AI를 올바른 방향으로 이끄는 사람과 노력에 자금을 투자합니다.

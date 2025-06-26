@@ -13,5 +13,6 @@ whatsnew-update-notification = { -brand-name-firefox } ຂອງທ່ານໄ�
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes-v2 = ອ່ານ <a { $url }>ບັນທຶກການປ່ອຍຕົວ</a> ເພື່ອຮູ້ເພີ່ມເຕີມກ່ຽວກັບສິ່ງໃໝ່ໃນໂປຣແກຣມທ່ອງເວັບ { -brand-name-firefox } ຂອງທ່ານ.
 whatsnew-signoff = <strong>ຂັບເຄື່ອນໂດຍ { -brand-name-mozilla }.</strong> ວາງຄົນກ່ອນຜົນກຳໄລຕັ້ງແຕ່ປີ 1998.
+# Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = ບໍລິຈາກໃຫ້ { -brand-name-mozilla-foundation }
 whatsnew-thanks-for-choosing = ຂອບໃຈທີ່ເລືອກ { -brand-name-firefox }

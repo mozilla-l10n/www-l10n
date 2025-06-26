@@ -44,8 +44,6 @@ navigation-v2-sign-up-for-new-accounts = Eñemboheraguapy ereko hag̃ua mba’et
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Tembiapoite pyahu ha tembiporu eike hag̃ua { -brand-name-mdn } mba’erãteévape
 navigation-v2-view-all-products = Ehechapaite Apopyre
-navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = Eiporu IA ehecha hag̃ua marandu vai ha jehode
 
 ## Who We Are menu
 

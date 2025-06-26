@@ -53,14 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Πρόσβαση σε όλα τα email, τα ημερολόγια και τις επαφές σας σε μια γρήγορη εφαρμογή. Φιλτράρετε και οργανώστε τα όπως σας αρέσει.
 firefox-products-download-thunderbird = Λήψη του { -brand-name-thunderbird }
 
-## Fakespot
-
-firefox-products-fakespot = { -brand-name-fakespot }
-# scam artists are people who are trying to sell fakes or steal money
-# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
-firefox-products-fakespot-has-your = Το { -brand-name-fakespot } σας υποστηρίζει όταν κάνετε αγορές στο διαδίκτυο, απομακρύνοντας απατεώνες και βρίσκοντας για εσάς τις καλύτερες προσφορές. Από τη { -brand-name-mozilla }.
-firefox-products-analyze = Ανάλυση URL
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

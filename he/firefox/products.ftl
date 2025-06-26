@@ -28,9 +28,6 @@ firefox-products-relay = { -brand-name-firefox-relay }
 ## Thunderbird
 
 
-## Fakespot
-
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

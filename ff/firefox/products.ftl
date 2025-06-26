@@ -28,9 +28,6 @@ firefox-products-check-for-breaches = Ƴeewto ciigol keɓe
 ## Thunderbird
 
 
-## Fakespot
-
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

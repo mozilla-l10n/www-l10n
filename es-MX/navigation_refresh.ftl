@@ -31,5 +31,4 @@ navigation-refresh-products = Productos
 navigation-refresh-close-products-menu = Cerrar el menú Productos
 navigation-refresh-pocket = { -brand-name-pocket }
 navigation-refresh-mdn-plus = { -brand-name-mdn-plus }
-navigation-refresh-fakespot = { -brand-name-fakespot }
 navigation-refresh-thunderbird = { -brand-name-thunderbird }

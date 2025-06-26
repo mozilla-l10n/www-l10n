@@ -53,14 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Ба ҳамаи паёмҳои почтаи электронӣ, тақвимҳо ва тамосҳои худ дар як барномаи зуд дастрасӣ пайдо кунед. Онҳоро, чӣ тавре ки мехоҳед, поло кунед ва ба тартиб дароред.
 firefox-products-download-thunderbird = Боргирӣ кардани «{ -brand-name-thunderbird }»
 
-## Fakespot
-
-firefox-products-fakespot = { -brand-name-fakespot }
-# scam artists are people who are trying to sell fakes or steal money
-# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
-firefox-products-fakespot-has-your = «{ -brand-name-fakespot }» ҳангоми харидорӣ дар Интернет пуштибони шумо аст — фурӯшандагони қалбакӣ ва қаллобонро ҷудо мекунад ва беҳтарин пешниҳодҳоро барои интихоби шумо меёбад. Аз ҷониби «{ -brand-name-mozilla }» таҳия шудааст.
-firefox-products-analyze = Таҳлил кардани нишонии URL
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

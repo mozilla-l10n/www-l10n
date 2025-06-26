@@ -53,14 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Benader al uw e-mail, agenda’s en contacten in één snelle app. Filter en organiseer ze zoals u dat wilt.
 firefox-products-download-thunderbird = { -brand-name-thunderbird } downloaden
 
-## Fakespot
-
-firefox-products-fakespot = { -brand-name-fakespot }
-# scam artists are people who are trying to sell fakes or steal money
-# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
-firefox-products-fakespot-has-your = { -brand-name-fakespot } staat achter u wanneer u online winkelt – het verwijdert oplichters en vindt de beste deals voor u. Gemaakt door { -brand-name-mozilla }.
-firefox-products-analyze = Een URL analyseren
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

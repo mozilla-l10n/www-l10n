@@ -23,8 +23,6 @@ home-product-vpn-trust = 您可以信任的 VPN
 home-cta-get-vpn = 下載 { -brand-name-mozilla-vpn }
 home-product-monitor-protect-your = 保護您的隱私資訊不受資料交易商影響
 home-cta-get-monitor = 使用 { -brand-name-monitor }
-home-product-fakespot-detect = 偵測假的購物評論
-home-cta-get-fakespot = 下載 { -brand-name-fakespot }
 home-mozilla-takes-bets = 「{ -brand-name-mozilla } 決定讓世界看到可信任的 AI 的重要性。這也包括將人權、資料保護、透明度放在這些複雜系統運作過程的核心。」
 # Politico is a brand name for a news organization
 home-politico-cite = Politico

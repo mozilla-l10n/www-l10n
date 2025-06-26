@@ -43,7 +43,6 @@ navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Rnu imiḍanen imaynuten war ma tefkiḍ-d tansa imayl.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-view-all-products = Sken akk ifarisen
-navigation-v2-fakespot = { -brand-name-fakespot }
 
 ## Who We Are menu
 

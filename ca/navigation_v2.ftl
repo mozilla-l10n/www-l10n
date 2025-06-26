@@ -36,7 +36,6 @@ navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Registreu comptes nous sense facilitar la vostra adreça electrònica.
 navigation-v2-view-all-products = Vegeu tots els productes
-navigation-v2-fakespot = { -brand-name-fakespot }
 
 ## Who We Are menu
 

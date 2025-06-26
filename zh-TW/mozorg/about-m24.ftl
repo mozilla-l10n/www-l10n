@@ -26,6 +26,7 @@ m24-about-we-advocate-for = 我們倡導打造更好的產品，要求政府與�
 m24-about-research = 研究
 m24-about-we-uncover-insights = 我們尋找與您興趣相符的意見、活動來改善產品並推行符合您的利益的政策。
 m24-about-build = 建構
+# Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = 我們打造讓您能自行控制的產品 — 例如 { -brand-name-firefox }、{ -brand-name-fakespot } 等等。
 m24-about-fund = 資助
 m24-about-we-fund-and = 我們投資將科技、網際網路與 AI 引向正確方向的人們與事物。

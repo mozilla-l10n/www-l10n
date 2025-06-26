@@ -18,7 +18,6 @@ home-cta-get-relay = { -brand-name-relay } wobstaraś
 home-product-vpn-trust = VPN, kótaremuž móžośo dowěriś
 home-cta-get-vpn = { -brand-name-mozilla-vpn } wobstaraś
 home-cta-get-monitor = { -brand-name-monitor } wobstaraś
-home-cta-get-fakespot = Wobstarajśo se { -brand-name-fakespot }
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-read-more = Dalšne informacije

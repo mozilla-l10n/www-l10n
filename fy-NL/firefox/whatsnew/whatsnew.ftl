@@ -13,5 +13,6 @@ whatsnew-update-notification = Jo { -brand-name-firefox } is bywurke.
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes-v2 = Lês de <a { $url }>Ferzje-notysjes</a> foar mear ynformaasje oer wat der nij is yn jo { -brand-name-firefox }-browser.
 whatsnew-signoff = <strong>Mooglik makke troch { -brand-name-mozilla }.</strong> Minsken foar winst sûnt 1998.
+# Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Donearje oan de { -brand-name-mozilla-foundation }
 whatsnew-thanks-for-choosing = Tank dat jo keazen hawwe foar { -brand-name-firefox }

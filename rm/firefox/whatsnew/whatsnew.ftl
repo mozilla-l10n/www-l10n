@@ -13,5 +13,6 @@ whatsnew-update-notification = Tes { -brand-name-firefox } è vegnì actualisà.
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes-v2 = Legia las <a { $url }>remartgas davart la versiun</a> per vegnir a savair dapli da las midadas en tes navigatur { -brand-name-firefox }.
 whatsnew-signoff = <strong>Realisà da { -brand-name-mozilla }.</strong> Dapi il 1998 dain nus la prioritad a las persunas, betg al profit.
+# Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Far ina donaziun a { -brand-name-mozilla-foundation }
 whatsnew-thanks-for-choosing = Grazia per avair tschernì { -brand-name-firefox }

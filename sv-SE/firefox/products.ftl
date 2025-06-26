@@ -53,14 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Få tillgång till all e-post, kalendrar och kontakter i ett snabbt program. Filtrera och organisera dem som du vill.
 firefox-products-download-thunderbird = Hämta { -brand-name-thunderbird }
 
-## Fakespot
-
-firefox-products-fakespot = { -brand-name-fakespot }
-# scam artists are people who are trying to sell fakes or steal money
-# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
-firefox-products-fakespot-has-your = { -brand-name-fakespot } har din rygg när du shoppar online — rensa bort bluffartister och hitta de bästa erbjudandena. Tillverkad av { -brand-name-mozilla }.
-firefox-products-analyze = Analysera en URL
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

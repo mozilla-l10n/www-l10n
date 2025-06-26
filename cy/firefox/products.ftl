@@ -53,14 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Cael eich holl e-byst, calendrau a chysylltiadau mewn un ap cyflym. Hidlwch a threfnwch nhw yn y ffordd rydych chi'n ei hoffi.
 firefox-products-download-thunderbird = Llwytho { -brand-name-thunderbird } i Lawr
 
-## Fakespot
-
-firefox-products-fakespot = { -brand-name-fakespot }
-# scam artists are people who are trying to sell fakes or steal money
-# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
-firefox-products-fakespot-has-your = Mae { -brand-name-fakespot } yn eich diogelu pan fyddwch chi'n siopa ar-lein - yn chwynnu artistiaid sgamio ac yn dod o hyd i'r bargeinion gorau i chi. Wedi'i wneud gan { -brand-name-mozilla }.
-firefox-products-analyze = Dadansoddi URL
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

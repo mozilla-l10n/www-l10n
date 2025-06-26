@@ -44,8 +44,6 @@ navigation-v2-sign-up-for-new-accounts = Regisztráljon új fiókokat anélkül,
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Új funkciók és eszközök a személyre szabott { -brand-name-mdn } élményhez
 navigation-v2-view-all-products = Összes termék megtekintése
-navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = Használjon MI-t a hamis értékelések és csalások észlelésére
 
 ## Who We Are menu
 

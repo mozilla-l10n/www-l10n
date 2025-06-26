@@ -23,8 +23,6 @@ home-product-vpn-trust = VPN, რომელსაც ენდობით
 home-cta-get-vpn = ჩართეთ { -brand-name-mozilla-vpn }
 home-product-monitor-protect-your = დაიცავით თქვენი პირადი ინფორმაცია მონაცემთა გადამყიდველებისგან
 home-cta-get-monitor = გამოიყენეთ { -brand-name-monitor }
-home-product-fakespot-detect = აღმოაჩინეთ საყიდლების ყალბი მიმოხილვები
-home-cta-get-fakespot = გამოიყენეთ { -brand-name-fakespot }
 home-mozilla-takes-bets = „{ -brand-name-mozilla }-ს განზრახული აქვს, მსოფლიოს დაუმტკიცოს, რომ საქმის კეთება შეიძლება ნდობის მქონე ხელოვნური ინტელექტის მეშვეობითაც. ეს კი გულისხმობს, რომ ადამიანის უფლებების დაცვა, მონაცემთა უსაფრთხოება და გამჭვირვალობა უნდა დაედოს საფუძვლად ამგვარი რთული სისტემების შემუშავებას“.
 # Politico is a brand name for a news organization
 home-politico-cite = Politico

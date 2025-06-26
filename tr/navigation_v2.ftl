@@ -44,8 +44,6 @@ navigation-v2-sign-up-for-new-accounts = E-posta adresinizi gizleyerek yeni hesa
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Kişisel bir { -brand-name-mdn } deneyimi için yeni özellikler ve araçlar
 navigation-v2-view-all-products = Tüm ürünlere bak
-navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = Yapay zekâ yardımıyla sahte değerlendirmeleri ve dolandırıcıları tespit edin
 
 ## Who We Are menu
 

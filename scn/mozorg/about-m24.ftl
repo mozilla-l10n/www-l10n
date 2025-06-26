@@ -26,6 +26,7 @@ m24-about-we-advocate-for = Ammuttamu p’aviri prudutti megghiu, facènnuci pig
 m24-about-research = Ricerca
 m24-about-we-uncover-insights = Scupremu cosi ncignusi, facemu campagni pi fari megghiu i prudutti e prumuvemu pulìtichi chi riprisèntanu i to ntiressi.
 m24-about-build = Sbiluppu
+# Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Custrujemu prudutti chi ti dùnanu u cuntrollu — a tipu { -brand-name-firefox }, { -brand-name-fakespot } e autri.
 m24-about-fund = Finanziamentu
 m24-about-we-fund-and = Finanziamu e mmistemu nnî genti e nnî pruggetti chi pòrtanu a ticnuluggìa, a riti e a NA nnâ dirizzioni giusta.

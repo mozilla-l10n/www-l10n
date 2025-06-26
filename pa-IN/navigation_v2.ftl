@@ -44,8 +44,6 @@ navigation-v2-sign-up-for-new-accounts = ਨਵੇਂ ਖਾਤਿਆਂ ਲਈ 
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = ਚੁਣਿੰਦਾ { -brand-name-mdn } ਤਜਰਬੇ ਲਈ ਨਵੇਂ ਫ਼ੀਚਰ ਅਤੇ ਟੂਲ
 navigation-v2-view-all-products = ਸਾਰੇ ਉਤਪਾਦ ਵੇਖੋ
-navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = ਫ਼ਰਜ਼ੀ ਰੀਵਿਊ ਅਤੇ ਘੁਟਾਲਿਆਂ ਦਾ ਪਤਾ ਲਗਾਉਣ ਲਈ AI ਨੂੰ ਵਰਤੋਂ
 
 ## Who We Are menu
 

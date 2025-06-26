@@ -53,14 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = 在單一應用程式中，存取所有電子郵件、行事曆與聯絡人，用您喜歡的方式過濾與管理。
 firefox-products-download-thunderbird = 下載 { -brand-name-thunderbird }
 
-## Fakespot
-
-firefox-products-fakespot = { -brand-name-fakespot }
-# scam artists are people who are trying to sell fakes or steal money
-# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
-firefox-products-fakespot-has-your = { -brand-name-fakespot } 讓您在線上購物時，能協助篩選掉詐騙者，並協助您尋找最佳優惠。此服務是由 { -brand-name-mozilla } 提供。
-firefox-products-analyze = 分析網址
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

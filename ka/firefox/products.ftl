@@ -53,14 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = მიიღეთ წვდომა თქვენს ყველა ელფოსტასთან, კალენდარსა თუ თანამშრომლებთან ერთი სწრაფი პროგრამით. გამოარჩიეთ და დაალაგეთ სურვილისამებრ.
 firefox-products-download-thunderbird = ჩამოტვირთეთ { -brand-name-thunderbird }
 
-## Fakespot
-
-firefox-products-fakespot = { -brand-name-fakespot }
-# scam artists are people who are trying to sell fakes or steal money
-# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
-firefox-products-fakespot-has-your = { -brand-name-fakespot } გვერდში გიდგათ საყიდლების შეძენისას — აცილებს თაღლითების ნამოქმედარს და გაპოვნინებთ საუკეთესო გარიგებებს. შემქმნელია { -brand-name-mozilla }.
-firefox-products-analyze = URL-ბმულის შემოწმება
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

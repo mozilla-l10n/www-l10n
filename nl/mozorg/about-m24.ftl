@@ -26,6 +26,7 @@ m24-about-we-advocate-for = We pleiten voor betere producten, waarbij we overhed
 m24-about-research = Onderzoek
 m24-about-we-uncover-insights = We onthullen inzichten, voeren campagne om producten te verbeteren en beleid te stimuleren dat uw belangen behartigt.
 m24-about-build = Bouwen
+# Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = We bouwen producten die u de controle geven – zoals { -brand-name-firefox }, { -brand-name-fakespot } en meer.
 m24-about-fund = Financiering
 m24-about-we-fund-and = We financieren en investeren in de mensen en inspanningen die technologie, het internet en AI in de goede richting sturen.

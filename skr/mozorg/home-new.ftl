@@ -23,8 +23,6 @@ home-product-vpn-trust = ہک وی پی این جیندے تے تساں بھرو
 home-cta-get-vpn = { -brand-name-mozilla-vpn } گھنو
 home-product-monitor-protect-your = ڈیٹا بروکرز توں آپݨی نجی معلومات دی حفاظت کرو
 home-cta-get-monitor = { -brand-name-monitor } گھنو
-home-product-fakespot-detect = جعلی خریداری جائزے دا پتہ لاؤ
-home-cta-get-fakespot = { -brand-name-fakespot } گھنو
 home-mozilla-takes-bets = "{ -brand-name-mozilla }دُنیاں کو اِیہ ݙِکھاوݨ کِیتے شرطاں لین٘دا پِیا ہِے جو قابلِ اعتماد اے آئی دے نال ہِک کاروبار کِیتا وین٘دا ہِے۔ اِین٘دے وِچ انسانی حقوق، ڈیٹا دے تحفّظ اَتے شفافیت جیہیں شئیں کوں بنیادی طور تے رکّھݨ شامل ہِے جو اِیہ پیچیدہ نظام کیویں کَم کرین٘دے ہِن۔"
 # Politico is a brand name for a news organization
 home-politico-cite = Politico

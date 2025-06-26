@@ -51,10 +51,6 @@ firefox-products-support-mdn = { -brand-name-mdn } ਨੂੰ ਸਹਿਯੋਗ 
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-download-thunderbird = { -brand-name-thunderbird } ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
 
-## Fakespot
-
-firefox-products-fakespot = { -brand-name-fakespot }
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

@@ -5,4 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/ (Global locales)
 
-home-product-fakespot-detect = Detecteu les ressenyes de compres falses

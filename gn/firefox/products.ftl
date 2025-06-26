@@ -53,14 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Eike ne ñanduti veve, arapapaha ha eñe’ẽkuaaha tembiporu’i ipya’évape. Embogua ha emohenda eipotaháicha.
 firefox-products-download-thunderbird = Emboguejy { -brand-name-thunderbird }
 
-## Fakespot
-
-firefox-products-fakespot = { -brand-name-fakespot }
-# scam artists are people who are trying to sell fakes or steal money
-# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
-firefox-products-fakespot-has-your = { -brand-name-fakespot } nde ykeko emba’ejoguávo ñanduti rupi, omboykévo oporombotavysévape ha ojuhúvo mba’ekuéra hepy’ỹva. Ojapóva{ -brand-name-mozilla }.
-firefox-products-analyze = Ehesa’ỹijo URL
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

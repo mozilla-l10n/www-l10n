@@ -21,6 +21,7 @@ m24-about-together-we-can = Saman kan vi gjere internett enkelt, trygt og gratis
 m24-about-read-our-manifesto = Les manifestet vårt
 m24-about-we-advocate-for = Vi jobbar for betre produkt, og held styresmakter og teknologiselskap ansvarlege for det dei skaper.
 m24-about-research = Forsking
+# Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Vi byggjer produkt som gir deg kontroll — som { -brand-name-firefox }, { -brand-name-fakespot } og fleire andre.
 m24-about-fund = Finansiering
 m24-about-we-fund-and = Vi finansierer og investerer i menneska og innsatsen som tek teknologi, internett og kunstig intelligens i rett retning.

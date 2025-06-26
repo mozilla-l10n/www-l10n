@@ -23,8 +23,6 @@ home-product-vpn-trust = In VPN dal qual ti pos ta fidar
 home-cta-get-vpn = Va per { -brand-name-mozilla-vpn }
 home-product-monitor-protect-your = Protegia tias datas privatas da negoziants da datas
 home-cta-get-monitor = Va per { -brand-name-monitor }
-home-product-fakespot-detect = Identifitgescha recensiuns sfalsifitgadas cun far cumpras
-home-cta-get-fakespot = Va per { -brand-name-fakespot }
 home-mozilla-takes-bets = «{ -brand-name-mozilla } s’engascha per mussar al mund ch’i dat in potenzial economic cun intelligenza artifiziala fidabla. Quai vul era dir, da metter ils dretgs umans, la protecziun da datas e la transparenza en il center dal funcziunament da quests sistems cumplexs.»
 # Politico is a brand name for a news organization
 home-politico-cite = Politico

@@ -36,9 +36,6 @@ firefox-products-get-mozilla-vpn = Атрымаць { -brand-name-mozilla-vpn }
 ## Thunderbird
 
 
-## Fakespot
-
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

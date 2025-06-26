@@ -22,7 +22,6 @@ home-cta-get-relay = Hanki { -brand-name-relay }
 home-product-vpn-trust = VPN, johon voit luottaa
 home-cta-get-vpn = Hanki { -brand-name-mozilla-vpn }
 home-cta-get-monitor = Hanki { -brand-name-monitor }
-home-product-fakespot-detect = Tunnista valheelliset ostosarvostelut
 home-mozilla-takes-bets = “{ -brand-name-mozilla } lyö vetoa näyttääkseen maailmalle, että luotettavalla tekoälyllä on mahdollista tehdä kannattavaa liiketoimintaa. Se sisältää ihmisoikeuksien, tietosuojan ja avoimuuden asettamisen näiden monimutkaisten järjestelmien toiminnan ytimeen.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico

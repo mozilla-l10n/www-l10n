@@ -29,9 +29,6 @@ firefox-products-check-for-breaches = Se etter datalekkasjer
 ## Thunderbird
 
 
-## Fakespot
-
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

@@ -44,8 +44,6 @@ navigation-v2-sign-up-for-new-accounts = Creescha novs contos senza tradir tia a
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Novas funcziuns e novs utensils per ina experientscha { -brand-name-mdn } persunalisada
 navigation-v2-view-all-products = Vesair tut ils products
-navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = Utilisescha l’intelligenza artifiziala per identifitgar recensiuns sfalsifitgadas ed engions
 
 ## Who We Are menu
 

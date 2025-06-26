@@ -32,9 +32,6 @@ firefox-products-get-mozilla-vpn = Get { -brand-name-mozilla-vpn }
 ## Thunderbird
 
 
-## Fakespot
-
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

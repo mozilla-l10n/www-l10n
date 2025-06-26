@@ -18,7 +18,6 @@ m24-home-learn-about-us = Issin ugar fell-aɣ
 m24-home-love-the-internet = Ḥemmlem daɣen Internet
 m24-home-firefox = { -brand-name-firefox }
 m24-home-thunderbird = { -brand-name-thunderbird }
-m24-home-fakespot = { -brand-name-fakespot }
 m24-home-pocket = { -brand-name-pocket }
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }

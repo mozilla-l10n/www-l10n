@@ -26,6 +26,7 @@ m24-about-we-advocate-for = A jobb termékeket támogatjuk, számon kérve a kor
 m24-about-research = Kutatás
 m24-about-we-uncover-insights = Meglátásokat tárunk fel, és olyan termékfejlesztésekért és szabályozásokért kampányolunk, melyek az Ön érdekeit képviselik.
 m24-about-build = Fejlesztés
+# Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Olyan termékeket készítünk, amelyekkel az Öné az irányítás – mint a { -brand-name-firefox }, a { -brand-name-fakespot } és így tovább.
 m24-about-fund = Finanszírozás
 m24-about-we-fund-and = Olyan embereket és erőfeszítéseket finanszírozunk, és abba fektetünk be, hogy a technológiát, az internetet és a mesterséges intelligenciát a helyes irányba tereljük.

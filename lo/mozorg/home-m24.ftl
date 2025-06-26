@@ -18,7 +18,6 @@ m24-home-love-the-internet = ຮັກອິນເຕີເນັດອີກເ
 m24-home-explore-our-products = ສຳຫຼວດຜະລິດຕະພັນຂອງພວກເຮົາ
 m24-home-firefox = { -brand-name-firefox }
 m24-home-thunderbird = { -brand-name-thunderbird }
-m24-home-fakespot = { -brand-name-fakespot }
 m24-home-pocket = { -brand-name-pocket }
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 

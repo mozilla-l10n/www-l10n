@@ -53,14 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Truy cập tất cả email, lịch và danh bạ của bạn trong một ứng dụng nhanh chóng. Lọc và sắp xếp chúng theo cách bạn muốn.
 firefox-products-download-thunderbird = Tải về { -brand-name-thunderbird }
 
-## Fakespot
-
-firefox-products-fakespot = { -brand-name-fakespot }
-# scam artists are people who are trying to sell fakes or steal money
-# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
-firefox-products-fakespot-has-your = { -brand-name-fakespot } hỗ trợ bạn khi bạn mua sắm trực tuyến — loại bỏ kẻ lừa đảo và tìm cho bạn những giao dịch tốt nhất. Được tạo bởi { -brand-name-mozilla }.
-firefox-products-analyze = Phân tích một URL
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

@@ -44,13 +44,6 @@ firefox-products-support-mdn = Støtt { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-download-thunderbird = Last ned { -brand-name-thunderbird }
 
-## Fakespot
-
-firefox-products-fakespot = { -brand-name-fakespot }
-# scam artists are people who are trying to sell fakes or steal money
-# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
-firefox-products-fakespot-has-your = { -brand-name-fakespot } passar på deg når du handlar på nettet — lukar bort svindlarar og finn dei beste tilbydarane. Laga av { -brand-name-mozilla }.
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

@@ -44,8 +44,6 @@ navigation-v2-sign-up-for-new-accounts = Ҳисобҳои навро бе ист
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Хусусиятҳо ва абзорҳои нав барои таҷрибаи фармоишии «{ -brand-name-mdn }»
 navigation-v2-view-all-products = Намоиш додани ҳамаи маҳсулот
-navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = Зеҳни сунъӣ (AI)-ро барои муайян кардани тақризҳои бардурӯғ ва фиребгарӣ истифода баред
 
 ## Who We Are menu
 

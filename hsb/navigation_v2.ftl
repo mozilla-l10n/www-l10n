@@ -44,7 +44,6 @@ navigation-v2-sign-up-for-new-accounts = Registrujće so za nowe konta, bjeztoho
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Nowe funkcije a nastroje za přiměrjene dožiwjenje { -brand-name-mdn }
 navigation-v2-view-all-products = Wšě produkty pokazać
-navigation-v2-fakespot = { -brand-name-fakespot }
 
 ## Who We Are menu
 

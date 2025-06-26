@@ -43,8 +43,6 @@ navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (prófunarútg�
 navigation-v2-sign-up-for-new-accounts = Skráðu þig fyrir nýjum aðgöngum án þess að gefa upp raunverulega tölvupóstfangið þitt.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-view-all-products = Skoða allan hugbúnað
-navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = Notaðu gervigreind til að greina falskar umsagnir og svindl
 
 ## Who We Are menu
 

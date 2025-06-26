@@ -29,9 +29,6 @@ firefox-products-check-for-breaches = Caută încălcări ale securității date
 ## Thunderbird
 
 
-## Fakespot
-
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

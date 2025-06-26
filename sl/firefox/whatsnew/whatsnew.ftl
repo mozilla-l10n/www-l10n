@@ -13,5 +13,6 @@ whatsnew-update-notification = { -brand-name-firefox } je bil posodobljen.
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes-v2 = Preberite v <a { $url }>opombah ob izdaji</a>, kaj vse je še novega v vašem { -brand-name-firefox(sklon: "mestnik") }.
 whatsnew-signoff = <strong>Izdelek { -brand-name-mozilla(sklon: "rodilnik") }.</strong> Ljudi postavljamo pred dobiček že od leta 1998.
+# Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Donirajte { -brand-name-mozilla-foundation(sklon: "dajalnik") }
 whatsnew-thanks-for-choosing = Hvala, ker ste izbrali { -brand-name-firefox }

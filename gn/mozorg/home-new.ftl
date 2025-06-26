@@ -23,8 +23,6 @@ home-product-vpn-trust = VPN ejeroviakuaaha
 home-cta-get-vpn = Erekóke { -brand-name-mozilla-vpn }
 home-product-monitor-protect-your = Emo’ã ne maranduete mba’ekuaarã mbyatyhágui
 home-cta-get-monitor = Ereko { -brand-name-monitor }
-home-product-fakespot-detect = Ehechakuaa jejoguarã japuguáva
-home-cta-get-fakespot = Ereko { -brand-name-fakespot }
 # Politico is a brand name for a news organization
 home-politico-cite = Político
 home-join-us-in-shaping = Ejuaju ore rehe jajapo hag̃ua IA jeroviaha

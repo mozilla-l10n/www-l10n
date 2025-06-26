@@ -25,6 +25,7 @@ m24-about-advocate = Pysyrõhára
 m24-about-research = Jehapereka
 m24-about-we-uncover-insights = Rojuhu temiandu, rojapo mba’e ikatúva apopy moporãverã ha romoakãrapu’ã umi ouporãtava ndéve.
 m24-about-build = Jejapo
+# Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Romoheñói apopy ne pytyvõtava eiko porãvévo, ãva { -brand-name-firefox }, { -brand-name-fakespot } ha hetave.
 m24-about-fund = Hepyme’ẽ
 m24-about-we-fund-and = Rofinancia ha roinverti umi tapicha rehe ha ñeha’ã omomýiva tembiporupyahu, Ñanduti ha IA tenonderã gotyo.

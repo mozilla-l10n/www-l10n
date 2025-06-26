@@ -14,7 +14,6 @@ home-cta-get-relay = Awi-d { -brand-name-relay }
 home-product-vpn-trust = VPN ara tamneḍ
 home-cta-get-vpn = Awi-d { -brand-name-mozilla-vpn }
 home-cta-get-monitor = Awi-d { -brand-name-monitor }
-home-cta-get-fakespot = Awi-d { -brand-name-fakespot }
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-read-more = Ɣeṛ ugar

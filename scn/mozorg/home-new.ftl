@@ -23,8 +23,6 @@ home-product-vpn-trust = Na VPN affidàbbili
 home-cta-get-vpn = Pigghia { -brand-name-mozilla-vpn }
 home-product-monitor-protect-your = Pruteggi i to nfurmazzioni dî manijatura di dati
 home-cta-get-monitor = Pigghia { -brand-name-monitor }
-home-product-fakespot-detect = Attrova i ricinzioni fausi quannu accatti
-home-cta-get-fakespot = Pigghia { -brand-name-fakespot }
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = Jùnciti a nuiautri pi criari na ntiliggenza artificiali affidàbbili

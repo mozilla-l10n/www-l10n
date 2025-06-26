@@ -44,8 +44,6 @@ navigation-v2-sign-up-for-new-accounts = Zakładaj nowe konta bez podawania swoj
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Nowe funkcje i narzędzia w spersonalizowanym interfejsie { -brand-name-mdn }
 navigation-v2-view-all-products = Wyświetl wszystkie produkty
-navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = Korzystaj ze sztucznej inteligencji do wykrywania fałszywych recenzji i oszustw
 
 ## Who We Are menu
 

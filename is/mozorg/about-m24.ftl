@@ -26,6 +26,7 @@ m24-about-we-advocate-for = Við tölum fyrir betri hugbúnaði og látum stjór
 m24-about-research = Rannsóknir
 m24-about-we-uncover-insights = Við flettum upp ítarlegum greiningum, berjumst við að bæta vörur og knýjum fram stefnur sem standa með hagsmunum þínum.
 m24-about-build = Smíði
+# Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Við byggjum hugbúnað sem veitir þér stjórnina – eins og { -brand-name-firefox }, { -brand-name-fakespot } og fleira.
 m24-about-fund = Fjárfesting
 m24-about-we-fund-and = Við fjármögnum og fjárfestum í fólkinu og viðleitni til að taka tækni, internetið og gervigreind í rétta átt.

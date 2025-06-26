@@ -53,14 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Përdorni krejt email-et tuaj, kalendarët dhe kontaktet, që nga një aplikacion i shpejtë. Filtrojini dhe sistemojini si doni.
 firefox-products-download-thunderbird = Shkarkoni { -brand-name-thunderbird }-in
 
-## Fakespot
-
-firefox-products-fakespot = { -brand-name-fakespot }
-# scam artists are people who are trying to sell fakes or steal money
-# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
-firefox-products-fakespot-has-your = { -brand-name-fakespot } ju mbron kur blini në internet — duke hequr qafe mjeshtër të mashtrimeve dhe duke ju gjetur ofertat më të mira. Krijuar nga { -brand-name-mozilla }.
-firefox-products-analyze = Analizoni një URL
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

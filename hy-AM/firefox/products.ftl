@@ -29,9 +29,6 @@ firefox-products-check-for-breaches = Ստուգեք խախտումները
 ## Thunderbird
 
 
-## Fakespot
-
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

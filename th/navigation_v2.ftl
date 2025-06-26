@@ -44,8 +44,6 @@ navigation-v2-sign-up-for-new-accounts = ลงทะเบียนสำหร
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = คุณลักษณะและเครื่องมือใหม่สำหรับประสบการณ์ { -brand-name-mdn } ที่กำหนดเอง
 navigation-v2-view-all-products = ดูผลิตภัณฑ์ทั้งหมด
-navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = ใช้ AI เพื่อตรวจจับบทวิจารณ์ปลอมและการหลอกลวง
 
 ## Who We Are menu
 

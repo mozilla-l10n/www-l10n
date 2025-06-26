@@ -46,10 +46,6 @@ firefox-products-mdn-plus = { -brand-name-mdn-plus }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-download-thunderbird = Sider { -brand-name-thunderbird }
 
-## Fakespot
-
-firefox-products-fakespot = { -brand-name-fakespot }
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

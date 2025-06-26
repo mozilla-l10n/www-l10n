@@ -26,6 +26,7 @@ m24-about-we-advocate-for = Nus ans engaschain per megliers products e per che r
 m24-about-research = Retschertga
 m24-about-we-uncover-insights = Nus partin invistas, organisain campagnas per meglierar products e promover ina politica che resguarda tes interess.
 m24-about-build = Sviluppar
+# Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Nus sviluppain products che ta dattan la controlla – sco { -brand-name-firefox }, { -brand-name-fakespot } ed auters.
 m24-about-fund = Finanziaziun
 m24-about-we-fund-and = Nus investin en las persunas e l’engaschi che mainan la tecnologia, l’internet e l’IA en la dretga direcziun.

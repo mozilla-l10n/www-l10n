@@ -44,8 +44,6 @@ navigation-v2-sign-up-for-new-accounts = Rekisteröi uusia tilejä antamatta tod
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Uusia ominaisuuksia ja työkaluja mukautettuun { -brand-name-mdn }-kokemukseen
 navigation-v2-view-all-products = Katso kaikki tuotteet
-navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = Käytä tekoälyä väärennettyjen arvostelujen ja huijausten havaitsemiseen
 
 ## Who We Are menu
 

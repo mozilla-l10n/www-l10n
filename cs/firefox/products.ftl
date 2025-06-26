@@ -53,14 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Získejte přístup ke všem e-mailům, kalendářům a kontaktům v jedné rychlé aplikaci. Filtrujte a uspořádejte si je podle svých představ.
 firefox-products-download-thunderbird = Stáhněte si { -brand-name-thunderbird }
 
-## Fakespot
-
-firefox-products-fakespot = { -brand-name-fakespot }
-# scam artists are people who are trying to sell fakes or steal money
-# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
-firefox-products-fakespot-has-your = { -brand-name-fakespot } vám při nakupování online kryje záda — vyřadí podvodníky a najde vám ty nejlepší nabídky. Od { -brand-name-mozilla(case: "gen") }.
-firefox-products-analyze = Analyzovat adresu URL
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

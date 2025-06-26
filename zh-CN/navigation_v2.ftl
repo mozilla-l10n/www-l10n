@@ -44,8 +44,6 @@ navigation-v2-sign-up-for-new-accounts = 无须交出真实邮箱地址也能注
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = { -brand-name-mdn } 定制化体验：新特性、新工具
 navigation-v2-view-all-products = 一览所有产品
-navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = 使用 AI 检测虚假评价与欺诈行为
 
 ## Who We Are menu
 

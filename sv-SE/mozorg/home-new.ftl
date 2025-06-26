@@ -23,8 +23,6 @@ home-product-vpn-trust = Ett VPN du kan lita på
 home-cta-get-vpn = Hämta { -brand-name-mozilla-vpn }
 home-product-monitor-protect-your = Skydda din privata information från datainsamlare
 home-cta-get-monitor = Skaffa { -brand-name-monitor }
-home-product-fakespot-detect = Upptäck falska shoppingrecensioner
-home-cta-get-fakespot = Hämta { -brand-name-fakespot }
 home-mozilla-takes-bets = "{ -brand-name-mozilla } satsar för att visa världen att det finns en verksamhet att göra med pålitlig AI. Det inkluderar att sätta saker som mänskliga rättigheter, dataskydd och transparens till kärnan i hur dessa komplexa system fungerar.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico

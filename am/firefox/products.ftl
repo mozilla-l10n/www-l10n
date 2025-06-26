@@ -36,9 +36,6 @@ firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } ያግኙ
 ## Thunderbird
 
 
-## Fakespot
-
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

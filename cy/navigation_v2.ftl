@@ -44,8 +44,6 @@ navigation-v2-sign-up-for-new-accounts = Cofrestrwch ar gyfer cyfrifon newydd he
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Nodweddion ac offer newydd ar gyfer profiad personoledig o { -brand-name-mdn }
 navigation-v2-view-all-products = Gweld yr Holl Gynnyrch
-navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = Defnyddiwch AI i ganfod adolygiadau ffug a sgamiau
 
 ## Who We Are menu
 

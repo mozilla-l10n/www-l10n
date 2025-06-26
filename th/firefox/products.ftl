@@ -53,14 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = เข้าถึงอีเมล ปฏิทิน และผู้ติดต่อทั้งหมดของคุณในแอปเดียวที่รวดเร็ว รวมทั้งกรองและจัดระเบียบในแบบที่คุณต้องการ
 firefox-products-download-thunderbird = ดาวน์โหลด { -brand-name-thunderbird }
 
-## Fakespot
-
-firefox-products-fakespot = { -brand-name-fakespot }
-# scam artists are people who are trying to sell fakes or steal money
-# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
-firefox-products-fakespot-has-your = ให้ { -brand-name-fakespot } อยู่เคียงข้างคุณเมื่อคุณจับจ่ายซื้อของผ่านโลกออนไลน์ โดยเอานักตุ้มตุ๋นออกไปและค้นหาข้อเสนอที่ดีที่สุดให้คุณ สร้างขึ้นโดย { -brand-name-mozilla }
-firefox-products-analyze = วิเคราะห์ URL
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

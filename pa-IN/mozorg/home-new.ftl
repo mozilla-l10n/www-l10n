@@ -23,8 +23,6 @@ home-product-vpn-trust = ਤੁਹਾਡੇ ਭਰੋਸੇ ਦੇ ਕਾਬਲ 
 home-cta-get-vpn = { -brand-name-mozilla-vpn } ਲਵੋ
 home-product-monitor-protect-your = ਡਾਟਾ ਬਰੋਕਰਾਂ ਤੋਂ ਆਪਣੀ ਪ੍ਰਾਈਵੇਟ ਜਾਣਕਾਰੀ ਨੂੰ ਬਚਾਓ
 home-cta-get-monitor = { -brand-name-monitor } ਲਵੋ
-home-product-fakespot-detect = ਫ਼ਰਜ਼ੀ ਖ਼ਰੀਦਦਾਰੀ ਰੀਵਿਊਆਂ ਨੂੰ ਖੋਜੋ
-home-cta-get-fakespot = { -brand-name-fakespot } ਲਵੋ
 home-mozilla-takes-bets = “{ -brand-name-mozilla } ਸੰਸਾਰ ਨੂੰ ਸਿੱਧ ਕਰਨ ਲਈ ਦ੍ਰਿੜ੍ਹ ਹੈ ਕਿ ਭਰੋਸੇਯੋਗ AI ਨਾਲ ਕਾਰੋਬਾਰ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ। ਇਹਨਾਂ ਗੁੰਝਲਦਾਰ ਸਿਸਟਮ ਦੇ ਆਧਾਰ ਵਿੱਚ ਇਨਸਾਨੀ ਹੱਕ, ਡਾਟਾ ਸੁਰੱਖਿਆ ਅਤੇ ਪਾਰਦਰਸ਼ਤਾ ਵਰਗੀਆਂ ਗੱਲਾਂ ਨੂੰ ਧਿਆਨ ਵਿਚ ਰੱਖਿਆ ਜਾ ਸਕਦਾ ਹੈ।”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico

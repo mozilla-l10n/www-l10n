@@ -53,14 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Acceda a tut tes e-mails, chalenders e contacts en ina svelta app. Filtrescha ed organisescha tut sco ti prefereschas.
 firefox-products-download-thunderbird = Telechargiar { -brand-name-thunderbird }
 
-## Fakespot
-
-firefox-products-fakespot = { -brand-name-fakespot }
-# scam artists are people who are trying to sell fakes or steal money
-# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
-firefox-products-fakespot-has-your = { -brand-name-fakespot } ta sustegna cura che ti fas cumpras online — cun tegnair sin distanza ils spezialists da cugliunaria e chattar las meglras offertas. Creà da { -brand-name-mozilla }.
-firefox-products-analyze = Analisar ina URL
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

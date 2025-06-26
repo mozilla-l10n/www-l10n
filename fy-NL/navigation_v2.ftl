@@ -44,8 +44,6 @@ navigation-v2-sign-up-for-new-accounts = Skriuw jo yn foar nije accounts sûnder
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Nije funksjes en helpmiddelen foar in { -brand-name-mdn }-ûnderfining op maat
 navigation-v2-view-all-products = Alle produkten besjen
-navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = Brûk AI om falske beoardielingen en oplichting te detektearjen
 
 ## Who We Are menu
 

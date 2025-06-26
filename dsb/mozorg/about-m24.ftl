@@ -26,6 +26,7 @@ m24-about-we-advocate-for = Zasajźujomy se za lěpše produkty, cynimy kněže�
 m24-about-research = Slěźenje
 m24-about-we-uncover-insights = Wótekšywamy dowiźenja, pśewjedujomy kampanje, aby produkty pólěpšyli a wuwijamy pšawidła, kótarež waše zajmy reprezentěruju.
 m24-about-build = Wuwijaś
+# Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Wuwijamy produkty, kótarež wam kontrolu daju – ako { -brand-name-firefox }, { -brand-name-fakespot } a dalšne.
 m24-about-fund = Financěrowanje
 m24-about-we-fund-and = Financěrujomy luźe a procowanja, kótarež technologiju, internet a KI k pšawemu směroju doprědka póra a inwestěrujomy do togo.
