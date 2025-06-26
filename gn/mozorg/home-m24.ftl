@@ -91,6 +91,7 @@ m24-home-headline-you-ai-v2 = Nde, IA ha ñanduti: ¿mba’ete pe ojehuvahína?
 m24-home-introducing-anonym = Rohechauka { -brand-name-anonym }: rohupi yvateve ñemurã ñandutigua omomba’éva nde rekoñemi.
 m24-home-keeping-genai-technologies = Hekorosã hag̃ua tembiporupyahu GenAI ha’e opavavete rembiaporã.
 m24-home-from-hollywood-to = Hollywood guive hip hop reheguáva peve, oñomongeta IA jarakuéra ndive.
+m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } omomba’eguasu umi apopypyahu moheñoiharépe ta’ãngamýi “{ -brand-name-firefox } Presents” rupive.
 m24-home-kids-are-growing = Mitãnguéra okakuaa arapýpe ñanduti jeporúpe. ¿Mba’épa ojapokuaa tuvakuéra ojepy’apýva?
 
 ## Showcase
