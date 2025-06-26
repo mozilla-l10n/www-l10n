@@ -26,7 +26,7 @@ new-platform-download-the-fastest-linux = Λήψη του πιο γρήγορο�
 # /firefox/linux/ social sharing description
 new-platform-faster-page-loading-linux = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και πλήθος δυνατοτήτων, το νέο { -brand-name-firefox } για { -brand-name-linux } είναι εδώ.
 new-platform-privacy-more-than = Απόρρητο: κάτι παραπάνω από πολιτική
-new-platform-your-life-your-business = Η ζωή σας αφορά μόνο εσάς. Το { -brand-name-firefox } αποκλείει τα τρίτα cookies καταγραφής στο { -brand-name-linux }.
+new-platform-your-life-your-business = Η ζωή σας αφορά μόνο εσάς. Το { -brand-name-firefox } αποκλείει τα τρίτα cookie καταγραφής στο { -brand-name-linux }.
 new-platform-speed-meet-security = Ταχύτητα, μαζί με ασφάλεια. Το { -brand-name-firefox } είναι δύο φορές ταχύτερο με 30% λιγότερη μνήμη από το { -brand-name-chrome }.
 new-platform-open-source = Ανοικτού κώδικα
 new-platform-look-under-the-hood = Κοιτάξτε εσωτερικά. Όπως το { -brand-name-linux }, οι λειτουργίες του { -brand-name-firefox } είναι ανοικτού κώδικα.
@@ -44,7 +44,7 @@ new-platform-privacy-comes-first = Προτεραιότητα στο απόρρ�
 new-platform-firefox-doesnt-spy = Το { -brand-name-firefox } δεν κατασκοπεύει τις αναζητήσεις σας. Εμποδίζουμε τα τρίτα cookie καταγραφής και σας δίνουμε τον απόλυτο έλεγχο.
 new-platform-get-speed-and-security = Αποκτήστε ταχύτητα και ασφάλεια. Το { -brand-name-firefox } είναι γρήγορο σε υπολογιστές { -brand-name-mac-short }, επειδή δεν καταγράφει τις κινήσεις σας.
 new-platform-block-trackers = Φραγή ιχνηλατών
-new-platform-be-the-master-of-your = Ανακτήστε τον έλεγχο του διαδικτύου με αυστηρή φραγή περιεχομένου. Αποκλείστε όλα τα cookies και τους ιχνηλάτες.
+new-platform-be-the-master-of-your = Ανακτήστε τον έλεγχο του διαδικτύου με αυστηρή φραγή περιεχομένου. Αποκλείστε όλα τα cookie και τους ιχνηλάτες.
 
 ## Windows
 

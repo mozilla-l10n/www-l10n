@@ -12,7 +12,7 @@ firefox-quantum-was = Το { -brand-name-firefox-quantum } ήταν μια επ�
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = Μάθετε περισσότερα για το { -brand-name-firefox-quantum }
 privacy-first = Πρώτα το απόρρητο
-firefox-doesnt-spy = Το { -brand-name-firefox } δεν σας κατασκοπεύει στο διαδίκτυο. Εμποδίζουμε πολλά γνωστά cookies καταγραφής τρίτων και σας παρέχουμε τον πλήρη έλεγχο.
+firefox-doesnt-spy = Το { -brand-name-firefox } δεν σας κατασκοπεύει στο διαδίκτυο. Εμποδίζουμε πολλά γνωστά τρίτα cookie καταγραφής και σας δίνουμε τον απόλυτο έλεγχο.
 super-fast = Απίστευτα γρήγορο
 get-speed-and = Αποκτήστε ταχύτητα και ασφάλεια. Το { -brand-name-firefox } είναι γρήγορο, επειδή δεν καταγράφει τις κινήσεις σας.
 always-evolving = Εξελίσσεται συνεχώς
