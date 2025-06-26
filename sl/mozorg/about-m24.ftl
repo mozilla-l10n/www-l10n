@@ -37,6 +37,7 @@ m24-about-read-more = Preberite več
 m24-about-read-the-latest = Preberite zadnje novice in članke o { -brand-name-mozilla(sklon: "mestnik") }
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Prejemnica nagrade { -brand-name-rise25 }, ki kaže na svojo trofejo.
+m24-about-empowering-chicagos-entrepreneurs = Opolnomočenje chicaških podjetnikov za menjavo generacij
 # Used as an accessible text alternative for an image
 m24-about-chicago = Podjetnik iz Čikaga.
 
@@ -48,6 +49,8 @@ m24-about-read-about-our = Preberite več o naši zavezi
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-trustworthy = Zaupanja vredna UI, { -brand-name-common-voice }, Federated Learnings.
 # Used as an accessible text alternative for an image
 m24-about-alt-conversation = { -brand-name-mozilla(sklon: "dajalnik") }n zaposleni sredi pogovora.
 # Used as an accessible text alternative for an image
