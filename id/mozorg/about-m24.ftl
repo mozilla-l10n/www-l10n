@@ -26,6 +26,7 @@ m24-about-we-advocate-for = Kami mendukung pengembangan produk yang lebih baik d
 m24-about-research = Penelitian
 m24-about-we-uncover-insights = Kami menggali wawasan, mengadakan kampanye untuk meningkatkan kualitas produk, dan mendorong kebijakan yang sesuai dengan kepentingan Anda.
 m24-about-build = Membangun
+# Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Kami menciptakan produk yang memungkinkan Anda memiliki kendali penuh — seperti { -brand-name-firefox }, { -brand-name-fakespot } dan lainnya.
 m24-about-fund = Mendanai
 m24-about-we-fund-and = Kami mendanai dan berinvestasi pada talenta serta upaya yang mendorong perkembangan teknologi, internet, dan AI ke arah yang lebih baik.

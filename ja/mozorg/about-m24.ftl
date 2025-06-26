@@ -26,6 +26,7 @@ m24-about-we-advocate-for = Mozilla は、より良い製品を作ることを�
 m24-about-research = 研究
 m24-about-we-uncover-insights = Mozilla は洞察を生み出し、製品を改善するためのキャンペーンを行い、ユーザーの利益に寄り添うポリシーを推進します。
 m24-about-build = 構築する
+# Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Mozilla は、{ -brand-name-firefox } や { -brand-name-fakespot } など、ユーザーが管理する権利を守る製品を構築しています。
 m24-about-fund = 投資する
 m24-about-we-fund-and = Mozilla は、テクノロジー、インターネット、AI を正しい方向に導く人材や取り組みに資金提供し、投資しています。
