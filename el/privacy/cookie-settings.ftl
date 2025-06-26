@@ -23,7 +23,7 @@ cookie-settings-turn-on-javascript = Ενεργοποιήστε τη JavaScript 
 cookie-settings-category-necessary-heading = Απαραίτητα
 cookie-settings-category-necessary-what-are-subheading = Τι είναι τα απαραίτητα cookie;
 cookie-settings-category-necessary-what-are-desc = Αυτές οι τεχνολογίες απαιτούνται για την υποστήριξη των βασικών λειτουργιών των ιστοτόπων, όπως η σύνδεση σε μια ασφαλή περιοχή μιας ιστοσελίδας ή η προσθήκη προϊόντων σε ένα καλάθι αγορών, επομένως δεν είναι δυνατή η απενεργοποίησή τους.
-cookie-settings-category-necessary-how-does-desc-v2 = Η { -brand-name-mozilla } χρησιμοποιεί τα απαραίτητα cookie αποκλειστικά για την παροχή των βασικών λειτουργιών του ιστοτόπου, όπως σύνδεση μέσω τον { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } σας ή αγορά μιας συνδρομής λογισμικού . Χωρίς αυτές τις τεχνολογίες, οι βασικές λειτουργίες του ιστοτόπου ενδέχεται να μη λειτουργούν.
+cookie-settings-category-necessary-how-does-desc-v2 = Η { -brand-name-mozilla } χρησιμοποιεί τα απαραίτητα cookie αποκλειστικά για την παροχή των βασικών λειτουργιών του ιστοτόπου, όπως σύνδεση μέσω τον { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } σας ή αγορά μιας συνδρομής λογισμικού . Χωρίς αυτές τις τεχνολογίες, οι βασικές λειτουργίες του ιστοτόπου ενδέχεται να μην λειτουργούν.
 
 ## Preference cookies section
 
