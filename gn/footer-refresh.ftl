@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-refresh-discover-mozilla-products = Eikuaa { -brand-name-mozilla } apopyre ha ojepóva. Rorekóta ne ñanduti veve tekoñemi ha tekorosãme: noromoherakuã ha norovendemo’ãi, rombohekopyahúta tekoporãverã.
 footer-refresh-leadership = Motenondekuaa
 footer-refresh-advertise = Emoherakuã { -brand-name-mozilla } ndive
 footer-refresh-mozilla-advertising = Marandu { -brand-name-mozilla } rehegua
