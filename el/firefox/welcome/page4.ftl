@@ -27,5 +27,5 @@ welcome-page4-automatically-clear-your-history = Αυτόματη απαλοιφ
 welcome-page4-go-faster-do-more = Κάντε περισσότερα, ταχύτερα.
 welcome-page4-take-it-all-with-you = Όλα τα δεδομένα σας, μαζί σας
 welcome-page4-more-done-fast-smart = Κάντε περισσότερα στη διάρκεια της ημέρας σας με αστραπιαία φόρτωση σελίδων και έξυπνες προτάσεις αναζήτησης.
-welcome-page4-dont-walk-out-the-door-without = Μη φύγετε χωρίς να πάρετε τους σελιδοδείκτες, τις καρτέλες, τις σημειώσεις και τους κωδικούς πρόσβασής σας.
+welcome-page4-dont-walk-out-the-door-without = Μην φύγετε χωρίς να πάρετε τους σελιδοδείκτες, τις καρτέλες, τις σημειώσεις και τους κωδικούς πρόσβασής σας.
 welcome-page4-why-am-i-seeing-this = Γιατί το βλέπω αυτό;
