@@ -55,14 +55,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = अपने सारे ईमेल, कैलेंडर और संपर्क पाएं एक ही ऐप में, जो फ़ास्ट चलता है। उन्हें जैसे चाहें वैसे फ़िल्टर करें, व्यवस्थित करें।
 firefox-products-download-thunderbird = { -brand-name-thunderbird } डाउनलोड करें
 
-## Fakespot
-
-firefox-products-fakespot = { -brand-name-fakespot }
-# scam artists are people who are trying to sell fakes or steal money
-# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
-firefox-products-fakespot-has-your = जब आप ऑनलाइन खरीदारी करते हैं तो { -brand-name-fakespot } आपकी मदद करता है — स्कैम करने वाले घोटालेबाजों को आपसे दूर रखने में और और आपके लिए बेहतरीन डील खोजने में। { -brand-name-mozilla } द्वारा निर्मित।
-firefox-products-analyze = URL की जांच-परख
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

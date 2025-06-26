@@ -55,14 +55,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = 1 つの高速なアプリでメール、カレンダー、連絡先すべてにアクセス。好みの方法でフィルター処理したり整理したりできます。
 firefox-products-download-thunderbird = { -brand-name-thunderbird } をダウンロード
 
-## Fakespot
-
-firefox-products-fakespot = { -brand-name-fakespot }
-# scam artists are people who are trying to sell fakes or steal money
-# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
-firefox-products-fakespot-has-your = { -brand-name-fakespot } はオンラインショッピングの味方。詐欺を排除し、お得情報を見つけます。{ -brand-name-mozilla } が運営。
-firefox-products-analyze = URL を分析
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }

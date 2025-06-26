@@ -55,14 +55,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Akses e-mel, kalendar, dan butiran hubungan anda dalam satu aplikasi yang pantas. Saring dan susun mengikut kehendak anda.
 firefox-products-download-thunderbird = Muat turun { -brand-name-thunderbird }
 
-## Fakespot
-
-firefox-products-fakespot = { -brand-name-fakespot }
-# scam artists are people who are trying to sell fakes or steal money
-# 'weeding' is a gardening term, here it is used to mean "removing unwanted things without touching the good ones"
-firefox-products-fakespot-has-your = { -brand-name-fakespot } melindungi urusan membeli-belah dalam talian — membongkar penipu dan membantu mencari tawaran yang terbaik untuk anda. Dibangunkan oleh { -brand-name-mozilla }.
-firefox-products-analyze = Analisis URL
-
 ## Pocket
 
 firefox-products-pocket = { -brand-name-pocket }
