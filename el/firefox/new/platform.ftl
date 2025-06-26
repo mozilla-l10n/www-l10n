@@ -41,7 +41,7 @@ new-platform-download-the-fastest-mac = Λήψη του πιο γρήγορου 
 # /firefox/mac/ social sharing description
 new-platform-faster-page-loading-mac = Ταχύτερη φόρτωση σελίδων, λιγότερη χρήση μνήμης και πλήθος δυνατοτήτων, το νέο { -brand-name-firefox } για { -brand-name-mac-short } είναι εδώ.
 new-platform-privacy-comes-first = Προτεραιότητα στο απόρρητο
-new-platform-firefox-doesnt-spy = Το { -brand-name-firefox } δεν κατασκοπεύει τις αναζητήσεις σας. Σταματάμε τα τρίτα cookies καταγραφής και σας παρέχουμε τον πλήρη έλεγχο.
+new-platform-firefox-doesnt-spy = Το { -brand-name-firefox } δεν κατασκοπεύει τις αναζητήσεις σας. Εμποδίζουμε τα τρίτα cookie καταγραφής και σας δίνουμε τον απόλυτο έλεγχο.
 new-platform-get-speed-and-security = Αποκτήστε ταχύτητα και ασφάλεια. Το { -brand-name-firefox } είναι γρήγορο σε υπολογιστές { -brand-name-mac-short }, επειδή δεν καταγράφει τις κινήσεις σας.
 new-platform-block-trackers = Φραγή ιχνηλατών
 new-platform-be-the-master-of-your = Ανακτήστε τον έλεγχο του διαδικτύου με αυστηρή φραγή περιεχομένου. Αποκλείστε όλα τα cookies και τους ιχνηλάτες.
