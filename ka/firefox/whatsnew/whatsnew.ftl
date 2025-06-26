@@ -15,4 +15,5 @@ whatsnew-release-notes-v2 = იხილეთ <a { $url }>გამოშვე
 whatsnew-signoff = <strong>უზრუნველყოფს { -brand-name-mozilla }.</strong> ხალხის საჭიროებების მოგებაზე წინ დაყენება 1998 წლიდან.
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = გაიღეთ შემოწირულობა – { -brand-name-mozilla-foundation }
+whatsnew-donate-to-mofo-v2 = შემოწირულობა { -brand-name-mozilla-foundation }-სთვის
 whatsnew-thanks-for-choosing = გმადლობთ, რომ აირჩიეთ { -brand-name-firefox }

@@ -28,6 +28,7 @@ m24-about-we-uncover-insights = ვავლენთ მოსაზრებ�
 m24-about-build = შემუშავება
 # Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = ჩვენ ვქმნით პროდუქტებს, რომლებიც გიბრუნებთ მართვის სადავეებს — ასეთებია, თუნდაც { -brand-name-firefox }, { -brand-name-fakespot } და სხვა.
+m24-about-we-build-products-v2 = ჩვენ ვქმნით პროდუქტებს, რომლებიც გაძლევთ — { -brand-name-firefox } და სხვა.
 m24-about-fund = დაფინანსება
 m24-about-we-fund-and = ჩვენ ვაფინანსებთ და ვაბანდებთ სახსრებს ძალისხმევასა და ხალხში, რომ ტექნოლოგიების, ინტერნეტისა და ხელოვნური ინტელექტის განვითარება სწორი გზით წარიმართოს.
 

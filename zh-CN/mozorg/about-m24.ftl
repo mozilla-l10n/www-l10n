@@ -28,6 +28,7 @@ m24-about-we-uncover-insights = 我们探寻见解、举办活动，以改进产
 m24-about-build = 打造
 # Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = 我们打造让您掌握控制权的产品，例如 { -brand-name-firefox }、{ -brand-name-fakespot } 等。
+m24-about-we-build-products-v2 = 我们打造的产品一切由您掌控 — 例如 { -brand-name-firefox } 等等。
 m24-about-fund = 资助
 m24-about-we-fund-and = 我们资助和投资促进技术、互联网和 AI 向善发展的人与行动。
 

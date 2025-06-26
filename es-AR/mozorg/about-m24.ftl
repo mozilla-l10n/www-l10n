@@ -28,6 +28,7 @@ m24-about-we-uncover-insights = Descubrimos ideas, hacemos campaña para mejorar
 m24-about-build = Construir
 # Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Creamos productos que te dan el control, como { -brand-name-firefox }, { -brand-name-fakespot } y más.
+m24-about-we-build-products-v2 = Creamos productos que te dan el control, como { -brand-name-firefox } y más.
 m24-about-fund = Financiamiento
 m24-about-we-fund-and = Financiamos e invertimos en las personas y en los esfuerzos para llevar la tecnología, Internet y la IA en la dirección correcta.
 

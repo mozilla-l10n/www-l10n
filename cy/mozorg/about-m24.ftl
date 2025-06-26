@@ -28,6 +28,7 @@ m24-about-we-uncover-insights = Rydym yn datgelu mewnwelediadau, yn ymgyrchu i w
 m24-about-build = Adeiladu
 # Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Rydyn ni'n adeiladu cynnyrch sy'n eich rhoi chi mewn rheolaeth — fel { -brand-name-firefox }, { -brand-name-fakespot } a mwy.
+m24-about-we-build-products-v2 = Rydyn ni'n adeiladu cynhyrchion sy'n eich rhoi chi mewn rheolaeth — fel { -brand-name-firefox } a mwy.
 m24-about-fund = Ariannu
 m24-about-we-fund-and = Rydym yn ariannu ac yn buddsoddi yn y bobl a'r ymdrechion i fynd â thechnoleg, y rhyngrwyd a deallusrwydd artiffisial i'r cyfeiriad cywir.
 

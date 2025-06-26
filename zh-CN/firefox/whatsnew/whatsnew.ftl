@@ -15,4 +15,5 @@ whatsnew-release-notes-v2 = 阅读<a { $url }>发行说明</a>，详细了解 { 
 whatsnew-signoff = <strong>由 { -brand-name-mozilla } 提供。</strong>1998 年至今，始终坚持以人为本。
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = 向 { -brand-name-mozilla-foundation }捐款
+whatsnew-donate-to-mofo-v2 = 捐款给 { -brand-name-mozilla-foundation }
 whatsnew-thanks-for-choosing = 感谢您选择 { -brand-name-firefox }
