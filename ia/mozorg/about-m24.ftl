@@ -28,6 +28,7 @@ m24-about-we-uncover-insights = Nos discoperi intuitiones, campanias pro meliora
 m24-about-build = Producer
 # Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Nos produce lo que te pone al commando, como { -brand-name-firefox }, { -brand-name-fakespot } e altero.
+m24-about-we-build-products-v2 = Nos produce lo que te pone al commando, como { -brand-name-firefox } e altero.
 m24-about-fund = Financiar
 m24-about-we-fund-and = Nos financia e investi in le personas e le effortios pro tener le technologia, internet e le intelligentia artificial in le juste direction.
 

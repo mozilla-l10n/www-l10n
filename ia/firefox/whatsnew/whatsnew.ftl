@@ -15,4 +15,5 @@ whatsnew-release-notes-v2 = Lege le <a { $url }>notas de version</a> pro saper p
 whatsnew-signoff = <strong>Realisate per { -brand-name-mozilla }.</strong> Ponente le personas ante le profitos desde 1998.
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Donar al { -brand-name-mozilla-foundation }
+whatsnew-donate-to-mofo-v2 = Donar a { -brand-name-mozilla-foundation }
 whatsnew-thanks-for-choosing = Gratias pro haber eligite { -brand-name-firefox }

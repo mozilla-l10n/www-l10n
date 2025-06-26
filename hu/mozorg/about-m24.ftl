@@ -28,7 +28,7 @@ m24-about-we-uncover-insights = Meglátásokat tárunk fel, és olyan termékfej
 m24-about-build = Fejlesztés
 # Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Olyan termékeket készítünk, amelyekkel az Öné az irányítás – mint a { -brand-name-firefox }, a { -brand-name-fakespot } és így tovább.
-m24-about-we-build-products-v2 = Olyan termékeket készítünk, amelyekkel az Öné az irányítás – ilyen a { -brand-name-firefox } és így tovább.
+m24-about-we-build-products-v2 = Olyan termékeket készítünk, amelyekkel az Öné az irányítás – ilyen a { -brand-name-firefox } és a többi.
 m24-about-fund = Finanszírozás
 m24-about-we-fund-and = Olyan embereket és erőfeszítéseket finanszírozunk, és abba fektetünk be, hogy a technológiát, az internetet és a mesterséges intelligenciát a helyes irányba tereljük.
 
