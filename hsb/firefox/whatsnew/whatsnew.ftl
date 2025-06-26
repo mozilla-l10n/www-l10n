@@ -15,4 +15,5 @@ whatsnew-release-notes-v2 = Čitajće <a { $url }>wersije informacije</a>, zo by
 whatsnew-signoff = <strong>Spěchowany wot { -brand-name-mozilla }.</strong> Stajamy ludźi před profit wot lěta 1998.
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Darće { -brand-name-mozilla-foundation }
+whatsnew-donate-to-mofo-v2 = Darće { -brand-name-mozilla-foundation }
 whatsnew-thanks-for-choosing = Dźakujemy so, zo sće { -brand-name-firefox } wubrał

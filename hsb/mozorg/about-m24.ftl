@@ -28,6 +28,7 @@ m24-about-we-uncover-insights = Wotkrywamy dopóznaća, přewjedźemy kampanje, 
 m24-about-build = Wuwiwać
 # Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Wuwiwamy produkty, kotrež wam kontrolu dadźa – kaž { -brand-name-firefox }, { -brand-name-fakespot } a dalše.
+m24-about-we-build-products-v2 = Wuwiwamy produkty, kotrež wam kontrolu dadźa – kaž { -brand-name-firefox } a dalše.
 m24-about-fund = Financowanje
 m24-about-we-fund-and = Financujemy ludźi a prócowanja, kotrež technologiju, internet a KI k prawemu směrej doprědka ćěri a inwestujemy do toho.
 

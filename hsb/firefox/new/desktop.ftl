@@ -114,6 +114,9 @@ firefox-desktop-download-from-security-to = Wot wěstoty přez powěsće do hra�
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } je so wot <a { $attrs }>{ -brand-name-mozilla }</a> jako spěšniša, bóle priwatna alternatiwa k wobhladowakam kaž { -brand-name-ie }, a nětko { -brand-name-chrome } wutworił. Dźensa naše předewzaće a zhromadźenstwo dobrowólnikow hišće našej misiji slědujetej, zo byštej waš priwatnosć nade wšěm stajiłoj.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Tak kaž internet rosće a so měnja, staja { -brand-name-firefox } dale fokus na waše prawo na priwatnosć – to je hižo přeco naša wěc było. Zhońće wjace wo našich datowych praktikach w našej <a { $attrs }>zdźělence priwatnosće</a>.
 # Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/

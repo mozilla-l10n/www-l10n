@@ -44,4 +44,5 @@ vpn-download-faq-why-use = Čehodla { -brand-name-mozilla-vpn } wužiwać?
 vpn-download-faq-concealing-ip = Waša <a href="{ $ip }">IP-adresa</a> so schowa: To pomha, wašu identitu škitać a waše stejnišćo  před websydłami, kotrež wopytujeće, znjespóznajomni.
 vpn-download-faq-working = Kak wěm, zo VPN funguje?
 vpn-download-faq-add-device = Kak móžu dalši grat přidać?
+vpn-download-faq-best-practices = Što su najlěpše praktiki VPN?
 vpn-download-faq-need-more = Trjebaće trochu wjace pomocy?
