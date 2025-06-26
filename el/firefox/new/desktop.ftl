@@ -129,7 +129,7 @@ firefox-desktop-download-firefox-is-available-v2 = Το { -brand-name-firefox } 
 firefox-desktop-download-grab-a-high = Καταγράψτε οτιδήποτε στο διαδίκτυο με υψηλή ανάλυση με το ενσωματωμένο εργαλείο <a { $attrs }>στιγμιότυπων οθόνης</a>.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-firefox-automatically = Το { -brand-name-firefox } <a { $attrs }>αποκλείει αυτόματα πολλούς ιχνηλάτες τρίτων</a> ώστε να μη συλλέγουν και να μην πωλούν τη δραστηριότητά σας.
+firefox-desktop-download-firefox-automatically = Το { -brand-name-firefox } <a { $attrs }>αποκλείει αυτόματα πολλούς ιχνηλάτες τρίτων</a> ώστε να μην συλλέγουν και να μην πωλούν τη δραστηριότητά σας.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Έχετε απορίες; Η <a { $attrs }>Υποστήριξη { -brand-name-mozilla }</a> είναι εδώ για σας.
