@@ -38,15 +38,13 @@ navigation-v2-save-and-discover-the-best = इंटरनेट पर सब�
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = { -brand-name-facebook } को उनकी साइट के अलावा कहीं और से आपका डेटा इकट्ठा करने से रोकें।
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
-navigation-v2-get-protection-beyond-your-browser = अपने सभी डिवाइसों पर अपने ब्राउज़र के अलावा भी सुरक्षा पाएं।
+navigation-v2-get-protection-beyond-your-browser = अपने सभी डिवाइसों पर अपने ब्राउज़र के अलावा भी सुरक्षा पाएँ।
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (बीटा)
 navigation-v2-sign-up-for-new-accounts = अपना ईमेल एड्रेस दिए बिना नए अकाउंट के लिए साइन अप करें।
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = अपने अनुरूप { -brand-name-mdn } अनुभव के लिए नए फ़ीचर्स और टूल्स
 navigation-v2-view-all-products = सभी उत्पाद देखें
-navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = नकली रिव्यू और घोटालों का पता लगाने के लिए AI का उपयोग करें
 
 ## Who We Are menu
 

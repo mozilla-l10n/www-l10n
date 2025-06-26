@@ -38,15 +38,13 @@ navigation-v2-save-and-discover-the-best = Simpan dan terokai kisah-kisah terbai
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Bantulah mencegah { -brand-name-facebook } daripada mengumpulkan data anda di luar laman mereka.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
-navigation-v2-get-protection-beyond-your-browser = Dapatkan perlindungan bukan sekadar pelayar, bagi kesemua peranti anda.
+navigation-v2-get-protection-beyond-your-browser = Dapatkan perlindungan bukan sekadar pelayar, bagi kesemua pelayar anda.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)
 navigation-v2-sign-up-for-new-accounts = Daftar untuk akaun baru tanpa menyerahkan alamat e-mel anda.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Ciri dan peralatan baru untuk pengalaman { -brand-name-mdn } yang disesuaikan
 navigation-v2-view-all-products = Lihat semua Produk
-navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = Menggunakan AI untuk mengesan ulasan palsu dan penipuan
 
 ## Who We Are menu
 

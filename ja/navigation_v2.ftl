@@ -45,8 +45,6 @@ navigation-v2-sign-up-for-new-accounts = メールアドレスを提供せずに
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = 新しい機能とツールで { -brand-name-mdn } をカスタマイズ
 navigation-v2-view-all-products = すべての製品を表示
-navigation-v2-fakespot = { -brand-name-fakespot }
-navigation-v2-use-ai-to-detect = AI で偽レビューや詐欺を検出
 
 ## Who We Are menu
 
