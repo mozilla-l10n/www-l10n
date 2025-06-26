@@ -15,4 +15,5 @@ whatsnew-release-notes-v2 = Лутфан, <a { $url }>Қайдҳои нашрр�
 whatsnew-signoff = <strong>Аз ҷониби ташкилоти «{ -brand-name-mozilla }» дастгирӣ карда мешавад.</strong> Аз соли 1998 манфиатҳои одамонро нисбат ба даромади тиҷорӣ ба ҷойи аввал мегузорад.
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Ба «{ -brand-name-mozilla-foundation }» саҳм гузоред
+whatsnew-donate-to-mofo-v2 = Ба «{ -brand-name-mozilla-foundation }» саҳм гузоред
 whatsnew-thanks-for-choosing = Ташаккур барои интихоб кардани «{ -brand-name-firefox }»
