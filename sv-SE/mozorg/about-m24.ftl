@@ -28,6 +28,7 @@ m24-about-we-uncover-insights = Vi avslöjar insikter, kampanjer för att förb�
 m24-about-build = Skapar
 # Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Vi skapar produkter som ger dig kontroll — som { -brand-name-firefox }, { -brand-name-fakespot } och fler.
+m24-about-we-build-products-v2 = Vi skapar produkter som ger dig kontrollen — som { -brand-name-firefox } och fler.
 m24-about-fund = Finansiering
 m24-about-we-fund-and = Vi finansierar och investerar i människorna och de insatser som tar teknik, internet och AI i rätt riktning.
 

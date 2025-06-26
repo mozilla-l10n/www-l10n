@@ -15,4 +15,5 @@ whatsnew-release-notes-v2 = Läs <a { $url }>versionsfakta</a> för att veta mer
 whatsnew-signoff = <strong>Drivs av { -brand-name-mozilla }.</strong> Sätter människor före vinster sedan 1998.
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Donera till { -brand-name-mozilla-foundation }
+whatsnew-donate-to-mofo-v2 = Donera till { -brand-name-mozilla-foundation }
 whatsnew-thanks-for-choosing = Tack för att du valde { -brand-name-firefox }
