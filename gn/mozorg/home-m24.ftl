@@ -51,6 +51,7 @@ m24-home-tag-event = Tembiaporã
 m24-home-read-more = Emoñe’ẽve
 m24-home-get-started = Eñepyrũ
 m24-home-join-the-movement = Ejuaju kóvare: IA opavavépe g̃uarã
+m24-home-our-mission-is = Ore rembipota ha’e rombohapévo maymavete tapichápe IA jeroviaháva ñemoheñói ha ijayvu jurujáva.
 # Used as an accessible text alternative for an image
 m24-home-alt-solo-ai-logo = { -brand-name-solo-ai } ra’ãnga’i
 m24-home-solo-ai = { -brand-name-solo-ai }
