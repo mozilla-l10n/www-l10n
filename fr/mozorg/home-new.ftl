@@ -28,8 +28,6 @@ home-cta-get-vpn = Installer { -brand-name-mozilla-vpn }
 
 home-product-monitor-protect-your = Protégez vos informations personnelles des revendeurs de données.
 home-cta-get-monitor = Installer { -brand-name-monitor }
-home-product-fakespot-detect = Détectez les faux avis sur les sites d’e-commerce
-home-cta-get-fakespot = Installer { -brand-name-fakespot }
 
 home-mozilla-takes-bets = « { -brand-name-mozilla } parie sur le fait de montrer au monde qu’il est possible de concevoir et de commercialiser une IA digne de confiance. Ce concept nécessite de placer les droits humains, la protection des données et la transparence au cœur du fonctionnement de ces systèmes complexes. »
 

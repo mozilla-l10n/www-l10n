@@ -28,8 +28,6 @@ home-cta-get-vpn = Hol dir jetzt { -brand-name-mozilla-vpn }
 
 home-product-monitor-protect-your = Schütze deine privaten Daten vor Datenbrokers
 home-cta-get-monitor = Hol dir jetzt { -brand-name-monitor }
-home-product-fakespot-detect = Gefälschte Shopping-Bewertungen erkennen
-home-cta-get-fakespot = Hol dir jetzt { -brand-name-fakespot }
 
 home-mozilla-takes-bets = „{ -brand-name-mozilla } möchte der Welt unter Beweis stellen, dass man mit vertrauenswürdiger KI Geld verdienen kann. Das schließt Dinge wie Menschenrechte, Datenschutz und Transparenz ein, die für den Betrieb dieser komplexen Systeme von zentraler Bedeutung sind.“
 

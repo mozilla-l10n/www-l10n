@@ -28,8 +28,6 @@ home-cta-get-vpn = Dapatkan { -brand-name-mozilla-vpn }
 
 home-product-monitor-protect-your = Lindungi informasi pribadi Anda dari broker data
 home-cta-get-monitor = Dapatkan { -brand-name-monitor }
-home-product-fakespot-detect = Deteksi ulasan belanja palsu
-home-cta-get-fakespot = Dapatkan { -brand-name-fakespot }
 
 home-mozilla-takes-bets = “{ -brand-name-mozilla } berani menunjukkan kepada dunia bahwa ada bisnis yang dapat dibangun dengan AI yang tepercaya. Dengan menjadikan hak asasi manusia, perlindungan data, dan transparansi sebagai inti dari cara kerja sistem yang kompleks ini.”
 

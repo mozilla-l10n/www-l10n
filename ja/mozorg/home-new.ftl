@@ -28,8 +28,6 @@ home-cta-get-vpn = { -brand-name-mozilla-vpn } をダウンロード
 
 home-product-monitor-protect-your = データブローカーから個人情報を保護する
 home-cta-get-monitor = { -brand-name-monitor } をダウンロード
-home-product-fakespot-detect = 偽のショッピングレビューを検出する
-home-cta-get-fakespot = { -brand-name-fakespot } をダウンロード
 
 home-mozilla-takes-bets = 「{ -brand-name-mozilla } は、信頼できる AI を使って実現するビジネスがあることを世界に示す取り組みをしています。その中で、人権やデータ保護、透明性などをこれらの複雑なシステムの中核に据えています」
 
