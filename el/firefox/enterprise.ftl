@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Αποκτήστε το { -brand-name-firefox } για την επιχείρησή σας με την έκδοση { -brand-name-esr } και την έκδοση ταχείας κυκλοφορίας.
-firefox-enterprise-get-unmatched-data-protection = Λάβετε απαράμιλλη προστασία δεδομένων στο ρυθμό κυκλοφορίας που σας ταιριάζει με το { -brand-name-firefox } για επιχειρήσεις. Λήψη της έκδοσης { -brand-name-esr } και της έκδοσης ταχείας κυκλοφορίας.
+firefox-enterprise-get-unmatched-data-protection = Απολαύστε απαράμιλλη προστασία δεδομένων στον ρυθμό κυκλοφορίας που σας ταιριάζει με το { -brand-name-firefox } για επιχειρήσεις. Κάντε λήψη της έκδοσης { -brand-name-esr } και της έκδοσης ταχείας κυκλοφορίας.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-get-firefox-for-your-enterprise = Λήψη του { -brand-name-firefox } για επιχειρήσεις
 # Variables:
