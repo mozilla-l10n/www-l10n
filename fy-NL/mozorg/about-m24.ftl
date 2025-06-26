@@ -28,6 +28,7 @@ m24-about-we-uncover-insights = Wy ûntdekke ynsjoch, fiere kampanje om produkte
 m24-about-build = Bouwe
 # Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Wy bouwe produkten dy't jo yn kontrôle bringe – lykas { -brand-name-firefox }, { -brand-name-fakespot } en mear.
+m24-about-we-build-products-v2 = Wy bouwe produkten dy't jo yn kontrôle bringe – lykas { -brand-name-firefox } en mear.
 m24-about-fund = Finansiering
 m24-about-we-fund-and = Wy finansiere en ynvestearje yn de minsken en ynspanningen dy't technology, ynternet en AI yn de goede rjochting stjoere.
 

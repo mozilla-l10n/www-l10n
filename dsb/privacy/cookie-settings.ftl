@@ -42,4 +42,5 @@ cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } infor
 ## Privacy section
 
 cookie-settings-privacy-heading = Naša powěźeńka priwatnosći
+cookie-settings-privacy-desc = Za nadrobnjejše informacije wó rozdźělnych typach informacijow, kótarež { -brand-name-mozilla } gromaźi, gaž se k našym websedłam woglědujośo, namakajośo dołojce wótkaz na našu powěźeńku priwatnosći.
 cookie-settings-privacy-policy-link = Powěźeńka priwatnosći
