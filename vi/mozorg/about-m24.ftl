@@ -28,6 +28,7 @@ m24-about-we-uncover-insights = Chúng tôi khám phá những hiểu biết sâ
 m24-about-build = Xây dựng
 # Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Chúng tôi tạo ra những sản phẩm giúp bạn nắm quyền kiểm soát — như { -brand-name-firefox }, { -brand-name-fakespot } và hơn thế nữa.
+m24-about-we-build-products-v2 = Chúng tôi tạo ra những sản phẩm giúp bạn nắm quyền kiểm soát — như { -brand-name-firefox } và hơn thế nữa.
 m24-about-fund = Tài trợ
 m24-about-we-fund-and = Chúng tôi tài trợ và đầu tư vào con người cũng như nỗ lực đưa công nghệ, Internet và AI đi đúng hướng.
 
