@@ -9,7 +9,7 @@
 compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } εναντίον Microsoft Edge
 # HTML page description
 compare-edge-read-our-comparison = Διαβάστε τη σύγκριση του { -brand-name-firefox } με το Edge, όσον αφορά τις λειτουργίες, το απόρρητο και την ευκολία χρήσης.
-compare-edge-firefox-makes-privacy-protection = Το { -brand-name-firefox } κάνει την προστασία του απορρήτου μια εύκολη διαδικασία, ώστε να μη χρειάζεται να ανησυχείτε γι' αυτό.
+compare-edge-firefox-makes-privacy-protection = Το { -brand-name-firefox } κάνει την προστασία του απορρήτου μια εύκολη διαδικασία, ώστε να μην χρειάζεται να ανησυχείτε γι' αυτό.
 compare-edge-we-block-trackers-by-default = Αποκλείουμε τους ιχνηλάτες από προεπιλογή. Το Edge δεν το κάνει.
 compare-edge-and-we-make-it-easy-for-you = Επίσης, σας διευκολύνουμε στην επιλογή της μηχανής αναζήτησης που χρησιμοποιείτε κάθε φορά που κάνετε αναζήτηση. Το Edge σάς αναγκάζει να ψάξετε τις ρυθμίσεις σας για να χρησιμοποιήσετε μια μηχανή αναζήτησης εκτός του Bing.
 compare-edge-microsoft-has-to-make-their-shareholders = Η Microsoft πρέπει να κάνει χαρούμενους τους μετόχους της, αλλά εμείς μπορούμε να επικεντρωθούμε στο να κάνουμε <strong>εσάς</strong> χαρούμενους, με προτεραιότητα το απόρρητο.
