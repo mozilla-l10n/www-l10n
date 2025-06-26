@@ -16,6 +16,7 @@ whatsnew-release-notes-v2 = Baca <a { $url }>Catatan Rilis</a> untuk mengetahui 
 
 whatsnew-signoff = <strong>Didukung oleh { -brand-name-mozilla }.</strong> Mengutamakan pengguna daripada keuntungan sejak 1998.
 
+# Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Donasi ke { -brand-name-mozilla-foundation }
 
 whatsnew-thanks-for-choosing = Terima kasih telah memilih { -brand-name-firefox }

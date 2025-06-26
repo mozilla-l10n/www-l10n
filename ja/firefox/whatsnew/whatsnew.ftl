@@ -16,6 +16,7 @@ whatsnew-release-notes-v2 = { -brand-name-firefox } ブラウザーの新機能�
 
 whatsnew-signoff = <strong>{ -brand-name-mozilla } が開発</strong>。1998 年より、利益よりもユーザーを守ってきました。
 
+# Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = { -brand-name-mozilla-foundation } に寄付
 
 whatsnew-thanks-for-choosing = { -brand-name-firefox } をご使用いただき、ありがとうございます

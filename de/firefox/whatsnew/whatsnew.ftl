@@ -16,6 +16,7 @@ whatsnew-release-notes-v2 = Lies die <a { $url }>Versionshinweise</a>, um mehr �
 
 whatsnew-signoff = <strong>Powered by { -brand-name-mozilla }.</strong> Für dich und das Web. Schon seit 1998.
 
+# Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Spende an die { -brand-name-mozilla-foundation }
 
 whatsnew-thanks-for-choosing = Danke, dass du dich für { -brand-name-firefox } entschieden hast

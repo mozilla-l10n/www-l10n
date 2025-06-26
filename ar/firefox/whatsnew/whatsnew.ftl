@@ -16,6 +16,7 @@ whatsnew-release-notes-v2 = اقرأ <a { $url }>ملاحظات الإصدار</
 
 whatsnew-signoff = <strong>مدعوم من شركة { -brand-name-mozilla }.</strong>الناس عندنا أهم من الأرباح منذ أنْ طوّرنا المتصفح في عام 1998.
 
+# Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = تبرّع لـ { -brand-name-mozilla-foundation }
 
 whatsnew-thanks-for-choosing = شكرًا على اختيار { -brand-name-firefox }

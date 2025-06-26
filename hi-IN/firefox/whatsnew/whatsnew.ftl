@@ -16,6 +16,7 @@ whatsnew-release-notes-v2 = <a { $url }>रिलीज़ नोट्स</a> प�
 
 whatsnew-signoff = <strong>{ -brand-name-mozilla } द्वारा संचालित।</strong> वर्ष 1998 से ही मुनाफ़े से ज़्यादा लोगों को तरजीह।
 
+# Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = कृपया { -brand-name-mozilla-foundation } को दान दें
 
 whatsnew-thanks-for-choosing = { -brand-name-firefox } को चुनने के लिए धन्यवाद
