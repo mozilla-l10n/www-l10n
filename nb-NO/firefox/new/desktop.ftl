@@ -10,11 +10,17 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Last ned { -brand-name-firefox-browser } fra { -brand-name-mozilla } — rask, privat og gratis
+firefox-desktop-download-meta-title-v2 = Last ned { -brand-name-firefox } for PC — fra { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Få { -brand-name-firefox }, en gratis nettleser støttet av { -brand-name-mozilla }, en ideell organisasjon dedikert til internetthelse og personvern. Tilgjengelig nå på { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } og { -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = Skaff deg { -brand-name-firefox } for { -brand-name-windows }, { -brand-name-mac-short } eller { -brand-name-linux }. { -brand-name-firefox } er en gratis nettleser støttet av { -brand-name-mozilla }, en ideell organisasjon dedikert til internetthelse og personvern.
 firefox-desktop-download-og-title = Last ned den raskeste { -brand-name-firefox } noensinne
 firefox-desktop-download-og-desc = Raskere sidelasting, mindre minnebruk og fullastet av nye funksjoner, den nye { -brand-name-firefox } er her.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = En enda nyere { -brand-name-firefox } er tilgjengelig. <a { $update_url }>Oppdater til den nyeste versjonen</a>
 firefox-desktop-download-get-the-browser = Få nettleseren som beskytter det som er viktig
+firefox-desktop-download-fast-reliable-private = Raskt, pålitelig og privat — for trygghet på nett.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Ingen lyssky personvernregler eller bakdører for annonsører. Bare en lynrask nettleser som ikke selger dine data.
 firefox-desktop-download-download-options = Nedlastingsalternativer og andre språk
