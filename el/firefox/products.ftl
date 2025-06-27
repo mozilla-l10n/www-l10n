@@ -16,7 +16,7 @@ firefox-products-mozillas-family-of-products-sentence = Όλα τα προϊόν
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
-firefox-products-get-the-browser-that-blocks = Αποκτήστε το πρόγραμμα περιήγησης που αποκλείει αυτόματα 2.000+ ιχνηλάτες. Η Ενισχυμένη προστασία από καταγραφή παρέχεται σε κάθε { -brand-name-firefox }.
+firefox-products-get-the-browser-that-blocks = Αποκτήστε το πρόγραμμα περιήγησης που αποκλείει αυτόματα 2.000+ ιχνηλάτες δεδομένων. Η Ενισχυμένη προστασία από καταγραφή παρέχεται σε κάθε πρόγραμμα περιήγησης { -brand-name-firefox }.
 
 ## Focus
 

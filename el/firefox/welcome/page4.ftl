@@ -20,7 +20,7 @@ welcome-page4-firefox-private-safe-browser = «{ -brand-name-firefox }: Ιδιω
 welcome-page4-get-data-trackers-off-your = Αποφυγή ιχνηλατών δεδομένων
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/trackers-and-scripts-firefox-blocks-enhanced-track/
-welcome-page4-enhanced-tracking-protection = Η ενισχυμένη προστασία από καταγραφή <a href="{ $privacy }">αποκλείει 2000+ ιχνηλάτες</a> στο διαδίκτυο.
+welcome-page4-enhanced-tracking-protection = Η ενισχυμένη προστασία από καταγραφή <a href="{ $privacy }">αποκλείει 2.000+ ιχνηλάτες</a> στο διαδίκτυο.
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = Κανένα ίχνος
 welcome-page4-automatically-clear-your-history = Αυτόματη απαλοιφή του ιστορικού και των cookie σας με τη λειτουργία ιδιωτικής περιήγησης.
