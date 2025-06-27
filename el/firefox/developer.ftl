@@ -16,7 +16,7 @@ firefox-developer-speak-up = Εκφραστείτε
 firefox-developer-feedback-makes-us = Τα σχόλιά σας μας κάνουν καλύτερους. Πείτε μας πώς μπορούμε να βελτιώσουμε το πρόγραμμα περιήγησης και τα εργαλεία ανάπτυξης.
 firefox-developer-join-the-convo = Συμμετοχή στη συζήτηση
 firefox-developer-get-involved = Συμμετοχή
-firefox-developer-help-build-the-last = Βοηθήστε να χτίσουμε τον τελευταίο ανεξάρτητο περιηγητή. Γράψτε κώδικα, διορθώστε σφάλματα, δημιουργείστε πρόσθετα και πολλά περισσότερα.
+firefox-developer-help-build-the-last = Βοηθήστε μας να δημιουργήσουμε το τελευταίο ανεξάρτητο πρόγραμμα περιήγησης. Γράψτε κώδικα, διορθώστε σφάλματα, δημιουργήστε πρόσθετα και πολλά άλλα.
 firefox-developer-start-now = Έναρξη τώρα
 firefox-developer-design-code-test = Σχέδιο. Κώδικας. Δοκιμή. Τελειοποίηση.
 # Line break for visual formatting
