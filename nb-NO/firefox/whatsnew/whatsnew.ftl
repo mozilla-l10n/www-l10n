@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/60.0/whatsnew/
 
+whatsnew-page-title-v2 = Hva er nytt i { -brand-name-firefox }
 whatsnew-page-description = Ta kampen opp mot en bransje som selger dine data til tredjeparter. Vær fornuftig og trygg på nettet med teknologi som jobber for deg.

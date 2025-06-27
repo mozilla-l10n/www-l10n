@@ -12,7 +12,7 @@ vpn-shared-waitlist-link = Pridruži se listi čekanja
 vpn-shared-money-back-guarantee = 30-dnevno jamstvo povrata novca
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30-dnevno jamstvo povrata novca
-vpn-shared-privacy-notice = Napomene o privatnosti
+vpn-shared-privacy-notice = Napomena o privatnosti
 vpn-shared-terms-conditions = Uvjeti i odredbe
 vpn-shared-wireguard-copyright = { -brand-name-wireguard } je registriran zaštitni znak Jasona A. Donenfelda
 

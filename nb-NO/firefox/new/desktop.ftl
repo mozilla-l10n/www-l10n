@@ -21,10 +21,13 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = En enda nyere { -brand-name-firefox } er tilgjengelig. <a { $update_url }>Oppdater til den nyeste versjonen</a>
 firefox-desktop-download-get-the-browser = Få nettleseren som beskytter det som er viktig
 firefox-desktop-download-fast-reliable-private = Raskt, pålitelig og privat — for trygghet på nett.
+firefox-desktop-set-as-default = Sett { -brand-name-firefox } som standard nettleser.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Ingen lyssky personvernregler eller bakdører for annonsører. Bare en lynrask nettleser som ikke selger dine data.
 firefox-desktop-download-download-options = Nedlastingsalternativer og andre språk
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } brukerstøtte
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Gjør det du pleier å gjøre på nettet. { -brand-name-firefox-browser } <strong>beskytter</strong> deg.
 # Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Gjør hva du vil på nettet. <br> { -brand-name-firefox-browser } <strong>overvåker</strong> deg ikke.
 firefox-desktop-download-we-block-the-ad = Vi blokkerer annonsesporere. Du utforsker internett raskere.
@@ -111,10 +114,16 @@ firefox-desktop-download-from-security-to = Fra sikkerhet til nyheter til spill,
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ble utviklet av <a { $attrs }>{ -brand-name-mozilla }</a> som et raskere, mer privat alternativ til nettlesere som { -brand-name-ie }, og nå { -brand-name-chrome }. I dag fortsetter vårt visjonære selskap og frivillighetssamfunn å legge personvernet ditt fremfor alt annet.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Etter hvert som internett vokser og endrer seg, fortsetter { -brand-name-firefox } å fokusere på din rett til personvern – det har alltid vært vår greie. Les mer om våre datapraksiser i vår <a { $attrs }>personvernerklæring</a>.
 # Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Etter hvert  som internett vokser og endres, fortsetter { -brand-name-firefox } å fokusere på din rett til personvern  — vi kaller det <a { $attrs }>lovnad om private data</a>: Samle inn mindre. Oppbevar det sikkert. Ingen hemmeligheter. Dine data, din nettaktivitet og livet ditt på nettet er beskyttet med { -brand-name-firefox }.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } er tilgjengelig på alle enhetene dine; ta med deg fanene dine, historikk og bokmerker. Alt du trenger er en <a { $attrs }>{ -brand-name-mozilla-account }, så får du tilgang til synkronisering og flere { -brand-name-mozilla }-produkter.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Ta et bilde med høyoppløselig av hva som helst på nettet med <a { $attrs }>skjermbilde</a>-verktøyet vårt som er innebygd i nettleseren
@@ -134,10 +143,13 @@ firefox-desktop-download-now-else = Fullfør <strong>installasjonen</strong> av 
 firefox-desktop-download-now-windows = Nå kan du <strong>kjøre</strong> det nettopp nedlastede installasjonsprogrammet.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Nå kan du <strong>åpne</strong> den nedlastede filen.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Velg et <strong>nedlastingsalternativ</strong> nedenfor
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Har du problemer? <a { $attrs }>Få hjelp med installasjonen</a>.
 firefox-desktop-download-in-another-language = Last ned på et annet språk eller for et annet operativsystem.
+firefox-desktop-download-windows = { -brand-name-windows }
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-desktop-download-if-you-see-a-prompt = Hvis du får en melding om at appen du prøver å installere ikke er en { -brand-name-microsoft }-bekreftet app, klikker du på «Installer likevel» eller <a { $attrs }>Endre innstillinger for appanbefaling</a>.

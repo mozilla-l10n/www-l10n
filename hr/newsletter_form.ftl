@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Upiši ispravnu e-mail adresu
-newsletter-form-you-must-agree-to = Moraš se složiti s politikom privatnosti
+newsletter-form-you-must-agree-to = Moraš prihvatiti napomenu o privatnosti
 newsletter-form-your-email-address = Tvoja e-mail adresa
 newsletter-form-we-are-sorry-but-there = Žao nam je, ali došlo je do problema u našem sustavu. Pokušaj kasnije ponovo.
 newsletter-form-please-select-country = Odaberi zemlju ili regiju
