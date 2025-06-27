@@ -52,7 +52,7 @@ history-new-versions-of-firefox = Νέες εκδόσεις του { -brand-name
 history-the-renewed-competition = Ο νέος ανταγωνισμός έχει <a href="{ $innovation }">επιταχύνει την καινοτομία</a> και έχει βελτιώσει το διαδίκτυο για όλους.
 # Variables:
 #   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
-history-in-2013-we-launched-firefox = Το 2013, κυκλοφορήσαμε το <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a> για να εξαπολύσουμε την πλήρη δύναμη του web στα smartphones και να προσφέρουμε για ακόμα μια φορά τον έλεγχο και την επιλογή σε μια νέα γενιά ανθρώπων που εισέρχονται στο διαδίκτυο.
+history-in-2013-we-launched-firefox = Το 2013, κυκλοφορήσαμε το <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a> για να εξαπολύσουμε την πλήρη δύναμη του web στα smartphone και να προσφέρουμε για ακόμα μια φορά τον έλεγχο και την επιλογή σε μια νέα γενιά ανθρώπων που εισέρχονται στο διαδίκτυο.
 history-mozilla-also-celebrated = Η { -brand-name-mozilla } γιόρτασε επίσης τη 15η επέτειό της το 2013.
 history-the-community-has-shown = Η κοινότητα έχει δείξει ότι οι εμπορικές εταιρείες μπορούν να επωφεληθούν από τη συνεργασία τους σε έργα ανοικτού κώδικα και ότι μπορούν να παραχθούν εξαιρετικά προϊόντα ως λογισμικό ανοικτού κώδικα.
 # Variables:
