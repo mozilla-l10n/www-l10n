@@ -28,6 +28,7 @@ m24-about-we-uncover-insights = Portiamo alla luce intuizioni, organizziamo camp
 m24-about-build = Sviluppo
 # Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Realizziamo prodotti che ti permettono di avere il pieno controllo, come { -brand-name-firefox }, { -brand-name-fakespot } e altri ancora.
+m24-about-we-build-products-v2 = Realizziamo prodotti che ti danno il pieno controllo, come { -brand-name-firefox } e molti altri.
 m24-about-fund = Finanziamento
 m24-about-we-fund-and = Finanziamo e investiamo nelle persone e nei progetti che vogliono portare la tecnologia, Internet e l’intelligenza artificiale nella giusta direzione.
 
