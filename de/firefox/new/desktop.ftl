@@ -67,7 +67,7 @@ firefox-desktop-download-stream-share-play = Streamen, teilen und spielen
 firefox-desktop-download-block-autoplay-of = Blocke automatische Wiedergabe von Video und Audio
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Bild-im-Bild (PiP)
-firefox-desktop-download-curated-content-on = Kuratierte Artikel in neuen TabsKuratierter Inhalt auf neuen Tabs
+firefox-desktop-download-curated-content-on = Kuratierte Artikel in neuen Tabs
 firefox-desktop-download-share-links = Links teilen
 firefox-desktop-download-protect-your-privacy = Schütze deine Privatsphäre
 firefox-desktop-download-third-party-cookie = Blockt Cookies von Drittanbietern
