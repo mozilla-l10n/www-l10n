@@ -65,7 +65,7 @@ firefox-all-testflight = Εγγραφείτε για να δοκιμάσετε �
 firefox-all-product-send-link = Αποστολή συνδέσμου λήψης στο τηλέφωνό σας
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
-firefox-all-choose-a-32-bit-installer = Επιλέξτε ένα πρόγραμμα εγκατάστασης 32-bit για υπολογιστές με επεξεργαστές 32-bit — ή για πιο παλιούς/αδύναμους υπολογιστές. <a href="{ $url }">Αν δεν ξέρετε σίγουρα</a> ποιο πρόγραμμα εγκατάστασης να επιλέξετε, προτείνουμε την έκδοση 32-bit.
+firefox-all-choose-a-32-bit-installer = Επιλέξτε ένα πρόγραμμα εγκατάστασης 32-bit για υπολογιστές με επεξεργαστές 32-bit ή για πιο παλιούς/αδύναμους υπολογιστές. <a href="{ $url }">Αν δεν ξέρετε σίγουρα</a> ποιο πρόγραμμα εγκατάστασης να επιλέξετε, προτείνουμε την έκδοση 32-bit.
 firefox-all-msi-installers = Προγράμματα εγκατάστασης MSI
 firefox-all-select-your-preferred-language = Επιλέξτε την προτιμώμενη γλώσσα σας
 firefox-all-learn-about-installers = Μάθετε για τα προγράμματα εγκατάστασης

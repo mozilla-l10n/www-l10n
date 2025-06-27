@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
-mozilla-accounts-get-a-mozilla-account = Αποκτήστε έναν { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } – Διατηρήστε τα δεδομένα σας ιδιωτικά, ασφαλή και συγχρονισμένα
+mozilla-accounts-get-a-mozilla-account = Αποκτήστε έναν { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } και διατηρήστε τα δεδομένα σας ιδιωτικά, ασφαλή και συγχρονισμένα
 # HTML page description
 mozilla-accounts-securely-sync-your = Ασφαλής συγχρονισμός κωδικών πρόσβασης, σελιδοδεικτών και καρτελών σε όλες τις συσκευές σας. Αποκτήστε έναν { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } – Μία σύνδεση – Δύναμη και απόρρητο παντού.
 firefox-accounts-enter-your-email-address = Εισαγάγετε τη διεύθυνση email σας για να ξεκινήσετε.

@@ -48,7 +48,7 @@ navigation-v2-view-all-products = Προβολή όλων των προϊόντ�
 ## Who We Are menu
 
 navigation-v2-who-we-are = Ποιοι είμαστε
-navigation-v2-close-who-we-are-menu = Κλείσιμο μενού "Ποιοι είμαστε"
+navigation-v2-close-who-we-are-menu = Κλείσιμο μενού «Ποιοι είμαστε»
 navigation-v2-mozilla-manifesto = Διακήρυξη της { -brand-name-mozilla }
 navigation-v2-learn-about-the-values = Μάθετε για τις αξίες και τις αρχές που διέπουν την αποστολή μας.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
