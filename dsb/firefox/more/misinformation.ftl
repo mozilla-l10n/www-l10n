@@ -10,6 +10,7 @@ misinformation-page-title = Wobiniśo se wopacnych informacijow – { -brand-nam
 misinformation-page-desc = Wopacne informacije móle, wótchylaju a su droge. { -brand-name-firefox } ma někotare tipy, aby se wopacnych informacijow wobinuli – a aby wy mjenjej z nich wiźeł, gaž web pśeglědujośo.
 misinformation-page-subheading = Cytajśo pokazki, kak móžośo mjenjej wopacnych informacijow wiźeś a se na to koncentrěrowaś, což jo wažne za was
 misinformation-what-is-heading = Co su wopacne informacije? Co jo desinformacija?
+misinformation-disinformation = Wopacne informacije, desinformacija – sćo snaź słyšał toś te wuraze w zajźonosći a sćo se pšašał, lěc a kak se pó jeju wóznamje rozeznawatej. Jo wótglěd jej rozeznawaś: Wopacne informacije su typ informacije, z kótarymiž luźi jebju. Dajo se dopokazaś, až su wopacne abo torjece, ale njejsu se napórali abo źělili z wótglědom, luźi wobšuźiś. Desinformacija pak se napórajo a rozšyrjujo, aby luźi z wěstym zaměrom wopak informěrowała.
 misinformation-false-info-heading = Źo se wopacne informacije pokazuju?
 misinformation-spot-online-heading = Kak móžośo wopacne informacije online spóznawaśo a jich rozšyrjanjeju zajźujośo
 misinformation-look-at-url = Woglědajśo se URL a/abo žrědło.
