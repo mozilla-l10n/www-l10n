@@ -95,3 +95,5 @@ firefox-developer-mdn-curriculum = Wucbny plan { -brand-name-mdn }
 firefox-developer-a-structured-guide = Strukturěrowany pśewódnik za zakładne znajobnosći a praktiki za wuspěšnego wuwijarja front-enda, gromaźe z dopóruconymi wuknjeńskimi resursami.
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
+firefox-developer-support-mdn-and = Pódprějśo { -brand-name-mdn } a pśiswójśo se jen ze zběrkami, powěźeńkami a grajkanišćami.
