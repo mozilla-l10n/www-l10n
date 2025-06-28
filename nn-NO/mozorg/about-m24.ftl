@@ -19,6 +19,9 @@ m24-about-mozilla-is-working = { -brand-name-mozilla } jobbar med å gi brukaran
 
 m24-about-together-we-can = Saman kan vi gjere internett enkelt, trygt og gratis — for alle.
 m24-about-read-our-manifesto = Les manifestet vårt
+# Used as an accessible text alternative for an image
+m24-about-a-group-of = Ei gruppe tenkjarar sit i ein sirkel på golvet og deler idear.
+m24-about-advocate = Aktivisme
 m24-about-we-advocate-for = Vi jobbar for betre produkt, og held styresmakter og teknologiselskap ansvarlege for det dei skaper.
 m24-about-research = Forsking
 # Obsolete string (expires 25-10-2025)
