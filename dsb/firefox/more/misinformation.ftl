@@ -13,6 +13,9 @@ misinformation-what-is-heading = Co su wopacne informacije? Co jo desinformacija
 misinformation-disinformation = Wopacne informacije, desinformacija – sćo snaź słyšał toś te wuraze w zajźonosći a sćo se pšašał, lěc a kak se pó jeju wóznamje rozeznawatej. Jo wótglěd jej rozeznawaś: Wopacne informacije su typ informacije, z kótarymiž luźi jebju. Dajo se dopokazaś, až su wopacne abo torjece, ale njejsu se napórali abo źělili z wótglědom, luźi wobšuźiś. Desinformacija pak se napórajo a rozšyrjujo, aby luźi z wěstym zaměrom wopak informěrowała.
 misinformation-ultimately-harmful = Skóńcnje, ako wopacne informacije tak teke desinformacija mógu škódne byś. Njejo jano, až luźe wopacnym informacijam wěrje, wopacne informacije płaśe swětowemu góspodaŕstwoju wjele pjenjez a mógu demokratiju a eficientne wóźenje stata wobgrozyś. A jo śěžko, tomu zajźowaś, dokulaž wopacne nowosći se wó wjele malsnjej, dłymšej a šyršej ako korektne informacije rozšyrjuju.
 misinformation-false-info-heading = Źo se wopacne informacije pokazuju?
+# Variables:
+#   $tracking (url) - link to https://blog.mozilla.org/products/firefox/firefox-privacy-protections/
+misinformation-widespread-online = Móžośo wšuźi na wopacne informacije a desinformaciju starcyś, ale su nejwěcej rozšyrjone a statkowne, gaž sćo online. Algoritmuse a <a href="{ $tracking }">pśeslědowanje</a> wopacnym informacijam a desinformaciji stawnje wólažcuju, wětšy publikum na websedłach, w blogach, w forumach w socialnych seśach dojśpiś.
 misinformation-spot-online-heading = Kak móžośo wopacne informacije online spóznawaśo a jich rozšyrjanjeju zajźujośo
 misinformation-look-at-url = Woglědajśo se URL a/abo žrědło.
 misinformation-known-to-br-credible = Jo to dowěry gódne? Jolic njejsćo se wěsty, wopytajśo wěcej wó žrědle a jogo mjenju w interneśe zgóniś.

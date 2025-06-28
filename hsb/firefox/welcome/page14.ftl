@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/14/
 
+welcome-page14-page-title = Wužiwajće 20 % rabata za { -brand-name-mozilla-vpn } tutón měsac cyberwěstoty
 welcome-page14-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstarać
 welcome-page14-copy-code = Kod kopěrować
 welcome-page14-code-copied = Kod je so kopěrował!
