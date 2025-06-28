@@ -11,6 +11,7 @@ misinformation-page-desc = Wopacne informacije móle, wótchylaju a su droge. { 
 misinformation-page-subheading = Cytajśo pokazki, kak móžośo mjenjej wopacnych informacijow wiźeś a se na to koncentrěrowaś, což jo wažne za was
 misinformation-what-is-heading = Co su wopacne informacije? Co jo desinformacija?
 misinformation-disinformation = Wopacne informacije, desinformacija – sćo snaź słyšał toś te wuraze w zajźonosći a sćo se pšašał, lěc a kak se pó jeju wóznamje rozeznawatej. Jo wótglěd jej rozeznawaś: Wopacne informacije su typ informacije, z kótarymiž luźi jebju. Dajo se dopokazaś, až su wopacne abo torjece, ale njejsu se napórali abo źělili z wótglědom, luźi wobšuźiś. Desinformacija pak se napórajo a rozšyrjujo, aby luźi z wěstym zaměrom wopak informěrowała.
+misinformation-ultimately-harmful = Skóńcnje, ako wopacne informacije tak teke desinformacija mógu škódne byś. Njejo jano, až luźe wopacnym informacijam wěrje, wopacne informacije płaśe swětowemu góspodaŕstwoju wjele pjenjez a mógu demokratiju a eficientne wóźenje stata wobgrozyś. A jo śěžko, tomu zajźowaś, dokulaž wopacne nowosći se wó wjele malsnjej, dłymšej a šyršej ako korektne informacije rozšyrjuju.
 misinformation-false-info-heading = Źo se wopacne informacije pokazuju?
 misinformation-spot-online-heading = Kak móžośo wopacne informacije online spóznawaśo a jich rozšyrjanjeju zajźujośo
 misinformation-look-at-url = Woglědajśo se URL a/abo žrědło.
