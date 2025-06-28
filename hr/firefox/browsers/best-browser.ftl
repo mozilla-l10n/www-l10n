@@ -16,6 +16,7 @@ best-browser-when-you-use-a-browser = Kad za sve koristiš jedan preglednik, on 
 best-browser-if-youre-wondering = Ako se pitaš što znači imati privatan ili brz preglednik, evo pregled triju stvari koje bi preglednik trebao imati.
 best-browser-a-browser-built-for = Preglednik izgrađen za brzinu.
 best-browser-a-browser-that-puts = Preglednik koji na prvo mjesto postavlja sigurnost.
+best-browser-we-visit-hundreds-or = Svakodnevno posjećujemo stotine ili čak tisuće web stranica i ne možeš očekivati da će korisnici donositi odluke o sigurnosti i privatnosti za svaku od tih stranica. Zato je preglednik koji ti pruža veću kontrolu toliko važan – jer nudi stvarnu, smislenu zaštitu.
 best-browser-a-browser-that-minds = Preglednik koji se brine o svom poslu.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/

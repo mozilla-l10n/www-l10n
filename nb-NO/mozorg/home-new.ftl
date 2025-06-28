@@ -19,3 +19,11 @@ home-product-pocket-articles = De mest spennende artiklene på nettet
 home-cta-get-pocket = Hent { -brand-name-pocket }
 home-product-relay-hide-your = Skjul telefonnummeret og e-postadressen din fra spammere
 home-cta-get-relay = Hent { -brand-name-relay }
+home-product-vpn-trust = En VPN du kan stole på
+home-cta-get-vpn = Hent { -brand-name-mozilla-vpn }
+home-product-monitor-protect-your = Beskytt din private informasjon fra datameglere
+home-cta-get-monitor = Få { -brand-name-monitor }
+home-mozilla-takes-bets = «{ -brand-name-mozilla } satser for å vise verden at det er mulig å tjene penger med pålitelig AI. Det inkluderer å sette ting som menneskerettigheter, databeskyttelse og åpenhet i kjernen av hvordan disse komplekse systemene fungerer.»
+# Politico is a brand name for a news organization
+home-politico-cite = Politico
+home-join-us-in-shaping = Bli med oss i å forme pålitelig AI

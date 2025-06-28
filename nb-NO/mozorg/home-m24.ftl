@@ -51,6 +51,8 @@ m24-home-alt-lumigator-logo = { -brand-name-lumigator }-logo.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice-to-make = Bidra med din stemme for å gjøre taleteknologi mer inkluderende og tilgjengelig for alle.
+m24-home-donate-your-voice = Bidra med din stemme
 
 ## Media Springboard
 

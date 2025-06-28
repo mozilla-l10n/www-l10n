@@ -7,3 +7,5 @@
 
 whatsnew-s2d-download-firefox-for-android = Last ned { -brand-name-firefox } for { -brand-name-android } og { -brand-name-ios }
 whatsnew-s2d-download-firefox-for-your = Last ned { -brand-name-firefox } til smarttelefonen din og nettbrettet ditt.
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = Skann denne QR-koden
