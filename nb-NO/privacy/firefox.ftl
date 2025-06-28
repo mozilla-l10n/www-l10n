@@ -25,3 +25,11 @@ privacy-firefox-firefox-protects-you = { -brand-name-firefox } beskytter deg mot
 privacy-firefox-privacy-that-works = Personvern som fungerer for deg
 privacy-firefox-firefox-makes-it = { -brand-name-firefox } gjør det enkelt å behandle dine data med innebygde personvern- og sikkerhetsfunksjoner, pluss innstillinger som lar deg finjustere nettleseropplevelsen din.
 privacy-firefox-manage-your-privacy = Behandle dine personverninnstillinger
+# Obsolete string (expires: 2025-04-24)
+privacy-firefox-firefox-for-desktop = { -brand-name-firefox } for datamaskiner
+privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } for datamaskiner
+# Obsolete string (expires: 2025-04-24)
+privacy-firefox-firefox-for-mobile = { -brand-name-firefox } for mobil
+# Variables:
+#   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
+privacy-firefox-take-me-back = Ta meg <a { $attrs }>tilbake til toppen</a> av personvernerklæringen

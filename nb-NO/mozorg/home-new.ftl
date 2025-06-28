@@ -38,3 +38,16 @@ home-learn-about-mofo = Les om { -brand-name-mozilla-foundation }
 home-join-the-fight = Bli med i kampen for et sunt internett
 home-your-voice-your-code = Din stemme. Din kode. Dine idéer. Det finnes bokstavelig talt tusenvis av måter du kan bidra til { -brand-name-mozilla } på.
 home-volunteer-with-mozilla = Bli frivillig med { -brand-name-mozilla }
+home-that-one-time = Den gangen ga vi bort kildekoden vår…
+home-the-mozilla-project = Prosjektet { -brand-name-mozilla } ble grunnlagt i San Francisco i 1998, da nettleseren { -brand-name-netscape } tok den radikale avgjørelsen om å gi bort programkoden sin til offentligheten for å bygge videre på og forbedre den. På den tiden hadde ett selskap nærmest monopol på hvordan folk opplevde internett.
+home-eventually-the-open = Etter hvert utviklet åpen kildekode-prosjektet { -brand-name-mozilla } seg til den utrolig populære førsteversjonen av { -brand-name-firefox }.
+home-today-mozilla-continues = I dag fortsetter { -brand-name-mozilla } sin bevegelse for et bedre internett – med millioner av aktive fellesskapsmedlemmer over hele verden som jobber for etisk teknologi, pålitelig AI og utvikler personvernfokuserte produkter som gir mer makt til folk flest.
+home-learn-more-about-mozilla = Les mer om { -brand-name-mozilla }
+# VPN Feature
+home-featured-product = Utvalgt produkt
+# HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
+home-feature-blur-your-location = Skjul plassering og aktivitet med <span>{ -brand-name-mozilla-vpn }</span>.
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Bygg vår bevegelse
+home-mofo-donate-to-mofo-today = Doner til { -brand-name-mozilla-foundation } i dag for å sikre at internett forblir åpent og tilgjengelig for alle.
+home-mofo-donate = Doner
