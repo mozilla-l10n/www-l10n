@@ -18,12 +18,24 @@ m24-home-welcome-to-mozilla = Velkommen til { -brand-name-mozilla }
 
 ## Products
 
+m24-home-love-the-internet = Elsker internett igjen
+m24-home-explore-our-products = Utforsk våre produkter
+m24-home-firefox = { -brand-name-firefox }
+m24-home-thunderbird = { -brand-name-thunderbird }
+m24-home-go-chaosfree-with = Gjør livet ditt enklere med én app for alle e-postene, kalenderne og kontaktene dine.
+m24-home-pocket = { -brand-name-pocket }
+m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
 
+m24-home-donate = Doner
 
 ## AI gallery
 
+m24-home-tag-product = Produkt
+m24-home-tag-project = Prosjekt
 
 ## Media Springboard
 

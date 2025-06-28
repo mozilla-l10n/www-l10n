@@ -24,3 +24,4 @@ privacy-firefox-always-protected = Alltid beskyttet
 privacy-firefox-firefox-protects-you = { -brand-name-firefox } beskytter deg mot kjente tredjepartssporere, sporing via sosiale medier, kryptominere, infokapsler og fingeravtrykksteknologier som prøver å følge deg rundt på nettet.
 privacy-firefox-privacy-that-works = Personvern som fungerer for deg
 privacy-firefox-firefox-makes-it = { -brand-name-firefox } gjør det enkelt å behandle dine data med innebygde personvern- og sikkerhetsfunksjoner, pluss innstillinger som lar deg finjustere nettleseropplevelsen din.
+privacy-firefox-manage-your-privacy = Behandle dine personverninnstillinger
