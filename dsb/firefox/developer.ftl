@@ -84,6 +84,7 @@ firefox-developer-mdn-write-test-and-share = Pišćo, testujśo a źělśo swój
 firefox-developer-mdn-blog = Blog { -brand-name-mdn }
 firefox-developer-mdn-unlock-the-world = Wótwóŕśo swět webwuwiśa z blogom { -brand-name-mdn } – wašo srjejźišćo za dopóznaśa ekspertow, nejnowše webstandardy a programěrowańske tipy.
 firefox-developer-mdn-updates = Aktualizacije
+firefox-developer-mdn-the-web-doesnt-have = Web njama protokol změnow, ale { -brand-name-mdn } móžo pomagaś. Móžośo změny kompatibelnosći na zakłaźe wobglědowakow abo techniskeje kategorije personalizěrowaś a filtrowaś, za kótarež zajm maśo, lěc jo JavaScript, CSS atd.
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Reference { -brand-name-mdn }
 # Obsolete string (expires 18-04-2025)
