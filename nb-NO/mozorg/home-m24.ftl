@@ -15,12 +15,16 @@ m24-home-page-desc-v2 = Vi jobber med å gi brukerne tilbake kontrollen over int
 ## Intro
 
 m24-home-welcome-to-mozilla = Velkommen til { -brand-name-mozilla }
+m24-home-learn-about-us = Les mer om oss
+# Used as accessible text alternative for image
+m24-home-alt-flag = Et stilisert grønt flagg på svart bakgrunn, bygget opp av «M» for { -brand-name-mozilla } og en piksel som er forskjøvet for å referere til den originale dinosaurlogoen.
 
 ## Products
 
 m24-home-love-the-internet = Elsker internett igjen
 m24-home-explore-our-products = Utforsk våre produkter
 m24-home-firefox = { -brand-name-firefox }
+m24-home-get-the-gold = Få gullstandarden for surfing med hastighet, personvern og kontroll.
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-go-chaosfree-with = Gjør livet ditt enklere med én app for alle e-postene, kalenderne og kontaktene dine.
 m24-home-pocket = { -brand-name-pocket }
