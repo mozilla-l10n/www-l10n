@@ -36,6 +36,21 @@ m24-home-donate = Doner
 
 m24-home-tag-product = Produkt
 m24-home-tag-project = Prosjekt
+m24-home-tag-program = Program
+m24-home-tag-event = Hendelse
+m24-home-read-more = Les mer
+m24-home-get-started = Kom i gang
+m24-home-join-the-movement = Bli med i bevegelsen:<br> AI for folket
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = { -brand-name-solo-ai }-logo
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-alt-builders-v2 = { -brand-name-builders }
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+# Used as an accessible text alternative for an image
+m24-home-alt-lumigator-logo = { -brand-name-lumigator }-logo.
+m24-home-lumigator = { -brand-name-lumigator }
+m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-common-voice = { -brand-name-common-voice }
 
 ## Media Springboard
 
