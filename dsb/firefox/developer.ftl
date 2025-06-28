@@ -87,6 +87,8 @@ firefox-developer-mdn-updates = Aktualizacije
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-references = Reference { -brand-name-mdn }
 # Obsolete string (expires 18-04-2025)
+firefox-developer-mdn-is-a = { -brand-name-mdn } jo projekt wótwórjonego žrědła za zgromadne źěło, kótaryž technologije platformow dokumentěrujo, na pśikład CSS, HTML, JavaScript a webowe API.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = Wucbny plan { -brand-name-mdn }
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
