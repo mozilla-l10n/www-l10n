@@ -12,3 +12,10 @@ privacy-firefox-privacy-isnt-just = Personvern er ikke bare en innstilling – d
 privacy-firefox-read-our-privacy = Les vår personvernerklæring
 privacy-firefox-keeping-you-informed = Holder deg informert, hvert steg på veien
 privacy-firefox-we-believe-you = Vi mener du bør vite hvordan dataene dine brukes og hvorfor. { -brand-name-firefox } er bygget med personvern i tankene og åpenhet i hvert trinn.
+privacy-firefox-transparency-first = Åpenhet først
+# Variables:
+#   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
+privacy-firefox-were-clear-about = Vi er tydelige på hvilke data vi bruker og hvorfor. Ingen overraskelser. <a { $attrs }>{ -brand-name-firefox } personvernerklæringen</a> beskriver dette for deg.
+privacy-firefox-how-we-use = Hvordan vi bruker data
+privacy-firefox-we-use-data = Vi bruker data for å holde { -brand-name-firefox } i gang uten problemer, forbedre funksjoner og bidra til å opprettholde virksomheten vår — alt samtidig som vi respekterer personvernet ditt. Noen valgfrie funksjoner kan kreve ytterligere data for å fungere, og vi gjør det enkelt å administrere dine innstillinger.
+privacy-firefox-builtin-control = Innebygd kontroll
