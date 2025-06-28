@@ -7,6 +7,7 @@
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = Wobiniśo se wopacnych informacijow – { -brand-name-firefox } wam pomaga
+misinformation-page-desc = Wopacne informacije móle, wótchylaju a su droge. { -brand-name-firefox } ma někotare tipy, aby se wopacnych informacijow wobinuli – a aby wy mjenjej z nich wiźeł, gaž web pśeglědujośo.
 misinformation-page-subheading = Cytajśo pokazki, kak móžośo mjenjej wopacnych informacijow wiźeś a se na to koncentrěrowaś, což jo wažne za was
 misinformation-what-is-heading = Co su wopacne informacije? Co jo desinformacija?
 misinformation-false-info-heading = Źo se wopacne informacije pokazuju?
