@@ -9,6 +9,7 @@ best-browser-find-your-best-browser = Pronađi svoj najbolji preglednik za brzin
 best-browser-so-many-browser-options = Postoje mnoge opcije preglednika, ali samo je jedna, koja najbolje funkcionira za tvoje potrebe. Najbolji preglednik bi trebao pružiti i brzinu i zaštitu privatnosti.
 best-browser-privacy-speed-and-security = Privatnost, brzina i sigurnost.
 best-browser-how-to-choose-the-best = Kako odabrati najbolji preglednik.
+best-browser-the-internet-has-become = Internet je postao jednako važan kao struja i tekuća voda, stoga je odabir najboljeg preglednika važniji nego ikad. Internet je kao drugi ured, učitelj, a ponekad i medicinski savjetnik, čak i ako bi tvom liječniku bilo draže da ne tražiš svoje simptome online.
 best-browser-in-the-mid-nineties = Sredinom devedesetih { -brand-name-netscape }, { -brand-name-ie } i AOL su dominirali ovo područje. To je bilo jednostavnije vrijeme, kad je slatka melodija biranja modemom posvuda odjeknula. Naučili smo što znači biti strpljiv, dok smo čekali da se web stranice učitaju. Tada je bila važna samo brzina preglednika.
 best-browser-when-you-use-a-browser = Kad za sve koristiš jedan preglednik, on mora biti brz. Ali iz istog razloga mora biti i privatan. Preglednik ima pristup svemu što radiš na mreži, tako da postoje određene opasnosti, ako nema jaku funkciju za privatnost.
 best-browser-if-youre-wondering = Ako se pitaš što znači imati privatan ili brz preglednik, evo pregled triju stvari koje bi preglednik trebao imati.

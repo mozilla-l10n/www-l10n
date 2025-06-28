@@ -7,3 +7,4 @@
 
 vpn-desktop-vpn-for-pc = VPN za PC abo laptop wót { -brand-name-mozilla }
 vpn-desktop-how-does-a = Kak VPN mój laptop abo PC šćita?
+vpn-desktop-there-are-several = Dajo někotare pśicyny, cogoždla wy měł VPN wužywaś, aby se šćitał, gaž swój laptop abo PC wužywaśo:
