@@ -71,3 +71,8 @@ m24-home-explore-issues-shaping = Utforsk problemstillinger som former fremtiden
 m24-home-privacy-not-included = *Personvern ikke inkludert
 m24-home-search-our-reviews = Søk gjennom anmeldelsene våre for å finne ut hvilke teknologiske dingser og apper som stjeler dataene dine uten at du engang merker det.
 m24-home-pni-search-now = Søk nå
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = Bridget Todd, programleder for IRL-podkasten.
+m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = Vår prisbelønte podkast introduserer endringsskaperne som jobber for å gjøre internett tryggere og AI mer pålitelig.
+m24-home-irl-listen-now = Lytt nå
