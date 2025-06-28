@@ -27,3 +27,14 @@ home-mozilla-takes-bets = «{ -brand-name-mozilla } satser for å vise verden at
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = Bli med oss i å forme pålitelig AI
+home-work-on-ai = { -brand-name-mozilla }s arbeid med AI er ikke bare noe nytt – vi har brukt årevis på å finansiere, bygge og kjempe for AI som er åpen, rettferdig og ansvarlig utviklet. Fokuset vårt er å skape AI som tjener folket, prioriterer åpenhet og støtter det offentlige beste, ikke bedriftens agendaer.
+home-read-more = Les mer
+home-so-what-is-mozilla = Så, hva er { -brand-name-mozilla }?
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core-v2 = I kjernen er { -brand-name-mozilla } en aktivistorganisasjon ledet av { -brand-name-mozilla-foundation } som skaper forandring i verden gjennom en rekke prosjekter, inkludert { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> og <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a>. Hvordan er vi annerledes? Fordi vi er oppdragsdrevne, betyr det at vi har friheten til å ta alle våre beslutninger basert på hva som er best for internett og for alle på nettet, ikke basert på aksjonærenes krav — vi har faktisk ingen av disse.
+home-learn-about-mofo = Les om { -brand-name-mozilla-foundation }
+home-join-the-fight = Bli med i kampen for et sunt internett
+home-your-voice-your-code = Din stemme. Din kode. Dine idéer. Det finnes bokstavelig talt tusenvis av måter du kan bidra til { -brand-name-mozilla } på.
+home-volunteer-with-mozilla = Bli frivillig med { -brand-name-mozilla }

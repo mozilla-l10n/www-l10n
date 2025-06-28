@@ -75,6 +75,7 @@ m24-home-watch-now = Se nå
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Taler på scenen med flere produktlogoer.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-got-an-earlystage = Har du en oppstartsbedrift i tidlig fase? Presenter bedriften din for { -brand-name-mozilla-ventures } og sikre finansiering for å drive positiv endring for fremtiden til AI og internett.
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Bidra med din stemme for å gjøre taleteknologi mer inkluderende og tilgjengelig for alle.
 m24-home-donate-your-voice = Bidra med din stemme
