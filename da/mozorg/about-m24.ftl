@@ -52,7 +52,7 @@ m24-about-read-about-our = Læs mere om vores engagement
 ## Careers
 
 # Used as an accessible text alternative for an image
-m24-about-alt-trustworthy = Pålidelig Ai, { -brand-name-common-voice }, læring i fællesskab
+m24-about-alt-trustworthy = Pålidelig Ai, { -brand-name-common-voice }, læring i fællesskab.
 # Used as an accessible text alternative for an image
 m24-about-alt-conversation = Ansat fra { -brand-name-mozilla } midt i en samtale
 # Used as an accessible text alternative for an image
