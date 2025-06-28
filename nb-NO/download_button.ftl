@@ -20,6 +20,13 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> for { -brand-
 download-button-firefox-privacy = { -brand-name-firefox } personvern
 download-button-firefox-privacy-notice = { -brand-name-firefox } personvernbestemmelser
 download-button-download = Last ned
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">støttes ikke lenger</a> på { $os_version } og eldre.
+download-button-please-download-esr = Last ned { -brand-name-firefox-esr } (Extended Support Release) for å bruke { -brand-name-firefox }.
+download-firefox-esr = Last ned { -brand-name-firefox-esr }
 
 ## Linux
 

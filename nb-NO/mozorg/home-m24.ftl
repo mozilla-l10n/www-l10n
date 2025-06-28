@@ -23,6 +23,7 @@ m24-home-alt-flag = Et stilisert grønt flagg på svart bakgrunn, bygget opp av 
 ## Products
 
 m24-home-love-the-internet = Elsker internett igjen
+m24-home-break-free-from = Bryt deg løs fra de store teknologigigantene — produktene våre gir deg kontroll over en tryggere og mer privat internettopplevelse.
 m24-home-explore-our-products = Utforsk våre produkter
 m24-home-firefox = { -brand-name-firefox }
 m24-home-get-the-gold = Få gullstandarden for surfing med hastighet, personvern og kontroll.

@@ -30,6 +30,12 @@ privacy-firefox-firefox-for-desktop = { -brand-name-firefox } for datamaskiner
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } for datamaskiner
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-mobile = { -brand-name-firefox } for mobil
+privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } for mobil
+# heading for the table of contents, a shorter heading is better
+privacy-firefox-contents = Innhold
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-take-me-back = Ta meg <a { $attrs }>tilbake til toppen</a> av personvernerklæringen
+# Variables:
+#   $attrs (string) - in-page link to the top of the page
+privacy-firefox-lost-in-the = Fortapt i alle detaljene? Gå tilbake til <a { $attrs }>grunnleggende om å beskytte personvernet ditt i { -brand-name-firefox }</a>.a
