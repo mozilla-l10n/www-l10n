@@ -40,3 +40,4 @@ multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundatio
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
 multi-newsletter-form-checkboxes-error = Kryss av for minst ett av nyhetsbrevalternativene.
 multi-newsletter-form-title = Glad i nettet
+multi-newsletter-form-desc = Abonner på { -brand-name-mozilla } sitt nyhetsbrev og hjelp oss med å holde nettet åpent og fritt.
