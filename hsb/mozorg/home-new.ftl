@@ -17,6 +17,7 @@ home-cta-get-pocket = { -brand-name-pocket } wobstarać
 home-cta-get-relay = { -brand-name-relay } wobstarać
 home-product-vpn-trust = VPN, kotremuž móžeće dowěrić
 home-cta-get-vpn = { -brand-name-mozilla-vpn } wobstarać
+home-product-monitor-protect-your = Škitajće swoje priwatne daty před datowymi wikowarjemi
 home-cta-get-monitor = { -brand-name-monitor } wobstarać
 # Politico is a brand name for a news organization
 home-politico-cite = Politico

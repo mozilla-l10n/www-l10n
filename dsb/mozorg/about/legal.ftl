@@ -31,4 +31,5 @@ legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = Słužbne wuměnjenja { -brand-name-mdn-plus }
 legal-report-copyright = Pśekśiwjenje awtorskego pšawa abo wikoweje mark k wěsći daś
 legal-mozilla-subscription-services = Abonementne słužby { -brand-name-mozilla }
+legal-content-moderation = Praktiki wopśimjeśoweje moderacije
 legal-amo-policies = Pšawidła AMO
