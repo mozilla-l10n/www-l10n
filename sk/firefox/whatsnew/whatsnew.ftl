@@ -15,4 +15,5 @@ whatsnew-release-notes-v2 = Prečítajte si <a { $url }>poznámky k vydaniu</a>,
 whatsnew-signoff = <strong>Od { -brand-name-mozilla(case: "gen") }</strong>. Uprednostňuje ľudí pred ziskom už od roku 1998.
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Prispejte { -brand-name-mozilla-foundation }
+whatsnew-donate-to-mofo-v2 = Prispejte { -brand-name-mozilla-foundation }
 whatsnew-thanks-for-choosing = Ďakujeme, že ste si vybrali { -brand-name-firefox }

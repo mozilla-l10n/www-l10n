@@ -6,4 +6,5 @@
 ### URL: https://www-dev.allizom.org/products/vpn/ipad/
 
 vpn-ipad-vpn-for = VPN za iOS/iPad wót { -brand-name-mozilla }
+vpn-ipad-mozilla-vpn-is = { -brand-name-mozilla-vpn } jo wirtuelna priwatna seśowa słužba, kótaraž waš internetny wobchad koděrujo a wašu IP-adresu chowa.
 vpn-ipad-with-mozilla-vpn = Z { -brand-name-mozilla-vpn } móžośo dostaś:
