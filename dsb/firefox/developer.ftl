@@ -91,4 +91,6 @@ firefox-developer-mdn-is-a = { -brand-name-mdn } jo projekt wótwórjonego žrě
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-curriculum = Wucbny plan { -brand-name-mdn }
 # Obsolete string (expires 18-04-2025)
+firefox-developer-a-structured-guide = Strukturěrowany pśewódnik za zakładne znajobnosći a praktiki za wuspěšnego wuwijarja front-enda, gromaźe z dopóruconymi wuknjeńskimi resursami.
+# Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
