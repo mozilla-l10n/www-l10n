@@ -20,6 +20,7 @@ vpn-landing-keeps-your-data-safe = Čuva tvoje podatke na javnoj Wi-Fi mreži
 vpn-landing-log-in-to-your-bank-or = Prijavi se u svoju banku ili liječničku ordinaciju iz aerodroma, kafića ili bilo gdje, bezbrižno.
 vpn-landing-blocks-advertisers-from = Blokira oglašivače da te ciljaju
 vpn-landing-hide-your-activity-from = Sakrij svoju aktivnost od programa za praćenje i zlonamjernog softvera za kupovine bez da te netko promatra.
+vpn-landing-take-control = Preuzmi kontrolu pomoću VPN postavki specifičnih za web stranicu
 vpn-landing-features = Funkcije
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

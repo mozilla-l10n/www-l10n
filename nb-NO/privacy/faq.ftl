@@ -29,7 +29,7 @@ privacy-faq-that-documentation-is-gobbledygook = Den dokumentasjonen er ikke sæ
 privacy-faq-there-are-two-categories-of = Det finnes to kategorier av informasjon, vi som utgangspunkt samler inn i den ferdige versjonen av { -brand-name-firefox }.
 privacy-faq-the-first-is-what-we-call-technical = Det første er hva vi kaller «teknisk informasjon». Det er informasjon om nettleseren, som for eksempel operativsystemet den kjører på og informasjon om feil eller krasj.
 privacy-faq-what-about-my-account-data = Hva med min kontoinformasjon?
-privacy-faq-we-are-big-believers-of-data = Vi tror på minimering av da, og spør ikke etter noe vi ikke behøver.
+privacy-faq-we-are-big-believers-of-data = Vi tror på minimering av data, og spør ikke etter noe vi ikke behøver.
 # Variables:
 #   $accounts (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 privacy-faq-you-dont-need-an-account-to = Du trenger ikke en konto for å bruke { -brand-name-firefox }. <a href="{ $accounts }">En konto</a> kreves for å synkronisere informasjon på tvers av enheter, men vi spør kun om din e-postadresse. Vi vil ikke vite ting som ditt navn, din adresse, fødselsdag eller ditt telefonnummer.

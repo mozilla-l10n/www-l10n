@@ -38,6 +38,7 @@ firefox-products-get-relay = Nabavi { -brand-name-firefox-relay }
 ## VPN
 
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Surfaj, streamaj i obavljaj posao na serverima u preko 30 zemalja za sigurnu internetsku vezu s novom perspektivom.
 firefox-products-get-mozilla-vpn = Nabavi { -brand-name-mozilla-vpn }
 
 ## MDN Plus
