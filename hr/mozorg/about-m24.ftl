@@ -49,3 +49,5 @@ m24-about-see-open-positions = Pogledaj otvorena mjesta
 m24-about-community-love-v2 = Ljubav prema zajednici, snaga koja nas tjera
 m24-about-mozilla-is-a = { -brand-name-mozilla } je globalna zajednica strastvenih volontera, suradnika i doprinositelja koji s nama grade, štite i oblikuju internet od 1998. godine.
 m24-about-from-writing-code = Od pisanja koda i uočavanja grešaka do zalaganja za privatnost i održavanja interneta otvorenim za sve – članovi naše zajednice su okosnica svega što radimo. Njihova strast i predanost inspiriraju nas svaki dan.
+# Used as an accessible text alternative for an image
+m24-about-alt-community = Osoba s torbom za laptop i { -brand-name-mozilla } vrpcom za akreditaciju.
