@@ -6,5 +6,6 @@
 ### URL: https://www-dev.allizom.org/privacy/websites/data-preferences/
 
 data-preferences-page-title = Rjadujće swoje nastajenja za hromadźenje datow prěnjeho poskićowarja
+data-preferences-page-desc = Waša priwatnosć je jara wažna za  { -brand-name-mozilla }. Tuta strona wam zmóžnja, waše nastajenja hromadźenja datow prěnjeho poskićowarja za websydła mozilla.org z pomocu { -brand-name-glean } rjadować.
 data-preferences-current-preference = Aktualne nastajenje:
 data-preferences-please-enable-javascript = Prošu zmóžńće JavaScript, zo byšće swoje datowe nastajenje rjadował.
