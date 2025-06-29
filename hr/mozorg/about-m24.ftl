@@ -21,6 +21,8 @@ m24-about-at-our-rise25 = Na našoj svečanosti dodjele { -brand-name-rise25 } n
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Dobitnica { -brand-name-rise25 } nagrade pokazuje na svoj trofej.
 m24-about-empowering-chicagos-entrepreneurs = Podržavanje čikaških poduzetnika za generacijsku promjenu
+# Used as an accessible text alternative for an image
+m24-about-chicago = Poduzetnik iz Čikaga.
 
 ## Showcase
 
@@ -45,3 +47,5 @@ m24-about-see-open-positions = Pogledaj otvorena mjesta
 ## Community
 
 m24-about-community-love-v2 = Ljubav prema zajednici, snaga koja nas tjera
+m24-about-mozilla-is-a = { -brand-name-mozilla } je globalna zajednica strastvenih volontera, suradnika i doprinositelja koji s nama grade, štite i oblikuju internet od 1998. godine.
+m24-about-from-writing-code = Od pisanja koda i uočavanja grešaka do zalaganja za privatnost i održavanja interneta otvorenim za sve – članovi naše zajednice su okosnica svega što radimo. Njihova strast i predanost inspiriraju nas svaki dan.
