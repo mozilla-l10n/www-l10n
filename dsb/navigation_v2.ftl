@@ -75,3 +75,4 @@ navigation-v2-check-out-the-home-for-web = Woglědajśo boki z resursami za webw
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Pósććo swój głos, aby pśichod weba móžo na kuždego słuchaś.
 navigation-v2-mozilla-innovation-projects = Inowaciske projekty { -brand-name-mozilla }
+navigation-v2-discover-ways-to-bring = Namakajśo móžnosći, aby wjelicne ideje k žywjenjeju zbuźił.

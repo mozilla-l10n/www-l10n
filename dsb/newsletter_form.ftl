@@ -15,6 +15,7 @@ newsletter-form-select-language = Rěc wubraś
 newsletter-form-your-email-here = WAŠA E-MAILOWA ADRESA
 newsletter-form-get-firefox-news = Wobstarajśo se nowosći { -brand-name-firefox }
 newsletter-form-join-the-community = Pśizamkniśo se zgromaźeństwoju
+newsletter-form-sign-up-to-receive = Registrěrujśo se, aby mjasecne aktualizacije wót { -brand-name-firefox } a internetne trendy dostał, kótarež waše žywjenje online wugótuju.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Som z tym wobjadny, kak { -brand-name-mozilla } wobchada pó <a href="{ $url }">toś tych pšawidłach priwatnosći</a> z mójimi informacijami
