@@ -9,9 +9,14 @@
 ## Intro
 
 m24-about-reclaim-the-internet = Povrati internet s nama
+m24-about-mozilla-is-working = { -brand-name-mozilla } radi na tome da kontrolu nad internetom vrati u ruke ljudi koji ga koriste.
 
 ## Manifesto
 
+m24-about-together-we-can = Zajedno možemo internet održati jednostavnim, sigurnim i besplatnim – za sve.
+m24-about-read-our-manifesto = Pročitaj naš manifest
+# Used as an accessible text alternative for an image
+m24-about-a-group-of = Grupa mislilaca sjedi u krugu na podu i dijele ideje.
 
 ## News
 
