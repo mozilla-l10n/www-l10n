@@ -40,6 +40,10 @@ manifesto-we-are-committed-to-thinking = Zalažemo se za internet koji potiče k
 manifesto-we-are-committed-to-diverse = Zalažemo se za internet koji sjedinjuje suradnju različitih zajednica koje rade zajedno za opće dobro.
 manifesto-show-your-support = Iskaži tvoju podršku
 manifesto-an-internet-with-these = Internet s tim kvalitetama neće doći sam od sebe. Pojedinci i organizacije moraju ugraditi te težnje u internetsku tehnologiju i ljudsko iskustvo s internetom. { -brand-name-mozilla } manifest i dopuna predstavljaju predanost { -brand-name-mozilla } organizacije u unaprjeđenju ovih težnji. Cilj nam je surađivati s ljudima i organizacijama posvuda koji dijele te ciljeve kako bismo internet učinili još boljim mjestom za sve.
+manifesto-i-support-the-vision-of-v2 = Podržavam viziju boljeg i zdravijeg interneta organizacije { -brand-name-mozilla }. Hoćeš mi se pridružiti?
+# obsolete (expires 2025-04-12)
+manifesto-i-support-the-vision-of = Podržavam viziju boljeg i zdravijeg interneta organizacije @mozilla. Hoćeš mi se pridružiti?
+manifesto-share-on-bluesky = Dijeli na Blueskyju
 manifesto-our-10-principles = <strong>Naših 10</strong> načela
 manifesto-read-the-entire-manifesto = Pročitaj cijeli manifest
 manifesto-details-the-mozilla-manifesto = { -brand-name-mozilla } manifest

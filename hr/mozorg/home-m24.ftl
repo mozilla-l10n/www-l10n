@@ -55,8 +55,14 @@ m24-home-read-more = Saznaj više
 m24-home-get-started = Započni
 m24-home-join-the-movement = Pridruži se pokretu:<br> UI za ljude
 m24-home-our-mission-is = Naša je misija ljudima olakšati izgradnju i suradnju sa pouzdanom umjetnom inteligencijim otvorenog koda.
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = { -brand-name-solo-ai } logotip
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Stvori svoju web stranicu i poveži vlastitu prilagođenu domenu besplatno
 m24-home-alt-builders = Graditelji
+m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } graditelji
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Platforma „Graditelji” pomaže nezavisnim programerima pri stvaranju transformativnih UI projekata otvorenog koda pomoću prilagođenih suradnji, programiranja i zajednice.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } logotip.
