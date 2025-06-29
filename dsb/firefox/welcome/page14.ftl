@@ -8,6 +8,7 @@
 welcome-page14-page-title = Wužywajśo 20 % rabata za { -brand-name-mozilla-vpn } toś ten mjasec kybernetiskeje wěstoty
 welcome-page14-page-title-alt = Jo mjasec kybernetiskeje wěstoty – cas, aby wy swóju priwatnosć na nowy schojźeńk zwignuł
 welcome-page14-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstaraś
+welcome-page14-use-code = Wužywajśo kod pśi płaśenju za 20 % rabata
 welcome-page14-copy-code = Kod kopěrowaś
 welcome-page14-code-copied = Kod jo se kopěrował!
 welcome-page14-very-fast = Jo malsny, wjelgin malsny
