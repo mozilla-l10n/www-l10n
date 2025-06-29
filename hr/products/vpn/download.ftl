@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = Nažalost { -brand-name-mozilla-vpn } ni
 vpn-download-for-windows-v2 = VPN za { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (samo 64-bitni)
 vpn-download-for-windows-long = Preuzmi { -brand-name-mozilla-vpn } za { -brand-name-windows }
+vpn-download-for-firefox-extension = Instaliraj { -brand-name-firefox } proširenje
 vpn-download-for-mac = VPN za { -brand-name-mac-short }
 vpn-download-for-mac-long = Preuzmi { -brand-name-mozilla-vpn } za { -brand-name-mac-short }
 # Variables:

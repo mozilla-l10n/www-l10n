@@ -55,3 +55,6 @@ vpn-landing-do-you-need-a-vpn-at-home = Je li potrebno imati VPN kod kuće? Evo 
 vpn-landing-what-is-an-ip-address = Što je IP adresa?
 vpn-landing-how-your-location-is-tracked = Kako se tvoja lokacija prati i kako možeš ograničiti dijeljenje lokacije
 vpn-landing-see-more-resources = Pogledaj još resursa
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }

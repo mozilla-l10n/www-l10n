@@ -51,6 +51,7 @@ vpn-features-support-for-custom-dns = Podrška za prilagođeni DNS
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
 vpn-features-keep-traffic-protected = Pomoću { -brand-name-mozilla-vpn } možeš zaštititi svoj promet i dalje usmjeravati svoje DNS upite gdje god želiš. <a { $dns }>Saznaj više o podršci za prilagođeni DNS</a>.
 vpn-features-flexible = Fleksibilnost
+vpn-features-webste-specific-vpn = VPN postavke specifične za web stranicu, besprijekorno integrirane u { -brand-name-firefox }
 vpn-features-personalized-server = Personalizirane preporuke za lokaciju servera
 vpn-features-well-suggest-which-servers = Predložit ćemo servere u tvojoj blizini koji osiguravaju najbržu i najpouzdaniju internetsku vezu.
 vpn-features-personalize-which-apps = Odredi aplikacije koje će dobiti VPN zaštitu

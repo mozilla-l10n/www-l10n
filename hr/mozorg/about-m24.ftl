@@ -8,6 +8,7 @@
 
 ## Intro
 
+m24-about-reclaim-the-internet = Povrati internet s nama
 
 ## Manifesto
 
