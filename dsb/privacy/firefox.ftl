@@ -9,6 +9,7 @@
 privacy-firefox-basics = Zakłady priwatnosći
 privacy-firefox-youre-in-control = Maśo kontrolu
 privacy-firefox-read-our-privacy = Cytajśo našu powěźeńku priwatnosći
+privacy-firefox-keeping-you-informed = Wóstańśo na běžnem, na kuždem kšacu drogi
 privacy-firefox-transparency-first = Transparenca ako prědna
 privacy-firefox-how-we-use = Kak daty wužywamy
 privacy-firefox-builtin-control = Zatwarjona kontrola
