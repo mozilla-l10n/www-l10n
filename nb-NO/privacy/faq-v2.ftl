@@ -13,3 +13,5 @@ privacy-faq-v2-following-questions = Følgende spørsmål og svar skal hjelpe de
 ## FAQ
 
 privacy-faq-v2-i-use-firefox = Jeg bruker { -brand-name-firefox } for nesten alt på nettet. Folk hos { -brand-name-mozilla } må vite en hel del om meg, eller hva?
+privacy-faq-v2-do-you-collect = Samler dere inn mer data i tidlige testutgivelsene av { -brand-name-firefox }?
+privacy-faq-v2-sort-of = På en måte. I tillegg til dataene beskrevet ovenfor, mottar vi krasj- og feilrapporter som standard i tidlige testutgivelser av { -brand-name-firefox }.
