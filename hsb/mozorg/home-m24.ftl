@@ -72,6 +72,8 @@ m24-home-alt-trustworthy = Mark Surman, prezident { -brand-name-mozilla }.
 m24-home-can-ai-be = Móže KI dowěry hódna być?
 m24-home-in-a-world = W swěće, hdźež so inowacija KI wot skupiny wuzwolenych doprědka pohonja, riskěrujemy, zo so tuta technologija monopolizuje. Hdyž so koncepty wotewrjeneho žórła na KI nałožuja, móhło so to změnić.
 m24-home-watch-now = Nětko wobhladać
+# Used as an accessible text alternative for an image
+m24-home-alt-ventures = Rěčnik na jewišću z wjacorymi produktowymi logami.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Maće projekt w zažnej fazy? Předstajće { -brand-name-mozilla-ventures } swoje předewzaće a zawěsćće financowanje za pozitiwnu změnu přichoda KI a interneta.
 m24-home-common-voice = { -brand-name-common-voice }

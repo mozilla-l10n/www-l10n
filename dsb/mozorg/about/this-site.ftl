@@ -25,3 +25,6 @@ about-this-site-mozilla-protocol = <a href="{ $protocol }">Protokolowy</a> desig
 # Variables:
 #   $fluent (url) link to https://projectfluent.org/
 about-this-site-fluent = Lokalizaciski system <a href="{ $fluent }">Fluent</a> { -brand-name-mozilla } za rěcne pśełožowanje.
+# Variables:
+#   $github (url) link to https://github.com/mozilla/bedrock
+about-this-site-many-other = Wjele drugich mjeńšych bibliotekow a wobłukow, kótarež móžośo w našom <a href="{ $github }">repozitoriumje { -brand-name-github }</a> namakaś.
