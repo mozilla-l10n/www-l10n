@@ -28,3 +28,6 @@ about-this-site-fluent = Lokalizaciski system <a href="{ $fluent }">Fluent</a> {
 # Variables:
 #   $github (url) link to https://github.com/mozilla/bedrock
 about-this-site-many-other = Wjele drugich mjeńšych bibliotekow a wobłukow, kótarež móžośo w našom <a href="{ $github }">repozitoriumje { -brand-name-github }</a> namakaś.
+# Variables:
+#   $credits (url) link to https://www.mozilla.org/credits/
+about-this-site-we-extend = Źěkujomy se wšym <a href="{ $credits }">sobustatkujucym</a> { -brand-name-mozilla }, kótarež su pomagali, web k lěpšemu městnoju cyniś.

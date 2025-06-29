@@ -30,4 +30,4 @@ about-this-site-fluent = Lokalizaciski system <a href="{ $fluent }">Fluent</a> {
 about-this-site-many-other = Wjele druhich mjeńšich bibliotekow a wobłukow. kotrež móžeće w našim <a href="{ $github }">repozitoriju { -brand-name-github }</a> namakać.
 # Variables:
 #   $credits (url) link to https://www.mozilla.org/credits/
-about-this-site-we-extend = Dźakujemy so wšěm <a href="{ $credits }">sobuskutkowarjam</a> { -brand-name-mozilla }, kotřiž su pomhali, web k lěpšemu městnu činili.
+about-this-site-we-extend = Dźakujemy so wšěm <a href="{ $credits }">sobuskutkowarjam</a> { -brand-name-mozilla }, kotřiž su pomhali, web k lěpšemu městnu činić.
