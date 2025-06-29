@@ -11,6 +11,9 @@ privacy-firefox-youre-in-control = Maśo kontrolu
 privacy-firefox-read-our-privacy = Cytajśo našu powěźeńku priwatnosći
 privacy-firefox-keeping-you-informed = Wóstańśo na běžnem, na kuždem kšacu drogi
 privacy-firefox-transparency-first = Transparenca ako prědna
+# Variables:
+#   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
+privacy-firefox-were-clear-about = Jo nam jasnje, kótare daty wužywamy a cogodla. Žedne pśełapjenja. Cytajśo drobnostki w <a { $attrs }>powěźeńce priwatnosći { -brand-name-firefox }</a>.
 privacy-firefox-how-we-use = Kak daty wužywamy
 privacy-firefox-builtin-control = Zatwarjona kontrola
 privacy-firefox-always-protected = Pśecej šćitany
@@ -24,3 +27,6 @@ privacy-firefox-firefox-for-mobile = { -brand-name-firefox } za mobilne rědy
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } za mobilne rědy
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Wopśimjeśe
+# Variables:
+#   $attrs (string) - in-page link to the top of the page
+privacy-firefox-lost-in-the = Sćo se zgubił w drobnostkach? Wrośćo se k <a { $attrs }>zakładam priwatnosći { -brand-name-firefox }</a>.
