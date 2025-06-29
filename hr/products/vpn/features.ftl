@@ -45,7 +45,7 @@ vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } spre
 vpn-features-super-private-mode = Super privatni modus: usmjerava promet kroz dvije lokacije
 # Variables
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
-vpn-features-multi-hop-feature = Naša <a { $feature }>funkcija za dvostruko šifriranje</a> dodatno povećava sigurnost.
+vpn-features-multi-hop-feature = Naša <a { $feature }>multi-hop funkcija</a> dodatno povećava sigurnost.
 vpn-features-support-for-custom-dns = Podrška za prilagođeni DNS
 # Variables
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings

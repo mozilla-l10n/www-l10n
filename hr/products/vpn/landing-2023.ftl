@@ -21,6 +21,7 @@ vpn-landing-log-in-to-your-bank-or = Prijavi se u svoju banku ili liječničku o
 vpn-landing-blocks-advertisers-from = Blokira oglašivače da te ciljaju
 vpn-landing-hide-your-activity-from = Sakrij svoju aktivnost od programa za praćenje i zlonamjernog softvera za kupovine bez da te netko promatra.
 vpn-landing-take-control = Preuzmi kontrolu pomoću VPN postavki specifičnih za web stranicu
+vpn-landing-customize-your-vpn = Prilagodi VPN zaštitu za svaku web stranicu pojedinačno pomoću { -brand-name-mozilla-vpn } proširenja za { -brand-name-firefox } (samo za Windows).
 vpn-landing-features = Funkcije
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

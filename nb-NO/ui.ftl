@@ -14,9 +14,14 @@ ui-watch-the-video = Se videoen
 ui-replay = Spill av igjen
 ui-share = Del
 ui-menu = Meny
+# Short for Table of Contents
+ui-contents = Innhold
 ui-please-turn-on-javascript = Skru på JavaScript for at denne siden skal vises korrekt.
 ui-show-more = Vis mer
 ui-show-less = Vis mindre
 ui-show-all = Vis alle
 ui-hide-all = Skjul alle
 ui-learn-more = Les mer
+ui-view = Vis
+ui-pause-animation = Sett animasjonen på pause
+ui-play-animation = Spill av animasjon
