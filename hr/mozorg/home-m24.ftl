@@ -64,6 +64,7 @@ m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } graditelji
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Platforma „Graditelji” pomaže nezavisnim programerima pri stvaranju transformativnih UI projekata otvorenog koda pomoću prilagođenih suradnji, programiranja i zajednice.
+m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } pomaže nezavisnim programerima pri stvaranju transformativnih UI projekata otvorenog koda pomoću prilagođenih suradnji, programiranja i zajednice.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } logotip.
 m24-home-lumigator = { -brand-name-lumigator }

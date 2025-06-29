@@ -22,11 +22,13 @@ cookie-settings-category-necessary-what-are-desc = Ove su tehnologije neophodne 
 
 cookie-settings-category-preference-heading = Postavke
 cookie-settings-category-preference-what-are-subheading = Što su kolačići postavki?
+cookie-settings-category-preference-what-are-desc = Ove se tehnologije koriste za pamćenje tvojih izbora tijekom prethodnog posjeta web stranici. Primjeri mogu uključivati jezik na kojem preferiraš čitati ili tvoja omiljena boja teme.
 
 ## Analytics cookies section
 
 cookie-settings-category-analytics-heading = Analitika
 cookie-settings-category-analytics-what-are-subheading = Što su kolačići analitike?
+cookie-settings-category-analytics-what-are-desc = Ove tehnologije prikupljaju informacije o tome kako ljudi koriste web stranice, kao što su posjećene stranice, kliknute poveznice i s kojih drugih web stranica potječu posjeti.
 
 ## Privacy section
 
