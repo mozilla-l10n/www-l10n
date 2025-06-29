@@ -11,3 +11,6 @@ data-preferences-notification-opt-out = Sće wot hromadźenja datow prěnjeho po
 data-preferences-notification-opt-in = Sće pola hromadźenja datow prěnjeho poskićowarja přizjewjeny.
 data-preferences-current-preference = Aktualne nastajenje:
 data-preferences-please-enable-javascript = Prošu zmóžńće JavaScript, zo byšće swoje datowe nastajenje rjadował.
+data-preferences-opt-out-button = Wotzjewće so wot hromadźenja datow prěnjeho poskićowarja
+data-preferences-if-you-change = Jeli swoje měnjenje měnjeće, móžeće so tu zaso přizjewić:
+data-preferences-opt-in-button = Přizjewće so wot hromadźenja datow prěnjeho poskićowarja

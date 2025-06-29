@@ -8,3 +8,4 @@
 # New strings for updated page
 vpn-windows-get-a-vpn = Wobstarajśo se VPN za Windows wót { -brand-name-mozilla }
 vpn-windows-stay-safe = Wóstańśo wěsty na swójom rěźe Windows z VPN
+vpn-windows-what-are-the-benefits = Kótare su lěpšyny ześěgowanja { -brand-name-mozilla-vpn } na mójom rěźe Windows?
