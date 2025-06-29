@@ -10,6 +10,7 @@ footer-refresh-mozilla-advertising = { -brand-name-mozilla } oglašavanje
 footer-refresh-learn-more-about-mozilla-advertising = Saznaj više <span>o { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Napomene o { -brand-name-firefox } izdanju
 footer-refresh-privacy-first = Rješenja za oglašavanje usmjerena na privatnost za brendove, izdavače i platforme.
+footer-refresh-mdn-v2 = { -brand-name-mdn }
 # Obsolete string (expires 22-04-2025)
 footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Slijedi @{ -brand-name-mozilla }
