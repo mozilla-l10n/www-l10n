@@ -24,12 +24,14 @@ home-product-monitor-protect-your = Škitajće swoje priwatne daty před datowym
 home-cta-get-monitor = { -brand-name-monitor } wobstarać
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-join-us-in-shaping = Čińće sobu při wuhotowanju dowěry hódneje KI
 home-read-more = Čitajće wjace
 home-so-what-is-mozilla = Što tuž je { -brand-name-mozilla }?
 home-learn-about-mofo = Zhońće wjace wo załožbje { -brand-name-mozilla-foundation }
 home-join-the-fight = Wojujće z nami za strowy internet
 home-your-voice-your-code = Waš hłós. Waš kod. Waše ideje. Su tysacy móžnosćow, přez kotrež móžeće k { -brand-name-mozilla } přinošować.
 home-volunteer-with-mozilla = Dobrowólnik pola { -brand-name-mozilla }
+home-that-one-time = Tón jedyn raz smy naš žórłowy kod preč dali…
 home-learn-more-about-mozilla = Dalše informacije wo { -brand-name-mozilla }
 # VPN Feature
 home-featured-product = Doporučeny produkt
