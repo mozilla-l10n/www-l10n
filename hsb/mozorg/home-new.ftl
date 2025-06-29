@@ -37,4 +37,5 @@ home-learn-more-about-mozilla = Dalše informacije wo { -brand-name-mozilla }
 home-featured-product = Doporučeny produkt
 # Mozilla Foundation donation promo
 home-mofo-build-our-movement = Tworće naše hibanje
+home-mofo-donate-to-mofo-today = Darće { -brand-name-mozilla-foundation } dźensa, zo byšće zaručił, zo internet wotewrjeny a přistupny za wšěch wostawa.
 home-mofo-donate = Darić

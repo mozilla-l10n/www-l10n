@@ -24,15 +24,18 @@ home-product-monitor-protect-your = Šćitajśo swóje priwatne daty pśed datow
 home-cta-get-monitor = { -brand-name-monitor } wobstaraś
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
+home-join-us-in-shaping = Cyńśo sobu pśi wugótowanju dowěry gódneje KI
 home-read-more = Dalšne informacije
 home-so-what-is-mozilla = Pótakem, co jo { -brand-name-mozilla }?
 home-learn-about-mofo = Zgóńśo wěcej wó załožbje { -brand-name-mozilla-foundation }
 home-join-the-fight = Wójujśo z nami za strowy internet
 home-your-voice-your-code = Waš głos. Waš kod. Waše ideje. Dajo towzynty móžnosćow, pśez kótarež móžośo k { -brand-name-mozilla } pśinosowaś.
 home-volunteer-with-mozilla = Dobrowólnik pla { -brand-name-mozilla }
+home-that-one-time = Ten jaden raz smy dali naš žrědłowy kod pšec…
 home-learn-more-about-mozilla = Dalšne informacije wó { -brand-name-mozilla }
 # VPN Feature
 home-featured-product = Dopórucony produkt
 # Mozilla Foundation donation promo
 home-mofo-build-our-movement = Twóŕśo našo gibanje
+home-mofo-donate-to-mofo-today = Pósććo { -brand-name-mozilla-foundation } źinsa, aby zarucył, až internet wótwórjony a pśistupny za wše wóstawa.
 home-mofo-donate = Pósćiś
