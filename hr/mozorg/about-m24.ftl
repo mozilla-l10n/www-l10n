@@ -14,9 +14,14 @@
 
 ## News
 
+m24-about-read-more = Saznaj više
+m24-about-read-the-latest = Pročitaj najnovije { -brand-name-mozilla } vijesti i članke
+m24-about-builders-program = { -brand-name-mozilla-builders } pomaže programerima u stvaranju transformativnih projekata umjetne inteligencije otvorenog koda kroz suradnju, programiranje i zajednicu
 
 ## Showcase
 
+m24-about-lets-build-a = Izgradimo pravedniju budućnost
+m24-about-see-how-were = Pogledaj kako potičemo raznoliko, uključivo i dostupno internetsko okruženje za sve.
 m24-about-read-about-our = Pročitaj o našoj predanosti
 
 ## Careers
