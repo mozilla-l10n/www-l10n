@@ -13,4 +13,5 @@ welcome-page14-copy-code = Kod kopěrować
 welcome-page14-code-copied = Kod je so kopěrował!
 welcome-page14-very-fast = Je spěšny, jara spěšny
 welcome-page14-without-trace = Internet bjez slěda
+welcome-page14-never-log = Njeprotokolujemy, njepřesćěhujemy abo njedźělimy ženje waše syćowe daty – waša aktiwita online wotćišć nohi na našich serwerach VPN njezawostaja.
 welcome-page14-why-see-this = Čehodla to widźu?
