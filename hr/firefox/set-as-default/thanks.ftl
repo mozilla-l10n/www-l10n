@@ -23,6 +23,7 @@ set-as-default-thanks-get-firefox-for-mobile = Preuzmi { -brand-name-firefox } z
 set-as-default-thanks-travel-the-internet-with = Kreći se po internetu sa zaštitom na svim svojim uređajima.
 set-as-default-thanks-download-the-app = Preuzmi program
 set-as-default-create-an-account = Stvori račun
+set-as-default-thanks-sign-up-for-a-free-account-v2 = Prijavi se za besplatni { -brand-name-mozilla-account } i sinkroniziraj sve tvoje lozinke, povijest pregledavanja i postavke na svim tvojim uređajima.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Otvori račun
 set-as-default-thanks-having-trouble = Imaš poteškoće?
