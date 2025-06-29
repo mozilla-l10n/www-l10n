@@ -7,6 +7,8 @@
 
 welcome-page14-page-title = Wužiwajće 20 % rabata za { -brand-name-mozilla-vpn } tutón měsac cyberoweje wěstoty
 welcome-page14-page-title-alt = Je měsac cyberoweje wěstoty – čas, zo byšće swoju priwatnosć na nowy schodźenk zběhnył
+welcome-page14-main-description = { -brand-name-mozilla-vpn } (Wirtualna priwatna syć) waš cyły internetny zwisk na wašim ličaku, tableće a samo waš telefon škita. Za hišće wjace wěstotu přińdźe z 30dnjowskej garantiju wróćenja pjenjez.
+welcome-page14-main-description-v2 = { -brand-name-mozilla-vpn } (Wirtualna priwatna syć) waš cyły internetny zwisk na wašim ličaku, tableće a wašim telefonje škita. Za hišće wjace wěstotu přińdźe z 30dnjowskej garantiju wróćenja pjenjez.
 welcome-page14-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstarać
 welcome-page14-use-code = Wužiwajće kod při płaćenju za 20 % rabata
 welcome-page14-copy-code = Kod kopěrować
