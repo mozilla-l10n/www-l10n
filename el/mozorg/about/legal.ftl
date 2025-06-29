@@ -8,7 +8,7 @@
 legal-legal = Νομικά
 legal-get-involved = Συμμετέχετε
 legal-protect-the-fox = Προστατέψτε την Αλεπού
-legal-takedown-requests = Αίτηση απομάκρυνσης περιεχομένου
+legal-takedown-requests = Αιτήματα αφαίρεσης
 legal-back-to-legal = Επιστροφή στα Νομικά
 legal-special-thanks-to-all-of-you = Ευχαριστούμε θερμά όλους εσάς που βοηθάτε με τις αναφορές παραβίασης των σημάτων της { -brand-name-mozilla }, που συμμετέχετε στα φόρουμ διακυβέρνησης, που στέλνετε σχόλια για τις μεταφράσεις και τους νομικούς όρους μας και που συνεισφέρετε τις δεξιότητές σας για την επιτυχία του έργου της { -brand-name-mozilla }.
 legal-terms = Όροι χρήσης
