@@ -17,6 +17,10 @@
 m24-about-read-more = Saznaj više
 m24-about-read-the-latest = Pročitaj najnovije { -brand-name-mozilla } vijesti i članke
 m24-about-builders-program = { -brand-name-mozilla-builders } pomaže programerima u stvaranju transformativnih projekata umjetne inteligencije otvorenog koda kroz suradnju, programiranje i zajednicu
+m24-about-at-our-rise25 = Na našoj svečanosti dodjele { -brand-name-rise25 } nagrada, budućnost umjetne inteligencije je pouzdana, inkluzivna i odgovorna
+# Used as an accessible text alternative for an image
+m24-about-rise25-award = Dobitnica { -brand-name-rise25 } nagrade pokazuje na svoj trofej.
+m24-about-empowering-chicagos-entrepreneurs = Podržavanje čikaških poduzetnika za generacijsku promjenu
 
 ## Showcase
 
