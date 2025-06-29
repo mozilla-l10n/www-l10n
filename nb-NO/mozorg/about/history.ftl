@@ -57,3 +57,4 @@ history-if-you-want-to-join-us-in = Hvis du vil bli med oss i oppdraget vårt, k
 history-for-more-information-about = Hvis du vil ha mer informasjon om historien til { -brand-name-mozilla }, kan du se følgende:
 history-mozilla-bookmarks = { -brand-name-mozilla }-bokmerker
 history-timeline-of-mozilla-project = Tidslinje for { -brand-name-mozilla }-prosjektet
+history-mozilla-digital-memory-bank = { -brand-name-mozilla } Digital minnebank
