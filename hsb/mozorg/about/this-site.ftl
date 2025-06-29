@@ -25,3 +25,6 @@ about-this-site-mozilla-protocol = <a href="{ $protocol }">Protokolowy</a> desig
 # Variables:
 #   $fluent (url) link to https://projectfluent.org/
 about-this-site-fluent = Lokalizaciski system <a href="{ $fluent }">Fluent</a> { -brand-name-mozilla } za rěčne přełožowanje.
+# Variables:
+#   $credits (url) link to https://www.mozilla.org/credits/
+about-this-site-we-extend = Dźakujemy so wšěm <a href="{ $credits }">sobuskutkowarjam</a> { -brand-name-mozilla }, kotřiž su pomhali, web k lěpšemu městnu činili.
