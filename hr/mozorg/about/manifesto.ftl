@@ -7,6 +7,8 @@
 
 # HTML page title
 manifesto-the-mozilla-manifesto = { -brand-name-mozilla } manifest
+# HTML page description
+manifesto-these-are-the-principles = To su načela koja vode našu misiju promicanja otvorenosti, inovacija i prilika na webu.
 manifesto-the-internet-is-an-integral = Internet je sastavni dio modernog života – ključna komponenta u obrazovanju, komunikaciji, suradnji, poslovanju, zabavi i društvu u cjelini.
 manifesto-the-internet-is-a-global = Internet je globalni javni resurs koji mora ostati otvoren i dostupan.
 manifesto-the-internet-must-enrich = Internet mora obogatiti živote pojedinaca.
