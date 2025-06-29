@@ -35,6 +35,8 @@ home-that-one-time = Ten jaden raz smy dali naš žrědłowy kod pšec…
 home-learn-more-about-mozilla = Dalšne informacije wó { -brand-name-mozilla }
 # VPN Feature
 home-featured-product = Dopórucony produkt
+# HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
+home-feature-blur-your-location = Wucyńśo swójo stojnišćo a aktiwitu z pomocu <span>{ -brand-name-mozilla-vpn }</span> k njepóznaśeju
 # Mozilla Foundation donation promo
 home-mofo-build-our-movement = Twóŕśo našo gibanje
 home-mofo-donate-to-mofo-today = Pósććo { -brand-name-mozilla-foundation } źinsa, aby zarucył, až internet wótwórjony a pśistupny za wše wóstawa.

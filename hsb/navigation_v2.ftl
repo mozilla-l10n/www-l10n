@@ -63,6 +63,7 @@ navigation-v2-mozilla-blog = Blog { -brand-name-mozilla }
 navigation-v2-learn-about-mozilla-and = Zhońće wjace wo { -brand-name-mozilla } a problemach, kotrež su nam wažne.
 navigation-v2-more-about-mozilla = Wjace wo { -brand-name-mozilla }
 navigation-v2-impact = Wliw
+navigation-v2-find-out-how = Wuslědźće, kak internet bóle wotewrjeny a naslědny činimy
 
 ## Innovation menu
 

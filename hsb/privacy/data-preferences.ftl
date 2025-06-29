@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/privacy/websites/data-preferences/
 
+data-preferences-page-title = Rjadujće swoje nastajenja za hromadźenje datow prěnjeho poskićowarja
 data-preferences-current-preference = Aktualne nastajenje:
 data-preferences-please-enable-javascript = Prošu zmóžńće JavaScript, zo byšće swoje datowe nastajenje rjadował.
