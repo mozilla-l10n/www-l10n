@@ -111,6 +111,8 @@ m24-home-alt-rise25-smiling = Sebjewědomy smějkotacy so rěčnik na { -brand-n
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Wjesoły nošer myta na { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Staw { -brand-name-mozilla }
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = Abstraktne pikselowe wuměłstwo w zelenych, oranžowych a róžojtych wotsćinach
 m24-home-read-the-report = Čitajće rozprawu
 
 ## Issues

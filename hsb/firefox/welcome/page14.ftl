@@ -8,6 +8,7 @@
 welcome-page14-page-title = Wužiwajće 20 % rabata za { -brand-name-mozilla-vpn } tutón měsac cyberoweje wěstoty
 welcome-page14-page-title-alt = Je měsac cyberoweje wěstoty – čas, zo byšće swoju priwatnosć na nowy schodźenk zběhnył
 welcome-page14-get-mozilla-vpn = { -brand-name-mozilla-vpn } wobstarać
+welcome-page14-use-code = Wužiwajće kod při płaćenju za 20 % rabata
 welcome-page14-copy-code = Kod kopěrować
 welcome-page14-code-copied = Kod je so kopěrował!
 welcome-page14-very-fast = Je spěšny, jara spěšny
