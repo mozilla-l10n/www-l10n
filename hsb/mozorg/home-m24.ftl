@@ -17,6 +17,8 @@ m24-home-page-desc-v2 = Dźěłamy na tym, kontrolu nad internetom do rukow lud�
 m24-home-welcome-to-mozilla = Witajće k { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = Wot dowěryhódnych technologijow do prawidłow, kotrež waše digitalne prawa škitaja, stajamy was na prěnje městno – přeco.
 m24-home-learn-about-us = Zhońće wjace wo nas
+# Used as accessible text alternative for image
+m24-home-alt-flag = Stilizowana zelena chorhojčka na čornym pozadku, wutworjeny z ‚M‘ za { -brand-name-mozilla } a piksela, kotryž je přesunjeny a so na jeho originalne logo dinosawrija wotkazuje.
 
 ## Products
 
