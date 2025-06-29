@@ -53,6 +53,7 @@ vpn-features-support-for-custom-dns = Pódpora za swójski DNS
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
 vpn-features-keep-traffic-protected = Z { -brand-name-mozilla-vpn } móžośo swój wobchad šćitaś a hyšći swóje napšašowanja DNS tam słaś, źož cośo. <a { $dns }>Zgóńśo wěcej wó personalizěrowanej pódpěrje DNS</a>.
 vpn-features-flexible = Fleksibelny
+vpn-features-webste-specific-vpn = Nastajenja VPN, kótarež su specifiske za websedło, do { -brand-name-firefox } njepósrědnje integrěrowane
 vpn-features-personalized-server = Personalizěrowane dopórucenja za serwerowe stojnišćo
 vpn-features-well-suggest-which-servers = Naraźujomy, kótare serwery we wašej bliskosći nejmalsnjejšy, nejspušćobnjejšy internetny zwisk zawěsćiś.
 vpn-features-personalize-which-apps = Personalizěrowaś, kótare nałoženja šćit VPN dostawaju
