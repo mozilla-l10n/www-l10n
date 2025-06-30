@@ -41,7 +41,7 @@ history-in-2003-the-mozilla-project = I 2003 oppretta { -brand-name-mozilla }-pr
 history-the-new-mozilla-foundation = Den nystifta { -brand-name-mozilla-foundation } tok over forvaltninga av den daglege verksemda innan prosjektet og tok også offisielt over rolla som forkjempar for <a href="{ $manifesto }">openheit, nyskaping og mulegheiter</a> på nettet.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
-history-it-did-this-by-continuing = Stiftinga utføde oppdraget sitt ved å gje ut programvare, slik som { -brand-name-firefox } og { -brand-name-thunderbird }, og ved å utvide verksemda til nye område, t.d. ved å dele ut <a href="{ $grants }">stipend</a> for å støtte tilgjengeforbetringar på nettet.
+history-it-did-this-by-continuing = Stiftinga utførte oppdraget sitt ved å gje ut programvare, slik som { -brand-name-firefox } og { -brand-name-thunderbird }, og ved å utvide verksemda til nye område, t.d. ved å dele ut <a href="{ $grants }">stipend</a> for å støtte tilgjengeforbetringar på nettet.
 # Variables:
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
