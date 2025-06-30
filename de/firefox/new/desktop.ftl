@@ -92,7 +92,7 @@ firefox-desktop-download-extensions-for-every = Erweiterungen aus jedem Bereich
 firefox-desktop-download-change-up-your = Ändere den Look
 firefox-desktop-download-go-from-light = Wechsle je nach Stimmung oder Vorliebe vom hellen in den dunklen Modus oder bringe mit einem benutzerdefinierten Theme Farbe auf deinen Screen (vielleicht per Regenbogen-Einhorn).
 firefox-desktop-download-tweak-your-settings = Passe deine Einstellungen an
-firefox-desktop-download-theres-no-need = Du musst dich nicht auf ewig festlegen. Ändere die Startseite in neuen Tabs, deine Suchleiste, Lesezeichen und mehr – so, wie es dir gerade am besten passt.
+firefox-desktop-download-theres-no-need = Du musst dich nicht auf ewig festlegen. Ändere die Startseite, deine Suchleiste, Lesezeichen und mehr – so, wie es dir gerade am besten passt.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-backed-by-the = Unterstützt von der <strong>gemeinnützigen</strong> Organisation Mozilla
 firefox-desktop-download-challenging-the-status = Wir stellen seit 1998 den Status Quo in Frage
