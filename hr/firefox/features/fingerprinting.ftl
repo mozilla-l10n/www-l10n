@@ -7,4 +7,4 @@
 
 features-fingerprinting-fingerprint-blocking = Blokiranje digitalnih otisaka
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blokira digitalne otiske
-features-fingerprinting-fingerprinting-is-a = Digitalni otisak je vrsta online praćenja koja je invazivnija od običnog praćenja putem kolačića. Digitalni otisak se stvara kada tvrtka izradi jedinstveni profil tvog računala na temelju hardvera, softvera, dodataka, pa čak i postavki. Tvoje postavke poput ekrana koji koristiš, na tvom računalu instalirani fontovi, pa čak i tvoj odabir web preglednika mogu se koristiti za stvaranje digitalnog otiska.
+features-fingerprinting-fingerprinting-is-a = Identifikacija uređaja je vrsta online praćenja koja je invazivnija od običnog praćenja putem kolačića. Digitalni otisak se stvara kada tvrtka izradi jedinstveni profil tvog računala na temelju hardvera, softvera, dodataka, pa čak i postavki. Tvoje postavke poput ekrana koji koristiš, na tvom računalu instalirani fontovi, pa čak i tvoj odabir web preglednika mogu se koristiti za stvaranje digitalnog otiska.
