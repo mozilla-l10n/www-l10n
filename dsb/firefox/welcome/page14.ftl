@@ -14,6 +14,7 @@ welcome-page14-use-code = Wužywajśo kod pśi płaśenju za 20 % rabata
 welcome-page14-copy-code = Kod kopěrowaś
 welcome-page14-code-copied = Kod jo se kopěrował!
 welcome-page14-very-fast = Jo malsny, wjelgin malsny
+welcome-page14-wireguard-powered = Naše serwery na zakłaźe { -brand-name-wireguard }® su za malsnosć napórane, aby mógał ako pśecej streamowaś, ześěgnuś a graś.
 welcome-page14-without-trace = Internet bźez slěda
 welcome-page14-never-log = Njeprotokolěrujomy, njepśeslědujomy abo njeźělimy nigda waše seśowe daty – waša aktiwita online stopu na našych serwerach VPN njezawóstaja.
 welcome-page14-why-see-this = Cogodla se to pokazujo?

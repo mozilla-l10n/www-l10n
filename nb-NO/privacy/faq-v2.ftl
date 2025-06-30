@@ -5,6 +5,16 @@
 
 ### URL: https://www-dev.allizom.org/privacy/faq
 
+# HTML page title
+privacy-faq-v2-title = { -brand-name-mozilla }s ofte stilte spørsmål om informasjonssikkerhet
+# HTML page description
+privacy-faq-v2-desc = Hos { -brand-name-mozilla } respekterer og beskytter vi den personlige informasjonen din.
+privacy-faq-v2-heading = Vi står for mennesker framfor profitt.
+privacy-faq-v2-intro = Det kan være vanskelig å vite hva man kan forvente av programvare og tjenester nå til dags. Dagens teknologi er kompleks, og de færreste har tid til å sette seg inn i alle detaljene. Det gjelder også for { -brand-name-firefox }, hvor vi finner at folk har mange forskjellige ideer om hva som skjer under panseret i deres nettleser.
+privacy-faq-v2-at-mozilla = Hos { -brand-name-mozilla } respekterer og beskytter vi den personlige informasjonen din:
+# Variables:
+#   $attrs (url) - link to https://www.mozilla.org/privacy/principles/
+privacy-faq-v2-we-follow = Vi følger et sett av <a { $attrs }>databeskyttelsesprinsipper</a> som for vår tilnærming til personvern i { -brand-name-firefox } for datamaskiner og mobile enheter.
 privacy-faq-v2-we-strive-collect-data = Vi streber etter å kun samle inn de dataene vi trenger for å lage de beste produktene.
 privacy-faq-v2-we-work-to = Vi jobber for å gi folk kontroll over sine data og nettopplevelser.
 privacy-faq-v2-we-adhere = Vi følger prinsippet om «ingen overraskelser», det vil si at vi jobber hardt for å sikre at våre brukere kan forstå hvordan { -brand-name-firefox } samsvarer med virkeligheten.
@@ -13,6 +23,8 @@ privacy-faq-v2-following-questions = Følgende spørsmål og svar skal hjelpe de
 ## FAQ
 
 privacy-faq-v2-i-use-firefox = Jeg bruker { -brand-name-firefox } for nesten alt på nettet. Folk hos { -brand-name-mozilla } må vite en hel del om meg, eller hva?
+privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } vet ikke så mye som du forventer om hvordan folk surfer på nettet. { -brand-name-firefox }, nettleseren som kjører på enheten eller datamaskinen din, er inngangsporten din til internett. Nettleseren din vil administrere mye informasjon om nettstedene du besøker, men denne informasjonen forblir vanligvis på enheten din.
+privacy-faq-v2-it-seems-like = Det virker som om hvert selskap på nettet kjøper og selger min informasjon. Dere er sannsynligvis ikke annerledes.
 privacy-faq-v2-do-you-collect = Samler dere inn mer data i tidlige testutgivelsene av { -brand-name-firefox }?
 privacy-faq-v2-sort-of = På en måte. I tillegg til dataene beskrevet ovenfor, mottar vi krasj- og feilrapporter som standard i tidlige testutgivelser av { -brand-name-firefox }.
 # Variables:
