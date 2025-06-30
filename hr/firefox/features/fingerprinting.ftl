@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
-features-fingerprinting-fingerprint-blocking = Blokiranje digitalnih otisaka
-features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blokira digitalne otiske
+# page description
+features-fingerprinting-fingerprinting-is-a-desc = Identifikacija uređaja je vrsta online praćenja koja je invazivnija od običnog praćenja putem kolačića – zato { -brand-name-firefox-browser } to blokira.
+features-fingerprinting-fingerprint-blocking = Blokiranje identifikatora uređaja
+features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } blokira identifikaciju uređaja
+features-fingerprinting-what-is-fingerprinting-body = Što je identifikacija uređaja?
 features-fingerprinting-fingerprinting-is-a = Identifikacija uređaja je vrsta online praćenja koja je invazivnija od običnog praćenja putem kolačića. Digitalni otisak se stvara kada tvrtka izradi jedinstveni profil tvog računala na temelju hardvera, softvera, dodataka, pa čak i postavki. Tvoje postavke poput ekrana koji koristiš, na tvom računalu instalirani fontovi, pa čak i tvoj odabir web preglednika mogu se koristiti za stvaranje digitalnog otiska.
+features-fingerprinting-fingerprinting-is-bad = Identifikacija uređaja je loša za web
