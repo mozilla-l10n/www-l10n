@@ -40,10 +40,24 @@ m24-about-chicago = Ein entreprenør basert i Chicago.
 ## Showcase
 
 m24-about-lets-build-a = La oss byggje ei meir rettferdig framtid
+m24-about-see-how-were = Sjå korleis vi fremmar eit mangfaldig, inkluderande og tilgjengeleg nettmiljø for alle.
 m24-about-read-about-our = Les om engasjementet vårt
 
 ## Careers
 
+# Used as an accessible text alternative for an image
+m24-about-alt-trustworthy = Pålitelig AI, { -brand-name-common-voice }, læring i fellesskap.
+# Used as an accessible text alternative for an image
+m24-about-alt-conversation = { -brand-name-mozilla }-tilsett midt i ein samtale.
+# Used as an accessible text alternative for an image
+m24-about-alt-drinking-coffee = { -brand-name-mozilla }-tilsett drikk kaffi.
+# Used as an accessible text alternative for an image
+m24-about-alt-collaborating = { -brand-name-mozilla }-tilsette samarbeider.
+m24-about-join-us-and = Bli med oss og gjer ein forskjell
+m24-about-join-our-team = Bli med i teamet vårt og flytt grensene for kva som er mogleg — utan å gå på akkord med det som betyr noko.
+m24-about-see-open-positions = Sjå ledige stillingar
 
 ## Community
 
+m24-about-community-love-v2 = Fellesskapskjærleik, vår drivkraft
+m24-about-mozilla-is-a = { -brand-name-mozilla } er eit globalt fellesskap av lidenskapelege frivillige, medarbeidarar og bidragsytarar som har bygt, beskytta og forma internett saman med oss sidan 1998.
