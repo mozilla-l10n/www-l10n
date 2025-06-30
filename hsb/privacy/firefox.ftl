@@ -10,6 +10,7 @@ privacy-firefox-basics = Zakłady priwatnosće
 privacy-firefox-youre-in-control = Maće kontrolu
 privacy-firefox-read-our-privacy = Čitajće našu zdźělenku priwatnosće
 privacy-firefox-keeping-you-informed = Wostańće na běžnym, na kóždym kroku puća
+privacy-firefox-we-believe-you = Myslimy sej, zo wy měł wědźeć, kak so waše daty wužiwaja a čehodla. { -brand-name-firefox } so při kóždym kroku dźiwajo na priwatnosć a transparencu wuwiwa.
 privacy-firefox-transparency-first = Transparenca jako prěnja
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice

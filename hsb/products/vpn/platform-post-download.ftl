@@ -24,6 +24,11 @@ vpn-mac-go-to-your-downloads = Přeńdźće k swojemu rjadowakej sćehnjenjow a 
 
 vpn-download-unable-to-download = Njeje móžno { -brand-name-mozilla-vpn } sćahnyć
 vpn-download-not-in-country = Bohužel { -brand-name-mozilla-vpn } we wašim kraju k dispoziciji  njeje.
+# The <br> tag is a line break for the HTML text
+# Variables:
+#   $url (url) - link for either Windows or Mac download, depending on user platform
+#   $id (string) - unique ID for the anchor tag
+vpn-your-download-should-start = Waše sćehnjenje { -brand-name-mozilla-vpn } měło so awtomatisce startować. Jeli so to njestawa, <br><a href="{ $url }" id="{ $id }">startujće sćehnjenje znowa</a> abo wróćće so k sćehnjenju za druhi grat.
 vpn-open-the-file = 1. Wočińće dataju
 vpn-launch-the-app = 2. Startujće nałoženje
 vpn-login-or-signup = 3 Přizjewće so abo registrujće so

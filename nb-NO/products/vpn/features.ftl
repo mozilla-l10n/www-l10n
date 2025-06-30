@@ -45,3 +45,6 @@ vpn-features-super-private-mode = Superprivat modus: ruter trafikk gjennom to st
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
 vpn-features-multi-hop-feature = Vår <a { $feature }>multi-hop-funksjon</a> gir deg et ekstra sikkerhetsløft.
 vpn-features-support-for-custom-dns = Støtte for tilpasset DNS
+# Variables
+#   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
+vpn-features-keep-traffic-protected = Med { -brand-name-mozilla-vpn } kan du beskytte trafikken din og fortsatt rute DNS-forespørslene dine dit du foretrekker. <a { $dns }>Les mer om støtte for tilpasset DNS</a>.
