@@ -17,6 +17,7 @@ m24-about-together-we-can = Zajedno možemo internet održati jednostavnim, sigu
 m24-about-read-our-manifesto = Pročitaj naš manifest
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Grupa mislilaca sjedi u krugu na podu i dijele ideje.
+m24-about-we-advocate-for = Zalažemo se za bolje proizvode te držimo vlade i tehnološke korporacije odgovornima za ono što stvaraju.
 
 ## News
 
