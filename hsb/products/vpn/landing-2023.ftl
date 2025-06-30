@@ -48,6 +48,7 @@ vpn-landing-no-logging-tracking-or-sharing = Syćowe daty so njeprotokoluja, nje
 vpn-landing-no-bandwidth-restrictions-or = Žane wobmjezowanja šěrokosće pasma abo haćenje
 vpn-landing-extra-security-whole-device = Přidatna wěstota: škit cyłeho grata, routing multi-hop a wjace
 vpn-landing-built-transparently = Transparentnje we wotewrjenym žórle wuwity
+vpn-landing-easy-firefox-integration = Lochka integracija { -brand-name-firefox } z rozšěrjenjom { -brand-name-mozilla-vpn } (jenož Windows)
 vpn-landing-see-all-features = Wšě funkcije pokazać
 vpn-landing-fram-a-brand-you-can-trust = Wot marki, kotrejž móžeće dowěrić
 vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } je powšitkownosći wužitne internetne předewzaće, kotrež wot lěta 1998 za strowy web wojuje.
