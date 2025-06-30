@@ -9,10 +9,12 @@
 privacy-faq-mozillas-data-privacy-faq = { -brand-name-mozilla } – ČPP o privatnosti podataka
 privacy-faq-at-mozilla-we-respect-and-protect-desc = { -brand-name-mozilla } poštuje i štiti tvoje osobne informacije.
 privacy-faq-we-stand-for-people-over-profit = Za nas stoji ljudsko biće ispred profita.
+privacy-faq-at-mozilla-we-respect-and-protect = { -brand-name-mozilla } poštuje i štiti tvoje osobne podatke:
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
 privacy-faq-we-follow-a-set-of-data-privacy = Slijedimo niz <a href="{ $link }">načela privatnosti podataka</a> koji određuju naš pristup prema privatnosti u { -brand-name-firefox } desktop i mobilnim preglednicima.
 privacy-faq-we-only-collect-the-data-we = Prikupljamo samo podatke koje trebamo za izradu najboljih proizvoda.
+privacy-faq-we-put-people-in-control-of = Ljudima dajemo kontrolu nad njihovim podacima i online iskustvima.
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } ne zna toliko puno o tome kako ljudi pregledavaju web koliko bi se moglo očekivati. Kao proizvođač preglednika to je za nas zapravo veliki izazov. Zato smo izgradili opcionalne alate koji zainteresiranim korisnicima omogućuju da nam daju uvid u njihovo pregledavanje weba. Ako sinkroniziraš svoju povijest pregledavanja u { -brand-name-firefox } instalacijama mi ne poznamo tu povijest jer je šifrirana na tvom uređaju.
 privacy-faq-it-seems-like-every-company = Čini se da sva poduzeća na webu kupuju i prodaju moje podatke. Vi vjerojatno također.
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } ne prodaje podatke o tebi te ne kupujemo podatke o tebi.
