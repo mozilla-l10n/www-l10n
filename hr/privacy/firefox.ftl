@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/privacy/firefox
 
-privacy-firefox-read-our-privacy = Pročitaj našu napomenu o privatnosti
+privacy-firefox-read-our-privacy = Pročitaj naše napomene o privatnosti
 privacy-firefox-manage-your-privacy = Upravljajte postavkama privatnosti:
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-desktop = { -brand-name-firefox } za desktop
@@ -17,4 +17,4 @@ privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } za mobilne uređ
 privacy-firefox-contents = Sadržaj
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
-privacy-firefox-take-me-back = Vrati me <a { $attrs }>natrag na početak</a> napomene o privatnosti
+privacy-firefox-take-me-back = Vrati me <a { $attrs }>natrag na početak</a> napomena o privatnosti

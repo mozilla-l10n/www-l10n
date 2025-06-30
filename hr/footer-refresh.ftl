@@ -35,7 +35,7 @@ footer-refresh-tools = Alati
 footer-refresh-donate = Doniraj
 footer-refresh-visit-mozilla-corporations = Posjeti <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, neprofitnu matičnu organizaciju korporacije <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>
 footer-refresh-portions-of-this-content = © 1998. – { $current_year }. Autorska prava nad dijelovima ovog sadržaja zadržavaju individualni doprinositelji mozilla.org projekta. Sadržaj je dostupan pod <a rel="license" { $href }>{ -brand-name-creative-commons } licencom</a>.
-footer-refresh-websites-privacy-notice = Napomena o privatnosti web stranice
+footer-refresh-websites-privacy-notice = Napomene o privatnosti web stranice
 footer-refresh-websites-cookies = Kolačići
 footer-refresh-websites-legal = Pravne informacije
 footer-refresh-community-participation-guidelines = Smjernice za sudjelovanje u zajednici
