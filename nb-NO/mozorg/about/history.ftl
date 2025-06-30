@@ -30,6 +30,15 @@ history-by-2002-well-over-90 = I 2002 brukte <a href="{ $over90 }">mer enn 90 pr
 #   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
 history-not-many-people-noticed = Ikke mange la merke til det den gangen, men den første versjonen av Phoenix (senere omdøpt til { -brand-name-firefox }) ble også utgitt av medlemmer av { -brand-name-mozilla }-fellesskapet det året, med mål om å gi den <a href="{ $charter }">best mulige nettleseropplevelsen</a> til et så bredt som mulig publikum.
 # Variables:
+#   $foundation (url) link to https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
+history-in-2003-the-mozilla-project = I 2003 opprettet { -brand-name-mozilla }-prosjektet { -brand-name-mozilla-foundation }, en <a href="{ $foundation }">uavhengig ideell organisasjon</a> støttet av individuelle givere og en rekke selskaper.
+# Variables:
+#   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
+history-the-new-mozilla-foundation = Den nye { -brand-name-mozilla-foundation } fortsatte rollen med å administrere den daglige driften av prosjektet og tok også offisielt på seg rollen med å fremme <a href="{ $manifesto }">åpenhet, innovasjon og muligheter</a> på internett.
+# Variables:
+#   $grants (url) link to https://www.mozilla.org/moss/
+history-it-did-this-by-continuing = Dette ble gjort ved å fortsette å utgi programvare, som { -brand-name-firefox } og { -brand-name-thunderbird }, og ved å utvide til nye områder, som å tilby <a href="{ $grants }">stipend</a> for å støtte forbedringer av tilgjengelighet på nettet.
+# Variables:
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
 history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> ble utgitt i 2004 og ble en stor suksess — på under ett år ble den lastet ned <a href="{ $millions }">over 100 millioner ganger</a>.
