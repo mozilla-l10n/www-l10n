@@ -7,6 +7,13 @@
 
 about-this-site-title = Wo tutym sydle
 about-this-site-desc = Wo websydle www.mozilla.org a nastroje wotewrjeneho žórła, kotrež so wužiwaja, zo bychu jo wutworili.
+# Variables:
+#   $firefox (url) link to https://www.mozilla.org/firefox/new/
+#   $vpn (url) link to https://www.mozilla.org/products/vpn/
+#   $mozilla (url) link to https://www.mozilla.org/about/
+#   $book (url) link to https://www.mozilla.org/book/
+#   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+about-this-site-today = Dźensa je to sydło, hdźež ludźo přińdu, zo bychu <a href="{ $firefox }">{ -brand-name-firefox }</a> sćahnyli, spytajće <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> a zhońće wjace wo <a href="{ $mozilla }">wo { -brand-name-mozilla }</a>. Móžeće tež někotre <a href="{ $book }">jutrowne jejka</a> na puću wotkryć.
 about-this-site-like-many = Kaž wjele z našich produktow je tute websydło tež wotewrjene žórło:
 about-this-site-view-source = Žórłowy kod na { -brand-name-github } pokazać
 about-this-site-report-a-bug = Programowy zmylk zdźělić
