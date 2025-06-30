@@ -8,7 +8,7 @@
 home-internet-for-people-not-profit = Internet za ludźi, powšitkownosći wužitny
 home-did-you-know-mozilla-the-maker = Sće hižo wědźał? { -brand-name-mozilla } - zhotowjer { -brand-name-firefox } - wojuje, zo by internet globalna zjawna resursa wostał, wotewrjeny a přistupny za wšěch.
 home-mission-driven = Přez misiju wodźeny. Wot ludźi doprědka ćěrjeny.
-home-were-not-normal = Njejsmy normalne technologiske předewzaće. Wěcy, kotrež wutworjamy, prioritu na ludźi a jich priwatnosć před dobytkami stajeja. Eksistujemy, zo bychmy internet strowše, zbožowniše městno za wšěch činili.
+home-were-not-normal = Njejsmy normalne technologiske předewzaće. Wěcy, kotrež wutworjamy, prioritu na ludźi a jich priwatnosć před dobytkami stajeja. Eksistujemy, zo bychmy internet k strowšemu, zbožownišemu městno za wšěch činili.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = „Strowosć interneta a žiwjenje online je přičina, čehoždla eksistujemy.“
 home-mitchell-baker-v2 = Mitchell Baker, amtěrowaca nawodnica předsydstwa, { -brand-name-mozilla-foundation }

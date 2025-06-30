@@ -30,6 +30,7 @@ about-a-global-view = Globalne wiźenje
 about-with-offices-all-over-the = Z <a href="{ $url }">wótnožkami na cełem swěśe</a> glědamy na internet z někotarych kulturow a kontekstow.
 about-san-francisco = San Francisco
 about-talking-tech-issues-irl = Techniske problemy w napšawdnem žywjenju diskutěrowaś
+about-in-mozillas-multi-award-winning = We wěcej raz mytowanem pódcasće { -brand-name-mozilla }, powěda moderatorka Bridget Todd z luźimi, kótarež pśichod interneta a KI wugótuju.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> njepśistajonych jo se kužde lěto pśiwitało
 about-berlin = Barliń

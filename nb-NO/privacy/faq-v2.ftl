@@ -25,6 +25,8 @@ privacy-faq-v2-following-questions = Følgende spørsmål og svar skal hjelpe de
 privacy-faq-v2-i-use-firefox = Jeg bruker { -brand-name-firefox } for nesten alt på nettet. Folk hos { -brand-name-mozilla } må vite en hel del om meg, eller hva?
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } vet ikke så mye som du forventer om hvordan folk surfer på nettet. { -brand-name-firefox }, nettleseren som kjører på enheten eller datamaskinen din, er inngangsporten din til internett. Nettleseren din vil administrere mye informasjon om nettstedene du besøker, men denne informasjonen forblir vanligvis på enheten din.
 privacy-faq-v2-it-seems-like = Det virker som om hvert selskap på nettet kjøper og selger min informasjon. Dere er sannsynligvis ikke annerledes.
+privacy-faq-v2-wait-so-how = Vent, så hvordan tjener dere penger?
+privacy-faq-v2-softballs = Ok, det var de enkle spørsmålene. Hvilken informasjon samler dere inn?
 privacy-faq-v2-do-you-collect = Samler dere inn mer data i tidlige testutgivelsene av { -brand-name-firefox }?
 privacy-faq-v2-sort-of = På en måte. I tillegg til dataene beskrevet ovenfor, mottar vi krasj- og feilrapporter som standard i tidlige testutgivelser av { -brand-name-firefox }.
 # Variables:
