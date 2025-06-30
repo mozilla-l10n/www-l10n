@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = 5 сабабе, ки шумо бояд аз «VPN» истифода баред
+# HTML page description and intro
+vpn-when-to-use-here-are-five = Инҳоянд панҷ ҳолате, ки дар онҳо «VPN»-и боэътимод метавонад барои шумо муфид гарданд — ҳатто агар шумо то ҳол ба онҳо таваҷҷуҳ накарда бошед. Камбудиҳои амнияти рақамии худро бо «{ -brand-name-mozilla-vpn }» бартараф созед.
 vpn-when-to-use-encrypting-your-traffic = Интиқоли маълумоти шахсӣ байни шумо ва провайдери «VPN» рамзгузорӣ мешавад, то ҳеҷ кас дар шабакаи маҳаллӣ натавонад онро рамзкушоӣ кунад ё тағйир диҳад.
 vpn-when-to-use-1-a-walk = 1. Ҳангоми сайру гашт дар боғ
 vpn-when-to-use-2-in-the = 2. Дар ҳамсоягӣ ё минтақаи худ
