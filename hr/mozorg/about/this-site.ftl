@@ -7,6 +7,10 @@
 
 about-this-site-title = O ovoj web stranici
 about-this-site-desc = Informacije o web stranici www.mozilla.org i alatima otvorenog koda korišteni za njezinu izradu.
+# Variables:
+#   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
+#   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
+about-this-site-this-website = Web stranica www.mozilla.org postoji već više od dva desetljeća. U internetskom smislu je to kao od <a href="{ $archive }">vremena dinosaura</a>. Kao takva je www.mozilla.org kamen temeljac weba s korijenima u pokret otvorenog koda koji je doveo do <a href="{ $coderush }">stvaranja organizacije { -brand-name-mozilla } </a>.
 about-this-site-like-many = Kao mnogi naši proizvodi je web stranica također otvorenog koda:
 about-this-site-view-source = Pogledaj izvorni kod na { -brand-name-github }
 about-this-site-report-a-bug = Prijavi grešku
