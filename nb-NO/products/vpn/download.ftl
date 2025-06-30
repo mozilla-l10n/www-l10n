@@ -34,3 +34,8 @@ vpn-download-based-on-your = Basert på din nåværende enhet
 vpn-download-get-mozilla-vpn = Hent { -brand-name-mozilla-vpn }
 vpn-download-privacy-you-can = Personvern du kan stole på
 vpn-download-also-available = Også tilgjengelig for:
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-download-from-the-maker = Fra produsenten av { -brand-name-firefox } bruker { -brand-name-mozilla-vpn } den avanserte <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®-protokollen for å kryptere nettaktiviteten din og skjule posisjonen din.
+vpn-download-we-never-log = Vi logger, sporer eller deler aldri dine nettverksdata.
