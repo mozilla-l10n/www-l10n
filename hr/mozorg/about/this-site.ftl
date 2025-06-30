@@ -11,6 +11,13 @@ about-this-site-desc = Informacije o web stranici www.mozilla.org i alatima otvo
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 about-this-site-this-website = Web stranica www.mozilla.org postoji već više od dva desetljeća. U internetskom smislu je to kao od <a href="{ $archive }">vremena dinosaura</a>. Kao takva je www.mozilla.org kamen temeljac weba s korijenima u pokret otvorenog koda koji je doveo do <a href="{ $coderush }">stvaranja organizacije { -brand-name-mozilla } </a>.
+# Variables:
+#   $firefox (url) link to https://www.mozilla.org/firefox/new/
+#   $vpn (url) link to https://www.mozilla.org/products/vpn/
+#   $mozilla (url) link to https://www.mozilla.org/about/
+#   $book (url) link to https://www.mozilla.org/book/
+#   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+about-this-site-today = Danas je ovo stranica na kojoj ljudi preuzimaju <a href="{ $firefox }">{ -brand-name-firefox }</a>, isprobavaju <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> i saznaju više <a href="{ $mozilla }">o organizaciji { -brand-name-mozilla }</a>. Usput možeš otkriti i neke <a href="{ $book }">nedokumentirane mudrosti</a>.
 about-this-site-like-many = Kao mnogi naši proizvodi je web stranica također otvorenog koda:
 about-this-site-view-source = Pogledaj izvorni kod na { -brand-name-github }
 about-this-site-report-a-bug = Prijavi grešku
