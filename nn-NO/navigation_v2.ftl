@@ -75,5 +75,5 @@ navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = Sjekk ut heimesida for nettutviklingsressursar.
 navigation-v2-common-voice = { -brand-name-common-voice }
 navigation-v2-donate-your-voice-so-the-future = Bidra med stemma di slik at framtida på nettet kan høyre alle.
-navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } Innovasjonsprojekter
+navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } Innovasjonsprojekt
 navigation-v2-discover-ways-to-bring = Oppdag måtar å verkeleggjere gode idear.
