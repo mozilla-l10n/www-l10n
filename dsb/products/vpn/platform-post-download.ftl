@@ -24,6 +24,11 @@ vpn-mac-go-to-your-downloads = Pśejźćo k swójomu zarědnikoju ześěgnjenjow
 
 vpn-download-unable-to-download = Njejo móžno { -brand-name-mozilla-vpn } ześěgnuś
 vpn-download-not-in-country = Bóžko { -brand-name-mozilla-vpn } njejo we wašom kraju k dispoziciji.
+# The <br> tag is a line break for the HTML text
+# Variables:
+#   $url (url) - link for either Windows or Mac download, depending on user platform
+#   $id (string) - unique ID for the anchor tag
+vpn-your-download-should-start = Wašo ześěgnjenje { -brand-name-mozilla-vpn } měło se awtomatiski startowaś. Jolic se to njestawa, <br><a href="{ $url }" id="{ $id }">startujśo ześěgnjenje znowego</a> abo wrośćo se k ześěgnjenjeju za drugi rěd
 vpn-open-the-file = 1. Wócyńśo dataju
 vpn-launch-the-app = 2. Startujśo nałoženje
 vpn-login-or-signup = 3 Pśizjawśo se abo registrěrujśo se
@@ -42,6 +47,7 @@ vpn-download-faq-why-use = Cogodla { -brand-name-mozilla-vpn } wužywaś?
 # Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-download-faq-concealing-ip = Waša <a href="{ $ip }">IP-adresa</a> se schowajo: Tak pomaga, wašu identitu šćitaś a cyni wašo stojnišćo  k njepóznaśeju za websedła, ku kótarymž se woglědujośo.
+vpn-download-faq-encrypting = Koděrowanje wašogo internetnego wobchada: Tak nichten w seśi njamóžo wašu aktiwitu online wusnuchliś.
 vpn-download-faq-working = Kak wěm, až VPN funkcioněrujo?
 vpn-download-faq-add-device = Kak mógu dalšny rěd pśidaś?
 vpn-download-faq-best-practices = Co su nejlěpše praktiki VPN?
