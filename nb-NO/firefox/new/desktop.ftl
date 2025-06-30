@@ -123,7 +123,7 @@ firefox-desktop-download-as-the-internet-v2 = Etter hvert som internett vokser o
 firefox-desktop-download-as-the-internet = Etter hvert  som internett vokser og endres, fortsetter { -brand-name-firefox } å fokusere på din rett til personvern  — vi kaller det <a { $attrs }>lovnad om private data</a>: Samle inn mindre. Oppbevar det sikkert. Ingen hemmeligheter. Dine data, din nettaktivitet og livet ditt på nettet er beskyttet med { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } er tilgjengelig på alle enhetene dine; ta med deg fanene dine, historikk og bokmerker. Alt du trenger er en <a { $attrs }>{ -brand-name-mozilla-account }, så får du tilgang til synkronisering og flere { -brand-name-mozilla }-produkter.
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } er tilgjengelig på alle enhetene dine; ta med deg fanene dine, historikk og bokmerker. Alt du trenger er en <a { $attrs }>{ -brand-name-mozilla-account }</a>, så får du tilgang til synkronisering og flere { -brand-name-mozilla }-produkter.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Ta et bilde med høyoppløselig av hva som helst på nettet med <a { $attrs }>skjermbilde</a>-verktøyet vårt som er innebygd i nettleseren
