@@ -27,6 +27,9 @@ history-after-several-years-of-development = Etter flere år med utvikling ble <
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = I 2002 brukte <a href="{ $over90 }">mer enn 90 prosent av alle internettbrukere</a> { -brand-name-ie }.
 # Variables:
+#   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
+history-not-many-people-noticed = Ikke mange la merke til det den gangen, men den første versjonen av Phoenix (senere omdøpt til { -brand-name-firefox }) ble også utgitt av medlemmer av { -brand-name-mozilla }-fellesskapet det året, med mål om å gi den <a href="{ $charter }">best mulige nettleseropplevelsen</a> til et så bredt som mulig publikum.
+# Variables:
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
 history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> ble utgitt i 2004 og ble en stor suksess — på under ett år ble den lastet ned <a href="{ $millions }">over 100 millioner ganger</a>.
