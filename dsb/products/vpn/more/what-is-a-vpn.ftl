@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = Co jo VPN?
+# HTML page description and intro
+vpn-what-is-get-answers-to-nine = Dostańśo wótegrona na źewjeś pšašanjow wó VPN, aby zgónił, což cynje, gdy se maju wužywaś a cogodla.
 vpn-what-is-many-of-us = Wjele z nas wjele góźin na źeń internet wužywa, aby my wšedne wěcy cynili, ako wideo glědaś, nakupowaś, graś a zliceńki zapłaśiś, až do managowanja kompleksnych źěłowych projektow a pśewjeźenja wideorozgronow. <strong>Wirtuelna priwatna seś (VPN)</strong> jo jadna z nejlěpšych móžnosćow, aby wy online priwatny a wěsty wóstał a swóje wósobinske daty šćitał.
 vpn-what-is-how-do-vpns = Kak VPN funkcioněruju?
 vpn-what-is-a-vpn-is = VPN jo rěd, kótaryž wam wěsty pśistup k internetoju zmóžnja, źožkuli sćo. VPN z tym funkcioněrujo, až „tunel“ mjazy wašym rědom a wašym póbitowarjom VPN napórajo, a šćita was na dwě klucowej wašni:
