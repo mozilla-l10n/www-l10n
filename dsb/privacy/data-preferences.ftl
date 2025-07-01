@@ -9,6 +9,10 @@ data-preferences-page-title = Zastojśo swóje nastajenja za gromaźenje datow p
 data-preferences-page-desc = Waša priwatnosć jo wjelgin wažna za  { -brand-name-mozilla }. Toś ten bok wam zmóžnja, waše nastajenja gromaźenja datow prědnego póbitowarja za websedła mozilla.org z pomocu { -brand-name-glean } zastojaś.
 data-preferences-notification-opt-out = Sćo wót gromaźenja datow prědnego póbitowarja wótzjawjony.
 data-preferences-notification-opt-in = Sćo pla gromaźenja datow prědnego póbitowarja pśizjawjony.
+# Variables:
+#   $glean (url) - link to https://docs.telemetry.mozilla.org/concepts/glean/glean.html
+#   $lean_data (url) - link to https://www.mozilla.org/about/policy/lean-data/
+data-preferences-your-privacy = Waša priwatnosć jo wjelgin wažna za { -brand-name-mozilla }. Naša telemetrija prědnego póbitowarja a platforma za analyze z mjenim <a href="{ $glean }">{ -brand-name-glean }</a> našym swójskim wusokim standardam za <a href="{ $lean_data }">žarjabne wobchadanje z datami</a>.
 data-preferences-current-preference = Aktualne nastajenje:
 data-preferences-please-enable-javascript = Pšosym zmóžniśo JavaScript, aby swóje datowe nastajenje zastojał.
 data-preferences-opt-out-button = Wótzjawśo wót gromaźenja datow prědnego póbitowarja
