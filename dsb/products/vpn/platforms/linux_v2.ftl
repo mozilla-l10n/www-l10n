@@ -8,5 +8,6 @@
 vpn-linux-mozilla-vpn = { -brand-name-mozilla-vpn } na Linux
 vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } na Linux za priwatnjejšy a wěsćejšy internet
 vpn-linux-why-choose = Cogodla { -brand-name-mozilla-vpn } za Linux wubraś?
+vpn-linux-fast-and-v2 = <strong>Malsny a spušćobny:</strong> { -brand-name-mozilla-vpn } protokol { -brand-name-wireguard }® wužywa, kótaryž lěpše wugbaśe a stabilnosć ako druge protokole VPN bitujo.
 vpn-linux-gui-client = <strong>Klient z grafiskim pówjerchom:</strong> { -brand-name-mozilla-vpn } ma klient z grafiskim pówjerchom, mjaztym až někotare druge póbitowarje jano wersiju za pśikazowu smužku póbituju.
 vpn-linux-how-to-install = Kak { -brand-name-mozilla-vpn } na Linux instalěrowaś?
