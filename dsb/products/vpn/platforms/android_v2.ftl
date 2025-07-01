@@ -8,6 +8,7 @@
 vpn-android-vpn-for-android = VPN za Android wót { -brand-name-mozilla }
 vpn-android-how-does-a = Kak VPN mój rěd Android šćita?
 vpn-android-vpns-help = VPN pomagaju se wobinuś:
+vpn-android-low-video = Niska kwalita streamowanja wideo dla pómalšeje a wobgranicowaneje šyrokosći pasma wót wašogo póbitowarja internetneje słužby (ISP)
 vpn-android-your-personal = Waše wósobinske daty, kótarež se kšadnu, gaž zjawnu WLAN-seś wužywaśo.
 vpn-android-why-should-i = Cogodla { -brand-name-mozilla-vpn } za Android ześěgnuś?
 vpn-android-browse-the-internet = Pśeglědujśo internet, bźez togo, aby swójo stojnišćo pśeraźił.
