@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
 
 vpn-android-vpn-for-android = VPN za Android wot { -brand-name-mozilla }
+vpn-android-ease-security = Wotstrońće strachi wěstoty z { -brand-name-mozilla-vpn } z Android
 vpn-android-how-does-a = Kak VPN mój grat Android škita?
 vpn-android-vpns-help = VPN pomhaja wobeńć:
 vpn-android-low-video = Niska kwalita streamowanja widejow dla pomałšeje a wobmjezowaneje šěrokosće pasma wot wašeho poskićowarja internetneje słužby (ISP)
