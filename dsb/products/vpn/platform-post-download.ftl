@@ -19,6 +19,7 @@ vpn-windows-a-progress-bar = Póstupowa grěda se zjawijo a instalaciski proces 
 vpn-mac-download-page-title = Ześěgniśo { -brand-name-mozilla-vpn } za { -brand-name-mac-short }
 vpn-mac-downloading-mozilla-vpn = { -brand-name-mozilla-vpn } za { -brand-name-mac-short } se ześěgujo…
 vpn-mac-go-to-your-downloads = Pśejźćo k swójomu zarědnikoju ześěgnjenjow a klikniśo dwójcy na dataju .pkg.
+vpn-mac-follow-the-steps = Slědujśo kšacam, kótarež se w instalaciskem programje { -brand-name-mozilla-vpn } wopisuju, aby nałoženje startował
 
 ## Shared strings
 
