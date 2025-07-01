@@ -36,6 +36,7 @@ vpn-login-or-signup = 3 Pśizjawśo se abo registrěrujśo se
 vpn-enter-your-email = Zapódajśo swóju e-mailowu adresu, aby se pśizjawił abo registrěrował a zachopśo
 vpn-turn-on-vpn = 4. Zmóžniśo VPN
 vpn-install-firefox-extension = 5. Rozšyrjenje { -brand-name-firefox } instalěrowaś
+vpn-pick-a-recommended = Wubjeŕśo dopórucone stojnišćo za malsny, stabilny zwisk abi wubjeŕśo swój póžedane stojnišćo manuelnje a suńśo pón šalter na Zašaltowany.
 # Variables:
 #   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
 vpn-download-and-install = <a href="{ $extension }">Ześěgniśo a instalěrujśo rozšyrjenje</a>, aby wuzamknjenja na sedło nastajił a wubjeŕśo druge městna za rozdźělne websedła.
@@ -52,4 +53,5 @@ vpn-download-faq-encrypting = Koděrowanje wašogo internetnego wobchada: Tak ni
 vpn-download-faq-working = Kak wěm, až VPN funkcioněrujo?
 vpn-download-faq-add-device = Kak mógu dalšny rěd pśidaś?
 vpn-download-faq-best-practices = Co su nejlěpše praktiki VPN?
+vpn-download-faq-lastly = Naslědku móžośo VPN na pódprětych rědach wěcej inteligentny cyniś, gaž wěste nałoženja (na pś. Netflix) z VPN wuzamkujośo.
 vpn-download-faq-need-more = Trjebaśo pitśku wěcej pomocy?
