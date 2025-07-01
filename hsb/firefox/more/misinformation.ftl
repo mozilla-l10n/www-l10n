@@ -16,6 +16,7 @@ misinformation-false-info-heading = Hdźe so wopačne informacije jewja?
 # Variables:
 #   $tracking (url) - link to https://blog.mozilla.org/products/firefox/firefox-privacy-protections/
 misinformation-widespread-online = Móžeće wšudźe na wopačne informacije a desinformaciju storčić, ale su najbóle rozšěrjene a skutkowne, hdyž sće online. Algoritmusy a <a href="{ $tracking }">přesćěhowanje</a> wopačnym informacijam a desinformaciji stajnje wosnadnjeja, wjetši publikum na websydłach, w blogach, w forumach w socialnych syćach docpěć.
+misinformation-tracking-advertising = Sće snano předewšěm w zwisku z wabjenjom wo přesćěhowanju zasłyšał. Ale je tež mócny nastroj, hdyž wo rozšěrjenje wopačnych informacijow dźe. Čehodla? Hdyž internet abo kanal socialneje syće přehladujeće, so waše zadźerženje, zajimy, kontakty so w někotrych padach a wjace přez rozdźělnych poskićowarjow po websydłach přesćěhuja, zo bychu nimoměry detailowany profil wo was wutworili, zo bychu jeho daty bjez wašeje wědy abo přizwolenja předawali. Tute profile so za personalizowane wabjenje wužiwaja, ale dadźa so tež wužiwać, zo bychu wam na zaměr wusměrjene informacije prezentowali.
 misinformation-spot-online-heading = Kak móžeće wopačne informacije onlne spóznawaće a jich rozšěrjenju zadźěwaće
 misinformation-look-at-url = Wobhladajće sej URL a/abo žórło.
 misinformation-known-to-br-credible = Je to dowěry hódne? Jeli sej wěsty njejsće, spytajće wjace wo žórle a jeho mjenje w interneće zhonić.
