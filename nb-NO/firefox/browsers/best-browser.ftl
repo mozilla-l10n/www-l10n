@@ -20,5 +20,11 @@ best-browser-a-browser-is-still = En nettleser er fortsatt et verktøy, så det 
 best-browser-this-is-one-of-the = Dette er en av mange grunner til å velge { -brand-name-firefox }-nettleseren: { -brand-name-firefox } blokkerer tredjepartssporere som standard. Vi har andre grunner, og vi kommer inn på dem senere.
 best-browser-a-browser-that-puts = En nettleser som setter sikkerheten først.
 best-browser-remember-the-last-massive = Husker du den forrige gigantiske datalekkasjen? Hvis ikke, er det sannsynligvis fordi det skjer så ofte. Bedrifter oppbevarer kundedata, f.eks. deres personlige eller økonomiske opplysninger, og hackere stjeler den. Hvis du prioriterer sikkerhet, er en sikker nettleser den beste nettleseren for deg.
+best-browser-there-are-a-few-ways = Det er et par måter en nettleser kan hjelpe brukerne sine å holde seg sikre på. En nettleser som er oppdatert med den nyeste sikkerhetsteknologien kan bidra til å beskytte datamaskinen din og nettstedene mot uønskede besøkende, for eksempel skadelig programvare eller datavirus.
+# Variables:
+# $data (url) - link to https://www.mozilla.org/privacy/firefox/
+# $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+best-browser-the-second-is-not-storing = Den andre er å ikke lagre for mye brukerdata. Hackere kan ikke stjele noe som ikke finnes, og derfor lagrer { -brand-name-firefox } et minimum av informasjon om brukerne sine. <a href="{ $data }">{ -brand-name-firefox } vet</a> om du bruker nettleseren og din generelle posisjon, <a href="{ $privacy }">men ikke navnet på barndomskjæledyret ditt eller favorittfargen din.</a>
+best-browser-last-but-not-least = Sist, men ikke minst, bør en sikker nettleser tilby verktøy som hjelper deg med å holde øye med kontoene dine. Tenk på varsler som går rett til e-posten din hvis noen av kontoene dine blir rammet av en datalekkasje, eller ikoner som forteller deg om et nettsted er kryptert (dvs. om det er lurt å oppgi kredittnummeret ditt på en shopping-nettsted).
 best-browser-a-browser-that-minds = En nettleser, som passer sine egne saker.
 best-browser-take-control-of-your = Ta kontroll over nettleseren din.
