@@ -33,6 +33,7 @@ home-join-the-fight = Wójujśo z nami za strowy internet
 home-your-voice-your-code = Waš głos. Waš kod. Waše ideje. Dajo towzynty móžnosćow, pśez kótarež móžośo k { -brand-name-mozilla } pśinosowaś.
 home-volunteer-with-mozilla = Dobrowólnik pla { -brand-name-mozilla }
 home-that-one-time = Ten jaden raz smy dali naš žrědłowy kod pšec…
+home-eventually-the-open = Skóńcnje jo se projekt wótwórjonego žrědła { -brand-name-mozilla } do tšašnje woblubowaneje prědneje wersije { -brand-name-firefox } pśetwórił.
 home-learn-more-about-mozilla = Dalšne informacije wó { -brand-name-mozilla }
 # VPN Feature
 home-featured-product = Dopórucony produkt

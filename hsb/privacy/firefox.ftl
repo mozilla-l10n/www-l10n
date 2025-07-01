@@ -29,5 +29,8 @@ privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } za mobilne graty
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Wobsah
 # Variables:
+#   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
+privacy-firefox-take-me-back = Wzmiće mje <a { $attrs }>wróćo k spočatkej</a> zdźělenki priwatnosće
+# Variables:
 #   $attrs (string) - in-page link to the top of the page
 privacy-firefox-lost-in-the = Sće so w podrobnosćach zhubił? Wróćće so k <a { $attrs }>zakładam priwatnosće { -brand-name-firefox }</a>.

@@ -7,6 +7,8 @@
 
 # HTML page title and main title
 vpn-what-is-what-is-a-vpn = Što je VPN?
+# HTML page description and intro
+vpn-what-is-get-answers-to-nine = Dóstańće wotmołwy na dźewjeć prašenjow wo VPN, zo byšće zhonił, štož činja, hdy so maja wužiwać a čehodla.
 vpn-what-is-many-of-us = Wjele z nas wjele hodźin na dźeń internet wužiwa, zo bychmy wšědne wěcy kaž widejo hladać, nakupować, hrać a zličbowanki płaćić činili, hač do managowanja kompleksnych dźěłowych projektow a přewjedźenja widejorozmołwow. <strong>Wirtuelna priwatna syć (VPN)</strong> je jedna z najlěpšich móžnosćow, zo byšće online priwatny a wěsty wostał a swoje wosobinske daty škitał.
 vpn-what-is-how-do-vpns = Kak VPN funguja?
 vpn-what-is-a-vpn-is = VPN je nastroj, kotryž wam wěsty přistup k internetej zmóžnja, hdźežkuli sće. VPN přez to funguje, zo „tunl“ mjez wašim gratom a wašim poskićowarjom VPN wutworja, a škita was na dwě klučowej wašni:
