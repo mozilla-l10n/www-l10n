@@ -25,7 +25,7 @@ vpn-download-for-linux = VPN for { -brand-name-linux }
 vpn-download-for-linux-long = Last ned { -brand-name-mozilla-vpn } for { -brand-name-linux }
 # Variables:
 #   $version (number) - operating system version
-vpn-download-for-linux-requirements = Ubuntu { $versjon } og nyere
+vpn-download-for-linux-requirements = Ubuntu { $version } og nyere
 vpn-download-for-android = VPN for { -brand-name-android }
 vpn-download-for-android-long = Last ned { -brand-name-mozilla-vpn } for { -brand-name-android }
 vpn-download-for-ios = VPN for { -brand-name-ios }
