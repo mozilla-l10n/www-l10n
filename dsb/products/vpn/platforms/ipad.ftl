@@ -9,4 +9,4 @@ vpn-ipad-vpn-for = VPN za iOS/iPad wót { -brand-name-mozilla }
 vpn-ipad-thats-why-you = Togodla trjebaśo { -brand-name-mozilla-vpn }, malsna, spušćobna a lažko wužywajobna słužba VPN, kótaryž wašu aktiwitu online pśed narskimi wócymi šćita.
 vpn-ipad-mozilla-vpn-is = { -brand-name-mozilla-vpn } jo wirtuelna priwatna seśowa słužba, kótaraž waš internetny wobchad koděrujo a wašu IP-adresu chowa.
 vpn-ipad-with-mozilla-vpn = Z { -brand-name-mozilla-vpn } móžośo dostaś:
-vpn-ipad-no-online = <strong>Žedne protokole aktiwity online:</strong> { -brand-name-mozilla } njeprotokolěrujo, ku kótarym websedła se woglědujośo abo njepśepytujo waše komunikacije.
+vpn-ipad-no-online = <strong>Žedne protokole aktiwity online:</strong> { -brand-name-mozilla } njeprotokolěrujo, ku kótarym websedłam se woglědujośo abo njepśepytujo waše komunikacije.
