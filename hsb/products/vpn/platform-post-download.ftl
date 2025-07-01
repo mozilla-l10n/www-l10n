@@ -36,6 +36,7 @@ vpn-login-or-signup = 3 Přizjewće so abo registrujće so
 vpn-enter-your-email = Zapodajće swoju e-mejlowu adresu, zo byšće so přizjewił abo registrował a započńće
 vpn-turn-on-vpn = 4. Zmóžńće VPN
 vpn-install-firefox-extension = 5. Rozšěrjenje { -brand-name-firefox } instalować
+vpn-pick-a-recommended = Wubjerće doporučene stejnišćo za spěšny, stabilny zwisk abo wubjerće swoje požadane stejnišćo manuelnje a suńće potom přepinak na Zapinjeny.
 # Variables:
 #   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
 vpn-download-and-install = <a href="{ $extension }">Sćehńće a instalujće rozšěrjenje</a>, zo byšće wuzamknjenja na sydło nastajił a wubjerće druhe městna za rozdźělne websydła.
@@ -52,4 +53,5 @@ vpn-download-faq-encrypting = Zaklučowanje wašeho internetneho wobchada: Tak n
 vpn-download-faq-working = Kak wěm, zo VPN funguje?
 vpn-download-faq-add-device = Kak móžu dalši grat přidać?
 vpn-download-faq-best-practices = Što su najlěpše praktiki VPN?
+vpn-download-faq-lastly = Naposledku móžeće VPN na podpěranych gratach bóle inteligentny činić, hdyž wěste nałoženja (na př. Netflix) z VPN wuzamkujeće.
 vpn-download-faq-need-more = Trjebaće trochu wjace pomocy?

@@ -36,7 +36,7 @@ vpn-login-or-signup = 3 Pśizjawśo se abo registrěrujśo se
 vpn-enter-your-email = Zapódajśo swóju e-mailowu adresu, aby se pśizjawił abo registrěrował a zachopśo
 vpn-turn-on-vpn = 4. Zmóžniśo VPN
 vpn-install-firefox-extension = 5. Rozšyrjenje { -brand-name-firefox } instalěrowaś
-vpn-pick-a-recommended = Wubjeŕśo dopórucone stojnišćo za malsny, stabilny zwisk abi wubjeŕśo swój póžedane stojnišćo manuelnje a suńśo pón šalter na Zašaltowany.
+vpn-pick-a-recommended = Wubjeŕśo dopórucone stojnišćo za malsny, stabilny zwisk abo wubjeŕśo swójo póžedane stojnišćo manuelnje a suniśo pón šalter na Zašaltowany.
 # Variables:
 #   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
 vpn-download-and-install = <a href="{ $extension }">Ześěgniśo a instalěrujśo rozšyrjenje</a>, aby wuzamknjenja na sedło nastajił a wubjeŕśo druge městna za rozdźělne websedła.
