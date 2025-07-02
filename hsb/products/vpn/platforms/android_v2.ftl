@@ -7,7 +7,7 @@
 
 vpn-android-vpn-for-android = VPN za Android wot { -brand-name-mozilla }
 vpn-android-ease-security = Wotstrońće strachi wěstoty z { -brand-name-mozilla-vpn } z Android
-vpn-android-whether-youre = Hač sće doma, na dźěle abo sej žortne mjeno za swoju kofejowu skazanku w hóstnej knize wumyslujeće, škitanje wašeje wěstoty online ma za { -brand-name-mozilla } najwyšu prioritu. Kaž wjele inteligentnych technologiskich produktow maja graty android zatwarjene škitne funkcije, kotrež wač grat zawěsćeja. Z VPN za Android wot { -brand-name-mozilla } móžeće z jenož jednym dótkom porsta dale wjesć.
+vpn-android-whether-youre = Hač sće doma, na dźěle abo sej žortne mjeno za swoju kofejowu skazanku w hóstnej knize wumyslujeće, škitanje wašeje wěstoty online ma za { -brand-name-mozilla } najwyšu prioritu. Kaž wjele inteligentnych technologiskich produktow maja graty Android zatwarjene škitne funkcije, kotrež waš grat zawěsćeja. Z VPN za Android wot { -brand-name-mozilla } móžeće z jenož jednym dótkom porsta dale wjesć.
 vpn-android-how-does-a = Kak VPN mój grat Android škita?
 vpn-android-vpns-help = VPN pomhaja tomu zadźěwać:
 vpn-android-your-internet-activity = Zo waša internetna aktiwita je widźomna a so potom předawa abo z wabjerjemi dźěli.
