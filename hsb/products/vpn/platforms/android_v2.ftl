@@ -18,3 +18,4 @@ vpn-android-why-should-i = Čehodla { -brand-name-mozilla-vpn } za Android sćah
 vpn-android-browse-the-internet = Přehladujće internet, bjeztoho zo byšće swoje stejnišćo přeradźił.
 vpn-android-be-more-comfortable = Wužiwajće přijomnje zjawny WLAN w kofejownjach, lětanišćach a wjace.
 vpn-android-avoid-intrusive = Wobeńdźće nawalne na stejnišćo poćahowane wabjenje.
+vpn-android-the-mozilla-vpn-mobile = Mobilne nałoženje { -brand-name-mozilla-vpn } je małe, tak zo přewjele składa njewužiwa a njebudźe waš telefon spomaleć abo wašu bateriju wuprózdnjuje.
