@@ -29,5 +29,16 @@ best-browser-last-but-not-least = Sist, men ikke minst, bør en sikker nettleser
 # Variables:
 # $monitor (url) - link to https://www.mozilla.org/products/monitor/
 best-browser-firefox-is-offering-v2 = { -brand-name-firefox } tilbyr nå noe nytt for å beskytte deg på nettet: <a { $monitor }>{ -brand-name-mozilla-monitor } </a>. Det er en gratis tjeneste som varsler deg hvis kontoene dine er involvert i nye datalekkasjer – og forteller deg om kontoene dine tidligere har blitt kompromittert når nettsteder har blitt hacket. En annen nyttig funksjon er den grønne hengelåsen du ser øverst til venstre i nettleseren din når forbindelsen til nettstedet du besøker er kryptert og sikker. Hvis hengelåsen er grå, bør du tenke deg om to ganger før du legger inn sensitiv informasjon.
+best-browser-we-visit-hundreds-or = Vi besøker hundrevis eller til og med tusenvis av nettsteder hver dag, og du kan ikke forvente at brukerne skal ta sikkerhets- og personvernbeslutninger for hvert av disse nettstedene. Derfor er en nettleser som gir deg mer kontroll så viktig – fordi den tilbyr reell og meningsfull beskyttelse.
 best-browser-a-browser-that-minds = En nettleser, som passer sine egne saker.
+best-browser-privacy-on-the-web = Personvern på nettet er et hett tema. Hvis personvern er nummer én på prioriteringslisten din, bør du se etter en nettleser som tar det på alvor. Når du velger den beste private nettleseren for deg, bør du se på sporings-prinsippene og hvordan en nettleser håndterer dataene dine. Dette virker som tekniske spørsmål, men det er grunnen til at noen nettlesere er mer private enn andre.
+best-browser-trackers-are-all-those = Sporere er alle de irriterende «infokapslene» du får på nettsider fra flyselskaper. Disse tredjepartssporerne vet hvor du klikker og kan brukes til å analysere oppførselen din. En privat nettleser bør gi brukerne muligheten til å slå av tredjepartssporere, men ideelt sett bør de slås av som standard.
+best-browser-another-way-to-stop = En annen måte å stoppe sporere på er å bruke privat nettlesing for å surfe. Alle nettlesere som hevder å være private, bør tilby surfing med privat nettlesing.
+# Variables:
+# $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+best-browser-one-easy-way-to-check = En enkel måte å sjekke på er å besøke nettleserens innholdsinnstillinger og personvernregler. Personvernsiden bør beskrive om dataene dine deles og hvorfor. Det er derfor <a href="{ $privacy }">{ -brand-name-firefox } personvernerklæringen</a> er lett å lese og finne.
+best-browser-choosing-the-best-browser = Å velge den beste nettleseren for deg er mye som å velge et hjem. Du vil utforske alternativene dine, gjøre litt research og ta en beslutning basert på hva som er viktig for deg.
+# Variables:
+# $privacy (url) - link to https://www.mozilla.org/firefox/new/
+best-browser-at-firefox-weve-worked = Hos <a href="{ $firefox }">{ -brand-name-firefox }</a> har vi jobbet hardt for å bygge en nettleser som er dobbelt så rask som før og gir brukerne mer kontroll over sitt nettliv.
 best-browser-take-control-of-your = Ta kontroll over nettleseren din.

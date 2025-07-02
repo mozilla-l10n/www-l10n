@@ -18,6 +18,9 @@ browsers-chromebook-dropdown-copy = Last ned { -brand-name-firefox } for { -bran
 browsers-chromebook-why-get-firefox = Hvorfor laste ned <span> { -brand-name-firefox } </span> for { -brand-name-chromebook }?
 browsers-chromebook-while-a-chromebook = Mens en { -brand-name-chromebook } allerede har { -brand-name-chrome } installert, kan du laste ned og bruke { -brand-name-firefox } som din daglige nettleser med flere fordeler som blant annet:
 browsers-chromebook-alwayson-tracking-protection = Alltid på sporingsbeskyttelse: Som standard kjører { -brand-name-firefox } utvidet sporingsbeskyttelse (ETP) for å beskytte dine personlige data fra kjente annonsesporere, sosiale sporere og kryptomining-skript som følger deg rundt på nettet.
+browsers-chromebook-supporting-independent-technology = Støtter uavhengig teknologi: siden de fleste store nettlesere nå kjører på { -brand-name-chromium }, er det færre alternativer som ikke mates inn i Big Tech-maskinen. { -brand-name-firefox } støttes av en ideell organisasjon og er dedikert til å fikse internett. Ved å bruke { -brand-name-firefox } blir du en del av det.
+browsers-chromebook-is-it-hard = Er det vanskelig å installere { -brand-name-firefox } for { -brand-name-chromebook }?
+browsers-chromebook-we-wish-it = Vi skulle ønske det var enklere, men { -brand-name-chromebook } foretrekker å holde deg i { -brand-name-google-play }-økosystemet. Vi synes imidlertid det er verdt innsatsen å installere { -brand-name-firefox }-nettleseren på { -brand-name-chromebook } - og vi har ressurser som kan hjelpe deg hvis du trenger dem. Det er to måter å få { -brand-name-firefox } på enheten din.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
