@@ -30,8 +30,10 @@ vpn-features-supported-platforms = Støtta på Windows, macOS, Android, iOS og L
 vpn-features-no-bandwidth = Ingen bandbreidde- eller eller førespurnadsavgrensingar
 vpn-features-fast-network = Raske nettverkshastigheiter sjølv medan du speler
 vpn-features-secure = Trygg
+vpn-features-encrypt-your-internet = Krypter all internettrafikken din
 vpn-features-stronger-malware = Sterkare vern mot skadeleg programvare
 vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } hindrar deg i å laste ned skadeleg programvare frå kjende, usikre kjelder.
+vpn-features-super-private-mode = Superprivat modus: rutar trafikk gjennom to stadar
 vpn-features-support-for-custom-dns = Støtte for tilpassa DNS
 # Variables
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
