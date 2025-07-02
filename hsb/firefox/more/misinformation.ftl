@@ -22,6 +22,7 @@ misinformation-spot-online-heading = Kak móžeće wopačne informacije online s
 misinformation-look-at-url = Wobhladajće sej URL a/abo žórło.
 misinformation-known-to-br-credible = Je to dowěry hódne? Jeli sej wěsty njejsće, spytajće wjace wo žórle a jeho mjenje w interneće zhonić.
 misinformation-overly-sensational = Je nadpismo přesensacionalne?
+misinformation-check-out-websites = Hladajće za websydłami a poskićowarjemi powěsćow, kotrymž dowěrjeće, zo byšće widźał, hač a kak wo samsnej temje rozprawjeja. Wobsah, kotryž ma so manipulować, husto přećiwki a přehnaća wužiwa, za kotrež dopokazy njejsu a so w derje rešeršowanym rozprawnistwje njenamakaja.
 misinformation-content-up-to-date = Je wobsah aktualny?
 misinformation-outdated-information = Je jasne, zo zestarjene informacije runjewon k tomu njesłuža, zo bychu desinformowali, ale snano hižo wěrnosći njewotpowěduja.
 misinformation-credible-publication = Je awtor druhe nastawki abo přinoški publikował, idealnje we wěryhódnych publikacijach?

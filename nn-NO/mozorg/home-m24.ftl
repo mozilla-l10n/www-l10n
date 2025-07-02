@@ -80,6 +80,8 @@ m24-home-topic-news = Nyheiter
 m24-home-topic-ai = Kunstig intelligens
 m24-home-topic-ps = Personvern og sikkerheit
 m24-home-headline-you-ai-v2 = Du, AI og internett – kva skjer eigentleg?
+m24-home-from-hollywood-to = Frå Hollywood til hiphop, forhandlar artistar om AI-samtykke.
+m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } feirar banebrytande skaparar i den nye dokumentarserien «{ -brand-name-firefox } Presents».
 
 ## Showcase
 
