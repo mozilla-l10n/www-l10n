@@ -8,6 +8,7 @@
 vpn-android-vpn-for-android = VPN za Android wót { -brand-name-mozilla }
 vpn-android-ease-security = Zažeńśo tšachy wěstoty z { -brand-name-mozilla-vpn } z Android
 vpn-android-whether-youre = Lěc sćo doma, na źěle abo se žortne mě za swóju kafejowu skazanku w knigłach gósći wumyslujośo, šćitanje wašeje wěstoty online ma za { -brand-name-mozilla } nejwušu prioritu. Kaž wjele inteligentnych technologiskich produktow maju rědy Android zatwarjone šćitne funkcije, kótarež waš rěd zawěsćuju. Z VPN za Android wót { -brand-name-mozilla } móžośo z jano jadnym dotyknjenim palca dalej wjasć.
+vpn-android-using-the-fast = Z pomocu malsnego a wěstego protokola VPN { -brand-name-wireguard }, móžo naš VPN internetny wobchad mjazy wašym rědom a seśu VPN serwerow koděrowaś. To nam pomaga, waš webwobchad dalej šćitany źaržaś, gaž sćo pó droze. Jo kaž wěcko, kótarež waš zeleny tej z mjodom pśed muchu šćita, kótaraž wokoło blida byrcy.
 vpn-android-how-does-a = Kak VPN mój rěd Android šćita?
 vpn-android-vpns-help = VPN pomagaju se wobinuś:
 vpn-android-your-internet-activity = Až waša internetna aktiwita jo widobna a se pón pśedawa abo z wabjarjami źěli.
