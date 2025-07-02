@@ -19,4 +19,4 @@ vpn-android-browse-the-internet = Přehladujće internet, bjeztoho zo byšće sw
 vpn-android-be-more-comfortable = Wužiwajće přijomnje zjawny WLAN w kofejownjach, lětanišćach a wjace.
 vpn-android-avoid-intrusive = Wobeńdźće nawalne na stejnišćo poćahowane wabjenje.
 vpn-android-the-mozilla-vpn-mobile = Mobilne nałoženje { -brand-name-mozilla-vpn } je małe, tak zo přewjele składa njewužiwa a njebudźe waš telefon spomaleć abo wašu bateriju wuprózdnjuje.
-vpn-android-unlike-free = Na rozdźěl wot darmotnych VPN abo proksywych sydłow, kotrež móža snano za swoje serwery přez to płaćić, zo was wuskušuja a waš informacije předawaja, { -brand-name-mozilla } njeprotokoluje, hdźež sće po puću a štož činiće.
+vpn-android-unlike-free = Na rozdźěl wot darmotnych VPN abo proksywych sydłow, kotrež móža snano za swoje serwery přez to płaćić, zo was wuskušuja a waše informacije předawaja, { -brand-name-mozilla } njeprotokoluje, hdźež sće po puću a štož činiće.
