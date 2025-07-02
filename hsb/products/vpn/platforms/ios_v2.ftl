@@ -8,3 +8,4 @@
 vpn-ios-vpn-for-iphone = VPN za iPhone wot { -brand-name-mozilla }
 vpn-ios-mozilla-vpn-is = { -brand-name-mozilla-vpn } je słužba wirtualneje priwatneje syće, kotraž waš internetny wobchad zaklučuje a wašu IP-adresu před wćipnymi wočemi chowa.
 vpn-ios-there-are-many = Je wjele přičinow, čehoždla chceće { -brand-name-mozilla-vpn } za iPhone wužiwać, na přikład:
+vpn-ios-ready-to-try = Sće hotowy, { -brand-name-mozilla-vpn } na wašim iPhone wupruwować? Sćehńće jón dźensa a wužiwajće 30dnjowsku garantiju wróćenja pjenjez. Žane protokole, žana hara, žane riziko.
