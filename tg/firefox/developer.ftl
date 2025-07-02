@@ -9,6 +9,7 @@
 ## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
+firefox-developer-firefox-developer-edition-desc = Браузери «{ -brand-name-firefox-developer-edition }» — браузери барқосо ва пурқувватест, ки абзорҳои барномасозии пешрафту муосир ва хусусиятҳои навтарин, аз ҷумла дастгирии «CSS Grid» ва ислоҳи хатоҳои сохториро пешниҳод мекунад.
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Хуш омадед ба браузери нави дӯстдоштаи шумо. Хусусиятҳои навтарин, иҷрои самаранок ва абзорҳои барномарезиеро, ки барои сохтани Интернети кушод ба шумо лозиманд, ба даст оред.
 firefox-developer-speak-up = Фикрҳои худро баён кунед
