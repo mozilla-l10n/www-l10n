@@ -28,6 +28,7 @@ misinformation-outdated-information = Jo jasne až zestarjone informacije njetrj
 misinformation-credible-publication = Jo awtor druge nastawki abo pśinoski publicěrował, w idealnem paźe we wěrysćiwych publikacijach?
 misinformation-authors-name = Jolic mě awtora janož na njedowěrnych sedłach namakajośo, njemějśo jogo wugronjenja za pśewažne.
 misinformation-images-captions = Makaju se wobraze a pópisanja?
+misinformation-images-are-powerful = Wobraze su wjelgin mócny rěd za na zaměr wusměrjonu desinformaciju. Wótwisujucy wót pópisanja, jo samo móžno, až se zawupytnjenje do do absolutnego nawopacnego pśewobrośujo. Jolic njejsćo se wěsty, wuwjeźćo nawopacne wobrazowe pytanje, aby wen namakał, kak se wobraz na drugich sedłach wopisujo.
 misinformation-how-firefox-helps-heading = Kak { -brand-name-firefox } wam pomaga, aby se wy wopacnych informacijow wobinuł
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } pśeslědowaki w šachu źaržy:
 misinformation-social-media-clean-heading = { -brand-name-firefox } wam pomaga, waše kanale w socialnych seśach cyste źaržaś:

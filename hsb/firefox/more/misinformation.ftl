@@ -28,9 +28,13 @@ misinformation-outdated-information = Je jasne, zo zestarjene informacije runjew
 misinformation-credible-publication = Je awtor druhe nastawki abo přinoški publikował, idealnje we wěryhódnych publikacijach?
 misinformation-authors-name = Jeli mjeno awtora jenož na dwělomnych sydłach namakaće, njemějće jeho wuprajenja za přewažne.
 misinformation-images-captions = Kryja so wobrazy a popisy?
-misinformation-images-are-powerful = Wobrazy su jara mócny nastroj za na zaměr wusměrjenu desinformaciju. Wotwisujo wot popisa, je samo móžno, zo so zaznaće do do absolutneho napřećiwka přewobroćuje. Jeli sej wěsty njejsće, wuwjesć nawopačne wobrazowe pytanje, zo byšće won namakał, kak so wobraz na druhich sydłach wopisuje.
+misinformation-images-are-powerful = Wobrazy su jara mócny nastroj za na zaměr wusměrjenu desinformaciju. Wotwisujo wot popisa, je samo móžno, zo so zaznaće do do absolutneho napřećiwka přewobroćuje. Jeli sej wěsty njejsće, wuwjedźće nawopačne wobrazowe pytanje, zo byšće won namakał, kak so wobraz na druhich sydłach wopisuje.
 misinformation-how-firefox-helps-heading = Kak { -brand-name-firefox } wam pomha, zo byšće wopačne informacije wobešoł
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } přescěhowaki w šachu dźerži:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = Kak do toho naspomnjene, přesćěhowanje wulku rólu při rozšěrjowanju wopačnych informacijow hraje. <a href="{ $firefox }">Při wužiwanju { -brand-name-firefox }</a> z <a href="{ $protection }">Polěpšenym slědowanskim škitom</a> so po standardźe přesćěhowaki třećich poskićowarjow přećiwo wjele wabjerjam a druhim sobuhrajerjam blokuje, hdyž web přehladujeće, zo byšće nad swojimi datami online zaso wróćo dóstał.
 misinformation-social-media-clean-heading = { -brand-name-firefox } wam pomha, waše kanale w socialnych syćach čiste dźeržeć:
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } wam pomha, wobsah wotkryć, kotryž je waš čas hódny:
