@@ -8,6 +8,10 @@
 about-this-site-title = Wo tutym sydle
 about-this-site-desc = Wo websydle www.mozilla.org a nastroje wotewrjeneho žórła, kotrež so wužiwaja, zo bychu jo wutworili.
 # Variables:
+#   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
+#   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
+about-this-site-this-website = Websydło www.mozilla.org je hižo přez dwaj lětdźesatkaj. Po internetnych lětach su to <a href="{ $archive }">časy dinosawrijow</a>. W tym nastupanju je www.mozilla.org zakładny kamjeń weba, z korjenjemi, kotrež su w hibanju wotewrjeneho žórła zasadźene, kotrež je <a href="{ $coderush }">załoženje { -brand-name-mozilla }</a> widźało.
+# Variables:
 #   $firefox (url) link to https://www.mozilla.org/firefox/new/
 #   $vpn (url) link to https://www.mozilla.org/products/vpn/
 #   $mozilla (url) link to https://www.mozilla.org/about/
