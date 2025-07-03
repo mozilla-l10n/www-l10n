@@ -13,3 +13,7 @@ mobile-ios-send-a-download-link-to-your = Send en nedlastingslenke til telefonen
 mobile-ios-scan-the-qr-code-to-get-started = Skann QR-koden for å komme i gang
 mobile-ios-scan-alt-text = Skann QR-koden for å laste ned { -brand-name-firefox } til { -brand-name-ios }
 mobile-ios-make-firefox-your = Gjør { -brand-name-firefox } til din standardnettleser
+mobile-ios-fast-private-secure = Raskt. Privat. Sikker
+mobile-ios-stay-private-online = Ta vare på personvernet ditt på nettet
+mobile-ios-firefox-gives-you = { -brand-name-firefox } gir deg bedre personvernbeskyttelse når du er på nettet. Som standard blokkerer vår forbedrede sporingsbeskyttelse sporere og skript, som for eksempel sporere fra sosiale medier, sporing via infokapsler på tvers av nettsteder, kryptoutvinnere og fingeravtrykksporing.
+mobile-ios-your-browsing-history = Nettleserhistorikken din er historie
