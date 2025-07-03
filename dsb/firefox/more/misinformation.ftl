@@ -36,6 +36,9 @@ misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } pśeslě
 #   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 misinformation-firefox-keeps-trackers-desc = Kak do togo naspomnjone, pśeslědowanje wjeliku rolu pśi rozšyrjowanju wopacnych informacijow grajo. <a href="{ $firefox }">Pśi wužywanju { -brand-name-firefox }</a> z <a href="{ $protection }">Pólěpšonym slědowańskim šćitom</a> se pó standarźe pśeslědowaki tśeśich póbitowarjow pśeśiwo wjele wabjarjam a drugim sobugrajarjam blokěrujo, gaž web pśeglědujośo, aby nad swójimi datami online zasej slědk dostał.
 misinformation-social-media-clean-heading = { -brand-name-firefox } wam pomaga, waše kanale w socialnych seśach cyste źaržaś:
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = Socialne seśi wjele wó was wěźe. Mimo togo mógu was pó swójich platformach z tłocaškami Źěliś a To se mě spódoba njeglědajucy na slědowański šćit pśeslědowaś – samo gdyž njeby měł konto. <a href="{ $container }">{ -brand-name-facebook-container }</a> za { -brand-name-firefox } zawěsćujo, až { -brand-name-facebook } a { -brand-name-instagram } njamóžotej to lažko cyniś, což wěrjepódobnosć zasej bejnje reducěrujo, až pśez wabjenje wopacne informacije a propagěrowane wopśimjeśe wiźiśo.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } wam pomaga, wopśimjeśe namakaś, kótarež jo waš cas gódny:
 misinformation-why-trust-firefox = Cogodla { -brand-name-firefox } dowěriś?
