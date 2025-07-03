@@ -115,6 +115,7 @@ m24-home-alt-rise25-smiling = Sebjewědobny smjejkotajucy se powědaŕ na { -bra
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Wjasoły nosaŕ myta na { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Staw { -brand-name-mozilla }
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se sam znowego wunamakujo, rozeznawa se wokoło konstelacije organizacijow, koncipěrujo wabjenje nowo a napórajo ekosystem KI wótwórjonego žrědła. Cytajśo wó tom w Rozpšawje wó stawje { -brand-name-mozilla } 2024.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstraktne pikselowe wuměłstwo w zelenych, oranžowych a rožojtych wósenjach
 m24-home-read-the-report = Cytajśo rozpšawu
