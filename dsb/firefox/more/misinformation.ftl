@@ -31,6 +31,10 @@ misinformation-images-captions = Makaju se wobraze a pópisanja?
 misinformation-images-are-powerful = Wobraze su wjelgin mócny rěd za na zaměr wusměrjonu desinformaciju. Wótwisujucy wót pópisanja, jo samo móžno, až se zawupytnjenje do do absolutnego nawopacnego pśewobrośujo. Jolic njejsćo se wěsty, wuwjeźćo nawopacne wobrazowe pytanje, aby wen namakał, kak se wobraz na drugich sedłach wopisujo.
 misinformation-how-firefox-helps-heading = Kak { -brand-name-firefox } wam pomaga, aby se wy wopacnych informacijow wobinuł
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } pśeslědowaki w šachu źaržy:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = Kak do togo naspomnjone, pśeslědowanje wjeliku rolu pśi rozšyrjowanju wopacnych informacijow grajo. <a href="{ $firefox }">Pśi wužywanju { -brand-name-firefox }</a> z <a href="{ $protection }">Pólěpšonym slědowańskim šćitom</a> se pó standarźe pśeslědowaki tśeśich póbitowarjow pśeśiwo wjele wabjarjam a drugim sobugrajarjam blokěrujo, gaž web pśeglědujośo, aby nad swójimi datami online zasej slědk dostał.
 misinformation-social-media-clean-heading = { -brand-name-firefox } wam pomaga, waše kanale w socialnych seśach cyste źaržaś:
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } wam pomaga, wopśimjeśe namakaś, kótarež jo waš cas gódny:
