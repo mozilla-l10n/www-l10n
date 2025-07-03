@@ -17,3 +17,4 @@ mobile-ios-fast-private-secure = Raskt. Privat. Sikker
 mobile-ios-stay-private-online = Ta vare på personvernet ditt på nettet
 mobile-ios-firefox-gives-you = { -brand-name-firefox } gir deg bedre personvernbeskyttelse når du er på nettet. Som standard blokkerer vår forbedrede sporingsbeskyttelse sporere og skript, som for eksempel sporere fra sosiale medier, sporing via infokapsler på tvers av nettsteder, kryptoutvinnere og fingeravtrykksporing.
 mobile-ios-your-browsing-history = Nettleserhistorikken din er historie
+mobile-ios-get-more-firefox = Få mer { -brand-name-firefox } i livet ditt
