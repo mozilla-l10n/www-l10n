@@ -11,3 +11,5 @@ mobile-ios-firefox-browser = { -brand-name-firefox-browser }
 mobile-ios-get-firefox-for = Last ned { -brand-name-firefox } for { -brand-name-ios }
 mobile-ios-send-a-download-link-to-your = Send en nedlastingslenke til telefonen din.
 mobile-ios-scan-the-qr-code-to-get-started = Skann QR-koden for å komme i gang
+mobile-ios-scan-alt-text = Skann QR-koden for å laste ned { -brand-name-firefox } til { -brand-name-ios }
+mobile-ios-make-firefox-your = Gjør { -brand-name-firefox } til din standardnettleser
