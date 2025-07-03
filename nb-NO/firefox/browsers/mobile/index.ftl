@@ -13,6 +13,7 @@ browsers-mobile-firefox-for-android = { -brand-name-firefox } for { -brand-name-
 browsers-mobile-infinitely-customizable-private = { -brand-name-firefox } for { -brand-name-android } er uendelig tilpassbar, privat og sikker, og er en lynrask nettleser som aldri vil selge informasjon om deg.
 browsers-mobile-firefox-for-ios = { -brand-name-firefox } for { -brand-name-ios }
 browsers-mobile-go-your-own-way = Gå din egen vei med { -brand-name-firefox } mobil
+browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-compare = Sammenlign
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Se hvordan { -brand-name-firefox } for <strong>desktop</strong> klarer seg mot andre nettlesere.
