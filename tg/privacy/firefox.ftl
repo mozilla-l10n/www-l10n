@@ -12,6 +12,9 @@ privacy-firefox-read-our-privacy = Огоҳномаи махфияти моро 
 privacy-firefox-keeping-you-informed = Мо дар ҳар як қадам ба шумо хабар медиҳем
 privacy-firefox-we-believe-you = Мо боварӣ дорем, ки шумо бояд аниқ донед, ки маълумоти шумо чӣ гуна ва чаро истифода мешавад. «{ -brand-name-firefox }» дар ҳар қадам бо дарназардошти махфият ва шаффофият сохта шудааст.
 privacy-firefox-transparency-first = Пеш аз ҳама - ин шаффофият
+# Variables:
+#   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
+privacy-firefox-were-clear-about = Мо аниқ медонем, ки кадом маълумот ва ба кадом мақсад аз он истифода мебарем. Бе ягон тааҷҷуб. <a { $attrs }>Огоҳномаи махфияти «{ -brand-name-firefox }»</a> дар бораи ин ба шумо тафсилот медиҳад.
 privacy-firefox-how-we-use = Чӣ тавр мо маълумотро истифода мебарем
 privacy-firefox-builtin-control = Назорати дарунсохт
 privacy-firefox-always-protected = Ҳамеша дар зери назорат ва муҳофизат
