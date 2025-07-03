@@ -38,7 +38,7 @@ misinformation-firefox-keeps-trackers-desc = Kak do toho naspomnjene, přesćěh
 misinformation-social-media-clean-heading = { -brand-name-firefox } wam pomha, waše kanale w socialnych syćach čiste dźeržeć:
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
-misinformation-social-media-clean-desc = Socialne syće wjele wo waš wědźa. Nimo toho móža was po swojich platformach z tłóčatkami Dźělić a To so mi spodoba najebać slědowanski škit přesćěhować – samo hdyž konto nimaće. <a href="{ $container }">{ -brand-name-facebook-container }</a> za { -brand-name-firefox } zawěsćuje, zo { -brand-name-facebook } a { -brand-name-instagram } njemóžetej to lochko činić, štož prawdźepodobnosć zaso wo tójšto redukuje, zo přez wabjenje wopačne informacije a propagowany wobsah widźiće.
+misinformation-social-media-clean-desc = Socialne syće wjele wo was wědźa. Nimo toho móža was po swojich platformach z tłóčatkami Dźělić a To so mi spodoba najebać slědowanski škit přesćěhować – samo hdyž konto nimaće. <a href="{ $container }">{ -brand-name-facebook-container }</a> za { -brand-name-firefox } zawěsćuje, zo { -brand-name-facebook } a { -brand-name-instagram } njemóžetej to lochko činić, štož prawdźepodobnosć zaso wo tójšto redukuje, zo přez wabjenje wopačne informacije a propagowany wobsah widźiće.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } wam pomha, wobsah wotkryć, kotryž je waš čas hódny:
 misinformation-why-trust-firefox = Čehodla { -brand-name-firefox } dowěrić?
