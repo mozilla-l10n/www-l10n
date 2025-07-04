@@ -13,6 +13,10 @@ data-preferences-notification-opt-in = Sće pola hromadźenja datow prěnjeho po
 #   $glean (url) - link to https://docs.telemetry.mozilla.org/concepts/glean/glean.html
 #   $lean_data (url) - link to https://www.mozilla.org/about/policy/lean-data/
 data-preferences-your-privacy = Waša priwatnosć je jara wažna za { -brand-name-mozilla }. Naša telemetrija prěnjeho poskićowarja a platforma za analyzy z mjenom <a href="{ $glean }">{ -brand-name-glean }</a> našim swójskim wysokim standardam za <a href="{ $lean_data }">zlutniwe wobchadźenje z datami</a>.
+# Variables:
+#   $dictionary (url) - link to https://dictionary.telemetry.mozilla.org/
+#   $privacy_notice (url) - link to https://www.mozilla.org/privacy/websites/
+data-preferences-mozilla-uses = { -brand-name-mozilla } { -brand-name-glean } wužiwa, zo by daty wo wužiwanju websydłow na někotrych websydłach mozilla.org hromadźił. zo by zawěsćił, zo nanajlěpše wužiwarske dožiwjenje za našich wopytowarjow skićimy. { -brand-name-glean } informacije z třećimi poskićowarjemi njedźěli. Kóžde podaće, kotrež hromadźimy, tež striktny kontrolny proces přeběži. Móžeće wjace wo wěstych datowych typach zhonić, kotrež w <a href="{ $dictionary }">słowniku { -brand-name-glean }</a> hromadźimy. Za dalše informacije wo wašnju, kak z datami na websydłach { -brand-name-mozilla } wobchadźamy a kak je dźělimy, móžeće našu <a href="{ $privacy_notice }">zdźělenku priwatnosće wo websydłach, komunikacijach a plackach</a> čitać.
 data-preferences-current-preference = Aktualne nastajenje:
 data-preferences-please-enable-javascript = Prošu zmóžńće JavaScript, zo byšće swoje datowe nastajenje rjadował.
 data-preferences-opt-out-button = Wotzjewće so wot hromadźenja datow prěnjeho poskićowarja
