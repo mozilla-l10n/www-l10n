@@ -23,7 +23,7 @@ vpn-linux-how-to-install = Kak { -brand-name-mozilla-vpn } na Linux instalować?
 # Variables:
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
-vpn-linux-if-you-use-v2 = Jeli jednu z podpěranych wersijow Ubuntu wužiwaće, stej dwě móžnosći oficielne pakety mozillavpn instalować, kotrež so na <a { $attrs }>Launchpad:</a> hostuja
+vpn-linux-if-you-use-v2 = Jeli jednu z podpěranych wersijow Ubuntu wužiwaće, stej dwě móžnosći oficielne pakety mozillavpn instalować, kotrež so na <a { $attrs }>Launchpad:</a> hospoduja
 # Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
 vpn-linux-ubuntu-command = <strong>Modus přikazoweje linki Ubuntu:</strong> Za detailowane instrukcije, kak móžeće { -brand-name-mozilla-vpn } z pomocu nastrojow modusa přikazoweje linki, čitajće <a { $attrs }>Kak { -brand-name-mozilla-vpn } na ličaku Linux instalować</a>.

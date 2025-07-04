@@ -20,3 +20,7 @@ vpn-linux-it-helps-restore = <strong>Pomaga seśowu neutralitu wótnowiś:</stro
 vpn-linux-gui-client = <strong>Klient z grafiskim pówjerchom:</strong> { -brand-name-mozilla-vpn } ma klient z grafiskim pówjerchom, mjaztym až někotare druge póbitowarje jano wersiju za pśikazowu smužku póbituju.
 vpn-linux-by-using = Z { -brand-name-mozilla-vpn } móžośo kontrolu nad swójimi aktiwitami online slědk dostaś a swóju priwatnosć a daty šćitaś. Ześěgniśo { -brand-name-mozilla-vpn } źinsa a wužywajśo 30dnjowsku garantiju wrośenja pjenjez bźez protokolow, bźez wobuze a bźez rizika.
 vpn-linux-how-to-install = Kak { -brand-name-mozilla-vpn } na Linux instalěrowaś?
+# Variables:
+#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
+# 'mozillavpn' should not be translated as it is the proper name of the package
+vpn-linux-if-you-use-v2 = Jolic jadnu z pódprětych wersijow Ubuntu wužywaśo, stej dwě móžnosći oficielne pakety mozillavpn instalěrowaś, kótarež se na <a { $attrs }>Launchpad:</a> góspoduju

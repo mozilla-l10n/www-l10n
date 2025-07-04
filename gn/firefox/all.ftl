@@ -34,6 +34,7 @@ firefox-all-64-bit-installers = Mohendaha 64-bit
 firefox-all-choose-a-64-bit-installer = Eiporavo ñemohendaha 64-bit ne mohendahápe g̃uarã orekóva procesador 64-bit avei, ome’ẽ hetave RAM tembiaporape ha’eñóva, eñembosarái hag̃ua ha ambue tembiporu’i imbaretéva.
 firefox-all-32-bit-installers = Mohendaha 32-bit
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Ko jeku’erã ombojurujáta peteĩ { -brand-name-firefox } Microsoft Store ñanduti roguépe. Eiporúramo Windows 10 térã Windows 11, eguerekóta jeku’erã embojuruja hag̃ua Microsoft Store ko kuatiarogue guive ha emohenda { -brand-name-firefox }. Emohendáramo Microsoft Store guive, umi ñembohekopyahu { -brand-name-firefox } rehegua oñemboguata avei Microsoft Store rupive. Oĩ joavy michĩva { -brand-name-firefox } reko ha mba’eapokuaápe oñemohenda vove Microsoft Store guive, hákatu hetaiterei poruhára ko’ã joavy ndohechakuaái.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Emboguejy { $esr_version }
