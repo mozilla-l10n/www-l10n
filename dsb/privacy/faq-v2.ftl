@@ -23,6 +23,7 @@ privacy-faq-v2-following-questions = Slědujuce pšašanja a wótegrona maju wam
 ## FAQ
 
 privacy-faq-v2-i-use-firefox = Wužywam { -brand-name-firefox } za skóro wšykno w interneśe. Nejskerjej wě { -brand-name-mozilla } pšawje wjele wó mnje, nic ga?
+privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } njewě tak wjele, kak wjele wy by wótcakaś wó tom, kak luźe web pśeglěduju. { -brand-name-firefox }, webwobglědowak, kótaryž na wašom rěźe abo licadle běžy, jo waše zachodowe wrota k internetoju. Waš wobglědowak wjele informacijow wó websedłach zastojaś, ku kótarymž se woglědujośo, ale te informacije zwětšego na wašom rěźe wóstawaju.
 privacy-faq-v2-it-seems-like = Zda se, ako by kužde pśedewześe we webje móje daty kupiło a pśedało. Pla was to nejskerjej hynac njejo.
 privacy-faq-v2-wait-so-how = Moment, z cym ga pjenjeze zaslužyśo?
 # Variables:
