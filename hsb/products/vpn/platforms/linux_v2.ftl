@@ -24,3 +24,12 @@ vpn-linux-how-to-install = Kak { -brand-name-mozilla-vpn } na Linux instalować?
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
 vpn-linux-if-you-use-v2 = Jeli jednu z podpěranych wersijow Ubuntu wužiwaće, stej dwě móžnosći oficielne pakety mozillavpn instalować, kotrež so na <a { $attrs }>Launchpad:</a> hostuja
+# Variables:
+#   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
+vpn-linux-ubuntu-command = <strong>Modus přikazoweje linki Ubuntu:</strong> Za detailowane instrukcije, kak móžeće { -brand-name-mozilla-vpn } z pomocu nastrojow modusa přikazoweje linki, čitajće <a { $attrs }>Kak { -brand-name-mozilla-vpn } na ličaku Linux instalować</a>.
+# Variables:
+#   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
+vpn-linux-ubuntu-graphical = <strong>Grafiski wužiwarski powjerch Ubuntu:</strong> Wopytajće <a { $attrs }>tutón nastawk</a> a slědujće instrukcijam we wotrězku Přidawanje wosobinskich paketowych archiwow.
+# Variables:
+#   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
+vpn-linux-additionally = Nimo toho móžeće za njepodpěrane distribucije Linux žórłowy kod z <a { $attrs }>oficielneho repozitorija Github</a> wzać a kompilować.
