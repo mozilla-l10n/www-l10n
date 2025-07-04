@@ -68,5 +68,6 @@ m24-about-see-open-positions = Ehecha mba’aporã nandíva
 
 m24-about-community-love-v2 = Tekohagua mborayhu, ore mongu’eha
 m24-about-mozilla-is-a = { -brand-name-mozilla } ha’ehína peteĩ tekohaguasu arapygua oipytyvõ añetéva, oñembokatupyrýva omopu’ã, omo’ã ha ome’ẽva tekove pyahu ñandutípe orendive 1998 ary guive.
+m24-about-from-writing-code = Ehai guive ayvu ha ehecha jejavy tekoñemi ñedefende peve ha ñanduti taijuruja opavavépe g̃uarã, opavave ore rekohagua ha’e pe mba’e tuichavéva umi rojapóva apytépe. Nde reko ha ne rembiapo oremokyre’ỹ opaite ára.
 # Used as an accessible text alternative for an image
 m24-about-alt-community = Yvypóra vosa pumbyry ryrurã ha { -brand-name-mozilla } korõ reheve.
