@@ -12,5 +12,6 @@ vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } je słužba wirtuelneje
 vpn-linux-why-choose = Čehodla { -brand-name-mozilla-vpn } za Linux wubrać?
 vpn-linux-fast-and-v2 = <strong>Spěšny a spušćomny:</strong> { -brand-name-mozilla-vpn } protokol { -brand-name-wireguard }® wužiwa, kotryž lěpši wukon a stabilnosć hač druhe protokole VPN skići.
 vpn-linux-no-logs = <strong>Žane protokole:</strong> { -brand-name-mozilla-vpn } protokole wašeje syćoweje aktiwity njewobchowuje; njezapisujemy, kotre websydła wopytujeće a njepřepytujemy waš wobchad.
+vpn-linux-additional-security = <strong>Přidatne wěstotne funkcije:</strong> Wužiwamy blokowanje DNS, zo bychmy wabjenje, přesćěhowaki a škódnu software blokěrowali. Wobhladowak wšak móže jenož tomu zadźěwać, zo wam websydła škódnu software podsuwaja a wam slěduja.
 vpn-linux-gui-client = <strong>Klient z grafiskim powjerchom:</strong> { -brand-name-mozilla-vpn } ma klient z grafiskim powjerchom, mjeztym zo druzy poskićowarjo jenož wersiju za přikazowu linku poskićuja.
 vpn-linux-how-to-install = Kak { -brand-name-mozilla-vpn } na Linux instalować?
