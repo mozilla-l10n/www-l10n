@@ -37,6 +37,9 @@ vpn-enter-your-email = Ehai ne ñanduti veve kundaharape eñepyrũ hag̃ua tembi
 vpn-turn-on-vpn = 4. Emyandy VPN
 vpn-install-firefox-extension = 5. Emohenda jepysokue { -brand-name-firefox }-pe g̃uarã
 vpn-pick-a-recommended = Eiporavo tendatee jeroviaha jeike pya’erã ha hekopytáva térã eiporavo tendatee eipotáva nde poite rupive, upéi EMYANDY pe kytĩha
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = <a href="{ $extension }">Emboguejy ha emohenda pe jepysokue</a> emboyke hag̃ua tenda ha eiporavo heta tendaite ambuéva ñanduti roguépe g̃uarã.
 
 ## FAQ Strings
 
