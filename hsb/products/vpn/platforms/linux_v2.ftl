@@ -18,4 +18,9 @@ vpn-linux-multi-hop = <strong>Multi-hop routing:</strong> Za zwyšenje škita m�
 vpn-linux-simple-and = <strong>Jednory a intuitiwny wužiwarski powjerch:</strong> Zwjazajće ze serwerom z jednym kliknjenjom. Móžeće tež waše nastajenja po swojich přećach přiměrić.
 vpn-linux-it-helps-restore = <strong>Pomha syćowu neutralitu wobnowić:</strong> { -brand-name-mozilla-vpn } wam pomha, wam kontrolu nad wašimi aktiwitami online přez to wróćo dać, zo tomu zadźěwa, zo internetni poskićowarjo wašu šěrokosć pasma daja abo websydła abo słužby blokuja, kotrež so jim njespodobaja abo kotrež ze swójskimi poskitkami konkuruja.
 vpn-linux-gui-client = <strong>Klient z grafiskim powjerchom:</strong> { -brand-name-mozilla-vpn } ma klient z grafiskim powjerchom, mjeztym zo druzy poskićowarjo jenož wersiju za přikazowu linku poskićuja.
+vpn-linux-by-using = Z { -brand-name-mozilla-vpn } móžeće kontrolu nad swojimi aktiwitami online wróćo dóstać a swoju priwatnosć a daty škitać. Sćehńće { -brand-name-mozilla-vpn } dźensa a wužiwajće 30dnjowsku garantiju wróćenja pjenjez bjez protokolow, bjez hary a bjez rizika.
 vpn-linux-how-to-install = Kak { -brand-name-mozilla-vpn } na Linux instalować?
+# Variables:
+#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
+# 'mozillavpn' should not be translated as it is the proper name of the package
+vpn-linux-if-you-use-v2 = Jeli jednu z podpěranych wersijow Ubuntu wužiwaće, stej dwě móžnosći oficielne pakety mozillavpn instalować, kotrež so na <a { $attrs }>Launchpad:</a> hostuja
