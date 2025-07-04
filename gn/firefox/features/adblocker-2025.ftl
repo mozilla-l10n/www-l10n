@@ -22,4 +22,5 @@ features-adblocker-tip-6 = <strong>Jehecharã poravopýva:</strong> iporã ejoko
 features-adblocker-enhanced-privacy = Tekoñemi ha oikoporãngue { -brand-name-firefox } ndive
 features-adblocker-tool-1 = <strong>Ejypykue rekotee:</strong> peteĩ porupyrã ojokokuaáva tapykuehohakuéra ombyai’ỹre ñanduti rogue rembapoite.
 features-adblocker-tool-3 = <strong>Mboherapyre reko:</strong> umi oipotapávape g̃uarã jeiko porã, ko mboherapyre reko rupi eiporavóta ejokoséva, ikatu kookie, tapykuehoha ha hetave.
+features-adblocker-to-adjust = Emoĩporã hag̃ua ko’ã ñemboheko, eikutu escudo ra’ãnga’i oĩva kundaharenda rupa asu gotyo oimeraẽ ñanduti rogue ha eiporavo "Ñemo’ã moĩporãha". Kóva ombojurujáta poravorã eiporavokuaahápe ñemo’ã eikotevẽtéva.
 features-adblocker-why-use = ¿Mba’ére emyandyva’erã pe ñemurã jokoha?
