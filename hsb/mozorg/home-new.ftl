@@ -27,6 +27,7 @@ home-mozilla-takes-bets = „{ -brand-name-mozilla } wjety přijima, zo by swět
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = Čińće sobu při wuhotowanju dowěry hódneje KI
+home-work-on-ai = Zo { -brand-name-mozilla } z KI dźěła, nowe njeje – wot lět financujemy, wuwiwamy a zasadźujemy za KI, kotraž je wotewrjena, fair a so ze zamołwitosću wuwiwa. Naš fokus na wutworjenje KI leži, kotraž ludźom słuži, ma prioritu na transparency a kotraž zjawne dobre dnjowe porjady podpěruje, žane předewzaćelske.
 home-read-more = Čitajće wjace
 home-so-what-is-mozilla = Što tuž je { -brand-name-mozilla }?
 home-learn-about-mofo = Zhońće wjace wo załožbje { -brand-name-mozilla-foundation }
