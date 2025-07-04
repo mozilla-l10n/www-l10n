@@ -26,7 +26,7 @@ vpn-linux-how-to-install = Kak { -brand-name-mozilla-vpn } na Linux instalować?
 vpn-linux-if-you-use-v2 = Jeli jednu z podpěranych wersijow Ubuntu wužiwaće, stej dwě móžnosći oficielne pakety mozillavpn instalować, kotrež so na <a { $attrs }>Launchpad:</a> hospoduja
 # Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
-vpn-linux-ubuntu-command = <strong>Modus přikazoweje linki Ubuntu:</strong> Za detailowane instrukcije, kak móžeće { -brand-name-mozilla-vpn } z pomocu nastrojow modusa přikazoweje linki, čitajće <a { $attrs }>Kak { -brand-name-mozilla-vpn } na ličaku Linux instalować</a>.
+vpn-linux-ubuntu-command = <strong>Modus přikazoweje linki Ubuntu:</strong> Za detailowane instrukcije wo tym kak móžeće { -brand-name-mozilla-vpn } z pomocu nastrojow modusa přikazoweje linki instalować, čitajće <a { $attrs }>Kak { -brand-name-mozilla-vpn } na ličaku Linux instalować</a>.
 # Variables:
 #   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
 vpn-linux-ubuntu-graphical = <strong>Grafiski wužiwarski powjerch Ubuntu:</strong> Wopytajće <a { $attrs }>tutón nastawk</a> a slědujće instrukcijam we wotrězku Přidawanje wosobinskich paketowych archiwow.
