@@ -23,6 +23,7 @@ home-product-vpn-trust = VPN, kótaremuž móžośo dowěriś
 home-cta-get-vpn = { -brand-name-mozilla-vpn } wobstaraś
 home-product-monitor-protect-your = Šćitajśo swóje priwatne daty pśed datowymi wikowarjami
 home-cta-get-monitor = { -brand-name-monitor } wobstaraś
+home-mozilla-takes-bets = „{ -brand-name-mozilla } wjety pśiwzejo, aby swětoju pokazał, až dajo nadawk, kótaryž se ma z dowěry gódnym KI docyniś. To wopśimujo, až se wěcy ako cłowjeske pšawa, šćit datow a transparenca do srjejźi togo stajaju, kak toś te kompleksne systemy funkcioněruju.“
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = Cyńśo sobu pśi wugótowanju dowěry gódneje KI
