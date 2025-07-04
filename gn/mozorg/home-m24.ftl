@@ -60,6 +60,7 @@ m24-home-alt-builders = Apoharakuéra
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Apoharakuéra
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+m24-home-builders-helps-independent = Builders oipytyvõ mboguataharakuéra ijeheguívape omoheñóivo apopyrã IA ayvu ijurujáva omoambuekuaáva ñepytyvõ, mbosako’i ha tekoha oipotáva.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } ra’ãnga’i.
 m24-home-lumigator = { -brand-name-lumigator }
@@ -115,6 +116,7 @@ m24-home-read-the-report = Emoñe’ẽ marandu’i
 m24-home-alt-pni = Mba’e’oka ha’evéva kyhyjerã ra’ãnga’i ndive.
 m24-home-explore-issues-shaping = Ehapykueho mba’e ombohekóva Ñanduti renonderã
 m24-home-privacy-not-included = *Tekoñemi ndoikéiva
+m24-home-search-our-reviews = Eheka ore jehaipýpe ehecha hag̃ua mba’e’oka ha tembiporu’i omondáva ñemihápe ne mba’ekuaarã.
 m24-home-pni-search-now = Eheka ko’ág̃a
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, ohechaukáva IRL Podcast.
