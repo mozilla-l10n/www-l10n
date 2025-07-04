@@ -30,6 +30,10 @@ home-join-us-in-shaping = Čińće sobu při wuhotowanju dowěry hódneje KI
 home-work-on-ai = Zo { -brand-name-mozilla } z KI dźěła, nowe njeje – wot lět financujemy, wuwiwamy a zasadźujemy za KI, kotraž je wotewrjena, fair a so ze zamołwitosću wuwiwa. Naš fokus na wutworjenje KI leži, kotraž ludźom słuži, ma prioritu na transparency a kotraž zjawne dobre dnjowe porjady podpěruje, žane předewzaćelske.
 home-read-more = Čitajće wjace
 home-so-what-is-mozilla = Što tuž je { -brand-name-mozilla }?
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core-v2 = W jadrje je { -brand-name-mozilla } je aktiwistiska organizacija, kotraž so wot { -brand-name-mozilla-foundation } nawjeduje, kotraž swět z pomocu wjele předewzaćemi kaž { -brand-name-mozilla-corporation }, MLZA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> a <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a> měnja. Kak so rozeznawamy? Dokelž na zakładźe misije dźěłamy, mamy swobodu wšě naše rozsudy na zakładźe toho činić, štož je najlěpše za internet a za kóždeho online, nic na zakładźe žadanjow  akcionarow – poprawom tajkich nimamy.
 home-learn-about-mofo = Zhońće wjace wo załožbje { -brand-name-mozilla-foundation }
 home-join-the-fight = Wojujće z nami za strowy internet
 home-your-voice-your-code = Waš hłós. Waš kod. Waše ideje. Su tysacy móžnosćow, přez kotrež móžeće k { -brand-name-mozilla } přinošować.
