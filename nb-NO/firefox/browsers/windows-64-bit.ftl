@@ -31,3 +31,4 @@ windows-64-bit-if-you-see-32-bit-newer = Hvis du ser «(32-bit)» og kjører { -
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = Hvis du trenger å kjøre 32-bit { -brand-name-firefox } eller manuelt installere 64-bit { -brand-name-firefox }, kan du ganske enkelt laste ned og kjøre { -brand-name-windows } (32-bit eller 64-bit) { -brand-name-firefox }-installasjonsprogram fra <a href="{ $all }">nedlastingssiden for { -brand-name-firefox }-plattformer og språk.</a>
 windows-64-bit-take-control-of-your = Ta kontroll over nettleseren din.
+windows-64-bit-download-firefox = Last ned { -brand-name-firefox } for Windows 64-bit

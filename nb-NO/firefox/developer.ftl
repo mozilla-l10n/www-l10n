@@ -10,6 +10,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } er den lynraske nettleseren som tilbyr avanserte utviklerverktøy og nyeste funksjoner som støtte for CSS-rutenett og feilsøking (debugging) av framework
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Velkommen til din nye favoritt-nettleser. Få de seneste funksjonene, rask ytelse, og de utviklerverktøyene som du trenger for å bygge det åpne nettet.
 firefox-developer-speak-up = Si din mening
 firefox-developer-feedback-makes-us = Tilbakemelding gjør oss bedre. Forteller oss hvordan vi kan forbedre nettleseren og utviklerverktøyene (Developer Tools).
@@ -56,6 +57,7 @@ firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtool
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
 firefox-developer-the-new-firefox-devtools = Den nye { -brand-name-firefox-devtools } er avanserte og fleksible, og du kan du tilpasse dem etter behov. Du får blant annet en JavaScript-debugger, som er langt bedre enn andre debuggere. Den nye debuggeren er bygd i React og Redux, og du kan bruke den med ulike nettlesere.
 firefox-developer-master-css-grid = Mestre CSS-rutenett
+firefox-developer-built-for-developers = Bygget for utviklere
 firefox-developer-master-innovative-features = Innovative funksjoner
 firefox-developer-want-to-be-on-the-cutting-edge = Vil du være på forkant?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } mottar daglige oppdateringer og lar deg få tilgang til funksjoner måneder før de går ut til alle andre.
@@ -65,3 +67,7 @@ firefox-developer-fonts-panel = Skrift-panel
 firefox-developer-the-new-fonts-panel = Det nye skrift-panelet i { -brand-name-firefox-devtools } gir utviklere rask tilgang til all informasjonen de trenger om skrifttyper som brukes i et element. Den inneholder også verdifull informasjon som skrift-kilde, vekt, stil og mer.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } sender automatisk tilbakemelding til { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Last ned { -brand-name-firefox }-nettleseren som er laget for utviklere
+firefox-developer-welcome-to-firefox-developer-edition = Velkommen til { -brand-name-firefox-developer-edition }
+firefox-developer-made-for-developers = Nettleseren laget for utviklere
+firefox-developer-all-the-latest-v2 = Alle de nyeste utviklerverktøyene i betaversjon i tillegg til funksjoner som Multi-line Console Editor og WebSocket Inspector.
+firefox-developer-a-separate-profile = En <strong>separat profil og sti</strong> slik at du enkelt kan kjøre den sammen med Release eller { -brand-name-beta } { -brand-name-firefox }.

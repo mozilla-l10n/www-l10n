@@ -54,3 +54,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = Test betaversjoner av {
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = Test betaversjoner av { -brand-name-firefox } for { -brand-name-ios } via { -brand-name-apple } sitt { -brand-name-test-flight }-program.
 firefox-channel-sign-up-now = Registrer deg nå
+firefox-channel-nightly-update-one-or-more-times = Merk: { -brand-name-firefox-nightly } oppdateres omtrent én eller to ganger om dagen.
