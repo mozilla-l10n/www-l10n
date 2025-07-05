@@ -8,6 +8,7 @@
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Zakłady priwatnosći
 privacy-firefox-youre-in-control = Maśo kontrolu
+privacy-firefox-privacy-isnt-just = Priwatnosć njejo jano nastajenje – jo wašo pšawo. Powěźeńka priwatnosći { -brand-name-firefox } se na jasnosći, kontroli a zagronite standardy zepěra. Myslimy se, až wy měł pśecej wó tom rozsuźiś, což se z wašymi datami stawa. Móžośo z nami licyś, až wam jasnje wujasnjujomy, což { -brand-name-firefox } pó standarźe cyni a pśiměrjujomy waše nastajenja, aby wy mógał tak pśeglědowaś ako cośo.
 privacy-firefox-read-our-privacy = Cytajśo našu powěźeńku priwatnosći
 privacy-firefox-keeping-you-informed = Wóstańśo na běžnem, na kuždem kšacu drogi
 privacy-firefox-we-believe-you = Myslimy se, až wy měł wěźeś, kak se waše daty wužywaju a cogodla. { -brand-name-firefox } se pśi kuždem kšacu źiwajucy na priwatnosć a transparencu wuwija.
