@@ -9,6 +9,9 @@
 vpn-when-to-use-5-reasons-you-should = 5 pśicynow, cogodla wy dejał VPN wužywaś
 # HTML page description and intro
 vpn-when-to-use-here-are-five = How jo pěś situacijow, źož se dowěry gódny VPN ako wužytny wopokazujo, kótarež njejsćo zapśimjeł. Zacyńśo źěru w swójej wěstośe online z { -brand-name-mozilla-vpn }.
+# Variables
+#   $vpn (url) - https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+vpn-when-to-use-as-more-of = Dokulaž se něnto wěcej wšednego dnja pśez internetne zwiski stawa, su problemy z priwatnosću a wěstotu dalej a wažnjejše. VPN – <a href="{ $vpn }">Wirtuelny priwatna seś</a> – móžo kuždemu pomagaś, wěsty, priwatny zwisk z internetom napóraś. Funkcioněrujo, gaž wěsty „tunel“ mjazy swójim rědom a internetom dogromady napórajośo a šćita was na dwa wažnej nałoga:
 vpn-when-to-use-concealing-your-true = Waša napšawdna IP-adresa se schowajo. Tak se waša identita šćita a wašo stojnišćo  k njepóznaśeju cyni.
 vpn-when-to-use-encrypting-your-traffic = Koděrujo waš wobchad mjaz wami a wašym póbitowarjom VPN, až njeby nichten mógał jen we wašej lokalnej seśi dešifrěrowaś abo změniś.
 vpn-when-to-use-having-a-vpn = Jo dobra ideja, gaž sćo VPN k ruce, gaž jen trjebaśo. How su někotare góźby, gaž se VPN ako wužytny wopokazujo, kótarež njejsćo zapśimjeł.
