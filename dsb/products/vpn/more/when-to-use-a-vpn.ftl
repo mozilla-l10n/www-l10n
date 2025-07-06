@@ -16,6 +16,7 @@ vpn-when-to-use-concealing-your-true = Waša napšawdna IP-adresa se schowajo. T
 vpn-when-to-use-encrypting-your-traffic = Koděrujo waš wobchad mjaz wami a wašym póbitowarjom VPN, až njeby nichten mógał jen we wašej lokalnej seśi dešifrěrowaś abo změniś.
 vpn-when-to-use-having-a-vpn = Jo dobra ideja, gaž sćo VPN k ruce, gaž jen trjebaśo. How su někotare góźby, gaž se VPN ako wužytny wopokazujo, kótarež njejsćo zapśimjeł.
 vpn-when-to-use-1-a-walk = 1. Pśechóźowanje w parku
+vpn-when-to-use-its-a-beautiful = Jo rědne sobotnješe zajtšo a sćo se sednuł na parkowu ławku, aby kafej srěbał a se na swójich woblubowanych powěsćowych sedłach informěrował, se někotare wideo woglědaś a někotare malsne nakupi cynił, mjaztym až słyńco a fryšny powětš póžywaśo.  Město togo, aby swóje pśirědowane mobilne daty wupóceraśo, skócyjo do zjawneje WLAN-słužby swójogo města. Jo dermotna a wuźaržujo se pśez město, dejała pótakem w pórědku byś, nic ga? Jo fakt, až njamóžośo se wěsty byś, až měsćańska seś jo wěsta abo samo napšawdna (glejśo pśiducy dypk) a konfigurěrowana, aby was pśed złosnymi luźami abo pśedewześami šćitał, kótarež was wusnuchliju, mjaztym až sćo zwězany. Zmóžnjanje VPN móžo waš rěd pśed kuždym šćitaś, kenž wopytujo,  sedła wusnuchliś, ku kótarymž se woglědujośo abo waše sensibelne pśizjawjeńske informacije kšadnuś, mjaztym až se kuždy źeń tyźenja na tej parkowej ławce wótpócywaśo.
 vpn-when-to-use-2-in-the = 2. W susedstwje
 vpn-when-to-use-3-on-the = 3. Pó droze
 vpn-when-to-use-4-home-away = 4. Nachylny pśebytk
