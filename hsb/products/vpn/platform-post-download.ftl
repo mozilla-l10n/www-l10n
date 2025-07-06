@@ -59,6 +59,9 @@ vpn-download-faq-working = Kak wěm, zo VPN funguje?
 #   $monitor (url) link to https://monitor.mozilla.org/
 vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } wizuelne indikatory swojeho aktualneho statusa w symbolowej lajsće kaž tež na startowej wobrazowce nałoženja pokazuje, štož wam wosnadnja zhonić, hač waša aktiwita online so škita abo nic. Tute indikatory wam zmóžnjeja wobkrućić, hdyž waša nawigacija je priwatna a wěsta. Nimo toho móžeće, mjeztym zo sće zwjazany, <a href="{ $monitor }">https://monitor.mozilla.org</a> wopytować, zo byšće wobkrućił, hač waša IP-adresa je maskowana. Za dalše podrobnosće hlejće prošu <a href="{ $connected }">Kak móžu zdźělić, hač { -brand-name-mozilla-vpn } je zwjazany?</a>.
 vpn-download-faq-add-device = Kak móžu dalši grat přidać?
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v3 = Přidawanje dalšeho grata je tak lochke kaž sćahowanje a instalowanje software { -brand-name-mozilla-vpn } a potom přizjewjenja pola wašeho eksistowaceho konta { -brand-name-mozilla-account } na nowym graće. Za dalše podrobnosće hlejće prošu <a href="{ $subscription }">Kak wašemu abonementej { -brand-name-mozilla-vpn } graty přidać</a>.
 vpn-download-faq-best-practices = Što su najlěpše praktiki VPN?
 vpn-download-faq-lastly = Naposledku móžeće VPN na podpěranych gratach bóle inteligentny činić, hdyž wěste nałoženja (na př. Netflix) z VPN wuzamkujeće.
 vpn-download-faq-need-more = Trjebaće trochu wjace pomocy?

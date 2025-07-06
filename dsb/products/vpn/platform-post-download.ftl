@@ -59,6 +59,9 @@ vpn-download-faq-working = Kak wěm, až VPN funkcioněrujo?
 #   $monitor (url) link to https://monitor.mozilla.org/
 vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } wizuelne indikatory swójogo aktualnego statusa ako w symbolowej rědce tak teke na startowej wobrazowce nałoženja pokazujo, což wam wólažcujo zgóniś, lěc waša aktiwita online se šćita abo nic. Toś te indikatory wam zmóžnjaju wobkšuśiś, gaž waša nawigacija jo priwatna a wěsta. Mimo togo móžośo, mjaztym až sćo zwězany, se k <a href="{ $monitor }">https://monitor.mozilla.org</a> woglědowaś, aby wobkšuśił, lěc waša IP-adresa jo maskěrowana. Za dalšne drobnostki glejśo pšosym <a href="{ $connected }">Kak mógu k wěsći daś, lěc { -brand-name-mozilla-vpn } jo zwězany?</a>.
 vpn-download-faq-add-device = Kak mógu dalšny rěd pśidaś?
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v3 = Pśidawanje dalšnego rěda jo tak lažke ako ześěgowanje a instalěrowanje software { -brand-name-mozilla-vpn } a pón pśizjawjenja pla wašogo eksistěrujucego konta { -brand-name-mozilla-account } na nowem rěźe. Za dalšne drobnostki glejśo pšosym <a href="{ $subscription }">Kak wašomu abonementoju { -brand-name-mozilla-vpn } rědy pśidaś</a>.
 vpn-download-faq-best-practices = Co su nejlěpše praktiki VPN?
 vpn-download-faq-lastly = Naslědku móžośo VPN na pódprětych rědach wěcej inteligentny cyniś, gaž wěste nałoženja (na pś. Netflix) z VPN wuzamkujośo.
 vpn-download-faq-need-more = Trjebaśo pitśku wěcej pomocy?
