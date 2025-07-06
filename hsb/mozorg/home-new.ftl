@@ -41,6 +41,7 @@ home-volunteer-with-mozilla = Dobrowólnik pola { -brand-name-mozilla }
 home-that-one-time = Tón jedyn raz smy naš žórłowy kod preč dali…
 home-the-mozilla-project = Projekt { -brand-name-mozilla } je so w San Francisco w lěće 1998 załožił, hdyž wobhladowak { -brand-name-netscape } radikalny rozsud činješe, zjawnosći swój programowy kod přepodać, zo by jón dale wuwiwała a polěpšiła. Tehdy měješe jedne předewzaće wirtualny monopol wo tym, kak ludźo internet dožiwjachu.
 home-eventually-the-open = Naposledk so projekt wotewrjeneho žórła { -brand-name-mozilla } do smjerć woblubowaneje prěnjeje wersije { -brand-name-firefox } přetwori.
+home-today-mozilla-continues = Dźensa { -brand-name-mozilla } ze swojim hibanjom k lěpšemu internetej pokročuje, z milionami aktiwnych čłonow zhromadźenstwa na cyłym swěće, kotřiž so za etniske technologije, dowěry hódnu KI a zhotowjenje produktow zasadźuja, kotrež priwatnosć na prěnje městno stajeja a ludźom wjace mocy dawaja.
 home-learn-more-about-mozilla = Dalše informacije wo { -brand-name-mozilla }
 # VPN Feature
 home-featured-product = Doporučeny produkt
