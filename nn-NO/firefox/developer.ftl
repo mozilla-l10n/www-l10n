@@ -88,7 +88,7 @@ firefox-developer-mdn-the-web-doesnt-have = Internett har ingen endringslogg, me
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-is-a = { -brand-name-mdn } er eit samarbeidsprosjekt med open kjeldekode som dokumenterer nettplattformteknologiar, inkludert CSs, HTML, JavaScript og web-API-ar.
 # Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Ein strukturert guide til dei grunnleggjande ferdigheitene og praksisane for å vere ein vellykka front-end-utviklar, saman med tilrådde læringsressursar.
+firefox-developer-a-structured-guide = Ein strukturert guide til dei grunnleggjande ferdigheitene og praksisane for å vere ein vellykka grenseflate-utviklar, saman med tilrådde læringsressursar.
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
 # Obsolete string (expires 18-04-2025)
