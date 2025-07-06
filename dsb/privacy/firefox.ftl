@@ -17,6 +17,7 @@ privacy-firefox-transparency-first = Transparenca ako prědna
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Jo nam jasnje, kótare daty wužywamy a cogodla. Žedne pśełapjenja. Cytajśo drobnostki w <a { $attrs }>powěźeńce priwatnosći { -brand-name-firefox }</a>.
 privacy-firefox-how-we-use = Kak daty wužywamy
+privacy-firefox-we-use-data = Wužywamy daty, aby { -brand-name-firefox } bźez problemow wuwjadli, funkcije pólěpšyli a pomagali, naš wobchod zachowali – to wšykno, mjaztym až wašu priwatnosć respektěrujomy. Někotare opcionalne funkcije snaź pśidatne daty trjebaju, aby funkcioněrowali, a my to wólažcujomy, aby waše nastajenja zastojali.
 privacy-firefox-builtin-control = Zatwarjona kontrola
 privacy-firefox-always-protected = Pśecej šćitany
 privacy-firefox-privacy-that-works = Priwatnosć, kótaraž za was funkcioněrujo

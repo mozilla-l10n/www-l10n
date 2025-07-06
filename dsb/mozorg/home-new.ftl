@@ -39,7 +39,9 @@ home-join-the-fight = Wójujśo z nami za strowy internet
 home-your-voice-your-code = Waš głos. Waš kod. Waše ideje. Dajo towzynty móžnosćow, pśez kótarež móžośo k { -brand-name-mozilla } pśinosowaś.
 home-volunteer-with-mozilla = Dobrowólnik pla { -brand-name-mozilla }
 home-that-one-time = Ten jaden raz smy dali naš žrědłowy kod pšec…
+home-the-mozilla-project = Projekt { -brand-name-mozilla } jo se załožył w San Francisco w lěśe 1998, gaž wobglědowak { -brand-name-netscape } jo cynił radikalny rozsud, zjawnosći swój programowy kod pśepódaś, aby jen dalej wuwijała a pólěpšyła. Tegdy jadno pśedewześe jo měło wirtuelny monopol wó tom, kak luźe su dožywili internet.
 home-eventually-the-open = Skóńcnje jo se projekt wótwórjonego žrědła { -brand-name-mozilla } do tšašnje woblubowaneje prědneje wersije { -brand-name-firefox } pśetwórił.
+home-today-mozilla-continues = Źinsa { -brand-name-mozilla } ze swójim gibanim k lěpšemu internetoju pókšacujo, z milionami aktiwnych cłonkow zgromaźeństwa na cełem swěśe, kótarež se za etniske technologije, dowěry gódnu KI a zgótowanje produktow zasajźuju, kótarež priwatnosć na prědne městno stajaju a luźam wěcej mócy dawaju.
 home-learn-more-about-mozilla = Dalšne informacije wó { -brand-name-mozilla }
 # VPN Feature
 home-featured-product = Dopórucony produkt
