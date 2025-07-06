@@ -23,6 +23,7 @@ privacy-firefox-firefox-gives-you = { -brand-name-firefox } wam jadnore, ale mó
 privacy-firefox-always-protected = Pśecej šćitany
 privacy-firefox-firefox-protects-you = { -brand-name-firefox } was pśed znatymi pśeslědowakami tśeśich póbitowarjow, pśeslědowakami socialnych medijow, kryptokopakami, cookiejami a technologijami palcowych wótśišćow šćita, kótarež wopytuju, wam pó cełem swěśe slědowaś.
 privacy-firefox-privacy-that-works = Priwatnosć, kótaraž za was funkcioněrujo
+privacy-firefox-firefox-makes-it = { -brand-name-firefox } wam wólažcujo, waše daty ze zatwarjonymi funkcijami priwatnosći a wěstoty zastojaś, mimo togo nastajenja, kótarež wam zmóžnjaju, waše pśeglědowańske dožywjenje wótgłosowaś.
 privacy-firefox-manage-your-privacy = Zastojśo swóje nastajenja priwatnosći:
 # Obsolete string (expires: 2025-04-24)
 privacy-firefox-firefox-for-desktop = { -brand-name-firefox } za Desktop
