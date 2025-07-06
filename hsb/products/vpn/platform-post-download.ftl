@@ -47,6 +47,9 @@ vpn-download-faq-need-help = Trjebaće pomoc, zo byšće započał?
 vpn-download-faq-here-are-some = Tu su někotre z najčasćišich prašenjow wo konfiguraciji { -brand-name-mozilla-vpn }
 vpn-download-faq-why-use = Čehodla { -brand-name-mozilla-vpn } wužiwać?
 # Variables:
+#   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+vpn-download-faq-as-more-daily = Dokelž so nětko wjace wšědneho dnja přez internet stawa, stej priwatnosć a wěstota dale a wažnišej. VPN, <a href="{ $faq }">Wirtualny priwatna syć</a>, zaklučowany tunl mjez wašimi gratami a internetom wutworja a zawěsćuje, zo waš zwisk wěsty a priwatny wostawa, mjeztym zo was na dwě wažnej wašni škita:
+# Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-download-faq-concealing-ip = Waša <a href="{ $ip }">IP-adresa</a> so schowa: To pomha, wašu identitu škitać a waše stejnišćo  před websydłami, kotrež wopytujeće, znjespóznajomni.
 vpn-download-faq-encrypting = Zaklučowanje wašeho internetneho wobchada: Tak nichtó w syći njemóže wašu aktiwitu online wuskušić.
