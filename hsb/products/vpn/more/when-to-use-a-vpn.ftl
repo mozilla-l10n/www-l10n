@@ -30,6 +30,9 @@ vpn-when-to-use-5-in-your = 5. Doma
 vpn-when-to-use-for-the-most = Zwjetša so scenarije horjeka na wašu domjacnu syć njepłaća, chibazo je z mócnym hesłom a wěstotnymi naprawami porjadnje zarjadowana. Ale to njerěka, zo sće bjeze wšěch wćipnych pohladow.
 vpn-when-to-use-because-your-internet = Dokelž so waš internetny wobchad doma přez wašeho internetneho poskićowarja – krótko ISP – do a wot wašich gratow pohibuje, móže widźeć, hdźež online dźeće. ISP móže widźeć, kotre sydła wopytujeće, kak dołho sće na nich, waše stejnišćo a informacije wo wašich gratach. ISP snano dla koděrowanja podrobnosće wo tym njewidźi, štož sće na tych sydłach činił (na přikład nakupować, pytać abo čitać), ale móhł na zakładźe tych sydłow wo was konkluzije ćahnyć, kotrež sće wopytał. Tute wosobinske daty dadźa so wot ISP wužiwać, zo byšće so podrobne profile wo was załožili. Hdyž w priwatnym modusu přehladujeće, njezadźěwa tomu, zo ISP widźa, hdźež online dźeće. Ale hdyž swój webowy wobchad přez VPN sćeleće, so to jara poćežuje.
 vpn-when-to-use-make-sure-you = Zawěsćće so, zo rozumiće, štož VPN nječini
+# Variables
+#   $book (url) - https://support.mozilla.org/kb/how-stay-safe-web
+vpn-when-to-use-a-vpn-provides = VPN wažny wěstotny zwisk skići přez to, zo waše priwatne daty škita, prjedy hač so po interneće přenošuja a chowa tež wašu IP-adresu, štož pomha, wašu identitu a stejnišćo škitać. Nješkita wšak před wěcami kaž kliknjenje na podhladne wotkazy, sćahowanje škódneje software abo zo so z woporom e-mejloweje wobšudy stawaće. Dyrbiće so hišće po <a href="{ $book }">dobrych zwučenosćach, zo byšće online wěsty wostał</a> měć.
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, dowěryhódna VPN-słužba
 # Variables
 #   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
