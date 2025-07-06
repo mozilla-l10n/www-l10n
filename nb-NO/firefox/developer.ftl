@@ -92,3 +92,5 @@ firefox-developer-mdn-curriculum = { -brand-name-mdn } Læreplan
 firefox-developer-a-structured-guide = En strukturert guide til de viktigste ferdighetene og praksisene for å bli en vellykket grenseflate-utvikler, sammen med anbefalte læringsressurser.
 # Obsolete string (expires 18-04-2025)
 firefox-developer-mdn-plus = { -brand-name-mdn-plus }
+# Obsolete string (expires 18-04-2025)
+firefox-developer-support-mdn-and = Støtt { -brand-name-mdn } og gjør den til din egen med samlinger, varsler og område får å teste din kode.

@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
 browser-history-the-browser-wars = Nettleserkrigen
+browser-history-resources = Resurser
+browser-history-take-control-of = Ta kontroll over nettleseren din.
