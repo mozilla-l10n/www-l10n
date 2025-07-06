@@ -21,6 +21,7 @@ privacy-firefox-we-use-data = Wužywamy daty, aby { -brand-name-firefox } bźez 
 privacy-firefox-builtin-control = Zatwarjona kontrola
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } wam jadnore, ale mócne rědy dawa, aby waše daty na ten nałog zastojali, kótaryž cośo. Móžośo swóje nastajenja wótgłosowaś, słužbne wót swójogo wósobinskego žywjenja źělili abo njewitanu historiju z jano mało kliknjenjami wulašowali.
 privacy-firefox-always-protected = Pśecej šćitany
+privacy-firefox-firefox-protects-you = { -brand-name-firefox } was pśed znatymi pśeslědowakami tśeśich póbitowarjow, pśeslědowakami socialnych medijow, kryptokopakami, cookiejami a technologijami palcowych wótśišćow šćita, kótarež wopytuju, wam pó cełem swěśe slědowaś.
 privacy-firefox-privacy-that-works = Priwatnosć, kótaraž za was funkcioněrujo
 privacy-firefox-manage-your-privacy = Zastojśo swóje nastajenja priwatnosći:
 # Obsolete string (expires: 2025-04-24)
