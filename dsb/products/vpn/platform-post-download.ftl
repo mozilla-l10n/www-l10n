@@ -54,6 +54,10 @@ vpn-download-faq-as-more-daily = Dokulaž se něnto wěcej wšednego dnja pśez 
 vpn-download-faq-concealing-ip = Waša <a href="{ $ip }">IP-adresa</a> se schowajo: Tak pomaga, wašu identitu šćitaś a cyni wašo stojnišćo  k njepóznaśeju za websedła, ku kótarymž se woglědujośo.
 vpn-download-faq-encrypting = Koděrowanje wašogo internetnego wobchada: Tak nichten w seśi njamóžo wašu aktiwitu online wusnuchliś.
 vpn-download-faq-working = Kak wěm, až VPN funkcioněrujo?
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } wizuelne indikatory swójogo aktualnego statusa ako w symbolowej rědce tak teke na startowej wobrazowce nałoženja pokazujo, což wam wólažcujo zgóniś, lěc waša aktiwita online se šćita abo nic. Toś te indikatory wam zmóžnjaju wobkšuśiś, gaž waša nawigacija jo priwatna a wěsta. Mimo togo móžośo, mjaztym až sćo zwězany, se k <a href="{ $monitor }">https://monitor.mozilla.org</a> woglědowaś, aby wobkšuśił, lěc waša IP-adresa jo maskěrowana. Za dalšne drobnostki glejśo pšosym <a href="{ $connected }">Kak mógu k wěsći daś, lěc { -brand-name-mozilla-vpn } jo zwězany?</a>.
 vpn-download-faq-add-device = Kak mógu dalšny rěd pśidaś?
 vpn-download-faq-best-practices = Co su nejlěpše praktiki VPN?
 vpn-download-faq-lastly = Naslědku móžośo VPN na pódprětych rědach wěcej inteligentny cyniś, gaž wěste nałoženja (na pś. Netflix) z VPN wuzamkujośo.
