@@ -19,3 +19,6 @@ what-is-a-browser-a-web-browser-long = En nettleser tar deg hvor som helst på i
 # Variables:
 #   $standards (url) - link to https://developer.mozilla.org/docs/Archive/Web_Standards
 what-is-a-browser-sadly-not-all = Dessverre velger ikke alle nettleserprodusenter å tolke formatet på samme måte. For brukere betyr dette at et nettsted kan se ut og fungere forskjellig. Å lage enhetlighet mellom nettlesere, slik at alle brukere kan nyte internett, uavhengig av hvilken nettleser de velger, kalles <a href="{ $standards }">nettstandarder</a>.
+# Variables:
+#   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
+what-is-a-browser-when-the-web-browser = Når nettleseren henter data fra en internettilkoblet server, bruker den et program som kalles en renderingsmotor for å oversette disse dataene til tekst og bilder. Disse dataene skrives i <a href="{ $html }">Hypertext Markup Language</a> (HTML), og nettlesere leser denne koden for å lage det vi ser, hører og opplever på internett.
