@@ -19,6 +19,7 @@ privacy-firefox-were-clear-about = Jo nam jasnje, kótare daty wužywamy a cogod
 privacy-firefox-how-we-use = Kak daty wužywamy
 privacy-firefox-we-use-data = Wužywamy daty, aby { -brand-name-firefox } bźez problemow wuwjadli, funkcije pólěpšyli a pomagali, naš wobchod zachowali – to wšykno, mjaztym až wašu priwatnosć respektěrujomy. Někotare opcionalne funkcije snaź pśidatne daty trjebaju, aby funkcioněrowali, a my to wólažcujomy, aby waše nastajenja zastojali.
 privacy-firefox-builtin-control = Zatwarjona kontrola
+privacy-firefox-firefox-gives-you = { -brand-name-firefox } wam jadnore, ale mócne rědy dawa, aby waše daty na ten nałog zastojali, kótaryž cośo. Móžośo swóje nastajenja wótgłosowaś, słužbne wót swójogo wósobinskego žywjenja źělili abo njewitanu historiju z jano mało kliknjenjami wulašowali.
 privacy-firefox-always-protected = Pśecej šćitany
 privacy-firefox-privacy-that-works = Priwatnosć, kótaraž za was funkcioněrujo
 privacy-firefox-manage-your-privacy = Zastojśo swóje nastajenja priwatnosći:
