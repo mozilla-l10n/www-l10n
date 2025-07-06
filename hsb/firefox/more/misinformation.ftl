@@ -41,6 +41,12 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } wam pomha, w
 misinformation-social-media-clean-desc = Socialne syće wjele wo was wědźa. Nimo toho móža was po swojich platformach z tłóčatkami Dźělić a To so mi spodoba najebać slědowanski škit přesćěhować – samo hdyž konto nimaće. <a href="{ $container }">{ -brand-name-facebook-container }</a> za { -brand-name-firefox } zawěsćuje, zo { -brand-name-facebook } a { -brand-name-instagram } njemóžetej to lochko činić, štož prawdźepodobnosć zaso wo tójšto redukuje, zo přez wabjenje wopačne informacije a propagowany wobsah widźiće.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } wam pomha, wobsah wotkryć, kotryž je waš čas hódny:
+# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
+# Variables:
+#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
+#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
+#   $pocket (url) - link to https://getpocket.com/
+misinformation-surface-content-desc = Hdyž nowy rajtark w swojim wobhladowaku { -brand-name-firefox } wočinjeće, budźeće nastawki widźeć, kotrež so <a href="{ $recommended }">přez { -brand-name-pocket } poručeja</a>. { -brand-name-pocket } waše wosobinske daty njewužiwa, zo by poručenja dał. Město toho so nastawki wot woprawdźitych ludźi z pomocu nałoženja hladaja. Kmanosć, nowe stawiznički, hladanišća a měnjenja wotkryć, je jedna móžnosć přećiwo rozšěrjenju wopačnych informacijow wojować. Zo byšće hišće wjace poručenjow dóstał, abonujće <a href="{ $pocket_hits }">powěsćowy list { -brand-name-pocket }</a> a sćehńće <a href="{ $pocket }">nałoženje { -brand-name-pocket }</a>.
 misinformation-why-trust-firefox = Čehodla { -brand-name-firefox } dowěrić?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
