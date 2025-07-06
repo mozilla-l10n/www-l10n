@@ -18,6 +18,11 @@ vpn-when-to-use-having-a-vpn = Jo dobra ideja, gaž sćo VPN k ruce, gaž jen tr
 vpn-when-to-use-1-a-walk = 1. Pśechóźowanje w parku
 vpn-when-to-use-its-a-beautiful = Jo rědne sobotnješe zajtšo a sćo se sednuł na parkowu ławku, aby kafej srěbał a se na swójich woblubowanych powěsćowych sedłach informěrował, se někotare wideo woglědaś a někotare malsne nakupi cynił, mjaztym až słyńco a fryšny powětš póžywaśo.  Město togo, aby swóje pśirědowane mobilne daty wupóceraśo, skócyjo do zjawneje WLAN-słužby swójogo města. Jo dermotna a wuźaržujo se pśez město, dejała pótakem w pórědku byś, nic ga? Jo fakt, až njamóžośo se wěsty byś, až měsćańska seś jo wěsta abo samo napšawdna (glejśo pśiducy dypk) a konfigurěrowana, aby was pśed złosnymi luźami abo pśedewześami šćitał, kótarež was wusnuchliju, mjaztym až sćo zwězany. Zmóžnjanje VPN móžo waš rěd pśed kuždym šćitaś, kenž wopytujo,  sedła wusnuchliś, ku kótarymž se woglědujośo abo waše sensibelne pśizjawjeńske informacije kšadnuś, mjaztym až se kuždy źeń tyźenja na tej parkowej ławce wótpócywaśo.
 vpn-when-to-use-2-in-the = 2. W susedstwje
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+# "C0MCAST-WiFi-77th-St" and "Verizon3-Hotspot-Baltimore" are examples of possibly suspicious public wifi networks. You can substitute similar example names for your locale.
+# "legit" is shortened slang for "legitimate"
+vpn-when-to-use-have-you-ever = Sćo se gdy zwězał z hotspotom z mjenim ako <em>COMCAST-WiFi-77th-St</em> abo <em>Verizon3-Hotspot-Baltimore</em>? Wuglěda legitimnje, nic ga? Nic tak malsny. W napšawdnosći móžo kuždy sfalšowany zjawny WLAN z legitimnje klincecym mjenim zarědowaś, aby luźe zawjadł, jen wužywaś. Gaž se z někakim njeznatym WLAN zwězujośo, sćo lažki cel za spiony a kriminelne, kótarež kśě pśistup k wašomu rědoju měś, aby priwatne informacije kšadnuli, škódnu software instalěrowali abo górše cynili. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> móžo wašu wěstotu pówušyś, kuždy raz, gaž sćo ze zjawnym WLAN zwězany, dokulaž tomu zajźujo, až njeznate aktery priwatne daty wiźe, kótarež waš telefon abo laptop spušćaju. To za zwězowanje ze seśami WLAN w kafejownjach, wobchodach, gójcowych praksach a tak dalej płaśi.
 vpn-when-to-use-3-on-the = 3. Pó droze
 vpn-when-to-use-4-home-away = 4. Nachylny pśebytk
 vpn-when-to-use-5-in-your = 5. Doma
