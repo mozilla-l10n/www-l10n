@@ -33,6 +33,7 @@ m24-about-we-fund-and = Vi finansierer og investerer i menneska og innsatsen som
 
 m24-about-read-more = Les meir
 m24-about-read-the-latest = Les dei siste artiklane og nyheitene om { -brand-name-mozilla }
+m24-about-builders-program = { -brand-name-mozilla-builders } hjelper utviklarar med å lage banebrytande AI-prosjekt med open kjeldekode gjennom samarbeid, programmering og fellesskap
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = Prisvinnar av { -brand-name-rise25 } peikar på trofeet sitt.
 m24-about-empowering-chicagos-entrepreneurs = Styrkar Chicagos gründarar for generasjonsskifte
@@ -63,3 +64,6 @@ m24-about-see-open-positions = Sjå ledige stillingar
 
 m24-about-community-love-v2 = Fellesskapskjærleik, vår drivkraft
 m24-about-mozilla-is-a = { -brand-name-mozilla } er eit globalt fellesskap av lidenskapelege frivillige, medarbeidarar og bidragsytarar som har bygt, beskytta og forma internett saman med oss sidan 1998.
+m24-about-from-writing-code = Frå å skrive kode og oppdage feil til å kjempe for personvern og halde internett ope for alle — medlemmane i fellesskapet vårt er ryggrada i alt vi gjer. Lidenskapen og dedikasjon deira inspirerer oss kvar dag.
+# Used as an accessible text alternative for an image
+m24-about-alt-community = Person med ei laptopveske og { -brand-name-mozilla }-nøkkelband.

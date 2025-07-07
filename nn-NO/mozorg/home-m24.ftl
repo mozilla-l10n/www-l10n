@@ -10,6 +10,7 @@ m24-home-page-title = Internett for folk, ikkje profitt — { -brand-name-mozill
 m24-home-page-title-v2 = { -brand-name-mozilla } — Internett for folk, ikkje profitt
 # HTML page description
 m24-home-page-desc = Visste du at { -brand-name-mozilla } — organisajonen bak { -brand-name-firefox } — kjempar for at Internett skal halde fram med å vere ein global, allmenn resurs, som er open og tilgjengeleg for alle.
+m24-home-page-desc-v2 = Vi jobbar med å gi brukarane tilbake kontrollen over internett.
 
 ## Intro
 
