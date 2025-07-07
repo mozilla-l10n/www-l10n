@@ -53,7 +53,7 @@ firefox-desktop-download-autosuggest-urls = Автоматичні пропоз�
 firefox-desktop-download-sync-across-devices = Синхронізація пристроїв
 firefox-desktop-download-reader-mode = Режим читання
 firefox-desktop-download-spell-check = Перевірка правопису
-firefox-desktop-download-pinned-tabs = Прикріплення вкладок
+firefox-desktop-download-pinned-tabs = Закріплені вкладки
 firefox-desktop-download-stream-share-play = Транслюйте, діліться та грайте
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Блокування автовідтворення відео та аудіо
