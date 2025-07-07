@@ -11,4 +11,5 @@ vpn-ipad-thats-why-you = Togodla trjebaśo { -brand-name-mozilla-vpn }, malsna, 
 vpn-ipad-mozilla-vpn-is = { -brand-name-mozilla-vpn } jo wirtuelna priwatna seśowa słužba, kótaraž waš internetny wobchad koděrujo a wašu IP-adresu chowa.
 vpn-ipad-with-mozilla-vpn = Z { -brand-name-mozilla-vpn } móžośo dostaś:
 vpn-ipad-protection-for-up-to = <strong>Šćit za až do 5 rědow:</strong> Wužywajśo { -brand-name-mozilla-vpn } na swójom iPad a až do styri rědow z jadnym abonementom. Móžośo jen teke na Windows, macOS, Linux, iPhone a Android wužywaś.
+vpn-ipad-access-to-servers = <strong>Pśistup k serweram we wušej 30 krajach:</strong> Móžośo z wušej 500 serwerow we wušej 30 krajach na cełem swěśe wubraś, aby se z internetom zwězał. To wam wěcej móžnosćow a fleksibelnosći za pśistup k póžedanemu wopśimjeśeju dawa.
 vpn-ipad-no-online = <strong>Žedne protokole aktiwity online:</strong> { -brand-name-mozilla } njeprotokolěrujo, ku kótarym websedłam se woglědujośo abo njepśepytujo waše komunikacije.
