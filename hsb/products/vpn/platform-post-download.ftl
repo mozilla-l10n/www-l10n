@@ -70,4 +70,4 @@ vpn-download-faq-lastly = Naposledku móžeće VPN na podpěranych gratach bóle
 vpn-download-faq-need-more = Trjebaće trochu wjace pomocy?
 # Variables
 #   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
-vpn-download-faq-support = Móžeće so direktnje z nałoženja { -brand-name-mozilla-vpn } z teamom pomocy do zwiska stajić, hdyž na Nastajenja > Pomoc wobstarać > Podpěru skontaktować. Móžeće so tež z nami <a href="{ $support }">na  našej stronje pomocy</a> do zwiska stajić.
+vpn-download-faq-support = Móžeće so direktnje z nałoženja { -brand-name-mozilla-vpn } z teamom pomocy do zwiska stajić, hdyž na Nastajenja > Pomoc wobstarać > Pomoc skontaktować. Móžeće so tež z nami <a href="{ $support }">na  našej stronje pomocy</a> do zwiska stajić.
