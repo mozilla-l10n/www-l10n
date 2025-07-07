@@ -14,4 +14,4 @@ vpn-windows-avoid-your-online = Wobeńdźće, zo so waša aktiwita online hromad
 vpn-windows-the-mozilla = Nałoženje { -brand-name-mozilla-vpn } přewjele składa wašich gratow Windows njepřetrjebuje, waš ličak njespomala abo žiwjenje wašeje baterije njeskrótša.
 # Variables:
 #   $url (string) - url('products.vpn.landing')
-vpn-windows-mozilla-vpn = { -brand-name-mozilla-vpn } so na Windows 10 a Windows 11 podpěruje a móžeće jón na hač do pjeće gratach wužiwać. Zo byšće započał, móžeće so <a href="{ $url }">na mozilla.org přizjewić</a> a nałoženje na swojim graće Windows sćahnyć.
+vpn-windows-mozilla-vpn = { -brand-name-mozilla-vpn } so na Windows 10 a Windows 11 podpěruje a móžeće jón na hač do pjeć gratach wužiwać. Zo byšće započał, móžeće so <a href="{ $url }">na mozilla.org přizjewić</a> a nałoženje na swojim graće Windows sćahnyć.

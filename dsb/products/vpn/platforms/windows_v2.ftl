@@ -11,3 +11,7 @@ vpn-windows-protect-your-windows = Šćitajśo swój rěd Windows z VPN. { -bran
 vpn-windows-stay-safe = Wóstańśo wěsty na swójom rěźe Windows z VPN
 vpn-windows-what-are-the-benefits = Kótare su lěpšyny ześěgowanja { -brand-name-mozilla-vpn } na mójom rěźe Windows?
 vpn-windows-avoid-your-online = Wobiniśo se, až se waša aktiwita online gromaźi a se z tśeśimi póbitowarjami abo wabjarjami źěli.
+vpn-windows-the-mozilla = Nałoženje { -brand-name-mozilla-vpn } pśewjele składa wašych rědow Windows njepśetrjebujo, wašo licadło njespómałšujo abo žywjenje wašeje baterije njeskrotcujo.
+# Variables:
+#   $url (string) - url('products.vpn.landing')
+vpn-windows-mozilla-vpn = { -brand-name-mozilla-vpn } se na Windows 10 a Windows 11 pódpěra a móžośo jen na až do pěś rědach wužywaś. Aby zachopił, móžośo se <a href="{ $url }">na mozilla.org pśizjawiś</a> a nałoženje na swójom rěźe Windows ześěgnuś.
