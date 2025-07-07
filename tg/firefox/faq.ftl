@@ -13,6 +13,7 @@ what-is-firefox = «{ -brand-name-firefox }» чӣ аст?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+the-firefox-browser-the-only = Дар ҳақиқат { -brand-name-firefox-browser } - браузери бузург ва ягона аст, ки аз ҷониби ташкилоти ғайритиҷоратӣ дастгирӣ карда мешавад ва барои ҳифз кардани маълумоти шахсии шумо мусоидат менамояд. Ба маълумоти бештар дар бораи <a href="{ $url }">{ -brand-name-firefox-browsers }</a> ва <a href="{ $url2 }">маҳсулоти дигар</a> дастрасӣ пайдо намоед.
 how-do-i = Чӣ тавр { -brand-name-firefox-browser }-ро боргирӣ намоям?
 
 # Variables:
@@ -62,3 +63,4 @@ who-owns-firefox = Соҳиби «{ -brand-name-firefox }» кӣ мебошад?
 # $url (url) - link to https://foundation.mozilla.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
+related-questions-who = Саволҳои марбут: Дорандаи браузери «{ -brand-name-firefox }» кӣ мебшад? Дорандаи { -brand-name-firefox-browser } кӣ мебошад? Оё дорандаи браузери «{ -brand-name-firefox }» ширкати «{ -brand-name-google }» мебошад? Оё дорандаи «{ -brand-name-mozilla } { -brand-name-firefox }» ширкати «{ -brand-name-google }» мебошад?
