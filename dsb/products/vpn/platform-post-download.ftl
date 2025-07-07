@@ -70,4 +70,4 @@ vpn-download-faq-lastly = Naslědku móžośo VPN na pódprětych rědach wěcej
 vpn-download-faq-need-more = Trjebaśo pitśku wěcej pomocy?
 # Variables
 #   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
-vpn-download-faq-support = Móžośo se direktnje z nałoženja { -brand-name-mozilla-vpn } z teamom pomocy do zwiska stajiś, gaž na Nastajenja > Pomoc wobstaraś > Pomoc skontaktěrowaś. Móžośo se teke z nami <a href="{ $support }">na  našom boku pomocy</a> do zwiska stajiś.
+vpn-download-faq-support = Móžośo se direktnje z nałoženja { -brand-name-mozilla-vpn } z teamom pomocy do zwiska stajiś, gaž na Nastajenja > Pomoc wobstaraś > Pomoc skontaktěrowaś klikaśo. Móžośo se teke z nami <a href="{ $support }">na  našom boku pomocy</a> do zwiska stajiś.
