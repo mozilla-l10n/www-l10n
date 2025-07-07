@@ -34,7 +34,7 @@ m24-home-save-the-internets = Lagre det beste innholdet på internett på hvilke
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-keep-your-location = Skjul posisjonen din og aktivitetene dine på nettet — strøm som en lokal, uansett hvor du er.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
-m24-home-get-a-headsup = Få en forvarsel hvis din personlige informasjon er i fare, og lås den inne som en proff.
+m24-home-get-a-headsup = Få et forvarsel hvis din personlige informasjon er i fare, og lås den inne som en proff.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Skjul e-postadressen og telefonnummeret ditt, slik at du bare mottar meldingene du ønsker.
 
