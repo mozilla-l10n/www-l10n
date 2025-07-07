@@ -63,5 +63,6 @@ vpn-download-faq-add-device = Kak móžu dalši grat přidać?
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v3 = Přidawanje dalšeho grata je tak lochke kaž sćahowanje a instalowanje software { -brand-name-mozilla-vpn } a potom přizjewjenja pola wašeho eksistowaceho konta { -brand-name-mozilla-account } na nowym graće. Za dalše podrobnosće hlejće prošu <a href="{ $subscription }">Kak wašemu abonementej { -brand-name-mozilla-vpn } graty přidać</a>.
 vpn-download-faq-best-practices = Što su najlěpše praktiki VPN?
+vpn-download-faq-traffic = Jeli waš cil je, waš internetny wobchad škitać a tola wysoku spěšnosć wobchować, je přeco najlěpje, serwerowe stejnišćo wubrać, kotrež je tak blisko wašeho fyziskeho stejnišća kaž móžno. To spušćomnosć a spěšnosć wašeho zwiska powyši, dokelž waš internetny wobchad njetrjeba wulki wokołopuć wzać, prjedy hač jeho wotpohladany cil we webje docpěwa.
 vpn-download-faq-lastly = Naposledku móžeće VPN na podpěranych gratach bóle inteligentny činić, hdyž wěste nałoženja (na př. Netflix) z VPN wuzamkujeće.
 vpn-download-faq-need-more = Trjebaće trochu wjace pomocy?
