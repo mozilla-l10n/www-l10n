@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
 
 vpn-linux-mozilla-vpn = { -brand-name-mozilla-vpn } na Linux
+vpn-linux-looking-for = Pytaće za VPN, zo byšće swoju mašinu Linux škitał? { -brand-name-mozilla-vpn } jeničku słužbu wot powšitkownowužitneho předewzaća skići. Zhońće, kak VPN was škita a čehoždla wy měł { -brand-name-mozilla } za swoju priwatnosć a wěstotu dowěrić.
 vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } na Linux za priwatniši a wěsćiši internet
 vpn-linux-linux-is-free = Linux je darmotny, wotewrjeneho žórła a přiměrjomny, ale njeje imuny přećiwo problemam z wěstotu a priwatnosću online. Kaž wužiwarjo druhich dźěłowych systemow steja wužiwarjo Linux njenadźicy před censuru, dohladowanjom a zadobywanjom do kompjuterow.
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } je słužba wirtuelneje priwatneje syće, kotraž moderne zaklučowanje wotewrjeneho žórła wužiwa a wašu syćowu aktiwitu njeprotokoluje, njepřesćěhuje abo njedźěli. Zmóžnja wam, z wyše 500 serwerami w přez 30 krajach zwjazać.
