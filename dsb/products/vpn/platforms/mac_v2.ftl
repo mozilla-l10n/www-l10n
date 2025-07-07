@@ -15,4 +15,6 @@ vpn-mac-get-one-click = Wobstarajśo priwatnosć jadnogo kliknjenja z jadnorym a
 vpn-mac-connect-up-to = Zwěžćo až do 5 rozdźělnych rědow z jadnym abonementom, mjazy nimi Mac, ale teke iOS, Windows, Linux a Android.
 # “Cap” means putting a limit to
 vpn-mac-use-our-vpn = Wužywajśo našu VPN tak wjele ako cośo. Na rozdźěl wót VPN, kótarež jano wěstu tšochu datow na mjasec šćitaju, njewobgranicujomy waš wobchad. Wšojadno, kak wjele datow wužywaśo, šćitaju se pśecej.
+vpn-mac-get-device-level = Wobstarajśo se koděrowanje na rowninje rěda za swój wobchad. Na rozdźěl wót rozwězanjow, kótarež jano wobchad wašogo wobglědowaka koděruju, { -brand-name-mozilla-vpn } wšykno koděrujo, šćita waš internetny wobchad, wšojadno, kótare nałoženje jo zapśimjete.
+vpn-mac-prevent-internet = Zajźujśo tomu, až internetne póbitowarje websedła abo słužby drosluju abo blokěruju, kótarež se nim njespódobaju abo kótarež ze swójskimi póbitowanjami konkurěruju. Za dalšne informacije móžośo se wó seśowej neutralnosći informěrowaś.
 vpn-mac-mozilla-doesnt-log = { -brand-name-mozilla } njeprotokolěrujo, ku kótarym websedłam se woglědujo abo njepśepytujo waše komunikacije. Mamy teke 30dnjowsku garantiju wrośenja pjenjez: žedna wobuza, žedno riziko.
