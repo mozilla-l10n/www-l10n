@@ -63,5 +63,11 @@ vpn-download-faq-add-device = Kak mógu dalšny rěd pśidaś?
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v3 = Pśidawanje dalšnego rěda jo tak lažke ako ześěgowanje a instalěrowanje software { -brand-name-mozilla-vpn } a pón pśizjawjenja pla wašogo eksistěrujucego konta { -brand-name-mozilla-account } na nowem rěźe. Za dalšne drobnostki glejśo pšosym <a href="{ $subscription }">Kak wašomu abonementoju { -brand-name-mozilla-vpn } rědy pśidaś</a>.
 vpn-download-faq-best-practices = Co su nejlěpše praktiki VPN?
+vpn-download-faq-traffic = Jolic waš cel jo, waš internetny wobchad šćitaś a weto wusoku malsnosć wobchowaś, jo pśecej nejlěpjej, stojnišćo serwera wubraś, kótarež jo tak blisko wašogo fyziskego stojnišća ako móžno. To spušćobnosć a malsnosć wašogo zwiska pówušyjo, dokulaž waš internetny wobchad njetrjeba wjelika wokołodroga wześ, nježli až jogo wótglědany cel we webje dojśpiwa.
+vpn-download-faq-experience = Jolic waš cel jo, internet dožywiś, ako by był w někakem drugem źělu swěta, móžośo tam stojnišća wubraś a wšykne websedła, ku kótarymž se woglědujośo, se pokazuju, ako by wy tam był.
+vpn-download-faq-protect = Jolic cośo se hyšći wěcej šćitaś, móžośo šćit pśeśiwo wabjenjeju, wabjeńskim pśeslědowakam a škódnej software pśez Nastajenja > Funkcije priwatnosći aktiwěrowaś. Pšosym źiwajśo na to, až to móžo zawinowaś, až websedła korektnje njefunkcioněruju abo se njezacytaju, togodla musyśo snaź toś ten šćit znjemóžniś, jolic na toś ten problem starcyjośo.
 vpn-download-faq-lastly = Naslědku móžośo VPN na pódprětych rědach wěcej inteligentny cyniś, gaž wěste nałoženja (na pś. Netflix) z VPN wuzamkujośo.
 vpn-download-faq-need-more = Trjebaśo pitśku wěcej pomocy?
+# Variables
+#   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
+vpn-download-faq-support = Móžośo se direktnje z nałoženja { -brand-name-mozilla-vpn } z teamom pomocy do zwiska stajiś, gaž na Nastajenja > Pomoc wobstaraś > Pomoc skontaktěrowaś. Móžośo se teke z nami <a href="{ $support }">na  našom boku pomocy</a> do zwiska stajiś.
