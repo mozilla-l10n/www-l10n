@@ -68,3 +68,6 @@ vpn-download-faq-experience = Jeli waš cil je, internet dožiwić, kaž byšće
 vpn-download-faq-protect = Jeli chceće so hišće wjace škitać, móžeće škit přećiwo wabjenju, wabjenskim přesćěhowakam a škódnej software přez Nastajenja > Funkcije priwatnosće aktiwizować. Prošu dźiwajće na to, zo to móže zawinować, zo websydła korektnje njefunguja abo so njezačitaja, tohodla dyrbiće snano tutón škit znjemóžnić, jeli na tutón problem storčiće.
 vpn-download-faq-lastly = Naposledku móžeće VPN na podpěranych gratach bóle inteligentny činić, hdyž wěste nałoženja (na př. Netflix) z VPN wuzamkujeće.
 vpn-download-faq-need-more = Trjebaće trochu wjace pomocy?
+# Variables
+#   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
+vpn-download-faq-support = Móžeće so direktnje z nałoženja { -brand-name-mozilla-vpn } z teamom pomocy do zwiska stajić, hdyž na Nastajenja > Pomoc wobstarać > Podpěru skontaktować. Móžeće so tež z nami <a href="{ $support }">na  našej stronje pomocy</a> do zwiska stajić.
