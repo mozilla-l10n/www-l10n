@@ -15,4 +15,6 @@ vpn-mac-get-one-click = Wobstarajće priwatnosć jednoho kliknjenja z jednorym a
 vpn-mac-connect-up-to = Zwjazajće hač do 5 rozdźělnych gratow z jednym abonementom, mjez nimi Mac, ale tež iOS, Windows, Linux a Android.
 # “Cap” means putting a limit to
 vpn-mac-use-our-vpn = Wužiwajće našu VPN tak wjele kaž chceće. Na rozdźěl wot VPN, kotrež jenož wěste mnóstwo datow na měsac škitaja, njewobmjezujemy waš wobchad. Wšojedne, kak wjele datow wužiwaće, škitaja so přeco.
+vpn-mac-get-device-level = Wobstarajće sej zaklučowanje na runinje grata za swój wobchad. Na rozdźěl wot rozrisanjow, kotrež jenož wobchad wašeho wobhladowaka zaklučuja, { -brand-name-mozilla-vpn } wšitko zaklučuje, škita waš internetny wobchad, wšojedne, kotre nałoženje je zapřijate.
+vpn-mac-prevent-internet = Zadźěwajće tomu, zo internetni poskićowarjo websydła abo słužby daja abo blokuja, kotrež so nim njespodobaja abo kotrež ze swójskimi poskitkami konkuruja. Za dalše informacije móžeće so wo syćowej neutralnosći informować.
 vpn-mac-mozilla-doesnt-log = { -brand-name-mozilla } njeprotokoluje, kotre websydła wopytujeće abo njepřepytuje waše komunikacije. Mamy tež 30dnjowsku garantiju wróćenja pjenjez: žana hara, žane riziko.
