@@ -65,5 +65,6 @@ vpn-download-faq-adding-another-v3 = Přidawanje dalšeho grata je tak lochke ka
 vpn-download-faq-best-practices = Što su najlěpše praktiki VPN?
 vpn-download-faq-traffic = Jeli waš cil je, waš internetny wobchad škitać a tola wysoku spěšnosć wobchować, je přeco najlěpje, serwerowe stejnišćo wubrać, kotrež je tak blisko wašeho fyziskeho stejnišća kaž móžno. To spušćomnosć a spěšnosć wašeho zwiska powyši, dokelž waš internetny wobchad njetrjeba wulki wokołopuć wzać, prjedy hač jeho wotpohladany cil we webje docpěwa.
 vpn-download-faq-experience = Jeli waš cil je, internet dožiwić, kaž byšće w někajkim druhim dźělu swěta był, móžeće tam serwerowe stejnišćo wubrać a wšě websydła, kotrež wopytujeće, so pokazuja, kaž byšće tam był.
+vpn-download-faq-protect = Jeli chceće so hišće wjace škitać, móžeće škit přećiwo wabjenju, wabjenskim přesćěhowakam a škódnej software přez Nastajenja > Funkcije priwatnosće aktiwizować. Prošu dźiwajće na to, zo to móže zawinować, zo websydła korektnje njefunguja abo so njezačitaja, tohodla dyrbiće snano tutón škit znjemóžnić, jeli na tutón problem storčiće.
 vpn-download-faq-lastly = Naposledku móžeće VPN na podpěranych gratach bóle inteligentny činić, hdyž wěste nałoženja (na př. Netflix) z VPN wuzamkujeće.
 vpn-download-faq-need-more = Trjebaće trochu wjace pomocy?
