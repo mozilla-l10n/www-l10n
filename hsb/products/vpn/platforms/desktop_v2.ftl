@@ -11,3 +11,4 @@ vpn-desktop-vpns-can-provide = VPN móža přidatnu wěstotnu runinu za waš lap
 vpn-desktop-how-does-a = Kak VPN mój laptop abo PC škita?
 vpn-desktop-there-are-several = Su wjacore přičiny, čehoždla wy měł VPN wužiwać, zo byšće so škitał, hdyž swój laptop abo PC wužiwaće:
 vpn-desktop-stronger-privacy = <strong>Mócniša priwatnosć:</strong> Dokelž VPN wašu IP-adresu maskuje, móžeće internet priwatnišo přehladować, wědźacy, zo waša aktiwita njeda so wot hromadźerjow datow z pomocu wašeje IP-adresy jako jónkróćny identifikator zjednoćić.
+vpn-desktop-safer-against-spying = <strong>Wěsćiši přećiwo spionowanju:</strong> Hdyž so waše daty přez VPN zaklučuja, je wirtualnje za kóždeho njemóžno, waš syćowy zwisk wuskušować, zo by zhonił, wo čim a z kim komunikujeće.

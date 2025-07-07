@@ -20,16 +20,19 @@ cookie-settings-turn-on-javascript = Лутфан «JavaScript»-ро фаъол
 
 cookie-settings-category-necessary-heading = Зарур
 cookie-settings-category-necessary-what-are-subheading = Кукиҳои зарурӣ кадоманд?
+cookie-settings-category-necessary-what-are-desc = Ин технологияҳо барои дастгирии хусусиятҳои муҳими сомона, аз қабили ворид шудан ба бахши муҳофизатшуда ё илова кардани ашё ба сабади харидории онлайн, заруранд ва амали ғайрифаъолсозии онҳо ғайриимкон аст.
 
 ## Preference cookies section
 
 cookie-settings-category-preference-heading = Хусусият
 cookie-settings-category-preference-what-are-subheading = Кукиҳои хусусӣ кадоманд?
+cookie-settings-category-preference-what-are-desc = Ин технологияҳо барои ба ёд овардани интихобҳое истифода мешаванд, ки корбар ҳангоми боздидҳои қаблии худ аз сомона анҷом додааст. Барои мисол, онҳо метавонанд забони афзалиятнок барои хондани маводи сомона ё мавзуи ранги дӯстдоштаи шуморо дар бар гиранд.
 
 ## Analytics cookies section
 
 cookie-settings-category-analytics-heading = Таҳлил
 cookie-settings-category-analytics-what-are-subheading = Кукиҳои таҳлилӣ кадоманд?
+cookie-settings-category-analytics-what-are-desc = Ин технологияҳо маълумотро дар бораи рафтори корбарон дар сомонаҳо ҷамъ мекунанд, аз ҷумла кадом саҳифаҳо дида шудаанд, кадом истинодҳо зер шудаанд ва онҳо аз кадом сомонаҳо омадаанд.
 
 ## Privacy section
 
