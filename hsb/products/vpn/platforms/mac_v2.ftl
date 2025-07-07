@@ -13,4 +13,6 @@ vpn-mac-but-finding = Móže zašmjatane być, dobru VPN namakać. Někotre su p
 vpn-mac-with-mozilla-vpn = Z { -brand-name-mozilla-vpn } móžeće:
 vpn-mac-get-one-click = Wobstarajće priwatnosć jednoho kliknjenja z jednorym a za wužiwarjow přećelskim wužiwarskim powjerchom.
 vpn-mac-connect-up-to = Zwjazajće hač do 5 rozdźělnych gratow z jednym abonementom, mjez nimi Mac, ale tež iOS, Windows, Linux a Android.
+# “Cap” means putting a limit to
+vpn-mac-use-our-vpn = Wužiwajće našu VPN tak wjele kaž chceće. Na rozdźěl wot VPN, kotrež jenož wěste mnóstwo datow na měsac škitaja, njewobmjezujemy waš wobchad. Wšojedne, kak wjele datow wužiwaće, škitaja so přeco.
 vpn-mac-mozilla-doesnt-log = { -brand-name-mozilla } njeprotokoluje, kotre websydła wopytujeće abo njepřepytuje waše komunikacije. Mamy tež 30dnjowsku garantiju wróćenja pjenjez: žana hara, žane riziko.
