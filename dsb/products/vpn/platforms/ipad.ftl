@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/ipad/
 
 vpn-ipad-vpn-for = VPN za iOS/iPad wót { -brand-name-mozilla }
-vpn-ipad-looking-for = Pytaśo za VPN, aby swój iPad šćitał? { -brand-name-mozilla-vpn } se pśez za wše wužytne pśedewześe pódpěa. Zgóńśo, kak VPN was šćita a cogoždla wy měł { -brand-name-mozilla } za swóju priwatnosć a wěstotu dowěriś.
+vpn-ipad-looking-for = Pytaśo za VPN, aby swój iPad šćitał? { -brand-name-mozilla-vpn } se pśez za wše wužytne pśedewześe pódpěra. Zgóńśo, kak VPN was šćita a cogoždla wy měł { -brand-name-mozilla } za swóju priwatnosć a wěstotu dowěriś.
 vpn-ipad-if-you-own = Jolic iPad wobsejźiśo, wužywaśo jen nejskerjej za wjele wěcow: pśeglědowanje weba, wobglědowanje wideo, graśe graśow, cytanje knigłow a wěcej. Ale lěc sćo doma lěc sćo pó droze, waš internetny zwisk móžo waše wósobinske daty a stojnišćo zadobywarjam, wabjarjam abo drugim tśeśim póbitowarjam wótekšyś, kótarež mógu cookieje a wašu IP-adresu wužywaś, aby wam slědowali.
 vpn-ipad-thats-why-you = Togodla trjebaśo { -brand-name-mozilla-vpn }, malsna, spušćobna a lažko wužywajobna słužba VPN, kótaryž wašu aktiwitu online pśed narskimi wócymi šćita.
 vpn-ipad-mozilla-vpn-is = { -brand-name-mozilla-vpn } jo wirtuelna priwatna seśowa słužba, kótaraž waš internetny wobchad koděrujo a wašu IP-adresu chowa.
