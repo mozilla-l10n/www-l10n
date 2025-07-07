@@ -10,3 +10,4 @@ vpn-windows-get-a-vpn = Wobstarajće sej VPN za Windows wot { -brand-name-mozill
 vpn-windows-protect-your-windows = Škitajće swój grat Windows z VPN. { -brand-name-mozilla } VPN so přez powšitkownowužitne předewzaće podpěruje. Zhońće, kak VPN was škita a čehoždla wy měł { -brand-name-mozilla } ze swojej priwatnosću a wěstotu dowěrić.
 vpn-windows-stay-safe = Wostańće wěsty na swojim graće Windows z VPN
 vpn-windows-what-are-the-benefits = Kotre su lěpšiny sćahowanja { -brand-name-mozilla-vpn } na mojim graće Windows?
+vpn-windows-avoid-your-online = Wobeńdźće, zo so waša aktiwita online hromadźi a so z třećimi poskićowarjemi abo wabjerjemi dźěli.

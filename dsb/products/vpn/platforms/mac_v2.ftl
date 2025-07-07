@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/mac
 
 vpn-mac-get-a-vpn = Wobstarajśo se VPN za macOS wót { -brand-name-mozilla }
+vpn-mac-looking-for = Pytaśo za VPN, aby swój Mac šćitał? { -brand-name-mozilla-vpn } se pśez za wše wužytne pśedewześe pódpěa. Zgóńśo, kak VPN was šćita a cogoždla wy měł { -brand-name-mozilla } ze swójeju priwatnosću a wěstotu dowěriś, gaž swój macOS wužywaśo.
 vpn-mac-protect-your-mac = Šćitajśo swój Mac z { -brand-name-mozilla-vpn }
 vpn-mac-with-mozilla-vpn = Z { -brand-name-mozilla-vpn } móžośo:
 vpn-mac-get-one-click = Wobstarajśo priwatnosć jadnogo kliknjenja z jadnorym a za wužywarje pśigódnym wužywaŕskim pówjerchom.

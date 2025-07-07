@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
 vpn-mobile-get-a-vpn = Wobstarajśo se VPN za mobilny rěd wót { -brand-name-mozilla }
+vpn-mobile-looking-for-a = Pytaśo za VPN, aby swój mobilny rěd šćitał? { -brand-name-mozilla-vpn } se pśez za wše wužytne pśedewześe pódpěa. Zgóńśo, kak VPN was šćita a cogoždla wy měł { -brand-name-mozilla } ze swójeju priwatnosću a wěstotu dowěriś.
 vpn-mobile-vpn-for-mobile = VPN za mobilny rěd wót { -brand-name-mozilla }
 vpn-mobile-why-do-i = Cogodla trjebam VPN za mobilny rěd?
 vpn-mobile-the-mozilla-vpn = Mobilne nałoženje { -brand-name-mozilla-vpn } jo małe, tak až pśewjele składa njewužywa a njebuźo waš telefon spómałšyś abo wašu bateriju prozni.
