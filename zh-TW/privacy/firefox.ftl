@@ -8,6 +8,7 @@
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = 隱私權基本資訊
 privacy-firefox-youre-in-control = 一切由您掌控
+privacy-firefox-privacy-isnt-just = 隱私不只是一組設定值而已，而是您的完整權利。{ -brand-name-firefox } 隱私權公告從撰寫時就保持透明可控、並且有負責任的預設設定。我們相信您應該隨時都能自行控制自己的資料會發生哪些事，也讓您可以信任 { -brand-name-firefox } 預設狀態下會作什麼，並且讓您自行調整設定，用自己想要的方式上網。
 privacy-firefox-read-our-privacy = 閱讀我們的隱私權公告
 privacy-firefox-keeping-you-informed = 讓您隨時掌握最新資訊
 privacy-firefox-we-believe-you = 我們相信，您應該能夠知道自己的資料是如何被使用的，以及為什麼要使用。{ -brand-name-firefox } 在打造時就將使用者的隱私保護考慮在內，確保每一步都透明。

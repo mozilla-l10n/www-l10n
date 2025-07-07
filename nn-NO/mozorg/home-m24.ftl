@@ -17,6 +17,8 @@ m24-home-page-desc-v2 = Vi jobbar med å gi brukarane tilbake kontrollen over in
 m24-home-welcome-to-mozilla = Velkomen til { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = Frå påliteleg teknologi til retningslinjer som vernar dei digitale rettane dine, set vi deg først – alltid.
 m24-home-learn-about-us = Les meir om oss
+# Used as accessible text alternative for image
+m24-home-alt-flag = Eit stilisert grønt flagg på svart bakgrunn, bygd opp av «M» for { -brand-name-mozilla } og ein piksel som er forskyvd for å referere til den originale dinosaurlogoen.
 
 ## Products
 
@@ -31,6 +33,7 @@ m24-home-save-the-internets = Lagre det beste innhaldet på internett på kva so
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-keep-your-location = Hald plasseringa di og netteventyra dine private – strøym lokalt, kvar som helst.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+m24-home-get-a-headsup = Få eit forvarsel om den personlege informasjon din er i fare, og lås han inn som ein proff.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Skjul e-postadressa og telefonnummeret ditt, slik at du berre får dei meldingane du ønskjer.
 
