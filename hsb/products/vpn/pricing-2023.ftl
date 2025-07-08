@@ -48,6 +48,7 @@ vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } hišće we wašim kr
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Husto stajene prašenja
 vpn-pricing-refund-policy = Kotre prawidła za zarunanje { -brand-name-mozilla-vpn } płaća?
+vpn-pricing-the-first-time-you = Prěni raz, hdyž { -brand-name-mozilla-vpn } přez websydło { -brand-name-mozilla } abonujeće, móžeće zarunanje dóstać, jeli swoje konto w běhu prěnich 30 dnjow storněrujeće, a { -brand-name-mozilla } wašu prěnju abonementnu dobu zaruna.
 vpn-pricing-what-information = Kotre informacije { -brand-name-mozilla-vpn } wobchowa?
 vpn-pricing-how-do-i-manage = Kak móžu swój abonement rjadować a swój plan změnić?
 # Variables
