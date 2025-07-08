@@ -14,6 +14,8 @@ vpn-windows-a-vpn-creates = VPN zaklučowany „tunl“ za waše internetne daty
 vpn-windows-what-are-the-benefits = Kotre su lěpšiny sćahowanja { -brand-name-mozilla-vpn } na mojim graće Windows?
 vpn-windows-avoid-your-online = Wobeńdźće, zo so waša aktiwita online hromadźi a so z třećimi poskićowarjemi abo wabjerjemi dźěli.
 vpn-windows-if-youre = Jeli jara husto streaming widejow abo hudźby online wužiwaće, móžeće snano přez wužiwanje VPN tomu zadźěwać, zo waš poskićowar internetneje słužby wašu šěrokosć pasma wobmjezuje abo daji.
+vpn-windows-you-can-exclude = Móžeće wěste nałoženja z rozdźělenej tunlowacej funkciju wuzamknyć. To rěka, zo někotre nałoženja přez VPN běža, mjeztym zo druhe zwonka tunla wostawaja.
+vpn-windows-using-a-windows = Hdyž grat Windows w zjawnej, njewěstej syći WLAN wužiwaće, budu waše informacije wo internetnym wobchadźe napadliwe na syćowych spionow a VPN móže pomhać, waše daty přez to priwatne dźeržeć, zo sylnu škitnu runinu přidawa.
 vpn-windows-the-mozilla = Nałoženje { -brand-name-mozilla-vpn } přewjele składa wašich gratow Windows njepřetrjebuje, waš ličak njespomala abo žiwjenje wašeje baterije njeskrótša.
 # Variables:
 #   $url (string) - url('products.vpn.landing')
