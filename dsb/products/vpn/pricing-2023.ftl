@@ -48,7 +48,13 @@ vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } hyšći njejo we wa�
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Cesto stajone pšašanja
 vpn-pricing-refund-policy = Kótare pšawidła za zarownanje { -brand-name-mozilla-vpn } płaśe?
+vpn-pricing-the-first-time-you = Prědny raz, gaž { -brand-name-mozilla-vpn } pśez websedło { -brand-name-mozilla } aboněrujośo, móžośo zarownanje dostaś, jolic swójo konto w běgu prědnych 30 dnjow storněrujośo, a { -brand-name-mozilla } wašu prědnu abonementnu dobu zarownajo.
+vpn-pricing-if-you-purchased = Jolic sćo kupił swój abonement pśez kup w nałoženju w Apple App Store abo Google Play Store, wašo płaśenje wuměnjenjam wobchoda pódlažy. Musyśo napšašowanja wó wótlicenju a zarownanju za take kupi na Apple abo Google měriś, jolic trjeba.
 vpn-pricing-what-information = Kótare informacije { -brand-name-mozilla-vpn } wobchowajo?
+# Variables
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-pricing-we-adhere-strictly = Źaržymy se kšuśe za <a { $principles }>zasadami datoweje priwatnosći</a> { -brand-name-mozilla }. Gromaźimy jano daty, kótarež trjebamy, aby funkcioněrowanje { -brand-name-mozilla-vpn } wobchowali a produkt w běgu casa pólěpšowali. Slědujomy teke datam kampanjow a dopórucenjow na swójom mobilnem nałoženju, aby { -brand-name-mozilla } pomagali, efektiwitu našych marketingowych kampanjow rozměś. Cytajśo wěcej w našej <a { $notice }>powěźeńce priwatnosći</a>.
 vpn-pricing-how-do-i-manage = Kak mógu swój abonement zastojaś a swój plan změniś?
 # Variables
 # $manage (url) - link to subscription management page
