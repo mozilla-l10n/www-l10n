@@ -51,6 +51,10 @@ vpn-pricing-refund-policy = Kotre prawidła za zarunanje { -brand-name-mozilla-v
 vpn-pricing-the-first-time-you = Prěni raz, hdyž { -brand-name-mozilla-vpn } přez websydło { -brand-name-mozilla } abonujeće, móžeće zarunanje dóstać, jeli swoje konto w běhu prěnich 30 dnjow storněrujeće, a { -brand-name-mozilla } wašu prěnju abonementnu dobu zaruna.
 vpn-pricing-if-you-purchased = Jeli sće swój abonement přez kup w nałoženju w Apple App Store abo Google Play Store kupił, waše płaćenje wuměnjenjam wobchoda podleži. Dyrbiće naprašowanja wo wotličenju a zarunanju za tajke kupje na Apple abo Google měrić, jeli trjeba.
 vpn-pricing-what-information = Kotre informacije { -brand-name-mozilla-vpn } wobchowa?
+# Variables
+#   $principles (url) - link to https://www.mozilla.org/privacy/principles/
+#   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-pricing-we-adhere-strictly = Dźeržimy so kruće <a { $principles }>zasadow datoweje priwatnosće</a> { -brand-name-mozilla }. Hromadźimy jenož daty, kotrež trjebamy, zo bychmy fungowanjakmanosć { -brand-name-mozilla-vpn } wobchowali a produkt poněčim polěpšowali. Slědujemy tež datam kampanjow a doporučenjow na swojim mobilnym nałoženju, zo bychmy { -brand-name-mozilla } pomhali, efektiwitu našich marketingowych kampanjow rozumić. Čitajće wjace w našej <a { $notice }>zdźělence priwatnosće</a>.
 vpn-pricing-how-do-i-manage = Kak móžu swój abonement rjadować a swój plan změnić?
 # Variables
 # $manage (url) - link to subscription management page
