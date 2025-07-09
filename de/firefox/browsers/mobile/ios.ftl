@@ -36,7 +36,7 @@ mobile-ios-see-your-open-tabs = Sieh all deine offenen Tabs, letzten Suchanfrage
 mobile-ios-own-your-home = Dein persönlicher Homescreen
 mobile-ios-get-to-the-parts = Sei schneller in dem Teil des Webs, der dir am Herzen liegt. Sieh deine offenen Tabs, letzten Suchanfragen, Lesezeichen und Lieblingsseiten auf einen Blick.
 
-mobile-ios-find-it-all = Erhalte Suchvorschläge in der Suchleiste und greife schnell auf die Websites zu, die du am häufigsten besuchst. Gib deine Suchfrage ein und erhalte vorgeschlagene und zuvor gesuchte Ergebnisse in deinen bevorzugten Suchmaschinen.
+mobile-ios-find-it-all = Finde alles schneller
 mobile-ios-get-search-suggestions = Erhalte Suchvorschläge in der Suchleiste und greife schnell auf die Websites zu, die du am häufigsten besuchst. Gib deine Suchfrage ein und erhalte vorgeschlagene und zuvor gesuchte Ergebnisse in deinen bevorzugten Suchmaschinen.
 
 mobile-ios-discover-more-of = Endecke mehr von dem, was dir gefällt
