@@ -14,6 +14,7 @@ features-adblocker-meta-desc = Ehecha mba’éichapa omba’apo marandu jokoha, 
 features-adblocker-the-ad-blocker-a-tool = Ñemurã jokoha: peteĩ tembiporu ñeikundaha raperã mbohérava ha mba’erãitéva.
 features-adblocker-in-todays-digital-world = Ko ñanduti jeporu ag̃aguápe, ñanduti rogue ikatu henyhẽ ha isarambipa. Umi ñemurã jokoha ha’e tembiporu iporãva omoneĩva ne ñeikundaha ha ehechakuaa hag̃ua mba’etépa enohẽta ne mba’erechahápe.
 features-adblocker-finding-the-right = Eheka ñemurã jokoha ndéve g̃uarãite
+features-adblocker-there-are-many = Oĩ heta tembiporu ñemurã jokoha eheka hag̃ua, peteĩteĩva oreko hesegua oñeme’ẽva heta ndive. Ejuhu hag̃ua iporãvéva odepende ne remikotevẽ eikundahávo rehe. Koʼápe ereko heta ñemoñe’ẽ ehechava’erã katuete:
 features-adblocker-tip-1 = <strong>Ñemurã jokoha:</strong> Ejokoséramo ñemurã añónte, eiporavo peteĩ hasy’ỹ ha ipya’éva.
 features-adblocker-tip-2 = <strong>Jepy’apy tekoñemi rehegua:</strong> Nde py’apýramo tapykuehohakuéra, eheka ñemurã jokoha orekovavoi tekoñemi reko.
 features-adblocker-tip-3 = <strong>Ñemboava:</strong> ndahetái marandu jokoha omoneĩ ñemoĩporãrã tenda rysýi ha’etéva térã mba’eporu ha’etéva jokoha.
