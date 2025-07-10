@@ -52,9 +52,3 @@ firefox-products-support-mdn = Дастгирӣ кардани «{ -brand-name-m
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Ба ҳамаи паёмҳои почтаи электронӣ, тақвимҳо ва тамосҳои худ дар як барномаи зуд дастрасӣ пайдо кунед. Онҳоро, чӣ тавре ки мехоҳед, поло кунед ва ба тартиб дароред.
 firefox-products-download-thunderbird = Боргирӣ кардани «{ -brand-name-thunderbird }»
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content-v2 = Муҳтавои беҳтаринро дар саросари Интернет пайдо кунед — ва онро дар вақти дилхоҳ ва аз ҷойи дӯстдоштаи худ тамошо кунед. Аз ҷониби «{ -brand-name-mozilla }» таҳия шудааст.
-firefox-products-get-pocket = «{ -brand-name-pocket }»-ро ба даст оред

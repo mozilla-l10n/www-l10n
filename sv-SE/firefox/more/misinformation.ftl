@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } hjälper dig
 misinformation-social-media-clean-desc = Sociala nätverk vet mycket om dig. Dessutom kan de spåra dig bortom sina plattformar med sina Dela och Gilla-knappar trots spårningsskydd — även om du inte har ett konto. <a href="{ $container }">{ -brand-name-facebook-container }</a> för { -brand-name-firefox } ser till att { -brand-name-facebook } och { -brand-name-instagram } inte kan göra det så enkelt, vilket återigen minskar sannolikheten för att felinformation visas via annonser och marknadsfört innehåll avsevärt.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } hjälper dig att hitta innehåll som är värd din tid:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = När du öppnar en ny flik i webbläsaren { -brand-name-firefox } ser du artiklar <a href="{ $recommended }">rekommenderade av { -brand-name-pocket }</a>. { -brand-name-pocket } använder inte dina personuppgifter för att ge rekommendationer. Istället kureras artiklarna av riktiga människor som använder appen. Förmågan att upptäcka nya historier, vinklar och åsikter är ett sätt att bekämpa spridningen av felinformation. För att få ännu fler rekommendationer, prenumerera på <a href="{ $pocket_hits }">{ -brand-name-pocket }:s nyhetsbrev</a> och ladda ner <a href="{ $pocket }">{ -brand-name-pocket }:s app</a>.
 misinformation-why-trust-firefox = Varför ska du lita på { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

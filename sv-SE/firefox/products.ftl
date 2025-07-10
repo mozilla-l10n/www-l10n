@@ -52,9 +52,3 @@ firefox-products-support-mdn = Stöd { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Få tillgång till all e-post, kalendrar och kontakter i ett snabbt program. Filtrera och organisera dem som du vill.
 firefox-products-download-thunderbird = Hämta { -brand-name-thunderbird }
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content-v2 = Upptäck det bästa innehållet på webben — och konsumera det var och när du vill. Tillverkad av { -brand-name-mozilla }.
-firefox-products-get-pocket = Hämta { -brand-name-pocket }

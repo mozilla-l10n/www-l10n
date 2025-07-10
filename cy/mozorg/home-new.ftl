@@ -16,7 +16,6 @@ home-mozilla-makes-privacy = Mae { -brand-name-mozilla } yn creu cynnyrch sy'n p
 home-product-firefox-browsing = Pori preifat a diogel
 home-cta-get-firefox = Cael { -brand-name-firefox }
 home-product-pocket-articles = Erthyglau mwyaf diddorol y we
-home-cta-get-pocket = Defnyddio { -brand-name-pocket }
 home-product-relay-hide-your = Cuddio eich rhif ffôn a'ch e-bost rhag sbamwyr
 home-cta-get-relay = Cael { -brand-name-relay }
 home-product-vpn-trust = VPN y gallwch ymddiried ynddo

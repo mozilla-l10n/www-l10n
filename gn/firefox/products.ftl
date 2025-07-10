@@ -52,9 +52,3 @@ firefox-products-support-mdn = Oipytyvõ { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Eike ne ñanduti veve, arapapaha ha eñe’ẽkuaaha tembiporu’i ipya’évape. Embogua ha emohenda eipotaháicha.
 firefox-products-download-thunderbird = Emboguejy { -brand-name-thunderbird }
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content-v2 = Ehecha pe ñanduti retepy iporãvéva ha erohory tenda ejaposehápe. Ojapóva { -brand-name-mozilla }.
-firefox-products-get-pocket = Eguereko { -brand-name-pocket }

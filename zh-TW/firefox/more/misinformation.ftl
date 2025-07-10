@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } 會幫助讓
 misinformation-social-media-clean-desc = 社群網路非常了解您。就算您不註冊帳號使用，還是可以透過平台外的「分享」與「讚」按鈕來追蹤您，不受追蹤保護的影響。<a href="{ $container }">{ -brand-name-facebook-container }</a> for { -brand-name-firefox } 可讓 { -brand-name-facebook } 及 { -brand-name-instagram } 沒那麼簡單就能追蹤到您，大幅降低在廣告或贊助內容當中看到錯誤資訊的機會。
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } 會幫助您閱讀值得閱讀的內容：
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = 當您在 { -brand-name-firefox } 瀏覽器開啟新分頁時，會看到 <a href="{ $recommended }">{ -brand-name-pocket } 推薦</a>的文章。 { -brand-name-pocket } 不會使用您的任何個人資料來提供推薦。這些文章是由所有使用應用程式的真人所一同挑選的。能夠探索新故事、新角度、新觀點的能力是能夠對抗錯誤資訊傳播的一種方式。若要獲得更多推薦內容，請訂閱  <a href="{ $pocket_hits }">{ -brand-name-pocket } 電子報</a>，並下載 <a href="{ $pocket }">{ -brand-name-pocket } 應用程式</a>。
 misinformation-why-trust-firefox = 憑什麼相信 { -brand-name-firefox }？
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

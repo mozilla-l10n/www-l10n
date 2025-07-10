@@ -27,6 +27,8 @@ mobile-ios-get-to-the-parts = Skrajšajte si pot do spletnih mest, ki so vam pom
 mobile-ios-find-it-all = Hitreje najdite, kar iščete
 mobile-ios-get-search-suggestions = Prejemajte predloge iskanj v iskalno vrstico in imejte hiter dostop do spletnih mest, ki jih najpogosteje obiskujete. Vnesite iskalno poizvedbo in si oglejte predloge ter predhodno iskane rezultate različnih priljubljenih iskalnikov.
 mobile-ios-discover-more-of = Odkrijte več tega, kar imate radi
+# Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = Odprite nov zavihek v { -brand-name-firefox(sklon: "mestnik") } in videli boste svoja najpogosteje obiskana spletna mesta, nedavne zaznamke in priljubljene članke v { -brand-name-pocket }u. S hitrim dostopom do nedavno obiskanih strani vam { -brand-name-firefox } pomaga hitreje priti do cilja.
 mobile-ios-about-mozilla = O { -brand-name-mozilla(sklon: "mestnik") }
+# Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } obstaja, da bi iz interneta zgradila javen in vsakomur dostopen vir, saj verjamemo, da je odprto in svobodno boljše od zaprtega in nadzorovanega. { -brand-name-firefox(sklon: "tozilnik") }, { -brand-name-pocket(sklon: "tozilnik") } in druge izdelke ustvarjamo, da bi ljudem ponudili izbiro, preglednost in nadzor.

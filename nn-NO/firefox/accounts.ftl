@@ -38,4 +38,3 @@ firefox-accounts-get-it-all-on-every = Få alt på alle einingar, utan å kjenne
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
-firefox-accounts-pocket = { -brand-name-pocket }

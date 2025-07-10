@@ -30,8 +30,3 @@ firefox-products-get-mozilla-vpn = دریافت { -brand-name-mozilla-vpn }
 
 ## Thunderbird
 
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-get-pocket = دریافت { -brand-name-pocket }

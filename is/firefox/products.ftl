@@ -30,7 +30,3 @@ firefox-products-get-mozilla-vpn = Fáðu { -brand-name-mozilla-vpn }
 
 ## Thunderbird
 
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }

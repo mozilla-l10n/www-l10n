@@ -52,9 +52,3 @@ firefox-products-support-mdn = Pomoc { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Mějće přistup k swojej e-mejli, protykam a kontaktam w jednym spěšnym nałoženju. Filtrujće a rjadujće je na wašnje, kotrež wam spodoba.
 firefox-products-download-thunderbird = Sćehńće { -brand-name-thunderbird }
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content-v2 = Wotkryjće najlěpši wobsah we webje - a wužiwajće jón, hdźežkuli a hdyžkuli chceće. Wutworjeny wot { -brand-name-mozilla }.
-firefox-products-get-pocket = { -brand-name-pocket } wobstarać

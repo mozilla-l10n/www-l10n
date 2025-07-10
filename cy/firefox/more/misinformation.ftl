@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = Mae { -brand-name-firefox } yn helpu
 misinformation-social-media-clean-desc = Mae rhwydweithiau cymdeithasol yn gwybod llawer amdanoch chi. Hefyd, maen nhw'n gallu eich tracio y tu hwnt i'w platfformau gyda'u botymau Rhannu a Hoffi er gwaethaf Diogelu Rhag Tracio - hyd yn oed os nad oes gennych chi gyfrif. Mae'r <a href="{ $container }"> { -brand-name-facebook-container } </a> ar gyfer { -brand-name-firefox } yn sicrhau nad yw { -brand-name-facebook } a { -brand-name-instagram } gallu gwneud mor hawdd, sydd eto'n lleihau'r tebygolrwydd o weld camwybodaeth trwy hysbysebion a hyrwyddo cynnwys, yn sylweddol.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = Mae { -brand-name-firefox } yn eich helpu i weld cynnwys sy'n deilwng o'ch amser:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Pan fyddwch yn agor tab newydd yn eich porwr { -brand-name-firefox }, fe welwch erthyglau <a href="{ $recommended }"> wedi'u hargymell gan { -brand-name-pocket } </a>. Nid yw { -brand-name-pocket } yn defnyddio dim o'ch data personol i wneud argymhellion. Yn lle hynny, mae'r erthyglau'n cael eu curadu gan bobl go iawn sy'n defnyddio'r ap. Mae'r gallu i ddarganfod straeon, onglau a barn newydd yn un ffordd i frwydro yn erbyn lledaeniad camwybodaeth. I gael rhagor o argymhellion, tanysgrifiwch i <a href="{ $pocket_hits }">{ -brand-name-pocket }gylchlythyr</a> a llwythwch yr<a href="{ $pocket }">{ -brand-name-pocket } ap</a>  i lawr.
 misinformation-why-trust-firefox = Pam ymddiried yn { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

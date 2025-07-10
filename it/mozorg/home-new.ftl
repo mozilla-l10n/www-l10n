@@ -16,7 +16,6 @@ home-mozilla-makes-privacy = { -brand-name-mozilla } realizza prodotti che rispe
 home-product-firefox-browsing = Navigazione riservata e sicura
 home-cta-get-firefox = Ottieni { -brand-name-firefox }
 home-product-pocket-articles = Gli articoli più interessanti del web
-home-cta-get-pocket = Ottieni { -brand-name-pocket }
 home-product-relay-hide-your = Proteggi il tuo numero di telefono e la tua email dagli spammer.
 home-cta-get-relay = Ottieni { -brand-name-relay }
 home-product-vpn-trust = Una VPN di cui ti puoi fidare

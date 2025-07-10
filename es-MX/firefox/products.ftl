@@ -42,8 +42,3 @@ firefox-products-support-mdn = Soporte { -brand-name-mdn }
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-download-thunderbird = Descargar { -brand-name-thunderbird }
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-get-pocket = Obtener { -brand-name-pocket }

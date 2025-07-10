@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } ti aiuta a t
 misinformation-social-media-clean-desc = I social network sanno molto di te. In più, sono in grado di tracciarti al di fuori della loro piattaforma usando i tasti Condividi e Mi piace, aggirando la protezione antitracciamento e anche se non possiedi un account. Il <a href="{ $container }">{ -brand-name-facebook-container }</a> per { -brand-name-firefox } si assicura che { -brand-name-facebook } e { -brand-name-instagram } non possano farlo così facilmente, il che riduce in modo significativo la probabilità di vedere cattiva informazione tramite pubblicità e contenuti mirati.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } ti aiuta a mettere in evidenza i contenuti meritevoli di attenzione:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Quando apri una nuova scheda nel browser { -brand-name-firefox }, vedrai gli articoli <a href="{ $recommended }">consigliati da { -brand-name-pocket }</a>. { -brand-name-pocket } non utilizza nessuno dei tuoi dati personali per fornire consigli. Invece, gli articoli sono curati da persone reali che usano l’app. La capacità di scoprire nuove storie, punti di vista e opinioni, è un modo per combattere la diffusione della cattiva informazione. Per ricevere più consigli, iscriviti alla <a href="{ $pocket_hits }">newsletter { -brand-name-pocket }</a> e scarica <a href="{ $pocket }">{ -brand-name-pocket } l’app</a>.
 misinformation-why-trust-firefox = Perché fidarsi di { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

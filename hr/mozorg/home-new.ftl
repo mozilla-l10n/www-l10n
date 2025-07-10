@@ -16,7 +16,6 @@ home-mozilla-makes-privacy = { -brand-name-mozilla } proizvodi proizvode koji po
 home-product-firefox-browsing = Privatno i sigurno pregledavanje
 home-cta-get-firefox = Nabavi { -brand-name-firefox }
 home-product-pocket-articles = Najintrigantniji članci na webu
-home-cta-get-pocket = Nabavi { -brand-name-pocket }
 home-product-relay-hide-your = Sakrij svoj broj telefona i e-mail adresu od neželjenih pošiljatelja
 home-cta-get-relay = Nabavi { -brand-name-relay }
 home-product-vpn-trust = VPN mreža kojoj možeš vjerovati

@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } ta gida da t
 misinformation-social-media-clean-desc = Las medias socialas san bler da tai. Ultra da quai pon ellas ta suandar schizunt ordaifer lur plattafurmas cun agid da lur buttuns per cundivider e dar in like, malgrà la protecziun cunter fastizaders – perfin sche ti n'has gnanc in conto. Il <a href="{ $container }">{ -brand-name-facebook-container }</a> per { -brand-name-firefox } procura che { -brand-name-facebook } ed { -brand-name-instagram } na vegnan betg pli da ta suandar a moda uschè simpla. Uschia èsi era main probabel che ti fruntas sin infurmaziuns falladas via reclamas e cuntegns sponsurisads.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } ta gida a scuvrir cuntegns dals quals i vala la paina da s'occupar:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Sche ti avras in nov tab en tes navigatur { -brand-name-firefox }, vesas ti artitgels <a href="{ $recommended }">recumandads da { -brand-name-pocket }</a>. { -brand-name-pocket } na dovra naginas da tias datas persunalas per las recumandaziuns. Ils artitgels vegnan tschernids da persunas realas che utiliseschan l'applicaziun. L'abilitad da scuvrir novas istorgias, perspectivas ed opiniuns è ina metoda per cumbatter la derasaziun dad infurmaziuns falladas. Per obtegnair ulteriuras recumandaziuns, abunescha il <a href="{ $pocket_hits }">newsletter da { -brand-name-pocket }</a> e telechargia l'<a href="{ $pocket }">app da { -brand-name-pocket }</a>.
 misinformation-why-trust-firefox = Pertge sa fidar da { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

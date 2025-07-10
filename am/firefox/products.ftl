@@ -35,8 +35,3 @@ firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } ያግኙ
 
 ## Thunderbird
 
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-get-pocket = { -brand-name-pocket }ን ያግኙ

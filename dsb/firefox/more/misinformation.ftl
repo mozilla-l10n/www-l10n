@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } wam pomaga, 
 misinformation-social-media-clean-desc = Socialne seśi wjele wó was wěźe. Mimo togo mógu was pó swójich platformach z tłocaškami Źěliś a To se mě spódoba njeglědajucy na slědowański šćit pśeslědowaś – samo gdyž njeby měł konto. <a href="{ $container }">{ -brand-name-facebook-container }</a> za { -brand-name-firefox } zawěsćujo, až { -brand-name-facebook } a { -brand-name-instagram } njamóžotej to lažko cyniś, což wěrjepódobnosć zasej bejnje reducěrujo, až pśez wabjenje wopacne informacije a propagěrowane wopśimjeśe wiźiśo.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } wam pomaga, wopśimjeśe namakaś, kótarež jo waš cas gódny:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Gaž nowy rejtarik w swójom wobglědowaku { -brand-name-firefox } wócynjaśo, buźośo nastawki wiźeś, kótarež se <a href="{ $recommended }">pśez { -brand-name-pocket } pórucuju</a>. { -brand-name-pocket } waše wósobinske daty njewužywa, aby pórucenja dał. Město togo se nastawki wót napšawdnych luźi z pomocu nałoženja woplěwaju. Zamóžnosć, nowe tšojeńka, glědanišća a měnjenja namakaś, jo jadna móžnosć pśeśiwo rozšyrjanjeju wopacnych informacijow wójowaś. Aby hyšći wěcej pórucenjow dostał, aboněrujśo <a href="{ $pocket_hits }">powěsćowy list { -brand-name-pocket }</a> a ześěgniśo <a href="{ $pocket }">nałoženje { -brand-name-pocket }</a>.
 misinformation-why-trust-firefox = Cogodla { -brand-name-firefox } dowěriś?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

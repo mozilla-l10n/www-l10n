@@ -52,9 +52,3 @@ firefox-products-support-mdn = 支持 { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = 在單一應用程式中，存取所有電子郵件、行事曆與聯絡人，用您喜歡的方式過濾與管理。
 firefox-products-download-thunderbird = 下載 { -brand-name-thunderbird }
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content-v2 = 探索網路上的最佳內容 — 隨時隨地想讀就讀。產品由 { -brand-name-mozilla } 打造。
-firefox-products-get-pocket = 取得 { -brand-name-pocket }

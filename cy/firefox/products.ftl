@@ -52,9 +52,3 @@ firefox-products-support-mdn = Cefnogwch { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Cael eich holl e-byst, calendrau a chysylltiadau mewn un ap cyflym. Hidlwch a threfnwch nhw yn y ffordd rydych chi'n ei hoffi.
 firefox-products-download-thunderbird = Llwytho { -brand-name-thunderbird } i Lawr
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content-v2 = Darganfyddwch y cynnwys gorau ar y we - a'i ddefnyddio ble bynnag a phryd bynnag y dymunwch. Wedi'i wneud gan { -brand-name-mozilla }.
-firefox-products-get-pocket = Cael { -brand-name-pocket }

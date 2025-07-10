@@ -8,6 +8,5 @@
 moz-account-already-have-v2 = כבר יש לך חשבון? <a { $sign_in_url }>כניסה לחשבון</a> או <a { $learn_more_url }>מידע נוסף</a> על הצטרפות ל־{ -brand-name-mozilla }.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
-moz-account-product-pocket = { -brand-name-pocket }
 moz-account-product-vpn = { -brand-name-mozilla-vpn }
 moz-account-product-relay = { -brand-name-relay }

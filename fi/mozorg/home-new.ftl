@@ -16,7 +16,6 @@ home-mozilla-makes-privacy = { -brand-name-mozilla } valmistaa yksityisyyttä ku
 home-product-firefox-browsing = Yksityistä ja suojattua selausta
 home-cta-get-firefox = Lataa { -brand-name-firefox }
 home-product-pocket-articles = Internetin kiehtovimmat artikkelit
-home-cta-get-pocket = Hanki { -brand-name-pocket }
 home-product-relay-hide-your = Piilota puhelinnumerosi ja sähköpostiosoitteesi roskapostittajilta
 home-cta-get-relay = Hanki { -brand-name-relay }
 home-product-vpn-trust = VPN, johon voit luottaa

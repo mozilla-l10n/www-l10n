@@ -16,7 +16,6 @@ home-mozilla-makes-privacy = { -brand-name-mozilla }는 개인 정보를 존중�
 home-product-firefox-browsing = 개인적이고 안전한 브라우징
 home-cta-get-firefox = { -brand-name-firefox } 받기
 home-product-pocket-articles = 웹에서 가장 흥미로운 문서
-home-cta-get-pocket = { -brand-name-pocket } 받기
 home-product-relay-hide-your = 스패머로부터 전화번호와 이메일을 숨기세요
 home-cta-get-relay = { -brand-name-relay } 받기
 home-product-vpn-trust = 신뢰할 수 있는 VPN

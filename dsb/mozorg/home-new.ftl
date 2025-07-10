@@ -16,7 +16,6 @@ home-mozilla-makes-privacy = { -brand-name-mozilla } produkty napórajo, kótare
 home-product-firefox-browsing = Priwatne a wěste pśeglědowanje
 home-cta-get-firefox = Wobstarajśo se { -brand-name-firefox }
 home-product-pocket-articles = Nejzajmnjejše nastawki weba
-home-cta-get-pocket = { -brand-name-pocket } wobstaraś
 home-product-relay-hide-your = Schowajśo swój telefonowy numer a e-mailoweju adresu pśed spammerami
 home-cta-get-relay = { -brand-name-relay } wobstaraś
 home-product-vpn-trust = VPN, kótaremuž móžośo dowěriś

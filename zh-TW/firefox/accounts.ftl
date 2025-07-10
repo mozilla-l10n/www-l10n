@@ -38,4 +38,3 @@ firefox-accounts-get-it-all-on-every = 在所有裝置皆可下載，不會讓�
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
-firefox-accounts-pocket = { -brand-name-pocket }

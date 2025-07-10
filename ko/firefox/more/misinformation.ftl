@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox }는 소셜 �
 misinformation-social-media-clean-desc = 소셜 네트워크는 여러분의 많은 것을 알고 있습니다. 또한 추적 방지 기능에도 불구하고 공유 및 좋아요 버튼을 통해 플랫폼 이외의 곳에서 계정이 없는 사용자까지 추적할 수 있습니다. { -brand-name-firefox }용 <a href="{ $container }">{ -brand-name-facebook-container }</a>는 { -brand-name-facebook }과 { -brand-name-instagram }이 쉽게 추적할 수 없게 만들어 광고 및 홍보 콘텐츠를 통해 잘못된 정보를 볼 확률을 크게 줄입니다.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox }는 시간을 투자할 가치가 있는 콘텐츠를 표시하도록 도와줍니다.
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = { -brand-name-firefox } 브라우저에서 새 탭을 열면 <a href="{ $recommended }">{ -brand-name-pocket }이 추천하는</a> 기사를 볼 수 있습니다. { -brand-name-pocket }은 추천을 위해 사용자의 개인 정보를 사용하지 않습니다. 대신 이 기사들은 앱을 사용하는 실제 사람들이 엄선한 것입니다. 새로운 이야기와 관점, 의견을 발견하는 능력은 잘못된 정보의 확산에 맞서는 한 가지 방법입니다. 더 많은 추천을 받으려면 <a href="{ $pocket_hits }">{ -brand-name-pocket } 뉴스레터</a>를 구독하고 <a href="{ $pocket }">{ -brand-name-pocket } 앱</a>을 다운로드하세요.
 misinformation-why-trust-firefox = 왜 { -brand-name-firefox }를 신뢰해야 하나요?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

@@ -11,6 +11,5 @@ moz-account-promo-title = Un inicio de sesión. <br> <span { $class }>Todo</span
 moz-account-already-have-v2 = ¿Ya tienes una cuenta? <a { $sign_in_url }>Inicia sesión</a> o <a { $learn_more_url }>descubre más</a> sobre cómo unirte { -brand-name-mozilla }.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
-moz-account-product-pocket = { -brand-name-pocket }
 moz-account-product-vpn = { -brand-name-mozilla-vpn }
 moz-account-product-relay = { -brand-name-relay }

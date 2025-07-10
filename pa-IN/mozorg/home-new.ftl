@@ -16,7 +16,6 @@ home-mozilla-makes-privacy = { -brand-name-mozilla } ਪਰਦੇਦਾਰੀ �
 home-product-firefox-browsing = ਪ੍ਰਾਈਵੇਟ ਅਤੇ ਸੁਰੱਖਿਅਤ ਬਰਾਊਜ਼ਿੰਗ
 home-cta-get-firefox = { -brand-name-firefox } ਲਵੋ
 home-product-pocket-articles = ਵੈੱਬ ਉੱਤੇ ਸਭ ਤੋਂ ਦਿਲਚਸਪ ਲੇਖ
-home-cta-get-pocket = { -brand-name-pocket } ਲਵੋ
 home-product-relay-hide-your = ਸਪੈਮਰਾਂ ਤੋਂ ਆਪਣੇ ਫ਼ੋਨ ਨੰਬਰ ਤੇ ਈਮੇਲਾਂ ਨੂੰ ਓਹਲੇ ਰੱਖੋ
 home-cta-get-relay = { -brand-name-relay } ਲਵੋ
 home-product-vpn-trust = ਤੁਹਾਡੇ ਭਰੋਸੇ ਦੇ ਕਾਬਲ VPN

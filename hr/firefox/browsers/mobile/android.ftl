@@ -33,6 +33,7 @@ mobile-android-no-need-to = Ne moraš otvoriti aplikaciju. Dodaj { -brand-name-f
 mobile-android-pin-videos-to = Prikvači videa na ekran
 mobile-android-pop-videos-out = Izdvoji videa s web stranica ili playera i prikvači ih na vrh ekrana mobitela. Gledaj ih dok pregledavaš web ili obavljaš druge zadatke. Zabavi se dok radiš druge poslove.
 mobile-android-about-mozilla = Informacije o { -brand-name-mozilla }
+# Obsolete string (expires 26-10-2025)
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } postoji kako bi izgradio internet kao javni resurs dostupan svima, jer vjerujemo da je otvoreno i besplatno bolje od zatvorenog i kontroliranog. Izrađujemo proizvode kao što su { -brand-name-firefox } i { -brand-name-pocket } kako bismo promicali izbor, transparentnost i kontrolu.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Stigni brže do cilja uz { -brand-name-firefox } za { -brand-name-android }

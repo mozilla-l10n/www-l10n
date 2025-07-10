@@ -45,8 +45,3 @@ firefox-products-mdn-plus = { -brand-name-mdn-plus }
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-download-thunderbird = Sider { -brand-name-thunderbird }
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-get-pocket = Awi-d { -brand-name-pocket }

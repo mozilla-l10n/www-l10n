@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } تہاݙیا
 misinformation-social-media-clean-desc = سوشل نیٹ ورک تہاݙے بارے وِچ ٻہوں کجھ ڄاݨدے ہن۔ ایندے علاوہ او ٹریکنگ پروٹیکشن دے باوجود اپݨے شیئر تے لائک بٹن دے نال اپݨے پلیٹ فارمز کنوں ٻاہر تہاکوں ٹریک کرݨ دے قابل ہن۔ بھانویں تہاݙے کول اکاؤنٹ نہ وی ہووے۔ { -brand-name-firefox } کیتے <a href="{ $container }"> { -brand-name-facebook-container } </a> ایں ڳالھ کوں یقینی بݨیندا ہے جو { -brand-name-facebook } تے { -brand-name-instagram } ایہ اتنی آسانی نال نہیں کر سڳدا، جیندے نال اشتہارات تے فروغ شدہ مواد دے ذریعے غلط معلومات ݙیکھݨ دے امکان کوں ہک واری ول نمایاں طور تے گھٹ کر ݙتا ویندا ہے۔
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } تہاکوں اینجھے مواد کوں ظاہر کرݨ وِچ مدد کریندا ہے جیڑھا تہاݙے وقت دے لائق ہے:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = جݙاں تساں اپݨے { -brand-name-firefox } براؤزر وِچ ہک نواں ٹیب کھولیسو، تاں تہاکوں <a href="{ $recommended }"> { -brand-name-pocket }</a> دے ذریعے تجویز کردہ مضمون نظر آوسن۔ { -brand-name-pocket } سفارشاں کرݨ کیتے تہاݙا کوئی وی ذاتی ڈیٹا استعمال نہیں کریندا۔ ایندے بجائے، مضمون ایپ دا استعمال کریندے ہوئے حقیقی لوکاں دے ذریعے تیار کیتے ویندے ہن۔ نویاں کہانیاں، زاویئے تے صلاحیں دریافت کرݨ دی صلاحیت غلط معلومات دے پھیلاؤ نال لڑݨ دا ہک طریقہ ہے۔ ودھیک تجویزاں حاصل کرݨ کیتے <a href="{ $pocket_hits }"> { -brand-name-pocket } نیوز لیٹر </a> کوں سبسکرائب کرو تے <a href="{ $pocket }"> { -brand-name-pocket } ڈاؤن لوڈ کرو۔ ایپ </a>
 misinformation-why-trust-firefox = { -brand-name-firefox } تے بھروسہ کیوں کروں؟
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

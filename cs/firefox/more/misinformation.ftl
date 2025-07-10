@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } pomáhá udr
 misinformation-social-media-clean-desc = Sociální sítě toho o vás vědí hodně. Navíc vás mohou sledovat i mimo své platformy pomocí tlačítek „Sdílet“ a „To se mi líbí“ i přes ochranu proti sledování – i když nemáte účet. Doplněk <a href="{ $container }">{ -brand-name-facebook-container }</a> pro { -brand-name-firefox(case: "acc") } zajišťuje, že to { -brand-name-facebook } a { -brand-name-instagram } nedokážou tak snadno, což opět značně snižuje pravděpodobnost zobrazení mylných informací prostřednictvím reklam a propagovaného obsahu.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } vám pomůže najít obsah, který stojí za váš čas:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Když v prohlížeči { -brand-name-firefox } otevřete nový panel, uvidíte články <a href="{ $recommended }">doporučované službou { -brand-name-pocket }</a>. K doporučování nepoužívá služba { -brand-name-pocket } žádné vaše osobní údaje. Místo toho jsou články vybírány skutečnými uživateli služby. Možnost objevovat nové příběhy, úhly pohledu a názory je jedním ze způsobů, jak bojovat proti šíření mylných informací. Chcete-li dostávat ještě více doporučení, přihlaste se k odběru <a href="{ $pocket_hits }">zpravodaje služby { -brand-name-pocket }</a> a stáhněte si <a href="{ $pocket }">aplikaci { -brand-name-pocket }</a>.
 misinformation-why-trust-firefox = Proč věřit { -brand-name-firefox(case: "dat") }
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

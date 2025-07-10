@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox }-i ju ndihmon
 misinformation-social-media-clean-desc = Rrjetet shoqërore dinë shumë për ju. Plus, janë në gjendje t’ju ndjekin jashtë platformave të veta, me butonat e tyre “Ndajeni me të tjerë” dhe “Pëlqejeni”, pavarësisht Mbrojtjes Nga Gjurmimi — edhe kur s’keni një llogari në to. <a href="{ $container }">{ -brand-name-facebook-container }</a> për { -brand-name-firefox } siguron që { -brand-name-facebook } dhe { -brand-name-instagram } të mund të mos e bëjnë këtë kaq lehtë, çka edhe kjo ul goxha gjasat e parjes së keqinformimit përmes reklamash dhe lënde të sponsorizuar.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox }-i ju ndihmon të bini në kontakt me lëndë që e meriton kohën tuaj:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Kur hapni një skedë të re në shfletuesin tuaj { -brand-name-firefox }, do të shihni artikuj <a href="{ $recommended }">të rekomanduar nga { -brand-name-pocket }</a>. { -brand-name-pocket } s’përdor ndonjë të dhënë tuajën personale për të bërë rekomandime. Përkundrazi, artikujt janë përzgjedhur nga persona të njëmendtë që përdorin aplikacionin. Aftësia për të zbuluar artikuj të rinj, këndvështrime dhe opinione të reja, është një nga rrugët për të luftuar përhapjen e keqinformimit. Për të pasur edhe më shumë rekomandime, pajtohuni te <a href="{ $pocket_hits }">buletini i { -brand-name-pocket }</a> dhe shkarkoni <a href="{ $pocket }">aplikacionin { -brand-name-pocket }</a>.
 misinformation-why-trust-firefox = Pse t’i zihet besë { -brand-name-firefox }-it?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

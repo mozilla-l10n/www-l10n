@@ -29,6 +29,8 @@ mobile-ios-get-to-the-parts = අන්තර්ජාලයේ ඔබ සැල
 mobile-ios-find-it-all = සියල්ල ඉක්මනින් සොයන්න
 mobile-ios-get-search-suggestions = සෙවුම් තීරුව තුළින් සෙවුම් යෝජනා ලබාගෙන ඔබ නිතර ගොඩවදින අඩවි වෙත ඉක්මනින් ප්‍රවේශ වන්න. සෙවීමට අවශ්‍ය කාරණය ලිවීමෙන් පසු, ඔබගේ ප්‍රියතම සෙවුම් යන්ත්‍ර වෙතින් යෝජිත සහ කලින් සොයන ලද ප්‍රතිඵල ලබා ගන්න.
 mobile-ios-discover-more-of = ඔබ කැමති බොහෝ දෑ සොයා ගන්න
+# Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = ඔබ නිතර ගොඩවදින අඩවි, ඔබගේ මෑත පොත්යොමු සහ { -brand-name-pocket } හි ප්‍රචලිත ලිපි බැලීමට { -brand-name-firefox } හි නව පටිත්තක් විවෘත කරන්න. { -brand-name-firefox } භාවිතයෙන් ඔබ මෑත දී භාවිතා කරන ලද අඩවි වෙත ඉක්මනින් ප්‍රවේශ වීමට හැකිය.
 mobile-ios-about-mozilla = { -brand-name-mozilla } ගැන
+# Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = සැමට ප්‍රවේශ වීමට හැකි පොදු සම්පතක් අයුරින් අන්තර්ජාලය තැනීම සඳහා { -brand-name-mozilla } පවතී, මන්ද සංවෘත සහ පාලිත තත්‍වයකට වඩා විවෘත සහ නිදහස් බව යහපත් යැයි විශ්වාස කරන නිසාය. තෝරා ගැනීම, විනිවිදභාවය සහ පාලනය ප්‍රවර්ධනය කිරීම සඳහා { -brand-name-firefox } සහ { -brand-name-pocket } වැනි නිෂ්පාදන ගොඩනඟන්නෙමු.

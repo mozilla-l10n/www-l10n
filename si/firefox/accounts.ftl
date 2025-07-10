@@ -14,4 +14,3 @@ firefox-accounts-manage = ගිණුම කළමනාකරණය
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
-firefox-accounts-pocket = { -brand-name-pocket }

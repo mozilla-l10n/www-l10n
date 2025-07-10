@@ -11,6 +11,5 @@ moz-account-promo-title = Ét login. <br> <span { $class }>Til hele</span> { -br
 moz-account-already-have-v2 = Har du allerede en konto? <a { $sign_in_url }>Log ind</a> eller <a { $learn_more_url }>læs mere</a> om at være en del af { -brand-name-mozilla }.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
-moz-account-product-pocket = { -brand-name-pocket }
 moz-account-product-vpn = { -brand-name-mozilla-vpn }
 moz-account-product-relay = { -brand-name-relay }

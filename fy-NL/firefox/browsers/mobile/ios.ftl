@@ -29,6 +29,8 @@ mobile-ios-get-to-the-parts = Gean flugger nei de dielen fan it ynternet dy’t 
 mobile-ios-find-it-all = Fyn alles flugger
 mobile-ios-get-search-suggestions = Untfang syksuggestjes yn de sykbalke en krij fluch tagong ta de websites dy’t jo it meast besykje. Typ jo sykfraach en ûntfang foarstelde en earder opsochte resultaten yn jo favorite sykmasinen.
 mobile-ios-discover-more-of = Untdek mear fan wêr’t jo fan hâlde
+# Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = Iepenje in nij ljepblêd yn { -brand-name-firefox } om de websites dy’t jo it meast besykje, jo resinte blêdwizers en populêre artikelen yn { -brand-name-pocket } te sjen. { -brand-name-firefox } biedt jo flugge tagong ta jo meast resint brûkte websites om jo te helpen flugger te kommen wêr’t jo hinne wolle.
 mobile-ios-about-mozilla = Oer { -brand-name-mozilla }
+# Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } bestiet om it ynternet te bouwen as in iepenbiere boarne dy’t foar elkenien tagonklik is, omdat wy leauwe dat iepen en fergees better is as sluten en kontrolearre. Wy bouwe produkten as { -brand-name-firefox } en { -brand-name-pocket } om kar, transparânsje en oanstjoeren te befoarderjen.

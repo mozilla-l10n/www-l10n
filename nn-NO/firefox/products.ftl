@@ -43,9 +43,3 @@ firefox-products-support-mdn = Støtt { -brand-name-mdn }
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-download-thunderbird = Last ned { -brand-name-thunderbird }
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content-v2 = Oppdag det beste innhaldet på nettet — og konsumer det kvar og når du vil. Laga av { -brand-name-mozilla }.
-firefox-products-get-pocket = Hent { -brand-name-pocket }

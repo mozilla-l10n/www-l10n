@@ -11,6 +11,5 @@ moz-account-promo-title = ہک لاگ ان، <br> <span { $class }>ہر شئے</
 moz-account-already-have-v2 = پہلے کنوں ہی کھاتہ ہے؟<a { $sign_in_url }> سائن ان تھیوو</a> یا { -brand-name-mozilla }نال شامل تھیوݨ بارے <a { $learn_more_url }> ٻیا سکھو</a>۔
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
-moz-account-product-pocket = { -brand-name-pocket }
 moz-account-product-vpn = { -brand-name-mozilla-vpn }
 moz-account-product-relay = { -brand-name-relay }

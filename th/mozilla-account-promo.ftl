@@ -11,6 +11,5 @@ moz-account-promo-title = เข้าสู่ระบบเพียงคร
 moz-account-already-have-v2 = มีบัญชีอยู่แล้วใช่หรือไม่? <a { $sign_in_url }>ลงชื่อเข้า</a>หรือ<a { $learn_more_url }>เรียนรู้เพิ่มเติม</a>เกี่ยวกับการเข้าร่วม { -brand-name-mozilla }
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
-moz-account-product-pocket = { -brand-name-pocket }
 moz-account-product-vpn = { -brand-name-mozilla-vpn }
 moz-account-product-relay = { -brand-name-relay }

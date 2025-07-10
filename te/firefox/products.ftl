@@ -26,7 +26,3 @@
 
 ## Thunderbird
 
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }

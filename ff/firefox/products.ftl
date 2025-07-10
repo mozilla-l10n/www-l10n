@@ -27,8 +27,3 @@ firefox-products-check-for-breaches = Ƴeewto ciigol keɓe
 
 ## Thunderbird
 
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-get-pocket = Heɓ { -brand-name-pocket }

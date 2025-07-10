@@ -33,6 +33,7 @@ mobile-android-no-need-to = Non è necessario aprire l’app. Aggiungi il widget
 mobile-android-pin-videos-to = Appunta i video sul tuo schermo
 mobile-android-pop-videos-out = Estrai i video da siti web e lettori multimediali, appuntali nella parte superiore dello schermo del telefono per guardarli mentre navighi sul Web e fai altre cose. Divertiti mentre lavori in multitasking.
 mobile-android-about-mozilla = Informazioni su { -brand-name-mozilla }
+# Obsolete string (expires 26-10-2025)
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } esiste per contribuire alla crescita di Internet come risorsa pubblica accessibile a tutti, perché crediamo che un Web aperto e gratuito sia meglio di uno chiuso e controllato. Realizziamo prodotti come { -brand-name-firefox } e { -brand-name-pocket } per promuovere la possibilità di scelta, la trasparenza e il controllo da parte degli utenti.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = { -brand-name-firefox } per { -brand-name-android }, la tua scorciatoia su Internet

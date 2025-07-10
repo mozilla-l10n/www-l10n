@@ -16,7 +16,6 @@ home-mozilla-makes-privacy = { -brand-name-mozilla } makket produkten dy’t pri
 home-product-firefox-browsing = Privee en feilich sneupe
 home-cta-get-firefox = { -brand-name-firefox } downloade
 home-product-pocket-articles = De meast yntrigearjende artikelen fan it web
-home-cta-get-pocket = { -brand-name-pocket } brûke
 home-product-relay-hide-your = Ferstopje jo telefoannûmer en e-mailadres foar spammers
 home-cta-get-relay = { -brand-name-relay } downloade
 home-product-vpn-trust = In VPN wêrop jo fertrouwe kinne

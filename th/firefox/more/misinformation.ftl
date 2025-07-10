@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } ช่วย
 misinformation-social-media-clean-desc = เครือข่ายสังคมออนไลน์นั้นรู้จักตัวคุณเป็นอย่างดี และยังสามารถติดตามตัวคุณได้นอกเหนือจากแพลตฟอร์มของตนเองผ่านปุ่ม “แบ่งปัน” และ “ถูกใจ” แม้จะมีการป้องกันการติดตาม และแม้ว่าคุณจะไม่มีบัญชีก็ตาม <a href="{ $container }">{ -brand-name-facebook-container }</a> สำหรับ { -brand-name-firefox } จะช่วยให้แน่ใจว่า { -brand-name-facebook } และ { -brand-name-instagram } ไม่สามารถทำสิ่งนี้ได้อย่างง่ายดาย ซึ่งจะช่วยลดโอกาสที่ข้อมูลที่ผิดพลาดจะปรากฎผ่านโฆษณาและเนื้อหาที่โปรโมตได้อย่างมาก
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } ช่วยให้คุณค้นพบเนื้อหาที่คุ้มค่ากับเวลาของคุณ:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = เมื่อคุณเปิดแท็บใหม่ในเบราว์เซอร์ { -brand-name-firefox } คุณจะเห็นบทความที่<a href="{ $recommended }">แนะนำโดย { -brand-name-pocket }</a> { -brand-name-pocket } จะไม่ใช้ข้อมูลส่วนตัวของคุณในการให้คำแนะนำเหล่านี้ แต่บทความจะถูกคัดสรรโดยบุคคลจริงที่ใช้แอป ความสามารถในการค้นพบเรื่องราว มุมมอง และความคิดเห็นใหม่ๆ ถือเป็นวิธีหนึ่งในการต่อสู้กับการแพร่กระจายข้อมูลที่ผิดพลาด ถ้าต้องการคำแนะนำเพิ่มเติม โปรดสมัครรับ<a href="{ $pocket_hits }">จดหมายข่าว { -brand-name-pocket }</a> และดาวน์โหลด<a href="{ $pocket }">แอป { -brand-name-pocket }</a>
 misinformation-why-trust-firefox = ทำไมคุณถึงไว้ใจ { -brand-name-firefox } ได้?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

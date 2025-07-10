@@ -11,6 +11,5 @@ moz-account-promo-title = One login. <br> <span { $class }>Everything</span> { -
 moz-account-already-have-v2 = Already have an account? <a { $sign_in_url }>Sign in</a> or <a { $learn_more_url }>learn more</a> about joining { -brand-name-mozilla }.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
-moz-account-product-pocket = { -brand-name-pocket }
 moz-account-product-vpn = { -brand-name-mozilla-vpn }
 moz-account-product-relay = { -brand-name-relay }

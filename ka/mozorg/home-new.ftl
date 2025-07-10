@@ -16,7 +16,6 @@ home-mozilla-makes-privacy = { -brand-name-mozilla } ქმნის პირ�
 home-product-firefox-browsing = პირადი და უსაფრთხო თვალიერება
 home-cta-get-firefox = გადმოწერეთ { -brand-name-firefox }
 home-product-pocket-articles = ცნობისმოყვარეობის აღმძვრელი სტატიები
-home-cta-get-pocket = გამოიყენეთ { -brand-name-pocket }
 home-product-relay-hide-your = დაფარეთ თქვენი ტელეფონის ნომერი და ელფოსტა სარეკლამოებისგან
 home-cta-get-relay = გამოცადეთ { -brand-name-relay }
 home-product-vpn-trust = VPN, რომელსაც ენდობით

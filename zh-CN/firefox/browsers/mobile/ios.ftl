@@ -29,6 +29,8 @@ mobile-ios-get-to-the-parts = 快速访问互联网中您最关心的内容。�
 mobile-ios-find-it-all = 搜索更迅捷
 mobile-ios-get-search-suggestions = 在搜索栏中获取搜索建议，并快速访问常用网站。输入要搜索的问题，即可在偏好的搜索引擎中获得建议和历史搜索结果。
 mobile-ios-discover-more-of = 发现更多您感兴趣的内容
+# Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = 在 { -brand-name-firefox } 中打开新标签页就能看到您最常访问的网站、最近的书签以及 { -brand-name-pocket } 上的热门文章。{ -brand-name-firefox } 还可让您快速访问最近访问过的网站。
 mobile-ios-about-mozilla = 关于 { -brand-name-mozilla }
+# Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } 致力于将互联网打造成人人皆可访问的公共资源，我们坚信开放和自由胜过封闭和受控。为此，我们开发了 { -brand-name-firefox } 和 { -brand-name-pocket } 等产品，以此拓宽用户选择权、提升产品透明度、保障用户控制权。

@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } adjuta a man
 misinformation-social-media-clean-desc = Le retes social sape multo re te. In ultra, illos es capace de traciar te ultra lor platteformas con lor buttones Share e Like, malgrado le Protection de traciamento e mesmo si tu non ha un conto. <a href="{ $container }">{ -brand-name-facebook-container }</a> pro { -brand-name-firefox } rende secur que { -brand-name-facebook } e { -brand-name-instagram } non lo pote facer assi facilemente, isto reduce ancora le probabilitate de vider information errate via avisos publicitari e contento promovite notabilemente.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } adjuta a presentar contento digne de tu tempore:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Quando tu aperi un nove scheda in tu navigator { -brand-name-firefox }, tu videra articulos <a href="{ $recommended }">recommendate per { -brand-name-pocket }</a>. { -brand-name-pocket } non usa ulle tu datos personal pro facer recommendationes. In vice, le articulos es curate per personas real qui usa le application. Le capacitate de discoperir nove historias, punctos de vista e opiniones es un maniera de combatter le diffusion de information errate. Pro obtener ancora plus recommendationes, subscribe te al <a href="{ $pocket_hits }">{ -brand-name-pocket } littera de novas</a> e discarga le <a href="{ $pocket }"> application { -brand-name-pocket }</a>.
 misinformation-why-trust-firefox = Perque fider in { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

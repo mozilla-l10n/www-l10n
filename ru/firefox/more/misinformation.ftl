@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } помога
 misinformation-social-media-clean-desc = Социальные сети много знают о вас. Кроме того, они могут отслеживать вас за пределами своих платформ с помощью кнопок «Поделиться» и «Нравится», несмотря на защиту от отслеживания, даже если у вас нет в них аккаунта. <a href="{ $container }">{ -brand-name-facebook-container }</a> для { -brand-name-firefox } гарантирует, что { -brand-name-facebook } и { -brand-name-instagram } не смогут сделать это так просто, что снова значительно снижает вероятность увидеть дезинформацию через рекламу и продвигаемое содержимое.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } поможет вам найти контент, достойный вашего внимания:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Открыв новую вкладку в браузере { -brand-name-firefox }, вы увидите статьи, <a href="{ $recommended }">рекомендованные { -brand-name-pocket }</a>. { -brand-name-pocket } не использует ваши личные данные для рекомендаций. Вместо этого статьи подбираются реальными людьми, использующими приложение. Возможность открывать для себя новые истории, взгляды и мнения — один из способов борьбы с распространением дезинформации. Чтобы получить ещё больше рекомендаций, подпишитесь на <a href="{ $pocket_hits }">рассылку { -brand-name-pocket }</a> и загрузите <a href="{ $pocket }">{ -brand-name-pocket }</a>.
 misinformation-why-trust-firefox = Почему { -brand-name-firefox } можно доверять?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

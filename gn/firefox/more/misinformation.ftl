@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } oipytyvõ ip
 misinformation-social-media-clean-desc = Opaite ava ñandutieta oikuaa heta mba’e ndehegui. Avei, nde rapykuehokuaa ijyképe pyendavusúgui ivotõnguéra Moherakuã ha Amoneĩ rupi jepémo ñemo’ã jehapykueho rovake, ndererekóiramo jepe mba’ete umi pyendavusúpe. <a href="{ $container }">{ -brand-name-facebook-container }</a> { -brand-name-firefox } peg̃uarãva omoneĩ { -brand-name-facebook } ha { -brand-name-instagram } ndojapóivo hasy’ỹre, omomichĩve jeýva, tuichaháicha, marandu vai ñemurã rupive ha tetepy momarandupyre.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } ne pytyvõta ohechauka tetepy ojogueraháva nde aravo ndive:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Embojurujávo tendayke pyahu ne kundahára { -brand-name-firefox }, ehecháta jehaipyre <a href="{ $recommended }">oikuave’ẽva { -brand-name-pocket }</a>. { -brand-name-pocket } ndoiporúi mba’ekuaarã nde rehegua oikuave’ẽ hag̃ua. Hendaguépe, umi jehaipyre oiporavo tapicha oiporúva pe tembiporu’i. Pe katupyry ojuhu hag̃ua tembiasakue pyahu, jehecha ha ñe’ẽngue ha’e mba’éichapa oñorairõta ani hag̃ua osẽ marandu japuguáva. Eguerekove hag̃ua ñekuave’ẽ, eñemboheraguapy <a href="{ $pocket_hits }">jehaipyre’i { -brand-name-pocket }</a> ndive ha emboguejy <a href="{ $pocket }">{ -brand-name-pocket }</a>.
 misinformation-why-trust-firefox = ¿Mba’ére ejeroviáta { -brand-name-firefox } rehe?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

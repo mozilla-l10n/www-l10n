@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } допома
 misinformation-social-media-clean-desc = Суспільні мережі багато про вас знають. Крім того, вони можуть стежити за вами по за своїми платформами за допомогою своїх кнопок Поділитися та Вподобати, попри захист від стеження — навіть якщо у вас немає облікового запису. <a href="{ $container }">{ -brand-name-facebook-container }</a> для { -brand-name-firefox } гарантує, що для { -brand-name-facebook } та { -brand-name-instagram } це буде ускладнено, що знову ж таки зменшує ймовірність побачити хибну інформацію за допомогою реклами та рекламованого вмісту.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } допомагає вам переглядати вміст, вартий вашого часу:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Коли ви відкриваєте нову вкладку у своєму браузері { -brand-name-firefox }, ви побачите статті, <a href="{ $recommended }">рекомендовані { -brand-name-pocket }</a>. { -brand-name-pocket } не використовує жодних ваших особистих даних для надання рекомендацій. Натомість статті готують справжні люди, які користуються програмою. Здатність знаходити нові історії, точки зору та думки — це один зі способів боротися з поширенням хибної інформації. Щоб отримати ще більше рекомендацій, підпишіться на <a href="{ $pocket_hits }"> бюлетень { -brand-name-pocket }</a> і завантажте <a href="{ $pocket }">програму { -brand-name-pocket }</a>.
 misinformation-why-trust-firefox = Чому варто довіряти { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

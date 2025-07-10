@@ -52,9 +52,3 @@ firefox-products-support-mdn = 支持 { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = 用这款疾如惊雷的应用，一站式查看您的所有邮件、日历、联系人，并按照您的需要来筛选和整理项目。
 firefox-products-download-thunderbird = 下载 { -brand-name-thunderbird }
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content-v2 = 发现网络中最佳的内容，随时随地为自己“充电”。由 { -brand-name-mozilla } 倾力打造。
-firefox-products-get-pocket = 获取 { -brand-name-pocket }

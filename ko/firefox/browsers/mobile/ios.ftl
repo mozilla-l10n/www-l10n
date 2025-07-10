@@ -29,6 +29,8 @@ mobile-ios-get-to-the-parts = 관심 있는 인터넷에 더 빠르게 접근하
 mobile-ios-find-it-all = 모든 것을 더 빠르게 찾으세요
 mobile-ios-get-search-suggestions = 검색창에 추천 검색어를 표시하고 자주 방문하는 사이트에 더 빠르게 접속하세요. 검색할 질문을 입력하면 선호하는 검색 엔진들을 통해 추천 결과와 이전에 검색된 결과를 표시합니다.
 mobile-ios-discover-more-of = 여러분이 좋아하는 것을 더 많이 발견하세요
+# Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = { -brand-name-firefox }에서 새 탭을 열어 자주 방문하는 사이트, 최근 북마크와 { -brand-name-pocket }에서 인기있는 기사를 확인하세요. { -brand-name-firefox }는 가장 최근에 접속한 사이트에 빨리 접근할 수 있게 해서 원하는 위치에 더 빠르게 도달하도록 도와줍니다.
 mobile-ios-about-mozilla = { -brand-name-mozilla } 소개
+# Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla }는 개방과 자유가 폐쇄와 통제보다 낫다고 믿기에 인터넷을 모두가 자료에 접근할 수 있는 공간으로 만들고자 존재합니다. 선택권, 투명성, 그리고 제어권을 더 많이 보장받을 수 있도록 { -brand-name-firefox }와 { -brand-name-pocket }과 같은 제품을 만들고 있습니다.

@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = O { -brand-name-firefox } te ajuda a
 misinformation-social-media-clean-desc = Redes sociais sabem muito sobre você. Além disso, são capazes de te rastrear além das próprias plataformas com seus botões de Compartilhar e Curtir, apesar da proteção contra rastreamento, mesmo que você não tenha uma conta. O <a href="{ $container }">{ -brand-name-facebook-container }</a> do { -brand-name-firefox } garante que o { -brand-name-facebook } e o { -brand-name-instagram } não consigam fazer isso com tanta facilidade, o que reduz significativamente a probabilidade de aparecer informações falsas através de anúncios e conteúdo patrocinado.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = O { -brand-name-firefox } te ajuda a fazer aparecer conteúdo que é digno de seu tempo:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Ao abrir uma nova aba no seu navegador { -brand-name-firefox }, aparecem artigos <a href="{ $recommended }">recomendados pelo { -brand-name-pocket }</a>. O { -brand-name-pocket } não usa nenhum dos seus dados pessoais para fazer recomendações. Em vez disso, os artigos são selecionados por pessoas reais que usam o aplicativo. A habilidade de descobrir novas histórias, ângulos e opiniões é uma maneira de combater a disseminação de informações falsas. Para receber ainda mais recomendações, inscreva-se no <a href="{ $pocket_hits }">boletim informativo do { -brand-name-pocket }</a> e instale o <a href="{ $pocket }">aplicativo { -brand-name-pocket }</a>.
 misinformation-why-trust-firefox = Por que confiar no { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

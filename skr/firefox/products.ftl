@@ -52,9 +52,3 @@ firefox-products-support-mdn = سپورٹ { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = ہک تکھی ایپ وچ آپݨے سارے ای میل، کیلنڈراں تے رابطیاں تے رسائی حاصل کرو۔ انہاں کوں فلٹر کرو تے منظم کرو جین٘ویں تساں چاہندے ہو۔
 firefox-products-download-thunderbird = { -brand-name-thunderbird } ڈاؤن لوڈ کرو
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content-v2 = ویب تے بہترین مواد دریافت کرو — تے اونکوں جتھاں تے جݙاں چاہو استعمال کرو۔ { -brand-name-mozilla } دی طرفوں بݨیا۔
-firefox-products-get-pocket = { -brand-name-pocket } گھنو

@@ -27,8 +27,3 @@ firefox-products-relay = { -brand-name-firefox-relay }
 
 ## Thunderbird
 
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-get-pocket = קבלת { -brand-name-pocket }

@@ -11,6 +11,5 @@ moz-account-promo-title = Як воридшавӣ. <br> <span { $class }>Там�
 moz-account-already-have-v2 = Аллакай ҳисобе доред? <a { $sign_in_url }>Ворид шавед</a> ё <a { $learn_more_url }>маълумоти бештар</a> дар бораи ҳамроҳ шудан ба «{ -brand-name-mozilla }» гиред.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
-moz-account-product-pocket = { -brand-name-pocket }
 moz-account-product-vpn = { -brand-name-mozilla-vpn }
 moz-account-product-relay = { -brand-name-relay }

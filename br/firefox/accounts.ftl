@@ -30,4 +30,3 @@ firefox-accounts-get-it-all-on-every = Kavit pep tra war pep trevnad hep bezañ 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
-firefox-accounts-pocket = { -brand-name-pocket }

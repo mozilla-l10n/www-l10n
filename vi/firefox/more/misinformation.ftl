@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } giúp giữ 
 misinformation-social-media-clean-desc = Mạng xã hội biết rất nhiều về bạn. Ngoài ra, họ có thể theo dõi bạn ngoài nền tảng của họ bằng các nút Chia sẻ và Thích mặc dù Trình chống theo dõi — ngay cả khi bạn không có tài khoản. <a href="{ $container }">{ -brand-name-facebook-container }</a> dành cho { -brand-name-firefox } đảm bảo rằng { -brand-name-facebook } và { -brand-name-instagram } không thể làm điều này dễ dàng như vậy, điều này một lần nữa làm giảm đáng kể xác suất nhìn thấy thông tin sai lệch qua quảng cáo và nội dung được quảng bá.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } giúp bạn hiển thị nội dung xứng đáng với thời gian của bạn:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Khi bạn mở một thẻ mới trong trình duyệt { -brand-name-firefox } của mình, bạn sẽ thấy các bài viết <a href="{ $recommended }">được đề xuất bởi { -brand-name-pocket }</a>. { -brand-name-pocket } không sử dụng bất kỳ dữ liệu cá nhân nào của bạn để đưa ra đề xuất. Thay vào đó, các bài báo được quản lý bởi những người thực sử dụng ứng dụng. Khả năng khám phá những câu chuyện, góc độ và ý kiến mới là một cách để chống lại sự lan truyền của thông tin sai lệch. Để nhận được nhiều đề xuất hơn nữa, hãy đăng ký <a href="{ $pocket_hits }">bản tin { -brand-name-pocket }</a> và tải xuống <a href="{ $pocket }">ứng dụng { -brand-name-pocket }</a>.
 misinformation-why-trust-firefox = Tại sao tin tưởng { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

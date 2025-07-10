@@ -11,6 +11,5 @@ moz-account-promo-title = Jedno přihlášení. <br> <span { $class }>Celá</spa
 moz-account-already-have-v2 = Už máte účet? <a { $sign_in_url }>Přihlaste se</a>, nebo <a { $learn_more_url }>zjistěte více</a> o připojení do { -brand-name-mozilla(case: "gen") }.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
-moz-account-product-pocket = { -brand-name-pocket }
 moz-account-product-vpn = { -brand-name-mozilla-vpn }
 moz-account-product-relay = { -brand-name-relay }

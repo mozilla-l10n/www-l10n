@@ -33,6 +33,7 @@ mobile-android-no-need-to = ایپ کوں کھولݨ دی لوڑ کائنی۔ { 
 mobile-android-pin-videos-to = ویڈیوز کوں اپݨی سکرین تے پن کرو
 mobile-android-pop-videos-out = ویڈیوز کوں انہاں دیاں ویب سائٹاں یا پلیئرز کنوں ٻاہر کڈھو تے انہاں کوں اپݨے فون دی سکرین دے اوتلے حصے تے پن کرو تاں جو تساں ویب تے سرفنگ کریندے ویلھے تے ٻئے کام کریندے او۔ ملٹی ٹاسک کریندے ویلھے ووہاند اِچ رہو۔
 mobile-android-about-mozilla = { -brand-name-mozilla } دا تعارف
+# Obsolete string (expires 26-10-2025)
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } انٹرنیٹ کوں ہک عوامی وسائل دے طور تے بݨاوݨ کیتے موجود ہے جیڑھا سبھ کیتے قابل رسائی ہے کیوں جو اساں سمجھدے ہیں جو کھلا تے مفت بند تے کنٹرول کنوں بہتر ہے۔ اساں انتخاب، شفافیت تے کنٹرول کوں فروغ ݙیوݨ کیتے { -brand-name-firefox } تے { -brand-name-pocket } جیہاں بݨتراں بݨیندے ہن۔
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = { -brand-name-android } کیتے { -brand-name-firefox } دے نال انٹرنیٹ کوں شارٹ کرٹ کرو۔

@@ -11,7 +11,6 @@
 
 ## Products
 
-m24-home-pocket = { -brand-name-pocket }
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 ## Donate

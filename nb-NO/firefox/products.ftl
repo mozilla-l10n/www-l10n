@@ -28,8 +28,3 @@ firefox-products-check-for-breaches = Se etter datalekkasjer
 
 ## Thunderbird
 
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-get-pocket = Hent { -brand-name-pocket }

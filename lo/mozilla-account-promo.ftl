@@ -11,6 +11,5 @@ moz-account-promo-title = ຫນຶ່ງເຂົ້າສູ່ລະບົບ
 moz-account-already-have-v2 = ມີບັນຊີຢູ່ແລ້ວບໍ? <a { $sign_in_url }>ເຂົ້າສູ່ລະບົບ</a> ຫຼື <a { $learn_more_url }>ສຶກສາເພີ່ມເຕີມ</a> ກ່ຽວກັບການເຂົ້າຮ່ວມ { -brand-name-mozilla }.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
-moz-account-product-pocket = { -brand-name-pocket }
 moz-account-product-vpn = { -brand-name-mozilla-vpn }
 moz-account-product-relay = { -brand-name-relay }

@@ -11,6 +11,5 @@ moz-account-promo-title = Egy bejelentkezés. <br> <span { $class }>Minden</span
 moz-account-already-have-v2 = Már van felhasználói fiókja? <a { $sign_in_url }>Jelentkezzen be</a> vagy <a { $learn_more_url }>tudjon meg többet</a> a { -brand-name-mozilla(ending: "accented") }hoz való csatlakozásról
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
-moz-account-product-pocket = { -brand-name-pocket }
 moz-account-product-vpn = { -brand-name-mozilla-vpn }
 moz-account-product-relay = { -brand-name-relay }

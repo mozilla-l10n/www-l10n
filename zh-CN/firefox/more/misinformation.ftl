@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } 可帮助您
 misinformation-social-media-clean-desc = 社交网络十分了解您。即使您没有账户，它们也可以通过其“分享”和“赞”按钮在平台之外跟踪您，即使启用了“跟踪保护”功能也是如此。而 { -brand-name-firefox } 的 <a href="{ $container }">{ -brand-name-facebook-container }</a> 可有效遏制 { -brand-name-facebook } 和 { -brand-name-instagram } 的跟踪活动，进一步降低通过广告和推广内容看到错误信息的可能性。
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } 帮助您获取有价值的内容：
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = 当您用 { -brand-name-firefox } 浏览器打开新标签页时，会看到由 <a href="{ $recommended }">{ -brand-name-pocket }</a> 推荐的文章。{ -brand-name-pocket } 的推荐完全由人工策划，不会使用您的任何个人数据。发现新故事、新角度和新观点的能力对于遏制错误信息传播至关重要。若想获取更多推荐，请订阅 <a href="{ $pocket_hits }"> 新闻通讯</a>，并下载 <a href="{ $pocket }">{ -brand-name-pocket } 应用程序</a>。
 misinformation-why-trust-firefox = 凭什么相信 { -brand-name-firefox }？
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

@@ -16,7 +16,6 @@ home-mozilla-makes-privacy = { -brand-name-mozilla } gizliliğe saygı duyan ür
 home-product-firefox-browsing = Gizli ve güvenli gezinti
 home-cta-get-firefox = { -brand-name-firefox }’u indirin
 home-product-pocket-articles = İnternetteki en ilgi çekici yazılar
-home-cta-get-pocket = { -brand-name-pocket }’ı edinin
 home-product-relay-hide-your = Telefon numaranızı ve e-postanızı spam gönderenlerden gizleyin
 home-cta-get-relay = { -brand-name-relay }’i deneyin
 home-product-vpn-trust = Güvenebileceğiniz bir VPN

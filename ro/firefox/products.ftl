@@ -28,8 +28,3 @@ firefox-products-check-for-breaches = Caută încălcări ale securității date
 
 ## Thunderbird
 
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-get-pocket = Instalează { -brand-name-pocket }

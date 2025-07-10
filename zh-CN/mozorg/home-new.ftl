@@ -16,7 +16,6 @@ home-mozilla-makes-privacy = { -brand-name-mozilla } 致力打造隐私为先的
 home-product-firefox-browsing = 安全私密的浏览体验
 home-cta-get-firefox = 下载 { -brand-name-firefox }
 home-product-pocket-articles = 网络上引人入胜的文章
-home-cta-get-pocket = 获取 { -brand-name-pocket }
 home-product-relay-hide-your = 对别有用心之人隐藏电话号码和邮箱地址
 home-cta-get-relay = 获取 { -brand-name-relay }
 home-product-vpn-trust = 值得信赖的 VPN

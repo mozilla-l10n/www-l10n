@@ -33,8 +33,3 @@ firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } ගන්න
 
 ## Thunderbird
 
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-get-pocket = { -brand-name-pocket } ගන්න

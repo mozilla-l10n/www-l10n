@@ -35,4 +35,3 @@ firefox-accounts-read-in-a = קריאה במרחב שקט ופרטי
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser(case: "a") }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
-firefox-accounts-pocket = { -brand-name-pocket }

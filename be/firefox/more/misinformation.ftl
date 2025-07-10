@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } дапама
 misinformation-social-media-clean-desc = Сацыяльныя сеткі ведаюць пра вас шмат. Акрамя таго, яны могуць сачыць за вамі па-за межамі сваіх платформаў з дапамогай кнопак «Падзяліцца» і «Падабаецца», нягледзячы на ахову ад сачэння — нават калі ў вас няма ўліковага запісу. <a href="{ $container }">{ -brand-name-facebook-container }</a> для { -brand-name-firefox } гарантуе, што { -brand-name-facebook } і { -brand-name-instagram } не могуць зрабіць гэта так проста, што зноў жа значна зніжае імавернасць убачыць дэзынфармацыю праз рэкламу і рэкламаванае змесціва.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } дапамагае знайсці кантэнт, які варты вашага часу:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Калі вы адкрыеце новую картку ў сваім браўзеры { -brand-name-firefox }, вы ўбачыце артыкулы, <a href="{ $recommended }">рэкамендаваныя { -brand-name-pocket }</a>. { -brand-name-pocket } не выкарыстоўвае вашы асабістыя звесткі, каб даць рэкамендацыі. Замест гэтага артыкулы падбіраюцца рэальнымі людзьмі, якія карыстаюцца праграмай. Здольнасць адкрываць новыя гісторыі, ракурсы і меркаванні — адзін са спосабаў барацьбы з распаўсюджаннем дэзынфармацыі. Каб атрымаць яшчэ больш рэкамендацый, падпішыцеся на <a href="{ $pocket_hits }">рассылку { -brand-name-pocket }</a> і сцягніце <a href="{ $pocket }">праграму { -brand-name-pocket }</a>.
 misinformation-why-trust-firefox = Чаму варта давяраць { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

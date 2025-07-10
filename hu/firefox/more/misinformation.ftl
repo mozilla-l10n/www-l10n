@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = A { -brand-name-firefox } segít a k
 misinformation-social-media-clean-desc = A közösségi hálózatok sokat tudnak Önről. Ráadásul a Követés elleni védelem ellenére, a Megosztás és Tetszik gombjaikkal a platformjukon kívül is nyomon tudják Önt követni – még akkor is, ha nincs is fiókja. A { -brand-name-firefox }hoz elérhető <a href="{ $container }">{ -brand-name-facebook-container }</a> kiegészítő eléri azt, hogy a { -brand-name-facebook } és az { -brand-name-instagram } ne tudja ezt olyan könnyen megtenni, amely szintén csökkenti annak a valószínűségét, hogy félrevezető információt tartalmazó reklámokat és szponzorált tartalmakat lásson.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = A { -brand-name-firefox } segít felszínre hozni az olyan tartalmakat, melyekre megéri időt szánni:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Amikor új lapot nyit meg a { -brand-name-firefox } böngészőben, akkor megjelennek a <a href="{ $recommended }">{ -brand-name-pocket } által ajánlott</a> cikkek. A { -brand-name-pocket } semmilyen személyes adatot nem használ az ajánlásokhoz. Ehelyett a cikkeket valódi emberek készítik, az alkalmazás használatával. Az új történetek, nézőpontok és vélemények felfedezésének képessége a félrevezető információk terjedése elleni küzdelem egyik módja. Ha még több ajánlást szeretne kapni, iratkozzon fel a <a href="{ $pocket_hits }">{ -brand-name-pocket } hírlevélre</a>, és töltse le a <a href="{ $pocket }"> { -brand-name-pocket } alkalmazást</a>.
 misinformation-why-trust-firefox = Miért bízzon a { -brand-name-firefox(case: "inessive") }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

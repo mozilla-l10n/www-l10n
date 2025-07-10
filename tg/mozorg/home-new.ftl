@@ -16,7 +16,6 @@ home-mozilla-makes-privacy = «{ -brand-name-mozilla }» маҳсулотеро 
 home-product-firefox-browsing = Бознигарии хусусӣ ва бехатар
 home-cta-get-firefox = «{ -brand-name-firefox }»-ро ба даст оред
 home-product-pocket-articles = Мақолаҳои шавқовартарин аз саросари Интернет
-home-cta-get-pocket = «{ -brand-name-pocket }»-ро ба даст оред
 home-product-relay-hide-your = Рақами телефон ва нишонии почтаи электронии худро аз ҳамлакунандагон пинҳон намоед
 home-cta-get-relay = «{ -brand-name-relay }»-ро ба даст оред
 home-product-vpn-trust = Ба ин «VPN» шумо метавонед бовар кунед

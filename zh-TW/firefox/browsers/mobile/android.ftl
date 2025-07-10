@@ -33,6 +33,7 @@ mobile-android-no-need-to = 無須開啟應用程式。安裝 { -brand-name-fire
 mobile-android-pin-videos-to = 將影片釘選在螢幕上
 mobile-android-pop-videos-out = 將影片從網站或播放器中彈出來，放在手機畫面最上層播放，讓您可以一邊上網，一邊做其他事。在多工工作時也能同時觀賞娛樂內容。
 mobile-android-about-mozilla = 關於 { -brand-name-mozilla }
+# Obsolete string (expires 26-10-2025)
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } 致力於將網際網路打造為任何人都可以使用的公共資源，因為我們相信：自由與開放，總比封閉、受控制好。我們打造 { -brand-name-firefox } 與 { -brand-name-pocket } 等產品來推廣不同選擇、透明、並能自行控制的產品。
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = 使用 { -brand-name-firefox } for { -brand-name-android } 抄捷徑，快速上網

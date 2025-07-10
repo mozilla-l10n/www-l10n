@@ -50,8 +50,3 @@ firefox-products-support-mdn = { -brand-name-mdn } ਨੂੰ ਸਹਿਯੋਗ 
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-download-thunderbird = { -brand-name-thunderbird } ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-get-pocket = { -brand-name-pocket } ਲਵੋ

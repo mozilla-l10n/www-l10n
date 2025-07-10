@@ -28,8 +28,3 @@ firefox-products-check-for-breaches = Ke'akanoj taq tz'ilanem
 
 ## Thunderbird
 
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-get-pocket = Tik'ul { -brand-name-pocket }

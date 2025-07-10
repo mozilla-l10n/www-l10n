@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } helpt jo de 
 misinformation-social-media-clean-desc = Sosjale netwurken witte in protte oer jo. Dêrneist kinne se jo bûten harren platfoarm folgje mei harren ‘Diele’- en ‘Mei-ik-wol-oer’-knoppen, nettsjinsteande Beskerming tsjin folgjen – sels as jo gjin account hawwe. De <a href="{ $container }">{ -brand-name-facebook-container }</a> foar { -brand-name-firefox } soarget derfoar dat { -brand-name-facebook } en { -brand-name-instagram } dit net sa ienfâldich dwaan kinne, wat de kâns op it sjen fan misynformaasje fia advertinsjes en promoate ynhâld sichtber lytser makket.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } helpt jo ynhâld te ûntdekken dy’t jo tiid wurdich is:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = As jo in nij ljepblêd yn jo { -brand-name-firefox }-browser iepenje, sjogge jo artikelen <a href="{ $recommended }">dy’t oanrekommandearre wurde troch { -brand-name-pocket }</a>. { -brand-name-pocket } makket gjin gebrûk fan jo persoanlike gegevens om oanrekommandaasjs te dwaan. Yn stee dêrfan wurde de artikelen gearstald troch echte minsken dy’t de app brûke. De mooglikheid om nije ferhalen, ynfalshoeken en mieningen te ûntdekken is in manier om de fersprieding fan misynformaasje tsjin te gean. Abonnearje jo op de <a href="{ $pocket_hits }">{ -brand-name-pocket }-nijsbrief</a> en download de <a href="{ $pocket }">{ -brand-name-pocket }-app</a> foar noch mear oanrekommandaasjes.
 misinformation-why-trust-firefox = Wêrom kinne jo { -brand-name-firefox } fertrouwe?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

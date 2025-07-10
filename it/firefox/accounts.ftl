@@ -38,4 +38,3 @@ firefox-accounts-get-it-all-on-every = Tutto ciò che ti serve sempre disponibil
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser(capitalization: "uppercase") }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
-firefox-accounts-pocket = { -brand-name-pocket }

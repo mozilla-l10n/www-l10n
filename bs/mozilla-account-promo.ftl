@@ -11,6 +11,5 @@ moz-account-promo-title = Jedna prijava. <br> <span { $class }>Sve</span> { -bra
 moz-account-already-have-v2 = Već imate račun? <a { $sign_in_url }>Prijavite se</a> ili <a { $learn_more_url }>saznajte više</a> o pridruživanju { -brand-name-mozilla }i.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
-moz-account-product-pocket = { -brand-name-pocket }
 moz-account-product-vpn = { -brand-name-mozilla-vpn }
 moz-account-product-relay = { -brand-name-relay }

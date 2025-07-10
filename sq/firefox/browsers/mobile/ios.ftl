@@ -29,6 +29,8 @@ mobile-ios-get-to-the-parts = Shkoni më shpejt te pjesët e internetit që keni
 mobile-ios-find-it-all = Gjejeni gjithçka më shpejt
 mobile-ios-get-search-suggestions = Merrni sugjerime kërkimi te shtylla e kërkimeve dhe kaloni shpejt te sajtet që vizitoni më shpesh. Shtypni pyetjen tuaj për kërkim dhe merrni përfundime të sugjeruara dhe të mëparshme kërkimi në motorët tuaj të parapëlqyer të kërkimit.
 mobile-ios-discover-more-of = Zbuloni më tepër nga ato që doni
+# Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = Hapni një skedë të re te { -brand-name-firefox }-i që të shihni sajtet që vizitoni më tepër, shfletuesit tuaj të fundit dhe artikuj popullorë në { -brand-name-pocket }. { -brand-name-firefox }-i ju jep hyrje të shpejtë te sajtet tuaj më të përdorur, për t’ju ndihmuar të arrini më shpejt atje ku po shkonit.
 mobile-ios-about-mozilla = Rreth { -brand-name-mozilla }-s
+# Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } ekziston për të ndërtuar Internetin si një burim publik i hapur për të gjithë, ngaqë besojmë se i hapur dhe i lirë është më i mirë se sa i mbyllur de i kontrolluar. Krijojmë produkte të tillë si { -brand-name-firefox }-i dhe { -brand-name-pocket }-i, që të promovojmë zgjedhjen, transparencën dhe kontrollin.

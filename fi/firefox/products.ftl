@@ -52,9 +52,3 @@ firefox-products-support-mdn = Tue { -brand-name-mdn }:ää
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Käytä kaikkia sähköpostitilejä, kalentereita ja yhteystietoja yhdessä nopeassa sovelluksessa. Suodata ja järjestä ne haluamallasi tavalla.
 firefox-products-download-thunderbird = Lataa { -brand-name-thunderbird }
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content-v2 = Löydä verkon paras sisältö – ja käytä sitä missä ja milloin haluat. { -brand-name-mozilla }n tekemä.
-firefox-products-get-pocket = Hanki { -brand-name-pocket }

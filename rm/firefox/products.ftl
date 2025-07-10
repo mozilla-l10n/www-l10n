@@ -52,9 +52,3 @@ firefox-products-support-mdn = Sustegna { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Acceda a tut tes e-mails, chalenders e contacts en ina svelta app. Filtrescha ed organisescha tut sco ti prefereschas.
 firefox-products-download-thunderbird = Telechargiar { -brand-name-thunderbird }
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content-v2 = Scuvra il meglier cuntegn dal web – e profitescha dad el nua e cura ch’i saja. Creà da { -brand-name-mozilla }.
-firefox-products-get-pocket = Va per { -brand-name-pocket }

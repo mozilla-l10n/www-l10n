@@ -11,6 +11,5 @@ moz-account-promo-title = Yksi kirjautuminen. <br> <span { $class }>Kaikki</span
 moz-account-already-have-v2 = Onko sinulla jo tili? <a { $sign_in_url }>Kirjaudu sisään</a> tai <a { $learn_more_url }>lue lisää</a> { -brand-name-mozilla }an liittymisestä.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
-moz-account-product-pocket = { -brand-name-pocket }
 moz-account-product-vpn = { -brand-name-mozilla-vpn }
 moz-account-product-relay = { -brand-name-relay }

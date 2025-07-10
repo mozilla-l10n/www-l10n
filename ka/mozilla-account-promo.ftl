@@ -11,6 +11,5 @@ moz-account-promo-title = ერთი შესვლა. <br> <span { $class }
 moz-account-already-have-v2 = უკვე გაქვთ ანგარიში? <a { $sign_in_url }>შედით</a> ან <a { $learn_more_url }>იხილეთ ვრცლად</a>, როგორ შემოუერთდეთ { -brand-name-mozilla }-ს.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
-moz-account-product-pocket = { -brand-name-pocket }
 moz-account-product-vpn = { -brand-name-mozilla-vpn }
 moz-account-product-relay = { -brand-name-relay }

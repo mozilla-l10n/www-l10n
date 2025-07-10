@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } ຊ່ວຍ
 misinformation-social-media-clean-desc = ເຄືອຂ່າຍສັງຄົມຮູ້ກ່ຽວກັບທ່ານຫຼາຍ. ນອກຈາກນັ້ນ, ພວກເຂົາສາມາດຕິດຕາມທ່ານນອກເວທີຂອງພວກເຂົາດ້ວຍປຸ່ມ Share ແລະ Like ຂອງພວກເຂົາເຖິງວ່າຈະມີການປົກປ້ອງການຕິດຕາມ - ເຖິງແມ່ນວ່າທ່ານບໍ່ມີບັນຊີ. <a href="{ $container }">{ -brand-name-facebook-container }</a> ສໍາລັບ { -brand-name-firefox } ໃຫ້ແນ່ໃຈວ່າ { -brand-name-facebook } ແລະ { -brand-name-instagram } ບໍ່ສາມາດເຮັດໄດ້ງ່າຍດັ່ງນັ້ນ, ເຊິ່ງອີກເທື່ອຫນຶ່ງຫຼຸດຜ່ອນຄວາມເປັນໄປໄດ້ຂອງການເຫັນຂໍ້ມູນທີ່ບໍ່ຖືກຕ້ອງຜ່ານການໂຄສະນາແລະເນື້ອຫາໂຄສະນາຢ່າງຫຼວງຫຼາຍ.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } ຊ່ວຍໃຫ້ທ່ານສະແດງເນື້ອຫາທີ່ເຫມາະສົມກັບເວລາຂອງທ່ານ:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = ເມື່ອທ່ານເປີດແຖບໃໝ່ໃນໂປຣແກຣມທ່ອງເວັບ { -brand-name-firefox } ຂອງທ່ານ, ທ່ານຈະເຫັນບົດຄວາມ <a href="{ $recommended }">ແນະນຳໂດຍ { -brand-name-pocket }</a>. { -brand-name-pocket } ບໍ່ໄດ້ໃຊ້ຂໍ້ມູນສ່ວນຕົວຂອງເຈົ້າເພື່ອແນະນຳ. ແທນທີ່ຈະ, ບົດຄວາມແມ່ນ curated ໂດຍຄົນທີ່ແທ້ຈິງທີ່ໃຊ້ app ໄດ້. ຄວາມສາມາດໃນການຄົ້ນພົບເລື່ອງໃຫມ່, ມຸມ, ແລະຄວາມຄິດເຫັນແມ່ນວິທີຫນຶ່ງທີ່ຈະຕໍ່ສູ້ກັບການແຜ່ກະຈາຍຂອງຂໍ້ມູນທີ່ບໍ່ຖືກຕ້ອງ. ເພື່ອໄດ້ຮັບການແນະນຳເພີ່ມເຕີມ, ໃຫ້ສະໝັກຮັບຈົດໝາຍຂ່າວ <a href="{ $pocket_hits }">{ -brand-name-pocket }</a> ແລະດາວໂຫຼດ <a href="{ $pocket }">{ -brand-name-pocket } ແອັບ</a>.
 misinformation-why-trust-firefox = ເປັນຫຍັງເຊື່ອ { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

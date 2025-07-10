@@ -33,6 +33,7 @@ mobile-android-no-need-to = Nem kell megnyitnia az alkalmazást. Adja hozzá a {
 mobile-android-pin-videos-to = Rögzítsen videókat a képernyőjére
 mobile-android-pop-videos-out = Pattintsa ki a videókat a weboldalakból vagy lejátszókból, és tűzze őket a telefonja képernyőjére, hogy a web szörfölése és egyéb tevékenységek közben nézhesse azokat. Szórakoztassa magát, miközben más dolgokkal is foglalkozik.
 mobile-android-about-mozilla = A { -brand-name-mozilla(ending: "accented") }ról
+# Obsolete string (expires 26-10-2025)
 mobile-android-mozilla-exists-to = A { -brand-name-mozilla } azért létezik, hogy mindenki számára hozzáférhető nyilvános erőforrássá tegye az internetet, mert úgy gondoljuk, hogy a nyílt és szabad jobb, mint a zárt és ellenőrzött. Olyan termékeket építünk, mint a { -brand-name-firefox } és a { -brand-name-pocket }, hogy elősegítsük a felhasználói választást, az átláthatóságot és az irányítást.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Gyorsabb út az internethez a { -brand-name-firefox } for { -brand-name-android }dal

@@ -15,4 +15,3 @@ firefox-accounts-travel-the-internet = Wot i intanet ki gwoke, i nyonyo weng.
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
-firefox-accounts-pocket = { -brand-name-pocket }

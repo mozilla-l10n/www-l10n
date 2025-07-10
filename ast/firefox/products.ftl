@@ -27,8 +27,3 @@ firefox-products-check-for-breaches = Comprobar los arrampuñamientos
 
 ## Thunderbird
 
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-get-pocket = Consiguir { -brand-name-pocket }

@@ -11,6 +11,5 @@ moz-account-promo-title = Một lần đăng nhập. <br> <span { $class }>Có m
 moz-account-already-have-v2 = Đã có một tài khoản? <a { $sign_in_url }>Đăng nhập</a> hoặc <a { $learn_more_url }>tìm hiểu thêm</a> về cách tham gia { -brand-name-mozilla }.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
-moz-account-product-pocket = { -brand-name-pocket }
 moz-account-product-vpn = { -brand-name-mozilla-vpn }
 moz-account-product-relay = { -brand-name-relay }

@@ -29,6 +29,8 @@ mobile-ios-get-to-the-parts = Ta deg raskare til den delen av internett du bryr 
 mobile-ios-find-it-all = Finn alt raskare
 mobile-ios-get-search-suggestions = Få søkjeforslag i søkjefeltet og få rask tilgang til nettstadane du besøkjer mest. Skriv inn søket ditt og få føreslåtte og tidlegare søkjeresultat i favorittsøkjemotorane dine.
 mobile-ios-discover-more-of = Oppdag meir av det du likar
+# Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = Opne ei ny fane i { -brand-name-firefox } for å sjå nettstadar du besøkjer mest, siste bokmerka dine og populære artiklar i { -brand-name-pocket }. { -brand-name-firefox } gjev deg rask tilgang til dei siste brukte nettstadane dine, for kome raskare dit du skal.
 mobile-ios-about-mozilla = Om { -brand-name-mozilla }
+# Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } finst for å byggje internett som ein allmenn resurs som er tilgjengeleg for alle fordi vi trur at ope og gratis er betre enn stengt og kontrollert. Vi byggjer produkt som { -brand-name-firefox } og { -brand-name-pocket } for å fremje val, transparens og kontroll.

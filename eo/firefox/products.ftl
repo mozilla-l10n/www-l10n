@@ -28,7 +28,3 @@ firefox-products-check-for-breaches = Kontroli datumfuĝojn
 
 ## Thunderbird
 
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }

@@ -38,4 +38,3 @@ firefox-accounts-get-it-all-on-every = Obtenga todo en cada dispositivo, sin sen
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
-firefox-accounts-pocket = { -brand-name-pocket }

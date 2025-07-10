@@ -33,6 +33,7 @@ mobile-android-no-need-to = 앱을 열 필요가 없어요. { -brand-name-firefo
 mobile-android-pin-videos-to = 보던 영상을 화면에 고정하세요
 mobile-android-pop-videos-out = 웹 페이지를 탐색하거나 다른 일을 하는 동안 보던 영상을 웹사이트나 플레이어에서 꺼내 맨 앞에 고정해보세요. 멀티태스킹을 하는 동안 즐거움을 놓치지 마세요.
 mobile-android-about-mozilla = { -brand-name-mozilla } 소개
+# Obsolete string (expires 26-10-2025)
 mobile-android-mozilla-exists-to = { -brand-name-mozilla }는 개방과 자유가 폐쇄와 통제보다 낫다고 믿기에 인터넷을 모두가 자료에 접근할 수 있는 공간으로 만들고자 존재합니다. 선택권, 투명성, 그리고 제어권을 더 많이 보장받을 수 있도록 { -brand-name-firefox }와 { -brand-name-pocket }과 같은 제품을 만들고 있습니다.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = { -brand-name-android }용 { -brand-name-firefox }로 인터넷 바로가기

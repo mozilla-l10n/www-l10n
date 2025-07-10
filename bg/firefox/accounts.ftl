@@ -18,4 +18,3 @@ firefox-accounts-get-it-all-on-every = Вземете всички тези пр
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }
-firefox-accounts-pocket = { -brand-name-pocket }

@@ -52,9 +52,3 @@ firefox-products-support-mdn = ร่วมสนับสนุน { -brand-nam
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = เข้าถึงอีเมล ปฏิทิน และผู้ติดต่อทั้งหมดของคุณในแอปเดียวที่รวดเร็ว รวมทั้งกรองและจัดระเบียบในแบบที่คุณต้องการ
 firefox-products-download-thunderbird = ดาวน์โหลด { -brand-name-thunderbird }
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content-v2 = ค้นพบเนื้อหาที่ดีที่สุดบนเว็บและดื่มด่ำเนื้อหาทุกที่และทุกเวลาที่คุณต้องการ สร้างขึ้นโดย { -brand-name-mozilla }
-firefox-products-get-pocket = รับ { -brand-name-pocket }

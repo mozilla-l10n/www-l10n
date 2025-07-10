@@ -33,6 +33,7 @@ mobile-android-no-need-to = Nid oes angen agor yr ap. Ychwanegwch y teclyn chwil
 mobile-android-pin-videos-to = Piniwch fideos i'ch sgrin
 mobile-android-pop-videos-out = Agorwch fideos o'u gwefannau neu chwaraewyr a'u pinio i frig sgrin eich ffôn i'w gwylio wrth i chi syrffio'r we a gwneud pethau eraill. Difyrrwch wrth amldasgio.
 mobile-android-about-mozilla = Ynghylch { -brand-name-mozilla }
+# Obsolete string (expires 26-10-2025)
 mobile-android-mozilla-exists-to = Mae { -brand-name-mozilla } yn bodoli i adeiladu'r Rhyngrwyd fel adnodd cyhoeddus sy'n hygyrch i bawb am ein bod yn credu fod agored ac am ddim yn well na caeedig a rheoledig. Rydym yn adeiladu cynnyrch fel { -brand-name-firefox } a { -brand-name-pocket } i hyrwyddo dewis, tryloywder a rheolaeth.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Cyflymu'r rhyngrwyd gyda { -brand-name-firefox } { -brand-name-android }

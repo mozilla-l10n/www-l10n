@@ -52,9 +52,3 @@ firefox-products-support-mdn = Përkrahni { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Përdorni krejt email-et tuaj, kalendarët dhe kontaktet, që nga një aplikacion i shpejtë. Filtrojini dhe sistemojini si doni.
 firefox-products-download-thunderbird = Shkarkoni { -brand-name-thunderbird }-in
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content-v2 = Zbuloni lëndën më të mirë në internet — dhe përdoreni kudo dhe kurdo që doni. Ofruar nga { -brand-name-mozilla }.
-firefox-products-get-pocket = Merrni { -brand-name-pocket }-in

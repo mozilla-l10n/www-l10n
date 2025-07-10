@@ -16,7 +16,6 @@ home-mozilla-makes-privacy = { -brand-name-mozilla } lagar produkt som respekter
 home-product-firefox-browsing = Privat og sikker nettlesing
 home-cta-get-firefox = Last ned { -brand-name-firefox }
 home-product-pocket-articles = Nettets mest spennande artiklar
-home-cta-get-pocket = Hent { -brand-name-pocket }
 home-product-relay-hide-your = Skjul telefonnummeret ditt og eposten din frå spammarar
 home-cta-get-relay = Last ned { -brand-name-relay }
 home-product-vpn-trust = Eit VPN du kan stole på

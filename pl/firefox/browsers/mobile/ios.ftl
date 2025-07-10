@@ -29,6 +29,8 @@ mobile-ios-get-to-the-parts = Szybciej docieraj do tych części Internetu, na k
 mobile-ios-find-it-all = Znajduj wszystko szybciej
 mobile-ios-get-search-suggestions = Korzystaj z sugestii wyszukiwania w pasku wyszukiwania i szybko uzyskuj dostęp do najczęściej odwiedzanych witryn. Wpisz pytanie, a otrzymasz sugerowane i wcześniej wyszukiwane wyniki w ulubionych wyszukiwarkach.
 mobile-ios-discover-more-of = Odkryj więcej tego, co kochasz
+# Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = Otwórz nową kartę w { -brand-name-firefox }, aby zobaczyć witryny, które najczęściej odwiedzasz, ostatnie zakładki i popularne artykuły w { -brand-name-pocket }. { -brand-name-firefox } umożliwia szybki dostęp do ostatnio odwiedzanych witryn, dzięki czemu możesz szybciej dotrzeć do celu.
 mobile-ios-about-mozilla = O { -brand-name-mozilla(case: "loc") }
+# Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } istnieje, aby budować Internet jako zasób publiczny dostępny dla wszystkich, ponieważ wierzymy, że otwarty i wolny jest lepszy niż zamknięty i kontrolowany. Tworzymy produkty takie jak { -brand-name-firefox } i { -brand-name-pocket }, aby promować wybór, przejrzystość i kontrolę.

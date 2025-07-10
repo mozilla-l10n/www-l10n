@@ -11,6 +11,5 @@ moz-account-promo-title = Ien oanmelding. <br> <span { $class }>Alles</span> { -
 moz-account-already-have-v2 = Hawwe jo al in account? <a { $sign_in_url }>Oanmelde</a> of <a { $learn_more_url }>mear ynfo</a> oer meidwaan mei { -brand-name-mozilla }
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
-moz-account-product-pocket = { -brand-name-pocket }
 moz-account-product-vpn = { -brand-name-mozilla-vpn }
 moz-account-product-relay = { -brand-name-relay }

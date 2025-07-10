@@ -16,7 +16,6 @@ home-mozilla-makes-privacy = { -brand-name-mozilla } omoheñói apopyre omomba�
 home-product-firefox-browsing = Ñeikundaha iñemi ha hekorosãva
 home-cta-get-firefox = Erekóke { -brand-name-firefox }
 home-product-pocket-articles = Umi jehaipyre hesakã’ỹva ñandutípe
-home-cta-get-pocket = Erekóke { -brand-name-pocket }
 home-product-relay-hide-your = Eñomi pumbyry papapy ha ñanduti veve spammer-gui
 home-cta-get-relay = Erekóke { -brand-name-relay }
 home-product-vpn-trust = VPN ejeroviakuaaha

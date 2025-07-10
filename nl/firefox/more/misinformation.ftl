@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } helpt u de t
 misinformation-social-media-clean-desc = Sociale netwerken weten veel over u. Daarnaast kunnen ze u buiten hun platform volgen met hun ‘Delen’- en ‘Vind-ik-leuk’-knoppen, ondanks Bescherming tegen volgen – zelfs als u geen account hebt. De <a href="{ $container }">{ -brand-name-facebook-container }</a> voor { -brand-name-firefox } zorgt ervoor dat { -brand-name-facebook } en { -brand-name-instagram } dit niet zo eenvoudig kunnen doen, wat de kans op het zien van misinformatie via advertenties en gepromote inhoud aanzienlijk verkleint.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } helpt u inhoud te ontdekken die uw tijd waard is:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Als u een nieuw tabblad in uw { -brand-name-firefox }-browser opent, ziet u artikelen <a href="{ $recommended }">die worden aanbevolen door { -brand-name-pocket }</a>. { -brand-name-pocket } maakt geen gebruik van uw persoonlijke gegevens om aanbevelingen te doen. In plaats daarvan worden de artikelen samengesteld door echte mensen die de app gebruiken. De mogelijkheid om nieuwe verhalen, invalshoeken en meningen te ontdekken is een manier om de verspreiding van misinformatie tegen te gaan. Abonneer u op de <a href="{ $pocket_hits }">{ -brand-name-pocket }-nieuwsbrief</a> en download de <a href="{ $pocket }">{ -brand-name-pocket }-app</a> voor nog meer aanbevelingen.
 misinformation-why-trust-firefox = Waarom kunt u { -brand-name-firefox } vertrouwen?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

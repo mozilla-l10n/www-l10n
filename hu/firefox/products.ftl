@@ -52,9 +52,3 @@ firefox-products-support-mdn = Az { -brand-name-mdn } támogatása
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Érje el az összes e-mailjét, naptárát és névjegyét egy gyors alkalmazásban. Szűrje és rendszerezze őket ahogy szeretné.
 firefox-products-download-thunderbird = A { -brand-name-thunderbird } letöltése
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content-v2 = Fedezze fel a web legjobb tartalmait – és fogyassza bárhol és bármikor. A { -brand-name-mozilla } készítette.
-firefox-products-get-pocket = A { -brand-name-pocket } beszerzése

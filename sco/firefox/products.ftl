@@ -31,8 +31,3 @@ firefox-products-get-mozilla-vpn = Get { -brand-name-mozilla-vpn }
 
 ## Thunderbird
 
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-get-pocket = Get { -brand-name-pocket }

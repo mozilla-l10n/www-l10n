@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = O { -brand-name-firefox } ajuda a ma
 misinformation-social-media-clean-desc = As redes sociais têm um vasto conhecimento sobre si. Além disso, conseguem rastrear para além das respetivas plataformas através dos botões Partilhar e Gostar, mesmo com a Proteção contra o rastreamento — e isto acontece mesmo que não tenha uma conta. O <a href="{ $container }">{ -brand-name-facebook-container }</a> para { -brand-name-firefox } assegura que tanto o { -brand-name-facebook } como o { -brand-name-instagram } não consigam fazer isto tão facilmente o que, por sua vez, diminui consideravelmente a probabilidade de ser exposto a desinformação através de anúncios e de conteúdo promocional.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = O { -brand-name-firefox } ajuda a que possa descobrir conteúdos que mereçam o seu tempo:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Quando abre um novo separador no seu { -brand-name-firefox }, irá ver os artigos <a href="{ $recommended }">recomendados pelo { -brand-name-pocket }</a>. O { -brand-name-pocket } não utiliza quaisquer dos seus dados pessoais para recomendar. Em vez disso, os artigos são selecionados por pessoas reais que utilizam a aplicação. A capacidade para descobrir novas histórias, pontos de vista e opiniões é uma forma de lutar contra a distribuição da desinformação. Para obter ainda mais recomendações, subscreva o <a href="{ $pocket_hits }">boletim informativo do { -brand-name-pocket }</a> e transfira a <a href="{ $pocket }">aplicação { -brand-name-pocket }</a>.
 misinformation-why-trust-firefox = Porquê confiar no { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

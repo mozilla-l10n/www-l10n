@@ -28,8 +28,3 @@ firefox-products-check-for-breaches = Ստուգեք խախտումները
 
 ## Thunderbird
 
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-get-pocket = Ստանալ { -brand-name-pocket }-ը

@@ -30,8 +30,3 @@ firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } حاصل کریں
 
 ## Thunderbird
 
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-get-pocket = { -brand-name-pocket } حاصل کریں

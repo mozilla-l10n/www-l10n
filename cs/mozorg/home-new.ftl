@@ -16,7 +16,6 @@ home-mozilla-makes-privacy = { -brand-name-mozilla } vytváří produkty, které
 home-product-firefox-browsing = Soukromé a bezpečné prohlížení
 home-cta-get-firefox = Získat { -brand-name-firefox(case: "acc") }
 home-product-pocket-articles = Nejzajímavější články na webu
-home-cta-get-pocket = Získat { -brand-name-pocket(case: "acc") }
 home-product-relay-hide-your = Skryjte své telefonní číslo a e-mailovou adresu před spammery
 home-cta-get-relay = Získat { -brand-name-relay }
 home-product-vpn-trust = VPN, které můžete důvěřovat

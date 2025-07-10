@@ -52,9 +52,3 @@ firefox-products-support-mdn = Podpořte { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Získejte přístup ke všem e-mailům, kalendářům a kontaktům v jedné rychlé aplikaci. Filtrujte a uspořádejte si je podle svých představ.
 firefox-products-download-thunderbird = Stáhněte si { -brand-name-thunderbird }
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content-v2 = Objevte nejlepší obsah na webu a konzumujte ho kdekoli a kdykoli chcete. Od { -brand-name-mozilla(case: "gen") }.
-firefox-products-get-pocket = Získejte { -brand-name-pocket(case: "acc") }

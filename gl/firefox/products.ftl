@@ -28,8 +28,3 @@ firefox-products-check-for-breaches = Comprobar violacións
 
 ## Thunderbird
 
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-get-pocket = Obter { -brand-name-pocket }

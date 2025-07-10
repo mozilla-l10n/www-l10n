@@ -16,7 +16,6 @@ home-mozilla-makes-privacy = { -brand-name-mozilla } framleiðir hugbúnað sem 
 home-product-firefox-browsing = Persónuverndað og öruggt vafur á netinu
 home-cta-get-firefox = Fáðu þér { -brand-name-firefox }
 home-product-pocket-articles = Áhugaverðustu greinarnar á vefnum
-home-cta-get-pocket = Fáðu þér { -brand-name-pocket }
 home-product-relay-hide-your = Feldu símanúmerið þitt og tölvupóstfang fyrir ruslpóstssendendum
 home-cta-get-relay = Fáðu þér { -brand-name-relay }
 home-product-vpn-trust = VPN sem þú getur treyst

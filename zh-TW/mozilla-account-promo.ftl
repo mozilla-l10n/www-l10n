@@ -11,6 +11,5 @@ moz-account-promo-title = 一組帳號，<br> <span { $class }>一切都是</spa
 moz-account-already-have-v2 = 已經有帳號了嗎？<a { $sign_in_url }>在此登入</a>或<a { $learn_more_url }>在此了解</a>加入 { -brand-name-mozilla } 的更多資訊。
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
-moz-account-product-pocket = { -brand-name-pocket }
 moz-account-product-vpn = { -brand-name-mozilla-vpn }
 moz-account-product-relay = { -brand-name-relay }

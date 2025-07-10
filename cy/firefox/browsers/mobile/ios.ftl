@@ -29,6 +29,8 @@ mobile-ios-get-to-the-parts = Mynd i'ch hoff rannau o'r rhyngrwyd yn gynt. Dewis
 mobile-ios-find-it-all = Canfod popeth yn gynt
 mobile-ios-get-search-suggestions = Cael awgrymiadau chwilio yn y bar chwilio a chael mynediad i wefannau rydych yn ymweld â nhw amlaf, yn gyflym. Teipiwch eich cwestiwn chwilio, a chael canlyniadau a awgrymwyd ac a chwiliwyd yn flaenorol ar draws eich hoff beiriannau chwilio.
 mobile-ios-discover-more-of = Darganfyddwch fwy o'r hyn rydych chi'n ei hoffi
+# Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = Agorwch dab newydd yn { -brand-name-firefox } i weld y gwefannau rydych yn ymweld â nhw fwyaf, eich nodau tudalen diweddar a'ch erthyglau poblogaidd yn { -brand-name-pocket }. Mae { -brand-name-firefox } yn rhoi mynediad cyflym i chi i'ch gwefannau a ddefnyddiwyd yn fwyaf diweddar i'ch helpu chi i gyrraedd lle rydych yn mynd yn gyflymach.
 mobile-ios-about-mozilla = Ynghylch { -brand-name-mozilla }
+# Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = Mae { -brand-name-mozilla } yn bodoli i adeiladu'r Rhyngrwyd fel adnodd cyhoeddus sy'n hygyrch i bawb am ein bod yn credu fod agored ac am ddim yn well na caeedig a rheoledig. Rydym yn adeiladu cynnyrch fel { -brand-name-firefox } a { -brand-name-pocket } i hyrwyddo dewis, tryloywder a rheolaeth.

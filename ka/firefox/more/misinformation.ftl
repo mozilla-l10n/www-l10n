@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } გეხმ
 misinformation-social-media-clean-desc = სოციალურმა ქსელებმა ბევრი რამ იცის თქვენ შესახებ. ამასთანავე შეუძლია, თვალი გადევნოთ სხვა საიტებზეც გაზიარებისა და მოწონების ღილაკებით, თვალთვალისგან დაცვის მიუხედავად — ანგარიშის არქონის შემთხვევაშიც კი. <a href="{ $container }">{ -brand-name-facebook-container }</a> { -brand-name-firefox }-ის მეშვეობით, უზრუნველყოფს, რომ { -brand-name-facebook } და { -brand-name-instagram } ამას ადვილად ვეღარ ახერხებდეს, რაც თავისმხრივ მკვეთრად ამცირებს ალბათობას, იხილოთ ყალბი რეკლამები და დაფინანსებული მასალები.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } დაგეხმარებათ წინ წამოსწიოთ მასალა, რომელიც იმსახურებს თქვენს ყურადღებას:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = { -brand-name-firefox }-ბრაუზერის ჩანართის გახსნისას იხილავთ სტატიებს, რომელთაც <a href="{ $recommended }">გთავაზობთ { -brand-name-pocket }</a>. { -brand-name-pocket } არ იყენებს თქვენს პირად მონაცემებს ამ შემოთავაზებებისთვის. არამედ სტატიებს არჩევს ნამდვილი ხალხი აპლიკაციით. ახალი ამბების, თვალსაზრისების, შეხედულებების გაცნობა ერთ-ერთი გზაა ყალბი ამბების გავრცელების წინააღმდეგ საბრძოლველად. მეტი შემოთავაზებისთვის გამოიწერეთ <a href="{ $pocket_hits }">{ -brand-name-pocket }-ცნობარი</a> და ჩამოტვირთეთ <a href="{ $pocket }">{ -brand-name-pocket }-აპლიკაცია</a>.
 misinformation-why-trust-firefox = რატომაა სანდო { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

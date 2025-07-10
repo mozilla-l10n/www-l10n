@@ -29,7 +29,3 @@ firefox-products-get-mozilla-vpn = Tapout { -brand-name-mozilla-vpn }
 
 ## Thunderbird
 
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }

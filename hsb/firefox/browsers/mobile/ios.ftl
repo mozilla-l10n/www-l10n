@@ -29,6 +29,8 @@ mobile-ios-get-to-the-parts = Dóstańće so k dźělam interneta, za kotrež so
 mobile-ios-find-it-all = Spěšnišo namakać
 mobile-ios-get-search-suggestions = Dóstańće pytanske namjety w pytanskej lajsće a mějće spěšny přistup k sydłam, kotrež najčasćišo wopytujeće. Zapodajće swoje pytanske prašenje a dóstańće namjetowane a do toho pytane wuslědki w swojich najlubšich pytawach.
 mobile-ios-discover-more-of = Wokryjće wjace wo tym, štož so wam spodoba
+# Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = Wočińće nowy rajtark w { -brand-name-firefox }, zo byšće sej swoje najčasćišo wopytane sydła, swoje najnowše zapołožki a woblubowane nastawki w { -brand-name-pocket } wobhladał. { -brand-name-firefox } wam spěšny přistup k wašim njedawno wužitym sydłam skići, zo by wam pomhał, spěšnišo waš cil docpěć.
 mobile-ios-about-mozilla = Wo { -brand-name-mozilla }
+# Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } eksistuje, zo by internet jako wšěm přistupnu zjawnu resursu wuwiwał, dokelž sej myslimy, zo wotewrjeny a swobodny stej lěpšej hač zawrjeny a kontrolowany. Wuwiwamy produkty kaž { -brand-name-firefox } a { -brand-name-pocket }, zo bychmy wuběr, transparencu a kontrolu spěchowali.

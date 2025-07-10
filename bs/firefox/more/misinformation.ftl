@@ -41,12 +41,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } pomaže da v
 misinformation-social-media-clean-desc = Društvene mreže znaju mnogo o vama. Čak i ako nemate račun, one mogu da vas prate van platforme preko svojih „Dijeli“ i „Sviđa mi se“ tastera. <a href="{ $container }">{ -brand-name-facebook-container }</a> za { -brand-name-firefox } efektivno ograničava { -brand-name-facebook } i { -brand-name-instagram } da vas prate, što dodatno smanjuje vjerovatnoću uočavanja misinformacija kroz oglase i preporučen sadržaj.
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } vam pomaže da prikažete sadržaj koji je dostojan vašeg vremena:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Kada otvorite novi tab u { -brand-name-firefox } pretraživaču, videćete članke koje <a href="{ $recommended }">preporučuje { -brand-name-pocket }</a>. { -brand-name-pocket } ne koristi nijedan od vaših ličnih podataka za davanje preporuka. Umjesto toga, članke biraju drugi ljudi koji koriste aplikaciju. Sposobnost otkrivanja novih priča, perspektiva i mišljenja je ključna za borbu protiv širenja misinformacija. Za više preporuka, pretplatite se na <a href="{ $pocket_hits }">{ -brand-name-pocket } bilten</a> i preuzmite <a href="{ $pocket }">{ -brand-name-pocket } aplikaciju</a>.
 misinformation-why-trust-firefox = Zašto vjerovati { -brand-name-firefox }u?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
