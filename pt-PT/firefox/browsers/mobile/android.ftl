@@ -35,6 +35,7 @@ mobile-android-pop-videos-out = Destaque os vídeos dos seus sites ou reprodutor
 mobile-android-about-mozilla = Sobre a { -brand-name-mozilla }
 # Obsolete string (expires 26-10-2025)
 mobile-android-mozilla-exists-to = A { -brand-name-mozilla } existe para construir a Internet como um recurso público acessível a todos porque acreditamos que aberto e gratuito é melhor do que fechado e controlado. Construímos produtos como o { -brand-name-firefox } e o { -brand-name-pocket } para promover a escolha, transparência e controlo pessoal.
+mobile-android-mozilla-exists-to-v2 = A { -brand-name-mozilla } existe para construir a Internet como um recurso público acessível para todos, porque acreditamos que aberto e livre é melhor do que fechado e controlado. Nós construímos produtos como o { -brand-name-firefox } para promover a escolha, transparência e controlo pessoal.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Aceda à Internet mais rapidamente com o { -brand-name-firefox } para { -brand-name-android }
 mobile-android-see-all-your-open-tabs = Veja todos os seus separadores abertos, pesquisas recentes e sites favoritos, tudo num único sítio com o navegador { -brand-name-firefox } para { -brand-name-android }.

@@ -31,6 +31,8 @@ mobile-ios-get-search-suggestions = Nechte si v adresním řádku našeptávat v
 mobile-ios-discover-more-of = Objevte více toho, co se vám líbí
 # Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = Otevřete ve { -brand-name-firefox(case: "loc") } nový panel a uvidíte své nejčastěji navštěvované weby, nedávné záložky a oblíbené články ve službě { -brand-name-pocket }. { -brand-name-firefox } vám poskytuje rychlý přístup ke svým naposledy použitým stránkám, abyste se rychleji dostali tam, kam máte namířeno.
+mobile-ios-open-a-new-v2 = Otevřete si ve { -brand-name-firefox(case: "loc") } nový panel a podívejte se na nejčastěji navštěvované stránky a na nedávno přidané záložky. { -brand-name-firefox } vám poskytuje rychlý přístup k naposledy použitým stránkám, abyste se rychleji dostali tam, kam chodíte.
 mobile-ios-about-mozilla = O { -brand-name-mozilla(case: "loc") }
 # Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } je tu proto, aby se internet stal veřejným zdrojem přístupným všem, protože věříme, že otevřený a svobodný je lepší než uzavřený a regulovaný. Vytváříme produkty jako { -brand-name-firefox } a { -brand-name-pocket }, které podporují možnost volby, transparentnost a plnou kontrolu.
+mobile-ios-mozilla-exists-to-v2 = { -brand-name-mozilla } je tu proto, aby se internet stal veřejným zdrojem přístupným pro všechny, protože věříme, že otevřený a svobodný je lepší než uzavřený a kontrolovaný. Vytváříme produkty jako je { -brand-name-firefox } s cílem podporovat možnost volby, transparentnost a kontrolu.

@@ -31,6 +31,8 @@ mobile-ios-get-search-suggestions = Keresési javaslatokat kaphat a keresősávb
 mobile-ios-discover-more-of = Fedezzen fel többet abból, amit szeret
 # Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = Nyisson új lapot a { -brand-name-firefox(case: "inessive") }, hogy megtekinthesse a legtöbbet felkeresett webhelyeket, a legutóbbi könyvjelzőit és a népszerű cikkeket a { -brand-name-pocket }ben. A { -brand-name-firefox } gyors hozzáférést biztosít a legutóbb használt webhelyekhez, hogy gyorsabban elérje a célját.
+mobile-ios-open-a-new-v2 = Nyisson új lapot a { -brand-name-firefox }ban, hogy megtekinthesse a legtöbbet felkeresett webhelyeket, valamint a legutóbbi könyvjelzőit. A { -brand-name-firefox } gyors hozzáférést biztosít a legutóbb használt webhelyekhez, hogy gyorsabban elérje a célját.
 mobile-ios-about-mozilla = A { -brand-name-mozilla(ending: "accented") }ról
 # Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = A { -brand-name-mozilla } azért létezik, hogy mindenki számára hozzáférhető nyilvános erőforrássá tegye az internetet, mert úgy gondoljuk, hogy a nyílt és szabad jobb, mint a zárt és ellenőrzött. Olyan termékeket építünk, mint a { -brand-name-firefox } és a { -brand-name-pocket }, hogy elősegítsük a felhasználói választást, az átláthatóságot és az irányítást.
+mobile-ios-mozilla-exists-to-v2 = A { -brand-name-mozilla } azért létezik, hogy az internetet mindenki számára hozzáférhető nyilvános erőforrássá építse, mert hisszük, hogy a nyílt és szabad jobb, mint a zárt és ellenőrzött. Olyan termékeket készítünk, mint a { -brand-name-firefox }, hogy elősegítsük a választás lehetőségét, az átláthatóságot és az ellenőrzést.
