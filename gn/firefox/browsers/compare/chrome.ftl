@@ -9,6 +9,10 @@
 compare-chrome-firefox-vs-google-chrome = { -brand-name-firefox } vs Google Chrome
 # HTML page description
 compare-chome-read-our-comparison = Emoñe’ẽ ore kundahára mbojovake { -brand-name-firefox } ha Chrome hembiapoite rehegua, hekoñemi ha ndahasýi ijeporu.
+# Variables:
+# $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
+# $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
+compare-chrome-firefoxs-default-privacy-settings = Umi ñemigua moĩporã ñemboheko ijeheguíva { -brand-name-firefox } rehegua hekorosãve Chrome-gui, ha roguereko tembiapoiteve omboykekuaa hag̃ua ñanduti rogue nde rapykuehóva, ikatúva <a { $fingerprint }>kuãhũ jejoko</a>, avei moĩmbaha eiporavóva <a { $adblocker }>ñemurã jejoko</a>.
 compare-chrome-we-block-trackers-by-default = Rojoko tapykuehoha ijypykue rupi. Chrome ndojapói.
 compare-chrome-in-fact-by-default-chrome-monitors = Péicha, ijypykue rupi, Chrome ohapykueho mba’e kuatiaroguépepa eike ha ejapóva eikuaa hag̃ua “ñemurã rehegua” ha ombou hag̃ua ñemurã ndéve g̃uarãitéva. Ejokokuaa mbohapy téma, hákatu ndaikatúi ndohecháivo ñemurã rehegua ndéve g̃uarãva.
 compare-chrome-chrome-allows-other-websites-to = Chrome oheja ambue ñanduti rogue ombyatývo marandu nde rehegua ikatu hag̃ua ombohasa ñemurã. Ejokokuaa tendaita ani hag̃ua ombohasa ñemurã, hákatu ndaikatúi ejoko mba’ekuaarã ñembyaty térã ñemoñe’ẽ ambue tendágui.
