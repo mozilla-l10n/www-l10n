@@ -19,7 +19,6 @@ home-mozilla-makes-privacy = { -brand-name-mozilla } ऐसे उत्पा�
 home-product-firefox-browsing = प्राइवेट और सुरक्षित ब्राउज़िंग
 home-cta-get-firefox = { -brand-name-firefox } प्राप्त करें
 home-product-pocket-articles = वेब के सबसे दिलचस्प आर्टिकल
-home-cta-get-pocket = { -brand-name-pocket } प्राप्त करें
 
 home-product-relay-hide-your = अपने फ़ोन नंबर और ईमेल को स्पैमर से छिपाएं
 home-cta-get-relay = { -brand-name-relay } प्राप्त करें

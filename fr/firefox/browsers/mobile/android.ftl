@@ -45,6 +45,7 @@ mobile-android-pin-videos-to = Épingler des vidéos sur votre écran
 mobile-android-pop-videos-out = Extrayez des vidéos de leurs sites web ou de leurs lecteurs et épinglez-les en haut de l’écran de votre téléphone pour les regarder pendant que vous surfez sur le Web ou autre. Profitez-en pendant que vous effectuez d’autres tâches.
 
 mobile-android-about-mozilla = À propos de { -brand-name-mozilla }
+# Obsolete string (expires 26-10-2025)
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } existe pour faire d’Internet une ressource publique accessible à tous, car nous pensons qu’il vaut mieux être ouvert et libre que fermé et contrôlé. Nous construisons des produits comme { -brand-name-firefox } et { -brand-name-pocket } pour promouvoir le choix, la transparence et donner aux gens plus de contrôle sur leur vie en ligne.
 
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'

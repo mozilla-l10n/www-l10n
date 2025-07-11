@@ -54,9 +54,3 @@ firefox-products-support-mdn = { -brand-name-mdn } をサポート
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = 1 つの高速なアプリでメール、カレンダー、連絡先すべてにアクセス。好みの方法でフィルター処理したり整理したりできます。
 firefox-products-download-thunderbird = { -brand-name-thunderbird } をダウンロード
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content-v2 = ウェブ上のベストコンテンツを探し出して、好きな場所で、好きな時に閲覧しましょう。{ -brand-name-mozilla } が運営。
-firefox-products-get-pocket = { -brand-name-pocket } をダウンロード

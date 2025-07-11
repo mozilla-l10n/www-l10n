@@ -54,9 +54,3 @@ firefox-products-support-mdn = Sokonglah { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Akses e-mel, kalendar, dan butiran hubungan anda dalam satu aplikasi yang pantas. Saring dan susun mengikut kehendak anda.
 firefox-products-download-thunderbird = Muat turun { -brand-name-thunderbird }
-
-## Pocket
-
-firefox-products-pocket = { -brand-name-pocket }
-firefox-products-discover-the-best-content-v2 = Temui kandungan terbaik di laman web — dan gunakan ia di mana sahaja, bila-bila masa yang anda mahu. Dibangunkan oleh { -brand-name-mozilla }.
-firefox-products-get-pocket = Dapatkan { -brand-name-pocket }

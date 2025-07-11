@@ -18,5 +18,6 @@ whatsnew-signoff = <strong>{ -brand-name-mozilla } द्वारा संच�
 
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = कृपया { -brand-name-mozilla-foundation } को दान दें
+whatsnew-donate-to-mofo-v2 = { -brand-name-mozilla-foundation } को दान दें
 
 whatsnew-thanks-for-choosing = { -brand-name-firefox } को चुनने के लिए धन्यवाद

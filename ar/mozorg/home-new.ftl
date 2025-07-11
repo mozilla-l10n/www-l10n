@@ -19,7 +19,6 @@ home-mozilla-makes-privacy = تُقدم { -brand-name-mozilla } منتجات ت�
 home-product-firefox-browsing = تصفّح خاص وآمن
 home-cta-get-firefox = نزِّل متصفح { -brand-name-firefox }
 home-product-pocket-articles = مقالات أكثر إثارة للاهتمام على الإنترنت
-home-cta-get-pocket = نزِّل متصفح { -brand-name-pocket }
 
 home-product-relay-hide-your = إخفاء رقم هاتفك وبريدك الإلكتروني عن أعين مرسلي رسائل البريد العشوائي
 home-cta-get-relay = نزِّل متصفح { -brand-name-relay }

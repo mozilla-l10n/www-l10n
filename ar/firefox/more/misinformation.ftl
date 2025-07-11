@@ -47,13 +47,6 @@ misinformation-social-media-clean-desc = الشبكات الاجتماعية ت�
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = يُساعدك { -brand-name-firefox } في الاطّلاع على المحتوى الذي يستحق وقتك:
 
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = عندما تفتح علامة تبويب جديدة في متصفّح { -brand-name-firefox }، سترى المقالات <a href="{ $recommended }">المُقترحة من قِبل { -brand-name-pocket }</a>. لا يستخدم { -brand-name-pocket } أيًا من بياناتك الشخصية لتقديم مقترحات. وبدلاً من ذلك، يتم اختيار المقالات بواسطة أشخاص حقيقيين يستخدمون التطبيق. تُعد القدرة على اكتشاف قِصص وزوايا وآراء جديدة إحدى الطرق لمُحاربة انتشار المعلومات المغلوطة. للحصول على المزيد من الاقتراحات، اشترك في رسائل <a href="{ $pocket_hits }">{ -brand-name-pocket } الإخبارية</a> ونزّل تطبيق <a href="{ $pocket }">{ -brand-name-pocket }</a>.
-
 misinformation-why-trust-firefox = لماذا نثق في { -brand-name-firefox }؟
 
 # Variables:

@@ -13,6 +13,5 @@ moz-account-already-have-v2 = Vous avez déjà un compte ? <a { $sign_in_url }>
 
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
-moz-account-product-pocket = { -brand-name-pocket }
 moz-account-product-vpn = { -brand-name-mozilla-vpn }
 moz-account-product-relay = { -brand-name-relay }

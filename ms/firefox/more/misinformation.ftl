@@ -47,13 +47,6 @@ misinformation-social-media-clean-desc = Rangkaian sosial tahu banyak perkara te
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } membantu anda memaparkan kandungan yang berbaloi dengan masa anda:
 
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = Apabila anda membuka tab baru di pelayar { -brand-name-firefox } anda, anda akan melihat artikel yang dicadangkan oleh <a href="{ $recommended }">{ -brand-name-pocket }</a>. { -brand-name-pocket } tidak menggunakan apa-apa data peribadi anda untuk membuat cadangan. Sebaliknya, artikel tersebut dibuat oleh orang sebenar yang menggunakan aplikasi tersebut. Keupayaan untuk menerokai cerita, sudut pandangan dan pendapat baru ialah salah satu cara untuk memerangi penyebaran salah maklumat. Untuk mendapatkan lebih banyak cadangan, langgani <a href="{ $pocket_hits }">surat berita { -brand-name-pocket }</a> dan muat turun aplikasi <a href="{ $pocket }">{ -brand-name-pocket }</a>.
-
 misinformation-why-trust-firefox = Mengapa mempercayai { -brand-name-firefox }?
 
 # Variables:
