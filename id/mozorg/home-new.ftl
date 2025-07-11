@@ -19,7 +19,6 @@ home-mozilla-makes-privacy = { -brand-name-mozilla } membuat produk yang menghor
 home-product-firefox-browsing = Penjelajahan yang pribadi & aman
 home-cta-get-firefox = Dapatkan { -brand-name-firefox }
 home-product-pocket-articles = Artikel web yang paling menarik
-home-cta-get-pocket = Dapatkan { -brand-name-pocket }
 
 home-product-relay-hide-your = Sembunyikan nomor telepon dan email Anda dari spammer
 home-cta-get-relay = Dapatkan { -brand-name-relay }
