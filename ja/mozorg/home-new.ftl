@@ -19,7 +19,6 @@ home-mozilla-makes-privacy = { -brand-name-mozilla } は、プライバシーを
 home-product-firefox-browsing = プライバシーとセキュリティを守るブラウジング
 home-cta-get-firefox = { -brand-name-firefox } をダウンロード
 home-product-pocket-articles = ウェブで一番興味深い記事
-home-cta-get-pocket = { -brand-name-pocket } をダウンロード
 
 home-product-relay-hide-your = 電話番号とメールアドレスをスパム送信者から隠す
 home-cta-get-relay = { -brand-name-relay } をダウンロード
