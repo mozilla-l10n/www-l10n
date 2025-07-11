@@ -47,13 +47,6 @@ misinformation-social-media-clean-desc = सोशल नेटवर्क आ�
 # This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
 misinformation-surface-content-heading = { -brand-name-firefox } की सहायता से आप उस कंटेंट को देख सकते हैं, जो आपके समय का सही लाभ उठाएँ :
 
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-# Variables:
-#   $recommended (url) - link to https://support.mozilla.org/kb/customize-new-tab-page
-#   $pocket_hits (url) - link to https://getpocket.com/explore/pocket-hits-signup
-#   $pocket (url) - link to https://getpocket.com/
-misinformation-surface-content-desc = जब आप अपने { -brand-name-firefox } ब्राउज़र पर नया टैब खोलते हैं, तब आप <a href="{ $recommended }">{ -brand-name-pocket }</a> के द्वारा सुझाए लेख देखेंगे। { -brand-name-pocket } सुझाव देने के लिए आपके निजी डेटा का उपयोग नहीं करता। बल्कि, ये लेख ऐप का उपयोग करने वाले वास्तविक लोगों द्वारा लिखे जाते हैं। नई कहानियों, दृष्टिकोण और विचारों को खोज पाने की क्षमता गलत जानकारी को फैलने से रोकने के संघर्ष का एक तरीका हो सकती है। ऐसे अनुरोध अधिक मात्रा में पाने के लिए, <a href="{ $pocket_hits }">{ -brand-name-pocket }</a> घोषणापत्र सबस्क्राइब करें और<a href="{ $pocket }">{ -brand-name-pocket }</a> ऐप डाउनलोड करें।
-
 misinformation-why-trust-firefox = { -brand-name-firefox } पर क्यों विश्वास करें?
 
 # Variables:
