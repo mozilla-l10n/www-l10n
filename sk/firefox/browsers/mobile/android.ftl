@@ -35,6 +35,7 @@ mobile-android-pop-videos-out = Vytiahnite videá z ich webových stránok alebo
 mobile-android-about-mozilla = O { -brand-name-mozilla(case: "loc") }
 # Obsolete string (expires 26-10-2025)
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } existuje, aby budovala internet ako verejný zdroj prístupný všetkým, pretože veríme, že otvorený a bezplatný je lepší ako uzavretý a kontrolovaný. Vytvárame produkty ako { -brand-name-firefox } a { -brand-name-pocket } na podporu výberu, transparentnosti a kontroly.
+mobile-android-mozilla-exists-to-v2 = { -brand-name-mozilla } existuje, aby budovala internet ako verejný zdroj prístupný všetkým, pretože veríme, že otvorený a bezplatný je lepší ako uzavretý a kontrolovaný. Vytvárame produkty ako { -brand-name-firefox } na podporu možnosti výberu, transparentnosti a kontroly.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Skratka na internet s { -brand-name-firefox(case: "ins") } pre { -brand-name-android }
 mobile-android-see-all-your-open-tabs = Zobrazte všetky svoje otvorené karty, posledné vyhľadávania a obľúbené stránky na jednom mieste pomocou prehliadača { -brand-name-firefox } pre { -brand-name-android }.

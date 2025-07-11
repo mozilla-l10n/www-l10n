@@ -31,6 +31,8 @@ mobile-ios-get-search-suggestions = Získajte návrhy vyhľadávania na paneli v
 mobile-ios-discover-more-of = Objavte viac toho, čo máte radi
 # Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = Otvorte novú kartu vo { -brand-name-firefox(case: "loc") } a pozrite si stránky, ktoré najčastejšie navštevujete, svoje nedávne záložky a obľúbené články v službe { -brand-name-pocket }. { -brand-name-firefox } vám poskytuje rýchly prístup k vašim naposledy používaným stránkam, ktoré vám pomôžu rýchlejšie sa dostať tam, kam idete.
+mobile-ios-open-a-new-v2 = Otvorte novú kartu vo { -brand-name-firefox(case: "loc") } a pozrite si stránky, ktoré najčastejšie navštevujete či svoje nedávne záložky. { -brand-name-firefox } vám poskytuje rýchly prístup k vašim naposledy používaným stránkam, ktoré vám pomôžu rýchlejšie sa dostať tam, kam idete.
 mobile-ios-about-mozilla = O { -brand-name-mozilla(case: "loc") }
 # Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } existuje, aby budovala internet ako verejný zdroj prístupný všetkým, pretože veríme, že otvorený a bezplatný je lepší ako uzavretý a kontrolovaný. Vytvárame produkty ako { -brand-name-firefox } a { -brand-name-pocket } na podporu výberu, transparentnosti a kontroly.
+mobile-ios-mozilla-exists-to-v2 = { -brand-name-mozilla } existuje, aby budovala internet ako verejný zdroj prístupný všetkým, pretože veríme, že otvorený a bezplatný je lepší ako uzavretý a kontrolovaný. Vytvárame produkty ako { -brand-name-firefox } na podporu možnosti výberu, transparentnosti a kontroly.
