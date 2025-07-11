@@ -31,7 +31,7 @@ mobile-ios-get-search-suggestions = 在搜索栏中获取搜索建议，并快�
 mobile-ios-discover-more-of = 发现更多您感兴趣的内容
 # Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = 在 { -brand-name-firefox } 中打开新标签页就能看到您最常访问的网站、最近的书签以及 { -brand-name-pocket } 上的热门文章。{ -brand-name-firefox } 还可让您快速访问最近访问过的网站。
-mobile-ios-open-a-new-v2 = 在 { -brand-name-firefox } 中打开新标签页查看您最常访问的网站和最近的书签。 { -brand-name-firefox } 让您可以快速访问最近使用的网站帮助您更快地完成任务。
+mobile-ios-open-a-new-v2 = 在 { -brand-name-firefox } 中打开新标签页就能看到您最常访问的网站和最近的书签。{ -brand-name-firefox } 还可让您快速访问最近使用过的网站。
 mobile-ios-about-mozilla = 关于 { -brand-name-mozilla }
 # Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } 致力于将互联网打造成人人皆可访问的公共资源，我们坚信开放和自由胜过封闭和受控。为此，我们开发了 { -brand-name-firefox } 和 { -brand-name-pocket } 等产品，以此拓宽用户选择权、提升产品透明度、保障用户控制权。
