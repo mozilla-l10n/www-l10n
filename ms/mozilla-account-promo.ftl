@@ -13,6 +13,5 @@ moz-account-already-have-v2 = Sudah ada akaun? <a { $sign_in_url }>Daftar Masuk<
 
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
-moz-account-product-pocket = { -brand-name-pocket }
 moz-account-product-vpn = { -brand-name-mozilla-vpn }
 moz-account-product-relay = { -brand-name-relay }
