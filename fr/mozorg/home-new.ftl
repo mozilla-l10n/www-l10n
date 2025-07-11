@@ -19,7 +19,6 @@ home-mozilla-makes-privacy = { -brand-name-mozilla } conçoit des produits qui r
 home-product-firefox-browsing = Navigation privée et sécurisée
 home-cta-get-firefox = Installer { -brand-name-firefox }
 home-product-pocket-articles = Les articles les plus intrigants du Web
-home-cta-get-pocket = Installer { -brand-name-pocket }
 
 home-product-relay-hide-your = Masquez votre numéro de téléphone pour ne pas être importuné·e par des e-mails ou des appels téléphoniques non sollicités.
 home-cta-get-relay = Installer { -brand-name-relay }
