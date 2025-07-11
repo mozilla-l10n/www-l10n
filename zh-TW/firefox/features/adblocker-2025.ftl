@@ -17,7 +17,7 @@ features-adblocker-ad-blockers-work = 廣告封鎖器主要有兩種方式: 一�
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
-features-adblocker-using-an-adblocker = 使用廣告封鎖器很簡單。許多受信任的選項提供瀏覽器附加元件讓您很簡單就能找到符合您需求的解決方案。舉例來說<a href="{ $firefox }">{ -brand-name-firefox }</a> 提供了<a href="{ $addons }">通過審核的擴充套件</a>來改善尊重您的隱私的同時改善您的上網體驗。
+features-adblocker-using-an-adblocker = 使用廣告封鎖器很簡單。有許多受信任瀏覽器附加元件，您很簡單就能找到符合需求的解決方案。舉例來說 <a href="{ $firefox }">{ -brand-name-firefox }</a> 提供了<a href="{ $addons }">通過審核的擴充套件</a>在尊重您的隱私的同時，也改善您的上網體驗。
 features-adblocker-finding-the-right = 尋找最合適您的廣告封鎖器
 features-adblocker-there-are-many = 有許多廣告封鎖工具等您探索。每種工具都有能滿足不同偏好的功能。究竟哪套適合您，取決於您的需求與上網習慣。以下是一些您需要考慮的小秘訣：
 features-adblocker-tip-1 = <strong>封鎖廣告：</strong>若您只想要封鎖廣告，就選擇簡單輕量的選項。
@@ -26,7 +26,7 @@ features-adblocker-tip-3 = <strong>可自訂性：</strong>某些廣告封鎖器
 features-adblocker-tip-4 = <strong>裝置相容性：</strong>思考您需要的是桌面版、行動版，或兩者皆可使用。
 features-adblocker-tip-5 = <strong>封鎖惡意軟體：</strong>某些廣告封鎖器（例如 AdGuard）可保護您不受惡意廣告的影響。
 features-adblocker-tip-6 = <strong>家長控制：</strong>若您想要封鎖不適當的內容，就可以使用。
-features-adblocker-its-important-to-note = 需要注意的是某些網站會倚靠廣告來載入內容或提供功能。封鎖廣告可能會造成某些功能無法正常播放或是無法播放登入選項。選擇會定期更新的廣告封鎖器。若您覺得某套廣告封鎖器造成嚴重問題可以試試其他的以期在效能與相容性間找到更好的平衡。
+features-adblocker-its-important-to-note = 需要注意的是某些網站會倚靠廣告來載入內容或提供功能。封鎖廣告可能會造成某些功能無法正常播放或是無法播放登入選項。選擇會定期更新的廣告封鎖器。若您覺得某套廣告封鎖器造成嚴重問題，可以試試其他的封鎖氣，在效能與相容性間找到更好的平衡。
 features-adblocker-enhanced-privacy = 使用 { -brand-name-firefox } 加強隱私保護與效能
 features-adblocker-beyond-ad-blockers = 除了廣告封鎖器之外{ -brand-name-firefox } 還內建讓您可更自行控制上網行為的功能。這些工具可幫助保護您的隱私同時讓您可以自訂使用體驗:
 features-adblocker-tool-1 = <strong>標準模式：</strong>是一個平衡的選項，讓您可封鎖常見追蹤器，同時確保網站功能正常。

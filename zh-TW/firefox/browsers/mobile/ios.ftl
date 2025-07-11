@@ -31,8 +31,8 @@ mobile-ios-get-search-suggestions = 在搜尋列取得搜尋建議並快速開�
 mobile-ios-discover-more-of = 探索更多您喜愛的內容
 # Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = 使用 { -brand-name-firefox } 開啟新分頁，即可在 { -brand-name-pocket } 看到您最常造訪的網站、近期的書籤與熱門文章。{ -brand-name-firefox } 讓您可以快速開啟近期開啟過的網站，更快抵達想去的地方。
-mobile-ios-open-a-new-v2 = 於 { -brand-name-firefox } 開啟新分頁看看您最常造訪的網站與近期書籤。 { -brand-name-firefox } 讓您可以快速開啟最近開啟的網站讓您能更快抵達想去的地方。
+mobile-ios-open-a-new-v2 = 使用 { -brand-name-firefox } 開啟新分頁後，即可看到您最常造訪的網站、近期的書籤與熱門文章。{ -brand-name-firefox } 讓您可以快速開啟近期開啟過的網站，更快抵達想去的地方。
 mobile-ios-about-mozilla = 關於 { -brand-name-mozilla }
 # Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } 致力於將網際網路打造為任何人都可以使用的公共資源，因為我們相信：自由與開放，總比封閉、受控制好。我們打造 { -brand-name-firefox } 與 { -brand-name-pocket } 等產品來推廣不同選擇、透明、並能自行控制的產品。
-mobile-ios-mozilla-exists-to-v2 = { -brand-name-mozilla } 的存在就是為了將網際網路打造為任何人都可以使用的公共資源因為我們相信開放自由總比封閉受控制好。我們打造 { -brand-name-firefox } 等產品來推廣選擇、透明度與控制力。
+mobile-ios-mozilla-exists-to-v2 = { -brand-name-mozilla } 致力於將網際網路打造為任何人都可以使用的公共資源，因為我們相信：自由與開放，總比封閉、受控制好。我們打造 { -brand-name-firefox } 來推廣不同選擇、透明、並能自行控制的產品。

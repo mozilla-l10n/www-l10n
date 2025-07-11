@@ -35,7 +35,7 @@ mobile-android-pop-videos-out = 將影片從網站或播放器中彈出來，放
 mobile-android-about-mozilla = 關於 { -brand-name-mozilla }
 # Obsolete string (expires 26-10-2025)
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } 致力於將網際網路打造為任何人都可以使用的公共資源，因為我們相信：自由與開放，總比封閉、受控制好。我們打造 { -brand-name-firefox } 與 { -brand-name-pocket } 等產品來推廣不同選擇、透明、並能自行控制的產品。
-mobile-android-mozilla-exists-to-v2 = { -brand-name-mozilla } 的存在就是為了將網際網路打造為任何人都可以使用的公共資源因為我們相信開放自由總比封閉受控制好。我們打造 { -brand-name-firefox } 等產品來推廣選擇、透明度與控制力。
+mobile-android-mozilla-exists-to-v2 = { -brand-name-mozilla } 致力於將網際網路打造為任何人都可以使用的公共資源，因為我們相信：自由與開放，總比封閉、受控制好。我們打造 { -brand-name-firefox } 來推廣不同選擇、透明、並能自行控制的產品。
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = 使用 { -brand-name-firefox } for { -brand-name-android } 抄捷徑，快速上網
 mobile-android-see-all-your-open-tabs = 使用 { -brand-name-firefox } 瀏覽器 for { -brand-name-android } 來一次檢視您所有的分頁、近期搜尋紀錄與最愛網站。
