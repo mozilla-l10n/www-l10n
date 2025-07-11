@@ -22,6 +22,8 @@ mobile-android-search-your-own = Szukaj na swój sposób
 mobile-android-got-a-big = Masz duży telefon i normalne kciuki? Nie ma problemu. { -brand-name-firefox } dla { -brand-name-android(case: "gen") } pozwala przenieść pasek wyszukiwania z góry na dół, dzięki czemu łatwiej jest go używać jedną ręką. Możesz również wybrać własną wyszukiwarkę w przeglądarce i ustawić { -brand-name-firefox(case: "gen") } jako domyślną przeglądarkę, jeśli chcesz.
 mobile-android-save-power-with = Oszczędzaj energię dzięki trybowi ciemnemu
 mobile-android-switch-to-dark = Możesz w dowolnym momencie przełączyć się na tryb ciemny, aby zmniejszyć zmęczenie oczu i wydłużyć czas pracy baterii.
+mobile-android-easily-organize-your = Łatwe organizowanie kart
+mobile-android-got-lots-of = Masz dużo otwartych kart? Nie ma problemu, zorganizuj je w Kolekcje, aby pozostać na bieżąco. Kolekcje można również wysyłać na różne urządzenia, dzięki czemu możesz kontynuować przeglądanie tych samych rzeczy bez względu na to, jakiego urządzenia używasz.
 mobile-android-supercharge-firefox-with = Podkręć { -brand-name-firefox(case: "gen") } za pomocą dodatków
 mobile-android-addons-are-like = Dodatki to niewielkie, potężne narzędzia, które można dodać do przeglądarki, aby na przykład zwiększyć domyślne ustawienia prywatności lub zmodyfikować sposób korzystania z przeglądarki.
 mobile-android-pick-up-where = Kontynuuj tam, gdzie skończyłeś
@@ -33,6 +35,7 @@ mobile-android-pop-videos-out = Wyciągaj filmy ze ich stron internetowych lub o
 mobile-android-about-mozilla = O { -brand-name-mozilla(case: "loc") }
 # Obsolete string (expires 26-10-2025)
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } istnieje, aby budować Internet jako zasób publiczny dostępny dla wszystkich, ponieważ wierzymy, że otwarty i wolny jest lepszy niż zamknięty i kontrolowany. Tworzymy produkty takie jak { -brand-name-firefox } i { -brand-name-pocket }, aby promować wybór, przejrzystość i kontrolę.
+mobile-android-mozilla-exists-to-v2 = { -brand-name-mozilla } istnieje, aby budować Internet jako zasób publiczny dostępny dla wszystkich, ponieważ wierzymy, że otwarty i wolny jest lepszy niż zamknięty i kontrolowany. Tworzymy produkty takie jak { -brand-name-firefox }, aby promować wybór, przejrzystość i kontrolę.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Przeglądaj Internet na skróty z { -brand-name-firefox(case: "ins") } na { -brand-name-android(case: "gen") }
 mobile-android-see-all-your-open-tabs = Znajdź wszystkie otwarte karty, ostatnie wyszukiwania, zakładki i ulubione witryny w przeglądarce { -brand-name-firefox } dla { -brand-name-android(case: "gen") }.
