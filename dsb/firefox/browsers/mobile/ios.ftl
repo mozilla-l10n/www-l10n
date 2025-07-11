@@ -31,6 +31,8 @@ mobile-ios-get-search-suggestions = Dostańśo pytańske naraźenja w pytańskej
 mobile-ios-discover-more-of = Namakajśo wěcej wó tom, což se wam spódoba
 # Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = Wócyńśo nowy rejtarik w { -brand-name-firefox }, aby se swóje nejcesćej woglědane sedła, swóje nejnowše cytańske znamjenja a woblubowane nastawki w { -brand-name-pocket } woglědał. { -brand-name-firefox } wam malsny pśistup k wašym njedawno wužytym sedłam bitujo, aby wam pomagał, malsnjej waš cel dostaś.
+mobile-ios-open-a-new-v2 = Wócyńśo nowy rejtarik w { -brand-name-firefox }, aby se swóje nejcesćej woglědane sedła a swóje nejnowše cytańske znamjenja woglědał. { -brand-name-firefox } wam malsny pśistup k wašym njedawno wužytym sedłam bitujo, aby wam pomagał, malsnjej waš cel dostaś.
 mobile-ios-about-mozilla = Wó { -brand-name-mozilla }
 # Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } eksistěrujo, aby internet ako wšym pśistupnu zjawnu resursu wuwijał, dokulaž se myslimy, až wótwórjony a lichy stej lěpšej ako zastajony a kontrolěrowany. Wuwijamy produkty ako { -brand-name-firefox } a { -brand-name-pocket }, aby wuběrk, transparencu a kontrolu spěchowali.
+mobile-ios-mozilla-exists-to-v2 = { -brand-name-mozilla } eksistěrujo, aby internet ako wšym pśistupnu zjawnu resursu wuwijał, dokulaž se myslimy, až wótwórjony a lichy stej lěpšej ako zastajony a kontrolěrowany. Wuwijamy produkty ako { -brand-name-firefox }, aby wuběrk, transparencu a kontrolu spěchowali.
