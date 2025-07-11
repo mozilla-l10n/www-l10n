@@ -35,7 +35,7 @@ mobile-android-pop-videos-out = Agorwch fideos o'u gwefannau neu chwaraewyr a'u 
 mobile-android-about-mozilla = Ynghylch { -brand-name-mozilla }
 # Obsolete string (expires 26-10-2025)
 mobile-android-mozilla-exists-to = Mae { -brand-name-mozilla } yn bodoli i adeiladu'r Rhyngrwyd fel adnodd cyhoeddus sy'n hygyrch i bawb am ein bod yn credu fod agored ac am ddim yn well na caeedig a rheoledig. Rydym yn adeiladu cynnyrch fel { -brand-name-firefox } a { -brand-name-pocket } i hyrwyddo dewis, tryloywder a rheolaeth.
-mobile-android-mozilla-exists-to-v2 = Mae { -brand-name-mozilla } yn bodoli i adeiladu'r rhyngrwyd fel adnodd cyhoeddus sy'n hygyrch i bawb oherwydd credwn fod agored a rhad ac am ddim yn well na chaeedig a rheoledig. Rydym yn adeiladu cynhyrchion fel { -brand-name-firefox } i hybu dewis, tryloywder a rheolaeth.
+mobile-android-mozilla-exists-to-v2 = Mae { -brand-name-mozilla } yn bodoli i adeiladu'r rhyngrwyd fel adnodd cyhoeddus sy'n hygyrch i bawb oherwydd credwn fod agored a rhad ac am ddim yn well na chaeedig a rheoledig. Rydym yn adeiladu cynnyrch fel { -brand-name-firefox } i hybu dewis, tryloywder a rheolaeth.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Cyflymu'r rhyngrwyd gyda { -brand-name-firefox } { -brand-name-android }
 mobile-android-see-all-your-open-tabs = Gweld eich holl dabiau agored, chwilio diweddar a'ch hoff wefannau i gyd mewn un lle gyda phorwr { -brand-name-firefox } { -brand-name-android }.
