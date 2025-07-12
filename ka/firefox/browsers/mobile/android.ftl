@@ -34,7 +34,7 @@ mobile-android-pin-videos-to = მიამაგრეთ ვიდეოებ
 mobile-android-pop-videos-out = ამოაგდეთ ვიდეოები საიტიდან და დატოვეთ ეკრანზე მიმაგრებული, გვერდების თვალიერებისას ან სხვა რამის კეთებისას. გაერთეთ, სამუშაოს შესრულების დროსაც.
 mobile-android-about-mozilla = გაიცანით { -brand-name-mozilla }
 # Obsolete string (expires 26-10-2025)
-mobile-android-mozilla-exists-to = { -brand-name-mozilla } არსებობს იმისთვის, რომ ინტერნეტი გახადოს საყოველთად ხელმისაწვდომი საშუალება, ვინაიდან ჩვენ მიგვაჩნია, რომ ღია და თავისუფალი, ყოველთვის სჯობს დახურულსა და მართულს. რასაც ვქმნით, მათ შორის { -brand-name-firefox } და { -brand-name-pocket }, მიმართულია არჩევანის შესაძლებლობის, გამჭვირვალობისა და დამოუკიდებულობის ხელშეწყობისთვის.
+mobile-android-mozilla-exists-to = { -brand-name-mozilla } არსებობს იმისთვის, რომ ინტერნეტი გახადოს საყოველთაოდ ხელმისაწვდომი საშუალება, ვინაიდან ჩვენ მიგვაჩნია, რომ ღია და თავისუფალი ყოველთვის სჯობს დახურულსა და მართულს. რასაც ვქმნით, მათ შორის { -brand-name-firefox } და { -brand-name-pocket }, მიმართულია არჩევანის შესაძლებლობის, გამჭვირვალობისა და დამოუკიდებლობის ხელშეწყობისკენ.
 mobile-android-mozilla-exists-to-v2 = { -brand-name-mozilla } არსებობს იმისთვის, რომ ინტერნეტი გახდეს ყველასთვის ხელმისაწვდომ საჯარო რესურსად, ვინაიდან ჩვენ მიგვაჩნია, რომ გახსნილი და თავისუფალი სჯობს დახურულს და მართულს. ჩვენ ვქმნით მსგავს პროდუქტებს, როგორიცაა { -brand-name-firefox }, არჩევანის გაკეთების, გამჭვირვალობისა და მართვის ხელშესაწყობად.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = მოკლე გზებით იმოგზაურეთ ინტერნეტში { -brand-name-firefox } { -brand-name-android }-ით
