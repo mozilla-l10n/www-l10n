@@ -31,6 +31,8 @@ mobile-ios-get-search-suggestions = Obtene suggestiones in le barra de recerca e
 mobile-ios-discover-more-of = Discoperi plus de lo que tu ama
 # Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = Aperi un nove scheda in { -brand-name-firefox } pro vider le sitos que tu visita le plus, tu marcapaginas recente e articulos popular in { -brand-name-pocket }. { -brand-name-firefox } te da accesso rapide al sitos recentemente visitate pro adjutar te a arrivar plus rapidemente a tu destination.
+mobile-ios-open-a-new-v2 = Aperir un scheda nove in { -brand-name-firefox } pro vider le sitos que tu visita plus e tu recente marcapaginas. { -brand-name-firefox } te da accesso rapide al sitos recentemente visitate pro adjutar te a arrivar plus rapidemente a tu destination.
 mobile-ios-about-mozilla = A proposito de { -brand-name-mozilla }
 # Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } existe pro disveloppar Internet como un ressource public accessibile pro totes perque nos crede que un Internet aperte e libere es melior que un Internet clause e controlate. Nos construe productos como { -brand-name-firefox } e { -brand-name-pocket } pro promover election, transparentia e controlo.
+mobile-ios-mozilla-exists-to-v2 = { -brand-name-mozilla } existe pro disveloppar Internet como un ressource public accessibile pro totes perque nos crede que un Internet aperte e libere es melior que un Internet clause e controlate. Nos construe productos como { -brand-name-firefox } pro promover election, transparentia e controlo.
