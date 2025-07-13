@@ -35,6 +35,7 @@ mobile-android-pop-videos-out = Εξαγάγετε τα βίντεο από το
 mobile-android-about-mozilla = Σχετικά με τη { -brand-name-mozilla }
 # Obsolete string (expires 26-10-2025)
 mobile-android-mozilla-exists-to = Η { -brand-name-mozilla } υπάρχει για να αναπτύσσει το διαδίκτυο ως δημόσιο πόρο, προσβάσιμο σε όλους, επειδή πιστεύουμε ότι το ανοικτό και ελεύθερο είναι καλύτερο από το κλειστό και ελεγχόμενο. Δημιουργούμε προϊόντα όπως το { -brand-name-firefox } και το { -brand-name-pocket }, ώστε να προωθήσουμε την ελευθερία της επιλογής, τη διαφάνεια και την παραχώρηση του ελέγχου στον χρήστη.
+mobile-android-mozilla-exists-to-v2 = Η { -brand-name-mozilla } υπάρχει για να αναπτύσσει το διαδίκτυο ως δημόσιο πόρο, προσβάσιμο σε όλους, επειδή πιστεύουμε ότι το ανοικτό και ελεύθερο είναι καλύτερο από το κλειστό και ελεγχόμενο. Δημιουργούμε προϊόντα όπως το { -brand-name-firefox }, ώστε να προωθήσουμε την ελευθερία της επιλογής, τη διαφάνεια και την παραχώρηση του ελέγχου στον χρήστη.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Συντομεύσεις για το διαδίκτυο στο { -brand-name-firefox } για { -brand-name-android }
 mobile-android-see-all-your-open-tabs = Δείτε όλες τις ανοικτές καρτέλες, τις πρόσφατες αναζητήσεις και τους αγαπημένους σας ιστοτόπους σε ένα μέρος με το { -brand-name-firefox } για { -brand-name-android }.
