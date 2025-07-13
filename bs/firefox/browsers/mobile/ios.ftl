@@ -31,6 +31,8 @@ mobile-ios-get-search-suggestions = Dobijajte prijedloge u traci za pretragu i p
 mobile-ios-discover-more-of = Otkrijte više onoga što volite
 # Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = Otvorite novi { -brand-name-firefox } tab da vidite web stranice koje najčešće posjećujete, nedavne oznake i popularne { -brand-name-pocket } članke. { -brand-name-firefox } vam omogućava brz pristup web stranicama koje ste nedavno koristili kako bi brže došli do onoga što želite.
+mobile-ios-open-a-new-v2 = Otvorite novi tab u { -brand-name-firefox }u da biste vidjeli stranice koje najčešće posjećujete i svoje nedavno dodane zabilješke. { -brand-name-firefox } vam omogućava brz pristup stranicama koje ste nedavno koristili kako biste brže stigli tamo gdje želite.
 mobile-ios-about-mozilla = O { -brand-name-mozilla }
 # Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } postoji da izgradi Internet kao javni resurs dostupan svima jer vjerujemo da je otvoreno i besplatno bolje nego zatvoreno i kontrolisano.  Pravimo proizvode kao što su { -brand-name-firefox } i { -brand-name-pocket } da promovišemo izbor, transparentnost i kontrolu.
+mobile-ios-mozilla-exists-to-v2 = { -brand-name-mozilla } postoji kako bi izgradio internet kao javni resurs dostupan svima jer vjerujemo da je otvoreno i besplatno bolje od zatvorenog i kontrolisanog. Proizvode poput { -brand-name-firefox }a gradimo kako bismo promovirali izbor, transparentnost i kontrolu.
