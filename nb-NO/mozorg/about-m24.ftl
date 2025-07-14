@@ -66,7 +66,7 @@ m24-about-see-open-positions = Se ledige stillinger
 
 ## Community
 
-m24-about-community-love-v2 = Fellesskaps­kjærlighet, vår drivkraft
+m24-about-community-love-v2 = Fellesskaps&shy;kjærlighet, vår drivkraft
 m24-about-mozilla-is-a = { -brand-name-mozilla } er et globalt fellesskap av lidenskapelige frivillige, medarbeidere og bidragsytere som har bygget, beskyttet og formet internett sammen med oss siden 1998.
 m24-about-from-writing-code = Fra å skrive kode og oppdage feil til å kjempe for personvern og holde internett åpent for alle — medlemmene i fellesskapet vårt er ryggraden i alt vi gjør. Deres lidenskap og dedikasjon inspirerer oss hver dag.
 # Used as an accessible text alternative for an image

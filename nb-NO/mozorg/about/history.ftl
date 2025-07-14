@@ -6,6 +6,10 @@
 ### URL: https://www-dev.allizom.org/about/history/
 
 history-history-of-the-mozilla-project = Historien bak { -brand-name-mozilla }-prosjektet
+# Variables:
+#   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
+#   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
+history-the-mozilla-project-was = Prosjektet { -brand-name-mozilla } ble <a href="{ $coderush }">opprettet i 1998</a> med <a href="{ $sourcerelease }">utgivelsen av kildekoden til { -brand-name-netscape }-nettleserpakken</a>.
 history-it-was-intended-to-harness = Den var ment å utnytte den kreative kraften til tusenvis av programmerere på internett og gi næring til enestående nivåer av innovasjon i nettlesermarkedet.
 # Variables:
 #   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
