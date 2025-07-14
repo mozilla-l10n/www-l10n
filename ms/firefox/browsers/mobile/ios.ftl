@@ -42,7 +42,9 @@ mobile-ios-get-search-suggestions = Dapatkan cadangan carian pada bar carian dan
 mobile-ios-discover-more-of = Terokai apa jua yang anda kehendaki dengan lebih lagi
 # Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = Buka satu tab baru dalam { -brand-name-firefox } untuk pergi ke laman-laman yang anda sering layari, penanda halaman terkini dan artikel popular dalam { -brand-name-pocket }. { -brand-name-firefox } memberi anda akses pantas ke laman terakhir yang anda lawati untuk membantu anda meneroka dengan lebih pantas.
+mobile-ios-open-a-new-v2 = Buka tab baru menggunakan { -brand-name-firefox } untuk melihat laman yang sering anda kunjungi selain penanda buku yang terkini. { -brand-name-firefox } memberi anda akses pantas ke laman terakhir yang anda lawati untuk membantu anda meneroka dengan lebih pantas.
 
 mobile-ios-about-mozilla = Tentang { -brand-name-mozilla }
 # Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } diwujudkan untuk menjadikan Internet sebuah sumber awam yang mudah diakses untuk semua kerana kami percaya percuma dan terbuka lebih baik berbanding dikawal dan tertutup. Kami membina produk seperti { -brand-name-firefox } dan { -brand-name-pocket } untuk menggalakkan kepelbagaian pilihan, ketelusan dan kawalan.
+mobile-ios-mozilla-exists-to-v2 = { -brand-name-mozilla } diwujudkan untuk menjadikan Internet sebuah sumber awam yang mudah diakses untuk semua kerana kami percaya percuma dan terbuka lebih baik berbanding dikawal dan tertutup. Kami membangunkan produk seperti { -brand-name-firefox } untuk menggalakkan pilihan, ketelusan dan kawalan.

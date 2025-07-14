@@ -18,5 +18,6 @@ whatsnew-signoff = <strong>Powered by { -brand-name-mozilla }.</strong> Für dic
 
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Spende an die { -brand-name-mozilla-foundation }
+whatsnew-donate-to-mofo-v2 = Spende an { -brand-name-mozilla-foundation }
 
 whatsnew-thanks-for-choosing = Danke, dass du dich für { -brand-name-firefox } entschieden hast

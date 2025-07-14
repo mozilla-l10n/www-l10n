@@ -42,7 +42,9 @@ mobile-ios-get-search-suggestions = Erhalte Suchvorschläge in der Suchleiste un
 mobile-ios-discover-more-of = Endecke mehr von dem, was dir gefällt
 # Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = Öffne in { -brand-name-firefox } einen neuen Tab, um die von dir am häufigsten besuchten Websites, deine neusten Lesezeichen und beliebte Artikel in { -brand-name-pocket } angezeigt zu bekommen. { -brand-name-firefox } ermöglicht dir einen schnellen Zugriff auf deine meistgenutzten Seiten, damit du schneller ans Ziel gelangst.
+mobile-ios-open-a-new-v2 = Öffne einen neuen Tab in { -brand-name-firefox }, um die von dir am häufigsten besuchten Websites und deine letzten Lesezeichen angezeigt zu bekommen. { -brand-name-firefox } ermöglicht dir einen schnellen Zugriff auf deine meistgenutzten Seiten, damit du schneller ans Ziel gelangst.
 
 mobile-ios-about-mozilla = Über { -brand-name-mozilla }
 # Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } existiert, um das Internet als öffentliche Ressource für alle zugänglich zu machen, weil wir glauben, dass offen und frei besser ist als geschlossen und kontrolliert. Wir entwickeln Produkte wie { -brand-name-firefox } und { -brand-name-pocket }, um Auswahl, Transparenz und Kontrolle zu fördern.
+mobile-ios-mozilla-exists-to-v2 = { -brand-name-mozilla } existiert, um das Internet als öffentliche Ressource für alle zugänglich zu machen, weil wir glauben, dass offen und frei besser ist als geschlossen und kontrolliert. Wir entwickeln Produkte wie { -brand-name-firefox }, um Auswahl, Transparenz und Kontrolle zu fördern.

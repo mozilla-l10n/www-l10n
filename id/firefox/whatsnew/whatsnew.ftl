@@ -18,5 +18,6 @@ whatsnew-signoff = <strong>Didukung oleh { -brand-name-mozilla }.</strong> Mengu
 
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Donasi ke { -brand-name-mozilla-foundation }
+whatsnew-donate-to-mofo-v2 = Donasi ke { -brand-name-mozilla-foundation }
 
 whatsnew-thanks-for-choosing = Terima kasih telah memilih { -brand-name-firefox }
