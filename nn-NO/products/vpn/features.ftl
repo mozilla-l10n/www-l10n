@@ -28,8 +28,13 @@ vpn-features-connect-up-to =
     }
 vpn-features-supported-platforms = Støtta på Windows, macOS, Android, iOS og Linux operativsystem.
 vpn-features-no-bandwidth = Ingen bandbreidde- eller eller førespurnadsavgrensingar
+vpn-features-including-no-data = Inkluderer ingen data- eller fartsavgrensingar.
 vpn-features-fast-network = Raske nettverkshastigheiter sjølv medan du speler
+# Variables
+#   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
+vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn } brukar <a { $wireguard }>Wireguard</a>™, ein av dei mest effektive VPN-protokollane.
 vpn-features-secure = Trygg
+vpn-features-block-ads = Hindrar annonsørar i å målrette annonsar
 vpn-features-encrypt-your-internet = Krypter all internettrafikken din
 vpn-features-stronger-malware = Sterkare vern mot skadeleg programvare
 vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } hindrar deg i å laste ned skadeleg programvare frå kjende, usikre kjelder.
