@@ -41,6 +41,8 @@ vpn-pricing-get-monthly-subscription = Få eit månadsabonnement
 vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } er enno ikkje tilgjengeleg i landet ditt
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Vanlege spørsmål (FAQ)
+vpn-pricing-refund-policy = Kva er refusjonsreglane til { -brand-name-mozilla-vpn }?
+vpn-pricing-the-first-time-you = Første gong du abonnerer på { -brand-name-mozilla-vpn } via nettstaden til { -brand-name-mozilla }, kan du be om refusjon om du kansellerer kontoen din innan dei første 30 dagane, og { -brand-name-mozilla } vil refundere den første abonnementsperioden.
 
 ## Mobile only subscription copy
 
