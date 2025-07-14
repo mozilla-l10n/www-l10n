@@ -18,5 +18,6 @@ whatsnew-signoff = <strong>Conçu par { -brand-name-mozilla }.</strong> Pensé p
 
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Faire un don à la { -brand-name-mozilla-foundation }
+whatsnew-donate-to-mofo-v2 = Faire un don à la { -brand-name-mozilla-foundation }
 
 whatsnew-thanks-for-choosing = Merci d’avoir choisi { -brand-name-firefox }
