@@ -47,11 +47,11 @@ firefox-all-esr-if-you-choose = Ha a régebbi ESR verzió letöltését választ
 # Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
 firefox-all-esr-read-more = Tudjon meg többet a <a { $attrs }>{ -brand-name-firefox-esr } kiadási ciklusáról</a>.
-firefox-all-check-the-system-requirements = Ellenőrizze a rendszerkövetelményeket
+firefox-all-check-the-system-requirements = Rendszerkövetelmények ellenőrzése
 firefox-all-release-notes = Kiadási megjegyzések
 firefox-all-source-code = Forráskód
 firefox-all-need-help = Segítségre van szüksége?
-firefox-all-choose-which-firefox = Válassza ki az egyik { -brand-name-firefox-browser(case: "acc") }, és töltse le az Ön nyelvén
+firefox-all-choose-which-firefox = Válassza ki az egyik { -brand-name-firefox-browser }t, és töltse le az Ön nyelvén
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } adatvédelmi nyilatkozat
 firefox-all-learn-about-firefox = Ismerje meg a { -brand-name-firefox } böngészőket
 firefox-all-the-standard-firefox = A szokásos { -brand-name-firefox } böngésző – gyors és privát. Ha nem biztos benne, hogy melyik { -brand-name-firefox }ot válassza, válassza ezt.
