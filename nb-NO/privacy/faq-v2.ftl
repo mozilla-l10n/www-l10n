@@ -45,7 +45,7 @@ privacy-faq-v2-what-about-my-account = Hva med mine kontodata?
 privacy-faq-v2-we-are-big-believers = Vi tror på minimering av data, og spør ikke etter noe vi ikke behøver.
 # Variables:
 #   $attrs (url) - link to https://www.mozilla.org/account/
-privacy-faq-v2-you-dont-need-an-account = Du trenger ikke en konto for å bruke { -brand-name-firefox }. <a { $attrs }>Kontoer</a> kreves for å synkronisere data på tvers av enheter, men vi ber deg bare om en e-postadresse og alderen din (bare for å forsikre deg om at du ikke er et barn).
+privacy-faq-v2-you-dont-need-an-account = Du trenger ikke en konto for å bruke { -brand-name-firefox }. <a { $attrs }>Kontoer</a> kreves for å synkronisere data på tvers av enheter, men vi ber deg bare om en e-postadresse og alderen din (bare for å være sikker på at du ikke er et barn).
 privacy-faq-v2-you-use-digital = Dere bruker digital annonsering som en del av markedsføringen deres. Kjøper dere folks data for å målrette annonsene deres bedre på nettet?
 privacy-faq-v2-no-we-do-not-buy = Nei, vi kjøper ikke folks data for å målrette annonsering.
 privacy-faq-v2-we-do-not-ask = Vi ber våre annonsepartnere om kun å bruke førstepartsdata som nettsteder og utgivere kjenner til om alle brukere, for eksempel nettleseren du bruker og enheten du er på.
