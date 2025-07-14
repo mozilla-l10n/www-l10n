@@ -57,5 +57,8 @@ vpn-pricing-if-already-subscribed = Om du allereie abonnerer på { -brand-name-m
 ## Mobile only subscription copy
 
 vpn-pricing-scan-qrcode-to-download = For å laste ned appen, skann QR-koden med mobileininga eller nettbrettet
+vpn-pricing-scan-qrcode-to-download-android = For å laste ned appen, skann QR-koden med Android-eininga eller nettbrettet ditt
 vpn-pricing-sign-up-on-your-mobile-device = Registrer deg for eit { -brand-name-mozilla-vpn }-abonnement på mobileininga di
+vpn-pricing-sign-up-on-your-android-device = Registrer deg for eit { -brand-name-mozilla-vpn }-abonnement på Android-eininga di
 vpn-pricing-download-the-app = Last ned appen
+vpn-pricing-transaction-may-be-in = * Transaksjonen kan vere i tilsvarande lokal valuta.
