@@ -29,11 +29,22 @@ privacy-faq-v2-wait-so-how = Vent lit, så korleis tenar de pengar då?
 privacy-faq-v2-softballs = Ok, det var dei enkle spørsmåla. Kva for opplysningar samlar de inn?
 privacy-faq-v2-do-you-collect = Samlar de inn fleire data i dei tidlege test-utgåvene av { -brand-name-firefox }?
 privacy-faq-v2-but-why-do-you = Men kvifor samlar de inn data då?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
+privacy-faq-v2-if-we-dont-know = Om vi ikkje veit korleis nettlesaren yter eller kva funksjonar folk brukar, kan vi ikkje gjere han betre og levere det gode produktet du ønskjer. Vi har investert i å byggje verktøy for datainnsamling og analyse som lèt oss ta smarte avgjerder om produktet vårt samtidig som vi respekterer folks personvern. Du kan lese meir om nokre av teknologiane vi brukar for å bevare personvernet, som <a { $attrs }>OHTTP</a>.
 privacy-faq-v2-data-collection-bugs-me = Eg bryr meg ikkje om datainnsamlinga. Kan eg slå henne av?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
+#   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
+privacy-faq-v2-yes-user-control = Ja. Brukarkontroll er eit av prinsippa våre for personvern. Vi set dette ut i livet i { -brand-name-firefox } på vår <a { $privacy }>side for personverninnstillingar</a>, som fungerer som ein komplett stad for alle som ønskjer å ta kontroll over personvernet sitt i { -brand-name-firefox }. Du kan <a { $data }>slå av datainnsamling</a> der.
 privacy-faq-v2-what-about-my-account = Kva med kontodataa mine?
 privacy-faq-v2-we-are-big-believers = Vi trur på minimering av data, og spør ikkje etter noko vi ikkje treng.
+# Variables:
+#   $attrs (url) - link to https://www.mozilla.org/account/
+privacy-faq-v2-you-dont-need-an-account = Du treng ikkje ein konto for å bruke { -brand-name-firefox }. <a { $attrs }>Kontoar</a> trengst for å synkronisere data på tvers av einingar, men vi ber deg berre om ei e-postadresse og alderen din (berre for å vere sikker på at du ikkje er eit barn).
 privacy-faq-v2-you-use-digital = De brukar digital annonsering som ein del av marknadsføringa dykkar. Kjøper de folk sine data for å betre målrette annonsane dykkar på nettet?
 privacy-faq-v2-no-we-do-not-buy = Nei, vi kjøper ikkje folk sine data for målretta annonsar.
+privacy-faq-v2-we-do-not-ask = Vi ber annonsepartnarane våre om å berre bruke førstepartsdata som nettstadar og utgivarar kjenner til om alle brukarar, til dømes nettlesaren du brukar og eininga du er på.
 privacy-faq-v2-well-it-seems = Hm, det ser ut til at vi verkeleg tek desse tinga alvorleg.
 privacy-faq-v2-yes-we-do = Ja, det gjer vi.
 privacy-faq-v2-find-out-more = Finn ut meir om korleis { -brand-name-mozilla } vernar om nettet.
