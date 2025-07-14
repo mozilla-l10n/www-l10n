@@ -33,6 +33,7 @@ vpn-pricing-access =
         [one] Få tilgang til { $servers } server i { $countries }+ land
        *[other] Få tilgang til { $servers } serverar i { $countries }+ land
     }
+vpn-pricing-money-back = 30-dagars pengane-tilbake-garanti (berre for førstegongskundar)
 vpn-pricing-annual = Årleg
 vpn-pricing-monthly = Månadleg
 vpn-pricing-get-annual-subscription = Få eit årsabonnement

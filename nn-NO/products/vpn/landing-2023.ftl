@@ -40,15 +40,21 @@ vpn-landing-more-than-servers-in-countries =
        *[other] Fleire enn { $servers } serverar i { $countries }+ land
     }
 vpn-landing-fast-network-speeds-even-while = Raske nettverkshastigheiter sjølv medan du speler
+vpn-landing-no-logging-tracking-or-sharing = Inga logging, sporing eller deling av nettverksdata
 vpn-landing-no-bandwidth-restrictions-or = Ingen bandbreidde- eller eller førespurnadsavgrensingar
+vpn-landing-extra-security-whole-device = Ekstra sikkerheit: vern av heile eininga, multi-hop-ruting og meir
 vpn-landing-built-transparently = Bygd transparent i open kjeldekode
+vpn-landing-easy-firefox-integration = Enkel { -brand-name-firefox }-integrasjon med { -brand-name-mozilla-vpn }-utvidinga (berre Windows)
 vpn-landing-see-all-features = Sjå alle funksjonane
 vpn-landing-fram-a-brand-you-can-trust = Frå eit varemerke du kan stole på
+vpn-landing-mozilla-is-a-non-profit-backed = { -brand-name-mozilla } er eit non-profit-støtta internettselskap som har kjempa for eit sunt nett sidan 1998.
 vpn-landing-one-subscription-for-all-your = Eitt abonnement for alle einingane dine
 # HTML for emphasis
 vpn-landing-powered-by-mozilla-fighting-for = <strong>Driven av { -brand-name-mozilla }.</strong> Vi har kjempa for din rett til personvern sidan 1998.
 vpn-landing-learn-more-from-our-experts = Lær meir frå ekspertane våre
+vpn-landing-do-you-need-a-vpn-at-home = Treng du eit VPN heime? Her er 5 grunnar til at du kanskje treng det.
 vpn-landing-what-is-an-ip-address = Kva er ei IP-adresse?
+vpn-landing-how-your-location-is-tracked = Korleis posisjonen din blir spora og korleis du kan avgrense delinga
 vpn-landing-see-more-resources = Sjå fleire ressursar
 vpn-landing-vpn = { -brand-name-mozilla-vpn }
 vpn-landing-monitor = { -brand-name-monitor }
