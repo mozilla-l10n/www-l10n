@@ -42,7 +42,9 @@ mobile-ios-get-search-suggestions = احصل على اقتراحات للبحث 
 mobile-ios-discover-more-of = اكتشف المزيد مما تُحب
 # Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = افتح علامة تبويب جديدة في مُتصفح { -brand-name-firefox } لترى المواقع الإلكترونية التي تزورها كثيرًا والإشارات المرجعية الحديثة والمقالات الشعبية في { -brand-name-pocket }. حيث يُتيح لك مُتصفح { -brand-name-firefox } إمكانية الوصول السريع إلى أحدث المواقع المستخدمة لمساعدتك في الوصول إلى ما تريده بشكل أسرع.
+mobile-ios-open-a-new-v2 = افتح تبويبًا جديدًا في { -brand-name-firefox } لترى المواقع التي زرتها أكثر والإشارات المرجعية الحديثة. يُتيح { -brand-name-firefox } لك إمكانية الوصول السريع إلى أحدث المواقع المستخدمة لمساعدتك على الوصول إلى ما تريده بشكل أسرع.
 
 mobile-ios-about-mozilla = نبذة عن { -brand-name-mozilla }
 # Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = تحرص مؤسسة { -brand-name-mozilla } على أن يكون الإنترنت موردًا عامًا ينهل منه الجميع، لأنها تُؤمن بأن الانفتاح والحرية أفضل من الانغلاق والتحكّم. كما أنها تُصمم منتجات مثل { -brand-name-firefox } و{ -brand-name-pocket } لتعزيز الاختيار والشفافية والتحكّم.
+mobile-ios-mozilla-exists-to-v2 = تحرص مؤسسة { -brand-name-mozilla } على أن يكون الإنترنت موردًا عامًا ينهل منه الجميع، لأنها تُؤمن بأن الانفتاح والحرية أفضل من الانغلاق والتحكّم. نبتكر منتجات مثل { -brand-name-firefox } لتعزيز الاختيار والشفافية والتحكّم.

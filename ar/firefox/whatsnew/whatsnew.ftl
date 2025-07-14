@@ -18,5 +18,6 @@ whatsnew-signoff = <strong>مدعوم من شركة { -brand-name-mozilla }.</st
 
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = تبرّع لـ { -brand-name-mozilla-foundation }
+whatsnew-donate-to-mofo-v2 = تبرّع لصالح { -brand-name-mozilla-foundation }
 
 whatsnew-thanks-for-choosing = شكرًا على اختيار { -brand-name-firefox }
