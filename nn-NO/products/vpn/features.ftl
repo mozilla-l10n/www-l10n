@@ -66,4 +66,11 @@ vpn-features-built-transparently = Bygd transparent i open kjeldekode
 # Variables
 #   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
 vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } er laga med open kjeldekode, som betyr at all koden er offentleg tilgjengeleg. Sjå <a { $github }>GitHub-repositoriet</a> vårt.
+vpn-features-reviewed-by-third = Gått gjennom av tredjeparts tryggingsekspertar
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = Vi har vorte reviderte av Cure53, eit leiande revisjonsfirma innan cybersikkerheit. <a { $report }>Sjå rapporten her</a>.
 vpn-features-people-over-profits = Menneske framfor profitt
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+vpn-features-were-backed-by-mofo = Vi blir støtta av <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, ein ideell organisasjon som kjempar for å halde nettet ope og sunt for alle.
