@@ -18,6 +18,11 @@ vpn-landing-see-all-the-ways-mozilla-vpn = Sjå alle måtane { -brand-name-mozil
 vpn-landing-how-a-vpn-helps-you = Korleis eit VPN hjelper deg
 vpn-landing-how-a-vpn-helps-you-v2 = Korleis { -brand-name-mozilla-vpn } kan hjelpe deg
 vpn-landing-keeps-your-data-safe = Held dataa dine trygge på offentleg Wi-fi
+vpn-landing-log-in-to-your-bank-or = Logg inn på banken eller legekontoret ditt frå flyplassen, kafeen eller kvar som helst, med ro i sjela.
+vpn-landing-blocks-advertisers-from = Blokkerer annonsørar frå å målrette deg
+vpn-landing-hide-your-activity-from = Skjul aktiviteten din frå sporarar og skadeleg programvare, slik at du kan handla utan å bli overvakt.
+vpn-landing-take-control = Ta kontroll med nettstadspesifikke VPN-innstillingar
+vpn-landing-customize-your-vpn = Tilpass VPN-vernet ditt for kvar nettstad med { -brand-name-mozilla-vpn }-utvidinga for { -brand-name-firefox } (berre Windows).
 vpn-landing-features = Funksjonar
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -36,6 +41,7 @@ vpn-landing-more-than-servers-in-countries =
     }
 vpn-landing-fast-network-speeds-even-while = Raske nettverkshastigheiter sjølv medan du speler
 vpn-landing-no-bandwidth-restrictions-or = Ingen bandbreidde- eller eller førespurnadsavgrensingar
+vpn-landing-built-transparently = Bygd transparent i open kjeldekode
 vpn-landing-see-all-features = Sjå alle funksjonane
 vpn-landing-fram-a-brand-you-can-trust = Frå eit varemerke du kan stole på
 vpn-landing-one-subscription-for-all-your = Eitt abonnement for alle einingane dine
