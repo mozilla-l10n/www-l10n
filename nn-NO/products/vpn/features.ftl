@@ -62,4 +62,8 @@ vpn-features-we-never-log = Vi loggar, sporar eller deler aldri nettverksdataa d
 # Variables
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-features-simply-put-we-dont = Enkelt sagt, vi samlar ikkje inn den personlege nettlesarinformasjonen din. Her er den <a { $privacy }>lettlesne personvernerklæringa</a> vår.
+vpn-features-built-transparently = Bygd transparent i open kjeldekode
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } er laga med open kjeldekode, som betyr at all koden er offentleg tilgjengeleg. Sjå <a { $github }>GitHub-repositoriet</a> vårt.
 vpn-features-people-over-profits = Menneske framfor profitt
