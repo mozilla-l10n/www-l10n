@@ -12,6 +12,11 @@ privacy-faq-v2-desc = Hos { -brand-name-mozilla } respekterer og beskyttar vi de
 privacy-faq-v2-heading = Vi står for menneske framfor profitt.
 privacy-faq-v2-intro = Det kan vere vanskeleg å vite kva ein kan vente seg av programvare og tenester no for tida. Dagens teknologi er kompleks, og dei færraste har tid til å setje seg inn i detaljane. Det gjeld òg for { -brand-name-firefox }, der vi ser, at brukarane har mange ulike idear om kva som skjer under panseret i nettlesarane deira.
 privacy-faq-v2-at-mozilla = Hjå { -brand-name-mozilla } respekterer og vernar vi om den personlege informasjonen din:
+# Variables:
+#   $attrs (url) - link to https://www.mozilla.org/privacy/principles/
+privacy-faq-v2-we-follow = Vi følgjer eit sett av <a { $attrs }>dataverneprinsipp</a> som for tilnærminga vår til personvern i { -brand-name-firefox } for datamaskiner og mobile einingar.
+privacy-faq-v2-we-strive-collect-data = Vi strevar etter å berre samle inn dei dataa vi treng for å lage dei beste produkta.
+privacy-faq-v2-we-work-to = Vi jobbar for å gi folk kontroll over sine data og nettopplevingar.
 privacy-faq-v2-we-adhere = Vi følgjer prinsippet om «ingen overraskingar», noko som tyder at vi arbeider hardt med å passe på at folk si forståing av { -brand-name-firefox } samsvarar med verkelegheita.
 privacy-faq-v2-following-questions = Følgjande spørsmål og svar skal hjelpe deg med å forstå kva du kan vente deg frå { -brand-name-mozilla } og { -brand-name-firefox }:
 
