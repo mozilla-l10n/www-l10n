@@ -43,6 +43,7 @@ vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } er enno ikkje tilgje
 vpn-pricing-faqs = Vanlege spørsmål (FAQ)
 vpn-pricing-refund-policy = Kva er refusjonsreglane til { -brand-name-mozilla-vpn }?
 vpn-pricing-the-first-time-you = Første gong du abonnerer på { -brand-name-mozilla-vpn } via nettstaden til { -brand-name-mozilla }, kan du be om refusjon om du kansellerer kontoen din innan dei første 30 dagane, og { -brand-name-mozilla } vil refundere den første abonnementsperioden.
+vpn-pricing-if-you-purchased = Om du kjøpte abonnementet ditt via kjøp i appen frå Apple App Store eller Google Play Store, er betalinga di underlagt dei gjeldande vilkåra i butikken. Du må rette eventuelle fakturerings- og refusjonsførespurnadar for slike kjøp til Apple eller Google, alt etter kva som er aktuelt.
 
 ## Mobile only subscription copy
 
