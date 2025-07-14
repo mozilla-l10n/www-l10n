@@ -44,3 +44,6 @@ vpn-landing-powered-by-mozilla-fighting-for = <strong>Driven av { -brand-name-mo
 vpn-landing-learn-more-from-our-experts = Lær meir frå ekspertane våre
 vpn-landing-what-is-an-ip-address = Kva er ei IP-adresse?
 vpn-landing-see-more-resources = Sjå fleire ressursar
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }
