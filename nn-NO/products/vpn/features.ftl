@@ -50,10 +50,15 @@ vpn-features-support-for-custom-dns = Støtte for tilpassa DNS
 vpn-features-keep-traffic-protected = Med { -brand-name-mozilla-vpn } kan du halde trafikken din beskytta og framleis rute DNS-søka dine dit du vil. <a { $dns }>Finn ut meir om tilpassa DNS-støtte</a>.
 vpn-features-flexible = Fleksibel
 vpn-features-webste-specific-vpn = Nettstadspesifikke VPN-innstillingar, saumlaust integrerte i { -brand-name-firefox }
+vpn-features-with-the-mozilla-vpn-extention = Med { -brand-name-mozilla-vpn }-utvidinga for { -brand-name-firefox } (berre Windows) kan du finjustere VPN-opplevinga di for kvar nettstad. Ekskluder individuelle nettstader frå VPN-vern eller angi føretrekte serverplasseringar for visse nettstadar, noko som gir deg ei meir fleksibel og personleg oppleving.
 vpn-features-personalized-server = Personlege tilrådingar for serverplassering
+vpn-features-well-suggest-which-servers = Vi foreslår kva serverar i nærleiken av deg som vil sikre det raskaste og mest pålitelege internettsambandet.
+vpn-features-personalize-which-apps = Tilpass kva appar som får VPN-vern
+vpn-features-easily-exclude-apps = Ekskluder appar enkelt frå VPN-vern – du treng ikkje å kople eininga di frå { -brand-name-mozilla-vpn }. Tilgjengeleg på Windows-, Android- og Linux-einingar.
 vpn-features-trustworthy = Påliteleg
 vpn-features-money-back = 30-dagar pengane-tilbake-garanti
 vpn-features-plus-customer-support = Pluss kundebrukarstøtte 24/7.
+vpn-features-we-never-log = Vi loggar, sporar eller deler aldri nettverksdataa dine
 # Variables
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-features-simply-put-we-dont = Enkelt sagt, vi samlar ikkje inn den personlege nettlesarinformasjonen din. Her er den <a { $privacy }>lettlesne personvernerklæringa</a> vår.
