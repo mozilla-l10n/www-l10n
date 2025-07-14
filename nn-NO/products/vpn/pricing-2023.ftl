@@ -50,6 +50,9 @@ vpn-pricing-what-information = Kva informasjon lagrar { -brand-name-mozilla-vpn 
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-pricing-we-adhere-strictly = Vi følgjer strengt { -brand-name-mozilla }s <a { $principles }>prinsipp for personvern</a>. Vi samlar berre inn data som er nødvendige for å halde { -brand-name-mozilla-vpn } i drift og forbetre produktet over tid. Vi sporar også kampanje- og tilvisingsdata på mobilappen vår for å hjelpe { -brand-name-mozilla } med å forstå effektiviteten til marknadsføringskampanjane våre. Les meir i <a { $notice }>personvernfråsegna</a> vår.
 vpn-pricing-how-do-i-manage = Korleis administrerer eg abonnementet mitt og endrar planen min?
+# Variables
+# $manage (url) - link to subscription management page
+vpn-pricing-if-already-subscribed = Om du allereie abonnerer på { -brand-name-mozilla-vpn }, kan du endre planen din eller <a { $manage }>administrere abonnementet ditt</a> når som helst.
 
 ## Mobile only subscription copy
 
