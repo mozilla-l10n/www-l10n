@@ -18,5 +18,6 @@ whatsnew-signoff = <strong>{ -brand-name-mozilla } が開発</strong>。1998 年
 
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = { -brand-name-mozilla-foundation } に寄付
+whatsnew-donate-to-mofo-v2 = { -brand-name-mozilla-foundation } にご寄付ください
 
 whatsnew-thanks-for-choosing = { -brand-name-firefox } をご使用いただき、ありがとうございます
