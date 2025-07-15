@@ -132,7 +132,7 @@ firefox-desktop-download-grab-a-high = 使用浏览器内置的<a { $attrs }>屏
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } 会自动<a { $attrs }>拦截许多收集并出售您在线活动的第三方跟踪器</a>。
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-questions = 有问题？<a { $attrs }>{ -brand-name-mozilla } 用户支持</a> 能帮上忙。
+firefox-desktop-download-questions = 有问题？<a { $attrs }>{ -brand-name-mozilla } 技术支持</a>能帮上忙。
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
