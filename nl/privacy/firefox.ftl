@@ -25,11 +25,7 @@ privacy-firefox-firefox-protects-you = { -brand-name-firefox } beschermt u tegen
 privacy-firefox-privacy-that-works = Privacy die voor u werkt
 privacy-firefox-firefox-makes-it = { -brand-name-firefox } maakt het eenvoudig om uw gegevens te beheren met ingebouwde privacy- en beveiligingsfuncties, plus instellingen waarmee u uw surfervaring kunt optimaliseren.
 privacy-firefox-manage-your-privacy = Uw privacyinstellingen beheren:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = { -brand-name-firefox } voor Desktop
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } voor desktop
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = { -brand-name-firefox } voor mobiel
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } voor mobiel
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Inhoud

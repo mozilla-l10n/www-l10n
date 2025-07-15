@@ -85,15 +85,3 @@ firefox-developer-mdn-blog = Blog de { -brand-name-mdn }
 firefox-developer-mdn-unlock-the-world = Disbloca le mundo del disveloppamento del web con le blog de { -brand-name-mdn }, tu centro de referentia pro discernimentos experte, ultime standards web, e consilios pro le codification.
 firefox-developer-mdn-updates = Actualisationes
 firefox-developer-mdn-the-web-doesnt-have = Le web non ha un lista del modificationes, ma { -brand-name-mdn } pote adjutar. Tu pote personalisar e filtrar le cambiamentos de compatibilitate in base al navigatores o al categoria technologic que te interessa sia que es JavaScript, CSS, etc.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = Referentias { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } es un projecto in collaboration open-source que documenta technologias de platteforma web, includite CSS, HTML, JavaScript e APIs web.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = Curriculum de { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Un guida structurate al competentias e practicas essential pro esser un succedite disveloppator de interfacie anterior, insimul con ressources recommendate de erudition.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Supporta { -brand-name-mdn } e personalisa lo con collectiones, notificationes, e areas de joco.

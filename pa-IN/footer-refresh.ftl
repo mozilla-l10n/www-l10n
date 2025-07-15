@@ -10,8 +10,6 @@ footer-refresh-mozilla-advertising = { -brand-name-mozilla } ਇਸ਼ਤਿਹਾ�
 footer-refresh-learn-more-about-mozilla-advertising = <span>{ footer-refresh-mozilla-advertising } ਬਾਰੇ</span> ਹੋਰ ਜਾਣੋ
 footer-refresh-firefox-release-notes = { -brand-name-firefox } ਰੀਲਿਜ ਨੋਟਿਸ
 footer-refresh-mdn-v2 = { -brand-name-mdn }
-# Obsolete string (expires 22-04-2025)
-footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } ਨੂੰ ਫ਼ਾਲੋ ਕਰੋ
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn

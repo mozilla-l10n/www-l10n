@@ -79,15 +79,3 @@ firefox-developer-view-the-release = Vea las <a { $attrs }>notas de la versión<
 firefox-developer-developer-tools-user = Documentos de usuario de herramientas para desarrolladores
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Recursos para desarrolladores, por desarrolladores
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn } Referencias
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } es un proyecto colaborativo de código abierto que documenta tecnologías de plataformas web, incluidas CSS, HTML, JavaScript y API web.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn } Plan de estudios
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Una guía estructurada sobre las habilidades y prácticas esenciales para ser un desarrollador front-end exitoso, junto con recursos de aprendizaje recomendados.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Admite { -brand-name-mdn } y personalízalo con colecciones, notificaciones y áreas de juego.

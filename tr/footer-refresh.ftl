@@ -11,8 +11,6 @@ footer-refresh-learn-more-about-mozilla-advertising = <span>{ footer-refresh-moz
 footer-refresh-firefox-release-notes = { -brand-name-firefox } Sürüm Notları
 footer-refresh-privacy-first = Markalar, yayıncılar ve platformlar için gizliliğe önem veren reklamcılık çözümleri.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
-# Obsolete string (expires 22-04-2025)
-footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla }’yı takip edin
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn

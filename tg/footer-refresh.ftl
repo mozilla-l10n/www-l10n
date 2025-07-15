@@ -11,8 +11,6 @@ footer-refresh-learn-more-about-mozilla-advertising = Маълумоти беш�
 footer-refresh-firefox-release-notes = Қайдҳои нашри «{ -brand-name-firefox }»
 footer-refresh-privacy-first = Пешниҳодҳои рекламавии дорои махфияти аввалиндараҷа барои тамғаҳои молӣ, ноширон ва платформаҳо.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
-# Obsolete string (expires 22-04-2025)
-footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Пайгирӣ кардани @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn

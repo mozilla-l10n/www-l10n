@@ -25,11 +25,7 @@ privacy-firefox-firefox-protects-you = { -brand-name-firefox } vás chráni pred
 privacy-firefox-privacy-that-works = Súkromie, ktoré pracuje pre vás
 privacy-firefox-firefox-makes-it = { -brand-name-firefox } uľahčuje správu vašich údajov vďaka vstavaným funkciám ochrany osobných údajov a zabezpečenia a nastaveniam, ktoré vám umožňujú doladiť si prehliadanie.
 privacy-firefox-manage-your-privacy = Spravujte nastavenia ochrany osobných údajov:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = { -brand-name-firefox } pre počítače
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } pre počítače
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = { -brand-name-firefox } pre mobilné zariadenia
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } pre mobilné zariadenia
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Obsah

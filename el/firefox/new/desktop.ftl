@@ -22,14 +22,10 @@ firefox-desktop-out-of-date = Διατίθεται ένα ακόμα νεότε�
 firefox-desktop-download-get-the-browser = Το πρόγραμμα περιήγησης που φυλάσσει ό,τι είναι σημαντικό
 firefox-desktop-download-fast-reliable-private = Γρήγορο, αξιόπιστο και ιδιωτικό, για ξέγνοιαστη περιήγηση στο διαδίκτυο.
 firefox-desktop-set-as-default = Ορίστε το { -brand-name-firefox } ως το προεπιλεγμένο σας πρόγραμμα περιήγησης.
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-no-shady = Καμία κρυφή πολιτική απορρήτου ή πίσω πόρτες για διαφημιστές. Απλά ένα αξιόπιστο και γρήγορο πρόγραμμα περιήγησης.
 firefox-desktop-download-download-options = Επιλογές λήψεων και άλλες γλώσσες
 firefox-desktop-download-browser-support = Υποστήριξη { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Κάντε ό,τι θέλετε στο διαδίκτυο.<br>Το { -brand-name-firefox-browser } σάς <strong>προστατεύει</strong>.
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-do-what-you-do = Κάντε ό,τι θέλετε στο διαδίκτυο.<br>Το { -brand-name-firefox-browser } <strong>δεν</strong> σας παρακολουθεί.
 firefox-desktop-download-we-block-the-ad = Ταχύτερη εξερεύνηση του ιστού, χωρίς ιχνηλάτες διαφημίσεων.
 firefox-desktop-download-ads-are-distracting = Οι διαφημίσεις αποσπούν την προσοχή σας και επιβραδύνουν τη φόρτωση των ιστοσελίδων, ενώ οι ιχνηλάτες τους καταγράφουν την κάθε σας κίνηση στο διαδίκτυο. Το { -brand-name-firefox-browser } αποκλείει αυτόματα τους περισσότερους ιχνηλάτες, επομένως δεν χρειάζεται να ψάχνετε μέσα στις ρυθμίσεις ασφαλείας σας.
 firefox-desktop-download-see-your-report = Προβολή αναφοράς προστασίας
@@ -117,10 +113,6 @@ firefox-desktop-download-firefox-was-created = Το { -brand-name-firefox } δη
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Καθώς το διαδίκτυο αναπτύσσεται και αλλάζει, το { -brand-name-firefox } συνεχίζει να εστιάζει στο δικαίωμά σας για ιδιωτικότητα. Γιατί αυτό ήταν πάντοτε το μέλημά μας. Μάθετε περισσότερα σχετικά με τις πρακτικές μας όσον αφορά τα δεδομένα στη <a { $attrs }>Σημείωση απορρήτου</a> μας.
-# Obsolete string (expires: 2025-04-17)
-# Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = Όσο το διαδίκτυο αναπτύσσεται και αλλάζει, το { -brand-name-firefox } συνεχίζει να εστιάζει στο δικαίωμά σας στο απόρρητο, όπως αναφέρει η <a { $attrs }>Υπόσχεση προσωπικών δεδομένων</a>: Λιγότερα δεδομένα. Με ασφάλεια. Χωρίς μυστικά. Τα δεδομένα και η διαδικτυακή σας ζωή προστατεύονται με το { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = Το { -brand-name-firefox } διατίθεται για όλες τις συσκευές σας. Πάρτε μαζί σας τις καρτέλες, το ιστορικό και τους σελιδοδείκτες σας. Το μόνο που χρειάζεστε είναι ένας <a { $attrs }>{ -brand-name-mozilla-account(case: "nom", capitalization: "lower") }</a> και θα έχετε πρόσβαση στον συγχρονισμό και σε περισσότερα προϊόντα της { -brand-name-mozilla }.

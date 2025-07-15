@@ -85,15 +85,3 @@ firefox-developer-mdn-blog = { -brand-name-mdn } 블로그
 firefox-developer-mdn-unlock-the-world = { -brand-name-mdn } 블로그와 함께 웹 개발의 세계를 열어보세요 — 전문적인 통찰력, 최신 웹 표준 및 코딩 팁을 확인할 수 있는 허브입니다.
 firefox-developer-mdn-updates = 업데이트
 firefox-developer-mdn-the-web-doesnt-have = 웹에는 변경 로그가 없지만 { -brand-name-mdn }이 도움이 될 수 있습니다. JavaScript, CSS 등 관심 있는 기술 카테고리에 따라 웹 브라우저 호환성 변경 사항을 맞춤형으로 필터링 할 수 있습니다.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn } 참조
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn }은 CSS와 HTML, JavaScript, web API 등의 웹 플랫폼 기술을 문서화하는 오픈 소스 협업 프로젝트입니다.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn } 교육 과정
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = 성공적인 프론트엔드 개발자가 되기 위한 필수 기술과 실습에 대한 구조화된 가이드와 권장 학습 리소스입니다.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = { -brand-name-mdn }을 지원하고 콜렉션과 알림, 플레이그라운드를 통해 나만의 것으로 만드세요.

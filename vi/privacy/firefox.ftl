@@ -25,11 +25,7 @@ privacy-firefox-firefox-protects-you = { -brand-name-firefox } bảo vệ bạn 
 privacy-firefox-privacy-that-works = Quyền riêng tư phù hợp với bạn
 privacy-firefox-firefox-makes-it = { -brand-name-firefox } giúp bạn quản lý dữ liệu dễ dàng với các tính năng bảo mật và quyền riêng tư tích hợp, cùng các cài đặt cho phép bạn tinh chỉnh trải nghiệm duyệt web của mình.
 privacy-firefox-manage-your-privacy = Quản lý cài đặt quyền riêng tư của bạn:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = { -brand-name-firefox } dành cho máy tính
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } dành cho máy tính
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = { -brand-name-firefox } dành cho di động
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } dành cho di động
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Nội dung

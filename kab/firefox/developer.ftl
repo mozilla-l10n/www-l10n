@@ -72,7 +72,3 @@ firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Tiɣbula i yineflayen, sɣur ineflayen.
 firefox-developer-mdn-blog = Ablug n { -brand-name-mdn }
 firefox-developer-mdn-updates = Ileqman
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = Ismenyifen { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }

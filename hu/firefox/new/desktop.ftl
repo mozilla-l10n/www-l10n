@@ -22,14 +22,10 @@ firefox-desktop-out-of-date = Elérhető egy még újabb { -brand-name-firefox }
 firefox-desktop-download-get-the-browser = Szerezze be azt a böngészőt, amely védi, ami fontos
 firefox-desktop-download-fast-reliable-private = Gyors, megbízható és privát – az online nyugalomért.
 firefox-desktop-set-as-default = A { -brand-name-firefox } beállítása alapértelmezett böngészőként.
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-no-shady = Nincsenek kétes adatvédelmi irányelvek vagy hátsó ajtók a hirdetőknek. Csak egy villámgyors böngésző, ami nem bocsátja áruba.
 firefox-desktop-download-download-options = Letöltési lehetőségek és más nyelvek
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } támogatása
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Tegye, amit tesz online.<br> A { -brand-name-firefox-browser } <strong>Ön mellett áll</strong>.
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-do-what-you-do = Tegye, amit tesz online.<br> A { -brand-name-firefox-browser } <strong>nem</strong> figyeli.
 firefox-desktop-download-we-block-the-ad = Blokkoljuk a hirdetéskövetőket. Gyorsabban fedezheti fel az internetet.
 firefox-desktop-download-ads-are-distracting = A reklámok elvonják a figyelmet, és lassabbá teszik a weboldalak betöltését, miközben a nyomkövetőik minden online mozdulatát követik. A { -brand-name-firefox-browser } automatikusan blokkolja a legtöbb követőt, így nem kell beleásnia magát a biztonsági beállításokba.
 firefox-desktop-download-see-your-report = Nézze meg a védelmi jelentését
@@ -117,10 +113,6 @@ firefox-desktop-download-firefox-was-created = A { -brand-name-firefox(case: "ac
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Ahogy az internet nő és változik, a { -brand-name-firefox } továbbra is az Ön adatvédelemhez való jogára fókuszál – mindig is ezt tettük. Tudjon meg többet az adatkezelési gyakorlatunkról az <a { $attrs }>Adatvédelmi nyilatkozatunkban</a>.
-# Obsolete string (expires: 2025-04-17)
-# Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = Ahogy az internet nő és változik, a { -brand-name-firefox } továbbra is az adatvédelemhez való jogra fókuszál  – ezt mi a <a { $attrs }>személyes adatokra vonatkozó ígéretünknek</a> hívjuk: Gyűjts kevesebbet. Tartsd biztonságban. Nincsenek titkok. Az adatait, webes tevékenységét és az online életét a { -brand-name-firefox } védi.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = A { -brand-name-firefox } elérhető az összes eszközén; vigye magával a lapjait, előzményeit és könyvjelzőit. Csak egy <a { $attrs }>{ -brand-name-mozilla-account }</a> szükséges, és hozzáférést kap a szinkronizáláshoz, és további { -brand-name-mozilla } termékekhez.

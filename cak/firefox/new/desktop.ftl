@@ -15,12 +15,8 @@ firefox-desktop-download-og-title = Tiqasäx ri { -brand-name-firefox }, ri yala
 firefox-desktop-download-og-desc = Ri rusamajib'exik ri aninäq ruxaq, rokisaxik jub'a' tzatzq'ob'äl chuqa' nojinäq chi b'anikil, wawe' k'o wi ri k'ak'a' { -brand-name-firefox }.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Tak'ulu' ri okik'amaya'l ri nuto' ri yalan k'atzinel
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-no-shady = Majun itzel runa'ojil ichinanem o rij ruchi' jay chi kiwa ri eltzijonela'. Xa xe jun nïm anin okik'amaya'l, ri man yatruk'ayij ta.
 firefox-desktop-download-download-options = Rucha'oj qasanïk chuqa' ch'aqa' taq ch'ab'äl
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } tob'äl
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-do-what-you-do = Kasamäj pa k'amab'ey. <br> { -brand-name-firefox-browser } <strong> man </strong> yatrutz'ët ta.
 firefox-desktop-download-we-block-the-ad = Yeqaq'ät ojqanela'. Ruma ri' anin ri k'amaya'l.
 firefox-desktop-download-ads-are-distracting = Ri eltzijol nuk'äm atzub'al chuqa' nub'än eqal richin yesamajïx ri taq ruxaq, chi ri' toq ri rojqanela' nikitz'ët ronojel ri nab'än pa k'amab'ey. Ri { -brand-name-firefox-browser } ruyonil yeruq'ät konojel ri ojqanela', ruma ri' man k'atzinel ta nakanoj rub'eyal pa ri runuk'ulem jikomal.
 firefox-desktop-download-see-your-report = Tatz'eta' ri rutzijol achajinik
@@ -105,10 +101,6 @@ firefox-desktop-download-from-security-to = Rik'in ri jikomal chuqa' ri taq rutz
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } xnuk' ruma <a { $attrs }>{ -brand-name-mozilla }</a> achi'el jun retal anin chuqa' ichinan okik'amaya'l chi kiwa ri { -brand-name-ie }, wakami chuqa' ri { -brand-name-chrome }. Wakami, ri molaj qato'onela' chuqa' ajk'ayij moloj toq nikitz'ët ri qarayib'al nikiya' rejqalem ri awichinanem.
-# Obsolete string (expires: 2025-04-17)
-# Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = Rik'in ri nik'ïy chuqa' nijalatäj ri k'amaya'l, { -brand-name-firefox } nuya' retal ri ach'ojib'al chi rij ri awichinanem  — niqab'ij ri <a { $attrs }>Ya'oj Qatzij Chi Rij Qatzij</a>: Jub'a' numöl. Jeb'ël nuchajij. Majun ewäl. Ri atzij, asamaj pa ajk'amaya'l, ri ak'aslem pa k'amab'ey yechajïx rik'in { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Tak'ulu' jun ch'ach'öj rub'anikil wachib'äl pa k'amab'ey rik'in ri qasamajib'al <a { $attrs }>chapoj ruwa</a> k'o pe pa ri okik'amaya'l

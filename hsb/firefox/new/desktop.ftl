@@ -22,14 +22,10 @@ firefox-desktop-out-of-date = Samo nowši { -brand-name-firefox } je k dispozici
 firefox-desktop-download-get-the-browser = Wobstarajće sej wobhladowak, kotryž škita, štož je wažne.
 firefox-desktop-download-fast-reliable-private = Spěšny, spušćomny a priwatny – za dušiny měr online.
 firefox-desktop-set-as-default = Čińće { -brand-name-firefox } k swojemu standardnemu wobhladowakej.
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-no-shady = Žane dwělomne prawidła priwatnosće abo zadnje durčki za wabjerjow. Jenož błyskospěšny wobhladowak, kotryž was njewobšudźa.
 firefox-desktop-download-download-options = Sćehnjenske móžnosće a druhe rěče
 firefox-desktop-download-browser-support = Pomoc wo { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Čińće online, štož chceće.<br> { -brand-name-firefox-browser } was <strong>škita</strong>.
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-do-what-you-do = Čińće online, štož chceće.<br> { -brand-name-firefox-browser } <strong>nje</strong>přihladuje.
 firefox-desktop-download-we-block-the-ad = My blokujemy wabjenske přesćěhowaki. Wy přeslědźeće internet spěšnišo.
 firefox-desktop-download-ads-are-distracting = Wabjenje wotwjedźe a wjedźe k tomu, zo so webstrony pomałšo začituja, mjeztym zo přesćěhowaki kóždy pohib wobkedźbuja, kotryž online činiće. { -brand-name-firefox-browser } najwjace přesćěhowakow awtomatisce blokuje, tohodla njetrjebaće so do swojich wěstotnych nastajenjow zaryć.
 firefox-desktop-download-see-your-report = Wašu škitnu rozprawu pokazać
@@ -117,10 +113,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } je so wot
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Tak kaž internet rosće a so měnja, staja { -brand-name-firefox } dale fokus na waše prawo na priwatnosć – to je hižo přeco naša wěc było. Zhońće wjace wo našich datowych praktikach w našej <a { $attrs }>zdźělence priwatnosće</a>.
-# Obsolete string (expires: 2025-04-17)
-# Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = Mjeztym zo internet rosće a so měnja, staja { -brand-name-firefox } dale swój fokus na waše prawo na priwatnosć – mjenujemy to <a { $attrs }>slubjenje na wosobinske daty</a>: Hromadźće mjenje. Dźeržće jón wěsty. Žane potajnstwa. Waše daty, waša webaktiwita, waše žiwjenje online so přez { -brand-name-firefox } škitaja.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } je na wšěch wašich gratach k dispoziciji; wzmiće swoje rajtarki, swoju historiju a zapołožki sobu. Wšitko, štož trjebaće, je <a { $attrs }>{ -brand-name-mozilla-account }</a> a dóstanjeće přistup k synchronizaciji a dalšim produktam { -brand-name-mozilla }.

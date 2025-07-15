@@ -5,8 +5,6 @@
 footer-refresh-leadership = Liderazgo
 footer-refresh-advertise = Publicidad con { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Notas de la versión de { -brand-name-firefox }
-# Obsolete string (expires 22-04-2025)
-footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Seguir @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn

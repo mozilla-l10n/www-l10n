@@ -22,14 +22,10 @@ firefox-desktop-out-of-date = Daha yeni bir { -brand-name-firefox } sürümü me
 firefox-desktop-download-get-the-browser = Önemli olanı koruyan tarayıcıyı indirin
 firefox-desktop-download-fast-reliable-private = Hızlı, güvenilir ve gizli: İnternette içiniz rahat olsun.
 firefox-desktop-set-as-default = { -brand-name-firefox }’u varsayılan tarayıcınız yapın.
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-no-shady = Anlaşılmaz gizlilik ilkelerimiz yok. Reklamcılara açık kapı bırakmak yok. Sizi satmayan, ışık hızında bir tarayıcı.
 firefox-desktop-download-download-options = İndirme seçenekleri ve diğer diller
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } desteği
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = İnternette ne yaparsanız yapın.<br> { -brand-name-firefox-browser } sizi <strong>koruyor</strong>.
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-do-what-you-do = İnternette ne yaparsanız yapın.<br> { -brand-name-firefox-browser } sizi <strong>izlemiyor</strong>.
 firefox-desktop-download-we-block-the-ad = Biz reklam takip kodlarını engelliyoruz, siz daha hızlı geziniyorsunuz
 firefox-desktop-download-ads-are-distracting = Reklamlar hem dikkatinizi dağıtıyor hem de web sayfalarını yavaşlatıyor, üstelik internette yaptığınız her hareketi izliyorlar. { -brand-name-firefox-browser } çoğu reklam takip kodunu otomatik olarak engelliyor. Güvenlik ayarlarına girmenize bile gerek yok.
 firefox-desktop-download-see-your-report = Koruma raporunuza bakın
@@ -117,10 +113,6 @@ firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozil
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = İnternet büyüyüp geliştikçe { -brand-name-firefox } gizlilik haklarınıza odaklanmayı sürdürüyor, hep yaptığımız gibi. <a { $attrs }>Gizlilik Bildirimimizden</a> veri uygulamalarımız hakkında daha fazla bilgi alabilirsiniz.
-# Obsolete string (expires: 2025-04-17)
-# Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = İnternet büyüyüp geliştikçe { -brand-name-firefox } gizlilik haklarınıza daha fazla odaklanıyor. Buna <a { $attrs }>Kişisel Veri Sözü</a> diyoruz: Daha az topla. Güvenle sakla. Sır tutma. Verileriniz, internette yaptıklarınız ve çevrimiçi yaşamınız { -brand-name-firefox } ile güvende.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } tarayıcısını tüm cihazlarınızda kullanabilirsiniz. Sekmelerinizi, geçmişinizi ve yer imlerinizi yanınızda taşımak için tek ihtiyacınız bir <a { $attrs }>{ -brand-name-mozilla-account }</a>. Hesap açarak verilerinizi senkronize edebilir ve diğer { -brand-name-mozilla } ürünlerine erişebilirsiniz.

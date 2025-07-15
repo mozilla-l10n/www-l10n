@@ -11,8 +11,6 @@ footer-refresh-learn-more-about-mozilla-advertising = Zhońće wjace <span>wo { 
 footer-refresh-firefox-release-notes = Wersijowe informacije { -brand-name-firefox }
 footer-refresh-privacy-first = Wabjenske rozrisanja za marki, wudawaćelow a platformy, kotrež priwatnosć na prěnje městno stajeja.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
-# Obsolete string (expires 22-04-2025)
-footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } slědować
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn

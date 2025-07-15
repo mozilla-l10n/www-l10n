@@ -22,14 +22,10 @@ firefox-desktop-out-of-date = Một phiên bản mới của { -brand-name-firef
 firefox-desktop-download-get-the-browser = Tải trình duyệt bảo vệ những gì quan trọng
 firefox-desktop-download-fast-reliable-private = Nhanh chóng, đáng tin cậy và riêng tư — để bạn yên tâm khi trực tuyến.
 firefox-desktop-set-as-default = Đặt { -brand-name-firefox } làm trình duyệt mặc định của bạn.
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-no-shady = Không có chính sách bảo mật mờ ám hoặc cửa sau cho các nhà quảng cáo. Chỉ cần một trình duyệt nhanh như chớp mà không bán bất kỳ thứ gì của bạn.
 firefox-desktop-download-download-options = Tùy chọn tải xuống và các ngôn ngữ khác
 firefox-desktop-download-browser-support = Hỗ trợ { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Làm những gì bạn làm trực tuyến.<br> { -brand-name-firefox-browser } sẽ <strong>bảo vệ</strong> bạn.
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-do-what-you-do = Làm những gì bạn làm trực tuyến.<br> { -brand-name-firefox-browser } <strong>sẽ không</strong> theo dõi.
 firefox-desktop-download-we-block-the-ad = Chúng tôi chặn trình theo dõi quảng cáo. Bạn khám phá internet nhanh hơn.
 firefox-desktop-download-ads-are-distracting = Quảng cáo gây mất tập trung và làm cho các trang web tải chậm hơn trong khi trình theo dõi của họ theo dõi mọi di chuyển bạn thực hiện trực tuyến. { -brand-name-firefox-browser } tự động chặn hầu hết các trình theo dõi, do đó, không cần phải đào sâu vào cài đặt bảo mật của bạn.
 firefox-desktop-download-see-your-report = Xem báo cáo bảo vệ của bạn
@@ -117,10 +113,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } được 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Khi internet phát triển và thay đổi, { -brand-name-firefox } tiếp tục tập trung vào quyền riêng tư của bạn — đó luôn là điều mà chúng tôi quan tâm. Tìm hiểu thêm về các hoạt động dữ liệu của chúng tôi trong <a { $attrs }>thông báo về quyền riêng tư</a>.
-# Obsolete string (expires: 2025-04-17)
-# Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = Khi internet phát triển và thay đổi, { -brand-name-firefox } tiếp tục tập trung vào quyền riêng tư của bạn  — chúng tôi gọi đó là <a { $attrs }>Lời hứa dữ liệu cá nhân</a>: Lấy ít hơn. Giữ nó an toàn. Không có bí mật. Dữ liệu của bạn, hoạt động web của bạn, cuộc sống trực tuyến của bạn được bảo vệ với { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } có sẵn trên tất cả các thiết bị của bạn; mang theo các thẻ, lịch sử và dấu trang của bạn. Tất cả những gì bạn cần là một <a { $attrs }>{ -brand-name-mozilla-account }</a> và bạn sẽ có quyền truy cập vào tính năng đồng bộ hóa và các sản phẩm khác của { -brand-name-mozilla }.

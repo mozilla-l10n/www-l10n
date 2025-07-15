@@ -11,8 +11,6 @@ footer-refresh-learn-more-about-mozilla-advertising = 详细了解 <span>{ foote
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 发行说明
 footer-refresh-privacy-first = 隐私为先的广告解决方案，专为品牌、发行商、平台定制。
 footer-refresh-mdn-v2 = { -brand-name-mdn }
-# Obsolete string (expires 22-04-2025)
-footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = 关注 @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn

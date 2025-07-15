@@ -11,8 +11,6 @@ footer-refresh-learn-more-about-mozilla-advertising = Mear ynfo <span>oer { foot
 footer-refresh-firefox-release-notes = { -brand-name-firefox }útjefteopmerkingen
 footer-refresh-privacy-first = Advertinsjeoplossingen dy’t privacy foarop stelle foar merken, útjouwers en platfoarms.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
-# Obsolete string (expires 22-04-2025)
-footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } folgje
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn

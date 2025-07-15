@@ -18,12 +18,6 @@ nightly-whatsnew-this-is-a-good = Hem { -brand-name-firefox } tarayıcısını g
 #   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
 nightly-whatsnew-if-you-want-to-v4 = { -brand-name-nightly } tarayıcısında ve topluluğunda neler olup bittiğini merak ediyorsanız <a { $blog }>blogumuzu</a> okuyabilir ve bizi <a { $mastodon }>Mastodon</a> veya <a { $bluesky }>Bluesky</a>’da takip edebilirsiniz.
 # Variables:
-#   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
-#   $twitter (url) - link to https://twitter.com/FirefoxNightly
-# Obsolete string (expires: 2025-04-18)
-nightly-whatsnew-if-you-want-to-v3 = { -brand-name-nightly } tarayıcısında ve topluluğunda neler olup bittiğini merak ediyorsanız <a { $blog }>blogumuzu</a> okuyabilir ve bizi <a { $mastodon }>Mastodon</a> veya <a { $twitter }>X</a>’te takip edebilirsiniz.
-# Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v3 = { -brand-name-nightly } tarayıcısında test edebileceğiniz, henüz diğer { -brand-name-firefox } kanallarında olmayan özellikleri mi merak ediyorsunuz? Öyleyse <a { $attrs }>{ -brand-name-firefox-labs }</a> tercihleri sayfasına bakabilirsiniz.
 # Variables:

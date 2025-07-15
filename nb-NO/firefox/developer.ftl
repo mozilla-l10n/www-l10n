@@ -84,13 +84,3 @@ firefox-developer-mdn-write-test-and-share = Skriv, test og del koden din. Din l
 firefox-developer-mdn-blog = { -brand-name-mdn } Blogg
 firefox-developer-mdn-unlock-the-world = Lås opp en verden av webutvikling med { -brand-name-mdn }-bloggen – ditt sentrale knutepunkt for ekspertinnsikt, de nyeste webstandardene og kodetips.
 firefox-developer-mdn-updates = Oppdateringer
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } er et samarbeidsprosjekt med åpen kildekode som dokumenterer webplattformteknologier, inkludert CSS, HTML, JavaScript og web-API-er.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn } Læreplan
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = En strukturert guide til de viktigste ferdighetene og praksisene for å bli en vellykket grenseflate-utvikler, sammen med anbefalte læringsressurser.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Støtt { -brand-name-mdn } og gjør den til din egen med samlinger, varsler og område får å teste din kode.

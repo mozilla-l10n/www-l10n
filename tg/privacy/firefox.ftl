@@ -20,11 +20,7 @@ privacy-firefox-builtin-control = Назорати дарунсохт
 privacy-firefox-always-protected = Ҳамеша дар зери назорат ва муҳофизат
 privacy-firefox-privacy-that-works = Махфияте, ки барои шумо кор мекунад
 privacy-firefox-manage-your-privacy = Танзимоти махфияти худро идора кунед:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = Браузери «{ -brand-name-firefox }» барои мизи корӣ
 privacy-firefox-firefox-for-desktop-v2 = Браузери «{ -brand-name-firefox }» барои мизи корӣ
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = Браузери «{ -brand-name-firefox }» барои дастгоҳи мобилӣ
 privacy-firefox-firefox-for-mobile-v2 = Браузери «{ -brand-name-firefox }» барои дастгоҳи мобилӣ
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Мундариҷа

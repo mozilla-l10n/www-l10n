@@ -85,15 +85,3 @@ firefox-developer-mdn-blog = Blog { -brand-name-mdn }
 firefox-developer-mdn-unlock-the-world = Nahlédněte do světa vývoje webu s blogem { -brand-name-mdn } – vaším hlavním centrem pro postřehy odborníků, nejnovější webové standardy a tipy pro programování.
 firefox-developer-mdn-updates = Aktualizace
 firefox-developer-mdn-the-web-doesnt-have = Web nemá seznam změn, ale { -brand-name-mdn } vám může pomoci. Změny kompatibility si můžete přizpůsobit a filtrovat na základě prohlížečů nebo kategorií technologií, které vás zajímají, ať už jde o JavaScript, CSS atd.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = Reference { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } je open source projekt dokumentující technologie webové platformy (CSS, HTML, JavaScript či webové rozhraní API).
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = Učební osnovy { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Strukturovaný průvodce základními dovednostmi a postupy pro úspěšného front-endového vývojáře spolu s doporučenými studijními zdroji.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Podpořte { -brand-name-mdn } a přizpůsobte si jej pomocí sbírek, upozornění a prostorů pro vyzkoušení.

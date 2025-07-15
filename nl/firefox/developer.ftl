@@ -85,15 +85,3 @@ firefox-developer-mdn-blog = { -brand-name-mdn }-blog
 firefox-developer-mdn-unlock-the-world = Ontgrendel de wereld van webontwikkeling met de { -brand-name-mdn }-blog – uw favoriete plek voor inzichten van experts, de nieuwste webstandaarden en codetips.
 firefox-developer-mdn-updates = Updates
 firefox-developer-mdn-the-web-doesnt-have = Het web heeft geen wijzigingsoverzicht, maar { -brand-name-mdn } kan helpen. U kunt compatibiliteitswijzigingen personaliseren en filteren op basis van browsers of de technische categorie waarin u bent geïnteresseerd, of dat nu JavaScript, CSS, enz. is.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn }-referenties
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } is een opensource samenwerkingsproject dat webplatformtechnologieën documenteert, waaronder CSS, HTML, JavaScript en web-API’s.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn }-curriculum
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Een gestructureerde gids voor de essentiële vaardigheden en praktijken om een succesvolle front-end-ontwikkelaar te zijn, samen met aanbevolen leerbronnen.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Ondersteun { -brand-name-mdn } en maak het van uzelf met collecties, notificaties en speelterreinen.

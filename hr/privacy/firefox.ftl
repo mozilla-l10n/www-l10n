@@ -7,11 +7,7 @@
 
 privacy-firefox-read-our-privacy = Pročitaj naše napomene o privatnosti
 privacy-firefox-manage-your-privacy = Upravljajte postavkama privatnosti:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = { -brand-name-firefox } za desktop
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } za desktop
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = { -brand-name-firefox } za mobilne uređaje
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } za mobilne uređaje
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Sadržaj

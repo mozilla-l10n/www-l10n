@@ -22,14 +22,10 @@ firefox-desktop-out-of-date = 已有更新的 { -brand-name-firefox } 可用。 
 firefox-desktop-download-get-the-browser = 选择会保护重要数据的浏览器
 firefox-desktop-download-fast-reliable-private = 快速、可靠、私密——让您高枕无忧。
 firefox-desktop-set-as-default = 将 { -brand-name-firefox } 设为默认浏览器。
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-no-shady = 没有晦涩难懂的隐私保护政策，更不向广告商预留后门，纯粹是一款闪电般快、不会出卖您的浏览器。
 firefox-desktop-download-download-options = 下载其他平台与语言版本
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser }用户支持
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = 上网无拘束<br>{ -brand-name-firefox-browser }为您<strong>护航</strong>
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-do-what-you-do = 上网无拘束。<br>{ -brand-name-firefox-browser }<strong>不会</strong>偷看。
 firefox-desktop-download-we-block-the-ad = 有我们拦截广告跟踪器，上网冲浪更畅快。
 firefox-desktop-download-ads-are-distracting = 广告使人分心，其中的跟踪器会监视您在网上的一举一动，并拖慢网页加载速度。{ -brand-name-firefox-browser }会自动拦截网上大部分的跟踪器，您大可不必深入研究哪些安全设置需要调整。
 firefox-desktop-download-see-your-report = 查看您的保护报告
@@ -117,10 +113,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } 一开始
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = 纵使互联网发展日新月异，{ -brand-name-firefox } 始终以您的隐私权为念，这一直是我们的宗旨。请阅读我们的<a { $attrs }>隐私声明</a>，详细了解我们对数据的处理方式。
-# Obsolete string (expires: 2025-04-17)
-# Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = 随着互联网的发展和改变，{ -brand-name-firefox } 更加注重于保护您的隐私权 — 我们称之为<a { $attrs }>个人数据承诺</a>：索取更少、确保安全、绝不隐瞒。{ -brand-name-firefox } 承诺保护您的数据、网络活动及在线生活。
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } 在各种设备上都能用，您可以把标签页、历史记录和书签随身带着走。只需登录 <a { $attrs }>{ -brand-name-mozilla-account }</a>即可使用同步服务以及更多 { -brand-name-mozilla } 产品。

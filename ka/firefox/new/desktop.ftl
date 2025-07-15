@@ -22,14 +22,10 @@ firefox-desktop-out-of-date = კიდევ უფრო ახალი { -br
 firefox-desktop-download-get-the-browser = ბრაუზერი, რომელიც იცავს იმას, რაც მეტად ღირებულია
 firefox-desktop-download-fast-reliable-private = სწრაფი, საიმედო და პირადი — ინტერნეტის მშვიდად გამოყენებისთვის.
 firefox-desktop-set-as-default = გახადეთ { -brand-name-firefox } ნაგულისხმევი ბრაუზერი.
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-no-shady = არავითარი ფარული მუხლები პირადულობის დებულებებში ან დატოვებული ხვრელები სარეკლამოებისთვის. მხოლოდ მსუბუქი ბრაუზერი, რომელიც თქვენი მონაცემებით არ ვაჭრობს.
 firefox-desktop-download-download-options = ჩამოტვირთვის ვარიანტები და სხვა ენები
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } მხარდაჭერა
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = აკეთეთ, რასაც აკეთებთ ხოლმე ინტერნეტში.<br> დანარჩენს { -brand-name-firefox-browser } <strong>მიხედავს</strong>.
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-do-what-you-do = აკეთეთ ინტერნეტში, რაც მოგესურვებათ.<br> { -brand-name-firefox-browser } <strong>არ</strong> გითვალთვალებთ.
 firefox-desktop-download-we-block-the-ad = სარეკლამო მეთვალყურეები შეზღუდულია. ვებგვერდების მონახულება გაცილებით სწრაფად შეგიძლიათ.
 firefox-desktop-download-ads-are-distracting = რეკლამები ყურადღების გამფანტავია და ანელებს გვერდების ჩატვირთვას, როცა თვალს ადევნებს თითოეულ თქვენს მოქმედებას ინტერნეტში. { -brand-name-firefox-browser } ზღუდავს მეთვალყურეების უმეტესობას ავტომატურად, ასე რომ არ დაგჭირდებათ პარამეტრებში დამატებით ძრომიალი.
 firefox-desktop-download-see-your-report = იხილეთ, უსაფრთხოების ანგარიში
@@ -117,10 +113,6 @@ firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozil
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = ინტერნეტის ზრდისა და ცვლილებების კვალდაკვალ, { -brand-name-firefox } განაგრძობს თქვენი პირადი მონაცემების ხელშეუხებლობის დაცვას — რაც ყოველთვის იყო ჩვენი მიზანი. გაეცანით, როგორ ვეპყრობით მონაცემებს ჩვენს <a { $attrs }>პირადულობის დებულებაში</a>.
-# Obsolete string (expires: 2025-04-17)
-# Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = ინტერნეტის ზრდისა და ცვლილებების კვალდაკვალ, { -brand-name-firefox } განაგრძობს, თქვენი პირადი მონაცემების ხელშეუხებლობის უფლების უზრუნველყოფას  — რასაც ვუწოდებთ <a { $attrs }>მონაცემების დაცვის პირობას</a>: ნაკლები აღრიცხვა. უსაფრთხო შენახვა. არავითარი საიდუმლოება. თქვენს მონაცემებს, ვებსივრცეში მოქმედებებს, პირად ცხოვრებას ინტერნეტში იცავს { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } ხელმისაწვდომია ყველა თქვენს მოწყობილობაზე; თან წაიყოლეთ თქვენი ჩანართები, ისტორია და სანიშნები. გესაჭიროებათ მხოლოდ ერთი <a { $attrs }>{ -brand-name-mozilla-account }</a>, რომ მყისიერი წვდომა გქონეთ სინქრონიზაციასა და სხვა { -brand-name-mozilla }-პროდუქტებთან.

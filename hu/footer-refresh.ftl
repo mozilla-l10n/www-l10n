@@ -11,8 +11,6 @@ footer-refresh-learn-more-about-mozilla-advertising = Tudjon meg többet a <span
 footer-refresh-firefox-release-notes = { -brand-name-firefox } kiadási megjegyzések
 footer-refresh-privacy-first = Adatvédelmet előtérbe helyező hirdetési megoldások márkák, kiadók és platformok számára.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
-# Obsolete string (expires 22-04-2025)
-footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Kövesse a következőt: @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn

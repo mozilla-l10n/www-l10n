@@ -25,11 +25,7 @@ privacy-firefox-firefox-protects-you = { -brand-name-firefox } beskermet jo tsji
 privacy-firefox-privacy-that-works = Privacy dy’t foar jo wurket
 privacy-firefox-firefox-makes-it = { -brand-name-firefox } makket it maklik om jo gegevens te behearen mei ynboude privacy- en befeiligensfunksjes, plus ynstellingen wêrmei’t jo jo sneupûnderfining fine-tune kinne.
 privacy-firefox-manage-your-privacy = Jo privacyynstellingen beheare:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = { -brand-name-firefox } foar Desktop
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } foar desktop
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = { -brand-name-firefox } foar mobyl
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } foar mobyl
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Ynhâld

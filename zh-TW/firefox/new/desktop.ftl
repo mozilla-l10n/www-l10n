@@ -22,14 +22,10 @@ firefox-desktop-out-of-date = 已推出新版本的 { -brand-name-firefox }。<a
 firefox-desktop-download-get-the-browser = 使用會保護重要資料的瀏覽器
 firefox-desktop-download-fast-reliable-private = 快速、可靠、有隱私 — 讓您上網無後顧之憂。
 firefox-desktop-set-as-default = 將 { -brand-name-firefox } 設成您的預設瀏覽器。
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-no-shady = 沒有諱莫如深的隱私權保護政策，更不留下後門給廣告商，純屬一套光速快，又不出賣您的瀏覽器。
 firefox-desktop-download-download-options = 下載其他平台與語言版本
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser }技術支援
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = 用您習慣的方式上網。<br>{ -brand-name-firefox-browser } <strong>會保護您</strong>。
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-do-what-you-do = 用您習慣的方式上網。<br>{ -brand-name-firefox-browser }<strong>不會</strong>偷看。
 firefox-desktop-download-we-block-the-ad = 交給我們封鎖廣告追蹤器，您就可以更快速悠遊上網。
 firefox-desktop-download-ads-are-distracting = 廣告讓人分心，當中的追蹤器會監控您在網路上的一舉一動，也讓網頁更慢載入。{ -brand-name-firefox-browser }會自動封鎖網路上大部分的追蹤器，這樣就不必深入研究到底有哪些安全性設定需要調整。
 firefox-desktop-download-see-your-report = 檢視您的保護報告
@@ -117,10 +113,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } 一開始
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = 隨著網際網路的發展與變化，{ -brand-name-firefox } 持續關注您的隱私權 — 我們總是這麼認為的。請參考<a { $attrs }>隱私權公告</a>了解我們的資料處理方式。
-# Obsolete string (expires: 2025-04-17)
-# Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = 隨著網路環境發展改變，{ -brand-name-firefox } 持續著重於保護您的隱私權 — 我們稱為 <a { $attrs }>Personal Data Promise</a>：資料拿得越少越好、確保資料安全、絕不祕而不宣。{ -brand-name-firefox } 承諾保護您的資料、在網路上的行為、線上生活。
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = 您所有的裝置平台都可以使用 { -brand-name-firefox }，只要註冊 <a { $attrs }>{ -brand-name-mozilla-account }</a>就可以把開啟的分頁、上網紀錄與書籤隨身帶著走，還可以使用更多 { -brand-name-mozilla } 產品。

@@ -25,11 +25,7 @@ privacy-firefox-firefox-protects-you = { -brand-name-firefox } vas štiti od poz
 privacy-firefox-privacy-that-works = Privatnost koja vam odgovara
 privacy-firefox-firefox-makes-it = { -brand-name-firefox } olakšava upravljanje vašim podacima pomoću ugrađenih funkcija privatnosti i sigurnosti, plus postavki koje vam omogućavaju fino podešavanje vašeg iskustva pregledavanja.
 privacy-firefox-manage-your-privacy = Upravljajte postavkama privatnosti:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = { -brand-name-firefox } za desktop
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } za desktop
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = { -brand-name-firefox } za mobilne uređaje
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } za mobilne uređaje
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Sadržaji

@@ -15,12 +15,8 @@ firefox-desktop-download-og-title = اب تک کا سب سے تیز { -brand-nam
 firefox-desktop-download-og-desc = تیز پیج لوڈنگ ، میموری کا کم استعمال اور خصوصیات سے بھرا ہوا ، نیا { -brand-name-firefox } یہاں ہے۔
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = براؤزر حاصل کریں جو حفظات کرتا ہنے جو آپکے لئے اہم ہے
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-no-shady = مشتھرین کے لئے کوئی مشکوک رازداری کی پالیسیاں یا پیچھے کے دروازے نہیں۔ صرف بجلی کا تیز تیز براؤزر جو آپ کو فروخت نہیں کرتا ہے۔
 firefox-desktop-download-download-options = ڈاؤن لوڈ  اختیارات اور دیگر زبانیں
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } سپورٹ
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-do-what-you-do = وہ کریں جو آپ آن لائن کرتے ہیں.<br> { -brand-name-firefox-browser }<strong> آپکو نہیں</strong> دیکھ رہا
 firefox-desktop-download-we-block-the-ad = ہم اشتہاری ٹریکروں کو بلاک کرتے ہیں۔ آپ انٹرنیٹ کو تیزی سے تلاش کرتے ہیں۔
 firefox-desktop-download-ads-are-distracting = اشتہارات پریشان کن ہیں اور ویب صفحات کو سست روی سے لوڈ کرتے ہیں جبکہ ان کے ٹریکرز آپ کے آن لائن کیے جانے والے ہر اقدام کو دیکھتے ہیں۔ { -brand-name-firefox-browser } زیادہ تر ٹریکروں کو خود بخود بلاک کرتا ہے ، لہذا آپ کی سیکیورٹی کی ترتیبات میں کھدائی کرنے کی ضرورت نہیں ہے۔
 firefox-desktop-download-see-your-report = اپنی تحفظ کی رپورٹ دیکھیں

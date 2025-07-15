@@ -5,6 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
-
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
-

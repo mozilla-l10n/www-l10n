@@ -85,15 +85,3 @@ firefox-developer-mdn-blog = { -brand-name-mdn } სვეტი
 firefox-developer-mdn-unlock-the-world = შეაღეთ ვებშემუშავების სამყაროს კარი { -brand-name-mdn }-სვეტის გაცნობით — თქვენი ძირითადი კერა ექსპერტთა მოსაზრებების, უახლესი ვებსტანდარტებისა და კოდის წერის შესახებ რჩევების მისაღებად.
 firefox-developer-mdn-updates = განახლებები
 firefox-developer-mdn-the-web-doesnt-have = ვებსივრცეს არ გააჩნია ცვლილებების ჩანაწერები, მაგრამ { -brand-name-mdn } დაგეხმარებათ. შეგიძლიათ მოირგოთ და გამოარჩიოთ თავსებადობის ცვლილებები ბრაუზერების ან თქვენთვის სასურველი ტექნოლოგიების მიხედვით, როგორიცაა JavaScript, CSS და სხვ.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn }-წყაროები
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } ღია წყაროს მქონე, ურთიერთთანამშრომლობით შექმნილი პროექტია, ვებსივრცის ისეთი ტექნოლოგიების გასაცნობად და აღსაწერად, როგორებიცაა CSS, HTML, JavaScript და სხვადასხვა API-ები.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn } სასწავლო გეგმა
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = დალაგებულად ჩამოწერილი გზამკვლევი ძირითადი უნარებისა და გამოცდილი ხერხების შესახებ, კლიენტისმხრივი გარსის შემუშავებისთვის რჩეულ სასწავლო მასალებთან ერთად.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = მხარი დაუჭირეთ და გახადეთ { -brand-name-mdn } მეტად თქვენებური საკუთარი კრებულებით, შეტყობინებებითა და საცდელი სივრცეებით.

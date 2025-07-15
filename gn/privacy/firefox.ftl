@@ -16,11 +16,7 @@ privacy-firefox-builtin-control = Tekorosã ñangareko
 privacy-firefox-always-protected = Oñemo’ã meméva
 privacy-firefox-privacy-that-works = Tekoñemi ndéve g̃uarã
 privacy-firefox-manage-your-privacy = Emongu’e nde rekoñemi ñemboheko:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = { -brand-name-firefox } mesa ariguápe
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } mesa ariguápe
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = { -brand-name-firefox } pumbyrygua
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } pumbyrýpe g̃uarã
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Tetepykuéra

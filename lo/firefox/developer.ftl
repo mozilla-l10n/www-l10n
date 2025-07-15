@@ -85,15 +85,3 @@ firefox-developer-mdn-blog = { -brand-name-mdn } ບົດຄວາມ
 firefox-developer-mdn-unlock-the-world = ປົດລັອກໂລກຂອງການພັດທະນາເວັບດ້ວຍບລັອກ { -brand-name-mdn } — ສູນກາງການໄປເຖິງຂອງທ່ານສຳລັບຄວາມເຂົ້າໃຈຂອງຜູ້ຊ່ຽວຊານ, ມາດຕະຖານເວັບຫຼ້າສຸດ ແລະ ຄໍາແນະນໍາການເຂົ້າລະຫັດ.
 firefox-developer-mdn-updates = ອັບເດດ
 firefox-developer-mdn-the-web-doesnt-have = ເວັບໄຊຕ໌ບໍ່ມີ changelog, ແຕ່ { -brand-name-mdn } ສາມາດຊ່ວຍໄດ້. ທ່ານສາມາດປັບແຕ່ງສ່ວນບຸກຄົນ ແລະ ການກັ່ນຕອງການປ່ຽນແປງທີ່ເຂົ້າກັນໄດ້ໂດຍອີງໃສ່ຕົວທ່ອງເວັບ ຫຼື ປະເພດເຕັກໂນໂລຢີທີ່ທ່ານສົນໃຈບໍ່ວ່າຈະເປັນ JavaScript, CSS, ແລະ ອື່ນໆ.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn } ການອ້າງອີງ
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } ເປັນ open-source, ໂຄງການຮ່ວມມືທີ່ບັນທຶກເທັກໂນໂລຍີເວທີເວັບ, ລວມທັງ CSS, HTML, JavaScript ແລະ web APIs.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn } ຫຼັກສູດ
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = ຄູ່ມືທີ່ມີໂຄງສ້າງສໍາລັບທັກສະ ແລະ ການປະຕິບັດທີ່ຈໍາເປັນສໍາລັບການເປັນຜູ້ພັດທະນາຊັ້ນຫນ້າທີ່ປະສົບຜົນສໍາເລັດ, ພ້ອມກັບແຫຼ່ງການຮຽນຮູ້ທີ່ແນະນໍາ.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = ສະຫນັບສະຫນູນ { -brand-name-mdn } ແລະ ເຮັດໃຫ້ມັນເປັນຂອງຕົນເອງດ້ວຍການເກັບລວບລວມ, ການແຈ້ງເຕືອນ, ແລະ ບ່ອນຫຼິ້ນ.

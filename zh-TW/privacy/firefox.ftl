@@ -25,11 +25,7 @@ privacy-firefox-firefox-protects-you = { -brand-name-firefox } 保護您不受�
 privacy-firefox-privacy-that-works = 適合您的隱私保護
 privacy-firefox-firefox-makes-it = { -brand-name-firefox } 讓您輕鬆透過內建的隱私與安全性功能管理資料，還有能讓您微調上網體驗的相關選項。
 privacy-firefox-manage-your-privacy = 管理您的隱私相關設定：
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = { -brand-name-firefox } 桌面版
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } 桌面版
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = { -brand-name-firefox } 行動版
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } 行動版
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = 內容

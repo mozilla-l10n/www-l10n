@@ -25,11 +25,7 @@ privacy-firefox-firefox-protects-you = A { -brand-name-firefox } megvédi Önt a
 privacy-firefox-privacy-that-works = Adatvédelem, amely Önnek dolgozik
 privacy-firefox-firefox-makes-it = A { -brand-name-firefox } megkönnyíti az adatai kezelését a beépített adatvédelmi és biztonsági funkciókkal, valamint a böngészési élményét finomhangoló beállításoknak köszönhetően.
 privacy-firefox-manage-your-privacy = Adatvédelmi beállítások kezelése:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = { -brand-name-firefox } számítógépre
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } számítógépre
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = { -brand-name-firefox } mobilra
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } mobilra
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Tartalom

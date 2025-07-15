@@ -11,8 +11,6 @@ footer-refresh-learn-more-about-mozilla-advertising = იხილეთ ვრ�
 footer-refresh-firefox-release-notes = { -brand-name-firefox } – გამოშვების შენიშვნები
 footer-refresh-privacy-first = პირადულობის უწინარესობის გათვალისწინებით რეკლამა ბრენდების, გამომცემლებისა და პლატფორმებისთვის.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
-# Obsolete string (expires 22-04-2025)
-footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = გამოიწერეთ @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn

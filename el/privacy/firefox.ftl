@@ -25,11 +25,7 @@ privacy-firefox-firefox-protects-you = Το { -brand-name-firefox } σάς πρ�
 privacy-firefox-privacy-that-works = Απόρρητο που λειτουργεί για εσάς
 privacy-firefox-firefox-makes-it = Το { -brand-name-firefox } διευκολύνει τη διαχείριση των δεδομένων σας με ενσωματωμένες λειτουργίες απορρήτου και ασφάλειας, καθώς και ρυθμίσεις που επιτρέπουν να βελτιώσετε την εμπειρία περιήγησής σας.
 privacy-firefox-manage-your-privacy = Διαχειριστείτε τις ρυθμίσεις απορρήτου σας:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = { -brand-name-firefox } για υπολογιστές
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } για υπολογιστές
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = { -brand-name-firefox } για κινητές συσκευές
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } για κινητές συσκευές
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Περιεχόμενα

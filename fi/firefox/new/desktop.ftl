@@ -21,14 +21,10 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Uudempi { -brand-name-firefox } on saatavilla. <a { $update_url }>Päivitä uusimpaan versioon</a>
 firefox-desktop-download-get-the-browser = Hanki tärkeitä asioita suojaava selain
 firefox-desktop-download-fast-reliable-private = Nopea, luotettava ja yksityinen – mielenrauhan takaamiseksi verkossa.
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-no-shady = Ei hämäriä tietosuojakäytäntöjä tai takaovia mainostajille. Vain salamannopea selain, jolle et ole kauppatavaraa.
 firefox-desktop-download-download-options = Latausvalinnat ja muut kielet
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser }-tuki
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Tee mitä haluat verkossa.<br> { -brand-name-firefox-browser } <strong>suojaa</strong> sinua.
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-do-what-you-do = Tee mitä haluat verkossa.<br> { -brand-name-firefox-browser } <strong>ei</strong> tarkkaile.
 firefox-desktop-download-we-block-the-ad = Mainosseuraimet estetty. Tutkit Internetiä nopeammin.
 firefox-desktop-download-ads-are-distracting = Mainokset häiritsevät ja niiden vuoksi verkkosivut latautumaan hitaammin, kun niiden seuraimet seuraavat jokaista liikettäsi verkossa. { -brand-name-firefox-browser } estää useimmat seuraimet automaattisesti, joten sinun ei välttämättä tarvitse penkoa turvallisuusasetuksia.
 firefox-desktop-download-see-your-report = Tarkastele suojausraporttiasi
@@ -116,10 +112,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } on luotu 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Internetin kasvaessa ja muuttuessa { -brand-name-firefox } keskittyy edelleen oikeuteesi yksityisyyteen – se on aina ollut meidän juttumme. Lisätietoja datakäytännöistämme on <a { $attrs }>tietosuojakäytännössämme</a>.
-# Obsolete string (expires: 2025-04-17)
-# Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = Internetin kasvaessa ja muuttuessa { -brand-name-firefox } keskittyy edelleen oikeuteesi yksityisyyteen – kutsumme sitä <a { $attrs }>henkilökohtaisten tietojen lupaukseksi</a>: Ota vähemmän. Pidä se turvassa. Ei salaisuuksia. { -brand-name-firefox } suojaa tietojasi ja toimintaasi verkossa.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } on saatavilla kaikilla laitteillasi; ota välilehdet, historia ja kirjanmerkit mukaasi. Tarvitset vain <a { $attrs }>{ -brand-name-mozilla-account }</a>n ja pääset käyttämään synkronointia ja muita { -brand-name-mozilla }-tuotteita.

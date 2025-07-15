@@ -25,11 +25,7 @@ privacy-firefox-firefox-protects-you = { -brand-name-firefox } გიცავ�
 privacy-firefox-privacy-that-works = თქვენზე მორგებული პირადულობა
 privacy-firefox-firefox-makes-it = { -brand-name-firefox } გიადვილებთ თქვენი მონაცემების განკარგვის საშუალებას პირადულობისა და უსაფრთხოების ჩაშენებული შესაძლებლობებით, ამასთანავე, ისეთი პარამეტრებით, რომლებითაც უკეთ შეძლებთ, სურვილისამებრ ინახულოთ გვერდები.
 privacy-firefox-manage-your-privacy = მართეთ თქვენი პირადულობის პარამეტრები:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = { -brand-name-firefox } კომპიუტერისთვის
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } კომპიუტერისთვის
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = { -brand-name-firefox } მობილურზე
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } მობილურზე
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = სარჩევი

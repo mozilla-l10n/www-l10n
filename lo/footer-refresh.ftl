@@ -11,8 +11,6 @@ footer-refresh-learn-more-about-mozilla-advertising = ສຶກສາເພີ�
 footer-refresh-firefox-release-notes = { -brand-name-firefox } ບັນທຶກການປ່ອຍ
 footer-refresh-privacy-first = ຄວາມເປັນສ່ວນຕົວ - ການແກ້ໄຂການໂຄສະນາມາກ່ອນ ສໍາລັບຍີ່ຫໍ້, ຜູ້ເຜີຍແຜ່, ແລະ ເວທີ.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
-# Obsolete string (expires 22-04-2025)
-footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = ຕິດຕາມ @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn

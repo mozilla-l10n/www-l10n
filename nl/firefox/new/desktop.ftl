@@ -22,14 +22,10 @@ firefox-desktop-out-of-date = Er is een nog nieuwere { -brand-name-firefox } bes
 firefox-desktop-download-get-the-browser = Download de browser die beschermt wat belangrijk is
 firefox-desktop-download-fast-reliable-private = Snel, betrouwbaar en privé – voor gemoedsrust online.
 firefox-desktop-set-as-default = { -brand-name-firefox } als uw standaardbrowser instellen.
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-no-shady = Geen schimmig privacybeleid of achterdeurtjes voor adverteerders. Gewoon een razendsnelle browser die u niet bedriegt.
 firefox-desktop-download-download-options = Downloadopties en andere talen
 firefox-desktop-download-browser-support = Ondersteuning voor { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Doe wat u online doet. <br> { -brand-name-firefox-browser } heeft u <strong>gedekt</strong>.
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-do-what-you-do = Doe wat u online doet. <br> { -brand-name-firefox-browser } kijkt <strong>niet</strong> mee.
 firefox-desktop-download-we-block-the-ad = Wij blokkeren de advertentietrackers. U surft sneller over het internet.
 firefox-desktop-download-ads-are-distracting = Advertenties leiden af en zorgen ervoor dat webpagina’s langzamer worden geladen, terwijl hun trackers al uw online handelingen volgen. De { -brand-name-firefox-browser } blokkeert de meeste trackers automatisch, dus u hoeft uw beveiligingsinstellingen niet door te spitten.
 firefox-desktop-download-see-your-report = Uw beschermingsrapport bekijken
@@ -117,10 +113,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } werd door
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Terwijl het internet groeit en verandert, blijft { -brand-name-firefox } zich richten op uw recht op privacy – dat is altijd ons ding geweest. Lees meer over onze gegevenspraktijken in onze <a { $attrs }>Privacyverklaring</a>.
-# Obsolete string (expires: 2025-04-17)
-# Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = Terwijl het internet groeit en verandert, blijft { -brand-name-firefox } zich concentreren op uw recht op privacy – we noemen het de <a { $attrs }>Persoonlijke Gegevensbelofte</a>: Neem minder. Houd het veilig. Geen geheimen. Uw gegevens, uw webactiviteit en uw online leven worden beschermd met { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } is beschikbaar op al uw apparaten; neem uw tabbladen, geschiedenis en bladwijzers mee. Het enige dat u nodig hebt, is een <a { $attrs }>{ -brand-name-mozilla-account }</a>, en u krijgt toegang tot synchronisatie en meer { -brand-name-mozilla }-producten.

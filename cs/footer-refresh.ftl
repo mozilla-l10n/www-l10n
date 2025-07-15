@@ -11,8 +11,6 @@ footer-refresh-learn-more-about-mozilla-advertising = Další informace <span>o 
 footer-refresh-firefox-release-notes = Poznámky k vydání { -brand-name-firefox(case: "gen") }
 footer-refresh-privacy-first = Reklamní řešení pro značky, vydavatele a platformy s ohledem na ochranu soukromí.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
-# Obsolete string (expires 22-04-2025)
-footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Sledujte @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn

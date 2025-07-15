@@ -11,6 +11,3 @@
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Elŝutu { -brand-name-firefox-browser } el { -brand-name-mozilla }. Rapida, privata kaj senpaga.
 firefox-desktop-download-meta-title-v2 = Elŝutu { -brand-name-firefox } por komputiloj — el { -brand-name-mozilla }
-
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
-

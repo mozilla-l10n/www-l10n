@@ -6,6 +6,3 @@
 ### URL: https://www-dev.allizom.org/firefox/new/
 
 firefox-desktop-download-bookmarks-manager = Xatchoʻplar menejeri
-
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
-

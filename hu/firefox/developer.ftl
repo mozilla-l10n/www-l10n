@@ -85,15 +85,3 @@ firefox-developer-mdn-blog = { -brand-name-mdn } Blog
 firefox-developer-mdn-unlock-the-world = Tekintsen be a webfejlesztés világába a { -brand-name-mdn } Bloggal – a szakértői meglátások, a legújabb webes szabványok és a kódolási tippek legjobb központja.
 firefox-developer-mdn-updates = Friss hírek
 firefox-developer-mdn-the-web-doesnt-have = A webnek nincs változásnaplója, de az { -brand-name-mdn } segíthet. Testre szabhatja és szűrheti az Önt érdeklő kompatibilitási változásokat a böngészője vagy a technológiai kategória alapján, legyen az JavaScript, CSS stb.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn } hivatkozások
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = A { -brand-name-mdn } egy nyílt forráskódú, együttműködésen alapuló projekt, amely webes platformtechnológiákat dokumentál, beleértve a CSS-t, HTML-t, JavaScriptet és a webes API-kat.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn } tanterv
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Strukturált útmutató a sikeres frontendfejlesztők létfontosságú készségeihez és gyakorlataihoz, az ajánlott tanulási erőforrásokkal együtt.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Támogassa az { -brand-name-mdn(case: "accusative") }, és tegye a sajátjává a gyűjteményekkel, értesítésekkel és játszóterekkel.

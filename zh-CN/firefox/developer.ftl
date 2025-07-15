@@ -85,15 +85,3 @@ firefox-developer-mdn-blog = { -brand-name-mdn } 博客
 firefox-developer-mdn-unlock-the-world = 通过 { -brand-name-mdn } 博客探索 Web 开发的世界，这里是您了解专业见解、最新 Web 标准、编程技巧的智库。
 firefox-developer-mdn-updates = 更新
 firefox-developer-mdn-the-web-doesnt-have = Web 没有更新日志，但 { -brand-name-mdn } 可以帮到您。您可以按照浏览器和感兴趣的技术类别（例如 JavaScript 和 CSS）来个性化查看及筛选兼容性更改。
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn } 参考文档
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } 是提供 Web 平台技术相关文档的协作式开源项目，内容涵盖 CSS、HTML、JavaScript 以及 Web API。
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn } 课程
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = 体例完善的指南中包含基础技能和实践，再配以推荐的学习资源，助您成为优秀的前端开发者。
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = 为 { -brand-name-mdn } 提供支持，并借助收藏集、通知、演练场，将 { -brand-name-mdn } 化为己用。

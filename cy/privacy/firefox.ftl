@@ -25,11 +25,7 @@ privacy-firefox-firefox-protects-you = Mae { -brand-name-firefox } yn eich dioge
 privacy-firefox-privacy-that-works = Preifatrwydd sy'n gweithio i chi
 privacy-firefox-firefox-makes-it = Mae { -brand-name-firefox } yn ei gwneud hi'n hawdd rheoli'ch data gyda nodweddion preifatrwydd a diogelwch integredig, ynghyd â gosodiadau sy'n caniatáu ichi fireinio'ch profiad pori.
 privacy-firefox-manage-your-privacy = Rheoli eich gosodiadau preifatrwydd:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = { -brand-name-firefox } ar gyfer y Bwrdd Gwaith
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } ar gyfer bwrdd gwaith
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = { -brand-name-firefox } ar gyfer Symudol
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } ar gyfer symudol
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Cynnwys

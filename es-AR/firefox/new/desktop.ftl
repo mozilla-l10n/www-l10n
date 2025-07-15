@@ -22,14 +22,10 @@ firefox-desktop-out-of-date = Está disponible un { -brand-name-firefox } aún m
 firefox-desktop-download-get-the-browser = Obtené el navegador que protege lo importante
 firefox-desktop-download-fast-reliable-private = Rápido, confiable y privado para tu tranquilidad en línea.
 firefox-desktop-set-as-default = Establecé { -brand-name-firefox } como tu navegador predeterminado.
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-no-shady = No hay políticas de privacidad sospechosas o puertas traseras para los anunciantes. Solo un navegador super veloz que no te vende.
 firefox-desktop-download-download-options = Opciones de descarga y otros idiomas
 firefox-desktop-download-browser-support = Ayuda para { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Hacé lo que quieras en línea.<br> { -brand-name-firefox-browser } te tiene <strong>cubierto</strong>.
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-do-what-you-do = Hagás lo que hagás en línea <br> { -brand-name-firefox-browser } <strong> no está </strong> mirando.
 firefox-desktop-download-we-block-the-ad = Bloqueamos los rastreadores de publicidad. Podés explorar Internet más rápido.
 firefox-desktop-download-ads-are-distracting = La publicidad distrae y hace que las páginas web se carguen más lentamente mientras que sus rastreadores observan cada movimiento que usted hace en línea. El { -brand-name-firefox-browser } bloquea la mayoría de los rastreadores automáticamente, por lo que no es necesario profundizar en su configuración de seguridad.
 firefox-desktop-download-see-your-report = Mirá tu informe de protección
@@ -117,10 +113,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } fue cread
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = A medida que internet crece y cambia, { -brand-name-firefox } continúa enfocándose en tu derecho a la privacidad; eso siempre ha sido lo nuestro. Conocé más sobre nuestras prácticas con respecto a los datos en nuestra <a { $attrs }>Nota de privacidad</a>.
-# Obsolete string (expires: 2025-04-17)
-# Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = A medida que Internet crece y cambia, { -brand-name-firefox } continúa enfocándose en tu derecho a la privacidad; lo llamamos la <a { $attrs }>Promesa de datos personales</a>: toma menos. Lo mantiene seguro. Sin secretos. Tus datos, tu actividad web, tu vida en línea están protegidos con { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } está disponible en todos sus dispositivos; llevate las pestañas, el historial y los marcadores. Todo lo que necesitás es una <a { $attrs }>{ -brand-name-mozilla-account }</a> y tendrás acceso a la sincronización y más productos de { -brand-name-mozilla }.

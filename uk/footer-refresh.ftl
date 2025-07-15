@@ -11,8 +11,6 @@ footer-refresh-learn-more-about-mozilla-advertising = Докладніше <span
 footer-refresh-firefox-release-notes = Примітки до випуску { -brand-name-firefox }
 footer-refresh-privacy-first = Рекламні рішення, що першочергово дбають про приватність. Для брендів, видавців і платформ.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
-# Obsolete string (expires 22-04-2025)
-footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Стежити за @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn

@@ -25,11 +25,7 @@ privacy-firefox-firefox-protects-you = { -brand-name-firefox } te protege de not
 privacy-firefox-privacy-that-works = Confidentialitate que functiona pro te
 privacy-firefox-firefox-makes-it = { -brand-name-firefox } rende facile gerer tu datos con functiones de confidentialitate e securitate integrate, plus parametros que te permitte de accordar finmente tu experientia de navigation.
 privacy-firefox-manage-your-privacy = Gere tu parametros de confidentialitate:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = { -brand-name-firefox } pro scriptorio
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } pro scriptorio
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = { -brand-name-firefox } pro mobile
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } pro mobile
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Contentos

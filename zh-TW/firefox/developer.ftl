@@ -85,15 +85,3 @@ firefox-developer-mdn-blog = { -brand-name-mdn } 部落格
 firefox-developer-mdn-unlock-the-world = 到 { -brand-name-mdn } 部落格解鎖網頁開發的世界 — 這是一個提供專家意見、最新網頁標準與程式碼寫作秘訣的必去平台。
 firefox-developer-mdn-updates = 最新資訊
 firefox-developer-mdn-the-web-doesnt-have = 網路技術沒有更新紀錄，但 { -brand-name-mdn } 可以協助。您可以依照使用的瀏覽器或有興趣的技術分類（不論是 JavaScript、CSS，或其他技術）等來過濾出相容性的變化。
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn } 參考資料
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } 是一套開放原始碼、包含 CSS、HTML、JavaScript 及 Web API 等網頁平台技術文件的協作專案。
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn } 課程
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = 關於成為成功的前端開發者必須具備的能力、實踐方式以及推薦的學習資源的結構化指南。
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = 支援 { -brand-name-mdn } 並透過收藏集、通知與 Playground 來打造您自己的風格。

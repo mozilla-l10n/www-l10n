@@ -11,6 +11,3 @@ firefox-desktop-download-themes = అలంకారాలు
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-screenshots = తెరపట్లు
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
-
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
-

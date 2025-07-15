@@ -25,11 +25,7 @@ privacy-firefox-firefox-protects-you = { -brand-name-firefox } skyddar dig från
 privacy-firefox-privacy-that-works = Integritet som fungerar för dig
 privacy-firefox-firefox-makes-it = { -brand-name-firefox } gör det enkelt att hantera dina data med inbyggda sekretess- och säkerhetsfunktioner, plus inställningar som låter dig finjustera din webbupplevelse.
 privacy-firefox-manage-your-privacy = Hantera dina sekretessinställningar:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = { -brand-name-firefox } för datorer
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } för datorer
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = { -brand-name-firefox } för mobil
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } för mobil
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Innehåll

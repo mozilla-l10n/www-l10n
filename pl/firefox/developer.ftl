@@ -80,5 +80,3 @@ firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Zasoby dla deweloperów, od deweloperów
 firefox-developer-mdn-blog = Blog { -brand-name-mdn }
 firefox-developer-mdn-updates = Aktualizacje
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }

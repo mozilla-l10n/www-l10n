@@ -83,15 +83,3 @@ firefox-developer-mdn-playground = Laborator
 firefox-developer-mdn-write-test-and-share = Shkruani, testoni dhe ndan me të tjerë kodin tuaj. Bankëprova juaj për të mësuar dhe ndarë me botën punën tuaj mahnitëse.
 firefox-developer-mdn-blog = Blogu i { -brand-name-mdn }
 firefox-developer-mdn-updates = Përditësime
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = Referenca { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } është një projekt me burim të hapët, që zhvillohet përmes bashkëpunimi, për dokumentim teknologjish platformash web, përfshi CSS, HTML, JavaScript dhe API web.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = Curriculum { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Një udhërrëfyes i strukturuar rreth aftësish thelbësore dhe praktikash për të filluar të jeni një zhvillues i suksesshëm <em>front-end</em>, tok me burime të rekomanduara të nxëni.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Përkrahni { -brand-name-mdn } dhe bëjeni si e doni, me koleksione, njoftime dhe bankëprova eksperimentesh.

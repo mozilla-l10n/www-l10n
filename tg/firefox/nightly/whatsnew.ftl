@@ -18,12 +18,6 @@ nightly-whatsnew-this-is-a-good = Мо мехоҳем аз фурсат исти
 #   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
 nightly-whatsnew-if-you-want-to-v4 = Агар шумо мехоҳед, ки аз ҳамаи навгониҳо дар атрофи «{ -brand-name-nightly }» ва ҷомеаи он бохабар бошед, шумо метавонед аз хондани <a { $blog }>блоги мо</a> ва пайравӣ кардани фаъолияти мо дар <a { $mastodon }>«Mastodon»</a> ё <a { $bluesky }>«Bluesky»</a> оғоз намоед.
 # Variables:
-#   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
-#   $twitter (url) - link to https://twitter.com/FirefoxNightly
-# Obsolete string (expires: 2025-04-18)
-nightly-whatsnew-if-you-want-to-v3 = Агар шумо мехоҳед, ки аз ҳамаи навгониҳо дар атрофи «{ -brand-name-nightly }» ва ҷомеаи он бохабар бошед, шумо метавонед аз хондани <a { $blog }>блоги мо</a> ва пайравӣ кардани фаъолияти мо дар <a { $mastodon }>«Mastodon»</a> ё <a { $twitter }>«X»</a> оғоз намоед.
-# Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v3 = Шумо мехоҳед фаҳмед, ки кадом хусусиятҳои платформа фақат барои озмоиш дар «{ -brand-name-nightly }» дастрасанд ва то ҳол дар шабакаҳои дигари «{ -brand-name-firefox }» дастрас нестанд? Пас ба саҳифаи хусусиятҳои <a { $attrs }>«{ -brand-name-firefox-labs }»</a> ворид шавед ва навгониҳоро омӯзед.
 # Variables:

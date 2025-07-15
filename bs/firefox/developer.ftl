@@ -85,15 +85,3 @@ firefox-developer-mdn-blog = { -brand-name-mdn } blog
 firefox-developer-mdn-unlock-the-world = Otključajte svijet web razvoja uz { -brand-name-mdn } blog — vaš centar za stručne uvide, najnovije web standarde i savjete za kodiranje.
 firefox-developer-mdn-updates = Nadogradnje
 firefox-developer-mdn-the-web-doesnt-have = Web nema dnevnik promjena, ali { -brand-name-mdn } može pomoći. Možete personalizirati i filtrirati promjene kompatibilnosti na osnovu pretraživača ili tehničke kategorije koja vas zanima da li je to JavaScript, CSS, itd.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = { -brand-name-mdn } reference
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } je open-source, kolaborativni projekat koji dokumentuje tehnologije web platforme, uključujući CSS, HTML, JavaScript i web API-je.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = { -brand-name-mdn } plan i program
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Strukturirani vodič za osnovne vještine i prakse za uspješnog front-end programera, zajedno s preporučenim resursima za učenje.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Podržite { -brand-name-mdn } i učinite ga svojim s kolekcijama, obavještenjima i igralištima.

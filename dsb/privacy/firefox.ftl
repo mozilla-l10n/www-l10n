@@ -25,11 +25,7 @@ privacy-firefox-firefox-protects-you = { -brand-name-firefox } was pśed znatymi
 privacy-firefox-privacy-that-works = Priwatnosć, kótaraž za was funkcioněrujo
 privacy-firefox-firefox-makes-it = { -brand-name-firefox } wam wólažcujo, waše daty ze zatwarjonymi funkcijami priwatnosći a wěstoty zastojaś, mimo togo nastajenja, kótarež wam zmóžnjaju, waše pśeglědowańske dožywjenje wótgłosowaś.
 privacy-firefox-manage-your-privacy = Zastojśo swóje nastajenja priwatnosći:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = { -brand-name-firefox } za Desktop
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } za desktop
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = { -brand-name-firefox } za mobilne rědy
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } za mobilne rědy
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Wopśimjeśe

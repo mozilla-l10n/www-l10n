@@ -85,15 +85,3 @@ firefox-developer-mdn-blog = Blog { -brand-name-mdn }
 firefox-developer-mdn-unlock-the-world = Wótwóŕśo swět webwuwiśa z blogom { -brand-name-mdn } – wašo srjejźišćo za dopóznaśa ekspertow, nejnowše webstandardy a programěrowańske tipy.
 firefox-developer-mdn-updates = Aktualizacije
 firefox-developer-mdn-the-web-doesnt-have = Web njama protokol změnow, ale { -brand-name-mdn } móžo pomagaś. Móžośo změny kompatibelnosći na zakłaźe wobglědowakow abo techniskeje kategorije personalizěrowaś a filtrowaś, za kótarež zajm maśo, lěc jo JavaScript, CSS atd.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = Reference { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } jo projekt wótwórjonego žrědła za zgromadne źěło, kótaryž technologije platformow dokumentěrujo, na pśikład CSS, HTML, JavaScript a webowe API.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = Wucbny plan { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Strukturěrowany pśewódnik za zakładne znajobnosći a praktiki za wuspěšnego wuwijarja front-enda, gromaźe z dopóruconymi wuknjeńskimi resursami.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Pódprějśo { -brand-name-mdn } a pśiswójśo se jen ze zběrkami, powěźeńkami a grajkanišćami.

@@ -25,11 +25,7 @@ privacy-firefox-firefox-protects-you = { -brand-name-firefox }는 웹에서 사�
 privacy-firefox-privacy-that-works = 사용자에게 적합한 개인 정보 보호
 privacy-firefox-firefox-makes-it = { -brand-name-firefox }는 내장된 개인 정보 보호와 보안 기능, 브라우징 경험을 미세 조정할 수 있는 설정으로 데이터를 쉽게 관리할 수 있게 해줍니다.
 privacy-firefox-manage-your-privacy = 개인 정보 설정 관리:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = 데스크톱 용 { -brand-name-firefox }
 privacy-firefox-firefox-for-desktop-v2 = 데스크톱 용 { -brand-name-firefox }
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = 모바일 용 { -brand-name-firefox }
 privacy-firefox-firefox-for-mobile-v2 = 모바일 용 { -brand-name-firefox }
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = 내용

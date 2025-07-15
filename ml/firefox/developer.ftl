@@ -66,5 +66,3 @@ firefox-developer-download-the-firefox-browser = ഡെവലപ്പര്‍�
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-mdn-playground = കളിയിടം
 firefox-developer-mdn-updates = പുതുക്കലുകൾ
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }

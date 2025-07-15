@@ -85,15 +85,3 @@ firefox-developer-mdn-blog = Ιστολόγιο { -brand-name-mdn }
 firefox-developer-mdn-unlock-the-world = Ξεκλειδώστε τον κόσμο της ανάπτυξης διαδικτύου με το ιστολόγιο { -brand-name-mdn } — το ιδανικό κέντρο για πληροφορίες από ειδικούς, τα πιο πρόσφατα πρότυπα ιστού και συμβουλές προγραμματισμού.
 firefox-developer-mdn-updates = Ενημερώσεις
 firefox-developer-mdn-the-web-doesnt-have = Το διαδίκτυο δεν διαθέτει κάποιο αρχείο καταγραφής αλλαγών, αλλά το { -brand-name-mdn } μπορεί να σας βοηθήσει. Μπορείτε να εξατομικεύσετε και να φιλτράρετε τις αλλαγές συμβατότητας βάσει των προγραμμάτων περιήγησης ή της τεχνολογικής κατηγορίας που σας ενδιαφέρει, είτε πρόκειται για τη JavaScript, τη CSS κ.α.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = Αναφορές { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = Το { -brand-name-mdn } είναι ένα συλλογικό έργο ανοικτού κώδικα, το οποίο τεκμηριώνει τις τεχνολογίες της διαδικτυακής πλατφόρμας, όπως τα CSS, HTML, JavaScript και web API.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = Πρόγραμμα σπουδών { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Ένας δομημένος οδηγός για τις απαραίτητες δεξιότητες και πρακτικές για έναν επιτυχημένο προγραμματιστή περιβάλλοντος χρήστη, μαζί με προτεινόμενους πόρους εκμάθησης.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Υποστηρίξτε το { -brand-name-mdn } και κάντε το δικό σας με συλλογές, ειδοποιήσεις και χώρους πειραματισμού.

@@ -11,8 +11,6 @@ footer-refresh-learn-more-about-mozilla-advertising = Mësoni më tepër <span>r
 footer-refresh-firefox-release-notes = Shënime Hedhjesh Në Qarkullim { -brand-name-firefox }-i
 footer-refresh-privacy-first = Zgjidhje reklamash që mbajnë privatësinë të parën, për marka, botues dhe platforma.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
-# Obsolete string (expires 22-04-2025)
-footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Ndiqni @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn

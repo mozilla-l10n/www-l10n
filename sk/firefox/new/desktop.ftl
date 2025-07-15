@@ -22,14 +22,10 @@ firefox-desktop-out-of-date = K dispozícii je ešte novšia verzia { -brand-nam
 firefox-desktop-download-get-the-browser = Získajte prehliadač, ktorý chráni to, čo je dôležité
 firefox-desktop-download-fast-reliable-private = Rýchly, spoľahlivý a súkromný – pre pokoj online.
 firefox-desktop-set-as-default = Nastavte si { -brand-name-firefox } ako predvolený prehliadač.
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-no-shady = Žiadne zahmlievacie pravidlá ochrany osobných údajov ani zadné vrátka pre inzerentov. Len bleskovo rýchly prehliadač, ktorý vás nepredáva.
 firefox-desktop-download-download-options = Možnosti sťahovania a iné jazyky
 firefox-desktop-download-browser-support = Podpora pre { -brand-name-firefox-browser(capitalization: "lower") }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Robte to, čo robíte online.<br> { -brand-name-firefox-browser } vám <strong>kryje</strong> chrbát.
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-do-what-you-do = Robte to, čo robíte online.<br> { -brand-name-firefox-browser } sa <strong>nepozerá</strong>.
 firefox-desktop-download-we-block-the-ad = Blokujeme sledovacie prvky reklám. Internet preto preskúmate rýchlejšie.
 firefox-desktop-download-ads-are-distracting = Reklamy rušia a spomaľujú načítanie webových stránok, zatiaľ čo ich sledovače sledujú každý váš pohyb online. { -brand-name-firefox-browser } blokuje väčšinu sledovačov automaticky, takže nie je potrebné hrabať sa v nastaveniach zabezpečenia.
 firefox-desktop-download-see-your-report = Pozrite sa na hlásenie o ochrane vášho súkromia
@@ -117,10 +113,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } bol vytvo
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Ako sa internet rozrastá a mení, { -brand-name-firefox } sa naďalej zameriava na vaše právo na súkromie – to bolo vždy naším cieľom. Ďalšie informácie o našich postupoch v oblasti údajov nájdete v našom <a { $attrs }>Oznámení o ochrane osobných údajov</a>.
-# Obsolete string (expires: 2025-04-17)
-# Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = Ako sa internet rozrastá a mení, { -brand-name-firefox } sa naďalej zameriava na vaše právo na súkromie – nazývame to <a { $attrs }>prísľub týkajúci sa osobných údajov</a>: Vziať si menej. Udržovať to v bezpečí. Žiadne tajomstvá. Vaše údaje, vaša webová aktivita, váš život online sú chránené vďaka { -brand-name-firefox(case: "dat") }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } je k dispozícii na všetkých vašich zariadeniach - vezmite si so sebou karty, históriu a záložky. Všetko, čo potrebujete, je <a { $attrs }>{ -brand-name-mozilla-account(capitalization: "lower") }</a> a získate prístup k synchronizácii a ďalším produktom od { -brand-name-mozilla(case: "gen") }.

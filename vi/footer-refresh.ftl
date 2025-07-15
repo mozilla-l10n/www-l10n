@@ -11,8 +11,6 @@ footer-refresh-learn-more-about-mozilla-advertising = Tìm hiểu thêm <span>v�
 footer-refresh-firefox-release-notes = Ghi chú phát hành { -brand-name-firefox }
 footer-refresh-privacy-first = Giải pháp quảng cáo ưu tiên quyền riêng tư dành cho các thương hiệu, nhà xuất bản và nền tảng.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
-# Obsolete string (expires 22-04-2025)
-footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Theo dõi @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn

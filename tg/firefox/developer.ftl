@@ -80,13 +80,3 @@ firefox-developer-mdn-playground = Озмоишгоҳ
 firefox-developer-mdn-write-test-and-share = Рамзи худро нависед, санҷед ва мубодила кунед. Ин майдони бозии шумо барои омӯхтан ва мубодилаи кори аҷиби худ бо ҷаҳон мебошад.
 firefox-developer-mdn-blog = Блоги «{ -brand-name-mdn }»
 firefox-developer-mdn-updates = Навигариҳо
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = Иқтибосҳо аз «{ -brand-name-mdn }»
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = «{ -brand-name-mdn }» — лоиҳаи ҳамкорӣ дар асоси манбаи кушод мебошад, ки барои технологияҳои платформаи веб, аз он ҷумла «CSS», «HTML», «JavaScript» ва «API»-ҳои веб санаду ҳуҷҷатҳоро таҳия мекунад.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = Нақшаи таълимии «{ -brand-name-mdn }»
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Лоиҳаи «{ -brand-name-mdn }»-ро дастгирӣ кунед ва онро бо маҷмуаҳо, огоҳномаҳо ва майдончаҳои таҷрибавӣ барои худ созед.

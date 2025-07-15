@@ -25,11 +25,7 @@ privacy-firefox-firefox-protects-you = { -brand-name-firefox }, web’de sizi ta
 privacy-firefox-privacy-that-works = Size en uygun gizlilik
 privacy-firefox-firefox-makes-it = { -brand-name-firefox }, yerleşik gizlilik ve güvenlik özelliklerinin yanı sıra gezinti deneyiminizi geliştirmenizi sağlayan ayarlarla da verilerinizi yönetmeyi kolaylaştırıyor.
 privacy-firefox-manage-your-privacy = Gizlilik ayarlarınızı yönetin:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = Bilgisayarlar için { -brand-name-firefox }
 privacy-firefox-firefox-for-desktop-v2 = Bilgisayarlar için { -brand-name-firefox }
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = Mobil cihazlar için { -brand-name-firefox }
 privacy-firefox-firefox-for-mobile-v2 = Mobil cihazlar için { -brand-name-firefox }
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = İçindekiler

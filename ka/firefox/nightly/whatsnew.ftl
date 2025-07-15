@@ -18,12 +18,6 @@ nightly-whatsnew-this-is-a-good = აქვე ვისარგებლებ
 #   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
 nightly-whatsnew-if-you-want-to-v4 = თუ სურვილი გაქვთ, მუდამ თვალთახედვის არეში გყავდეთ { -brand-name-nightly } და მისი ერთობა, დასაწყისისთვის კარგი იქნება, წაიკითხოთ ჩვენი <a { $blog }>სვეტი</a> და გამოიწეროთ ჩვენი <a { $mastodon }>Mastodon</a> ან <a { $bluesky }>Bluesky</a>!
 # Variables:
-#   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
-#   $twitter (url) - link to https://twitter.com/FirefoxNightly
-# Obsolete string (expires: 2025-04-18)
-nightly-whatsnew-if-you-want-to-v3 = თუ გსურთ თვალთახედვის არეში გყავდეთ { -brand-name-nightly } და მისი ერთობა, დასაწყისისთვის კარგი იქნება, წაიკითხოთ ჩვენი <a { $blog }>სვეტი</a> და გამოგვყვეთ <a { $mastodon }>Mastodon</a>-ზე ან <a { $twitter }>X</a>-ზე!
-# Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v3 = გსურთ გაეცნოთ შესაძლებლობებს, რომელთა გამოსაცდელადაც გამოგადგებათ { -brand-name-nightly } და რომელთაც ჯერჯერობით ვერ წააწყდებით სხვა { -brand-name-firefox }-არხებზე? მაშინ იხილეთ გვერდი <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 # Variables:

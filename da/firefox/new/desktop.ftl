@@ -20,12 +20,8 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = En endnu nyere version af { -brand-name-firefox } er tilgængelig. <a { $update_url }>>Opdater til den seneste version</a>
 firefox-desktop-download-get-the-browser = Få en browser, der beskytter dét, der er vigtigt
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-no-shady = Ingen lyssky privatlivspolitikker eller bagdøre for annoncører. Bare en lynhurtig browser, der ikke svigter dig.
 firefox-desktop-download-download-options = Filhentningsmuligheder og andre sprog
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser }-support
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-do-what-you-do = Gør hvad du vil på nettet<br> { -brand-name-firefox-browser } holder <strong>IKKE</strong> øje med dig.
 firefox-desktop-download-we-block-the-ad = Vi forhindrer sporing. Og gør det hurtigere for dig at bruge nettet.
 firefox-desktop-download-ads-are-distracting = Annoncer distraherer og får websider til at indlæse langsommere, mens de sporer hver bevægelse, du foretager online. { -brand-name-firefox-browser } blokerer de fleste sporings-mekanismer automatisk, så du kan føle dig sikker på internettet uden at skulle finjustere dine sikkerhedsindstillinger.
 firefox-desktop-download-see-your-report = Se din beskyttelsesrapport
@@ -110,10 +106,6 @@ firefox-desktop-download-from-security-to = Fra sikkerhed over nyheder til spil 
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } blev lavet af <a { $attrs }>{ -brand-name-mozilla }</a> som et hurtigere og mere privat alternativ til browsere som { -brand-name-ie } og nu { -brand-name-chrome }. I dag fortsætter vi som virksomhed og fællesskab af frivillige med at sætte dit privatliv over alt andet.
-# Obsolete string (expires: 2025-04-17)
-# Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = Efterhånden som internettet vokser og ændrer sig, fortsætter { -brand-name-firefox } med at fokusere på din ret til privatliv  — vi kalder det for <a { $attrs }>Løfte om private data</a>: Gem mindre. Beskyt alt. Ingen hemmeligheder. Dine data, din aktivitet på nettet og dit liv online er beskyttet med { -brand-name-firefox }.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } er tilgængelig til alle dine enheder, så du kan tage dine faneblade, historik og bogmærker med dig overalt. Alt du behøver er en <a { $attrs }>{ -brand-name-mozilla-account }-konto</a> og du vil få adgang til at synkronisere samt flere { -brand-name-mozilla }-produkter.
