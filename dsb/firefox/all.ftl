@@ -8,7 +8,7 @@
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Ześěgniśo wobglědowak { -brand-name-firefox } w dolnoserbšćinje a wěcej ako 90 drugich rěcach
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access-v2 = Kuždy se pśistup na internet zasłužy - waša rěc njeměła nigda zajźowu byś. Togodla stajamy z pomocu angažěrowanych dobrowólnikow z cełego swěta wobglědowak { -brand-name-firefox } we wěcej ako 90 rěcach k dispoziciji.
+firefox-all-everyone-deserves-access-v2 = Kuždy se pśistup k internetoju zasłužy - waša rěc njeměła nigda zajźowu byś. Togodla stajamy z pomocu angažěrowanych dobrowólnikow z cełego swěta wobglědowak { -brand-name-firefox } we wěcej ako 90 rěcach k dispoziciji.
 firefox-all-choose-browser = Wubjeŕśo wobglědowak, aby pókšacował
 firefox-all-choose-platform = Wubjeŕśo platformu, aby pókšacował
 firefox-all-choose-language = Wubjeŕśo rěc, aby pókšacował
