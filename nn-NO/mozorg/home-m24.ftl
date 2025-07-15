@@ -22,6 +22,7 @@ m24-home-alt-flag = Eit stilisert grønt flagg på svart bakgrunn, bygd opp av �
 
 ## Products
 
+m24-home-love-the-internet = Elskar internett igjen
 m24-home-break-free-from = Fri deg frå frå storteknologien (big tech) – produkta våre gir deg kontroll over ei tryggare og meir privat internettoppleving.
 m24-home-explore-our-products = Utforsk produkta våre
 m24-home-firefox = { -brand-name-firefox }
@@ -55,13 +56,19 @@ m24-home-our-mission-is = Oppdraget vårt er å gjere det enkelt for folk å byg
 # Used as an accessible text alternative for an image
 m24-home-alt-solo-ai-logo = { -brand-name-solo-ai }-logo
 m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Lag nettstaden din og kople til ditt eige tilpassa domene gratis.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+m24-home-builders-helps-independent = Builders hjelper uavhengige utviklarar med å lage banebrytande AI-prosjekt med open kjeldekode gjennom samarbeid, programmering og fellesskap
+m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } hjelper uavhengige utviklarar med å lage banebrytande AI-prosjekt med open kjeldekode gjennom skreddarsydde samarbeid, programmering og fellesskap.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }-logo.
 m24-home-lumigator = { -brand-name-lumigator }
+m24-home-find-the-just = Finn den rette LLM-en for dine behov, bruksområde og data.
+# Used as an accessible text alternative for an image
+m24-home-alt-trustworthy = Mark Surman, president for { -brand-name-mozilla }.
 m24-home-can-ai-be = Kan AI vere påliteleg?
 m24-home-watch-now = Sjå no
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
