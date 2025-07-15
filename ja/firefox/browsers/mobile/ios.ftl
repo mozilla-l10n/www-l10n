@@ -42,7 +42,9 @@ mobile-ios-get-search-suggestions = 検索バーに検索候補を表示し、�
 mobile-ios-discover-more-of = 好きなものをもっと発見
 # Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = { -brand-name-firefox } で新しいタブを開くと、よくアクセスするサイト、最近のブックマーク、人気記事を{ -brand-name-pocket } に表示します。{ -brand-name-firefox } では、最近利用したサイトに素早くアクセスでき、探しものがすぐに見かります。
+mobile-ios-open-a-new-v2 = { -brand-name-firefox } で新しいタブを開くと、よくアクセスするサイトや最近のブックマークを表示します。{ -brand-name-firefox } では、最近利用したサイトに素早くアクセスでき、探しものがすぐに見かります。
 
 mobile-ios-about-mozilla = { -brand-name-mozilla } について
 # Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } は、誰もがアクセスできる公共の資源としてのインターネットを構築するために存在しています。閉鎖的で管理されたインターネットよりも、オープンで自由なほうが理想であると信じているためです。{ -brand-name-firefox } や { -brand-name-pocket } などの製品を作り、選択、透明性、コントロールを促進しています。
+mobile-ios-mozilla-exists-to-v2 = { -brand-name-mozilla } は、誰もがアクセスできる公共の資源としてのインターネットを構築するために存在しています。閉鎖的で管理されたインターネットよりも、オープンで自由なほうが理想であると信じているためです。{ -brand-name-firefox } などの製品を作り、選択、透明性、コントロールを促進しています。
