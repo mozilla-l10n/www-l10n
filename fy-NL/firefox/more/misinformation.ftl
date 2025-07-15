@@ -39,8 +39,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } helpt jo de 
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 misinformation-social-media-clean-desc = Sosjale netwurken witte in protte oer jo. Dêrneist kinne se jo bûten harren platfoarm folgje mei harren ‘Diele’- en ‘Mei-ik-wol-oer’-knoppen, nettsjinsteande Beskerming tsjin folgjen – sels as jo gjin account hawwe. De <a href="{ $container }">{ -brand-name-facebook-container }</a> foar { -brand-name-firefox } soarget derfoar dat { -brand-name-facebook } en { -brand-name-instagram } dit net sa ienfâldich dwaan kinne, wat de kâns op it sjen fan misynformaasje fia advertinsjes en promoate ynhâld sichtber lytser makket.
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-misinformation-surface-content-heading = { -brand-name-firefox } helpt jo ynhâld te ûntdekken dy’t jo tiid wurdich is:
 misinformation-why-trust-firefox = Wêrom kinne jo { -brand-name-firefox } fertrouwe?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

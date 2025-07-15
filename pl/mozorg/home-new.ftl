@@ -10,7 +10,6 @@ home-did-you-know-mozilla-the-maker = Czy wiesz, że { -brand-name-mozilla }, kt
 home-were-not-normal = Nie jesteśmy zwykłą firmą technologiczną. Rzeczy, które tworzymy, stawiają ludzi i ich prywatność ponad zyski. Istniejemy, aby uczynić internet zdrowszym, szczęśliwszym miejscem dla każdego.
 home-product-firefox-browsing = Prywatne i bezpieczne przeglądanie
 home-cta-get-firefox = Pobierz { -brand-name-firefox(case: "acc") }
-home-product-pocket-articles = Najciekawsze artykuły w internecie
 home-product-relay-hide-your = Ukryj swój numer telefonu i adres e-mail przed spamerami
 home-cta-get-relay = Wypróbuj { -brand-name-relay }
 home-product-vpn-trust = VPN, któremu możesz zaufać

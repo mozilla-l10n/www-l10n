@@ -39,8 +39,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } ช่วย
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 misinformation-social-media-clean-desc = เครือข่ายสังคมออนไลน์นั้นรู้จักตัวคุณเป็นอย่างดี และยังสามารถติดตามตัวคุณได้นอกเหนือจากแพลตฟอร์มของตนเองผ่านปุ่ม “แบ่งปัน” และ “ถูกใจ” แม้จะมีการป้องกันการติดตาม และแม้ว่าคุณจะไม่มีบัญชีก็ตาม <a href="{ $container }">{ -brand-name-facebook-container }</a> สำหรับ { -brand-name-firefox } จะช่วยให้แน่ใจว่า { -brand-name-facebook } และ { -brand-name-instagram } ไม่สามารถทำสิ่งนี้ได้อย่างง่ายดาย ซึ่งจะช่วยลดโอกาสที่ข้อมูลที่ผิดพลาดจะปรากฎผ่านโฆษณาและเนื้อหาที่โปรโมตได้อย่างมาก
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-misinformation-surface-content-heading = { -brand-name-firefox } ช่วยให้คุณค้นพบเนื้อหาที่คุ้มค่ากับเวลาของคุณ:
 misinformation-why-trust-firefox = ทำไมคุณถึงไว้ใจ { -brand-name-firefox } ได้?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

@@ -15,7 +15,6 @@ home-mitchell-baker-v2 = მიტჩელ ბეიკერი, საბჭ�
 home-mozilla-makes-privacy = { -brand-name-mozilla } ქმნის პირადულობის უზრუნველმყოფ პროდუქტებს
 home-product-firefox-browsing = პირადი და უსაფრთხო თვალიერება
 home-cta-get-firefox = გადმოწერეთ { -brand-name-firefox }
-home-product-pocket-articles = ცნობისმოყვარეობის აღმძვრელი სტატიები
 home-product-relay-hide-your = დაფარეთ თქვენი ტელეფონის ნომერი და ელფოსტა სარეკლამოებისგან
 home-cta-get-relay = გამოცადეთ { -brand-name-relay }
 home-product-vpn-trust = VPN, რომელსაც ენდობით

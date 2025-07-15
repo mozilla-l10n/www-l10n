@@ -39,8 +39,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } giúp giữ 
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 misinformation-social-media-clean-desc = Mạng xã hội biết rất nhiều về bạn. Ngoài ra, họ có thể theo dõi bạn ngoài nền tảng của họ bằng các nút Chia sẻ và Thích mặc dù Trình chống theo dõi — ngay cả khi bạn không có tài khoản. <a href="{ $container }">{ -brand-name-facebook-container }</a> dành cho { -brand-name-firefox } đảm bảo rằng { -brand-name-facebook } và { -brand-name-instagram } không thể làm điều này dễ dàng như vậy, điều này một lần nữa làm giảm đáng kể xác suất nhìn thấy thông tin sai lệch qua quảng cáo và nội dung được quảng bá.
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-misinformation-surface-content-heading = { -brand-name-firefox } giúp bạn hiển thị nội dung xứng đáng với thời gian của bạn:
 misinformation-why-trust-firefox = Tại sao tin tưởng { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

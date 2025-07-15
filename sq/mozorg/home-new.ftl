@@ -15,7 +15,6 @@ home-mitchell-baker-v2 = Mitchell Baker, Drejtoreshë Ekzekutive e Bordit, { -br
 home-mozilla-makes-privacy = { -brand-name-mozilla } krijon produkte që respektojnë privatësinë
 home-product-firefox-browsing = Shfletim privat & i siguruar
 home-cta-get-firefox = Merrni { -brand-name-firefox }-in
-home-product-pocket-articles = Artikujt më intrigues në internet
 home-product-relay-hide-your = Fshihuni atyre që dërgojnë mesazhe të padëshiruar numrin tuaj të telefoni dhe email-in tuaj
 home-cta-get-relay = Merrni { -brand-name-relay }-në
 home-product-vpn-trust = Një VPN të cilit mund t’i zini besë

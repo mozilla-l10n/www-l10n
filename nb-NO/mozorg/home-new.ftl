@@ -15,7 +15,6 @@ home-mitchell-baker-v2 = Mitchell Baker, administrerende styreleder, { -brand-na
 home-mozilla-makes-privacy = { -brand-name-mozilla } lager produkter som respekterer personvernet
 home-product-firefox-browsing = Privat og sikker nettlesing
 home-cta-get-firefox = Last ned { -brand-name-firefox }
-home-product-pocket-articles = De mest spennende artiklene på nettet
 home-product-relay-hide-your = Skjul telefonnummeret og e-postadressen din fra spammere
 home-cta-get-relay = Hent { -brand-name-relay }
 home-product-vpn-trust = En VPN du kan stole på

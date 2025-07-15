@@ -15,7 +15,6 @@ home-mitchell-baker-v2 = Mitchell Baker, az igazgatóság ügyvezető elnöke, {
 home-mozilla-makes-privacy = A { -brand-name-mozilla } az adatvédelmet szem előtt tartó termékeket készít
 home-product-firefox-browsing = Privát és biztonságos böngészés
 home-cta-get-firefox = { -brand-name-firefox } beszerzése
-home-product-pocket-articles = A web legérdekesebb cikkei
 home-product-relay-hide-your = Rejtse el telefonszámát és e-mail-címét a spammerek elől
 home-cta-get-relay = { -brand-name-relay } beszerzése
 home-product-vpn-trust = Egy VPN, amelyben megbízhat

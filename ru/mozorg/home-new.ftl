@@ -15,7 +15,6 @@ home-mitchell-baker-v2 = Митчелл Бэйкер, исполнительны
 home-mozilla-makes-privacy = { -brand-name-mozilla } создает продукты уважающие вашу приватность
 home-product-firefox-browsing = Приватный и защищённый просмотр
 home-cta-get-firefox = Загрузить { -brand-name-firefox }
-home-product-pocket-articles = Самые интригующие статьи интернета
 home-product-relay-hide-your = Скройте свой номер телефона и электронную почту от спамеров
 home-cta-get-relay = Получить { -brand-name-relay }
 home-product-vpn-trust = VPN, которому можно доверять

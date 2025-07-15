@@ -37,8 +37,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } pomaže da t
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 misinformation-social-media-clean-desc = Društvene mreže znaju puno o tebi. Osim toga te mogu pratiti izvan svojih platformi pomoću gumbova „Dijeli” i „Sviđa mi se” unatoč zaštiti od praćenja – čak i ako nemaš račun. <a href="{ $container }">{ -brand-name-facebook-container }</a> za { -brand-name-firefox } osigurava da te { -brand-name-facebook } i { -brand-name-instagram } ne mogu tako lako pratiti, što značajno smanjuje vjerojatnost da ćeš vidjeti netočne informacije putem oglasa i promotivnog sadržaja.
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-misinformation-surface-content-heading = { -brand-name-firefox } pomaže pri otkrivanju sadržaja koji je vrijedan tvog vremena:
 misinformation-why-trust-firefox = Zašto vjerovati { -brand-name-firefox }u?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

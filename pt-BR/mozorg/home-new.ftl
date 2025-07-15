@@ -15,7 +15,6 @@ home-mitchell-baker-v2 = Mitchell Baker, Presidente Executiva do Conselho, { -br
 home-mozilla-makes-privacy = A { -brand-name-mozilla } cria produtos que respeitam a privacidade
 home-product-firefox-browsing = Navegação privativa e segura
 home-cta-get-firefox = Use o { -brand-name-firefox }
-home-product-pocket-articles = Os artigos mais intrigantes da web
 home-product-relay-hide-your = Oculte seu número de celular e endereço de email de spammers
 home-cta-get-relay = Tenha o { -brand-name-relay }
 home-product-vpn-trust = Uma VPN em que você pode confiar

@@ -15,7 +15,6 @@ home-mitchell-baker-v2 = Mitchell Baker, jadnaŕka pśedsedaŕstwa, { -brand-nam
 home-mozilla-makes-privacy = { -brand-name-mozilla } produkty napórajo, kótarež priwatnosć šćitaju
 home-product-firefox-browsing = Priwatne a wěste pśeglědowanje
 home-cta-get-firefox = Wobstarajśo se { -brand-name-firefox }
-home-product-pocket-articles = Nejzajmnjejše nastawki weba
 home-product-relay-hide-your = Schowajśo swój telefonowy numer a e-mailoweju adresu pśed spammerami
 home-cta-get-relay = { -brand-name-relay } wobstaraś
 home-product-vpn-trust = VPN, kótaremuž móžośo dowěriś

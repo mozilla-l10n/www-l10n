@@ -15,7 +15,6 @@ home-mitchell-baker-v2 = Mitchell Baker, výkonná predsedníčka predstavenstva
 home-mozilla-makes-privacy = { -brand-name-mozilla } tvorí produkty, ktoré rešpektujú súkromie
 home-product-firefox-browsing = Súkromné a bezpečné prehliadanie
 home-cta-get-firefox = Nainštalujte si { -brand-name-firefox }
-home-product-pocket-articles = Najzaujímavejšie články na webe
 home-product-relay-hide-your = Skryte svoje telefónne číslo a e‑mail pred spamermi
 home-cta-get-relay = Získajte službu { -brand-name-relay }
 home-product-vpn-trust = VPN, ktorej môžete dôverovať

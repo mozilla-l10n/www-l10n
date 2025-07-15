@@ -39,8 +39,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } pomáhá udr
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 misinformation-social-media-clean-desc = Sociální sítě toho o vás vědí hodně. Navíc vás mohou sledovat i mimo své platformy pomocí tlačítek „Sdílet“ a „To se mi líbí“ i přes ochranu proti sledování – i když nemáte účet. Doplněk <a href="{ $container }">{ -brand-name-facebook-container }</a> pro { -brand-name-firefox(case: "acc") } zajišťuje, že to { -brand-name-facebook } a { -brand-name-instagram } nedokážou tak snadno, což opět značně snižuje pravděpodobnost zobrazení mylných informací prostřednictvím reklam a propagovaného obsahu.
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-misinformation-surface-content-heading = { -brand-name-firefox } vám pomůže najít obsah, který stojí za váš čas:
 misinformation-why-trust-firefox = Proč věřit { -brand-name-firefox(case: "dat") }
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

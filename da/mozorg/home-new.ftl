@@ -15,7 +15,6 @@ home-mitchell-baker-v2 = Mitchell Baker, bestyrelsesforkvinde, { -brand-name-moz
 home-mozilla-makes-privacy = { -brand-name-mozilla } udvikler produkter, der respekterer dit privatliv
 home-product-firefox-browsing = Privat og sikker browsing
 home-cta-get-firefox = Hent { -brand-name-firefox }
-home-product-pocket-articles = De mest spændende artikler på internettet
 home-product-relay-hide-your = Skjul dit telefonnummer og din mailadresse fra spammere
 home-cta-get-relay = Hent { -brand-name-relay }
 home-product-vpn-trust = En VPN, du kan stole på

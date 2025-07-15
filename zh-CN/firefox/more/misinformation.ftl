@@ -39,8 +39,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } 可帮助您
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 misinformation-social-media-clean-desc = 社交网络十分了解您。即使您没有账户，它们也可以通过其“分享”和“赞”按钮在平台之外跟踪您，即使启用了“跟踪保护”功能也是如此。而 { -brand-name-firefox } 的 <a href="{ $container }">{ -brand-name-facebook-container }</a> 可有效遏制 { -brand-name-facebook } 和 { -brand-name-instagram } 的跟踪活动，进一步降低通过广告和推广内容看到错误信息的可能性。
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-misinformation-surface-content-heading = { -brand-name-firefox } 帮助您获取有价值的内容：
 misinformation-why-trust-firefox = 凭什么相信 { -brand-name-firefox }？
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

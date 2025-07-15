@@ -15,7 +15,6 @@ home-mitchell-baker-v2 = Mitchell Baker, amtěrowaca nawodnica předsydstwa, { -
 home-mozilla-makes-privacy = { -brand-name-mozilla } produkty wutworja, kotrež priwatnosć škitaja
 home-product-firefox-browsing = Priwatne a wěste přehladowanje
 home-cta-get-firefox = Wobstarajće sej { -brand-name-firefox }
-home-product-pocket-articles = Najzajimawše nastawki weba
 home-product-relay-hide-your = Schowajće swoje telefonowe čisło a e-mejlowej adresu před spamerami
 home-cta-get-relay = { -brand-name-relay } wobstarać
 home-product-vpn-trust = VPN, kotremuž móžeće dowěrić

@@ -15,7 +15,6 @@ home-mitchell-baker-v2 = Mozilla Baker, ex-executivo do conselho de administraç
 home-mozilla-makes-privacy = A { -brand-name-mozilla } faz produtos que respeitam a privacidade
 home-product-firefox-browsing = Navegação privada e segura
 home-cta-get-firefox = Obter o { -brand-name-firefox }
-home-product-pocket-articles = Os artigos mais intrigantes da Web
 home-product-relay-hide-your = Oculte o seu número de telefone e o seu e-mail de spammers
 home-cta-get-relay = Obter o { -brand-name-relay }
 home-product-vpn-trust = Uma VPN em que pode confiar

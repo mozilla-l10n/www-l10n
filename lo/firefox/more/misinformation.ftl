@@ -39,8 +39,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } ຊ່ວຍ
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 misinformation-social-media-clean-desc = ເຄືອຂ່າຍສັງຄົມຮູ້ກ່ຽວກັບທ່ານຫຼາຍ. ນອກຈາກນັ້ນ, ພວກເຂົາສາມາດຕິດຕາມທ່ານນອກເວທີຂອງພວກເຂົາດ້ວຍປຸ່ມ Share ແລະ Like ຂອງພວກເຂົາເຖິງວ່າຈະມີການປົກປ້ອງການຕິດຕາມ - ເຖິງແມ່ນວ່າທ່ານບໍ່ມີບັນຊີ. <a href="{ $container }">{ -brand-name-facebook-container }</a> ສໍາລັບ { -brand-name-firefox } ໃຫ້ແນ່ໃຈວ່າ { -brand-name-facebook } ແລະ { -brand-name-instagram } ບໍ່ສາມາດເຮັດໄດ້ງ່າຍດັ່ງນັ້ນ, ເຊິ່ງອີກເທື່ອຫນຶ່ງຫຼຸດຜ່ອນຄວາມເປັນໄປໄດ້ຂອງການເຫັນຂໍ້ມູນທີ່ບໍ່ຖືກຕ້ອງຜ່ານການໂຄສະນາແລະເນື້ອຫາໂຄສະນາຢ່າງຫຼວງຫຼາຍ.
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-misinformation-surface-content-heading = { -brand-name-firefox } ຊ່ວຍໃຫ້ທ່ານສະແດງເນື້ອຫາທີ່ເຫມາະສົມກັບເວລາຂອງທ່ານ:
 misinformation-why-trust-firefox = ເປັນຫຍັງເຊື່ອ { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

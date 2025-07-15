@@ -15,7 +15,6 @@ home-mitchell-baker-v2 = Mitchell Baker, Executive Chair fan de Board, { -brand-
 home-mozilla-makes-privacy = { -brand-name-mozilla } makket produkten dy’t privacy respektearje
 home-product-firefox-browsing = Privee en feilich sneupe
 home-cta-get-firefox = { -brand-name-firefox } downloade
-home-product-pocket-articles = De meast yntrigearjende artikelen fan it web
 home-product-relay-hide-your = Ferstopje jo telefoannûmer en e-mailadres foar spammers
 home-cta-get-relay = { -brand-name-relay } downloade
 home-product-vpn-trust = In VPN wêrop jo fertrouwe kinne

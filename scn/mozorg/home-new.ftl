@@ -15,7 +15,6 @@ home-mitchell-baker-v2 = Mitchell Baker, Prisidenti Esecutivu dû Cunzigghiu, { 
 home-mozilla-makes-privacy = { -brand-name-mozilla } crìa prudutti chi rispèttanu a privatizza
 home-product-firefox-browsing = Navicazzioni privata e sicura
 home-cta-get-firefox = Pigghia { -brand-name-firefox }
-home-product-pocket-articles = L’artìculi cchiù ntirissanti dâ riti
 home-product-relay-hide-your = Ammuccia u to nùmmaru di tilèfunu e u to nnirizzu di posta elittrònica dû spam
 home-cta-get-relay = Pigghia { -brand-name-relay }
 home-product-vpn-trust = Na VPN affidàbbili

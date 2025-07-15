@@ -22,8 +22,6 @@ misinformation-images-captions = Resimlerle açıklamaları eşleşiyor mu?
 misinformation-how-firefox-helps-heading = { -brand-name-firefox } yanlış bilgilerden kaçınmanıza nasıl yardımcı olur?
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox }, takip kodlarını dizginler:
 misinformation-social-media-clean-heading = { -brand-name-firefox }, sosyal medya akışlarınızı temiz tutmanıza yardımcı olur:
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-misinformation-surface-content-heading = { -brand-name-firefox }, zaman ayırmaya değer içerikleri bulmanıza yardımcı olur:
 misinformation-why-trust-firefox = { -brand-name-firefox }’a neden güvenmelisiniz?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

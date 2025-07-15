@@ -15,7 +15,6 @@ home-mitchell-baker-v2 = Mitchell Baker, Chủ tịch Hội đồng quản trị
 home-mozilla-makes-privacy = { -brand-name-mozilla } tạo ra các sản phẩm tôn trọng quyền riêng tư
 home-product-firefox-browsing = Duyệt web riêng tư & an toàn
 home-cta-get-firefox = Tải { -brand-name-firefox }
-home-product-pocket-articles = Các bài viết hấp dẫn nhất trên web
 home-product-relay-hide-your = Ẩn số điện thoại và email của bạn khỏi những kẻ gửi thư rác
 home-cta-get-relay = Sử dụng { -brand-name-relay }
 home-product-vpn-trust = VPN bạn có thể tin cậy

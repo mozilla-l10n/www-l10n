@@ -39,8 +39,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } გეხმ
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 misinformation-social-media-clean-desc = სოციალურმა ქსელებმა ბევრი რამ იცის თქვენ შესახებ. ამასთანავე შეუძლია, თვალი გადევნოთ სხვა საიტებზეც გაზიარებისა და მოწონების ღილაკებით, თვალთვალისგან დაცვის მიუხედავად — ანგარიშის არქონის შემთხვევაშიც კი. <a href="{ $container }">{ -brand-name-facebook-container }</a> { -brand-name-firefox }-ის მეშვეობით, უზრუნველყოფს, რომ { -brand-name-facebook } და { -brand-name-instagram } ამას ადვილად ვეღარ ახერხებდეს, რაც თავისმხრივ მკვეთრად ამცირებს ალბათობას, იხილოთ ყალბი რეკლამები და დაფინანსებული მასალები.
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-misinformation-surface-content-heading = { -brand-name-firefox } დაგეხმარებათ წინ წამოსწიოთ მასალა, რომელიც იმსახურებს თქვენს ყურადღებას:
 misinformation-why-trust-firefox = რატომაა სანდო { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

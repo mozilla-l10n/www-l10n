@@ -39,8 +39,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } wam pomaga, 
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 misinformation-social-media-clean-desc = Socialne seśi wjele wó was wěźe. Mimo togo mógu was pó swójich platformach z tłocaškami Źěliś a To se mě spódoba njeglědajucy na slědowański šćit pśeslědowaś – samo gdyž njeby měł konto. <a href="{ $container }">{ -brand-name-facebook-container }</a> za { -brand-name-firefox } zawěsćujo, až { -brand-name-facebook } a { -brand-name-instagram } njamóžotej to lažko cyniś, což wěrjepódobnosć zasej bejnje reducěrujo, až pśez wabjenje wopacne informacije a propagěrowane wopśimjeśe wiźiśo.
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-misinformation-surface-content-heading = { -brand-name-firefox } wam pomaga, wopśimjeśe namakaś, kótarež jo waš cas gódny:
 misinformation-why-trust-firefox = Cogodla { -brand-name-firefox } dowěriś?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

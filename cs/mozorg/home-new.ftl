@@ -15,7 +15,6 @@ home-mitchell-baker-v2 = Mitchell Baker, výkonná předsedkyně správní rady,
 home-mozilla-makes-privacy = { -brand-name-mozilla } vytváří produkty, které respektují soukromí
 home-product-firefox-browsing = Soukromé a bezpečné prohlížení
 home-cta-get-firefox = Získat { -brand-name-firefox(case: "acc") }
-home-product-pocket-articles = Nejzajímavější články na webu
 home-product-relay-hide-your = Skryjte své telefonní číslo a e-mailovou adresu před spammery
 home-cta-get-relay = Získat { -brand-name-relay }
 home-product-vpn-trust = VPN, které můžete důvěřovat

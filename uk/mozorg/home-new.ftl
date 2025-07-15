@@ -15,7 +15,6 @@ home-mitchell-baker-v2 = Мітчелл Бейкер, голова правлі�
 home-mozilla-makes-privacy = { -brand-name-mozilla } створює продукти, які поважають приватність
 home-product-firefox-browsing = Приватний і безпечний перегляд
 home-cta-get-firefox = Отримати { -brand-name-firefox }
-home-product-pocket-articles = Найцікавіші статті з інтернету
 home-product-relay-hide-your = Приховайте свій номер телефону й електронну пошту від спамерів
 home-cta-get-relay = Отримати { -brand-name-relay }
 home-product-vpn-trust = VPN, якій можна довіряти

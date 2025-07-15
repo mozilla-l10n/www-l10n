@@ -15,7 +15,6 @@ home-mitchell-baker-v2 = Mitchell Baker, presidente ejecutivo de la junta direct
 home-mozilla-makes-privacy = { -brand-name-mozilla } fabrica productos que respetan la privacidad
 home-product-firefox-browsing = Navegación privada y segura
 home-cta-get-firefox = Obtener { -brand-name-firefox }
-home-product-pocket-articles = Los artículos más intrigantes de la web.
 home-cta-get-relay = Obtener { -brand-name-relay }
 home-product-vpn-trust = Una VPN en la que puedes confiar
 home-cta-get-vpn = Obtén { -brand-name-mozilla-vpn }

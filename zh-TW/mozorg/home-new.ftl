@@ -15,7 +15,6 @@ home-mitchell-baker-v2 = { -brand-name-mozilla-foundation } 董事長 Mitchell B
 home-mozilla-makes-privacy = { -brand-name-mozilla } 打造尊重隱私的產品
 home-product-firefox-browsing = 有隱私又安全地上網
 home-cta-get-firefox = 下載 { -brand-name-firefox }
-home-product-pocket-articles = 網路上最引人入勝的文章
 home-product-relay-hide-your = 隱藏您的手機號碼與電子郵件地址，不讓騷擾者發現
 home-cta-get-relay = 下載 { -brand-name-relay }
 home-product-vpn-trust = 您可以信任的 VPN

@@ -39,8 +39,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } ta gida da t
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 misinformation-social-media-clean-desc = Las medias socialas san bler da tai. Ultra da quai pon ellas ta suandar schizunt ordaifer lur plattafurmas cun agid da lur buttuns per cundivider e dar in like, malgrà la protecziun cunter fastizaders – perfin sche ti n'has gnanc in conto. Il <a href="{ $container }">{ -brand-name-facebook-container }</a> per { -brand-name-firefox } procura che { -brand-name-facebook } ed { -brand-name-instagram } na vegnan betg pli da ta suandar a moda uschè simpla. Uschia èsi era main probabel che ti fruntas sin infurmaziuns falladas via reclamas e cuntegns sponsurisads.
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-misinformation-surface-content-heading = { -brand-name-firefox } ta gida a scuvrir cuntegns dals quals i vala la paina da s'occupar:
 misinformation-why-trust-firefox = Pertge sa fidar da { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

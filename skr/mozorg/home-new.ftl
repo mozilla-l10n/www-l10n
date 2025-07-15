@@ -15,7 +15,6 @@ home-mitchell-baker-v2 = مچل بیکر، بورڈ دے ایگزیکٹو چیئ
 home-mozilla-makes-privacy = { -brand-name-mozilla } رازدری دا احترام کرݨ آلی مصنوعات بݨیدے
 home-product-firefox-browsing = نجی تے محفوظ براؤزنگ
 home-cta-get-firefox = { -brand-name-firefox } گھنو
-home-product-pocket-articles = ویب دے سب کنوں ودھ دلچسپ مضامین
 home-product-relay-hide-your = آپݨا فون نمبر تے ای میل سپیمرز توں لُکاؤ
 home-cta-get-relay = { -brand-name-relay } گھنو
 home-product-vpn-trust = ہک وی پی این جیندے تے تساں بھروسہ کر سڳدے ہو

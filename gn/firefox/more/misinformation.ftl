@@ -39,8 +39,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } oipytyvõ ip
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 misinformation-social-media-clean-desc = Opaite ava ñandutieta oikuaa heta mba’e ndehegui. Avei, nde rapykuehokuaa ijyképe pyendavusúgui ivotõnguéra Moherakuã ha Amoneĩ rupi jepémo ñemo’ã jehapykueho rovake, ndererekóiramo jepe mba’ete umi pyendavusúpe. <a href="{ $container }">{ -brand-name-facebook-container }</a> { -brand-name-firefox } peg̃uarãva omoneĩ { -brand-name-facebook } ha { -brand-name-instagram } ndojapóivo hasy’ỹre, omomichĩve jeýva, tuichaháicha, marandu vai ñemurã rupive ha tetepy momarandupyre.
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-misinformation-surface-content-heading = { -brand-name-firefox } ne pytyvõta ohechauka tetepy ojogueraháva nde aravo ndive:
 misinformation-why-trust-firefox = ¿Mba’ére ejeroviáta { -brand-name-firefox } rehe?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/

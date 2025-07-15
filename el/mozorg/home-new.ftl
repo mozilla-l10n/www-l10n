@@ -15,7 +15,6 @@ home-mitchell-baker-v2 = Mitchell Baker, Εκτελεστικός πρόεδρο
 home-mozilla-makes-privacy = Η { -brand-name-mozilla } δημιουργεί προϊόντα που σέβονται το απόρρητο
 home-product-firefox-browsing = Ιδιωτική και ασφαλής περιήγηση
 home-cta-get-firefox = Λήψη του { -brand-name-firefox }
-home-product-pocket-articles = Τα πιο ενδιαφέροντα άρθρα του διαδικτύου
 home-product-relay-hide-your = Αποκρύψτε τον αριθμό τηλεφώνου και το email σας από τους αποστολείς ανεπιθύμητων μηνυμάτων
 home-cta-get-relay = Λήψη του { -brand-name-relay }
 home-product-vpn-trust = Ένα VPN που μπορείτε να εμπιστευτείτε

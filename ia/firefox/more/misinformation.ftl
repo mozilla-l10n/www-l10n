@@ -39,8 +39,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } adjuta a man
 # Variables:
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 misinformation-social-media-clean-desc = Le retes social sape multo re te. In ultra, illos es capace de traciar te ultra lor platteformas con lor buttones Share e Like, malgrado le Protection de traciamento e mesmo si tu non ha un conto. <a href="{ $container }">{ -brand-name-facebook-container }</a> pro { -brand-name-firefox } rende secur que { -brand-name-facebook } e { -brand-name-instagram } non lo pote facer assi facilemente, isto reduce ancora le probabilitate de vider information errate via avisos publicitari e contento promovite notabilemente.
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-misinformation-surface-content-heading = { -brand-name-firefox } adjuta a presentar contento digne de tu tempore:
 misinformation-why-trust-firefox = Perque fider in { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
