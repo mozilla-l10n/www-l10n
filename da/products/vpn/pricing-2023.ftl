@@ -61,3 +61,4 @@ vpn-pricing-scan-qrcode-to-download-android = Skan QR-koden med din Android-tele
 vpn-pricing-sign-up-on-your-mobile-device = Opret et { -brand-name-mozilla-vpn }-abonnement på din mobile enhed
 vpn-pricing-sign-up-on-your-android-device = Opret et { -brand-name-mozilla-vpn }-abonnement på din Android-enhed
 vpn-pricing-download-the-app = Hent appen
+vpn-pricing-transaction-may-be-in = * Transaktionen kan være i lokal valuta.

@@ -22,6 +22,7 @@ vpn-landing-log-in-to-your-bank-or = Log med sindsro ind på din bank eller hos 
 vpn-landing-blocks-advertisers-from = Blokerer annoncører i at målrette annoncer
 vpn-landing-hide-your-activity-from = Skjul din aktivitet fra sporings-mekanismer og malware, så du kan shoppe uden at blive overvåget.
 vpn-landing-take-control = Tag kontrol med websteds-specifikke VPN-indstillinger
+vpn-landing-customize-your-vpn = Tilpas din VPN-beskyttelse per websted med { -brand-name-mozilla-vpn }-udvidelsen til { -brand-name-firefox } (kun til Windows).
 vpn-landing-features = Funktioner
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
