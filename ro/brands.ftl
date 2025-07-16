@@ -18,8 +18,10 @@
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
 -brand-name-wireguard = WireGuard
+-brand-name-linkedin = LinkedIn
 
 ## Firefox browsers
 
@@ -134,18 +136,9 @@
 -brand-name-firefox-os = Firefox OS
 -brand-name-firefox-private-network = Firefox Private Network
 
-## Firefox projects
-
-
 ## Pocket
 
 -brand-name-pocket = Pocket
-
-## Fakespot
-
-
-## Anonym
-
 
 ## Mozilla projects
 

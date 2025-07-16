@@ -7,3 +7,8 @@
 
 banner-firefox-app-store-title = { -brand-name-firefox }: Browser privat și sigur
 banner-firefox-focus-app-store-title = { -brand-name-firefox-focus }: Browser dedicat intimității
+banner-firefox-app-store-mozilla = { -brand-name-mozilla }
+banner-firefox-app-store-free-google-play = Gratuit – În { -brand-name-google-play }
+banner-firefox-app-store-free-app-store = Gratuit – În { -brand-name-app-store }
+# An accessible label used to describe the purpose of the page element.
+banner-firefox-app-store-label = Descărcare din App store
