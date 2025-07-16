@@ -5,11 +5,16 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
+features-adblocker-how-to-stop-seeing-too = Çok fazla reklam görmeyi ve şirketlerin sizi internette takip etmesini nasıl engellersiniz? { -brand-name-firefox } web tarayıcısından bir reklam engelleyici kılavuzu.
 features-adblocker-the-ad-blocker-a-secret = Reklam engelleyici: Sinir bozucu reklamlara karşı gizli bir silah.
 features-adblocker-so-many-ads-so-little = Reklam çok, sabrınız az… Artık bu çılgınlığı durdurmanın zamanı geldi.
 features-adblocker-the-average-person-sees = Ortalama bir kişi günde yaklaşık 4.000 reklam görür. Bu size fazla geldiyse reklam engelleyicilerle dost olabilirsiniz.
+features-adblocker-an-ad-blocker-is-a-piece = Reklam engelleyici, reklamları engellemek için kullanılabilen bir yazılımdır ve iki şekilde çalışır. İlk yol, reklam engelleyicinin bir reklamverenin sunucusundan gelen sinyali engellemesidir. Böylece reklam, sayfanızda asla görünmez. Reklam engelleyicilerin bir diğer çalışma şekli de bir web sitesinin reklam olabilecek bölümlerini engellemektir.
 features-adblocker-find-the-right-ad-blocker = Size en uygun reklam engelleyiciyi bulun
 features-adblocker-there-are-scores-of-content = Kullanabileceğiniz birçok içerik engelleyici var ama işte { -brand-name-mozilla }’nın seçtiği birkaç harika seçenek…
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a>, reklamları engellemenin yanı sıra izlenme koruması özellikleri de sunan başka bir harika seçenek.
 # Variables:
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes

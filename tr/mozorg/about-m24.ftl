@@ -28,6 +28,7 @@ m24-about-we-uncover-insights = İçgörüleri ortaya çıkarıyor, ürünleri i
 m24-about-build = Geliştirme
 # Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Kontrolü size veren { -brand-name-firefox } ve { -brand-name-fakespot } gibi birçok ürün geliştiriyoruz.
+m24-about-we-build-products-v2 = Kontrolü size veren { -brand-name-firefox } gibi birçok ürün geliştiriyoruz.
 m24-about-fund = Fonlama
 m24-about-we-fund-and = Teknolojiyi, interneti ve yapay zekâyı doğru yöne götüren insanlara ve girişimlere fon sağlayıp yatırım yapıyoruz.
 
