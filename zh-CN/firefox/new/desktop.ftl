@@ -102,7 +102,7 @@ firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = 下载 <strong>{ -brand-name-android }</strong> 版 { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-ios = 下载 <strong>{ -brand-name-ios }</strong> 版 { -brand-name-firefox-browser }
 firefox-desktop-download-download-the-mobile = 下载 { -brand-name-firefox } 移动浏览器，隐私保护不间断。
-firefox-desktop-download-learn-about-the = 进一步了解各种 { -brand-name-firefox } 桌面版浏览器
+firefox-desktop-download-learn-about-the = 往下看，了解 { -brand-name-firefox } 桌面版浏览器
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
