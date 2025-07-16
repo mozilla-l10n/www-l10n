@@ -22,6 +22,4 @@ vpn-shared-pricing-total-plus-tax = { $amount } totalt + moms
 
 ## Press quotations
 
-
-## Unsupported language notification
-
+vpn-press-unique-features-like-its-multi-account = «…unike funksjoner, som Multi-Account Containers, kan gjøre funksjonen lett tilgjengelig for brukere med mer alvorlige personvernbekymringer.»
