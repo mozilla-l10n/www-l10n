@@ -70,7 +70,10 @@ m24-home-find-the-just = Finn den rette LLM-en for dine behov, bruksområde og d
 # Used as an accessible text alternative for an image
 m24-home-alt-trustworthy = Mark Surman, president for { -brand-name-mozilla }.
 m24-home-can-ai-be = Kan AI vere påliteleg?
+m24-home-in-a-world = I ei verd der AI-innovasjon blir driven av nokre få utvalde, risikerer vi å monopolisere denne teknologien. Å bruke open kjeldekode-konsept på AI kan endre dette.
 m24-home-watch-now = Sjå no
+# Used as an accessible text alternative for an image
+m24-home-alt-ventures = Talar på scena med fleire produktlogoar.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Doner stemma di for å gjere taleteknologi meir inkluderande og tilgjengeleg for alle.
