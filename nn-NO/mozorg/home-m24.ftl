@@ -75,6 +75,7 @@ m24-home-watch-now = Sjå no
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Talar på scena med fleire produktlogoar.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-got-an-earlystage = Har du ei oppstartsbedrift i tidleg fase? Presenter bedrifta di for { -brand-name-mozilla-ventures } og sikre finansiering for å drive positiv endring for framtida til AI og internett.
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Doner stemma di for å gjere taleteknologi meir inkluderande og tilgjengeleg for alle.
 m24-home-donate-your-voice = Doner stemma di
@@ -92,17 +93,26 @@ m24-home-topic-news = Nyheiter
 m24-home-topic-ai = Kunstig intelligens
 m24-home-topic-ps = Personvern og sikkerheit
 m24-home-headline-you-ai-v2 = Du, AI og internett – kva skjer eigentleg?
+m24-home-introducing-anonym = Introduksjon av { -brand-name-anonym }: Vi hevar standarden for personvernbevarande digital annonsering.
+m24-home-keeping-genai-technologies = Å halde GenAI-teknologiar sikre er eit felles ansvar.
 m24-home-from-hollywood-to = Frå Hollywood til hiphop, forhandlar artistar om AI-samtykke.
 m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } feirar banebrytande skaparar i den nye dokumentarserien «{ -brand-name-firefox } Presents».
+m24-home-big-techs-power = Dei store teknologiselskapa si makt over språk betyr makt over menneske. Bridget Todd snakkar med leiarar i språkmiljøet som banar veg for talebasert AI på deira eigne språk og dialektar.
+m24-home-why-does-it = Kvifor kjennest det så ofte ut som om vi er ein del av eit masseeksperiment med AI? Kva er den ansvarlege måten å teste nye teknologiar på? Bridget Todd utforskar kva det vil seie å leve med uprøvde AI-system som påverkar millionar av menneske når dei blir rulla ut i det offentlege livet.
+m24-home-kids-are-growing = Barn veks opp i ei stadig meir digital verd. Kva bør foreldre gjere?
 
 ## Showcase
 
 m24-home-rise25-awards = { -brand-name-rise25 }-prisar
+m24-home-get-to-know = Bli kjent med leiarane som kjempar for påliteleg, inkluderande og transparent AI-utvikling, medan dei set ein ny standard og inspirerer neste generasjon av innovatørar.
 m24-home-watch-the-award = Sjå prisutdelinga
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-proud = Ein stolt prisvinnar hos { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-smiling = Ein sjølvsikker, smilande talar på { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = Ein gledeleg æresvinnar hos { -brand-name-rise25 }.
+m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-read-the-report = Les rapporten
 
 ## Issues
