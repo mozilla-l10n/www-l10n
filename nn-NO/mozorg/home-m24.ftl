@@ -113,15 +113,21 @@ m24-home-alt-rise25-smiling = Ein sjølvsikker, smilande talar på { -brand-name
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Ein gledeleg æresvinnar hos { -brand-name-rise25 }.
 m24-home-state-of-mozilla = State of { -brand-name-mozilla }
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } finn seg sjølv opp på nytt, spreier seg rundt i ein konstellasjon av organisasjonar, tenkjer nytt om reklame og skapar eit ope kjeldekode-økosystem for kunstig intelligens. Les om dette i rapporten State of { -brand-name-mozilla } 2024.
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = Abstrakt pikselskunst i nyansar av grønt, oransje og rosa
 m24-home-read-the-report = Les rapporten
 
 ## Issues
 
 # Used as an accessible text alternative for an image
 m24-home-alt-pni = Smarteiningar med varsemdikon.
+m24-home-explore-issues-shaping = Utforsk problemstillingar som formar framtidas internett
 m24-home-privacy-not-included = *Personvern ikkje inkludert
+m24-home-search-our-reviews = Søk gjennom meldingane våre for å finne ut kva for nokre teknologiske dingsar og appar som stel dataa dine utan at du eingong merkar det.
 m24-home-pni-search-now = Søk no
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, programleiar for IRL-podkasten.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = Vår premierte podkast introduserer endringsskaparane som jobbar for å gjere internett tryggare og AI meir påliteleg.
 m24-home-irl-listen-now = Lytt no
