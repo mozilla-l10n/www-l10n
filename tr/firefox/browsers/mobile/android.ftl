@@ -35,6 +35,7 @@ mobile-android-pop-videos-out = Web'de gezinirken video izlemeye devam etmek iç
 mobile-android-about-mozilla = { -brand-name-mozilla } hakkında
 # Obsolete string (expires 26-10-2025)
 mobile-android-mozilla-exists-to = { -brand-name-mozilla }, interneti herkesin erişebildiği kamusal bir kaynağa dönüştürmek için var. Çünkü biz, açık ve özgür olan şeylerin kapalı ve kontrol altında tutulanlardan daha güzel olduğuna inanıyoruz. Tercih hakkını, şeffaflığı ve kontrolü kendi eline alma hakkını savunan { -brand-name-firefox } ve { -brand-name-pocket } gibi ürünler geliştiriyoruz.
+mobile-android-mozilla-exists-to-v2 = { -brand-name-mozilla }, interneti herkesin erişebildiği kamusal bir kaynağa dönüştürmek için var. Çünkü biz, açık ve özgür olan şeylerin kapalı ve kontrol altında tutulanlardan daha güzel olduğuna inanıyoruz. Tercih hakkını, şeffaflığı ve kontrolü kendi eline alma hakkını savunan { -brand-name-firefox } gibi ürünler geliştiriyoruz.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = { -brand-name-android } için { -brand-name-firefox } ile hedefine daha hızlı ulaş
 mobile-android-see-all-your-open-tabs = { -brand-name-android } için { -brand-name-firefox } tarayıcısıyla tüm açık sekmelerinizi, son aramalarınızı ve sık kullandığınız siteleri tek bir yerde görebilirsiniz.

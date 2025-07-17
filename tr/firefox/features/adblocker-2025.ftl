@@ -26,9 +26,13 @@ features-adblocker-tip-3 = <strong>Özelleştirilebilirlik:</strong> Bazı rekla
 features-adblocker-tip-4 = <strong>Cihaz uyumluluğu:</strong> Masaüstü için mi, mobil için mi yoksa her ikisi için mi ihtiyacınız olduğunu düşünün.
 features-adblocker-tip-5 = <strong>Zararlı yazılım engelleme:</strong> Bazı reklam engelleyiciler zararlı reklamlara karşı koruma sağlar (örn. AdGuard).
 features-adblocker-tip-6 = <strong>Ebeveyn denetimleri:</strong> Uygunsuz içerikleri engellemek istiyorsanız kullanışlıdır.
+features-adblocker-its-important-to-note = Bazı sitelerin içerik yüklemek veya işlevsellik sağlamak için reklamlardan yararlandığını unutmayın. Reklamları engellemek, videoların oynamaması veya giriş seçeneklerinin bozulması gibi sorunlara neden olabilir. Düzenli olarak güncellenen bir reklam engelleyici seçmeniz önemli. Bir reklam engelleyicinin ciddi sorunlara yol açtığını tespit ederseniz daha iyi bir performans-uyumluluk dengesi için başka reklam engelleyicileri deneyebilirsiniz.
 features-adblocker-enhanced-privacy = { -brand-name-firefox } ile daha fazla gizlilik ve performans
 features-adblocker-beyond-ad-blockers = { -brand-name-firefox }, reklam engelleyicilerin yanı sıra, web’de gezinirken size daha fazla kontrol sağlayan yerleşik özellikler içerir. Bu araçlar, deneyiminizi özelleştirmenize olanak sağlarken gizliliğinizi korumanıza yardımcı olur:
 features-adblocker-tool-1 = <strong>Standart mod:</strong> Web sitelerinin işlevselliğini korurken yaygın takip kodlarını engelleyen dengeli bir seçenek.
+features-adblocker-tool-2 = <strong>Sıkı mod:</strong> Daha fazla takip kodunu ve çerezi engelleyerek daha güçlü gizlilik koruması isteyen kullanıcılar için idealdir. Bu moddayken bazı sitelerin çeşitli ayarlamalar gerektirebileceğini unutmayın.
+features-adblocker-tool-3 = <strong>Özel mod:</strong> Tam kontrol isteyenler için çerezlerden takip kodlarına kadar neleri engelleyebileceğinizi seçmenize olanak tanır.
+features-adblocker-to-adjust = Bu ayarları değiştirmek isterseniz herhangi bir web sayfasında adres çubuğunun solundaki kalkan simgesine tıklayıp “Koruma ayarları”nı seçin. Açılan menüden istediğiniz koruma düzeyini seçebilirsiniz.
 features-adblocker-why-use = Neden reklam engelleyici kullanmalısınız?
 features-adblocker-ad-blockers-do-more = Reklam engelleyiciler reklamları yönetmekle kalmaz, gereksiz içerikleri azaltarak gezinti hızınızı ve güvenliğinizi de artırabilirler. Dikkat dağıtmayan bir web deneyimi yaratmanız ve en önemli şeylere odaklanmanız için gereken araçları size sunarlar.
 # Variables:

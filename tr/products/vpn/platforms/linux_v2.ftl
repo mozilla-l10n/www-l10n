@@ -11,4 +11,8 @@ vpn-linux-why-choose = Linux için neden { -brand-name-mozilla-vpn }’i seçmel
 vpn-linux-fast-and-v2 = <strong>Hızlı ve güvenilir:</strong> { -brand-name-mozilla-vpn } diğer VPN protokollerinden daha iyi performans ve kararlılık sunan { -brand-name-wireguard }® protokolünü kullanır.
 vpn-linux-device-level = <strong>Cihaz düzeyinde şifreleme:</strong> Yalnızca tarayıcı trafiğinizi şifreleyen VPN’lerin aksine { -brand-name-mozilla-vpn } tüm uygulamalarınız ve oyunlarınız dahil olmak üzere cihazınızın tüm trafiğini şifreler.
 vpn-linux-simple-and = <strong>Basit ve sezgisel arayüz:</strong> Tek tıklamayla istediğiniz sunucuya bağlanın. Ayrıca ayarlarınızı ve tercihlerinizi ihtiyaçlarınıza göre özelleştirebilirsiniz.
+vpn-linux-gui-client = <strong>GUI istemcisi:</strong> { -brand-name-mozilla-vpn } bir GUI istemcisine (grafik kullanıcı arayüzü) sahiptir, oysa bazı VPN sağlayıcıları yalnızca CLI sürümü (komut satırı) sunar.
 vpn-linux-how-to-install = { -brand-name-mozilla-vpn } Linux’a nasıl kurulur?
+# Variables:
+#   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
+vpn-linux-additionally = Ayrıca, desteklenmeyen Linux dağıtımları için <a { $attrs }>resmi GitHub deposundan</a> kaynak kodlarını alıp derleyebilirsiniz.

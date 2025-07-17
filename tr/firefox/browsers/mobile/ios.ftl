@@ -31,6 +31,7 @@ mobile-ios-get-search-suggestions = Arama çubuğunda arama önerileri alın ve 
 mobile-ios-discover-more-of = Seveceğiniz şeyleri keşfedin
 # Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = Sık ziyaret ettiğiniz siteleri, en son yer imlerinizi ve  { -brand-name-pocket }’taki popüler makaleleri görmek için { -brand-name-firefox }’ta yeni bir sekme açın. Gideceğiniz yere daha hızlı ulaşmanız için { -brand-name-firefox } en son kullandığınız sitelere hızlı erişim sağlar.
+mobile-ios-open-a-new-v2 = Sık ziyaret ettiğiniz siteleri ve en son yer imlerinizi görmek için { -brand-name-firefox }’ta yeni bir sekme açın. Gideceğiniz yere daha hızlı ulaşmanız için { -brand-name-firefox } en son kullandığınız sitelere hızlı erişim sağlar.
 mobile-ios-about-mozilla = { -brand-name-mozilla } hakkında
 # Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla }, interneti herkesin erişebildiği kamusal bir kaynağa dönüştürmek için var. Çünkü biz, açık ve özgür olan şeylerin kapalı ve kontrol altında tutulanlardan daha güzel olduğuna inanıyoruz. Tercih hakkını, şeffaflığı ve kontrolü kendi eline alma hakkını savunan { -brand-name-firefox } ve { -brand-name-pocket } gibi ürünler geliştiriyoruz.

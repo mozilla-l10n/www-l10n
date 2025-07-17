@@ -17,6 +17,7 @@ browsers-chromebook-dropdown-copy = { -brand-name-chromebook } için { -brand-na
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = { -brand-name-chromebook } için neden <span>{ -brand-name-firefox }</span>’u indirmelisiniz?
 browsers-chromebook-while-a-chromebook = { -brand-name-chromebook }’ta halihazırda { -brand-name-chrome } yüklü olsa da { -brand-name-firefox }’u indirip kullanmak size birkaç avantaj sağlar:
+browsers-chromebook-alwayson-tracking-protection = Her zaman açık izleme koruması: { -brand-name-firefox } varsayılan olarak kişisel verilerinizi web’de sizi takip eden bilinen reklam takip kodlarından, sosyal takip kodlarından ve kripto madencilik betiklerinden korumak için gelişmiş izlenme korumasını (ETP) çalıştırır.
 browsers-chromebook-is-it-hard = { -brand-name-firefox } için { -brand-name-chromebook }’u yüklemek zor mu?
 browsers-chromebook-we-wish-it = Keşke daha kolay olsaydı, ama { -brand-name-chromebook } cihazınız sizi { -brand-name-google-play } ekosisteminde tutmayı tercih ediyor. Ancak { -brand-name-firefox } tarayıcısını { -brand-name-chromebook } cihazınıza yüklemek için uğraştığınıza değecek. İhtiyacınız olursa size yardımcı olacak kaynaklarımız da var. { -brand-name-firefox }’u cihazınıza yüklemenin iki yolu bulunuyor.
 
