@@ -26,17 +26,11 @@ firefox-desktop-download-fast-reliable-private = 高速で信頼性が高く、�
 
 firefox-desktop-set-as-default = { -brand-name-firefox } を既定のブラウザーにする
 
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-no-shady = 怪しいプライバシーポリシーや広告業者用のバックドアはありません。あなたの個人情報を売却しない高速ブラウザーです。
-
 firefox-desktop-download-download-options = ダウンロードオプションと多言語
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } サポート
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = オンライン生活をご自由にお楽しみください。<br>{ -brand-name-firefox-browser } に<strong>お任せください</strong>。
-
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-do-what-you-do = オンライン生活をご自由にお楽しみください。<br>{ -brand-name-firefox-browser } が<strong>プライバシーを守ります</strong>。
 
 firefox-desktop-download-we-block-the-ad = 広告トラッカーをブロックします。もっと高速にインターネットをお楽しみください。
 firefox-desktop-download-ads-are-distracting = 広告は視界の妨げになり、ウェブページの読み込みを遅くするうえに、ユーザーはオンライン上のあらゆる操作が広告トラッカーによって追跡されます。{ -brand-name-firefox-browser } なら、ほとんどのトラッカーを自動的にブロックするため、セキュリティ設定を確認する必要はありません。
@@ -129,11 +123,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } は、{ -
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = インターネットが成長し変化するなか、{ -brand-name-firefox } はユーザーのプライバシー権を第一に考えています。Mozilla によるデータの取り扱いについて詳しくは、<a { $attrs }>プライバシー通知</a>をご覧ください。
-
-# Obsolete string (expires: 2025-04-17)
-# Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = インターネットが成長し変化するなか、{ -brand-name-firefox } はユーザーのプライバシー権を第一に考えています。私たちはこれを<a { $attrs }>個人データ保護の約束</a>と呼んでいます。掲げているのは、収集する個人データは最小限にすること、安全に保護すること、秘密を作らないこと。ユーザーのデータ、ウェブ上の活動、オンライン生活は、{ -brand-name-firefox } が保護します。
 
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin

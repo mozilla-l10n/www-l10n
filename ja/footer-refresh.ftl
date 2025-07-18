@@ -11,8 +11,6 @@ footer-refresh-learn-more-about-mozilla-advertising = <span>{ footer-refresh-moz
 footer-refresh-firefox-release-notes = { -brand-name-firefox } リリースノート
 footer-refresh-privacy-first = ブランド、パブリッシャー、プラットフォーム向けのプライバシー第一の広告ソリューション。
 footer-refresh-mdn-v2 = { -brand-name-mdn }
-# Obsolete string (expires 22-04-2025)
-footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } をフォロー
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn

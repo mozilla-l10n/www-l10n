@@ -18,7 +18,6 @@ home-mitchell-baker-v2 = Mitchell Baker、{ -brand-name-mozilla-foundation }、�
 home-mozilla-makes-privacy = { -brand-name-mozilla } は、プライバシーを尊重する製品を作っています
 home-product-firefox-browsing = プライバシーとセキュリティを守るブラウジング
 home-cta-get-firefox = { -brand-name-firefox } をダウンロード
-home-product-pocket-articles = ウェブで一番興味深い記事
 
 home-product-relay-hide-your = 電話番号とメールアドレスをスパム送信者から隠す
 home-cta-get-relay = { -brand-name-relay } をダウンロード
