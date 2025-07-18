@@ -18,7 +18,6 @@ home-mitchell-baker-v2 = Mitchell Baker, Président du Conseil d’administratio
 home-mozilla-makes-privacy = { -brand-name-mozilla } conçoit des produits qui respectent la vie privée
 home-product-firefox-browsing = Navigation privée et sécurisée
 home-cta-get-firefox = Installer { -brand-name-firefox }
-home-product-pocket-articles = Les articles les plus intrigants du Web
 
 home-product-relay-hide-your = Masquez votre numéro de téléphone pour ne pas être importuné·e par des e-mails ou des appels téléphoniques non sollicités.
 home-cta-get-relay = Installer { -brand-name-relay }

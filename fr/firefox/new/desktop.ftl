@@ -26,17 +26,11 @@ firefox-desktop-download-fast-reliable-private = Rapide, fiable et confidentiel,
 
 firefox-desktop-set-as-default = Choisissez { -brand-name-firefox } comme navigateur par défaut.
 
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-no-shady = Pas de politique de confidentialité douteuse ou de laissez-passer pour les annonceurs. Juste un navigateur ultra-rapide qui ne vous trahit pas.
-
 firefox-desktop-download-download-options = Options de téléchargement et autres langues
 firefox-desktop-download-browser-support = Assistance pour le { -brand-name-firefox-browser }
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Faites ce que vous avez à faire en ligne.<br> Le { -brand-name-firefox-browser } vous <strong>protège</strong>.
-
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-do-what-you-do = Faites ce que vous avez à faire en ligne.<br> Le { -brand-name-firefox-browser } ne vous épie <strong>jamais</strong>.
 
 firefox-desktop-download-we-block-the-ad = Nous bloquons les traqueurs publicitaires. Pour vous permettre d’explorer Internet plus rapidement.
 firefox-desktop-download-ads-are-distracting = Les pubs sont distrayantes et ralentissent le chargement des pages web, tandis que leurs traqueurs surveillent tous vos faits et gestes en ligne. Le { -brand-name-firefox-browser } bloque automatiquement la plupart des traqueurs, il n’est donc pas nécessaire de fouiller dans vos paramètres de sécurité.
@@ -129,11 +123,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } a été c
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = À mesure qu’Internet se développe et évolue, { -brand-name-firefox } continue de se concentrer sur votre droit à la protection de votre vie privée, pour lequel nous sommes engagés depuis nos débuts. Apprenez-en plus sur nos pratiques en matière de données dans notre <a { $attrs }>Politique de confidentialité</a>.
-
-# Obsolete string (expires: 2025-04-17)
-# Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = À mesure qu’Internet se développe et évolue, { -brand-name-firefox } continue de se concentrer sur votre droit à la protection de votre vie privée. C’est pour cela que nous avons pris un <a { $attrs }>engagement fort en matière de données personnelles</a> : nous collectons moins d’informations, offrons plus de protection et ne vous cachons rien. Vos données, votre activité sur le Web et votre vie numérique sont protégées avec { -brand-name-firefox }.
 
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin

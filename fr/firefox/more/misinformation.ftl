@@ -44,9 +44,6 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } vous aide à
 #   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 misinformation-social-media-clean-desc = Les réseaux sociaux en savent beaucoup sur vous. De plus, ils sont capables de vous suivre en dehors de leurs plateformes grâce à leurs fonctions « Partager » et « J’aime » malgré la fonctionnalité de protection contre le pistage, et même si vous n’avez pas de compte. L’extension <a href="{ $container }">{ -brand-name-facebook-container }</a> pour { -brand-name-firefox } vous permet de rendre la tâche plus difficile pour { -brand-name-facebook } et { -brand-name-instagram }, ce qui réduit la probabilité de voir s’afficher de trop nombreux contenus de désinformation dans les publicités et les contenus sponsorisés auxquels vous êtes exposé·e.
 
-# This string is currently shown to en and de locales only since it refers to Pocket recommendations in Firefox.
-misinformation-surface-content-heading = { -brand-name-firefox } vous aide à trouver des contenus qui méritent que vous y consacriez du temps :
-
 misinformation-why-trust-firefox = Pourquoi pouvez-vous faire confiance à { -brand-name-firefox } ?
 
 # Variables:
