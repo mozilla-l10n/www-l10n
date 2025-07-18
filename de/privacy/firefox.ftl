@@ -27,11 +27,7 @@ privacy-firefox-firefox-protects-you = { -brand-name-firefox } schützt dich vor
 privacy-firefox-privacy-that-works = Datenschutz, der für dich arbeitet
 privacy-firefox-firefox-makes-it = Mit { -brand-name-firefox } ist es einfach für dich, deine Daten mithilfe integrierter Datenschutz- und Sicherheitsfunktionen zu verwalten und außerdem deine Browsing-Experience feinabzustimmen.
 privacy-firefox-manage-your-privacy = Verwalte deine Datenschutzeinstellungen:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = { -brand-name-firefox } für Desktop
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } für Desktop-PCs
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = { -brand-name-firefox } für Mobilgeräte
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } für Mobilgeräte
 
 # heading for the table of contents, a shorter heading is better

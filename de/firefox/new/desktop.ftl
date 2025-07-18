@@ -26,17 +26,11 @@ firefox-desktop-download-fast-reliable-private = Schnell, verlässlich und priva
 
 firefox-desktop-set-as-default = Mach { -brand-name-firefox } zu deinem Standard-Browser.
 
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-no-shady = Keine zwielichtigen Datenschutzhinweise oder Hintertürchen für Werbetreibende. Nur ein blitzschneller Browser, der deine Privatsphäre respektiert.
-
 firefox-desktop-download-download-options = Download-Optionen und weitere Sprachen
 firefox-desktop-download-browser-support = Hilfe zu { -brand-name-firefox-browser }
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Tu online, was du online tun willst.<br> { -brand-name-firefox-browser } <strong>kümmert</strong> sich um dich.
-
-# Obsolete string (expires: 2025-04-17)
-firefox-desktop-download-do-what-you-do = Tue online, was du online tun willst.<br> { -brand-name-firefox-browser } schaut dabei <strong>nicht</strong> zu.
 
 firefox-desktop-download-we-block-the-ad = Wir blocken Werbe-Tracker. Du surfst schneller durchs Web.
 firefox-desktop-download-ads-are-distracting = Werbung nervt, verlangsamt das Laden von Webseiten und trackt deine Aktivitäten im Internet. Der { -brand-name-firefox-browser } blockt die meisten dieser Tracker einfach automatisch, ohne dass du es selbst noch einstellen musst.
@@ -129,11 +123,6 @@ firefox-desktop-download-firefox-was-created = { -brand-name-firefox } wurde von
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Das Internet wächst und verändert sich, aber bei { -brand-name-firefox } dreht sich weiter alles um dein Recht auf Datenschutz – so war es schon immer. Erfahre in unserem Datenschutzhinweis mehr über unsere <a { $attrs }>Datenschutzpraktiken</a>.
-
-# Obsolete string (expires: 2025-04-17)
-# Variables:
-#   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
-firefox-desktop-download-as-the-internet = Während das Internet wächst und sich verändern, konzentriert sich { -brand-name-firefox } weiterhin auf den Schutz Ihrer Daten – wir nennen das unser <a { $attrs }>Versprechen für Ihre personenbezogenen Daten</a>: Weniger sammeln. Sicher aufbewahren. Keine Geheimnisse. Ihre Daten, Ihre Webaktivitäten, Ihre Leben online ist mit { -brand-name-firefox } geschützt.
 
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
