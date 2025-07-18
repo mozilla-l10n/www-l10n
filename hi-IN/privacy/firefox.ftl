@@ -27,11 +27,7 @@ privacy-firefox-firefox-protects-you = { -brand-name-firefox } आपको ज�
 privacy-firefox-privacy-that-works = निजता जो आपके लिए कारगर है
 privacy-firefox-firefox-makes-it = { -brand-name-firefox } अंतर्निहित निजता सुरक्षा और सिक्योरिटी फ़ीचर्स के साथ आपके डेटा को आपके लिए मैनेज करना आसान बना देता है, साथ ही ऐसी सेटिंग जो आपको अपना ब्राउज़िंग अनुभव बेहतर करने का अवसर देती है।
 privacy-firefox-manage-your-privacy = अपनी निजता सेटिंग मैनेज करें:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = डेस्कटॉप के लिए { -brand-name-firefox }
 privacy-firefox-firefox-for-desktop-v2 = डेस्कटॉप के लिए { -brand-name-firefox }
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = मोबाइल के लिए { -brand-name-firefox }
 privacy-firefox-firefox-for-mobile-v2 = मोबाइल के लिए { -brand-name-firefox }
 
 # heading for the table of contents, a shorter heading is better
