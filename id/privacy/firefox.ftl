@@ -27,11 +27,7 @@ privacy-firefox-firefox-protects-you = { -brand-name-firefox } melindungi Anda d
 privacy-firefox-privacy-that-works = Privasi yang sesuai untuk Anda
 privacy-firefox-firefox-makes-it = { -brand-name-firefox } memudahkan pengelolaan data Anda dengan fitur privasi dan keamanan bawaan, serta pengaturan yang dapat disesuaikan untuk meningkatkan pengalaman penelusuran Anda.
 privacy-firefox-manage-your-privacy = Kelola pengaturan privasi Anda:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = { -brand-name-firefox } untuk Desktop
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } untuk desktop
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = { -brand-name-firefox } untuk Seluler
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } untuk Ponsel
 
 # heading for the table of contents, a shorter heading is better

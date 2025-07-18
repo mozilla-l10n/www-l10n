@@ -87,15 +87,3 @@ firefox-developer-mdn-blog = مدونة { -brand-name-mdn }
 firefox-developer-mdn-unlock-the-world = افتح عالم تطوير الويب مع مدونة { -brand-name-mdn } — مركزك الجاهز لِرؤى الخبراء وأحدث معايير الويب ونصائح البرمجة.
 firefox-developer-mdn-updates = التحديثات
 firefox-developer-mdn-the-web-doesnt-have = لا يحتوي الويب على سِجل تغيير، ولكن يستطيع { -brand-name-mdn } المساعدة. يُمكنك تخصيص وتصنيف تغييرات التوافق بناءً على المُتصفحات أو فئة التكنولوجيا التي تهُمك، سواءً كانت JavaScript أو CSS أو غير ذلك.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = مراجع { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = يُعتبر { -brand-name-mdn } مشروعًا تعاونيًا مفتوح المصدر يُوثّق تقنيات منصات الويب مثل CSS وHTML وJavaScript وWeb APIs.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = منهج { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = دليل مُنظّم للمهارات والممارسات الأساسية لتكون مطوّر واجهة ناجح، بالإضافة إلى موارد التعلّم المُوصى بها.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = ادعم { -brand-name-mdn } وخصّصه كما يحلو لك بالمجموعات والإشعارات والملاعب.

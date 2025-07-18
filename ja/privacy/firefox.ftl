@@ -27,11 +27,7 @@ privacy-firefox-firefox-protects-you = { -brand-name-firefox } は確認され�
 privacy-firefox-privacy-that-works = あなたのためのプライバシー
 privacy-firefox-firefox-makes-it = { -brand-name-firefox } では、内蔵のプライバシー・セキュリティ機能のほか、ブラウジング体験を微調整できる設定で、データを簡単に管理できます。
 privacy-firefox-manage-your-privacy = プライバシー設定の管理:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = デスクトップ用 { -brand-name-firefox }
 privacy-firefox-firefox-for-desktop-v2 = デスクトップ用 { -brand-name-firefox }
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = モバイル用 { -brand-name-firefox }
 privacy-firefox-firefox-for-mobile-v2 = モバイル版 { -brand-name-firefox }
 
 # heading for the table of contents, a shorter heading is better

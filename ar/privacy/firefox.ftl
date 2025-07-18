@@ -27,11 +27,7 @@ privacy-firefox-firefox-protects-you = يحمِيك { -brand-name-firefox } من
 privacy-firefox-privacy-that-works = خصوصية تعمل من أجلك
 privacy-firefox-firefox-makes-it = يَجعل { -brand-name-firefox } من السهل إدارة بياناتك من خلال ميزات الخصوصية والأمان المدمجة، بالإضافة إلى الإعدادات التي تُتيح لك ضبط تجربة التصفح بدقة.
 privacy-firefox-manage-your-privacy = إدارة إعدادات الخصوصية:
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-desktop = { -brand-name-firefox } لأجهزة الكمبيوتر
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } لأجهزة كمبيوتر سطح المكتب
-# Obsolete string (expires: 2025-04-24)
-privacy-firefox-firefox-for-mobile = { -brand-name-firefox } للهواتف المحمولة
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } للهواتف المحمولة
 
 # heading for the table of contents, a shorter heading is better
