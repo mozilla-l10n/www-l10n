@@ -18,7 +18,6 @@ home-mitchell-baker-v2 = Mitchell Baker, Pengerusi Eksekutif Lembaga, { -brand-n
 home-mozilla-makes-privacy = { -brand-name-mozilla } membangunkan produk yang menghormati privasi penggunanya
 home-product-firefox-browsing = Pelayaran yang privasi & selamat
 home-cta-get-firefox = Dapatkan { -brand-name-firefox }
-home-product-pocket-articles = Artikel dari internet yang paling menarik
 
 home-product-relay-hide-your = Sembunyikan nombor telefon dan e-mel anda daripada spammer
 home-cta-get-relay = Dapatkan { -brand-name-relay }

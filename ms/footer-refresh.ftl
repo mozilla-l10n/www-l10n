@@ -11,8 +11,6 @@ footer-refresh-learn-more-about-mozilla-advertising = Ketahui lebih lanjut <span
 footer-refresh-firefox-release-notes = Nota Pelancaran { -brand-name-firefox }
 footer-refresh-privacy-first = Penyelesaian pengiklanan mesra privasi untuk jenama, penerbitan dan platform.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
-# Obsolete string (expires 22-04-2025)
-footer-refresh-mdn = MDN
 footer-refresh-follow-mozilla = Ikuti @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn

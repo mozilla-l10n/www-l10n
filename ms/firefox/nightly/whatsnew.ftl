@@ -23,13 +23,6 @@ nightly-whatsnew-this-is-a-good = Inilah masa yang sesuai untuk mengucapkan teri
 nightly-whatsnew-if-you-want-to-v4 = Jika anda ingin mengetahui berita terkini daripada { -brand-name-nightly } dan komunitinya, bacalah <a { $blog }>blog</a> kami selain mengikuti kami di <a { $mastodon }>Mastodon</a> atau <a { $bluesky }>Bluesky</a>!
 
 # Variables:
-#   $blog (url) - link to https://blog.nightly.mozilla.org/
-#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
-#   $twitter (url) - link to https://twitter.com/FirefoxNightly
-# Obsolete string (expires: 2025-04-18)
-nightly-whatsnew-if-you-want-to-v3 = Jika anda ingin mengetahui berita terkini daripada { -brand-name-nightly } dan komunitinya, bacalah <a { $blog }>blog</a> kami selain mengikuti kami di <a { $mastodon }>Mastodon</a> atau <a { $twitter }>X</a>!
-
-# Variables:
 #   $attrs (string) - link href and additional attributes
 nightly-whatsnew-want-to-know-which-v3 = Ingin mengetahui ciri platform mana yang boleh anda uji di { -brand-name-nightly } dan belum dapat dilihat di saluran { -brand-name-firefox } lain? Mari lihat laman pilihan <a { $attrs }>{ -brand-name-firefox-labs }</a>.
 
