@@ -87,15 +87,3 @@ firefox-developer-mdn-blog = Blog { -brand-name-mdn }
 firefox-developer-mdn-unlock-the-world = Pelajari dunia pengembangan web lewat Blog { -brand-name-mdn } — sumber utama untuk wawasan ahli, standar web terbaru, dan tips coding.
 firefox-developer-mdn-updates = Pembaruan
 firefox-developer-mdn-the-web-doesnt-have = Web tidak memiliki changelog, tetapi { -brand-name-mdn } dapat membantu. Anda dapat mempersonalisasi dan memfilter perubahan kompatibilitas berdasarkan peramban atau kategori teknologi yang Anda minati, seperti JavaScript, CSS, dll.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-references = Referensi { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-is-a = { -brand-name-mdn } adalah proyek kolaboratif sumber terbuka yang mendokumentasikan teknologi platform Web, termasuk CSS, HTML, JavaScript, dan API Web.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-curriculum = Kurikulum { -brand-name-mdn }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-a-structured-guide = Panduan terstruktur mengenai keterampilan dan praktik esensial untuk menjadi pengembang front-end yang sukses, disertai dengan rekomendasi sumber daya pembelajaran.
-# Obsolete string (expires 18-04-2025)
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-# Obsolete string (expires 18-04-2025)
-firefox-developer-support-mdn-and = Dukung { -brand-name-mdn } dan personalisasikan sesuai kebutuhan dengan koleksi, notifikasi, dan playground.
