@@ -21,6 +21,7 @@ privacy-index-data-privacy-principles = Prinsipper for datapersonvern
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = { -brand-name-mozilla }s <a href="{ $principles }">prinsipper for datapersonvern</a> respekterer og beskytter personer som bruker internettet. På denne siden med <a href="{ $faq }">ofte stilte spørsmål</a> kan du lese hvordan disse prinsippene former { -brand-name-firefox } og alle våres produkter.
 privacy-index-transparency-report = Innsynsrapport
+privacy-index-get-involved = Bli involvert
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Som et åpent kildekode-prosjekt, så er innsyn og åpenhet en viktig del av { -brand-name-mozilla }s grunnleggende prinsipper. Vår kodebase er åpen og åpen for vurdering. Vårt utviklingsarbeid er åpent. Vår toårige <a href="{ $report }">rapport om åpenhet</a> viser også vårt engasjement for disse prinsippene.
@@ -32,3 +33,10 @@ privacy-index-to-review-and-comment-on-proposed = For å granske og kommentere f
 privacy-index-read-more-about-our-ongoing = Les mer om vår fortløpende arbeid med sikkerhets- og personvernsbeskyttelse i <a href="{ $blog }">bloggen for { -brand-name-mozilla }'s Open Policy and Advocacy</a>.
 privacy-index-outdated-policies = Utdaterte retningslinjer
 privacy-index-mozilla-websites-communications = { -brand-name-mozilla } nettsteder, kommunikasjon og infokapsler
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-mdn-plus = { -brand-name-mdn-plus }
+privacy-index-mozilla-subscription-services = { -brand-name-mozilla } abonnementstjenester
+# This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".
+privacy-index-mozilla-accounts = { -brand-name-mozilla }-kontoer
