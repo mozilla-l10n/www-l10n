@@ -33,7 +33,16 @@ privacy-faq-v2-wait-so-how = Vent lit, så korleis tenar de pengar då?
 #   $attrs (url) - link to https://stateof.mozilla.org
 privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } er ikkje ein gjennomsnittleg organisasjon. { -brand-name-mozilla } vart grunnlagt som eit ope kjeldekode-prosjekt i 1998, og er ein oppdragsdriven organisasjon som jobbar mot eit sunnare internett. Størstedelen av { -brand-name-mozilla-corporation }s inntekter kjem frå godtgjeringar tent opp gjennom partnarskap for nettlesarsøk i { -brand-name-firefox } og distribusjonsavtalar over heile verda. Du kan lære meir om korleis vi tener pengar i årsrapporten <a { $attrs }>vår</a>.
 privacy-faq-v2-softballs = Ok, det var dei enkle spørsmåla. Kva for opplysningar samlar de inn?
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
+privacy-faq-v2-mozilla-does-collect = { -brand-name-mozilla } samlar inn eit avgrensa sett med data som standard frå { -brand-name-firefox } som hjelper oss å forstå korleis folk brukar nettlesaren. Du kan lese meir om dette i personvernerklæringa <a { $privacy }>vår</a> og lese <a { $data }>fullstendig dokumentasjon for den datainnsamlinga</a>. Vi offentleggjer også dokumentasjonen vår slik at alle kan stadfeste at det vi seier er sant, fortelje oss om vi treng å forbetre oss, og ha tillit til at vi ikkje skjuler noko.
 privacy-faq-v2-do-you-collect = Samlar de inn fleire data i dei tidlege test-utgåvene av { -brand-name-firefox }?
+privacy-faq-v2-sort-of = På ein måte. I tillegg til dataa beskrivne ovanfor, tek vi imot krasj- og feilrapportar som standard i tidlege testutgivingar av { -brand-name-firefox }.
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/shield
+privacy-faq-v2-we-may-also = Vi kan også samle inn fleire data i førehandsutgivinga for ein av studiane <a { $attrs }>våre</a>. Til dømes krev nokre studiar det vi kallar «nettlesardata», som kan inkludere nettadressar og annan informasjon om visse nettstadar. Dette hjelper oss med å svare på spesifikke spørsmål for å forbetre { -brand-name-firefox }, til dømes korleis vi betre kan integrere populære nettstader på bestemde språk.
+privacy-faq-v2-mozilla-pre-release = Førehandsversjonane av { -brand-name-mozilla } av { -brand-name-firefox } er utviklingsplattformer som ofte blir oppdaterte med eksperimentelle funksjonar. Vi samlar inn meir data i førehandsversjonane enn etter utgivinga for å forstå korleis desse eksperimentelle funksjonane fungerer. Du kan velje å ikkje samle inn desse dataa i innstillingane.
 privacy-faq-v2-but-why-do-you = Men kvifor samlar de inn data då?
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
