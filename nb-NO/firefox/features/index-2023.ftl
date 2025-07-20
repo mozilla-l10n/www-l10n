@@ -35,4 +35,4 @@ features-index-fingerprint-blocking = Blokkering av fingeravtrykksporere
 features-index-ad-tracker-blocking = Blokkering av annonsesporere
 features-index-firefox-automatically-blocks = { -brand-name-firefox } blokkerer automatisk over 2000 annonsesporere fra å samle informasjon om hva du gjør på nettet.
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
-features-index-ditch-the-sticky-ads = Bli kvitt de klebrige annonsene som følger etter deg med de innebygde fingeravtrykksblokkeringene til { -brand-name-firefox }.
+features-index-ditch-the-sticky-ads = Bli kvitt de påtrengende annonsene som følger etter deg med de innebygde fingeravtrykksblokkeringene til { -brand-name-firefox }.
