@@ -10,6 +10,9 @@ mission-our-mission-is-to-ensure-the-internet = Vår målsetning er å verne om 
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Målet vårt er å bidra til åpenhet, nyskapning, og muligheter på nettet.
 mission-we-believe-this-act-of-human-collaboration = Vi tror at menneskelig samarbeid på tvers av en åpen plattform er nødvendig for individuell vekst, og for vår kollektive fremtid.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/manifesto/
+mission-read-the-mozilla-manifesto-to-learn-v2 = Les <a href="{ $url }">{ -brand-name-mozilla }-manifestet</a> for å finne ut mer om våre verdier og prinsipper som styrer hvordan vi jobber mot målet vårt.
 mission-watch-the-video-above-to-learn-more = Se videoen overfor for å lese mere om hvem vi er, hvor vi kom fra, og hvordan vi gjør nettet bedre for deg.
 mission-get-involved = Engasjer deg
 mission-volunteer-opportunities-in-a-number = Muligheter for frivillige i mange forskjellige områder
@@ -18,3 +21,4 @@ mission-where-we-come-from-and-how-we-got = Hvor vi kom fra, og hvordan vi kom d
 mission-forums = Forumer
 mission-topics-include-support-products = Emner er blant annet brukerstøtte, produkter, og teknologier
 mission-governance = Styrelse
+mission-our-structure-organization-and-the-v2 = Vår struktur, organisasjon og det bredere { -brand-name-mozilla }-fellesskapet

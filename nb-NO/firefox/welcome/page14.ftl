@@ -7,7 +7,7 @@
 
 welcome-page14-page-title = Denne måneden for nettsikkerhet får du 20 % rabatt på { -brand-name-mozilla-vpn }
 welcome-page14-page-title-alt = Det er måneden for nettsikkerhet — på tide å forbedre personvernet ditt
-welcome-page14-main-description = { -brand-name-mozilla-vpn } (Virtual Private Network) beskytter hele internettforbindelsen din på datamaskinen, nettbrettet og til og med telefonen din. For enda bedre sikkerhet kommer det med en 30-dagers pengene-tilbake-garanti.
+welcome-page14-main-description = { -brand-name-mozilla-vpn } (virtuelt privat nettverk) beskytter hele internettforbindelsen din på datamaskinen, nettbrettet og til og med telefonen din. For enda bedre sikkerhet kommer det med en 30-dagers pengene-tilbake-garanti.
 welcome-page14-main-description-v2 = { -brand-name-mozilla-vpn } (Virtual Private Network) beskytter hele internettforbindelsen din på datamaskinen, nettbrettet og telefonen. For enda mer sikkerhet kommer det med en 30-dagers pengene-tilbake-garanti.
 welcome-page14-get-mozilla-vpn = Hent { -brand-name-mozilla-vpn }
 welcome-page14-use-code = Bruk koden i kassen for 20 % rabatt
