@@ -66,7 +66,7 @@ m24-about-see-open-positions = Se lediga tjänster
 
 ## Community
 
-m24-about-community-love-v2 = Gemenskapskärlek, vår ledande drivkraft
+m24-about-community-love-v2 = Kärleken i gemenskapen, vår drivkraft
 m24-about-mozilla-is-a = { -brand-name-mozilla } är en global gemenskap av passionerade volontärer, stipendiater och bidragsgivare som har byggt, skyddat och format internet med oss ​​sedan 1998.
 m24-about-from-writing-code = Från att skriva kod och upptäcka buggar till att förespråka integritet och hålla internet öppet för alla — våra communitymedlemmar är ryggraden i allt vi gör. Deras passion och engagemang inspirerar oss varje dag.
 # Used as an accessible text alternative for an image
