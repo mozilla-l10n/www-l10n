@@ -25,7 +25,13 @@ privacy-faq-v2-following-questions = Følgjande spørsmål og svar skal hjelpe d
 privacy-faq-v2-i-use-firefox = Eg brukar { -brand-name-firefox } til nesten alt på nettet. Folk hos { -brand-name-mozilla } må vite ein heil del om meg, eller kva?
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } veit ikkje så mykje som du forventar om korleis folk surfar på nettet. { -brand-name-firefox }, nettlesaren som køyrer på eininga eller datamaskina di, er inngangsporten din til internett. Nettlesaren din vil administrere mykje informasjon om nettstadene du besøkjer, men denne informasjonen held vanlegvis fram med å vere på eininga di.
 privacy-faq-v2-it-seems-like = Det verkar som alle selskap på nettet kjøper og sel informasjonen min. De er sannsynlegvis ikkje annleis.
+# Variables:
+#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
+privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } sel ikkje data om deg (på same måte som folk flest tenkjer om å «selje data»), og vi kjøper ikkje data om deg. Sidan vi strevar etter openheit, og den JURIDISKE definisjonen av «sal av data» er ekstremt breie nokre stadar, har vi måtta trekkje oss tilbake frå å komme med dei definitive utsegnene du kjenner og elskar. Vi legg framleis ned mykje arbeid i å sørgje for at dataa vi deler med partnarane våre (noko vi må gjere for å gjere { -brand-name-firefox } kommersielt levedyktig) er strippa for all identifiserande informasjon, eller berre blir samla delte, eller går gjennom dei personvernbevarande teknologiane våre (som <a { $attrs }>OHTTP</a>).
 privacy-faq-v2-wait-so-how = Vent lit, så korleis tenar de pengar då?
+# Variables:
+#   $attrs (url) - link to https://stateof.mozilla.org
+privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } er ikkje ein gjennomsnittleg organisasjon. { -brand-name-mozilla } vart grunnlagt som eit ope kjeldekode-prosjekt i 1998, og er ein oppdragsdriven organisasjon som jobbar mot eit sunnare internett. Størstedelen av { -brand-name-mozilla-corporation }s inntekter kjem frå godtgjeringar tent opp gjennom partnarskap for nettlesarsøk i { -brand-name-firefox } og distribusjonsavtalar over heile verda. Du kan lære meir om korleis vi tener pengar i årsrapporten <a { $attrs }>vår</a>.
 privacy-faq-v2-softballs = Ok, det var dei enkle spørsmåla. Kva for opplysningar samlar de inn?
 privacy-faq-v2-do-you-collect = Samlar de inn fleire data i dei tidlege test-utgåvene av { -brand-name-firefox }?
 privacy-faq-v2-but-why-do-you = Men kvifor samlar de inn data då?
