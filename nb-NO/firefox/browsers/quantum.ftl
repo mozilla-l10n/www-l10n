@@ -12,6 +12,7 @@ firefox-quantum-was = { -brand-name-firefox-quantum } var en revolusjon innen ut
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = Les mer om { -brand-name-firefox-quantum }
 privacy-first = Personvern først
+firefox-doesnt-spy = { -brand-name-firefox } spionerer ikke på deg på nettet. Vi stopper mange kjente tredjeparts sporingsinfokapsler og gir deg full kontroll.
 super-fast = Superrask
 get-speed-and = Få fart og sikkerhet. { -brand-name-firefox } er rask fordi vi ikke sporer bevegelsene dine.
 always-evolving = Alltid i utvikling

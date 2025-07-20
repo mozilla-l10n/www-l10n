@@ -84,3 +84,4 @@ firefox-developer-mdn-write-test-and-share = Skriv, test og del koden din. Din l
 firefox-developer-mdn-blog = { -brand-name-mdn } Blogg
 firefox-developer-mdn-unlock-the-world = Lås opp en verden av webutvikling med { -brand-name-mdn }-bloggen – ditt sentrale knutepunkt for ekspertinnsikt, de nyeste webstandardene og kodetips.
 firefox-developer-mdn-updates = Oppdateringer
+firefox-developer-mdn-the-web-doesnt-have = Internett har ingen endringslogg, men { -brand-name-mdn } kan hjelpe. Du kan tilpasse og filtrere kompatibilitetsendringer basert på nettlesere eller teknologikategorien du er interessert i - enten det er JavaScript, CSS eller noe annet..

@@ -5,6 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/focus/
 
+# HTML page title
+mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Personvern-nettleseren
+# HTML description
+mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } er din dedikerte personvernnettleser med automatisk sporingsbeskyttelse.
+mobile-focus-firefox-focus = { -brand-name-firefox-focus }
+mobile-focus-simply-private-mobile = Enkel, privat mobilsurfing
+mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } er din dedikerte personvernnettleser med automatisk sporingsbeskyttelse. Med { -brand-name-focus } lastes sidene dine raskere inn, og dataene dine forblir private.
+mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } er tilgjengelig for både { -brand-name-ios }- og { -brand-name-android }-enheter.
+mobile-focus-get-firefox-focus = Last ned { -brand-name-firefox-focus }
 mobile-focus-scan-the-qr-code-to-get-started = Skann QR-koden for å komme i gang
 mobile-focus-scan-alt-text = Skann QR-koden for å få { -brand-name-firefox-focus }
 mobile-focus-delete-your-history = Slett historikken din

@@ -5,11 +5,18 @@
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
+# HTML page title
+firefox-faq = { -brand-name-firefox } vanlige spørsmål
+whether-you-searched-privacy = Uansett om du lette etter en rask nettleser som beskytter personvernet ditt, er disse vanlige spørsmålene her for å svare på de viktigste spørsmålene om { -brand-name-firefox }.
+whether-you-searched-independant = Uansett om du lette etter en rask nettleser, eller du leter etter uavhengig teknologi som beskytter personvernet ditt, er disse vanlige spørsmålene her for å svare på de viktigste spørsmålene om { -brand-name-firefox }.
+what-is-firefox = Hva er { -brand-name-firefox }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+the-firefox-browser-the-only = { -brand-name-firefox-browser }, den eneste store nettleseren som støttes av en ideell organisasjon, hjelper deg med å beskytte din personlige informasjon. Les mer om <a href="{ $url }">{ -brand-name-firefox-browsers }</a> og <a href="{ $url2 }">andre produkter.</a>
+how-do-i = Hvordan får jeg tak i { -brand-name-firefox-browser }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -18,6 +25,8 @@
 # $url4 (url) - link to https://www.mozilla.org/firefox/linux/
 # $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
 
+is-firefox-free = Er { -brand-name-firefox } gratis?
+related-questions-free = Relaterte spørsmål: er { -brand-name-firefox-browser } gratis, koster { -brand-name-firefox } penger
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
