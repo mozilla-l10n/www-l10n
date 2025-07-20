@@ -5,3 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+features-shared-firefox-features = { -brand-name-firefox }-funksjoner
+features-shared-footer-cta-title = Gjør mer med { -brand-name-firefox }
+features-shared-footer-cta-desc = Skaff deg den raske, lette og personvernfokuserte nettleseren som støttes av en ideell organisasjon og fungerer på tvers av alle enhetene dine.
