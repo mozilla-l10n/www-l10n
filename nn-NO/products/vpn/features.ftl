@@ -57,7 +57,7 @@ vpn-features-personalize-which-apps = Tilpass kva appar som får VPN-vern
 vpn-features-easily-exclude-apps = Ekskluder appar enkelt frå VPN-vern – du treng ikkje å kople eininga di frå { -brand-name-mozilla-vpn }. Tilgjengeleg på Windows-, Android- og Linux-einingar.
 vpn-features-trustworthy = Påliteleg
 vpn-features-money-back = 30-dagar pengane-tilbake-garanti
-vpn-features-plus-customer-support = Pluss kundebrukarstøtte 24/7.
+vpn-features-plus-customer-support = Pluss brukarstøtte 24/7.
 vpn-features-we-never-log = Vi loggar, sporar eller deler aldri nettverksdataa dine
 # Variables
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
