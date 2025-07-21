@@ -14,7 +14,7 @@ browser-history-in-1950-computers = På 1950-tallet fylte datamaskiner hele rom 
 # Variables:
 #   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
 browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> var det første vellykkede nettverksprosjektet, og i 1969 ble den første meldingen sendt fra datavitenskapslaboratoriet ved University of California, Los Angeles (UCLA) til Stanford Research Institute (SRI), også i California.
-browser-history-that-sparked-a-revolution = Dette startet en revolusjon innen datanettverk. Nye nettverk ble dannet, som koblet sammen universiteter og forskningssentre over hele verden. Men i 20 år var internett ikke tilgjengelig for offentligheten, bare for forskere, studenter og private bedrifter. Det fantes dusinvis av programmer som kunne overføre informasjon via telefonlinjer, men ingen var brukervennlige. Det virkelige åpne internettet og den første nettleseren ble ikke laget før i 1990.
+browser-history-that-sparked-a-revolution = Dette startet en revolusjon innen datanettverk. Nye nettverk ble dannet, som koblet sammen universiteter og forskningssentre over hele verden. Men de neste 20 årene var internett ikke tilgjengelig for offentligheten, bare for forskere, studenter og private bedrifter. Det fantes dusinvis av programmer som kunne overføre informasjon via telefonlinjer, men ingen var brukervennlige. Det virkelige åpne internettet og den første nettleseren ble ikke laget før i 1990.
 browser-history-web-era = Webbens tidsalder
 # Variables:
 #   $cern (url) - https://home.cern/topics/birth-web

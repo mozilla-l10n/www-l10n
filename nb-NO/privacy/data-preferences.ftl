@@ -22,3 +22,4 @@ data-preferences-current-preference = Gjeldende innstillinger:
 data-preferences-please-enable-javascript = Aktiver JavaScript for å behandle dine datainnstillinger.
 data-preferences-opt-out-button = Reserver deg mot innsamling av førstepartsdata
 data-preferences-if-you-change = Hvis du ombestemmer deg, kan du melde deg på igjen her:
+data-preferences-opt-in-button = Samtykk til innsamling av førstepartsdata

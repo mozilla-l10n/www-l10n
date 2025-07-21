@@ -6,10 +6,10 @@
 ### URL: https://www-dev.allizom.org/products/vpn/more/vpn-or-proxy/
 
 # HTML page title and main title
-vpn-or-proxy-the-difference-between = Forskjellen på en VPN og en nettproxy
+vpn-or-proxy-the-difference-between = Forskjellen på en VPN og en webbproxy
 # HTML page description and intro
 vpn-or-proxy-vpns-and-proxies-are = VPN-er og proxytjenester er løsninger for personvern og sikkerhet på nettet. Her er hvordan de beskytter deg – og hvordan du velger det beste alternativet.
-vpn-or-proxy-virtual-private-networks = Virtuelle private nettverk (VPN-er) og sikre nettproxytjenester er løsninger for bedre personvern og sikkerhet på nettet, men det kan være forvirrende å finne ut hva som passer best for deg. Her er en oversikt over hvordan disse beskytter deg – og når du bør bruke hva.
+vpn-or-proxy-virtual-private-networks = Virtuelle private nettverk (VPN-er) og sikre webbproxytjenester er løsninger for bedre personvern og sikkerhet på nettet, men det kan være forvirrende å finne ut hva som passer best for deg. Her er en oversikt over hvordan disse beskytter deg – og når du bør bruke hva.
 vpn-or-proxy-stop-isps-from = Stopp internettleverandøren fra å overvåke deg
 # Variables
 #   $firefox (url) - https://www.mozilla.org/firefox/new/
