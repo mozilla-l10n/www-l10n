@@ -38,14 +38,17 @@ firefox-products-get-relay = Få { -brand-name-firefox-relay }
 ## VPN
 
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Surf, strøym og få jobben gjort på serverar i over 30 land for eit sikkert internettsamband med eit nytt perspektiv.
 firefox-products-get-mozilla-vpn = Last ned { -brand-name-mozilla-vpn }
 
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Ressursar for utviklarar, av utviklarar. Støtt { -brand-name-mdn } og gjer det til ditt eige med samlingar, varsel og område for å teste koden din.
 firefox-products-support-mdn = Støtt { -brand-name-mdn }
 
 ## Thunderbird
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = Få tilgang til all e-post, kalendrar og kontaktar i éin rask app. Filtrer og organiser dei slik du vil.
 firefox-products-download-thunderbird = Last ned { -brand-name-thunderbird }
