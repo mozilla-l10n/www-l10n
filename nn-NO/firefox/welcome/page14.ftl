@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/14/
 
+welcome-page14-page-title = Denne månaden for nettsikkerheit får du 20 % rabatt på { -brand-name-mozilla-vpn }
+welcome-page14-page-title-alt = Det er månaden for nettsikkerheit — på tide å forbetre personvernet ditt
 welcome-page14-get-mozilla-vpn = Last ned { -brand-name-mozilla-vpn }
 welcome-page14-copy-code = Kopier kode
 welcome-page14-code-copied = Kode kopiert!
