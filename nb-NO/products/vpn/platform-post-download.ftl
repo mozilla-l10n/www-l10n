@@ -7,6 +7,11 @@
 ### URL: https://www-dev.allizom.org/products/vpn/download/windows/thanks
 
 
+## Windows download page
+
+vpn-windows-download-page-title = Last ned { -brand-name-mozilla-vpn } for { -brand-name-windows }
+
 ## FAQ Strings
 
 vpn-download-faq-why-use = Hvorfor burde jeg bruke { -brand-name-mozilla-vpn }
+vpn-download-faq-add-device = Hvordan legger jeg til en annen enhet?

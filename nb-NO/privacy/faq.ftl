@@ -27,16 +27,25 @@ privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } selger ikke
 privacy-faq-wait-so-how-do-you-make-money = Vent, så hvordan tjener dere penger?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } er ikke en helt vanlig organisasjon. Den ble grunnlagt som et åpen kildekodeprosjekt i 1998, og er en verdidrevet organisasjon som jobber for et sunnere internett. Mesteparten av inntektene til { -brand-name-mozilla-corporation } kommer fra royalties gjennom søkepartnerskap i { -brand-name-firefox }-nettleseren og distribusjonsavtaler over hele verden. Du kan lese mer om hvordan vi tjener penger i vår <a href="{ $link }">årlige økonomirapport</a>.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } er ikke en helt vanlig organisasjon. Den ble grunnlagt som et åpen kildekodeprosjekt i 1998, og er en oppdragsdrevet organisasjon som jobber for et sunnere internett. Mesteparten av inntektene til { -brand-name-mozilla-corporation } kommer fra provisjoner gjennom søkepartnerskap i { -brand-name-firefox }-nettleseren og distribusjonsavtaler over hele verden. Du kan lese mer om hvordan vi tjener penger i vår <a href="{ $link }">årlige økonomirapport</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Ok, det var de enkle spørsmålene. Hvilken informasjon samler dere inn?
+# Variables:
+#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+privacy-faq-mozilla-does-collect-a-limited-v2 = { -brand-name-mozilla } samler inn et begrenset sett med data som standard fra { -brand-name-firefox } som hjelper oss å forstå hvordan folk bruker nettleseren. Du kan lese mer om dette i <a href="{ $privacy }">personvernerklæringen</a> vår, og du kan lese <a href="{ $data }">fullstendig dokumentasjon for den datainnsamlingen</a>.
 privacy-faq-we-make-our-documentation-public = Vi offentliggjør dokumentasjonen vår slik at alle kan bekrefte at det vi sier er sant, fortelle oss om vi trenger å forbedre oss, og ha tillit til at vi ikke skjuler noe.
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = Den dokumentasjonen er ikke særlig lett å forstå. Kan du si det til meg på vanlig norsk?
 privacy-faq-there-are-two-categories-of = Det finnes to kategorier av informasjon, vi som utgangspunkt samler inn i den ferdige versjonen av { -brand-name-firefox }.
 privacy-faq-the-first-is-what-we-call-technical = Det første er hva vi kaller «teknisk informasjon». Det er informasjon om nettleseren, som for eksempel operativsystemet den kjører på og informasjon om feil eller krasj.
+privacy-faq-the-second-is-what-we-call-interaction-v2 = Det andre kaller vi «interaksjonsdata». Dette er data om en brukers engasjement med { -brand-name-firefox }, som for eksempel hvor mange faner som var åpne, status på brukerinnstillinger, eller hvor mange ganger bestemte funksjoner i nettleseren ble brukt – som skjermbilder eller beholdere. For eksempel samler vi inn slik data gjennom tilbakeknappen (pilen øverst til venstre i nettleseren som lar deg gå tilbake til en tidligere nettside), på en måte som viser oss at knappen ble brukt, men uten å fortelle hvilke konkrete nettsider som ble besøkt.
 privacy-faq-do-you-collect-more-data-in = Samler dere inn mer data i tidlige testutgivelsene av { -brand-name-firefox }?
 privacy-faq-sort-of-in-addition-to-the-data-v2 = På en måte. I tillegg til dataene beskrevet ovenfor, mottar vi krasj- og feilrapporter som standard i tidlige testutgivelser av { -brand-name-firefox }.
+# Variables:
+#   $link (url) - link to https://support.mozilla.org/kb/shield
+privacy-faq-we-may-also-collect-additional-v2 = Vi kan også samle inn ytterligere data i forhåndsutgivelsen for en av våre <a href="{ $link }">studier</a>. For eksempel krever noen studier det vi kaller «nettaktivitetsdata», som kan inkludere nettadresser og annen informasjon om bestemte nettsteder. Dette hjelper oss med å svare på spesifikke spørsmål for å forbedre { -brand-name-firefox }, for eksempel hvordan vi bedre kan integrere populære nettsteder på bestemte språk.
+privacy-faq-mozillas-pre-release-versions = { -brand-name-mozilla } sin forhåndsutgivelse av { -brand-name-firefox } er utviklingsplattformer som ofte oppdateres med eksperimentelle funksjoner. Vi samler inn mer data i forhåndsutgivelsene enn hva vi gjør etter utgivelsen for å forstå hvordan disse eksperimentelle funksjonene fungerer. Du kan velge å ikke samle inn disse dataene i innstillingene.
 privacy-faq-but-why-do-you-collect-any-data = Men hvorfor samler dere inn data i det hele tatt?
 privacy-faq-if-we-dont-know-how-the-browser = Hvis vi ikke vet hvordan nettleseren yter eller hvilke funksjoner folk bruker, kan vi ikke gjøre den bedre og levere det gode produktet du ønsker. Vi har investert i å bygge verktøy for datainnsamling og analyse som lar oss ta smarte beslutninger om produktet vårt samtidig som vi respekterer folks personvern.
 privacy-faq-data-collection-still-bugs-me = Datainnsamling irriterer meg fortsatt. Kan jeg slå den av?
