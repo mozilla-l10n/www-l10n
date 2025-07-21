@@ -7,16 +7,21 @@
 
 # HTML page title
 firefox-products-mozilla-products = Produkt frå { -brand-name-mozilla }
+# HTML page description
+firefox-products-mozillas-family-of-products = { -brand-name-mozilla } er ein heil familie av produkt designa for å halde deg sikrare og smartare på nettet
 firefox-products-products = Produkt
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } er berre byrjinga.
+firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } er ein heil familie av produkt designa for å halde deg sikrare og smartare på nettet.
 
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
+firefox-products-get-the-browser-that-blocks = Få nettlesaren som blokkerer over 2000 datasporarar automatisk. Utvida sporingsvern er standard i alle { -brand-name-firefox }-nettlesarar.
 
 ## Focus
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Din dedikerte personvernnettlesar med automatisk sporingsvern og annonseblokkering.
 
 ## Monitor
 
@@ -27,6 +32,7 @@ firefox-products-check-for-breaches = Sjå etter datalekkasjar
 ## Relay
 
 firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Vern den verkelege e-postadressa din for å få kontroll over innboksen din.
 firefox-products-get-relay = Få { -brand-name-firefox-relay }
 
 ## VPN

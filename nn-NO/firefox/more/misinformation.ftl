@@ -35,6 +35,10 @@ misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } held spo
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 misinformation-firefox-keeps-trackers-desc = Som nemnt tidlegare spelar sporing ei stor rolle i spreiinga av feilinformasjon. <a href="{ $firefox }">Bruk av { -brand-name-firefox } </a> med <a href="{ $protection }">utvida sporingsvern</a> hjelper til med å blokkere tredjepartssporarar frå mange annonsørar og andre aktørar som standard når du surfar på nettet, slik at du får tilbake kontrollen over nettdataa dine.
+misinformation-social-media-clean-heading = { -brand-name-firefox } bidreg til å halde sosiale medium-kjeldene dine reine:
+# Variables:
+#   $container (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
+misinformation-social-media-clean-desc = Sosiale nettverk veit mykje om deg. I tillegg kan dei spore deg utanfor plattformene sine med del- og lik-knappane sine trass i sporingsvern — sjølv om du ikkje har ein konto. <a href="{ $container }">{ -brand-name-facebook-container }</a> for { -brand-name-firefox } sørgjer for at { -brand-name-facebook } og { -brand-name-instagram } ikkje kan gjere dette så lett, noko som igjen reduserer sjansane for å sjå feilinformasjon via annonsar og promotert innhald stort.
 misinformation-why-trust-firefox = Kvifor skal du stole på { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
