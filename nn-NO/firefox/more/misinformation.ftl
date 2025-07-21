@@ -16,6 +16,12 @@ misinformation-false-info-heading = Kvar dukkar falsk informasjon opp?
 # Variables:
 #   $tracking (url) - link to https://blog.mozilla.org/products/firefox/firefox-privacy-protections/
 misinformation-widespread-online = Du kan kome over feilinformasjon og desinformasjon overalt, men han er mest utbreidd og mest effektfull når han blir delt på nettet. Algoritmar og <a href="{ $tracking }">sporing</a> har auka moglegheita for feilinformasjon og desinformasjon for å nå ut til eit større publikum på nettstadar, bloggar, forum og sosiale nettverk.
+misinformation-tracking-advertising = Du har kanskje høyrt om sporing hovudsakleg i reklamesamanheng. Det er likevel også eit kraftig verktøy når det gjeld spreiing av falsk informasjon. Kvifor det? Når du surfar på internett eller i sosiale medium, blir åtferda din spora, interessene dine, kontaktane dine i nokre tilfelle og meir av ulike partar på tvers av nettstader for å lage ein ekstremt detaljert profil av deg som kan seljast til andre utan at du veit det, eller har samtykket ditt. Desse profilane blir brukte til personleg annonsering, men kan også tene til å presentere alle slags målretta informasjon til deg.
+misinformation-social-newtorks = Når du får innhaldstilrådingar på ein nettstad eller eit sosialt nettverk, er det ofte fordi ein algoritme presenterer informasjon basert på profilinformasjonen din. Dessverre, sjølv om algoritmar blir smartare og smartare, sjekkar dei ikkje innhaldet for nøyaktigheit. Dette er spesielt problematisk med sosiale medium: Desse nettverka viser tallause informasjonsbitar til brukarane sine kvar dag og har tilgang til nesten uavgrensa innhald, inkludert brukarinnlegg, nyheitsartiklar, annonsar og sponsa innhald. Sjølv om innlegg og artiklar ved eit uhell kan spreie feilinformasjon, kan annonsar og sponsa innhald brukast til å målrette deg medvite med desinformasjon for å manipulere deg, noko som gjer det viktig at du veit korleis du identifiserer feilinformasjon.
+misinformation-spot-online-heading = Korleis oppdage falsk informasjon på nettet og bidra til å stoppe spreiinga
+misinformation-look-at-url = Sjå på nettadressa og/eller kjelda.
+misinformation-known-to-br-credible = Er ho kjent for å vere truverdig? Om du er usikker, kan du prøve å finne ut meir om ryktet til kjelda på internett.
+misinformation-overly-sensational = Er overskrifta overdriven sensasjonell?
 misinformation-why-trust-firefox = Kvifor skal du stole på { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
