@@ -23,6 +23,10 @@ misinformation-look-at-url = Sjå på nettadressa og/eller kjelda.
 misinformation-known-to-br-credible = Er ho kjent for å vere truverdig? Om du er usikker, kan du prøve å finne ut meir om ryktet til kjelda på internett.
 misinformation-overly-sensational = Er overskrifta overdriven sensasjonell?
 misinformation-check-out-websites = Sjekk ut nettstadar og nyheitskanalar du stolar på for å sjå om, og korleis, dei rapporterer om det same emnet. Innhald som er meint å manipulere, vil ofte bruke ytterpunkt og overdrivingar som det ikkje finst bevis for, og som ikkje vil bli funne i veldokumentert rapportering.
+misinformation-content-up-to-date = Er innhaldet oppdatert?
+misinformation-outdated-information = Utdatert informasjon er ikkje nødvendigvis meint å desinformere, men han er kanskje ikkje lenger faktisk korrekt.
+misinformation-credible-publication = Har forfattaren publisert andre artiklar eller innlegg, ideelt sett også i truverdige publikasjonar?
+misinformation-authors-name = Om du berre finn namnet til forfattaren på tvilsame nettstadar, bør du ikkje leggje for mykje vekt på utsegnene deira.
 misinformation-why-trust-firefox = Kvifor skal du stole på { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
