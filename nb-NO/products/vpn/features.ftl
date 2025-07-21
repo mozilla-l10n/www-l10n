@@ -49,3 +49,8 @@ vpn-features-support-for-custom-dns = Støtte for tilpasset DNS
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
 vpn-features-keep-traffic-protected = Med { -brand-name-mozilla-vpn } kan du beskytte trafikken din og fortsatt rute DNS-forespørslene dine dit du foretrekker. <a { $dns }>Les mer om støtte for tilpasset DNS</a>.
 vpn-features-flexible = Fleksibel
+vpn-features-trustworthy = Pålitelig
+vpn-features-money-back = 30-dagers pengene-tilbake-garanti
+vpn-features-plus-customer-support = Pluss brukerstøtte 24/7.
+vpn-features-we-never-log = Vi verken loggfører, sporer eller deler dine nettverksdata
+vpn-features-built-transparently = Bygget transparent med åpen kildekode

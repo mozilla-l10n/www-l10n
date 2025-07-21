@@ -16,3 +16,4 @@ about-shared-our-products = Produkter
 about-shared-software-innovations = Teknologiutvikling og nyvinning for å fremme vår kamp.
 about-shared-get-involved = Engasjer deg
 about-shared-volunteer = Bli frivillig innen et område.
+vision-for-the-web = { -brand-name-mozilla } sin visjon for nettet

@@ -9,3 +9,4 @@
 vpn-ip-address-what-is-an-ip-address = Hva er en IP-adresse?
 # HTML page description and intro
 vpn-ip-address-mozilla-answers-all-of = { -brand-name-mozilla } svarer på alle spørsmålene dine om IP-adresser, fra hva en IP-adresse er til hvordan den fungerer og om du bør skjule den.
+vpn-ip-address-how-do-you = Hvordan skjuler du den?
