@@ -5,6 +5,6 @@
 # Variables:
 #   $url1 (url) - link to https://accounts.firefox.com/legal/terms
 #   $url2 (url) - link to https://accounts.firefox.com/legal/privacy
-fxa-form-by-proceeding = Continuând, ești de acord cu <a href="{ $url1 }">Termenii de utilizare a serviciilor</a> și <a href="{ $url2 }">Notificarea privind confidențialitatea</a>.
+fxa-form-by-proceeding = Prin continuare, ești de acord cu <a href="{ $url1 }">Condițiile de utilizare a serviciilor</a> și <a href="{ $url2 }">Notificarea privind confidențialitatea</a>.
 fxa-form-email-address = Adresă de e-mail
 fxa-form-continue = Continuă

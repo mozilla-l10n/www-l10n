@@ -21,4 +21,5 @@ legal-firefox = { -brand-name-firefox }
 legal-thunderbird = { -brand-name-thunderbird }
 legal-websites-and-communications = Termenii de utilizare privind site-urile web și comunicațiile
 legal-acceptable-use-policy = Politică de utilizare acceptabilă
-legal-firefox-cloud-services = Servicii cloud { -brand-name-firefox }: Termenii de utilizare a serviciului
+legal-firefox-cloud-services = Servicii cloud { -brand-name-firefox }: Condiții de utilizare a serviciilor
+legal-mdn-plus-terms = { -brand-name-mdn-plus } Condiții de utilizare a serviciilor
