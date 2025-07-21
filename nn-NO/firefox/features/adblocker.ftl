@@ -17,6 +17,16 @@ features-adblocker-these-ads-might-be-loud = Desse annonsane kan vere høglydte 
 features-adblocker-find-the-right-ad-blocker = Finn den rette annonseblokkeraren for deg
 features-adblocker-there-are-scores-of-content = Det er mange innholdsblokkerarar der ute, men her er nokre fantastiske alternativ valde ut og presenterte av { -brand-name-mozilla }…
 # Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = <a { $attrs }>uBlock Origin</a> blir rekna av mange som gullstandarden blant annonseblokkerarar, og er kjent for effektiviteten sin. Han er lett å tilpasse, men fungerer også strålande rett «ut av eska».
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> blokkerer reklame overalt. Han blokkerer annonsar på nettet, sosiale medium og til og med irriterande sprettoppvindauge (men om du berre vil sleppe sprettoppvindauge, går det neppe gale med <a { $attrs2 }>Popup Blocker</a>).
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> er eit anna godt val som ikkje berre blokkerer annonsar, men gir òg fleire fordelar mot sporing.
+# Variables:
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Desse utvidingane fungerer framifrå på både <a { $attrs1 }>{ -brand-name-firefox } for skrivebord</a> og <a { $attrs2 }>Android</a>.

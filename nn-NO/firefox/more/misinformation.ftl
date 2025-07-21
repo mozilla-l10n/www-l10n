@@ -7,6 +7,7 @@
 
 misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
 misinformation-page-title = Unngå felinformasjon på nettet – { -brand-name-firefox } er her for å hjelpe deg
+misinformation-page-desc = Feilinformasjon er irriterande, distraherande og dyrt. { -brand-name-firefox } har nokre tips for å unngå falsk informasjon – og sjå mindre av han når du surfar på nettet.
 misinformation-false-info-heading = Kvar dukkar falsk informasjon opp?
 # Variables:
 #   $tracking (url) - link to https://blog.mozilla.org/products/firefox/firefox-privacy-protections/

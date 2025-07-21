@@ -31,6 +31,8 @@ mobile-ios-get-search-suggestions = Få søkjeforslag i søkjefeltet og få rask
 mobile-ios-discover-more-of = Oppdag meir av det du likar
 # Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = Opne ei ny fane i { -brand-name-firefox } for å sjå nettstadar du besøkjer mest, siste bokmerka dine og populære artiklar i { -brand-name-pocket }. { -brand-name-firefox } gjev deg rask tilgang til dei siste brukte nettstadane dine, for kome raskare dit du skal.
+mobile-ios-open-a-new-v2 = Opne ei ny fane i { -brand-name-firefox } for å sjå nettstadane du besøkjer oftast og dei siste bokmerka dine. { -brand-name-firefox } gir deg rask tilgang til nettstadane du nyleg har brukt, slik at du kjem deg raskare dit du skal.
 mobile-ios-about-mozilla = Om { -brand-name-mozilla }
 # Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } finst for å byggje internett som ein allmenn resurs som er tilgjengeleg for alle fordi vi trur at ope og gratis er betre enn stengt og kontrollert. Vi byggjer produkt som { -brand-name-firefox } og { -brand-name-pocket } for å fremje val, transparens og kontroll.
+mobile-ios-mozilla-exists-to-v2 = { -brand-name-mozilla } eksisterer for å byggje Internett som ein offentleg ressurs tilgjengeleg for alle, fordi vi meiner at ope og fritt er betre enn lukka og kontrollert. Vi byggjer produkt som { -brand-name-firefox } for å fremje valfridom, openheit og kontroll.
