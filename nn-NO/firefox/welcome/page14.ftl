@@ -16,4 +16,5 @@ welcome-page14-code-copied = Kode kopiert!
 welcome-page14-very-fast = Han er rask, veldig rask
 welcome-page14-wireguard-powered = Dei { -brand-name-wireguard }®-drivne serverane våre er bygde for fart, slik at du kan strøyme, laste ned og spele som vanleg.
 welcome-page14-without-trace = Internett utan spor
+welcome-page14-never-log = Vi verken loggfører, sporar eller deler nettverksdataa dine — nettaktiviteten din vil ikkje etterlate seg spor på VPN-serverane våre.
 welcome-page14-why-see-this = Kvifor ser eg dette?

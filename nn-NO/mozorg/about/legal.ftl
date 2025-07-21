@@ -7,6 +7,8 @@
 
 legal-legal = Juridisk
 legal-get-involved = Ver med
+legal-protect-the-fox = Vern reven
+legal-takedown-requests = Førespurnadar om fjerning
 legal-back-to-legal = Tilbake til juridisk informasjon
 legal-terms = Vilkår
 legal-our-websites = Nettstadane våre
