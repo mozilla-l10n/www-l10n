@@ -9,6 +9,7 @@ mission-were-building-a-better-internet = Vi bygger et bedre internett
 mission-our-mission-is-to-ensure-the-internet = Vår målsetning er å verne om internett som en global, offentlig ressurs, som er åpen og tilgjengelig for alle. Et internett som setter mennesker først, hvor individer kan forme deres egne opplevelser, og føle seg sterke, trygge, og uavhengige.
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Målet vårt er å bidra til åpenhet, nyskapning, og muligheter på nettet.
+mission-at-mozilla-were-a-global-community-v2 = Hos { -brand-name-mozilla } er vi en global sammenslutning av teknologer, tenkere, og byggere som jobber sammen for å holde nettet i live og tilgjengelig for alle, slik at mennesker over hele verden kan være bidragsytere og skapere på nettet.
 mission-we-believe-this-act-of-human-collaboration = Vi tror at menneskelig samarbeid på tvers av en åpen plattform er nødvendig for individuell vekst, og for vår kollektive fremtid.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/

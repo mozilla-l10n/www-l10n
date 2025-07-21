@@ -17,3 +17,4 @@ about-shared-software-innovations = Teknologiutvikling og nyvinning for å fremm
 about-shared-get-involved = Engasjer deg
 about-shared-volunteer = Bli frivillig innen et område.
 vision-for-the-web = { -brand-name-mozilla } sin visjon for nettet
+read-about-our-vision = Les om vår visjon for nettet og hvordan vi har tenkt å forfølge den visjonen.
