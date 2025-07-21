@@ -25,16 +25,24 @@ privacy-faq-v2-following-questions = Følgende spørsmål og svar skal hjelpe de
 privacy-faq-v2-i-use-firefox = Jeg bruker { -brand-name-firefox } for nesten alt på nettet. Folk hos { -brand-name-mozilla } må vite en hel del om meg, eller hva?
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } vet ikke så mye som du forventer om hvordan folk surfer på nettet. { -brand-name-firefox }, nettleseren som kjører på enheten eller datamaskinen din, er inngangsporten din til internett. Nettleseren din vil administrere mye informasjon om nettstedene du besøker, men denne informasjonen forblir vanligvis på enheten din.
 privacy-faq-v2-it-seems-like = Det virker som om hvert selskap på nettet kjøper og selger min informasjon. Dere er sannsynligvis ikke annerledes.
+# Variables:
+#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
+privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } selger ikke data om deg (i den forstanden folk flest tenker på når de hører «selge data»), og vi kjøper heller ikke data om deg. Siden vi jobber for å være åpne og tydelige, og den JURIDISKE definisjonen av «salg av data» er ekstremt vid i enkelte områder, har vi vært nødt til å trå litt varsomt med bastante uttalelser som du kanskje kjenner og liker. Vi jobber fortsatt hardt for å sikre at data vi deler med partnere (noe vi må gjøre for at { -brand-name-firefox } skal være bærekraftig) enten er anonymisert, kun deles i samlet form, eller behandles med personvernbevarende teknologi (som <a { $attrs }>OHTTP</a>).
 privacy-faq-v2-wait-so-how = Vent, så hvordan tjener dere penger?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org
 privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } er ikke en helt vanlig organisasjon. Den ble grunnlagt som et åpen kildekodeprosjekt i 1998, og er en oppdragsdrevet organisasjon som jobber for et sunnere internett. Mesteparten av inntektene til { -brand-name-mozilla-corporation } kommer fra provisjoner gjennom søkepartnerskap i { -brand-name-firefox }-nettleseren og distribusjonsavtaler over hele verden. Du kan lese mer om hvordan vi tjener penger i vår <a { $attrs }>årlige økonomirapport</a>.
 privacy-faq-v2-softballs = Ok, det var de enkle spørsmålene. Hvilken informasjon samler dere inn?
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
+privacy-faq-v2-mozilla-does-collect = { -brand-name-mozilla } samler som standard inn et begrenset sett med data fra { -brand-name-firefox } for å forstå hvordan folk bruker nettleseren. Du kan lese mer om dette i vår <a { $privacy }>personvernerklæring</a> og i <a { $data }>fullstendig dokumentasjon om datainnsamlingen</a>. Vi gjør dokumentasjonen vår offentlig slik at alle kan bekrefte at det vi sier er sant, gi oss tilbakemelding dersom noe bør forbedres, og ha tillit til at vi ikke skjuler noe.
 privacy-faq-v2-do-you-collect = Samler dere inn mer data i tidlige testutgivelsene av { -brand-name-firefox }?
 privacy-faq-v2-sort-of = På en måte. I tillegg til dataene beskrevet ovenfor, mottar vi krasj- og feilrapporter som standard i tidlige testutgivelser av { -brand-name-firefox }.
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-v2-we-may-also = Vi kan også samle inn ytterligere data i forhåndsutgivelsen for en av våre <a { $attrs }>studier</a>. For eksempel krever noen studier det vi kaller «nettleserdata», som kan inkludere nettadresser og annen informasjon om bestemte nettsteder. Dette hjelper oss med å svare på spesifikke spørsmål for å forbedre { -brand-name-firefox }, for eksempel hvordan vi bedre kan integrere populære nettsteder på bestemte språk.
+privacy-faq-v2-mozilla-pre-release = { -brand-name-mozilla } sin forhåndsutgivelse av { -brand-name-firefox } er utviklingsplattformer som ofte oppdateres med eksperimentelle funksjoner. Vi samler inn mer data i forhåndsutgivelsene enn hva vi gjør etter utgivelsen for å forstå hvordan disse eksperimentelle funksjonene fungerer. Du kan velge å ikke samle inn disse dataene i innstillingene.
 privacy-faq-v2-but-why-do-you = Men hvorfor samler dere inn data i det hele tatt?
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
