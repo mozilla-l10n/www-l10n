@@ -26,6 +26,9 @@ privacy-faq-v2-i-use-firefox = Jeg bruker { -brand-name-firefox } for nesten alt
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } vet ikke så mye som du forventer om hvordan folk surfer på nettet. { -brand-name-firefox }, nettleseren som kjører på enheten eller datamaskinen din, er inngangsporten din til internett. Nettleseren din vil administrere mye informasjon om nettstedene du besøker, men denne informasjonen forblir vanligvis på enheten din.
 privacy-faq-v2-it-seems-like = Det virker som om hvert selskap på nettet kjøper og selger min informasjon. Dere er sannsynligvis ikke annerledes.
 privacy-faq-v2-wait-so-how = Vent, så hvordan tjener dere penger?
+# Variables:
+#   $attrs (url) - link to https://stateof.mozilla.org
+privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } er ikke en helt vanlig organisasjon. Den ble grunnlagt som et åpen kildekodeprosjekt i 1998, og er en oppdragsdrevet organisasjon som jobber for et sunnere internett. Mesteparten av inntektene til { -brand-name-mozilla-corporation } kommer fra provisjoner gjennom søkepartnerskap i { -brand-name-firefox }-nettleseren og distribusjonsavtaler over hele verden. Du kan lese mer om hvordan vi tjener penger i vår <a { $attrs }>årlige økonomirapport</a>.
 privacy-faq-v2-softballs = Ok, det var de enkle spørsmålene. Hvilken informasjon samler dere inn?
 privacy-faq-v2-do-you-collect = Samler dere inn mer data i tidlige testutgivelsene av { -brand-name-firefox }?
 privacy-faq-v2-sort-of = På en måte. I tillegg til dataene beskrevet ovenfor, mottar vi krasj- og feilrapporter som standard i tidlige testutgivelser av { -brand-name-firefox }.
@@ -49,5 +52,6 @@ privacy-faq-v2-you-dont-need-an-account = Du trenger ikke en konto for å bruke 
 privacy-faq-v2-you-use-digital = Dere bruker digital annonsering som en del av markedsføringen deres. Kjøper dere folks data for å målrette annonsene deres bedre på nettet?
 privacy-faq-v2-no-we-do-not-buy = Nei, vi kjøper ikke folks data for å målrette annonsering.
 privacy-faq-v2-we-do-not-ask = Vi ber våre annonsepartnere om kun å bruke førstepartsdata som nettsteder og utgivere kjenner til om alle brukere, for eksempel nettleseren du bruker og enheten du er på.
+privacy-faq-v2-well-it-seems = Vel, det virker som om du virkelig støtter meg når det gjelder personvern.
 privacy-faq-v2-yes-we-do = Ja, det gjør vi.
 privacy-faq-v2-find-out-more = Få mer informasjon om hvordan { -brand-name-mozilla } beskytter nettet.
