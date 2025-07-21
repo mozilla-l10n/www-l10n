@@ -27,6 +27,14 @@ misinformation-content-up-to-date = Er innhaldet oppdatert?
 misinformation-outdated-information = Utdatert informasjon er ikkje nødvendigvis meint å desinformere, men han er kanskje ikkje lenger faktisk korrekt.
 misinformation-credible-publication = Har forfattaren publisert andre artiklar eller innlegg, ideelt sett også i truverdige publikasjonar?
 misinformation-authors-name = Om du berre finn namnet til forfattaren på tvilsame nettstadar, bør du ikkje leggje for mykje vekt på utsegnene deira.
+misinformation-images-captions = Stemmer bilde og bildetekstar overeins?
+misinformation-images-are-powerful = Bilde er eit svært kraftig verktøy for målretta desinformasjon. Avhengig av bildeteksten kan oppfatninga bli vridd til det stikk motsette. Om du er usikker, kan du utføre eit omvendt bildesøk for å finne ut korleis bildet blir skildra på andre nettstadar.
+misinformation-how-firefox-helps-heading = Korleis { -brand-name-firefox } hjelper deg med å unngå feilinformasjon
+misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } held sporarar under kontroll:
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $protection (url) - link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
+misinformation-firefox-keeps-trackers-desc = Som nemnt tidlegare spelar sporing ei stor rolle i spreiinga av feilinformasjon. <a href="{ $firefox }">Bruk av { -brand-name-firefox } </a> med <a href="{ $protection }">utvida sporingsvern</a> hjelper til med å blokkere tredjepartssporarar frå mange annonsørar og andre aktørar som standard når du surfar på nettet, slik at du får tilbake kontrollen over nettdataa dine.
 misinformation-why-trust-firefox = Kvifor skal du stole på { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
