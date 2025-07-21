@@ -76,4 +76,4 @@ history-timeline-of-mozilla-project = Tidslinje for { -brand-name-mozilla }-pros
 history-mozilla-digital-memory-bank = { -brand-name-mozilla }s digitale arkiv ({ -brand-name-mozilla } DMB)
 # Variables:
 #   $link (url) link to https://www.foxkeh.com/downloads/
-history-the-history-of-firefox-and = <a href="{ $link }">{ -brand-name-mozilla }plakatar og historien bak { -brand-name-firefox }</a> (på engelsk og japansk)
+history-the-history-of-firefox-and = <a href="{ $link }">Plakatar som viser historien til { -brand-name-firefox } og { -brand-name-mozilla }</a> (tilgjengeleg på engelsk og japansk)
