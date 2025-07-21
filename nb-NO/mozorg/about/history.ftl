@@ -74,3 +74,6 @@ history-for-more-information-about = Hvis du vil ha mer informasjon om historien
 history-mozilla-bookmarks = { -brand-name-mozilla }-bokmerker
 history-timeline-of-mozilla-project = Tidslinje for { -brand-name-mozilla }-prosjektet
 history-mozilla-digital-memory-bank = { -brand-name-mozilla } Digital minnebank
+# Variables:
+#   $link (url) link to https://www.foxkeh.com/downloads/
+history-the-history-of-firefox-and = <a href="{ $link }">Plakater som viser historien til { -brand-name-firefox } og { -brand-name-mozilla }</a> (tilgjengelig på engelsk og japansk)
