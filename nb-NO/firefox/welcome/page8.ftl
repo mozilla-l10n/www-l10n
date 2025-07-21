@@ -15,6 +15,7 @@ welcome-page8-view-your-protection-report = Vis beskyttelsesrapporten din
 welcome-page8-enhanced-tracking-protection = Utvidet sporingsbeskyttelse
 welcome-page8-automatically-block-sites = Blokker automatisk nettsteder fra å følge deg rundt på internett.
 welcome-page8-see-whats-blocked = Se hva som er blokkert
+welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
 welcome-page8-see-what-youve-been = Finn ut om du er berørt av en kjent datalekkasje og hva du skal gjøre nå.
 welcome-page8-go-to-monitor = Gå til { -brand-name-monitor }
 welcome-page8-facebook-container = { -brand-name-facebook-container }

@@ -44,6 +44,16 @@ features-adblocker-if-ads-dont-bother-you = Hvis annonser ikke plager deg, og du
 features-adblocker-get-tough-with-strict = Vær tøff med streng modus
 features-adblocker-if-seeing-too-many-ads = Hvis det å se for mange annonser ødelegger dagen din, er streng modus et bedre valg. Denne modusen vil blokkere kjente tredjepartssporere og infokapsler i alle { -brand-name-firefox }-vinduer.
 features-adblocker-do-it-yourself-custom = Tilpasset modus med egne innstillinger
+features-adblocker-the-custom-setting-gives = Innstillingene under Tilpasset gir deg det ultimate valget. Du kan bestemme hva du blokkerer, inkludert sporingsprogrammer, infokapsler og mer. Hvis du tillater infokapsler fra et nettsted, vil du automatisk være i tilpasset modus.
+features-adblocker-cover-your-trail-block = Skjul dine spor, blokker sporere
+features-adblocker-click-on-the-trackers = Klikk på Sporere-ruten, så kan du blokkere sporere på to måter. Én måte å blokkere sporere på er å gjøre det når du jobber i et privat vindu. En annen måte å gjøre det på er å blokkere sporere i alle vinduer. Husk at hvis du velger å alltid blokkere sporere, kan det hende at noen sider ikke lastes inn på rett måte.
 features-adblocker-take-a-bite-out-of-cookies = Gjør infokapsler mere spiselige
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/storage
+features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Infokapsler</a> sendes av nettsteder du besøker. De lagres på datamaskinen din og holder øye med hva du gjør på et nettsted. Når et flyselskap skrur opp prisene fordi du har sett på flybilletter én gang samme dag, er det infokapselen som står bak.
 features-adblocker-in-firefox-you-can-block = I { -brand-name-firefox } kan du blokkere alle tredjeparts infokapsler eller bare de som er satt av sporere. Merk at blokkering av alle infokapsler kan forhindre enkelte nettsteder fra å fungere.
 features-adblocker-speed-up-thanks-to-ad = Høyere hastighet takket være annonseblokkere
+features-adblocker-in-some-cases-an-ad-blocker = I noen tilfeller kan en annonseblokkering hjelpe nettleseren din til å kjøre raskere. Når en annonse lastes inn, kan den gjøre nettstedet tregere. Samtidig tar det lengre tid å finne det du leter etter hvis du er for opptatt med å lukke enda en annonse.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = Hvis du vil lese mer om annonseblokkering, finnes det hundrevis av annonseblokkeringsutvidelser tilgjengelig for { -brand-name-firefox } og andre nettlesere. Hvis du vil prøve ut annonseblokkeringene { -brand-name-firefox } bruker, <a href="{ $url }">klikk her for å laste ned</a> en nettleser som setter personvern først.

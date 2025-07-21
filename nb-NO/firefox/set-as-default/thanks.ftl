@@ -22,6 +22,8 @@ set-as-default-thanks-youre-all-set = Du er klar.
 set-as-default-thanks-get-firefox-for-mobile = Få { -brand-name-firefox } for mobil
 set-as-default-thanks-travel-the-internet-with = Surf på nettet med beskyttelse, på alle enhetene dine.
 set-as-default-thanks-download-the-app = Last ned appen
+set-as-default-create-an-account = Opprett en konto
+set-as-default-thanks-sign-up-for-a-free-account-v2 = Registrer deg for en gratis { -brand-name-mozilla-account } og synkroniser alle passordene dine, nettleserhistorikken og innstillingene dine på tvers av enhetene dine.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Opprett en konto
 set-as-default-thanks-having-trouble = Har du problemer?

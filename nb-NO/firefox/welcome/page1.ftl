@@ -5,10 +5,15 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
+# HTML page title
+welcome-page1-more-than-a-browser-mozilla = Mer enn bare en nettleser - { -brand-name-mozilla-monitor } holder oversikt over datalekkasjer og hackere
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Ta neste steg for å beskytte personvernet ditt på nettet med { -brand-name-firefox }-familien av produkter.
+welcome-page1-stay-ahead-of-hackers-check-v2 = Hold deg et skritt foran hackere. Se etter datalekkasjer med { -brand-name-mozilla-monitor }.
 welcome-page1-youve-got-the-web-browser = Du har allerede nettleseren som beskytter personvernet ditt. Neste trinn: Hold et øye med datalekkasjer og hackere.
 welcome-page1-check-your-breach-report = Se datalekkasjerapporten din
+welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
+welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } viser deg om informasjonen din har blitt lekket i en kjent datalekkasje, og varsler deg i tilfelle det skulle skje i fremtiden.
 welcome-page1-stay-ahead-of-hackers = Hold deg et steg foran hackere
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/

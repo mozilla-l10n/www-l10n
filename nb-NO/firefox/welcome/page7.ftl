@@ -17,4 +17,6 @@ page7-make-them-unfollow-you = La dem ikke følge deg mer
 page7-that-sneaky-little-button = Den lumske, lille knappen
 page7-those-innocent-looking-f-buttons = De uskyldige F-knappene fra { -brand-name-facebook } sporer nettaktiviteten din, selv om du ikke har en konto. { -brand-name-facebook-container } blokkerer dem.
 page7-stay-ahead-of-hackers = Hold deg et steg foran hackere
+page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } lar deg finne ut hva hackere allerede vet om deg, og hjelper deg å ligge et skritt foran dem. (Den er forresten gratis).
+page7-get-mozilla-monitor = Få { -brand-name-mozilla-monitor }
 page7-why-am-i-seeing-this = Hvorfor ser jeg dette?
