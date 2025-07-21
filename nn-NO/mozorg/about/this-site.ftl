@@ -25,3 +25,20 @@ about-this-site-contribute-to-code = Bidra til kodebasen
 about-this-site-contribute-to-l10n = Bidra på omsettingar
 about-this-site-read-the-docs = Les dokumentasjonen
 about-this-site-colophon = Kolofon
+about-this-site-some-open-source-projects = Nokre open kjeldekode-prosjekt som vart brukte til å lage denne nettstaden:
+# Variables:
+#   $django (url) link to https://www.djangoproject.com/
+#   $jinja (url) link to https://jinja.palletsprojects.com/
+about-this-site-django = <a href="{ $django }">Django</a> som bakrammeverk for web, med <a href="{ $jinja }">Jinja</a> for maloppsett.
+# Variables:
+#   $protocol (url) link to https://protocol.mozilla.org/
+about-this-site-mozilla-protocol = { -brand-name-mozilla } sitt <a href="{ $protocol }">Protocol</a>-designsystem for grenseflate-komponentar og merkevare.
+# Variables:
+#   $fluent (url) link to https://projectfluent.org/
+about-this-site-fluent = { -brand-name-mozilla } sitt <a href="{ $fluent }">Fluent</a>-lokaliseringssystem for språkomsetting.
+# Variables:
+#   $github (url) link to https://github.com/mozilla/bedrock
+about-this-site-many-other = Mange andre mindre bibliotek og rammeverk, som du finn i <a href="{ $github }">{ -brand-name-github }-depotet</a> vårt.
+# Variables:
+#   $credits (url) link to https://www.mozilla.org/credits/
+about-this-site-we-extend = Vi takkar alle { -brand-name-mozilla } <a href="{ $credits }">bidragsytarar</a> som har bidratt til å gjere nettet til ein betre stad.
