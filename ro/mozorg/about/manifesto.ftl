@@ -76,6 +76,6 @@ manifesto-details-build-and-deliver = vom construi și vom oferi produse de cons
 manifesto-details-use-the-mozilla = vom folosi activele { -brand-name-mozilla } (proprietatea intelectuală, cum ar fi drepturile de reproducere și mărcile comerciale, infrastructura, fondurile și reputația) pentru a păstra internetul o platformă deschisă;
 manifesto-details-promote-models = vom promova modele pentru a crea valori economice în beneficiul public; și
 manifesto-details-promote-the-mozilla = vom promova principiile Manifestului { -brand-name-mozilla } în discursul public și în cadrul industriei internetului.
-manifesto-details-some-foundation = Unele dintre activitățile Fundației — în prezent: crearea, livrarea și promovarea de produse de consum — se desfășoară în principal prin intermediul subsidiarei deținute în proprietate deplină de { -brand-name-mozilla-foundation }, { -brand-name-mozilla-corporation }.
+manifesto-details-some-foundation = Unele activități ale Fundației — în prezent crearea, livrarea și promovarea de produse de larg consum — se desfășoară în principal prin intermediul filialei { -brand-name-mozilla-foundation }, deținute integral de { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Invitație
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } îi invită pe toți ceilalți care susțin principiile Manifestului { -brand-name-mozilla } să ni se alăture și să caute modalități noi prin care să transformăm această viziune a internetului în realitate.
