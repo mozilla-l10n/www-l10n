@@ -10,6 +10,8 @@ misinformation-page-title = Unngå felinformasjon på nettet – { -brand-name-f
 misinformation-page-desc = Feilinformasjon er irriterande, distraherande og dyrt. { -brand-name-firefox } har nokre tips for å unngå falsk informasjon – og sjå mindre av han når du surfar på nettet.
 misinformation-page-subheading = Sjekk ut tipsa for å sjå mindre feilinformasjon og fokusere på det som er viktig for deg
 misinformation-what-is-heading = Kva er feilinformasjon? Kva er desinformasjon?
+misinformation-disinformation = Feilinformasjon, desinformasjon – du har sikkert høyrt desse omgrepa før og lurt på om og korleis dei har ulike betydningar. Det er intensjonen som skil dei: Feilinformasjon er alle former for falsk informasjon som folk kan falle for. Han er beviseleg feil eller misvisande, men har ikkje vorte skapt eller delt for å lure folk. Desinformasjon, derimot, blir skapt og spreidd for å feilinformere og nå eit visst mål.
+misinformation-ultimately-harmful = Til sjuande og sist kan både feilinformasjon og desinformasjon vere skadeleg. Det er ikkje berre at folk vil tru på feil informasjon, falsk informasjon kostar den globale økonomien mykje pengar og kan true demokratiet og effektivt styresett. Og det er vanskeleg å stoppe fordi falske nyheiter spreier seg mykje raskare, djupare og breiare enn nyheiter som er korrekte.
 misinformation-false-info-heading = Kvar dukkar falsk informasjon opp?
 # Variables:
 #   $tracking (url) - link to https://blog.mozilla.org/products/firefox/firefox-privacy-protections/
