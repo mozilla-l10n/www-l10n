@@ -22,6 +22,7 @@ misinformation-spot-online-heading = Korleis oppdage falsk informasjon på nette
 misinformation-look-at-url = Sjå på nettadressa og/eller kjelda.
 misinformation-known-to-br-credible = Er ho kjent for å vere truverdig? Om du er usikker, kan du prøve å finne ut meir om ryktet til kjelda på internett.
 misinformation-overly-sensational = Er overskrifta overdriven sensasjonell?
+misinformation-check-out-websites = Sjekk ut nettstadar og nyheitskanalar du stolar på for å sjå om, og korleis, dei rapporterer om det same emnet. Innhald som er meint å manipulere, vil ofte bruke ytterpunkt og overdrivingar som det ikkje finst bevis for, og som ikkje vil bli funne i veldokumentert rapportering.
 misinformation-why-trust-firefox = Kvifor skal du stole på { -brand-name-firefox }?
 # Variables:
 #   $foundation (url) - link to https://foundation.mozilla.org/
