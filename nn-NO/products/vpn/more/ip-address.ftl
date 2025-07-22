@@ -15,7 +15,13 @@ vpn-ip-address-your-ip-address = Ip-adressa di er ein unik identifikator, litt s
 vpn-ip-address-an-example-of-an-ip = Eit døme på ei IP-adresse som er ein sekvens av fire tal, skilt med desimalar: 123.45.67.89
 vpn-ip-address-if-you-look-up-your = Om du slår opp Ip-adressa di, vil ho sjå omtrent slik ut.
 vpn-ip-address-does-it-travel = Følgjer ho med deg?
+# Variables
+#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-no-your-ip-v2 = Nei. Ip-adressa di er berre knytt til éin stad med mindre du brukar eit VPN (vi kjem tilbake til det seinare). Når du er heime og koplar til internett du betalar for, brukar du ei. Men om du sjekkar e-posten din heime om morgonen, deretter skannar nyheitene på ein lokal kafé medan du ventar på kaffien din, og deretter jobbar frå eit kontor, vil du ha brukt ulike Ip-adresser på kvar stad.
+vpn-ip-address-does-your-ip = Endrar IP-adressa di seg?
+vpn-ip-address-yes-even-if = Ja. Sjølv om du berre brukar internett heime, kan IP-adressa for heimen din endrast. Du kan kontakte internettleverandøren din (ISP) for å endre henne, men sjølv noko så rutinemessig som å starte modemet eller ruteren på nytt på grunn av problem med internettsambandet kan føre til ei endring.
 vpn-ip-address-can-more-than = Kan fleire enn ei eining ha same IP-adresse?
+vpn-ip-address-this-is-a = Dette er eit litt vanskeleg spørsmål – svaret er både ja og nei. Meir enn éi eining kan dele den same eksterne (offentlege) IP-adressa, men kvar eining vil ha si eiga lokale (private) IP-adresse. Til dømes set internettleverandøren din opp heimen din med éi ekstern Ip-adresse. Sidan ruteren din faktisk er det som koplar seg til internett, blir Ip-adressa tilordna til ruteren din. Ruteren din tilordnar deretter ei lokal Ip-adresse til kvar eining som er kopla til internett om gongen. Den eksterne IP-adressa er det som blir delt med omverda. Den lokale IP-adressa di blir ikkje delt utanfor det private heimenettverket ditt.
 vpn-ip-address-can-we-run = Kan vi få slutt på dei?
 vpn-ip-address-should-you-hide = Bør du gøyme IP-adressa di?
 vpn-ip-address-how-do-you = Korleis skjuler du det?
