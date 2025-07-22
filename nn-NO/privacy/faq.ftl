@@ -19,13 +19,21 @@ privacy-faq-we-put-people-in-control-of = Vi gir brukarane kontroll over sine da
 privacy-faq-we-adhere-to-no-surprises-principle-v2 = Vi følgjer prinsippet om «ingen overraskingar», noko som tyder at vi arbeider hardt med å passe på at folk si forståing av { -brand-name-firefox } samsvarar med verkelegheita.
 privacy-faq-the-following-questions-and = Følgjande spørsmål og svar skal hjelpe deg med å forstå kva du kan vente deg frå { -brand-name-mozilla } og { -brand-name-firefox }:
 privacy-faq-i-use-firefox-for-almost-everything = Eg brukar { -brand-name-firefox } til nesten alt på nettet. Folk hos { -brand-name-mozilla } må vite ein heil del om meg, eller kva?
+privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, nettlesaren som køyrer på eininga eller datamaskina di, er inngangen din til nettet. Nettlesaren din handsamar mykje informasjon om nettstadane du besøkjer, men den informasjonen held vanlegvis fram med å vere på eininga di. { -brand-name-mozilla }, selskapet som lagar { -brand-name-firefox }, samlar ikkje inn denne informasjonen (med mindre du ber oss om det).
 privacy-faq-really-you-dont-collect-my-browsing = Verkeleg, lagrar dei ikkje historikken min?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } veit ikkje så mykje som du kan forvente deg om korleis folk surfar på nettet. Som nettlesarprodusent  er det faktiskt ei stor utfordring for oss. Det er grunnen til at vi har innebyggde verktøy som gjer at interesserte kan gje oss innsikt i nettsurfinga deira. Om du synkroniserer nettlesarhistorikken din mellom fleire { -brand-name-firefox }-installasjonar veit ikkje vi kva den historikken er — fordi han er kryptert av eininga di.
 privacy-faq-it-seems-like-every-company = Det verkar som alle selskap på nettet kjøper og sel informasjonen min. De er sannsynlegvis ikkje annleis.
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } sel ikkje data om deg, og vi kjøper ikkje data om deg.
 privacy-faq-wait-so-how-do-you-make-money = Vent lit, så korleis tenar de pengar då?
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } er ikkje ein heilt vanleg organisasjon. Han vart grunnlagd som eit open kjeldekodeprosjekt i 1998, og er ein oppdragsdriven organisasjon som jobbar for eit sunnare internett. Mesteparten av inntektene til { -brand-name-mozilla-corporation } kjem frå provisjonar gjennom søkjepartnarskap i { -brand-name-firefox }-nettlesaren og distribusjonsavtalar over heile verda. Du kan lese meir om korleis vi tener pengar i den <a href="{ $link }">årlege økonomirapporten vår</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Ok, det var dei enkle spørsmåla. Kva for opplysningar samlar de inn?
+# Variables:
+#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+privacy-faq-mozilla-does-collect-a-limited-v2 = { -brand-name-mozilla } samlar inn eit avgrensa sett med data som standard frå { -brand-name-firefox } som hjelper oss å forstå korleis folk brukar nettlesaren. Du kan lese meir om dette i <a href="{ $privacy }">personvernfråsegna</a> vår, og du kan lese <a href="{ $data }">fullstendig dokumentasjon for den datainnsamlinga</a>.
 privacy-faq-we-make-our-documentation-public = Vi offentleggjer dokumentasjon slik at alle kan kontrollere at det vi seier er sant, og fortelje oss om vi treng å forbetre noko, slik at det er tiltru til at vi ikkje gøymer noko.
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = Den dokumentasjonen er ikkje særleg lett å forstå. Kan du seie det til meg på vanleg norsk?
