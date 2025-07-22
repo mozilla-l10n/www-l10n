@@ -27,5 +27,6 @@ vpn-ip-address-can-we-run = Kan vi få slutt på dei?
 #   $sr (url) - https://www.siliconrepublic.com/comms/ip-addresses-running-out
 #   $variety (url) - https://variety.com/2019/digital/news/u-s-households-have-an-average-of-11-connected-devices-and-5g-should-push-that-even-higher-1203431225/
 vpn-ip-address-when-the-internet = Då Internett først vart utvikla, brukte det «versjon 4»-adresser. Desse er 32 bitar, noko som betyr at vi kunne ha opptil <a href="{ $sr }">4,2 milliardar adresser</a>. Dette verka som nok den gongen, men er ikkje på langt nær nok i ei verd der det gjennomsnittlege amerikanske hushaldet hadde <a href="{ $variety }">11 tilkopla einingar</a>.
+vpn-ip-address-we-now-have = Vi har no IP-adresser i versjon 6, som har 128 bitar per adresse. Dessverre kan ikkje versjon 4 og versjon 6 kommunisere direkte med kvarandre, så folk kjem til å trenge versjon 4-adresser i lang tid.
 vpn-ip-address-should-you-hide = Bør du gøyme IP-adressa di?
 vpn-ip-address-how-do-you = Korleis skjuler du det?
