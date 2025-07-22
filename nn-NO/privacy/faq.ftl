@@ -39,9 +39,20 @@ privacy-faq-we-make-our-documentation-public = Vi offentleggjer dokumentasjon sl
 privacy-faq-that-documentation-is-gobbledygook = Den dokumentasjonen er ikkje særleg lett å forstå. Kan du seie det til meg på vanleg norsk?
 privacy-faq-there-are-two-categories-of = Det finst to kategoriar av data som vi samlar inn som standard i den ferdige versjonen av { -brand-name-firefox }.
 privacy-faq-the-first-is-what-we-call-technical = Det første er det vi kallar «teknisk informasjon». Det er informasjon om nettlesaren, som til dømes operativsystemet han køyrer på og informasjon om feil eller krasj.
+privacy-faq-the-second-is-what-we-call-interaction-v2 = Det andre kallar vi «interaksjonsdata». Dette er data om ein brukar sitt engasjement med { -brand-name-firefox }, som til dømes kor mange faner som var opne, status på brukarinnstillingar, eller kor mange gongar visse funksjonar i nettlesaren vart brukte – som skjermbilde eller behaldarar. Til dømes samlar vi inn slike data gjennom tilbakeknappen (pila øvst til venstre i nettlesaren som lèt deg gå tilbake til ei tidlegare nettside), på ein måte som viser oss at knappen vart brukt, men utan å fortelje kva for nokre konkrete nettsider som vart besøkte.
 privacy-faq-do-you-collect-more-data-in = Samlar de inn fleire data i dei tidlege test-utgåvene av { -brand-name-firefox }?
+privacy-faq-sort-of-in-addition-to-the-data-v2 = På ein måte. I tillegg til dataa beskrivne ovanfor, tek vi imot krasj- og feilrapportar som standard i tidlege testutgivingar av { -brand-name-firefox }.
+# Variables:
+#   $link (url) - link to https://support.mozilla.org/kb/shield
+privacy-faq-we-may-also-collect-additional-v2 = Vi kan også samle inn fleire data i førehandsutgivinga for ein av studiane <a href="{ $link }">våre</a>. Til dømes krev nokre studiar det vi kallar «nettaktivitetsdata», som kan inkludere nettadresser og annan informasjon om visse nettstadar. Dette hjelper oss med å svare på spesifikke spørsmål for å forbetre { -brand-name-firefox }, til dømes korleis vi betre kan integrere populære nettstadar på bestemte språk.
+privacy-faq-mozillas-pre-release-versions = Førehandsversjonane av { -brand-name-mozilla } av { -brand-name-firefox } er utviklingsplattformer som ofte blir oppdaterte med eksperimentelle funksjonar. Vi samlar inn meir data i førehandsversjonane enn etter utgivinga for å forstå korleis desse eksperimentelle funksjonane fungerer. Du kan velje å ikkje samle inn desse dataa i innstillingane.
 privacy-faq-but-why-do-you-collect-any-data = Men kvifor samlar de inn data då?
+privacy-faq-if-we-dont-know-how-the-browser = Om vi ikkje veit korleis nettlesaren yter eller kva funksjonar folk brukar, kan vi ikkje gjere han betre og levere det gode produktet du ønskjer. Vi har investert i å byggje verktøy for datainnsamling og analyse som lèt oss ta smarte avgjerder om produktet vårt samtidig som vi respekterer folks personvern.
 privacy-faq-data-collection-still-bugs-me = Eg bryr meg ikkje om datainnsamlinga. Kan eg slå henne av?
+# Variables:
+#   $settings (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
+#   $data (url) - link to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
+privacy-faq-yes-user-control-is-one-of-our = Ja. Brukarkontroll er eit av prinsippa våre for personvern. Vi set dette ut i livet i { -brand-name-firefox } på  <a href="{ $settings }">sida vår for personverninnstillingar</a>, som fungerer som ein komplett stad for alle som ønskjer å ta kontroll over personvernet sitt i { -brand-name-firefox }. Du kan <a href="{ $data }">slå av datainnsamling</a> der.
 privacy-faq-what-about-my-account-data = Kva med kontodataa mine?
 privacy-faq-we-are-big-believers-of-data = Vi trur på minimering av data, og spør ikkje etter noko vi ikkje treng.
 # Variables:
@@ -49,6 +60,7 @@ privacy-faq-we-are-big-believers-of-data = Vi trur på minimering av data, og sp
 privacy-faq-you-dont-need-an-account-to = Du treng ikkje ein konto for å bruke { -brand-name-firefox }. <a href="{ $accounts }">Ein konto</a> er påkravd for å synkronisere informasjon på tvers av einingar, men vi ber berre om e-postadressa di. Namn, adresse, fødselsdag eller telefonnummer spør vi ikkje om.
 privacy-faq-you-use-digital-advertising = De brukar digital annonsering som ein del av marknadsføringa dykkar. Kjøper de folk sine data for å betre målrette annonsane dykkar på nettet?
 privacy-faq-no-we-do-not-buy-peoples-data = Nei, vi kjøper ikkje folk sine data for målretta annonsar.
+privacy-faq-we-do-ask-our-advertising-partners = Vi ber annonsepartnarane våre om å berre bruke førstepartsdata som nettstadar og utgivarar kjenner til om alle brukarar, til dømes nettlesaren du brukar og eininga du er på.
 privacy-faq-well-it-seems-like-you-really = Hm, det ser ut til at vi verkeleg tek desse tinga alvorleg.
 privacy-faq-yes-we-do = Ja, det gjer vi.
 privacy-faq-find-out-more-about-how-mozilla = Finn ut meir om korleis { -brand-name-mozilla } vernar om nettet.
