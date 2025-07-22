@@ -19,3 +19,4 @@ vpn-landing-invite-language-label = Vel ønskt språk.
 vpn-landing-invite-privacy-policy = Ved å klikke på «Meld deg på ventelista» godtek du <a href="{ $privacy }">personvernpolicyen vår</a>.
 vpn-landing-invite-your-information = Informasjonen din vil berre bli brukt til å varsle deg om plattformtilgjengelegheit.
 vpn-landing-invite-thanks-heading = Takk! Du er med på lista
+vpn-landing-invite-thanks-desc = Når { -brand-name-mozilla-vpn } blir tilgjengeleg for ditt område, sender vi deg ein e-post.
