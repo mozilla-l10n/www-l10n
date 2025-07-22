@@ -23,5 +23,9 @@ vpn-ip-address-yes-even-if = Ja. Sjølv om du berre brukar internett heime, kan 
 vpn-ip-address-can-more-than = Kan fleire enn ei eining ha same IP-adresse?
 vpn-ip-address-this-is-a = Dette er eit litt vanskeleg spørsmål – svaret er både ja og nei. Meir enn éi eining kan dele den same eksterne (offentlege) IP-adressa, men kvar eining vil ha si eiga lokale (private) IP-adresse. Til dømes set internettleverandøren din opp heimen din med éi ekstern Ip-adresse. Sidan ruteren din faktisk er det som koplar seg til internett, blir Ip-adressa tilordna til ruteren din. Ruteren din tilordnar deretter ei lokal Ip-adresse til kvar eining som er kopla til internett om gongen. Den eksterne IP-adressa er det som blir delt med omverda. Den lokale IP-adressa di blir ikkje delt utanfor det private heimenettverket ditt.
 vpn-ip-address-can-we-run = Kan vi få slutt på dei?
+# Variables
+#   $sr (url) - https://www.siliconrepublic.com/comms/ip-addresses-running-out
+#   $variety (url) - https://variety.com/2019/digital/news/u-s-households-have-an-average-of-11-connected-devices-and-5g-should-push-that-even-higher-1203431225/
+vpn-ip-address-when-the-internet = Då Internett først vart utvikla, brukte det «versjon 4»-adresser. Desse er 32 bitar, noko som betyr at vi kunne ha opptil <a href="{ $sr }">4,2 milliardar adresser</a>. Dette verka som nok den gongen, men er ikkje på langt nær nok i ei verd der det gjennomsnittlege amerikanske hushaldet hadde <a href="{ $variety }">11 tilkopla einingar</a>.
 vpn-ip-address-should-you-hide = Bør du gøyme IP-adressa di?
 vpn-ip-address-how-do-you = Korleis skjuler du det?
