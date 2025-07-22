@@ -22,7 +22,7 @@ history-by-creating-an-open-community = Prin crearea unei comunități deschise,
 #   $browsers (url) link to http://www.oreillynet.com/pub/a/mozilla/2002/09/12/mozilla_browsers.html
 #   $bugzilla (url) link to https://www.bugzilla.org
 #   $projects (url) link to https://www.mozilla.org/firefox/
-history-community-members-got-involved = Membrii comunității s-au implicat și au extins sfera <a href="{ $mission }">misiunii inițiale</a> a proiectului — în loc să lucreze doar la următorul browser { -brand-name-netscape }, au început să creeze <a href="{ $browsers }">o varietate de browsere</a>, <a href="{ $bugzilla }">unelte de dezvoltare</a> și o plajă largă de alte <a href="{ $projects }">proiecte</a>.
+history-community-members-got-involved = Membrii comunității s-au implicat și au extins sfera <a href="{ $mission }">misiunii inițiale</a> a proiectului — în loc să lucreze doar la următorul browser { -brand-name-netscape }, au început să creeze <a href="{ $browsers }">o varietate de browsere</a>, <a href="{ $bugzilla }">instrumente de dezvoltare</a> și o plajă largă de alte <a href="{ $projects }">proiecte</a>.
 history-people-contributed-to-mozilla = Contribuțiile la { -brand-name-mozilla } au fost realizate în moduri diferite, dar toți aveau pasiunea creării de programe libere care să ofere diversitatea opțiunilor în experiența pe internet.
 # Variables:
 #   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html

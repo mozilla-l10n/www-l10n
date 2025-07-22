@@ -35,7 +35,7 @@ privacy-faq-the-first-is-what-we-call-technical = Prima constă din „date tehn
 privacy-faq-do-you-collect-more-data-in = Colectați mai multe date în versiunile pre-lansare { -brand-name-firefox }?
 privacy-faq-mozillas-pre-release-versions = Versiunile { -brand-name-firefox } pre-lansare de { -brand-name-mozilla } sunt platforme de dezvoltare, actualizate frecvent cu funcționalități experimentale. Colectăm mai multe date în versiunile pre-lansare decât în cea stabilă ca să înțelegem cum funcționează aceste elemente experimentale. Poți opta în preferințe să nu fie colectate.
 privacy-faq-but-why-do-you-collect-any-data = Dar de ce colectați date oricum?
-privacy-faq-if-we-dont-know-how-the-browser = Dacă nu știm cum se comportă browserul sau ce funcționalități accesează utilizatori, nu îl putem îmbunătăți și nu putem oferi produsul pe care îl merită utilizatorii noștri. Am investit în construirea de unelte de colectare și analiză a datelor, care ne permit să luăm decizii inteligente despre produs, dar care respectă confidențialitatea oamenilor.
+privacy-faq-if-we-dont-know-how-the-browser = Dacă nu știm cum se comportă browserul sau ce funcționalități accesează utilizatori, nu îl putem îmbunătăți și nu putem oferi produsul pe care îl merită utilizatorii noștri. Am investit în construirea de instrumente de colectare și analiză a datelor, care ne permit să luăm decizii inteligente despre produs, dar care respectă confidențialitatea oamenilor.
 privacy-faq-data-collection-still-bugs-me = Colectarea de date mă deranjează. Pot să o dezactivez?
 # Variables:
 #   $settings (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
