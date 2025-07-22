@@ -23,8 +23,15 @@ privacy-firefox-firefox-gives-you = { -brand-name-firefox } gir deg enkle, men k
 privacy-firefox-always-protected = Alltid verna
 privacy-firefox-firefox-protects-you = { -brand-name-firefox } vernar deg mot kjende tredjepartssporarar, sporing via sosiale medium, kryptominarar, infokapslar og fingeravtrykkteknologiar som prøver å følgje deg rundt på nettet.
 privacy-firefox-privacy-that-works = Personvern som fungerer for deg
+privacy-firefox-firefox-makes-it = { -brand-name-firefox } gjer det enkelt å behandle dataa dine med innebygde personvern- og tryggingsfunksjonar, pluss innstillingar som lèt deg finjustere nettlesaropplevinga di.
 privacy-firefox-manage-your-privacy = Handsam personverninnstillingane dine:
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } for datamaskiner
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } for mobil
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Innhald
+# Variables:
+#   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
+privacy-firefox-take-me-back = Ta meg <a { $attrs }>tilbake til toppen</a> av personvernfråsegna
+# Variables:
+#   $attrs (string) - in-page link to the top of the page
+privacy-firefox-lost-in-the = Fortapt i alle detaljane? Gå tilbake til <a { $attrs }>grunnleggjande om å ta vare på personvernet ditt i { -brand-name-firefox }</a>.a
