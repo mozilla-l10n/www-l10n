@@ -41,7 +41,6 @@ firefox-developer-learn-more-about-style = ስለ ገፅታ አርታዒ የበ�
 firefox-developer-new-tools = አዲስ መሣሪያዎች
 firefox-developer-inactive-css = የቦዘነ CSS
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
-firefox-developer-built-for-developers = ለገንቢዎች የተሰራ
 firefox-developer-master-innovative-features = የፈጠራ ባህሪያት
 firefox-developer-download-the-firefox-browser = ለገንቢዎች የተሰራውን { -brand-name-firefox } አሳሽ ያውርዱ
 firefox-developer-made-for-developers = ለገንቢዎች የተሰራ አሳሽ

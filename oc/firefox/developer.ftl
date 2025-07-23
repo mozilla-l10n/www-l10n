@@ -17,6 +17,5 @@ firefox-developer-memory = Memòria
 firefox-developer-style-editor = Editor d'estil
 firefox-developer-new-tools = Aisinas novèlas
 firefox-developer-inactive-css = CSS inactiu
-firefox-developer-built-for-developers = Concebut pels desvolopaires
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } manda automaticament des informations a { -brand-name-mozilla }.
 firefox-developer-made-for-developers = Lo navegador concebut pels desvolopaires
