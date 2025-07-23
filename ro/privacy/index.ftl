@@ -31,5 +31,5 @@ privacy-index-to-review-and-comment-on-proposed = Pentru a revedea și comenta m
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Citește mai multe despre eforturile noastre continue depuse în elaborarea politicilor publice de confidențialitate a datelor cu caracter personal și de securitate pe <a href="{ $blog }">blogul { -brand-name-mozilla } despre politici deschise și pledoarii publice</a>.
 privacy-index-outdated-policies = Politici depășite
-privacy-index-mozilla-websites-communications = Site-urile web { -brand-name-mozilla }, comunicări și cookie-uri
+privacy-index-mozilla-websites-communications = Site-uri, comunicări și cookie-uri { -brand-name-mozilla }
 privacy-index-firefox-browser = { -brand-name-firefox-browser(case: "definite-article", capitalization: "upper") }
