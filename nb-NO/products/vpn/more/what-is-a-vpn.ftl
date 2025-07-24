@@ -11,6 +11,7 @@ vpn-what-is-what-is-a-vpn = Hva er en VPN?
 vpn-what-is-get-answers-to-nine = Få svar på ni vanlige spørsmål om VPN-er, slik at du føler deg informert om hva de gjør, når du bør bruke et og hvorfor.
 vpn-what-is-how-do-vpns = Hvordan fungerer VPN-er?
 vpn-what-is-when-should-i = Når bør jeg bruke en VPN?
+vpn-what-is-wait-i-thought = Vent, jeg trodde internettrafikken min allerede var kryptert med HTTPS …
 vpn-what-is-why-would-i = Hvorfor skulle jeg bruke en VPN?
 vpn-what-is-are-vpns-safe = Er VPN-er trygge?
 vpn-what-is-can-vpns-protect = Kan VPN-er beskytte meg mot nettkriminelle?
