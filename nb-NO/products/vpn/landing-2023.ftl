@@ -7,13 +7,22 @@
 
 # HTML page title
 vpn-landing-title = { -brand-name-mozilla-vpn }: Beskytt hele enheten din
+# HTML page description
+# Variables:
+#   $countries (number) - number of available countries
+vpn-landing-desc = Bruk { -brand-name-mozilla-vpn } for full enhetsbeskyttelse for alle apper. Med servere i over { $countries } land kan du koble deg til hvor som helst, fra hvor som helst.
+vpn-landing-powerful-privacy-for-peace = Kraftig personvern for trygghet
 vpn-landing-whats-a-vpn = Hva er en VPN?
+vpn-landing-a-virtual-private-network-protects = Et virtuelt privat nettverk beskytter internettforbindelsen din, og holder posisjonen din og det du gjør på nettet mer privat på tvers av enhetene dine.
 vpn-landing-see-all-the-ways-mozilla-vpn = Se alle måtene { -brand-name-mozilla-vpn } beskytter deg på.
 vpn-landing-how-a-vpn-helps-you = Hvordan en VPN hjelper deg
 vpn-landing-how-a-vpn-helps-you-v2 = Hvordan { -brand-name-mozilla-vpn } hjelper deg
 vpn-landing-keeps-your-data-safe = Holder dataene dine trygge på offentlige Wi-Fi-nettverk
 vpn-landing-log-in-to-your-bank-or = Logg inn på banken eller legekontoret ditt fra flyplassen, kafeen eller hvor som helst, med ro i sjelen.
 vpn-landing-blocks-advertisers-from = Hindrer annonsører i å målrette annonser
+vpn-landing-hide-your-activity-from = Skjul aktiviteten din fra sporere og skadeprogram, slik at du kan handle uten å bli overvåket.
+vpn-landing-take-control = Ta kontroll med nettstedspesifikke VPN-innstillinger
+vpn-landing-customize-your-vpn = Tilpass VPN-beskyttelsen din for hvert nettsted med { -brand-name-mozilla-vpn }-utvidelsen for { -brand-name-firefox } (kun Windows).
 vpn-landing-features = Funksjoner
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
