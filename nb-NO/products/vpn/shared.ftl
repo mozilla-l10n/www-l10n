@@ -61,4 +61,19 @@ vpn-subnav-features = Funksjoner
 
 # Section title for press quotations about Mozilla VPN
 vpn-press-as-seen-in = Kjent fra
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = «VPN-en til { -brand-name-mozilla } kan også <a { $attrs }>integreres i noen smarte personvernfunksjoner</a> i nettleseren { -brand-name-firefox }.»
 vpn-press-unique-features-like-its-multi-account = «…unike funksjoner, som Multi-Account Containers, kan gjøre funksjonen lett tilgjengelig for brukere med mer alvorlige personvernbekymringer.»
+vpn-press-mozilla-vpns-feature-list-has-grown = «Funksjonslisten til { -brand-name-mozilla-vpn } har vokst betraktelig siden lanseringen, og tjenesten slår nå mange spesialiserte VPN-er på enkelte områder.»
+
+## Unsupported language notification
+
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } tilbys for øyeblikket ikke på { $language }, men du kan bruke det på engelsk, fransk, tysk, spansk og <a { $href }>over 30 andre språk</a>.
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = Vil du bidra til å gjøre { -brand-name-mozilla-vpn } tilgjengelig for flere? <a { $href }>Bli frivillig oversetter</a>.
