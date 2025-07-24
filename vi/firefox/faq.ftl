@@ -48,7 +48,7 @@ is-firefox-safe = { -brand-name-firefox } có an toàn không?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
-not-only-is = { -brand-name-firefox } không chỉ an toàn khi sử dụng mà còn giúp giữ an toàn cho dữ liệu và thông tin cá nhân của bạn. { -brand-name-firefox-browser } tự động chặn các trình theo dõi bên thứ ba đã biết, trình theo dõi truyền thông xã hội, trình mã hóa và vân tay thu thập dữ liệu của bạn. <a href="{ $url }">Tìm hiểu thêm về quyền riêng tư trong các sản phẩm của chúng tôi.</a>
+not-only-is = { -brand-name-firefox } không chỉ an toàn khi sử dụng mà còn giúp giữ an toàn cho dữ liệu và thông tin cá nhân của bạn. { -brand-name-firefox-browser } tự động chặn các trình theo dõi bên thứ ba đã biết, trình theo dõi truyền thông xã hội, trình đào tiền điện tử và trình lấy dấu vết thu thập dữ liệu của bạn. <a href="{ $url }">Tìm hiểu thêm về quyền riêng tư trong các sản phẩm của chúng tôi.</a>
 related-questions-safe = Câu hỏi liên quan: { -brand-name-firefox } có xử lý tốt về quyền riêng tư không, { -brand-name-firefox } có an toàn không, { -brand-name-firefox } có tốt hơn cho quyền riêng tư không
 
 # Variables:
