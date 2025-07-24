@@ -51,3 +51,4 @@ vpn-pricing-if-already-subscribed = Hvis du allerede abonnerer på { -brand-name
 ## Mobile only subscription copy
 
 vpn-pricing-scan-qrcode-to-download = Skann QR-koden med mobilen eller nettbrettet ditt for å laste ned appen
+vpn-pricing-scan-qrcode-to-download-android = Skann QR-koden med din Android-telefon eller -nettbrett ditt for å laste ned appen
