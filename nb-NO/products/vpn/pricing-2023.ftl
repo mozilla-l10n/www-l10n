@@ -42,3 +42,12 @@ vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } er ennå ikke tilgje
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Ofte stilte spørsmål
 vpn-pricing-refund-policy = Hva er refusjonsreglene til { -brand-name-mozilla-vpn }?
+vpn-pricing-what-information = Hvilken informasjon lagrer { -brand-name-mozilla-vpn }?
+vpn-pricing-how-do-i-manage = Hvordan behandler jeg abonnementet mitt og endrer planen min?
+# Variables
+# $manage (url) - link to subscription management page
+vpn-pricing-if-already-subscribed = Hvis du allerede abonnerer på { -brand-name-mozilla-vpn }, kan du endre planen din eller <a { $manage }>behandle abonnementet ditt</a> når som helst.
+
+## Mobile only subscription copy
+
+vpn-pricing-scan-qrcode-to-download = Skann QR-koden med mobilen eller nettbrettet ditt for å laste ned appen
