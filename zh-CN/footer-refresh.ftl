@@ -26,6 +26,7 @@ footer-refresh-support = 技术支持
 footer-refresh-product-help = 产品帮助
 footer-refresh-file-a-bug = 提交 Bug
 footer-refresh-localize-mozilla = 本地化 { -brand-name-mozilla }
+footer-refresh-security = 安全
 footer-refresh-developers = 开发者
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

@@ -15,3 +15,5 @@ vpn-what-is-why-would-i = Hvorfor skulle jeg bruke en VPN?
 vpn-what-is-are-vpns-safe = Er VPN-er trygge?
 vpn-what-is-can-vpns-protect = Kan VPN-er beskytte meg mot nettkriminelle?
 vpn-what-is-are-vpns-legal = Er VPN-er lovlige?
+vpn-what-is-are-vpns-only = Er VPN-er bare for datamaskiner?
+vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Rask, sikker og pålitelig

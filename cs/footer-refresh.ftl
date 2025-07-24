@@ -26,6 +26,7 @@ footer-refresh-support = Podpora
 footer-refresh-product-help = Nápověda k produktům
 footer-refresh-file-a-bug = Nahlásit chybu
 footer-refresh-localize-mozilla = Přeložit { -brand-name-mozilla(case: "acc") }
+footer-refresh-security = Zabezpečení
 footer-refresh-developers = Vývojáři
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

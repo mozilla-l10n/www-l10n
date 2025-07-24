@@ -26,6 +26,7 @@ footer-refresh-support = მხარდაჭერა
 footer-refresh-product-help = დახმარების მიღება
 footer-refresh-file-a-bug = ხარვეზის მოხსენება
 footer-refresh-localize-mozilla = თარგმნეთ { -brand-name-mozilla }
+footer-refresh-security = უსაფრთხოება
 footer-refresh-developers = შემმუშავებლები
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

@@ -26,6 +26,7 @@ footer-refresh-support = Cefnogaeth
 footer-refresh-product-help = Cymorth Cynnyrch
 footer-refresh-file-a-bug = Cofnodi Mater
 footer-refresh-localize-mozilla = Lleoleiddiwch { -brand-name-mozilla }
+footer-refresh-security = Diogelwch
 footer-refresh-developers = Datblygwyr
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
