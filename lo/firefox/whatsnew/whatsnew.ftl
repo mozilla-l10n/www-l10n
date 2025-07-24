@@ -15,4 +15,5 @@ whatsnew-release-notes-v2 = ອ່ານ <a { $url }>ບັນທຶກການ
 whatsnew-signoff = <strong>ຂັບເຄື່ອນໂດຍ { -brand-name-mozilla }.</strong> ວາງຄົນກ່ອນຜົນກຳໄລຕັ້ງແຕ່ປີ 1998.
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = ບໍລິຈາກໃຫ້ { -brand-name-mozilla-foundation }
+whatsnew-donate-to-mofo-v2 = ບໍລິຈາກໃຫ້ { -brand-name-mozilla-foundation }
 whatsnew-thanks-for-choosing = ຂອບໃຈທີ່ເລືອກ { -brand-name-firefox }

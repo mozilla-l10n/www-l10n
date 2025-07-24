@@ -17,11 +17,10 @@ m24-home-learn-about-us = ຮຽນຮູ້ກ່ຽວກັບພວກເຮ
 m24-home-love-the-internet = ຮັກອິນເຕີເນັດອີກເທື່ອຫນຶ່ງ
 m24-home-explore-our-products = ສຳຫຼວດຜະລິດຕະພັນຂອງພວກເຮົາ
 m24-home-firefox = { -brand-name-firefox }
+m24-home-get-the-gold = ໄດ້​ຮັບ​ມາດ​ຕະ​ຖານ​ຄໍາ​ສໍາ​ລັບ​ການ​ຄົ້ນຫາ​ທີ່​ມີ​ຄວາມ​ໄວ​, ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ​ ແລະ​ ມີການ​ຄວບ​ຄຸມ​.
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
-
-## Donate
-
+m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## AI gallery
 
@@ -32,12 +31,3 @@ m24-home-alt-builders = Builders
 m24-home-builders-helps-independent = ຜູ້ກໍ່ສ້າງຊ່ວຍໃຫ້ຜູ້ພັດທະນາເອກະລາດສ້າງໂຄງການ AI ເປີດແຫຼ່ງທີ່ປ່ຽນແປງໄດ້ໂດຍຜ່ານການຮ່ວມມື, ການຂຽນໂປຼແກຼມ, ແລະ ຊຸມຊົນ.
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = ໂລໂກ້ { -brand-name-lumigator }.
-
-## Media Springboard
-
-
-## Showcase
-
-
-## Issues
-
