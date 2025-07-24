@@ -24,4 +24,14 @@ vpn-ip-address-can-we-run = Kan vi gå tom for dem?
 #   $sr (url) - https://www.siliconrepublic.com/comms/ip-addresses-running-out
 #   $variety (url) - https://variety.com/2019/digital/news/u-s-households-have-an-average-of-11-connected-devices-and-5g-should-push-that-even-higher-1203431225/
 vpn-ip-address-when-the-internet = Da Internett først ble utviklet, brukte det «versjon 4»-adresser. Disse er 32 bit, noe som betyr at vi kunne ha opptil <a href="{ $sr }">4,2 milliarder adresser</a>. Dette virket som nok den gangen, men er ikke på langt nær nok i en verden der den gjennomsnittlige amerikanske husholdningen hadde <a href="{ $variety }">11 tilkoblede enheter</a>.
+vpn-ip-address-we-now-have = Vi har nå IP-adresser i versjon 6, som har 128 bit per adresse. Dessverre kan ikke versjon 4 og versjon 6 kommunisere direkte med hverandre, så vi kommer til å trenge versjon 4-adresser i lang tid fremover.
+vpn-ip-address-should-you-hide = Bør du skjule IP-adressen din?
+# Variables
+#   $congress (url) - https://blog.mozilla.org/en/mozilla/internet-policy/u-s-broadband-privacy-rules-will-fight-protect-user-privacy/
+#   $doh (url) - https://support.mozilla.org/kb/firefox-dns-over-https
+#   $firefox (url) - https://www.mozilla.org/firefox/new/
+vpn-ip-address-you-dont-need = Du trenger ikke å skjule IP-adressen din, men det finnes situasjoner der du kanskje vil det. Den vanligste grunnen er personvern. I USA har <a href="{ $congress }">kongressen opphevet</a> personvernregler som skulle beskytte bredbåndsbrukere. Internettleverandører kan se nettleservanene dine, hva du bruker internett til og hvor lenge du er på hver side. Denne kommunikasjonen er ikke kryptert, så tredjeparter kan se hvilke nettsteder du besøker. Én måte å motvirke dette på er å bruke <a href="{ $doh }">DNS-over-HTTPS</a> (DoH). Dette krypterer DNS-trafikken din (Domain Name System), noe som gjør det vanskeligere for internettleverandøren å se hvilke nettsteder du prøver å besøke. For amerikanske <a href="{ $firefox }">{ -brand-name-firefox }-brukere</a> sendes DoH-forespørsler som standard til pålitelige DNS-servere, noe som gjør det vanskeligere å knytte deg til nettsidene du besøker.
+# Variables
+#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-there-are-also = Det finnes også situasjonsbestemte grunner til å skjule IP-adressen din. Du vil kanskje skjule den når du er ute og reiser. Et VPN gir deg også <a href="{ $url }">bedre personvern</a> når du kobler deg til WiFi for å strømme og handle mens du utforsker verden.
 vpn-ip-address-how-do-you = Hvordan skjuler du den?

@@ -17,7 +17,7 @@ vpn-ip-address-if-you-look-up-your = Om du slår opp Ip-adressa di, vil ho sjå 
 vpn-ip-address-does-it-travel = Følgjer ho med deg?
 # Variables
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
-vpn-ip-address-no-your-ip-v2 = Nei. Ip-adressa di er berre knytt til éin stad med mindre du brukar eit VPN (vi kjem tilbake til det seinare). Når du er heime og koplar til internett du betalar for, brukar du ei. Men om du sjekkar e-posten din heime om morgonen, deretter skannar nyheitene på ein lokal kafé medan du ventar på kaffien din, og deretter jobbar frå eit kontor, vil du ha brukt ulike Ip-adresser på kvar stad.
+vpn-ip-address-no-your-ip-v2 = Nei. Ip-adressa di er berre knytt til éin stad med mindre du brukar eit VPN (vi kjem tilbake til det seinare). Når du er heime og koplar til internett du betalar for, brukar du ei. Men om du sjekkar e-posten din heime om morgonen, deretter les nyheitene på ein lokal kafé medan du ventar på kaffien din, og deretter jobbar frå eit kontor, vil du ha brukt ulike Ip-adresser på kvar stad.
 vpn-ip-address-does-your-ip = Endrar IP-adressa di seg?
 vpn-ip-address-yes-even-if = Ja. Sjølv om du berre brukar internett heime, kan IP-adressa for heimen din endrast. Du kan kontakte internettleverandøren din (ISP) for å endre henne, men sjølv noko så rutinemessig som å starte modemet eller ruteren på nytt på grunn av problem med internettsambandet kan føre til ei endring.
 vpn-ip-address-can-more-than = Kan fleire enn ei eining ha same IP-adresse?
