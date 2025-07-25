@@ -23,11 +23,16 @@ vpn-mac-follow-the-steps = Følg trinnene som er beskrevet i installasjonsprogra
 ## Shared strings
 
 vpn-download-not-in-country = Beklager, { -brand-name-mozilla-vpn } er ikke tilgjengelig i landet ditt.
+vpn-open-the-file = 1. Åpne filen
+vpn-launch-the-app = 2. Start appen
+vpn-login-or-signup = 3. Logg inn eller registrer deg
+vpn-enter-your-email = Skriv inn e-postadressen din for å logge inn, eller registrere deg og kom i gang
 vpn-turn-on-vpn = 4. Slå på VPN
 vpn-install-firefox-extension = 5. Installer { -brand-name-firefox }-utvidelsen
 
 ## FAQ Strings
 
+vpn-download-faq-need-help = Trenger du hjelp med å komme i gang?
 vpn-download-faq-here-are-some = Her er noen av de vanligste spørsmålene om oppsett av { -brand-name-mozilla-vpn }
 vpn-download-faq-why-use = Hvorfor burde jeg bruke { -brand-name-mozilla-vpn }
 vpn-download-faq-working = Hvordan kan jeg vite at VPN-en fungerer?
