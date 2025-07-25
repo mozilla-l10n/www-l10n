@@ -29,4 +29,8 @@ vpn-or-proxy-a-proxy-is-useful = Ein proxy er nyttig når du surfar på nettet p
 #   $fpn (url) - https://fpn.firefox.com
 vpn-or-proxy-firefox-private-network = <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> er ei nettlesarutviding som er enkel å installere og som gir ein sikker, kryptert tunnel til nettet for å verne nettlesartilkoplinga di same kvar du brukar { -brand-name-firefox }. Ho er rask og enkel å slå på når du treng henne for ekstra sikkerheit i nettlesaren din.
 vpn-or-proxy-vpns-devicelevel-protection = VPN: vern på einingsnivå
+vpn-or-proxy-vpns-do-more = VPN gjer meir enn proxyar ved at ein proxy berre vernar det du gjer i nettlesaren din, medan ein VPN vernar all trafikken din, inkludert nettlesaren din, same kvar du har ein VPN installert og aktivert. VPN gir ekstra sikkerheit og personvern for all aktivitet på nettet – ein viktig faktor om du vil halde aktiviteten din for deg sjølv og gjere det vanskelegare for datasvoltne sporarar og internettleverandørar å opprette ein profil av deg på tvers av alle einingane dine, som telefonen, datamaskina og nettbrettet ditt.
+vpn-or-proxy-a-vpn-works = Eit VPN fungerer ved å lage ein sikker «tunnel» mellom eininga di og resten av internett. Det vernar deg på to hovudmåtar:
+vpn-or-proxy-concealing-your-ip = Det skjuler IP-adressa di, beskyttar identiteten din og skjuler plasseringa di.
+vpn-or-proxy-encrypting-your-traffic = Det krypterer trafikken mellom deg og VPN-leverandøren din, slik at ingen på det lokale nettverket kan sjå eller endre det.
 vpn-or-proxy-choose-a-trustworthy = Vel ei påliteleg teneste
