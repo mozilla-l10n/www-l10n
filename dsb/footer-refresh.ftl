@@ -26,6 +26,7 @@ footer-refresh-support = Pomoc
 footer-refresh-product-help = Pomoc wó produkśe
 footer-refresh-file-a-bug = Zmólkowu rozpšawu pisaś
 footer-refresh-localize-mozilla = { -brand-name-mozilla } lokalizěrowaś
+footer-refresh-security = Wěstota
 footer-refresh-developers = Wuwijarje
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
