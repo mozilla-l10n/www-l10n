@@ -8,7 +8,7 @@
 # HTML Page Title
 vpn-resource-center-title = VPN-ressurssenter
 vpn-resource-center-whats-the-deal = Hva er greia med virtuelle private nettverk (VPN)?
-vpn-resource-center-discover-how-they = Finn ut hvordan de fungerer, hvorfor de er viktige, og hva det å bruke en VPN kan gjøre for deg.
+vpn-resource-center-discover-how-they = Finn ut hvordan de fungerer, hvorfor de er viktige, og hva det å bruke et VPN kan gjøre for deg.
 vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-resource-center-start-protecting = Begynn å beskytte identiteten din i dag
 vpn-resource-center-obsessed-with = Opptatt av personvernet ditt siden 1998

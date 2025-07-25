@@ -12,10 +12,10 @@ vpn-landing-title = { -brand-name-mozilla-vpn }: Beskytt hele enheten din
 #   $countries (number) - number of available countries
 vpn-landing-desc = Bruk { -brand-name-mozilla-vpn } for full enhetsbeskyttelse for alle apper. Med servere i over { $countries } land kan du koble deg til hvor som helst, fra hvor som helst.
 vpn-landing-powerful-privacy-for-peace = Kraftig personvern for trygghet
-vpn-landing-whats-a-vpn = Hva er en VPN?
+vpn-landing-whats-a-vpn = Hva er et VPN?
 vpn-landing-a-virtual-private-network-protects = Et virtuelt privat nettverk beskytter internettforbindelsen din, og holder posisjonen din og det du gjør på nettet mer privat på tvers av enhetene dine.
 vpn-landing-see-all-the-ways-mozilla-vpn = Se alle måtene { -brand-name-mozilla-vpn } beskytter deg på.
-vpn-landing-how-a-vpn-helps-you = Hvordan en VPN hjelper deg
+vpn-landing-how-a-vpn-helps-you = Hvordan et VPN hjelper deg
 vpn-landing-how-a-vpn-helps-you-v2 = Hvordan { -brand-name-mozilla-vpn } hjelper deg
 vpn-landing-keeps-your-data-safe = Holder dataene dine trygge på offentlige Wi-Fi-nettverk
 vpn-landing-log-in-to-your-bank-or = Logg inn på banken eller legekontoret ditt fra flyplassen, kafeen eller hvor som helst, med ro i sjelen.
