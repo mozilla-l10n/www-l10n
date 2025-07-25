@@ -21,4 +21,12 @@ vpn-or-proxy-isps-can-use = Internettleverandørar kan bruke denne informasjonen
 vpn-or-proxy-when-should-you = Når bør du bruke ein VPN eller ein sikker proxy?
 vpn-or-proxy-vpns-and-secure = VPN og sikre webproxyar har felles mål: dei sikrar samband. Dei maskere den opphavlege IP-adressa di og vernar webtrafikk som du sender mellom deg og VPN-et eller leverandøren av sikker proxy. Men når bør du bruke ein VPN kontra ein proxy?
 vpn-or-proxy-secure-web-proxy = Sikker nettproxy: vern på nettlesarnivå
+vpn-or-proxy-a-secure-web = Ein sikker nettproxy fungerer for oppgåver du kanskje berre gjer i nettlesaren din. Dette kan innebere mykje aktivitet, som shopping, betaling av rekningar, pålogging på sosiale medium og lesing av e-post. Ein sikker nettproxy fungerer som ein mellomting mellom nettlesaren din og internett. Nettlesardataa dine vil passere gjennom ein sikker tunnel til internett direkte frå nettlesaren din, og maskere IP-adressa di, slik at webserveren du kontaktar ikkje veit nøyaktig kvar du er i verda. Og det gjer deg vanskelegare å spore og målrette.
+# Variables
+#   $url (url) - https://www.consumer.ftc.gov/articles/0014-tips-using-public-wi-fi-networks
+vpn-or-proxy-a-proxy-is-useful = Ein proxy er nyttig når du surfar på nettet på eit offentleg WiFi-nettverk. Når ein proxy er aktivert, vil han hindre avlyttarar på same nettverk i å spionere på nettlesaraktiviteten din eller lese transaksjonane dine på ukrypterte nettstadar. Det høyrest harmlaust ut, men offentlege WiFi-nettverk kan vere som ei bakdør for <a href="{ $url }">hackarar</a>.
+# Variables
+#   $fpn (url) - https://fpn.firefox.com
+vpn-or-proxy-firefox-private-network = <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a> er ei nettlesarutviding som er enkel å installere og som gir ein sikker, kryptert tunnel til nettet for å verne nettlesartilkoplinga di same kvar du brukar { -brand-name-firefox }. Ho er rask og enkel å slå på når du treng henne for ekstra sikkerheit i nettlesaren din.
+vpn-or-proxy-vpns-devicelevel-protection = VPN: vern på einingsnivå
 vpn-or-proxy-choose-a-trustworthy = Vel ei påliteleg teneste
