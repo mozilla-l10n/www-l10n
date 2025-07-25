@@ -10,6 +10,7 @@ m24-about-page-title = ຮຽນຮູ້ກ່ຽວກັບ { -brand-name-moz
 
 ## Intro
 
+m24-about-reclaim-the-internet = ຮຽກຄືນອິນເຕີເນັດກັບພວກເຮົາ
 
 ## Manifesto
 
@@ -22,6 +23,7 @@ m24-about-fund = ກອງທຶນ
 ## News
 
 m24-about-read-more = ອ່ານເພີ່ມເຕີມ
+m24-about-read-the-latest = ອ່ານຂ່າວ ແລະ ບົດຄວາມຫຼ້າສຸດຂອງ { -brand-name-mozilla }
 # Used as an accessible text alternative for an image
 m24-about-chicago = ຜູ້ປະກອບການຢູ່ Chicago.
 
