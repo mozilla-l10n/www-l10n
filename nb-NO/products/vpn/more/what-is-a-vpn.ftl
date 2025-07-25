@@ -12,6 +12,7 @@ vpn-what-is-get-answers-to-nine = Få svar på ni vanlige spørsmål om VPN-er, 
 vpn-what-is-how-do-vpns = Hvordan fungerer VPN-er?
 vpn-what-is-when-should-i = Når bør jeg bruke en VPN?
 vpn-what-is-wait-i-thought = Vent, jeg trodde internettrafikken min allerede var kryptert med HTTPS …
+vpn-what-is-its-true-that = Det er sant at de fleste tilkoblinger til nettsteder i disse dager er sikret med HTTPS, som betyr at innholdet, men ikke kilde- eller destinasjons-IP-adressen, er kryptert. En VPN tilbyr ekstra personvern ved å forhindre at nettsteder og tredjeparter får vite IP-adressen din.
 vpn-what-is-why-would-i = Hvorfor skulle jeg bruke en VPN?
 vpn-what-is-are-vpns-safe = Er VPN-er trygge?
 vpn-what-is-can-vpns-protect = Kan VPN-er beskytte meg mot nettkriminelle?
