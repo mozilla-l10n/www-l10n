@@ -38,3 +38,8 @@ vpn-ip-address-you-dont-need = Du treng ikkje å skjule IP-adressa di, men det f
 #   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
 vpn-ip-address-there-are-also = Det finst også situasjonsavhengige grunnar til å skjule IP-adressa di. Du vil kanskje skjule henne når du reiser. Eit VPN vil også gi deg <a href="{ $url }">meir personvern</a> når du koplar til WiFi for å strøyme og handle medan du utforskar verda.
 vpn-ip-address-how-do-you = Korleis skjuler du det?
+# Variables
+#   $vpn (url)- https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $countries (number) - number of countries where Mozilla VPN has servers, e.g. "30". The + after indicates the number may be higher, where "30+" means "30 or more".
+vpn-ip-address-a-vpn-is-v2 = Eit VPN er ein måte å skjule Ip-adressa di på. <a href="{ $vpn }">Når du brukar eit VPN</a>, vil den eksterne IP-adressa di kome frå den eksterne Ip-adressa til VPN-serveren, i staden for den eksterne Ip-adressa til plasseringa di. Så dersom den tilkopla VPN-serveren din er i California, vil den eksterne IP-adressa di sjå ut som om ho er kopla til frå California, same kvar du faktisk er. I tillegg blir nettaktiviteten din sendt over eit kryptert, sikkert samband til VPN-serveren din, noko som gir deg ekstra sikkerheit og personvern. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> er éin måte å skjule Ip-adressa di på. Vi lagrar ikkje nettverksaktivitetsloggane dine, og vi samarbeider ikkje med tredjepartar som byggjer profilar av kva du gjer på nettet. Vi tilbyr fullt einingsvern for opptil fem einingar med serverar i { $countries }+ land, slik at du kan kople til kvar som helst, frå kvar som helst.
