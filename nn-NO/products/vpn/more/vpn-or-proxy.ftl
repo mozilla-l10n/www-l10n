@@ -7,4 +7,13 @@
 
 # HTML page title and main title
 vpn-or-proxy-the-difference-between = Skilnaden mellom eit VPN og ein nettproxy
+# HTML page description and intro
+vpn-or-proxy-vpns-and-proxies-are = VPN og proxytjenester er løysingar for personvern og sikkerheit på nettet. Her er korleis dei vernar deg – og korleis du vel det beste alternativet.
+vpn-or-proxy-virtual-private-networks = Virtuelle private nettverk (VPN-er) og sikre webbproxytenester er løysingar for betre personvern og sikkerheit på nettet, men det kan vere forvirrande å finne ut kva som passar best for deg. Her er ei oversikt over korleis desse vernar deg – og når du bør bruke kva.
+vpn-or-proxy-stop-isps-from = Stopp internettleverandøren frå å overvake deg
+# Variables
+#   $firefox (url) - https://www.mozilla.org/firefox/new/
+#   $etp (url) - https://blog.mozilla.org/products/firefox/control-trackers-with-firefox/
+#   $trackers (url) - https://blog.mozilla.org/internet-culture/mozilla-explains/what-is-a-web-tracker/
+vpn-or-proxy-when-you-use-firefox = Når du <a href="{ $firefox }">brukar { -brand-name-firefox }</a>, blokkerer <a href="{ $etp }">utvida sporingsvern</a> automatisk mange <a href="{ $trackers }">sporarar frå tredjepartar</a> som prøver å følgje deg på nettet. Men her er ein interessant ting: Internettleverandøren din (ISP), som du betalar for internettsambandet, kan framleis overvake og spore deg.
 vpn-or-proxy-choose-a-trustworthy = Vel ei påliteleg teneste
