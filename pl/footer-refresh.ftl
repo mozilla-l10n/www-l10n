@@ -26,6 +26,7 @@ footer-refresh-support = Wsparcie
 footer-refresh-product-help = Pomoc
 footer-refresh-file-a-bug = Zgłoś błąd
 footer-refresh-localize-mozilla = Przetłumacz { -brand-name-mozilla(case: "acc") }
+footer-refresh-security = Bezpieczeństwo
 footer-refresh-developers = Deweloperzy
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
