@@ -22,6 +22,7 @@ vpn-mac-follow-the-steps = Følg trinnene som er beskrevet i installasjonsprogra
 
 ## Shared strings
 
+vpn-download-not-in-country = Beklager, { -brand-name-mozilla-vpn } er ikke tilgjengelig i landet ditt.
 vpn-turn-on-vpn = 4. Slå på VPN
 vpn-install-firefox-extension = 5. Installer { -brand-name-firefox }-utvidelsen
 
