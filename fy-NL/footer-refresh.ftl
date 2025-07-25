@@ -26,6 +26,7 @@ footer-refresh-support = Stipe
 footer-refresh-product-help = Produkthelp
 footer-refresh-file-a-bug = In bug melde
 footer-refresh-localize-mozilla = { -brand-name-mozilla } lokalisearje
+footer-refresh-security = Befeiliging
 footer-refresh-developers = Untwikkelers
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
