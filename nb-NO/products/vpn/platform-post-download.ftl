@@ -10,6 +10,13 @@
 ## Windows download page
 
 vpn-windows-download-page-title = Last ned { -brand-name-mozilla-vpn } for { -brand-name-windows }
+vpn-windows-go-to-your-downloads = Gå til nedlastingsmappen din og dobbeltklikk på .msi-filen
+vpn-windows-a-progress-bar = En framdriftsviser vil vises, og installasjonsprosessen vil starte.
+
+## Mac download page
+
+vpn-mac-download-page-title = Last ned { -brand-name-mozilla-vpn } for { -brand-name-mac-short }
+vpn-mac-downloading-mozilla-vpn = Laster ned { -brand-name-mozilla-vpn } for { -brand-name-mac-short } …
 
 ## FAQ Strings
 
