@@ -5,7 +5,7 @@
 send-to-device-send-firefox = Send { -brand-name-firefox } til din smarttelefon eller ditt nettbrett
 send-to-device-your-download-link = Nedlastingslenken din er sendt.
 send-to-device-please-enter-an-email = Angi en e-postadresse.
-send-to-device-an-error-occured = Det oppsto en feil i systemet vårt. Prøv igjen senere.
+send-to-device-an-error-occured = Det oppstod en feil i systemet vårt. Prøv igjen senere.
 send-to-device-enter-your-email = Skriv inn e-postadressen din
 send-to-device-send = Send
 send-to-device-intended-recipient-email = Den tiltenkte mottakeren av e-posten må ha gitt sitt samtykke.
