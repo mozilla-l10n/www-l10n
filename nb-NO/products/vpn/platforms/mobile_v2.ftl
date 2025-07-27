@@ -7,3 +7,4 @@
 
 vpn-mobile-vpn-for-mobile = VPN for mobil fra { -brand-name-mozilla }
 vpn-mobile-why-do-i = Hvorfor trenger jeg et VPN for mobil?
+vpn-mobile-your-isp-v2 = Internettleverandøren din kan blokkere nettsteder eller tjenester de ikke liker, eller som konkurrerer med deres egne.
