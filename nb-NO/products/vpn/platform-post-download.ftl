@@ -47,6 +47,9 @@ vpn-download-faq-need-help = Trenger du hjelp med å komme i gang?
 vpn-download-faq-here-are-some = Her er noen av de vanligste spørsmålene om oppsett av { -brand-name-mozilla-vpn }
 vpn-download-faq-why-use = Hvorfor burde jeg bruke { -brand-name-mozilla-vpn }
 # Variables:
+#   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+vpn-download-faq-as-more-daily = Etter hvert som stadig mer av hverdagen foregår på internett, blir personvern og sikkerhet på nett enda viktigere. Et VPN, <a href="{ $faq }">virtuelt privat nettverk</a>, oppretter en kryptert tunnel mellom enhetene dine og internett, og sørger for at tilkoblingen din forblir sikker og privat – og beskytter deg på to viktige måter:
+# Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-download-faq-concealing-ip = Skjule din virkelige <a href="{ $ip }">IP-adresse</a>: Dette bidrar til å beskytte identiteten din og skjuler posisjonen din fra nettstedene du besøker.
 vpn-download-faq-encrypting = Krypter internettrafikken din: slik at ingen på nettet kan spionere på din nettaktivitet.
@@ -60,4 +63,11 @@ vpn-download-faq-add-device = Hvordan legger jeg til en annen enhet?
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v3 = Å legge til en ny enhet er like enkelt som å laste ned og installere { -brand-name-mozilla-vpn } og deretter logge inn med din eksisterende { -brand-name-mozilla-account } på den nye enheten. For mer informasjon, se <a href="{ $subscription }">Hvordan legge til enheter i ditt { -brand-name-mozilla-vpn }-abonnement</a>.
 vpn-download-faq-best-practices = Hva er noen beste praksiser for bruk av VPN?
+vpn-download-faq-traffic = Hvis målet ditt er å beskytte internettrafikken din samtidig som du beholder høy hastighet, er det alltid best å velge en serverplassering som er så nær den fysiske plasseringen din som mulig. Dette vil øke påliteligheten og hastigheten på tilkoblingen, siden trafikken ikke må ta en stor omvei før den når frem til målet på nettet.
+vpn-download-faq-experience = Hvis målet ditt er å oppleve internett som om du var i en annen del av verden, kan du velge en serverplassering der, og alle nettsteder du besøker vil vises som om du var der.
+vpn-download-faq-protect = Hvis du vil beskytte deg selv enda bedre, kan du aktivere beskyttelse mot annonser, annonsesporing og skadelig programvare ved å gå til Innstillinger > Personvernfunksjoner. Vær oppmerksom på at dette kan føre til at noen nettsteder ikke fungerer eller ikke lastes inn, så du må kanskje midlertidig deaktivere denne beskyttelsen hvis du støter på dette problemet.
+vpn-download-faq-lastly = Til slutt, på enheter som støtter det, kan du gjøre VPN-et enda smartere ved å utelate visse apper (f.eks. Netflix) fra VPN-tilkoblingen.
 vpn-download-faq-need-more = Trenger du litt mer hjelp?
+# Variables
+#   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
+vpn-download-faq-support = Du kan kontakte brukerstøtteteamet vårt direkte fra { -brand-name-mozilla-vpn }-applikasjonen ved å klikke på Innstillinger > Få hjelp > Kontakt support. Du kan også kontakte oss <a href="{ $support }">på brukerstøttesiden vår</a>.
