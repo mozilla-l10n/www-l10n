@@ -15,4 +15,5 @@ whatsnew-release-notes-v2 = Lestu <a { $url }>útgáfuupplýsingarnar</a> til a�
 whatsnew-signoff = <strong>Knúið af { -brand-name-mozilla }.</strong> Höfum sett fólk fram fyrir hagnað síðan 1998.
 # Obsolete string (expires 10-08-2025)
 whatsnew-donate-to-mofo = Gefðu til { -brand-name-mozilla-foundation }
+whatsnew-donate-to-mofo-v2 = Gefðu til { -brand-name-mozilla-foundation }
 whatsnew-thanks-for-choosing = Takk fyrir að velja { -brand-name-firefox }

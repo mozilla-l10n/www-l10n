@@ -26,6 +26,7 @@ footer-refresh-support = Aðstoð
 footer-refresh-product-help = Aðstoð með hugbúnað
 footer-refresh-file-a-bug = Skrá villu
 footer-refresh-localize-mozilla = Staðfæra { -brand-name-mozilla }
+footer-refresh-security = Öryggi
 footer-refresh-developers = Forritarar
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
