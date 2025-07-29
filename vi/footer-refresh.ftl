@@ -26,6 +26,7 @@ footer-refresh-support = Hỗ trợ
 footer-refresh-product-help = Hỗ trợ về sản phẩm
 footer-refresh-file-a-bug = Báo cáo lỗi
 footer-refresh-localize-mozilla = Bản địa hóa { -brand-name-mozilla }
+footer-refresh-security = Bảo mật
 footer-refresh-developers = Nhà phát triển
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
