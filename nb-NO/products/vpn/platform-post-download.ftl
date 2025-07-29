@@ -51,5 +51,13 @@ vpn-download-faq-why-use = Hvorfor burde jeg bruke { -brand-name-mozilla-vpn }
 vpn-download-faq-concealing-ip = Skjule din virkelige <a href="{ $ip }">IP-adresse</a>: Dette bidrar til å beskytte identiteten din og skjuler posisjonen din fra nettstedene du besøker.
 vpn-download-faq-encrypting = Krypter internettrafikken din: slik at ingen på nettet kan spionere på din nettaktivitet.
 vpn-download-faq-working = Hvordan kan jeg vite at VPN-en fungerer?
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } viser visuelle indikatorer for gjeldende status både i verktøylinjen og på appens startskjerm, slik at det er lett å se om nettrafikken din er beskyttet eller ikke. Disse indikatorene lar deg bekrefte når surfingen din er privat og sikker. Når du er tilkoblet, kan du også besøke <a href="{ $monitor }">https://monitor.mozilla.org/</a> for å sjekke om IP-adressen din er skjult. For mer informasjon, se <a href="{ $connected }">Hvordan kan jeg vite om { -brand-name-mozilla-vpn } er tilkoblet?</a>.
 vpn-download-faq-add-device = Hvordan legger jeg til en annen enhet?
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v3 = Å legge til en ny enhet er like enkelt som å laste ned og installere { -brand-name-mozilla-vpn } og deretter logge inn med din eksisterende { -brand-name-mozilla-account } på den nye enheten. For mer informasjon, se <a href="{ $subscription }">Hvordan legge til enheter i ditt { -brand-name-mozilla-vpn }-abonnement</a>.
+vpn-download-faq-best-practices = Hva er noen beste praksiser for bruk av VPN?
 vpn-download-faq-need-more = Trenger du litt mer hjelp?
