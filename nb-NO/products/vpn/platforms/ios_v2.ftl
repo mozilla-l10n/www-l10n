@@ -7,3 +7,4 @@
 
 vpn-ios-vpn-for-iphone = VPN for iPhone fra { -brand-name-mozilla }
 vpn-ios-looking-for-a = Leter du etter et VPN for din iPhone? VPN-tjenestene til { -brand-name-mozilla } sørger for at du er beskyttet på nettet hver gang du logger deg på enheten din. Fortsett å lese for å lære mer om hvordan du beskytter iPhonen din mot cyberangrep med { -brand-name-mozilla-vpn } for iPhone.
+vpn-ios-there-are-many = Det er mange grunner til at du kanskje vil bruke { -brand-name-mozilla-vpn } for iPhone, for eksempel:
