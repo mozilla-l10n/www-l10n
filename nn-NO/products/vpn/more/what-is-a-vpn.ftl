@@ -14,6 +14,7 @@ vpn-what-is-how-do-vpns = Korleis fungerer VPN?
 vpn-what-is-a-vpn-is = Eit VPN er eit verktøy som lèt deg få sikker tilgang til internett same kvar du er. Eit VPN fungerer ved å opprette ein sikker «tunnel» mellom eininga di og VPN-leverandøren din, og det vernar deg på to viktige måtar:
 vpn-what-is-concealing-your-ip = Skjuler IP-adressa di, vernar identiteten og plasseringa di.
 vpn-what-is-encrypting-your-traffic = Det krypterer trafikken mellom deg og VPN-leverandøren din, slik at ingen på det lokale nettverket kan sjå eller endre det.
+vpn-what-is-in-the-past = Tidlegare vart VPN-er hovudsakleg brukt av bedrifter for å gi sikker fjerntilgang til interne tenester og proprietære data. No er VPN likevel tilgjengelege for alle som ønskjer å verne internettsambandet sitt, spesielt når det er over porøse nettverk som offentleg WiFi, men det er til og med nyttig på eit heimenettverk.
 vpn-what-is-when-should-i = Når bør eg bruke eit VPN?
 vpn-what-is-why-would-i = Kvifor skal eg bruke eit VPN?
 vpn-what-is-are-vpns-safe = Er VPN trygge?
