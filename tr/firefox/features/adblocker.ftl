@@ -10,6 +10,10 @@ features-adblocker-the-ad-blocker-a-secret = Reklam engelleyici: Sinir bozucu re
 features-adblocker-so-many-ads-so-little = Reklam çok, sabrınız az… Artık bu çılgınlığı durdurmanın zamanı geldi.
 features-adblocker-the-average-person-sees = Ortalama bir kişi günde yaklaşık 4.000 reklam görür. Bu size fazla geldiyse reklam engelleyicilerle dost olabilirsiniz.
 features-adblocker-an-ad-blocker-is-a-piece = Reklam engelleyici, reklamları engellemek için kullanılabilen bir yazılımdır ve iki şekilde çalışır. İlk yol, reklam engelleyicinin bir reklamverenin sunucusundan gelen sinyali engellemesidir. Böylece reklam, sayfanızda asla görünmez. Reklam engelleyicilerin bir diğer çalışma şekli de bir web sitesinin reklam olabilecek bölümlerini engellemektir.
+# Variables:
+#   $firefox (url) - link to https://www.mozilla.org/firefox/new/
+#   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
+features-adblocker-these-ads-might-be-loud = Bu reklamlar yüksek sesli video reklamlar, web’de sizi takip eden reklamlar, takip kodları, üçüncü taraf çerezleri ve daha fazlası olabilir. Reklam engelleyici kullanmak için tarayıcınıza özel reklam engelleyici eklentilerini arayabilirsiniz. Örneğin <a href="{ $firefox }">{ -brand-name-firefox }</a> için <a href="{ $addons }">editörlerimizin seçtiği reklam engelleyici eklentilerine</a> bakabilirsiniz. Bu listeye tıklayarak (veya başka bir tarayıcı kullanıyorsanız o tarayıcıya özel eklentilere bakarak) ihtiyaçlarınıza en uygun olanı seçebilirsiniz.
 features-adblocker-find-the-right-ad-blocker = Size en uygun reklam engelleyiciyi bulun
 features-adblocker-there-are-scores-of-content = Kullanabileceğiniz birçok içerik engelleyici var ama işte { -brand-name-mozilla }’nın seçtiği birkaç harika seçenek…
 # Variables:
@@ -28,6 +32,8 @@ features-adblocker-if-ads-dont-bother-you = Reklamlar sizi rahatsız etmiyorsa, 
 features-adblocker-get-tough-with-strict = Sıkı modla sert olun
 features-adblocker-if-seeing-too-many-ads = Çok fazla reklam görmek gününüzü mahvediyorsa "katı" mod sizin için daha uygun. Bu mod, bilinen üçüncü taraf takip kodlarını ve çerezleri tüm { -brand-name-firefox } pencerelerinde engeller.
 features-adblocker-do-it-yourself-custom = Özel modla kendi gizliliğinizi kendiniz ayarlayın
+features-adblocker-the-custom-setting-gives = “Özel” ayarı size tam kontrol sunar. Neleri engelleyeceğinize (takip kodları, çerezler vb.) siz karar verirsiniz. Bir web sitesinde çerezlere izin verdiğinizde otomatik olarak özel moda geçersiniz.
 features-adblocker-cover-your-trail-block = İzinizi belli etmeyin, takip kodlarını engelleyin
 features-adblocker-take-a-bite-out-of-cookies = Çerezleri dert etmeyin
+features-adblocker-in-firefox-you-can-block = { -brand-name-firefox }’ta ister tüm üçüncü taraf çerezlerini isterseniz de yalnızca takip kodlarının yerleştirdiği çerezleri engelleyebilirsiniz. Ancak tüm çerezleri engellemenin bazı siteleri bozabileceğini unutmayın.
 features-adblocker-speed-up-thanks-to-ad = Reklam engelleyiciler sayesinde hızlanın

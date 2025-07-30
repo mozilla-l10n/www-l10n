@@ -29,8 +29,10 @@ cookie-settings-category-preference-what-are-subheading = Tercih çerezleri nedi
 
 cookie-settings-category-analytics-heading = Analitik
 cookie-settings-category-analytics-what-are-subheading = Analitik çerezleri nedir?
+cookie-settings-category-analytics-what-are-desc = Bu teknolojiler, insanların web sitelerini nasıl kullandıkları hakkında bilgi toplar (örn. ziyaret edilen sayfalar, tıklanan bağlantılar, ziyaretlerin hangi diğer web sitelerinden geldiği).
 
 ## Privacy section
 
 cookie-settings-privacy-heading = Gizlilik bildirimimiz
+cookie-settings-privacy-desc = Web sitelerimizi ziyaret ettiğinizde { -brand-name-mozilla }’nın topladığı bilgi türleriyle ilgili daha ayrıntılı bilgi almak için aşağıdaki bağlantıdan gizlilik bildirimimize ulaşabilirsiniz.
 cookie-settings-privacy-policy-link = Gizlilik bildirimi
