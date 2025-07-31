@@ -20,10 +20,18 @@ m24-home-firefox = { -brand-name-firefox }
 m24-home-get-the-gold = ໄດ້​ຮັບ​ມາດ​ຕະ​ຖານ​ຄໍາ​ສໍາ​ລັບ​ການ​ຄົ້ນຫາ​ທີ່​ມີ​ຄວາມ​ໄວ​, ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ​ ແລະ​ ມີການ​ຄວບ​ຄຸມ​.
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-firefox-relay = { -brand-name-firefox-relay }
+
+## Donate
+
+m24-home-donate = ບໍລິຈາກ
 
 ## AI gallery
 
+m24-home-tag-product = ຜະລິດຕະພັນ
+m24-home-tag-project = ໂຄງການ
+m24-home-tag-program = ໂຄງການ
 m24-home-tag-event = ເຫດການ
 m24-home-read-more = ອ່ານເພີ່ມເຕີມ
 m24-home-get-started = ເລີ່ມຕົ້ນໃຊ້ງານ
