@@ -27,3 +27,4 @@ vpn-pricing-faqs = Isteqsiyen FAQ
 
 ## Mobile only subscription copy
 
+vpn-pricing-download-the-app = Sader asnas
