@@ -39,7 +39,7 @@ vpn-landing-more-than-servers-in-countries =
         [one] Fleire enn { $servers } server i { $countries }+ land
        *[other] Fleire enn { $servers } serverar i { $countries }+ land
     }
-vpn-landing-fast-network-speeds-even-while = Raske nettverkshastigheiter sjølv medan du speler
+vpn-landing-fast-network-speeds-even-while = Rask nettverksfart sjølv medan du spelar
 vpn-landing-no-logging-tracking-or-sharing = Inga logging, sporing eller deling av nettverksdata
 vpn-landing-no-bandwidth-restrictions-or = Ingen bandbreidde- eller eller førespurnadsavgrensingar
 vpn-landing-extra-security-whole-device = Ekstra sikkerheit: vern av heile eininga, multi-hop-ruting og meir
