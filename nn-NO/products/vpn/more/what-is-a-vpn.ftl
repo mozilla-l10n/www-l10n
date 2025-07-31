@@ -42,6 +42,17 @@ vpn-what-is-its-very-hard = Det er veldig vanskeleg å finne eit påliteleg VPN.
 #   $mission (url) - https://www.mozilla.org/mission/
 # "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
 vpn-what-is-weve-done-the = Vi har gjort forarbeidet for å sikre at <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> faktisk respekterer personvernet ditt, og det er noko vi er villige til å satse ryktet vårt på. { -brand-name-mozilla } har eit rykte om å byggje produkt som hjelper deg med å halde informasjonen din trygg. Vi følgjer dei lettlesne, seriøse prinsipp våre <a href="{ $principles }">for personvern</a> som lèt oss fokusere berre på informasjonen vi treng for å tilby ei teneste. { -brand-name-mozilla-vpn }-teknologien er slank og moderne for å tilby brukarane eit raskt samband med fullt VPN-vern og -sikkerheit. Og sidan produsentane av dette VPN-et blir støtta av eit <a href="{ $mission }">oppdragsdrive selskap</a> , kan du stole på at pengane du brukar på dette produktet ikkje berre vil sikre at du har eit førsteklasses VPN, men også gjere internett betre for alle.
+vpn-what-is-can-vpns-protect = Kan VPN verne meg mot nettkriminelle?
+# Variables
+#   $url (url) - https://blog.mozilla.org/en/products/firefox/stay-safe-in-your-online-life-too/
+vpn-what-is-while-a-vpn = Sjølv om eit VPN gir eit sikkert samband til internett, vernar det deg ikkje mot alle vondsinna aktørar der ute. Når du er på nett, med eller utan eit VPN, bør du vere varsam med mistenkjelege lenker, feilinformasjonkampanjar, phishing-svindel og andre truslar. <a href="{ $url }">Å halde seg trygg på nett</a> er ein kvardagsleg tankegang.
 vpn-what-is-are-vpns-legal = Er VPN lovlege?
+vpn-what-is-installing-and-using = Det er for tida lovleg å installere og bruke eit VPN i dei fleste land, inkludert USA, Storbritannia, Canada og New Zealand, men nokre land kan regulere bruken av dei. Om du vel å bruke eit VPN, er det ditt ansvar å sjekke lova i landet for å avgjere om det er lovleg å bruke det eller ikkje.
 vpn-what-is-are-vpns-only = Er VPN berre for datamaskiner?
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-vpns-can-be = VPN kan brukast til å verne alle einingane dine – datamaskiner, berbare datamaskiner, nettbrett og telefonar. Om du koplar deg til internett via frittståande appar utover nettlesaren, er eit VPN eit godt val for åb ta vare på personvernet og sikkerheita di på alle einingar. Du må installere eit VPN på kvar eining for at det skal vere effektivt. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> tilbyr ei uavgrensa tilkopling for opptil fem einingar når du koplar til internett frå kva app som helst eller nettlesar.
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Rask, sikker, pålitekeg
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> er ei teneste du kan stole på for å halde internettsambandet ditt trygg på alle einingane dine. Vi lagrar ikkje nettverksaktivitetsloggane dine, og vi samarbeider ikkje med tredjepartar som byggjer profilar av kva du gjer på nettet. I ei verd der uvisse har vorte den «nye normalen», veit vi at det er viktigare enn nokon gong at du kjenner deg trygg, og at du veit at det du gjer på nettet er di eiga sak.
