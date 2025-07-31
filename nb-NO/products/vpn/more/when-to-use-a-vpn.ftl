@@ -7,3 +7,8 @@
 
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = 5 grunner til at du bør bruke et VPN
+vpn-when-to-use-1-a-walk = 1. En tur i parken
+vpn-when-to-use-2-in-the = 2. I nabolaget
+vpn-when-to-use-3-on-the = 3. På farten
+vpn-when-to-use-4-home-away = 4. Et hjem borte fra hjemmet
+vpn-when-to-use-5-in-your = 5. I ditt eget hjem
