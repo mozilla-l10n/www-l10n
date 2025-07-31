@@ -36,6 +36,12 @@ vpn-what-is-what-are-the = Kva er ulempene med å bruke eit VPN?
 vpn-what-is-some-service-providers = Nokre tenesteleverandørar blokkerer besøk gjort via eit VPN, noko som gjer innhaldet deira utilgjengeleg når eit VPN er slått på. Nokon VPN-er kan gjere deg tregare, eller dei kan avgrense bandbreidda di. Og nokon VPN-er rangerer dårleg når det gjeld respekt for personvernet og sikkerheita til brukarane.
 vpn-what-is-are-vpns-safe = Er VPN trygge?
 vpn-what-is-its-very-hard = Det er veldig vanskeleg å finne eit påliteleg VPN. VPN er meint å verne brukarar medan dei er på nett, men ikkje alle VPN er like i tenesta dei leverer. Når du leitar etter ei VPN-teneste, sørg for at du forstår vilkåra du godtek. Mange hevdar å vere gode og fokuserer på personvern, men mange av dei leverer ikkje det dei lovar. Nokre VPN loggar onlineaktivitetane dine slik at dei kan selje dataa og informasjonen din til marknadsføringsfirma sjølv. Andre VPN-er prøver å overtyde deg om å installere skadeleg programvare på einingane dine.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-what-is-weve-done-the = Vi har gjort forarbeidet for å sikre at <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> faktisk respekterer personvernet ditt, og det er noko vi er villige til å satse ryktet vårt på. { -brand-name-mozilla } har eit rykte om å byggje produkt som hjelper deg med å halde informasjonen din trygg. Vi følgjer dei lettlesne, seriøse prinsipp våre <a href="{ $principles }">for personvern</a> som lèt oss fokusere berre på informasjonen vi treng for å tilby ei teneste. { -brand-name-mozilla-vpn }-teknologien er slank og moderne for å tilby brukarane eit raskt samband med fullt VPN-vern og -sikkerheit. Og sidan produsentane av dette VPN-et blir støtta av eit <a href="{ $mission }">oppdragsdrive selskap</a> , kan du stole på at pengane du brukar på dette produktet ikkje berre vil sikre at du har eit førsteklasses VPN, men også gjere internett betre for alle.
 vpn-what-is-are-vpns-legal = Er VPN lovlege?
 vpn-what-is-are-vpns-only = Er VPN berre for datamaskiner?
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Rask, sikker, pålitekeg
