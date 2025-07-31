@@ -30,6 +30,7 @@ vpn-what-is-hiding-your-identity = Å skjule identiteten din og maskere nettrafi
 vpn-what-is-keeping-your-online = Halde nettaktiviteten din privat.
 vpn-what-is-keeping-your-home = Å halde heimeadressa di eller stadar du ofte besøkjer private.
 vpn-what-is-protecting-your-connection = Vernar sambandet ditt til eit offentleg WiFi-nettverk, som på ein kafé, flyplass, butikk eller bibliotek.
+vpn-what-is-ensuring-the-confidentiality = Sikre konfidensialiteten og integriteten til tilgangen din til internett.
 vpn-what-is-are-vpns-safe = Er VPN trygge?
 vpn-what-is-are-vpns-legal = Er VPN lovlege?
 vpn-what-is-are-vpns-only = Er VPN berre for datamaskiner?
