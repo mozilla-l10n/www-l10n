@@ -12,3 +12,5 @@ vpn-when-to-use-2-in-the = 2. I nabolaget
 vpn-when-to-use-3-on-the = 3. På farten
 vpn-when-to-use-4-home-away = 4. Et hjem borte fra hjemmet
 vpn-when-to-use-5-in-your = 5. I ditt eget hjem
+vpn-when-to-use-make-sure-you = Sørg for at du forstår hva en VPN ikke gjør
+vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, en pålitelig VPN-tjeneste
