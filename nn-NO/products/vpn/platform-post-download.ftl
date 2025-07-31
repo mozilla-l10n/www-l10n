@@ -37,10 +37,21 @@ vpn-enter-your-email = Skriv inn e-postadressa di for å logge på, eller regist
 vpn-turn-on-vpn = 4. Slå på VPN
 vpn-install-firefox-extension = 5. Installer { -brand-name-firefox }-utvidinga
 vpn-pick-a-recommended = Vel ei tilrådd plassering for ei rask og stabil tilkopling, eller vel ønskt plassering manuelt, og slå deretter brytaren PÅ
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = <a href="{ $extension }">Last ned og installer utvidinga</a> for å angi ekskluderingar per nettstad og velje ulike plasseringar for ulike nettstadar.
 
 ## FAQ Strings
 
 vpn-download-faq-need-help = Treng du hjelp med å kome i gang?
 vpn-download-faq-here-are-some = Her er nokre av dei vanlegaste spørsmåla om oppsett av { -brand-name-mozilla-vpn }
+vpn-download-faq-why-use = Kvifor bør eg bruke { -brand-name-mozilla-vpn }
+# Variables:
+#   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+vpn-download-faq-as-more-daily = Etter kvart som stadig meir av kvardagen går føre seg på internett, blir personvern og sikkerheit på nettet endå viktigare. Eit VPN, <a href="{ $faq }">virtuelt privat nettverk</a>, opprettar ein kryptert tunnel mellom einingane dine og internett, og sørgjer for at tilkoplinga di held fram med å vere sikker og privat – og vernar deg på to viktige måtar:
+# Variables:
+#   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-download-faq-concealing-ip = Skjule den verkelege <a href="{ $ip }">IP-adressa di</a>: Dette bidreg til å verne identiteten din og skjuler posisjonen din frå nettstadane du besøkjer.
+vpn-download-faq-encrypting = Krypter internettrafikken din: slik at ingen på nettet kan spionere på nettaktiviteten din.
 vpn-download-faq-working = Korleis veit eg at VPN fungerer?
 vpn-download-faq-add-device = Korleis legg eg til ei anna eining?
