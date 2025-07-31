@@ -62,3 +62,12 @@ vpn-download-faq-add-device = Korleis legg eg til ei anna eining?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
 vpn-download-faq-adding-another-v3 = Å leggje til ei ny eining er like lett som å laste ned og installere { -brand-name-mozilla-vpn } og deretter logge inn med den eksisterande { -brand-name-mozilla-account }en din på den nye eininga. For meir informasjon, sjå <a href="{ $subscription }">Korleis leggje til einingar i { -brand-name-mozilla-vpn }-abonnementet</a> ditt.
+vpn-download-faq-best-practices = Kva er noko av det beste du kan gjere med VPN?
+vpn-download-faq-traffic = Viss målet ditt er å verne internettrafikken din samtidig som du beheld høg fart, er det alltid best å velje ei serverplassering som er så nær den fysiske plasseringa di som mogleg. Dette vil auke pålitelegheita og farta på tilkoplinga, sidan trafikken ikkje må ta ein stor omveg før han når fram til målet på nettet.
+vpn-download-faq-experience = Viss målet ditt er å oppleve internett som om du var i ein annan del av verda, kan du velje ei serverplassering der, og alle nettstadar du besøkjer vil visast som om du var der.
+vpn-download-faq-protect = Om du vil verne deg sjølv endå betre, kan du aktivere vern mot annonsar, annonsesporing og skadeleg programvare ved å gå til Innstillinger > Personvernfunksjoner. Ver merksam på at dette kan føre til at nokre nettstadar ikkje fungerer eller ikkje blir lasta inn, så du må kanskje mellombels deaktivere dette vernet om du støyter på dette problemet.
+vpn-download-faq-lastly = Til slutt, på einingar som støttar det, kan du gjere VPN-et endå smartare ved å utelate visse appar (t.d. Netflix) frå VPN-tilkoplinga.
+vpn-download-faq-need-more = Treng du litt meir hjelp?
+# Variables
+#   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
+vpn-download-faq-support = Du kan kontakte brukarstøtteteamet vårt direkte frå { -brand-name-mozilla-vpn }-applikasjonen ved å klikke på Innstillingar > Få hjelp > Kontakt support. Du kan også kontakte oss <a href="{ $support }">på brukarstøttesida vår</a>.
