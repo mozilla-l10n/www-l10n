@@ -9,7 +9,7 @@
 vpn-what-is-what-is-a-vpn = Kva er eit VPN?
 # HTML page description and intro
 vpn-what-is-get-answers-to-nine = Få svar på ni vanlege spørsmål om VPN, slik at du kjenner deg informert om kva dei gjer, når du bør bruke eit, og kvifor.
-vpn-what-is-many-of-us = Mange av oss brukar fleire timar om dagen på internett for å gjere kvardagslege ting som å sjå på videoar, handle, spele spel og betale rekningar. Frå å administrere komplekse arbeidsprosjekt til å ha konfidensielle videosamtalar. Eit *virtuelt privat nettverk** (VPN) er ein av dei beste måtane å halde seg privat og sikker på nettet, og verne personopplysningane dine.
+vpn-what-is-many-of-us = Mange av oss brukar fleire timar om dagen på internett for å gjere kvardagslege ting som å sjå på videoar, handle, spele spel og betale rekningar. Frå å administrere komplekse arbeidsprosjekt til å ha konfidensielle videosamtalar. Eit <strong>virtuelt privat nettverk(VPN)</strong> er ein av dei beste måtane å halde seg privat og sikker på nettet, og verne personopplysningane dine.
 vpn-what-is-how-do-vpns = Korleis fungerer VPN?
 vpn-what-is-a-vpn-is = Eit VPN er eit verktøy som lèt deg få sikker tilgang til internett same kvar du er. Eit VPN fungerer ved å opprette ein sikker «tunnel» mellom eininga di og VPN-leverandøren din, og det vernar deg på to viktige måtar:
 vpn-what-is-concealing-your-ip = Skjuler IP-adressa di, vernar identiteten og plasseringa di.
