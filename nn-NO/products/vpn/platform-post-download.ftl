@@ -12,12 +12,14 @@
 vpn-windows-download-page-title = Last ned { -brand-name-mozilla-vpn } for { -brand-name-windows }
 vpn-windows-downloading-mozilla-vpn = Lastar ned { -brand-name-mozilla-vpn } for { -brand-name-windows }…
 vpn-windows-go-to-your-downloads = Gå til nedlastingsmappa di og dobbelklikk på .msi-fila
+vpn-windows-a-progress-bar = Ein framdriftsvisar vil visast, og installasjonsprosessen vil starte.
 
 ## Mac download page
 
 vpn-mac-download-page-title = Last ned { -brand-name-mozilla-vpn } for { -brand-name-mac-short }
 vpn-mac-downloading-mozilla-vpn = Lastar ned { -brand-name-mozilla-vpn } for { -brand-name-mac-short }…
 vpn-mac-go-to-your-downloads = Gå til nedlastingsmappa di og dobbelklikk på pkg-fila
+vpn-mac-follow-the-steps = Følg stega som er beskrivne i installasjonsprogrammet for { -brand-name-mozilla-vpn } for å starte appen.
 
 ## Shared strings
 
