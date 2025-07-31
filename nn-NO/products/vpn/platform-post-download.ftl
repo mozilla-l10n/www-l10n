@@ -54,4 +54,11 @@ vpn-download-faq-as-more-daily = Etter kvart som stadig meir av kvardagen går f
 vpn-download-faq-concealing-ip = Skjule den verkelege <a href="{ $ip }">IP-adressa di</a>: Dette bidreg til å verne identiteten din og skjuler posisjonen din frå nettstadane du besøkjer.
 vpn-download-faq-encrypting = Krypter internettrafikken din: slik at ingen på nettet kan spionere på nettaktiviteten din.
 vpn-download-faq-working = Korleis veit eg at VPN fungerer?
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } viser visuelle indikatorar for gjeldande status både i verktøylinja og på startskjermen til appen, slik at det er lett å sjå om nettrafikken din er beskytta eller ikkje. Desse indikatorane lèt deg stadfeste når surfinga di er privat og sikker. Når du er tilkopla, kan du også besøkje <a href="{ $monitor }">https://monitor.mozilla.org/</a> for å sjekke om IP-adressa di er skjult. For meir informasjon, sjå <a href="{ $connected }">Korleis kan eg vite om { -brand-name-mozilla-vpn } er tilkopla?</a>.
 vpn-download-faq-add-device = Korleis legg eg til ei anna eining?
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v3 = Å leggje til ei ny eining er like lett som å laste ned og installere { -brand-name-mozilla-vpn } og deretter logge inn med den eksisterande { -brand-name-mozilla-account }en din på den nye eininga. For meir informasjon, sjå <a href="{ $subscription }">Korleis leggje til einingar i { -brand-name-mozilla-vpn }-abonnementet</a> ditt.
