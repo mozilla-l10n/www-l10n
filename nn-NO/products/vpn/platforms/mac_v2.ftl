@@ -16,3 +16,4 @@ vpn-mac-connect-up-to = Kople til opptil 5 ulike einingar med eitt abonnement, i
 # “Cap” means putting a limit to
 vpn-mac-use-our-vpn = Bruk VPN-et vårt så mykje du vil. I motsetning til nokon VPN, som berre vernar ei viss mengd data per månad, set vi ikkje ei grense for trafikken din. Uansett kor mykje data du brukar, vil det alltid vere beskytta.
 vpn-mac-get-device-level = Få kryptering på einingsnivå for trafikken din. I motsetning til andre løysingar, som berre krypterer nettlesartrafikken din, krypterer { -brand-name-mozilla-vpn } alt, og vernar internettrafikken din uansett kva program som er involvert.
+vpn-mac-prevent-internet = Hindre internettleverandørar i å avgrense eller blokkere nettstadar eller tenester dei ikkje liker, eller som konkurrerer med deira eigne tilbod. For meir informasjon kan du lese om nettnøytralitet.
