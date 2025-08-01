@@ -10,4 +10,5 @@ vpn-android-how-does-a = Hvordan beskytter et VPN Android-enheten min?
 vpn-android-vpns-help = VPN-er bidrar til å forhindre:
 vpn-android-why-should-i = Hvorfor bør jeg laste ned { -brand-name-mozilla-vpn } for Android?
 vpn-android-browse-the-internet = Surf på internett uten å oppgi posisjonen din.
+vpn-android-be-more-comfortable = Bli mer komfortabel med å bruke offentlig Wi-Fi på kafeer, flyplasser og mer.
 vpn-android-avoid-intrusive = Unngå påtrengende stedsbasert reklame.
