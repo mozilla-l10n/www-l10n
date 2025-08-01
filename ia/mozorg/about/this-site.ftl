@@ -19,6 +19,7 @@ about-this-site-this-website = Le sito web www.mozilla.org ha essite online pro 
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
 # Obsolete string (expires 28-11-2025)
 about-this-site-today = Hodie, isto es le sito ubi gente veni a discargar <a href="{ $firefox }">{ -brand-name-firefox }</a>, prova <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>, e pro saper plus <a href="{ $mozilla }">re { -brand-name-mozilla }</a>. Tu alsi pote discoperir alcun <a href="{ $book }">Ovos de Pascha</a> preter le via.
+about-this-site-today-v2 = Hodie, isto es le sito ubi le personas apprende plus <a href="{ $mozilla }">re { -brand-name-mozilla }</a> e essaya <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>. Tu alsi pote discoperir alcun <a href="{ $book }">ovos de Pascha</a> preter le via.
 about-this-site-like-many = Como multe nostre productos, iste sito web es alsi open-source:
 about-this-site-view-source = Vider le codification fonte sur { -brand-name-github }
 about-this-site-report-a-bug = Reportar un defecto
