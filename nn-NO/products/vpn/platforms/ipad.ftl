@@ -12,3 +12,4 @@ vpn-ipad-thats-why-you = Derfor treng du { -brand-name-mozilla-vpn }, ein rask, 
 vpn-ipad-mozilla-vpn-is = { -brand-name-mozilla-vpn } er ei virtuell privat nettverksteneste som krypterer internett-trafikken din og skjuler IP-adressa di.
 vpn-ipad-with-mozilla-vpn = Med { -brand-name-mozilla-vpn } kan du få:
 vpn-ipad-protection-for-up-to = <strong>Vern for opptil 5 einingar:</strong> Bruk { -brand-name-mozilla-vpn } på iPad-en din og opptil fire andre einingar med eitt abonnement. Du kan også bruke det på Windows, macOS, Linux, iPhone og Android.
+vpn-ipad-access-to-servers = <strong>Tilgang til serverar i over 30 land:</strong> Du kan velje mellom over 500 serverar i meir enn 30 land over heile verda for å kople deg til internett. Dette gir deg fleire alternativ og fleksibilitet til å få tilgang til innhaldet du ønskjer.

@@ -19,6 +19,7 @@ about-this-site-this-website = Nettstaden www.mozilla.org har vore på nett i ov
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
 # Obsolete string (expires 28-11-2025)
 about-this-site-today = I dag er denne nettstaden der folk kjem til for å laste ned <a href="{ $firefox }">{ -brand-name-firefox }</a>, prøve <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> og lære meir <a href="{ $mozilla }">om { -brand-name-mozilla }</a>. Du kan også oppdage nokre <a href="{ $book }">påskeegg</a> undervegs.
+about-this-site-today-v2 = I dag er denne nettstaden der folk lærer meir <a href="{ $mozilla }">om { -brand-name-mozilla }</a> og prøver <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>. Du kan også oppdage nokre <a href="{ $book }">påskeegg</a> undervegs.
 about-this-site-like-many = Som mange av produkta våre er også denne nettstaden open kjeldekode:
 about-this-site-view-source = Sjå kjeldekoden på { -brand-name-github }
 about-this-site-report-a-bug = Rapporter ein feil
