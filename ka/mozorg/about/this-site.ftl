@@ -17,6 +17,7 @@ about-this-site-this-website = საიტი www.mozilla.org ვებსი�
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+# Obsolete string (expires 28-11-2025)
 about-this-site-today = დღეს ამ საიტზე ხალხი შემოდის, რომ ჩამოტვირთონ <a href="{ $firefox }">{ -brand-name-firefox }</a>, მოსინჯონ <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> და უკეთ გაიცნონ <a href="{ $mozilla }">{ -brand-name-mozilla }</a>. ამასთან ერთად, გზადაგზა შესაძლოა წააწყდეთ არაერთ <a href="{ $book }">ფარულ მოულოდნელობასაც</a>.
 about-this-site-like-many = მსგავსად ჩვენი სხვა ნამუშევრებისა, ეს საიტიც ღია წყაროს მქონეა:
 about-this-site-view-source = პირველწყარო კოდისთვის იხილეთ { -brand-name-github }

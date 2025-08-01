@@ -17,6 +17,7 @@ about-this-site-this-website = www.mozilla.org web sitesi yirmi yılı aşkın s
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+# Obsolete string (expires 28-11-2025)
 about-this-site-today = Günümüzde insanlar <a href="{ $firefox }">{ -brand-name-firefox }</a>’u indirmek,  <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>’i denemek ve <a href="{ $mozilla }">{ -brand-name-mozilla } hakkında</a> bilgi almak için bu siteye geliyor. Yolda birkaç <a href="{ $book }">Paskalya yumurtası</a> da keşfedebilirsiniz.
 about-this-site-like-many = Ürünlerimizin çoğu gibi bu web sitesi de açık kaynaktır:
 about-this-site-view-source = Kaynak kodlarını { -brand-name-github }'da görün

@@ -17,6 +17,7 @@ about-this-site-this-website = Trang web www.mozilla.org đã hoạt động tr�
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+# Obsolete string (expires 28-11-2025)
 about-this-site-today = Hôm nay, đây là trang web mà mọi người đến để tải xuống <a href="{ $firefox }">{ -brand-name-firefox }</a>, thử <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>, và tìm hiểu thêm <a href="{ $mozilla }">về { -brand-name-mozilla }</a>. Bạn cũng có thể khám phá một vài <a href="{ $book }">Easter egg</a> trong khi tìm hiểu.
 about-this-site-like-many = Giống như nhiều sản phẩm của chúng tôi, trang web này cũng là mã nguồn mở:
 about-this-site-view-source = Xem mã nguồn trên { -brand-name-github }

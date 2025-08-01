@@ -17,6 +17,7 @@ about-this-site-this-website = Сомонаи www.mozilla.org зиёда аз б
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+# Obsolete string (expires 28-11-2025)
 about-this-site-today = Имрӯз, сомонаи www.mozilla.org ҷойест, ки одамон барои боргирӣ ва насб кардани браузери маъруфи <a href="{ $firefox }">«{ -brand-name-firefox }»</a>, санҷидани хидмати <a href="{ $vpn }">«{ -brand-name-mozilla-vpn }»</a> ва шиносоӣ <a href="{ $mozilla }">бо таърих ва мақсадҳои «{ -brand-name-mozilla }»</a> ба он муроҷиат мекунанд. Дар баробари ин, мумкин аст, ки ҳангоми сайругашт якчанд <a href="{ $book }">сирру кашфиёти пинҳонӣ</a> низ ба чашматон мерасанд!
 about-this-site-like-many = Ин сомона ба мисли бисёре аз маҳсулоти мо, низ дар манбаи кушод асос меёбад:
 about-this-site-view-source = Дидани рамзи манбаъ дар «{ -brand-name-github }»

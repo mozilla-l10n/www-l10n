@@ -17,6 +17,7 @@ about-this-site-this-website = De website www.mozilla.org is al meer dan twee de
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+# Obsolete string (expires 28-11-2025)
 about-this-site-today = Tegenwoordig is dit de website waar mensen <a href="{ $firefox }">{ -brand-name-firefox }</a> downloaden, <a href="{ $vpn }">{ -brand-name-mozilla-vpn } proberen</a> en meer info ontdekken <a href="{ $mozilla }">over { -brand-name-mozilla }</a>. U kunt onderweg ook een paar <a href="{ $book }">Easter eggs</a> ontdekken.
 about-this-site-like-many = Zoals veel van onze producten is ook deze website opensource:
 about-this-site-view-source = Bekijk de broncode op { -brand-name-github }

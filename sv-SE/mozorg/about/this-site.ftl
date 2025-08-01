@@ -17,6 +17,7 @@ about-this-site-this-website = Webbplatsen www.mozilla.org har varit online i ö
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+# Obsolete string (expires 28-11-2025)
 about-this-site-today = Idag är det här webbplatsen dit folk kommer för att ladda ner <a href="{ $firefox }">{ -brand-name-firefox }</a>, prova <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> och lära sig mer <a href="{ $mozilla }">om { -brand-name-mozilla }</a>. Du kan också upptäcka några <a href="{ $book }">påskägg</a> längs vägen.
 about-this-site-like-many = Liksom många av våra produkter är denna webbplats också öppen källkod:
 about-this-site-view-source = Se källkoden på { -brand-name-github }

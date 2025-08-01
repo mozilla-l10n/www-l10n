@@ -17,6 +17,7 @@ about-this-site-this-website = Sajti www.mozilla.org ka qenë në linjë për m�
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+# Obsolete string (expires 28-11-2025)
 about-this-site-today = Sot ky është sajti ku njerëzit vijnë të shkarkojnë <a href="{ $firefox }">{ -brand-name-firefox }-in</a>, të provojnë <a href="{ $vpn }">{ -brand-name-mozilla-vpn }-në</a> dhe të mësojnë më tepër <a href="{ $mozilla }">mbi { -brand-name-mozilla }-n</a>. Mund të zbuloni gjithashtu edhe pak <a href="{ $book }">vezë Pashkësh</a> përgjatë rrugës.
 about-this-site-like-many = Si edhe mjaft nga produktet tona, edhe ky sajt është me burim të hapët:
 about-this-site-view-source = Shihni kodin burim në { -brand-name-github }

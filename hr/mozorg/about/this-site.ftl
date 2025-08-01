@@ -17,6 +17,7 @@ about-this-site-this-website = Web stranica www.mozilla.org postoji već više o
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+# Obsolete string (expires 28-11-2025)
 about-this-site-today = Danas je ovo stranica na kojoj ljudi preuzimaju <a href="{ $firefox }">{ -brand-name-firefox }</a>, isprobavaju <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> i saznaju više <a href="{ $mozilla }">o organizaciji { -brand-name-mozilla }</a>. Usput možeš otkriti i neke <a href="{ $book }">nedokumentirane mudrosti</a>.
 about-this-site-like-many = Kao mnogi naši proizvodi je web stranica također otvorenog koda:
 about-this-site-view-source = Pogledaj izvorni kod na platformi { -brand-name-github }

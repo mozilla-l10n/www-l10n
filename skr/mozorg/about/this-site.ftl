@@ -17,6 +17,7 @@ about-this-site-this-website = ویب سائٹ www.mozilla.org ݙو ݙہاکیا
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+# Obsolete string (expires 28-11-2025)
 about-this-site-today = اڄ، ایہ او سائٹ ہے جتھاں لوک <a href="{ $firefox }">{ -brand-name-firefox }</a> ڈاؤن لوڈ کرݨ آندے ہن، کوشش کرو <a href="{ $vpn }"> { -brand-name-mozilla-vpn }{ -brand-name-mozilla-vpn } </a>، تے ودھیک ڄاݨو <a href="{ $mozilla }"> { -brand-name-mozilla }</a>۔ تساں رستے وِچ کجھ <a href="{ $book }">ایسٹر انڈے</a> وی دریافت کر سڳدے او۔
 about-this-site-like-many = ساݙیاں بہوں ساریاں مصنوعات وانگوں، ایہ ویب سائٹ وی کھلا ماخذہے:
 about-this-site-view-source = { -brand-name-github } تے ماخذ کوڈ ݙیکھو

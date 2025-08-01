@@ -17,6 +17,7 @@ about-this-site-this-website = Вэб-сайт www.mozilla.org існуе ўжо
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+# Obsolete string (expires 28-11-2025)
 about-this-site-today = Сёння гэта сайт, куды людзі прыходзяць, каб спампаваць <a href="{ $firefox }">{ -brand-name-firefox }</a>, паспрабаваць <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> і даведацца больш <a href="{ $mozilla }">пра { -brand-name-mozilla }</a>. Па дарозе вы таксама можаце знайсці некалькі <a href="{ $book }">Велікодных яек</a>.
 about-this-site-like-many = Як і шмат якія нашы прадукты, гэты вэб-сайт таксама мае адкрыты зыходны код:
 about-this-site-view-source = Праглядзець зыходны код на { -brand-name-github }

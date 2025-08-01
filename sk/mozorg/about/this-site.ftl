@@ -17,6 +17,7 @@ about-this-site-this-website = Webová stránka www.mozilla.org je online už vi
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+# Obsolete string (expires 28-11-2025)
 about-this-site-today = Dnes je to stránka, na ktorú si ľudia prichádzajú stiahnuť <a href="{ $firefox }">prehliadač { -brand-name-firefox }</a>, vyskúšať <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> a získať ďalšie informácie <a href="{ $mozilla }">o { -brand-name-mozilla(case: "loc") }</a>. Môžete tu však objaviť aj niekoľko <a href="{ $book }">veľkonočných vajíčok</a>.
 about-this-site-like-many = Ako mnoho našich produktov, aj táto webová stránka je open source:
 about-this-site-view-source = Pozrite si jej zdrojový kód na { -brand-name-github(case: "loc") }

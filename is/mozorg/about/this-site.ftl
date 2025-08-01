@@ -17,6 +17,7 @@ about-this-site-this-website = Vefsvæðið www.mozilla.org hefur verið á neti
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+# Obsolete string (expires 28-11-2025)
 about-this-site-today = Í dag er þetta vefur þar sem fólk kemur til að sækja <a href="{ $firefox }">{ -brand-name-firefox }</a>, prófa <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>, og læra meira <a href="{ $mozilla }">um { -brand-name-mozilla }</a>. Þú getur líka uppgötvað nokkur <a href="{ $book }">páskaegg</a> í leiðinni.
 about-this-site-like-many = Eins og margt hjá okkur er þessi vefsíða einnig opinn hugbúnaður:
 about-this-site-view-source = Skoða grunnkóðann á { -brand-name-github }

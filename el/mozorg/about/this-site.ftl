@@ -17,6 +17,7 @@ about-this-site-this-website = Ο ιστότοπος www.mozilla.org είναι 
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+# Obsolete string (expires 28-11-2025)
 about-this-site-today = Σήμερα, οι άνθρωποι επισκέπτονται αυτόν τον ιστότοπο για να κάνουν λήψη του <a href="{ $firefox }">{ -brand-name-firefox }</a>, να δοκιμάσουν το <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> και να μάθουν περισσότερα <a href="{ $mozilla }">σχετικά με τη { -brand-name-mozilla }</a>. Μπορεί επίσης να ανακαλύψετε ορισμένα <a href="{ $book }">easter egg</a> κατά την περιήγησή σας.
 about-this-site-like-many = Όπως πολλά από τα προϊόντα μας, αυτός ο ιστότοπος είναι επίσης ανοικτού κώδικα:
 about-this-site-view-source = Προβολή πηγαίου κώδικα στο { -brand-name-github }

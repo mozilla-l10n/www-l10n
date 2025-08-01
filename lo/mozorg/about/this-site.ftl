@@ -17,6 +17,7 @@ about-this-site-this-website = ເວັບໄຊທ໌ www.mozilla.org ໄດ�
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+# Obsolete string (expires 28-11-2025)
 about-this-site-today = ມື້ນີ້, ນີ້ແມ່ນເວັບໄຊທີ່ຄົນມາດາວໂຫຼດ <a href="{ $firefox }">{ -brand-name-firefox }</a>, ລອງ <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>, ແລະ ຮຽນຮູ້ເພີ່ມເຕີມ <a href="{ $mozilla }">ກ່ຽວກັບ { -brand-name-mozilla }</a>. ທ່ານຍັງສາມາດຄົ້ນພົບ <a href="{ $book }">ໄຂ່ອີສເຕີ</a> ຈຳນວນໜຶ່ງໄດ້ຕາມທາງ.
 about-this-site-like-many = ເຊັ່ນດຽວກັນກັບຜະລິດຕະພັນຂອງພວກເຮົາຈໍານວນຫຼາຍ, ເວັບໄຊທ໌ນີ້ແມ່ນແຫຼ່ງເປີດ:
 about-this-site-view-source = ເບິ່ງລະຫັດແຫຼ່ງໃນ { -brand-name-github }

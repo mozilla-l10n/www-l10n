@@ -17,6 +17,7 @@ about-this-site-this-website = La website www.mozilla.org è gia online dapi pas
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+# Obsolete string (expires 28-11-2025)
 about-this-site-today = Oz visitan las persunas questa website per telechargiar <a href="{ $firefox }">{ -brand-name-firefox }</a>, empruvar <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> e vegnir a savair dapli <a href="{ $mozilla }">davart { -brand-name-mozilla }</a>. Ti pos era scuvrir in pèr <a href="{ $book }">Easter eggs («ovs da Pasqua»)</a> en quest conturn.
 about-this-site-like-many = Sco blers da noss products, è era questa website open-source:
 about-this-site-view-source = Vesair il code da funtauna sin { -brand-name-github }
