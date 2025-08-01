@@ -19,6 +19,7 @@ about-this-site-this-website = Webové stránky www.mozilla.org jsou v provozu j
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
 # Obsolete string (expires 28-11-2025)
 about-this-site-today = Dnes jsou to stránky, kam si lidé chodí stáhnout <a href="{ $firefox }">{ -brand-name-firefox(case: "acc") }</a>, vyzkoušet <a href="{ $vpn }">{ -brand-name-mozilla-vpn(case: "acc") }</a> a dozvědět se více <a href="{ $mozilla }">o { -brand-name-mozilla(case: "loc") }</a>. Cestou můžete objevit i pár <a href="{ $book }">velikonočních vajíček</a>.
+about-this-site-today-v2 = Dnes je to místo, kde se lidé dozvědí více <a href="{ $mozilla }">o aplikaci { -brand-name-mozilla }</a> a vyzkoušejí <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>. Cestou také můžete objevit pár <a href="{ $book }">Easter egg</a>.
 about-this-site-like-many = Tak jako mnoho našich produktů mají i tyto stránky otevřený zdrojový kód:
 about-this-site-view-source = Prohlédnout si zdrojový kód na { -brand-name-github(case: "loc") }
 about-this-site-report-a-bug = Nahlásit chybu

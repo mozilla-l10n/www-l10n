@@ -19,6 +19,7 @@ about-this-site-this-website = www.mozilla.org 這個網站已上線超過 20 �
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
 # Obsolete string (expires 28-11-2025)
 about-this-site-today = 現今，這是人們下載 <a href="{ $firefox }">{ -brand-name-firefox }</a>、試用 <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>、更加了解 <a href="{ $mozilla }">{ -brand-name-mozilla }</a> 所使用的網站。您可以發現一些<a href="{ $book }">彩蛋</a>。
+about-this-site-today-v2 = 現在是人們了解<a href="{ $mozilla }">關於 { -brand-name-mozilla }</a> 的更多資訊並試用 <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> 的網站。您也可以在路上發現一些<a href="{ $book }">彩蛋</a>。
 about-this-site-like-many = 本網站與我們的許多產品一樣，也開放原始碼：
 about-this-site-view-source = 到 { -brand-name-github } 檢視原始碼
 about-this-site-report-a-bug = 回報 Bug
