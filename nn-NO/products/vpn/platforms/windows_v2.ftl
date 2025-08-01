@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/windows
 
+# New strings for updated page
+vpn-windows-get-a-vpn = Skaff deg eit VPN for Windows frå { -brand-name-mozilla }
+vpn-windows-protect-your-windows = Vern Windows-eininga di med eit VPN. { -brand-name-mozilla } VPN blir støtta av eit ideelt selskap. Lær om korleis eit VPN vernar deg og kvifor du bør stole på { -brand-name-mozilla } med personvernet og sikkerheita di.
+vpn-windows-stay-safe = Hald deg trygg og sikker på Windows-eininga di med eit VPN
 vpn-windows-what-are-the-benefits = Kva er fordelane med å laste ned { -brand-name-mozilla-vpn } til Windows-eininga mi?
 # Variables:
 #   $url (string) - url('products.vpn.landing')
