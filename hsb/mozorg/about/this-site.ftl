@@ -19,6 +19,7 @@ about-this-site-this-website = Websydło www.mozilla.org je hižo přez dwaj lě
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
 # Obsolete string (expires 28-11-2025)
 about-this-site-today = Dźensa je to sydło, hdźež ludźo přińdu, zo bychu <a href="{ $firefox }">{ -brand-name-firefox }</a> sćahnyli, spytajće <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> a zhońće wjace <a href="{ $mozilla }">wo { -brand-name-mozilla }</a>. Móžeće tež někotre <a href="{ $book }">jutrowne jejka</a> na puću wotkryć.
+about-this-site-today-v2 = Dźensa je to sydło, hdźež ludźo wjace wo <a href="{ $mozilla }">wo { -brand-name-mozilla }</a> zhonił a <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> wupruwuja. Móžeće tež někotre <a href="{ $book }">jutrowne jejka</a> nimoducy wotkryć.
 about-this-site-like-many = Kaž wjele z našich produktow je tute websydło tež wotewrjene žórło:
 about-this-site-view-source = Žórłowy kod na { -brand-name-github } pokazać
 about-this-site-report-a-bug = Programowy zmylk zdźělić
