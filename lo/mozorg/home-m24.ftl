@@ -43,3 +43,4 @@ m24-home-builders-helps-independent = ຜູ້ກໍ່ສ້າງຊ່ວຍ
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = ໂລໂກ້ { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
+m24-home-watch-now = ເບິ່ງດຽວນີ້
