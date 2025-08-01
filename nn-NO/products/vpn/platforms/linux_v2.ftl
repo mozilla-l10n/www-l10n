@@ -21,3 +21,16 @@ vpn-linux-it-helps-restore = <strong>Det bidreg til å gjenopprette nettnøytral
 vpn-linux-gui-client = <strong>GUI-klient:</strong>{ -brand-name-mozilla-vpn } har ein GUI-klient (grafisk brukargrensesnitt), medan nokre VPN-leverandørar berre tilbyr ein CLI-versjon (kommandolinje).
 vpn-linux-by-using = Ved å bruke { -brand-name-mozilla-vpn } kan du ta tilbake kontrollen over nettaktivitetane dine og ta vare på personvernet og dataa dine. Last ned { -brand-name-mozilla-vpn } i dag og nyt ein 30-dagars pengane-tilbake-garanti utan loggar, problem og risiko.
 vpn-linux-how-to-install = Korleis installere { -brand-name-mozilla-vpn } på Linux
+# Variables:
+#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
+# 'mozillavpn' should not be translated as it is the proper name of the package
+vpn-linux-if-you-use-v2 = Om du brukar ei av dei støtta Ubuntu-utgivingane, finst det to måtar å installere offisielle mozillavpn-pakkar som ligg på <a { $attrs }>Launchpad:</a>
+# Variables:
+#   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
+vpn-linux-ubuntu-command = <strong>Ubuntu-kommandolinjemodus:</strong> For detaljerte instruksjonar om korleis du installerer { -brand-name-mozilla-vpn } ved hjelp av kommandolinjemodusverktøy, sjå <a { $attrs }>Slik installerer du { -brand-name-mozilla-vpn } på ei Linux-datamaskin</a>.
+# Variables:
+#   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
+vpn-linux-ubuntu-graphical = <strong>Grafisk brukargrensesnitt for Ubuntu:</strong> Gå til <a { $attrs }>denne artikkelen</a> og følg instruksjonane i delen Leggje til personlege pakkearkiv.
+# Variables:
+#   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
+vpn-linux-additionally = I tillegg, for Linux-distribusjonar som ikkje blir støtta, kan du hente og kompilere kjeldekoden frå det <a { $attrs }>offisielle GitHub-repositoriet</a>.
