@@ -19,3 +19,9 @@ vpn-linux-multi-hop = <strong>Ruting via flere noder:</strong> For ekstra beskyt
 vpn-linux-simple-and = <strong>Enkelt og intuitivt grensesnitt:</strong> Koble til en server med ett klikk. Du kan også tilpasse innstillinger og preferanser etter behov.
 vpn-linux-it-helps-restore = <strong>Det bidrar til å gjenopprette nettnøytralitet:</strong> { -brand-name-mozilla-vpn } hjelper deg med å ta tilbake kontrollen over dine nettaktiviteter ved å forhindre at internettleverandører begrenser båndbredden din, eller blokkerer nettsteder eller tjenester de ikke liker, eller som konkurrerer med deres egne tilbud.
 vpn-linux-gui-client = <strong>GUI-klient:</strong>{ -brand-name-mozilla-vpn } har en GUI-klient (grafisk brukergrensesnitt), mens noen VPN-leverandører bare tilbyr en CLI-versjon (kommandolinje).
+vpn-linux-by-using = Ved å bruke { -brand-name-mozilla-vpn } kan du ta tilbake kontrollen over dine nettaktiviteter og beskytte personvernet og dataene dine. Last ned { -brand-name-mozilla-vpn } i dag og nyt en 30-dagers pengene-tilbake-garanti uten logger, problemer og risiko.
+vpn-linux-how-to-install = Hvordan installere { -brand-name-mozilla-vpn } på Linux
+# Variables:
+#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
+# 'mozillavpn' should not be translated as it is the proper name of the package
+vpn-linux-if-you-use-v2 = Hvis du bruker en av de støttede Ubuntu-utgivelsene, finnes det to måter å installere offisielle mozillavpn-pakker som ligger på <a { $attrs }>Launchpad:</a>
