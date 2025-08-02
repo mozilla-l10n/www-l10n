@@ -19,6 +19,7 @@ about-this-site-this-website = 이 웹사이트 www.mozilla.org는 20년이 넘�
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
 # Obsolete string (expires 28-11-2025)
 about-this-site-today = 오늘날 이 사이트에는 사람들이 <a href="{ $firefox }">{ -brand-name-firefox }</a>를 다운로드 하고 <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>을 체험하고, <a href="{ $mozilla }">{ -brand-name-mozilla }에 대해</a> 더 자세히 알아보기 위해 찾아옵니다. 도중에 몇 개의 <a href="{ $book }">이스터 에그</a>도 발견할 수 있습니다.
+about-this-site-today-v2 = 오늘 여기서 <a href="{ $mozilla }">{ -brand-name-mozilla }</a>에 대해 자세히 알아보고 <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>을 사용해 볼 수 있습니다. 과정 중에 <a href="{ $book }">이스터에그</a>를 발견할 수도 있습니다.
 about-this-site-like-many = 저희의 많은 제품과 마찬가지로 이 웹사이트 또한 오픈 소스입니다.
 about-this-site-view-source = { -brand-name-github }에서 소스 코드 보기
 about-this-site-report-a-bug = 오류 보고
