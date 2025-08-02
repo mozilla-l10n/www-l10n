@@ -19,6 +19,7 @@ about-this-site-this-website = Trang web www.mozilla.org đã hoạt động tr�
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
 # Obsolete string (expires 28-11-2025)
 about-this-site-today = Hôm nay, đây là trang web mà mọi người đến để tải xuống <a href="{ $firefox }">{ -brand-name-firefox }</a>, thử <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>, và tìm hiểu thêm <a href="{ $mozilla }">về { -brand-name-mozilla }</a>. Bạn cũng có thể khám phá một vài <a href="{ $book }">Easter egg</a> trong khi tìm hiểu.
+about-this-site-today-v2 = Ngày nay, đây là trang web nơi mọi người tìm hiểu thêm <a href="{ $mozilla }">về { -brand-name-mozilla }</a> và thử <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>. Bạn cũng có thể khám phá một vài <a href="{ $book }">easter eggs</a> trong lúc đó.
 about-this-site-like-many = Giống như nhiều sản phẩm của chúng tôi, trang web này cũng là mã nguồn mở:
 about-this-site-view-source = Xem mã nguồn trên { -brand-name-github }
 about-this-site-report-a-bug = Báo cáo lỗi
