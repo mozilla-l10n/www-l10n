@@ -8,7 +8,7 @@
 vpn-linux-mozilla-vpn = { -brand-name-mozilla-vpn } på Linux
 vpn-linux-looking-for = Ser du etter et VPN for å beskytte Linux-maskinen din? { -brand-name-mozilla-vpn } tilbyr den eneste tjenesten fra et ideelt selskap. Les hvordan et VPN beskytter deg og hvorfor du bør stole på { -brand-name-mozilla } for ditt personvern og din sikkerhet.
 vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } på Linux for et mer privat og sikkert internett
-vpn-linux-linux-is-free = Linux er gratis, åpen kildekode og kan tilpasses, men det er ikke immun mot problemer med sikkerhet og personvern på nettet. Akkurat som brukere av andre operativsystemer, møter Linux-brukere sensur, overvåking og hacking.
+vpn-linux-linux-is-free = Linux er gratis, åpen kildekode og kan tilpasses, men det er ikke immunt mot problemer med sikkerhet og personvern på nettet. Akkurat som brukere av andre operativsystemer, møter Linux-brukere sensur, overvåking og hacking.
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } er en tjeneste for virtuelle private nettverk som bruker åpen kildekode og toppmoderne kryptering, og som verken logger, sporer eller deler noen av nettverksaktivitetene dine. Den lar deg koble til over 500 servere i over 30 land.
 vpn-linux-why-choose = Hvorfor velge { -brand-name-mozilla-vpn } for Linux?
 vpn-linux-fast-and-v2 = <strong>Rask og pålitelig:</strong> { -brand-name-mozilla-vpn } bruker { -brand-name-wireguard }®-protokollen, som gir bedre ytelse og stabilitet enn andre VPN-protokoller.
