@@ -26,6 +26,7 @@ footer-refresh-support = Дастгирӣ
 footer-refresh-product-help = Кумак барои маҳсулот
 footer-refresh-file-a-bug = Гузориш дар бораи хато
 footer-refresh-localize-mozilla = Маҳаллисозии «{ -brand-name-mozilla }»
+footer-refresh-security = Амният
 footer-refresh-developers = Барномасозон
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
