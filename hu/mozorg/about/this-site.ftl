@@ -19,7 +19,7 @@ about-this-site-this-website = A www.mozilla.org webhely több mint két évtize
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
 # Obsolete string (expires 28-11-2025)
 about-this-site-today = Ma ez az a webhely, ahol az emberek letöltik a <a href="{ $firefox }">{ -brand-name-firefox(case: "accusative") }</a>, kipróbálják a <a href="{ $vpn }">{ -brand-name-mozilla-vpn }-t</a>, és többet tudnak meg a <a href="{ $mozilla }">a { -brand-name-mozilla(ending: "accented") }ról</a>. Emellett <a href="{ $book }">húsvéti tojást</a> is felfedezhet.
-about-this-site-today-v2 = Ma ez az az oldal, ahol az emberek többet tudnak <a href="{ $mozilla }">a { -brand-name-mozilla }</a> { -brand-name-mozilla }</a> verzióról, és kipróbálhatják a(z) <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> kiegészítőt. Útközben felfedezhet néhány <a href="{ $book }">húsvéti tojást</a>.
+about-this-site-today-v2 = Ma ez az az oldal, ahol az emberek többet tudnak meg <a href="{ $mozilla }">a { -brand-name-mozilla(ending: "accented") }ról</a>, és kipróbálhatják a <a href="{ $vpn }">{ -brand-name-mozilla-vpn }-t</a>. Útközben néhány <a href="{ $book }">húsvéti tojást</a> is felfedezhet.
 about-this-site-like-many = Sok termékünkhöz hasonlóan, ez a weboldal is nyílt forráskódú:
 about-this-site-view-source = Forráskód megtekintése a { -brand-name-github }on
 about-this-site-report-a-bug = Hiba jelentése
