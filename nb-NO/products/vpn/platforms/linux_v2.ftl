@@ -25,3 +25,9 @@ vpn-linux-how-to-install = Hvordan installere { -brand-name-mozilla-vpn } på Li
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
 vpn-linux-if-you-use-v2 = Hvis du bruker en av de støttede Ubuntu-utgivelsene, finnes det to måter å installere offisielle mozillavpn-pakker som ligger på <a { $attrs }>Launchpad:</a>
+# Variables:
+#   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
+vpn-linux-ubuntu-command = <strong>Kommando­linjemodus i Ubuntu:</strong> For detaljerte instruksjoner om hvordan du installerer { -brand-name-mozilla-vpn } ved hjelp av verktøy for kommando­linjemodus, kan du se <a { $attrs }>Hvordan installere { -brand-name-mozilla-vpn } på en Linux-datamaskin</a>.
+# Variables:
+#   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
+vpn-linux-ubuntu-graphical = <strong>Ubuntu grafisk brukergrensesnitt:</strong> Gå til <a { $attrs }>denne artikkelen</a> og følg instruksjonene i delen om å legge til personlige pakkebrønner.
