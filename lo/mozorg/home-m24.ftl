@@ -21,7 +21,9 @@ m24-home-get-the-gold = ໄດ້​ຮັບ​ມາດ​ຕະ​ຖານ�
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
+m24-home-get-a-headsup = ແຈ້ງເຕືອນຖ້າຂໍ້ມູນສ່ວນຕົວຂອງທ່ານມີຄວາມສ່ຽງ ແລະ ລັອກມັນໄວ້ຄືກັບມືອາຊີບ.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
+m24-home-mask-your-email = ໃສ່ການເຊື່ອງອີເມວ ແລະ ເບີໂທລະສັບຂອງທ່ານເພື່ອໃຫ້ທ່ານໄດ້ຂໍ້ຄວາມທີ່ທ່ານຕ້ອງການເທົ່ານັ້ນ.
 
 ## Donate
 
@@ -44,3 +46,8 @@ m24-home-builders-helps-independent = ຜູ້ກໍ່ສ້າງຊ່ວຍ
 m24-home-alt-lumigator-logo = ໂລໂກ້ { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-watch-now = ເບິ່ງດຽວນີ້
+
+## Media Springboard
+
+m24-home-type = ປະເພດ
+m24-home-author = ຜູ້ຂຽນ
