@@ -19,6 +19,7 @@ about-this-site-this-website = Web stranica www.mozilla.org postoji više od dvi
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
 # Obsolete string (expires 28-11-2025)
 about-this-site-today = Danas je ovo stranica na koju ljudi dolaze preuzeti <a href="{ $firefox }">{ -brand-name-firefox }</a>, isprobati <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>, i saznati više <a href="{ $mozilla }">o { -brand-name-mozilla }i</a>. Usput možete pronaći i nekoliko <a href="{ $book }">uskršnjih jaja</a>.
+about-this-site-today-v2 = Danas je ovo stranica gdje ljudi saznaju više <a href="{ $mozilla }">o { -brand-name-mozilla }</a> i isprobaju <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>. Također možete otkriti nekoliko <a href="{ $book }">uskršnjih jaja</a> usput.
 about-this-site-like-many = Kao i mnogi naši proizvodi, ova web stranica je također otvorenog koda:
 about-this-site-view-source = Pogledajte izvorni kod na { -brand-name-github }
 about-this-site-report-a-bug = Prijavi grešku
