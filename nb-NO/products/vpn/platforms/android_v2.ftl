@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
 
 vpn-android-vpn-for-android = VPN for Android fra { -brand-name-mozilla }
+vpn-android-ease-security = Lindre sikkerhetsfrykt med { -brand-name-mozilla-vpn } for Android
 vpn-android-how-does-a = Hvordan beskytter et VPN Android-enheten min?
 vpn-android-vpns-help = VPN-er bidrar til å forhindre:
 vpn-android-why-should-i = Hvorfor bør jeg laste ned { -brand-name-mozilla-vpn } for Android?
