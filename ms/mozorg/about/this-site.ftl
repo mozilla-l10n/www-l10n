@@ -18,6 +18,7 @@ about-this-site-this-website = Laman web www.mozilla.org telah berada dalam tali
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+# Obsolete string (expires 28-11-2025)
 about-this-site-today = Hari ini, ia merupakan sebuah platform bagi pengguna memuat turun <a href="{ $firefox }">{ -brand-name-firefox }</a>, mencuba <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>, dan ketahui lebih lanjut <a href="{ $mozilla }">tentang { -brand-name-mozilla }</a>. Anda juga mungkin bertemu dengan beberapa <a href="{ $book }">Kejutan</a> sepanjang pengembaraan.
 
 about-this-site-like-many = Seperti mana produk kami yang lain, laman ini juga merupakan sumber terbuka:
