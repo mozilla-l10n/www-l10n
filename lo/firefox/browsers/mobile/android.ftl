@@ -35,6 +35,7 @@ mobile-android-pop-videos-out = ດຶງວິດີໂອອອກຈາກເ
 mobile-android-about-mozilla = ກ່ຽວກັບ { -brand-name-mozilla }
 # Obsolete string (expires 26-10-2025)
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } ມີຢູ່ໃນການກໍ່ສ້າງອິນເຕີເນັດເປັນຊັບພະຍາກອນສາທາລະນະທີ່ທຸກຄົນສາມາດເຂົ້າເຖິງໄດ້ເພາະວ່າພວກເຮົາເຊື່ອວ່າເປີດແລະບໍ່ເສຍຄ່າແມ່ນດີກວ່າປິດແລະຄວບຄຸມ. ພວກເຮົາສ້າງຜະລິດຕະພັນເຊັ່ນ { -brand-name-firefox } ແລະ { -brand-name-pocket } ເພື່ອສົ່ງເສີມການເລືອກ, ຄວາມໂປ່ງໃສ ແລະການຄວບຄຸມ.
+mobile-android-mozilla-exists-to-v2 = { -brand-name-mozilla } ມີຢູ່ໃນການກໍ່ສ້າງອິນເຕີເນັດເປັນຊັບພະຍາກອນສາທາລະນະທີ່ທຸກຄົນສາມາດເຂົ້າເຖິງໄດ້ເພາະວ່າພວກເຮົາເຊື່ອວ່າການເປີດ ແລະ ບໍ່ເສຍຄ່າແມ່ນດີກວ່າປິດ ແລະ ຄວບຄຸມ. ພວກເຮົາສ້າງຜະລິດຕະພັນເຊັ່ນ { -brand-name-firefox } ເພື່ອສົ່ງເສີມການເລືອກ, ຄວາມໂປ່ງໃສ ແລະ ການຄວບຄຸມ.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = ທາງລັດອິນເຕີເນັດດ້ວຍ { -brand-name-firefox } ສໍາລັບ { -brand-name-android }
 mobile-android-see-all-your-open-tabs = ເບິ່ງແຖບເປີດທັງໝົດຂອງເຈົ້າ, ການຊອກຫາຫຼ້າສຸດ ແລະເວັບໄຊທີ່ມັກທັງໝົດຢູ່ໃນບ່ອນດຽວດ້ວຍ { -brand-name-firefox } browser for { -brand-name-android }.
