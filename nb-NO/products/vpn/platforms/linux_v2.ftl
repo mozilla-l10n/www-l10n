@@ -31,3 +31,6 @@ vpn-linux-ubuntu-command = <strong>Kommando­linjemodus i Ubuntu:</strong> For d
 # Variables:
 #   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
 vpn-linux-ubuntu-graphical = <strong>Ubuntu grafisk brukergrensesnitt:</strong> Gå til <a { $attrs }>denne artikkelen</a> og følg instruksjonene i delen om å legge til personlige pakkebrønner.
+# Variables:
+#   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
+vpn-linux-additionally = I tillegg, for Linux-distribusjoner som ikke støttes, kan du hente og kompilere kildekoden fra det <a { $attrs }>offisielle GitHub-depotet</a>.
