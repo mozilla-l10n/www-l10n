@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/
 
+# HTML page title
+vpn-landing-title = { -brand-name-mozilla-vpn }: Verndaðu allt tækið þitt
 vpn-landing-whats-a-vpn = Hvað er VPN?
 vpn-landing-how-a-vpn-helps-you = Hvernig VPN getur hjálpað þér
 vpn-landing-features = Eiginleikar
