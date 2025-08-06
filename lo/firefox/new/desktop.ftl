@@ -21,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = ມີ { -brand-name-firefox } ທີ່ໃໝ່ກວ່ານີ້. <a { $update_url }>ອັບເດດເປັນເວີຊັນຫຼ້າສຸດ</a>
 firefox-desktop-download-get-the-browser = ເອົາຕົວທ່ອງເວັບທີ່ປົກປ້ອງສິ່ງທີ່ສໍາຄັນ
 firefox-desktop-download-fast-reliable-private = ໄວ, ເຊື່ອຖືໄດ້ ແລະ ເປັນສ່ວນຕົວ — ເພື່ອຄວາມສະຫງົບທາງອອນໄລນ໌.
+firefox-desktop-set-as-default = ຕັ້ງ { -brand-name-firefox } ເປັນຕົວທ່ອງເວັບເລີ່ມຕົ້ນຂອງທ່ານ.
 firefox-desktop-download-download-options = ທາງເລືອກໃນການດາວໂຫຼດ ແລະພາສາອື່ນໆ
 firefox-desktop-download-browser-support = ຮອງຮັບ { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

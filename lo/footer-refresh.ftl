@@ -26,6 +26,7 @@ footer-refresh-support = ສະຫນັບສະຫນູນ
 footer-refresh-product-help = ການຊ່ວຍເຫຼືອຜະລິດຕະພັນ
 footer-refresh-file-a-bug = ລາຍງານບັກ
 footer-refresh-localize-mozilla = ແປ { -brand-name-mozilla }
+footer-refresh-security = ຄວາມປອດໄພ
 footer-refresh-developers = ນັກພັດທະນາ
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
