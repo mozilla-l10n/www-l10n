@@ -18,6 +18,7 @@ about-this-site-this-website = Le site web www.mozilla.org est en ligne depuis p
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
+# Obsolete string (expires 28-11-2025)
 about-this-site-today = Aujourd’hui, il s’agit du site où les internautes peuvent télécharger <a href="{ $firefox }">{ -brand-name-firefox }</a>, essayer <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> et en apprendre plus <a href="{ $mozilla }">sur { -brand-name-mozilla }</a>. Vous pouvez également y découvrir quelques <a href="{ $book }">Easter eggs</a>.
 
 about-this-site-like-many = Comme nombre de nos produits, ce site web est open source :
