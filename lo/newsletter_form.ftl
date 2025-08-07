@@ -29,6 +29,8 @@ newsletter-form-thanks = ຂອບໃຈ!
 newsletter-form-leave-this-field-empty = ປ່ອຍໃຫ້ຊ່ອງນີ້ຫວ່າງເປົ່າ.
 newsletter-form-yes = ແມ່ນ
 newsletter-form-no = ບໍ່
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = ແບບຟອມລົງທະບຽນຈົດຫມາຍຂ່າວ
 multi-newsletter-form-checkboxes-legend = ຂ້ອຍຕ້ອງການຂໍ້ມູນກ່ຽວກັບ:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

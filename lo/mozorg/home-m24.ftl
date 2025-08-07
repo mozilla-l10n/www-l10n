@@ -40,6 +40,9 @@ m24-home-read-more = ອ່ານເພີ່ມເຕີມ
 m24-home-get-started = ເລີ່ມຕົ້ນໃຊ້ງານ
 m24-home-join-the-movement = ເຂົ້າຮ່ວມການເຄື່ອນໄຫວ:<br> AI ສໍາລັບປະຊາຊົນ
 m24-home-our-mission-is = ພາລະກິດຂອງພວກເຮົາແມ່ນເພື່ອເຮັດໃຫ້ມັນງ່າຍສໍາລັບຄົນທີ່ຈະສ້າງ, ແລະ ຮ່ວມມືກັບ, open-source, AI ທີ່ເຊື່ອຖືໄດ້.
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = ໂລໂກ້ { -brand-name-solo-ai }
+m24-home-solo-ai = { -brand-name-solo-ai }
 m24-home-create-your-website = ສ້າງເວັບໄຊທ໌ຂອງທ່ານ.ແລະ ເຊື່ອມຕໍ່ໂດເມນທີ່ກໍາຫນົດເອງຂອງທ່ານໂດຍບໍ່ເສຍຄ່າ
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
@@ -55,3 +58,4 @@ m24-home-watch-now = ເບິ່ງດຽວນີ້
 
 m24-home-type = ປະເພດ
 m24-home-author = ຜູ້ຂຽນ
+m24-home-topic-news = ຂ່າວ
