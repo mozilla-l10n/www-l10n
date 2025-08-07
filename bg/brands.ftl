@@ -56,6 +56,7 @@
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-translations = Firefox преводи
 
 ## Firefox products (short names)
 
@@ -68,18 +69,9 @@
 -brand-name-firefox-accounts = Firefox Accounts
 -brand-name-firefox-os = Firefox OS
 
-## Firefox projects
-
-
 ## Pocket
 
 -brand-name-pocket = Pocket
-
-## Fakespot
-
-
-## Anonym
-
 
 ## Mozilla projects
 
@@ -94,9 +86,6 @@
 -brand-name-common-voice = Common Voice
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
-
-## Mozilla projects (legacy)
-
 
 ## Open Source projects
 
