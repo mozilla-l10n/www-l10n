@@ -52,10 +52,13 @@ m24-home-builders-helps-independent = ຜູ້ກໍ່ສ້າງຊ່ວຍ
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = ໂລໂກ້ { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
+m24-home-can-ai-be = AI ສາມາດເຊື່ອຖືໄດ້ບໍ?
 m24-home-watch-now = ເບິ່ງດຽວນີ້
 
 ## Media Springboard
 
 m24-home-type = ປະເພດ
 m24-home-author = ຜູ້ຂຽນ
+m24-home-topic = ຫົວ​ຂໍ້
+m24-home-intro = ແນະນຳ
 m24-home-topic-news = ຂ່າວ
