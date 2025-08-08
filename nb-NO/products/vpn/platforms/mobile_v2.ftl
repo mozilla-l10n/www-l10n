@@ -13,3 +13,5 @@ vpn-mobile-why-do-i = Hvorfor trenger jeg et VPN for mobil?
 vpn-mobile-the-mozilla-vpn = Mobilappen { -brand-name-mozilla-vpn } er liten, så den bruker ikke mye minne, og den vil ikke gjøre telefonen din tregere eller tømme batteriet.
 vpn-mobile-your-internet-v2 = Internettleverandøren (ISP) din kan redusere båndbredden din hvis de vet at du ser på filmer, hører på musikk eller strømmer.
 vpn-mobile-your-isp-v2 = Internettleverandøren din kan blokkere nettsteder eller tjenester de ikke liker, eller som konkurrerer med deres egne.
+vpn-mobile-hackers-can-steal-v2 = Hackere kan stjele personopplysningene dine når du bruker offentlig Wi-Fi, for eksempel på kafeer eller flyplasser.
+vpn-mobile-a-vpn-works = En VPN fungerer på hele enheten din, ikke bare i nettleseren, og dermed også i mobilappene dine. I motsetning til gratis VPN-er eller proxy-nettsteder, som kan finansiere serverne sine ved å overvåke deg og selge informasjonen din, lagrer ikke { -brand-name-mozilla } noen logger over hvor du går eller hva du gjør.
