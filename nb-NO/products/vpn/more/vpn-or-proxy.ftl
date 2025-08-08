@@ -42,3 +42,10 @@ vpn-or-proxy-choose-a-trustworthy = Velg en pålitelig tjeneste
 #   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
 #   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
 vpn-or-proxy-the-most-important = Det viktigste å tenke på når du velger enten en VPN- eller en proxytjeneste, er å velge et pålitelig selskap. Sørg for at du forstår vilkårene du godtar. Mange hevder å være gode og fokusert på personvern, men svært mange holder ikke det de lover. Ikke alle proxy- og VPN-tjenester er sikre og private. Noen <a href="{ $cnet }">vil</a> <a href="{ $pcmag }">loggføre</a> nettaktivitetene dine for å kunne selge dataene og informasjonen din til markedsføringsfirmaer selv. Andre tjenester vil prøve å overbevise deg om å installere skadelig programvare på enhetene dine.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $fpn (url) - https://fpn.firefox.com/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-or-proxy-weve-done-the = Vi har gjort jobben for deg og forsikret oss om at både <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> og <a href="{ $fpn }">{ -brand-name-firefox-private-network }</a>-proxyutvidelsen faktisk respekterer personvernet ditt – og det er noe vi er villige til å sette ryktet vårt på spill for. { -brand-name-mozilla } har et rykte for å lage produkter som hjelper deg med å holde informasjonen din trygg. Vi følger våre lettleste, rett-på-sak <a href="{ $principles }">personvernsprinsipper</a> som gjør at vi bare fokuserer på informasjonen vi trenger for å levere tjenesten. Og siden vi er støttet av et <a href="{ $mission }">oppdragsdrevet</a> selskap, kan du stole på at pengene du bruker på dette produktet ikke bare sikrer deg førsteklasses sikkerhet, men også bidrar til å gjøre internett bedre for alle.
