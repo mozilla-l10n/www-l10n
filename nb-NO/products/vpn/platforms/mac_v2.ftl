@@ -9,6 +9,7 @@ vpn-mac-get-a-vpn = Skaff deg et VPN for macOS fra { -brand-name-mozilla }
 vpn-mac-looking-for = Ser du etter en VPN for å beskytte din Mac? { -brand-name-mozilla-vpn } støttes av en ideell organisasjon. Finn ut hvordan et VPN beskytter deg, og hvorfor du bør stole på { -brand-name-mozilla } med ditt personvern og sikkerhet når du bruker macOS
 vpn-mac-protect-your-mac = Beskytt Mac-en din med { -brand-name-mozilla-vpn }
 vpn-mac-a-vpn-is = En VPN (virtuelt privat nettverk) er et must for ditt personvern og sikkerhet på nettet når du bruker Mac. Hackere og internettleverandører kan overvåke nettaktiviteten din eller stjele dine personlige data.
+vpn-mac-but-finding = Men det kan være vanskelig å finne et godt VPN. Noen er trege, upålitelige, og lagrer til og med logger over nettaktiviteten din. Derfor laget vi { -brand-name-mozilla-vpn }, en rask, sikker og pålitelig VPN fra folkene som ga deg { -brand-name-firefox }.
 vpn-mac-with-mozilla-vpn = Med { -brand-name-mozilla-vpn } kan du:
 vpn-mac-get-one-click = Få personvern med ett klikk med et enkelt og brukervennlig grensesnitt.
 vpn-mac-connect-up-to = Koble til opptil 5 forskjellige enheter med ett abonnement, inkludert Mac, men også iOS, Windows, Linux og Android.

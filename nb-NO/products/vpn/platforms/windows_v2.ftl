@@ -14,3 +14,9 @@ vpn-windows-a-vpn-creates = En VPN oppretter en kryptert «tunnel» for internet
 vpn-windows-what-are-the-benefits = Hva er fordelene med å laste ned { -brand-name-mozilla-vpn } på Windows-enheten min?
 vpn-windows-avoid-your-online = Unngå at nettaktiviteten din samles inn og deles med tredjeparter eller annonsører.
 vpn-windows-if-youre = Hvis du er en storbruker av video- eller musikkstrømming på nettet, kan du potensielt unngå at internettleverandøren din reduserer hastigheten eller begrenser båndbredden ved å bruke en VPN.
+vpn-windows-you-can-exclude = Du kan ekskludere enkelte apper med den delte tunnellfunksjonen. Dette lar deg la noen apper kjøre gjennom VPN-en, mens andre går utenfor tunnelen.
+vpn-windows-using-a-windows = Når du bruker en Windows-enhet på et offentlig, usikret Wi-Fi-nettverk, blir internett-trafikken din mer sårbar for nettverksspionering. En VPN kan hjelpe deg med å holde dine data private ved å legge til et sterkt beskyttelseslag.
+vpn-windows-the-mozilla = { -brand-name-mozilla-vpn }-appen bruker ikke mye minne på Windows-enheten din, vil ikke gjøre datamaskinen tregere eller sløse med batterilevetiden.
+# Variables:
+#   $url (string) - url('products.vpn.landing')
+vpn-windows-mozilla-vpn = { -brand-name-mozilla-vpn } støttes på Windows 10 og Windows 11, og du kan bruke det på opptil fem enheter. For å komme i gang kan du <a href="{ $url }">abonnere på mozilla.org</a> og laste ned appen på din Windows-enhet.
