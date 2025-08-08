@@ -36,7 +36,23 @@ vpn-what-is-what-are-the = Hva er ulempene med å bruke et VPN?
 vpn-what-is-some-service-providers = Noen tjenestetilbydere blokkerer besøk som skjer via VPN, og gjør innholdet utilgjengelig når VPN er slått på. Noen VPN-er kan gjøre forbindelsen tregere, eller de kan begrense båndbredden din. Og noen VPN-er scorer dårlig når det gjelder å respektere brukernes personvern og sikkerhet.
 vpn-what-is-are-vpns-safe = Er VPN-er trygge?
 vpn-what-is-its-very-hard = Det er veldig vanskelig å finne en pålitelig VPN. VPN-er skal beskytte brukerne når de er på nettet, men ikke alle VPN-er leverer samme kvalitet på tjenesten. Når du ser etter en VPN, bør du være sikker på at du forstår vilkårene du godtar. Mange hevder å være gode og fokusert på personvern, men mange av dem innfrir ikke løftene sine. Noen VPN-er logger nettaktiviteten din for å kunne selge dataene dine til markedsføringsfirmaer. Andre VPN-er vil prøve å få deg til å installere skadeprogram på enhetene dine.
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+#   $principles (url) - https://www.mozilla.org/privacy/principles/
+#   $mission (url) - https://www.mozilla.org/mission/
+# "done the legwork" means collecting information or doing research in preparation for a project, that involves much walking or traveling about. Alternatives: "we've done the work" or "we've done the research"
+vpn-what-is-weve-done-the = Vi har gjort forarbeidet for å sikre at <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> virkelig respekterer personvernet ditt, og det er noe vi tør å sette vårt gode navn på. { -brand-name-mozilla } har et godt rykte for å bygge produkter som hjelper deg å holde informasjonen din trygg. Vi følger våre lettleste og ukompliserte <a href="{ $principles }">prinsipper for personvern</a>, som lar oss fokusere kun på den informasjonen vi trenger for å levere tjenesten. Teknologien bak { -brand-name-mozilla-vpn } er moderne og effektiv, og gir brukerne en rask tilkobling med full VPN-beskyttelse og sikkerhet. Og siden skaperne av denne VPN-en støttes av et <a href="{ $mission }">oppdragsdrevet</a> selskap, kan du stole på at pengene du bruker på dette produktet ikke bare sikrer deg en førsteklasses VPN, men også bidrar til å gjøre internett bedre for alle.
 vpn-what-is-can-vpns-protect = Kan VPN-er beskytte meg mot nettkriminelle?
+# Variables
+#   $url (url) - https://blog.mozilla.org/en/products/firefox/stay-safe-in-your-online-life-too/
+vpn-what-is-while-a-vpn = Selv om en VPN gir en sikker forbindelse til internett, beskytter den deg ikke mot alle farer der ute. Når du er på nett, enten med eller uten VPN, bør du være oppmerksom på mistenkelige lenker, feilinformasjon, nettfisking-svindel (phishing-svindel) og andre trusler. <a href="{ $url }">Å være trygg på nettet</a> er en daglig holdning.
 vpn-what-is-are-vpns-legal = Er VPN-er lovlige?
+vpn-what-is-installing-and-using = Å installere og bruke et VPN er for tiden lovlig i de fleste land, inkludert USA, Storbritannia, Canada og New Zealand, men noen land kan regulere bruken. Hvis du velger å bruke et VPN, er det ditt ansvar å sjekke lovverket i det aktuelle landet for å avgjøre om bruken er lovlig eller ikke.
 vpn-what-is-are-vpns-only = Er VPN-er bare for datamaskiner?
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-vpns-can-be = VPN-er kan brukes for å beskytte alle enhetene dine — datamaskiner, bærbare PC-er, nettbrett og telefoner. Hvis du bruker internett gjennom separate apper utenfor nettleseren, er en VPN et godt valg for å beskytte personvernet og sikkerheten din på alle enheter. Du må installere en VPN på hver enhet for at den skal være effektiv. <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> tilbyr ubegrenset tilkobling for opptil fem enheter når du kobler til internett fra hvilken som helst app eller nettleser.
 vpn-what-is-mozilla-vpn-fast = { -brand-name-mozilla-vpn }: Rask, sikker og pålitelig
+# Variables
+#   $mozvpn (url) - https://www.mozilla.org/products/vpn/
+vpn-what-is-mozilla-vpn-is-a-v3 = <a href="{ $mozvpn }">{ -brand-name-mozilla-vpn }</a> er en tjeneste du kan stole på for å holde tilkoblingen din til internett trygg på alle enhetene dine. Vi lagrer ikke logger over nettverksaktiviteten din, og vi samarbeider ikke med tredjepart som lager profiler basert på hva du gjør på nettet. I en verden hvor uforutsigbarhet har blitt «den nye normalen», vet vi at det er viktigere enn noen gang at du føler deg trygg, og at det du gjør på nettet er din egen sak.
