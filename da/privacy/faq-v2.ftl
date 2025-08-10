@@ -18,6 +18,7 @@ privacy-faq-v2-following-questions = De følgende spørgsmål og svar vil hjælp
 ## FAQ
 
 privacy-faq-v2-i-use-firefox = Jeg bruger { -brand-name-firefox } til næsten alt på internettet. Folkene hos { -brand-name-mozilla } må vide frygtelig meget om mig - eller hvad?
+privacy-faq-v2-it-seems-like = Det lader til, at ethvert firma på internettet køber og sælger mine data. Det gælder vel også jer?
 privacy-faq-v2-wait-so-how = Vent lige, hvordan tjener I så jeres penge?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org
