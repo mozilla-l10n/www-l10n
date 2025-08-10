@@ -33,7 +33,7 @@ firefox-desktop-download-for-everyone = { -brand-name-firefox } ყველა�
 firefox-desktop-download-available-in-over = ხელმისაწვდომია 90-ზე მეტ ენაზე, ამასთანავე თავსებადია { -brand-name-windows }, { -brand-name-mac-short } და { -brand-name-linux }-სისტემებთან, { -brand-name-firefox } იმუშავებს ყველაფერზე და ყველგან. შეუფერხებლად სარგებლობისთვის დარწმუნდით, რომ სისტემა განახლებულია.
 firefox-desktop-download-review-system-req = გაეცანით სისტემის მოთხოვნებს
 firefox-desktop-download-all-your-devices = განათავსეთ { -brand-name-firefox } ყველა თქვენს მოწყობილობაზე
-firefox-desktop-download-take-your-privacy = წაიყოლეთ პირადი მონაცემები ყველგან. { -brand-name-firefox-browsers } { -brand-name-ios }-სა და { -brand-name-android }-ზეც მძლავრად იცავს თქვენს ინფორმაციას და უზღუდავს მეთვალყურეებს თქვენი თვალთვალის შესაძლებლობას, სადაც არ უნდა იყოთ.
+firefox-desktop-download-take-your-privacy = გაიყოლეთ პირადი მონაცემები ყველგან. { -brand-name-firefox-browsers } { -brand-name-ios }-სა და { -brand-name-android }-ზეც მძლავრად იცავს თქვენს ინფორმაციას და უზღუდავს მეთვალყურეებს თქვენი თვალთვალის შესაძლებლობას, სადაც არ უნდა იყოთ.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = გამოიყენეთ <strong>ყველაფრისთვის</strong> { -brand-name-firefox }
 firefox-desktop-download-search-smarter = მოიძიეთ სწრაფად, მოხერხებულად
