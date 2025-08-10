@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Skriv inn en gyldig e-postadresse
-newsletter-form-you-must-agree-to = Du må godta personvernbestemmelsen
+newsletter-form-you-must-agree-to = Du må godta personvernerklæringen
 newsletter-form-your-email-address = Din e-postadresse
 newsletter-form-we-are-sorry-but-there = Beklager, men det oppstod et problem med systemet vårt. Prøv igjen senere!
 newsletter-form-please-select-country = Velg et land eller en region

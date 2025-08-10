@@ -6,6 +6,6 @@ fxa-form-enter-your-email-v2 = <strong>Skriv inn e-postadressen din</strong> for
 # Variables:
 #   $url1 (url) - link to https://accounts.firefox.com/legal/terms
 #   $url2 (url) - link to https://accounts.firefox.com/legal/privacy
-fxa-form-by-proceeding = Ved å fortsette, godtar du <a href="{ $url1 }">tjenestevilkårene</a> og <a href="{ $url2 }">personvernbestemmelsen</a>.
+fxa-form-by-proceeding = Ved å fortsette godtar du <a href="{ $url1 }">bruksvilkår</a> og <a href="{ $url2 }">personvernerklæringen</a>.
 fxa-form-email-address = E-postadresse
 fxa-form-continue = Fortsett
