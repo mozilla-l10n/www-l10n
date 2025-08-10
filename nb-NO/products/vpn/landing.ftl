@@ -16,7 +16,7 @@ vpn-landing-invite-country-label = Hvilket land bor du i?
 vpn-landing-invite-language-label = Velg ønsket språk.
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-landing-invite-privacy-policy = Ved å klikke på «Meld deg på ventelisten» godtar du <a href="{ $privacy }">våre personvernbestemmelser</a>.
+vpn-landing-invite-privacy-policy = Ved å klikke på «Meld deg på ventelisten» godtar du <a href="{ $privacy }">vår personvernerklæring</a>.
 vpn-landing-invite-your-information = Informasjonen din vil kun bli brukt til å varsle deg om plattformtilgjengelighet.
 vpn-landing-invite-thanks-heading = Takk! Du er på listen
 vpn-landing-invite-thanks-desc = Når { -brand-name-mozilla-vpn } blir tilgjengelig for ditt område, sender vi deg en e-post.
