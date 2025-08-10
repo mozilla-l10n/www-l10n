@@ -5,6 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/privacy/faq
 
+# HTML page title
+privacy-faq-v2-title = { -brand-name-mozilla }s FAQ om data og privatliv
+# HTML page description
+privacy-faq-v2-desc = Hos { -brand-name-mozilla } respekterer og beskytter vi dine personlige informationer.
+privacy-faq-v2-heading = Vi står for mennesker frem for profit.
+privacy-faq-v2-at-mozilla = Hos { -brand-name-mozilla } respekterer og beskytter vi dine personlige informationer:
 
 ## FAQ
 
