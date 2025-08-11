@@ -24,6 +24,7 @@ m24-about-a-group-of = Um grupo de pensadores sentados em círculo no chão troc
 m24-about-advocate = Ativismo
 m24-about-we-advocate-for = Pleiteamos produtos melhores, responsabilizando governos e corporações de tecnologia pelo que criam.
 m24-about-research = Pesquisa
+m24-about-we-uncover-insights = Coletamos ideias, fazemos campanhas para melhorar produtos e impulsionamos políticas que representam seus interesses.
 m24-about-build = Produção
 # Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Criamos produtos que colocam você no controle, como { -brand-name-firefox }, { -brand-name-fakespot } e muito mais.
@@ -58,6 +59,7 @@ m24-about-alt-drinking-coffee = Funcionário da { -brand-name-mozilla } tomando 
 # Used as an accessible text alternative for an image
 m24-about-alt-collaborating = Funcionários da { -brand-name-mozilla } colaborando.
 m24-about-join-us-and = Junte-se a nós e faça a diferença
+m24-about-join-our-team = Junte-se à nossa equipe e vá além dos limites do que é possível — sem comprometer o que importa.
 m24-about-see-open-positions = Ver cargos disponíveis
 
 ## Community
