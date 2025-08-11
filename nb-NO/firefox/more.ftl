@@ -8,7 +8,7 @@
 firefox-products-are = { -brand-name-firefox }-produktene er utviklet for å beskytte personvernet ditt.
 learn-more-about-firefox = Les mer om { -brand-name-firefox }, dens historie, funksjoner og oppdrag
 learn-more-about = Les mer om nettlesere og produkter fra { -brand-name-firefox } som håndterer dataene dine med respekt og er bygget for personvern uansett hvor du er på nettet.
-learn-more-faq = { -brand-name-firefox } vanlige spørsmål
+learn-more-faq = { -brand-name-firefox } ofte stilte spørsmål
 the-history-of = Nettleserens historie
 firefox-has-been = { -brand-name-firefox } har vært der nesten siden starten.
 what-is-a = Hva er en nettleser?

@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
 # HTML page title
-firefox-faq = { -brand-name-firefox } vanlige spørsmål
-whether-you-searched-privacy = Uansett om du lette etter en rask nettleser som beskytter personvernet ditt, er disse vanlige spørsmålene her for å svare på de viktigste spørsmålene om { -brand-name-firefox }.
-whether-you-searched-independant = Uansett om du lette etter en rask nettleser, eller du leter etter uavhengig teknologi som beskytter personvernet ditt, er disse vanlige spørsmålene her for å svare på de viktigste spørsmålene om { -brand-name-firefox }.
+firefox-faq = { -brand-name-firefox } ofte stilte spørsmål
+whether-you-searched-privacy = Uansett om du lette etter en rask nettleser som beskytter personvernet ditt, er disse ofte stilte spørsmålene her for å svare på de viktigste spørsmålene om { -brand-name-firefox }.
+whether-you-searched-independant = Uansett om du lette etter en rask nettleser, eller du leter etter uavhengig teknologi som beskytter personvernet ditt, er disse ofte stilte spørsmålene her for å svare på de viktigste spørsmålene om { -brand-name-firefox }.
 what-is-firefox = Hva er { -brand-name-firefox }?
 
 # Variables:
