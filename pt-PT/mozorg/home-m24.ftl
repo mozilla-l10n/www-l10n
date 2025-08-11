@@ -40,8 +40,10 @@ m24-home-mask-your-email = Mascare o seu e-mail e número de telefone para que r
 
 # Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Faça donativos à { -brand-name-mozilla }, uma organização sem fins lucrativos
+m24-home-donate-to-v2 = Doar para { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = A { -brand-name-mozilla } está a criar um movimento para reclamar a Internet. Juntos, nós podemos criar um futuro onde a nossa privacidade esteja protegida, a IA seja confiável e as empresas de tecnologia irresponsáveis sejam  responsabilizadas. Mas isto só é possível se nós o fizermos juntos.
+m24-home-mozilla-foundation-is-building-v2 = A { -brand-name-mozilla-foundation } está a construir um futuro onde a tecnologia é potenciada por pessoas e aberta pelo design. É por isto que potenciamos a tecnologia centrada na comunidade através de advocacia, educação, financiamento e inovação — para garantir que o futuro da tecnologia é bom para todos. Mas isto só é possível se o fizermos juntos.
 m24-home-were-proudly-nonprofit = Temos orgulho de ser uma organização sem fins lucrativos. Vai fazer um donativo para a { -brand-name-mozilla } hoje?
 m24-home-donate = Doar
 

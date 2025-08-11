@@ -40,8 +40,10 @@ m24-home-mask-your-email = Cuddio eich e-bost a'ch rhif ffôn fel mai dim ond y 
 
 # Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Cyfrannwch at y { -brand-name-mozilla } dim-er-elw
+m24-home-donate-to-v2 = Rhoi i { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = Mae { -brand-name-mozilla } yn adeiladu mudiad i adennill y rhyngrwyd. Gyda'n gilydd gallwn adeiladu dyfodol lle mae ein preifatrwydd yn cael ei ddiogelu, AI yn ddibynadwy a chwmnïau technoleg anghyfrifol yn cael eu dal yn atebol. Ond dim ond os ydym yn ei wneud gyda'n gilydd y mae hynny'n bosibl.
+m24-home-mozilla-foundation-is-building-v2 = Mae { -brand-name-mozilla-foundation } yn adeiladu dyfodol lle mae technoleg yn cael ei phweru gan bobl, ac yn agored trwy ddyluniad. Dyna pam rydyn ni'n tanio technoleg sy'n canolbwyntio ar y gymuned trwy eiriolaeth, addysg, cyllid ac arloesi - i wneud yn siŵr bod dyfodol technoleg yn dda i bawb. Ond dim ond os ydym yn ei wneud gyda'n gilydd y mae hynny'n bosibl.
 m24-home-were-proudly-nonprofit = Rydym yn falch ein bod yn gorff dim-er-elw. A wnewch chi gyfrannu at { -brand-name-mozilla } heddiw?
 m24-home-donate = Cyfrannu
 
