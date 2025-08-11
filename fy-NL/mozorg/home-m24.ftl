@@ -38,7 +38,9 @@ m24-home-mask-your-email = Maskearje jo e-mailadres en telefoannûmer sadat jo a
 
 ## Donate
 
+# Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Donearje oan de non-profitorganisaasje { -brand-name-mozilla }
+# Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } bout in beweging om it ynternet werom te winnen. Tegearre kinne wy in takomst bouwe wêr't ús privacy beskerme wurdt, AI betrouber is en ûnferantwurde technologybedriuwen ta ferantwurding roppen wurde. Mar dat kin allinnich as wy it tegearre dogge.
 m24-home-were-proudly-nonprofit = Wy binne grutsk non-profit. Wolle jo hjoed donearje oan { -brand-name-mozilla }?
 m24-home-donate = Donearje

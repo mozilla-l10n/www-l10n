@@ -6,24 +6,6 @@
 ### URL: https://www-dev.allizom.org/
 
 
-## Intro
-
-
 ## Products
 
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
-
-## Donate
-
-
-## AI gallery
-
-
-## Media Springboard
-
-
-## Showcase
-
-
-## Issues
-

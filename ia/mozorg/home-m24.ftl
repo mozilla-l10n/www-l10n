@@ -38,7 +38,9 @@ m24-home-mask-your-email = Usa alias pro tu email e numero de telephono assi tu 
 
 ## Donate
 
+# Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Dona al organisation non-lucrative { -brand-name-mozilla }
+# Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } crea un movimento pro revindicar internet. Insimul nos pote construer un futur ubi nostre confidentialitate es protegite, le intelligentia artificial es digne de fide e companias technologic irresponsabile se tene responsabile. Ma isto es solo possibile si nos lo face insimul.
 m24-home-were-proudly-nonprofit = Nos es un organisation orgoliosemente non-lucrative. Vole tu donar a { -brand-name-mozilla } hodie?
 m24-home-donate = Donar

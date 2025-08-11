@@ -38,7 +38,9 @@ m24-home-mask-your-email = Peitä sähköpostiosoitteesi ja puhelinnumerosi, jot
 
 ## Donate
 
+# Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Lahjoita yleishyödylliselle { -brand-name-mozilla }lle
+# Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } rakentaa liikettä Internetin palauttamiseksi takaisin. Yhdessä voimme rakentaa tulevaisuuden, jossa yksityisyytemme on suojattu, tekoäly on luotettava ja vastuuttomat teknologiayritykset saatetaan vastuuseen. Se on mahdollista vain, jos teemme sen yhdessä.
 m24-home-were-proudly-nonprofit = Olemme ylpeänä voittoa tavoittelemattomia, yleishyödyllisiä. Lahjoitatko tänään { -brand-name-mozilla }lle?
 m24-home-donate = Lahjoita

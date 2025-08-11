@@ -36,6 +36,7 @@ m24-home-mask-your-email = Ehovañomi ne ñanduti veve ha pumbyry papapy og̃uah
 
 ## Donate
 
+# Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Embojopói mba’apohaguasu viru’ỹgua { -brand-name-mozilla }
 m24-home-were-proudly-nonprofit = Rojerovu ha’ere tendaguasu roku’éva viru’ỹre. ¿Eme’ẽsépa jopói { -brand-name-mozilla }-pe ko árape?
 m24-home-donate = Me’ẽ

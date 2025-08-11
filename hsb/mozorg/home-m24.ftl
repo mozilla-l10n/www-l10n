@@ -38,7 +38,9 @@ m24-home-mask-your-email = Maskěrujće swoju e-mejlowu adresu a swoje telefonow
 
 ## Donate
 
+# Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Darće powšitkownosći wužitnej organizaciji { -brand-name-mozilla }
+# Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } hibanje twori, zo by internet wróćo dobył. Hromadźe móžemy přichod wutworić, hdźež so naša priwatnosć škita, KI je dowěry hódna a njezamołwite technologijowe předewzaća zamołwite činja. Ale to je jenož móžne, jeli to hromadźe činimy.
 m24-home-were-proudly-nonprofit = Smy z hordosću powšitkownosći wužitni. Dariće dźensa na { -brand-name-mozilla }?
 m24-home-donate = Darić

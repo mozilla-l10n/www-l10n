@@ -38,7 +38,9 @@ m24-home-mask-your-email = Zuppenta tia adressa dad e-mail e tes numer da telefo
 
 ## Donate
 
+# Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Fa ina donaziun a l’organisaziun senza profit { -brand-name-mozilla }
+# Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } furma in moviment per deliberar l’internet. Communablamain pudain nus crear in avegnir en il qual nossa sfera privata è protegida, l’IA è fidabla ed interpresas da tecnologia irresponsablas ston prender responsabladad. Ma quai va mo far cun forzas unidas.
 m24-home-were-proudly-nonprofit = Nus essan loschs dad esser in’organisaziun senza profit. Fas ti oz ina donaziun a { -brand-name-mozilla }?
 m24-home-donate = Fa ina donaziun

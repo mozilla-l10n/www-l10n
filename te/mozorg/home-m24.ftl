@@ -14,9 +14,6 @@ m24-home-learn-about-us = మా గురించి తెలుసుకో�
 
 m24-home-firefox = { -brand-name-firefox }
 
-## Donate
-
-
 ## AI gallery
 
 m24-home-read-more = ఇంకా చదవండి
@@ -31,9 +28,3 @@ m24-home-tag-video = వీడియో
 m24-home-topic-news = వార్తలు
 m24-home-topic-ai = కృత్రిమ మేధ
 m24-home-topic-ps = గోప్యత & భద్రత
-
-## Showcase
-
-
-## Issues
-

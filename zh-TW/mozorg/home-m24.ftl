@@ -38,7 +38,9 @@ m24-home-mask-your-email = 隱藏您的電子郵件地址與手機號碼，這�
 
 ## Donate
 
+# Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = 捐款給非營利組織 { -brand-name-mozilla }
+# Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } 正在打造一場奪回網際網路環境的運動。讓我們一同打造隱私受到保護、AI 可信任、可向不負責任的科技公司課責的未來，但只有我們一起努力才有可能實現。
 m24-home-were-proudly-nonprofit = 我們以非營利為榮。您願意捐款給 { -brand-name-mozilla } 嗎？
 m24-home-donate = 捐款

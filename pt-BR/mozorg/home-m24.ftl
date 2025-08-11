@@ -38,7 +38,9 @@ m24-home-mask-your-email = Oculte seu email e número de celular para receber so
 
 ## Donate
 
+# Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Faça uma doação para a organização sem fins lucrativos { -brand-name-mozilla }
+# Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = A { -brand-name-mozilla } está formando um movimento para recuperar a internet. Juntos, podemos construir um futuro em que nossa privacidade seja protegida, inteligência artificial seja confiável e empresas de tecnologia irresponsáveis sejam responsabilizadas. Mas isso só será possível se fizermos juntos.
 m24-home-were-proudly-nonprofit = Temos orgulho de ser uma organização sem fins lucrativos. Você poderia fazer uma doação para a { -brand-name-mozilla }?
 m24-home-donate = Faça uma doação

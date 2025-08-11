@@ -38,7 +38,9 @@ m24-home-mask-your-email = Zamaskujte svoj e‑mail a telefónne číslo, aby st
 
 ## Donate
 
+# Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Prispejte neziskovej organizácii { -brand-name-mozilla }
+# Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } buduje hnutie za znovuzískanie internetu. Spoločne môžeme vybudovať budúcnosť, v ktorej bude naše súkromie chránené, AI dôveryhodná a nezodpovedné technologické spoločnosti budú brané na zodpovednosť. Ale to je možné len vtedy, ak to urobíme spoločne.
 m24-home-were-proudly-nonprofit = Sme hrdí na to, že sme neziskoví. Prispejete dnes { -brand-name-mozilla(case: "dat") }?
 m24-home-donate = Prispieť

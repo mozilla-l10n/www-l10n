@@ -38,7 +38,9 @@ m24-home-mask-your-email = 掩藏邮箱地址和电话号码，将不请自来�
 
 ## Donate
 
+# Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = 向非营利组织 { -brand-name-mozilla } 捐款
+# Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } 正发起运动，目标是夺回对互联网的话语权。让我们共创这样一个未来：隐私受到保护、AI 值得信赖，而不负责任的科技公司将付出代价。唯有同心协力，方能达此愿景。
 m24-home-were-proudly-nonprofit = 我们以非营利为荣。您今天愿意向 { -brand-name-mozilla } 捐款吗？
 m24-home-donate = 捐款

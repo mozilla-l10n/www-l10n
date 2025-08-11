@@ -38,7 +38,9 @@ m24-home-mask-your-email = Feldu tölvupóstfang þitt og símanúmer svo þú f
 
 ## Donate
 
+# Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Gefðu til { -brand-name-mozilla } sjálfseignarstofnunarinnar
+# Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } er að byggja upp fjöldahreyfingu til að endurheimta internetið. Saman getum við byggt upp framtíð þar sem friðhelgi einkalífs okkar er vernduð, gervigreind er áreiðanleg og óvífin tæknifyrirtæki eru dregin til ábyrgðar. En þetta er einungis hægt ef við gerum það saman.
 m24-home-were-proudly-nonprofit = Við erum stolt af því að vinna án þess að hugsa um hagnað. Ætlarðu að styrkja { -brand-name-mozilla } í dag?
 m24-home-donate = Styrkja

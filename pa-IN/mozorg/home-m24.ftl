@@ -32,6 +32,7 @@ m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
 
+# Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = { -brand-name-mozilla } ਗ਼ੈਰ-ਫਾਇਦੇ ਨੂੰ ਦਾਨ ਦਿਓ
 m24-home-donate = ਦਾਨ ਦਿਓ
 

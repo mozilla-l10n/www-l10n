@@ -38,7 +38,9 @@ m24-home-mask-your-email = 원하는 메시지만 받을 수 있도록 이메일
 
 ## Donate
 
+# Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = 비영리 단체 { -brand-name-mozilla }에 기부하세요.
+# Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla }는 인터넷을 되찾기 위한 운동을 만들고 있습니다. 함께라면 개인정보가 보호되고, AI를 신뢰할 수 있고, 무책임한 기술 회사들이 책임을 지는 미래를 만들 수 있습니다. 하지만 그것은 함께 할 때에만 가능합니다.
 m24-home-were-proudly-nonprofit = 우리는 비영리임을 자랑스럽게 생각합니다. 오늘 { -brand-name-mozilla }에 기부하시겠습니까?
 m24-home-donate = 기부하기

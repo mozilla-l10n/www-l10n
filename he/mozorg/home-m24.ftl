@@ -28,6 +28,7 @@ m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
 
+# Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = תרומה למלכ״ר { -brand-name-mozilla }
 m24-home-donate = תרומה
 
@@ -45,12 +46,6 @@ m24-home-lumigator = { -brand-name-lumigator }
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice = תרמו את קולכם
-
-## Media Springboard
-
-
-## Showcase
-
 
 ## Issues
 

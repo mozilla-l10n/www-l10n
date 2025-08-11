@@ -35,7 +35,9 @@ m24-home-mask-your-email = Màscara u to nnirizzu di posta elittrònica e u to n
 
 ## Donate
 
+# Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Fai na dunazzioni a l’urganizzazzioni senza scopu di lucru { -brand-name-mozilla }
+# Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } sta custrujennu un muvimentu pi pigghiàrini arrè a riti. Nzèmmula putemu custrujiri un futuru unni a nostra privatizza è prutetta, unni po’ aviri fiducia nnâ NA e unni i cumpagnìi tecnulòggichi arrispùnninu dî so azzioni. Ma è pussìbbili sulu si u facemu nzèmmula.
 m24-home-were-proudly-nonprofit = Semu rigugghiusi di nun aviri scopu di lucru. Fai na dunazzioni a { -brand-name-mozilla } oji?
 m24-home-donate = Fai na dunazzioni

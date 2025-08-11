@@ -38,7 +38,9 @@ m24-home-mask-your-email = Maskoni email-in dhe numrin e telefonit tuaj, që t�
 
 ## Donate
 
+# Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Dhuroni për entin jofitiprurës { -brand-name-mozilla }
+# Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } po ngre një lëvizje për rimarrje të internetit. Tok mund të ndërtojmë një të ardhme ku privatësia mbrohet, IA-ja është e besueshme dhe shoqërive teknologjike të papërgjegjshme u kërkohet llogari. Por kjo është e mundshme vetëm nëse e bëjmë tok.
 m24-home-were-proudly-nonprofit = Jemi me krenari jofitimprurës. Do të dhuroni sot për { -brand-name-mozilla }?
 m24-home-donate = Dhuroni

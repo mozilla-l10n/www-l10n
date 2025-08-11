@@ -42,9 +42,6 @@ m24-home-topic-news = خبراں
 m24-home-topic-ai = مصنوعی ذہانت
 m24-home-topic-ps = رازداری تے سلامتی
 
-## Showcase
-
-
 ## Issues
 
 m24-home-irl-podcast = { -brand-name-irl-podcast }
