@@ -40,6 +40,7 @@ m24-home-mask-your-email = Skjul e-postadressen og telefonnummeret ditt, slik at
 
 # Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Doner til den ideelle organisasjonen { -brand-name-mozilla }
+m24-home-donate-to-v2 = Doner til { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } bygger en bevegelse for å gjenerobre internett. Sammen kan vi bygge en fremtid der personvernet vårt er beskyttet, AI er pålitelig og uansvarlige teknologiselskaper holdes ansvarlige. Men det er bare mulig hvis vi gjør det sammen.
 m24-home-were-proudly-nonprofit = Vi er stolte av å være en ideell organisasjon. Vil du donere til { -brand-name-mozilla } i dag?
