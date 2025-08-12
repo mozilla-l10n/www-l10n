@@ -39,7 +39,10 @@ m24-home-mask-your-email = Sorok e-mel dan nombor telefon agar anda hanya meneri
 
 ## Donate
 
+# Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Dermalah kepada organisasi bukan berasaskan keuntungan { -brand-name-mozilla }
+m24-home-donate-to-v2 = Dermalah ke { -brand-name-mozilla-foundation }
+# Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } sedang membangunkan satu pergerakan untuk menuntut semula internet. Bersama, kita mampu membina masa depan di mana privasi kita dilindungi, AI boleh dipercayai dan syarikat teknologi, dipertanggungjawabkan. Namun, ia mampu dicapai jika kita berpadu tenaga.
 m24-home-were-proudly-nonprofit = Dengan bangganya kami bukan berasaskan keuntungan. Anda mahu menderma kepada { -brand-name-mozilla } hari ini?
 m24-home-donate = Sumbangan
