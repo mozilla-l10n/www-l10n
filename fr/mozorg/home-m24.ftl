@@ -39,7 +39,10 @@ m24-home-mask-your-email = Masquez votre adresse e-mail et votre numéro de tél
 
 ## Donate
 
+# Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Faire un don à l’organisation à but non lucratif { -brand-name-mozilla }
+m24-home-donate-to-v2 = Faire un don à la { -brand-name-mozilla-foundation }
+# Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } crée un mouvement pour reprendre le contrôle d’Internet. Ensemble, nous pouvons construire un futur dans lequel notre vie privée sera protégée, l’IA sera digne de confiance et les entreprises irresponsables du secteur de la tech seront mises face à leurs responsabilités. Mais tout ceci n’est possible que si nous unissons nos forces.
 m24-home-were-proudly-nonprofit = Nous sommes fiers d’être une organisation à but non lucratif. Pouvez-vous faire un don à { -brand-name-mozilla } aujourd’hui ?
 m24-home-donate = Faire un don
