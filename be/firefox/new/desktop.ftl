@@ -20,8 +20,12 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Даступны яшчэ больш новы { -brand-name-firefox }. <a { $update_url }>Абнавіць да апошняй версіі</a>
 firefox-desktop-download-get-the-browser = Атрымайце браўзер, які ахоўвае тое, што важна
+firefox-desktop-download-fast-reliable-private = Хуткі, надзейны і прыватны — для душэўнага спакою ў інтэрнэце.
+firefox-desktop-set-as-default = Зрабіце { -brand-name-firefox } вашым прадвызначаным браўзерам.
 firefox-desktop-download-download-options = Варыянты сцягвання і іншыя мовы
 firefox-desktop-download-browser-support = Падтрымка { -brand-name-firefox-browser }
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Рабіце ў сеціве, што робіце.<br> { -brand-name-firefox-browser } <strong>паклапоціцца</strong> пра вас.
 firefox-desktop-download-we-block-the-ad = Мы блакуем рэкламныя трэкеры. Вы хутчэй аглядаеце Інтэрнэт.
 firefox-desktop-download-ads-are-distracting = Рэклама адцягвае ўвагу і прымушае вэб-старонкі загружацца павольней, а іх трэкеры сочаць за кожным вашым крокам у Інтэрнэце. { -brand-name-firefox-browser } аўтаматычна блакуе большасць трэкераў, таму няма патрэбы рыцца у наладах бяспекі.
 firefox-desktop-download-see-your-report = Праглядзіце справаздачу аб ахове
