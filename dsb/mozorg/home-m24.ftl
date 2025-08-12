@@ -40,8 +40,10 @@ m24-home-mask-your-email = Maskěrujśo swóju e-mailowu adresu a swój telefono
 
 # Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Pósććo za wšě wužytnej organizaciji { -brand-name-mozilla }
+m24-home-donate-to-v2 = Pósććo { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } gibanje twóri, aby internet slědk dobył. Gromaźe móžomy pśichod napóraś, źož se naša priwatnosć šćita, KI jo dowěry gódna a njezagronite pśedewześa technologije zagronite cynje. Ale to jo jano móžne, jolic to gromaźe cynimy.
+m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } pśichod twóri, źož se technologija wót luźi pódpěra a jo z wótglědom wótwórjona. Togodla technologiju ze zgromaźeństwom w centrumje pśez zasajźenje, kubłanje, pósćiwanje a inowaciju doprědka pógónjujomy, aby my zawěsćili, až pśichod technologije jo dobry za wše. Ale to jo jano móžne, jolic to gromaźe cynimy.
 m24-home-were-proudly-nonprofit = Smy z gjardosću za wše wužytne. Pósćiwaśo źinsa na { -brand-name-mozilla }?
 m24-home-donate = Pósćiś
 
