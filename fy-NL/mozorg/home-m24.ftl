@@ -40,8 +40,10 @@ m24-home-mask-your-email = Maskearje jo e-mailadres en telefoannûmer sadat jo a
 
 # Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Donearje oan de non-profitorganisaasje { -brand-name-mozilla }
+m24-home-donate-to-v2 = Donearje oan { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } bout in beweging om it ynternet werom te winnen. Tegearre kinne wy in takomst bouwe wêr't ús privacy beskerme wurdt, AI betrouber is en ûnferantwurde technologybedriuwen ta ferantwurding roppen wurde. Mar dat kin allinnich as wy it tegearre dogge.
+m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation }  bout in takomst dêr’t technology oandreaun wurdt troch minsken, en iepen troch ûntwerp. Dêrom stimulearje wy mienskipsrjochte technology troch belangebehertiging, ûnderwiis, finansiering en ynnovaasje — om derfoar te soargjen dat de takomst fan technology goed is foar elkenien. Mar dat is allinnich mooglik as wy it tegearre dogge.
 m24-home-were-proudly-nonprofit = Wy binne grutsk non-profit. Wolle jo hjoed donearje oan { -brand-name-mozilla }?
 m24-home-donate = Donearje
 
