@@ -16,6 +16,9 @@ firefox-desktop-download-meta-desc-v2 = Атрымайце { -brand-name-firefox
 firefox-desktop-download-og-title = Сцягніце найхутчэйшы ў гісторыі { -brand-name-firefox }
 firefox-desktop-download-og-desc = Хутчэйшая загрузка старонак, меншае спажыванне памяці, і мноства функцый, новы { -brand-name-firefox } ужо тут.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Даступны яшчэ больш новы { -brand-name-firefox }. <a { $update_url }>Абнавіць да апошняй версіі</a>
 firefox-desktop-download-get-the-browser = Атрымайце браўзер, які ахоўвае тое, што важна
 firefox-desktop-download-download-options = Варыянты сцягвання і іншыя мовы
 firefox-desktop-download-browser-support = Падтрымка { -brand-name-firefox-browser }
