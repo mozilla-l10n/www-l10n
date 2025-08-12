@@ -43,6 +43,7 @@ m24-home-donate-to-the = Darće powšitkownosći wužitnej organizaciji { -brand
 m24-home-donate-to-v2 = Darće { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } hibanje twori, zo by internet wróćo dobył. Hromadźe móžemy přichod wutworić, hdźež so naša priwatnosć škita, KI je dowěry hódna a njezamołwite technologijowe předewzaća zamołwite činja. Ale to je jenož móžne, jeli to hromadźe činimy.
+m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } přichod twori, hdźež technologija so wot ludźi podpěruje a je z wotpohladom wotewrjena. Tohodla technologiju ze zhromadźenstwom w centrumje přez zasadźenje, kubłanje, darjenje a inowaciju ćěrimy, zo bychmy zawěsćili, zo přichod technologije je dobry za wšěch. Ale to je jenož móžne, jeli to hromadźe činimy.
 m24-home-were-proudly-nonprofit = Smy z hordosću powšitkownosći wužitni. Dariće dźensa na { -brand-name-mozilla }?
 m24-home-donate = Darić
 
