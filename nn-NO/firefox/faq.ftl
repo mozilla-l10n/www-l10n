@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
 # HTML page title
-firefox-faq = Vanlege spørsmål om { -brand-name-firefox }
+firefox-faq = Ofte stilte spørsmål { -brand-name-firefox }
 whether-you-searched-privacy = Uansett om du søkte etter ein rask nettlesar som tek vare på personvernet ditt, er desse vanlege spørsmåla her for å svare på dei viktigaste spørsmåla om { -brand-name-firefox }.
 whether-you-searched-independant = Uansett om du søkte etter ein rask nettlesar, eller om du leita etter uavhengig teknologi som tek vare på personvernet ditt, er desse vanlege spørsmåla her for å svare på dei viktigaste spørsmåla om { -brand-name-firefox }.
 what-is-firefox = Kva er { -brand-name-firefox }?
