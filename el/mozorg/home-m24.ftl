@@ -40,6 +40,7 @@ m24-home-mask-your-email = Αποκρύψτε το email και τον αριθ�
 
 # Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Κάντε δωρεά στη μη κερδοσκοπική { -brand-name-mozilla }
+m24-home-donate-to-v2 = Δωρεά στο { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = Η { -brand-name-mozilla } αναπτύσσει ένα κίνημα για να διεκδικήσει ξανά το διαδίκτυο. Μαζί μπορούμε να διαμορφώσουμε ένα μέλλον, όπου το απόρρητό μας θα προστατεύεται, η τεχνητή νοημοσύνη θα είναι αξιόπιστη και οι ανεύθυνες εταιρείες τεχνολογίας θα λογοδοτούν. Αλλά αυτό είναι δυνατό μόνο ενώσουμε τις δυνάμεις μας.
 m24-home-were-proudly-nonprofit = Είμαστε ένας περήφανα μη κερδοσκοπικός οργανισμός. Θα κάνετε δωρεά στη { -brand-name-mozilla } σήμερα;
