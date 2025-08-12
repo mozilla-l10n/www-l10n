@@ -43,6 +43,7 @@ m24-home-donate-to-the = Doner til den ideelle organisasjonen { -brand-name-mozi
 m24-home-donate-to-v2 = Doner til { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } byggjer ei rørsle for å gjenerobre internett. Saman kan vi byggje ei framtid der personvernet vårt er tatt vare på, AI er påliteleg, og uansvarlege teknologiselskap vert haldne ansvarlege. Men det er berre mogleg om vi gjer det saman.
+m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation }  byggjer ei framtid der teknologi blir driven av menneske og er open gjennom design. Derfor driv vi fram samfunnssentrert teknologi gjennom påverknadsarbeid, utdanning, finansiering og innovasjon — for å sørgje for at framtidas teknologi er god for alle. Men det er berre mogleg om vi gjer det saman.
 m24-home-were-proudly-nonprofit = Vi er stolte av å vere ein ideell organisasjon. Vil du donere til { -brand-name-mozilla } i dag?
 m24-home-donate = Doner
 
