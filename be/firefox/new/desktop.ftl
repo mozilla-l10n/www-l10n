@@ -111,6 +111,12 @@ firefox-desktop-download-from-security-to = Ад бяспекі да навін 
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } быў створаны <a { $attrs }>{ -brand-name-mozilla }</a> як больш хуткая, прыватная альтэрнатыва такім браўзерам, як { -brand-name-ie }, а цяпер { -brand-name-chrome }. Сёння наша скіраваная місіяй кампанія і добраахвотная супольнасць працягваюць ставіць вашу прыватнасць вышэй за ўсё.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Па меры росту і змянення Інтэрнэту { -brand-name-firefox } працягвае засяроджвацца на вашым праве на прыватнасць — гэта заўсёды было нашым прыярытэтам. Даведайцеся больш пра нашы практыкі апрацоўкі дадзеных у нашай <a { $attrs }>Палітыцы прыватнасці</a>.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } даступны на ўсіх вашых прыладах; вазьміце свае карткі, гісторыю і закладкі з сабой. Усё, што вам трэба, гэта <a { $attrs }>{ -brand-name-mozilla-account }</a>, і вы атрымаеце доступ да сінхранізацыі і іншых прадуктаў { -brand-name-mozilla }.
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Зрабіце відарыс з высокай разрознасцю з чаго заўгодна ў сеціве з дапамогай нашага інструмента для <a { $attrs }>здымкаў экрана</a>, убудаванага прама ў браўзер
 # Variables:
@@ -129,6 +135,8 @@ firefox-desktop-download-now-else = Цяпер скончыце <strong>ўста
 firefox-desktop-download-now-windows = Цяпер <strong>запусціце</strong> праграму ўсталявання, якая толькі што сцягнулася.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Цяпер <strong>адкрыйце</strong> файл, які толькі што сцягнуўся.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Выберыце варыянт <strong>сцягвання</strong> ніжэй
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Узніклі праблемы? <a { $attrs }>Атрымайце дапамогу па ўсталяванні</a>.

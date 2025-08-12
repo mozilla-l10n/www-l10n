@@ -14,6 +14,7 @@ newsletter-form-select-country-or-region = Выберыце краіну або 
 newsletter-form-select-language = Абраць мову
 newsletter-form-your-email-here = Адрас вашай э-пошты тут
 newsletter-form-get-firefox-news = Атрымліваць навіны { -brand-name-firefox }
+newsletter-form-join-the-community = Далучыцца да супольнасці
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Я згодны з тым, як { -brand-name-mozilla } звяртаецца з маімі дадзенымі згодна з <a href="{ $url }">гэтым паведамленнем аб прыватнасцi</a>
@@ -29,6 +30,8 @@ newsletter-form-thanks = Дзякуй!
 newsletter-form-leave-this-field-empty = Пакіньце гэта поле пустым.
 newsletter-form-yes = Так
 newsletter-form-no = Не
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Форма падпіскі на рассылку
 multi-newsletter-form-checkboxes-legend = Я хачу атрымліваць інфармацыю пра:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

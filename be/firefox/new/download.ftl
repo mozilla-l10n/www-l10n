@@ -3,9 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-# Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Сцягнуць { -brand-name-firefox }
@@ -31,6 +28,8 @@ firefox-new-your-firefox-new-should-begin = Ваша сцягванне пачн
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } - гэта больш, чым браўзер.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Сцягванне была перарвана. Але яшчэ не ўсё страчана.
+firefox-new-download-almost-there = Амаль гатова!
+firefox-new-download-select-linux = Выберыце варыянт сцягвання ніжэй
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Ваша сістэма можа не задавальняць патрабаванням { -brand-name-firefox }, але вы можаце паспрабаваць адну з <a href="{ $url }">гэтых версій</a>:
