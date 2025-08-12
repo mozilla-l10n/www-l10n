@@ -20,6 +20,7 @@ about-this-site-this-website = يَعمل الموقع الإلكتروني www.
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
 # Obsolete string (expires 28-11-2025)
 about-this-site-today = وفي الوقت الحالي، أصبح هذا هو الموقع الذي يأتي فيه الأشخاص لتحميل <a href="{ $firefox }">{ -brand-name-firefox }</a>، وتجربة <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>، والتعرّف على المزيد <a href="{ $mozilla }">عن { -brand-name-mozilla }</a>. يُمكنك أيضًا اكتشاف القليل من <a href="{ $book }">الروائع</a> على طول الطريق.
+about-this-site-today-v2 = اليوم، أصبح هذا الموقع هو المكان الذي يعرف فيه الناس المزيد <a href="{ $mozilla }">عن { -brand-name-mozilla }</a> ويجرّبون <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>. يُمكنك أيضًا اكتشاف <a href="{ $book }">القليل من الروائع</a> على طول الطريق.
 
 about-this-site-like-many = ومثل العديد من منتجاتنا، فإن هذا الموقع الموقع الإلكتروني مفتوح المصدر:
 about-this-site-view-source = عرض الكود المصدري على { -brand-name-github }
