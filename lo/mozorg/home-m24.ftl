@@ -5,6 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/
 
+# HTML Page title
+m24-home-page-title = ອິນເຕີເນັດສໍາລັບຄົນ, ບໍ່ແມ່ນກໍາໄລ — { -brand-name-mozilla }
+m24-home-page-title-v2 = { -brand-name-mozilla } — ອິນເຕີເນັດສໍາລັບຄົນ, ບໍ່ແມ່ນກໍາໄລ
+# HTML page description
+m24-home-page-desc = ເຈົ້າ​ຮູ້​ບໍ່? { -brand-name-mozilla } — ຜູ້ສ້າງ { -brand-name-firefox } — ຕໍ່ສູ້ເພື່ອຮັກສາອິນເຕີເນັດເປັນຊັບພະຍາກອນສາທາລະນະທົ່ວໂລກ, ເປີດ ແລະ ເຂົ້າເຖິງໄດ້ກັບທຸກຄົນ.
 m24-home-page-desc-v2 = ພວກ​ເຮົາ​ກໍາ​ລັງ​ເຮັດ​ວຽກ​ເພື່ອ​ໃຫ້​ການ​ຄວບ​ຄຸມ​ຂອງ​ອິນ​ເຕີ​ເນັດ​ກັບ​ຄືນ​ໄປ​ບ່ອນ​ຂອງ​ຄົນ​ທີ່​ໃຊ້​ມັນ​.
 
 ## Intro
