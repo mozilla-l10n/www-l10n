@@ -43,7 +43,7 @@ m24-home-donate-to-the = Adományozzon a { -brand-name-mozilla } nonprofit szerv
 m24-home-donate-to-v2 = Adományozzon a { -brand-name-mozilla-foundation }nak
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = A { -brand-name-mozilla } mozgalmat épít az internet visszaszerzésére. Együtt olyan jövőt építhetünk, ahol védik az adatvédelmét, a mesterséges intelligencia megbízható és a felelőtlen technológiai vállalatokat felelősségre vonják. De ez csak akkor lehetséges, ha együtt teszünk érte.
-m24-home-mozilla-foundation-is-building-v2 = A { -brand-name-mozilla-foundation } olyan jövőt épít, ahol a technológiát az emberek hajtják, és a nyitottság a tervezéstől függ. Ezért támogatjuk a közösségközpontú technológiát támogatáson, oktatáson, finanszírozáson és innováción keresztül – hogy a technológia jövője mindenki számára jó legyen. De ez csak akkor lehetséges, ha együtt tesszük.
+m24-home-mozilla-foundation-is-building-v2 = A { -brand-name-mozilla-foundation } olyan jövőt épít, amelyben a technológia az emberek által működtetett és nyílt. Ezért támogatjuk a közösségközpontú technológiát érdekképviselettel, oktatással, finanszírozással és innovációval, hogy a technológia jövője mindenki számára kedvező legyen. De ez csak akkor lehetséges, ha együtt dolgozunk.
 m24-home-were-proudly-nonprofit = Büszkén nonprofit szervezet vagyunk. Adományoz ma a { -brand-name-mozilla(ending: "accented") }nak?
 m24-home-donate = Adományozás
 
