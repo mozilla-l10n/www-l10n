@@ -20,6 +20,7 @@ about-this-site-this-website = ウェブサイト www.mozilla.org は、20 年�
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
 # Obsolete string (expires 28-11-2025)
 about-this-site-today = 今日では、<a href="{ $firefox }">{ -brand-name-firefox }</a> をダウンロードし、<a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> を試し、<a href="{ $mozilla }">{ -brand-name-mozilla }</a> について知るために訪問するサイトになっています。その際に<a href="{ $book }">イースターエッグ</a>を見つけることもできます。
+about-this-site-today-v2 = 今日では、<a href="{ $mozilla }">{ -brand-name-mozilla }</a> について知り、<a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> を試すために訪問するサイトになっています。その際に<a href="{ $book }">イースターエッグ</a>を見つけることもできます。
 
 about-this-site-like-many = Mozilla の多くの製品と同様に、このウェブサイトもオープンソースです。
 about-this-site-view-source = { -brand-name-github } でソースコードを見る

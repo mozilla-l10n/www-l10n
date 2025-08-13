@@ -44,6 +44,7 @@ m24-home-donate-to-the = Spende an die Non-Profit { -brand-name-mozilla }
 m24-home-donate-to-v2 = Spende an { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } schafft eine Bewegung, um das Internet wiederzugewinnen. Gemeinsam können wir eine Zukunft aufbauen, in der unsere Daten geschützt sind, in der KI vertrauenswürdig ist und unverantwortliche Tech-Unternehmen zur Verantwortung gezogen werden. Aber das geht nur, wenn wir alle an einem Strang ziehen.
+m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } gestaltet eine Zukunft, in der Technologie von Menschen vorangetrieben wird und die von Grund auf offen ist. Deshalb fördern wir gemeinschaftsorientierte Technologie durch Interessenvertretung, Bildung, Finanzierung und Innovation – damit die Zukunft der Technologie für alle Menschen positiv ist. Aber das geht nur, wenn wir alle an einem Strang ziehen.
 m24-home-were-proudly-nonprofit = Wir sind stolz darauf, Non-Profit zu sein. Kannst du heute an { -brand-name-mozilla } spenden?
 m24-home-donate = Spenden
 

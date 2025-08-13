@@ -44,6 +44,7 @@ m24-home-donate-to-the = Donasi ke organisasi nirlaba { -brand-name-mozilla }
 m24-home-donate-to-v2 = Donasi ke { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } membangun gerakan untuk merebut kembali kendali internet. Bersama, kita bisa menciptakan masa depan di mana privasi terlindungi, AI dapat dipercaya, dan perusahaan teknologi bertanggung jawab atas tindakan mereka. Namun, semua itu hanya bisa terwujud jika kita melakukannya bersama.
+m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } membangun masa depan di mana teknologi digerakkan oleh manusia dan dirancang secara terbuka. Itulah alasan kami mendukung teknologi yang berpusat pada komunitas melalui advokasi, edukasi, pendanaan, dan inovasi — untuk memastikan masa depan teknologi bermanfaat bagi semua orang. Namun, semua itu hanya bisa terwujud jika kita melakukannya bersama.
 m24-home-were-proudly-nonprofit = Kami bangga menjadi sebuah organisasi nirlaba. Apakah Anda akan berdonasi ke { -brand-name-mozilla } hari ini?
 m24-home-donate = Donasi
 
