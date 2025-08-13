@@ -44,6 +44,7 @@ m24-home-donate-to-the = 非営利団体 { -brand-name-mozilla } に寄付
 m24-home-donate-to-v2 = { -brand-name-mozilla-foundation } にご寄付ください
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } はインターネットを取り戻すための運動を展開しています。力を合わせれば、プライバシーが守られ、AI が信頼され、無責任なテクノロジー企業が責任を負う未来を築くことができます。そのためには、協力が必要です。
+m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } は、テクノロジーが人によって動かされ、オープンデザインを守る未来を築いています。そこで支援行動や教育、資金提供、イノベーションを通じて、コミュニティを中心としたテクノロジーに力を注いでいます。テクノロジーがあらゆる人にとって善となる未来にするために。そのためには、協力が必要です。
 m24-home-were-proudly-nonprofit = Mozilla は誇りを持つ非営利団体です。{ -brand-name-mozilla } に寄付していただけますか？
 m24-home-donate = 寄付する
 

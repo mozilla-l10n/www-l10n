@@ -26,6 +26,7 @@ footer-refresh-support = サポート
 footer-refresh-product-help = 製品ヘルプ
 footer-refresh-file-a-bug = バグを報告
 footer-refresh-localize-mozilla = { -brand-name-mozilla } をローカライズ
+footer-refresh-security = セキュリティ
 footer-refresh-developers = デベロッパー
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
