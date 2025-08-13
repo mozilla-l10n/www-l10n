@@ -44,6 +44,7 @@ m24-home-donate-to-the = Dermalah kepada organisasi bukan berasaskan keuntungan 
 m24-home-donate-to-v2 = Dermalah ke { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } sedang membangunkan satu pergerakan untuk menuntut semula internet. Bersama, kita mampu membina masa depan di mana privasi kita dilindungi, AI boleh dipercayai dan syarikat teknologi, dipertanggungjawabkan. Namun, ia mampu dicapai jika kita berpadu tenaga.
+m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } sedang membangunkan masa depan di mana teknologi dikuasakan oleh manusia dan diterokai oleh rekacipta. Itulah sebabnya kami memacu teknologi berteraskan komuniti menerusi advokasi, pendidikan, pembiayaan dan inovasi — demi memastikan masa depan teknologi memanfaatkan manusia sejagat. Namun, ia hanya mampu dicapai jika kita berpadu tenaga.
 m24-home-were-proudly-nonprofit = Dengan bangganya kami bukan berasaskan keuntungan. Anda mahu menderma kepada { -brand-name-mozilla } hari ini?
 m24-home-donate = Sumbangan
 
