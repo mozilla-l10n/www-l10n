@@ -20,6 +20,7 @@ about-this-site-this-website = Situs web www.mozilla.org telah daring selama leb
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
 # Obsolete string (expires 28-11-2025)
 about-this-site-today = Hari ini, pengguna mengunjungi situs ini untuk mengunduh <a href="{ $firefox }">{ -brand-name-firefox }</a>, mencoba <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>, dan mempelajari lebih lanjut <a href="{ $mozilla }">tentang { -brand-name-mozilla }</a>. Anda juga dapat menemukan sejumlah <a href="{ $book }">Fitur menarik</a> saat menjelajah.
+about-this-site-today-v2 = Hari ini, pengguna mengunjungi situs ini untuk mempelajari lebih lanjut <a href="{ $mozilla }">tentang { -brand-name-mozilla }</a> dan mencoba <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>. Anda juga dapat menemukan sejumlah <a href="{ $book }">Fitur menarik</a> saat menjelajah.
 
 about-this-site-like-many = Seperti produk kami yang lain, situs web ini juga menggunakan sistem sumber terbuka:
 about-this-site-view-source = Lihat kode sumbernya di { -brand-name-github }
