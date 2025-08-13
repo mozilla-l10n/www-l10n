@@ -40,8 +40,10 @@ m24-home-mask-your-email = Che giấu email và số điện thoại của bạn
 
 # Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Quyên góp cho tổ chức phi lợi nhuận { -brand-name-mozilla }
+m24-home-donate-to-v2 = Quyên góp cho { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } đang xây dựng một phong trào đòi lại internet. Cùng nhau, chúng ta có thể xây dựng một tương lai nơi quyền riêng tư của chúng ta được bảo vệ, AI đáng tin cậy và các công ty công nghệ vô trách nhiệm phải chịu trách nhiệm. Nhưng điều đó chỉ có thể thực hiện được nếu chúng ta cùng nhau làm điều đó.
+m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation }  xây dựng một tương lai nơi công nghệ được vận hành bởi con người và được thiết kế mở. Đó là lý do tại sao chúng tôi thúc đẩy công nghệ lấy cộng đồng làm trung tâm thông qua vận động, giáo dục, tài trợ và đổi mới — để đảm bảo tương lai của công nghệ mang lại lợi ích cho tất cả mọi người. Nhưng điều đó chỉ có thể thành hiện thực nếu chúng ta cùng nhau thực hiện.
 m24-home-were-proudly-nonprofit = Chúng tôi tự hào là phi lợi nhuận. Hôm nay bạn sẽ quyên góp cho { -brand-name-mozilla } chứ?
 m24-home-donate = Quyên góp
 
