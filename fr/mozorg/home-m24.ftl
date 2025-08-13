@@ -44,6 +44,7 @@ m24-home-donate-to-the = Faire un don à l’organisation à but non lucratif { 
 m24-home-donate-to-v2 = Faire un don à la { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } crée un mouvement pour reprendre le contrôle d’Internet. Ensemble, nous pouvons construire un futur dans lequel notre vie privée sera protégée, l’IA sera digne de confiance et les entreprises irresponsables du secteur de la tech seront mises face à leurs responsabilités. Mais tout ceci n’est possible que si nous unissons nos forces.
+m24-home-mozilla-foundation-is-building-v2 = La { -brand-name-mozilla-foundation } construit un futur dans lequel la technologie se focalise sur les individus et est ouverte par défaut. Nous soutenons les technologies centrées sur l’esprit de communauté par le biais d’actions militantes, de formations, de financements et d’innovations, pour nous assurer que l’avenir de la tech soit bénéfique pour tout le monde. Mais tout ceci n’est possible que si nous unissons nos forces.
 m24-home-were-proudly-nonprofit = Nous sommes fiers d’être une organisation à but non lucratif. Pouvez-vous faire un don à { -brand-name-mozilla } aujourd’hui ?
 m24-home-donate = Faire un don
 
