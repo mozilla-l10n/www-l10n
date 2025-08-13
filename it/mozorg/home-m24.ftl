@@ -43,7 +43,7 @@ m24-home-donate-to-the = Fai una donazione alla non-profit { -brand-name-mozilla
 m24-home-donate-to-v2 = Fai una donazione a { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } continua a lavorare alla creazione di un movimento per riprendere il controllo di Internet. Insieme possiamo costruire un futuro dove la nostra privacy è al sicuro, l’intelligenza artificiale è affidabile e le aziende tecnologiche negligenti sono chiamate a rispondere delle loro azioni. Ma possiamo farlo solo unendo le nostre forze.
-m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } sta lavorando alla creazione di un futuro in cui la tecnologia è guidata dalle persone e concepita per essere aperta. Per questo motivo, sosteniamo una tecnologia orientata alla comunità attraverso azioni di sensibilizzazione, formazione, finanziamento e innovazione, con l'obiettivo di assicurare che il futuro tecnologico sia a vantaggio di tutti. Tuttavia, questo può avvenire solo se lavoriamo insieme.
+m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } sta lavorando alla creazione di un futuro in cui la tecnologia è guidata dalle persone e concepita per essere aperta. Per questo motivo, sosteniamo una tecnologia orientata alla comunità attraverso azioni di sensibilizzazione, formazione, finanziamento e innovazione, con l’obiettivo di assicurare che il futuro tecnologico sia a vantaggio di tutti. Tuttavia, questo può avvenire solo se lavoriamo insieme.
 m24-home-were-proudly-nonprofit = Siamo orgogliosamente senza fini di lucro. Vuoi fare una donazione a { -brand-name-mozilla } oggi stesso?
 m24-home-donate = Fai una donazione
 
