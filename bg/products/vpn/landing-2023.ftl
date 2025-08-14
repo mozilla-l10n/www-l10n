@@ -55,3 +55,7 @@ vpn-landing-learn-more-from-our-experts = Научете повече от на�
 vpn-landing-do-you-need-a-vpn-at-home = Имате ли нужда от VPN у дома? Ето 5 причини да го направите.
 vpn-landing-what-is-an-ip-address = Какво е IP адрес?
 vpn-landing-how-your-location-is-tracked = Как се проследява местоположението ви и как можете да ограничите споделянето му
+vpn-landing-see-more-resources = Вижте още полезни материали
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }
