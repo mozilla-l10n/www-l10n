@@ -26,6 +26,8 @@ m24-about-fund = ກອງທຶນ
 m24-about-read-more = ອ່ານເພີ່ມເຕີມ
 m24-about-read-the-latest = ອ່ານຂ່າວ ແລະ ບົດຄວາມຫຼ້າສຸດຂອງ { -brand-name-mozilla }
 # Used as an accessible text alternative for an image
+m24-about-rise25-award = { -brand-name-rise25 } ຜູ້ຮັບຮາງວັນຊີ້ໄປທີ່ລາງວັນຂອງລາວ.
+# Used as an accessible text alternative for an image
 m24-about-chicago = ຜູ້ປະກອບການຢູ່ Chicago.
 
 ## Showcase
@@ -51,3 +53,5 @@ m24-about-see-open-positions = ເບິ່ງຕໍາແຫນ່ງທີ່�
 ## Community
 
 m24-about-community-love-v2 = ຄວາມ​ຮັກ​ຂອງ​ຊຸມ​ຊົນ​, ຜົນ​ບັງ​ຄັບ​ໃຊ້​ຂອງ​ພວກ​ເຮົາ​
+# Used as an accessible text alternative for an image
+m24-about-alt-community = ຄົນທີ່ມີກະເປົ໋າໂນດບຸກ ແລະ { -brand-name-mozilla } lanyard.
