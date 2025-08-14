@@ -66,3 +66,5 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-download-esr-115 = Сцягнуць ESR 115
+firefox-all-note-unsupported = Заўвага: Калі вы карыстаецеся Windows 7, Windows 8, Windows 8.1 або macOS 10.12, 10.13 ці 10.14, каб магчы выкарыстоўваць { -brand-name-firefox }, сцягніце версію ESR 115.
