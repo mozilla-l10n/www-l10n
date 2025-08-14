@@ -32,7 +32,7 @@ vpn-download-for-ios = VPN за { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Изтегляне на { -brand-name-mozilla-vpn } за { -brand-name-ios }
 vpn-download-based-on-your = Въз основа на текущото ви устройство
 vpn-download-get-mozilla-vpn = Вземете { -brand-name-mozilla-vpn }
-vpn-download-privacy-you-can = Поверителност, на която можете да се доверите
+vpn-download-privacy-you-can = Поверителност на която можете да се доверите
 vpn-download-also-available = Предлага се и за:
 # Variables:
 #   $url (url) - link to https://mullvad.net/help/why-wireguard/
