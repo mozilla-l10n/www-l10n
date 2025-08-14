@@ -34,9 +34,19 @@ firefox-all-64-bit-installers = 64-бітныя інсталятары
 firefox-all-choose-a-64-bit-installer = Выберыце 64-разрадную праграму ўстаноўкі для камп'ютараў з 64-разраднымі працэсарамі, якія дазваляюць размяркоўваць больш аператыўнай памяці для асобных праграм — гэта асабліва важна для гульняў і іншых патрабавальных праграм.
 firefox-all-32-bit-installers = 32-бітныя інсталятары
 firefox-all-microsoft-store-installers = Крама Microsoft
+firefox-all-choose-a-microsoft-store-installer = Гэты варыянт адкрые старонку прадукту { -brand-name-firefox } на вэб-партале Microsoft Store. Калі вы карыстаецеся Windows 10 або Windows 11, у вас будзе магчымасць адкрыць Microsoft Store з гэтай старонкі і ўсталяваць { -brand-name-firefox }. Калі вы ўсталёўваеце з Microsoft Store, абнаўленні для { -brand-name-firefox } таксама будуць ісці праз Microsoft Store. Ёсць невялікія адрозненні ў паводзінах і магчымасцях { -brand-name-firefox } пры ўсталяванні з Microsoft Store, але для большасці карыстальнікаў гэтыя адрозненні непрыкметныя.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Сцягнуць { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Мы знаходзімся ў пераходным перыядзе паміж асноўнымі версіямі ESR { $esr_next_major } і { $esr_current_major }.
+firefox-all-esr-when-there-is = Калі выходзіць буйное абнаўленне версіі, заўсёды ёсць перакрыццё некалькіх выпускаў { -brand-name-firefox-esr }, каб даць магчымасць тым, хто карыстаецца старой версіяй, падрыхтавацца да пераходу на новую.
+firefox-all-esr-if-you-choose = Калі вы вырашыце сцягнуць старую версію ESR, вы будзеце аўтаматычна абноўлены да новай пасля заканчэння пераходнага перыяду.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Даведайцеся больш пра <a { $attrs }>цыкл выпускаў { -brand-name-firefox-esr }</a>.
 firefox-all-check-the-system-requirements = Праверыць сістэмныя патрабаванні
 firefox-all-release-notes = Заўвагі пры выпуску
 firefox-all-source-code = Зыходны код
@@ -50,6 +60,8 @@ firefox-all-test-your-sites-against = Тэстуйце свае сайты на 
 firefox-all-count-on-stability-and = Разлічвайце на стабільнасць і прастату выкарыстання з гэтым браўзерам { -brand-name-firefox }, створаным для прадпрыемстваў.
 firefox-all-windows-installers-for = Windows-усталявальнікі для карпаратыўных ІТ, якія спрашчаюць наладку, разгортванне і кіраванне { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Усталявальнікі ARM64/AArch64
+firefox-all-arm64-installers-optimized-v2 = Усталёўшчыкі ARM64/AArch64, аптымізаваныя для ПК з Windows і Linux.
+firefox-all-testflight = Зарэгіструйцеся для тэставання { -brand-name-firefox } для iOS з дапамогай TestFlight
 firefox-all-product-send-link = Адпраўце спасылку для сцягвання на свой тэлефон
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -66,5 +78,6 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
 firefox-all-download-esr-115 = Сцягнуць ESR 115
 firefox-all-note-unsupported = Заўвага: Калі вы карыстаецеся Windows 7, Windows 8, Windows 8.1 або macOS 10.12, 10.13 ці 10.14, каб магчы выкарыстоўваць { -brand-name-firefox }, сцягніце версію ESR 115.
