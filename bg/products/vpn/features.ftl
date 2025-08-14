@@ -9,7 +9,7 @@ vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 # Line break for visual format only
 vpn-features-features-that-protect = Възможности, които защитават <br>онлайн живота ви
-vpn-features-convenient = Удобства
+vpn-features-convenient = Подходящ
 # Variables
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
@@ -23,8 +23,8 @@ vpn-features-see-our-list = Вижте нашия списък със сървъ
 #   $devices (number) - number of devices users can connect to VPN
 vpn-features-connect-up-to =
     { $devices ->
-        [one] Свържете до { $devices } устройствo
-       *[other] Свържете до { $devices } устройства
+        [one] Свързване на до { $devices } устройствo
+       *[other] Свързване на до  { $devices } устройства
     }
 vpn-features-supported-platforms = Поддържа се под операционни системи Windows, macOS, Android, iOS и Linux.
 vpn-features-no-bandwidth = Без ограничения на трафика или забавяне

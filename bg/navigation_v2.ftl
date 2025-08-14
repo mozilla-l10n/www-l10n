@@ -2,10 +2,4 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-
-### URL: https://www-dev.allizom.org/products/
-
-
-## VPN
-
-firefox-products-get-mozilla-vpn = Изтегляне на { -brand-name-mozilla-vpn }
+navigation-v2-get-mozilla-vpn = Изтегляне на { -brand-name-mozilla-vpn }

@@ -3,9 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/products/
+### URL: https://www-dev.allizom.org/firefox/welcome/14/
 
-
-## VPN
-
-firefox-products-get-mozilla-vpn = Изтегляне на { -brand-name-mozilla-vpn }
+welcome-page14-get-mozilla-vpn = Изтегляне на { -brand-name-mozilla-vpn }
