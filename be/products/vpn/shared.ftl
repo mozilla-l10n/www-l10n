@@ -52,9 +52,9 @@ vpn-shared-platfrom-why-choose = Чаму { -brand-name-mozilla-vpn }?
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Даведацца больш пра VPN
 vpn-subnav-download-mozilla-vpn = Сцягнуць { -brand-name-mozilla-vpn }
+vpn-subnav-features = Магчымасці
 
 ## Press quotations
 
-
-## Unsupported language notification
-
+# Section title for press quotations about Mozilla VPN
+vpn-press-as-seen-in = Пра нас пішуць
