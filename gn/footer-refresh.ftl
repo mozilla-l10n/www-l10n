@@ -26,6 +26,7 @@ footer-refresh-support = Ñepytyvõ
 footer-refresh-product-help = Apopyre ñepytyvõ
 footer-refresh-file-a-bug = Emomarandu jejavy
 footer-refresh-localize-mozilla = Emoñe’ẽasa { -brand-name-mozilla }
+footer-refresh-security = Tekorosã
 footer-refresh-developers = Mboguataha
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
