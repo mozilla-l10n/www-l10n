@@ -43,6 +43,7 @@ m24-home-donate-to-the = 비영리 단체 { -brand-name-mozilla }에 기부하�
 m24-home-donate-to-v2 = { -brand-name-mozilla-foundation }에 기부하세요.
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla }는 인터넷을 되찾기 위한 운동을 만들고 있습니다. 함께라면 개인정보가 보호되고, AI를 신뢰할 수 있고, 무책임한 기술 회사들이 책임을 지는 미래를 만들 수 있습니다. 하지만 그것은 함께 할 때에만 가능합니다.
+m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation }은 기술이 사람을 돕고 기본적으로 개방되어 있는 미래를 만들고 있습니다. 이것이 우리가 지지와 교육, 자금 지원, 혁신을 통해 커뮤니티 중심 기술에 에너지를 불어넣는 이유입니다. 그래야만 미래의 기술은 모든 사람에게 도움이 되어야 하기 때문입니다. 하지만 이는 우리가 함께 해야만 가능합니다.
 m24-home-were-proudly-nonprofit = 우리는 비영리임을 자랑스럽게 생각합니다. 오늘 { -brand-name-mozilla }에 기부하시겠습니까?
 m24-home-donate = 기부하기
 
