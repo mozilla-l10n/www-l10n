@@ -3,7 +3,9 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-refresh-leadership = Кіраўніцтва
+footer-refresh-mozilla-advertising = Рэклама { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Заўвагі да выпуску { -brand-name-firefox }
+footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Падпісацца на @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
