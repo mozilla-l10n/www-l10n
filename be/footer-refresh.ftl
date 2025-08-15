@@ -4,7 +4,10 @@
 
 footer-refresh-leadership = Кіраўніцтва
 footer-refresh-mozilla-advertising = Рэклама { -brand-name-mozilla }
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = Даведайцеся больш <span>пра { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Заўвагі да выпуску { -brand-name-firefox }
+footer-refresh-privacy-first = Рэкламныя рашэнні, якія ў першую чаргу забяспечваюць прыватнасць, для брэндаў, выдаўцоў і платформаў.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Падпісацца на @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
@@ -21,6 +24,7 @@ footer-refresh-support = Падтрымка
 footer-refresh-product-help = Даведка пра прадукт
 footer-refresh-file-a-bug = Паведаміць пра памылку
 footer-refresh-localize-mozilla = Лакалізаваць { -brand-name-mozilla }
+footer-refresh-security = Бяспека
 footer-refresh-developers = Распрацоўшчыкам
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
