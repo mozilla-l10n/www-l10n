@@ -32,26 +32,26 @@ privacy-faq-v2-wait-so-how = Moment, z čim da pjenjezy zaslužiće?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org
 privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } žana wšědna organizacija njeje. Jako projekt wotewrjeneho žórła zhromadźenstwa w lěće 1998 załoženy, je { -brand-name-mozilla } organizacija z misiju, kotraž za strowši internet dźěła. Wjetšina dochodow, kotrež předewzaće { -brand-name-mozilla-corporation } docpěwa, pochadźeja z płaćenjow přez partnerstwa webwobhladowaka { -brand-name-firefox } a rozdźělenskich dojednanjow z cyłeho swěta. Móžeće w našej <a { $attrs }>lětnej financnej rozprawje </a> wjace wo tym zhonić, kak pjenjezy zasłužimy.
-privacy-faq-v2-softballs = W porjadku, tute prašenja su jednore byli. Kotre daty zběraće?
+privacy-faq-v2-softballs = W porjadku, tute prašenja su jednore byli. Kotre daty hromadźiće?
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
-privacy-faq-v2-mozilla-does-collect = { -brand-name-mozilla } zběra po standardźe wobmjezowane mnóstwo datow z { -brand-name-firefox }, kotrež nam pomhaja, rozumić, kak ludźo wobhladowak wužiwaja. Móžeće w našej <a { $privacy }>zdźělence priwatnosće</a> wjace wo tym čitać, a čitajće <a { $data }>dospołnu dokumentaciju za zběranje datow</a>. Wozjewimy sowju dokumentaciju, zo by kóždy móže přepytać, zo to, štož prajimy, je wěrne, zdźělće nam, hač dyrbimy polěpšić a mějće dowěru, zo ničo njezatajamy.
-privacy-faq-v2-do-you-collect = Zběraće wjace datow w předwersijach { -brand-name-firefox }?
+privacy-faq-v2-mozilla-does-collect = { -brand-name-mozilla } po standardźe wobmjezowane mnóstwo datow z { -brand-name-firefox } hromadźi, kotrež nam pomhaja, rozumić, kak ludźo wobhladowak wužiwaja. Móžeće w našej <a { $privacy }>zdźělence priwatnosće</a> wjace wo tym čitać, a čitajće <a { $data }>dospołnu dokumentaciju za hromadźenje datow</a>. Wozjewimy swoju dokumentaciju, zo by kóždy móže přepytać, zo to, štož prajimy, je wěrne, zdźělće nam, hač dyrbimy polěpšić a mějće dowěru, zo ničo njezatajamy.
+privacy-faq-v2-do-you-collect = Hromadźiće wjace datow w předwersijach { -brand-name-firefox }?
 privacy-faq-v2-sort-of = We wěstym nastupanju. Přidatnje k datam, kotrež smy horjeka wopisali, dóstawamy w předwersijach { -brand-name-firefox } po standardźe rozprawy wo zmylkach a spadach.
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-v2-we-may-also = Móžemy tež dalše daty w předwersiji hromadźić, za jednu z našich <a { $attrs }>studijow</a>. Někotre studije na přikład tak mjenowane „přehladowanske daty“ trjebaja, ke kotrymž móža URL a druhe daty wo wěstych websydłach słušeć. To nam pomha, na wěste prašenja wotmołwić, zo bychmy { -brand-name-firefox } polěpšili, na přikład, kak dadźa so wěste woblubowane websydła do wěstych rěčnych wersijow integrować.
-privacy-faq-v2-mozilla-pre-release = Předwersije { -brand-name-mozilla } { -brand-name-firefox } su wuwiwanske platformy, kotrež so husto z eksperimentelnymi funkcijemi aktualizuja. Zběramy w předwersiji wjace datow hač w kónčnych wersijach, zo bychmy rozumili, kak tute eksperimentelne funkcije funguja. Móžeće zběranje tutych datow w nastajenjach znjemóžnić.
-privacy-faq-v2-but-why-do-you = Ale čehodla poprawom daty zběraće?
+privacy-faq-v2-mozilla-pre-release = Předwersije { -brand-name-mozilla } { -brand-name-firefox } su wuwiwanske platformy, kotrež so husto z eksperimentelnymi funkcijemi aktualizuja. Hromadźimy w předwersiji wjace datow hač w kónčnych wersijach, zo bychmy rozumili, kak tute eksperimentelne funkcije funguja. Móžeće hromadźenje tutych datow w nastajenjach znjemóžnić.
+privacy-faq-v2-but-why-do-you = Ale čehodla poprawom daty hromadźiće?
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
-privacy-faq-v2-if-we-dont-know = Jeli njewěmy, kak wobhladowak běži abo kotre funkcije ludźo wužiwaja, njemóžemy jón polěpšić a wam wulkotny produkt poskićić. Smy nastroje za zběranje a analyzowanje datow wuwili, kotrež nam zmóžnjeja, inteligentne rozsudy wo našim produkće činić a priwatnosć ludźi respektować. Móžeće wjace wo někotrych technologijach čitać, kotrež priwatnosć wobchowuja a kotrež wužiwamy, na přikład <a { $attrs }>OHTTP</a>.
-privacy-faq-v2-data-collection-bugs-me = Zběranje datow mi hišće wadźi. Mógu jo znjemóžnić?
+privacy-faq-v2-if-we-dont-know = Jeli njewěmy, kak wobhladowak běži abo kotre funkcije ludźo wužiwaja, njemóžemy jón polěpšić a wam wulkotny produkt poskićić. Smy nastroje za hromadźenje a analyzowanje datow wuwili, kotrež nam zmóžnjeja, inteligentne rozsudy wo našim produkće činić a priwatnosć ludźi respektować. Móžeće wjace wo někotrych technologijach čitać, kotrež priwatnosć wobchowuja a kotrež wužiwamy, na přikład <a { $attrs }>OHTTP</a>.
+privacy-faq-v2-data-collection-bugs-me = Hromadźenje datow mi hišće wadźi. Móžu jo znjemóžnić?
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 #   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
-privacy-faq-v2-yes-user-control = Haj. Kontrola přez wužiwarja je jedna z našich zasadow datoweje priwatnosće. Zwoprawdźamy to w { -brand-name-firefox } w našej <a { $privacy }>stronje nastajenjow priwatnosće</a>, kotrež jako zaběhowe městno za kóždeho słuži, kotryž chce swoju priwatnosć w { -brand-name-firefox } kontrolować. Móžeće tam <a { $data }>zběranje datow znjemóžnić</a>.
+privacy-faq-v2-yes-user-control = Haj. Kontrola přez wužiwarja je jedna z našich zasadow datoweje priwatnosće. Zwoprawdźamy to w { -brand-name-firefox } w našej <a { $privacy }>stronje nastajenjow priwatnosće</a>, kotrež jako zaběhowe městno za kóždeho słuži, kotryž chce swoju priwatnosć w { -brand-name-firefox } kontrolować. Móžeće tam <a { $data }>hromadźenje datow znjemóžnić</a>.
 privacy-faq-v2-what-about-my-account = Što je z mojimi kontowymi datami?
 privacy-faq-v2-we-are-big-believers = Dawamy wjele na miniměrowanje datow a njeprašamy so was za ničim, kotrež njetrjebamy.
 # Variables:

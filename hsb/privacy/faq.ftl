@@ -48,11 +48,11 @@ privacy-faq-we-may-also-collect-additional-v2 = Móžemy tež dalše daty w pře
 privacy-faq-mozillas-pre-release-versions = Předwersije { -brand-name-mozilla } { -brand-name-firefox } su wuwiwanske platformy, kotrež so husto z eksperimentelnymi funkcijemi aktualizuja. Hromadźimy w předwersiji wjace datow hač w kónčnych wersijach, zo bychmy rozumili, kak tute eksperimentelne funkcije funguja. Móžeće hromadźenje tutych datow w nastajenjach znjemóžnić.
 privacy-faq-but-why-do-you-collect-any-data = Ale čehodla poprawom daty hromadźiće?
 privacy-faq-if-we-dont-know-how-the-browser = Jeli njewěmy, kak wobhladowak běži abo kotre funkcije ludźo wužiwaja, njemóžemy jón polěpšić a wam wulkotny produkt poskićić. Smy nastroje za hromadźenje a analyzowanje datow wuwili, kotrež nam zmóžnjeja, inteligentne rozsudy wo našim produkće činić a priwatnosć ludźi respektować.
-privacy-faq-data-collection-still-bugs-me = Zběranje datow mi hišće wadźi. Mógu jo znjemóžnić?
+privacy-faq-data-collection-still-bugs-me = Hromadźenje datow mi hišće wadźi. Móžu jo znjemóžnić?
 # Variables:
 #   $settings (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 #   $data (url) - link to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
-privacy-faq-yes-user-control-is-one-of-our = Haj. Kontrola přez wužiwarja je jedna z našich zasadow datoweje priwatnosće. Zwoprawdźamy to w { -brand-name-firefox } w našej <a href="{ $settings }">stronje nastajenjow priwatnosće</a>, kotrež jako zaběhowe městno za kóždeho słuži, kotryž chce swoju priwatnosć w { -brand-name-firefox } kontrolować. Móžeće tam <a href="{ $data }">zběranje datow znjemóžnić</a>.
+privacy-faq-yes-user-control-is-one-of-our = Haj. Kontrola přez wužiwarja je jedna z našich zasadow datoweje priwatnosće. Zwoprawdźamy to w { -brand-name-firefox } w našej <a href="{ $settings }">stronje nastajenjow priwatnosće</a>, kotrež jako zaběhowe městno za kóždeho słuži, kotryž chce swoju priwatnosć w { -brand-name-firefox } kontrolować. Móžeće tam <a href="{ $data }">hromadźenje datow znjemóžnić</a>.
 privacy-faq-what-about-my-account-data = Što je z mojimi kontowymi datami?
 privacy-faq-we-are-big-believers-of-data = Dawamy wjele na miniměrowanje datow a njeprašamy so was za ničim, kotrež njetrjebamy.
 # Variables:
