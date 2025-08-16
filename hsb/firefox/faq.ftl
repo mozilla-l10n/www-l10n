@@ -48,7 +48,7 @@ is-firefox-safe = Je { -brand-name-firefox } wěsty?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/features/private/
 
-not-only-is = { -brand-name-firefox } njeje jenož wěsće wužiwajomny, ale tež pomha, waše a priwatne informacije wěste dźeržeć. { -brand-name-firefox-browser } awtomatisce znate přesćěhowaki třećich poskićowarjow, přesćěhowaki  socialnych medijow, kryptokopaki a porstowe ćišće při hromadźenju datow haći. <a href="{ $url }">Zhońće wjace wo priwatnosći w našich produktach.</a>
+not-only-is = { -brand-name-firefox } njeje jenož wěsće wužiwajomny, ale tež pomha, waše a priwatne informacije wěste dźeržeć. { -brand-name-firefox-browser } awtomatisce znate přesćěhowaki třećich poskićowarjow, přesćěhowaki  socialnych medijow, kryptokopaki a hromadźaki porstowych wotćišćow při hromadźenju datow haći. <a href="{ $url }">Zhońće wjace wo priwatnosći w našich produktach.</a>
 related-questions-safe = Podobne prašenja: Je { -brand-name-firefox } dobry za priwatnosć, je { -brand-name-firefox } wěsty, je { -brand-name-firefox } lěpši za priwatnosć
 
 # Variables:
