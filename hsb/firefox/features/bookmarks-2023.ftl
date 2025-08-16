@@ -13,7 +13,7 @@ bookmark-manager-organize-your-bookmarks-with = Organizujće swoje zapołožki z
 #   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
 bookmark-manager-bookmarks-are-links-you-save = Zapołožki su wotkazy, kotrež w swojim wobhladowaku składujeće, zo byšće so spěšnje a lochko k swojim najlubšim městnam w interneće dóstał. { -brand-name-firefox } zručny zrjadowak zapołožkow wobsahuje, zo byšće móhł <a { $sync }>wšě swoje składowane wotkazy na wšěch wašich gratach synchronizować</a>, organizować, přepytać a aktualizować.
 bookmark-manager-organize-your-boomarks-into = Organizujće swoje zapołožki w přepytujomnych rjadowakach
-bookmark-manager-collect-your-bookmarks-in-folders = Zběrajće swoje zapołožki w rjadowakach a přidajće jim znački z dalšimi podrobnosćemi. Móžeće tež swoje zapołožki sortěrować, zo byšće te zapołožki spěšnje namakał, kotrež trjebaće.
+bookmark-manager-collect-your-bookmarks-in-folders = Hromadźće swoje zapołožki w rjadowakach a přidajće jim znački z dalšimi podrobnosćemi. Móžeće tež swoje zapołožki sortěrować, zo byšće te zapołožki spěšnje namakał, kotrež trjebaće.
 bookmark-manager-easily-import-bookmarks = Zapołožki lochko importować
 bookmark-manager-you-can-import-your-bookmarks = Móžeće swoje zapołožki z Chrome, Safari abo Edge z importowym asistentom { -brand-name-firefox } importować. Klikńće prosće na Zapołožki > Zapołožki rjadować a wubjerće potom „Importować a zawěsćić“.
 # Used as an accessible text alternative for an image

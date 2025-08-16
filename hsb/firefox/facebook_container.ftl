@@ -24,7 +24,7 @@ facebook-container-facebook-can-track-almost = { -brand-name-facebook } móže n
 facebook-container-install-and-contain = Instalować a w šachu dźeržeć
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-installing-the-extension-is = Instalowanje <a href="{ $fbcontainer }">rozšěrjenja</a> je lochke a, hdyž je zmóžnjene, budźe so { -brand-name-facebook } kóždy raz, hdyž jón wužiwaće, w módrym rajtarku wočinjeć. Wužiwajće { -brand-name-facebook } cyle normalnje. { -brand-name-facebook } móže wam dale wabjenje a doporučenja na swójim websydle pósłać, ale budźe wjele ćeśo za { -brand-name-facebook }, wašu <strong>zwonka { -brand-name-facebook }a</strong> zběranu aktiwitu wužiwać, wam wabjenje a druhe wusměrjene powěsće słać.
+facebook-container-installing-the-extension-is = Instalowanje <a href="{ $fbcontainer }">rozšěrjenja</a> je lochke a, hdyž je zmóžnjene, budźe so { -brand-name-facebook } kóždy raz, hdyž jón wužiwaće, w módrym rajtarku wočinjeć. Wužiwajće { -brand-name-facebook } cyle normalnje. { -brand-name-facebook } móže wam dale wabjenje a doporučenja na swójim websydle pósłać, ale budźe wjele ćeśo za { -brand-name-facebook }, wašu <strong>zwonka { -brand-name-facebook }a</strong> zhromadźenu aktiwitu wužiwać, wam wabjenje a druhe wusměrjene powěsće słać.
 facebook-container-about-firefox-and-mozilla = Wo { -brand-name-firefox } a { -brand-name-mozilla }
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/
