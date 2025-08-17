@@ -40,8 +40,10 @@ m24-home-mask-your-email = Zamaskujte svoj e‑mail a telefónne číslo, aby st
 
 # Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Prispejte neziskovej organizácii { -brand-name-mozilla }
+m24-home-donate-to-v2 = Prispejte { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } buduje hnutie za znovuzískanie internetu. Spoločne môžeme vybudovať budúcnosť, v ktorej bude naše súkromie chránené, AI dôveryhodná a nezodpovedné technologické spoločnosti budú brané na zodpovednosť. Ale to je možné len vtedy, ak to urobíme spoločne.
+m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } buduje budúcnosť, v ktorej technológie poháňajú ľudia a sú otvorené už od začiatku. Preto podporujeme technológie zamerané na komunitu prostredníctvom obhajoby, vzdelávania, financovania a inovácií – aby sme zabezpečili, že budúcnosť technológií bude dobrá pre všetkých. To je však možné len vtedy, ak to urobíme spoločne.
 m24-home-were-proudly-nonprofit = Sme hrdí na to, že sme neziskoví. Prispejete dnes { -brand-name-mozilla(case: "dat") }?
 m24-home-donate = Prispieť
 
