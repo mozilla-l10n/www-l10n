@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Всеки заслужава достъп до интернет - вашият език никога не трябва да бъде пречка. Ето защо — с помощта на всеотдайни доброволци по целия свят — правим { -brand-name-firefox } достъпен на повече от 90 езика.
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Получете помощ
 firefox-all-lang-multi = Множество езици
