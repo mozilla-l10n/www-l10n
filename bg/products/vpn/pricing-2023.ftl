@@ -7,3 +7,11 @@
 
 # Pricing section
 vpn-pricing-included-in-subscription = Какво е включено в абонамента:
+# Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to =
+    { $devices ->
+        [one] Свързване на до { $devices } устройство
+       *[other] Свързване на до { $devices } устройства
+    }
+vpn-pricing-money-back = 30-дневна гаранция за връщане на парите (само за клиенти за първи път)
