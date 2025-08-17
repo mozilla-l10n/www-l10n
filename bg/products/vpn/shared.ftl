@@ -18,7 +18,7 @@ vpn-shared-wireguard-copyright = { -brand-name-wireguard } е регистрир
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
-vpn-shared-pricing-recommended-offer = Препоръчани
+vpn-shared-pricing-recommended-offer = Препоръчанo
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/месечно</span>
@@ -61,3 +61,19 @@ vpn-subnav-features = Възможности
 
 # Section title for press quotations about Mozilla VPN
 vpn-press-as-seen-in = Споменато в
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = „VPN на { -brand-name-mozilla } може също <a { $attrs }>да се интегрира в някои добри функции за защита на поверителността</a> на неговия четец { -brand-name-firefox }.“
+vpn-press-unique-features-like-its-multi-account = „…уникални функции, като контейнерите за няколко профила, могат да направят функцията лесно достъпна за потребители с по-сериозни проблеми с поверителността.“
+vpn-press-mozilla-vpns-feature-list-has-grown = „Списъкът с възможноти на { -brand-name-mozilla-vpn } нарасна значително от пускането му и сега услугата изпреварва много специализирани VPN в някои области.“
+
+## Unsupported language notification
+
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = В момента { -brand-name-mozilla-vpn } не се предлага на { $language }, но можете да го използвате на английски, френски, немски, испански и <a { $href }>над 30 други езика</a> .
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = Искате ли да помогнете за достигането на { -brand-name-mozilla-vpn } до повече хора? <a { $href }>Станете доброволен преводач</a>.

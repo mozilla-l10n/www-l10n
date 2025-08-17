@@ -28,8 +28,8 @@ vpn-landing-features = Възможности
 #   $devices (number) - number of devices users can connect to VPN
 vpn-landing-connect-up-to-devices =
     { $devices ->
-        [one] Свържване на { $devices } устройство
-       *[other] Свържване на до { $devices } устройства
+        [one] Свързване на { $devices } устройство
+       *[other] Свързване на до { $devices } устройства
     }
 # Variables:
 #   $servers (number) - number of VPN servers
