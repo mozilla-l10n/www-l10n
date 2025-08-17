@@ -98,7 +98,7 @@
 
 ## Firefox projects
 
--brand-name-firefox-labs = Firefox-ცდები
+-brand-name-firefox-labs = Firefox-საცდეო
 
 ## Pocket
 
