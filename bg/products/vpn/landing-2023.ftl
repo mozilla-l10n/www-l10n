@@ -36,8 +36,8 @@ vpn-landing-connect-up-to-devices =
 #   $countries (number) - number of available countries
 vpn-landing-more-than-servers-in-countries =
     { $servers ->
-        [one] Изполване на повече от { $servers } сървър в { $countries }+ държави
-       *[other] Изполване на повече от { $servers } сървъра в { $countries }+ държави
+        [one] Използване на повече от { $servers } сървър в { $countries }+ държави
+       *[other] Използване на повече от { $servers } сървъра в { $countries }+ държави
     }
 vpn-landing-fast-network-speeds-even-while = Високи мрежови скорости дори по време на игри
 vpn-landing-no-logging-tracking-or-sharing = Без регистриране, проследяване или споделяне на мрежовите ви данни
