@@ -11,6 +11,9 @@ privacy-faq-v2-title = { -brand-name-mozilla }s FAQ om data og privatliv
 privacy-faq-v2-desc = Hos { -brand-name-mozilla } respekterer og beskytter vi dine personlige informationer.
 privacy-faq-v2-heading = Vi står for mennesker frem for profit.
 privacy-faq-v2-at-mozilla = Hos { -brand-name-mozilla } respekterer og beskytter vi dine personlige informationer:
+# Variables:
+#   $attrs (url) - link to https://www.mozilla.org/privacy/principles/
+privacy-faq-v2-we-follow = Vi følger et sæt <a { $attrs }>principper for databeskyttelse</a>, der danner rammen for vores tilgang til privatliv i { -brand-name-firefox } til computere og mobile enheder.
 privacy-faq-v2-we-strive-collect-data = Vi bestræber os på kun at indsamle de data, vi behøver for at kunne lave de bedste produkter.
 privacy-faq-v2-we-work-to = Vi arbejder for at give folk kontrol over deres data og oplevelser på nettet.
 privacy-faq-v2-following-questions = De følgende spørgsmål og svar vil hjælpe dig med at forstå, hvad du kan forvente af { -brand-name-mozilla } og { -brand-name-firefox }:
