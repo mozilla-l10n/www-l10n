@@ -34,6 +34,7 @@ m24-home-mask-your-email = ໃສ່ການເຊື່ອງອີເມວ �
 
 # Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = ບໍລິຈາກໃຫ້ກັບ { -brand-name-mozilla } ທີ່ບໍ່ຫວັງຜົນກຳໄລ
+m24-home-donate-to-v2 = ບໍລິຈາກໃຫ້ { -brand-name-mozilla-foundation }
 m24-home-donate = ບໍລິຈາກ
 
 ## AI gallery
@@ -61,6 +62,7 @@ m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = ຄົ້ນຫາ LLM ທີ່ເຫມາະສົມສໍາລັບຄວາມຕ້ອງການ, ກໍລະນີການນໍາໃຊ້ ແລະ ຂໍ້ມູນຂອງທ່ານ.
 m24-home-can-ai-be = AI ສາມາດເຊື່ອຖືໄດ້ບໍ?
 m24-home-watch-now = ເບິ່ງດຽວນີ້
+m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-donate-your-voice = ບໍລິຈາກສຽງຂອງທ່ານ
 
 ## Media Springboard
