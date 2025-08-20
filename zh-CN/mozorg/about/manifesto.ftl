@@ -55,11 +55,13 @@ manifesto-details-as-a-result-of = 通过共同努力，我们总结出一系列
 manifesto-details-the-goals-for = 此宣言的目的是
 # Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = 清晰的展示 { -brand-name-mozilla } 参与者期望 { -brand-name-mozilla-foundation }追求的互联网未来的发展前景；
+manifesto-details-articulate-a-vision-v2 = 阐明 { -brand-name-mozilla } 名参与者希望 { -brand-name-mozilla-foundation } 追求的互联网愿景
 manifesto-details-speak-to-people = 与无论是否具有技术背景的群体沟通；
 manifesto-details-make-mozilla-contributors = 使 { -brand-name-mozilla } 的贡献者们能以我们的行动为荣，并激励我们继续努力；同时
 manifesto-details-provide-a-framework = 为他人提供一个框架以便推动互联网的发展前景。
 # Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = 这些准则需要大家的共同努力得以实现。互联网的开放和参与需要大家的个人贡献、团队协作并发挥领导作用。{ -brand-name-mozilla-foundation }承诺推行 { -brand-name-mozilla }  宣言里制定的准则。我们邀请更多的同仁加入我们，共同奋斗使互联网变得更好。
+manifesto-details-these-principles-v2 = 这些准则不会自行实现。让互联网变得开放、更具参与性离不开人们的力量——人们可以作为个体行动、分组工作以及领导他人。 { -brand-name-mozilla-foundation } 致力于推行 { -brand-name-mozilla } 宣言中阐明的准则。我们邀请更多人加入我们为让互联网对每个人都变得更美好而共同努力。
 manifesto-details-principles = 准则
 manifesto-details-the-internet-is-integral = 互联网是现代生活不可分割的一部分，是教育，交流，合作，商业，娱乐，以及整体社会的关键组成部分。
 manifesto-details-the-internet-is-global = 互联网是全球公共资源，必须保证开放性和可用性。
@@ -76,6 +78,7 @@ manifesto-details-there-are-many = 推行 { -brand-name-mozilla } 宣言里的�
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation }的承诺
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation }承诺支持 { -brand-name-mozilla } 宣言。具体地，我们将会：
+manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation } 宣誓支持 { -brand-name-mozilla } 宣言的活动。具体来说我们将
 manifesto-details-build-and-enable = 建立和支持符合宣言准则的开放源码技术和社区；
 manifesto-details-build-and-deliver = 开发符合宣言准则的优秀消费类产品；
 manifesto-details-use-the-mozilla = 利用 { -brand-name-mozilla } 的资产（诸如版权和商标的知识产权、基础设施、资金和声誉等）使互联网保持为开放的平台；
@@ -83,6 +86,8 @@ manifesto-details-promote-models = 提倡为公共利益创造经济价值的模
 manifesto-details-promote-the-mozilla = 并且在公共言论中和互联网业界推广 { -brand-name-mozilla } 宣言。
 # Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = { -brand-name-mozilla-foundation }的部分活动，目前包括消费类产品的研发、传递和推广，主要通过基金会全资子公司 { -brand-name-mozilla-corporation } 进行。
+manifesto-details-some-foundation-v2 = 一些基金会活动——目前是消费类产品的创造、传递和推广——主要通过 { -brand-name-mozilla-foundation } 的全资子公司 { -brand-name-mozilla-corporation } 进行。
 manifesto-details-invitation = 邀请
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation }邀请所有支持 { -brand-name-mozilla } 宣言准则的同仁一同探索新道路，将宣言里对互联网的构想变为现实。
+manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } 邀请所有支持{ -brand-name-mozilla } 宣言准则的同仁一同探索新道路将宣言里对互联网的构想变为现实。

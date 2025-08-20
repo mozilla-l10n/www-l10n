@@ -55,11 +55,13 @@ manifesto-details-as-a-result-of = ამ ძალისხმევის შ�
 manifesto-details-the-goals-for = ამ წერილობითი დოკუმენტის მიზანია:
 # Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = ინტერნეტის მომავლის შესახებ { -brand-name-mozilla } პროექტის მონაწილეების იმ ხედვის ნათლად ჩამოყალიბება, რომლის განხორციელებისკენაც უნდა ისწრაფვოდეს { -brand-name-mozilla-foundation };
+manifesto-details-articulate-a-vision-v2 = ინტერნეტის ხედვის ჩამოყალიბება, რომლის განხორციელებაც { -brand-name-mozilla } მონაწილეს უნდა, რომ { -brand-name-mozilla-foundation } განხორციელდეს;
 manifesto-details-speak-to-people = ხალხისთვის ინფორმაციის მიწოდება, მიუხედავად მათი ცოდნისა და გამოცდილებისა ტექნიკურ სფეროში;
 manifesto-details-make-mozilla-contributors = რომ { -brand-name-mozilla }-ს მონაწილეებმა და მოხალისეებმა იამაყონ ჩვენი საქმიანობით, რაც მეტ მოტივაციას შეგვმატებს;
 manifesto-details-provide-a-framework = და შევთავაზოთ სხვებს სამუშაო პირობები, ინტერნეტის მიმართ ამგვარი ხედვისა ცხოვრებაში გასატარებლად.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = ეს დებულებები თავისით არ შესრულდება. ინტერნეტის გახსნილობისა და საჯაროობის უზრუნველსაყოფად ხალხია საჭირო - ხალხი, რომელიც იმუშავებს დამოუკიდებლად, ჯგუფურად და გაუძღვება სხვებს. { -brand-name-mozilla-foundation } მტკიცედ ცდილობს { -brand-name-mozilla }-ს პრინციპების ხელშეწყობასა და მხარდაჭერას. ჩვენ ვიწვევთ ყველას, რომ შემოგვიერთდნენ და ერთად გავხადოთ ინტერნეტი უკეთესი და სასარგებლო, თითოეული ჩვენგანისთვის.
+manifesto-details-these-principles-v2 = ეს დებულებები თავისით არ ასრულდება. ხალხია საჭირო, ინტერნეტის გახსნილობისა და ჩართულობისთვის – ადამიანები, რომლებიც მოქმედებენ როგორც ცალკეული, ჯგუფურად და ხელმძღვანელობენ სხვებს. { -brand-name-mozilla-foundation } მზადაა, დაიცვას { -brand-name-mozilla }-ის ძირითადი დებულებებით განსაზღვრული პრინციპები. ჩვენ ვიწვევთ სხვებსაც, შემოგვიერთდნენ და ინტერნეტი გავხადოთ უკეთესი ადგილი ყველასთვის.
 manifesto-details-principles = დებულებები
 manifesto-details-the-internet-is-integral = ინტერნეტი არის თანამედროვე ცხოვრების განუყოფელი ნაწილი — მთავარი შემადგენელი განათლების, ურთიერთობის, თანამშრომლობის, საქმიანობის, გართობისა და მთლიანად საზოგადოებრივი ცხოვრების.
 manifesto-details-the-internet-is-global = ინტერნეტი საერთაშორისო საჯარო რესურსია, რომელიც უნდა დარჩეს გახსნილი და საყოველთაოდ ხელმისაწვდომი.
@@ -76,6 +78,7 @@ manifesto-details-there-are-many = ამ დებულებების ც�
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } – პირობა
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } იღებს ნებაყოფლობით ვალდებულებას მხარი დაუჭიროს თავისი საქმიანობით { -brand-name-mozilla }-ის პრიციპების შესრულებას. კონკრეტულად, ჩვენ:
+manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation } იღებს ვალდებულებას მხარი დაუჭიროს { -brand-name-mozilla }-ის დებულებას თავის საქმიანობაში. კონკრეტულად, ჩვენ მოგიწევთ:
 manifesto-details-build-and-enable = ვქმნით და ხელს ვუწყობთ ღია წყაროს ტექნოლოგიებსა და საზოგადოებებს, რომლებსაც წვლილი შეაქვს მოცემული დებულებების განხორციელებაში;
 manifesto-details-build-and-deliver = ვქმნით და ვაწვდით მომხმარებლებს მაღალი ხარისხის პროდუქტებს, რომელიც ასევე მხარს უჭერს, მოცემულ დებულებებს;
 manifesto-details-use-the-mozilla = ვიყენებთ { -brand-name-mozilla }-ს ფასეულობებს (ინტელექტუალურ საკუთრებას, საავტორო უფლებებს, სავაჭრო ნიშნებს, კაპიტალს, ფონდებს, რეპუტაციას), ინტერნეტის გახსნილობის შესანარჩუნებლად;
@@ -83,6 +86,8 @@ manifesto-details-promote-models = ვცდილობთ ეკონომ�
 manifesto-details-promote-the-mozilla = { -brand-name-mozilla }-ს მოცემული დებულებების მხარდაჭერას, საზოგადოებრივ ცხოვრებასა და ინტერნეტსივრცეში.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = საქმიანობის ზოგიერთ არეალს — მათ შორის სამომხმარებლო პროდუქტების შექმნას, მიწოდებასა და ხელშეწყობას — ძირითად მიმართულებად განიხილავს { -brand-name-mozilla-foundation }, რომლის შვილობილიცაა { -brand-name-mozilla-corporation }.
+manifesto-details-some-foundation-v2 = ფონდის ზოგიერთი საქმიანობა — ამჟამად სამომხმარებლო პროდუქტების შექმნა, მიწოდება და ხელშეწყობა — მიმდინარეობს { -brand-name-mozilla-foundation }-ის სრული შვილობილი კომპანიის, { -brand-name-mozilla-corporation }-ის მეშვეობით.
 manifesto-details-invitation = მოწვევა
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } იწვევს ყველას, ვისაც სურს ზემოთ { -brand-name-mozilla }-ს დებულებების მხარდაჭერა და ახალი გზების შემუშავებაში დახმარება, ინტერნეტის მიმართ ამგვარი ხედვის ხორცშესხმისთვის.
+manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } იწვევს ყველას, ვინც მხარს უჭერს { -brand-name-mozilla } დებულებების დებულებებს, შემოგვიერთდნენ და მოიძიონ ახალი გზები, ინტერნეტის მიმართ ამ ხედვის რეალიზაციისთვის.

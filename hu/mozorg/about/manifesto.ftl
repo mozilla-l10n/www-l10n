@@ -55,11 +55,13 @@ manifesto-details-as-a-result-of = Ezek eredményeképpen lefektettünk néhány
 manifesto-details-the-goals-for = A Kiáltvány céljai a következők:
 # Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = alakítson ki egy olyan elképzelést az internettel kapcsolatban, amelyet a { -brand-name-mozilla } projektben közreműködők szeretnék, hogy a { -brand-name-mozilla-foundation } végrehajtson;
+manifesto-details-articulate-a-vision-v2 = alakítson ki egy olyan internetes víziót, amelyet { -brand-name-mozilla } résztvevő szeretnék, hogy a { -brand-name-mozilla-foundation } kövessen;
 manifesto-details-speak-to-people = szóljon az emberekhez, függetlenül attól, hogy azok rendelkeznek-e műszaki szakismeretekkel;
 manifesto-details-make-mozilla-contributors = a { -brand-name-mozilla } projektben résztvevők legyenek büszkék arra, amit csinálunk, és motiváljon minket munkánk folytatására; valamint
 manifesto-details-provide-a-framework = keretet biztosítson más emberek számára, akik tovább kívánják gondolni ezt az internettel kapcsolatos elképzelést
 # Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Ezek az elképzelések nem fognak maguktól megvalósulni. Emberekre van szükség, hogy az internet nyílt és részvételen alapuló legyen – emberekre, akik egyénenként cselekednek, csoportokban dolgoznak együtt, illetve vezetik a többieket. A { -brand-name-mozilla-foundation } elkötelezett amellett, hogy a { -brand-name-mozilla } Kiáltványban rögzített irányelvek mentén halad. Szeretnénk meghívni másokat, hogy csatlakozzanak hozzánk, hogy az internet egyre jobb hely legyen mindenki számára.
+manifesto-details-these-principles-v2 = Ezek az alapelvek nem fognak maguktól életre kelni. Emberekre van szükség, hogy az internet nyílt és részvételen alapuló legyen – emberekre, akik egyénenként cselekednek, csoportokban együtt dolgoznak, és vezetik másokat. A { -brand-name-mozilla-foundation } elkötelezett amellett, hogy a(z) { -brand-name-mozilla } Kiáltványban rögzített irányelvek mentén halad. Arra meghívunk másokat, hogy csatlakozzanak hozzánk, és tegyék az internetet egyre jobb hellyé mindenki számára.
 manifesto-details-principles = Alapelvek
 manifesto-details-the-internet-is-integral = Az internet a modern élet szerves része – kulcsfontosságú szerepe van az oktatásban kommunikációban, együttműködésben, üzleti életben, szórakozásban és társadalom egészére nézve.
 manifesto-details-the-internet-is-global = Az internet a globális közjavak részét képezi, így hozzáférhetőnek és nyitottnak kell maradnia.
@@ -76,6 +78,7 @@ manifesto-details-there-are-many = A { -brand-name-mozilla } Kiáltvány alapelv
 manifesto-details-mozilla-foundation = A { -brand-name-mozilla-foundation } elkötelezettsége
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = A { -brand-name-mozilla-foundation } elkötelezi magát, hogy tevékenységével támogatja a { -brand-name-mozilla } Kiáltványt. Pontosabban:
+manifesto-details-the-mozilla-foundation-pleges-v2 = A { -brand-name-mozilla-foundation } elkötelezi magát, hogy tevékenységével támogatja a(z) { -brand-name-mozilla } Kiáltványt. Pontosabban a következőket fogjuk:
 manifesto-details-build-and-enable = létrehoz és elérhetővé tesz nyílt forrású technológiákat és közösségeket, amelyek támogatják a Kiáltvány alapelveit;
 manifesto-details-build-and-deliver = létrehoz és megjelentet olyan termékeket, amelyek támogatják a Mozilla Kiáltvány alapelveit;
 manifesto-details-use-the-mozilla = felhasználja a { -brand-name-mozilla } eszközeit (szellemi tulajdonát, mint amilyen a szerzői jogok és védjegyek, infrastruktúráját, pénzét és hírnevét), hogy az internet nyílt platform maradjon
@@ -83,6 +86,8 @@ manifesto-details-promote-models = népszerűsíti a közhasznú tulajdon gazdas
 manifesto-details-promote-the-mozilla = népszerűsíti a { -brand-name-mozilla } Kiáltvány alapelveit a közbeszédben és az internetes iparágban.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Néhány alapítványi tevékenységet – jelenleg a termékek létrehozását és megjelentetését – elsősorban a { -brand-name-mozilla-foundation } 100%-os tulajdonában levő leányvállalat, a { -brand-name-mozilla-corporation } végez.
+manifesto-details-some-foundation-v2 = Néhány alapítványi tevékenységet – jelenleg a fogyasztási cikkek létrehozása, szállítása és népszerűsítése – elsősorban { -brand-name-mozilla-foundation } 100%-os tulajdonában lévő leányvállalat, a(z) { -brand-name-mozilla-corporation } végez.
 manifesto-details-invitation = Felhívás
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = A { -brand-name-mozilla-foundation } felkéri mindazokat, akik támogatják a { -brand-name-mozilla } Kiáltvány alapelveit, hogy csatlakozzanak hozzánk, és találjanak új utakat ahhoz, hogy az internettel kapcsolatos elképzelésünkből valóság legyen.
+manifesto-details-the-mozilla-foundation-invites-v2 = A { -brand-name-mozilla-foundation } felkéri mindazokat, akik támogatják a { -brand-name-mozilla } Kiáltvány alapelveit, hogy csatlakozzanak hozzánk, és találjanak új utakat ahhoz, hogy az internettel kapcsolatos elképzelésünkből valóság legyen.

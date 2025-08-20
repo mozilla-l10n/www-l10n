@@ -55,11 +55,13 @@ manifesto-details-as-a-result-of = Jako výsledek těchto snah jsme vytvořili s
 manifesto-details-the-goals-for = Cíle Manifestu jsou následující:
 # Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = komunikovat vize internetu, které by podle přispěvatelů { -brand-name-mozilla(case: "gen") } měla { -brand-name-mozilla-foundation } plnit;
+manifesto-details-articulate-a-vision-v2 = zformulovat vizi internetu, které by { -brand-name-mozilla } účastníků mělo v rámci programu { -brand-name-mozilla-foundation } pokračovat;
 manifesto-details-speak-to-people = hovořit s lidmi bez ohledu na jejich technické znalosti a dovednosti;
 manifesto-details-make-mozilla-contributors = činit přispěvatele { -brand-name-mozilla(case: "gen") } pyšnými na to, co děláme, a motivovat je k další součinnosti; a
 manifesto-details-provide-a-framework = vytvořit strukturu pro ostatní lidi, aby šířili naši vizi internetu.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Tyto principy nezačnou fungovat samy od sebe. Lidé potřebují mít otevřený internet a být jeho součástí – jednotlivci, kolektivy, lidé ve vedoucím postavení. { -brand-name-mozilla-foundation } se snaží šířit principy ustavené v Manifestu { -brand-name-mozilla(case: "gen") }. Zveme ostatní, aby se k nám přidali a udělali z internetu lepší místo pro všechny.
+manifesto-details-these-principles-v2 = Tyto principy nevstoupí v život samy od sebe. Aby byl internet otevřený a participativní, jsou potřeba lidé - lidé jednající jako jednotlivci, pracující ve skupinách a vedoucí ostatní. { -brand-name-mozilla-foundation } je odhodlán prosazovat principy stanovené v { -brand-name-mozilla } Manifestu. Zveme ostatní, aby se k nám připojili a udělali z internetu stále lepší místo pro všechny.
 manifesto-details-principles = Principy
 manifesto-details-the-internet-is-integral = Internet je nedílnou součástí moderního života – klíčovým prvkem vzdělávání, komunikace, spolupráce, obchodu, zábavy a společnosti jako takové.
 manifesto-details-the-internet-is-global = Internet je globální veřejný zdroj, který musí zůstat otevřený a přístupný.
@@ -76,6 +78,7 @@ manifesto-details-there-are-many = Existuje mnoho rozličných způsobů šíře
 manifesto-details-mozilla-foundation = Závazky { -brand-name-mozilla-foundation(case: "gen") }
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } se zavazuje podporovat Manifest { -brand-name-mozilla(case: "gen") } a jeho aktivity. Konkrétně budeme:
+manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation } se zavazuje podporovat Manifest { -brand-name-mozilla } a jeho aktivity. Konkrétně budeme:
 manifesto-details-build-and-enable = budovat a podporovat open-source technologie a komunity podporující principy Manifestu;
 manifesto-details-build-and-deliver = budovat a šířit produkty podporující principy Manifestu;
 manifesto-details-use-the-mozilla = užívat aktiva { -brand-name-mozilla(case: "gen") } (duševní vlastnictví jako copyright, obchodní značku, zázemí, fondy a dobré jméno) k udržení internetu pro každého;
@@ -83,6 +86,8 @@ manifesto-details-promote-models = podporovat modely vytváření ekonomické ho
 manifesto-details-promote-the-mozilla = podporovat principy Manifestu { -brand-name-mozilla(case: "gen") } ve veřejných rozpravách a napříč internetovým odvětvím.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Některé aktivity Nadace – aktuálně vývoj, šíření a podpora produktů – jsou řízené především { -brand-name-mozilla-corporation(case: "ins") }, která je zcela ve vlastnictví { -brand-name-mozilla-foundation(case: "gen") }.
+manifesto-details-some-foundation-v2 = Některé aktivity Nadace – v současnosti tvorba, distribuce a propagace spotřebitelských produktů – jsou řízeny především stoprocentní dceřinou společností { -brand-name-mozilla-foundation }, { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Pozvánka
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } zve všechny, kteří podporují principy Manifestu { -brand-name-mozilla(case: "gen") }, aby se připojili a hledali společně s námi nové způsoby, jak naši vizi přeměnit na realitu.
+manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } zve všechny, kteří podporují principy Manifestu { -brand-name-mozilla }, aby se připojili a hledali společně s námi nové způsoby, jak naši vizi přeměnit na realitu.
