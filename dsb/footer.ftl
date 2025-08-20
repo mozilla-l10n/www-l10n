@@ -14,7 +14,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } za { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } za { -brand-name-android }
-footer-visit-mozilla-corporations = Woglědajśo se k załožbje <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, za wše wužytne maśerne towaristwo pśedezweśa <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
+footer-visit-mozilla-corporations = Woglědajśo se k załožbje <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, za wše wužytne maśeŕne towaristwo pśedewześa <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
 footer-portions-of-this-content = Źěle toś togo wopśimjeśa wót jadnotliwych sobuskutkujucych mozilla.org napórane ©1998–{ $current_year }. Wopśimjeśe stoj pód licencu <a rel="license" href="{ $url }">{ -brand-name-creative-commons } license</a> k dispoziciji.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Pśedewześe
