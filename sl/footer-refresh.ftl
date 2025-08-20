@@ -5,6 +5,9 @@
 footer-refresh-discover-mozilla-products = Spoznajte izdelke in iniciative { -brand-name-mozilla(sklon: "rodilnik") }. Obljubimo, da bomo vaš naslov ohranili zaseben in varen – nobenega deljenja ali prodaje naprej, samo zanimive novice.
 footer-refresh-leadership = Vodstvo
 footer-refresh-advertise = Oglašujte z { -brand-name-mozilla(sklon: "orodnik") }
+footer-refresh-mozilla-advertising = Oglaševanje pri { -brand-name-mozilla(sklon: "mestnik") }
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-advertising = Več <span>o { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Opombe ob izdaji { -brand-name-firefox(sklon: "rodilnik") }
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Sledite @{ -brand-name-mozilla }
