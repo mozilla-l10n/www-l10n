@@ -19,3 +19,4 @@ not-found-page-download-the-firefox-browser = <a href={ $download }>Scarica</a> 
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 # Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Fai una donazione</a> a { -brand-name-mozilla-foundation } e riprendi il controllo di Internet dalle big tech.
+not-found-page-donate-to-mozilla-reclaim-from-v2 = <a { $donate }>Fai una donazione</a> a { -brand-name-mozilla-foundation } e riprendi il controllo di Internet dalle big tech.
