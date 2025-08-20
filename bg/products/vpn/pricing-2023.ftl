@@ -19,6 +19,13 @@ vpn-pricing-connect-up-to =
        *[other] Свързване на до { $devices } устройства
     }
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+        [one] Свържете до { $devices } устройствo с Android, iOS, Windows, macOS или Linux
+       *[other] Свържете до { $devices } устройства с Android, iOS, Windows, macOS или Linux
+    }
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access =
@@ -35,6 +42,8 @@ vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } все още не �
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Въпроси и отговори
 vpn-pricing-refund-policy = Какви са правилата на { -brand-name-mozilla-vpn } за възстановяване на средства?
+vpn-pricing-the-first-time-you = Когато за първи път се абонирате за { -brand-name-mozilla-vpn } през уебсайта на { -brand-name-mozilla } и закриете профила си в рамките на първите 30 дни, може да поискате възстановяване на сума и { -brand-name-mozilla } ще възстанови сумата за първия ви абонамент.
+vpn-pricing-if-you-purchased = Ако сте закупили абонамента си чрез покупка в приложение от Apple App Store или Google Play Store, вашето плащане е предмет на общите условия на магазина. Трябва да насочвате всички въпроси за фактуриране и възстановяване на средства за такива покупки към Apple или Google, според случая.
 vpn-pricing-what-information = Каква информация пази { -brand-name-mozilla-vpn }?
 # Variables
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
@@ -47,5 +56,9 @@ vpn-pricing-if-already-subscribed = Ако вече сте абонирани з
 
 ## Mobile only subscription copy
 
+vpn-pricing-scan-qrcode-to-download = За да изтеглите приложението, сканирайте QR кода с мобилното си устройство или таблет
+vpn-pricing-scan-qrcode-to-download-android = За да изтеглите приложението, сканирайте QR кода с вашето Android устройство или таблет
+vpn-pricing-sign-up-on-your-mobile-device = Абонамент за { -brand-name-mozilla-vpn } на мобилното ви устройство
+vpn-pricing-sign-up-on-your-android-device = Регистрирайте се за { -brand-name-mozilla-vpn } на вашето устройство с Android
 vpn-pricing-download-the-app = Изтегляне на приложението
 vpn-pricing-transaction-may-be-in = * Транзакцията може да е в равностойност в местна валута.
