@@ -34,6 +34,7 @@ footer-refresh-tools = Nastroje
 footer-refresh-donate = Darić
 # Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = Wopytajće załožbu <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, powšitkownosći wužitne maćerne towarstwo předezwaća <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
+footer-refresh-visit-mozilla-corporations-v2 = Wopytajće załožbu <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, powšitkownosći wužitne maćerne towarstwo předezwaća <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
 footer-refresh-portions-of-this-content = Dźěle tutoho wobsaha wot jednotliwych sobuskutkowacych mozilla.org wutworjene ©1998–{ $current_year }. Wobsah steji pod licencu <a rel="license" { $href }>{ -brand-name-creative-commons } license</a> k dispoziciji.
 footer-refresh-websites-privacy-notice = Prawidła priwatnosće websydła
 footer-refresh-websites-cookies = Placki

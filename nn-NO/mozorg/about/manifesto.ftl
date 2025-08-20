@@ -90,3 +90,4 @@ manifesto-details-some-foundation-v2 = Nokre aktivitetar — for tida skaping, l
 manifesto-details-invitation = Invitasjon
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } inviterer alle som støttar grunnprinnsippa i { -brand-name-mozilla }-manifestet, til å vere med oss og finne nye måtar å verkeleggjere visjonen av internett, slik som manifestet skildrar.
+manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } inviterer alle som støttar grunnprinsippa i { -brand-name-mozilla }-manifestet, til å vere med oss og finne nye måtar å verkeleggjere denne visjonen av Internett, slik som manifestet beskriv.

@@ -75,3 +75,4 @@ vpn-features-people-over-profits = Menneske framfor profitt
 #   $mofo (url) - link to https://foundation.mozilla.org/
 # Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = Vi blir støtta av <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, ein ideell organisasjon som kjempar for å halde nettet ope og sunt for alle.
+vpn-features-were-backed-by-mofo-v2 = Vi er støtta av <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, ein ideell organisasjon som kjempar for å halde nettet ope og sunt for alle.
