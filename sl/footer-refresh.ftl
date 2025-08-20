@@ -5,9 +5,6 @@
 footer-refresh-discover-mozilla-products = Spoznajte izdelke in iniciative { -brand-name-mozilla(sklon: "rodilnik") }. Obljubimo, da bomo vaš naslov ohranili zaseben in varen – nobenega deljenja ali prodaje naprej, samo zanimive novice.
 footer-refresh-leadership = Vodstvo
 footer-refresh-advertise = Oglašujte z { -brand-name-mozilla(sklon: "orodnik") }
-footer-refresh-mozilla-advertising = Oglaševanje pri { -brand-name-mozilla(sklon: "mestnik") }
-# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-advertising = Več <span>o { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Opombe ob izdaji { -brand-name-firefox(sklon: "rodilnik") }
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Sledite @{ -brand-name-mozilla }
@@ -25,6 +22,7 @@ footer-refresh-support = Podpora
 footer-refresh-product-help = Pomoč za izdelek
 footer-refresh-file-a-bug = Prijavite hrošča
 footer-refresh-localize-mozilla = Lokalizacija { -brand-name-mozilla(sklon: "rodilnik") }
+footer-refresh-security = Varnost
 footer-refresh-developers = Razvijalci
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
@@ -32,6 +30,7 @@ footer-refresh-tools = Orodja
 footer-refresh-donate = Donirajte
 # Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = Obiščite neprofitno starševsko organizacijo <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> – <a { $mofo_link }>{ -brand-name-mozilla-foundation(sklon: "tozilnik") }</a>.
+footer-refresh-visit-mozilla-corporations-v2 = Obiščite neprofitno starševsko organizacijo <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> - <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Deli vsebine so avtorsko zaščiteni ©1998–{ $current_year } s strani sodelavcev mozilla.org. Vsebina je na voljo pod pogoji <a rel="license" { $href }>{ -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Obvestilo o zasebnosti te strani
 footer-refresh-websites-cookies = Piškotki
