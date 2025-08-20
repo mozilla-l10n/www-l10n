@@ -55,7 +55,7 @@ manifesto-details-as-a-result-of = В результате этих усилий
 manifesto-details-the-goals-for = Манифест нацелен на то, чтобы:
 # Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = сформулировать видение Интернета участниками проекта { -brand-name-mozilla }, которого должна придерживаться { -brand-name-mozilla-foundation };
-manifesto-details-articulate-a-vision-v2 = сформулировать видение Интернета, которого { -brand-name-mozilla } участников хотят придерживаться { -brand-name-mozilla-foundation };
+manifesto-details-articulate-a-vision-v2 = сформулировать видение Интернета участниками проекта { -brand-name-mozilla }, которого должна придерживаться { -brand-name-mozilla-foundation };
 manifesto-details-speak-to-people = наладить диалог с пользователями независимо от уровня технической подготовки;
 manifesto-details-make-mozilla-contributors = вселять в участников проекта { -brand-name-mozilla } гордость за проделанную работу и побуждать к её продолжению;
 manifesto-details-provide-a-framework = послужить основой для продвижения среди людей нашего видения Интернета.
