@@ -17,6 +17,9 @@ features-adblocker-these-ads-might-be-loud = ໂຄສະນາເຫຼົ່�
 features-adblocker-find-the-right-ad-blocker = ຊອກຫາຕົວສະກັດການໂຄສະນາທີ່ເຫມາະສົມສໍາລັບທ່ານ
 features-adblocker-there-are-scores-of-content = ມີຫຼາຍຕົວບລັອກເນື້ອຫາຢູ່ບ່ອນນັ້ນ, ແຕ່ນີ້ແມ່ນບາງທາງເລືອກທີ່ດີເລີດທີ່ຈັດໂດຍ { -brand-name-mozilla }…
 # Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> ເປັນທາງເລືອກທີ່ດີອີກອັນໜຶ່ງທີ່ບໍ່ພຽງແຕ່ບລັອກໂຄສະນາເທົ່ານັ້ນ ແຕ່ໃຫ້ຜົນປະໂຫຍດເພີ່ມເຕີມຕໍ່ກັບການຕິດຕາມ.
+# Variables:
 #   $attrs1 (string) - link to /firefox/new/ with other attributes
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = ສ່ວນຂະຫຍາຍເຫຼົ່ານີ້ໃຊ້ໄດ້ຢ່າງສວຍງາມໃນທັງ <a { $attrs1 }>{ -brand-name-firefox } ສໍາລັບເດັສທັອບ</a> ແລະ <a { $attrs2 }>Android</a>.

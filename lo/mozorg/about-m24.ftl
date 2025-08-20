@@ -11,13 +11,18 @@ m24-about-page-title = ຮຽນຮູ້ກ່ຽວກັບ { -brand-name-moz
 ## Intro
 
 m24-about-reclaim-the-internet = ຮຽກຄືນອິນເຕີເນັດກັບພວກເຮົາ
+m24-about-mozilla-is-working = { -brand-name-mozilla } ກໍາລັງເຮັດວຽກເພື່ອເຮັດໃຫ້ການຄວບຄຸມອິນເຕີເນັດກັບຄືນມາຢູ່ໃນມືຂອງປະຊາຊົນທີ່ໃຊ້ມັນ.
 
 ## Manifesto
 
 m24-about-together-we-can = ຮ່ວມກັນ, ພວກເຮົາສາມາດຮັກສາອິນເຕີເນັດໄດ້ງ່າຍ, ປອດໄພ ແລະ ບໍ່ເສຍຄ່າ — ສໍາລັບທຸກຄົນ.
 m24-about-read-our-manifesto = ອ່ານ manifesto ຂອງພວກເຮົາ
+# Used as an accessible text alternative for an image
+m24-about-a-group-of = ກຸ່ມນັກຄິດທີ່ນັ່ງຢູ່ໃນວົງມົນຢູ່ເທິງພື້ນໄດ້ແບ່ງປັນແນວຄວາມຄິດ.
 m24-about-advocate = ທະນາຍຄວາມ
+m24-about-we-advocate-for = ພວກເຮົາສະຫນັບສະຫນູນຜະລິດຕະພັນທີ່ດີກວ່າ, ຖືລັດຖະບານ ແລະ ບໍລິສັດເຕັກໂນໂລຢີຮັບຜິດຊອບຕໍ່ສິ່ງທີ່ພວກເຂົາສ້າງ.
 m24-about-research = ການຄົ້ນຄ້ວາ
+m24-about-we-uncover-insights = ພວກ​ເຮົາ​ເປີດ​ເຜີຍ​ຂໍ້​ມູນ​ເລິກ​ເຊິ່ງ, ຂະ​ບວນ​ການ​ເພື່ອ​ປັບ​ປຸງ​ຜະ​ລິດ​ຕະ​ພັນ​ ແລະ ​ນະ​ໂຍ​ບາຍ​ການ​ຂັບ​ເຄື່ອນ​ທີ່​ເປັນ​ຕົວ​ແທນ​ຂອງ​ຄວາມ​ສົນ​ໃຈ​ຂອງ​ທ່ານ.
 m24-about-build = ສ້າງ
 m24-about-fund = ກອງທຶນ
 
