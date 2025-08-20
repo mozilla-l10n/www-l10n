@@ -34,8 +34,11 @@ manifesto-details-commercial-involvement = ఇంటర్నెట్ అభి
 manifesto-details-advancing-the = { -brand-name-mozilla } మానిఫెస్టోను ముందుకు సాగించడం
 manifesto-details-there-are-many = { -brand-name-mozilla } మానిఫెస్టో యొక్క సూత్రాలను అభివృద్ధి చేయటానికి అనేక మార్గాలు ఉన్నాయి. విస్తృత శ్రేణి కార్యకలాపాలను మేము స్వాగతిస్తున్నాము, మరియు { -brand-name-mozilla }లో పాల్గొన్న వారి ఇతర విభాగాలలో చేసిన ప్రాజెక్టులలో చూపిన అదే సృజనాత్మకతను చూపిస్తారని ఆశిస్తాము. { -brand-name-mozilla } ప్రాజెక్ట్ లో లోతుగా పాల్గొనని వ్యక్తులకు, మానిఫెస్టోకి మద్దతు ఇవ్వడానికి ఒక ప్రాథమిక మరియు చాలా సమర్థవంతమైన మార్గం { -brand-name-mozilla } { -brand-name-firefox } మరియు మానిఫెస్టో సూత్రాలతో రూపొందించే ఇతర ఉత్పత్తులను ఉపయోగించడం.
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } ప్రతిజ్ఞ
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } దాని కార్యకలాపాలలో { -brand-name-mozilla } మానిఫెస్టోకు మద్దతు ఇస్తుందని ప్రతిజ్ఞ చేస్తోంది. ప్రత్యేకంగా, మేము చేస్తాను:
 manifesto-details-promote-the-mozilla = బహిరంగ ఉపన్యాసంలో మరియు ఇంటర్నెట్ పరిశ్రమలో { -brand-name-mozilla } మానిఫెస్టో సూత్రాలను ప్రోత్సహిస్తుండండి.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = కొన్ని ఫౌండేషన్ కార్యకలాపాలు—ప్రస్తుతం వినియోగదారుల ఉత్పత్తుల సృష్టి, పంపిణీ మరియు ప్రచారం—ప్రధానంగా { -brand-name-mozilla-foundation } యొక్క పూర్తి యాజమాన్యంలోని ఉపసంస్థ { -brand-name-mozilla-corporation } ద్వారా నిర్వహించబడుతుంది.
 manifesto-details-invitation = ఆహ్వానం
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation }, { -brand-name-mozilla } మానిఫెస్టో యొక్క సూత్రాలకు మద్దతు ఇచ్చే ఇతరులను మాతో చేరాలని ఆహ్వానిస్తుంది, మరియు ఇంటర్నెట్ యొక్క వాస్తవికతను ఈ దృశ్యమానంగా చేయడానికి కొత్త మార్గాలను కనుగొనండి.

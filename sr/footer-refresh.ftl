@@ -25,6 +25,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Алатке
 footer-refresh-donate = Донирајте
+# Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = Посетите непрофитну матичну компанију <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Права над деловима овог садржаја су ©1998–{ $current_year } појединачни сарадници mozilla.org пројекта. Садржај је доступан под <a rel="license" { $href }>{ -brand-name-creative-commons } лиценцом</a>.
 footer-refresh-websites-privacy-notice = Обавештење о приватности сајта

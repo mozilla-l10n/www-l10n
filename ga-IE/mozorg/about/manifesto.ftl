@@ -16,10 +16,12 @@ manifesto-details-the-mozilla-project-global = Is éard atá i dtionscadal { -br
 manifesto-details-the-mozilla-project-community = Baineann tionscadal { -brand-name-mozilla } úsáid as cur chuige pobalbhunaithe chun bogearraí den chéad scoth a chruthú agus chun gníomhaíochtaí comhoibríocha a fhorbairt. Cruthaímid comhphobail atá ag iarraidh feabhas a chur ar an Idirlíon ar ár son uilig.
 manifesto-details-as-a-result-of = De thoradh na n-iarrachtaí seo, táimid tar éis liosta prionsabal a leagan amach, prionsabail atá fíorthábhachtach do thodhchaí an Idirlín mar acmhainn a dhéanann leas don phobal agus don saol gnó chomh maith. Leagaimid na prionsabail seo amach thíos.
 manifesto-details-the-goals-for = Seo iad aidhmeanna an Fhorógra:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = fís don Idirlíon a leagan amach, fís a dtacaíonn rannpháirtithe { -brand-name-mozilla } léi agus ceann a n-oibreoidh { -brand-name-mozilla-foundation } ina threo;
 manifesto-details-speak-to-people = gach duine a spreagadh, beag beann ar a c(h)úlra sa teicneolaíocht;
 manifesto-details-make-mozilla-contributors = bród a chothú i rannpháirtithe { -brand-name-mozilla } as an obair atá á déanamh againn; agus
 manifesto-details-provide-a-framework = creatlach oibre a thabhairt do dhaoine chun an fhís seo a chur chun cinn.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Ní thiocfaidh na prionsabail seo chun beatha ina n-aonar. Daoine amháin atá in ann an tIdirlíon a choinneáil oscailte agus daonlathach — daoine ina n-aonar, daoine ag obair i ngrúpaí, agus daoine ag spreagadh daoine eile. Tá { -brand-name-mozilla-foundation } go hiomlán tugtha do na prionsabail atá leagtha amach i bhForógra { -brand-name-mozilla }. Fearaimid fáilte roimh éinne atá ag iarraidh obair a dhéanamh linn chun feabhas a chur ar an Idirlíon.
 manifesto-details-principles = Prionsabail
 manifesto-details-the-internet-is-integral = Is cuid bhunúsach den saol sa lá atá inniu é an tIdirlíon — imríonn sé ról fíorthábhachtach i gcúrsaí oideachais, cumarsáide, gnó, siamsaíochta, agus sa sochaí go ginearálta.
@@ -35,12 +37,15 @@ manifesto-details-magnifying-the = Is sprioc thábhachtach é aird a tharraingt 
 manifesto-details-advancing-the = Forógra { -brand-name-mozilla } a chur chun cinn
 manifesto-details-there-are-many = Tá go leor bealaí ann chun prionsabail an Fhorógra a chur chun cinn. Fearaimid fáilte roimh réimse leathan gníomhaíochtaí, agus táimid ag súil leis an leibhéal céanna cruthaitheachta atá léirithe ag rannpháirtithe { -brand-name-mozilla } i gcodanna eile den tionscadal. Is féidir le haon duine prionsabail an Fhorógra a thacú, fiú daoine nach bhfuil ceangal láidir acu le { -brand-name-mozilla }, trí { -brand-name-firefox } agus táirgí eile a chuimsíonn na prionsabail seo a úsáid.
 manifesto-details-mozilla-foundation = Gealltanas { -brand-name-mozilla-foundation }
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = Geallann { -brand-name-mozilla-foundation } go dtacóidh sé le Forógra { -brand-name-mozilla }. Le bheith cruinn faoi:
 manifesto-details-build-and-enable = tógfaimid agus cumasóimid teicneolaíochtaí oscailte agus comhphobail a thacaíonn le prionsabail an Fhorógra;
 manifesto-details-build-and-deliver = tógfaimid agus scaipfimid táirgí iontacha a thacaíonn le prionsabail an Fhorógra;
 manifesto-details-use-the-mozilla = úsáidfimid sócmhainní { -brand-name-mozilla } (maoin intleachtúil, mar shampla cóipcheart agus trádmharcanna, infreastruchtúr, airgead, agus clú) chun an tIdirlíon a chosaint mar ardán oscailte;
 manifesto-details-promote-models = cuirfimid samhlacha a chruthaíonn luach eacnamaíoch chun cinn ar son leas an phobail; agus
 manifesto-details-promote-the-mozilla = cuirfimid prionsabail an Forógra { -brand-name-mozilla } chun cinn i ndioscúrsa poiblí agus i dtionscal an Idirlín.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Is é an { -brand-name-mozilla-corporation }, fochuideachta ar lánúinéireacht ag { -brand-name-mozilla-foundation }, atá i gceannas ar roinnt gníomhaíochtaí de chuid na Fondúireachta — faoi láthair, forbairt, scaipeadh, agus margaíocht táirgí tomhaltais.
 manifesto-details-invitation = Cuireadh
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = Fearann { -brand-name-mozilla-foundation } fáilte roimh aon duine a thacaíonn le prionsabail an Forógra { -brand-name-mozilla } chun obair a dhéanamh in éineacht linn, agus bealaí nua a aimsiú chun an fhís seo don Idirlíon a fhíorú.

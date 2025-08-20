@@ -53,10 +53,12 @@ manifesto-details-the-mozilla-project-global = ໂຄງການ { -brand-name-
 manifesto-details-the-mozilla-project-community = ໂຄງການ { -brand-name-mozilla } ໃຊ້ວິທີການຊຸມຊົນເພື່ອສ້າງຊອບແວໂອເພນຊອດລະດັບໂລກ ແລະ ພັດທະນາກິດຈະກຳການຮ່ວມມືແບບໃໝ່. ພວກເຮົາສ້າງຊຸມຊົນຂອງປະຊາຊົນທີ່ກ່ຽວຂ້ອງກັບການເຮັດໃຫ້ປະສົບການອິນເຕີເນັດທີ່ດີກວ່າສໍາລັບພວກເຮົາທຸກຄົນ.
 manifesto-details-as-a-result-of = ຜົນຂອງຄວາມພະຍາຍາມເຫຼົ່ານີ້, ພວກເຮົາໄດ້ກັ່ນເອົາຫຼັກການອັນໜຶ່ງທີ່ພວກເຮົາເຊື່ອວ່າມີຄວາມສຳຄັນຕໍ່ອິນເຕີເນັດເພື່ອສືບຕໍ່ສ້າງຜົນປະໂຫຍດໃຫ້ແກ່ສາທາລະນະຊົນ ກໍ່ຄືດ້ານການຄ້າຂອງຊີວິດ. ພວກເຮົາກໍານົດຫຼັກການເຫຼົ່ານີ້ຂ້າງລຸ່ມນີ້.
 manifesto-details-the-goals-for = ເປົ້າໝາຍສຳລັບ Manifesto ແມ່ນເພື່ອ:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = ປະກາດວິໄສທັດສໍາລັບອິນເຕີເນັດທີ່ຜູ້ເຂົ້າຮ່ວມ { -brand-name-mozilla } ຕ້ອງການ { -brand-name-mozilla-foundation } ດໍາເນີນການ;
 manifesto-details-speak-to-people = ເວົ້າກັບຄົນບໍ່ວ່າຈະມີພື້ນຖານດ້ານວິຊາການ ຫຼື ບໍ່;
 manifesto-details-make-mozilla-contributors = ເຮັດໃຫ້ຜູ້ປະກອບສ່ວນ { -brand-name-mozilla } ພູມໃຈໃນສິ່ງທີ່ພວກເຮົາກຳລັງເຮັດ ແລະກະຕຸ້ນພວກເຮົາໃຫ້ສືບຕໍ່; ແລະ
 manifesto-details-provide-a-framework = ສ້າງກອບສໍາລັບຄົນອື່ນເພື່ອກ້າວຫນ້າວິໄສທັດຂອງອິນເຕີເນັດນີ້.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = ຫຼັກການເຫຼົ່ານີ້ຈະບໍ່ມາສູ່ຊີວິດຂອງຕົນເອງ. ປະຊາຊົນແມ່ນມີຄວາມຈໍາເປັນເພື່ອເຮັດໃຫ້ອິນເຕີເນັດເປີດ ແລະ ມີສ່ວນຮ່ວມ - ບຸກຄົນທີ່ເຮັດຫນ້າທີ່ເປັນບຸກຄົນ, ເຮັດວຽກຮ່ວມກັນເປັນກຸ່ມ, ແລະ ນໍາພາຄົນອື່ນ. { -brand-name-mozilla-foundation } ມຸ່ງໝັ້ນທີ່ຈະກ້າວໄປສູ່ຫຼັກການທີ່ກຳນົດໄວ້ໃນ { -brand-name-mozilla } Manifesto. ພວກເຮົາເຊີນຄົນອື່ນໃຫ້ເຂົ້າຮ່ວມກັບພວກເຮົາ ແລະ ເຮັດໃຫ້ອິນເຕີເນັດເປັນບ່ອນທີ່ດີກວ່າສໍາລັບທຸກຄົນ.
 manifesto-details-principles = ຫຼັກການ
 manifesto-details-the-internet-is-integral = ອິນ​ເຕີ​ເນັດ​ເປັນ​ສ່ວນ​ໜຶ່ງ​ຂອງ​ຊີ​ວິດ​ທີ່​ທັນ​ສະ​ໄໝ—ເປັນ​ອົງ​ປະ​ກອບ​ທີ່​ສຳ​ຄັນ​ໃນ​ການ​ສຶກ​ສາ, ການ​ສື່​ສານ, ການ​ຮ່ວມ​ມື, ທຸ​ລະ​ກິດ, ການ​ບັນ​ເທີງ ແລະ ​ສັງ​ຄົມ​ລວມ.
@@ -72,12 +74,15 @@ manifesto-details-magnifying-the = ການຂະຫຍາຍລັກສະນ
 manifesto-details-advancing-the = ກ້າວໄປສູ່ { -brand-name-mozilla } Manifesto
 manifesto-details-there-are-many = ມີຫຼາຍວິທີທີ່ຈະກ້າວໄປສູ່ຫຼັກການຂອງ { -brand-name-mozilla } Manifesto. ພວກ​ເຮົາ​ຍິນ​ດີ​ຕ້ອນ​ຮັບ​ບັນ​ດາ​ກິດ​ຈະ​ກໍາ​ທີ່​ກວ້າງ​ຂວາງ, ແລະ ​ຄາດ​ຄະ​ເນ​ຄວາມ​ຄິດ​ສ້າງ​ສັນ​ດຽວ​ກັນ​ທີ່​ຜູ້​ເຂົ້າ​ຮ່ວມ { -brand-name-mozilla } ໄດ້​ສະ​ແດງ​ໃຫ້​ເຫັນ​ໃນ​ຂົງ​ເຂດ​ອື່ນໆ​ຂອງ​ໂຄງ​ການ​. ສໍາລັບບຸກຄົນທີ່ບໍ່ມີສ່ວນຮ່ວມຢ່າງເລິກເຊິ່ງໃນໂຄງການ { -brand-name-mozilla }, ວິທີພື້ນຖານ ແລະ ປະສິດທິພາບຫຼາຍເພື່ອສະຫນັບສະຫນູນ Manifesto ແມ່ນການໃຊ້ { -brand-name-mozilla } { -brand-name-firefox } ແລະ ຜະລິດຕະພັນອື່ນໆທີ່ ປະກອບຫຼັກການຂອງ Manifesto.
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } ສັນຍາ
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } ສັນຍາວ່າຈະສະຫນັບສະຫນູນ { -brand-name-mozilla } Manifesto ໃນກິດຈະກໍາຂອງມັນ. ໂດຍສະເພາະ, ພວກເຮົາຈະ:
 manifesto-details-build-and-enable = ກໍ່ສ້າງ ແລະເປີດໃຊ້ເຕັກໂນໂລຢີແຫຼ່ງເປີດ ແລະຊຸມຊົນທີ່ສະຫນັບສະຫນູນຫຼັກການຂອງ Manifesto;
 manifesto-details-build-and-deliver = ສ້າງແລະສົ່ງຜະລິດຕະພັນຜູ້ບໍລິໂພກທີ່ຍິ່ງໃຫຍ່ທີ່ສະຫນັບສະຫນູນຫຼັກການຂອງ Manifesto;
 manifesto-details-use-the-mozilla = ໃຊ້ຊັບສິນຂອງ { -brand-name-mozilla } (ຊັບສິນທາງປັນຍາເຊັ່ນ: ລິຂະສິດ ແລະເຄື່ອງໝາຍການຄ້າ, ໂຄງສ້າງພື້ນຖານ, ກອງທຶນ ແລະຊື່ສຽງ) ເພື່ອຮັກສາອິນເຕີເນັດໃຫ້ເປັນເວທີເປີດ;
 manifesto-details-promote-models = ຊຸກຍູ້​ບັນດາ​ຮູບ​ແບບ​ສ້າງ​ຄຸນຄ່າ​ທາງ​ດ້ານ​ເສດຖະກິດ​ເພື່ອ​ຜົນ​ປະ​ໂຫຍ​ດສາທາລະນະ; ແລະ
 manifesto-details-promote-the-mozilla = ສົ່ງເສີມຫຼັກການຂອງ { -brand-name-mozilla } Manifesto ໃນການສົນທະນາສາທາລະນະ ແລະ ພາຍໃນອຸດສາຫະກໍາອິນເຕີເນັດ.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = ບາງກິດຈະກໍາຂອງມູນນິທິ—ປະຈຸບັນແມ່ນການສ້າງ, ການຈັດສົ່ງ ແລະ ການສົ່ງເສີມຜະລິດຕະພັນຜູ້ບໍລິໂພກ—ແມ່ນດໍາເນີນການຕົ້ນຕໍໂດຍຜ່ານບໍລິສັດຍ່ອຍທີ່ເປັນເຈົ້າຂອງທັງໝົດຂອງ { -brand-name-mozilla-foundation }, the { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = ການເຊື້ອເຊີນ
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } ເຊີນຜູ້ອື່ນໆທີ່ສະຫນັບສະຫນູນຫຼັກການຂອງ { -brand-name-mozilla } Manifesto ເຂົ້າຮ່ວມກັບພວກເຮົາ, ແລະຊອກຫາວິທີໃຫມ່ເພື່ອເຮັດໃຫ້ວິໄສທັດຂອງອິນເຕີເນັດນີ້ກາຍເປັນຈິງ.

@@ -53,10 +53,12 @@ manifesto-details-the-mozilla-project-global = Projekt { -brand-name-mozilla } t
 manifesto-details-the-mozilla-project-community = Projekt { -brand-name-mozilla } wykorzystuje społecznościowe podejście do tworzenia światowej klasy aplikacji o otwartym kodzie oraz do budowania nowych typów współpracy. Tworzymy społeczności ludzi zaangażowanych w poprawianie jakości i wygody korzystania z Internetu dla nas wszystkich.
 manifesto-details-as-a-result-of = W wyniku tej pracy udało nam się wydestylować zestaw pryncypiów, które, jak wierzymy, są krytyczne do utrzymania pozytywnego wpływu Internetu na społeczeństwo oraz komercyjne aspekty życia. Zebraliśmy te wartości poniżej.
 manifesto-details-the-goals-for = Cele Manifestu:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = przedstawić wizję Internetu, której realizacji oczekują od { -brand-name-mozilla-foundation } uczestnicy projektu { -brand-name-mozilla };
 manifesto-details-speak-to-people = rozmawiać z ludźmi niezależnie od tego, czy posiadają wiedzę techniczną;
 manifesto-details-make-mozilla-contributors = sprawić, aby osoby pracujące nad { -brand-name-mozilla(case: "ins") }, mogły być dumne z tego, co nas motywuje; i
 manifesto-details-provide-a-framework = stworzyć ramy dla innych, aby mogli rozwijać naszą wizję Internetu.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Pryncypia te nie staną się rzeczywistością same z siebie. Aby uczynić z Internetu miejsce otwarte i sprzyjające współpracy, potrzebni są ludzie działający jako jednostki, pracujący razem w grupach i kierujący innymi. { -brand-name-mozilla-foundation } jest oddana popularyzacji i wdrażaniu pryncypiów spisanych w Manifeście { -brand-name-mozilla(case: "gen") }. Zapraszamy innych, aby przyłączyli się i pomogli nam uczynić Internet lepszym miejscem dla każdego.
 manifesto-details-principles = Pryncypia
 manifesto-details-the-internet-is-integral = Internet jest integralną częścią współczesnego życia — kluczowym elementem w edukacji, komunikacji, współpracy, biznesie, rozrywce i społeczeństwie jako takim.
@@ -72,12 +74,15 @@ manifesto-details-magnifying-the = Podkreślanie korzystnych dla społeczeństwa
 manifesto-details-advancing-the = Wdrażanie Manifestu { -brand-name-mozilla(case: "gen") }
 manifesto-details-there-are-many = Istnieje wiele różnych metod promowania i wdrażania wartości Manifestu { -brand-name-mozilla(case: "gen") }. Jesteśmy otwarci na szeroki zakres działań i chcemy wspierać tę samą kreatywność, którą wykazują uczestnicy projektu { -brand-name-mozilla } w innych jego elementach. Dla osób niezbyt zaangażowanych w projekt { -brand-name-mozilla } jedną z prostych i efektywnych metod wspierania Manifestu jest używanie { -brand-name-mozilla(case: "gen") } { -brand-name-firefox } i innych produktów, które uosabiają podstawy Manifestu.
 manifesto-details-mozilla-foundation = Deklaracja { -brand-name-mozilla-foundation }
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } deklaruje wsparcie dla Manifestu { -brand-name-mozilla(case: "gen") } w swoich działaniach. Szczególnie będziemy:
 manifesto-details-build-and-enable = budować i udostępniać technologie o otwartych źródłach i społeczności wspierające pryncypia Manifestu;
 manifesto-details-build-and-deliver = budować i wdrażać wysokiej jakości produkty, które wspierają pryncypia Manifestu;
 manifesto-details-use-the-mozilla = używać aktywów { -brand-name-mozilla(case: "gen") } (własności intelektualnych, takich jak prawa autorskie, znaki handlowe, infrastruktura, fundusze i reputacja), aby Internet pozostał otwartą platformą;
 manifesto-details-promote-models = promować modele tworzenia wartości ekonomicznych z pożytkiem publicznym; oraz
 manifesto-details-promote-the-mozilla = promować pryncypia Manifestu { -brand-name-mozilla(case: "gen") } w dyskursie publicznym i wewnątrz branży internetowej.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Niektóre z aktywności fundacji — aktualnie tworzenie, wydawanie i promocja produktów konsumenckich — jest realizowane przede wszystkim poprzez firmę { -brand-name-mozilla-corporation } w całości kontrolowaną przez { -brand-name-mozilla-foundation }.
 manifesto-details-invitation = Innowacja
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } zaprasza wszystkich, którzy wspierają pryncypia Manifestu { -brand-name-mozilla(case: "gen") }, do przyłączenia się do nas i znalezienia nowych metod wdrażania tej wizji Internetu w życie.

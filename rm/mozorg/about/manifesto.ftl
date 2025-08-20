@@ -51,10 +51,12 @@ manifesto-details-the-mozilla-project-global = Il project { -brand-name-mozilla 
 manifesto-details-the-mozilla-project-community = Il project { -brand-name-mozilla } fa diever dad in model da collavuraziun basà sin ina communitad per crear programs open-source d'emprima qualitad e sviluppar novas furmas da collavuraziun. Nus creain communitads da persunas che s'engaschan en favur dad ina meglra experientscha en l'internet per nus tuts.
 manifesto-details-as-a-result-of = Sco resultat da questas stentas avain nus elavurà ina seria da princips che nus tegnain per decisivs per che l'internet cuntinueschia a servir tant a l'interess public sco era ad aspects commerzials da la vita quotidiana. Quests princips èn enumerads qua sutvart.
 manifesto-details-the-goals-for = Las finamiras dal manifest èn las suandantas:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = formular ina visiun per l'internet – tenor las idas dals participants da { -brand-name-mozilla } – che la { -brand-name-mozilla-foundation } duai tschertgar da realisar;
 manifesto-details-speak-to-people = communitgar cun las persunas, independentamain dal fatg sch'ellas èn tecnicamain versadas;
 manifesto-details-make-mozilla-contributors = far daventar loschs ils contribuents a { -brand-name-mozilla } da nossa lavur ed ans motivar da cuntinuar; e
 manifesto-details-provide-a-framework = porscher ad autras persunas in rom per manar vinavant nossa visiun da l'internet.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Quests princips na sa realiseschan betg da sasez. I dovra persunas che fan daventar l'internet avert e participativ – persunas che ageschan individualmain, che collavureschan en gruppas e persunas che mainan auters. La { -brand-name-mozilla-foundation } s'engascha per la promoziun da quests princips definids en il manifest da { -brand-name-mozilla }. Nus envidain auters da collavurar cun nus e da far da l'internet in lieu anc meglier per in e scadin.
 manifesto-details-principles = Princips
 manifesto-details-the-internet-is-integral = L'internet è ina part integrala da la vita moderna — ina cumponenta fundamentala en l'educaziun, la communicaziun, la collavuraziun, l'economia, il divertiment e la societad en general.
@@ -70,12 +72,15 @@ manifesto-details-magnifying-the = Accentuar l'util public da l'internet è ina 
 manifesto-details-advancing-the = Purtar vinavant il manifest da { -brand-name-mozilla }
 manifesto-details-there-are-many = I dat bleras manieras differentas da promover ils princips dal manifest da { -brand-name-mozilla }. Nus beneventain in vast spectrum dad activitads e spetgain la medema creativitad che participants da { -brand-name-mozilla } han mussà en autras domenas dal project. Mintgin che n'è betg involvì directamain en il project { -brand-name-mozilla } po era sustegnair il manifest a moda e maniera simpla e fitg effizienta cun duvrar { -brand-name-mozilla } { -brand-name-firefox } ed auters products che represchentan ils princips dal manifest.
 manifesto-details-mozilla-foundation = L'empermischun da { -brand-name-mozilla-foundation }
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = La { -brand-name-mozilla-foundation } empermetta da sustegnair il manifest da { -brand-name-mozilla } cun sia lavur. En spezial vegnin nus a:
 manifesto-details-build-and-enable = crear ed activar las tecnologias open-source e las communitads che sustegnan ils princips dal manifest;
 manifesto-details-build-and-deliver = crear e metter a disposiziun software d'emprima qualitad che correspunda als princips dal manifest da Mozilla;
 manifesto-details-use-the-mozilla = utilisar la capacitad e las resursas da la { -brand-name-mozilla } Foundation (proprietad intellectuala sco dretgs d'autur e la marca, l'infrastructura, la facultad e noss num) per che l'internet restia ina plattafurma averta;
 manifesto-details-promote-models = promover models per crear valur economica en favur da l'interess public; e
 manifesto-details-promote-the-mozilla = s'engaschar per ils princips dal manifest da { -brand-name-mozilla } en il discurs public ed en l'industria da l'internet.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Tschertas activitads da la fundaziun – actualmain la creaziun, la distribuziun e la promoziun da software – vegnan realisadas principalmain da la { -brand-name-mozilla-corporation }, ina filiala che appartegna entiramain a la { -brand-name-mozilla-foundation }.
 manifesto-details-invitation = Invitaziun
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = La { -brand-name-mozilla-foundation } envida tuts che sustegnan ils princips dal manifest da { -brand-name-mozilla } da collavurar cun nus e chattar novas vias per far da questa visiun da l'internet ina realitad.

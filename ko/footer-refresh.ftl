@@ -32,6 +32,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = 도구
 footer-refresh-donate = 기부
+# Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>를 운영하는 비영리 재단 <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>을 방문하세요.
 footer-refresh-portions-of-this-content = ©1998–{ $current_year }. 콘텐츠의 일부는 개별 mozilla.org 기여자에게 저작권이 있습니다. 콘텐츠는 <a rel="license" { $href }>{ -brand-name-creative-commons } 라이선스</a>에 따라 제공됩니다.
 footer-refresh-websites-privacy-notice = 웹 사이트 개인정보 보호정책

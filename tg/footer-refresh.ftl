@@ -32,6 +32,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Абзорҳо
 footer-refresh-donate = Саҳм гузоштан
+# Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = Ба ширкати асосии ғайритиҷории <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> ташриф оред, яъне «<a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>».
 footer-refresh-portions-of-this-content = Қисмҳои ин муҳтаво аз ҷониби иштирокдорони лоиҳаи «mozilla.org» эҷод карда шудаанд ©1998–{ $current_year }. Муҳтаво дар таҳти <a rel="license" { $href }>Иҷозатномаи «{ -brand-name-creative-commons }»</a> дастрас аст.
 footer-refresh-websites-privacy-notice = Огоҳномаи махфияти сомона

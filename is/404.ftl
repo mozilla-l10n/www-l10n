@@ -17,4 +17,5 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Kynntu þér</
 not-found-page-download-the-firefox-browser = <a href={ $download }>Sæktu</a> { -brand-name-firefox } vafra fyrir farsímann þinn eða vinnutölvu
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+# Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Gefðu</a> til { -brand-name-mozilla-foundation } og endurheimtu internetið frá stóru tæknifyrirtækjunum.

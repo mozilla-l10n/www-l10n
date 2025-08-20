@@ -53,10 +53,12 @@ manifesto-details-the-mozilla-project-global = Projekt { -brand-name-mozilla } j
 manifesto-details-the-mozilla-project-community = Projekt { -brand-name-mozilla } s svojim na skupnosti zasnovanim pristopom razvija odprtokodno programsko opremo na svetovnem nivoju in omogoča nove oblike skupinskih dejavnosti. Oblikujemo skupnosti posameznikov, katerih vizija je, da za vse nas internet postane prijetnejši in varnejši.
 manifesto-details-as-a-result-of = Kot rezultat teh prizadevanj smo izoblikovali sklop načel, za katere menimo, da so ključnega pomena, če želimo, da internet še naprej pozitivno vpliva tako na javno korist kot tudi na poslovne vidike življenja. Ta načela navajamo spodaj.
 manifesto-details-the-goals-for = Cilji Manifesta so:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = v besede preliti vizijo interneta, ki naj jo po skupni želji sodelavcev { -brand-name-mozilla(sklon: "rodilnik") } zasleduje ustanova { -brand-name-mozilla-foundation },
 manifesto-details-speak-to-people = biti v stiku z vsemi ljudmi, ne glede na to, ali imajo tehnično ozadje,
 manifesto-details-make-mozilla-contributors = zagotoviti, da bodo sodelavci { -brand-name-mozilla(sklon: "rodilnik") } na opravljeno delo ponosni in motivirani za naloge, ki stojijo pred njimi, in
 manifesto-details-provide-a-framework = zagotoviti okolje, v katerem bo tudi drugim omogočeno širiti to vizijo interneta.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Ta načela ne bodo oživela sama od sebe. Da se internet odpre in da postane prijaznejši za sodelovanje, so potrebni ljudje – ljudje, ki delujejo bodisi sami zase, bodisi v skupinah, in ki lahko vodijo druge. { -brand-name-mozilla-foundation } se obvezuje, da bo podpirala in uveljavljala načela, ki so zapisana v Manifestu { -brand-name-mozilla(sklon: "rodilnik") }. Vas druge pa vabimo, da se nam pridružite, da bomo skupaj internet naredili prijetnejši za vse nas.
 manifesto-details-principles = Načela
 manifesto-details-the-internet-is-integral = Internet je sestavni del sodobnega življenja, saj predstavlja ključni element v izobraževanju, sporazumevanju, sodelovanju, poslovanju, razvedrilu in pomeni eno osrednjih točk družbe kot celote.
@@ -72,12 +74,15 @@ manifesto-details-magnifying-the = Poudarjati pomen interneta za javno korist je
 manifesto-details-advancing-the = Širjenje Manifesta { -brand-name-mozilla(sklon: "rodilnik") }
 manifesto-details-there-are-many = Načela Manifesta Mozille je mogoče širiti na številne načine. Pozdravljamo širok spekter dejavnosti in pričakujemo enako ustvarjalnost, kot so jo sodelavci Mozille doslej pokazali na drugih področjih projekta. Posamezniki, ki niso tesni sodelavci projekta { -brand-name-mozilla }, lahko zelo enostavno in učinkovito pokažejo svojo podporo Manifestu že s tem, da uporabljajo { -brand-name-mozilla } { -brand-name-firefox } in druge izdelke, ki vključujejo načela Manifesta.
 manifesto-details-mozilla-foundation = Zaveza ustanove { -brand-name-mozilla-foundation }
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } se zavezuje, da bo podpirala dejavnosti Manifesta { -brand-name-mozilla(sklon: "rodilnik") }, zato bomo:
 manifesto-details-build-and-enable = gradili in omogočali odprtokodne tehnologije in skupnosti, ki podpirajo načela Manifesta,
 manifesto-details-build-and-deliver = izdelovali in ponujali kvalitetne izdelke, ki podpirajo načela Manifesta,
 manifesto-details-use-the-mozilla = uporabljali sredstva { -brand-name-mozilla(sklon: "rodilnik") } (intelektualno lastnino, kot so avtorske pravice in blagovne znamke, infrastrukturo, sklade in ugled), tako da internet ostane dalje odprta platforma,
 manifesto-details-promote-models = podpirali modele, ki bodo ustvarjali ekonomsko vrednost iz projektov javne koristi in
 manifesto-details-promote-the-mozilla = spodbujali načela Manifesta { -brand-name-mozilla(sklon: "rodilnik") } v javnih razpravah in v okviru industrije, ki se ukvarja z internetom.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Nekatere dejavnosti ustanove, npr. ustvarjanje, ponudba in širjenje izdelkov, se izvajajo predvsem pod okriljem { -brand-name-mozilla-corporation }, ki je hčerinsko podjetje v popolni lasti { -brand-name-mozilla-foundation }.
 manifesto-details-invitation = Vabilo
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } vabi vse, ki podpirate načela Manifesta { -brand-name-mozilla(sklon: "rodilnik") }, da se nam pridružite. Skupaj bomo iskali in našli nove možnosti in poti, kako uresničiti našo vizijo interneta.

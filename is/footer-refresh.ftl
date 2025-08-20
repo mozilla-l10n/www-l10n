@@ -32,6 +32,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Verkfæri
 footer-refresh-donate = Styrkja
+# Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = Kynntu þér <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, samtök án hagnaðarmarkmiða sem eru móðurfélag <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> fyrirtækisins.
 footer-refresh-portions-of-this-content = Hlutar þessa efnis er með höfundarrétti ©1998–{ $current_year } eftir einstaka þátttakendur í mozilla.org. Efnið er aðgengilegt með <a rel="license" { $href }>{ -brand-name-creative-commons }-notkunarleyfi</a>.
 footer-refresh-websites-privacy-notice = Persónuverndarstefna vefsvæðis

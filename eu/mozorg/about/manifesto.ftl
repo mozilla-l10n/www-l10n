@@ -51,10 +51,12 @@ manifesto-details-the-mozilla-project-global = { -brand-name-mozilla } proiektua
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } proiektuak komunitatean oinarritutako metodoa erabiltzen du mundu mailako iturburu irekiko softwarea sortu eta elkarlan-jarduera mota berriak garatzeko. Internet-esperientzia guztiontzat hobea egiteko konpromisoa duten pertsonez osatutako komunitateak sortzen ditugu.
 manifesto-details-as-a-result-of = Esfortzu horien ondorioz, printzipio batzuk garatu ditugu eta gure ustez, funtsezkoak dira Internet onura publikoaren zein bizitzaren aspektu komertzialen mesederako izaten jarraitzeko. Printzipio horiek beherago zerrendatu ditugu.
 manifesto-details-the-goals-for = Manifestu honen helburuak ondorengoak dira:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = { -brand-name-mozilla }ko parte-hartzaileek { -brand-name-mozilla-foundation }jarraitzea nahi duten Interneten ikuspegia zehaztea;
 manifesto-details-speak-to-people = Jendearekin komunikatu ahal izatea, jakintza teknikoa izan edo ez;
 manifesto-details-make-mozilla-contributors = { -brand-name-mozilla }ko laguntzaileak egiten ari garenaz harro egotea lortzea eta horrek jarraitzera motiba gaitzan; eta
 manifesto-details-provide-a-framework = Abiapuntu bat zehaztea beste batzuek Interneten ikuspegi hau garatzen jarrai dezaten.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Printzipio horiek ez dira berez gauzatuko. Internet irekia eta parte-hartzailea egiteko, ezinbestekoak dira pertsonak; norbanako gisa ekiten, elkarrekin talde-lanean jarduten, eta besteen gidari dabiltzan pertsonak. { -brand-name-mozilla-foundation } hartua du konpromisoa { -brand-name-mozilla } Manifestuan zehaztutako printzipioak aurrera eramateko. Mundu guztiari gonbidapena luzatzen diogu gurekin elkartu eta, modu horretan, Internet oraindik eta toki hobea egiteko denontzat.
 manifesto-details-principles = Printzipioak
 manifesto-details-the-internet-is-integral = Internet bizitza modernoaren osagai garrantzitsua da — osagai gakoa hezkuntzan, komunikazioan, elkarlanean, negozioetan, aisialdian eta gizartean oro har.
@@ -70,12 +72,15 @@ manifesto-details-magnifying-the = Interneten onura publikoaren alderdiak areago
 manifesto-details-advancing-the = { -brand-name-mozilla } Manifestua sustatzea
 manifesto-details-there-are-many = { -brand-name-mozilla } Manifestuaren printzipioak sustatzeko hainbat modu dago. Askotariko jarduerak baliatzen ditugu horretarako, eta proiektuaren beste eremuetan { -brand-name-mozilla }ko parte-hartzaileek erakutsi duten irudimena ongi etorria izango da. { -brand-name-mozilla } proiektuan zuzenean parte hartzen ez dutenentzat, bada Manifestuari atxikipena erakusteko modu sinple eta oso eraginkor bat: { -brand-name-mozilla } { -brand-name-firefox } eta, finean, Manifestua bere egiten duten produktuak erabiltzea.
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } konpromisoa
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } zin egiten du { -brand-name-mozilla } Manifestua eta bere jarduerak lagunduko dituela. Zehazki, ondorengoa egingo dugu:
 manifesto-details-build-and-enable = Manifestuaren printzipioetan laguntzen duten kode irekiko teknologiak eta komunitateak eraiki eta horiei bide eman;
 manifesto-details-build-and-deliver = Manifestuaren printzipioetan laguntzen duten kontsumorako produktu bikainak garatu eta banatu;
 manifesto-details-use-the-mozilla = { -brand-name-mozilla }ren aktiboak (jabetza intelektuala, hala nola copyright-ak, marka erregistratuak, azpiegitura, funtsak eta ospea) erabili Internet plataforma ireki gisa mantentzeko
 manifesto-details-promote-models = Onura publikorako balio ekonomikoa sortzeko modeloak sustatu; eta
 manifesto-details-promote-the-mozilla = { -brand-name-mozilla } Manifestuko printzipioak diskurtso publikoan eta Interneteko industrian sustatu.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Fundazioaren zenbait jarduera (kontsumitzaileentzako produktuen sorkuntza, banaketa eta promozioa, gaur-gaurkoz), { -brand-name-mozilla-foundation } jabetzakoa eta menpekoa den { -brand-name-mozilla-corporation } bideratzen ditu batez ere.
 manifesto-details-invitation = Gonbidapena
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation }(e)k harekin bat egin eta Interneten ikuspegi hau gauzatzeko bide berriak bilatzeko gonbidapena luzatzen dio { -brand-name-mozilla } Manifestuko printzipioekin bat datorren orori.

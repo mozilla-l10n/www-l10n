@@ -17,4 +17,5 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">ຮຽນຮ�
 not-found-page-download-the-firefox-browser = <a href={ $download }>ດາວໂຫລດ</a> ບຣາວເຊີ { -brand-name-firefox } ສໍາລັບອຸປະກອນມືຖື ຫຼື desktop ຂອງທ່ານ
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+# Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>ບໍລິຈາກ</a> ໃຫ້ກັບ { -brand-name-mozilla-foundation } ແລະ ຮ່ວມທວງຄືນອິນເຕີເນັດຄືນຈາກບໍລິສັດເທັກໂນໂລຍີໃຫຍ່.

@@ -27,6 +27,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Työkalut
 footer-refresh-donate = Lahjoita
+# Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = Vieraile <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> -yrityksen voittoa tavoittelemattoman, ylätasolla toimivan <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> -säätiön sivustolla.
 footer-refresh-portions-of-this-content = Osa tästä sisällöstä on tekijänoikeudella suojattu © 1998–{ $current_year } yksittäisten mozilla.org-avustajien toimesta. Sisältö on <a rel="license" { $href }>{ -brand-name-creative-commons } -lisenssin</a> alaista.
 footer-refresh-websites-privacy-notice = Sivuston tietosuojakäytäntö

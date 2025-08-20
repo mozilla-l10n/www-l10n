@@ -52,10 +52,12 @@ manifesto-details-the-mozilla-project-global = Asenfaṛ n { -brand-name-mozilla
 manifesto-details-the-mozilla-project-community = Asenfaṛ { -brand-name-mozilla } isseqdac tarrayt yebnan ɣef tmezdagnut akken ad d-yesnulfu aseɣẓan ilelli amaḍlan udiɣ akken ad d-yesnulfu anawen imaynuten n warmud anida ttekkan deqs yemdanen. Nesnulfuy-d timezdagnutin ara yettekkin deg ahil akken ad uɣal useqdec n Internet ifaz i yal yiwen deg-neɣ.
 manifesto-details-as-a-result-of = Ihi seg ahil agi id d-nhegga, nessers kra n yensayen id nɣil d imeqqranen akken Intrnet ad ikemmel deg ubrid n fayda ama i useqdec n yemdanen i Internet neɣ tudert n yal ass. Insayen agi ttwasegzan-d daw-a:
 manifesto-details-the-goals-for = Iswiyen n umeskan d wigi:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = ad nesbded tikti ifazen ɣef Internet akken i bɣan imttekkiyen { -brand-name-mozilla } tasbeddit { -brand-name-mozilla-foundation } ad taweḍ ɣer yiswyen-a.
 manifesto-details-speak-to-people = mmeslay akked yimdanen ama snen tatiknikt neɣ ala;
 manifesto-details-make-mozilla-contributors = ad nerr imttekkiyen n { -brand-name-mozilla } ad ttquxxum s wayen n xeddem udiɣ ad s-nmudd afud akken ad kemmlen;
 manifesto-details-provide-a-framework = ad nmudd amedya i wiyaḍ akken ad snernin tamuɣli agi ɣef Internet.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Insayen-a ur d-ttasen kan akka s yiman-nsen. Ilaq ad ilin yimdanen i wakken ad rren Internet yeldi yerna ad ttekkin deg-s - imdanen i yexedmen i yiman-nsen, neɣ wid iqeddcen lwaḥid deg yigrawen, rnan seddayen wiyaḍ. { -brand-name-mozilla-foundation } tettekka i wakken ansayen-a deg Umeskan n { -brand-name-mozilla }. Nuzen tinnubga i yal yiwen i wakken ad d-rnun ɣur-neɣ, ad nerr Internet d amḍiq ifazen i yal yiwen.
 manifesto-details-principles = Insayen
 manifesto-details-the-internet-is-integral = Internet teckem d itudert n yal ass—d ajegu deg uselmed, taywalt, amɛiwen, iweẓla, zhu akked tmetti s umata.
@@ -71,12 +73,15 @@ manifesto-details-magnifying-the = Asemɣeṛ d uzuzer n lfayda Internet i yal y
 manifesto-details-advancing-the = Asnerni n umeskan n { -brand-name-mozilla }
 manifesto-details-there-are-many = Deqs n iberdan i yellan akken ad nesban imensayen n umeskan { -brand-name-mozilla }. Nṛṛeḥeb s deqs n warmud, u nezwir axemmem ɣef usnulfu id d-ttawin imttekkiyen ɣer { -brand-name-mozilla } di tɣula nniḍen n usenfar. Imdanen ur nettekki ara s waṭas deg usenfaṛ { -brand-name-mozilla }, zemren ad sqedcen { -brand-name-firefox } neɣ iseɣẓanen nniḍen yeddan deg ubrid n imensayen n umeskan.
 manifesto-details-mozilla-foundation = Amirew n { -brand-name-mozilla-foundation }
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = Tefka { -brand-name-mozilla-foundation } awal ad tεawen { -brand-name-mozilla } Manifestu deg yirmad-inen its. Ha-t-a wayen i nexdem:
 manifesto-details-build-and-enable = rnu u rmed titiknulujiyijn n uqbalu yeldin akked tmezdagnutiniqeblen imesayen n umeskan;
 manifesto-details-build-and-deliver = rnu u suffeɣ-d iseɣẓanen iteddun deg ubrid n imensayen n umeskan;
 manifesto-details-use-the-mozilla = seqdec urmiden n { -brand-name-mozilla } (ayla aggag am izerfan n umeskar neq ticraḍ yettwaḥerzen, tadumṣuka, tadrimt, tisellet) akken Internet ad yeqqim d talɣubliṭ yeldin.
 manifesto-details-promote-models = ad nmeslay ɣer usnulfu n wazal adamsan i lfayda n yemdanen; akked
 manifesto-details-promote-the-mozilla = ad nmeslay ɣef insayen n umeskan { -brand-name-mozilla } deg beṛṛa neɣ di temguri n Internet.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Kra n yirmad n tesbeddit—akka tura: asnulfu, asiweḍ d ummeslay ɣef yifarisen—ttusnekkren s wudem agejdan deg tkebbanit tarnawt tameẓlut { -brand-name-mozilla-corporation }, n tesbeddit { -brand-name-mozilla-foundation }.
 manifesto-details-invitation = Tinubga
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = Takebbanit n { -brand-name-mozilla-foundation } tenced-d akk wiyaḍ ara yesbeɣsen imenzayen n umeskan { -brand-name-mozilla } ad d-rnun ɣur-neɣ, daɣen ad d-naf iberdan imaynuten i wakken tamuɣli-agi ɣer Internet ad tuɣal d tilawt.

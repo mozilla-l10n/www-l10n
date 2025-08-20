@@ -16,10 +16,12 @@ manifesto-details-the-mozilla-project-global = { -brand-name-mozilla } porožewo
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } porožewoo ti jama-gorante goymee kaŋ ga goyijinay aššil feerante šifante tee nda fondo taagayaŋ feeri kaŋ ra borey ga goy nda cere. Ir jamaayaŋ marga kaŋ kanbuzaama ti interneti goyyan ma boori ka tonton ir kul se.
 manifesto-details-as-a-result-of = Woodin ra, ir na fondayaŋ kayandi kaŋ ir ga tammahã i ga tabatandi kaŋ interneti ma gaabandi ka tee baytal ka borey nafa nda duura faalandi i se. Ir ga fondawey wey filla ne ganda.
 manifesto-details-the-goals-for = Bayrandiyanoo anniyawey ti:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = ka interneti honnandi kaŋ { -brand-name-mozilla } cereteekey ga boona { -brand-name-mozilla-foundation } kondaa ga durkutu ka too r'a;
 manifesto-details-speak-to-people = ka šelaŋ borey se wal'i goo nda ordinater waanay wal'i ši nd'a;
 manifesto-details-make-mozilla-contributors = ka too { -brand-name-mozilla } kanbuzaakey ma ɲaali nda woo kaŋ ir g'a tee nda ka duu bine ka gaabandi; nda
 manifesto-details-provide-a-framework = ka fondo feeri borey jerey se hala lakkaloo woo ma interneti ka koy nda jine.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Fondawey wey ši kaa ka feera ngi boŋ se. Ir ga borey kaŋ ga goy k'internetoo feeri margayan goy se - boro fooyaŋ, borey kaŋ ga tee kondayyaŋ wala wakkiiliyaŋ jerey se. { -brand-name-mozilla-foundation } huzunoo ti fondawey kaŋ harandi { -brand-name-mozilla } bayrandoo ra ma diyandi. Ir boro tanayaŋ da cee i m'ir gana ka interneti tee nungu boryo ka tonton boro kul se.
 manifesto-details-principles = Fondawey
 manifesto-details-the-internet-is-integral = Interneti ti hõ zamanoo hunaroo binoo—a goo cawayandiyan, alhabar toonandiyan, marga goyyan, maamala, binekaanay nda jamaa kul misey game kaanaa ra.
@@ -35,12 +37,15 @@ manifesto-details-magnifying-the = Ir se alfayda beeri foo goo jamaa nafaw zanza
 manifesto-details-advancing-the = Hala { -brand-name-mozilla } bayrandoo ma koy nda jine
 manifesto-details-there-are-many = Taka booboyaŋ goo no kaŋ nda { -brand-name-mozilla } bayrandoo fondawey ga hin ka koy jine. Ir ga boona goy dumiyan kaŋ ga waani, ir ga naata laasaabay henna follokaa ga kaŋ { -brand-name-mozilla } kanbedamkey n'a cebe porožewoo mise fooyaŋ ra. Borey kaŋ ši { -brand-name-mozilla } porožewoo gamoo ra da ga hin ka faaba { -brand-name-mozilla } bayrandoo jer, nd'i ga goy nda { -brand-name-mozilla } { -brand-name-firefox } wala goyjinay tanayaŋ kaŋ ga bayrandoo fondawey tabatandi.
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } meefur
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } na meefur ka { -brand-name-mozilla } bayrandoo gaakašinay nga goymiɲey ra. Nda cimi, ir ga:
 manifesto-details-build-and-enable = aššil feerante dabaribayray nda kondawey marga nda i dam goy ra ka bayrandoo fondawey kayandi;
 manifesto-details-build-and-deliver = ka jinay nda daykey marga nd'i žemna ka bayrandoo fondawey kayandi;
 manifesto-details-use-the-mozilla = ka goy nda { -brand-name-mozilla } daliley (lakkal mayray sanda hantumkaw alhaku nda teekaw tammaasa, goyjinay, alman, darža) hala interneti ma cindi ka tee goydaari feerante;
 manifesto-details-promote-models = ka tee-dumey jer kaŋ goo nda maamala nafaw baytal alman se; nda
 manifesto-details-promote-the-mozilla = ka { -brand-name-mozilla } bayrandoo fondawey zanzan batu šenney ra nda interneti goy teekey game.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Sinjiyanoo goyey jerey—sohõda jinay teeyan, žemnayan nda feeyan heboo se—{ -brand-name-mozilla-corporation }, konpaɲaa kaŋ { -brand-name-mozilla-foundation } hunday g'a may no m'i tee.
 manifesto-details-invitation = Kubayyan
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } ka borey jerey kul cee ka kaa ir do, ka { -brand-name-mozilla } bayrandoo fondawey kayandi nda ka dabari taagayan wiri hala allaahidoo kaŋ ir n'a zaa interneti se ma tee cimi.

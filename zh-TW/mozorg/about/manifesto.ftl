@@ -53,10 +53,12 @@ manifesto-details-the-mozilla-project-global = { -brand-name-mozilla } 專案為
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } 專案以社群力量建立世界一流的開放源碼軟體，並開創各種新式的合作活動；成員們志同道合，為了提昇全民的網路體驗而努力。
 manifesto-details-as-a-result-of = 我們依據過往的努力整理出一系列理念的原則，涵蓋我們認為能同時對全民及商業活動有益的網際網路發展重要方針，在以下的 Mozilla 宣言中將闡述這些理念。
 manifesto-details-the-goals-for = 這份宣言的目的是：
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = 闡明 { -brand-name-mozilla } 參與者們希望 { -brand-name-mozilla-foundation } 追求的網際網路願景；
 manifesto-details-speak-to-people = 對大眾宣揚理念，無論對方是否為技術背景出身；
 manifesto-details-make-mozilla-contributors = 讓 { -brand-name-mozilla } 的貢獻者們以我們的行為為傲，並激勵我們繼續努力；
 manifesto-details-provide-a-framework = 提供其他人推動網際網路朝此願景邁進的準則
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = 有了理念，還待人來實踐；需要以個人努力、團體合作並發揮領導作用，來維持網際網路的開放參與。{ -brand-name-mozilla-foundation } 承諾推行 { -brand-name-mozilla } 宣言裡的理念，也邀請更多夥伴加入我們的行列、致力令網際網路變得更好。
 manifesto-details-principles = 理念
 manifesto-details-the-internet-is-integral = 網際網路是現代生活的一部份，是教育、溝通、合作、商業、娛樂和整個社會的關鍵組成要素之一。
@@ -72,12 +74,15 @@ manifesto-details-magnifying-the = 擴大全民在網際網路方面的利益是
 manifesto-details-advancing-the = 推行 { -brand-name-mozilla } 宣言
 manifesto-details-there-are-many = 宣揚 { -brand-name-mozilla } 宣言的途徑很多，我們歡迎各式各樣的活動，並希望參與者展現像在 { -brand-name-mozilla } 專案其他部份那樣的創造力。對於尚未參與深入 { -brand-name-mozilla } 專案的朋友，支持此宣言最簡單的方法便是使用 { -brand-name-mozilla } { -brand-name-firefox } 及其他具體展現此宣言理念的產品。
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } 承諾
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } 誓以行動支持 { -brand-name-mozilla } 宣言。具體來說，我們將：
 manifesto-details-build-and-enable = 建立、協助認同此宣言理念的開放源碼軟體及社群；
 manifesto-details-build-and-deliver = 開發、提供符合此宣言理念的優良消費性產品；
 manifesto-details-use-the-mozilla = 以 { -brand-name-mozilla } 相關智財（如版權及商標）、組織、資金及聲譽方面的資產，讓網際網路平台保持開放；
 manifesto-details-promote-models = 倡導為公眾利益創造經濟價值的模式，並且
 manifesto-details-promote-the-mozilla = 於公開場合及網際網路產業中宣揚 { -brand-name-mozilla } 宣言。
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = 基金會的部份活動（目前為建立、提供並推廣消費性產品）將主要由 { -brand-name-mozilla-foundation } 的全資子公司 { -brand-name-mozilla-corporation } 執行。
 manifesto-details-invitation = 邀請
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } 邀請支持 { -brand-name-mozilla } 宣言理念的眾人，一同探索實踐這份網際網路願景的新方法。

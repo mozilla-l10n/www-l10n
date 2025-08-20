@@ -29,6 +29,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = כלים
 footer-refresh-donate = תרומה
+# Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = ביקור באתר חברת ההחזקות של <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> שאינה למטרות רווח, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = הזכויות של חלקים מתוכן זה שמורות ©1998–{ $current_year } לתורמים של mozilla.org. התוכן זמין תחת <a rel="license" { $href }>רישיון { -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = הצהרת הפרטיות של האתר

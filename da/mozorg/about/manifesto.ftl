@@ -53,10 +53,12 @@ manifesto-details-the-mozilla-project-global = { -brand-name-mozilla }-projektet
 manifesto-details-the-mozilla-project-community = Ved hjælp af en fællesskabs-baseret tilgang skaber { -brand-name-mozilla }-projektet open source-software i verdensklasse og udvikler nye former for samarbejdsaktiviteter. Vi samler mennesker, der alle ønsker at gøre internettet bedre for os alle.
 manifesto-details-as-a-result-of = På baggrund af denne indsats har vi formuleret et sæt principper, som vi mener er afgørende for, at internettet fortsat kan gavne os alle og samtidig tilgodese kommercielle interesser. Disse principper kan du læse nedenfor.
 manifesto-details-the-goals-for = Målet med manifestet er at:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = formulere en vision for internettet som { -brand-name-mozilla }s tilhængere ønsker, at { -brand-name-mozilla-foundation } skal arbejde for;
 manifesto-details-speak-to-people = tale til mennesker uanset om de har en teknisk baggrund eller ej;
 manifesto-details-make-mozilla-contributors = gøre bidragsydere til { -brand-name-mozilla } stolte og motivere os til at fortsætte; og
 manifesto-details-provide-a-framework = skabe en ramme, hvor andre mennesker kan fremme deres vision for internettet.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Disse principper bliver ikke til virkelighed af sig selv. Det kræver mennesker at gøre internettet åbent og inkluderende - mennesker der optræder alene, samarbejder i grupper og viser andre vejen. { -brand-name-mozilla-foundation } forpligter sig til at fremme principperne formuleret i { -brand-name-mozilla }-manifestet, og vi opfordrer andre til at gøre os selskab og gøre internettet til et endnu bedre sted for os alle.
 manifesto-details-principles = Principper
 manifesto-details-the-internet-is-integral = Internettet er en uundværlig del af det moderne liv — en hjørnesten inden for uddannelse, kommunikation, samarbejde, forretningsliv, underholdning og i samfundet generelt.
@@ -72,12 +74,15 @@ manifesto-details-magnifying-the = Styrkelsen af internettets almennyttige aspek
 manifesto-details-advancing-the = Fremmelse af { -brand-name-mozilla }-manifestet
 manifesto-details-there-are-many = Der er mange forskellige måder at fremme principperne i { -brand-name-mozilla }-manifestet på. Vi ønsker at iværksætte en lang række aktiviteter, og vi forventer, at { -brand-name-mozilla }-tilhængere vil udvise den samme kreativitet, som de hidtil har vist i andre dele af projektet. Er man ikke dybt involveret i { -brand-name-mozilla }-projektet, kan man nemt og meget effektivt vise sin støtte ved at benytte { -brand-name-mozilla } { -brand-name-firefox } og andre produkter, som bygger på principperne i manifestet.
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation }s løfte
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } forpligter sig til at støtte { -brand-name-mozilla }-manifestet i alle vore aktiviteter. Helt konkret vil vi:
 manifesto-details-build-and-enable = skabe og muliggøre open source-teknologier og fællesskaber der støtter principperne i manifestet;
 manifesto-details-build-and-deliver = skabe og levere fantastiske forbrugerprodukter, der støtter principperne i manifestet;
 manifesto-details-use-the-mozilla = benytte os af { -brand-name-mozilla }s aktiver (intellektuel ejendomsret som fx. ophavsret og varemærker, infrastruktur, midler og omdømme) til at sikre internettets fortsatte status som en åben platform;
 manifesto-details-promote-models = fremme modeller der skaber økonomisk værdi til almen gavn; og
 manifesto-details-promote-the-mozilla = advokere for principperne i { -brand-name-mozilla }-manifestet i den offentlige debat og inden for internetbranchen.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Visse af { -brand-name-mozilla-foundation }s aktiviteter — p.t. udvikling, levering og markedsføring af forbrugerprodukter — sker primært igennem vores 100 % ejede datterselskab { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Invitation
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } opfordrer alle andre, der støtter principperne i { -brand-name-mozilla }-manifestet, til at gøre os selskab og sammen med os finde nye måder at gøre denne vision for internettet til virkelighed.

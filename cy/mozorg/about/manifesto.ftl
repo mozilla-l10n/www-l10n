@@ -53,10 +53,12 @@ manifesto-details-the-mozilla-project-global = Mae project { -brand-name-mozilla
 manifesto-details-the-mozilla-project-community = Mae'r project { -brand-name-mozilla } yn defnyddio dull sy'n seiliedig ar y gymuned i greu meddalwedd cod agored byd-eang ac i ddatblygu mathau newydd o weithgareddau cydweithredol. Rydym yn creu cymunedau o bobl sy'n gysylltiedig â gwneud profiad y Rhyngrwyd yn well i bob un ohonom.
 manifesto-details-as-a-result-of = O ganlyniad i'r ymdrechion hyn, rydym wedi distyllu set o egwyddorion y credwn eu bod yn hanfodol ar gyfer y Rhyngrwyd i barhau i gynnig budd i'r cyhoedd yn ogystal ag agweddau masnachol ar fywyd. Rydym yn gosod allan yr egwyddorion hyn isod.
 manifesto-details-the-goals-for = Y nodau ar gyfer y Maniffesto yw i:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = mynegi gweledigaeth ar gyfer y Rhyngrwyd y mae cyfranwyr { -brand-name-mozilla } am i'r { -brand-name-mozilla-foundation } ei ddilyn;
 manifesto-details-speak-to-people = siarad â phobl os oes ganddynt gefndir technegol neu beidio;
 manifesto-details-make-mozilla-contributors = gwneud cyfranwyr { -brand-name-mozilla } yn falch o'r hyn rydym yn ei wneud a'n hannog ni i barhau; a
 manifesto-details-provide-a-framework = darparu fframwaith i bobl eraill hybu y weledigaeth hon o'r Rhyngrwyd.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Ni fydd yr egwyddorion hyn yn dod yn fyw ar eu pen eu hunain. Mae angen pobl i wneud y Rhyngrwyd yn agored ac yn gyfranogol - pobl sy'n gweithredu fel unigolion, yn gweithio gyda'i gilydd mewn grwpiau, ac arwain eraill. Mae'r { -brand-name-mozilla-foundation } yn ymrwymedig i hyrwyddo egwyddorion a nodir ym Maniffesto { -brand-name-mozilla }. Rydym yn gwahodd eraill i ymuno â ni a gwneud y Rhyngrwyd yn lle gwell byth i bawb.
 manifesto-details-principles = Egwyddorion
 manifesto-details-the-internet-is-integral = Mae'r rhyngrwyd yn rhan annatod o fywyd modern—yn elfen allweddol mewn addysg, cyfathrebu, cydweithredu, busnes, adloniant a chymdeithas yn gyffredinol.
@@ -72,12 +74,15 @@ manifesto-details-magnifying-the = Mae cynyddu agweddau budd cyhoeddus y Rhyngrw
 manifesto-details-advancing-the = Hyrwyddo Maniffesto { -brand-name-mozilla }
 manifesto-details-there-are-many = Mae llawer o wahanol ffyrdd o hyrwyddo egwyddorion Maniffesto { -brand-name-mozilla }. Rydym yn croesawu ystod eang o weithgareddau, ac yn rhagweld yr un creadigrwydd y mae cyfranogwyr { -brand-name-mozilla } wedi eu hamlygu mewn meysydd eraill yn y project. Ar gyfer unigolion nad ydynt yn ymwneud yn fawr â phroject { -brand-name-mozilla }, y ffordd amlwg ac effeithiol iawn i gefnogi'r Maniffesto yw drwy ddefnyddio { -brand-name-mozilla } { -brand-name-firefox } a chynnyrch eraill sy'n ymgorffori egwyddorion y Maniffesto.
 manifesto-details-mozilla-foundation = Addewid y { -brand-name-mozilla-foundation }
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = Mae { -brand-name-mozilla-foundation } yn addo i gefnogi Maniffesto { -brand-name-mozilla } yn ei weithgareddau. Yn benodol, byddwn yn:
 manifesto-details-build-and-enable = adeiladu a galluogi technolegau a chymunedau cod agored sy'n cefnogi egwyddorion y Maniffesto;
 manifesto-details-build-and-deliver = adeiladu a chyflwyno cynnyrch gwych i ddefnyddwyr sy'n cefnogi egwyddorion y Maniffesto;
 manifesto-details-use-the-mozilla = ddefnyddio asedau { -brand-name-mozilla } (eiddo deallusol megis hawlfraint a nodau masnach, seilwaith, cronfeydd, ac enw da) i gadw'r Rhyngrwyd yn llwyfan agored;
 manifesto-details-promote-models = hyrwyddo modelau ar gyfer creu gwerth economaidd er budd y cyhoedd, a
 manifesto-details-promote-the-mozilla = hyrwyddo egwyddorion Maniffesto { -brand-name-mozilla } mewn trafodaethau cyhoeddus ac o fewn diwydiant y Rhyngrwyd.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Mae rhai o weithgareddau'r Foundation — sef, ar hyn o bryd, creu, cyflwyno a hyrwyddo cynnyrch defnyddwyr yn cael eu cynnal yn bennaf drwy'r { -brand-name-mozilla-corporation }, is-gwmni sy'n eiddo i'r { -brand-name-mozilla-foundation }.
 manifesto-details-invitation = Gwahoddiad
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = Mae'r { -brand-name-mozilla-foundation } yn gwahodd pawb arall sy'n cefnogi egwyddorion Maniffesto { -brand-name-mozilla } i ymuno gyda ni, ac i ddod o hyd i ffyrdd newydd i wneud y weledigaeth hon o'r Rhyngrwyd yn fyw.

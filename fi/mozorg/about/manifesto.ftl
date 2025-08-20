@@ -53,10 +53,12 @@ manifesto-details-the-mozilla-project-global = { -brand-name-mozilla }-hanke muo
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla }-hanke käyttää yhteisöpohjaista lähestymistapaa maailmanluokan vapaan lähdeohjelmiston luomiseksi ja uudenlaisten yhteistyömuotojen kehittämiseksi. Me luomme Internet-kokemuksen parantamiselle omistautuvia ihmisyhteisöjä.
 manifesto-details-as-a-result-of = Olemme tiivistäneet näiden ponnistelujen tulokset joukoksi periaatteita, jotka uskomme elintärkeiksi Internetin jatkuvalle yhteisen hyvän ja myös elämän kaupallisten näkökohtien edistämiselle. Esitämme nämä periaatteet alla.
 manifesto-details-the-goals-for = Manifestin tavoitteena on:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = esittää Internet-visio, jota { -brand-name-mozilla }-jäsenet haluavat { -brand-name-mozilla-foundation } tavoittelevan;
 manifesto-details-speak-to-people = puhutella ihmisiä riippumatta näiden teknisestä osaamisesta;
 manifesto-details-make-mozilla-contributors = tehdä { -brand-name-mozilla }-avustajat ylpeiksi siitä mitä teemme ja innostaa meitä jatkamaan; sekä
 manifesto-details-provide-a-framework = tarjota viitekehys toisille edistää tätä visiota Internetistä.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Nämä periaatteet eivät herää eloon itsestään. Internetin kehittäminen avoimeksi ja osallistuvaksi edellyttää ihmisiä - ihmisiä, jotka vaikuttavat yksilöinä, työskentelevät yhdessä ryhminä ja johtavat toisia. { -brand-name-mozilla-foundation } omistautuu { -brand-name-mozilla }-manifestin periaatteiden edistämiselle. Kutsumme muita liittymään meihin ja tekemään Internetin yhä paremmaksi paikaksi jokaiselle.
 manifesto-details-principles = Periaatteet
 manifesto-details-the-internet-is-integral = Internet on elimellinen osa modernia elämää. Se on avaintekijä koulutuksessa, viestinnässä, yhteistyössä, liike- ja viihde-elämässä sekä koko yhteiskunnassa.
@@ -72,12 +74,15 @@ manifesto-details-magnifying-the = Internetin yleishyödyllisten puolien korosta
 manifesto-details-advancing-the = { -brand-name-mozilla }-manifestin edistäminen
 manifesto-details-there-are-many = On monenlaisia keinoja edistää { -brand-name-mozilla }-manifestin periaatteita. Me kannatamme runsasta toimintavalikoimaa ja luotamme samaan luomiskykyyn, jota { -brand-name-mozilla }-jäsenistö on osoittanut hankkeen muilla alueilla. Yksilöt, jotka eivät omistaudu syvällisesti { -brand-name-mozilla }-hankkeelle, voivat tukea Manifestia yksinkertaisesti ja erittäin tehokkaasti käyttämällä { -brand-name-mozilla } { -brand-name-firefox }ia ja muita tuotteita, jotka ilmentävät Manifestin periaatteita.
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } lupaus
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } sitoutuu tukemaan toimissaan { -brand-name-mozilla }-manifestia. Tulemme erityisesti:
 manifesto-details-build-and-enable = muodostamaan ja mahdollistamaan avoimen lähdekoodin teknologioita ja yhteisöjä, jotka kannattavat Manifestin periaatteita;
 manifesto-details-build-and-deliver = rakentamaan ja toimittamaan käyttäjille loistavia kuluttajatuotteita, jotka kannattavat Manifestin periaatteita;
 manifesto-details-use-the-mozilla = käyttämään { -brand-name-mozilla }n voimavaroja (intellektuaalista omaisuutta kuten tekijänoikeudet ja tavaramerkit, infrastruktuuria, rahavaroja ja mainetta) Internetin säilyttämiseksi avoimena toimintaympäristönä;
 manifesto-details-promote-models = edistämään toimintamalleja, jotka luovat taloudellista arvoa yhteiseksi hyväksi; ja
 manifesto-details-promote-the-mozilla = edistämään { -brand-name-mozilla }-manifestin periaatteita julkisessa keskustelussa ja Internet-teollisuuden sisällä.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Joitakin Säätiön toimintoja–tällä hetkellä kuluttajatuotteiden luominen, toimitus käyttäjille ja tuotteiden promootio–suoritetaan ensi kädessä { -brand-name-mozilla-foundation } kokonaisuudessaan omistaman tytäryrityksen { -brand-name-mozilla-corporation } kautta.
 manifesto-details-invitation = Kutsu
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } kutsuu kaikki { -brand-name-mozilla }-manifestin periaatteita kannattavat liittymään meihin ja löytämään uusia keinoja tehdä tästä Internet-visiosta todellisuutta.

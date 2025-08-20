@@ -53,10 +53,12 @@ manifesto-details-the-mozilla-project-global = O projeto { -brand-name-mozilla }
 manifesto-details-the-mozilla-project-community = O projeto { -brand-name-mozilla } utiliza uma abordagem baseada em comunidades para criar um software de código aberto de nível mundial e desenvolver novos tipos de atividades colaborativas. Nós criamos comunidades de pessoas comprometidas em tornar a experiência da Internet melhor para todos.
 manifesto-details-as-a-result-of = Como resultado destes esforços, apurámos um conjunto de princípios que acreditamos serem críticos para que a Internet continue a beneficiar o interesse público bem como os aspetos mais comerciais da vida. Definimos os princípios em baixo.
 manifesto-details-the-goals-for = Os objetivos do Manifesto são para:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = articular a visão para a Internet que os participantes da { -brand-name-mozilla } querem que a { -brand-name-mozilla-foundation } persiga;
 manifesto-details-speak-to-people = falar com as pessoas quer estas tenham conhecimentos técnicos ou não;
 manifesto-details-make-mozilla-contributors = faça com que os colaboradores da { -brand-name-mozilla } se orgulhem do que estamos a fazer e nos motivem a continuar; e
 manifesto-details-provide-a-framework = disponibilizar uma base para que outras pessoas façam crescer esta visão da Internet.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Estes princípios não irão aparecer por si só. São precisas pessoas para tornar a Internet aberta e participante. - pessoas a trabalhar individualmente, em grupos e liderando outros. A { -brand-name-mozilla-foundation } compromete-se em promover os princípios definidos no Manifesto da { -brand-name-mozilla }. Convidamos outros a juntarem-se a nós e fazer com que a Internet seja um sítio melhor para todos.
 manifesto-details-principles = Princípios
 manifesto-details-the-internet-is-integral = A Internet é uma parte integral da nossa vida moderna—um componente chave na educação, comunicação, colaboração, negócios, entretenimento e sociedade como um todo.
@@ -72,12 +74,15 @@ manifesto-details-magnifying-the = Destacar os aspetos benéficos públicos da I
 manifesto-details-advancing-the = Promover o Manifesto da { -brand-name-mozilla }
 manifesto-details-there-are-many = Existem muitas formas diferentes de promover os princípios do Manifesto da { -brand-name-mozilla }. Nós acolhemos uma grande variedade de atividades e antecipamos a mesma criatividade que os participantes da { -brand-name-mozilla } mostraram em outras áreas do projeto. Para indivíduos que não estejam profundamente envolvidos no projeto da { -brand-name-mozilla }, uma forma básica e muito eficiente de suportar o Manifesto é utilizar o { -brand-name-mozilla } { -brand-name-firefox } e outros produtos que incorporam os princípios do Manifesto.
 manifesto-details-mozilla-foundation = O compromisso da { -brand-name-mozilla-foundation }
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = A { -brand-name-mozilla-foundation } compromete-se a apoiar o manifesto da { -brand-name-mozilla } nas suas atividades. Especialmente iremos:
 manifesto-details-build-and-enable = construir e ativar tecnologias e comunidades de código aberto que apoiem os princípios do Manifesto;
 manifesto-details-build-and-deliver = construir e disponibilizar excelentes produtos para os consumidores que apoiam os princípios do Manifesto;
 manifesto-details-use-the-mozilla = utilizar os recursos da { -brand-name-mozilla } (propriedade intelectual tais como direitos de autor e marcas registadas, infraestruturas, fundos e reputação) para manter a Internet como uma plataforma aberta;
 manifesto-details-promote-models = promover modelos para criar valor económico para benefício público; e
 manifesto-details-promote-the-mozilla = promover os princípios do Manifesto da { -brand-name-mozilla } em discurso público e dentro da indústria da Internet.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Algumas atividades da Fundação—atualmente a criação, entrega e promoção de produtos de consumo—são conduzidas principalmente pela { -brand-name-mozilla-corporation }, subsidiária totalmente detida pela { -brand-name-mozilla-foundation }.
 manifesto-details-invitation = Convite
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = A { -brand-name-mozilla-foundation } convida todos os que suportam os princípios do Manifesto da { -brand-name-mozilla }, a se juntarem a nós e a encontrar novas formas de tornar esta visão da Internet, uma realidade.

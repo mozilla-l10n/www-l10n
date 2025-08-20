@@ -59,4 +59,5 @@ vpn-features-weve-been-audited = Fomu cuntrullati di Cure53, na cumpagnìa mpurt
 vpn-features-people-over-profits = I genti prima dû guadagnu
 # Variables
 #   $mofo (url) - link to https://foundation.mozilla.org/
+# Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = Semu suppurtati dâ <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, n’urganizzazzioni senza scopu di lucru chi travagghia pi mantèniri a riti graputa e ’n saluti pi tutti pari.

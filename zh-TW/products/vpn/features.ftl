@@ -71,4 +71,5 @@ vpn-features-weve-been-audited = 我們已接受領先的網路安全審計公�
 vpn-features-people-over-profits = 以人為本
 # Variables
 #   $mofo (url) - link to https://foundation.mozilla.org/
+# Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = 我們是由致力於保護網際網路的生態，對所有人都開放與健康而奮鬥的非營利組織 <a { $mofo }>{ -brand-name-mozilla-foundation }</a> 在背後全力相挺。

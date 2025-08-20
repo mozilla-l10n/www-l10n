@@ -51,10 +51,12 @@ manifesto-details-the-mozilla-project-global = El projecte { -brand-name-mozilla
 manifesto-details-the-mozilla-project-community = El projecte { -brand-name-mozilla } usa una estratègia comunitària per a crear programari de codi obert de primer nivell i per a desenvolupar nous tipus d'activitats col·laboratives. Creem comunitats de persones dedicades a millorar l'experiència de tots nosaltres a Internet.
 manifesto-details-as-a-result-of = Com a resultat d'aquests esforços, hem extret un conjunt de principis que considerem crítics per tal que Internet continuï beneficiant el bé públic, així com els aspectes comercials de la vida. Us mostrem aquests principis a continuació.
 manifesto-details-the-goals-for = Els objectius del Manifest són:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = articular una visió d'Internet que els participants de { -brand-name-mozilla } volen que la { -brand-name-mozilla-foundation } persegueixi;
 manifesto-details-speak-to-people = adreçar-se a les persones tant si tenen coneixements tècnics com si no en tenen;
 manifesto-details-make-mozilla-contributors = fer que els col·laboradors de { -brand-name-mozilla } se sentin orgullosos del que estem fent i motivar-nos a continuar, i
 manifesto-details-provide-a-framework = proporcionar un marc perquè altra gent promocioni aquesta visió d'Internet.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Aquests principis no s'establiran per si sols. Cal que la gent faci Internet oberta i participativa -les persones com a individus, treballant plegades en grups o liderant equips. La { -brand-name-mozilla-foundation } està compromesa a promoure els principis establerts al Manifest de { -brand-name-mozilla }. Us convidem a unir-vos a nosaltres i a fer d'Internet un lloc encara millor per a tothom.
 manifesto-details-principles = Principis
 manifesto-details-the-internet-is-integral = Internet és una part integral de la vida moderna; un component clau en l'educació, la comunicació, la col·laboració, els negocis, l'entreteniment i la societat en conjunt.
@@ -70,12 +72,15 @@ manifesto-details-magnifying-the = Magnificar el benefici públic d'Internet és
 manifesto-details-advancing-the = Promoció del Manifest de { -brand-name-mozilla }
 manifesto-details-there-are-many = Hi ha moltes maneres diferents de promoure els principis del Manifest de { -brand-name-mozilla }. Acollim un ampli ventall d'activitats, i preveiem la mateixa creativitat que els participants de { -brand-name-mozilla } han mostrat en altres àrees del projecte. Per a aquelles persones que no estiguin gaire involucrades en el projecte { -brand-name-mozilla }, una manera senzilla i molt efectiva de donar suport al Manifest és emprar el { -brand-name-mozilla } { -brand-name-firefox } i altres productes que expressen els principis del Manifest.
 manifesto-details-mozilla-foundation = El compromís de la { -brand-name-mozilla-foundation }
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = La { -brand-name-mozilla-foundation } es compromet a donar suport al Manifest de { -brand-name-mozilla } en les seves activitats. Específicament:
 manifesto-details-build-and-enable = construirem i habilitarem tecnologies de codi obert i comunitats que s'adiguin als principis del Manifest;
 manifesto-details-build-and-deliver = construirem i oferirem grans productes de consum que s'adiguin als principis del Manifest;
 manifesto-details-use-the-mozilla = usarem els actius de { -brand-name-mozilla } (propietat intel·lectual com ara copyrights i marques comercials, infraestructura, fons i reputació) per a mantenir Internet com a plataforma oberta;
 manifesto-details-promote-models = promourem models per a crear valor econòmic per al benefici públic, i
 manifesto-details-promote-the-mozilla = promourem els principis del Manifest de { -brand-name-mozilla } en el nostre discurs públic i dins la indústria d'Internet.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Algunes de les activitats de la Fundació -actualment la creació, l'oferiment i la promoció dels productes de consum- es duen a terme principalment mitjançant la { -brand-name-mozilla-corporation }, una empresa subsidiària propietat únicament de la { -brand-name-mozilla-foundation }.
 manifesto-details-invitation = Invitació
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = La { -brand-name-mozilla-foundation } convida tothom que comparteixi els principis del Manifest de { -brand-name-mozilla } a unir-s'hi, per tal de cercar noves maneres d'aconseguir que aquesta visió d'Internet es faci realitat.

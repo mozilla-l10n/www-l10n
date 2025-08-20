@@ -25,6 +25,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = اوزار
 footer-refresh-donate = عطیہ ݙیوو
+# Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = <a { $moco_link }>{ -brand-name-mozilla-corporation }’s</a> منافع کیتے کائنی بݨیادی  <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>تے ون٘ڄو۔
 footer-refresh-portions-of-this-content = ایں مواد دے حصے ©1998–{ $current_year } انفرادی mozilla.org دے تعاون کنندگان دے ذریعہ ہن۔ <a rel="license" { $href }>{ -brand-name-creative-commons } لائسنس</a> دے تحت دستیاب مواد۔
 footer-refresh-websites-privacy-notice = ویب سائٹ رازداری نوٹس

@@ -26,6 +26,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Ifecka
 footer-refresh-donate = Mudd tawsa
+# Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = Rzu ɣer <a { $moco_link }>{ -brand-name-mozilla-corporation } d</a> takebbanit ur nettnadi adrim, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Kra n yeḥricen n ugbur-a d ©1998–{ $current_year } sɣur imttekkiyen n mozilla.org. Agbur yella ddaw n <a rel="license" { $href }>turagt { -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Tasertit tabaḍnit n usmel web

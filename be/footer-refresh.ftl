@@ -30,6 +30,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Прылады
 footer-refresh-donate = Ахвяраваць
+# Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = Наведайце сайт <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> — некамерцыйнай бацькоўскай кампаніі для <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
 footer-refresh-portions-of-this-content = Часткі змесціва створаны асобнымі ўдзельнікамі mozilla.org ©1998–{ $current_year }. Змесціва даступна ў адпаведнасці з <a rel="license" { $href }>ліцэнзіяй { -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Паведамленні аб прыватнасці сайта

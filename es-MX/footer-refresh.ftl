@@ -25,6 +25,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Herramientas
 footer-refresh-donate = Donar
+# Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = Visita la organización sin fines de lucro <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, la<a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-websites-privacy-notice = Aviso de privacidad del sitio web
 footer-refresh-websites-cookies = Cookies

@@ -16,10 +16,12 @@ manifesto-details-the-mozilla-project-global = Die { -brand-name-mozilla }-proje
 manifesto-details-the-mozilla-project-community = Die { -brand-name-mozilla }-projek gebruik 'n gemeenskapgebaseerde benadering om oopbronsagteware van wêreldklas te bou en nuwe tipes samewerkingsaktiwiteite te ontwikkel. Ons skep gemeenskappe van mense wat werk om ons almal se ervaring van die Internet te verbeter.
 manifesto-details-as-a-result-of = As deel van hierdie werk het ons 'n stel beginsels onttrek wat ons glo van kritieke belang is vir die Internet om tot publieke voordeel te werk as ook vir die kommersiële lewensfasette. Dié fasette word hier onder uiteengesit.
 manifesto-details-the-goals-for = Die doelwitte van die Manifes is:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = spel uit 'n visie vir die Internet wat { -brand-name-mozilla }-deelnemers wil hê dat die { -brand-name-mozilla-foundation } heen moet mik;
 manifesto-details-speak-to-people = spreek tot mense of hulle 'n tegniese agtergrond het of nie;
 manifesto-details-make-mozilla-contributors = maak { -brand-name-mozilla }-bydraers trots op wat ons doen, en motiveer ons om voort te gaan; en
 manifesto-details-provide-a-framework = skep 'n raamwerk vir ander mense om tot dié visie van die Internet saam te werk.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Hierdie beginsels sal nie op hulle eie 'n realiteit word nie. Mense is nodig vir openheid en samewerking op die Internet — mense wat individueel of in groepe werk, of deur leiding te neem. Die { -brand-name-mozilla-foundation } is verbind tot die beginsels soos uiteengesit in die { -brand-name-mozilla }-manifes. Ons nooi ander uit om by ons aan te sluit en die Internet selfs nog 'n beter plek vir almal te maak.
 manifesto-details-principles = Beginsels
 manifesto-details-the-internet-is-integral = Die Internet is 'n integrale deel van ons moderne lewe—'n sleutelkomponent in opvoeding, kommunikasie, samewerking, besigheid, vermaak en ons totale gemeenskap.
@@ -35,12 +37,15 @@ manifesto-details-magnifying-the = Die uitlig van die publieke voordele van die 
 manifesto-details-advancing-the = Bevordering van die { -brand-name-mozilla }-manifes
 manifesto-details-there-are-many = Daar is verskeie maniere om die beginsels van die { -brand-name-mozilla }-manifes te bevorder. Ons verwelkom 'n wye reeks aktiwiteite en verwag die selfde kreatiwiteit wat { -brand-name-mozilla }-deelnemers in ander gebiede van die projek gewys het. Vir individue wat nie diep in die { -brand-name-mozilla }-projek betrokke is nie is 'n eenvoudige maar effektiewe manier om die Manifes te ondersteun, deur { -brand-name-mozilla } { -brand-name-firefox } en ander produkte te gebruik wat die beginsels van die Manifes vergestalt.
 manifesto-details-mozilla-foundation = Belofte van die { -brand-name-mozilla-foundation }
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = Die { -brand-name-mozilla-foundation } belowe om die { -brand-name-mozilla }-manifes te ondersteun in al sy aktiwiteite. Meer spesifiek belowe ons om:
 manifesto-details-build-and-enable = oopbrontegnologieë en gemeenskappe wat die Manifes se beginsels ondersteun, te bou en te fasiliteer;
 manifesto-details-build-and-deliver = goeie produkte vir eindgebruikers te bou wat die Manifes se beginsels ondersteun;
 manifesto-details-use-the-mozilla = die { -brand-name-mozilla }-bates (intellektuele eiendom soos kopiereg en handelsmerke, infrastruktuur, fondse, reputasie) te gebruik om die Internet 'n oop platform te hou;
 manifesto-details-promote-models = modelle vir die skep van ekonomiese waarde van die openbare voordeel te bevorder; en
 manifesto-details-promote-the-mozilla = die beginsels van die { -brand-name-mozilla }-manifes te bevorder in openbare diskoers en in die Internetindustrie.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Sommige van die Stigting se aktiwiteite — tans die skep, verskaffing en bevordering van produkte vir eindgebruikers — word primêr uitgevoer deur die { -brand-name-mozilla-foundation } se volfiliaal, die { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Uitnodiging
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = Die { -brand-name-mozilla-foundation } nooi almal uit wat die beginsels van die { -brand-name-mozilla }-manifes ondersteun om by ons aan te sluit en nuwe maniere te vind om dié visie van die Internet 'n realiteit te maak.

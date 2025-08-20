@@ -51,10 +51,12 @@ manifesto-details-the-mozilla-project-global = Ri { -brand-name-mozilla } Nimasa
 manifesto-details-the-mozilla-project-community = Ri { -brand-name-mozilla } nimasamaj nisamäj achi'el pa jun tinamït, akuchi' nunük' rukema' jaqäl b'itz'ib' yalan e ütz chuqa' yerunük' k'ak'a' to'onel taq samaj. Yeqanük' tinamït winaqi' akuchi' niqaq'i' qonojel jun utziläj etamab'äl pa K'amaya'l.
 manifesto-details-as-a-result-of = Ri q'i'on rik'in re taq uchuq'a' re', eqanuk'un jujun ruk'u'x taq tzij, ri niqana'ojij chi e k'atzinel richin chi ri K'amaya'l tajin keruto' achi'el ri ajwinäq wachinäq chuqa' ri k'ayin wachinäq pa k'aslemal. Ja re yeqacholajij qa re ruk'u'x taq tzij re'.
 manifesto-details-the-goals-for = Ri taq rurayb'al Tzijoxïk ja re':
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = tiya' retal jun rutzub'al K'amaya'l, akuchi' ri yeto'on pa { -brand-name-mozilla } niqajo' chi troqaj ri { -brand-name-mozilla-foundation };
 manifesto-details-speak-to-people = yojtikïr yojtzijon kik'in ri winaqi', k'o o manäq etamel taq kina'oj;
 manifesto-details-make-mozilla-contributors = tiq'ï' chi ri e ruto'onela' { -brand-name-mozilla } tikina' ki' chi rij ri tajin niqab'än richin chi tuyäk qak'u'x richin k'a yojsamäj; chuqa'
 manifesto-details-provide-a-framework = tiya' jun tikirib'äl richin chi ri ch'aqa' chik winaqi' tikutzilaj re rutzub'al K'amaya'l re'.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Re taq ruk'u'x tzi re' man pa kiyonil ta xkeb'anatäj. Ye'ajowäx winaqi' richin nib'an chi ri K'amaya'l tok jun jaqäl chuqa' to'onel k'ojlib'äl, winaqi' ri yesamäj kiyonil chuqa' pa molaj chuqa' winaqi' ri ye'ok kik'amöl b'ey ch'aqa' chik. Ri { -brand-name-mozilla-foundation } nuya' rutzij chi nib'iyin kik'in ri ruk'u'x taq tzij ya'on ketal pa re rutzijoxik { -brand-name-mozilla }. Yeqapeyoj ch'aqa' chik chi ke'ok pa re nimasamaj re', richin ke ri' niqab'än chi re ri K'amaya'l jun utziläj k'ojlib'äl qichin qonojel.
 manifesto-details-principles = Ruk'u'x taq tzij
 manifesto-details-the-internet-is-integral = Ri K'amaya'l jun ütz k'ulel pa k'ak'a' k'aslem—jun nïm retal tijonïk, ri tzijonem, ri to'ïk, ri k'ayij loq'oj, ri etz'anem chuqa' chi re ri winaqilal pa ronojel.
@@ -70,12 +72,15 @@ manifesto-details-magnifying-the = Kinimirisaxik ri taq retal ajwinäq rurayb'al
 manifesto-details-advancing-the = Nïm b'enäq chuwäch ri { -brand-name-mozilla } rutzijoxik
 manifesto-details-there-are-many = K'o jalajöj rub'anikil richin yek'iyirisäx ri ruk'u'x taq rutzij rutzijoxik { -brand-name-mozilla }. Niqaya' kiq'ij jalajöj ruwäch taq samaj chuqa' niqoyob'ej niqïl ri kina'oj ri yeto'on pa { -brand-name-mozilla } pa ri ch'aqa' chik taq tanaj richin ri nimasamaj. Ri winaqi' man jumul ta tajin yeto'on rik'in ri { -brand-name-mozilla } nimasamaj, jun jikïl rub'anikil chuqa' ütz nikito' ri tzijoxïk, ja ri tikokisaj { -brand-name-mozilla } { -brand-name-firefox } o xab'achike jun chik tikojil ri nuya' retal ruk'u'x taq tzij ri Tzijoxïk.
 manifesto-details-mozilla-foundation = Ri nusüj { -brand-name-mozilla-foundation }
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = Ri { -brand-name-mozilla-foundation } moloj nusüj ruto'ik re Rutzijoxik { -brand-name-mozilla } re' rik'in ri taq rusamaj. Jikïl niqasüj:
 manifesto-details-build-and-enable = niqanük' chuqa' yeqab'än taq na'ob'äl rik'in jaqäl b'itz'ib' achi'el chuqa' taq tinamït ri nikitob'ej ruk'u'x taq rutzij ri Rutzijoxik;
 manifesto-details-build-and-deliver = niqanük' chuqa' yeqataluj utziläj taq tikomal, ri nikitob'ej ruk'u'x taq rutzij ri Rutzijoxik;
 manifesto-details-use-the-mozilla = nokisäx ri taq ruwachinaq { -brand-name-mozilla } (ajna'oj ruwachinaq, ri copyrights chuqa' ri tz'ib'an taq ruwachib'al, ri rucholnuk'ulem, ri taq rupwaq chuqa' ri retal rusamaj) richin nib'an chi re ri K'amaya'l achi'el jun jaqäl nuk'uche'el;
 manifesto-details-promote-models = niya' kitzijol taq b'eyal richin yenuk' ajpwaq taq tob'äl richin ajwinäq to'ïk; chuqa'
 manifesto-details-promote-the-mozilla = niya' kitzijol ri ruk'u'x taq rutzij Rutzijoxik { -brand-name-mozilla } pan ajwinäq taq tzijonem chuqa' pa ruk'iyb'anoj K'amaya'l.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Jujun taq rusamaj ri Moloj—wakami, ri kitz'ukik, kijachik chuqa' kitaluxik taq tokomal—jumul nib'anatäj ruma ri talüy ajk'aymoloj { -brand-name-mozilla-foundation }, ri richin { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Peyonïk
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = Ri { -brand-name-mozilla-foundation } Moloj yerupeyoj konojel ri winaqi' chi kekito' ri ruk'u'x taq rutzij Rutzijoxik { -brand-name-mozilla } chi ke'ok qik'in richin nilitäj k'ak'a' taq rub'anikil chi niwachij re rutzub'al K'amaya'l re'.

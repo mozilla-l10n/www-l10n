@@ -17,4 +17,5 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Дізнати
 not-found-page-download-the-firefox-browser = <a href={ $download }>Завантажте</a> браузер { -brand-name-firefox } для свого мобільного пристрою або комп'ютера
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+# Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Підтримайте</a> { -brand-name-mozilla-foundation } і заберіть контроль над інтернетом у техногігантів.

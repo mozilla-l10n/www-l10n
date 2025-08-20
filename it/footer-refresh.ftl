@@ -32,6 +32,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Strumenti
 footer-refresh-donate = Fai una donazione
+# Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = Visita <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, l’organizzazione senza fini di lucro che controlla <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
 footer-refresh-portions-of-this-content = Parte di questi contenuti sono ©1998–{ $current_year } di singoli collaboratori di mozilla.org. I contenuti sono disponibili secondo la <a rel="license" { $href }>licenza { -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Informativa sulla privacy del sito

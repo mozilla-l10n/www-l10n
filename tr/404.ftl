@@ -17,4 +17,5 @@ not-found-page-learn-about-mozilla-the-non = { -brand-name-firefox }’u gelişt
 not-found-page-download-the-firefox-browser = Mobil cihazınız veya bilgisayarınız için { -brand-name-firefox } tarayıcısını <a href={ $download }>indirin</a>.
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+# Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = İnterneti teknoloji devlerinden geri almamıza yardım edin: { -brand-name-mozilla-foundation }'a <a { $donate }>bağış yapın</a>.

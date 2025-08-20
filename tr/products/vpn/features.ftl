@@ -73,4 +73,5 @@ vpn-features-weve-been-audited = Önde gelen siber güvenlik denetim firması Cu
 vpn-features-people-over-profits = Para için değil, insanlık için
 # Variables
 #   $mofo (url) - link to https://foundation.mozilla.org/
+# Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = Arkamızda, web’in herkes için açık ve sağlıklı kalmasını amaçlayan, kâr amacı gütmeyen <a { $mofo }>{ -brand-name-mozilla-foundation }</a> var.

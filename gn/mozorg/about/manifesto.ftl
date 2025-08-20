@@ -53,10 +53,12 @@ manifesto-details-the-mozilla-project-global = { -brand-name-mozilla } apopyrã 
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } apopyrã oguereko mba’éichapa omboguatáta hembiapo ha’éva tekohakuéra ndive ikatuhápe omoheñói software ijurujáva, iporã añetéva ha omboguata tembiapo oñondiveguáva. Romoheñói ava rekoha oñeha’ãva ojapo ñanduti opavavépe g̃uarãva.
 manifesto-details-as-a-result-of = Ko’ã ñeha’ã rupive, rojapohína heta mba’e iporãmbajepéva ñanduti ikatu hag̃uáicha oiko opavavéva mba’éramo, péicha avei oma’ẽ ñemurã reheguáre. Ko’ápe rombopapappy ãva.
 manifesto-details-the-goals-for = Umi hupytyrã je’epyre rehegua ha’e:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = emboaje ñanduti rembiecha { -brand-name-mozilla } poruhára oipotáva ohapykuehóva { -brand-name-mozilla-foundation };
 manifesto-details-speak-to-people = ñoñmongeta opavave ndive, oikuaa térã ndoikuaáiramo jepe aporeko;
 manifesto-details-make-mozilla-contributors = rohechase { -brand-name-mozilla } pytyvõharakuérape cherovúpe rojapóva rehe ha kóva tomokyre’ỹ jeku’erã; ha
 manifesto-details-provide-a-framework = eme’ẽ kyta ñepyrũha ambue tapicha omboha’eve hag̃ua Ñanduti rembiapo.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Ko’ã ypygua ndoikomo’ãi ha’eñorei. Oñeikotevẽ tapicháre oiko hag̃ua ñandutígui pa’ũ ijurujáva ha ojeikekuaahápe, ava omba’apóva ha’eño ha heta ndive, ha tapicha moakãhára. Ko { -brand-name-mozilla-foundation } oñeha’ãta oku’e tenonde gotyo he’ihácha { -brand-name-mozilla } je’epyre. Roipepirũ opavave oikesévape guive orendive ha, péicha, jajapo hag̃ua ñandutígui tenda iporãvéva tapichakuérape g̃uarã.
 manifesto-details-principles = Ñepyrũgua
 manifesto-details-the-internet-is-integral = Ñanduti ha’e tekotevẽpy tuicháva teko ko’ag̃aguápe — tekotevẽtereíva kuaapýpe g̃uarã, ñomongetarã, ñepytyvõrã, ñemũrã, ñembosarairã ha ava’aty opavavete oikehápe.
@@ -72,12 +74,15 @@ manifesto-details-magnifying-the = Embotuicha ñanduti mba’e porã opavépe g�
 manifesto-details-advancing-the = { -brand-name-mozilla } he’ipyre riregua
 manifesto-details-there-are-many = Heta hendáicha ikatu ñaipytyvõ okakuaa hag̃ua { -brand-name-mozilla } je’epyre. Romoakãraku heta tembiapo ikatu hag̃ua oñemongu’e ha roha’ãrõ rojuhúvo opavavégui katupyry añete { -brand-name-mozilla } pytyvõhára ohechauka haguéicha ambue tembiaporãme. Umi tapicha noĩriva tuichaháicha { -brand-name-mozilla } rembiaporã ndive, ko’ãva oiko hag̃ua eiporuva’erã { -brand-name-mozilla } { -brand-name-firefox } térã ambue apopyrã ohechaukáva pe je’epyre.
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } Ñe’ẽme’ẽ
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } oipytyvõta añetahápe { -brand-name-mozilla } je’epyre ndive. Ja’eporãvo, roñeha’ãta rojapo ko’ãva:
 manifesto-details-build-and-enable = Romoheñói ha rome’ẽta tembiporupyahu ijurujáva ha ava’aty oipytyvõva Mozilla je’epy;
 manifesto-details-build-and-deliver = emoheñói ha emoasãi tembiapokue iporãva omboajéva Mozilla je’epy;
 manifesto-details-use-the-mozilla = { -brand-name-mozilla } mba’e jeporu (imba’ete apopyre, copyright ha imárka teéva, imba’eguereko, iviru ha iñemohu’ãngue) ñanduti ijuruja hag̃ua rekávo;
 manifesto-details-promote-models = emongu’e tembiapo emoheñói hag̃ua virueta mba’e porãrã opavavépe g̃uarã; ha
 manifesto-details-promote-the-mozilla = emongu’e { -brand-name-mozilla } je’epy rehegua ñe’ẽjovái guasúpe ha ñanduti ryepýpe avei.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Heta tembiapo Atyguasu rehegua —ko’ág̃a ñemoheñói, ñemoasãi ha mba’e ñemoherakuã— ojejapohína { -brand-name-mozilla-foundation } rupive, ha’evahína tuichakue { -brand-name-mozilla-corporation } mba’etee.
 manifesto-details-invitation = Peipurũ
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } opepirũ opavave tapichápe oipytyvõvo { -brand-name-mozilla } Je’epy jajuajúvo jajuhu hag̃ua jehecha pyahu ñanduti rehegua.

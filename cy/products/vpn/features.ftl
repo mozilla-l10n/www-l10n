@@ -81,4 +81,5 @@ vpn-features-weve-been-audited = Rydym wedi cael ein harchwilio gan Cure53, cwmn
 vpn-features-people-over-profits = Pobl dros elw
 # Variables
 #   $mofo (url) - link to https://foundation.mozilla.org/
+# Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = Rydym yn cael ein cefnogi gan y <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, corff dim-er-elw er cadw'r we yn agored ac yn iach i bawb.

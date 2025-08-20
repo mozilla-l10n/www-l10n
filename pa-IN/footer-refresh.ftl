@@ -30,6 +30,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = ਟੂਲ
 footer-refresh-donate = ਦਾਨ ਦਿਓ
+# Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> ਦੇ ਗ਼ੈਰ-ਫਾਇਦਾ ਮੂਲ <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> ਨੂੰ ਵੇਖੋ।
 footer-refresh-portions-of-this-content = ਇਸ ਸਮੱਗਰੀ ਦੇ ਹਿੱਸੇ ©1998–{ $current_year } ਲਈ ਨਿੱਜੀ mozilla.org ਯੋਗਦਾਨ ਕੋਲ ਹਨ। ਸਮੱਗਰੀ <a rel="license" { $href }>{ -brand-name-creative-commons } ਲਸੰਸ</a> ਦੇ ਅਧੀਨ ਉਪਲਬਧ ਹੈ।
 footer-refresh-websites-privacy-notice = ਵੈੱਬਸਾਈਟ ਪਰਦੇਦਾਰੀ ਨੋਟਿਸ

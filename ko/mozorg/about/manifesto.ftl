@@ -53,10 +53,12 @@ manifesto-details-the-mozilla-project-global = { -brand-name-mozilla } 프로젝
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } 프로젝트는 세계 최고의 공개 소프트웨어를 만들고 새로운 협업 활동을 만들어 내는 과정에서 커뮤니티 기반 접근 방식을 사용합니다. 우리는 모든 사람의 더 나은 인터넷 사용 경험을 누리게 하기 위해 사람들의 커뮤니티를 만듭니다.
 manifesto-details-as-a-result-of = 이러한 노력의 결과로, 우리는 삶에 있어 경제적 측면 뿐만 아니라 공익적 이득을 지속하기위해 인터넷에서 매우 중요한 몇 가지 원칙들을 뽑아 보았습니다. 이 원칙을 이 선언문의 아랫부분에 명시하였습니다.
 manifesto-details-the-goals-for = 이 선언문의 목표는 다음과 같습니다:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = { -brand-name-mozilla } 참여자가 { -brand-name-mozilla-foundation }에 원하는 인터넷에 대한 미래 비전을 명기한다.
 manifesto-details-speak-to-people = 기술적인 배경을 가지고 있는 사람과 그렇지 않은 사람 모두에게 소구한다.
 manifesto-details-make-mozilla-contributors = { -brand-name-mozilla } 공헌자가 우리 활동을 자랑스럽게 생각함과 동시에 이 활동을 지속하는 동기를 부여한다.
 manifesto-details-provide-a-framework = 이러한 인터넷의 비전을 추구하는 다른 사람들에게 틀을 제공한다.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = 이 원칙이 바로 현실에 구현되지 않을 것입니다. 인터넷에서 사람들을 좀 더 공유하고 참여하게 하려면, 개인이나 단체 또는 다른 영역에서 행동하는 사람들이 필요합니다. { -brand-name-mozilla-foundation }은 { -brand-name-mozilla } 선언문의 원칙을 실현해 나가는 데, 더욱 노력할 것입니다. 우리는 인터넷을 모든 사람들에게 더 나은 공간으로 만드는데 여러분의 참여를 바랍니다.
 manifesto-details-principles = 원칙
 manifesto-details-the-internet-is-integral = 인터넷은 현대인의 삶의 중요한 영역이다. 특히 교육, 커뮤니케이션, 협업, 비즈니스, 오락 및 사회 전반의 영역에서 핵심 분야이다.
@@ -72,12 +74,15 @@ manifesto-details-magnifying-the = 인터넷에서 공익적 측면을 확대하
 manifesto-details-advancing-the = { -brand-name-mozilla } 선언문 추진방법
 manifesto-details-there-are-many = { -brand-name-mozilla } 선언문의 원칙을 추진하는 다양한 방법이 있습니다. 우리는 광범위한 영역의 활동을 환영하고, { -brand-name-mozilla } 공헌자들이 여러 영역에서 보여준 똑같은 창의성을 기대합니다. { -brand-name-mozilla } 프로젝트에 깊이 관여하지 않는 개인이라 하더라도 이 선언문을 수행하는 가장 효과적인 길은 { -brand-name-mozilla } { -brand-name-firefox }나 이 선언문의 원칙을 지지하는 제품을 사용해 주는 것입니다.
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } 공약
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation }은 사업 활동 중 { -brand-name-mozilla } 선언문을 지원할 것을 약속합니다. 구체적으로 아래 사항을 지키겠습니다.
 manifesto-details-build-and-enable = 선언문 내 원칙을 지지하는 공개 소프트웨어 기술 및 커뮤니티 만들고 키워 나간다.
 manifesto-details-build-and-deliver = 선언문 내 원칙을 지지하는 훌륭한 사용자 제품을 만들고 배포한다.
 manifesto-details-use-the-mozilla = 인터넷을 개방 플랫폼으로 유지해 나가기 위해 { -brand-name-mozilla }의 모든 자산(저작권, 상표권 같은 지적 재산권 및 인프라, 자금 및 명성)을 활용한다.
 manifesto-details-promote-models = 공공 이익을 위한 경제적 가치를 창출하기 위한 모델을 추진한다.
 manifesto-details-promote-the-mozilla = 인터넷 업계 및 공개 논의의 장에서 { -brand-name-mozilla } 선언문의 원칙을 추진한다.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = 재단 활동 내 몇 가지 사용자 제품의 제작 및 배포, 홍보 등은 { -brand-name-mozilla-foundation }이 전적으로 소유한 { -brand-name-mozilla-corporation }을 통해 수행 합니다.
 manifesto-details-invitation = 참여 요청
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation }은 { -brand-name-mozilla } 선언문 원칙을 지지하는 모든 사람이 우리와 함께 참여하고 인터넷의 비전을 현실로 만들어내는 새로운 방법을 찾기를 바랍니다.

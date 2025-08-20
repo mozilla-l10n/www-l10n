@@ -73,4 +73,5 @@ vpn-features-weve-been-audited = We zijn geaudit door Cure53, een toonaangevend 
 vpn-features-people-over-profits = Mensen boven winst
 # Variables
 #   $mofo (url) - link to https://foundation.mozilla.org/
+# Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = We worden gesteund door de <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, een non-profitorganisatie die strijdt om het web voor iedereen open en gezond te houden.

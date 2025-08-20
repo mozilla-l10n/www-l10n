@@ -17,4 +17,5 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Mësoni</a> rr
 not-found-page-download-the-firefox-browser = <a href={ $download }>Shkarkoni</a> shfletuesin { -brand-name-firefox } për pajisjen tuaj celulare ose për desktop
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+# Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Dhuroni</a> për { -brand-name-mozilla-foundation } dhe rimerrni internetin prej “big tech”-ut.

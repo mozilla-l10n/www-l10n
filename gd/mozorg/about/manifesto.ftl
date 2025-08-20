@@ -16,10 +16,12 @@ manifesto-details-the-mozilla-project-global = Tha pròiseact { -brand-name-mozi
 manifesto-details-the-mozilla-project-community = Tha pròiseact { -brand-name-mozilla } ag obair leis a' choimhearsnachd gus sàr bhathar-bog le còd fosgailte a chruthachadh agus airson dòighean ùr a lorg gus co-obrachadh a dhèanamh. Cruthaichidh sinn coimhearsnachdan de dhaoine a tha iad uile ag obair airson piseach a chur air an eadar-lìon a chum leas chàich.
 manifesto-details-as-a-result-of = Ri linn ar saothrach, stèidhich sinn grunn phrionnsabalan a tha aig cridhe an eadar-lìn 'nar beachd-ne airson 's gum bi e an dà chuid a chum math nan daoine is math saoghal a' ghnothachais. Chithear na prionnsabalan seo gu h-ìosal.
 manifesto-details-the-goals-for = Seo ar n-amasan a-rèir a' mhanifesto:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = dealbh a dhèanamh dhen lèirsinn dhan eadar-lìon a bu chòir dha { -brand-name-mozilla-foundation } amas air a-rèir coimhearsnachd { -brand-name-mozilla };
 manifesto-details-speak-to-people = bruidhinn ri daoine ge be dè na sgilean teicnigeach a tha aca;
 manifesto-details-make-mozilla-contributors = com-pàirtichean { -brand-name-mozilla } a dhèanamh pròiseil às na tha sinn a' dèanamh 's brosnachadh a thoirt dhaibh a leantainn orra leis an deagh-obair; agus
 manifesto-details-provide-a-framework = ùrlar a thoirt do dhaoine eile air an leasaich iad an lèirsinn seo dhen eadar-lìon.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Chan ann às an adhar a thàinig na prionnsabalan seo. Tha feum air daoine gus an lìon a chumail fosgailte agus ’na àite far an urrainn dhan a h-uile duine pàirt a ghabhail – daoine a nì rudan air an ceann fhèin, feadhainn a cho-obraicheas ann am buidhnean no ceannardan. Tha { -brand-name-mozilla-foundation } an dealas ri brosnachadh nam prionnsabalan a tha ann am manifesto { -brand-name-mozilla }. Tha sinn a’ toirt cuireadh dhan a h-uile duine àite fiù nas fheàrr a dhèanamh dhen eadar-lìon.
 manifesto-details-principles = Na prionnsabalan
 manifesto-details-the-internet-is-integral = Tha an t-eadar-lìon an teis-mheadhan ar beatha an-diugh — gleus deatamach ann am foghlam, conaltradh, co-obrachadh, gnothachas, dibhearsan agus 'nar sòisealtas san fharsaingeachd.
@@ -35,12 +37,15 @@ manifesto-details-magnifying-the = Tha e 'na amas luachmhor - a tha airidh air s
 manifesto-details-advancing-the = Adhartachadh manifesto { -brand-name-mozilla }
 manifesto-details-there-are-many = Tha diofar dòighean ann air an gabh prionnsabalan manifesto { -brand-name-mozilla } adhartachadh. Tha sinn a' cur fàilte air raon farsaing dhe ghnìomhachdan agus tha sinn an dùil gum faic sinn an aon spiorad cruthachail a tha air a bhith follaiseach ann an gnìomhachdan eile na h-iomairt. Mur eil cuideigin airson a bhith an sàs ann gu domhain, tha dòigh shimplidh èifeachdach ann gus taic a chumail ris a' mhanifesto - a' cur gu feum { -brand-name-firefox } is bathar eile sa bheil prionnsabalan a' mhanifesto.
 manifesto-details-mozilla-foundation = Geall { -brand-name-mozilla-foundation }
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = Tha { -brand-name-mozilla-foundation } a’ cur air ceann-gèill taic a chumail ri manifesto { -brand-name-mozilla } ’na shaothraichean. Gu sònraichte:
 manifesto-details-build-and-enable = cruthaichidh is cuidichidh sinn teicneolasan is coimhearsnachdan còd fosgailte a bheir taic iad fhèin do phrionnsabalan a' mhanifesto;
 manifesto-details-build-and-deliver = dealbhaidh 's lìbhrigidh sinn sàr-bhathar a ghèilleas ri prionnsabalan a' mhanifesto dhan luchd-chleachdaidh;
 manifesto-details-use-the-mozilla = cleachdaidh sinn maoin { -brand-name-mozilla } (seilbh inntleachdail mar chòraichean-lethbhreac is comharran-malairt, bun-structar, maoin is cliù) gus an t-eadar-lìon a chumail fosgailte;
 manifesto-details-promote-models = brosnaichidh sinn modailean a chruthaicheas buannachdan eaconamach dhan phoball; agus
 manifesto-details-promote-the-mozilla = brosnaichidh sinn prionnsabalan manifesto { -brand-name-mozilla } san t-saoghal agus am broinn gnìomhachas an eadar-lìn.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Tha cuid de ghnìomhachdan an fhonndais — cruthachadh, lìbhrigeadh is brosnachadh bathar luchd-cleachdaidh aig an àm seo — 'ga choileanadh slighe { -brand-name-mozilla-corporation }, an fho-chuideachd a tha gu tur ann an seilbh aig { -brand-name-mozilla-foundation }.
 manifesto-details-invitation = Cuireadh
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = Tha { -brand-name-mozilla-foundation } a’ toirt cuireadh do chàch (a bheir taic do phrionnsabalan manifesto { -brand-name-mozilla }) pàirt a ghabhail ann gus dòighean ùra a lorg lèirsinn an eadar-lìn a thoirt am bith.

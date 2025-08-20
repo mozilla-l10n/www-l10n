@@ -51,10 +51,12 @@ manifesto-details-the-mozilla-project-global = Proiectul { -brand-name-mozilla }
 manifesto-details-the-mozilla-project-community = Proiectul { -brand-name-mozilla } folosește o abordare bazată pe comunitate pentru a crea programe de talie mondială cu sursă deschisă și pentru a dezvolta tipuri noi de activități colaborative. Creăm comunități care se implică în îmbunătățirea experienței pe internet pentru toți.
 manifesto-details-as-a-result-of = În urma acestor eforturi, am conceput un set de principii pe care le considerăm ca fiind critice pentru ca internetul să continue să deservească în aceeași măsură binele public și aspectele comerciale ale vieții. Le enunțăm aici mai jos.
 manifesto-details-the-goals-for = Obiectivele Manifestului sunt:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = formularea clară a unei viziuni de internet pe care participanții la proiectul { -brand-name-mozilla } vor ca { -brand-name-mozilla-foundation } să o urmeze;
 manifesto-details-speak-to-people = comunicarea cu oamenii indiferent dacă au sau nu au pregătire tehnică;
 manifesto-details-make-mozilla-contributors = inducerea unui sentiment de mândrie în rândul colaboratorilor la proiectul { -brand-name-mozilla } și motivarea lor să continue; și
 manifesto-details-provide-a-framework = asigurarea unui cadru general pentru ca și alții să promoveze această viziune de internet.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Aceste principii nu se vor concretiza de la sine. Este nevoie de oameni pentru a face internetul deschis și participativ - oameni care acționează individual, lucrează în grupuri și îi coordonează pe alții. { -brand-name-mozilla-foundation } este dedicată promovării principiilor prevăzute în Manifestul { -brand-name-mozilla }. Lansăm o invitație și altora să ni se alăture pentru a face internetul un loc și mai bun pentru toți.
 manifesto-details-principles = Principii
 manifesto-details-the-internet-is-integral = Internetul este o parte integrantă a vieții moderne — o componentă-cheie în educație, comunicare, colaborare, afaceri, divertisment și în societate în asamblu.
@@ -70,12 +72,15 @@ manifesto-details-magnifying-the = Creșterea aspectelor de beneficiu public al 
 manifesto-details-advancing-the = Promovarea manifestului { -brand-name-mozilla }
 manifesto-details-there-are-many = Există multe mijloace de promovare a principiilor Manifestului { -brand-name-mozilla }. Încurajăm o gamă largă de activități și ne așteptăm la același nivel de creativitate de care colaboratorii { -brand-name-mozilla } au dat dovadă și în alte zone ale proiectului. Pentru cei care nu sunt implicați puternic în proiectul { -brand-name-mozilla }, o modalitate simplă și foarte eficientă de susținere a Manifestului este să folosească { -brand-name-mozilla } { -brand-name-firefox } și alte produse care înglobează principiile Manifestului.
 manifesto-details-mozilla-foundation = Angajamentul { -brand-name-mozilla-foundation }
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } se angajează să susțină Manifestul { -brand-name-mozilla } în activitățile sale. Concret:
 manifesto-details-build-and-enable = vom construi și vom lucra la tehnologii cu sursă deschisă și comunități care susțin principiile Manifestului;
 manifesto-details-build-and-deliver = vom construi și vom oferi produse de consum nemaipomenite care să susțină principiile Manifestului;
 manifesto-details-use-the-mozilla = vom folosi activele { -brand-name-mozilla } (proprietatea intelectuală, cum ar fi drepturile de reproducere și mărcile comerciale, infrastructura, fondurile și reputația) pentru a păstra internetul o platformă deschisă;
 manifesto-details-promote-models = vom promova modele pentru a crea valori economice în beneficiul public; și
 manifesto-details-promote-the-mozilla = vom promova principiile Manifestului { -brand-name-mozilla } în discursul public și în cadrul industriei internetului.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Unele activități ale Fundației — în prezent crearea, livrarea și promovarea de produse de larg consum — se desfășoară în principal prin intermediul filialei { -brand-name-mozilla-foundation }, deținute integral de { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Invitație
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } îi invită pe toți ceilalți care susțin principiile Manifestului { -brand-name-mozilla } să ni se alăture și să caute modalități noi prin care să transformăm această viziune a internetului în realitate.

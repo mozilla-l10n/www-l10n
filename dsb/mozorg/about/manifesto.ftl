@@ -53,10 +53,12 @@ manifesto-details-the-mozilla-project-global = Projekt { -brand-name-mozilla } j
 manifesto-details-the-mozilla-project-community = Projekt { -brand-name-mozilla } zepěra se na zgromaźeństwo, aby wuběrnu softwaru zjawnego žrědła napórał a nowe wašnje kooperacije wuwijał. Załožujomy zgromaźeństwa luźi, kótarež cynje internet k lěpšemu městnoju za nas wšych.
 manifesto-details-as-a-result-of = Ako wuslědk toś tych prócowanjow smy rěd principow zestajali, kótarež mamy za kritiske za internet, aby dalej zjawnemu derjeměśeju słužyli a teke komercielnym aspektam žywjenja. Toś te principy pódajomy dołojce.
 manifesto-details-the-goals-for = Cele za manifest su:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = wiziju za internet artikulěrowaś, kótaruž załožba { -brand-name-mozilla-foundation } ma pó měnjenju sobustatkujucych { -brand-name-mozilla } spěchowaś;
 manifesto-details-speak-to-people = luźam se pśigroniś, njeźiwajucy na jich technisku slězynu;
 manifesto-details-make-mozilla-contributors = sobustatkujucych { -brand-name-mozilla } gjardych na to cyniś, což cynimy a nas motiwěrowaś dalej źěłaś; a
 manifesto-details-provide-a-framework = wobłuk za drugich luźi napóraś, aby my toś tu wiziju wó interneśe doprědka spórali.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Toś te principy njezwopšawdnjuju se wót samego. Luźe su trjebne, kótarež cynje internet wótwórjony a k městnoju aktiwnego wobźělenja - luźe, kótarež jadnaju ako jadnotliwce, dźěłaju w kupkach gromadu a nawjeduju drugich. Załožba { -brand-name-mozilla-foundation } ma nadawk, principy manifesta { -brand-name-mozilla } spěchowaś. Pśepšošujomy drugich, se nam pśizamknuś a internet k stawnje lěpšemu městnoju za kuždego cyniś.
 manifesto-details-principles = Principy
 manifesto-details-the-internet-is-integral = Internet jo integralny źěl modernego žywjenja — klucowa komponenta w kubłanju, komunikaciji, kooperaciji, pśekupowanju, rozdrosćenju a towarišnosći w cełku.
@@ -72,12 +74,15 @@ manifesto-details-magnifying-the = Mócowanje aspektow zjawnego wužytka interne
 manifesto-details-advancing-the = Spěchowanje manifesta { -brand-name-mozilla }
 manifesto-details-there-are-many = Jo wjele rozdźělnych wašnjow, principy manifesta { -brand-name-mozilla } zwopšawdniś. Witamy šyroku paletu aktiwitow a wócakujomy tu samsku kreatiwnosć, kótaruž wobźělniki na projekśe { -brand-name-mozilla } su na drugich pólach projekta pokazali. Za jadnotliwcow, kótarež njejsu do projekta { -brand-name-mozilla } dłymoko zapśěgnjone, jo zakładna a wjelgin efektiwna móžnosć, manifest pódpěraś, { -brand-name-mozilla } { -brand-name-firefox } a druge produkty wužywaś, kótarež symbolizěruju principy manifesta.
 manifesto-details-mozilla-foundation = Zlubjenje załožby { -brand-name-mozilla-foundation }
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = Załožba { -brand-name-mozilla-foundation } lubi aktiwity manifesta { -brand-name-mozilla } pódpěraś. Pśedewšym buźomy:
 manifesto-details-build-and-enable = technologije wótwórjonego žrědła a zgromaźeństwa wuwijaś a zmóžniś, kótarež pódpěraju principy manifesta;
 manifesto-details-build-and-deliver = wjelicne produkty za kupcow napóraś a k dispoziciji stajaś, kótarež pódpěraju principy manifesta;
 manifesto-details-use-the-mozilla = aktiwa { -brand-name-mozilla } wužywaś (intelektualne swójstwo ako na pś. awtorstwa a wikowe marki, infrastruktura, financielne srědki a mě), aby my internet ako wótwórjonu platformu wobchowali;
 manifesto-details-promote-models = modele za napóranje ekonomiskich gódnotow k zjawnemu wužytkoju spěchowaś; a
 manifesto-details-promote-the-mozilla = principy manifesta { -brand-name-mozilla } w zjawnym diskursu a w internetnej branžy spěchowaś.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Někotare aktiwity załožby - tuchylu napóranje, póbitowanje a spěchowanje produktow za kupcow - pśewjedu se głownje pśez { -brand-name-mozilla-corporation }, stoprocentowu wótnožku towaristwa załožby { -brand-name-mozilla-foundation }.
 manifesto-details-invitation = Pśepšosenje
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = Załožba { -brand-name-mozilla-foundation } pśepšosujo wšych drugich, kótarež pódpěraju principy manifesta { -brand-name-mozilla }, se nam pśizamknuś a nowe drogi namakaś, toś tu wiziju interneta zwopšawdniś.

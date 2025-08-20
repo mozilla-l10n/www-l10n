@@ -51,10 +51,12 @@ manifesto-details-the-mozilla-project-global = „Mozillos“ projektas – tai 
 manifesto-details-the-mozilla-project-community = Vystydamas pasaulinio garso atvirąją programinę įrangą ir kurdamas naujus bendradarbiavimo būdus, { -brand-name-mozilla } projektas remiasi į bendruomenes. Mes kuriame žmonių, prisidedančių prie interneto kokybės kėlimo ir jo draugiškumo, bendruomenes.
 manifesto-details-as-a-result-of = Šių pastangų dėka mums pavyko išgryninti aibę principų, kurių, mūsų įsitikinimu, yra būtina laikytis, kad internetas ir toliau neštų naudą tiek visuomenei, tiek verslui. Šiuos principus ir pateikiame žemiau.
 manifesto-details-the-goals-for = Šio Manifesto tikslai yra:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = apibrėžti interneto viziją, kuria „Mozillos“ projekto dalyvių valia turi vadovautis { -brand-name-mozilla }fondas ({ -brand-name-mozilla-foundation };
 manifesto-details-speak-to-people = išreikšti tikslus taip, kad jie būtų suprantami visiems, nepriklausomai nuo jų techninių žinių lygio;
 manifesto-details-make-mozilla-contributors = skatinti { -brand-name-mozilla } bendradarbius didžiuotis tuo, ką mes visi kartu veikiame ir motyvuoti juos tolesnei veiklai; ir
 manifesto-details-provide-a-framework = suteikti tvirtą pagrindą kitiems siekti šios interneto vizijos įgyvendinimo.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Šie principai netaps realybe patys savaime. Tam, kad internetas būtų atviras kiekvienam, reikia žmonių pagalbos: žmonių, veikiančių pavieniui, susiburiančių į grupes, rodančių kelią kitiems. { -brand-name-mozilla } fondas ({ -brand-name-mozilla-foundation }) yra įsipareigojęs laikytis „Mozillos“ manifeste apibrėžtų principų ir juos skleisti. Visus kviečiame prisijungti prie mūsų siekiant padaryti internetą dar geresne vieta visiems.
 manifesto-details-principles = Principai
 manifesto-details-the-internet-is-integral = Internetas – tai neatsiejama šiuolaikinio gyvenimo dalis ir vienas svarbiausių mokymo, bendravimo, bendradarbiavimo, verslo, pramogų ir visuomenės plačiąja prasme komponentų.
@@ -70,12 +72,15 @@ manifesto-details-magnifying-the = Interneto viešosios naudos aspektų padidini
 manifesto-details-advancing-the = { -brand-name-mozilla } manifesto sklaida
 manifesto-details-there-are-many = Yra daugybė būdų prisidėti prie „Mozillos“ manifesto principų įgyvendinimo ir sklaidos. Mes teigiamai vertiname platų veiklų spektrą ir iš „Mozillos“ projekto narių tikimės panašaus kūrybingumo, kaip ir kitose projekto srityse. Tiems, kas neturi stiprių ryšių su „Mozillos“ projektu, paprastas ir efektyvus būdas palaikyti Manifestą – naudotis „{ -brand-name-mozilla } { -brand-name-firefox }“ naršykle ir kitais produktais, įgyvendinančiais Manifesto principus.
 manifesto-details-mozilla-foundation = „{ -brand-name-mozilla-foundation }“ įsipareigojimai
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = ({ -brand-name-mozilla-foundation }) įsipareigoja savo veikloje palaikyti { -brand-name-mozilla } manifestą ir skleisti jo idėjas. Mes:
 manifesto-details-build-and-enable = kursime ir vystysime atvirojo kodo technologijas ir „Mozillos“ manifestą palaikančias bendruomenes;
 manifesto-details-build-and-deliver = kursime ir vartotojams platinsime kokybiškus produktus, palaikančius Manifesto principus;
 manifesto-details-use-the-mozilla = naudosimės { -brand-name-mozilla } aktyvais (intelektine nuosavybe, kaip antai autorių teisėmis, prekės ženklais, infrastruktūra, finansiniais ištekliais ir įvaizdžiu) kad išlaikytume internetą kaip atvirą platformą;
 manifesto-details-promote-models = skleisime ekonominės vertės visuomenės labui kūrimo modelius; ir
 manifesto-details-promote-the-mozilla = skleisime { -brand-name-mozilla } manifesto principus viešajame diskurse bei interneto industrijoje.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Kai kurios Fondo veiklos (šiuo metu tai – vartotojams skirtų produktų kūrimas, platinimas ir sklaida) vykdomos daugiausia per „{ -brand-name-mozilla-foundation }“ priklausančią dukterinę organizaciją – „{ -brand-name-mozilla-corporation }“.
 manifesto-details-invitation = Kvietimas
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } kviečia visus, palaikančius { -brand-name-mozilla } manifesto principus, prisijungti prie mūsų ir atrasti naujus būdus prisidėti prie šios interneto vizijos įgyvendinimo.

@@ -36,10 +36,12 @@ manifesto-details-the-mozilla-project-global = La projekto { -brand-name-mozilla
 manifesto-details-the-mozilla-project-community = La projekto { -brand-name-mozilla } kalkulas je komunumo por krei altkvalitan malfermitkodan programaron kaj por disvolvi novajn tipojn de kunlaboro. Ni kreas komunumojn de personoj, kiuj partoprenas kun la celo plibonigi la Interretan sperton por ni ĉiuj.
 manifesto-details-as-a-result-of = El tiuj streboj rezultas poluritan aron de principoj, kiujn ni opinias decidigaj por ke Interreto plu estu profitiga kaj publike kaj komerce. Ni listigas tiun principojn malsupre.
 manifesto-details-the-goals-for = La celoj por la Manifesto estas:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = difini Interreton idealan kiun, laŭ la volo de la anoj de { -brand-name-mozilla }, { -brand-name-mozilla-foundation } devus celi;
 manifesto-details-speak-to-people = alparoli ĉiujn, ĉu ili havas teknikajn konojn aŭ ne;
 manifesto-details-make-mozilla-contributors = fierigi la kontribuantojn de { -brand-name-mozilla } pri tio, kion ni faras, kaj emigi nin daŭrigi; kaj
 manifesto-details-provide-a-framework = provizi bazon sur kiu aliaj personoj povas daŭrigi la vojon al la ideala Interreto.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Tiuj principoj ne ekvivos tute solaj. Bezonatas personoj por igi la reton malfermita kaj partoprenita, ĉu unuope, ĉu grupe, ĉu gvide. { -brand-name-mozilla-foundation } dediĉas sin al antaŭenigo de la principoj, kiuj estas en la Manifesto de { -brand-name-mozilla }. Ni invitas aliajn personojn aliĝi al ni kaj plibonigi la reton por ĉiu.
 manifesto-details-principles = Principoj
 manifesto-details-the-internet-is-integral = Interreto estas ne forigebla parto de moderna vivo, ĉefa elemento en edukado, komunikado, kunlaboro, negocoj, distro kaj en socio kiel tutaĵo.
@@ -55,12 +57,15 @@ manifesto-details-magnifying-the = Elstarigi la publikan flankon de Interreto es
 manifesto-details-advancing-the = Antaŭenigo de la Manifesto de { -brand-name-mozilla }
 manifesto-details-there-are-many = Estas pluraj manieroj antaŭenigi la principojn de la Manifesto de { -brand-name-mozilla }. Ni bonvenigas larĝan grupon de agadoj kaj anticipas grandan kreemon, kiel la anoj de { -brand-name-mozilla } jam montris en aliaj partoj de la projekto. Por personoj kiuj ne estas profunde enmetitaj en la projeko { -brand-name-mozilla } ekizstas baza kaj tre efika maniero subteni la Manifeston: uzi { -brand-name-mozilla } { -brand-name-firefox } kaj aliajn produktojn, kiuj portas la principojn de la Manifesto.
 manifesto-details-mozilla-foundation = Promeso de { -brand-name-mozilla-foundation }
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } promesas subteni la Manifeston de { -brand-name-mozilla } en siaj agadoj. Specife ni:
 manifesto-details-build-and-enable = konstrui kaj funkciigi malfermitkodajn teknologiojn kaj komunumojn, kiuj subtenas la principojn de la Manifesto;
 manifesto-details-build-and-deliver = konstrui kaj liveri al uzantoj bonegajn produktojn, kiuj subtenas la principojn de la Manifesto;
 manifesto-details-use-the-mozilla = uzi propraĵojn de { -brand-name-mozilla } (intelektajn propraĵojn kiel kopirajtoj kaj varmarkoj, sistemojn, monon kaj reputacion) por certi ke Interreto plu estos malfermita;
 manifesto-details-promote-models = stimuli modelojn, kiuj kreas ekonomian valoron por publika utilo; kaj
 manifesto-details-promote-the-mozilla = antaŭenigi la principojn de la Manifesto de { -brand-name-mozilla } en publikaj diskutoj kaj interne de la Interreta industrio.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Kelkaj agadoj de { -brand-name-mozilla-foundation } (nuntempe la kreado, livero kaj diskonigo de produktoj por uzantoj) estas plenumitaj ĉefe de la ida kaj plene regita { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Invito
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } invitas ĉiujn, kiuj subtenas la principojn de la Manifesto de { -brand-name-mozilla }, aliĝi al ni kaj trovi novajn manierojn realigi tiun ĉi idealan Interreton.

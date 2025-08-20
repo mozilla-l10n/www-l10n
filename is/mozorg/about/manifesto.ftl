@@ -51,10 +51,12 @@ manifesto-details-the-mozilla-project-global = { -brand-name-mozilla } verkefni�
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } verkefnið notar samfélagsmiðaða nálgun til að búa til heimsklassa opinn hugbúnað og til að þróa nýjar gerðir af samvinnuvirkni. Við búum til samfélög fólks sem tekur þátt í að gera netupplifunina betri fyrir okkur öll.
 manifesto-details-as-a-result-of = Sem afleiðing af þessari viðleitni höfum við sett saman meginreglur sem við teljum að séu mikilvægar til að internetið haldi áfram að gagnast almannaheill sem og viðskiptalegum þáttum lífsins. Við setjum þessar meginreglur fram hér að neðan.
 manifesto-details-the-goals-for = Markmið stefnuskrárinnar eru að:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = setja fram sýn fyrir internetið sem þátttakendur í { -brand-name-mozilla } vilja að { -brand-name-mozilla-foundation } fylgi;
 manifesto-details-speak-to-people = tala við fólk hvort sem það hefur tæknilegan bakgrunn eða ekki;
 manifesto-details-make-mozilla-contributors = gera þátttakendur í { -brand-name-mozilla } stolta af því sem við erum að gera og hvetja okkur til að halda áfram; og
 manifesto-details-provide-a-framework = skapa umgjörð fyrir annað fólk til að efla þessa sýn á internetið.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Þessar meginreglur munu ekki lifna við sjálfar. Það þarf fólk til að gera internetið opið og taka þátt - fólk sem starfar sem einstaklingar, vinnur saman í hópum og leiðir aðra. { -brand-name-mozilla-foundation } hefur skuldbundið sig til að efla meginreglurnar sem settar eru fram í { -brand-name-mozilla } stefnuskránni. Við bjóðum öðrum að vera með okkur og gera internetið að sífellt betri stað fyrir alla.
 manifesto-details-principles = Meginreglur
 manifesto-details-the-internet-is-integral = Internetið er óaðskiljanlegur hluti af nútíma lífi - lykilþáttur í menntun, samskiptum, samvinnu, viðskiptum, skemmtun og í samfélaginu sem heild.
@@ -70,12 +72,15 @@ manifesto-details-magnifying-the = Að leggja áherslu á almannahagsmuni intern
 manifesto-details-advancing-the = Koma stefnuskrá { -brand-name-mozilla } á framfæri
 manifesto-details-there-are-many = Það eru margar mismunandi leiðir til að koma meginreglum stefnuskrár { -brand-name-mozilla } á framfæri. Við fögnum fjölbreyttri starfsemi og sjáum fyrir sama sköpunarkraftinn og þátttakendur í { -brand-name-mozilla } hafa sýnt á öðrum sviðum verkefnisins. Fyrir einstaklinga sem ekki eru á kafi sem þátttakendur í { -brand-name-mozilla } verkefninu, þá er ein einföld og mjög áhrifarík leið til að styðja við yfirlýsinguna sú að nota { -brand-name-mozilla } { -brand-name-firefox } og annan þann hugbúnað sem felur í sér meginreglur stefnuskrárinnar.
 manifesto-details-mozilla-foundation = Loforð { -brand-name-mozilla-foundation }
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } lofar að styðja stefnuskrá { -brand-name-mozilla } í starfsemi sinni. Nánar tiltekið munum við:
 manifesto-details-build-and-enable = byggja upp og styðja við opna tækni og samfélög sem styðja meginreglur stefnuskrárinnar;
 manifesto-details-build-and-deliver = byggja og afhenda frábæran neytendahugbúnað sem styður meginreglur stefnuskrárinnar;
 manifesto-details-use-the-mozilla = nota eignir og tilföng { -brand-name-mozilla } (hugverkarétt eins og höfundarrétt og vörumerki, innviði, fjármuni og orðspor) til að halda internetinu sem opnum vettvangi;
 manifesto-details-promote-models = styðja og koma á framfæri fyrirmyndum til að skapa efnahagsleg verðmæti í þágu almennings; og
 manifesto-details-promote-the-mozilla = kynna meginreglur { -brand-name-mozilla } stefnuskrárinnar í opinberri umræðu og innan netiðnaðarins.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Sum starfsemi sjálfseignarstofnunarinnar – sem í dag er smíði, afhending og kynning á neytendahugbúnaði – fer fyrst og fremst fram í gegnum dótturfyrirtæki í fullri eigu { -brand-name-mozilla-foundation }; { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Hvatning
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } býður öllum öðrum sem styðja meginreglur { -brand-name-mozilla } stefnuskrárinnar að taka þátt með okkur og finna nýjar leiðir til að gera þessa sýn á internetinu að veruleika.

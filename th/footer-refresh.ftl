@@ -31,6 +31,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = เครื่องมือ
 footer-refresh-donate = บริจาค
+# Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = เยี่ยมชม <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> มูลนิธิไม่แสวงหาผลกำไร<a { $moco_link }>ของ { -brand-name-mozilla-corporation }</a>
 footer-refresh-portions-of-this-content = บางส่วนของเนื้อหานี้สงวนลิขสิทธิ์ ©1998–{ $current_year } โดยผู้มีส่วนร่วมของ mozilla.org แต่ละคน เนื้อหาใช้งานได้ภายใต้ <a rel="license" { $href }>สัญญาอนุญาต { -brand-name-creative-commons }</a>
 footer-refresh-websites-privacy-notice = ประกาศความเป็นส่วนตัวของเว็บไซต์

@@ -51,10 +51,12 @@ manifesto-details-the-mozilla-project-global = { -brand-name-mozilla } ਪ੍ਰ
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } ਪ੍ਰੋਜੈਕਟ ਸੰਸਾਰ-ਵਰਲਡ ਓਪਨ ਸੋਰਸ ਸਾਫਟਵੇਅਰ ਬਣਾਉਣ ਅਤੇ ਨਵੇਂ ਕਿਸਮ ਦੇ ਸਹਿਯੋਗੀ ਗਤੀਵਿਧੀਆਂ ਨੂੰ ਵਿਕਸਿਤ ਕਰਨ ਲਈ ਕਮਿਊਨਿਟੀ-ਅਧਾਰਤ ਪਹੁੰਚ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ। ਸਾਡੇ ਸਾਰਿਆਂ ਲਈ ਇੰਟਰਨੈਟ ਅਨੁਭਵ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਵਿੱਚ ਸ਼ਾਮਲ ਲੋਕਾਂ ਦੇ ਭਾਈਚਾਰੇ ਨੂੰ ਅਸੀਂ ਤਿਆਰ ਕਰਦੇ ਹਾਂ।
 manifesto-details-as-a-result-of = ਇਹਨਾਂ ਯਤਨਾਂ ਦੇ ਸਿੱਟੇ ਵਜੋਂ, ਅਸੀਂ ਉਹਨਾਂ ਸਿਧਾਂਤਾਂ ਦੇ ਇੱਕ ਸਮੂਹ ਨੂੰ ਨਿਸ਼ਕਾਸਿਤ ਕੀਤਾ ਹੈ ਜੋ ਅਸੀਂ ਮੰਨਦੇ ਹਾਂ ਕਿ ਇੰਟਰਨੈੱਟ ਲਈ ਜਨਤਾ ਦੇ ਚੰਗੇ ਅਤੇ ਵਪਾਰਕ ਪਹਿਲੂਆਂ ਨੂੰ ਲਾਭ ਪਹੁੰਚਾਉਂਦੇ ਰਹਿਣ ਲਈ ਮਹੱਤਵਪੂਰਨ ਹਨ। ਅਸੀਂ ਹੇਠਾਂ ਇਹਨਾਂ ਅਸੂਲਾਂ ਦਾ ਪਤਾ ਲਗਾਇਆ ਹੈ।
 manifesto-details-the-goals-for = ਮੈਨੀਫੈਸਟੋ ਲਈ ਟੀਚੇ ਇਹ ਹਨ:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = ਇੰਟਰਨੈੱਟ ਲਈ ਇੱਕ ਦ੍ਰਿਸ਼ਟੀਕੋਣ ਨੂੰ ਸਪੱਸ਼ਟ ਕਰੋ ਕਿ { -brand-name-mozilla } ਹਿੱਸੇਦਾਰ { -brand-name-mozilla-foundation } ਨੂੰ ਅੱਗੇ ਲਿਜਾਣਾ ਚਾਹੁੰਦੇ ਹਨ;
 manifesto-details-speak-to-people = ਲੋਕਾਂ ਨਾਲ ਗੱਲ ਕਰੋ ਭਾਵੇਂ ਉਨ੍ਹਾਂ ਕੋਲ ਤਕਨੀਕੀ ਪਿਛੋਕੜ ਹੋਵੇ ਜਾਂ ਨਾ;
 manifesto-details-make-mozilla-contributors = { -brand-name-mozilla } ਸਹਿਯੋਗੀਆਂ ਨੂੰ ਮਾਣ ਹੈ ਕਿ ਅਸੀਂ ਕੀ ਕਰ ਰਹੇ ਹਾਂ ਅਤੇ ਜਾਰੀ ਰਹਿਣ ਲਈ ਸਾਨੂੰ ਪ੍ਰੇਰਿਤ ਕਰਦੇ ਹਾਂ; ਅਤੇ
 manifesto-details-provide-a-framework = ਦੂਜਿਆਂ ਲੋਕਾਂ ਲਈ ਇੱਕ ਫਰੇਮਵਰਕ ਪ੍ਰਦਾਨ ਕਰੋ ਤਾਂ ਕਿ ਇੰਟਰਨੈਟ ਦੇ ਇਸ ਦ੍ਰਿਸ਼ ਨੂੰ ਅੱਗੇ ਵਧਾ ਸਕੋ।
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = ਇਹ ਸਿਧਾਂਤ ਆਪਣੀ ਖੁਦ ਦੀ ਜ਼ਿੰਦਗੀ ਵਿਚ ਨਹੀਂ ਆਉਂਦੇ। ਲੋਕਾਂ ਨੂੰ ਇੰਟਰਨੈਟ ਨੂੰ ਖੁੱਲ੍ਹਾ ਅਤੇ ਭਾਗੀਦਾਰੀ ਬਣਾਉਣ ਦੀ ਲੋੜ ਹੈ - ਲੋਕ ਵਿਅਕਤੀ ਦੇ ਤੌਰ ਤੇ ਕੰਮ ਕਰਦੇ ਹਨ, ਸਮੂਹਾਂ ਵਿੱਚ ਮਿਲ ਕੇ ਕੰਮ ਕਰਦੇ ਹਨ, ਅਤੇ ਦੂਜਿਆਂ ਦੀ ਅਗਵਾਈ ਕਰਦੇ ਹਨ { -brand-name-mozilla-foundation } { -brand-name-mozilla } ਮੈਨੀਫੈਸਟੋ ਵਿਚ ਦੱਸੇ ਸਿਧਾਂਤਾਂ ਨੂੰ ਅੱਗੇ ਵਧਾਉਣ ਲਈ ਵਚਨਬੱਧ ਹੈ। ਅਸੀਂ ਹੋਰਨਾਂ ਨੂੰ ਸਾਡੇ ਨਾਲ ਸ਼ਾਮਿਲ ਹੋਣ ਲਈ ਸੱਦਾ ਦਿੰਦੇ ਹਾਂ ਅਤੇ ਇੰਟਰਨੈਟ ਨੂੰ ਹਰ ਕਿਸੇ ਲਈ ਇੱਕ ਬਿਹਤਰ ਸਥਾਨ ਬਣਾਉਂਦੇ ਹਾਂ।
 manifesto-details-principles = ਪ੍ਰਿੰਸੀਪਲ
 manifesto-details-the-internet-is-integral = ਇੰਟਰਨੈਟ ਇੱਕ ਆਧੁਨਿਕ ਜੀਵਨ ਦਾ ਇੱਕ ਅਨਿੱਖੜਵਾਂ ਅੰਗ ਹੈ- ਸਿੱਖਿਆ, ਸੰਚਾਰ, ਸਹਿਯੋਗ, ਵਪਾਰ, ਮਨੋਰੰਜਨ ਅਤੇ ਸਮੁਦਾਏ ਵਿੱਚ ਇੱਕ ਮੁੱਖ ਭਾਗ ਹੈ।
@@ -70,12 +72,15 @@ manifesto-details-magnifying-the = ਇੰਟਰਨੈੱਟ ਦੇ ਜਨਤਕ 
 manifesto-details-advancing-the = { -brand-name-mozilla } ਮੈਨੀਫੈਸਟੋ ਨੂੰ ਅੱਗੇ ਵਧਾਉਣਾ
 manifesto-details-there-are-many = { -brand-name-mozilla } ਮੈਨੀਫੈਸਟੋ ਦੇ ਸਿਧਾਂਤਾਂ ਨੂੰ ਅੱਗੇ ਵਧਾਉਣ ਦੇ ਬਹੁਤ ਸਾਰੇ ਵੱਖ-ਵੱਖ ਤਰੀਕੇ ਹਨ। ਅਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਗਤੀਵਿਧੀਆਂ ਦਾ ਸਵਾਗਤ ਕਰਦੇ ਹਾਂ, ਅਤੇ ਉਸੇ ਰਚਨਾਤਮਕਤਾ ਦੀ ਉਮੀਦ ਕਰਦੇ ਹਾਂ ਜੋ { -brand-name-mozilla } ਭਾਗੀਦਾਰਾਂ ਨੇ ਪ੍ਰੋਜੈਕਟ ਦੇ ਹੋਰ ਖੇਤਰਾਂ ਵਿੱਚ ਦਿਖਾਇਆ ਹੈ। { -brand-name-mozilla } ਪ੍ਰੋਜੇਕਟ ਵਿੱਚ ਸ਼ਾਮਲ ਲੋਕਾਂ ਲਈ ਡੂੰਘਾ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਮੈਨੀਫੈਸਟੋ ਨੂੰ ਸਮਰਥਨ ਦੇਣ ਦਾ ਇੱਕ ਬੁਨਿਆਦੀ ਅਤੇ ਬਹੁਤ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਤਰੀਕਾ { -brand-name-mozilla } { -brand-name-firefox } ਅਤੇ ਮੈਨੀਫੈਸਟੋ ਦੇ ਸਿਧਾਂਤਾਂ ਦਾ ਰੂਪ ਧਾਰਨ ਕਰਨ ਵਾਲੇ ਦੂਜੇ ਉਤਪਾਦਾਂ ਦੀ ਵਰਤੋਂ ਕਰਨਾ ਹੈ।
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } ਦੀ ਸਹੁੰ
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } ਆਪਣੀ ਗਤੀਵਿਧੀਆਂ ਵਿੱਚ { -brand-name-mozilla } ਮੈਨੀਫੈਸਟੋ ਨੂੰ ਸਮਰਥਨ ਦੇਣ ਦਾ ਵਚਨ ਦਿੰਦਾ ਹੈ। ਖਾਸ ਤੌਰ ਤੇ, ਅਸੀਂ ਕਰਾਂਗੇ:
 manifesto-details-build-and-enable = ਓਪਨ-ਸੋਰਸ ਤਕਨੀਕਾਂ ਅਤੇ ਕਮਿਊਨਿਟੀਆਂ ਨੂੰ ਬਣਾਉਣ ਅਤੇ ਸਮਰੱਥ ਕਰੋ ਜੋ ਮੈਨੀਫੈਸਟੋ ਦੇ ਸਿਧਾਂਤਾਂ ਦਾ ਸਮਰਥਨ ਕਰਦੇ ਹਨ;
 manifesto-details-build-and-deliver = ਮੈਨੀਫੈਸਟੋ ਦੇ ਸਿਧਾਂਤਾਂ ਦਾ ਸਮਰਥਨ ਕਰਨ ਵਾਲੇ ਮਹਾਨ ਵਰਤੋਂਕਾਰ ਉਤਪਾਦਾਂ ਨੂੰ ਬਣਾਉਣ ਅਤੇ ਪ੍ਰਦਾਨ ਕਰਨ ਲਈ;
 manifesto-details-use-the-mozilla = ਇੰਟਰਨੈੱਟ ਨੂੰ ਇੱਕ ਖੁੱਲਾ ਪਲੇਟਫਾਰਮ ਰੱਖਣ ਲਈ { -brand-name-mozilla } ਸੰਪਤੀਆਂ (ਬੌਧਿਕ ਸੰਪਤੀ ਜਿਵੇਂ ਕਿ ਕਾਪੀਰਾਈਟ ਅਤੇ ਟਰੇਡਮਾਰਕ, ਬੁਨਿਆਦੀ ਢਾਂਚਾ, ਫੰਡ, ਅਤੇ ਵੱਕਾਰੀ) ਦੀ ਵਰਤੋਂ ਕਰੋ;
 manifesto-details-promote-models = ਜਨਤਕ ਲਾਭ ਲਈ ਆਰਥਿਕ ਮੁੱਲ ਬਣਾਉਣ ਲਈ ਮਾਡਲਾਂ ਦੀ ਤਰੱਕੀ; ਅਤੇ
 manifesto-details-promote-the-mozilla = ਜਨਤਕ ਭਾਸ਼ਣ ਵਿੱਚ ਅਤੇ ਇੰਟਰਨੈੱਟ ਉਦਯੋਗ ਵਿੱਚ { -brand-name-mozilla } ਮੈਨੀਫੈਸਟੋ ਦੇ ਸਿਧਾਂਤਾਂ ਨੂੰ ਉਤਸ਼ਾਹਿਤ ਕਰੋ।
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = ਕੁਝ ਫਾਊਂਡੇਸ਼ਨ ਦੀਆਂ ਗਤੀਵਿਧੀਆਂ - ਵਰਤਮਾਨ ਵਿੱਚ ਵਰਤੋਂਕਾਰ ਉਤਪਾਦਾਂ ਦੀ ਸਿਰਜਣਾ, ਡਿਲਿਵਰੀ ਅਤੇ ਪ੍ਰਮੋਸ਼ਨ - ਮੁੱਖ ਤੌਰ ਤੇ { -brand-name-mozilla-foundation }  ਦੀ ਪੂਰੀ ਮਾਲਕੀ ਵਾਲੀ ਸਹਾਇਕ ਕੰਪਨੀ, { -brand-name-mozilla-corporation } ਦੁਆਰਾ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।
 manifesto-details-invitation = ਸੱਦਾ
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } ਉਹਨਾਂ ਸਾਰੇ ਲੋਕਾਂ ਨੂੰ ਸੱਦਾ ਦਿੰਦੀ ਹੈ ਜੋ ਸਾਡੇ ਨਾਲ ਜੁੜਨ ਲਈ { -brand-name-mozilla } ਮੈਨੀਫੈਸਟੋ ਦੇ ਸਿਧਾਂਤਾਂ ਦਾ ਸਮਰਥਨ ਕਰਦੇ ਹਨ ਅਤੇ ਇੰਟਰਨੈਟ ਦੀ ਇਸ ਦ੍ਰਿਸ਼ਟੀਕੋਣ ਨੂੰ ਇੱਕ ਹਕੀਕਤ ਬਣਾਉਣ ਦੇ ਨਵੇਂ ਤਰੀਕੇ ਲੱਭਦੇ ਹਨ।

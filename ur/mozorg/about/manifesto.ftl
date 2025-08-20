@@ -47,6 +47,7 @@ manifesto-details-the-mozilla-manifesto = { -brand-name-mozilla } کا منشو�
 manifesto-details-introduction = تعارف
 manifesto-details-the-internet-is-becoming = انٹرنیٹ ہماری زندگی کا ایک اہم حصہ بنتا جارہا ہے۔
 manifesto-details-the-goals-for = منشور کے لئے اہداف یہ ہیں:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = { -brand-name-mozilla } کے شرکا { -brand-name-mozilla-foundation } کو انٹرنیٹ حصول کے لیے جسکا تعاقب کروانا چاہتے ہیں اس تصور کا صاف طَور س اظہار کریں؛
 manifesto-details-speak-to-people = لوگوں سے بات چیت کریں کہ ان کا تکنیکی پس منظر ہے یا نہیں۔
 manifesto-details-make-mozilla-contributors = جو ہم کر رہے ہیں اس سے { -brand-name-mozilla } کے معاون کاروں کو فخر محسوس کرایں اور ہمیں جاری رہنے کے لیے متحرک کریں؛ اور
