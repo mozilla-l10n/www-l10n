@@ -39,7 +39,7 @@ vpn-landing-more-than-servers-in-countries =
         [one] არანაკლებ { $servers } სერვერი { $countries }-ზე მეტ ქვეყანაში
        *[other] არანაკლებ { $servers } სერვერი { $countries }-ზე მეტ ქვეყანაში
     }
-vpn-landing-fast-network-speeds-even-while = სწრაფი კავშირი ქსელთან თამაშის დროსაც კი
+vpn-landing-fast-network-speeds-even-while = ქსელის მაღალი სიჩქარე თამაშის დროსაც კი
 vpn-landing-no-logging-tracking-or-sharing = აღრიცხვების, თვალთვალისა და ქსელის მონაცემების გამჟღავნების გარეშე
 vpn-landing-no-bandwidth-restrictions-or = გამტარუნარიანობის არანაირი შეზღუდვა ან შეკვეცა
 vpn-landing-extra-security-whole-device = დამატებითი უსაფრთხოება: მთლიანი მოწყობილობის დაცვა, მრავალკვანძიანი დამისამართება და სხვა

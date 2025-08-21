@@ -29,14 +29,14 @@ vpn-features-connect-up-to =
 vpn-features-supported-platforms = მხარდაჭერილი საოპერაციო სისტემებია Windows, macOS, Android, iOS და Linux.
 vpn-features-no-bandwidth = გამტარუნარიანობის არანაირი შეზღუდვა ან შეკვეცა
 vpn-features-including-no-data = აგრეთვე მონაცემების ზღვრებისა და სიჩქარის შემცირების გარეშე.
-vpn-features-fast-network = სწრაფი კავშირი ქსელთან თამაშის დროსაც კი
+vpn-features-fast-network = ქსელის მაღალი სიჩქარე თამაშის დროსაც კი
 # Variables
 #   $wireguard (url) - link to https://mullvad.net/help/why-wireguard/
 vpn-features-mozilla-vpn-uses-wireguard = { -brand-name-mozilla-vpn }-ს უზრუნველყოფს <a { $wireguard }>Wireguard</a>™, ერთ-ერთ ყველაზე მდგრადი VPN-ოქმი.
 vpn-features-secure = დაცული
-vpn-features-block-ads = სარეკლამოებს უზღუდავს თქვენ მიმართ გამიზნულ ზემოქმედებას
+vpn-features-block-ads = სარეკლამოების მიერ თქვენზე გამიზნული ზემოქმედების აღკვეთა
 vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn } დაგეხმარებათ ავტომატურად შეუზღუდოთ რეკლამებსა და სარეკლამო მეთვალყურეებს თქვენი მოქმედებებისთვის თვალის დევნება.
-vpn-features-encrypt-your-internet = სრულად შიფრავს თქვენს ქსელთან კავშირს
+vpn-features-encrypt-your-internet = ქსელში მიმოცვლილი მონაცემების სრული დაშიფვრა
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } იცავს ყველა პროგრამას, არამხოლოდ ბრაუზერს.
 vpn-features-stronger-malware = მეტად მძლავრი დაცვა მავნე პროგრამებისგან
 vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } არ მოგცემთ მავნე პროგრამების გადმოწერის საშუალებას სახიფათოდ მიჩნეული წყაროებიდან.
@@ -44,13 +44,13 @@ vpn-features-super-private-mode = ზეპირადული რეჟიმ
 # Variables
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
 vpn-features-multi-hop-feature = ჩვენს <a { $feature }>მრავალკვანძიან</a> დამისამართებას ახალ საფეხურზე აჰყავს თქვენი უსაფრთხოება.
-vpn-features-support-for-custom-dns = მორგებული DNS-ის მხარდაჭერა
+vpn-features-support-for-custom-dns = სასურველი DNS-ის მითითების საშუალება
 # Variables
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
 vpn-features-keep-traffic-protected = { -brand-name-mozilla-vpn }-ით შეგიძლიათ უსაფრთხოდ მიმოცვალოთ მონაცემები და სასურველი გზით დაამისამართოთ DNS-მოთხოვნები. <a { $dns }>ვრცლად მორგებული DNS-მხარდაჭერის შესახებ</a>.
 vpn-features-flexible = მოქნილი
-vpn-features-webste-specific-vpn = ვებსაიტზე მორგებული VPN-პარამეტრები, პირდაპირ ჩაშენებულად გთავაზობთ { -brand-name-firefox }
-vpn-features-with-the-mozilla-vpn-extention = { -brand-name-mozilla-vpn }-გაფართოება { -brand-name-firefox }-ისთვის (მხოლოდ Windows-ზე) შეგიძლიათ უფრო უკეთ მოირგოთ და VPN გამოიყენოთ თითოეულ საიტზე თავისებურად. გამორიცხეთ ცალკეული ვებსაიტი VPN-დაცვიდან ან მიუთითეთ სასურველი მდებარეობა ყოველი მათგანისთვის ცალ-ცალკე, რაც უზრუნველყოფს მეტად მოქნილ და თქვენზე მორგებულ მომსახურებას.
+vpn-features-webste-specific-vpn = ვებსაიტის მიხედვით მომართული VPN, რომელსაც ჩაშენებულად გამოიყენებს { -brand-name-firefox }
+vpn-features-with-the-mozilla-vpn-extention = { -brand-name-mozilla-vpn }-გაფართოება { -brand-name-firefox }-ში (მხოლოდ Windows-ზე) გეხმარებათ, უკეთ მოირგოთ თქვენი VPN და თითოეულ საიტზე გამოიყენოთ განსხვავებულად. გამორიცხეთ ცალკეული ვებსაიტი VPN-დაცვიდან ან მიუთითეთ სასურველი მდებარეობა ყოველი მათგანისთვის ცალ-ცალკე, რაც უზრუნველყოფს მეტად მოქნილ და თქვენზე მორგებულ მომსახურებას.
 vpn-features-personalized-server = სერვერის სასურველი მდებარეობის შემოთავაზება
 vpn-features-well-suggest-which-servers = გირჩევთ თქვენთან ახლომდებარე სერვერს, რომელიც უზრუნველყოფს უსწრაფეს და ყველაზე მეტად საიმედო კავშირს ქსელთან.
 vpn-features-personalize-which-apps = სასურველი პროგრამების შერჩევა VPN-ით დასაცავად
