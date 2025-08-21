@@ -55,11 +55,13 @@ manifesto-details-as-a-result-of = Als resultaat van deze inspanningen hebben we
 manifesto-details-the-goals-for = De doelen van het manifest zijn:
 # Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = een visie voor het internet uit te spreken waarvan { -brand-name-mozilla }-deelnemers willen dat de { -brand-name-mozilla-foundation } ze nastreeft;
+manifesto-details-articulate-a-vision-v2 = een visie voor het internet uit te spreken waarvan { -brand-name-mozilla }-deelnemers willen dat { -brand-name-mozilla-foundation } ze nastreeft;
 manifesto-details-speak-to-people = mensen aanspreken, of ze nu wel of niet een technische achtergrond hebben;
 manifesto-details-make-mozilla-contributors = { -brand-name-mozilla }-medewerkers trots maken op wat we doen en ons motiveren om door te gaan; en
 manifesto-details-provide-a-framework = een raamwerk maken voor andere mensen om deze visie op het internet te verspreiden.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Deze principes zullen niet vanzelf tot leven komen. Er zijn mensen nodig om van het internet een plaats te maken die open is en waar iedereen kan meewerken – mensen die individueel opereren, samenwerken in groepen, en anderen leiden. De { -brand-name-mozilla-foundation } wil met toewijding de principes uit het { -brand-name-mozilla }-manifest uitdragen. We nodigen anderen uit om mee te doen en het internet voor iedereen een betere plek te maken.
+manifesto-details-these-principles-v2 = Deze principes zullen niet vanzelf tot leven komen. Er zijn mensen nodig om van het internet een plaats te maken die open is en waar iedereen kan meewerken – mensen die individueel opereren, samenwerken in groepen, en anderen leiden. { -brand-name-mozilla-foundation } wil met toewijding de principes uit het { -brand-name-mozilla }-manifest uitdragen. We nodigen anderen uit om mee te doen en het internet voor iedereen een betere plek te maken.
 manifesto-details-principles = Principes
 manifesto-details-the-internet-is-integral = Het internet is een integraal deel van het moderne leven – een sleutelcomponent in scholing, communicatie, samenwerking, handel, ontspanning en maatschappij als geheel.
 manifesto-details-the-internet-is-global = Het internet is een wereldwijde publieke hulpbron die open en toegankelijk moet blijven.
@@ -76,6 +78,7 @@ manifesto-details-there-are-many = Er zijn veel verschillende manieren om de pri
 manifesto-details-mozilla-foundation = De belofte van de { -brand-name-mozilla-foundation }
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = De { -brand-name-mozilla-foundation } belooft het { -brand-name-mozilla }-manifest te steunen in zijn activiteiten. Specifiek zullen we:
+manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation } belooft het { -brand-name-mozilla }-manifest te steunen in zijn activiteiten. Specifiek zullen we:
 manifesto-details-build-and-enable = opensourcetechnologieën en gemeenschappen die de principes van het manifest steunen bouwen en mogelijk maken;
 manifesto-details-build-and-deliver = prachtige consumentenproducten die de principes van het manifest steunen maken en aanbieden;
 manifesto-details-use-the-mozilla = de middelen van { -brand-name-mozilla } (intellectueel eigendom zoals copyrights en handelsmerken, infrastructuur, fondsen en reputatie) gebruiken om het internet een open platform te houden;
@@ -83,6 +86,8 @@ manifesto-details-promote-models = modellen voor het maken van economische waard
 manifesto-details-promote-the-mozilla = de principes van het { -brand-name-mozilla }-manifest in publieke gesprekken en in de internetindustrie bekendmaken.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Sommige activiteiten van de Foundation – op dit moment het maken, aanbieden en promotie van consumentenproducten – worden primair geleid door de dochteronderneming van de { -brand-name-mozilla-foundation }, de { -brand-name-mozilla-corporation }.
+manifesto-details-some-foundation-v2 = Sommige activiteiten van de Foundation – op dit moment het maken, aanbieden en promotie van consumentenproducten – worden primair geleid door de volledige dochteronderneming van { -brand-name-mozilla-foundation }, de { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Uitnodiging
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = De { -brand-name-mozilla-foundation } nodigt iedereen die de principes van het { -brand-name-mozilla }-manifest steunt uit om met ons mee te doen en om nieuwe manieren te vinden om deze visie van het internet werkelijkheid te maken.
+manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } nodigt iedereen die de principes van het { -brand-name-mozilla }-manifest steunt uit om met ons mee te doen en om nieuwe manieren te vinden om deze visie van het internet werkelijkheid te maken.
