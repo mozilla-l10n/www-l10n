@@ -21,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser(zacetnica: "vel
 firefox-desktop-out-of-date = Na voljo je še novejši { -brand-name-firefox }. <a { $update_url }>Posodobite na najnovejšo različico</a>
 firefox-desktop-download-get-the-browser = Izberite brskalnik, ki ščiti pomembne stvari
 firefox-desktop-download-fast-reliable-private = Hiter, zanesljiv in zaseben – za brezskrbno spletno življenje.
+firefox-desktop-set-as-default = Nastavite si { -brand-name-firefox(sklon: "tozilnik") } kot privzeti brskalnik.
 firefox-desktop-download-download-options = Možnosti prenosa in drugi jeziki
 firefox-desktop-download-browser-support = Podpora za { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
