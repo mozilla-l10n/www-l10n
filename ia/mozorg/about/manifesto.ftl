@@ -55,11 +55,13 @@ manifesto-details-as-a-result-of = Como consequentia de iste effortios, nos ha d
 manifesto-details-the-goals-for = Le propositos pro le Manifesto es de:
 # Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = articular un vision de internet que le participantes de { -brand-name-mozilla } vole esser le objectivo de { -brand-name-mozilla-foundation };
+manifesto-details-articulate-a-vision-v2 = declamar un vision de internet que le participantes a { -brand-name-mozilla } vole que { -brand-name-mozilla-foundation } perseque;
 manifesto-details-speak-to-people = parlar al personas mesmo si illes non ha un base technic;
 manifesto-details-make-mozilla-contributors = render le contributores de { -brand-name-mozilla } fer de lo que nos face e motivar nos a continuar; e
 manifesto-details-provide-a-framework = fornir un structura a altere personas pro facer avantiar iste vision de Internet.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Iste principios non nascera spontaneemente. Personas es necessari pro render Internet aperte e participatori - personas qui age como individuos, qui collabora in gruppos, e qui dirige alteres. { -brand-name-mozilla-foundation } es committite a promover le principios declarate in le Manifesto de { -brand-name-mozilla }. Nos invita alteres a unir se a nos e render Internet un loco sempre melior pro totes.
+manifesto-details-these-principles-v2 = Iste principios non prendera vita de se mesme. Personas es necessari pro render internet aperte e participate, personas agente como individuos, laborante insimul in gruppos, e ducente alteres. { -brand-name-mozilla-foundation } es dedicate al progresso del principios declarate in le Manifesto de { -brand-name-mozilla }. Nos invita alteres a unir se a nos e render internet un posto sempre melior pro omnes.
 manifesto-details-principles = Principios
 manifesto-details-the-internet-is-integral = Internet es parte integrante de nostre vita moderne, un componente clave in le education, communication, economia, intertenimento e le integre societate.
 manifesto-details-the-internet-is-global = Internet es un public ressource global, que debe restar aperte e accessibile.
@@ -76,6 +78,7 @@ manifesto-details-there-are-many = Il ha plure differente manieras del promover 
 manifesto-details-mozilla-foundation = Le fidantia solemne de { -brand-name-mozilla-foundation }
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } sponde de supportar le Manifesto de { -brand-name-mozilla } in su activitates. Specificamente, nos vole:
+manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation } sponde pro supportar le Manifesto de { -brand-name-mozilla } in su activitates. Specificamente, nos vole:
 manifesto-details-build-and-enable = producer e activar technologias open-source e communitates que supporta le principios del Manifesto;
 manifesto-details-build-and-deliver = producer e delivrar grande productos de consumitor que supporta le principios del Manifesto;
 manifesto-details-use-the-mozilla = usar le ressources de { -brand-name-mozilla } (proprietate intellectual tal como copyrights e trademarks, infrastructura, fundos, e fama) pro mantener Internet un tribuna aperte;
@@ -83,6 +86,8 @@ manifesto-details-promote-models = promover modellos pro crear valor economic pr
 manifesto-details-promote-the-mozilla = promover le principios del Manifesto de { -brand-name-mozilla } in public discursos e in le industria de Internet.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Alcun activitates del Fundation: actualmente le creation, delivrantia e promotion del productos de consummator, es conducite primarimente per le { -brand-name-mozilla-corporation }, subsidiari in toto controlate per le { -brand-name-mozilla-foundation }.
+manifesto-details-some-foundation-v2 = Alcun activitates del fundation: actualmente le creation, delivration e promotion de productos de consumitor es conducite primarimente per { -brand-name-mozilla-corporation }, succursal totalmente proprietari de { -brand-name-mozilla-foundation }.
 manifesto-details-invitation = Invitation
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } invita tote les qui supporta le principios del Manifesto de { -brand-name-mozilla } a conjunger se con nos e cercar nove manieras pro render un realitate iste vision de internet.
+manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } invita tote le alteres qui supporta le principios del Manifesto de { -brand-name-mozilla } a unir se a nos, e a trovar nove manieras pro render iste vision del internet un realitate.

@@ -34,6 +34,7 @@ footer-refresh-tools = Utensiles
 footer-refresh-donate = Donar
 # Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = Visita le organisation non lucrative genitor de <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
+footer-refresh-visit-mozilla-corporations-v2 = Visita <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, organisation non lucrative que controla <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
 footer-refresh-portions-of-this-content = Portiones de iste contento es ©1998–{ $current_year } per contributores individual de mozilla.org. Contento disponibile sub un licentia <a rel="license" { $href }>{ -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Aviso de confidentialitate del sito web
 footer-refresh-websites-cookies = Cookies
