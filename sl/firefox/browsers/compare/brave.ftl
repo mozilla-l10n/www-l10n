@@ -9,6 +9,8 @@
 compare-brave-firefox-vs-brave = { -brand-name-firefox } in Brave: primerjava
 # HTML page description
 compare-brave-read-our-comparison = Preberite našo primerjavo brskalnikov { -brand-name-firefox } in Brave po funkcijah, zasebnosti in enostavnosti uporabe.
+# "Fiddling" means you have to make a lot of changes and adjustments to make it work correctly.
+compare-brave-firefoxs-privacy-settings-are = { -brand-name-firefox }ove nastavitve zasebnosti so zmogljive in jih je preprosto uporabljati. Bravovo privzeto blokiranje oglasov lahko povzroči, da spletne strani ne delujejo, in ga je treba pogosto ročno izklapljati. Naš cilj je ponuditi zasebnost v dovolj uporabnikom prijazni obliki, da bi jo dejansko <em>uporabljali</em>.
 compare-brave-firefox-makes-it-easy-for-you = { -brand-name-firefox } vam omogoča preprosto izbiro iskalnika, ki ga želite uporabljati za svoja vsakdanja iskanja. Brskalnik Brave privzeto uporablja lasten iskalnik, če želite nastaviti drugega, pa se je treba poglobiti v nastavitve.
 # Variables:
 # $primary (url) - link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
