@@ -10,3 +10,4 @@ consent-banner-body-v2 = În plus față de cookie-urile necesare ca să funcți
 consent-banner-button-reject = Respinge toate cookie-urile suplimentare
 consent-banner-button-accept = Acceptă toate cookie-urile suplimentare
 consent-banner-settings-link = Setări cookie
+consent-banner-aria-label = Banner de cookie-uri
