@@ -26,7 +26,7 @@ vpn-features-connect-up-to =
         [one] დააკავშირეთ { $devices } მოწყობილობამდე
        *[other] დააკავშირეთ { $devices } მოწყობილობამდე
     }
-vpn-features-supported-platforms = მხარდაჭერილია Windows, macOS, Android, iOS და Linux საოპერაციო სისტემებზე.
+vpn-features-supported-platforms = მხარდაჭერილი საოპერაციო სისტემებია Windows, macOS, Android, iOS და Linux.
 vpn-features-no-bandwidth = გამტარუნარიანობის არანაირი შეზღუდვა ან შეკვეცა
 vpn-features-including-no-data = აგრეთვე მონაცემების ზღვრებისა და სიჩქარის შემცირების გარეშე.
 vpn-features-fast-network = სწრაფი კავშირი ქსელთან თამაშის დროსაც კი
