@@ -34,7 +34,7 @@ footer-refresh-tools = ხელსაწყოები
 footer-refresh-donate = შემოწირულობა
 # Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = გაიცანით <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, არამომგებიან დაწესებულება, რომლის შვილობილიცაა <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
-footer-refresh-visit-mozilla-corporations-v2 = ეწვიეთ <a { $moco_link }>{ -brand-name-mozilla-corporation }-ის</a> არამომგებიანი დაწესებულებას, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
+footer-refresh-visit-mozilla-corporations-v2 = იხილეთ <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, არამომგებიანი დაწესებულება, რომლის შვილობილიცაა <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>
 footer-refresh-portions-of-this-content = შიგთავსის ნაწილები შექმნილია mozilla.org პროექტის მონაწილეების მიერ ©1998–{ $current_year }. მასალა ვრცელდება <a rel="license" { $href }>{ -brand-name-creative-commons } ლიცენზიით</a>.
 footer-refresh-websites-privacy-notice = საიტის პირადულობის განაცხადი
 footer-refresh-websites-cookies = ფუნთუშები
