@@ -57,16 +57,16 @@ vpn-features-personalize-which-apps = სასურველი პროგ�
 vpn-features-easily-exclude-apps = მარტივად გამორიცხეთ პროგრამების ნაწილი VPN-დაცვიდან — არაა საჭირო მოწყობილობის სრულად გამოთიშვა { -brand-name-mozilla-vpn }-იდან. ხელმისაწვდომია Windows, Android და Linux მოწყობილობებზე.
 vpn-features-trustworthy = სანდო
 vpn-features-money-back = 30-დღიანი ვადით თანხის დასაბრუნებლად
-vpn-features-plus-customer-support = ამასთან ერთად 24/7 მომხმარებელთა მხარდაჭერა.
+vpn-features-plus-customer-support = ამასთანავე, 24/7-ზე მომხმარებელთა მხარდაჭერა.
 vpn-features-we-never-log = ჩვენ არასდროს აღვრიცხავთ, არ ვადევნებთ თვალს და არ გავაზიარებთ თქვენი ქსელის მონაცემებს
 # Variables
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-features-simply-put-we-dont = მოკლედ, ჩვენ არ ვაგროვებთ თქვენს პირად მონაცემებს. ესაა ჩვენი <a { $privacy }>გასაგებად ჩამოყალიბებული დებულება პირადულობის დაცვის შესახებ</a>.
+vpn-features-simply-put-we-dont = მოკლედ, ჩვენ არ ვაგროვებთ თქვენს პირად მონაცემებს. აქვეა ჩვენი <a { $privacy }>გასაგებად ჩამოყალიბებული დებულება პირადულობის დაცვის შესახებ</a>.
 vpn-features-built-transparently = გამჭვირვალედ აგებული ღია წყაროთი
 # Variables
 #   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
 vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } შექმნილია ღია წყაროს მქონე კოდით, რაც ნიშნავს, რომ საჯაროდაა ხელმისაწვდომი. ვრცლად იხილეთ ჩვენი <a { $github }>GitHub-საცავი</a>.
-vpn-features-reviewed-by-third = უსაფრთხოების გარეშე სპეციალისტების მიერ დამოწმებული
+vpn-features-reviewed-by-third = უსაფრთხოების დამოუკიდებელი სპეციალისტების მიერ დამოწმებული
 # Variables
 #   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
 vpn-features-weve-been-audited = გავლილი გვაქვს შემოწმება, რომელსაც უზრუნველყოფს Cure53, კიბერუსაფრთხოების წამყვანი აუდიტორული დაწესებულება. <a { $report }>მოხსენება იხილეთ აქ</a>.
