@@ -76,4 +76,5 @@ firefox-developer-view-the-release = Če želite izvedeti, kaj je novega, si ogl
 firefox-developer-developer-tools-user = Dokumentacija za razvojna orodja
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Viri za razvijalce, od razvijalcev
+firefox-developer-mdn-playground = Igrišče
 firefox-developer-mdn-blog = Blog { -brand-name-mdn }
