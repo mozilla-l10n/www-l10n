@@ -40,6 +40,7 @@ m24-home-mask-your-email = E-posta adresinizi ve telefon numaranızı maskeleyin
 
 # Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Kâr amacı gütmeyen { -brand-name-mozilla }’ya bağış yapın
+m24-home-donate-to-v2 = { -brand-name-mozilla-foundation }na bağış yapın
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } internete sahip çıkacak bir hareket inşa ediyor. Gizliliğimizin korunduğu, yapay zekânın güvenilir olduğu ve sorumsuz teknoloji şirketlerinin hesap verdiği bir gelecek inşa edebiliriz. Ama bu sadece birlikte çalışırsak mümkün.
 m24-home-were-proudly-nonprofit = Kâr amacı gütmüyoruz ve bununla gurur duyuyoruz. { -brand-name-mozilla }’ya bağış yaparak bize destek olur musunuz?

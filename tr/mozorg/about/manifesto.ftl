@@ -76,6 +76,7 @@ manifesto-details-there-are-many = { -brand-name-mozilla } Manifestosu’nun ilk
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation }’nın Andı
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation }, etkinliklerinde { -brand-name-mozilla } Manifestosu’nu desteklemeyi taahhüt eder. Özellikle şu taahhütlerde bulunuyoruz:
+manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation }, etkinliklerinde { -brand-name-mozilla } Manifestosu’nu desteklemeyi taahhüt eder. Özellikle şu taahhütlerde bulunuyoruz:
 manifesto-details-build-and-enable = Manifesto’nun ilkelerini destekleyecek açık kaynaklı teknolojiler ve topluluklar oluşturup hayata geçireceğiz,
 manifesto-details-build-and-deliver = Manifesto’nun ilkelerini destekleyecek başarılı tüketici ürünleri oluşturup dağıtacağız,
 manifesto-details-use-the-mozilla = İnternetin açık bir platform olarak kalmasını sağlamak için { -brand-name-mozilla } varlıklarını (telif hakkı ve ticari marka, altyapı, fonlar ve itibar gibi fikri mülkiyet hakları) kullanacağız,
@@ -86,3 +87,4 @@ manifesto-details-some-foundation = Bazı vakıf etkinlikleri (şu an itibarıyl
 manifesto-details-invitation = Davet
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation }, { -brand-name-mozilla } Manifestosu’nun ilkelerini destekleyen diğer herkesi bize katılmaya ve bu internet vizyonunu gerçeğe dönüştürecek yeni yollar bulmaya davet ediyor.
+manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation }, { -brand-name-mozilla } Manifestosu’nun ilkelerini destekleyen diğer herkesi bize katılmaya ve bu internet vizyonunu gerçeğe dönüştürecek yeni yollar bulmaya davet ediyor.
