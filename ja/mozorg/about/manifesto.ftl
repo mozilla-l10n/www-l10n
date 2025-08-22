@@ -58,10 +58,12 @@ manifesto-details-the-mozilla-project-global = { -brand-name-mozilla } プロジ
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } プロジェクトでは、コミュニティベースの方法により、世界基準のオープンソースソフトウェアを制作し、新たな形態の共同作業を開発しています。Mozilla は、万人のインターネットエクスペリエンスを向上させることに関与する人々のコミュニティを組織しています。
 manifesto-details-as-a-result-of = こうした取り組みの結果、インターネットが引き続き公益に資するとともに、生活の商業的側面にも役立つために不可欠であると考えられる諸原則を策定しました。こうした諸原則を以下に示します。
 manifesto-details-the-goals-for = 本マニフェストの目的は次のとおりです:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = { -brand-name-mozilla-foundation } が追求するものとして、{ -brand-name-mozilla } の参加者が望むインターネットに関するビジョンを説明すること
 manifesto-details-speak-to-people = 技術分野の経歴の有無を問わず、人々と対話すること
 manifesto-details-make-mozilla-contributors = Mozilla の作業を、{ -brand-name-mozilla } 寄稿者の誇りとなり、それを継続する Mozilla のモチベーションを高めるものにすること
 manifesto-details-provide-a-framework = 他の人々にこのインターネットに関するビジョンを推進する枠組みを提供すること
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = これらの原則は、ひとりでに実現されるものではなく、インターネットを誰でも利用できる門戸が開かれたものにするためには、個人やグループで、あるいは他の人々のリーダーなど、人々が必要です。{ -brand-name-mozilla-foundation } は { -brand-name-mozilla } マニフェストに定める原則を推進する取り組みを行っています。Mozilla では、インターネットを万人にとってより良い場とする取り組みに変えるよう、Mozilla への参加を呼びかけています。
 manifesto-details-principles = 原則
 manifesto-details-the-internet-is-integral = インターネットは現代生活に不可欠であり、教育、通信、連携、ビジネス、エンターテインメント、そして社会全体における重要部分となっています。
@@ -77,12 +79,15 @@ manifesto-details-magnifying-the = 公益的側面の拡大は、時間と労力
 manifesto-details-advancing-the = { -brand-name-mozilla } のマニフェストの推進
 manifesto-details-there-are-many = { -brand-name-mozilla } のマニフェストの原則を推進する方法には、様々なものがあります。Mozilla では、幅広い活動を歓迎し、{ -brand-name-mozilla } への参加者がこのプロジェクトの様々な分野で発揮している創造力と同様の創造力を期待しています。{ -brand-name-mozilla } プロジェクトにそれほど深く関与していない個人の方には、このマニフェストの原則が具体化されている { -brand-name-mozilla } { -brand-name-firefox } その他の製品を使用することは、本マニフェストを支援する基本的でありつつ極めて効果的な方法です。
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } の誓約
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } は、自らの活動において { -brand-name-mozilla } のマニフェストを支持することを誓います。具体的には、次の通りです:
 manifesto-details-build-and-enable = 本マニフェストの原則を支持するオープンソースのテクノロジーとコミュニティを構築し、実現します
 manifesto-details-build-and-deliver = 本マニフェストの原則を支持する優れた消費者向け製品を製作・提供します
 manifesto-details-use-the-mozilla = { -brand-name-mozilla } の資産 (著作権や商標、インフラ、資金、のれん等の知財) を使用してインターネットを門戸が開かれたプラットフォームに維持します
 manifesto-details-promote-models = 公益のための経済的価値のモデルを推進します
 manifesto-details-promote-the-mozilla = 公衆との対話とインターネット業界において、{ -brand-name-mozilla } のマニフェストの原則を促進します
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = 現在、消費者向け製品の制作や提供、宣伝など、ファンデーションの活動の一部は、 { -brand-name-mozilla-foundation } の完全子会社である { -brand-name-mozilla-corporation } により実施されています。
 manifesto-details-invitation = 招待
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } は{ -brand-name-mozilla } のマニフェストを支持する方々全員に、このインターネットに対するビジョンを実現する新たな手段を見いだすため、Mozilla にご参加いただくよう招待します。
