@@ -55,11 +55,13 @@ manifesto-details-as-a-result-of = Kao rezultat ovih napora, mi smo destilirali 
 manifesto-details-the-goals-for = Ciljevi Manifesta su da:
 # Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = artikulira viziju za internet koju { -brand-name-mozilla } učesnici žele da { -brand-name-mozilla-foundation } podrži;
+manifesto-details-articulate-a-vision-v2 = artikulirajte viziju za internet koju učesnici { -brand-name-mozilla }a žele da { -brand-name-mozilla-foundation } slijedi;
 manifesto-details-speak-to-people = govori ljudima bilo da imaju ili nemaju tehničku podršku;
 manifesto-details-make-mozilla-contributors = učini { -brand-name-mozilla } saradnike ponosnim na ono što radimo i motiviše nas da nastavimo; i
 manifesto-details-provide-a-framework = pruža okvir za druge ljude da unaprijede ovu viziju interneta.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Ovi principi neće zaživjeti sami. Ljudi su potrebi da bi se internet učinio otvorenim i participativnim - ljudi djeluju individualno, radeći zajedno u grupama, i vodeći druge. { -brand-name-mozilla-foundation } je posvećena unaprijeđenju principa navedenih u { -brand-name-mozilla } Manifesto-u. Pozivamo druge da nam se pridruže i naprave internet još boljim mjestom za sve.
+manifesto-details-these-principles-v2 = Ovi principi neće zaživjeti sami. Ljudi su potrebi da bi se internet učinio otvorenim i participativnim - ljudi djeluju individualno, radeći zajedno u grupama, i vodeći druge. { -brand-name-mozilla-foundation } je posvećena unaprijeđenju principa navedenih u { -brand-name-mozilla } Manifesto-u. Pozivamo druge da nam se pridruže i naprave internet još boljim mjestom za sve.
 manifesto-details-principles = Načela
 manifesto-details-the-internet-is-integral = Internet je integrisani dio modernog života—ključna komponenta u obrazovanju, komunikaciji, kolaboraciji, poslovanju, zabavi i društvu kao cjelini.
 manifesto-details-the-internet-is-global = Internet je globalni javni resurs koji većinom ostaje otvoren i pristupačan.
@@ -76,6 +78,7 @@ manifesto-details-there-are-many = Postoji mnogo različitih načina unapređenj
 manifesto-details-mozilla-foundation = Zalog { -brand-name-mozilla-foundation }
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = Zalozi { -brand-name-mozilla-foundation } za podršku { -brand-name-mozilla } Manifestu u njegovim aktivnostima. Konkretno, mi ćemo:
+manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation } se obavezuje da će podržavati Manifest { -brand-name-mozilla }a u njegovim aktivnostima. Konkretno, mi ćemo:
 manifesto-details-build-and-enable = izgraditi i omogućiti otvorene tehnologije i zajednice koje podržavaju načela Manifesta;
 manifesto-details-build-and-deliver = izgraditi i dopremiti odlične potrošačke proizvode koji podržavaju načela Manifesta;
 manifesto-details-use-the-mozilla = Koristiti { -brand-name-mozilla } sredstva (intelektualno vlasništvo kao što su autorska prava, zaštitni znakovi, infrastruktura, fondovi, i ugled) da zadržimo internet otvorenom platformom;
@@ -83,6 +86,8 @@ manifesto-details-promote-models = promovisati modele za stvaranje ekonomske vri
 manifesto-details-promote-the-mozilla = promovisati načela { -brand-name-mozilla } Manifesta u javnim predavanjima i unutar internet industrije.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Neke aktivnosti Fondacije—trenutno stvaranje, isporuka i promocija potrošačkih proizvoda—se provode prvenstveno putem podružnica u potpunom vlasništvu { -brand-name-mozilla-foundation }, { -brand-name-mozilla-corporation }.
+manifesto-details-some-foundation-v2 = Neke aktivnosti Fondacije—trenutno stvaranje, isporuka i promocija potrošačkih proizvoda—se provode prvenstveno putem podružnica u potpunom vlasništvu { -brand-name-mozilla-foundation }, { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Pozivnica
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation }poziva sve druge koji podržavaju načela { -brand-name-mozilla } Manifesta da nam se pridruže, i pronađu nove načine da napravimo ovu viziju interneta realnom.
+manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation }poziva sve druge koji podržavaju načela { -brand-name-mozilla } Manifesta da nam se pridruže, i pronađu nove načine da napravimo ovu viziju interneta realnom.

@@ -34,6 +34,7 @@ footer-refresh-tools = Alati
 footer-refresh-donate = Donirajte
 # Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = Posjetite neprofitnu matičnu organizaciju <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
+footer-refresh-visit-mozilla-corporations-v2 = Posjetite neprofitnu matičnu organizaciju <a { $moco_link }>{ -brand-name-mozilla-corporation }, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Dijelovi ovog sadržaja su ©1998–{ $current_year } od strane pojedinačnih saradnika mozilla.org. Sadržaj dostupan pod <a rel="license" { $href }>{ -brand-name-creative-commons } licencom</a>.
 footer-refresh-websites-privacy-notice = Napomena o privatnosti web stranice
 footer-refresh-websites-cookies = Kolačići
