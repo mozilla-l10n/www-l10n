@@ -43,7 +43,6 @@ home-so-what-is-mozilla = إذن، ما هي { -brand-name-mozilla }؟
 #   $mozai - link to https://mozilla.ai/
 home-at-its-core-v2 = في الجوهر، تُعتبر { -brand-name-mozilla } مؤسسة نشطة تمارس عملها تحت قيادة { -brand-name-mozilla-foundation } التي تُحدث التغيير في العالم من خلال مجموعة متنوعة من المشاريع مثل { -brand-name-mozilla-corporation }، MZLA، <a { $ventures }>{ -brand-name-mozilla-ventures }</a> و <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a>. كيف نختلف عن الآخرين؟ نظرًا لأننا نعمل بهدف تحقيق مُهمة محدّدة، فهذا يعني أننا نمتلك حرية اتخاذ جميع قراراتنا بناءً على ما هو أفضل للإنترنت وللجميع عبر الإنترنت، وليس بناءً على مطالب المساهمين — ليس لدينا مساهمين في الواقع.
 
-
 home-learn-about-mofo = معرفة المزيد عن { -brand-name-mozilla-foundation }
 
 home-join-the-fight = انضم إلى كتيبة الدفاع عن السلامة على الإنترنت.

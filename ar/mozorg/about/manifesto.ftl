@@ -58,10 +58,12 @@ manifesto-details-the-mozilla-project-global = مشروع { -brand-name-mozilla 
 manifesto-details-the-mozilla-project-community = يَستخدم مشروع { -brand-name-mozilla } نهجًا قائمًا على المُجتمع لإنشاء برامج مفتوحة المصدر على مستوى عالمي ولتطوير أنواع جديدة من الأنشطة التعاونية. نحن نُنشئ مجتمعات من الأشخاص المُشاركين في جعل تجربة الإنترنت أفضل لنا جميعًا.
 manifesto-details-as-a-result-of = ونتيجة لهذه الجهود، قُمنا بتصفية مجموعة من المبادئ التي نعتقد أنها ضرورية للإنترنت للاستمرار في خدمة الصالح العام وكذلك الجوانب التجارية للحياة. وضعنا هذه المبادئ أدناه.
 manifesto-details-the-goals-for = أهداف هذا البيان هي كما يلي:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = بَلورة رؤية للإنترنت يرغب المشاركون في { -brand-name-mozilla } أن تتبعها { -brand-name-mozilla-foundation }؛
 manifesto-details-speak-to-people = والتحدّث إلى الناس سواءً كانت لديهم خلفية تقنية أم لا؛
 manifesto-details-make-mozilla-contributors = واجعل المُساهمين في { -brand-name-mozilla } فخورين بما نقوم به وهو ما يُحفزنا على الاستمرار؛
 manifesto-details-provide-a-framework = وتوفير إطار عمل لأشخاص آخرين لتعزيز هذه الرؤية للإنترنت.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = لن تتحقق هذه المبادئ من تلقاء نفسها. نحتاج إلى الناس لجعل الإنترنت مفتوحًا وقائمًا على المشاركة، أشخاص يتصرفون كأفراد، ويعملُون معًا في مجموعات، ويقودون الآخرين. إن { -brand-name-mozilla-foundation } ملتزمة بالنهوض بالمبادئ المنصوص عليها في بيان { -brand-name-mozilla }. ندعو الآخرين إلى الانضمام إلينا وجعل الإنترنت مكانًا أفضل للجميع.
 manifesto-details-principles = المبادئ
 manifesto-details-the-internet-is-integral = يُعتبر الإنترنت جزءًا لا يتجزأ من الحياة العصرية — ومُكون رئيسي في التعليم والتواصل والتعاون والأعمال والترفيه والمُجتمع ككل.
@@ -77,12 +79,15 @@ manifesto-details-magnifying-the = يُعد تعظيم جوانب المنفعة
 manifesto-details-advancing-the = تطوير بيان { -brand-name-mozilla }
 manifesto-details-there-are-many = هناك العديد من الطرق المُختلفة لتطوير مبادئ بيان { -brand-name-mozilla }. نُرحب بمجموعة واسعة من الأنشطة، ونتوقع نفس القدر من الإبداع الذي أظهره المشاركين في { -brand-name-mozilla } في مناطق أخرى من المشروع. وبالنسبة للأفراد غير المُشاركين بعمق في مشروع { -brand-name-mozilla } فإن إحدى الطرق الأساسية والفعالة جدًا لدعم البيان هي استخدام { -brand-name-mozilla } { -brand-name-firefox } وغيرها من المنتجات التي تُجسد مبادئ البيان.
 manifesto-details-mozilla-foundation = تعهد { -brand-name-mozilla-foundation }
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = تتعهد { -brand-name-mozilla-foundation } بدعم بيان { -brand-name-mozilla } في نشاطاته. على وجه التحديد، سَنقوم بما يلي:
 manifesto-details-build-and-enable = بناء وتمكين تقنيات ومُجتمعات مفتوحة المصدر تدعم مبادئ البيان؛
 manifesto-details-build-and-deliver = وبناء وتقديم منتجات استهلاكية رائعة تدعم مبادئ البيان؛
 manifesto-details-use-the-mozilla = واستخدام أصول { -brand-name-mozilla } (الملكية الفكرية، مثل حقوق النشر والعلامات التجارية والبُنية التحتية والأموال والسمعة) لإبقاء الإنترنت منصة مفتوحة؛
 manifesto-details-promote-models = وتعزيز نماذج لِخلق قيمة اقتصادية للمصلحة العامة؛
 manifesto-details-promote-the-mozilla = وتعزيز مبادئ بيان { -brand-name-mozilla } في الخطاب العام وداخل صِناعة الإنترنت.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = تنفذ بعض أنشطة المُؤسسة—في الوقت الحالي ابتكار منتجات للعملاء والترويج لها—في الأساس من خلال شركة فرعية مملوكة تمامًا لـ { -brand-name-mozilla-foundation } ألا وهي { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = دعوة
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = تدعو { -brand-name-mozilla-foundation } الآخرين المشاركين في بيان { -brand-name-mozilla } إلى الانضمام إلينا، وإيجاد طُرق جديدة لجعل هذه الرؤية للإنترنت حقيقة واقعة.
