@@ -55,11 +55,13 @@ manifesto-details-as-a-result-of = Kết quả của những nỗ lực này là
 manifesto-details-the-goals-for = Mục đích của Tuyên Ngôn là để:
 # Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = nêu rõ một tầm nhìn Internet mà người tham gia  { -brand-name-mozilla } muốn { -brand-name-mozilla-foundation } theo đuổi;
+manifesto-details-articulate-a-vision-v2 = nêu rõ một tầm nhìn Internet mà người tham gia  { -brand-name-mozilla } muốn { -brand-name-mozilla-foundation } theo đuổi;
 manifesto-details-speak-to-people = trao đổi với mọi người cho dù họ có hiểu biết kĩ thuật hay không;many
 manifesto-details-make-mozilla-contributors = làm cho những người đóng góp trong { -brand-name-mozilla } tự hào về những gì chúng tôi đang làm và thúc đẩy chúng tôi tiếp tục; và
 manifesto-details-provide-a-framework = cung cấp một khuôn mẫu cho cả những người khác để cùng nâng cao viễn cảnh Internet.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Những nguyên tắc này sẽ không tự đi vào cuộc sống. Mọi người là cần thiết để làm cho Internet cởi mở và có sự tham gia - mọi người hoạt động như những cá nhân, làm việc cùng nhau trong nhóm và dẫn dắt những người khác. { -brand-name-mozilla-foundation } cam kết thúc đẩy các nguyên tắc đặt ra trong Sứ mệnh { -brand-name-mozilla }. Chúng tôi mời những người khác tham gia với chúng tôi và làm cho Internet trở thành một nơi tốt hơn bao giờ hết cho mọi người.
+manifesto-details-these-principles-v2 = Những nguyên tắc này sẽ không tự đi vào cuộc sống. Mọi người là cần thiết để làm cho Internet cởi mở và có sự tham gia - mọi người hoạt động như những cá nhân, làm việc cùng nhau trong nhóm và dẫn dắt những người khác. { -brand-name-mozilla-foundation } cam kết thúc đẩy các nguyên tắc đặt ra trong Sứ mệnh { -brand-name-mozilla }. Chúng tôi mời những người khác tham gia với chúng tôi và làm cho Internet trở thành một nơi tốt hơn bao giờ hết cho mọi người.
 manifesto-details-principles = Nguyên tắc
 manifesto-details-the-internet-is-integral = Internet là một phần tích hợp trong cuộc sống hiện đại–một thành phần quan trọng trong giáo dục, liên lạc, hợp tác, kinh doanh, giải trí và xã hội tổng thể.
 manifesto-details-the-internet-is-global = Internet là một nguồn tài nguyên công cộng toàn cầu và phải luôn mở và dễ dàng truy cập.
@@ -76,6 +78,7 @@ manifesto-details-there-are-many = Có nhiều cách khác nhau trong việc nâ
 manifesto-details-mozilla-foundation = Lời hứa của { -brand-name-mozilla-foundation }
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = Lời hứa của { -brand-name-mozilla-foundation } để hỗ trợ Sứ mệnh { -brand-name-mozilla } trong các hoạt động của nó. Cụ thể, chúng tôi sẽ:
+manifesto-details-the-mozilla-foundation-pleges-v2 = Lời hứa của { -brand-name-mozilla-foundation } để hỗ trợ Sứ mệnh { -brand-name-mozilla } trong các hoạt động của nó. Cụ thể, chúng tôi sẽ:
 manifesto-details-build-and-enable = xây dựng và kích hoạt công nghệ mã nguồn mở và các cộng đồng ủng hộ nguyên tắc của Tuyên Ngôn;
 manifesto-details-build-and-deliver = xây dựng và chuyển giao các sản phẩm người dùng tuyệt vời ủng hộ nguyên tắc của Tuyên Ngôn;
 manifesto-details-use-the-mozilla = sử dụng tài sản của { -brand-name-mozilla } (tài sản trí tuệ như là bản quyền và thương hiệu, cơ sở hạ tầng, quỹ, và danh tiếng) để giữ cho Internet là nền tảng mở;
@@ -83,6 +86,8 @@ manifesto-details-promote-models = quảng bá các kiểu mẫu trong việc t�
 manifesto-details-promote-the-mozilla = quảng bá các nguyên tắc Tuyên Ngôn { -brand-name-mozilla } trong các bài diễn thuyết công cộng và nền công nghiệp Internet.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Một số hoạt động của tổ chức—hiện là việc tạo ra, phân phối và quảng bá các sản phẩm tiêu dùng—được tiến hành chủ yếu thông qua công ty con thuộc sở hữu hoàn toàn của { -brand-name-mozilla-foundation }, { -brand-name-mozilla-corporation }.
+manifesto-details-some-foundation-v2 = Một số hoạt động của tổ chức—hiện là việc tạo ra, phân phối và quảng bá các sản phẩm tiêu dùng—được tiến hành chủ yếu thông qua công ty con thuộc sở hữu hoàn toàn của { -brand-name-mozilla-foundation }, { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Thư mời
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } mời tất cả những người khác ủng hộ các nguyên tắc của Sứ mệnh { -brand-name-mozilla } tham gia với chúng tôi và tìm ra những cách mới để biến tầm nhìn về Internet này thành hiện thực.
+manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } mời tất cả những người khác ủng hộ các nguyên tắc của Sứ mệnh { -brand-name-mozilla } tham gia với chúng tôi và tìm ra những cách mới để biến tầm nhìn về Internet này thành hiện thực.
