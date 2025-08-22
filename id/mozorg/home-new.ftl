@@ -43,7 +43,6 @@ home-so-what-is-mozilla = Jadi, apa itu { -brand-name-mozilla }?
 #   $mozai - link to https://mozilla.ai/
 home-at-its-core-v2 = Pada dasarnya, { -brand-name-mozilla } adalah sebuah organisasi aktivis yang dipimpin oleh { -brand-name-mozilla-foundation } yang melakukan perubahan di dunia melalui berbagai usaha termasuk { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a>, dan <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a>. Bagaimana kami berbeda? Karena kami digerakkan oleh misi, kami memiliki kebebasan untuk membuat semua keputusan berdasarkan apa yang terbaik bagi internet dan semua pengguna online, bukan untuk memenuhi keinginan pemegang saham — kenyataannya, kami tidak memiliki pemegang saham sama sekali.
 
-
 home-learn-about-mofo = Pelajari tentang { -brand-name-mozilla-foundation }
 
 home-join-the-fight = Ikut memperjuangkan internet yang sehat
