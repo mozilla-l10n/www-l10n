@@ -24,7 +24,7 @@ about-corporation-foundation-not = Corporation. Fundation. Non lucrative.
 about-learn-about-the-mozilla-foundation = Apprender re { -brand-name-mozilla-foundation }
 about-mozilla-puts-people-over-profit = { -brand-name-mozilla } antepone personas al lucro in toto lo que nos dice, construe e face. De facto, il ha Fundation un non-lucrative al corde de nostre interprisa.
 about-the-mozilla-manifesto = Le manifesto de { -brand-name-mozilla }
-about-the-principles-we-wrote-in = Le principios que nos scribeva in 1998 ancora guida hodie nos. E in 2018, nos creava un addendum pro le emphasis de inclusion, confidentialitate e securitate pro totes online.
+about-the-principles-we-wrote-in = Le principios que nos ha scribite in 1998 nos guida ancora hodie. E in 2018, nos ha create un addendum pro emphasar inclusion, confidentialitate e securitate pro totes online.
 about-read-the-manifesto = Lege le manifesto
 about-a-global-view = Un vision global
 about-with-offices-all-over-the = Con <a href="{ $url }">officios per tote le mundo</a>, nos considera internet ex plure culturas e contextos.

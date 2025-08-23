@@ -112,7 +112,7 @@ firefox-desktop-download-from-security-to = De securitate a novas pro jocar, il 
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ha essite create per <a { $attrs }>{ -brand-name-mozilla }</a> como alternative plus veloce e  plus private a navigatores como { -brand-name-ie } e ora { -brand-name-chrome }. Hodie, nostre compania e communitate de voluntarios dedicate-al-mission continua a poner tu confidentialitate supra toto altere.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
-firefox-desktop-download-as-the-internet-v2 = Dum internet cresce e cambia, { -brand-name-firefox } continua concentrar se sur tu derecto al confidentialitate, que sempre ha essite cosa nostre. Discoperi le practicas re nostre datos in nostre <a { $attrs }>Aviso de confidentialitate</a>.
+firefox-desktop-download-as-the-internet-v2 = A mesura que internet cresce e cambia, { -brand-name-firefox } continua a concentrar se sur tu derecto al confidentialitate, que sempre ha essite cosa nostre. Discoperi nostre practicas de datos in nostre <a { $attrs }>Aviso de confidentialitate</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } es disponibile sur tote tu apparatos; porta con te tu schedas, tu chronologia e tu marcapaginas. Toto lo que te besonia es un <a { $attrs }>{ -brand-name-mozilla-account }</a> e tu accedera al synchronisation e altere productos { -brand-name-mozilla }.
