@@ -34,7 +34,7 @@ footer-refresh-tools = Offer
 footer-refresh-donate = Cyfrannu
 # Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = Ewch at <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> rhiant nid-er-elw y <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
-footer-refresh-visit-mozilla-corporations-v2 = Ymweld â <a { $moco_link }>{ -brand-name-mozilla-corporation }'s</a> rhiant di-elw, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
+footer-refresh-visit-mozilla-corporations-v2 = Drwy <a { $moco_link }>{ -brand-name-mozilla-corporation }'s</a> rhiant dim-er-elw, y <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Mae rhannau o'r cynnwys hwn yn ©1998–{ $current_year } gan gyfranwyr mozilla.org unigol. Cynnwys ar gael o dan drwydded <a rel="license" { $href }>{ -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Hysbysiad Preifatrwydd Gwefan
 footer-refresh-websites-cookies = Cwcis
