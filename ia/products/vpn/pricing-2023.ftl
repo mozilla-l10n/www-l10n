@@ -38,7 +38,7 @@ vpn-pricing-annual = Annual
 vpn-pricing-monthly = Mensual
 vpn-pricing-get-annual-subscription = Obtener subscription annual
 vpn-pricing-get-monthly-subscription = Obtener subscription mensual
-vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } nondum es disponibile in tu pais.
+vpn-pricing-vpn-not-available = { -brand-name-mozilla-vpn } non es ancora disponibile in tu pais
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Folios a questiones
 vpn-pricing-refund-policy = Que es le regulamento de reimbursamento de { -brand-name-mozilla-vpn }?

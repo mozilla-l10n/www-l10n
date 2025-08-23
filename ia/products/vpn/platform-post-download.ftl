@@ -48,7 +48,7 @@ vpn-download-faq-here-are-some = Ecce parte del plus commun questiones re le pre
 vpn-download-faq-why-use = Perque deberea io usar { -brand-name-mozilla-vpn }
 # Variables:
 #   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
-vpn-download-faq-as-more-daily = Quanto plus le vita quotidian ha loco per internet, tanto plus importante deveni le confidentialitate e le securitate online. Un VPN, <a href="{ $faq }">Rete virtual private</a>, crea un tunnel cryptate inter tu apparatos e internet, assecurante que tu connexion remane secur e private dum te protege in duo importante manieras:
+vpn-download-faq-as-more-daily = Quanto plus le vita quotidian ha loco per internet, tanto plus importante deveni le confidentialitate e le securitate in linea. Un VPN, <a href="{ $faq }">Rete virtual private</a>, crea un tunnel cryptate inter tu apparatos e internet, assecurante que tu connexion remane secur e private e protegente te in duo importante manieras:
 # Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-download-faq-concealing-ip = Occultante tu ver <a href="{ $ip }">adresse IP</a>: isto adjuta a proteger tu identitate e obscura tu position ab le sitos web que tu visita.
