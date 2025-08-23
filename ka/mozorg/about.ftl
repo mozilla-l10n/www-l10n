@@ -30,7 +30,7 @@ about-a-global-view = საერთო ხედვა
 about-with-offices-all-over-the = <a href="{ $url }">დაწესებულებების გახსნით მსოფლიოს სხვადასხვა კუთხეში</a>, ჩვენ ვახერხებთ განვიხილოთ ინტერნეტის საკითხები სხვადასხვა კულტურის ჭრილში.
 about-san-francisco = სან-ფრანცისკო
 about-talking-tech-issues-irl = ტექნოლოგიების შესახებ განხილვა ნამდვილ სამყაროში
-about-in-mozillas-multi-award-winning = { -brand-name-mozilla }-ს არაერთი ჯილდოს მფლობელ პოდკასტში, წამყვანი ბრიჯიტ ტოდი ესაუბრება ხალხს, რომელთაც ინტერნეტისა და ხელოვნური ინტელექტის მომავლის ჩამოყალიბებაში შეაქვთ წვლილი.
+about-in-mozillas-multi-award-winning = { -brand-name-mozilla }-ს არაერთი ჯილდოს მფლობელ პოდკასტში, წამყვანი ბრიჯიტ ტოდი ესაუბრება ხალხს, რომელთაც ინტერნეტისა და ხელოვნური გონის მომავლის ჩამოყალიბებაში შეაქვთ წვლილი.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> სტუმარი მიიღება ყოველწლიურად
 about-berlin = ბერლინი
