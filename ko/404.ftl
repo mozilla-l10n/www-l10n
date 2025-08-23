@@ -19,3 +19,4 @@ not-found-page-download-the-firefox-browser = 모바일 또는 데스크탑용 �
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 # Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = { -brand-name-mozilla-foundation }에 <a { $donate }>기부</a>하여 거대 기술 기업으로부터 인터넷을 되찾으세요.
+not-found-page-donate-to-mozilla-reclaim-from-v2 = { -brand-name-mozilla-foundation }에 <a { $donate }>기부</a>하여 거대 기술 기업으로부터 인터넷을 되찾으세요.
