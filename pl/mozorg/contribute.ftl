@@ -36,12 +36,15 @@ contribute-opportunities = Aktualności i możliwości wolontariatu
 
 ## Made by
 
-
-## Newsletter
-
+contribute-made-by-heading = Stworzona przez pasjonatów takich jak Ty
+contribute-made-by-desc = Wspierając { -brand-name-mozilla }, stajesz się częścią międzynarodowej społeczności składającej się z osób z całego świata, które wierzą, że wszyscy mamy swój udział w zapewnieniu, że Internet pozostanie siłą dobra.
+contribute-made-by-desc-cont = Wierzymy, że współpraca społeczności ma kluczowe znaczenie dla tworzenia internetu, który jest zróżnicowany, innowacyjny i odpowiedzialny wobec osób, które najbardziej go potrzebują. Niezależnie od tego, czy masz doświadczenie w dziedzinie technologii, organizacji społeczności, czy po prostu komputer i trochę wolnego czasu, możesz pomóc nam uczynić internet lepszym miejscem.
 
 ## Support
 
+contribute-support-heading = Uzyskaj pomoc
+contribute-support-desc = { -brand-name-mozilla } dysponuje oddanym zespołem wolontariuszy, którzy pomogą Ci rozwiązać wszelkie problemy.
+contribute-mozilla-support = Wsparcie { -brand-name-mozilla(case: "gen") }
 
 ## Web compat
 
