@@ -108,7 +108,7 @@ m24-home-kids-are-growing = Le pueros cresce in un mundo multo connexe. Que ha a
 ## Showcase
 
 m24-home-rise25-awards = Premios de { -brand-name-rise25 }
-m24-home-get-to-know = Discoperi le leaders qui defende le disveloppamento de IA digne de fide, inclusive e transparente dum illes defini un nove standard e inspira le generation successive de innovatores.
+m24-home-get-to-know = Discoperi le leaders qui defende le disveloppamento de IA digne de fide, inclusive e transparente a mesura que illes defini un nove standard e inspira le generation successive de innovatores.
 m24-home-watch-the-award = Reguarda le ceremonia de distribution de premios
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-proud = Un premiato orgoliose a { -brand-name-rise25 }.
