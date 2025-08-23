@@ -55,11 +55,13 @@ manifesto-details-as-a-result-of = As a result of these efforts, we have distill
 manifesto-details-the-goals-for = The goals for the Manifesto are to:
 # Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = articulate a vision for the internet that { -brand-name-mozilla } participants want the { -brand-name-mozilla-foundation } to pursue;
+manifesto-details-articulate-a-vision-v2 = articulate a vision for the internet that { -brand-name-mozilla } participants want { -brand-name-mozilla-foundation } to pursue;
 manifesto-details-speak-to-people = speak to people whether or not they have a technical background;
 manifesto-details-make-mozilla-contributors = make { -brand-name-mozilla } contributors proud of what we're doing and motivate us to continue; and
 manifesto-details-provide-a-framework = provide a framework for other people to advance this vision of the internet.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = These principles will not come to life on their own. People are needed to make the internet open and participatory - people acting as individuals, working together in groups, and leading others. The { -brand-name-mozilla-foundation } is committed to advancing the principles set out in the { -brand-name-mozilla } Manifesto. We invite others to join us and make the internet an ever better place for everyone.
+manifesto-details-these-principles-v2 = These principles will not come to life on their own. People are needed to make the internet open and participatory - people acting as individuals, working together in groups and leading others. { -brand-name-mozilla-foundation } is committed to advancing the principles set out in the { -brand-name-mozilla } Manifesto. We invite others to join us and make the internet an ever better place for everyone.
 manifesto-details-principles = Principles
 manifesto-details-the-internet-is-integral = The internet is an integral part of modern life—a key component in education, communication, collaboration, business, entertainment and society as a whole.
 manifesto-details-the-internet-is-global = The internet is a global public resource that must remain open and accessible.
@@ -76,6 +78,7 @@ manifesto-details-there-are-many = There are many different ways of advancing th
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } Pledge
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = The { -brand-name-mozilla-foundation } pledges to support the { -brand-name-mozilla } Manifesto in its activities. Specifically, we will:
+manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation } pledges to support the { -brand-name-mozilla } Manifesto in its activities. Specifically, we will:
 manifesto-details-build-and-enable = build and enable open-source technologies and communities that support the Manifesto’s principles;
 manifesto-details-build-and-deliver = build and deliver great consumer products that support the Manifesto’s principles;
 manifesto-details-use-the-mozilla = use the { -brand-name-mozilla } assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the internet an open platform;
@@ -83,6 +86,8 @@ manifesto-details-promote-models = promote models for creating economic value fo
 manifesto-details-promote-the-mozilla = promote the { -brand-name-mozilla } Manifesto principles in public discourse and within the internet industry.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Some Foundation activities—currently the creation, delivery and promotion of consumer products—are conducted primarily through the { -brand-name-mozilla-foundation }’s wholly owned subsidiary, the { -brand-name-mozilla-corporation }.
+manifesto-details-some-foundation-v2 = Some Foundation activities—currently the creation, delivery and promotion of consumer products—are conducted primarily through { -brand-name-mozilla-foundation }’s wholly owned subsidiary, the { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Invitation
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = The { -brand-name-mozilla-foundation } invites all others who support the principles of the { -brand-name-mozilla } Manifesto to join with us, and to find new ways to make this vision of the internet a reality.
+manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } invites all others who support the principles of the { -brand-name-mozilla } Manifesto to join with us, and to find new ways to make this vision of the internet a reality.
