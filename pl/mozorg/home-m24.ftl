@@ -40,6 +40,7 @@ m24-home-mask-your-email = Ukryj swój adres e-mail i numer telefonu, aby otrzym
 
 # Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Przekaż datek na rzecz { -brand-name-mozilla(case: "gen") }
+m24-home-donate-to-v2 = Przekaż datek na rzecz { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } buduje ruch mający na celu odzyskanie Internetu. Razem możemy zbudować przyszłość, w której nasza prywatność jest chroniona, AI jest godna zaufania, a nieodpowiedzialne firmy technologiczne są pociągane do odpowiedzialności. Ale to jest możliwe tylko wtedy, gdy zrobimy to razem.
 m24-home-were-proudly-nonprofit = Z dumą działamy na zasadach non-profit. Czy przekażesz dziś darowiznę na rzecz { -brand-name-mozilla(case: "gen") }?
@@ -73,6 +74,7 @@ m24-home-can-ai-be = Czy AI może być godna zaufania?
 m24-home-in-a-world = W świecie, w którym innowacjami w dziedzinie AI kieruje garstka wybranych, ryzykujemy monopolizację tej technologii. Zastosowanie koncepcji open source w AI mogłoby to zmienić.
 m24-home-watch-now = Obejrzyj teraz
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-got-an-earlystage = Masz startup na wczesnym etapie rozwoju? Zaprezentuj swoją firmę { -brand-name-mozilla-ventures } i zapewnij jej finansowanie, aby wprowadzić pozytywne zmiany w przyszłości sztucznej inteligencji i internetu.
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Podaruj swój głos, aby technologia mowy stała się bardziej inkluzywna i dostępna dla każdego.
 m24-home-donate-your-voice = Podaruj swój głos

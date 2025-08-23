@@ -86,6 +86,8 @@ manifesto-details-promote-models = promować modele tworzenia wartości ekonomic
 manifesto-details-promote-the-mozilla = promować pryncypia Manifestu { -brand-name-mozilla(case: "gen") } w dyskursie publicznym i wewnątrz branży internetowej.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Niektóre z aktywności fundacji — aktualnie tworzenie, wydawanie i promocja produktów konsumenckich — jest realizowane przede wszystkim poprzez firmę { -brand-name-mozilla-corporation } w całości kontrolowaną przez { -brand-name-mozilla-foundation }.
+manifesto-details-some-foundation-v2 = Niektóre z aktywności Fundacji — aktualnie tworzenie, wydawanie i promocja produktów konsumenckich — jest realizowane przede wszystkim poprzez firmę { -brand-name-mozilla-corporation } w całości kontrolowaną przez { -brand-name-mozilla-foundation }.
 manifesto-details-invitation = Innowacja
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } zaprasza wszystkich, którzy wspierają pryncypia Manifestu { -brand-name-mozilla(case: "gen") }, do przyłączenia się do nas i znalezienia nowych metod wdrażania tej wizji Internetu w życie.
+manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } zaprasza wszystkich, którzy wspierają pryncypia Manifestu { -brand-name-mozilla(case: "gen") }, do przyłączenia się do nas i znalezienia nowych metod wdrażania tej wizji Internetu w życie.
