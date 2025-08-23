@@ -102,7 +102,7 @@ m24-home-keeping-genai-technologies = Mantener secur le technologias de IAgen es
 m24-home-from-hollywood-to = De Hollywood al hip hop, le artistas negotia le consenso al IA.
 m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } celebra autores innovator in nove series documentari “{ -brand-name-firefox } Presenta.”
 m24-home-big-techs-power = Le poter de Big Tech super le lingua significa poter super le personas. Bridget Todd parla al leaders del communitates linguistic qui aperi le via al IA vocal in lor proprie linguas e dialectos.
-m24-home-why-does-it = Perque assi sovente on senti como si nos es parte de un experimento de IA de massa? Qual es le maniera responsabile de testar nove technologias? Bridget Todd explora que significa viver con systemas de IA non testate que ha impacto sur milliones de personas dum illos se extende a transverso le vita public.
+m24-home-why-does-it = Proque sovente il pare como si nos face parte de un experimento de AI in massa? Qual es le maniera responsabile de provar nove technologias? Bridget Todd explora que significa viver con systemas de AI non provate que ha impacto sur milliones de personas a mesura que illos se extende a transverso le vita public.
 m24-home-kids-are-growing = Le pueros cresce in un mundo multo connexe. Que ha a facer un genitor preoccupate?
 
 ## Showcase

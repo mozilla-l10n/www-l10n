@@ -50,7 +50,7 @@ contribute-made-by-desc-cont = Nos crede que le collaboration del communitate es
 
 ## Newsletter
 
-contribute-newsletter-heading = Nondum certe?
+contribute-newsletter-heading = Non ancora certe?
 contribute-newsletter-sub-heading = Recipe novas sur le communitate e le contributiones in tu cassa de entrata
 contribute-newsletter-desc = Subscribe te a nostre littera de novas, junge te al mozillianos de tote le mundo e sape plus re opportunitates de grande impacto pro supportar le mission de { -brand-name-mozilla }.
 
