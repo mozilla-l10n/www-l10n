@@ -31,7 +31,7 @@ privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } 不会（通过�
 privacy-faq-v2-wait-so-how = 呃，那你们怎么赚钱？
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org
-privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } 绝非寻常组织。自从 1998 年组建为社区开源项目，{ -brand-name-mozilla } 一直由使命驱动，致力于打造更健康的互联网。{ -brand-name-mozilla-corporation }的大部分收入由 { -brand-name-firefox } 网络浏览器的搜索合作及世界各地的发行合约得来。您可以看看我们的<a { $attrs }>年度财报</a>，详细了解我们的营收从何而来。
+privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } 绝非寻常组织。自从 1998 年组建为社区开源项目，{ -brand-name-mozilla } 一直由使命驱动，致力于打造更健康的互联网。{ -brand-name-mozilla-corporation } 的大部分收入由 { -brand-name-firefox } 网络浏览器的搜索合作及世界各地的发行合约得来。您可以看看我们的<a { $attrs }>年度财报</a>，详细了解我们的营收从何而来。
 privacy-faq-v2-softballs = 那好，说重点。你们收集哪些数据？
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/

@@ -78,7 +78,7 @@ manifesto-details-there-are-many = 推行 { -brand-name-mozilla } 宣言里的�
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation }的承诺
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation }承诺支持 { -brand-name-mozilla } 宣言。具体地，我们将会：
-manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation } 宣誓支持 { -brand-name-mozilla } 宣言的活动。具体来说我们将
+manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation }宣誓支持 { -brand-name-mozilla } 宣言的活动。具体来说我们将
 manifesto-details-build-and-enable = 建立和支持符合宣言准则的开放源码技术和社区；
 manifesto-details-build-and-deliver = 开发符合宣言准则的优秀消费类产品；
 manifesto-details-use-the-mozilla = 利用 { -brand-name-mozilla } 的资产（诸如版权和商标的知识产权、基础设施、资金和声誉等）使互联网保持为开放的平台；
