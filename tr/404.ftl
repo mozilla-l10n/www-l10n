@@ -19,3 +19,4 @@ not-found-page-download-the-firefox-browser = Mobil cihazınız veya bilgisayar�
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 # Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = İnterneti teknoloji devlerinden geri almamıza yardım edin: { -brand-name-mozilla-foundation }'a <a { $donate }>bağış yapın</a>.
+not-found-page-donate-to-mozilla-reclaim-from-v2 = İnterneti teknoloji devlerinden geri almamıza yardım edin: { -brand-name-mozilla-foundation }’a <a { $donate }>bağış yapın</a>.

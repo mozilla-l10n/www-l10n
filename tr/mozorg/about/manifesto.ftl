@@ -55,11 +55,13 @@ manifesto-details-as-a-result-of = Bu çabaların bir sonucu olarak, internetin,
 manifesto-details-the-goals-for = Manifesto’nun hedefleri şunlardır:
 # Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = { -brand-name-mozilla }’ya katkıda bulunanların, { -brand-name-mozilla-foundation }’nın sürdürmesini istediği bir internet vizyonu oluşturmak,
+manifesto-details-articulate-a-vision-v2 = { -brand-name-mozilla }’ya katkıda bulunanların, { -brand-name-mozilla-foundation }’nın sürdürmesini istediği bir internet vizyonu oluşturmak,
 manifesto-details-speak-to-people = teknik deneyime sahip olsalar da olmasalar da insanlarla konuşmak,
 manifesto-details-make-mozilla-contributors = { -brand-name-mozilla }’ya katkıda bulunanların yaptığımız şeyle gurur duymalarını ve bizi devam etme yönünde motive etmelerini sağlamak ve
 manifesto-details-provide-a-framework = bu internet vizyonunu geliştirmeleri için diğer insanlara bir çerçeve sunmak.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Bu ilkeler kendi kendilerine hayata geçemez. İnterneti açık ve katılımcı hale getirmek için insanlara ihtiyaç var: kendi başlarına hareket eden, birlikte gruplar halinde çalışan ve başkalarına liderlik eden insanlara. { -brand-name-mozilla-foundation }, { -brand-name-mozilla } Manifestosu’nda ortaya konulan ilkeleri geliştirmeye odaklanmıştır. Diğerlerini de bize katılmaya ve interneti herkes için daha iyi bir yer haline getirmeye davet ediyoruz.
+manifesto-details-these-principles-v2 = Bu ilkeler kendi kendilerine hayata geçemez. İnterneti açık ve katılımcı hale getirmek için insanlara ihtiyaç var: kendi başlarına hareket eden, birlikte gruplar halinde çalışan ve başkalarına liderlik eden insanlara. { -brand-name-mozilla-foundation }, { -brand-name-mozilla } Manifestosu’nda ortaya konulan ilkeleri geliştirmeye odaklanmıştır. Diğerlerini de bize katılmaya ve interneti herkes için daha iyi bir yer haline getirmeye davet ediyoruz.
 manifesto-details-principles = İlkeler
 manifesto-details-the-internet-is-integral = İnternet çağdaş yaşamın ayrılmaz bir parçasıdır: Eğitimin, haberleşmenin, işbirliğinin, ticaretin, eğlencenin ve toplumun temel bileşenlerinden biridir.
 manifesto-details-the-internet-is-global = İnternet, açık ve erişilebilir kalması gereken, tüm dünyaya hizmet veren bir kaynaktır.
@@ -84,6 +86,7 @@ manifesto-details-promote-models = kamu yararı için ekonomik değer oluşturma
 manifesto-details-promote-the-mozilla = { -brand-name-mozilla } Manifestosu ilkelerini halka açık konuşmalarda ve internet endüstrisi içinde öne çıkaracağız.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Bazı vakıf etkinlikleri (şu an itibarıyla tüketici ürünlerinin oluşturulması, dağıtılması ve tanıtımı) öncelikli olarak { -brand-name-mozilla-foundation }’nın tamamına sahip olduğu bir yan kuruluş olan { -brand-name-mozilla-corporation } vasıtasıyla yönetilmektedir.
+manifesto-details-some-foundation-v2 = Bazı Vakıf etkinlikleri (şu an itibarıyla tüketici ürünlerinin oluşturulması, dağıtılması ve tanıtımı) öncelikli olarak { -brand-name-mozilla-foundation }’nın tamamına sahip olduğu bir yan kuruluş olan { -brand-name-mozilla-corporation } vasıtasıyla yönetilmektedir.
 manifesto-details-invitation = Davet
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation }, { -brand-name-mozilla } Manifestosu’nun ilkelerini destekleyen diğer herkesi bize katılmaya ve bu internet vizyonunu gerçeğe dönüştürecek yeni yollar bulmaya davet ediyor.
