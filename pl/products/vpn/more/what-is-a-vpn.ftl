@@ -11,6 +11,7 @@ vpn-what-is-what-is-a-vpn = Czym jest VPN?
 vpn-what-is-get-answers-to-nine = Uzyskaj odpowiedzi na dziewięć najczęstszych pytań dotyczących sieci VPN, dzięki czemu będziesz mieć pewność, co one robią, kiedy z nich korzystać i dlaczego.
 vpn-what-is-many-of-us = Większość z nas spędza w internecie wiele godzin dziennie, załatwiając codzienne sprawy – od oglądania filmów, poprzez zakupy, gry i regulowania rachunków, aż po zarządzanie skomplikowanymi projektami czy prowadzenie poufnych rozmów wideo. <strong>Virtual Private Network (Wirtualna sieć prywatna, VPN)</strong> to jeden z najlepszych sposobów zapewnienia sobie prywatności i bezpieczeństwa w sieci, a także ochrony swoich danych osobowych.
 vpn-what-is-how-do-vpns = Jak działa VPN?
+vpn-what-is-concealing-your-ip = Ukrywa Twój adres IP, chroniąc Twoją tożsamość i lokalizację.
 vpn-what-is-when-should-i = Kiedy warto skorzystać z VPN?
 vpn-what-is-wait-i-thought = Ale chwila… wydawało mi się, że moje dane już wcześniej były szyfrowane przez HTTPS…
 vpn-what-is-why-would-i = Dlaczego warto używać VPN?
