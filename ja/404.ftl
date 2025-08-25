@@ -19,4 +19,5 @@ not-found-page-download-the-firefox-browser = モバイルデバイスまたは�
 
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+# Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = { -brand-name-mozilla-foundation } に<a { $donate }>寄付</a>して大手テクノロジー企業からインターネットを取り戻しましょう。

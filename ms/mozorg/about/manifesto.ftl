@@ -58,10 +58,12 @@ manifesto-details-the-mozilla-project-global = Projek { -brand-name-mozilla } ad
 manifesto-details-the-mozilla-project-community = Projek { -brand-name-mozilla } menggunakan pendekatan berasaskan komuniti bagi mencipta perisian sumber terbuka bertaraf dunia serta membangunkan aktiviti kerjasama yang baru. Kami mengasaskan komuniti yang terlibat dalam menjadikan pengalaman internet lebih baik untuk kita semua.
 manifesto-details-as-a-result-of = Hasil usaha ini, kami telah mengenal pasti prinsip-prinsip yang kami yakini penting bagi internet untuk terus memberi manfaat kepada masyarakat termasuklah aspek komersial dalam kehidupan. Prinsip kami adalah seperti berikut.
 manifesto-details-the-goals-for = Matlamat Manifesto ini ialah:
+# Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = menjelaskan satu visi internet di mana peserta { -brand-name-mozilla } mahukan { -brand-name-mozilla-foundation } turuti;
 manifesto-details-speak-to-people = bercakap dengan pengguna sama ada mereka mempunyai latar belakang teknikal atau tidak;
 manifesto-details-make-mozilla-contributors = menjadikan penyumbang { -brand-name-mozilla } bangga dengan apa yang mereka laksanakan dan memotivasikan kami untuk terus maju; dan
 manifesto-details-provide-a-framework = membekalkan rangka kerja untuk pengguna lain memajukan lagi visi internet ini.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Prinsip ini tidak akan dicapai dengan sendirinya. Tenaga manusia diperlukan bagi menjadikan internet terbuka dan untuk semua - pengguna bertindak sebagai individu, bekerjasama dalam kumpulan, dan memimpin yang lain. { -brand-name-mozilla-foundation } komited untuk memajukan prinsip-prinsip yang dijelaskan dalam Manifesto { -brand-name-mozilla }. Kami menjemput lebih ramai lagi untuk menyertai kami dan menjadikan internet sebuah tempat yang lebih baik untuk semua orang.
 manifesto-details-principles = Prinsip-prinsip
 manifesto-details-the-internet-is-integral = Internet adalah sumber yang penting dalam kehidupan moden—komponen yang penting dalam pendidikan, komunikasi, kolaborasi, perniagaan, hiburan dan masyarakat secara keseluruhan.
@@ -77,12 +79,15 @@ manifesto-details-magnifying-the = Memberi fokus terhadap aspek manfaat awam di 
 manifesto-details-advancing-the = Membawa Manifesto { -brand-name-mozilla } Ke Hadapan
 manifesto-details-there-are-many = Ada banyak cara untuk memajukan prinsip-prinsip Manifesto { -brand-name-mozilla }. Kami mengalu-alukan pelbagai jenis aktiviti, dan menjangkakan daya kreativiti yang sama seperti yang ditunjukkan oleh peserta { -brand-name-mozilla } dalam projek-projek sebelumnya. Bagi individu yang tidak terlalu terbabit dengan projek { -brand-name-mozilla }, asas utama yang boleh menunjukkan tanda sokongan adalah menyokong Manifesto menggunakan { -brand-name-mozilla } { -brand-name-firefox } dan produk-produk lain yang merangkumi prinsip Manifesto.
 manifesto-details-mozilla-foundation = Ikrar { -brand-name-mozilla-foundation }
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } berikrar untuk menyokong Manifesto { -brand-name-mozilla } dalam aktivitinya. Secara khususnya, kami akan:
 manifesto-details-build-and-enable = membina dan membolehkan teknologi sumber terbuka dan komuniti yang menyokong prinsip-prinsip Manifesto;
 manifesto-details-build-and-deliver = membina dan menawarkan produk pengguna terbaik yang menyokong prinsip-prinsip Manifesto;
 manifesto-details-use-the-mozilla = menggunakan aset-aset { -brand-name-mozilla } (harta intelek seperti hak cipta dan tanda dagangan, infrastruktur, dana dan reputasi) untuk mengekalkan internet sebagai platform terbuka
 manifesto-details-promote-models = mempromosikan model bagi mencipta nilai ekonomi bagi kepentingan awam; dan
 manifesto-details-promote-the-mozilla = mempromosikan prinsip-prinsip Manifesto { -brand-name-mozilla } dalam wacana awam dan terhad di dalam industri internet.
+# Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Beberapa aktiviti Yayasan—seperti pembangunan, pelancaran dan promosi bagi produk pengguna—dijalankan terutamanya melalui anak syarikat milik penuh { -brand-name-mozilla-foundation } iaitu { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Jemputan
+# Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } menjemput anda semua yang menyokong prinsip-prinsip Manifesto { -brand-name-mozilla } untuk menyertai kami dan mencari jalan untuk menjadikan visi internet ini satu realiti.

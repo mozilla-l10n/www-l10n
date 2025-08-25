@@ -32,6 +32,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Alat
 footer-refresh-donate = Donasi
+# Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = Kunjungi organisasi induk nirlaba <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> yaitu, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Sebagian konten ini merupakan hak cipta ©1998–{ $current_year } oleh kontributor individual mozilla.org. Konten tersedia di bawah lisensi <a rel="license" { $href }>{ -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Pemberitahuan Privasi Situs Web
