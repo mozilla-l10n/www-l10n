@@ -7,6 +7,7 @@
 
 # New strings for updated page
 vpn-windows-get-a-vpn = Skaff deg eit VPN for Windows frå { -brand-name-mozilla }
+# Obsolete string (expires 2025-12-19)
 vpn-windows-protect-your-windows = Vern Windows-eininga di med eit VPN. { -brand-name-mozilla } VPN blir støtta av eit ideelt selskap. Lær om korleis eit VPN vernar deg og kvifor du bør stole på { -brand-name-mozilla } med personvernet og sikkerheita di.
 vpn-windows-stay-safe = Hald deg trygg og sikker på Windows-eininga di med eit VPN
 vpn-windows-windows-is-one = Windows er eit av dei mest populære operativsystema i verda. Som eit resultat av det, er Windows-einingar vanlegvis mål for hackarar og kan vere spesielt sårbare om du ikkje tek nødvendige forholdsreglar. Du kan verne det digitale livet ditt ved å bruke eit VPN for å kryptere onlineaktiviteten din, og dessutan nokre andre tiltak som å halde programma dine oppdaterte, lage unike og sterke passord og bruke { -brand-name-relay }-masker for å verne e-posten din.

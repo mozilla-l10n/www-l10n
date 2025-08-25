@@ -7,6 +7,7 @@
 
 # New strings for updated page
 vpn-windows-get-a-vpn = Va per in VPN per Windows da { -brand-name-mozilla }
+# Obsolete string (expires 2025-12-19)
 vpn-windows-protect-your-windows = Protegia tes apparat Windows cun in VPN. VPN da { -brand-name-mozilla } vegn purtà dad in’organisaziun senza finamira da profit. Ve a savair co in VPN ta protegia e pertge che pos ta fidar da { -brand-name-mozilla } en dumondas da protecziun da datas e segirezza.
 vpn-windows-stay-safe = Ta protegia cun segirar tes apparat Windows cun agid dad in VPN
 vpn-windows-windows-is-one = Windows è in dals sistems operativs ils pli populars en il mund. En consequenza èn apparats Windows savens l’object en mira da hackers e pon esser spezialmain vulnerabels sche ti na prendas betg mesiras da precauziun. Ti pos proteger tia vita digitala cun utilisar in VPN per criptar tias activitads online, parallel cun auters pass, sco actualisar regularmain tia software, crear ferms pleds-clav unics ed utilisar alias da { -brand-name-relay } per proteger tia adressa dad e-mail.

@@ -7,6 +7,7 @@
 
 # New strings for updated page
 vpn-windows-get-a-vpn = Nabavi VPN za Windows od { -brand-name-mozilla }
+# Obsolete string (expires 2025-12-19)
 vpn-windows-protect-your-windows = Zaštiti svoj Windows uređaj pomoću VPN-a. { -brand-name-mozilla } VPN podržava neprofitna organizacija. Saznaj kako te VPN štiti i zašto povjeriti tvoju privatnost i sigurnost organizaciji { -brand-name-mozilla }.
 vpn-windows-stay-safe = Zaštiti se na svom Windows uređaju uz VPN
 vpn-windows-windows-is-one = Windows je jedan od najpopularnijih operativnih sustava na svijetu. Zbog toga hakeri često napadaju Windows uređaje i postoji velika opasnost ukoliko ne poduzmeš odgovarajuće mjere opreza. Zaštiti svoj digitalni život upotrebom VPN-a za šifriranje tvoje online aktivnosti, kao i nekim drugim koracima kao što su aktualiziranje softvera, stvaranje jedinstvenih i snažnih lozinki te korištenje { -brand-name-relay } maski za štićenje tvoju e-pošte.

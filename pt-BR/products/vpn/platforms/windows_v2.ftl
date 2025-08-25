@@ -7,6 +7,7 @@
 
 # New strings for updated page
 vpn-windows-get-a-vpn = Tenha uma VPN da { -brand-name-mozilla } para Windows
+# Obsolete string (expires 2025-12-19)
 vpn-windows-protect-your-windows = Proteja seu dispositivo Windows com uma VPN. O { -brand-name-mozilla } VPN é respaldado por uma empresa sem fins lucrativos. Saiba como uma VPN te protege e por que deve confiar na { -brand-name-mozilla } para sua privacidade e segurança.
 vpn-windows-stay-safe = Fique seguro e protegido em seu dispositivo Windows com uma VPN
 vpn-windows-windows-is-one = Windows é um dos sistemas operacionais mais populares do mundo. Como resultado, os dispositivos Windows geralmente são altamente visados por hackers e podem ficar especialmente vulneráveis se você não tomar as devidas precauções. Você pode proteger sua vida digital usando uma VPN para criptografar sua atividade online, bem como algumas outras medidas, como manter seus softwares atualizados, criar senhas fortes e exclusivas e usar máscaras do { -brand-name-relay } para manter seu email protegido.

@@ -7,6 +7,7 @@
 
 # New strings for updated page
 vpn-windows-get-a-vpn = Hanki VPN Windowsille { -brand-name-mozilla }lta
+# Obsolete string (expires 2025-12-19)
 vpn-windows-protect-your-windows = Suojaa Windows-laitteesi VPN:llä. { -brand-name-mozilla } VPN voittoa tavoittelematon tahon tukema. Lue, kuinka VPN suojaa sinua ja miksi voit luottaa { -brand-name-mozilla }an yksityisyyden sekä tietoturvan osalta.
 vpn-windows-stay-safe = Pysy turvassa Windows-laitteellasi VPN:n avulla
 vpn-windows-windows-is-one = Windows on yksi maailman käytetyimmistä käyttöjärjestelmistä. Tämän seurauksena Windows-laitteet ovat yleensä hakkereiden kohteena, ja ne voivat olla erityisen haavoittuvia, jos et ryhdy asianmukaisiin varotoimiin. Voit suojata digitaalista elämääsi salaamalla verkkotoimintasi VPN:n avulla sekä tekemällä joitain muita asioita, kuten pitämällä ohjelmistosi ajan tasalla, luomalla yksilöllisiä ja vahvoja salasanoja sekä käyttämällä { -brand-name-relay }-maskeja pitääksesi sähköpostisi suojattuna.

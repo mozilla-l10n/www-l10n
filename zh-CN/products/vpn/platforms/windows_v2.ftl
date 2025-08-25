@@ -7,6 +7,7 @@
 
 # New strings for updated page
 vpn-windows-get-a-vpn = 用 { -brand-name-mozilla } 出品的 VPN 保护 Windows 操作系统
+# Obsolete string (expires 2025-12-19)
 vpn-windows-protect-your-windows = 用 VPN 来保护自己的 Windows 设备。{ -brand-name-mozilla } VPN 由非营利公司支持，是您的不二之选。来了解 VPN 将如何保护您，以及为何 { -brand-name-mozilla } 能不负所托，捍卫您的隐私与安全。
 vpn-windows-stay-safe = 用 VPN 保护 Windows 设备，安全更安心
 vpn-windows-windows-is-one = Windows 是使用非常广泛的操作系统。这导致用户如果不做足防护，就很容易成为骇客的目标。您可以使用 VPN 来加密自己的在线活动，从而保护自己的数字生活。此外还有一些窍门，例如保持软件版本最新、使用独一无二的强密码，还有使用 { -brand-name-relay } 马甲邮箱来保护自己的真实邮箱。

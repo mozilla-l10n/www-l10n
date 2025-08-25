@@ -7,6 +7,7 @@
 
 # New strings for updated page
 vpn-windows-get-a-vpn = Wobstarajśo se VPN za Windows wót { -brand-name-mozilla }
+# Obsolete string (expires 2025-12-19)
 vpn-windows-protect-your-windows = Šćitajśo swój rěd Windows z VPN. { -brand-name-mozilla } VPN se pśez za wše wužytne pśedewześe pódpěra. Zgóńśo, kak VPN was šćita a cogoždla wy měł { -brand-name-mozilla } ze swójeju priwatnosću a wěstotu dowěriś.
 vpn-windows-stay-safe = Wóstańśo wěsty na swójom rěźe Windows z VPN
 vpn-windows-windows-is-one = Windows jo jaden z nejwěcej woblubowanych źěłowych systemow  na swěśe. Togodla su rědy Windows zwětšego wjelgin cesto cel zadobywarjow a mógu wósebnje napadojte byś, jolic pśigódne wěstotne napšawy njecynje. Móžośo swóje digitalne žywjenje šćitaś, gaž VPN wužywaśo, kótaraž wašu aktiwitu online koděrujo, a někotare druge kšace kaž na pśikład, až swóju software aktualnu źaržyśo, jadnorazowe a mócne gronidła napórajośo a maski { -brand-name-relay } wužywaśo, aby swóju e-mail šćitał.

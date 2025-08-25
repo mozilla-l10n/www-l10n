@@ -7,6 +7,7 @@
 
 # New strings for updated page
 vpn-windows-get-a-vpn = 獲得 { -brand-name-mozilla } 的 Windows 平台 VPN
+# Obsolete string (expires 2025-12-19)
 vpn-windows-protect-your-windows = 使用 VPN 保護您的 Windows 裝置。{ -brand-name-mozilla } VPN 是由非營利公司在背後全力相挺。了解 VPN 如何保護您，以及為什麼您應該信任 { -brand-name-mozilla } 能保護您的隱私權與安全。
 vpn-windows-stay-safe = 在您的 Windows 裝置上安裝 VPN，保持安全
 vpn-windows-windows-is-one = Windows 是世界上最知名的作業系統之一。因此，Windows 裝置常常成為駭客攻擊的主要目標，若不採取適當的保護措施，更容易受到攻擊。您可以使用 VPN 來加密線上活動、保持軟體更新、使用獨特而強大的密碼、使用 { -brand-name-relay } 的轉寄信箱來隱藏您的實際電子郵件信箱，以保護您的數位生活。

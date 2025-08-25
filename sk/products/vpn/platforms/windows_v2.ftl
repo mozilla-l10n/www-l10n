@@ -7,6 +7,7 @@
 
 # New strings for updated page
 vpn-windows-get-a-vpn = Získajte VPN pre Windows od { -brand-name-mozilla(case: "gen") }
+# Obsolete string (expires 2025-12-19)
 vpn-windows-protect-your-windows = Chráňte svoje zariadenie so systémom Windows pomocou siete VPN. { -brand-name-mozilla } VPN je podporovaná neziskovou spoločnosťou. Prečítajte si o tom, ako vás VPN chráni a prečo by ste mali dôverovať { -brand-name-mozilla(case: "dat") }, pokiaľ ide o vaše súkromie a bezpečnosť.
 vpn-windows-stay-safe = Zostaňte v bezpečí na svojom zariadení so systémom Windows pomocou siete VPN
 vpn-windows-windows-is-one = Windows je jedným z najpopulárnejších operačných systémov na svete. V dôsledku toho sú zariadenia so systémom Windows zvyčajne vysoko cielené hackermi a môžu byť obzvlášť zraniteľné, ak neprijmete náležité opatrenia. Svoj digitálny život môžete chrániť pomocou siete VPN na šifrovanie svojej online aktivity, ako aj pomocou niektorých ďalších krokov, ako je napríklad udržiavanie aktuálneho softvéru, vytváranie jedinečných a silných hesiel a používanie masiek služby { -brand-name-relay } na ochranu vašej e‑mailovej schránky.

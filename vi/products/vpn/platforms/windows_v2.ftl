@@ -7,6 +7,7 @@
 
 # New strings for updated page
 vpn-windows-get-a-vpn = Tải xuống VPN cho Windows từ { -brand-name-mozilla }
+# Obsolete string (expires 2025-12-19)
 vpn-windows-protect-your-windows = Bảo vệ thiết bị Windows của bạn bằng VPN. { -brand-name-mozilla } VPN được hỗ trợ bởi công ty phi lợi nhuận. Tìm hiểu về cách VPN bảo vệ bạn và lý do bạn nên tin tưởng { -brand-name-mozilla } với quyền riêng tư và bảo mật của bạn.
 vpn-windows-stay-safe = Giữ an toàn và bảo mật trên thiết bị Windows của bạn bằng VPN
 vpn-windows-windows-is-one = Windows là một trong những hệ điều hành phổ biến nhất trên thế giới. Do đó, các thiết bị Windows thường là mục tiêu bị tin tặc nhắm đến nhiều nhất và có thể đặc biệt dễ bị tấn công nếu bạn không thực hiện các biện pháp phòng ngừa thích hợp. Bạn có thể bảo vệ cuộc sống số của mình bằng cách sử dụng VPN để mã hóa hoạt động trực tuyến của mình, cũng như thực hiện một số bước khác, chẳng hạn như cập nhật phần mềm, tạo mật khẩu mạnh và duy nhất cũng như sử dụng mặt nạ { -brand-name-relay } để giữ cho email của bạn được bảo vệ.

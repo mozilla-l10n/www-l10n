@@ -7,6 +7,7 @@
 
 # New strings for updated page
 vpn-windows-get-a-vpn = Cael VPN ar gyfer Windows o { -brand-name-mozilla }
+# Obsolete string (expires 2025-12-19)
 vpn-windows-protect-your-windows = Diogelwch eich dyfais Windows gyda VPN. Mae VPN { -brand-name-mozilla } yn cael ei gefnogi gan gwmni dim-er-elw. Dysgwch sut mae VPN yn eich diogelu a pham y dylech ymddiried yn { -brand-name-mozilla } gyda'ch preifatrwydd a'ch diogelwch.
 vpn-windows-stay-safe = Cadwch yn ddiogel ar eich dyfais Windows gyda VPN
 vpn-windows-windows-is-one = Windows yw un o'r systemau gweithredu mwyaf poblogaidd yn y byd. O ganlyniad, mae dyfeisiau Windows fel arfer yn cael eu targedu'n fawr gan hacwyr ac yn gallu bod yn arbennig o agored i niwed os nad ydych yn cymryd gofal priodol. Gallwch ddiogelu eich bywyd digidol trwy ddefnyddio VPN i amgryptio eich gweithgaredd ar-lein, yn ogystal â rhai camau eraill megis, cadw'ch meddalwedd yn gyfredol, creu cyfrineiriau unigryw a chryf, a defnyddio arallenwau { -brand-name-relay } i gadw'ch e-bost yn ddiogel.

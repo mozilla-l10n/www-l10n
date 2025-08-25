@@ -7,6 +7,7 @@
 
 # New strings for updated page
 vpn-windows-get-a-vpn = Een VPN voor Windows van { -brand-name-mozilla } downloaden
+# Obsolete string (expires 2025-12-19)
 vpn-windows-protect-your-windows = Bescherm uw Windows-apparaat met een VPN. { -brand-name-mozilla } VPN wordt ondersteund door een bedrijf zonder winstoogmerk. Lees meer over hoe een VPN u beschermt en waarom u uw privacy en veiligheid aan { -brand-name-mozilla } kunt toevertrouwen.
 vpn-windows-stay-safe = Blijf veilig op uw Windows-apparaat met een VPN
 vpn-windows-windows-is-one = Windows is een van de meest populaire besturingssystemen ter wereld. Als gevolg hiervan zijn Windows-apparaten meestal het doelwit van hackers en kunnen ze bijzonder kwetsbaar zijn als u niet de juiste voorzorgsmaatregelen neemt. U kunt uw digitale leven beschermen door een VPN te gebruiken om uw online activiteiten te versleutelen, evenals enkele andere stappen, zoals het up-to-date houden van uw software, het maken van unieke en sterke wachtwoorden en het gebruik van { -brand-name-relay }-maskers om uw e-mail beveiligd te houden.

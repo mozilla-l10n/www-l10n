@@ -7,6 +7,7 @@
 
 # New strings for updated page
 vpn-windows-get-a-vpn = { -brand-name-mozilla }의 Windows용 VPN 받기
+# Obsolete string (expires 2025-12-19)
 vpn-windows-protect-your-windows = VPN으로 Windows 기기를 보호하세요. { -brand-name-mozilla } VPN은 비영리 기업의 지원을 받습니다. VPN이 사용자를 보호하는 방법과 개인 정보 보호 및 보안과 관련하여 { -brand-name-mozilla }를 신뢰해야 하는 이유를 알아보세요.
 vpn-windows-stay-safe = VPN으로 Windows 기기 보안 상태 유지
 vpn-windows-windows-is-one = Windows는 세계에서 가장 대중적인 운영 체제입니다. 그러므로 보통 Windows 기기가 해커의 공격 대상이 되며 적절한 예방 조치를 취하지 않으면 특히 취약할 수 있습니다. VPN을 사용하여 온라인 활동을 암호화할 뿐만 아니라 소프트웨어를 최신 상태로 유지하고 고유하고 강력한 비밀번호를 생성하고 { -brand-name-relay } 마스크를 사용하여 이메일을 보호하는 등의 조치를 취하면 안전하게 인터넷 생활을 할 수 있습니다.

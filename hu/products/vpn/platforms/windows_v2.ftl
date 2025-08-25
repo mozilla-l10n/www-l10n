@@ -7,6 +7,7 @@
 
 # New strings for updated page
 vpn-windows-get-a-vpn = Szerezzen egy VPN-t Windowsra a { -brand-name-mozilla(ending: "accented") }tól
+# Obsolete string (expires 2025-12-19)
 vpn-windows-protect-your-windows = Védje meg windowsos eszközét egy VPN segítségével. A { -brand-name-mozilla } VPN-t egy nonprofit cég támogatja. Tudja meg, hogyan védi meg Önt egy VPN, és miért bízzon meg a { -brand-name-mozilla(ending: "accented") }ban, ha az adatvédelemről és biztonságról van szó.
 vpn-windows-stay-safe = Maradjon biztonságban windowsos eszközén VPN segítségével
 vpn-windows-windows-is-one = A Windows a világ egyik legnépszerűbb operációs rendszere. Ennek eredményeként a windowsos eszközöket általában erősen célozzák a hackerek, és különösen sebezhetővé válhatnak, ha nem tesz megfelelő óvintézkedéseket. Megvédheti digitális életét azáltal, hogy VPN-nel titkosítja online tevékenységét, valamint egyéb lépéseket is tesz: naprakészen tartja a szoftvereit, egyedi és erős jelszavakat hoz létre, valamint a { -brand-name-relay }-maszkok használatával megvédi a postafiókját.
