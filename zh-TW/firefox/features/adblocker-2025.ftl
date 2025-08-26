@@ -32,9 +32,9 @@ features-adblocker-beyond-ad-blockers = 除了廣告封鎖器之外，{ -brand-n
 features-adblocker-tool-1 = <strong>標準模式：</strong>是一個平衡的選項，讓您可封鎖常見追蹤器，同時確保網站功能正常。
 features-adblocker-tool-2 = <strong>嚴格模式：</strong>適合需要封鎖更多追蹤器與 Cookie 來加強保護隱私的使用者。請注意，某些網站在此模式中可能需要調整。
 features-adblocker-tool-3 = <strong>自訂模式：</strong>若您想要自行控制，這個模式可讓您選擇要封鎖哪些東西，不論是 Cookie 還是追蹤器等等。
-features-adblocker-to-adjust = 若要調整這些設定請點下網頁網址列左邊的盾牌圖示然後選擇「保護設定」。將會開啟一個選單讓您可以選擇適合自己的保護等級。
+features-adblocker-to-adjust = 若要調整這些選項，請點擊網址列左邊的盾牌圖示，然後選擇「保護設定」。將會開啟一個讓您選擇適合自己的保護等級的選單。
 features-adblocker-why-use = 為什麼要使用廣告封鎖器？
 features-adblocker-ad-blockers-do-more = 廣告封鎖器不只能管理廣告，還可以減少不必要的內容，以加速上網與加強安全性。它們讓您能夠有一個量身打造又不分心的網頁體驗，專注於最重要的事情上。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-explore-hundreds = 探索數以百計的 { -brand-name-firefox } 附加元件找出最適合您的工具。立刻<a href="{ $url }">下載 { -brand-name-firefox }</a> 即可體驗在設計時著重保護您的隱私與效能的瀏覽器。
+features-adblocker-explore-hundreds = 探索數以百計專注於隱私權保護的 { -brand-name-firefox } 附加元件，並找出最適合您的工具。立刻<a href="{ $url }">下載 { -brand-name-firefox }</a>，即可體驗從一開始設計時，就兼顧您的隱私權與效能的瀏覽器。
