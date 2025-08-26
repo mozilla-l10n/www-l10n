@@ -9,14 +9,39 @@
 firefox-all-download-the-firefox-v2 = Descarcă { -brand-name-firefox } în engleză (SUA) și peste 90 de alte limbi
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Toți merită acces la internet — limba nu ar trebui să fie niciodată o barieră. De aceea — cu ajutorul voluntarilor dedicați din întreaga lume — facem { -brand-name-firefox } disponibil în peste 90 de limbi.
+firefox-all-choose-browser = Alege un browser pentru a continua
+firefox-all-choose-platform = Alege o platformă pentru a continua
+firefox-all-choose-language = Alege o limbă pentru a continua
+firefox-all-change-browser = Alege alt produs
+firefox-all-change-platform = Alege altă platformă
+firefox-all-change-language = Alege altă limbă
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Alege din lista de mai jos
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Obține ajutor
+firefox-all-browser-v2 = 1. Browser:
+firefox-all-platform-v2 = 2. Platformă:
+firefox-all-language-v2 = 3. Limbă:
+firefox-all-download = 4. Descarcă:
+firefox-all-desktop = Desktop
+firefox-all-mobile = Mobil
+firefox-all-recommended = (Recomandat)
 firefox-all-lang-multi = Multiple limbi
+firefox-all-plat-mobile = Android și iOS
 firefox-all-sorry-we-couldnt-find = Ne pare rău, nu am găsit descărcarea pe care o cauți. Încearcă din nou sau alege o descărcare din lista de mai jos.
 firefox-all-the-pre-alpha-version = Versiunea pre-alfa pentru utilizatorii experimentați care doresc să caute problemele și să testeze funcțiile noi, pe măssură ce acestea sunt implementate.
 firefox-all-64-bit-installers = Programe de instalare pe 64 de biți
 firefox-all-choose-a-64-bit-installer = Alege un program de instalare pe 64 de biți pentru calculatoarele cu procesoare pe 64 de biți, care le permit să aloce mai mult RAM programelor individuale — un aspect important în special pentru jocuri și alte aplicații solicitante.
 firefox-all-32-bit-installers = Programe de instalare pe 32 de biți
+firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Opțiunea va deschide o pagină de produs { -brand-name-firefox } în portalul web Microsoft Store. Dacă ai Windows 10 sau Windows 11, vei avea opțiunea de a deschide Microsoft Store de pe această pagină și să instalezi { -brand-name-firefox }. Dacă instalezi din Microsoft Store, actualizările { -brand-name-firefox } vor fi gestionate tot din Microsoft Store. Există mici diferențe de comportament și capabilități { -brand-name-firefox } când este instalat din Microsoft Store, dar majoritatea utilizatorilor spune că nu sunt evidente.
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Descarcă { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Suntem în perioada de tranziție între versiuni majore ESR { $esr_next_major } și { $esr_current_major }.
 firefox-all-check-the-system-requirements = Verifică cerințele de sistem
 firefox-all-release-notes = Note privind versiunea
 firefox-all-source-code = Cod sursă
