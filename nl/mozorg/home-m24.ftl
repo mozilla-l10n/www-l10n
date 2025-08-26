@@ -43,6 +43,7 @@ m24-home-donate-to-the = Doneer aan de non-profitorganisatie { -brand-name-mozil
 m24-home-donate-to-v2 = Doneren aan { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } bouwt een beweging om het internet terug te winnen. Samen kunnen we een toekomst bouwen waarin onze privacy wordt beschermd, AI betrouwbaar is en onverantwoordelijke technologiebedrijven ter verantwoording worden geroepen. Maar dat kan alleen als we het samen doen.
+m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } bouwt aan een toekomst waarin technologie wordt aangedreven door mensen en open is door ontwerp. Daarom voeden we gemeenschapsgerichte technologie via lobbywerk, scholing, financiering en innovatie – om ervoor te zorgen dat de toekomst van technologie goed is voor iedereen. Maar dat kan alleen als we het samen doen.
 m24-home-were-proudly-nonprofit = We zijn trots non-profit. Wilt u vandaag doneren aan { -brand-name-mozilla }?
 m24-home-donate = Doneren
 
