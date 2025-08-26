@@ -73,4 +73,4 @@ vpn-features-people-over-profits = 以人為本
 #   $mofo (url) - link to https://foundation.mozilla.org/
 # Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = 我們是由致力於保護網際網路的生態，對所有人都開放與健康而奮鬥的非營利組織 <a { $mofo }>{ -brand-name-mozilla-foundation }</a> 在背後全力相挺。
-vpn-features-were-backed-by-mofo-v2 = 我們是由致力於保持 Web 對所有人的開放與健康的非營利組織 <a { $mofo }>{ -brand-name-mozilla-foundation }</a> 所支持的。
+vpn-features-were-backed-by-mofo-v2 = 我們是由致力於保護網際網路的生態，對所有人都開放與健康而奮鬥的非營利組織 <a { $mofo }>{ -brand-name-mozilla-foundation }</a> 在背後全力相挺。
