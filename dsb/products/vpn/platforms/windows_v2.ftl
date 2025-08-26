@@ -9,6 +9,7 @@
 vpn-windows-get-a-vpn = Wobstarajśo se VPN za Windows wót { -brand-name-mozilla }
 # Obsolete string (expires 2025-12-19)
 vpn-windows-protect-your-windows = Šćitajśo swój rěd Windows z VPN. { -brand-name-mozilla } VPN se pśez za wše wužytne pśedewześe pódpěra. Zgóńśo, kak VPN was šćita a cogoždla wy měł { -brand-name-mozilla } ze swójeju priwatnosću a wěstotu dowěriś.
+vpn-windows-protect-your-windows-v2 = Šćitajśo swój rěd Windows z VPN. { -brand-name-mozilla-vpn } se pśez za wše wužytne pśedewześe pódpěra. Zgóńśo, kak VPN was šćita a cogoždla wy měł { -brand-name-mozilla } ze swójeju priwatnosću a wěstotu dowěriś.
 vpn-windows-stay-safe = Wóstańśo wěsty na swójom rěźe Windows z VPN
 vpn-windows-windows-is-one = Windows jo jaden z nejwěcej woblubowanych źěłowych systemow  na swěśe. Togodla su rědy Windows zwětšego wjelgin cesto cel zadobywarjow a mógu wósebnje napadojte byś, jolic pśigódne wěstotne napšawy njecynje. Móžośo swóje digitalne žywjenje šćitaś, gaž VPN wužywaśo, kótaraž wašu aktiwitu online koděrujo, a někotare druge kšace kaž na pśikład, až swóju software aktualnu źaržyśo, jadnorazowe a mócne gronidła napórajośo a maski { -brand-name-relay } wužywaśo, aby swóju e-mail šćitał.
 vpn-windows-a-vpn-creates = VPN skoděrowany „tunel“ za waše internetne daty mjazy wašym licadłom Windows a internetom napórajo a maskěrujo wašo stojnišćo pśed websedłami, ku kótarymž se woglědujośo. To pomaga, tśeśe póbitowarjam a seśowym špionam zawoboraś, až wěcy wó was zgóniju,  wó kótarychž njesměju nic wěźeś.
