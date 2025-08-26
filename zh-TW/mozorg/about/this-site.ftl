@@ -10,7 +10,7 @@ about-this-site-desc = 關於 www.mozilla.org 網站的內容，以及用來打�
 # Variables:
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
-about-this-site-this-website = www.mozilla.org 這個網站已上線超過 20 年。對網路世界來說，就是從<a href="{ $archive }">恐龍時代</a>篳路藍縷而來。因此，www.mozilla.org 是網路世界的基石，根基於見證了<a href="{ $coderush }">{ -brand-name-mozilla } 創立</a>的開放原始碼運動。
+about-this-site-this-website = www.mozilla.org 這個網站已上線超過 20 年。對網路世界來說，就是從<a href="{ $archive }">恐龍時代</a>篳路藍縷而來。因此，www.mozilla.org 是網路世界的基石，根基於見證了 <a href="{ $coderush }">{ -brand-name-mozilla } 創立</a>的開放原始碼運動。
 # Variables:
 #   $firefox (url) link to https://www.mozilla.org/firefox/new/
 #   $vpn (url) link to https://www.mozilla.org/products/vpn/
@@ -19,7 +19,7 @@ about-this-site-this-website = www.mozilla.org 這個網站已上線超過 20 �
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
 # Obsolete string (expires 28-11-2025)
 about-this-site-today = 現今，這是人們下載 <a href="{ $firefox }">{ -brand-name-firefox }</a>、試用 <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>、更加了解 <a href="{ $mozilla }">{ -brand-name-mozilla }</a> 所使用的網站。您可以發現一些<a href="{ $book }">彩蛋</a>。
-about-this-site-today-v2 = 現在是人們了解<a href="{ $mozilla }">關於 { -brand-name-mozilla }</a> 的更多資訊並試用 <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> 的網站。您也可以在路上發現一些<a href="{ $book }">彩蛋</a>。
+about-this-site-today-v2 = 現在，這裡是人們了解<a href="{ $mozilla }">有關 { -brand-name-mozilla }</a> 的更多資訊，並試用 <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> 的網站。您也可以在站上發現一些<a href="{ $book }">彩蛋</a>。
 about-this-site-like-many = 本網站與我們的許多產品一樣，也開放原始碼：
 about-this-site-view-source = 到 { -brand-name-github } 檢視原始碼
 about-this-site-report-a-bug = 回報 Bug
