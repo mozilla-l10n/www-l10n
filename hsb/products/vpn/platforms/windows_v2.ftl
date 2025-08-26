@@ -9,6 +9,7 @@
 vpn-windows-get-a-vpn = Wobstarajće sej VPN za Windows wot { -brand-name-mozilla }
 # Obsolete string (expires 2025-12-19)
 vpn-windows-protect-your-windows = Škitajće swój grat Windows z VPN. { -brand-name-mozilla } VPN so přez powšitkownowužitne předewzaće podpěruje. Zhońće, kak VPN was škita a čehoždla wy měł { -brand-name-mozilla } ze swojej priwatnosću a wěstotu dowěrić.
+vpn-windows-protect-your-windows-v2 = Škitajće swój grat Windows z VPN. { -brand-name-mozilla-vpn } so přez powšitkownowužitne předewzaće podpěruje. Zhońće, kak VPN was škita a čehoždla wy měł { -brand-name-mozilla } ze swojej priwatnosću a wěstotu dowěrić.
 vpn-windows-stay-safe = Wostańće wěsty na swojim graće Windows z VPN
 vpn-windows-windows-is-one = Windows je jedyn z najbóle woblubowanych dźěłowych systemow  na swěće. Tohodla su graty Windows zwjetša jara husto cil zadobywarjow a móža wosebje napadliwe być, jeli přihódne wěstotne naprawy nječinja. Móžeće swoje digitalne žiwjenje škitać, hdyž VPN wužiwaće, kotraž wašu aktiwitu online zaklučuje, kaž tež někotre druhe kroki kaž na přikład, zo swoju software aktualnu dźeržiće, jónkróćne a mócne hesła wutworjeće a maski { -brand-name-relay } wužiwaće, zo byšće swoju e-mejl škitał.
 vpn-windows-a-vpn-creates = VPN zaklučowany „tunl“ za waše internetne daty mjez wašim ličakom Windows a internetom wutworja a maskuje waše stejnišćo před websydłami, kotrež wopytujeće. To pomha, třećich poskićowarjow a syćowych spionow při tym haćić, zo wěcy wo was zhonja,  wo kotrychž njesmědźa ničo wědźeć.
