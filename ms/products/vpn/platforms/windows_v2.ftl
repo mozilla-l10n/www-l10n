@@ -6,6 +6,7 @@
 
 # New strings for updated page
 vpn-windows-get-a-vpn = Dapatkan VPN untuk Windows daripada { -brand-name-mozilla }
+# Obsolete string (expires 2025-12-19)
 vpn-windows-protect-your-windows = Lindungi peranti Windows anda dengan VPN. { -brand-name-mozilla } VPN disokong oleh syarikat bukan berasaskan keuntungan. Ketahui bagaimana VPN melindungi anda dan mengapa anda harus percayakan { -brand-name-mozilla } dengan privasi dan keselamatan anda.
 vpn-windows-stay-safe = Kekal selamat dan terlindungi di peranti Windows anda dengan VPN
 vpn-windows-windows-is-one = Windows merupakan salah satu sistem pengoperasian yang terkenal di dunia. Natijahnya, peranti Windows sering menjadi sasaran oleh penggodam dan mungkin lebih terdedah jika anda tidak mengambil langkah keselamatan. Anda boleh melindungi kehidupan digital anda dengan menggunakan VPN untuk menginkripsi aktiviti dalam talian termasuklah memastikan perisian anda sentiasa dikemas kini, mencipta kata laluan yang unik dan kukuh dan menggunakan pengeliru { -brand-name-relay } bagi melindungi e-mel anda.
