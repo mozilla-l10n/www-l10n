@@ -42,6 +42,11 @@ firefox-all-download-esr-version = Descarcă { $esr_version }
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = Suntem în perioada de tranziție între versiuni majore ESR { $esr_next_major } și { $esr_current_major }.
+firefox-all-esr-when-there-is = Când apare o actualizare la o versiune majoră, va fi întotdeauna o suprapunere a câtorva versiuni { -brand-name-firefox-esr } punctuale, pentru a permite celor care folosesc versiunea veche să se pregătească pentru trecerea la cea nouă.
+firefox-all-esr-if-you-choose = Dacă alegi să descarci versiunea ESR mai veche, va fi actualizată automat la cea nouă la sfârșitul perioadei de tranziție.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Citește mai multe despre ciclul de lansare <a { $attrs }>{ -brand-name-firefox-esr }</a>.
 firefox-all-check-the-system-requirements = Verifică cerințele de sistem
 firefox-all-release-notes = Note privind versiunea
 firefox-all-source-code = Cod sursă
