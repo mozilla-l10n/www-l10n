@@ -9,6 +9,9 @@
 bookmark-manager-bookmark-manager = ໂຕຈັດການບຸກມາກ
 # HTML page description
 bookmark-manager-organize-your-bookmarks-with = ຈັດລະບຽບ bookmarks ຂອງທ່ານດ້ວຍໂຟນເດີ ແລະ tags.
+# Variables:
+#   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
+bookmark-manager-bookmarks-are-links-you-save = ບຸກມາກແມ່ນລິ້ງທີ່ທ່ານບັນທຶກໄວ້ໃນບຼາວເຊີຂອງທ່ານເພື່ອໃຫ້ທ່ານສາມາດກັບຄືນໄປຫາສະຖານທີ່ທີ່ທ່ານມັກໃນເວັບໄດ້ໄວ ແລະ ງ່າຍດາຍ. { -brand-name-firefox } ປະກອບມີຕົວຈັດການບຸກມາກທີ່ມີປະໂຫຍດເພື່ອໃຫ້ທ່ານສາມາດຈັດລະບຽບ, ຊອກຫາ, ອັບເດດ ແລະ <a { $sync }>ຊິງໂຄຣໄນລິ້ງທີ່ບັນທຶກໄວ້ທັງໝົດຂອງທ່ານໃນທຸກອຸປະກອນຂອງທ່ານ</a>.
 bookmark-manager-organize-your-boomarks-into = ຈັດລະບຽບ bookmarks ຂອງທ່ານເຂົ້າໄປໃນໂຟນເດີທີ່ຄົ້ນຫາໄດ້
 bookmark-manager-collect-your-bookmarks-in-folders = ເກັບກໍາ bookmarks ຂອງທ່ານໃນໂຟນເດີ ແລະ ແທັກໃຫ້ພວກມັນມີລາຍລະອຽດເພີ່ມເຕີມ. ນອກນັ້ນທ່ານຍັງສາມາດຈັດຮຽງ bookmarks ຂອງທ່ານເພື່ອຄົ້ນຫາອັນທີ່ທ່ານຕ້ອງການຢ່າງວ່ອງໄວ.
 bookmark-manager-easily-import-bookmarks = ນຳເຂົ້າບຸກມາກໄດ້ຢ່າງງ່າຍດາຍ
