@@ -39,5 +39,5 @@ multi-newsletter-form-checkboxes-legend = მსურს, შევიტყო
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
 multi-newsletter-form-checkboxes-error = გთხოვთ, მონიშნოთ ერთ-ერთი მათგანი მაინც.
-multi-newsletter-form-title = ვებსამყაროს სიყვარული
+multi-newsletter-form-title = ვებსამყაროსადმი სიყვარული
 multi-newsletter-form-desc = მიიღეთ { -brand-name-mozilla }-ცნობები და დაგვეხმარეთ, ვაქციოთ ვებსამყარო მეტად გახსნილი და თავისუფალი.
