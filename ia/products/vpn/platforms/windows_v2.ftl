@@ -9,6 +9,7 @@
 vpn-windows-get-a-vpn = Discarga un VPN pro Windows de { -brand-name-mozilla }
 # Obsolete string (expires 2025-12-19)
 vpn-windows-protect-your-windows = Protege tu apparato Windows con un VPN. Le VPN de { -brand-name-mozilla } es supportate per un compania sin fin de lucro. Apprende como un VPN te protege e perque tu deberea confider in { -brand-name-mozilla } pro tu confidentialitate e securitate.
+vpn-windows-protect-your-windows-v2 = Protege tu apparato Windows con un VPN. Le { -brand-name-mozilla-vpn } es supportate per un compania sin fin de lucro. Apprende como un VPN te protege e perque tu deberea confider in { -brand-name-mozilla } pro tu confidentialitate e securitate.
 vpn-windows-stay-safe = Sta secur e protegite sur tu apparato Windows con un VPN
 vpn-windows-windows-is-one = Windows es un del plus popular systemas operative in le mundo. In consequentia, le apparatos Windows es usualmente altemente mirate per piratas informatic e pote esser specialmente vulnerabile si tu non prende correcte precautiones. Tu pote proteger tu vita digital per un VPN pro cryptar tu activitate online, e alcun altere passos tal como, mantener tu software actualisate, crear contrasignos unic e forte, e per le mascas de { -brand-name-relay } pro mantener tu email protegite.
 vpn-windows-a-vpn-creates = Un VPN crea un “tunnel” cryptate pro tu datos internet inter tu computator Windows e internet, e masca tu position ab le sitos web que tu visita. Isto adjuta a impedir que tertie partes e spias del rete apprende cosas re te que illes non debe saper.
