@@ -88,3 +88,4 @@ vpn-features-people-over-profits = Pengguna sebelum keuntungan
 #   $mofo (url) - link to https://foundation.mozilla.org/
 # Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = Kami disokong sepenuhnya oleh <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, sebuah organisasi bukan berasaskan keuntungan yang berjuang mengekalkan kesihatan dan keterbukaan internet untuk semua.
+vpn-features-were-backed-by-mofo-v2 = Kami disokong sepenuhnya oleh <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, sebuah organisasi bukan berasaskan keuntungan yang berjuang mengekalkan kesihatan dan keterbukaan internet untuk semua.
