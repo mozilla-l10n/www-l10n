@@ -60,11 +60,13 @@ manifesto-details-as-a-result-of = इन कोशिशों के परि
 manifesto-details-the-goals-for = घोषणा पत्र के लक्ष्य हैं :
 # Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = इंटरनेट के लिए ऐसा दृष्टिकोण बनाना जिसका अनुसरण { -brand-name-mozilla } प्रतिभागी { -brand-name-mozilla-foundation } से कराना चाहेंगे;
+manifesto-details-articulate-a-vision-v2 = इंटरनेट के लिए एक ऐसी सोच को स्पष्ट रूप से प्रस्तुत करना जिसे { -brand-name-mozilla } के सहभागी चाहते हैं कि { -brand-name-mozilla-foundation } आगे बढ़ाए;
 manifesto-details-speak-to-people = उन लोगों को भी आसानी से समझ आए जिनकी तकनीकी पृष्ठभूमि नहीं है;
 manifesto-details-make-mozilla-contributors = ऐसे काम करना जिन पर { -brand-name-mozilla } योगदानकर्ताओं को गर्व महसूस हो और हमें काम जारी रखने के लिए प्रेरणा मिलती रहे; तथा
 manifesto-details-provide-a-framework = इंटरनेट के इस दृष्टिकोण को आगे बढ़ाने के लिए अन्य लोगों के लिए एक रूपरेखा देना।
 # Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = ये सिद्धांत अपने दम पर जीवन का हिस्सा नहीं बन पाएँगे। इंटरनेट को खुला और सहभागी बनाने के लिए ज़रूरी है कि लोग व्यक्तिगत रूप से काम करें, समूह में मिलकर काम करें और दूसरों का नेतृत्व करें। { -brand-name-mozilla-foundation } { -brand-name-mozilla } घोषणा पत्र में निर्धारित सिद्धांतों को आगे बढ़ाने के लिए प्रतिबद्ध है। हम औरों को हमारी पहल का हिस्सा बनने के लिए आमंत्रित करते हैं ताकि इंटरनेट को सभी के लिए और भी बेहतर जगह बनाया जा सके।
+manifesto-details-these-principles-v2 = ये सिद्धांत तब तक जीवंत नहीं हो पाएंगे जब तक हम इन्हें अमल में न लाएं। इंटरनेट को खुला और सहभागी बनाने के लिए लोगों के सहयोग की ज़रूरत है - वे जो व्यक्तिगत रूप से सक्रिय हों, समूह में मिलकर काम करें, और नेतृत्व प्रदान करें। { -brand-name-mozilla } घोषणापत्र में निहित सिद्धांतों को आगे बढ़ाने के लिए { -brand-name-mozilla-foundation } पूरी तरह से प्रतिबद्ध है। हम सभी को आमंत्रित करते हैं कि वे हमारे साथ जुड़ें और मिलकर इंटरनेट को हर किसी के लिए एक बेहतर व सुरक्षित स्थान बनाएं।
 manifesto-details-principles = सिद्धांत
 manifesto-details-the-internet-is-integral = इंटरनेट आधुनिक जीवन का एक अभिन्न हिस्सा है — यह शिक्षा, संचार, सहयोग, व्यापार, मनोरंजन और पूरे समाज का ही एक महत्वपूर्ण अंश हैं।
 manifesto-details-the-internet-is-global = इंटरनेट एक वैश्विक सार्वजनिक संसाधन है जिसे खुला और सुलभ रहना चाहिए।
@@ -81,6 +83,7 @@ manifesto-details-there-are-many = { -brand-name-mozilla } घोषणापत
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } प्रतिज्ञा
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } अपनी गतिविधियों में { -brand-name-mozilla } घोषणापत्र का समर्थन करने का वचन देता है। विशेष रूप से, हम यह करेंगे :
+manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation } अपने कार्यों में { -brand-name-mozilla } घोषणापत्र का समर्थन करने के प्रति संकल्पबद्ध है। विशेष रूप से, हम यह करेंगे :
 manifesto-details-build-and-enable = घोषणापत्र के सिद्धांतों का समर्थन करने वाली ओपन-सोर्स तकनीकों और समुदायों का निर्माण करना और उन्हें सक्षम बनाना;
 manifesto-details-build-and-deliver = घोषणापत्र के सिद्धांतों का समर्थन करने वाले बेहतरीन उपभोक्ता उत्पादों का निर्माण और वितरण करना;
 manifesto-details-use-the-mozilla = इंटरनेट को एक खुला मंच रखने के लिए { -brand-name-mozilla } परिसंपत्तियों (कॉपीराइट और ट्रेडमार्क, बुनियादी ढांचे, धन और प्रतिष्ठा जैसी बौद्धिक संपदा) का उपयोग करना;
@@ -88,6 +91,8 @@ manifesto-details-promote-models = सार्वजनिक लाभ के 
 manifesto-details-promote-the-mozilla = सार्वजनिक प्रवचन और इंटरनेट उद्योग के भीतर { -brand-name-mozilla } घोषणापत्र सिद्धांतों को बढ़ावा देना।
 # Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = संस्थान की कुछ गतिविधियाँ — वर्तमान में, उपभोक्ता उत्पादों का निर्माण, वितरण और प्रचार-प्रसार — मुख्यतः { -brand-name-mozilla-foundation } की पूर्ण स्वामित्व वाली सहायक कंपनी { -brand-name-mozilla-corporation } द्वारा आयोजित की जाती हैं।
+manifesto-details-some-foundation-v2 = फ़ाउंडेशन की कुछ प्रमुख गतिविधियां—वर्तमान में उपभोक्ता उत्पादों का निर्माण, डिलीवरी और प्रमोशन—मुख्य रूप से { -brand-name-mozilla-foundation } की पूर्ण स्वामित्व वाली सहायक संस्था { -brand-name-mozilla-corporation } के ज़रिए संचालित होती हैं।
 manifesto-details-invitation = आमंत्रण
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } उन सभी को हमसे जुड़ने के लिए आमंत्रित करता है जो { -brand-name-mozilla } घोषणापत्र के सिद्धांतों का साथ देते हैं, और इंटरनेट के इस दृष्टिकोण को एक वास्तविकता बनाने के लिए प्रतिबद्ध हैं।
+manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } उन सभी को आमंत्रित करता है जो { -brand-name-mozilla } घोषणापत्र के सिद्धांतों का समर्थन करते हैं कि वे हमारे साथ जुड़ें और इंटरनेट की इस सोच को वास्तविकता बनाने के नए-नए रास्ते तलाशें।
