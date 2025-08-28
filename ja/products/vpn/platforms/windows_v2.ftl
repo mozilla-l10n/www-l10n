@@ -8,6 +8,7 @@
 vpn-windows-get-a-vpn = { -brand-name-mozilla } から Windows 用 VPN をダウンロード
 # Obsolete string (expires 2025-12-19)
 vpn-windows-protect-your-windows = Windows デバイスを保護する VPN をお求めの方に。{ -brand-name-mozilla } VPN は非営利法人が提供しています。VPN があなたを保護する仕組み、プライバシーとセキュリティについて { -brand-name-mozilla } が信頼できる理由をご覧ください。
+vpn-windows-protect-your-windows-v2 = Windows デバイスを保護する VPN をお求めの方に。{ -brand-name-mozilla-vpn } は非営利法人が提供しています。VPN があなたを保護する仕組み、プライバシーとセキュリティについて { -brand-name-mozilla } が信頼できる理由をご覧ください。
 vpn-windows-stay-safe = VPN で Windows デバイスの安全とセキュリティを確保
 vpn-windows-windows-is-one = Windows は、世界最大手のオペレーティングシステムです。その結果、Windows デバイスはハッカーの主な標的となっており、適切な対策を講じなければ特に脆弱になる恐れがあります。VPN を利用してオンラインアクティビティを暗号化するほかにも、ソフトウェアを最新の状態に保つ、一意で強力なパスワードを作成する、{ -brand-name-relay } マスクでメールを保護するといったことが有効です。
 vpn-windows-a-vpn-creates = VPN は、Windows コンピューターとインターネットの間にインターネットデータ用の暗号化された「トンネル」を作り出し、アクセスするウェブサイトからユーザーの位置情報を秘匿します。これにより、サードパーティやネットワークスパイからあなたについて知られたくないことを知られなくなります。
