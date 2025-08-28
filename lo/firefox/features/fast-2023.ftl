@@ -14,3 +14,5 @@ features-fast-every-computer-program-you-run = ທຸກໆໂປລແກລມ
 features-fast-multi-tasking-with-multiple-tabs = ເຮັດສິ່ງຕ່າງໆໄດ້ພ້ອມກັນດ້ວຍແຖບຫຼາຍແຖບ
 features-fast-firefox-is-a-multi-process-browser = { -brand-name-firefox } ແມ່ນບຣາວເຊີຫຼາຍຂະບວນການ, ຊຶ່ງໝາຍຄວາມວ່າແຖບຂອງທ່ານຄົງຢູ່ໃໝ່ ແລະ ຈະບໍ່ໃຊ້ເວລາໃນການໂຫຼດໃໝ່ຕະຫຼອດໄປ. ດ້ວຍເວລາ lag ໜ້ອຍລົງ 86%, ທ່ານສາມາດສະຫຼັບລະຫວ່າງແທັບໄດ້ໄວ ເຖິງແມ່ນວ່າສຽງພາຍໃນນ້ອຍໆຂອງທ່ານບອກວ່າທ່ານເປີດແທັບຫຼາຍໂພດ.
 features-fast-faster-gaming = ເກມໄວຂຶ້ນ
+# Native speed refers to operating speed for games written for platforms such as macOS or Windows.
+features-fast-we-led-the-tech-to-run-3d-games = ພວກ​ເຮົາ​ໄດ້​ນໍາ​ພາ​ເຕັກ​ໂນ​ໂລ​ຊີ​ໃນ​ການ​ດໍາ​ເນີນ​ການ​ເກມ 3D ດ້ວຍ​ຄວາມ​ໄວ​ໃກ້​ກັບ​ພື້ນ​ເມືອງ​, ແລະ ​ໃນ​ປັດ​ຈຸ​ບັນ { -brand-name-firefox } ໄດ້​ນໍາ​ເອົາ​ປະ​ສິດ​ທິ​ພາບ​ທີ່​ດີກ​ວ່າ​ສໍາ​ລັບ​ການ​ເກມ​ອອນ​ໄລ​ນ​໌​. ບຣາວເຊີທີ່ມີປະສິດທິພາບຂອງພວກເຮົາຊ່ວຍຫຼຸດຜ່ອນຄວາມຊັກຊ້າ, ເລັ່ງເວລາ ping ແລະ ປັບປຸງການຫຼິ້ນເກມໂດຍລວມຜ່ານການຊອກຫາທີ່ໄວກວ່າ ແລະອ່ອນກວ່າ.
