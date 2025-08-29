@@ -7,6 +7,9 @@
 
 # HTML page title
 password-manager-free-password-manager = ຕົວຈັດການລະຫັດຜ່ານຟຣີ
+# HTML page description
+password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } ຕົວຈັດການລະຫັດຜ່ານຈະບັນທຶກລະຫັດຜ່ານທັງໝົດຂອງທ່ານໄວ້ໃນບ່ອນດຽວ ເພື່ອໃຫ້ທ່ານສາມາດເຂົ້າສູ່ລະບົບເວັບໄຊໂດຍອັດຕະໂນມັດ ຫຼື ດຶງເອົາລະຫັດຜ່ານທີ່ບັນທຶກໄວ້.
+password-manager-firefox-securely-stores-your = { -brand-name-firefox } ເກັບຮັກສາຊື່ຜູ້ໃຊ້ ແລະ ລະຫັດຜ່ານຂອງທ່ານໄວ້ຢ່າງປອດໄພເພື່ອເຂົ້າຫາເວັບໄຊທ໌, ຕື່ມຂໍ້ມູນເຫຼົ່ານັ້ນໃຫ້ທ່ານໂດຍອັດຕະໂນມັດໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານເຂົ້າເບິ່ງເວັບໄຊທ໌, ແລະ ໃຫ້ທ່ານຈັດການການເຂົ້າສູ່ລະບົບທີ່ເກັບໄວ້ຂອງທ່ານດ້ວຍຄຸນສົມບັດການຈັດການລະຫັດຜ່ານໃນຕົວຂອງມັນ.
 password-manager-password-autofill-for-easy-logins = ຕື່ມລະຫັດຜ່ານອັດຕະໂນມັດສໍາລັບການເຂົ້າສູ່ລະບົບທີ່ງ່າຍດາຍ
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-login-form = ຮູບພາບຂອງແບບຟອມການເຂົ້າສູ່ລະບົບຂອງເວັບໄຊທ໌ທີ່ມີ { -brand-name-firefox } ສະແດງບັນຊີທີ່ບັນທຶກໄວ້ຫຼາຍບັນຊີທີ່ຈະເລືອກເອົາໃນເວລາເຂົ້າສູ່ລະບົບ.
