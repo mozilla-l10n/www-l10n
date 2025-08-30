@@ -86,3 +86,4 @@ manifesto-details-some-foundation = Μερικές από τις δραστηρ�
 manifesto-details-invitation = Πρόσκληση
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = Το { -brand-name-mozilla-foundation } προσκαλεί όλους όσους υποστηρίζουν τις αρχές της Διακήρυξης της { -brand-name-mozilla } να ενώσουν τις δυνάμεις τους μαζί μας και να βρουν νέους δρόμους για να πραγματοποιήσουμε το όραμα μας για το διαδίκτυο.
+manifesto-details-the-mozilla-foundation-invites-v2 = Το { -brand-name-mozilla-foundation } προσκαλεί όλους όσοι υποστηρίζουν τις αρχές της Διακήρυξης της { -brand-name-mozilla } να ενώσουν τις δυνάμεις τους μαζί μας, ώστε να βρούμε νέους τρόπους για να κάνουμε πραγματικότητα αυτό το όραμα για το διαδίκτυο.
