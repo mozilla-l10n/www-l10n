@@ -54,7 +54,8 @@ manifesto-details-the-mozilla-project-community = Το εγχείρημα { -bra
 manifesto-details-as-a-result-of = Απόσταγμα αυτών των προσπαθειών μας είναι ένα σύνολο αρχών που πιστεύουμε ότι είναι κρίσιμες ώστε να συνεχίσει το διαδίκτυο να ωφελεί το κοινό συμφέρον καθώς και την επιχειρηματική πλευρά της ζωής μας. Παρουσιάζουμε αυτές τις αρχές παρακάτω.
 manifesto-details-the-goals-for = Στόχοι της Διακήρυξης είναι:
 # Obsolete string (expires 19-10-2025)
-manifesto-details-articulate-a-vision = Εκφράστε ένα όραμα για το διαδίκτυο που οι συμμετέχοντες της { -brand-name-mozilla } θέλουν να πραγματοποιήσει το { -brand-name-mozilla-foundation }·
+manifesto-details-articulate-a-vision = Να εκφράζει ένα όραμα για το διαδίκτυο που οι συμμετέχοντες της { -brand-name-mozilla } θα θέλουν να επιδιώξει το { -brand-name-mozilla-foundation }·
+manifesto-details-articulate-a-vision-v2 = Να εκφράζει ένα όραμα για το διαδίκτυο που οι συμμετέχοντες της { -brand-name-mozilla } θα θέλουν να επιδιώξει το { -brand-name-mozilla-foundation }·
 manifesto-details-speak-to-people = Να απευθύνεται στο κοινό, άσχετα με το τεχνολογικό του υπόβαθρο·
 manifesto-details-make-mozilla-contributors = Να κάνει περήφανους τους συντελεστές του { -brand-name-mozilla } γι' αυτό που κάνουμε και να μας δώσει κίνητρο για να συνεχίσουμε.
 manifesto-details-provide-a-framework = Και τέλος, να παρέχει ένα πλαίσιο σε άλλους ανθρώπους ώστε να αναπτύξουν περαιτέρω αυτό το όραμα για το διαδίκτυο.

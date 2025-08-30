@@ -34,6 +34,7 @@ footer-refresh-tools = Εργαλεία
 footer-refresh-donate = Δωρεά
 # Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = Επισκεφτείτε τον μη κερδοσκοπικό, γονικό οργανισμό της <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, το <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
+footer-refresh-visit-mozilla-corporations-v2 = Επισκεφθείτε τον μη κερδοσκοπικό γονικό οργανισμό της <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, το <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Τμήματα αυτού του περιεχομένου αποτελούν πνευματική ιδιοκτησία μεμονωμένων εθελοντών του mozilla.org (©1998–{ $current_year }). Το περιεχόμενο διατίθεται στα πλαίσια της <a rel="license" { $href }>άδειας { -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Σημείωση απορρήτου ιστοτόπου
 footer-refresh-websites-cookies = Cookie
