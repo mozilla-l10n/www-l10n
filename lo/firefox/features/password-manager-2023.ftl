@@ -28,3 +28,9 @@ password-manager-have-firefox-create-a-strong-unique = ໃຫ້ { -brand-name-f
 # Used as an accessible text alternative for an image
 password-manager-image-of-a-websites-sign-up-form = ຮູບພາບຂອງແບບຟອມການລົງທະບຽນຂອງເວັບໄຊທ໌ທີ່ມີ { -brand-name-firefox } ແນະນໍາລະຫັດຜ່ານທີ່ເຂັ້ມແຂງທີ່ມັນຈະເກັບຮັກສາໄວ້ອັດຕະໂນມັດສໍາລັບການນໍາໃຊ້ໃນອະນາຄົດ.
 password-manager-password-security-alerts = ແຈ້ງເຕືອນຄວາມປອດໄພລະຫັດຜ່ານ
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
+# "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
+password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } <a { $attrs }>ແຈ້ງເຕືອນທ່ານຖ້າລະຫັດຜ່ານຖືກເປີດເຜີຍ</a> ໃນການລະເມີດຂໍ້ມູນ ດັ່ງນັ້ນທ່ານສາມາດປ່ຽນມັນໄດ້ກ່ອນທີ່ແຮກເກີຈະມີໂອກາດເຮັດບາງຢ່າງເຊັ່ນ: ເຊົ່າ Lambo ດ້ວຍບັດເຄຣດິດຂອງທ່ານ.
+# Used as an accessible text alternative for an image
+password-manager-image-of-the-firefox-password-manager = ຮູບພາບຂອງຕົວຈັດການລະຫັດຜ່ານ { -brand-name-firefox } ທີ່ສະແດງຂໍ້ຄວາມແຈ້ງເຕືອນທີ່ອ່ານວ່າ “ລະຫັດຜ່ານນີ້ຖືກໃຊ້ໃນບັນຊີອື່ນທີ່ອາດຈະຖືກລະເມີດຂໍ້ມູນ. ການໃຊ້ຂໍ້ມູນປະຈຳຕົວຄືນໃໝ່ເຮັດໃຫ້ບັນຊີຂອງທ່ານມີຄວາມສ່ຽງ. ປ່ຽນລະຫັດຜ່ານນີ້.”
