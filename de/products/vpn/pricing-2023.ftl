@@ -34,8 +34,8 @@ vpn-pricing-connect-up-to-platforms =
 #   $countries (number) - number of available countries
 vpn-pricing-access =
     { $servers ->
-        [one] Zugriff auf { $servers } Server in über { $countries }Ländern
-       *[other] Zugriff auf { $servers } Server in über { $countries }Ländern
+        [one] Zugriff auf { $servers } Server in über { $countries } Ländern
+       *[other] Zugriff auf { $servers } Server in über { $countries } Ländern
     }
 vpn-pricing-money-back = 30 Tage Geld-zurück-Garantie (nur für Erstabonnent*innen)
 vpn-pricing-annual = Jährlich
