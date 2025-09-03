@@ -60,6 +60,9 @@ firefox-all-test-your-sites-against = Testează comportamentul site-urilor tale 
 firefox-all-count-on-stability-and = Contează pe stabilitatea și ușurința la utilizare cu acest browser { -brand-name-firefox } creat pentru întreprinderi.
 firefox-all-windows-installers-for = Programe de instalare Windows pentru departamentele IT ale întreprinderilor, care fac mai simple configurarea, lansarea și gestionarea { -brand-name-firefox-browser(case: "genitive-or-dative") }.
 firefox-all-arm64-installers = Programe de instalare ARM64/AArch64
+firefox-all-arm64-installers-optimized-v2 = Instalatoare ARM64/AArch64 optimizate pentru Windows și Linux.
+firefox-all-testflight = Fă-ți un cont ca să testezi { -brand-name-firefox } pentru iOS cu TestFlight
+firefox-all-product-send-link = Trimite un link de descărcare către telefonul tău
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
 firefox-all-choose-a-32-bit-installer = Alege un program de instalare pe 32 de biți pentru calculatoarele cu procesoare pe 32 de biți — sau pentru calculatoare mai vechi sau mai slabe. <a href="{ $url }">Dacă nu știi sigur</a>ce program de instalare să alegi, pe 64 sau pe 32 biți, îți recomandăm să mergi pe 32 biți.
@@ -75,3 +78,6 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
+firefox-all-download-esr-115 = Descarcă ESR 115
+firefox-all-note-unsupported = Notă: Dacă folosești Windows 7, Windows 8, Windows 8.1 sau macOS 10.12, 10.13 sau 10.14, atunci te rugăm să descarci ESR 115 ca să folosești { -brand-name-firefox }.
