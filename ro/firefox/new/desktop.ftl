@@ -12,7 +12,9 @@
 firefox-desktop-download-meta-title = Descarcă { -brand-name-firefox-browser } — Rapid, privat și gratuit — de la { -brand-name-mozilla }
 firefox-desktop-download-meta-title-v2 = Descarcă { -brand-name-firefox } pentru desktop — de la { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Descarcă { -brand-name-firefox }{ -brand-name-firefox }, un browser web gratuit susținut de { -brand-name-mozilla }, o organizație non-profit dedicată sănătății și confidențialității Internetului. Disponibil acum pe { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } și { -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = Descarcă { -brand-name-firefox } pentru { -brand-name-windows }, { -brand-name-mac-short } sau { -brand-name-linux }. { -brand-name-firefox } este un browser web gratuit susținut de { -brand-name-mozilla }, o organizație non-profit dedicată sănătății și confidențialității internetului.
 firefox-desktop-download-og-title = Descarcă cel mai rapid { -brand-name-firefox } care a existat vreodată
+firefox-desktop-download-og-desc = Încărcare mai rapidă a paginilor, mai puțină memorie utilizată și burdușit cu funcționalități, noul { -brand-name-firefox } este aici.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-download-options = Opțiuni de descărcare și alte limbi
 firefox-desktop-download-see-your-report = Vezi raportul tău de protecție
