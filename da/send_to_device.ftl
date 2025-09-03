@@ -7,6 +7,8 @@ send-to-device-your-download-link = Dit download link blev sendt.
 send-to-device-please-enter-an-email = Indtast en mailadresse.
 send-to-device-an-error-occured = Der opstod en fejl i vores system. Prøv igen senere.
 send-to-device-enter-your-email = Indtast mailadresse
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = navn@eksempel.dk
 send-to-device-send = Send
 send-to-device-intended-recipient-email = Den tiltænkte modtager af mailen skal have givet samtykke.
 send-to-device-check-your-device-email = Kontrollér din enhed for mailen!
