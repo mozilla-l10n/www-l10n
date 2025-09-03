@@ -16,6 +16,10 @@ browsers-chromebook-x86-based-chromebook = { -brand-name-chromebook } cu arhitec
 browsers-chromebook-dropdown-copy = Obține { -brand-name-firefox } pentru { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = De ce să folosești <span>{ -brand-name-firefox }</span> pe { -brand-name-chromebook }?
+browsers-chromebook-while-a-chromebook = Deși un { -brand-name-chromebook } are deja instalat { -brand-name-chrome }, descărcarea și utilizarea { -brand-name-firefox } ca browser principal îți oferă câteva avantaje:
+browsers-chromebook-alwayson-tracking-protection = Protecție împotriva urmăriri mereu activă: implicit, { -brand-name-firefox } rulează Protecția îmbunătățită împotriva urmăririi (ETP) pentru a-ți proteja datele personale împotriva elementelor de urmărire cunoscute pentru reclame, de pe rețelele de socializare și scripturile de cryptominerit care te urmăresc pe web.
+browsers-chromebook-supporting-independent-technology = Susținerea tehnologiei independente: cum majoritatea browserelor importante rulează acum pe { -brand-name-chromium }, există mai puține opțiuni care nu alimentează mașinăria Big Tech. { -brand-name-firefox } este susținut de o organizație non-profit și este dedicat reparării internetului. Utilizarea { -brand-name-firefox } te face parte din acest proces.
+browsers-chromebook-is-it-hard = Îți vine greu să instalezi { -brand-name-firefox } pe { -brand-name-chromebook }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
