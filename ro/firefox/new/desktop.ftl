@@ -5,6 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+# meta title, this shows as the link in search results
+# the em dash is used in English to show a change of thought and
+# the em dash is used in meta titles to separate the title of a page from the title of the whole site
+# this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
+firefox-desktop-download-meta-title = Descarcă { -brand-name-firefox-browser } — Rapid, privat și gratuit — de la { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = Descarcă { -brand-name-firefox } pentru desktop — de la { -brand-name-mozilla }
+firefox-desktop-download-meta-desc = Descarcă { -brand-name-firefox }{ -brand-name-firefox }, un browser web gratuit susținut de { -brand-name-mozilla }, o organizație non-profit dedicată sănătății și confidențialității Internetului. Disponibil acum pe { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } și { -brand-name-ios }.
 firefox-desktop-download-og-title = Descarcă cel mai rapid { -brand-name-firefox } care a existat vreodată
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-download-options = Opțiuni de descărcare și alte limbi
