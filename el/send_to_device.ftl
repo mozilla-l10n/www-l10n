@@ -7,6 +7,8 @@ send-to-device-your-download-link = Έγινε αποστολή του συνδ�
 send-to-device-please-enter-an-email = Εισαγάγετε μια διεύθυνση email.
 send-to-device-an-error-occured = Προέκυψε σφάλμα στο σύστημά μας. Δοκιμάστε ξανά αργότερα.
 send-to-device-enter-your-email = Εισαγάγετε το email σας
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = onoma@example.com
 send-to-device-send = Αποστολή
 send-to-device-intended-recipient-email = Η συναίνεση του παραλήπτη του email είναι υποχρεωτική.
 send-to-device-check-your-device-email = Ελέγξτε τη συσκευή σας για το email!
