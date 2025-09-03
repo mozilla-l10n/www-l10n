@@ -7,6 +7,8 @@ send-to-device-your-download-link = 已送出您的下載鏈結。
 send-to-device-please-enter-an-email = 請輸入電子郵件地址。
 send-to-device-an-error-occured = 我們的系統發生錯誤，請稍後再試。
 send-to-device-enter-your-email = 輸入您的電子郵件地址
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = yourname@example.com
 send-to-device-send = 傳送
 send-to-device-intended-recipient-email = 傳送前，請先獲得收件者同意。
 send-to-device-check-your-device-email = 請到您的裝置上收信！

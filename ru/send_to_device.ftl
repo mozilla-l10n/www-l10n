@@ -7,6 +7,8 @@ send-to-device-your-download-link = Вам была отправлена ссы�
 send-to-device-please-enter-an-email = Пожалуйста, введите адрес электронной почты.
 send-to-device-an-error-occured = В нашей системе произошла ошибка. Пожалуйста, повторите попытку позже.
 send-to-device-enter-your-email = Введите свой адрес электронной почты
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = yourname@example.com
 send-to-device-send = Отправить
 send-to-device-intended-recipient-email = Получатель электронного сообщения должен быть с этим согласен.
 send-to-device-check-your-device-email = Проверьте электронную почту на своём устройстве!

@@ -7,6 +7,8 @@ send-to-device-your-download-link = Váš odkaz ke stažení byl odeslán.
 send-to-device-please-enter-an-email = Zadejte prosím e-mailovou adresu.
 send-to-device-an-error-occured = Došlo k chybě v našem systému. Zkuste to prosím znovu později.
 send-to-device-enter-your-email = Zadejte váš e-mail
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = vase-adresa@example.com
 send-to-device-send = Odeslat
 send-to-device-intended-recipient-email = Požadovaný příjemce e-mailu musí se zasláním souhlasit.
 send-to-device-check-your-device-email = Zkontrolujte e-mail na vašem zařízení!

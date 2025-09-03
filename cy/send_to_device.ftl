@@ -7,6 +7,8 @@ send-to-device-your-download-link = Anfonwyd eich dolen llwytho i lawr.
 send-to-device-please-enter-an-email = Rhowch gyfeiriad e-bost dilys, os gwelwch yn dda.
 send-to-device-an-error-occured = Digwyddodd gwall yn ein system. Ceisiwch eto'n hwyrach.
 send-to-device-enter-your-email = Rhowch eich e-bost
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = eichenw@example.com
 send-to-device-send = Anfon
 send-to-device-intended-recipient-email = Rhaid fod derbynnydd yr e-bost wedi cytuno.
 send-to-device-check-your-device-email = Gwiriwch eich dyfais am yr e-bost!

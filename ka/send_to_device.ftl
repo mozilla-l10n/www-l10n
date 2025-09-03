@@ -7,6 +7,8 @@ send-to-device-your-download-link = ჩამოსატვირთი ბმ�
 send-to-device-please-enter-an-email = გთხოვთ, შეიყვანეთ ელფოსტის მისამართი.
 send-to-device-an-error-occured = ჩვენს სისტემაში შეცდომა დაფიქსირდა. გთხოვთ ცადეთ მოგვიანებით.
 send-to-device-enter-your-email = შეიყვანეთ თქვენი ელფოსტა
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = sakheli@misamarti.com
 send-to-device-send = გაგზავნა
 send-to-device-intended-recipient-email = ელფოსტის მიმღები ამას დათანხმებული უნდა იყოს.
 send-to-device-check-your-device-email = შეამოწმეთ თქვენი მოწყობილობა ელფოსტისთვის!
