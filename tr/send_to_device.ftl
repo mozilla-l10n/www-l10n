@@ -7,6 +7,8 @@ send-to-device-your-download-link = İndirme bağlantınız gönderildi.
 send-to-device-please-enter-an-email = Lütfen bir e-posta adresi yazın.
 send-to-device-an-error-occured = Sistemimizde bir hata oluştu. Lütfen daha sonra yeniden deneyin.
 send-to-device-enter-your-email = E-postanızı yazın
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = kullanici@example.com
 send-to-device-send = Gönder
 send-to-device-intended-recipient-email = E-postayı alacak kişinin izni alınmış olmalıdır.
 send-to-device-check-your-device-email = Cihazınızda e-postanızı kontrol edin!

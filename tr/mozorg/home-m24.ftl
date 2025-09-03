@@ -43,6 +43,7 @@ m24-home-donate-to-the = Kâr amacı gütmeyen { -brand-name-mozilla }’ya bağ
 m24-home-donate-to-v2 = { -brand-name-mozilla-foundation }na bağış yapın
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } internete sahip çıkacak bir hareket inşa ediyor. Gizliliğimizin korunduğu, yapay zekânın güvenilir olduğu ve sorumsuz teknoloji şirketlerinin hesap verdiği bir gelecek inşa edebiliriz. Ama bu sadece birlikte çalışırsak mümkün.
+m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation }, teknolojinin insanlardan güç aldığı ve açık bir şekilde tasarlandığı bir gelecek inşa ediyor. İşte bu yüzden topluluk merkezli teknolojileri savunuculuk, eğitim, fonlama ve inovasyon yoluyla destekliyor; teknolojinin geleceğinin tüm insanlığa faydalı olması için çalışıyoruz. Ama bu sadece birlikte çalışırsak mümkün.
 m24-home-were-proudly-nonprofit = Kâr amacı gütmüyoruz ve bununla gurur duyuyoruz. { -brand-name-mozilla }’ya bağış yaparak bize destek olur musunuz?
 m24-home-donate = Bağış yapın
 

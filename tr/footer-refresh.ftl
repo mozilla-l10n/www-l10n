@@ -34,6 +34,7 @@ footer-refresh-tools = Araçlar
 footer-refresh-donate = Bağış yapın
 # Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>’ın kâr amacı gütmeyen üst kuruluşu <a { $mofo_link }>{ -brand-name-mozilla-foundation }nı</a> ziyaret edin.
+footer-refresh-visit-mozilla-corporations-v2 = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>’ın kâr amacı gütmeyen üst kuruluşu <a { $mofo_link }>{ -brand-name-mozilla-foundation }nı</a> ziyaret edin.
 footer-refresh-portions-of-this-content = ©1998–{ $current_year } Bu içeriğin bazı kısımları bireysel mozilla.org yazarlarına aittir. Bu içerik <a rel="license" { $href }>{ -brand-name-creative-commons } lisansı</a> ile sunulmaktadır.
 footer-refresh-websites-privacy-notice = Web Sitesi Gizlilik Bildirimi
 footer-refresh-websites-cookies = Çerezler
