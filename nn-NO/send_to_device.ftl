@@ -7,6 +7,8 @@ send-to-device-your-download-link = Nedlastingslenka di er sendt.
 send-to-device-please-enter-an-email = Ver snill og skriv inn ei gyldig e-postadresse.
 send-to-device-an-error-occured = Det oppstod ein feil i systemet vårt. Ver snill og prøv igjen seinare.
 send-to-device-enter-your-email = Skriv inn e-postadressa di
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = namnetditt@example.com
 send-to-device-send = Send
 send-to-device-intended-recipient-email = Den tiltenkte mottakaren av e-posten må ha samtykka.
 send-to-device-check-your-device-email = Sjekk om du har fått ein e-post på eininga di!
