@@ -7,6 +7,8 @@ send-to-device-your-download-link = Tu enlace de descarga ha sido enviado.
 send-to-device-please-enter-an-email = Por favor, ingresa una dirección de correo.
 send-to-device-an-error-occured = Ocurrió un error en nuestro sistema. Por favor, vuelve a intentarlo más tarde.
 send-to-device-enter-your-email = Ingresa tu correo
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = tunombre@example.com
 send-to-device-send = Enviar
 send-to-device-intended-recipient-email = El receptor del correo debe haber consentido el envío.
 send-to-device-check-your-device-email = ¡Revisa tu dispositivo por el correo!
