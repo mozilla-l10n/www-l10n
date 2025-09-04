@@ -19,6 +19,7 @@ about-this-site-this-website = Spletno mesto www.mozilla.org obstaja že več ko
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
 # Obsolete string (expires 28-11-2025)
 about-this-site-today = Danes je to spletno mesto, na katero ljudje prihajajo prenest <a href="{ $firefox }">{ -brand-name-firefox(sklon: "tozilnik") }</a>, preizkusit <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> in spoznati več <a href="{ $mozilla }">o { -brand-name-mozilla(sklon: "mestnik") }</a>. Spotoma lahko odkrijete še peščico <a href="{ $book }">skrivnih mest</a>.
+about-this-site-today-v2 = Danes je to spletno mesto, na katerem se lahko izve več <a href="{ $mozilla }">o { -brand-name-mozilla(sklon: "mestnik") }</a> in preizkusi <a href="{ $vpn }">{ -brand-name-mozilla-vpn(sklon: "tozilnik") }</a>. Spotoma lahko odkrijete tudi nekaj <a href="{ $book }">skritih presenečenj</a>.
 about-this-site-like-many = Tako kot večina naših izdelkov je tudi to spletno mesto odprtokodno:
 about-this-site-view-source = Ogled izvorne kode na { -brand-name-github(sklon: "rodilnik") }
 about-this-site-report-a-bug = Prijavi napako

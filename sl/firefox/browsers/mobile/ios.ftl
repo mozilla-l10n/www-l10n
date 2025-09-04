@@ -21,6 +21,7 @@ mobile-ios-firefox-gives-you = { -brand-name-firefox } vam nudi večjo zaščito
 mobile-ios-your-browsing-history = Vaša zgodovina brskanja je zgodovina
 mobile-ios-if-you-want = Kadarkoli želite, se lahko preprosto odločite za iskanje v zasebnem brskanju. Ko zaprete način zasebnega brskanja, se zgodovina brskanja in piškotki samodejno izbrišejo iz naprave.
 mobile-ios-get-more-firefox = Sprejmite več { -brand-name-firefox(sklon: "rodilnik") } v svoje življenje
+mobile-ios-add-firefox-across-v2 = Namestite { -brand-name-firefox(sklon: "tozilnik") } na vse svoje naprave za varno brskanje brez prekinitev. S sinhronizacijo naprav imejte zaznamke, shranjene prijave, gesla in zgodovino brskanja s seboj, kamorkoli greste. Poleg tega si lahko odprte zavihke pošiljate med telefonom in računalnikom, da nadaljujete tam, kjer ste končali.
 mobile-ios-see-your-open-tabs = Imejte odprte zavihke, pretekla iskanja in priljubljena spletna mesta na enem mestu z { -brand-name-firefox-browser(sklon: "orodnik") } za { -brand-name-ios }.
 mobile-ios-own-your-home = Obvladajte domači zaslon
 mobile-ios-get-to-the-parts = Skrajšajte si pot do spletnih mest, ki so vam pomembna. Izberite prikaz vseh odprtih zavihkov, nedavnih iskanj, zaznamkov in priljubljenih strani na enem mestu.
@@ -29,6 +30,8 @@ mobile-ios-get-search-suggestions = Prejemajte predloge iskanj v iskalno vrstico
 mobile-ios-discover-more-of = Odkrijte več tega, kar imate radi
 # Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = Odprite nov zavihek v { -brand-name-firefox(sklon: "mestnik") } in videli boste svoja najpogosteje obiskana spletna mesta, nedavne zaznamke in priljubljene članke v { -brand-name-pocket }u. S hitrim dostopom do nedavno obiskanih strani vam { -brand-name-firefox } pomaga hitreje priti do cilja.
+mobile-ios-open-a-new-v2 = Odprite nov zavihek v { -brand-name-firefox(sklon: "mestnik") } in videli boste svoja najpogosteje obiskana spletna mesta in nedavne zaznamke. S hitrim dostopom do nedavno obiskanih strani vam { -brand-name-firefox } pomaga hitreje priti do cilja.
 mobile-ios-about-mozilla = O { -brand-name-mozilla(sklon: "mestnik") }
 # Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } obstaja, da bi iz interneta zgradila javen in vsakomur dostopen vir, saj verjamemo, da je odprto in svobodno boljše od zaprtega in nadzorovanega. { -brand-name-firefox(sklon: "tozilnik") }, { -brand-name-pocket(sklon: "tozilnik") } in druge izdelke ustvarjamo, da bi ljudem ponudili izbiro, preglednost in nadzor.
+mobile-ios-mozilla-exists-to-v2 = { -brand-name-mozilla } obstaja, da bi iz interneta zgradila javen in vsakomur dostopen vir, saj verjamemo, da je odprto in svobodno boljše od zaprtega in nadzorovanega. { -brand-name-firefox(sklon: "tozilnik") } in druge izdelke ustvarjamo, da bi ljudem ponudili izbiro, preglednost in nadzor.
