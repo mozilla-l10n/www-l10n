@@ -17,6 +17,9 @@ features-adblocker-these-ads-might-be-loud = Bu reklamlar yüksek sesli video re
 features-adblocker-find-the-right-ad-blocker = Size en uygun reklam engelleyiciyi bulun
 features-adblocker-there-are-scores-of-content = Kullanabileceğiniz birçok içerik engelleyici var ama işte { -brand-name-mozilla }’nın seçtiği birkaç harika seçenek…
 # Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = Birçok kişi tarafından reklam engelleyicilerin altın standardı kabul edilen <a { $attrs }>uBlock Origin</a> etkililiği ve verimliliği ile ünlüdür. Son derece özelleştirilebilir olmasına rağmen hiç özelleştirilmeden de harika çalışır.
+# Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a>, reklamları engellemenin yanı sıra izlenme koruması özellikleri de sunan başka bir harika seçenek.
 # Variables:
@@ -24,7 +27,12 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a>, rekla
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Bu uzantılar { -brand-name-firefox }’un hem <a { $attrs1 }>bilgisayar</a> hem de <a { $attrs2 }>Android</a> sürümlerinde çalışır.
 features-adblocker-create-a-tracker-free = İçerik engelleme sayesinde takip kodlarından arınmış bir bölge yaratın
+# Variables:
+#   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
+#   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
+features-adblocker-on-firefox-you-can-use = Reklam takip kodları üzerinde daha da fazla kontrol sahibi olmak için { -brand-name-firefox }’ta <a href="{ $privacy }">gizlilik</a> ve <a href="{ $blocking }">içerik engelleme</a> ayarlarını kullanabilirsiniz.
 features-adblocker-choose-your-level-of-protection = Koruma düzeyinizi seçin
+features-adblocker-to-start-click-on-the-v2 = Başlamak için herhangi bir web sayfasında adres çubuğunun solundaki kalkana tıklayıp “Koruma ayarları”nı seçin. Yeni bir sekmede { -brand-name-firefox } ayarlarınızın gizlilik ve güvenlik paneli açılacaktır. Çeşitli seçenekler sunan mavi bir kutu göreceksiniz.
 features-adblocker-go-easy-with-standard = Standart mod ile ağırdan alın
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -37,3 +45,4 @@ features-adblocker-cover-your-trail-block = İzinizi belli etmeyin, takip kodlar
 features-adblocker-take-a-bite-out-of-cookies = Çerezleri dert etmeyin
 features-adblocker-in-firefox-you-can-block = { -brand-name-firefox }’ta ister tüm üçüncü taraf çerezlerini isterseniz de yalnızca takip kodlarının yerleştirdiği çerezleri engelleyebilirsiniz. Ancak tüm çerezleri engellemenin bazı siteleri bozabileceğini unutmayın.
 features-adblocker-speed-up-thanks-to-ad = Reklam engelleyiciler sayesinde hızlanın
+features-adblocker-in-some-cases-an-ad-blocker = Bazı durumlarda reklam engelleyiciler tarayıcınızın daha hızlı çalışmasını sağlayabilir. Reklam engelleyici kullanmıyorsanız reklamlar yüklenirken web sitelerini yavaşlatabilir. Ayrıca reklamları kapatmakla uğraşırken aradığınızı bulmanız daha uzun sürer.
