@@ -8,7 +8,7 @@ send-to-device-please-enter-an-email = Ingresá una dirección de correo electr�
 send-to-device-an-error-occured = Hubo un error en nuestro sistema. Intentá nuevamente más tarde.
 send-to-device-enter-your-email = Ingresá tu correo electrónico
 # Only localize "yourname". Do not change "@example.com".
-send-to-device-email-placeholder = yourname@example.com
+send-to-device-email-placeholder = tunombre@example.com
 send-to-device-send = Enviar
 send-to-device-intended-recipient-email = El receptor del correo debe haber aceptado.
 send-to-device-check-your-device-email = ¡Buscá el correo en tu dispositivo!
