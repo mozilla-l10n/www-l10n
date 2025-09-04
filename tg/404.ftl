@@ -19,3 +19,4 @@ not-found-page-download-the-firefox-browser = Браузери { -brand-name-fir
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 # Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = Ба «{ -brand-name-mozilla-foundation }» <a { $donate }>саҳм гузоред</a> ва Интернетро аз ширкатҳои технологияҳои бузург ба худ гардонед.
+not-found-page-donate-to-mozilla-reclaim-from-v2 = Ба «{ -brand-name-mozilla-foundation }» <a { $donate }>саҳм гузоред</a> ва Интернетро аз ширкатҳои технологияҳои бузург ба салоҳияти худ гардонед.
