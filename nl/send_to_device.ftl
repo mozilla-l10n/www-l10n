@@ -7,6 +7,8 @@ send-to-device-your-download-link = Uw downloadkoppeling is verzonden.
 send-to-device-please-enter-an-email = Voer een e-mailadres in.
 send-to-device-an-error-occured = Er is een fout opgetreden in ons systeem. Probeer het later opnieuw.
 send-to-device-enter-your-email = Voer uw e-mailadres in
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = uwnaam@example.com
 send-to-device-send = Verzenden
 send-to-device-intended-recipient-email = De bedoelde ontvanger van het e-mailbericht moet hebben ingestemd.
 send-to-device-check-your-device-email = Controleer uw apparaat voor het e-mailbericht!
