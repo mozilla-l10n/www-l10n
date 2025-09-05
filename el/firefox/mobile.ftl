@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
 firefox-mobile-download-the-firefox-browser = Κάντε λήψη του { -brand-name-firefox-browser } στην κινητή σας συσκευή με { -brand-name-ios } και { -brand-name-android }
-firefox-mobile-firefox-browser-for-mobile = Το { -brand-name-firefox-browser } για κινητά αποκλείει πάνω από 2000 ιχνηλάτες από προεπιλογή, δίνοντάς σας το απόρρητο που σας αξίζει και την ταχύτητα που χρειάζεστε σε ένα ιδιωτικό πρόγραμμα περιήγησης για κινητά.
+firefox-mobile-firefox-browser-for-mobile = Το { -brand-name-firefox-browser } για κινητά αποκλείει πάνω από 2.000 ιχνηλάτες από προεπιλογή, δίνοντάς σας το απόρρητο που σας αξίζει και την ταχύτητα που χρειάζεστε σε ένα ιδιωτικό πρόγραμμα περιήγησης για κινητά.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Αποκτήστε το πρόγραμμα περιήγησης για κινητά που δημιουργήθηκε για εσάς, όχι τους διαφημιστές
