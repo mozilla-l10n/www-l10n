@@ -12,3 +12,4 @@ compare-edge-read-our-comparison = Citește comparația noastră dintre browsere
 compare-edge-firefox-makes-privacy-protection = { -brand-name-firefox } face ușoară și convenabilă protejarea confidențialității, astfel încât să nu fie nevoie să îți faci griji în privința asta.
 compare-edge-we-block-trackers-by-default = Blocăm implicit elementele de urmărire. Edge nu o face.
 compare-edge-and-we-make-it-easy-for-you = Și vă ușurăm alegerea motorului de căutare pe care îl folosești la fiecare căutare. Edge te obligă să sapi prin setări ca să folosești alt motor de căutare și nu Bing.
+compare-edge-microsoft-has-to-make-their-shareholders = Microsoft trebuie să-și facă acționarii fericiți, dar noi ne putem concentra pe a vă face fericiți și a pune confidențialitatea voastră pe primul loc.
