@@ -8,6 +8,9 @@
 features-private-is-firefox-a-private-browser = { -brand-name-firefox } ເປັນຕົວທ່ອງເວັບທີ່ໄວທີ່ສຸດບໍ?
 # HTML description
 features-private-were-focused-on-your-right-to = ພວກເຮົາເນັ້ນໃສ່ສິດທິສ່ວນຕົວຂອງທ່ານ. ຂໍ້​ມູນ​ຂອງ​ທ່ານ​, ກິດ​ຈະ​ກໍາ​ເວັບ​ໄຊ​ຕ​໌​ຂອງ​ທ່ານ​, ຊີ​ວິດ​ອອນ​ໄລ​ນ​໌​ຂອງ​ທ່ານ​ໄດ້​ຖືກ​ປ້ອງ​ກັນ​ດ້ວຍ { -brand-name-firefox } .
+# Variables:
+#   $url (url) = link to https://www.mozilla.org/firefox/features/private-browsing/
+features-private-yes-firefox-protects-your = ແມ່ນແລ້ວ. { -brand-name-firefox } ປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງທ່ານດ້ວຍຄຸນສົມບັດເຊັ່ນ <a href="{ $url }">ການທ່ອງເວັບສ່ວນຕົວ</a>. ມັນອະນຸຍາດໃຫ້ທ່ານຮັກສາປະຫວັດການທ່ອງເວັບ ແລະ ລະຫັດຜ່ານຂອງທ່ານເປັນສ່ວນຕົວ, ເຖິງແມ່ນວ່າຈະໃຊ້ອຸປະກອນທີ່ທ່ານແບ່ງປັນກັບຜູ້ອື່ນ, ເຊັ່ນຄອມພິວເຕີໃນບ້ານ ຫຼື { -brand-name-ipad }.
 features-private-sidenote-we-are-not-big-tech = <em>Sidenote:</em> ພວກເຮົາບໍ່ແມ່ນເຕັກໂນໂລຢີໃຫຍ່. ພວກເຮົາເຮັດສິ່ງຕ່າງໆແຕກຕ່າງກັນ. ການເປັນເອກະລາດ (ບໍ່ມີຜູ້ຖືຫຸ້ນ) ອະນຸຍາດໃຫ້ພວກເຮົາເອົາຄົນທໍາອິດ, ກ່ອນກໍາໄລ. ບໍ່ເຫມືອນກັບບໍລິສັດອື່ນ, ພວກເຮົາບໍ່ຂາຍການເຂົ້າເຖິງຂໍ້ມູນຂອງທ່ານ.
 features-private-what-information-does-firefox = { -brand-name-firefox } ເກັບກຳຂໍ້ມູນຫຍັງແດ່?
 # Variables:
