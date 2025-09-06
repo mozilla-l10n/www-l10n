@@ -77,4 +77,5 @@ firefox-developer-developer-tools-user = Dokumentacija za razvojna orodja
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Viri za razvijalce, od razvijalcev
 firefox-developer-mdn-playground = Igrišče
+firefox-developer-mdn-write-test-and-share = Pišite, preskušajte in delite svojo kodo. Vaše igrišče, kjer se lahko učite in svoje izdelke pokažete svetu.
 firefox-developer-mdn-blog = Blog { -brand-name-mdn }

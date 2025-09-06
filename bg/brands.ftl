@@ -94,7 +94,11 @@
 -brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
+-brand-name-irl-podcast = IRL подкаст
+-brand-name-lumigator = Lumigator
 -brand-name-mdn-web-docs = MDN Web Docs
+-brand-name-mozilla-festival = Фестивалът Mozilla
+-brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird
 

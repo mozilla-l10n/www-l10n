@@ -7,12 +7,26 @@
 
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Всеки заслужава достъп до интернет - вашият език никога не трябва да бъде пречка. Ето защо — с помощта на всеотдайни доброволци по целия свят — правим { -brand-name-firefox } достъпен на повече от 90 езика.
+firefox-all-choose-browser = Изберете четец, за да продължите
+firefox-all-choose-platform = Изберете платформа, за да продължите
+firefox-all-choose-language = Изберете език, за да продължите
+firefox-all-change-browser = Избор на друг продукт
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Получете помощ
+firefox-all-browser-v2 = 1. Четец:
+firefox-all-platform-v2 = 2. Платформа:
+firefox-all-language-v2 = 3. Език:
+firefox-all-download = 4. Изтегляне:
+firefox-all-desktop = За компютър
+firefox-all-mobile = За мобилен
+firefox-all-recommended = (препоръка)
 firefox-all-lang-multi = Множество езици
 firefox-all-the-pre-alpha-version = Предварителното алфа издание за напреднали потребители, които обичат да ловуват сривове и да изпробват нови възможности, още по време на тяхната разработка.
 firefox-all-64-bit-installers = 64-битови инсталатори
 firefox-all-32-bit-installers = 32-битови инсталатори
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Изтегляне на { $esr_version }
 firefox-all-check-the-system-requirements = Проверете системните изисквания
 firefox-all-release-notes = Бележки към изданието
 firefox-all-source-code = Изходен код
