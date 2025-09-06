@@ -30,6 +30,7 @@
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser = Firefox Browser
+-brand-name-firefox-browsers = Firefox четци
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
@@ -50,6 +51,7 @@
 
 -brand-name-firefox-aurora = Firefox Aurora
 -brand-name-aurora = Aurora
+-brand-name-firefox-quantum = Firefox Quantum
 
 ## Firefox products
 
@@ -67,16 +69,31 @@
 
 -brand-name-firefox-account = Firefox Account
 -brand-name-firefox-accounts = Firefox Accounts
+-brand-name-firefox-marketplace = Firefox Пазар
 -brand-name-firefox-os = Firefox OS
+-brand-name-firefox-private-network = Частна мрежа на Firefox
+
+## Firefox projects
+
+-brand-name-firefox-labs = Firefox Labs
 
 ## Pocket
 
 -brand-name-pocket = Pocket
 
+## Fakespot
+
+-brand-name-fakespot = Fakespot
+
+## Anonym
+
+-brand-name-anonym = Anonym
+
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
+-brand-name-glean = Glean
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-thunderbird = Thunderbird

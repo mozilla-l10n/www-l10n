@@ -25,3 +25,4 @@ sub-navigation-android-nightly-and-beta = { -brand-name-android } { -brand-name-
 sub-navigation-ios-test-flight = { -brand-name-ios } { -brand-name-test-flight }
 sub-navigation-what-is-a-browser = Какво е четец?
 sub-navigation-browsing-history = История на сърфиране
+sub-navigation-browser-history = История на четеца
