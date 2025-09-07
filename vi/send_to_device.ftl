@@ -7,6 +7,8 @@ send-to-device-your-download-link = Đã gửi đường dẫn tải xuống c�
 send-to-device-please-enter-an-email = Xin hãy nhập vào một địa chỉ email.
 send-to-device-an-error-occured = Đã có lỗi xảy ra trong hệ thống của chúng tôi. Xin hãy thử lại sau.
 send-to-device-enter-your-email = Nhập email
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = yourname@example.com
 send-to-device-send = Gửi
 send-to-device-intended-recipient-email = Người nhận email phải đồng ý.
 send-to-device-check-your-device-email = Kiểm tra email trên máy của bạn xem!
