@@ -60,8 +60,12 @@ m24-home-builders-helps-independent = ຜູ້ກໍ່ສ້າງຊ່ວຍ
 m24-home-alt-lumigator-logo = ໂລໂກ້ { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = ຄົ້ນຫາ LLM ທີ່ເຫມາະສົມສໍາລັບຄວາມຕ້ອງການ, ກໍລະນີການນໍາໃຊ້ ແລະ ຂໍ້ມູນຂອງທ່ານ.
+# Used as an accessible text alternative for an image
+m24-home-alt-trustworthy = Mark Surman, ປະທານຂອງ { -brand-name-mozilla }.
 m24-home-can-ai-be = AI ສາມາດເຊື່ອຖືໄດ້ບໍ?
 m24-home-watch-now = ເບິ່ງດຽວນີ້
+# Used as an accessible text alternative for an image
+m24-home-alt-ventures = ນັກສຳມະນາກອນຢູ່ເທິງເວທີທີ່ມີໂລໂກ້ຜະລິດຕະພັນຫຼາຍອັນ.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-donate-your-voice = ບໍລິຈາກສຽງຂອງທ່ານ
 
