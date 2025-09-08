@@ -25,4 +25,5 @@ features-adblocker-get-tough-with-strict = Тамошобинии тобовар
 features-adblocker-do-it-yourself-custom = Дар реҷаи «Фармоишӣ» танзимоти дилхоҳро интихоб намоед
 features-adblocker-cover-your-trail-block = Пайи худро пинҳон кунед ва васоити пайгириро манъ кунед
 features-adblocker-take-a-bite-out-of-cookies = Кукиҳоро маҳдуд кунед — махфияти худро ҳифз намоед!
+features-adblocker-in-firefox-you-can-block = Дар браузери «{ -brand-name-firefox }» шумо метавонед ҳамаи кукиҳои тарафи сеюм ё танҳо он кукиҳоеро, ки аз ҷониби васоити пайгирӣ муқаррар шудаанд, ғайрифаъол созед. Лутфан, ба назар гиред, ки бастани кулли кукиҳо метавонад боиси халал дар фаъолияти баъзе сомонаҳо гардад.
 features-adblocker-speed-up-thanks-to-ad = Ба шарофати абзорҳои манъкунандаи реклама суръати браузерро афзоиш диҳед
