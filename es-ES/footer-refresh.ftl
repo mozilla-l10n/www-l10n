@@ -26,6 +26,7 @@ footer-refresh-support = Ayuda
 footer-refresh-product-help = Ayuda del producto
 footer-refresh-file-a-bug = Informar un error
 footer-refresh-localize-mozilla = Localizar { -brand-name-mozilla }
+footer-refresh-security = Seguridad
 footer-refresh-developers = Desarrolladores
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
@@ -33,6 +34,7 @@ footer-refresh-tools = Herramientas
 footer-refresh-donate = Donar
 # Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = Visita la empresa matriz sin ánimo de lucro de la <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, la <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
+footer-refresh-visit-mozilla-corporations-v2 = Visita la empresa matriz sin ánimo de lucro de <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Partes de estos contenidos están protegidos por derechos de autor ©1998–{ $current_year } de determinados colaboradores en mozilla.org. Contenido disponible bajo una <a rel="license" { $href }>licencia { -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Aviso de privacidad del sitio web
 footer-refresh-websites-cookies = Cookies
