@@ -80,3 +80,4 @@ m24-home-tag-podcast = ປອດຄາສທ໌
 m24-home-tag-video = ວີດີໂອ
 m24-home-topic-news = ຂ່າວ
 m24-home-topic-ai = ປັນຍາປະດິດ
+m24-home-topic-ps = ຄວາມເປັນສ່ວນຕົວ ແລະ ຄວາມປອດໄພ
