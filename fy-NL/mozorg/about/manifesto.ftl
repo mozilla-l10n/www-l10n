@@ -55,11 +55,13 @@ manifesto-details-as-a-result-of = As resultaat fan dy ynspanningen hawwe wy in 
 manifesto-details-the-goals-for = De doelen fan it manifest binne:
 # Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = in fyzje út te sprekken foar it ynternet dat { -brand-name-mozilla }-dielnimmers wolle dat de { -brand-name-mozilla-foundation } neistribbet;
+manifesto-details-articulate-a-vision-v2 = in fyzje út te sprekken foar it ynternet dat { -brand-name-mozilla }-dielnimmers wolle dat { -brand-name-mozilla-foundation } neistribbet;
 manifesto-details-speak-to-people = minsken oansprekke, oft se no al of net in technyske eftergrûn hawwe;
 manifesto-details-make-mozilla-contributors = { -brand-name-mozilla }-meiwurkers grutsk meitsje op wat wy dogge en ús motivearje om troch te gean; en
 manifesto-details-provide-a-framework = in ramtwurk meitsje foar oare minsken om dy fyzje op it ynternet te fersprieden.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Dizze prinsipen sille net fansels ta libben komme. Der binne minsken nedich om it ynternet iepen en meiwurkjend te meitsjen - minsken dy’t yndividueel operearje, gearwurkje yn groepen en oaren begeliede. De { -brand-name-mozilla-foundation } is der op begien om de prinsipen út it { -brand-name-mozilla }-manifest út te dragen. Wy nûgje oaren út om mei te dwaan en it ynternet foar elkenien in better plak te meitsjen.
+manifesto-details-these-principles-v2 = Dizze prinsipen sille net fansels ta libben komme. Der binne minsken nedich om it ynternet iepen en meiwurkjend te meitsjen - minsken dy’t yndividueel operearje, gearwurkje yn groepen en oaren begeliede. De { -brand-name-mozilla-foundation } is der op begien om de prinsipen út it { -brand-name-mozilla }-manifest út te dragen. Wy nûgje oaren út om mei te dwaan en it ynternet foar elkenien in better plak te meitsjen.
 manifesto-details-principles = Prinsipen
 manifesto-details-the-internet-is-integral = It ynternet is in yntegraal part fan it moderne libben – in kaaikomponint yn oplieding, kommunikaasje, gearwurking, hannel, ferdivedaasje en de mienskip as gehiel.
 manifesto-details-the-internet-is-global = It ynternet is in wrâldwide publike helpboarne dy´t iepen en tagonklik bliuwe moat.
@@ -76,6 +78,7 @@ manifesto-details-there-are-many = Der binne in hiele protte manieren om de prin
 manifesto-details-mozilla-foundation = De belofte fan de { -brand-name-mozilla-foundation }
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = De { -brand-name-mozilla-foundation } ûnthjit om it { -brand-name-mozilla }-manifest te stypjen yn syn aktiviteiten. Spesifyk sille wy:
+manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation } ûnthjit om it { -brand-name-mozilla }-manifest te stypjen yn syn aktiviteiten. Spesifyk sille wy:
 manifesto-details-build-and-enable = iepenboarnetechnology meitsje en mienskippen ynskeakelje dy’t de prinsipen fan it manifest stypje;
 manifesto-details-build-and-deliver = prachtige konsuminteprodukten meitsje en oanbiede dy’t de prinsipen fan it manifest stypje;
 manifesto-details-use-the-mozilla = de middelen fan { -brand-name-mozilla } (yntellektueel eigendom lykas kopyrjochten en hannelsmerken, ynfrastruktuer, fûnsen, en reputaasje) brûke om it ynternet in iepen platfoarm te hâlden);
@@ -83,6 +86,8 @@ manifesto-details-promote-models = modellen befoarderje foar it meitsjen fan eko
 manifesto-details-promote-the-mozilla = de prinsipen fan it { -brand-name-mozilla }-manifest befoarderje yn publike petearen en yn de ynternetyndustry.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Guon aktiviteiten fan de Foundation – op dit stuit it meitsjen, oanbieden en promoasje fan konsuminteprodukten – wurde primêr begelaat troch de { -brand-name-mozilla-foundation } syn eigen dochterûndernimming, de { -brand-name-mozilla-corporation }.
+manifesto-details-some-foundation-v2 = Guon aktiviteiten fan de Foundation – op dit stuit it meitsjen, oanbieden en promoasje fan konsuminteprodukten – wurde primêr begelaat troch { -brand-name-mozilla-foundation } syn eigen dochterûndernimming, de { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Utnûging
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = De { -brand-name-mozilla-foundation } nûget elkenien dy’t de prinsipen fan it { -brand-name-mozilla }-manifest stipet út om mei ús mei te dwaan en om nije manieren te finen om dizze fyzje op it ynternet werklikheid te meitsjen.
+manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } nûget elkenien dy’t de prinsipen fan it { -brand-name-mozilla }-manifest stipet út om mei ús mei te dwaan en om nije manieren te finen om dizze fyzje op it ynternet werklikheid te meitsjen.

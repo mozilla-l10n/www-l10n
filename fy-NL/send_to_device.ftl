@@ -7,6 +7,8 @@ send-to-device-your-download-link = Jo downloadkeppeling is ferstjoerd.
 send-to-device-please-enter-an-email = Fier in e-mailadres yn.
 send-to-device-an-error-occured = Der is in flater bard yn ús systeem. Probearje it letter nochris.
 send-to-device-enter-your-email = Fier jo e-mailadres yn
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = jonamme@example.com
 send-to-device-send = Ferstjoere
 send-to-device-intended-recipient-email = De bedoelde ûntfanger fan it e-mailberjocht moat ynstemd hawwe.
 send-to-device-check-your-device-email = Kontrolearje jo apparaat foar it e-mailberjocht!
