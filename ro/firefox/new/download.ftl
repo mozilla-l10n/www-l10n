@@ -3,9 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-# Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Descarcă { -brand-name-firefox }
@@ -41,3 +38,6 @@ firefox-new-your-system-may-not = Este posibil ca sistemul să nu îndeplineasc�
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
 firefox-new-download-browser = Descarcă { -brand-name-firefox-browser }
+firefox-new-fast = Rapid, privat și gratuit
+firefox-new-from-mozilla = de la { -brand-name-mozilla }
+firefox-new-download-a-different = Descarcă pentru alte platforme și limbi
