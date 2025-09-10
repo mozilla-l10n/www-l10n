@@ -2,8 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-mozilla-manifesto = Manifestul { -brand-name-mozilla }
+footer-privacy-hub = Centru de confidențialitate
 footer-privacy = Confidențialitate
 footer-press = Presă
+footer-mozilla-blog = Blog { -brand-name-mozilla }
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = Dezvoltatori
 footer-developer-edition = { -brand-name-developer-edition }
@@ -23,13 +26,20 @@ footer-contact = Contact
 footer-product-help = Ajutor produse
 footer-support = Asistență
 footer-file-a-bug = Raportează un defect
+footer-localize-mozilla = Localizează { -brand-name-mozilla }
 footer-community-participation-guidelines = Ghid de participare în comunitate
 footer-websites-privacy-notice = Notificarea privind confidențialitatea site-ului web
 footer-websites-cookies = Cookie-uri
 footer-websites-legal = Mențiuni legale
 footer-language = Limbă
 footer-go = Mergi
+footer-donate = Donează
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+footer-linkedin = { -brand-name-linkedin }
+footer-tiktok = { -brand-name-tiktok }
+footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Urmărește @{ -brand-name-mozilla }
 footer-follow-firefox = Urmărește @{ -brand-name-firefox }
+footer-about-this-site = Despre acest site
+footer-advertise = Fă publicitate cu { -brand-name-mozilla }
