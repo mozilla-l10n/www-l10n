@@ -7,3 +7,5 @@
 
 whatsnew-s2d-download-firefox-for-android = Descarcă { -brand-name-firefox } pentru { -brand-name-android } și { -brand-name-ios }
 whatsnew-s2d-download-firefox-for-your = Descarcă { -brand-name-firefox } pentru smartphone și tabletă.
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = Scanează acest cod QR
