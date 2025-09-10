@@ -11,7 +11,7 @@ not-found-page-were-all-about-a-healthy-internet = Luptăm pentru un internet s�
 not-found-page-go-back = Înapoi
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
-not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Află</a> despre { -brand-name-mozilla }, organizația nonprofit din spatele { -brand-name-firefox }.
+not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Află</a> despre { -brand-name-mozilla }, organizația non-profit din spatele { -brand-name-firefox }.
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Descarcă</a> browserul { -brand-name-firefox } pentru dispozitivul mobil sau desktop

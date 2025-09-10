@@ -87,19 +87,72 @@ firefox-desktop-download-challenging-the-status = Punem sub semnul întrebării 
 firefox-desktop-download-your-privacy-comes = Confidențialitatea ta e pe primul loc
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Păstrează toate funcțiile preferate ale browserului — și <strong>descoperă</strong> altele noi.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Toate instrumentele tale preferate { -brand-name-google } (precum Gmail și Docs) funcționează perfect în { -brand-name-firefox-browser }.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Descarcă această extensie de browser</a> ca să oprești { -brand-name-facebook } (și { -brand-name-instagram }) din a te urmări pe web.
+firefox-desktop-download-sync-your-devices = Sincronizează-ți dispozitivele
+firefox-desktop-download-screenshots = Capturi de ecran
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Protecție îmbunătățită împotriva urmăririi (ETP)
+firefox-desktop-download-from-watching-a = De la vizionarea unui tutorial web până la monitorizarea echipei tale favorite, videoclipul te însoțește în timp ce faci mai multe lucruri simultan.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser(case: "definite-article", capitalization: "upper") }
 firefox-desktop-download-get-firefox-android = Obține { -brand-name-firefox-browser } pentru <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Obține { -brand-name-firefox-browser } pentru <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-download-the-mobile = Descarcă browserul { -brand-name-firefox } pentru dispozitive mobile pentru protecție automată pe toate dispozitivele.
+firefox-desktop-download-learn-about-the = Află mai jos despre browserul { -brand-name-firefox } pentru desktop
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = De la securitate la știri și jocuri, există o <a { $attrs }>extensie pentru fiecare</a>. Adaugă câte vrei până când ai browserul exact cum trebuie.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } a fost creat de <a { $attrs }>{ -brand-name-mozilla }</a> ca alternativă mai rapidă și mai privată la browsere precum { -brand-name-ie } și acum { -brand-name-chrome }. Astăzi, compania noastră, axată pe o misiune anume, și comunitatea de voluntari continuă să pună confidențialitatea voastră mai presus de orice.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Pe măsură ce internetul crește și se schimbă, { -brand-name-firefox } continuă să se concentreze asupra dreptului vostru la confidențialitate — acesta a fost întotdeauna obiectivul nostru. Află mai multe despre practicile noastre privind datele în <a { $attrs }>Notificarea privind confidențialitatea</a>.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } este disponibil pe toate dispozitivele; ia filele, istoricul și marcajele cu tine. Tot ce-ți trebuie este un <a { $attrs }>{ -brand-name-mozilla-account }</a> și vei avea acces la sincronizare și la mai multe produse { -brand-name-mozilla }.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Obține o imagine de înaltă rezoluție a oricărui element online cu instrumentul nostru de <a { $attrs }>capturi de ecran</a> integrat direct în browser
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } <a { $attrs }>blochează automat multe elemente de urmărire de la terți</a> ca să nu mai colecteze și să îți vândă activitatea web.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Întrebări? <a { $attrs }>Asistența { -brand-name-mozilla }</a> îți stă la dispoziție.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Încă puțin.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Acum termină de <strong>instalat</strong> { -brand-name-firefox }.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-windows = Acum <strong>rulează</strong> programul de instalare pe care tocmai l-ai descărcat.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Acum <strong>deschide</strong> fișierul descărcat.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Selectează o opțiune de <strong>descărcare</strong> de mai  jos
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Ai probleme? <a { $attrs }>Obține ajutor cu privire la instalare</a>.
 firefox-desktop-download-in-another-language = Descarcă în altă limbă sau pentru alt sistem de operare.
+firefox-desktop-download-windows = { -brand-name-windows }
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Dacă vezi un mesaj cum că aplicația pe care încerci să o instalezi nu este una verificată de { -brand-name-microsoft }, dă clic pe „Instalare oricum” sau <a { $attrs }>modifică setările de recomandare a aplicațiilor</a>.
+firefox-desktop-download-visit-support-for-more = Intră pe asistență pentru mai multe detalii
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-firefox-new-should-begin = Descărcarea ar trebui să înceapă automat. Nu a mers? <a id="{ $id }" href="{ $fallback_url }">Încearcă să descarci din nou.</a>
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } este mai mult decât un browser.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
+firefox-desktop-download-interrupted = Descărcarea s-a întrerupt. Dar nu-i bai.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Este posibil ca sistemul să nu îndeplinească cerințele minime pentru { -brand-name-firefox }, dar poți încerca una din <a href="{ $url }">aceste versiuni</a>.
