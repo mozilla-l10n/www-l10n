@@ -10,6 +10,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } este browserul incredibil de rapid care îți oferă instrumente pentru dezvoltatori de ultimă generație și cele mai noi funcționalități, precum suport pentru CSS Grid și depanare pentru framework-uri
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Bine ai venit la bordul noului tău browser preferat. Bucură-te de cele mai noi funcționalități, cea mai mare performanță și instrumentele pentru dezvoltatori de care ai nevoie pentru a construi webul deschis.
 firefox-developer-speak-up = Dă de veste
 firefox-developer-feedback-makes-us = Feedbackul ne face mai buni. Spune-ne cum putem îmbunătăți browserul și instrumentele pentru dezvoltatori.
@@ -63,8 +64,18 @@ firefox-developer-fonts-panel = Panou de fonturi
 firefox-developer-the-new-fonts-panel = Noul panou de fonturi din { -brand-name-firefox-devtools } oferă dezvoltatorilor accesul rapid la toate informațiile de care au nevoie despre fonturile utilizate într-un element. Include și informații valoroase precum sursa fonturilor, greutatea, stilul și multe altele.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } trimite automat feedback la { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Descarcă browserul { -brand-name-firefox } conceput pentru dezvoltatori
+firefox-developer-welcome-to-firefox-developer-edition = Bine ai venit la { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Browserul creat pentru dezvoltatori
+firefox-developer-all-the-latest-v2 = Toate cele mai recente instrumente pentru dezvoltatori în versiune beta, pe lângă funcții precum editorul de consolă multi-linie și inspectorul WebSocket.
+firefox-developer-a-separate-profile = Un <strong>profil și o cale separate</strong>, ca să îl poți rula cu ușurință alături de Release sau { -brand-name-beta } { -brand-name-firefox }.
+firefox-developer-preferences-tailored = Preferințe <strong>adaptate dezvoltatorilor web</strong>: Depanarea browserului și de la distanță sunt activate implicit, la fel ca și tema întunecată și butonul barei de instrumente pentru dezvoltatori.
+firefox-developer-congrats-you-now-have-latest-v2 = Acum ai cea mai recentă versiune de { -brand-name-firefox-developer-edition }.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Vezi <a { $attrs }>notele de lansare</a> (doar în limba engleză) pentru noutăți.
 firefox-developer-developer-tools-user = Documentație pentru utilizatori despre instrumentele pentru dezvoltatori
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Resurse pentru dezvoltatori, de la dezvoltatori
 firefox-developer-mdn-playground = Loc de joacă
 firefox-developer-mdn-write-test-and-share = Scrie, testează și distribuie codul tău. Locul tău de joacă unde poți învăța și împărtăși munca ta extraordinară cu lumea.
 firefox-developer-mdn-blog = Blog { -brand-name-mdn }

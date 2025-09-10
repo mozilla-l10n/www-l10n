@@ -31,3 +31,4 @@ windows-64-bit-if-you-see-32-bit-newer = Dacă vezi „(32 de biți)” și folo
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = Dacă trebuie să rulezi { -brand-name-firefox } pe 32 de biți sau să instalezi manual { -brand-name-firefox } pe 64 de biți, poți pur și simplu să descarci și să rulezi din nou programul de instalare { -brand-name-firefox } pentru { -brand-name-windows } (pe 32 de biți sau pe 64 de biți) de pe <a href="{ $all }">platformele { -brand-name-firefox } și pagina de descărcare a limbilor.</a>
 windows-64-bit-take-control-of-your = Preia controlul asupra browserului.
+windows-64-bit-download-firefox = Descarcă { -brand-name-firefox } pentru Windows pe 64 de biți
