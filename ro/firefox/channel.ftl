@@ -54,3 +54,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = Testează versiunile be
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = Testează versiunile beta de { -brand-name-firefox } pentru { -brand-name-ios } prin programul { -brand-name-test-flight } de la { -brand-name-apple }.
 firefox-channel-sign-up-now = Înscrie-te acum
+firefox-channel-nightly-update-one-or-more-times = Notă: { -brand-name-firefox-nightly } se va actualiza aproximativ o dată sau de două ori pe zi.

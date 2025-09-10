@@ -5,4 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/fast/
 
+features-fast-is-firefox-the-fastest-browser = Este { -brand-name-firefox } cel mai rapid browser?
+# HTML description
+features-fast-firefox-uses-less-memory-than = { -brand-name-firefox } folosește mai puțină memorie decât Chrome, așa că alte programele pot rula la viteză maximă.
 features-fast-browse-faster = Navighează mai rapid

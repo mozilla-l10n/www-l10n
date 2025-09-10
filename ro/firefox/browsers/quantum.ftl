@@ -7,3 +7,6 @@
 
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = Află mai multe despre { -brand-name-firefox-quantum }
+privacy-first = Confidențialitatea pe primul loc
+super-fast = Super rapid
+always-evolving = În continuă evoluție
