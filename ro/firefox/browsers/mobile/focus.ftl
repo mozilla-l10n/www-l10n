@@ -25,3 +25,4 @@ mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } blochează imp
 mobile-focus-see-it-all = Vezi totul mai repede
 mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } elimină elementele de urmărire și paginile pe care le vizualizezi vor necesita mai puține date și se vor încărca mult mai repede. De asemenea, fixează până la patru comenzi rapide în ecranul de pornire și mergi pe site-ul preferat chiar mai repede, fără să tastezi nimic.
 mobile-focus-made-by-mozilla = Realizat de { -brand-name-mozilla }
+mobile-focus-we-believe-everyone = Credem că toți trebuie să dețină controlul asupra vieții lor online. Pentru asta ne luptăm din 1998 încoace.

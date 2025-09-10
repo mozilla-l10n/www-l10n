@@ -11,6 +11,7 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook } la cu
 facebook-container-get-the-facebook-container = Instalează extensia { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = Descarcă { -brand-name-firefox } și instalează extensia { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = Extensia { -brand-name-facebook-container } este disponibilă în prezent numai pentru { -brand-name-firefox } pentru desktop.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
