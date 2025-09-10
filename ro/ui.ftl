@@ -14,9 +14,16 @@ ui-watch-the-video = Vezi videoclipul
 ui-replay = Vezi din nou
 ui-share = Partajează
 ui-menu = Meniu
+# Short for Table of Contents
+ui-contents = Conținut
 ui-please-turn-on-javascript = Te rugăm să activezi JavaScript pentru a afișa această pagină corect.
 ui-show-more = Afișează mai multe
 ui-show-less = Afișează mai puține
 ui-show-all = Afișează tot
 ui-hide-all = Ascunde-le pe toate
 ui-learn-more = Află mai multe
+ui-view = Vizualizare
+ui-pause-animation = Întrerupe animațiile
+ui-play-animation = Redă animațiile
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = Promovare
