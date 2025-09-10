@@ -67,3 +67,7 @@ m24-about-see-open-positions = Vezi posturile libere
 ## Community
 
 m24-about-community-love-v2 = Iubirea comunitară, forța noastră motrice
+m24-about-mozilla-is-a = { -brand-name-mozilla } este o comunitate globală de voluntari, colegi și colaboratori pasionați care construiesc, protejează și modelează internetul alături de noi din 1998.
+m24-about-from-writing-code = De la scrierea de cod și identificarea erorilor până la susținerea confidențialității și menținerea internetului deschis pentru toată lumea — membrii comunității noastre sunt coloana vertebrală a tot ceea ce facem. Pasiunea și dăruirea lor ne inspiră în fiecare zi.
+# Used as an accessible text alternative for an image
+m24-about-alt-community = Persoană cu o geantă de laptop și un șnur de la { -brand-name-mozilla }.

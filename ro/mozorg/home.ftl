@@ -7,6 +7,7 @@
 
 home-internet-for-people-not-profit = Internet pentru oameni, nu profit
 home-did-you-know-mozilla-the-maker = Știai? { -brand-name-mozilla } — creatorul { -brand-name-firefox } — luptă pentru a menține internetul o resursă publică globală, deschisă și accesibilă tuturor.
+home-firefox-browser = { -brand-name-firefox-browser }
 home-fast-for-good = Rapid, pe bune.
 home-with-2x-the-speed-built-in = Cu o viteză de 2 ori mai mare, protecție încorporată pentru confidențialitate și { -brand-name-mozilla } ca susținător, noul { -brand-name-firefox } este modalitatea mai bună de navigare.
 home-we-make-the-internet-safer = Noi facem internetul mai sigur, mai sănătos și mai rapid.
