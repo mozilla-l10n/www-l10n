@@ -17,7 +17,9 @@ installer-help-action-choose = Alegeți o descărcare de mai jos.
 
 installer-help-firefox-release-title = { -brand-name-firefox-browser(case: "definite-article", capitalization: "upper") }
 installer-help-firefox-beta-desc = Testează funcționalități ce vor fi lansate în versiunea preliminară cea mai stabilă.
+installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }
 installer-help-firefox-developer-desc = Construiește, testează, scalează și multe altele cu singurul browser construit special pentru dezvoltatori.
+installer-help-firefox-nightly-title-v2 = { -brand-name-firefox } { -brand-name-nightly }
 installer-help-firefox-nightly-desc = Uită-te la browserul nostru de generație următoare și ajută-ne să-l facem cel mai bun browser care poate fi.
 installer-help-need-help = Ai nevoie de ajutor la instalare?
 # Variables:

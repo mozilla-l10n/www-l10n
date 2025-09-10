@@ -22,5 +22,15 @@ password-manager-you-can-use-the-import-wizard = Poți utiliza expertul de impor
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-import-wizard = Imagine cu asistentul virtual din { -brand-name-firefox } pentru import, care afișează opțiuni pentru importarea setărilor și a datelor din alte browsere.
 password-manager-no-more-reusing-your-passwords = Gata cu reutilizarea parolelor
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/how-generate-secure-password-firefox
+password-manager-have-firefox-create-a-strong-unique = Cere { -brand-name-firefox } să <a { $attrs }>creeze o parolă puternică și unică</a> pentru fiecare conectare pe care o ai pe web — în acest fel, dacă una dintre parole este spartă printr-o încălcare a securității datelor, va afecta doar acel cont, nu și celelalte conturi.
+# Used as an accessible text alternative for an image
+password-manager-image-of-a-websites-sign-up-form = Imagine cu formularul de înscriere al unui site web cu { -brand-name-firefox } sugerând o parolă puternică pe care o va stoca automat pentru utilizare ulterioară.
+password-manager-password-security-alerts = Alerte de securitate a parolelor
+# Variables:
+#   $attrs (url) = link to https://support.mozilla.org/kb/firefox-password-manager-alerts-breached-websites
+# "Lambo" is American slang for a Lamborghini sports car. You can spell out the full name or substitute a similarly extravagant item.
+password-manager-firefox-alerts-you-if-a-password-has = { -brand-name-firefox } <a { $attrs }>te alertează dacă o parolă a fost expusă</a> într-o încălcare a securității datelor ca să o poți schimba înainte ca hackerii să aibă șansa să facă ceva cum ar fi să închirieze un Lamborghini cu cardul tău de credit.
 # Used as an accessible text alternative for an image
 password-manager-image-of-the-firefox-password-manager = Imagine cu managerul de parole { -brand-name-firefox } care afișează un mesaj de alertă cu textul „Această parolă a fost folosită pentru un alt cont care a fost implicat, cel mai probabil, într-o încălcare a securității datelor. Refolosirea datelor de autentificare îți va pune contul în pericol. Schimbă această parolă.”
