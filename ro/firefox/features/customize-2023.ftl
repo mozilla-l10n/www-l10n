@@ -5,5 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/customize/
 
+features-customize-customize-your-firefox = Personalizează-ți browserul { -brand-name-firefox }
 # HTML page description
 features-customize-choose-how-your-browser-looks = Alege cum arată browserul tău cu mii de teme gratuite.

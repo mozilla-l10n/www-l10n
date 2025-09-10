@@ -15,12 +15,28 @@ features-adblocker-an-ad-blocker-is-a-piece = Extensiile de blocare a reclamelor
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Aceste reclame pot fi reclame cu volum sonor mare, reclame care te urmăresc peste tot pe web, elemente de urmărire, cookie-uri de la terți și multe altele. Pentru a utiliza blocarea reclamelor, poți căuta suplimente de blocare a reclamelor disponibile pentru browserul tău. De exemplu, <a href="{ $firefox }">{ -brand-name-firefox }</a> are <a href="{ $addons }">această listă de suplimente aprobate pentru blocarea reclamelor</a>. Dă clic pe această listă (sau adaugă suplimente aprobate de blocare a reclamelor pentru browserul tău) și vezi care ți se potrivește cel mai bine.
 features-adblocker-find-the-right-ad-blocker = Găsește extensia de blocare a reclamelor potrivită pentru tine
+features-adblocker-there-are-scores-of-content = Există o mulțime de instrumente de blocare a conținutului, dar iată câteva opțiuni fantastice, selectate de { -brand-name-mozilla }…
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = Considerat de mulți standardul de aur printre instrumentele de blocare a reclamelor, <a { $attrs }>uBlock Origin</a> este renumit pentru eficacitate și eficiență. Este extrem de personalizabil, dar funcționează excelent chiar „din cutie”.
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> blochează publicitatea de pretutindeni. Blochează reclamele de pe web, pe rețelele de socializare, chiar și acele ferestre pop-up enervante (totuși, dacă vrei doar să suprimi ferestrele pop-up, nu poți da greș cu <a { $attrs2 }>Popup Blocker</a>).
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> este o altă opțiune excelentă care nu numai că blochează reclame, dar oferă și beneficii suplimentare antiurmărire.
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = Aceste extensii funcționează perfect atât pe <a { $attrs1 }>{ -brand-name-firefox } pentru desktop</a>, cât și pe <a { $attrs2 }>Android</a>.
 features-adblocker-create-a-tracker-free = Creează o zonă fără elemente de urmărire cu ajutorul blocării de conținut
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = În { -brand-name-firefox }, poți folosi setările de <a href="{ $privacy }">Confidențialitate</a> sau de <a href="{ $blocking }">Blocare de conținut</a> ca să ai un control mai mare asupra elementelor de urmărire din reclame care îți trimit anunțuri.
 features-adblocker-choose-your-level-of-protection = Alege-ți nivelul de protecție
+features-adblocker-to-start-click-on-the-v2 = Pentru a începe, dă clic pe scutul din stânga barei de adrese de pe orice pagină web și selectează „Setări de protecție”. Se va deschide panoul de Setări de confidențialitate și securitate din { -brand-name-firefox } într-o filă nouă. Ar trebui să vezi o fereastră pop-up albastră cu diferite selecții.
 features-adblocker-go-easy-with-standard = Ia-o încet cu modul standard
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
@@ -38,3 +54,6 @@ features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Cookie-uril
 features-adblocker-in-firefox-you-can-block = În { -brand-name-firefox }, poți bloca toate cookie-urile de la terți sau numai pe cele instalate de elementele de urmărire. Ai grijă că dacă blochezi toate cookie-urile, unele site-uri nu vor mai merge.
 features-adblocker-speed-up-thanks-to-ad = Mărește viteza cu ajutorul extensiilor de blocare a reclamelor
 features-adblocker-in-some-cases-an-ad-blocker = În unele cazuri, o extensie de blocare a reclamelor pot crește viteza browserului. Încărcarea unei reclame poate încetini un site web. În același timp, este mai greu să găsești ce cauți dacă stai să tot închizi reclame de pe site.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = Dacă vrei să afli mai multe despre blocarea reclamelor, există sute de extensii de blocare a reclamelor disponibile pentru { -brand-name-firefox } și pentru alte browsere. Dacă vrei să le încerci pe cele pentru { -brand-name-firefox }, <a href="{ $url }">dă clic aici pentru descărcarea</a> unui browser care îți pune confidențialitatea pe primul loc.
