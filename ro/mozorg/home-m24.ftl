@@ -56,6 +56,11 @@ m24-home-tag-event = Eveniment
 m24-home-read-more = Citește mai multe
 m24-home-get-started = Începe
 m24-home-join-the-movement = Alătură-te mișcării:<br> IA pentru oameni
+m24-home-our-mission-is = Misiunea noastră este de a facilita construirea și colaborarea oamenilor pe baza IA cu sursă deschisă și de încredere.
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = Logo { -brand-name-solo-ai }
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-create-your-website = Creează-ți un site web și conectează-ți gratuit propriul domeniu personalizat
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
@@ -123,3 +128,10 @@ m24-home-read-the-report = Citește raportul
 m24-home-alt-pni = Dispozitive inteligente cu pictogramă de precauție.
 m24-home-explore-issues-shaping = Explorează problemele care modelează viitorul internetului
 m24-home-privacy-not-included = *Confidențialitatea nu este inclusă
+m24-home-search-our-reviews = Caută în recenziile noastre pentru a vedea ce gadgeturi și aplicații tehnologice îți fură datele pe ascuns.
+m24-home-pni-search-now = Caută acum
+# Used as an accessible text alternative for an image
+m24-home-alt-irl-host = Bridget Todd, gazda podcastului IRL.
+m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = Podcastul nostru, premiat în mai multe rânduri, îi prezintă pe cei care contribuie la schimbare și care lucrează pentru a face internetul mai sigur și IA mai de încredere.
+m24-home-irl-listen-now = Ascultă acum

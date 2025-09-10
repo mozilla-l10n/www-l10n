@@ -35,5 +35,9 @@ newsletter-form-yes = Da
 newsletter-form-no = Nu
 # An accessible label used to describe purpose of the form.
 newsletter-form-label = Formular de abonare la buletinul de știri
+multi-newsletter-form-checkboxes-legend = Vreau informații despre:
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
 multi-newsletter-form-checkboxes-error = Te rugăm să bifezi cel puțin una dintre opțiunile pentru buletinul de știri.
+multi-newsletter-form-title = Iubesc webul
 multi-newsletter-form-desc = Obține buletinul de știri { -brand-name-mozilla } și ajută-ne să păstrăm webul liber și deschis.
