@@ -19,3 +19,6 @@ bookmark-manager-you-can-import-your-bookmarks = Îți poți importa marcajele d
 # Used as an accessible text alternative for an image
 bookmark-manager-image-of-the-firefox-import-wizard = Imagine cu asistentul virtual din { -brand-name-firefox } pentru import, care afișează opțiuni pentru importarea setărilor și a datelor din alte browsere.
 bookmark-manager-bookmarks-toolbar = Bară de instrumente pentru marcaje
+bookmark-manager-get-quick-access-to-your = Obține acces rapid la marcajele preferate din meniul din partea de sus a { -brand-name-firefox } sau fixează-le în bara de instrumente.
+# Used as an accessible text alternative for an image
+bookmark-manager-image-of-firefox-showing-a-collection = Imagine cu { -brand-name-firefox } afișând o colecție de marcaje într-o bară de instrumente în partea de sus a browserului.
