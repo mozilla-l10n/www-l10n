@@ -31,7 +31,7 @@ privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } nu vinde date des
 privacy-faq-v2-wait-so-how = Stai puțin, deci cum faceți bani?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org
-privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } nu este o organizație obișnuită. Fondată ca proiect comunitar cu sursă deschisă, în anul 1998, { -brand-name-mozilla } este o organizație cu misiunea de a crea un internet mai sănătos. Cea mai mare parte a veniturilor { -brand-name-mozilla-corporation } provine din redevențe câștigate prin parteneriate { -brand-name-firefox } cu motoarele de căutare și contracte de distribuție în lumea întreagă. Poți afla mai multe despre cum facem bani în <a href="{ $link }">raportul financiar anual</a>.
+privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } nu este o organizație obișnuită. Fondată ca proiect comunitar cu sursă deschisă, în anul 1998, { -brand-name-mozilla } este o organizație cu misiunea de a crea un internet mai sănătos. Cea mai mare parte a veniturilor { -brand-name-mozilla-corporation } provine din redevențe câștigate prin parteneriate { -brand-name-firefox } cu motoarele de căutare și contracte de distribuție în lumea întreagă. Poți afla mai multe despre cum facem bani în <a { $attrs }>raportul financiar anual</a>.
 privacy-faq-v2-softballs = OK, primele au fost întrebări ușoare. Ce fel de date colectați?
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
