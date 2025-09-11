@@ -81,3 +81,10 @@ m24-home-tag-video = ວີດີໂອ
 m24-home-topic-news = ຂ່າວ
 m24-home-topic-ai = ປັນຍາປະດິດ
 m24-home-topic-ps = ຄວາມເປັນສ່ວນຕົວ ແລະ ຄວາມປອດໄພ
+m24-home-headline-you-ai-v2 = ທ່ານ, AI ແລະ ອິນເຕີເນັດ - ແມ່ນຫຍັງເກີດຂຶ້ນແທ້ໆ?
+
+## Showcase
+
+m24-home-rise25-awards = { -brand-name-rise25 } ລາງວັນ
+m24-home-watch-the-award = ຊົມການສະແດງລາງວັນ
+m24-home-state-of-mozilla = ສະຖານະຂອງ { -brand-name-mozilla }
