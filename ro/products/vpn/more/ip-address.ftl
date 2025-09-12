@@ -21,3 +21,9 @@ vpn-ip-address-no-your-ip-v2 = Nu. Adresa ta IP este asociată cu o singură loc
 vpn-ip-address-does-your-ip = Adresa IP se schimbă?
 vpn-ip-address-yes-even-if = Da. Chiar dacă folosești internetul doar acasă, adresa IP a locuinței tale se poate schimba. Poți contacta furnizorul de servicii de internet (ISP) pentru a o schimba, dar chiar și o acțiune atât de banală precum repornirea modemului sau routerului din cauza problemelor de conexiune la internet ar putea duce la o modificare.
 vpn-ip-address-can-more-than = Pot mai multe dispozitive să aibă aceeași adresă IP?
+vpn-ip-address-this-is-a = E o întrebare puțin dificilă - răspunsul este și da, și nu. Mai multe dispozitive pot partaja aceeași adresă IP externă (publică), dar fiecare dispozitiv va avea propria adresă IP locală (privată). De exemplu, furnizorul de servicii de internet (ISP) îți configurează locuința cu o singură adresă IP externă. Cum routerul este cel care se conectează de fapt la internet, adresa IP este atribuită routerului. Routerul atribuie apoi o adresă IP locală fiecărui dispozitiv conectat la internet în același timp. Adresa IP externă este cea partajată cu lumea exterioară. Adresa IP locală nu este partajată în afara rețelei private de acasă.
+vpn-ip-address-can-we-run = Se pot epuiza?
+# Variables
+#   $sr (url) - https://www.siliconrepublic.com/comms/ip-addresses-running-out
+#   $variety (url) - https://variety.com/2019/digital/news/u-s-households-have-an-average-of-11-connected-devices-and-5g-should-push-that-even-higher-1203431225/
+vpn-ip-address-when-the-internet = Când a fost conceput pentru prima dată internetul, folosea adrese de „versiunea 4”. Sunt pe 32 de biți, ceea ce înseamnă că am putea avea până la <a href="{ $sr }">4,2 miliarde de adrese</a>. Părea suficient la vremea de atunci, dar nu este nici pe departe suficient într-o lume în care o gospodărie medie din SUA avea <a href="{ $variety }">11 dispozitive conectate</a>.
