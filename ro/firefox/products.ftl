@@ -21,8 +21,34 @@ firefox-products-get-the-browser-that-blocks = Obține browserul care blochează
 ## Focus
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Browser dedicat confidențialității, cu protecție automată de împotriva urmăririi și blocarea reclamelor.
 
 ## Monitor
 
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
 firefox-products-see-if-your-personal-information = Vezi dacă datele tale cu caracter personal au fost compromise într-o încălcare a securității datelor corporative și înscrie-te pentru alerte viitoare.
 firefox-products-check-for-breaches = Caută încălcări ale securității datelor
+
+## Relay
+
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Protejează-ți adresa de e-mail reală pentru a-ți controla căsuța de poștă electronică.
+firefox-products-get-relay = Descarcă { -brand-name-firefox-relay }
+
+## VPN
+
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
+firefox-products-surf-stream-and-get-work-done = Navighează, transmite în flux și lucrează pe servere din peste 30 de țări pentru o conexiune la internet securizată, cu o perspectivă nouă.
+firefox-products-get-mozilla-vpn = Instalează { -brand-name-mozilla-vpn }
+
+## MDN Plus
+
+firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Resurse pentru dezvoltatori, de la dezvoltatori. Susține { -brand-name-mdn } și personalizează-l cu colecții, notificări și zone de joacă.
+firefox-products-support-mdn = Susține { -brand-name-mdn }
+
+## Thunderbird
+
+firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = Accesează-ți toate adresele de e-mail, calendarele și contactele într-o singură aplicație rapidă. Filtrează-le și organizează-le cum vrei.
+firefox-products-download-thunderbird = Descarcă { -brand-name-thunderbird }

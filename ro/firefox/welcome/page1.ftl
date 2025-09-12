@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
+# HTML page title
+welcome-page1-more-than-a-browser-mozilla = Mai mult decât un browser - { -brand-name-mozilla-monitor } stă de șase pentru tine după hackeri
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Fă pasul următor pentru a-ți proteja confidențialitatea online cu familia de produse { -brand-name-firefox }.
 welcome-page1-youve-got-the-web-browser = Ai browserul care-ți protejează confidențialitatea - acum trebuie să stăm cu ochii pe hackeri.
