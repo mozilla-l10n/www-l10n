@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
 
 cookie-settings-explainer = Cookie-urile sunt fișiere mici care conțin informații și sunt salvate pe calculator sau dispozitivul tău când intri pe un site web. { -brand-name-mozilla } folosește cookie-uri pentru a ajuta la funcționarea site-urilor noastre web, precum și pentru a colecta informații despre modul în care folosești și interacționezi cu site-urile noastre web, cum ar fi paginile pe care intri.
-cookie-settings-page-intro-v2 = Această pagină descrie diferitele tipuri de cookie-uri și tehnologii similare, cum ar fi etichete pixel, balize web, GIF-uri transparente, JavaScript și stocare locală (denumite în continuare „Cookie-uri”) pe care { -brand-name-mozilla } le poate utiliza și îți oferă control asupra tipurilor de date pe care ești de acord să le colecteze { -brand-name-mozilla }.
+cookie-settings-page-intro-v2 = Pagina descrie diferitele tipuri de cookie-uri și tehnologii similare, cum ar fi etichete pixel, balize web, GIF-uri transparente, JavaScript și stocare locală (denumite în continuare „Cookie-uri”) pe care { -brand-name-mozilla } le poate utiliza și îți oferă control asupra tipurilor de date pe care ești de acord să le colecteze { -brand-name-mozilla }.
 cookie-settings-how-mozilla-heading = Cum folosește { -brand-name-mozilla } cookie-uri
 cookie-settings-how-does-mozilla-use-subheading = Cum folosește { -brand-name-mozilla } aceste date?
 cookie-settings-save-changes = Salvează modificările
