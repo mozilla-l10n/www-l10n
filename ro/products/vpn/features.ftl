@@ -69,3 +69,12 @@ vpn-features-built-transparently = Construit transparent, cu sursă deschisă
 #   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
 vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } are codul cu sursă deschisă, ceea ce înseamnă că este integral accesibil publicului. Vezi <a { $github }>depozitarul pe GitHub</a>.
 vpn-features-reviewed-by-third = Revizuit de experți terți în securitate
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = Am fost auditați de Cure53, o firmă de top în auditarea securității cibernetice. <a { $report }>Vezi raportul aici</a>.
+vpn-features-people-over-profits = Oamenii mai presus de profituri
+# Variables
+#   $mofo (url) - link to https://foundation.mozilla.org/
+# Obsolete string (expires 19-10-2025)
+vpn-features-were-backed-by-mofo = Suntem susținuți de <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, o organizație non-profit care luptă pentru menținerea internetului deschis și sănătos pentru toți.
+vpn-features-were-backed-by-mofo-v2 = Suntem susținuți de <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, o organizație non-profit care luptă pentru menținerea internetului deschis și sănătos pentru toți.
