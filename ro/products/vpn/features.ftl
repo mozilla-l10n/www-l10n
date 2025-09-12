@@ -52,5 +52,20 @@ vpn-features-support-for-custom-dns = Suport pentru DNS personalizat
 vpn-features-keep-traffic-protected = Cu { -brand-name-mozilla-vpn }, îți poți proteja traficul și poți direcționa în continuare interogările DNS oriunde preferi. <a { $dns }>Află mai multe despre asistența DNS personalizată</a>.
 vpn-features-flexible = Flexibil
 vpn-features-webste-specific-vpn = Setări VPN specifice site-urilor web, integrate perfect în { -brand-name-firefox }
+vpn-features-with-the-mozilla-vpn-extention = Cu extensia { -brand-name-mozilla-vpn } pentru { -brand-name-firefox } (doar pentru Windows), poți ajusta experiența VPN pentru fiecare site web în parte. Excluzi site-uri web individuale din protecția VPN sau setezi locații de server preferate pentru anumite site-uri, oferindu-ți o experiență mai flexibilă și personalizată.
 vpn-features-personalized-server = Recomandări personalizate pentru locația serverului
 vpn-features-well-suggest-which-servers = Îți vom sugera servere din apropiere care îți vor asigura cea mai rapidă și mai fiabilă conexiune la internet.
+vpn-features-personalize-which-apps = Personalizează ce aplicații beneficiază de protecție VPN
+vpn-features-easily-exclude-apps = Excluzi cu ușurință aplicații din protecția VPN — nu este nevoie să deconectezi dispozitivul de la { -brand-name-mozilla-vpn }. Disponibil pe dispozitive Windows, Android și Linux.
+vpn-features-trustworthy = De încredere
+vpn-features-money-back = Garanție de rambursare a banilor în 30 de zile
+vpn-features-plus-customer-support = Plus asistență clienți 24/7.
+vpn-features-we-never-log = Nu îți înregistrăm, urmărim sau distribuim niciodată datele din rețea
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = Mai simplu, nu îți colectăm informațiile personale de navigare. Iată <a { $privacy }>politica noastră de confidențialitate ușor de citit</a>.
+vpn-features-built-transparently = Construit transparent, cu sursă deschisă
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } are codul cu sursă deschisă, ceea ce înseamnă că este integral accesibil publicului. Vezi <a { $github }>depozitarul pe GitHub</a>.
+vpn-features-reviewed-by-third = Revizuit de experți terți în securitate
