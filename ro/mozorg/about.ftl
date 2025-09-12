@@ -29,6 +29,8 @@ about-read-the-manifesto = Citește Manifestul
 about-a-global-view = O viziune globală
 about-with-offices-all-over-the = Cu <a href="{ $url }">birouri peste tot în lume</a>, avem în vedere Internetul din perspectiva mai multor culturi și în mai multe contexte.
 about-san-francisco = San Francisco
+about-talking-tech-issues-irl = Discuții despre probleme tehnologice din viața reală
+about-in-mozillas-multi-award-winning = În podcastul multipremiat { -brand-name-mozilla }, gazda Bridget Todd vorbește cu oamenii care modelează viitorul internetului și al inteligenței artificiale.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = <strong>2000</strong> vizitatori neangajați primiți în fiecare an
 about-berlin = Berlin

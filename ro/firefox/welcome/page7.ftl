@@ -17,4 +17,6 @@ page7-make-them-unfollow-you = Împiedică-i să te mai urmărească
 page7-that-sneaky-little-button = Butonul acela mic, dar viclean
 page7-those-innocent-looking-f-buttons = Butoanele acelea F, aparent nevinovate, de la { -brand-name-facebook } îți urmăresc activitatea pe web, chiar dacă nu ai un cont. { -brand-name-facebook-container } le blochează.
 page7-stay-ahead-of-hackers = Fii cu un pas înaintea hackerilor
+page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } îți permite să afli ce ar putea ști deja hackerii despre tine și te ajută să fii cu un pas înaintea lor. (Și e gratuit.)
+page7-get-mozilla-monitor = Instalează { -brand-name-mozilla-monitor }
 page7-why-am-i-seeing-this = De ce văd asta?

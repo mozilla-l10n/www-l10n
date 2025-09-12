@@ -60,7 +60,7 @@ m24-about-alt-conversation = Angajat { -brand-name-mozilla } în timpul conversa
 m24-about-alt-drinking-coffee = Angajat { -brand-name-mozilla } bând o cafea.
 # Used as an accessible text alternative for an image
 m24-about-alt-collaborating = Angajați { -brand-name-mozilla } în timp ce colaborează.
-m24-about-join-us-and = Alătură-te și fă o diferență
+m24-about-join-us-and = Vino cu noi și fă o diferență
 m24-about-join-our-team = Alătură-te echipei noastre și depășește limitele posibilului — fără a compromite ceea ce contează.
 m24-about-see-open-positions = Vezi posturile libere
 

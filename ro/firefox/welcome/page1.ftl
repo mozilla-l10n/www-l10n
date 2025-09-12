@@ -9,8 +9,11 @@
 welcome-page1-more-than-a-browser-mozilla = Mai mult decât un browser - { -brand-name-mozilla-monitor } stă de șase pentru tine după hackeri
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Fă pasul următor pentru a-ți proteja confidențialitatea online cu familia de produse { -brand-name-firefox }.
+welcome-page1-stay-ahead-of-hackers-check-v2 = Fii cu un pas înaintea hackerilor. Caută încălcări ale securității datelor cu { -brand-name-mozilla-monitor }.
 welcome-page1-youve-got-the-web-browser = Ai browserul care-ți protejează confidențialitatea - acum trebuie să stăm cu ochii pe hackeri.
 welcome-page1-check-your-breach-report = Vezi raportul tău privind încălcările securității datelor
+welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
+welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } îți arată dacă informațiile tale au fost divulgate într-o încălcare cunoscută a securității datelor și te alertează pe viitor.
 welcome-page1-stay-ahead-of-hackers = Fii cu un pas înaintea hackerilor
 # Variables:
 #   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/

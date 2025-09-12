@@ -15,6 +15,7 @@ welcome-page8-view-your-protection-report = Vezi raportul tău de protecție
 welcome-page8-enhanced-tracking-protection = Protecție îmbunătățită împotriva urmăririi
 welcome-page8-automatically-block-sites = Blochează automat site-urile ca să nu te urmărească pe internet.
 welcome-page8-see-whats-blocked = Vezi ce este blocat
+welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
 welcome-page8-see-what-youve-been = Vezi dacă ai fost implicat(ă) în încălcări cunoscute ale securității datelor și ia măsuri să le rezolvi.
 welcome-page8-go-to-monitor = Mergi la { -brand-name-monitor }
 welcome-page8-facebook-container = { -brand-name-facebook-container }

@@ -14,10 +14,14 @@ legal-special-thanks-to-all-of-you = Mulțumim din suflet tuturor celor care ne 
 legal-terms = Termeni
 legal-our-websites = Site-urile noastre web
 legal-firefox-services = Serviciile { -brand-name-firefox }
+legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = Confidențialitate și mărci comerciale
 legal-privacy-notices-and-policy = Politică și declarații de confidențialitate
 legal-downloadable-software-notices = Notificări despre programele care pot fi descărcate
+# heading for the table of contents, a shorter heading is better
+legal-firefox-contents = Conținut
 legal-firefox = { -brand-name-firefox }
+legal-firefox-rights = { -brand-name-firefox }: Despre drepturile tale
 legal-thunderbird = { -brand-name-thunderbird }
 legal-websites-and-communications = Termenii de utilizare privind site-urile web și comunicațiile
 legal-acceptable-use-policy = Politică de utilizare acceptabilă

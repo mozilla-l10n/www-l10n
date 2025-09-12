@@ -14,7 +14,7 @@ newsletter-form-select-country-or-region = Alege țara sau regiunea
 newsletter-form-select-language = Selectează limba
 newsletter-form-your-email-here = ADRESA DE E-MAIL AICI
 newsletter-form-get-firefox-news = Abonează-te la știri despre { -brand-name-firefox }
-newsletter-form-join-the-community = Alătură-te comunității
+newsletter-form-join-the-community = Intră în comunitate
 newsletter-form-sign-up-to-receive = Înscrie-te pentru a primi actualizări lunare de la { -brand-name-firefox } și tendințele internetului care îți modelează viața online.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/

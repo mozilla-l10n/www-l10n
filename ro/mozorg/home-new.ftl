@@ -24,7 +24,7 @@ home-cta-get-monitor = Instalează { -brand-name-monitor }
 home-mozilla-takes-bets = „{ -brand-name-mozilla } pariază să demonstreze lumii că există o afacere de făcut cu IA de încredere. Include plasarea unor aspecte precum drepturile omului, protecția datelor și transparența în centrul modului în care funcționează aceste sisteme complexe.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politică
-home-join-us-in-shaping = Alătură-te în modelarea de IA de încredere
+home-join-us-in-shaping = Participă la modelarea de IA de încredere
 home-work-on-ai = Munca { -brand-name-mozilla } în domeniul IA nu este doar ceva nou — am petrecut ani de zile finanțând, construind și pledând pentru o IA deschisă, echitabilă și dezvoltată responsabil. Ne concentrăm pe crearea unei IA care să servească oamenii, să prioritizeze transparența și să susțină binele public, nu agendele corporatiste.
 home-read-more = Citește mai multe
 home-so-what-is-mozilla = Deci, ce este { -brand-name-mozilla }?
