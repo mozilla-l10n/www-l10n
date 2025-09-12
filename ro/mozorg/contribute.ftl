@@ -45,17 +45,23 @@ contribute-opportunities = Știri și oportunități de voluntariat
 ## Made by
 
 contribute-made-by-heading = Făcut de oameni pasionați ca tine
+contribute-made-by-desc = Când contribui la { -brand-name-mozilla }, devii parte a unei comunități mondiale formate din oameni din întreaga lume care cred că toți avem un rol în a ne asigura că internetul rămâne o forță a binelui.
+contribute-made-by-desc-cont = Credem că colaborarea comunitară este vitală pentru crearea unui internet divers, inovator și responsabil față de oamenii care au cea mai mare nevoie de el. Indiferent că ai experiență în tehnologie, organizare comunitară sau doar un calculator și puțin timp liber, ne poți ajuta să facem internetul un loc mai bun.
 
 ## Newsletter
 
 contribute-newsletter-heading = Nu te-ai decis încă?
 contribute-newsletter-sub-heading = Primești știri despre comunitate și contribuții în căsuța de e-mail
+contribute-newsletter-desc = Abonează-te la buletinul nostru de știri și alătură-te mozillienilor de peste tot din lume și află despre oportunitățile de impact pentru susținerea misiunii { -brand-name-mozilla }.
 
 ## Support
 
 contribute-support-heading = Obții ajutor
+contribute-support-desc = { -brand-name-mozilla } are o echipă dedicată de voluntari care te pot ajuta cu orice problemă cu care te-ai putea confrunta.
+contribute-mozilla-support = Asistență { -brand-name-mozilla }
 
 ## Web compat
 
 contribute-web-compat-heading = Probleme cu o pagină web?
+contribute-web-compat-desc = Dacă experiența ta pe un site web diferă între browsere, atunci este posibil să fi descoperit o problemă de compatibilitate web. Ne-ar plăcea să aflăm despre aceasta!
 contribute-report-issue = Raportează o problemă

@@ -40,8 +40,10 @@ manifesto-we-are-committed-to-thinking = Suntem dedicați unui internet care pun
 manifesto-we-are-committed-to-diverse = Suntem dedicați unui internet cu rol de catalizator în colaborarea dintre comunități diverse care lucrează împreună pentru binele public.
 manifesto-show-your-support = Arată-ți sprijinul
 manifesto-an-internet-with-these = Un internet cu aceste calități nu va veni de la sine. Oamenii și organizațiile trebuie să încorporeze aceste aspirații în tehnologia internetului și în experiențele oamenilor pe internet. Manifestul nostru și Actul adițional la acesta reprezintă angajamentul { -brand-name-mozilla } de avansare a acestor aspirații. Dorim să lucrăm cu oameni și organizații de pretutindeni care împărtășesc aceste obiective pentru a face internetul mai bun pentru toți.
+manifesto-i-support-the-vision-of-v2 = Susțin viziunea { -brand-name-mozilla } pentru un internet mai bun și mai sănătos. Vrei să mi te alături?
 # obsolete (expires 2025-04-12)
 manifesto-i-support-the-vision-of = Susțin viziunea @mozilla pentru un internet mai bun și mai sănătos. Vrei să mi te alături?
+manifesto-share-on-bluesky = Distribuie pe Bluesky
 manifesto-our-10-principles = <strong>Cele 10</strong> principii
 manifesto-read-the-entire-manifesto = Citește întregul manifest
 manifesto-details-the-mozilla-manifesto = Manifestul { -brand-name-mozilla }
@@ -53,11 +55,13 @@ manifesto-details-as-a-result-of = În urma acestor eforturi, am conceput un set
 manifesto-details-the-goals-for = Obiectivele Manifestului sunt:
 # Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = formularea clară a unei viziuni de internet pe care participanții la proiectul { -brand-name-mozilla } vor ca { -brand-name-mozilla-foundation } să o urmeze;
+manifesto-details-articulate-a-vision-v2 = formularea clară a unei viziuni de internet pe care participanții { -brand-name-mozilla } vor ca { -brand-name-mozilla-foundation } să o urmeze;
 manifesto-details-speak-to-people = comunicarea cu oamenii indiferent dacă au sau nu au pregătire tehnică;
 manifesto-details-make-mozilla-contributors = inducerea unui sentiment de mândrie în rândul colaboratorilor la proiectul { -brand-name-mozilla } și motivarea lor să continue; și
 manifesto-details-provide-a-framework = asigurarea unui cadru general pentru ca și alții să promoveze această viziune de internet.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Aceste principii nu se vor concretiza de la sine. Este nevoie de oameni pentru a face internetul deschis și participativ - oameni care acționează individual, lucrează în grupuri și îi coordonează pe alții. { -brand-name-mozilla-foundation } este dedicată promovării principiilor prevăzute în Manifestul { -brand-name-mozilla }. Lansăm o invitație și altora să ni se alăture pentru a face internetul un loc și mai bun pentru toți.
+manifesto-details-these-principles-v2 = Aceste principii nu se vor concretiza de la sine. Este nevoie de oameni pentru a face internetul deschis și participativ - oameni care acționează individual, lucrează în grupuri și îi coordonează pe alții. { -brand-name-mozilla-foundation } este dedicată promovării principiilor prevăzute în Manifestul { -brand-name-mozilla }. Lansăm o invitație și altora să ni se alăture pentru a face internetul un loc și mai bun pentru toți.
 manifesto-details-principles = Principii
 manifesto-details-the-internet-is-integral = Internetul este o parte integrantă a vieții moderne — o componentă-cheie în educație, comunicare, colaborare, afaceri, divertisment și în societate în asamblu.
 manifesto-details-the-internet-is-global = Internetul este o resursă publică globală care trebuie să rămână deschisă și accesibilă.
@@ -74,6 +78,7 @@ manifesto-details-there-are-many = Există multe mijloace de promovare a princip
 manifesto-details-mozilla-foundation = Angajamentul { -brand-name-mozilla-foundation }
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } se angajează să susțină Manifestul { -brand-name-mozilla } în activitățile sale. Concret:
+manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation } se angajează să susțină Manifestul { -brand-name-mozilla } în activitățile sale. Concret:
 manifesto-details-build-and-enable = vom construi și vom lucra la tehnologii cu sursă deschisă și comunități care susțin principiile Manifestului;
 manifesto-details-build-and-deliver = vom construi și vom oferi produse de consum nemaipomenite care să susțină principiile Manifestului;
 manifesto-details-use-the-mozilla = vom folosi activele { -brand-name-mozilla } (proprietatea intelectuală, cum ar fi drepturile de reproducere și mărcile comerciale, infrastructura, fondurile și reputația) pentru a păstra internetul o platformă deschisă;
@@ -81,6 +86,8 @@ manifesto-details-promote-models = vom promova modele pentru a crea valori econo
 manifesto-details-promote-the-mozilla = vom promova principiile Manifestului { -brand-name-mozilla } în discursul public și în cadrul industriei internetului.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Unele activități ale Fundației — în prezent crearea, livrarea și promovarea de produse de larg consum — se desfășoară în principal prin intermediul filialei { -brand-name-mozilla-foundation }, deținute integral de { -brand-name-mozilla-corporation }.
+manifesto-details-some-foundation-v2 = Unele activități ale Fundației — în prezent crearea, livrarea și promovarea de produse de larg consum — se desfășoară în principal prin intermediul filialei { -brand-name-mozilla-foundation }, deținute integral de { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Invitație
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } îi invită pe toți ceilalți care susțin principiile Manifestului { -brand-name-mozilla } să ni se alăture și să caute modalități noi prin care să transformăm această viziune a internetului în realitate.
+manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } îi invită pe toți ceilalți care susțin principiile Manifestului { -brand-name-mozilla } să ni se alăture și să caute modalități noi prin care să transformăm această viziune a internetului în realitate.

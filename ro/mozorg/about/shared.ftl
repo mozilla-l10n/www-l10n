@@ -16,3 +16,5 @@ about-shared-our-products = Produsele noastre
 about-shared-software-innovations = Programe și alte inovații concepute pentru a avansa în misiunea noastră.
 about-shared-get-involved = Implică-te
 about-shared-volunteer = Devino colaborator voluntar în mai multe domenii.
+vision-for-the-web = Viziunea { -brand-name-mozilla } pentru Web
+read-about-our-vision = Citiți despre viziunea noastră pentru Web și despre cum intenționăm să o îndeplinim.
