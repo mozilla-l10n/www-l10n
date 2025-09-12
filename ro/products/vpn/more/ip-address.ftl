@@ -27,3 +27,14 @@ vpn-ip-address-can-we-run = Se pot epuiza?
 #   $sr (url) - https://www.siliconrepublic.com/comms/ip-addresses-running-out
 #   $variety (url) - https://variety.com/2019/digital/news/u-s-households-have-an-average-of-11-connected-devices-and-5g-should-push-that-even-higher-1203431225/
 vpn-ip-address-when-the-internet = Când a fost conceput pentru prima dată internetul, folosea adrese de „versiunea 4”. Sunt pe 32 de biți, ceea ce înseamnă că am putea avea până la <a href="{ $sr }">4,2 miliarde de adrese</a>. Părea suficient la vremea de atunci, dar nu este nici pe departe suficient într-o lume în care o gospodărie medie din SUA avea <a href="{ $variety }">11 dispozitive conectate</a>.
+vpn-ip-address-we-now-have = Acum avem adrese IP versiunea 6, care au 128 de biți per adresă. Din păcate, versiunea 4 și versiunea 6 nu pot comunica direct între ele, așa că utilizatorii vor avea nevoie de adrese versiunea 4 pentru o lungă perioadă de timp.
+vpn-ip-address-should-you-hide = Ar trebui să îți ascunzi adresa IP?
+# Variables
+#   $congress (url) - https://blog.mozilla.org/en/mozilla/internet-policy/u-s-broadband-privacy-rules-will-fight-protect-user-privacy/
+#   $doh (url) - https://support.mozilla.org/kb/firefox-dns-over-https
+#   $firefox (url) - https://www.mozilla.org/firefox/new/
+vpn-ip-address-you-dont-need = Nu este nevoie să îți ascunzi adresa IP, dar există momente în care ai putea vrea să o faci. Cel mai frecvent motiv este confidențialitatea. În SUA, <a href="{ $congress }">Congresul a anulat</a> reglementările privind confidențialitatea menite să protejeze confidențialitatea utilizatorilor de bandă largă. Furnizorii de servicii de internet îți pot vedea obiceiurile de navigare, pentru ce intri pe internet și cât timp stai pe fiecare pagină. Această comunicare nu este criptată, astfel încât terții pot vedea pe ce site web intri. Un mod de a combate acest lucru este <a href="{ $doh }">DNS-over-HTTPS</a> (DoH). Criptează traficul DNS (Domain Name System), ceea ce face mai dificil pentru furnizorii de servicii de internet să vadă site-urile web pe care încerci să intri. Pentru utilizatorii <a href="{ $firefox }">{ -brand-name-firefox }</a> din SUA, implicit, interogările DoH sunt direcționate către servere DNS de încredere, ceea ce face mai dificilă asocierea ta cu site-urile web pe care încerci să intri.
+# Variables
+#   $url (url) - https://www.mozilla.org/products/vpn/more/when-to-use-a-vpn/
+vpn-ip-address-there-are-also = Sunt și alte situații în care ai putea vrea să îți ascunzi adresa IP. Poate că vrei să o ascunzi când ești în călătorii. Un VPN oferă și <a href="{ $url }">mai multă confidențialitate</a> când te conectezi la WiFi pentru redare de conținut în flux și pentru a face cumpărături în timp ce explorezi lumea.
+vpn-ip-address-how-do-you = Cum o ascunzi?

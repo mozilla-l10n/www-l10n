@@ -14,3 +14,9 @@ features-private-browsing-private-browsing-mode-opens-v2 = Modul de navigare pri
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = O fereastră de browser { -brand-name-firefox } în modul de navigare privată.
 features-private-browsing-what-private-browsing-doesnt-do = Ce nu face navigarea privată
+# Variables:
+#   $vpn (url) = link to https://www.mozilla.org/products/vpn/
+features-private-browsing-private-browsing-mode-will-not = Modul de navigare privată nu va șterge niciun marcaj nou creat dintr-o fereastră de navigare privată și nu te va proteja de programe rău-intenționate sau viruși. De asemenea, nu împiedică site-urile web pe care intri să vadă unde ești fizic și nu împiedică furnizorul de servicii de internet să îți înregistreze activitățile. Vei avea nevoie de un <a href="{ $vpn }">VPN de încredere</a> pentru asta.
+# Variables:
+#   $chrome (url) = link to https://www.mozilla.org/firefox/browsers/incognito-browser/
+features-private-browsing-compare-firefoxs-private-browsing = Compară navigarea privată din { -brand-name-firefox }cu <a href="{ $chrome }">modul incognito din Chrome</a>.
