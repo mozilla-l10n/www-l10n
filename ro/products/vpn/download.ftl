@@ -17,3 +17,26 @@ vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (numai pe 
 vpn-download-for-windows-long = Descarcă { -brand-name-mozilla-vpn } pentru { -brand-name-windows }
 vpn-download-for-firefox-extension = Instalează extensia { -brand-name-firefox }
 vpn-download-for-mac = VPN pentru { -brand-name-mac-short }
+vpn-download-for-mac-long = Descarcă { -brand-name-mozilla-vpn } pentru { -brand-name-mac-short }
+# Variables:
+#   $version (number) - operating system version
+vpn-download-version-requirements = Versiunea { $version } și ulterioare
+vpn-download-for-linux = VPN pentru { -brand-name-linux }
+vpn-download-for-linux-long = Descarcă { -brand-name-mozilla-vpn } pentru { -brand-name-linux }
+# Variables:
+#   $version (number) - operating system version
+vpn-download-for-linux-requirements = Ubuntu { $version } și versiuni ulterioare
+vpn-download-for-android = VPN pentru { -brand-name-android }
+vpn-download-for-android-long = Descarcă { -brand-name-mozilla-vpn } pentru { -brand-name-android }
+vpn-download-for-ios = VPN pentru { -brand-name-ios }
+vpn-download-for-ios-long-v2 = Descarcă { -brand-name-mozilla-vpn } pentru { -brand-name-ios }
+vpn-download-based-on-your = Pe baza dispozitivului tău actual
+vpn-download-get-mozilla-vpn = Instalează { -brand-name-mozilla-vpn }
+vpn-download-privacy-you-can = Confidențialitatea în care poți avea încredere
+vpn-download-also-available = Disponibil și pentru:
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-download-from-the-maker = De la creatorul { -brand-name-firefox }, { -brand-name-mozilla-vpn } folosește protocolul avansat <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® ca să îți cripteze activitatea online și să îți ascundă locația.
+vpn-download-we-never-log = Nu îți înregistrăm, urmărim sau partajăm niciodată datele din rețea.
+vpn-download-previous-versions = Descarcă versiuni anterioare pentru { -brand-name-windows } și { -brand-name-mac-short }
