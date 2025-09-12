@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/when-to-use-a-vpn/
 
+# HTML page description and intro
+vpn-when-to-use-here-are-five = Iată cinci situații în care un VPN de încredere îți va fi de folos și pe care poate nu le-ai luat în considerare. Elimină lacunele din securitatea ta online cu { -brand-name-mozilla-vpn }.
 # Variables
 #   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
 #   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge

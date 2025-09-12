@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/more/vpn-or-proxy/
 
+# HTML page title and main title
+vpn-or-proxy-the-difference-between = Diferența dintre un VPN și un proxy web
+# HTML page description and intro
+vpn-or-proxy-vpns-and-proxies-are = VPN-urile și proxy-urile sunt soluții pentru confidențialitatea și securitatea online. Iată cum te protejează și cum să alegi cea mai bună opțiune.
 # Variables
 #   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
 #   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
