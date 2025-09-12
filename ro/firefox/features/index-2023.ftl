@@ -36,6 +36,7 @@ features-index-ad-tracker-blocking = Blocarea elementelor de urmărire din recla
 features-index-firefox-automatically-blocks = { -brand-name-firefox } blochează automat peste 2000 de elemente de urmărire publicitare care se țin de tine pe internet.
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
 features-index-ditch-the-sticky-ads = Renunță la reclamele persistente care te urmăresc cu ajutorul funcțiilor de blocare a amprentării digitale încorporate în { -brand-name-firefox }.
+features-index-translate-the-web = Tradu webul
 features-index-translate-websites-to-your = Tradu site-uri web în limba ta direct în browserul { -brand-name-firefox } – fără a-ți mai partaja datele cu nimeni altcineva.
 features-index-picture-in-picture = Imagine în imagine
 features-index-got-things-to-do = Ai lucruri de făcut și de urmărit? Fă-le pe amândouă folosind funcția de imagine-în-imagine din { -brand-name-firefox }.
