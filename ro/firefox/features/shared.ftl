@@ -5,3 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+features-shared-firefox-features = Funcționalități { -brand-name-firefox }
+features-shared-footer-cta-title = Fă mai multe cu { -brand-name-firefox }
+features-shared-footer-cta-desc = Obține browserul rapid, ușor și focalizat pe confidențialitate, susținut de o fundație non-profit și lucrează pe toate dispozitivele tale.
