@@ -11,6 +11,9 @@ mission-our-mission-is-to-ensure-the-internet = Misiunea noastră este să ne as
 mission-our-mission-is-to-promote-openness = Misiunea noastră este de a promova deschiderea, inovația și oportunitatea pe web.
 mission-at-mozilla-were-a-global-community-v2 = La { -brand-name-mozilla }, suntem o comunitate globală de tehnicieni, gânditori și constructori care lucrează împreună pentru a menține internetul viu și accesibil, pentru ca oamenii din întreaga lume să poată fi colaboratori informați și creatori ai webului.
 mission-we-believe-this-act-of-human-collaboration = Credem că acest act de colaborare pe o platformă deschisă este esențială pentru dezvoltarea individuală și viitorul nostru comun.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/manifesto/
+mission-read-the-mozilla-manifesto-to-learn-v2 = Citește <a href="{ $url }">Manifestul { -brand-name-mozilla }</a> ca să afli mai multe despre valorile și principiile care ne ghidează în îndeplinirea misiunii noastre.
 mission-watch-the-video-above-to-learn-more = Urmărește videoclipul de mai sus pentru a afla mai multe despre cine suntem, de unde venim și cum facem un web mai bun pentru tine.
 mission-get-involved = Implică-te
 mission-volunteer-opportunities-in-a-number = Oportunități de voluntariat în mai multe domenii diferite
@@ -19,3 +22,4 @@ mission-where-we-come-from-and-how-we-got = De unde am plecat și cum am ajuns u
 mission-forums = Forumuri
 mission-topics-include-support-products = Subiectele includ suport, produse și tehnologii
 mission-governance = Administrație
+mission-our-structure-organization-and-the-v2 = Structura, organizația și comunitatea largă { -brand-name-mozilla }

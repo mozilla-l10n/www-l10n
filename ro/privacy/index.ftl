@@ -21,6 +21,7 @@ privacy-index-data-privacy-principles = Principii de confidențialitate a datelo
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = <a href="{ $principles }">Principiile { -brand-name-mozilla } de confidențialitate a datelor</a> ne ghidează practicile de respect și protecție pentru persoanele care folosesc internetul. Află cum modelează aceste principii { -brand-name-firefox } și toate produsele noastre în secțiunea de <a href="{ $faq }">întrebări adresate frecvent</a>.
 privacy-index-transparency-report = Raport de transparență
+privacy-index-get-involved = Implică-te
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = Ca proiect cu sursă deschisă, transparența și deschiderea reprezintă o parte esențială a principiilor fondatoare de { -brand-name-mozilla }. Bazele noastre de cod sunt deschise și verificabile. Lucrările noastre de dezvoltare sunt deschise. <a href="{ $report }">Raportul de transparență</a> bianual ne demonstrează devotamentul față de aceste principii.
@@ -33,3 +34,9 @@ privacy-index-read-more-about-our-ongoing = Citește mai multe despre eforturile
 privacy-index-outdated-policies = Politici depășite
 privacy-index-mozilla-websites-communications = Site-uri, comunicări și cookie-uri { -brand-name-mozilla }
 privacy-index-firefox-browser = { -brand-name-firefox-browser(case: "definite-article", capitalization: "upper") }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-mdn-plus = { -brand-name-mdn-plus }
+privacy-index-mozilla-subscription-services = Servicii de abonare { -brand-name-mozilla }
+# This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".
+privacy-index-mozilla-accounts = Conturi { -brand-name-mozilla }

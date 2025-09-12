@@ -7,6 +7,8 @@ send-to-device-your-download-link = A fost trimis linkul pentru descărcare.
 send-to-device-please-enter-an-email = Introdu o adresă de e-mail.
 send-to-device-an-error-occured = A apărut o eroare în sistemul nostru. Te rugăm să încerci din nou mai târziu.
 send-to-device-enter-your-email = Introdu adresa ta de e-mail
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = numeletău@exemplu.com
 send-to-device-send = Trimite
 send-to-device-intended-recipient-email = Destinatarul mesajului prin e-mail trebuie să își fi dat consimțământul.
 send-to-device-check-your-device-email = Verifică dispozitivul pentru mesajul trimis prin e-mail!
