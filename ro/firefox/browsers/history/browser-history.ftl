@@ -9,7 +9,7 @@ browser-history-browser-history = Istoric în browser: Luptele epice pentru pute
 browser-history-the-browser-wars-underdogs-giants = Războaiele browserelor, lupta dintre oprimați și giganți și momentele care au schimbat lumea. Citește despre istoria browserului web.
 browser-history-the-history-of-web = Istoria browserelor web
 browser-history-world-history-is = Istoria lumii este plină de lupte epice pentru putere, tirani care au cucerit lumea și eroi oprimați. Istoria browserelor web nu diferă. Pionierii universitari au scris software simplu care a declanșat o revoluție informațională și o luptă pentru superioritatea browserelor și pentru utilizatorii de internet.
-browser-history-before-web-era = Înainte de era web-ului
+browser-history-before-web-era = Înainte de era webului
 browser-history-in-1950-computers = În 1950, computerele ocupau încăperi întregi și erau mai proaste decât calculatoarele de buzunar de astăzi. Dar progresul a fost rapid, iar până în 1960 erau capabile să ruleze programe complexe. Guvernele și universitățile din întreaga lume au crezut că ar fi minunat dacă mașinile ar putea vorbi, încurajând colaborarea și descoperirile științifice.
 # Variables:
 #   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
@@ -18,7 +18,7 @@ browser-history-that-sparked-a-revolution = A declanșat o revoluție în domeni
 browser-history-web-era = Era Web
 # Variables:
 #   $cern (url) - https://home.cern/topics/birth-web
-browser-history-british-computer = Informaticianul britanic Tim Berners-Lee a creat primul server web și browser web grafic în 1990, în timp ce <a href="{ $cern }">lucra la CERN</a>, Organizația Europeană pentru Cercetare Nucleară, din Elveția. El a numit noua sa fereastră către internet „WorldWideWeb”. Era o interfață grafică ușor de utilizat, creată pentru computerul NeXT. Pentru prima dată, documentele text au fost legate între ele printr-o rețea publică — web-ul așa cum îl știm.
+browser-history-british-computer = Informaticianul britanic Tim Berners-Lee a creat primul server web și browser web grafic în 1990, în timp ce <a href="{ $cern }">lucra la CERN</a>, Organizația Europeană pentru Cercetare Nucleară, din Elveția. El a numit noua sa fereastră către internet „WorldWideWeb”. Era o interfață grafică ușor de utilizat, creată pentru computerul NeXT. Pentru prima dată, documentele text au fost legate între ele printr-o rețea publică — webul așa cum îl știm.
 browser-history-a-year-later-berners = Un an mai târziu, Berners-Lee i-a cerut studentei la matematică Nicola Pellow de la CERN să scrie programul Line Mode Browser, pentru terminale de calculator de bază.
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
