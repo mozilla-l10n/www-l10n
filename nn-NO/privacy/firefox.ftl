@@ -8,7 +8,7 @@
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Grunnleggjande om personvern
 privacy-firefox-youre-in-control = Du har kontrollen
-privacy-firefox-privacy-isnt-just = Personvern er ikkje berre ei innstilling – det er din rett. Personvernerklæringa for { -brand-name-firefox } er bygd på klarheit, kontroll og ansvarlege standardinnstillingar. Vi meiner at du alltid bør ha kontroll over kva som skjer med dataa dine. Du kan stole på at vi tydeleg forklarar kva { -brand-name-firefox } gjer som standard og justerer innstillingane dine slik at du kan surfe slik du vil.
+privacy-firefox-privacy-isnt-just = Personvern er ikkje berre ei innstilling – det er din rett. Personvernfråsegna for { -brand-name-firefox } er bygd på klarheit, kontroll og ansvarlege standardinnstillingar. Vi meiner at du alltid bør ha kontroll over kva som skjer med dataa dine. Du kan stole på at vi tydeleg forklarar kva { -brand-name-firefox } gjer som standard og justerer innstillingane dine slik at du kan surfe slik du vil.
 privacy-firefox-read-our-privacy = Les personvernfråsegna vår
 privacy-firefox-keeping-you-informed = Held deg informert, kvart steg på vegen
 privacy-firefox-we-believe-you = Vi meiner du bør vite korleis dataa dine blir brukte og kvifor. { -brand-name-firefox } er bygd med personvern i tankane og openheit i kvart steg.

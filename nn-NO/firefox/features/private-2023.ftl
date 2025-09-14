@@ -21,4 +21,4 @@ features-private-what-information-does-firefox = Kva for informasjon samlar { -b
 features-private-mozilla-the-maker-of-firefox = { -brand-name-mozilla } (produsenten av { -brand-name-firefox }) tek personvern på største alvor. <strong>Svært alvorleg</strong>. Faktum er at kvart { -brand-name-firefox }-produkt vi lagar heidrar <a href="{ $url }">løftet vårt om personlege opplysningar</a>: Ta mindre. Hald det trygt. Ingen løyndommar.
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/privacy/firefox/
-features-private-read-firefoxs-privacy-notice = Les <a href="{ $url }">{ -brand-name-firefox } si personvernerklæring</a> for meir informasjon. Seriøst, sjekk det. Ho er i faktisk i normalstor skrift.
+features-private-read-firefoxs-privacy-notice = Les <a href="{ $url }">{ -brand-name-firefox } si personvernfråsegn</a> for meir informasjon. Seriøst, sjekk det. Ho er i faktisk i normalstor skrift.
