@@ -35,3 +35,4 @@ mobile-ios-open-a-new-v2 = Embojuruja tendayke pyahu { -brand-name-firefox }-pe 
 mobile-ios-about-mozilla = { -brand-name-mozilla } rehegua
 # Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } iñapysẽ ojapo hag̃ua Ñanduti oiporukuaátava opavave roguerovia rupi ijuruja ha reiguáramo iporãveha oñemboty ha oñemohekochi’ĩrangue. Romoheñói upévare { -brand-name-firefox } ha { -brand-name-pocket } romomba’évo jeporavo, tekosakã ha ñema’ẽmeme.
+mobile-ios-mozilla-exists-to-v2 = { -brand-name-mozilla } iñapysẽ ojapo hag̃ua ñanduti oiporukuaátava opavave roguerovia rupi ijuruja ha hekosãsóramo iporãveha oñemboty ha oñemohekochi’ĩrangue. Romoheñói upévare { -brand-name-firefox } romomba’évo jeporavo, tekosakã ha ñema’ẽmeme.
