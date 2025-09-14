@@ -31,6 +31,7 @@ mobile-ios-get-search-suggestions = Eguerekóta mba’eichaitépa ehekáta pe je
 mobile-ios-discover-more-of = Ehechakuaa umi ehecharamovéva
 # Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = Embojuruja tendayke pyahu { -brand-name-firefox }-pe ehecha hag̃ua umi tenda eikeveha, nde rechaukaha ramovegua ha jehapyre ojehechavéva { -brand-name-pocket }-pe. { -brand-name-firefox } ne moinge pya’étava tendakuéra eiporuramovévape ne pytyvõ hag̃ua ehekávape.
+mobile-ios-open-a-new-v2 = Embojuruja tendayke pyahu { -brand-name-firefox }-pe ehecha hag̃ua tenda eikeveha ha nde rechaukaha ramovegua. { -brand-name-firefox } ne moinge pya’evéta tendakuéra eiporuramovévape ne pytyvõ hag̃ua ehekáva ipya’eve hag̃ua.
 mobile-ios-about-mozilla = { -brand-name-mozilla } rehegua
 # Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = { -brand-name-mozilla } iñapysẽ ojapo hag̃ua Ñanduti oiporukuaátava opavave roguerovia rupi ijuruja ha reiguáramo iporãveha oñemboty ha oñemohekochi’ĩrangue. Romoheñói upévare { -brand-name-firefox } ha { -brand-name-pocket } romomba’évo jeporavo, tekosakã ha ñema’ẽmeme.

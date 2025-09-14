@@ -35,6 +35,7 @@ mobile-android-pop-videos-out = Enohẽ ta’ãngamýi ñanduti rendágui térã
 mobile-android-about-mozilla = { -brand-name-mozilla } rehegua
 # Obsolete string (expires 26-10-2025)
 mobile-android-mozilla-exists-to = { -brand-name-mozilla } iñapysẽ ojapo hag̃ua Ñanduti oiporukuaátava opavave roguerovia rupi ijuruja ha hekosãsóramo iporãveha oñemboty ha oñemohekochi’ĩrangue. Romoheñói upévare { -brand-name-firefox } ha { -brand-name-pocket } romomba’évo jeporavo, tekosakã ha ñema’ẽmeme.
+mobile-android-mozilla-exists-to-v2 = { -brand-name-mozilla } iñapysẽ ojapo hag̃ua ñanduti oiporukuaátava opavave roguerovia rupi ijuruja ha hekosãsóramo iporãveha oñemboty ha oñemohekochi’ĩrangue. Romoheñói upévare { -brand-name-firefox } romomba’évo jeporavo, tekosakã ha ñema’ẽmeme.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = Ñandutí jeike { -brand-name-firefox } ndive { -brand-name-android } peg̃uarã
 mobile-android-see-all-your-open-tabs = Ema’ẽ ne rendayke ijurujávare, eheka ramovéva ha tenda erohoryvéva peteĩ tendápe año { -brand-name-firefox } kundahára { -brand-name-android } peg̃uarã ndive.
