@@ -36,7 +36,7 @@ privacy-faq-v2-softballs = Ok, det var dei enkle spørsmåla. Kva for opplysning
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
-privacy-faq-v2-mozilla-does-collect = { -brand-name-mozilla } samlar inn eit avgrensa sett med data som standard frå { -brand-name-firefox } som hjelper oss å forstå korleis folk brukar nettlesaren. Du kan lese meir om dette i personvernerklæringa <a { $privacy }>vår</a> og lese <a { $data }>fullstendig dokumentasjon for den datainnsamlinga</a>. Vi offentleggjer også dokumentasjonen vår slik at alle kan stadfeste at det vi seier er sant, fortelje oss om vi treng å forbetre oss, og ha tillit til at vi ikkje skjuler noko.
+privacy-faq-v2-mozilla-does-collect = { -brand-name-mozilla } samlar inn eit avgrensa sett med data som standard frå { -brand-name-firefox } som hjelper oss å forstå korleis folk brukar nettlesaren. Du kan lese meir om dette i personvernfråsegna <a { $privacy }>vår</a> og lese <a { $data }>fullstendig dokumentasjon for den datainnsamlinga</a>. Vi offentleggjer også dokumentasjonen vår slik at alle kan stadfeste at det vi seier er sant, fortelje oss om vi treng å forbetre oss, og ha tillit til at vi ikkje skjuler noko.
 privacy-faq-v2-do-you-collect = Samlar de inn fleire data i dei tidlege test-utgåvene av { -brand-name-firefox }?
 privacy-faq-v2-sort-of = På ein måte. I tillegg til dataa beskrivne ovanfor, tek vi imot krasj- og feilrapportar som standard i tidlege testutgivingar av { -brand-name-firefox }.
 # Variables:

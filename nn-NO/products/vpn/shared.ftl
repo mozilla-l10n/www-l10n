@@ -12,7 +12,7 @@ vpn-shared-waitlist-link = Set deg på venteliste
 vpn-shared-money-back-guarantee = 30-dagar pengane-tilbake-garanti
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = 30-dagars pengane-tilbake-garanti
-vpn-shared-privacy-notice = Personvernerklæring
+vpn-shared-privacy-notice = Personvernfråsegn
 vpn-shared-terms-conditions = Generelle vilkår
 vpn-shared-wireguard-copyright = { -brand-name-wireguard } er eit registrert varemerke for Jason A. Donenfeld
 

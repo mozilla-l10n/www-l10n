@@ -41,6 +41,6 @@ cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } bruka
 
 ## Privacy section
 
-cookie-settings-privacy-heading = Personvernerklæringa vår
-cookie-settings-privacy-desc = Om du vil ha meir detaljert informasjon om dei ulike typane informasjon som { -brand-name-mozilla } samlar inn når du besøkjer nettstadane våre, finn du ei lenkje til personvernerklæringa vår nedanfor.
+cookie-settings-privacy-heading = Personvernfråsegna vår
+cookie-settings-privacy-desc = Om du vil ha meir detaljert informasjon om dei ulike typane informasjon som { -brand-name-mozilla } samlar inn når du besøkjer nettstadane våre, finn du ei lenkje til personvernfråsegna vår nedanfor.
 cookie-settings-privacy-policy-link = Personvernpraksis

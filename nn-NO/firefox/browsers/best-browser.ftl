@@ -36,7 +36,7 @@ best-browser-trackers-are-all-those = Sporarar er alle dei irriterande «informa
 best-browser-another-way-to-stop = Ein annan måte å stoppe sporarar frå å spore er å bruke privat modus for å surfe. Alle nettlesarar som hevdar å vere private, bør tilby surfing i privat modus.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-best-browser-one-easy-way-to-check = Ein enkel måte å sjekke på er å besøkje  innstillingssida for innhald til nettlesaren, og personvernreglar. Personvern-nettsida bør angi om dataa dine blir delte og kvifor. Det er derfor <a href="{ $privacy }">{ -brand-name-firefox } personvernerklæringa</a> er lett å lese og lett å finne.
+best-browser-one-easy-way-to-check = Ein enkel måte å sjekke på er å besøkje  innstillingssida for innhald til nettlesaren, og personvernreglar. Personvern-nettsida bør angi om dataa dine blir delte og kvifor. Det er derfor <a href="{ $privacy }">{ -brand-name-firefox } personvernfråsegna</a> er lett å lese og lett å finne.
 best-browser-choosing-the-best-browser = Å velje den beste nettlesaren for deg er omtrent som å velje ein heim. Du vil utforske alternativa dine, gjere litt research og ta ei avgjerd basert på kva som er viktig for deg.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
