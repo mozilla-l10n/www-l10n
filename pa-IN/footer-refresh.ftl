@@ -9,6 +9,7 @@ footer-refresh-mozilla-advertising = { -brand-name-mozilla } ਇਸ਼ਤਿਹਾ�
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
 footer-refresh-learn-more-about-mozilla-advertising = <span>{ footer-refresh-mozilla-advertising } ਬਾਰੇ</span> ਹੋਰ ਜਾਣੋ
 footer-refresh-firefox-release-notes = { -brand-name-firefox } ਰੀਲਿਜ ਨੋਟਿਸ
+footer-refresh-privacy-first = ਬਰੈਂਡ, ਪ੍ਰਕਾਸ਼ਕਾਂ ਅਤੇ ਪਲੇਟਫਾਰਮਾਂ ਲਈ ਪਰਦੇਦਾਰੀ-ਪਹਿਲਾਂ ਨਾਲ ਇਸ਼ਤਿਹਾਰਬਾਜ਼ੀ ਦੇ ਤਰੀਕੇ।
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } ਨੂੰ ਫ਼ਾਲੋ ਕਰੋ
 footer-refresh-instagram = Instagram
@@ -25,6 +26,7 @@ footer-refresh-support = ਸਹਿਯੋਗ
 footer-refresh-product-help = ਉਤਪਾਦ ਮਦਦ
 footer-refresh-file-a-bug = ਬੱਗ ਦੀ ਜਾਣਕਾਰੀ ਦਿਓ
 footer-refresh-localize-mozilla = { -brand-name-mozilla } ਦਾ ਅਨੁਵਾਦ ਕਰੋ
+footer-refresh-security = ਸੁਰੱਖਿਆ
 footer-refresh-developers = ਡਿਵੈਲਪਰ
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
@@ -32,6 +34,7 @@ footer-refresh-tools = ਟੂਲ
 footer-refresh-donate = ਦਾਨ ਦਿਓ
 # Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> ਦੇ ਗ਼ੈਰ-ਫਾਇਦਾ ਮੂਲ <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> ਨੂੰ ਵੇਖੋ।
+footer-refresh-visit-mozilla-corporations-v2 = <a { $moco_link }>{ -brand-name-mozilla-corporation } ਦੇ</a> ਗ਼ੈਰ-ਫਾਇਦੇਮੰਦ ਆਧਾਰ <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> ਨੂੰ ਵੇਖੋ।
 footer-refresh-portions-of-this-content = ਇਸ ਸਮੱਗਰੀ ਦੇ ਹਿੱਸੇ ©1998–{ $current_year } ਲਈ ਨਿੱਜੀ mozilla.org ਯੋਗਦਾਨ ਕੋਲ ਹਨ। ਸਮੱਗਰੀ <a rel="license" { $href }>{ -brand-name-creative-commons } ਲਸੰਸ</a> ਦੇ ਅਧੀਨ ਉਪਲਬਧ ਹੈ।
 footer-refresh-websites-privacy-notice = ਵੈੱਬਸਾਈਟ ਪਰਦੇਦਾਰੀ ਨੋਟਿਸ
 footer-refresh-websites-cookies = ਕੂਕੀਜ਼

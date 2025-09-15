@@ -27,6 +27,7 @@ m24-home-get-the-gold = ਸਪੀਡ, ਪਰਦੇਦਾਰੀ ਅਤੇ ਕੰ�
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-go-chaosfree-with = ਤੁਹਾਡੇ ਸਾਰੇ ਈਮੇਲਾਂ, ਕੈਲੰਡਰ ਅਤੇ ਸੰਪਰਕਾਂ ਲਈ ਇੱਕ ਐਪ ਰਾਹੀਂ ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਨੂੰ ਸੌਖਾ ਬਣਾਓ।
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
+m24-home-keep-your-location = ਆਪਣੇ ਟਿਕਾਣੇ ਅਤੇ ਆਨਲਾਈਨ ਮੌਜੂਦਗੀਆਂ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਰੱਖੋ — ਕਿਸੇ ਵੀ ਥਾਂ ਲੋਕਲ ਵਾਗੂੰ ਹੀ ਸਟਰੀਮ ਕਰੋ।
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 
@@ -34,6 +35,8 @@ m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 # Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = { -brand-name-mozilla } ਗ਼ੈਰ-ਫਾਇਦੇ ਨੂੰ ਦਾਨ ਦਿਓ
+m24-home-donate-to-v2 = { -brand-name-mozilla-foundation } ਨੂੰ ਦਾਨ ਦਿਓ
+m24-home-were-proudly-nonprofit = ਅਸੀਂ ਮਾਣ ਨਾਲ ਗ਼ੈਰ-ਮੁਨਾਫਾ ਕੰਪਨੀ ਹੈ। ਕੀ ਤੁਸੀਂ ਅੱਜ { -brand-name-mozilla } ਨੂੰ ਦਾਨ ਦਿਓਂਗੇ?
 m24-home-donate = ਦਾਨ ਦਿਓ
 
 ## AI gallery
@@ -45,7 +48,11 @@ m24-home-tag-event = ਈਵੈਂਟ
 m24-home-read-more = ਹੋਰ ਪੜ੍ਹੋ
 m24-home-get-started = ਸ਼ੁਰੂ ਕਰੀਏ
 m24-home-join-the-movement = ਮੁਹਿੰਮ ਵਿੱਚ ਹਿੱਸਾ ਲਵੋ:<br> ਲੋਕਾਂ ਲਈ AI
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = { -brand-name-solo-ai } ਲੋਗੋ
+m24-home-solo-ai = { -brand-name-solo-ai }
 m24-home-alt-builders = ਬਿਲਡਰ
+m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } ਬਿਲਡਰ
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 # Used as an accessible text alternative for an image
@@ -76,6 +83,8 @@ m24-home-headline-you-ai-v2 = ਤੁਹਾਡੀ, AI ਅਤੇ ਇੰਟਰਨ�
 ## Showcase
 
 m24-home-rise25-awards = { -brand-name-rise25 } ਇਨਾਮ
+m24-home-watch-the-award = ਇਨਾਮ ਸ਼ੋਅ ਵੇਖੋ
+m24-home-state-of-mozilla = { -brand-name-mozilla } ਦੀ ਸਥਿਤੀ
 m24-home-read-the-report = ਰਿਪੋਰਟ ਨੂੰ ਪੜ੍ਹੋ
 
 ## Issues

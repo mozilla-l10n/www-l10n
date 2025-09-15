@@ -19,3 +19,4 @@ not-found-page-download-the-firefox-browser = ਆਪਣੇ ਮੋਬਾਈਲ �
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 # Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = { -brand-name-mozilla-foundation } ਨੂੰ <a { $donate }>ਦਾਨ ਦਿਓ</a> ਅਤੇ ਵੱਡੀਆਂ ਕੰਪਨੀਆਂ ਤੋਂ ਇੰਟਰਨੈੱਟ ਨੂੰ ਬਚਾਓ।
+not-found-page-donate-to-mozilla-reclaim-from-v2 = { -brand-name-mozilla-foundation } ਨੂੰ <a { $donate }>ਦਾਨ ਦਿਓ</a> ਅਤੇ ਵੱਡੀਆਂ ਕੰਪਨੀਆਂ ਤੋਂ ਇੰਟਰਨੈੱਟ ਨੂੰ ਵਾਪਸ ਹਾਸਲ ਕਰੋ।
