@@ -21,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = ਹੋਰ ਵੀ ਨਵਾਂ { -brand-name-firefox } ਮੌਜੂਦ ਹੈ। <a { $update_url }>ਨਵੇਂ ਵਰਜ਼ਨ ਲਈ ਅੱਪਡੇਟ ਕਰੋ।</a>
 firefox-desktop-download-get-the-browser = ਉਹ ਬਰਾਊਜ਼ਰ ਲਵੋ, ਜੋ ਕਿ ਜ਼ਰੂਰੀ ਚੀਜ਼ਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਦਾ ਹੈ
 firefox-desktop-download-fast-reliable-private = ਤੇਜ਼, ਭਰੋਸੇਯੋਗ ਅਤੇ ਪ੍ਰਾਈਵੇਟ — ਆਨਲਾਈਨ ਮਨ ਦੇ ਸਕੂਨ ਲਈ।
+firefox-desktop-set-as-default = { -brand-name-firefox } ਨੂੰ ਆਪਣਾ ਡਿਫਾਲਟ ਬਰਾਊਜ਼ਰ ਬਣਾਓ।
 firefox-desktop-download-download-options = ਡਾਊਨਲੋਡ ਚੋਣਾਂ ਤੇ ਹੋਰ ਭਾਸ਼ਾਵਾਂ
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } ਸਹਿਯੋਗ
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

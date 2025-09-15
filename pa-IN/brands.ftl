@@ -87,6 +87,7 @@
 
 ## Anonym
 
+-brand-name-anonym = ਅਣਪਛਾਤਾ
 
 ## Mozilla projects
 

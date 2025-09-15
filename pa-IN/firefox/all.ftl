@@ -34,6 +34,7 @@ firefox-all-64-bit-installers = 64-ਬਿੱਟ ਇੰਸਟਾਲਰ
 firefox-all-choose-a-64-bit-installer = 64-ਬਿੱਟ ਪਰੋਸੈਸਰ ਵਾਲੇ ਕੰਪਿਊਟਰਾਂ ਲਈ 64-ਬਿੱਟ ਇੰਸਟਾਲਰ ਦੀ ਚੋਣ ਕਰੋ, ਜੋ ਕਿ ਉਹਨਾਂ ਨੂੰ ਵੱਖਰੇ ਪਰੋਗਰਾਮਾਂ ਲਈ ਵਧੇਰੇ RAM ਨਿਰਧਾਰਤ ਕਰਨ ਦੀ ਮਨਜੂਰੀ ਦਿੰਦਾ ਹੈ — ਖੇਡਾਂ ਅਤੇ ਹੋਰ ਮੰਗਾਂ ਵਾਲੇ ਕਾਰਜਾਂ ਲਈ ਵਿਸ਼ੇਸ਼ ਤੌਰ ਤੇ ਮਹੱਤਵਪੂਰਨ।
 firefox-all-32-bit-installers = 32-ਬਿੱਟ ਇੰਸਟਾਲਰ
 firefox-all-microsoft-store-installers = Microsoft ਸਟੋਰ
+firefox-all-choose-a-microsoft-store-installer = ਇਹ ਚੋਣ Microsoft Store ਵੈੱਬ ਪੋਰਟਲ ਵਿੱਚ { -brand-name-firefox } ਉਤਪਾਦ ਨੂੰ ਖੋਲ੍ਹੇਗੀ। ਜੇ ਤੁਸੀਂ ਵਿੰਡੋਜ਼ 10 ਜਾਂ ਵਿੰਡੋਜ਼ 11 ਵਰਤ ਰਹੇ ਹੋ ਤਾਂ ਇਹ ਚੋਣ ਇਸ ਸਫ਼ੇ ਤੋਂ Microsoft Store ਨੂੰ ਖੋਲ੍ਹੇਗੀ ਅਤੇ { -brand-name-firefox } ਨੂੰ ਇੰਸਟਾਲ ਕਰੇਗੀ। ਜੇ ਤੁਸੀਂ Microsoft Store ਤੋਂ ਇੰਸਟਾਲ ਕੀਤਾ ਹੈ ਤਾਂ { -brand-name-firefox } ਲਈ ਅੱਪਡੇਟ Microsoft Store ਰਾਹੀਂ ਕੀਤੇ ਜਾਣਗੇ। ਜਦੋਂ Microsoft Store ਤੋਂ ਇੰਸਟਾਲ ਕਰਦੇ ਹੋ ਤਾਂ { -brand-name-firefox } ਦੇ ਰਵੱਈਏ ਅਤੇ ਸਮਰੱਥਾ ਵਿੱਚ ਥੋੜ੍ਹਾ ਜਿਹਾ ਫ਼ਰਕ ਹੁੰਦਾ ਹੈ, ਪਰ ਬਹੁਤੇ ਵਰਤੋਂਕਾਰਾਂ ਨੂੰ ਪਤਾ ਵੀ ਨਹੀਂ ਲੱਗੇਗਾ।
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = { $esr_version } ਡਾਊਨਲੋਡ ਕਰੋ
@@ -41,6 +42,8 @@ firefox-all-download-esr-version = { $esr_version } ਡਾਊਨਲੋਡ ਕਰ
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = ਅਸੀਂ ਵੱਡੇ ESR ਵਰਜ਼ਨ { $esr_current_major } ਤੋਂ { $esr_next_major } ਲਈ ਤਬਾਦਲੇ ਦੀ ਸਥਿਤੀ ਵਿੱਚ ਹਾਂ।
+firefox-all-esr-when-there-is = ਜਦੋਂ ਵੀ ਵੱਡਾ ਵਰਜ਼ਨ ਅੱਪਡੇਟ ਆਉਂਦਾ ਹੈ ਤਾਂ ਕੁਝ { -brand-name-firefox-esr } ਰੀਲਿਜ਼ ਲਈ ਨਾਲ ਨਾਲ ਚਲਦਾ ਹੈ ਤਾਂ ਕਿ ਪੁਰਾਣਾ ਵਰਜ਼ਨ ਵਰਤਣ ਵਾਲੇ ਲੋਕਾਂ ਨੂੰ ਨਵੇਂ ਵਰਜ਼ਨ ਵਾਸਤੇ ਤਿਆਰੀ ਲਈ ਮੌਕਾ ਮਿਲ ਜਾਵੇ।
+firefox-all-esr-if-you-choose = ਜੇ ਤੁਸੀਂ ਪੁਰਾਣੇ ESR ਵਰਜ਼ਨ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਨ ਦੀ ਚੋਣ ਕੀਤੀ ਤਾਂ ਤਬਾਦਲੇ ਦਾ ਸਮਾਂ ਪੂਰਾ ਹੋਣ ਉਪਰੰਤ ਤੁਹਾਡੇ ਵਰਜ਼ਨ ਨੂੰ ਆਪਣੇ-ਆਪ ਨਵੇਂ ਲਈ ਅੱਪਡੇਟ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ।
 # Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
 firefox-all-esr-read-more = <a { $attrs }>{ -brand-name-firefox-esr } ਰੀਲਿਜ਼ ਲੜੀ</a> ਬਾਰੇ ਹੋਰ ਪੜ੍ਹੋ।
@@ -77,3 +80,4 @@ firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-n
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
 firefox-all-download-esr-115 = ESR 115 ਡਾਊਨਲੋਡ ਕਰੋ
+firefox-all-note-unsupported = ਸੂਚਨਾ: ਜੇਕਰ ਤੁਸੀਂ Windows 7, Windows 8, Windows 8.1, ਜਾਂ macOS 10.12, 10.13 ਜਾਂ 10.14 ਵਰਤ ਰਹੇ ਹੋ, ਤਾਂ { -brand-name-firefox } ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ESR 115 ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ।
