@@ -7,6 +7,8 @@
 
 # HTML page title
 firefox-products-mozilla-products = ຜະລິດຕະພັນຂອງ { -brand-name-mozilla }
+# HTML page description
+firefox-products-mozillas-family-of-products = ຜະລິດຕະພັນໃນຄອບຄົວຂອງ { -brand-name-mozilla } ລ້ວນແຕ່ຖືກອອກແບບເພື່ອໃຫ້ທ່ານປອດໄພ ແລະ ສະຫຼາດກວ່າອອນໄລນ໌
 firefox-products-products = ຜະລິດຕະພັນ
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } ແມ່ນພຽງແຕ່ການເລີ່ມຕົ້ນ.
 firefox-products-mozillas-family-of-products-sentence = ຜະລິດຕະພັນໃນຄອບຄົວຂອງ { -brand-name-mozilla } ລ້ວນແຕ່ຖືກອອກແບບເພື່ອໃຫ້ທ່ານປອດໄພ ແລະ ສະຫຼາດກວ່າອອນລາຍ.
@@ -14,6 +16,7 @@ firefox-products-mozillas-family-of-products-sentence = ຜະລິດຕະພ
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
+firefox-products-get-the-browser-that-blocks = ເອົາຕົວທ່ອງເວັບທີ່ບລັອກ 2000+ ຕົວຕິດຕາມຂໍ້ມູນອັດຕະໂນມັດ. ການ​ປົກ​ປ້ອງ​ການ​ຕິດ​ຕາມ​ທີ່​ປັບ​ປຸງ​ມາ​ເປັນ​ມາດ​ຕະ​ຖານ​ໃນ​ທຸກ​ຕົວ​ທ່ອງ​ເວັບ { -brand-name-firefox }.
 
 ## Focus
 
