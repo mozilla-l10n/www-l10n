@@ -67,6 +67,7 @@ m24-home-watch-now = ເບິ່ງດຽວນີ້
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = ນັກສຳມະນາກອນຢູ່ເທິງເວທີທີ່ມີໂລໂກ້ຜະລິດຕະພັນຫຼາຍອັນ.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice = ບໍລິຈາກສຽງຂອງທ່ານ
 
 ## Media Springboard
@@ -88,4 +89,13 @@ m24-home-kids-are-growing = ເດັກນ້ອຍກໍາລັງເຕີ�
 
 m24-home-rise25-awards = { -brand-name-rise25 } ລາງວັນ
 m24-home-watch-the-award = ຊົມການສະແດງລາງວັນ
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = ເປັນກຽດທີ່ໜ້າຍິນດີທີ່ { -brand-name-rise25 }.
 m24-home-state-of-mozilla = ສະຖານະຂອງ { -brand-name-mozilla }
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = ສິລະປະ pixels ລວງທີ່ບໍ່ມີຕົວຕົນໃນຮົ່ມສີຂຽວ, ສີສົ້ມ ແລະ ສີບົວ
+m24-home-read-the-report = ອ່ານບົດລາຍງານ
+
+## Issues
+
+m24-home-irl-listen-now = ຟັງດຽວນີ້
