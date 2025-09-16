@@ -9,6 +9,8 @@
 vpn-or-proxy-the-difference-between = Diferența dintre un VPN și un proxy web
 # HTML page description and intro
 vpn-or-proxy-vpns-and-proxies-are = VPN-urile și proxy-urile sunt soluții pentru confidențialitatea și securitatea online. Iată cum te protejează și cum să alegi cea mai bună opțiune.
+vpn-or-proxy-virtual-private-networks = Rețelele private virtuale (VPN) și proxy-urile web securizate sunt soluții pentru o mai bună confidențialitate și securitate online, dar poate fi dificil să-ți dai seama care dintre ele este pentru tine. Iată cum te protejează aceste servicii și cum să alegi cea mai bună opțiune când ești online.
+vpn-or-proxy-stop-isps-from = Împiedică ISP-urile să te spioneze
 # Variables
 #   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
 #   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
