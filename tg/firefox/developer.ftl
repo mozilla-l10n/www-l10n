@@ -55,6 +55,7 @@ firefox-developer-new-tools = Абзорҳои нав
 firefox-developer-inactive-css = «CSS»-и ғайрифаъол
 firefox-developer-firefox-devtools-now-grays-out = Акнун { -brand-name-firefox-devtools } эъломияҳои «CSS»-ро, ки ба саҳифа таъсир намерасонанд бо ранги хокистарӣ ҷудо мекунанд. Вақте ки шумо ба болои нишонаи иттилоот нишондиҳандаи мушро мегузоред, шумо паёми муфидро дар бораи он, ки чаро «CSS» истифода намешавад, мебинед, аз он ҷумла, ба шумо дар бораи роҳи ислоҳ кардани мушкилӣ маслиҳат пешниҳод карда мешавад.
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
+firefox-developer-the-new-firefox-devtools = Маҷмуи нави { -brand-name-firefox-devtools } пуриқтидор, ҳаматарафа ва дорои имкониятҳои беҳтарини барномарезӣ мебошад. Он ислоҳкунандаи беҳтарини «JavaScript»-ро дар бари мегирад, ки метавонад якчанд браузерро фаро гирад ва дар асоси «React» ва «Redux» сохта шудааст.
 firefox-developer-master-css-grid = Идоракунии тарҳи «CSS»
 firefox-developer-master-innovative-features = Хусусиятҳои инноватсионӣ
 firefox-developer-faster-innovation = Маълумоти тезкор
