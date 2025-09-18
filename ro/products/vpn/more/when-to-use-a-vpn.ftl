@@ -17,6 +17,12 @@ vpn-when-to-use-encrypting-your-traffic = Criptarea traficului dintre tine și f
 vpn-when-to-use-having-a-vpn = A avea un VPN la îndemână când ai nevoie de el este o idee bună. Iată câteva situații în care un VPN de încredere îți va fi util și la care poate nu te-ai gândit.
 vpn-when-to-use-1-a-walk = 1. O plimbare în parc
 vpn-when-to-use-its-a-beautiful = E o dimineață frumoasă de sâmbătă și te-ai așezat pe o bancă în parc ca să savurezi o cafea și să te pui la curent cu site-urile tale de știri preferate, să te uiți la câteva videoclipuri și să faci rapid niște cumpărături online, în timp ce te bucuri de soare și aer curat. În loc să-ți consumi datele mobile alocate, te conectezi la serviciul public de WiFi al orașului. Este gratuit și administrat de oraș, așa că trebuie să fie în regulă, nu? Adevărul este că nu poți fi sigur(ă) că rețeaua municipală este securizată sau chiar reală (vezi punctul următor) și configurată să te protejeze de persoane sau entități rău intenționate care te spionează în timp ce ești conectat(ă). Activarea unui VPN te poate ajuta să-ți protejezi dispozitivul de oricine încearcă să spioneze site-urile pe care intri sau să-ți fure informații sensibile de conectare în timp ce stai pe banca din parc în orice zi a săptămânii.
+vpn-when-to-use-2-in-the = 2. În cartier
+vpn-when-to-use-3-on-the = 3. În deplasare
+vpn-when-to-use-4-home-away = 4. Acasă departe de casă
+vpn-when-to-use-5-in-your = 5. În propria casă
+vpn-when-to-use-make-sure-you = Asigură-te că înțelegi ce nu face un VPN
+vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, un serviciu VPN de încredere
 # Variables
 #   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
 #   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
