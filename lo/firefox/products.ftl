@@ -44,6 +44,7 @@ firefox-products-get-mozilla-vpn = ເອົາ { -brand-name-mozilla-vpn }
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = ຊັບພະຍາກອນສໍາລັບນັກພັດທະນາ, ໂດຍນັກພັດທະນາ. ສະຫນັບສະຫນູນ { -brand-name-mdn } ແລະ ເຮັດໃຫ້ມັນເປັນຂອງຕົນເອງດ້ວຍການລວບລວມ, ການແຈ້ງເຕືອນ, ແລະສະຫນາມເດັກຫຼິ້ນ.
 firefox-products-support-mdn = ສະຫນັບສະຫນູນ { -brand-name-mdn }
 
 ## Thunderbird
