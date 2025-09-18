@@ -8,7 +8,7 @@ vpn-pricing-page-title = Preise – { -brand-name-mozilla-vpn }
 vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
 
 # HTML page title
-vpn-pricing-one-subscription = Ein Abonnement für alle Ihre Geräte
+vpn-pricing-one-subscription = Ein Abonnement für all deine Geräte
 
 # Pricing section
 vpn-pricing-included-in-subscription = Die Abonnementkosten umfassen Folgendes:
