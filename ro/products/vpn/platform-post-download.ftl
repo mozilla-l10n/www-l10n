@@ -7,15 +7,10 @@
 ### URL: https://www-dev.allizom.org/products/vpn/download/windows/thanks
 
 
-## Windows download page
-
-
-## Mac download page
-
-
-## Shared strings
-
-
 ## FAQ Strings
 
 vpn-download-faq-need-help = Ai nevoie de ajutor la început?
+vpn-download-faq-need-more = Ai nevoie de mai mult ajutor?
+# Variables
+#   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
+vpn-download-faq-support = Poți contacta echipa noastră de asistență direct din aplicația { -brand-name-mozilla-vpn }, dând clic pe Setări > Obține ajutor > Contactează asistența. De asemenea, ne poți contacta <a href="{ $support }">pe pagina noastră de asistență</a>.

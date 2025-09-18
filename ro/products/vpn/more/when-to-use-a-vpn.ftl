@@ -12,6 +12,11 @@ vpn-when-to-use-here-are-five = Iată cinci situații în care un VPN de încred
 # Variables
 #   $vpn (url) - https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
 vpn-when-to-use-as-more-of = Pe măsură ce viața de zi cu zi se desfășoară prin conexiuni la internet, problemele de confidențialitate și securitate devin și mai importante. O rețea VPN — <a href="{ $vpn }">rețea privată virtuală</a> — poate ajuta pe oricine să creeze o conexiune privată și sigură la internet. Funcționează prin crearea unui „tunel” securizat între dispozitivul tău și internet în general și te protejează în două moduri importante:
+vpn-when-to-use-concealing-your-true = Ascunderea adresei IP reale, ceea ce îți protejează identitatea și îți ascunde locația.
+vpn-when-to-use-encrypting-your-traffic = Criptarea traficului dintre tine și furnizorul de VPN, astfel încât nimeni din rețeaua ta locală să nu îl poată descifra sau modifica.
+vpn-when-to-use-having-a-vpn = A avea un VPN la îndemână când ai nevoie de el este o idee bună. Iată câteva situații în care un VPN de încredere îți va fi util și la care poate nu te-ai gândit.
+vpn-when-to-use-1-a-walk = 1. O plimbare în parc
+vpn-when-to-use-its-a-beautiful = E o dimineață frumoasă de sâmbătă și te-ai așezat pe o bancă în parc ca să savurezi o cafea și să te pui la curent cu site-urile tale de știri preferate, să te uiți la câteva videoclipuri și să faci rapid niște cumpărături online, în timp ce te bucuri de soare și aer curat. În loc să-ți consumi datele mobile alocate, te conectezi la serviciul public de WiFi al orașului. Este gratuit și administrat de oraș, așa că trebuie să fie în regulă, nu? Adevărul este că nu poți fi sigur(ă) că rețeaua municipală este securizată sau chiar reală (vezi punctul următor) și configurată să te protejeze de persoane sau entități rău intenționate care te spionează în timp ce ești conectat(ă). Activarea unui VPN te poate ajuta să-ți protejezi dispozitivul de oricine încearcă să spioneze site-urile pe care intri sau să-ți fure informații sensibile de conectare în timp ce stai pe banca din parc în orice zi a săptămânii.
 # Variables
 #   $cnet (url) - https://www.cnet.com/news/why-you-should-be-skeptical-about-a-vpns-no-logs-claims/
 #   $pcmag (url) - https://www.pcmag.com/news/7-vpn-services-found-recording-user-logs-despite-no-log-pledge
