@@ -9,7 +9,7 @@
 vpn-what-is-what-is-a-vpn = Ce este un VPN?
 # HTML page description and intro
 vpn-what-is-get-answers-to-nine = Obține răspunsuri la nouă întrebări frecvente despre VPN-uri, astfel încât să te simți informat(ă) despre ce fac, când să folosești unul și de ce.
-vpn-what-is-many-of-us = Mulți dintre noi stăm mai multe ore pe zi folosind internetul pentru lucruri de zi cu zi, cum ar fi vizionarea de videoclipuri, cumpărături, jocuri și plata facturilor, până la gestionarea de proiecte de lucru complexe și efectuarea de apeluri video confidențiale. O **Rețea Privată Virtuală (VPN)** este una dintre cele mai bune modalități de a rămâne confidențiali și în siguranță online și de a îți proteja datele personale.
+vpn-what-is-many-of-us = Mulți dintre noi stăm mai multe ore pe zi folosind internetul pentru lucruri de zi cu zi, cum ar fi vizionarea de videoclipuri, cumpărături, jocuri și plata facturilor, până la gestionarea de proiecte de lucru complexe și efectuarea de apeluri video confidențiale. O <strong>Rețea Privată Virtuală (VPN)</strong> este una dintre cele mai bune modalități de a rămâne confidențiali și în siguranță online și de a îți proteja datele personale.
 vpn-what-is-how-do-vpns = Cum funcționează VPN-urile?
 vpn-what-is-a-vpn-is = Un VPN este un instrument care îți permite să accesezi internetul în siguranță, oriunde te-ai afla. Un VPN funcționează prin crearea unui „tunel” securizat între dispozitivul tău și furnizorul de VPN și te protejează în două moduri cheie:
 vpn-what-is-concealing-your-ip = Ascunderea adresei IP, protejarea identității și a locației.
