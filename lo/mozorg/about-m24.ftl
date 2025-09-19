@@ -7,6 +7,8 @@
 
 # HTML Page title
 m24-about-page-title = ຮຽນຮູ້ກ່ຽວກັບ { -brand-name-mozilla }
+# HTML page description
+m24-about-page-desc = { -brand-name-mozilla } ເຮັດໃຫ້ຕົວທ່ອງເວັບ, ແອັບ, ລະຫັດ ແລະ ເຄື່ອງມືທີ່ເຮັດໃຫ້ຄົນມີກໍາໄລກ່ອນ. ພາລະກິດຂອງພວກເຮົາ: ຮັກສາອິນເຕີເນັດໃຫ້ເປີດ ແລະ ເຂົ້າເຖິງໄດ້ກັບທຸກຄົນ.
 
 ## Intro
 
@@ -38,6 +40,7 @@ m24-about-builders-program = { -brand-name-mozilla-builders } ຊ່ວຍໃຫ
 m24-about-at-our-rise25 = ໃນລາງວັນ { -brand-name-rise25 } ຂອງພວກເຮົາ, ອະນາຄົດຂອງ AI ມີຄວາມໜ້າເຊື່ອຖື, ລວມໄປເຖິງ ແລະ ຮັບຜິດຊອບ.
 # Used as an accessible text alternative for an image
 m24-about-rise25-award = { -brand-name-rise25 } ຜູ້ຮັບຮາງວັນຊີ້ໄປທີ່ລາງວັນຂອງລາວ.
+m24-about-empowering-chicagos-entrepreneurs = ສ້າງຄວາມເຂັ້ມແຂງໃຫ້ຜູ້ປະກອບການຂອງ Chicago ສໍາລັບການປ່ຽນແປງລຸ້ນ
 # Used as an accessible text alternative for an image
 m24-about-chicago = ຜູ້ປະກອບການຢູ່ Chicago.
 

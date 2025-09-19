@@ -35,6 +35,7 @@ footer-refresh-donate = ບໍລິຈາກ
 # Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = ເຂົ້າໄປເບິ່ງ <a { $moco_link }>{ -brand-name-mozilla-corporation }'s</a> non-for-profit parent, the <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-visit-mozilla-corporations-v2 = ເຂົ້າໄປເບິ່ງ <a { $moco_link }>{ -brand-name-mozilla-corporation }'s</a> non-for-profit parent, the <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
+footer-refresh-portions-of-this-content = ບາງສ່ວນຂອງເນື້ອຫານີ້ແມ່ນ ©1998–{ $current_year } ໂດຍຜູ້ປະກອບສ່ວນຂອງ mozilla.org ສ່ວນບຸກຄົນ. ເນື້ອຫາສາມາດໃຊ້ໄດ້ພາຍໃຕ້ໃບອະນຸຍາດ <a rel="license" { $href }>{ -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = ປະກາດຄວາມເປັນສ່ວນຕົວຂອງເວັບໄຊທ໌
 footer-refresh-websites-cookies = ຄຸກກີ້
 footer-refresh-websites-legal = ຂໍ້ກົດຫມາຍ
