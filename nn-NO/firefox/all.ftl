@@ -65,10 +65,10 @@ firefox-all-testflight = Registrer deg for å teste { -brand-name-firefox } for 
 firefox-all-product-send-link = Send ei nedlastingslenke til telefonen din
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
-firefox-all-choose-a-32-bit-installer = Vel eit 32-bit installasjonsprogram for datamaskiner med 32-bit prosessorar — eller til eldre, mindre kraftfulle datamaskiner. <a href="{ $url }">Viss du ikkje er sikker på</a> , om du skal velje eit 64-bit- eller et 32-bit-installasjonsprogram, anbefalar vi, at du vel 32-bit.
+firefox-all-choose-a-32-bit-installer = Vel eit 32-bit installasjonsprogram for datamaskiner med 32-bit prosessorar — eller til eldre, mindre kraftfulle datamaskiner. <a href="{ $url }">Viss du ikkje er sikker på</a> om du skal velje eit 64-bit- eller et 32-bit-installasjonsprogram, anbefalar vi, at du vel 32-bit.
 firefox-all-msi-installers = MSI-installerar
 firefox-all-select-your-preferred-language = Vel føretrekt språk
-firefox-all-learn-about-installers = Les meir om installasjonsprogram
+firefox-all-learn-about-installers = Les meir om installasjonsprogramma
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
