@@ -55,7 +55,7 @@ related-questions-safe = Întrebări similare: este { -brand-name-firefox } bun 
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
 why-is-firefox = De ce este { -brand-name-firefox } atât de lent?
-firefox-isnt-slow = { -brand-name-firefox } nu este lent... acum. În 2017, am reconstruit complet motorul browserului nostru (numit Quantum), pentru a ne asigura că { -brand-name-firefox } poate concura cu alte browsere importante. În plus, datorită elementelor antiurmărire, paginile se încarcă și mai repede. Așadar, { -brand-name-firefox } este extrem de rapid, fără a-ți sacrifica confidențialitatea.
+firefox-isnt-slow = { -brand-name-firefox } nu este lent… acum. În 2017, am reconstruit complet motorul browserului nostru (numit Quantum), pentru a ne asigura că { -brand-name-firefox } poate concura cu alte browsere importante. În plus, datorită elementelor antiurmărire, paginile se încarcă și mai repede. Așadar, { -brand-name-firefox } este extrem de rapid, fără a-ți sacrifica confidențialitatea.
 is-firefox-chromium = { -brand-name-firefox } e bazat pe { -brand-name-chromium }?
 firefox-is-not = { -brand-name-firefox } nu se bazează pe { -brand-name-chromium } (proiectul de browser cu sursă deschisă din centrul { -brand-name-google } { -brand-name-chrome }). De fapt, suntem unul dintre ultimele browsere importante care nu o face. { -brand-name-firefox } rulează pe motorul nostru de browser Quantum, construit special pentru { -brand-name-firefox }, astfel încât să ne putem asigura că datele tale sunt gestionate cu respect și păstrate private.
 does-firefox-use = { -brand-name-firefox } folosește { -brand-name-google }?

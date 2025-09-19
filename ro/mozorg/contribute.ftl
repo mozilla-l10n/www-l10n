@@ -11,7 +11,7 @@
 contribute-page-title = Oportunități de voluntariat la { -brand-name-mozilla }
 contribute-page-heading = Talentele tale sunt necesare pentru un internet mai bun
 contribute-page-intro = { -brand-name-mozilla } este o organizație non-profit care își propune să se asigure că accesul la internet este deschis și primitor pentru toți. Avem nevoie de ajutorul tău. Dacă intri în comunitatea noastră, poți contribui la stimularea inovației, creșterea responsabilizării și încrederii și la transformarea internetului într-un loc mai bun pentru toți.
-contribute-how-heading = Cum poți contribui...
+contribute-how-heading = Cum poți contribui…
 
 ## Contribution tasks
 
