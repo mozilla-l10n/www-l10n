@@ -55,11 +55,13 @@ manifesto-details-as-a-result-of = ຜົນຂອງຄວາມພະຍາຍ
 manifesto-details-the-goals-for = ເປົ້າໝາຍສຳລັບ Manifesto ແມ່ນເພື່ອ:
 # Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = ປະກາດວິໄສທັດສໍາລັບອິນເຕີເນັດທີ່ຜູ້ເຂົ້າຮ່ວມ { -brand-name-mozilla } ຕ້ອງການ { -brand-name-mozilla-foundation } ດໍາເນີນການ;
+manifesto-details-articulate-a-vision-v2 = ປະກາດວິໄສທັດສໍາລັບອິນເຕີເນັດທີ່ຜູ້ເຂົ້າຮ່ວມ { -brand-name-mozilla } ຕ້ອງການ { -brand-name-mozilla-foundation } ດໍາເນີນການ;
 manifesto-details-speak-to-people = ເວົ້າກັບຄົນບໍ່ວ່າຈະມີພື້ນຖານດ້ານວິຊາການ ຫຼື ບໍ່;
 manifesto-details-make-mozilla-contributors = ເຮັດໃຫ້ຜູ້ປະກອບສ່ວນ { -brand-name-mozilla } ພູມໃຈໃນສິ່ງທີ່ພວກເຮົາກຳລັງເຮັດ ແລະກະຕຸ້ນພວກເຮົາໃຫ້ສືບຕໍ່; ແລະ
 manifesto-details-provide-a-framework = ສ້າງກອບສໍາລັບຄົນອື່ນເພື່ອກ້າວຫນ້າວິໄສທັດຂອງອິນເຕີເນັດນີ້.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = ຫຼັກການເຫຼົ່ານີ້ຈະບໍ່ມາສູ່ຊີວິດຂອງຕົນເອງ. ປະຊາຊົນແມ່ນມີຄວາມຈໍາເປັນເພື່ອເຮັດໃຫ້ອິນເຕີເນັດເປີດ ແລະ ມີສ່ວນຮ່ວມ - ບຸກຄົນທີ່ເຮັດຫນ້າທີ່ເປັນບຸກຄົນ, ເຮັດວຽກຮ່ວມກັນເປັນກຸ່ມ, ແລະ ນໍາພາຄົນອື່ນ. { -brand-name-mozilla-foundation } ມຸ່ງໝັ້ນທີ່ຈະກ້າວໄປສູ່ຫຼັກການທີ່ກຳນົດໄວ້ໃນ { -brand-name-mozilla } Manifesto. ພວກເຮົາເຊີນຄົນອື່ນໃຫ້ເຂົ້າຮ່ວມກັບພວກເຮົາ ແລະ ເຮັດໃຫ້ອິນເຕີເນັດເປັນບ່ອນທີ່ດີກວ່າສໍາລັບທຸກຄົນ.
+manifesto-details-these-principles-v2 = ຫຼັກການເຫຼົ່ານີ້ຈະບໍ່ມາສູ່ຊີວິດຂອງຕົນເອງ. ປະຊາຊົນແມ່ນມີຄວາມຈໍາເປັນເພື່ອເຮັດໃຫ້ອິນເຕີເນັດເປີດ ແລະ ມີສ່ວນຮ່ວມ - ບຸກຄົນທີ່ເຮັດຫນ້າທີ່ເປັນບຸກຄົນ, ເຮັດວຽກຮ່ວມກັນເປັນກຸ່ມ, ແລະ ນໍາພາຄົນອື່ນ. { -brand-name-mozilla-foundation } ມຸ່ງໝັ້ນທີ່ຈະກ້າວໄປສູ່ຫຼັກການທີ່ກຳນົດໄວ້ໃນ { -brand-name-mozilla } Manifesto. ພວກເຮົາເຊີນຄົນອື່ນໃຫ້ເຂົ້າຮ່ວມກັບພວກເຮົາ ແລະ ເຮັດໃຫ້ອິນເຕີເນັດເປັນບ່ອນທີ່ດີກວ່າສໍາລັບທຸກຄົນ.
 manifesto-details-principles = ຫຼັກການ
 manifesto-details-the-internet-is-integral = ອິນ​ເຕີ​ເນັດ​ເປັນ​ສ່ວນ​ໜຶ່ງ​ຂອງ​ຊີ​ວິດ​ທີ່​ທັນ​ສະ​ໄໝ—ເປັນ​ອົງ​ປະ​ກອບ​ທີ່​ສຳ​ຄັນ​ໃນ​ການ​ສຶກ​ສາ, ການ​ສື່​ສານ, ການ​ຮ່ວມ​ມື, ທຸ​ລະ​ກິດ, ການ​ບັນ​ເທີງ ແລະ ​ສັງ​ຄົມ​ລວມ.
 manifesto-details-the-internet-is-global = ອິນເຕີເນັດແມ່ນຊັບພະຍາກອນສາທາລະນະທົ່ວໂລກທີ່ຕ້ອງເປີດຢູ່ ແລະ ສາມາດເຂົ້າເຖິງໄດ້.
