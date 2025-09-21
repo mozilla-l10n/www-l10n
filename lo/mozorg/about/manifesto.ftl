@@ -78,6 +78,7 @@ manifesto-details-there-are-many = ມີຫຼາຍວິທີທີ່ຈະ
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } ສັນຍາ
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } ສັນຍາວ່າຈະສະຫນັບສະຫນູນ { -brand-name-mozilla } Manifesto ໃນກິດຈະກໍາຂອງມັນ. ໂດຍສະເພາະ, ພວກເຮົາຈະ:
+manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation } ສັນຍາວ່າຈະສະຫນັບສະຫນູນ { -brand-name-mozilla } Manifesto ໃນກິດຈະກໍາຂອງມັນ. ໂດຍສະເພາະ, ພວກເຮົາຈະ:
 manifesto-details-build-and-enable = ກໍ່ສ້າງ ແລະເປີດໃຊ້ເຕັກໂນໂລຢີແຫຼ່ງເປີດ ແລະຊຸມຊົນທີ່ສະຫນັບສະຫນູນຫຼັກການຂອງ Manifesto;
 manifesto-details-build-and-deliver = ສ້າງແລະສົ່ງຜະລິດຕະພັນຜູ້ບໍລິໂພກທີ່ຍິ່ງໃຫຍ່ທີ່ສະຫນັບສະຫນູນຫຼັກການຂອງ Manifesto;
 manifesto-details-use-the-mozilla = ໃຊ້ຊັບສິນຂອງ { -brand-name-mozilla } (ຊັບສິນທາງປັນຍາເຊັ່ນ: ລິຂະສິດ ແລະເຄື່ອງໝາຍການຄ້າ, ໂຄງສ້າງພື້ນຖານ, ກອງທຶນ ແລະຊື່ສຽງ) ເພື່ອຮັກສາອິນເຕີເນັດໃຫ້ເປັນເວທີເປີດ;
@@ -85,6 +86,8 @@ manifesto-details-promote-models = ຊຸກຍູ້​ບັນດາ​ຮູ
 manifesto-details-promote-the-mozilla = ສົ່ງເສີມຫຼັກການຂອງ { -brand-name-mozilla } Manifesto ໃນການສົນທະນາສາທາລະນະ ແລະ ພາຍໃນອຸດສາຫະກໍາອິນເຕີເນັດ.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = ບາງກິດຈະກໍາຂອງມູນນິທິ—ປະຈຸບັນແມ່ນການສ້າງ, ການຈັດສົ່ງ ແລະ ການສົ່ງເສີມຜະລິດຕະພັນຜູ້ບໍລິໂພກ—ແມ່ນດໍາເນີນການຕົ້ນຕໍໂດຍຜ່ານບໍລິສັດຍ່ອຍທີ່ເປັນເຈົ້າຂອງທັງໝົດຂອງ { -brand-name-mozilla-foundation }, the { -brand-name-mozilla-corporation }.
+manifesto-details-some-foundation-v2 = ບາງກິດຈະກໍາຂອງມູນນິທິ—ປະຈຸບັນແມ່ນການສ້າງ, ການຈັດສົ່ງ ແລະ ການສົ່ງເສີມຜະລິດຕະພັນຜູ້ບໍລິໂພກ—ແມ່ນດໍາເນີນໂດຍຫຼັກຜ່ານບໍລິສັດຍ່ອຍຂອງ { -brand-name-mozilla-foundation }, the { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = ການເຊື້ອເຊີນ
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } ເຊີນຜູ້ອື່ນໆທີ່ສະຫນັບສະຫນູນຫຼັກການຂອງ { -brand-name-mozilla } Manifesto ເຂົ້າຮ່ວມກັບພວກເຮົາ, ແລະຊອກຫາວິທີໃຫມ່ເພື່ອເຮັດໃຫ້ວິໄສທັດຂອງອິນເຕີເນັດນີ້ກາຍເປັນຈິງ.
+manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } ເຊີນຜູ້ອື່ນໆທີ່ສະໜັບສະໜູນຫຼັກການຂອງ { -brand-name-mozilla } Manifesto ເຂົ້າຮ່ວມກັບພວກເຮົາ, ແລະ ຄົ້ນຫາວິທີໃໝ່ໆເພື່ອເຮັດໃຫ້ວິໄສທັດຂອງອິນເຕີເນັດນີ້ເປັນຈິງ.
