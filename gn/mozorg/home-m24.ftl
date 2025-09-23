@@ -17,6 +17,8 @@ m24-home-page-desc-v2 = Ore romba’apo opytakuaa hag̃uáicha yvypóra ñanduti
 m24-home-welcome-to-mozilla = ¡Eg̃uahẽporã { -brand-name-mozilla }-pe!
 m24-home-from-trustworthy-tech = Tembiporupyahu jeroviaha guive porureko omo’ãva nde derécho peve, nde reñemotenonde — tapiaite.
 m24-home-learn-about-us = Eikuaave ore rehegua
+# Used as accessible text alternative for image
+m24-home-alt-flag = Poyvi hovyũ iporãvéva tugua hũva ári, ojejapova tai ‘M’ guive { -brand-name-mozilla } rehegua ha píxel oñembohasáva ojehechauka hag̃ua dinosaurio ypykue ra’ãnga’i.
 
 ## Products
 
