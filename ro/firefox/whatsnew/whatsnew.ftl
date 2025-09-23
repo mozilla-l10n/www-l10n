@@ -13,7 +13,5 @@ whatsnew-update-notification = { -brand-name-firefox } a fost actualizat.
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes-v2 = Citește <a { $url }>Notele de lansare</a> pentru a afla mai multe despre ce este nou în browserul { -brand-name-firefox }.
 whatsnew-signoff = <strong>Susținut de { -brand-name-mozilla }.</strong> Punem oamenii mai presus de profit din 1998.
-# Obsolete string (expires 10-08-2025)
-whatsnew-donate-to-mofo = Donează către { -brand-name-mozilla-foundation }
 whatsnew-donate-to-mofo-v2 = Donează către { -brand-name-mozilla-foundation }
 whatsnew-thanks-for-choosing = Îți mulțumim că ai ales { -brand-name-firefox }

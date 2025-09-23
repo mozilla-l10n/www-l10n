@@ -13,7 +13,5 @@ whatsnew-update-notification = Το { -brand-name-firefox } σας έχει εν
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes-v2 = Διαβάστε τις <a { $url }>Σημειώσεις έκδοσης</a> για να μάθετε περισσότερα σχετικά με το τι νέο υπάρχει στο πρόγραμμα περιήγησης { -brand-name-firefox }.
 whatsnew-signoff = <strong>Με την υποστήριξη της { -brand-name-mozilla }.</strong> Από το 1998, βάζουμε τους ανθρώπους πάνω από τα κέρδη.
-# Obsolete string (expires 10-08-2025)
-whatsnew-donate-to-mofo = Κάντε δωρεά στο { -brand-name-mozilla-foundation }
 whatsnew-donate-to-mofo-v2 = Δωρεά στο { -brand-name-mozilla-foundation }
 whatsnew-thanks-for-choosing = Ευχαριστούμε που επιλέξατε το { -brand-name-firefox }
