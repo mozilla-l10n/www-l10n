@@ -54,7 +54,7 @@ history-the-renewed-competition = Den fornya konkurransesituasjonen på marknade
 #   $firefoxos (url) link to https://support.mozilla.org/products/firefox-os
 history-in-2013-we-launched-firefox = I 2013 lanserte vi <a href="{ $firefoxos }">{ -brand-name-firefox-os }</a> for at smarttelefoner skal kunne utnytte det fulle potensialet til nettet og tilby personleg kontroll og valfridom til ein ny generasjon på nettet.
 history-mozilla-also-celebrated = I 2013 feira dessutan { -brand-name-mozilla } 15 år.
-history-the-community-has-shown = Felleskapet har vist at komersielle føretak kan dra nytte av å samarbeide i open kjeldekode-prosjekt, og at store produkt for sluttbrukarar kan produserast som programvare med open kjeldekode.
+history-the-community-has-shown = Fellesskapet har vist at komersielle føretak kan dra nytte av å samarbeide i open kjeldekode-prosjekt, og at store produkt for sluttbrukarar kan produserast som programvare med open kjeldekode.
 # Variables:
 #   $all (url) link to https://www.mozilla.org/firefox/all/
 history-more-people-than-ever-before = Fleire enn nokon gong tidlegare brukar nettet, og opplever det <a href="{ $all }">på sitt eige språk</a>.
