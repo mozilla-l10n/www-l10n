@@ -55,11 +55,13 @@ manifesto-details-as-a-result-of = Ko’ã ñeha’ã rupive, rojapohína heta m
 manifesto-details-the-goals-for = Umi hupytyrã je’epyre rehegua ha’e:
 # Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = emboaje ñanduti rembiecha { -brand-name-mozilla } poruhára oipotáva ohapykuehóva { -brand-name-mozilla-foundation };
+manifesto-details-articulate-a-vision-v2 = emboaje ñanduti rembiecha { -brand-name-mozilla } poruharakuéra oipotáva ohapykuehóva { -brand-name-mozilla-foundation };
 manifesto-details-speak-to-people = ñoñmongeta opavave ndive, oikuaa térã ndoikuaáiramo jepe aporeko;
 manifesto-details-make-mozilla-contributors = rohechase { -brand-name-mozilla } pytyvõharakuérape cherovúpe rojapóva rehe ha kóva tomokyre’ỹ jeku’erã; ha
 manifesto-details-provide-a-framework = eme’ẽ kyta ñepyrũha ambue tapicha omboha’eve hag̃ua Ñanduti rembiapo.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Ko’ã ypygua ndoikomo’ãi ha’eñorei. Oñeikotevẽ tapicháre oiko hag̃ua ñandutígui pa’ũ ijurujáva ha ojeikekuaahápe, ava omba’apóva ha’eño ha heta ndive, ha tapicha moakãhára. Ko { -brand-name-mozilla-foundation } oñeha’ãta oku’e tenonde gotyo he’ihácha { -brand-name-mozilla } je’epyre. Roipepirũ opavave oikesévape guive orendive ha, péicha, jajapo hag̃ua ñandutígui tenda iporãvéva tapichakuérape g̃uarã.
+manifesto-details-these-principles-v2 = Ko’ã ypygua ndoikomo’ãi ha’eñorei. Oñeikotevẽ tapicháre oiko hag̃ua ñandutígui pa’ũ ijurujáva ha ojeikekuaahápe, ava omba’apóva ha’eño ha heta ndive, ha tapicha moakãhára. Ko { -brand-name-mozilla-foundation } oñeha’ãta oku’e tenonde gotyo he’ihácha { -brand-name-mozilla } je’epyre. Roipepirũ opavave oikesévape guive orendive ha, péicha, jajapo hag̃ua ñandutígui tenda iporãvéva tapichakuérape g̃uarã.
 manifesto-details-principles = Ñepyrũgua
 manifesto-details-the-internet-is-integral = Ñanduti ha’e tekotevẽpy tuicháva teko ko’ag̃aguápe — tekotevẽtereíva kuaapýpe g̃uarã, ñomongetarã, ñepytyvõrã, ñemũrã, ñembosarairã ha ava’aty opavavete oikehápe.
 manifesto-details-the-internet-is-global = Ñanduti ha’e peteĩ mba’e ava rembiporu arapyguápe g̃uarã ijurujáva ha jeikekuaaha.
@@ -76,6 +78,7 @@ manifesto-details-there-are-many = Heta hendáicha ikatu ñaipytyvõ okakuaa hag
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } Ñe’ẽme’ẽ
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } oipytyvõta añetahápe { -brand-name-mozilla } je’epyre ndive. Ja’eporãvo, roñeha’ãta rojapo ko’ãva:
+manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation } oipytyvõta añetahápe { -brand-name-mozilla } je’epyrépe. Ja’eporãtavo, roñeha’ãta rojapo ko’ãva:
 manifesto-details-build-and-enable = Romoheñói ha rome’ẽta tembiporupyahu ijurujáva ha ava’aty oipytyvõva Mozilla je’epy;
 manifesto-details-build-and-deliver = emoheñói ha emoasãi tembiapokue iporãva omboajéva Mozilla je’epy;
 manifesto-details-use-the-mozilla = { -brand-name-mozilla } mba’e jeporu (imba’ete apopyre, copyright ha imárka teéva, imba’eguereko, iviru ha iñemohu’ãngue) ñanduti ijuruja hag̃ua rekávo;
