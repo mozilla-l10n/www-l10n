@@ -33,3 +33,10 @@ vpn-launch-the-app = 2. Стартирайте приложението
 vpn-login-or-signup = 3. Влезте или се регистрирайте
 vpn-enter-your-email = Въведете имейл адреса си, за да влезете или да се регистрирате и да започнете
 vpn-turn-on-vpn = 4. Включете VPN-a
+vpn-install-firefox-extension = 5. Инсталирайте разширението { -brand-name-firefox }
+
+## FAQ Strings
+
+vpn-download-faq-need-help = Имате ли нужда от помощ, за да започнете?
+vpn-download-faq-here-are-some = Ето някои от най-честите въпроси относно настройката на { -brand-name-mozilla-vpn }
+vpn-download-faq-why-use = Защо да използвам { -brand-name-mozilla-vpn }?
