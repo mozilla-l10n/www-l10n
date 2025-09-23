@@ -34,6 +34,7 @@ footer-refresh-tools = Tembiporu
 footer-refresh-donate = Ñeme’ẽ
 # Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = Visita a la empresa matriz sin fines de lucro de <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>-pe.
+footer-refresh-visit-mozilla-corporations-v2 = Eike mba’apohaguasu viru’ỹgua <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> rehegua, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Ko tetepy vore oreko apohare derécho ©1998–{ $current_year } mozilla.org pytyvõhára peteĩteĩvagui. Pe tetepy ejuhúta ko’ápe <a rel="license" { $href }>{ -brand-name-creative-commons } moneĩmbýpe</a>.
 footer-refresh-websites-privacy-notice = Ñanduti renda marandu’i ñemigua
 footer-refresh-websites-cookies = Kookie
