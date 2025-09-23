@@ -35,7 +35,7 @@ firefox-enterprise-admx-templates = ADMX-malar
 firefox-enterprise-deployment-guide = Rettleiar for distribusjon på system
 firefox-enterprise-policy-documentation = Policy-dokumentasjon
 firefox-enterprise-release-notes = Versjonsnotat
-firefox-enterprise-documentation-and-community = Dokumentasjon og støtte frå felleskapet
+firefox-enterprise-documentation-and-community = Dokumentasjon og støtte frå fellesskapet
 # Variables:
 #   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Døme <a href="{ $url }">plist-fil for konfigurasjonsprofil</a>
