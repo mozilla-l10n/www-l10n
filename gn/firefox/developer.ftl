@@ -81,3 +81,4 @@ firefox-developer-mdn-write-test-and-share = Ehai, eiporu ha emoherakuã nde ayv
 firefox-developer-mdn-blog = { -brand-name-mdn } Blog
 firefox-developer-mdn-unlock-the-world = Eikuaa ñanduti ñemboguatagua { -brand-name-mdn } blog ndive: nde eikuaaséva marandu ikatupyrýva rehegua, ñanduti rekotee ha programación ñe’ẽporãgua.
 firefox-developer-mdn-updates = Ñembohekopyahu
+firefox-developer-mdn-the-web-doesnt-have = Ñanduti ndorekói ñemoambue rapykuere, hákatu { -brand-name-mdn } ikatu oipytyvõ. Emboheratee ha embogua umi ñemoambue jokupytygua oñemopyendáva kundahára térã tembiporupyahu nde gustávare, taha’e JavaScript, CSS, hamba’e.
