@@ -86,6 +86,7 @@ manifesto-details-promote-models = emongu’e tembiapo emoheñói hag̃ua viruet
 manifesto-details-promote-the-mozilla = emongu’e { -brand-name-mozilla } je’epy rehegua ñe’ẽjovái guasúpe ha ñanduti ryepýpe avei.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Heta tembiapo Atyguasu rehegua —ko’ág̃a ñemoheñói, ñemoasãi ha mba’e ñemoherakuã— ojejapohína { -brand-name-mozilla-foundation } rupive, ha’evahína tuichakue { -brand-name-mozilla-corporation } mba’etee.
+manifesto-details-some-foundation-v2 = Heta tembiapo Atyguasu reheguáva (ko’ág̃a rupi ñemoheñói, ñemoasãi ha hetave apopyre ñemoherakuã hi’upyrãva) ojejapohína tuichaháicha { -brand-name-mozilla-foundation } mba’ekuéra rupive, { -brand-name-mozilla-corporation } rehegua.
 manifesto-details-invitation = Peipurũ
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } opepirũ opavave tapichápe oipytyvõvo { -brand-name-mozilla } Je’epy jajuajúvo jajuhu hag̃ua jehecha pyahu ñanduti rehegua.
