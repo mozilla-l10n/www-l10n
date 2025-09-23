@@ -15,6 +15,7 @@ what-is-firefox = ¿Mba’épa { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+the-firefox-browser-the-only = Pe { -brand-name-firefox-browser }, ha’éva kundahára tuichavéva oipytyvõva chupe tendaguasu viru’ỹgua, nepytyvõta emo’ãkuaa hag̃ua nde reheguaite marandu. <a href="{ $url }">{ -brand-name-firefox-browsers }</a> ha <a href="{ $url2 }">ambue apopyre.</a>
 how-do-i = ¿Mba’éicha arekokuaa { -brand-name-firefox-browser }?
 
 # Variables:

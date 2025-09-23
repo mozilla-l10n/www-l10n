@@ -36,4 +36,5 @@ cookie-settings-category-analytics-what-are-desc = Ko’ã tembiporupyahu ombyat
 ## Privacy section
 
 cookie-settings-privacy-heading = Ore marandu ñemi rehegua
+cookie-settings-privacy-desc = Ojeikuaave hag̃ua marandu opaichagua { -brand-name-mozilla } rehegua oñembyatyva’ekue eike jave ore ñanduti roguépe, ikatu ejuhu peteĩ juajuha ore marandu’i ñemigua rehegua eku’ejeývo.
 cookie-settings-privacy-policy-link = Marandu’i ñemiguáva
