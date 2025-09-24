@@ -8,7 +8,7 @@ send-to-device-please-enter-an-email = Prošu zapodajće e-mejlowu adresu.
 send-to-device-an-error-occured = W našim systemje je zmylk wustupił. Prošu spytajće pozdźišo hišće raz.
 send-to-device-enter-your-email = Zapodajće swoju e-mejlowu adresu
 # Only localize "yourname". Do not change "@example.com".
-send-to-device-email-placeholder = wašemjeno@example.com
+send-to-device-email-placeholder = wasemjeno@example.com
 send-to-device-send = Pósłać
 send-to-device-intended-recipient-email = Wotpohladany přijimar e-mejlki dyrbi přezjedny być.
 send-to-device-check-your-device-email = Přepytujće swój grat za e-mejlku!

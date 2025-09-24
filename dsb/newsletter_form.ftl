@@ -9,7 +9,7 @@ newsletter-form-we-are-sorry-but-there = Bóžko jo problem z našym systemom na
 newsletter-form-please-select-country = Wubjeŕśo pšosym kraj abo region
 newsletter-form-please-select-language = Pšosym wubjeŕśo rěc
 # Only localize "yourname". Do not change "@example.com".
-newsletter-form-yournameexamplecom = wašomě@example.com
+newsletter-form-yournameexamplecom = wasome@example.com
 newsletter-form-select-country-or-region = Kraj abo region wubraś
 newsletter-form-select-language = Rěc wubraś
 newsletter-form-your-email-here = WAŠA E-MAILOWA ADRESA

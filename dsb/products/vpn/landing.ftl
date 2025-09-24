@@ -11,7 +11,7 @@ vpn-landing-invite-page-heading = Pśistupśo cakańskej lisćinje VPN
 vpn-landing-invite-email-label = Kótara jo waša e-mailowa adresa?
 vpn-landing-invite-required-label = Trjebny
 # Only localize "yourname". Do not change "@example.com".
-vpn-landing-invite-email-placeholder = wašomě@example.com
+vpn-landing-invite-email-placeholder = wasome@example.com
 vpn-landing-invite-country-label = W kótarem kraju sćo žywy?
 vpn-landing-invite-language-label = Wubjeŕśo swóju preferěrowanu rěc.
 # Variables:
