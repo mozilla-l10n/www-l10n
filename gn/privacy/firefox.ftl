@@ -23,3 +23,6 @@ privacy-firefox-contents = Tetepykuéra
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-take-me-back = Ejevy <a { $attrs }>ñepyrũme</a> marandu’i ñemiguáva
+# Variables:
+#   $attrs (string) - in-page link to the top of the page
+privacy-firefox-lost-in-the = ¿Ekañy mba’emimípe? Ejevy <a { $attrs }>{ -brand-name-firefox }</a> reko ñemigua reheguápe.
