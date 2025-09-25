@@ -21,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Uudempi { -brand-name-firefox } on saatavilla. <a { $update_url }>Päivitä uusimpaan versioon</a>
 firefox-desktop-download-get-the-browser = Hanki tärkeitä asioita suojaava selain
 firefox-desktop-download-fast-reliable-private = Nopea, luotettava ja yksityinen – mielenrauhan takaamiseksi verkossa.
+firefox-desktop-set-as-default = Aseta { -brand-name-firefox } oletusselaimeksesi.
 firefox-desktop-download-download-options = Latausvalinnat ja muut kielet
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser }-tuki
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

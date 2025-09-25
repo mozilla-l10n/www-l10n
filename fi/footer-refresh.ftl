@@ -5,6 +5,7 @@
 footer-refresh-discover-mozilla-products = Tutustu { -brand-name-mozilla }n tuotteisiin ja aloitteisiin. Lupaamme pitää sähköpostisi yksityisenä ja turvassa – ei jakamista, ei kaupustelua, vain upeita päivityksiä.
 footer-refresh-leadership = Johtajisto
 footer-refresh-advertise = Mainosta { -brand-name-mozilla }n avulla
+footer-refresh-mozilla-advertising = { -brand-name-mozilla }-mainonta
 footer-refresh-firefox-release-notes = { -brand-name-firefox }-Julkaisutiedot
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Seuraa @{ -brand-name-mozilla }

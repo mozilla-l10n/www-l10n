@@ -40,6 +40,7 @@ m24-home-mask-your-email = Peitä sähköpostiosoitteesi ja puhelinnumerosi, jot
 
 # Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Lahjoita yleishyödylliselle { -brand-name-mozilla }lle
+m24-home-donate-to-v2 = Lahjoita { -brand-name-mozilla-foundation }ille
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } rakentaa liikettä Internetin palauttamiseksi takaisin. Yhdessä voimme rakentaa tulevaisuuden, jossa yksityisyytemme on suojattu, tekoäly on luotettava ja vastuuttomat teknologiayritykset saatetaan vastuuseen. Se on mahdollista vain, jos teemme sen yhdessä.
 m24-home-were-proudly-nonprofit = Olemme ylpeänä voittoa tavoittelemattomia, yleishyödyllisiä. Lahjoitatko tänään { -brand-name-mozilla }lle?
@@ -55,6 +56,7 @@ m24-home-read-more = Lue lisää
 m24-home-get-started = Aloitetaan
 m24-home-join-the-movement = Liity liikkeeseen:<br> Tekoäly ihmisiä varten
 m24-home-our-mission-is = Tehtävämme on mahdollistaa ihmisten rakentaa ja tehdä yhteistyötä luotettavan, avoimeen lähdekoodiin pohjautuvan tekoälyn parissa.
+m24-home-create-your-website = Luo verkkosivusto ja yhdistä mukautettu verkkotunnuksesi ilmaiseksi
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }in logo.
 m24-home-lumigator = { -brand-name-lumigator }

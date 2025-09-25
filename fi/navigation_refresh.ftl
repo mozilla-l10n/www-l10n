@@ -20,6 +20,8 @@ navigation-refresh-our-mission = Tehtävämme
 navigation-refresh-our-work = Työmme
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
+navigation-refresh-mozilla-advertising = { -brand-name-mozilla }-mainonta
+navigation-refresh-mozilla-new-products = { -brand-name-mozilla }n uudet tuotteet
 
 ## Firefox
 

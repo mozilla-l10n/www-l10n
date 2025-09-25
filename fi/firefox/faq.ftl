@@ -15,6 +15,7 @@ what-is-firefox = Mikä on { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+the-firefox-browser-the-only = { -brand-name-firefox-browser }, ainoa voittoa tavoittelemattoman järjestön tukema merkittävä selain, auttaa sinua suojaamaan henkilökohtaisia tietojasi. Lue lisää: <a href="{ $url }">{ -brand-name-firefox-browsers }</a> ja <a href="{ $url2 }">muut tuotteet.</a>
 how-do-i = Miten { -brand-name-firefox-browser } on mahdollista saada?
 
 # Variables:

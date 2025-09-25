@@ -7,6 +7,8 @@ send-to-device-your-download-link = Latauslinkki lähetettiin.
 send-to-device-please-enter-an-email = Kirjoita kelvollinen sähköpostiosoite.
 send-to-device-an-error-occured = Järjestelmässämme tapahtui virhe. Yritä myöhemmin uudestaan.
 send-to-device-enter-your-email = Kirjoita sähköpostisi
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = nimi@example.com
 send-to-device-send = Lähetä
 send-to-device-intended-recipient-email = Sähköpostin vastaanottajan on täytynyt antaa suostumuksensa.
 send-to-device-check-your-device-email = Tarkista laitteeseen saapunut sähköposti!
