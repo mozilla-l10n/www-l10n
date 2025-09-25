@@ -74,6 +74,7 @@ m24-home-watch-now = Ema’ẽ ko’ág̃a
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Ñe’ẽkuaahára tarímape apopyre ra’ãnga’i ndive.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-got-an-earlystage = ¿Ereko peteĩ jeku’erã ñepyrũ? Ehechauka ne mba’apohaguasu { -brand-name-mozilla-ventures }-pe ha ehupyty viru emongu’e hag̃ua ñemoambue porã IA ha ñanduti renonderã.
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Eme’ẽ ne ñe’ẽ tembiporupyahu ñe’ẽguáva oñakãrapu’ã hag̃ua opavave oiporukuaa hag̃uáicha.
 m24-home-donate-your-voice = Eme’ẽmína nde ayvu
