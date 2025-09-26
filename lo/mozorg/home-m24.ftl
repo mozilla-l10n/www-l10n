@@ -110,6 +110,10 @@ m24-home-rise25-awards = { -brand-name-rise25 } ລາງວັນ
 m24-home-get-to-know = ຮູ້ຈັກກັບຜູ້ນໍາທີ່ພັດທະນາ AI ທີ່ມີຄວາມໜ້າເຊື່ອຖື, ລວມໄປເຖິງ ແລະ ໂປ່ງໃສ ຍ້ອນວ່າເຂົາເຈົ້າວາງມາດຕະຖານໃໝ່ ແລະ ສ້າງແຮງບັນດານໃຈໃຫ້ກັບນັກປະດິດສ້າງລຸ້ນຕໍ່ໄປ.
 m24-home-watch-the-award = ຊົມການສະແດງລາງວັນ
 # Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = ເປັນກຽດເປັນກຽດທີ່ { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = ຜູ້ເວົ້າທີ່ຍິ້ມແຍ້ມແຈ່ມໃສຢູ່ { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = ເປັນກຽດທີ່ໜ້າຍິນດີທີ່ { -brand-name-rise25 }.
 m24-home-state-of-mozilla = ສະຖານະຂອງ { -brand-name-mozilla }
 # Used as an accessible text alternative for an image

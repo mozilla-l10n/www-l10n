@@ -17,3 +17,7 @@ home-read-more = ອ່ານເພີ່ມເຕີມ
 #   $mozai - link to https://mozilla.ai/
 home-at-its-core-v2 = ໂດຍຫຼັກຂອງມັນ, { -brand-name-mozilla } ແມ່ນອົງການຈັດຕັ້ງນັກເຄື່ອນໄຫວທີ່ນຳພາໂດຍ { -brand-name-mozilla-foundation } ທີ່ສ້າງການປ່ຽນແປງໃນໂລກໂດຍຜ່ານບໍລິສັດທີ່ຫຼາກຫຼາຍລວມທັງ { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> ແລະ <a { $mozai } { -brand-name-mozilla }>  { -brand-name-mozilla-ai-v2 } </a>. ພວກເຮົາແຕກຕ່າງກັນແນວໃດ? ເນື່ອງຈາກວ່າພວກເຮົາໄດ້ຮັບການຂັບເຄື່ອນໂດຍພາລະກິດ, ມັນຫມາຍຄວາມວ່າພວກເຮົາມີອິດສະລະໃນການຕັດສິນໃຈຂອງພວກເຮົາທັງຫມົດໂດຍອີງໃສ່ສິ່ງທີ່ດີທີ່ສຸດສໍາລັບອິນເຕີເນັດແລະສໍາລັບທຸກຄົນອອນໄລນ໌, ບໍ່ໄດ້ອີງໃສ່ຄວາມຕ້ອງການຂອງຜູ້ຖືຫຸ້ນ — ພວກເຮົາບໍ່ມີສິ່ງນັ້ນແທ້ໆ.
 home-learn-about-mofo = ຮຽນຮູ້ກ່ຽວກັບ { -brand-name-mozilla-foundation }
+home-join-the-fight = ເຂົ້າຮ່ວມການຕໍ່ສູ້ເພື່ອອິນເຕີເນັດທີ່ມີສຸຂະພາບດີ
+home-your-voice-your-code = ສຽງຂອງທ່ານ. ລະຫັດຂອງທ່ານ. ແນວຄວາມຄິດຂອງທ່ານ. ມີຫຼາຍພັນວິທີທີ່ທ່ານສາມາດປະກອບສ່ວນໃຫ້ກັບ { -brand-name-mozilla }.
+home-volunteer-with-mozilla = ຮ່ວມເປັນອາສາສະໝັກກັບ { -brand-name-mozilla }
+home-that-one-time = ຄັ້ງໜຶ່ງທີ່ພວກເຮົາໄດ້ໃຫ້ລະຫັດແຫຼ່ງທີ່ມາຂອງພວກເຮົາ...
