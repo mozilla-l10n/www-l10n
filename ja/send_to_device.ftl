@@ -7,6 +7,8 @@ send-to-device-your-download-link = ダウンロードリンクが送信され�
 send-to-device-please-enter-an-email = メールアドレスを入力してください。
 send-to-device-an-error-occured = Mozilla のシステムでエラーが発生しました。お手数ですが、後でもう一度試してください。
 send-to-device-enter-your-email = メールアドレスを入力してください
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = yourname@example.com
 send-to-device-send = 送信
 send-to-device-intended-recipient-email = 指定されたメール受領者が事前に同意している必要があります。
 send-to-device-check-your-device-email = デバイスでメールを確認してください。
