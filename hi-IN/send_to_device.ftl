@@ -7,6 +7,8 @@ send-to-device-your-download-link = आपका डाउनलोड लिं
 send-to-device-please-enter-an-email = एक मान्य ईमेल पता दर्ज करें।
 send-to-device-an-error-occured = हमारे सिस्टम में एक गड़बड़ हुई। कृपया बाद में पुनः प्रयास करें।
 send-to-device-enter-your-email = ईमेल दर्ज करें
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = yourname@example.com
 send-to-device-send = भेजें
 send-to-device-intended-recipient-email = ईमेल के अभीष्ट प्राप्तकर्ता की अनुमति होनी चाहिए।
 send-to-device-check-your-device-email = ईमेल के लिए अपना डिवाइस चेक करें!
