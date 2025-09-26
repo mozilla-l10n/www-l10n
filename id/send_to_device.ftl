@@ -7,6 +7,8 @@ send-to-device-your-download-link = Tautan unduhan Anda telah dikirim.
 send-to-device-please-enter-an-email = Silakan masukkan alamat email.
 send-to-device-an-error-occured = Terjadi kesalahan dalam sistem kami. Silakan coba lagi nanti.
 send-to-device-enter-your-email = Masukkan email Anda
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = namaanda@contoh.com
 send-to-device-send = Kirim
 send-to-device-intended-recipient-email = Penerima email yang dituju harus telah menyetujui.
 send-to-device-check-your-device-email = Periksa perangkat Anda untuk mencari email!
