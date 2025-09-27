@@ -11,3 +11,12 @@ gone-page-go-back = Ir atrás
 # Variables:
 #   $home (attr) - attributes to be added to the <a> tag - href="https://mozilla.org"
 gone-page-go-home = Empezá a explorar el sitio desde la <a { $home }>página de inicio</a>.
+# Variables:
+#   $blog (attr) - attributes to be added to the <a> tag - href="https://blog.mozilla.org/"
+gone-page-search-blog = Buscar en el <a { $blog }>blog de { -brand-name-mozilla }</a>.
+# Variables:
+#   $products (attr) - attributes to be added to the <a> tag - href="/products/"
+gone-page-browse-products = Conocé nuestros <a { $products }>productos</a>.
+# Variables:
+#   $support (attr) - attributes to be added to the <a> tag - href="https://support.mozilla.org/"
+gone-page-visit-support = Visitá el <a { $support }>soporte de { -brand-name-mozilla }</a>.
