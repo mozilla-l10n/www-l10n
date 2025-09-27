@@ -11,7 +11,7 @@ vpn-landing-invite-page-heading = Bli med på VPN-ventelista
 vpn-landing-invite-email-label = Kva er e-postadressa di?
 vpn-landing-invite-required-label = Påkravd
 # Only localize "yourname". Do not change "@example.com".
-vpn-landing-invite-email-placeholder = namnetditt@eksempel.com
+vpn-landing-invite-email-placeholder = namnetditt@example.com
 vpn-landing-invite-country-label = Kva land bur du i?
 vpn-landing-invite-language-label = Vel ønskt språk.
 # Variables:
