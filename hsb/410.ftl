@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/410/
 
 page-gone-title = Tuta strona je so wotstroniła
-page-gone-body = Je nam žel, ale tutón wobsah hižo dispoziciji njeje. Móžeće někotrym z našich slědowacych wotkazow slědować, zo byšće dalše aktualne informacije namakał.
+page-gone-body = Je nam žel, ale tutón wobsah hižo k dispoziciji njeje. Móžeće někotrym z našich slědowacych wotkazow slědować, zo byšće dalše aktualne informacije namakał.
 gone-page-go-back = Wróćo
 # Variables:
 #   $home (attr) - attributes to be added to the <a> tag - href="https://mozilla.org"
