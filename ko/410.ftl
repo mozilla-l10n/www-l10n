@@ -11,3 +11,12 @@ gone-page-go-back = 뒤로 가기
 # Variables:
 #   $home (attr) - attributes to be added to the <a> tag - href="https://mozilla.org"
 gone-page-go-home = <a { $home }>홈페이지</a>에서 사이트 탐색을 시작하세요.
+# Variables:
+#   $blog (attr) - attributes to be added to the <a> tag - href="https://blog.mozilla.org/"
+gone-page-search-blog = <a { $blog }>{ -brand-name-mozilla } 블로그</a>를 검색하세요.
+# Variables:
+#   $products (attr) - attributes to be added to the <a> tag - href="/products/"
+gone-page-browse-products = <a { $products }>제품</a>을 살펴보세요.
+# Variables:
+#   $support (attr) - attributes to be added to the <a> tag - href="https://support.mozilla.org/"
+gone-page-visit-support = <a { $support }>{ -brand-name-mozilla } 지원</a>을 방문하세요.
