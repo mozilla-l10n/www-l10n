@@ -11,3 +11,12 @@ gone-page-go-back = Mynd Nôl
 # Variables:
 #   $home (attr) - attributes to be added to the <a> tag - href="https://mozilla.org"
 gone-page-go-home = Dechreuwch archwilio'r wefan o'i <a { $home }>thudalen gartref</a>.
+# Variables:
+#   $blog (attr) - attributes to be added to the <a> tag - href="https://blog.mozilla.org/"
+gone-page-search-blog = Chwiliwch Flog y <a { $blog }>{ -brand-name-mozilla } </a>.
+# Variables:
+#   $products (attr) - attributes to be added to the <a> tag - href="/products/"
+gone-page-browse-products = Porwch ein cynnyrch <a { $products }></a>.
+# Variables:
+#   $support (attr) - attributes to be added to the <a> tag - href="https://support.mozilla.org/"
+gone-page-visit-support = Ewch i Cefnogaeth <a { $support }>{ -brand-name-mozilla } </a>.
