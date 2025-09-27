@@ -7,6 +7,8 @@ send-to-device-your-download-link = Muat turun pautan telah dihantar.
 send-to-device-please-enter-an-email = Sila masukkan alamat e-mel.
 send-to-device-an-error-occured = Ralat berlaku dalam sistem kami. Sila cuba sebentar lagi.
 send-to-device-enter-your-email = Masukkan e-mel anda
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = namaanda@contoh.com
 send-to-device-send = Hantar
 send-to-device-intended-recipient-email = Penerima e-mel yang dimaksudkan mestilah bersetuju.
 send-to-device-check-your-device-email = Periksa peranti anda untuk e-mel!
