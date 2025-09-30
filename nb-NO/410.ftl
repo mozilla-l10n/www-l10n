@@ -15,5 +15,8 @@ gone-page-go-home = Begynn å utforske nettstedet fra <a { $home }>startsiden</a
 #   $blog (attr) - attributes to be added to the <a> tag - href="https://blog.mozilla.org/"
 gone-page-search-blog = Søk på <a { $blog }>{ -brand-name-mozilla }-bloggen</a>.
 # Variables:
+#   $products (attr) - attributes to be added to the <a> tag - href="/products/"
+gone-page-browse-products = Bla gjennom våre <a { $products }>produkter</a>.
+# Variables:
 #   $support (attr) - attributes to be added to the <a> tag - href="https://support.mozilla.org/"
 gone-page-visit-support = Gå til <a { $support }>{ -brand-name-mozilla }-brukerstøtte</a>.
