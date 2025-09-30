@@ -8,3 +8,9 @@
 page-gone-title = Denne siden er fjernet
 page-gone-body = Beklager, men dette innholdet er ikke lenger tilgjengelig. Du kan følge noen av lenkene nedenfor for å finne mer oppdatert informasjon.
 gone-page-go-back = Gå tilbake
+# Variables:
+#   $blog (attr) - attributes to be added to the <a> tag - href="https://blog.mozilla.org/"
+gone-page-search-blog = Søk på <a { $blog }>{ -brand-name-mozilla }-bloggen</a>.
+# Variables:
+#   $support (attr) - attributes to be added to the <a> tag - href="https://support.mozilla.org/"
+gone-page-visit-support = Gå til <a { $support }>{ -brand-name-mozilla }-brukerstøtte</a>.
