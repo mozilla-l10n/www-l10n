@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/410/
 
 page-gone-title = Bu sayfa kaldırıldı
+page-gone-body = Maalesef bu içerik artık mevcut değil. Daha güncel bilgiler için aşağıdaki bağlantıları kullanabilirsiniz.
 gone-page-go-back = Geri dön
 # Variables:
 #   $home (attr) - attributes to be added to the <a> tag - href="https://mozilla.org"
