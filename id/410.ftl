@@ -4,10 +4,24 @@
 
 ### URL: https://www-dev.allizom.org/410/
 
+page-gone-title = Halaman ini telah dihapus
 
+page-gone-body = Maaf, konten ini tidak lagi tersedia. Anda dapat mengikuti beberapa tautan di bawah ini untuk mendapatkan informasi terbaru.
 
 gone-page-go-back = Kembali
 
+# Variables:
+#   $home (attr) - attributes to be added to the <a> tag - href="https://mozilla.org"
+gone-page-go-home = Mulai jelajahi situs ini dari <a { $home }>beranda</a>.
 
+# Variables:
+#   $blog (attr) - attributes to be added to the <a> tag - href="https://blog.mozilla.org/"
+gone-page-search-blog = Cari <a { $blog }>Blog { -brand-name-mozilla }</a>.
 
+# Variables:
+#   $products (attr) - attributes to be added to the <a> tag - href="/products/"
+gone-page-browse-products = Telusuri <a { $products }>produk</a> kami.
 
+# Variables:
+#   $support (attr) - attributes to be added to the <a> tag - href="https://support.mozilla.org/"
+gone-page-visit-support = Kunjungi <a { $support }>Dukungan { -brand-name-mozilla }</a>.
