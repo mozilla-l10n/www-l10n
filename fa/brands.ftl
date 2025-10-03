@@ -81,12 +81,6 @@
 
 -brand-name-pocket = Pocket
 
-## Fakespot
-
-
-## Anonym
-
-
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla

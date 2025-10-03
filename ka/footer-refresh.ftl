@@ -4,9 +4,7 @@
 
 footer-refresh-discover-mozilla-products = გაეცანით { -brand-name-mozilla }-ს პროდუქტებსა და წამოწყებებს. გპირდებით, რომ თქვენი ელფოსტა დარჩება პირადი და ხელშეუხებელი – ყოველგვარი გაზიარებისა და გაყიდვის გარეშე, მხოლოდ შესანიშნავი სიახლეების მოსაწოდებლად.
 footer-refresh-leadership = ხელმძღვანელობა
-footer-refresh-advertise = რეკლამა { -brand-name-mozilla }-სთან ერთად
-footer-refresh-mozilla-advertising = { -brand-name-mozilla } – სარეკლამო
-# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+# Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = იხილეთ ვრცლად <span>{ footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } – გამოშვების შენიშვნები
 footer-refresh-privacy-first = პირადულობის უწინარესობის გათვალისწინებით რეკლამა ბრენდების, გამომცემლებისა და პლატფორმებისთვის.

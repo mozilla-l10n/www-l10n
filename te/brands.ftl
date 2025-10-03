@@ -71,18 +71,9 @@
 -brand-name-firefox-marketplace = ఫైర్‌ఫాక్స్ మార్కెట్‌ప్లేస్
 -brand-name-firefox-os = Firefox OS
 
-## Firefox projects
-
-
 ## Pocket
 
 -brand-name-pocket = Pocket
-
-## Fakespot
-
-
-## Anonym
-
 
 ## Mozilla projects
 
@@ -96,9 +87,6 @@
 -brand-name-common-voice = Common Voice
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
-
-## Mozilla projects (legacy)
-
 
 ## Open Source projects
 

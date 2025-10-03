@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-refresh-leadership = Tanedbelt
-# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+# Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Issin ugar <span>ɣef { footer-refresh-mozilla-advertising }</span>
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Ḍfer @{ -brand-name-mozilla }

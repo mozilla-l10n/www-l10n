@@ -71,9 +71,6 @@
 -brand-name-firefox-accounts = Firefox ගිණුම්
 -brand-name-firefox-private-network = Firefox පෞද්ගලික ජාලය
 
-## Firefox projects
-
-
 ## Pocket
 
 -brand-name-pocket = Pocket
@@ -81,9 +78,6 @@
 ## Fakespot
 
 -brand-name-fakespot = ෆේක්ස්පොට්
-
-## Anonym
-
 
 ## Mozilla projects
 

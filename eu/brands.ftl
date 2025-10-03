@@ -84,9 +84,6 @@
 
 -brand-name-fakespot = Fakespot
 
-## Anonym
-
-
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
@@ -107,9 +104,6 @@
 -brand-name-common-voice = Common Voice
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
-
-## Mozilla projects (legacy)
-
 
 ## Open Source projects
 

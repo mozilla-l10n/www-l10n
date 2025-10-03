@@ -72,18 +72,9 @@
 -brand-name-firefox-os = Firefox OS
 -brand-name-firefox-private-network = Ichinan Ruk'amab'ey Firefox
 
-## Firefox projects
-
-
 ## Pocket
 
 -brand-name-pocket = Pocket
-
-## Fakespot
-
-
-## Anonym
-
 
 ## Mozilla projects
 

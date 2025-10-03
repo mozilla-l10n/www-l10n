@@ -4,9 +4,7 @@
 
 footer-refresh-discover-mozilla-products = Odkryj produkty i inicjatywy { -brand-name-mozilla(case: "gen") }. Obiecujemy, że Twój e-mail pozostanie prywatny i bezpieczny — bez udostępniania, bez sprzedaży, tylko świetne aktualizacje.
 footer-refresh-leadership = Kierownictwo
-footer-refresh-advertise = Reklama z { -brand-name-mozilla(case: "ins") }
-footer-refresh-mozilla-advertising = Reklama w { -brand-name-mozilla(case: "loc") }
-# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+# Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Dowiedz się więcej <span>o { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Informacje o wydaniu { -brand-name-firefox(case: "gen") }
 footer-refresh-privacy-first = Rozwiązania reklamowe stawiające prywatność na pierwszym miejscu dla marek, wydawców i platform.

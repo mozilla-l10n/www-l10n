@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-refresh-leadership = Liderazgo
-footer-refresh-advertise = Publicidad con { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Notas de la versión de { -brand-name-firefox }
 footer-refresh-follow-mozilla = Seguir @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

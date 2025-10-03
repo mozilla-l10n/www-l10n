@@ -4,9 +4,7 @@
 
 footer-refresh-discover-mozilla-products = Fedezze fel a { -brand-name-mozilla } termékeit és kezdeményezéseit. Ígérjük, hogy az e-mail-címét bizalmasan és biztonságosan tároljuk – nem osztjuk meg, nem adjuk el, csak nagyszerű híreket küldünk.
 footer-refresh-leadership = Vezetés
-footer-refresh-advertise = Hirdessen a { -brand-name-mozilla(ending: "accented") }val
-footer-refresh-mozilla-advertising = { -brand-name-mozilla } hirdetések
-# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+# Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Tudjon meg többet a <span>{ footer-refresh-mozilla-advertising }ről</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } kiadási megjegyzések
 footer-refresh-privacy-first = Adatvédelmet előtérbe helyező hirdetési megoldások márkák, kiadók és platformok számára.

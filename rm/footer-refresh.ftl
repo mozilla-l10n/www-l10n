@@ -4,7 +4,6 @@
 
 footer-refresh-discover-mozilla-products = Scuvra ils products e las iniziativas da { -brand-name-mozilla }. Nus empermettain da tegnair secret tia adressa dad e-mail e da la proteger – betg parter, betg vender, mo novitads interessantas.
 footer-refresh-leadership = Direcziun
-footer-refresh-advertise = Fa reclama cun { -brand-name-mozilla }
 footer-refresh-firefox-release-notes = Remartgas davart la versiun da { -brand-name-firefox }
 footer-refresh-follow-mozilla = Suonda @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

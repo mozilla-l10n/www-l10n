@@ -73,18 +73,9 @@
 -brand-name-firefox-os = ഫയര്‍ഫോക്സ് OS
 -brand-name-firefox-private-network = ഫയർഫോക്സ് പ്രൈവറ്റ് നെറ്റ്‌വർക്ക്
 
-## Firefox projects
-
-
 ## Pocket
 
 -brand-name-pocket = Pocket
-
-## Fakespot
-
-
-## Anonym
-
 
 ## Mozilla projects
 

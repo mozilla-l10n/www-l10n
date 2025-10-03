@@ -73,18 +73,9 @@
 -brand-name-firefox-os = ፋየርፎክስ OS
 -brand-name-firefox-private-network = የፋየርፎክስ የግል አውታረ መረብ
 
-## Firefox projects
-
-
 ## Pocket
 
 -brand-name-pocket = Pocket
-
-## Fakespot
-
-
-## Anonym
-
 
 ## Mozilla projects
 

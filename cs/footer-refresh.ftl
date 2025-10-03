@@ -4,9 +4,7 @@
 
 footer-refresh-discover-mozilla-products = Objevte produkty a iniciativy { -brand-name-mozilla(case: "gen") }. Slibujeme, že udržíme váš e-mail v soukromí a bezpečí – žádné sdílení, žádný prodej, jen skvělé novinky.
 footer-refresh-leadership = Vedení
-footer-refresh-advertise = Inzerujte s { -brand-name-mozilla(case: "ins") }
-footer-refresh-mozilla-advertising = { -brand-name-mozilla } Advertising
-# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+# Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Další informace <span>o { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Poznámky k vydání { -brand-name-firefox(case: "gen") }
 footer-refresh-privacy-first = Reklamní řešení pro značky, vydavatele a platformy s ohledem na ochranu soukromí.

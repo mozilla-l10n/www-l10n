@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-refresh-leadership = Руководство
-footer-refresh-advertise = Оглашавајте са { -brand-name-mozilla(case: "ins") }
 footer-refresh-firefox-release-notes = { -brand-name-firefox } напомене о издању
 footer-refresh-follow-mozilla = Пратите @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

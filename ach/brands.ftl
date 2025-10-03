@@ -73,18 +73,9 @@
 -brand-name-firefox-os = Firefox OS
 -brand-name-firefox-private-network = Firefox Private Network
 
-## Firefox projects
-
-
 ## Pocket
 
 -brand-name-pocket = Pocket
-
-## Fakespot
-
-
-## Anonym
-
 
 ## Mozilla projects
 
