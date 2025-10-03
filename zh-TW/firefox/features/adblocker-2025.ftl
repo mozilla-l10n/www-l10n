@@ -12,7 +12,7 @@ features-adblocker-meta-title = 關於廣告封鎖器 - { -brand-name-firefox }
 # HTML page description
 features-adblocker-meta-desc = 了解廣告封鎖器的運作原理、能幫您做什麼，以及 { -brand-name-firefox } 如何保護您不受追蹤器與 Cookie 影響。
 features-adblocker-the-ad-blocker-a-tool = 廣告封鎖器是一套可讓您有個人化、有更專注的上網體驗的工具。
-features-adblocker-in-todays-digital-world = 現今的數位世界網路可能很忙碌也可能雜亂。廣告封鎖器是可讓您自行控制上網體驗的強大工具讓您可自行決定要在畫面上顯示哪些內容。
+features-adblocker-in-todays-digital-world = 現今的數位世界中，網路環境可能相當雜亂。廣告封鎖器是一種可讓您自行控制上網體驗的利器，讓您可自行決定要在畫面上顯示哪些內容。
 features-adblocker-ad-blockers-work = 廣告封鎖器主要有兩種運作方式：一是防止瀏覽器載入廣告內容；二是封鎖網站中，提供廣告元素的版塊。這包含影片廣告、在網路上追蹤您的廣告，甚至是來自第三方的追蹤器。
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/

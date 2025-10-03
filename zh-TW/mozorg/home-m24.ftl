@@ -43,7 +43,7 @@ m24-home-donate-to-the = 捐款給非營利組織 { -brand-name-mozilla }
 m24-home-donate-to-v2 = 捐款給 { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } 正在打造一場奪回網際網路環境的運動。讓我們一同打造隱私受到保護、AI 可信任、可向不負責任的科技公司課責的未來，但只有我們一起努力才有可能實現。
-m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } 正在打造一個技術由使用者驅動、開放的未來。這也是為什麼我們要透過倡議、教育、資助與創新來為以社群為中心的科技提供動力 — 確保科技的未來對每個人都好。但只有我們一起做才有可能。
+m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } 正在打造一個由使用者驅動技術、從設計就保持開放的未來。這也是為什麼我們要透過倡議、教育、資助與創新來為以社群為中心的科技提供動力：確保科技的未來對每個人都好。但也只有我們一同合作才有可能達成。
 m24-home-were-proudly-nonprofit = 我們以非營利為榮。您願意捐款給 { -brand-name-mozilla } 嗎？
 m24-home-donate = 捐款
 
