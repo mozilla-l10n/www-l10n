@@ -105,6 +105,7 @@
 -brand-name-mozilla-account = Mozilla 账户
 -brand-name-mozilla-accounts = Mozilla 账户
 -brand-name-mozilla-builders = Mozilla Builders
+-brand-name-mozilla-ads = Mozilla 广告
 -brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla 创业投资

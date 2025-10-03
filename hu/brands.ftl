@@ -210,6 +210,7 @@
 -brand-name-mozilla-account = Mozilla-fiók
 -brand-name-mozilla-accounts = Mozilla-fiókok
 -brand-name-mozilla-builders = Mozilla Builders
+-brand-name-mozilla-ads = Mozilla hirdetések
 -brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures

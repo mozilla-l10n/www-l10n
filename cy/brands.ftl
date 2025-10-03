@@ -105,6 +105,7 @@
 -brand-name-mozilla-account = Cyfrif Mozilla
 -brand-name-mozilla-accounts = Cyfrifon Mozilla
 -brand-name-mozilla-builders = Mozilla Builders
+-brand-name-mozilla-ads = Hysbysebion Mozilla
 -brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures

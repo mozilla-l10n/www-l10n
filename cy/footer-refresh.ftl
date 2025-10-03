@@ -4,6 +4,9 @@
 
 footer-refresh-discover-mozilla-products = Darganfod cynnyrch a mentrau { -brand-name-mozilla }. Rydym yn addo cadw'ch e-bost yn breifat ac yn ddiogel — dim rhannu, dim gwerthu, dim ond diweddariadau gwych.
 footer-refresh-leadership = Arweinyddiaeth
+footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-ads = Dysgwch ragor <span>am { footer-refresh-mozilla-ads }</span>
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Dysgwch fwy <span>am { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Nodiadau Rhyddhau { -brand-name-firefox }
