@@ -4,6 +4,8 @@
 
 footer-refresh-discover-mozilla-products = Oppdag produkt og initiativ frå { -brand-name-mozilla }. Vi lovar å halde e-postadressa di privat og sikker – inga deling, ikkje noko sal, berre gode nyheiter.
 footer-refresh-leadership = Leiarskap
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-ads = Les meir <span>om { footer-refresh-mozilla-ads }</span>
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Lær meir <span>om { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } versjonsnotat
