@@ -105,6 +105,7 @@
 -brand-name-mozilla-account = Conto Mozilla
 -brand-name-mozilla-accounts = Contos Mozilla
 -brand-name-mozilla-builders = Mozilla Builders
+-brand-name-mozilla-ads = Avisos publicitari de Mozilla
 -brand-name-builders = Constructores
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
