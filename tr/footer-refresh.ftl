@@ -4,6 +4,9 @@
 
 footer-refresh-discover-mozilla-products = { -brand-name-mozilla } ürünlerini ve girişimlerini keşfedin. E-postanızı gizli ve güvende tutacağımıza söz veriyoruz: E-postanızı asla paylaşmıyor ve satmıyor, sadece haber göndermek için kullanıyoruz.
 footer-refresh-leadership = Yönetim
+footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-ads = <span>{ footer-refresh-mozilla-ads } hakkında</span> bilgi alın
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = <span>{ footer-refresh-mozilla-advertising } hakkında</span> bilgi alın
 footer-refresh-firefox-release-notes = { -brand-name-firefox } Sürüm Notları
