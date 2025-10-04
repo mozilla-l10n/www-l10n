@@ -4,6 +4,9 @@
 
 footer-refresh-discover-mozilla-products = Wuslěźćo produkty a iniciatiwy { -brand-name-mozilla }. Lubimy, až wašu e-mail priwatnu a wěstu źaržymy – žedno źělenje, žedno pśedawanje, jano wjelicne aktualizacije.
 footer-refresh-leadership = Wjednistwo
+footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-ads = Zgóńśo wěcej <span>wó { footer-refresh-mozilla-ads }</span>
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Zgóńśo wěcej <span>wó { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Wersijowe informacije { -brand-name-firefox }
