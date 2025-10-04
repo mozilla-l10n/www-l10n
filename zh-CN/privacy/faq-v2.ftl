@@ -41,7 +41,7 @@ privacy-faq-v2-do-you-collect = 你们是不是在 { -brand-name-firefox } 的�
 privacy-faq-v2-sort-of = 会多一些。默认情况下，除了上述数据，我们还可获知 { -brand-name-firefox } 预发布版本中的崩溃和错误报告。
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/shield
-privacy-faq-v2-we-may-also = 我们还可能为某一<a { $attrs }>实验</a>在预发布版本中收集额外的数据。例如，一些实验需要收集我们所称的“浏览数据”，其中可能包括某些网站的网址等信息。这有助于我们解决特定问题（例如，如何更好地整合特定区域中的热门网站）以改进 { -brand-name-firefox }。
+privacy-faq-v2-we-may-also = 我们还可能为某一<a { $attrs }>研究</a>在预发布版本中收集额外的数据。例如，一些研究需要收集我们所称的“浏览数据”，其中可能包括某些网站的网址等信息。这有助于我们解决特定问题（例如，如何更好地整合特定区域中的热门网站）以改进 { -brand-name-firefox }。
 privacy-faq-v2-mozilla-pre-release = { -brand-name-mozilla } 的 { -brand-name-firefox } 预发布版本是开发平台，经常更新实验功能。我们在预发布版本中收集的数据多于正式版，目的是了解这些实验功能的运作情况。您可以在首选项中选择不收集这些数据。
 privacy-faq-v2-but-why-do-you = 那你们为什么还要收集数据？
 # Variables:
