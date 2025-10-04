@@ -6,7 +6,7 @@ footer-refresh-discover-mozilla-products = 探索 { -brand-name-mozilla } 产品
 footer-refresh-leadership = 领导层
 footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-ads = 详细了解<span>{ footer-refresh-mozilla-ads }</span>
+footer-refresh-learn-more-about-mozilla-ads = 详细了解 <span>{ footer-refresh-mozilla-ads }</span>
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = 详细了解 <span>{ footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 发行说明
