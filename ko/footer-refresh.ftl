@@ -4,6 +4,9 @@
 
 footer-refresh-discover-mozilla-products = { -brand-name-mozilla } 제품과 계획에 대해 알아보세요. 이메일은 안전하게 보호됩니다. 공유하거나 판매하지 않고 최신의 정보만 제공합니다.
 footer-refresh-leadership = 리더쉽
+footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-ads = <span>{ footer-refresh-mozilla-ads }</span>에 대해 더 알아보기
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = <span>{ footer-refresh-mozilla-advertising }</span> 알아보기
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 출시 노트

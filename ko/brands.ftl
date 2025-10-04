@@ -105,6 +105,7 @@
 -brand-name-mozilla-account = Mozilla 계정
 -brand-name-mozilla-accounts = Mozilla 계정
 -brand-name-mozilla-builders = Mozilla Builders
+-brand-name-mozilla-ads = Mozilla Ads
 -brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
