@@ -78,7 +78,7 @@ manifesto-details-there-are-many = Existuje mnoho rozličných způsobů šíře
 manifesto-details-mozilla-foundation = Závazky { -brand-name-mozilla-foundation(case: "gen") }
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } se zavazuje podporovat Manifest { -brand-name-mozilla(case: "gen") } a jeho aktivity. Konkrétně budeme:
-manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation } se zavazuje podporovat Manifest { -brand-name-mozilla } a jeho aktivity. Konkrétně budeme:
+manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation } se zavazuje podporovat Manifest { -brand-name-mozilla(case: "gen") } ve svých aktivitách. Konkrétně budeme:
 manifesto-details-build-and-enable = budovat a podporovat open-source technologie a komunity podporující principy Manifestu;
 manifesto-details-build-and-deliver = budovat a šířit produkty podporující principy Manifestu;
 manifesto-details-use-the-mozilla = užívat aktiva { -brand-name-mozilla(case: "gen") } (duševní vlastnictví jako copyright, obchodní značku, zázemí, fondy a dobré jméno) k udržení internetu pro každého;
@@ -90,4 +90,4 @@ manifesto-details-some-foundation-v2 = Některé aktivity Nadace – v současno
 manifesto-details-invitation = Pozvánka
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } zve všechny, kteří podporují principy Manifestu { -brand-name-mozilla(case: "gen") }, aby se připojili a hledali společně s námi nové způsoby, jak naši vizi přeměnit na realitu.
-manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } zve všechny, kteří podporují principy Manifestu { -brand-name-mozilla }, aby se připojili a hledali společně s námi nové způsoby, jak naši vizi přeměnit na realitu.
+manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } zve všechny, kteří podporují principy Manifestu { -brand-name-mozilla(case: "gen") }, aby se připojili a hledali společně s námi nové způsoby, jak naši vizi přeměnit na realitu.
