@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/about/legal/
 
 legal-legal = Cyfreithiol
-legal-get-involved = Ymunwch
+legal-get-involved = Ymuno
 legal-protect-the-fox = Diogelu'r Llwynog
 legal-takedown-requests = Ceisiadau tynnu i lawr
 legal-back-to-legal = Nôl i Cyfreithiol

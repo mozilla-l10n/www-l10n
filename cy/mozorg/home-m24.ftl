@@ -24,7 +24,7 @@ m24-home-alt-flag = Baner werdd wedi'i steilio ar gefndir du, wedi’i hadeiladu
 
 m24-home-love-the-internet = Caru'r rhyngrwyd eto
 m24-home-break-free-from = Torrwch yn rhydd rhag y cwmnïau technoleg mawr — mae ein cynnyrch yn rhoi rheolaeth i chi ar brofiad rhyngrwyd mwy diogel a phreifat.
-m24-home-explore-our-products = Edrychwch ar ein cynnyrch
+m24-home-explore-our-products = Edrych ar ein cynnyrch
 m24-home-firefox = { -brand-name-firefox }
 m24-home-get-the-gold = Y safon aur ar gyfer pori cyflym, preifat a rheolaeth.
 m24-home-thunderbird = { -brand-name-thunderbird }
@@ -134,4 +134,4 @@ m24-home-pni-search-now = Chwilio nawr
 m24-home-alt-irl-host = Bridget Todd, gwesteiwr Podlediad IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Mae ein podlediad wedi ennill sawl gwobr drwy gyflwyno’r rhai sy’n creu newid ac yn gweithio i wneud y rhyngrwyd yn fwy diogel a deallusrwydd artiffisial yn fwy dibynadwy.
-m24-home-irl-listen-now = Gwrandewch nawr
+m24-home-irl-listen-now = Gwrando nawr

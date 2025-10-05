@@ -41,4 +41,4 @@ best-browser-choosing-the-best-browser = Mae dewis y porwr gorau i chi yn debyg 
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
 best-browser-at-firefox-weve-worked = Gyda <a href="{ $firefox }">{ -brand-name-firefox }</a>, rydym wedi gweithio'n galed i adeiladu porwr sydd ddwywaith mor gyflym ag o'r blaen ac yn rhoi mwy o reolaeth i ddefnyddwyr dros eu bywyd ar-lein.
-best-browser-take-control-of-your = Cymerwch reolaeth o'ch porwr.
+best-browser-take-control-of-your = Cymryd rheolaeth o'ch porwr.

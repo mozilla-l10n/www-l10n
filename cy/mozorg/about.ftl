@@ -40,11 +40,11 @@ about-toronto = Toronto
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-800-bottles-of-cold-brew-coffee = <strong>800</strong> o boteli o goffi bragu oer yn cael eu hyfed bob blwyddyn.
 about-work-at-mozilla = Gweithio yn { -brand-name-mozilla }
-about-join-a-mission-driven-organization = Ymunwch â sefydliad sy'n cael ei yrru gan genhadaeth sy'n adeiladu cynnyrch pwrpasol.
+about-join-a-mission-driven-organization = Ymuno â sefydliad sy'n cael ei yrru gan genhadaeth sy'n adeiladu cynnyrch pwrpasol.
 about-mozilla-careers = Gyrfaoedd { -brand-name-mozilla }
 about-how-you-can-help = Sut y Gallwch chi Helpu
 about-your-voice-your-code-your = Eich llais. Eich cod. Eich cefnogaeth chi. Mae llawer o ffyrdd i ymuno â'r frwydr dros rhyngrwyd iach.
-about-get-involved = Ymunwch
+about-get-involved = Ymuno
 
 ## Newsletter
 

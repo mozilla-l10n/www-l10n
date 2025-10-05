@@ -60,7 +60,7 @@ m24-about-alt-conversation = Gweithiwr { -brand-name-mozilla } yng nghanol sgwrs
 m24-about-alt-drinking-coffee = Gweithiwr { -brand-name-mozilla } yn yfed coffi.
 # Used as an accessible text alternative for an image
 m24-about-alt-collaborating = Gweithwyr { -brand-name-mozilla } yn cydweithio.
-m24-about-join-us-and = Ymunwch â ni a gwnewch wahaniaeth
+m24-about-join-us-and = Ymuno â ni a gwneud gwahaniaeth
 m24-about-join-our-team = Ymunwch â'n tîm a gwthiwch ffiniau'r hyn sy'n bosibl — heb gyfaddawdu ar yr hyn sy'n bwysig.
 m24-about-see-open-positions = Gweld swyddi agored
 
