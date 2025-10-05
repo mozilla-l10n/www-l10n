@@ -6,7 +6,7 @@ footer-refresh-discover-mozilla-products = გაეცანით { -brand-nam
 footer-refresh-leadership = ხელმძღვანელობა
 footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-ads = შეიტყვეთ მეტი <span>შემდეგ { footer-refresh-mozilla-ads }</span>
+footer-refresh-learn-more-about-mozilla-ads = ვრცლად <span>იხილეთ { footer-refresh-mozilla-ads }</span>
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = იხილეთ ვრცლად <span>{ footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } – გამოშვების შენიშვნები
