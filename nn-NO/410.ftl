@@ -17,3 +17,6 @@ gone-page-search-blog = Søk på <a { $blog }>{ -brand-name-mozilla }-bloggen</a
 # Variables:
 #   $products (attr) - attributes to be added to the <a> tag - href="/products/"
 gone-page-browse-products = Bla gjennom <a { $products }>-produkta</a> våre.
+# Variables:
+#   $support (attr) - attributes to be added to the <a> tag - href="https://support.mozilla.org/"
+gone-page-visit-support = Gå til <a { $support }>{ -brand-name-mozilla }-brukarstøtte</a>.
