@@ -297,6 +297,15 @@
             }
     }
 -brand-name-mozilla-builders = Mozilla Builders
+-brand-name-mozilla-ads =
+    { $sklon ->
+        [rodilnik] Oglasov Mozilla
+        [dajalnik] Oglasom Mozilla
+        [tozilnik] Oglase Mozilla
+        [mestnik] Oglasih Mozilla
+        [orodnik] Oglasi Mozilla
+       *[imenovalnik] Oglasi Mozilla
+    }
 -brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
