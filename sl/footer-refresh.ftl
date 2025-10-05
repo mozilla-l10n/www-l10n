@@ -4,6 +4,7 @@
 
 footer-refresh-discover-mozilla-products = Spoznajte izdelke in iniciative { -brand-name-mozilla(sklon: "rodilnik") }. Obljubimo, da bomo vaš naslov ohranili zaseben in varen – nobenega deljenja ali prodaje naprej, samo zanimive novice.
 footer-refresh-leadership = Vodstvo
+footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Več <span>o { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Opombe ob izdaji { -brand-name-firefox(sklon: "rodilnik") }
