@@ -16,14 +16,14 @@ m24-home-page-desc-v2 = Rydyn ni'n gweithio i roi rheolaeth ar y rhyngrwyd yn ô
 
 m24-home-welcome-to-mozilla = Croeso i { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = O dechnoleg ddibynadwy i bolisïau sy'n diogelu eich hawliau digidol, rydyn ni'n eich rhoi chi'n gyntaf - bob tro.
-m24-home-learn-about-us = Dysgwch amdanom ni
+m24-home-learn-about-us = Dysgu amdanom ni
 # Used as accessible text alternative for image
 m24-home-alt-flag = Baner werdd wedi'i steilio ar gefndir du, wedi’i hadeiladu o’r ‘M’ ar gyfer { -brand-name-mozilla } a phicsel sy’n cael ei ddadleoli i gyfeirio at ei logo dinosor gwreiddiol.
 
 ## Products
 
-m24-home-love-the-internet = Carwch y rhyngrwyd eto
-m24-home-break-free-from = Torri'n rhydd rhag y cwmnïau technoleg mawr — mae ein cynnyrch yn rhoi rheolaeth i chi ar brofiad rhyngrwyd mwy diogel a phreifat.
+m24-home-love-the-internet = Caru'r rhyngrwyd eto
+m24-home-break-free-from = Torrwch yn rhydd rhag y cwmnïau technoleg mawr — mae ein cynnyrch yn rhoi rheolaeth i chi ar brofiad rhyngrwyd mwy diogel a phreifat.
 m24-home-explore-our-products = Edrychwch ar ein cynnyrch
 m24-home-firefox = { -brand-name-firefox }
 m24-home-get-the-gold = Y safon aur ar gyfer pori cyflym, preifat a rheolaeth.
