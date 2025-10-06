@@ -7,8 +7,6 @@ footer-refresh-leadership = Leadership
 footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
 footer-refresh-learn-more-about-mozilla-ads = Află mai multe <span>despre { footer-refresh-mozilla-ads }</span>
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = Află mai multe <span>despre { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Note de lansare { -brand-name-firefox }
 footer-refresh-privacy-first = Soluții de publicitate care pun prioritate pe confidențialitate, pentru branduri, edituri și platforme.
 footer-refresh-mdn-v2 = { -brand-name-mdn }

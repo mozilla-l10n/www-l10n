@@ -7,8 +7,6 @@ footer-refresh-leadership = 領導團隊
 footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
 footer-refresh-learn-more-about-mozilla-ads = 了解 <span>{ footer-refresh-mozilla-ads } 的更多資訊</span>
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = 了解 <span>{ footer-refresh-mozilla-advertising }的更多資訊</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 發行公告
 footer-refresh-privacy-first = 隱私第一的廣告解決方案，可供品牌、發布商與平台商使用。
 footer-refresh-mdn-v2 = { -brand-name-mdn }

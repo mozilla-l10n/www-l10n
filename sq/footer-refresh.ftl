@@ -4,8 +4,6 @@
 
 footer-refresh-discover-mozilla-products = Zbuloni produkte dhe nisma { -brand-name-mozilla }. Premtojmë ta mbajmë privat dhe të parrezik email-in tuaj — pa ndarje me të tjerë, pa shitje, thjesht përditësime të bukura.
 footer-refresh-leadership = Udhëheqje
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = Mësoni më tepër <span>rreth { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Shënime Hedhjesh Në Qarkullim { -brand-name-firefox }-i
 footer-refresh-privacy-first = Zgjidhje reklamash që mbajnë privatësinë të parën, për marka, botues dhe platforma.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
