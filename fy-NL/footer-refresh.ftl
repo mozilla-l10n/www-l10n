@@ -4,6 +4,9 @@
 
 footer-refresh-discover-mozilla-products = Untdek { -brand-name-mozilla }-produkten en -inisjativen. Wy sizze jo ta jo e-mailadres privee en feilich te hâlden – wy diele it net, wy ferkeapje it net, gewoan geweldige updates.
 footer-refresh-leadership = Liederskip
+footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-ads = Mear ynfo <span>oer { footer-refresh-mozilla-ads }</span>
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Mear ynfo <span>oer { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox }útjefteopmerkingen
