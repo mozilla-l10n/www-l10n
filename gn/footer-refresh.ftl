@@ -4,6 +4,7 @@
 
 footer-refresh-discover-mozilla-products = Eikuaa { -brand-name-mozilla } apopyre ha ojepóva. Rorekóta ne ñanduti veve tekoñemi ha tekorosãme: noromoherakuã ha norovendemo’ãi, rombohekopyahúta tekoporãverã.
 footer-refresh-leadership = Motenondekuaa
+footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
 footer-refresh-learn-more-about-mozilla-ads = Eikuaave <span>{ footer-refresh-mozilla-ads }</span> rehegua
 # Obsolete string (expires 2026-10-03)
