@@ -171,6 +171,7 @@
 -brand-name-mozilla-account = Cont Mozilla
 -brand-name-mozilla-accounts = Conturi Mozilla
 -brand-name-mozilla-builders = Mozilla Builders
+-brand-name-mozilla-ads = Reclame Mozilla
 -brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures

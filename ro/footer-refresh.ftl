@@ -4,6 +4,9 @@
 
 footer-refresh-discover-mozilla-products = Descoperă produsele și inițiativele { -brand-name-mozilla }. Îți promitem că îți vom păstra adresa de e-mail confidențială și securizată — fără partajare, fără vânzare, doar actualizări grozave.
 footer-refresh-leadership = Leadership
+footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-ads = Află mai multe <span>despre { footer-refresh-mozilla-ads }</span>
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Află mai multe <span>despre { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Note de lansare { -brand-name-firefox }

@@ -21,6 +21,7 @@ vpn-when-to-use-2-in-the = 2. În cartier
 vpn-when-to-use-3-on-the = 3. În deplasare
 vpn-when-to-use-4-home-away = 4. Acasă departe de casă
 vpn-when-to-use-5-in-your = 5. În propria casă
+vpn-when-to-use-for-the-most = În mare parte, scenariile de mai sus nu se aplică rețelei tale de acasă, cu condiția să fi fost configurată corect, cu o parolă puternică și măsuri de securitate. Dar asta nu înseamnă că ești ferit(ă) de privirile curioșilor.
 vpn-when-to-use-make-sure-you = Asigură-te că înțelegi ce nu face un VPN
 vpn-when-to-use-mozilla-vpn-a = { -brand-name-mozilla-vpn }, un serviciu VPN de încredere
 # Variables
