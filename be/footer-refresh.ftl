@@ -3,8 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-refresh-leadership = Кіраўніцтва
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = Даведайцеся больш <span>пра { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Заўвагі да выпуску { -brand-name-firefox }
 footer-refresh-privacy-first = Рэкламныя рашэнні, якія ў першую чаргу забяспечваюць прыватнасць, для брэндаў, выдаўцоў і платформаў.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
