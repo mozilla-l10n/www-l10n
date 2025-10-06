@@ -6,4 +6,5 @@
 ### URL: https://www-dev.allizom.org/410/
 
 page-gone-title = Ko kuatiarogue oñemboguéma
+page-gone-body = Rombyasy, hákatu ko tetepy ndojeguerekovéima. Ikatu resegui umi juajuha oĩva kóva riregua eikuaave hag̃ua marandu ipyahuvéva.
 gone-page-go-back = Guevijey
