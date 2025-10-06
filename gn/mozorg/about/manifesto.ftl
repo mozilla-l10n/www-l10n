@@ -90,3 +90,4 @@ manifesto-details-some-foundation-v2 = Heta tembiapo Atyguasu reheguáva (ko’�
 manifesto-details-invitation = Peipurũ
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } opepirũ opavave tapichápe oipytyvõvo { -brand-name-mozilla } Je’epy jajuajúvo jajuhu hag̃ua jehecha pyahu ñanduti rehegua.
+manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } oipepirũ opavavete tapichápe oipytyvõvo { -brand-name-mozilla } ndive jejuajurã ha jajuhu hag̃uáicha jehecha pyahu ñanduti rembiecharã rehegua.
