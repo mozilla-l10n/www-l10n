@@ -3,8 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-refresh-leadership = Tanedbelt
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = Issin ugar <span>ɣef { footer-refresh-mozilla-advertising }</span>
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Ḍfer @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

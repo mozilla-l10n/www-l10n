@@ -4,8 +4,6 @@
 
 footer-refresh-discover-mozilla-products = { -brand-name-mozilla } ਉਤਪਾਦਾਂ ਅਤੇ ਨਵੇ ਉਦਮਾਂ ਬਾਰੇ ਖੋਜੋ। ਅਸੀਂ ਤੁਹਾਡੇ ਈਮੇਲ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਅਤੇ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਦਾ ਵਾਦਾ ਕਰਦੇ ਹਾਂ — ਨਾ ਕਿਸੇ ਨਾ ਸਾਂਝਾ ਕਰਨਾ, ਨਾ ਵੇਚਣਾ, ਸਿਰਫ਼ ਤੇ ਸਿਰਫ਼ ਅੱਪਡੇਟ ਹੀ।
 footer-refresh-leadership = ਅਗਵਾਈ
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = <span>{ footer-refresh-mozilla-advertising } ਬਾਰੇ</span> ਹੋਰ ਜਾਣੋ
 footer-refresh-firefox-release-notes = { -brand-name-firefox } ਰੀਲਿਜ ਨੋਟਿਸ
 footer-refresh-privacy-first = ਬਰੈਂਡ, ਪ੍ਰਕਾਸ਼ਕਾਂ ਅਤੇ ਪਲੇਟਫਾਰਮਾਂ ਲਈ ਪਰਦੇਦਾਰੀ-ਪਹਿਲਾਂ ਨਾਲ ਇਸ਼ਤਿਹਾਰਬਾਜ਼ੀ ਦੇ ਤਰੀਕੇ।
 footer-refresh-mdn-v2 = { -brand-name-mdn }

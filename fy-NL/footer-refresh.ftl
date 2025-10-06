@@ -7,8 +7,6 @@ footer-refresh-leadership = Liederskip
 footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
 footer-refresh-learn-more-about-mozilla-ads = Mear ynfo <span>oer { footer-refresh-mozilla-ads }</span>
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = Mear ynfo <span>oer { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox }útjefteopmerkingen
 footer-refresh-privacy-first = Advertinsjeoplossingen dy’t privacy foarop stelle foar merken, útjouwers en platfoarms.
 footer-refresh-mdn-v2 = { -brand-name-mdn }

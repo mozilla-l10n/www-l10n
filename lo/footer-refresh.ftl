@@ -4,8 +4,6 @@
 
 footer-refresh-discover-mozilla-products = ຄົ້ນພົບຜະລິດຕະພັນ ແລະ ຂໍ້ລິເລີ່ມຂອງ { -brand-name-mozilla }. ພວກ​ເຮົາ​ສັນ​ຍາ​ວ່າ​ຈະ​ຮັກ​ສາ​ອີ​ເມວ​ຂອງ​ທ່ານ​ເປັນ​ສ່ວນ​ຕົວ ​ແລະ​ ປອດ​ໄພ — ບໍ່​ມີ​ການ​ແບ່ງ​ປັນ​, ບໍ່​ມີ​ການ​ຂາຍ​, ພຽງ​ແຕ່​ການ​ປັບ​ປຸງ​ທີ່​ຍິ່ງ​ໃຫຍ່​.
 footer-refresh-leadership = ຄວາມເປັນຜູ້ນຳ
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = ສຶກສາເພີ່ມເຕີມ <span>ກ່ຽວກັບ { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } ບັນທຶກການປ່ອຍ
 footer-refresh-privacy-first = ຄວາມເປັນສ່ວນຕົວ - ການແກ້ໄຂການໂຄສະນາມາກ່ອນ ສໍາລັບຍີ່ຫໍ້, ຜູ້ເຜີຍແຜ່, ແລະ ເວທີ.
 footer-refresh-mdn-v2 = { -brand-name-mdn }

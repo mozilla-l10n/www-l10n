@@ -7,8 +7,6 @@ footer-refresh-leadership = 리더쉽
 footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
 footer-refresh-learn-more-about-mozilla-ads = <span>{ footer-refresh-mozilla-ads }</span>에 대해 더 알아보기
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = <span>{ footer-refresh-mozilla-advertising }</span> 알아보기
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 출시 노트
 footer-refresh-privacy-first = 브랜드, 퍼블리셔 및 플랫폼을 위한 개인 정보 보호 우선 광고 솔루션입니다.
 footer-refresh-mdn-v2 = { -brand-name-mdn }

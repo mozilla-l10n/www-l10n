@@ -3,8 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-refresh-discover-mozilla-products = גלו מוצרים ויוזמות של { -brand-name-mozilla }. אנחנו מבטיחים לשמור על כתובת הדוא״ל שלכם פרטית ומאובטחת - בלי שיתוף, או מכירה. רק עדכונים מעולים.
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = מידע נוסף <span>על { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = הערות שחרור של { -brand-name-firefox }
 footer-refresh-privacy-first = פתרונות פרסום ממוקדות פרטיות עבור מותגים, מפרסמים ופלטפורמות.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
