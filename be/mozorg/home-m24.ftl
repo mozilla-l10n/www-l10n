@@ -37,6 +37,7 @@ m24-home-mask-your-email = Замаскіруйце свой адрас элек
 
 # Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Зрабіце ахвяраванне для некамерцыйнай арганізацыі { -brand-name-mozilla }
+m24-home-donate-to-v2 = Зрабіць ахвяраванне ў { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } стварае рух за вяртанне інтэрнэту. Разам мы можам пабудаваць будучыню, дзе наша прыватнасць абаронена, штучны інтэлект варты даверу, а безадказныя тэхналагічныя кампаніі нясуць адказнасць. Але гэта магчыма толькі калі мы разам.
 m24-home-donate = Ахвяраваць
@@ -50,3 +51,28 @@ m24-home-tag-event = Падзея
 m24-home-read-more = Падрабязней
 m24-home-get-started = Пачаць
 m24-home-join-the-movement = Далучайцеся да руху:<br> Штучны інтэлект для людзей
+# Used as an accessible text alternative for an image
+m24-home-alt-solo-ai-logo = Лагатып { -brand-name-solo-ai }
+m24-home-solo-ai = { -brand-name-solo-ai }
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+# Used as an accessible text alternative for an image
+m24-home-alt-lumigator-logo = Лагатып { -brand-name-lumigator }.
+m24-home-lumigator = { -brand-name-lumigator }
+m24-home-can-ai-be = Ці можа штучны інтэлект быць вартым даверу?
+m24-home-watch-now = Глядзець зараз
+m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-common-voice = { -brand-name-common-voice }
+m24-home-donate-your-voice = Ахвяруйце свой голас
+
+## Media Springboard
+
+m24-home-type = Тып
+m24-home-author = Аўтар
+m24-home-topic = Тэма
+m24-home-intro = Уступ
+m24-home-tag-article = Артыкул
+m24-home-tag-podcast = Падкаст
+m24-home-tag-video = Відэа
+m24-home-topic-news = Навіны
+m24-home-topic-ai = Штучны інтэлект
+m24-home-topic-ps = Прыватнасць і бяспека

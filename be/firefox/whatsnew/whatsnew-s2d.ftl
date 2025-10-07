@@ -7,3 +7,5 @@
 
 whatsnew-s2d-download-firefox-for-android = Сцягнуць { -brand-name-firefox } для { -brand-name-android } і { -brand-name-ios }
 whatsnew-s2d-download-firefox-for-your = Сцягніце { -brand-name-firefox } для вашага смартфона ці планшэта.
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = Скануйце гэты QR-код
