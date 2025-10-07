@@ -13,6 +13,7 @@ features-adblocker-meta-title = Ñemurã jokoha rehegua - { -brand-name-firefox 
 features-adblocker-meta-desc = Ehecha mba’éichapa omba’apo marandu jokoha, mba’épa ojapo nde rehe ha mba’éicha { -brand-name-firefox } ne mo’ãta tapykuehoha ha kookiegui.
 features-adblocker-the-ad-blocker-a-tool = Ñemurã jokoha: peteĩ tembiporu ñeikundaha raperã mbohérava ha mba’erãitéva.
 features-adblocker-in-todays-digital-world = Ko ñanduti jeporu ag̃aguápe, ñanduti rogue ikatu henyhẽ ha isarambipa. Umi ñemurã jokoha ha’e tembiporu iporãva omoneĩva ne ñeikundaha ha ehechakuaa hag̃ua mba’etépa enohẽta ne mba’erechahápe.
+features-adblocker-ad-blockers-work = Umi ñemurã jokoha omba’apo mokõiháicha: ojoko ani henyhẽ tetepýgui, ikatu ñemurã, ha ojoko umi ñanduti rogue ombohupáva mba’eporuita. Kóvape oikekuaa ta’ãngamýi ñemurã, marandu mba’eteéva nde rapykuehóva eikundahávo ikatúva avei mbohapyháva tapykuehoha.
 features-adblocker-finding-the-right = Eheka ñemurã jokoha ndéve g̃uarãite
 features-adblocker-there-are-many = Oĩ heta tembiporu ñemurã jokoha eheka hag̃ua, peteĩteĩva oreko hesegua oñeme’ẽva heta ndive. Ejuhu hag̃ua iporãvéva odepende ne remikotevẽ eikundahávo rehe. Koʼápe ereko heta ñemoñe’ẽ ehechava’erã katuete:
 features-adblocker-tip-1 = <strong>Ñemurã jokoha:</strong> Ejokoséramo ñemurã añónte, eiporavo peteĩ hasy’ỹ ha ipya’éva.
