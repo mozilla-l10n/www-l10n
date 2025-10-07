@@ -105,6 +105,7 @@
 -brand-name-mozilla-account = Tài khoản Mozilla
 -brand-name-mozilla-accounts = Các tài khoản Mozilla
 -brand-name-mozilla-builders = Mozilla Builders
+-brand-name-mozilla-ads = Quảng cáo Mozilla
 -brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
