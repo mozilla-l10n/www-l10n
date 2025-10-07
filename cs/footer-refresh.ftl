@@ -7,6 +7,8 @@ footer-refresh-leadership = Vedení
 footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
 footer-refresh-learn-more-about-mozilla-ads = Zjistit více <span>o { footer-refresh-mozilla-ads }</span>
+# Obsolete string (expires 2026-10-03)
+footer-refresh-learn-more-about-mozilla-advertising = Zjistěte více <span>o reklamě v { -brand-name-mozilla(case: "loc") }</span>
 footer-refresh-firefox-release-notes = Poznámky k vydání { -brand-name-firefox(case: "gen") }
 footer-refresh-privacy-first = Reklamní řešení pro značky, vydavatele a platformy s ohledem na ochranu soukromí.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
