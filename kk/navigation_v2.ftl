@@ -3,15 +3,3 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } алу
-
-## Firefox menu
-
-
-## Products menu
-
-
-## Who We Are menu
-
-
-## Innovation menu
-

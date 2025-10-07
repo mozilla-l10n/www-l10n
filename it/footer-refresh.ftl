@@ -7,7 +7,6 @@ footer-refresh-leadership = Gruppo dirigente
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Ulteriori informazioni <span>su { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Note di versione di { -brand-name-firefox }
-footer-refresh-privacy-first = Soluzioni pubblicitarie all’insegna della privacy per marchi, editori e piattaforme.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Segui @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

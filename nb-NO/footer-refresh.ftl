@@ -10,7 +10,6 @@ footer-refresh-learn-more-about-mozilla-ads = Les mer <span>om { footer-refresh-
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Les mer <span>om { -brand-name-mozilla } annonsering</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } versjonsnotat
-footer-refresh-privacy-first = Personvern-fokuserte annonseringsløsninger for merkevarer, utgivere og plattformer.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Følg @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

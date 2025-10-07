@@ -42,4 +42,3 @@ navigation-refresh-firefox-blog = ບົດຄວາມ { -brand-name-firefox }
 navigation-refresh-products = ຜະລິດຕະພັນ
 navigation-refresh-close-products-menu = ປິດເມນູຜະລິດຕະພັນ
 navigation-refresh-mozilla-monitor-v2 = { -brand-name-mozilla-monitor }
-navigation-refresh-pocket = { -brand-name-pocket }

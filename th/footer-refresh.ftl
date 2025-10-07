@@ -5,7 +5,6 @@
 footer-refresh-discover-mozilla-products = ค้นพบผลิตภัณฑ์และโครงการของ { -brand-name-mozilla } เราสัญญาจะปกป้องอีเมลของคุณให้เป็นส่วนตัวและปลอดภัย โดยไม่แบ่งปันหรือขายข้อมูลใดๆ และจะมีเพียงข้อมูลข่าวสารดีๆ เท่านั้นให้คุณ
 footer-refresh-leadership = ตำแหน่งผู้นำ
 footer-refresh-firefox-release-notes = บันทึกการออกรุ่น { -brand-name-firefox }
-footer-refresh-privacy-first = โซลูชันโฆษณาที่เน้นความเป็นส่วนตัวเป็นอันดับแรกสำหรับแบรนด์ สำนักพิมพ์ และแพลตฟอร์มต่าง ๆ
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = ติดตาม @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

@@ -22,8 +22,6 @@ navigation-v2-view-all-firefox-browsers = تمام { -brand-name-firefox-browser
 
 navigation-v2-products = مصنوعات
 navigation-v2-close-products-menu = مصنوعات کا مینو کو بند کریں
-navigation-v2-pocket = { -brand-name-pocket }
-navigation-v2-save-and-discover-the-best = پورے ویب سے بہترین کہانیاں محفوظ اور دریافت کریں۔
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-get-protection-beyond-your-browser = اپنے تمام آلات پر اپنے براؤزر سے بالاتر ہوکر تحفظ حاصل کریں۔

@@ -10,7 +10,6 @@ footer-refresh-learn-more-about-mozilla-ads = 了解 <span>{ footer-refresh-mozi
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = 了解 <span>{ -brand-name-mozilla } 廣告的更多資訊</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 發行公告
-footer-refresh-privacy-first = 隱私第一的廣告解決方案，可供品牌、發布商與平台商使用。
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = 關注 @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

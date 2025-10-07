@@ -19,7 +19,6 @@ navigation-v2-view-all-firefox-browsers = Ver tolos { -brand-name-firefox-browse
 ## Products menu
 
 navigation-v2-products = Productos
-navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }

@@ -40,7 +40,6 @@ navigation-refresh-firefox-blog = { -brand-name-firefox }-blogi
 navigation-refresh-products = Tuotteet
 navigation-refresh-close-products-menu = Sulje Tuotteet-valikko
 navigation-refresh-mozilla-monitor-v2 = { -brand-name-mozilla-monitor }
-navigation-refresh-pocket = { -brand-name-pocket }
 navigation-refresh-mozilla-vpn-v2 = { -brand-name-mozilla-vpn }
 navigation-refresh-mdn-plus = { -brand-name-mdn-plus }
 navigation-refresh-thunderbird = { -brand-name-thunderbird }

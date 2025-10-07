@@ -10,7 +10,6 @@ footer-refresh-learn-more-about-mozilla-ads = ສຶກສາເພີ່ມເ�
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = ສຶກສາເພີ່ມເຕີມ <span>ກ່ຽວກັບ { -brand-name-mozilla } ການໂຄສະນາ</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } ບັນທຶກການປ່ອຍ
-footer-refresh-privacy-first = ຄວາມເປັນສ່ວນຕົວ - ການແກ້ໄຂການໂຄສະນາມາກ່ອນ ສໍາລັບຍີ່ຫໍ້, ຜູ້ເຜີຍແຜ່, ແລະ ເວທີ.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = ຕິດຕາມ @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

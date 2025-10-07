@@ -5,7 +5,6 @@
 footer-refresh-discover-mozilla-products = Otkrij { -brand-name-mozilla } proizvode i inicijative. Obećavamo da ćemo tvoju e-mail adresu držati privatnom i sigurnom – bez dijeljenja, bez prodaje, samo sjajna aktualiziranja.
 footer-refresh-leadership = Vodstvo
 footer-refresh-firefox-release-notes = Napomene o { -brand-name-firefox } izdanju
-footer-refresh-privacy-first = Rješenja za oglašavanje usmjerena na privatnost za brendove, izdavače i platforme.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Slijedi @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

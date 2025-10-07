@@ -8,7 +8,6 @@ footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
 footer-refresh-learn-more-about-mozilla-ads = Več <span>o { footer-refresh-mozilla-ads }</span>
 footer-refresh-firefox-release-notes = Opombe ob izdaji { -brand-name-firefox(sklon: "rodilnik") }
-footer-refresh-privacy-first = Podaljšajte doseg in poglobite zaupanje.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Sledite @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

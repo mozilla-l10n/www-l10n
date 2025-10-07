@@ -7,10 +7,6 @@
 
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 
-## Firefox
-
-
 ## Products
 
-navigation-refresh-pocket = { -brand-name-pocket }
 navigation-refresh-mozilla-vpn-v2 = { -brand-name-mozilla-vpn }

@@ -3,15 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## Firefox menu
-
-
-## Products menu
-
-
-## Who We Are menu
-
-
 ## Innovation menu
 
 navigation-v2-common-voice = { -brand-name-common-voice }

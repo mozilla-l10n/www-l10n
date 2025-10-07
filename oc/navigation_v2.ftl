@@ -3,12 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-## Firefox menu
-
-
-## Products menu
-
-
 ## Who We Are menu
 
 navigation-v2-careers = Emplecs

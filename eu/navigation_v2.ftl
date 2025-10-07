@@ -18,7 +18,6 @@ navigation-v2-view-all-firefox-browsers = Ikusi { -brand-name-firefox-browsers }
 
 navigation-v2-products = Produktuak
 navigation-v2-close-products-menu = Itxi 'Produktuak' menua
-navigation-v2-pocket = { -brand-name-pocket }
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta)

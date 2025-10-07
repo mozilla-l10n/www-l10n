@@ -7,7 +7,6 @@ footer-refresh-leadership = Forysta
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Frekari upplýsingar <span>um { footer-refresh-mozilla-advertising }</span>
 footer-refresh-firefox-release-notes = Útgáfuskýringar { -brand-name-firefox }
-footer-refresh-privacy-first = Auglýsingalausnir með persónuvernd í fyrsta sæti, fyrir vörumerki, útgefendur og vettvanga.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Fylgstu með @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

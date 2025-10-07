@@ -10,7 +10,6 @@ footer-refresh-learn-more-about-mozilla-ads = Zhońće wjace <span>wo { footer-r
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Zhońće wjace <span>wo wabjenju { -brand-name-mozilla }</span>
 footer-refresh-firefox-release-notes = Wersijowe informacije { -brand-name-firefox }
-footer-refresh-privacy-first = Wabjenske rozrisanja za marki, wudawaćelow a platformy, kotrež priwatnosć na prěnje městno stajeja.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } slědować
 footer-refresh-instagram = Instagram

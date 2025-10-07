@@ -6,7 +6,6 @@ footer-refresh-discover-mozilla-products = גלו מוצרים ויוזמות ש
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = מידע נוסף <span>על פרסום ב־{ -brand-name-mozilla }</span>
 footer-refresh-firefox-release-notes = הערות שחרור של { -brand-name-firefox }
-footer-refresh-privacy-first = פתרונות פרסום ממוקדות פרטיות עבור מותגים, מפרסמים ופלטפורמות.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = מעקב אחרי ‎@{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

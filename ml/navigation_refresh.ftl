@@ -6,9 +6,3 @@
 ## About us
 
 navigation-refresh-our-mission = ചുമതല
-
-## Firefox
-
-
-## Products
-
