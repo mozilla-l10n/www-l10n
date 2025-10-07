@@ -8,6 +8,7 @@ footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
 footer-refresh-learn-more-about-mozilla-ads = 详细了解 <span>{ footer-refresh-mozilla-ads }</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 发行说明
+footer-refresh-extend-reach = 扩大影响范围并加深信任。
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = 关注 @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

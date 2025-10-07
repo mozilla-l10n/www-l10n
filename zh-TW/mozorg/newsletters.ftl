@@ -57,6 +57,15 @@ newsletters-to-get-access-to-the-whole = 快來加入我們，使用單一帳號
 #   $url (url) - link to https://www.mozilla.org/about/forums/
 newsletters-there-are-many-ways-to = 有許多方式能與 { -brand-name-mozilla } 及 { -brand-name-firefox } 互動。若您沒有在此處找到想找的東西，也可以到<a href="{ $url }">社群頁面</a>找找看。
 # Variables:
+#   $foundation (url) - link to https://www.mozillafoundation.org
+newsletters-newsletter-subscriptions-for = 現在起將獨立管理 <a href="{ $foundation }">{ -brand-name-mozilla-foundation }</a> 的電子報訂閱服務。
+# Variables:
+#   $unsubscribe (url) - link to https://www.mozillafoundation.org/newsletter/unsubscribe
+newsletters-to-unsubscribe = 要取消訂閱 { -brand-name-mozilla-foundation } 電子報點擊此處<a href="{ $unsubscribe }">{ $unsubscribe }</a>。
+# Variables:
+#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter/subscribe
+newsletters-if-you-arent-already-subscribed = 若您尚未訂閱想要取得最新消息請點擊<a href="{ $subscribe }">{ $subscribe }</a>。
+# Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } 不是有效的電子報
 newsletters-subscribe = 訂閱

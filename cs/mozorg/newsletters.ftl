@@ -57,6 +57,15 @@ newsletters-to-get-access-to-the-whole = Chcete-li získat přístup k celému s
 #   $url (url) - link to https://www.mozilla.org/about/forums/
 newsletters-there-are-many-ways-to = Existuje mnoho způsobů, jak se zapojit a podpořit { -brand-name-mozilla(case: "acc") } a { -brand-name-firefox(case: "acc") }. Pokud jste zde nenašli to, co jste hledali, podívejte se na naše <a href="{ $url }">komunitní stránky</a>.
 # Variables:
+#   $foundation (url) - link to https://www.mozillafoundation.org
+newsletters-newsletter-subscriptions-for = Odběry zpravodaje <a href="{ $foundation }">{ -brand-name-mozilla-foundation }</a> jsou nyní spravovány samostatně.
+# Variables:
+#   $unsubscribe (url) - link to https://www.mozillafoundation.org/newsletter/unsubscribe
+newsletters-to-unsubscribe = Pro zrušení odběru zpravodaje { -brand-name-mozilla-foundation } klepněte zde: <a href="{ $unsubscribe }">{ $unsubscribe }</a>.
+# Variables:
+#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter/subscribe
+newsletters-if-you-arent-already-subscribed = Pokud ještě nejste přihlášeni a rádi byste o dění věděli, klikněte zde: <a href="{ $subscribe }">{ $subscribe }</a>.
+# Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } není platný zpravodaj
 newsletters-subscribe = Přihlásit se

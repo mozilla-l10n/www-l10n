@@ -57,6 +57,15 @@ newsletters-to-get-access-to-the-whole = Чтобы получить досту�
 #   $url (url) - link to https://www.mozilla.org/about/forums/
 newsletters-there-are-many-ways-to = Существует множество способов помочь { -brand-name-mozilla } и { -brand-name-firefox }. Если вы не смогли найти того, что вы ищете, здесь, посетите страницы наших <a href="{ $url }">сообществ</a>.
 # Variables:
+#   $foundation (url) - link to https://www.mozillafoundation.org
+newsletters-newsletter-subscriptions-for = Подписки на новостные рассылки для <a href="{ $foundation }">{ -brand-name-mozilla-foundation }</a> теперь управляются отдельно.
+# Variables:
+#   $unsubscribe (url) - link to https://www.mozillafoundation.org/newsletter/unsubscribe
+newsletters-to-unsubscribe = Чтобы отписаться от новостной рассылки { -brand-name-mozilla-foundation }, щёлкните здесь: <a href="{ $unsubscribe }">{ $unsubscribe }</a>.
+# Variables:
+#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter/subscribe
+newsletters-if-you-arent-already-subscribed = Если вы ещё не подписаны и хотите оставаться в курсе, щёлкните здесь: <a href="{ $subscribe }">{ $subscribe }</a>.
+# Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } не является корректной новостной рассылкой
 newsletters-subscribe = Подписаться
