@@ -6,7 +6,7 @@ footer-refresh-discover-mozilla-products = Fedezze fel a { -brand-name-mozilla }
 footer-refresh-leadership = Vezetés
 footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-ads = Tudjon meg többet <span>a(z) { footer-refresh-mozilla-ads }</span> termékről
+footer-refresh-learn-more-about-mozilla-ads = Tudjon meg többet <span>a(z) { footer-refresh-mozilla-ads }ről</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } kiadási megjegyzések
 footer-refresh-extend-reach = Az elérés kiterjesztése és a bizalom elmélyítése.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
@@ -33,7 +33,7 @@ footer-refresh-tools = Eszközök
 footer-refresh-donate = Adományozás
 # Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = Keresse fel a <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> nonprofit anyaszervezetét: <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
-footer-refresh-visit-mozilla-corporations-v2 = Látogassa meg <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> nonprofit szülőjét, a <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
+footer-refresh-visit-mozilla-corporations-v2 = Keresse fel a <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> nonprofit anyaszervezetét, a <a { $mofo_link }>{ -brand-name-mozilla-foundation }t</a>.
 footer-refresh-portions-of-this-content = A tartalom egy részét ©1998–{ $current_year } mozilla.org közreműködők készítették. A tartalom <a rel="license" { $href }>{ -brand-name-creative-commons } licenc</a> alatt érhető el.
 footer-refresh-websites-privacy-notice = Webhely adatvédelmi nyilatkozata
 footer-refresh-websites-cookies = Sütik
