@@ -61,10 +61,10 @@ newsletters-there-are-many-ways-to = Существует множество с�
 newsletters-newsletter-subscriptions-for = Подписки на новостные рассылки для <a href="{ $foundation }">{ -brand-name-mozilla-foundation }</a> теперь управляются отдельно.
 # Variables:
 #   $unsubscribe (url) - link to https://www.mozillafoundation.org/newsletter/unsubscribe
-newsletters-to-unsubscribe = Чтобы отписаться от новостной рассылки { -brand-name-mozilla-foundation }, щёлкните здесь: <a href="{ $unsubscribe }">{ $unsubscribe }</a>.
+newsletters-to-unsubscribe = Чтобы отписаться от новостной рассылки { -brand-name-mozilla-foundation }, нажмите здесь: <a href="{ $unsubscribe }">{ $unsubscribe }</a>.
 # Variables:
 #   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter/subscribe
-newsletters-if-you-arent-already-subscribed = Если вы ещё не подписаны и хотите оставаться в курсе, щёлкните здесь: <a href="{ $subscribe }">{ $subscribe }</a>.
+newsletters-if-you-arent-already-subscribed = Если вы ещё не подписаны и хотите оставаться в курсе, нажмите здесь: <a href="{ $subscribe }">{ $subscribe }</a>.
 # Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } не является корректной новостной рассылкой
