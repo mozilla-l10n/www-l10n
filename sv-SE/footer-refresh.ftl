@@ -7,6 +7,8 @@ footer-refresh-leadership = Ledarskap
 footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
 footer-refresh-learn-more-about-mozilla-ads = Läs mer <span>om { footer-refresh-mozilla-ads }</span>
+# Obsolete string (expires 2026-10-03)
+footer-refresh-learn-more-about-mozilla-advertising = Läs mer <span>om annonsering i { -brand-name-mozilla }</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } versionsfakta
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Följ @{ -brand-name-mozilla }
