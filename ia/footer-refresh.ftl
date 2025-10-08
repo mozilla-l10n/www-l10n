@@ -10,6 +10,7 @@ footer-refresh-learn-more-about-mozilla-ads = Pro saper plus <span>re { footer-r
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Pro saper plus <span>re le publicate de { -brand-name-mozilla }</span>
 footer-refresh-firefox-release-notes = Notas de version de { -brand-name-firefox }
+footer-refresh-extend-reach = Extender le portata e reinfortiar le fiducia
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Seque @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
