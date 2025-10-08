@@ -10,7 +10,7 @@ footer-refresh-learn-more-about-mozilla-ads = 详细了解 <span>{ footer-refres
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = 详细<span>了解 { -brand-name-mozilla } 广告</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 发行说明
-footer-refresh-extend-reach = 扩大影响范围并加深信任。
+footer-refresh-extend-reach = 强化影响，深化信任。
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = 关注 @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

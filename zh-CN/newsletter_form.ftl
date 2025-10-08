@@ -4,7 +4,7 @@
 
 newsletter-form-please-enter-a-valid = 请输入有效的电子邮件地址
 newsletter-form-you-must-agree-to = 您必须同意隐私声明
-newsletter-form-your-email-address = 您的电子邮件地址
+newsletter-form-your-email-address = 您的邮箱地址
 newsletter-form-we-are-sorry-but-there = 很抱歉，我们的系统出现了问题，请稍后再试！
 newsletter-form-please-select-country = 请选择国家或地区
 newsletter-form-please-select-language = 请选择语言
