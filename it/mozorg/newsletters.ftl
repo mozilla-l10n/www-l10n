@@ -57,6 +57,15 @@ newsletters-to-get-access-to-the-whole = Per accedere a tutto il mondo di prodot
 #   $url (url) - link to https://www.mozilla.org/about/forums/
 newsletters-there-are-many-ways-to = Ci sono molti modi per partecipare alle attività di { -brand-name-mozilla } e { -brand-name-firefox }. Se non trovi qui quello che cerchi, consulta le pagine della <a href="{ $url }">nostra comunità</a>.
 # Variables:
+#   $foundation (url) - link to https://www.mozillafoundation.org
+newsletters-newsletter-subscriptions-for = Le iscrizioni alle newsletter per <a href="{ $foundation }">{ -brand-name-mozilla-foundation }</a> sono ora gestite separatamente.
+# Variables:
+#   $unsubscribe (url) - link to https://www.mozillafoundation.org/newsletter/unsubscribe
+newsletters-to-unsubscribe = Per annullare l’iscrizione a una newsletter di { -brand-name-mozilla-foundation } fai clic qui: <a href="{ $unsubscribe }">{ $unsubscribe }</a>.
+# Variables:
+#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter/subscribe
+newsletters-if-you-arent-already-subscribed = Se non hai ancora effettuato l’iscrizione e vuoi restare informato, fai clic qui: <a href="{ $subscribe }">{ $subscribe }</a>
+# Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = La newsletter “{ $newsletter }” non esiste
 newsletters-subscribe = Iscriviti
