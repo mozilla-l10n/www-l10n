@@ -58,10 +58,10 @@ newsletters-to-get-access-to-the-whole = Csatlakozzon hozzánk és érje el a { 
 newsletters-there-are-many-ways-to = Számos módja van a { -brand-name-mozilla } és a { -brand-name-firefox } használatának. Ha nem találta meg, amit keresett itt, nézze meg a <a href="{ $url }">közösségi oldalainkat</a>.
 # Variables:
 #   $foundation (url) - link to https://www.mozillafoundation.org
-newsletters-newsletter-subscriptions-for = A(z) <a href="{ $foundation }">{ -brand-name-mozilla-foundation }</a> hírlevél-feliratkozások külön kezeltek.
+newsletters-newsletter-subscriptions-for = A <a href="{ $foundation }">{ -brand-name-mozilla-foundation }</a> hírlevél-feliratkozásai most már külön vannak kezelve.
 # Variables:
 #   $unsubscribe (url) - link to https://www.mozillafoundation.org/newsletter/unsubscribe
-newsletters-to-unsubscribe = { -brand-name-mozilla-foundation } hírlevélről leiratkozáshoz kattintson ide: <a href="{ $unsubscribe }">{ $unsubscribe }</a>.
+newsletters-to-unsubscribe = A { -brand-name-mozilla-foundation } hírleveléről való leiratkozáshoz kattintson ide: <a href="{ $unsubscribe }">{ $unsubscribe }</a>.
 # Variables:
 #   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter/subscribe
 newsletters-if-you-arent-already-subscribed = Ha még nem iratkozott fel, és szeretne értesítést kapni, kattintson ide: <a href="{ $subscribe }">{ $subscribe }</a>.

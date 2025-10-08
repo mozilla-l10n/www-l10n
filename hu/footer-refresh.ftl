@@ -6,9 +6,9 @@ footer-refresh-discover-mozilla-products = Fedezze fel a { -brand-name-mozilla }
 footer-refresh-leadership = Vezetés
 footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-ads = Tudjon meg többet <span>a(z) { footer-refresh-mozilla-ads }ről</span>
+footer-refresh-learn-more-about-mozilla-ads = További információk: <span>{ footer-refresh-mozilla-ads }</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } kiadási megjegyzések
-footer-refresh-extend-reach = Az elérés kiterjesztése és a bizalom elmélyítése.
+footer-refresh-extend-reach = Javítsa az elérést, mélyítse a bizalmat.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Kövesse a következőt: @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
