@@ -54,11 +54,11 @@ manifesto-details-the-mozilla-project-community = A { -brand-name-mozilla } proj
 manifesto-details-as-a-result-of = Ezek eredményeképpen lefektettünk néhány elvet, melyek véleményünk szerint rendkívül fontosak annak érdekében, hogy az internet továbbra is egyaránt szolgálja a közjót, és az élet kereskedelmi aspektusait. Ezeket az elveket alább fejtjük ki.
 manifesto-details-the-goals-for = A Kiáltvány céljai a következők:
 # Obsolete string (expires 19-10-2025)
-manifesto-details-articulate-a-vision = alakítson ki egy olyan elképzelést az internettel kapcsolatban, amelyet a { -brand-name-mozilla } projektben közreműködők szeretnék, hogy a { -brand-name-mozilla-foundation } végrehajtson;
+manifesto-details-articulate-a-vision = egy olyan víziót mutasson be az internettel kapcsolatban, amelyet a { -brand-name-mozilla } projektben közreműködők szeretnének, hogy a { -brand-name-mozilla-foundation } megvalósítson;
 manifesto-details-articulate-a-vision-v2 = alakítson ki egy olyan internetes víziót, amelyet { -brand-name-mozilla } résztvevő szeretnék, hogy a { -brand-name-mozilla-foundation } kövessen;
-manifesto-details-speak-to-people = szóljon az emberekhez, függetlenül attól, hogy azok rendelkeznek-e műszaki szakismeretekkel;
-manifesto-details-make-mozilla-contributors = a { -brand-name-mozilla } projektben résztvevők legyenek büszkék arra, amit csinálunk, és motiváljon minket munkánk folytatására; valamint
-manifesto-details-provide-a-framework = keretet biztosítson más emberek számára, akik tovább kívánják gondolni ezt az internettel kapcsolatos elképzelést
+manifesto-details-speak-to-people = az emberekhez szóljon, függetlenül attól, hogy azok rendelkeznek-e műszaki ismeretekkel;
+manifesto-details-make-mozilla-contributors = a { -brand-name-mozilla } projektben résztvevők büszkék legyenek arra, amit csinálunk, és ez a munkánk folytatására motiváljon minket; valamint
+manifesto-details-provide-a-framework = keretet biztosítson mások számára, akik tovább kívánják gondolni ezt az internettel kapcsolatos elképzelést.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Ezek az elképzelések nem fognak maguktól megvalósulni. Emberekre van szükség, hogy az internet nyílt és részvételen alapuló legyen – emberekre, akik egyénenként cselekednek, csoportokban dolgoznak együtt, illetve vezetik a többieket. A { -brand-name-mozilla-foundation } elkötelezett amellett, hogy a { -brand-name-mozilla } Kiáltványban rögzített irányelvek mentén halad. Szeretnénk meghívni másokat, hogy csatlakozzanak hozzánk, hogy az internet egyre jobb hely legyen mindenki számára.
 manifesto-details-these-principles-v2 = Ezek az alapelvek nem fognak maguktól életre kelni. Emberekre van szükség, hogy az internet nyílt és részvételen alapuló legyen – emberekre, akik egyénenként cselekednek, csoportokban együtt dolgoznak, és vezetik másokat. A { -brand-name-mozilla-foundation } elkötelezett amellett, hogy a(z) { -brand-name-mozilla } Kiáltványban rögzített irányelvek mentén halad. Arra meghívunk másokat, hogy csatlakozzanak hozzánk, és tegyék az internetet egyre jobb hellyé mindenki számára.
@@ -81,12 +81,12 @@ manifesto-details-the-mozilla-foundation-pleges = A { -brand-name-mozilla-founda
 manifesto-details-the-mozilla-foundation-pleges-v2 = A { -brand-name-mozilla-foundation } elkötelezi magát, hogy tevékenységével támogatja a { -brand-name-mozilla } Kiáltványt. Konkrétan a következőket tesszük:
 manifesto-details-build-and-enable = olyan nyílt forráskódú technológiákat és közösségeket építünk és támogatunk, amelyek támogatják a Kiáltvány alapelveit;
 manifesto-details-build-and-deliver = olyan termékeket építünk és jelentetünk meg, amelyek támogatják a Mozilla Kiáltvány alapelveit;
-manifesto-details-use-the-mozilla = felhasználja a { -brand-name-mozilla } eszközeit (szellemi tulajdonát, mint amilyen a szerzői jogok és védjegyek, infrastruktúráját, pénzét és hírnevét), hogy az internet nyílt platform maradjon
-manifesto-details-promote-models = népszerűsíti a közhasznú tulajdon gazdasági értékeit teremtő modelleket; valamint
-manifesto-details-promote-the-mozilla = népszerűsíti a { -brand-name-mozilla } Kiáltvány alapelveit a közbeszédben és az internetes iparágban.
+manifesto-details-use-the-mozilla = arra használjuk a { -brand-name-mozilla } eszközeit (szellemi tulajdonát, köztük a szerzői jogainkat és védjegyeinket, az infrastruktúránkat, a pénzügyi forrásainkat és a hírnevünket), hogy az internet nyílt platform maradjon;
+manifesto-details-promote-models = közhasznú gazdasági értékeket teremtő modelleket támogatunk; valamint
+manifesto-details-promote-the-mozilla = népszerűsítjük a { -brand-name-mozilla } Kiáltvány alapelveit a közbeszédben és az internetes iparágban.
 # Obsolete string (expires 19-10-2025)
-manifesto-details-some-foundation = Néhány alapítványi tevékenységet – jelenleg a termékek létrehozását és megjelentetését – elsősorban a { -brand-name-mozilla-foundation } 100%-os tulajdonában levő leányvállalat, a { -brand-name-mozilla-corporation } végez.
-manifesto-details-some-foundation-v2 = Néhány alapítványi tevékenységet – jelenleg a felhasználói termékek létrehozását, szállítását és népszerűsítését – elsősorban { -brand-name-mozilla-foundation } 100%-os tulajdonában lévő leányvállalat, a { -brand-name-mozilla-corporation } végez.
+manifesto-details-some-foundation = Az Alapítvány egyes tevékenységeit – jelenleg a termékek létrehozását és megjelentetését – elsősorban a { -brand-name-mozilla-foundation } 100%-os tulajdonában levő leányvállalat, a { -brand-name-mozilla-corporation } végzi.
+manifesto-details-some-foundation-v2 = Az Alapítvány egyes tevékenységeit – jelenleg a termékek létrehozását és megjelentetését – elsősorban a { -brand-name-mozilla-foundation } 100%-os tulajdonában levő leányvállalat, a { -brand-name-mozilla-corporation } végzi.
 manifesto-details-invitation = Felhívás
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = A { -brand-name-mozilla-foundation } felkéri mindazokat, akik támogatják a { -brand-name-mozilla } Kiáltvány alapelveit, hogy csatlakozzanak hozzánk, és találjanak új utakat ahhoz, hogy az internettel kapcsolatos elképzelésünkből valóság legyen.
