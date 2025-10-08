@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/410/
 
 page-gone-title = Ta stran je bila odstranjena
+gone-page-go-back = Nazaj
