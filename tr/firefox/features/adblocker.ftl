@@ -20,6 +20,10 @@ features-adblocker-there-are-scores-of-content = Kullanabileceğiniz birçok iç
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
 features-adblocker-considered-by-many-to-be-the = Birçok kişi tarafından reklam engelleyicilerin altın standardı kabul edilen <a { $attrs }>uBlock Origin</a> etkililiği ve verimliliği ile ünlüdür. Son derece özelleştirilebilir olmasına rağmen hiç özelleştirilmeden de harika çalışır.
 # Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> her yerde reklamları önler. Web’deki ve sosyal medyadaki reklamların yanı sıra sinir bozucu açılır pencereleri de engeller. (Ama sadece açılır pencereleri engellemek istiyorsanız <a { $attrs2 }>açılır pencere engelleyiciyi</a> kullanabilirsiniz .)
+# Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a>, reklamları engellemenin yanı sıra izlenme koruması özellikleri de sunan başka bir harika seçenek.
 # Variables:
@@ -42,7 +46,14 @@ features-adblocker-if-seeing-too-many-ads = Çok fazla reklam görmek gününüz
 features-adblocker-do-it-yourself-custom = Özel modla kendi gizliliğinizi kendiniz ayarlayın
 features-adblocker-the-custom-setting-gives = “Özel” ayarı size tam kontrol sunar. Neleri engelleyeceğinize (takip kodları, çerezler vb.) siz karar verirsiniz. Bir web sitesinde çerezlere izin verdiğinizde otomatik olarak özel moda geçersiniz.
 features-adblocker-cover-your-trail-block = İzinizi belli etmeyin, takip kodlarını engelleyin
+features-adblocker-click-on-the-trackers = “Takip kodları” kutusuna tıkladığınızda takip kodlarını iki şekilde engelleyebilirsiniz: isterseniz sadece gizli pencerelerde, isterseniz de tüm pencerelerde. Takip kodlarını her zaman engellemeyi seçerseniz bazı sayfaların düzgün yüklenmeyebileceğini unutmayın.
 features-adblocker-take-a-bite-out-of-cookies = Çerezleri dert etmeyin
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/storage
+features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Çerezler</a> ziyaret ettiğiniz web siteleri tarafından gönderilir. Bilgisayarınıza kaydedilen çerezler o sitede ne yaptığınızı takip eder. Örneğin, bir hava yolu şirketinde bilet fiyatlarına baktıktan sonra fiyatların arttığını fark ettiyseniz bunun sebebi çerezler olabilir.
 features-adblocker-in-firefox-you-can-block = { -brand-name-firefox }’ta ister tüm üçüncü taraf çerezlerini isterseniz de yalnızca takip kodlarının yerleştirdiği çerezleri engelleyebilirsiniz. Ancak tüm çerezleri engellemenin bazı siteleri bozabileceğini unutmayın.
 features-adblocker-speed-up-thanks-to-ad = Reklam engelleyiciler sayesinde hızlanın
 features-adblocker-in-some-cases-an-ad-blocker = Bazı durumlarda reklam engelleyiciler tarayıcınızın daha hızlı çalışmasını sağlayabilir. Reklam engelleyici kullanmıyorsanız reklamlar yüklenirken web sitelerini yavaşlatabilir. Ayrıca reklamları kapatmakla uğraşırken aradığınızı bulmanız daha uzun sürer.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+features-adblocker-if-you-want-to-learn-more-v2 = { -brand-name-firefox } ve diğer tarayıcılarda kullanabileceğiniz yüzlerce reklam engelleyici uzantı mevcut. Gizliliğinize öncelik veren { -brand-name-firefox }’ta kullanabileceğiniz reklam engelleyicileri denemek isterseniz <a href="{ $url }">buraya tıklayarak</a> tarayıcımızı indirebilirsiniz.
