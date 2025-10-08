@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
+# HTML page title
+mozilla-accounts-get-a-mozilla-account = Вземете { -brand-name-mozilla-account } - Пазете данните си поверителни, сигурни и синхронизирани
 firefox-accounts-enter-your-email-address = За начало въведете адреса на своята ел. поща.
 firefox-accounts-already-have-an-account = Вече имате профил?
 firefox-accounts-sign-in = Вписване
