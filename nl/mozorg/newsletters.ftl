@@ -57,6 +57,15 @@ newsletters-to-get-access-to-the-whole = Sluit u bij ons aan, om toegang te krij
 #   $url (url) - link to https://www.mozilla.org/about/forums/
 newsletters-there-are-many-ways-to = Er zijn vele mogelijkheden om met { -brand-name-mozilla } en { -brand-name-firefox } samen te werken. Als u niet hebt gevonden waarnaar u op zoek was, raadpleeg dan onze <a href="{ $url }">gemeenschapspagina’s</a>.
 # Variables:
+#   $foundation (url) - link to https://www.mozillafoundation.org
+newsletters-newsletter-subscriptions-for = Nieuwsbriefabonnementen voor <a href="{ $foundation }">{ -brand-name-mozilla-foundation }</a> worden nu apart beheerd.
+# Variables:
+#   $unsubscribe (url) - link to https://www.mozillafoundation.org/newsletter/unsubscribe
+newsletters-to-unsubscribe = Klik hier om u af te melden voor een { -brand-name-mozilla-foundation }-nieuwsbrief: <a href="{ $unsubscribe }">{ $unsubscribe }</a>.
+# Variables:
+#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter/subscribe
+newsletters-if-you-arent-already-subscribed = Als u nog niet bent geabonneerd en op de hoogte wilt blijven, klik dan hier: <a href="{ $subscribe }">{ $subscribe }</a>.
+# Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } is geen geldige nieuwsbrief
 newsletters-subscribe = Abonneren
