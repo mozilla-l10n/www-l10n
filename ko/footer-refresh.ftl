@@ -10,6 +10,7 @@ footer-refresh-learn-more-about-mozilla-ads = <span>{ footer-refresh-mozilla-ads
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = <span>{ -brand-name-mozilla } 광고</span>에 대해 더 알아보기
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 출시 노트
+footer-refresh-extend-reach = 더 많이 도달하고 신뢰를 깊게 합니다.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } 팔로우
 footer-refresh-instagram = Instagram
