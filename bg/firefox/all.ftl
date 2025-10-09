@@ -34,6 +34,9 @@ firefox-all-microsoft-store-installers = Магазин за приложени�
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Изтегляне на { $esr_version }
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Прочетете повече за <a { $attrs }>цикъла на изданията на { -brand-name-firefox-esr }</a>.
 firefox-all-check-the-system-requirements = Проверете системните изисквания
 firefox-all-release-notes = Бележки към изданието
 firefox-all-source-code = Изходен код
