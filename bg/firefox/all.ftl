@@ -11,6 +11,10 @@ firefox-all-choose-browser = Изберете четец, за да продъл
 firefox-all-choose-platform = Изберете платформа, за да продължите
 firefox-all-choose-language = Изберете език, за да продължите
 firefox-all-change-browser = Избор на друг продукт
+firefox-all-change-platform = Изберете друга платформа
+firefox-all-change-language = Изберете друг език
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Изберете от списъка по-долу
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Получете помощ
 firefox-all-browser-v2 = 1. Четец:
@@ -21,9 +25,12 @@ firefox-all-desktop = За компютър
 firefox-all-mobile = За мобилен
 firefox-all-recommended = (препоръка)
 firefox-all-lang-multi = Множество езици
+firefox-all-plat-mobile = Android и iOS
+firefox-all-sorry-we-couldnt-find = За съжаление, не можахме да намерим изтеглянето, което търсите. Моля, опитайте отново или изберете друга възможност от списъка по-долу.
 firefox-all-the-pre-alpha-version = Предварителното алфа издание за напреднали потребители, които обичат да ловуват сривове и да изпробват нови възможности, още по време на тяхната разработка.
 firefox-all-64-bit-installers = 64-битови инсталатори
 firefox-all-32-bit-installers = 32-битови инсталатори
+firefox-all-microsoft-store-installers = Магазин за приложения на Microsoft
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Изтегляне на { $esr_version }
