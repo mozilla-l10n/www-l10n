@@ -4,6 +4,11 @@
 
 footer-refresh-discover-mozilla-products = Ανακαλύψτε τα προϊόντα και τις πρωτοβουλίες της { -brand-name-mozilla }. Υποσχόμαστε να διατηρήσουμε το email σας ιδιωτικό και ασφαλές: καμία κοινοποίηση, καμία πώληση, μόνο συναρπαστικές ενημερώσεις.
 footer-refresh-leadership = Ηγεσία
+footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-ads = Μάθετε περισσότερα <span>σχετικά με { footer-refresh-mozilla-ads }</span>
+# Obsolete string (expires 2026-10-03)
+footer-refresh-learn-more-about-mozilla-advertising = Μάθετε περισσότερα <span>σχετικά με τις διαφημίσεις { -brand-name-mozilla }</span>
 footer-refresh-firefox-release-notes = Σημειώσεις έκδοσης του { -brand-name-firefox }
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Ακολουθήστε τη @{ -brand-name-mozilla }
