@@ -73,6 +73,9 @@ newsletters-to-get-access-to-the-whole = Untuk mendapatkan akses ke seluruh duni
 #   $url (url) - link to https://www.mozilla.org/about/forums/
 newsletters-there-are-many-ways-to = Terdapat banyak cara untuk terlibat dengan { -brand-name-mozilla } dan { -brand-name-firefox }. Jika Anda tidak menemukan yang Anda cari di sini, lihat <a href="{ $url }">laman komunitas</a> kami.
 
+
+
+
 # Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } bukan buletin yang sah
