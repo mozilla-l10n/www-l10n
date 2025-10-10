@@ -4,6 +4,8 @@
 
 footer-refresh-discover-mozilla-products = Uppgötvaðu hugbúnað og verkefni sem { -brand-name-mozilla } stendur fyrir. Við lofum að halda tölvupóstinum þínum einka og öruggum - engin miðlun, engin sala, bara áreiðanlegar uppfærslur.
 footer-refresh-leadership = Forysta
+# Obsolete string (expires 2026-10-03)
+footer-refresh-learn-more-about-mozilla-advertising = Frekari upplýsingar <span>um auglýsingar í { -brand-name-mozilla }</span>
 footer-refresh-firefox-release-notes = Útgáfuskýringar { -brand-name-firefox }
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Fylgstu með @{ -brand-name-mozilla }
