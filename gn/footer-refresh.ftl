@@ -7,7 +7,10 @@ footer-refresh-leadership = Motenondekuaa
 footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
 footer-refresh-learn-more-about-mozilla-ads = Eikuaave <span>{ footer-refresh-mozilla-ads }</span> rehegua
+# Obsolete string (expires 2026-10-03)
+footer-refresh-learn-more-about-mozilla-advertising = Eñemomaranduve { -brand-name-mozilla } marandu ñemurã rehegua</span>
 footer-refresh-firefox-release-notes = Marandu { -brand-name-firefox } rehegua
+footer-refresh-extend-reach = Embotuichave hupytyrã ha ejeroviave.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Ehapykueho @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
