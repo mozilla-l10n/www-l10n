@@ -73,6 +73,9 @@ newsletters-to-get-access-to-the-whole = Pour accéder à tout l’univers des p
 #   $url (url) - link to https://www.mozilla.org/about/forums/
 newsletters-there-are-many-ways-to = Vous pouvez interagir avec { -brand-name-mozilla } et { -brand-name-firefox } de multiples façons. Si vous n’avez pas trouvé ce que vous cherchez ici, visitez nos <a href="{ $url }">pages communautaires</a>.
 
+
+
+
 # Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } n’est pas une lettre d’information valide

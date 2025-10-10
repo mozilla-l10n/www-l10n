@@ -73,6 +73,9 @@ newsletters-to-get-access-to-the-whole = { -brand-name-firefox } उत्पा
 #   $url (url) - link to https://www.mozilla.org/about/forums/
 newsletters-there-are-many-ways-to = { -brand-name-mozilla } और { -brand-name-firefox } से जुड़ने के कई तरीके हैं। यदि आपको वह नहीं मिला, जो आप यहाँ खोज रहे थे, तो हमारे <a href="{ $url }">समुदाय पेज</a> पर जाएँ।
 
+
+
+
 # Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } वैध न्यूज़लेटर नहीं है

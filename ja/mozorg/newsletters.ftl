@@ -73,6 +73,9 @@ newsletters-to-get-access-to-the-whole = ひとつのアカウントで { -brand
 #   $url (url) - link to https://www.mozilla.org/about/forums/
 newsletters-there-are-many-ways-to = { -brand-name-mozilla } と { -brand-name-firefox } に参加する方法は多数あります。こちらでお探しのものが見つからない場合は、Mozilla の<a href="{ $url }">コミュニティページ</a>をご覧ください。
 
+
+
+
 # Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } は無効なニュースレターです
