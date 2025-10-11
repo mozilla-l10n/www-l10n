@@ -39,13 +39,13 @@ privacy-faq-we-make-our-documentation-public = 我们公开我们的文档，任
 privacy-faq-that-documentation-is-gobbledygook = 那个文档对我来说是天书！你们能直白些解释给我吗？
 privacy-faq-there-are-two-categories-of = 默认情况下，我们在 { -brand-name-firefox } 的正式版本中收集了两类数据。
 privacy-faq-the-first-is-what-we-call-technical = 第一类是我们所说的“技术数据”。这是关于浏览器本身的数据，例如它运行在什么操作系统上，以及有关错误或崩溃的信息。
-privacy-faq-the-second-is-what-we-call-interaction-v2 = 第二类是我们所说的“交互数据”。这是关于个人与 { -brand-name-firefox } 的交互情况的数据，例如打开的标签页数量、用户偏好设置状态，或某些浏览器功能（例如屏幕截图和身份标签页）的使用次数。举例来说，我们会通过后退按钮（即浏览器左上角可让您回到之前浏览的网页的箭头）来收集此类数据，这样我们就可以得知有人点击了后退按钮，但并不知晓访问了哪些特定网页。
+privacy-faq-the-second-is-what-we-call-interaction-v2 = 第二类是我们所说的“交互数据”。这是关于个人与 { -brand-name-firefox } 的交互情况的数据，例如打开的标签页数量、用户首选项状态，或某些浏览器功能（例如屏幕截图和身份标签页）的使用次数。举例来说，我们会通过后退按钮（即浏览器左上角可让您回到之前浏览的网页的箭头）来收集此类数据，这样我们就可以得知有人点击了后退按钮，但并不知晓访问了哪些特定网页。
 privacy-faq-do-you-collect-more-data-in = 你们是否在 { -brand-name-firefox } 的预发布版本中收集了更多数据？
 privacy-faq-sort-of-in-addition-to-the-data-v2 = 会收集一些。默认情况下，除了上述数据，我们还可获知 { -brand-name-firefox } 预发布版本中的崩溃和错误报告。
 # Variables:
 #   $link (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-we-may-also-collect-additional-v2 = 我们还可能为某一<a href="{ $link }">研究</a>在预发布版本中收集额外的数据。例如，一些研究需要收集我们所称的“网络活动数据”，其中可能包括有关某些网站的网址和其他信息。这有助于我们解决改进 { -brand-name-firefox } 的特定问题，例如如何更好地整合特定区域中的热门网站。
-privacy-faq-mozillas-pre-release-versions = { -brand-name-mozilla } 的 { -brand-name-firefox } 预发布版本是开发平台，经常更新实验性功能。我们在预发布版本收集的数据比正式版更多，以便了解这些实验功能的工作原理。您可以在偏好设置中选择不收集这些数据。
+privacy-faq-mozillas-pre-release-versions = { -brand-name-mozilla } 的 { -brand-name-firefox } 预发布版本是开发平台，经常更新实验性功能。我们在预发布版本收集的数据比正式版更多，以便了解这些实验功能的工作原理。您可以在首选项中选择不收集这些数据。
 privacy-faq-but-why-do-you-collect-any-data = 但你们为什么要收集一些数据呢？
 privacy-faq-if-we-dont-know-how-the-browser = 如果我们不知道浏览器的性能如何或人们使用哪些功能，我们将无法让它变得更好，也无法提供您想要的优秀产品。我们投资建设数据收集和分析工具，使我们能够在尊重人们隐私的同时对我们的产品做出明智的决策。
 privacy-faq-data-collection-still-bugs-me = 数据收集仍让我感到不安。我可以关闭它吗？
