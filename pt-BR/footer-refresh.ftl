@@ -23,6 +23,7 @@ footer-refresh-support = Suporte
 footer-refresh-product-help = Ajuda de produtos
 footer-refresh-file-a-bug = Registrar um erro
 footer-refresh-localize-mozilla = Tradução da { -brand-name-mozilla }
+footer-refresh-security = Segurança
 footer-refresh-developers = Desenvolvimento
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }

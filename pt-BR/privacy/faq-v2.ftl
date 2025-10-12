@@ -21,4 +21,7 @@ privacy-faq-v2-we-work-to = Trabalhamos para colocar as pessoas no controle de s
 ## FAQ
 
 privacy-faq-v2-i-use-firefox = Uso o { -brand-name-firefox } para quase tudo na web. Vocês da { -brand-name-mozilla } devem ter uma tonelada de informações sobre mim, não é?
+privacy-faq-v2-but-why-do-you = Mas por que vocês coletam dados afinal?
 privacy-faq-v2-data-collection-bugs-me = A coleta de dados ainda me incomoda. Posso desativar?
+privacy-faq-v2-you-use-digital = Vocês usam publicidade digital como parte da estratégia de marketing. Vocês compram dados das pessoas para direcionar melhor os anúncios online?
+privacy-faq-v2-no-we-do-not-buy = Não, nós não compramos dados das pessoas para direcionar publicidade.
