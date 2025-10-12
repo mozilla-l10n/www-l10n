@@ -57,6 +57,9 @@ newsletters-to-get-access-to-the-whole = Para acceder a toda la variedad de prod
 #   $url (url) - link to https://www.mozilla.org/about/forums/
 newsletters-there-are-many-ways-to = Hay muchas formas de comprometerse con { -brand-name-mozilla } y { -brand-name-firefox }. Si no encontraste lo que buscabas, visita las <a href="{ $url }">páginas de nuestra comunidad</a>.
 # Variables:
+#   $foundation (url) - link to https://www.mozillafoundation.org
+newsletters-newsletter-subscriptions-for = Las suscripciones al boletín informativo de <a href="{ $foundation }">{ -brand-name-mozilla-foundation }</a> ahora se administran por separado.
+# Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } no es un boletín válido
 newsletters-subscribe = Suscribirme
