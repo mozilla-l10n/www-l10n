@@ -22,7 +22,7 @@ features-adblocker-considered-by-many-to-be-the = Birçok kişi tarafından rekl
 # Variables:
 #   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
 #   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
-features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> her yerde reklamları önler. Web’deki ve sosyal medyadaki reklamların yanı sıra sinir bozucu açılır pencereleri de engeller. (Ama sadece açılır pencereleri engellemek istiyorsanız <a { $attrs2 }>açılır pencere engelleyiciyi</a> kullanabilirsiniz .)
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> her yerde reklamları önler. Web’deki ve sosyal medyadaki reklamların yanı sıra sinir bozucu açılır pencereleri de engeller. (Ama sadece açılır pencereleri engellemek istiyorsanız <a { $attrs2 }>açılır pencere engelleyiciyi</a> kullanabilirsiniz.)
 # Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a>, reklamları engellemenin yanı sıra izlenme koruması özellikleri de sunan başka bir harika seçenek.
