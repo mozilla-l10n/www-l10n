@@ -97,10 +97,13 @@
 -brand-name-irl-podcast = IRL подкаст
 -brand-name-solo-ai = Solo AI
 -brand-name-lumigator = Lumigator
+-brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-festival = Фестивалът Mozilla
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
+-brand-name-mozilla-account = Mozilla профил
+-brand-name-mozilla-accounts = Mozilla профили
 -brand-name-mozilla-ads = Реклами на Мозила
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-thunderbird = Thunderbird

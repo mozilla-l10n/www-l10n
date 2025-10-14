@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Изтеглете { -brand-name-firefox } на английски (САЩ) и повече от 90 други езика
 # HTML page description, also used as the introductory text.
 firefox-all-everyone-deserves-access-v2 = Всеки заслужава достъп до интернет - вашият език никога не трябва да бъде пречка. Ето защо — с помощта на всеотдайни доброволци по целия свят — правим { -brand-name-firefox } достъпен на повече от 90 езика.
 firefox-all-choose-browser = Изберете четец, за да продължите
@@ -29,6 +31,7 @@ firefox-all-plat-mobile = Android и iOS
 firefox-all-sorry-we-couldnt-find = За съжаление, не можахме да намерим изтеглянето, което търсите. Моля, опитайте отново или изберете друга възможност от списъка по-долу.
 firefox-all-the-pre-alpha-version = Предварителното алфа издание за напреднали потребители, които обичат да ловуват сривове и да изпробват нови възможности, още по време на тяхната разработка.
 firefox-all-64-bit-installers = 64-битови инсталатори
+firefox-all-choose-a-64-bit-installer = Изберете 64-битов инсталатор за компютри с 64-битови процесори, които им позволяват да заделят повече RAM за отделни програми. Това е особено важно за игри и други взискателни приложения.
 firefox-all-32-bit-installers = 32-битови инсталатори
 firefox-all-microsoft-store-installers = Магазин за приложения на Microsoft
 # Variables:
@@ -44,6 +47,7 @@ firefox-all-need-help = Имате нужда от помощ?
 firefox-all-choose-which-firefox = Изберете кой { -brand-name-firefox-browser } да изтеглите на своя език
 firefox-all-firefox-privacy-notice = Бележка за поверителността на { -brand-name-firefox }
 firefox-all-learn-about-firefox = Научете повече за четеца { -brand-name-firefox }
+firefox-all-testflight = Регистрирайте се, за да изпитате { -brand-name-firefox } за iOS чрез TestFlight
 firefox-all-product-send-link = Изпращане на препратка за изтегляне на телефона
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -60,3 +64,5 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox }  iOS TestFlight
+firefox-all-download-esr-115 = Изтегляне на ESR 115
