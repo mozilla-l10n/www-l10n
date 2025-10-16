@@ -119,7 +119,7 @@ m24-home-alt-rise25-joyous = Радостный награждённый на { 
 m24-home-state-of-mozilla = Состояние { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } заново изобретает себя, диверсифицируется вокруг множества организаций, переосмысливает рекламу и создает экосистему ИИ с открытым исходным кодом. Прочитайте об этом в Отчёте о состоянии { -brand-name-mozilla } в 2024 году.
 # Used as an accessible text alternative for an image
-m24-home-state-of-mozilla-alt = Абстрактная пиксельная графика в оттенках зеленого, оранжевого и розового
+m24-home-state-of-mozilla-alt = Абстрактная пиксельная графика в оттенках зелёного, оранжевого и розового
 m24-home-read-the-report = Прочитать отчёт
 
 ## Issues
