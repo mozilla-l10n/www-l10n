@@ -68,10 +68,10 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders 通过定制的协作方式、方案、社区，帮助独立开发者创建耳目一新的开源 AI 项目。
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } 通过定制的协作方式、方案、社区，帮助独立开发者创建耳目一新的开源 AI 项目。
 # Used as an accessible text alternative for an image
-m24-home-alt-mozfest = 从上方看一大群人聚集在繁忙的室内活动场地。
+m24-home-alt-mozfest = 一大群人聚集在热闹的室内活动场地中，从上方俯视。
 m24-home-mozfest-join-us = 与我们一道参加 { -brand-name-mozilla-festival }
-m24-home-mozfest-the-future = 技术的未来，并非已然定稿的剧本，而是可由我们塑造的故事。11 月 7 日至 9 日，让我们相约巴塞罗那，打破陈规、畅想无限、共筑未来。
-m24-home-mozfest-get-your = 获取徽章
+m24-home-mozfest-the-future = 技术的未来，并非已成定稿的剧本，而是可由我们塑造的故事。11 月 7 日至 9 日，让我们相约巴塞罗那，打破默认、畅想无限、共筑未来。
+m24-home-mozfest-get-your = 立即登记报名
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } 徽标。
 m24-home-lumigator = { -brand-name-lumigator }
