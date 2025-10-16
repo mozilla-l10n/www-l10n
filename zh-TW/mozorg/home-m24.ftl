@@ -68,6 +68,11 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders 透過量身定做的協作、程式與社群合作，幫助獨立開發者打造革命性的開放原始碼 AI 專案。
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } 透過量身定做的協作、程式與社群合作，幫助獨立開發者打造革命性的開放原始碼 AI 專案。
 # Used as an accessible text alternative for an image
+m24-home-alt-mozfest = 一大群人聚集在一個忙碌的室內活動場地，從上方俯視。
+m24-home-mozfest-join-us = 加入 { -brand-name-mozilla-festival }
+m24-home-mozfest-the-future = 科技的未來尚未確定，該由我們自行塑造。請與我們一起於 11 月 7–9 日在巴塞羅納忘掉所有預設值、大膽想像並且打造未來。
+m24-home-mozfest-get-your = 搶先登記報名
+# Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } 圖示。
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = 尋找符合您需求、使用情境與資料的 LLM。
