@@ -69,7 +69,7 @@ m24-home-builders-helps-independent = Builders 通过定制的协作方式、方
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } 通过定制的协作方式、方案、社区，帮助独立开发者创建耳目一新的开源 AI 项目。
 # Used as an accessible text alternative for an image
 m24-home-alt-mozfest = 从上方看一大群人聚集在繁忙的室内活动场地。
-m24-home-mozfest-join-us = 加入我们的 { -brand-name-mozilla-festival }
+m24-home-mozfest-join-us = 与我们一道参加 { -brand-name-mozilla-festival }
 m24-home-mozfest-the-future = 科技的未来并不是固定的——由我们来塑造。加入我们于 11 月 7 日至 9 日在巴塞罗纳举办的活动告别默认设置、大胆畅想并打造全新的设计。
 m24-home-mozfest-get-your = 获取徽章
 # Used as an accessible text alternative for an image
