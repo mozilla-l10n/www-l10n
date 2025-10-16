@@ -67,7 +67,11 @@ m24-home-mozilla-builders = Constructores de { -brand-name-mozilla }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Le constructores adjuta disveloppatores independente a crear projectos transformative de IA open-source per collaborationes, programmation, e communitates a mesura.
 m24-home-builders-helps-independent-v2 = Le { -brand-name-mozilla-builders } adjuta disveloppatores independente a crear projectos transformative de IA open-source per collaborationes, programmation, e communitates a mesura.
+# Used as an accessible text alternative for an image
+m24-home-alt-mozfest = Un grande gruppo de personas colligite in un populate spatio de evento interne, vidite de supra.
 m24-home-mozfest-join-us = Junge te a nos a { -brand-name-mozilla-festival }
+m24-home-mozfest-the-future = Le futuro de technologia non es predefinite: nos pote formar lo.
+m24-home-mozfest-get-your = Obtene tu insignia hodie
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo de { -brand-name-lumigator }
 m24-home-lumigator = { -brand-name-lumigator }
