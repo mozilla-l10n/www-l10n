@@ -70,7 +70,7 @@ m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } 通过
 # Used as an accessible text alternative for an image
 m24-home-alt-mozfest = 从上方看一大群人聚集在繁忙的室内活动场地。
 m24-home-mozfest-join-us = 与我们一道参加 { -brand-name-mozilla-festival }
-m24-home-mozfest-the-future = 科技的未来并不是固定的——由我们来塑造。加入我们于 11 月 7 日至 9 日在巴塞罗纳举办的活动告别默认设置、大胆畅想并打造全新的设计。
+m24-home-mozfest-the-future = 技术的未来，并非已然定稿的剧本，而是可由我们塑造的故事。11 月 7 日至 9 日，让我们相约巴塞罗那，打破陈规、畅想无限、共筑未来。
 m24-home-mozfest-get-your = 获取徽章
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } 徽标。
