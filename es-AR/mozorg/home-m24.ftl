@@ -68,6 +68,11 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders ayuda a los desarrolladores independientes a crear proyectos transformadores de IA de código abierto a través de colaboraciones, programación y comunidad a medida.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } ayuda a los desarrolladores independientes a crear proyectos transformadores de IA de código abierto a través de colaboraciones, programación y comunidad hechas a medida.
 # Used as an accessible text alternative for an image
+m24-home-alt-mozfest = Un gran grupo de personas amontonadas en un espacio interior para eventos, visto desde arriba.
+m24-home-mozfest-join-us = Únase a nosotros en el { -brand-name-mozilla-festival }
+m24-home-mozfest-the-future = El futuro de la tecnología no está establecido — es nuestro para moldearlo. Únase a nosotros en Barcelona del 7 al 9 de noviembre para olvidarse de los valores predeterminados, imaginar audazmente y construir lo que viene.
+m24-home-mozfest-get-your = Consiga una insignia hoy
+# Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo de { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Encontrá el LLM adecuado para tus necesidades, caso de uso y datos.
