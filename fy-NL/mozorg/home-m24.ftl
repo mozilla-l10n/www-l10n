@@ -68,6 +68,11 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders helpe ûnôfhinklike ûntwikkelers transformative iepenboarne AI-projekten te meitsjen fia gearwurkingen op maat, programmearring en in mienskip.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } helpt ûnôfhinklike ûntwikkelers transformative iepenboarne AI-projekten te meitsjen fia gearwurkingen op maat, programmearring en in mienskip.
 # Used as an accessible text alternative for an image
+m24-home-alt-mozfest = In grutte groep minsken sammele yn in drokke binneneveneminteromte, sjoen fan boppen ôf.
+m24-home-mozfest-join-us = Doch mei ús mei op { -brand-name-mozilla-festival }
+m24-home-mozfest-the-future = De takomst fan technology is net fêststeld – it is oan ús om foarm te jaan. Doch mei ús mei fan 7 oant 9 novimber yn Barcelona, om standerts ôf te learen, moedich te tinken en te bouwen wat de folgjende stap is.
+m24-home-mozfest-get-your = Krij hjoed noch jo badge
+# Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }-logo.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Fyn it krekte LLM foar jo behoeften, gebrûk en gegevens.
