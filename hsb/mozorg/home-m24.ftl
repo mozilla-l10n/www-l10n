@@ -70,6 +70,7 @@ m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } njewot
 # Used as an accessible text alternative for an image
 m24-home-alt-mozfest = Wulka skupina ludźi, kotřiž su so w žiwym nutřkownym rumje za zarjadowanja zešli, wothorjeka hladana.
 m24-home-mozfest-join-us = Přidružće so nam pola { -brand-name-mozilla-festival }
+m24-home-mozfest-the-future = Přichod technologije njeje postajeny – leži na nas jón tworić. Přidružće so nam w Barcelonje 7. - 9. nowmebra, zo byšće konwencije zabył, sprawdu přemyslował a twarił, štož budźe přichodne.
 m24-home-mozfest-get-your = Wobstarajće sej dźensa swoje myto
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }.
