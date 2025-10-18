@@ -67,7 +67,10 @@ m24-home-mozilla-builders = Twaŕce { -brand-name-mozilla }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders njewótwisnym wuwijarjam pomaga, transformatiwne projekty KI wótwórjonego žrědła z na to pśiměrjonym zgromadnym źěłom, programěrowanim a zgromaźeństwom napóraś.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } njewótwisnym wuwijarjam pomaga, transformatiwne projekty KI wótwórjonego žrědła z na to pśiměrjonym zgromadnym źěłom, programěrowanim a zgromaźeństwom napóraś.
+# Used as an accessible text alternative for an image
+m24-home-alt-mozfest = Wjelika kupka luźi jo se zmakała w žywem nutśikownem rumje za zarědowanja, wót wjercha glědana.
 m24-home-mozfest-join-us = Pśizamkniśo se nam pla { -brand-name-mozilla-festival }
+m24-home-mozfest-the-future = Pśichod technologije njejo póstajony – lažy na nas jen twóriś. Pśizamkniśo se nam w Barcelonje 7. - 9. nowembra, aby konwencije zabył, spšawnje pśemyslował a twarił, což buźo pśiduce.
 m24-home-mozfest-get-your = Wobstarajśo se źinsa swójo myto
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }.
