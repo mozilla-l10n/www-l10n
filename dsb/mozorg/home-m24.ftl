@@ -68,6 +68,7 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders njewótwisnym wuwijarjam pomaga, transformatiwne projekty KI wótwórjonego žrědła z na to pśiměrjonym zgromadnym źěłom, programěrowanim a zgromaźeństwom napóraś.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } njewótwisnym wuwijarjam pomaga, transformatiwne projekty KI wótwórjonego žrědła z na to pśiměrjonym zgromadnym źěłom, programěrowanim a zgromaźeństwom napóraś.
 m24-home-mozfest-join-us = Pśizamkniśo se nam pla { -brand-name-mozilla-festival }
+m24-home-mozfest-get-your = Wobstarajśo se źinsa swójo myto
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
