@@ -67,6 +67,8 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = A Builders egyéni együttműködésekkel, programozással és közösséggel segíti a független fejlesztőket a transzformatív nyílt forráskódú MI projektjeiknek létrehozásában.
 m24-home-builders-helps-independent-v2 = A { -brand-name-mozilla-builders } segít a független fejlesztőknek, hogy transzformatív, nyílt forráskódú MI projekteket hozzanak létre, az egyedi együttműködéseken, programozáson és közösségen keresztül.
+# Used as an accessible text alternative for an image
+m24-home-alt-mozfest = Egy forgalmas fedett rendezvénytérben összegyűlt nagy csoport ember, felülről nézve.
 m24-home-mozfest-join-us = Csatlakozzon hozzánk a { -brand-name-mozilla-festival }on
 m24-home-mozfest-the-future = A technológia jövője nem dőlt el – a miénk alakítása. Csatlakozzon hozzánk Barcelonában november 7. és 9. között, hogy megszabaduljon a megszokottól, képzeljen bátran, és építse azt, ami következik.
 m24-home-mozfest-get-your = Szerezze meg a kitűzőt még ma
