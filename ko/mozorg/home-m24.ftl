@@ -68,6 +68,9 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = 빌더는 독립 개발자가 맞춤형 협업과 프로그래밍, 커뮤니티를 통해 혁신적인 오픈 소스 AI 프로젝트를 만들 수 있도록 돕습니다.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders }는 맞춤형 협업과 프로그래밍, 커뮤니티를 통해 독립 개발자가 혁신적인 오픈 소스 AI 프로젝트를 만들 수 있도록 돕습니다.
 # Used as an accessible text alternative for an image
+m24-home-alt-mozfest = 많은 사람들이 북적이는 실내 이벤트 공간에 모여있는 장면을 위에서 본 모습입니다.
+m24-home-mozfest-join-us = { -brand-name-mozilla-festival }에 참여하세요.
+# Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } 로고.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = 요구 사항과 사용 사례, 데이터에 적합한 LLM을 찾으세요.
