@@ -70,6 +70,8 @@ m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders }는 맞
 # Used as an accessible text alternative for an image
 m24-home-alt-mozfest = 많은 사람들이 북적이는 실내 이벤트 공간에 모여있는 장면을 위에서 본 모습입니다.
 m24-home-mozfest-join-us = { -brand-name-mozilla-festival }에 참여하세요.
+m24-home-mozfest-the-future = 기술의 미래는 정해져 있지 않습니다 — 우리가 만들어갈 것입니다. 11월 7일부터 9일까지 바르셀로나에서 함께하세요. 기존의 틀을 깨고, 대담하게 상상하며, 다음 시대를 함께 만들어갑시다.
+m24-home-mozfest-get-your = 오늘 뱃지 받기
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } 로고.
 m24-home-lumigator = { -brand-name-lumigator }
