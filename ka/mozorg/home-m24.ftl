@@ -68,6 +68,10 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders ეხმარება დამოუკიდებელ შემმუშავებლებს ღია წყაროს მქონე AI-საშუალებების შექმნაში ცალკეული თანამშრომლობის, პროგრამებისა და საზოგადოებების ჩამოყალიბებით.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } ეხმარება დამოუკიდებელ შემმუშავებლებს, შექმნან ახლებური სახის ღია წყაროს მქონე AI-პროექტები ცალკეული თანამშრომლობის, დაპროგრამებისა და საზოგადოებების მეშვეობით.
 # Used as an accessible text alternative for an image
+m24-home-alt-mozfest = ხალხის დიდი ჯგუფი შეკრებილი ღონისძიებებისას დატვირთულ დახურულ სივრცეში, ზედხედი.
+m24-home-mozfest-join-us = შემოგვიერთდით – { -brand-name-mozilla-festival }
+m24-home-mozfest-get-your = მიიღეთ თქვენი სამკერდე დღესვე
+# Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }-ლოგო.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = მონახეთ LLM თქვენი საჭიროებებისთვის შესაფერისი გამოყენების პირობებითა და მონაცემებით.
