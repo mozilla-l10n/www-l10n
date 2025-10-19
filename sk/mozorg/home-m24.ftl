@@ -68,6 +68,9 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Inicitíva Builders pomáha nezávislým vývojárom vytvárať transformačné open-source AI projekty vďaka spolupráci komunity pri programovaní.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } pomáha nezávislým vývojárom vytvárať transformačné projekty umelej inteligencie s otvoreným zdrojom prostredníctvom spolupráce na mieru, programovania a komunity.
 # Used as an accessible text alternative for an image
+m24-home-alt-mozfest = Veľká skupina ľudí sa zhromaždila v rušnom vnútornom priestore na podujatia, pri pohľade zhora.
+m24-home-mozfest-join-us = Pridajte sa k nám na { -brand-name-mozilla-festival }
+# Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Nájdite ten správny LLM pre vaše potreby, prípady použitia a údaje.

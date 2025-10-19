@@ -70,6 +70,7 @@ m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } ეხ
 # Used as an accessible text alternative for an image
 m24-home-alt-mozfest = ხალხის დიდი ჯგუფი შეკრებილი ღონისძიებებისას დატვირთულ დახურულ სივრცეში, ზედხედი.
 m24-home-mozfest-join-us = შემოგვიერთდით – { -brand-name-mozilla-festival }
+m24-home-mozfest-the-future = ტექნოლოგიების მომავალი ჯერ არაა განსაზღვრული — მისი ჩამოყალიბება ჩვენს ხელშია. შემოგვიერთდით ბარსელონაში 7–9 ნოემბერს, რომ გადავსინჯოთ დადგენილი წესები, გამოვთქვათ ვარაუდები გაბედულად და შევიმუშავოთ, რა და როგორ უნდა იყოს მომავალში.
 m24-home-mozfest-get-your = მიიღეთ თქვენი სამკერდე დღესვე
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }-ლოგო.
