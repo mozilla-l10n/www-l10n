@@ -105,6 +105,7 @@
 -brand-name-mozilla-account = Mozilla-reikningur
 -brand-name-mozilla-accounts = Mozilla-reikningar
 -brand-name-mozilla-builders = Mozilla Builders smiðirnir
+-brand-name-mozilla-ads = Mozilla auglýsingar
 -brand-name-builders = Builders-smiðir
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
