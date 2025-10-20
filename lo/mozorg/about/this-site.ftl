@@ -10,7 +10,7 @@ about-this-site-desc = ກ່ຽວກັບເວັບໄຊທ໌ www.mozilla
 # Variables:
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
-about-this-site-this-website = ເວັບໄຊທ໌ www.mozilla.org ໄດ້ອອນໄລນ໌ເປັນເວລາຫຼາຍກວ່າສອງທົດສະວັດ. ນັ້ນແມ່ນຕັ້ງແຕ່ <a href="{ $archive }">ເວລາໄດໂນເສົາ</a> ໃນປີອິນເຕີເນັດ. ດັ່ງນັ້ນ, www.mozilla.org ເປັນຫີນແຈຂອງເວັບ, ໂດຍມີຮາກຝັງຢູ່ໃນການເຄື່ອນໄຫວແຫຼ່ງເປີດທີ່ເຫັນ <a href="{ $coderush }">ການສ້າງ { -brand-name-mozilla }</ a>.
+about-this-site-this-website = ເວັບໄຊທ໌ www.mozilla.org ໄດ້ອອນໄລນ໌ເປັນເວລາຫຼາຍກວ່າສອງທົດສະວັດ. ນັ້ນແມ່ນຕັ້ງແຕ່ <a href="{ $archive }">ເວລາໄດໂນເສົາ</a> ໃນປີອິນເຕີເນັດ. ດັ່ງນັ້ນ, www.mozilla.org ເປັນຫີນແຈຂອງເວັບ, ໂດຍມີຮາກຝັງຢູ່ໃນການເຄື່ອນໄຫວແຫຼ່ງເປີດທີ່ເຫັນ <a href="{ $coderush }">ການສ້າງ { -brand-name-mozilla }</a>.
 # Variables:
 #   $firefox (url) link to https://www.mozilla.org/firefox/new/
 #   $vpn (url) link to https://www.mozilla.org/products/vpn/

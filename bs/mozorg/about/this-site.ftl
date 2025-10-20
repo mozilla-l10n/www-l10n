@@ -10,7 +10,7 @@ about-this-site-desc = O web stranici www.mozilla.org i alatima otvorenog koda k
 # Variables:
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
-about-this-site-this-website = Web stranica www.mozilla.org postoji više od dvije decenije. To je još od <a href="{ $archive }">vremena dinosaurusa</a> kada je u pitanju internet. Kao takav, www.mozilla.org je kamen temeljac weba, s korijenima ugrađenim u pokret otvorenog koda koji je doveo do <a href="{ $coderush }">kreacije { -brand-name-mozilla }e</ a>.
+about-this-site-this-website = Web stranica www.mozilla.org postoji više od dvije decenije. To je još od <a href="{ $archive }">vremena dinosaurusa</a> kada je u pitanju internet. Kao takav, www.mozilla.org je kamen temeljac weba, s korijenima ugrađenim u pokret otvorenog koda koji je doveo do <a href="{ $coderush }">kreacije { -brand-name-mozilla }e</a>.
 # Variables:
 #   $firefox (url) link to https://www.mozilla.org/firefox/new/
 #   $vpn (url) link to https://www.mozilla.org/products/vpn/

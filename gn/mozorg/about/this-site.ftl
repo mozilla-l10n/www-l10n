@@ -10,7 +10,7 @@ about-this-site-desc = Ñanduti renda www.mozilla.org rehegua ha tembiporu ijayv
 # Variables:
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
-about-this-site-this-website = Pe ñanduti renda www.mozilla.org ojeporu ojapóma 20 ary. Péva ha’e ja’erõguáicha <a href="{ $archive }">dinosaurio oikoramoguare</a> ñanduti rekovépe. Upévare, www.mozilla.org ha’e mba’e tuicháva ñandutípe g̃uarã, oñembohapo pypukúva ayvu ijurujávape ohecháva <a href="{ $coderush }">heñói jave { -brand-name-mozilla }</ a>.
+about-this-site-this-website = Pe ñanduti renda www.mozilla.org ojeporu ojapóma 20 ary. Péva ha’e ja’erõguáicha <a href="{ $archive }">dinosaurio oikoramoguare</a> ñanduti rekovépe. Upévare, www.mozilla.org ha’e mba’e tuicháva ñandutípe g̃uarã, oñembohapo pypukúva ayvu ijurujávape ohecháva <a href="{ $coderush }">heñói jave { -brand-name-mozilla }</a>.
 # Variables:
 #   $firefox (url) link to https://www.mozilla.org/firefox/new/
 #   $vpn (url) link to https://www.mozilla.org/products/vpn/

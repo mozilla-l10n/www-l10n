@@ -10,7 +10,7 @@ about-this-site-desc = Um www.mozilla.org vefsvæðið og opna hugbúnaðinn sem
 # Variables:
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
-about-this-site-this-website = Vefsvæðið www.mozilla.org hefur verið á netinu í meira en tvo áratugi. Það telst vera frá <a href="{ $archive }">tímum risaeðlanna</a> talið í internetárum. Sem slíkt er www.mozilla.org hornsteinn vefsins, með rætur í hreyfingu opins hugbúnaðar sem leiddi einnig til <a href="{ $coderush }">fæðingar { -brand-name-mozilla }</ a>.
+about-this-site-this-website = Vefsvæðið www.mozilla.org hefur verið á netinu í meira en tvo áratugi. Það telst vera frá <a href="{ $archive }">tímum risaeðlanna</a> talið í internetárum. Sem slíkt er www.mozilla.org hornsteinn vefsins, með rætur í hreyfingu opins hugbúnaðar sem leiddi einnig til <a href="{ $coderush }">fæðingar { -brand-name-mozilla }</a>.
 # Variables:
 #   $firefox (url) link to https://www.mozilla.org/firefox/new/
 #   $vpn (url) link to https://www.mozilla.org/products/vpn/

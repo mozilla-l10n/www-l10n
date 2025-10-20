@@ -10,7 +10,7 @@ about-this-site-desc = Om webbplatsen www.mozilla.org och verktygen med öppen k
 # Variables:
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
-about-this-site-this-website = Webbplatsen www.mozilla.org har varit online i över två decennier. Det är sedan <a href="{ $archive }">dinosaurietiden</a> i internetår. Som sådan är www.mozilla.org en hörnsten på webben, med rötter inbäddade i öppen källkodsrörelsen som såg <a href="{ $coderush }">skapandet av { -brand-name-mozilla }</ a>.
+about-this-site-this-website = Webbplatsen www.mozilla.org har varit online i över två decennier. Det är sedan <a href="{ $archive }">dinosaurietiden</a> i internetår. Som sådan är www.mozilla.org en hörnsten på webben, med rötter inbäddade i öppen källkodsrörelsen som såg <a href="{ $coderush }">skapandet av { -brand-name-mozilla }</a>.
 # Variables:
 #   $firefox (url) link to https://www.mozilla.org/firefox/new/
 #   $vpn (url) link to https://www.mozilla.org/products/vpn/

@@ -10,7 +10,7 @@ about-this-site-desc = Tietoja verkkosivustosta www.mozilla.org ja sen tekemisee
 # Variables:
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
-about-this-site-this-website = Sivusto www.mozilla.org on ollut verkossa yli kaksi vuosikymmentä. Se on ikään kuin <a href="{ $archive }">dinosauruksen aikakausi</a> Internetin vuosia ajattelen. Sellaisenaan www.mozilla.org on verkon kulmakivi, jonka juuret ovat upotettuina avoimen lähdekoodin liikkeeseen, jonka pohjalta <a href="{ $coderush }">luotiin { -brand-name-mozilla }</ a>.
+about-this-site-this-website = Sivusto www.mozilla.org on ollut verkossa yli kaksi vuosikymmentä. Se on ikään kuin <a href="{ $archive }">dinosauruksen aikakausi</a> Internetin vuosia ajattelen. Sellaisenaan www.mozilla.org on verkon kulmakivi, jonka juuret ovat upotettuina avoimen lähdekoodin liikkeeseen, jonka pohjalta <a href="{ $coderush }">luotiin { -brand-name-mozilla }</a>.
 # Variables:
 #   $firefox (url) link to https://www.mozilla.org/firefox/new/
 #   $vpn (url) link to https://www.mozilla.org/products/vpn/

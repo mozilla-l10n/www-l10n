@@ -38,7 +38,7 @@ history-not-many-people-noticed = No mucha gente se dio cuenta en ese momento, p
 history-in-2003-the-mozilla-project = En 2003, el proyecto { -brand-name-mozilla } creó la { -brand-name-mozilla-foundation }, una <a href="{ $foundation }">organización independiente sin ánimo de lucro</a> apoyada por donantes individuales y una variedad de empresas.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = La nueva { -brand-name-mozilla-foundation } continuó con la función de administrar las operaciones diarias del proyecto y también asumió oficialmente la función de promover <a href="{ $manifesto }">transparencia, innovación y oportunidad</ a> en Internet.
+history-the-new-mozilla-foundation = La nueva { -brand-name-mozilla-foundation } continuó con la función de administrar las operaciones diarias del proyecto y también asumió oficialmente la función de promover <a href="{ $manifesto }">transparencia, innovación y oportunidad</a> en Internet.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = Lo hizo al continuar lanzando software, como { -brand-name-firefox } y { -brand-name-thunderbird }, y expandiéndose a nuevas áreas, como dar<a href="{ $grants }">becas</a> para apoyar mejoras de accesibilidad en la web.
