@@ -63,6 +63,8 @@ m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Apoharakuéra
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders oipytyvõ mboguataharakuéra ijeheguívape omoheñóivo apopyrã IA ayvu ijurujáva omoambuekuaáva ñepytyvõ, mbosako’i ha tekoha oipotáva.
+m24-home-mozfest-join-us = Eike orendive { -brand-name-mozilla-festival }-pe
+m24-home-mozfest-get-your = Ereko nde rerarenda ko árape
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } ra’ãnga’i.
 m24-home-lumigator = { -brand-name-lumigator }
