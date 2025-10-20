@@ -68,6 +68,11 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Mae Builders yn helpu datblygwyr annibynnol i greu projectau AI cod agored trawsnewidiol trwy gydweithrediadau, rhaglennu a chymuned pwrpasol.
 m24-home-builders-helps-independent-v2 = Mae { -brand-name-mozilla-builders } yn helpu datblygwyr annibynnol i greu projectau AI cod agored trawsnewidiol trwy gydweithrediadau pwrpasol, rhaglennu, a chymuned.
 # Used as an accessible text alternative for an image
+m24-home-alt-mozfest = Grŵp mawr o bobl wedi casglu mewn gofod digwyddiadau dan do prysur, i'w weld oddi uchod.
+m24-home-mozfest-join-us = Ymunwch â ni yn { -brand-name-mozilla-festival }
+m24-home-mozfest-the-future = Nid yw dyfodol technoleg yn gadarn - ni sydd i'w siapio. Ymunwch â ni yn Barcelona, Tachwedd 7-9 i ddad-ddysgu'r rhagosodedig, dychmygu'n hyderus ac adeiladu'r hyn sydd i ddod.
+m24-home-mozfest-get-your = Cael eich bathodyn heddiw
+# Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Dewch o hyd i'r LLM cywir ar gyfer eich anghenion, achos defnydd a data.
