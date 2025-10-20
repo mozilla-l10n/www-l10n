@@ -7,7 +7,7 @@
 
 # HTML page title
 welcome-page4-download-the-firefox-browser = { -brand-name-android } تے { -brand-name-ios } کیتے آپݨے موبائل تے { -brand-name-firefox-browser } ڈاؤن لوڈ کرو
-welcome-page4-wallet-keys-phone-firefox = پرس چابیاں فون. <strong> { -brand-name-firefox }</ strong>
+welcome-page4-wallet-keys-phone-firefox = پرس چابیاں فون. <strong> { -brand-name-firefox }</strong>
 welcome-page4-privacy-every-screen-now = ہݨ ہر سکرین تے رازداری گھنو
 welcome-page4-take-privacy-with-you-on-every = ہر ݙیوائس تے رازداری کوں اپݨے نال رکھو — تے ڈیٹا ٹریکرز کوں پچھو تے چھوڑ ݙیوو۔
 welcome-page4-privacy-on-by-default = تہاݙی رازداری نویں { -brand-name-firefox } دے نال { -brand-name-android } دے نال پہلے کنوں طے شدہ ہے — تے ہݨ تساں { -brand-name-firefox } کوں { -brand-name-ios } 14 تے اپݨا ڈیفالٹ براؤزر بݨا سڳدے او۔

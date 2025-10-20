@@ -7,7 +7,7 @@
 
 # HTML page title
 welcome-page4-download-the-firefox-browser = Descarcă { -brand-name-firefox-browser } pe mobil pentru { -brand-name-ios } și { -brand-name-android }
-welcome-page4-wallet-keys-phone-firefox = Portofel. Chei. Telefon. <Strong>{ -brand-name-firefox }.</ Strong>
+welcome-page4-wallet-keys-phone-firefox = Portofel. Chei. Telefon. <Strong>{ -brand-name-firefox }.</strong>
 welcome-page4-privacy-every-screen-now = Obține acum confidențialitate pentru fiecare ecran
 welcome-page4-take-privacy-with-you-on-every = Iei cu tine confidențialitatea pe fiecare dispozitiv și lași elementele de urmărire în urmă.
 welcome-page4-privacy-on-by-default = Confidențialitatea ta este activată implicit cu noul { -brand-name-firefox } pentru { -brand-name-android } iar acum poți seta { -brand-name-firefox } ca browser implicit pentru { -brand-name-ios } 14.

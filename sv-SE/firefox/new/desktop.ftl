@@ -86,7 +86,7 @@ firefox-desktop-download-backed-by-the = Stöds av den <strong>ideella</strong> 
 firefox-desktop-download-challenging-the-status = Vi har ifrågasatt status quo sedan 1998
 firefox-desktop-download-your-privacy-comes = Din integritet kommer först
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-keep-all-your = Behåll alla dina favoritfunktioner i webbläsaren — och <strong>upptäck</ strong> nya.
+firefox-desktop-download-keep-all-your = Behåll alla dina favoritfunktioner i webbläsaren — och <strong>upptäck</strong> nya.
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = Alla dina favorit { -brand-name-google } verktyg (som Gmail och Docs) fungerar sömlöst i { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
@@ -144,7 +144,7 @@ firefox-desktop-download-in-another-language = Ladda ner på ett annat språk el
 firefox-desktop-download-windows = { -brand-name-windows }
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
-firefox-desktop-download-if-you-see-a-prompt = Om du får en uppmaning om att appen du försöker installera inte är en { -brand-name-microsoft }-verifierad app, klickar du på "Installera ändå" eller <a { $attrs }>ändra inställningar för apprekommendationer</ a >.
+firefox-desktop-download-if-you-see-a-prompt = Om du får en uppmaning om att appen du försöker installera inte är en { -brand-name-microsoft }-verifierad app, klickar du på "Installera ändå" eller <a { $attrs }>ändra inställningar för apprekommendationer</a>.
 firefox-desktop-download-visit-support-for-more = Besök support för mer information
 # Variables:
 #   $id (string) - HTML ID for the download link.

@@ -125,9 +125,9 @@ firefox-desktop-download-almost-there = تقریباً اُتھ!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = { -brand-name-firefox } <strong>انسٹال کرݨ</strong> ہݨ مکمل کرو۔
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-now-windows = ہݨ  او انسٹالر <strong> چلاؤ </ strong> جہڑا ہݨے ہݨے ڈاؤن لوڈ تھیا ہے۔
+firefox-desktop-download-now-windows = ہݨ  او انسٹالر <strong> چلاؤ </strong> جہڑا ہݨے ہݨے ڈاؤن لوڈ تھیا ہے۔
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-now-mac = ہݨ  او فائل <strong> کھولو </ strong> جہڑی ہݨے ہݨے ڈاؤن لوڈ تھئی ہے۔
+firefox-desktop-download-now-mac = ہݨ  او فائل <strong> کھولو </strong> جہڑی ہݨے ہݨے ڈاؤن لوڈ تھئی ہے۔
 # the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-select-linux = ہیٹھاں <strong>ڈاؤن لوڈ کرو</strong> اختیار چݨو
 # Variables:

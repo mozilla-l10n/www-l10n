@@ -35,7 +35,7 @@ browser-history-by-1995-netscape = En 1995, { -brand-name-netscape } Navigator n
 browser-history-netscape-created = { -brand-name-netscape } creó y lanzó JavaScript, que dio a las páginas web potentes posibilidades de computación que nunca antes habían tenido. (Ellos también crearon la infame <a href="{ $blink }">etiqueta &lt;blink&gt;</a>.) { -brand-name-microsoft } contraatacó con Cascading Style Sheets (CSS), que se convirtió en el estándar para diseño de páginas web.
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
-browser-history-things-got-a-little = Las cosas se fueron un poco de las manos en 1997, cuando { -brand-name-microsoft } lanzó { -brand-name-ie } 4.0. El equipo construyó una gigante letra "e" y la puso en el césped de la sede de { -brand-name-netscape }. El equipo de { -brand-name-netscape } derribó rápidamente la "e" gigante y <a href="{ $dino }">puso encima su propia mascota, el dinosaurio { -brand-name-mozilla } </ a >.
+browser-history-things-got-a-little = Las cosas se fueron un poco de las manos en 1997, cuando { -brand-name-microsoft } lanzó { -brand-name-ie } 4.0. El equipo construyó una gigante letra "e" y la puso en el césped de la sede de { -brand-name-netscape }. El equipo de { -brand-name-netscape } derribó rápidamente la "e" gigante y <a href="{ $dino }">puso encima su propia mascota, el dinosaurio { -brand-name-mozilla } </a>.
 # Variables:
 #   $mozilla (url) - https://en.wikipedia.org/wiki/Mozilla
 #   $marketshare (url) - https://en.wikipedia.org/wiki/Internet_Explorer#Market_adoption_and_usage_share

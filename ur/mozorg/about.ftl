@@ -23,10 +23,10 @@ about-a-global-view = ایک عالمی منظر
 about-with-offices-all-over-the = <a href="{ $url }"> پوری دنیا میں دفاتر </a> کے ساتھ ، ہم انٹرنیٹ کو متعدد ثقافتوں اور سیاق و سباق سے ہی غور کرتے ہیں۔
 about-san-francisco = سان فرانسسکو
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
-about-2000-non-employee-guests-welcomed = <strong> 2000 </ strong> غیر ملازم مہمانوں کا ہر سال استقبال کیا جاتا ہے
+about-2000-non-employee-guests-welcomed = <strong> 2000 </strong> غیر ملازم مہمانوں کا ہر سال استقبال کیا جاتا ہے
 about-berlin = برلن
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
-about-500-annual-attendees-to-the = برلن اسپیکر سیریز کے سالانہ شرکاء </ strong>500 <strong>
+about-500-annual-attendees-to-the = برلن اسپیکر سیریز کے سالانہ شرکاء </strong>500 <strong>
 about-toronto = ٹورنٹو
 about-work-at-mozilla = { -brand-name-mozilla }میں کام کریں
 about-join-a-mission-driven-organization = ایک مشن پر مبنی تنظیم میں شامل ہوں جو مقصد سے چلنے والی مصنوعات تیار کرتی ہے۔
