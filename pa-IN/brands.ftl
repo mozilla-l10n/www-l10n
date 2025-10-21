@@ -105,6 +105,7 @@
 -brand-name-mozilla-account = Mozilla ਖਾਤਾ
 -brand-name-mozilla-accounts = Mozilla ਖਾਤੇ
 -brand-name-mozilla-builders = Mozilla ਬਿਲਡਰ
+-brand-name-mozilla-ads = Mozilla ਇਸ਼ਤਿਹਾਰ
 -brand-name-builders = ਬਿਲਡਰ
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
