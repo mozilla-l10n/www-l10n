@@ -69,6 +69,11 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders membantu pengembang independen dalam menciptakan proyek AI sumber terbuka yang transformatif melalui kolaborasi, pemrograman, dan komunitas yang dirancang khusus.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } membantu pengembang independen dalam menciptakan proyek AI sumber terbuka yang transformatif melalui kolaborasi, pemrograman, dan komunitas yang dirancang khusus.
 # Used as an accessible text alternative for an image
+m24-home-alt-mozfest = Sekelompok besar orang berkumpul di area acara dalam ruangan yang ramai, terlihat dari atas.
+m24-home-mozfest-join-us = Bergabunglah dengan kami di { -brand-name-mozilla-festival }
+m24-home-mozfest-the-future = Masa depan teknologi belum ditentukan — kitalah yang akan membentuknya. Bergabunglah bersama kami di Barcelona pada 7–9 November untuk mengubah pola lama, berani berimajinasi, dan membangun masa depan.
+m24-home-mozfest-get-your = Dapatkan lencana Anda sekarang juga
+# Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Temukan LLM yang sesuai dengan kebutuhan, kasus penggunaan, dan data Anda.

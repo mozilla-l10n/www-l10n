@@ -73,8 +73,17 @@ newsletters-to-get-access-to-the-whole = Untuk mendapatkan akses ke seluruh duni
 #   $url (url) - link to https://www.mozilla.org/about/forums/
 newsletters-there-are-many-ways-to = Terdapat banyak cara untuk terlibat dengan { -brand-name-mozilla } dan { -brand-name-firefox }. Jika Anda tidak menemukan yang Anda cari di sini, lihat <a href="{ $url }">laman komunitas</a> kami.
 
+# Variables:
+#   $foundation (url) - link to https://www.mozillafoundation.org
+newsletters-newsletter-subscriptions-for = Langganan buletin untuk <a href="{ $foundation }">{ -brand-name-mozilla-foundation }</a> kini dikelola secara terpisah.
 
+# Variables:
+#   $unsubscribe (url) - link to https://www.mozillafoundation.org/newsletter/unsubscribe
+newsletters-to-unsubscribe = Untuk berhenti berlangganan dari buletin { -brand-name-mozilla-foundation }, klik di sini: <a href="{ $unsubscribe }">{ $unsubscribe }</a>.
 
+# Variables:
+#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter/subscribe
+newsletters-if-you-arent-already-subscribed = Jika Anda belum berlangganan dan ingin tetap mendapatkan pembaruan, klik di sini: <a href="{ $subscribe }">{ $subscribe }</a>.
 
 # Variables:
 #   $newsletter (string) - newsletter name
