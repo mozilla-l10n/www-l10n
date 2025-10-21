@@ -103,6 +103,7 @@
 -brand-name-mozilla-account = Mozilla アカウント
 -brand-name-mozilla-accounts = Mozilla アカウント
 -brand-name-mozilla-builders = Mozilla Builders
+-brand-name-mozilla-ads = Mozilla 広告
 -brand-name-builders = ビルダー
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
