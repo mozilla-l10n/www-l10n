@@ -73,8 +73,17 @@ newsletters-to-get-access-to-the-whole = للوصول إلى عالم من من�
 #   $url (url) - link to https://www.mozilla.org/about/forums/
 newsletters-there-are-many-ways-to = هناك طرق عديدة للتفاعل مع { -brand-name-mozilla } و{ -brand-name-firefox }. إذا لم تجد ما كنت تبحث عنه هنا، فراجع <a href="{ $url }">صفحات المنتدى</a>.
 
+# Variables:
+#   $foundation (url) - link to https://www.mozillafoundation.org
+newsletters-newsletter-subscriptions-for = تُدار اشتراكات نشرة الأخبار لـ <a href="{ $foundation }">{ -brand-name-mozilla-foundation }</a> بشكل منفصل الآن.
 
+# Variables:
+#   $unsubscribe (url) - link to https://www.mozillafoundation.org/newsletter/unsubscribe
+newsletters-to-unsubscribe = لإلغاء الاشتراك من نشرة أخبار { -brand-name-mozilla-foundation }، يُرجى الضغط هنا: <a href="{ $unsubscribe }">{ $unsubscribe }</a>.
 
+# Variables:
+#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter/subscribe
+newsletters-if-you-arent-already-subscribed = إذا لم تكن مشتركًا بالفعل وترغب في معرفة كل ما هو جديد، يُرجى الضغط هنا: <a href="{ $subscribe }">{ $subscribe }</a>.
 
 # Variables:
 #   $newsletter (string) - newsletter name
