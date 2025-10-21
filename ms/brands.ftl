@@ -103,6 +103,7 @@
 -brand-name-mozilla-account = Akaun Mozilla
 -brand-name-mozilla-accounts = Akaun Mozilla
 -brand-name-mozilla-builders = Mozilla Builders
+-brand-name-mozilla-ads = Iklan Mozilla
 -brand-name-builders = Pembina
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
