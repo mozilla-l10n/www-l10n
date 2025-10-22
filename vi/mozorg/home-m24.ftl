@@ -68,6 +68,11 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders hỗ trợ các nhà phát triển độc lập trong việc tạo ra các dự án AI nguồn mở mang tính chất biến đổi thông qua sự hợp tác, lập trình và cộng đồng được thiết kế riêng biệt.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } hỗ trợ các nhà phát triển độc lập trong việc tạo ra các dự án AI nguồn mở mang tính chất biến đổi thông qua sự hợp tác, lập trình và cộng đồng được thiết kế riêng biệt.
 # Used as an accessible text alternative for an image
+m24-home-alt-mozfest = Một nhóm lớn người tụ tập tại một không gian sự kiện trong nhà đông đúc, nhìn từ trên cao.
+m24-home-mozfest-join-us = Tham gia cùng chúng tôi tại { -brand-name-mozilla-festival }
+m24-home-mozfest-the-future = Tương lai của công nghệ không phải là thứ đã được định sẵn - mà là do chính chúng ta định hình. Hãy tham gia cùng chúng tôi tại Barcelona từ ngày 7 đến 9 tháng 11 để xóa bỏ những mặc định, mạnh dạn tưởng tượng và xây dựng những điều tiếp theo.
+m24-home-mozfest-get-your = Nhận huy hiệu của bạn ngay hôm nay
+# Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Tìm LLM phù hợp với nhu cầu, use case và dữ liệu của bạn.
