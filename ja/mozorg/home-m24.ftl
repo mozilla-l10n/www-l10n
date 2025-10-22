@@ -69,6 +69,11 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = ビルダーは、オーダーメイドのコラボレーション、プログラミング、コミュニティを通じて、革新的なオープンソースの AI プロジェクトを立ち上げる独立した開発者を支援しています。
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } は、オーダーメイドのコラボレーション、プログラミング、コミュニティを通じて、革新的なオープンソースの AI プロジェクトを立ち上げる独立した開発者を支援しています。
 # Used as an accessible text alternative for an image
+m24-home-alt-mozfest = 屋内の賑やかなイベントスペースに集まった大勢の人々を鳥瞰している。
+m24-home-mozfest-join-us = { -brand-name-mozilla-festival } にご参加ください
+m24-home-mozfest-the-future = テクノロジーの未来は定まったものではなく、私たちが形作るものです。11 月 7 日から 9 日までバルセロナで開催されるイベントに参加し、既定概念を捨てて、大胆に想像し、未来を築きましょう。
+m24-home-mozfest-get-your = 今すぐバッジを入手
+# Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } のロゴ。
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = ユーザーのニーズ、ユースケース、データに適した LLM をお探しください。

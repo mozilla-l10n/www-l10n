@@ -73,8 +73,17 @@ newsletters-to-get-access-to-the-whole = ひとつのアカウントで { -brand
 #   $url (url) - link to https://www.mozilla.org/about/forums/
 newsletters-there-are-many-ways-to = { -brand-name-mozilla } と { -brand-name-firefox } に参加する方法は多数あります。こちらでお探しのものが見つからない場合は、Mozilla の<a href="{ $url }">コミュニティページ</a>をご覧ください。
 
+# Variables:
+#   $foundation (url) - link to https://www.mozillafoundation.org
+newsletters-newsletter-subscriptions-for = <a href="{ $foundation }">{ -brand-name-mozilla-foundation }</a> のニュースレター登録は、別途管理されるようになりました。
 
+# Variables:
+#   $unsubscribe (url) - link to https://www.mozillafoundation.org/newsletter/unsubscribe
+newsletters-to-unsubscribe = { -brand-name-mozilla-foundation } ニュースレターの配信を停止するには、こちらをクリックしてください: <a href="{ $unsubscribe }">{ $unsubscribe }</a>
 
+# Variables:
+#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter/subscribe
+newsletters-if-you-arent-already-subscribed = 登録して最新情報をお受け取りになるには、こちらをクリックしてください: <a href="{ $subscribe }">{ $subscribe }</a>
 
 # Variables:
 #   $newsletter (string) - newsletter name

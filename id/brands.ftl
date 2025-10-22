@@ -103,6 +103,7 @@
 -brand-name-mozilla-account = Akun Mozilla
 -brand-name-mozilla-accounts = Akun Mozilla
 -brand-name-mozilla-builders = Mozilla Builders
+-brand-name-mozilla-ads = Mozilla Ads
 -brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
