@@ -68,6 +68,11 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = ຜູ້ກໍ່ສ້າງຊ່ວຍໃຫ້ຜູ້ພັດທະນາເອກະລາດສ້າງໂຄງການ AI ເປີດແຫຼ່ງທີ່ປ່ຽນແປງໄດ້ໂດຍຜ່ານການຮ່ວມມື, ການຂຽນໂປຼແກຼມ, ແລະ ຊຸມຊົນ.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } ຊ່ວຍໃຫ້ຜູ້ພັດທະນາອິດສະຫຼະສ້າງໂຄງການ AI ແບບໂອເພນຊອດທີ່ປ່ຽນແປງໄດ້ໂດຍຜ່ານການຮ່ວມມື, ການຂຽນໂປຼແກຼມ ແລະ ຊຸມຊົນ.
 # Used as an accessible text alternative for an image
+m24-home-alt-mozfest = ຄົນກຸ່ມໃຫຍ່ໄດ້ມາເຕົ້າໂຮມກັນຢູ່ໃນບ່ອນຈັດງານໃນຮົ່ມທີ່ຫຍຸ້ງຢູ່, ເບິ່ງຈາກດ້ານເທິງ.
+m24-home-mozfest-join-us = ເຂົ້າຮ່ວມກັບພວກເຮົາທີ່ { -brand-name-mozilla-festival }
+m24-home-mozfest-the-future = ອະນາຄົດຂອງເທັກໂນໂລຍີບໍ່ໄດ້ຕັ້ງ — ມັນເປັນຂອງພວກເຮົາທີ່ຈະສ້າງ. ເຂົ້າຮ່ວມກັບພວກເຮົາທີ່ບາເຊໂລນາວັນທີ 7-9 ພະຈິກເພື່ອຮຽນຮູ້ຄ່າເລີ່ມຕົ້ນ, ຈິນຕະນາການຢ່າງກ້າຫານ ແລະ ສ້າງສິ່ງຕໍ່ໄປ.
+m24-home-mozfest-get-your = ເອົາປ້າຍຂອງທ່ານມື້ນີ້
+# Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = ໂລໂກ້ { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = ຄົ້ນຫາ LLM ທີ່ເຫມາະສົມສໍາລັບຄວາມຕ້ອງການ, ກໍລະນີການນໍາໃຊ້ ແລະ ຂໍ້ມູນຂອງທ່ານ.
