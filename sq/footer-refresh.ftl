@@ -32,6 +32,7 @@ footer-refresh-tools = Mjete
 footer-refresh-donate = Dhuroni
 # Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = Vizitoni entin mëmë jofitimprurës të <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
+footer-refresh-visit-mozilla-corporations-v2 = Vizitoni entin mëmë jofitimprurës të <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Pjesë të kësaj lënde janë nën të drejta kopjimi ©1998–{ $current_year } nga kontribues individualë te mozilla.org. Lëndë që mund të përdoret sipas një <a rel="license" { $href }>licence { -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Shënim Privatësie Sajti
 footer-refresh-websites-cookies = “Cookies”

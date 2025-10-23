@@ -7,6 +7,8 @@ send-to-device-your-download-link = Lidhja për shkarkim u dërgua.
 send-to-device-please-enter-an-email = Ju lutemi, jepni një adresë email.
 send-to-device-an-error-occured = Ndodhi një gabim në sistemin tonë. Ju lutemi, riprovoni.
 send-to-device-enter-your-email = Jepni email-in tuaj
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = emrijuaj@example.com
 send-to-device-send = Dërgoje
 send-to-device-intended-recipient-email = Duhet miratuar nga marrësi i synuar për email-in.
 send-to-device-check-your-device-email = Kontrolloni te pajisja juaj për email-in!

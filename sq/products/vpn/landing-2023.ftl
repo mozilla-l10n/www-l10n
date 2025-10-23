@@ -56,3 +56,6 @@ vpn-landing-do-you-need-a-vpn-at-home = A ju duhet një VPN në shtëpi? Ja 5 ar
 vpn-landing-what-is-an-ip-address = Ç’është një adresë IP?
 vpn-landing-how-your-location-is-tracked = Si ndiqet vendndodhja juaj dhe se si mund ta kufizoni mësimin e saj
 vpn-landing-see-more-resources = Shihni më tepër burime
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }
