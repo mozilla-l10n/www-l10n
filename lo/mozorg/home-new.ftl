@@ -10,9 +10,12 @@ home-did-you-know-mozilla-the-maker = ທ່ານຮູ້​ບໍ່? { -bran
 home-mission-driven = ຂັບເຄື່ອນດ້ວຍພາລະກິດ. ພະລັງຂອງຜູ້ຄົນ.
 home-product-firefox-browsing = ການຄົ້ນຫາສ່ວນຕົວ ແລະ ປອດໄພ
 home-cta-get-firefox = ເອົາ { -brand-name-firefox }
+home-product-relay-hide-your = ເຊື່ອງເບີໂທລະສັບ ແລະ ອີເມວຂອງທ່ານຈາກ spammers
 home-cta-get-relay = ເອົາ { -brand-name-relay }
 home-product-vpn-trust = VPN ທີ່ທ່ານສາມາດເຊື່ອຖືໄດ້
 home-cta-get-vpn = ເອົາ { -brand-name-mozilla-vpn }
+home-product-monitor-protect-your = ປົກປ້ອງຂໍ້ມູນສ່ວນຕົວຂອງທ່ານຈາກນາຍໜ້າຂໍ້ມູນ
+home-cta-get-monitor = ເອົາ { -brand-name-monitor }
 home-read-more = ອ່ານເພີ່ມເຕີມ
 # Variables
 #   $ventures - link to https://mozilla.vc/
