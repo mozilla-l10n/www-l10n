@@ -10,6 +10,7 @@ home-did-you-know-mozilla-the-maker = הידעת? { -brand-name-mozilla } — ה
 home-firefox-browser = { -brand-name-firefox-browser(case: "a") }
 home-fast-for-good = מהיר ולמטרה טובה.
 home-with-2x-the-speed-built-in = עם מהירות כפולה, הגנת פרטיות מובנית והתמיכה של { -brand-name-mozilla }, הגלישה ב־{ -brand-name-firefox } החדש פשוט טובה יותר.
+home-mozilla-is-the-not-for-profit = { -brand-name-mozilla } היא העמותה ללא מטרות רווח שמאחורי { -brand-name-firefox }, הדפדפן האלטרנטיבי המקורי. אנחנו יוצרים מוצרים ומדיניות כדי לשמור על האינטרנט בשירות האנשים, לא לרווח.
 home-our-impact = ההשפעה שלנו
 home-when-you-use-firefox-you-help = שימוש ב־{ -brand-name-firefox } מסייע ל־{ -brand-name-mozilla } להילחם בהפצת מידע מוטעה ברשת, ללמד מיומנויות דיגיטליות ולהפוך את מדור התגובות לאנושי יותר. להלן הדרכים שמסייעות ליצור אינטרנט בריא יותר.
 home-mozilla-information-trust-initiative = יזמת אמינות מידע מבית { -brand-name-mozilla }
