@@ -9,6 +9,7 @@
 privacy-firefox-basics = Osnove zasebnosti
 privacy-firefox-youre-in-control = Nadzor je v vaših rokah
 privacy-firefox-read-our-privacy = Preberite naše obvestilo o zasebnosti
+privacy-firefox-transparency-first = Preglednost na prvem mestu
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } za namizja
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } za mobilne naprave
 # heading for the table of contents, a shorter heading is better
