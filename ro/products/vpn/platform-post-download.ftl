@@ -46,10 +46,14 @@ vpn-download-and-install = <a href="{ $extension }">Descarcă și instalează ex
 vpn-download-faq-need-help = Ai nevoie de ajutor la început?
 vpn-download-faq-here-are-some = Iată câteva dintre cele mai frecvente întrebări despre configurarea { -brand-name-mozilla-vpn }
 vpn-download-faq-why-use = De ce ar trebui să folosesc { -brand-name-mozilla-vpn }
+# Variables:
+#   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-download-faq-concealing-ip = Ascunderea adevăratei tale <a href="{ $ip }">adrese IP</a>: ajută la protejarea identității tale și îți ascunde locația față de site-urile web pe care intri.
 vpn-download-faq-encrypting = Criptarea traficului de internet: astfel încât nimeni de pe fir să nu poată spiona activitatea ta online.
 vpn-download-faq-working = Cum știu că VPN-ul funcționează?
 vpn-download-faq-add-device = Cum adaug un alt dispozitiv?
 vpn-download-faq-best-practices = Care sunt câteva dintre cele mai bune practici VPN?
+vpn-download-faq-lastly = În cele din urmă, pe dispozitivele compatibile, poți face VPN-ul și mai inteligent excluzând anumite aplicații (de ex. Netflix) din VPN.
 vpn-download-faq-need-more = Ai nevoie de mai mult ajutor?
 # Variables
 #   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn

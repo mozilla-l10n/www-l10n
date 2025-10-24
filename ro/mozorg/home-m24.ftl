@@ -68,6 +68,11 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders ajută dezvoltatorii independenți să creeze proiecte IA transformatoare cu sursă deschisă prin colaborări, programare personalizată și comunitate.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } ajută dezvoltatorii independenți să creeze proiecte IA transformatoare cu sursă deschisă prin colaborări, programare personalizată și comunitate.
 # Used as an accessible text alternative for an image
+m24-home-alt-mozfest = Un grup mare de oameni s-a adunat într-un spațiu interior aglomerat pentru evenimente, văzut de sus.
+m24-home-mozfest-join-us = Hai cu noi la { -brand-name-mozilla-festival }
+m24-home-mozfest-the-future = Viitorul tehnologiei nu este fix — este al nostru, ca să-l modelăm. Hai cu noi în Barcelona, între 7 și 9 noiembrie, ca să ne descotorosim de convenții, să ne imaginăm cu curaj și să construim ce urmează.
+m24-home-mozfest-get-your = Ia-ți insigna azi
+# Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Găsește LLM-ul potrivit nevoilor, cazurilor de utilizare și datelor tale.
