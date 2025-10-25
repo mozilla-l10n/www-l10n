@@ -55,11 +55,13 @@ manifesto-details-as-a-result-of = Si rrjedhojë e këtyre përpjekjeve, kemi p�
 manifesto-details-the-goals-for = Qëllimet e Manifestit janë:
 # Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = t’i japë formë përfytyrimit që bashkëpunëtorët e { -brand-name-mozilla }-s dëshirojnë të ndiqet nga Fondacioni { -brand-name-mozilla-foundation };
+manifesto-details-articulate-a-vision-v2 = t’i japë formë përfytyrimit që bashkëpunëtorët e { -brand-name-mozilla }-s dëshirojnë të ndiqet nga Fondacioni { -brand-name-mozilla-foundation };
 manifesto-details-speak-to-people = t’u flitet si atyre që kanë, ashtu edhe atyre që nuk kanë njohje teknike;
 manifesto-details-make-mozilla-contributors = t’i bëjë pjesëmarrësit te { -brand-name-mozilla } krenarë për çka bëjnë dhe t’i nxisë të vazhdojnë; dhe
 manifesto-details-provide-a-framework = të furnizojë një kuadër pune për të tjerë persona që do të shtyjnë më para këtë përfytyrim të Internetit.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = Këto parime nuk lulëzojnë vetë. Lypsen njerëz që ta bëjnë Internetin të hapur dhe dashamirës - njerëz që punojnë më vete, që punojnë tok në grupe dhe që udhëheqin të tjerët. Fondacioni { -brand-name-mozilla-foundation } i është përkushtuar shpënies më tej të parimeve të ravijëzuara te Manifesti { -brand-name-mozilla }. Ftojmë edhe të tjerët të bashkohen me ne për ta bërë Internetin një vend akoma më të mirë për të tërë.
+manifesto-details-these-principles-v2 = Këto parime nuk lulëzojnë vetë. Lypsen njerëz që ta bëjnë Internetin të hapur dhe dashamirës - njerëz që punojnë më vete, që punojnë tok në grupe dhe që udhëheqin të tjerët. Fondacioni { -brand-name-mozilla-foundation } i është përkushtuar shpënies më tej të parimeve të ravijëzuara te Manifesti { -brand-name-mozilla }. Ftojmë edhe të tjerët të bashkohen me ne për ta bërë Internetin një vend akoma më të mirë për të tërë.
 manifesto-details-principles = Parimet
 manifesto-details-the-internet-is-integral = Interneti është pjesë e pandarë e jetës moderne – përbërës kyç në edukim, komunikim, bashkëpunim, biznes, dëfrim dhe në shoqërinë në tërësi.
 manifesto-details-the-internet-is-global = Interneti është burim i përbashkët mbarëbotëror dhe duhet të mbetet i hapur dhe i shfrytëzueshëm.
@@ -76,6 +78,7 @@ manifesto-details-there-are-many = Ka plot rrugë të ndryshme për të shpënë
 manifesto-details-mozilla-foundation = Zotimi i { -brand-name-mozilla-foundation }-it
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } zotohet të mbështesë Manifestin e { -brand-name-mozilla }-s përgjatë veprimtarive të tij. Në veçanti:
+manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation } zotohet të mbështesë Manifestin e { -brand-name-mozilla }-s përgjatë veprimtarive të tij. Në veçanti:
 manifesto-details-build-and-enable = do të ndërtojmë dhe bëjmë të mundura teknologji me burim të hapët dhe bashkësi që mbështesin parimet e Manifestit;
 manifesto-details-build-and-deliver = do të krijojmë dhe shpërndajmë produkte të fuqishëm konsumatori, që mbështesin parimet e Manifestit;
 manifesto-details-use-the-mozilla = do të përdorim burimet e { -brand-name-mozilla }-s (pronësinë intelektuale, të tilla si të drejtat e autorit dhe shenjat tregtare, infrastrukturën, fondet dhe famën) për ta mbajtur Internetin platformë të hapur;
@@ -83,6 +86,8 @@ manifesto-details-promote-models = do të nxisim modele krijimi vlerash ekonomik
 manifesto-details-promote-the-mozilla = do të nxisim përhapjen e parimeve të Manifestit { -brand-name-mozilla } në diskursin publik dhe brenda vetë industrisë së Internetit.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Disa veprimtari të { -brand-name-mozilla-foundation }-it – hëpërhë krijimi, qarkullimi dhe nxitja e produkteve të konsumatorit – drejtohen së pari nga nëndegë në pronësi të plotë të { -brand-name-mozilla-foundation }-it, { -brand-name-mozilla-corporation }.
+manifesto-details-some-foundation-v2 = Disa veprimtari të { -brand-name-mozilla-foundation }-it – hëpërhë krijimi, qarkullimi dhe nxitja e produkteve të konsumatorit – drejtohen së pari nga nëndegë në pronësi të plotë të { -brand-name-mozilla-foundation }-it, { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Ftesë
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } fton gjithë të tjerët që mbështesin parimet e Manifestit { -brand-name-mozilla } të bashkohen me ne dhe të gjejmë rrugë të reja për ta bërë realitet këtë përfytyrim të Internetit.
+manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } fton gjithë të tjerët që mbështesin parimet e Manifestit { -brand-name-mozilla } të bashkohen me ne dhe të gjejmë rrugë të reja për ta bërë realitet këtë përfytyrim të Internetit.

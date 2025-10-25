@@ -104,6 +104,7 @@
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account = Llogari Mozilla
 -brand-name-mozilla-accounts = Llogari Mozilla
+-brand-name-mozilla-ads = { "" }
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-rise25 = Rise25

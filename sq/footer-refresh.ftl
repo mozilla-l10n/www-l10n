@@ -7,6 +7,8 @@ footer-refresh-leadership = Udhëheqje
 footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
 footer-refresh-learn-more-about-mozilla-ads = Mësoni më tepër <span>mbi { footer-refresh-mozilla-ads }</span>
+# Obsolete string (expires 2026-10-03)
+footer-refresh-learn-more-about-mozilla-advertising = Mësoni më tepër <span>rreth { -brand-name-mozilla } Advertising</span>
 footer-refresh-firefox-release-notes = Shënime Hedhjesh Në Qarkullim { -brand-name-firefox }-i
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Ndiqni @{ -brand-name-mozilla }

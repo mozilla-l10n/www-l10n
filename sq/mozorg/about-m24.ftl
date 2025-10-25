@@ -28,6 +28,7 @@ m24-about-we-uncover-insights = Ne zbulojmë prirje, bëjmë fushatë për të p
 m24-about-build = Ndërtim
 # Obsolete string (expires 25-10-2025)
 m24-about-we-build-products = Ndërtojmë produkte që ju vënë ju në kontroll — të tillë si { -brand-name-firefox }, { -brand-name-fakespot }, etj.
+m24-about-we-build-products-v2 = Ndërtojmë produkte që ju vënë ju në kontroll — të tillë si { -brand-name-firefox }, etj.
 m24-about-fund = Financim
 m24-about-we-fund-and = Financojmë dhe investojmë në njerëz dhe përpjekje që shpien teknologjinë, internetin dhe IA-në në drejtimin e duhur.
 
