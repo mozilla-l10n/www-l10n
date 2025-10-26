@@ -43,6 +43,6 @@ firefox-accounts-get-it-all-on-every = Sur tous vos appareils, quel que soit vot
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+firefox-accounts-firefox-browser = Navigateur Firefox
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }

@@ -5,12 +5,12 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
 # HTML page title
-mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
+mobile-android-firefox-browser-android = Navigateur Firefox pour { -brand-name-android }
 
 # HTML description
 mobile-android-firefox-browser-for = Le navigateur { -brand-name-firefox } pour { -brand-name-android } est rapide, sécurisé et privé dès la première ouverture.
 
-mobile-android-firefox-browser = { -brand-name-firefox-browser }
+mobile-android-firefox-browser = Navigateur Firefox
 
 mobile-android-get-firefox-for = Adoptez { -brand-name-firefox } pour { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Envoyez un lien vers votre téléphone.

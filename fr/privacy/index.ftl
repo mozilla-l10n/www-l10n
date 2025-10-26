@@ -38,7 +38,7 @@ privacy-index-to-review-and-comment-on-proposed = Pour consulter et commenter le
 privacy-index-read-more-about-our-ongoing = Apprenez-en davantage sur les actions que nous menons concernant les politiques liées à la sécurité et au respect de la vie privée sur <a href="{ $blog }">le blog Open Policy and Advocacy de { -brand-name-mozilla }</a>.
 privacy-index-outdated-policies = Politiques obsolètes
 privacy-index-mozilla-websites-communications = Sites web de { -brand-name-mozilla }, communications et cookies
-privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-browser = Navigateur Firefox
 privacy-index-firefox-focus = { -brand-name-firefox-focus }
 privacy-index-thunderbird = { -brand-name-thunderbird }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
