@@ -14,7 +14,7 @@ firefox-desktop-download-meta-desc = Installez { -brand-name-firefox }, un navig
 firefox-desktop-download-meta-desc-v2 = Installez { -brand-name-firefox } pour { -brand-name-windows }, { -brand-name-mac-short } ou { -brand-name-linux }. { -brand-name-firefox } est un navigateur gratuit soutenu par { -brand-name-mozilla }, une organisation à but non lucratif consacrée à la santé d'Internet et au respect de la vie privée.
 firefox-desktop-download-og-title = Téléchargez la version la plus rapide de { -brand-name-firefox }
 firefox-desktop-download-og-desc = Un chargement des pages plus rapide, une consommation mémoire réduite et plein de fonctionnalités : le nouveau { -brand-name-firefox } est là.
-firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+firefox-desktop-download-firefox = Navigateur Firefox
 
 # Variables:
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
@@ -105,7 +105,7 @@ firefox-desktop-download-screenshots = Captures d’écran
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = Protection renforcée contre le pistage
 firefox-desktop-download-from-watching-a = Que ce soit pour regarder un tutoriel web ou pour garder un œil sur votre équipe préférée, votre vidéo reste bien en vue pendant que vous effectuez plusieurs tâches à la fois.
-firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-firefox-browser = Navigateur Firefox
 firefox-desktop-download-get-firefox-android = Obtenez le { -brand-name-firefox-browser } pour <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Obtenez le { -brand-name-firefox-browser } pour <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Téléchargez le navigateur mobile { -brand-name-firefox } pour une protection automatique sur tous vos appareils.

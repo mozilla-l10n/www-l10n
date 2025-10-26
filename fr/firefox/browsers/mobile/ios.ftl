@@ -5,9 +5,9 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
 
 # HTML page title
-mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } et { -brand-name-ipad })
+mobile-ios-firefox-browser-ios = Navigateur Firefox pour { -brand-name-ios } ({ -brand-name-iphone } et { -brand-name-ipad })
 
-mobile-ios-firefox-browser = { -brand-name-firefox-browser }
+mobile-ios-firefox-browser = Navigateur Firefox
 
 mobile-ios-get-firefox-for = Adoptez { -brand-name-firefox } pour { -brand-name-ios }
 

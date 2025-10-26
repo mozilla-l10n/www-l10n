@@ -9,7 +9,7 @@ navigation-v2-menu = Menu
 
 ## Firefox menu
 
-navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
+navigation-v2-firefox-browsers = Navigateurs Firefox
 navigation-v2-close-firefox-browsers-menu = Fermer le menu { -brand-name-firefox-browsers }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } pour ordinateur
 navigation-v2-get-the-not-for-profit-backed = Adoptez le navigateur soutenu par une organisation à but non lucratif sous { -brand-name-windows }, { -brand-name-mac-short } ou { -brand-name-linux }.
@@ -17,7 +17,7 @@ navigation-v2-firefox-for-android = { -brand-name-firefox } pour { -brand-name-a
 navigation-v2-get-the-customizable-mobile = Obtenez le navigateur mobile personnalisable pour les smartphones { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } pour { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Obtenez le navigateur mobile pour votre { -brand-name-iphone } ou { -brand-name-ipad }.
-navigation-v2-firefox-for-mobile = { -brand-name-firefox-browser } pour mobile
+navigation-v2-firefox-for-mobile = Navigateur Firefox pour mobile
 navigation-v2-take-speed-privacy-and = Emportez avec vous vitesse, confidentialité et tranquillité d’esprit. Sur { -brand-name-android } et { -brand-name-ios }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Navigation mobile simple et privée.

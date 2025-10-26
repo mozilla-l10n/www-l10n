@@ -13,7 +13,7 @@ installer-help-action-choose = Choisissez un téléchargement ci-dessous.
 
 ##
 
-installer-help-firefox-release-title = { -brand-name-firefox-browser }
+installer-help-firefox-release-title = Navigateur Firefox
 
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)

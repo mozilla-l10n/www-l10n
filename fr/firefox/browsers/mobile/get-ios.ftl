@@ -5,7 +5,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/get-ios/
 
 # HTML page title
-get-ios-firefox-for-ios = { -brand-name-firefox-browser } pour { -brand-name-ios }
+get-ios-firefox-for-ios = Navigateur Firefox pour { -brand-name-ios }
 
 # HTML page description
 get-ios-firefox-is-fast = { -brand-name-firefox } pour { -brand-name-ios } est rapide, sécurisé et privé dès la première ouverture.
