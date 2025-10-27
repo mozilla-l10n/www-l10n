@@ -25,6 +25,7 @@ privacy-faq-v2-following-questions = As seguintes perguntas e respostas devem aj
 privacy-faq-v2-i-use-firefox = Uso o { -brand-name-firefox } para quase tudo na web. Vocês da { -brand-name-mozilla } devem ter uma tonelada de informações sobre mim, não é?
 privacy-faq-v2-mozilla-does-not-know = A { -brand-name-mozilla } não sabe tanto quanto você esperaria sobre como as pessoas navegam na web. O { -brand-name-firefox }, navegador que funciona em seu dispositivo ou computador, é seu portão de acesso à internet. Seu navegador gerencia muitas informações sobre os sites que você visita, mas essas informações geralmente permanecem em seu dispositivo.
 privacy-faq-v2-it-seems-like = Parece que toda empresa na web está comprando e vendendo meus dados. Vocês provavelmente não são diferentes.
+privacy-faq-v2-wait-so-how = Então, como vocês ganham dinheiro?
 privacy-faq-v2-but-why-do-you = Mas por que vocês coletam dados afinal?
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
