@@ -26,6 +26,15 @@ privacy-faq-v2-i-use-firefox = Uso o { -brand-name-firefox } para quase tudo na 
 privacy-faq-v2-mozilla-does-not-know = A { -brand-name-mozilla } não sabe tanto quanto você esperaria sobre como as pessoas navegam na web. O { -brand-name-firefox }, navegador que funciona em seu dispositivo ou computador, é seu portão de acesso à internet. Seu navegador gerencia muitas informações sobre os sites que você visita, mas essas informações geralmente permanecem em seu dispositivo.
 privacy-faq-v2-it-seems-like = Parece que toda empresa na web está comprando e vendendo meus dados. Vocês provavelmente não são diferentes.
 privacy-faq-v2-wait-so-how = Então, como vocês ganham dinheiro?
+# Variables:
+#   $attrs (url) - link to https://stateof.mozilla.org
+privacy-faq-v2-mozilla-is-not = A { -brand-name-mozilla } não é uma organização tradicional. Fundada em 1998 como um projeto de código aberto da comunidade, a { -brand-name-mozilla } é uma organização orientada por uma missão e trabalha em prol de uma internet mais saudável. A maior parte da receita da { -brand-name-mozilla-corporation } vem de pagamento de royalties pelas parcerias de pesquisa e acordos de distribuição do navegador { -brand-name-firefox } no mundo todo. Você pode saber mais about sobre como ganhamos dinheiro em nosso <a { $attrs }>relatório financeiro anual</a>.
+privacy-faq-v2-softballs = Certo, as primeiras perguntas foram fáceis. Que dados vocês coletam?
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
+privacy-faq-v2-mozilla-does-collect = Por padrão, a { -brand-name-mozilla } coleta um conjunto limitado de dados do { -brand-name-firefox } que nos ajuda a entender como as pessoas usam o navegador. Você pode ler mais sobre isso em nosso <a { $privacy }>aviso de privacidade</a> e consultar a <a { $data }>documentação completa dessa coleta de dados</a>. Também deixamos nossa documentação pública para que qualquer pessoa possa verificar a veracidade do que dizemos, nos dizer o que podemos melhorar e ter confiança de que não escondemos nada.
+privacy-faq-v2-do-you-collect = Vocês coletam mais dados nas versões de pré-lançamento do { -brand-name-firefox }?
 privacy-faq-v2-but-why-do-you = Mas por que vocês coletam dados afinal?
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
