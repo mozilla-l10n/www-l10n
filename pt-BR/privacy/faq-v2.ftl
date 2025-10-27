@@ -39,6 +39,7 @@ privacy-faq-v2-sort-of = De certa maneira, sim. Além dos dados mencionados acim
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/shield
 privacy-faq-v2-we-may-also = Também podemos coletar dados adicionais na versão de pré-lançamento de um de nossos <a { $attrs }>estudos</a>. Por exemplo, alguns estudos requerem o que chamamos de “dados de navegação”, que podem incluir URLs e outras informações sobre determinados sites. Isso nos ajuda a responder perguntas específicas para aprimorar o { -brand-name-firefox }, por exemplo, como integrar melhor sites populares em idiomas específicos.
+privacy-faq-v2-mozilla-pre-release = As versões de pré-lançamento do { -brand-name-firefox } da { -brand-name-mozilla } são plataformas de desenvolvimento, frequentemente atualizadas com recursos experimentais. Coletamos mais dados nas versões de pré-lançamento do que na versão oficial para entender como esses recursos experimentais estão funcionando. Você pode optar nas preferências por não participar dessa coleta de dados.
 privacy-faq-v2-but-why-do-you = Mas por que vocês coletam dados afinal?
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
