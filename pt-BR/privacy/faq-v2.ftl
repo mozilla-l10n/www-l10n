@@ -45,7 +45,12 @@ privacy-faq-v2-but-why-do-you = Mas por que vocês coletam dados afinal?
 #   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
 privacy-faq-v2-if-we-dont-know = Se não soubermos como está o desempenho do navegador ou quais recursos as pessoas usam, não podemos torná-lo melhor e oferecer o excelente produto que você quer. Investimos em criar ferramentas de coleta e análise de dados que nos permitem tomar decisões inteligentes sobre nosso produto, mas respeitando a privacidade das pessoas. Você pode ler mais sobre algumas das tecnologias de preservação de privacidade que usamos, como <a { $attrs }>OHTTP</a>.
 privacy-faq-v2-data-collection-bugs-me = A coleta de dados ainda me incomoda. Posso desativar?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
+#   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
+privacy-faq-v2-yes-user-control = Sim, o controle por parte do usuário é um dos nossos princípios de privacidade de dados. Colocamos este princípio em prática no { -brand-name-firefox } na nossa <a { $privacy }>página de configurações de privacidade</a>, que serve como ponto único para qualquer um que esteja procurando assumir o controle sobre sua privacidade no { -brand-name-firefox }. Ali você pode <a { $data }>desativar a coleta de dados</a>.
 privacy-faq-v2-what-about-my-account = E quanto aos dados da minha conta?
+privacy-faq-v2-we-are-big-believers = Acreditamos firmemente na minimização de dados e em não solicitar informações que não precisamos.
 privacy-faq-v2-you-use-digital = Vocês usam publicidade digital como parte da estratégia de marketing. Vocês compram dados das pessoas para direcionar melhor os anúncios online?
 privacy-faq-v2-no-we-do-not-buy = Não, nós não compramos dados das pessoas para direcionar publicidade.
 privacy-faq-v2-well-it-seems = Bem, parece que vocês realmente me apoiam nessa questão de privacidade.
