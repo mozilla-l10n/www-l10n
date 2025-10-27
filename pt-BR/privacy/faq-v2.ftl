@@ -51,7 +51,12 @@ privacy-faq-v2-data-collection-bugs-me = A coleta de dados ainda me incomoda. Po
 privacy-faq-v2-yes-user-control = Sim, o controle por parte do usuário é um dos nossos princípios de privacidade de dados. Colocamos este princípio em prática no { -brand-name-firefox } na nossa <a { $privacy }>página de configurações de privacidade</a>, que serve como ponto único para qualquer um que esteja procurando assumir o controle sobre sua privacidade no { -brand-name-firefox }. Ali você pode <a { $data }>desativar a coleta de dados</a>.
 privacy-faq-v2-what-about-my-account = E quanto aos dados da minha conta?
 privacy-faq-v2-we-are-big-believers = Acreditamos firmemente na minimização de dados e em não solicitar informações que não precisamos.
+# Variables:
+#   $attrs (url) - link to https://www.mozilla.org/account/
+privacy-faq-v2-you-dont-need-an-account = Você não precisa de uma conta para usar o { -brand-name-firefox }. Para sincronizar dados entre dispositivos, é necessária uma <a { $attrs }>conta</a>, mas pedimos somente um endereço de email e sua idade (só para ter certeza que não é uma criança).
 privacy-faq-v2-you-use-digital = Vocês usam publicidade digital como parte da estratégia de marketing. Vocês compram dados das pessoas para direcionar melhor os anúncios online?
 privacy-faq-v2-no-we-do-not-buy = Não, nós não compramos dados das pessoas para direcionar publicidade.
+privacy-faq-v2-we-do-not-ask = Pedimos aos nossos parceiros de publicidade para usar somente dados próprios que sites e anunciantes sabem de todos os usuários, como o navegador e o dispositivo que você usa.
 privacy-faq-v2-well-it-seems = Bem, parece que vocês realmente me apoiam nessa questão de privacidade.
 privacy-faq-v2-yes-we-do = Sim, apoiamos.
+privacy-faq-v2-find-out-more = Descubra mais sobre como a { -brand-name-mozilla } protege a internet.
