@@ -35,6 +35,10 @@ privacy-faq-v2-softballs = Certo, as primeiras perguntas foram fáceis. Que dado
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 privacy-faq-v2-mozilla-does-collect = Por padrão, a { -brand-name-mozilla } coleta um conjunto limitado de dados do { -brand-name-firefox } que nos ajuda a entender como as pessoas usam o navegador. Você pode ler mais sobre isso em nosso <a { $privacy }>aviso de privacidade</a> e consultar a <a { $data }>documentação completa dessa coleta de dados</a>. Também deixamos nossa documentação pública para que qualquer pessoa possa verificar a veracidade do que dizemos, nos dizer o que podemos melhorar e ter confiança de que não escondemos nada.
 privacy-faq-v2-do-you-collect = Vocês coletam mais dados nas versões de pré-lançamento do { -brand-name-firefox }?
+privacy-faq-v2-sort-of = De certa maneira, sim. Além dos dados mencionados acima, recebemos por padrão relatórios de erros e falhas nas versões de pré-lançamento do { -brand-name-firefox }.
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/shield
+privacy-faq-v2-we-may-also = Também podemos coletar dados adicionais na versão de pré-lançamento de um de nossos <a { $attrs }>estudos</a>. Por exemplo, alguns estudos requerem o que chamamos de “dados de navegação”, que podem incluir URLs e outras informações sobre determinados sites. Isso nos ajuda a responder perguntas específicas para aprimorar o { -brand-name-firefox }, por exemplo, como integrar melhor sites populares em idiomas específicos.
 privacy-faq-v2-but-why-do-you = Mas por que vocês coletam dados afinal?
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
