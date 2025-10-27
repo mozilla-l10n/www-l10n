@@ -17,11 +17,19 @@ privacy-faq-v2-at-mozilla = Na { -brand-name-mozilla } suas informações pessoa
 privacy-faq-v2-we-follow = Seguimos uma série de <a { $attrs }>princípios de privacidade de dados</a> que moldam nossa abordagem de privacidade nos navegadores { -brand-name-firefox } de computador e de dispositivos móveis.
 privacy-faq-v2-we-strive-collect-data = Nos empenhamos em coletar somente os dados necessários para criar os melhores produtos.
 privacy-faq-v2-we-work-to = Trabalhamos para colocar as pessoas no controle de seus dados e experiências online.
+privacy-faq-v2-we-adhere = Aderimos ao princípio de “sem surpresas”, ou seja, trabalhamos duro para assegurar que a percepção das pessoas sobre o { -brand-name-firefox } corresponda à realidade.
+privacy-faq-v2-following-questions = As seguintes perguntas e respostas devem ajudar a entender o que esperar da { -brand-name-mozilla } e do { -brand-name-firefox }:
 
 ## FAQ
 
 privacy-faq-v2-i-use-firefox = Uso o { -brand-name-firefox } para quase tudo na web. Vocês da { -brand-name-mozilla } devem ter uma tonelada de informações sobre mim, não é?
 privacy-faq-v2-but-why-do-you = Mas por que vocês coletam dados afinal?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
+privacy-faq-v2-if-we-dont-know = Se não soubermos como está o desempenho do navegador ou quais recursos as pessoas usam, não podemos torná-lo melhor e oferecer o excelente produto que você quer. Investimos em criar ferramentas de coleta e análise de dados que nos permitem tomar decisões inteligentes sobre nosso produto, mas respeitando a privacidade das pessoas. Você pode ler mais sobre algumas das tecnologias de preservação de privacidade que usamos, como <a { $attrs }>OHTTP</a>.
 privacy-faq-v2-data-collection-bugs-me = A coleta de dados ainda me incomoda. Posso desativar?
+privacy-faq-v2-what-about-my-account = E quanto aos dados da minha conta?
 privacy-faq-v2-you-use-digital = Vocês usam publicidade digital como parte da estratégia de marketing. Vocês compram dados das pessoas para direcionar melhor os anúncios online?
 privacy-faq-v2-no-we-do-not-buy = Não, nós não compramos dados das pessoas para direcionar publicidade.
+privacy-faq-v2-well-it-seems = Bem, parece que vocês realmente me apoiam nessa questão de privacidade.
+privacy-faq-v2-yes-we-do = Sim, apoiamos.
