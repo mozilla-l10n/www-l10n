@@ -41,7 +41,7 @@ privacy-faq-v2-do-you-collect = Samlar de inn fleire data i dei tidlege test-utg
 privacy-faq-v2-sort-of = På ein måte. I tillegg til dataa beskrivne ovanfor, tek vi imot krasj- og feilrapportar som standard i tidlege testutgivingar av { -brand-name-firefox }.
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/shield
-privacy-faq-v2-we-may-also = Vi kan også samle inn fleire data i førehandsutgivinga for ein av studiane <a { $attrs }>våre</a>. Til dømes krev nokre studiar det vi kallar «nettlesardata», som kan inkludere nettadressar og annan informasjon om visse nettstadar. Dette hjelper oss med å svare på spesifikke spørsmål for å forbetre { -brand-name-firefox }, til dømes korleis vi betre kan integrere populære nettstader på bestemde språk.
+privacy-faq-v2-we-may-also = Vi kan også samle inn fleire data i førehandsutgivinga for ein av studiane <a { $attrs }>våre</a>. Til dømes krev nokre studiar det vi kallar «nettlesardata», som kan inkludere nettadressar og annan informasjon om visse nettstadar. Dette hjelper oss med å svare på spesifikke spørsmål for å forbetre { -brand-name-firefox }, til dømes korleis vi betre kan integrere populære nettstadar på bestemde språk.
 privacy-faq-v2-mozilla-pre-release = Førehandsversjonane av { -brand-name-mozilla } av { -brand-name-firefox } er utviklingsplattformer som ofte blir oppdaterte med eksperimentelle funksjonar. Vi samlar inn meir data i førehandsversjonane enn etter utgivinga for å forstå korleis desse eksperimentelle funksjonane fungerer. Du kan velje å ikkje samle inn desse dataa i innstillingane.
 privacy-faq-v2-but-why-do-you = Men kvifor samlar de inn data då?
 # Variables:
