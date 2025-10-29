@@ -67,6 +67,8 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders hjelper uavhengige utviklarar med å lage banebrytande AI-prosjekt med open kjeldekode gjennom samarbeid, programmering og fellesskap
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } hjelper uavhengige utviklarar med å lage banebrytande AI-prosjekt med open kjeldekode gjennom skreddarsydde samarbeid, programmering og fellesskap.
+# Used as an accessible text alternative for an image
+m24-home-alt-mozfest = Ei stor gruppe menneske samla seg i eit travelt innandørs arrangementslokale, sett ovanfrå.
 m24-home-mozfest-join-us = Ver med oss på { -brand-name-mozilla-festival }
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }-logo.
