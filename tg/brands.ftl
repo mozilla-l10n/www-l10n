@@ -105,6 +105,7 @@
 -brand-name-mozilla-account = Ҳисоби «Mozilla»
 -brand-name-mozilla-accounts = Ҳисобҳои «Mozilla»
 -brand-name-mozilla-builders = Mozilla Builders
+-brand-name-mozilla-ads = Рекламаи «Mozilla»
 -brand-name-builders = Созандагон
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
