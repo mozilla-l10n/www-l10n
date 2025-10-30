@@ -73,6 +73,7 @@ firefox-developer-congrats-you-now-have-latest-v2 = Używasz teraz najnowszej we
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Otwórz <a { $attrs }>informacje o wydaniu</a> (tylko w języku angielskim), aby zobaczyć, co nowego.
+firefox-developer-developer-tools-user = Dokumentacja narzędzi dla programistów
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Zasoby dla deweloperów, od deweloperów
 firefox-developer-mdn-blog = Blog { -brand-name-mdn }
