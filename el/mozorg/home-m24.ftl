@@ -70,6 +70,7 @@ m24-home-builders-helps-independent-v2 = Η δράση «{ -brand-name-mozilla-b
 # Used as an accessible text alternative for an image
 m24-home-alt-mozfest = Μια μεγάλη ομάδα ανθρώπων που έχουν συγκεντρωθεί σε έναν πολυσύχναστο εσωτερικό χώρο εκδηλώσεων, από ψηλά.
 m24-home-mozfest-join-us = Ελάτε μαζί μας στο { -brand-name-mozilla-festival }
+m24-home-mozfest-the-future = Το μέλλον της τεχνολογίας δεν είναι προκαθορισμένο· εμείς το διαμορφώνουμε. Ελάτε μαζί μας στη Βαρκελώνη από τις 7 έως τις 9 Νοεμβρίου για να αμφισβητήσουμε τις συμβάσεις, να αφήσουμε τη φαντασία μας ελεύθερη και να χτίσουμε αυτό που έρχεται.
 m24-home-mozfest-get-your = Αποκτήστε το έμβλημά σας σήμερα
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Λογότυπο του { -brand-name-lumigator }.
