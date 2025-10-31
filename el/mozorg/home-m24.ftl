@@ -67,6 +67,8 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Η δράση «Builders» βοηθά ανεξάρτητους προγραμματιστές να δημιουργήσουν καινοτόμα έργα ΤΝ ανοικτού κώδικα μέσω εξατομικευμένων συνεργασιών, του προγραμματισμού και της κοινότητας.
 m24-home-builders-helps-independent-v2 = Η δράση «{ -brand-name-mozilla-builders }» βοηθά ανεξάρτητους προγραμματιστές να δημιουργήσουν καινοτόμα έργα ΤΝ ανοικτού κώδικα μέσω εξατομικευμένων συνεργασιών, του προγραμματισμού και της κοινότητας.
+# Used as an accessible text alternative for an image
+m24-home-alt-mozfest = Μια μεγάλη ομάδα ανθρώπων που έχουν συγκεντρωθεί σε έναν πολυσύχναστο εσωτερικό χώρο εκδηλώσεων, από ψηλά.
 m24-home-mozfest-join-us = Ελάτε μαζί μας στο { -brand-name-mozilla-festival }
 m24-home-mozfest-get-your = Αποκτήστε το έμβλημά σας σήμερα
 # Used as an accessible text alternative for an image
