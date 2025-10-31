@@ -55,11 +55,13 @@ manifesto-details-as-a-result-of = As a result of these efforts, we have distill
 manifesto-details-the-goals-for = The goals for the Manifesto are to:
 # Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = articulate a vision for the internet that { -brand-name-mozilla } participants want the { -brand-name-mozilla-foundation } to pursue;
+manifesto-details-articulate-a-vision-v2 = articulate a vision for the internet that { -brand-name-mozilla } participants want { -brand-name-mozilla-foundation } to pursue;
 manifesto-details-speak-to-people = speak to people whether or not they have a technical background;
 manifesto-details-make-mozilla-contributors = make { -brand-name-mozilla } contributors proud of what we’re doing and motivate us to continue; and
 manifesto-details-provide-a-framework = provide a framework for other people to advance this vision of the internet.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = These principles will not come to life on their own. People are needed to make the internet open and participatory - people acting as individuals, working together in groups, and leading others. The { -brand-name-mozilla-foundation } is committed to advancing the principles set out in the { -brand-name-mozilla } Manifesto. We invite others to join us and make the internet an ever better place for everyone.
+manifesto-details-these-principles-v2 = These principles will not come to life on their own. People are needed to make the internet open and participatory - people acting as individuals, working together in groups, and leading others. { -brand-name-mozilla-foundation } is committed to advancing the principles set out in the { -brand-name-mozilla } Manifesto. We invite others to join us and make the internet an ever better place for everyone.
 manifesto-details-principles = Principles
 manifesto-details-the-internet-is-integral = The internet is an integral part of modern life—a key component in education, communication, collaboration, business, entertainment and society as a whole.
 manifesto-details-the-internet-is-global = The internet is a global public resource that must remain open and accessible.
