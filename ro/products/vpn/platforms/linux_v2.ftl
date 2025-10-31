@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
 
 vpn-linux-mozilla-vpn = { -brand-name-mozilla-vpn } pe Linux
+vpn-linux-looking-for = Cauți un VPN pentru a-ți proteja calculatorul cu Linux? { -brand-name-mozilla-vpn } oferă unicul serviciu de la o companie non-profit. Află cum te protejează un VPN și de ce ar trebui să ai încredere în { -brand-name-mozilla } pentru confidențialitatea și securitatea ta.
 vpn-linux-mozilla-vpn-on-linux = { -brand-name-mozilla-vpn } pe Linux pentru un internet mai privat și mai sigur
 vpn-linux-linux-is-free = Linux este gratuit, cu sursă deschisă și personalizabil, dar nu este imun la problemele de securitate și confidențialitate online. La fel ca utilizatorii altor sisteme de operare, utilizatorii Linux se confruntă cu cenzură, supraveghere și hacking.
 vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn } este un serviciu de rețea privată virtuală care utilizează criptare cu sursă deschisă de ultimă generație și nu înregistrează, nu urmărește și nu partajează nicio activitate din rețea. Îți permite să te conectezi la peste 500 de servere din peste 30 de țări.

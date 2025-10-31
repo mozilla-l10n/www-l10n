@@ -47,12 +47,25 @@ vpn-download-faq-need-help = Ai nevoie de ajutor la început?
 vpn-download-faq-here-are-some = Iată câteva dintre cele mai frecvente întrebări despre configurarea { -brand-name-mozilla-vpn }
 vpn-download-faq-why-use = De ce ar trebui să folosesc { -brand-name-mozilla-vpn }
 # Variables:
+#   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+vpn-download-faq-as-more-daily = Pe măsură ce viața de zi cu zi se desfășoară prin intermediul internetului, confidențialitatea și securitatea online devin și mai importante. O rețea VPN, o <a href="{ $faq }">rețea privată virtuală</a>, creează un tunel criptat între dispozitivele tale și internet, asigurându-te că ai o conexiune sigură și privată, protejându-te în același timp în două moduri importante:
+# Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-download-faq-concealing-ip = Ascunderea adevăratei tale <a href="{ $ip }">adrese IP</a>: ajută la protejarea identității tale și îți ascunde locația față de site-urile web pe care intri.
 vpn-download-faq-encrypting = Criptarea traficului de internet: astfel încât nimeni de pe fir să nu poată spiona activitatea ta online.
 vpn-download-faq-working = Cum știu că VPN-ul funcționează?
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } afișează indicatori vizuali ai stării sale actuale, atât în bara de instrumente, cât și în ecranul de start al aplicației, ajutându-te să verifici ușor dacă activitatea ta online este protejată sau nu. Acești indicatori îți permit să confirmi când navigarea este privată și securizată. În plus, în timpul conexiunii, poți intra pe <a href="{ $monitor }">https://monitor.mozilla.org/</a> ca să confirmi dacă adresa ta IP este mascată. Pentru mai multe detalii, intră pe <a href="{ $connected }">Cum îmi pot da seama dacă { -brand-name-mozilla-vpn } este conectat?</a>.
 vpn-download-faq-add-device = Cum adaug un alt dispozitiv?
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v3 = Adăugarea unui alt dispozitiv este la fel de simplă ca descărcarea și instalarea software-ului { -brand-name-mozilla-vpn } și apoi intrarea în contul tău existent { -brand-name-mozilla-account } pe noul dispozitiv. Pentru mai multe detalii, vezi <a href="{ $subscription }">Cum să adaugi dispozitive la abonamentul { -brand-name-mozilla-vpn }</a>.
 vpn-download-faq-best-practices = Care sunt câteva dintre cele mai bune practici VPN?
+vpn-download-faq-traffic = Dacă scopul e să îți protejezi traficul de internet menținând în același timp o viteză mare, atunci este întotdeauna recomandat să alegi o locație a serverului cât mai aproape de locația ta fizică. Astfel, va crește fiabilitatea și viteza conexiunii, deoarece traficul de internet nu va trebui să facă un ocol semnificativ înainte de a ajunge la destinația dorită pe web.
+vpn-download-faq-experience = Dacă scopul e să intri pe internet ca și cum te-ai afla în altă parte a lumii, poți alege o locație a serverului de acolo și toate site-urile web pe care intri vor fi afișate ca și cum ai fi acolo.
+vpn-download-faq-protect = Dacă vrei să te protejezi și mai mult, poți activa protecțiile împotriva reclamelor, a elementelor de urmărire din reclame și a programelor rău intenționate, intrând în Setări > Funcții de confidențialitate. Reține că acest lucru poate cauza nefuncționarea sau neîncărcarea unor site-uri web, așa că este posibil să fie nevoie să dezactivezi temporar aceste protecții dacă întâmpini această problemă.
 vpn-download-faq-lastly = În cele din urmă, pe dispozitivele compatibile, poți face VPN-ul și mai inteligent excluzând anumite aplicații (de ex. Netflix) din VPN.
 vpn-download-faq-need-more = Ai nevoie de mai mult ajutor?
 # Variables
