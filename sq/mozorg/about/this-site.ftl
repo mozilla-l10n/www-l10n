@@ -19,6 +19,7 @@ about-this-site-this-website = Sajti www.mozilla.org ka qenë në linjë për m�
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
 # Obsolete string (expires 28-11-2025)
 about-this-site-today = Sot ky është sajti ku njerëzit vijnë të shkarkojnë <a href="{ $firefox }">{ -brand-name-firefox }-in</a>, të provojnë <a href="{ $vpn }">{ -brand-name-mozilla-vpn }-në</a> dhe të mësojnë më tepër <a href="{ $mozilla }">mbi { -brand-name-mozilla }-n</a>. Mund të zbuloni gjithashtu edhe pak <a href="{ $book }">vezë Pashkësh</a> përgjatë rrugës.
+about-this-site-today-v2 = Sot, ky është sajti ku njerëzit mësojnë më tepër <a href="{ $mozilla }">mbi { -brand-name-mozilla }-n</a> dhe provojnë <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>. Gjatë rrugës, mund të zbuloni edhe ndopak <a href="{ $book }">vezë Pashkësh</a>.
 about-this-site-like-many = Si edhe mjaft nga produktet tona, edhe ky sajt është me burim të hapët:
 about-this-site-view-source = Shihni kodin burim në { -brand-name-github }
 about-this-site-report-a-bug = Njoftoni një të metë

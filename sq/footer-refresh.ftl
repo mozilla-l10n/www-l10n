@@ -10,6 +10,7 @@ footer-refresh-learn-more-about-mozilla-ads = Mësoni më tepër <span>mbi { foo
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Mësoni më tepër <span>rreth { -brand-name-mozilla } Advertising</span>
 footer-refresh-firefox-release-notes = Shënime Hedhjesh Në Qarkullim { -brand-name-firefox }-i
+footer-refresh-extend-reach = Zgjeroni shtrirjen dhe thelloni besimin
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Ndiqni @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
