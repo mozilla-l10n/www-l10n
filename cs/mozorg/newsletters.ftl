@@ -64,7 +64,7 @@ newsletters-newsletter-subscriptions-for = Odběry zpravodaje <a href="{ $founda
 newsletters-to-unsubscribe = Pro zrušení odběru zpravodaje { -brand-name-mozilla-foundation } klepněte zde: <a href="{ $unsubscribe }">{ $unsubscribe }</a>.
 # Variables:
 #   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter/subscribe
-newsletters-if-you-arent-already-subscribed = Pokud ještě nejste přihlášeni a rádi byste o dění věděli, klikněte zde: <a href="{ $subscribe }">{ $subscribe }</a>.
+newsletters-if-you-arent-already-subscribed = Pokud ještě nejste přihlášeni a rádi byste o dění věděli, klepněte zde: <a href="{ $subscribe }">{ $subscribe }</a>.
 # Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } není platný zpravodaj
