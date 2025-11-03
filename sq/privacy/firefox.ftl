@@ -19,7 +19,9 @@ privacy-firefox-we-use-data = Të dhënat i përdorim për ta mbajtur { -brand-n
 privacy-firefox-builtin-control = Kontroll i brendshëm
 privacy-firefox-firefox-gives-you = { -brand-name-firefox }-i ju jep mjete të thjeshta, por të fuqishme për të administruar të dhënat tuaja sipas mënyrës që doni. Mund të përimtoni rregullimet tuaja, të ndani më vete punën nga jeta juaj personale, ose të fshihni historik të padëshiruar me vetëm pak klikime.
 privacy-firefox-always-protected = Përherë të mbrojtur
+privacy-firefox-firefox-protects-you = { -brand-name-firefox }-i ju mbron nga gjurmues palësh të treta, gjurmues mediash shoqërore, nxjerrës kriptomonedhash, “cookies” dhe teknologji profilizimi që provojnë t’ju ndjekin nëpër internet.
 privacy-firefox-privacy-that-works = Privatësi që funksionon për ju
+privacy-firefox-firefox-makes-it = { -brand-name-firefox }-i jua bën të lehtë administrimin e të dhënave tuaja, me privatësi dhe veçori sigurish të brendshme, plus rregullime që ju lejojnë të përimtoni punën tuaj në shfletim.
 privacy-firefox-manage-your-privacy = Administroni rregullimet tuaja të privatësisë:
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } për desktop
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } për celular
@@ -28,3 +30,6 @@ privacy-firefox-contents = Lëndë
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-take-me-back = Shpemë <a { $attrs }>te fillimi</a> i Shënimeve Mbi Privatësinë
+# Variables:
+#   $attrs (string) - in-page link to the top of the page
+privacy-firefox-lost-in-the = Humbët nëpër hollësi? Kthehuni te <a { $attrs }>{ -brand-name-firefox } bazat e privatësisë</a>.
