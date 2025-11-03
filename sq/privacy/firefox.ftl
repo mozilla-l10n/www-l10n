@@ -9,9 +9,15 @@
 privacy-firefox-basics = Gjëra bazë të privatësisë
 privacy-firefox-youre-in-control = Kontrollin e keni ju
 privacy-firefox-read-our-privacy = Lexoni Shënimin tonë mbi Privatësinë
+privacy-firefox-we-believe-you = Ne besojmë se duhet të dini se si përdoren të dhënat tuaja dhe pse. { -brand-name-firefox }-i është ndërtuar me privatësinë në mendje dhe tejdukshmëri në çdo hap.
 privacy-firefox-transparency-first = Transparenca së pari
+# Variables:
+#   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
+privacy-firefox-were-clear-about = Jemi të prerë mbi çfarë të dhënash përdorim dhe pse. Pa të papritura. <a { $attrs }>{ -brand-name-firefox } Shënimi mbi Privatësinë</a> jep për ju hollësi rreth kësaj.
 privacy-firefox-how-we-use = Si i përdorim të dhënat
+privacy-firefox-we-use-data = Të dhënat i përdorim për ta mbajtur { -brand-name-firefox }-in në funksionim të rrjedhshëm, për të përmirësuar veçori të tij dhe për të na ndihmuar të mbajmë në punë biznesin tonë — krejt kjo teksa respektohet privatësia juaj. Disa veçori opsionale mund të duan të dhëna shtesë që të funksionojnë dhe e bëjmë të kollajtë për ju administrimin e parapëlqimeve tuaja.
 privacy-firefox-builtin-control = Kontroll i brendshëm
+privacy-firefox-firefox-gives-you = { -brand-name-firefox }-i ju jep mjete të thjeshta, por të fuqishme për të administruar të dhënat tuaja sipas mënyrës që doni. Mund të përimtoni rregullimet tuaja, të ndani më vete punën nga jeta juaj personale, ose të fshihni historik të padëshiruar me vetëm pak klikime.
 privacy-firefox-always-protected = Përherë të mbrojtur
 privacy-firefox-privacy-that-works = Privatësi që funksionon për ju
 privacy-firefox-manage-your-privacy = Administroni rregullimet tuaja të privatësisë:

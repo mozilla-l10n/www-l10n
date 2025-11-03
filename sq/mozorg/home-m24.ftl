@@ -43,6 +43,7 @@ m24-home-donate-to-the = Dhuroni për entin jofitiprurës { -brand-name-mozilla 
 m24-home-donate-to-v2 = Dhuroni për { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } po ngre një lëvizje për rimarrje të internetit. Tok mund të ndërtojmë një të ardhme ku privatësia mbrohet, IA-ja është e besueshme dhe shoqërive teknologjike të papërgjegjshme u kërkohet llogari. Por kjo është e mundshme vetëm nëse e bëjmë tok.
+m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation }  po ndërton një të ardhme ku teknologjia fuqizohet nga njerëzit dhe është e hapët sipas konceptimit. Kjo është arsyeja pse ushqejmë fushën teknike të bazuar në bashkësinë, përmes, përkrahjeje, edukim, financim dhe risi — për të garantuar se e ardhmja e teknologjisë është e mirë për këdo. Por kjo është e mundshme vetëm nëse e bëjmë tok.
 m24-home-were-proudly-nonprofit = Jemi me krenari jofitimprurës. Do të dhuroni sot për { -brand-name-mozilla }?
 m24-home-donate = Dhuroni
 
@@ -62,6 +63,9 @@ m24-home-solo-ai = { -brand-name-solo-ai }
 m24-home-create-your-website = Krijoni sajtin tuaj dhe lidhni falas përkatësinë tuaj
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+m24-home-mozfest-join-us = Ejani me ne te { -brand-name-mozilla-festival }
+m24-home-mozfest-the-future = E ardhmja e teknologjisë s’është e vulosur — është e jona, për t’i dhënë formë. Ejani me në Barcelona, nga 7–9 nëntor për të hequr nga mendja parazgjedhjet, për të përfytyruar me guxim dhe ndërtuar ç’pason.
+m24-home-mozfest-get-your = Merrni stemën tuaj që sot
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Stemë e { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
