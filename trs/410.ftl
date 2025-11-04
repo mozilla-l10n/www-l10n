@@ -11,3 +11,12 @@ gone-page-go-back = Nānīkāj ne’ Rūkùu
 # Variables:
 #   $home (attr) - attributes to be added to the <a> tag - href="https://mozilla.org"
 gone-page-go-home = Gāyi’ì gīni’hiājt hiūj nan āsìj riña <a { $home }>pajinâ gayi’ìt</a>.
+# Variables:
+#   $blog (attr) - attributes to be added to the <a> tag - href="https://blog.mozilla.org/"
+gone-page-search-blog = Nānà’huì’ riña <a { $blog }>{ -brand-name-mozilla } Blog</a>.
+# Variables:
+#   $products (attr) - attributes to be added to the <a> tag - href="/products/"
+gone-page-browse-products = Nātsij ni’hiājt dàj hua nej <a { $products }> sirasūn ñûnj</a>.
+# Variables:
+#   $support (attr) - attributes to be added to the <a> tag - href="https://support.mozilla.org/"
+gone-page-visit-support = Guīj ni’hiāj riña <a { $support }>{ -brand-name-mozilla } ‘ngō sa gā’hue rūgûñu’ūn sò’</a>.
