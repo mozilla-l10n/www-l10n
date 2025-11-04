@@ -63,6 +63,8 @@ m24-home-solo-ai = { -brand-name-solo-ai }
 m24-home-create-your-website = Krijoni sajtin tuaj dhe lidhni falas përkatësinë tuaj
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+# Used as an accessible text alternative for an image
+m24-home-alt-mozfest = Një grup i madh personash të mbledhur në një hapësirë veprimtarish brenda, parë nga sipër.
 m24-home-mozfest-join-us = Ejani me ne te { -brand-name-mozilla-festival }
 m24-home-mozfest-the-future = E ardhmja e teknologjisë s’është e vulosur — është e jona, për t’i dhënë formë. Ejani me në Barcelona, nga 7–9 nëntor për të hequr nga mendja parazgjedhjet, për të përfytyruar me guxim dhe ndërtuar ç’pason.
 m24-home-mozfest-get-your = Merrni stemën tuaj që sot
@@ -109,6 +111,10 @@ m24-home-get-to-know = Njihuni me drejtuesit që mbrojnë një zhvillim të besu
 m24-home-watch-the-award = Shihni veprimtarinë e çmimeve
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-proud = Një fitues krenar në { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = Një folës buzëqeshur, i sigurt në vetvete, te { -brand-name-rise25 }.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = Një fitues i kënaqur prej nderimit me çmim në { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Gjendje e { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } po rishpik vetveten, duke i bërë e larmishme përmes një yjësie entesh, duke ripërfytyruar reklamat dhe duke krijuar një ekosistem IA me burim të hapët. Mësoni rreth kësaj përmes Raportit “Gjendje e { -brand-name-mozilla } 2024”.
 # Used as an accessible text alternative for an image

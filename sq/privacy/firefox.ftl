@@ -8,7 +8,9 @@
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Gjëra bazë të privatësisë
 privacy-firefox-youre-in-control = Kontrollin e keni ju
+privacy-firefox-privacy-isnt-just = Privatësia s’është thjesht një rregullim — është e drejta juaj. Shënimi Mbi Privatësinë i  { -brand-name-firefox }-it ngrihet mbi qartësi, kontroll dhe parazgjedhje të përgjegjshme. Besojmë se duhet të jeni përherë në kontroll të çka ndodh me të dhënat tuaja. Mund të bazoheni te ne, për të shpjeguar qartësisht se ç’bën, si parazgjedhje, { -brand-name-firefox }-i dhe të përimtoni rregullimet tuaja, që të mund të shfletoni sipas mënyrës që dëshironi.
 privacy-firefox-read-our-privacy = Lexoni Shënimin tonë mbi Privatësinë
+privacy-firefox-keeping-you-informed = Ju mbajmë të informuar, në çdo hap të rrugës
 privacy-firefox-we-believe-you = Ne besojmë se duhet të dini se si përdoren të dhënat tuaja dhe pse. { -brand-name-firefox }-i është ndërtuar me privatësinë në mendje dhe tejdukshmëri në çdo hap.
 privacy-firefox-transparency-first = Transparenca së pari
 # Variables:
