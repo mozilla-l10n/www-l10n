@@ -12,3 +12,11 @@ not-found-page-go-back = Nānīkāj ne\’ Rūkùu
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Gāhuin chrūn</a> dàj 'hiaj sun { -brand-name-mozilla }, yi’nïn’ nīkāj ñu’ūnj sun { -brand-name-firefox }.
+# Variables:
+#   $download (url) - link to https://www.mozilla.org/firefox/new/
+not-found-page-download-the-firefox-browser = <a href={ $download }>Nādunïnj </a> sa { -brand-name-firefox } sa nānà’huì’t guendâ si āgâ’t aga’ sīkà’ ràa
+# Variables:
+#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+# Obsolete string (expires 19-10-2025)
+not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Rīkī chre dòj san’ānj an </a> riña { -brand-name-mozilla-foundation } nī nāhuin rā’ ‘ngō internet yākàn hīa doj hua.
+not-found-page-donate-to-mozilla-reclaim-from-v2 = <a { $donate }>Rīkī chre dòj san’ānj an </a> riña { -brand-name-mozilla-foundation } nī nāhuin rā’ ‘ngō internet yākàn hīa doj hua.
