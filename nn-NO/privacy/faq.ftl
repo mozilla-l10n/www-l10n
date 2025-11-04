@@ -23,6 +23,7 @@ privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, nettlesar
 privacy-faq-really-you-dont-collect-my-browsing = Verkeleg, lagrar dei ikkje historikken min?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } veit ikkje så mykje som du kan forvente deg om korleis folk surfar på nettet. Som nettlesarprodusent  er det faktiskt ei stor utfordring for oss. Det er grunnen til at vi har innebyggde verktøy som gjer at interesserte kan gje oss innsikt i nettsurfinga deira. Om du synkroniserer nettlesarhistorikken din mellom fleire { -brand-name-firefox }-installasjonar veit ikkje vi kva den historikken er — fordi han er kryptert av eininga di.
 privacy-faq-it-seems-like-every-company = Det verkar som alle selskap på nettet kjøper og sel informasjonen min. De er sannsynlegvis ikkje annleis.
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } sel ikkje data om deg, og vi kjøper ikkje data om deg.
 privacy-faq-wait-so-how-do-you-make-money = Vent lit, så korleis tenar de pengar då?
 # Variables:

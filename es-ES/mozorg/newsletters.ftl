@@ -63,7 +63,7 @@ newsletters-newsletter-subscriptions-for = Las suscripciones al boletín informa
 #   $unsubscribe (url) - link to https://www.mozillafoundation.org/newsletter/unsubscribe
 newsletters-to-unsubscribe = Para cancelar la suscripción a un boletín de { -brand-name-mozilla-foundation }, haz clic aquí: <a href="{ $unsubscribe }">{ $unsubscribe }</a>.
 # Variables:
-#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter/subscribe
+#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter
 newsletters-if-you-arent-already-subscribed = Si aún no estás suscrito y quieres mantenerte actualizado, haz clic aquí: <a href="{ $subscribe }">{ $subscribe }</a>.
 # Variables:
 #   $newsletter (string) - newsletter name

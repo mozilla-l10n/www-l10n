@@ -8,6 +8,7 @@
 privacy-faq-we-stand-for-people-over-profit = Wacung pi dano pee pi magoba.
 privacy-faq-at-mozilla-we-respect-and-protect = I { -brand-name-mozilla }, wa woro dok bene wa gwoko lok komi:
 privacy-faq-really-you-dont-collect-my-browsing = Ada, pe ocoko yeny mamega ma okato?
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } pe cato data ikomi, ki pe wawilo data ikomi.
 privacy-faq-wait-so-how-do-you-make-money = Kur kong, ci otiyo cente nining?
 # Variables:

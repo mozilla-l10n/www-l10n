@@ -21,6 +21,7 @@ privacy-faq-the-following-questions-and = Isteqsiyen d tririyin id-iteddun ad k-
 privacy-faq-i-use-firefox-for-almost-everything = Seqdaceɣ { -brand-name-firefox } i yal taɣawsa di Web. Di { -brand-name-mozilla }, ad tilim tesnem aṭas fell-i, d tidet?
 privacy-faq-really-you-dont-collect-my-browsing = S tedett, ur tleqqeḍ ara amezruy-iw n tunigin?
 privacy-faq-it-seems-like-every-company = Ittban-d dakken akk tikebbaniyin web ttaɣent u znuzuyent isefka-inu. Ula d kunwi ahat ur temgaradem ara fell-asent.
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } ur teznuzu, ur d-tettaɣ isefka fell-ak.
 privacy-faq-wait-so-how-do-you-make-money = Rǧu, amek ihi i d-ssekcam tadrimt?
 # Variables:

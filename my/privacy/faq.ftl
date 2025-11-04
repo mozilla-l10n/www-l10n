@@ -15,6 +15,7 @@ privacy-faq-we-put-people-in-control-of = လူများ၏အချက်�
 privacy-faq-the-following-questions-and = အောက်ပါ မေးခွန်းနှင့်အဖြေများက သင့်အား { -brand-name-mozilla } နှင့် { -brand-name-firefox } ထံမှ ဘာတွေမျှော်လင့်နိုင်ကြောင်းနား‌လည်စေရန် ကူညီပါလိမ့်မည်:
 privacy-faq-i-use-firefox-for-almost-everything = ဝက်ဘ်ပေါ်မှာလုပ်ဆောင်သမျှ အားလုံးနီးပါး အတွက် ကျွန်ုပ် { -brand-name-firefox } ကိုသုံးပါတယ်။ { -brand-name-mozilla } မှာရှိတဲ့ သင်တို့ကကျွန်ုပ်၏ အကြောင်း အများကြီးသိထားရမှာပေါ့၊ ဟုတ်တယ်ဟုတ်?
 privacy-faq-really-you-dont-collect-my-browsing = တကယ်ပဲသင်ကျွန်ုပ်အွန်လိုင်းမှတ်တမ်းကို မစု‌ဆောင်းဘူးလား။
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } သည်သင့်အချက်အလက်များကိုမရောင်းချပါ၊ ကျွန်ုပ်တို့သည်သင့်အချက်အလက်များကိုမဝယ်ယူပါ။
 privacy-faq-wait-so-how-do-you-make-money = ဒါဆိုသင်ဘယ်လိုငွေရှာမလဲ?
 privacy-faq-do-you-collect-more-data-in = များစွာသောအချက်အလက်များကို { -brand-name-firefox } ၏ဗားရှင်းတွင်သင်စုဆောင်းမလား။

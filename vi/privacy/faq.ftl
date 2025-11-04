@@ -23,6 +23,7 @@ privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, trình du
 privacy-faq-really-you-dont-collect-my-browsing = Thực sự, bạn không thu thập lịch sử duyệt web của tôi?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } không biết nhiều như bạn mong đợi về cách mọi người duyệt web. Là một nhà sản xuất trình duyệt, đó thực sự là một thách thức lớn đối với chúng tôi. Đó là lý do tại sao chúng tôi đã xây dựng các công cụ chọn tham gia, cho phép người dùng quan tâm cung cấp cho chúng tôi cái nhìn sâu sắc về trình duyệt web của họ. Nếu bạn đồng bộ hóa lịch sử duyệt web của mình trên các bản cài đặt { -brand-name-firefox }, chúng tôi sẽ không biết lịch sử đó là gì — bởi vì nó được mã hóa bởi thiết bị của bạn.
 privacy-faq-it-seems-like-every-company = Tất cả các công ty trên web dường như mua và bán thông tin của tôi. Có lẽ bạn sẽ không khác biệt.
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } không bán dữ liệu về bạn và chúng tôi không mua dữ liệu về bạn.
 privacy-faq-wait-so-how-do-you-make-money = Chờ đã, vậy làm thế nào để bạn kiếm tiền?
 # Variables:

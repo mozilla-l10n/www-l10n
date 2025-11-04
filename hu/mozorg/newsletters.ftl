@@ -63,7 +63,7 @@ newsletters-newsletter-subscriptions-for = A <a href="{ $foundation }">{ -brand-
 #   $unsubscribe (url) - link to https://www.mozillafoundation.org/newsletter/unsubscribe
 newsletters-to-unsubscribe = A { -brand-name-mozilla-foundation } hírleveléről való leiratkozáshoz kattintson ide: <a href="{ $unsubscribe }">{ $unsubscribe }</a>.
 # Variables:
-#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter/subscribe
+#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter
 newsletters-if-you-arent-already-subscribed = Ha még nem iratkozott fel, és szeretne értesítést kapni, kattintson ide: <a href="{ $subscribe }">{ $subscribe }</a>.
 # Variables:
 #   $newsletter (string) - newsletter name

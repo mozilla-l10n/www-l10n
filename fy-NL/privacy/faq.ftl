@@ -23,6 +23,7 @@ privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, de webbro
 privacy-faq-really-you-dont-collect-my-browsing = Sammelje jimme myn browserskiednis echt net?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } wit net sa folle oer hoe’t minsken op it web sneupe as jo dat ferwachtsje soene. As browsermakker is dat eins in grutte útdaging foar ús. Dêrom hawwe wy opsjonele helpmiddelen boud, wêrmei’t ynteressearre brûkers ús ynsichten oer harren sneupgedrach jaan kinne. As jo jo browserskiednis tusken { -brand-name-firefox }-ynstallaasjes syngronisearje, witte wy net wat dy skiednis is - omdat dizze troch jo apparaat fersifere wurdt.
 privacy-faq-it-seems-like-every-company = It liket der op dat alle bedriuwen op it ynternet myn gegevens keapje en ferkeapje. By jimme is dat wierskynlik net oars.
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } ferkeapet gjin gegevens oer jo, en wy keapje gjin gegevens oer jo.
 privacy-faq-wait-so-how-do-you-make-money = Mar wacht, hoe fertsjinje jin dan jild?
 # Variables:

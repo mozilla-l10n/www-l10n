@@ -63,7 +63,7 @@ newsletters-newsletter-subscriptions-for = Подписки на новостн�
 #   $unsubscribe (url) - link to https://www.mozillafoundation.org/newsletter/unsubscribe
 newsletters-to-unsubscribe = Чтобы отписаться от новостной рассылки { -brand-name-mozilla-foundation }, нажмите здесь: <a href="{ $unsubscribe }">{ $unsubscribe }</a>.
 # Variables:
-#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter/subscribe
+#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter
 newsletters-if-you-arent-already-subscribed = Если вы ещё не подписаны и хотите оставаться в курсе, нажмите здесь: <a href="{ $subscribe }">{ $subscribe }</a>.
 # Variables:
 #   $newsletter (string) - newsletter name

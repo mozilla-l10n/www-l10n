@@ -20,6 +20,7 @@ privacy-faq-the-following-questions-and = ਹੇਠਾਂ ਦਿੱਤੇ ਸਵ
 privacy-faq-i-use-firefox-for-almost-everything = ਮੈਂ { -brand-name-firefox } ਨੂੰ ਵੈੱਬ ਉੱਤੇ ਤਕਰੀਬਨ ਹਰ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ। ਤੁਸੀਂ { -brand-name-mozilla } ਦੇ ਲੋਕਾਂ ਨੂੰ ਮੇਰੇ ਬਾਰੇ ਇਕ ਟਨ ਜਾਣਕਾਰੀ ਜ਼ਰੂਰ ਜਾਣਦੇ ਹੋ, ਠੀਕ ਹੈ?
 privacy-faq-really-you-dont-collect-my-browsing = ਅਸਲ ਵਿੱਚ, ਤੁਸੀਂ ਮੇਰੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਅਤੀਤ ਨੂੰ ਇਕੱਤਰ ਨਹੀਂ ਕਰਦੇ?
 privacy-faq-it-seems-like-every-company = ਇਹ ਲਗਦਾ ਹੈ ਕਿ ਵੈਬ ਤੇ ਹਰ ਕੰਪਨੀ ਮੇਰੇ ਡਾਟਾ ਖਰੀਦ ਰਹੀ ਹੈ ਅਤੇ ਵੇਚ ਰਹੀ ਹੈ। ਤੁਸੀਂ ਸ਼ਾਇਦ ਵੱਖਰੇ ਨਹੀਂ ਹੋ।
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } ਤੁਹਾਡੇ ਬਾਰੇ ਡਾਟਾ ਨਹੀਂ ਵੇਚਦੀ, ਅਤੇ ਅਸੀਂ ਤੁਹਾਡੇ ਬਾਰੇ ਡਾਟਾ ਨਹੀਂ ਖਰੀਦਦੇ।
 privacy-faq-wait-so-how-do-you-make-money = ਰੁਕੋ, ਤਾਂ ਤੁਸੀਂ ਪੈਸੇ ਕਿਵੇਂ ਕਮਾਓਗੇ?
 # A "softball" is a question that is really easy to answer.

@@ -20,6 +20,7 @@ privacy-faq-the-following-questions-and = Следећа питања и одг�
 privacy-faq-i-use-firefox-for-almost-everything = Користим { -brand-name-firefox } за скоро све на интернету. Ви у { -brand-name-mozilla }-и сигурно знате тону ствари о мени, зар не?
 privacy-faq-really-you-dont-collect-my-browsing = Сигурно не сакупљате моју историју прегледања?
 privacy-faq-it-seems-like-every-company = Очигледно је да свака компанија на интернету купује и продаје моје податке. Вероватно нисте другачији.
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } не продаје и не купује никакве податке о вама.
 privacy-faq-wait-so-how-do-you-make-money = Чекај, како онда зарађујете новац?
 # Variables:

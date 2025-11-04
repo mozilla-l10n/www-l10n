@@ -23,6 +23,7 @@ privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, il naviga
 privacy-faq-really-you-dont-collect-my-browsing = Na rimnais vus propi betg mia cronologia?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } sa pli pauc che quai che ti spetgassas davart la moda e maniera dals utilisaders da navigar en il web. Sco sviluppaders dad in navigatur è quai ina sfida per nus. Per quest motiv avain nus creà utensils che funcziunan cun participaziun voluntara e permettan als utilisaders interessads d’ans dar ina invista en lur navigaziun en il web. Sche ti sincroniseschas tia cronologia tranter differentas installaziuns da { -brand-name-firefox } n’avain nus dentant nagin access a quest cuntegn – perquai ch’el è criptà da tes apparat.
 privacy-faq-it-seems-like-every-company = I para che tut las firmas en l'internet cumprian e vendian mias datas. Vus n'essas probablamain betg megliers.
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } na venda betg tias datas e nus na cumprain era betg datas davart tai.
 privacy-faq-wait-so-how-do-you-make-money = In mument, co faschais vus lura raps?
 # Variables:

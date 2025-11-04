@@ -23,6 +23,7 @@ privacy-faq-firefox-the-web-browser-that-v2 = Mobil cihazınızda veya bilgisaya
 privacy-faq-really-you-dont-collect-my-browsing = Gezinti geçmişimi gerçekten toplamıyor musunuz?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla }, kullanıcıların web’de nasıl gezindiğiyle ilgili hiç de sandığınız kadar bilgi sahibi değil. Bir tarayıcı yapımcısı olarak, aslında bu bizim için büyük bir sorun. Bu nedenle, gönüllü kullanıcıların web’de gezinme alışkanlıklarına ilişkin bize bilgi vermelerini sağlayan isteğe bağlı araçlar geliştirdik. Gezinti geçmişinizi { -brand-name-firefox } cihazlarınız arasında eşitleseniz bile verileriniz cihazınızdan çıkmadan şifrelendiği için geçmişinizi kesinlikle göremeyiz.
 privacy-faq-it-seems-like-every-company = Bütün internet şirketleri verilerimi alıp satıyor gibi görünüyor. Sizin de farkınız yoktur herhalde.
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } sizin hakkınızdaki verileri asla satmaz, hakkınızdaki verileri de asla satın almaz.
 privacy-faq-wait-so-how-do-you-make-money = Peki nasıl para kazanıyorsunuz?
 # Variables:

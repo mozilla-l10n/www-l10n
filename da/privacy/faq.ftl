@@ -21,6 +21,7 @@ privacy-faq-i-use-firefox-for-almost-everything = Jeg bruger { -brand-name-firef
 privacy-faq-really-you-dont-collect-my-browsing = Virkelig, gemmer I ikke min historik?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } ved ikke så meget som man skulle tro om, hvordan folk bruger internettet. Det er faktisk noget af en udfordring for os som software-udviklere. Derfor har vi udviklet værktøjer, som interesserede brugere kan vælge at slå til for at give os indsigt i deres browsinghistorik. Selv hvis du synkroniserer din browserhistorik på tværs af installationer af { -brand-name-firefox }, ved vi ikke noget om den, fordi historikken krypteres på din enhed.
 privacy-faq-it-seems-like-every-company = Det lader til, at ethvert firma på internettet køber og sælger mine data. Det gælder vel også jer?
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } hverken køber eller sælger data om dig.
 privacy-faq-wait-so-how-do-you-make-money = Vent lige, hvordan tjener I så jeres penge?
 # Variables:

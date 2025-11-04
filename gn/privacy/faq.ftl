@@ -22,6 +22,7 @@ privacy-faq-i-use-firefox-for-almost-everything = Aiporu { -brand-name-firefox }
 privacy-faq-really-you-dont-collect-my-browsing = ¿Peichaite? ¿Peẽ napeñongatúi kundaha rembiasakue?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } ndoikuaái nde eha’ãrõháicha mba’éichapa tapichakuéra oikundaha ñandutípe. Peteĩ atyguasu kundaha apoháramo, upéva ha’e tembiaporã tuicha mba’eva oréve. Upévare romoheñói tembiporu nde eiporavokuaáva, omoneĩva poruhárape tape porã ñeikundaha rehegua. Embojuehérõ ne kundaha rembiasakue opaite { -brand-name-firefox } ñemohendapyrére, ore ndoroikuaái tapykuere, ombopapapy rupi ne mba’e’oka.
 privacy-faq-it-seems-like-every-company = Hi’ã chéve opaite mba’apoha ñandutiguáva ojogua ha ovende che marandu. Upéicha avei peẽ napeneambuéi.
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } novendéi ha ndojoguái ne mba’ekuaarã.
 privacy-faq-wait-so-how-do-you-make-money = Eha’ãrõmi, ¿upéicharõ mba’éicha perekóta viru?
 # Variables:

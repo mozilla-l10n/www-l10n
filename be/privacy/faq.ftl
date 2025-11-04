@@ -21,6 +21,7 @@ privacy-faq-i-use-firefox-for-almost-everything = Я карыстаюся { -bra
 privacy-faq-really-you-dont-collect-my-browsing = Сапраўды, вы не збіраеце маю гісторыю аглядання?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } не ведае аб тым, як людзі аглядаюць сеціва, так шмат, як вы маглі б чакаць. Для нас, стваральніка браўзера, гэта сапраўднае выпрабаванне. Вось чаму мы зрабілі неабавязковыя прылады, што дазваляюць зацікаўленым карыстальнікам даць нам уяўленне аб іх агляданні ў сеціве. Калі вы сінхранізуеце сваю гісторыю аглядання паміж усталёўкамі { -brand-name-firefox }, мы не ведаем, што там - таму што гісторыя зашыфравана вашай прыладай.
 privacy-faq-it-seems-like-every-company = Выглядае на тое, што кожная кампанія ў сеціве купляе і прадае мае звесткі. Вы, здаецца, не выключэнне.
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } не прадае звесткі пра вас, і мы не купляем дадзеныя пра вас.
 privacy-faq-wait-so-how-do-you-make-money = Пачакайце, а як вы зарабляеце грошы?
 # Variables:

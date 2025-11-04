@@ -21,6 +21,7 @@ privacy-faq-i-use-firefox-for-almost-everything = Käytän { -brand-name-firefox
 privacy-faq-really-you-dont-collect-my-browsing = Ettekö todella kerää selaushistoriaani?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } ei tiedä niin paljon kuin voisit olettaa, kuinka ihmiset selaavat verkkoa. Selainvalmistajana se on itse asiassa meille suuri haaste. Siksi olemme rakentaneet valinnaisia työkaluja, joiden avulla kiinnostuneet käyttäjät voivat halutessaan antaa meille tietoa heidän selauksestaan. Jos synkronoit selaushistoriasi { -brand-name-firefox }-asennusten välillä, emme tiedä historian sisältöä, koska laitteesi on salannut sen.
 privacy-faq-it-seems-like-every-company = Vaikuttaa siltä, että kaikki verkossa toimivat yritykset myyvät ja ostavat käyttäjiin liittyviä tietoja. Ette taida erota muista yrityksistä.
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } ei myy sinuun liittyviä tietoja, emmekä osta sinuun liittyviä tietoja.
 privacy-faq-wait-so-how-do-you-make-money = Hetkinen, miten oikein tienaatte?
 # Variables:

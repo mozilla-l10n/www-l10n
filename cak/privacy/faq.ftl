@@ -20,6 +20,7 @@ privacy-faq-the-following-questions-and = Re taq k'utunïk chuqa' tzolin taq tzi
 privacy-faq-i-use-firefox-for-almost-everything = Ninwokisaj { -brand-name-firefox } b'ama pa ronojel ri ninb'än pan Ajk'amaya'l. Pa { -brand-name-mozilla } k'o chi ketaman k'ïy chuwij rïn, ¿La ke ri'?
 privacy-faq-really-you-dont-collect-my-browsing = ¿La qitzij chi man nayäk ta ri runatab'al wokik'amaya'l?
 privacy-faq-it-seems-like-every-company = Achi'el ronojel ajk'ayloq'oj rumolj ajk'amaya'l nikik'ayij chuqa' nikilöq' ri taq nutzij. Rik'in jub'a' chuqa' rat nak'ulwachij ri'.
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = Ri { -brand-name-mozilla } man yeruk'ayij ta ri atzij ni xa ta yerulöq'.
 privacy-faq-wait-so-how-do-you-make-money = Tawoyob'ej, ¿Achike rub'eyal numöl rupwaq?
 # Variables:

@@ -63,7 +63,7 @@ newsletters-newsletter-subscriptions-for = <a href="{ $foundation }">{ -brand-na
 #   $unsubscribe (url) - link to https://www.mozillafoundation.org/newsletter/unsubscribe
 newsletters-to-unsubscribe = 要取消訂閱 { -brand-name-mozilla-foundation } 電子報，請點擊此處：<a href="{ $unsubscribe }">{ $unsubscribe }</a>。
 # Variables:
-#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter/subscribe
+#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter
 newsletters-if-you-arent-already-subscribed = 若您尚未訂閱，而想要取得最新消息，請點擊 <a href="{ $subscribe }">{ $subscribe }</a>。
 # Variables:
 #   $newsletter (string) - newsletter name

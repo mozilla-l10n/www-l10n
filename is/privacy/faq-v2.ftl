@@ -9,6 +9,3 @@
 privacy-faq-v2-desc = Hjá { -brand-name-mozilla } virðum við og verndum persónuupplýsingar þínar.
 privacy-faq-v2-heading = Við tökum fólk fram yfir hagnað.
 privacy-faq-v2-at-mozilla = Hjá { -brand-name-mozilla } virðum við og verndum persónuupplýsingar þínar:
-
-## FAQ
-

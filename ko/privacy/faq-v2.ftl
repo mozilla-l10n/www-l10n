@@ -25,6 +25,7 @@ privacy-faq-v2-following-questions = 다음 질문들과 대답들은 여러분�
 privacy-faq-v2-i-use-firefox = 저는 웹에서 거의 모든 것을 위해 { -brand-name-firefox }를 사용합니다. { -brand-name-mozilla } 여러분들은 저에 대해 많은 것을 알고 있겠지요, 맞나요?
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla }는 사람들이 웹을 탐색하는 방식에 대해 여러분이 기대하는 만큼 많이 알지 못합니다. 여러분의 기기나 컴퓨터에서 실행되는 웹 브라우저인 { -brand-name-firefox }가 인터넷으로 통하는 여러분의 관문입니다. 브라우저는 방문하는 웹사이트에 대한 많은 정보를 관리하지만, 그 정보는 일반적으로 기기에 남습니다.
 privacy-faq-v2-it-seems-like = 웹 상의 모든 회사들이 내 정보를 사고 파는 것 같습니다. 여러분도 아마 크게 다르지 않을 것입니다.
+# Obsolete string (expires: 2025-12-08)
 # Variables:
 #   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
 privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla }는 여러분에 대한 데이터를 팔지 않고(대부분의 사람들이 '데이터 판매'에 대해 생각하는 방식으로), 여러분에 대한 데이터를 사지도 않습니다. 우리는 투명성을 위해 노력하고 있고 "데이터 판매"의 법적 정의가 일부 지역에서 매우 광범위하기 때문에 여러분이 알고 좋아하는 명확한 언급은 하지 않기로 했습니다. 우리는 여전히 파트너와 공유하는 데이터({ -brand-name-firefox }를 상업적으로 실행 가능하게 만들기 위해 해야 할 일)에서 식별 정보를 삭제하거나 공유하기 위해서만 많은 노력을 기울였습니다. 수집되거나 당사의 개인 정보 보호 기술 (예: <a { $attrs }>OHTTP</a>)을 거칩니다.

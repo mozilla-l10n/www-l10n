@@ -20,6 +20,7 @@ privacy-faq-the-following-questions-and = Žemiau pateikti klausimai ir atsakyma
 privacy-faq-i-use-firefox-for-almost-everything = Beveik visada interneto naršymui naudojuosi „{ -brand-name-firefox }“ naršykle. Tikriausiai „{ -brand-name-mozilla }“ apie mane žino daugybę dalykų, ar ne?
 privacy-faq-really-you-dont-collect-my-browsing = Tikrai? Jūs nekaupiate mano naršymo istorijos?
 privacy-faq-it-seems-like-every-company = Man jau seniai atrodo, jog visos internete veikiančios kompanijos parduoda ir perka mano duomenis. Argi jūs kitokie?
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = „{ -brand-name-mozilla }“ niekada niekam neparduoda jūsų duomenų ir niekada iš nieko neperka duomenų apie jus.
 privacy-faq-wait-so-how-do-you-make-money = Pala, tai kaip jūs užsidirbate pinigų?
 # Variables:

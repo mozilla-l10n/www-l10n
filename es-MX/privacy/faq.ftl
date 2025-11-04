@@ -20,6 +20,7 @@ privacy-faq-the-following-questions-and = Las siguientes preguntas y respuestas 
 privacy-faq-i-use-firefox-for-almost-everything = Uso { -brand-name-firefox } para casi todas mis búsquedas en línea. Me imagino que en { -brand-name-mozilla } deben saber un montón de cosas sobre mí, ¿correcto?
 privacy-faq-really-you-dont-collect-my-browsing = ¿En serio? ¿Ustedes no guardan mi historial de navegación?
 privacy-faq-it-seems-like-every-company = Parece que todas las compañías de la web venden y compran mis datos. Seguramente tú no seas una excepción.
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } no vende tus datos ni los compra.
 privacy-faq-wait-so-how-do-you-make-money = Un momento, ¿entonces cómo es que hacen dinero?
 # Variables:

@@ -23,6 +23,7 @@ privacy-faq-firefox-the-web-browser-that-v2 = O { -brand-name-firefox }, navegad
 privacy-faq-really-you-dont-collect-my-browsing = Sério? Meu histórico de navegação não é coletado?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = A { -brand-name-mozilla } não conhece tanto quando você poderia esperar sobre como as pessoas navegam pela internet. Este é um grande desafio para nós como criadores de navegador. É por isso que criamos ferramentas opcionais, que permitem que usuários interessados nos concedam percepção de sua navegação na internet. Se você o sincroniza o histórico de navegação entre instalações do { -brand-name-firefox }, não tomamos conhecimento dele, porque é criptografado em seu dispositivo.
 privacy-faq-it-seems-like-every-company = Parece que toda empresa na Web está comprando e vendendo meus dados, vocês não são diferentes.
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = A { -brand-name-mozilla } não vende e nem comprar dados sobre você.
 privacy-faq-wait-so-how-do-you-make-money = Então, como vocês lucram?
 # Variables:

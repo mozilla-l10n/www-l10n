@@ -23,6 +23,7 @@ privacy-faq-firefox-the-web-browser-that-v2 = 您的手機或電腦上的 { -bra
 privacy-faq-really-you-dont-collect-my-browsing = 你們不會收集我的上網紀錄嗎？真的？
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } 並沒有如您所預期的那麼了解人們如何上網。作為瀏覽器的開發商，這是一個很大的挑戰。這就是為什麼我們要開發主動加入的工具，讓有興趣的使用者主動提供他們如何上網的相關資訊給我們。若您在多台電腦的 { -brand-name-firefox } 之間同步瀏覽紀錄，由於資料是先在您的電腦上加密過才進行同步，我們還是不會知道您曾經上過哪些網站。
 privacy-faq-it-seems-like-every-company = 好像網路上的每個公司都在買賣我的資料，你們跟他們又有何不同？
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } 不賣你的資料，同樣地我們也不買您的資料。
 privacy-faq-wait-so-how-do-you-make-money = 等等，那你們這樣要如何賺錢？
 # Variables:

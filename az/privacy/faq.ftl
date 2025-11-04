@@ -20,6 +20,7 @@ privacy-faq-the-following-questions-and = Aşağıdakı suallar və cavablar { -
 privacy-faq-i-use-firefox-for-almost-everything = İnternetdəki hər şey üçün { -brand-name-firefox } işlədirəm. { -brand-name-mozilla } yəqin ki, mənim haqqımda kalan şey bilir, elə deyil mi?
 privacy-faq-really-you-dont-collect-my-browsing = Səyahət tarixçəmi həqiqətən də yığmırsız?
 privacy-faq-it-seems-like-every-company = Görünür internetdəki hər şirkət məlumatlarımı alıb-satır. Siz də yəqin ki, fərqli deyilsiz.
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } məlumatlarınızı satmır və həmçinin almır da.
 privacy-faq-wait-so-how-do-you-make-money = Yaxşı, bəs siz necə pul qazanırsız?
 # A "softball" is a question that is really easy to answer.

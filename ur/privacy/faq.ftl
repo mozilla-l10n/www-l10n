@@ -14,6 +14,7 @@ privacy-faq-we-follow-a-set-of-data-privacy = ہم <a href="{ $link }"> ڈیٹا
 privacy-faq-we-only-collect-the-data-we = ہم صرف وہی ڈیٹا جمع کرتے ہیں جس کی ہمیں بہترین مصنوعات تیار کرنے میں ضرورت ہوتی ہے۔
 privacy-faq-i-use-firefox-for-almost-everything = میں ویب پر موجود ہر چیز کے لئے { -brand-name-firefox } استعمال کرتا ہوں۔ آپ { -brand-name-mozilla } کے لوگوں کو میرے بارے میں کافی چیزیں  پتاہوں گی، ٹھیک ہے؟
 privacy-faq-really-you-dont-collect-my-browsing = واقعی، آپ میری براؤزنگ کے  سابقات جمع نہیں کرتے ہیں؟
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla }  آپ کے بارے میں ڈیٹا فروخت نہیں کرتی ہے ، اور نہ ہی ہم آپ کے بارے میں ڈیٹا خریدتے ہیں۔
 privacy-faq-wait-so-how-do-you-make-money = ٹھریئے، تو آپ پیسہ کس طرح کماتے ہیں؟
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.

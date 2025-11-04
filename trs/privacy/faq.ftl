@@ -20,6 +20,7 @@ privacy-faq-the-following-questions-and = Nej nuguan' nachin' nan'ānj nī nata'
 privacy-faq-i-use-firefox-for-almost-everything = Maninānj { -brand-name-firefox } arâj sunj riña Web. Nej et, sa nikāj dugui' ngà { -brand-name-mozilla }, ûta ni'iint rayi'î si guruhuaj, sê danj ân'.
 privacy-faq-really-you-dont-collect-my-browsing = Nu naran' yangà't nuguan' natsî ngà aché nunj nga'
 privacy-faq-it-seems-like-every-company = Rû' huaj sisī daran' chre yi'nïn'ïn narânj nī nadu'uèj nej nuguan' huā rayi'î. Huê dan 'iaj ngèt si guruhuaj.
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } sanī nitāj si naran nī nitaj si nadu'ue nuguan' huā rayi'ît.
 privacy-faq-wait-so-how-do-you-make-money = Nekuan' sò', dàj gi'iô' girì san'ānj an ngà nānj
 # A "softball" is a question that is really easy to answer.

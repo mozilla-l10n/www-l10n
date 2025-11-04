@@ -20,6 +20,7 @@ privacy-faq-the-following-questions-and = Järgnevad küsimused ja vastused peak
 privacy-faq-i-use-firefox-for-almost-everything = Kasutan { -brand-name-firefox }i veebis pea kõigeks. Te vist teate { -brand-name-mozilla }s minust väga palju?
 privacy-faq-really-you-dont-collect-my-browsing = Kas te tõesti ei kogu mu lehitsemisajalugu?
 privacy-faq-it-seems-like-every-company = Tundub, et iga internetis tegutsev firma ostab ja müüb minu andmeid. Küllap olete samasugused.
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } ei müü sinu andmeid, samuti ei osta me sinu andmeid teistelt.
 privacy-faq-wait-so-how-do-you-make-money = Oodake, aga kuidas te siis kasumit teenite?
 # Variables:
