@@ -23,6 +23,7 @@ privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, webwobhla
 privacy-faq-really-you-dont-collect-my-browsing = Njehromadźiće woprawdźe moju přehladowansku historiju?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } njewě tak wjele kaž wočakujeće wo tym, kak ludźo web přehladujeće. Jako zhotowjer wobhladowaka je to woprawdźe wulke wužadanje za nas. Tohodla smy nastroje za dobrowólne wužiwanje wuwili, kotrež zajimowanym wužiwarjam zmóžnjeja, nam dohlad do jich webpřehladowanja poskićić. Jeli swoju přehladowansku historiju přez instalacije { -brand-name-firefox } synchronizujeće, njewěmy, štož tuta historija wobsahuje - dokelž je přez waš grat zaklučowana.
 privacy-faq-it-seems-like-every-company = Zda so, kaž by kóžde předewzaće we webje moje daty kupiło a předało. Pola was to najskerje hinak njeje.
+privacy-faq-we-never-sell-your = Njepředamy ženje waše wosobinske daty. Na rozdźěl wot druhich wulkich technologijowych předewzaćow, kotrež waše wosobinske daty hromadźa a z nich profituja, twarimy wot wšeho spočatka na priwatnosć. Njewěmy wašu starobu, splah, dokładne stejnišćo abo druhe informacije, kotrež wulke technologijowe předewzaća hromadźa a z kotrychž profituja.
 # Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } daty wo was njepředawa a njekupuje.
 privacy-faq-wait-so-how-do-you-make-money = Moment, z čim da pjenjezy zaslužiće?
