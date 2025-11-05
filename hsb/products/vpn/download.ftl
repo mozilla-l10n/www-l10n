@@ -40,3 +40,7 @@ vpn-download-also-available = Tež k dispoziciji za:
 vpn-download-from-the-maker = Wot zhotowjerja { -brand-name-firefox } , { -brand-name-mozilla-vpn } rozšěrjeny protokol <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® wužiwa, zo by wašu aktiwitu online zaklučował a waše stejnišćo schował.
 vpn-download-we-never-log = Waše syćowe daty ženje njeprotokolujemy, njeslědujemy abo njedźělimy.
 vpn-download-previous-versions = Sćehńće předchadne wersije za { -brand-name-windows } a { -brand-name-mac-short }
+vpn-download-install-via-flathub = Přez Flathub instalować
+vpn-download-install-via-apt = Přez APT instalować
+vpn-download-flathub = Flathub
+vpn-download-apt = APT

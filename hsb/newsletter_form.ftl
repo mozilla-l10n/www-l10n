@@ -29,6 +29,8 @@ newsletter-form-available-languages = K dispoziciji stejace rěče
 newsletter-form-select-country = Wubjerće kraj
 newsletter-form-sign-me-up = Registrować
 newsletter-form-sign-up-now = Registrujće so nětko
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Słanje
 newsletter-form-thanks = Wulki dźak!
 newsletter-form-leave-this-field-empty = Wostajće polo prózdne.
 newsletter-form-yes = Haj
