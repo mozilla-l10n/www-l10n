@@ -40,3 +40,7 @@ vpn-download-also-available = Også tilgjengelig for:
 vpn-download-from-the-maker = Fra produsenten av { -brand-name-firefox } bruker { -brand-name-mozilla-vpn } den avanserte <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®-protokollen for å kryptere nettaktiviteten din og skjule posisjonen din.
 vpn-download-we-never-log = Vi verken loggfører, sporer eller deler dine nettverksdata.
 vpn-download-previous-versions = Last ned tidligere versjoner for { -brand-name-windows } og { -brand-name-mac-short }
+vpn-download-install-via-flathub = Installer via Flathub
+vpn-download-install-via-apt = Installer via APT
+vpn-download-flathub = Flathub
+vpn-download-apt = APT
