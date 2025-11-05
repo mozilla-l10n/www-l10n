@@ -29,6 +29,8 @@ newsletter-form-available-languages = Διαθέσιμες γλώσσες
 newsletter-form-select-country = Επιλογή χώρας
 newsletter-form-sign-me-up = Εγγραφή
 newsletter-form-sign-up-now = Εγγραφή τώρα
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Αποστολή
 newsletter-form-thanks = Ευχαριστούμε!
 newsletter-form-leave-this-field-empty = Αφήστε αυτό το πεδίο κενό.
 newsletter-form-yes = Ναι
