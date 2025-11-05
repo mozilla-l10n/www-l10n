@@ -27,7 +27,7 @@ privacy-faq-mozilla-doesnt-know-as-much-v2 =
        *[no-cases] { -brand-name-mozilla } toho o tom, jak lidé prohází web, neví zdaleka tolik, kolik byste očekávali. Pro nás jako autory prohlížeče je to velká výzva. Proto máme zabudované volitelné nástroje, která povolují zapojeným uživatelům dát nám vzhled do toho, jak prohlížejí web. Pokud synchronizujete historii prohlížení napříč instalacemi aplikace { -brand-name-firefox }, nevíme o této historii nic — jednoduše proto, že je šifrována již na vašem zařízení.
     }
 privacy-faq-it-seems-like-every-company = Myslím, že každá internetová společnost kupuje nebo prodává má data. Jak se Mozilla liší?
-privacy-faq-we-never-sell-your = Vaše osobní údaje nikdy neprodáváme. Na rozdíl od jiných velkých technologických společností, které shromažďují a těží z vašich osobních údajů, jsme navrhli s ohledem na soukromí jako výchozí. Neznáme váš věk, pohlaví, přesnou polohu ani jiné informace, které Big Tech shromažďuje a z nichž vydělává.
+privacy-faq-we-never-sell-your = Vaše osobní údaje nikdy neprodáváme. Na rozdíl od jiných velkých technologických společností, které shromažďují vaše osobní údaje a vydělávají na nich, jsme vytvořeni s ohledem na ochranu soukromí. Neznáme váš věk, pohlaví, přesnou polohu ani další informace, které velké technologické společnosti sbírají a vydělávají na nich.
 # Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } neprodává žádná vaše data, stejně tak je ani nekupujeme.
 privacy-faq-wait-so-how-do-you-make-money = Ale jak potom vyděláváte?
