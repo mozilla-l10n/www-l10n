@@ -29,6 +29,8 @@ newsletter-form-available-languages = Beschikbare talen
 newsletter-form-select-country = Land selecteren
 newsletter-form-sign-me-up = Inschrijven
 newsletter-form-sign-up-now = Nu inschrijven
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Verzenden
 newsletter-form-thanks = Bedankt!
 newsletter-form-leave-this-field-empty = Laat dit veld leeg.
 newsletter-form-yes = Ja
