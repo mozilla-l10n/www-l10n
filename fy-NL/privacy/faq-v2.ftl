@@ -25,6 +25,7 @@ privacy-faq-v2-following-questions = De folgjende fragen en antwurden soene help
 privacy-faq-v2-i-use-firefox = Ik brûk { -brand-name-firefox } foar hast alles op it web. Jimme by { -brand-name-mozilla } moatte wol in hiel protte oer my witte, net wier?
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } wit net safolle as jo ferwachtsje soene oer hoe’t minsken op it web sneupe. { -brand-name-firefox }, de webbrowser dy’t rint op jo apparaat of kompjûter, is jo tagongspoarte nei it ynternet. Jo browser sil in soad ynformaasje beheare oer de websites dy’t jo besykje, mar dy ynformaasje bliuwt oer it algemien op jo apparaat.
 privacy-faq-v2-it-seems-like = It liket der op dat alle bedriuwen op it ynternet myn gegevens keapje en ferkeapje. By jimme is dat wierskynlik net oars.
+privacy-faq-v2-we-never-sell-your = Wy ferkeapje jo persoanlike gegevens nea. Oars as oare grutte technologybedriuwen, dy’t jo persoanlike ynformaasje sammelje en der winst út meitsje, binne wy boud mei privacy as standert. Wy witte jo leeftiid, geslacht, krekte lokaasje of oare ynformaasje, dy’t grutte technologybedriuwen sammelje en der winst út helje, net.
 # Obsolete string (expires: 2025-12-08)
 # Variables:
 #   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
