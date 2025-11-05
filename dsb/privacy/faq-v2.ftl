@@ -25,6 +25,7 @@ privacy-faq-v2-following-questions = Slědujuce pšašanja a wótegrona maju wam
 privacy-faq-v2-i-use-firefox = Wužywam { -brand-name-firefox } za skóro wšykno w interneśe. Nejskerjej wě { -brand-name-mozilla } pšawje wjele wó mnje, nic ga?
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } njewě tak wjele, kak wjele wy by wótcakaś wó tom, kak luźe web pśeglěduju. { -brand-name-firefox }, webwobglědowak, kótaryž na wašom rěźe abo licadle běžy, jo waše zachodowe wrota k internetoju. Waš wobglědowak wjele informacijow wó websedłach zastojaś, ku kótarymž se woglědujośo, ale te informacije zwětšego na wašom rěźe wóstawaju.
 privacy-faq-v2-it-seems-like = Zda se, ako by kužde pśedewześe we webje móje daty kupiło a pśedało. Pla was to nejskerjej hynac njejo.
+privacy-faq-v2-we-never-sell-your = Njepśedajomy nigda waše wósobinske daty. Na rozdźěl wót drugich wjelikich pśedewześow technologije, kótarež waše wósobinske daty gromaźe a z nich profitěruju, twarimy wót wšogo zachopjeńka na priwatnosć. Njewěmy wašu starstwo, rod, dokradne stojnišćo abo druge informacije, kótarež wjelike pśedewześa technologije gromaźe a z kótarychž profitěruju.
 # Obsolete string (expires: 2025-12-08)
 # Variables:
 #   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
