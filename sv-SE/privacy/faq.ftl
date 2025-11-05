@@ -23,6 +23,7 @@ privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, webbläsa
 privacy-faq-really-you-dont-collect-my-browsing = Verkligen, sparar ni inte min surfhistorik?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } vet inte så mycket som du kan förvänta dig om hur människor surfar på nätet. Som webbläsartillverkare är det faktiskt en stor utmaning för oss. Det är därför vi har inbyggda verktyg som gör att intresserade användare kan ge oss inblick i deras webbsurfning. Om du synkroniserar din webbhistorik mellan flera { -brand-name-firefox }-installationer vet vi inte vad den historiken är — eftersom den är krypterad av din enhet.
 privacy-faq-it-seems-like-every-company = Det verkar som att varje företag på nätet köper och säljer mina data. Ni är nog inte annorlunda.
+privacy-faq-we-never-sell-your = Vi säljer aldrig dina personuppgifter. Till skillnad från andra stora teknikföretag som samlar in och tjänar på dina personuppgifter, är vi byggda med integritet som standard. Vi känner inte till din ålder, ditt kön, din exakta plats eller annan information som stora teknikföretag samlar in och tjänar på.
 # Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } säljer inte data om dig, och vi köper inte data om dig.
 privacy-faq-wait-so-how-do-you-make-money = Vänta, så hur tjänar ni pengar?

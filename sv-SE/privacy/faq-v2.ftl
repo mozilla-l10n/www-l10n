@@ -25,6 +25,7 @@ privacy-faq-v2-following-questions = Följande frågor och svar ska hjälpa dig 
 privacy-faq-v2-i-use-firefox = Jag använder { -brand-name-firefox } för nästan allt på webben. Ni på { -brand-name-mozilla } måste veta en hel del om mig, eller hur?
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } vet inte så mycket som du kan förvänta dig om hur människor surfar på nätet. { -brand-name-firefox }, webbläsaren som körs på din enhet eller dator, är din gateway till internet. Din webbläsare kommer att hantera mycket information om de webbplatser du besöker, men den informationen finns i allmänhet kvar på din enhet.
 privacy-faq-v2-it-seems-like = Det verkar som att varje företag på webben köper och säljer min data. Du är förmodligen inte annorlunda.
+privacy-faq-v2-we-never-sell-your = Vi säljer aldrig dina personuppgifter. Till skillnad från andra stora teknikföretag som samlar in och tjänar på dina personuppgifter, är vi byggda med integritet som standard. Vi känner inte till din ålder, ditt kön, din exakta plats eller annan information som stora teknikföretag samlar in och tjänar på.
 # Obsolete string (expires: 2025-12-08)
 # Variables:
 #   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
