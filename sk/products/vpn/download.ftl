@@ -40,3 +40,7 @@ vpn-download-also-available = Dostupné aj pre:
 vpn-download-from-the-maker = Od tvorcov { -brand-name-firefox(case: "gen") }. { -brand-name-mozilla-vpn } používa pokročilý protokol <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® na šifrovanie vašej online aktivity a skrytie vašej polohy.
 vpn-download-we-never-log = Nikdy nezbierame, nesledujeme ani nezdieľame údaje o vašich aktivitách.
 vpn-download-previous-versions = Stiahnite si predchádzajúce verzie pre { -brand-name-windows } a { -brand-name-mac-short }
+vpn-download-install-via-flathub = Inštalácia cez Flathub
+vpn-download-install-via-apt = Inštalácia cez APT
+vpn-download-flathub = Flathub
+vpn-download-apt = APT

@@ -23,6 +23,7 @@ privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, webový p
 privacy-faq-really-you-dont-collect-my-browsing = Naozaj nezbierate moju históriu prehliadania?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } nevie o tom, ako ľudia prehliadajú web, tak veľa, ako by ste očakávali. Pre nás ako tvorcu prehliadača je to v skutočnosti veľká výzva. To je dôvod, prečo sme vytvorili voliteľné nástroje, ktoré umožňujú zainteresovaným používateľom poskytnúť nám prehľad o ich prehliadaní webu. Ak synchronizujete svoju históriu prehliadania v inštaláciách { -brand-name-firefox(case: "gen") }, nevieme, čo táto história obsahuje – pretože je šifrovaná vaším zariadením.
 privacy-faq-it-seems-like-every-company = Zdá sa mi, že každá spoločnosť na internete nakupuje a predáva údaje o mne. Pravdepodobne nie ste výnimka.
+privacy-faq-we-never-sell-your = Vaše osobné údaje nikdy nepredávame. Na rozdiel od iných veľkých technologických spoločností, ktoré zhromažďujú vaše osobné údaje a profitujú z nich, sme vytvorení s ohľadom na súkromie. Nepoznáme váš vek, pohlavie, presnú polohu ani iné informácie, ktoré veľké technologické spoločnosti zhromažďujú a z ktorých profitujú.
 # Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } nepredáva údaje o vás a ani ich nenakupuje.
 privacy-faq-wait-so-how-do-you-make-money = Počkať, ako teda zarábate peniaze?
