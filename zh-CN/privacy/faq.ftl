@@ -23,6 +23,7 @@ privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox } 作为您�
 privacy-faq-really-you-dont-collect-my-browsing = 你们真的不收集我的浏览历史？
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } 并不像您想的那样了解人们如何浏览网页。作为一家浏览器开发商，这对我们来说实际上是个巨大的挑战。因此我们开发了自愿加入测试的工具，使感兴趣的用户能够让我们深入了解他们的网页浏览习惯。此外，即使您选择在 { -brand-name-firefox } 间同步浏览历史，我们也无法看到您的记录，因为记录在您的设备上就已加密。
 privacy-faq-it-seems-like-every-company = 似乎每个公司都在购买和出售我的数据。你们可能也这样。
+privacy-faq-we-never-sell-your = 我们绝不会出售您的个人数据。其他大型科技公司收集您的个人信息并从中获利我们将隐私权作为默认设定。我们不知道您的年龄、性别、精确位置或其他信息以及互联网巨头收集并从中获利的信息。
 # Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } 不会出售您的数据，我们也不会购买您的数据。
 privacy-faq-wait-so-how-do-you-make-money = 等等，那你们这样要如何赚钱呢？

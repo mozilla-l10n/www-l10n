@@ -29,6 +29,8 @@ newsletter-form-available-languages = 可用语言
 newsletter-form-select-country = 选择国家/地区
 newsletter-form-sign-me-up = 我要订阅
 newsletter-form-sign-up-now = 立即订阅
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = 正在发送
 newsletter-form-thanks = 谢谢！
 newsletter-form-leave-this-field-empty = 将此栏留空。
 newsletter-form-yes = 是的

@@ -25,6 +25,7 @@ privacy-faq-v2-following-questions = 下面的常見問題可協助您了解對 
 privacy-faq-v2-i-use-firefox = 我的主力瀏覽器是 { -brand-name-firefox }，幾乎用它上網做任何事。你們這群 { -brand-name-mozilla } 的人一定都知道我在做什麼了，對吧？
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } 並沒有如您所預期的那麼了解人們如何上網。{ -brand-name-firefox } 作為於您的裝置或電腦上運作的瀏覽器，是您上網的入口。瀏覽器會接觸到您造訪過的網站的許多資訊，但這些資訊通常都保存在您的裝置上，不會外流。
 privacy-faq-v2-it-seems-like = 好像網路上的每個公司都在買賣我的資料，你們跟他們又有何不同？
+privacy-faq-v2-we-never-sell-your = 我們絕對不會出賣您的個人資料。與其他大型科技公司不同收集您的個人資訊並從中獲利不同的是我們把隱私權設為預設值。我們不知道您的年齡、性別、準確位置或是 Big Tech 會收集並從中獲利的其他資訊。
 # Obsolete string (expires: 2025-12-08)
 # Variables:
 #   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained

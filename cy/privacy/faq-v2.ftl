@@ -25,6 +25,7 @@ privacy-faq-v2-following-questions = Dylai'r cwestiynau a'r atebion canlynol eic
 privacy-faq-v2-i-use-firefox = Rwy'n defnyddio { -brand-name-firefox } ar gyfer bron pob peth ar y We. Rhaid eich bod chi ym { -brand-name-mozilla }'n gwybod y cyfan amdana i?
 privacy-faq-v2-mozilla-does-not-know = Nid yw { -brand-name-mozilla } yn gwybod cymaint ag y byddech yn ei ddisgwyl am sut mae pobl yn pori'r we. { -brand-name-firefox }, y porwr gwe sy'n rhedeg ar eich dyfais neu gyfrifiadur, yw eich porth i'r rhyngrwyd. Bydd eich porwr yn rheoli llawer o wybodaeth am y gwefannau y byddwch yn ymweld â nhw, ond mae'r wybodaeth honno'n aros ar eich dyfais yn gyffredinol.
 privacy-faq-v2-it-seems-like = Mae'n ymddangos fel bod pob cwmni ar y we yn prynu a gwerthu fy nata. Mae'n siŵr eich bod chi'r un fath.
+privacy-faq-v2-we-never-sell-your = Nid ydym byth yn gwerthu eich data personol. Yn wahanol i gwmnïau technoleg mawr eraill sy'n casglu ac yn elwa o'ch gwybodaeth bersonol, rydym wedi'n hadeiladu gyda phreifatrwydd fel y rhagosodiad. Nid ydym yn gwybod eich oedran, rhyw, union leoliad, na gwybodaeth arall y mae Big Tech yn ei chasglu ac yn gwneud elw ohoni.
 # Obsolete string (expires: 2025-12-08)
 # Variables:
 #   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained

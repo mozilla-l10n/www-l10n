@@ -25,6 +25,7 @@ privacy-faq-v2-following-questions = Las preguntas y respuestas siguientes deber
 privacy-faq-v2-i-use-firefox = Uso { -brand-name-firefox } para casi todo lo que hago en la web. En { -brand-name-mozilla } deben saber un montón sobre mi, ¿cierto?
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } no sabe tanto como esperarías sobre cómo la gente navega la web. { -brand-name-firefox }, el navegador web que se ejecuta en tu dispositivo o computadora, es tu puerta de entrada a Internet. Tu navegador administrará mucha información sobre los sitios web que visitás, pero esa información generalmente permanece en tu dispositivo.
 privacy-faq-v2-it-seems-like = Parece que toda compañía en la web está comprando y vendiendo mi información. Probablemente ustedes no sean diferentes.
+privacy-faq-v2-we-never-sell-your = Nunca vendemos tus datos personales. A diferencia de otras grandes empresas de tecnología que recopilan y se benefician de tu información personal, la privacidad es la opción predeterminada. No sabemos tu edad, sexo, ubicación exacta ni otra información que las grandes tecnológicas recopilan y de la que se benefician.
 # Obsolete string (expires: 2025-12-08)
 # Variables:
 #   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained

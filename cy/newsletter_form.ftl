@@ -29,6 +29,8 @@ newsletter-form-available-languages = Ieithoedd Sydd ar Gael
 newsletter-form-select-country = Dewis gwlad
 newsletter-form-sign-me-up = Cofrestru
 newsletter-form-sign-up-now = Cofrestrwch nawr
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Anfon
 newsletter-form-thanks = Diolch!
 newsletter-form-leave-this-field-empty = Gadewch y maes hwn yn wag.
 newsletter-form-yes = Iawn

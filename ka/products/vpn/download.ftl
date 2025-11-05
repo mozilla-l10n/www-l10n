@@ -40,3 +40,7 @@ vpn-download-also-available = ასევე ხელმისაწვდო�
 vpn-download-from-the-maker = { -brand-name-firefox }-ის შემქმნელისგან, { -brand-name-mozilla-vpn } იყენებს გაუმჯობესებულ <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® ოქმს ინტერნეტში თქვენი საქმიანობის დასაშიფრად და თქვენი ადგილმდებარეობის დასაფარად.
 vpn-download-we-never-log = ჩვენ არასდროს არ აღვრიცხავთ, არ ვადევნებთ თვალს და არ გავაზიარებთ თქვენი ქსელის მონაცემებს.
 vpn-download-previous-versions = ჩამოტვირთეთ ადრინდელი ვერსიები { -brand-name-windows }-სა და { -brand-name-mac-short }-ზე
+vpn-download-install-via-flathub = დააყენეთ Flathub-ით
+vpn-download-install-via-apt = დაყენება APT-ით
+vpn-download-flathub = Flathub
+vpn-download-apt = APT

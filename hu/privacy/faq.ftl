@@ -23,6 +23,7 @@ privacy-faq-firefox-the-web-browser-that-v2 = A { -brand-name-firefox }, a webb�
 privacy-faq-really-you-dont-collect-my-browsing = Tényleg, nem gyűjtik az előzményeim?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = A { -brand-name-mozilla } nem tud annyit arról, hogyan böngészik az emberek a világhálót, mint azt gondolná. Böngészőkészítőként ez valójában nagy kihívás számunkra. Ezért építettünk olyan választható eszközöket, melyekkel az érdeklődő felhasználók bepillantást engedhetnek böngészésükbe. Ha szinkronizálja a böngészési előzményeit a { -brand-name-firefox } telepítések között, akkor nem tudjuk meg, hogy mik ezek – mert az eszköze titkosítja azokat.
 privacy-faq-it-seems-like-every-company = Úgy tűnik, hogy minden egyes cég a weben adja és veszi az adataimat. Lehet, hogy ti sem vagytok különbek.
+privacy-faq-we-never-sell-your = Sosem adjuk el a személyes adatait. Eltérően a többi nagy tech cégtől, melyek gyűjtik és hasznosítják a személyes adatait, mi alapértelmezésben az adatvédelmet szem előtt tartjuk. Nem tudjuk az életkorát, nemét, pontos tartózkodási helyét vagy más olyan adatait, amit a Big Tech gyűjt, és amiből profitál.
 # Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = A { -brand-name-mozilla } nem adja el az Ön adatait, és nem is veszünk adatokat Önről.
 privacy-faq-wait-so-how-do-you-make-money = Várjunk, akkor hogyan csináltok pénzt?

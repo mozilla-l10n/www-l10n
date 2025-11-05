@@ -29,6 +29,8 @@ newsletter-form-available-languages = ხელმისაწვდომი �
 newsletter-form-select-country = ქვეყნის არჩევა
 newsletter-form-sign-me-up = გამოწერა
 newsletter-form-sign-up-now = გამოწერა
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = იგზავნება
 newsletter-form-thanks = გმადლობთ!
 newsletter-form-leave-this-field-empty = ამ ველის ცარიელად დატოვება.
 newsletter-form-yes = დიახ

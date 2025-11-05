@@ -25,6 +25,7 @@ privacy-faq-v2-following-questions = Následující otázky a odpovědi by vám 
 privacy-faq-v2-i-use-firefox = Používám { -brand-name-firefox } téměř pořád. To o mně musíte v { -brand-name-mozilla(case: "loc") } vědět spoustu věcí, že?
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } neví o tom, jak lidé procházejí web, tolik, kolik byste očekávali. { -brand-name-firefox }, webový prohlížeč, který běží na vašem zařízení nebo počítači, je vaší vstupní branou na internet. Váš prohlížeč spravuje mnoho informací o navštívených webových stránkách, ale tyto informace obvykle zůstávají ve vašem zařízení.
 privacy-faq-v2-it-seems-like = Zdá se, že každá společnost na webu kupuje a prodává moje údaje. Pravděpodobně nejste jiní.
+privacy-faq-v2-we-never-sell-your = Vaše osobní údaje nikdy neprodáváme. Na rozdíl od jiných velkých technologických společností, které shromažďují a těží z vašich osobních údajů, jsme navrhli s ohledem na soukromí jako výchozí. Neznáme váš věk, pohlaví, přesnou polohu ani jiné informace, které Big Tech shromažďuje a z nichž vydělává.
 # Obsolete string (expires: 2025-12-08)
 # Variables:
 #   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained

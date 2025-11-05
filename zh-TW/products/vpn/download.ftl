@@ -40,3 +40,7 @@ vpn-download-also-available = 也提供下列版本：
 vpn-download-from-the-maker = 來自 { -brand-name-firefox } 的開發者 { -brand-name-mozilla-vpn } 使用進階的 <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® 通訊協定來加密您的線上行為並隱藏您的實際所在地點。
 vpn-download-we-never-log = 我們永不記錄、追蹤或分享您的上網資料。
 vpn-download-previous-versions = 下載 { -brand-name-windows } 與 { -brand-name-mac-short } 的先前版本
+vpn-download-install-via-flathub = 透過 Flaghub 安裝
+vpn-download-install-via-apt = 透過 ATP 安裝
+vpn-download-flathub = Flathub
+vpn-download-apt = ATP

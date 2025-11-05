@@ -40,3 +40,7 @@ vpn-download-also-available = Also available for:
 vpn-download-from-the-maker = From the maker of { -brand-name-firefox }, { -brand-name-mozilla-vpn } uses the advanced <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® protocol to encrypt your online activity and hide your location.
 vpn-download-we-never-log = We never log, track, or share your network data.
 vpn-download-previous-versions = Download previous versions for { -brand-name-windows } and { -brand-name-mac-short }
+vpn-download-install-via-flathub = Install via Flathub
+vpn-download-install-via-apt = Install via APT
+vpn-download-flathub = Flathub
+vpn-download-apt = APT

@@ -40,3 +40,7 @@ vpn-download-also-available = Ezekhez is elérhető:
 vpn-download-from-the-maker = A { -brand-name-firefox } készítőjétől, a { -brand-name-mozilla-vpn } a fejlett <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® protokollt használja az online tevékenysége titkosításához és a tartózkodási helyének elrejtéséhez.
 vpn-download-we-never-log = Sosem naplózzuk, követjük nyomon vagy osztjuk meg a hálózati adatait.
 vpn-download-previous-versions = Korábbi verziók letöltése { -brand-name-windows }ra és { -brand-name-mac-short }re
+vpn-download-install-via-flathub = Telepítés Flathubon keresztül
+vpn-download-install-via-apt = Telepítés APT-n keresztül
+vpn-download-flathub = Flathub
+vpn-download-apt = APT

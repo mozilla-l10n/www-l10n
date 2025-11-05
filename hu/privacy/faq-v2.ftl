@@ -25,6 +25,7 @@ privacy-faq-v2-following-questions = A következő kérdések és válaszok seg�
 privacy-faq-v2-i-use-firefox = Szinte mindenre a { -brand-name-firefox(case: "accusative") } használom a weben. Ott a { -brand-name-mozilla(ending: "accented") }nál biztos sok mindent tudnak rólam, ugye?
 privacy-faq-v2-mozilla-does-not-know = A { -brand-name-mozilla } nem tud annyit arról, hogy az emberek hogyan böngészik a világhálót, mint gondolná. A { -brand-name-firefox }, a böngésző, amely az eszközén vagy számítógépén fut, az Ön átjárója az internethez. A böngészője sok információt kezel a meglátogatott weboldalakkal kapcsolatban, de ezek az információk általában megmaradnak az eszközén.
 privacy-faq-v2-it-seems-like = Úgy tűnik, hogy minden egyes cég a weben adja és veszi az adataimat. Lehet, hogy Önök sem különbek.
+privacy-faq-v2-we-never-sell-your = Sosem adjuk el a személyes adatait. Eltérően a többi nagy tech cégtől, melyek gyűjtik és hasznosítják a személyes adatait, mi alapértelmezésben az adatvédelmet szem előtt tartjuk. Nem tudjuk az életkorát, nemét, pontos tartózkodási helyét vagy más olyan adatait, amit a Big Tech gyűjt, és amiből profitál.
 # Obsolete string (expires: 2025-12-08)
 # Variables:
 #   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
