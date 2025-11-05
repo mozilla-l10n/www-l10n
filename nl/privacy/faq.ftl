@@ -23,6 +23,7 @@ privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, de webbro
 privacy-faq-really-you-dont-collect-my-browsing = Verzamelen jullie mijn browsergeschiedenis echt niet?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } weet niet zo veel over hoe mensen op het web surfen als u zou verwachten. Als browsermaker is dat eigenlijk een grote uitdaging voor ons. Daarom hebben we optionele hulpmiddelen gebouwd, waarmee geïnteresseerde gebruikers ons inzichten over hun surfgedrag kunnen geven. Als u uw browsergeschiedenis tussen { -brand-name-firefox }-installaties synchroniseert, weten we niet wat die geschiedenis is – omdat deze door uw apparaat wordt versleuteld.
 privacy-faq-it-seems-like-every-company = Het lijkt erop dat alle bedrijven op het internet mijn gegevens kopen en verkopen. Bij jullie is dat waarschijnlijk niet anders.
+privacy-faq-we-never-sell-your = We verkopen uw persoonlijke gegevens nooit. In tegenstelling tot andere grote technologiebedrijven, die uw persoonlijke gegevens verzamelen en ervan profiteren, zijn we gebouwd met privacy als standaard. We kennen uw leeftijd, geslacht, exacte locatie of andere gegevens die Big Tech verzamelt en waarvan ze profiteren niet.
 # Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } verkoopt geen gegevens over u, en we kopen geen gegevens over u.
 privacy-faq-wait-so-how-do-you-make-money = Wacht, hoe verdienen jullie dan geld?
