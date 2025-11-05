@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
+### URL: https://www-dev.allizom.org/?xv=quantum (old, old homepage)
 
 home-careers = Imisebenzi
 home-learn-about-the-benefits-of = Funda ngamancedo okusebenza kwi-{ -brand-name-mozilla } kwaye uze uhlele iindawo ezivulekile kwilizwe lonke.

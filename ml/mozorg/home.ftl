@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
+### URL: https://www-dev.allizom.org/?xv=quantum (old, old homepage)
 
 home-internet-for-people-not-profit = ഇന്റർനെറ്റ് ജനങ്ങള്‍ക്ക്, ലാഭേച്ഛയില്ലാതെ
 home-did-you-know-mozilla-the-maker = നിങ്ങള്‍ക്കറിയാമോ? മോസില്ല — ഫയര്‍ഫോക്സ് നിർമ്മിച്ചവർ — ഇന്റര്‍നെറ്റിനെ തുറന്ന, എല്ലാവര്‍ക്കും ലഭ്യമായ ഒരു ആഗോള പൊതു വിഭവം ആയി സൂക്ഷിക്കാന്‍ പോരാടുന്നു.

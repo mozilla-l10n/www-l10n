@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ (Global locales)
+### URL: https://www-dev.allizom.org/?xv=trailhead (Previous homepage version)
 
 home-internet-for-people-not-profit = 不为营利、造福人民的互联网
 home-did-you-know-mozilla-the-maker = 您知道吗？打造了 { -brand-name-firefox } 的 { -brand-name-mozilla } 正奋力捍卫互联网的全球公共资源地位，让互联网保持开放且人人可用。

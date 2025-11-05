@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ (Global locales)
+### URL: https://www-dev.allizom.org/?xv=trailhead (Previous homepage version)
 
 home-internet-for-people-not-profit = Rhyngrwyd ar gyfer pobl, nid elw
 home-did-you-know-mozilla-the-maker = A wyddoch chi? Mae { -brand-name-mozilla } — gwneuthurwr { -brand-name-firefox } — yn brwydro i gadw'r Rhyngrwyd yn adnodd cyhoeddus byd eang ar gael ac yn agored i bawb.

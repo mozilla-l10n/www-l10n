@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
+### URL: https://www-dev.allizom.org/?xv=quantum (old, old homepage)
 
 home-did-you-know-mozilla-the-maker = War ga bay? { -brand-name-mozilla } — { -brand-name-firefox } teekaa — ga tangam ka interneti gaabu adduɲɲaa-me a ma tee baytal nafaw doo feerante borey kul se.
 home-careers = Goy ceebandu

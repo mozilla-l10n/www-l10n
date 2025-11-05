@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ (Global locales)
+### URL: https://www-dev.allizom.org/?xv=trailhead (Previous homepage version)
 
 home-cta-get-vpn = { -brand-name-mozilla-vpn } ගන්න
 home-learn-about-mofo = { -brand-name-mozilla-foundation } ගැන තව දැනගන්න.

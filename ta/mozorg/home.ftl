@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
+### URL: https://www-dev.allizom.org/?xv=quantum (old, old homepage)
 
 home-internet-for-people-not-profit = இணையம் மக்களுக்காக தான் இலாபத்திற்காக அல்ல
 home-did-you-know-mozilla-the-maker = உங்களுக்கு தெரியுமா? மொசில்லா — { -brand-name-firefox } உலாவியை உருவாக்கி — இணையம் உலகளாவிய பொது வளமாகவும், அனைவரும் சுதந்திரமாகவும் பொதுவாகவும் அணுகும் வகையில் கிடைத்திடவும் தொடர்ந்து போராடி வருகிறது.

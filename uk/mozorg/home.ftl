@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
+### URL: https://www-dev.allizom.org/?xv=quantum (old, old homepage)
 
 home-internet-for-people-not-profit = Інтернет для людей, не для прибутку
 home-did-you-know-mozilla-the-maker = Чи знаєте ви? { -brand-name-mozilla } — розробник { -brand-name-firefox } — відстоює право Інтернету залишатися глобальним публічним ресурсом, відкритим і доступним для всіх.

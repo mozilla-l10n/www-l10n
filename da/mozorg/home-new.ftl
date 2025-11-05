@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ (Global locales)
+### URL: https://www-dev.allizom.org/?xv=trailhead (Previous homepage version)
 
 home-internet-for-people-not-profit = Internet for folk, ikke profit
 home-did-you-know-mozilla-the-maker = Vidste du, at { -brand-name-mozilla } — dem der laver { -brand-name-firefox } — kæmper for at bevare internettet som en global, offentlig ressource, der er åben og tilgængelig for alle?

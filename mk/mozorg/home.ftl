@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
+### URL: https://www-dev.allizom.org/?xv=quantum (old, old homepage)
 
 home-careers = Кариера
 home-learn-about-the-benefits-of = Дознајте за придобивките од работењето во { -brand-name-mozilla } и видете ги отворените позиции ширум светот.

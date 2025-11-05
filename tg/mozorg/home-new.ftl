@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ (Global locales)
+### URL: https://www-dev.allizom.org/?xv=trailhead (Previous homepage version)
 
 home-internet-for-people-not-profit = Интернет барои мардум, на барои даромад
 home-did-you-know-mozilla-the-maker = Шумо медонед, ки «{ -brand-name-mozilla }» — созандаи «{ -brand-name-firefox }» мебошад — ва мубориза мекунад, то ки Интернет барои ҳар як кас ҳамчун манбаи ҷамъиятии умумиҷаҳонӣ, кушод ва дастрас нигоҳ дошта шавад.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/ ('en-US', 'en-CA', 'en-GB', 'de' and 'fr' excluded)
+### URL: https://www-dev.allizom.org/?xv=quantum (old, old homepage)
 
 home-internet-for-people-not-profit = K'amaya'l kichin winaqi', man richin ta ch'akoj
 home-did-you-know-mozilla-the-maker = ¿La awetaman? { -brand-name-mozilla } — Ruq'inonela' { -brand-name-firefox } — tatija' aq'ij chi jantape' ri k'amaya'l tok jun ajwinäq tob'äl, okel chuqa' chi tapon pa kiq'a' konojel.
