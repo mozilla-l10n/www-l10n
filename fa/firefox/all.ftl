@@ -7,6 +7,14 @@
 
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = دریافت راهنمایی
+firefox-all-browser-v2 = ۱. مرورگر:
+firefox-all-platform-v2 = ۲. سکو:
+firefox-all-language-v2 = ۳. زبان:
+firefox-all-download = ۴. دریافت:
+firefox-all-desktop = رومیزی
+firefox-all-mobile = تلفن همراه
+firefox-all-recommended = (پیشنهاد شده)
+firefox-all-lang-multi = چند زبانه
 firefox-all-sorry-we-couldnt-find = متاسفیم، ما نتوانستیم نسخه مورد نظر شما را پیدا کنیم. لطفاً دوباره تلاش کنید، یا از فهرست زیر انتخاب کنید.
 firefox-all-the-pre-alpha-version = نسخه pre-alpha برای کاربران حرفه‌ای که دوست دارند باگ‌ها را شکار کنند و ویژگی‌های جدید را همزمان با توسعه و کدنویسی آزمایش کنند.
 firefox-all-64-bit-installers = نصاب‌های ۶۴ بیتی
