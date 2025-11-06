@@ -29,6 +29,8 @@ newsletter-form-available-languages = Linguas disponibile
 newsletter-form-select-country = Elige le pais
 newsletter-form-sign-me-up = Inscribe me
 newsletter-form-sign-up-now = Inscribe te ora
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Invio in curso
 newsletter-form-thanks = Gratias!
 newsletter-form-leave-this-field-empty = Lassa iste campo vacue
 newsletter-form-yes = Si
