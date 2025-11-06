@@ -25,6 +25,7 @@ privacy-faq-v2-following-questions = Le sequente questiones e responsas debe adj
 privacy-faq-v2-i-use-firefox = Io usa { -brand-name-firefox } pro quasi toto sur le Web. Vos de { -brand-name-mozilla } debe saper un massa de cosas sur me, nonne?
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } sape minus informationes que tu te attenderea re como le personas naviga per le web. { -brand-name-firefox }, le navigator del web que functiona sur tu apparato o computator, es tu passarella a internet. Tu navigator gerera tante informationes re le sitos web que tu visita, ma ille informationes generalmente remanera sur tu apparato.
 privacy-faq-v2-it-seems-like = Il pare que cata compania sur le web compra e vende mi datos. Vos probabilemente non es differente.
+privacy-faq-v2-we-never-sell-your = Nos jammais vende tu datos personal. Differentemente de altere companias big tech que collige e profita de tu informationes personal, nos es producite con le confidentialitate como base predefinite. Nos non sape tu etate, genere, position precise, o altere informationes que Big Tech collige e de que profita.
 # Obsolete string (expires: 2025-12-08)
 # Variables:
 #   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained

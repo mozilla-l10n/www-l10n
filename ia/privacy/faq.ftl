@@ -23,6 +23,7 @@ privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, le naviga
 privacy-faq-really-you-dont-collect-my-browsing = Realmente, vos non collige mi chronologia de navigation?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } sape minus que tu pensa re le habitudes de navigation del usatores. Como productor de navigator, isto es vermente un problema pro nos. Ecce proque nos ha construite utensiles optional, que permitte al usatores interessate de dar nos informationes sur lor navigation del web. Si tu synchronisa tu chronologia de navigation inter tu installationes de { -brand-name-firefox }, nos non cognosce iste chronologia, perque illo es cryptate per tu apparato.
 privacy-faq-it-seems-like-every-company = Il pare que cata compania sur le web compra e vende mi datos. Vos probabilemente non es differente.
+privacy-faq-we-never-sell-your = Nos jammais vende tu datos personal. Differentemente de altere companias big tech que collige e profita de tu informationes personal, nos es producite con le confidentialitate como base predefinite.
 # Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } non vende datos sur te, e nos non compra datos sur te.
 privacy-faq-wait-so-how-do-you-make-money = Ma alora, como gania vos moneta?
