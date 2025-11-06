@@ -29,6 +29,8 @@ newsletter-form-available-languages = Limbi disponibile
 newsletter-form-select-country = Selectează țara
 newsletter-form-sign-me-up = Abonează-mă
 newsletter-form-sign-up-now = Înscrie-te acum
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Se trimite
 newsletter-form-thanks = Îți mulțumim!
 newsletter-form-leave-this-field-empty = Lasă acest câmp gol.
 newsletter-form-yes = Da

@@ -40,3 +40,7 @@ vpn-download-also-available = Disponibil și pentru:
 vpn-download-from-the-maker = De la creatorul { -brand-name-firefox }, { -brand-name-mozilla-vpn } folosește protocolul avansat <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® ca să îți cripteze activitatea online și să îți ascundă locația.
 vpn-download-we-never-log = Nu îți înregistrăm, urmărim sau partajăm niciodată datele din rețea.
 vpn-download-previous-versions = Descarcă versiuni anterioare pentru { -brand-name-windows } și { -brand-name-mac-short }
+vpn-download-install-via-flathub = Instalare prin Flathub
+vpn-download-install-via-apt = Instalare prin APT
+vpn-download-flathub = Flathub
+vpn-download-apt = APT

@@ -23,6 +23,7 @@ privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, browserul
 privacy-faq-really-you-dont-collect-my-browsing = Sigur nu-mi colectați istoricul de navigare?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } nu știe chiar atât de multe pe cât te-ai aștepta despre cum navighează oamenii pe web. Ca producător de browser, este de fapt o mare provocare pentru noi. De aceea am construit unelte de optare, care permit utilizatorilor interesați să ne ofere informații despre modul în care navighează pe web. Dacă sincronizezi istoricul de navigare între instalările { -brand-name-firefox }, noi nu știm ce conține istoricul acela — pentru că este criptat de dispozitivul tău.
 privacy-faq-it-seems-like-every-company = Se pare că toate companiile de pe web cumpără și vând datele mele. Probabil că și voi faceți la fel.
+privacy-faq-we-never-sell-your = Nu îți vindem niciodată datele personale. Spre deosebire de alte companii mari de tehnologie care colectează și profită de pe urma informațiilor personale, noi suntem preocupați din principiu și implicit de confidențialitatea. Nu cunoaștem vârsta, sexul, locația exactă sau alte informații pe care marile companii de tehnologie le colectează și de pe urma cărora profită.
 # Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } nu vinde date despre tine și nici nu cumpără.
 privacy-faq-wait-so-how-do-you-make-money = Atunci cum faceți bani?
