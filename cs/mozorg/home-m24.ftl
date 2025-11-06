@@ -43,7 +43,7 @@ m24-home-donate-to-the = Přispějete na neziskovou organizaci { -brand-name-moz
 m24-home-donate-to-v2 = Přispějte { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } vytváří hnutí za znovuzískání internetu. Společně můžeme vybudovat budoucnost, ve které bude naše soukromí chráněno, umělá inteligence bude důvěryhodná a nezodpovědné technologické společnosti budou pohnány k odpovědnosti. Ale to je možné jen tehdy, když to uděláme společně.
-m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } buduje budoucnost, kde technologie řídí lidé a jsou otevřené už od návrhu. To je důvod, proč podporujeme komunitně zaměřené technologie skrze propagaci, vzdělávání, financování a inovace – abychom zajistili, že budoucnost technologií je dobrá pro všechny. Ale to je možné pouze tehdy, když to děláme společně.
+m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } buduje budoucnost, ve které je technologie poháněna lidmi a otevřená díky designu. Proto podporujeme technologie zaměřené na komunitu prostřednictvím propagace, vzdělávání, financování a inovací — abychom zajistili, že budoucnost technologií bude dobrá pro všechny. To je však možné jen tehdy, když to uděláme společně.
 m24-home-were-proudly-nonprofit = Jsme hrdí na to, že jsme neziskoví. Přispějete dnes { -brand-name-mozilla(case: "dat") }?
 m24-home-donate = Přispějte
 
