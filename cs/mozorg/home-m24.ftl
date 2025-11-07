@@ -34,7 +34,7 @@ m24-home-keep-your-location = Uchovávejte svou polohu a online zážitky v tajn
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Nechte se informovat, když budou vaše osobní údaje v ohrožení, a zajistěte je jako profesionál.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
-m24-home-mask-your-email = Zamaskujte svůj e-mail a telefonní číslo, abyste dostávali jen ty zprávy, které chcete.
+m24-home-mask-your-email = Zamaskujte svůj e-mail a telefonní číslo, abyste dostávali jen ty zprávy, o které stojíte.
 
 ## Donate
 
