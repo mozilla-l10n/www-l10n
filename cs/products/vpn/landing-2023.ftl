@@ -11,7 +11,7 @@ vpn-landing-title = { -brand-name-mozilla-vpn }: Ochraňte celé vaše zařízen
 # Variables:
 #   $countries (number) - number of available countries
 vpn-landing-desc = Použijte { -brand-name-mozilla-vpn } pro ochranu celého zařízení a všech aplikací. Díky serverům ve více než { $countries } zemích se můžete připojit kdekoliv a odkudkoliv.
-vpn-landing-powerful-privacy-for-peace = Velké soukromí pro klid na duši
+vpn-landing-powerful-privacy-for-peace = Silné zajištění soukromí pro klid v duši
 vpn-landing-whats-a-vpn = Co je to VPN?
 vpn-landing-a-virtual-private-network-protects = Virtuální privátní síť chrání vaše připojení k internetu a zajišťuje větší soukromí vaší polohy a toho, co děláte online, na všech vašich zařízeních.
 vpn-landing-see-all-the-ways-mozilla-vpn = Podívejte se na všechny způsoby, jak vás { -brand-name-mozilla-vpn } chrání.
