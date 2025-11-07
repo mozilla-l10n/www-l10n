@@ -35,6 +35,8 @@ newsletter-form-available-languages = اللغات المُتاحة
 newsletter-form-select-country = اختر البلد
 newsletter-form-sign-me-up = سجّلني الآن
 newsletter-form-sign-up-now = سجّل الآن
+
+
 newsletter-form-thanks = شكراً!
 newsletter-form-leave-this-field-empty = اترك هذا الحقل فارغًا.
 newsletter-form-yes = نعم
