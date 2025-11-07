@@ -50,3 +50,4 @@ vpn-download-from-the-maker = Développé par les créateurs de { -brand-name-fi
 vpn-download-we-never-log = Jamais nous n’enregistrons, ne suivons ni ne partageons les données échangées via votre réseau.
 
 vpn-download-previous-versions = Télécharger les versions précédentes pour { -brand-name-windows } et { -brand-name-mac-short }
+

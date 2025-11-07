@@ -82,7 +82,7 @@ newsletters-newsletter-subscriptions-for = تُدار اشتراكات نشرة 
 newsletters-to-unsubscribe = لإلغاء الاشتراك من نشرة أخبار { -brand-name-mozilla-foundation }، يُرجى الضغط هنا: <a href="{ $unsubscribe }">{ $unsubscribe }</a>.
 
 # Variables:
-#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter/subscribe
+#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter
 newsletters-if-you-arent-already-subscribed = إذا لم تكن مشتركًا بالفعل وترغب في معرفة كل ما هو جديد، يُرجى الضغط هنا: <a href="{ $subscribe }">{ $subscribe }</a>.
 
 # Variables:

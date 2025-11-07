@@ -27,6 +27,7 @@ privacy-faq-really-you-dont-collect-my-browsing = Vous ne récupérez vraiment p
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } n’en sait pas autant que vous le pensez sur les habitudes de navigation des internautes. À vrai dire, en tant qu’éditeur de navigateur, c’est un défi majeur pour nous. C’est pourquoi nous avons conçu des outils basés sur le choix volontaire, qui permettent aux utilisateurs et utilisatrices qui le souhaitent de nous donner un aperçu de leurs habitudes de navigation. Lorsque vous synchronisez votre historique de navigation entre différentes installations de { -brand-name-firefox }, nous n’y avons pas accès, car il est chiffré sur votre appareil.
 
 privacy-faq-it-seems-like-every-company = Aujourd’hui, il semblerait que n’importe quelle entreprise du Web achète et revend mes données. Vous ne faites probablement pas exception à la règle.
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } n’achète ni ne vend de données qui vous concernent.
 privacy-faq-wait-so-how-do-you-make-money = Mais alors comment faites-vous pour être rentable ?
 

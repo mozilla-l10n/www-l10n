@@ -82,7 +82,7 @@ newsletters-newsletter-subscriptions-for = Newsletter-Abonnements für <a href="
 newsletters-to-unsubscribe = Um dich von einem { -brand-name-mozilla-foundation }-Newsletter abzumelden, klicke hier: <a href="{ $unsubscribe }">{ $unsubscribe }</a>.
 
 # Variables:
-#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter/subscribe
+#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter
 newsletters-if-you-arent-already-subscribed = Falls du dich noch nicht angemeldet hast und auf dem Laufenden bleiben möchtest, klicke hier: <a href="{ $subscribe }">{ $subscribe }</a>.
 
 # Variables:

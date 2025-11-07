@@ -27,6 +27,7 @@ privacy-faq-really-you-dont-collect-my-browsing = Ihr sammelt meine Surf-Chronik
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } weiß nicht so viel darüber, wie Menschen durch das Internet browsen, wie du vielleicht denkst. Als Entwickler eines Browsers ist das tatsächlich eine große Herausforderung für uns. Deshalb haben wir Tools zur Aktivierung von bestimmten Funktionen entwickelt, die es interessierten Nutzer*innen ermöglichen, uns Einblicke in ihr Browsingverhalten zu geben. Wenn du deinen Browserverlauf über { -brand-name-firefox }-Installationen hinweg synchronisierst, kennen wir diesen Verlauf nicht – er wird von deinem Gerät verschlüsselt.
 
 privacy-faq-it-seems-like-every-company = Anscheinend kaufen und verkaufen alle Unternehmen im Internet meine Daten. Bei Ihnen ist das wahrscheinlich nicht anders.
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } verkauft und kauft keine Daten über dich.
 privacy-faq-wait-so-how-do-you-make-money = Moment, womit verdient ihr dann Geld?
 

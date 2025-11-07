@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/ (Global locales)
+### URL: https://www-dev.allizom.org/?xv=trailhead (Previous homepage version)
 
 home-internet-for-people-not-profit = نُحافظ على الإنترنت مفتوحًا لأنه حقّ للجميع
 home-did-you-know-mozilla-the-maker = هل تعلم؟ { -brand-name-mozilla } — المؤسسة المطوّرة لـ { -brand-name-firefox } — تُناضل لتُحافظ على الإنترنت بحيث يبقى موردًا عامًا عالميًا مفتوحًا ومُتاحًا للجميع.

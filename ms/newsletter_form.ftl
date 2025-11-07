@@ -35,6 +35,8 @@ newsletter-form-available-languages = Bahasa yang Ada
 newsletter-form-select-country = Pilih negara
 newsletter-form-sign-me-up = Daftarkan saya
 newsletter-form-sign-up-now = Daftar sekarang
+
+
 newsletter-form-thanks = Terima kasih!
 newsletter-form-leave-this-field-empty = Biarkan medan ini kosong.
 newsletter-form-yes = Ya

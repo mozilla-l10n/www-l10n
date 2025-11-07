@@ -50,3 +50,4 @@ vpn-download-from-the-maker = Dari pembuat { -brand-name-firefox }, { -brand-nam
 vpn-download-we-never-log = Kami tidak pernah mencatat, melacak, atau membagikan data jaringan Anda.
 
 vpn-download-previous-versions = Unduh versi sebelumnya untuk { -brand-name-windows } dan { -brand-name-mac-short }
+

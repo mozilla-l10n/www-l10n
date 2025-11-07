@@ -29,9 +29,6 @@ privacy-faq-v2-i-use-firefox = Saya menggunakan { -brand-name-firefox } untuk ha
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } tidak mengetahui sebanyak yang Anda kira mengenai bagaimana orang menjelajahi web. { -brand-name-firefox }, peramban web yang bekerja di perangkat atau komputer Anda, merupakan gerbang Anda ke internet. Peramban Anda akan mengelola banyak informasi mengenai situs web yang Anda kunjungi, tetapi informasi tersebut tetap berada di perangkat Anda.
 privacy-faq-v2-it-seems-like = Sepertinya setiap perusahaan di web membeli dan menjual data saya. Anda mungkin juga sama.
 
-# Variables:
-#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
-privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } tidak menjual data mengenai Anda (seperti yang dipikirkan kebanyakan orang tentang “menjual data”), dan kami tidak membeli data mengenai Anda. Karena kami mengutamakan transparansi, dan definisi HUKUM tentang “penjualan data” sangat luas di beberapa wilayah, kami tidak dapat memberikan pernyataan definitif seperti yang biasa Anda kenal dan sukai. Kami terus berupaya memastikan bahwa data yang kami bagikan dengan mitra (yang diperlukan agar { -brand-name-firefox } tetap layak secara komersial) dihilangkan dari informasi identitas apa pun, hanya dibagikan secara keseluruhan, atau dikirim melalui teknologi yang menjaga privasi (seperti <a { $attrs }>OHTTP</a>)
 
 privacy-faq-v2-wait-so-how = Tunggu, jadi bagaimana Anda menghasilkan uang?
 

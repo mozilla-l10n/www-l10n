@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/ (Global locales)
+### URL: https://www-dev.allizom.org/?xv=trailhead (Previous homepage version)
 
 home-internet-for-people-not-profit = 利益ではなく、ユーザーのためのインターネット
 home-did-you-know-mozilla-the-maker = ご存知ですか?{ -brand-name-firefox } の開発元である { -brand-name-mozilla } は、インターネットをあらゆる人にとってオープンでアクセスしやすいグローバルなパブリックリソースにするために闘っています。

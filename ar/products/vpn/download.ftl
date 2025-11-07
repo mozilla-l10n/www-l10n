@@ -50,3 +50,4 @@ vpn-download-from-the-maker = من صانع { -brand-name-firefox }، تستخد
 vpn-download-we-never-log = كما أننا لا نُسجِّل بياناتك المحفوظة على الشبكة ولا نتعقبها ولا نُشاركها<br />.
 
 vpn-download-previous-versions = حمّل الإصدارات السابقة لـ { -brand-name-windows } و { -brand-name-mac-short }
+

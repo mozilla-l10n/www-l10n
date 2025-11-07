@@ -27,6 +27,7 @@ privacy-faq-really-you-dont-collect-my-browsing = Sungguh, Anda tidak mengambil 
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } tidak mengetahui sebanyak yang Anda kira mengenai bagaimana orang menjelajahi web. Sebagai pembuat peramban, itu sebenarnya tantangan besar bagi kami. Itulah alasannya kami membuat alat pilihan, yang memungkinkan pengguna yang tertarik untuk memberikan kami wawasan mengenai penjelajahan web mereka. Jika Anda menyinkronkan riwayat penjelajahan Anda di seluruh pemasangan { -brand-name-firefox }, kami tidak mengetahui apa riwayat itu — karena itu dienkripsikan oleh perangkat Anda.
 
 privacy-faq-it-seems-like-every-company = Sepertinya setiap perusahaan di web membeli dan menjual data saya. Anda mungkin juga sama.
+# Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } tidak menjual data mengenai Anda dan kami tidak membeli data mengenai Anda.
 privacy-faq-wait-so-how-do-you-make-money = Tunggu, jadi bagaimana Anda menghasilkan uang?
 
