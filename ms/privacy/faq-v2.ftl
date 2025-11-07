@@ -29,9 +29,6 @@ privacy-faq-v2-i-use-firefox = Saya menggunakan { -brand-name-firefox } untuk ha
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } tidak tahu sebanyak yang anda sangkakan tentang bagaimana pengguna melayari internet. { -brand-name-firefox }, pelayar web yang berfungsi pada peranti atau komputer anda adalah gerbang anda ke internet. Pelayar anda akan menguruskan banyak maklumat tentang laman web yang anda kunjungi, tapi maklumat itu kekal di dalam peranti anda.
 privacy-faq-v2-it-seems-like = Nampaknya seperti setiap syarikat di internet membeli dan menjual data saya. Tentu Firefox juga tiada bezanya.
 
-# Variables:
-#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
-privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } tidak menjual data anda (sebagaimana spekulasi banyak pihak tentang &quot;menjual data&quot;, dan kami juga tidak membeli data tentang anda. Kerana ketelusan adalah antara matlamat kami, selain definisi &quot;penjualan data&quot; amatlah luas di sesetengah tempat, kami perlu mengambil satu langkah ke belakang daripada membuat sebarang kenyataan sembarangan. Kami memastikan data yang dikongsi dengan rakan perniagaan kami (yang perlu dilaksanakan agar { -brand-name-firefox } berdaya maju secara komersial) tidak mengandungi sebarang maklumat pengenalan, atau dikongsi secara berkumpulan, atau diuruskan oleh teknologi pemelihara privasi (seperti <a { $attrs }>OHTTP</a>).
 
 privacy-faq-v2-wait-so-how = Jadi, bagaimana Firefox menjana wang?
 
