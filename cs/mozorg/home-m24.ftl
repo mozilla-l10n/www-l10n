@@ -32,7 +32,7 @@ m24-home-go-chaosfree-with = Zjednodušte si život pomocí jedné aplikace pro 
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-keep-your-location = Uchovávejte svou polohu a online zážitky v tajnosti – streamujte kdekoliv jako místní.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
-m24-home-get-a-headsup = Nechte se informovat, pokud jsou vaše osobní údaje v ohrožení, a uzamkněte je jako profesionál.
+m24-home-get-a-headsup = Nechte se informovat, když budou vaše osobní údaje v ohrožení, a zajistěte je jako profesionál.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Zamaskujte svůj e-mail a telefonní číslo, abyste dostávali jen ty zprávy, které chcete.
 
