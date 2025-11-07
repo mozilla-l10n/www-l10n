@@ -50,3 +50,4 @@ vpn-download-from-the-maker = { -brand-name-firefox } の運営元が開発し�
 vpn-download-we-never-log = Mozilla がユーザーのネットワークデータを記録、追跡、共有することはありません。
 
 vpn-download-previous-versions = { -brand-name-windows } 用および { -brand-name-mac-short } 用の以前のバージョンをダウンロードする
+

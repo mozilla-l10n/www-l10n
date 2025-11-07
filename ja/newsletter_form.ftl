@@ -35,6 +35,8 @@ newsletter-form-available-languages = 使用可能な言語
 newsletter-form-select-country = 国または地域を選択してください
 newsletter-form-sign-me-up = 新規登録
 newsletter-form-sign-up-now = 今すぐサインアップ
+
+
 newsletter-form-thanks = ありがとうございました。
 newsletter-form-leave-this-field-empty = このフィールドは空欄のままにしてください。
 newsletter-form-yes = あり

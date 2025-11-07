@@ -82,7 +82,7 @@ newsletters-newsletter-subscriptions-for = <a href="{ $foundation }">{ -brand-na
 newsletters-to-unsubscribe = { -brand-name-mozilla-foundation } ニュースレターの配信を停止するには、こちらをクリックしてください: <a href="{ $unsubscribe }">{ $unsubscribe }</a>
 
 # Variables:
-#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter/subscribe
+#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter
 newsletters-if-you-arent-already-subscribed = 登録して最新情報をお受け取りになるには、こちらをクリックしてください: <a href="{ $subscribe }">{ $subscribe }</a>
 
 # Variables:
