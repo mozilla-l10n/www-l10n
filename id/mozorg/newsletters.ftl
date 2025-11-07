@@ -82,7 +82,7 @@ newsletters-newsletter-subscriptions-for = Langganan buletin untuk <a href="{ $f
 newsletters-to-unsubscribe = Untuk berhenti berlangganan dari buletin { -brand-name-mozilla-foundation }, klik di sini: <a href="{ $unsubscribe }">{ $unsubscribe }</a>.
 
 # Variables:
-#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter/subscribe
+#   $subscribe (url) - link to https://www.mozillafoundation.org/newsletter
 newsletters-if-you-arent-already-subscribed = Jika Anda belum berlangganan dan ingin tetap mendapatkan pembaruan, klik di sini: <a href="{ $subscribe }">{ $subscribe }</a>.
 
 # Variables:
