@@ -12,8 +12,8 @@ m24-about-page-desc = { -brand-name-mozilla } vytváří prohlížeče, aplikace
 
 ## Intro
 
-m24-about-reclaim-the-internet = Získejte zpět internet s námi
-m24-about-mozilla-is-working = { -brand-name-mozilla } se snaží dát kontrolu nad internetem zpět do rukou lidí, kteří ho používají.
+m24-about-reclaim-the-internet = Vezměte si s námi internet zpět
+m24-about-mozilla-is-working = { -brand-name-mozilla } se snaží vrátit kontrolu nad internetem zpět do rukou lidí, kteří ho používají.
 
 ## Manifesto
 
