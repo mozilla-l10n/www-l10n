@@ -50,3 +50,4 @@ vpn-download-from-the-maker = { -brand-name-mozilla-vpn } nutzt das fortschrittl
 vpn-download-we-never-log = Wir loggen, verfolgen oder teilen Ihre Netzwerkdaten nie.
 
 vpn-download-previous-versions = Lade frühere Versionen für { -brand-name-windows } und { -brand-name-mac-short } herunter
+

@@ -35,6 +35,8 @@ newsletter-form-available-languages = Verfügbare Sprachen
 newsletter-form-select-country = Land auswählen
 newsletter-form-sign-me-up = Abonnieren
 newsletter-form-sign-up-now = Jetzt abonnieren
+
+
 newsletter-form-thanks = Vielen Dank!
 newsletter-form-leave-this-field-empty = Lass dieses Feld leer.
 newsletter-form-yes = Ja
