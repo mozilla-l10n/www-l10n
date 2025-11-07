@@ -35,6 +35,8 @@ newsletter-form-available-languages = उपलब्ध भाषाएँ
 newsletter-form-select-country = देश चुनें
 newsletter-form-sign-me-up = मुझे साइन अप करें
 newsletter-form-sign-up-now = अभी साइन अप करें
+
+
 newsletter-form-thanks = धन्यवाद!
 newsletter-form-leave-this-field-empty = इस जगह को खाली छोड़ दें।
 newsletter-form-yes = हाँ
