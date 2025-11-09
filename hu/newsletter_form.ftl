@@ -30,7 +30,7 @@ newsletter-form-select-country = Válasszon országot
 newsletter-form-sign-me-up = Feliratkozás
 newsletter-form-sign-up-now = Feliratkozás most
 # Alt text for SVG animation indicating the form has submitted and is waiting for response
-newsletter-form-submit-sending = Küldés
+newsletter-form-submit-sending = Küldés…
 newsletter-form-thanks = Köszönjük!
 newsletter-form-leave-this-field-empty = Hagyja üresen ezt a mezőt.
 newsletter-form-yes = Igen
