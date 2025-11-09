@@ -29,6 +29,8 @@ newsletter-form-available-languages = Ngôn ngữ sẵn có
 newsletter-form-select-country = Chọn quốc gia
 newsletter-form-sign-me-up = Đăng ký
 newsletter-form-sign-up-now = Đăng ký ngay
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Đang gửi
 newsletter-form-thanks = Cảm ơn!
 newsletter-form-leave-this-field-empty = Để trống trường này.
 newsletter-form-yes = Đồng ý

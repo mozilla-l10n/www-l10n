@@ -25,6 +25,7 @@ privacy-faq-v2-following-questions = Các câu hỏi và câu trả lời sau đ
 privacy-faq-v2-i-use-firefox = Tôi sử dụng { -brand-name-firefox } cho hầu hết mọi thứ trên Web. Các bạn ở { -brand-name-mozilla } phải biết rất nhiều thứ về tôi, phải không?
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } không biết nhiều như bạn mong đợi về cách mọi người duyệt web. { -brand-name-firefox }, trình duyệt web chạy trên thiết bị hoặc máy tính của bạn, là cổng của bạn vào Internet. Trình duyệt của bạn sẽ quản lý rất nhiều thông tin về các trang web bạn truy cập, nhưng thông tin đó thường vẫn nằm trên thiết bị của bạn.
 privacy-faq-v2-it-seems-like = Tất cả các công ty trên web dường như mua và bán thông tin của tôi. Có lẽ bạn sẽ không khác biệt.
+privacy-faq-v2-we-never-sell-your = Chúng tôi không bao giờ bán dữ liệu cá nhân của bạn. Không giống như các công ty công nghệ lớn khác thu thập và kiếm lợi nhuận từ thông tin cá nhân của bạn, chúng tôi được xây dựng với tiêu chí bảo mật thông tin là mặc định. Chúng tôi không biết tuổi, giới tính, vị trí chính xác của bạn hoặc bất kỳ thông tin nào khác mà các công ty công nghệ lớn thu thập và kiếm lợi nhuận.
 # Obsolete string (expires: 2025-12-08)
 # Variables:
 #   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
