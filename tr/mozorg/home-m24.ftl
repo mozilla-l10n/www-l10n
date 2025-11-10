@@ -68,6 +68,11 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders; özel iş ortaklıkları, programlama ve topluluklar aracılığıyla bağımsız geliştiricilerin dönüşüm yaratan açık kaynaklı yapay zekâ projeleri oluşturmasına yardımcı olur.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders }; özel iş ortaklıkları, programlama ve topluluklar aracılığıyla bağımsız geliştiricilerin dönüşüm yaratan açık kaynaklı yapay zekâ projeleri oluşturmasına yardımcı olur.
 # Used as an accessible text alternative for an image
+m24-home-alt-mozfest = Yoğun bir kapalı etkinlik alanında toplanmış bir grup insan. Tepeden bakış.
+m24-home-mozfest-join-us = { -brand-name-mozilla-festival }’de bize katılın
+m24-home-mozfest-the-future = Teknolojinin geleceğini belirlemek bizim elimizde. Varsayılanları unutmak, cesurca hayal kurmak ve geleceği inşa etmek için 7-9 Kasım’da Barselona’da bize katılın.
+m24-home-mozfest-get-your = Biletinizi alın
+# Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } logosu.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = İhtiyaçlarınız, kullanım senaryolarınız ve verileriniz için doğru LLM’i bulun.

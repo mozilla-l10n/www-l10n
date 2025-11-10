@@ -29,6 +29,8 @@ newsletter-form-available-languages = Mevcut diller
 newsletter-form-select-country = Ülkenizi seçin
 newsletter-form-sign-me-up = Kaydol
 newsletter-form-sign-up-now = Kaydol
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Gönderiliyor
 newsletter-form-thanks = Teşekkürler!
 newsletter-form-leave-this-field-empty = Bu alanı boş bırakın.
 newsletter-form-yes = Evet

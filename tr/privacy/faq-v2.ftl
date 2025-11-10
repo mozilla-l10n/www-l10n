@@ -25,6 +25,7 @@ privacy-faq-v2-following-questions = Aşağıdaki sorular ve yanıtları, { -bra
 privacy-faq-v2-i-use-firefox = Web’deki hemen hemen her şey için { -brand-name-firefox }’u kullanıyorum. { -brand-name-mozilla } benim hakkımda bir sürü şey biliyordur, değil mi?
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla }, kullanıcıların web’de nasıl gezindiği hakkında sandığınız kadar fazla şey bilmiyor. Cihazınızda veya bilgisayarınızda çalışan { -brand-name-firefox } web tarayıcısı internete açılan kapınızdır. Tarayıcınız, ziyaret ettiğiniz web siteleriyle ilgili birçok bilgiyi yönetiyor ama bu bilgiler genellikle cihazınızdan dışarı çıkmıyor.
 privacy-faq-v2-it-seems-like = Bütün internet şirketleri verilerimi alıp satıyor gibi görünüyor. Sizin de farkınız yoktur herhalde.
+privacy-faq-v2-we-never-sell-your = Kişisel verilerinizi asla satmıyoruz. Kişisel bilgilerinizi toplayan ve bunlardan kâr sağlayan diğer büyük teknoloji şirketlerinin aksine, bizde gizliliğiniz esastır. Yaşınızı, cinsiyetinizi, tam konumunuzu ve büyük teknoloji şirketlerinin toplayıp kullandığı diğer bilgilerinizi biz bilmiyoruz.
 # Obsolete string (expires: 2025-12-08)
 # Variables:
 #   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained

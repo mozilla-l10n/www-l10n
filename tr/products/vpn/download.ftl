@@ -40,3 +40,7 @@ vpn-download-also-available = Bunun için de var:
 vpn-download-from-the-maker = { -brand-name-firefox } uygulamasının yapımcısı olan { -brand-name-mozilla-vpn }, çevrimiçi etkinliğinizi şifrelemek ve konumunuzu gizlemek için gelişmiş <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® protokolünü kullanır.
 vpn-download-we-never-log = Ağ trafiğinizi asla kaydetmiyor, izlemiyor ve paylaşmıyoruz
 vpn-download-previous-versions = { -brand-name-windows } ve { -brand-name-mac-short } için önceki sürümleri indirin
+vpn-download-install-via-flathub = Flathub ile yükle
+vpn-download-install-via-apt = APT ile yükle
+vpn-download-flathub = Flathub
+vpn-download-apt = APT
