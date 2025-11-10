@@ -36,6 +36,8 @@ newsletter-form-select-country = اختر البلد
 newsletter-form-sign-me-up = سجّلني الآن
 newsletter-form-sign-up-now = سجّل الآن
 
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = جاري الإرسال
 
 newsletter-form-thanks = شكراً!
 newsletter-form-leave-this-field-empty = اترك هذا الحقل فارغًا.
