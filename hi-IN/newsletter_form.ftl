@@ -36,6 +36,8 @@ newsletter-form-select-country = देश चुनें
 newsletter-form-sign-me-up = मुझे साइन अप करें
 newsletter-form-sign-up-now = अभी साइन अप करें
 
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = भेजा जा रहा है
 
 newsletter-form-thanks = धन्यवाद!
 newsletter-form-leave-this-field-empty = इस जगह को खाली छोड़ दें।
