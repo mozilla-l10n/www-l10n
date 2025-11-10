@@ -29,6 +29,11 @@ privacy-faq-v2-i-use-firefox = J’utilise { -brand-name-firefox } pour tout et 
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } n’en sait pas autant que vous le pensez sur les habitudes de navigation des internautes. { -brand-name-firefox }, le navigateur web que vous utilisez sur votre appareil ou ordinateur, vous permet de surfer sur Internet. Votre navigateur gère de nombreuses informations sur les sites que vous visitez, mais ces informations restent en général sur vos appareils.
 privacy-faq-v2-it-seems-like = Aujourd’hui, il semblerait que n’importe quelle entreprise du Web achète et revend mes données. Vous ne faites probablement pas exception à la règle.
 
+privacy-faq-v2-we-never-sell-your = Nous ne vendons jamais vos données personnelles. À l’inverse des géants de la tech, qui collectent vos informations personnelles afin d’en tirer profit, nous protégeons toujours votre vie privée. Nous ne connaissons ni votre âge, ni votre genre, ni votre emplacement précis, ni tout autre élément que les géants de la tech collectent pour en tirer un bénéfice.
+# Obsolete string (expires: 2025-12-08)
+# Variables:
+#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
+privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } ne vend pas de données qui vous concernent (dans le sens commun attribué à « vendre des données ») et n’en achète pas. Comme nous souhaitons être le plus transparents possible, et la définition JURIDIQUE de la « vente de données » étant très vague dans certains pays/régions, nous devons modifier certaines affirmations au sujet de nos pratiques que vous connaissez et appréciez. Nous nous efforçons toujours de faire en sorte que les données que nous partageons avec nos partenaires (une opération indispensable pour la viabilité économique de { -brand-name-firefox }) soient exemptes de toute information permettant de vous identifier, partagées de façon agrégée ou via des technologies de protection de la vie privée (comme le protocole <a { $attrs }>OHTTP</a>).
 
 privacy-faq-v2-wait-so-how = Mais alors comment faites-vous pour être rentable ?
 

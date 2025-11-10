@@ -36,6 +36,8 @@ newsletter-form-select-country = Sélectionnez votre pays
 newsletter-form-sign-me-up = Je m’inscris
 newsletter-form-sign-up-now = Je m’inscris
 
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Envoi…
 
 newsletter-form-thanks = Merci.
 newsletter-form-leave-this-field-empty = Laissez ce champ vide.

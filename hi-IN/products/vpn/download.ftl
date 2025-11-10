@@ -51,3 +51,7 @@ vpn-download-we-never-log = हम आपके नेटवर्क डेट�
 
 vpn-download-previous-versions = { -brand-name-windows } और { -brand-name-mac-short } के लिए पिछले संस्करण डाउनलोड करें
 
+vpn-download-install-via-flathub = Flathub के ज़रिए इंस्टॉल करें
+vpn-download-install-via-apt = APT के ज़रिए इंस्टॉल करें
+vpn-download-flathub = Flathub
+vpn-download-apt = APT

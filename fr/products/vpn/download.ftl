@@ -51,3 +51,7 @@ vpn-download-we-never-log = Jamais nous n’enregistrons, ne suivons ni ne parta
 
 vpn-download-previous-versions = Télécharger les versions précédentes pour { -brand-name-windows } et { -brand-name-mac-short }
 
+vpn-download-install-via-flathub = Installer via Flathub
+vpn-download-install-via-apt = Installer via APT
+vpn-download-flathub = Flathub
+vpn-download-apt = APT

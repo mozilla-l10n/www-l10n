@@ -51,3 +51,7 @@ vpn-download-we-never-log = Kami tidak pernah mencatat, melacak, atau membagikan
 
 vpn-download-previous-versions = Unduh versi sebelumnya untuk { -brand-name-windows } dan { -brand-name-mac-short }
 
+vpn-download-install-via-flathub = Instal lewat Flathub
+vpn-download-install-via-apt = Instal lewat APT
+vpn-download-flathub = Flathub
+vpn-download-apt = APT
