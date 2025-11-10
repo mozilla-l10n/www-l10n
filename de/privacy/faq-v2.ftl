@@ -29,6 +29,11 @@ privacy-faq-v2-i-use-firefox = Ich nutze { -brand-name-firefox } für fast alles
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } weiß nicht so viel darüber, wie Menschen durch das Internet browsen, wie du vielleicht denkst. { -brand-name-firefox }, der Browser, der auf deinem Gerät oder Computer läuft, ist dein Tor ins Internet. Dein Browser verwaltet eine Menge Informationen über die Websites, die du besuchst, aber diese Informationen bleiben auf deinem Gerät.
 privacy-faq-v2-it-seems-like = Anscheinend kaufen und verkaufen alle Unternehmen im Internet meine Daten. Bei Ihnen ist das wahrscheinlich nicht anders.
 
+privacy-faq-v2-we-never-sell-your = Wir verkaufen deine persönlichen Daten nie. Bei uns steht Datenschutz standardmäßig an erster Stelle, anders als bei anderen großen Technologieunternehmen, die deine personenbezogenen Daten sammeln und davon profitieren. Wir wissen nicht, wie alt du bist, und kennen weder dein Geschlecht, deinen genauen Standort noch andere Informationen, die Big Tech sammeln und für sich nutzen.
+# Obsolete string (expires: 2025-12-08)
+# Variables:
+#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
+privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } verkauft keine dich betreffenden Daten (wie sich es die meisten Leute vorstellen, wenn es um „Datenverkauf“ geht), und wir kaufen keine Daten über dich. Da wir transparent sein möchten und die RECHTLICHE Definition von „Datenverkauf“ an einigen Stellen sehr ungenau ist, mussten wir davon Abstand nehmen, die absoluten Aussagen zu treffen, die ihr alle von uns kennt und liebt. Wir arbeiten immer noch intensiv daran, dass die Daten, die wir an unsere Partner weitergeben (und das müssen wir, um { -brand-name-firefox } kommerziell tragfähig zu halten), von identifizierenden Informationen bereinigt oder ausschließlich aggregiert weitergegeben wird oder unsere Datenschutztechnologien durchläuft (wie <a { $attrs }>OHTTP</a>).
 
 privacy-faq-v2-wait-so-how = Moment, womit verdient ihr dann Geld?
 
