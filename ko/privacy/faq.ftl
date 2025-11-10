@@ -23,6 +23,7 @@ privacy-faq-firefox-the-web-browser-that-v2 = 기기 혹은 컴퓨터에서 실�
 privacy-faq-really-you-dont-collect-my-browsing = 정말로, 여러분은 제 탐색 기록을 수집하지 않나요?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla }는 사람들이 웹을 탐색하는 방법에 대해 여러분의 예상만큼 많이 알지 못합니다. 이는 브라우저 제조사인 우리에게 큰 도전입니다. 그래서 관심 있는 사용자가 웹 브라우징에 대한 인사이트를 제공할 수 있는 옵트인 도구를 만들었습니다. 만약 여러분이 여러 기기에 설치된 { -brand-name-firefox }의 방문 기록을 동기화하더라도 기기에서 암호화되기 때문에 우리는 그 기록에 대해 알지 못합니다.
 privacy-faq-it-seems-like-every-company = 웹 상의 모든 회사들은 내 정보를 사고 파는 것 같습니다. 아마 여러분도 다르지 않겠죠.
+privacy-faq-we-never-sell-your = 우리는 사용자의 개인정보를 절대 팔지 않습니다. 개인 정보를 수집하고 이익을 얻는 다른 대형 기술 회사와 달리 우리는 개인 정보 보호를 기본으로합니다. 사용자의 나이나 성별, 정확한 위치, 기타 빅 테크에서 수집하고 이익을 얻는 정보를 알 수 없습니다.
 # Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla }는 여러분에 대한 정보를 팔지 않고, 여러분에 대한 정보를 사지도 않습니다.
 privacy-faq-wait-so-how-do-you-make-money = 잠깐, 그러면 여러분은 어떻게 돈을 버나요?

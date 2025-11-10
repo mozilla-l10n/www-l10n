@@ -29,6 +29,8 @@ newsletter-form-available-languages = 언어별
 newsletter-form-select-country = 국가 선택
 newsletter-form-sign-me-up = 등록하기
 newsletter-form-sign-up-now = 지금 구독하기
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = 보내기
 newsletter-form-thanks = 감사합니다!
 newsletter-form-leave-this-field-empty = 이 필드는 남겨 둡니다.
 newsletter-form-yes = 네
