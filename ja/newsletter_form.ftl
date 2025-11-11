@@ -36,6 +36,8 @@ newsletter-form-select-country = 国または地域を選択してください
 newsletter-form-sign-me-up = 新規登録
 newsletter-form-sign-up-now = 今すぐサインアップ
 
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = 送信しています
 
 newsletter-form-thanks = ありがとうございました。
 newsletter-form-leave-this-field-empty = このフィールドは空欄のままにしてください。

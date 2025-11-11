@@ -27,6 +27,7 @@ privacy-faq-really-you-dont-collect-my-browsing = 本当に？Mozilla は私の�
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } は、ユーザーがウェブをどのようにブラウジングしているかについて、あなたが思うほど知りません。実のところ、ブラウザーメーカーとして、それは大きな課題です。そこで、Mozilla は関心のあるユーザーが Mozilla に自分のウェブブラウジングに関するインサイトを提供できるオプトインツールを作りました。閲覧履歴を複数の { -brand-name-firefox } インストールで同期した場合、その履歴はデバイスで暗号化されているので、Mozilla はその履歴を知ることができません。
 
 privacy-faq-it-seems-like-every-company = ウェブではすべての企業が私のデータを売買しているようだけれど、Mozilla も同じことしてるでしょう。
+privacy-faq-we-never-sell-your = Mozilla は、あなたの個人情報を売却することはありません。利用者の個人情報を収集して利益を得る他の大手テクノロジー企業とは異なり、Mozilla はプライバシー第一を掲げています。あなたの年齢や性別、正確な位置など、大手テクノロジー企業が収集して利益を得る情報を把握しません。
 # Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } はユーザーに関するデータを売買しません。
 privacy-faq-wait-so-how-do-you-make-money = ちょっと待って、そうしたら Mozilla はどうやってお金を稼いでるの？
