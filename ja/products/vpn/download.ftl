@@ -51,3 +51,7 @@ vpn-download-we-never-log = Mozilla がユーザーのネットワークデー�
 
 vpn-download-previous-versions = { -brand-name-windows } 用および { -brand-name-mac-short } 用の以前のバージョンをダウンロードする
 
+vpn-download-install-via-flathub = Flathub からインストール
+vpn-download-install-via-apt = APT からインストール
+vpn-download-flathub = Flathub
+vpn-download-apt = APT

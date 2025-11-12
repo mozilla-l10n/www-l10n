@@ -29,6 +29,11 @@ privacy-faq-v2-i-use-firefox = ウェブでは何をするにも { -brand-name-f
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } は、ユーザーがウェブをどのようにブラウジングしているかについて、あなたが思うほど知りません。ご使用のデバイスやコンピューター上で実行される { -brand-name-firefox } ウェブブラウザーはインターネット接続のための手段です。ご使用のブラウザーでは訪問するウェブサイトに関する大量の情報が管理されますが、その情報がデバイスから出ることは基本的にありません。
 privacy-faq-v2-it-seems-like = ウェブではすべての企業が私のデータを売買しているようだけれど、Mozilla も同じことしてるでしょう。
 
+privacy-faq-v2-we-never-sell-your = Mozilla は、あなたの個人情報を売却することはありません。利用者の個人情報を収集して利益を得る他の大手テクノロジー企業とは異なり、Mozilla はプライバシー第一を掲げています。あなたの年齢や性別、正確な位置など、大手テクノロジー企業が収集して利益を得る情報を把握しません。
+# Obsolete string (expires: 2025-12-08)
+# Variables:
+#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
+privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } は、ユーザーに関するデータを売却することはなく (一般的に連想される「データの売却」という意味で)、ユーザーに関するデータを購入することもありません。透明性の確保に努めており、「データの売却」の法的な定義は非常に広範な部分もあるため、断定的な声明は控えています。Mozilla がパートナーと共有するデータ ({ -brand-name-firefox } を商業的に成立させるために必要なもの) は、個人を特定する情報を除外するか、集計された形でのみ共有するか、プライバシー保護技術 (<a { $attrs }>OHTTP</a> など) を通すよう努めています。
 
 privacy-faq-v2-wait-so-how = ちょっと待って、そうしたら Mozilla はどうやってお金を稼いでるの？
 
