@@ -27,6 +27,7 @@ privacy-faq-really-you-dont-collect-my-browsing = Betul ke, awak tidak mengumpul
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } tidak tahu sebanyak yang anda sangkakan tentang bagaimana pengguna melayari internet. Sebagai pembangun pelayar, ia adalah sesuatu yang mencabar bagi kami. Sebab itulah kami bangunkan ciri pilih-masuk, yang hanya membenarkan pengguna yang berminat sahaja untuk memberikan pandangan mereka tentang penggunaan Internet mereka. Sekalipun anda selaraskan sejarah pelayaran anda di kesemua peranti anda yang dipasang dengan { -brand-name-firefox }, kami tidak tahu sejarahnya — kerana ia dienkripsi oleh peranti anda.
 
 privacy-faq-it-seems-like-every-company = Nampaknya seperti setiap syarikat di internet membeli dan menjual data saya. Tentu Firefox juga tiada bezanya.
+privacy-faq-we-never-sell-your = Kami tidak pernah menjual data peribadi anda. Tidak seperti syarikat teknologi lain yang mengumpul dan mendapat untung daripada data peribadi anda, secara lalai kami dibangunkan penuh dengan privasi. Kami tidak mengambil untung daripada data seperti umur, jantina, lokasi tepat dan lain-lain maklumat.
 # Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } tidak menjual data tentang anda, dan kami tidak membeli data tentang anda.
 privacy-faq-wait-so-how-do-you-make-money = Jadi, bagaimana Firefox menjana wang?
