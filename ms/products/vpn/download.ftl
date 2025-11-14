@@ -51,3 +51,7 @@ vpn-download-we-never-log = Kami tidak merekod, menjejak atau berkongsi data ran
 
 vpn-download-previous-versions = Muat turun versi sebelumnya untuk { -brand-name-windows } dan { -brand-name-mac-short }
 
+vpn-download-install-via-flathub = Pasang menerusi Flathub
+vpn-download-install-via-apt = Pasang menerusi APT
+vpn-download-flathub = Flathub
+vpn-download-apt = APT
