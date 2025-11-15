@@ -8,7 +8,7 @@
 browser-history-browser-history = 浏览器简史：带来现代浏览器的史诗级斗争
 browser-history-the-browser-wars-underdogs-giants = 浏览器大战、弱者与巨人的对决、以及那些改变世界的瞬间。阅读了解 Web 浏览器的前世今生。
 browser-history-the-history-of-web = Web 浏览器简史
-browser-history-world-history-is = 世界历史从不缺少史诗般的权力斗争，有征服世界的暴君，也有落败的勇士。Web 浏览器的历史也大抵如此。学术先驱们编写出引发信息革命的简易软件，并为浏览器的优势和互联网用户而战。
+browser-history-world-history-is = 世界历史从不缺少史诗般的权力斗争，有征服世界的暴君，也有铩羽而归的勇士。Web 浏览器的历史也大抵如此。学术先驱们编写出引发信息革命的简易软件，并为浏览器的优势和互联网用户而战。
 browser-history-before-web-era = 前 Web 时代
 browser-history-in-1950-computers = 1950 年，一台计算机要占据整个房间，性能却比不上现在的袖珍计算器。但技术发展日新月异，到了 1960 年，它们已能运行复杂的程序。全球各国政府和大学都认为，如果这些机器可以相互连通，以促进合作共赢和科学突破，那将是一件大好事。
 # Variables:
