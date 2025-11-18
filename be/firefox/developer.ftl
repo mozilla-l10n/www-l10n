@@ -66,3 +66,4 @@ firefox-developer-download-the-firefox-browser = Сцягніце браўзер
 firefox-developer-made-for-developers = Браўзер, створаны для распрацоўшчыкаў
 firefox-developer-a-separate-profile = <strong>Асобны профіль і шлях</strong>, каб вы маглі лёгка запусціць яго адначасова з рэлізам { -brand-name-firefox } або { -brand-name-firefox } { -brand-name-beta }.
 firefox-developer-preferences-tailored = Параметры <strong>прыстасаваныя для вэб-распрацоўшчыкаў</strong>: браўзерная і аддаленая адладка тыпова ўключаны, як і цёмная тэма і кнопка прылад распрацоўшчыка на панэлі інструментаў.
+firefox-developer-mdn-updates = Абнаўленні
