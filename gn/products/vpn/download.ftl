@@ -40,3 +40,7 @@ vpn-download-also-available = Eiporukuaa avei ko’ãvape:
 vpn-download-from-the-maker = { -brand-name-firefox } moheñoihára, { -brand-name-mozilla-vpn } oiporu pe tapereko iporãva <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® ombopapapy hag̃ua ne rembiapo ñandutípe ha oñomi ne rendaite.
 vpn-download-we-never-log = Noroñongatúi, ndorohapykuehói ha noromoherakuãi ne mba’ekuaarã ñandutípe
 vpn-download-previous-versions = Emboguejy apopyre itujavéva { -brand-name-windows } ha { -brand-name-mac-short }
+vpn-download-install-via-flathub = Emohenda Flathub rupive
+vpn-download-install-via-apt = Emohenda APT rupive
+vpn-download-flathub = Flathub
+vpn-download-apt = APT
