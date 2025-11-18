@@ -29,6 +29,8 @@ newsletter-form-available-languages = Ñe’ẽnguéra eiporukuaáva
 newsletter-form-select-country = Eiporavo tetã
 newsletter-form-sign-me-up = Che añemboheraguapyse
 newsletter-form-sign-up-now = Eñemboheraguapy ko’ág̃a
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Emondo
 newsletter-form-thanks = ¡Aguyje!
 newsletter-form-leave-this-field-empty = Eheja ko kora nandiete.
 newsletter-form-yes = Héẽ
