@@ -48,7 +48,7 @@ vpn-pricing-what-information = რა მონაცემებს ინა�
 # Variables
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-pricing-we-adhere-strictly = ჩვენ მკაცრად ვიცავთ { -brand-name-mozilla }-ს <a { $principles }>დებულებებს მონაცემების პირადულობის შესახებ</a>. ვაგროვებთ მხოლოდ { -brand-name-mozilla-vpn }-ის გამართულად მუშაობისთვის და დროდადრო გაუმჯობესებისთვის საჭირო ინფორმაციას. ამასთანავე, თვალს ვადევნებთ სარეკლამო კამპანიისა და მობილურ პროგრამაზე მომართვის მონაცემებს, რომ { -brand-name-mozilla }-მ გაარკვიოს მარკეტინგული საქმიანობის შედეგიანობა. ვრცლად, გაეცანით ჩვენს <a { $notice }>პირადულობის დებულებას</a>.
+vpn-pricing-we-adhere-strictly = ჩვენ მკაცრად ვიცავთ { -brand-name-mozilla }-ს <a { $principles }>დებულებებს მონაცემების პირადულობის შესახებ</a>. ვაგროვებთ მხოლოდ { -brand-name-mozilla-vpn }-ის გამართულად მუშაობისთვის და დროდადრო გაუმჯობესებისთვის საჭირო ინფორმაციას. ამასთანავე, თვალს ვადევნებთ სარეკლამო კამპანიისა და მობილურ პროგრამაზე მომართვის მონაცემებს, რომ { -brand-name-mozilla }-მ გაარკვიოს მარკეტინგული საქმიანობის შედეგიანობა. ვრცლად გაეცანით ჩვენს <a { $notice }>პირადულობის დებულებას</a>.
 vpn-pricing-how-do-i-manage = როგორ ვმართო გამოწერა და როგორ შევცვალო საგადასახადო გეგმები?
 # Variables
 # $manage (url) - link to subscription management page
