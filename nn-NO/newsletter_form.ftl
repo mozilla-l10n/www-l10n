@@ -29,6 +29,8 @@ newsletter-form-available-languages = Tilgjengelege språk
 newsletter-form-select-country = Vel land
 newsletter-form-sign-me-up = Abonner
 newsletter-form-sign-up-now = Registrer deg no
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Sender
 newsletter-form-thanks = Takk!
 newsletter-form-leave-this-field-empty = La dette feltet vere tomt.
 newsletter-form-yes = Ja
