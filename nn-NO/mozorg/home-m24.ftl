@@ -70,6 +70,7 @@ m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } hjelpe
 # Used as an accessible text alternative for an image
 m24-home-alt-mozfest = Ei stor gruppe menneske samla seg i eit travelt innandørs arrangementslokale, sett ovanfrå.
 m24-home-mozfest-join-us = Ver med oss på { -brand-name-mozilla-festival }
+m24-home-mozfest-the-future = Framtida til teknologien er ikkje førehandsbestemd – det er opp til oss å forme henne. Bli med oss i Barcelona 7.–9. november for å avlære det vante, tenkje dristig og byggje det som kjem.
 m24-home-mozfest-get-your = Få merket ditt i dag
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator }-logo.
