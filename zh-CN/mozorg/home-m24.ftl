@@ -88,21 +88,57 @@ m24-home-got-an-earlystage = 经营着刚起步的创业公司？请向 { -brand
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = 捐出您的声音，让语音技术能理解更多口音，使得人人可用。
 m24-home-donate-your-voice = 捐出一段声音
+m24-home-our-transformation = 我们的转变
+m24-home-how-do-legacy = 传统价值观如何与创新发生冲突在此对话中马克·苏曼预览了我们将如何推动 { -brand-name-mozilla } 进入 AI 时代。
+# Used as an accessible text alternative for an image
+m24-home-alt-transformation = 由马苏曼与 MBS 授予信号器
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = 粉色背景的云
+m24-home-any-agent = 任何客户端
+m24-home-stop-wiring-tools = 别再把工具混杂在一起维持脆弱的自动化。通过您您需要的 { -brand-name-mozilla-ai-v2 } 代理平台描述您的目标我们将生成可与您的工具和流程协同工作的自适应 AI 代理。
 
 ## Media Springboard
 
 m24-home-type = 类型
 # Obsolete string (expires 2026-03-13)
 m24-home-author = 作者
+m24-home-author-v2 = 作者
 m24-home-topic = 主题
 m24-home-intro = 简介
 m24-home-tag-article = 文章
 m24-home-tag-podcast = 播客
 m24-home-tag-video = 视频
 m24-home-topic-news = 新闻
+m24-home-topic-products = 产品
 m24-home-topic-ai = 人工智能
+m24-home-topic-open-source-ai = 开源 AI
 m24-home-topic-ps = 隐私与安全
 m24-home-headline-you-ai-v2 = 时下实情：关于您、AI 与互联网
+m24-home-shake-to-summarize = 摇到时代周刊 2025 年最佳创造中来作为总结
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } 欢迎 Raffi Krikorian 出任首要技术官
+m24-home-tech-target = 技术目标
+m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } 执行长畅谈开源 AI 的优势
+m24-home-introducing-thundermail-and = 介绍 Thundermail 和 Thunderbird Pro
+m24-home-what-comes-next = 科技的下一步是选择。选择我们。
+m24-home-how-ventures-investee = Ventures Investee Germ 如何强化加密技术
+m24-home-tech-crunch = Tech Crunch
+m24-home-a-good-moment = “我们的好机会”{ -brand-name-firefox } 聊聊 AI 浏览器和 Web 的下一步发展
+m24-home-the-guardian = 英国卫报
+m24-home-interview-take-open = 访谈将开源带入 AI 时代
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = 麻省理工斯隆评论
+m24-home-mit-sloan-management-review = 麻省理工斯隆管理评论
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } 资金 Filament 网络平台
+m24-home-axios = Axios
+m24-home-mozillas-new-message = { -brand-name-mozilla } 的新消息我们是唯一没有亿万富豪支持的浏览器
+m24-home-fast-company = 快公司
+m24-home-will-agi-be = AGI 将会成为现实吗我们准备好了吗
+m24-home-conversation-charting-a = 对话勾勒出访问与代理的未来
+m24-home-tech-policy-press = 技术政策新闻社
+m24-home-open-by-design = 开放之源的设计人工智能时代国家如何竞争
+m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } 开启新的盈利模式
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -121,10 +157,29 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } 正在重塑自
 m24-home-state-of-mozilla-alt = 绿色、橙色和粉色相间的抽象像素画
 m24-home-read-the-report = 阅读报告
 
+## Data Collective
+
+m24-home-mozilla-data-collective = { -brand-name-mozilla } 个数据集
+m24-home-mozilla-create-curate-control = 创建。管理。控制。
+# Obsolete string (expires 2026-03-20)
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective 正在重建以社区为中心的 AI 数据生态系统。访问超过 300 个高质量的全球数据集由社区以透明且符合道德规范的方式构建并为社区服务。
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective 正在重建以社区为中心的 AI 数据生态系统。访问超过 300 个高质量的全球数据集由社区以透明且符合道德规范的方式构建并为社区服务。
+m24-home-join-mozilla-data = 加入 { -brand-name-mozilla } 数据收集团体
+
 ## Issues
 
+m24-home-the-validation-machines = 验证机
+m24-home-in-the-atlantic = 在大西洋{ -brand-name-mozilla } 的 CTO Raffi Krikorian 追问聊天机器人和生成式 AI 如此渴望取悦我们以及这对全人类意味着什么。 (图片由大西洋报提供)
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = 一个人注视着大大的键盘键和令人着迷的电脑屏幕
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = IRL 播客主持人 Bridget Todd。
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = 收听我们这档屡获殊荣的播客节目，认识致力于让互联网更安全、让 AI 更可信的变革者。
 m24-home-irl-listen-now = 立即收听
+
+## Outside the Fox
+
+m24-home-outside-the-fox = 狐狸之外
+m24-home-this-is-where = 我们将在这里探索互联网上正在发生的事情及其重要性——从为什么脏东西会接管互联网到病毒式传播的互联网文化。
+m24-home-fox-listen-now = 立即聆听

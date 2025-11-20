@@ -663,6 +663,8 @@
        *[nom] Thunderbird
     }
     .gender = masculine
+-brand-name-thunderbird-pro = Thunderbird Pro
+-brand-name-thundermail = Thundermail
 
 ## Mozilla projects (short names)
 

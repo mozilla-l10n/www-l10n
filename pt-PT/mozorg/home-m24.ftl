@@ -68,6 +68,11 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = A Construtores ajuda programadores independentes a criar projetos de IA de código aberto e transformadores através de colaborações, programação e comunidade sob medida.
 m24-home-builders-helps-independent-v2 = A { -brand-name-mozilla-builders } ajuda programadores independentes a criar projetos de IA de código aberto e transformadores através de colaborações, programação e comunidade sob medida.
 # Used as an accessible text alternative for an image
+m24-home-alt-mozfest = Um grande grupo de pessoas reunidas num espaço fechado para eventos, visto de cima.
+m24-home-mozfest-join-us = Junte-se a nós em { -brand-name-mozilla-festival }
+m24-home-mozfest-the-future = O futuro da tecnologia não está definido — é nosso para moldar. Junte-se a nós em Londres, de 7 a 9 de novembro, para desaprender predefinições, imaginar com ousadia e construir o que há a seguir.
+m24-home-mozfest-get-your = Obtenha a sua medalha hoje
+# Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logótipo de { -brand-name-lumigator }.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Encontre o LLM certo para as suas necessidades, caso de utilização e dados.
@@ -83,21 +88,57 @@ m24-home-got-an-earlystage = Tem uma inicialização em estágio inicial? Aprese
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Doe a sua voz para tornar a tecnologia de voz mais inclusão e acessível para todos.
 m24-home-donate-your-voice = Doe a sua voz
+m24-home-our-transformation = A nossa transformação
+m24-home-how-do-legacy = Como é que os valores legados coincidem com a inovação? Nesta conversa, Mark Surman pré-visualiza como estamos a transformar o { -brand-name-mozilla } para a era da IA.
+# Used as an accessible text alternative for an image
+m24-home-alt-transformation = Mudar sinal com Mark Surman e Mbs
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Nuvem com fundo roxo
+m24-home-any-agent = Qualquer agente
+m24-home-stop-wiring-tools = Pare de ligar ferramentas e de vigiar automações fracas. Com a plataforma de agentes { -brand-name-mozilla-ai-v2 }, você descreve o seu objetivo, nós geramos agentes de IA adaptativos que funcionam com as suas ferramentas e processos.
 
 ## Media Springboard
 
 m24-home-type = Tipo
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Autor
+m24-home-author-v2 = Autor(es)
 m24-home-topic = Tópico
 m24-home-intro = Introdução
 m24-home-tag-article = Artigo
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Vídeo
 m24-home-topic-news = Notícias
+m24-home-topic-products = Produtos
 m24-home-topic-ai = Inteligência Virtual
+m24-home-topic-open-source-ai = IA de código aberto
 m24-home-topic-ps = Privacidade e segurança
 m24-home-headline-you-ai-v2 = Você, a IA e a Internet – o que está realmente a acontecer?
+m24-home-shake-to-summarize = Sacode para resumir nas melhores invenções de 2025 do TIME
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } dá as boas-vindas a href="https://www.mozilla.org/projects/rt-messaging/chatzilla/”.
+m24-home-tech-target = Alvo técnico
+m24-home-mozilla-ai-ceo = PC de { -brand-name-mozilla-ai-v2 } fala sobre as vantagens da IA de código aberto
+m24-home-introducing-thundermail-and = A apresentar o Thundermail e o Thunderbird Pro
+m24-home-what-comes-next = O que vem a seguir em tecnologia é uma escolha. Escolha connosco.
+m24-home-how-ventures-investee = Como a risco que o Germ está a fortalecer a encriptação
+m24-home-tech-crunch = Análise tecnológica
+m24-home-a-good-moment = ‘Um bom momento para nós’: { -brand-name-firefox } cabeçalho em navegadores de IA e o que vem a seguir para a Internet
+m24-home-the-guardian = The Guardião
+m24-home-interview-take-open = Conversa: Introduzir o código aberto na era da IA
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = Revisão Sloan do MIT
+m24-home-mit-sloan-management-review = Revisão de gestão Sloan do MIT
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } financia a plataforma de rede Filament
+m24-home-axios = Axios
+m24-home-mozillas-new-message = Nova mensagem do { -brand-name-mozilla }: Nós somos o único navegador não apoiado por multimédia
+m24-home-fast-company = Empresa rápida
+m24-home-will-agi-be = A AGI será uma realidade — e nós estamos prontos?
+m24-home-conversation-charting-a = Conversa: Traçando um futuro para acesso e organização
+m24-home-tech-policy-press = Imprensa da política tecnológica
+m24-home-open-by-design = Aberto por design: como as nações podem competir na era da IA
+m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } trace um novo curso com uma viragem para a rendibilidade
+m24-home-silicon-angle = Ângulo de Silicon
 
 ## Showcase
 
@@ -116,10 +157,29 @@ m24-home-mozilla-is-reinventing-itself = A { -brand-name-mozilla } está a auto-
 m24-home-state-of-mozilla-alt = Arte de píxeis abstrata em tons de verde, laranja e rosa
 m24-home-read-the-report = Ler o relatório
 
+## Data Collective
+
+m24-home-mozilla-data-collective = { -brand-name-mozilla } dados recolhidos
+m24-home-mozilla-create-curate-control = Criar. Curado. Controlo.
+# Obsolete string (expires 2026-03-20)
+m24-home-mozilla-data-collective-is = O { -brand-name-mozilla } Data Coletivo está a construir o ecossistema de dados de IA com as comunidades no centro. Aceda a mais de 300 conjuntos de dados globais de alta qualidade, criados por e para a comunidade de uma forma transparente e Ética.
+m24-home-mozilla-data-collective-is-v3 = O { -brand-name-mozilla } Data Coletivo está a construir o ecossistema de dados de IA com as comunidades no centro. Aceda a mais de 300 conjuntos de dados globais de alta qualidade, criados por e para a comunidade de uma forma transparente e Ética.
+m24-home-join-mozilla-data = Junte-se ao grupo de dados { -brand-name-mozilla }
+
 ## Issues
 
+m24-home-the-validation-machines = As máquinas de validação
+m24-home-in-the-atlantic = No The Atlântico, o { -brand-name-mozilla } CTO href="https://www.mozilla.org/projects/rt-messaging/chatzilla/> { -brand-name-mozilla }" (imagem cortesia de The Atlântico)
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = Uma pessoa em miniatura a olhar para uma tecla grande e um ecrã de computador hipnotizador
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Name
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = O nosso podcast multi-premiado apresenta os inovadores que trabalham para tornar a Internet mais segura e a IA mais confiável.
 m24-home-irl-listen-now = Ouvir agora
+
+## Outside the Fox
+
+m24-home-outside-the-fox = Fora da Fox
+m24-home-this-is-where = Aqui é onde exploramos o que está a acontecer na Internet e o motivo pelo qual isto é importante, desde o motivo pelo qual o slop está a tomar conta da Internet à cultura Viral da Internet.
+m24-home-fox-listen-now = Ouvir agora

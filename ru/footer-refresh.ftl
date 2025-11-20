@@ -12,6 +12,7 @@ footer-refresh-learn-more-about-mozilla-advertising = Узнайте больш�
 footer-refresh-firefox-release-notes = Примечания к выпуску { -brand-name-firefox }
 # Obsolete string (expires 2026-03-13)
 footer-refresh-extend-reach = Расширьте охват и укрепите доверие.
+footer-refresh-add-trust-to = Добавьте доверия к вашей рекламе.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Подписаться на @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

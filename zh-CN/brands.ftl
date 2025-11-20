@@ -111,6 +111,8 @@
 -brand-name-mozilla-ventures = Mozilla 创业投资
 -brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
+-brand-name-thunderbird-pro = Thunderbird Pro
+-brand-name-thundermail = Thundermail
 
 ## Mozilla projects (short names)
 

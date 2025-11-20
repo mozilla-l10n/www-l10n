@@ -88,21 +88,57 @@ m24-home-got-an-earlystage = Van egy korai fázisú induló vállalkozása? Muta
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Adományozza a hangját, hogy a beszédtechnológia befogadóbb és mindenki számára elérhető legyen.
 m24-home-donate-your-voice = Adja a hangját
+m24-home-our-transformation = A mi átalakulásunk
+m24-home-how-do-legacy = Hogyan ütköznek az örökölt értékek az innovációval? Ebben a beszélgetésben Mark Surman bemutatja, hogyan alakítjuk át a(z) { -brand-name-mozilla } vállalatot a mesterséges intelligencia korszakában.
+# Used as an accessible text alternative for an image
+m24-home-alt-transformation = Jel módosítása Mark Surman és MBS segítségével
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Felhő, rózsaszín háttér
+m24-home-any-agent = Bármely ügynök
+m24-home-stop-wiring-tools = Ne huzalozza össze a szerszámokat és ne vigyázzon a törékeny automatizálásokra. A { -brand-name-mozilla-ai-v2 } Agent Platformmal írja le a célját, mi adaptív MI-ügynököket állítunk elő, amelyek együttműködnek az eszközeivel és folyamataival.
 
 ## Media Springboard
 
 m24-home-type = Típus
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Szerző
+m24-home-author-v2 = Szerzők
 m24-home-topic = Téma
 m24-home-intro = Bevezetés
 m24-home-tag-article = Leírás
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Videó
 m24-home-topic-news = Hírek
+m24-home-topic-products = Termékek
 m24-home-topic-ai = Mesterséges intelligencia
+m24-home-topic-open-source-ai = Nyílt forráskódú MI
 m24-home-topic-ps = Adatvédelem és biztonság
 m24-home-headline-you-ai-v2 = Ön, az MI és az internet – mi is történik valójában?
+m24-home-shake-to-summarize = Rázza meg, hogy összefoglalja a TIME 2025 legjobb találmányait
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } üdvözli Raffi Krikoriant technológiai igazgatóként
+m24-home-tech-target = Tech Target
+m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } vezérigazgató a nyílt forráskódú MI előnyeiről beszélt
+m24-home-introducing-thundermail-and = Bemutatkozik a Thundermail és a Thunderbird Pro
+m24-home-what-comes-next = Ami ezután következik a technológiában, az egy választás. Válasszon velünk.
+m24-home-how-ventures-investee = Hogyan erősíti a titkosítást a Ventures Investee csíra
+m24-home-tech-crunch = Tech Crunch
+m24-home-a-good-moment = „Számunkra egy jó pillanat”: { -brand-name-firefox } fej a mesterséges intelligencia böngészőkre és mi következik a webes fejlesztésekben
+m24-home-the-guardian = A Guardian
+m24-home-interview-take-open = Interjú: A nyílt forráskód átvétele a mesterséges intelligencia korszakába
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = MIT Sloan értékelés
+m24-home-mit-sloan-management-review = MIT Sloan vezetői áttekintés
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } adományoz a Filament hálózati platformot
+m24-home-axios = Axios
+m24-home-mozillas-new-message = { -brand-name-mozilla } új üzenete: Mi vagyunk az egyetlen böngésző, amit nem milliárdosok támogatnak
+m24-home-fast-company = Gyors cég
+m24-home-will-agi-be = Valóság lesz az AGI – és készen vagyunk?
+m24-home-conversation-charting-a = Beszélgetés: A jövő felvázolása a hozzáférés és a képviselet számára
+m24-home-tech-policy-press = Tech Policy Sajtó
+m24-home-open-by-design = Open By Design: Hogyan versenyezhetnek a nemzetek a MI korában
+m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } új pályát követ, a jövedelmezőség felé fordulva
+m24-home-silicon-angle = Szilícium szög
 
 ## Showcase
 
@@ -121,10 +157,29 @@ m24-home-mozilla-is-reinventing-itself = A { -brand-name-mozilla } újraszervezi
 m24-home-state-of-mozilla-alt = Absztrakt pixelgrafika zöld, narancs és rózsaszín árnyalatokban
 m24-home-read-the-report = Olvassa el a jelentést
 
+## Data Collective
+
+m24-home-mozilla-data-collective = { -brand-name-mozilla } adatgyűjtés
+m24-home-mozilla-create-curate-control = Létrehozás. Válogatás. Vezérlés.
+# Obsolete string (expires 2026-03-20)
+m24-home-mozilla-data-collective-is = A(z) { -brand-name-mozilla } Data Collective újjáépíti a mesterséges intelligenciára épülő adat ökoszisztémát a közösségekkel a középpontban. Érjen el több mint 300 kiváló minőségű globális adatkészletet, amelyeket a közösség állított fel, átlátható és etikus módon.
+m24-home-mozilla-data-collective-is-v3 = A { -brand-name-mozilla } Data Collective újjáépíti a mesterséges intelligenciára épülő adat ökoszisztémát a közösségekkel a középpontban. Érjen el több mint 300 kiváló minőségű globális adatkészletet, amelyeket a közösség állított fel, átlátható és etikus módon.
+m24-home-join-mozilla-data = Csatlakozzon a(z) { -brand-name-mozilla } adatgyűjteményhez
+
 ## Issues
 
+m24-home-the-validation-machines = Az ellenőrző gépek
+m24-home-in-the-atlantic = A The Atlantic-ban { -brand-name-mozilla } műszaki igazgató, Raffi Krikorian megkérdezi, hogy a csevegőbotok és a generatív MI miért olyan mohó, hogy nekünk a kedvünkben tegyenek, és mit jelent ez az emberiség számára. (a kép forrása: The Atlantic)
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = Egy miniatűr személy néz egy nagy billentyűzet billentyűt és egy hipnotizáló számítógép képernyőjét
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, az IRL Podcast házigazdája.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = A többszörösen díjnyertes podcastunk bemutatja azokat a változáshozókat, akik az internet biztonságosabbá tételéért és a mesterséges intelligencia megbízhatóbbá tételéért dolgoznak.
 m24-home-irl-listen-now = Meghallgatás most
+
+## Outside the Fox
+
+m24-home-outside-the-fox = A Rókán kívül
+m24-home-this-is-where = Itt fedezzük fel, hogy mi történik online, és miért számít ez, attól, hogy miért hódítja meg az internetet a vírusos internetes kultúra.
+m24-home-fox-listen-now = Figyeljen most elemre

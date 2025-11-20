@@ -12,6 +12,7 @@ footer-refresh-learn-more-about-mozilla-advertising = 了解 <span>{ -brand-name
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 發行公告
 # Obsolete string (expires 2026-03-13)
 footer-refresh-extend-reach = 延伸範圍並加強信任。
+footer-refresh-add-trust-to = 讓您對廣告的購買更有信任。
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = 關注 @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

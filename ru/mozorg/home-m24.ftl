@@ -88,21 +88,57 @@ m24-home-got-an-earlystage = У вас есть стартап на началь
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Пожертвуйте свой голос, чтобы сделать голосовые технологии более инклюзивными и доступными для всех и каждого.
 m24-home-donate-your-voice = Пожертвуйте свой голос
+m24-home-our-transformation = Наша трансформация
+m24-home-how-do-legacy = Как устаревшие значения столкнулись с инновациями? В этой беседе Марк Сурман рассказывает, как мы преобразовываем { -brand-name-mozilla } в эру ИИ.
+# Used as an accessible text alternative for an image
+m24-home-alt-transformation = Измените сигнал с Марком Сурманом и Mbs
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Облако на розовом фоне
+m24-home-any-agent = Любой агент
+m24-home-stop-wiring-tools = Перестаньте связывать инструменты между собой и присматривать за сломанной автоматикой. С агентской платформой { -brand-name-mozilla-ai-v2 }, вы описываете свою цель, мы генерируем адаптивных агентов ИИ, которые работают с вашими инструментами и процессами.
 
 ## Media Springboard
 
 m24-home-type = Тип
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Автор
+m24-home-author-v2 = Автор(ы)
 m24-home-topic = Тема
 m24-home-intro = Введение
 m24-home-tag-article = Статья
 m24-home-tag-podcast = Подкаст
 m24-home-tag-video = Видео
 m24-home-topic-news = Новости
+m24-home-topic-products = Продукты
 m24-home-topic-ai = Искусственный интеллект
+m24-home-topic-open-source-ai = ИИ с открытым исходным кодом
 m24-home-topic-ps = Приватность и защита
 m24-home-headline-you-ai-v2 = Вы, ИИ и Интернет — что на самом деле происходит?
+m24-home-shake-to-summarize = Встряхните, чтобы рассказать о лучших открытиях 2025 года по версии TIME
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } приветствует Раффи Крикоряна в качестве Технического директора
+m24-home-tech-target = Техническая цель
+m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } генеральный директор рассказывает о преимуществах ИИ с открытым исходным кодом
+m24-home-introducing-thundermail-and = Представляем Thundermail и Thunderbird Pro
+m24-home-what-comes-next = Что будет дальше в технологиях — это ваш выбор. Выбирайте с нами.
+m24-home-how-ventures-investee = Как венчурные инвестиции улучшают шифрование
+m24-home-tech-crunch = Технический прогресс
+m24-home-a-good-moment = «Хороший момент для нас»: { -brand-name-firefox } браузеров с ИИ и что запланировано для Интернета
+m24-home-the-guardian = TheGuardian
+m24-home-interview-take-open = Интервью: Вступая в эру открытого исходного кода, ИИ
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = Обзор Sloan MIT
+m24-home-mit-sloan-management-review = Проверка управления Sloan MIT
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } пожертвовано сетевой платформой Filement
+m24-home-axios = Axios
+m24-home-mozillas-new-message = Новое сообщение { -brand-name-mozilla }: Мы — единственный браузер, не поддерживаемый миллионерами
+m24-home-fast-company = Быстрая компания
+m24-home-will-agi-be = Станет ли Agi реальностью и готовы ли мы?
+m24-home-conversation-charting-a = Обсуждение: Планируем будущее доступа и агентства
+m24-home-tech-policy-press = Пресса о технической политике
+m24-home-open-by-design = Открытая по замыслу: как нации могут конкурировать в век ИИ
+m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } просматривает новый курс, повернуться к прибыльности
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -121,10 +157,29 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } заново и
 m24-home-state-of-mozilla-alt = Абстрактная пиксельная графика в оттенках зелёного, оранжевого и розового
 m24-home-read-the-report = Прочитать отчёт
 
+## Data Collective
+
+m24-home-mozilla-data-collective = { -brand-name-mozilla } коллективных данных
+m24-home-mozilla-create-curate-control = Создать. Курировать. Контрольные.
+# Obsolete string (expires 2026-03-20)
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Datacollective перестраивает экосистему данных ИИ с сообществами в центре. Получите доступ к более чем 300 высококачественным глобальным наборам данных, созданным сообществом и для сообщества, доступным и этичным способом.
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Datacollective перестраивает экосистему данных ИИ с сообществами в центре. Получите доступ к более чем 300 высококачественным глобальным наборам данных, созданным сообществом и для сообщества, доступным и этичным способом.
+m24-home-join-mozilla-data = Присоединиться к коллективу данных { -brand-name-mozilla }
+
 ## Issues
 
+m24-home-the-validation-machines = Машины валидации
+m24-home-in-the-atlantic = В The Атлантике технический директор { -brand-name-mozilla } Раффи Крикорян спрашивает, почему чат-боты и генеративный ИИ так стремятся угодить нам, и что это значит для человечества. (изображение предоставлено The Internet)
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = Миниатюрный человек смотрит на большую клавишу клавиатуры и гипнотизирующий экран компьютера
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Бриджит Тодд, ведущая подкаста IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Наш отмеченный множеством наград подкаст рассказывает о создателях изменений, работающих над тем, чтобы сделать Интернет безопаснее, а ИИ — более доверенным.
 m24-home-irl-listen-now = Прослушать
+
+## Outside the Fox
+
+m24-home-outside-the-fox = За пределами Лисы
+m24-home-this-is-where = Здесь мы исследуем, что происходит в сети и почему это важно, от того, почему помои захватывают Интернет, до вирусного интернета.
+m24-home-fox-listen-now = Прослушать
