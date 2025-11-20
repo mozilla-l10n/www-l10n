@@ -92,6 +92,7 @@ m24-home-donate-your-voice = Donearje jo stim
 ## Media Springboard
 
 m24-home-type = Type
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Skriuwer
 m24-home-topic = Underwerp
 m24-home-intro = Yntro
@@ -102,13 +103,6 @@ m24-home-topic-news = Nijs
 m24-home-topic-ai = Keunstmjittige yntelliginsje
 m24-home-topic-ps = Privacy en befeiliging
 m24-home-headline-you-ai-v2 = Jo, AI en it ynternet – wat bart der echt?
-m24-home-introducing-anonym = Nij: { -brand-name-anonym }: de latte heger lizze foar privacybeskermende digitale reklame.
-m24-home-keeping-genai-technologies = It feilich hâlden fan GenAI-technologyen is in dielde ferantwurdlikens.
-m24-home-from-hollywood-to = Fan Hollywood oant hiphop, artysten ûnderhannelje oer AI-tastimming.
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } fiert baanbrekkende makkers yn in nije dokumintêresearje ‘{ -brand-name-firefox } Presents’.
-m24-home-big-techs-power = De macht fan grutte technologybedriuwen oer taal betsjut macht oer minsken. Bridget Todd praat mei taalmienskipslieders en makket it paad frij foar spraak-AI yn harren eigen taal en dialekt.
-m24-home-why-does-it = Wêrom fielt it sa faak dat wy diel útmeitsje fan in massaal AI-eksperimint? Wat is de ferantwurde manier om nije technologyen te testen? Bridget Todd ûndersiket wat it betsjut om te libjen mei net bewizen AI-systemen dy't miljoenen minsken beynfloedzje as se yn it iepenbiere libben yntrodusearre wurde.
-m24-home-kids-are-growing = Bern groeie op yn in bot online wrâld. Wat kin in besoarge âlder dwaan?
 
 ## Showcase
 
@@ -129,12 +123,6 @@ m24-home-read-the-report = It rapport lêze
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Tûke apparaten mei warskôgingspiktogram.
-m24-home-explore-issues-shaping = Problemen mei de takomst fan it ynternet ferkenne
-m24-home-privacy-not-included = *Privacy net ynbegrepen
-m24-home-search-our-reviews = Trochsykje ús beoardielingen om te sjen hokker technyske gadgets en apps stikem jo gegevens brûke.
-m24-home-pni-search-now = No sykje
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, gastfrou fan IRL-podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

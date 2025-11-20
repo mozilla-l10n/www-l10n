@@ -10,6 +10,7 @@ footer-refresh-learn-more-about-mozilla-ads = Läs mer <span>om { footer-refresh
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Läs mer <span>om annonsering i { -brand-name-mozilla }</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } versionsfakta
+# Obsolete string (expires 2026-03-13)
 footer-refresh-extend-reach = Utöka räckvidden och fördjupa förtroendet.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Följ @{ -brand-name-mozilla }

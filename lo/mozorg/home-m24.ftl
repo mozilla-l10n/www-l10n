@@ -92,6 +92,7 @@ m24-home-donate-your-voice = ບໍລິຈາກສຽງຂອງທ່ານ
 ## Media Springboard
 
 m24-home-type = ປະເພດ
+# Obsolete string (expires 2026-03-13)
 m24-home-author = ຜູ້ຂຽນ
 m24-home-topic = ຫົວ​ຂໍ້
 m24-home-intro = ແນະນຳ
@@ -102,12 +103,6 @@ m24-home-topic-news = ຂ່າວ
 m24-home-topic-ai = ປັນຍາປະດິດ
 m24-home-topic-ps = ຄວາມເປັນສ່ວນຕົວ ແລະ ຄວາມປອດໄພ
 m24-home-headline-you-ai-v2 = ທ່ານ, AI ແລະ ອິນເຕີເນັດ - ແມ່ນຫຍັງເກີດຂຶ້ນແທ້ໆ?
-m24-home-introducing-anonym = ແນະນຳ { -brand-name-anonym }: ການເພີ່ມແຖບສໍາລັບການໂຄສະນາດິຈິຕອນທີ່ຮັກສາຄວາມເປັນສ່ວນຕົວ.
-m24-home-keeping-genai-technologies = ການຮັກສາເຕັກໂນໂລຢີ GenAI ໃຫ້ປອດໄພແມ່ນຄວາມຮັບຜິດຊອບຮ່ວມກັນ.
-m24-home-from-hollywood-to = ຈາກ Hollywood ເຖິງ hip hop, ນັກສິລະປິນກໍາລັງເຈລະຈາການຍິນຍອມເຫັນດີ AI.
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } ສະເຫຼີມສະຫຼອງຜູ້ສ້າງທີ່ໂດດເດັ່ນໃນສາລະຄະດີຊຸດໃໝ່ “{ -brand-name-firefox } Presents.”
-m24-home-big-techs-power = ອຳນາດຂອງເທັກໂນໂລຍີໃຫຍ່ເໜືອພາສາໝາຍເຖິງອຳນາດເໜືອຄົນ. Bridget Todd ໂອ້ລົມກັບຜູ້ນໍາຊຸມຊົນທີ່ເປັນພາສາທີ່ເປີດທາງສໍາລັບສຽງ AI ໃນພາສາແລະພາສາຂອງເຂົາເຈົ້າເອງ.
-m24-home-kids-are-growing = ເດັກນ້ອຍກໍາລັງເຕີບໃຫຍ່ຢູ່ໃນໂລກອອນໄລນ໌ຫຼາຍ. ພໍ່​ແມ່​ທີ່​ເປັນ​ຫ່ວງ​ຈະ​ເຮັດ​ແນວ​ໃດ?
 
 ## Showcase
 
@@ -127,11 +122,6 @@ m24-home-read-the-report = ອ່ານບົດລາຍງານ
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = ອຸປະກອນອັດສະລິຍະທີ່ມີໄອຄອນລະມັດລະວັງ.
-m24-home-explore-issues-shaping = ສຳຫຼວດບັນຫາທີ່ກຳນົດອະນາຄົດຂອງອິນເຕີເນັດ
-m24-home-privacy-not-included = * ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ​ບໍ່​ລວມ​
-m24-home-pni-search-now = ຄົ້ນຫາດຽວນີ້
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, host ຂອງ IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

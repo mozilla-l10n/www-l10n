@@ -85,6 +85,7 @@ m24-home-donate-your-voice = Donate your voice
 ## Media Springboard
 
 m24-home-type = Type
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Author
 m24-home-topic = Topic
 m24-home-intro = Intro
@@ -95,13 +96,6 @@ m24-home-topic-news = News
 m24-home-topic-ai = Artificial Intelligence
 m24-home-topic-ps = Privacy & Security
 m24-home-headline-you-ai-v2 = You, AI and the internet — what’s really going on?
-m24-home-introducing-anonym = Introducing { -brand-name-anonym }: Raising the bar for privacy-preserving digital advertising.
-m24-home-keeping-genai-technologies = Keeping GenAI technologies secure is a shared responsibility.
-m24-home-from-hollywood-to = From Hollywood to hip hop, artists are negotiating AI consent.
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } celebrates groundbreaking creators in new documentary series “{ -brand-name-firefox } Presents.”
-m24-home-big-techs-power = Big tech’s power over language means power over people. Bridget Todd talks to language community leaders paving the way for voice AI in their own languages and dialects.
-m24-home-why-does-it = Why does it so often feel like we’re part of a mass AI experiment? What is the responsible way to test new technologies? Bridget Todd explores what it means to live with unproven AI systems that impact millions of people as they roll out across public life.
-m24-home-kids-are-growing = Kids are growing up in a very online world. What’s a concerned parent to do?
 
 ## Showcase
 
@@ -122,12 +116,6 @@ m24-home-read-the-report = Read the report
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Smart devices with caution icon.
-m24-home-explore-issues-shaping = Explore issues shaping the future of the internet
-m24-home-privacy-not-included = *Privacy Not Included
-m24-home-search-our-reviews = Search our reviews to see which tech gadgets and apps are stealthily sneaking your data.
-m24-home-pni-search-now = Search now
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, host of IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

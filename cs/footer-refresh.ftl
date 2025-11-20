@@ -10,6 +10,7 @@ footer-refresh-learn-more-about-mozilla-ads = Zjistit více <span>o { footer-ref
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Zjistěte více <span>o reklamě v { -brand-name-mozilla(case: "loc") }</span>
 footer-refresh-firefox-release-notes = Poznámky k vydání { -brand-name-firefox(case: "gen") }
+# Obsolete string (expires 2026-03-13)
 footer-refresh-extend-reach = Rozšiřte dosah a prohlubte důvěru.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Sledujte @{ -brand-name-mozilla }

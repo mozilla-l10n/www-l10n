@@ -84,6 +84,7 @@ m24-home-donate-your-voice = Doe sua voz
 ## Media Springboard
 
 m24-home-type = Tipo
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Autor
 m24-home-topic = Tópico
 m24-home-intro = Introdução
@@ -94,13 +95,6 @@ m24-home-topic-news = Notícias
 m24-home-topic-ai = Inteligência artificial
 m24-home-topic-ps = Privacidade e Segurança
 m24-home-headline-you-ai-v2 = Você, inteligência artificial e a internet — o que realmente está acontecendo?
-m24-home-introducing-anonym = Apresentamos o { -brand-name-anonym }: Elevando o patamar da publicidade digital com preservação da privacidade.
-m24-home-keeping-genai-technologies = Garantir a segurança das tecnologias de inteligência artificial generativa é responsabilidade de todos.
-m24-home-from-hollywood-to = De Hollywood ao hip hop, artistas estão negociando o consentimento de uso de inteligência artificial.
-m24-home-mozilla-celebrates-groundbreaking = A { -brand-name-mozilla } celebra criadores inovadores na nova série documental “{ -brand-name-firefox } apresenta”.
-m24-home-big-techs-power = O domínio das grandes empresas de tecnologia sobre a linguagem resulta em controle sobre as pessoas. Bridget Todd entrevista líderes de comunidades linguísticas que abrem caminho para inteligência artificial de voz em seus próprios idiomas e dialetos.
-m24-home-why-does-it = Por que muitas vezes parece que fazemos parte de um experimento de inteligência artificial em massa? Qual é a maneira responsável de testar novas tecnologias? Bridget Todd examina o que significa viver com sistemas de inteligência artificial não comprovados que afetam milhões de pessoas à medida que são implementados na vida cotidiana.
-m24-home-kids-are-growing = As crianças estão crescendo em um mundo altamente virtual. O que pais preocupados podem fazer?
 
 ## Showcase
 
@@ -121,11 +115,6 @@ m24-home-read-the-report = Ler o relatório
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Dispositivos inteligentes com ícone de alerta.
-m24-home-explore-issues-shaping = Conheça os assuntos que estão moldando o futuro da internet
-m24-home-privacy-not-included = *Privacidade não incluída
-m24-home-search-our-reviews = Confira as nossas análises para ver quais aplicativos e dispositivos tecnológicos estão coletando furtivamente os seus dados.
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, apresentadora do IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

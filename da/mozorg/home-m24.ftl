@@ -85,6 +85,7 @@ m24-home-donate-your-voice = Donér din stemme
 ## Media Springboard
 
 m24-home-type = Type
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Forfatter
 m24-home-topic = Emne
 m24-home-intro = Introduktion
@@ -95,13 +96,6 @@ m24-home-topic-news = Nyheder
 m24-home-topic-ai = Kunstig intelligens
 m24-home-topic-ps = Privatliv og sikkerhed
 m24-home-headline-you-ai-v2 = AI, internettet og dig — hvad foregår der egentlig?
-m24-home-introducing-anonym = { -brand-name-anonym }: En højere standard for digital annoncering, som respekterer folks privatliv.
-m24-home-keeping-genai-technologies = Det er et fælles ansvar at sørge for, at GenAI-teknologier er sikre.
-m24-home-from-hollywood-to = Fra Hollywood til hip-hop-kunstnere forhandles der om AI-samtykke
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } hylder banebrydende kreative mennesker i den nye dokumentarserie “{ -brand-name-firefox } Presents.”
-m24-home-big-techs-power = Store teknologivirksomheders magt over sproget betyder, at de har magt over mennesker. Bridget Todd taler med ledere fra sprog-fællesskaber, som baner vejen for stemme-AI på deres egne sprog og dialekter.
-m24-home-why-does-it = Hvorfor føles det nogle gange som om vi er en del af et gigantisk AI-eksperiment? Hvordan kan vi teste nye teknologier på en ansvarlig måde? Bridget Tood undersøger, hvad det betyder at leve med uprøvede AI-systemer, der berør millioner af menneskers liv i takt med at systemerne implementeres i det offentlige liv.
-m24-home-kids-are-growing = Børn vokser op i en verden, der er mere online end nogensinde. Hvad kan bekymrede forældre gøre?
 
 ## Showcase
 
@@ -122,12 +116,6 @@ m24-home-read-the-report = Læs rapporten
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Smarte enheder med forsigtighedsikon.
-m24-home-explore-issues-shaping = Bliv klogere på emner, der sætter rammerne for internettets fremtid
-m24-home-privacy-not-included = *Privatliv ikke inkluderet
-m24-home-search-our-reviews = Gennemgå vores anmeldelser for at finde ud af, hvilke teknologiske gadgets og apps der stjæler dine data uden at du lægger mærke til det.
-m24-home-pni-search-now = Søg nu
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, vært for IRL-podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

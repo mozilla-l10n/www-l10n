@@ -87,6 +87,7 @@ m24-home-donate-your-voice = Eme’ẽmína nde ayvu
 ## Media Springboard
 
 m24-home-type = Peteĩchagua
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Apohára
 m24-home-topic = Téma
 m24-home-intro = Ñepyrũgua
@@ -97,11 +98,6 @@ m24-home-topic-news = Marandu
 m24-home-topic-ai = Inteligencia artificial
 m24-home-topic-ps = Ñemigua ha Tekorosã
 m24-home-headline-you-ai-v2 = Nde, IA ha ñanduti: ¿mba’ete pe ojehuvahína?
-m24-home-introducing-anonym = Rohechauka { -brand-name-anonym }: rohupi yvateve ñemurã ñandutigua omomba’éva nde rekoñemi.
-m24-home-keeping-genai-technologies = Hekorosã hag̃ua tembiporupyahu GenAI ha’e opavavete rembiaporã.
-m24-home-from-hollywood-to = Hollywood guive hip hop reheguáva peve, oñomongeta IA jarakuéra ndive.
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } omomba’eguasu umi apopypyahu moheñoiharépe ta’ãngamýi “{ -brand-name-firefox } Presents” rupive.
-m24-home-kids-are-growing = Mitãnguéra okakuaa arapýpe ñanduti jeporúpe. ¿Mba’épa ojapokuaa tuvakuéra ojepy’apýva?
 
 ## Showcase
 
@@ -120,12 +116,6 @@ m24-home-read-the-report = Emoñe’ẽ marandu’i
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Mba’e’oka ha’evéva kyhyjerã ra’ãnga’i ndive.
-m24-home-explore-issues-shaping = Ehapykueho mba’e ombohekóva Ñanduti renonderã
-m24-home-privacy-not-included = *Tekoñemi ndoikéiva
-m24-home-search-our-reviews = Eheka ore jehaipýpe ehecha hag̃ua mba’e’oka ha tembiporu’i omondáva ñemihápe ne mba’ekuaarã.
-m24-home-pni-search-now = Eheka ko’ág̃a
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, ohechaukáva IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

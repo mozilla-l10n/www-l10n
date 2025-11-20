@@ -50,6 +50,7 @@ m24-home-donate-your-voice = Mudd-d taɣect-ik
 ## Media Springboard
 
 m24-home-type = Anaw
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Ameskar
 m24-home-topic = Asentel
 m24-home-tag-article = Amagrad
@@ -66,6 +67,5 @@ m24-home-read-the-report = Ɣeṛ aneqqis
 
 ## Issues
 
-m24-home-pni-search-now = Nadi tura
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-irl-listen-now = Sell tura

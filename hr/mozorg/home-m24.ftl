@@ -85,6 +85,7 @@ m24-home-donate-your-voice = Doniraj svoj glas
 ## Media Springboard
 
 m24-home-type = Vrsta
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Autor
 m24-home-topic = Tema
 m24-home-intro = Uvod
@@ -95,13 +96,6 @@ m24-home-topic-news = Vijesti
 m24-home-topic-ai = Umjetna inteligencija
 m24-home-topic-ps = Privatnost i sigurnost
 m24-home-headline-you-ai-v2 = Ti, umjetna inteligencija i internet – što se zapravo događa?
-m24-home-introducing-anonym = Predstavljamo { -brand-name-anonym }: Podižemo standard osiguravanja privatnosti u digitalnom oglašavanju.
-m24-home-keeping-genai-technologies = Održavanje sigurnosti tehnologija generativne umjetne inteligencije je zajednička odgovornost.
-m24-home-from-hollywood-to = Od Hollywooda do hip hopa, glumci i izvođači pregovaraju o korištenju umjetne inteligencije.
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } slavi inovativne kreatore u novoj dokumentarnoj seriji „{ -brand-name-firefox } predstavlja.”
-m24-home-big-techs-power = Moć velikih tehnoloških tvrtki nad jezikom znači moć nad ljudima. Bridget Todd razgovara s vođama jezične zajednice o budućnosti razvoja umjetne inteligencije glasa na njihovim jezicima i dijalektima.
-m24-home-why-does-it = Zašto se često čini da smo dio masovnog UI-eksperimenta? Koji je odgovoran način testiranja novih tehnologija? Bridget Todd istražuje što znači živjeti s nedokazanim UI-sustavima koji utječu na milijune ljudi.
-m24-home-kids-are-growing = Djeca odrastaju u svijetu interneta. Što da rade zabrinuti roditelji?
 
 ## Showcase
 
@@ -122,12 +116,6 @@ m24-home-read-the-report = Pročitaj izvještaj
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Pametni uređaji s ikonom opreza.
-m24-home-explore-issues-shaping = Istraži probleme o kojima ovisi budućnost Interneta
-m24-home-privacy-not-included = *Privatnost nije uključena
-m24-home-search-our-reviews = Pretraži naše recenzije i saznaj koji tehnološki gadgeti i aplikacije potajno krade tvoje podatke.
-m24-home-pni-search-now = Pretraži sada
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, voditeljica IRL Podcasta.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

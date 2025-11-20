@@ -10,6 +10,7 @@ footer-refresh-learn-more-about-mozilla-ads = Eikuaave <span>{ footer-refresh-mo
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Eñemomaranduve <span>{ -brand-name-mozilla } marandu ñemurã</span> rehegua
 footer-refresh-firefox-release-notes = Marandu { -brand-name-firefox } rehegua
+# Obsolete string (expires 2026-03-13)
 footer-refresh-extend-reach = Embotuichave hupytyrã ha ejeroviave.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Ehapykueho @{ -brand-name-mozilla }

@@ -10,6 +10,7 @@ footer-refresh-learn-more-about-mozilla-ads = Dysgwch ragor <span>am { footer-re
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Dysgu rhagor <span>am Hysbysebu { -brand-name-mozilla }</span>
 footer-refresh-firefox-release-notes = Nodiadau Rhyddhau { -brand-name-firefox }
+# Obsolete string (expires 2026-03-13)
 footer-refresh-extend-reach = Ymestyn cyrhaeddiad a dyfnhau ymddiriedaeth.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Dilyn @{ -brand-name-mozilla }

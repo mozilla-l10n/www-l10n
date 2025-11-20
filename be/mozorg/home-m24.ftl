@@ -67,6 +67,7 @@ m24-home-donate-your-voice = Ахвяруйце свой голас
 ## Media Springboard
 
 m24-home-type = Тып
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Аўтар
 m24-home-topic = Тэма
 m24-home-intro = Уступ

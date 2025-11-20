@@ -35,6 +35,7 @@ m24-home-common-voice = { -brand-name-common-voice }
 ## Media Springboard
 
 m24-home-type = قسم
+# Obsolete string (expires 2026-03-13)
 m24-home-author = مصنف
 m24-home-tag-article = مضمون
 m24-home-tag-video = ویڈیو

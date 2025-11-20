@@ -92,6 +92,7 @@ m24-home-donate-your-voice = 捐出您的聲音
 ## Media Springboard
 
 m24-home-type = 類型
+# Obsolete string (expires 2026-03-13)
 m24-home-author = 作者
 m24-home-topic = 主題
 m24-home-intro = 介紹
@@ -102,13 +103,6 @@ m24-home-topic-news = 新聞
 m24-home-topic-ai = 人工智慧
 m24-home-topic-ps = 隱私權與安全性
 m24-home-headline-you-ai-v2 = 你、AI 與網際網路 — 到底發生什麼事？
-m24-home-introducing-anonym = 隆重推出 { -brand-name-anonym }：提升數位廣告產業的隱私保護標準。
-m24-home-keeping-genai-technologies = 確保 GenAI 技術的安全，是我們的共同責任。
-m24-home-from-hollywood-to = 從好萊塢到嘻哈界，藝人們正在討論 AI 著作利用授權問題。
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } 透過全新系列紀錄片《{ -brand-name-firefox } Presents》來慶祝取得傑出成就的創作者。
-m24-home-big-techs-power = 大型科技公司對語言的控制就是對人的控制。Brickett Todd 與語言社群負責人討論如何使用自己的語言與方言資料，來開發語音 AI 模型。
-m24-home-why-does-it = 為什麼我們總覺得自己像是身處大型 AI 實驗當中？怎樣才是一個負責任的新技術測試方式？Bridget Todd 探索讓未經驗證的 AI 系統一推出就直接影響數以百萬計的人們的公共生活，會發生怎樣的影響。
-m24-home-kids-are-growing = 孩子們在一個非常線上的世界中成長，擔心的家長該怎麼辦？
 
 ## Showcase
 
@@ -129,12 +123,6 @@ m24-home-read-the-report = 閱讀年報
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = 含有注意圖示的智慧裝置。
-m24-home-explore-issues-shaping = 探索影響網際網路未來的議題
-m24-home-privacy-not-included = *Privacy Not Included
-m24-home-search-our-reviews = 搜尋我們的評論，看看有哪些科技產品與應用程式正在偷偷拿走您的資料。
-m24-home-pni-search-now = 立即搜尋
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = IRL Podcast 主持人 Bridget Todd。
 m24-home-irl-podcast = { -brand-name-irl-podcast }

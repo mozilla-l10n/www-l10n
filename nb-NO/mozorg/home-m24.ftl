@@ -92,6 +92,7 @@ m24-home-donate-your-voice = Bidra med din stemme
 ## Media Springboard
 
 m24-home-type = Type
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Forfatter
 m24-home-topic = Emne
 m24-home-intro = Introduksjon
@@ -102,13 +103,6 @@ m24-home-topic-news = Nyheter
 m24-home-topic-ai = Kunstig Intelligens
 m24-home-topic-ps = Personvern og sikkerhet
 m24-home-headline-you-ai-v2 = Du, AI og internett — hva skjer egentlig?
-m24-home-introducing-anonym = Introduksjon av { -brand-name-anonym }: Vi hever standarden for personvernbevarende digital annonsering.
-m24-home-keeping-genai-technologies = Å holde GenAI-teknologier sikre er et felles ansvar.
-m24-home-from-hollywood-to = Fra Hollywood til hiphop forhandler artister om AI-samtykke.
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } feirer banebrytende skapere i den nye dokumentarserien «{ -brand-name-firefox } Presents».
-m24-home-big-techs-power = Store teknologiselskapers makt over språk betyr makt over mennesker. Bridget Todd snakker med ledere i språkmiljøet som baner vei for talebasert AI på deres egne språk og dialekter.
-m24-home-why-does-it = Hvorfor føles det så ofte som om vi er en del av et masseeksperiment med AI? Hva er den ansvarlige måten å teste nye teknologier på? Bridget Todd utforsker hva det vil si å leve med uprøvde AI-systemer som påvirker millioner av mennesker når de rulles ut i det offentlige liv.
-m24-home-kids-are-growing = Barn vokser opp i en stadig mer digital verden. Hva bør foreldre gjøre?
 
 ## Showcase
 
@@ -129,12 +123,6 @@ m24-home-read-the-report = Les rapporten
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Smartenheter med forsiktighetsikon.
-m24-home-explore-issues-shaping = Utforsk problemstillinger som former fremtidens internett
-m24-home-privacy-not-included = *Personvern ikke inkludert
-m24-home-search-our-reviews = Søk gjennom anmeldelsene våre for å finne ut hvilke teknologiske dingser og apper som stjeler dataene dine uten at du engang merker det.
-m24-home-pni-search-now = Søk nå
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, programleder for IRL-podkasten.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

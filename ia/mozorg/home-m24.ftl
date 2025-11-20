@@ -92,6 +92,7 @@ m24-home-donate-your-voice = Dona tu voce
 ## Media Springboard
 
 m24-home-type = Typo
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Autor
 m24-home-topic = Subjecto
 m24-home-intro = Intro
@@ -102,13 +103,6 @@ m24-home-topic-news = Novas
 m24-home-topic-ai = Intelligentia artificial
 m24-home-topic-ps = Confidentialitate e securitate
 m24-home-headline-you-ai-v2 = Tu, IA e internet, que evenira realmente?
-m24-home-introducing-anonym = Presentar { -brand-name-anonym }: elevar le barra pro le annuncios digital preservante le confidentialitate.
-m24-home-keeping-genai-technologies = Mantener secur le technologias de IAgen es un responsabilitate commun.
-m24-home-from-hollywood-to = De Hollywood al hip hop, le artistas negotia le consenso al IA.
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } celebra autores innovator in nove series documentari “{ -brand-name-firefox } Presenta.”
-m24-home-big-techs-power = Le poter de Big Tech super le lingua significa poter super le personas. Bridget Todd parla al leaders del communitates linguistic qui aperi le via al IA vocal in lor proprie linguas e dialectos.
-m24-home-why-does-it = Proque sovente il pare como si nos face parte de un experimento de AI in massa? Qual es le maniera responsabile de provar nove technologias? Bridget Todd explora que significa viver con systemas de AI non provate que ha impacto sur milliones de personas a mesura que illos se extende a transverso le vita public.
-m24-home-kids-are-growing = Le pueros cresce in un mundo multo connexe. Que ha a facer un genitor preoccupate?
 
 ## Showcase
 
@@ -129,12 +123,6 @@ m24-home-read-the-report = Leger le reporto
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Apparatos intelligente con icone de attention.
-m24-home-explore-issues-shaping = Explora problemas que tracia le futuro de internet
-m24-home-privacy-not-included = *Confidentialitate non incluse
-m24-home-search-our-reviews = Cerca nostre recensiones pro vider que dispositivos technologic e apps menacia furtivemente tu datos.
-m24-home-pni-search-now = Cercar ora
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, conductor de IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

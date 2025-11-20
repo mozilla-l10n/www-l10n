@@ -92,6 +92,7 @@ m24-home-donate-your-voice = Δωρίστε τη φωνή σας
 ## Media Springboard
 
 m24-home-type = Τύπος
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Δημιουργός
 m24-home-topic = Θέμα
 m24-home-intro = Εισαγωγή
@@ -102,13 +103,6 @@ m24-home-topic-news = Ειδήσεις
 m24-home-topic-ai = Τεχνητή νοημοσύνη
 m24-home-topic-ps = Απόρρητο και ασφάλεια
 m24-home-headline-you-ai-v2 = Εσείς, η τεχνητή νοημοσύνη και το διαδίκτυο· τι πραγματικά συμβαίνει;
-m24-home-introducing-anonym = Παρουσίαση του { -brand-name-anonym }: Ανεβάζοντας τον πήχη για τις ψηφιακές διαφημίσεις που διατηρούν το απόρρητό σας.
-m24-home-keeping-genai-technologies = Η συνεχής προστασία των τεχνολογιών GenAI αποτελεί κοινή ευθύνη.
-m24-home-from-hollywood-to = Από το Χόλιγουντ μέχρι τη χιπ χοπ, οι καλλιτέχνες συζητούν σχετικά με τη συναίνεση για τη χρήση των δεδομένων από την τεχνητή νοημοσύνη.
-m24-home-mozilla-celebrates-groundbreaking = Η { -brand-name-mozilla } τιμά τους πρωτοποριακούς δημιουργούς στη νέα σειρά ντοκιμαντέρ «{ -brand-name-firefox } Presents».
-m24-home-big-techs-power = Η κυριαρχία των τεχνολογικών κολοσσών επί της γλώσσας σημαίνει κυριαρχία επί των ανθρώπων. Η Bridget Todd συνομιλεί με τους ηγέτες της γλωσσικής κοινότητας ανοίγοντας τον δρόμο για την ανάπτυξη της φωνητικής τεχνητής νοημοσύνης στις δικές τους γλώσσες και διαλέκτους.
-m24-home-why-does-it = Γιατί νιώθουμε τόσο συχνά σαν να συμμετέχουμε σε κάποιο μαζικό πείραμα τεχνητής νοημοσύνης; Ποιος είναι ο υπεύθυνος τρόπος δοκιμής νέων τεχνολογιών; Η Bridget Todd εξερευνά τη σημασία του να ζει κανείς με αναπόδεικτα συστήματα τεχνητής νοημοσύνης, που επηρεάζουν εκατομμύρια ανθρώπους, ενώ εξαπλώνονται στη δημόσια ζωή.
-m24-home-kids-are-growing = Τα παιδιά μεγαλώνουν σε έναν διαδικτυακό κόσμο. Τι πρέπει να κάνει ένας ανήσυχος γονέας;
 
 ## Showcase
 
@@ -129,12 +123,6 @@ m24-home-read-the-report = Διαβάστε την αναφορά
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Έξυπνες συσκευές με εικονίδιο προσοχής.
-m24-home-explore-issues-shaping = Εξερευνήστε τα θέματα που διαμορφώνουν το μέλλον του διαδικτύου
-m24-home-privacy-not-included = *Privacy Not Included
-m24-home-search-our-reviews = Αναζητήστε τις κριτικές μας για να δείτε ποιες τεχνολογικές συσκευές και εφαρμογές διακινούν ύπουλα τα δεδομένα σας.
-m24-home-pni-search-now = Αναζήτηση
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, οικοδέσποινα του IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

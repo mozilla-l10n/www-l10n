@@ -87,6 +87,7 @@ m24-home-donate-your-voice = Doe a sua voz
 ## Media Springboard
 
 m24-home-type = Tipo
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Autor
 m24-home-topic = Tópico
 m24-home-intro = Introdução
@@ -97,13 +98,6 @@ m24-home-topic-news = Notícias
 m24-home-topic-ai = Inteligência Virtual
 m24-home-topic-ps = Privacidade e segurança
 m24-home-headline-you-ai-v2 = Você, a IA e a Internet – o que está realmente a acontecer?
-m24-home-introducing-anonym = Apresentando o { -brand-name-anonym }: Elevando a barra para a publicidade digital que preserva a privacidade.
-m24-home-keeping-genai-technologies = Manter as tecnologias GenAl seguras é uma responsabilidade partilhada.
-m24-home-from-hollywood-to = De Marketplace ao hip hop, os artistas estão a negociar o consentimento da IA.
-m24-home-mozilla-celebrates-groundbreaking = A { -brand-name-mozilla } celebra criadores inovadores na nova série documental “O { -brand-name-firefox } Apresenta.”
-m24-home-big-techs-power = O poder das grandes empresas tecnológicas sobre a linguagem significa poder sobre as pessoas. Name
-m24-home-why-does-it = Porque é que muitas vezes parece que fazemos parte de uma experiência de IA em massa? Qual é a forma responsável de testar novas tecnologias? Name
-m24-home-kids-are-growing = As crianças estão a crescer num mundo muito online. O que pode um pai preocupado fazer?
 
 ## Showcase
 
@@ -124,12 +118,6 @@ m24-home-read-the-report = Ler o relatório
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Dispositivos inteligentes com ícone de alerta.
-m24-home-explore-issues-shaping = Explorar questões que estão a moldar o futuro da Internet
-m24-home-privacy-not-included = *Privacidade não incluída
-m24-home-search-our-reviews = Pesquise as nossas análises para ver que dispositivos e aplicações tecnológicas estão a roubar furtivamente os seus dados.
-m24-home-pni-search-now = Pesquisar agora
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Name
 m24-home-irl-podcast = { -brand-name-irl-podcast }

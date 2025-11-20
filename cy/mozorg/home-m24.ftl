@@ -92,6 +92,7 @@ m24-home-donate-your-voice = Cyfrannwch eich llais
 ## Media Springboard
 
 m24-home-type = Math
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Awdur
 m24-home-topic = Pwnc
 m24-home-intro = Cyflwyniad
@@ -102,13 +103,6 @@ m24-home-topic-news = Newyddion
 m24-home-topic-ai = Deallusrwydd Artiffisial
 m24-home-topic-ps = Preifatrwydd a Diogelwch
 m24-home-headline-you-ai-v2 = Chi, AI a'r rhyngrwyd — beth sy'n digwydd mewn gwirionedd?
-m24-home-introducing-anonym = Cyflwyno { -brand-name-anonym }: Codi'r bar ar gyfer hysbysebu digidol sy'n diogelu preifatrwydd.
-m24-home-keeping-genai-technologies = Mae cadw technolegau GenAI yn ddiogel yn gyfrifoldeb i'w rannu.
-m24-home-from-hollywood-to = O Hollywood i hip hop, mae artistiaid yn negodi caniatâd AI.
-m24-home-mozilla-celebrates-groundbreaking = Mae { -brand-name-mozilla } yn dathlu crewyr arloesol mewn cyfres ddogfen newydd “{ -brand-name-firefox } Presents.”
-m24-home-big-techs-power = Mae pŵer technoleg fawr dros iaith yn golygu pŵer dros bobl. Mae Bridget Todd yn siarad gydag arweinwyr cymunedau iaith i baratoi'r ffordd ar gyfer llais AI yn eu hieithoedd a'u tafodieithoedd eu hunain.
-m24-home-why-does-it = Pam mae'n teimlo'n aml ein bod ni'n rhan o arbrawf AI torfol? Beth yw'r ffordd gyfrifol o brofi technolegau newydd? Mae Bridget Todd yn archwilio beth mae'n ei olygu i fyw gyda systemau AI sydd heb eu profi ac sy'n effeithio ar filiynau o bobl wrth iddyn nhw gael eu cyflwyno ar draws bywyd cyhoeddus.
-m24-home-kids-are-growing = Mae plant yn tyfu mewn byd ar-lein iawn. Beth mae rhiant pryderus i'w wneud?
 
 ## Showcase
 
@@ -129,12 +123,6 @@ m24-home-read-the-report = Darllenwch yr adroddiad
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Dyfeisiau clyfar gydag eicon rhybudd.
-m24-home-explore-issues-shaping = Archwilio materion sy'n siapio dyfodol y rhyngrwyd
-m24-home-privacy-not-included = *Dim Preifatrwydd
-m24-home-search-our-reviews = Chwiliwch ein hadolygiadau i weld pa declynnau technoleg ac apiau sy'n dwyn eich data'n llechwraidd.
-m24-home-pni-search-now = Chwilio nawr
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, gwesteiwr Podlediad IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

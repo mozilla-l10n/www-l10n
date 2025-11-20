@@ -82,6 +82,7 @@ m24-home-donate-your-voice = Prispevajte svoj glas
 ## Media Springboard
 
 m24-home-type = Vrsta
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Avtor
 m24-home-topic = Tema
 m24-home-intro = Uvod
@@ -92,7 +93,6 @@ m24-home-topic-news = Novice
 m24-home-topic-ai = Umetna inteligenca
 m24-home-topic-ps = Zasebnost in varnost
 m24-home-headline-you-ai-v2 = Vi, umetna inteligenca in internet – kaj se pravzaprav dogaja?
-m24-home-kids-are-growing = Otroci odraščajo v zelo spletnem svetu. Kaj naj stori zaskrbljen starš?
 
 ## Showcase
 
@@ -111,12 +111,6 @@ m24-home-read-the-report = Preberite poročilo
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Pametne naprave z opozorilno ikono.
-m24-home-explore-issues-shaping = Raziščite pereča vprašanja, od katerih je odvisna prihodnost interneta
-m24-home-privacy-not-included = *Zasebnost ni priložena
-m24-home-search-our-reviews = Preiščite naše ocene in preverite, kateri tehnološki pripomočki in aplikacije se skrivaj okoriščajo z vašimi podatki.
-m24-home-pni-search-now = Iščite zdaj
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, gostiteljica podkasta IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

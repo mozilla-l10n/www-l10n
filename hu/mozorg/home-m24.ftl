@@ -92,6 +92,7 @@ m24-home-donate-your-voice = Adja a hangját
 ## Media Springboard
 
 m24-home-type = Típus
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Szerző
 m24-home-topic = Téma
 m24-home-intro = Bevezetés
@@ -102,13 +103,6 @@ m24-home-topic-news = Hírek
 m24-home-topic-ai = Mesterséges intelligencia
 m24-home-topic-ps = Adatvédelem és biztonság
 m24-home-headline-you-ai-v2 = Ön, az MI és az internet – mi is történik valójában?
-m24-home-introducing-anonym = Bemutatkozik az { -brand-name-anonym }: Magasabbra emeli a lécet az adatvédelmet megőrző digitális hirdetéseknél.
-m24-home-keeping-genai-technologies = A generatív MI technológiák biztonságának megőrzése közös felelősség.
-m24-home-from-hollywood-to = Hollywoodtól a hip hopig, a művészek mesterséges mesterséges intelligenciával kapcsolatos hozzájárulásról tárgyalnak.
-m24-home-mozilla-celebrates-groundbreaking = A { -brand-name-mozilla } az új „{ -brand-name-firefox } bemutatja” dokumentumfilm-sorozattal ünnepli az úttörő alkotókat.
-m24-home-big-techs-power = A nagy technológiai vállalatok nyelv feletti hatalma azt is jelenti, hogy hatalmuk van az emberek felett. Bridget Todd nyelvi közösségek vezetőivel beszélget, hogy előkészítse a hangalapú MI-t a saját nyelvükön és dialektusukon.
-m24-home-why-does-it = Miért tűnik gyakran úgy, hogy egy tömeges MI-kísérlet részei vagyunk? Mi az új technológiák tesztelésének felelősségteljes módja? Bridget Todd felfedezi, hogy mit is jelent a még nem bizonyított MI rendszerekkel élni, amelyek emberek millióira hatnak miközben bekerülnek a közéletbe.
-m24-home-kids-are-growing = A gyerekek egy nagyon online világban nőnek fel. Mit tegyen egy aggódó szülő?
 
 ## Showcase
 
@@ -129,12 +123,6 @@ m24-home-read-the-report = Olvassa el a jelentést
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Okos eszközök figyelmeztető ikonnal.
-m24-home-explore-issues-shaping = Fedezze fel azokat a kérdéseket, amelyek az internet jövőjét alakítják
-m24-home-privacy-not-included = *Adatvédelmet nem tartalmaz
-m24-home-search-our-reviews = Böngésszen az értékeléseink között, hogy mely technológiai eszközök és alkalmazások lopkodják az adatait titokban.
-m24-home-pni-search-now = Keresés most
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, az IRL Podcast házigazdája.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

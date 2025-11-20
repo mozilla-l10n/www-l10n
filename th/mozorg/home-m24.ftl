@@ -85,6 +85,7 @@ m24-home-donate-your-voice = บริจาคเสียงของคุณ
 ## Media Springboard
 
 m24-home-type = ชนิด
+# Obsolete string (expires 2026-03-13)
 m24-home-author = ผู้จัดทำ
 m24-home-topic = หัวข้อ
 m24-home-intro = คำนำ
@@ -95,13 +96,6 @@ m24-home-topic-news = ข่าว
 m24-home-topic-ai = ปัญญาประดิษฐ์
 m24-home-topic-ps = ความเป็นส่วนตัวและความปลอดภัย
 m24-home-headline-you-ai-v2 = มีอะไรเกิดขึ้นบ้างเกี่ยวกับตัวคุณ AI และอินเทอร์เน็ต?
-m24-home-introducing-anonym = ขอแนะนำ { -brand-name-anonym }: สิ่งที่จะยกระดับในเรื่องการโฆษณาแบบดิจิทัลซึ่งรักษาความเป็นส่วนตัว
-m24-home-keeping-genai-technologies = การทำให้เทคโนโลยี GenAI ปลอดภัยอยู่เสมอเป็นความรับผิดชอบอย่างหนึ่งที่มีร่วมกัน
-m24-home-from-hollywood-to = ไม่ว่าจะเป็นวงการฮอลลีวูดหรือฮิปฮอป ศิลปินต่างกำลังถกเถียงกันในเรื่องความยินยอมที่มีต่อ AI
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } ร่วมเฉลิมฉลองนักสร้างสรรค์ผู้สร้างประวัติศาสตร์ในซีรีส์สารคดีชุดใหม่ “{ -brand-name-firefox } Presents”
-m24-home-big-techs-power = พลังที่บริษัทเทคโนโลยีมีเหนือภาษาเท่ากับพลังที่บริษัทเหล่านั้นมีเหนือผู้คน Bridget Todd จะมาพูดคุยกับผู้นำชุมชนด้านภาษาเพื่อปูทางสำหรับ AI เสียงพูดในภาษาและสำเนียงของพวกเขาเอง
-m24-home-why-does-it = ทำไมบ่อยครั้งถึงมักมีความรู้สึกว่าเราเป็นส่วนหนึ่งของการทดลอง AI ขนาดใหญ่? แล้ววิธีที่จะทดสอบเทคโนโลยีใหม่ๆ อย่างมีความรับผิดชอบนั้นเป็นยังไง? Bridget Todd จะมาสำรวจว่าการที่เราต้องอยู่ร่วมกับระบบ AI ที่ไม่ได้รับการพิสูจน์ซึ่งส่งผลกระทบต่อผู้คนนับล้านเมื่อระบบเหล่านี้ถูกเผยแพร่สู่ชีวิตของผู้คนเหล่านั้นมีผลกระทบอย่างไรบ้าง
-m24-home-kids-are-growing = เด็กๆ กำลังเติบโตในโลกที่มีความออนไลน์เป็นอย่างมาก ผู้ปกครองที่วิตกกังวลควรทำอย่างไรบ้าง?
 
 ## Showcase
 
@@ -122,12 +116,6 @@ m24-home-read-the-report = อ่านรายงาน
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = อุปกรณ์อัจฉริยะพร้อมไอคอนคำเตือน
-m24-home-explore-issues-shaping = สำรวจประเด็นที่จะเป็นตัวกำหนดอนาคตของอินเทอร์เน็ต
-m24-home-privacy-not-included = *Privacy Not Included
-m24-home-search-our-reviews = ค้นหาบทวิจารณ์ของเราเพื่อดูว่าอุปกรณ์เทคโนโลยีและแอปอะไรบ้างกำลังแอบขโมยข้อมูลของคุณไป
-m24-home-pni-search-now = ค้นหาตอนนี้
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd พิธีกรประจำรายการ IRL Podcast
 m24-home-irl-podcast = { -brand-name-irl-podcast }

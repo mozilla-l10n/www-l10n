@@ -87,6 +87,7 @@ m24-home-donate-your-voice = Dhuroni zërin tuaj
 ## Media Springboard
 
 m24-home-type = Lloj
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Autor
 m24-home-topic = Temë
 m24-home-intro = Hyrje
@@ -97,12 +98,6 @@ m24-home-topic-news = Lajme
 m24-home-topic-ai = Inteligjencë Artificiale
 m24-home-topic-ps = Privatësi & Siguri
 m24-home-headline-you-ai-v2 = Ju, IA dhe interneti — ç’po ndodh në të vërtetë?
-m24-home-introducing-anonym = Ju paraqesim { -brand-name-anonym }: Ngritje e nivelit për reklama dixhitale që ruajnë privatësinë.
-m24-home-keeping-genai-technologies = Mbajtja të siguruara e teknologjive GenAI është përgjegjësi e përbashkët.
-m24-home-mozilla-celebrates-groundbreaking = Në serinë e re të dokumentarëve “{ -brand-name-firefox } Presents” { -brand-name-mozilla } nderon krijuesit novatorë.
-m24-home-big-techs-power = Pushteti i shoqërive të mëdha teknologjike mbi gjuhën do të thotë pushtet mbi njerëzit. Bridget Todd bisedon me drejtues të bashkësisë së gjuhëve që shtrojnë udhën për IA zanore në gjuhët dhe dialektet e tyre.
-m24-home-why-does-it = Pse kaq shpesh na duket sikur jemi pjesë një eksperimenti masiv IA? Cila është rruga me përgjegjshmëri për të testuar teknologji të reja? Bridget Todd eksploron ç’do të thotë të jetosh me sisteme IA të paprovuar që ndikojnë mbi miliona vetë, teksa këto sisteme shtrihen në jetën publike.
-m24-home-kids-are-growing = Fëmijët rriten në një botë shumë internetore. Ç’duhet të bëjë një prind i preokupuar?
 
 ## Showcase
 
@@ -123,11 +118,6 @@ m24-home-read-the-report = Lexoni raportin
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Pajisje të mençura me një ikonë “Kujdes!”.
-m24-home-explore-issues-shaping = Eksploroni çështje që i japin formë të ardhmes së internetit
-m24-home-search-our-reviews = Kërkoni te shqyrtimet tona, për të parë cilat pajisje dhe aplikacione teknologjike përlajnë pa zhurmë të dhëna tuajat.
-m24-home-pni-search-now = Kërkoni tani
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, drejtuesja e Podkastit IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

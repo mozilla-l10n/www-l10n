@@ -74,6 +74,7 @@ m24-home-donate-your-voice = Dùnani a to vuci
 ## Media Springboard
 
 m24-home-type = Tipu
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Auturi
 m24-home-topic = Argumentu
 m24-home-intro = Ntruduzzioni
@@ -84,8 +85,6 @@ m24-home-topic-news = Nuvità
 m24-home-topic-ai = Ntiliggenza artificiali
 m24-home-topic-ps = Privatizza e sicurizza
 m24-home-headline-you-ai-v2 = Tu, a NA e a riti — chi sta mmattennu pû veru?
-m24-home-from-hollywood-to = Di Hollywood a l’hip hop, l’artisti stannu discurrennu di l’usu dî dati nnâ NA.
-m24-home-kids-are-growing = I picciriḍḍi crìscinu lesti nnôn munnu assai cullijatu. Soccu po fari un patri o na matri chi sta accura?
 
 ## Showcase
 
@@ -102,10 +101,6 @@ m24-home-read-the-report = Leggi u papellu
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Dispusitivi sperti cu na cona d’accura.
-m24-home-privacy-not-included = *Privacy Not Included
-m24-home-pni-search-now = Riscedi ora
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, cunduttrici di IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

@@ -69,6 +69,7 @@ m24-home-donate-your-voice = ਆਪਣੀ ਆਵਾਜ਼ ਦਾਨ ਕਰੋ
 ## Media Springboard
 
 m24-home-type = ਕਿਸਮ
+# Obsolete string (expires 2026-03-13)
 m24-home-author = ਲੇਖਕ
 m24-home-topic = ਵਿਸ਼ਾ
 m24-home-intro = ਜਾਣ-ਪਛਾਣ
@@ -89,10 +90,5 @@ m24-home-read-the-report = ਰਿਪੋਰਟ ਨੂੰ ਪੜ੍ਹੋ
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = ਸਾਵਧਾਨ ਆਈਕਾਨ ਨਾਲ ਸਮਾਰਟ ਡਿਵਾਈਸ।
-m24-home-explore-issues-shaping = ਇੰਟਰਨੈਟ ਦੇ ਭਵਿੱਖ ਨੂੰ ਸ਼ਕਲ ਦੇਣ ਲਈ ਸਾਹਮਣੇ ਆ ਰਹੇ ਮਸਲਿਆਂ ਨੂੰ ਸਮਝੋ
-m24-home-privacy-not-included = *ਪਰਦੇਦਾਰੀ ਸ਼ਾਮਲ ਨਹੀਂ ਹੈ
-m24-home-pni-search-now = ਹੁਣੇ ਖੋਜੋ
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-irl-listen-now = ਹੁਣੇ ਸੁਣੋ

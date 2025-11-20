@@ -10,6 +10,7 @@ footer-refresh-learn-more-about-mozilla-ads = ສຶກສາເພີ່ມເ�
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = ສຶກສາເພີ່ມເຕີມ <span>ກ່ຽວກັບ { -brand-name-mozilla } ການໂຄສະນາ</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } ບັນທຶກການປ່ອຍ
+# Obsolete string (expires 2026-03-13)
 footer-refresh-extend-reach = ຂະຫຍາຍການເຂົ້າເຖິງ ແລະ ສ້າງຄວາມໄວ້ເນື້ອເຊື່ອໃຈໃຫ້ເລິກເຊິ່ງ.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = ຕິດຕາມ @{ -brand-name-mozilla }

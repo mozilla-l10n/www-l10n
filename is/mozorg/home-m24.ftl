@@ -86,6 +86,7 @@ m24-home-donate-your-voice = Gefðu raddsýnishorn
 ## Media Springboard
 
 m24-home-type = Tegund
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Höfundur
 m24-home-topic = Umræðuefni
 m24-home-intro = Inngangur
@@ -96,13 +97,6 @@ m24-home-topic-news = Fréttir
 m24-home-topic-ai = Gervigreind
 m24-home-topic-ps = Persónuvernd og öryggi
 m24-home-headline-you-ai-v2 = Þú, gervigreind og internetið - hvað er eiginlega í gangi?
-m24-home-introducing-anonym = Við kynnum { -brand-name-anonym }: Hækkum öll viðmið varðandi stafrænar auglýsingar sem varðveita friðhelgi einkalífsins.
-m24-home-keeping-genai-technologies = Að halda GenAI-tækni öruggri er sameiginleg ábyrgð okkar.
-m24-home-from-hollywood-to = Allt frá Hollywood yfir í hip-hop eru listamenn að semja um upplýst samþykki varðandi notkun verka sinna í gervigreind.
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } fjallar um tímamótafrumkvöðla í nýrri heimildarmyndaröð „{ -brand-name-firefox } kynnir“.
-m24-home-big-techs-power = Vald stóru tæknifyrirtækjanna yfir tungumálinu þýðir vald yfir fólki. Bridget Todd ræðir við leiðtoga tungutæknisamfélagsins sem ryður brautina fyrir gervigreindartal á þeirra eigin tungumálum og mállýskum.
-m24-home-why-does-it = Hvers vegna líður okkur svona oft eins og við séum hluti af risavaxinni tilraun á öllum almenningi með gervigreind? Hver er ábyrga leiðin til að prófa nýja tækni? Bridget Todd kannar hvað það þýðir að búa með óprófuð gervigreindarkerfi sem hafa áhrif á milljónir manna þegar þau smitast út um þjóðlífið.
-m24-home-kids-are-growing = Krakkar eru að alast upp í alveg nettengdum heimi. Hvað eiga áhyggjufullir foreldrar að gera?
 
 ## Showcase
 
@@ -123,12 +117,6 @@ m24-home-read-the-report = Lesa skýrsluna
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Snjalltæki með varúðartákn.
-m24-home-explore-issues-shaping = Skoðaðu mál sem munu móta framtíð internetsins
-m24-home-privacy-not-included = *Persónuvernd ekki innifalin
-m24-home-search-our-reviews = Leitaðu í umsögnum okkar til að sjá hvaða tæknigræjur og forrit eru að laumast í gögnin þín.
-m24-home-pni-search-now = Leita núna
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, stjórnandi IRL-hlaðvarpsins.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

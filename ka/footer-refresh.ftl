@@ -10,6 +10,7 @@ footer-refresh-learn-more-about-mozilla-ads = ვრცლად <span>იხი
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = იხილეთ ვრცლად <span>{ -brand-name-mozilla } – დარეკლამება</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } – გამოშვების შენიშვნები
+# Obsolete string (expires 2026-03-13)
 footer-refresh-extend-reach = ხელმისაწვდომობის გაფართოება და ნდობის გაღრმავება.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = გამოიწერეთ @{ -brand-name-mozilla }

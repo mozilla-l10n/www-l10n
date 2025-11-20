@@ -92,6 +92,7 @@ m24-home-donate-your-voice = Darće swój hłós
 ## Media Springboard
 
 m24-home-type = Typ
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Awtor
 m24-home-topic = Tema
 m24-home-intro = Zawjedźenje
@@ -102,13 +103,6 @@ m24-home-topic-news = Nowinki
 m24-home-topic-ai = Kumštna inteligenca
 m24-home-topic-ps = Priwatnosć a wěstota
 m24-home-headline-you-ai-v2 = Wy, KI a internet – što so woprawdźe stawa?
-m24-home-introducing-anonym = Předstajamy { -brand-name-anonym }: Předewzamy sej wysoke zaměry za digitalne wabjenje, kotrež priwatnosć škita.
-m24-home-keeping-genai-technologies = Je zhromadna zamołwitosć, technologije GenKI wěste dźeržeć.
-m24-home-from-hollywood-to = Wot Hollywooda do hiphopa, wuměłcy dojednanje KI wujednawaja.
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } pućrubarskich twórcow w nowej dokumentarnej seriji “{ -brand-name-firefox } Presents” swjeći.
-m24-home-big-techs-power = Móc wulkich technologijow nad rěču móc nad ludźimi woznamjenja. Bridget Tood k nawodam rěčnych<br>zhromadźenstwow rěči, kotřiž puć za KI hłosow w swojich rěčach a dialektach runaja.
-m24-home-why-does-it = Čehodla so tak husto čujemy, kaž bychmy dźěl masoweho eksperimenta KI byli? Što je zamołwite wašnje, zo bychmy nowe technologije testowali? Bridget Todd wuslědźuje, što woznamjenja, zo smy z njewupruwowanymi systemami KI žiwi, kotrež miliony ludźi wobwliwuja, hdyž so do zjawneho žiwjenja dóstawaja.
-m24-home-kids-are-growing = Dźěći w swěće wotrostuja, hdźež je jara wjele online. Što matej jich staršej činić?
 
 ## Showcase
 
@@ -129,12 +123,6 @@ m24-home-read-the-report = Čitajće rozprawu
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Inteligentne graty z warnowanskim symbolom.
-m24-home-explore-issues-shaping = Wuslědźće problemy, zo byšće přichod interneta tworił
-m24-home-privacy-not-included = *Priwatnosć njeje zapřijata
-m24-home-search-our-reviews = Pytajće za našimi pohódnoćenjemi, zo byšće widźał, kotre techniske pomocne srědki a nałoženja waše daty skradźu dale dawaja.
-m24-home-pni-search-now = Nětko pytać
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, host Podcast IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

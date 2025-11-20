@@ -75,6 +75,7 @@ m24-home-donate-your-voice = Lahjoita äänesi
 ## Media Springboard
 
 m24-home-type = Tyyppi
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Tekijä
 m24-home-topic = Aihe
 m24-home-intro = Johdanto
@@ -84,10 +85,6 @@ m24-home-topic-news = Uutiset
 m24-home-topic-ai = Tekoäly
 m24-home-topic-ps = Tietosuoja ja turvallisuus
 m24-home-headline-you-ai-v2 = Sinä, tekoäly ja Internet – mitä oikein on meneillään?
-m24-home-introducing-anonym = Esittelyssä { -brand-name-anonym }: Rimankohotus yksityisyyttä varjelevalle digitaaliselle mainonnalle.
-m24-home-keeping-genai-technologies = GenAI-tekniikoiden turvaaminen on yhteinen vastuu.
-m24-home-why-does-it = Miksi usein tuntuu, että olemme osa tekoälyn massakokeilua? Mikä on vastuullinen tapa testata uusia teknologioita? Bridget Todd tutkii, mitä tarkoittaa elää todentamattomien tekoälyjärjestelmien kanssa, jotka vaikuttavat miljooniin ihmisiin niiden levitessä jokapäiväiseen elämään.
-m24-home-kids-are-growing = Lapset kasvavat maailmassa, jossa verkko on keskiössä. Mitä huolestunut vanhempi voi tehdä?
 
 ## Showcase
 
@@ -101,12 +98,6 @@ m24-home-read-the-report = Lue raportti
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Älylaitteita ja huomiokuvake.
-m24-home-explore-issues-shaping = Tutki Internetin tulevaisuutta määrittäviä ongelmia
-m24-home-privacy-not-included = *Privacy Not Included
-m24-home-search-our-reviews = Etsi arvosteluistamme nähdäksesi, mitkä tekniset vempaimet ja sovellukset nuuskivat tietojasi.
-m24-home-pni-search-now = Etsi nyt
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, IRL Podcastin juontaja.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

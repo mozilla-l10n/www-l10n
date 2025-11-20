@@ -92,6 +92,7 @@ m24-home-donate-your-voice = Doneer uw stem
 ## Media Springboard
 
 m24-home-type = Type
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Auteur
 m24-home-topic = Onderwerp
 m24-home-intro = Intro
@@ -102,13 +103,6 @@ m24-home-topic-news = Nieuws
 m24-home-topic-ai = Kunstmatige intelligentie
 m24-home-topic-ps = Privacy en beveiliging
 m24-home-headline-you-ai-v2 = U, AI en het internet – wat is er echt aan de hand?
-m24-home-introducing-anonym = Nieuw: { -brand-name-anonym }: de lat hoger leggen voor privacybeschermende digitale reclame.
-m24-home-keeping-genai-technologies = Het veilig houden van GenAI-technologieën is een gedeelde verantwoordelijkheid.
-m24-home-from-hollywood-to = Van Hollywood tot hiphop, kunstenaars onderhandelen over toestemming voor AI.
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } viert baanbrekende makers in nieuwe documentaireserie ‘{ -brand-name-firefox } Presents’.
-m24-home-big-techs-power = De macht van grote technologiebedrijven over taal betekent macht over mensen. Bridget Todd praat met leiders van taalgemeenschappen en maakt de weg vrij voor spraak-AI in hun eigen taal en dialect.
-m24-home-why-does-it = Waarom voelt het zo vaak alsof we deel uitmaken van een massaal AI-experiment? Wat is de verantwoorde manier om nieuwe technologieën te testen? Bridget Todd onderzoekt wat het betekent om te leven met onbewezen AI-systemen die invloed hebben op miljoenen mensen terwijl ze in het openbare leven worden geïntroduceerd.
-m24-home-kids-are-growing = Kinderen groeien op in een zeer online wereld. Wat kan een bezorgde ouder doen?
 
 ## Showcase
 
@@ -129,12 +123,6 @@ m24-home-read-the-report = Het rapport lezen
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Slimme apparaten met waarschuwingspictogram.
-m24-home-explore-issues-shaping = Problemen met de toekomst van het internet verkennen
-m24-home-privacy-not-included = *Privacy niet inbegrepen
-m24-home-search-our-reviews = Doorzoek onze beoordelingen om te zien welke technische gadgets en apps stiekem uw gegevens gebruiken.
-m24-home-pni-search-now = Nu zoeken
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, gastvrouw van IRL-podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

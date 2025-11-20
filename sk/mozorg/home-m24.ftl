@@ -92,6 +92,7 @@ m24-home-donate-your-voice = Prispejte svojim hlasom
 ## Media Springboard
 
 m24-home-type = Typ
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Autor
 m24-home-topic = Téma
 m24-home-intro = Úvod
@@ -102,13 +103,6 @@ m24-home-topic-news = Novinky
 m24-home-topic-ai = Umelá inteligencia
 m24-home-topic-ps = Súkromie a bezpečnosť
 m24-home-headline-you-ai-v2 = Vy, AI a internet – čo sa skutočne deje?
-m24-home-introducing-anonym = Predstavujeme { -brand-name-anonym }: zvyšujeme latku digitálnej reklamy zachovávajúcej súkromie.
-m24-home-keeping-genai-technologies = Zabezpečenie technológií GenAI je spoločnou zodpovednosťou.
-m24-home-from-hollywood-to = Od Hollywoodu po hip hop umelci vyjednávajú o súhlase s AI.
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } oslavuje prelomových tvorcov v novom dokumentárnom seriáli “{ -brand-name-firefox } Presents”.
-m24-home-big-techs-power = Moc veľkých technológií nad jazykom znamená moc nad ľuďmi. Bridget Todd hovorí s lídrami jazykových komunít, ktorí pripravujú cestu pre hlasovú AI v ich vlastných jazykoch a dialektoch.
-m24-home-why-does-it = Prečo máme tak často pocit, že sme súčasťou masového AI experimentu? Aký je zodpovedný spôsob testovania nových technológií? Bridget Todd skúma, čo to znamená žiť s neoverenými systémami umelej inteligencie, ktoré ovplyvňujú milióny ľudí pri ich zavádzaní do verejného života.
-m24-home-kids-are-growing = Deti vyrastajú vo veľmi online svete. Čo má urobiť znepokojený rodič?
 
 ## Showcase
 
@@ -129,12 +123,6 @@ m24-home-read-the-report = Prečítajte si správu
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Inteligentné zariadenia s ikonou upozornenia.
-m24-home-explore-issues-shaping = Preskúmajte problémy, ktoré formujú budúcnosť internetu
-m24-home-privacy-not-included = *Na súkromie sa nepozerá
-m24-home-search-our-reviews = Vyhľadajte naše recenzie a zistite, ktoré technické gadgety a aplikácie tajne ukradnú vaše údaje.
-m24-home-pni-search-now = Hľadať teraz
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, hostiteľka IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

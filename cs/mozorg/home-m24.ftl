@@ -92,6 +92,7 @@ m24-home-donate-your-voice = Darujte svůj hlas
 ## Media Springboard
 
 m24-home-type = Typ
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Autor
 m24-home-topic = Téma
 m24-home-intro = Úvod
@@ -102,13 +103,6 @@ m24-home-topic-news = Novinky
 m24-home-topic-ai = Umělá inteligence
 m24-home-topic-ps = Soukromí a zabezpečení
 m24-home-headline-you-ai-v2 = Vy, umělá inteligence a internet – co se ve skutečnosti děje?
-m24-home-introducing-anonym = Představujeme { -brand-name-anonym }: zvedá laťku pro digitální reklamy chránící soukromí.
-m24-home-keeping-genai-technologies = Udržování technologií GenAI v bezpečí je společnou odpovědností.
-m24-home-from-hollywood-to = Umělci vyjednávají o souhlasu umělé inteligence, od Hollywoodu po hip hop.
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } oslavuje průkopnické tvůrce v nové sérii dokumentů “{ -brand-name-firefox } Presents”.
-m24-home-big-techs-power = Moc velkých technologií nad jazykem znamená moc nad lidmi. Bridget Toddová hovoří s vůdci jazykových komunit, kteří připravují půdu pro hlasovou umělou inteligenci ve svých jazycích a dialektech.
-m24-home-why-does-it = Proč máme často pocit, že jsme součástí masového experimentu s umělou inteligencí? Jaký je zodpovědný způsob testování nových technologií? Bridget Toddová zkoumá, co to znamená žít s nevyzkoušenými systémy umělé inteligence, které mají dopad na miliony lidí, když se zavádějí ve veřejném životě.
-m24-home-kids-are-growing = Děti vyrůstají ve velmi online světě. Co má dělat znepokojený rodič?
 
 ## Showcase
 
@@ -129,12 +123,6 @@ m24-home-read-the-report = Přečtěte si report
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Chytrá zařízení s ikonou upozornění.
-m24-home-explore-issues-shaping = Prozkoumejte otázky, které ovlivňují budoucnost internetu
-m24-home-privacy-not-included = *Soukromí není zahrnuto
-m24-home-search-our-reviews = Prohledejte naše recenze a zjistěte, které technologické vychytávky a aplikace skrytě odcizují vaše data.
-m24-home-pni-search-now = Hledat
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, host IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

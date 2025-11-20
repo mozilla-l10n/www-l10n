@@ -78,6 +78,7 @@ m24-home-donate-your-voice = Fa ina donaziun cun tia vusch
 ## Media Springboard
 
 m24-home-type = Tip
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Autur:a
 m24-home-topic = Tema
 m24-home-intro = Intro
@@ -88,13 +89,6 @@ m24-home-topic-news = Novas
 m24-home-topic-ai = Intelligenza artifiziala
 m24-home-topic-ps = Protecziun da datas & segirezza
 m24-home-headline-you-ai-v2 = Ti, l’IA e l’internet – tge capita propi?
-m24-home-introducing-anonym = Nus ta preschentain { -brand-name-anonym }: nus auzain il nivel da la reclama digitala che resguarda la protecziun da datas.
-m24-home-keeping-genai-technologies = Da garantir la segirezza da la tecnologia GenAI è ina responsabladad communabla.
-m24-home-from-hollywood-to = Da Hollywood fin a hip hop: artists discutan il consentiment a l’utilisaziun da las datas per l’IA.
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } celebrescha las creadras ed ils creaders innovativs cun la nova seria documentara «{ -brand-name-firefox } preschenta.»
-m24-home-big-techs-power = Il fatg ch’ils concerns da tecnologia domineschan las linguas signifitga ch’ellas controlleschan las persunas. Bridget Todd discurra cun leaders da communitads linguisticas che fan strada per IA vocala en lur linguas e dialects.
-m24-home-why-does-it = Pertge avain nus savens l’impressiun dad esser part dad in experiment da massa dad IA? Tgenina è la via responsabla per testar novas tecnologias? Bridget Todd va a fund a la dumonda co igl è da viver cun sistems dad IA nuncumprovads che pertutgan milliuns persunas perquai ch’els èn gia part da nossa vita publica.
-m24-home-kids-are-growing = Uffants creschan si en in mund adina pli digitalisà. Tge pon far geniturs preoccupads?
 
 ## Showcase
 
@@ -115,12 +109,6 @@ m24-home-read-the-report = Leger il rapport
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Apparats intelligents cun signals d’avertiment.
-m24-home-explore-issues-shaping = Explorescha las dumondas relevantas per il futur da l’internet
-m24-home-privacy-not-included = *Protecziun da datas betg inclusa
-m24-home-search-our-reviews = Dà in egliada a nossas recensiuns per vegnir a savair tge apps e gadgets tecnologics che engolan tias datas a la zuppada.
-m24-home-pni-search-now = Ussa retschertgar
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, host dal podcast IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

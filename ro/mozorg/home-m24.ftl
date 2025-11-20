@@ -92,6 +92,7 @@ m24-home-donate-your-voice = Donează-ți vocea
 ## Media Springboard
 
 m24-home-type = Tip
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Autor
 m24-home-topic = Subiect
 m24-home-intro = Introducere
@@ -102,13 +103,6 @@ m24-home-topic-news = Știri
 m24-home-topic-ai = Inteligenţă artificială
 m24-home-topic-ps = Confidențialitate și securitate
 m24-home-headline-you-ai-v2 = Tu, IA și internetul — ce se întâmplă cu adevărat?
-m24-home-introducing-anonym = Vă prezentăm { -brand-name-anonym }: Ridicăm ștacheta pentru publicitatea digitală care respectă confidențialitatea.
-m24-home-keeping-genai-technologies = Menținerea securității tehnologiilor GenAI este o responsabilitate comună.
-m24-home-from-hollywood-to = De la Hollywood la hip hop, artiștii negociază consimțământul prin IA.
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } sărbătorește creatorii inovatori în noua serie documentară „{ -brand-name-firefox } prezintă”.
-m24-home-big-techs-power = Puterea marilor companii tehnologice asupra limbajului înseamnă putere asupra oamenilor. Bridget Todd discută cu lideri ai comunităților lingvistice, deschizând calea pentru IA vocală în propriile limbi și dialecte.
-m24-home-why-does-it = De ce ni se pare atât de des că facem parte dintr-un experiment IA în masă? Care este modalitatea responsabilă de a testa noile tehnologii? Bridget Todd explorează ce înseamnă să trăiești cu sisteme IA nedemonstrate, care au impact asupra a milioane de oameni pe măsură ce sunt implementate în viața publică.
-m24-home-kids-are-growing = Copiii cresc într-o lume extrem de online. Ce ar trebui să facă un părinte preocupat?
 
 ## Showcase
 
@@ -129,12 +123,6 @@ m24-home-read-the-report = Citește raportul
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Dispozitive inteligente cu pictogramă de precauție.
-m24-home-explore-issues-shaping = Explorează problemele care modelează viitorul internetului
-m24-home-privacy-not-included = *Confidențialitatea nu este inclusă
-m24-home-search-our-reviews = Caută în recenziile noastre pentru a vedea ce gadgeturi și aplicații tehnologice îți fură datele pe ascuns.
-m24-home-pni-search-now = Caută acum
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, gazda podcastului IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

@@ -92,6 +92,7 @@ m24-home-donate-your-voice = Пожертвуйте свой голос
 ## Media Springboard
 
 m24-home-type = Тип
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Автор
 m24-home-topic = Тема
 m24-home-intro = Введение
@@ -102,13 +103,6 @@ m24-home-topic-news = Новости
 m24-home-topic-ai = Искусственный интеллект
 m24-home-topic-ps = Приватность и защита
 m24-home-headline-you-ai-v2 = Вы, ИИ и Интернет — что на самом деле происходит?
-m24-home-introducing-anonym = Представляем { -brand-name-anonym }: Поднимаем планку цифровой рекламы, сохраняющей приватность.
-m24-home-keeping-genai-technologies = Обеспечение безопасности технологий генеративного ИИ — это общая ответственность.
-m24-home-from-hollywood-to = От Голливуда до хип-хопа — художники ведут переговоры о согласии на использование искусственного интеллекта.
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } чествует новаторов в новой серии документальных фильмов «{ -brand-name-firefox } представляет».
-m24-home-big-techs-power = Власть больших технологий над языком означает власть над людьми. Бриджит Тодд беседует с лидерами языковых сообществ, прокладывая путь голосовому ИИ на их языках и диалектах.
-m24-home-why-does-it = Почему нам так часто кажется, что мы являемся частью массового эксперимента с ИИ? Что такое ответственный способ тестирования новых технологий? Бриджит Тодд исследует, что значит жить с непроверенными системами ИИ, которые влияют на миллионы людей по мере их развертывания в общественной жизни.
-m24-home-kids-are-growing = Дети вырастут в мире, где очень много Интернета. Что должен сделать обеспокоенный родитель?
 
 ## Showcase
 
@@ -129,12 +123,6 @@ m24-home-read-the-report = Прочитать отчёт
 
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Умные устройства со значком предупреждения.
-m24-home-explore-issues-shaping = Изучите проблемы, формирующие будущее Интернета
-m24-home-privacy-not-included = *Privacy Not Included
-m24-home-search-our-reviews = Поищите наши отзывы, чтобы узнать, какие технологичные устройства и приложения тайно похищают ваши данные.
-m24-home-pni-search-now = Искать сейчас
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Бриджит Тодд, ведущая подкаста IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
