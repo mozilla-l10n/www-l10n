@@ -88,6 +88,7 @@ m24-home-got-an-earlystage = Har du ett startup i tidigt skede? Presentera ditt 
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Donera din röst för att göra taltekniken mer öppen och tillgänglig för alla.
 m24-home-donate-your-voice = Donera din röst
+m24-home-our-transformation = Vår förvandling
 
 ## Media Springboard
 
