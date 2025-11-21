@@ -90,9 +90,11 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Faites don de votre voix pour rendre les technologies vocales plus inclusives et accessibles à toutes et tous.
 m24-home-donate-your-voice = Donner votre voix
 
+
 ## Media Springboard
 
 m24-home-type = Type
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Auteur
 m24-home-topic = Sujet
 m24-home-intro = Intro
@@ -100,16 +102,10 @@ m24-home-tag-article = Article
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Vidéo
 m24-home-topic-news = Nouveautés
+m24-home-topic-products = Produits
 m24-home-topic-ai = Intelligence artificielle
 m24-home-topic-ps = Confidentialité et sécurité
 m24-home-headline-you-ai-v2 = L’IA, Internet et vous — que se passe-t-il vraiment ?
-m24-home-introducing-anonym = Découvrez { -brand-name-anonym } : pour une publicité numérique respectueuse de la vie privée.
-m24-home-keeping-genai-technologies = La sécurité des technologies d’IA générative est une responsabilité partagée.
-m24-home-from-hollywood-to = De Hollywood au hip-hop, de nombreux artistes négocient pour que l’IA prenne en compte leur consentement.
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } met à l’honneur des créateurs et créatrices innovants dans sa nouvelle série documentaire « { -brand-name-firefox } Presents ».
-m24-home-big-techs-power = Le pouvoir qu’ont les géants de la tech sur le langage leur donne du pouvoir sur les individus. Bridget Todd échange avec des leaders de la communauté linguistique qui ouvrent la voie à la conception d’IA vocales dans leurs propres langues et dialectes.
-m24-home-why-does-it = Pourquoi avons-nous souvent l’impression de participer à une expérience à grande échelle sur l’IA ? Comment tester les nouvelles technologies de façon responsable ? Bridget Todd explore les conséquences de l’intrusion dans notre vie de systèmes d’IA non éprouvés, qui ont un impact sur des millions de personnes lorsqu’ils sont rendus accessibles au grand public.
-m24-home-kids-are-growing = Les enfants d’aujourd’hui grandissent dans un monde très connecté. Que peuvent faire les parents qui s’en inquiètent ?
 
 ## Showcase
 
@@ -128,16 +124,17 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se réinvente e
 m24-home-state-of-mozilla-alt = Pixel art abstrait dans des tons verts, orange et roses
 m24-home-read-the-report = Lire le rapport
 
+## Data Collective
+
+
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Des appareils connectés avec une icône d’avertissement.
-m24-home-explore-issues-shaping = Apprenez-en plus sur les problématiques qui façonnent l’avenir d’Internet
-m24-home-privacy-not-included = *Confidentialité non incluse
-m24-home-search-our-reviews = Consultez nos tests pour découvrir quels gadgets et applications volent vos données en toute discrétion.
-m24-home-pni-search-now = Faire une recherche
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, présentatrice du podcast IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Notre podcast multirécompensé vous présente les acteurs et actrices du changement qui œuvrent pour le développement d’un Internet plus sûr et d’une IA digne de confiance.
 m24-home-irl-listen-now = Écouter
+
+## Outside the Fox
+
+m24-home-fox-listen-now = Écouter

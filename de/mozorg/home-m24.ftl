@@ -90,9 +90,11 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Spende deine Stimme, um Spracherkennungstechnologien inklusiver zu gestalten und für alle zugänglich zu machen.
 m24-home-donate-your-voice = Spende deine Stimme
 
+
 ## Media Springboard
 
 m24-home-type = Typ
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Autor*in
 m24-home-topic = Thema
 m24-home-intro = Einleitung
@@ -100,16 +102,11 @@ m24-home-tag-article = Artikel
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Video
 m24-home-topic-news = Neuigkeiten
+m24-home-topic-products = Produkte
 m24-home-topic-ai = Künstliche Intelligenz
 m24-home-topic-ps = Datenschutz und Sicherheit
 m24-home-headline-you-ai-v2 = Du, KI und das Internet – was geht da wirklich ab?
-m24-home-introducing-anonym = { -brand-name-anonym }: Höhere Standards für datenschutzbewahrende digitale Werbung.
-m24-home-keeping-genai-technologies = Die Verantwortung, GenAI-Technologien sicher zu gestalten, liegt bei uns allen.
-m24-home-from-hollywood-to = Von Hollywood bis Hip-Hop, Künstler*innen verhandeln KI-Consent.
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } feiert bahnbrechende Creator*innen in der neuen Dokumentarserie „{ -brand-name-firefox } Presents“.
-m24-home-big-techs-power = Die Macht von Big Tech über die Sprache bedeutet Macht über Menschen. Bridget Todd spricht mit Führungskräften aus der Sprach-Community, die Sprach-KI in ihren eigenen Sprachen und Dialekten den Weg ebnen.
-m24-home-why-does-it = Warum fühlt es sich oft so an, als seien wir Teil eines KI-Massenexperiments? Wie können wir neue Technologien verantwortlich testen? Bridget Todd bringt in Erfahrung was es heißt, mit unerprobten KI-Systemen zu leben, die Einfluss auf Millionen von Menschen nehmen, während sie mehr und mehr Teil des öffentlichen Lebens werden.
-m24-home-kids-are-growing = Kinder, die in einer sehr digitalen Welt aufwachsen. Was können besorgte Eltern tun?
+m24-home-mozilla = { -brand-name-mozilla }
 
 ## Showcase
 
@@ -128,16 +125,17 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } erfindet sich n
 m24-home-state-of-mozilla-alt = Abstrakte Pixelkunst in grün, orange und rosa
 m24-home-read-the-report = Bericht lesen
 
+## Data Collective
+
+
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Intelligente Geräte mit Vorsicht-Icon.
-m24-home-explore-issues-shaping = Erfahre, welche Probleme die Zukunft des Internets formen
-m24-home-privacy-not-included = *Datenschutz nicht inbegriffen
-m24-home-search-our-reviews = Durchsuche unsere Bewertungen und lies nach, welche Tech-Gadgets und Apps heimlich deine Daten stehlen.
-m24-home-pni-search-now = Jetzt durchsuchen
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, Host des IRL-Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Unser mehrfach preisgekrönter Podcast stellt die Changemaker vor, die das Internet sichererer und KI vertrauenswürdiger machen wollen.
 m24-home-irl-listen-now = Jetzt anhören
+
+## Outside the Fox
+
+m24-home-fox-listen-now = Jetzt anhören

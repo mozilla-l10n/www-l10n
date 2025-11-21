@@ -10,7 +10,6 @@ footer-refresh-learn-more-about-mozilla-ads = Pelajari lebih lanjut <span>mengen
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Pelajari lebih lanjut <span>mengenai { -brand-name-mozilla } Advertising</span>
 footer-refresh-firefox-release-notes = Catatan Rilis { -brand-name-firefox }
-footer-refresh-extend-reach = Perluas jangkauan dan bangun kepercayaan yang lebih kuat.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Ikuti @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

@@ -90,9 +90,11 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = تبرّع بصوتك لِجعل تقنية الكلام أكثر شمولاً وسهولة للجميع.
 m24-home-donate-your-voice = ساهِم بصوتك
 
+
 ## Media Springboard
 
 m24-home-type = النوع
+# Obsolete string (expires 2026-03-13)
 m24-home-author = المؤلف
 m24-home-topic = الموضوع
 m24-home-intro = المقدمة
@@ -100,16 +102,11 @@ m24-home-tag-article = مقالة
 m24-home-tag-podcast = تدوين صوتي
 m24-home-tag-video = فديو
 m24-home-topic-news = أخبار
+m24-home-topic-products = المنتجات
 m24-home-topic-ai = الذكاء الاصطناعي
 m24-home-topic-ps = الخصوصية والسريّة
 m24-home-headline-you-ai-v2 = أنت والذكاء الاصطناعي والإنترنت – ما الذي يَحدث فعليًا؟
-m24-home-introducing-anonym = نُقدّم لك { -brand-name-anonym }: رفع مستوى الإعلانات الرقمية التي تحافظ على الخصوصية.
-m24-home-keeping-genai-technologies = يُعتبر الحفاظ على أمان تقنيات الذكاء الاصطناعي التوليدي مسؤولية مشتركة.
-m24-home-from-hollywood-to = من هوليوود إلى موسيقى الهيب هوب، يناقش الفنانون موافقتهم على استخدام الذكاء الاصطناعي.
-m24-home-mozilla-celebrates-groundbreaking = تحتفي { -brand-name-mozilla } بالمبدعين المبتكرين في سلسلة وثائقية جديدة بعنوان "هدايا { -brand-name-firefox } ".
-m24-home-big-techs-power = إن سيطرة شركات التقنية الكبرى على اللغة تعني السيطرة على البشر. تتحدّث بريدجيت تود مع قادة مجتمعات اللغة الذين يمهدون الطريق للذكاء الاصطناعي الصوتي بلغاتهم ولهجاتهم.
-m24-home-why-does-it = لماذا نشعر غالبًا وكأننا جزء من تجربة جماعية للذكاء الاصطناعي؟ ما الطريقة المسؤولة لاختبار التقنيات الجديدة؟ تستكشف بريدجيت تود معنى العيش مع أنظمة ذكاء اصطناعي غير مثبتة والتي تؤثر بدورها على ملايين الأشخاص عند طرحها في الحياة العامة.
-m24-home-kids-are-growing = يكبر الأطفال في عالم يتزايد فيه الاتصال عبر الإنترنت. ماذا يمكن للآباء القلقين فعله؟
+m24-home-mozilla = { -brand-name-mozilla }
 
 ## Showcase
 
@@ -128,16 +125,16 @@ m24-home-mozilla-is-reinventing-itself = تعمل { -brand-name-mozilla } على
 m24-home-state-of-mozilla-alt = صورة بكسل تجريدية بألوان الظلال الخضراء والبرتقاليّة والورديّة
 m24-home-read-the-report = اقرأ التقرير
 
+## Data Collective
+
+
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = أجهزة ذكية وبها أيقونة تحذير.
-m24-home-explore-issues-shaping = استكشف القضايا التي تشكّل مستقبل الإنترنت
-m24-home-privacy-not-included = الخصوصية غير مضمونة
-m24-home-search-our-reviews = ابحث في مراجعاتنا لاكتشاف الأجهزة والتطبيقات التي تتسلل إلى بياناتك في الخفاء.
-m24-home-pni-search-now = ابحث الآن
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = بريدجيت تود، مستضيفة بوكاست IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = يقدّم البودكاست الخاص بنا والحائز على العديد من الجوائز صانعي التغيير الذين يعملون لجعل الإنترنت أكثر أمانًا وجعل الذكاء الاصطناعي أكثر موثوقية.
 m24-home-irl-listen-now = استمع الآن
+
+## Outside the Fox
+

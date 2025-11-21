@@ -90,9 +90,11 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = 音声技術をより包摂的で誰にとっても利用しやすいものにするために、あなたの声を寄贈してください。
 m24-home-donate-your-voice = 声を寄贈する
 
+
 ## Media Springboard
 
 m24-home-type = タイプ
+# Obsolete string (expires 2026-03-13)
 m24-home-author = 著者
 m24-home-topic = トピック
 m24-home-intro = はじめに
@@ -100,16 +102,11 @@ m24-home-tag-article = 記事
 m24-home-tag-podcast = ポッドキャスト
 m24-home-tag-video = 動画
 m24-home-topic-news = ニュース
+m24-home-topic-products = 製品
 m24-home-topic-ai = 人工知能
 m24-home-topic-ps = プライバシーとセキュリティ
 m24-home-headline-you-ai-v2 = あなたと AI とインターネット — 真実の現状
-m24-home-introducing-anonym = { -brand-name-anonym } のご紹介: プライバシーを保護するデジタル広告の水準を引き上げる。
-m24-home-keeping-genai-technologies = 生成 AI の技術を安全に保つことは、共通の責任です。
-m24-home-from-hollywood-to = ハリウッドからヒップホップまで、アーティストたちは AI の同意について交渉しています。
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla }、新作ドキュメンタリーシリーズ『{ -brand-name-firefox } Presents』にて画期的なクリエイターを称賛
-m24-home-big-techs-power = 言語を支配する大手テクノロジー企業の力は、人々を支配する力です。各々の言語や方言で音声 AI の道を切り拓く言語コミュニティのリーダーたちに、Bridget Todd が話を聞きました。
-m24-home-why-does-it = よく大規模な AI 実験に巻き込まれている気がするのはなぜ？ 新しい技術をテストための責任ある方法とは？ 幾多の人々に影響を与える、実証されていない AI システムが公開され、これを共存することの意味を Bridget Todd が探ります。
-m24-home-kids-are-growing = 子供たちは、何もかもがオンラインの世界で育っています。親としてどうすればよいのでしょうか？
+m24-home-mozilla = { -brand-name-mozilla }
 
 ## Showcase
 
@@ -128,16 +125,16 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } は改革を行
 m24-home-state-of-mozilla-alt = 緑、オレンジ、ピンク色の抽象的なピクセルアート
 m24-home-read-the-report = レポートを読む
 
+## Data Collective
+
+
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = 注意アイコンが付いたスマートデバイス。
-m24-home-explore-issues-shaping = インターネットの未来を形作る課題を見る
-m24-home-privacy-not-included = *プライバシーは含まれません
-m24-home-search-our-reviews = Mozilla のレビューにて、ユーザーのデータを盗み見るテクノロジー機器やアプリを確認しましょう。
-m24-home-pni-search-now = 検索する
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = IRL ポッドキャストの話し手、ブリジット・トッド。
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = 数々の受賞歴を持つ Mozilla のポッドキャストは、インターネットをより安全に、AI をより信頼できるものにするために活動している変革者を紹介しています。
 m24-home-irl-listen-now = 聴く
+
+## Outside the Fox
+
