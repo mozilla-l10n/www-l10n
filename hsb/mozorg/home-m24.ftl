@@ -125,7 +125,9 @@ m24-home-mit-sloan-review = MIT Sloan Review
 m24-home-mit-sloan-management-review = MIT Sloan Management Review
 m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } syćowu platformu Filament financuje
 m24-home-axios = Axios
+m24-home-mozillas-new-message = Nowa powěsć { -brand-name-mozilla }: Smy jenički wobhladowak, kotryž so wot miliardarow njepodpěruje
 m24-home-fast-company = Fast Company
+m24-home-will-agi-be = Budźe AG woprawdźitosć być – a, smy my hotowi?
 m24-home-tech-policy-press = Tech Policy Press
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-silicon-angle = Silicon Angle
@@ -150,10 +152,12 @@ m24-home-read-the-report = Čitajće rozprawu
 ## Data Collective
 
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-create-curate-control = Wutworić. Wothladać. Kontrolować.
 m24-home-join-mozilla-data = { -brand-name-mozilla } Data Collective přidružić
 
 ## Issues
 
+m24-home-the-validation-machines = Přepruwowanske mašiny
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, host Podcast IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
