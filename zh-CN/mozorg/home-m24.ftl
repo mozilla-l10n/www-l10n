@@ -168,7 +168,7 @@ m24-home-join-mozilla-data = 加入 { -brand-name-mozilla } 数据收集团体
 
 ## Issues
 
-m24-home-the-validation-machines = 验证机
+m24-home-the-validation-machines = 应声机
 m24-home-in-the-atlantic = 《大西洋月刊》刊登 { -brand-name-mozilla } 首席技术官 Raffi Krikorian 的发问：为何聊天机器人与生成式AI如此热衷取悦人类，这对人类文明又意味着什么？（图片来源：《大西洋月刊》）
 # Used as an accessible text alternative for an image
 m24-home-alt-validation = 一个人看着巨大的键盘按键和迷幻的电脑屏幕
@@ -180,6 +180,6 @@ m24-home-irl-listen-now = 立即收听
 
 ## Outside the Fox
 
-m24-home-outside-the-fox = 狐狸之外
-m24-home-this-is-where = 我们将在这里探索互联网上正在发生的事情及其重要性——从为什么脏东西会接管互联网到病毒式传播的互联网文化。
+m24-home-outside-the-fox = 狐狸周遭
+m24-home-this-is-where = 这是我们探讨网络动态及其意义的空间——从“劣质内容”为何充斥互联网，到病毒式网络文化的兴起。
 m24-home-fox-listen-now = 立即收听
