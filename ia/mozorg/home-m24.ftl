@@ -94,15 +94,19 @@ m24-home-donate-your-voice = Dona tu voce
 m24-home-type = Typo
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Autor
+m24-home-author-v2 = Autor(es)
 m24-home-topic = Subjecto
 m24-home-intro = Intro
 m24-home-tag-article = Articulo
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Video
 m24-home-topic-news = Novas
+m24-home-topic-products = Productos
 m24-home-topic-ai = Intelligentia artificial
+m24-home-topic-open-source-ai = IA open source
 m24-home-topic-ps = Confidentialitate e securitate
 m24-home-headline-you-ai-v2 = Tu, IA e internet, que evenira realmente?
+m24-home-mozilla = { -brand-name-mozilla }
 
 ## Showcase
 
