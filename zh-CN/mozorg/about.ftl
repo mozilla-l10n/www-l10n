@@ -30,7 +30,7 @@ about-a-global-view = 全球视野
 about-with-offices-all-over-the = 通过<a href="{ $url }">全球各地的办公点</a>，我们以多元文化与不同背景的视角思索互联网。
 about-san-francisco = 旧金山
 about-talking-tech-issues-irl = 科技议题对话 IRL
-about-in-mozillas-multi-award-winning = 在 { -brand-name-mozilla } 多次获奖的播客节目中，主持人 Bridget Todd 同塑造未来互联网与人工智能的人们对话。
+about-in-mozillas-multi-award-winning = 在 { -brand-name-mozilla } 多次获奖的播客节目中，主持人 Bridget Todd 同塑造未来互联网与 AI 的人们对话。
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = 每年接待 <strong>2000</strong> 位不是员工的访客
 about-berlin = 柏林

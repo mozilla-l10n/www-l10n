@@ -21,11 +21,11 @@ home-product-vpn-trust = 值得信赖的 VPN
 home-cta-get-vpn = 下载 { -brand-name-mozilla-vpn }
 home-product-monitor-protect-your = 防范隐私信息落入数据代理商手中
 home-cta-get-monitor = 使用 { -brand-name-monitor }
-home-mozilla-takes-bets = “{ -brand-name-mozilla } 正致力于向世界展示一种由可信人工智能创造的商业模式，包括将人权、数据保护、透明度等作为这套复杂系统运作机制的核心要素。”
+home-mozilla-takes-bets = “{ -brand-name-mozilla } 正致力于向世界展示一种由可信 AI 创造的商业模式，包括将人权、数据保护、透明度等作为这套复杂系统运作机制的核心要素。”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = 与我们一起塑造可信 AI
-home-work-on-ai = { -brand-name-mozilla } 在 AI 方面的工作并非新鲜事——多年以来我们一直在资助、构建和倡导开放、公平、负责任的 AI。我们的重点是创造为人民服务的人工智能，优先考虑透明度和支持公共利益而非公司规划。
+home-work-on-ai = { -brand-name-mozilla } 在 AI 方面的工作并非新鲜事——多年以来我们一直在资助、构建和倡导开放、公平、负责任的 AI。我们的重点是创造为人民服务的 AI，优先考虑透明度和支持公共利益而非公司规划。
 home-read-more = 详细了解
 home-so-what-is-mozilla = { -brand-name-mozilla } 是什么？
 # Variables
@@ -39,7 +39,7 @@ home-volunteer-with-mozilla = 成为 { -brand-name-mozilla } 志愿者
 home-that-one-time = 那年，我们公开了我们的源代码…
 home-the-mozilla-project = { -brand-name-mozilla } 项目于 1998 年在旧金山启动。那时，有家公司几乎垄断了人们体验互联网的方式，而 { -brand-name-netscape } 浏览器却做出了大胆的决定，将其程序代码公开给大众开发和改进。
 home-eventually-the-open = 最终，开源的 { -brand-name-mozilla } 项目演变成广受欢迎的 { -brand-name-firefox } 第一个版本。
-home-today-mozilla-continues = 如今，{ -brand-name-mozilla } 继续与全球数百万活跃社区成员一起迈向更好的互联网，倡导注重道德的技术、可信人工智能，并创造隐私优先的产品，为人们争取更大权力。
+home-today-mozilla-continues = 如今，{ -brand-name-mozilla } 继续与全球数百万活跃社区成员一起迈向更好的互联网，倡导注重道德的技术、可信 AI，并创造隐私优先的产品，为人们争取更大权力。
 home-learn-more-about-mozilla = 深入了解 { -brand-name-mozilla }
 # VPN Feature
 home-featured-product = 精选产品

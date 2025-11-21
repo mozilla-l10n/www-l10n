@@ -169,7 +169,7 @@ m24-home-join-mozilla-data = Присоединяйтесь к { -brand-name-moz
 ## Issues
 
 m24-home-the-validation-machines = Машины валидации
-m24-home-in-the-atlantic = В The Атлантике технический директор { -brand-name-mozilla } Раффи Крикорян спрашивает, почему чат-боты и генеративный ИИ так стремятся угодить нам, и что это значит для человечества. (изображение предоставлено The Internet)
+m24-home-in-the-atlantic = В The Atlantic технический директор { -brand-name-mozilla } Раффи Крикорян спрашивает, почему чат-боты и генеративный ИИ так стремятся угодить нам, и что это значит для человечества. (изображение предоставлено The Atlantic)
 # Used as an accessible text alternative for an image
 m24-home-alt-validation = Миниатюрный человек смотрит на большую клавишу клавиатуры и гипнотизирующий экран компьютера
 # Used as an accessible text alternative for an image
@@ -181,5 +181,5 @@ m24-home-irl-listen-now = Прослушать
 ## Outside the Fox
 
 m24-home-outside-the-fox = За пределами Лисы
-m24-home-this-is-where = Здесь мы исследуем, что происходит в сети и почему это важно, от того, почему помои захватывают Интернет, до вирусного интернета.
+m24-home-this-is-where = Здесь мы исследуем, что происходит в Интернете и почему это важно, начиная с того, почему Интернет захватывают помои и заканчивая вирусной интернет-культурой.
 m24-home-fox-listen-now = Прослушать

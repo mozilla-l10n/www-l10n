@@ -116,17 +116,17 @@ m24-home-topic-ps = 隐私与安全
 m24-home-headline-you-ai-v2 = 时下实情：关于您、AI 与互联网
 m24-home-shake-to-summarize = “摇动以总结”入选《时代》周刊 2025 年度最佳发明
 m24-home-mozilla-welcomes-raffi = Raffi Krikorian 出任 { -brand-name-mozilla } 首席技术官
-m24-home-tech-target = 技术目标
+m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } 首席执行官谈开源 AI 的优势
 m24-home-introducing-thundermail-and = Thundermail 和 Thunderbird Pro 登场
-m24-home-what-comes-next = 科技的未来走向取决于选择。与我们共同抉择。
+m24-home-what-comes-next = 科技的未来走向取决于选择，让我们共同抉择。
 m24-home-how-ventures-investee = 初创公司 Germ 如何强化加密技术
 m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = “对我们来说是个好时机”：{ -brand-name-firefox } 负责人谈 AI 浏览器与网络的未来走向
-m24-home-the-guardian = 英国卫报
-m24-home-interview-take-open = 专访：将开源精神带入人工智能时代
+m24-home-the-guardian = The Guardian
+m24-home-interview-take-open = 专访：将开源精神带入 AI 时代
 # Obsolete string (expires 2026-03-20)
-m24-home-mit-sloan-review = 麻省理工学院斯隆管理学院评论
+m24-home-mit-sloan-review = MIT Sloan Review
 m24-home-mit-sloan-management-review = 麻省理工斯隆管理评论
 m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures }向 Filament 网络平台投资
 m24-home-axios = Axios
@@ -159,12 +159,12 @@ m24-home-read-the-report = 阅读报告
 
 ## Data Collective
 
-m24-home-mozilla-data-collective = { -brand-name-mozilla } 个数据集
+m24-home-mozilla-data-collective = { -brand-name-mozilla } 数据共同体
 m24-home-mozilla-create-curate-control = 创建。管理。控制。
 # Obsolete string (expires 2026-03-20)
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective 正在重建以社区为中心的 AI 数据生态系统。访问超过 300 个高质量的全球数据集由社区以透明且符合道德规范的方式构建并为社区服务。
 m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective 正在重建以社区为中心的 AI 数据生态系统。访问超过 300 个高质量的全球数据集由社区以透明且符合道德规范的方式构建并为社区服务。
-m24-home-join-mozilla-data = 加入 { -brand-name-mozilla } 数据收集团体
+m24-home-join-mozilla-data = 加入 { -brand-name-mozilla } 数据共同体
 
 ## Issues
 

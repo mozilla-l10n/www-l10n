@@ -107,6 +107,10 @@ m24-home-topic-ai = Inteligencia artificial
 m24-home-topic-open-source-ai = IA ijayvu jurujáva
 m24-home-topic-ps = Ñemigua ha Tekorosã
 m24-home-headline-you-ai-v2 = Nde, IA ha ñanduti: ¿mba’ete pe ojehuvahína?
+m24-home-shake-to-summarize = Shake oĩ apopyre iporãvévarõ 2025 arýpe TIME he’iháicha.
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } ombohupa Raffi Krikorian-pe tembiporupyahu myakãhárarõ.
+m24-home-the-guardian = The Guardian
+m24-home-mozilla = { -brand-name-mozilla }
 
 ## Showcase
 
@@ -129,3 +133,7 @@ m24-home-read-the-report = Emoñe’ẽ marandu’i
 m24-home-alt-irl-host = Bridget Todd, ohechaukáva IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-irl-listen-now = Ehendu ko’ág̃a
+
+## Outside the Fox
+
+m24-home-fox-listen-now = Ehendu Ko’ág̃a
