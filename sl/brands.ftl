@@ -310,7 +310,25 @@
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-rise25 = Rise25
--brand-name-thunderbird = Thunderbird
+-brand-name-thunderbird =
+    { $sklon ->
+        [rodilnik] Thunderbirda
+        [dajalnik] Thunderbirdu
+        [tozilnik] Thunderbird
+        [mestnik] Thunderbirdu
+        [orodnik] Thunderbirdom
+       *[imenovalnik] Thunderbird
+    }
+-brand-name-thunderbird-pro =
+    { $sklon ->
+        [rodilnik] Thunderbirda Pro
+        [dajalnik] Thunderbirdu Pro
+        [tozilnik] Thunderbird Pro
+        [mestnik] Thunderbirdu Pro
+        [orodnik] Thunderbirdom Pro
+       *[imenovalnik] Thunderbird Pro
+    }
+-brand-name-thundermail = Thundermail
 
 ## Mozilla projects (short names)
 
