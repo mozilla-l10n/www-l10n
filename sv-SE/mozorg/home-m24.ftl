@@ -89,6 +89,7 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Donera din röst för att göra taltekniken mer öppen och tillgänglig för alla.
 m24-home-donate-your-voice = Donera din röst
 m24-home-our-transformation = Vår förvandling
+m24-home-how-do-legacy = Hur kolliderar gamla värden med innovation? I det här samtalet ger Mark Surman en förhandsvisning av hur vi transformerar { -brand-name-mozilla } inför AI:s era.
 
 ## Media Springboard
 
