@@ -88,21 +88,51 @@ m24-home-got-an-earlystage = Bạn đã khởi nghiệp ở giai đoạn đầu?
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Đóng góp giọng nói của bạn để làm cho công nghệ giọng nói trở nên toàn diện hơn và dễ tiếp cận hơn đối với mọi người.
 m24-home-donate-your-voice = Đóng góp giọng nói của bạn
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Đám mây với nền màu hồng
 
 ## Media Springboard
 
 m24-home-type = Kiểu
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Tác giả
+m24-home-author-v2 = Tác giả
 m24-home-topic = Chủ đề
 m24-home-intro = Giới thiệu
 m24-home-tag-article = Bài viết
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Video
 m24-home-topic-news = Tin tức
+m24-home-topic-products = Sản phẩm
 m24-home-topic-ai = Trí tuệ nhân tạo
+m24-home-topic-open-source-ai = AI nguồn mở
 m24-home-topic-ps = Riêng tư & bảo mật
 m24-home-headline-you-ai-v2 = Bạn, AI và Internet – chuyện gì đang thực sự xảy ra?
+m24-home-shake-to-summarize = Lắc để tóm tắt những phát minh tuyệt vời nhất năm 2025 của TIME
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } chào đón Raffi Krikorian làm Giám đốc công nghệ
+m24-home-tech-target = Tech Target
+m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } CEO nói về lợi thế của AI nguồn mở
+m24-home-introducing-thundermail-and = Giới thiệu Thundermail và Thunderbird Pro
+m24-home-what-comes-next = Điều tiếp theo trong công nghệ là sự lựa chọn. Hãy lựa chọn cùng chúng tôi.
+m24-home-how-ventures-investee = Germ, công ty được Ventures Investee đầu tư, đang tăng cường mã hóa như thế nào
+m24-home-tech-crunch = Tech Crunch
+m24-home-a-good-moment = 'Một khoảnh khắc tuyệt vời cho chúng ta': { -brand-name-firefox } nói về trình duyệt AI và những gì sắp tới cho web
+m24-home-the-guardian = The Guardian
+m24-home-interview-take-open = Phỏng vấn: Đưa mã nguồn mở vào kỷ nguyên AI
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = MIT Sloan Review
+m24-home-mit-sloan-management-review = MIT Sloan Management Review
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } tài trợ vào nền tảng mạng lưới Filament
+m24-home-axios = Axios
+m24-home-mozillas-new-message = Tin nhắn mới của { -brand-name-mozilla }: Chúng tôi là trình duyệt duy nhất không do các tỷ phú hỗ trợ
+m24-home-fast-company = Fast Company
+m24-home-will-agi-be = Liệu AGI có trở thành hiện thực không — và chúng ta đã sẵn sàng chưa?
+m24-home-conversation-charting-a = Hội thoại: Lập kế hoạch tương lai để tiếp cận và đại diện
+m24-home-tech-policy-press = Tech Policy Press
+m24-home-open-by-design = Mở theo thiết kế: Các quốc gia có thể cạnh tranh như thế nào trong thời đại AI
+m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } vạch ra một lộ trình mới với bước chuyển hướng tới lợi nhuận
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -121,10 +151,29 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } đang tự đ�
 m24-home-state-of-mozilla-alt = Nghệ thuật pixel trừu tượng với các sắc thái xanh lá cây, cam và hồng
 m24-home-read-the-report = Đọc báo cáo
 
+## Data Collective
+
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-create-curate-control = Tạo. Quản lý. Kiểm soát.
+# Obsolete string (expires 2026-03-20)
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective đang xây dựng lại hệ sinh thái dữ liệu AI lấy cộng đồng làm trung tâm. Truy cập hơn 300 bộ dữ liệu toàn cầu chất lượng cao, được xây dựng bởi và dành cho cộng đồng một cách minh bạch và có đạo đức.
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective đang xây dựng lại hệ sinh thái dữ liệu AI lấy cộng đồng làm trung tâm. Truy cập hơn 300 bộ dữ liệu toàn cầu chất lượng cao, được xây dựng bởi và dành cho cộng đồng một cách minh bạch và có đạo đức.
+m24-home-join-mozilla-data = Tham gia { -brand-name-mozilla } Data Collective
+
 ## Issues
 
+m24-home-the-validation-machines = Những cỗ máy khẳng định
+m24-home-in-the-atlantic = Trên tờ The Atlantic, Giám đốc công nghệ của { -brand-name-mozilla } Raffi Krikorian đặt câu hỏi tại sao chatbot và AI tạo sinh lại háo hức làm hài lòng chúng ta đến vậy, và điều đó có ý nghĩa gì đối với nhân loại. (hình ảnh do The Atlantic cung cấp)
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = Một người tí hon đang nhìn vào một bàn phím lớn và một màn hình máy tính thôi miên
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, dẫn chương trình IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Podcast đoạt nhiều giải thưởng của chúng tôi giới thiệu những người tạo ra sự thay đổi đang nỗ lực làm cho Internet trở nên an toàn hơn và AI đáng tin cậy hơn.
 m24-home-irl-listen-now = Nghe ngay
+
+## Outside the Fox
+
+m24-home-outside-the-fox = Outside the Fox
+m24-home-this-is-where = Đây là nơi chúng tôi khám phá những gì đang diễn ra trực tuyến và lý do tại sao chúng lại quan trọng, từ lý do tại sao slop đang chiếm lĩnh internet cho đến văn hóa internet lan truyền.
+m24-home-fox-listen-now = Nghe ngay
