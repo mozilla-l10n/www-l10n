@@ -131,9 +131,11 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = Nowa powěsć { -brand-name-mozilla }: Smy jenički wobhladowak, kotryž so wot miliardarow njepodpěruje
 m24-home-fast-company = Fast Company
 m24-home-will-agi-be = Budźe AG woprawdźitosć być – a, smy my hotowi?
+m24-home-conversation-charting-a = Rozmołwa: Rysowanje přichoda do přistupa a agentury
 m24-home-tech-policy-press = Tech Policy Press
 m24-home-open-by-design = Wotewrjeny po designje: Kak narody móža so we wěku KI wubědźować
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } nowy kurs k směrej profitabelnosće
 m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
