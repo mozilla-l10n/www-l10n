@@ -88,13 +88,13 @@ m24-home-got-an-earlystage = 经营着刚起步的创业公司？请向 { -brand
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = 捐出您的声音，让语音技术能理解更多口音，使得人人可用。
 m24-home-donate-your-voice = 捐出一段声音
-m24-home-our-transformation = 我们的转变
-m24-home-how-do-legacy = 传统价值观如何与创新发生冲突在此对话中马克·苏曼预览了我们将如何推动 { -brand-name-mozilla } 进入 AI 时代。
+m24-home-our-transformation = 我们的变革
+m24-home-how-do-legacy = 当传统价值观遇上创新，会发生怎样的碰撞？在这场对话中，Mark Surman 介绍了我们正以何种方式变革 { -brand-name-mozilla }，从而拥抱 AI 时代。
 # Used as an accessible text alternative for an image
 m24-home-alt-transformation = 由马苏曼与 MBS 授予信号器
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = 粉色背景的云
-m24-home-any-agent = 任何客户端
+m24-home-any-agent = Any Agent
 m24-home-stop-wiring-tools = 别再把工具混杂在一起维持脆弱的自动化。通过您您需要的 { -brand-name-mozilla-ai-v2 } 代理平台描述您的目标我们将生成可与您的工具和流程协同工作的自适应 AI 代理。
 
 ## Media Springboard
