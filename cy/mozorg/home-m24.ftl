@@ -162,16 +162,16 @@ m24-home-read-the-report = Darllenwch yr adroddiad
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-create-curate-control = Creu. Curadu. Rheoli.
 # Obsolete string (expires 2026-03-20)
-m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Mae Data Collective yn ailadeiladu'r ecosystem ddata AI gyda chymunedau yn y canol. Cael mynediad at dros 300 o setiau data byd-eang o ansawdd uchel, wedi'u hadeiladu gan y gymuned ac ar ei chyfer mewn ffordd dryloyw a moesegol.
-m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Mae Data Collective yn ailadeiladu'r ecosystem ddata AI gyda chymunedau yn y canol. Cael mynediad at dros 300 o setiau data byd-eang o ansawdd uchel, wedi'u hadeiladu gan y gymuned ac ar ei chyfer mewn ffordd dryloyw a moesegol.
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Mae Data Collective yn ailadeiladu'r ecosystem ddata AI gyda chymunedau yn ganolog iddo. Cewch fynediad at dros 300 o setiau data byd-eang o ansawdd uchel, wedi'u hadeiladu gan y gymuned ac ar ei chyfer mewn ffordd dryloyw a moesegol.
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Mae Data Collective yn ailadeiladu'r ecosystem ddata AI gyda chymunedau yn ganolog iddo. Cewch fynediad at dros 300 o setiau data byd-eang o ansawdd uchel, wedi'u hadeiladu gan y gymuned ac ar ei chyfer mewn ffordd dryloyw a moesegol.
 m24-home-join-mozilla-data = Ymunwch â { -brand-name-mozilla } Data Collective
 
 ## Issues
 
 m24-home-the-validation-machines = Y Peiriannau Dilysu
-m24-home-in-the-atlantic = Yn The Atlantic, mae { -brand-name-mozilla } CTO Raffi Krikorian yn gofyn pam mae chatbots ac AI cynhyrchiol mor awyddus i'n plesio ni, a beth mae'n ei olygu i ddynoliaeth. (llun trwy garedigrwydd The Atlantic)
+m24-home-in-the-atlantic = Yn The Atlantic, mae { -brand-name-mozilla } CTO Raffi Krikorian yn gofyn pam mae sgwrsfotiau ac AI cynhyrchiol mor awyddus i'n plesio ni, a beth mae'n ei olygu i ddynoliaeth. (llun trwy garedigrwydd The Atlantic)
 # Used as an accessible text alternative for an image
-m24-home-alt-validation = Person bach yn edrych ar allwedd bysellfwrdd mawr a sgrin cyfrifiadur hypnoteiddio
+m24-home-alt-validation = Person bach yn edrych ar allwedd bysellfwrdd mawr a sgrin cyfrifiadur hypnoteiddiol
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, gwesteiwr Podlediad IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
@@ -181,5 +181,5 @@ m24-home-irl-listen-now = Gwrando nawr
 ## Outside the Fox
 
 m24-home-outside-the-fox = Y tu allan i'r Llwynog
-m24-home-this-is-where = Dyma lle rydyn ni'n archwilio beth sy'n digwydd ar-lein a pham ei fod yn bwysig, o pam mae slop yn cymryd drosodd y rhyngrwyd i ddiwylliant rhyngrwyd firaol.
-m24-home-fox-listen-now = Gwrandewch Nawr
+m24-home-this-is-where = Dyma lle rydyn ni'n archwilio beth sy'n digwydd ar-lein a pham ei fod yn bwysig, o pam fod slop yn cymryd drosodd y rhyngrwyd i ddiwylliant rhyngrwyd firaol.
+m24-home-fox-listen-now = Gwrandwch Nawr
