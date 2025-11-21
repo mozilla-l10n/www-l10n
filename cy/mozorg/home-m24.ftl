@@ -116,8 +116,8 @@ m24-home-topic-ps = Preifatrwydd a Diogelwch
 m24-home-headline-you-ai-v2 = Chi, AI a'r rhyngrwyd — beth sy'n digwydd mewn gwirionedd?
 m24-home-shake-to-summarize = Ysgwyd i Grynhoi yw Dyfeisiad Gorau TIME, 2025
 m24-home-mozilla-welcomes-raffi = Mae { -brand-name-mozilla } yn croesawu Raffi Krikorian fel Prif Swyddog Technoleg
-m24-home-tech-target = Targed Technoleg
-m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } Prif Swyddog Gweithredol yn sôn am fanteision AI cod agored
+m24-home-tech-target = Tech Target
+m24-home-mozilla-ai-ceo = Prif Swyddog Gweithredol { -brand-name-mozilla-ai-v2 } yn sôn am fanteision AI cod agored
 m24-home-introducing-thundermail-and = Dyma Thundermail a Thunderbird Pro
 m24-home-what-comes-next = Mae'r hyn sy'n dod nesaf mewn technoleg yn ddewis. Dewiswch gyda ni.
 m24-home-how-ventures-investee = Sut mae Ventures Investee Germ yn Cryfhau Amgryptio
@@ -131,14 +131,14 @@ m24-home-mit-sloan-management-review = Adolygiad Rheoli MIT Sloan
 m24-home-mozilla-ventures-funds = Mae { -brand-name-mozilla-ventures } yn ariannu platfform rhwydweithio Filament
 m24-home-axios = Axios
 m24-home-mozillas-new-message = Neges newydd { -brand-name-mozilla }: Ni yw'r unig borwr nad yw'n cael ei gefnogi gan biliwnyddion
-m24-home-fast-company = Cwmni Cyflym
-m24-home-will-agi-be = A Fydd AGI yn Realaeth - ac Ydym Ni'n Barod?
-m24-home-conversation-charting-a = Sgwrs: Siartio dyfodol i fynediad ac asiantaeth
-m24-home-tech-policy-press = Wasg Polisi Tech
-m24-home-open-by-design = Agor Drwy Ddyluniad: Sut y Gall Cenhedloedd Gystadlu yn Oes AI
+m24-home-fast-company = Fast Company
+m24-home-will-agi-be = Will AGI Be a Reality — and Are We Ready?
+m24-home-conversation-charting-a = Sgwrs: Charting a future to access and agency
+m24-home-tech-policy-press = Tech Policy Press
+m24-home-open-by-design = Open By Design: How Nations Can Compete in the Age of AI
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-mozilla-ai-charts = Mae { -brand-name-mozilla-ai-v2 } yn siartio cwrs newydd gyda thro tuag at broffidioldeb
-m24-home-silicon-angle = Ongl Silicon
+m24-home-mozilla-ai-charts = Mae { -brand-name-mozilla-ai-v2 } yn dilyn cwrs newydd gyda thro tuag at bod yn broffidiol
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -160,7 +160,7 @@ m24-home-read-the-report = Darllenwch yr adroddiad
 ## Data Collective
 
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
-m24-home-mozilla-create-curate-control = Creu. Curad. Rheolaeth.
+m24-home-mozilla-create-curate-control = Creu. Curadu. Rheoli.
 # Obsolete string (expires 2026-03-20)
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Mae Data Collective yn ailadeiladu'r ecosystem ddata AI gyda chymunedau yn y canol. Cael mynediad at dros 300 o setiau data byd-eang o ansawdd uchel, wedi'u hadeiladu gan y gymuned ac ar ei chyfer mewn ffordd dryloyw a moesegol.
 m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Mae Data Collective yn ailadeiladu'r ecosystem ddata AI gyda chymunedau yn y canol. Cael mynediad at dros 300 o setiau data byd-eang o ansawdd uchel, wedi'u hadeiladu gan y gymuned ac ar ei chyfer mewn ffordd dryloyw a moesegol.

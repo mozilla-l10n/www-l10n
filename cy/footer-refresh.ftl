@@ -12,7 +12,7 @@ footer-refresh-learn-more-about-mozilla-advertising = Dysgu rhagor <span>am Hysb
 footer-refresh-firefox-release-notes = Nodiadau Rhyddhau { -brand-name-firefox }
 # Obsolete string (expires 2026-03-13)
 footer-refresh-extend-reach = Ymestyn cyrhaeddiad a dyfnhau ymddiriedaeth.
-footer-refresh-add-trust-to = Ychwanegwch ymddiriedaeth at eich prynu hysbyseb.
+footer-refresh-add-trust-to = Ychwanegwch ymddiriedaeth i'ch prynu hysbysebion
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Dilyn @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
