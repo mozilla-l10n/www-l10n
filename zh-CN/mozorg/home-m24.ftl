@@ -148,7 +148,7 @@ m24-home-alt-rise25-smiling = 一位自信微笑的 { -brand-name-rise25 } 演�
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = 一位兴高采烈的 { -brand-name-rise25 } 获奖者。
 m24-home-state-of-mozilla = { -brand-name-mozilla } 状况
-m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } 正在重塑自己、围绕一系列组织进行多元化、重新构想广告业以及创建一个开源的 AI 生态系统。请在 { -brand-name-mozilla } 2024 状况报告中阅读。
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } 正在重塑自己、围绕一系列组织进行多元化、重新构想广告业，以及创建一个开源的 AI 生态系统。请在 { -brand-name-mozilla } 2024 状况报告中阅读。
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = 绿色、橙色和粉色相间的抽象像素画
 m24-home-read-the-report = 阅读报告
@@ -176,6 +176,6 @@ m24-home-irl-listen-now = 立即收听
 
 ## Outside the Fox
 
-m24-home-outside-the-fox = 狐狸四周
+m24-home-outside-the-fox = 狐顾四周
 m24-home-this-is-where = 这是我们探讨网络动态及其意义的空间——从“劣质内容”为何充斥互联网，到病毒式网络文化的兴起。
 m24-home-fox-listen-now = 立即收听

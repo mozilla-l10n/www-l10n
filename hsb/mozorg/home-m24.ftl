@@ -129,6 +129,7 @@ m24-home-mozillas-new-message = Nowa powěsć { -brand-name-mozilla }: Smy jeni�
 m24-home-fast-company = Fast Company
 m24-home-will-agi-be = Budźe AG woprawdźitosć być – a, smy my hotowi?
 m24-home-tech-policy-press = Tech Policy Press
+m24-home-open-by-design = Wotewrjeny po designje: Kak narody móža so we wěku KI wubědźować
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-silicon-angle = Silicon Angle
 
