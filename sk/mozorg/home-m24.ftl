@@ -114,6 +114,25 @@ m24-home-topic-ai = Umelá inteligencia
 m24-home-topic-open-source-ai = Umelá inteligencia s otvoreným zdrojovým kódom
 m24-home-topic-ps = Súkromie a bezpečnosť
 m24-home-headline-you-ai-v2 = Vy, AI a internet – čo sa skutočne deje?
+m24-home-tech-target = Tech Target
+m24-home-tech-crunch = Tech Crunch
+m24-home-a-good-moment = „Dobrý moment v čase pre nás“: tvorca { -brand-name-firefox(case: "gen") } o prehliadačoch s umelou inteligenciou a o tom, čo bude ďalej s webom
+m24-home-the-guardian = The Guardian
+m24-home-interview-take-open = Rozhovor: open source v ére umelej inteligencie
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = MIT Sloan Review
+m24-home-mit-sloan-management-review = MIT Sloan Management Review
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } financuje sieťovú platformu Filament
+m24-home-axios = Axios
+m24-home-mozillas-new-message = Nová správa od { -brand-name-mozilla(case: "gen") }: Sme jediný prehliadač, ktorý nepodporujú miliardári
+m24-home-fast-company = Fast Company
+m24-home-will-agi-be = Bude AGI realitou – a sme na to pripravení?
+m24-home-conversation-charting-a = Konverzácia: Plánovanie budúcnosti pre prístup a angažovanosť
+m24-home-tech-policy-press = Tech Policy Press
+m24-home-open-by-design = Otvorenosť už od návrhu: Ako môžu národy konkurovať vo veku umelej inteligencie
+m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } sa vydáva na nový kurz s obratom k ziskovosti
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -135,7 +154,15 @@ m24-home-read-the-report = Prečítajte si správu
 ## Issues
 
 # Used as an accessible text alternative for an image
+m24-home-alt-validation = Miniatúrna osoba pozerajúca sa na veľký kláves klávesnice a hypnotizujúcu obrazovku počítača
+# Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, hostiteľka IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Náš podcast, ktorý získal viacero ocenení, predstavuje tvorcov zmien, ktorí pracujú na tom, aby bol internet bezpečnejší a AI dôveryhodnejšia.
 m24-home-irl-listen-now = Vypočuť teraz
+
+## Outside the Fox
+
+m24-home-outside-the-fox = Mimo Foxu
+m24-home-this-is-where = Tu skúmame, čo sa deje online a prečo je to dôležité, od toho, prečo nezdravé jedlo ovláda internet, až po virálnu internetovú kultúru.
+m24-home-fox-listen-now = Vypočuť teraz
