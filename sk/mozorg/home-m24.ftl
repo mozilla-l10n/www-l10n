@@ -88,19 +88,30 @@ m24-home-got-an-earlystage = Začínate svoj veľký projekt? Prezentujte svoju 
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Darujte svoj hlas, aby bola rečová technológia inkluzívnejšia a prístupnejšia pre každého.
 m24-home-donate-your-voice = Prispejte svojim hlasom
+m24-home-our-transformation = Naša transformácia
+m24-home-how-do-legacy = Ako sa staré hodnoty stretávajú s inováciami? V tejto konverzácii Mark Surman načrtáva, ako transformujeme { -brand-name-mozilla(case: "acc") } pre éru umelej inteligencie.
+# Used as an accessible text alternative for an image
+m24-home-alt-transformation = Zmeňte signál s Markom Surmanom a MBS
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Oblak s ružovým pozadím
+m24-home-any-agent = Akýkoľvek agent
+m24-home-stop-wiring-tools = Prestaňte s prepojovaním nástrojov a strážením krehkých automatizácií. S platformou agentov { -brand-name-mozilla-ai-v2 } popíšete svoj cieľ a my vygenerujeme adaptívnych agentov s umelou inteligenciou, ktorí budú spolupracovať s vašimi nástrojmi a procesmi.
 
 ## Media Springboard
 
 m24-home-type = Typ
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Autor
+m24-home-author-v2 = Autori
 m24-home-topic = Téma
 m24-home-intro = Úvod
 m24-home-tag-article = Článok
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Video
 m24-home-topic-news = Novinky
+m24-home-topic-products = Produkty
 m24-home-topic-ai = Umelá inteligencia
+m24-home-topic-open-source-ai = Umelá inteligencia s otvoreným zdrojovým kódom
 m24-home-topic-ps = Súkromie a bezpečnosť
 m24-home-headline-you-ai-v2 = Vy, AI a internet – čo sa skutočne deje?
 

@@ -95,15 +95,19 @@ m24-home-our-transformation = Vår förvandling
 m24-home-type = Typ
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Författare
+m24-home-author-v2 = Författare
 m24-home-topic = Ämne
 m24-home-intro = Introduktion
 m24-home-tag-article = Artikel
 m24-home-tag-podcast = Poddsändning
 m24-home-tag-video = Video
 m24-home-topic-news = Nyheter
+m24-home-topic-products = Produkter
 m24-home-topic-ai = Artificiell intelligens
+m24-home-topic-open-source-ai = AI med öppen källkod
 m24-home-topic-ps = Sekretess & säkerhet
 m24-home-headline-you-ai-v2 = Du, AI och internet — vad är det som händer egentligen?
+m24-home-introducing-thundermail-and = Introducerar Thundermail och Thunderbird Pro
 
 ## Showcase
 
