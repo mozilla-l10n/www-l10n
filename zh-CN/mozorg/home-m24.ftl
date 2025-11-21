@@ -169,9 +169,9 @@ m24-home-join-mozilla-data = 加入 { -brand-name-mozilla } 数据收集团体
 ## Issues
 
 m24-home-the-validation-machines = 验证机
-m24-home-in-the-atlantic = 在大西洋{ -brand-name-mozilla } 的 CTO Raffi Krikorian 追问聊天机器人和生成式 AI 如此渴望取悦我们以及这对全人类意味着什么。 (图片由大西洋报提供)
+m24-home-in-the-atlantic = 《大西洋月刊》刊登 { -brand-name-mozilla } 首席技术官 Raffi Krikorian 的发问：为何聊天机器人与生成式AI如此热衷取悦人类，这对人类文明又意味着什么？（图片来源：《大西洋月刊》）
 # Used as an accessible text alternative for an image
-m24-home-alt-validation = 一个人注视着大大的键盘键和令人着迷的电脑屏幕
+m24-home-alt-validation = 一个人看着巨大的键盘按键和迷幻的电脑屏幕
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = IRL 播客主持人 Bridget Todd。
 m24-home-irl-podcast = { -brand-name-irl-podcast }
