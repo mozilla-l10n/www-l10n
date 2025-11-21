@@ -126,7 +126,7 @@ m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = 专访：将开源精神带入 AI 时代
 # Obsolete string (expires 2026-03-20)
 m24-home-mit-sloan-review = MIT Sloan Review
-m24-home-mit-sloan-management-review = 麻省理工斯隆管理评论
+m24-home-mit-sloan-management-review = MIT Sloan Management Review
 m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures }向 Filament 网络平台投资
 m24-home-axios = Axios
 m24-home-fast-company = Fast Company
