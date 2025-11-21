@@ -126,9 +126,9 @@ m24-home-a-good-moment = “我们的好机会”{ -brand-name-firefox } 聊聊 
 m24-home-the-guardian = 英国卫报
 m24-home-interview-take-open = 访谈将开源带入 AI 时代
 # Obsolete string (expires 2026-03-20)
-m24-home-mit-sloan-review = 麻省理工斯隆评论
+m24-home-mit-sloan-review = 麻省理工学院斯隆管理学院评论
 m24-home-mit-sloan-management-review = 麻省理工斯隆管理评论
-m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } 资金 Filament 网络平台
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures }向 Filament 网络平台投资
 m24-home-axios = Axios
 m24-home-mozillas-new-message = { -brand-name-mozilla } 的新消息我们是唯一没有亿万富豪支持的浏览器
 m24-home-fast-company = Fast Company
