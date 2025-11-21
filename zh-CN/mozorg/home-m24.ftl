@@ -91,7 +91,7 @@ m24-home-donate-your-voice = 捐出一段声音
 m24-home-our-transformation = 我们的变革
 m24-home-how-do-legacy = 当传统价值观遇上创新，会发生怎样的碰撞？在这场对话中，Mark Surman 介绍了我们正以何种方式变革 { -brand-name-mozilla }，从而拥抱 AI 时代。
 # Used as an accessible text alternative for an image
-m24-home-alt-transformation = 由马苏曼与 MBS 授予信号器
+m24-home-alt-transformation = Change Signal：MBS 采访 Mark Surman
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = 粉色背景的云
 m24-home-any-agent = Any Agent
