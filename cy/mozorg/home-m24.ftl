@@ -88,14 +88,14 @@ m24-home-got-an-earlystage = Oes gennych chi gwmni cychwynnol cyfnod cynnar? Cyn
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Cyfrannwch eich llais i wneud technoleg lleferydd yn fwy cynhwysol a hygyrch i bawb.
 m24-home-donate-your-voice = Cyfrannwch eich llais
-m24-home-our-transformation = Ein Trawsnewid
-m24-home-how-do-legacy = Sut mae gwerthoedd etifeddol yn gwrthdaro ag arloesi? Yn y sgwrs hon, mae Mark Surman yn rhagweld sut rydyn ni'n trawsnewid { -brand-name-mozilla } ar gyfer oes AI.
+m24-home-our-transformation = Ein Trawsnewidiad
+m24-home-how-do-legacy = Sut mae'n hen gwerthoedd yn gwrthdaro gydag arloesi? Yn y sgwrs hon, mae Mark Surman yn rhagweld sut rydyn ni'n trawsnewid { -brand-name-mozilla } ar gyfer oes AI.
 # Used as an accessible text alternative for an image
 m24-home-alt-transformation = Newid Signal gyda Mark Surman a MBS
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = Cwmwl gyda chefndir pinc
 m24-home-any-agent = Unrhyw Asiant
-m24-home-stop-wiring-tools = Stopio offer gwifrau gyda'i gilydd a gwarchod awtomatiaethau brau. Gyda'r Llwyfan Asiant { -brand-name-mozilla-ai-v2 }, rydych chi'n disgrifio'ch nod, rydyn ni'n cynhyrchu asiantau AI addasol sy'n gweithio gyda'ch offer a'ch prosesau.
+m24-home-stop-wiring-tools = Stopio weirio offer gyda'i gilydd a gwarchod awtomatiaethau brau. Gyda'r Llwyfan Asiant { -brand-name-mozilla-ai-v2 }, rydych chi'n disgrifio'ch nod, rydyn ni'n cynhyrchu asiantau AI addasol sy'n gweithio gyda'ch offer a'ch prosesau.
 
 ## Media Springboard
 
@@ -111,23 +111,23 @@ m24-home-tag-video = Fideo
 m24-home-topic-news = Newyddion
 m24-home-topic-products = Cynnyrch
 m24-home-topic-ai = Deallusrwydd Artiffisial
-m24-home-topic-open-source-ai = Ffynhonnell Agored AI
+m24-home-topic-open-source-ai = AI Cod Agored
 m24-home-topic-ps = Preifatrwydd a Diogelwch
 m24-home-headline-you-ai-v2 = Chi, AI a'r rhyngrwyd — beth sy'n digwydd mewn gwirionedd?
-m24-home-shake-to-summarize = Ysgwyd i grynhoi yn Dyfeisiadau Gorau TIME yn 2025
+m24-home-shake-to-summarize = Ysgwyd i Grynhoi yw Dyfeisiad Gorau TIME, 2025
 m24-home-mozilla-welcomes-raffi = Mae { -brand-name-mozilla } yn croesawu Raffi Krikorian fel Prif Swyddog Technoleg
-m24-home-tech-target = Targed Tech
-m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } Prif Swyddog Gweithredol yn sôn am fanteision AI ffynhonnell agored
-m24-home-introducing-thundermail-and = Cyflwyno Thundermail a Thunderbird Pro
-m24-home-what-comes-next = Yr hyn sy'n dod nesaf mewn technoleg yw dewis. Dewiswch gyda ni.
+m24-home-tech-target = Targed Technoleg
+m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } Prif Swyddog Gweithredol yn sôn am fanteision AI cod agored
+m24-home-introducing-thundermail-and = Dyma Thundermail a Thunderbird Pro
+m24-home-what-comes-next = Mae'r hyn sy'n dod nesaf mewn technoleg yn ddewis. Dewiswch gyda ni.
 m24-home-how-ventures-investee = Sut mae Ventures Investee Germ yn Cryfhau Amgryptio
-m24-home-tech-crunch = Wasgfa Dechnoleg
-m24-home-a-good-moment = ‘Enment dda mewn amser i ni’: { -brand-name-firefox } pen ar borwyr AI a beth sydd nesaf ar gyfer y we
-m24-home-the-guardian = Y Gwarcheidwad
-m24-home-interview-take-open = Cyfweliad: Mynd â Ffynhonnell Agored i'r Oes AI
+m24-home-tech-crunch = Tech Crunch
+m24-home-a-good-moment = ‘Amser da i ni’: pennaeth { -brand-name-firefox } ar borwyr AI a beth sy nesaf ar gyfer y we
+m24-home-the-guardian = The Guardian
+m24-home-interview-take-open = Cyfweliad: Taking Open Source Into the AI Era
 # Obsolete string (expires 2026-03-20)
 m24-home-mit-sloan-review = Adolygiad MIT Sloan
-m24-home-mit-sloan-management-review = Adolygiad Rheoli Sloan MIT
+m24-home-mit-sloan-management-review = Adolygiad Rheoli MIT Sloan
 m24-home-mozilla-ventures-funds = Mae { -brand-name-mozilla-ventures } yn ariannu platfform rhwydweithio Filament
 m24-home-axios = Axios
 m24-home-mozillas-new-message = Neges newydd { -brand-name-mozilla }: Ni yw'r unig borwr nad yw'n cael ei gefnogi gan biliwnyddion
