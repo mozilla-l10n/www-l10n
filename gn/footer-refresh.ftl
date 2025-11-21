@@ -12,6 +12,7 @@ footer-refresh-learn-more-about-mozilla-advertising = Eñemomaranduve <span>{ -b
 footer-refresh-firefox-release-notes = Marandu { -brand-name-firefox } rehegua
 # Obsolete string (expires 2026-03-13)
 footer-refresh-extend-reach = Embotuichave hupytyrã ha ejeroviave.
+footer-refresh-add-trust-to = Embojuaju jerovia ne ñemúme.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Ehapykueho @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

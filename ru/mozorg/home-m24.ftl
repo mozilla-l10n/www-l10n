@@ -89,9 +89,9 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Пожертвуйте свой голос, чтобы сделать голосовые технологии более инклюзивными и доступными для всех и каждого.
 m24-home-donate-your-voice = Пожертвуйте свой голос
 m24-home-our-transformation = Наша трансформация
-m24-home-how-do-legacy = Как устаревшие значения столкнулись с инновациями? В этой беседе Марк Сурман рассказывает, как мы преобразовываем { -brand-name-mozilla } в эру ИИ.
+m24-home-how-do-legacy = Как устаревшие ценности столкнулись с инновациями? В этой беседе Марк Сурман рассказывает, как мы преобразовываем { -brand-name-mozilla } в эру ИИ.
 # Used as an accessible text alternative for an image
-m24-home-alt-transformation = Измените сигнал с Марком Сурманом и Mbs
+m24-home-alt-transformation = Измените Signal с Марком Сурманом и Mbs
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = Облако на розовом фоне
 m24-home-any-agent = Любой агент
@@ -114,16 +114,16 @@ m24-home-topic-ai = Искусственный интеллект
 m24-home-topic-open-source-ai = ИИ с открытым исходным кодом
 m24-home-topic-ps = Приватность и защита
 m24-home-headline-you-ai-v2 = Вы, ИИ и Интернет — что на самом деле происходит?
-m24-home-shake-to-summarize = Встряхните, чтобы рассказать о лучших открытиях 2025 года по версии TIME
+m24-home-shake-to-summarize = Встряхнитесь, чтобы подвести итоги лучших изобретений 2025 года по версии TIME
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } приветствует Раффи Крикоряна в качестве Технического директора
-m24-home-tech-target = Техническая цель
-m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } генеральный директор рассказывает о преимуществах ИИ с открытым исходным кодом
+m24-home-tech-target = Tech Target
+m24-home-mozilla-ai-ceo = Генеральный директор { -brand-name-mozilla-ai-v2 } рассказывает о преимуществах ИИ с открытым исходным кодом
 m24-home-introducing-thundermail-and = Представляем Thundermail и Thunderbird Pro
 m24-home-what-comes-next = Что будет дальше в технологиях — это ваш выбор. Выбирайте с нами.
 m24-home-how-ventures-investee = Как венчурные инвестиции улучшают шифрование
-m24-home-tech-crunch = Технический прогресс
-m24-home-a-good-moment = «Хороший момент для нас»: { -brand-name-firefox } браузеров с ИИ и что запланировано для Интернета
-m24-home-the-guardian = TheGuardian
+m24-home-tech-crunch = Tech Crunch
+m24-home-a-good-moment = «Хороший момент для нас»: Глава { -brand-name-firefox } об ИИ-браузерах и что грядёт в интернете
+m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = Интервью: Вступая в эру открытого исходного кода, ИИ
 # Obsolete string (expires 2026-03-20)
 m24-home-mit-sloan-review = Обзор Sloan MIT

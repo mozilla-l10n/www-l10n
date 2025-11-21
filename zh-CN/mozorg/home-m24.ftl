@@ -120,11 +120,11 @@ m24-home-tech-target = 技术目标
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } 执行长畅谈开源 AI 的优势
 m24-home-introducing-thundermail-and = 介绍 Thundermail 和 Thunderbird Pro
 m24-home-what-comes-next = 科技的未来走向取决于选择。与我们共同抉择。
-m24-home-how-ventures-investee = Ventures Investee Germ 如何强化加密技术
+m24-home-how-ventures-investee = 初创公司 Germ 如何强化加密技术
 m24-home-tech-crunch = Tech Crunch
-m24-home-a-good-moment = “我们的好机会”{ -brand-name-firefox } 聊聊 AI 浏览器和 Web 的下一步发展
+m24-home-a-good-moment = “对我们来说是个好时机”：{ -brand-name-firefox } 负责人谈 AI 浏览器与网络的未来走向
 m24-home-the-guardian = 英国卫报
-m24-home-interview-take-open = 访谈将开源带入 AI 时代
+m24-home-interview-take-open = 专访：将开源精神带入人工智能时代
 # Obsolete string (expires 2026-03-20)
 m24-home-mit-sloan-review = 麻省理工学院斯隆管理学院评论
 m24-home-mit-sloan-management-review = 麻省理工斯隆管理评论

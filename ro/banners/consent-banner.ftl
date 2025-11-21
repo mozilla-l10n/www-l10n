@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
-consent-banner-heading = Ajutați-ne să vă îmbunătățim experiența cu { -brand-name-mozilla }
+consent-banner-heading = Ajută-ne să îți îmbunătățim experiența cu { -brand-name-mozilla }
 consent-banner-body-v2 = În plus față de cookie-urile necesare pentru funcționarea site-ului, îți cerem permisiunea să setăm și câteva cookie-uri suplimentare ca să îți înțelegem mai bine nevoile de navigare și să îți îmbunătățim experiența. Fii fără grijă  — îți respectăm viața privată.
 consent-banner-button-reject = Respinge toate cookie-urile suplimentare
 consent-banner-button-accept = Acceptă toate cookie-urile suplimentare
