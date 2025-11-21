@@ -119,6 +119,7 @@ m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = CEO { -brand-name-mozilla-ai-v2 } wo lěpšinach KI wotewrjeneho žórła rěči
 m24-home-introducing-thundermail-and = Předstajamy Thundermail a Thunderbird Pro
 m24-home-what-comes-next = Štož jako přichodne w technologiji přińdźe je wuběr. Wubjerće z nami.
+m24-home-how-ventures-investee = Kak přijimar inwesticijow rizikoweho kapitala Germ zaklučowanje sylni
 m24-home-tech-crunch = Tech Crunch
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = Interview: Přewzaće wotewrjeneho žórła do ery KI
