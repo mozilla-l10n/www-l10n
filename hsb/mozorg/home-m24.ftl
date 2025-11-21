@@ -88,21 +88,34 @@ m24-home-got-an-earlystage = Maće projekt w zažnej fazy? Předstajće { -brand
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Darće swój hłós, zo byšće rěčensku technologiju bóle wotewrjenu a přistupnu za wšěch činił.
 m24-home-donate-your-voice = Darće swój hłós
+m24-home-our-transformation = Naša transformacija
+m24-home-any-agent = Někajki agent
 
 ## Media Springboard
 
 m24-home-type = Typ
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Awtor
+m24-home-author-v2 = Awtorojo
 m24-home-topic = Tema
 m24-home-intro = Zawjedźenje
 m24-home-tag-article = Nastawk
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Widejo
 m24-home-topic-news = Nowinki
+m24-home-topic-products = Produkty
 m24-home-topic-ai = Kumštna inteligenca
+m24-home-topic-open-source-ai = KI wotewrjeneho žórła
 m24-home-topic-ps = Priwatnosć a wěstota
 m24-home-headline-you-ai-v2 = Wy, KI a internet – što so woprawdźe stawa?
+m24-home-tech-target = Tech Target
+m24-home-tech-crunch = Tech Crunch
+m24-home-the-guardian = The Guardian
+m24-home-axios = Axios
+m24-home-fast-company = Fast Company
+m24-home-tech-policy-press = Tech Policy Press
+m24-home-mozilla = { -brand-name-mozilla }
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -121,6 +134,10 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } so sam znowa wu
 m24-home-state-of-mozilla-alt = Abstraktne pikselowe wuměłstwo w zelenych, oranžowych a róžojtych wotsćinach
 m24-home-read-the-report = Čitajće rozprawu
 
+## Data Collective
+
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+
 ## Issues
 
 # Used as an accessible text alternative for an image
@@ -128,3 +145,7 @@ m24-home-alt-irl-host = Bridget Todd, host Podcast IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Naš wjacekróć mytowany podcast twórcow změnow předstaja, kotřiž na tym dźěłaja, internet wěsćiši a KI bóle dowěry hódnu činić.
 m24-home-irl-listen-now = Słuchajće nětko
+
+## Outside the Fox
+
+m24-home-fox-listen-now = Słuchajće nětko
