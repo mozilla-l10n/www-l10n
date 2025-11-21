@@ -89,6 +89,7 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Darće swój hłós, zo byšće rěčensku technologiju bóle wotewrjenu a přistupnu za wšěch činił.
 m24-home-donate-your-voice = Darće swój hłós
 m24-home-our-transformation = Naša transformacija
+m24-home-how-do-legacy = Kak zestarjene hódnoty z inowaciju koliduja? W tutej rozmołwje Mark Surman do toho wo tym rěči, kak { -brand-name-mozilla } za eru KI přetworjamy.
 # Used as an accessible text alternative for an image
 m24-home-alt-transformation = Změńće Signal z Markom Surmanom a MBS
 # Used as an accessible text alternative for an image
