@@ -180,6 +180,6 @@ m24-home-irl-listen-now = Gwrando nawr
 
 ## Outside the Fox
 
-m24-home-outside-the-fox = Y tu allan i'r Llwynog
+m24-home-outside-the-fox = Tu allan i'r Llwynog
 m24-home-this-is-where = Dyma lle rydyn ni'n archwilio beth sy'n digwydd ar-lein a pham ei fod yn bwysig, o pam fod slop yn cymryd drosodd y rhyngrwyd i ddiwylliant rhyngrwyd firaol.
 m24-home-fox-listen-now = Gwrandwch Nawr
