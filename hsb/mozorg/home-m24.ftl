@@ -89,6 +89,8 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Darće swój hłós, zo byšće rěčensku technologiju bóle wotewrjenu a přistupnu za wšěch činił.
 m24-home-donate-your-voice = Darće swój hłós
 m24-home-our-transformation = Naša transformacija
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Mróčel z róžowym pozadkom
 m24-home-any-agent = Někajki agent
 
 ## Media Springboard
@@ -137,6 +139,7 @@ m24-home-read-the-report = Čitajće rozprawu
 ## Data Collective
 
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-join-mozilla-data = { -brand-name-mozilla } Data Collective přidružić
 
 ## Issues
 
@@ -148,4 +151,5 @@ m24-home-irl-listen-now = Słuchajće nětko
 
 ## Outside the Fox
 
+m24-home-outside-the-fox = Zwonka liški
 m24-home-fox-listen-now = Słuchajće nětko
