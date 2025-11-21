@@ -90,6 +90,8 @@ m24-home-donate-your-voice-to-make = Darće swój hłós, zo byšće rěčensku 
 m24-home-donate-your-voice = Darće swój hłós
 m24-home-our-transformation = Naša transformacija
 # Used as an accessible text alternative for an image
+m24-home-alt-transformation = Změńće Signal z Markom Surmanom a MBS
+# Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = Mróčel z róžowym pozadkom
 m24-home-any-agent = Někajki agent
 
@@ -110,9 +112,18 @@ m24-home-topic-ai = Kumštna inteligenca
 m24-home-topic-open-source-ai = KI wotewrjeneho žórła
 m24-home-topic-ps = Priwatnosć a wěstota
 m24-home-headline-you-ai-v2 = Wy, KI a internet – što so woprawdźe stawa?
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } Raffi Krikoriana jako Chief Technology Officer wita
 m24-home-tech-target = Tech Target
+m24-home-mozilla-ai-ceo = CEO { -brand-name-mozilla-ai-v2 } wo lěpšinach KI wotewrjeneho žórła rěči
+m24-home-introducing-thundermail-and = Předstajamy Thundermail a Thunderbird Pro
+m24-home-what-comes-next = Štož jako přichodne w technologiji přińdźe je wuběr. Wubjerće z nami.
 m24-home-tech-crunch = Tech Crunch
 m24-home-the-guardian = The Guardian
+m24-home-interview-take-open = Interview: Přewzaće wotewrjeneho žórła do ery KI
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = MIT Sloan Review
+m24-home-mit-sloan-management-review = MIT Sloan Management Review
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } syćowu platformu Filament financuje
 m24-home-axios = Axios
 m24-home-fast-company = Fast Company
 m24-home-tech-policy-press = Tech Policy Press
