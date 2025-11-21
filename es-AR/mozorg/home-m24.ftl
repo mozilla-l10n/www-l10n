@@ -95,7 +95,7 @@ m24-home-alt-transformation = Change Signal con Mark Surman y MBS
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = Nube con fondo rosa
 m24-home-any-agent = Cualquier agente
-m24-home-stop-wiring-tools = Dejá de interconectar herramientas y cuidar de automatizaciones frágiles. Con { -brand-name-mozilla-ai-v2 } Agent Platform, describa su objetivo, generamos agentes de IA adaptables que trabajan con sus herramientas y procesos.
+m24-home-stop-wiring-tools = Dejá de interconectar herramientas y cuidar automatizaciones frágiles. Con { -brand-name-mozilla-ai-v2 } Agent Platform, describí tu objetivo, nosotros generamos agentes de IA adaptables que trabajan con tus herramientas y procesos.
 
 ## Media Springboard
 
@@ -114,14 +114,14 @@ m24-home-topic-ai = Inteligencia artificial
 m24-home-topic-open-source-ai = IA de código abierto
 m24-home-topic-ps = Privacidad y seguridad
 m24-home-headline-you-ai-v2 = Vos, la IA e Internet — ¿Qué es lo que realmente está pasando?
-m24-home-shake-to-summarize = Agitar para resumir en los mejores inventos de 2025 de TIME
+m24-home-shake-to-summarize = Sacudir para resumir los mejores inventos de 2025 de la revista TIME
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } da la bienvenida a Raffi Krikorian como director de tecnología
 m24-home-tech-target = Orientación tecnológica
 m24-home-mozilla-ai-ceo = El CEO de { -brand-name-mozilla-ai-v2 } habla sobre las ventajas de la IA de código abierto
 m24-home-introducing-thundermail-and = Presentamos Thundermail y Thunderbird Pro
 m24-home-what-comes-next = Lo que viene después en tecnología es una elección. Elegí con nosotros.
 m24-home-how-ventures-investee = Cómo Ventures Investee Germ está fortaleciendo el cifrado
-m24-home-tech-crunch = Crujido tecnológico
+m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = ‘Un buen momento para nosotros’: { -brand-name-firefox } cabeza en los navegadores de IA y lo que sigue para la web
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = Entrevista: Llevando el código abierto a la era de la IA
