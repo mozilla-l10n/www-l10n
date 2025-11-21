@@ -156,7 +156,7 @@ m24-home-read-the-report = 阅读报告
 ## Data Collective
 
 m24-home-mozilla-data-collective = { -brand-name-mozilla } 数据共同体
-m24-home-mozilla-create-curate-control = 创建。管理。控制。
+m24-home-mozilla-create-curate-control = 创建、策划、控制。
 # Obsolete string (expires 2026-03-20)
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective 正在重建以社区为中心的 AI 数据生态系统。访问超过 300 个高质量的全球数据集由社区以透明且符合道德规范的方式构建并为社区服务。
 m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective 正在重建以社区为中心的 AI 数据生态系统。访问超过 300 个高质量的全球数据集由社区以透明且符合道德规范的方式构建并为社区服务。
