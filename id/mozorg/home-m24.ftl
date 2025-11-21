@@ -90,9 +90,11 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Sumbangkan suara Anda agar teknologi pengucapan lebih inklusif dan dapat diakses oleh semua orang.
 m24-home-donate-your-voice = Sumbangkan suara Anda
 
+
 ## Media Springboard
 
 m24-home-type = Jenis
+# Obsolete string (expires 2026-03-13)
 m24-home-author = Penulis
 m24-home-topic = Topik
 m24-home-intro = Intro
@@ -100,16 +102,11 @@ m24-home-tag-article = Artikel
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Video
 m24-home-topic-news = Berita
+m24-home-topic-products = Produk
 m24-home-topic-ai = Kecerdasan Buatan
 m24-home-topic-ps = Privasi & Keamanan
 m24-home-headline-you-ai-v2 = Anda, AI, dan internet — apa yang sebenarnya terjadi?
-m24-home-introducing-anonym = Memperkenalkan { -brand-name-anonym }: Meningkatkan standar periklanan digital yang melindungi privasi pengguna.
-m24-home-keeping-genai-technologies = Keamanan teknologi GenAI adalah tanggung jawab kita bersama.
-m24-home-from-hollywood-to = Mulai dari Hollywood hingga dunia hip hop, para artis kini tengah menegosiasikan hak penggunaan AI.
-m24-home-mozilla-celebrates-groundbreaking = { -brand-name-mozilla } mengapresiasi para pencipta terobosan dalam serial dokumenter terbaru mereka “{ -brand-name-firefox } Presents.”
-m24-home-big-techs-power = Perusahaan teknologi besar memiliki kendali terhadap bahasa yang berarti kendali atas manusia. Bridget Todd berbicara dengan para pemimpin komunitas bahasa yang membuka jalan bagi pengembangan AI suara dalam bahasa dan dialek mereka sendiri.
-m24-home-why-does-it = Mengapa kita sering kali merasa menjadi bagian dari eksperimen AI berskala besar? Bagaimana cara menguji teknologi baru secara bertanggung jawab? Bridget Todd membahas apa artinya hidup dengan sistem AI yang belum teruji yang memengaruhi jutaan orang saat teknologi tersebut diterapkan di berbagai aspek kehidupan masyarakat.
-m24-home-kids-are-growing = Anak-anak tumbuh di dunia yang sepenuhnya terhubung dengan internet. Apa yang harus dilakukan oleh orang tua yang peduli?
+m24-home-mozilla = { -brand-name-mozilla }
 
 ## Showcase
 
@@ -128,16 +125,16 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } sedang bertrans
 m24-home-state-of-mozilla-alt = Seni piksel abstrak dengan perpaduan warna hijau, oranye, dan merah muda
 m24-home-read-the-report = Baca laporannya
 
+## Data Collective
+
+
 ## Issues
 
-# Used as an accessible text alternative for an image
-m24-home-alt-pni = Perangkat pintar dengan ikon peringatan.
-m24-home-explore-issues-shaping = Telusuri berbagai isu yang menentukan masa depan internet
-m24-home-privacy-not-included = *Privasi Tidak Termasuk
-m24-home-search-our-reviews = Telusuri ulasan kami untuk mengetahui gadget dan aplikasi teknologi yang diam-diam mengumpulkan data Anda.
-m24-home-pni-search-now = Telusuri sekarang
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, pembawa acara IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Podcast pemenang penghargaan kami menghadirkan para inovator yang berusaha menjadikan internet lebih aman dan AI lebih tepercaya.
 m24-home-irl-listen-now = Simak sekarang
+
+## Outside the Fox
+
