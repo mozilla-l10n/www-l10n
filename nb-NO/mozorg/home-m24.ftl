@@ -88,6 +88,9 @@ m24-home-got-an-earlystage = Har du en oppstartsbedrift i tidlig fase? Presenter
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Bidra med din stemme for å gjøre taleteknologi mer inkluderende og tilgjengelig for alle.
 m24-home-donate-your-voice = Bidra med din stemme
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Sky med rosa bakgrunn
+m24-home-any-agent = Enhver agent
 
 ## Media Springboard
 
@@ -103,6 +106,9 @@ m24-home-topic-news = Nyheter
 m24-home-topic-ai = Kunstig Intelligens
 m24-home-topic-ps = Personvern og sikkerhet
 m24-home-headline-you-ai-v2 = Du, AI og internett — hva skjer egentlig?
+m24-home-will-agi-be = Vil AGI bli en realitet – og er vi klare?
+m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } staker ut en ny kurs med en vending mot lønnsomhet
 
 ## Showcase
 
@@ -128,3 +134,7 @@ m24-home-alt-irl-host = Bridget Todd, programleder for IRL-podkasten.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Vår prisbelønte podkast introduserer endringsskaperne som jobber for å gjøre internett tryggere og AI mer pålitelig.
 m24-home-irl-listen-now = Lytt nå
+
+## Outside the Fox
+
+m24-home-fox-listen-now = Lytt nå
