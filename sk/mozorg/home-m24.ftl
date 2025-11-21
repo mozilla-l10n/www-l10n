@@ -114,7 +114,13 @@ m24-home-topic-ai = Umelá inteligencia
 m24-home-topic-open-source-ai = Umelá inteligencia s otvoreným zdrojovým kódom
 m24-home-topic-ps = Súkromie a bezpečnosť
 m24-home-headline-you-ai-v2 = Vy, AI a internet – čo sa skutočne deje?
+m24-home-shake-to-summarize = Funkcia 'Zatraste pre zhrnutie' v rebríčku najlepších vynálezov roku 2025 podľa časopisu TIME
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } víta Raffiho Krikoriana ako hlavného technologického riaditeľa
 m24-home-tech-target = Tech Target
+m24-home-mozilla-ai-ceo = Generálny riaditeľ { -brand-name-mozilla-ai-v2 } hovorí o výhodách open source umelej inteligencie
+m24-home-introducing-thundermail-and = Predstavujeme Thundermail a Thunderbird Pro
+m24-home-what-comes-next = Čo bude ďalej v oblasti technológií, je otázka voľby. Vyberte si s nami.
+m24-home-how-ventures-investee = Ako spoločnosť Ventures Investee Germ posilňuje šifrovanie
 m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = „Dobrý moment v čase pre nás“: tvorca { -brand-name-firefox(case: "gen") } o prehliadačoch s umelou inteligenciou a o tom, čo bude ďalej s webom
 m24-home-the-guardian = The Guardian
@@ -151,8 +157,19 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } sa znovu objavu
 m24-home-state-of-mozilla-alt = Abstraktný pixel art v odtieňoch zelenej, oranžovej a ružovej
 m24-home-read-the-report = Prečítajte si správu
 
+## Data Collective
+
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-create-curate-control = Tvor. Spravuj. Ovládaj.
+# Obsolete string (expires 2026-03-20)
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective prestavuje ekosystém dát umelej inteligencie s komunitami v centre pozornosti. Získajte prístup k viac ako 300 vysokokvalitným globálnym kolekciám údajov, ktoré boli vytvorené komunitou a pre komunitu transparentným a etickým spôsobom.
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective prestavuje ekosystém dát umelej inteligencie s komunitami v centre pozornosti. Získajte prístup k viac ako 300 vysokokvalitným globálnym kolekciám údajov, ktoré boli vytvorené komunitou a pre komunitu transparentným a etickým spôsobom.
+m24-home-join-mozilla-data = Pridajte sa k { -brand-name-mozilla } Data Collective
+
 ## Issues
 
+m24-home-the-validation-machines = Validačné stroje
+m24-home-in-the-atlantic = V denníku The Atlantic sa technický riaditeľ { -brand-name-mozilla(case: "gen") } Raffi Krikorian pýta, prečo sa chatboty a generatívna umelá inteligencia tak snažia potešiť nás a čo to znamená pre ľudstvo. (obrázok s láskavým dovolením The Atlantic)
 # Used as an accessible text alternative for an image
 m24-home-alt-validation = Miniatúrna osoba pozerajúca sa na veľký kláves klávesnice a hypnotizujúcu obrazovku počítača
 # Used as an accessible text alternative for an image
