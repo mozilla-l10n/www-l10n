@@ -113,6 +113,7 @@ m24-home-topic-ai = Kumštna inteligenca
 m24-home-topic-open-source-ai = KI wotewrjeneho žórła
 m24-home-topic-ps = Priwatnosć a wěstota
 m24-home-headline-you-ai-v2 = Wy, KI a internet – što so woprawdźe stawa?
+m24-home-shake-to-summarize = Třasće so, zo byšće w najlěpšich wunamakankach 2025 časopisa TIME zjał
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } Raffi Krikoriana jako Chief Technology Officer wita
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = CEO { -brand-name-mozilla-ai-v2 } wo lěpšinach KI wotewrjeneho žórła rěči
