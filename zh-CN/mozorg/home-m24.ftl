@@ -95,7 +95,6 @@ m24-home-alt-transformation = 由马苏曼与 MBS 授予信号器
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = 粉色背景的云
 m24-home-any-agent = Any Agent
-m24-home-stop-wiring-tools = 别再把工具混杂在一起维持脆弱的自动化。通过您您需要的 { -brand-name-mozilla-ai-v2 } 代理平台描述您的目标我们将生成可与您的工具和流程协同工作的自适应 AI 代理。
 
 ## Media Springboard
 
@@ -114,7 +113,7 @@ m24-home-topic-ai = 人工智能
 m24-home-topic-open-source-ai = 开源 AI
 m24-home-topic-ps = 隐私与安全
 m24-home-headline-you-ai-v2 = 时下实情：关于您、AI 与互联网
-m24-home-shake-to-summarize = “摇动以总结”入选《时代》周刊 2025 年度最佳发明
+m24-home-shake-to-summarize = “摇动生成摘要”入选《时代》周刊 2025 年度最佳发明
 m24-home-mozilla-welcomes-raffi = Raffi Krikorian 出任 { -brand-name-mozilla } 首席技术官
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } 首席执行官谈开源 AI 的优势
@@ -130,14 +129,11 @@ m24-home-mit-sloan-review = MIT Sloan Review
 m24-home-mit-sloan-management-review = 麻省理工斯隆管理评论
 m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures }向 Filament 网络平台投资
 m24-home-axios = Axios
-m24-home-mozillas-new-message = { -brand-name-mozilla } 的新消息我们是唯一没有亿万富豪支持的浏览器
 m24-home-fast-company = Fast Company
 m24-home-will-agi-be = 通用人工智能（AGI）会实现吗？我们准备好迎接它了吗？
-m24-home-conversation-charting-a = 对话勾勒出访问与代理的未来
 m24-home-tech-policy-press = Tech Policy Press
-m24-home-open-by-design = 开放之源的设计人工智能时代国家如何竞争
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } 开启新的盈利模式
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } 调整战略方向，转向盈利模式
 m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
