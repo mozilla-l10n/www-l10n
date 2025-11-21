@@ -180,6 +180,6 @@ m24-home-irl-listen-now = 立即收听
 
 ## Outside the Fox
 
-m24-home-outside-the-fox = 狐狸四周
+m24-home-outside-the-fox = 狐狸四下
 m24-home-this-is-where = 这是我们探讨网络动态及其意义的空间——从“劣质内容”为何充斥互联网，到病毒式网络文化的兴起。
 m24-home-fox-listen-now = 立即收听
