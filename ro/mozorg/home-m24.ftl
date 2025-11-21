@@ -88,6 +88,7 @@ m24-home-got-an-earlystage = Ai un startup la început de drum? Propune-ți comp
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Donează-ți vocea pentru a face tehnologia vorbirii mai incluzivă și mai accesibilă pentru toată lumea.
 m24-home-donate-your-voice = Donează-ți vocea
+m24-home-our-transformation = Transformarea noastră
 
 ## Media Springboard
 

@@ -12,6 +12,7 @@ footer-refresh-learn-more-about-mozilla-advertising = Află mai multe <span>desp
 footer-refresh-firefox-release-notes = Note de lansare { -brand-name-firefox }
 # Obsolete string (expires 2026-03-13)
 footer-refresh-extend-reach = Extinde acoperirea și consolidează încrederea.
+footer-refresh-add-trust-to = Adaugă încredere achiziției tale de reclame.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Urmărește @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

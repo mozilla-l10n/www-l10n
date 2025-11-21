@@ -124,20 +124,20 @@ m24-home-how-ventures-investee = Как венчурные инвестиции 
 m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = «Хороший момент для нас»: Глава { -brand-name-firefox } об ИИ-браузерах и что грядёт в интернете
 m24-home-the-guardian = The Guardian
-m24-home-interview-take-open = Интервью: Вступая в эру открытого исходного кода, ИИ
+m24-home-interview-take-open = Интервью: Переход опенсорса в ИИ-эру
 # Obsolete string (expires 2026-03-20)
-m24-home-mit-sloan-review = Обзор Sloan MIT
-m24-home-mit-sloan-management-review = Проверка управления Sloan MIT
-m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } пожертвовано сетевой платформой Filement
+m24-home-mit-sloan-review = MIT Sloan Review
+m24-home-mit-sloan-management-review = MIT Sloan Management Review
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } финансирует сетевую платформу Filament
 m24-home-axios = Axios
-m24-home-mozillas-new-message = Новое сообщение { -brand-name-mozilla }: Мы — единственный браузер, не поддерживаемый миллионерами
-m24-home-fast-company = Быстрая компания
-m24-home-will-agi-be = Станет ли Agi реальностью и готовы ли мы?
+m24-home-mozillas-new-message = Новое сообщение { -brand-name-mozilla }: Мы — единственный браузер, не поддерживаемый миллиардерами
+m24-home-fast-company = Fast Company
+m24-home-will-agi-be = Станет ли AGI реальностью — и готовы ли мы?
 m24-home-conversation-charting-a = Обсуждение: Планируем будущее доступа и агентства
-m24-home-tech-policy-press = Пресса о технической политике
-m24-home-open-by-design = Открытая по замыслу: как нации могут конкурировать в век ИИ
+m24-home-tech-policy-press = Tech Policy Press
+m24-home-open-by-design = Открытый по замыслу: как страны могут конкурировать в век ИИ
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } просматривает новый курс, повернуться к прибыльности
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } определяет новый курс, направленный на повышение прибыльности
 m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
@@ -159,12 +159,12 @@ m24-home-read-the-report = Прочитать отчёт
 
 ## Data Collective
 
-m24-home-mozilla-data-collective = { -brand-name-mozilla } коллективных данных
-m24-home-mozilla-create-curate-control = Создать. Курировать. Контрольные.
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-create-curate-control = Создавать. Курировать. Контролировать.
 # Obsolete string (expires 2026-03-20)
-m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Datacollective перестраивает экосистему данных ИИ с сообществами в центре. Получите доступ к более чем 300 высококачественным глобальным наборам данных, созданным сообществом и для сообщества, доступным и этичным способом.
-m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Datacollective перестраивает экосистему данных ИИ с сообществами в центре. Получите доступ к более чем 300 высококачественным глобальным наборам данных, созданным сообществом и для сообщества, доступным и этичным способом.
-m24-home-join-mozilla-data = Присоединиться к коллективу данных { -brand-name-mozilla }
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective перестраивает экосистему данных ИИ с сообществами в центре. Получите доступ к более чем 300 высококачественным глобальным наборам данных, созданным сообществом и для него прозрачным и этичным образом.
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective перестраивает экосистему данных ИИ с сообществами в центре. Получите доступ к более чем 300 высококачественным глобальным наборам данных, созданным сообществом и для него прозрачным и этичным образом.
+m24-home-join-mozilla-data = Присоединяйтесь к { -brand-name-mozilla } Data Collective
 
 ## Issues
 

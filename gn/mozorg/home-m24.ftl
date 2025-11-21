@@ -83,19 +83,28 @@ m24-home-got-an-earlystage = ¿Ereko peteĩ jeku’erã ñepyrũ? Ehechauka ne m
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Eme’ẽ ne ñe’ẽ tembiporupyahu ñe’ẽguáva oñakãrapu’ã hag̃ua opavave oiporukuaa hag̃uáicha.
 m24-home-donate-your-voice = Eme’ẽmína nde ayvu
+m24-home-our-transformation = Ore rekoambue
+# Used as an accessible text alternative for an image
+m24-home-alt-transformation = Tekoambue Mark Surman ha MBS ndive
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Arai hugua pytãngýva
+m24-home-any-agent = Oimeraẽva agénte
 
 ## Media Springboard
 
 m24-home-type = Peteĩchagua
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Apohára
+m24-home-author-v2 = Apoharakuéra
 m24-home-topic = Téma
 m24-home-intro = Ñepyrũgua
 m24-home-tag-article = Jehaipyre
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Ta’ãngamýi
 m24-home-topic-news = Marandu
+m24-home-topic-products = Apopyreita
 m24-home-topic-ai = Inteligencia artificial
+m24-home-topic-open-source-ai = IA ijayvu jurujáva
 m24-home-topic-ps = Ñemigua ha Tekorosã
 m24-home-headline-you-ai-v2 = Nde, IA ha ñanduti: ¿mba’ete pe ojehuvahína?
 

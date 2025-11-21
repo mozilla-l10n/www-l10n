@@ -115,10 +115,10 @@ m24-home-topic-open-source-ai = 开源 AI
 m24-home-topic-ps = 隐私与安全
 m24-home-headline-you-ai-v2 = 时下实情：关于您、AI 与互联网
 m24-home-shake-to-summarize = “摇动以总结”入选《时代》周刊 2025 年度最佳发明
-m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } 欢迎 Raffi Krikorian 出任首要技术官
+m24-home-mozilla-welcomes-raffi = Raffi Krikorian 出任 { -brand-name-mozilla } 首席技术官
 m24-home-tech-target = 技术目标
-m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } 执行长畅谈开源 AI 的优势
-m24-home-introducing-thundermail-and = 介绍 Thundermail 和 Thunderbird Pro
+m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } 首席执行官谈开源 AI 的优势
+m24-home-introducing-thundermail-and = Thundermail 和 Thunderbird Pro 登场
 m24-home-what-comes-next = 科技的未来走向取决于选择。与我们共同抉择。
 m24-home-how-ventures-investee = 初创公司 Germ 如何强化加密技术
 m24-home-tech-crunch = Tech Crunch
@@ -180,6 +180,6 @@ m24-home-irl-listen-now = 立即收听
 
 ## Outside the Fox
 
-m24-home-outside-the-fox = 狐狸周遭
+m24-home-outside-the-fox = 狐狸四周
 m24-home-this-is-where = 这是我们探讨网络动态及其意义的空间——从“劣质内容”为何充斥互联网，到病毒式网络文化的兴起。
 m24-home-fox-listen-now = 立即收听
