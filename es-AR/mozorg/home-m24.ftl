@@ -137,7 +137,7 @@ m24-home-conversation-charting-a = Conversación: Trazando un futuro para el acc
 m24-home-tech-policy-press = Tech Policy Press
 m24-home-open-by-design = Diseño abierto: cómo pueden competir las naciones en la era de la IA
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } marca un nuevo curso con un giro hacia la rentabilidad
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } marca un nuevo rumbo con un giro hacia la rentabilidad
 m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
