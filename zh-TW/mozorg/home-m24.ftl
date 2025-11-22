@@ -162,8 +162,8 @@ m24-home-read-the-report = 閱讀年報
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-create-curate-control = 建立、策展、管控。
 # Obsolete string (expires 2026-03-20)
-m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective 正在重建以社群為中心的 AI 資料生態系統。使用超過 300 組由社群所打造並為了社群透明且符合社會操守的高品質全球資料集。
-m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective 正在重建以社群為中心的 AI 資料生態系統。使用超過 300 組由社群所打造並為了社群透明且符合社會操守的高品質全球資料集。
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective 正在重建以社群為中心的 AI 資料生態系統。使用超過 300 組由社群、為了社群打造，透明且有道德的高品質全球資料集。
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective 正在重建以社群為中心的 AI 資料生態系統。使用超過 300 組由社群、為了社群打造，透明且有道德的高品質全球資料集。
 m24-home-join-mozilla-data = 加入 { -brand-name-mozilla } Data Collective
 
 ## Issues
@@ -171,7 +171,7 @@ m24-home-join-mozilla-data = 加入 { -brand-name-mozilla } Data Collective
 m24-home-the-validation-machines = The Validation Machines
 m24-home-in-the-atlantic = 在大西洋月當中{ -brand-name-mozilla } 的 CTO Raffi Krikorian 詢問為什麼聊天機器人與衍生式 AI 如此渴望取自我們以及這對人類來說代表什麼。 (圖片由大西洋網提供)
 # Used as an accessible text alternative for an image
-m24-home-alt-validation = 一個縮小版的人看著鍵盤上的大鍵子和令人著迷的電腦螢幕
+m24-home-alt-validation = 一個縮小版的人看著大按鍵和令人著迷的電腦螢幕
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = IRL Podcast 主持人 Bridget Todd。
 m24-home-irl-podcast = { -brand-name-irl-podcast }
