@@ -137,8 +137,8 @@ m24-home-conversation-charting-a = Conversación: Trazando un futuro para el acc
 m24-home-tech-policy-press = Política tecnológica Prensa
 m24-home-open-by-design = Diseño abierto: cómo pueden competir las naciones en la era de la IA
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } traza un nuevo curso con un giro hacia la rentabilidad
-m24-home-silicon-angle = Ángulo de silicio
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } marca un nuevo curso con un giro hacia la rentabilidad
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -159,10 +159,10 @@ m24-home-read-the-report = Leer el informe
 
 ## Data Collective
 
-m24-home-mozilla-data-collective = { -brand-name-mozilla } datos colectivos
-m24-home-mozilla-create-curate-control = Crear. Seleccionar. Control.
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-create-curate-control = Crear. Seleccionar. Controlar.
 # Obsolete string (expires 2026-03-20)
-m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective está reconstruyendo el ecosistema de datos de IA con las comunidades en el centro. Accedé a más de 300 conjuntos de datos globales de alta calidad, creados por y para la comunidad de una manera transparente y ética.
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective está reconstruyendo el ecosistema de datos de IA con las comunidades en el centro. Accedé a más de 300 conjuntos de datos globales de alta calidad, creados por y  para la comunidad de una manera transparente y ética.
 m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective está reconstruyendo el ecosistema de datos de IA con las comunidades en el centro. Accedé a más de 300 conjuntos de datos globales de alta calidad, creados por y para la comunidad de una manera transparente y ética.
 m24-home-join-mozilla-data = Unite a { -brand-name-mozilla } Data Collective
 
