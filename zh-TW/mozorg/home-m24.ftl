@@ -131,14 +131,14 @@ m24-home-mit-sloan-management-review = 麻省理工斯隆管理評論
 m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } 資金Filament 社交平台
 m24-home-axios = Axios
 m24-home-mozillas-new-message = { -brand-name-mozilla } 的新訊息: 我們是唯一不被億萬富豪背書的瀏覽器
-m24-home-fast-company = 快速連線
+m24-home-fast-company = Fast Company
 m24-home-will-agi-be = AGL 會成為現實嗎我們準備好了嗎
 m24-home-conversation-charting-a = 對話: 開啟存取權與代理權的未來
-m24-home-tech-policy-press = 科技政策媒體
+m24-home-tech-policy-press = Tech Policy Press
 m24-home-open-by-design = Open By Design: AI 時代的國家如何參與競爭
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } 指出未來轉向盈利的方向
-m24-home-silicon-angle = Silicon角
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -168,7 +168,7 @@ m24-home-join-mozilla-data = 加入 { -brand-name-mozilla } 資料收集體
 
 ## Issues
 
-m24-home-the-validation-machines = 驗證機器
+m24-home-the-validation-machines = The Validation Machines
 m24-home-in-the-atlantic = 在大西洋月當中{ -brand-name-mozilla } 的 CTO Raffi Krikorian 詢問為什麼聊天機器人與衍生式 AI 如此渴望取自我們以及這對人類來說代表什麼。 (圖片由大西洋網提供)
 # Used as an accessible text alternative for an image
 m24-home-alt-validation = 一個縮小版的人看著鍵盤上的大鍵子和令人著迷的電腦螢幕
@@ -176,10 +176,10 @@ m24-home-alt-validation = 一個縮小版的人看著鍵盤上的大鍵子和令
 m24-home-alt-irl-host = IRL Podcast 主持人 Bridget Todd。
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = 我們多次獲獎的 Podcast 介紹了致力讓網際網路更安全、讓 AI 更值得信賴的變革者。
-m24-home-irl-listen-now = 立刻聆聽
+m24-home-irl-listen-now = 立刻收聽
 
 ## Outside the Fox
 
-m24-home-outside-the-fox = 在狐狸之外
+m24-home-outside-the-fox = 狐狸之外
 m24-home-this-is-where = 在這裡我們探索了網路上正在發生的事情以及它們的重要性從為什麼 slip 會接管網路到病毒式傳播的網路文化。
-m24-home-fox-listen-now = 立刻聆聽
+m24-home-fox-listen-now = 立刻收聽
