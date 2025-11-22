@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/
 
 # HTML page title
-browsers-mobile-firefox-mobile-browsers-put = Mae porwyr symudol { -brand-name-firefox } yn rhoi eich preifatrwydd yn gyntaf
+browsers-mobile-firefox-mobile-browsers-put = Mae porwyr symudol { -brand-name-firefox } yn blaenoriaethu eich preifatrwydd
 # HTML page description
 browsers-mobile-overview-of-all-mobile = Trosolwg o holl borwyr symudol { -brand-name-firefox } ({ -brand-name-firefox } { -brand-name-android }, { -brand-name-firefox } { -brand-name-ios } , { -brand-name-firefox-focus })
 browsers-mobile-firefox-for-android = { -brand-name-firefox } { -brand-name-android }

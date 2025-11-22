@@ -14,7 +14,7 @@ features-private-yes-firefox-protects-your = Ydy. Mae { -brand-name-firefox } yn
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 features-private-firefox-also-protects-your = Mae { -brand-name-firefox } hefyd yn diogelu eich preifatrwydd gyda <a href="{ $url }">Diogelwch Uwch Rhag Tracio</a> i rwystro tracwyr sy'n eich dilyn o wefan i wefan, gan gasglu gwybodaeth am eich arferion pori. Mae hefyd yn cynnwys diogelwch rhag sgriptiau niweidiol a drwgwar.
-features-private-sidenote-we-are-not-big-tech = <em> Cofiwch: </em> Dydyn ni ddim yn un o'r cwmniau technoleg mawr. Rydyn ni'n gwneud pethau'n wahanol. Mae bod yn annibynnol (dim cyfranddalwyr) yn caniatáu i ni roi pobl yn gyntaf, cyn elw. Yn wahanol i gwmnïau eraill, dydyn ni ddim yn gwerthu mynediad i'ch data.
+features-private-sidenote-we-are-not-big-tech = <em> Cofiwch: </em> Dydyn ni ddim yn un o'r cwmniau technoleg mawr. Rydyn ni'n gwneud pethau'n wahanol. Mae bod yn annibynnol (dim cyfranddalwyr) yn caniatáu i ni flaenoriaethu pobl, o flaen elw. Yn wahanol i gwmnïau eraill, dydyn ni ddim yn gwerthu mynediad i'ch data.
 features-private-what-information-does-firefox = Pa wybodaeth mae { -brand-name-firefox } yn ei chasglu?
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/firefox/privacy/

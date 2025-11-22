@@ -139,3 +139,7 @@ m24-home-alt-irl-host = Bridget Todd, programledare för IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Vår flerfaldigt prisbelönta podcast introducerar beslutsfattare som arbetar för att göra internet säkrare och AI mer pålitligt.
 m24-home-irl-listen-now = Lyssna nu
+
+## Outside the Fox
+
+m24-home-fox-listen-now = Lyssna nu
