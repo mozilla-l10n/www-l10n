@@ -151,7 +151,7 @@ m24-home-alt-rise25-proud = Anrhydeddwr balch yn { -brand-name-rise25 }.
 m24-home-alt-rise25-smiling = Siaradwr hyderus sy'n gwenu yn { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Anrhydeddai llawen yn { -brand-name-rise25 }.
-m24-home-state-of-mozilla = Cyflwr { -brand-name-mozilla }
+m24-home-state-of-mozilla = Safbwynt { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = Mae { -brand-name-mozilla } yn ailddyfeisio ei hun, gan arallgyfeirio o amgylch clwstwr o sefydliadau, ail-ddychmygu hysbysebu a chreu ecosystem AI cod agored. Darllenwch amdano yn adroddiad State of { -brand-name-mozilla } 2024.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Celf picsel haniaethol mewn arlliwiau gwyrdd, oren a phinc
@@ -163,7 +163,7 @@ m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-create-curate-control = Creu. Curadu. Rheoli.
 # Obsolete string (expires 2026-03-20)
 m24-home-mozilla-data-collective-is = Mae Data Collective { -brand-name-mozilla } yn ailadeiladu'r ecosystem ddata AI gyda chymunedau yn ganolog iddo. Cewch fynediad at dros 300 o setiau data byd-eang o ansawdd uchel, wedi'u hadeiladu gan y gymuned ac ar ei chyfer mewn ffordd dryloyw a moesegol.
-m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Mae Data Collective yn ailadeiladu'r ecosystem ddata AI gyda chymunedau yn ganolog iddo. Cewch fynediad at dros 300 o setiau data byd-eang o ansawdd uchel, wedi'u hadeiladu gan y gymuned ac ar ei chyfer mewn ffordd dryloyw a moesegol.
+m24-home-mozilla-data-collective-is-v3 = Mae Data Collective { -brand-name-mozilla } yn ailadeiladu'r ecosystem ddata AI gyda chymunedau yn ganolog iddo. Cewch fynediad at dros 300 o setiau data byd-eang o ansawdd uchel, wedi'u hadeiladu gan y gymuned ac ar ei chyfer mewn ffordd dryloyw a moesegol.
 m24-home-join-mozilla-data = Ymunwch â'r { -brand-name-mozilla } Data Collective
 
 ## Issues
@@ -180,6 +180,6 @@ m24-home-irl-listen-now = Gwrando nawr
 
 ## Outside the Fox
 
-m24-home-outside-the-fox = Tu allan i'r Llwynog
+m24-home-outside-the-fox = Outside the Fox
 m24-home-this-is-where = Dyma lle rydyn ni'n archwilio beth sy'n digwydd ar-lein a pham ei fod yn bwysig, o pam fod slop yn cymryd drosodd y rhyngrwyd i ddiwylliant rhyngrwyd firaol.
 m24-home-fox-listen-now = Gwrandwch Nawr
