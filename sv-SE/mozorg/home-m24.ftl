@@ -90,6 +90,9 @@ m24-home-donate-your-voice-to-make = Donera din röst för att göra taltekniken
 m24-home-donate-your-voice = Donera din röst
 m24-home-our-transformation = Vår förvandling
 m24-home-how-do-legacy = Hur kolliderar gamla värden med innovation? I det här samtalet ger Mark Surman en förhandsvisning av hur vi transformerar { -brand-name-mozilla } inför AI:s era.
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Moln med rosa bakgrund
+m24-home-any-agent = Alla agenter
 
 ## Media Springboard
 
@@ -109,6 +112,7 @@ m24-home-topic-open-source-ai = AI med öppen källkod
 m24-home-topic-ps = Sekretess & säkerhet
 m24-home-headline-you-ai-v2 = Du, AI och internet — vad är det som händer egentligen?
 m24-home-introducing-thundermail-and = Introducerar Thundermail och Thunderbird Pro
+m24-home-the-guardian = The Guardian
 
 ## Showcase
 
