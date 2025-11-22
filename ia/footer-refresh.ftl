@@ -12,6 +12,7 @@ footer-refresh-learn-more-about-mozilla-advertising = Pro saper plus <span>re le
 footer-refresh-firefox-release-notes = Notas de version de { -brand-name-firefox }
 # Obsolete string (expires 2026-03-13)
 footer-refresh-extend-reach = Extender le portata e reinfortiar le fiducia
+footer-refresh-add-trust-to = Adde fiducia a tu compra de annuncios publicitari.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Seque @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
