@@ -20,9 +20,9 @@ vpn-landing-how-a-vpn-helps-you-v2 = Cum te ajută { -brand-name-mozilla-vpn }
 vpn-landing-keeps-your-data-safe = Îți păstrează datele în siguranță pe rețelele Wi-Fi publice
 vpn-landing-log-in-to-your-bank-or = Intri liniștit(ă) în contul bancar sau în dosarele medicale de oriunde - aeroport, cafenea sau altundeva.
 vpn-landing-blocks-advertisers-from = Împiedică agenții de publicitate să te vizeze
-vpn-landing-hide-your-activity-from = Ascunde-ți activitatea de elementele de urmărire și programele rău-intenționate ca să poți face cumpărături fără a fi supravegheat(ă).
-vpn-landing-take-control = Preia controlul cu setări VPN specifice site-urilor web
-vpn-landing-customize-your-vpn = Personalizează-ți protecțiile VPN pe fiecare site web în parte cu extensia { -brand-name-mozilla-vpn } pentru { -brand-name-firefox } (doar pentru Windows).
+vpn-landing-hide-your-activity-from = Îți ascunzi activitatea față de elementele de urmărire și programele rău-intenționate ca să poți face cumpărături fără a fi supravegheat(ă).
+vpn-landing-take-control = Preiei controlul cu setări VPN specifice site-urilor web
+vpn-landing-customize-your-vpn = Îți personalizezi protecțiile VPN pe fiecare site web în parte cu extensia { -brand-name-mozilla-vpn } pentru { -brand-name-firefox } (doar pentru Windows).
 vpn-landing-features = Funcționalități
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
