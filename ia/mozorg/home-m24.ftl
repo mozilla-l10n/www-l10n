@@ -88,6 +88,16 @@ m24-home-got-an-earlystage = Ha tu un interprisa in phase initial? Presenta tu i
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Dona tu voce pro render plus inclusive e accessibile pro totes le technologia vocal.
 m24-home-donate-your-voice = Dona tu voce
+m24-home-our-transformation = Nostre transformation
+m24-home-how-do-legacy = Como le valores ancian collide con le innovation? In iste conversation, Mark Surman previde nostre modo de transformar { -brand-name-mozilla } pro le era del IA.
+# Used as an accessible text alternative for an image
+m24-home-alt-transformation = Cambiar Signal con Mark Surman e MBS
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Nube con fundo rosate
+m24-home-any-agent = Qualcunque agente
+m24-home-stop-wiring-tools =
+    Stoppa fixar applicationes insimul e attender a automationes fragile. 
+    Con le platteforma agente { -brand-name-mozilla-ai-v2 }, tu describe tu objectivo, nos genera agentes IA adaptive que labora con tu applicationes e processos.
 
 ## Media Springboard
 
@@ -106,6 +116,9 @@ m24-home-topic-ai = Intelligentia artificial
 m24-home-topic-open-source-ai = IA open source
 m24-home-topic-ps = Confidentialitate e securitate
 m24-home-headline-you-ai-v2 = Tu, IA e internet, que evenira realmente?
+m24-home-shake-to-summarize = Agita pro resumer in le melior inventiones del TIME del 2025
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } da le benvenita a Raffi Krikorian como Functionario Responsabile del Technologia
+m24-home-tech-target = Objectivo technologic
 m24-home-mozilla = { -brand-name-mozilla }
 
 ## Showcase
