@@ -114,13 +114,13 @@ m24-home-topic-ai = Deallusrwydd Artiffisial
 m24-home-topic-open-source-ai = AI Cod Agored
 m24-home-topic-ps = Preifatrwydd a Diogelwch
 m24-home-headline-you-ai-v2 = Chi, AI a'r rhyngrwyd — beth sy'n digwydd mewn gwirionedd?
-m24-home-shake-to-summarize = Ysgwyd i Grynhoi yw Dyfeisiad Gorau TIME, 2025
+m24-home-shake-to-summarize = Ysgwyd i Grynhoi yn un o Dyfeisiadau Gorau TIME, 2025
 m24-home-mozilla-welcomes-raffi = Mae { -brand-name-mozilla } yn croesawu Raffi Krikorian fel Prif Swyddog Technoleg
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = Prif Swyddog Gweithredol { -brand-name-mozilla-ai-v2 } yn sôn am fanteision AI cod agored
 m24-home-introducing-thundermail-and = Dyma Thundermail a Thunderbird Pro
-m24-home-what-comes-next = Mae'r hyn sy'n dod nesaf mewn technoleg yn ddewis. Dewiswch gyda ni.
-m24-home-how-ventures-investee = Sut mae Ventures Investee Germ yn Cryfhau Amgryptio
+m24-home-what-comes-next = What comes next in tech is a choice. Choose with us.
+m24-home-how-ventures-investee = Sut mae Germ, Ventures Investee yn Cryfhau Amgryptio
 m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = ‘Amser da i ni’: pennaeth { -brand-name-firefox } ar borwyr AI a beth sy nesaf ar gyfer y we
 m24-home-the-guardian = The Guardian
@@ -162,7 +162,7 @@ m24-home-read-the-report = Darllenwch yr adroddiad
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-create-curate-control = Creu. Curadu. Rheoli.
 # Obsolete string (expires 2026-03-20)
-m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Mae Data Collective yn ailadeiladu'r ecosystem ddata AI gyda chymunedau yn ganolog iddo. Cewch fynediad at dros 300 o setiau data byd-eang o ansawdd uchel, wedi'u hadeiladu gan y gymuned ac ar ei chyfer mewn ffordd dryloyw a moesegol.
+m24-home-mozilla-data-collective-is = Mae Data Collective { -brand-name-mozilla } yn ailadeiladu'r ecosystem ddata AI gyda chymunedau yn gan olog iddo. Cewch fynediad at dros 300 o setiau data byd-eang o ansawdd uchel, wedi'u hadeiladu gan y gymuned ac ar ei chyfer mewn ffordd dryloyw a moesegol.
 m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Mae Data Collective yn ailadeiladu'r ecosystem ddata AI gyda chymunedau yn ganolog iddo. Cewch fynediad at dros 300 o setiau data byd-eang o ansawdd uchel, wedi'u hadeiladu gan y gymuned ac ar ei chyfer mewn ffordd dryloyw a moesegol.
 m24-home-join-mozilla-data = Ymunwch â { -brand-name-mozilla } Data Collective
 

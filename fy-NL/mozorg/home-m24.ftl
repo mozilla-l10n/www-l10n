@@ -88,21 +88,38 @@ m24-home-got-an-earlystage = Hawwe jo in start-up yn de iere faze? Promoatsje jo
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Donearje jo stim om spraaktechnology ynklusiver en foar elkenien tagonkliker te meitsjen.
 m24-home-donate-your-voice = Donearje jo stim
+m24-home-our-transformation = Us transformaasje
+m24-home-how-do-legacy = Hoe botsje âlde wearden mei ynnovaasje? Yn dit petear jout Mark Surman in foarbyld fan hoe’t wy { -brand-name-mozilla } transformearje foar it tiidrek fan AI.
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Wolk mei rôze eftergrûn
+m24-home-any-agent = Elke agent
+m24-home-stop-wiring-tools = Stopje mei it oaninoar gearfoegjen fan ark en it oppassen op brosse automatisearringen. Mei it { -brand-name-mozilla-ai-v2 }-agentpplatfosrm beskriuwe jo jo doel, wy generearje adaptive AI-agents dy’t wurkje mei jo ark en prosessen.
 
 ## Media Springboard
 
 m24-home-type = Type
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Skriuwer
+m24-home-author-v2 = Auteur(s)
 m24-home-topic = Underwerp
 m24-home-intro = Yntro
 m24-home-tag-article = Artikel
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Fideo
 m24-home-topic-news = Nijs
+m24-home-topic-products = Produkten
 m24-home-topic-ai = Keunstmjittige yntelliginsje
+m24-home-topic-open-source-ai = Opensource-AI
 m24-home-topic-ps = Privacy en befeiliging
 m24-home-headline-you-ai-v2 = Jo, AI en it ynternet – wat bart der echt?
+m24-home-shake-to-summarize = Skodzje om gear te fetsjen yn TIME’s bêste útfiningen fan 2025
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } hjit Raffi Krikorian wolkom as Chief Technology Officer
+m24-home-tech-target = Tech-doelstelling
+m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 }-CEO praat oer foardielen fan iepenboarne-AI
+m24-home-introducing-thundermail-and = Nij: Thundermail en Thunderbird Pro
+m24-home-what-comes-next = Wat hjirnei komt yn technology is in kar. Kies mei ús.
+m24-home-how-ventures-investee = Hoe Ventures Investee Germ fersifering fersterket
+m24-home-tech-crunch = Tech Crunch
 m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } bringt in nije koers út mei in draai nei winstjouwens
 m24-home-silicon-angle = SiliconANGLE
 
@@ -127,11 +144,25 @@ m24-home-read-the-report = It rapport lêze
 
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-create-curate-control = Meitsje. Beheare. Behearskje.
+# Obsolete string (expires 2026-03-20)
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective bout it AI-gegevens-ekosysteem opnij op mei mienskippen yn it sintrum. Krij tagong ta mear as 300 wrâldwide gegevenssets fan hege kwaliteit, boud troch en foar de mienskip op in transparante en etyske manier.
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective bout it AI-gegevens-ekosysteem opnij op mei mienskippen yn it sintrum. Krij tagong ta mear as 300 wrâldwide gegevenssets fan hege kwaliteit, boud troch en foar de mienskip op in transparante en etyske manier.
+m24-home-join-mozilla-data = Doch mei mei { -brand-name-mozilla } Data Collective
 
 ## Issues
 
+m24-home-the-validation-machines = The Validation Machines
+m24-home-in-the-atlantic = Yn The Atlantic freget Raffi Krikorian, CTO fan { -brand-name-mozilla }, wêrom’t chatbots en generative AI sa graach ús tefreden stelle wolle, en wat it betsjut foar de minskheid. (ôfbylding mei tank oan The Atlantic)
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = In miniatuerpersoan dy’t nei in grutte toetseboerdtoets en in hypnotisearjend kompjûterskerm sjocht
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, gastfrou fan IRL-podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Us meardere kearen priiswinnende podcast yntrodusearret de makkers fan feroaring dy't wurkje om it ynternet feiliger en AI betrouberder te meitsjen.
 m24-home-irl-listen-now = No harkje
+
+## Outside the Fox
+
+m24-home-outside-the-fox = Outside the Fox
+m24-home-this-is-where = Hjir ûndersykje wy wat der online bart en wêrom’t it wichtich is, fan wêrom’t ûnferskilligens it ynternet oernimt oant firale ynternetkultuer.
+m24-home-fox-listen-now = No harkje

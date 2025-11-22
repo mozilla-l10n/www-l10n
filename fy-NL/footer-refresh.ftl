@@ -12,6 +12,7 @@ footer-refresh-learn-more-about-mozilla-advertising = Mear <span>oer { -brand-na
 footer-refresh-firefox-release-notes = { -brand-name-firefox }útjefteopmerkingen
 # Obsolete string (expires 2026-03-13)
 footer-refresh-extend-reach = Fergrutsje it berik en ferdjipje it fertrouwen.
+footer-refresh-add-trust-to = Foegje fertrouwen ta oan jo advertinsjeoankeap.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } folgje
 footer-refresh-instagram = Instagram
