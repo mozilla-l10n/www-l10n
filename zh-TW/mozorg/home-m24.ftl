@@ -128,11 +128,11 @@ m24-home-interview-take-open = 採訪: 帶領開源進入 AI 時代
 # Obsolete string (expires 2026-03-20)
 m24-home-mit-sloan-review = MIT Sloan Review
 m24-home-mit-sloan-management-review = MIT Sloan Management Review
-m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } 資金Filament 社交平台
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } 資助 Filament 社交平台
 m24-home-axios = Axios
 m24-home-mozillas-new-message = { -brand-name-mozilla } 的新訊息: 我們是唯一不被億萬富豪背書的瀏覽器
 m24-home-fast-company = Fast Company
-m24-home-will-agi-be = AGL 會成為現實嗎我們準備好了嗎
+m24-home-will-agi-be = AGI 會成為現實嗎？而我們又準備好了嗎？
 m24-home-conversation-charting-a = 對話: 開啟存取權與代理權的未來
 m24-home-tech-policy-press = Tech Policy Press
 m24-home-open-by-design = Open By Design: AI 時代的國家如何參與競爭
