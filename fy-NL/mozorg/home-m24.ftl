@@ -103,6 +103,8 @@ m24-home-topic-news = Nijs
 m24-home-topic-ai = Keunstmjittige yntelliginsje
 m24-home-topic-ps = Privacy en befeiliging
 m24-home-headline-you-ai-v2 = Jo, AI en it ynternet – wat bart der echt?
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } bringt in nije koers út mei in draai nei winstjouwens
+m24-home-silicon-angle = SiliconANGLE
 
 ## Showcase
 
@@ -120,6 +122,11 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } fynt harsels op
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstrakte pikselkeunst yn skaden fan grien, oranje en rôze
 m24-home-read-the-report = It rapport lêze
+
+## Data Collective
+
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-create-curate-control = Meitsje. Beheare. Behearskje.
 
 ## Issues
 
