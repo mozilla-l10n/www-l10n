@@ -122,22 +122,22 @@ m24-home-introducing-thundermail-and = 隆重推出 Thundermail 與 Thunderbird 
 m24-home-what-comes-next = 科技界的未來需要選擇。與我們一起選擇。
 m24-home-how-ventures-investee = 被投資企業germ 如何加強加密技術
 m24-home-tech-crunch = TechCrunch
-m24-home-a-good-moment = 「好時光」: { -brand-name-firefox } AI 瀏覽器與 Web 的未來發展
+m24-home-a-good-moment = 「我們的好時光」：{ -brand-name-firefox } 主管探討 AI 瀏覽器與 Web 的未來發展
 m24-home-the-guardian = 衛報
-m24-home-interview-take-open = 採訪: 帶領開源進入 AI 時代
+m24-home-interview-take-open = 採訪：帶領開放原始碼進入 AI 時代
 # Obsolete string (expires 2026-03-20)
 m24-home-mit-sloan-review = MIT Sloan Review
 m24-home-mit-sloan-management-review = MIT Sloan Management Review
 m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } 資助 Filament 社交平台
 m24-home-axios = Axios
-m24-home-mozillas-new-message = { -brand-name-mozilla } 的新訊息: 我們是唯一不被億萬富豪背書的瀏覽器
+m24-home-mozillas-new-message = { -brand-name-mozilla } 的新訊息：我們是唯一不由億萬富豪在背後支持的瀏覽器
 m24-home-fast-company = Fast Company
 m24-home-will-agi-be = AGI 會成為現實嗎？而我們又準備好了嗎？
-m24-home-conversation-charting-a = 對話: 開啟存取權與代理權的未來
+m24-home-conversation-charting-a = 對話：設計存取權與代理權的未來
 m24-home-tech-policy-press = Tech Policy Press
-m24-home-open-by-design = Open By Design: AI 時代的國家如何參與競爭
+m24-home-open-by-design = Open By Design：AI 時代各國如何競爭
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } 指出未來轉向盈利的方向
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } 規劃出邁向盈利的新方向
 m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
@@ -159,12 +159,12 @@ m24-home-read-the-report = 閱讀年報
 
 ## Data Collective
 
-m24-home-mozilla-data-collective = { -brand-name-mozilla } 資料收集
-m24-home-mozilla-create-curate-control = 建立。策展。控制。
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-create-curate-control = 建立、策展、管控。
 # Obsolete string (expires 2026-03-20)
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective 正在重建以社群為中心的 AI 資料生態系統。使用超過 300 組由社群所打造並為了社群透明且符合社會操守的高品質全球資料集。
 m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective 正在重建以社群為中心的 AI 資料生態系統。使用超過 300 組由社群所打造並為了社群透明且符合社會操守的高品質全球資料集。
-m24-home-join-mozilla-data = 加入 { -brand-name-mozilla } 資料收集體
+m24-home-join-mozilla-data = 加入 { -brand-name-mozilla } Data Collective
 
 ## Issues
 
