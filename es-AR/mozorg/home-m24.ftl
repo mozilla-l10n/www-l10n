@@ -116,7 +116,7 @@ m24-home-topic-ps = Privacidad y seguridad
 m24-home-headline-you-ai-v2 = Vos, la IA e Internet — ¿Qué es lo que realmente está pasando?
 m24-home-shake-to-summarize = Sacudir para resumir los mejores inventos de 2025 de la revista TIME
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } da la bienvenida a Raffi Krikorian como director de tecnología
-m24-home-tech-target = Orientación tecnológica
+m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = El CEO de { -brand-name-mozilla-ai-v2 } habla sobre las ventajas de la IA de código abierto
 m24-home-introducing-thundermail-and = Presentamos Thundermail y Thunderbird Pro
 m24-home-what-comes-next = Lo que viene después en tecnología es una elección. Elegí con nosotros.
@@ -168,7 +168,7 @@ m24-home-join-mozilla-data = Unite a { -brand-name-mozilla } Data Collective
 
 ## Issues
 
-m24-home-the-validation-machines = Las máquinas de validación
+m24-home-the-validation-machines = The Validation Machines
 m24-home-in-the-atlantic = En The Atlantic, el CTO de { -brand-name-mozilla } Raffi Krikorian pregunta por qué los chatbots y la IA generativa están tan ansiosos por complacernos y qué significa eso para la humanidad. (Imagen cortesía de The Atlantic)
 # Used as an accessible text alternative for an image
 m24-home-alt-validation = Una persona en miniatura mirando una gran tecla del teclado y una pantalla de computadora hipnotizante
