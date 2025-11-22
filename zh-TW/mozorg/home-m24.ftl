@@ -91,7 +91,7 @@ m24-home-donate-your-voice = 捐出您的聲音
 m24-home-our-transformation = 我們的轉型
 m24-home-how-do-legacy = 傳統價值如何與創新發生衝突在這段對話中Mark Surman 預覽了我們將如何讓 { -brand-name-mozilla } 轉型以適應 AI 時代。
 # Used as an accessible text alternative for an image
-m24-home-alt-transformation = 使用 Mark Surman 與 MCS 改變訊號
+m24-home-alt-transformation = Mark Surman 與 MBS 一同改變信號
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = 粉紅色背景的雲
 m24-home-any-agent = Any Agent
@@ -120,7 +120,7 @@ m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } 執行長分享開放原始碼 AI 的優勢
 m24-home-introducing-thundermail-and = 隆重推出 Thundermail 與 Thunderbird Pro
 m24-home-what-comes-next = 科技界的未來需要選擇。與我們一起選擇。
-m24-home-how-ventures-investee = 被投資企業germ 如何加強加密技術
+m24-home-how-ventures-investee = 被風險投資的企業 Germ 是如何加強加密的
 m24-home-tech-crunch = TechCrunch
 m24-home-a-good-moment = 「我們的好時光」：{ -brand-name-firefox } 主管探討 AI 瀏覽器與 Web 的未來發展
 m24-home-the-guardian = 衛報

@@ -88,21 +88,48 @@ m24-home-got-an-earlystage = Hebt u een start-up in een vroeg stadium? Promoot u
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Doneer uw stem om spraaktechnologie inclusiever en voor iedereen toegankelijk te maken.
 m24-home-donate-your-voice = Doneer uw stem
+m24-home-our-transformation = Onze transformatie
+m24-home-how-do-legacy = Hoe botsen oude waarden met innovatie? In dit gesprek geeft Mark Surman een voorbeeld van hoe we { -brand-name-mozilla } transformeren voor het tijdperk van AI.
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Wolk met roze achtergrond
+m24-home-any-agent = Elke agent
+m24-home-stop-wiring-tools = Stop met het samenvoegen van hulpmiddelen en het babysitten van broze automatiseringen. Met het { -brand-name-mozilla-ai-v2 }-agentplatform beschrijft u uw doel, wij genereren adaptieve AI-agents die werken met uw hulpmiddelen en processen.
 
 ## Media Springboard
 
 m24-home-type = Type
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Auteur
+m24-home-author-v2 = Auteur(s)
 m24-home-topic = Onderwerp
 m24-home-intro = Intro
 m24-home-tag-article = Artikel
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Video
 m24-home-topic-news = Nieuws
+m24-home-topic-products = Producten
 m24-home-topic-ai = Kunstmatige intelligentie
+m24-home-topic-open-source-ai = Opensource-AI
 m24-home-topic-ps = Privacy en beveiliging
 m24-home-headline-you-ai-v2 = U, AI en het internet – wat is er echt aan de hand?
+m24-home-shake-to-summarize = Schudden om samen te vatten in TIME’s beste uitvindingen van 2025
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } verwelkomt Raffi Krikorian als Chief Technology Officer
+m24-home-tech-target = Tech-doelstelling
+m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 }-CEO praat over voordelen van opensource-AI
+m24-home-introducing-thundermail-and = Nieuw: Thundermail en Thunderbird Pro
+m24-home-what-comes-next = Wat hierna komt in technologie is een keuze. Kies met ons.
+m24-home-how-ventures-investee = Hoe Ventures Investee Germ versleuteling versterkt
+m24-home-tech-crunch = Tech Crunch
+m24-home-a-good-moment = ‘Een goed moment voor ons’: { -brand-name-firefox } richt zich op AI-browsers en wat er op stapel staat voor het web
+m24-home-the-guardian = The Guardian
+m24-home-interview-take-open = Interview: opensource naar het AI-tijdperk brengen
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = MIT Sloan-beoordeling
+m24-home-mit-sloan-management-review = Management-beoordeling door MIT Sloan
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } financiert het Filament-netwerkplatform
+m24-home-axios = Axios
+m24-home-mozillas-new-message = De nieuwe boodschap van { -brand-name-mozilla }: we zijn de enige browser die niet wordt ondersteund door miljardairs
+m24-home-fast-company = Fast Company
 
 ## Showcase
 
