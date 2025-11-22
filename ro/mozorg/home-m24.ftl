@@ -32,7 +32,7 @@ m24-home-go-chaosfree-with = Simplifică-ți viața cu o singură aplicație pen
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-keep-your-location = Păstrează-ți locația și aventurile online private — transmite în flux ca un localnic, oriunde.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
-m24-home-get-a-headsup = Fii informat dacă informațiile tale personale sunt în pericol și protejează-le ca un profesionist.
+m24-home-get-a-headsup = Fii informat(ă) dacă informațiile tale personale sunt în pericol și protejează-le ca un profesionist.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Ascunde-ți adresa de e-mail și numărul de telefon pentru a primi doar mesajele pe care le dorești.
 
