@@ -88,6 +88,8 @@ m24-home-got-an-earlystage = Hai una startup in fase iniziale? Presenta la tua a
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Dona la tua voce per rendere la tecnologia di riconoscimento vocale più inclusiva e accessibile a tutti.
 m24-home-donate-your-voice = Dona la tua voce
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Nuvola con sfondo rosa
 
 ## Media Springboard
 
@@ -100,9 +102,13 @@ m24-home-tag-article = Articolo
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Video
 m24-home-topic-news = Novità
+m24-home-topic-products = Prodotti
 m24-home-topic-ai = Intelligenza artificiale
+m24-home-topic-open-source-ai = IA Open Source
 m24-home-topic-ps = Privacy e sicurezza
 m24-home-headline-you-ai-v2 = Tu, l’IA e Internet: che cosa sta succedendo realmente?
+m24-home-mozilla-ai-ceo = Il CEO di { -brand-name-mozilla-ai-v2 } discute i vantaggi dell’IA open source
+m24-home-introducing-thundermail-and = Presentazione di Thundermail e Thunderbird Pro
 
 ## Showcase
 
@@ -128,3 +134,7 @@ m24-home-alt-irl-host = Bridget Todd, conduttrice di IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Il nostro pluripremiato podcast presenta i pionieri del cambiamento che lavorano per rendere Internet più sicuro e l’IA più affidabile.
 m24-home-irl-listen-now = Ascolta ora
+
+## Outside the Fox
+
+m24-home-fox-listen-now = Ascolta ora

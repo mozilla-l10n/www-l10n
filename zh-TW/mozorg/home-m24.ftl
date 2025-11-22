@@ -94,7 +94,7 @@ m24-home-how-do-legacy = 傳統價值如何與創新發生衝突在這段對話�
 m24-home-alt-transformation = 使用 Mark Surman 與 MCS 改變訊號
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = 粉紅色背景的雲
-m24-home-any-agent = 任何代理程式
+m24-home-any-agent = Any Agent
 m24-home-stop-wiring-tools = 不要再把工具放在一起也不要再操心脆弱的自動化裝置了。若您描述了您的目標透過 { -brand-name-mozilla-ai-v2 } 代理平台我們產生能使用您的工具與流程的適應性 AI 代理。
 
 ## Media Springboard
@@ -115,9 +115,9 @@ m24-home-topic-open-source-ai = 開放原始碼 AI
 m24-home-topic-ps = 隱私權與安全性
 m24-home-headline-you-ai-v2 = 你、AI 與網際網路 — 到底發生什麼事？
 m24-home-shake-to-summarize = 用《時代周報》評選的 2025 年最棒的發明來抖動
-m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } 歡迎 Raffi Krikorian 出任技術總監
-m24-home-tech-target = 技術目標
-m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } 總裁分享開放原始碼 AI 的優勢
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } 歡迎 Raffi Krikorian 出任技術長
+m24-home-tech-target = Tech Target
+m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } 執行長分享開放原始碼 AI 的優勢
 m24-home-introducing-thundermail-and = 隆重推出 Thundermail 與 Thunderbird Pro
 m24-home-what-comes-next = 科技界的下一步就是選擇。與我們一起選擇。
 m24-home-how-ventures-investee = 被投資企業germ 如何加強加密技術
