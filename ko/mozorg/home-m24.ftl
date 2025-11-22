@@ -88,6 +88,7 @@ m24-home-got-an-earlystage = 초기 단계의 스타트업이 있으신가요? A
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = 모두에게 보다 포용적이고 접근 가능한 음성 기술을 만들기 위해 음성을 기부하세요.
 m24-home-donate-your-voice = 목소리 기부하기
+m24-home-our-transformation = 우리의 변화
 
 ## Media Springboard
 

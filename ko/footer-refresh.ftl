@@ -12,6 +12,7 @@ footer-refresh-learn-more-about-mozilla-advertising = <span>{ -brand-name-mozill
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 출시 노트
 # Obsolete string (expires 2026-03-13)
 footer-refresh-extend-reach = 더 많이 도달하고 신뢰를 깊게 합니다.
+footer-refresh-add-trust-to = 광고 구매에 신뢰를 더하세요.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } 팔로우
 footer-refresh-instagram = Instagram
