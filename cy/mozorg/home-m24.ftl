@@ -16,14 +16,14 @@ m24-home-page-desc-v2 = Rydyn ni'n gweithio i roi rheolaeth ar y rhyngrwyd yn ô
 
 m24-home-welcome-to-mozilla = Croeso i { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = O dechnoleg ddibynadwy i bolisïau sy'n diogelu eich hawliau digidol, chi yw ein blaenoriaeth - bob tro.
-m24-home-learn-about-us = Dysgu amdanom ni
+m24-home-learn-about-us = Rhagor amdanom ni
 # Used as accessible text alternative for image
 m24-home-alt-flag = Baner werdd wedi'i steilio ar gefndir du, wedi’i hadeiladu o’r ‘M’ ar gyfer { -brand-name-mozilla } a phicsel sy’n cael ei ddadleoli i gyfeirio at ei logo dinosor gwreiddiol.
 
 ## Products
 
 m24-home-love-the-internet = Caru'r rhyngrwyd eto
-m24-home-break-free-from = Torrwch yn rhydd rhag y cwmnïau technoleg mawr — mae ein cynnyrch yn rhoi rheolaeth i chi ar brofiad rhyngrwyd mwy diogel a phreifat.
+m24-home-break-free-from = Torrwch yn rhydd rhag y cwmnïau technoleg mawr — mae ein cynnyrch yn gadael i chi reoli eich profiad rhyngrwyd i fod yn fwy diogel a phreifat.
 m24-home-explore-our-products = Edrych ar ein cynnyrch
 m24-home-firefox = { -brand-name-firefox }
 m24-home-get-the-gold = Y safon aur ar gyfer pori cyflym, preifat a rheolaeth.
@@ -84,7 +84,7 @@ m24-home-watch-now = Gwyliwch nawr
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Siaradwr ar y llwyfan gyda logos cynnyrch lluosog.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
-m24-home-got-an-earlystage = Oes gennych chi gwmni cychwynnol cyfnod cynnar? Cynigiwch eich cwmni i { -brand-name-mozilla-ventures } a sicrhewch gyllid i ysgogi newid cadarnhaol ar gyfer dyfodol AI a'r rhyngrwyd.
+m24-home-got-an-earlystage = Oes gennych chi gwmni cychwynnol cyfnod cynnar? Cynigiwch eich cwmni i { -brand-name-mozilla-ventures } a chael cyllid i greu newid cadarnhaol ar gyfer dyfodol AI a'r rhyngrwyd.
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Cyfrannwch eich llais i wneud technoleg lleferydd yn fwy cynhwysol a hygyrch i bawb.
 m24-home-donate-your-voice = Cyfrannwch eich llais
@@ -95,7 +95,7 @@ m24-home-alt-transformation = Newid Signal gyda Mark Surman a MBS
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = Cwmwl gyda chefndir pinc
 m24-home-any-agent = Unrhyw Asiant
-m24-home-stop-wiring-tools = Stopio weirio offer gyda'i gilydd a gwarchod awtomatiaethau brau. Gyda'r Llwyfan Asiant { -brand-name-mozilla-ai-v2 }, rydych chi'n disgrifio'ch nod, rydyn ni'n cynhyrchu asiantau AI addasol sy'n gweithio gyda'ch offer a'ch prosesau.
+m24-home-stop-wiring-tools = Peidio rhaffu offer at ei gilydd a gwarchod awtomatiaethau brau. Gyda'r Llwyfan Asiant { -brand-name-mozilla-ai-v2 }, rydych chi'n disgrifio'ch nod, rydyn ni'n cynhyrchu asiantau AI addasol sy'n gweithio gyda'ch offer a'ch prosesau.
 
 ## Media Springboard
 
@@ -162,7 +162,7 @@ m24-home-read-the-report = Darllenwch yr adroddiad
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-create-curate-control = Creu. Curadu. Rheoli.
 # Obsolete string (expires 2026-03-20)
-m24-home-mozilla-data-collective-is = Mae Data Collective { -brand-name-mozilla } yn ailadeiladu'r ecosystem ddata AI gyda chymunedau yn gan olog iddo. Cewch fynediad at dros 300 o setiau data byd-eang o ansawdd uchel, wedi'u hadeiladu gan y gymuned ac ar ei chyfer mewn ffordd dryloyw a moesegol.
+m24-home-mozilla-data-collective-is = Mae Data Collective { -brand-name-mozilla } yn ailadeiladu'r ecosystem ddata AI gyda chymunedau yn ganolog iddo. Cewch fynediad at dros 300 o setiau data byd-eang o ansawdd uchel, wedi'u hadeiladu gan y gymuned ac ar ei chyfer mewn ffordd dryloyw a moesegol.
 m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Mae Data Collective yn ailadeiladu'r ecosystem ddata AI gyda chymunedau yn ganolog iddo. Cewch fynediad at dros 300 o setiau data byd-eang o ansawdd uchel, wedi'u hadeiladu gan y gymuned ac ar ei chyfer mewn ffordd dryloyw a moesegol.
 m24-home-join-mozilla-data = Ymunwch â'r { -brand-name-mozilla } Data Collective
 
