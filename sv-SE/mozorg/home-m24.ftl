@@ -113,6 +113,7 @@ m24-home-topic-ps = Sekretess & säkerhet
 m24-home-headline-you-ai-v2 = Du, AI och internet — vad är det som händer egentligen?
 m24-home-introducing-thundermail-and = Introducerar Thundermail och Thunderbird Pro
 m24-home-the-guardian = The Guardian
+m24-home-mozilla = { -brand-name-mozilla }
 
 ## Showcase
 
