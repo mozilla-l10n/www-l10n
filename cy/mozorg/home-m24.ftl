@@ -164,7 +164,7 @@ m24-home-mozilla-create-curate-control = Creu. Curadu. Rheoli.
 # Obsolete string (expires 2026-03-20)
 m24-home-mozilla-data-collective-is = Mae Data Collective { -brand-name-mozilla } yn ailadeiladu'r ecosystem ddata AI gyda chymunedau yn gan olog iddo. Cewch fynediad at dros 300 o setiau data byd-eang o ansawdd uchel, wedi'u hadeiladu gan y gymuned ac ar ei chyfer mewn ffordd dryloyw a moesegol.
 m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Mae Data Collective yn ailadeiladu'r ecosystem ddata AI gyda chymunedau yn ganolog iddo. Cewch fynediad at dros 300 o setiau data byd-eang o ansawdd uchel, wedi'u hadeiladu gan y gymuned ac ar ei chyfer mewn ffordd dryloyw a moesegol.
-m24-home-join-mozilla-data = Ymunwch â { -brand-name-mozilla } Data Collective
+m24-home-join-mozilla-data = Ymunwch â'r { -brand-name-mozilla } Data Collective
 
 ## Issues
 

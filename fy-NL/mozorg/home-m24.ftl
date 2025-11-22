@@ -120,6 +120,21 @@ m24-home-introducing-thundermail-and = Nij: Thundermail en Thunderbird Pro
 m24-home-what-comes-next = Wat hjirnei komt yn technology is in kar. Kies mei ús.
 m24-home-how-ventures-investee = Hoe Ventures Investee Germ fersifering fersterket
 m24-home-tech-crunch = Tech Crunch
+m24-home-a-good-moment = ‘In goed momint foar ús’: { -brand-name-firefox } oer AI-browsers en wat komt dernei foar it web
+m24-home-the-guardian = The Guardian
+m24-home-interview-take-open = Ynterview: iepen boarne nei it AI-tiidrek bringe
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = MIT Sloan-beoardieling
+m24-home-mit-sloan-management-review = Management-beoardieling troch MIT Sloan
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } finansieret it Filament-netwurkplatfoarm
+m24-home-axios = Axios
+m24-home-mozillas-new-message = De nije boadskip fan { -brand-name-mozilla }: wy binne de iennige browser dy’t net stipe wurdt troch miljardêrs
+m24-home-fast-company = Fast Company
+m24-home-will-agi-be = Wurdt AGI werklikheid – en binne wy der klear foar?
+m24-home-conversation-charting-a = Petear: de takomst foar tagong en karfrijheid yn kaart bringe
+m24-home-tech-policy-press = Tech Policy Press
+m24-home-open-by-design = Open by design: hoe’t lannen konkurrearje kinne yn it tiidrek fan AI
+m24-home-mozilla = { -brand-name-mozilla }
 m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } bringt in nije koers út mei in draai nei winstjouwens
 m24-home-silicon-angle = SiliconANGLE
 
