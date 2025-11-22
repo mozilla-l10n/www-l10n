@@ -130,6 +130,13 @@ m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } financiert he
 m24-home-axios = Axios
 m24-home-mozillas-new-message = De nieuwe boodschap van { -brand-name-mozilla }: we zijn de enige browser die niet wordt ondersteund door miljardairs
 m24-home-fast-company = Fast Company
+m24-home-will-agi-be = Wordt AGI werkelijkheid – en zijn we er klaar voor?
+m24-home-conversation-charting-a = Conversatie: de toekomst van toegang en keuzevrijheid in kaart brengen
+m24-home-tech-policy-press = Tech Policy Press
+m24-home-open-by-design = Open by design: hoe landen kunnen wedijveren in het tijdperk van AI
+m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } brengt een nieuwe koers in kaart met een wending naar winstgevendheid
+m24-home-silicon-angle = SiliconANGLE
 
 ## Showcase
 
@@ -148,10 +155,29 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } vindt zichzelf 
 m24-home-state-of-mozilla-alt = Abstracte pixelkunst in tinten groen, oranje en roze
 m24-home-read-the-report = Het rapport lezen
 
+## Data Collective
+
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-create-curate-control = Maken. Beheren. Beheersen.
+# Obsolete string (expires 2026-03-20)
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective herbouwt het AI-gegevens-ecosysteem, met gemeenschappen centraal. Toegang tot meer dan 300 wereldwijde gegevenssets van hoge kwaliteit, gebouwd door en voor de gemeenschap op een transparante en ethische manier.
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective herbouwt het AI-gegevens-ecosysteem, met gemeenschappen centraal. Toegang tot meer dan 300 wereldwijde gegevenssets van hoge kwaliteit, gebouwd door en voor de gemeenschap op een transparante en ethische manier.
+m24-home-join-mozilla-data = Doe mee met { -brand-name-mozilla } Data Collective
+
 ## Issues
 
+m24-home-the-validation-machines = The Validation Machines
+m24-home-in-the-atlantic = In The Atlantic vraagt { -brand-name-mozilla }-CTO Raffi Krikorian waarom chatbots en generatieve AI ons zo graag willen behagen, en wat dit betekent voor de mensheid. (afbeelding met dank aan The Atlantic)
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = Een miniatuurpersoon die naar een grote toetsenbordtoets en een hypnotiserend computerscherm kijkt
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, gastvrouw van IRL-podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Onze meermaals bekroonde podcast introduceert de makers van verandering die werken aan het veiliger maken van het internet en het betrouwbaarder maken van AI.
 m24-home-irl-listen-now = Nu luisteren
+
+## Outside the Fox
+
+m24-home-outside-the-fox = Outside the Fox
+m24-home-this-is-where = Hier onderzoeken we wat er online gebeurt en waarom het belangrijk is, van waarom onverschilligheid het internet overneemt tot een virale internetcultuur.
+m24-home-fox-listen-now = Nu luisteren
