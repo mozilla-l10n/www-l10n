@@ -107,6 +107,8 @@
 -brand-name-mozilla-ads = Реклами на Мозила
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-thunderbird = Thunderbird
+-brand-name-thunderbird-pro = Thunderbird Pro
+-brand-name-thundermail = Thundermail
 
 ## Mozilla projects (short names)
 

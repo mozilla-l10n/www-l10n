@@ -12,6 +12,9 @@ gone-page-go-back = Връщане назад
 #   $home (attr) - attributes to be added to the <a> tag - href="https://mozilla.org"
 gone-page-go-home = Започнете разглеждането на сайта от <a { $home }>началната му страница</a>.
 # Variables:
+#   $blog (attr) - attributes to be added to the <a> tag - href="https://blog.mozilla.org/"
+gone-page-search-blog = Потърсете в <a { $blog }>блога на { -brand-name-mozilla }</a>.
+# Variables:
 #   $products (attr) - attributes to be added to the <a> tag - href="/products/"
 gone-page-browse-products = Разгледайте нашите <a { $products }>продукти</a>.
 # Variables:
