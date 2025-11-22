@@ -15,26 +15,26 @@ vpn-pricing-included-in-subscription = Ce include abonamentul:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-pricing-connect-up-to =
     { $devices ->
-        [one] Conectează până la { $devices } dispozitiv
-        [few] Conectează până la { $devices } dispozitive
-       *[other] Conectează până la { $devices } de dispozitive
+        [one] Conectezi până la { $devices } dispozitiv
+        [few] Conectezi până la { $devices } dispozitive
+       *[other] Conectezi până la { $devices } de dispozitive
     }
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-pricing-connect-up-to-platforms =
     { $devices ->
-        [one] Conectează până la { $devices } dispozitiv Android, iOS, Windows, macOS sau Linux
-        [few] Conectează până la { $devices } dispozitive Android, iOS, Windows, macOS sau Linux
-       *[other] Conectează până la { $devices } de dispozitive Android, iOS, Windows, macOS sau Linux
+        [one] Conectezi până la { $devices } dispozitiv Android, iOS, Windows, macOS sau Linux
+        [few] Conectezi până la { $devices } dispozitive Android, iOS, Windows, macOS sau Linux
+       *[other] Conectezi până la { $devices } de dispozitive Android, iOS, Windows, macOS sau Linux
     }
 # Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access =
     { $servers ->
-        [one] Accesează { $servers } server din peste { $countries } țară
-        [few] Accesează { $servers } servere din peste { $countries } țări
-       *[other] Accesează { $servers } de servere din peste { $countries } de țări
+        [one] Accesezi { $servers } server din peste { $countries } țară
+        [few] Accesezi { $servers } servere din peste { $countries } țări
+       *[other] Accesezi { $servers } de servere din peste { $countries } de țări
     }
 vpn-pricing-money-back = Garanție de returnare a banilor în 30 de zile (doar pentru clienții noi)
 vpn-pricing-annual = Anual
