@@ -130,6 +130,7 @@ m24-home-interview-take-open = Intervista: portar le open-source in le era del I
 # Obsolete string (expires 2026-03-20)
 m24-home-mit-sloan-review = MIT Sloan Review
 m24-home-mit-sloan-management-review = MIT Sloan Management Review
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } trovava platforma de rete Filament
 m24-home-axios = Axios
 m24-home-mozillas-new-message = Nove message de { -brand-name-mozilla }: nos es le sol navigator non supportate per milliardarios
 m24-home-fast-company = Fast Company
