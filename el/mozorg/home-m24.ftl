@@ -88,6 +88,7 @@ m24-home-got-an-earlystage = Έχετε μια νεοφυή επιχείρηση
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Δωρίστε τη φωνή σας για να κάνετε την τεχνολογία ομιλίας πιο συμπεριληπτική και προσβάσιμη για όλους.
 m24-home-donate-your-voice = Δωρίστε τη φωνή σας
+m24-home-our-transformation = Η μεταμόρφωσή μας
 
 ## Media Springboard
 
@@ -100,6 +101,7 @@ m24-home-tag-article = Άρθρο
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Βίντεο
 m24-home-topic-news = Ειδήσεις
+m24-home-topic-products = Προϊόντα
 m24-home-topic-ai = Τεχνητή νοημοσύνη
 m24-home-topic-ps = Απόρρητο και ασφάλεια
 m24-home-headline-you-ai-v2 = Εσείς, η τεχνητή νοημοσύνη και το διαδίκτυο· τι πραγματικά συμβαίνει;

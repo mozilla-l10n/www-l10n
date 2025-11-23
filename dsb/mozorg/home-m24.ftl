@@ -88,6 +88,10 @@ m24-home-got-an-earlystage = Maśo projekt w ranej fazy? Pśedstajśo { -brand-n
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Pósććo swój głos, aby powědańsku technologiju wěcej wótwórjonu a pśistupnu za wše cynił.
 m24-home-donate-your-voice = Pósććo swój głos
+m24-home-our-transformation = Naša transformacija
+m24-home-how-do-legacy = Kak zestarjete gódnoty z inowaciju koliděruju? W toś tom rozgronje Mark Surman do togo wó tom powěda, kak { -brand-name-mozilla } za eru KI pśetwórjamy.
+# Used as an accessible text alternative for an image
+m24-home-alt-transformation = Změńśo Signal z Markom Surmanom a MBS
 
 ## Media Springboard
 

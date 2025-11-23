@@ -12,6 +12,7 @@ footer-refresh-learn-more-about-mozilla-advertising = Zgóńśo wěcej <span>wó
 footer-refresh-firefox-release-notes = Wersijowe informacije { -brand-name-firefox }
 # Obsolete string (expires 2026-03-13)
 footer-refresh-extend-reach = Rozšyŕśo doseganje a pódłymśo dowěru.
+footer-refresh-add-trust-to = Pśidajśo swójej wabjeńskej kupi dowěru.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } slědowaś
 footer-refresh-instagram = Instagram
