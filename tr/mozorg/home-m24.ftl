@@ -141,6 +141,8 @@ m24-home-read-the-report = Raporu okuyun
 ## Issues
 
 # Used as an accessible text alternative for an image
+m24-home-alt-validation = Büyük bir klavye tuşuna bakan küçük bir insan ve hipnotize edici bir bilgisayar ekranı
+# Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, IRL Podcast sunucusu.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Ödüllü podcast’imiz interneti daha güvenli ve yapay zekâyı daha güvenilir hale getirmek için çalışan öncüleri konuk ediyor.
