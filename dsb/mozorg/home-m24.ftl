@@ -163,11 +163,21 @@ m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-create-curate-control = Napóraś. Wótwardowaś. Kontrolěrowaś.
 # Obsolete string (expires 2026-03-20)
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective datowy ekosystem KI ze zgromaźeństwami w centrumje pśetwórja. Pśistup k wěcej ako 300 globalnych datowych zběrkow wusokeje kwality, kótarež su se napórali wót zgromaźeństwa a za zgromaźeństwo na transparentny a etiski nałog.
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective datowy ekosystem KI ze zgromaźeństwami w centrumje pśetwórja. Pśistup k wěcej ako 300 globalnych datowych zběrkow wusokeje kwality, kótarež su se napórali wót zgromaźeństwa a za zgromaźeństwo na transparentny a etiski nałog.
+m24-home-join-mozilla-data = Pśizamkniśo se k { -brand-name-mozilla } Data Collective
 
 ## Issues
 
+m24-home-the-validation-machines = Mašiny pśeglědanja
+m24-home-in-the-atlantic = W The Atlantic se CTO Raffi Krikorian { -brand-name-mozilla } pšaša, cogodla chatboty a generatiwna KI su tak nježywa na to nam zwjaseliś, a co to za cłowjeskosć wóznamjenijo. (wobraz z pśijaśelneju dowólnosću The Atlantic)
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = Miniaturna wósoba, kótaraž na wjeliku tastaturowu tastu a hypnotizěrujucu kompjuterowu wobrazowku glěda
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, host Podcast IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Naš wěcej raz mytowany podcast stwóriśelow změnow pśedstaja, kótarež na tom źěłaju, internet wěsćejšy a KI wěcej dowěry gódnu cyniś.
 m24-home-irl-listen-now = Słuchajśo něnto
+
+## Outside the Fox
+
+m24-home-outside-the-fox = Zwenka liški

@@ -164,7 +164,7 @@ m24-home-mozilla-create-curate-control = Wutworić. Wothladać. Kontrolować.
 # Obsolete string (expires 2026-03-20)
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective datowy ekosystem Ki ze zhromadźenstwami w centrumje přetworja. Přistup k přez 300 globalnych datowych zběrkow wysokeje kwality, kotrež su so wot zhromadźenstwa a za zhromadźenstwo na transparentne a etiske wašnje wutworili.
 m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective datowy ekosystem Ki ze zhromadźenstwami w centrumje přetworja. Přistup k přez 300 globalnych datowych zběrkow wysokeje kwality, kotrež su so wot zhromadźenstwa a za zhromadźenstwo na transparentne a etiske wašnje wutworili.
-m24-home-join-mozilla-data = { -brand-name-mozilla } Data Collective přidružić
+m24-home-join-mozilla-data = Přidružće so k { -brand-name-mozilla } Data Collective
 
 ## Issues
 
