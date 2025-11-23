@@ -13,4 +13,4 @@ firefox-mobile-get-the-mobile-browser-built = Загрузите мобильн�
 firefox-mobile-check-out-firefox-again-its = Попробуйте { -brand-name-firefox } ещё раз. Он быстрый, приватный и всегда на вашей стороне. Для { -brand-name-ios } и { -brand-name-android }.
 firefox-mobile-get-firefox-mobile = Загрузить мобильный { -brand-name-firefox }
 firefox-mobile-send-a-download-link-to-your = Отправить ссылку на загрузку на свой телефон.
-firefox-mobile-scan-the-qr-code-to-get-started = Отсканируйте QR-код, чтобы начать
+firefox-mobile-scan-the-qr-code-to-get-started = Отсканируйте QR-код, чтобы начать скачивание
