@@ -95,6 +95,7 @@ m24-home-alt-transformation = Změńće Signal z Markom Surmanom a MBS
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = Mróčel z róžowym pozadkom
 m24-home-any-agent = Někajki agent
+m24-home-stop-wiring-tools = Přestańće nastroje zakablować a krjechke awtomatizacije babysittować. Z platformu agento { -brand-name-mozilla-ai-v2 } wopisujeće swój cil, generujemy adaptiwnych agentow KI, kotrež z wašimi nastrojemi a procesami funguja.
 
 ## Media Springboard
 
