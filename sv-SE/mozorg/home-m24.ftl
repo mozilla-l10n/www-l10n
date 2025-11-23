@@ -114,7 +114,14 @@ m24-home-topic-ai = Artificiell intelligens
 m24-home-topic-open-source-ai = AI med öppen källkod
 m24-home-topic-ps = Sekretess & säkerhet
 m24-home-headline-you-ai-v2 = Du, AI och internet — vad är det som händer egentligen?
+m24-home-shake-to-summarize = Skaka för att sammanfatta TIME:s bästa innovationer 2025
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } välkomnar Raffi Krikorian som Chief Technology Officer
+m24-home-tech-target = Tech Target
+m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } VD pratar om fördelarna med öppen källkod för AI
 m24-home-introducing-thundermail-and = Introducerar Thundermail och Thunderbird Pro
+m24-home-what-comes-next = Det som kommer härnäst inom tekniken är ett val. Välj med oss.
+m24-home-how-ventures-investee = Hur Ventures Investee Germ stärker kryptering
+m24-home-tech-crunch = Tech Crunch
 m24-home-the-guardian = The Guardian
 m24-home-mozilla = { -brand-name-mozilla }
 

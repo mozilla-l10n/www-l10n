@@ -122,6 +122,23 @@ m24-home-introducing-thundermail-and = Pśedstajamy Thundermail a Thunderbird Pr
 m24-home-what-comes-next = Což ako pśiduce w technologiji pśiźo jo wuběrk. Wubjeŕśo z nami.
 m24-home-how-ventures-investee = Kak dostawaŕ inwesticijow rizikowego kapitala Germ skoděrowanje mócni
 m24-home-tech-crunch = Tech Crunch
+m24-home-a-good-moment = ‘Dobre wokognuśe w casu za nas: { -brand-name-firefox } na cole pśed wobglědowakami KI a což jo pśiduce za web
+m24-home-the-guardian = The Guardian
+m24-home-interview-take-open = Interview: Pśewześe wótwórjonego žrědła do ery KI
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = MIT Sloan Review
+m24-home-mit-sloan-management-review = MIT Sloan Management Review
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } seśowu platformu Filament financěrujo
+m24-home-axios = Axios
+m24-home-mozillas-new-message = Nowa powěsć { -brand-name-mozilla }: Smy jadnučki wobglědowak, kótaryž se wót miliardarjow njepódpěra
+m24-home-fast-company = Fast Company
+m24-home-will-agi-be = Buźo AG napšawdnosć byś – a, smy my gótowe?
+m24-home-conversation-charting-a = Rozgrono: Kreslenje pśichoda do pśistupa a agentury
+m24-home-tech-policy-press = Tech Policy Press
+m24-home-open-by-design = Wótwórjony pó designje: Kak narody mógu se we wěku KI wuběgowaś
+m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } nowy kurs k směroju profitabelnosći kresli
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -139,6 +156,13 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se sam znowego 
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstraktne pikselowe wuměłstwo w zelenych, oranžowych a rožojtych wósenjach
 m24-home-read-the-report = Cytajśo rozpšawu
+
+## Data Collective
+
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-create-curate-control = Napóraś. Wótwardowaś. Kontrolěrowaś.
+# Obsolete string (expires 2026-03-20)
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective datowy ekosystem KI ze zgromaźeństwami w centrumje pśetwórja. Pśistup k wěcej ako 300 globalnych datowych zběrkow wusokeje kwality, kótarež su se napórali wót zgromaźeństwa a za zgromaźeństwo na transparentny a etiski nałog.
 
 ## Issues
 

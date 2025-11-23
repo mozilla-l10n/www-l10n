@@ -137,7 +137,7 @@ m24-home-conversation-charting-a = Rozmołwa: Rysowanje přichoda do přistupa a
 m24-home-tech-policy-press = Tech Policy Press
 m24-home-open-by-design = Wotewrjeny po designje: Kak narody móža so we wěku KI wubědźować
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } nowy kurs k směrej profitabelnosće
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } nowy kurs k směrej profitabelnosće rysuje
 m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
