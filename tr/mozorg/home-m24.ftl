@@ -88,21 +88,38 @@ m24-home-got-an-earlystage = Başlangıç aşamasında bir startup’ınız mı 
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Konuşma teknolojilerini daha kapsayıcı ve herkes için daha erişilebilir hale getirmek adına sesinizi bağışlayın.
 m24-home-donate-your-voice = Sesinizi bağışlayın
+m24-home-our-transformation = Dönüşümümüz
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Pembe arka planlı bulut
 
 ## Media Springboard
 
 m24-home-type = Tür
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Yazar
+m24-home-author-v2 = Yazar(lar)
 m24-home-topic = Konu
 m24-home-intro = Giriş
 m24-home-tag-article = Makale
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Video
 m24-home-topic-news = Haber
+m24-home-topic-products = Ürünler
 m24-home-topic-ai = Yapay zekâ
+m24-home-topic-open-source-ai = Open Source AI
 m24-home-topic-ps = Gizlilik ve güvenlik
 m24-home-headline-you-ai-v2 = Siz, yapay zekâ ve internet… Aslında neler oluyor?
+m24-home-tech-target = Tech Target
+m24-home-tech-crunch = Tech Crunch
+m24-home-the-guardian = The Guardian
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = MIT Sloan Review
+m24-home-mit-sloan-management-review = MIT Sloan Management Review
+m24-home-axios = Axios
+m24-home-fast-company = Fast Company
+m24-home-tech-policy-press = Tech Policy Press
+m24-home-mozilla = { -brand-name-mozilla }
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -128,3 +145,7 @@ m24-home-alt-irl-host = Bridget Todd, IRL Podcast sunucusu.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Ödüllü podcast’imiz interneti daha güvenli ve yapay zekâyı daha güvenilir hale getirmek için çalışan öncüleri konuk ediyor.
 m24-home-irl-listen-now = Dinleyin
+
+## Outside the Fox
+
+m24-home-fox-listen-now = Şimdi dinleyin
