@@ -163,6 +163,8 @@ m24-home-read-the-report = Leger le reporto
 
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-create-curate-control = Crear. Curar. Controlar.
+# Obsolete string (expires 2026-03-20)
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective re-organisa le ecosystema de datos del IA con le communitates al centro. Accede ultra 300 collectiones mundial de datos de alte-qualitate producite per e pro le communitate in maniera transparente e ethic.
 m24-home-join-mozilla-data = Junge te a { -brand-name-mozilla } Datos Collective
 
 ## Issues
