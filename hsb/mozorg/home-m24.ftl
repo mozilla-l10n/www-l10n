@@ -181,4 +181,5 @@ m24-home-irl-listen-now = Słuchajće nětko
 ## Outside the Fox
 
 m24-home-outside-the-fox = Zwonka liški
+m24-home-this-is-where = Tu wuslědźamy, štož so online stawa a čehodla je wažne, wot toho, čehodla njestrowa žratwa internet přejima, hač do wiralneje internetneje kultury.
 m24-home-fox-listen-now = Słuchajće nětko
