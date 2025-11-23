@@ -162,6 +162,7 @@ m24-home-read-the-report = Leger le reporto
 
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-create-curate-control = Crear. Curar. Controlar.
+m24-home-join-mozilla-data = Junge te a { -brand-name-mozilla } Datos Collective
 
 ## Issues
 
