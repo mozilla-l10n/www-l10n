@@ -171,6 +171,8 @@ m24-home-join-mozilla-data = { -brand-name-mozilla } Data Collective přidruži�
 m24-home-the-validation-machines = Přepruwowanske mašiny
 m24-home-in-the-atlantic = W The Atlantic so CTO Raffi Krikorian { -brand-name-mozilla } praša, čehodla chatboty a generatiwna KI su tak dźiwje na to nam zawjeselić, a što to za čłowjeskosć woznamjenja. (wobraz z přećelnej dowolnosću The Atlantic)
 # Used as an accessible text alternative for an image
+m24-home-alt-validation = Miniaturna wosoba, kotraž na wulku tastaturowu tastu a hypnotizowacu kompjuterowu wobrazowku hlada
+# Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, host Podcast IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Naš wjacekróć mytowany podcast twórcow změnow předstaja, kotřiž na tym dźěłaja, internet wěsćiši a KI bóle dowěry hódnu činić.
