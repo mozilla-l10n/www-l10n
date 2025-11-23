@@ -181,3 +181,5 @@ m24-home-irl-listen-now = Słuchajśo něnto
 ## Outside the Fox
 
 m24-home-outside-the-fox = Zwenka liški
+m24-home-this-is-where = How wuslěźujomy, což se online stawa a cogodla jo wažnje, wót togo, cogodla njestrowa žratwa internet pśewzejo, až do wiralneje internetneje kultury.
+m24-home-fox-listen-now = Słuchajśo něnto

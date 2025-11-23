@@ -122,7 +122,9 @@ m24-home-introducing-thundermail-and = Introducerar Thundermail och Thunderbird 
 m24-home-what-comes-next = Det som kommer härnäst inom tekniken är ett val. Välj med oss.
 m24-home-how-ventures-investee = Hur Ventures Investee Germ stärker kryptering
 m24-home-tech-crunch = Tech Crunch
+m24-home-a-good-moment = "Ett bra tillfälle för oss": { -brand-name-firefox } fokuserar på AI-webbläsare och vad som kommer härnäst för webben
 m24-home-the-guardian = The Guardian
+m24-home-interview-take-open = Intervju: Att ta öppen källkod in i AI-eran
 m24-home-mozilla = { -brand-name-mozilla }
 
 ## Showcase
