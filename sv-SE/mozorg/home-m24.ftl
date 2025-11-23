@@ -142,4 +142,5 @@ m24-home-irl-listen-now = Lyssna nu
 
 ## Outside the Fox
 
+m24-home-this-is-where = Det är här vi utforskar vad som händer online och varför det är viktigt, från varför skräp tar över internet till viral internetkultur.
 m24-home-fox-listen-now = Lyssna nu
