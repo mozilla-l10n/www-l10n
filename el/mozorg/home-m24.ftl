@@ -89,6 +89,8 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Δωρίστε τη φωνή σας για να κάνετε την τεχνολογία ομιλίας πιο συμπεριληπτική και προσβάσιμη για όλους.
 m24-home-donate-your-voice = Δωρίστε τη φωνή σας
 m24-home-our-transformation = Η μεταμόρφωσή μας
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Σύννεφο με ροζ παρασκήνιο
 
 ## Media Springboard
 
@@ -105,6 +107,7 @@ m24-home-topic-products = Προϊόντα
 m24-home-topic-ai = Τεχνητή νοημοσύνη
 m24-home-topic-ps = Απόρρητο και ασφάλεια
 m24-home-headline-you-ai-v2 = Εσείς, η τεχνητή νοημοσύνη και το διαδίκτυο· τι πραγματικά συμβαίνει;
+m24-home-the-guardian = The Guardian
 
 ## Showcase
 
@@ -130,3 +133,8 @@ m24-home-alt-irl-host = Bridget Todd, οικοδέσποινα του IRL Podcas
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Το πολυβραβευμένο μας podcast παρουσιάζει τους αρωγούς αλλαγής που εργάζονται για να κάνουν το διαδίκτυο πιο ασφαλές και την τεχνητή νοημοσύνη πιο αξιόπιστη.
 m24-home-irl-listen-now = Ακρόαση
+
+## Outside the Fox
+
+m24-home-outside-the-fox = Outside the Fox
+m24-home-fox-listen-now = Ακρόαση

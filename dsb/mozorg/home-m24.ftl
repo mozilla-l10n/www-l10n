@@ -92,21 +92,36 @@ m24-home-our-transformation = Naša transformacija
 m24-home-how-do-legacy = Kak zestarjete gódnoty z inowaciju koliděruju? W toś tom rozgronje Mark Surman do togo wó tom powěda, kak { -brand-name-mozilla } za eru KI pśetwórjamy.
 # Used as an accessible text alternative for an image
 m24-home-alt-transformation = Změńśo Signal z Markom Surmanom a MBS
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Mrokawa z rožoweju slězynu
+m24-home-any-agent = Někaki agent
+m24-home-stop-wiring-tools = Pśestańśo rědy skablowaś a kśěke awtomatizacije babysittowaś. Z platformu agentow { -brand-name-mozilla-ai-v2 } wopisujośo swój cel, generěrujomy adaptiwne agenty KI, kótarež z wašymi rědami a procesami funkcioněruju.
 
 ## Media Springboard
 
 m24-home-type = Typ
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Awtor
+m24-home-author-v2 = Awtory
 m24-home-topic = Tema
 m24-home-intro = Zapokazanje
 m24-home-tag-article = Nastawk
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Wideo
 m24-home-topic-news = Nowosći
+m24-home-topic-products = Produkty
 m24-home-topic-ai = Kumštna inteligenca
+m24-home-topic-open-source-ai = Wótwórjone žrědło KI
 m24-home-topic-ps = Priwatnosć a wěstota
 m24-home-headline-you-ai-v2 = Wy, KI a internet – co se napšawdu stawa?
+m24-home-shake-to-summarize = Tśěsćo se, aby w nejlěpšych wunamakanjach 2025 casopisa TIME zespominał
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } Raffi Krikoriana ako Chief Technology Officer wita
+m24-home-tech-target = Tech Target
+m24-home-mozilla-ai-ceo = CEO { -brand-name-mozilla-ai-v2 } wó lěpšynach KI wótwórjonego žrědła powěda
+m24-home-introducing-thundermail-and = Pśedstajamy Thundermail a Thunderbird Pro
+m24-home-what-comes-next = Což ako pśiduce w technologiji pśiźo jo wuběrk. Wubjeŕśo z nami.
+m24-home-how-ventures-investee = Kak dostawaŕ inwesticijow rizikowego kapitala Germ skoděrowanje mócni
+m24-home-tech-crunch = Tech Crunch
 
 ## Showcase
 

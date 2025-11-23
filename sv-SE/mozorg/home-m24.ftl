@@ -91,8 +91,11 @@ m24-home-donate-your-voice = Donera din röst
 m24-home-our-transformation = Vår förvandling
 m24-home-how-do-legacy = Hur kolliderar gamla värden med innovation? I det här samtalet ger Mark Surman en förhandsvisning av hur vi transformerar { -brand-name-mozilla } inför AI:s era.
 # Used as an accessible text alternative for an image
+m24-home-alt-transformation = Byt signal med Mark Surman och MBS
+# Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = Moln med rosa bakgrund
 m24-home-any-agent = Alla agenter
+m24-home-stop-wiring-tools = Sluta koppla ihop verktyg och passa spröda automatiseringar. Med agentplattformen { -brand-name-mozilla-ai-v2 } beskriver du ditt mål, vi genererar adaptiva AI-agenter som fungerar med dina verktyg och processer.
 
 ## Media Springboard
 
