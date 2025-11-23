@@ -119,7 +119,27 @@ m24-home-headline-you-ai-v2 = Tu, IA e internet, que evenira realmente?
 m24-home-shake-to-summarize = Agita pro resumer in le melior inventiones del TIME del 2025
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } da le benvenita a Raffi Krikorian como Functionario Responsabile del Technologia
 m24-home-tech-target = Objectivo technologic
+m24-home-mozilla-ai-ceo = Le director general de { -brand-name-mozilla-ai-v2 } discute re le avantages del IA open-source
+m24-home-introducing-thundermail-and = Introduction de Thundermail e Thunderbird Pro
+m24-home-what-comes-next = Lo que succede postea in le technologia es un selection. Selige con nos.
+m24-home-how-ventures-investee = Como Ventures Investee Germ reinfortia le cryptation
+m24-home-tech-crunch = Tech Crunch
+m24-home-a-good-moment = ‘Un bon momento pro nos’: { -brand-name-firefox } a guida del navigatores IA e le futuro del web
+m24-home-the-guardian = The Guardian
+m24-home-interview-take-open = Intervista: portar le open-source in le era del IA
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = MIT Sloan Review
+m24-home-mit-sloan-management-review = MIT Sloan Management Review
+m24-home-axios = Axios
+m24-home-mozillas-new-message = Nove message de { -brand-name-mozilla }: nos es le sol navigator non supportate per milliardarios
+m24-home-fast-company = Fast Company
+m24-home-will-agi-be = Sera AGI un realitate, e es nos preste?
+m24-home-conversation-charting-a = Conversation: delinear un futuro pro accessibilitate e autonomia
+m24-home-tech-policy-press = Tech Policy Press
+m24-home-open-by-design = Aperte per projecto: como le nationes poter competer in le etate del IA
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } delinea un nove route con un torno verso le rentabilitate
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -138,10 +158,23 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se reinventa, s
 m24-home-state-of-mozilla-alt = Arte abstracte de pixel in tonalitates de verde, orange e rosate
 m24-home-read-the-report = Leger le reporto
 
+## Data Collective
+
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-create-curate-control = Crear. Curar. Controlar.
+
 ## Issues
 
+m24-home-the-validation-machines = The Validation Machines
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = Un persona in miniatura reguardante un grande clave de claviero e un schermo de computator hypnotisante
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, conductor de IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Nostre podcast plure-premiate presenta le autores de cambiamentos qui labora pro render internet plus secur e le IA plus digne de fide.
 m24-home-irl-listen-now = Ascoltar ora
+
+## Outside the Fox
+
+m24-home-outside-the-fox = Outside the Fox
+m24-home-fox-listen-now = Ascoltar ora
