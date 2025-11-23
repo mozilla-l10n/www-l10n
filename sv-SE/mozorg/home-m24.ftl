@@ -125,7 +125,11 @@ m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = "Ett bra tillfälle för oss": { -brand-name-firefox } fokuserar på AI-webbläsare och vad som kommer härnäst för webben
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = Intervju: Att ta öppen källkod in i AI-eran
+m24-home-axios = Axios
+m24-home-fast-company = Fast Company
+m24-home-tech-policy-press = Tech Policy Press
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
