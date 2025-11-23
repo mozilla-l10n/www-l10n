@@ -165,11 +165,13 @@ m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-create-curate-control = Crear. Curar. Controlar.
 # Obsolete string (expires 2026-03-20)
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective re-organisa le ecosystema de datos del IA con le communitates al centro. Accede ultra 300 collectiones mundial de datos de alte-qualitate producite per e pro le communitate in maniera transparente e ethic.
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective re-organisa le ecosystema de datos del IA con le communitates al centro. Accede ultra 300 collectiones mundial de datos de alte-qualitate producite per e pro le communitate in maniera transparente e ethic.
 m24-home-join-mozilla-data = Junge te a { -brand-name-mozilla } Datos Collective
 
 ## Issues
 
 m24-home-the-validation-machines = The Validation Machines
+m24-home-in-the-atlantic = In The Atlantic, le director technic de { -brand-name-mozilla } Raffi Krikorian se demanda perque le robotes confabulator e le IA generative es si ardorose de complacer nos, e que significa il pro le humanitate. (imagine per gentil concession de Le Atlantic)
 # Used as an accessible text alternative for an image
 m24-home-alt-validation = Un persona in miniatura reguardante un grande clave de claviero e un schermo de computator hypnotisante
 # Used as an accessible text alternative for an image
@@ -181,4 +183,5 @@ m24-home-irl-listen-now = Ascoltar ora
 ## Outside the Fox
 
 m24-home-outside-the-fox = Outside the Fox
+m24-home-this-is-where = Il es ci que nos explora lo que eveni online e perque il es importante, ab le perque le contentos immunde va dominar internet, al cultura viral de internet.
 m24-home-fox-listen-now = Ascoltar ora
