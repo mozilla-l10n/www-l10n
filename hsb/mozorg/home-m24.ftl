@@ -122,6 +122,7 @@ m24-home-introducing-thundermail-and = Předstajamy Thundermail a Thunderbird Pr
 m24-home-what-comes-next = Štož jako přichodne w technologiji přińdźe je wuběr. Wubjerće z nami.
 m24-home-how-ventures-investee = Kak přijimar inwesticijow rizikoweho kapitala Germ zaklučowanje sylni
 m24-home-tech-crunch = Tech Crunch
+m24-home-a-good-moment = ‘Dobry wokomik w času za nas: { -brand-name-firefox } na čole před wobhladowakami KI a štož je přichodne za web
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = Interview: Přewzaće wotewrjeneho žórła do ery KI
 # Obsolete string (expires 2026-03-20)
@@ -160,6 +161,9 @@ m24-home-read-the-report = Čitajće rozprawu
 
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-create-curate-control = Wutworić. Wothladać. Kontrolować.
+# Obsolete string (expires 2026-03-20)
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective datowy ekosystem Ki ze zhromadźenstwami w centrumje přetworja. Přistup k přez 300 globalnych datowych zběrkow wysokeje kwality, kotrež su so wot zhromadźenstwa a za zhromadźenstwo na transparentne a etiske wašnje wutworili.
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective datowy ekosystem Ki ze zhromadźenstwami w centrumje přetworja. Přistup k přez 300 globalnych datowych zběrkow wysokeje kwality, kotrež su so wot zhromadźenstwa a za zhromadźenstwo na transparentne a etiske wašnje wutworili.
 m24-home-join-mozilla-data = { -brand-name-mozilla } Data Collective přidružić
 
 ## Issues
