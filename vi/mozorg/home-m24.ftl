@@ -88,6 +88,7 @@ m24-home-got-an-earlystage = Bạn đã khởi nghiệp ở giai đoạn đầu?
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Đóng góp giọng nói của bạn để làm cho công nghệ giọng nói trở nên toàn diện hơn và dễ tiếp cận hơn đối với mọi người.
 m24-home-donate-your-voice = Đóng góp giọng nói của bạn
+m24-home-how-do-legacy = Các giá trị truyền thống xung đột như thế nào với sự đổi mới? Trong cuộc trò chuyện này, Mark Surman sẽ giới thiệu cách chúng tôi đang xoay chuyển { -brand-name-mozilla } cho kỷ nguyên AI.
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = Đám mây với nền màu hồng
 
@@ -111,7 +112,7 @@ m24-home-headline-you-ai-v2 = Bạn, AI và Internet – chuyện gì đang th�
 m24-home-shake-to-summarize = Lắc để tóm tắt những phát minh tuyệt vời nhất năm 2025 của TIME
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } chào đón Raffi Krikorian làm Giám đốc công nghệ
 m24-home-tech-target = Tech Target
-m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } CEO nói về lợi thế của AI nguồn mở
+m24-home-mozilla-ai-ceo = CEO { -brand-name-mozilla-ai-v2 } nói về lợi thế của AI nguồn mở
 m24-home-introducing-thundermail-and = Giới thiệu Thundermail và Thunderbird Pro
 m24-home-what-comes-next = Điều tiếp theo trong công nghệ là sự lựa chọn. Hãy lựa chọn cùng chúng tôi.
 m24-home-how-ventures-investee = Germ, công ty được Ventures Investee đầu tư, đang tăng cường mã hóa như thế nào
