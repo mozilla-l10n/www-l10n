@@ -88,12 +88,12 @@ m24-home-got-an-earlystage = Van egy korai fázisú induló vállalkozása? Muta
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Adományozza a hangját, hogy a beszédtechnológia befogadóbb és mindenki számára elérhető legyen.
 m24-home-donate-your-voice = Adja a hangját
-m24-home-our-transformation = A mi átalakulásunk
+m24-home-our-transformation = Az átalakulásunk
 m24-home-how-do-legacy = Hogyan ütköznek az örökölt értékek az innovációval? Ebben a beszélgetésben Mark Surman bemutatja, hogyan alakítjuk át a(z) { -brand-name-mozilla } vállalatot a mesterséges intelligencia korszakában.
 # Used as an accessible text alternative for an image
 m24-home-alt-transformation = Jel módosítása Mark Surman és MBS segítségével
 # Used as an accessible text alternative for an image
-m24-home-alt-pink-cloud = Felhő, rózsaszín háttér
+m24-home-alt-pink-cloud = Felhő, rózsaszín háttérrel
 m24-home-any-agent = Bármely ügynök
 m24-home-stop-wiring-tools = Ne huzalozza össze a szerszámokat és ne vigyázzon a törékeny automatizálásokra. A { -brand-name-mozilla-ai-v2 } Agent Platformmal írja le a célját, mi adaptív MI-ügynököket állítunk elő, amelyek együttműködnek az eszközeivel és folyamataival.
 
@@ -115,12 +115,12 @@ m24-home-topic-open-source-ai = Nyílt forráskódú MI
 m24-home-topic-ps = Adatvédelem és biztonság
 m24-home-headline-you-ai-v2 = Ön, az MI és az internet – mi is történik valójában?
 m24-home-shake-to-summarize = Rázza meg, hogy összefoglalja a TIME 2025 legjobb találmányait
-m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } üdvözli Raffi Krikoriant technológiai igazgatóként
+m24-home-mozilla-welcomes-raffi = A { -brand-name-mozilla } üdvözli Raffi Krikoriant műszaki igazgatóként
 m24-home-tech-target = Tech Target
-m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } vezérigazgató a nyílt forráskódú MI előnyeiről beszélt
+m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } vezérigazgató a nyílt forráskódú MI előnyeiről beszél
 m24-home-introducing-thundermail-and = Bemutatkozik a Thundermail és a Thunderbird Pro
 m24-home-what-comes-next = Ami ezután következik a technológiában, az egy választás. Válasszon velünk.
-m24-home-how-ventures-investee = Hogyan erősíti a titkosítást a Ventures Investee csíra
+m24-home-how-ventures-investee = Hogyan erősíti a titkosítást a Ventures Investee befektetése
 m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = „Számunkra egy jó pillanat”: { -brand-name-firefox } fej a mesterséges intelligencia böngészőkre és mi következik a webes fejlesztésekben
 m24-home-the-guardian = A Guardian
