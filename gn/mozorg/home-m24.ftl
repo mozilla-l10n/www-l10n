@@ -109,6 +109,7 @@ m24-home-topic-ps = Ñemigua ha Tekorosã
 m24-home-headline-you-ai-v2 = Nde, IA ha ñanduti: ¿mba’ete pe ojehuvahína?
 m24-home-shake-to-summarize = Shake oĩ apopyre iporãvévarõ 2025 arýpe TIME he’iháicha.
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } ombohupa Raffi Krikorian-pe tembiporupyahu myakãhárarõ.
+m24-home-tech-target = Tembiporupyahu rehegua
 m24-home-the-guardian = The Guardian
 m24-home-mozilla = { -brand-name-mozilla }
 
