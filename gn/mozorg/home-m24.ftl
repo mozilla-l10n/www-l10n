@@ -110,6 +110,8 @@ m24-home-headline-you-ai-v2 = Nde, IA ha ñanduti: ¿mba’ete pe ojehuvahína?
 m24-home-shake-to-summarize = Shake oĩ apopyre iporãvévarõ 2025 arýpe TIME he’iháicha.
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } ombohupa Raffi Krikorian-pe tembiporupyahu myakãhárarõ.
 m24-home-tech-target = Tembiporupyahu rehegua
+m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } CEO omombe’u iporãha IA ijayvu jurujáva
+m24-home-introducing-thundermail-and = Rohechauka Thundermail ha Thunderbird Pro
 m24-home-the-guardian = The Guardian
 m24-home-mozilla = { -brand-name-mozilla }
 
