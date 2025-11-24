@@ -115,7 +115,9 @@ m24-home-introducing-thundermail-and = Rohechauka Thundermail ha Thunderbird Pro
 m24-home-what-comes-next = Oútava tembiporupyahu ndive eiporavokuaa. Eiporavo orendive.
 m24-home-how-ventures-investee = Germ, mba’apohaguasu Ventures-pe oykekóva, omobarete pe mbopapapy
 m24-home-tech-crunch = Tech Crunch
+m24-home-a-good-moment = «Mba’eporã oréve g̃uarã ko’ág̃a»: { -brand-name-firefox } oma’ẽ kundahárare IA ndive ha ñandutirogue renonderã.
 m24-home-the-guardian = The Guardian
+m24-home-interview-take-open = Ñomongeta: Eguerahávo ayvu ijurujáva IA ndive
 m24-home-mozilla = { -brand-name-mozilla }
 
 ## Showcase
