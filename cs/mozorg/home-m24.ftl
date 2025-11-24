@@ -124,21 +124,21 @@ m24-home-how-ventures-investee = Jak Ventures Investee Germ posiluje šifrován�
 m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = Skvělý okamžik pro nás: { -brand-name-firefox } věnujte pozornost AI prohlížečům a novinkám na webu
 m24-home-the-guardian = The Guardian
-m24-home-interview-take-open = Rozhovor: Vyvedení otevřeného softwaru do éry umělé inteligence
+m24-home-interview-take-open = Rozhovor: open source v éře umělé inteligence
 # Obsolete string (expires 2026-03-20)
 m24-home-mit-sloan-review = MIT Sloan Review
 m24-home-mit-sloan-management-review = MIT Sloan Management Review
-m24-home-mozilla-ventures-funds = Částka { -brand-name-mozilla-ventures } financuje síťovou platformu Filament
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } financuje síťovou platformu Filament
 m24-home-axios = Axios
 m24-home-mozillas-new-message = Nová zpráva od { -brand-name-mozilla }: Jsme jediný prohlížeč, který není podporován miliardáři
-m24-home-fast-company = Rychlá společnost
-m24-home-will-agi-be = Bude AGI skutečností – a jsme připraveni?
+m24-home-fast-company = Fast Company
+m24-home-will-agi-be = Bude AGI skutečností — a jsme připraveni?
 m24-home-conversation-charting-a = Konverzace: Zmapování budoucnosti přístupu a agentury
 m24-home-tech-policy-press = Tech Policy Press
 m24-home-open-by-design = Open By Design: Jak mohou národy soutěžit ve věku umělé inteligence
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } mapuje nový kurz s obratem směrem k ziskovosti
-m24-home-silicon-angle = Křemíkový úhel
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -159,12 +159,12 @@ m24-home-read-the-report = Přečtěte si report
 
 ## Data Collective
 
-m24-home-mozilla-data-collective = { -brand-name-mozilla } souhrn dat
-m24-home-mozilla-create-curate-control = Vytvořit. Výběr. Ovládání.
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-create-curate-control = Tvoř. Spravuj. Ovládej.
 # Obsolete string (expires 2026-03-20)
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective obnovuje ekosystém dat pomocí umělé inteligence, s komunitami ve středu zájmu. Přistupujte k více než 300 vysoce kvalitních globálních datasetů, které byly vytvořeny celou komunitou, a to transparentním a etickým způsobem.
 m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective přestavuje datový ekosystém umělé inteligence s komunitami ve středu zájmu. Přistupujte k více než 300 vysoce kvalitních globálních datasetů, které byly vytvořeny celou komunitou, a to transparentním a etickým způsobem.
-m24-home-join-mozilla-data = Připojte se ke kolektivu dat { -brand-name-mozilla }
+m24-home-join-mozilla-data = Přidejte se k { -brand-name-mozilla } Data Collective
 
 ## Issues
 
