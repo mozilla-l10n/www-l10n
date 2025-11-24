@@ -112,6 +112,9 @@ m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } ombohupa Raffi Krikori
 m24-home-tech-target = Tembiporupyahu rehegua
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } CEO omombe’u iporãha IA ijayvu jurujáva
 m24-home-introducing-thundermail-and = Rohechauka Thundermail ha Thunderbird Pro
+m24-home-what-comes-next = Oútava tembiporupyahu ndive eiporavokuaa. Eiporavo orendive.
+m24-home-how-ventures-investee = Germ, mba’apohaguasu Ventures-pe oykekóva, omobarete pe mbopapapy
+m24-home-tech-crunch = Tech Crunch
 m24-home-the-guardian = The Guardian
 m24-home-mozilla = { -brand-name-mozilla }
 
