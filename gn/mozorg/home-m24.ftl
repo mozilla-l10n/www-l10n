@@ -118,6 +118,9 @@ m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = «Mba’eporã oréve g̃uarã ko’ág̃a»: { -brand-name-firefox } oma’ẽ kundahárare IA ndive ha ñandutirogue renonderã.
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = Ñomongeta: Eguerahávo ayvu ijurujáva IA ndive
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = Sloan jehaipyre MIT rehegua
+m24-home-axios = Axios
 m24-home-mozilla = { -brand-name-mozilla }
 
 ## Showcase
