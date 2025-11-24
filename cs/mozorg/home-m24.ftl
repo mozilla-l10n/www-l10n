@@ -89,7 +89,7 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Darujte svůj hlas pro lepší přístupnost hlasových technologií pro každého.
 m24-home-donate-your-voice = Darujte svůj hlas
 m24-home-our-transformation = Naše proměna
-m24-home-how-do-legacy = Jak se střetávají původní hodnoty s inovacemi? V tomto rozhovoru nám Mark Surman ukáže, jak přetváříme částku za { -brand-name-mozilla } pro éru umělé inteligence.
+m24-home-how-do-legacy = Jak se střetávají starší hodnoty s inovacemi? Mark Surman v tomto rozhovoru přibližuje, jak transformujeme { -brand-name-mozilla(case: "acc") } pro éru umělé inteligence.
 # Used as an accessible text alternative for an image
 m24-home-alt-transformation = Změňte signál s Markem Surmanem a MBS
 # Used as an accessible text alternative for an image
@@ -114,7 +114,7 @@ m24-home-topic-ai = Umělá inteligence
 m24-home-topic-open-source-ai = Open Source AI
 m24-home-topic-ps = Soukromí a zabezpečení
 m24-home-headline-you-ai-v2 = Vy, umělá inteligence a internet – co se ve skutečnosti děje?
-m24-home-shake-to-summarize = Protřepáním podle magazínu TIME najdete seznam nejlepších vynálezů roku 2025
+m24-home-shake-to-summarize = Funkce 'Zatřesení pro shrnutí' v žebříčku nejlepších inovací roku 2025 dle časopisu TIME
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } vítá Raffiho Krikoriana na pozici Chief Technology Officer
 m24-home-tech-target = Technický cíl
 m24-home-mozilla-ai-ceo = Výkonný ředitel { -brand-name-mozilla-ai-v2 } hovoří o výhodách umělé inteligence s otevřeným zdrojovým kódem
