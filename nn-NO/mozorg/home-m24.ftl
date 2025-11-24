@@ -100,6 +100,7 @@ m24-home-tag-article = Artikkel
 m24-home-tag-podcast = Podkast
 m24-home-tag-video = Video
 m24-home-topic-news = Nyheiter
+m24-home-topic-products = Produkt
 m24-home-topic-ai = Kunstig intelligens
 m24-home-topic-ps = Personvern og sikkerheit
 m24-home-headline-you-ai-v2 = Du, AI og internett – kva skjer eigentleg?
