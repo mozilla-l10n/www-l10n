@@ -90,12 +90,21 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Faites don de votre voix pour rendre les technologies vocales plus inclusives et accessibles à toutes et tous.
 m24-home-donate-your-voice = Donner votre voix
 
+m24-home-our-transformation = Notre transformation
+m24-home-how-do-legacy = Comment concilier nos valeurs historiques avec l’innovation ? Lors de cette conversation, Mark Surman explique comment nous transformons { -brand-name-mozilla } pour intégrer l’ère de l’IA.
+# Used as an accessible text alternative for an image
+m24-home-alt-transformation = Podcast Change Signal, avec Mark Surman et MBS
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Nuage avec un arrière-plan rose
+m24-home-any-agent = Any Agent
+m24-home-stop-wiring-tools = Fini de bricoler pour relier différents outils et de contrôler en permanence des automatisations fragiles. Avec la plateforme { -brand-name-mozilla-ai-v2 } Agent, vous décrivez vos objectifs et nous générons des agents d’IA adaptative conçus pour fonctionner avec vos outils et vos processus.
 
 ## Media Springboard
 
 m24-home-type = Type
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Auteur
+m24-home-author-v2 = Auteur(s)
 m24-home-topic = Sujet
 m24-home-intro = Intro
 m24-home-tag-article = Article
@@ -104,8 +113,34 @@ m24-home-tag-video = Vidéo
 m24-home-topic-news = Nouveautés
 m24-home-topic-products = Produits
 m24-home-topic-ai = Intelligence artificielle
+m24-home-topic-open-source-ai = IA open source
 m24-home-topic-ps = Confidentialité et sécurité
 m24-home-headline-you-ai-v2 = L’IA, Internet et vous — que se passe-t-il vraiment ?
+m24-home-shake-to-summarize = La fonctionnalité Shake to Summarize figure dans les meilleures inventions 2025 de TIME Magazine
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } a le plaisir d’accueillir Raffi Krikorian au poste de Directeur des technologies
+m24-home-tech-target = Tech Target
+m24-home-mozilla-ai-ceo = Le PDG de { -brand-name-mozilla-ai-v2 } explique les avantages de l’IA open source
+m24-home-introducing-thundermail-and = Découvrez Thundermail et Thunderbird Pro
+m24-home-what-comes-next = Le futur de la tech est un choix. Faites ce choix avec nous.
+m24-home-how-ventures-investee = Comment la coentreprise Germ perfectionne le chiffrement
+m24-home-tech-crunch = Tech Crunch
+m24-home-a-good-moment = « C’est une période propice pour nous » : le directeur de { -brand-name-firefox } s’exprime sur les navigateurs IA et le futur du Web
+m24-home-the-guardian = The Guardian
+m24-home-interview-take-open = Interview : intégrer l’open source dans l’ère de l’IA
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = MIT Sloan Review
+m24-home-mit-sloan-management-review = MIT Sloan Management Review
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } finance la plateforme de réseautage Filament
+m24-home-axios = Axios
+m24-home-mozillas-new-message = Le nouveau message de { -brand-name-mozilla } : « Le seul navigateur non financé par des milliardaires »
+m24-home-fast-company = Fast Company
+m24-home-will-agi-be = L’IAG deviendra-t-elle réalité, et y sommes-nous préparés ?
+m24-home-conversation-charting-a = Conversation : préparer le futur de l’accessibilité et l’agentivité
+m24-home-tech-policy-press = Tech Policy Press
+m24-home-open-by-design = L’ouverture par défaut : comment les nations entrent en compétition à l’ère de l’IA
+m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } établit une nouvelle feuille de route, avec un virage vers la profitabilité
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -126,9 +161,19 @@ m24-home-read-the-report = Lire le rapport
 
 ## Data Collective
 
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-create-curate-control = Création. Curation. Contrôle.
+# Obsolete string (expires 2026-03-20)
+m24-home-mozilla-data-collective-is = Le { -brand-name-mozilla } Data Collective reconstruit l’écosystème de données de l’IA en plaçant les communautés au centre du processus. Accédez à plus de 300 ensembles de données mondiaux de haute qualité, conçus pour et par la communauté de façon transparente et éthique.
+m24-home-mozilla-data-collective-is-v3 = Le { -brand-name-mozilla } Data Collective reconstruit l’écosystème de données de l’IA en plaçant les communautés au centre du processus. Accédez à plus de 300 ensembles de données mondiaux de haute qualité, conçus pour et par la communauté de façon transparente et éthique.
+m24-home-join-mozilla-data = Rejoignez le { -brand-name-mozilla } Data Collective
 
 ## Issues
 
+m24-home-the-validation-machines = Les machines à validation
+m24-home-in-the-atlantic = Dans The Atlantic, le Directeur des technologies de { -brand-name-mozilla } Raffi Krikorian se demande pourquoi les chatbots et l’IA générative cherchent tant à nous plaire, et ce que cela signifie pour l’humanité. (image fournie par The Atlantic)
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = Une personne en miniature regarde une énorme touche de clavier et un écran d’ordinateur hypnotisant
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, présentatrice du podcast IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
@@ -137,4 +182,6 @@ m24-home-irl-listen-now = Écouter
 
 ## Outside the Fox
 
+m24-home-outside-the-fox = Outside the Fox
+m24-home-this-is-where = Un podcast dans lequel nous analysons ce qui se passe en ligne et pourquoi c’est important : de l’invasion des mauvais contenus IA à la culture internet virale.
 m24-home-fox-listen-now = Écouter
