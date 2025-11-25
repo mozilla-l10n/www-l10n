@@ -90,12 +90,21 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = स्पीच टेक्नोलॉजी को सभी के लिए अधिक समावेशी और सुलभ बनाने के लिए अपनी आवाज दान करें।
 m24-home-donate-your-voice = अपनी आवाज़ दान करें
 
+m24-home-our-transformation = हमारा रूपांतरण
+m24-home-how-do-legacy = विरासत में मिले मूल्यों के साथ इनोवेशन का किस तरह टकराव होता है? इस बातचीत में, Mark Surman एक झलक पेश कर रहे हैं कि AI के युग में हम { -brand-name-mozilla } को कैसे बदल रहे हैं।
+# Used as an accessible text alternative for an image
+m24-home-alt-transformation = बदलाव संकेत - Mark Surman और MBS के साथ
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = गुलाबी बैकग्राउंड के साथ बादल
+m24-home-any-agent = किसी भी तरह का एजेंट
+m24-home-stop-wiring-tools = अब न टूल्स को आपस में जोड़ने का झंझट, न नाजुक ऑटोमेशन को संभालने की मजबूरी। { -brand-name-mozilla-ai-v2 } एजेंट प्लेटफ़ॉर्म का इस्तेमाल करके, आप बस अपना उद्देश्य बताते हैं और हम आपके टूल्स व प्रोसेस के अनुरूप काम करने वाले एडॉप्टिव AI एजेंट तुरंत तैयार कर देते हैं।
 
 ## Media Springboard
 
 m24-home-type = उदाहरण
 # Obsolete string (expires 2026-03-13)
 m24-home-author = लेखक
+m24-home-author-v2 = रचनाकार
 m24-home-topic = विषय
 m24-home-intro = परिचय
 m24-home-tag-article = लेख
@@ -104,9 +113,34 @@ m24-home-tag-video = वीडियो
 m24-home-topic-news = समाचार
 m24-home-topic-products = उत्पाद
 m24-home-topic-ai = आर्टिफ़िशियल इंटेलिजेंस
+m24-home-topic-open-source-ai = ओपन सोर्स AI
 m24-home-topic-ps = गोपनीयता और सुरक्षा
 m24-home-headline-you-ai-v2 = आप, AI और इंटरनेट — वास्तव में क्या हो रहा है?
+m24-home-shake-to-summarize = TIME की 2025 की बेस्ट इन्वेंशंस में "हिलाकर सारांश बनाएं" वाला इनोवेशन भी शामिल
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } की ओर से चीफ़ टेक्नोलॉजी ऑफ़िसर के तौर पर Raffi Krikorian का स्वागत
+m24-home-tech-target = Tech Target
+m24-home-mozilla-ai-ceo = ओपन सोर्स AI के फ़ायदों पर { -brand-name-mozilla-ai-v2 } CEO की बातचीत
+m24-home-introducing-thundermail-and = पेश हैं Thundermail और Thunderbird Pro
+m24-home-what-comes-next = टेक्नोलॉजी में आगे क्या होगा, यह हम पर निर्भर है। आइए मिलकर फैसला लें।
+m24-home-how-ventures-investee = Ventures की निवेशित कंपनी Germ किस तरह एन्क्रिप्शन को मज़बूत बना रही है
+m24-home-tech-crunch = Tech Crunch
+m24-home-a-good-moment = ‘हमारे लिए यह एक अच्छा समय है’: { -brand-name-firefox } की AI ब्राउज़रों पर राय और वेब के भविष्य पर दृष्टिकोण
+m24-home-the-guardian = The Guardian
+m24-home-interview-take-open = इंटरव्यू: AI के दौर में ओपन सोर्स का भविष्य
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = MIT Sloan रिव्यू
+m24-home-mit-sloan-management-review = MIT Sloan मैनेजमेंट रिव्यू
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } द्वारा Filament नेटवर्किंग प्लेटफ़ॉर्म को वित्तीय सहयोग
+m24-home-axios = Axios
+m24-home-mozillas-new-message = { -brand-name-mozilla } का नया संदेश: हम एकमात्र ऐसे ब्राउज़र हैं जिस पर अरबपतियों का कोई कंट्रोल नहीं है
+m24-home-fast-company = Fast Company
+m24-home-will-agi-be = क्या AGI हकीकत बनेगा — और क्या हम इसके लिए तैयार हैं?
+m24-home-conversation-charting-a = बातचीत: एक्सेस और एजेंसी के नए युग की रूपरेखा
+m24-home-tech-policy-press = Tech Policy Press
+m24-home-open-by-design = डिज़ाइन में पारदर्शिता: AI युग में देशों के बीच प्रतिस्पर्धा की दिशा
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } अब लाभ बढ़ाने की दिशा में कदम बढ़ाते हुए नई राह पर
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -127,9 +161,19 @@ m24-home-read-the-report = रिपोर्ट पढ़ें
 
 ## Data Collective
 
+m24-home-mozilla-data-collective = { -brand-name-mozilla } डेटा कलेक्टिव
+m24-home-mozilla-create-curate-control = क्रिएट करें। व्यवस्थित करें। कंट्रोल करें।
+# Obsolete string (expires 2026-03-20)
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } डेटा कलेक्टिव अब कम्युनिटी-केंद्रित दृष्टिकोण के साथ AI डेटा इकोसिस्टम को नया रूप दे रहा है। 300 से अधिक उच्च-गुणवत्ता वाले वैश्विक डेटासेट्स का एक्सेस पाएं, जो कम्युनिटी द्वारा और कम्युनिटी के लिए पारदर्शी व नैतिक तरीके से निर्मित किए गए हैं।
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } डेटा कलेक्टिव अब कम्युनिटी-केंद्रित दृष्टिकोण के साथ AI डेटा इकोसिस्टम को नया रूप दे रहा है। 300 से अधिक उच्च-गुणवत्ता वाले वैश्विक डेटासेट्स का एक्सेस पाएं, जो कम्युनिटी द्वारा और कम्युनिटी के लिए पारदर्शी व नैतिक तरीके से निर्मित किए गए हैं।
+m24-home-join-mozilla-data = { -brand-name-mozilla } डेटा कलेक्टिव से जुडें
 
 ## Issues
 
+m24-home-the-validation-machines = वैलिडेशन मशीन
+m24-home-in-the-atlantic = The Atlantic में, { -brand-name-mozilla } के CTO Raffi Krikorian सवाल उठाते हैं कि चैटबॉट्स और जनरेटिव AI हमें प्रसन्न रखने को इतना आतुर क्यों हैं, और इसका मानवता के भविष्य पर क्या असर होगा। (तस्वीर साभार: The Atlantic)
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = एक छोटे कद का इंसान विशाल कीबोर्ड के बटन और सम्मोहक कंप्यूटर स्क्रीन को निहार रहा है
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = ब्रिजेट टॉड, IRL पॉडकास्ट में होस्ट।
 m24-home-irl-podcast = { -brand-name-irl-podcast }
@@ -138,3 +182,6 @@ m24-home-irl-listen-now = अभी सुनें
 
 ## Outside the Fox
 
+m24-home-outside-the-fox = Outside the Fox
+m24-home-this-is-where = यह वह जगह है जहां हम ऑनलाइन होने वाली चीज़ों और उनके महत्व की पड़ताल करते हैं, इंटरनेट पर एआई-जनरेटेड कंटेंट 'स्लॉप' के बढ़ते प्रभाव से लेकर वायरल इंटरनेट संस्कृति तक।
+m24-home-fox-listen-now = अभी सुनें
