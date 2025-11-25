@@ -8,7 +8,7 @@ moz-account-promo-title = O singură autentificare. <br> <span { $class }>Totul<
 # Variables
 #   $sign_in_url - link to
 #   $learn_more_url - link to https://www.mozilla.org/en-US/firefox/accounts/
-moz-account-already-have-v2 = Ai deja un cont? <a { $sign_in_url }>Autentifică-te</a> sau <a { $learn_more_url }>află mai multe</a> despre alăturarea la { -brand-name-mozilla }.
+moz-account-already-have-v2 = Ai deja un cont? <a { $sign_in_url }>Intră în cont</a> sau <a { $learn_more_url }>află mai multe</a> despre alăturarea la { -brand-name-mozilla }.
 moz-account-product-firefox = { -brand-name-firefox }
 moz-account-product-monitor = { -brand-name-monitor }
 moz-account-product-vpn = { -brand-name-mozilla-vpn }
