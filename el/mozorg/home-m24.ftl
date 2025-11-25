@@ -97,6 +97,7 @@ m24-home-alt-pink-cloud = Σύννεφο με ροζ παρασκήνιο
 m24-home-type = Τύπος
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Δημιουργός
+m24-home-author-v2 = Δημιουργοί
 m24-home-topic = Θέμα
 m24-home-intro = Εισαγωγή
 m24-home-tag-article = Άρθρο
@@ -107,7 +108,14 @@ m24-home-topic-products = Προϊόντα
 m24-home-topic-ai = Τεχνητή νοημοσύνη
 m24-home-topic-ps = Απόρρητο και ασφάλεια
 m24-home-headline-you-ai-v2 = Εσείς, η τεχνητή νοημοσύνη και το διαδίκτυο· τι πραγματικά συμβαίνει;
+m24-home-tech-target = Tech Target
+m24-home-tech-crunch = Tech Crunch
 m24-home-the-guardian = The Guardian
+m24-home-axios = Axios
+m24-home-fast-company = Fast Company
+m24-home-tech-policy-press = Tech Policy Press
+m24-home-mozilla = { -brand-name-mozilla }
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
