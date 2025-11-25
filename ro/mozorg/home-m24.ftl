@@ -89,21 +89,30 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Donează-ți vocea pentru a face tehnologia vorbirii mai incluzivă și mai accesibilă pentru toată lumea.
 m24-home-donate-your-voice = Donează-ți vocea
 m24-home-our-transformation = Transformarea noastră
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Nor cu fundal roz
+m24-home-any-agent = Orice agent
 
 ## Media Springboard
 
 m24-home-type = Tip
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Autor
+m24-home-author-v2 = Autor(i)
 m24-home-topic = Subiect
 m24-home-intro = Introducere
 m24-home-tag-article = Articol
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Videoclip
 m24-home-topic-news = Știri
+m24-home-topic-products = Produse
 m24-home-topic-ai = Inteligenţă artificială
+m24-home-topic-open-source-ai = IA cu sursă deschisă
 m24-home-topic-ps = Confidențialitate și securitate
 m24-home-headline-you-ai-v2 = Tu, IA și internetul — ce se întâmplă cu adevărat?
+m24-home-introducing-thundermail-and = Prezentare Thundermail și Thunderbird Pro
+m24-home-the-guardian = The Guardian
+m24-home-mozilla = { -brand-name-mozilla }
 
 ## Showcase
 
@@ -129,3 +138,7 @@ m24-home-alt-irl-host = Bridget Todd, gazda podcastului IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Podcastul nostru, premiat în mai multe rânduri, îi prezintă pe cei care contribuie la schimbare și care lucrează pentru a face internetul mai sigur și IA mai de încredere.
 m24-home-irl-listen-now = Ascultă acum
+
+## Outside the Fox
+
+m24-home-fox-listen-now = Ascultă acum
