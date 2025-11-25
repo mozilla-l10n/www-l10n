@@ -10,6 +10,9 @@ footer-refresh-learn-more-about-mozilla-ads = <span>{ footer-refresh-mozilla-ads
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = <span>{ -brand-name-mozilla } 広告</span>の詳細
 footer-refresh-firefox-release-notes = { -brand-name-firefox } リリースノート
+# Obsolete string (expires 2026-03-13)
+footer-refresh-extend-reach = リーチを広げて。信頼を深めて。
+footer-refresh-add-trust-to = 広告の購入に信頼を。
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } をフォロー
 footer-refresh-instagram = Instagram

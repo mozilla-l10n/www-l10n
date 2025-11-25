@@ -90,12 +90,21 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = 音声技術をより包摂的で誰にとっても利用しやすいものにするために、あなたの声を寄贈してください。
 m24-home-donate-your-voice = 声を寄贈する
 
+m24-home-our-transformation = Mozilla の変革
+m24-home-how-do-legacy = 古い価値観とイノベーションの衝突は？ AI の時代に向けた { -brand-name-mozilla } の変革を Mark Surman が展望する対談です。
+# Used as an accessible text alternative for an image
+m24-home-alt-transformation = Mark Surman と MBS が見る変革の兆し
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = 雲とピンクの背景
+m24-home-any-agent = あらゆるエージェント
+m24-home-stop-wiring-tools = あれこれ道具をかけ合わせたり、脆弱なオートメーションのお世話をしたりする必要はもうありません。{ -brand-name-mozilla-ai-v2 } エージェントプラットフォームでは、ユーザーが求めるものを説明するだけで、お使いのツールやプロセスと連携する適応型 AI エージェントを生成できます。
 
 ## Media Springboard
 
 m24-home-type = タイプ
 # Obsolete string (expires 2026-03-13)
 m24-home-author = 著者
+m24-home-author-v2 = 著者
 m24-home-topic = トピック
 m24-home-intro = はじめに
 m24-home-tag-article = 記事
@@ -104,9 +113,34 @@ m24-home-tag-video = 動画
 m24-home-topic-news = ニュース
 m24-home-topic-products = 製品
 m24-home-topic-ai = 人工知能
+m24-home-topic-open-source-ai = オープンソース AI
 m24-home-topic-ps = プライバシーとセキュリティ
 m24-home-headline-you-ai-v2 = あなたと AI とインターネット — 真実の現状
+m24-home-shake-to-summarize = シェイクして TIME 誌の「Best Inventions of 2025」を要約
+m24-home-mozilla-welcomes-raffi = Raffi Krikorian が { -brand-name-mozilla } 最高技術責任者に就任
+m24-home-tech-target = Tech Target
+m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } CEO が語るオープンソース AI の優位性
+m24-home-introducing-thundermail-and = Thundermail と Thunderbird Pro のご紹介
+m24-home-what-comes-next = 次なるテクノロジーの流れは、選択です。私たちと一緒に選びましょう。
+m24-home-how-ventures-investee = 暗号化を強化するベンチャー投資先 Germ
+m24-home-tech-crunch = Tech Crunch
+m24-home-a-good-moment = 「私たちにとって良いタイミング」: AI ブラウザーとこれからのウェブについて語る { -brand-name-firefox } 首脳
+m24-home-the-guardian = The Guardian
+m24-home-interview-take-open = インタビュー: オープンソースを AI の時代へ
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = MIT Sloan Review
+m24-home-mit-sloan-management-review = MIT Sloan Management Review
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures }、Filament ネットワーキングプラットフォームに出資
+m24-home-axios = Axios
+m24-home-mozillas-new-message = { -brand-name-mozilla } からの新しいメッセージ: Mozilla は億万長者に運営されていない唯一のブラウザー
+m24-home-fast-company = Fast Company
+m24-home-will-agi-be = AGI は実現し、我々に準備はできているのか？
+m24-home-conversation-charting-a = 対談: アクセスとエージェンシーへの未来を描く
+m24-home-tech-policy-press = Tech Policy Press
+m24-home-open-by-design = オープンな設計: AI の時代に国家が競争する方法
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 }、黒字を目指して方向転換へ
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -127,9 +161,19 @@ m24-home-read-the-report = レポートを読む
 
 ## Data Collective
 
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-create-curate-control = 創造して。厳選して。管理する。
+# Obsolete string (expires 2026-03-20)
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective は、コミュニティを中心に据えて AI データのエコシステムを再構築しています。透明かつ倫理的な形で、コミュニティによってコミュニティのために構築された 300 以上の高品質なグローバルデータセットにアクセスできます。
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective は、コミュニティを中心に据えて AI データのエコシステムを再構築しています。透明かつ倫理的な形で、コミュニティによってコミュニティのために構築された 300 以上の高品質なグローバルデータセットにアクセスできます。
+m24-home-join-mozilla-data = { -brand-name-mozilla } Data Collective に参加
 
 ## Issues
 
+m24-home-the-validation-machines = The Validation Machines
+m24-home-in-the-atlantic = The Atlantic にて、{ -brand-name-mozilla } CTO の Raffi Krikorian が問いかけます。なぜチャットボットと生成 AI は私たちを喜ばせようとするのか、そしてそれは人類にとって何を意味するのか。(画像提供: The Atlantic)
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = 大きなキーボードのキーと催眠術のようなコンピューター画面を見ているミニチュアの人物。
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = IRL ポッドキャストの話し手、ブリジット・トッド。
 m24-home-irl-podcast = { -brand-name-irl-podcast }
@@ -138,3 +182,6 @@ m24-home-irl-listen-now = 聴く
 
 ## Outside the Fox
 
+m24-home-outside-the-fox = Outside the Fox
+m24-home-this-is-where = AI スロップがインターネットに蔓延する理由からバイラルインターネットカルチャーまで、オンラインで起きていること、そしてそれが重要である理由を考察します。
+m24-home-fox-listen-now = 聴く
