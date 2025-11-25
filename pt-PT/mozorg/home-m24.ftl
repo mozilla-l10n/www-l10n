@@ -168,6 +168,7 @@ m24-home-join-mozilla-data = Junte-se ao grupo de dados { -brand-name-mozilla }
 
 ## Issues
 
+m24-home-explore-issues-shaping = Explorar questões que estão a moldar o futuro da Internet
 m24-home-the-validation-machines = As máquinas de validação
 m24-home-in-the-atlantic = No The Atlântico, o { -brand-name-mozilla } CTO href="https://www.mozilla.org/projects/rt-messaging/chatzilla/> { -brand-name-mozilla }" (imagem cortesia de The Atlântico)
 # Used as an accessible text alternative for an image

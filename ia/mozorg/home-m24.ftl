@@ -170,6 +170,7 @@ m24-home-join-mozilla-data = Junge te a { -brand-name-mozilla } Datos Collective
 
 ## Issues
 
+m24-home-explore-issues-shaping = Explora problemas que tracia le futuro de internet
 m24-home-the-validation-machines = The Validation Machines
 m24-home-in-the-atlantic = In The Atlantic, le director technic de { -brand-name-mozilla } Raffi Krikorian se demanda perque le robotes confabulator e le IA generative es si ardorose de complacer nos, e que significa il pro le humanitate. (imagine per gentil concession de Le Atlantic)
 # Used as an accessible text alternative for an image

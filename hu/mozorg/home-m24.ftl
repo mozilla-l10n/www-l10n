@@ -168,6 +168,7 @@ m24-home-join-mozilla-data = Csatlakozzon a(z) { -brand-name-mozilla } adatgyűj
 
 ## Issues
 
+m24-home-explore-issues-shaping = Fedezze fel azokat a kérdéseket, amelyek az internet jövőjét alakítják
 m24-home-the-validation-machines = Az ellenőrző gépek
 m24-home-in-the-atlantic = A The Atlantic-ban { -brand-name-mozilla } műszaki igazgató, Raffi Krikorian megkérdezi, hogy a csevegőbotok és a generatív MI miért olyan mohó, hogy nekünk a kedvünkben tegyenek, és mit jelent ez az emberiség számára. (a kép forrása: The Atlantic)
 # Used as an accessible text alternative for an image

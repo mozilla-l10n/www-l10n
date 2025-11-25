@@ -168,6 +168,7 @@ m24-home-join-mozilla-data = Ymunwch â'r { -brand-name-mozilla } Data Collectiv
 
 ## Issues
 
+m24-home-explore-issues-shaping = Archwilio materion sy'n siapio dyfodol y rhyngrwyd
 m24-home-the-validation-machines = Y Peiriannau Dilysu
 m24-home-in-the-atlantic = Yn The Atlantic, mae { -brand-name-mozilla } CTO Raffi Krikorian yn gofyn pam mae sgwrsfotiau ac AI cynhyrchiol mor awyddus i'n plesio ni, a beth mae'n ei olygu i ddynoliaeth. (llun trwy garedigrwydd The Atlantic)
 # Used as an accessible text alternative for an image

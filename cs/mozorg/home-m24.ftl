@@ -168,6 +168,7 @@ m24-home-join-mozilla-data = Přidejte se k { -brand-name-mozilla } Data Collect
 
 ## Issues
 
+m24-home-explore-issues-shaping = Prozkoumejte otázky, které ovlivňují budoucnost internetu
 m24-home-the-validation-machines = Validační stroje
 m24-home-in-the-atlantic = V The Atlantic se technický ředitel Raffi Krikorian za { -brand-name-mozilla } ptá, proč nám chatboti a generativní umělé inteligenci tak dělají radost, a co to znamená pro lidstvo. (obrázek s laskavým svolením The Atlantic)
 # Used as an accessible text alternative for an image

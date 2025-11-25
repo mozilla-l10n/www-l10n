@@ -164,6 +164,7 @@ m24-home-join-mozilla-data = 加入 { -brand-name-mozilla } 数据共同体
 
 ## Issues
 
+m24-home-explore-issues-shaping = 探索塑造互联网未来的议题
 m24-home-the-validation-machines = 应声机
 m24-home-in-the-atlantic = 《大西洋月刊》刊登 { -brand-name-mozilla } 首席技术官 Raffi Krikorian 的发问：为何聊天机器人与生成式AI如此热衷取悦人类，这对人类文明又意味着什么？（图片来源：《大西洋月刊》）
 # Used as an accessible text alternative for an image

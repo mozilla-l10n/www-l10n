@@ -168,6 +168,7 @@ m24-home-join-mozilla-data = Присоединяйтесь к { -brand-name-moz
 
 ## Issues
 
+m24-home-explore-issues-shaping = Изучите проблемы, формирующие будущее Интернета
 m24-home-the-validation-machines = Машины валидации
 m24-home-in-the-atlantic = В The Atlantic технический директор { -brand-name-mozilla } Раффи Крикорян спрашивает, почему чат-боты и генеративный ИИ так стремятся угодить нам, и что это значит для человечества. (изображение предоставлено The Atlantic)
 # Used as an accessible text alternative for an image

@@ -168,6 +168,7 @@ m24-home-join-mozilla-data = შემოუერთდით { -brand-name-moz
 
 ## Issues
 
+m24-home-explore-issues-shaping = გამოიკვლიეთ საკითხები, რომლებიც აყალიბებს ინტერნეტის მომავალს
 m24-home-the-validation-machines = შესამოწმებელი მანქანები
 m24-home-in-the-atlantic = ატლანტიკაში, { -brand-name-mozilla } ხელმძღვანელი რაფი კრიკორიანი კითხულობს ჩატბოტსა და შემმუშავებელ AI-ს, ასეთი სურვილი, მოგვწონდეს და რას ნიშნავს ეს კაცობრიობისთვის. (სურათი თავაზიანობისაა ატლანტიკისთვის)
 # Used as an accessible text alternative for an image

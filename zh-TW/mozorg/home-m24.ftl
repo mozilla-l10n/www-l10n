@@ -168,6 +168,7 @@ m24-home-join-mozilla-data = 加入 { -brand-name-mozilla } Data Collective
 
 ## Issues
 
+m24-home-explore-issues-shaping = 探索影響網際網路未來的議題
 m24-home-the-validation-machines = The Validation Machines
 m24-home-in-the-atlantic = 在大西洋月當中{ -brand-name-mozilla } 的 CTO Raffi Krikorian 詢問為什麼聊天機器人與衍生式 AI 如此渴望取自我們以及這對人類來說代表什麼。 (圖片由大西洋網提供)
 # Used as an accessible text alternative for an image

@@ -168,6 +168,7 @@ m24-home-join-mozilla-data = Přidružće so k { -brand-name-mozilla } Data Coll
 
 ## Issues
 
+m24-home-explore-issues-shaping = Wuslědźće problemy, zo byšće přichod interneta tworił
 m24-home-the-validation-machines = Přepruwowanske mašiny
 m24-home-in-the-atlantic = W The Atlantic so CTO Raffi Krikorian { -brand-name-mozilla } praša, čehodla chatboty a generatiwna KI su tak dźiwje na to nam zawjeselić, a što to za čłowjeskosć woznamjenja. (wobraz z přećelnej dowolnosću The Atlantic)
 # Used as an accessible text alternative for an image
