@@ -161,9 +161,18 @@ m24-home-read-the-report = Läs rapporten
 
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Datakollektiv
 m24-home-mozilla-create-curate-control = Skapa. Kuratera. Kontrollera.
+# Obsolete string (expires 2026-03-20)
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Datakollektiv återuppbygger AI-dataekosystemet med gemenskaper i centrum. Få tillgång till över 300 högkvalitativa globala datamängder, byggda av och för gemenskaper på ett transparent och etiskt sätt.
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Datakollektiv återuppbygger AI-dataekosystemet med gemenskaper i centrum. Få tillgång till över 300 högkvalitativa globala datamängder, byggda av och för gemenskaper på ett transparent och etiskt sätt.
+m24-home-join-mozilla-data = Gå med i { -brand-name-mozilla } Datakollektiv
 
 ## Issues
 
+m24-home-explore-issues-shaping = Utforska frågor som formar internets framtid
+m24-home-the-validation-machines = Valideringsmaskinerna
+m24-home-in-the-atlantic = I The Atlantic frågar Raffi Krikorian, teknisk chef för { -brand-name-mozilla }, varför chattbotar och generativ AI är så angelägna om att behaga oss, och vad det betyder för mänskligheten. (bild med tillstånd av The Atlantic)
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = En miniatyrperson som tittar på en stor tangentbordstangent och en hypnotiserande datorskärm
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, programledare för IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
@@ -172,5 +181,6 @@ m24-home-irl-listen-now = Lyssna nu
 
 ## Outside the Fox
 
+m24-home-outside-the-fox = Outside the Fox
 m24-home-this-is-where = Det är här vi utforskar vad som händer online och varför det är viktigt, från varför skräp tar över internet till viral internetkultur.
 m24-home-fox-listen-now = Lyssna nu
