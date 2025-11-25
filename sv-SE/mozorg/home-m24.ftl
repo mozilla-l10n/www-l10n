@@ -125,10 +125,19 @@ m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = "Ett bra tillfälle för oss": { -brand-name-firefox } fokuserar på AI-webbläsare och vad som kommer härnäst för webben
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = Intervju: Att ta öppen källkod in i AI-eran
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = MIT Sloan Review
+m24-home-mit-sloan-management-review = MIT Sloan Management Review
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } finansierar Filament-nätverksplattformen
 m24-home-axios = Axios
+m24-home-mozillas-new-message = { -brand-name-mozilla }:s nya meddelande: Vi är den enda webbläsaren som inte stöds av miljardärer
 m24-home-fast-company = Fast Company
+m24-home-will-agi-be = Kommer AGI att bli verklighet — och är vi redo?
+m24-home-conversation-charting-a = Samtal: Att kartlägga en framtid för tillgång och handlingsfrihet
 m24-home-tech-policy-press = Tech Policy Press
+m24-home-open-by-design = Open By Design: Hur nationer kan konkurrera i AI-åldern
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } stakar ut en ny kurs med en vändning mot lönsamhet
 m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
@@ -147,6 +156,11 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } uppfinner sig s
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstrakt pixelkonst i nyanser av grönt, orange och rosa
 m24-home-read-the-report = Läs rapporten
+
+## Data Collective
+
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Datakollektiv
+m24-home-mozilla-create-curate-control = Skapa. Kuratera. Kontrollera.
 
 ## Issues
 
