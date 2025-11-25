@@ -170,6 +170,7 @@ m24-home-join-mozilla-data = { -brand-name-mozilla } Data Collective beitreten
 
 ## Issues
 
+m24-home-explore-issues-shaping = Erfahre, welche Probleme die Zukunft des Internets formen
 m24-home-the-validation-machines = Die Validierungsmaschinen
 m24-home-in-the-atlantic = Im The Atlantic fragt { -brand-name-mozilla }'s CTO Raffi Krikorian, warum Chatbots und generative KI uns unbedingt zufriedenstellen wollen und was das für die Menschheit bedeutet. (Bild bereitgestellt von The Atlantic)
 # Used as an accessible text alternative for an image

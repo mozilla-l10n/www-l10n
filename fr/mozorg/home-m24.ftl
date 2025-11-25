@@ -170,6 +170,7 @@ m24-home-join-mozilla-data = Rejoignez le { -brand-name-mozilla } Data Collectiv
 
 ## Issues
 
+m24-home-explore-issues-shaping = Apprenez-en plus sur les problématiques qui façonnent l’avenir d’Internet
 m24-home-the-validation-machines = Les machines à validation
 m24-home-in-the-atlantic = Dans The Atlantic, le Directeur des technologies de { -brand-name-mozilla } Raffi Krikorian se demande pourquoi les chatbots et l’IA générative cherchent tant à nous plaire, et ce que cela signifie pour l’humanité. (image fournie par The Atlantic)
 # Used as an accessible text alternative for an image

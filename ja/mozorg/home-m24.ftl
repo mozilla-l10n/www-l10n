@@ -170,6 +170,7 @@ m24-home-join-mozilla-data = { -brand-name-mozilla } Data Collective に参加
 
 ## Issues
 
+m24-home-explore-issues-shaping = インターネットの未来を形作る課題を見る
 m24-home-the-validation-machines = The Validation Machines
 m24-home-in-the-atlantic = The Atlantic にて、{ -brand-name-mozilla } CTO の Raffi Krikorian が問いかけます。なぜチャットボットと生成 AI は私たちを喜ばせようとするのか、そしてそれは人類にとって何を意味するのか。(画像提供: The Atlantic)
 # Used as an accessible text alternative for an image

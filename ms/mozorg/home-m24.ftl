@@ -170,6 +170,7 @@ m24-home-join-mozilla-data = Sertai { -brand-name-mozilla } Data Collective
 
 ## Issues
 
+m24-home-explore-issues-shaping = Terokai isu-isu yang membentuk masa depan internet
 m24-home-the-validation-machines = Mesin Pengesahan
 m24-home-in-the-atlantic = Di dalam berita The Atlantic, CTO { -brand-name-mozilla } Raffi Krikorian bertanya mengapa bot bual dan generatif AI sentiasa bersetuju dengan kita dan apa maksudnya untuk manusia sejagat. (imej ihsan daripada The Atlantic)
 # Used as an accessible text alternative for an image

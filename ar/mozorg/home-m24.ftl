@@ -170,6 +170,7 @@ m24-home-join-mozilla-data = انضم إلى { -brand-name-mozilla } لجمع ا
 
 ## Issues
 
+m24-home-explore-issues-shaping = استكشف القضايا التي تشكّل مستقبل الإنترنت
 m24-home-the-validation-machines = ماكينات التحقّق
 m24-home-in-the-atlantic = في مقال له في مجلة The Atlantic، يتساءل رافي كريكوريان، الرئيس التنفيذي للتكنولوجيا (CTO) في { -brand-name-mozilla }، عن سبب حرص الروبوتات الذكية والذكاء الاصطناعي التوليدي على إرضائنا، وما الذي يعنيه ذلك للبشرية. (image courtesy The Atlantic)
 # Used as an accessible text alternative for an image
