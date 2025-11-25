@@ -91,6 +91,8 @@ m24-home-donate-your-voice = Donearje jo stim
 m24-home-our-transformation = Us transformaasje
 m24-home-how-do-legacy = Hoe botsje âlde wearden mei ynnovaasje? Yn dit petear jout Mark Surman in foarbyld fan hoe’t wy { -brand-name-mozilla } transformearje foar it tiidrek fan AI.
 # Used as an accessible text alternative for an image
+m24-home-alt-transformation = Change Signal mei Mark Surman en MBS
+# Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = Wolk mei rôze eftergrûn
 m24-home-any-agent = Elke agent
 m24-home-stop-wiring-tools = Stopje mei it oaninoar gearfoegjen fan ark en it oppassen op brosse automatisearringen. Mei it { -brand-name-mozilla-ai-v2 }-agentpplatfosrm beskriuwe jo jo doel, wy generearje adaptive AI-agents dy’t wurkje mei jo ark en prosessen.
