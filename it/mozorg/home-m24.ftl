@@ -109,6 +109,10 @@ m24-home-topic-ps = Privacy e sicurezza
 m24-home-headline-you-ai-v2 = Tu, l’IA e Internet: che cosa sta succedendo realmente?
 m24-home-mozilla-ai-ceo = Il CEO di { -brand-name-mozilla-ai-v2 } discute i vantaggi dell’IA open source
 m24-home-introducing-thundermail-and = Presentazione di Thundermail e Thunderbird Pro
+m24-home-the-guardian = The Guardian
+m24-home-axios = Axios
+m24-home-fast-company = Fast Company
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
