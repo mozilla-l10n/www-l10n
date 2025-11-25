@@ -94,6 +94,7 @@ m24-home-donate-your-voice = Doner stemma di
 m24-home-type = Type
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Utviklar
+m24-home-author-v2 = Forfattar(ar)
 m24-home-topic = Emne
 m24-home-intro = Introduksjon
 m24-home-tag-article = Artikkel
@@ -104,6 +105,10 @@ m24-home-topic-products = Produkt
 m24-home-topic-ai = Kunstig intelligens
 m24-home-topic-ps = Personvern og sikkerheit
 m24-home-headline-you-ai-v2 = Du, AI og internett – kva skjer eigentleg?
+m24-home-the-guardian = The Guardian
+m24-home-axios = Axios
+m24-home-mozilla = { -brand-name-mozilla }
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
