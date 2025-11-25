@@ -170,6 +170,7 @@ m24-home-join-mozilla-data = Bergabunglah dengan { -brand-name-mozilla } Data Co
 
 ## Issues
 
+m24-home-explore-issues-shaping = Telusuri berbagai isu yang menentukan masa depan internet
 m24-home-the-validation-machines = Mesin Validasi
 m24-home-in-the-atlantic = Di The Atlantic, CTO { -brand-name-mozilla } Raffi Krikorian menanyakan mengapa chatbot dan AI generatif begitu ingin menyenangkan kita, dan apa arti hal itu bagi umat manusia. (gambar milik The Atlantic)
 # Used as an accessible text alternative for an image
