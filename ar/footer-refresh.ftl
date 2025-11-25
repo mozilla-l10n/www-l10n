@@ -10,6 +10,9 @@ footer-refresh-learn-more-about-mozilla-ads = اطَّلِع على المزيد
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = تعرّف على المزيد <span>عن إعلانات { -brand-name-mozilla }</span>
 footer-refresh-firefox-release-notes = ملاحظات إصدار { -brand-name-firefox }
+# Obsolete string (expires 2026-03-13)
+footer-refresh-extend-reach = وسّع نطاقك عمّق الثقة.
+footer-refresh-add-trust-to = أضِف الثقة إلى استثمارك الإعلاني.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = تابعنا على { -brand-name-mozilla }
 footer-refresh-instagram = إنستغرام

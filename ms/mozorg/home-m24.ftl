@@ -90,12 +90,21 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Dermakan suara anda demi menjadikan teknologi pertuturan lebih terangkum dan mampu diakses oleh semua orang.
 m24-home-donate-your-voice = Dermakan suara anda
 
+m24-home-our-transformation = Transformasi Kami
+m24-home-how-do-legacy = Bagaimana nilai lama bertemu dengan inovasi? Di dalam perbualan ini, Mark Surman membuat penilaian tentang transformasi { -brand-name-mozilla } bagi era AI.
+# Used as an accessible text alternative for an image
+m24-home-alt-transformation = Change Signal bersama Mark Surman dan MBS
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Awan dengan latar belakang merah jambu
+m24-home-any-agent = Sebarang Ejen
+m24-home-stop-wiring-tools = Hentilah mengimpal masalah dan kekeliruan automasi. Dengan Agent Platform { -brand-name-mozilla-ai-v2 }, anda hanya perlu jelaskan matlamat dan kami janakan agen AI adaptif dan mampu berinteraksi dengan kelengkapan dan proses anda.
 
 ## Media Springboard
 
 m24-home-type = Jenis
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Penulis
+m24-home-author-v2 = Pengarang
 m24-home-topic = Topik
 m24-home-intro = Pendahuluan
 m24-home-tag-article = Artikel
@@ -104,9 +113,34 @@ m24-home-tag-video = Video
 m24-home-topic-news = Berita
 m24-home-topic-products = Produk
 m24-home-topic-ai = Kecerdasan Buatan
+m24-home-topic-open-source-ai = AI Sumber Terbuka
 m24-home-topic-ps = Privasi & Keselamatan
 m24-home-headline-you-ai-v2 = Anda, AI dan internet — apa sebenarnya yang sedang berlaku?
+m24-home-shake-to-summarize = Goncangkan untuk Kesimpulan dalam TIME's Best Invention 2025
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } mengalu-alukan Raffi Krikorian sebagai Ketua Pegawai Teknologi
+m24-home-tech-target = Sasaran Teknologi
+m24-home-mozilla-ai-ceo = CEO { -brand-name-mozilla-ai-v2 } bercakap tentang kelebihan AI sumber terbuka
+m24-home-introducing-thundermail-and = Memperkenalkan Thundermail dan Thunderbird Pro
+m24-home-what-comes-next = Teknologi masa depan adalah pilihan anda. Pilih untuk bersama kami.
+m24-home-how-ventures-investee = Bagaimana Demam Pelaburan Dana Niaga Memperkasakan Enkripsi
+m24-home-tech-crunch = Tech Crunch
+m24-home-a-good-moment = 'Masa terbaik untuk kami': { -brand-name-firefox } merungkai pelayar AI dan wawasan untuk internet
+m24-home-the-guardian = The Guardian
+m24-home-interview-take-open = Temubual: Bicara Sumber Terbuka di Era AI
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = MIT Sloan Review
+m24-home-mit-sloan-management-review = MIT Sloan Management Review
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } memberi dana untuk platform rangkaian Filament
+m24-home-axios = Axios
+m24-home-mozillas-new-message = Mesej terbaru oleh { -brand-name-mozilla }: Pelayar kami tidak dibantu oleh mana-mana hartawan
+m24-home-fast-company = Fast Company
+m24-home-will-agi-be = Adakah AGI Bakal Menjadi Realiti — Adakah Kita Bersedia?
+m24-home-conversation-charting-a = Perbualan: Merangka masa depan untuk akses dan kesinambungan
+m24-home-tech-policy-press = Akhbar Polisi Teknologi
+m24-home-open-by-design = Open By Design: Bagaimana negara di dunia mampu bersaing di dalam era AI
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } merencana laluan baru ke arah keuntungan
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -127,9 +161,19 @@ m24-home-read-the-report = Baca laporannya
 
 ## Data Collective
 
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-create-curate-control = Bangunkan. Pilih-susun. Kawal.
+# Obsolete string (expires 2026-03-20)
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective sedang membangunkan ekosistem data AI dengan berpaksikan komuniti. Akses lebih 300 set data global berkualiti, dibangunkan oleh dan untuk komuniti dalam suasana yang telus dan beretika.
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective sedang membangun semula ekosistem data AI dengan berpaksikan komuniti. Akses lebih 300 set data global berkualiti, dibangunkan oleh dan untuk komuniti dalam suasana yang telus dan beretika.
+m24-home-join-mozilla-data = Sertai { -brand-name-mozilla } Data Collective
 
 ## Issues
 
+m24-home-the-validation-machines = Mesin Pengesahan
+m24-home-in-the-atlantic = Di dalam berita The Atlantic, CTO { -brand-name-mozilla } Raffi Krikorian bertanya mengapa bot bual dan generatif AI sentiasa bersetuju dengan kita dan apa maksudnya untuk manusia sejagat. (imej ihsan daripada The Atlantic)
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = Seseorang sedang melihat papan kekunci yang besar dan skrin komputer yang mengkhayalkan.
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, hos IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
@@ -138,3 +182,6 @@ m24-home-irl-listen-now = Dengar sekarang
 
 ## Outside the Fox
 
+m24-home-outside-the-fox = Outside the Fox
+m24-home-this-is-where = Di sinilah kami menerokai apa yang berlaku dalam talian dan mengapa ia penting, dari berita meme tempatan sehinggalah ke budaya internet yang menular.
+m24-home-fox-listen-now = Dengakan Sekarang
