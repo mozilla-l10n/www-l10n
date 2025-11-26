@@ -38,6 +38,10 @@ firefox-all-microsoft-store-installers = Магазин за приложени�
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Изтегляне на { $esr_version }
 # Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Намираме се в преходния период между основните версии на ESR { $esr_next_major } и { $esr_current_major }.
+# Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
 firefox-all-esr-read-more = Прочетете повече за <a { $attrs }>цикъла на изданията на { -brand-name-firefox-esr }</a>.
 firefox-all-check-the-system-requirements = Проверете системните изисквания
