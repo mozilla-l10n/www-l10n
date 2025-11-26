@@ -168,6 +168,7 @@ m24-home-join-mozilla-data = Doch mei mei { -brand-name-mozilla } Data Collectiv
 
 ## Issues
 
+m24-home-explore-issues-shaping = Problemen mei de takomst fan it ynternet ferkenne
 m24-home-the-validation-machines = The Validation Machines
 m24-home-in-the-atlantic = Yn The Atlantic freget Raffi Krikorian, CTO fan { -brand-name-mozilla }, wêrom’t chatbots en generative AI sa graach ús tefreden stelle wolle, en wat it betsjut foar de minskheid. (ôfbylding mei tank oan The Atlantic)
 # Used as an accessible text alternative for an image
