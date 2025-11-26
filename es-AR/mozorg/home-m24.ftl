@@ -182,5 +182,5 @@ m24-home-irl-listen-now = Escuchar ahora
 ## Outside the Fox
 
 m24-home-outside-the-fox = Fuera del Zorro
-m24-home-this-is-where = Aquí es donde exploramos lo que sucede en línea y por qué es importante, desde por qué la basura se está apoderando de Internet hasta la cultura viral de Internet.
+m24-home-this-is-where = Acá es donde exploramos lo que sucede en línea y por qué es importante, desde por qué la basura se está apoderando de Internet hasta la cultura viral de Internet.
 m24-home-fox-listen-now = Escuchar ahora
