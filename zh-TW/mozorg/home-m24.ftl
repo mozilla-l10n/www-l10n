@@ -89,13 +89,13 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = 捐出您的聲音，讓語音技術更具包容性、讓每個人都可使用。
 m24-home-donate-your-voice = 捐出您的聲音
 m24-home-our-transformation = 我們的轉型
-m24-home-how-do-legacy = 傳統價值如何與創新發生衝突在這段對話中Mark Surman 預覽了我們將如何讓 { -brand-name-mozilla } 轉型以適應 AI 時代。
+m24-home-how-do-legacy = 傳統價值如何與創新衝突？在這段對話中，Mark Surman 預覽了我們將如何讓 { -brand-name-mozilla } 轉型以適應 AI 時代。
 # Used as an accessible text alternative for an image
 m24-home-alt-transformation = Mark Surman 與 MBS 一同改變信號
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = 粉紅色背景的雲
 m24-home-any-agent = Any Agent
-m24-home-stop-wiring-tools = 不要再把工具放在一起也不要再操心脆弱的自動化裝置了。若您描述了您的目標透過 { -brand-name-mozilla-ai-v2 } 代理平台我們產生能使用您的工具與流程的適應性 AI 代理。
+m24-home-stop-wiring-tools = 不用再把工具綁在一起，也不用再煩惱不穩定的自動化設定了。透過 { -brand-name-mozilla-ai-v2 } 代理平台，只要描述好您的目標，我們就會自動產生能操作您工具與配合流程的適應性 AI 代理。
 
 ## Media Springboard
 
