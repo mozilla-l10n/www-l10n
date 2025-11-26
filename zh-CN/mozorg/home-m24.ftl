@@ -95,6 +95,7 @@ m24-home-alt-transformation = Change Signal：MBS 采访 Mark Surman
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = 粉色背景的云
 m24-home-any-agent = Any Agent
+m24-home-stop-wiring-tools = 不必再疲于整合各种工具、维护脆弱的自动化流程。借助 { -brand-name-mozilla-ai-v2 } 智能体平台，您只需描述目标，我们就能生成能与您的工具和流程协同工作的自适应 AI 智能体。
 
 ## Media Springboard
 
