@@ -160,7 +160,7 @@ m24-home-mozilla-data-collective = { -brand-name-mozilla } 数据共同体
 m24-home-mozilla-create-curate-control = 创建、策划、控制。
 # Obsolete string (expires 2026-03-20)
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } 数据共同体正在以社区为核心，重新建立 AI 数据生态系统。通过透明且合乎道德的方式，提供由社区创建、为社区服务的 300 多个高质量全球数据集。
-m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective 正在重建以社区为中心的 AI 数据生态系统。访问超过 300 个高质量的全球数据集由社区以透明且符合道德规范的方式构建并为社区服务。
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } 数据共同体正在以社区为核心，重新建立 AI 数据生态系统。通过透明且合乎道德的方式，提供由社区创建、为社区服务的 300 多个高质量全球数据集。
 m24-home-join-mozilla-data = 加入 { -brand-name-mozilla } 数据共同体
 
 ## Issues
