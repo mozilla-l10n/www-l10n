@@ -143,7 +143,7 @@ newsletters-addon-development = Vývoj doplňků
 # Name for the newsletter in Newsletter subscription page
 newsletters-developer-newsletter = Zpravodaj pro vývojáře
 # Description for the newsletter in Newsletter subscription page (Developer Newsletter)
-newsletters-a-developers-guide = Průvodce novinkami pro webové vývojáře, tipy, nová dokumentace a další.
+newsletters-a-developers-guide = Průvodce novinkami pro webové vývojáře, tipy, nová dokumentace a mnoho dalšího.
 # Name for the newsletter in Newsletter subscription page
 newsletters-drumbeat-newsgroup = Diskuzní skupina Drumbeat
 # Name for the newsletter in Newsletter subscription page
