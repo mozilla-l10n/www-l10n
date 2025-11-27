@@ -88,14 +88,21 @@ m24-home-got-an-earlystage = Hai una startup in fase iniziale? Presenta la tua a
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Dona la tua voce per rendere la tecnologia di riconoscimento vocale più inclusiva e accessibile a tutti.
 m24-home-donate-your-voice = Dona la tua voce
+m24-home-our-transformation = La nostra trasformazione
+m24-home-how-do-legacy = Come si scontrano i valori tradizionali con l’innovazione? In questa conversazione, Mark Surman spiega in anteprima come stiamo trasformando { -brand-name-mozilla } per l’era dell’IA.
+# Used as an accessible text alternative for an image
+m24-home-alt-transformation = Change Signal con Mark Surman e MBS
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = Nuvola con sfondo rosa
+m24-home-any-agent = Qualsiasi agente
+m24-home-stop-wiring-tools = Smetti di collegare strumenti tra loro e di monitorare automazioni instabili. Con { -brand-name-mozilla-ai-v2 } Agent Platform ti basta descrivere il tuo obiettivo e noi generiamo agenti AI adattivi che funzionano con i tuoi strumenti e processi.
 
 ## Media Springboard
 
 m24-home-type = Tipo
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Autore
+m24-home-author-v2 = Autori
 m24-home-topic = Argomento
 m24-home-intro = Introduzione
 m24-home-tag-article = Articolo
