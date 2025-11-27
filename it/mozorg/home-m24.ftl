@@ -114,11 +114,20 @@ m24-home-topic-ai = Intelligenza artificiale
 m24-home-topic-open-source-ai = IA Open Source
 m24-home-topic-ps = Privacy e sicurezza
 m24-home-headline-you-ai-v2 = Tu, l’IA e Internet: che cosa sta succedendo realmente?
+m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = Il CEO di { -brand-name-mozilla-ai-v2 } discute i vantaggi dell’IA open source
 m24-home-introducing-thundermail-and = Presentazione di Thundermail e Thunderbird Pro
+m24-home-what-comes-next = Il futuro della tecnologia è una scelta. Scegli insieme a noi.
+m24-home-how-ventures-investee = Come Ventures Investee Germ sta rafforzando la crittografia
 m24-home-the-guardian = The Guardian
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = MIT Sloan Review
+m24-home-mit-sloan-management-review = MIT Sloan Management Review
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } finanzia la piattaforma di networking Filament
 m24-home-axios = Axios
 m24-home-fast-company = Fast Company
+m24-home-tech-policy-press = Tech Policy Press
+m24-home-mozilla = { -brand-name-mozilla }
 m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
@@ -137,6 +146,10 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } si sta reinvent
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Pixel art astratta in toni verde, arancione e rosa
 m24-home-read-the-report = Leggi il rapporto
+
+## Data Collective
+
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 
 ## Issues
 
