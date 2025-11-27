@@ -121,7 +121,10 @@ m24-home-interview-take-open = Ñomongeta: Eguerahávo ayvu ijurujáva IA ndive
 # Obsolete string (expires 2026-03-20)
 m24-home-mit-sloan-review = Sloan jehaipyre MIT rehegua
 m24-home-mit-sloan-management-review = MIT Sloan jehaipy mboajepyre
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } ohepyme’ẽ pyendavusu ñandutigua Filament
 m24-home-axios = Axios
+m24-home-fast-company = Compañía ipya’éva
+m24-home-will-agi-be = ¿AGI hi’añetéta tenondeve? — ¿Roimembáma?
 m24-home-mozilla = { -brand-name-mozilla }
 
 ## Showcase
