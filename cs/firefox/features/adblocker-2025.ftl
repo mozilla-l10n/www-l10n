@@ -10,7 +10,7 @@ features-adblocker-ad-blocking = Blokování reklam
 # Page Title
 features-adblocker-meta-title = O nástrojích na blokování reklam - { -brand-name-firefox }
 # HTML page description
-features-adblocker-meta-desc = Zjistěte, jak fungují blokátory reklam, co pro vás mohou udělat a jak vás { -brand-name-firefox } chrání před sledovacími prvky a soubory cookie.
+features-adblocker-meta-desc = Zjistěte, jak fungují blokátory reklam, co pro vás mohou udělat a jak vás { -brand-name-firefox } chrání před sledovacími prvky a cookies.
 features-adblocker-the-ad-blocker-a-tool = Blokování reklam – nástroj pro personalizované a cílené prohlížení.
 features-adblocker-in-todays-digital-world = V dnešním digitálním světě může být web rušný a nepřehledný. Blokátory reklam jsou výkonné nástroje, které vám umožňují mít kontrolu nad prohlížením a rozhodovat o tom, co se na obrazovce zobrazí.
 features-adblocker-ad-blockers-work = Blokátory reklam fungují dvěma hlavními způsoby: zabraňují načítání obsahu, například reklam, a blokují části webových stránek, které tyto prvky obsahují. To může zahrnovat videoreklamy, personalizované reklamy, které vás sledují na webu, a dokonce i sledovací zařízení třetích stran.
@@ -30,7 +30,7 @@ features-adblocker-its-important-to-note = Je důležité si uvědomit, že něk
 features-adblocker-enhanced-privacy = Vylepšená ochrana soukromí a výkon s prohlížečem { -brand-name-firefox }
 features-adblocker-beyond-ad-blockers = Kromě blokátorů reklam obsahuje { -brand-name-firefox } vestavěné funkce, které vám umožní ještě větší kontrolu nad prohlížením. Tyto nástroje pomáhají chránit vaše soukromí a zároveň vám umožňují přizpůsobit si prostředí:
 features-adblocker-tool-1 = <strong>Standardní režim:</strong> Vyvážená možnost, která blokuje běžné trackery při zachování bezproblémové funkčnosti webu.
-features-adblocker-tool-2 = <strong>Přísný režím:</strong> Ideální pro uživatele, kteří chtějí silnější ochranu soukromí blokováním většího počtu sledovacích zařízení a souborů cookie. Upozorňujeme, že některé weby mohou v tomto režimu vyžadovat úpravy.
+features-adblocker-tool-2 = <strong>Přísný režím:</strong> Ideální pro uživatele, kteří chtějí silnější ochranu soukromí blokováním většího počtu sledovacích prvků a cookies. Upozorňujeme, že některé weby mohou v tomto režimu vyžadovat úpravy.
 features-adblocker-tool-3 = <strong>Vlastní režim:</strong> Pro ty, kteří chtějí mít plnou kontrolu, nabízí vlastní režim možnost vybrat, co přesně se má blokovat, od cookies po sledovací prvky a další věci.
 features-adblocker-to-adjust = Chcete-li tato nastavení upravit, klepněte na ikonu štítu vlevo od adresního řádku na jakékoli webové stránce a vyberte možnost "Nastavení ochrany". Tím se otevře nabídka, ve které si můžete vybrat správnou úroveň ochrany.
 features-adblocker-why-use = Proč používat nástroj na blokování reklam?

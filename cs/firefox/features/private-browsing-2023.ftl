@@ -10,7 +10,7 @@ features-private-browsing-private-browsing-mode = Režim anonymního prohlížen
 features-private-browsing-firefox-private-browsing-mode = Režim anonymního prohlížení { -brand-name-firefox(case: "gen") }
 features-private-browsing-if-you-share-a-computer = Pokud sdílíte počítač s dalšími lidmi nebo chcete omezit množství údajů, které o vás webové stránky mohou shromažďovat, můžete ve { -brand-name-firefox(case: "loc") } použít režim anonymního prohlížení. Anonymní prohlížení vymaže digitální stopy, které za sebou zanecháváte při procházení internetu - představte si je jako stopy v lese.
 features-private-browsing-what-does-private-browsing-do = K čemu slouží anonymní prohlížení?
-features-private-browsing-private-browsing-mode-opens-v2 = Režim anonymního prohlížení otevře nové okno prohlížeče. Po zavření posledního okna anonymního prohlížení se vymaže historie prohlížení a všechny sledovací soubory cookie z navštívených webových stránek. <strong>Tip od profesionálů používajících { -brand-name-firefox }:</strong> Když skončíte, nezapomeňte zavřít všechna okna anonymního prohlížení!
+features-private-browsing-private-browsing-mode-opens-v2 = Režim anonymního prohlížení otevře nové okno prohlížeče. Po zavření posledního okna anonymního prohlížení se vymaže historie prohlížení a všechny sledovací cookies z navštívených webových stránek. <strong>Tip od profesionálů používajících { -brand-name-firefox }:</strong> Když skončíte, nezapomeňte zavřít všechna okna anonymního prohlížení!
 # Used as an accessible text alternative for an image
 features-private-browsing-a-firefox-window-in-private = Okno prohlížeče { -brand-name-firefox } v režimu anonymního prohlížení.
 features-private-browsing-what-private-browsing-doesnt-do = Co anonymní prohlížení nedokáže
