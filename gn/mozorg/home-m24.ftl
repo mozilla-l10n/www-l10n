@@ -125,7 +125,11 @@ m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } ohepyme’ẽ
 m24-home-axios = Axios
 m24-home-fast-company = Compañía ipya’éva
 m24-home-will-agi-be = ¿AGI hi’añetéta tenondeve? — ¿Roimembáma?
+m24-home-conversation-charting-a = Ñomongeta: Emboguata agencia ha jeikerã renonderã
+m24-home-tech-policy-press = Tech Policy Press
+m24-home-open-by-design = Juruja moha’ãngarã: mba’éicha oñua’ãta tetãnguéra IA oike rire
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-silicon-angle = Silicona ángulo
 
 ## Showcase
 
@@ -142,8 +146,15 @@ m24-home-state-of-mozilla = { -brand-name-mozilla } rekotee
 m24-home-state-of-mozilla-alt = Pixel art abstracto sa’ykuéra hovyũ, narã ha pytãngýpe
 m24-home-read-the-report = Emoñe’ẽ marandu’i
 
+## Data Collective
+
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Mba’ekuaarã aty
+m24-home-mozilla-create-curate-control = Moheñói. Poravo. Hechameme.
+m24-home-join-mozilla-data = Ejuaju { -brand-name-mozilla } Mba’ekuaarã Atýre
+
 ## Issues
 
+m24-home-explore-issues-shaping = Ehapykueho mba’e ombohekóva Ñanduti renonderã
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, ohechaukáva IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
