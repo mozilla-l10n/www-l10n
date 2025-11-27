@@ -153,6 +153,9 @@ m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 
 ## Issues
 
+m24-home-explore-issues-shaping = Esplora le questioni che stanno plasmando il futuro di Internet
+m24-home-the-validation-machines = The Validation Machines
+m24-home-in-the-atlantic = In The Atlantic, il CTO di { -brand-name-mozilla } Raffi Krikorian si chiede perché i chatbot e l’IA generativa siano così desiderosi di accontentarci e che cosa questo significhi per l’umanità. (Immagine gentilmente concessa da The Atlantic)
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, conduttrice di IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
@@ -161,4 +164,5 @@ m24-home-irl-listen-now = Ascolta ora
 
 ## Outside the Fox
 
+m24-home-outside-the-fox = Outside the Fox
 m24-home-fox-listen-now = Ascolta ora
