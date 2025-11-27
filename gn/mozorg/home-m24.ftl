@@ -155,6 +155,7 @@ m24-home-join-mozilla-data = Ejuaju { -brand-name-mozilla } Mba’ekuaarã Atýr
 ## Issues
 
 m24-home-explore-issues-shaping = Ehapykueho mba’e ombohekóva Ñanduti renonderã
+m24-home-the-validation-machines = Umi máquina oñemoneĩha
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, ohechaukáva IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
