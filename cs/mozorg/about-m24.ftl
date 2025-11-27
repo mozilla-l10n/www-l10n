@@ -27,8 +27,8 @@ m24-about-research = Výzkum
 m24-about-we-uncover-insights = Zjišťujeme poznatky, vedeme kampaně na zlepšení produktů a prosazujeme zásady, které zastupují vaše zájmy.
 m24-about-build = Tvorba
 # Obsolete string (expires 25-10-2025)
-m24-about-we-build-products = Vytváříme produkty, které vám dávají kontrolu do vašich rukou — například { -brand-name-firefox }, { -brand-name-fakespot } a další.
-m24-about-we-build-products-v2 = Vytváříme produkty, které vám dají kontrolu – jako je { -brand-name-firefox } a další.
+m24-about-we-build-products = Vytváříme produkty, které kladou kontrolu do vašich rukou – například { -brand-name-firefox }, { -brand-name-fakespot } aj.
+m24-about-we-build-products-v2 = Vytváříme produkty, které kladou kontrolu do vašich rukou – jako je { -brand-name-firefox } aj.
 m24-about-fund = Financování
 m24-about-we-fund-and = Financujeme a investujeme do lidí a úsilí, které posouvá technologie, internet a umělou inteligenci správným směrem.
 

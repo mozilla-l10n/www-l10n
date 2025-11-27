@@ -98,7 +98,7 @@ newsletters-were-glad-you-asked = Jsme rádi, že se ptáte!
 # Headline for https://www-dev.allizom.org/newsletter/developer/
 newsletters-love-the-web-so-do-we = Milujete web? My také!
 # Subtitle for https://www-dev.allizom.org/newsletter/developer/
-newsletters-unlock-the-world-of-web = Nahlédněte do světa vývoje webu s naším týdenním zpravodajem { -brand-name-mozilla } Developer. Každé vydání přináší informace a technikách programování a ověřených postupech, novinkách na { -brand-name-mdn(case: "loc") }, informace o nových technologiích, tipy na nástroje pro vývojáře a další.
+newsletters-unlock-the-world-of-web = Nahlédněte do světa vývoje webu s naším týdenním zpravodajem { -brand-name-mozilla } Developer. Každé vydání přináší informace o technikách programování a ověřených postupech, o novinkách na { -brand-name-mdn(case: "loc") }, o nových technologiích, tipy na nástroje pro vývojáře a mnoho dalšího.
 # Headline for https://www-dev.allizom.org/newsletter/firefox/
 newsletters-make-the-most = Využijte { -brand-name-firefox(case: "acc") } naplno
 # Subtitle for https://www-dev.allizom.org/newsletter/firefox/
