@@ -90,6 +90,8 @@ m24-home-donate-your-voice-to-make = Dona tu voz para hacer que la tecnología d
 m24-home-donate-your-voice = Dona tu voz
 m24-home-our-transformation = Nuestra transformación
 m24-home-how-do-legacy = ¿Cómo chocan los valores heredados con la innovación? En esta conversación, Mark Surman muestra cómo estamos transformando { -brand-name-mozilla } para la era de la IA.
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Nube con fondo rosa
 
 ## Media Springboard
 
