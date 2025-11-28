@@ -92,6 +92,7 @@ m24-home-our-transformation = Nuestra transformación
 m24-home-how-do-legacy = ¿Cómo chocan los valores heredados con la innovación? En esta conversación, Mark Surman muestra cómo estamos transformando { -brand-name-mozilla } para la era de la IA.
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = Nube con fondo rosa
+m24-home-stop-wiring-tools = Deja de conectar herramientas y de controlar automatizaciones frágiles. Con la Plataforma de Agentes { -brand-name-mozilla-ai-v2 }, describe tu objetivo y nosotros generamos agentes de IA adaptativos que funcionan con tus herramientas y procesos.
 
 ## Media Springboard
 
@@ -110,6 +111,8 @@ m24-home-topic-ai = Inteligencia artificial
 m24-home-topic-open-source-ai = IA de código abierto
 m24-home-topic-ps = Privacidad y seguridad
 m24-home-headline-you-ai-v2 = Tú, la IA e Internet: ¿qué está pasando realmente?
+m24-home-shake-to-summarize = Agita para resumir los mejores inventos de 2025 de la revista TIME
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } da la bienvenida a Raffi Krikorian como director de tecnología
 
 ## Showcase
 
