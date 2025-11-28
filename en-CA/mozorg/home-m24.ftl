@@ -68,6 +68,11 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders helps independent developers create transformative open-source AI projects through bespoke collaborations, programming, and community.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } helps independent developers create transformative open-source AI projects through bespoke collaborations, programming, and community.
 # Used as an accessible text alternative for an image
+m24-home-alt-mozfest = A large group of people gathered in a busy indoor event space, viewed from above.
+m24-home-mozfest-join-us = Join us at { -brand-name-mozilla-festival }
+m24-home-mozfest-the-future = The future of tech isn’t set — it’s ours to shape. Join us in Barcelona Nov 7–9 to unlearn defaults, imagine boldly and build what’s next.
+m24-home-mozfest-get-your = Get your badge today
+# Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = { -brand-name-lumigator } logo.
 m24-home-lumigator = { -brand-name-lumigator }
 m24-home-find-the-just = Find the right LLM for your needs, use case and data.
@@ -83,21 +88,57 @@ m24-home-got-an-earlystage = Got an early-stage startup? Pitch your company to {
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Donate your voice to make speech technology more inclusive and accessible for everyone.
 m24-home-donate-your-voice = Donate your voice
+m24-home-our-transformation = Our Transformation
+m24-home-how-do-legacy = How do legacy values collide with innovation? In this conversation, Mark Surman previews how we’re transforming { -brand-name-mozilla } for the era of AI.
+# Used as an accessible text alternative for an image
+m24-home-alt-transformation = Change Signal with Mark Surman and MBS
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Cloud with pink background
+m24-home-any-agent = Any Agent
+m24-home-stop-wiring-tools = Stop wiring tools together and babysitting brittle automations. With the { -brand-name-mozilla-ai-v2 } Agent Platform, you describe your goal, we generate adaptive AI agents that work with your tools and processes.
 
 ## Media Springboard
 
 m24-home-type = Type
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Author
+m24-home-author-v2 = Author(s)
 m24-home-topic = Topic
 m24-home-intro = Intro
 m24-home-tag-article = Article
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Video
 m24-home-topic-news = News
+m24-home-topic-products = Products
 m24-home-topic-ai = Artificial Intelligence
+m24-home-topic-open-source-ai = Open Source AI
 m24-home-topic-ps = Privacy & Security
 m24-home-headline-you-ai-v2 = You, AI and the internet — what’s really going on?
+m24-home-shake-to-summarize = Shake to Summarize in TIME’s Best Inventions of 2025
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } welcomes Raffi Krikorian as Chief Technology Officer
+m24-home-tech-target = Tech Target
+m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } CEO talks open source AI advantages
+m24-home-introducing-thundermail-and = Introducing Thundermail and Thunderbird Pro
+m24-home-what-comes-next = What comes next in tech is a choice. Choose with us.
+m24-home-how-ventures-investee = How Ventures Investee Germ is Strengthening Encryption
+m24-home-tech-crunch = Tech Crunch
+m24-home-a-good-moment = ‘A good moment in time for us’: { -brand-name-firefox } head on AI browsers and what’s next for the web
+m24-home-the-guardian = The Guardian
+m24-home-interview-take-open = Interview: Taking Open Source Into the AI Era
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = MIT Sloan Review
+m24-home-mit-sloan-management-review = MIT Sloan Management Review
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } funds Filament networking platform
+m24-home-axios = Axios
+m24-home-mozillas-new-message = { -brand-name-mozilla }’s new message: We’re the only browser not backed by billionaires
+m24-home-fast-company = Fast Company
+m24-home-will-agi-be = Will AGI Be a Reality — and Are We Ready?
+m24-home-conversation-charting-a = Conversation: Charting a future to access and agency
+m24-home-tech-policy-press = Tech Policy Press
+m24-home-open-by-design = Open By Design: How Nations Can Compete in the Age of AI
+m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } charts a new course with a turn toward profitability
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -116,8 +157,22 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } is reinventing 
 m24-home-state-of-mozilla-alt = Abstract pixel art in shades of green, orange and pink
 m24-home-read-the-report = Read the report
 
+## Data Collective
+
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-create-curate-control = Create. Curate. Control.
+# Obsolete string (expires 2026-03-20)
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective is rebuilding the AI data ecosystem with communities at the centre. Access over 300 high-quality global datasets, built by and  for the community in a transparent and ethical way.
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective is rebuilding the AI data ecosystem with communities at the centre. Access over 300 high-quality global datasets, built by and for the community in a transparent and ethical way.
+m24-home-join-mozilla-data = Join { -brand-name-mozilla } Data Collective
+
 ## Issues
 
+m24-home-explore-issues-shaping = Explore issues shaping the future of the internet
+m24-home-the-validation-machines = The Validation Machines
+m24-home-in-the-atlantic = In The Atlantic, { -brand-name-mozilla } CTO Raffi Krikorian asks why chatbots and generative AI are so eager to please us, and what it means for humanity. (image courtesy The Atlantic)
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = A miniature person looking at a big keyboard key and a hypnotizing computer screen
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, host of IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
@@ -126,5 +181,6 @@ m24-home-irl-listen-now = Listen now
 
 ## Outside the Fox
 
+m24-home-outside-the-fox = Outside the Fox
 m24-home-this-is-where = This is where we explore what’s happening online and why it matters, from why slop is taking over the internet to viral internet culture.
 m24-home-fox-listen-now = Listen Now
