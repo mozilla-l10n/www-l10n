@@ -114,6 +114,8 @@ m24-home-topic-ai = Intelligenza artificiale
 m24-home-topic-open-source-ai = IA Open Source
 m24-home-topic-ps = Privacy e sicurezza
 m24-home-headline-you-ai-v2 = Tu, l’IA e Internet: che cosa sta succedendo realmente?
+m24-home-shake-to-summarize = “Agita per riassumere” tra le migliori invenzioni del 2025 secondo la rivista TIME
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } dà il benvenuto a Raffi Krikorian come Chief Technology Officer
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = Il CEO di { -brand-name-mozilla-ai-v2 } discute i vantaggi dell’IA open source
 m24-home-introducing-thundermail-and = Presentazione di Thundermail e Thunderbird Pro
@@ -132,7 +134,9 @@ m24-home-mozillas-new-message = Il nuovo messaggio di { -brand-name-mozilla }: s
 m24-home-fast-company = Fast Company
 m24-home-conversation-charting-a = Conversazione — Tracciare un futuro di accessibilità e autonomia
 m24-home-tech-policy-press = Tech Policy Press
+m24-home-open-by-design = Open By Design: come le nazioni possono competere nell’era dell’IA
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } traccia una nuova rotta puntando alla redditività
 m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
@@ -155,12 +159,19 @@ m24-home-read-the-report = Leggi il rapporto
 ## Data Collective
 
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-create-curate-control = Crea. Seleziona. Controlla.
+# Obsolete string (expires 2026-03-20)
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective sta ridefinendo l’ecosistema dei dati per l’intelligenza artificiale mettendo le comunità al centro. Scopri più di 300 dataset globali di alta qualità, creati dalla comunità e per la comunità in modo trasparente ed etico.
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective sta ridefinendo l’ecosistema dei dati per l’IA mettendo le comunità al centro. Scopri più di 300 dataset globali di alta qualità, creati dalla comunità e per la comunità in modo trasparente ed etico.
+m24-home-join-mozilla-data = Partecipa in { -brand-name-mozilla } Data Collective
 
 ## Issues
 
 m24-home-explore-issues-shaping = Esplora le questioni che stanno plasmando il futuro di Internet
 m24-home-the-validation-machines = The Validation Machines
 m24-home-in-the-atlantic = In The Atlantic, il CTO di { -brand-name-mozilla } Raffi Krikorian si chiede perché i chatbot e l’IA generativa siano così desiderosi di accontentarci e che cosa questo significhi per l’umanità. (Immagine gentilmente concessa da The Atlantic)
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = Una persona in miniatura che osserva un enorme tasto di una tastiera e lo schermo di un computer ipnotico
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, conduttrice di IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
@@ -170,4 +181,5 @@ m24-home-irl-listen-now = Ascolta ora
 ## Outside the Fox
 
 m24-home-outside-the-fox = Outside the Fox
+m24-home-this-is-where = Qui esploriamo che cosa succede online e perché è importante, da come i contenuti trash stanno prendendo il sopravvento su Internet alla cultura virale del Web.
 m24-home-fox-listen-now = Ascolta ora
