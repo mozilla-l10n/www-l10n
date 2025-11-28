@@ -10,6 +10,7 @@ privacy-firefox-basics = Ñemigua rehegua je’epy
 privacy-firefox-youre-in-control = Ereko nde poguýpe
 privacy-firefox-read-our-privacy = Emoñe’ẽ ore Marandu’i Ñemigua
 privacy-firefox-keeping-you-informed = Romomarandúta opaite ára
+privacy-firefox-we-believe-you = Rojerovia eikuaaha mba’éicha eiporúta ne mba’ekuaarãita ha mba’ére. { -brand-name-firefox } oñemoha’ãnga ojehechávo nde rekoñemi ha rekosakã eku’évo.
 privacy-firefox-transparency-first = Tekosakã opaite ára
 privacy-firefox-how-we-use = Mba’éichapa jaiporu mba’ekuaarã
 privacy-firefox-builtin-control = Tekorosã ñangareko
