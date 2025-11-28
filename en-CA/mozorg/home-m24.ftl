@@ -123,3 +123,8 @@ m24-home-alt-irl-host = Bridget Todd, host of IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Our multi-award winning podcast introduces the change-makers working to make the internet safer and AI more trustworthy.
 m24-home-irl-listen-now = Listen now
+
+## Outside the Fox
+
+m24-home-this-is-where = This is where we explore what’s happening online and why it matters, from why slop is taking over the internet to viral internet culture.
+m24-home-fox-listen-now = Listen Now
