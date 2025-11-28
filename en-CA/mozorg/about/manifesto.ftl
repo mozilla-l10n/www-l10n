@@ -78,6 +78,7 @@ manifesto-details-there-are-many = There are many different ways of advancing th
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } Pledge
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = The { -brand-name-mozilla-foundation } pledges to support the { -brand-name-mozilla } Manifesto in its activities. Specifically, we will:
+manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation } pledges to support the { -brand-name-mozilla } Manifesto in its activities. Specifically, we will:
 manifesto-details-build-and-enable = build and enable open-source technologies and communities that support the Manifesto’s principles;
 manifesto-details-build-and-deliver = build and deliver great consumer products that support the Manifesto’s principles;
 manifesto-details-use-the-mozilla = use the { -brand-name-mozilla } assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the internet an open platform;
@@ -85,6 +86,8 @@ manifesto-details-promote-models = promote models for creating economic value fo
 manifesto-details-promote-the-mozilla = promote the { -brand-name-mozilla } Manifesto principles in public discourse and within the internet industry.
 # Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = Some Foundation activities—currently the creation, delivery and promotion of consumer products—are conducted primarily through the { -brand-name-mozilla-foundation }’s wholly owned subsidiary, the { -brand-name-mozilla-corporation }.
+manifesto-details-some-foundation-v2 = Some Foundation activities—currently the creation, delivery and promotion of consumer products—are conducted primarily through { -brand-name-mozilla-foundation }’s wholly owned subsidiary, the { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Invitation
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = The { -brand-name-mozilla-foundation } invites all others who support the principles of the { -brand-name-mozilla } Manifesto to join with us, and to find new ways to make this vision of the internet a reality.
+manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } invites all others who support the principles of the { -brand-name-mozilla } Manifesto to join with us, and to find new ways to make this vision of the internet a reality.
