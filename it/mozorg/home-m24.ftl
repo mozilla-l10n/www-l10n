@@ -132,6 +132,7 @@ m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } finanzia la p
 m24-home-axios = Axios
 m24-home-mozillas-new-message = Il nuovo messaggio di { -brand-name-mozilla }: siamo l’unico browser non sostenuto da miliardari
 m24-home-fast-company = Fast Company
+m24-home-will-agi-be = L’AGI diventerà realtà? Siamo pronti?
 m24-home-conversation-charting-a = Conversazione — Tracciare un futuro di accessibilità e autonomia
 m24-home-tech-policy-press = Tech Policy Press
 m24-home-open-by-design = Open By Design: come le nazioni possono competere nell’era dell’IA
