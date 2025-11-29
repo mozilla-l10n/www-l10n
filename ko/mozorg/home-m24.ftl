@@ -157,10 +157,30 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla }는 스스로를
 m24-home-state-of-mozilla-alt = 녹색, 주황색, 분홍색 음영의 추상 픽셀 아트
 m24-home-read-the-report = 보고서 읽기
 
+## Data Collective
+
+m24-home-mozilla-data-collective = { -brand-name-mozilla } 데이터 콜렉티브
+m24-home-mozilla-create-curate-control = 만들고. 선별하고. 제어하고.
+# Obsolete string (expires 2026-03-20)
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } 데이터 콜렉티브는 커뮤니티를 중심으로 AI 데이터 생태계를 재구축하고 있습니다. 투명하고 윤리적인 방법으로 커뮤니티에 의해 그리고 커뮤니티를 위해 구축된 300개 이상의 고품질 글로벌 데이터 세트에 접근하세요.
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } 데이터 콜렉티브는 커뮤니티를 중심으로 AI 데이터 생태계를 재구축하고 있습니다. 투명하고 윤리적인 방법으로 커뮤니티에 의해 그리고 커뮤니티를 위해 구축된 300개 이상의 고품질 글로벌 데이터 세트에 접근하세요.
+m24-home-join-mozilla-data = { -brand-name-mozilla } 데이터 콜렉티브에 가입
+
 ## Issues
 
+m24-home-explore-issues-shaping = 인터넷의 미래를 형성하는 문제 살펴보기
+m24-home-the-validation-machines = 검증 기계
+m24-home-in-the-atlantic = 아틀란틱에서 { -brand-name-mozilla } CTO Raffi Krikoian이 챗봇과 제너레이티브 AI가 왜 그처럼 우리를 기쁘게 하려고 하며 그것이 인류에 어떤 의미가 있는지 묻습니다. (이미지 제공: 아틀란틱)
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = 큰 키보드 키와 최면에 걸린 컴퓨터 화면을 보고 있는 미니어처 사람
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = IRL 팟캐스트의 진행자 브리짓 토드입니다.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = 다양한 수상 경력에 빛나는 팟캐스트가 인터넷을 더 안전하게 만들고 AI를 더 신뢰할 수 있도록 노력하는 체인지 메이커들을 소개합니다.
 m24-home-irl-listen-now = 지금 듣기
+
+## Outside the Fox
+
+m24-home-outside-the-fox = Fox의 밖
+m24-home-this-is-where = 여기에서 온라인에서 무슨 일이 일어나고 있고 왜 중요한지, 왜 쓰레기가 인터넷을 장악하고 바이러스 성 인터넷 문화가되었는지 탐구합니다.
+m24-home-fox-listen-now = 지금 듣기
