@@ -89,6 +89,12 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = 모두에게 보다 포용적이고 접근 가능한 음성 기술을 만들기 위해 음성을 기부하세요.
 m24-home-donate-your-voice = 목소리 기부하기
 m24-home-our-transformation = 우리의 변화
+m24-home-how-do-legacy = 기존의 가치와 혁신이 어떻게 충돌하는가? 이 대화에서 Marksurman은 우리가 AI 시대를 위해 { -brand-name-mozilla }를 어떻게 변화시키고 있는지를 보여줍니다.
+# Used as an accessible text alternative for an image
+m24-home-alt-transformation = MarkSurman과 MBS와 변화의 신호
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = 분홍색 배경의 구름
+m24-home-any-agent = 에이전트
 
 ## Media Springboard
 
