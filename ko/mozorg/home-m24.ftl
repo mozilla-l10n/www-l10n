@@ -95,21 +95,50 @@ m24-home-alt-transformation = MarkSurman과 MBS와 변화의 신호
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = 분홍색 배경의 구름
 m24-home-any-agent = 에이전트
+m24-home-stop-wiring-tools = 이제 도구를 한데 엮어넣고 부서지기 쉬운 자동화를 힘들게 관리하지 마세요. { -brand-name-mozilla-ai-v2 } 에이전트 플랫폼을 사용하면, 사용자가 목표를 설명하면, 우리가 도구와 프로세스에 맞춰 작동하는 적응 형 AI 에이전트를 생성합니다.
 
 ## Media Springboard
 
 m24-home-type = 유형
 # Obsolete string (expires 2026-03-13)
 m24-home-author = 제작자
+m24-home-author-v2 = 작성자
 m24-home-topic = 주제
 m24-home-intro = 소개
 m24-home-tag-article = 글
 m24-home-tag-podcast = 팟캐스트
 m24-home-tag-video = 동영상
 m24-home-topic-news = 뉴스
+m24-home-topic-products = 제품
 m24-home-topic-ai = 인공 지능
+m24-home-topic-open-source-ai = 오픈 소스 AI
 m24-home-topic-ps = 개인정보 보호 및 보안
 m24-home-headline-you-ai-v2 = 당신, AI 그리고 인터넷 — 무슨 일이 일어나고 있는 건가요?
+m24-home-shake-to-summarize = TIME의 2025년 최고의 발명품을 흔들어서 요약하세요.
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla }는 최고 기술 책임자로 Raffi Krikoian을 환영합니다.
+m24-home-tech-target = 기술 목표
+m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 }의 오픈 소스 AI 이점에 대해 이야기하는 최고 경영자
+m24-home-introducing-thundermail-and = Thundermail과 Thunderbird 프로 소개
+m24-home-what-comes-next = 기술의 다음 단계는 선택입니다. 같이 선택해요.
+m24-home-how-ventures-investee = Ventures 피투자자가 암호화를 강화하는 방법
+m24-home-tech-crunch = 테크 크런치
+m24-home-a-good-moment = '우리에게 좋은 순간': { -brand-name-firefox }와 AI 브라우저와 웹의 미래에 대해 살펴보기
+m24-home-the-guardian = 가디언
+m24-home-interview-take-open = 인터뷰: AI 시대에 오픈 소스 활용하기
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = MIT 슬론 리뷰
+m24-home-mit-sloan-management-review = MIT 슬론 관리 리뷰
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures }가 필라멘트 네트워킹 플랫폼 기금 마련
+m24-home-axios = Axios
+m24-home-mozillas-new-message = { -brand-name-mozilla }의 새로운 메시지: 우리는 억만장자에 의해 지원되지 않는 세계 유일의 브라우저입니다
+m24-home-fast-company = 패스트 컴퍼니
+m24-home-will-agi-be = AGI는 현실이 될 것인가 — 그리고 우리는 준비되어 있는가?
+m24-home-conversation-charting-a = 대담: 접근과 선택권에 대한 미래를 여는 것
+m24-home-tech-policy-press = 기술 정책 보도 자료
+m24-home-open-by-design = 디자인으로 열다: AI 시대에 국가가 경쟁하는 방법
+m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 }가 수익 창출을 위한 새로운 코스 마련
+m24-home-silicon-angle = 실리콘 앵글
 
 ## Showcase
 
