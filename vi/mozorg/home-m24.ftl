@@ -163,6 +163,7 @@ m24-home-join-mozilla-data = Tham gia { -brand-name-mozilla } Data Collective
 
 ## Issues
 
+m24-home-explore-issues-shaping = Khám phá các vấn đề định hình tương lai của Internet
 m24-home-the-validation-machines = Những cỗ máy khẳng định
 m24-home-in-the-atlantic = Trên tờ The Atlantic, Giám đốc công nghệ của { -brand-name-mozilla } Raffi Krikorian đặt câu hỏi tại sao chatbot và AI tạo sinh lại háo hức làm hài lòng chúng ta đến vậy, và điều đó có ý nghĩa gì đối với nhân loại. (hình ảnh do The Atlantic cung cấp)
 # Used as an accessible text alternative for an image
