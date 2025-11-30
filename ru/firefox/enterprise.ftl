@@ -21,7 +21,7 @@ firefox-enterprise-with-install-packages-and = С помощью установ�
 firefox-enterprise-choose-your-release-cadence = Выберите вашу частоту обновлений
 firefox-enterprise-get-rapid-releases-to-make = Получайте регулярные выпуски и новейшие функции быстрее, или выберите выпуск с длительной поддержкой для обеспечения максимально стабильной работы.
 firefox-enterprise-enterprise-downloads = Загрузки { -brand-name-enterprise }
-firefox-enterprise-windows-64-bit = 64-битная { -brand-name-windows }
+firefox-enterprise-windows-64-bit = 64-разрядная { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Выберите ваш выпуск
 firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
@@ -40,7 +40,7 @@ firefox-enterprise-documentation-and-community = Документация и п�
 #   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = Пример <a href="{ $url }">plist для профиля конфигурации</a>
 firefox-enterprise-pkg-installer = PKG установщик
-firefox-enterprise-windows-32-bit = 32-битная { -brand-name-windows }
+firefox-enterprise-windows-32-bit = 32-разрядная { -brand-name-windows }
 # Variables:
 #   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
 firefox-enterprise-download-firefox-esr-or-rapid = Загрузите { -brand-name-firefox-esr } или версию с регулярными выпусками для<br> <a href="{ $firefox_all }">другого языка или платформы</a>.
