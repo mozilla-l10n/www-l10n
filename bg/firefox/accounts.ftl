@@ -13,6 +13,7 @@ firefox-accounts-sign-in = Вписване
 mozilla-accounts-already = Вече имате { -brand-name-mozilla-account }. Поздравления!
 firefox-accounts-manage = Управление на профила
 mozilla-account-header = { -brand-name-mozilla-account }
+firefox-accounts-protect-your-identity = Защитете своята идентичност със сигурно маскиране на телефон и имейл
 firefox-accounts-encrypt-your = Шифроване на мрежовата ви активност и скриване на вашия IP адрес
 firefox-accounts-read-in-a = Четете на тихо и уединено място
 firefox-accounts-get-it-all-on-every = Вземете всички тези продукти на всяко ваше устройство, без да се чувствате обвързани само с една операционна система.

@@ -104,6 +104,7 @@
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account = Mozilla профил
 -brand-name-mozilla-accounts = Mozilla профили
+-brand-name-mozilla-builders = Мозила Builders
 -brand-name-mozilla-ads = Реклами на Мозила
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-thunderbird = Thunderbird
