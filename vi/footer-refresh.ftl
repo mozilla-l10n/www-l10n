@@ -12,6 +12,7 @@ footer-refresh-learn-more-about-mozilla-advertising = Tìm hiểu thêm <span>v�
 footer-refresh-firefox-release-notes = Ghi chú phát hành { -brand-name-firefox }
 # Obsolete string (expires 2026-03-13)
 footer-refresh-extend-reach = Mở rộng phạm vi tiếp cận và tăng cường lòng tin.
+footer-refresh-add-trust-to = Tăng thêm sự tin tưởng khi mua quảng cáo.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Theo dõi @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

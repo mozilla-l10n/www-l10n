@@ -80,11 +80,18 @@ m24-home-author = Tekijä
 m24-home-topic = Aihe
 m24-home-intro = Johdanto
 m24-home-tag-article = Artikkeli
+m24-home-tag-podcast = Podcast
 m24-home-tag-video = Video
 m24-home-topic-news = Uutiset
+m24-home-topic-products = Tuotteet
 m24-home-topic-ai = Tekoäly
+m24-home-topic-open-source-ai = Avoimen lähdekoodin tekoäly
 m24-home-topic-ps = Tietosuoja ja turvallisuus
 m24-home-headline-you-ai-v2 = Sinä, tekoäly ja Internet – mitä oikein on meneillään?
+m24-home-introducing-thundermail-and = Esittelyssä Thundermail ja Thunderbird Pro
+m24-home-what-comes-next = Teknologian seuraava askel on valinta. Valitse meidän kanssamme.
+m24-home-the-guardian = The Guardian
+m24-home-mozilla = { -brand-name-mozilla }
 
 ## Showcase
 
@@ -96,6 +103,10 @@ m24-home-alt-rise25-smiling = Itsevarma ja hymyilevä puhuja { -brand-name-rise2
 m24-home-state-of-mozilla-alt = Abstraktia pikselitaidetta vihreän, oranssin ja vaaleanpunaisen sävyissä
 m24-home-read-the-report = Lue raportti
 
+## Data Collective
+
+m24-home-mozilla-create-curate-control = Luo. Kuratoi. Hallitse.
+
 ## Issues
 
 # Used as an accessible text alternative for an image
@@ -103,3 +114,8 @@ m24-home-alt-irl-host = Bridget Todd, IRL Podcastin juontaja.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Useita palkintoja voittanut podcastimme esittelee muutoksentekijät, jotka tekevät Internetistä turvallisemman ja tekoälystä luotettavamman.
 m24-home-irl-listen-now = Kuuntele nyt
+
+## Outside the Fox
+
+m24-home-outside-the-fox = Ketun ulkopuolella
+m24-home-fox-listen-now = Kuuntele nyt
