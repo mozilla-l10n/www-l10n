@@ -95,7 +95,7 @@ m24-home-alt-transformation = Změňte signál s Markem Surmanem a MBS
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = Mrak s růžovým pozadím
 m24-home-any-agent = Libovolný agent
-m24-home-stop-wiring-tools = Přestaňte sdružovat nástroje dohromady a hlídat opotřebované automatizace. Pomocí platformy agentů za { -brand-name-mozilla-ai-v2 } vygenerujeme adaptivní agenty umělé inteligence, kteří budou pracovat s vašimi nástroji a procesy.
+m24-home-stop-wiring-tools = Přestaňte s propojováním nástrojů a hlídáním křehkých automatizací. S platformou agentů { -brand-name-mozilla-ai-v2 } popíšete svůj cíl a my vygenerujeme adaptivní agenty AI, kteří budou pracovat s vašimi nástroji a procesy.
 
 ## Media Springboard
 
@@ -116,13 +116,13 @@ m24-home-topic-ps = Soukromí a zabezpečení
 m24-home-headline-you-ai-v2 = Vy, umělá inteligence a internet – co se ve skutečnosti děje?
 m24-home-shake-to-summarize = Funkce 'Zatřesení pro shrnutí' v žebříčku nejlepších inovací roku 2025 dle časopisu TIME
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } vítá Raffiho Krikoriana na pozici Chief Technology Officer
-m24-home-tech-target = Technický cíl
+m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = Výkonný ředitel { -brand-name-mozilla-ai-v2 } hovoří o výhodách umělé inteligence s otevřeným zdrojovým kódem
 m24-home-introducing-thundermail-and = Představujeme Thundermail a Thunderbird Pro
-m24-home-what-comes-next = Další v technice je volba. Vybírejte s námi.
+m24-home-what-comes-next = Co dalšího se stane v oblasti technologií, je otázka volby. Vybírejte s námi.
 m24-home-how-ventures-investee = Jak Ventures Investee Germ posiluje šifrování
 m24-home-tech-crunch = Tech Crunch
-m24-home-a-good-moment = Skvělý okamžik pro nás: { -brand-name-firefox } věnujte pozornost AI prohlížečům a novinkám na webu
+m24-home-a-good-moment = „Skvělý okamžik pro nás“: tvůrce { -brand-name-firefox(case: "gen") } o prohlížečích s umělou inteligencí a o tom, co bude dále s webem
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = Rozhovor: open source v éře umělé inteligence
 # Obsolete string (expires 2026-03-20)
