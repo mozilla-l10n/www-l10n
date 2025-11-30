@@ -90,6 +90,7 @@ m24-home-topic-ps = Tietosuoja ja turvallisuus
 m24-home-headline-you-ai-v2 = Sinä, tekoäly ja Internet – mitä oikein on meneillään?
 m24-home-introducing-thundermail-and = Esittelyssä Thundermail ja Thunderbird Pro
 m24-home-what-comes-next = Teknologian seuraava askel on valinta. Valitse meidän kanssamme.
+m24-home-tech-crunch = Tech Crunch
 m24-home-the-guardian = The Guardian
 m24-home-mozilla = { -brand-name-mozilla }
 
@@ -118,4 +119,5 @@ m24-home-irl-listen-now = Kuuntele nyt
 ## Outside the Fox
 
 m24-home-outside-the-fox = Ketun ulkopuolella
+m24-home-this-is-where = Tässä kohtaa tutkimme, mitä verkossa tapahtuu ja miksi sillä on merkitystä, internetin täyttävän roskan syistä viraaliseen internetkulttuuriin.
 m24-home-fox-listen-now = Kuuntele nyt

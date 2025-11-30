@@ -88,9 +88,14 @@ m24-home-got-an-earlystage = Bạn đã khởi nghiệp ở giai đoạn đầu?
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Đóng góp giọng nói của bạn để làm cho công nghệ giọng nói trở nên toàn diện hơn và dễ tiếp cận hơn đối với mọi người.
 m24-home-donate-your-voice = Đóng góp giọng nói của bạn
+m24-home-our-transformation = Sự chuyển đổi của chúng tôi
 m24-home-how-do-legacy = Các giá trị truyền thống xung đột như thế nào với sự đổi mới? Trong cuộc trò chuyện này, Mark Surman sẽ giới thiệu cách chúng tôi đang xoay chuyển { -brand-name-mozilla } cho kỷ nguyên AI.
 # Used as an accessible text alternative for an image
+m24-home-alt-transformation = Change Signal với Mark Surman và MBS
+# Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = Đám mây với nền màu hồng
+m24-home-any-agent = Any Agent
+m24-home-stop-wiring-tools = Dừng việc nối các công cụ lại với nhau và trông chừng các thiết bị tự động dễ vỡ. Với nền tảng { -brand-name-mozilla-ai-v2 } Agent, bạn sẽ mô tả mục tiêu của mình và chúng tôi sẽ tạo ra các AI agent thích ứng hoạt động với các công cụ và quy trình của bạn.
 
 ## Media Springboard
 
