@@ -89,13 +89,13 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Adományozza a hangját, hogy a beszédtechnológia befogadóbb és mindenki számára elérhető legyen.
 m24-home-donate-your-voice = Adja a hangját
 m24-home-our-transformation = Az átalakulásunk
-m24-home-how-do-legacy = Hogyan ütköznek az örökölt értékek az innovációval? Ebben a beszélgetésben Mark Surman bemutatja, hogyan alakítjuk át a(z) { -brand-name-mozilla } vállalatot a mesterséges intelligencia korszakában.
+m24-home-how-do-legacy = Hogyan ütköznek az örökölt értékek az innovációval? Ebben a beszélgetésben Mark Surman bemutatja, hogyan alakítjuk át a { -brand-name-mozilla(ending: "accented") }t a mesterséges intelligencia korszakában.
 # Used as an accessible text alternative for an image
 m24-home-alt-transformation = Jel módosítása Mark Surman és MBS segítségével
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = Felhő, rózsaszín háttérrel
 m24-home-any-agent = Bármely ügynök
-m24-home-stop-wiring-tools = Ne huzalozza össze a szerszámokat és ne vigyázzon a törékeny automatizálásokra. A { -brand-name-mozilla-ai-v2 } Agent Platformmal írja le a célját, mi adaptív MI-ügynököket állítunk elő, amelyek együttműködnek az eszközeivel és folyamataival.
+m24-home-stop-wiring-tools = Ne csak összekössön eszközöket, és ne felügyeljen törékeny automatizálásokat. Írja le a célját a { -brand-name-mozilla-ai-v2 } Agent Platformmal, és mi adaptív MI-ágenst állítunk elő, amelyek együttműködik az eszközeivel és folyamataival.
 
 ## Media Springboard
 
@@ -114,7 +114,7 @@ m24-home-topic-ai = Mesterséges intelligencia
 m24-home-topic-open-source-ai = Nyílt forráskódú MI
 m24-home-topic-ps = Adatvédelem és biztonság
 m24-home-headline-you-ai-v2 = Ön, az MI és az internet – mi is történik valójában?
-m24-home-shake-to-summarize = Rázza meg, hogy összefoglalja a TIME 2025 legjobb találmányait
+m24-home-shake-to-summarize = A „Rázás az összegzéshez” a TIME legjobb 2025-ös találmányai között
 m24-home-mozilla-welcomes-raffi = A { -brand-name-mozilla } üdvözli Raffi Krikoriant műszaki igazgatóként
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } vezérigazgató a nyílt forráskódú MI előnyeiről beszél
@@ -133,7 +133,7 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = Az { -brand-name-mozilla } új üzenete: Mi vagyunk az egyetlen böngésző, melyet nem milliárdosok támogatnak
 m24-home-fast-company = Fast Company
 m24-home-will-agi-be = Valóság lesz-e az AGI – és készen állunk?
-m24-home-conversation-charting-a = Beszélgetés: A jövő felvázolása a hozzáférés és a képviselet számára
+m24-home-conversation-charting-a = Beszélgetés: A hozzáférés és az önrendelkezés jövőjének felvázolása
 m24-home-tech-policy-press = Tech Policy Press
 m24-home-open-by-design = Open By Design: Hogyan versenyezhetnek a nemzetek az MI korában
 m24-home-mozilla = { -brand-name-mozilla }
@@ -169,7 +169,7 @@ m24-home-join-mozilla-data = Csatlakozás a { -brand-name-mozilla } Data Collect
 ## Issues
 
 m24-home-explore-issues-shaping = Fedezze fel az internet jövőjét alakító kérdéseket
-m24-home-the-validation-machines = Az ellenőrző gépek
+m24-home-the-validation-machines = The Validation Machines
 m24-home-in-the-atlantic = A The Atlantic-ban a { -brand-name-mozilla } műszaki igazgatója, Raffi Krikorian megkérdezi, hogy a csevegőbotok és a generatív MI-k miért olyan készségesek, hogy a kedvünkbe tegyenek, és hogy ez mit jelent ez az emberiség számára. (a kép forrása: The Atlantic)
 # Used as an accessible text alternative for an image
 m24-home-alt-validation = Egy miniatűr személy néz egy nagy billentyűt és egy hipnotizáló számítógép-képernyőt
@@ -181,6 +181,6 @@ m24-home-irl-listen-now = Meghallgatás most
 
 ## Outside the Fox
 
-m24-home-outside-the-fox = A Rókán kívül
+m24-home-outside-the-fox = Outside the Fox
 m24-home-this-is-where = Itt fedezzük fel, hogy mi történik online, és ez miért számít; a mindent meghódító szeméttől a virális internetkultúráig.
-m24-home-fox-listen-now = Figyeljen most elemre
+m24-home-fox-listen-now = Meghallgatás most
