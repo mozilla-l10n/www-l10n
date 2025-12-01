@@ -125,7 +125,7 @@ m24-home-what-comes-next = Что будет дальше в технологи�
 m24-home-how-ventures-investee = Как венчурные инвестиции улучшают шифрование
 # Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
-m24-home-tech-crunch-v2 = Techcrunch
+m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = «Хороший момент для нас»: Глава { -brand-name-firefox } об ИИ-браузерах и что грядёт в интернете
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = Интервью: Переход опенсорса в ИИ-эру
