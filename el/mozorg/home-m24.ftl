@@ -134,8 +134,14 @@ m24-home-mozilla-is-reinventing-itself = Η { -brand-name-mozilla } επαναπ
 m24-home-state-of-mozilla-alt = Αφηρημένη τέχνη εικονοστοιχείων στις αποχρώσεις του πράσινου, του πορτοκαλί και του ροζ
 m24-home-read-the-report = Διαβάστε την αναφορά
 
+## Data Collective
+
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+
 ## Issues
 
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = Ένα μικροσκοπικό άτομο που κοιτάζει ένα μεγάλο πλήκτρο πληκτρολογίου και μια υπνωτιστική οθόνη υπολογιστή
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, οικοδέσποινα του IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
