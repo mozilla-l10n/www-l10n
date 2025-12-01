@@ -132,13 +132,13 @@ m24-home-mozilla-ventures-funds = A { -brand-name-mozilla-ventures } finanszíro
 m24-home-axios = Axios
 m24-home-mozillas-new-message = Az { -brand-name-mozilla } új üzenete: Mi vagyunk az egyetlen böngésző, melyet nem milliárdosok támogatnak
 m24-home-fast-company = Fast Company
-m24-home-will-agi-be = Valóság lesz az AGI – és készen vagyunk?
+m24-home-will-agi-be = Valóság lesz-e az AGI – és készen állunk?
 m24-home-conversation-charting-a = Beszélgetés: A jövő felvázolása a hozzáférés és a képviselet számára
-m24-home-tech-policy-press = Tech Policy Sajtó
-m24-home-open-by-design = Open By Design: Hogyan versenyezhetnek a nemzetek a MI korában
+m24-home-tech-policy-press = Tech Policy Press
+m24-home-open-by-design = Open By Design: Hogyan versenyezhetnek a nemzetek az MI korában
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } új pályát követ, a jövedelmezőség felé fordulva
-m24-home-silicon-angle = Szilícium szög
+m24-home-mozilla-ai-charts = A { -brand-name-mozilla-ai-v2 } új pályát követ, a jövedelmezőség felé fordulva
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -159,20 +159,20 @@ m24-home-read-the-report = Olvassa el a jelentést
 
 ## Data Collective
 
-m24-home-mozilla-data-collective = { -brand-name-mozilla } adatgyűjtés
-m24-home-mozilla-create-curate-control = Létrehozás. Válogatás. Vezérlés.
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-create-curate-control = Létrehozás. Válogatás. Irányítás.
 # Obsolete string (expires 2026-03-20)
-m24-home-mozilla-data-collective-is = A(z) { -brand-name-mozilla } Data Collective újjáépíti a mesterséges intelligenciára épülő adat ökoszisztémát a közösségekkel a középpontban. Érjen el több mint 300 kiváló minőségű globális adatkészletet, amelyeket a közösség állított fel, átlátható és etikus módon.
-m24-home-mozilla-data-collective-is-v3 = A { -brand-name-mozilla } Data Collective újjáépíti a mesterséges intelligenciára épülő adat ökoszisztémát a közösségekkel a középpontban. Érjen el több mint 300 kiváló minőségű globális adatkészletet, amelyeket a közösség állított fel, átlátható és etikus módon.
-m24-home-join-mozilla-data = Csatlakozzon a(z) { -brand-name-mozilla } adatgyűjteményhez
+m24-home-mozilla-data-collective-is = A { -brand-name-mozilla } Data Collective újjáépíti a mesterséges intelligenciára épülő adatökoszisztémát, a közösségekkel a középpontban. Érjen el több mint 300 kiváló minőségű globális adatkészletet, amelyeket a közösség állított össze, átlátható és etikus módon.
+m24-home-mozilla-data-collective-is-v3 = A { -brand-name-mozilla } Data Collective újjáépíti a mesterséges intelligenciára épülő adatökoszisztémát, a közösségekkel a középpontban. Érjen el több mint 300 kiváló minőségű globális adatkészletet, amelyeket a közösség állított össze, átlátható és etikus módon.
+m24-home-join-mozilla-data = Csatlakozás a { -brand-name-mozilla } Data Collective-hez
 
 ## Issues
 
-m24-home-explore-issues-shaping = Fedezze fel azokat a kérdéseket, amelyek az internet jövőjét alakítják
+m24-home-explore-issues-shaping = Fedezze fel az internet jövőjét alakító kérdéseket
 m24-home-the-validation-machines = Az ellenőrző gépek
-m24-home-in-the-atlantic = A The Atlantic-ban { -brand-name-mozilla } műszaki igazgató, Raffi Krikorian megkérdezi, hogy a csevegőbotok és a generatív MI miért olyan mohó, hogy nekünk a kedvünkben tegyenek, és mit jelent ez az emberiség számára. (a kép forrása: The Atlantic)
+m24-home-in-the-atlantic = A The Atlantic-ban a { -brand-name-mozilla } műszaki igazgatója, Raffi Krikorian megkérdezi, hogy a csevegőbotok és a generatív MI-k miért olyan készségesek, hogy a kedvünkbe tegyenek, és hogy ez mit jelent ez az emberiség számára. (a kép forrása: The Atlantic)
 # Used as an accessible text alternative for an image
-m24-home-alt-validation = Egy miniatűr személy néz egy nagy billentyűzet billentyűt és egy hipnotizáló számítógép képernyőjét
+m24-home-alt-validation = Egy miniatűr személy néz egy nagy billentyűt és egy hipnotizáló számítógép-képernyőt
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, az IRL Podcast házigazdája.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
@@ -182,5 +182,5 @@ m24-home-irl-listen-now = Meghallgatás most
 ## Outside the Fox
 
 m24-home-outside-the-fox = A Rókán kívül
-m24-home-this-is-where = Itt fedezzük fel, hogy mi történik online, és miért számít ez, attól, hogy miért hódítja meg az internetet a vírusos internetes kultúra.
+m24-home-this-is-where = Itt fedezzük fel, hogy mi történik online, és ez miért számít; a mindent meghódító szeméttől a virális internetkultúráig.
 m24-home-fox-listen-now = Figyeljen most elemre
