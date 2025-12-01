@@ -109,6 +109,7 @@ m24-home-topic-ai = Τεχνητή νοημοσύνη
 m24-home-topic-ps = Απόρρητο και ασφάλεια
 m24-home-headline-you-ai-v2 = Εσείς, η τεχνητή νοημοσύνη και το διαδίκτυο· τι πραγματικά συμβαίνει;
 m24-home-tech-target = Tech Target
+# Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios

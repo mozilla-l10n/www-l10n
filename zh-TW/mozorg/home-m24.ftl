@@ -118,9 +118,11 @@ m24-home-shake-to-summarize = 搖晃裝置，即可看到時代雜誌的 2025 �
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } 歡迎 Raffi Krikorian 出任技術長
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } 執行長分享開放原始碼 AI 的優勢
+# Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = 隆重推出 Thundermail 與 Thunderbird Pro
 m24-home-what-comes-next = 科技界的未來需要選擇。與我們一起選擇。
 m24-home-how-ventures-investee = 被風險投資的企業 Germ 是如何加強加密的
+# Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = TechCrunch
 m24-home-a-good-moment = 「我們的好時光」：{ -brand-name-firefox } 主管探討 AI 瀏覽器與 Web 的未來發展
 m24-home-the-guardian = 衛報

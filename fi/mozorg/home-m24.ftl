@@ -88,8 +88,10 @@ m24-home-topic-ai = Tekoäly
 m24-home-topic-open-source-ai = Avoimen lähdekoodin tekoäly
 m24-home-topic-ps = Tietosuoja ja turvallisuus
 m24-home-headline-you-ai-v2 = Sinä, tekoäly ja Internet – mitä oikein on meneillään?
+# Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Esittelyssä Thundermail ja Thunderbird Pro
 m24-home-what-comes-next = Teknologian seuraava askel on valinta. Valitse meidän kanssamme.
+# Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
 m24-home-the-guardian = The Guardian
 m24-home-mozilla = { -brand-name-mozilla }

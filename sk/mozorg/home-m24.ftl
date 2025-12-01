@@ -118,9 +118,11 @@ m24-home-shake-to-summarize = Funkcia 'Zatraste pre zhrnutie' v rebríčku najle
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } víta Raffiho Krikoriana ako hlavného technologického riaditeľa
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = Generálny riaditeľ { -brand-name-mozilla-ai-v2 } hovorí o výhodách open source umelej inteligencie
+# Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Predstavujeme Thundermail a Thunderbird Pro
 m24-home-what-comes-next = Čo bude ďalej v oblasti technológií, je otázka voľby. Vyberte si s nami.
 m24-home-how-ventures-investee = Ako spoločnosť Ventures Investee Germ posilňuje šifrovanie
+# Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = „Dobrý moment v čase pre nás“: tvorca { -brand-name-firefox(case: "gen") } o prehliadačoch s umelou inteligenciou a o tom, čo bude ďalej s webom
 m24-home-the-guardian = The Guardian

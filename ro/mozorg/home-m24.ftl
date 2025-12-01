@@ -110,6 +110,7 @@ m24-home-topic-ai = Inteligenţă artificială
 m24-home-topic-open-source-ai = IA cu sursă deschisă
 m24-home-topic-ps = Confidențialitate și securitate
 m24-home-headline-you-ai-v2 = Tu, IA și internetul — ce se întâmplă cu adevărat?
+# Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Prezentare Thundermail și Thunderbird Pro
 m24-home-the-guardian = The Guardian
 m24-home-mozilla = { -brand-name-mozilla }

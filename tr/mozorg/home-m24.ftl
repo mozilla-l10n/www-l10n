@@ -110,6 +110,7 @@ m24-home-topic-open-source-ai = Open Source AI
 m24-home-topic-ps = Gizlilik ve güvenlik
 m24-home-headline-you-ai-v2 = Siz, yapay zekâ ve internet… Aslında neler oluyor?
 m24-home-tech-target = Tech Target
+# Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
 m24-home-the-guardian = The Guardian
 # Obsolete string (expires 2026-03-20)

@@ -94,8 +94,8 @@ m24-home-how-do-legacy = Hogyan ütköznek az örökölt értékek az innováci�
 m24-home-alt-transformation = Jel módosítása Mark Surman és MBS segítségével
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = Felhő, rózsaszín háttérrel
-m24-home-any-agent = Bármely ügynök
-m24-home-stop-wiring-tools = Ne csak összekössön eszközöket, és ne felügyeljen törékeny automatizálásokat. Írja le a célját a { -brand-name-mozilla-ai-v2 } Agent Platformmal, és mi adaptív MI-ágenst állítunk elő, amelyek együttműködik az eszközeivel és folyamataival.
+m24-home-any-agent = Bármelyik ágens
+m24-home-stop-wiring-tools = Felejtse el az összedrótozott eszközöket és a törékeny automatizálásokat. Írja le a célját a { -brand-name-mozilla-ai-v2 } Agent Platformmal, és mi adaptív MI-ágenst állítunk elő, amely együttműködik az eszközeivel és a folyamataival.
 
 ## Media Springboard
 
@@ -118,9 +118,11 @@ m24-home-shake-to-summarize = A „Rázás az összegzéshez” a TIME legjobb 2
 m24-home-mozilla-welcomes-raffi = A { -brand-name-mozilla } műszaki igazgatóként üdvözli Raffi Krikoriant
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } vezérigazgató a nyílt forráskódú MI előnyeiről beszél
+# Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Bemutatkozik a Thundermail és a Thunderbird Pro
 m24-home-what-comes-next = Ami ezután következik a technológiában, az egy választás. Válasszon velünk.
 m24-home-how-ventures-investee = Hogyan erősíti a titkosítást a Ventures Investee befektetése
+# Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = „Számunkra egy jó pillanat”: { -brand-name-firefox } fej a mesterséges intelligencia böngészőkre és mi következik a webes fejlesztésekben
 m24-home-the-guardian = The Guardian

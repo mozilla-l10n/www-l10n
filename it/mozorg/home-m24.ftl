@@ -118,9 +118,11 @@ m24-home-shake-to-summarize = “Agita per riassumere” tra le migliori invenzi
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } dà il benvenuto a Raffi Krikorian come Chief Technology Officer
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = Il CEO di { -brand-name-mozilla-ai-v2 } discute i vantaggi dell’IA open source
+# Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Presentazione di Thundermail e Thunderbird Pro
 m24-home-what-comes-next = Il futuro della tecnologia è una scelta. Scegli insieme a noi.
 m24-home-how-ventures-investee = Come Ventures Investee Germ sta rafforzando la crittografia
+# Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = TechCrunch
 m24-home-a-good-moment = “Un buon momento per noi”: il responsabile di { -brand-name-firefox } sui browser basati sull’intelligenza artificiale e sul futuro del Web
 m24-home-the-guardian = The Guardian

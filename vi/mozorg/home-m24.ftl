@@ -118,9 +118,11 @@ m24-home-shake-to-summarize = Lắc để tóm tắt những phát minh tuyệt 
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } chào đón Raffi Krikorian làm Giám đốc công nghệ
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = CEO { -brand-name-mozilla-ai-v2 } nói về lợi thế của AI nguồn mở
+# Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Giới thiệu Thundermail và Thunderbird Pro
 m24-home-what-comes-next = Điều tiếp theo trong công nghệ là sự lựa chọn. Hãy lựa chọn cùng chúng tôi.
 m24-home-how-ventures-investee = Germ, công ty được Ventures Investee đầu tư, đang tăng cường mã hóa như thế nào
+# Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = 'Một khoảnh khắc tuyệt vời cho chúng ta': { -brand-name-firefox } nói về trình duyệt AI và những gì sắp tới cho web
 m24-home-the-guardian = The Guardian

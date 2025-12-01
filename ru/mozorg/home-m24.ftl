@@ -118,9 +118,11 @@ m24-home-shake-to-summarize = Встряхнитесь, чтобы подвес�
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } приветствует Раффи Крикоряна в качестве Технического директора
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = Генеральный директор { -brand-name-mozilla-ai-v2 } рассказывает о преимуществах ИИ с открытым исходным кодом
+# Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Представляем Thundermail и Thunderbird Pro
 m24-home-what-comes-next = Что будет дальше в технологиях — это ваш выбор. Выбирайте с нами.
 m24-home-how-ventures-investee = Как венчурные инвестиции улучшают шифрование
+# Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = «Хороший момент для нас»: Глава { -brand-name-firefox } об ИИ-браузерах и что грядёт в интернете
 m24-home-the-guardian = The Guardian

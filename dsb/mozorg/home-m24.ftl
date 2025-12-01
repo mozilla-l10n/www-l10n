@@ -118,9 +118,11 @@ m24-home-shake-to-summarize = Tśěsćo se, aby w nejlěpšych wunamakanjach 202
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } Raffi Krikoriana ako Chief Technology Officer wita
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = CEO { -brand-name-mozilla-ai-v2 } wó lěpšynach KI wótwórjonego žrědła powěda
+# Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Pśedstajamy Thundermail a Thunderbird Pro
 m24-home-what-comes-next = Což ako pśiduce w technologiji pśiźo jo wuběrk. Wubjeŕśo z nami.
 m24-home-how-ventures-investee = Kak dostawaŕ inwesticijow rizikowego kapitala Germ skoděrowanje mócni
+# Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = ‘Dobre wokognuśe w casu za nas: { -brand-name-firefox } na cole pśed wobglědowakami KI a což jo pśiduce za web
 m24-home-the-guardian = The Guardian

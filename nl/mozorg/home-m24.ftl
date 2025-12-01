@@ -118,9 +118,11 @@ m24-home-shake-to-summarize = Schudden om samen te vatten in TIME’s beste uitv
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } verwelkomt Raffi Krikorian als Chief Technology Officer
 m24-home-tech-target = Tech-doelstelling
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 }-CEO praat over voordelen van opensource-AI
+# Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Nieuw: Thundermail en Thunderbird Pro
 m24-home-what-comes-next = Wat hierna komt in technologie is een keuze. Kies met ons.
 m24-home-how-ventures-investee = Hoe Ventures Investee Germ versleuteling versterkt
+# Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = ‘Een goed moment voor ons’: { -brand-name-firefox } richt zich op AI-browsers en wat er op stapel staat voor het web
 m24-home-the-guardian = The Guardian

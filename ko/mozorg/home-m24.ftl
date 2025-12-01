@@ -118,9 +118,11 @@ m24-home-shake-to-summarize = TIME의 2025년 최고의 발명품을 흔들어�
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla }는 최고 기술 책임자로 Raffi Krikoian을 환영합니다.
 m24-home-tech-target = 기술 목표
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 }의 오픈 소스 AI 이점에 대해 이야기하는 최고 경영자
+# Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Thundermail과 Thunderbird 프로 소개
 m24-home-what-comes-next = 기술의 다음 단계는 선택입니다. 같이 선택해요.
 m24-home-how-ventures-investee = Ventures 피투자자가 암호화를 강화하는 방법
+# Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = 테크 크런치
 m24-home-a-good-moment = '우리에게 좋은 순간': { -brand-name-firefox }와 AI 브라우저와 웹의 미래에 대해 살펴보기
 m24-home-the-guardian = 가디언

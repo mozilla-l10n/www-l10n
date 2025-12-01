@@ -120,9 +120,11 @@ m24-home-shake-to-summarize = Agita pro resumer in le melior inventiones del TIM
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } da le benvenita a Raffi Krikorian como Functionario Responsabile del Technologia
 m24-home-tech-target = Objectivo technologic
 m24-home-mozilla-ai-ceo = Le director general de { -brand-name-mozilla-ai-v2 } discute re le avantages del IA open-source
+# Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Introduction de Thundermail e Thunderbird Pro
 m24-home-what-comes-next = Lo que succede postea in le technologia es un selection. Selige con nos.
 m24-home-how-ventures-investee = Como Ventures Investee Germ reinfortia le cryptation
+# Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = ‘Un bon momento pro nos’: { -brand-name-firefox } a guida del navigatores IA e le futuro del web
 m24-home-the-guardian = The Guardian
