@@ -12,7 +12,7 @@ footer-refresh-learn-more-about-mozilla-advertising = További információk: <s
 footer-refresh-firefox-release-notes = { -brand-name-firefox } kiadási megjegyzések
 # Obsolete string (expires 2026-03-13)
 footer-refresh-extend-reach = Javítsa az elérést, mélyítse a bizalmat.
-footer-refresh-add-trust-to = Erősítsen a hirdetésvásárlásában.
+footer-refresh-add-trust-to = Bizalom a hirdetésvásárlásban.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Kövesse a következőt: @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
