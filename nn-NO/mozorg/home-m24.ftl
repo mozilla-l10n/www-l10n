@@ -107,6 +107,8 @@ m24-home-topic-ps = Personvern og sikkerheit
 m24-home-headline-you-ai-v2 = Du, AI og internett – kva skjer eigentleg?
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
+m24-home-fast-company = Fast Company
+m24-home-will-agi-be = Vil AGI bli ein realitet – og er vi klare?
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-silicon-angle = Silicon Angle
 
@@ -134,3 +136,7 @@ m24-home-alt-irl-host = Bridget Todd, programleiar for IRL-podkasten.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Vår premierte podkast introduserer endringsskaparane som jobbar for å gjere internett tryggare og AI meir påliteleg.
 m24-home-irl-listen-now = Lytt no
+
+## Outside the Fox
+
+m24-home-fox-listen-now = Lytt no
