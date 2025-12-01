@@ -120,10 +120,12 @@ m24-home-tech-target = ტექნიკური სამიზნე
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 }-ის აღმასრულებელი დირექტორი ღია AI-ს უპირატესობებზე საუბრობს
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = წარმოგიდგენთ Thundermail და Thunderbird Pro-ს
+m24-home-introducing-thundermail-and-v2 = წარმოგიდგენთ { -brand-name-thundermail } და { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = ტექნიკური საკითხებში მომავალი არჩევანია. აირჩიეთ ჩვენთან.
 m24-home-how-ventures-investee = როგორ აძლიერებს დაშიფვრას Ventures Investee Germ
 # Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = ტექნიკური პრობლემები
+m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = „ხელსაყრელი მომენტია ჩვენთვის“: { -brand-name-firefox } ყურადღება, ხელოვნური ინტელექტისა და ინტერნეტის მომავლის შესახებ ბრაუზერებზე
 m24-home-the-guardian = მცველი
 m24-home-interview-take-open = გასაუბრება: ხელოვნური ინტელექტის ეპოქაში გადაყვანა

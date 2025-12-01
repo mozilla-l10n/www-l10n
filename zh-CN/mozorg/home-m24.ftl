@@ -120,10 +120,12 @@ m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } 首席执行官谈开源 AI 的优势
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Thundermail 和 Thunderbird Pro 登场
+m24-home-introducing-thundermail-and-v2 = 介绍 { -brand-name-thundermail } 和 { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = 科技的未来走向取决于选择，让我们共同抉择。
 m24-home-how-ventures-investee = 初创公司 Germ 如何强化加密技术
 # Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
+m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = “对我们来说是个好时机”：{ -brand-name-firefox } 负责人谈 AI 浏览器与网络的未来走向
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = 专访：将开源精神带入 AI 时代

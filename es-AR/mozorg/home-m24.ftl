@@ -120,10 +120,12 @@ m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = El CEO de { -brand-name-mozilla-ai-v2 } habla sobre las ventajas de la IA de código abierto
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Presentamos Thundermail y Thunderbird Pro
+m24-home-introducing-thundermail-and-v2 = Presentamos { -brand-name-thundermail } y { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Lo que viene después en tecnología es una elección. Elegí con nosotros.
 m24-home-how-ventures-investee = Cómo Ventures Investee Germ está fortaleciendo el cifrado
 # Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
+m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = ‘Un buen momento para nosotros’: { -brand-name-firefox } cabeza en los navegadores de IA y lo que sigue para la web
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = Entrevista: Llevando el código abierto a la era de la IA

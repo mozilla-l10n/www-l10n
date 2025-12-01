@@ -120,10 +120,12 @@ m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } VD pratar om fördelarna med öppen källkod för AI
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Introducerar Thundermail och Thunderbird Pro
+m24-home-introducing-thundermail-and-v2 = Introducerar { -brand-name-thundermail } och { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Det som kommer härnäst inom tekniken är ett val. Välj med oss.
 m24-home-how-ventures-investee = Hur Ventures Investee Germ stärker kryptering
 # Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
+m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = "Ett bra tillfälle för oss": { -brand-name-firefox } fokuserar på AI-webbläsare och vad som kommer härnäst för webben
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = Intervju: Att ta öppen källkod in i AI-eran

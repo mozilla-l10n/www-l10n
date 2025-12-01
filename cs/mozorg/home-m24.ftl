@@ -120,10 +120,12 @@ m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = Výkonný ředitel { -brand-name-mozilla-ai-v2 } hovoří o výhodách umělé inteligence s otevřeným zdrojovým kódem
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Představujeme Thundermail a Thunderbird Pro
+m24-home-introducing-thundermail-and-v2 = Představujeme { -brand-name-thundermail } a { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Co dalšího se stane v oblasti technologií, je otázka volby. Vybírejte s námi.
 m24-home-how-ventures-investee = Jak Ventures Investee Germ posiluje šifrování
 # Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
+m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = „Skvělý okamžik pro nás“: tvůrce { -brand-name-firefox(case: "gen") } o prohlížečích s umělou inteligencí a o tom, co bude dále s webem
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = Rozhovor: open source v éře umělé inteligence
