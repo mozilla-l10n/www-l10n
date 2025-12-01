@@ -122,10 +122,12 @@ m24-home-tech-target = Objectivo technologic
 m24-home-mozilla-ai-ceo = Le director general de { -brand-name-mozilla-ai-v2 } discute re le avantages del IA open-source
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Introduction de Thundermail e Thunderbird Pro
+m24-home-introducing-thundermail-and-v2 = Introducente { -brand-name-thundermail } e { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Lo que succede postea in le technologia es un selection. Selige con nos.
 m24-home-how-ventures-investee = Como Ventures Investee Germ reinfortia le cryptation
 # Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
+m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = ‘Un bon momento pro nos’: { -brand-name-firefox } a guida del navigatores IA e le futuro del web
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = Intervista: portar le open-source in le era del IA
