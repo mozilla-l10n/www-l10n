@@ -7,7 +7,7 @@
 
 vpn-mobile-get-a-vpn = Získejte VPN pro mobily od { -brand-name-mozilla(case: "gen") }
 vpn-mobile-looking-for-a = Hledáte VPN pro ochranu svého mobilního zařízení? { -brand-name-mozilla-vpn } je podporována neziskovou společností. Přečtěte si, jak vás VPN chrání a proč byste měli svěřit společnosti { -brand-name-mozilla } své soukromí a bezpečnost.
-vpn-mobile-vpn-for-mobile = VPN pro mobilní zařízení od { -brand-name-mozilla(case: "gen") }
+vpn-mobile-vpn-for-mobile = VPN pro mobily od { -brand-name-mozilla(case: "gen") }
 vpn-mobile-in-todays = V dnešním mobilním světě se při komunikaci, zábavě a práci spoléháme na naše mobilní telefony a zařízení. Bez sítě VPN však můžou být vaše osobní údaje zranitelné vůči několika rizikům zabezpečení a ochrany soukromí.
 vpn-mobile-why-do-i = Proč potřebuji VPN na mobilním zařízení?
 vpn-mobile-the-mozilla-vpn = Mobilní aplikace { -brand-name-mozilla-vpn } je malá, takže nezabírá příliš mnoho paměti, nezpomaluje telefon a nezatěžuje vaši baterii.
