@@ -120,9 +120,11 @@ m24-home-shake-to-summarize = Goncangkan untuk Kesimpulan dalam TIME's Best Inve
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } mengalu-alukan Raffi Krikorian sebagai Ketua Pegawai Teknologi
 m24-home-tech-target = Sasaran Teknologi
 m24-home-mozilla-ai-ceo = CEO { -brand-name-mozilla-ai-v2 } bercakap tentang kelebihan AI sumber terbuka
+# Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Memperkenalkan Thundermail dan Thunderbird Pro
 m24-home-what-comes-next = Teknologi masa depan adalah pilihan anda. Pilih untuk bersama kami.
 m24-home-how-ventures-investee = Bagaimana Demam Pelaburan Dana Niaga Memperkasakan Enkripsi
+# Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = 'Masa terbaik untuk kami': { -brand-name-firefox } merungkai pelayar AI dan wawasan untuk internet
 m24-home-the-guardian = The Guardian
