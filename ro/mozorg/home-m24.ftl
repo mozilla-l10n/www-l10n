@@ -132,6 +132,12 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se reinventeaz�
 m24-home-state-of-mozilla-alt = Artă pixelată abstractă în nuanțe de verde, portocaliu și roz
 m24-home-read-the-report = Citește raportul
 
+## Data Collective
+
+m24-home-mozilla-create-curate-control = Creează. Organizează. Controlează.
+# Obsolete string (expires 2026-03-20)
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective reconstruiește ecosistemul de date bazat pe IA, cu focalizare pe comunități. Accesează peste 300 de seturi de date globale de înaltă calitate, construite de și pentru  comunitate într-un mod transparent și etic.
+
 ## Issues
 
 # Used as an accessible text alternative for an image
