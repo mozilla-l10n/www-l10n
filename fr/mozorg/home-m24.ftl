@@ -120,9 +120,11 @@ m24-home-shake-to-summarize = La fonctionnalité Shake to Summarize figure dans 
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } a le plaisir d’accueillir Raffi Krikorian au poste de Directeur des technologies
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = Le PDG de { -brand-name-mozilla-ai-v2 } explique les avantages de l’IA open source
+# Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Découvrez Thundermail et Thunderbird Pro
 m24-home-what-comes-next = Le futur de la tech est un choix. Faites ce choix avec nous.
 m24-home-how-ventures-investee = Comment la coentreprise Germ perfectionne le chiffrement
+# Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = « C’est une période propice pour nous » : le directeur de { -brand-name-firefox } s’exprime sur les navigateurs IA et le futur du Web
 m24-home-the-guardian = The Guardian
