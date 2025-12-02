@@ -11,4 +11,5 @@ vpn-ipad-thats-why-you = Upévare eikotevẽ { -brand-name-mozilla-vpn }, peteĩ
 vpn-ipad-mozilla-vpn-is = { -brand-name-mozilla-vpn } ha’e mba’eporu red privada virtual ombopapapýva nde jeike ñandutípe ha oñomi nde IP kundaharape.
 vpn-ipad-with-mozilla-vpn = { -brand-name-mozilla-vpn } ndive erekokuaa:
 vpn-ipad-protection-for-up-to = <strong>Omo’ã 5 mba’e’oka peve:</strong> oiporu { -brand-name-mozilla-vpn } nde iPad ha ambue irundy mba’e’oka peteĩ ñemboheraguapýpe. Avei eiporukuaa Windows, macOS, Linux, iPhone ha Android ndive.
+vpn-ipad-access-to-servers = Mohendahavusúpe jeike hetave 30 tetãme: Eiporavokuaa hetave 500 mohendahavusúpe hetave 30 tetãme arapy tuichakue eikekuaa hag̃ua ñandutípe. Kóva oikuave’ẽ hetave mba’e ha ndahasyive eike hag̃ua tetepy eipotávape.
 vpn-ipad-no-online = <strong>Nanderapykueréi ñandutípe:</strong> { -brand-name-mozilla } nomboheraguapýi mba’e ñanduti rendápepa eike ha ndohechái ne ñemongetakue.
