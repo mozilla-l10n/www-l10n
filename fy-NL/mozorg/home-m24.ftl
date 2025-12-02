@@ -120,10 +120,12 @@ m24-home-tech-target = Tech-doelstelling
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 }-CEO praat oer foardielen fan iepenboarne-AI
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Nij: Thundermail en Thunderbird Pro
+m24-home-introducing-thundermail-and-v2 = Nij: { -brand-name-thundermail } en { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Wat hjirnei komt yn technology is in kar. Kies mei ús.
 m24-home-how-ventures-investee = Hoe Ventures Investee Germ fersifering fersterket
 # Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
+m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = ‘In goed momint foar ús’: { -brand-name-firefox } oer AI-browsers en wat komt dernei foar it web
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = Ynterview: iepen boarne nei it AI-tiidrek bringe
