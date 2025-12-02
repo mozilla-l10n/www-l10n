@@ -120,9 +120,11 @@ m24-home-shake-to-summarize = シェイクして TIME 誌の「Best Inventions o
 m24-home-mozilla-welcomes-raffi = Raffi Krikorian が { -brand-name-mozilla } 最高技術責任者に就任
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } CEO が語るオープンソース AI の優位性
+# Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Thundermail と Thunderbird Pro のご紹介
 m24-home-what-comes-next = 次なるテクノロジーの流れは、選択です。私たちと一緒に選びましょう。
 m24-home-how-ventures-investee = 暗号化を強化するベンチャー投資先 Germ
+# Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = 「私たちにとって良いタイミング」: AI ブラウザーとこれからのウェブについて語る { -brand-name-firefox } 首脳
 m24-home-the-guardian = The Guardian

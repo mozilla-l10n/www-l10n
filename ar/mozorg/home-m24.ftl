@@ -120,9 +120,11 @@ m24-home-shake-to-summarize = أهز الجهاز للاختصار ضمن قائ
 m24-home-mozilla-welcomes-raffi = يَسعد { -brand-name-mozilla } أن تُرحّب بـ "رافي كريكوريان" في منصب الرئيس التنفيذي للتكنولوجيا
 m24-home-tech-target = الهدف التكنولوجي
 m24-home-mozilla-ai-ceo = الرئيس التنفيذي لـ { -brand-name-mozilla-ai-v2 } يتحدث عن مزايا الذكاء الاصطناعي مفتوح المصدر
+# Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = نُقدّم لكم Thundermail و Thunderbird Pro
 m24-home-what-comes-next = ما سيأتي بعد ذلك في عالم التقنية هو خيار. اختَر معنا.
 m24-home-how-ventures-investee = كيف تُعزّز شركة Ventures Investee Germ التشفير
+# Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = "لحظة مناسبة بالنسبة لنا": يتحدث رئيس { -brand-name-firefox } عن مُتصفحات الذكاء الاصطناعي وما الذي ينتظر الويب لاحقًا
 m24-home-the-guardian = The Guardian
