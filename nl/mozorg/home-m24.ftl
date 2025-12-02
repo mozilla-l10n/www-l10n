@@ -124,6 +124,7 @@ m24-home-what-comes-next = Wat hierna komt in technologie is een keuze. Kies met
 m24-home-how-ventures-investee = Hoe Ventures Investee Germ versleuteling versterkt
 # Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
+m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = ‘Een goed moment voor ons’: { -brand-name-firefox } richt zich op AI-browsers en wat er op stapel staat voor het web
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = Interview: opensource naar het AI-tijdperk brengen
