@@ -131,6 +131,7 @@ m24-home-read-the-report = Les rapporten
 
 ## Issues
 
+m24-home-explore-issues-shaping = Utforsk problemstillingar som formar framtidas internett
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, programleiar for IRL-podkasten.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
