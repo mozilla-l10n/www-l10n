@@ -97,16 +97,25 @@ m24-home-any-agent = Enhver agent
 m24-home-type = Type
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Forfatter
+m24-home-author-v2 = Forfatter(e)
 m24-home-topic = Emne
 m24-home-intro = Introduksjon
 m24-home-tag-article = Artikkel
 m24-home-tag-podcast = Podkast
 m24-home-tag-video = Video
 m24-home-topic-news = Nyheter
+m24-home-topic-products = Produkter
 m24-home-topic-ai = Kunstig Intelligens
 m24-home-topic-ps = Personvern og sikkerhet
 m24-home-headline-you-ai-v2 = Du, AI og internett — hva skjer egentlig?
+# Obsolete string (expires 2026-03-01)
+m24-home-introducing-thundermail-and = Introduksjon av Thundermail og Thunderbird Pro
+m24-home-tech-crunch-v2 = TechCrunch
+m24-home-the-guardian = The Guardian
+m24-home-axios = Axios
+m24-home-fast-company = Fast Company
 m24-home-will-agi-be = Vil AGI bli en realitet – og er vi klare?
+m24-home-tech-policy-press = Tech Policy Press
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } staker ut en ny kurs med en vending mot lønnsomhet
 
