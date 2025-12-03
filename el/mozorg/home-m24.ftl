@@ -111,6 +111,7 @@ m24-home-headline-you-ai-v2 = Εσείς, η τεχνητή νοημοσύνη �
 m24-home-tech-target = Tech Target
 # Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
+m24-home-tech-crunch-v2 = TechCrunch
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-fast-company = Fast Company
@@ -141,6 +142,7 @@ m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 
 ## Issues
 
+m24-home-explore-issues-shaping = Εξερευνήστε τα θέματα που διαμορφώνουν το μέλλον του διαδικτύου
 # Used as an accessible text alternative for an image
 m24-home-alt-validation = Ένα μικροσκοπικό άτομο που κοιτάζει ένα μεγάλο πλήκτρο πληκτρολογίου και μια υπνωτιστική οθόνη υπολογιστή
 # Used as an accessible text alternative for an image
