@@ -118,6 +118,7 @@ m24-home-will-agi-be = Vil AGI bli en realitet – og er vi klare?
 m24-home-tech-policy-press = Tech Policy Press
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } staker ut en ny kurs med en vending mot lønnsomhet
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -138,6 +139,7 @@ m24-home-read-the-report = Les rapporten
 
 ## Issues
 
+m24-home-explore-issues-shaping = Utforsk problemstillinger som former fremtidens internett
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, programleder for IRL-podkasten.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
