@@ -125,7 +125,8 @@ m24-home-introducing-thundermail-and = पेश हैं Thundermail और Th
 m24-home-what-comes-next = टेक्नोलॉजी में आगे क्या होगा, यह हम पर निर्भर है। आइए मिलकर फैसला लें।
 m24-home-how-ventures-investee = Ventures की निवेशित कंपनी Germ किस तरह एन्क्रिप्शन को मज़बूत बना रही है
 # Obsolete string (expires 2026-03-01)
-m24-home-tech-crunch = Tech Crunch
+m24-home-tech-crunch = TechCrunch
+m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = ‘हमारे लिए यह एक अच्छा समय है’: { -brand-name-firefox } की AI ब्राउज़रों पर राय और वेब के भविष्य पर दृष्टिकोण
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = इंटरव्यू: AI के दौर में ओपन सोर्स का भविष्य
