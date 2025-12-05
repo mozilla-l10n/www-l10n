@@ -22,7 +22,7 @@ firefox-desktop-out-of-date = Доступна еще более новая ве
 firefox-desktop-download-get-the-browser = Получите браузер, который защищает всё важное
 firefox-desktop-download-fast-reliable-private = Быстрый, надежный и приватный — для вашего спокойствия в Интернете.
 firefox-desktop-set-as-default = Установите { -brand-name-firefox } в качестве браузера по умолчанию.
-firefox-desktop-download-download-options = Параметры загрузки и другие языки
+firefox-desktop-download-download-options = Варианты скачиваний и другие языки
 firefox-desktop-download-browser-support = Поддержка { -brand-name-firefox-browser(case: "genitive") }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Делайте что угодно в Интернете.<br> { -brand-name-firefox-browser(case: "nominative_uppercase") } обеспечит вас <strong>защитой</strong>.

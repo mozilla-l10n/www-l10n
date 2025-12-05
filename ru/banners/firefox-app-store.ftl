@@ -11,4 +11,4 @@ banner-firefox-app-store-mozilla = { -brand-name-mozilla }
 banner-firefox-app-store-free-google-play = Бесплатно – в { -brand-name-google-play }
 banner-firefox-app-store-free-app-store = Бесплатно – в { -brand-name-app-store }
 # An accessible label used to describe the purpose of the page element.
-banner-firefox-app-store-label = Загрузка из App Store
+banner-firefox-app-store-label = Скачивание из App Store

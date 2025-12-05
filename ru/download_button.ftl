@@ -2,15 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-download-button-download-now = Загрузить сейчас
+download-button-download-now = Скачать сейчас
 download-button-firefox-beta = { -brand-name-firefox-beta }
 download-button-firefox-aurora = { -brand-name-firefox-aurora }
 download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span> { -brand-name-developer-edition }
 download-button-firefox-nightly = { -brand-name-firefox-nightly }
 download-button-systems-languages = Другие системы и языки
 download-button-google-play = Загрузить на { -brand-name-google-play }
-download-button-download-app-store = Загрузить из { -brand-name-app-store }
-download-button-download-firefox = Загрузить { -brand-name-firefox }
+download-button-download-app-store = Скачать из { -brand-name-app-store }
+download-button-download-firefox = Скачать { -brand-name-firefox }
 download-button-your-system-may = Ваша система может не удовлетворять требованиям { -brand-name-firefox }, но вы можете попробовать одну из этих версий:
 download-button-firefox-beta-android = <span>{ -brand-name-firefox-beta }</span> для { -brand-name-android }
 download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</span> для { -brand-name-android }
@@ -19,13 +19,13 @@ download-button-firefox-android = <span>{ -brand-name-firefox }</span> для { 
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> для { -brand-name-ios }
 download-button-firefox-privacy = Приватность { -brand-name-firefox }
 download-button-firefox-privacy-notice = Уведомление о конфиденциальности { -brand-name-firefox }
-download-button-download = Загрузить
+download-button-download = Скачать
 # Variables:
 #   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
 #   $help_url (url) - link to https://support.mozilla.org/
 #   $os_version (string) - e.g. Windows 8.1, macOS 10.14
 download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">больше не поддерживается</a> для { $os_version } и более ранних версий.
-download-button-please-download-esr = Пожалуйста, загрузите { -brand-name-firefox-esr } (выпуск с расширенной поддержкой), чтобы использовать { -brand-name-firefox }.
+download-button-please-download-esr = Пожалуйста, скачайте { -brand-name-firefox-esr } (выпуск с расширенной поддержкой), чтобы использовать { -brand-name-firefox }.
 download-firefox-esr = Загрузить { -brand-name-firefox-esr }
 download-firefox-esr-32 = Скачать { -brand-name-firefox-esr } (32-разрядная версия)
 download-firefox-esr-64 = Скачать { -brand-name-firefox-esr } (64-разрядная версия)

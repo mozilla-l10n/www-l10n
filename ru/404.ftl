@@ -14,7 +14,7 @@ not-found-page-go-back = Вернуться назад
 not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Узнайте</a> о { -brand-name-mozilla }, некоммерческой организации, разрабатывающей { -brand-name-firefox }.
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
-not-found-page-download-the-firefox-browser = <a href={ $download }>Загрузите</a> браузер { -brand-name-firefox } на ваше мобильное устройство или компьютер
+not-found-page-download-the-firefox-browser = <a href={ $download }>Скачайте</a> браузер { -brand-name-firefox } на ваше мобильное устройство или компьютер
 # Variables:
 #   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
 # Obsolete string (expires 19-10-2025)
