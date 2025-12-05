@@ -125,7 +125,8 @@ m24-home-introducing-thundermail-and = Memperkenalkan Thundermail dan Thunderbir
 m24-home-what-comes-next = Masa depan teknologi adalah pilihan. Pilih bersama kami.
 m24-home-how-ventures-investee = Bagaimana Germ, perusahaan portofolio Ventures, Memperkuat Teknologi Enkripsi
 # Obsolete string (expires 2026-03-01)
-m24-home-tech-crunch = Tech Crunch
+m24-home-tech-crunch = TechCrunch
+m24-home-tech-crunch-v2 = Tech Crunch
 m24-home-a-good-moment = ‘Saat yang tepat bagi kami’: Kepala { -brand-name-firefox } membahas peramban berbasis AI dan masa depan web
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = Wawancara: Membawa Sumber Terbuka ke Era AI

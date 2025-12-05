@@ -125,7 +125,8 @@ m24-home-introducing-thundermail-and = Wir stellen vor: Thundermail und Thunderb
 m24-home-what-comes-next = Was in der Technologie als Nächstes kommt, ist eine Entscheidung. Entscheide dich mit uns.
 m24-home-how-ventures-investee = Wie Ventures Investee Germ die Verschlüsselung stärkt
 # Obsolete string (expires 2026-03-01)
-m24-home-tech-crunch = Tech Crunch
+m24-home-tech-crunch = TechCrunch
+m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = „Ein guter Augenblick für uns“: { -brand-name-firefox } über KI-Browser und die Zukunft des Internets
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = Interview: Mit Open-Source in die KI-Ära
