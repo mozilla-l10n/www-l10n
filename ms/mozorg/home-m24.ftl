@@ -126,6 +126,7 @@ m24-home-what-comes-next = Teknologi masa depan adalah pilihan anda. Pilih untuk
 m24-home-how-ventures-investee = Bagaimana Demam Pelaburan Dana Niaga Memperkasakan Enkripsi
 # Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
+m24-home-tech-crunch-v2 = Tech Crunch
 m24-home-a-good-moment = 'Masa terbaik untuk kami': { -brand-name-firefox } merungkai pelayar AI dan wawasan untuk internet
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = Temubual: Bicara Sumber Terbuka di Era AI
