@@ -125,7 +125,8 @@ m24-home-introducing-thundermail-and = Découvrez Thundermail et Thunderbird Pro
 m24-home-what-comes-next = Le futur de la tech est un choix. Faites ce choix avec nous.
 m24-home-how-ventures-investee = Comment la coentreprise Germ perfectionne le chiffrement
 # Obsolete string (expires 2026-03-01)
-m24-home-tech-crunch = Tech Crunch
+m24-home-tech-crunch = TechCrunch
+m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = « C’est une période propice pour nous » : le directeur de { -brand-name-firefox } s’exprime sur les navigateurs IA et le futur du Web
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = Interview : intégrer l’open source dans l’ère de l’IA
