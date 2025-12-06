@@ -7,3 +7,6 @@
 
 page-gone-title = Ин саҳифа тоза карда шудааст
 gone-page-go-back = Бозгашт
+# Variables:
+#   $products (attr) - attributes to be added to the <a> tag - href="/products/"
+gone-page-browse-products = <a { $products }>Маҳсулоти</a> моро аз назар гузаронед.
