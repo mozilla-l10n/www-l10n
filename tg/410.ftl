@@ -10,3 +10,6 @@ gone-page-go-back = Бозгашт
 # Variables:
 #   $products (attr) - attributes to be added to the <a> tag - href="/products/"
 gone-page-browse-products = <a { $products }>Маҳсулоти</a> моро аз назар гузаронед.
+# Variables:
+#   $support (attr) - attributes to be added to the <a> tag - href="https://support.mozilla.org/"
+gone-page-visit-support = Ба <a { $support }>Маркази дастгирии «{ -brand-name-mozilla }»</a> ташриф оред.
