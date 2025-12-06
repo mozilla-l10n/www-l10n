@@ -9,7 +9,7 @@
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser(case: "nominative_uppercase") } для { -brand-name-ios } ({ -brand-name-iphone } и { -brand-name-ipad })
 mobile-ios-firefox-browser = { -brand-name-firefox-browser }
 mobile-ios-get-firefox-for = Получите { -brand-name-firefox } для { -brand-name-ios }
-mobile-ios-send-a-download-link-to-your = Отправить ссылку для загрузки на мой телефон.
+mobile-ios-send-a-download-link-to-your = Отправить ссылку на скачивание на мой телефон.
 mobile-ios-scan-the-qr-code-to-get-started = Отсканируйте QR-код, чтобы начать скачивание
 mobile-ios-scan-alt-text = Отсканируйте QR-код, чтобы получить { -brand-name-firefox } на { -brand-name-ios }
 mobile-ios-make-firefox-your = Сделайте { -brand-name-firefox } своим браузером по умолчанию
