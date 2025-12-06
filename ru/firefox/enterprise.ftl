@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Загрузите { -brand-name-firefox } { -brand-name-esr } или версию с регулярными выпусками для вашей организации
-firefox-enterprise-get-unmatched-data-protection = Получите непревзойдённую защиту данных с периодичностью обновлений, которая наиболее подходит вашему корпоративному { -brand-name-firefox }. Загрузите { -brand-name-esr } или версию с регулярными выпусками.
+firefox-enterprise-get-unmatched-data-protection = Получите непревзойдённую защиту данных с периодичностью обновлений, которая наиболее подходит вашему корпоративному { -brand-name-firefox }. Скачайте { -brand-name-esr } или версию с регулярными выпусками.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-get-firefox-for-your-enterprise = Загрузите { -brand-name-firefox } для вашей организации
 # Variables:
@@ -43,4 +43,4 @@ firefox-enterprise-pkg-installer = PKG установщик
 firefox-enterprise-windows-32-bit = 32-разрядная { -brand-name-windows }
 # Variables:
 #   $firefox_all (url) - link to https://www.mozilla.org/firefox/all/desktop-esr/
-firefox-enterprise-download-firefox-esr-or-rapid = Загрузите { -brand-name-firefox-esr } или версию с регулярными выпусками для<br> <a href="{ $firefox_all }">другого языка или платформы</a>.
+firefox-enterprise-download-firefox-esr-or-rapid = Скачайте { -brand-name-firefox-esr } или версию с регулярными выпусками для<br> <a href="{ $firefox_all }">другого языка или платформы</a>.

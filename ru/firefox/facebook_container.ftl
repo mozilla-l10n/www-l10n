@@ -6,10 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
 facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } для { -brand-name-firefox } | Запретите { -brand-name-facebook(case: "dative") } смотреть, какие сайты вы посещаете.
-facebook-container-millions-of-people-around = Миллионы людей по всему миру доверяют веб-браузерам { -brand-name-firefox } на { -brand-name-android }, { -brand-name-ios } и компьютерах. Быстрые. Приватные. Загрузите их прямо сейчас!
+facebook-container-millions-of-people-around = Миллионы людей по всему миру доверяют веб-браузерам { -brand-name-firefox } на { -brand-name-android }, { -brand-name-ios } и компьютерах. Быстрые. Приватные. Скачайте их прямо сейчас!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Надёжно изолирован. Держите свою жизнь при себе.
 facebook-container-get-the-facebook-container = Загрузить расширение { -brand-name-facebook-container }
-facebook-container-download-firefox-and-get-the = Загрузите { -brand-name-firefox } и установите расширение { -brand-name-facebook-container }
+facebook-container-download-firefox-and-get-the = Скачайте { -brand-name-firefox } и установите расширение { -brand-name-facebook-container }
 facebook-container-only-available-for-desktop = Расширение { -brand-name-facebook-container } в настоящее время доступно только компьютерного { -brand-name-firefox }.
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 # Variables:
