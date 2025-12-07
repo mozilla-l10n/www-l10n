@@ -41,7 +41,7 @@ vpn-features-automatically-block-ads = { -brand-name-mozilla-vpn } помога�
 vpn-features-encrypt-your-internet = Зашифруйте весь свой интернет-трафик
 vpn-features-vpn-protects-all-apps = { -brand-name-mozilla-vpn } защищает все приложения на вашем устройстве, а не только ваш браузер.
 vpn-features-stronger-malware = Более надежная защита от вредоносных программ
-vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } предотвращает загрузку вредоносного ПО из известных небезопасных источников.
+vpn-features-vpn-prevents-downloading-malware = { -brand-name-mozilla-vpn } предотвращает скачивание вредоносного ПО из известных небезопасных источников.
 vpn-features-super-private-mode = Суперприватный режим: маршрутизация трафика через два местоположения
 # Variables
 #   $feature (url) - link to https://support.mozilla.org/kb/multi-hop-encrypt-your-data-twice-enhanced-security
@@ -60,7 +60,7 @@ vpn-features-easily-exclude-apps = Легко исключайте прилож�
 vpn-features-trustworthy = Доверенный
 vpn-features-money-back = 30-дневная гарантия возврата денег
 vpn-features-plus-customer-support = Плюс круглосуточная поддержка клиентов.
-vpn-features-we-never-log = Мы никогда не регистрируем, не отслеживаем и не передаем ваши сетевые данные
+vpn-features-we-never-log = Мы никогда не регистрируем, не отслеживаем и не передаём ваши сетевые данные
 # Variables
 #   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
 vpn-features-simply-put-we-dont = Проще говоря, мы не собираем вашу личную информацию о просмотре. Вот наша <a { $privacy }>понятная политика конфиденциальности</a>.
