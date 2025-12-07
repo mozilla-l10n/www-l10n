@@ -116,10 +116,18 @@ m24-home-headline-you-ai-v2 = Du, AI og internett – kva skjer eigentleg?
 m24-home-tech-target = Tech Target
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Introduksjon av Thundermail og Thunderbird Pro
+m24-home-what-comes-next = Det neste som kjem innan teknologi er eit val. Vel med oss.
+# Obsolete string (expires 2026-03-01)
+m24-home-tech-crunch = Tech Crunch
+m24-home-tech-crunch-v2 = TechCrunch
 m24-home-the-guardian = The Guardian
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = MIT Sloan Review
+m24-home-mit-sloan-management-review = MIT Sloan Management Review
 m24-home-axios = Axios
 m24-home-fast-company = Fast Company
 m24-home-will-agi-be = Vil AGI bli ein realitet – og er vi klare?
+m24-home-tech-policy-press = Tech Policy Press
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-silicon-angle = Silicon Angle
 
@@ -143,6 +151,7 @@ m24-home-read-the-report = Les rapporten
 ## Issues
 
 m24-home-explore-issues-shaping = Utforsk problemstillingar som formar framtidas internett
+m24-home-the-validation-machines = Valideringsmaskinene
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, programleiar for IRL-podkasten.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
@@ -151,4 +160,5 @@ m24-home-irl-listen-now = Lytt no
 
 ## Outside the Fox
 
+m24-home-outside-the-fox = Outside the Fox
 m24-home-fox-listen-now = Lytt no
