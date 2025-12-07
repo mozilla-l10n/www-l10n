@@ -113,10 +113,15 @@ m24-home-topic-ai = Kunstig intelligens
 m24-home-topic-open-source-ai = AI med open kjeldekode
 m24-home-topic-ps = Personvern og sikkerheit
 m24-home-headline-you-ai-v2 = Du, AI og internett – kva skjer eigentleg?
+m24-home-shake-to-summarize = Rist for å oppsummere i TIMEs beste oppfinningar i 2025
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } ønskjer Raffi Krikorian velkomen som teknologisjef
 m24-home-tech-target = Tech Target
+m24-home-mozilla-ai-ceo = Administrerande direktør i { -brand-name-mozilla-ai-v2 } snakkar om fordelane med open source AI
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Introduksjon av Thundermail og Thunderbird Pro
+m24-home-introducing-thundermail-and-v2 = Vi presenterer { -brand-name-thundermail } og { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Det neste som kjem innan teknologi er eit val. Vel med oss.
+m24-home-how-ventures-investee = Korleis Ventures Investee Germ syrkar kryptering
 # Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
 m24-home-tech-crunch-v2 = TechCrunch
