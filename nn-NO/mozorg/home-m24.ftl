@@ -148,10 +148,17 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } finn seg sjølv
 m24-home-state-of-mozilla-alt = Abstrakt pikselskunst i nyansar av grønt, oransje og rosa
 m24-home-read-the-report = Les rapporten
 
+## Data Collective
+
+m24-home-join-mozilla-data = Bli med i { -brand-name-mozilla } Datakollektiv
+
 ## Issues
 
 m24-home-explore-issues-shaping = Utforsk problemstillingar som formar framtidas internett
 m24-home-the-validation-machines = Valideringsmaskinene
+m24-home-in-the-atlantic = I The Atlantic spør Raffi Krikorian, teknologidirektør i { -brand-name-mozilla }, kvifor chatbotar og generativ kunstig intelligens er så ivrige etter å gjere oss til lags, og kva det betyr for menneskeslekta. (bilde referert med løyve frå The Atlantic)
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = Ein miniatyrperson som ser på ein stor tastaturtast og ein hypnotiserande dataskjerm
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, programleiar for IRL-podkasten.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
