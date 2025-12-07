@@ -88,6 +88,13 @@ m24-home-got-an-earlystage = Har du ei oppstartsbedrift i tidleg fase? Presenter
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Doner stemma di for å gjere taleteknologi meir inkluderande og tilgjengeleg for alle.
 m24-home-donate-your-voice = Doner stemma di
+m24-home-our-transformation = Omforminga vår
+m24-home-how-do-legacy = Korleis kolliderer tradisjonelle verdiar med innovasjon? I denne samtalen gir Mark Surman eit lite innblikk i korleis vi omformar { -brand-name-mozilla } for AI-æraen.
+# Used as an accessible text alternative for an image
+m24-home-alt-transformation = Byt signal med Mark Surman og MBS
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Sky med rosa bakgrunn
+m24-home-any-agent = Alla agentar
 
 ## Media Springboard
 
@@ -103,8 +110,12 @@ m24-home-tag-video = Video
 m24-home-topic-news = Nyheiter
 m24-home-topic-products = Produkt
 m24-home-topic-ai = Kunstig intelligens
+m24-home-topic-open-source-ai = AI med open kjeldekode
 m24-home-topic-ps = Personvern og sikkerheit
 m24-home-headline-you-ai-v2 = Du, AI og internett – kva skjer eigentleg?
+m24-home-tech-target = Tech Target
+# Obsolete string (expires 2026-03-01)
+m24-home-introducing-thundermail-and = Introduksjon av Thundermail og Thunderbird Pro
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-fast-company = Fast Company
