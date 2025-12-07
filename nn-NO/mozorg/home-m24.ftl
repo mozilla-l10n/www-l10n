@@ -126,9 +126,11 @@ m24-home-how-ventures-investee = Korleis Ventures Investee Germ syrkar krypterin
 m24-home-tech-crunch = Tech Crunch
 m24-home-tech-crunch-v2 = TechCrunch
 m24-home-the-guardian = The Guardian
+m24-home-interview-take-open = Intervju: Å ta open kjeldekode inn i AI-æraen
 # Obsolete string (expires 2026-03-20)
 m24-home-mit-sloan-review = MIT Sloan Review
 m24-home-mit-sloan-management-review = MIT Sloan Management Review
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } finansierer Filament-nettverksplattforma
 m24-home-axios = Axios
 m24-home-fast-company = Fast Company
 m24-home-will-agi-be = Vil AGI bli ein realitet – og er vi klare?
