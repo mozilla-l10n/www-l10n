@@ -7,7 +7,7 @@
 
 features-add-ons-firefox-add-ons = Дополнения { -brand-name-firefox }
 features-add-ons-firefox-add-ons-and-browser-extensions = Дополнения и расширения браузера { -brand-name-firefox }
-features-add-ons-extensions-also-known-as-add-ons = Расширения, также известные как дополнения { -brand-name-firefox }, — это дополнительные функции, которые вы можете загрузить и установить, чтобы добавить больше функций и инструментов в ваш браузер. Дополнения позволяют вам настроить браузер { -brand-name-firefox } и улучшить возможности использования Интернета.
+features-add-ons-extensions-also-known-as-add-ons = Расширения, также известные как дополнения { -brand-name-firefox }, — это дополнительные функции, которые вы можете скачать и установить, чтобы добавить больше функций и инструментов в ваш браузер. Дополнения позволяют вам настроить браузер { -brand-name-firefox } и улучшить возможности использования Интернета.
 # Variables:
 #   $fbcontainer (url) - link to https://www.mozilla.org/firefox/facebookcontainer/
 #   $translate (url) - link to https://addons.mozilla.org/firefox/addon/firefox-translations/

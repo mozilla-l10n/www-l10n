@@ -120,7 +120,7 @@ m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } vezérigazgató a nyílt forráskódú MI előnyeiről beszél
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Bemutatkozik a Thundermail és a Thunderbird Pro
-m24-home-introducing-thundermail-and-v2 = Bemutatkozik: { -brand-name-thundermail } és { -brand-name-thunderbird-pro }
+m24-home-introducing-thundermail-and-v2 = Bemutatkozik a { -brand-name-thundermail } és a { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Ami ezután következik a technológiában, az egy választás. Válasszon velünk.
 m24-home-how-ventures-investee = Hogyan erősíti a titkosítást a Ventures Investee befektetése
 # Obsolete string (expires 2026-03-01)

@@ -10,7 +10,7 @@
 
 installer-help-page-title = Ваша загрузка прервалась
 installer-help-main-tagline = Такое иногда бывает. Давайте попробуем что-нибудь другое.
-installer-help-action-channel = Эта загрузка должна лучше для вас работать.
+installer-help-action-channel = Эта загрузка должна подойти вам лучше.
 installer-help-action-choose = Выберите загрузку ниже.
 
 ##
@@ -18,7 +18,7 @@ installer-help-action-choose = Выберите загрузку ниже.
 installer-help-firefox-release-title = { -brand-name-firefox-browser }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
-installer-help-firefox-release-desc-v2 = Загрузить последнюю версию. Приватность «из коробки» уже здесь. Загрузите { -brand-name-firefox }, чтобы заблокировать более { $trackers } трекеров.
+installer-help-firefox-release-desc-v2 = Скачать последнюю версию. Приватность «из коробки» уже здесь. Скачайте { -brand-name-firefox }, чтобы заблокировать более { $trackers } трекеров.
 installer-help-firefox-beta-title-v2 = { -brand-name-firefox } { -brand-name-beta }
 installer-help-firefox-beta-desc = Протестируйте близкие к релизу возможности в более стабильных предрелизных сборках.
 installer-help-firefox-developer-title-v2 = { -brand-name-firefox } { -brand-name-developer-edition }

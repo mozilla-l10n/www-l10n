@@ -3,13 +3,10 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-# Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
-firefox-new-download-firefox = Загрузить { -brand-name-firefox }
-firefox-new-download-the-fastest-firefox = Загрузите самый быстрый в истории { -brand-name-firefox }
+firefox-new-download-firefox = Скачать { -brand-name-firefox }
+firefox-new-download-the-fastest-firefox = Скачайте самый быстрый в истории { -brand-name-firefox }
 firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = Более быстрая загрузка страниц, уменьшенный расход памяти и множество функций — новый { -brand-name-firefox } уже здесь.
 firefox-new-get-the-latest-firefox = Загрузите последнюю версию браузера { -brand-name-firefox }.

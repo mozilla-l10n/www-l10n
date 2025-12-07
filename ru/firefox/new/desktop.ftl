@@ -10,10 +10,10 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = Скачайте { -brand-name-firefox-browser } — Быстрый, приватный и бесплатный — от { -brand-name-mozilla }
-firefox-desktop-download-meta-title-v2 = Загрузите { -brand-name-firefox } для компьютера с { -brand-name-mozilla }
+firefox-desktop-download-meta-title-v2 = Скачайте { -brand-name-firefox } для компьютера — от { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Получите { -brand-name-firefox } — бесплатный веб-браузер, поддерживаемый { -brand-name-mozilla }, некоммерческой организацией, занимающейся вопросами здоровья и приватности Интернета. Уже доступен на { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } и { -brand-name-ios }.
 firefox-desktop-download-meta-desc-v2 = Получите { -brand-name-firefox } для { -brand-name-windows }, { -brand-name-mac-short } или { -brand-name-linux }. { -brand-name-firefox } — бесплатный веб-браузер, поддерживаемый { -brand-name-mozilla }, некоммерческой организацией, занимающейся вопросами здоровья Интернета и конфиденциальностью.
-firefox-desktop-download-og-title = Загрузите самый быстрый в истории { -brand-name-firefox }
+firefox-desktop-download-og-title = Скачайте самый быстрый в истории { -brand-name-firefox }
 firefox-desktop-download-og-desc = Более быстрая загрузка страниц, уменьшенный расход памяти и множество функций — новый { -brand-name-firefox } уже здесь.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 # Variables:
@@ -92,7 +92,7 @@ firefox-desktop-download-all-your-favourite = Все ваши любимые и�
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-firefox-desktop-download-download-this-browser = <a { $attrs }>Загрузите это расширение</a>, чтобы запретить { -brand-name-facebook(case: "dative") } (и { -brand-name-instagram(case: "dative") }) следить за вами в Интернете.
+firefox-desktop-download-download-this-browser = <a { $attrs }>Скачайте это расширение</a>, чтобы запретить { -brand-name-facebook(case: "dative") } (и { -brand-name-instagram(case: "dative") }) следить за вами в Интернете.
 firefox-desktop-download-sync-your-devices = Синхронизируйте свои устройства
 firefox-desktop-download-screenshots = Снимки экрана
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
@@ -101,7 +101,7 @@ firefox-desktop-download-from-watching-a = От просмотра обучаю�
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Получить { -brand-name-firefox-browser } для <strong>{ -brand-name-android }</strong>
 firefox-desktop-download-get-firefox-ios = Получить { -brand-name-firefox-browser } для <strong>{ -brand-name-ios }</strong>
-firefox-desktop-download-download-the-mobile = Загрузите мобильный браузер { -brand-name-firefox } для автоматической защиты на всех ваших устройствах.
+firefox-desktop-download-download-the-mobile = Скачайте мобильный браузер { -brand-name-firefox } для автоматической защиты на всех ваших устройствах.
 firefox-desktop-download-learn-about-the = Узнайте больше о браузере { -brand-name-firefox } для компьютера ниже
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
@@ -132,11 +132,11 @@ firefox-desktop-download-almost-there = Почти готово!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = Теперь завершите <strong>установку</strong> { -brand-name-firefox }.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-now-windows = Теперь <strong>запустите</strong> только что загруженный установщик.
+firefox-desktop-download-now-windows = Теперь <strong>запустите</strong> только что скачанный установщик.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-now-mac = Теперь <strong>откройте</strong> только что загруженный файл.
+firefox-desktop-download-now-mac = Теперь <strong>откройте</strong> только что скачанный файл.
 # the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-select-linux = Выберите вариант <strong>загрузки</strong> ниже
+firefox-desktop-download-select-linux = Выберите вариант <strong>скачивания</strong> ниже
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Возникли проблемы? <a { $attrs }>Получите помощь по установке</a>.
@@ -149,7 +149,7 @@ firefox-desktop-download-visit-support-for-more = Посетите сайт по
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-desktop-download-your-firefox-new-should-begin = Загрузка начнётся автоматически. Она не началась? <a id="{ $id }" href="{ $fallback_url }">Попробуйте загрузить снова</a>.
+firefox-desktop-download-your-firefox-new-should-begin = Скачивание начнётся автоматически. Оно не началось? <a id="{ $id }" href="{ $fallback_url }">Попробуйте скачать снова.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } — это больше, чем просто браузер.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Ваша загрузка была прервана. Но ещё не всё потеряно.

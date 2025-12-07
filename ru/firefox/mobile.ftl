@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
-firefox-mobile-download-the-firefox-browser = Загрузите { -brand-name-firefox-browser } для { -brand-name-ios } и { -brand-name-android } на свой мобильный
+firefox-mobile-download-the-firefox-browser = Скачайте { -brand-name-firefox-browser } для { -brand-name-ios } и { -brand-name-android } на свой мобильный
 firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser(case: "nominative_uppercase") } для мобильных устройств блокирует более 2000 трекеров по умолчанию, предоставляя вам приватность, которую вы заслуживаете, и скорость, необходимую для приватного мобильного браузера.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
