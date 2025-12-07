@@ -5,11 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/download/
 
-vpn-download-page-title = Загрузить { -brand-name-mozilla-vpn }
-vpn-download-page-description = Загрузите { -brand-name-mozilla-vpn } для { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } и { -brand-name-ios }.
+vpn-download-page-title = Скачать { -brand-name-mozilla-vpn }
+vpn-download-page-description = Скачайте { -brand-name-mozilla-vpn } для { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android } и { -brand-name-ios }.
 # Variables:
 #   $devices (number) - maximum number of connected devices
-vpn-download-sub-heading = С одной подпиской вы можете загрузить { -brand-name-mozilla-vpn } на { $devices } устройств.
+vpn-download-sub-heading = С одной подпиской вы можете скачать { -brand-name-mozilla-vpn } на { $devices } устройств.
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } предлагает надежную и безопасную защиту для всех основных операционных систем.
 vpn-download-not-available-in-country = К сожалению, { -brand-name-mozilla-vpn } недоступен для загрузки в вашей стране.
 vpn-download-for-windows-v2 = VPN для { -brand-name-windows }

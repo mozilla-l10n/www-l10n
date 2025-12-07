@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/whatsnew/
 
-whatsnew-s2d-download-firefox-for-android = Загрузить { -brand-name-firefox } для { -brand-name-android } и { -brand-name-ios }
-whatsnew-s2d-download-firefox-for-your = Загрузите { -brand-name-firefox } для вашего смартфона или планшета.
+whatsnew-s2d-download-firefox-for-android = Скачайте { -brand-name-firefox } для { -brand-name-android } и { -brand-name-ios }
+whatsnew-s2d-download-firefox-for-your = Скачайте { -brand-name-firefox } для вашего смартфона или планшета.
 # An accessible label for a QR code image
 whatsnew-s2d-qr-code-alt = Просканируйте этот QR-код

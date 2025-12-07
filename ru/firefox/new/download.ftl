@@ -11,12 +11,12 @@ firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = Более быстрая загрузка страниц, уменьшенный расход памяти и множество функций — новый { -brand-name-firefox } уже здесь.
 firefox-new-get-the-latest-firefox = Загрузите последнюю версию браузера { -brand-name-firefox }.
 # span's below are for visual formatting and line break.
-firefox-new-download-firefox-for-windows = Загрузить { -brand-name-firefox } <br>для { -brand-name-windows }
-firefox-new-download-firefox-for-macos = Загрузить { -brand-name-firefox } <br>для { -brand-name-mac }
-firefox-new-download-firefox-for-linux = Загрузить { -brand-name-firefox } <br>для { -brand-name-linux }
+firefox-new-download-firefox-for-windows = Скачать { -brand-name-firefox } <br>для { -brand-name-windows }
+firefox-new-download-firefox-for-macos = Скачать { -brand-name-firefox } <br>для { -brand-name-mac }
+firefox-new-download-firefox-for-linux = Скачать { -brand-name-firefox } <br>для { -brand-name-linux }
 firefox-new-free-web-browser = Бесплатный веб-браузер
 firefox-new-advanced-install-options = Расширенные возможности установки и другие платформы
-firefox-new-download-in-another-language = Загрузить на другом языке
+firefox-new-download-in-another-language = Скачать на другом языке
 firefox-new-need-help = Нужна помощь?
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
@@ -45,8 +45,8 @@ firefox-new-visit-support-for-more = Посетите сайт поддержк�
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
-firefox-new-download-browser = Загрузить { -brand-name-firefox-browser }
+firefox-new-download-browser = Скачать { -brand-name-firefox-browser }
 firefox-new-fast = Быстрый, приватный и бесплатный
 firefox-new-from-mozilla = от { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } — это бесплатный веб-браузер с быстрой загрузкой страниц, уменьшенным расходом памяти и множеством функций, проект некоммерческой организации { -brand-name-mozilla }.
-firefox-new-download-a-different = Загрузить для других платформ и языков
+firefox-new-download-a-different = Скачать для других платформ и языков

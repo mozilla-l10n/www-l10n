@@ -20,7 +20,7 @@ switch-switch-to-firefox = Перейти на { -brand-name-firefox }
 switch-firefox-makes-switching-fast-email = { -brand-name-firefox } делает переход с { -brand-name-chrome } действительно быстрым. Мне он очень нравится, и его стоит попробовать.
 switch-still-not-convinced = Всё ещё не верите, что перейти на { -brand-name-firefox } просто?
 switch-enjoy-the-web-faster = Наслаждайтесь быстрым Интернетом, для этого всё готово.
-switch-download-and-switch = Загрузить и перейти
+switch-download-and-switch = Скачать и перейти
 switch-share-to-facebook = Поделиться на Фейсбуке
 switch-share-to-facebook-updated = Поделиться в { -brand-name-facebook(case: "prepositional") }
 # Note: Bluesky is a brand name and should not be translated

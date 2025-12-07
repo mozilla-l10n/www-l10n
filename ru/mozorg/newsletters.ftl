@@ -130,7 +130,7 @@ newsletters-back-to-email-preferences = Вернуться к настройка
 newsletters-here-are-a-few-things = Вот несколько вещей, на которые стоит обратить внимание, пока вы ждёте следующего письма.
 newsletters-take-your-privacy = Возьмите свою приватность с собой
 newsletters-travel-the-internet = Путешествуйте по Интернету с защитой на всех ваших устройствах.
-newsletters-download-the-app = Загрузить приложение
+newsletters-download-the-app = Скачать приложение
 newsletters-check-for-data-breaches = Проверьтесь на утечки данных
 newsletters-mozilla-monitor-is-a-free = { -brand-name-mozilla-monitor } — это бесплатная служба, которая позволяет вам узнать, не были ли вы затронуты утечками данных в Интернете.
 newsletters-sign-in-to-monitor = Войти в { -brand-name-monitor }
@@ -197,13 +197,13 @@ newsletters-beta-news = Новости о { -brand-name-beta }
 # Description for the newsletter in Newsletter subscription page (Beta News)
 newsletters-read-about-the-latest-features = Читайте о новых возможностях браузера { -brand-name-firefox } до финального релиза.
 # Name for the newsletter in Newsletter subscription page
-newsletters-download-firefox-for-android = Загрузить { -brand-name-firefox } для { -brand-name-android }
+newsletters-download-firefox-for-android = Скачать { -brand-name-firefox } для { -brand-name-android }
 # Name for the newsletter in Newsletter subscription page
 newsletters-get-firefox-for-android = Загрузить { -brand-name-firefox } для { -brand-name-android }
 # Name for the newsletter in Newsletter subscription page
-newsletters-download-firefox-for-ios = Загрузить { -brand-name-firefox } для { -brand-name-ios }
+newsletters-download-firefox-for-ios = Скачать { -brand-name-firefox } для { -brand-name-ios }
 # Name for the newsletter in Newsletter subscription page
-newsletters-download-firefox-for-mobile = Загрузите { -brand-name-firefox } для мобильных устройств
+newsletters-download-firefox-for-mobile = Скачайте { -brand-name-firefox } для мобильных устройств
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-accounts-tips = Советы по { -brand-name-firefox-accounts(case: "dative") }
 # Description for the newsletter in Newsletter subscription page (Firefox Account Tips)

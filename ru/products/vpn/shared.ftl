@@ -53,8 +53,8 @@ vpn-shared-platform-what-is = Что такое { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Почему { -brand-name-mozilla-vpn }?
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
-vpn-subnav-learn-about-vpns = Узнать больше о VPNs
-vpn-subnav-download-mozilla-vpn = Загрузить { -brand-name-mozilla-vpn }
+vpn-subnav-learn-about-vpns = Узнать больше о VPN
+vpn-subnav-download-mozilla-vpn = Скачать { -brand-name-mozilla-vpn }
 vpn-subnav-features = Возможности
 
 ## Press quotations

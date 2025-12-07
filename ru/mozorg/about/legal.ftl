@@ -17,7 +17,7 @@ legal-firefox-services = Службы { -brand-name-firefox }
 legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = Приватность и товарные знаки
 legal-privacy-notices-and-policy = Уведомления и политика конфиденциальности
-legal-downloadable-software-notices = Загружаемые уведомления о программах
+legal-downloadable-software-notices = Скачиваемые уведомления о программах
 # heading for the table of contents, a shorter heading is better
 legal-firefox-contents = Содержимое
 legal-firefox = { -brand-name-firefox }
