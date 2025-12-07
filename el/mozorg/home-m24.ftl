@@ -106,6 +106,7 @@ m24-home-tag-video = Βίντεο
 m24-home-topic-news = Ειδήσεις
 m24-home-topic-products = Προϊόντα
 m24-home-topic-ai = Τεχνητή νοημοσύνη
+m24-home-topic-open-source-ai = ΤΝ ανοικτού κώδικα
 m24-home-topic-ps = Απόρρητο και ασφάλεια
 m24-home-headline-you-ai-v2 = Εσείς, η τεχνητή νοημοσύνη και το διαδίκτυο· τι πραγματικά συμβαίνει;
 m24-home-tech-target = Tech Target
@@ -117,6 +118,7 @@ m24-home-axios = Axios
 m24-home-fast-company = Fast Company
 m24-home-tech-policy-press = Tech Policy Press
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = Το { -brand-name-mozilla-ai-v2 } χαράζει νέα πορεία με μια στροφή προς την κερδοφορία
 m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
@@ -139,6 +141,8 @@ m24-home-read-the-report = Διαβάστε την αναφορά
 ## Data Collective
 
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-create-curate-control = Δημιουργία. Επιμέλεια. Έλεγχος.
+m24-home-join-mozilla-data = Συμμετοχή στο { -brand-name-mozilla } Data Collective
 
 ## Issues
 
