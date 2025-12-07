@@ -132,9 +132,12 @@ m24-home-mit-sloan-review = MIT Sloan Review
 m24-home-mit-sloan-management-review = MIT Sloan Management Review
 m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } finansierer Filament-nettverksplattforma
 m24-home-axios = Axios
+m24-home-mozillas-new-message = Den nye meldinga frå { -brand-name-mozilla }: Vi er den einaste nettlesaren som ikkje er støtta av milliardærar
 m24-home-fast-company = Fast Company
 m24-home-will-agi-be = Vil AGI bli ein realitet – og er vi klare?
+m24-home-conversation-charting-a = Samtale: Å kartleggje ei framtid for tilgang og handlefridom
 m24-home-tech-policy-press = Tech Policy Press
+m24-home-open-by-design = Open By Design: Korleis nasjonar kan konkurrere i AI-alderen
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-silicon-angle = Silicon Angle
 
