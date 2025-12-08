@@ -29,6 +29,8 @@ newsletter-form-available-languages = Забонҳои дастрас
 newsletter-form-select-country = Интихоби кишвар
 newsletter-form-sign-me-up = Маро сабти ном кунед
 newsletter-form-sign-up-now = Ҳозир сабти ном шавед
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Ирсолкунӣ
 newsletter-form-thanks = Ташаккур!
 newsletter-form-leave-this-field-empty = Ин майдонро холӣ гузоред.
 newsletter-form-yes = Ҳа

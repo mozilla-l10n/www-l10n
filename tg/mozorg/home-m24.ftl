@@ -127,3 +127,7 @@ m24-home-alt-irl-host = Бридҷет Тодд, барандаи подкаст
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Подкасти серҷоизаи мо шахсонеро муаррифӣ мекунад, ки барои бехатар кардани Интернет ва сохтани зеҳни сунъии (AI) боэътимод  фаъолият доранд.
 m24-home-irl-listen-now = Ҳозир гӯш кунед
+
+## Outside the Fox
+
+m24-home-fox-listen-now = Ҳозир гӯш кунед
