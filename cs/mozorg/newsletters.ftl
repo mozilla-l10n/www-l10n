@@ -45,6 +45,7 @@ newsletters-not-all-subscriptions-are = Ne všechny odběry jsou k dispozici ve 
 newsletters-please-select-country = Vyberte prosím zemi nebo oblast
 # Form field error message
 newsletters-please-select-language = Vyberte prosím jazyk
+newsletters-it-may-take = Může trvat až hodinu, než se informace o nově připlacených kanálech projeví na této stránce.
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data

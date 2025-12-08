@@ -45,6 +45,7 @@ newsletters-not-all-subscriptions-are = 並非所有電子報都提供列出的�
 newsletters-please-select-country = 請選擇國家或地區
 # Form field error message
 newsletters-please-select-language = 請選擇語言
+newsletters-it-may-take = 新訂閱的資訊可能要過一小時才會顯示在此頁面。
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data

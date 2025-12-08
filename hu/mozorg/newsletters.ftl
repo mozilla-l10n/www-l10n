@@ -45,6 +45,7 @@ newsletters-not-all-subscriptions-are = Nem minden feliratkozás támogatott az 
 newsletters-please-select-country = Válasszon országot vagy régiót
 # Form field error message
 newsletters-please-select-language = Válasszon egy nyelvet
+newsletters-it-may-take = Akár egy órába is beletelhet, amíg az újonnan feliratkozott információk megjelennek ezen az oldalon.
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data

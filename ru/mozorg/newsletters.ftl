@@ -45,6 +45,7 @@ newsletters-not-all-subscriptions-are = Не все подписки подде�
 newsletters-please-select-country = Пожалуйста, выберите страну или регион
 # Form field error message
 newsletters-please-select-language = Пожалуйста, выберите язык
+newsletters-it-may-take = Новоподписанная информация отобразится на этой странице в течение часа.
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
