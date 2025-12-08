@@ -28,7 +28,7 @@ privacy-firefox-manage-your-privacy = 管理您的隱私相關設定：
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } 桌面版
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } 行動版
 # heading for the table of contents, a shorter heading is better
-privacy-firefox-contents = 內容
+privacy-firefox-contents = 目錄
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-take-me-back = 帶我<a { $attrs }>回到隱私權公告的頂端</a>

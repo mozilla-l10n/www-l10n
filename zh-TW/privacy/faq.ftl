@@ -17,7 +17,7 @@ privacy-faq-we-follow-a-set-of-data-privacy = 我們遵循<a href="{ $link }">�
 privacy-faq-we-only-collect-the-data-we = 我們只收集用來打造最佳產品時，所必需的資料。
 privacy-faq-we-put-people-in-control-of = 我們讓人們自行控制他們的資料和上網體驗。
 privacy-faq-we-adhere-to-no-surprises-principle-v2 = 我們堅守「不出乎意料」原則，致力讓使用者所瞭解的 { -brand-name-firefox } 與實際行為相同。
-privacy-faq-the-following-questions-and = 下面的常見問題可協助您了解對 { -brand-name-mozilla } 和 { -brand-name-firefox } 能有什麼期待:
+privacy-faq-the-following-questions-and = 下面的常見問題可協助您了解對 { -brand-name-mozilla } 和 { -brand-name-firefox } 能有什麼期待：
 privacy-faq-i-use-firefox-for-almost-everything = 我的主力瀏覽器是 { -brand-name-firefox }，幾乎用它上網做任何事。你們這群 { -brand-name-mozilla } 的人一定都知道我在做什麼了，對吧？
 privacy-faq-firefox-the-web-browser-that-v2 = 您的手機或電腦上的 { -brand-name-firefox } 網頁瀏覽器，是您上網的入口。您的瀏覽器會管理您造訪過網站的許多資訊，但該資訊一般來說都會保留在您的裝置上。至於打造 { -brand-name-firefox } 的公司：{ -brand-name-mozilla }，並不會主動收集您的資料（除非您要求我們這樣做）。
 privacy-faq-really-you-dont-collect-my-browsing = 你們不會收集我的上網紀錄嗎？真的？
