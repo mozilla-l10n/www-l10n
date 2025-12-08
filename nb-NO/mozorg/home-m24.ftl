@@ -89,9 +89,13 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Bidra med din stemme for å gjøre taleteknologi mer inkluderende og tilgjengelig for alle.
 m24-home-donate-your-voice = Bidra med din stemme
 m24-home-our-transformation = Vår forvandling
+m24-home-how-do-legacy = Hvordan kolliderer tradisjonelle verdier med innovasjon? I denne samtalen gir Mark Surman et lite innblikk på hvordan vi forvandler { -brand-name-mozilla } for AI-tidsalderen.
+# Used as an accessible text alternative for an image
+m24-home-alt-transformation = Endre signal med Mark Surman og MBS
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = Sky med rosa bakgrunn
 m24-home-any-agent = Enhver agent
+m24-home-stop-wiring-tools = Slutt å koble sammen verktøy og passe på skjøre automatiseringer. Med { -brand-name-mozilla-ai-v2 } Agent Platform beskriver du målet ditt, og vi genererer adaptive AI-agenter som fungerer med verktøyene og prosessene dine.
 
 ## Media Springboard
 
