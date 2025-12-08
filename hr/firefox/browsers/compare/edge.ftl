@@ -9,3 +9,4 @@
 compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } / Microsoft Edge usporedba
 # HTML page description
 compare-edge-read-our-comparison = Pročitaj našu usporedbu { -brand-name-firefox } i Edge preglednika po pitanju funkcija, privatnosti i jednostavnosti upotrebe.
+compare-edge-we-block-trackers-by-default = Mi blokiramo programe za praćenje prema standardnim postavkama. Edge to ne čini.

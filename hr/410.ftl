@@ -7,3 +7,6 @@
 
 page-gone-title = Ova je stranica uklonjena
 gone-page-go-back = Idi natrag
+# Variables:
+#   $support (attr) - attributes to be added to the <a> tag - href="https://support.mozilla.org/"
+gone-page-visit-support = Posjeti <a { $support }>{ -brand-name-mozilla } podršku</a>.

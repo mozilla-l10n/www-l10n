@@ -44,6 +44,7 @@ is-firefox-safe = Je li je { -brand-name-firefox } siguran?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
+is-firefox-chromium = Temelji li se { -brand-name-firefox } na { -brand-name-chromium }?
 does-firefox-use = Je li { -brand-name-firefox } koristi { -brand-name-google }?
 
 # Variables:

@@ -10,6 +10,7 @@ what-is-a-browser-what-is-a-web = Što je web preglednik?
 # HTML page description
 what-is-a-browser-a-web-browser = Web preglednik te vodi kroz internet te omogućuje da vidiš tekstove, slike i videa s bilo kojeg mjesta na svijetu.
 what-is-a-browser-how-does-a-web = Kako funkcionira web preglednik?
+what-is-a-browser-cookies-not-the = Kolačići (ne oni ukusni)
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
 what-is-a-browser-websites-save = Web stranice spremaju podatke o tebi u datoteke koje se nazivaju <a href="{ $cookies }">kolačići</a>. Ti se kolačići spremaju na tvoje računalo za sljedeći put kada posjetiš tu stranicu. Pri tome će kod web stranice pročitati tu datoteku kako bi vidio da si to ti. Na primjer, kada posjetiš web stranicu stranica pamti tvoje korisničko ime i lozinku – to omogućuju kolačići.
