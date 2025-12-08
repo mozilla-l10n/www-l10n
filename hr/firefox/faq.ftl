@@ -45,11 +45,13 @@ is-firefox-safe = Je li je { -brand-name-firefox } siguran?
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
 is-firefox-chromium = Temelji li se { -brand-name-firefox } na { -brand-name-chromium }?
+firefox-is-not = { -brand-name-firefox } se ne temelji na projektu { -brand-name-chromium } (projektu preglednika otvorenog koda koji se nalazi u srži preglednika { -brand-name-google } { -brand-name-chrome }). Zapravo, mi smo jedan od zadnjih velikih preglednika koji se ne temelje na njemu. { -brand-name-firefox } pokreće naš pogon za preglednike Quantum koji je izgrađen posebno za { -brand-name-firefox } kako bismo osigurali da se tvojim podacima barata s poštovanjem i da se zadrže privatnima.
 does-firefox-use = Je li { -brand-name-firefox } koristi { -brand-name-google }?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = { -brand-name-google } je standardna tražilica u pregledniku { -brand-name-firefox }, što znači da možeš pretraživati web izravno iz adresne trake. <a href="{ $url }">Saznaj više o postavkama tražilica i mijenjanju standardnih postavki.</a>
 does-firefox-have = Sadrži li { -brand-name-firefox } ugrađenu VPN mrežu?
 who-owns-firefox = Tko je vlasnik preglednika { -brand-name-firefox }?
 
