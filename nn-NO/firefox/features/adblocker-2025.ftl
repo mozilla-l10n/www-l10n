@@ -34,7 +34,7 @@ features-adblocker-tool-2 = <strong>Streng modus:</strong> Ideell for brukarar s
 features-adblocker-tool-3 = <strong>Tilpassa modus:</strong> For dei som ønskjer full kontroll, lèt tilpassa modus deg velje kva som skal blokkerast, frå infokapslar til sporarar, og meir.
 features-adblocker-to-adjust = For å justere desse innstillingane, klikk på skjoldikonet til venstre for adressefeltet på kva nettside som helst og vel «Verneinnstillingar». Dette opnar ein meny der du kan velje rett vernenivå for deg.
 features-adblocker-why-use = Kvifor bruke ein annonseblokkerar?
-features-adblocker-ad-blockers-do-more = Annonseblokkeringar gjer meir enn å berre behandle annonsar – dei kan forbetre nettlesarfarta og sikkerheita di ved å redusere unødvendig innhald. Dei gir deg høve til å skape ei skreddarsydd, distraksjonsfri nettoppleving, slik at du kan fokusere på det som betyr mest.
+features-adblocker-ad-blockers-do-more = Annonseblokkeringar gjer meir enn å berre handsame annonsar – dei kan forbetre nettlesarfarta og sikkerheita di ved å redusere unødvendig innhald. Dei gir deg høve til å skape ei skreddarsydd, distraksjonsfri nettoppleving, slik at du kan fokusere på det som betyr mest.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
 features-adblocker-explore-hundreds = Utforsk hundrevis av personvernfokuserte tillegg tilgjengeleg for { -brand-name-firefox } og finn dei rette verktøya for deg. <a href="{ $url }">Last ned { -brand-name-firefox } </a> i dag for å oppleve ein nettlesar designa med personvernet ditt, og ytinga di, i tankane.
