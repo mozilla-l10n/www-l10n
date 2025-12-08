@@ -88,6 +88,7 @@ m24-home-got-an-earlystage = Har du en oppstartsbedrift i tidlig fase? Presenter
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Bidra med din stemme for å gjøre taleteknologi mer inkluderende og tilgjengelig for alle.
 m24-home-donate-your-voice = Bidra med din stemme
+m24-home-our-transformation = Vår forvandling
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = Sky med rosa bakgrunn
 m24-home-any-agent = Enhver agent
