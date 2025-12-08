@@ -88,15 +88,20 @@ m24-home-donate-your-voice = Овози худро пешкаш кунед
 m24-home-type = Навъ
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Муаллиф
+m24-home-author-v2 = Муаллиф(он)
 m24-home-topic = Мавзуъ
 m24-home-intro = Муқаддима
 m24-home-tag-article = Мақола
 m24-home-tag-podcast = Подкаст
 m24-home-tag-video = Видео
 m24-home-topic-news = Хабарҳо
+m24-home-topic-products = Маҳсулот
 m24-home-topic-ai = Зеҳни сунъӣ
+m24-home-topic-open-source-ai = Зеҳни сунъӣ (AI) бо манбаи кушод
 m24-home-topic-ps = Махфият ва амният
 m24-home-headline-you-ai-v2 = Шумо, зеҳни сунъӣ (AI) ва Интернет - воқеан чӣ рӯй дода истодааст?
+m24-home-tech-target = Ҳадафи техникӣ
+m24-home-mozilla = { -brand-name-mozilla }
 
 ## Showcase
 

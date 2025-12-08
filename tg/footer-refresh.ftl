@@ -4,6 +4,9 @@
 
 footer-refresh-discover-mozilla-products = Дар бораи маҳсулот ва ташаббусҳои «{ -brand-name-mozilla }»маълумот гиред. Мо ваъда медиҳем, ки нишонии почтаи электронии шуморо ба таври махфӣ ва бехатар нигоҳ медорем - онро мубодила намекунем ё намефурӯшем, танҳо барои навигариҳои ҷолиб истифода мебарем.
 footer-refresh-leadership = Роҳнамоӣ
+footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-ads = Маълумоти бештар <span>дар бораи «{ footer-refresh-mozilla-ads }»</span>
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Маълумоти бештар <span>дар бораи рекламаи «{ -brand-name-mozilla }»</span>
 footer-refresh-firefox-release-notes = Қайдҳои нашри «{ -brand-name-firefox }»
