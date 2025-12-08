@@ -15,7 +15,7 @@ footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly }（{ -brand-name-android } 版）
 footer-beta-for-android = { -brand-name-beta }（{ -brand-name-android } 版）
 footer-visit-mozilla-corporations = 欢迎访问 <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> 的非营利母公司 — <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>。
-footer-portions-of-this-content = 上述内容中的某些部分系 mozilla.org 志愿者个人版权所有（©1998–{ $current_year }）。内容可按<a rel="license" href="{ $url }">{ -brand-name-creative-commons }许可协议</a>使用。
+footer-portions-of-this-content = 此内容中的某些部分系 mozilla.org 志愿者个人版权所有（©1998–{ $current_year }）。内容可按<a rel="license" href="{ $url }">{ -brand-name-creative-commons }许可协议</a>使用。
 footer-mozilla = { -brand-name-mozilla }
 footer-company = 公司
 footer-press-center = 新闻中心
