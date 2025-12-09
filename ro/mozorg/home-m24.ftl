@@ -137,7 +137,12 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = Noul mesaj { -brand-name-mozilla }: Suntem singurul browser care nu este susținut de miliardari
 m24-home-fast-company = Fast Company
 m24-home-will-agi-be = Va deveni AGI realitate — și suntem pregătiți?
+m24-home-conversation-charting-a = Conversație: Trasarea unui viitor pentru acces și reprezentare
+m24-home-tech-policy-press = Tech Policy Press
+m24-home-open-by-design = Cu design deschis: Cum pot națiunile să concureze în era AI
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } trasează o nouă direcție către profitabilitate
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -158,12 +163,20 @@ m24-home-read-the-report = Citește raportul
 
 ## Data Collective
 
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-create-curate-control = Creează. Organizează. Controlează.
 # Obsolete string (expires 2026-03-20)
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective reconstruiește ecosistemul de date bazat pe IA, cu focalizare pe comunități. Accesează peste 300 de seturi de date globale de înaltă calitate, construite de și pentru  comunitate într-un mod transparent și etic.
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective reconstruiește ecosistemul de date bazat pe AI, cu focalizare pe comunități. Accesează peste 300 de seturi de date globale de înaltă calitate, construite de și pentru  comunitate în mod transparent și etic.
+m24-home-join-mozilla-data = Alătură-te { -brand-name-mozilla } Data Collective
 
 ## Issues
 
+m24-home-explore-issues-shaping = Explorează aspectele care modelează viitorul internetului
+m24-home-the-validation-machines = Mașini de validare
+m24-home-in-the-atlantic = În The Atlantic, Raffi Krikorian, directorul tehnic { -brand-name-mozilla }, întreabă de ce chatboții și AI generativă vor atât de mult să ne facă pe plac și ce înseamnă asta pentru umanitate. (imagine prin amabilitatea The Atlantic)
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = O persoană în miniatură care se uită la o tastă mare și la un ecran hipnotizant de calculator
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, gazda podcastului IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
@@ -172,4 +185,6 @@ m24-home-irl-listen-now = Ascultă acum
 
 ## Outside the Fox
 
+m24-home-outside-the-fox = Outside the Fox
+m24-home-this-is-where = Aici explorăm ce se întâmplă online și de ce este important, de la de ce conținuturile generate de algoritmi predomină internetul până la cultura virală a internetului.
 m24-home-fox-listen-now = Ascultă acum
