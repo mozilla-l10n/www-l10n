@@ -72,7 +72,7 @@ related-questions-ip = Aiheeseen liittyviä kysymyksiä: piilottaako { -brand-na
 who-owns-firefox = Kuka omistaa { -brand-name-firefox }in?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } on { -brand-name-mozilla-corporation }in valmistama, voittoa tavoittelemattoman <a href="{ $url }">{ -brand-name-mozilla-foundation }in kokonaan omistama tytäryhtiö,</a> ja sitä ohjaavat { -brand-name-mozilla }-manifestin periaatteet. Lue lisää { -brand-name-firefox }in valmistajasta <a href="{ $url2 }">täältä.</a>

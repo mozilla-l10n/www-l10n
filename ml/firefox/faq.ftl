@@ -47,6 +47,6 @@ is-firefox-chromium = { -brand-name-firefox } { -brand-name-chromium }-ൽ അ�
 
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 

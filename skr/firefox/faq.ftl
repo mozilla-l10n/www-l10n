@@ -70,7 +70,7 @@ related-questions-ip = متعلقہ سوالات: بھلا { -brand-name-firefox
 who-owns-firefox = { -brand-name-firefox } دا مالک کوݨ ہے؟
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } کوں { -brand-name-mozilla-corporation } بݨایا ہے، جیڑھا غیر منافع بخش <a href="{ $url }"> { -brand-name-mozilla-foundation } </a> مکمل ملکیتی ذیلی کمپنی ہے تے{ -brand-name-mozilla } مینی فیسٹو دے اصولاں نال رہنمائی کریندا ہے۔ { -brand-name-firefox } دے بݨاوݨ والے دے بارے وِچ ودھیک ڄاݨو <a href="{ $url2 }">اتھاں۔</a>

@@ -41,7 +41,7 @@ misinformation-social-media-clean-heading = Το { -brand-name-firefox } δια�
 misinformation-social-media-clean-desc = Τα κοινωνικά δίκτυα γνωρίζουν πολλά για εσάς. Επιπλέον, είναι σε θέση να σας καταγράφουν πέρα από τις πλατφόρμες τους με τα κουμπιά "Κοινοποίηση" και "Μου αρέσει" κατά τη χρήση της Προστασίας από καταγραφή — ακόμη κι αν δεν έχετε λογαριασμό. Το <a href="{ $container }">{ -brand-name-facebook-container }</a> για { -brand-name-firefox } εξασφαλίζει ότι το { -brand-name-facebook } και το { -brand-name-instagram } δεν θα μπορούν εύκολα να σας καταγράψουν, γεγονός που μειώνει σημαντικά την πιθανότητα εμφάνισης παραπληροφόρησης μέσω διαφημίσεων και προωθητικών ενεργειών.
 misinformation-why-trust-firefox = Γιατί να εμπιστευτείτε το { -brand-name-firefox };
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = Επειδή προτεραιότητα έχει ο άνθρωπος. Στην πραγματικότητα, μας υποστηρίζει ένας <a href="{ $foundation }">μη κερδοσκοπικός οργανισμός</a>. Από την πρώτη μέρα, αποστολή μας είναι η προστασία του διαδικτύου και όλων των χρηστών του.
 misinformation-learn-more-about-our-mission = Μάθετε περισσότερα σχετικά με την αποστολή μας
 misinformation-your-privacy-by-the-product = Το απόρρητό σας σε κάθε προϊόν

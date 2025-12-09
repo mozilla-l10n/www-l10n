@@ -41,7 +41,7 @@ misinformation-social-media-clean-heading = O { -brand-name-firefox } ajuda a ma
 misinformation-social-media-clean-desc = As redes sociais têm um vasto conhecimento sobre si. Além disso, conseguem rastrear para além das respetivas plataformas através dos botões Partilhar e Gostar, mesmo com a Proteção contra o rastreamento — e isto acontece mesmo que não tenha uma conta. O <a href="{ $container }">{ -brand-name-facebook-container }</a> para { -brand-name-firefox } assegura que tanto o { -brand-name-facebook } como o { -brand-name-instagram } não consigam fazer isto tão facilmente o que, por sua vez, diminui consideravelmente a probabilidade de ser exposto a desinformação através de anúncios e de conteúdo promocional.
 misinformation-why-trust-firefox = Porquê confiar no { -brand-name-firefox }?
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = Porque colocamos as pessoas em primeiro lugar. De facto, somos apoiados por uma <a href="{ $foundation }">entidade sem fins lucrativos</a>. Desde o primeiro dia, a nossa missão é proteger a Internet e todos os que dela fazem parte.
 misinformation-learn-more-about-our-mission = Saber mais sobre a nossa missão
 misinformation-your-privacy-by-the-product = A sua privacidade, pelo produto

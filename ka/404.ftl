@@ -16,7 +16,7 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">გაიც�
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>ჩამოტვირთეთ</a> { -brand-name-firefox }-ბრაუზერი მობილურ მოწყობილობაზე ან კომპიუტერზე
 # Variables:
-#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+#   $donate (url) - link to https://www.mozillafoundation.org/?form=donate-404
 # Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>გაიღეთ</a> თანხა და { -brand-name-mozilla-foundation } იზრუნებს, კვლავ ხალხის ხელში აღმოჩნდეს ინტერნეტის მართვის სადავეები, ნაცვლად ტექგიგანტებისა.
 not-found-page-donate-to-mozilla-reclaim-from-v2 = <a { $donate }>შეეწიეთ</a> { -brand-name-mozilla-foundation }-ს და დაიბრუნეთ ინტერნეტი ტექგიგანტებისგან.

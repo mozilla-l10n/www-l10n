@@ -72,7 +72,7 @@ related-questions-ip = Liknande spåørsmål: gøymer { -brand-name-firefox } IP
 who-owns-firefox = Kven eig { -brand-name-firefox }?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } er laga av { -brand-name-mozilla-corporation }, eit heileigd dotterselskap til den ideelle organisasjonen <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> og er styrt av prinsippa i { -brand-name-mozilla }-manifestet. Les meir om dei som lagar { -brand-name-firefox } <a href="{ $url2 }">her</a>.

@@ -72,7 +72,7 @@ related-questions-ip = Întrebări similare: { -brand-name-firefox } îți ascun
 who-owns-firefox = Cine deține { -brand-name-firefox }?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } este creat de { -brand-name-mozilla-corporation }, o filială deținută integral de organizația non-profit <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> și este ghidat de principiile Manifestului { -brand-name-mozilla }. Află mai multe despre creatorul { -brand-name-firefox } <a href="{ $url2 }">aici.</a>

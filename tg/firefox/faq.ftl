@@ -60,7 +60,7 @@ related-questions-ip = Саволҳои марбут: оё браузери «{ 
 who-owns-firefox = Соҳиби «{ -brand-name-firefox }» кӣ мебошад?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 related-questions-who = Саволҳои марбут: Дорандаи браузери «{ -brand-name-firefox }» кӣ мебшад? Дорандаи { -brand-name-firefox-browser } кӣ мебошад? Оё дорандаи браузери «{ -brand-name-firefox }» ширкати «{ -brand-name-google }» мебошад? Оё дорандаи «{ -brand-name-mozilla } { -brand-name-firefox }» ширкати «{ -brand-name-google }» мебошад?

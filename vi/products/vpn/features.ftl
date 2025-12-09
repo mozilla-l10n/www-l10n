@@ -64,7 +64,7 @@ vpn-features-reviewed-by-third = Được đánh giá bởi các chuyên gia b�
 vpn-features-weve-been-audited = Chúng tôi đã được kiểm toán bởi Cure53, một công ty kiểm toán an ninh mạng hàng đầu. <a { $report }>Xem báo cáo tại đây</a>.
 vpn-features-people-over-profits = Mọi người trên lợi nhuận
 # Variables
-#   $mofo (url) - link to https://foundation.mozilla.org/
+#   $mofo (url) - link to https://www.mozillafoundation.org/
 # Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = Chúng tôi được hỗ trợ bởi <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, một cuộc đấu tranh phi lợi nhuận nhằm giữ cho trang web luôn mở và lành mạnh cho tất cả mọi người.
 vpn-features-were-backed-by-mofo-v2 = Chúng tôi được hỗ trợ bởi <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, một cuộc đấu tranh phi lợi nhuận nhằm giữ cho trang web luôn mở và lành mạnh cho tất cả mọi người.

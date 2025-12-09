@@ -16,6 +16,6 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">เรีย�
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>ดาวน์โหลด</a>เบราว์เซอร์ { -brand-name-firefox } สำหรับอุปกรณ์มือถือหรือเดสก์ท็อปของคุณ
 # Variables:
-#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+#   $donate (url) - link to https://www.mozillafoundation.org/?form=donate-404
 # Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>บริจาค</a>ให้กับ { -brand-name-mozilla-foundation } และร่วมทวงคืนอินเทอร์เน็ตจากบริษัทเทคโนโลยียักษ์ใหญ่

@@ -22,7 +22,7 @@ misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } ਟੋ�
 misinformation-social-media-clean-heading = { -brand-name-firefox } ਤੁਹਾਡੀ ਸ਼ੋਸ਼ਲ ਮੀਡੀਆ ਫ਼ੀਡ ਨੂੰ ਸਪਸ਼ਟ ਰੱਖਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ:
 misinformation-why-trust-firefox = { -brand-name-firefox } ਉੱਤੇ ਭਰੋਸਾ ਕਿਓਂ ਕਰੀਏ?
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = ਕਿਉਂਕਿ ਅਸੀਂ ਲੋਕਾਂ ਨੂੰ ਤਰਜੀਹ ਦਿੰਦੇ ਹਾਂ। ਅਸਲ ਗੱਲ ਇਹ ਹੈ ਕਿ ਅਸੀਂ ਪਿੱਠ ਉੱਤੇ <a href="{ $foundation }">ਗ਼ੈਰ-ਫ਼ਾਇਦਾ ਸੰਗਠਨ</a> ਖੜ੍ਹਾ ਹੈ। ਪਹਿਲੇ ਦਿਨੋਂ ਹੀ ਸਾਡਾ ਮਕਸਦ ਇੰਟਰਨੈੱਟ ਅਤੇ ਇਸ ਉੱਤੇ ਮੌਜੂਦ ਸਭ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣਾ ਹੈ।
 misinformation-learn-more-about-our-mission = ਸਾਡੇ ਮਕਸਦ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 misinformation-your-privacy-by-the-product = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ, ਉਤਪਾਦ ਰਾਹੀਂ

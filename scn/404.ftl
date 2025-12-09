@@ -16,6 +16,6 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Cchiù nfurmaz
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Scàrricati</a> u navicaturi { -brand-name-firefox } pû to dispusitivu mòbbili o pû scagnu
 # Variables:
-#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+#   $donate (url) - link to https://www.mozillafoundation.org/?form=donate-404
 # Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Facci na dunazzioni</a> â { -brand-name-mozilla-foundation } e pìgghiati arrè u cuntrollu dâ riti dî granni azzienni tecnulòggichi.

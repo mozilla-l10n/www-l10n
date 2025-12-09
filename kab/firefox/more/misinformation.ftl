@@ -13,7 +13,7 @@ misinformation-images-captions = Tugniwin d tneffusin mṣadant?
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox } yettarra ineḍfaren deg usenqed:
 misinformation-why-trust-firefox = Ayɣer ara tgeḍ laman deg { -brand-name-firefox }?
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = Acku nefka azal amezwaru i yimdanen. deg tidet, nekkni nsenned ɣer <a href="{ $foundation }">ur nettnadi ara ɣef kra n rrbaḥ</a>. Seg wass amezwaru, tuɣdaḍt-nneɣ d ammesten n Internet d yal yiwen deg-s.
 misinformation-learn-more-about-our-mission = Ɣer ugar ɣef tuɣdaḍt-nneɣ
 misinformation-your-privacy-by-the-product = Aqader n tudert tabaḍnit-ik/im deg yal afaris

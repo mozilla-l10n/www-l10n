@@ -80,7 +80,7 @@ vpn-features-reviewed-by-third = Wedi'i adolygu gan arbenigwyr diogelwch trydydd
 vpn-features-weve-been-audited = Rydym wedi cael ein harchwilio gan Cure53, cwmni archwilio seiberddiogelwch blaenllaw. <a { $report }>Mae eu hadroddiad yma</a>.
 vpn-features-people-over-profits = Pobl dros elw
 # Variables
-#   $mofo (url) - link to https://foundation.mozilla.org/
+#   $mofo (url) - link to https://www.mozillafoundation.org/
 # Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = Rydym yn cael ein cefnogi gan y <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, corff dim-er-elw er cadw'r we yn agored ac yn iach i bawb.
 vpn-features-were-backed-by-mofo-v2 = Rydym yn cael ein cefnogi gan <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, ymgyrch ddim-er-elw i gadw'r we yn agored ac yn iach i bawb.

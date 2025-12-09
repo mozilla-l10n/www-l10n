@@ -72,7 +72,7 @@ vpn-features-reviewed-by-third = Beoordeeld door externe beveiligingsexperts
 vpn-features-weve-been-audited = We zijn geaudit door Cure53, een toonaangevend cyberbeveiligingsauditbureau. <a { $report }>Bekijk het rapport hier</a>.
 vpn-features-people-over-profits = Mensen boven winst
 # Variables
-#   $mofo (url) - link to https://foundation.mozilla.org/
+#   $mofo (url) - link to https://www.mozillafoundation.org/
 # Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = We worden gesteund door de <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, een non-profitorganisatie die strijdt om het web voor iedereen open en gezond te houden.
 vpn-features-were-backed-by-mofo-v2 = We worden gesteund door <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, een non-profitorganisatie die strijdt om het web voor iedereen open en gezond te houden.

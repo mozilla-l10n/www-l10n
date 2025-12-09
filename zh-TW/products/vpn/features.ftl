@@ -70,7 +70,7 @@ vpn-features-reviewed-by-third = 由第三方安全專家審核
 vpn-features-weve-been-audited = 我們已接受領先的網路安全審計公司 Cure53 的稽核。<a { $report }>可在此檢視稽核報告</a>。
 vpn-features-people-over-profits = 以人為本
 # Variables
-#   $mofo (url) - link to https://foundation.mozilla.org/
+#   $mofo (url) - link to https://www.mozillafoundation.org/
 # Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = 我們是由致力於保護網際網路的生態，對所有人都開放與健康而奮鬥的非營利組織 <a { $mofo }>{ -brand-name-mozilla-foundation }</a> 在背後全力相挺。
 vpn-features-were-backed-by-mofo-v2 = 我們是由致力於保護網際網路的生態，對所有人都開放與健康而奮鬥的非營利組織 <a { $mofo }>{ -brand-name-mozilla-foundation }</a> 在背後全力相挺。

@@ -72,7 +72,7 @@ related-questions-ip = Cwestiynau cysylltiedig: a yw { -brand-name-firefox } yn 
 who-owns-firefox = Pwy sydd bia { -brand-name-firefox }?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = Mae { -brand-name-firefox } yn cael ei wneud gan { -brand-name-mozilla-corporation } is-gwmni sy'n eiddo llwyr i'r <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> ac mae'n cael ei arwain gan egwyddorion Maniffesto { -brand-name-mozilla }. Rhagor am wneuthurwr { -brand-name-firefox } <a href="{ $url2 }">yma.</a>

@@ -13,7 +13,7 @@ misinformation-look-at-url = Tatz'eta' ri URL chuqa'/o ri ruxe'el.
 misinformation-content-up-to-date = ¿Xk'ex ri rupam?
 misinformation-why-trust-firefox = ¿Achike ruma k'o chi nakuqub'a' ak'u'x chi rij ri { -brand-name-firefox }?
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = Yeqanab'eyij ri qawinaq. Yojruto' jun <a href="{ $foundation }">ajmoloj majun ch'akoj rojqan</a>. Pa ri nab'ey q'ij, ruk'u'x qatzij ri niqachajij ri k'amaya'l chuqa' konojel ri e k'o chupam.
 misinformation-learn-more-about-our-mission = Tetamäx ch'aqa' chik chi rij ri taqel qataqanem
 misinformation-your-privacy-by-the-product = Awichinanem, tikojil chi tikojil

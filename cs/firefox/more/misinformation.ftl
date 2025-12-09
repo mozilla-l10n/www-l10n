@@ -41,7 +41,7 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } pomáhá udr
 misinformation-social-media-clean-desc = Sociální sítě toho o vás vědí hodně. Navíc vás mohou sledovat i mimo své platformy pomocí tlačítek „Sdílet“ a „To se mi líbí“ i přes ochranu proti sledování – i když nemáte účet. Doplněk <a href="{ $container }">{ -brand-name-facebook-container }</a> pro { -brand-name-firefox(case: "acc") } zajišťuje, že to { -brand-name-facebook } a { -brand-name-instagram } nedokážou tak snadno, což opět značně snižuje pravděpodobnost zobrazení mylných informací prostřednictvím reklam a propagovaného obsahu.
 misinformation-why-trust-firefox = Proč věřit { -brand-name-firefox(case: "dat") }
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = Protože pro nás jsou na prvním místě lidé. Ve skutečnosti za námi stojí <a href="{ $foundation }">nezisková organizace</a>. Od prvního dne je naším posláním ochrana internetu a všech lidí na něm.
 misinformation-learn-more-about-our-mission = Zjistěte více o naší misi
 misinformation-your-privacy-by-the-product = Vaše soukromí s našimi produkty

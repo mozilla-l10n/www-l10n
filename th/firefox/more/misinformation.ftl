@@ -41,7 +41,7 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } ช่วย
 misinformation-social-media-clean-desc = เครือข่ายสังคมออนไลน์นั้นรู้จักตัวคุณเป็นอย่างดี และยังสามารถติดตามตัวคุณได้นอกเหนือจากแพลตฟอร์มของตนเองผ่านปุ่ม “แบ่งปัน” และ “ถูกใจ” แม้จะมีการป้องกันการติดตาม และแม้ว่าคุณจะไม่มีบัญชีก็ตาม <a href="{ $container }">{ -brand-name-facebook-container }</a> สำหรับ { -brand-name-firefox } จะช่วยให้แน่ใจว่า { -brand-name-facebook } และ { -brand-name-instagram } ไม่สามารถทำสิ่งนี้ได้อย่างง่ายดาย ซึ่งจะช่วยลดโอกาสที่ข้อมูลที่ผิดพลาดจะปรากฎผ่านโฆษณาและเนื้อหาที่โปรโมตได้อย่างมาก
 misinformation-why-trust-firefox = ทำไมคุณถึงไว้ใจ { -brand-name-firefox } ได้?
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = เพราะเราให้ความสำคัญกับผู้คนก่อน อันที่จริง เราได้รับการสนับสนุนโดย<a href="{ $foundation }">มูลนิธิไม่แสวงหาผลกำไร</a> ตั้งแต่วันแรก เรามีภารกิจที่จะปกป้องอินเทอร์เน็ตและทุกคนที่ใช้อินเทอร์เน็ต
 misinformation-learn-more-about-our-mission = เรียนรู้เพิ่มเติมเกี่ยวกับภารกิจของเรา
 misinformation-your-privacy-by-the-product = ผลิตภัณฑ์ทุกอย่างปกป้องความเป็นส่วนตัวของคุณ

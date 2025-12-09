@@ -64,7 +64,7 @@ vpn-features-reviewed-by-third = 제3자 보안 전문가가 검토함
 vpn-features-weve-been-audited = 우리는 최고의 사이버 보안 감사 회사 인 Cure53의 감사를 받았습니다. <a { $report }>여기에서 보고서를 확인해 보세요</a>.
 vpn-features-people-over-profits = 이익보다 사람
 # Variables
-#   $mofo (url) - link to https://foundation.mozilla.org/
+#   $mofo (url) - link to https://www.mozillafoundation.org/
 # Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = 모든 사람들에게 열려있는 웹을 건강하게 지키기 위해 활동하는 비영리 단체인 <a { $mofo }>{ -brand-name-mozilla-foundation }</a>의 지원을 받고 있습니다.
 vpn-features-were-backed-by-mofo-v2 = 모든 사람들에게 열려있는 웹을 건강하게 지키기 위해 활동하는 비영리 단체인 <a { $mofo }>{ -brand-name-mozilla-foundation }</a>의 지원을 받고 있습니다.

@@ -72,7 +72,7 @@ vpn-features-reviewed-by-third = Üçüncü taraf güvenlik uzmanları tarafınd
 vpn-features-weve-been-audited = Önde gelen siber güvenlik denetim firması Cure53 tarafından denetlendik. <a { $report }>Raporu burada görebilirsiniz</a>.
 vpn-features-people-over-profits = Para için değil, insanlık için
 # Variables
-#   $mofo (url) - link to https://foundation.mozilla.org/
+#   $mofo (url) - link to https://www.mozillafoundation.org/
 # Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = Arkamızda, web’in herkes için açık ve sağlıklı kalmasını amaçlayan, kâr amacı gütmeyen <a { $mofo }>{ -brand-name-mozilla-foundation }</a> var.
 vpn-features-were-backed-by-mofo-v2 = Arkamızda, web’in herkes için açık ve sağlıklı kalmasını amaçlayan, kâr amacı gütmeyen <a { $mofo }>{ -brand-name-mozilla-foundation }</a> var.

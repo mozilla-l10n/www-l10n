@@ -43,6 +43,6 @@ how-do-i = Как да взема { -brand-name-firefox-browser }?
 
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 

@@ -72,7 +72,7 @@ related-questions-ip = 관련 질문: { -brand-name-firefox }가 IP 주소를 �
 who-owns-firefox = { -brand-name-firefox }의 소유자는 누구인가요?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox }는 비영리 단체인 <a href="{ $url }">{ -brand-name-mozilla-foundation }</a>의 완전자회사 { -brand-name-mozilla-corporation }이 만들며, { -brand-name-mozilla } 선언문의 원칙을 따릅니다. <a href="{ $url2 }">여기</a>에서 { -brand-name-firefox }의 개발사에 대해 더 알아보세요.

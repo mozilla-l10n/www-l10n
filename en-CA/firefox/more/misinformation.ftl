@@ -41,7 +41,7 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } helps to kee
 misinformation-social-media-clean-desc = Social networks know a lot about you. Plus, they’re able to track you beyond their platforms with their Share and Like buttons despite Tracking Protection — even if you don’t have an account. The <a href="{ $container }">{ -brand-name-facebook-container }</a> for { -brand-name-firefox } makes sure that { -brand-name-facebook } and { -brand-name-instagram } can't do this so easily, which again reduces the probability of seeing misinformation via ads and promoted content significantly.
 misinformation-why-trust-firefox = Why trust { -brand-name-firefox }?
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = Because we put people first. In fact, we’re backed by a <a href="{ $foundation }">non-profit</a>. From day one, it’s been our mission to protect the internet and everyone on it.
 misinformation-learn-more-about-our-mission = Learn more about our mission
 misinformation-your-privacy-by-the-product = Your privacy, by the product

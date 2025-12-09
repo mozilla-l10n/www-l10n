@@ -41,7 +41,7 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } wam pomha, w
 misinformation-social-media-clean-desc = Socialne syće wjele wo was wědźa. Nimo toho móža was po swojich platformach z tłóčatkami Dźělić a To so mi spodoba najebać slědowanski škit přesćěhować – samo hdyž konto nimaće. <a href="{ $container }">{ -brand-name-facebook-container }</a> za { -brand-name-firefox } zawěsćuje, zo { -brand-name-facebook } a { -brand-name-instagram } njemóžetej to lochko činić, štož prawdźepodobnosć zaso wo tójšto redukuje, zo přez wabjenje wopačne informacije a propagowany wobsah widźiće.
 misinformation-why-trust-firefox = Čehodla { -brand-name-firefox } dowěrić?
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = Dokelž ludźi na prěnje městno stajamy. Woprawdźe, nas <a href="{ $foundation }">powšitkownosći wužitna organizacija</a> podpěruje. Wot prěnjeho dnja je naša misija było, internet a kóždeho w nim škitać.
 misinformation-learn-more-about-our-mission = Dalše informacije wo našej misiji
 misinformation-your-privacy-by-the-product = Waša priwatnosć, w kóždym produkće

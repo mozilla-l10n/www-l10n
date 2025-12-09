@@ -41,7 +41,7 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } ajută la me
 misinformation-social-media-clean-desc = Rețelele de socializare știu multe despre tine. În plus, te pot urmări dincolo de platformele lor cu butoanele Distribuie și Îmi place, în ciuda protecției împotriva urmăririi — chiar dacă nu ai un cont. <a href="{ $container }">{ -brand-name-facebook-container }</a> pentru { -brand-name-firefox } se asigură că { -brand-name-facebook } și { -brand-name-instagram } nu o pot face chiar așa de ușor, ceea ce reduce din nou semnificativ probabilitatea de a vedea informații greșite prin intermediul reclamelor și al conținutului promovat.
 misinformation-why-trust-firefox = De ce să ai încredere în { -brand-name-firefox }?
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = Pentru că noi punem oamenii pe primul  loc. Suntem susținuți de o organizație <a href="{ $foundation }">non-profit</a>. Din prima zi, am avut misiunea de a proteja internetul și pe toți de pe internet.
 misinformation-learn-more-about-our-mission = Află mai multe despre misiunea noastră
 misinformation-your-privacy-by-the-product = Confidențialitatea ta, cu produsul

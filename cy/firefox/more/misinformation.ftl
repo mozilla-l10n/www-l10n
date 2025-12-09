@@ -41,7 +41,7 @@ misinformation-social-media-clean-heading = Mae { -brand-name-firefox } yn helpu
 misinformation-social-media-clean-desc = Mae rhwydweithiau cymdeithasol yn gwybod llawer amdanoch chi. Hefyd, maen nhw'n gallu eich tracio y tu hwnt i'w platfformau gyda'u botymau Rhannu a Hoffi er gwaethaf Diogelu Rhag Tracio - hyd yn oed os nad oes gennych chi gyfrif. Mae'r <a href="{ $container }"> { -brand-name-facebook-container } </a> ar gyfer { -brand-name-firefox } yn sicrhau nad yw { -brand-name-facebook } a { -brand-name-instagram } gallu gwneud mor hawdd, sydd eto'n lleihau'r tebygolrwydd o weld camwybodaeth trwy hysbysebion a hyrwyddo cynnwys, yn sylweddol.
 misinformation-why-trust-firefox = Pam ymddiried yn { -brand-name-firefox }?
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = Oherwydd ein bod ni'n blaenoriaethu pobl. Mewn gwirionedd, mae <a href="{ $foundation }">nid-er-elw</a> yn gefn inni. O'r cychwyn cyntaf, ein cenhadaeth oedd amddiffyn y rhyngrwyd a phawb arno.
 misinformation-learn-more-about-our-mission = Rhagor am ein cenhadaeth
 misinformation-your-privacy-by-the-product = Eich preifatrwydd, yn ôl y cynnyrch

@@ -41,7 +41,7 @@ misinformation-social-media-clean-heading = { -brand-name-firefox }는 소셜 �
 misinformation-social-media-clean-desc = 소셜 네트워크는 여러분의 많은 것을 알고 있습니다. 또한 추적 방지 기능에도 불구하고 공유 및 좋아요 버튼을 통해 플랫폼 이외의 곳에서 계정이 없는 사용자까지 추적할 수 있습니다. { -brand-name-firefox }용 <a href="{ $container }">{ -brand-name-facebook-container }</a>는 { -brand-name-facebook }과 { -brand-name-instagram }이 쉽게 추적할 수 없게 만들어 광고 및 홍보 콘텐츠를 통해 잘못된 정보를 볼 확률을 크게 줄입니다.
 misinformation-why-trust-firefox = 왜 { -brand-name-firefox }를 신뢰해야 하나요?
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = 우리는 사람을 우선시하기 때문입니다. 우리는 <a href="{ $foundation }">비영리 단체</a>의 지원을 받습니다. 처음부터 인터넷과 온라인상의 모든 사람을 보호하는 것이 우리의 사명이었습니다.
 misinformation-learn-more-about-our-mission = 사명에 대해 자세히 알아보기
 misinformation-your-privacy-by-the-product = 제품이 보호하는 개인 정보

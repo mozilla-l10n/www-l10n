@@ -72,7 +72,7 @@ related-questions-ip = Porandu ojuehegua: ¿{ -brand-name-firefox } oñomi nde I
 who-owns-firefox = ¿Mávapa { -brand-name-firefox } jára?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } omoheñói { -brand-name-mozilla-corporation }, peteĩ hesegua ha’éva atyguasu viru’ỹ rehegua mba’éva <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> ha oguatáva pe { -brand-name-mozilla } Jehaipyre he’iháicha. Eikuaave { -brand-name-firefox } apopyre rehegua <a href="{ $url2 }">ko’ápe.</a>

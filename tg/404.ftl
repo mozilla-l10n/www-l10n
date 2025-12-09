@@ -16,7 +16,7 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Маълумо
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = Браузери { -brand-name-firefox }-ро барои дастгоҳи мобилӣ ё мизи кории худ <a href={ $download }>боргирӣ кунед</a>
 # Variables:
-#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+#   $donate (url) - link to https://www.mozillafoundation.org/?form=donate-404
 # Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = Ба «{ -brand-name-mozilla-foundation }» <a { $donate }>саҳм гузоред</a> ва Интернетро аз ширкатҳои технологияҳои бузург ба худ гардонед.
 not-found-page-donate-to-mozilla-reclaim-from-v2 = Ба «{ -brand-name-mozilla-foundation }» <a { $donate }>саҳм гузоред</a> ва Интернетро аз ширкатҳои технологияҳои бузург ба салоҳияти худ гардонед.

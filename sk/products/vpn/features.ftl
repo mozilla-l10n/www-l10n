@@ -76,7 +76,7 @@ vpn-features-reviewed-by-third = Skontrolované odborníkmi tretích strán na b
 vpn-features-weve-been-audited = Boli sme auditovaní spoločnosťou Cure53, poprednou audítorskou firmou v oblasti kybernetickej bezpečnosti. <a { $report }>Pozrite si správu</a>.
 vpn-features-people-over-profits = Ľudia pred ziskami
 # Variables
-#   $mofo (url) - link to https://foundation.mozilla.org/
+#   $mofo (url) - link to https://www.mozillafoundation.org/
 # Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = Podporuje nás <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, nezisková organizácia, ktorá bojuje za to, aby bol web otvorený a zdravý pre všetkých ľudí.
 vpn-features-were-backed-by-mofo-v2 = Podporuje nás <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, nezisková organizácia, ktorá bojuje za to, aby bol web otvorený a zdravý pre všetkých ľudí.

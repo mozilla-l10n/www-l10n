@@ -74,6 +74,6 @@ vpn-features-reviewed-by-third = Перевірено сторонніми ек�
 vpn-features-weve-been-audited = Ми пройшли аудит Cure53 – провідної аудиторської компанії з кібербезпеки. <a { $report }>Перегляньте звіт</a>.
 vpn-features-people-over-profits = Люди важливіші, ніж прибуток
 # Variables
-#   $mofo (url) - link to https://foundation.mozilla.org/
+#   $mofo (url) - link to https://www.mozillafoundation.org/
 # Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = Нас підтримує <a { $mofo }>{ -brand-name-mozilla-foundation }</a> – некомерційна організація, яка відстоює доступність та приватність інтернету для всіх.

@@ -72,7 +72,7 @@ related-questions-ip = მსგავსი კითხვები: ფარ
 who-owns-firefox = ვის ეკუთვნის { -brand-name-firefox }?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox }-ის შემქმნელია { -brand-name-mozilla-corporation }, რომლის სრული მფლობელია არამომგებიანი <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> და ხელმძღვანელობს { -brand-name-mozilla }-ს დებულებებით. ვრცლად გაეცანით { -brand-name-firefox }-ის შემქმნელს <a href="{ $url2 }">აქედან.</a>

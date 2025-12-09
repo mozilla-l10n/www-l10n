@@ -41,7 +41,7 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } ta gida da t
 misinformation-social-media-clean-desc = Las medias socialas san bler da tai. Ultra da quai pon ellas ta suandar schizunt ordaifer lur plattafurmas cun agid da lur buttuns per cundivider e dar in like, malgrà la protecziun cunter fastizaders – perfin sche ti n'has gnanc in conto. Il <a href="{ $container }">{ -brand-name-facebook-container }</a> per { -brand-name-firefox } procura che { -brand-name-facebook } ed { -brand-name-instagram } na vegnan betg pli da ta suandar a moda uschè simpla. Uschia èsi era main probabel che ti fruntas sin infurmaziuns falladas via reclamas e cuntegns sponsurisads.
 misinformation-why-trust-firefox = Pertge sa fidar da { -brand-name-firefox }?
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = Perquai che nus dain la prioritad a las persunas. Nus vegnin sustegnids dad in'organisaziun <a href="{ $foundation }">senza finamira da profit</a>. Nus avain gia da bell'entschatta vulì proteger l'internet e tuts che l'utiliseschan.
 misinformation-learn-more-about-our-mission = Ve a savair dapli davart nossa idea
 misinformation-your-privacy-by-the-product = Tia sfera privata en mintga product

@@ -72,7 +72,7 @@ related-questions-ip = Pyetje të afërta: a e fsheh { -brand-name-firefox }-i a
 who-owns-firefox = Pronë e kujt është { -brand-name-firefox }-i?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox }-i është krijuar nga { -brand-name-mozilla-corporation }, një nëndegë në pronësi të plotë e entit jofitimprurës <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> dhe udhëhiqet nga parimet e Manifestit { -brand-name-mozilla }. Mësoni më tepër rreth krijuesit të { -brand-name-firefox }-it <a href="{ $url2 }">këtu.</a>

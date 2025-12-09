@@ -72,7 +72,7 @@ related-questions-ip = İlgili sorular: { -brand-name-firefox } IP adresinizi gi
 who-owns-firefox = { -brand-name-firefox }'un sahibi kim?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox }, kâr amacı gütmeyen <a href="{ $url }">{ -brand-name-mozilla-foundation }</a>'nın yan kuruluşu { -brand-name-mozilla-corporation } tarafından { -brand-name-mozilla } Manifestosu'nun prensiplerine göre geliştiriliyor. { -brand-name-firefox }'un geliştiricisi hakkında <a href="{ $url2 }">buradan</a> daha fazla bilgi alabilirsiniz.

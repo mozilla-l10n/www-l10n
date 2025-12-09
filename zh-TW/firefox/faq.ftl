@@ -72,7 +72,7 @@ related-questions-ip = 相關問題：{ -brand-name-firefox } 會隱藏您的 IP
 who-owns-firefox = 誰擁有 { -brand-name-firefox }？
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } 是由非營利組織 <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> 的全資子公司 { -brand-name-mozilla-corporation } 打造，並且遵循 { -brand-name-mozilla } Manifesto 的宣言內容運轉。您可以<a href="{ $url2 }">在此</a>更加了解 { -brand-name-firefox } 的開發者。

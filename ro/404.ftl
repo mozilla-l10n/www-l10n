@@ -16,7 +16,7 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Află</a> desp
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Descarcă</a> browserul { -brand-name-firefox } pentru dispozitivul mobil sau desktop
 # Variables:
-#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+#   $donate (url) - link to https://www.mozillafoundation.org/?form=donate-404
 # Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Donați</a> către { -brand-name-mozilla-foundation } și revendicați internetul de la marile companii de tehnologie.
 not-found-page-donate-to-mozilla-reclaim-from-v2 = <a { $donate }>Donează</a> către { -brand-name-mozilla-foundation } și revendică internetul de la marile companii de tehnologie.

@@ -9,7 +9,7 @@ whatsnew-donate-whatsnew = Aktualności
 whatsnew-donate-donate-to = Wesprzyj { -brand-name-mozilla-foundation } – organizację non profit, twórców przeglądarki { -brand-name-firefox }
 whatsnew-donate-you-chose = Wybierasz przeglądarkę { -brand-name-firefox }, ponieważ wiesz, że internet powinien służyć ludziom, a nie władzom. Pójdź o krok dalej.
 whatsnew-donate-you-can-help = Możesz pomóc nam zadbać, by internet pozostał tym, czym być powinien. Zakończ ten rok szczodrym gestem, zasilając konto { -brand-name-mozilla-foundation } przed 31 grudnia i wspierając technologię przyjazną ludziom.
-# link to https://mozillafoundation.org/ with donation form modal open
+# link to https://www.mozillafoundation.org/ with donation form modal open
 whatsnew-donate = Wesprzyj nas
 # link to https://www.firefox.com/firefox/notes/
 whatsnew-donate-release-notes = Informacje o wydaniu

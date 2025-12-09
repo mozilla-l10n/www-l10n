@@ -72,7 +72,7 @@ related-questions-ip = Kapcsolódó kérdések: a { -brand-name-firefox } elrejt
 who-owns-firefox = Kié a { -brand-name-firefox }?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = A { -brand-name-firefox(case: "accusative") } a { -brand-name-mozilla-corporation } készíti, amely a nonprofit <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> teljes tulajdonú leányvállalata, és a { -brand-name-mozilla } kiáltvány irányelvei vezérlik. Tudjon meg többet a { -brand-name-firefox } gyártójáról <a href="{ $url2 }">itt.</a>

@@ -49,6 +49,6 @@ why-is-firefox = Perak eo { -brand-name-firefox } ken gorrek?
 who-owns-firefox = Piv a zo perc’henn war { -brand-name-firefox }?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 

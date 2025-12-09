@@ -72,7 +72,7 @@ related-questions-ip = Podobne prašenja: Chowa { -brand-name-firefox } wašu IP
 who-owns-firefox = Komu { -brand-name-firefox } słuša?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } so wot { -brand-name-mozilla-corporation } wuwiwa, stoprocentoweje wotnožki towarstwa powšitkownosći wužitneje załožby <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> a wjedźe so po zasadach manifesta { -brand-name-mozilla }. Zhońće <a href="{ $url2 }">tu</a> wjace wo wuwiwarju { -brand-name-firefox }.

@@ -55,6 +55,6 @@ related-questions-ip = ተዛማጅ ጥያቄዎች፡- { -brand-name-firefox } 
 who-owns-firefox = የ{ -brand-name-firefox } ባለቤት ማነው?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 

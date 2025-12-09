@@ -72,7 +72,7 @@ related-questions-ip = Súvisiace otázky: skrýva { -brand-name-firefox } vašu
 who-owns-firefox = Kto vlastní { -brand-name-firefox }?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } vyvíja { -brand-name-mozilla-corporation }, dcérska spoločnosť v úplnom vlastníctve neziskovej <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> a riadi sa princípmi Manifestu { -brand-name-mozilla(case: "gen") }. Ďalšie informácie o tvorcovi { -brand-name-firefox(case: "gen") } nájdete <a href="{ $url2 }">tu</a>.

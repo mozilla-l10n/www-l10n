@@ -41,7 +41,7 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } 會幫助讓
 misinformation-social-media-clean-desc = 社群網路非常了解您。就算您不註冊帳號使用，還是可以透過平台外的「分享」與「讚」按鈕來追蹤您，不受追蹤保護的影響。<a href="{ $container }">{ -brand-name-facebook-container }</a> for { -brand-name-firefox } 可讓 { -brand-name-facebook } 及 { -brand-name-instagram } 沒那麼簡單就能追蹤到您，大幅降低在廣告或贊助內容當中看到錯誤資訊的機會。
 misinformation-why-trust-firefox = 憑什麼相信 { -brand-name-firefox }？
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = 因為我們把人們放在第一位。實際上，我們是由<a href="{ $foundation }">非營利組織</a>在背後全力相挺。自成立第一天起，我們的企業使命就是要保護網際網路環境與上面的每個人。
 misinformation-learn-more-about-our-mission = 更加了解我們的使命
 misinformation-your-privacy-by-the-product = 各種保護您隱私權的產品

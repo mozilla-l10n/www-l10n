@@ -41,7 +41,7 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } adjuta a man
 misinformation-social-media-clean-desc = Le retes social sape multo re te. In ultra, illos es capace de traciar te ultra lor platteformas con lor buttones Share e Like, malgrado le Protection de traciamento e mesmo si tu non ha un conto. <a href="{ $container }">{ -brand-name-facebook-container }</a> pro { -brand-name-firefox } rende secur que { -brand-name-facebook } e { -brand-name-instagram } non lo pote facer assi facilemente, isto reduce ancora le probabilitate de vider information errate via avisos publicitari e contento promovite notabilemente.
 misinformation-why-trust-firefox = Perque fider in { -brand-name-firefox }?
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = Perque nos pone primo le personas. De facto, nos es supportate per un <a href="{ $foundation }">organisation non-lucrative</a>.
 misinformation-learn-more-about-our-mission = Saper plus re nostre mission
 misinformation-your-privacy-by-the-product = Tu confidentialitate, per producto

@@ -48,6 +48,6 @@ related-questions-ip = Dumanni currilati: { -brand-name-firefox } ammuccia u to 
 who-owns-firefox = A cu’ apparteni { -brand-name-firefox }?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 

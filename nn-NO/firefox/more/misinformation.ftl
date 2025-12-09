@@ -41,7 +41,7 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } bidreg til �
 misinformation-social-media-clean-desc = Sosiale nettverk veit mykje om deg. I tillegg kan dei spore deg utanfor plattformene sine med del- og lik-knappane sine trass i sporingsvern — sjølv om du ikkje har ein konto. <a href="{ $container }">{ -brand-name-facebook-container }</a> for { -brand-name-firefox } sørgjer for at { -brand-name-facebook } og { -brand-name-instagram } ikkje kan gjere dette så lett, noko som igjen reduserer sjansane for å sjå feilinformasjon via annonsar og promotert innhald stort.
 misinformation-why-trust-firefox = Kvifor skal du stole på { -brand-name-firefox }?
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = Fordi vi set menneske først. Faktisk er vi støtta av ein <a href="{ $foundation }">ideel organisasjon</a>. Frå første dag har det vore oppdraget vårt å beskytte nettet og alle som brukar det.
 misinformation-learn-more-about-our-mission = Les meir om oppdraget vårt
 misinformation-your-privacy-by-the-product = Personvern i kvart produkt

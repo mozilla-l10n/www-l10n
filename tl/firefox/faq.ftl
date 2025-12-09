@@ -48,6 +48,6 @@ firefoxs-default-search = { -brand-name-google } ang default na search engine sa
 does-firefox-have = Meron bang built-in na VPN ang { -brand-name-firefox }?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 

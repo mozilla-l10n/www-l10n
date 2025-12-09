@@ -41,7 +41,7 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } تہاݙیا
 misinformation-social-media-clean-desc = سوشل نیٹ ورک تہاݙے بارے وِچ ٻہوں کجھ ڄاݨدے ہن۔ ایندے علاوہ او ٹریکنگ پروٹیکشن دے باوجود اپݨے شیئر تے لائک بٹن دے نال اپݨے پلیٹ فارمز کنوں ٻاہر تہاکوں ٹریک کرݨ دے قابل ہن۔ بھانویں تہاݙے کول اکاؤنٹ نہ وی ہووے۔ { -brand-name-firefox } کیتے <a href="{ $container }"> { -brand-name-facebook-container } </a> ایں ڳالھ کوں یقینی بݨیندا ہے جو { -brand-name-facebook } تے { -brand-name-instagram } ایہ اتنی آسانی نال نہیں کر سڳدا، جیندے نال اشتہارات تے فروغ شدہ مواد دے ذریعے غلط معلومات ݙیکھݨ دے امکان کوں ہک واری ول نمایاں طور تے گھٹ کر ݙتا ویندا ہے۔
 misinformation-why-trust-firefox = { -brand-name-firefox } تے بھروسہ کیوں کروں؟
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = کیوں جو اساں لوکاں کوں پہلے رکھیندے ہیں۔ درحقیقت، اساکوں ہک <a href="{ $foundation }"> غیر منافع بخش </a> دی حمایت حاصل ہے۔ پہلے ݙینہہ کنوِ انٹرنیٹ تے ایندے اوتے موجود ہر ڄݨے دی حفاظت کرݨ اساݙا مشن ریہا ہے۔
 misinformation-learn-more-about-our-mission = ساݙے مشن بارے ٻیا سکھو
 misinformation-your-privacy-by-the-product = تہاݙی رازداری، مصنوع نال

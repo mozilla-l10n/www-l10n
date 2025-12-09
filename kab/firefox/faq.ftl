@@ -60,7 +60,7 @@ related-questions-ip = Isteqsiyen yeqqnen: { -brand-name-firefox } iteffer tansa
 who-owns-firefox = Anwa i d bab n { -brand-name-firefox }?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } texdem-it { -brand-name-mozilla-corporation }, d ayla meṛṛa n <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> ur nettnadi ara tadrimt, daɣen iteddu s wansayen n umeskan n { -brand-name-mozilla }. Issin ugar ɣef win i ixedmen{ -brand-name-firefox } <a href="{ $url2 }">dagi.</a>

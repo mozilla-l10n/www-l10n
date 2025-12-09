@@ -72,7 +72,7 @@ related-questions-ip = A s tím souvisí: skryje { -brand-name-firefox } mou IP 
 who-owns-firefox = Kdo vlastní { -brand-name-firefox(case: "acc") }?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox(case: "acc") } vyvíjí { -brand-name-mozilla-corporation }, dceřiná společnost neziskové organizace <a href="{ $url }">{ -brand-name-mozilla-foundation }</a>, a řídí se zásadami Manifestu { -brand-name-mozilla(case: "gen") }. Více se o tvůrci { -brand-name-firefox(case: "gen") } dozvíte <a href="{ $url2 }">zde</a>.

@@ -16,7 +16,7 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Tìm hiểu</a
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Tải xuống</a> trình duyệt { -brand-name-firefox } cho thiết bị di động hoặc máy tính để bàn của bạn
 # Variables:
-#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+#   $donate (url) - link to https://www.mozillafoundation.org/?form=donate-404
 # Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Quyên góp</a> cho { -brand-name-mozilla-foundation } và giành lại Internet từ tay những gã khổng lồ công nghệ.
 not-found-page-donate-to-mozilla-reclaim-from-v2 = <a { $donate }>Quyên góp</a> cho { -brand-name-mozilla-foundation } và giành lại Internet từ tay những gã khổng lồ công nghệ.

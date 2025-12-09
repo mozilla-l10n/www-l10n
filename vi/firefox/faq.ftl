@@ -72,7 +72,7 @@ related-questions-ip = Câu hỏi liên quan: { -brand-name-firefox } có ẩn �
 who-owns-firefox = Ai sở hữu { -brand-name-firefox }?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } được thực hiện bởi { -brand-name-mozilla-corporation }, một công ty con thuộc sở hữu hoàn toàn của tổ chức phi lợi nhuận <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> và được hướng dẫn bởi các nguyên tắc của Tuyên ngôn { -brand-name-mozilla }. Tìm hiểu thêm về nhà sản xuất { -brand-name-firefox } <a href="{ $url2 }">tại đây.</a>

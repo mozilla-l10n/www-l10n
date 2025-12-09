@@ -70,6 +70,6 @@ vpn-features-reviewed-by-third = Controllà dad experts da segirezza independent
 vpn-features-weve-been-audited = Cure53, ina da las interpresas principalas dad auditing per la segirezza informatica, ha controllà noss code. <a { $report }>Consultescha qua il rapport</a>.
 vpn-features-people-over-profits = L’emprim las persunas, lura il profit.
 # Variables
-#   $mofo (url) - link to https://foundation.mozilla.org/
+#   $mofo (url) - link to https://www.mozillafoundation.org/
 # Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = Nus vegnin sustegnids da la <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, in’organisaziun senza finamira da profit che cumbatta per in web avert e saun per ina e scadin.

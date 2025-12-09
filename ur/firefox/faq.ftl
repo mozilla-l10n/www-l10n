@@ -50,6 +50,6 @@ related-questions-ip = متعلقہ سوالات: کی { -brand-name-firefox }  
 who-owns-firefox = { -brand-name-firefox } کا مالک کون ہے؟
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 

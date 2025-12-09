@@ -24,7 +24,7 @@ misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox }, takip k
 misinformation-social-media-clean-heading = { -brand-name-firefox }, sosyal medya akışlarınızı temiz tutmanıza yardımcı olur:
 misinformation-why-trust-firefox = { -brand-name-firefox }’a neden güvenmelisiniz?
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = Çünkü bizde önce insan gelir. Arkamızda <a href="{ $foundation }">kâr amacı gütmeyen bir vakıf</a> var. İlk günden beri misyonumuz, interneti ve internetteki herkesi korumak.
 misinformation-learn-more-about-our-mission = Misyonumuz hakkında bilgi alın
 misinformation-your-privacy-by-the-product = Her üründe gizlilik

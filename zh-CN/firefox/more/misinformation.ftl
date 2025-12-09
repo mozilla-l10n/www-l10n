@@ -41,7 +41,7 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } 可帮助您
 misinformation-social-media-clean-desc = 社交网络十分了解您。即使您没有账户，它们也可以通过其“分享”和“赞”按钮在平台之外跟踪您，即使启用了“跟踪保护”功能也是如此。而 { -brand-name-firefox } 的 <a href="{ $container }">{ -brand-name-facebook-container }</a> 可有效遏制 { -brand-name-facebook } 和 { -brand-name-instagram } 的跟踪活动，进一步降低通过广告和推广内容看到错误信息的可能性。
 misinformation-why-trust-firefox = 凭什么相信 { -brand-name-firefox }？
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = 因为我们以人为本。实际上，我们一直由<a href="{ $foundation }">非营利组织</a>鼎力相挺。自成立第一天起，我们的使命就是守护互联网及其上的每个人。
 misinformation-learn-more-about-our-mission = 进一步了解我们的使命
 misinformation-your-privacy-by-the-product = 您的隐私，我们来守护

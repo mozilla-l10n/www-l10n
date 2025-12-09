@@ -16,7 +16,7 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Les</a> mer om
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Last ned</a> { -brand-name-firefox }-nettleseren for din mobile enhet eller din datamaskin
 # Variables:
-#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+#   $donate (url) - link to https://www.mozillafoundation.org/?form=donate-404
 # Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Doner</a> til { -brand-name-mozilla-foundation } og ta kontrollen overe internett tilbake fra de store teknologigigantene.
 not-found-page-donate-to-mozilla-reclaim-from-v2 = <a { $donate }>Doner</a> til { -brand-name-mozilla-foundation } og ta kontrollen overe internett tilbake fra de store teknologigigantene.

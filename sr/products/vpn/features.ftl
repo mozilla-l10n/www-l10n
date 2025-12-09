@@ -72,6 +72,6 @@ vpn-features-reviewed-by-third = Рецензију дали сигурносн�
 vpn-features-weve-been-audited = Ревизију је обавило Cure53, водеће предузеће у подручју ревизија сајбер безбедности. <a { $report }>Погледајте извештај овде</a>.
 vpn-features-people-over-profits = Људи изнад профита
 # Variables
-#   $mofo (url) - link to https://foundation.mozilla.org/
+#   $mofo (url) - link to https://www.mozillafoundation.org/
 # Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = Подржава нас <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, непрофитна организација која се бори да интернет остане отворен за све.

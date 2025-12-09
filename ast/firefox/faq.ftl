@@ -53,6 +53,6 @@ does-firefox-have = ¿{ -brand-name-firefox } tien una VPN integrada?
 who-owns-firefox = ¿Quién ye'l propietariu de { -brand-name-firefox }?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 

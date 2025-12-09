@@ -56,7 +56,7 @@ does-firefox-have = Sadrži li { -brand-name-firefox } ugrađenu VPN mrežu?
 who-owns-firefox = Tko je vlasnik preglednika { -brand-name-firefox }?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } razvija { -brand-name-mozilla-corporation }, podružnica u potpunom vlasništvu neprofitne zaklade <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> i slijedi načela { -brand-name-mozilla } manifesta. Saznaj više o { -brand-name-firefox } proizvođaču <a href="{ $url2 }">ovdje.</a>

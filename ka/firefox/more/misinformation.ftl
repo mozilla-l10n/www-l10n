@@ -41,7 +41,7 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } გეხმ
 misinformation-social-media-clean-desc = სოციალურმა ქსელებმა ბევრი რამ იცის თქვენ შესახებ. ამასთანავე შეუძლია, თვალი გადევნოთ სხვა საიტებზეც გაზიარებისა და მოწონების ღილაკებით, თვალთვალისგან დაცვის მიუხედავად — ანგარიშის არქონის შემთხვევაშიც კი. <a href="{ $container }">{ -brand-name-facebook-container }</a> { -brand-name-firefox }-ის მეშვეობით, უზრუნველყოფს, რომ { -brand-name-facebook } და { -brand-name-instagram } ამას ადვილად ვეღარ ახერხებდეს, რაც თავისმხრივ მკვეთრად ამცირებს ალბათობას, იხილოთ ყალბი რეკლამები და დაფინანსებული მასალები.
 misinformation-why-trust-firefox = რატომაა სანდო { -brand-name-firefox }?
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = იმიტომ რომ ჩვენ ხალხს ვაყენებთ ყველაფერზე წინ. ზურგს კი გვიმაგრებს <a href="{ $foundation }">არამომგებიანი დაწესებულება</a>. დაარსების დღიდან ჩვენი მიზანი ინტერნეტისა და მისი მომხმარებლების დაცვაა.
 misinformation-learn-more-about-our-mission = ვრცლად ჩვენი მიზნების შესახებ
 misinformation-your-privacy-by-the-product = თქვენი პირადულობა, სხვადასხვა პროდუქტებით

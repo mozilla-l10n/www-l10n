@@ -41,7 +41,7 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } giúp giữ 
 misinformation-social-media-clean-desc = Mạng xã hội biết rất nhiều về bạn. Ngoài ra, họ có thể theo dõi bạn ngoài nền tảng của họ bằng các nút Chia sẻ và Thích mặc dù Trình chống theo dõi — ngay cả khi bạn không có tài khoản. <a href="{ $container }">{ -brand-name-facebook-container }</a> dành cho { -brand-name-firefox } đảm bảo rằng { -brand-name-facebook } và { -brand-name-instagram } không thể làm điều này dễ dàng như vậy, điều này một lần nữa làm giảm đáng kể xác suất nhìn thấy thông tin sai lệch qua quảng cáo và nội dung được quảng bá.
 misinformation-why-trust-firefox = Tại sao tin tưởng { -brand-name-firefox }?
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = Bởi vì chúng tôi đặt mọi người lên hàng đầu. Trên thực tế, chúng tôi đã được hỗ trợ bởi một <a href="{ $foundation }">phi lợi nhuận</a>. Ngay từ ngày đầu, nó đã là nhiệm vụ của chúng tôi để bảo vệ internet và mọi người trên đó.
 misinformation-learn-more-about-our-mission = Tìm hiểu thêm về sứ mệnh của chúng tôi
 misinformation-your-privacy-by-the-product = Sự riêng tư của bạn, bởi sản phẩm

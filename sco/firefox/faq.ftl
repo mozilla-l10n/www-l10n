@@ -51,6 +51,6 @@ does-firefox-use = Daes { -brand-name-firefox } yaise { -brand-name-google }?
 does-firefox-have = Daes { -brand-name-firefox } hae an in-biggit VPN?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 

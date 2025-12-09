@@ -41,7 +41,7 @@ misinformation-social-media-clean-heading = { -brand-name-firefox }-i ju ndihmon
 misinformation-social-media-clean-desc = Rrjetet shoqërore dinë shumë për ju. Plus, janë në gjendje t’ju ndjekin jashtë platformave të veta, me butonat e tyre “Ndajeni me të tjerë” dhe “Pëlqejeni”, pavarësisht Mbrojtjes Nga Gjurmimi — edhe kur s’keni një llogari në to. <a href="{ $container }">{ -brand-name-facebook-container }</a> për { -brand-name-firefox } siguron që { -brand-name-facebook } dhe { -brand-name-instagram } të mund të mos e bëjnë këtë kaq lehtë, çka edhe kjo ul goxha gjasat e parjes së keqinformimit përmes reklamash dhe lënde të sponsorizuar.
 misinformation-why-trust-firefox = Pse t’i zihet besë { -brand-name-firefox }-it?
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = Ngaqë së pari vëmë njerëzit. Në fakt, pas krahëve kemi një <a href="{ $foundation }">ent jofitimprurës</a>. Që ditën e parë, ka qenë misioni ynë të mbrojmë internetin dhe këdo në të.
 misinformation-learn-more-about-our-mission = Mësoni më tepër rreth misionit tonë
 misinformation-your-privacy-by-the-product = Privatësia juaj, nga produkti

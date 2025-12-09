@@ -70,6 +70,6 @@ vpn-features-reviewed-by-third = Ikatupyryrasáva tekorosãme ohechajeypyre
 vpn-features-weve-been-audited = Cure53 ohecha ore rapykuere, mba’apoha ikatupyrýva ciberseguridad ñeha’ãme. <a { $report }>Eporandu marandu’i ko’ápe</a>.
 vpn-features-people-over-profits = Yvypóra viru ñegana ári
 # Variables
-#   $mofo (url) - link to https://foundation.mozilla.org/
+#   $mofo (url) - link to https://www.mozillafoundation.org/
 # Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = Oreykeko <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, tendaguasu viru’ỹgua oñorairõva ñanduti ijuruja ha hekoresãi hag̃ua opavavépe g̃uarã.

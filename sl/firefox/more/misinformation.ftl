@@ -37,7 +37,7 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } vam pomaga o
 misinformation-social-media-clean-desc = Družbena omrežja vedo mnogo o vas. Poleg tega so vam z gumbi Deli in Všeč mi je zmožna slediti izven svoje platforme kljub zaščiti pred sledenjem – celo če nimate računa. <a href="{ $container }">{ -brand-name-facebook-container }</a> za { -brand-name-firefox } otežuje to početje { -brand-name-facebook }u in { -brand-name-instagram }u, kar dodatno zmanjša verjetnost prikazovanja napačnih informacij v oglasih in plačani vsebini.
 misinformation-why-trust-firefox = Zakaj zaupati { -brand-name-firefox(sklon: "dajalnik") }?
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = Ker na prvo mesto postavljamo ljudi. Pravzaprav nas podpira <a href="{ $foundation }">neprofitna fundacija</a>. Od prvega dne je naša naloga, da zaščitimo internet in vse njegove uporabnike.
 misinformation-learn-more-about-our-mission = Spoznajte naše poslanstvo
 misinformation-your-privacy-by-the-product = Vaša zasebnost v vseh izdelkih

@@ -72,7 +72,7 @@ related-questions-ip = Questiones similar: { -brand-name-firefox } cela tu adres
 who-owns-firefox = Qui es proprietario de { -brand-name-firefox }?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } es producite per { -brand-name-mozilla-corporation }, un succursal integremente proprietari del organisation non lucrative <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> e es guidate per le principios del Manifesto de { -brand-name-mozilla }. Saper plus del productor de { -brand-name-firefox } <a href="{ $url2 }">hic.</a>

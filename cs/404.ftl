@@ -16,7 +16,7 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Zjistěte víc
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Stáhněte si</a> { -brand-name-firefox(case: "acc") } do svého mobilního zařízení nebo počítače
 # Variables:
-#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+#   $donate (url) - link to https://www.mozillafoundation.org/?form=donate-404
 # Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Přispějte</a> ve prospěch { -brand-name-mozilla-foundation } a získejte zpět internet od velkých korporací.
 not-found-page-donate-to-mozilla-reclaim-from-v2 = <a { $donate }>Přispějte</a> organizaci { -brand-name-mozilla-foundation } a vezměte si zpět internet od velkých technologií.

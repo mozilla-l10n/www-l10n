@@ -41,7 +41,7 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } auttaa pitä
 misinformation-social-media-clean-desc = Sosiaaliset verkostot tietävät sinusta paljon. Lisäksi ne voivat seurata sinua alustojensa ulkopuolella Jaa- ja Tykkää-painikkeillaan seurantasuojauksesta huolimatta – vaikka sinulla ei olisi tiliä kyseisissä palveluissa. <a href="{ $container }">{ -brand-name-facebook-container }</a> { -brand-name-firefox }ille varmistaa, että { -brand-name-facebook } ja { -brand-name-instagram } eivät voi tehdä tätä aivan niin helposti, mikä taas vähentää huomattavasti todennäköisyyttä nähdä väärää tietoa mainoksissa ja maksetussa sisällössä.
 misinformation-why-trust-firefox = Miksi luottaa { -brand-name-firefox }iin?
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = Koska asetamme ihmiset etusijalle. Itse asiassa meitä tukee <a href="{ $foundation }">voittoa tavoittelematon järjestö</a>. Ensimmäisestä päivästä lähtien tehtävämme on suojella Internetiä ja kaikkia sen käyttäjiä.
 misinformation-learn-more-about-our-mission = Lue lisää tehtävästämme
 misinformation-your-privacy-by-the-product = Yksityisyytesi tuotteen toteuttamana

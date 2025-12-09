@@ -16,7 +16,7 @@ not-found-page-learn-about-mozilla-the-non = { -brand-name-mozilla }, { -brand-n
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਜਾਂ ਡੈਸਕਟਾਪ ਲਈ { -brand-name-firefox } ਬਰਾਊਜ਼ਰ <a href={ $download }>ਡਾਊਨਲੋਡ</a> ਕਰੋ
 # Variables:
-#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+#   $donate (url) - link to https://www.mozillafoundation.org/?form=donate-404
 # Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = { -brand-name-mozilla-foundation } ਨੂੰ <a { $donate }>ਦਾਨ ਦਿਓ</a> ਅਤੇ ਵੱਡੀਆਂ ਕੰਪਨੀਆਂ ਤੋਂ ਇੰਟਰਨੈੱਟ ਨੂੰ ਬਚਾਓ।
 not-found-page-donate-to-mozilla-reclaim-from-v2 = { -brand-name-mozilla-foundation } ਨੂੰ <a { $donate }>ਦਾਨ ਦਿਓ</a> ਅਤੇ ਵੱਡੀਆਂ ਕੰਪਨੀਆਂ ਤੋਂ ਇੰਟਰਨੈੱਟ ਨੂੰ ਵਾਪਸ ਹਾਸਲ ਕਰੋ।

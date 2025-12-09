@@ -41,7 +41,7 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } helpt u de t
 misinformation-social-media-clean-desc = Sociale netwerken weten veel over u. Daarnaast kunnen ze u buiten hun platform volgen met hun ‘Delen’- en ‘Vind-ik-leuk’-knoppen, ondanks Bescherming tegen volgen – zelfs als u geen account hebt. De <a href="{ $container }">{ -brand-name-facebook-container }</a> voor { -brand-name-firefox } zorgt ervoor dat { -brand-name-facebook } en { -brand-name-instagram } dit niet zo eenvoudig kunnen doen, wat de kans op het zien van misinformatie via advertenties en gepromote inhoud aanzienlijk verkleint.
 misinformation-why-trust-firefox = Waarom kunt u { -brand-name-firefox } vertrouwen?
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = Omdat we mensen voorop stellen. Sterker nog, we worden ondersteund door een <a href="{ $foundation }">non-profit</a>. Vanaf het begin is het onze missie geweest om het internet en al haar gebruikers te beschermen.
 misinformation-learn-more-about-our-mission = Meer info over onze missie
 misinformation-your-privacy-by-the-product = Uw privacy, door het product

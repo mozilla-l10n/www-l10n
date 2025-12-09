@@ -72,7 +72,7 @@ vpn-features-reviewed-by-third = Külső biztonsági szakértők által értéke
 vpn-features-weve-been-audited = A Cure53 auditált minket, a vezető kiberbiztonság-vizsgálati cég. <a { $report }>Tekintse meg a jelentést itt</a>.
 vpn-features-people-over-profits = Emberek a profit előtt
 # Variables
-#   $mofo (url) - link to https://foundation.mozilla.org/
+#   $mofo (url) - link to https://www.mozillafoundation.org/
 # Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = A <a { $mofo }>{ -brand-name-mozilla-foundation }</a> támogat minket, egy nonprofit szervezet, amely azért harcol, hogy a web nyílt és egészséges maradjon, minden ember számára.
 vpn-features-were-backed-by-mofo-v2 = A <a { $mofo }>{ -brand-name-mozilla-foundation }</a> támogat minket, egy nonprofit szervezet, amely azért harcol, hogy a web nyílt és egészséges maradjon, minden ember számára.

@@ -16,7 +16,7 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Rhagor</a> am 
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Llwytho i lawr</a> y porwr { -brand-name-firefox } ar gyfer eich dyfais symudol neu'ch bwrdd gwaith
 # Variables:
-#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+#   $donate (url) - link to https://www.mozillafoundation.org/?form=donate-404
 # Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Cyfrannu</a> at y { -brand-name-mozilla-foundation } ac adennill y rhyngrwyd rhag technoleg fawr.
 not-found-page-donate-to-mozilla-reclaim-from-v2 = <a { $donate }>Cyfrannwch</a> tuag at { -brand-name-mozilla-foundation } er mwyn adennill y rhyngrwyd rhag y cwmnïau technoleg fawr.

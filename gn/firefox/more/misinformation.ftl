@@ -41,7 +41,7 @@ misinformation-social-media-clean-heading = { -brand-name-firefox } oipytyvõ ip
 misinformation-social-media-clean-desc = Opaite ava ñandutieta oikuaa heta mba’e ndehegui. Avei, nde rapykuehokuaa ijyképe pyendavusúgui ivotõnguéra Moherakuã ha Amoneĩ rupi jepémo ñemo’ã jehapykueho rovake, ndererekóiramo jepe mba’ete umi pyendavusúpe. <a href="{ $container }">{ -brand-name-facebook-container }</a> { -brand-name-firefox } peg̃uarãva omoneĩ { -brand-name-facebook } ha { -brand-name-instagram } ndojapóivo hasy’ỹre, omomichĩve jeýva, tuichaháicha, marandu vai ñemurã rupive ha tetepy momarandupyre.
 misinformation-why-trust-firefox = ¿Mba’ére ejeroviáta { -brand-name-firefox } rehe?
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = Ore yvypóra romohenda tenondete. Upévare, oreykeko <a href="{ $foundation }">oku’éva ndaha’éi viru rapykuéri</a>. Ñepyrũha guive, ore rembipota ha’e ñanduti ñemo’ã ha opaite poruhárape.
 misinformation-learn-more-about-our-mission = Eikuaave ore rembipota
 misinformation-your-privacy-by-the-product = Ne ñemigua, apopyre oĩháicha
