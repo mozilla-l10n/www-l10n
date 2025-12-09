@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/privacy/firefox
 
 privacy-firefox-read-our-privacy = Pročitaj naše napomene o privatnosti
+privacy-firefox-always-protected = Uvijek zaštićen
 privacy-firefox-manage-your-privacy = Upravljajte postavkama privatnosti:
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } za desktop
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } za mobilne uređaje
