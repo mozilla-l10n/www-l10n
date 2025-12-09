@@ -104,7 +104,9 @@
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account = Mozilla račun
 -brand-name-mozilla-accounts = Mozilla računi
+-brand-name-mozilla-builders = Mozilla Builders
 -brand-name-mozilla-ads = Mozilla oglasi
+-brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla investicijski fondovi
 -brand-name-rise25 = Rise25
