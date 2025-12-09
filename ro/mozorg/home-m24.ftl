@@ -89,9 +89,13 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Donează-ți vocea pentru a face tehnologia vorbirii mai incluzivă și mai accesibilă pentru toată lumea.
 m24-home-donate-your-voice = Donează-ți vocea
 m24-home-our-transformation = Transformarea noastră
+m24-home-how-do-legacy = Cum se ciocnesc valorile tradiționale cu inovația? În această conversație, Mark Surman prezintă în avanpremieră modul în care transformăm { -brand-name-mozilla } pentru era AI.
+# Used as an accessible text alternative for an image
+m24-home-alt-transformation = Schimbă semnalul cu Mark Surman și MBS
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = Nor cu fundal roz
 m24-home-any-agent = Orice agent
+m24-home-stop-wiring-tools = Nu mai conectezi instrumente între ele și nu mai supraveghezi automatizări fragile. Cu { -brand-name-mozilla-ai-v2 } Agent Platform, îți descrii obiectivul, iar noi generăm agenți AI adaptivi care funcționează cu instrumentele și procesele tale.
 
 ## Media Springboard
 
@@ -110,6 +114,8 @@ m24-home-topic-ai = Inteligenţă artificială
 m24-home-topic-open-source-ai = IA cu sursă deschisă
 m24-home-topic-ps = Confidențialitate și securitate
 m24-home-headline-you-ai-v2 = Tu, IA și internetul — ce se întâmplă cu adevărat?
+m24-home-shake-to-summarize = „Agită pentru rezumatul” celor mai bune invenții din 2025, potrivit TIME
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } îi urează bun venit lui Raffi Krikorian în funcția de director tehnic
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Prezentare Thundermail și Thunderbird Pro
 m24-home-the-guardian = The Guardian
