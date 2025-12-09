@@ -85,7 +85,7 @@ related-questions-ip = 関連する質問: { -brand-name-firefox } は IP アド
 who-owns-firefox = { -brand-name-firefox } のオーナーは誰ですか？
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } は非営利組織 <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> 全額出資の子会社である { -brand-name-mozilla-corporation } により製造され、{ -brand-name-mozilla } マニフェストの原則をガイドラインとしています。{ -brand-name-firefox } 製造元の詳細については<a href="{ $url2 }">こちら</a>をご覧ください。
