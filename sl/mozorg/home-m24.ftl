@@ -63,6 +63,7 @@ m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+m24-home-mozfest-join-us = Pridružite se nam na { -brand-name-mozilla-festival }u
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logotip { -brand-name-lumigator }ja.
 m24-home-lumigator = { -brand-name-lumigator }
@@ -78,18 +79,22 @@ m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Prispevajte svoj glas, da bi govorna tehnologija postala bolj vključujoča in dostopna vsakomur.
 m24-home-donate-your-voice = Prispevajte svoj glas
+# Used as an accessible text alternative for an image
+m24-home-alt-pink-cloud = Oblak z rožnatim ozadjem
 
 ## Media Springboard
 
 m24-home-type = Vrsta
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Avtor
+m24-home-author-v2 = Avtor(ji)
 m24-home-topic = Tema
 m24-home-intro = Uvod
 m24-home-tag-article = Članek
 m24-home-tag-podcast = Podkast
 m24-home-tag-video = Video
 m24-home-topic-news = Novice
+m24-home-topic-products = Izdelki
 m24-home-topic-ai = Umetna inteligenca
 m24-home-topic-ps = Zasebnost in varnost
 m24-home-headline-you-ai-v2 = Vi, umetna inteligenca in internet – kaj se pravzaprav dogaja?
