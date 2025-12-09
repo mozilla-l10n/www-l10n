@@ -122,6 +122,7 @@ m24-home-tech-target = Tech-Ziel
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } CEO spricht über die Vorteile von Open-Source KI
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Wir stellen vor: Thundermail und Thunderbird Pro
+m24-home-introducing-thundermail-and-v2 = Neu: { -brand-name-thundermail } und { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Was in der Technologie als Nächstes kommt, ist eine Entscheidung. Entscheide dich mit uns.
 m24-home-how-ventures-investee = Wie Ventures Investee Germ die Verschlüsselung stärkt
 # Obsolete string (expires 2026-03-01)

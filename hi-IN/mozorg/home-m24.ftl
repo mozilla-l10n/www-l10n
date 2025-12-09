@@ -122,6 +122,7 @@ m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = ओपन सोर्स AI के फ़ायदों पर { -brand-name-mozilla-ai-v2 } CEO की बातचीत
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = पेश हैं Thundermail और Thunderbird Pro
+m24-home-introducing-thundermail-and-v2 = पेश है { -brand-name-thundermail } और { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = टेक्नोलॉजी में आगे क्या होगा, यह हम पर निर्भर है। आइए मिलकर फैसला लें।
 m24-home-how-ventures-investee = Ventures की निवेशित कंपनी Germ किस तरह एन्क्रिप्शन को मज़बूत बना रही है
 # Obsolete string (expires 2026-03-01)
