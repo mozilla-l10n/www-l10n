@@ -85,7 +85,7 @@ related-questions-ip = Pertanyaan terkait: apakah { -brand-name-firefox } menyem
 who-owns-firefox = Siapa pemilik { -brand-name-firefox }?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } dibuat oleh { -brand-name-mozilla-corporation }, anak perusahaan yang sepenuhnya dimiliki oleh nirlaba <a href="{ $url }">{ -brand-name-mozilla-foundation },</a> dan dipandu oleh prinsip Manifesto { -brand-name-mozilla }. Pelajari lebih lanjut mengenai pembuat { -brand-name-firefox } <a href="{ $url2 }">di sini.</a>
