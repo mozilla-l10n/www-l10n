@@ -60,6 +60,7 @@ newsletters-please-select-country = Bitte wählen ein Land oder eine Region
 # Form field error message
 newsletters-please-select-language = Bitte wähle eine Sprache
 
+
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
 
