@@ -18,7 +18,7 @@ not-found-page-learn-about-mozilla-the-non = { -brand-name-firefox } के प�
 not-found-page-download-the-firefox-browser = अपने मोबाइल डिवाइस या डेस्कटॉप के लिए { -brand-name-firefox } ब्राउज़र <a href={ $download }>डाउनलोड</a> करें
 
 # Variables:
-#   $donate (url) - link to https://foundation.mozilla.org/?form=donate-404
+#   $donate (url) - link to https://www.mozillafoundation.org/?form=donate-404
 # Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = { -brand-name-mozilla-foundation } को <a { $donate }>दान दें</a> और इंटरनेट का कंट्रोल विशाल टेक कंपनियों से वापस अपने हाथ में लें।
 not-found-page-donate-to-mozilla-reclaim-from-v2 = { -brand-name-mozilla-foundation } को <a { $donate }>दान दें</a> और इंटरनेट का कंट्रोल विशाल टेक कंपनियों से वापस अपने हाथ में लें।

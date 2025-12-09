@@ -85,7 +85,7 @@ related-questions-ip = संबंधित प्रश्न: क्या { 
 who-owns-firefox = { -brand-name-firefox } का मालिक कौन है?
 
 # Variables:
-# $url (url) - link to https://foundation.mozilla.org
+# $url (url) - link to https://www.mozillafoundation.org
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } को { -brand-name-mozilla-corporation } ने बनाया है, जो कि <a href="{ $url }">{ -brand-name-mozilla-foundation }</a> गैर-लाभ संगठन की मालिकाना हक वाली कंपनी है और { -brand-name-mozilla } घोषणापत्र के सिद्धांतों से संचालित होती है। { -brand-name-firefox } के निर्माता के बारे में अधिक जानें <a href="{ $url2 }">यहाँ।</a>
