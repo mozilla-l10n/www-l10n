@@ -116,9 +116,27 @@ m24-home-topic-ps = Confidențialitate și securitate
 m24-home-headline-you-ai-v2 = Tu, IA și internetul — ce se întâmplă cu adevărat?
 m24-home-shake-to-summarize = „Agită pentru rezumatul” celor mai bune invenții din 2025, potrivit TIME
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } îi urează bun venit lui Raffi Krikorian în funcția de director tehnic
+m24-home-tech-target = Tech Target
+m24-home-mozilla-ai-ceo = CEO-ul { -brand-name-mozilla-ai-v2 } vorbește despre avantajele AI cu sursă deschisă
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Prezentare Thundermail și Thunderbird Pro
+m24-home-introducing-thundermail-and-v2 = Vă prezentăm { -brand-name-thundermail } și { -brand-name-thunderbird-pro }
+m24-home-what-comes-next = Viitorul tehnologiei este o alegere. Alege cu noi.
+m24-home-how-ventures-investee = Cum consolidează Germ Ventures criptarea
+# Obsolete string (expires 2026-03-01)
+m24-home-tech-crunch = Tech Crunch
+m24-home-tech-crunch-v2 = TechCrunch
+m24-home-a-good-moment = „Un moment bun pentru noi”: șeful { -brand-name-firefox } despre browsere cu AI și viitorul webului
 m24-home-the-guardian = The Guardian
+m24-home-interview-take-open = Interviu: Cum ducem sursele deschise în era AI
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = MIT Sloan Review
+m24-home-mit-sloan-management-review = MIT Sloan Management Review
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } finanțează platforma de networking Filament
+m24-home-axios = Axios
+m24-home-mozillas-new-message = Noul mesaj { -brand-name-mozilla }: Suntem singurul browser care nu este susținut de miliardari
+m24-home-fast-company = Fast Company
+m24-home-will-agi-be = Va deveni AGI realitate — și suntem pregătiți?
 m24-home-mozilla = { -brand-name-mozilla }
 
 ## Showcase

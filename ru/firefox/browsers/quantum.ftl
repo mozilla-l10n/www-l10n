@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/quantum/
 
 page-title = Скачать { -brand-name-firefox-quantum }
-page-description = { -brand-name-firefox-quantum } произвел революцию. В 2017 году мы создали новый, молниеносно быстрый браузер, который постоянно совершенствуется. { -brand-name-firefox-quantum } — это { -brand-name-firefox-browser }.
+page-description = { -brand-name-firefox-quantum } произвёл революцию. В 2017 году мы создали новый, молниеносно быстрый браузер, который постоянно совершенствуется. { -brand-name-firefox-quantum } — это { -brand-name-firefox-browser }.
 the-latest-firefox = Последний движок { -brand-name-firefox }: { -brand-name-firefox-quantum }
-firefox-quantum-was = { -brand-name-firefox-quantum } произвел революцию в разработке { -brand-name-firefox }. В 2017 году мы создали новый, молниеносно быстрый браузер, который постоянно совершенствуется. { -brand-name-firefox-quantum } — это { -brand-name-firefox-browser }.
+firefox-quantum-was = { -brand-name-firefox-quantum } произвёл революцию в разработке { -brand-name-firefox }. В 2017 году мы создали новый, молниеносно быстрый браузер, который постоянно совершенствуется. { -brand-name-firefox-quantum } — это { -brand-name-firefox-browser }.
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = Узнайте больше о { -brand-name-firefox-quantum }
 privacy-first = Приватность превыше всего
