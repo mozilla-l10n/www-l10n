@@ -5,6 +5,9 @@
 ### URL: https://www-dev.allizom.org/firefox/146.0/whatsnew/
 
 whatsnew-donate-whatsnew = Apa Yang Baru
+whatsnew-donate-donate-to = Donasi ke { -brand-name-mozilla-foundation }, organisasi nirlaba di balik { -brand-name-firefox }
+whatsnew-donate-you-chose = Anda memilih { -brand-name-firefox } karena Anda tahu bahwa internet seharusnya melayani manusia, bukan kekuasaan. Mari melangkah lebih jauh.
+whatsnew-donate-you-can-help = Anda bisa membantu mewujudkan janji internet yang sebenarnya. Beri dukungan di akhir tahun untuk { -brand-name-mozilla-foundation } sebelum 31 Desember dan ikut mendorong teknologi yang mengutamakan kepentingan manusia.
 
 # link to https://mozillafoundation.org/ with donation form modal open
 whatsnew-donate = Donasi
