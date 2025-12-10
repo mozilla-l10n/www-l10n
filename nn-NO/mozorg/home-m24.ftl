@@ -95,6 +95,7 @@ m24-home-alt-transformation = Byt signal med Mark Surman og MBS
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = Sky med rosa bakgrunn
 m24-home-any-agent = Alla agentar
+m24-home-stop-wiring-tools = Slutt å kople saman verktøy og passe på skjøre automatiseringar. Med { -brand-name-mozilla-ai-v2 } Agent Platform beskriv du målet ditt, og vi genererer adaptive AI-agentar som fungerer med verktøya og prosessane dine.
 
 ## Media Springboard
 
