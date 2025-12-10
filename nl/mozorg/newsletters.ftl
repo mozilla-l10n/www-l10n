@@ -45,6 +45,7 @@ newsletters-not-all-subscriptions-are = Niet alle abonnementen worden in alle ge
 newsletters-please-select-country = Selecteer een land of regio
 # Form field error message
 newsletters-please-select-language = Selecteer een taal
+newsletters-it-may-take = Het kan tot een uur duren voordat gegevens over nieuwe abonnementen op deze pagina worden weergegeven.
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
