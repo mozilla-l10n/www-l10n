@@ -9,7 +9,7 @@ whatsnew-donate-donate-to = { -brand-name-firefox } を提供する非営利団�
 whatsnew-donate-you-chose = { -brand-name-firefox } を選んでくださったあなたは、インターネットが権力ではなく人々のためにあることを理解しています。さらに発展させましょう。
 whatsnew-donate-you-can-help = インターネットの約束を守るために、ご寄付ください。12 月 31 日までに { -brand-name-mozilla-foundation } に年末のご寄付を行い、人々が第一のテクノロジーをご支援ください。
 
-# link to https://mozillafoundation.org/ with donation form modal open
+# link to https://www.mozillafoundation.org/ with donation form modal open
 whatsnew-donate = 寄付する
 
 # link to https://www.firefox.com/firefox/notes/

@@ -47,7 +47,7 @@ misinformation-social-media-clean-desc = Jejaring sosial tahu banyak tentang And
 misinformation-why-trust-firefox = Mengapa memercayai { -brand-name-firefox }?
 
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = Karena kami mengutamakan pengguna. Faktanya, kami didukung oleh <a href="{ $foundation }">organisasi nirlaba</a>. Sejak hari pertama, sudah menjadi misi kami untuk melindungi internet dan semua pengguna di dalamnya.
 
 misinformation-learn-more-about-our-mission = Pelajari lebih lanjut mengenai misi kami

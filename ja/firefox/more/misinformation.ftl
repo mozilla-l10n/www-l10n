@@ -47,7 +47,7 @@ misinformation-social-media-clean-desc = ソーシャルネットワークは、
 misinformation-why-trust-firefox = { -brand-name-firefox } が信頼される理由
 
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = 当チームでは、ユーザーの方々が最優先です。事実、当チームは<a href="{ $foundation }">非営利団体</a>によって運営されています。インターネット、そしてインターネットのユーザーひとりひとりを保護することが、創設当時から当チームの使命であり続けています。
 
 misinformation-learn-more-about-our-mission = 当チームのミッションの詳細

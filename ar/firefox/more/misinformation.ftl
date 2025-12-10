@@ -47,7 +47,7 @@ misinformation-social-media-clean-desc = الشبكات الاجتماعية ت�
 misinformation-why-trust-firefox = لماذا نثق في { -brand-name-firefox }؟
 
 # Variables:
-#   $foundation (url) - link to https://foundation.mozilla.org/
+#   $foundation (url) - link to https://www.mozillafoundation.org/
 misinformation-because-we-put-people-first = لأننا نضع المُستخدمين أولاً وقبل كل شيء. وفي الحقيقة، نحن مدعومون من قِبل مؤسسة <a href="{ $foundation }">غير ربحية</a>. ومنذ اليوم الأول، كانت مُهمتنا حماية الإنترنت وكل من يستخدمها.
 
 misinformation-learn-more-about-our-mission = معرفة المزيد عن مهمتنا

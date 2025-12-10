@@ -9,7 +9,7 @@ whatsnew-donate-donate-to = Donasi ke { -brand-name-mozilla-foundation }, organi
 whatsnew-donate-you-chose = Anda memilih { -brand-name-firefox } karena Anda tahu bahwa internet seharusnya melayani manusia, bukan kekuasaan. Mari melangkah lebih jauh.
 whatsnew-donate-you-can-help = Anda bisa membantu mewujudkan janji internet yang sebenarnya. Beri dukungan di akhir tahun untuk { -brand-name-mozilla-foundation } sebelum 31 Desember dan ikut mendorong teknologi yang mengutamakan kepentingan manusia.
 
-# link to https://mozillafoundation.org/ with donation form modal open
+# link to https://www.mozillafoundation.org/ with donation form modal open
 whatsnew-donate = Donasi
 
 # link to https://www.firefox.com/firefox/notes/

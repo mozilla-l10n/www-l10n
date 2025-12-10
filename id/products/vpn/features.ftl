@@ -85,7 +85,7 @@ vpn-features-weve-been-audited = Kami telah diaudit oleh Cure53, sebuah perusaha
 vpn-features-people-over-profits = Mengutamakan pengguna dibanding laba
 
 # Variables
-#   $mofo (url) - link to https://foundation.mozilla.org/
+#   $mofo (url) - link to https://www.mozillafoundation.org/
 # Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = Kami didukung oleh <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, sebuah organisasi nirlaba yang berjuang agar internet tetap terbuka dan sehat bagi semua orang.
 vpn-features-were-backed-by-mofo-v2 = Kami didukung oleh <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, sebuah organisasi nirlaba yang berjuang agar internet tetap terbuka dan sehat bagi semua orang.
