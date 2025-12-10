@@ -93,6 +93,8 @@ m24-home-topic-news = Aktualności
 m24-home-topic-ai = Sztuczna inteligencja
 m24-home-topic-ps = Prywatność i bezpieczeństwo
 m24-home-headline-you-ai-v2 = Ty, AI i internet — co się naprawdę dzieje?
+m24-home-mozilla-ai-ceo = Dyrektor generalny { -brand-name-mozilla-ai-v2 } mówi o zaletach otwartoźródłowej sztucznej inteligencji.
+m24-home-mozilla = { -brand-name-mozilla }
 
 ## Showcase
 
