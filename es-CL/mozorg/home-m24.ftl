@@ -88,19 +88,23 @@ m24-home-got-an-earlystage = ¿Tienes una startup en etapa inicial? Presenta tu 
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Dona tu voz para hacer que la tecnología del habla sea más inclusiva y accesible para todos.
 m24-home-donate-your-voice = Dona tu voz
+m24-home-our-transformation = Nuestra transformación
 
 ## Media Springboard
 
 m24-home-type = Tipo
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Autor
+m24-home-author-v2 = Autor(es)
 m24-home-topic = Tema
 m24-home-intro = Intro
 m24-home-tag-article = Artículo
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Video
 m24-home-topic-news = Noticias
+m24-home-topic-products = Productos
 m24-home-topic-ai = Inteligencia artificial
+m24-home-topic-open-source-ai = IA de código abierto
 m24-home-topic-ps = Privacidad y seguridad
 m24-home-headline-you-ai-v2 = Usted, la IA e Internet: ¿qué está pasando realmente?
 
