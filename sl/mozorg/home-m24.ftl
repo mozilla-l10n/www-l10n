@@ -63,6 +63,8 @@ m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+# Used as an accessible text alternative for an image
+m24-home-alt-mozfest = Velika skupina ljudi, zbrana v živahnem notranjem prireditvenem prostoru; pogled od zgoraj.
 m24-home-mozfest-join-us = Pridružite se nam na { -brand-name-mozilla-festival }u
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Logotip { -brand-name-lumigator }ja.
@@ -98,6 +100,7 @@ m24-home-topic-products = Izdelki
 m24-home-topic-ai = Umetna inteligenca
 m24-home-topic-ps = Zasebnost in varnost
 m24-home-headline-you-ai-v2 = Vi, umetna inteligenca in internet – kaj se pravzaprav dogaja?
+m24-home-mozilla = { -brand-name-mozilla }
 
 ## Showcase
 
@@ -121,3 +124,7 @@ m24-home-alt-irl-host = Bridget Todd, gostiteljica podkasta IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Naš večkrat nagrajeni podkast predstavlja gonilce sprememb, ki si prizadevajo za varnejši internet in bolj zaupanja vredno UI.
 m24-home-irl-listen-now = Poslušajte zdaj
+
+## Outside the Fox
+
+m24-home-fox-listen-now = Poslušajte zdaj
