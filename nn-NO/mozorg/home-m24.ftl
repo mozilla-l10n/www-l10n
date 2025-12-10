@@ -126,6 +126,7 @@ m24-home-how-ventures-investee = Korleis Ventures Investee Germ syrkar krypterin
 # Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
 m24-home-tech-crunch-v2 = TechCrunch
+m24-home-a-good-moment = «Ein god augneblink for oss»: { -brand-name-firefox } fokuserer på AI-nettlesarar og kva som skjer vidare for nettet.
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = Intervju: Å ta open kjeldekode inn i AI-æraen
 # Obsolete string (expires 2026-03-20)
@@ -140,6 +141,7 @@ m24-home-conversation-charting-a = Samtale: Å kartleggje ei framtid for tilgang
 m24-home-tech-policy-press = Tech Policy Press
 m24-home-open-by-design = Open By Design: Korleis nasjonar kan konkurrere i AI-alderen
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } stakar ut ein ny kurs med ei vending mot lønnsemd
 m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
@@ -180,4 +182,5 @@ m24-home-irl-listen-now = Lytt no
 ## Outside the Fox
 
 m24-home-outside-the-fox = Outside the Fox
+m24-home-this-is-where = Her utforskar vi kva som skjer på nettet og kvifor det er viktig, frå kvifor dårleg innhald tek over internett til viral internettkultur.
 m24-home-fox-listen-now = Lytt no
