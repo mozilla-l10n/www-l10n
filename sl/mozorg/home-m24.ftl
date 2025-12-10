@@ -98,9 +98,22 @@ m24-home-tag-video = Video
 m24-home-topic-news = Novice
 m24-home-topic-products = Izdelki
 m24-home-topic-ai = Umetna inteligenca
+m24-home-topic-open-source-ai = Odprtokodna UI
 m24-home-topic-ps = Zasebnost in varnost
 m24-home-headline-you-ai-v2 = Vi, umetna inteligenca in internet – kaj se pravzaprav dogaja?
+# Obsolete string (expires 2026-03-01)
+m24-home-introducing-thundermail-and = Predstavljamo Thundermail in Thunderbird Pro
+m24-home-introducing-thundermail-and-v2 = Predstavljamo { -brand-name-thundermail } in { -brand-name-thunderbird-pro }
+# Obsolete string (expires 2026-03-01)
+m24-home-tech-crunch = Tech Crunch
+m24-home-tech-crunch-v2 = TechCrunch
+m24-home-the-guardian = The Guardian
+m24-home-axios = Axios
+m24-home-mozillas-new-message = { -brand-name-mozilla(sklon: "dajalnik") }no novo sporočilo: Smo edini brskalnik, za katerim ne stojijo milijarderji
+m24-home-fast-company = Fast Company
+m24-home-will-agi-be = Bo splošna umetna inteligenca (AGI) nova resničnost – in ali smo pripravljeni nanjo?
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
