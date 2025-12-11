@@ -90,6 +90,7 @@ m24-home-tag-article = Artykuł
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Wideo
 m24-home-topic-news = Aktualności
+m24-home-topic-products = Produkty
 m24-home-topic-ai = Sztuczna inteligencja
 m24-home-topic-ps = Prywatność i bezpieczeństwo
 m24-home-headline-you-ai-v2 = Ty, AI i internet — co się naprawdę dzieje?
