@@ -9,8 +9,10 @@
 privacy-firefox-basics = Conceptos básicos de privacidad
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Tenés el control
+privacy-firefox-youre-in-control-v2 = Tenés el control de tus datos
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = La privacidad no es solo una configuración, es tu derecho. La nota de privacidad de { -brand-name-firefox } se basa en la claridad, el control y la responsabilidad predeterminada. Creemos que siempre deberías estar a cargo de lo que sucede con tus datos. Podés contar con nosotros para explicarte claramente qué hace { -brand-name-firefox } de forma predeterminada y ajustar la configuración para que podás navegar como quieras.
+privacy-firefox-privacy-isnt-just-v2 = Este es el panorama general: { -brand-name-firefox } está creado con privacidad y protección de forma predeterminada. No sabemos mucho sobre vos. Lo poco que sabemos, nunca lo vendemos. Y a diferencia de otros navegadores, le damos la opción de desactivar las cosas que le molestan. El Aviso de privacidad de { -brand-name-firefox } se basa en la claridad, el control y los valores predeterminados responsables. Podés contar con nosotros para explicarte claramente lo que hace { -brand-name-firefox } de forma predeterminada y ajustar la configuración para que podás navegar de la forma que quieras.
 privacy-firefox-read-our-privacy = Leer nuestra nota de privacidad
 privacy-firefox-keeping-you-informed = Te mantenemos informado en cada paso del camino
 privacy-firefox-we-believe-you = Creemos que deberías saber cómo se usan tus datos y por qué. { -brand-name-firefox } está diseñado pensando en la privacidad y la transparencia en cada paso.
@@ -20,8 +22,12 @@ privacy-firefox-transparency-first = La transparencia primero
 privacy-firefox-were-clear-about = Somos claros sobre qué datos usamos y por qué. Sin sorpresas. La <a { $attrs }>nota de privacidad de { -brand-name-firefox }</a> detalla esto para vos.
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Cómo usamos los datos
+privacy-firefox-how-we-use-v2 = Privado de manera predeterminada
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Usamos los datos para que { -brand-name-firefox } funcione sin problemas, mejoremos las funciones y ayudemos a mantener nuestro negocio, todo respetando tu privacidad. Algunas funciones opcionales pueden requerir datos adicionales para funcionar, y facilitamos la administración de tus preferencias.
+# Variables:
+#   $attrs (string) - link to https://firefox-source-docs.mozilla.org/contributing/data-collection.html#browsing-data
+privacy-firefox-we-use-data-v2 = A diferencia de muchos otros navegadores donde los datos confidenciales del usuario se recopilan y almacenan de forma rutinaria, { -brand-name-firefox } se basa en el <a { $attrs }>principio</a> de que ni siquiera { -brand-name-mozilla } debe saber qué sitios web visitás o qué hacés allí.
 privacy-firefox-builtin-control = Control integrado
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } te brinda herramientas simples pero poderosas para administrar tus datos de la forma que quieras. Podés ajustar tu configuración, separar el trabajo de tu vida personal o borrar el historial no deseado con solo unos pocos clics.
 privacy-firefox-always-protected = Siempre protegido

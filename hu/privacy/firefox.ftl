@@ -9,8 +9,10 @@
 privacy-firefox-basics = Adatvédelmi alapok
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Ön irányít
+privacy-firefox-youre-in-control-v2 = Ön irányítja az adatait
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Az adatvédelem nem csak egy beállítás – ez az Ön joga. A { -brand-name-firefox } Adatvédelmi nyilatkozat az egyértelműségre, az irányításra és a felelősségteljes alapértelmezésekre épül. Úgy gondoljuk, hogy mindig Önnek kell irányítania, hogy mi történik az adataival. Számíthat ránk abban, hogy egyértelműen elmagyarázzuk, mit csinál alapértelmezés szerint a { -brand-name-firefox }, és úgy módosítjuk a beállításait, hogy úgy böngésszen, ahogy szeretne.
+privacy-firefox-privacy-isnt-just-v2 = Íme a nagy kép: a { -brand-name-firefox } az adatvédelem és az adatvédelem alapbeállításával készül. Annyit nem tudunk Önről. Amit keveset tudunk, azt sosem adjuk el. Más böngészőkkel ellentétben, mi lehetőséget adunk arra, hogy kikapcsolja azokat, amelyek idegesítik. A { -brand-name-firefox } Adatvédelmi nyilatkozat az egyértelműségre, az ellenőrzésre és a felelősségteljes alapértelmezésekre épül. Számíthat ránk, hogy egyértelműen elmagyarázzuk, hogy a { -brand-name-firefox } mit csinál alapértelmezés szerint, és úgy módosítjuk a beállításait, ahogyan szeretne.
 privacy-firefox-read-our-privacy = Adatvédelmi nyilatkozat elolvasása
 privacy-firefox-keeping-you-informed = Értesítjük minden lépésről
 privacy-firefox-we-believe-you = Úgy gondoljuk, hogy tudnia kell, hogy az adatait hogyan és miért használják fel. A { -brand-name-firefox } az adatvédelmet és az átláthatóságot szem előtt tartva készül.
@@ -20,8 +22,12 @@ privacy-firefox-transparency-first = Átláthatóság mindenekelőtt
 privacy-firefox-were-clear-about = Egyértelműek vagyunk abban, hogy milyen adatokat használunk és miért. Nincs meglepetés. A <a { $attrs }>{ -brand-name-firefox } Adatvédelmi Nyilatkozat</a> részletezi ezt.
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Hogyan használjuk az adatokat
+privacy-firefox-how-we-use-v2 = Alapértelmezés szerint privát
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Az adatokat a { -brand-name-firefox } zökkenőmentes működéséhez, a funkciók fejlesztéséhez és az üzletünk fenntartásához használjuk – mindezt az Ön adatainak tiszteletben tartásával. Néhány választható funkció működéséhez további adatokra lehet szükség, és megkönnyítjük a beállítások kezelését.
+# Variables:
+#   $attrs (string) - link to https://firefox-source-docs.mozilla.org/contributing/data-collection.html#browsing-data
+privacy-firefox-we-use-data-v2 = Sok más böngészővel ellentétben, ahol rutinszerűen gyűjtenek és tárolnak érzékeny felhasználói adatokat, a { -brand-name-firefox } arra a <a { $attrs }>elvre</a> épül, hogy még a { -brand-name-mozilla } sem tudnia kell, hogy mely weboldalakat keresi fel, és ott mit csinál.
 privacy-firefox-builtin-control = Beépített irányítás
 privacy-firefox-firefox-gives-you = A { -brand-name-firefox } egyszerű, mégis hatékony eszközöket biztosít, hogy úgy kezelje az adatait, ahogy szeretné. Néhány kattintással finomhangolja a beállításait, elkülönítheti a munkáját a magánéletétől, vagy törölheti az előzményeket.
 privacy-firefox-always-protected = Mindig védve
