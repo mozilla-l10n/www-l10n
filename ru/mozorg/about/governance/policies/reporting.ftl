@@ -17,7 +17,6 @@ reporting-how-to-give-a-report = Как составить жалобу
 reporting-if-you-believe-someone = Если вы считаете, что кто-то находится в опасности, позвоните по местному номеру службы экстренной помощи.
 reporting-if-you-have-a-report-by = Если у вас есть заявление <strong>от участника <em>и</em> об участнике</strong> (например, жалоба составлена <strong>одним</strong> участником <strong>о другом</strong> участнике), то вам необходимо обратиться с вашей жалобой на <a href="{ $community_hotline }">горячую линию по вопросам соблюдения Правил поведения в сообществах</a>.
 reporting-if-you-have-a-report-by-email = Если у вас есть заявление <strong>от участника <em>и</em> об участнике</strong> (например, жалоба составлена <strong>одним</strong> участником <strong>о другом</strong> участнике), то вам необходимо обратиться с вашей жалобой по адресу <a href="{ $mailto_report }">cpg-report@mozilla.com</a>.
-reporting-if-you-have-a-report-involving = Если у вас есть заявление, <strong>которое касается сотрудника, подрядчика или поставщика</strong> (например, заявление <strong>подано</strong> сотрудником или <strong>касается</strong> сотрудника), тогда вам нужно обратиться на <a href="{ $employee_hotline }">горячую линию для сотрудников { -brand-name-mozilla }</a>.
 reporting-put-another-way = Другие способы…
 reporting-by = От
 reporting-employee = Сотрудник

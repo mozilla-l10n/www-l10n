@@ -17,7 +17,6 @@ reporting-how-to-give-a-report = 如何提出檢舉
 reporting-if-you-believe-someone = 如果你認為有人陷入人身危險，請撥打您本地的緊急電話。
 reporting-if-you-have-a-report-by = 如果您的檢舉是<strong>來自<em>並</em>關於</strong>一位貢獻者（例如<strong>由</strong>一位貢獻者<strong>對</strong>另一位貢獻者提出檢舉），那麼您應該撥打<a href="{ $community_hotline }">社群參與準則專線</a>提出檢舉。
 reporting-if-you-have-a-report-by-email = 如果您的檢舉是<strong>來自<em>並</em>關於</strong>一位貢獻者（例如<strong>由</strong>一位貢獻者<strong>對</strong>另一位貢獻者提出檢舉），那麼您應該來信 <a href="{ $mailto_report }">cpg-report@mozilla.com</a> 提出檢舉。
-reporting-if-you-have-a-report-involving = 如果您的檢舉<strong>涉及員工、承包商或廠商</strong>（例如，檢舉是<strong>由</strong>員工提出或<strong>關於</strong>一名員工），那麼您應該撥打 <a href="{ $employee_hotline }">{ -brand-name-mozilla } 員工專線</a>提出檢舉。
 reporting-put-another-way = 換言之…
 reporting-by = 檢舉者
 reporting-employee = 員工

@@ -17,7 +17,6 @@ reporting-how-to-give-a-report = Jak przekazać zgłoszenie
 reporting-if-you-believe-someone = Jeśli uważasz, że ktoś jest w fizycznym niebezpieczeństwie, zadzwoń pod lokalny numer alarmowy.
 reporting-if-you-have-a-report-by = Jeśli masz zgłoszenie <strong>od <em>i</em> dotyczące</strong>uczestnika (na przykład zgłoszenie zostało przekazane <strong>przez</strong> uczestnika i <strong>dotyczy</strong> innego uczestnika), musisz dokonać zgłoszenia za pośrednictwem <a href="{ $community_hotline }">linii pomocy dla Wytycznych dotyczących uczestnictwa w społeczności</a>.
 reporting-if-you-have-a-report-by-email = Jeśli masz zgłoszenie <strong>od <em>i</em> dotyczące</strong>uczestnika (na przykład zgłoszenie zostało przekazane <strong>przez</strong> uczestnika i <strong>dotyczy</strong> innego uczestnika), musisz dokonać zgłoszenia pod adresem <a href="{ $mailto_report }">cpg-report@mozilla.com</a>.
-reporting-if-you-have-a-report-involving = Jeśli masz zgłoszenie <strong>dotyczące pracownika, podwykonawcy lub dostawcy</strong> (na przykład zgłoszenie zostało przekazane <strong>przez</strong> pracownika lub <strong>dotyczy</strong> pracownika), musisz dokonać zgłoszenia za pośrednictwem <a href="{ $employee_hotline }">linii pomocy dla pracowników { -brand-name-mozilla(case: "gen") }</a>.
 reporting-put-another-way = Ujmując to w inny sposób…
 reporting-by = Od
 reporting-employee = Pracownika

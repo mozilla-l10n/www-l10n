@@ -17,7 +17,6 @@ reporting-how-to-give-a-report = Como denunciar
 reporting-if-you-believe-someone = Se você acredita que alguém corre perigo físico, ligue para o número de emergência local.
 reporting-if-you-have-a-report-by = Se você tem uma denúncia <strong>de <em>e</em> sobre</strong> um colaborador (por exemplo, a denúncia é feita <strong>de</strong> um colaborador <strong>sobre</strong> outro colaborador), você deve fazer a denúncia na <a href="{ $community_hotline }">linha direta das diretrizes de participação na comunidade</a>.
 reporting-if-you-have-a-report-by-email = Se você tem uma denúncia <strong>de <em>e</em> sobre</strong> um colaborador (por exemplo, a denúncia é feita <strong>de</strong> um colaborador <strong>sobre</strong> outro colaborador), você deve fazer a denúncia em <a href="{ $mailto_report }">cpg-report@mozilla.com</a>.
-reporting-if-you-have-a-report-involving = Se você tem uma denúncia <strong>envolvendo um funcionário, prestador de serviços ou fornecedor</strong> (por exemplo, o relatório é feito <strong>de</strong> ou <strong>sobre</strong> um funcionário), você deve denunciar na <a href="{ $employee_hotline }">linha direta de funcionários da { -brand-name-mozilla }</a>.
 reporting-put-another-way = Em outras palavras…
 reporting-by = Por
 reporting-employee = Funcionário
