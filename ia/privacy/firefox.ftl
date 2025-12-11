@@ -20,6 +20,7 @@ privacy-firefox-transparency-first = Transparentia prime
 privacy-firefox-were-clear-about = Nos es clar re que datos nos usa e perque. Necun surprisa. Le <a { $attrs }>Aviso de confidentialitate de  { -brand-name-firefox }</a> lo detalia pro te.
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Como nos usa datos
+privacy-firefox-how-we-use-v2 = Private de ordinario
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Nos usa datos pro mantener { -brand-name-firefox } functionante lisiemente, meliorar functiones e adjutar a sustener nostre commercio: toto respectante tu confidentialitate. Alcun functiones optional pote requirer altere datos pro functionar, e render facile pro nos gerer tu preferentias.
 privacy-firefox-builtin-control = Controlo integrate
