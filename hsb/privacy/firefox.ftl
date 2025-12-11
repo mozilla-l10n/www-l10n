@@ -12,6 +12,7 @@ privacy-firefox-youre-in-control = Maće kontrolu
 privacy-firefox-youre-in-control-v2 = Kontrolujeće swoje daty
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Priwatnosć jenož nastajenje njeje – je waše prawo. Zdźělenka priwatnosće { -brand-name-firefox } so na jasnosći, kontroli a zamołwite standardy zepěra. Myslimy sej, zo wy měł přeco wo tym rozsudźić, štož so z wašimi datami stawa. Móžeće z nami ličić, zo wam jasnje wujasnjamy, štož { -brand-name-firefox } po standardźe čini a přiměrjamy waše nastajenja, zo byšće móhł tak přehladować kaž chceće.
+privacy-firefox-privacy-isnt-just-v2 = Tu je wulki wobraz: { -brand-name-firefox } so z priwatnosću a škitom jako standard wuwiwa. Njewěmy wjele wo was. Štož wěmy, njepředamy. A na rozdźěl wot druhich wobhladowakow, přewostajamy wam wólbu, maćiznu znjemóžnić, kotraž was hněwa, Zdźělenja priwatnosće { -brand-name-firefox } so na jasnosć, kontrolu a zamołwite standardy zepěra. Móžeće z nami ličić, zo byšće jasnje wujasnił, štož { -brand-name-firefox } po standardźe čini a swoje nastajenja přiměrić, zo byšće móhł na swoje wašnje přehladować.
 privacy-firefox-read-our-privacy = Čitajće našu zdźělenku priwatnosće
 privacy-firefox-keeping-you-informed = Wostańće na běžnym, na kóždym kroku puća
 privacy-firefox-we-believe-you = Myslimy sej, zo wy měł wědźeć, kak so waše daty wužiwaja a čehodla. { -brand-name-firefox } so při kóždym kroku dźiwajo na priwatnosć a transparencu wuwiwa.

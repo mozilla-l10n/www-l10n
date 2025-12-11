@@ -9,6 +9,7 @@
 privacy-firefox-basics = Zakłady priwatnosći
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Maśo kontrolu
+privacy-firefox-youre-in-control-v2 = Kontrolěrujośo swóje daty
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Priwatnosć njejo jano nastajenje – jo wašo pšawo. Powěźeńka priwatnosći { -brand-name-firefox } se na jasnosći, kontroli a zagronite standardy zepěra. Myslimy se, až wy měł pśecej wó tom rozsuźiś, což se z wašymi datami stawa. Móžośo z nami licyś, až wam jasnje wujasnjujomy, což { -brand-name-firefox } pó standarźe cyni a pśiměrjujomy waše nastajenja, aby wy mógał tak pśeglědowaś ako cośo.
 privacy-firefox-read-our-privacy = Cytajśo našu powěźeńku priwatnosći
@@ -20,6 +21,7 @@ privacy-firefox-transparency-first = Transparenca ako prědna
 privacy-firefox-were-clear-about = Jo nam jasnje, kótare daty wužywamy a cogodla. Žedne pśełapjenja. Cytajśo drobnostki w <a { $attrs }>powěźeńce priwatnosći { -brand-name-firefox }</a>.
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Kak daty wužywamy
+privacy-firefox-how-we-use-v2 = Pó standarźe priwatny
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Wužywamy daty, aby { -brand-name-firefox } bźez problemow wuwjadli, funkcije pólěpšyli a pomagali, naš wobchod zachowali – to wšykno, mjaztym až wašu priwatnosć respektěrujomy. Někotare opcionalne funkcije snaź pśidatne daty trjebaju, aby funkcioněrowali, a my to wólažcujomy, aby waše nastajenja zastojali.
 privacy-firefox-builtin-control = Zatwarjona kontrola
