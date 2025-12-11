@@ -19,6 +19,10 @@ features-adblocker-ghostery-is-another-great = <a { $attrs }>«Ghostery»</a> б
 #   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
 features-adblocker-these-extensions-work-beautifully = Ин васеъшавиҳо ҳам дар <a { $attrs1 }>браузери «{ -brand-name-firefox }» барои мизи корӣ</a> ва ҳам дар <a { $attrs2 }>браузер барои «Android»</a> хуб кор мекунанд.
 features-adblocker-create-a-tracker-free = Ба воситаи абзори «Манъкунии муҳтаво» фазои озодро бе ягон восоити пайгирӣ эҷод намоед
+# Variables:
+#   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
+#   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
+features-adblocker-on-firefox-you-can-use = Дар браузери «{ -brand-name-firefox }» шумо метавонед аз танзимоти <a href="{ $privacy }">«Махфият»</a> ё <a href="{ $blocking }">«Манъкунии муҳтаво»</a> истифода баред, то тавонед нисбат ба воситаҳои пайгирии рекламавие, ки ба шумо рекламаро пешниҳод мекунанд, назорати боз ҳам бештарро татбиқ намоед.
 features-adblocker-choose-your-level-of-protection = Сатҳи муҳофизати худро интихоб кунед
 features-adblocker-go-easy-with-standard = Тамошобинии тинҷу осуда дар реҷаи «Стандартӣ»
 features-adblocker-get-tough-with-strict = Тамошобинии тобовар дар реҷаи «Ҷиддӣ»

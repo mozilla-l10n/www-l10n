@@ -82,6 +82,7 @@ m24-home-got-an-earlystage = Оё шумо як стартап дар марҳи
 m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Овози худро ҳадя кунед, то технологияи нутқ фарогир ва барои ҳамаи инсонҳо боз ҳам дастрас ва қобили истифода гардад.
 m24-home-donate-your-voice = Овози худро пешкаш кунед
+m24-home-our-transformation = Табдилдиҳии фаъолияти мо
 
 ## Media Springboard
 
