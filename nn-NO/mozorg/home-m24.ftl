@@ -164,6 +164,7 @@ m24-home-read-the-report = Les rapporten
 ## Data Collective
 
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Datakollektiv
+m24-home-mozilla-create-curate-control = Skape. Kuratere. Kontrollere.
 m24-home-join-mozilla-data = Bli med i { -brand-name-mozilla } Datakollektiv
 
 ## Issues
