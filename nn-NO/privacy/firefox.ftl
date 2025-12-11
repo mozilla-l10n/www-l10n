@@ -9,6 +9,7 @@
 privacy-firefox-basics = Grunnleggjande om personvern
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Du har kontrollen
+privacy-firefox-youre-in-control-v2 = Du har kontroll over dine data
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Personvern er ikkje berre ei innstilling – det er din rett. Personvernfråsegna for { -brand-name-firefox } er bygd på klarheit, kontroll og ansvarlege standardinnstillingar. Vi meiner at du alltid bør ha kontroll over kva som skjer med dataa dine. Du kan stole på at vi tydeleg forklarar kva { -brand-name-firefox } gjer som standard og justerer innstillingane dine slik at du kan surfe slik du vil.
 privacy-firefox-read-our-privacy = Les personvernfråsegna vår
@@ -20,6 +21,7 @@ privacy-firefox-transparency-first = Openheit først
 privacy-firefox-were-clear-about = Vi er tydelege på kva data vi brukar og kvifor. Ingen overraskingar. <a { $attrs }>{ -brand-name-firefox } personvernfråsegna</a> beskriv dette for deg.
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Korleis vi brukar data
+privacy-firefox-how-we-use-v2 = Privat som standard
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Vi brukar data for å halde { -brand-name-firefox } i gang utan problem, forbetre funksjonar og bidra til å halde oppe verksemda vår — alt samtidig som vi respekterer personvernet ditt. Nokre valfrie funksjonar kan krevje fleire data for å fungere, og vi gjer det enkelt å administrere innstillingane dine.
 privacy-firefox-builtin-control = Innebygd kontroll
