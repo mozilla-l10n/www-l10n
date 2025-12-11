@@ -147,6 +147,7 @@ m24-home-join-mozilla-data = Συμμετοχή στο { -brand-name-mozilla } D
 ## Issues
 
 m24-home-explore-issues-shaping = Εξερευνήστε τα θέματα που διαμορφώνουν το μέλλον του διαδικτύου
+m24-home-the-validation-machines = The Validation Machines
 # Used as an accessible text alternative for an image
 m24-home-alt-validation = Ένα μικροσκοπικό άτομο που κοιτάζει ένα μεγάλο πλήκτρο πληκτρολογίου και μια υπνωτιστική οθόνη υπολογιστή
 # Used as an accessible text alternative for an image
