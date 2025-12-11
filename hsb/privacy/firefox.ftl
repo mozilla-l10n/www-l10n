@@ -24,6 +24,9 @@ privacy-firefox-how-we-use = Kak daty wužiwamy
 privacy-firefox-how-we-use-v2 = Po standardźe priwatny
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Wužiwamy daty, zo bychmy { -brand-name-firefox } bjez problemow wuwjedli, funkcije polěpšili a pomhali, naš wobchod zachowali – to wšitko, mjeztym zo wašu priwatnosć respektujemy. Někotre opcionalne funkcije snano přidatne daty trjebaja, zo bychu fungowali, a my to wosnadnjamy, zo bychmy waše nastajenja rjadowali.
+# Variables:
+#   $attrs (string) - link to https://firefox-source-docs.mozilla.org/contributing/data-collection.html#browsing-data
+privacy-firefox-we-use-data-v2 = Na rozdźěl wot wjele druhich wobhladowakow, hdźež so sensibelne wužiwarske daty prawidłownje hromadźa a składuja, twari { -brand-name-firefox } na <a { $attrs }>princip</a>, kotryž samo { -brand-name-mozilla } njeměł wědźeć, kotre websydła wopytujeće abo štož tam činiće.
 privacy-firefox-builtin-control = Zatwarjena kontrola
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } wam jednore, ale mócne nastroje dawa, zo bychu waše daty na te wašnje rjadowali, kotrež chceće. Móžeće swoje nastajenja wothłosować, słužbne wot swojeho wosobinskeho žiwjenja dźělili abo njewitanu historiju z jenož mało kliknjenjemi zhašeli.
 privacy-firefox-always-protected = Přeco škitany
