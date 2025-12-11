@@ -16,7 +16,7 @@ what-is-firefox = Что такое { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser-the-only = { -brand-name-firefox-browser(case: "nominative_uppercase") }, единственный крупный браузер, поддерживаемый некоммерческой организацией, помогает вам защищать вашу личную информацию. Узнайте больше о <a href="{ $url }">{ -brand-name-firefox-browsers(case: "prepositional") }</a> и <a href="{ $url2 }">других продуктах</a>.
-how-do-i = Как мне загрузить { -brand-name-firefox-browser }?
+how-do-i = Как мне скачать { -brand-name-firefox-browser }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -67,7 +67,7 @@ firefoxs-default-search = { -brand-name-google } — поисковая сист
 does-firefox-have = Есть ли в { -brand-name-firefox } встроенный VPN?
 # Variables:
 # $url (url) - link to https://www.mozilla.org/products/vpn/
-firefox-does-not-v2 = { -brand-name-firefox } не имеет встроенного VPN (виртуальной частной сети), но { -brand-name-mozilla } создала продукт под названием <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>, который можно использовать в дополнение к приватному { -brand-name-firefox-browser }, защищающего ваше соединение по WiFi, а также ваш IP-адрес.
+firefox-does-not-v2 = { -brand-name-firefox } не имеет встроенного VPN (виртуальной частной сети), но { -brand-name-mozilla } создала продукт под названием <a href="{ $url }">{ -brand-name-mozilla-vpn }</a>, который можно использовать в дополнение к приватному { -brand-name-firefox-browser(case: "dative") }, защищающего ваше соединение по WiFi, а также ваш IP-адрес.
 related-questions-ip = Связанные вопросы: скрывает ли { -brand-name-firefox } мой IP-адрес?
 who-owns-firefox = Кому принадлежит { -brand-name-firefox }?
 
@@ -76,4 +76,4 @@ who-owns-firefox = Кому принадлежит { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/foundation/moco/
 
 firefox-is-made = { -brand-name-firefox } создан { -brand-name-mozilla-corporation }, полностью контролируемой дочерней компанией некоммерческой <a href="{ $url }">{ -brand-name-mozilla-foundation }</a>, и руководствуется принципами Манифеста { -brand-name-mozilla }. Подробнее о создателе { -brand-name-firefox } <a href="{ $url2 }">здесь</a>.
-related-questions-who = Связанные вопросы: кому принаджелит { -brand-name-firefox }?; кто владеет { -brand-name-firefox-browser(case: "instrumental") }?; { -brand-name-firefox } принадлежит { -brand-name-google }?; { -brand-name-mozilla } { -brand-name-firefox } принадлежит { -brand-name-google }?
+related-questions-who = Связанные вопросы: кому принадлежит { -brand-name-firefox }?; кто владеет { -brand-name-firefox-browser(case: "instrumental") }?; { -brand-name-firefox } принадлежит { -brand-name-google }?; { -brand-name-mozilla } { -brand-name-firefox } принадлежит { -brand-name-google }?

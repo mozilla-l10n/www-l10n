@@ -9,7 +9,7 @@
 mobile-android-firefox-browser-android = { -brand-name-firefox-browser(case: "nominative_uppercase") } для { -brand-name-android }
 # HTML description
 mobile-android-firefox-browser-for = Браузер { -brand-name-firefox } для { -brand-name-android } — быстрый, безопасный и приватный с первого запуска.
-mobile-android-firefox-browser = { -brand-name-firefox-browser }
+mobile-android-firefox-browser = { -brand-name-firefox-browser(case: "nominative_uppercase") }
 mobile-android-get-firefox-for = Получите { -brand-name-firefox } для { -brand-name-android }
 mobile-android-send-a-download-link-to-your = Отправить ссылку на скачивание на мой телефон.
 mobile-android-scan-the-qr-code-to-get-started = Отсканируйте QR-код, чтобы начать скачивание

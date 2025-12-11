@@ -14,7 +14,7 @@ privacy-principles-mozilla-is-an-open-source = { -brand-name-mozilla } — эт�
 privacy-principles-the-following-five-principles = Следующие пять принципов вытекают из <a href="{ $link }">Манифеста { -brand-name-mozilla }</a> и описывают, как мы:
 privacy-principles-develop-our-products = разрабатываем наши продукты и услуги
 privacy-principles-manage-user-data-we-collect = используем данные наших пользователей
-privacy-principles-select-and-interact-with = выбираем партнеров и взаимодействуем с ними
+privacy-principles-select-and-interact-with = выбираем партнёров и взаимодействуем с ними
 privacy-principles-shape-our-public-policy = формируем нашу публичную политику и правозащитную деятельность
 privacy-principles-no-surprises = Никаких сюрпризов
 privacy-principles-use-and-share-information = Используем и обмениваемся информацией так, чтобы это было прозрачно и помогало пользователю.

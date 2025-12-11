@@ -5,13 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
-firefox-enterprise-get-firefox-for-your-enterprise-with = Загрузите { -brand-name-firefox } { -brand-name-esr } или версию с регулярными выпусками для вашей организации
+firefox-enterprise-get-firefox-for-your-enterprise-with = Скачайте { -brand-name-firefox } { -brand-name-esr } или версию с регулярными выпусками для вашей организации
 firefox-enterprise-get-unmatched-data-protection = Получите непревзойдённую защиту данных с периодичностью обновлений, которая наиболее подходит вашему корпоративному { -brand-name-firefox }. Скачайте { -brand-name-esr } или версию с регулярными выпусками.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
-firefox-enterprise-get-firefox-for-your-enterprise = Загрузите { -brand-name-firefox } для вашей организации
+firefox-enterprise-get-firefox-for-your-enterprise = Скачайте { -brand-name-firefox } для вашей организации
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
-firefox-enterprise-get-the-firefox-extended-support = Загрузите браузер <a href="{ $url }">{ -brand-name-firefox-extended-support-release } или Регулярный выпуск</a> для комплексной безопасности и защиты данных.
+firefox-enterprise-get-the-firefox-extended-support = Скачайте браузер <a href="{ $url }">{ -brand-name-firefox-extended-support-release } или регулярный выпуск</a> для комплексной безопасности и защиты данных.
 firefox-enterprise-unmatched-data-protection = Непревзойдённая защита данных — с периодичностью обновлений, которая наиболее вам подходит
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 firefox-enterprise-the-firefox-browser-is-open = { -brand-name-firefox } — браузер с открытым исходным кодом и улучшенной защитой от отслеживания — все это является частью нашей давней приверженности защите данных.
@@ -24,8 +24,8 @@ firefox-enterprise-enterprise-downloads = Загрузки { -brand-name-enterpr
 firefox-enterprise-windows-64-bit = 64-разрядная { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = Выберите ваш выпуск
-firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
-firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser(case: "nominative_uppercase") } - MSI установщик
+firefox-enterprise-firefox-browser = { -brand-name-firefox-browser(case: "nominative_uppercase") }
+firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser(case: "nominative_uppercase") } — MSI установщик
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - MSI установщик
 firefox-enterprise-support = Поддержка

@@ -15,7 +15,7 @@ installer-help-action-choose = Выберите загрузку ниже.
 
 ##
 
-installer-help-firefox-release-title = { -brand-name-firefox-browser }
+installer-help-firefox-release-title = { -brand-name-firefox-browser(case: "nominative_uppercase") }
 # Variables:
 #   $trackers (number) - number of trackers blocked by Firefox (currently in the thousands)
 installer-help-firefox-release-desc-v2 = Скачать последнюю версию. Приватность «из коробки» уже здесь. Скачайте { -brand-name-firefox }, чтобы заблокировать более { $trackers } трекеров.
@@ -28,4 +28,4 @@ installer-help-firefox-nightly-desc = Загляните в веб-браузе�
 installer-help-need-help = Нужна помощь в установке?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
-installer-help-need-help-desc = Если вам по-прежнему нужна помощь в установке, <a href="{ $url }"> прочитайте руководство в разделе поддержки</a>.
+installer-help-need-help-desc = Если вам по-прежнему нужна помощь в установке, <a href="{ $url }">прочитайте руководство в разделе поддержки</a>.

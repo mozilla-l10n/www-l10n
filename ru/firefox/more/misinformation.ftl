@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/more/misinformation/
 
-misinformation-brand-firefox-browser = { -brand-name-firefox-browser }
+misinformation-brand-firefox-browser = { -brand-name-firefox-browser(case: "nominative_uppercase") }
 misinformation-page-title = Избегайте дезинформации в Интернете – вам поможет { -brand-name-firefox }
 misinformation-page-desc = Дезинформация раздражает, отвлекает и обходится дорого. { -brand-name-firefox } рассказывает, как избегать ложной информации и меньше её видеть при работе в Интернете.
 misinformation-page-subheading = Ознакомьтесь с советами о том, как видеть меньше дезинформации и сосредоточиться на том, что действительно важно для вас

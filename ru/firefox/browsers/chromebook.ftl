@@ -8,8 +8,8 @@
 
 # HTML page title
 
-browsers-chromebook-get-firefox-browser = Загрузить { -brand-name-firefox-browser } для { -brand-name-chromebook }
-browsers-chromebook-so-youve-got = Итак, у вас есть { -brand-name-chromebook } — теперь пришло время загрузить независимый, защищающий вашу приватность «из коробки» { -brand-name-firefox-browser } для защиты ваших личных данных.
+browsers-chromebook-get-firefox-browser = Скачать { -brand-name-firefox-browser } для { -brand-name-chromebook }
+browsers-chromebook-so-youve-got = Итак, у вас есть { -brand-name-chromebook } — теперь пришло время скачать независимый, защищающий вашу приватность «из коробки» { -brand-name-firefox-browser } для защиты ваших личных данных.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Загрузить { -brand-name-firefox } для { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Загрузить компьютерный { -brand-name-firefox } для { -brand-name-chromebook }
 browsers-chromebook-x86-based-chromebook = { -brand-name-chromebook } на базе *x86 под управлением { -brand-name-chromeos } 80 или более поздней версии
@@ -26,4 +26,4 @@ browsers-chromebook-install-firefox-from = Установите { -brand-name-fi
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
 
-browsers-chromebook-install-firefox-as = Установите { -brand-name-firefox } как программу { -brand-name-linux }: для реализации этого способа потребуется большее число шагов, однако это того стоит. Когда вы устанавливаете браузер { -brand-name-firefox } как программу { -brand-name-linux }, вы получаете полноценный компьютерный { -brand-name-firefox } и все его преимущества, среди которых Улучшенная защита от отслеживания, встроенный менеджер паролей, доступ к тысячам дополнений (включая блокировщик рекламы UBlock Origin) и тем для настройки внешнего вида вашего браузера.<a { $url }>Подробнее об установке компьютерного { -brand-name-firefox } на { -brand-name-chromebook }</a>.
+browsers-chromebook-install-firefox-as = Установите { -brand-name-firefox } как программу { -brand-name-linux }: для реализации этого способа потребуется большее число шагов, однако это того стоит. Когда вы устанавливаете браузер { -brand-name-firefox } как программу { -brand-name-linux }, вы получаете полноценный компьютерный { -brand-name-firefox } и все его преимущества, среди которых улучшенная защита от отслеживания, встроенный менеджер паролей, доступ к тысячам дополнений (включая блокировщик рекламы UBlock Origin) и тем для настройки внешнего вида вашего браузера. <a { $url }>Подробнее об установке компьютерного { -brand-name-firefox } на { -brand-name-chromebook }.</a>

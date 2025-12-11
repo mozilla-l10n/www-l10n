@@ -14,7 +14,7 @@ features-sync-with-firefox-you-can-pick-up-where = С помощью { -brand-na
 features-sync-sign-up-for-a-free-mozilla-account-v3 = <a { $fxa }>Зарегистрируйте бесплатный { -brand-name-mozilla-account }</a>, и вы сможете синхронизировать свои данные везде, где используете { -brand-name-firefox } и другие { -brand-name-mozilla } продукты.
 # Variables:
 #   $privacy (url) = link to https://www.mozilla.org/firefox/privacy/
-features-sync-all-your-data-is-encrypted-on-our = Все ваши данные зашифрованы на наших серверах, поэтому мы не можем их прочитать — только вы можете получить к ним доступ. Мы не продаем вашу информацию рекламодателям, поскольку это противоречит нашему <a href="{ $privacy }">обещанию о конфиденциальности данных</a>.
+features-sync-all-your-data-is-encrypted-on-our = Все ваши данные зашифрованы на наших серверах, поэтому мы не можем их прочитать — только вы можете получить к ним доступ. Мы не продаём вашу информацию рекламодателям, поскольку это противоречит нашему <a href="{ $privacy }">обещанию о конфиденциальности данных</a>.
 features-sync-send-tabs-from-one-device-to-another = Отправка вкладок с одного устройства на другое
 features-sync-the-send-tab-feature-in-firefox = Функция вкладки «Отправить» в { -brand-name-firefox } позволяет отправлять страницы в { -brand-name-firefox } с одного устройства на другие устройства (например, iPhone, iPad или устройство Android). Вы нашли статью во время просмотра на своём телефоне, которую хотите прочитать, когда вернётесь к своему столу? Или важный документ с работы, который вы хотите сохранить, когда вернётесь домой? Возможно, вы нашли на своём ноутбуке рецепт, который хотите отправить на планшет на кухне. Отправьте эту вкладку!
 # Used as accessible alternative text for an image

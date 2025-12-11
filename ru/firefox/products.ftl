@@ -16,7 +16,7 @@ firefox-products-mozillas-family-of-products-sentence = Все продукты 
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
-firefox-products-get-the-browser-that-blocks = Загрузите браузер, который автоматически блокирует более 2000 трекеров. Улучшенная защита от отслеживания включена в каждый браузер { -brand-name-firefox }.
+firefox-products-get-the-browser-that-blocks = Скачайте браузер, который автоматически блокирует более 2 000 трекеров. Улучшенная защита от отслеживания включена в каждый браузер { -brand-name-firefox }.
 
 ## Focus
 

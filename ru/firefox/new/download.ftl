@@ -9,7 +9,7 @@ firefox-new-download-firefox = Скачать { -brand-name-firefox }
 firefox-new-download-the-fastest-firefox = Скачайте самый быстрый в истории { -brand-name-firefox }
 firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = Более быстрая загрузка страниц, уменьшенный расход памяти и множество функций — новый { -brand-name-firefox } уже здесь.
-firefox-new-get-the-latest-firefox = Загрузите последнюю версию браузера { -brand-name-firefox }.
+firefox-new-get-the-latest-firefox = Скачайте последнюю версию браузера { -brand-name-firefox }.
 # span's below are for visual formatting and line break.
 firefox-new-download-firefox-for-windows = Скачать { -brand-name-firefox } <br>для { -brand-name-windows }
 firefox-new-download-firefox-for-macos = Скачать { -brand-name-firefox } <br>для { -brand-name-mac }
@@ -48,5 +48,5 @@ firefox-new-visit-support-for-more = Посетите сайт поддержк�
 firefox-new-download-browser = Скачать { -brand-name-firefox-browser }
 firefox-new-fast = Быстрый, приватный и бесплатный
 firefox-new-from-mozilla = от { -brand-name-mozilla }
-firefox-new-desc = { -brand-name-firefox-browser } — это бесплатный веб-браузер с быстрой загрузкой страниц, уменьшенным расходом памяти и множеством функций, проект некоммерческой организации { -brand-name-mozilla }.
+firefox-new-desc = { -brand-name-firefox-browser(case: "nominative_uppercase") } — это бесплатный веб-браузер с быстрой загрузкой страниц, уменьшенным расходом памяти и множеством функций, проект некоммерческой организации { -brand-name-mozilla }.
 firefox-new-download-a-different = Скачать для других платформ и языков

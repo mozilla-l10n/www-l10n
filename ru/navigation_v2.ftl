@@ -9,13 +9,13 @@ navigation-v2-menu = Меню
 ## Firefox menu
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers(case: "nominative_uppercase") }
-navigation-v2-close-firefox-browsers-menu = Закрыть меню { -brand-name-firefox-browsers }
+navigation-v2-close-firefox-browsers-menu = Закрыть меню { -brand-name-firefox-browsers(case: "genitive") }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } для компьютера
-navigation-v2-get-the-not-for-profit-backed = Загрузите некоммерческий браузер на { -brand-name-windows }, { -brand-name-mac-short } или { -brand-name-linux }.
+navigation-v2-get-the-not-for-profit-backed = Скачайте некоммерческий браузер на { -brand-name-windows }, { -brand-name-mac-short } или { -brand-name-linux }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } для { -brand-name-android }
-navigation-v2-get-the-customizable-mobile = Загрузите настраиваемый мобильный браузер для смартфонов { -brand-name-android }.
+navigation-v2-get-the-customizable-mobile = Скачайте настраиваемый мобильный браузер для смартфонов { -brand-name-android }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } для { -brand-name-ios }
-navigation-v2-get-the-mobile-browser = Загрузите мобильный браузер для своего { -brand-name-iphone } или { -brand-name-ipad }.
+navigation-v2-get-the-mobile-browser = Скачайте мобильный браузер для своего { -brand-name-iphone } или { -brand-name-ipad }.
 navigation-v2-firefox-for-mobile = { -brand-name-firefox-browser } для мобильных устройств
 navigation-v2-take-speed-privacy-and = Возьмите скорость, приватность и душевное спокойствие с собой. На { -brand-name-android } и { -brand-name-ios }.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
@@ -24,7 +24,7 @@ navigation-v2-firefox-blog = Блог { -brand-name-firefox }
 navigation-v2-read-about-new-firefox-features = Узнавайте о новых возможностях { -brand-name-firefox } и находите способы оставаться в безопасности в Интернете.
 navigation-v2-release-notes = Примечания к выпуску
 navigation-v2-get-the-details-on-the = Узнайте подробности о последних обновлениях { -brand-name-firefox }.
-navigation-v2-view-all-firefox-browsers = Посмотреть все { -brand-name-firefox-browsers }
+navigation-v2-view-all-firefox-browsers = Посмотреть все { -brand-name-firefox-browsers(case: "genitive") }
 
 ## Products menu
 
@@ -68,7 +68,7 @@ navigation-v2-find-out-how = Узнайте, как мы делаем Интер
 navigation-v2-innovation = Новшества
 navigation-v2-close-innovation-menu = Закрыть меню «Новшества»
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-navigation-v2-get-the-firefox-browser-built = Загрузите версию { -brand-name-firefox }, созданную специально для разработчиков.
+navigation-v2-get-the-firefox-browser-built = Скачайте версию { -brand-name-firefox }, созданную специально для разработчиков.
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = Загляните на главную страницу ресурсов для веб-разработчиков.
 navigation-v2-common-voice = { -brand-name-common-voice }
