@@ -7,7 +7,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Grunderna i sekretess
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Du har kontrollen
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Integritet är inte bara en inställning — det är din rättighet. Sekretessmeddelandet för { -brand-name-firefox } bygger på tydlighet, kontroll och ansvarsfulla standardinställningar. Vi anser att du alltid ska ha kontroll över vad som händer med dina data. Du kan lita på att vi tydligt förklarar vad { -brand-name-firefox } gör som standard och justerar dina inställningar så att du kan surfa som du vill.
 privacy-firefox-read-our-privacy = Läs vårt sekretessmeddelande
 privacy-firefox-keeping-you-informed = Håller dig informerad, varje steg på vägen
@@ -16,7 +18,9 @@ privacy-firefox-transparency-first = Öppenhet först
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Vi är tydliga med vilka data vi använder och varför. Inga överraskningar. <a { $attrs }>{ -brand-name-firefox } sekretessmeddelande</a> beskriver detta för dig.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Hur vi använder data
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Vi använder data för att hålla { -brand-name-firefox } smidig, förbättra funktioner och bidra till att upprätthålla vår verksamhet — allt samtidigt som vi respekterar din integritet. Vissa valfria funktioner kan kräva ytterligare data för att fungera, och vi gör det enkelt att hantera dina inställningar.
 privacy-firefox-builtin-control = Inbyggd kontroll
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } ger dig enkla men kraftfulla verktyg för att hantera dina data precis som du vill. Du kan finjustera dina inställningar, separera arbete från ditt privatliv eller radera oönskad historik med bara några få klick.

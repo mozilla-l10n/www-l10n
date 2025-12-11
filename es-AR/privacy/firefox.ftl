@@ -7,7 +7,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Conceptos básicos de privacidad
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Tenés el control
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = La privacidad no es solo una configuración, es tu derecho. La nota de privacidad de { -brand-name-firefox } se basa en la claridad, el control y la responsabilidad predeterminada. Creemos que siempre deberías estar a cargo de lo que sucede con tus datos. Podés contar con nosotros para explicarte claramente qué hace { -brand-name-firefox } de forma predeterminada y ajustar la configuración para que podás navegar como quieras.
 privacy-firefox-read-our-privacy = Leer nuestra nota de privacidad
 privacy-firefox-keeping-you-informed = Te mantenemos informado en cada paso del camino
@@ -16,7 +18,9 @@ privacy-firefox-transparency-first = La transparencia primero
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Somos claros sobre qué datos usamos y por qué. Sin sorpresas. La <a { $attrs }>nota de privacidad de { -brand-name-firefox }</a> detalla esto para vos.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Cómo usamos los datos
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Usamos los datos para que { -brand-name-firefox } funcione sin problemas, mejoremos las funciones y ayudemos a mantener nuestro negocio, todo respetando tu privacidad. Algunas funciones opcionales pueden requerir datos adicionales para funcionar, y facilitamos la administración de tus preferencias.
 privacy-firefox-builtin-control = Control integrado
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } te brinda herramientas simples pero poderosas para administrar tus datos de la forma que quieras. Podés ajustar tu configuración, separar el trabajo de tu vida personal o borrar el historial no deseado con solo unos pocos clics.

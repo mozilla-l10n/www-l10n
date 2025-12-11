@@ -7,7 +7,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Základy ochrany osobných údajov
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Máte to pod kontrolou
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Ochrana osobných údajov nie je len nastavenie – je to vaše právo. Vyhlásenie o ochrane osobných údajov { -brand-name-firefox(case: "gen") } je založené na jasnosti, kontrole a zodpovedných predvolených nastaveniach. Veríme, že by ste mali mať vždy kontrolu nad tým, čo sa deje s vašimi údajmi. Môžete sa na nás spoľahnúť, že vám jasne vysvetlíme, čo { -brand-name-firefox } robí štandardne, a upravíme vaše nastavenia tak, aby ste si mohli prehliadať web podľa svojich predstáv.
 privacy-firefox-read-our-privacy = Prečítajte si naše Vyhlásenie o ochrane osobných údajov
 privacy-firefox-keeping-you-informed = Budeme vás informovať v každom kroku
@@ -16,7 +18,9 @@ privacy-firefox-transparency-first = Transparentnosť na prvom mieste
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Jasne uvádzame, aké údaje používame a prečo. Žiadne prekvapenia. Podrobnosti nájdete vo <a { $attrs }>Vyhlásení o ochrane osobných údajov { -brand-name-firefox(case: "gen") }</a>.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Ako používame údaje
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Údaje používame na zabezpečenie bezproblémového chodu prehliadača { -brand-name-firefox }, na zlepšenie funkcií a na udržanie nášho podnikania – a to všetko s rešpektom k vášmu súkromiu. Niektoré voliteľné funkcie môžu na fungovanie vyžadovať dodatočné údaje a my vám uľahčujeme správu vašich preferencií.
 privacy-firefox-builtin-control = Zabudované nástroje
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } vám poskytuje jednoduché, no zároveň výkonné nástroje na správu vašich údajov podľa vašich predstáv. Môžete si doladiť nastavenia, oddeliť prácu od osobného života alebo vymazať nechcenú históriu len niekoľkými kliknutiami.

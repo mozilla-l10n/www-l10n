@@ -7,7 +7,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Conceptos básicos de privacidad
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Usted tiene el control
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = La privacidad no solo es un ajuste; también es su derecho. El Aviso de privacidad de { -brand-name-firefox } se basa en la claridad, el control y valores por defecto responsables. Creemos que usted siempre debería poder controlar lo que sucede con sus datos. Cuente con nosotros para explicar claramente lo que { -brand-name-firefox } hace por defecto y ajustar su configuración para que pueda navegar como más le guste.
 privacy-firefox-read-our-privacy = Leer nuestro aviso de privacidad
 privacy-firefox-keeping-you-informed = Le mantendremos informado en todo momento
@@ -16,7 +18,9 @@ privacy-firefox-transparency-first = Transparencia ante todo
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Somos transparentes sobre qué datos utilizamos y por qué. No hay sorpresas. El <a { $attrs }>Aviso de privacidad de { -brand-name-firefox }</a> se lo explica con todo detalle.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Cómo utilizamos los datos
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Utilizamos los datos para mantener { -brand-name-firefox } funcionando sin problemas, mejorar las funcionalidades y ayudar a sostener nuestro negocio; todo ello respetando su privacidad. Algunas características opcionales pueden requerir datos adicionales para funcionar, y le facilitamos la gestión de sus preferencias.
 privacy-firefox-builtin-control = Control integrado
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } ofrece herramientas sencillas a la vez que potentes para gestionar sus datos como desee. Puede ajustar la configuración, separar actividades laborales y personales o borrar el historial no deseado con unos pocos clics.

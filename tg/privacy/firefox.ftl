@@ -7,6 +7,7 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Асосҳои махфият
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Шумо назорат мекунед
 privacy-firefox-read-our-privacy = Огоҳномаи махфияти моро хонед
 privacy-firefox-keeping-you-informed = Мо дар ҳар як қадам ба шумо хабар медиҳем
@@ -15,6 +16,7 @@ privacy-firefox-transparency-first = Пеш аз ҳама - ин шаффофи�
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Мо аниқ медонем, ки кадом маълумот ва ба кадом мақсад аз он истифода мебарем. Бе ягон тааҷҷуб. <a { $attrs }>Огоҳномаи махфияти «{ -brand-name-firefox }»</a> дар бораи ин ба шумо тафсилот медиҳад.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Чӣ тавр мо маълумотро истифода мебарем
 privacy-firefox-builtin-control = Назорати дарунсохт
 privacy-firefox-always-protected = Ҳамеша дар зери назорат ва муҳофизат

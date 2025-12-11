@@ -7,7 +7,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Básico da privacidade
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Você tem o controlo
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = A privacidade não é apenas uma definição — é um direito seu. A Informação de Privacidade do { -brand-name-firefox } é baseada na clareza, controlo e predefinições responsáveis. Acreditamos que você deveria estar sempre em controlo do que acontece com os seus dados. Pode contar connosco para explicar melhor o que o { -brand-name-firefox } faz por predefinição e ajustar as suas definições para que possa navegar da forma que quiser.
 privacy-firefox-read-our-privacy = Leia a nossa Informação de Privacidade
 privacy-firefox-keeping-you-informed = Informar, a cada passo do caminho
@@ -16,7 +18,9 @@ privacy-firefox-transparency-first = Transparência em primeiro lugar
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Somos transparentes sobre quais dados utilizamos e a razão de o fazermos. Sem surpresas. A <a { $attrs }>Informação de Privacidade do { -brand-name-firefox }</a> explica isto para si de forma detalhada.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Como utilizamos os dados
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Usamos os dados para garantir que o { -brand-name-firefox } opere de forma eficiente, aprimorar funcionalidades e apoiar a sustentabilidade do nosso negócio — sempre respeitando a sua privacidade. Determinadas funcionalidades opcionais podem necessitar de dados adicionais para operarem corretamente e proporcionamos uma forma simples de gerir as suas preferências.
 privacy-firefox-builtin-control = Controlo incorporado
 privacy-firefox-firefox-gives-you = O { -brand-name-firefox } proporciona-lhe ferramentas simples, contudo eficazes, para gerir os seus dados de acordo com as suas preferências. Tem a possibilidade de ajustar as suas configurações, distinguir entre a vida profissional e a pessoal ou eliminar o histórico indesejado com apenas alguns cliques.

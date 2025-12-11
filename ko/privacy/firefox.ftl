@@ -7,7 +7,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = 개인정보 보호 기본
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = 여러분이 제어할 수 있습니다.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = 개인 정보 보호는 단순한 설정이 아닙니다. — 여러분의 권리입니다. { -brand-name-firefox } 개인정보 처리방침은 명확성과 제어권, 책임 있는 기본값 위에 작성되었습니다. 개인 데이터 처리에 대한 제어권은 사용자가 항상 가지고 있어야 한다고 생각합니다. { -brand-name-firefox }가 기본적으로 어떤 일을 하는지 우리가 명확하게 설명하는 내용을 믿고 설정을 조정하고 여러분이 원하는 대로 브라우징하면 됩니다.
 privacy-firefox-read-our-privacy = 개인정보 처리방침 읽기
 privacy-firefox-keeping-you-informed = 모든 단계에서 정보를 제공
@@ -16,7 +18,9 @@ privacy-firefox-transparency-first = 투명성 우선
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = 어떤 데이터를 사용하고 왜 사용하는지 명확하게 명시하고 있습니다. 놀라지 마세요. 자세한 내용은 <a { $attrs }>{ -brand-name-firefox } 개인정보 보호정책</a>에 나와 있습니다.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = 데이터를 사용하는 방법
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = 사용자의 개인정보를 존중하면서 { -brand-name-firefox }가 원활하게 실행되도록 유지하고 기능을 개선하며 비즈니스를 유지하기 위해 데이터를 사용합니다. 일부 선택 기능은 작동하려면 추가 데이터가 필요할 수 있으며 저희는 사용자의 기본 설정을 쉽게 관리할 수 있도록 합니다.
 privacy-firefox-builtin-control = 제어 기능 기본 제공
 privacy-firefox-firefox-gives-you = { -brand-name-firefox }는 간단하면서도 강력한 도구를 사용하여 원하는 방식으로 데이터를 관리할 수 있습니다. 클릭 몇 번으로 설정을 미세 조정하거나 업무를 사생활과 분리하거나 원치 않는 기록을 삭제할 수 있습니다.

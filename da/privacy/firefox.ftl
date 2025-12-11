@@ -7,7 +7,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Grundlæggende om beskyttelse af dit privatliv
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Du har kontrollen
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Beskyttelse af dit privatliv er ikke bare en indstilling - det er noget, du har ret til. Privatlivserklæringen for { -brand-name-firefox } er baseret på klarhed, kontrol og ansvarlige standard-indstillinger. Vi mener, at du altid skal have kontrollen over, hvad der sker med dine data. Du kan stole på, at vi tydeligt forklarer, hvad { -brand-name-firefox } gør som standard og hvordan du kan ændre indstillinger, så du kan bruge internettet som du vil.
 privacy-firefox-read-our-privacy = Læs vores privatlivserklæring
 privacy-firefox-keeping-you-informed = Holder dig opdateret hele vejen
@@ -16,7 +18,9 @@ privacy-firefox-transparency-first = Åbenhed først
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Vi er åbne omkring, hvilke data vi anvender og hvorfor. Du kan læse mere i <a { $attrs }>privatlivserklæringen for { -brand-name-firefox }</a>.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Sådan bruger vi data
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Vi bruger data for at { -brand-name-firefox } skal fungere korrekt, samt for at forbedre funktioner og understøtte vores forretning - samtidig med, at vi respekterer din ret til privatliv. Visse valgfrie funktioner kan kræve yderligere data for at fungere, og vi gør det nemt for dig at håndtere dine indstillinger.
 privacy-firefox-builtin-control = Indbygget kontrol
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } giver dig enkle, men samtidig effektive værktøjer til at håndtere dine data som du vil. Du kan finjustere dine indstillinger, adskille arbejde og fritid eller slette uønsket historik med nogle få klik.

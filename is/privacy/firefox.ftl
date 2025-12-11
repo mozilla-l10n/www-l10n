@@ -7,7 +7,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Grunnatriði um meðferð persónuupplýsinga
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Þú ert við stjórnvölinn
 privacy-firefox-read-our-privacy = Lestu stefnu okkar varðandi meðferð persónuupplýsinga
 privacy-firefox-transparency-first = Gagnsæi í fyrsta sæti
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Hvernig við notum gögnin

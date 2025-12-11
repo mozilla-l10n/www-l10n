@@ -7,7 +7,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = 隱私權基本資訊
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = 一切由您掌控
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = 隱私不只是一組設定值而已，而是您的完整權利。{ -brand-name-firefox } 隱私權公告從撰寫時就保持透明可控、並且有負責任的預設設定。我們相信您應該隨時都能自行控制自己的資料會發生哪些事，也讓您可以信任 { -brand-name-firefox } 預設狀態下會作什麼，並且讓您自行調整設定，用自己想要的方式上網。
 privacy-firefox-read-our-privacy = 閱讀我們的隱私權公告
 privacy-firefox-keeping-you-informed = 讓您隨時掌握最新資訊
@@ -16,7 +18,9 @@ privacy-firefox-transparency-first = 透明第一
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = 我們清楚說明會使用到哪些資料，以及為什麼要使用，不讓您意外。<a { $attrs }>{ -brand-name-firefox } 隱私權公告</a>當中有相關詳細資訊。
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = 我們會如何使用收集到的資料
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = 我們會使用資料讓 { -brand-name-firefox } 能保持順暢運作、改進功能、並維持業務發展，但在達成這些目標的同時也保護您的隱私權。某些選擇性功能可能需要更多資料才能運作，您很簡單就可以在偏好設定頁面中管理。
 privacy-firefox-builtin-control = 內建管控機制
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } 提供您簡單但強大的工具，讓您可以用想要的方式管理自己的資料。您只要滑鼠點擊幾下，就可以微調選項、拆開工作與私人生活，或直接清除不想要的上網紀錄。

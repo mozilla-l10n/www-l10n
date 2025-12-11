@@ -7,7 +7,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Privacy basics
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = You’re in control
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Privacy isn’t just a setting — it’s your right. The { -brand-name-firefox } Privacy Notice is built on clarity, control and responsible defaults. We believe you should always be in charge of what happens with your data. You can count on us to clearly explain what { -brand-name-firefox } does by default and adjust your settings so you can browse the way you want.
 privacy-firefox-read-our-privacy = Read our Privacy Notice
 privacy-firefox-keeping-you-informed = Keeping you informed, every step of the way
@@ -16,7 +18,9 @@ privacy-firefox-transparency-first = Transparency first
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = We’re clear about what data we use and why. No surprises. The <a { $attrs }>{ -brand-name-firefox } Privacy Notice</a> details this for you.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = How we use data
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = We use data to keep { -brand-name-firefox } running smoothly, improve features and help sustain our business — all while respecting your privacy. Some optional features may require additional data to function, and we make it easy to manage your preferences.
 privacy-firefox-builtin-control = Built-in control
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } gives you simple, yet powerful tools to manage your data the way you want. You can fine-tune your settings, separate work from your personal life or erase unwanted history with just a few clicks.

@@ -7,7 +7,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Privacybasis
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Jo hawwe de kontrôle
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Privacy is net allinnich in ynstelling – it is jo rjocht. De privacyferklearring fan { -brand-name-firefox } is basearre op dúdlikens, kontrôle en ferantwurde standertynstellingen. Wy leauwe dat jo altyd ferantwurdlik wêze moatte foar wat der mei jo gegevens bart. Jo kinne derop rekkenje dat wy dúdlik útlizze wat { -brand-name-firefox } standert docht en jo ynstellingen oanpasse, sadat jo blêdzje kinne lykas jo wolle.
 privacy-firefox-read-our-privacy = Us Privacyferklearring lêze
 privacy-firefox-keeping-you-informed = Wy hâlde jo op de hichte, by elke stap
@@ -16,7 +18,9 @@ privacy-firefox-transparency-first = Transparânsje earst
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Wy binne dúdlik oer hokker gegevens wy brûke en wêrom. Gjin ferrassingen. De <a { $attrs }>{ -brand-name-firefox }-privacyferklearring</a> jout jo de details.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Hoe’t wy gegevens brûke
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Wy brûke gegevens om { -brand-name-firefox } soepel rinne te litten, funksjes te ferbetterjen en ús bedriuw te stypjen – alles wylst wy jo privacy respektearje. Guon opsjonele funksjes kinne ekstra gegevens fereaskje om te funksjonearjen, en wy meitsje it maklik om jo foarkarren te behearen.
 privacy-firefox-builtin-control = Ynboude kontrôle
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } jout jo ienfâldige, mar krêftich ark om jo gegevens te behearen sa as jo wolle. Jo kinne jo ynstellingen fine-tune, wurk skiede fan jo persoanlike libben of net-winske skiednis wiskje mei mar in pear klikken.

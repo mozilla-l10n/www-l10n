@@ -7,7 +7,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Základy ochrany osobních údajů
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Vše máte pod kontrolou
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Soukromí není jen nastavení – je to vaše právo. Zásady ochrany osobních údajů { -brand-name-firefox(case: "gen") } jsou založeny na jasnosti, kontrole a odpovědném výchozím nastavení. Věříme, že byste měli mít vždy zodpovědnost za to, co se děje s vašimi daty. Můžete se spolehnout na to, že vám srozumitelně vysvětlíme, co { -brand-name-firefox } ve výchozím nastavení dělá, a přizpůsobíme vaše nastavení tak, abyste mohli prohlížet tak, jak chcete.
 privacy-firefox-read-our-privacy = Přečtěte si naše Zásady ochrany osobních údajů
 privacy-firefox-keeping-you-informed = Informujeme vás na každém kroku.
@@ -16,7 +18,9 @@ privacy-firefox-transparency-first = Transparentnost na prvním místě
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Jasně říkáme, jaká data používáme a proč. Žádná překvapení. <a { $attrs }>Oznámení o ochraně osobních údajů { -brand-name-firefox(case: "gen") }</a> vám to podrobně vysvětlí.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Jak používáme data
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Data používáme k zajištění bezproblémového chodu { -brand-name-firefox(case: "gen") }, vylepšování funkcí a udržení našeho podnikání – to vše při současném respektování vašeho soukromí. Některé volitelné funkce mohou ke svému fungování vyžadovat další údaje a my vám umožníme snadno spravovat vaše preference.
 privacy-firefox-builtin-control = Zabudované nástroje
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } poskytuje jednoduché, ale výkonné nástroje pro správu dat podle vašich představ. Několika klepnutími můžete doladit nastavení, oddělit práci od osobního života nebo vymazat nechtěnou historii.

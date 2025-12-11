@@ -7,6 +7,7 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = ਪਰਦੇਦਾਰੀ ਬਾਰੇ ਮੁੱਢਲੀ ਜਾਣਕਾਰੀ
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = ਤੁਸੀਂ ਕੰਟਰੋਲ ਰੱਖਦੇ ਹੋ
 privacy-firefox-read-our-privacy = ਸਾਡੀ ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ ਨੂੰ ਪੜ੍ਹੋ
 privacy-firefox-keeping-you-informed = ਰਾਹ ਵਿੱਚ ਹਰ ਕਦਮ ਉੱਤੇ ਤੁਹਾਨੂੰ ਜਾਣਕਾਰੀ ਦਿੱਤੀ ਜਾਂਦੀ ਹੈ
@@ -14,6 +15,7 @@ privacy-firefox-transparency-first = ਪਾਰਦਰਸ਼ਤਾ ਪਹਿਲਾਂ
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = ਕਿਹੜਾ ਡਾਟਾ ਅਸੀਂ ਵਰਤਦੇ ਹਾਂ ਅਤੇ ਕਿਉਂ, ਇਸ ਬਾਰੇ ਅਸੀਂ ਪੂਰੀ ਤਰ੍ਹਾਂ ਸਪਸ਼ਟ ਹਾਂ। ਕੋਈ ਹੈਰਾਨੀ ਨਹੀਂ। ਤੁਹਾਡੇ ਲਈ <a { $attrs }>{ -brand-name-firefox } ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ</a> ਵੇਰਵੇ ਰੱਖਦੀ ਹੈ।
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = ਅਸੀਂ ਡਾਟੇ ਨੂੰ ਕਿਵੇਂ ਵਰਤਦੇ ਹਾਂ
 privacy-firefox-builtin-control = ਬਿਲਟ-ਇਨ ਕੰਟਰੋਲ
 privacy-firefox-always-protected = ਹਮੇਸ਼ਾ ਸੁਰੱਖਿਆ

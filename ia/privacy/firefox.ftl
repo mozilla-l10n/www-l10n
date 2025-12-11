@@ -7,7 +7,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Elementos de confidentialitate
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Tu es al commando
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Confidentialitate non es justo un parametro, illo es tu derecto. Le Aviso de confidentialitate de  { -brand-name-firefox } es basate sur claritate, controlo e parametros predefinite responsabile. Nos crede que tu debe sempre esser al direction de lo que eveni con tu datos. Tu pote contar sur nos pro clarmente explicar que { -brand-name-firefox } face de ordinario e adjustar tu parametros assi que tu pote navigar per le via que tu vole.
 privacy-firefox-read-our-privacy = Lege nostre aviso de confidentialitate
 privacy-firefox-keeping-you-informed = Mantenente te informate, cata passo del via
@@ -16,7 +18,9 @@ privacy-firefox-transparency-first = Transparentia prime
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Nos es clar re que datos nos usa e perque. Necun surprisa. Le <a { $attrs }>Aviso de confidentialitate de  { -brand-name-firefox }</a> lo detalia pro te.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Como nos usa datos
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Nos usa datos pro mantener { -brand-name-firefox } functionante lisiemente, meliorar functiones e adjutar a sustener nostre commercio: toto respectante tu confidentialitate. Alcun functiones optional pote requirer altere datos pro functionar, e render facile pro nos gerer tu preferentias.
 privacy-firefox-builtin-control = Controlo integrate
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } te da simple e totevia potente utensiles pro gerer tu datos le maniera que tu vole. Tu pote accordar finmente tu parametros, separar le labor de tu vita personal o cancellar le chronologia indesirate con justo alcun clics.

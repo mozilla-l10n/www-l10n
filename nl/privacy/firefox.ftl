@@ -7,7 +7,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Privacybasis
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = U hebt de controle
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Privacy is niet slechts een instelling – het is uw recht. De privacyverklaring van { -brand-name-firefox } is gebaseerd op duidelijkheid, controle en verantwoorde standaardinstellingen. Wij vinden dat u altijd de baas moet zijn over wat er met uw gegevens gebeurt. U kunt op ons rekenen om duidelijk uit te leggen wat { -brand-name-firefox } standaard doet en uw instellingen aanpassen, zodat u kunt surfen zoals u wilt.
 privacy-firefox-read-our-privacy = Onze Privacyverklaring lezen
 privacy-firefox-keeping-you-informed = Wij houden u op de hoogte, bij elke stap
@@ -16,7 +18,9 @@ privacy-firefox-transparency-first = Transparantie voorop
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = We zijn duidelijk over welke gegevens we gebruiken en waarom. Geen verrassingen. De <a { $attrs }>{ -brand-name-firefox }-privacyverklaring</a> legt dit in detail voor u uit.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Hoe we gegevens gebruiken
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = We gebruiken gegevens om { -brand-name-firefox } soepel te laten werken, functies te verbeteren en ons bedrijf te helpen ondersteunen – en dit alles met respect voor uw privacy. Sommige optionele functies vereisen mogelijk aanvullende gegevens om te functioneren, en we maken het eenvoudig om uw voorkeuren te beheren.
 privacy-firefox-builtin-control = Ingebouwde controle
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } biedt u eenvoudige, maar krachtige hulpmiddelen om uw gegevens te beheren zoals u dat wilt. U kunt uw instellingen verfijnen, werk van uw privéleven scheiden of ongewenste geschiedenis wissen met slechts een paar klikken.

@@ -7,7 +7,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Podstawy prywatności
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Ty masz kontrolę
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Prywatność to nie tylko ustawienie — to Twoje prawo. Zasady ochrony prywatności { -brand-name-firefox(case: "gen") } opierają się na przejrzystości, kontroli i odpowiedzialnych ustawieniach domyślnych. Wierzymy, że zawsze powinieneś mieć kontrolę nad tym, co dzieje się z Twoimi danymi. Możesz liczyć na to, że jasno wyjaśnimy, co { -brand-name-firefox } robi domyślnie i dostosujemy Twoje ustawienia, abyś mógł przeglądać strony tak, jak chcesz.
 privacy-firefox-read-our-privacy = Przeczytaj nasze zasady ochrony prywatności
 privacy-firefox-keeping-you-informed = Informujemy Cię na każdym etapie
@@ -16,7 +18,9 @@ privacy-firefox-transparency-first = Przejrzystość przede wszystkim
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Jasno określamy, jakich danych używamy i dlaczego. Żadnych niespodzianek. <a { $attrs }>Zasady ochrony prywatności { -brand-name-firefox(case: "gen") }</a> szczegółowo opisują tę kwestię.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Jak wykorzystujemy dane
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Używamy danych, aby zapewnić płynne działanie przeglądarki { -brand-name-firefox }, ulepszać jej funkcje i wspierać naszą działalność — wszystko to przy jednoczesnym poszanowaniu Twojej prywatności. Niektóre opcjonalne funkcje mogą wymagać dodatkowych danych do działania, a my ułatwiamy zarządzanie Twoimi preferencjami.
 privacy-firefox-builtin-control = Wbudowana kontrola
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } daje Ci proste, ale potężne narzędzia do zarządzania danymi tak, jak chcesz. Możesz dostroić swoje ustawienia, oddzielić pracę od życia osobistego lub usunąć niechcianą historię za pomocą zaledwie kilku kliknięć.

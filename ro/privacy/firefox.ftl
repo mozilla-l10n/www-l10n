@@ -7,7 +7,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Noțiuni de bază despre confidențialitate
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Tu deții controlul
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Confidențialitatea nu este doar o setare — este dreptul tău. Notificarea { -brand-name-firefox } privind confidențialitatea este construită pe claritate, control și setări implicite responsabile. Credem că ar trebui să fii întotdeauna responsabil(ă) pentru ce se întâmplă cu datele tale. Poți conta pe noi să îți explicăm clar ce face { -brand-name-firefox } implicit și să îți ajustăm setările, astfel încât să poți naviga așa cum vrei.
 privacy-firefox-read-our-privacy = Citește-ne Notificarea privind confidențialitatea
 privacy-firefox-keeping-you-informed = Te ținem la curent, la fiecare pas
@@ -16,7 +18,9 @@ privacy-firefox-transparency-first = Transparența pe primul loc
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Suntem clari în ceea ce privește datele pe care le folosim și motivul pentru care le folosim. Fără surprize. <a { $attrs }>Notificarea privind confidențialitatea { -brand-name-firefox }</a> detaliază pentru tine.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Cum folosim datele
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Folosim datele pentru a menține funcționarea fără probleme a { -brand-name-firefox }, pentru a îmbunătăți funcțiile și pentru a ne susține afacerea — toate respectând confidențialitatea ta. Unele funcții opționale pot necesita date suplimentare ca să funcționeze, iar noi îți facilităm gestionarea preferințelor.
 privacy-firefox-builtin-control = Control încorporat
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } îți oferă instrumente simple, dar puternice, pentru a-ți gestiona datele așa cum vrei. Poți ajusta setările, separa munca de viața personală sau șterge istoricul nedorit cu doar câteva clicuri.

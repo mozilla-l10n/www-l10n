@@ -7,12 +7,14 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Osnove zasebnosti
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Nadzor je v vaših rokah
 privacy-firefox-read-our-privacy = Preberite naše obvestilo o zasebnosti
 privacy-firefox-transparency-first = Preglednost na prvem mestu
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Jasni smo glede tega, katere podatke uporabljamo in zakaj. Brez presenečenj. To podrobno opisuje <a { $attrs }>{ -brand-name-firefox }ovo obvestilo o zasebnosti</a>.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Kako uporabljamo podatke
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } za namizja
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } za mobilne naprave

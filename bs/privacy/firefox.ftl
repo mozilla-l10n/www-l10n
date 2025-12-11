@@ -7,7 +7,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Osnove privatnosti
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Vi imate kontrolu
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Privatnost nije samo postavka - to je vaše pravo. Obavještenje o privatnosti za { -brand-name-firefox } zasnovano je na jasnoći, kontroli i odgovornim zadanim postavkama. Vjerujemo da uvijek trebate imati kontrolu nad onim što se događa s vašim podacima. Možete računati na nas da ćemo vam jasno objasniti što { -brand-name-firefox } radi po zadanim postavkama i prilagoditi vaše postavke kako biste mogli pregledavati onako kako želite.
 privacy-firefox-read-our-privacy = Pročitajte našu policu privatnosti
 privacy-firefox-keeping-you-informed = Obavještavamo vas o svakom koraku
@@ -16,7 +18,9 @@ privacy-firefox-transparency-first = Transparentnost na prvom mjestu
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Jasno nam je koje podatke koristimo i zašto. Nema iznenađenja. <a { $attrs }>{ -brand-name-firefox } Obavještenje o privatnosti</a> detaljno objašnjava ovo za vas.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Kako koristimo podatke
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Koristimo podatke kako bismo osigurali nesmetan rad { -brand-name-firefox }, poboljšali funkcije i pomogli u održavanju našeg poslovanja — sve to uz poštovanje vaše privatnosti. Neke opcionalne funkcije mogu zahtijevati dodatne podatke za funkcioniranje, a mi vam olakšavamo upravljanje vašim postavkama.
 privacy-firefox-builtin-control = Ugrađena kontrola
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } vam pruža jednostavne, ali moćne alate za upravljanje vašim podacima onako kako želite. Možete fino podesiti postavke, odvojiti posao od privatnog života ili izbrisati neželjenu historiju uz samo nekoliko klikova.

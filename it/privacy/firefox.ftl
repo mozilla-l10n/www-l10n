@@ -7,7 +7,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Informazioni di base sulla privacy
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Prendi il controllo
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = La privacy non è solo un’impostazione: è un tuo diritto. L’informativa sulla privacy di { -brand-name-firefox } si basa su trasparenza, controllo e impostazioni predefinite responsabili. Riteniamo che tu debba sempre avere il controllo di ciò che accade ai tuoi dati. Puoi contare su di noi per spiegarti chiaramente che cosa fa { -brand-name-firefox } per impostazione predefinita e modificare le tue impostazioni in modo da poter navigare come preferisci.
 privacy-firefox-read-our-privacy = Leggi la nostra informativa sulla privacy
 privacy-firefox-keeping-you-informed = Ti teniamo informato, passo dopo passo
@@ -16,7 +18,9 @@ privacy-firefox-transparency-first = La trasparenza prima di tutto
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Siamo chiari su quali dati utilizziamo e per quale motivo. Nessuna sorpresa. L’<a { $attrs }>informativa sulla privacy di { -brand-name-firefox }</a> contiene informazioni dettagliate su questi aspetti.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Come utilizziamo i dati
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Utilizziamo i dati per garantire il corretto funzionamento di { -brand-name-firefox }, migliorarne le funzionalità e sostenere la nostra attività, il tutto nel rispetto della tua privacy. Alcune caratteristiche opzionali potrebbero richiedere dati aggiuntivi per funzionare e facciamo in modo che tu possa gestire le tue preferenze in modo semplice.
 privacy-firefox-builtin-control = Controllo integrato
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } ti offre strumenti semplici ma potenti per gestire i tuoi dati come preferisci. Puoi perfezionare le impostazioni, separare il lavoro dalla tua vita personale o cancellare elementi indesiderati dalla cronologia in pochi clic.

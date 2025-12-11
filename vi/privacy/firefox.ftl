@@ -7,7 +7,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Cơ bản về quyền riêng tư
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Bạn nắm quyền kiểm soát
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Quyền riêng tư không chỉ là một thiết lập — đó là quyền của bạn. Thông báo về quyền riêng tư { -brand-name-firefox } được xây dựng dựa trên sự rõ ràng, kiểm soát và các mặc định có trách nhiệm. Chúng tôi tin rằng bạn luôn phải chịu trách nhiệm về những gì xảy ra với dữ liệu của mình. Bạn có thể tin tưởng chúng tôi sẽ giải thích rõ ràng những gì { -brand-name-firefox } theo mặc định và điều chỉnh cài đặt của bạn để bạn có thể duyệt theo cách bạn muốn.
 privacy-firefox-read-our-privacy = Đọc thông báo về quyền riêng tư của chúng tôi
 privacy-firefox-keeping-you-informed = Luôn cập nhật thông tin cho bạn, ở mọi nơi
@@ -16,7 +18,9 @@ privacy-firefox-transparency-first = Sự minh bạch là trên hết
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Chúng tôi làm rõ về dữ liệu chúng tôi sử dụng và lý do tại sao. Không có gì bất ngờ. <a { $attrs }>Thông báo về quyền riêng tư của { -brand-name-firefox }</a> sẽ làm rõ chi tiết điều này cho bạn.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Cách chúng tôi sử dụng dữ liệu
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Chúng tôi sử dụng dữ liệu để giữ cho { -brand-name-firefox } chạy trơn tru, cải thiện các tính năng và giúp duy trì hoạt động kinh doanh của chúng tôi — tất cả trong khi vẫn tôn trọng quyền riêng tư của bạn. Một số tính năng tùy chọn có thể yêu cầu dữ liệu bổ sung để hoạt động và chúng tôi giúp bạn dễ dàng quản lý tùy chọn của mình.
 privacy-firefox-builtin-control = Kiểm soát tích hợp
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } cung cấp cho bạn các công cụ đơn giản nhưng mạnh mẽ để quản lý dữ liệu theo cách bạn muốn. Bạn có thể tinh chỉnh cài đặt, tách biệt công việc với cuộc sống cá nhân hoặc xóa lịch sử không mong muốn chỉ bằng vài cú nhấp chuột.
