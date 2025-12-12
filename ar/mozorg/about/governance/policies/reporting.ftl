@@ -18,7 +18,6 @@ reporting-how-to-give-a-report = كيفية الإبلاغ
 reporting-if-you-believe-someone = إذا كُنت تعتقد أن هناك شخص ما مُعرض لخطر جسدي، فاتصل برقم الطوارئ المحلي.
 reporting-if-you-have-a-report-by = إذا كان لديك بلاغ <strong>من قِبل <em>و</em> عن</strong> مساهم (على سبيل المثال، تم رفع البلاغ <strong>بواسطة</strong> أحد المساهمين <strong>عن</strong> مساهم آخر)، فحينها ينبغي رفع البلاغ الخاص بك عبر <a href="{ $community_hotline }">الخط الساخن للتعليمات التوجيهية للمشاركة المجتمعية</a>.
 reporting-if-you-have-a-report-by-email = إذا كان لديك بلاغ <strong>من قِبل <em>و</em> عن</strong> مُساهم (على سبيل المثال، يتم عمل التقرير <strong>بواسطة</strong> أحد المساهمين <strong>عن</strong> مساهم آخر)، حينها يجب عليك تقديم البلاغ الخاص بك عبر <a href="{ $mailto_report }">cpg-report@mozilla.com</a>.
-reporting-if-you-have-a-report-involving = إذا كان لديك بلاغ <strong>ينخرط فيه مُوظف أو مقاول أو بائع</strong> (على سبيل المثال، تم رفع البلاغ <strong>من قِبل</strong> مُوظف أو هو <strong>عن</strong> موظف)، فحينها ينبغي رفع البلاغ من خلال الخط الساخن لمُوظفي <a href="{ $employee_hotline }">{ -brand-name-mozilla }</a>.
 reporting-put-another-way = قدّم طريقة أخرى…
 reporting-by = من قِبل
 reporting-employee = موظف

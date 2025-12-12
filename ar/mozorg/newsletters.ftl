@@ -60,6 +60,7 @@ newsletters-please-select-country = يُرجى اختيار بلد أو منطق
 # Form field error message
 newsletters-please-select-language = يُرجى اختيار لغة
 
+newsletters-it-may-take = قد يستغرق الأمر ما يصل إلى ساعة واحدة حتى تظهر المعلومات التي تم الاشتراك بها حديثًا على هذه الصفحة.
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
