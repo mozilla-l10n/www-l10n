@@ -17,12 +17,14 @@ reporting-how-to-give-a-report = Hoe melden
 reporting-if-you-believe-someone = Als u denkt dat iemand fysiek gevaar loopt, bel dan uw plaatselijke alarmnummer.
 reporting-if-you-have-a-report-by = Als u een melding <strong>van<em> en </em>over</strong> een medewerker hebt (de melding is bijvoorbeeld <strong>door</strong> de ene medewerker <strong>over</strong> een andere medewerker gedaan), moet u uw melding doen via de hotline voor de <a href="{ $community_hotline }">Richtlijnen voor deelname aan de gemeenschap</a>.
 reporting-if-you-have-a-report-by-email = Als u een melding <strong>door <em>en</em> over</strong> een medewerker hebt (de melding is bijvoorbeeld gedaan <strong>door</strong> de ene medewerker <strong>over</strong> de andere medewerker), dan dient u uw melding naar <a href="{ $mailto_report }">cpg-report@mozilla.com</a> te sturen.
+reporting-if-you-have-a-report-involving-v2 = Als u een melding hebt van een medewerker over <strong>een werknemer</strong>, dan dient u dit te melden bij de <a href="{ $employee_hotline }">{ -brand-name-mozilla } Employee hotline</a> . Als u een werknemer bent en een melding wilt indienen, raadpleeg dan de interne beleidsregels en procedures van { -brand-name-mozilla } om de voor u beschikbare meldingsopties te begrijpen.
 reporting-put-another-way = In andere woorden…
 reporting-by = Door
 reporting-employee = Werknemer
 reporting-contributor = Medewerker
 reporting-about = Over
 reporting-employee-hotline = Werknemershotline
+reporting-internal-policies = Lees de interne beleidsregels en procedures van { -brand-name-mozilla }
 reporting-contractor = Contractant
 reporting-vendor = Leverancier
 reporting-if-someone-reports-to = Als iemand aan u meldt…
