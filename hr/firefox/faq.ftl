@@ -30,7 +30,7 @@ is-chrome-better = Je li { -brand-name-chrome } bolji od { -brand-name-firefox }
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
 
 see-how-firefox = <a href="{ $url }">Pogledaj usporedbu između { -brand-name-firefox } i { -brand-name-chrome }.</a>
-is-firefox-safe-download = Je li se { -brand-name-firefox } može sigurno preuzeti?
+is-firefox-safe-download = Može li se { -brand-name-firefox } sigurno preuzeti?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
