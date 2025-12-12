@@ -12,6 +12,7 @@ privacy-firefox-youre-in-control = Prendi il controllo
 privacy-firefox-youre-in-control-v2 = Hai il pieno controllo dei tuoi dati
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = La privacy non è solo un’impostazione: è un tuo diritto. L’informativa sulla privacy di { -brand-name-firefox } si basa su trasparenza, controllo e impostazioni predefinite responsabili. Riteniamo che tu debba sempre avere il controllo di ciò che accade ai tuoi dati. Puoi contare su di noi per spiegarti chiaramente che cosa fa { -brand-name-firefox } per impostazione predefinita e modificare le tue impostazioni in modo da poter navigare come preferisci.
+privacy-firefox-privacy-isnt-just-v2 = In sintesi: { -brand-name-firefox } è realizzato per offrire privacy e sicurezza fin da subito. Non sappiamo quasi nulla di te. E quel poco che sappiamo non lo vendiamo mai. Inoltre, a differenza di altri browser, ti permettiamo di disattivare ciò che ti infastidisce. L’informativa sulla privacy di { -brand-name-firefox } si basa su trasparenza, controllo e impostazioni di base progettate in modo responsabile. Puoi contare su di noi per spiegarti chiaramente che cosa fa { -brand-name-firefox } per impostazione predefinita e per modificare le tue impostazioni in modo da poter navigare come preferisci.
 privacy-firefox-read-our-privacy = Leggi la nostra informativa sulla privacy
 privacy-firefox-keeping-you-informed = Ti teniamo informato, passo dopo passo
 privacy-firefox-we-believe-you = Riteniamo che dovresti sapere come vengono utilizzati i tuoi dati e per quale motivo. { -brand-name-firefox } è realizzato ponendo la privacy al primo posto e garantendo trasparenza a ogni livello.
@@ -24,6 +25,9 @@ privacy-firefox-how-we-use = Come utilizziamo i dati
 privacy-firefox-how-we-use-v2 = Privato per impostazione predefinita
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Utilizziamo i dati per garantire il corretto funzionamento di { -brand-name-firefox }, migliorarne le funzionalità e sostenere la nostra attività, il tutto nel rispetto della tua privacy. Alcune caratteristiche opzionali potrebbero richiedere dati aggiuntivi per funzionare e facciamo in modo che tu possa gestire le tue preferenze in modo semplice.
+# Variables:
+#   $attrs (string) - link to https://firefox-source-docs.mozilla.org/contributing/data-collection.html#browsing-data
+privacy-firefox-we-use-data-v2 = A differenza di molti altri browser che raccolgono e conservano regolarmente dati sensibili degli utenti, { -brand-name-firefox } si basa sul <a { $attrs }>principio</a> secondo cui nemmeno { -brand-name-mozilla } dovrebbe sapere quali siti visiti o cosa ci fai.
 privacy-firefox-builtin-control = Controllo integrato
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } ti offre strumenti semplici ma potenti per gestire i tuoi dati come preferisci. Puoi perfezionare le impostazioni, separare il lavoro dalla tua vita personale o cancellare elementi indesiderati dalla cronologia in pochi clic.
 privacy-firefox-always-protected = Sempre protetto
