@@ -16,7 +16,6 @@ reporting-how-to-give-a-report = Comment effectuer un signalement
 reporting-if-you-believe-someone = Si vous pensez que quelqu’un peut craindre pour son intégrité physique, appelez votre numéro d’urgence local.
 reporting-if-you-have-a-report-by = Si vous disposez d’un signalement <strong>par <em>et</em> sur</strong> un contributeur (par exemple, le signalement est effectué <strong>par</strong> un contributeur <strong>au sujet d’</strong>un autre contributeur), vous devez effectuer votre signalement à la <a href="{ $community_hotline }">ligne d’assistance téléphonique des Directives relatives à la participation communautaire</a>.
 reporting-if-you-have-a-report-by-email = Si vous disposez d’un signalement <strong>par <em>et</em> sur</strong> un contributeur (par exemple, le signalement est effectué <strong>par</strong> un contributeur <strong>au sujet d’</strong>un autre contributeur), vous devez effectuer votre signalement via <a href="{ $mailto_report }">cpg-report@mozilla.com</a>.
-reporting-if-you-have-a-report-involving = Si vous disposez d’un signalement <strong>concernant un employé, un sous-traitant ou un fournisseur</strong> (par exemple, le signalement est effectué <strong>par</strong> un employé ou <strong>au sujet d’</strong> un employé), vous devez le signaler à la <a href="{ $employee_hotline }">ligne d’assistance téléphonique des employés de { -brand-name-mozilla }</a>.
 reporting-put-another-way = Autrement dit…
 reporting-by = Par
 reporting-employee = Employé

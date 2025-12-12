@@ -6,7 +6,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = أساسيات الخصوصية
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = كل شيء تحت السيطرة
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = الخصوصية ليست مجرّد إعداد يتم ضبطه — إنها حقك. إشعار الخصوصية الخاص بـ { -brand-name-firefox } مبني على الوضوح والتحكّم والإعدادات الافتراضية المسؤولة. نُؤمن بأنك يَجب أن تكون دائمًا المُتحكّم فيما يحدث لبياناتك. يُمكنك الاعتماد علينا في شرح ما يقوم به { -brand-name-firefox } بشكل افتراضي، بالإضافة إلى تمكينك من ضبط إعداداتك لتصفح الإنترنت بالطريقة التي تناسبك.
 privacy-firefox-read-our-privacy = اقرأ إشعار الخصوصية
 
@@ -17,7 +19,10 @@ privacy-firefox-transparency-first = الشفافية أولًا
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = نحن واضحون بخصوص البيانات التي نجمعها وأسباب ذلك. لا مفاجآت يوضّح <a { $attrs }>إشعار خصوصية { -brand-name-firefox }</a> تفاصيل هذا الأمر لك.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = كيف نستخدم البيانات
+privacy-firefox-how-we-use-v2 = خصوصية بشكل افتراضي
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = نستخدم البيانات لِضمان تشغيل { -brand-name-firefox } بسَلاسة وتحسين الميزات والمساهمة في مواصلة أعمالنا، مع مراعاة خصوصيتك في كل هذا. قد تتطلب بعض الميزات الاختيارية بيانات إضافية حتى تتمكّن من العمل، ونحن نُسهّل إدارة تفضيلاتك.
 privacy-firefox-builtin-control = التحكّم المدمج
 privacy-firefox-firefox-gives-you = يُوفر لك { -brand-name-firefox } أدوات بسيطة لكنّها قوية لإدارة بياناتك بالطريقة التي تُريدها. يُمكنك ضبط إعداداتك بدقة، وفصل العمل عن حياتك الشخصية، أو مسح السِجل غير المرغوب فيه بنقرات قليلة فقط.

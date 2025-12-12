@@ -16,7 +16,6 @@ reporting-how-to-give-a-report = रिपोर्ट कैसे दें
 reporting-if-you-believe-someone = अगर आप मानते हैं कि किसी को खतरा है तो स्थानीय आपातकालीन नंबर पर कॉल करें।
 reporting-if-you-have-a-report-by = अगर आपके पास योगदानकर्ता (उदाहरण के लिए, एक योगदानकर्ता <strong>दूसरे </strong> योगदानकर्ता के <strong>बारे में</strong> रिपोर्ट करता है) <strong> की ओर से <em>और</em> उसके बारे में </strong> कोई रिपोर्ट है, तो आपको <a href="{ $community_hotline }">सामुदायिक भागीदारी दिशानिर्देश हॉटलाइन</a> पर रिपोर्ट करना चाहिए।
 reporting-if-you-have-a-report-by-email = अगर आपके पास योगदानकर्ता (उदाहरण के लिए, <strong>एक</strong> योगदानकर्ता दूसरे योगदानकर्ता के <strong>बारे</strong> में रिपोर्ट करता है) <strong>की ओर से <em>और</em> उसके बारे में</strong>कोई रिपोर्ट है, तो आपको <a href="{ $mailto_report }">cpg-report@mozilla.com</a> पर रिपोर्ट करना चाहिए।
-reporting-if-you-have-a-report-involving = अगर आपके पास कोई रिपोर्ट है <strong>जिसमें कर्मचारी, ठेकेदार या विक्रेता</strong> (उदाहरण के लिए, अगर कर्मचारी <strong>द्वारा</strong> या किसी दूसरे कर्मचारी <strong>के लिए</strong> रिपोर्ट की गई है) तो आपको <a href="{ $employee_hotline }">{ -brand-name-mozilla } कर्मचारी हॉटलाइन</a> पर रिपोर्ट करना चाहिए।
 reporting-put-another-way = दूसरे तरीके से…
 reporting-by = द्वारा
 reporting-employee = कर्मचारी

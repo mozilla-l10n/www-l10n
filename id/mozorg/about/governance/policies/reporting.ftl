@@ -16,7 +16,6 @@ reporting-how-to-give-a-report = Cara Memberikan Laporan
 reporting-if-you-believe-someone = Jika Anda yakin seseorang dalam bahaya fisik, hubungi nomor darurat setempat.
 reporting-if-you-have-a-report-by = Jika Anda memiliki laporan <strong>oleh <em>dan</em> tentang</strong> seorang kontributor (misalnya, laporannya dibuat <strong>oleh</strong> seorang kontributor <strong>mengenai</strong> kontributor lain), maka Anda harus membuat laporan Anda ke <a href="{ $community_hotline }">hotline Panduan Partisipasi Komunitas</a>.
 reporting-if-you-have-a-report-by-email = Jika Anda memiliki laporan <strong>oleh <em>dan</em> tentang</strong> seorang kontributor (misalnya, laporannya dibuat <strong>oleh</strong> seorang kontributor <strong>mengenai</strong> kontributor lain), maka Anda harus membuat laporan Anda ke <a href="{ $mailto_report }">cpg-report@mozilla.com</a>.
-reporting-if-you-have-a-report-involving = Jika Anda memiliki laporan yang <strong>melibatkan karyawan, kontraktor, atau vendor</strong> (misalnya, laporannya dibuat <strong>oleh</strong> seorang karyawan atau <strong>mengenai</strong> karyawan), maka Anda harus melaporkan ke <a href="{ $employee_hotline }">hotline Karyawan { -brand-name-mozilla }</a>.
 reporting-put-another-way = Ambil jalan lain…
 reporting-by = Oleh
 reporting-employee = Karyawan

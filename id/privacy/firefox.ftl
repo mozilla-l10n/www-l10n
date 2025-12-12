@@ -6,7 +6,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Prinsip dasar privasi
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Anda memegang kendali
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Privasi bukan hanya sekadar pengaturan — itu hak Anda. Pemberitahuan Privasi { -brand-name-firefox } didasarkan pada kejelasan, kendali, dan pengaturan default yang bertanggung jawab. Kami yakin bahwa Anda harus selalu memiliki kendali atas penggunaan data pribadi Anda. Anda dapat mengandalkan kami untuk memberikan penjelasan tentang apa yang dilakukan { -brand-name-firefox } secara default dan menyesuaikan pengaturan Anda, sehingga Anda dapat menjelajah sesuai keinginan.
 privacy-firefox-read-our-privacy = Baca Pemberitahuan Privasi kami
 
@@ -17,7 +19,10 @@ privacy-firefox-transparency-first = Mengutamakan transparansi
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Kami transparan tentang data yang kami gunakan dan alasannya. Tidak ada kejutan. <a { $attrs }>Pemberitahuan Privasi { -brand-name-firefox }</a> menjelaskan hal ini untuk Anda.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Cara kami menggunakan data
+privacy-firefox-how-we-use-v2 = Pribadi secara bawaan
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Kami menggunakan data untuk memastikan { -brand-name-firefox } berfungsi dengan baik, meningkatkan fitur, dan mendukung keberlanjutan bisnis — semuanya dengan tetap menghormati privasi Anda. Beberapa fitur opsional memerlukan data tambahan untuk berfungsi, dan kami menyediakan cara mudah bagi Anda untuk mengelola preferensi tersebut.
 privacy-firefox-builtin-control = Kontrol bawaan
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } memberi Anda alat sederhana namun canggih untuk mengelola data sesuai keinginan. Anda dapat menyesuaikan pengaturan, memisahkan antara pekerjaan dan kehidupan pribadi, atau menghapus riwayat yang tidak diinginkan hanya dalam beberapa klik.
