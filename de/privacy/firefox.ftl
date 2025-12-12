@@ -6,7 +6,9 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Datenschutz-Basics
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Du hast die Kontrolle
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Datenschutz ist nicht nur eine Einstellung – er ist dein Recht. Der Datenschutzhinweis von { -brand-name-firefox } baut auf Klarheit, Kontrolle und verantwortungsvollen Standards auf. Wir finden, dass du immer selbst bestimmen solltest, was mit deinen Daten passiert. Du kannst dir sicher sein, dass wir dir genau erklären, was { -brand-name-firefox } standardmäßig mit Daten tut, und dass du deine Einstellungen anpassen kannst, damit du online so unterwegs bist, wie du möchtest.
 privacy-firefox-read-our-privacy = Lies unseren Datenschutzhinweis
 
@@ -17,7 +19,10 @@ privacy-firefox-transparency-first = Transparenz geht vor
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Wir sagen klar, welche Daten wir nutzen und weshalb. Keine Überraschungen. Der <a { $attrs }>{ -brand-name-firefox } Datenschutzhinweis von</a> listet das für dich detailliert auf.
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Wie wir Daten nutzen
+privacy-firefox-how-we-use-v2 = Privatsphäre als Standard
+# Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Wir nutzen Daten, damit { -brand-name-firefox } störfrei läuft, um Funktionen zu verbessern und unser Unternehmen tragen – und dabei respektieren wir immer deine Privatsphäre. Damit einige optionale Funktionen funktionieren, können zusätzliche Daten nötig sein. Deshalb ist es einfach, deine Einstellungen anzupassen.
 privacy-firefox-builtin-control = Integrierte Kontrolle
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } stellt dir einfache und trotzdem kraftvolle Tools bereit, um deine Daten so zu verwalten, wie du es möchtest. Du kannst deine Einstellungen auf kleinste Details abstimmen, Arbeit und Persönliches trennen oder ungewollte Verläufe löschen – alles mit nur wenigen Klicks.
