@@ -9,8 +9,10 @@
 privacy-firefox-basics = Elementos de confidentialitate
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Tu es al commando
+privacy-firefox-youre-in-control-v2 = Tu es al commando de tu datos
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Confidentialitate non es justo un parametro, illo es tu derecto. Le Aviso de confidentialitate de  { -brand-name-firefox } es basate sur claritate, controlo e parametros predefinite responsabile. Nos crede que tu debe sempre esser al direction de lo que eveni con tu datos. Tu pote contar sur nos pro clarmente explicar que { -brand-name-firefox } face de ordinario e adjustar tu parametros assi que tu pote navigar per le via que tu vole.
+privacy-firefox-privacy-isnt-just-v2 = Ecce le vision general: { -brand-name-firefox } es producite con confidentialitate e protection predefinite. Nos non sape multo re te. Le poco que nos sape, nos jammais vende. E diversemente de altere navigatores, nos te da le option de disactivar le cosalia que te enoia. Le Aviso de confidentialitate de  { -brand-name-firefox } es basate sur claritate, controlo e parametros predefinite responsabile. Tu pote contar sur nos pro clarmente explicar lo que { -brand-name-firefox } face de ordinario e adjustar tu parametros assi que tu pote navigar per le maniera que tu vole.
 privacy-firefox-read-our-privacy = Lege nostre aviso de confidentialitate
 privacy-firefox-keeping-you-informed = Mantenente te informate, cata passo del via
 privacy-firefox-we-believe-you = Nos crede que tu debe saper como tu datos es usate e perque. { -brand-name-firefox } es construite con confidentialitate in mente e transparentia a cata passo.
@@ -23,6 +25,9 @@ privacy-firefox-how-we-use = Como nos usa datos
 privacy-firefox-how-we-use-v2 = Private de ordinario
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Nos usa datos pro mantener { -brand-name-firefox } functionante lisiemente, meliorar functiones e adjutar a sustener nostre commercio: toto respectante tu confidentialitate. Alcun functiones optional pote requirer altere datos pro functionar, e render facile pro nos gerer tu preferentias.
+# Variables:
+#   $attrs (string) - link to https://firefox-source-docs.mozilla.org/contributing/data-collection.html#browsing-data
+privacy-firefox-we-use-data-v2 = Diversemente de multe altere navigatores ubi tu datos sensibile de usator es de routine colligite e immagazinate, { -brand-name-firefox } es basate sur le le <a { $attrs }>principio</a> que mesmo { -brand-name-mozilla } non debe saper le sitos web que tu visita o lo que tu face illac.
 privacy-firefox-builtin-control = Controlo integrate
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } te da simple e totevia potente utensiles pro gerer tu datos le maniera que tu vole. Tu pote accordar finmente tu parametros, separar le labor de tu vita personal o cancellar le chronologia indesirate con justo alcun clics.
 privacy-firefox-always-protected = Sempre protecte
