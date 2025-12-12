@@ -60,6 +60,7 @@ newsletters-please-select-country = 国または地域を選択してくださ�
 # Form field error message
 newsletters-please-select-language = 言語を選択してください
 
+newsletters-it-may-take = 新しく登録された情報は、このページに反映されるまでに最大 1 時間ほどかかる場合があります。
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
