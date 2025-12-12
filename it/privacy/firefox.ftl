@@ -21,6 +21,7 @@ privacy-firefox-transparency-first = La trasparenza prima di tutto
 privacy-firefox-were-clear-about = Siamo chiari su quali dati utilizziamo e per quale motivo. Nessuna sorpresa. L’<a { $attrs }>informativa sulla privacy di { -brand-name-firefox }</a> contiene informazioni dettagliate su questi aspetti.
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Come utilizziamo i dati
+privacy-firefox-how-we-use-v2 = Privato per impostazione predefinita
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Utilizziamo i dati per garantire il corretto funzionamento di { -brand-name-firefox }, migliorarne le funzionalità e sostenere la nostra attività, il tutto nel rispetto della tua privacy. Alcune caratteristiche opzionali potrebbero richiedere dati aggiuntivi per funzionare e facciamo in modo che tu possa gestire le tue preferenze in modo semplice.
 privacy-firefox-builtin-control = Controllo integrato
