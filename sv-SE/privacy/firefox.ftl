@@ -9,6 +9,7 @@
 privacy-firefox-basics = Grunderna i sekretess
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Du har kontrollen
+privacy-firefox-youre-in-control-v2 = Du har kontroll över din data
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Integritet är inte bara en inställning — det är din rättighet. Sekretessmeddelandet för { -brand-name-firefox } bygger på tydlighet, kontroll och ansvarsfulla standardinställningar. Vi anser att du alltid ska ha kontroll över vad som händer med dina data. Du kan lita på att vi tydligt förklarar vad { -brand-name-firefox } gör som standard och justerar dina inställningar så att du kan surfa som du vill.
 privacy-firefox-read-our-privacy = Läs vårt sekretessmeddelande
