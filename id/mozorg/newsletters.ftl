@@ -60,6 +60,7 @@ newsletters-please-select-country = Pilih negara atau wilayah
 # Form field error message
 newsletters-please-select-language = Pilih bahasa
 
+newsletters-it-may-take = Informasi yang baru Anda terima langganannya mungkin memerlukan waktu hingga satu jam untuk muncul di halaman ini.
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
