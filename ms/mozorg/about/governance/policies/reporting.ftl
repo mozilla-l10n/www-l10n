@@ -16,7 +16,6 @@ reporting-how-to-give-a-report = Bagaimana Membuat Laporan
 reporting-if-you-believe-someone = Sekiranya anda percaya seseorang berada dalam bahaya, hubungi nombor kecemasan tempat anda.
 reporting-if-you-have-a-report-by = Jika anda mempunyai laporan <strong>oleh <em>dan</em> mengenai</strong> seorang penyumbang (contohnya, laporan dibuat <strong>oleh</strong> seorang penyumbang <strong>berkenaan</strong> penyumbang yang lain), maka anda patut membuat laporan kepada <a href="{ $community_hotline }"> talian Garis Panduan Penyertaan Komuniti</a>.
 reporting-if-you-have-a-report-by-email = Jika anda mempunyai laporan <strong> oleh <em>dan</em> mengenai</strong> seorang penyumbang (contohnya, laporan dibuat <strong>oleh</strong> seorang penyumbang <strong>berkenaan</strong> penyumbang yang lain), maka anda patut membuat laporan kepada <a href="{ $mailto_report }">cpg-report@mozilla.com</a>.
-reporting-if-you-have-a-report-involving = Sekiranya anda mempunyai laporan yang <strong>melibatkan pekerja, kontraktor, atau vendor</strong> (misalnya, laporan tersebut dibuat <strong>oleh</strong> kakitangan atau <strong>berkaitan</strong> dengan kakitangan), maka anda harus melaporkannya di <a href="{ $employee_hotline }">talian Pekerja { -brand-name-mozilla }</a>.
 reporting-put-another-way = Dalam kata lain…
 reporting-by = Oleh
 reporting-employee = Kakitangan
