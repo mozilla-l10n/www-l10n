@@ -115,8 +115,12 @@ m24-home-topic-open-source-ai = Åpen kildekode AI
 m24-home-topic-ps = Personvern og sikkerhet
 m24-home-headline-you-ai-v2 = Du, AI og internett — hva skjer egentlig?
 m24-home-shake-to-summarize = Rist for å oppsummere i TIMEs beste oppfinnelser i 2025
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } ønsker Raffi Krikorian velkommen som teknologidirektør
+m24-home-tech-target = Teknisk mål
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Introduksjon av Thundermail og Thunderbird Pro
+# Obsolete string (expires 2026-03-01)
+m24-home-tech-crunch = Tech Crunch
 m24-home-tech-crunch-v2 = TechCrunch
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
