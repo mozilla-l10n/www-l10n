@@ -159,4 +159,5 @@ m24-home-irl-listen-now = Lytt nå
 
 ## Outside the Fox
 
+m24-home-outside-the-fox = Outside the Fox
 m24-home-fox-listen-now = Lytt nå
