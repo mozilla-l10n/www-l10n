@@ -17,12 +17,14 @@ reporting-how-to-give-a-report = Cómo presentar una denuncia
 reporting-if-you-believe-someone = Si crees que alguien está en peligro físicamente, llama al teléfono de emergencias de tu país.
 reporting-if-you-have-a-report-by = Si se trata de una denuncia realizada <strong>por <em>y</em> sobre</strong> un colaborador (por ejemplo, cuando un colaborador <strong>denuncia</strong> el comportamiento <strong>de</strong> otro colaborador ), en ese caso debes hacer la denuncia a través de la <a href="{ $community_hotline }">línea directa para asuntos relacionados con las Pautas para la participación en la comunidad</a>.
 reporting-if-you-have-a-report-by-email = Si tienes una denuncia <strong>de <em>y</em> acerca de</strong> un colaborador (por ejemplo, la denuncia es <strong>de</strong> un colaborador <strong>acerca de</strong> otro colaborador), entonces deberías hacer tu denuncia en <a href="{ $mailto_report }">cpg-report@mozilla.com</a>.
+reporting-if-you-have-a-report-involving-v2 = Si tienes una denuncia de un colaborador sobre <strong>un empleado</strong>, deberías avisar en la <a href="{ $employee_hotline }">Línea directa para empleados de { -brand-name-mozilla }</a>. Si eres empleado y necesitas enviar una denuncia, revisa las políticas y procedimientos internos de { -brand-name-mozilla } para ver qué opciones tienes.
 reporting-put-another-way = Dicho de otra manera:
 reporting-by = Por
 reporting-employee = Empleado
 reporting-contributor = Colaborador
 reporting-about = Sobre
 reporting-employee-hotline = Línea directa para empleados
+reporting-internal-policies = Consulta las políticas y procedimientos internos de { -brand-name-mozilla }
 reporting-contractor = Contratista
 reporting-vendor = Proveedor
 reporting-if-someone-reports-to = Si alguien te presenta una denuncia…

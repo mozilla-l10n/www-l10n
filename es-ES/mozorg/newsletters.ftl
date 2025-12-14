@@ -45,6 +45,7 @@ newsletters-not-all-subscriptions-are = No todas las suscripciones están dispon
 newsletters-please-select-country = Por favor, selecciona un país o región
 # Form field error message
 newsletters-please-select-language = Por favor, selecciona un idioma
+newsletters-it-may-take = La información recién suscrita puede tardar hasta una hora en aparecer en esta página.
 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data

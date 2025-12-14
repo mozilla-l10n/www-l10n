@@ -120,20 +120,25 @@ m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = El CEO de { -brand-name-mozilla-ai-v2 } habla sobre las ventajas de la IA de código abierto
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Presentamos Thundermail y Thunderbird Pro
+m24-home-introducing-thundermail-and-v2 = Presentamos { -brand-name-thundermail } y { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = El futuro de la tecnología es una elección. Elige con nosotros.
 m24-home-how-ventures-investee = Cómo Ventures Investee Germ está reforzando la criptografía
 # Obsolete string (expires 2026-03-01)
 m24-home-tech-crunch = Tech Crunch
+m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = ‘Un buen momento para nosotros’: { -brand-name-firefox } se centra en los navegadores con inteligencia artificial y el futuro de la web.
 m24-home-the-guardian = The Guardian
 m24-home-interview-take-open = Entrevista: Llevando el código abierto a la era de la IA
 # Obsolete string (expires 2026-03-20)
 m24-home-mit-sloan-review = MIT Sloan Review
 m24-home-mit-sloan-management-review = MIT Sloan Management Review
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } financia la plataforma de redes Filament
 m24-home-axios = Axios
 m24-home-mozillas-new-message = Nuevo mensaje de { -brand-name-mozilla }: Somos el único navegador no respaldado por multimillonarios
 m24-home-fast-company = Fast Company
 m24-home-will-agi-be = ¿Se convertirá la IAG en una realidad? ¿Estamos preparados?
+m24-home-conversation-charting-a = Conversación: Trazando un futuro para la accesibilidad y la autonomía
+m24-home-tech-policy-press = Tech Policy Press
 m24-home-open-by-design = Abierto por diseño: cómo pueden competir las naciones en la era de la IA
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } traza un nuevo rumbo con un giro hacia la rentabilidad
