@@ -12,6 +12,7 @@ privacy-firefox-youre-in-control = Tu deții controlul
 privacy-firefox-youre-in-control-v2 = Tu deții controlul asupra datelor tale
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Confidențialitatea nu este doar o setare — este dreptul tău. Notificarea { -brand-name-firefox } privind confidențialitatea este construită pe claritate, control și setări implicite responsabile. Credem că ar trebui să fii întotdeauna responsabil(ă) pentru ce se întâmplă cu datele tale. Poți conta pe noi să îți explicăm clar ce face { -brand-name-firefox } implicit și să îți ajustăm setările, astfel încât să poți naviga așa cum vrei.
+privacy-firefox-privacy-isnt-just-v2 = Iată imaginea de ansamblu: { -brand-name-firefox } este construit cu protecție și confidențialitate implicite. Nu știm prea multe despre tine. Puținul pe care îl știm nu îl vindem niciodată. Și, spre deosebire de alte browsere, îți oferim opțiunea de a dezactiva ce te deranjează. Notificarea privind confidențialitatea { -brand-name-firefox } este construită pe claritate, control și setări implicite responsabile. Poți conta pe noi să îți explicăm clar ce face { -brand-name-firefox } implicit și să îți ajustezi setările, astfel încât să poți naviga cum vrei.
 privacy-firefox-read-our-privacy = Citește-ne Notificarea privind confidențialitatea
 privacy-firefox-keeping-you-informed = Te ținem la curent, la fiecare pas
 privacy-firefox-we-believe-you = Credem că ar trebui să știi cum sunt utilizate datele tale și de ce. { -brand-name-firefox } este construit având în vedere confidențialitatea și transparența la fiecare pas.
@@ -21,8 +22,12 @@ privacy-firefox-transparency-first = Transparența pe primul loc
 privacy-firefox-were-clear-about = Suntem clari în ceea ce privește datele pe care le folosim și motivul pentru care le folosim. Fără surprize. <a { $attrs }>Notificarea privind confidențialitatea { -brand-name-firefox }</a> detaliază pentru tine.
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Cum folosim datele
+privacy-firefox-how-we-use-v2 = Confidențialitate implicită
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Folosim datele pentru a menține funcționarea fără probleme a { -brand-name-firefox }, pentru a îmbunătăți funcțiile și pentru a ne susține afacerea — toate respectând confidențialitatea ta. Unele funcții opționale pot necesita date suplimentare ca să funcționeze, iar noi îți facilităm gestionarea preferințelor.
+# Variables:
+#   $attrs (string) - link to https://firefox-source-docs.mozilla.org/contributing/data-collection.html#browsing-data
+privacy-firefox-we-use-data-v2 = Spre deosebire de multe alte browsere unde datele sensibile ale utilizatorilor sunt colectate și stocate în mod curent, { -brand-name-firefox } este construit pe <a { $attrs }>principiul</a> conform căruia nici măcar { -brand-name-mozilla } nu ar trebui să știe pe ce site-uri web intri sau ce faci pe acolo.
 privacy-firefox-builtin-control = Control încorporat
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } îți oferă instrumente simple, dar puternice, pentru a-ți gestiona datele așa cum vrei. Poți ajusta setările, separa munca de viața personală sau șterge istoricul nedorit cu doar câteva clicuri.
 privacy-firefox-always-protected = Întotdeauna protejat(ă)
