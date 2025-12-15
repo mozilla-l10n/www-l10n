@@ -9,6 +9,7 @@
 privacy-firefox-basics = Noțiuni de bază despre confidențialitate
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Tu deții controlul
+privacy-firefox-youre-in-control-v2 = Tu deții controlul asupra datelor tale
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Confidențialitatea nu este doar o setare — este dreptul tău. Notificarea { -brand-name-firefox } privind confidențialitatea este construită pe claritate, control și setări implicite responsabile. Credem că ar trebui să fii întotdeauna responsabil(ă) pentru ce se întâmplă cu datele tale. Poți conta pe noi să îți explicăm clar ce face { -brand-name-firefox } implicit și să îți ajustăm setările, astfel încât să poți naviga așa cum vrei.
 privacy-firefox-read-our-privacy = Citește-ne Notificarea privind confidențialitatea
