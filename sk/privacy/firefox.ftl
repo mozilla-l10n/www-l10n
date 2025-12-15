@@ -9,6 +9,7 @@
 privacy-firefox-basics = Základy ochrany osobných údajov
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Máte to pod kontrolou
+privacy-firefox-youre-in-control-v2 = Máte kontrolu nad svojimi údajmi
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Ochrana osobných údajov nie je len nastavenie – je to vaše právo. Vyhlásenie o ochrane osobných údajov { -brand-name-firefox(case: "gen") } je založené na jasnosti, kontrole a zodpovedných predvolených nastaveniach. Veríme, že by ste mali mať vždy kontrolu nad tým, čo sa deje s vašimi údajmi. Môžete sa na nás spoľahnúť, že vám jasne vysvetlíme, čo { -brand-name-firefox } robí štandardne, a upravíme vaše nastavenia tak, aby ste si mohli prehliadať web podľa svojich predstáv.
 privacy-firefox-read-our-privacy = Prečítajte si naše Vyhlásenie o ochrane osobných údajov
@@ -22,6 +23,9 @@ privacy-firefox-were-clear-about = Jasne uvádzame, aké údaje používame a pr
 privacy-firefox-how-we-use = Ako používame údaje
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Údaje používame na zabezpečenie bezproblémového chodu prehliadača { -brand-name-firefox }, na zlepšenie funkcií a na udržanie nášho podnikania – a to všetko s rešpektom k vášmu súkromiu. Niektoré voliteľné funkcie môžu na fungovanie vyžadovať dodatočné údaje a my vám uľahčujeme správu vašich preferencií.
+# Variables:
+#   $attrs (string) - link to https://firefox-source-docs.mozilla.org/contributing/data-collection.html#browsing-data
+privacy-firefox-we-use-data-v2 = Na rozdiel od mnohých iných prehliadačov, kde sa bežne zhromažďujú a ukladajú citlivé údaje o používateľoch, { -brand-name-firefox } je postavený na <a { $attrs }>princípe</a>, že ani { -brand-name-mozilla } by nemal vedieť, ktoré webové stránky navštevujete alebo čo tam robíte.
 privacy-firefox-builtin-control = Zabudované nástroje
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } vám poskytuje jednoduché, no zároveň výkonné nástroje na správu vašich údajov podľa vašich predstáv. Môžete si doladiť nastavenia, oddeliť prácu od osobného života alebo vymazať nechcenú históriu len niekoľkými kliknutiami.
 privacy-firefox-always-protected = Vždy chránený
