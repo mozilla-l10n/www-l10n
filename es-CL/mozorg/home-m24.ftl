@@ -95,6 +95,7 @@ m24-home-alt-transformation = Change Signal con Mark Surman y MBS
 # Used as an accessible text alternative for an image
 m24-home-alt-pink-cloud = Nube con fondo rosa
 m24-home-any-agent = Cualquier agente
+m24-home-stop-wiring-tools = Deja de conectar herramientas y de controlar automatizaciones frágiles. Con la Plataforma de Agentes { -brand-name-mozilla-ai-v2 }, describe tu objetivo y nosotros generamos agentes de IA adaptativos que funcionan con tus herramientas y procesos.
 
 ## Media Springboard
 
@@ -113,6 +114,35 @@ m24-home-topic-ai = Inteligencia artificial
 m24-home-topic-open-source-ai = IA de código abierto
 m24-home-topic-ps = Privacidad y seguridad
 m24-home-headline-you-ai-v2 = Usted, la IA e Internet: ¿qué está pasando realmente?
+m24-home-shake-to-summarize = Agita para resumir los mejores inventos de 2025 de la revista TIME
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } da la bienvenida a Raffi Krikorian como director de tecnología
+m24-home-tech-target = Tech Target
+m24-home-mozilla-ai-ceo = El CEO de { -brand-name-mozilla-ai-v2 } habla sobre las ventajas de la IA de código abierto
+# Obsolete string (expires 2026-03-01)
+m24-home-introducing-thundermail-and = Presentamos Thundermail y Thunderbird Pro
+m24-home-introducing-thundermail-and-v2 = Presentamos { -brand-name-thundermail } y { -brand-name-thunderbird-pro }
+m24-home-what-comes-next = El futuro de la tecnología es una elección. Elige con nosotros.
+m24-home-how-ventures-investee = Cómo Ventures Investee Germ está reforzando la criptografía
+# Obsolete string (expires 2026-03-01)
+m24-home-tech-crunch = Tech Crunch
+m24-home-tech-crunch-v2 = TechCrunch
+m24-home-a-good-moment = ‘Un buen momento para nosotros’: { -brand-name-firefox } se centra en los navegadores con inteligencia artificial y el futuro de la web.
+m24-home-the-guardian = The Guardian
+m24-home-interview-take-open = Entrevista: Llevando el código abierto a la era de la IA
+# Obsolete string (expires 2026-03-20)
+m24-home-mit-sloan-review = MIT Sloan Review
+m24-home-mit-sloan-management-review = MIT Sloan Management Review
+m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } financia la plataforma de redes Filament
+m24-home-axios = Axios
+m24-home-mozillas-new-message = Nuevo mensaje de { -brand-name-mozilla }: Somos el único navegador no respaldado por multimillonarios
+m24-home-fast-company = Fast Company
+m24-home-will-agi-be = ¿Se convertirá la IAG en una realidad? ¿Estamos preparados?
+m24-home-conversation-charting-a = Conversación: Trazando un futuro para la accesibilidad y la autonomía
+m24-home-tech-policy-press = Tech Policy Press
+m24-home-open-by-design = Abierto por diseño: cómo pueden competir las naciones en la era de la IA
+m24-home-mozilla = { -brand-name-mozilla }
+m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } traza un nuevo rumbo con un giro hacia la rentabilidad
+m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -131,10 +161,30 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se está reinve
 m24-home-state-of-mozilla-alt = Pixel art abstracto en tonos de verde, naranja y rosa
 m24-home-read-the-report = Leer el reporte
 
+## Data Collective
+
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-create-curate-control = Crear. Seleccionar. Controlar.
+# Obsolete string (expires 2026-03-20)
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective está reconstruyendo el ecosistema de datos de IA con las comunidades como eje central. Accede a más de 300 conjuntos de datos globales de alta calidad, creados por y para la comunidad de forma transparente y ética.
+m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective está reconstruyendo el ecosistema de datos de IA con las comunidades como eje central. Accede a más de 300 conjuntos de datos globales de alta calidad, creados por y para la comunidad de forma transparente y ética.
+m24-home-join-mozilla-data = Únete a { -brand-name-mozilla } Data Collective
+
 ## Issues
 
+m24-home-explore-issues-shaping = Explora problemas que dan forma al futuro de Internet
+m24-home-the-validation-machines = The Validation Machines
+m24-home-in-the-atlantic = En The Atlantic, el CTO de { -brand-name-mozilla }, Raffi Krikorian, pregunta por qué los chatbots y la IA generativa están tan ansiosos por complacernos y qué significa esto para la humanidad. (imagen cortesía de The Atlantic)
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = Una persona en miniatura mirando una gran tecla del teclado y una pantalla de computadora hipnotizante.
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, presentadora del podcast IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Nuestro podcast, ganador de múltiples premios, presenta a los creadores de cambios que trabajan para hacer que Internet sea más seguro y la IA más confiable.
 m24-home-irl-listen-now = Escuchar ahora
+
+## Outside the Fox
+
+m24-home-outside-the-fox = Más allá del zorro
+m24-home-this-is-where = Aquí es donde exploramos lo que está sucediendo en línea y por qué es importante, desde por qué la basura se está apoderando de Internet hasta la cultura viral de Internet.
+m24-home-fox-listen-now = Escuchar ahora
