@@ -66,6 +66,7 @@ m24-home-mozilla-builders = Созандагони «{ -brand-name-mozilla }»
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Созандагон ба таҳиягарони мустақил кумак мекунад, ки тавассути ҳамкории инфиродӣ, барномасозӣ ва ҷомеаи мо лоиҳаҳои табдилдиҳандаи манбаи кушодаи зеҳни сунъӣ (AI)-ро эҷод намоянд.
 m24-home-builders-helps-independent-v2 = «{ -brand-name-mozilla-builders }» ба барномасозон ва таҳиягарони мустақил кумак мекунад, ки онҳо тавассути ҳамкорӣ, барномасозӣ ва ҷомеаи мо лоиҳаҳои фармоишии табдилдиҳандаи манбаи кушодаи зеҳни сунъӣ (AI)-ро эҷод намоянд.
+m24-home-mozfest-join-us = Ба мо дар «{ -brand-name-mozilla-festival }» ҳамроҳ шавед
 # Used as an accessible text alternative for an image
 m24-home-alt-lumigator-logo = Ангораи «{ -brand-name-lumigator }».
 m24-home-lumigator = { -brand-name-lumigator }
@@ -83,6 +84,7 @@ m24-home-common-voice = { -brand-name-common-voice }
 m24-home-donate-your-voice-to-make = Овози худро ҳадя кунед, то технологияи нутқ фарогир ва барои ҳамаи инсонҳо боз ҳам дастрас ва қобили истифода гардад.
 m24-home-donate-your-voice = Овози худро пешкаш кунед
 m24-home-our-transformation = Табдилдиҳии фаъолияти мо
+m24-home-any-agent = Ҳар гуна омил
 
 ## Media Springboard
 
@@ -123,6 +125,7 @@ m24-home-read-the-report = Хондани гузориш
 
 ## Issues
 
+m24-home-explore-issues-shaping = Масъалаҳоеро, ки ояндаи Интернетро шакл медиҳанд, омӯзед
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Бридҷет Тодд, барандаи подкасти «IRL».
 m24-home-irl-podcast = { -brand-name-irl-podcast }
