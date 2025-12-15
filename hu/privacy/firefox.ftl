@@ -27,7 +27,7 @@ privacy-firefox-how-we-use-v2 = Alapértelmezés szerint privát
 privacy-firefox-we-use-data = Az adatokat a { -brand-name-firefox } zökkenőmentes működéséhez, a funkciók fejlesztéséhez és az üzletünk fenntartásához használjuk – mindezt az Ön adatainak tiszteletben tartásával. Néhány választható funkció működéséhez további adatokra lehet szükség, és megkönnyítjük a beállítások kezelését.
 # Variables:
 #   $attrs (string) - link to https://firefox-source-docs.mozilla.org/contributing/data-collection.html#browsing-data
-privacy-firefox-we-use-data-v2 = Sok más böngészővel ellentétben, ahol rutinszerűen gyűjtenek és tárolnak érzékeny felhasználói adatokat, a { -brand-name-firefox } arra a <a { $attrs }>elvre</a> épül, hogy még a { -brand-name-mozilla } sem tudnia kell, hogy mely weboldalakat keresi fel, és ott mit csinál.
+privacy-firefox-we-use-data-v2 = Sok más böngészővel ellentétben, ahol rutinszerűen gyűjtenek és tárolnak érzékeny felhasználói adatokat, a { -brand-name-firefox } arra az <a { $attrs }>elvre</a> épül, hogy még a { -brand-name-mozilla(ending: "accented") }nak sem kell tudnia, hogy mely weboldalakat keresi fel, és ott mit csinál.
 privacy-firefox-builtin-control = Beépített irányítás
 privacy-firefox-firefox-gives-you = A { -brand-name-firefox } egyszerű, mégis hatékony eszközöket biztosít, hogy úgy kezelje az adatait, ahogy szeretné. Néhány kattintással finomhangolja a beállításait, elkülönítheti a munkáját a magánéletétől, vagy törölheti az előzményeket.
 privacy-firefox-always-protected = Mindig védve
