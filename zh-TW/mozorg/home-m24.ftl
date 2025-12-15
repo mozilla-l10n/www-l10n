@@ -174,7 +174,7 @@ m24-home-join-mozilla-data = 加入 { -brand-name-mozilla } Data Collective
 
 m24-home-explore-issues-shaping = 探索影響網際網路未來的議題
 m24-home-the-validation-machines = The Validation Machines
-m24-home-in-the-atlantic = 在大西洋月當中{ -brand-name-mozilla } 的 CTO Raffi Krikorian 詢問為什麼聊天機器人與衍生式 AI 如此渴望取自我們以及這對人類來說代表什麼。 (圖片由大西洋網提供)
+m24-home-in-the-atlantic = { -brand-name-mozilla } 的 CTO Raffi Krikorian 在《大西洋》雜誌中詢問為什麼聊天機器人與生成式 AI 如此積極地取悅我們，以及這對人類來說代表什麼。（圖片由《大西洋》雜誌提供）
 # Used as an accessible text alternative for an image
 m24-home-alt-validation = 一個縮小版的人看著大按鍵和令人著迷的電腦螢幕
 # Used as an accessible text alternative for an image
@@ -186,5 +186,5 @@ m24-home-irl-listen-now = 立刻收聽
 ## Outside the Fox
 
 m24-home-outside-the-fox = 狐狸之外
-m24-home-this-is-where = 在這裡我們探索了網路上正在發生的事情以及它們的重要性從為什麼 slip 會接管網路到病毒式傳播的網路文化。
+m24-home-this-is-where = 這是我們探索從從為什麼 slop 會接管網路，到病毒式傳播的網路文化，各種網路上正在發生的事情，以及它們的重要性的所在。
 m24-home-fox-listen-now = 立刻收聽
