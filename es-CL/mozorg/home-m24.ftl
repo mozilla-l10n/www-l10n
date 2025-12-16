@@ -68,6 +68,7 @@ m24-home-own-what-you = Sé dueño de lo que construyes
 m24-home-do-we-need-a = ¿Necesitamos un "LAMP Stack" para la era de la IA? Necesitamos tecnología transparente, responsable y que sea de propiedad de quienes la usan.
 m24-home-watch-now = Mirar ahora
 m24-home-choice-first-stack = Primera Stack de elección
+m24-home-your-tools-your = Tus herramientas, tu elección. Un stack unificado de código abierto que simplifica la creación y prueba tanto de agentes como de aplicaciones de IA modernas.
 m24-home-get-started-now = Empezar ahora
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Orador en el escenario con múltiples logotipos de productos.
@@ -77,6 +78,7 @@ m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective está reconstruyendo el ecosistema de datos de IA con las comunidades como eje central. Accede a más de 300 conjuntos de datos globales de alta calidad, creados por y para la comunidad de forma transparente y ética.
 m24-home-join-today = Únete hoy
 m24-home-a-double-bottom = Un doble resultado para la tecnología
+m24-home-mark-surman-discusses = Mark Surman analiza cómo podemos construir un ecosistema tecnológico con un doble resultado: uno que valore tanto la misión como el dinero.
 m24-home-agent-platform = Plataforma de agentes
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Cualquier agente
