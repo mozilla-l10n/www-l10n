@@ -63,13 +63,23 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders ეხმარება დამოუკიდებელ შემმუშავებლებს ღია წყაროს მქონე AI-საშუალებების შექმნაში ცალკეული თანამშრომლობის, პროგრამებისა და საზოგადოებების ჩამოყალიბებით.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } ეხმარება დამოუკიდებელ შემმუშავებლებს, შექმნან ახლებური სახის ღია წყაროს მქონე AI-პროექტები ცალკეული თანამშრომლობის, დაპროგრამებისა და საზოგადოებების მეშვეობით.
+m24-home-own-what-you = დაეუფლეთ იმას, რასაც აგებთ
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = გვჭირდება თუ არა "LAMP სტეკი" ხელოვნური ინტელექტის ეპოქისთვის? ჩვენ გვესაჭიროება ტექნოლოგია, რომელიც გამჭვირვალე, ანგარიშვალდებული და იმ ხალხის საკუთრებაა, ვინც ამით იყენებს.
 m24-home-watch-now = უყურეთ ახლავე
+m24-home-choice-first-stack = აირჩიეთ პირველი სტეკი
+m24-home-your-tools-your = ხელსაწყოები, თქვენი არჩევანი. ერთიანი ღია წყაროს სტეკი, რომელიც ამარტივებს AI-ის თანამედროვე აგენტებისა და აპების შექმნასა და შემოწმებას.
+m24-home-get-started-now = დაიწყეთ ახლავე
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = სცენაზე გამოსული მოსაუბრე ფონზე მრავალი პროდუქტის ლოგოთი.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = წამოწყება გაქვთ, რომელიც ადრეულ საფეხურზეა? წარადგინეთ თქვენი კომპანია და { -brand-name-mozilla-ventures } უზრუნველყოფს მის დაფინანსებას, მომავლისა და ხელოვნური გონის დადებითი კუთხით განვითარებისთვის.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } მონაცემთა კრებული
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Colective აღადგენს AI მონაცემთა ეკოსისტემას ერთობებით, ცენტრში. იხილეთ 300-ზე მეტი მაღალი ხარისხის გლობალური მონაცემთა კრებული, რომლებიც შექმნილია საზოგადოებისთვის გამჭვირვალედ და ეთიკური გზით.
+m24-home-join-today = შემოუერთდით დღესვე
+m24-home-a-double-bottom = ორმაგი ქვედა ხაზი ტექ
+m24-home-mark-surman-discusses = მარკ სურმანი განიხილავს, თუ როგორ უნდა ავაშენოთ ტექ ეკოსისტემა ორმაგი არეში — ისეთი, რომელიც ღირებულია როგორც მისიას, ასევე ფულსაც.
+m24-home-agent-platform = აგენტის პლატფორმა
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = ნებისმიერი აგენტი
 m24-home-stop-wiring-tools = შეაჩერეთ სადენების მიბმა და მყიფე ავტომატიზაციის შეწყვეტა. { -brand-name-mozilla-ai-v2 } აგენტის პლატფორმით, თქვენ აღწერთ თქვენს მიზანს, ჩვენ ვქმნით AI-ის ადაპტირებულ აგენტებს, თქვენს ხელსაწყოებსა და პროცესებზე მომუშავე.
@@ -104,6 +114,11 @@ m24-home-axios = აქსიოსი
 m24-home-mozillas-new-message = { -brand-name-mozilla }-ის ახალი შეტყობინება: ჩვენ ვართ ერთადერთი ბრაუზერი, რომელსაც მილიონერები არ ქმნიან
 m24-home-fast-company = სწრაფი კომპანია
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = The FT
+m24-home-rewiring-mozilla = { -brand-name-mozilla }-ის კავშირი: ხელოვნური ინტელექტისთვის ის, რასაც ვაკეთებთ, ინტერნეტისთვის
+m24-home-interview-with-mark = ინტერვიუ მარკ სურმანთან: როგორ ერგება { -brand-name-mozilla } ხელოვნური ინტელექტის ასაკს
+m24-home-women-in-product = ქალები პროდუქტში სასაუბროში: GenAI-ის დამატება სინამდვილის დაკარგვის გარეშე
+m24-home-scaling-open-source = Scaling Open Source AI: მარკ სურმანი და ტიმ ბრედშოუ
 
 ## Showcase
 
@@ -118,9 +133,18 @@ m24-home-alt-rise25-smiling = თავდაჯერებული, მოღ
 m24-home-alt-rise25-joyous = გახარებული დაჯილდოებული, { -brand-name-rise25 }.
 m24-home-state-of-mozilla = რა მდგომარეობაშია { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } ცდილობს სრულიად გარდაიქმნას, მოიცვას მრავალი დარგი სხვადასხვა დაწესებულებების მეშვეობით, ახლებური გზებით მიაწვდინოს ხალხს ხმა და შექმნას ღია წყაროს მქონე ხელოვნური გონის ეკოსისტემა. გაეცანით { -brand-name-mozilla }-ს მდგომარეობას 2024 წლის მოხსენებაში.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } ცდილობს საკუთარი თავის ხელახლა გამოგონებას, მრავალფეროვანი დაწესებულების ირგვლივ გამრავალფეროვნებით, რეკლამის ხელახლა წარმოსახვით და ღია წყაროს მქონე ხელოვნური ინტელექტის ეკოსისტემას. იხილეთ ამის შესახებ { -brand-name-mozilla } { $year } მოხსენებაში.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = განყენებული პიქსელური მხატვრობა მწვანე, ნარინჯისფერ და ვარდისფერ ფერებში
 m24-home-read-the-report = გაეცანით მოხსენებას
+
+## Nothing Personal
+
+m24-home-mozilla-nothing-personal = არაფერი პირადი
+m24-home-our-new-magazine = ჩვენი ახალი ჟურნალი დამოუკიდებელი მოაზროვნეებისთვის, ტექნოლოგებისა და შემოქმედებისთვის, ციფრული კულტურის წინა ხაზზე.
+m24-home-read-now = წაიკითხეთ ახლავე
 
 ## Issues
 

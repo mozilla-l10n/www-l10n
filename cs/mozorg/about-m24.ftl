@@ -36,6 +36,12 @@ m24-about-we-fund-and = Financujeme a investujeme do lidí a úsilí, které pos
 
 m24-about-read-more = Přečtěte si více
 m24-about-read-the-latest = Přečtěte si nejnovější novinky a články o { -brand-name-mozilla(case: "loc") }
+m24-about-rewiring-mozilla = Rewiring { -brand-name-mozilla }: Děláme pro umělou inteligenci Co jsme udělali pro web. Přečtěte si o naší strategii nové generace a o tom, jak přetváříme částku za { -brand-name-mozilla } pro éru umělé inteligence.
+m24-about-what-comes-next = Co dalšího se stane v oblasti technologií, je otázka volby. Vybírejte s námi.
+m24-about-watch-here = Sledujte zde
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = Můžeme mít v oblasti technologií dvojité sečtené podtrženo? Mark Surman hovoří o tom, jak můžeme vybudovat technologický ekosystém s dvojitým ziskem – takový, který si váží poslání i peněz.
+m24-about-watch-now = Sledujte nyní
 
 ## Showcase
 

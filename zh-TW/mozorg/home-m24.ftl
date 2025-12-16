@@ -63,13 +63,23 @@ m24-home-mozilla-builders = { -brand-name-mozilla } 建設者
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders 透過量身定做的協作、程式與社群合作，幫助獨立開發者打造革命性的開放原始碼 AI 專案。
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } 透過量身定做的協作、程式與社群合作，幫助獨立開發者打造革命性的開放原始碼 AI 專案。
+m24-home-own-what-you = 打造什麼就擁有什麼
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = AI 時代還需要「Lamp Stack」嗎我們需要透明、負責、並歸使用者所有的技術。
 m24-home-watch-now = 立刻觀看
+m24-home-choice-first-stack = 選擇優先堆疊
+m24-home-your-tools-your = 工具自行決定。簡化現代 AI 程式與應用程式的編譯與測試過程的統一開放原始碼堆疊。
+m24-home-get-started-now = 立刻開始
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = 講者在舞台上，背景畫面有多個產品圖示。
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = 有處於早期創業階段的公司嗎？向 { -brand-name-mozilla-ventures } Pitch，並且爭取能對推動 AI 與網際網路的未來發生正面變化的投資。
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective 正在重建以社群為中心的 AI 資料生態系統。使用超過 300 組由社群、為了社群打造，透明且有道德的高品質全球資料集。
+m24-home-join-today = 立刻加入
+m24-home-a-double-bottom = 對科技公司來說有雙倍的底線
+m24-home-mark-surman-discusses = Mark Surman 討論了我們要如何打造一個有雙重底線的科技生態系統 — 既看重使命也看重金錢。
+m24-home-agent-platform = 代理平台
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Any Agent
 m24-home-stop-wiring-tools = 不用再把工具綁在一起，也不用再煩惱不穩定的自動化設定了。透過 { -brand-name-mozilla-ai-v2 } 代理平台，只要描述好您的目標，我們就會自動產生能操作您工具與配合流程的適應性 AI 代理。
@@ -104,6 +114,11 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = { -brand-name-mozilla } 的新訊息：我們是唯一不由億萬富豪在背後支持的瀏覽器
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = 英國《金融時報》
+m24-home-rewiring-mozilla = Rewiring { -brand-name-mozilla }: for AI如同我們為 Web 所做的那樣
+m24-home-interview-with-mark = 專訪 Mark Surman: { -brand-name-mozilla } 如何適應 AI 時代
+m24-home-women-in-product = 女性在產品中的對話: 加入 EnAI 而不失去主旨
+m24-home-scaling-open-source = 縮放開放原始碼 AI: Mark Surman & Tim Bradshaw
 
 ## Showcase
 
@@ -118,9 +133,18 @@ m24-home-alt-rise25-smiling = { -brand-name-rise25 } 自信滿滿地微笑著的
 m24-home-alt-rise25-joyous = { -brand-name-rise25 } 歡樂的得獎者。
 m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } 正在改造自己、建立多元化的組織、重新構想廣告產業，並建立開放原始碼的 AI 生態系統。請閱讀 State of { -brand-name-mozilla } 2024 年報來深入了解。
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } 圍繞一系列組織進行多樣化、重新構想廣告業並打造一個開放原始碼的 AI 生態系統來重新塑造自己。到 { -brand-name-mozilla } { $year } 狀態報告中了解情況。
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = 綠、橘、粉三種色調的抽象像素風格設計
 m24-home-read-the-report = 閱讀年報
+
+## Nothing Personal
+
+m24-home-mozilla-nothing-personal = 無關緊要
+m24-home-our-new-magazine = 我們為奮戰在數位文化前線的獨立思考者、技術專家與創意者而打造的新雜誌。
+m24-home-read-now = 立刻閱讀
 
 ## Issues
 

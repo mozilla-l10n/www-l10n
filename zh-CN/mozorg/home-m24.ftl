@@ -63,13 +63,23 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders 通过定制的协作方式、方案、社区，帮助独立开发者创建耳目一新的开源 AI 项目。
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } 通过定制的协作方式、方案、社区，帮助独立开发者创建耳目一新的开源 AI 项目。
+m24-home-own-what-you = 拥有您所构建的
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = AI 时代我们需要一个“LAMP 栈”吗我们需要透明、可信赖并为用户所有的技术。
 m24-home-watch-now = 立即观看
+m24-home-choice-first-stack = 选择第一个栈
+m24-home-your-tools-your = 您的工具您做主。一个统一的开源堆栈可简化现代 AI 代理与应用的构建与测试。
+m24-home-get-started-now = 现在开始
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = 演讲者站在舞台上，背景是许多产品的徽标。
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = 经营着刚起步的创业公司？请向 { -brand-name-mozilla-ventures }推介您的公司，获得资金帮助，推动 AI 和互联网向善发展。
 m24-home-mozilla-data-collective = { -brand-name-mozilla } 数据共同体
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } 数据共同体正在以社区为核心，重新建立 AI 数据生态系统。通过透明且合乎道德的方式，提供由社区创建、为社区服务的 300 多个高质量全球数据集。
+m24-home-join-today = 今天加入
+m24-home-a-double-bottom = 科技界的多重底线
+m24-home-mark-surman-discusses = 马克·苏曼 (Mark Surman) 畅谈如何建立一个兼有使命和金钱的双底线科技生态系统。
+m24-home-agent-platform = 客服平台
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Any Agent
 m24-home-stop-wiring-tools = 不必再疲于整合各种工具、维护脆弱的自动化流程。借助 { -brand-name-mozilla-ai-v2 } 智能体平台，您只需描述目标，我们就能生成能与您的工具和流程协同工作的自适应 AI 智能体。
@@ -103,6 +113,11 @@ m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = 英国金融时报
+m24-home-rewiring-mozilla = 重塑 { -brand-name-mozilla }我们为 AI 带来的 Web 成就
+m24-home-interview-with-mark = 专访马克苏曼{ -brand-name-mozilla } 如何适应人工智能时代
+m24-home-women-in-product = 女性参与产品对话在不失去细节的情况下添加 GenAI
+m24-home-scaling-open-source = 扩展开源 AIMark Surman & Tim Brdshaw
 
 ## Showcase
 
@@ -117,9 +132,18 @@ m24-home-alt-rise25-smiling = 一位自信微笑的 { -brand-name-rise25 } 演�
 m24-home-alt-rise25-joyous = 一位兴高采烈的 { -brand-name-rise25 } 获奖者。
 m24-home-state-of-mozilla = { -brand-name-mozilla } 状况
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } 正在重塑自己、围绕一系列组织进行多元化、重新构想广告业，以及创建一个开源的 AI 生态系统。请在 { -brand-name-mozilla } 2024 状况报告中阅读。
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } 重塑自我由众多组织实现多元化、重新构想广告行业并创建一个开源 AI 生态系统。在{ -brand-name-mozilla }州{ $year }州的报告中了解。
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = 绿色、橙色和粉色相间的抽象像素画
 m24-home-read-the-report = 阅读报告
+
+## Nothing Personal
+
+m24-home-mozilla-nothing-personal = 非私人
+m24-home-our-new-magazine = 我们的新杂志为数字文化前线的独立思想者、技术人员和创意者提供。
+m24-home-read-now = 立即阅读
 
 ## Issues
 

@@ -63,13 +63,23 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders ayuda a los desarrolladores independientes a crear proyectos transformadores de IA de código abierto a través de colaboraciones, programación y comunidad a medida.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } ayuda a los desarrolladores independientes a crear proyectos transformadores de IA de código abierto a través de colaboraciones, programación y comunidad hechas a medida.
+m24-home-own-what-you = Apropiate de lo que construís
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = ¿Necesitamos una "pila LAMP" para la era de la IA? Necesitamos tecnología que sea transparente, responsable y propiedad de las personas que la usan.
 m24-home-watch-now = Mirá ahora
+m24-home-choice-first-stack = Elección en primer lugar
+m24-home-your-tools-your = Sus herramientas, su elección. Una pila unificada de código abierto que simplifica la creación y prueba de agentes y aplicaciones de IA modernos.
+m24-home-get-started-now = Empezar ahora
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Orador en el escenario con múltiples logos de productos.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = ¿Tenés una startup en fase inicial? Enviá a tu empresa a { -brand-name-mozilla-ventures } y asegurá la financiación para impulsar un cambio positivo para el futuro de la IA e Internet.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective está reconstruyendo el ecosistema de datos de IA con las comunidades en el centro. Accedé a más de 300 conjuntos de datos globales de alta calidad, creados por y  para la comunidad de una manera transparente y ética.
+m24-home-join-today = Unite hoy
+m24-home-a-double-bottom = Un doble objetivo para la tecnología
+m24-home-mark-surman-discusses = Mark Surman analiza cómo podemos construir un ecosistema tecnológico con un doble resultado final, uno que valore tanto la misión como el dinero.
+m24-home-agent-platform = Plataforma del agente
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Cualquier agente
 m24-home-stop-wiring-tools = Dejá de interconectar herramientas y cuidar automatizaciones frágiles. Con { -brand-name-mozilla-ai-v2 } Agent Platform, describí tu objetivo, nosotros generamos agentes de IA adaptables que trabajan con tus herramientas y procesos.
@@ -104,6 +114,11 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = Nuevo mensaje de { -brand-name-mozilla }: Somos el único navegador no respaldado por multimillonarios
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = The FT
+m24-home-rewiring-mozilla = Reconectando { -brand-name-mozilla }: haciendo por la IA lo que hicimos por la web
+m24-home-interview-with-mark = Entrevista con Mark Surman: Cómo { -brand-name-mozilla } se está adaptando a la era de la IA
+m24-home-women-in-product = Conversación sobre mujeres en el producto: Agregando GenAI sin perder el argumento
+m24-home-scaling-open-source = Escalando la IA de código abierto: Mark Surman y Tim Bradshaw
 
 ## Showcase
 
@@ -118,9 +133,18 @@ m24-home-alt-rise25-smiling = Un orador sonriente y confiado en { -brand-name-ri
 m24-home-alt-rise25-joyous = Un homenajeado alegre en { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Estado de { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se está reinventando a sí misma, diversificándose en torno a una constelación de organizaciones, reimaginando la publicidad y creando un ecosistema de IA de código abierto. Leé al respecto en el Informe sobre el estado de { -brand-name-mozilla } de 2024.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } se está reinventando a sí misma, diversificándose en torno a una constelación de organizaciones, reimaginando la publicidad y creando un ecosistema de IA de código abierto. Leé sobre esto en el informe de estado de { -brand-name-mozilla } { $year }.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Pixel art abstracto en tonos de verde, naranja y rosa
 m24-home-read-the-report = Leer el informe
+
+## Nothing Personal
+
+m24-home-mozilla-nothing-personal = Nada personal
+m24-home-our-new-magazine = Nuestra nueva revista para pensadores independientes, tecnólogos y creativos en la vanguardia de la cultura digital.
+m24-home-read-now = Leer ahora
 
 ## Issues
 

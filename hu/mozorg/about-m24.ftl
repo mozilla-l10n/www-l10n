@@ -36,6 +36,12 @@ m24-about-we-fund-and = Olyan embereket és erőfeszítéseket finanszírozunk, 
 
 m24-about-read-more = Bővebben
 m24-about-read-the-latest = Olvassa el a { -brand-name-mozilla } legfrissebb híreit és cikkeit
+m24-about-rewiring-mozilla = { -brand-name-mozilla } újrahuzalozása: Azt csináljuk a mesterséges intelligenciáért, amit a webért tettünk. Olvasson a következő generációs stratégiánkról, és arról, hogyan alakítjuk át a(z) { -brand-name-mozilla } kiegészítőt az MI korszaka érdekében.
+m24-about-what-comes-next = Ami ezután következik a technológiában, az egy választás. Válasszon velünk.
+m24-about-watch-here = Nézze meg itt
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = Kettős a lényeg a Technika számára? Mark Surman azt taglalja, hogyan építhetünk technológiai ökoszisztémát, kettős lényeggel – olyat, amely egyaránt értékeli a küldetést és a pénzt.
+m24-about-watch-now = Figyelés most
 
 ## Showcase
 

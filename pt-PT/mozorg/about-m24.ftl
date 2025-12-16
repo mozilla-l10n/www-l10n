@@ -36,6 +36,12 @@ m24-about-we-fund-and = Nós financiamos e investimos nas pessoas e esforços pa
 
 m24-about-read-more = Ler mais
 m24-about-read-the-latest = Ler as últimas notícias e artigos da { -brand-name-mozilla }
+m24-about-rewiring-mozilla = Religação { -brand-name-mozilla }: Fazer pela IA o que fizemos pela Web. Leia acerca da nossa estratégia de próxima geração e como estamos a transformar { -brand-name-mozilla } para a era da IA.
+m24-about-what-comes-next = O que vem a seguir em tecnologia é uma escolha. Escolha connosco.
+m24-about-watch-here = Acompanhar aqui
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = Podemos ter um resultado final duplicado para a tecnologia? Mark Surman discutir como podemos construir um ecossistema de tecnologia com uma linha de fundo duplicada — uma que valorize tanto a missão como o dinheiro.
+m24-about-watch-now = Ver agora
 
 ## Showcase
 

@@ -36,6 +36,12 @@ m24-about-we-fund-and = 我們投資將科技、網際網路與 AI 引向正確�
 
 m24-about-read-more = 了解更多
 m24-about-read-the-latest = 閱讀最新的 { -brand-name-mozilla } 新聞與文章
+m24-about-rewiring-mozilla = Rewiring { -brand-name-mozilla }: Do for AI 正如我們為 Web 所做的那樣了解我們的下一代產品策略以及我們如何讓 { -brand-name-mozilla } 轉型為 AI 時代。
+m24-about-what-comes-next = 科技界的未來需要選擇。與我們一起選擇。
+m24-about-watch-here = 觀賞此處
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = 我們可以給科技加上雙底線嗎Mark Surman 討論了我們要如何打造一個有雙重底線的科技生態系統 — 既看重使命也看重金錢。
+m24-about-watch-now = 立刻觀看
 
 ## Showcase
 
