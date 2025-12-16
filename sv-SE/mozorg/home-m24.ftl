@@ -63,13 +63,17 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders hjälper oberoende utvecklare att skapa transformerande AI-projekt med öppen källkod genom skräddarsydda samarbeten, programmering och gemenskap.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } hjälper oberoende utvecklare att skapa transformerande AI-projekt med öppen källkod genom skräddarsydda samarbeten, programmering och gemenskap.
+m24-home-own-what-you = Äg det du bygger
 m24-home-watch-now = Titta nu
+m24-home-your-tools-your = Dina verktyg, ditt val. En enhetlig öppen källkodsstack som förenklar byggandet och testandet av moderna AI-agenter och appar.
+m24-home-get-started-now = Kom igång nu
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Talare på scen med flera produktlogotyper.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Har du ett startup i tidigt skede? Presentera ditt företag för { -brand-name-mozilla-ventures } och säkra finansiering för att driva positiva förändringar för framtiden för AI och internet.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Datakollektiv
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Datakollektiv återuppbygger AI-dataekosystemet med gemenskaper i centrum. Få tillgång till över 300 högkvalitativa globala datamängder, byggda av och för gemenskaper på ett transparent och etiskt sätt.
+m24-home-join-today = Gå med idag
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Alla agenter
 m24-home-stop-wiring-tools = Sluta koppla ihop verktyg och passa spröda automatiseringar. Med agentplattformen { -brand-name-mozilla-ai-v2 } beskriver du ditt mål, vi genererar adaptiva AI-agenter som fungerar med dina verktyg och processer.
