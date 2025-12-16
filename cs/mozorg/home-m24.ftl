@@ -63,7 +63,7 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders pomáhá nezávislým vývojářům vytvářet transformační open-source projekty s umělou inteligencí pomocí zakázkové spolupráce, programování a komunity.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } pomáhá nezávislým vývojářům vytvářet transformativní open-source projekty umělé inteligence prostřednictvím spolupráce na míru, programování a komunity.
-m24-home-own-what-you = Co vytvoříte, vlastníte
+m24-home-own-what-you = Vlastníte to, co jste vytvořili
 # "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
 m24-home-do-we-need-a = Potřebujeme pro éru AI „LAMP Stack“? Potřebujeme technologie, které jsou transparentní, zodpovědné a vlastněné lidmi, kteří je používají.
 m24-home-watch-now = Sledujte nyní
@@ -144,7 +144,7 @@ m24-home-read-the-report = Přečtěte si report
 
 m24-home-mozilla-nothing-personal = Nic osobního
 m24-home-our-new-magazine = Náš nový časopis pro nezávislé myslitele, technology a kreativce v první linii digitální kultury.
-m24-home-read-now = Okamžitá čtení
+m24-home-read-now = Přečtěte si nyní
 
 ## Issues
 
