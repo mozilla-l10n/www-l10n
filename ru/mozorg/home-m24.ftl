@@ -63,9 +63,9 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders помогает независимым разработчикам создавать трансформационные проекты ИИ с открытым исходным кодом посредством индивидуального сотрудничества, программирования и сообщества.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } помогает независимым разработчикам создавать трансформационные проекты ИИ с открытым исходным кодом через индивидуальное сотрудничество, программирование и сообщество.
-m24-home-own-what-you = Владеет тем, что вы построите
+m24-home-own-what-you = Владейте тем, что создаёте
 # "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
-m24-home-do-we-need-a = Нужен ли нам «стек Lamp» в эру ИИ? Нам нужны технологии, которые будут прозрачны, подотчетны и принадлежат людям, которые их используют.
+m24-home-do-we-need-a = Нужен ли нам «стек AMP» в эру ИИ? Нам нужны технологии, которые будут прозрачны, подотчётны и принадлежат людям, которые их используют.
 m24-home-watch-now = Смотреть сейчас
 m24-home-choice-first-stack = Выбор первого стека
 m24-home-your-tools-your = Ваши инструменты, ваш выбор. Единый стек с открытым исходным кодом, который упрощает создание и тестирование современных агентов и приложений ИИ.
@@ -76,10 +76,10 @@ m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = У вас есть стартап на начальной стадии? Представьте свою компанию { -brand-name-mozilla-ventures } и обеспечьте финансирование позитивных изменений для будущего ИИ и Интернета.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective перестраивает экосистему данных ИИ с сообществами в центре. Получите доступ к более чем 300 высококачественным глобальным наборам данных, созданным сообществом и для него прозрачным и этичным образом.
-m24-home-join-today = Присоединитесь сегодня
+m24-home-join-today = Присоединяйтесь сегодня
 m24-home-a-double-bottom = Двойная выгода для технологий
 m24-home-mark-surman-discusses = Марк Сурман обсуждает, как мы можем построить технологическую экосистему с двойной целью — которая ценит и миссию, и деньги.
-m24-home-agent-platform = Платформа Agent
+m24-home-agent-platform = Платформа агента
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Любой агент
 m24-home-stop-wiring-tools = Перестаньте связывать инструменты между собой и присматривать за сломанной автоматикой. С агентской платформой { -brand-name-mozilla-ai-v2 }, вы описываете свою цель, мы генерируем адаптивных агентов ИИ, которые работают с вашими инструментами и процессами.
@@ -115,9 +115,9 @@ m24-home-mozillas-new-message = Новое сообщение { -brand-name-mozi
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = FT
-m24-home-rewiring-mozilla = Переподключаем { -brand-name-mozilla }: делаем для ИИ то, что мы сделали для Интернета
+m24-home-rewiring-mozilla = Перестраиваем { -brand-name-mozilla }: Делаем для ИИ то, что мы делали для Интернета
 m24-home-interview-with-mark = Интервью с Марком Сурманом: Как { -brand-name-mozilla } адаптируется к миру ИИ
-m24-home-women-in-product = Разговор «Женщины в продукте»: Добавляем ГенАи, не теряя в проекте
+m24-home-women-in-product = Дискуссия «Женщины в продукте»: Добавляем GenAI, не теряя направление
 m24-home-scaling-open-source = Масштабирование ИИ с открытым исходным кодом: Марк Сурман и Тим Бредшо
 
 ## Showcase
@@ -143,8 +143,8 @@ m24-home-read-the-report = Прочитать отчёт
 ## Nothing Personal
 
 m24-home-mozilla-nothing-personal = Ничего личного
-m24-home-our-new-magazine = Наш новый журнал для независимых мыслителей, технарей и креативщиков, находящихся на передовой цифровой культуре.
-m24-home-read-now = Прочитать
+m24-home-our-new-magazine = Наш новый журнал для независимых мыслителей, технарей и креативщиков, находящихся на передовой цифровой культуры.
+m24-home-read-now = Читать сейчас
 
 ## Issues
 

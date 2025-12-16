@@ -122,6 +122,10 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } uppfinner sig s
 m24-home-state-of-mozilla-alt = Abstrakt pixelkonst i nyanser av grönt, orange och rosa
 m24-home-read-the-report = Läs rapporten
 
+## Nothing Personal
+
+m24-home-read-now = Läs nu
+
 ## Issues
 
 m24-home-explore-issues-shaping = Utforska frågor som formar internets framtid
