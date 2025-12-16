@@ -58,22 +58,11 @@ m24-home-our-mission-is = Nossa missiun è da lavurar per ch’i daventia simpel
 m24-home-alt-builders = Builders
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-builders-helps-independent = Builders gida sviluppadras e sivluppaders independents a crear projects open-source transfurmativs dad IA tras collavuraziuns, programmaziun e la communitad.
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = Logo da { -brand-name-lumigator }.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Chatta il dretg LLM per tes basegns, tes scenari e tias datas.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Mark Surman, president da { -brand-name-mozilla }.
-m24-home-can-ai-be = Po IA esser fidabla?
-m24-home-in-a-world = En in mund nua che l’innovaziun da la IA vegn dominada dad ina pitschna gruppa, ristgain nus ch’i dettia ina monopolisaziun da questa tecnologia. L’applicaziun da concepts open-source al champ da la IA pudess midar quai.
 m24-home-watch-now = Guardar ussa
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Oratur sin la tribuna cun logos da differents products.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Has ti in start-up en la fasa iniziala? Preschenta tia interpresa a { -brand-name-mozilla-ventures } ed obtegna la finanziaziun per contribuir ad in svilup positiv per l’avegnir da la IA e l’internet.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Dà tia vusch per render la tecnologia vocala pli inclusiva ed accessibla per ina e scadin.
-m24-home-donate-your-voice = Fa ina donaziun cun tia vusch
 
 ## Media Springboard
 

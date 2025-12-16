@@ -34,18 +34,10 @@ m24-home-tag-program = Ahil
 m24-home-tag-event = Tadyant
 m24-home-read-more = Ɣeṛ ugar
 m24-home-get-started = Aha bdu
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = Alugu { -brand-name-solo-ai }
-m24-home-solo-ai = { -brand-name-solo-ai }
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = Alugu { -brand-name-lumigator }
-m24-home-lumigator = { -brand-name-lumigator }
 m24-home-watch-now = Wali tura
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice = Mudd-d taɣect-ik
 
 ## Media Springboard
 

@@ -57,43 +57,20 @@ m24-home-read-more = Čitajće wjace
 m24-home-get-started = Prěnje kroki
 m24-home-join-the-movement = Přidružće so hibanju:<br> KI za ludźi
 m24-home-our-mission-is = Naša misija je, ludźom wosnadnić, dowěry hódnu KI wotewrjeneho žórła sobu wuwiwać a na njej sobu dźěłać.
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = Logo { -brand-name-solo-ai }
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Wutworće swoje websydło a zwjazajće swoju domenu zadarmo
 m24-home-alt-builders = Twarcy
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = Twarcy { -brand-name-mozilla }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders njewotwisnym wuwiwarjam pomha, transformatiwne projekty KI wotewrjeneho žórła z na to přiměrjenym zhromadnym dźěłom, programowanjom a zhromadźenstwom wutworić.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } njewotwisnym wuwiwarjam pomha, transformatiwne projekty KI wotewrjeneho žórła z na to přiměrjenym zhromadnym dźěłom, programowanjom a zhromadźenstwom wutworić.
-# Used as an accessible text alternative for an image
-m24-home-alt-mozfest = Wulka skupina ludźi je so w žiwym nutřkownym rumje za zarjadowanja zhromadźiła, wothorjeka hladana.
-m24-home-mozfest-join-us = Přidružće so nam pola { -brand-name-mozilla-festival }
-m24-home-mozfest-the-future = Přichod technologije njeje postajeny – leži na nas jón tworić. Přidružće so nam w Barcelonje 7. - 9. nowembra, zo byšće konwencije zabył, sprawdu přemyslował a twarił, štož budźe přichodne.
-m24-home-mozfest-get-your = Wobstarajće sej dźensa swoje myto
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Namakajće prawy LLM za waše potrěbnosće, wužiwanski pad a daty.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Mark Surman, prezident { -brand-name-mozilla }.
-m24-home-can-ai-be = Móže KI dowěry hódna być?
-m24-home-in-a-world = W swěće, hdźež so inowacija KI wot skupiny wuzwolenych doprědka pohonja, riskěrujemy, zo so tuta technologija monopolizuje. Hdyž so koncepty wotewrjeneho žórła na KI nałožuja, móhło so to změnić.
 m24-home-watch-now = Nětko wobhladać
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Rěčnik na jewišću z wjacorymi produktowymi logami.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Maće projekt w zažnej fazy? Předstajće { -brand-name-mozilla-ventures } swoje předewzaće a zawěsćće financowanje za pozitiwnu změnu přichoda KI a interneta.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Darće swój hłós, zo byšće rěčensku technologiju bóle wotewrjenu a přistupnu za wšěch činił.
-m24-home-donate-your-voice = Darće swój hłós
-m24-home-our-transformation = Naša transformacija
-m24-home-how-do-legacy = Kak zestarjene hódnoty z inowaciju koliduja? W tutej rozmołwje Mark Surman do toho wo tym rěči, kak { -brand-name-mozilla } za eru KI přetworjamy.
-# Used as an accessible text alternative for an image
-m24-home-alt-transformation = Změńće Signal z Markom Surmanom a MBS
-# Used as an accessible text alternative for an image
-m24-home-alt-pink-cloud = Mróčel z róžowym pozadkom
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective datowy ekosystem Ki ze zhromadźenstwami w centrumje přetworja. Přistup k přez 300 globalnych datowych zběrkow wysokeje kwality, kotrež su so wot zhromadźenstwa a za zhromadźenstwo na transparentne a etiske wašnje wutworili.
+# Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Někajki agent
 m24-home-stop-wiring-tools = Přestańće nastroje zakablować a krjechke awtomatizacije babysittować. Z platformu agento { -brand-name-mozilla-ai-v2 } wopisujeće swój cil, generujemy adaptiwnych agentow KI, kotrež z wašimi nastrojemi a procesami funguja.
 
@@ -114,7 +91,6 @@ m24-home-topic-ai = Kumštna inteligenca
 m24-home-topic-open-source-ai = KI wotewrjeneho žórła
 m24-home-topic-ps = Priwatnosć a wěstota
 m24-home-headline-you-ai-v2 = Wy, KI a internet – što so woprawdźe stawa?
-m24-home-shake-to-summarize = Třasće so, zo byšće w najlěpšich wunamakankach 2025 časopisa TIME zjał
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } Raffi Krikoriana jako Chief Technology Officer wita
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = CEO { -brand-name-mozilla-ai-v2 } wo lěpšinach KI wotewrjeneho žórła rěči
@@ -122,27 +98,12 @@ m24-home-mozilla-ai-ceo = CEO { -brand-name-mozilla-ai-v2 } wo lěpšinach KI wo
 m24-home-introducing-thundermail-and = Předstajamy Thundermail a Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = { -brand-name-thundermail } a { -brand-name-thunderbird-pro } předstajić
 m24-home-what-comes-next = Štož jako přichodne w technologiji přińdźe je wuběr. Wubjerće z nami.
-m24-home-how-ventures-investee = Kak přijimar inwesticijow rizikoweho kapitala Germ zaklučowanje sylni
-# Obsolete string (expires 2026-03-01)
-m24-home-tech-crunch = Tech Crunch
-m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = ‘Dobry wokomik w času za nas: { -brand-name-firefox } na čole před wobhladowakami KI a štož je přichodne za web
 m24-home-the-guardian = The Guardian
-m24-home-interview-take-open = Interview: Přewzaće wotewrjeneho žórła do ery KI
-# Obsolete string (expires 2026-03-20)
-m24-home-mit-sloan-review = MIT Sloan Review
-m24-home-mit-sloan-management-review = MIT Sloan Management Review
-m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } syćowu platformu Filament financuje
 m24-home-axios = Axios
 m24-home-mozillas-new-message = Nowa powěsć { -brand-name-mozilla }: Smy jenički wobhladowak, kotryž so wot miliardarow njepodpěruje
 m24-home-fast-company = Fast Company
-m24-home-will-agi-be = Budźe AG woprawdźitosć być – a, smy my hotowi?
-m24-home-conversation-charting-a = Rozmołwa: Rysowanje přichoda do přistupa a agentury
-m24-home-tech-policy-press = Tech Policy Press
-m24-home-open-by-design = Wotewrjeny po designje: Kak narody móža so we wěku KI wubědźować
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } nowy kurs k směrej profitabelnosće rysuje
-m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -161,15 +122,6 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } so sam znowa wu
 m24-home-state-of-mozilla-alt = Abstraktne pikselowe wuměłstwo w zelenych, oranžowych a róžojtych wotsćinach
 m24-home-read-the-report = Čitajće rozprawu
 
-## Data Collective
-
-m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
-m24-home-mozilla-create-curate-control = Wutworić. Wothladać. Kontrolować.
-# Obsolete string (expires 2026-03-20)
-m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective datowy ekosystem Ki ze zhromadźenstwami w centrumje přetworja. Přistup k přez 300 globalnych datowych zběrkow wysokeje kwality, kotrež su so wot zhromadźenstwa a za zhromadźenstwo na transparentne a etiske wašnje wutworili.
-m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective datowy ekosystem Ki ze zhromadźenstwami w centrumje přetworja. Přistup k přez 300 globalnych datowych zběrkow wysokeje kwality, kotrež su so wot zhromadźenstwa a za zhromadźenstwo na transparentne a etiske wašnje wutworili.
-m24-home-join-mozilla-data = Přidružće so k { -brand-name-mozilla } Data Collective
-
 ## Issues
 
 m24-home-explore-issues-shaping = Wuslědźće problemy, zo byšće přichod interneta tworił
@@ -182,9 +134,3 @@ m24-home-alt-irl-host = Bridget Todd, host Podcast IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Naš wjacekróć mytowany podcast twórcow změnow předstaja, kotřiž na tym dźěłaja, internet wěsćiši a KI bóle dowěry hódnu činić.
 m24-home-irl-listen-now = Słuchajće nětko
-
-## Outside the Fox
-
-m24-home-outside-the-fox = Zwonka liški
-m24-home-this-is-where = Tu wuslědźamy, štož so online stawa a čehodla je wažne, wot toho, čehodla njestrowa žratwa internet přejima, hač do wiralneje internetneje kultury.
-m24-home-fox-listen-now = Słuchajće nětko

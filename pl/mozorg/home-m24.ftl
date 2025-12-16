@@ -56,28 +56,15 @@ m24-home-read-more = Przeczytaj więcej
 m24-home-get-started = Pierwsze kroki
 m24-home-join-the-movement = Dołącz do ruchu:<br>AI dla ludzi
 m24-home-our-mission-is = Naszą misją jest umożliwienie ludziom łatwego tworzenia i współpracy przy wykorzystaniu godnych zaufania rozwiązań AI opartych na otwartym kodzie źródłowym.
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = Logo { -brand-name-solo-ai }
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Utwórz swoją witrynę internetową i bezpłatnie podłącz własną domenę.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders pomaga niezależnym deweloperom tworzyć rewolucyjne projekty z zakresu sztucznej inteligencji oparte na otwartym kodzie źródłowym poprzez indywidualną współpracę, programowanie i społeczność.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } pomaga niezależnym deweloperom tworzyć rewolucyjne projekty z zakresu sztucznej inteligencji oparte na otwartym kodzie źródłowym poprzez indywidualną współpracę, programowanie i społeczność.
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Znajdź LLM odpowiadający Twoim potrzebom, przypadkom użycia i danym.
-m24-home-can-ai-be = Czy AI może być godna zaufania?
-m24-home-in-a-world = W świecie, w którym innowacjami w dziedzinie AI kieruje garstka wybranych, ryzykujemy monopolizację tej technologii. Zastosowanie koncepcji open source w AI mogłoby to zmienić.
 m24-home-watch-now = Obejrzyj teraz
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Masz startup na wczesnym etapie rozwoju? Zaprezentuj swoją firmę { -brand-name-mozilla-ventures } i zapewnij jej finansowanie, aby wprowadzić pozytywne zmiany w przyszłości sztucznej inteligencji i internetu.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Podaruj swój głos, aby technologia mowy stała się bardziej inkluzywna i dostępna dla każdego.
-m24-home-donate-your-voice = Podaruj swój głos
 
 ## Media Springboard
 
@@ -94,12 +81,10 @@ m24-home-topic-products = Produkty
 m24-home-topic-ai = Sztuczna inteligencja
 m24-home-topic-ps = Prywatność i bezpieczeństwo
 m24-home-headline-you-ai-v2 = Ty, AI i internet — co się naprawdę dzieje?
-m24-home-shake-to-summarize = "Potrząśnij, aby streścić" na liście najlepszych innowacji roku 2025 magazynu TIME
 m24-home-mozilla-ai-ceo = Dyrektor generalny { -brand-name-mozilla-ai-v2 } mówi o zaletach otwartoźródłowej sztucznej inteligencji.
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Przedstawiamy Thundermail i Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Przedstawiamy { -brand-name-thundermail } i { -brand-name-thunderbird-pro }
-m24-home-tech-crunch-v2 = TechCrunch
 m24-home-the-guardian = The Guardian
 m24-home-mozilla = { -brand-name-mozilla }
 

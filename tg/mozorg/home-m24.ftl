@@ -56,34 +56,18 @@ m24-home-read-more = Бештар хондан
 m24-home-get-started = Оғози кор
 m24-home-join-the-movement = Ба ҷомеаи мо ҳамроҳ шавед:<br> Зеҳни сунъӣ (AI) барои мардум
 m24-home-our-mission-is = Ҳадафи мо ин аст, ки барои одамон сохтани зеҳни сунъии (AI) кушода ва боэътимод ва ҳамкорӣ бо он осон гардад.
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = Тамғаи «{ -brand-name-solo-ai }»
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Сомонаи худро эҷод кунед ва номи домени дилхоҳи худро ройгнон пайваст намоед.
 m24-home-alt-builders = Созандагон
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = Созандагони «{ -brand-name-mozilla }»
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Созандагон ба таҳиягарони мустақил кумак мекунад, ки тавассути ҳамкории инфиродӣ, барномасозӣ ва ҷомеаи мо лоиҳаҳои табдилдиҳандаи манбаи кушодаи зеҳни сунъӣ (AI)-ро эҷод намоянд.
 m24-home-builders-helps-independent-v2 = «{ -brand-name-mozilla-builders }» ба барномасозон ва таҳиягарони мустақил кумак мекунад, ки онҳо тавассути ҳамкорӣ, барномасозӣ ва ҷомеаи мо лоиҳаҳои фармоишии табдилдиҳандаи манбаи кушодаи зеҳни сунъӣ (AI)-ро эҷод намоянд.
-m24-home-mozfest-join-us = Ба мо дар «{ -brand-name-mozilla-festival }» ҳамроҳ шавед
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = Ангораи «{ -brand-name-lumigator }».
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Модели забонии бузургеро (LLM) пайдо кунед, ки ба эҳтиёҷот, мавриди истифода ва маълумоти шумо мувофиқ бошад.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Марк Сурман, Президенти «{ -brand-name-mozilla }».
-m24-home-can-ai-be = Оё зеҳни сунъӣ (AI) эътимоднок буда метавонад?
-m24-home-in-a-world = Дар ҷаҳоне, ки навовариҳои зеҳни сунъӣ (AI) аз ҷониби як гурӯҳи интихобшуда идора карда мешаванд, мо бо хатари монополизатсияи ин технология рӯ ба рӯ ҳастем. Татбиқи консепсияҳои манбаи кушода ба зеҳни сунъӣ (AI) метавонад ин вазъиятро тағйир диҳад.
 m24-home-watch-now = Ҳоло тамошо кунед
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Суханвар дар саҳна бо чандин тамғаи маҳсулот.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Оё шумо як стартап дар марҳилаи ибтидоӣ доред? Ширкати худро ба «{ -brand-name-mozilla-ventures }» муаррифӣ кунед ва барои пешбурди тағйироти мусбат дар ояндаи зеҳни сунъӣ (AI) ва Интернет маблағгузории боэътимодро ба даст оред.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Овози худро ҳадя кунед, то технологияи нутқ фарогир ва барои ҳамаи инсонҳо боз ҳам дастрас ва қобили истифода гардад.
-m24-home-donate-your-voice = Овози худро пешкаш кунед
-m24-home-our-transformation = Табдилдиҳии фаъолияти мо
+# Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Ҳар гуна омил
 
 ## Media Springboard
@@ -131,7 +115,3 @@ m24-home-alt-irl-host = Бридҷет Тодд, барандаи подкаст
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Подкасти серҷоизаи мо шахсонеро муаррифӣ мекунад, ки барои бехатар кардани Интернет ва сохтани зеҳни сунъии (AI) боэътимод  фаъолият доранд.
 m24-home-irl-listen-now = Ҳозир гӯш кунед
-
-## Outside the Fox
-
-m24-home-fox-listen-now = Ҳозир гӯш кунед

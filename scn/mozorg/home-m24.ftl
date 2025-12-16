@@ -58,18 +58,8 @@ m24-home-mozilla-builders = Custruttura di { -brand-name-mozilla }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders ajuta i sbiluppatura nnipinnenti a criari pruggetti nnuvativi di NA a còdici graputu cu cullabburazzioni, prugrammazzioni e cumunità pirsunalizzati.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } ajuta i sbiluppatura nnipinnenti a criari pruggetti nnuvativi di NA a còdici graputu cu cullabburazzioni, prugrammazzioni e cumunità pirsunalizzati.
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = Mercu di { -brand-name-lumigator }.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Attrova u LLM megghiu pî to nicissità, pi soccu cci hâ fari e pî to dati.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Mark Surman, Prisidenti di { -brand-name-mozilla }.
-m24-home-can-ai-be = Pozzu aviri fiducia nnâ NA?
 m24-home-watch-now = Talìa ora
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Duna a to vuci pi fari a ticnuluggìa di ricanuscimentu vucali cchiù nchijusiva e accissìbbili pi tutti.
-m24-home-donate-your-voice = Dùnani a to vuci
 
 ## Media Springboard
 

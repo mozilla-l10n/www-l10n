@@ -55,31 +55,16 @@ m24-home-read-more = Saiba mais
 m24-home-get-started = Introdução
 m24-home-join-the-movement = Participe do movimento:<br> Inteligência artificial para as pessoas
 m24-home-our-mission-is = Nossa missão é facilitar para as pessoas criar e colaborar com inteligência artificial confiável e de código aberto.
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = Logotipo do { -brand-name-solo-ai }
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Crie seu site e conecte com seu domínio personalizado gratuitamente.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent-v2 = O { -brand-name-mozilla-builders } ajuda desenvolvedores independentes a criar projetos transformadores de inteligência artificial de código aberto por meio de colaborações sob medida, programação e comunidade.
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = Logotipo do { -brand-name-lumigator }.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Encontre o modelo de linguagem (LLM) certo para suas necessidades, caso de uso e dados.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Mark Surman, presidente da { -brand-name-mozilla }.
-m24-home-can-ai-be = Inteligência artificial pode ser confiável?
-m24-home-in-a-world = Em um mundo onde a inovação em inteligência artificial é conduzida por poucas pessoas, corremos o risco dessa tecnologia ser monopolizada. Aplicar conceitos de código aberto à inteligência artificial pode mudar isso.
 m24-home-watch-now = Assista agora
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Palestrante no palco com vários logotipos de produtos.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Tem uma startup em estágio inicial? Apresente sua empresa para { -brand-name-mozilla-ventures } e garanta financiamento para promover mudanças positivas no futuro da inteligência artificial e da internet.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Doe sua voz para tornar a tecnologia de voz mais inclusiva e acessível para todos.
-m24-home-donate-your-voice = Doe sua voz
 
 ## Media Springboard
 

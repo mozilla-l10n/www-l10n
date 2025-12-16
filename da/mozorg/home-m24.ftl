@@ -55,32 +55,17 @@ m24-home-read-more = Læs mere
 m24-home-get-started = Kom i gang
 m24-home-join-the-movement = Bliv en del af fællesskabet:<br> AI for folket
 m24-home-our-mission-is = Vores mission er at gøre det nemt for folk at bruge og samarbejde omkring AI, der er open source og pålidelig.
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = { -brand-name-solo-ai }-logo
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Opret din hjemmeside og brug dit eget domæne helt gratis
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders gør det muligt for uafhængige udviklere at skabe transformative open source-AI-projekter gennem skræddersyede samarbejder, programmering og fællesskab.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } gør det muligt for uafhængige udviklere at skabe transformative open source-AI-projekter gennem skræddersyede samarbejder, programmering og fællesskab.
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = { -brand-name-lumigator }-logo.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Find den rigtige LLM til dine behov, anvendelsesområder og data.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Mark Surman, formand for { -brand-name-mozilla }.
-m24-home-can-ai-be = Kan AI være pålidelig?
-m24-home-in-a-world = I en verden, hvor udvikling af AI er drevet af en lille, lukket kreds, risikerer vi at teknologien bliver monopoliseret. Det kan ændres ved at bruge koncepter fra open source.
 m24-home-watch-now = Se nu
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Taler på scene med flere produktlogoer.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Er I en start-up i den tidlige fase? Præsenter jeres virksomhed for { -brand-name-mozilla-ventures } og få finansiering til at arbejde for positive ændringer i forhold til fremtiden for AI og internettet.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Donér din stemme for at gøre stemmeteknologi mere inkluderende og tilgængelig for alle.
-m24-home-donate-your-voice = Donér din stemme
 
 ## Media Springboard
 

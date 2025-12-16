@@ -36,12 +36,6 @@ m24-about-we-fund-and = Financojmë dhe investojmë në njerëz dhe përpjekje q
 
 m24-about-read-more = Lexoni më tepër
 m24-about-read-the-latest = Lexoni lajmet & artikujt më të rinj nga { -brand-name-mozilla }
-m24-about-builders-program = { -brand-name-mozilla-builders } i ndihmon zhvilluesit të krijojnë projekte IA transformuese me burim të hapët, përmes bashkëpunimesh, programimi dhe bashkësie
-m24-about-at-our-rise25 = Te { -brand-name-rise25 } Awards tona, e ardhmja e IA-së është e besueshme, përfshirëse dhe llogaridhënëse
-# Used as an accessible text alternative for an image
-m24-about-rise25-award = Fitues i çmimit { -brand-name-rise25 } duke treguar trofeun e vet.
-# Used as an accessible text alternative for an image
-m24-about-chicago = Një Sipërmarrës nga Çikagoja.
 
 ## Showcase
 

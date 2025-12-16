@@ -57,43 +57,20 @@ m24-home-read-more = Citește mai multe
 m24-home-get-started = Începe
 m24-home-join-the-movement = Alătură-te mișcării:<br> IA pentru oameni
 m24-home-our-mission-is = Misiunea noastră este de a facilita construirea și colaborarea oamenilor pe baza IA cu sursă deschisă și de încredere.
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = Logo { -brand-name-solo-ai }
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Creează-ți un site web și conectează-ți gratuit propriul domeniu personalizat
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders ajută dezvoltatorii independenți să creeze proiecte IA transformatoare cu sursă deschisă prin colaborări, programare personalizată și comunitate.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } ajută dezvoltatorii independenți să creeze proiecte IA transformatoare cu sursă deschisă prin colaborări, programare personalizată și comunitate.
-# Used as an accessible text alternative for an image
-m24-home-alt-mozfest = Un grup mare de oameni s-a adunat într-un spațiu interior aglomerat pentru evenimente, văzut de sus.
-m24-home-mozfest-join-us = Hai cu noi la { -brand-name-mozilla-festival }
-m24-home-mozfest-the-future = Viitorul tehnologiei nu este fix — este al nostru, ca să-l modelăm. Hai cu noi în Barcelona, între 7 și 9 noiembrie, ca să ne descotorosim de convenții, să ne imaginăm cu curaj și să construim ce urmează.
-m24-home-mozfest-get-your = Ia-ți insigna azi
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Găsește LLM-ul potrivit nevoilor, cazurilor de utilizare și datelor tale.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Mark Surman, președintele { -brand-name-mozilla }.
-m24-home-can-ai-be = Poate fi IA de încredere?
-m24-home-in-a-world = Într-o lume în care inovația în domeniul IA este condusă de câțiva aleși, riscăm monopolizarea acestei tehnologii. Aplicarea conceptelor cu sursă deschisă în domeniul IA ar putea schimba acest lucru.
 m24-home-watch-now = Urmărește acum
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Vorbitor pe scenă cu mai multe logo-uri de produse.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Ai un startup la început de drum? Propune-ți compania către { -brand-name-mozilla-ventures } și asigură-ți finanțare pentru a genera schimbări pozitive în viitorul IA și al internetului.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Donează-ți vocea pentru a face tehnologia vorbirii mai incluzivă și mai accesibilă pentru toată lumea.
-m24-home-donate-your-voice = Donează-ți vocea
-m24-home-our-transformation = Transformarea noastră
-m24-home-how-do-legacy = Cum se ciocnesc valorile tradiționale cu inovația? În această conversație, Mark Surman prezintă în avanpremieră modul în care transformăm { -brand-name-mozilla } pentru era AI.
-# Used as an accessible text alternative for an image
-m24-home-alt-transformation = Schimbă semnalul cu Mark Surman și MBS
-# Used as an accessible text alternative for an image
-m24-home-alt-pink-cloud = Nor cu fundal roz
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective reconstruiește ecosistemul de date bazat pe IA, cu focalizare pe comunități. Accesează peste 300 de seturi de date globale de înaltă calitate, construite de și pentru  comunitate într-un mod transparent și etic.
+# Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Orice agent
 m24-home-stop-wiring-tools = Nu mai conectezi instrumente între ele și nu mai supraveghezi automatizări fragile. Cu { -brand-name-mozilla-ai-v2 } Agent Platform, îți descrii obiectivul, iar noi generăm agenți AI adaptivi care funcționează cu instrumentele și procesele tale.
 
@@ -114,7 +91,6 @@ m24-home-topic-ai = Inteligenţă artificială
 m24-home-topic-open-source-ai = IA cu sursă deschisă
 m24-home-topic-ps = Confidențialitate și securitate
 m24-home-headline-you-ai-v2 = Tu, IA și internetul — ce se întâmplă cu adevărat?
-m24-home-shake-to-summarize = „Agită pentru rezumatul” celor mai bune invenții din 2025, potrivit TIME
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } îi urează bun venit lui Raffi Krikorian în funcția de director tehnic
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = CEO-ul { -brand-name-mozilla-ai-v2 } vorbește despre avantajele AI cu sursă deschisă
@@ -122,27 +98,12 @@ m24-home-mozilla-ai-ceo = CEO-ul { -brand-name-mozilla-ai-v2 } vorbește despre 
 m24-home-introducing-thundermail-and = Prezentare Thundermail și Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Vă prezentăm { -brand-name-thundermail } și { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Viitorul tehnologiei este o alegere. Alege cu noi.
-m24-home-how-ventures-investee = Cum consolidează Germ Ventures criptarea
-# Obsolete string (expires 2026-03-01)
-m24-home-tech-crunch = Tech Crunch
-m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = „Un moment bun pentru noi”: șeful { -brand-name-firefox } despre browsere cu AI și viitorul webului
 m24-home-the-guardian = The Guardian
-m24-home-interview-take-open = Interviu: Cum ducem sursele deschise în era AI
-# Obsolete string (expires 2026-03-20)
-m24-home-mit-sloan-review = MIT Sloan Review
-m24-home-mit-sloan-management-review = MIT Sloan Management Review
-m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } finanțează platforma de networking Filament
 m24-home-axios = Axios
 m24-home-mozillas-new-message = Noul mesaj { -brand-name-mozilla }: Suntem singurul browser care nu este susținut de miliardari
 m24-home-fast-company = Fast Company
-m24-home-will-agi-be = Va deveni AGI realitate — și suntem pregătiți?
-m24-home-conversation-charting-a = Conversație: Trasarea unui viitor pentru acces și reprezentare
-m24-home-tech-policy-press = Tech Policy Press
-m24-home-open-by-design = Cu design deschis: Cum pot națiunile să concureze în era AI
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } trasează o nouă direcție către profitabilitate
-m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -161,15 +122,6 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se reinventeaz�
 m24-home-state-of-mozilla-alt = Artă pixelată abstractă în nuanțe de verde, portocaliu și roz
 m24-home-read-the-report = Citește raportul
 
-## Data Collective
-
-m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
-m24-home-mozilla-create-curate-control = Creează. Organizează. Controlează.
-# Obsolete string (expires 2026-03-20)
-m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective reconstruiește ecosistemul de date bazat pe IA, cu focalizare pe comunități. Accesează peste 300 de seturi de date globale de înaltă calitate, construite de și pentru  comunitate într-un mod transparent și etic.
-m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective reconstruiește ecosistemul de date bazat pe AI, cu focalizare pe comunități. Accesează peste 300 de seturi de date globale de înaltă calitate, construite de și pentru  comunitate în mod transparent și etic.
-m24-home-join-mozilla-data = Alătură-te { -brand-name-mozilla } Data Collective
-
 ## Issues
 
 m24-home-explore-issues-shaping = Explorează aspectele care modelează viitorul internetului
@@ -182,9 +134,3 @@ m24-home-alt-irl-host = Bridget Todd, gazda podcastului IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Podcastul nostru, premiat în mai multe rânduri, îi prezintă pe cei care contribuie la schimbare și care lucrează pentru a face internetul mai sigur și IA mai de încredere.
 m24-home-irl-listen-now = Ascultă acum
-
-## Outside the Fox
-
-m24-home-outside-the-fox = Outside the Fox
-m24-home-this-is-where = Aici explorăm ce se întâmplă online și de ce este important, de la de ce conținuturile generate de algoritmi predomină internetul până la cultura virală a internetului.
-m24-home-fox-listen-now = Ascultă acum

@@ -9,21 +9,3 @@
 m24-about-page-title = Даведайцеся пра { -brand-name-mozilla }
 # HTML page description
 m24-about-page-desc = { -brand-name-mozilla } робіць браўзэры, праграмы, код і інструменты, якія ставяць інтарэсы людзей вышэй за прыбытак. Наша місія: трымаць Інтэрнэт адкрытым і даступным для ўсіх.
-
-## Intro
-
-
-## Manifesto
-
-
-## News
-
-
-## Showcase
-
-
-## Careers
-
-
-## Community
-

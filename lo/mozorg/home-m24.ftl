@@ -57,37 +57,17 @@ m24-home-read-more = ອ່ານເພີ່ມເຕີມ
 m24-home-get-started = ເລີ່ມຕົ້ນໃຊ້ງານ
 m24-home-join-the-movement = ເຂົ້າຮ່ວມການເຄື່ອນໄຫວ:<br> AI ສໍາລັບປະຊາຊົນ
 m24-home-our-mission-is = ພາລະກິດຂອງພວກເຮົາແມ່ນເພື່ອເຮັດໃຫ້ມັນງ່າຍສໍາລັບຄົນທີ່ຈະສ້າງ, ແລະ ຮ່ວມມືກັບ, open-source, AI ທີ່ເຊື່ອຖືໄດ້.
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = ໂລໂກ້ { -brand-name-solo-ai }
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = ສ້າງເວັບໄຊທ໌ຂອງທ່ານ.ແລະ ເຊື່ອມຕໍ່ໂດເມນທີ່ກໍາຫນົດເອງຂອງທ່ານໂດຍບໍ່ເສຍຄ່າ
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } ຜູ້ສ້າງ
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = ຜູ້ກໍ່ສ້າງຊ່ວຍໃຫ້ຜູ້ພັດທະນາເອກະລາດສ້າງໂຄງການ AI ເປີດແຫຼ່ງທີ່ປ່ຽນແປງໄດ້ໂດຍຜ່ານການຮ່ວມມື, ການຂຽນໂປຼແກຼມ, ແລະ ຊຸມຊົນ.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } ຊ່ວຍໃຫ້ຜູ້ພັດທະນາອິດສະຫຼະສ້າງໂຄງການ AI ແບບໂອເພນຊອດທີ່ປ່ຽນແປງໄດ້ໂດຍຜ່ານການຮ່ວມມື, ການຂຽນໂປຼແກຼມ ແລະ ຊຸມຊົນ.
-# Used as an accessible text alternative for an image
-m24-home-alt-mozfest = ຄົນກຸ່ມໃຫຍ່ໄດ້ມາເຕົ້າໂຮມກັນຢູ່ໃນບ່ອນຈັດງານໃນຮົ່ມທີ່ຫຍຸ້ງຢູ່, ເບິ່ງຈາກດ້ານເທິງ.
-m24-home-mozfest-join-us = ເຂົ້າຮ່ວມກັບພວກເຮົາທີ່ { -brand-name-mozilla-festival }
-m24-home-mozfest-the-future = ອະນາຄົດຂອງເທັກໂນໂລຍີບໍ່ໄດ້ຕັ້ງ — ມັນເປັນຂອງພວກເຮົາທີ່ຈະສ້າງ. ເຂົ້າຮ່ວມກັບພວກເຮົາທີ່ບາເຊໂລນາວັນທີ 7-9 ພະຈິກເພື່ອຮຽນຮູ້ຄ່າເລີ່ມຕົ້ນ, ຈິນຕະນາການຢ່າງກ້າຫານ ແລະ ສ້າງສິ່ງຕໍ່ໄປ.
-m24-home-mozfest-get-your = ເອົາປ້າຍຂອງທ່ານມື້ນີ້
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = ໂລໂກ້ { -brand-name-lumigator }.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = ຄົ້ນຫາ LLM ທີ່ເຫມາະສົມສໍາລັບຄວາມຕ້ອງການ, ກໍລະນີການນໍາໃຊ້ ແລະ ຂໍ້ມູນຂອງທ່ານ.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Mark Surman, ປະທານຂອງ { -brand-name-mozilla }.
-m24-home-can-ai-be = AI ສາມາດເຊື່ອຖືໄດ້ບໍ?
-m24-home-in-a-world = ໃນໂລກທີ່ນະວັດຕະກໍາ AI ຖືກຂັບເຄື່ອນໂດຍຈໍານວນຫນ້ອຍທີ່ເລືອກ, ພວກເຮົາມີຄວາມສ່ຽງຕໍ່ການຜູກຂາດຂອງເຕັກໂນໂລຢີນີ້. ການໃຊ້ແນວຄວາມຄິດ open-source ກັບ AI ສາມາດປ່ຽນແປງໄດ້.
 m24-home-watch-now = ເບິ່ງດຽວນີ້
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = ນັກສຳມະນາກອນຢູ່ເທິງເວທີທີ່ມີໂລໂກ້ຜະລິດຕະພັນຫຼາຍອັນ.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = ມີການເລີ່ມຕົ້ນຂັ້ນຕອນຕົ້ນບໍ? ສະເໜີໃຫ້ບໍລິສັດຂອງທ່ານເປັນ { -brand-name-mozilla-ventures } ແລະຮັບປະກັນການລະດົມທຶນເພື່ອຊຸກຍູ້ການປ່ຽນແປງທີ່ດີສໍາລັບອະນາຄົດຂອງ AI ແລະອິນເຕີເນັດ.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = ບໍລິຈາກສຽງຂອງທ່ານເພື່ອເຮັດໃຫ້ເທກໂນໂລຍີການເວົ້າລວມເຂົ້າກັນຫຼາຍຂຶ້ນ ແລະ ສາມາດເຂົ້າເຖິງໄດ້ສໍາລັບທຸກຄົນ.
-m24-home-donate-your-voice = ບໍລິຈາກສຽງຂອງທ່ານ
 
 ## Media Springboard
 

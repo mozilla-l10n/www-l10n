@@ -39,13 +39,9 @@ m24-home-tag-project = מיזם
 m24-home-tag-event = אירוע
 m24-home-read-more = מידע נוסף
 m24-home-get-started = תחילת עבודה
-m24-home-solo-ai = { -brand-name-solo-ai }
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
-m24-home-lumigator = { -brand-name-lumigator }
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice = תרמו את קולכם
 
 ## Issues
 

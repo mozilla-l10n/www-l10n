@@ -56,32 +56,17 @@ m24-home-read-more = Lesa meira
 m24-home-get-started = Hefjast handa
 m24-home-join-the-movement = Vertu með í hreyfingunni:<br> AI-gervigreind fyrir fólkið
 m24-home-our-mission-is = Markmið okkar er að auðvelda fólki að byggja og vinna með áreiðanlega gervigreind, með opinn grunnkóða.
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = { -brand-name-solo-ai }-táknmerki
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Búðu til þitt eigið vefsvæði og tengdu þitt eigið sérsniðið lén ókeypis
 m24-home-alt-builders = Builders-smiðir
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders-smiðir
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Smiðirnir (builders) hjálpa sjálfstæðum hönnuðum að búa til byltingarkennd opin gervigreindarverkefni með hjálp sérsniðins samstarfs, forritun og framlögum frá samfélaginu.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } hjálpa sjálfstæðum hönnuðum að búa til byltingarkennd opin gervigreindarverkefni með hjálp sérsniðins samstarfs, forritun og framlögum frá samfélaginu.
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = { -brand-name-lumigator }-táknmerki
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Finndu rétta útgáfu LLM sem hentar þörfum þínum, notkunarsviði og gögnum.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Mark Surman, forseti { -brand-name-mozilla }.
-m24-home-can-ai-be = Er hægt að treysta gervigreind?
-m24-home-in-a-world = Í heimi þar sem nýsköpun tengd gervigreind er drifin áfram af fáum útvöldum, eigum við á hættu að einokun umleiki þessa tækni. Beiting aðferða úr opnum hugtbúnaði á gervigreind gæti breytt því.
 m24-home-watch-now = Horfa núna
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Ræðumaður á sviði með mörgum vörumerkjum.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Ertu með sprotafyrirtæki á byrjunarstigi? Sendu inn upplýsingar um fyrirtækið þitt til { -brand-name-mozilla-ventures } og tryggðu fjármögnun til að knýja fram jákvæðar breytingar á framtíð gervigreindar og internetsins.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Gefðu rödd þína til að gera taltækni meira án aðgreiningar og aðgengilegri fyrir alla.
-m24-home-donate-your-voice = Gefðu raddsýnishorn
 
 ## Media Springboard
 

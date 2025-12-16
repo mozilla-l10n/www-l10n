@@ -57,43 +57,18 @@ m24-home-read-more = Les mer
 m24-home-get-started = Kom i gang
 m24-home-join-the-movement = Bli med i bevegelsen:<br> AI for folket
 m24-home-our-mission-is = Vårt oppdrag er å gjøre det enkelt for folk å bygge med, og samarbeide om AI som er åpen kildekode og pålitelig.
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = { -brand-name-solo-ai }-logo
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Lag nettstedet ditt og koble til ditt eget tilpassede domene gratis.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders hjelper uavhengige utviklere med å lage banebrytende AI-prosjekter med åpen kildekode gjennom samarbeid, programmering og fellesskap
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } hjelper uavhengige utviklere med å lage banebrytende AI-prosjekter med åpen kildekode gjennom skreddersydde samarbeider, programmering og fellesskap.
-# Used as an accessible text alternative for an image
-m24-home-alt-mozfest = En stor gruppe mennesker samlet seg i et travelt innendørs arrangementslokale, sett ovenfra.
-m24-home-mozfest-join-us = Bli med oss på { -brand-name-mozilla-festival }
-m24-home-mozfest-the-future = Teknologiens fremtid er ikke forhåndsbestemt – det er opp til oss å forme den. Bli med oss i Barcelona 7.–9. november for å avlære det vante, tenke dristig og bygge det som kommer.
-m24-home-mozfest-get-your = Få merket ditt i dag
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = { -brand-name-lumigator }-logo.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Finn den rette LLM-en for dine behov, bruksområde og data.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Mark Surman, president for { -brand-name-mozilla }.
-m24-home-can-ai-be = Kan AI være troverdig?
-m24-home-in-a-world = I en verden der AI-innovasjon drives av noen få utvalgte, risikerer vi å monopolisere denne teknologien. Å bruke åpen kildekode-konsepter på AI kan endre dette.
 m24-home-watch-now = Se nå
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Taler på scenen med flere produktlogoer.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Har du en oppstartsbedrift i tidlig fase? Presenter bedriften din for { -brand-name-mozilla-ventures } og sikre finansiering for å drive positiv endring for fremtiden til AI og internett.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Bidra med din stemme for å gjøre taleteknologi mer inkluderende og tilgjengelig for alle.
-m24-home-donate-your-voice = Bidra med din stemme
-m24-home-our-transformation = Vår forvandling
-m24-home-how-do-legacy = Hvordan kolliderer tradisjonelle verdier med innovasjon? I denne samtalen gir Mark Surman et lite innblikk på hvordan vi forvandler { -brand-name-mozilla } for AI-tidsalderen.
-# Used as an accessible text alternative for an image
-m24-home-alt-transformation = Endre signal med Mark Surman og MBS
-# Used as an accessible text alternative for an image
-m24-home-alt-pink-cloud = Sky med rosa bakgrunn
+# Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Enhver agent
 m24-home-stop-wiring-tools = Slutt å koble sammen verktøy og passe på skjøre automatiseringer. Med { -brand-name-mozilla-ai-v2 } Agent Platform beskriver du målet ditt, og vi genererer adaptive AI-agenter som fungerer med verktøyene og prosessene dine.
 
@@ -114,22 +89,14 @@ m24-home-topic-ai = Kunstig Intelligens
 m24-home-topic-open-source-ai = Åpen kildekode AI
 m24-home-topic-ps = Personvern og sikkerhet
 m24-home-headline-you-ai-v2 = Du, AI og internett — hva skjer egentlig?
-m24-home-shake-to-summarize = Rist for å oppsummere i TIMEs beste oppfinnelser i 2025
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } ønsker Raffi Krikorian velkommen som teknologidirektør
 m24-home-tech-target = Teknisk mål
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Introduksjon av Thundermail og Thunderbird Pro
-# Obsolete string (expires 2026-03-01)
-m24-home-tech-crunch = Tech Crunch
-m24-home-tech-crunch-v2 = TechCrunch
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-fast-company = Fast Company
-m24-home-will-agi-be = Vil AGI bli en realitet – og er vi klare?
-m24-home-tech-policy-press = Tech Policy Press
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } staker ut en ny kurs med en vending mot lønnsomhet
-m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -156,8 +123,3 @@ m24-home-alt-irl-host = Bridget Todd, programleder for IRL-podkasten.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Vår prisbelønte podkast introduserer endringsskaperne som jobber for å gjøre internett tryggere og AI mer pålitelig.
 m24-home-irl-listen-now = Lytt nå
-
-## Outside the Fox
-
-m24-home-outside-the-fox = Outside the Fox
-m24-home-fox-listen-now = Lytt nå

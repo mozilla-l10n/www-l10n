@@ -20,12 +20,6 @@ m24-about-together-we-can = יחד, אנחנו יכולים לשמור על הא
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = קבוצת הוגים יושבים במעגל על הרצפה וחולקים רעיונות.
 
-## News
-
-
-## Showcase
-
-
 ## Careers
 
 # Used as an accessible text alternative for an image
@@ -35,6 +29,3 @@ m24-about-alt-drinking-coffee = עובד { -brand-name-mozilla } שותה קפה
 # Used as an accessible text alternative for an image
 m24-about-alt-collaborating = עובדי { -brand-name-mozilla } משתפים פעולה.
 m24-about-see-open-positions = צפייה במשרות פנויות
-
-## Community
-

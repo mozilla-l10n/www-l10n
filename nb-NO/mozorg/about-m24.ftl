@@ -36,13 +36,6 @@ m24-about-we-fund-and = Vi finansierer og investerer i menneskene og innsatsen s
 
 m24-about-read-more = Les mer
 m24-about-read-the-latest = Les de siste nyhetene og artiklene fra { -brand-name-mozilla }
-m24-about-builders-program = { -brand-name-mozilla-builders } hjelper utviklere med å lage banebrytende AI-prosjekter med åpen kildekode gjennom samarbeid, programmering og fellesskap
-m24-about-at-our-rise25 = På våre { -brand-name-rise25 } Awards er fremtiden for AI pålitelig, inkluderende og ansvarlig
-# Used as an accessible text alternative for an image
-m24-about-rise25-award = Prisvinner av { -brand-name-rise25 } peker på trofeet sitt.
-m24-about-empowering-chicagos-entrepreneurs = Styrker Chicagos gründere for generasjonsskifte
-# Used as an accessible text alternative for an image
-m24-about-chicago = En entreprenør basert i Chicago.
 
 ## Showcase
 

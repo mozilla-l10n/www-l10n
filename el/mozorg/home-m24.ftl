@@ -57,40 +57,18 @@ m24-home-read-more = Διαβάστε περισσότερα
 m24-home-get-started = Έναρξη
 m24-home-join-the-movement = Συμμετέχετε στο κίνημα:<br> ΤΝ για τους ανθρώπους
 m24-home-our-mission-is = Αποστολή μας είναι να καταστήσουμε εύκολη για τους ανθρώπους την ανάπτυξη και τη συνεργασία με μια αξιόπιστη τεχνητή νοημοσύνη ανοικτού κώδικα.
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = Λογότυπο { -brand-name-solo-ai }
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Δημιουργήστε τον ιστότοπό σας και συνδέστε δωρεάν τον δικό σας προσαρμοσμένο τομέα
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Η δράση «Builders» βοηθά ανεξάρτητους προγραμματιστές να δημιουργήσουν καινοτόμα έργα ΤΝ ανοικτού κώδικα μέσω εξατομικευμένων συνεργασιών, του προγραμματισμού και της κοινότητας.
 m24-home-builders-helps-independent-v2 = Η δράση «{ -brand-name-mozilla-builders }» βοηθά ανεξάρτητους προγραμματιστές να δημιουργήσουν καινοτόμα έργα ΤΝ ανοικτού κώδικα μέσω εξατομικευμένων συνεργασιών, του προγραμματισμού και της κοινότητας.
-# Used as an accessible text alternative for an image
-m24-home-alt-mozfest = Μια μεγάλη ομάδα ανθρώπων που έχουν συγκεντρωθεί σε έναν πολυσύχναστο εσωτερικό χώρο εκδηλώσεων, από ψηλά.
-m24-home-mozfest-join-us = Ελάτε μαζί μας στο { -brand-name-mozilla-festival }
-m24-home-mozfest-the-future = Το μέλλον της τεχνολογίας δεν είναι προκαθορισμένο· εμείς το διαμορφώνουμε. Ελάτε μαζί μας στη Βαρκελώνη από τις 7 έως τις 9 Νοεμβρίου για να αμφισβητήσουμε τις συμβάσεις, να αφήσουμε τη φαντασία μας ελεύθερη και να χτίσουμε αυτό που έρχεται.
-m24-home-mozfest-get-your = Αποκτήστε το έμβλημά σας σήμερα
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = Λογότυπο του { -brand-name-lumigator }.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Βρείτε το κατάλληλο LLM για τις ανάγκες, την περίπτωση χρήσης και τα δεδομένα σας.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Mark Surman, Πρόεδρος της { -brand-name-mozilla }.
-m24-home-can-ai-be = Μπορεί η τεχνητή νοημοσύνη να είναι αξιόπιστη;
-m24-home-in-a-world = Σε έναν κόσμο όπου η καινοτομία της τεχνητής νοημοσύνης καθοδηγείται από λίγους εκλεκτούς, παραμονεύει ο κίνδυνος ενός μονοπωλείου για αυτήν την τεχνολογία. Η εφαρμογή ιδεών ανοικτού κώδικα στην τεχνητή νοημοσύνη μπορεί να το αλλάξει αυτό.
 m24-home-watch-now = Παρακολούθηση
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Ομιλητής επί σκηνής με πολλαπλά λογότυπα προϊόντων.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Έχετε μια νεοφυή επιχείρηση στα πρώιμα στάδιά της; Παρουσιάστε τη στο { -brand-name-mozilla-ventures } και εξασφαλίστε χρηματοδότηση για να φέρετε μια θετική αλλαγή στο μέλλον της τεχνητής νοημοσύνης και του διαδικτύου.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Δωρίστε τη φωνή σας για να κάνετε την τεχνολογία ομιλίας πιο συμπεριληπτική και προσβάσιμη για όλους.
-m24-home-donate-your-voice = Δωρίστε τη φωνή σας
-m24-home-our-transformation = Η μεταμόρφωσή μας
-# Used as an accessible text alternative for an image
-m24-home-alt-pink-cloud = Σύννεφο με ροζ παρασκήνιο
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 
 ## Media Springboard
 
@@ -110,16 +88,10 @@ m24-home-topic-open-source-ai = ΤΝ ανοικτού κώδικα
 m24-home-topic-ps = Απόρρητο και ασφάλεια
 m24-home-headline-you-ai-v2 = Εσείς, η τεχνητή νοημοσύνη και το διαδίκτυο· τι πραγματικά συμβαίνει;
 m24-home-tech-target = Tech Target
-# Obsolete string (expires 2026-03-01)
-m24-home-tech-crunch = Tech Crunch
-m24-home-tech-crunch-v2 = TechCrunch
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-fast-company = Fast Company
-m24-home-tech-policy-press = Tech Policy Press
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-mozilla-ai-charts = Το { -brand-name-mozilla-ai-v2 } χαράζει νέα πορεία με μια στροφή προς την κερδοφορία
-m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -138,12 +110,6 @@ m24-home-mozilla-is-reinventing-itself = Η { -brand-name-mozilla } επαναπ
 m24-home-state-of-mozilla-alt = Αφηρημένη τέχνη εικονοστοιχείων στις αποχρώσεις του πράσινου, του πορτοκαλί και του ροζ
 m24-home-read-the-report = Διαβάστε την αναφορά
 
-## Data Collective
-
-m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
-m24-home-mozilla-create-curate-control = Δημιουργία. Επιμέλεια. Έλεγχος.
-m24-home-join-mozilla-data = Συμμετοχή στο { -brand-name-mozilla } Data Collective
-
 ## Issues
 
 m24-home-explore-issues-shaping = Εξερευνήστε τα θέματα που διαμορφώνουν το μέλλον του διαδικτύου
@@ -155,8 +121,3 @@ m24-home-alt-irl-host = Bridget Todd, οικοδέσποινα του IRL Podcas
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Το πολυβραβευμένο μας podcast παρουσιάζει τους αρωγούς αλλαγής που εργάζονται για να κάνουν το διαδίκτυο πιο ασφαλές και την τεχνητή νοημοσύνη πιο αξιόπιστη.
 m24-home-irl-listen-now = Ακρόαση
-
-## Outside the Fox
-
-m24-home-outside-the-fox = Outside the Fox
-m24-home-fox-listen-now = Ακρόαση

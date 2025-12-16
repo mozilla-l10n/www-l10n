@@ -57,43 +57,20 @@ m24-home-read-more = Leer más
 m24-home-get-started = Empezar
 m24-home-join-the-movement = Únete al movimiento:<br> IA para la gente
 m24-home-our-mission-is = Nuestra misión es hacer que sea fácil para las personas construir y colaborar con una IA confiable y de código abierto.
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = Logo de { -brand-name-solo-ai }
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Crea tu sitio web y conecta tu dominio personalizado gratis
 m24-home-alt-builders = Desarrolladores
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = Desarrolladores de { -brand-name-mozilla }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Desarrolladores ayuda a los independientes a crear proyectos de IA transformadores de código abierto a través de colaboraciones, programación y comunidad a medida.
 m24-home-builders-helps-independent-v2 = Los { -brand-name-mozilla-builders } ayudan a los independientes a crear proyectos de IA transformadores de código abierto a través de colaboraciones, programación y comunidad a medida.
-# Used as an accessible text alternative for an image
-m24-home-alt-mozfest = Un gran grupo de personas reunidas en un concurrido espacio interior para eventos, visto desde arriba.
-m24-home-mozfest-join-us = Únase a nosotros en { -brand-name-mozilla-festival }
-m24-home-mozfest-the-future = El futuro de la tecnología no está decidido — nos corresponde moldearlo. Únete a nosotros en Barcelona del 7 al 9 de noviembre para desaprender los principios, imaginar con audacia y construir el futuro.
-m24-home-mozfest-get-your = Consigue tu credencial hoy
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = Logo de { -brand-name-lumigator }.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Encuentra el LLM adecuado para tus necesidades, caso de uso y datos.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Mark Surman, presidente de { -brand-name-mozilla }.
-m24-home-can-ai-be = ¿Puede la IA ser confiable?
-m24-home-in-a-world = En un mundo en el que la innovación en IA es impulsada por unos pocos, corremos el riesgo de que esta tecnología sea monopolizada. La aplicación de conceptos de código abierto a la IA podría cambiar esta situación.
 m24-home-watch-now = Mirar ahora
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Orador en el escenario con múltiples logotipos de productos.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = ¿Tienes una startup en etapa inicial? Presenta tu empresa a { -brand-name-mozilla-ventures } y obtén financiamiento para impulsar un cambio positivo para el futuro de la IA e Internet.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Dona tu voz para hacer que la tecnología del habla sea más inclusiva y accesible para todos.
-m24-home-donate-your-voice = Dona tu voz
-m24-home-our-transformation = Nuestra transformación
-m24-home-how-do-legacy = ¿Cómo chocan los valores heredados con la innovación? En esta conversación, Mark Surman muestra cómo estamos transformando { -brand-name-mozilla } para la era de la IA.
-# Used as an accessible text alternative for an image
-m24-home-alt-transformation = Change Signal con Mark Surman y MBS
-# Used as an accessible text alternative for an image
-m24-home-alt-pink-cloud = Nube con fondo rosa
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective está reconstruyendo el ecosistema de datos de IA con las comunidades como eje central. Accede a más de 300 conjuntos de datos globales de alta calidad, creados por y para la comunidad de forma transparente y ética.
+# Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Cualquier agente
 m24-home-stop-wiring-tools = Deja de conectar herramientas y de controlar automatizaciones frágiles. Con la Plataforma de Agentes { -brand-name-mozilla-ai-v2 }, describe tu objetivo y nosotros generamos agentes de IA adaptativos que funcionan con tus herramientas y procesos.
 
@@ -114,7 +91,6 @@ m24-home-topic-ai = Inteligencia artificial
 m24-home-topic-open-source-ai = IA de código abierto
 m24-home-topic-ps = Privacidad y seguridad
 m24-home-headline-you-ai-v2 = Usted, la IA e Internet: ¿qué está pasando realmente?
-m24-home-shake-to-summarize = Agita para resumir los mejores inventos de 2025 de la revista TIME
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } da la bienvenida a Raffi Krikorian como director de tecnología
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = El CEO de { -brand-name-mozilla-ai-v2 } habla sobre las ventajas de la IA de código abierto
@@ -122,27 +98,12 @@ m24-home-mozilla-ai-ceo = El CEO de { -brand-name-mozilla-ai-v2 } habla sobre la
 m24-home-introducing-thundermail-and = Presentamos Thundermail y Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Presentamos { -brand-name-thundermail } y { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = El futuro de la tecnología es una elección. Elige con nosotros.
-m24-home-how-ventures-investee = Cómo Ventures Investee Germ está reforzando la criptografía
-# Obsolete string (expires 2026-03-01)
-m24-home-tech-crunch = Tech Crunch
-m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = ‘Un buen momento para nosotros’: { -brand-name-firefox } se centra en los navegadores con inteligencia artificial y el futuro de la web.
 m24-home-the-guardian = The Guardian
-m24-home-interview-take-open = Entrevista: Llevando el código abierto a la era de la IA
-# Obsolete string (expires 2026-03-20)
-m24-home-mit-sloan-review = MIT Sloan Review
-m24-home-mit-sloan-management-review = MIT Sloan Management Review
-m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } financia la plataforma de redes Filament
 m24-home-axios = Axios
 m24-home-mozillas-new-message = Nuevo mensaje de { -brand-name-mozilla }: Somos el único navegador no respaldado por multimillonarios
 m24-home-fast-company = Fast Company
-m24-home-will-agi-be = ¿Se convertirá la IAG en una realidad? ¿Estamos preparados?
-m24-home-conversation-charting-a = Conversación: Trazando un futuro para la accesibilidad y la autonomía
-m24-home-tech-policy-press = Tech Policy Press
-m24-home-open-by-design = Abierto por diseño: cómo pueden competir las naciones en la era de la IA
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } traza un nuevo rumbo con un giro hacia la rentabilidad
-m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -161,15 +122,6 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se está reinve
 m24-home-state-of-mozilla-alt = Pixel art abstracto en tonos de verde, naranja y rosa
 m24-home-read-the-report = Leer el reporte
 
-## Data Collective
-
-m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
-m24-home-mozilla-create-curate-control = Crear. Seleccionar. Controlar.
-# Obsolete string (expires 2026-03-20)
-m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective está reconstruyendo el ecosistema de datos de IA con las comunidades como eje central. Accede a más de 300 conjuntos de datos globales de alta calidad, creados por y para la comunidad de forma transparente y ética.
-m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective está reconstruyendo el ecosistema de datos de IA con las comunidades como eje central. Accede a más de 300 conjuntos de datos globales de alta calidad, creados por y para la comunidad de forma transparente y ética.
-m24-home-join-mozilla-data = Únete a { -brand-name-mozilla } Data Collective
-
 ## Issues
 
 m24-home-explore-issues-shaping = Explora problemas que dan forma al futuro de Internet
@@ -182,9 +134,3 @@ m24-home-alt-irl-host = Bridget Todd, presentadora del podcast IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Nuestro podcast, ganador de múltiples premios, presenta a los creadores de cambios que trabajan para hacer que Internet sea más seguro y la IA más confiable.
 m24-home-irl-listen-now = Escuchar ahora
-
-## Outside the Fox
-
-m24-home-outside-the-fox = Más allá del zorro
-m24-home-this-is-where = Aquí es donde exploramos lo que está sucediendo en línea y por qué es importante, desde por qué la basura se está apoderando de Internet hasta la cultura viral de Internet.
-m24-home-fox-listen-now = Escuchar ahora

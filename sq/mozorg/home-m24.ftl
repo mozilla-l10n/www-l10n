@@ -57,32 +57,12 @@ m24-home-read-more = Lexoni më tepër
 m24-home-get-started = Fillojani
 m24-home-join-the-movement = Bëhuni pjesë e lëvizjes:<br> IA për popullin
 m24-home-our-mission-is = Misioni ynë është ta bëjmë të lehtë për njerëzit të ndërtojnë me dhe të bashkëpunojnë në IA të besueshme, me burim të hapët.
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = Stemë { -brand-name-solo-ai }
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Krijoni sajtin tuaj dhe lidhni falas përkatësinë tuaj
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
-# Used as an accessible text alternative for an image
-m24-home-alt-mozfest = Një grup i madh personash të mbledhur në një hapësirë veprimtarish brenda, parë nga sipër.
-m24-home-mozfest-join-us = Ejani me ne te { -brand-name-mozilla-festival }
-m24-home-mozfest-the-future = E ardhmja e teknologjisë s’është e vulosur — është e jona, për t’i dhënë formë. Ejani me në Barcelona, nga 7–9 nëntor për të hequr nga mendja parazgjedhjet, për të përfytyruar me guxim dhe ndërtuar ç’pason.
-m24-home-mozfest-get-your = Merrni stemën tuaj që sot
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = Stemë e { -brand-name-lumigator }.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Gjeni LLM-në e duhur për nevojat, rastin dhe të dhënat tuaja.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Mark Surman, president i { -brand-name-mozilla }-s.
-m24-home-can-ai-be = A mund të jetë e besueshme IA-ja?
-m24-home-in-a-world = Në një botë ku risitë IA drejtohen nga pak të përzgjedhur, rrezikojmë monopolizimin e kësaj teknologjie. Zbatimi te IA i koncepteve të burimit të hapët mund ta ndryshojë këtë.
 m24-home-watch-now = Shiheni tani
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Folës në skenë me stema produktesh të ndryshëm.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Dhuroni zërin tuaj për ta bërë teknologjinë e të folurit më përfshirëse dhe të përdorshme nga kushdo.
-m24-home-donate-your-voice = Dhuroni zërin tuaj
 
 ## Media Springboard
 

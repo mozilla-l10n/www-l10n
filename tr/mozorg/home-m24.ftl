@@ -57,40 +57,17 @@ m24-home-read-more = Devamını okuyun
 m24-home-get-started = Kullanmaya başlayın
 m24-home-join-the-movement = Harekete katılın:<br> İnsanlık için yapay zekâ
 m24-home-our-mission-is = Misyonumuz, açık kaynaklı ve güvenilir yapay zekâyla yeni şeyler inşa etmeyi ve yapay zekâ üzerinde birlikte çalışmayı kolaylaştıran bir ortam yaratmak.
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = { -brand-name-solo-ai } logosu
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Ücretsiz web sitenizi oluşturup kendi alan adınıza bağlayın
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders; özel iş ortaklıkları, programlama ve topluluklar aracılığıyla bağımsız geliştiricilerin dönüşüm yaratan açık kaynaklı yapay zekâ projeleri oluşturmasına yardımcı olur.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders }; özel iş ortaklıkları, programlama ve topluluklar aracılığıyla bağımsız geliştiricilerin dönüşüm yaratan açık kaynaklı yapay zekâ projeleri oluşturmasına yardımcı olur.
-# Used as an accessible text alternative for an image
-m24-home-alt-mozfest = Yoğun bir kapalı etkinlik alanında toplanmış bir grup insan. Tepeden bakış.
-m24-home-mozfest-join-us = { -brand-name-mozilla-festival }’de bize katılın
-m24-home-mozfest-the-future = Teknolojinin geleceğini belirlemek bizim elimizde. Varsayılanları unutmak, cesurca hayal kurmak ve geleceği inşa etmek için 7-9 Kasım’da Barselona’da bize katılın.
-m24-home-mozfest-get-your = Biletinizi alın
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = { -brand-name-lumigator } logosu.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = İhtiyaçlarınız, kullanım senaryolarınız ve verileriniz için doğru LLM’i bulun.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Mark Surman, { -brand-name-mozilla } Başkanı.
-m24-home-can-ai-be = Yapay zekânın güvenilir olması mümkün mü?
-m24-home-in-a-world = Yapay zekâ inovasyonlarının birkaç seçkin kişinin elinde olduğu bir dünyada yapay zekâ teknolojisinin tekelleşme riskini yaşıyoruz. Açık kaynak kavramlarını yapay zekâya uygulamak bu durumu değiştirebilir.
 m24-home-watch-now = İzleyin
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Sahnedeki bir konuşmacı ve çeşitli ürün logoları.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Başlangıç aşamasında bir startup’ınız mı var? Şirketinizi { -brand-name-mozilla-ventures }’a anlatın, yapay zekâ ve internetin geleceği için olumlu bir değişime öncülük edecek finansman desteğini alın.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Konuşma teknolojilerini daha kapsayıcı ve herkes için daha erişilebilir hale getirmek adına sesinizi bağışlayın.
-m24-home-donate-your-voice = Sesinizi bağışlayın
-m24-home-our-transformation = Dönüşümümüz
-# Used as an accessible text alternative for an image
-m24-home-alt-pink-cloud = Pembe arka planlı bulut
 
 ## Media Springboard
 
@@ -110,17 +87,10 @@ m24-home-topic-open-source-ai = Open Source AI
 m24-home-topic-ps = Gizlilik ve güvenlik
 m24-home-headline-you-ai-v2 = Siz, yapay zekâ ve internet… Aslında neler oluyor?
 m24-home-tech-target = Tech Target
-# Obsolete string (expires 2026-03-01)
-m24-home-tech-crunch = Tech Crunch
 m24-home-the-guardian = The Guardian
-# Obsolete string (expires 2026-03-20)
-m24-home-mit-sloan-review = MIT Sloan Review
-m24-home-mit-sloan-management-review = MIT Sloan Management Review
 m24-home-axios = Axios
 m24-home-fast-company = Fast Company
-m24-home-tech-policy-press = Tech Policy Press
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -148,7 +118,3 @@ m24-home-alt-irl-host = Bridget Todd, IRL Podcast sunucusu.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Ödüllü podcast’imiz interneti daha güvenli ve yapay zekâyı daha güvenilir hale getirmek için çalışan öncüleri konuk ediyor.
 m24-home-irl-listen-now = Dinleyin
-
-## Outside the Fox
-
-m24-home-fox-listen-now = Şimdi dinleyin

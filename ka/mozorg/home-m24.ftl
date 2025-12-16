@@ -57,43 +57,20 @@ m24-home-read-more = ვრცლად
 m24-home-get-started = დაიწყეთ
 m24-home-join-the-movement = შემოუერთდით მოძრაობას:<br> AI ხალხისთვის
 m24-home-our-mission-is = ჩვენი მიზანია, გავუადვილოთ ხალხს შემუშავება და თანამშრომლობა ღია წყაროს მქონე და სანდო AI-საშუალებების შექმნისთვის.
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = { -brand-name-solo-ai }-ლოგო
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = შექმენით თქვენი ვებსაიტი და დააკავშირეთ საკუთარი დომენი უფასოდ
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders ეხმარება დამოუკიდებელ შემმუშავებლებს ღია წყაროს მქონე AI-საშუალებების შექმნაში ცალკეული თანამშრომლობის, პროგრამებისა და საზოგადოებების ჩამოყალიბებით.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } ეხმარება დამოუკიდებელ შემმუშავებლებს, შექმნან ახლებური სახის ღია წყაროს მქონე AI-პროექტები ცალკეული თანამშრომლობის, დაპროგრამებისა და საზოგადოებების მეშვეობით.
-# Used as an accessible text alternative for an image
-m24-home-alt-mozfest = ხალხის დიდი ჯგუფი შეკრებილი ღონისძიებებისას დატვირთულ დახურულ სივრცეში, ზედხედი.
-m24-home-mozfest-join-us = შემოგვიერთდით – { -brand-name-mozilla-festival }
-m24-home-mozfest-the-future = ტექნოლოგიების მომავალი ჯერ არაა განსაზღვრული — მისი ჩამოყალიბება ჩვენს ხელშია. შემოგვიერთდით ბარსელონაში 7–9 ნოემბერს, რომ გადავსინჯოთ დადგენილი წესები, გამოვთქვათ ვარაუდები გაბედულად და შევიმუშავოთ, რა და როგორ უნდა იყოს მომავალში.
-m24-home-mozfest-get-your = მიიღეთ თქვენი სამკერდე დღესვე
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = { -brand-name-lumigator }-ლოგო.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = მონახეთ LLM თქვენი საჭიროებებისთვის შესაფერისი გამოყენების პირობებითა და მონაცემებით.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = მარკ სურმანი, { -brand-name-mozilla }-ს ხელმძღვანელი.
-m24-home-can-ai-be = შეიძლება ხელოვნური გონი იყოს სანდო?
-m24-home-in-a-world = სამყაროში, რომელშიც ხელოვნურ ინტელექტთან დაკავშირებული სიახლეების დანერგვა ვიწრო ჯგუფის ხელშია, ერთპიროვნული ზედამხედველობის საფრთხის წინაშე ვდგავართ. ღია წყაროს ცნებებს თუ დაუახლოვდება AI, მაშინ შესაძლებელი გახდება ამ ყველაფრის შეცვლა.
 m24-home-watch-now = უყურეთ ახლავე
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = სცენაზე გამოსული მოსაუბრე ფონზე მრავალი პროდუქტის ლოგოთი.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = წამოწყება გაქვთ, რომელიც ადრეულ საფეხურზეა? წარადგინეთ თქვენი კომპანია და { -brand-name-mozilla-ventures } უზრუნველყოფს მის დაფინანსებას, მომავლისა და ხელოვნური გონის დადებითი კუთხით განვითარებისთვის.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = შემოგვწირეთ თქვენი ხმა, რომ სამეტყველო ტექნოლოგიები გახდეს მეტად საყოველთაო და ხელმისაწვდომი.
-m24-home-donate-your-voice = მოგვაწოდეთ თქვენი ხმის ჩანაწერები
-m24-home-our-transformation = ჩვენი გარდაქმნა
-m24-home-how-do-legacy = როგორ ეჯახება სიახლეებს მოძველებული ღირებულებები? ამ საუბარში, მარკ სურმანი მიმოიხილავს, თუ როგორ ვცვლით { -brand-name-mozilla } ხელოვნურ ინტელექტის ეპოქისთვის.
-# Used as an accessible text alternative for an image
-m24-home-alt-transformation = სიგნალის შეცვლა Mark Surman-ით და MBS-ით
-# Used as an accessible text alternative for an image
-m24-home-alt-pink-cloud = ღრუბელი ვარდისფერი ფონით
+m24-home-mozilla-data-collective = { -brand-name-mozilla } მონაცემთა კრებული
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Colective აღადგენს AI მონაცემთა ეკოსისტემას ერთობებით, ცენტრში. იხილეთ 300-ზე მეტი მაღალი ხარისხის გლობალური მონაცემთა კრებული, რომლებიც შექმნილია საზოგადოებისთვის გამჭვირვალედ და ეთიკური გზით.
+# Obsolete string (expires 2026-04-05)
 m24-home-any-agent = ნებისმიერი აგენტი
 m24-home-stop-wiring-tools = შეაჩერეთ სადენების მიბმა და მყიფე ავტომატიზაციის შეწყვეტა. { -brand-name-mozilla-ai-v2 } აგენტის პლატფორმით, თქვენ აღწერთ თქვენს მიზანს, ჩვენ ვქმნით AI-ის ადაპტირებულ აგენტებს, თქვენს ხელსაწყოებსა და პროცესებზე მომუშავე.
 
@@ -114,7 +91,6 @@ m24-home-topic-ai = ხელოვნური გონიერება
 m24-home-topic-open-source-ai = ღია კოდის მქონე AI
 m24-home-topic-ps = პირადულობა და უსაფრთხოება
 m24-home-headline-you-ai-v2 = თქვენ, ხელოვნური გონი და ინტერნეტი – რა ხდება სინამდვილეში?
-m24-home-shake-to-summarize = შეიკი, რათა შეაჯამოს TIME-ის 2025 წლის საუკეთესო გამოგონებებში
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } მიესალმება რაფი კრიკორიანს ტექნოლოგიების ხელმძღვანელად
 m24-home-tech-target = ტექნიკური სამიზნე
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 }-ის აღმასრულებელი დირექტორი ღია AI-ს უპირატესობებზე საუბრობს
@@ -122,27 +98,12 @@ m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 }-ის აღმას�
 m24-home-introducing-thundermail-and = წარმოგიდგენთ Thundermail და Thunderbird Pro-ს
 m24-home-introducing-thundermail-and-v2 = წარმოგიდგენთ { -brand-name-thundermail } და { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = ტექნიკური საკითხებში მომავალი არჩევანია. აირჩიეთ ჩვენთან.
-m24-home-how-ventures-investee = როგორ აძლიერებს დაშიფვრას Ventures Investee Germ
-# Obsolete string (expires 2026-03-01)
-m24-home-tech-crunch = ტექნიკური პრობლემები
-m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = „ხელსაყრელი მომენტია ჩვენთვის“: { -brand-name-firefox } ყურადღება, ხელოვნური ინტელექტისა და ინტერნეტის მომავლის შესახებ ბრაუზერებზე
 m24-home-the-guardian = მცველი
-m24-home-interview-take-open = გასაუბრება: ხელოვნური ინტელექტის ეპოქაში გადაყვანა
-# Obsolete string (expires 2026-03-20)
-m24-home-mit-sloan-review = MIT Sloan მიმოხილვა
-m24-home-mit-sloan-management-review = MIT Sloan მართვის მიმოხილვა
-m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } აფინანსებს Filament-ქსელის პლატფორმას
 m24-home-axios = აქსიოსი
 m24-home-mozillas-new-message = { -brand-name-mozilla }-ის ახალი შეტყობინება: ჩვენ ვართ ერთადერთი ბრაუზერი, რომელსაც მილიონერები არ ქმნიან
 m24-home-fast-company = სწრაფი კომპანია
-m24-home-will-agi-be = იქნება agI სინამდვილე — და მზად ვართ ჩვენ?
-m24-home-conversation-charting-a = საუბარი: მომავლის განსაზღვრა წვდომისა და სააგენტოსთვის
-m24-home-tech-policy-press = Tech Policy Press
-m24-home-open-by-design = გახსნა დიზაინით: როგორ შეუძლიათ ერებს კონკურენციის გაწევა ხელოვნური ინტელექტის ეპოქაში
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } ადგენს ახალ კურსს, მომგებიანობისკენ
-m24-home-silicon-angle = სილიკონის კუთხე
 
 ## Showcase
 
@@ -161,15 +122,6 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } ცდილო
 m24-home-state-of-mozilla-alt = განყენებული პიქსელური მხატვრობა მწვანე, ნარინჯისფერ და ვარდისფერ ფერებში
 m24-home-read-the-report = გაეცანით მოხსენებას
 
-## Data Collective
-
-m24-home-mozilla-data-collective = { -brand-name-mozilla } მონაცემთა კრებული
-m24-home-mozilla-create-curate-control = შექმნა. კურირება. მართვა.
-# Obsolete string (expires 2026-03-20)
-m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Colective აღადგენს AI მონაცემთა ეკოსისტემას ერთობებით, ცენტრში. იხილეთ 300-ზე მეტი მაღალი ხარისხის გლობალური მონაცემთა კრებული, რომლებიც შექმნილია საზოგადოებისთვის გამჭვირვალედ და ეთიკური გზით.
-m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Colective აღადგენს AI მონაცემთა ეკოსისტემას ერთობებით, ცენტრში. იხილეთ 300-ზე მეტი მაღალი ხარისხის გლობალური მონაცემთა კრებული, რომლებიც შექმნილია საზოგადოებისთვის გამჭვირვალედ და ეთიკური გზით.
-m24-home-join-mozilla-data = შემოუერთდით { -brand-name-mozilla } მონაცემთა კრებულს
-
 ## Issues
 
 m24-home-explore-issues-shaping = გამოიკვლიეთ საკითხები, რომლებიც აყალიბებს ინტერნეტის მომავალს
@@ -182,9 +134,3 @@ m24-home-alt-irl-host = ბრიჯიტ ტოდი, IRL-პოდკას�
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = მრავალი ჯილდოს მფლობელი ჩვენი პოდკასტი წარმოგიდგენთ სამყაროს უკეთესობისკენ გარდაქმნის მსურველებს, რომლებიც იღწვიან ინტერნეტის უსაფრთხოებისა და ხელოვნური გონის სანდოობის გაუმჯობესებისთვის.
 m24-home-irl-listen-now = მოუსმინეთ ახლავე
-
-## Outside the Fox
-
-m24-home-outside-the-fox = მელას გარეთ
-m24-home-this-is-where = აქ ჩვენ გამოვიკვლევთ, რა ხდება ინტერნეტში და რატომაა მნიშვნელოვანი, დაწყებული რატომ ხელში ჩაიგდებს დაპყრობა ინტერნეტს და დამთავრებული ვირუსული ინტერნეტკულტურით.
-m24-home-fox-listen-now = მოუსმინეთ ახლავე

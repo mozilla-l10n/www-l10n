@@ -57,43 +57,20 @@ m24-home-read-more = Mear ynfo
 m24-home-get-started = Begjinne
 m24-home-join-the-movement = Doch mei oan de beweging:<br> AI foar de minsken
 m24-home-our-mission-is = Us misje is om it maklik te meitsjen foar minsken om te bouwen mei, en gear te wurkjen oan, iepenboarne, betroubere AI.
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = { -brand-name-solo-ai }-logo
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Meitsje jo website en keppelje fergees jo oanpaste domein.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders helpe ûnôfhinklike ûntwikkelers transformative iepenboarne AI-projekten te meitsjen fia gearwurkingen op maat, programmearring en in mienskip.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } helpt ûnôfhinklike ûntwikkelers transformative iepenboarne AI-projekten te meitsjen fia gearwurkingen op maat, programmearring en in mienskip.
-# Used as an accessible text alternative for an image
-m24-home-alt-mozfest = In grutte groep minsken sammele yn in drokke binneneveneminteromte, sjoen fan boppen ôf.
-m24-home-mozfest-join-us = Doch mei ús mei op { -brand-name-mozilla-festival }
-m24-home-mozfest-the-future = De takomst fan technology is net fêststeld – it is oan ús om foarm te jaan. Doch mei ús mei fan 7 oant 9 novimber yn Barcelona, om standerts ôf te learen, moedich te tinken en te bouwen wat de folgjende stap is.
-m24-home-mozfest-get-your = Krij hjoed noch jo badge
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = { -brand-name-lumigator }-logo.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Fyn it krekte LLM foar jo behoeften, gebrûk en gegevens.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Mark Surman, presidint fan { -brand-name-mozilla }.
-m24-home-can-ai-be = Kin AI betrouber wêze?
-m24-home-in-a-world = Yn in wrâld dêr't AI-ynnovaasje oandreaun wurdt troch in beheind tal bedriuwen, riskearje wy monopolisearring fan dizze technology. It tapassen fan iepenboarnekonsepten op AI kin dat feroarje.
 m24-home-watch-now = No sjen
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Sprekker op it poadium mei meardere produktlogo's.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Hawwe jo in start-up yn de iere faze? Promoatsje jo bedriuw oan { -brand-name-mozilla-ventures } en stel finansiering feilich om positive feroaringen te stimulearjen foar de takomst fan AI en it ynternet.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Donearje jo stim om spraaktechnology ynklusiver en foar elkenien tagonkliker te meitsjen.
-m24-home-donate-your-voice = Donearje jo stim
-m24-home-our-transformation = Us transformaasje
-m24-home-how-do-legacy = Hoe botsje âlde wearden mei ynnovaasje? Yn dit petear jout Mark Surman in foarbyld fan hoe’t wy { -brand-name-mozilla } transformearje foar it tiidrek fan AI.
-# Used as an accessible text alternative for an image
-m24-home-alt-transformation = Change Signal mei Mark Surman en MBS
-# Used as an accessible text alternative for an image
-m24-home-alt-pink-cloud = Wolk mei rôze eftergrûn
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective bout it AI-gegevens-ekosysteem opnij op mei mienskippen yn it sintrum. Krij tagong ta mear as 300 wrâldwide gegevenssets fan hege kwaliteit, boud troch en foar de mienskip op in transparante en etyske manier.
+# Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Elke agent
 m24-home-stop-wiring-tools = Stopje mei it oaninoar gearfoegjen fan ark en it oppassen op brosse automatisearringen. Mei it { -brand-name-mozilla-ai-v2 }-agentpplatfosrm beskriuwe jo jo doel, wy generearje adaptive AI-agents dy’t wurkje mei jo ark en prosessen.
 
@@ -114,7 +91,6 @@ m24-home-topic-ai = Keunstmjittige yntelliginsje
 m24-home-topic-open-source-ai = Opensource-AI
 m24-home-topic-ps = Privacy en befeiliging
 m24-home-headline-you-ai-v2 = Jo, AI en it ynternet – wat bart der echt?
-m24-home-shake-to-summarize = Skodzje om gear te fetsjen yn TIME’s bêste útfiningen fan 2025
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } hjit Raffi Krikorian wolkom as Chief Technology Officer
 m24-home-tech-target = Tech-doelstelling
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 }-CEO praat oer foardielen fan iepenboarne-AI
@@ -122,27 +98,12 @@ m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 }-CEO praat oer foardielen
 m24-home-introducing-thundermail-and = Nij: Thundermail en Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Nij: { -brand-name-thundermail } en { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Wat hjirnei komt yn technology is in kar. Kies mei ús.
-m24-home-how-ventures-investee = Hoe Ventures Investee Germ fersifering fersterket
-# Obsolete string (expires 2026-03-01)
-m24-home-tech-crunch = Tech Crunch
-m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = ‘In goed momint foar ús’: { -brand-name-firefox } oer AI-browsers en wat komt dernei foar it web
 m24-home-the-guardian = The Guardian
-m24-home-interview-take-open = Ynterview: iepen boarne nei it AI-tiidrek bringe
-# Obsolete string (expires 2026-03-20)
-m24-home-mit-sloan-review = MIT Sloan-beoardieling
-m24-home-mit-sloan-management-review = Management-beoardieling troch MIT Sloan
-m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } finansieret it Filament-netwurkplatfoarm
 m24-home-axios = Axios
 m24-home-mozillas-new-message = De nije boadskip fan { -brand-name-mozilla }: wy binne de iennige browser dy’t net stipe wurdt troch miljardêrs
 m24-home-fast-company = Fast Company
-m24-home-will-agi-be = Wurdt AGI werklikheid – en binne wy der klear foar?
-m24-home-conversation-charting-a = Petear: de takomst foar tagong en karfrijheid yn kaart bringe
-m24-home-tech-policy-press = Tech Policy Press
-m24-home-open-by-design = Open by design: hoe’t lannen konkurrearje kinne yn it tiidrek fan AI
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } bringt in nije koers út mei in draai nei winstjouwens
-m24-home-silicon-angle = SiliconANGLE
 
 ## Showcase
 
@@ -161,15 +122,6 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } fynt harsels op
 m24-home-state-of-mozilla-alt = Abstrakte pikselkeunst yn skaden fan grien, oranje en rôze
 m24-home-read-the-report = It rapport lêze
 
-## Data Collective
-
-m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
-m24-home-mozilla-create-curate-control = Meitsje. Beheare. Behearskje.
-# Obsolete string (expires 2026-03-20)
-m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective bout it AI-gegevens-ekosysteem opnij op mei mienskippen yn it sintrum. Krij tagong ta mear as 300 wrâldwide gegevenssets fan hege kwaliteit, boud troch en foar de mienskip op in transparante en etyske manier.
-m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective bout it AI-gegevens-ekosysteem opnij op mei mienskippen yn it sintrum. Krij tagong ta mear as 300 wrâldwide gegevenssets fan hege kwaliteit, boud troch en foar de mienskip op in transparante en etyske manier.
-m24-home-join-mozilla-data = Doch mei mei { -brand-name-mozilla } Data Collective
-
 ## Issues
 
 m24-home-explore-issues-shaping = Problemen mei de takomst fan it ynternet ferkenne
@@ -182,9 +134,3 @@ m24-home-alt-irl-host = Bridget Todd, gastfrou fan IRL-podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Us meardere kearen priiswinnende podcast yntrodusearret de makkers fan feroaring dy't wurkje om it ynternet feiliger en AI betrouberder te meitsjen.
 m24-home-irl-listen-now = No harkje
-
-## Outside the Fox
-
-m24-home-outside-the-fox = Outside the Fox
-m24-home-this-is-where = Hjir ûndersykje wy wat der online bart en wêrom’t it wichtich is, fan wêrom’t ûnferskilligens it ynternet oernimt oant firale ynternetkultuer.
-m24-home-fox-listen-now = No harkje

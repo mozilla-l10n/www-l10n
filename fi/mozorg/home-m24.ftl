@@ -56,21 +56,11 @@ m24-home-read-more = Lue lisää
 m24-home-get-started = Aloitetaan
 m24-home-join-the-movement = Liity liikkeeseen:<br> Tekoäly ihmisiä varten
 m24-home-our-mission-is = Tehtävämme on mahdollistaa ihmisten rakentaa ja tehdä yhteistyötä luotettavan, avoimeen lähdekoodiin pohjautuvan tekoälyn parissa.
-m24-home-create-your-website = Luo verkkosivusto ja yhdistä mukautettu verkkotunnuksesi ilmaiseksi
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = { -brand-name-lumigator }in logo.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Löydä oikea kielimalli tarpeitasi, käyttötapauksiasi ja dataasi varten.
-m24-home-can-ai-be = Voiko tekoäly olla luotettava?
-m24-home-in-a-world = Maailmassa, jossa tekoälyn innovointia ohjaavat harvat valitut, vaarannamme tämän tekniikan monopolisoinnille. Avoimen lähdekoodin käsitteiden soveltaminen tekoälyyn voi muuttaa tilanteen.
 m24-home-watch-now = Katso nyt
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Puhuja lavalla ja useita tuotelogoja.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Onko sinulla alkuvaiheen startup-yritys? Esittele yrityksesi { -brand-name-mozilla-ventures }ille ja turvaa rahoitus positiivisen muutoksen aikaansaamiseksi tekoälyn ja Internetin tulevaisuudelle.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Lahjoita äänesi tehdäksesi puhetekniikasta kaikenkattavaa ja kaikkien saatavilla olevaa.
-m24-home-donate-your-voice = Lahjoita äänesi
 
 ## Media Springboard
 
@@ -91,8 +81,6 @@ m24-home-headline-you-ai-v2 = Sinä, tekoäly ja Internet – mitä oikein on me
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Esittelyssä Thundermail ja Thunderbird Pro
 m24-home-what-comes-next = Teknologian seuraava askel on valinta. Valitse meidän kanssamme.
-# Obsolete string (expires 2026-03-01)
-m24-home-tech-crunch = Tech Crunch
 m24-home-the-guardian = The Guardian
 m24-home-mozilla = { -brand-name-mozilla }
 
@@ -106,10 +94,6 @@ m24-home-alt-rise25-smiling = Itsevarma ja hymyilevä puhuja { -brand-name-rise2
 m24-home-state-of-mozilla-alt = Abstraktia pikselitaidetta vihreän, oranssin ja vaaleanpunaisen sävyissä
 m24-home-read-the-report = Lue raportti
 
-## Data Collective
-
-m24-home-mozilla-create-curate-control = Luo. Kuratoi. Hallitse.
-
 ## Issues
 
 # Used as an accessible text alternative for an image
@@ -117,9 +101,3 @@ m24-home-alt-irl-host = Bridget Todd, IRL Podcastin juontaja.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Useita palkintoja voittanut podcastimme esittelee muutoksentekijät, jotka tekevät Internetistä turvallisemman ja tekoälystä luotettavamman.
 m24-home-irl-listen-now = Kuuntele nyt
-
-## Outside the Fox
-
-m24-home-outside-the-fox = Ketun ulkopuolella
-m24-home-this-is-where = Tässä kohtaa tutkimme, mitä verkossa tapahtuu ja miksi sillä on merkitystä, internetin täyttävän roskan syistä viraaliseen internetkulttuuriin.
-m24-home-fox-listen-now = Kuuntele nyt

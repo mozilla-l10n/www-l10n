@@ -57,43 +57,20 @@ m24-home-read-more = Bővebben
 m24-home-get-started = Kezdő lépések
 m24-home-join-the-movement = Csatlakozzon a mozgalomhoz:<br> MI az emberekért
 m24-home-our-mission-is = Küldetésünk, hogy megkönnyítsük az emberek számára a nyílt forráskódú, megbízható MI-re való építkezést és az ebben való együttműködést.
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = { -brand-name-solo-ai } logó
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Ingyenesen hozza létre a weboldalát, és kapcsolja össze az egyéni domainjével
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = A Builders egyéni együttműködésekkel, programozással és közösséggel segíti a független fejlesztőket a transzformatív nyílt forráskódú MI projektjeiknek létrehozásában.
 m24-home-builders-helps-independent-v2 = A { -brand-name-mozilla-builders } segít a független fejlesztőknek, hogy transzformatív, nyílt forráskódú MI projekteket hozzanak létre, az egyedi együttműködéseken, programozáson és közösségen keresztül.
-# Used as an accessible text alternative for an image
-m24-home-alt-mozfest = Egy forgalmas fedett rendezvénytérben összegyűlt nagy csoport ember, felülről nézve.
-m24-home-mozfest-join-us = Csatlakozzon hozzánk a { -brand-name-mozilla-festival }on
-m24-home-mozfest-the-future = A technológia jövője nem dőlt el – a miénk alakítása. Csatlakozzon hozzánk Barcelonában november 7. és 9. között, hogy megszabaduljon a megszokottól, képzeljen bátran, és építse azt, ami következik.
-m24-home-mozfest-get-your = Szerezze meg a kitűzőt még ma
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = { -brand-name-lumigator } logó.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Találja meg az igényeinek, felhasználási eseteinek és adatainak megfelelő LLM-et.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Mark Surman, a { -brand-name-mozilla } elnöke.
-m24-home-can-ai-be = Lehet-e megbízható az MI?
-m24-home-in-a-world = Egy olyan világban, ahol az MI innovációját kevesek irányítják, ezen technológia monopolizálását kockáztatjuk. A nyílt forráskód fogalmainak MI-re történő alkalmazása változtathat ezen.
 m24-home-watch-now = Figyelés most
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Beszélő egy színpadon több termék logójával.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Van egy korai fázisú induló vállalkozása? Mutassa be a cégét a { -brand-name-mozilla-ventures }nek, és szerezzen finanszírozást, hogy pozitív változást hozzon az MI és az internet jövőjében.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Adományozza a hangját, hogy a beszédtechnológia befogadóbb és mindenki számára elérhető legyen.
-m24-home-donate-your-voice = Adja a hangját
-m24-home-our-transformation = Az átalakulásunk
-m24-home-how-do-legacy = Hogyan ütköznek az örökölt értékek az innovációval? Ebben a beszélgetésben Mark Surman bemutatja, hogyan alakítjuk át a { -brand-name-mozilla(ending: "accented") }t a mesterséges intelligencia korszakában.
-# Used as an accessible text alternative for an image
-m24-home-alt-transformation = Jel módosítása Mark Surman és MBS segítségével
-# Used as an accessible text alternative for an image
-m24-home-alt-pink-cloud = Felhő, rózsaszín háttérrel
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-data-collective-is = A { -brand-name-mozilla } Data Collective újjáépíti a mesterséges intelligenciára épülő adatökoszisztémát, a közösségekkel a középpontban. Érjen el több mint 300 kiváló minőségű globális adatkészletet, amelyeket a közösség állított össze, átlátható és etikus módon.
+# Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Bármelyik ágens
 m24-home-stop-wiring-tools = Felejtse el az összedrótozott eszközöket és a törékeny automatizálásokat. Írja le a célját a { -brand-name-mozilla-ai-v2 } Agent Platformmal, és mi adaptív MI-ágenst állítunk elő, amely együttműködik az eszközeivel és a folyamataival.
 
@@ -114,7 +91,6 @@ m24-home-topic-ai = Mesterséges intelligencia
 m24-home-topic-open-source-ai = Nyílt forráskódú MI
 m24-home-topic-ps = Adatvédelem és biztonság
 m24-home-headline-you-ai-v2 = Ön, az MI és az internet – mi is történik valójában?
-m24-home-shake-to-summarize = A „Rázás az összegzéshez” a TIME legjobb 2025-ös találmányai között
 m24-home-mozilla-welcomes-raffi = A { -brand-name-mozilla } műszaki igazgatóként üdvözli Raffi Krikoriant
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } vezérigazgató a nyílt forráskódú MI előnyeiről beszél
@@ -122,27 +98,12 @@ m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } vezérigazgató a nyílt
 m24-home-introducing-thundermail-and = Bemutatkozik a Thundermail és a Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Bemutatkozik a { -brand-name-thundermail } és a { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Ami ezután következik a technológiában, az egy választás. Válasszon velünk.
-m24-home-how-ventures-investee = Hogyan erősíti a titkosítást a Ventures Investee befektetése
-# Obsolete string (expires 2026-03-01)
-m24-home-tech-crunch = Tech Crunch
-m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = „Számunkra egy jó pillanat”: { -brand-name-firefox } fej a mesterséges intelligencia böngészőkre és mi következik a webes fejlesztésekben
 m24-home-the-guardian = The Guardian
-m24-home-interview-take-open = Interjú: A nyílt forráskód átvétele a mesterséges intelligencia korszakába
-# Obsolete string (expires 2026-03-20)
-m24-home-mit-sloan-review = MIT Sloan áttekintés
-m24-home-mit-sloan-management-review = MIT Sloan vezetői áttekintés
-m24-home-mozilla-ventures-funds = A { -brand-name-mozilla-ventures } finanszírozza a Filament hálózati platformot
 m24-home-axios = Axios
 m24-home-mozillas-new-message = Az { -brand-name-mozilla } új üzenete: Mi vagyunk az egyetlen böngésző, melyet nem milliárdosok támogatnak
 m24-home-fast-company = Fast Company
-m24-home-will-agi-be = Valóság lesz-e az AGI – és készen állunk?
-m24-home-conversation-charting-a = Beszélgetés: A hozzáférés és az önrendelkezés jövőjének felvázolása
-m24-home-tech-policy-press = Tech Policy Press
-m24-home-open-by-design = Open By Design: Hogyan versenyezhetnek a nemzetek az MI korában
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-mozilla-ai-charts = A { -brand-name-mozilla-ai-v2 } új pályát követ, a jövedelmezőség felé fordulva
-m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -161,15 +122,6 @@ m24-home-mozilla-is-reinventing-itself = A { -brand-name-mozilla } újraszervezi
 m24-home-state-of-mozilla-alt = Absztrakt pixelgrafika zöld, narancs és rózsaszín árnyalatokban
 m24-home-read-the-report = Olvassa el a jelentést
 
-## Data Collective
-
-m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
-m24-home-mozilla-create-curate-control = Létrehozás. Válogatás. Irányítás.
-# Obsolete string (expires 2026-03-20)
-m24-home-mozilla-data-collective-is = A { -brand-name-mozilla } Data Collective újjáépíti a mesterséges intelligenciára épülő adatökoszisztémát, a közösségekkel a középpontban. Érjen el több mint 300 kiváló minőségű globális adatkészletet, amelyeket a közösség állított össze, átlátható és etikus módon.
-m24-home-mozilla-data-collective-is-v3 = A { -brand-name-mozilla } Data Collective újjáépíti a mesterséges intelligenciára épülő adatökoszisztémát, a közösségekkel a középpontban. Érjen el több mint 300 kiváló minőségű globális adatkészletet, amelyeket a közösség állított össze, átlátható és etikus módon.
-m24-home-join-mozilla-data = Csatlakozás a { -brand-name-mozilla } Data Collective-hez
-
 ## Issues
 
 m24-home-explore-issues-shaping = Fedezze fel az internet jövőjét alakító kérdéseket
@@ -182,9 +134,3 @@ m24-home-alt-irl-host = Bridget Todd, az IRL Podcast házigazdája.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = A többszörösen díjnyertes podcastunk bemutatja azokat a változáshozókat, akik az internet biztonságosabbá tételéért és a mesterséges intelligencia megbízhatóbbá tételéért dolgoznak.
 m24-home-irl-listen-now = Meghallgatás most
-
-## Outside the Fox
-
-m24-home-outside-the-fox = Outside the Fox
-m24-home-this-is-where = Itt fedezzük fel, hogy mi történik online, és ez miért számít; a mindent meghódító szeméttől a virális internetkultúráig.
-m24-home-fox-listen-now = Meghallgatás most

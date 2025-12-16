@@ -54,40 +54,19 @@ m24-home-read-more = Emoñe’ẽve
 m24-home-get-started = Eñepyrũ
 m24-home-join-the-movement = Ejuaju kóvare: IA opavavépe g̃uarã
 m24-home-our-mission-is = Ore rembipota ha’e rombohapévo maymavete tapichápe IA jeroviaháva ñemoheñói ha ijayvu jurujáva.
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = { -brand-name-solo-ai } ra’ãnga’i
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Emoheñói ñanduti rogue ha eiporu hendatee voi viru’ỹetére
 m24-home-alt-builders = Apoharakuéra
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Apoharakuéra
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders oipytyvõ mboguataharakuéra ijeheguívape omoheñóivo apopyrã IA ayvu ijurujáva omoambuekuaáva ñepytyvõ, mbosako’i ha tekoha oipotáva.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } oipytyvõ mboguatahára ijeheguívape omoheñóivo apopyrã IA ijayvu jurujáva omoambuekuaáva ñepytyvõ, mbosako’i ha tekoha rupive.
-# Used as an accessible text alternative for an image
-m24-home-alt-mozfest = Ava aty guasu oñembyaty peteĩ tenda ãicha g̃uarãme, ojehecháva yvatégui.
-m24-home-mozfest-join-us = Eike orendive { -brand-name-mozilla-festival }-pe
-m24-home-mozfest-get-your = Ereko nde rerarenda ko árape
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = { -brand-name-lumigator } ra’ãnga’i.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Ereko LLM iporãva ne remikotevẽrã, jeporu ha mba’ekuaarã.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Mark Surman, { -brand-name-mozilla } myakãhára.
-m24-home-can-ai-be = ¿Ikatúpa IA rehe ejerovia?
 m24-home-watch-now = Ema’ẽ ko’ág̃a
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Ñe’ẽkuaahára tarímape apopyre ra’ãnga’i ndive.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = ¿Ereko peteĩ jeku’erã ñepyrũ? Ehechauka ne mba’apohaguasu { -brand-name-mozilla-ventures }-pe ha ehupyty viru emongu’e hag̃ua ñemoambue porã IA ha ñanduti renonderã.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Eme’ẽ ne ñe’ẽ tembiporupyahu ñe’ẽguáva oñakãrapu’ã hag̃ua opavave oiporukuaa hag̃uáicha.
-m24-home-donate-your-voice = Eme’ẽmína nde ayvu
-m24-home-our-transformation = Ore rekoambue
-# Used as an accessible text alternative for an image
-m24-home-alt-transformation = Tekoambue Mark Surman ha MBS ndive
-# Used as an accessible text alternative for an image
-m24-home-alt-pink-cloud = Arai hugua pytãngýva
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Mba’ekuaarã aty
+# Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Oimeraẽva agénte
 
 ## Media Springboard
@@ -107,31 +86,17 @@ m24-home-topic-ai = Inteligencia artificial
 m24-home-topic-open-source-ai = IA ijayvu jurujáva
 m24-home-topic-ps = Ñemigua ha Tekorosã
 m24-home-headline-you-ai-v2 = Nde, IA ha ñanduti: ¿mba’ete pe ojehuvahína?
-m24-home-shake-to-summarize = Shake oĩ apopyre iporãvévarõ 2025 arýpe TIME he’iháicha.
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } ombohupa Raffi Krikorian-pe tembiporupyahu myakãhárarõ.
 m24-home-tech-target = Tembiporupyahu rehegua
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } CEO omombe’u iporãha IA ijayvu jurujáva
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Rohechauka Thundermail ha Thunderbird Pro
 m24-home-what-comes-next = Oútava tembiporupyahu ndive eiporavokuaa. Eiporavo orendive.
-m24-home-how-ventures-investee = Germ, mba’apohaguasu Ventures-pe oykekóva, omobarete pe mbopapapy
-# Obsolete string (expires 2026-03-01)
-m24-home-tech-crunch = Tech Crunch
 m24-home-a-good-moment = «Mba’eporã oréve g̃uarã ko’ág̃a»: { -brand-name-firefox } oma’ẽ kundahárare IA ndive ha ñandutirogue renonderã.
 m24-home-the-guardian = The Guardian
-m24-home-interview-take-open = Ñomongeta: Eguerahávo ayvu ijurujáva IA ndive
-# Obsolete string (expires 2026-03-20)
-m24-home-mit-sloan-review = Sloan jehaipyre MIT rehegua
-m24-home-mit-sloan-management-review = MIT Sloan jehaipy mboajepyre
-m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } ohepyme’ẽ pyendavusu ñandutigua Filament
 m24-home-axios = Axios
 m24-home-fast-company = Compañía ipya’éva
-m24-home-will-agi-be = ¿AGI hi’añetéta tenondeve? — ¿Roimembáma?
-m24-home-conversation-charting-a = Ñomongeta: Emboguata agencia ha jeikerã renonderã
-m24-home-tech-policy-press = Tech Policy Press
-m24-home-open-by-design = Juruja moha’ãngarã: mba’éicha oñua’ãta tetãnguéra IA oike rire
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-silicon-angle = Silicona ángulo
 
 ## Showcase
 
@@ -148,12 +113,6 @@ m24-home-state-of-mozilla = { -brand-name-mozilla } rekotee
 m24-home-state-of-mozilla-alt = Pixel art abstracto sa’ykuéra hovyũ, narã ha pytãngýpe
 m24-home-read-the-report = Emoñe’ẽ marandu’i
 
-## Data Collective
-
-m24-home-mozilla-data-collective = { -brand-name-mozilla } Mba’ekuaarã aty
-m24-home-mozilla-create-curate-control = Moheñói. Poravo. Hechameme.
-m24-home-join-mozilla-data = Ejuaju { -brand-name-mozilla } Mba’ekuaarã Atýre
-
 ## Issues
 
 m24-home-explore-issues-shaping = Ehapykueho mba’e ombohekóva Ñanduti renonderã
@@ -162,7 +121,3 @@ m24-home-the-validation-machines = Umi máquina oñemoneĩha
 m24-home-alt-irl-host = Bridget Todd, ohechaukáva IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-irl-listen-now = Ehendu ko’ág̃a
-
-## Outside the Fox
-
-m24-home-fox-listen-now = Ehendu Ko’ág̃a

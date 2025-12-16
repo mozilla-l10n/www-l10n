@@ -48,23 +48,12 @@ m24-home-tag-event = ਈਵੈਂਟ
 m24-home-read-more = ਹੋਰ ਪੜ੍ਹੋ
 m24-home-get-started = ਸ਼ੁਰੂ ਕਰੀਏ
 m24-home-join-the-movement = ਮੁਹਿੰਮ ਵਿੱਚ ਹਿੱਸਾ ਲਵੋ:<br> ਲੋਕਾਂ ਲਈ AI
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = { -brand-name-solo-ai } ਲੋਗੋ
-m24-home-solo-ai = { -brand-name-solo-ai }
 m24-home-alt-builders = ਬਿਲਡਰ
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } ਬਿਲਡਰ
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = { -brand-name-lumigator } ਲੋਗੋ
-m24-home-lumigator = { -brand-name-lumigator }
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = ਮਾਰਕ ਸੁਰਮਨ, { -brand-name-mozilla } ਦਾ ਮੁਖੀ
-m24-home-can-ai-be = ਕੀ AI ਭਰੋਸੇਯੋਗ ਹੈ?
 m24-home-watch-now = ਹੁਣੇ ਵੇਖੋ
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice = ਆਪਣੀ ਆਵਾਜ਼ ਦਾਨ ਕਰੋ
 
 ## Media Springboard
 

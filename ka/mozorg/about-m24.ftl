@@ -36,13 +36,6 @@ m24-about-we-fund-and = ჩვენ ვაფინანსებთ და �
 
 m24-about-read-more = ვრცლად
 m24-about-read-the-latest = გაეცანით უახლეს ამბებსა და სტატიებს, რომელთაც { -brand-name-mozilla } მოგაწვდით
-m24-about-builders-program = { -brand-name-mozilla-builders } ეხმარება შემმუშავებლებს, შექმნან ახლებური სახის ღია წყაროს მქონე AI-პროექტები ცალკეული თანამშრომლობის, დაპროგრამებისა და საზოგადოებების მეშვეობით.
-m24-about-at-our-rise25 = ჩვენს { -brand-name-rise25 }-დაჯილდოებაზე, ხელოვნური გონის მომავალია სანდო, საყოველთაო და ანგარიშვალდებული საშუალებები.
-# Used as an accessible text alternative for an image
-m24-about-rise25-award = { -brand-name-rise25 }-ზე დაჯილდოებული მიუთითებს თავისი ჯილდოსკენ.
-m24-about-empowering-chicagos-entrepreneurs = ჩიკაგოელი მეწარმეების მხარდაჭერა ცვლილებებისთვის მომავალი თაობების სასარგებლოდ
-# Used as an accessible text alternative for an image
-m24-about-chicago = ჩიკაგოელი მეწარმე.
 
 ## Showcase
 

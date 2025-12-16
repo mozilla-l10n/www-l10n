@@ -36,13 +36,6 @@ m24-about-we-fund-and = Mi finansiramo i ulažemo u ljude i napore koji tehnolog
 
 m24-about-read-more = Pročitajte više
 m24-about-read-the-latest = Pročitajte najnovije { -brand-name-mozilla } vijesti i članke
-m24-about-builders-program = { -brand-name-mozilla-builders } pomaže programerima da kreiraju transformativne AI projekte otvorenog koda kroz saradnju, programiranje i zajednicu
-m24-about-at-our-rise25 = Na našim { -brand-name-rise25 } nagradama, budućnost AI je pouzdana, inkluzivna i odgovorna
-# Used as an accessible text alternative for an image
-m24-about-rise25-award = Primalac nagrade { -brand-name-rise25 } pokazuje na svoj trofej.
-m24-about-empowering-chicagos-entrepreneurs = Osnaživanje čikaških poduzetnika za promjenu generacija
-# Used as an accessible text alternative for an image
-m24-about-chicago = Preduzetnik iz Čikaga.
 
 ## Showcase
 

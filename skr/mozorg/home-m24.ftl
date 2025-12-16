@@ -28,9 +28,7 @@ m24-home-tag-project = منصوبہ
 m24-home-tag-event = ایونٹ
 m24-home-read-more = ٻیا پڑھو
 m24-home-get-started = شروع کرو
-m24-home-lumigator = { -brand-name-lumigator }
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
-m24-home-common-voice = { -brand-name-common-voice }
 
 ## Media Springboard
 

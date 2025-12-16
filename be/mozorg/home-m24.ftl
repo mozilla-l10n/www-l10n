@@ -51,18 +51,9 @@ m24-home-tag-event = Падзея
 m24-home-read-more = Падрабязней
 m24-home-get-started = Пачаць
 m24-home-join-the-movement = Далучайцеся да руху:<br> Штучны інтэлект для людзей
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = Лагатып { -brand-name-solo-ai }
-m24-home-solo-ai = { -brand-name-solo-ai }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = Лагатып { -brand-name-lumigator }.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-can-ai-be = Ці можа штучны інтэлект быць вартым даверу?
 m24-home-watch-now = Глядзець зараз
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice = Ахвяруйце свой голас
 
 ## Media Springboard
 

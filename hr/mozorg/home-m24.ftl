@@ -55,32 +55,17 @@ m24-home-read-more = Saznaj više
 m24-home-get-started = Započni
 m24-home-join-the-movement = Pridruži se pokretu:<br> UI za ljude
 m24-home-our-mission-is = Naša je misija ljudima olakšati izgradnju i suradnju sa pouzdanom umjetnom inteligencijim otvorenog koda.
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = { -brand-name-solo-ai } logotip
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Stvori svoju web stranicu i poveži vlastitu prilagođenu domenu besplatno
 m24-home-alt-builders = Graditelji
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } graditelji
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Platforma „Graditelji” pomaže nezavisnim programerima pri stvaranju transformativnih UI projekata otvorenog koda pomoću prilagođenih suradnji, programiranja i zajednice.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } pomaže nezavisnim programerima pri stvaranju transformativnih UI projekata otvorenog koda pomoću prilagođenih suradnji, programiranja i zajednice.
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = { -brand-name-lumigator } logotip.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Pronađi odgovarajući LLM za tvoje potrebe, slučaj upotrebe i podatke.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Mark Surman, predsjednik zaklade { -brand-name-mozilla }.
-m24-home-can-ai-be = Može li UI biti pouzdana?
-m24-home-in-a-world = U svijetu u kojem UI inovacije pokreće nekolicina odabranih, riskiramo monopolizaciju ove tehnologije. Primjenom koncepta otvorenog koda na umjetnu inteligenciju bi to moglo promijeniti.
 m24-home-watch-now = Pogledaj video
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Govornik na pozornici s raznim logotipima proizvoda u pozadini.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Imaš startup tvrtku u ranoj fazi? Predstavi svoju tvrtku fondaciji { -brand-name-mozilla-ventures } i osiguraj financiranje za poticanje pozitivnih promjena za budućnost umjetne inteligencije i interneta.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Doniraj svoj glas kako bi tehnologija govora bila inkluzivnija i pristupačnija svima.
-m24-home-donate-your-voice = Doniraj svoj glas
 
 ## Media Springboard
 

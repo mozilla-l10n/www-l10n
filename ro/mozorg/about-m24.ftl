@@ -36,13 +36,6 @@ m24-about-we-fund-and = Finanțăm și investim în oamenii și eforturile care 
 
 m24-about-read-more = Citește mai multe
 m24-about-read-the-latest = Citește cele mai recente știri și articole despre { -brand-name-mozilla }
-m24-about-builders-program = { -brand-name-mozilla-builders } ajută dezvoltatorii să creeze proiecte IA transformatoare cu sursă deschisă prin colaborări, programare și comunitate
-m24-about-at-our-rise25 = La premiile noastre { -brand-name-rise25 }, viitorul IA este demn de încredere, incluziv și responsabil.
-# Used as an accessible text alternative for an image
-m24-about-rise25-award = Premianta { -brand-name-rise25 } arată spre trofeul ei.
-m24-about-empowering-chicagos-entrepreneurs = Împuternicirea antreprenorilor din Chicago pentru schimbarea generațională
-# Used as an accessible text alternative for an image
-m24-about-chicago = Un antreprenor din Chicago.
 
 ## Showcase
 

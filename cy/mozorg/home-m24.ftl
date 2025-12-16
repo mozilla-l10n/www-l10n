@@ -57,43 +57,20 @@ m24-home-read-more = Darllen rhagor
 m24-home-get-started = Cychwyn arni
 m24-home-join-the-movement = Ymunwch â'r symudiad:<br> AI ar gyfer y bobl
 m24-home-our-mission-is = Ein cenhadaeth yw ei gwneud hi'n hawdd i bobl adeiladu a chydweithio ar AI cod agored a dibynadwy.
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = Logo { -brand-name-solo-ai }
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Crëwch eich gwefan a chysylltu'ch parth cyfaddas am ddim
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Mae Builders yn helpu datblygwyr annibynnol i greu projectau AI cod agored trawsnewidiol trwy gydweithrediadau, rhaglennu a chymuned pwrpasol.
 m24-home-builders-helps-independent-v2 = Mae { -brand-name-mozilla-builders } yn helpu datblygwyr annibynnol i greu projectau AI cod agored trawsnewidiol trwy gydweithrediadau pwrpasol, rhaglennu, a chymuned.
-# Used as an accessible text alternative for an image
-m24-home-alt-mozfest = Grŵp mawr o bobl wedi casglu mewn gofod digwyddiadau dan do prysur, i'w weld oddi uchod.
-m24-home-mozfest-join-us = Ymunwch â ni yn { -brand-name-mozilla-festival }
-m24-home-mozfest-the-future = Nid yw dyfodol technoleg yn gadarn - ni sydd i'w siapio. Ymunwch â ni yn Barcelona, Tachwedd 7-9 i ddad-ddysgu'r rhagosodedig, dychmygu'n hyderus ac adeiladu'r hyn sydd i ddod.
-m24-home-mozfest-get-your = Cael eich bathodyn heddiw
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = Logo { -brand-name-lumigator }.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Dewch o hyd i'r LLM cywir ar gyfer eich anghenion, achos defnydd a data.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Mark Surman, Llywydd { -brand-name-mozilla }.
-m24-home-can-ai-be = A all AI fod yn ddibynadwy?
-m24-home-in-a-world = Mewn byd lle mae arloesedd AI yn cael ei yrru gan ychydig ddethol, rydym mewn perygl o fonopoleiddio'r dechnoleg hon. Gallai cymhwyso cysyniadau cod agored i AI newid hynny.
 m24-home-watch-now = Gwyliwch nawr
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Siaradwr ar y llwyfan gyda logos cynnyrch lluosog.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Oes gennych chi gwmni cychwynnol cyfnod cynnar? Cynigiwch eich cwmni i { -brand-name-mozilla-ventures } a chael cyllid i greu newid cadarnhaol ar gyfer dyfodol AI a'r rhyngrwyd.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Cyfrannwch eich llais i wneud technoleg lleferydd yn fwy cynhwysol a hygyrch i bawb.
-m24-home-donate-your-voice = Cyfrannwch eich llais
-m24-home-our-transformation = Ein Trawsnewidiad
-m24-home-how-do-legacy = Sut mae'n hen gwerthoedd yn gwrthdaro gydag arloesi? Yn y sgwrs hon, mae Mark Surman yn rhagweld sut rydyn ni'n trawsnewid { -brand-name-mozilla } ar gyfer oes AI.
-# Used as an accessible text alternative for an image
-m24-home-alt-transformation = Newid Signal gyda Mark Surman a MBS
-# Used as an accessible text alternative for an image
-m24-home-alt-pink-cloud = Cwmwl gyda chefndir pinc
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-data-collective-is = Mae Data Collective { -brand-name-mozilla } yn ailadeiladu'r ecosystem ddata AI gyda chymunedau yn ganolog iddo. Cewch fynediad at dros 300 o setiau data byd-eang o ansawdd uchel, wedi'u hadeiladu gan y gymuned ac ar ei chyfer mewn ffordd dryloyw a moesegol.
+# Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Unrhyw Asiant
 m24-home-stop-wiring-tools = Peidio rhaffu offer at ei gilydd a gwarchod awtomatiaethau brau. Gyda'r Llwyfan Asiant { -brand-name-mozilla-ai-v2 }, rydych chi'n disgrifio'ch nod, rydyn ni'n cynhyrchu asiantau AI addasol sy'n gweithio gyda'ch offer a'ch prosesau.
 
@@ -114,7 +91,6 @@ m24-home-topic-ai = Deallusrwydd Artiffisial
 m24-home-topic-open-source-ai = AI Cod Agored
 m24-home-topic-ps = Preifatrwydd a Diogelwch
 m24-home-headline-you-ai-v2 = Chi, AI a'r rhyngrwyd — beth sy'n digwydd mewn gwirionedd?
-m24-home-shake-to-summarize = Shake to Summarize in TIME’s Best Inventions of 2025
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } welcomes Raffi Krikorian as Chief Technology Officer
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = Prif Swyddog Gweithredol { -brand-name-mozilla-ai-v2 } yn sôn am fanteision AI cod agored
@@ -122,27 +98,12 @@ m24-home-mozilla-ai-ceo = Prif Swyddog Gweithredol { -brand-name-mozilla-ai-v2 }
 m24-home-introducing-thundermail-and = Dyma Thundermail a Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Yn cyflwyno { -brand-name-thundermail } a { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = What comes next in tech is a choice. Choose with us.
-m24-home-how-ventures-investee = How Ventures Investee Germ is Strengthening Encryption
-# Obsolete string (expires 2026-03-01)
-m24-home-tech-crunch = Tech Crunch
-m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = ‘A good moment in time for us’: { -brand-name-firefox } head on AI browsers and what’s next for the web
 m24-home-the-guardian = The Guardian
-m24-home-interview-take-open = Cyfweliad: Taking Open Source Into the AI Era
-# Obsolete string (expires 2026-03-20)
-m24-home-mit-sloan-review = Adolygiad MIT Sloan
-m24-home-mit-sloan-management-review = Adolygiad Rheoli MIT Sloan
-m24-home-mozilla-ventures-funds = Mae { -brand-name-mozilla-ventures } yn ariannu platfform rhwydweithio Filament
 m24-home-axios = Axios
 m24-home-mozillas-new-message = Neges newydd { -brand-name-mozilla }: Ni yw'r unig borwr nad yw'n cael ei gefnogi gan biliwnyddion
 m24-home-fast-company = Fast Company
-m24-home-will-agi-be = Will AGI Be a Reality — and Are We Ready?
-m24-home-conversation-charting-a = Sgwrs: Charting a future to access and agency
-m24-home-tech-policy-press = Tech Policy Press
-m24-home-open-by-design = Open By Design: How Nations Can Compete in the Age of AI
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-mozilla-ai-charts = Mae { -brand-name-mozilla-ai-v2 } yn dilyn cwrs newydd gyda thro tuag at bod yn broffidiol
-m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -161,15 +122,6 @@ m24-home-mozilla-is-reinventing-itself = Mae { -brand-name-mozilla } yn ailddyfe
 m24-home-state-of-mozilla-alt = Celf picsel haniaethol mewn arlliwiau gwyrdd, oren a phinc
 m24-home-read-the-report = Darllenwch yr adroddiad
 
-## Data Collective
-
-m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
-m24-home-mozilla-create-curate-control = Creu. Curadu. Rheoli.
-# Obsolete string (expires 2026-03-20)
-m24-home-mozilla-data-collective-is = Mae Data Collective { -brand-name-mozilla } yn ailadeiladu'r ecosystem ddata AI gyda chymunedau yn ganolog iddo. Cewch fynediad at dros 300 o setiau data byd-eang o ansawdd uchel, wedi'u hadeiladu gan y gymuned ac ar ei chyfer mewn ffordd dryloyw a moesegol.
-m24-home-mozilla-data-collective-is-v3 = Mae Data Collective { -brand-name-mozilla } yn ailadeiladu'r ecosystem ddata AI gyda chymunedau yn ganolog iddo. Cewch fynediad at dros 300 o setiau data byd-eang o ansawdd uchel, wedi'u hadeiladu gan y gymuned ac ar ei chyfer mewn ffordd dryloyw a moesegol.
-m24-home-join-mozilla-data = Ymunwch â'r { -brand-name-mozilla } Data Collective
-
 ## Issues
 
 m24-home-explore-issues-shaping = Archwilio materion sy'n siapio dyfodol y rhyngrwyd
@@ -182,9 +134,3 @@ m24-home-alt-irl-host = Bridget Todd, gwesteiwr Podlediad IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Mae ein podlediad wedi ennill sawl gwobr drwy gyflwyno’r rhai sy’n creu newid ac yn gweithio i wneud y rhyngrwyd yn fwy diogel a deallusrwydd artiffisial yn fwy dibynadwy.
 m24-home-irl-listen-now = Gwrando nawr
-
-## Outside the Fox
-
-m24-home-outside-the-fox = Outside the Fox
-m24-home-this-is-where = Dyma lle rydyn ni'n archwilio beth sy'n digwydd ar-lein a pham ei fod yn bwysig, o pam fod slop yn cymryd drosodd y rhyngrwyd i ddiwylliant rhyngrwyd firaol.
-m24-home-fox-listen-now = Gwrandwch Nawr

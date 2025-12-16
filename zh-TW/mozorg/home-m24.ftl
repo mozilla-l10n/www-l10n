@@ -57,43 +57,20 @@ m24-home-read-more = 了解更多
 m24-home-get-started = 開始使用
 m24-home-join-the-movement = 加入運動：AI for the people
 m24-home-our-mission-is = 我們的使命是讓人們更簡單就能打造、協作開放原始碼、可信任的 AI。
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = { -brand-name-solo-ai } 圖示
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = 免費打造您的網站，並使用您自訂的網域
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } 建設者
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders 透過量身定做的協作、程式與社群合作，幫助獨立開發者打造革命性的開放原始碼 AI 專案。
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } 透過量身定做的協作、程式與社群合作，幫助獨立開發者打造革命性的開放原始碼 AI 專案。
-# Used as an accessible text alternative for an image
-m24-home-alt-mozfest = 一大群人聚集在一個忙碌的室內活動場地，從上方俯視。
-m24-home-mozfest-join-us = 加入 { -brand-name-mozilla-festival }
-m24-home-mozfest-the-future = 科技的未來尚未確定，該由我們自行塑造。請與我們一起於 11 月 7–9 日在巴塞羅納忘掉所有預設值、大膽想像並且打造未來。
-m24-home-mozfest-get-your = 搶先登記報名
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = { -brand-name-lumigator } 圖示。
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = 尋找符合您需求、使用情境與資料的 LLM。
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = { -brand-name-mozilla } 總裁 Mark Surman。
-m24-home-can-ai-be = AI 真的可信任嗎？
-m24-home-in-a-world = 在這個由少數人驅動 AI 創新的世界，我們正冒著技術壟斷的風險。將開放原始碼的概念應用到 AI 當中，可能可以改變這種狀況。
 m24-home-watch-now = 立刻觀看
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = 講者在舞台上，背景畫面有多個產品圖示。
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = 有處於早期創業階段的公司嗎？向 { -brand-name-mozilla-ventures } Pitch，並且爭取能對推動 AI 與網際網路的未來發生正面變化的投資。
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = 捐出您的聲音，讓語音技術更具包容性、讓每個人都可使用。
-m24-home-donate-your-voice = 捐出您的聲音
-m24-home-our-transformation = 我們的轉型
-m24-home-how-do-legacy = 傳統價值如何與創新衝突？在這段對話中，Mark Surman 預覽了我們將如何讓 { -brand-name-mozilla } 轉型以適應 AI 時代。
-# Used as an accessible text alternative for an image
-m24-home-alt-transformation = Mark Surman 與 MBS 一同改變信號
-# Used as an accessible text alternative for an image
-m24-home-alt-pink-cloud = 粉紅色背景的雲
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective 正在重建以社群為中心的 AI 資料生態系統。使用超過 300 組由社群、為了社群打造，透明且有道德的高品質全球資料集。
+# Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Any Agent
 m24-home-stop-wiring-tools = 不用再把工具綁在一起，也不用再煩惱不穩定的自動化設定了。透過 { -brand-name-mozilla-ai-v2 } 代理平台，只要描述好您的目標，我們就會自動產生能操作您工具與配合流程的適應性 AI 代理。
 
@@ -114,7 +91,6 @@ m24-home-topic-ai = 人工智慧
 m24-home-topic-open-source-ai = 開放原始碼 AI
 m24-home-topic-ps = 隱私權與安全性
 m24-home-headline-you-ai-v2 = 你、AI 與網際網路 — 到底發生什麼事？
-m24-home-shake-to-summarize = 搖晃裝置，即可看到時代雜誌的 2025 年年度最佳發明摘要
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } 歡迎 Raffi Krikorian 出任技術長
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } 執行長分享開放原始碼 AI 的優勢
@@ -122,27 +98,12 @@ m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } 執行長分享開放原
 m24-home-introducing-thundermail-and = 隆重推出 Thundermail 與 Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = { -brand-name-thundermail } 與 { -brand-name-thunderbird-pro } 隆重推出
 m24-home-what-comes-next = 科技界的未來需要選擇。與我們一起選擇。
-m24-home-how-ventures-investee = 被風險投資的企業 Germ 是如何加強加密的
-# Obsolete string (expires 2026-03-01)
-m24-home-tech-crunch = TechCrunch
-m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = 「我們的好時光」：{ -brand-name-firefox } 主管探討 AI 瀏覽器與 Web 的未來發展
 m24-home-the-guardian = 衛報
-m24-home-interview-take-open = 採訪：帶領開放原始碼進入 AI 時代
-# Obsolete string (expires 2026-03-20)
-m24-home-mit-sloan-review = MIT Sloan Review
-m24-home-mit-sloan-management-review = MIT Sloan Management Review
-m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } 資助 Filament 社交平台
 m24-home-axios = Axios
 m24-home-mozillas-new-message = { -brand-name-mozilla } 的新訊息：我們是唯一不由億萬富豪在背後支持的瀏覽器
 m24-home-fast-company = Fast Company
-m24-home-will-agi-be = AGI 會成為現實嗎？而我們又準備好了嗎？
-m24-home-conversation-charting-a = 對話：設計存取權與代理權的未來
-m24-home-tech-policy-press = Tech Policy Press
-m24-home-open-by-design = Open By Design：AI 時代各國如何競爭
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } 規劃出邁向盈利的新方向
-m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -161,15 +122,6 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } 正在改造自
 m24-home-state-of-mozilla-alt = 綠、橘、粉三種色調的抽象像素風格設計
 m24-home-read-the-report = 閱讀年報
 
-## Data Collective
-
-m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
-m24-home-mozilla-create-curate-control = 建立、策展、管控。
-# Obsolete string (expires 2026-03-20)
-m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective 正在重建以社群為中心的 AI 資料生態系統。使用超過 300 組由社群、為了社群打造，透明且有道德的高品質全球資料集。
-m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Data Collective 正在重建以社群為中心的 AI 資料生態系統。使用超過 300 組由社群、為了社群打造，透明且有道德的高品質全球資料集。
-m24-home-join-mozilla-data = 加入 { -brand-name-mozilla } Data Collective
-
 ## Issues
 
 m24-home-explore-issues-shaping = 探索影響網際網路未來的議題
@@ -182,9 +134,3 @@ m24-home-alt-irl-host = IRL Podcast 主持人 Bridget Todd。
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = 我們多次獲獎的 Podcast 介紹了致力讓網際網路更安全、讓 AI 更值得信賴的變革者。
 m24-home-irl-listen-now = 立刻收聽
-
-## Outside the Fox
-
-m24-home-outside-the-fox = 狐狸之外
-m24-home-this-is-where = 這是我們探索從從為什麼 slop 會接管網路，到病毒式傳播的網路文化，各種網路上正在發生的事情，以及它們的重要性的所在。
-m24-home-fox-listen-now = 立刻收聽

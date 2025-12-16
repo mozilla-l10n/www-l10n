@@ -57,43 +57,20 @@ m24-home-read-more = Läs mer
 m24-home-get-started = Kom igång
 m24-home-join-the-movement = Gå med i rörelsen:<br> AI för folket
 m24-home-our-mission-is = Vårt uppdrag är att göra det enkelt för människor att bygga med och samarbeta kring, pålitlig AI med öppen källkod.
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = { -brand-name-solo-ai } logotyp
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Skapa din webbplats och anslut din anpassade domän gratis
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders hjälper oberoende utvecklare att skapa transformerande AI-projekt med öppen källkod genom skräddarsydda samarbeten, programmering och gemenskap.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } hjälper oberoende utvecklare att skapa transformerande AI-projekt med öppen källkod genom skräddarsydda samarbeten, programmering och gemenskap.
-# Used as an accessible text alternative for an image
-m24-home-alt-mozfest = En stor grupp människor samlades i en livlig inomhusevenemangslokal, sett ovanifrån.
-m24-home-mozfest-join-us = Följ med oss ​​på { -brand-name-mozilla-festival }
-m24-home-mozfest-the-future = Framtidens teknik är inte bestämd — den är vår att forma. Följ med oss ​​i Barcelona 7–9 november för att lära om, tänka nytt och bygga vad som kommer härnäst.
-m24-home-mozfest-get-your = Få ditt emblem idag
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = { -brand-name-lumigator } logotyp.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Hitta rätt LLM för dina behov, användningsområde och data.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Mark Surman, VD för { -brand-name-mozilla }.
-m24-home-can-ai-be = Kan AI vara pålitlig?
-m24-home-in-a-world = I en värld där AI-innovation drivs av ett fåtal utvalda, riskerar vi monopolisering av denna teknik. Att tillämpa konceptet med öppen källkod på AI kan ändra på det.
 m24-home-watch-now = Titta nu
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Talare på scen med flera produktlogotyper.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Har du ett startup i tidigt skede? Presentera ditt företag för { -brand-name-mozilla-ventures } och säkra finansiering för att driva positiva förändringar för framtiden för AI och internet.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Donera din röst för att göra taltekniken mer öppen och tillgänglig för alla.
-m24-home-donate-your-voice = Donera din röst
-m24-home-our-transformation = Vår förvandling
-m24-home-how-do-legacy = Hur kolliderar gamla värden med innovation? I det här samtalet ger Mark Surman en förhandsvisning av hur vi transformerar { -brand-name-mozilla } inför AI:s era.
-# Used as an accessible text alternative for an image
-m24-home-alt-transformation = Byt signal med Mark Surman och MBS
-# Used as an accessible text alternative for an image
-m24-home-alt-pink-cloud = Moln med rosa bakgrund
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Datakollektiv
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Datakollektiv återuppbygger AI-dataekosystemet med gemenskaper i centrum. Få tillgång till över 300 högkvalitativa globala datamängder, byggda av och för gemenskaper på ett transparent och etiskt sätt.
+# Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Alla agenter
 m24-home-stop-wiring-tools = Sluta koppla ihop verktyg och passa spröda automatiseringar. Med agentplattformen { -brand-name-mozilla-ai-v2 } beskriver du ditt mål, vi genererar adaptiva AI-agenter som fungerar med dina verktyg och processer.
 
@@ -114,7 +91,6 @@ m24-home-topic-ai = Artificiell intelligens
 m24-home-topic-open-source-ai = AI med öppen källkod
 m24-home-topic-ps = Sekretess & säkerhet
 m24-home-headline-you-ai-v2 = Du, AI och internet — vad är det som händer egentligen?
-m24-home-shake-to-summarize = Skaka för att sammanfatta TIME:s bästa innovationer 2025
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } välkomnar Raffi Krikorian som Chief Technology Officer
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } VD pratar om fördelarna med öppen källkod för AI
@@ -122,27 +98,12 @@ m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } VD pratar om fördelarna
 m24-home-introducing-thundermail-and = Introducerar Thundermail och Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Introducerar { -brand-name-thundermail } och { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Det som kommer härnäst inom tekniken är ett val. Välj med oss.
-m24-home-how-ventures-investee = Hur Ventures Investee Germ stärker kryptering
-# Obsolete string (expires 2026-03-01)
-m24-home-tech-crunch = Tech Crunch
-m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = "Ett bra tillfälle för oss": { -brand-name-firefox } fokuserar på AI-webbläsare och vad som kommer härnäst för webben
 m24-home-the-guardian = The Guardian
-m24-home-interview-take-open = Intervju: Att ta öppen källkod in i AI-eran
-# Obsolete string (expires 2026-03-20)
-m24-home-mit-sloan-review = MIT Sloan Review
-m24-home-mit-sloan-management-review = MIT Sloan Management Review
-m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } finansierar Filament-nätverksplattformen
 m24-home-axios = Axios
 m24-home-mozillas-new-message = { -brand-name-mozilla }:s nya meddelande: Vi är den enda webbläsaren som inte stöds av miljardärer
 m24-home-fast-company = Fast Company
-m24-home-will-agi-be = Kommer AGI att bli verklighet — och är vi redo?
-m24-home-conversation-charting-a = Samtal: Att kartlägga en framtid för tillgång och handlingsfrihet
-m24-home-tech-policy-press = Tech Policy Press
-m24-home-open-by-design = Open By Design: Hur nationer kan konkurrera i AI-åldern
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-mozilla-ai-charts = { -brand-name-mozilla-ai-v2 } stakar ut en ny kurs med en vändning mot lönsamhet
-m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -161,15 +122,6 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } uppfinner sig s
 m24-home-state-of-mozilla-alt = Abstrakt pixelkonst i nyanser av grönt, orange och rosa
 m24-home-read-the-report = Läs rapporten
 
-## Data Collective
-
-m24-home-mozilla-data-collective = { -brand-name-mozilla } Datakollektiv
-m24-home-mozilla-create-curate-control = Skapa. Kuratera. Kontrollera.
-# Obsolete string (expires 2026-03-20)
-m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Datakollektiv återuppbygger AI-dataekosystemet med gemenskaper i centrum. Få tillgång till över 300 högkvalitativa globala datamängder, byggda av och för gemenskaper på ett transparent och etiskt sätt.
-m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } Datakollektiv återuppbygger AI-dataekosystemet med gemenskaper i centrum. Få tillgång till över 300 högkvalitativa globala datamängder, byggda av och för gemenskaper på ett transparent och etiskt sätt.
-m24-home-join-mozilla-data = Gå med i { -brand-name-mozilla } Datakollektiv
-
 ## Issues
 
 m24-home-explore-issues-shaping = Utforska frågor som formar internets framtid
@@ -182,9 +134,3 @@ m24-home-alt-irl-host = Bridget Todd, programledare för IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Vår flerfaldigt prisbelönta podcast introducerar beslutsfattare som arbetar för att göra internet säkrare och AI mer pålitligt.
 m24-home-irl-listen-now = Lyssna nu
-
-## Outside the Fox
-
-m24-home-outside-the-fox = Outside the Fox
-m24-home-this-is-where = Det är här vi utforskar vad som händer online och varför det är viktigt, från varför skräp tar över internet till viral internetkultur.
-m24-home-fox-listen-now = Lyssna nu

@@ -23,8 +23,6 @@ m24-about-fund = ਫੰਡ
 
 m24-about-read-more = ਹੋਰ ਪੜ੍ਹੋ
 m24-about-read-the-latest = ਨਵੀਆਂ { -brand-name-mozilla } ਖ਼ਬਰਾਂ ਤੇ ਲੇਖਾਂ ਨੂੰ ਪੜ੍ਹੋ
-# Used as an accessible text alternative for an image
-m24-about-chicago = ਸ਼ਿਕਾਗੋ ਅਧਾਰਿਤ ਉਦਯੋਗਪਤੀ।
 
 ## Showcase
 

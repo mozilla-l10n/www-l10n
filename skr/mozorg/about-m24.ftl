@@ -6,21 +6,6 @@
 ### URL: https://www-dev.allizom.org/about/
 
 
-## Intro
-
-
-## Manifesto
-
-
 ## News
 
 m24-about-read-more = ٻیا پڑھو
-
-## Showcase
-
-
-## Careers
-
-
-## Community
-

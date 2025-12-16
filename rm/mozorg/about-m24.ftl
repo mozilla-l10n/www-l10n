@@ -35,12 +35,6 @@ m24-about-we-fund-and = Nus investin en las persunas e l’engaschi che mainan l
 
 m24-about-read-more = Ulteriuras infurmaziuns
 m24-about-read-the-latest = Legia las novitads ed ils artitgels ils pli novs da { -brand-name-mozilla }
-m24-about-at-our-rise25 = Tar noss premis da { -brand-name-rise25 } è il futur dad IA fidabel, inclusiv e responsabel
-# Used as an accessible text alternative for an image
-m24-about-rise25-award = Ina victura dal premi { -brand-name-rise25 } mussa sin sia trofea.
-m24-about-empowering-chicagos-entrepreneurs = Sustegnair ils interprendiders da Chicago cun la midada da generaziuns
-# Used as an accessible text alternative for an image
-m24-about-chicago = In interprendider da Chicago.
 
 ## Showcase
 

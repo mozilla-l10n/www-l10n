@@ -55,32 +55,17 @@ m24-home-read-more = อ่านเพิ่มเติม
 m24-home-get-started = เริ่มต้นใช้งาน
 m24-home-join-the-movement = ร่วมขบวนการ: <br>AI เพื่อผู้คน
 m24-home-our-mission-is = ภารกิจของเราคือทำให้ผู้คนสามารถใช้ AI โอเพนซอร์สที่น่าเชื่อถือในการสร้างสรรค์สิ่งต่างๆ และทำงานร่วมกันได้อย่างง่ายดาย
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = โลโก้ { -brand-name-solo-ai }
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = สร้างเว็บไซต์ของคุณและเชื่อมต่อโดเมนกำหนดเองของคุณได้ฟรี
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders ช่วยนักพัฒนาอิสระสร้างโครงการ AI โอเพนซอร์สซึ่งเปลี่ยนแปลงโลกได้ผ่านการร่วมมือกัน การเขียนโปรแกรม และชุมชน
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } ช่วยนักพัฒนาอิสระสร้างโครงการ AI โอเพนซอร์สซึ่งเปลี่ยนแปลงโลกได้ผ่านการร่วมมือกัน การเขียนโปรแกรม และชุมชน
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = โลโก้ { -brand-name-lumigator }
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = มองหา LLM ที่ใช่สำหรับความต้องการ กรณีการใช้งาน และข้อมูลของคุณ
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Mark Surman ประธานบริษัทของ { -brand-name-mozilla }
-m24-home-can-ai-be = AI สามารถทำให้น่าเชื่อถือได้ไหม?
-m24-home-in-a-world = ในโลกที่นวัตกรรม AI ถูกขับเคลื่อนโดยคนเพียงไม่กี่กลุ่ม เรากำลังเสี่ยงต่อการผูกขาดสำหรับเทคโนโลยีนี้ การประยุกต์ใช้แนวคิดโอเพนซอร์สกับ AI จะสามารถเปลี่ยนแปลงสถานการณ์นั้นได้
 m24-home-watch-now = ชมเลยตอนนี้
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = ผู้พูดยืนอยู่บนเวทีพร้อมด้วยโลโก้ผลิตภัณฑ์หลายอย่าง
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = มีธุรกิจสตาร์ทอัปที่ยังอยู่ในช่วงเริ่มต้นไหม? โฆษณาบริษัทของคุณกับ { -brand-name-mozilla-ventures } และรับเงินทุนเพื่อขับเคลื่อนการเปลี่ยนแปลงในเชิงบวกสำหรับอนาคตของ AI และอินเทอร์เน็ต
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = บริจาคเสียงของคุณเพื่อทำให้เทคโนโลยีเสียงพูดมีความครอบคลุมและเข้าถึงได้มากขึ้นสำหรับทุกคน
-m24-home-donate-your-voice = บริจาคเสียงของคุณ
 
 ## Media Springboard
 

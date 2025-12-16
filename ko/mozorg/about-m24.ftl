@@ -36,13 +36,6 @@ m24-about-we-fund-and = 우리는 기술, 인터넷, AI를 올바른 방향으�
 
 m24-about-read-more = 더 보기
 m24-about-read-the-latest = 최신 { -brand-name-mozilla } 뉴스와 기사 읽기
-m24-about-builders-program = { -brand-name-mozilla-builders }나 협업, 프로그래밍, 커뮤니티를 통해 개발자가 혁신적인 오픈 소스 AI 프로젝트를 만드는 것을 도움
-m24-about-at-our-rise25 = { -brand-name-rise25 } 어워드에서 AI의 미래는 신뢰할 수 있고, 포괄적이며, 책임집니다.
-# Used as an accessible text alternative for an image
-m24-about-rise25-award = { -brand-name-rise25 } 수상자가 트로피를 가리키고 있습니다.
-m24-about-empowering-chicagos-entrepreneurs = 세대교체를 위해 시카고의 기업가들에게 힘을 줍니다.
-# Used as an accessible text alternative for an image
-m24-about-chicago = 시카고에 기반을 둔 기업가
 
 ## Showcase
 

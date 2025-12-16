@@ -55,34 +55,14 @@ m24-home-tag-event = Dogodek
 m24-home-read-more = Preberite več
 m24-home-get-started = Začnite
 m24-home-join-the-movement = Pridružite se gibanju:<br> UI za ljudi
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = Logotip { -brand-name-solo-ai }
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = Ustvarite svoje spletno mesto in brezplačno povežite domeno po meri
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
-# Used as an accessible text alternative for an image
-m24-home-alt-mozfest = Velika skupina ljudi, zbrana v živahnem notranjem prireditvenem prostoru; pogled od zgoraj.
-m24-home-mozfest-join-us = Pridružite se nam na { -brand-name-mozilla-festival }u
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = Logotip { -brand-name-lumigator }ja.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = Poiščite pravi veliki jezikovni model za svoje potrebe, primer uporabe in podatke.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = Mark Surman, predsednik { -brand-name-mozilla(sklon: "rodilnik") }.
-m24-home-can-ai-be = Ali je umetna inteligenca lahko vredna zaupanja?
-m24-home-in-a-world = V svetu, v katerem razvoj umetne inteligence poganja nekaj izbrancev, obstaja nevarnost, da se nad to tehnologijo ustvari monopol. Uporaba odprtokodnih konceptov za umetno inteligenco lahko to spremeni.
 m24-home-watch-now = Glejte zdaj
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Govorec na odru z logotipi več izdelkov.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = Prispevajte svoj glas, da bi govorna tehnologija postala bolj vključujoča in dostopna vsakomur.
-m24-home-donate-your-voice = Prispevajte svoj glas
-# Used as an accessible text alternative for an image
-m24-home-alt-pink-cloud = Oblak z rožnatim ozadjem
 
 ## Media Springboard
 
@@ -104,16 +84,11 @@ m24-home-headline-you-ai-v2 = Vi, umetna inteligenca in internet – kaj se prav
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Predstavljamo Thundermail in Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Predstavljamo { -brand-name-thundermail } in { -brand-name-thunderbird-pro }
-# Obsolete string (expires 2026-03-01)
-m24-home-tech-crunch = Tech Crunch
-m24-home-tech-crunch-v2 = TechCrunch
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-mozillas-new-message = { -brand-name-mozilla(sklon: "dajalnik") }no novo sporočilo: Smo edini brskalnik, za katerim ne stojijo milijarderji
 m24-home-fast-company = Fast Company
-m24-home-will-agi-be = Bo splošna umetna inteligenca (AGI) nova resničnost – in ali smo pripravljeni nanjo?
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -137,7 +112,3 @@ m24-home-alt-irl-host = Bridget Todd, gostiteljica podkasta IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Naš večkrat nagrajeni podkast predstavlja gonilce sprememb, ki si prizadevajo za varnejši internet in bolj zaupanja vredno UI.
 m24-home-irl-listen-now = Poslušajte zdaj
-
-## Outside the Fox
-
-m24-home-fox-listen-now = Poslušajte zdaj

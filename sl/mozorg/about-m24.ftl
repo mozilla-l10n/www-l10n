@@ -35,11 +35,6 @@ m24-about-we-fund-and = Financiramo in vlagamo v ljudi in v prizadevanja, ki vod
 
 m24-about-read-more = Preberite več
 m24-about-read-the-latest = Preberite zadnje novice in članke o { -brand-name-mozilla(sklon: "mestnik") }
-# Used as an accessible text alternative for an image
-m24-about-rise25-award = Prejemnica nagrade { -brand-name-rise25 }, ki kaže na svojo trofejo.
-m24-about-empowering-chicagos-entrepreneurs = Opolnomočenje chicaških podjetnikov za menjavo generacij
-# Used as an accessible text alternative for an image
-m24-about-chicago = Podjetnik iz Čikaga.
 
 ## Showcase
 
