@@ -58,44 +58,21 @@ m24-home-read-more = اطَّلِع على المزيد
 m24-home-get-started = لنبدأ
 m24-home-join-the-movement = انضم للحركة:<br>الذكاء الاصطناعي للناس
 m24-home-our-mission-is = مهمتنا هي تسهيل إنشاء تقنيات ذكاء اصطناعي مفتوحة المصدر وموثوقة والتعاون في مثل هذه التقنيات.
-# Used as an accessible text alternative for an image
-m24-home-alt-solo-ai-logo = شعار { -brand-name-solo-ai }
-m24-home-solo-ai = { -brand-name-solo-ai }
-m24-home-create-your-website = أنشئ موقعك الإلكتروني واربط نطاقك المخصّص مجانًا
 m24-home-alt-builders = برنامج Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = مُطوّرو وبُناة { -brand-name-mozilla }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = يساعد برنامج Builders المُطوّرين المستقلين على إنشاء مشاريع ذكاء اصطناعي مفتوحة المصدر من خلال التعاون المُخصّص والبرمجة والمجتمع.
 m24-home-builders-helps-independent-v2 = يُساعد برنامج { -brand-name-mozilla-builders } المُطوّرين المُستقلين على إنشاء مشاريع ذكاء اصطناعي مفتوحة المصدر وثورية من خلال التعاون المُخصّص والبرمجة والمجتمع.
-# Used as an accessible text alternative for an image
-m24-home-alt-mozfest = مجموعة كبيرة من الأشخاص مجتمعين في مساحة فعاليات داخلية مزدحمة، تُرى من الأعلى.
-m24-home-mozfest-join-us = انضم إلينا في { -brand-name-mozilla-festival }
-m24-home-mozfest-the-future = مستقبل التقنية لم يُحسم بعد — نحن من سيشكّله. انضم إلينا في برشلونة من 7 – 9 نوفمبر لتكسر القواعد المعتادة وتتخيل بجرأة وتبني ما هو قادم.
-m24-home-mozfest-get-your = احجز شارتك اليوم
-# Used as an accessible text alternative for an image
-m24-home-alt-lumigator-logo = شعار { -brand-name-lumigator }.
-m24-home-lumigator = { -brand-name-lumigator }
-m24-home-find-the-just = ابحث عن نموذج (LLM) المناسب لاحتياجاتك واستخداماتك وبياناتك.
-# Used as an accessible text alternative for an image
-m24-home-alt-trustworthy = مارك سيرمان، رئيس { -brand-name-mozilla }.
-m24-home-can-ai-be = هل يمكن أن يكون الذكاء الاصطناعي موثوقًا؟
-m24-home-in-a-world = في عالم تُدار فيه ابتكارات الذكاء الاصطناعي من قبل قلة مختارة، فإننا أمام خطر احتكار هذه التقنية. وقد يُمكن لتطبيق مفاهيم المصدر المفتوح تغيير هذا الواقع.
+
 m24-home-watch-now = شاهد الآن
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = مُتحدّث على المنصة الرئيسية وسط العديد من شعارات المنتجات.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = هل تمتلك شركة ناشئة في مراحلها الأولى؟ قدّم شركتك لـ { -brand-name-mozilla-ventures } واحصل على تمويل لدفع التغيير الإيجابي لمستقبل الذكاء الاصطناعي والإنترنت.
-m24-home-common-voice = { -brand-name-common-voice }
-m24-home-donate-your-voice-to-make = تبرّع بصوتك لِجعل تقنية الكلام أكثر شمولاً وسهولة للجميع.
-m24-home-donate-your-voice = ساهِم بصوتك
-
-m24-home-our-transformation = تحوّلُنا
-m24-home-how-do-legacy = كيف تصطدم القيم الراسخة بالابتكار؟ في هذا الحوار، يَستعرض مارك سيرمان كيف نقوم بإحداث نقلة نوعية في { -brand-name-mozilla } لعصر الذكاء الاصطناعي.
-# Used as an accessible text alternative for an image
-m24-home-alt-transformation = تغيير الإشارة مع مارك سيرمان وMBS
-# Used as an accessible text alternative for an image
-m24-home-alt-pink-cloud = سحابة بخلفية وردية
+m24-home-mozilla-data-collective = { -brand-name-mozilla } جمع البيانات
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } جمع البيانات هو إعادة بناء منظومة بيانات الذكاء الاصطناعي مع المجتمعات في المركز.
+# Obsolete string (expires 2026-04-05)
 m24-home-any-agent = أي وكيل
 m24-home-stop-wiring-tools = توقّف عن ربط الأدوات ببعضها ورعاية الأتمتات الهشّة. مع منصة وكلاء { -brand-name-mozilla-ai-v2 }، فأنت تصف هدفك، ونحن نُنشئ وكلاء ذكاء اصطناعي متكيّفين يعملون مع أدواتك وعملياتك.
 
@@ -116,7 +93,6 @@ m24-home-topic-ai = الذكاء الاصطناعي
 m24-home-topic-open-source-ai = ذكاء اصطناعي مفتوح المصدر
 m24-home-topic-ps = الخصوصية والسريّة
 m24-home-headline-you-ai-v2 = أنت والذكاء الاصطناعي والإنترنت – ما الذي يَحدث فعليًا؟
-m24-home-shake-to-summarize = أهز الجهاز للاختصار ضمن قائمة أفضل ابتكارات 2025 بحسب TIME
 m24-home-mozilla-welcomes-raffi = يَسعد { -brand-name-mozilla } أن تُرحّب بـ "رافي كريكوريان" في منصب الرئيس التنفيذي للتكنولوجيا
 m24-home-tech-target = الهدف التكنولوجي
 m24-home-mozilla-ai-ceo = الرئيس التنفيذي لـ { -brand-name-mozilla-ai-v2 } يتحدث عن مزايا الذكاء الاصطناعي مفتوح المصدر
@@ -124,27 +100,12 @@ m24-home-mozilla-ai-ceo = الرئيس التنفيذي لـ { -brand-name-mozil
 m24-home-introducing-thundermail-and = نُقدّم لكم Thundermail و Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = نُقدّم لكم { -brand-name-thundermail } و { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = ما سيأتي بعد ذلك في عالم التقنية هو خيار. اختَر معنا.
-m24-home-how-ventures-investee = كيف تُعزّز شركة Ventures Investee Germ التشفير
-# Obsolete string (expires 2026-03-01)
-m24-home-tech-crunch = TechCrunch
-m24-home-tech-crunch-v2 = TechCrunch
 m24-home-a-good-moment = "لحظة مناسبة بالنسبة لنا": يتحدث رئيس { -brand-name-firefox } عن مُتصفحات الذكاء الاصطناعي وما الذي ينتظر الويب لاحقًا
 m24-home-the-guardian = The Guardian
-m24-home-interview-take-open = مقابلة: أخذ المصدر المفتوح إلى عصر الذكاء الاصطناعي
-# Obsolete string (expires 2026-03-20)
-m24-home-mit-sloan-review = مراجعة MIT Sloan
-m24-home-mit-sloan-management-review = مراجعة إدارة MIT Sloan
-m24-home-mozilla-ventures-funds = { -brand-name-mozilla-ventures } تموّل منصة شبكات Filament
 m24-home-axios = Axios
 m24-home-mozillas-new-message = الرسالة الجديدة لـ { -brand-name-mozilla }: نحن المتصفح الوحيد غير المدعوم من المليارديرات
 m24-home-fast-company = شركة سريعة
-m24-home-will-agi-be = هل سيتحوّل AGI إلى واقع — وهل نحن مستعدون؟
-m24-home-conversation-charting-a = حوار: رسم مستقبل للنفاذ والتمكين
-m24-home-tech-policy-press = Tech Policy Press
-m24-home-open-by-design = مفتوح بالتّصميم: كيف يمكن للدول أن تتنافس في عصر الذكاء الاصطناعي
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-mozilla-ai-charts = ترسم { -brand-name-mozilla-ai-v2 } مسارًا جديدًا مع توجّه نحو الربحية
-m24-home-silicon-angle = Silicon Angle
 
 ## Showcase
 
@@ -159,18 +120,13 @@ m24-home-alt-rise25-smiling = متحدّثة مبتسمة وواثقة في { -b
 m24-home-alt-rise25-joyous = فائزة سعيدة بالتكريم في { -brand-name-rise25 }.
 m24-home-state-of-mozilla = حالة { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = تعمل { -brand-name-mozilla } على إعادة ابتكار ذاتها وتتنوّع وسط مجموعة من المُؤسسات وتعيد تصوّر الإعلان وتوفّر نظامًا بيئيًا مفتوح المصدر للذكاء الاصطناعي. اقرأ عنها في تقرير حالة { -brand-name-mozilla } لِعام 2024.
+
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = صورة بكسل تجريدية بألوان الظلال الخضراء والبرتقاليّة والورديّة
 m24-home-read-the-report = اقرأ التقرير
 
-## Data Collective
+## Nothing Personal
 
-m24-home-mozilla-data-collective = { -brand-name-mozilla } جمع البيانات
-m24-home-mozilla-create-curate-control = أنشئ انتقِ تحكّم
-# Obsolete string (expires 2026-03-20)
-m24-home-mozilla-data-collective-is = { -brand-name-mozilla } جمع البيانات هو إعادة بناء منظومة بيانات الذكاء الاصطناعي مع المجتمعات في المركز. احصل على أكثر من 300 مجموعة بيانات عالمية عالية الجودة، بُنيت من أجل المجتمع وبأيدي المجتمع بطريقة شفافة وأخلاقية.
-m24-home-mozilla-data-collective-is-v3 = { -brand-name-mozilla } جمع البيانات هو إعادة بناء منظومة بيانات الذكاء الاصطناعي مع المجتمعات في المركز. احصل على أكثر من 300 مجموعة بيانات عالمية عالية الجودة، بُنيت من أجل المجتمع وبأيدي المجتمع بطريقة شفافة وأخلاقية.
-m24-home-join-mozilla-data = انضم إلى { -brand-name-mozilla } لجمع البيانات
 
 ## Issues
 
@@ -184,9 +140,3 @@ m24-home-alt-irl-host = بريدجيت تود، مستضيفة بوكاست IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = يقدّم البودكاست الخاص بنا والحائز على العديد من الجوائز صانعي التغيير الذين يعملون لجعل الإنترنت أكثر أمانًا وجعل الذكاء الاصطناعي أكثر موثوقية.
 m24-home-irl-listen-now = استمع الآن
-
-## Outside the Fox
-
-m24-home-outside-the-fox = خارج نطاق فوكس
-m24-home-this-is-where = هنا نستكشف ما يحدث على الإنترنت وأسباب أهميته، من سبب انتشار المحتوى العشوائي إلى ثقافة الإنترنت سريعة الانتشار.
-m24-home-fox-listen-now = استمع الآن
