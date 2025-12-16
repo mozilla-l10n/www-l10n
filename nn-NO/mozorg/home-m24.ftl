@@ -63,12 +63,15 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders hjelper uavhengige utviklarar med å lage banebrytande AI-prosjekt med open kjeldekode gjennom samarbeid, programmering og fellesskap
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } hjelper uavhengige utviklarar med å lage banebrytande AI-prosjekt med open kjeldekode gjennom skreddarsydde samarbeid, programmering og fellesskap.
+m24-home-own-what-you = Eig det du bygg
 m24-home-watch-now = Sjå no
+m24-home-get-started-now = Kom i gang no
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Talar på scena med fleire produktlogoar.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Har du ei oppstartsbedrift i tidleg fase? Presenter bedrifta di for { -brand-name-mozilla-ventures } og sikre finansiering for å drive positiv endring for framtida til AI og internett.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Datakollektiv
+m24-home-join-today = Ver med i dag
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Alla agentar
 m24-home-stop-wiring-tools = Slutt å kople saman verktøy og passe på skjøre automatiseringar. Med { -brand-name-mozilla-ai-v2 } Agent Platform beskriv du målet ditt, og vi genererer adaptive AI-agentar som fungerer med verktøya og prosessane dine.
@@ -120,6 +123,10 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } finn seg sjølv
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstrakt pikselskunst i nyansar av grønt, oransje og rosa
 m24-home-read-the-report = Les rapporten
+
+## Nothing Personal
+
+m24-home-read-now = Les no
 
 ## Issues
 
