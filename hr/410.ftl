@@ -11,6 +11,9 @@ gone-page-go-back = Idi natrag
 #   $home (attr) - attributes to be added to the <a> tag - href="https://mozilla.org"
 gone-page-go-home = Počni istraživati web-stranice s njezine <a { $home }>početne stranice</a>.
 # Variables:
+#   $blog (attr) - attributes to be added to the <a> tag - href="https://blog.mozilla.org/"
+gone-page-search-blog = Pretraži <a { $blog }>{ -brand-name-mozilla } blog</a>.
+# Variables:
 #   $products (attr) - attributes to be added to the <a> tag - href="/products/"
 gone-page-browse-products = Pregledaj naše <a { $products }>proizvode</a>.
 # Variables:
