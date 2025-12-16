@@ -8,5 +8,11 @@
 page-gone-title = Ova je stranica uklonjena
 gone-page-go-back = Idi natrag
 # Variables:
+#   $home (attr) - attributes to be added to the <a> tag - href="https://mozilla.org"
+gone-page-go-home = Počni istraživati web-stranice s njezine <a { $home }>početne stranice</a>.
+# Variables:
+#   $products (attr) - attributes to be added to the <a> tag - href="/products/"
+gone-page-browse-products = Pregledaj naše <a { $products }>proizvode</a>.
+# Variables:
 #   $support (attr) - attributes to be added to the <a> tag - href="https://support.mozilla.org/"
 gone-page-visit-support = Posjeti <a { $support }>{ -brand-name-mozilla } podršku</a>.
