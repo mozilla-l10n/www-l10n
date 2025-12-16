@@ -36,6 +36,8 @@ m24-about-we-fund-and = Vi finansierar och investerar i människorna och de insa
 
 m24-about-read-more = Läs mer
 m24-about-read-the-latest = Läs de senaste artiklarna och nyheterna om { -brand-name-mozilla }
+m24-about-rewiring-mozilla = Omstrukturering av { -brand-name-mozilla }: Gör för AI vad vi gjorde för webben. Läs om vår nästa generations strategi och hur vi transformerar { -brand-name-mozilla } för AI:s era.
+m24-about-what-comes-next = Det som kommer härnäst inom tekniken är ett val. Välj med oss.
 
 ## Showcase
 
