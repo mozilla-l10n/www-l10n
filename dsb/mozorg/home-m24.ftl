@@ -63,7 +63,13 @@ m24-home-mozilla-builders = Twaŕce { -brand-name-mozilla }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders njewótwisnym wuwijarjam pomaga, transformatiwne projekty KI wótwórjonego žrědła z na to pśiměrjonym zgromadnym źěłom, programěrowanim a zgromaźeństwom napóraś.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } njewótwisnym wuwijarjam pomaga, transformatiwne projekty KI wótwórjonego žrědła z na to pśiměrjonym zgromadnym źěłom, programěrowanim a zgromaźeństwom napóraś.
+m24-home-own-what-you = Wobsejźćo, což wuwijaśo
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = Trjebamy „LAMP Stack“ za eru KI? Trjebamy technologiju, kótaraž jo transparentna, zagronita a ludam słuša, kótarež ju wužywaju.
 m24-home-watch-now = Něnto se woglědaś
+m24-home-choice-first-stack = Wuběrk prědnego štapjela
+m24-home-your-tools-your = Waše rědy, waša wólba. Zjadnośony štapjel wótwórjonego žrědła, kótaryž wuwijanje a testowanje modernych agentow KI a nałoženjow zjadnorja.
+m24-home-get-started-now = Zachopśo něnto
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Powědaŕ na jawišću z někotarymi produktowymi logami.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }

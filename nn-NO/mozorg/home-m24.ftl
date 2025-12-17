@@ -107,6 +107,9 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = Den nye meldinga frå { -brand-name-mozilla }: Vi er den einaste nettlesaren som ikkje er støtta av milliardærar
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-interview-with-mark = Intervju med Mark Surman: Korleis { -brand-name-mozilla } tilpassar seg AI-alderen
+m24-home-women-in-product = Kvinner i produktsamtalen: Leggje til GenAi utan å miste oversikta
+m24-home-scaling-open-source = Skalering av open kjeldekode-AI: Mark Surman og Tim Bradshaw
 
 ## Showcase
 

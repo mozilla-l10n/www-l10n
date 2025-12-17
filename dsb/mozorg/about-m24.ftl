@@ -36,6 +36,12 @@ m24-about-we-fund-and = Financěrujomy luźe a procowanja, kótarež technologij
 
 m24-about-read-more = Wěcej cytaś
 m24-about-read-the-latest = Cytajśo nejnowše powěsći a nastawki { -brand-name-mozilla }
+m24-about-rewiring-mozilla = { -brand-name-mozilla } pśekonfigurěrowaś: Cynimy za KI, což smy cynili za web. Cytajśo wó našej strategiji pśiduceje generacije a kak { -brand-name-mozilla } za eru KI pśetwórjamy.
+m24-about-what-comes-next = Což ako pśiduce w technologiji pśiźo jo wuběrk. Wubjeŕśo z nami.
+m24-about-watch-here = Glědajśo how
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = Móžomy dwójny wuslědk za technologiju měś? Mar Surman diskutěrujo, kak móžomy techniski ekosystem z dwójnym wuslědkom wuwijaś – jaden, kótaryž misiju a pjenjeze gódnośi.
+m24-about-watch-now = Něnto se woglědaś
 
 ## Showcase
 
