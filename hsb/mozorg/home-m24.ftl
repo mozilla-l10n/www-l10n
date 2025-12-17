@@ -63,13 +63,17 @@ m24-home-mozilla-builders = Twarcy { -brand-name-mozilla }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders njewotwisnym wuwiwarjam pomha, transformatiwne projekty KI wotewrjeneho žórła z na to přiměrjenym zhromadnym dźěłom, programowanjom a zhromadźenstwom wutworić.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } njewotwisnym wuwiwarjam pomha, transformatiwne projekty KI wotewrjeneho žórła z na to přiměrjenym zhromadnym dźěłom, programowanjom a zhromadźenstwom wutworić.
+m24-home-own-what-you = Wobsedźće, štož wuwiwaće
 m24-home-watch-now = Nětko wobhladać
+m24-home-get-started-now = Započńće nětko
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Rěčnik na jewišću z wjacorymi produktowymi logami.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Maće projekt w zažnej fazy? Předstajće { -brand-name-mozilla-ventures } swoje předewzaće a zawěsćće financowanje za pozitiwnu změnu přichoda KI a interneta.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective datowy ekosystem Ki ze zhromadźenstwami w centrumje přetworja. Přistup k přez 300 globalnych datowych zběrkow wysokeje kwality, kotrež su so wot zhromadźenstwa a za zhromadźenstwo na transparentne a etiske wašnje wutworili.
+m24-home-join-today = Přidružće so dźensa
+m24-home-agent-platform = Agentowa platforma
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Někajki agent
 m24-home-stop-wiring-tools = Přestańće nastroje zakablować a krjechke awtomatizacije babysittować. Z platformu agento { -brand-name-mozilla-ai-v2 } wopisujeće swój cil, generujemy adaptiwnych agentow KI, kotrež z wašimi nastrojemi a procesami funguja.
@@ -104,6 +108,7 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = Nowa powěsć { -brand-name-mozilla }: Smy jenički wobhladowak, kotryž so wot miliardarow njepodpěruje
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = FT
 
 ## Showcase
 
@@ -121,6 +126,10 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } so sam znowa wu
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstraktne pikselowe wuměłstwo w zelenych, oranžowych a róžojtych wotsćinach
 m24-home-read-the-report = Čitajće rozprawu
+
+## Nothing Personal
+
+m24-home-read-now = Nětko čitać
 
 ## Issues
 
