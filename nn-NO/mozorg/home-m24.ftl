@@ -65,6 +65,7 @@ m24-home-builders-helps-independent = Builders hjelper uavhengige utviklarar med
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } hjelper uavhengige utviklarar med å lage banebrytande AI-prosjekt med open kjeldekode gjennom skreddarsydde samarbeid, programmering og fellesskap.
 m24-home-own-what-you = Eig det du bygg
 m24-home-watch-now = Sjå no
+m24-home-your-tools-your = Verktøya dine, ditt val. Ein einskapleg open kjeldekode-stabel som forenklar bygging og testing av moderne AI-agentar og -appar.
 m24-home-get-started-now = Kom i gang no
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Talar på scena med fleire produktlogoar.
