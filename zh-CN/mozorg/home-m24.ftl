@@ -76,8 +76,8 @@ m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = 经营着刚起步的创业公司？请向 { -brand-name-mozilla-ventures }推介您的公司，获得资金帮助，推动 AI 和互联网向善发展。
 m24-home-mozilla-data-collective = { -brand-name-mozilla } 数据共同体
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } 数据共同体正在以社区为核心，重新建立 AI 数据生态系统。通过透明且合乎道德的方式，提供由社区创建、为社区服务的 300 多个高质量全球数据集。
-m24-home-join-today = 今天加入
-m24-home-a-double-bottom = 科技界的多重底线
+m24-home-join-today = 今天就加入
+m24-home-a-double-bottom = 技术的双重底线
 m24-home-mark-surman-discusses = 马克·苏曼 (Mark Surman) 畅谈如何建立一个兼有使命和金钱的双底线科技生态系统。
 m24-home-agent-platform = 客服平台
 # Obsolete string (expires 2026-04-05)
