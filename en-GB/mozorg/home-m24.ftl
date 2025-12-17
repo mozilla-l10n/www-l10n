@@ -63,13 +63,23 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders helps independent developers create transformative open-source AI projects through bespoke collaborations, programming, and community.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } helps independent developers create transformative open-source AI projects through bespoke collaborations, programming and community.
+m24-home-own-what-you = Own What You Build
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = Do we need a “LAMP Stack” for the AI era? We need tech that’s transparent, accountable, and owned by the people who use it.
 m24-home-watch-now = Watch now
+m24-home-choice-first-stack = Choice First Stack
+m24-home-your-tools-your = Your tools, your choice. A unified open-source stack that simplifies building and testing modern AI agents and apps.
+m24-home-get-started-now = Get started now
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Speaker on stage with multiple product logos.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Got an early-stage startup? Pitch your company to { -brand-name-mozilla-ventures } and secure funding to drive positive change for the future of AI and the internet.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective is rebuilding the AI data ecosystem with communities at the centre. Access over 300 high-quality global datasets, built by and  for the community in a transparent and ethical way.
+m24-home-join-today = Join today
+m24-home-a-double-bottom = A Double Bottom Line for Tech
+m24-home-mark-surman-discusses = Mark Surman discusses how we can build a tech ecosystem with a double bottom line — one that values both mission and money.
+m24-home-agent-platform = Agent Platform
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Any Agent
 m24-home-stop-wiring-tools = Stop wiring tools together and babysitting brittle automations. With the { -brand-name-mozilla-ai-v2 } Agent Platform, you describe your goal, we generate adaptive AI agents that work with your tools and processes.
@@ -104,6 +114,11 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = { -brand-name-mozilla }’s new message: We’re the only browser not backed by billionaires
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = The FT
+m24-home-rewiring-mozilla = Rewiring { -brand-name-mozilla }: Doing for AI what we did for the web
+m24-home-interview-with-mark = Interview with Mark Surman: How { -brand-name-mozilla } is adapting to the AI age
+m24-home-women-in-product = Women In Product conversation: Adding GenAI Without Losing the Plot
+m24-home-scaling-open-source = Scaling Open Source AI: Mark Surman & Tim Bradshaw
 
 ## Showcase
 
@@ -118,9 +133,18 @@ m24-home-alt-rise25-smiling = A confident smiling speaker at { -brand-name-rise2
 m24-home-alt-rise25-joyous = A joyous honouree at { -brand-name-rise25 }.
 m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } is reinventing itself, diversifying around a constellation of organisations, reimagining advertising and creating an open source AI ecosystem. Read about it in the State of { -brand-name-mozilla } 2024 Report.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } is reinventing itself, diversifying around a constellation of organisations, re-imagining advertising and creating an open source AI ecosystem. Read about it in the State of { -brand-name-mozilla } { $year } Report.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstract pixel art in shades of green, orange and pink
 m24-home-read-the-report = Read the report
+
+## Nothing Personal
+
+m24-home-mozilla-nothing-personal = Nothing Personal
+m24-home-our-new-magazine = Our new magazine for independent thinkers, technologists and creatives on the front lines of digital culture.
+m24-home-read-now = Read Now
 
 ## Issues
 
