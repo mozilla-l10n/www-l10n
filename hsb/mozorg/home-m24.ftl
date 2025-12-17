@@ -74,6 +74,7 @@ m24-home-got-an-earlystage = Maće projekt w zažnej fazy? Předstajće { -brand
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective datowy ekosystem Ki ze zhromadźenstwami w centrumje přetworja. Přistup k přez 300 globalnych datowych zběrkow wysokeje kwality, kotrež su so wot zhromadźenstwa a za zhromadźenstwo na transparentne a etiske wašnje wutworili.
 m24-home-join-today = Přidružće so dźensa
+m24-home-a-double-bottom = Dwójny wuslědk za technologiju
 m24-home-agent-platform = Agentowa platforma
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Někajki agent
@@ -124,12 +125,16 @@ m24-home-alt-rise25-smiling = Sebjewědomy smějkotacy so rěčnik na { -brand-n
 m24-home-alt-rise25-joyous = Wjesoły nošer myta na { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Staw { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } so sam znowa wunamakuje, rozeznawa so wokoło konstelacije organizacijow, koncipuje wabjenje nowo a wutworja ekosystem KI wotewrjeneho žórła. Čitajće wo tym w Rozprawje wo stawje { -brand-name-mozilla } 2024.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } so sam znowa wunamakuje, rozeznawa so wokoło konstelacije organizacijow, koncipuje wabjenje nowo a wutworja ekosystem KI wotewrjeneho žórła. Čitajće wo tym w Rozprawje wo stawje { -brand-name-mozilla } { $year }.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstraktne pikselowe wuměłstwo w zelenych, oranžowych a róžojtych wotsćinach
 m24-home-read-the-report = Čitajće rozprawu
 
 ## Nothing Personal
 
+m24-home-mozilla-nothing-personal = Ničo wosobinskeho
 m24-home-read-now = Nětko čitać
 
 ## Issues
