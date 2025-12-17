@@ -39,6 +39,8 @@ m24-about-read-the-latest = Les dei siste artiklane og nyheitene om { -brand-nam
 m24-about-rewiring-mozilla = Omstrukturering av { -brand-name-mozilla }: Gjer for AI det vi gjorde for nettet. Les om vår neste generasjons strategi og korleis vi transformerer { -brand-name-mozilla } for AI-æraen.
 m24-about-what-comes-next = Det neste som kjem innan teknologi er eit val. Vel med oss.
 m24-about-watch-here = Sjå det her
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = Kan vi ha ei dobbel botnlinje for teknologi? Mark Surman diskuterer korleis vi kan byggje eit teknologiøkosystem med ei dobbel botnlinje – eit som verdset både oppdrag og pengar.
 m24-about-watch-now = Sjå no
 
 ## Showcase
