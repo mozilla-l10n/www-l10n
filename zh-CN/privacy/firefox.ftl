@@ -22,7 +22,7 @@ privacy-firefox-transparency-first = 公开透明为先
 privacy-firefox-were-clear-about = 我们明确了使用的数据类型及使用原因，绝不逾矩。<a { $attrs }>{ -brand-name-firefox } 隐私声明</a>对此做了详细说明。
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = 数据使用方式
-privacy-firefox-how-we-use-v2 = 隐私为先
+privacy-firefox-how-we-use-v2 = 隐私根植设计
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = 我们使用数据来保持 { -brand-name-firefox } 稳定运行、改进功能、帮助维持我们的业务，而这一切都以尊重您的隐私为前提。部分可选功能可能需要额外数据才能正常运作，我们通过精心设计，让您能够轻松管理自己的首选项。
 # Variables:
