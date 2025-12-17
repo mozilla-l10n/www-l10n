@@ -64,12 +64,14 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Le constructores adjuta disveloppatores independente a crear projectos transformative de IA open-source per collaborationes, programmation, e communitates a mesura.
 m24-home-builders-helps-independent-v2 = Le { -brand-name-mozilla-builders } adjuta disveloppatores independente a crear projectos transformative de IA open-source per collaborationes, programmation, e communitates a mesura.
 m24-home-watch-now = Mira ora
+m24-home-get-started-now = Comenciar ora
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Parlator sur scena con plure logos de productos.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Ha tu un interprisa in phase initial? Presenta tu interprisa a { -brand-name-mozilla-ventures } e assecura financiamento pro ducer cambiamento positive pro le futuro de IA e internet.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective re-organisa le ecosystema de datos del IA con le communitates al centro. Accede ultra 300 collectiones mundial de datos de alte-qualitate producite per e pro le communitate in maniera transparente e ethic.
+m24-home-join-today = Uni te hodie
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Qualcunque agente
 m24-home-stop-wiring-tools =
@@ -123,6 +125,10 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se reinventa, s
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Arte abstracte de pixel in tonalitates de verde, orange e rosate
 m24-home-read-the-report = Leger le reporto
+
+## Nothing Personal
+
+m24-home-read-now = Leger ora
 
 ## Issues
 

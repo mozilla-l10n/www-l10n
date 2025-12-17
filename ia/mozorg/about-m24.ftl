@@ -36,6 +36,9 @@ m24-about-we-fund-and = Nos financia e investi in le personas e le effortios pro
 
 m24-about-read-more = Leger plus
 m24-about-read-the-latest = Lege le ultime novas e articulos de { -brand-name-mozilla }
+m24-about-what-comes-next = Le futuro del technologia es un selection. Selige con nos.
+m24-about-watch-here = Specta ci
+m24-about-watch-now = Specta ora
 
 ## Showcase
 
