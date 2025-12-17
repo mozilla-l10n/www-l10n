@@ -63,13 +63,23 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders helpt onafhankelijke ontwikkelaars transformatieve opensource AI-projecten te maken via samenwerkingen op maat, programmering en een gemeenschap.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } helpt onafhankelijke ontwikkelaars transformatieve opensource AI-projecten te maken via samenwerkingen op maat, programmering en een gemeenschap.
+m24-home-own-what-you = Verantwoording voor wat je bouwt
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = Hebben we een ‘LAMP Stack’ nodig voor het AI-tijdperk? We hebben technologie nodig die transparant is, verantwoordelijk is en eigendom is van de mensen die het gebruiken.
 m24-home-watch-now = Nu kijken
+m24-home-choice-first-stack = Keuze voorop-stack
+m24-home-your-tools-your = Uw hulpmiddelen, uw keuze. Een geïntegreerde opensource-stack die het bouwen en testen van moderne AI-agents en apps vereenvoudigt.
+m24-home-get-started-now = Nu beginnen
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Spreker op podium met meerdere productlogo’s.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Hebt u een start-up in een vroeg stadium? Promoot uw bedrijf bij { -brand-name-mozilla-ventures } en stel financiering veilig om positieve verandering voor de toekomst van AI en het internet te stimuleren.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective herbouwt het AI-gegevens-ecosysteem, met gemeenschappen centraal. Toegang tot meer dan 300 wereldwijde gegevenssets van hoge kwaliteit, gebouwd door en voor de gemeenschap op een transparante en ethische manier.
+m24-home-join-today = Nu meedoen
+m24-home-a-double-bottom = Een dubbel resultaat voor technologie
+m24-home-mark-surman-discusses = Mark Surman bespreekt hoe we een technisch ecosysteem kunnen bouwen met een dubbel resultaat – een ecosysteem dat zowel missie als geld waardeert.
+m24-home-agent-platform = Agentplatform
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Elke agent
 m24-home-stop-wiring-tools = Stop met het samenvoegen van hulpmiddelen en het babysitten van broze automatiseringen. Met het { -brand-name-mozilla-ai-v2 }-agentplatform beschrijft u uw doel, wij genereren adaptieve AI-agents die werken met uw hulpmiddelen en processen.
@@ -104,6 +114,11 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = De nieuwe boodschap van { -brand-name-mozilla }: we zijn de enige browser die niet wordt ondersteund door miljardairs
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = De FT
+m24-home-rewiring-mozilla = { -brand-name-mozilla } opnieuw uitvinden: voor AI doen wat we voor het web deden
+m24-home-interview-with-mark = Interview met Mark Surman: Hoe { -brand-name-mozilla } zich aanpast aan het AI-tijdperk
+m24-home-women-in-product = Vrouwen in het product-gesprek: GenAI toevoegen zonder het verhaal te verliezen
+m24-home-scaling-open-source = Opensource-AI schalen: Mark Surman & Tim Bradshaw
 
 ## Showcase
 
@@ -118,9 +133,18 @@ m24-home-alt-rise25-smiling = Een zelfverzekerde lachende spreker bij { -brand-n
 m24-home-alt-rise25-joyous = Een blije gehuldigde bij { -brand-name-rise25 }.
 m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } vindt zichzelf opnieuw uit en diversifieert rond een constellatie van organisaties, vindt reclame opnieuw uit en creëert een opensource AI-ecosysteem. Lees meer in het State of { -brand-name-mozilla } 2024-rapport.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } vindt zichzelf opnieuw uit en diversifieert rond een constellatie van organisaties, vindt reclame opnieuw uit en creëert een opensource AI-ecosysteem. Lees meer in het State of { -brand-name-mozilla } { $year }-rapport.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstracte pixelkunst in tinten groen, oranje en roze
 m24-home-read-the-report = Het rapport lezen
+
+## Nothing Personal
+
+m24-home-mozilla-nothing-personal = Niets persoonlijks
+m24-home-our-new-magazine = Ons nieuwe magazine voor onafhankelijke denkers, technologen en creatievelingen aan de frontlinie van de digitale cultuur.
+m24-home-read-now = Nu lezen
 
 ## Issues
 

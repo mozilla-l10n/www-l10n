@@ -36,6 +36,12 @@ m24-about-we-fund-and = Wy finansiere en ynvestearje yn de minsken en ynspanning
 
 m24-about-read-more = Mear ynfo
 m24-about-read-the-latest = Lês it lêste nijs en artikels fan { -brand-name-mozilla }
+m24-about-rewiring-mozilla = { -brand-name-mozilla } opnij útfine: dwaan foar AI wat wy foar it web diene. Lês oer ús strategy fan de folgjende generaasje en hoe’t wy { -brand-name-mozilla } transformearje foar it tiidrek fan AI.
+m24-about-what-comes-next = Wat hjirnei komt yn technology is in kar. Kies mei ús.
+m24-about-watch-here = Hjir besjen
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = Kinne wy in dûbeld resultaat boeke foar technology? Mark Surman besprekt hoe’t wy in technysk ekosysteem bouwe kinne mei in dûbeld resultaat – in ekosysteem dat sawol misje as jild wurdearret.
+m24-about-watch-now = No sjen
 
 ## Showcase
 
