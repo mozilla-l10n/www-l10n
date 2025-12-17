@@ -111,6 +111,7 @@ m24-home-mozillas-new-message = Nowa powěsć { -brand-name-mozilla }: Smy jeni�
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = FT
+m24-home-scaling-open-source = KI wotewrjeneho žórła skalěrować: Mark Surman a Tim Bradshaw
 
 ## Showcase
 
