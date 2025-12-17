@@ -79,7 +79,7 @@ m24-home-mozilla-data-collective-is = { -brand-name-mozilla } 数据共同体正
 m24-home-join-today = 今天就加入
 m24-home-a-double-bottom = 技术的双重底线
 m24-home-mark-surman-discusses = 马克·苏曼 (Mark Surman) 畅谈如何建立一个兼有使命和金钱的双底线科技生态系统。
-m24-home-agent-platform = 客服平台
+m24-home-agent-platform = 智能体平台
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Any Agent
 m24-home-stop-wiring-tools = 不必再疲于整合各种工具、维护脆弱的自动化流程。借助 { -brand-name-mozilla-ai-v2 } 智能体平台，您只需描述目标，我们就能生成能与您的工具和流程协同工作的自适应 AI 智能体。
