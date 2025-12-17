@@ -5,7 +5,7 @@
 send-to-device-send-firefox = Embojoapy { -brand-name-firefox }-re ne pumbyryha’evéva térã ne mohendahara’i
 send-to-device-your-download-link = Ne juajuha ñemboguejy rehegua ohóma.
 send-to-device-please-enter-an-email = Ikatúpiko emoinge peteĩ ñanduti veve kundaharape.
-send-to-device-an-error-occured = Oiko peteĩ jejave nde apopyvusúpe. Ikatúpiko eha’ãjey ag̃amieve.
+send-to-device-an-error-occured = Oiko peteĩ jejave nde apopyvusúpe. Ikatúpiko eha’ã jey ag̃amieve.
 send-to-device-enter-your-email = Emoinge ne ñanduti veve
 # Only localize "yourname". Do not change "@example.com".
 send-to-device-email-placeholder = yourname@example.com

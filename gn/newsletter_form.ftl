@@ -5,7 +5,7 @@
 newsletter-form-please-enter-a-valid = Emoĩ ñandutiveve kundaharape oikóva
 newsletter-form-you-must-agree-to = Emoneĩva’erã marandu’i ñemi rehegua
 newsletter-form-your-email-address = Ñandutiveve kundaharape
-newsletter-form-we-are-sorry-but-there = Oreñyrõmíkena, oĩ rupi apañuái ore apopyvusúpe. Eha’ãjey ohasávo aravo’i.
+newsletter-form-we-are-sorry-but-there = Oreñyrõmíkena, oĩ rupi apañuái ore apopyvusúpe. Eha’ã jey ohasávo aravo’i.
 newsletter-form-please-select-country = Eiporavomína tetã térã tendaguasu
 newsletter-form-please-select-language = Eiporavomína ñe’ẽ
 # Only localize "yourname". Do not change "@example.com".

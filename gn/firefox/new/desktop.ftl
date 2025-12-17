@@ -149,7 +149,7 @@ firefox-desktop-download-visit-support-for-more = Eike Pytyvõme eikuaave hag̃u
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-desktop-download-your-firefox-new-should-begin = Ko ñemboguejy oñepyrũva’erã ijehegui. ¿Ndoikói? <a id="{ $id }" href="{ $fallback_url }">Eha’ãjey mboguejy pyahu.</a>
+firefox-desktop-download-your-firefox-new-should-begin = Ko ñemboguejy oñepyrũva’erã ijehegui. ¿Ndoikói? <a id="{ $id }" href="{ $fallback_url }">Eha’ã jey mboguejy pyahu.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ndaha’éi kundahára año.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Pe ñemboguejy ojejoko. Hákatu nokañymbái.
