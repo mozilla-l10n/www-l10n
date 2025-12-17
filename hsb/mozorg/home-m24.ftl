@@ -65,6 +65,7 @@ m24-home-builders-helps-independent = Builders njewotwisnym wuwiwarjam pomha, tr
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } njewotwisnym wuwiwarjam pomha, transformatiwne projekty KI wotewrjeneho žórła z na to přiměrjenym zhromadnym dźěłom, programowanjom a zhromadźenstwom wutworić.
 m24-home-own-what-you = Wobsedźće, štož wuwiwaće
 m24-home-watch-now = Nětko wobhladać
+m24-home-choice-first-stack = Wuběr prěnjeho stapla
 m24-home-get-started-now = Započńće nětko
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Rěčnik na jewišću z wjacorymi produktowymi logami.
