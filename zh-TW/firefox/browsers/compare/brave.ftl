@@ -17,4 +17,4 @@ compare-brave-firefox-makes-it-easy-for-you = { -brand-name-firefox } 讓您很�
 compare-brave-firefox-gives-you-the-option = { -brand-name-firefox } 讓您可以加密您儲存的密碼，然後再<a { $primary }>設定主控密碼</a>在需要使用時先輸入再解開；就算是與其他人共用電腦，您的密碼也受到保護。Brave 無法使用密碼來保護您的密碼。
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-data-another-browser
-compare-brave-switching-to-firefox-is-easy = 很簡單又快速就能改用 { -brand-name-firefox } — 只要滑鼠一點即可匯入您的 Brave 書籤、密碼、瀏覽紀錄、偏好設定，立刻開始使用 { -brand-name-firefox }。以下是<a { $howto }>如何匯入 Brave 資料的方法</a>。
+compare-brave-switching-to-firefox-is-easy = 很簡單又快速就能改用 { -brand-name-firefox } — 只要滑鼠一點即可匯入您的 Brave 書籤、密碼、瀏覽紀錄、偏好設定，立即開始使用 { -brand-name-firefox }。以下是<a { $howto }>如何匯入 Brave 資料的方法</a>。

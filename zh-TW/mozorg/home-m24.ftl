@@ -66,7 +66,7 @@ m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } 透過
 m24-home-own-what-you = 打造什麼就擁有什麼
 # "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
 m24-home-do-we-need-a = AI 時代還需要「Lamp Stack」嗎我們需要透明、負責、並歸使用者所有的技術。
-m24-home-watch-now = 立刻觀看
+m24-home-watch-now = 立即觀看
 m24-home-choice-first-stack = 選擇優先堆疊
 m24-home-your-tools-your = 工具自行決定。簡化現代 AI 程式與應用程式的編譯與測試過程的統一開放原始碼堆疊。
 m24-home-get-started-now = 立即參與
@@ -144,7 +144,7 @@ m24-home-read-the-report = 閱讀年報
 
 m24-home-mozilla-nothing-personal = 無關緊要
 m24-home-our-new-magazine = 我們為奮戰在數位文化前線的獨立思考者、技術專家與創意者而打造的新雜誌。
-m24-home-read-now = 立刻閱讀
+m24-home-read-now = 立即閱讀
 
 ## Issues
 
@@ -157,4 +157,4 @@ m24-home-alt-validation = 一個縮小版的人看著大按鍵和令人著迷的
 m24-home-alt-irl-host = IRL Podcast 主持人 Bridget Todd。
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = 我們多次獲獎的 Podcast 介紹了致力讓網際網路更安全、讓 AI 更值得信賴的變革者。
-m24-home-irl-listen-now = 立刻收聽
+m24-home-irl-listen-now = 立即收聽

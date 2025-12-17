@@ -17,7 +17,7 @@ firefox-developer-feedback-makes-us = 聽到您的意見才能更加進步。請
 firefox-developer-join-the-convo = 加入對話
 firefox-developer-get-involved = 參與我們
 firefox-developer-help-build-the-last = 幫助我們打造最後一套獨立的瀏覽器。您可以參與寫程式、修 Bug、開發附加元件等等不同工作。
-firefox-developer-start-now = 立刻開始
+firefox-developer-start-now = 立即開始
 firefox-developer-design-code-test = 設計、開發、測試、精進。
 # Line break for visual formatting
 firefox-developer-build-and-perfect = 使用 { -brand-name-firefox-devtools }<br>打造與精進您的網站

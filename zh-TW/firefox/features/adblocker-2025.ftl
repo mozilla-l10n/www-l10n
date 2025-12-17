@@ -37,4 +37,4 @@ features-adblocker-why-use = 為什麼要使用廣告封鎖器？
 features-adblocker-ad-blockers-do-more = 廣告封鎖器不只能管理廣告，還可以減少不必要的內容，以加速上網與加強安全性。它們讓您能夠有一個量身打造又不分心的網頁體驗，專注於最重要的事情上。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-explore-hundreds = 探索數以百計專注於隱私權保護的 { -brand-name-firefox } 附加元件，並找出最適合您的工具。立刻<a href="{ $url }">下載 { -brand-name-firefox }</a>，即可體驗從一開始設計時，就兼顧您的隱私權與效能的瀏覽器。
+features-adblocker-explore-hundreds = 探索數以百計專注於隱私權保護的 { -brand-name-firefox } 附加元件，並找出最適合您的工具。立即<a href="{ $url }">下載 { -brand-name-firefox }</a>，即可體驗從一開始設計時，就兼顧您的隱私權與效能的瀏覽器。

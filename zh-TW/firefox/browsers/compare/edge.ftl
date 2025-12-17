@@ -15,4 +15,4 @@ compare-edge-and-we-make-it-easy-for-you = 我們也讓您可以簡單地選擇�
 compare-edge-microsoft-has-to-make-their-shareholders = Microsoft 必須讓股東滿意，但我們可以著重於讓<strong>您</strong>滿意，將您的隱私權放在第一位。
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
-compare-edge-switching-to-firefox-is-easy = 很簡單又快速就能改用 { -brand-name-firefox } — 只要滑鼠一點即可匯入您的 Edge 書籤、密碼、瀏覽紀錄、偏好設定，立刻開始使用 { -brand-name-firefox }。以下是<a { $howto }>如何使用「匯入」按鈕進行切換的方法</a>。
+compare-edge-switching-to-firefox-is-easy = 很簡單又快速就能改用 { -brand-name-firefox } — 只要滑鼠一點即可匯入您的 Edge 書籤、密碼、瀏覽紀錄、偏好設定，立即開始使用 { -brand-name-firefox }。以下是<a { $howto }>如何使用「匯入」按鈕進行切換的方法</a>。

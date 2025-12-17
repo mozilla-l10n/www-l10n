@@ -28,7 +28,7 @@ newsletter-form-get-mozilla-updates = 獲得 { -brand-name-mozilla } 的最新�
 newsletter-form-available-languages = 可用語言
 newsletter-form-select-country = 選擇國家
 newsletter-form-sign-me-up = 算我一個
-newsletter-form-sign-up-now = 立刻訂閱
+newsletter-form-sign-up-now = 立即訂閱
 # Alt text for SVG animation indicating the form has submitted and is waiting for response
 newsletter-form-submit-sending = 傳送中
 newsletter-form-thanks = 感謝！
