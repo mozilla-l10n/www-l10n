@@ -76,6 +76,10 @@ m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Maśo projekt w ranej fazy? Pśedstajśo { -brand-name-mozilla-ventures } swójo pśedewześe a zawěsććo financěrowanje za pozitiwnu změnu pśichoda KI a interneta.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective datowy ekosystem KI ze zgromaźeństwami w centrumje pśetwórja. Pśistup k wěcej ako 300 globalnych datowych zběrkow wusokeje kwality, kótarež su se napórali wót zgromaźeństwa a za zgromaźeństwo na transparentny a etiski nałog.
+m24-home-join-today = Pśizamkniśo se źinsa
+m24-home-a-double-bottom = Dwójny wuslědk za technologiju
+m24-home-mark-surman-discusses = Mark Surman diskutěrujo, kak móžomy techniski ekosystem z dwójnym wuslědkom wuwijaś – jaden, kótaryž misiju a pjenjeze gódnośi.
+m24-home-agent-platform = Agentowa platforma
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Někaki agent
 m24-home-stop-wiring-tools = Pśestańśo rědy skablowaś a kśěke awtomatizacije babysittowaś. Z platformu agentow { -brand-name-mozilla-ai-v2 } wopisujośo swój cel, generěrujomy adaptiwne agenty KI, kótarež z wašymi rědami a procesami funkcioněruju.
@@ -110,6 +114,11 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = Nowa powěsć { -brand-name-mozilla }: Smy jadnučki wobglědowak, kótaryž se wót miliardarjow njepódpěra
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = FT
+m24-home-rewiring-mozilla = { -brand-name-mozilla } pśekonfigurěrowaś: Cynimy za KI, což smy cynili za web
+m24-home-interview-with-mark = Interview z Markom Surmanom: kak { -brand-name-mozilla } se erje KI pśiměrjujo
+m24-home-women-in-product = Žeńske w produktowej konwersaciji: GenAI pśidaś, bźez togo aby se pśeglěd zgubiło
+m24-home-scaling-open-source = KI wótwórjonego žrědła skalěrowaś: Mark Surman a Tim Bradshaw
 
 ## Showcase
 
@@ -124,9 +133,18 @@ m24-home-alt-rise25-smiling = Sebjewědobny smjejkotajucy se powědaŕ na { -bra
 m24-home-alt-rise25-joyous = Wjasoły nosaŕ myta na { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Staw { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se sam znowego wunamakujo, rozeznawa se wokoło konstelacije organizacijow, koncipěrujo wabjenje nowo a napórajo ekosystem KI wótwórjonego žrědła. Cytajśo wó tom w Rozpšawje wó stawje { -brand-name-mozilla } 2024.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } se sam znowego wunamakujo, rozeznawa se wokoło konstelacije organizacijow, koncipěrujo wabjenje nowo a napórajo ekosystem KI wótwórjonego žrědła. Cytajśo wó tom w Rozpšawje wó stawje { -brand-name-mozilla } { $year }.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstraktne pikselowe wuměłstwo w zelenych, oranžowych a rožojtych wósenjach
 m24-home-read-the-report = Cytajśo rozpšawu
+
+## Nothing Personal
+
+m24-home-mozilla-nothing-personal = Nic wósobinskego
+m24-home-our-new-magazine = Naš nowy magacin za njewótwisne myslarje, technologi a kreatiwne na frontowych linijach digitalneje kultury.
+m24-home-read-now = Něnto cytaś
 
 ## Issues
 
