@@ -68,6 +68,7 @@ m24-home-own-what-you = Wobsedźće, štož wuwiwaće
 m24-home-do-we-need-a = Trjebamy „LAMP Stack“ za eru KI? Trjebamy technologiju, kotraž je transparentna, zamołwita a ludźom słuša, kotřiž ju wužiwaja.
 m24-home-watch-now = Nětko wobhladać
 m24-home-choice-first-stack = Wuběr prěnjeho stapla
+m24-home-your-tools-your = Waš nastroje, waša wólba. Zjednoćeny stapl wotewrjeneho žórła, kotryž wuwiwanje a testowanje modernych agentow KI a nałoženjow zjednorja.
 m24-home-get-started-now = Započńće nětko
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Rěčnik na jewišću z wjacorymi produktowymi logami.
@@ -77,6 +78,7 @@ m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective datowy ekosystem Ki ze zhromadźenstwami w centrumje přetworja. Přistup k přez 300 globalnych datowych zběrkow wysokeje kwality, kotrež su so wot zhromadźenstwa a za zhromadźenstwo na transparentne a etiske wašnje wutworili.
 m24-home-join-today = Přidružće so dźensa
 m24-home-a-double-bottom = Dwójny wuslědk za technologiju
+m24-home-mark-surman-discusses = Mar Surman diskutuje, kak móžemy techniski ekosystem z dwójnym wuslědkom wuwiwać – jedyn, kotryž misiju a pjenjezy hódnoći.
 m24-home-agent-platform = Agentowa platforma
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Někajki agent
@@ -113,6 +115,9 @@ m24-home-mozillas-new-message = Nowa powěsć { -brand-name-mozilla }: Smy jeni�
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = FT
+m24-home-rewiring-mozilla = { -brand-name-mozilla } překonfigurować: Činimy za KI, štož smy za web činili
+m24-home-interview-with-mark = Interview z Markom Surmanom: kak { -brand-name-mozilla } so erje KI přiměrja
+m24-home-women-in-product = Žony w produktowej konwersaciji: GenAI přidać, bjeztoho zo by so přehlad zhubiło
 m24-home-scaling-open-source = KI wotewrjeneho žórła skalěrować: Mark Surman a Tim Bradshaw
 
 ## Showcase
