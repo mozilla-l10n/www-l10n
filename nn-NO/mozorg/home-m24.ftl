@@ -67,6 +67,7 @@ m24-home-own-what-you = Eig det du bygg
 # "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
 m24-home-do-we-need-a = Treng vi ein «LAMP Stack» for AI-æraen? Vi treng teknologi som er transparent, ansvarleg og eigd av menneska som brukar han.
 m24-home-watch-now = Sjå no
+m24-home-choice-first-stack = Val av frontstabel
 m24-home-your-tools-your = Verktøya dine, ditt val. Ein einskapleg open kjeldekode-stabel som forenklar bygging og testing av moderne AI-agentar og -appar.
 m24-home-get-started-now = Kom i gang no
 # Used as an accessible text alternative for an image
