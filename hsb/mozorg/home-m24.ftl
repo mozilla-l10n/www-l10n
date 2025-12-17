@@ -64,6 +64,8 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders njewotwisnym wuwiwarjam pomha, transformatiwne projekty KI wotewrjeneho žórła z na to přiměrjenym zhromadnym dźěłom, programowanjom a zhromadźenstwom wutworić.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } njewotwisnym wuwiwarjam pomha, transformatiwne projekty KI wotewrjeneho žórła z na to přiměrjenym zhromadnym dźěłom, programowanjom a zhromadźenstwom wutworić.
 m24-home-own-what-you = Wobsedźće, štož wuwiwaće
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = Trjebamy „LAMP Stack“ za eru KI? Trjebamy technologiju, kotraž je transparentna, zamołwita a ludźom słuša, kotřiž ju wužiwaja.
 m24-home-watch-now = Nětko wobhladać
 m24-home-choice-first-stack = Wuběr prěnjeho stapla
 m24-home-get-started-now = Započńće nětko
@@ -136,6 +138,7 @@ m24-home-read-the-report = Čitajće rozprawu
 ## Nothing Personal
 
 m24-home-mozilla-nothing-personal = Ničo wosobinskeho
+m24-home-our-new-magazine = Naš nowy magacin za njewotwisnych myslerjow, technologow a kreatiwnych na frontowych linijach digitalneje kultury.
 m24-home-read-now = Nětko čitać
 
 ## Issues

@@ -39,6 +39,8 @@ m24-about-read-the-latest = Čitajće najnowše powěsće a nastawki { -brand-na
 m24-about-rewiring-mozilla = { -brand-name-mozilla } překonfigurować: Činimy za KI, štož smy za web činili. Čitajće wo našej strategiji přichodneje generacije a kak { -brand-name-mozilla } za eru KI přetworjamy.
 m24-about-what-comes-next = Štož jako přichodne w technologiji přińdźe je wuběr. Wubjerće z nami.
 m24-about-watch-here = Hladajće tu
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = Móžemy dwójny wuslědk za technologiju měć? Mar Surman diskutuje, kak móžemy techniski ekosystem z dwójnym wuslědkom wuwiwać – jedyn, kotryž misiju a pjenjezy hódnoći.
 m24-about-watch-now = Nětko wobhladać
 
 ## Showcase
