@@ -113,7 +113,7 @@ m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-the-ft = 英国金融时报
+m24-home-the-ft = The FT
 m24-home-rewiring-mozilla = 重塑 { -brand-name-mozilla }我们为 AI 带来的 Web 成就
 m24-home-interview-with-mark = 专访马克苏曼{ -brand-name-mozilla } 如何适应人工智能时代
 m24-home-women-in-product = 女性参与产品对话在不失去细节的情况下添加 GenAI
@@ -141,7 +141,6 @@ m24-home-read-the-report = 阅读报告
 
 ## Nothing Personal
 
-m24-home-mozilla-nothing-personal = 非私人
 m24-home-our-new-magazine = 我们的新杂志为数字文化前线的独立思想者、技术人员和创意者提供。
 m24-home-read-now = 立即阅读
 

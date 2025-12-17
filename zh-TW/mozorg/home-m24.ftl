@@ -116,9 +116,9 @@ m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = 金融時報
 m24-home-rewiring-mozilla = Rewiring { -brand-name-mozilla }: for AI如同我們為 Web 所做的那樣
-m24-home-interview-with-mark = 專訪 Mark Surman: { -brand-name-mozilla } 如何適應 AI 時代
-m24-home-women-in-product = 女性在產品中的對話: 加入 EnAI 而不失去主旨
-m24-home-scaling-open-source = 縮放開放原始碼 AI: Mark Surman & Tim Bradshaw
+m24-home-interview-with-mark = 專訪 Mark Surman：{ -brand-name-mozilla } 如何適應 AI 時代
+m24-home-women-in-product = Women In Product 對話：加入 GenAI 而不失去主旨
+m24-home-scaling-open-source = 拓展開放原始碼 AI：Mark Surman & Tim Bradshaw
 
 ## Showcase
 
