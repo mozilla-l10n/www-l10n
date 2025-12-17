@@ -40,7 +40,7 @@ m24-about-rewiring-mozilla = { -brand-name-mozilla } pśekonfigurěrowaś: Cynim
 m24-about-what-comes-next = Což ako pśiduce w technologiji pśiźo jo wuběrk. Wubjeŕśo z nami.
 m24-about-watch-here = Glědajśo how
 # "Double Bottom Line" refers to accounting for both money and mission values
-m24-about-can-we-have = Móžomy dwójny wuslědk za technologiju měś? Mar Surman diskutěrujo, kak móžomy techniski ekosystem z dwójnym wuslědkom wuwijaś – jaden, kótaryž misiju a pjenjeze gódnośi.
+m24-about-can-we-have = Móžomy dwójny wuslědk za technologiju měś? Mark Surman diskutěrujo, kak móžomy techniski ekosystem z dwójnym wuslědkom wuwijaś – jaden, kótaryž misiju a pjenjeze gódnośi.
 m24-about-watch-now = Něnto se woglědaś
 
 ## Showcase
