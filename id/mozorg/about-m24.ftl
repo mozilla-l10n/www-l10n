@@ -36,13 +36,13 @@ m24-about-we-fund-and = Kami mendanai dan berinvestasi pada talenta serta upaya 
 
 m24-about-read-more = Baca Selengkapnya
 m24-about-read-the-latest = Baca berita & artikel { -brand-name-mozilla } terbaru
-m24-about-builders-program = { -brand-name-mozilla-builders } membantu pengembang dalam menciptakan proyek AI sumber terbuka yang transformatif melalui kolaborasi, pemrograman, dan komunitas.
-m24-about-at-our-rise25 = { -brand-name-rise25 } Awards kami menyoroti masa depan AI yang tepercaya, inklusif, dan bertanggung jawab
-# Used as an accessible text alternative for an image
-m24-about-rise25-award = Penerima penghargaan { -brand-name-rise25 } menunjuk pialanya.
-m24-about-empowering-chicagos-entrepreneurs = Memberdayakan pengusaha di Chicago untuk menciptakan perubahan yang berdampak lintas generasi
-# Used as an accessible text alternative for an image
-m24-about-chicago = Pengusaha yang berbasis di Chicago.
+m24-about-rewiring-mozilla = Mengubah { -brand-name-mozilla }: Mentransformasi AI Seperti Kami Mentransformasi Web. Pelajari strategi generasi terbaru kami dan bagaimana kami mentransformasi { -brand-name-mozilla } untuk Era AI.
+m24-about-what-comes-next = Masa depan teknologi adalah pilihan. Pilih bersama kami.
+m24-about-watch-here = Tonton di sini
+
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = Bisakah Teknologi Memiliki Dua Tolok Ukur Keberhasilan? Mark Surman membahas bagaimana kita dapat membangun ekosistem teknologi dengan dua tolok ukur — yang menghargai misi sekaligus keuntungan.
+m24-about-watch-now = Tonton sekarang
 
 ## Showcase
 
