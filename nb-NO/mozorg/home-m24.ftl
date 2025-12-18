@@ -101,12 +101,14 @@ m24-home-topic-ps = Personvern og sikkerhet
 m24-home-headline-you-ai-v2 = Du, AI og internett — hva skjer egentlig?
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } ønsker Raffi Krikorian velkommen som teknologidirektør
 m24-home-tech-target = Teknisk mål
+m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 }-sjefen snakker om fordelene med åpen kildekode for AI
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Introduksjon av Thundermail og Thunderbird Pro
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = FT
 
 ## Showcase
 
