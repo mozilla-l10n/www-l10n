@@ -36,6 +36,11 @@ m24-about-we-fund-and = Vi finansierer og investerer i menneskene og innsatsen s
 
 m24-about-read-more = Les mer
 m24-about-read-the-latest = Les de siste nyhetene og artiklene fra { -brand-name-mozilla }
+m24-about-what-comes-next = Det som kommer videre innen teknologi er et valg. Velg med oss.
+m24-about-watch-here = Se her
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = Kan vi ha en dobbel bunnlinje for teknologi? Mark Surman diskuterer hvordan vi kan bygge et teknologiøkosystem med en dobbel bunnlinje — et som verdsetter både oppdrag og penger.
+m24-about-watch-now = Se nå
 
 ## Showcase
 

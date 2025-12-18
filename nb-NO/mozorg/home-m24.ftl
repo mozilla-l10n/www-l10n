@@ -63,11 +63,21 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders hjelper uavhengige utviklere med å lage banebrytende AI-prosjekter med åpen kildekode gjennom samarbeid, programmering og fellesskap
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } hjelper uavhengige utviklere med å lage banebrytende AI-prosjekter med åpen kildekode gjennom skreddersydde samarbeider, programmering og fellesskap.
+m24-home-own-what-you = Ei det du bygger
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = Trenger vi en «LAMP-stabel» for AI-æraen? Vi trenger teknologi som er transparent, ansvarlig og eid av menneskene som bruker den.
 m24-home-watch-now = Se nå
+m24-home-choice-first-stack = Valg først-stabel
+m24-home-your-tools-your = Dine verktøy, ditt valg. En samlet åpen kildekode-stabel som forenkler bygging og testing av moderne AI-agenter og apper.
+m24-home-get-started-now = Kom i gang nå
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Taler på scenen med flere produktlogoer.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Har du en oppstartsbedrift i tidlig fase? Presenter bedriften din for { -brand-name-mozilla-ventures } og sikre finansiering for å drive positiv endring for fremtiden til AI og internett.
+m24-home-join-today = Bli med i dag
+m24-home-a-double-bottom = En dobbel bunnlinje for teknologi
+m24-home-mark-surman-discusses = Mark Surman diskuterer hvordan vi kan bygge et teknologiøkosystem med en dobbel bunnlinje — et som verdsetter både oppdrag og penger.
+m24-home-agent-platform = Agentplattform
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Enhver agent
 m24-home-stop-wiring-tools = Slutt å koble sammen verktøy og passe på skjøre automatiseringer. Med { -brand-name-mozilla-ai-v2 } Agent Platform beskriver du målet ditt, og vi genererer adaptive AI-agenter som fungerer med verktøyene og prosessene dine.
