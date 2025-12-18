@@ -99,6 +99,10 @@ m24-home-axios = Axios
 m24-home-fast-company = Compañía ipya’éva
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = Pe FT
+m24-home-rewiring-mozilla = { -brand-name-mozilla } jecablea jey: Ejapo IA rupi ejapova’ekue ñandutípe
+m24-home-interview-with-mark = Ñomongeta Mark Surman ndive: Mba’éicha { -brand-name-mozilla } ojeadapta IA oike rire
+m24-home-women-in-product = Kuñaita oñe’ẽva apopyrã rehegua: Emoinge GenAI ñepytyvõverã
+m24-home-scaling-open-source = Eiporu IA ijayvu jurujáva: Mark Surman ha Tim Bradshaw
 
 ## Showcase
 
