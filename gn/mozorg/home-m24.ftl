@@ -96,6 +96,7 @@ m24-home-what-comes-next = Oútava tembiporupyahu ndive eiporavokuaa. Eiporavo o
 m24-home-a-good-moment = «Mba’eporã oréve g̃uarã ko’ág̃a»: { -brand-name-firefox } oma’ẽ kundahárare IA ndive ha ñandutirogue renonderã.
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
+m24-home-mozillas-new-message = Ñe’ẽmondo pyahu { -brand-name-mozilla } mba’e: Orehína kundahára oykeko’ỹva ipirapire hetáva
 m24-home-fast-company = Compañía ipya’éva
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = Pe FT
@@ -118,6 +119,10 @@ m24-home-state-of-mozilla = { -brand-name-mozilla } rekotee
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Pixel art abstracto sa’ykuéra hovyũ, narã ha pytãngýpe
 m24-home-read-the-report = Emoñe’ẽ marandu’i
+
+## Nothing Personal
+
+m24-home-mozilla-nothing-personal = Nandereheguái
 
 ## Issues
 
