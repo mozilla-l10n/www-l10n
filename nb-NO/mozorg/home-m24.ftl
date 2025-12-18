@@ -152,6 +152,8 @@ m24-home-explore-issues-shaping = Utforsk problemstillinger som former fremtiden
 m24-home-the-validation-machines = The Validation Machines
 m24-home-in-the-atlantic = I The Atlantic spør { -brand-name-mozilla } sin CTO Raffi Krikorian hvorfor chatbotter og generativ AI er så ivrige etter å tilfredsstille oss – og hva det betyr for menneskeheten. (bilde gjengitt med tillatelse fra The Atlantic)
 # Used as an accessible text alternative for an image
+m24-home-alt-validation = En miniatyrperson som ser på en stor tast på tastaturet og en hypnotiserende dataskjerm
+# Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, programleder for IRL-podkasten.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = Vår prisbelønte podkast introduserer endringsskaperne som jobber for å gjøre internett tryggere og AI mer pålitelig.

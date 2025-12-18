@@ -9,8 +9,10 @@
 privacy-firefox-basics = Grunnleggende om personvern
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Du har kontrollen
+privacy-firefox-youre-in-control-v2 = Du har kontroll over dine data
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Personvern er ikke bare en innstilling – det er din rett. Personvernerklæringen for { -brand-name-firefox } er bygget på klarhet, kontroll og ansvarlige standardinnstillinger. Vi mener at du alltid bør ha kontroll over hva som skjer med dataene dine. Du kan stole på at vi tydelig forklarer hva { -brand-name-firefox } gjør som standard og justerer innstillingene dine slik at du kan surfe slik du vil.
+privacy-firefox-privacy-isnt-just-v2 = Her er helhetsbildet: { -brand-name-firefox } er bygget med personvern og beskyttelse som standard. Vi vet ikke så mye om deg. Det lille vi vet, selger vi aldri. Og i motsetning til andre nettlesere gir vi deg valget om å slå av det som irriterer deg. Personvernerklæringen for { -brand-name-firefox } er bygget på tydelighet, kontroll og ansvarlige standardinnstillinger. Du kan stole på at vi tydelig forklarer hva { -brand-name-firefox } gjør som standard, og at du kan justere innstillingene slik at du kan surfe slik du ønsker.
 privacy-firefox-read-our-privacy = Les vår personvernerklæring
 privacy-firefox-keeping-you-informed = Holder deg informert, hvert steg på veien
 privacy-firefox-we-believe-you = Vi mener du bør vite hvordan dataene dine brukes og hvorfor. { -brand-name-firefox } er bygget med personvern i tankene og åpenhet i hvert trinn.
@@ -20,6 +22,7 @@ privacy-firefox-transparency-first = Åpenhet først
 privacy-firefox-were-clear-about = Vi er tydelige på hvilke data vi bruker og hvorfor. Ingen overraskelser. <a { $attrs }>{ -brand-name-firefox } personvernerklæringen</a> beskriver dette for deg.
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Hvordan vi bruker data
+privacy-firefox-how-we-use-v2 = Privat som standard
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Vi bruker data for å holde { -brand-name-firefox } i gang uten problemer, forbedre funksjoner og bidra til å opprettholde virksomheten vår — alt samtidig som vi respekterer personvernet ditt. Noen valgfrie funksjoner kan kreve ytterligere data for å fungere, og vi gjør det enkelt å administrere dine innstillinger.
 # Variables:
