@@ -104,11 +104,15 @@ m24-home-tech-target = Teknisk mål
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 }-sjefen snakker om fordelene med åpen kildekode for AI
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Introduksjon av Thundermail og Thunderbird Pro
+m24-home-introducing-thundermail-and-v2 = Vi introduserer { -brand-name-thundermail } og { -brand-name-thunderbird-pro }
+m24-home-what-comes-next = Det som kommer videre innen teknologi er et valg. Velg med oss.
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = FT
+m24-home-rewiring-mozilla = Nytenking av { -brand-name-mozilla }: Å gjøre for AI det vi gjorde for nettet
+m24-home-interview-with-mark = Intervju med Mark Surman: Hvordan { -brand-name-mozilla } tilpasser seg AI-alderen
 
 ## Showcase
 
@@ -126,6 +130,10 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } gjenoppfinner s
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstrakt pikselkunst i nyanser av grønt, oransje og rosa
 m24-home-read-the-report = Les rapporten
+
+## Nothing Personal
+
+m24-home-mozilla-nothing-personal = Ingenting personlig
 
 ## Issues
 

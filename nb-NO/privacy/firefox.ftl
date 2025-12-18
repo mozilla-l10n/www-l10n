@@ -22,6 +22,9 @@ privacy-firefox-were-clear-about = Vi er tydelige på hvilke data vi bruker og h
 privacy-firefox-how-we-use = Hvordan vi bruker data
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Vi bruker data for å holde { -brand-name-firefox } i gang uten problemer, forbedre funksjoner og bidra til å opprettholde virksomheten vår — alt samtidig som vi respekterer personvernet ditt. Noen valgfrie funksjoner kan kreve ytterligere data for å fungere, og vi gjør det enkelt å administrere dine innstillinger.
+# Variables:
+#   $attrs (string) - link to https://firefox-source-docs.mozilla.org/contributing/data-collection.html#browsing-data
+privacy-firefox-we-use-data-v2 = I motsetning til mange andre nettlesere, der sensitive brukerdata rutinemessig samles inn og lagres, er { -brand-name-firefox } bygget på <a { $attrs }>prinsippet</a> om at ikke engang { -brand-name-mozilla } skal vite hvilke nettsteder du besøker eller hva du gjør der.
 privacy-firefox-builtin-control = Innebygd kontroll
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } gir deg enkle, men kraftige verktøy for å behandle dine data slik du ønsker. Du kan finjustere innstillingene dine, skille arbeid fra privatlivet ditt eller slette uønsket historikk med bare noen få klikk.
 privacy-firefox-always-protected = Alltid beskyttet

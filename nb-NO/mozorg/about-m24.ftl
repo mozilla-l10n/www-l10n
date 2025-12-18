@@ -36,6 +36,7 @@ m24-about-we-fund-and = Vi finansierer og investerer i menneskene og innsatsen s
 
 m24-about-read-more = Les mer
 m24-about-read-the-latest = Les de siste nyhetene og artiklene fra { -brand-name-mozilla }
+m24-about-rewiring-mozilla = Nytenking av { -brand-name-mozilla }: Å gjøre for AI det vi gjorde for nettet. Les om strategien vår for neste generasjon og hvordan vi forvandler { -brand-name-mozilla } for AI-æraen.
 m24-about-what-comes-next = Det som kommer videre innen teknologi er et valg. Velg med oss.
 m24-about-watch-here = Se her
 # "Double Bottom Line" refers to accounting for both money and mission values
