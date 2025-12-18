@@ -65,11 +65,11 @@ m24-home-builders-helps-independent = Builders 通过定制的协作方式、方
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } 通过定制的协作方式、方案、社区，帮助独立开发者创建耳目一新的开源 AI 项目。
 m24-home-own-what-you = 拥有您所构建的
 # "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
-m24-home-do-we-need-a = AI 时代我们需要一个“LAMP 栈”吗我们需要透明、可信赖并为用户所有的技术。
+m24-home-do-we-need-a = 在 AI 时代，我们是否也需要某种“LAMP 技术栈”？我们都需要透明、负责、可由用户掌握的技术。
 m24-home-watch-now = 立即观看
 m24-home-choice-first-stack = 选择第一个栈
 m24-home-your-tools-your = 您的工具您做主。一个统一的开源堆栈可简化现代 AI 代理与应用的构建与测试。
-m24-home-get-started-now = 现在开始
+m24-home-get-started-now = 立即使用
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = 演讲者站在舞台上，背景是许多产品的徽标。
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
@@ -78,7 +78,7 @@ m24-home-mozilla-data-collective = { -brand-name-mozilla } 数据共同体
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } 数据共同体正在以社区为核心，重新建立 AI 数据生态系统。通过透明且合乎道德的方式，提供由社区创建、为社区服务的 300 多个高质量全球数据集。
 m24-home-join-today = 今天就加入
 m24-home-a-double-bottom = 技术的双重底线
-m24-home-mark-surman-discusses = 马克·苏曼 (Mark Surman) 畅谈如何建立一个兼有使命和金钱的双底线科技生态系统。
+m24-home-mark-surman-discusses = 马克·瑟曼谈如何建立双重底线的技术生态系统，使之兼顾使命与金钱。
 m24-home-agent-platform = 智能体平台
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Any Agent
