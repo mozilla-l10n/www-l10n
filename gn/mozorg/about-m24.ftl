@@ -36,6 +36,8 @@ m24-about-we-fund-and = Rofinancia ha roinverti umi tapicha rehe ha ñeha’ã o
 
 m24-about-read-more = Emoñe’ẽve
 m24-about-read-the-latest = Emoñe’ẽ marandu pyahu ha { -brand-name-mozilla } ohaipyre
+m24-about-watch-here = Ema’ẽ ko’ág̃a
+m24-about-watch-now = Ema’ẽ ko’ág̃a
 
 ## Showcase
 
