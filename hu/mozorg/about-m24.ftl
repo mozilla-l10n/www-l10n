@@ -36,7 +36,7 @@ m24-about-we-fund-and = Olyan embereket és erőfeszítéseket finanszírozunk, 
 
 m24-about-read-more = Bővebben
 m24-about-read-the-latest = Olvassa el a { -brand-name-mozilla } legfrissebb híreit és cikkeit
-m24-about-rewiring-mozilla = { -brand-name-mozilla } újrahuzalozása: Azt csináljuk a mesterséges intelligenciáért, amit a webért tettünk. Olvasson a következő generációs stratégiánkról, és arról, hogyan alakítjuk át a(z) { -brand-name-mozilla } kiegészítőt az MI korszaka érdekében.
+m24-about-rewiring-mozilla = { -brand-name-mozilla } újrahuzalozása: Azt csináljuk a mesterséges intelligenciáért, amit a webért tettünk. Olvasson a következő generációs stratégiánkról, és arról, hogyan alakítjuk át a { -brand-name-mozilla(ending: "accented") }t az MI korszakára.
 m24-about-what-comes-next = Ami ezután következik a technológiában, az egy választás. Válasszon velünk.
 m24-about-watch-here = Nézze meg itt
 # "Double Bottom Line" refers to accounting for both money and mission values
