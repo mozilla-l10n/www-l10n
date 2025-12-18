@@ -16,12 +16,14 @@ reporting-how-to-give-a-report = 報告の送付方法
 reporting-if-you-believe-someone = 誰かが身体的危険に瀕していると考えられる場合は、地域の緊急電話番号に電話連絡してください。
 reporting-if-you-have-a-report-by = <strong>報告者・被報告者</strong><em>ともに</em>寄稿者である場合 (たとえば、<strong>ある寄稿者</strong>が<strong>別の寄稿者</strong>に関して報告する場合)、<a href="{ $community_hotline }">コミュニティ参加ガイドライン</a>のホットラインに報告する必要があります。
 reporting-if-you-have-a-report-by-email = <strong>報告者・被報告者</strong><em>ともに</em>寄稿者である場合 (たとえば、<strong>ある寄稿者</strong>が<strong>別の寄稿者</strong>に関して報告する場合)、<a href="{ $mailto_report }">cpg-report@mozilla.com</a> に報告する必要があります。
+reporting-if-you-have-a-report-involving-v2 = <strong>従業員</strong>に関する寄稿者からの報告がある場合は、<a href="{ $employee_hotline }">{ -brand-name-mozilla }従業員ホットライン</a>で報告してください。あなたが従業員で報告書を提出する必要がある場合は、{ -brand-name-mozilla } の社内方針および手順を参照して、利用可能な報告方法を確認してください。
 reporting-put-another-way = 別の方法で説明します。
 reporting-by = 報告者
 reporting-employee = 従業員
 reporting-contributor = 寄稿者
 reporting-about = 会社概要
 reporting-employee-hotline = 従業員ホットライン
+reporting-internal-policies = { -brand-name-mozilla } の社内方針および手順を参照
 reporting-contractor = 請負業者
 reporting-vendor = ベンダー
 reporting-if-someone-reports-to = 誰かに報告された場合
