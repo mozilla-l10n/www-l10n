@@ -36,13 +36,13 @@ m24-about-we-fund-and = Nous attribuons nos financements et investissements aux 
 
 m24-about-read-more = En savoir plus
 m24-about-read-the-latest = Lisez les derniers articles d’actualité sur { -brand-name-mozilla }
-m24-about-builders-program = { -brand-name-mozilla-builders } aide les développeurs et développeuses à créer des projets d’IA open source innovants grâce à des collaborations, une aide à la programmation et une communauté engagée.
-m24-about-at-our-rise25 = Nos { -brand-name-rise25 } Awards récompensent les IA dignes de confiance, inclusives et responsables, pour un avenir meilleur
-# Used as an accessible text alternative for an image
-m24-about-rise25-award = Une récipiendaire du prix { -brand-name-rise25 } désignant son trophée du doigt.
-m24-about-empowering-chicagos-entrepreneurs = Soutenir les entrepreneurs et entrepreneuses de Chicago pour favoriser le changement générationnel
-# Used as an accessible text alternative for an image
-m24-about-chicago = Un entrepreneur de Chicago.
+m24-about-rewiring-mozilla = Repenser { -brand-name-mozilla } : agir pour l’IA comme nous avons agi pour le Web. Découvrez notre stratégie concernant la nouvelle génération de technologies et la façon dont nous transformons { -brand-name-mozilla } pour l’ère de l’IA.
+m24-about-what-comes-next = Le futur de la tech est un choix. Faites ce choix avec nous.
+m24-about-watch-here = Regarder
+
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = La tech peut-elle générer un double bénéfice ? Mark Surman évoque la possibilité de construire un écosystème technologique offrant un double bénéfice : à la fois en termes de mission et d’argent.
+m24-about-watch-now = Regardez les vidéos
 
 ## Showcase
 
