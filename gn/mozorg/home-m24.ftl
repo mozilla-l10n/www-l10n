@@ -66,6 +66,8 @@ m24-home-alt-ventures = Ñe’ẽkuaahára tarímape apopyre ra’ãnga’i ndiv
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = ¿Ereko peteĩ jeku’erã ñepyrũ? Ehechauka ne mba’apohaguasu { -brand-name-mozilla-ventures }-pe ha ehupyty viru emongu’e hag̃ua ñemoambue porã IA ha ñanduti renonderã.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Mba’ekuaarã aty
+m24-home-join-today = Eike ko árape
+m24-home-agent-platform = Agente pyendavusu
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Oimeraẽva agénte
 
