@@ -91,12 +91,14 @@ m24-home-tech-target = Tembiporupyahu rehegua
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } CEO omombe’u iporãha IA ijayvu jurujáva
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Rohechauka Thundermail ha Thunderbird Pro
+m24-home-introducing-thundermail-and-v2 = Rohechauka { -brand-name-thundermail } ha { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Oútava tembiporupyahu ndive eiporavokuaa. Eiporavo orendive.
 m24-home-a-good-moment = «Mba’eporã oréve g̃uarã ko’ág̃a»: { -brand-name-firefox } oma’ẽ kundahárare IA ndive ha ñandutirogue renonderã.
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-fast-company = Compañía ipya’éva
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = Pe FT
 
 ## Showcase
 
