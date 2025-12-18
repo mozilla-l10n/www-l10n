@@ -113,6 +113,8 @@ m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = FT
 m24-home-rewiring-mozilla = Nytenking av { -brand-name-mozilla }: Å gjøre for AI det vi gjorde for nettet
 m24-home-interview-with-mark = Intervju med Mark Surman: Hvordan { -brand-name-mozilla } tilpasser seg AI-alderen
+m24-home-women-in-product = Kvinner i produkt-samtalen: Legge til generativ AI uten å miste oversikten
+m24-home-scaling-open-source = Skalering av åpen kildekode-basert AI: Mark Surman og Tim Bradshaw
 
 ## Showcase
 
