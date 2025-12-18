@@ -12,6 +12,7 @@ privacy-firefox-youre-in-control = Máte to pod kontrolou
 privacy-firefox-youre-in-control-v2 = Máte kontrolu nad svojimi údajmi
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Ochrana osobných údajov nie je len nastavenie – je to vaše právo. Vyhlásenie o ochrane osobných údajov { -brand-name-firefox(case: "gen") } je založené na jasnosti, kontrole a zodpovedných predvolených nastaveniach. Veríme, že by ste mali mať vždy kontrolu nad tým, čo sa deje s vašimi údajmi. Môžete sa na nás spoľahnúť, že vám jasne vysvetlíme, čo { -brand-name-firefox } robí štandardne, a upravíme vaše nastavenia tak, aby ste si mohli prehliadať web podľa svojich predstáv.
+privacy-firefox-privacy-isnt-just-v2 = Tu je celkový obraz: { -brand-name-firefox } je vytvorený so súkromím a jeho ochranou na prvom mieste. O vás toho veľa nevieme. To málo, čo vieme, nikdy nepredávame. A na rozdiel od iných prehliadačov vám dávame možnosť vypnúť veci, ktoré vás otravujú. Vyhlásenie o ochrane osobných údajov vo { -brand-name-firefox(case: "loc") } je založené na jasnosti, kontrole a zodpovedných predvolených nastaveniach. Môžete sa na nás spoľahnúť, že vám jasne vysvetlíme, čo { -brand-name-firefox } robí štandardne, a upravíme vaše nastavenia tak, aby ste si mohli prehliadať web podľa svojich predstáv.
 privacy-firefox-read-our-privacy = Prečítajte si naše Vyhlásenie o ochrane osobných údajov
 privacy-firefox-keeping-you-informed = Budeme vás informovať v každom kroku
 privacy-firefox-we-believe-you = Veríme, že by ste mali vedieť, ako sa vaše údaje používajú a prečo. { -brand-name-firefox } je vytvorený s ohľadom na súkromie a transparentnosť v každom kroku.
@@ -21,6 +22,7 @@ privacy-firefox-transparency-first = Transparentnosť na prvom mieste
 privacy-firefox-were-clear-about = Jasne uvádzame, aké údaje používame a prečo. Žiadne prekvapenia. Podrobnosti nájdete vo <a { $attrs }>Vyhlásení o ochrane osobných údajov { -brand-name-firefox(case: "gen") }</a>.
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Ako používame údaje
+privacy-firefox-how-we-use-v2 = Súkromie na prvom mieste
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Údaje používame na zabezpečenie bezproblémového chodu prehliadača { -brand-name-firefox }, na zlepšenie funkcií a na udržanie nášho podnikania – a to všetko s rešpektom k vášmu súkromiu. Niektoré voliteľné funkcie môžu na fungovanie vyžadovať dodatočné údaje a my vám uľahčujeme správu vašich preferencií.
 # Variables:

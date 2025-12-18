@@ -63,7 +63,11 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Inicitíva Builders pomáha nezávislým vývojárom vytvárať transformačné open-source AI projekty vďaka spolupráci komunity pri programovaní.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } pomáha nezávislým vývojárom vytvárať transformačné projekty umelej inteligencie s otvoreným zdrojom prostredníctvom spolupráce na mieru, programovania a komunity.
+m24-home-own-what-you = Vlastnite to, čo vybudujete
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = Potrebujeme „LAMP Stack“ pre éru umelej inteligencie? Potrebujeme technológiu, ktorá je transparentná, zodpovedná a vlastnená ľuďmi, ktorí ju používajú.
 m24-home-watch-now = Sledovať teraz
+m24-home-choice-first-stack = Voľba prvého zásobníka
 m24-home-your-tools-your = Vaše nástroje, vaša voľba. Zjednotený open-source balík, ktorý zjednodušuje vytváranie a testovanie moderných agentov a aplikácií umelej inteligencie.
 m24-home-get-started-now = Začnite teraz
 # Used as an accessible text alternative for an image
@@ -75,6 +79,7 @@ m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective pr
 m24-home-join-today = Pridajte sa ešte dnes
 m24-home-a-double-bottom = Dvojitý zisk pre technológie
 m24-home-mark-surman-discusses = Mark Surman diskutuje o tom, ako môžeme vybudovať technologický ekosystém s dvojitým ziskom – taký, ktorý si cení poslanie aj peniaze.
+m24-home-agent-platform = Platforma agenta
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Akýkoľvek agent
 m24-home-stop-wiring-tools = Prestaňte s prepojovaním nástrojov a strážením krehkých automatizácií. S platformou agentov { -brand-name-mozilla-ai-v2 } popíšete svoj cieľ a my vygenerujeme adaptívnych agentov s umelou inteligenciou, ktorí budú spolupracovať s vašimi nástrojmi a procesmi.
@@ -109,7 +114,10 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = Nová správa od { -brand-name-mozilla(case: "gen") }: Sme jediný prehliadač, ktorý nepodporujú miliardári
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = Financial Times
+m24-home-rewiring-mozilla = Prepracovanie { -brand-name-mozilla(case: "gen") }: Robíme pre AI to, čo sme urobili pre web
 m24-home-interview-with-mark = Rozhovor s Markom Surmanom: Ako sa { -brand-name-mozilla } prispôsobuje veku umelej inteligencie
+m24-home-scaling-open-source = Škálovanie open source AI: Mark Surman a Tim Bradshaw
 
 ## Showcase
 
@@ -124,12 +132,17 @@ m24-home-alt-rise25-smiling = Sebavedomý usmievavý rečník na odovzdávaní c
 m24-home-alt-rise25-joyous = Radostný ocenený pri odovzdávaní cien { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Stav { -brand-name-mozilla(case: "gen") }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } sa znovu objavuje, diverzifikuje okolo konštelácie organizácií, pretvára reklamu a vytvára ekosystém založený na AI a otvorenom kóde. Prečítajte si o tom v Správe o stave { -brand-name-mozilla(case: "gen") } za rok 2024.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } sa znovu objavuje, diverzifikuje okolo konštelácie organizácií, pretvára reklamu a vytvára ekosystém založený na AI a otvorenom kóde. Prečítajte si o tom v Správe o stave { -brand-name-mozilla(case: "gen") } za rok { $year }.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstraktný pixel art v odtieňoch zelenej, oranžovej a ružovej
 m24-home-read-the-report = Prečítajte si správu
 
 ## Nothing Personal
 
+m24-home-mozilla-nothing-personal = Nič osobné
+m24-home-our-new-magazine = Náš nový časopis pre nezávislých mysliteľov, technológov a kreatívcov v popredí digitálnej kultúry.
 m24-home-read-now = Prečítať teraz
 
 ## Issues

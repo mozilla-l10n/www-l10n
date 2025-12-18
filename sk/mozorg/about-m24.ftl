@@ -36,6 +36,7 @@ m24-about-we-fund-and = Financujeme a investujeme do ľudí a úsilia, ktoré po
 
 m24-about-read-more = Prečítajte si viac
 m24-about-read-the-latest = Prečítajte si najnovšie novinky a články o { -brand-name-mozilla(case: "loc") }
+m24-about-rewiring-mozilla = Prepracovanie { -brand-name-mozilla(case: "gen") }: Robíme pre AI to, čo sme urobili pre web. Prečítajte si o našej stratégii novej generácie a o tom, ako transformujeme { -brand-name-mozilla(case: "acc") } pre éru umelej inteligencie.
 m24-about-what-comes-next = Čo bude ďalej v oblasti technológií, je otázka voľby. Vyberte si s nami.
 m24-about-watch-here = Sledujte tu
 # "Double Bottom Line" refers to accounting for both money and mission values
