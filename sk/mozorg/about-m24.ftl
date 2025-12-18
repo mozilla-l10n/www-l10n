@@ -36,6 +36,11 @@ m24-about-we-fund-and = Financujeme a investujeme do ľudí a úsilia, ktoré po
 
 m24-about-read-more = Prečítajte si viac
 m24-about-read-the-latest = Prečítajte si najnovšie novinky a články o { -brand-name-mozilla(case: "loc") }
+m24-about-what-comes-next = Čo bude ďalej v oblasti technológií, je otázka voľby. Vyberte si s nami.
+m24-about-watch-here = Sledujte tu
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = Môžeme mať dvojitý zisk v oblasti technológií? Mark Surman diskutuje o tom, ako môžeme vybudovať technologický ekosystém s dvojitým ziskom – taký, ktorý si cení poslanie aj peniaze.
+m24-about-watch-now = Pozrieť teraz
 
 ## Showcase
 

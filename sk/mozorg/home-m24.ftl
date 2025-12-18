@@ -64,12 +64,17 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Inicitíva Builders pomáha nezávislým vývojárom vytvárať transformačné open-source AI projekty vďaka spolupráci komunity pri programovaní.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } pomáha nezávislým vývojárom vytvárať transformačné projekty umelej inteligencie s otvoreným zdrojom prostredníctvom spolupráce na mieru, programovania a komunity.
 m24-home-watch-now = Sledovať teraz
+m24-home-your-tools-your = Vaše nástroje, vaša voľba. Zjednotený open-source balík, ktorý zjednodušuje vytváranie a testovanie moderných agentov a aplikácií umelej inteligencie.
+m24-home-get-started-now = Začnite teraz
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Reproduktor na pódiu s viacerými logami produktov.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Začínate svoj veľký projekt? Prezentujte svoju spoločnosť v { -brand-name-mozilla-ventures } a zabezpečte si financovanie na podporu pozitívnej zmeny pre budúcnosť AI a internetu.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective prestavuje ekosystém dát umelej inteligencie s komunitami v centre pozornosti. Získajte prístup k viac ako 300 vysokokvalitným globálnym kolekciám údajov, ktoré boli vytvorené komunitou a pre komunitu transparentným a etickým spôsobom.
+m24-home-join-today = Pridajte sa ešte dnes
+m24-home-a-double-bottom = Dvojitý zisk pre technológie
+m24-home-mark-surman-discusses = Mark Surman diskutuje o tom, ako môžeme vybudovať technologický ekosystém s dvojitým ziskom – taký, ktorý si cení poslanie aj peniaze.
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Akýkoľvek agent
 m24-home-stop-wiring-tools = Prestaňte s prepojovaním nástrojov a strážením krehkých automatizácií. S platformou agentov { -brand-name-mozilla-ai-v2 } popíšete svoj cieľ a my vygenerujeme adaptívnych agentov s umelou inteligenciou, ktorí budú spolupracovať s vašimi nástrojmi a procesmi.
@@ -104,6 +109,7 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = Nová správa od { -brand-name-mozilla(case: "gen") }: Sme jediný prehliadač, ktorý nepodporujú miliardári
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-interview-with-mark = Rozhovor s Markom Surmanom: Ako sa { -brand-name-mozilla } prispôsobuje veku umelej inteligencie
 
 ## Showcase
 
@@ -121,6 +127,10 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } sa znovu objavu
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstraktný pixel art v odtieňoch zelenej, oranžovej a ružovej
 m24-home-read-the-report = Prečítajte si správu
+
+## Nothing Personal
+
+m24-home-read-now = Prečítať teraz
 
 ## Issues
 
