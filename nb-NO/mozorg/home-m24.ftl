@@ -74,6 +74,8 @@ m24-home-get-started-now = Kom i gang nå
 m24-home-alt-ventures = Taler på scenen med flere produktlogoer.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Har du en oppstartsbedrift i tidlig fase? Presenter bedriften din for { -brand-name-mozilla-ventures } og sikre finansiering for å drive positiv endring for fremtiden til AI og internett.
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Datakollektiv
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective gjenoppbygger AI-dataøkosystemet med fellesskap i sentrum.
 m24-home-join-today = Bli med i dag
 m24-home-a-double-bottom = En dobbel bunnlinje for teknologi
 m24-home-mark-surman-discusses = Mark Surman diskuterer hvordan vi kan bygge et teknologiøkosystem med en dobbel bunnlinje — et som verdsetter både oppdrag og penger.
@@ -106,8 +108,10 @@ m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 }-sjefen snakker om fordel
 m24-home-introducing-thundermail-and = Introduksjon av Thundermail og Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Vi introduserer { -brand-name-thundermail } og { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Det som kommer videre innen teknologi er et valg. Velg med oss.
+m24-home-a-good-moment = «Et godt tidspunkt for oss»: { -brand-name-firefox } fokuserer på AI-nettlesere og hva som er det neste for nettet
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
+m24-home-mozillas-new-message = { -brand-name-mozilla } sitt nye budskap: Vi er den eneste nettleseren som ikke er støttet av milliardærer
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = FT
@@ -129,6 +133,9 @@ m24-home-alt-rise25-smiling = En selvsikker smilende foredragsholder hos { -bran
 m24-home-alt-rise25-joyous = En gledelig æresvinner hos { -brand-name-rise25 }.
 m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } gjenoppfinner seg selv, diversifiserer seg rundt en konstellasjon av organisasjoner, tenker nytt om reklame og skaper et åpen kildekode-økosystem for kunstig intelligens. Les om dette i rapporten State of { -brand-name-mozilla } 2024.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } gjenoppfinner seg selv, diversifiserer seg rundt en konstellasjon av organisasjoner, tenker nytt om reklame og skaper et åpen kildekode-økosystem for kunstig intelligens. Les om dette i rapporten State of { -brand-name-mozilla } { $year }.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstrakt pikselkunst i nyanser av grønt, oransje og rosa
 m24-home-read-the-report = Les rapporten
@@ -136,10 +143,14 @@ m24-home-read-the-report = Les rapporten
 ## Nothing Personal
 
 m24-home-mozilla-nothing-personal = Ingenting personlig
+m24-home-our-new-magazine = Vårt nye magasin for uavhengige tenkere, teknologer og kreative på frontlinjen av den digitale kulturen.
+m24-home-read-now = Les nå
 
 ## Issues
 
 m24-home-explore-issues-shaping = Utforsk problemstillinger som former fremtidens internett
+m24-home-the-validation-machines = The Validation Machines
+m24-home-in-the-atlantic = I The Atlantic spør { -brand-name-mozilla } sin CTO Raffi Krikorian hvorfor chatbotter og generativ AI er så ivrige etter å tilfredsstille oss – og hva det betyr for menneskeheten. (bilde gjengitt med tillatelse fra The Atlantic)
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, programleder for IRL-podkasten.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
