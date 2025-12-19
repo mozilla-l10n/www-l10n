@@ -63,13 +63,23 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders hỗ trợ các nhà phát triển độc lập trong việc tạo ra các dự án AI nguồn mở mang tính chất biến đổi thông qua sự hợp tác, lập trình và cộng đồng được thiết kế riêng biệt.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } hỗ trợ các nhà phát triển độc lập trong việc tạo ra các dự án AI nguồn mở mang tính chất biến đổi thông qua sự hợp tác, lập trình và cộng đồng được thiết kế riêng biệt.
+m24-home-own-what-you = Sở hữu những gì bạn xây dựng
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = Liệu chúng ta có cần một "LAMP Stack" cho kỷ nguyên AI? Chúng ta cần công nghệ minh bạch, có trách nhiệm và thuộc sở hữu của những người sử dụng nó.
 m24-home-watch-now = Xem ngay
+m24-home-choice-first-stack = Lựa chọn công nghệ đầu tiên
+m24-home-your-tools-your = Công cụ của bạn, lựa chọn của bạn. Một nền tảng mã nguồn mở thống nhất, giúp đơn giản hóa việc xây dựng và kiểm thử các agent và ứng dụng AI hiện đại.
+m24-home-get-started-now = Bắt đầu ngay
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Diễn giả trên sân khấu với nhiều logo sản phẩm.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Bạn đã khởi nghiệp ở giai đoạn đầu? Giới thiệu công ty của bạn tới { -brand-name-mozilla-ventures } và đảm bảo nguồn tài trợ để thúc đẩy sự thay đổi tích cực cho tương lai của AI và Internet.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective đang xây dựng lại hệ sinh thái dữ liệu AI lấy cộng đồng làm trung tâm. Truy cập hơn 300 bộ dữ liệu toàn cầu chất lượng cao, được xây dựng bởi và dành cho cộng đồng một cách minh bạch và có đạo đức.
+m24-home-join-today = Tham gia ngay hôm nay
+m24-home-a-double-bottom = Lợi nhuận kép cho ngành công nghệ
+m24-home-mark-surman-discusses = Mark Surman thảo luận về cách chúng ta có thể xây dựng một hệ sinh thái công nghệ với mục tiêu kép — một hệ sinh thái coi trọng cả sứ mệnh và lợi nhuận.
+m24-home-agent-platform = Nền tảng agent
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Any Agent
 m24-home-stop-wiring-tools = Dừng việc nối các công cụ lại với nhau và trông chừng các thiết bị tự động dễ vỡ. Với nền tảng { -brand-name-mozilla-ai-v2 } Agent, bạn sẽ mô tả mục tiêu của mình và chúng tôi sẽ tạo ra các AI agent thích ứng hoạt động với các công cụ và quy trình của bạn.
@@ -104,6 +114,11 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = Tin nhắn mới của { -brand-name-mozilla }: Chúng tôi là trình duyệt duy nhất không do các tỷ phú hỗ trợ
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = The FT
+m24-home-rewiring-mozilla = Tái cấu trúc { -brand-name-mozilla }: Làm cho AI những gì chúng ta đã làm cho web
+m24-home-interview-with-mark = Phỏng vấn Mark Surman: { -brand-name-mozilla } đang thích ứng với kỷ nguyên trí tuệ nhân tạo như thế nào
+m24-home-women-in-product = Cuộc trò chuyện Women In Product: Tích hợp GenAI mà không làm mất đi bản sắc riêng
+m24-home-scaling-open-source = Mở rộng quy mô AI mã nguồn mở: Mark Surman & Tim Bradshaw
 
 ## Showcase
 
@@ -118,9 +133,18 @@ m24-home-alt-rise25-smiling = Một diễn giả mỉm cười tự tin tại { 
 m24-home-alt-rise25-joyous = Một người được vinh danh vui vẻ tại { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Tình trạng của { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } đang tự đổi mới, đa dạng hóa xung quanh một nhóm các tổ chức, định hình lại hoạt động quảng cáo và tạo ra một hệ sinh thái AI nguồn mở. Đọc về nó trong báo cáo Tình trạng của { -brand-name-mozilla } 2024.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } đang tự đổi mới, đa dạng hóa xung quanh một nhóm các tổ chức, định hình lại hoạt động quảng cáo và tạo ra một hệ sinh thái AI nguồn mở. Đọc về nó trong báo cáo Tình trạng của { -brand-name-mozilla } năm { $year }.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Nghệ thuật pixel trừu tượng với các sắc thái xanh lá cây, cam và hồng
 m24-home-read-the-report = Đọc báo cáo
+
+## Nothing Personal
+
+m24-home-mozilla-nothing-personal = Nothing Personal
+m24-home-our-new-magazine = Tạp chí mới của chúng tôi dành cho những người có tư duy độc lập, các chuyên gia công nghệ và những người sáng tạo tiên phong trong văn hóa kỹ thuật số.
+m24-home-read-now = Đọc ngay
 
 ## Issues
 

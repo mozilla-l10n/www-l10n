@@ -36,6 +36,12 @@ m24-about-we-fund-and = Chúng tôi tài trợ và đầu tư vào con người 
 
 m24-about-read-more = Đọc thêm
 m24-about-read-the-latest = Đọc tin tức & bài viết mới nhất của { -brand-name-mozilla }
+m24-about-rewiring-mozilla = Tái cấu trúc { -brand-name-mozilla }: Chúng tôi đang làm cho AI những gì chúng tôi đã làm cho Web. Hãy đọc về chiến lược thế hệ tiếp theo của chúng tôi và cách chúng tôi đang chuyển đổi { -brand-name-mozilla } cho kỷ nguyên trí tuệ nhân tạo.
+m24-about-what-comes-next = Điều tiếp theo trong công nghệ là sự lựa chọn. Hãy lựa chọn cùng chúng tôi.
+m24-about-watch-here = Xem tại đây
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = Liệu chúng ta có thể đạt được mục tiêu kép trong lĩnh vực công nghệ? Mark Surman thảo luận về cách chúng ta có thể xây dựng một hệ sinh thái công nghệ với mục tiêu kép — một hệ sinh thái coi trọng cả sứ mệnh và lợi nhuận.
+m24-about-watch-now = Xem ngay
 
 ## Showcase
 
