@@ -128,6 +128,8 @@ m24-home-read-the-report = Läs rapporten
 
 ## Nothing Personal
 
+m24-home-mozilla-nothing-personal = Inget personligt
+m24-home-our-new-magazine = Vår nya tidskrift för oberoende tänkare, teknologer och kreatörer i frontlinjen inom digital kultur.
 m24-home-read-now = Läs nu
 
 ## Issues
