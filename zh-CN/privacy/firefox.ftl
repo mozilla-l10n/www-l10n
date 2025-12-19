@@ -12,7 +12,6 @@ privacy-firefox-youre-in-control = 您的隐私您做主
 privacy-firefox-youre-in-control-v2 = 您的数据您做主
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = 隐私不仅是项设置，更是您拥有的权利。{ -brand-name-firefox } 隐私声明基于明确、可控、负责任的默认设置拟定。我们认为，您理应始终有权决定自己数据的处理方式。我们愿阐明 { -brand-name-firefox } 的默认处理方式，而您也可以调整设置以按自己希望的方式来浏览。
-privacy-firefox-privacy-isnt-just-v2 = 总体情况{ -brand-name-firefox } 内置默认隐私和保护功能。我们对您的了解不多。固若金汤我们永不出售。与其他浏览器不同的是我们让您可以选择关闭那些让您不快的功能。 { -brand-name-firefox } 隐私声明建立在清晰、可控和负责任的默认设置的基础上。您可以放心我们为您解释 { -brand-name-firefox } 默认情况下的功能并调整您的设置让您可以按自己的方式浏览。
 privacy-firefox-read-our-privacy = 阅读我们的隐私声明
 privacy-firefox-keeping-you-informed = 让您全程知情
 privacy-firefox-we-believe-you = 我们认为，您理应有权知道自己的数据因何种原因、以何种方式被使用。{ -brand-name-firefox } 将隐私根植于设计理念，每一处理步骤都公开透明。
