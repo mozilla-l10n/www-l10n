@@ -114,6 +114,7 @@ m24-home-read-the-report = Lexoni raportin
 ## Nothing Personal
 
 m24-home-mozilla-nothing-personal = Asgjë Personale
+m24-home-read-now = Lexojeni Tani
 
 ## Issues
 
