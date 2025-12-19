@@ -139,6 +139,7 @@ m24-home-read-the-report = Leggi il rapporto
 ## Nothing Personal
 
 m24-home-mozilla-nothing-personal = Nothing Personal
+m24-home-read-now = Leggi ora
 
 ## Issues
 
