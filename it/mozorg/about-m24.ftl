@@ -36,6 +36,10 @@ m24-about-we-fund-and = Finanziamo e investiamo nelle persone e nei progetti che
 
 m24-about-read-more = Ulteriori informazioni
 m24-about-read-the-latest = Leggi le notizie e gli articoli più recenti su { -brand-name-mozilla }
+m24-about-rewiring-mozilla = Ristrutturando { -brand-name-mozilla }: facciamo per l’IA ciò che abbiamo fatto per il Web. Scopri la nostra strategia di nuova generazione e come stiamo trasformando { -brand-name-mozilla } per l’era dell’IA.
+m24-about-what-comes-next = Il futuro della tecnologia è una scelta. Scegli insieme a noi.
+m24-about-watch-here = Guarda il video
+m24-about-watch-now = Guarda ora
 
 ## Showcase
 
