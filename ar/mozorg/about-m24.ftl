@@ -36,8 +36,12 @@ m24-about-we-fund-and = نموّل ونستثمر في الأشخاص والجه
 
 m24-about-read-more = اطَّلِع على المزيد
 m24-about-read-the-latest = اقرأ أحدث أخبار ومقالات { -brand-name-mozilla }:
+m24-about-rewiring-mozilla = إعادة هندسة { -brand-name-mozilla }: نُقدّم للذكاء الاصطناعي ما قدّمناه للويب سابقًا. تعرّف على استراتيجيتنا من الجيل القادم وكيف نعمل على تحويل { -brand-name-mozilla } بما يُناسب عصر الذكاء الاصطناعي.
 m24-about-what-comes-next = ما سيأتي بعد ذلك في عالم التقنية هو خيار. اختَر معنا.
+m24-about-watch-here = شاهد هنا
 
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = هل يمكن أن يكون للتكنولوجيا معيار مزدوج لقياس القيمة؟ يناقش مارك سورمان كيف يُمكننا بناء منظومة تقنية ذات معيار مزدوج لقياس القيمة — منظومة تُقدّر الرسالة إلى جانب العائد المالي.
 m24-about-watch-now = شاهد الآن
 
 ## Showcase

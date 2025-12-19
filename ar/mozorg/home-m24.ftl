@@ -64,14 +64,24 @@ m24-home-mozilla-builders = مُطوّرو وبُناة { -brand-name-mozilla }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = يساعد برنامج Builders المُطوّرين المستقلين على إنشاء مشاريع ذكاء اصطناعي مفتوحة المصدر من خلال التعاون المُخصّص والبرمجة والمجتمع.
 m24-home-builders-helps-independent-v2 = يُساعد برنامج { -brand-name-mozilla-builders } المُطوّرين المُستقلين على إنشاء مشاريع ذكاء اصطناعي مفتوحة المصدر وثورية من خلال التعاون المُخصّص والبرمجة والمجتمع.
+m24-home-own-what-you = امتلك ما تبنيه
 
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = هل نحتاج إلى "حزمة LAMP" لِعصر الذكاء الاصطناعي؟ نحن بحاجة إلى تقنيات تتسم بالشفافية والمُساءلة وتخضع لملكية الأشخاص الذين يستخدمونها.
 m24-home-watch-now = شاهد الآن
+m24-home-choice-first-stack = حزمة الخيار الأول
+m24-home-your-tools-your = أدواتك، اختيارك. حزمة مفتوحة المصدر موحّدة تُسهّل بناء واختبار وكلاء وتطبيقات الذكاء الاصطناعي الحديثة.
+m24-home-get-started-now = ابدأ الآن
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = مُتحدّث على المنصة الرئيسية وسط العديد من شعارات المنتجات.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = هل تمتلك شركة ناشئة في مراحلها الأولى؟ قدّم شركتك لـ { -brand-name-mozilla-ventures } واحصل على تمويل لدفع التغيير الإيجابي لمستقبل الذكاء الاصطناعي والإنترنت.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } جمع البيانات
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } جمع البيانات هو إعادة بناء منظومة بيانات الذكاء الاصطناعي مع المجتمعات في المركز.
+m24-home-join-today = انضم اليوم
+m24-home-a-double-bottom = معيار مزدوج لقياس القيمة في التكنولوجيا
+m24-home-mark-surman-discusses = يناقش مارك سورمان كيف يُمكننا بناء منظومة تقنية ذات معيار مزدوج لقياس القيمة — منظومة تُقدّر الرسالة إلى جانب العائد المالي.
+m24-home-agent-platform = منصة الوكلاء
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = أي وكيل
 m24-home-stop-wiring-tools = توقّف عن ربط الأدوات ببعضها ورعاية الأتمتات الهشّة. مع منصة وكلاء { -brand-name-mozilla-ai-v2 }، فأنت تصف هدفك، ونحن نُنشئ وكلاء ذكاء اصطناعي متكيّفين يعملون مع أدواتك وعملياتك.
@@ -106,6 +116,11 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = الرسالة الجديدة لـ { -brand-name-mozilla }: نحن المتصفح الوحيد غير المدعوم من المليارديرات
 m24-home-fast-company = شركة سريعة
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = The FT
+m24-home-rewiring-mozilla = إعادة توصيل { -brand-name-mozilla }: نُقدّم للذكاء الاصطناعي ما قدّمناه للويب سابقًا
+m24-home-interview-with-mark = مقابلة مع مارك سورمان: كيف تتكيّف { -brand-name-mozilla } مع عصر الذكاء الاصطناعي
+m24-home-women-in-product = حوار السيدات في مجال المنتجات: إضافة الذكاء الاصطناعي التوليدي (GenAI) دون فقدان الرؤية الأساسية
+m24-home-scaling-open-source = توسيع نطاق الذكاء الاصطناعي مفتوح المصدر: مارك سورمان وتيم برادشو
 
 ## Showcase
 
@@ -121,12 +136,18 @@ m24-home-alt-rise25-joyous = فائزة سعيدة بالتكريم في { -bran
 m24-home-state-of-mozilla = حالة { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = تعمل { -brand-name-mozilla } على إعادة ابتكار ذاتها وتتنوّع وسط مجموعة من المُؤسسات وتعيد تصوّر الإعلان وتوفّر نظامًا بيئيًا مفتوح المصدر للذكاء الاصطناعي. اقرأ عنها في تقرير حالة { -brand-name-mozilla } لِعام 2024.
 
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = تعمل { -brand-name-mozilla } على إعادة ابتكار ذاتها وتتنوّع وسط مجموعة من المُؤسسات وتعيد تصوّر الإعلان وتوفّر نظامًا بيئيًا مفتوح المصدر للذكاء الاصطناعي. تعرّف على المزيد في تقرير حالة { -brand-name-mozilla } { $year }.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = صورة بكسل تجريدية بألوان الظلال الخضراء والبرتقاليّة والورديّة
 m24-home-read-the-report = اقرأ التقرير
 
 ## Nothing Personal
 
+m24-home-mozilla-nothing-personal = ليس للأمر علاقة بالأمور الشخصية
+m24-home-our-new-magazine = مجلتنا الجديدة للمفكرين المستقلين والتقنيين والمبدعين الذين يتصدّرون المشهد الرقمي.
+m24-home-read-now = اقرأ الآن
 
 ## Issues
 
