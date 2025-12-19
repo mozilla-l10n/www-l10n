@@ -16,12 +16,14 @@ reporting-how-to-give-a-report = Wie Meldung erstattet wird
 reporting-if-you-believe-someone = Falls du glaubst, dass jemand in physischer Gefahr ist, ruf deine lokale Notrufnummer an.
 reporting-if-you-have-a-report-by = Falls eine Meldung <strong>von <em>und</em> über</strong> einen Mitwirkenden erstattet wird, (z. B. <strong>von</strong> einem Mitwirkenden <strong>über</strong> einen anderen), solltest du über die <a href="{ $community_hotline }">Hotline zu den Richtlinien für das Mitwirken in der Community</a> Meldung erstatten.
 reporting-if-you-have-a-report-by-email = Falls eine Meldung <strong>von <em>und</em> über</strong> einen Mitwirkenden erstattet wird, (z. B. <strong>von</strong> einem Mitwirkenden <strong>über</strong> einen anderen), solltest du per E-Mail an <a href="{ $mailto_report }">cpg-report@mozilla.com</a> Meldung erstatten.
+reporting-if-you-have-a-report-involving-v2 = Falls du eine Meldung von Mitwirkenden über <strong>Mitarbeitende</strong> hast, solltest du sie über die <a href="{ $employee_hotline }">{ -brand-name-mozilla } Mitarbeiter-Hotline</a> melden. Wenn du ein Mitarbeiter oder eine Mitarbeiterin bist und etwas melden möchtest, schaue dir bitte die internen Richtlinien und Abläufe von { -brand-name-mozilla } an, um zu erfahren, welche Möglichkeiten du für eine Meldung hast.
 reporting-put-another-way = Anders ausgedrückt …
 reporting-by = Von
 reporting-employee = Mitarbeiter
 reporting-contributor = Mitwirkende
 reporting-about = Über
 reporting-employee-hotline = Mitarbeiter-Hotline
+reporting-internal-policies = Beziehe dich auf die internen Richtlinien und Abläufe von { -brand-name-mozilla }
 reporting-contractor = Auftragnehmer
 reporting-vendor = Anbieter
 reporting-if-someone-reports-to = Wenn jemand Folgendes meldet…
