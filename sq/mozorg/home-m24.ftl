@@ -60,24 +60,39 @@ m24-home-our-mission-is = Misioni ynë është ta bëjmë të lehtë për njerë
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-watch-now = Shiheni tani
+m24-home-get-started-now = Fillojani tani
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Folës në skenë me stema produktesh të ndryshëm.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-join-today = Ejani që sot
+m24-home-agent-platform = Platformë Agjenti
+# Obsolete string (expires 2026-04-05)
+m24-home-any-agent = Cilido Agjent
 
 ## Media Springboard
 
 m24-home-type = Lloj
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Autor
+m24-home-author-v2 = Autor(ë)
 m24-home-topic = Temë
 m24-home-intro = Hyrje
 m24-home-tag-article = Artikull
 m24-home-tag-podcast = Podkast
 m24-home-tag-video = Video
 m24-home-topic-news = Lajme
+m24-home-topic-products = Produkte
 m24-home-topic-ai = Inteligjencë Artificiale
+m24-home-topic-open-source-ai = IA me Burim të Hapët
 m24-home-topic-ps = Privatësi & Siguri
 m24-home-headline-you-ai-v2 = Ju, IA dhe interneti — ç’po ndodh në të vërtetë?
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } i jep mirëseardhjen Raffi Krikorian-it si CTO
+m24-home-mozilla-ai-ceo = CEO i { -brand-name-mozilla-ai-v2 } flet për përparësitë e IA-s me burim të hapët
+# Obsolete string (expires 2026-03-01)
+m24-home-introducing-thundermail-and = Prezantim i Thundermail-it dhe Thunderbird Pro-së
+m24-home-introducing-thundermail-and-v2 = Prezantim i { -brand-name-thundermail }-it dhe { -brand-name-thunderbird-pro }-së
+m24-home-mozillas-new-message = Mesazhi i ri i { -brand-name-mozilla }-s: Jemi i vetmi shfletues që s’ka miliarderë nga pas
+m24-home-interview-with-mark = Intervistë me Mark Surman-in: Si po përshtate { -brand-name-mozilla } në epokën e IA-s
 
 ## Showcase
 
@@ -95,6 +110,10 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } po rishpik vetv
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Art pikelash, abstrakt, në ngjyrime të të gjelbrës, portokallisë dhe rozës.
 m24-home-read-the-report = Lexoni raportin
+
+## Nothing Personal
+
+m24-home-mozilla-nothing-personal = Asgjë Personale
 
 ## Issues
 

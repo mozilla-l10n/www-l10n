@@ -36,6 +36,8 @@ m24-about-we-fund-and = Financojmë dhe investojmë në njerëz dhe përpjekje q
 
 m24-about-read-more = Lexoni më tepër
 m24-about-read-the-latest = Lexoni lajmet & artikujt më të rinj nga { -brand-name-mozilla }
+m24-about-watch-here = Shiheni këtu
+m24-about-watch-now = Shiheni tani
 
 ## Showcase
 
