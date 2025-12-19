@@ -64,14 +64,24 @@ m24-home-mozilla-builders = { -brand-name-mozilla } ビルダー
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = ビルダーは、オーダーメイドのコラボレーション、プログラミング、コミュニティを通じて、革新的なオープンソースの AI プロジェクトを立ち上げる独立した開発者を支援しています。
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } は、オーダーメイドのコラボレーション、プログラミング、コミュニティを通じて、革新的なオープンソースの AI プロジェクトを立ち上げる独立した開発者を支援しています。
+m24-home-own-what-you = 作ったものは自分のものに
 
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = AI 時代に「LAMP スタック」は必要でしょうか。私たちは、透明性があり、責任を果たし、使用者が所有するテクノロジーを求めています。
 m24-home-watch-now = 視聴する
+m24-home-choice-first-stack = 選択第一のスタック
+m24-home-your-tools-your = あなたのツールは、あなたが選択。最新の AI エージェントとアプリケーションの構築とテストを簡素化する、統一されたオープンソーススタック。
+m24-home-get-started-now = 今すぐ始める
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = 複数の製品ロゴを掲げてステージに立つ講演者。
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = スタートアップを始めたところなら、あなたの会社を { -brand-name-mozilla-ventures } に売り込んでください。AI とインターネットの未来に前向きな変化をもたらすために、資金を提供します。
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective は、コミュニティを中心に据えて AI データのエコシステムを再構築しています。
+m24-home-join-today = 今すぐ参加
+m24-home-a-double-bottom = テクノロジーのダブルボトムライン
+m24-home-mark-surman-discusses = Mark Surman が、ミッションと利益の両方に価値を置くダブルボトムラインによるテクノロジーエコシステムを構築する方法について話します。
+m24-home-agent-platform = エージェントプラットフォーム
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = あらゆるエージェント
 m24-home-stop-wiring-tools = あれこれ道具をかけ合わせたり、脆弱なオートメーションのお世話をしたりする必要はもうありません。{ -brand-name-mozilla-ai-v2 } エージェントプラットフォームでは、ユーザーが求めるものを説明するだけで、お使いのツールやプロセスと連携する適応型 AI エージェントを生成できます。
@@ -106,6 +116,11 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = { -brand-name-mozilla } からの新しいメッセージ: Mozilla は億万長者に運営されていない唯一のブラウザー
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = The FT
+m24-home-rewiring-mozilla = { -brand-name-mozilla } の書き換え: ウェブでしてきた作業を AI にも
+m24-home-interview-with-mark = Mark Surman に聞く: AI 時代に適応する { -brand-name-mozilla }
+m24-home-women-in-product = 制作する女性たち: 軌道を外れず生成 AI を追加する
+m24-home-scaling-open-source = オープンソース AI の拡大: Mark Surman と Tim Bradshaw
 
 ## Showcase
 
@@ -121,12 +136,18 @@ m24-home-alt-rise25-joyous = 喜ぶ { -brand-name-rise25 } の受賞者。
 m24-home-state-of-mozilla = { -brand-name-mozilla } の現状
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } は改革を行い、組織図を多様化し、広告を再構築し、オープンソースの AI エコシステムを構築しています。詳しくはレポート「State of { -brand-name-mozilla } 2024」をお読みください。
 
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } は改革を行い、組織図を多様化し、広告を再構築し、オープンソースの AI エコシステムを構築しています。詳しくはレポート「State of { -brand-name-mozilla } { $year }」をお読みください。
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = 緑、オレンジ、ピンク色の抽象的なピクセルアート
 m24-home-read-the-report = レポートを読む
 
 ## Nothing Personal
 
+m24-home-mozilla-nothing-personal = Nothing Personal
+m24-home-our-new-magazine = デジタルカルチャーの最前線で活躍する独立した思想家、テクノロジーエキスパート、クリエイターのために生まれた雑誌。
+m24-home-read-now = 今すぐ読む
 
 ## Issues
 

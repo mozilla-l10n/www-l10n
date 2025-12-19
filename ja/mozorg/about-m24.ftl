@@ -36,8 +36,12 @@ m24-about-we-fund-and = Mozilla は、テクノロジー、インターネット
 
 m24-about-read-more = 詳しく読む
 m24-about-read-the-latest = { -brand-name-mozilla } の最新のニュースと記事を読む
+m24-about-rewiring-mozilla = { -brand-name-mozilla } の書き換え: ウェブでしてきた作業を AI にも。当社の次世代戦略と、AI 時代に向けた { -brand-name-mozilla } の変革についてご覧ください。
 m24-about-what-comes-next = 次なるテクノロジーの流れは、選択です。私たちと一緒に選びましょう。
+m24-about-watch-here = 視聴する
 
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = テクノロジーでダブルボトムラインを追求できるでしょうか。Mark Surman が、ミッションと利益の両方に価値を置くダブルボトムラインによるテクノロジーエコシステムを構築する方法について話します。
 m24-about-watch-now = 視聴する
 
 ## Showcase
