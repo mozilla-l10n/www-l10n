@@ -63,13 +63,19 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders aiuta sviluppatori indipendenti a creare progetti innovativi di IA open source attraverso collaborazioni personalizzate, programmazione e comunità.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } aiuta sviluppatori indipendenti a creare progetti innovativi di IA open source attraverso collaborazioni personalizzate, programmazione e comunità.
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = È necessario uno “stack LAMP” per l’era dell’IA? Abbiamo bisogno di una tecnologia trasparente e responsabile gestita dalle persone che la utilizzano.
 m24-home-watch-now = Guarda ora
+m24-home-choice-first-stack = Choice-first Stack
+m24-home-get-started-now = Inizia subito
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Relatore sul palco con loghi di vari prodotti.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Hai una startup in fase iniziale? Presenta la tua azienda a { -brand-name-mozilla-ventures } e ottieni finanziamenti per promuovere un cambiamento positivo per il futuro dell’IA e di Internet.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective sta ridefinendo l’ecosistema dei dati per l’intelligenza artificiale mettendo le comunità al centro. Scopri più di 300 dataset globali di alta qualità, creati dalla comunità e per la comunità in modo trasparente ed etico.
+m24-home-join-today = Iscriviti ora
+m24-home-agent-platform = Agent Platform
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Qualsiasi agente
 m24-home-stop-wiring-tools = Smetti di collegare strumenti tra loro e di monitorare automazioni instabili. Con { -brand-name-mozilla-ai-v2 } Agent Platform ti basta descrivere il tuo obiettivo e noi generiamo agenti AI adattivi che funzionano con i tuoi strumenti e processi.
@@ -104,6 +110,11 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = Il nuovo messaggio di { -brand-name-mozilla }: siamo l’unico browser non sostenuto da miliardari
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = The FT
+m24-home-rewiring-mozilla = Ristrutturando { -brand-name-mozilla }: facciamo per l’IA ciò che abbiamo fatto per il Web
+m24-home-interview-with-mark = Intervista a Mark Surman: come { -brand-name-mozilla } si sta adattando all’era dell’IA
+m24-home-women-in-product = Conversazione con Women In Product: aggiungere strumenti di IA generativa senza perdere di vista l’obiettivo
+m24-home-scaling-open-source = IA open source: Mark Surman e Tim Bradshaw
 
 ## Showcase
 
@@ -118,9 +129,16 @@ m24-home-alt-rise25-smiling = Un relatore sorridente e sicuro di sé al { -brand
 m24-home-alt-rise25-joyous = Un vincitore contento di ricevere il premio al { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Stato di { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } si sta reinventando, diversificandosi attorno a una costellazione di organizzazioni, ripensando la pubblicità e creando un ecosistema di intelligenza artificiale open source. Scoprilo nel Rapporto 2024 sullo stato di { -brand-name-mozilla }.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } si sta reinventando, diversificandosi attorno a una costellazione di organizzazioni, ripensando la pubblicità e creando un ecosistema di intelligenza artificiale open source. Scoprilo nel Rapporto { $year } sullo stato di { -brand-name-mozilla }.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Pixel art astratta in toni verde, arancione e rosa
 m24-home-read-the-report = Leggi il rapporto
+
+## Nothing Personal
+
+m24-home-mozilla-nothing-personal = Nothing Personal
 
 ## Issues
 
