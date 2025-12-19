@@ -36,8 +36,12 @@ m24-about-we-fund-and = Kami mendanai dan berinvestasi pada talenta serta upaya 
 
 m24-about-read-more = Baca Selengkapnya
 m24-about-read-the-latest = Baca berita & artikel { -brand-name-mozilla } terbaru
+m24-about-rewiring-mozilla = Mengubah { -brand-name-mozilla }: Mentransformasi AI Seperti Kami Mentransformasi Web. Pelajari strategi generasi terbaru kami dan bagaimana kami mentransformasi { -brand-name-mozilla } untuk Era AI.
 m24-about-what-comes-next = Masa depan teknologi adalah pilihan. Pilih bersama kami.
+m24-about-watch-here = Tonton di sini
 
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = Bisakah Teknologi Memiliki Dua Tolok Ukur Keberhasilan? Mark Surman membahas bagaimana kita dapat membangun ekosistem teknologi dengan dua tolok ukur — yang menghargai misi sekaligus keuntungan.
 m24-about-watch-now = Tonton sekarang
 
 ## Showcase
