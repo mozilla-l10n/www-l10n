@@ -108,6 +108,7 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = Nove message de { -brand-name-mozilla }: nos es le sol navigator non supportate per milliardarios
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = Financial Times
 
 ## Showcase
 
@@ -128,6 +129,7 @@ m24-home-read-the-report = Leger le reporto
 
 ## Nothing Personal
 
+m24-home-mozilla-nothing-personal = Nihil de personal
 m24-home-read-now = Leger ora
 
 ## Issues
