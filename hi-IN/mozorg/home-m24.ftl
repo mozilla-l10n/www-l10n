@@ -64,14 +64,24 @@ m24-home-mozilla-builders = { -brand-name-mozilla } बिल्डर
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders स्वतंत्र डेवलपर्स को विशिष्ट सहयोग, प्रोग्रामिंग और कम्युनिटी के माध्यम से बदलाव लाने वाले ओपन-सोर्स AI प्रोजेक्ट्स बनाने में मदद करता है।
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } स्वतंत्र डेवलपर्स को विशिष्ट सहयोग, प्रोग्रामिंग और कम्युनिटी के माध्यम से बदलाव लाने वाले ओपन-सोर्स AI प्रोजेक्ट्स बनाने में मदद करता है।
+m24-home-own-what-you = जो बनाएं, उसका स्वामित्व पाएं
 
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = क्या हमें AI युग के लिए एक नए “LAMP Stack” की ज़रूरत है? हमें चाहिए ऐसी टेक्नोलॉजी जो पारदर्शी हो, जवाबदेह हो, जिस पर उन लोगों का अधिकार हो जो इसका उपयोग करते हैं।
 m24-home-watch-now = अभी देखें
+m24-home-choice-first-stack = आपकी पसंद का स्टैक
+m24-home-your-tools-your = आपके टूल्स, आपकी पसंद। एक ऑल-इन-वन ओपन-सोर्स स्टैक, जो मॉडर्न AI एजेंट्स और ऐप्स बनाने तथा उनकी टेस्टिंग करना आसान बना देता है।
+m24-home-get-started-now = अभी शुरू करें
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = मंच पर वक्ता जहां अनेक प्रोडक्ट लोगो लगे हुए हैं।
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = आरंभिक चरण वाला स्टार्टअप है? अपनी कंपनी की प्रस्तुति { -brand-name-mozilla-ventures } पर दें और AI तथा इंटरनेट के भविष्य हेतु सकारात्मक बदलाव लाने के लिए फ़ंड पाने के अवसर पाएं।
 m24-home-mozilla-data-collective = { -brand-name-mozilla } डेटा कलेक्टिव
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } डेटा कलेक्टिव अब कम्युनिटी-केंद्रित दृष्टिकोण के साथ AI डेटा इकोसिस्टम को नया रूप दे रहा है।
+m24-home-join-today = आज ही शामिल हों
+m24-home-a-double-bottom = तकनीक की दुनिया में दोहरे लक्ष्य
+m24-home-mark-surman-discusses = मार्क सर्मेन चर्चा करते हैं कि हम किस तरह एक ऐसा टेक इकोसिस्टम बना सकते हैं जहां हम दोहरी कामयाबी हासिल कर सकें — सिर्फ़ मुनाफ़ा ही नहीं, मिशन भी।
+m24-home-agent-platform = एजेंट प्लेटफ़ॉर्म
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = किसी भी तरह का एजेंट
 m24-home-stop-wiring-tools = अब न टूल्स को आपस में जोड़ने का झंझट, न नाजुक ऑटोमेशन को संभालने की मजबूरी। { -brand-name-mozilla-ai-v2 } एजेंट प्लेटफ़ॉर्म का इस्तेमाल करके, आप बस अपना उद्देश्य बताते हैं और हम आपके टूल्स व प्रोसेस के अनुरूप काम करने वाले एडॉप्टिव AI एजेंट तुरंत तैयार कर देते हैं।
@@ -106,6 +116,11 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = { -brand-name-mozilla } का नया संदेश: हम एकमात्र ऐसे ब्राउज़र हैं जिस पर अरबपतियों का कोई कंट्रोल नहीं है
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = The FT
+m24-home-rewiring-mozilla = { -brand-name-mozilla } का कायाकल्प: जो हमने वेब में कर दिखाया, वही हम AI में करने जा रहे हैं
+m24-home-interview-with-mark = मार्क सर्मेन के साथ इंटरव्यू: { -brand-name-mozilla } इस AI युग में खुद को कैसे ढाल रहा है
+m24-home-women-in-product = Women in Product संवाद: फ़ोकस खोए बिना GenAI का सही इस्तेमाल
+m24-home-scaling-open-source = ओपन सोर्स AI का विस्तार: मार्क सर्मेन और टिम ब्रैडशॉ
 
 ## Showcase
 
@@ -121,12 +136,18 @@ m24-home-alt-rise25-joyous = { -brand-name-rise25 } में सम्मान
 m24-home-state-of-mozilla = { -brand-name-mozilla } की मौजूदा अवस्था
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } खुद को फिर से इन्वेन्ट कर रहा है, समूहबद्ध संस्थाओं के सिलसिले में विविधता को विस्तार दे रहा है, विज्ञापन को लेकर एक नई सोच सामने ला रहा है और एक ओपन सोर्स AI परिवेश निर्मित कर रहा है। इसके बारे में यहां पढ़ें: { -brand-name-mozilla } की मौजूदा अवस्था 2024 रिपोर्ट
 
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } खुद को फिर से इन्वेन्ट कर रहा है, समूहबद्ध संस्थाओं के सिलसिले में विविधता को विस्तार दे रहा है, विज्ञापन को लेकर एक नई सोच सामने ला रहा है और एक ओपन सोर्स AI परिवेश निर्मित कर रहा है। इसके बारे में यहां पढ़ें: { -brand-name-mozilla } की मौजूदा अवस्था { $year } रिपोर्ट।
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = एब्सट्रैक्ट पिक्सेल आर्ट जो हरे, नारंगी और गुलाबी शेड्स में है
 m24-home-read-the-report = रिपोर्ट पढ़ें
 
 ## Nothing Personal
 
+m24-home-mozilla-nothing-personal = Nothing Personal
+m24-home-our-new-magazine = हमारी नई मैगज़ीन जो ऐसे स्वतंत्र चिंतक, टेक्नोलॉजी प्रेमी और क्रिएटिव लोगों के लिए है जो डिजिटल कल्चर की अग्रिम पंक्ति में खड़े हैं।
+m24-home-read-now = अभी पढ़ें
 
 ## Issues
 

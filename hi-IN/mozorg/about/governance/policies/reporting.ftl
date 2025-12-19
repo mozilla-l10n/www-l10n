@@ -16,12 +16,14 @@ reporting-how-to-give-a-report = रिपोर्ट कैसे दें
 reporting-if-you-believe-someone = अगर आप मानते हैं कि किसी को खतरा है तो स्थानीय आपातकालीन नंबर पर कॉल करें।
 reporting-if-you-have-a-report-by = अगर आपके पास योगदानकर्ता (उदाहरण के लिए, एक योगदानकर्ता <strong>दूसरे </strong> योगदानकर्ता के <strong>बारे में</strong> रिपोर्ट करता है) <strong> की ओर से <em>और</em> उसके बारे में </strong> कोई रिपोर्ट है, तो आपको <a href="{ $community_hotline }">सामुदायिक भागीदारी दिशानिर्देश हॉटलाइन</a> पर रिपोर्ट करना चाहिए।
 reporting-if-you-have-a-report-by-email = अगर आपके पास योगदानकर्ता (उदाहरण के लिए, <strong>एक</strong> योगदानकर्ता दूसरे योगदानकर्ता के <strong>बारे</strong> में रिपोर्ट करता है) <strong>की ओर से <em>और</em> उसके बारे में</strong>कोई रिपोर्ट है, तो आपको <a href="{ $mailto_report }">cpg-report@mozilla.com</a> पर रिपोर्ट करना चाहिए।
+reporting-if-you-have-a-report-involving-v2 = अगर किसी योगदानकर्ता ने <strong>किसी कर्मचारी</strong> के बारे में शिकायत की है, तो आपको उसे <a href="{ $employee_hotline }">{ -brand-name-mozilla } कर्मचारी हॉटलाइन</a> पर रिपोर्ट करना चाहिए। अगर आप कर्मचारी हैं और कोई रिपोर्ट सबमिट करना चाहते हैं, तो आपके लिए उपलब्ध रिपोर्टिंग विकल्पों को जानने-समझने के लिए कृपया { -brand-name-mozilla } की आंतरिक नीतियों और प्रक्रियाओं को देखें।
 reporting-put-another-way = दूसरे तरीके से…
 reporting-by = द्वारा
 reporting-employee = कर्मचारी
 reporting-contributor = योगदानकर्ता
 reporting-about = बारे में
 reporting-employee-hotline = कर्मचारी हॉटलाइन
+reporting-internal-policies = { -brand-name-mozilla } की आंतरिक नीतियां और प्रक्रियाएं देखें
 reporting-contractor = ठेकेदार
 reporting-vendor = विक्रेता
 reporting-if-someone-reports-to = अगर आपको कोई रिपोर्ट करता है…
