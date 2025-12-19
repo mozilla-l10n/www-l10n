@@ -64,14 +64,24 @@ m24-home-mozilla-builders = Pembangun { -brand-name-mozilla }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders membantu pengembang independen dalam menciptakan proyek AI sumber terbuka yang transformatif melalui kolaborasi, pemrograman, dan komunitas yang dirancang khusus.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } membantu pengembang independen dalam menciptakan proyek AI sumber terbuka yang transformatif melalui kolaborasi, pemrograman, dan komunitas yang dirancang khusus.
+m24-home-own-what-you = Miliki Sepenuhnya Apa yang Anda Bangun
 
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = Apakah kita membutuhkan “LAMP Stack” untuk era AI? Kita membutuhkan teknologi yang transparan, bertanggung jawab, dan dimiliki oleh orang-orang yang menggunakannya.
 m24-home-watch-now = Tonton sekarang
+m24-home-choice-first-stack = Tumpukan Pilihan Utama
+m24-home-your-tools-your = Alat Anda, pilihan Anda. Sebuah tumpukan sumber terbuka dan terpadu yang mempermudah pembuatan dan pengujian agen serta aplikasi AI modern.
+m24-home-get-started-now = Mulai sekarang
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Pembicara di atas panggung dengan beberapa logo produk.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Startup Anda masih dalam tahap awal? Perkenalkan perusahaan Anda ke { -brand-name-mozilla-ventures } dan raih pendanaan untuk mendorong perubahan positif bagi perkembangan AI dan internet di masa depan.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective membangun kembali ekosistem data AI dengan menempatkan komunitas sebagai pusatnya.
+m24-home-join-today = Bergabunglah sekarang
+m24-home-a-double-bottom = Pendekatan Dua Tolok Ukur untuk Teknologi
+m24-home-mark-surman-discusses = Mark Surman membahas bagaimana kita dapat membangun ekosistem teknologi dengan dua tolok ukur — yang menghargai misi sekaligus keuntungan.
+m24-home-agent-platform = Platform Agen
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Agen Mana Pun
 m24-home-stop-wiring-tools = Berhenti menghubungkan alat satu per satu dan mengawasi otomatisasi yang rawan gangguan. Dengan Platform Agen { -brand-name-mozilla-ai-v2 }, Anda cukup menyampaikan tujuan Anda, dan kami akan menghasilkan agen AI adaptif yang dapat bekerja dengan alat dan proses yang sudah Anda gunakan.
@@ -106,6 +116,11 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = Pesan baru dari { -brand-name-mozilla }: Kami satu-satunya peramban yang tidak didukung para miliarder
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = The FT
+m24-home-rewiring-mozilla = Menyusun ulang { -brand-name-mozilla }: Melakukan untuk AI apa yang pernah kita lakukan untuk web
+m24-home-interview-with-mark = Wawancara dengan Mark Surman: Bagaimana { -brand-name-mozilla } menyesuaikan diri dengan era AI
+m24-home-women-in-product = Diskusi Women In Product: Menambahkan GenAI Tanpa Kehilangan Fokus
+m24-home-scaling-open-source = Menskalakan AI Sumber Terbuka: Mark Surman & Tim Bradshaw
 
 ## Showcase
 
@@ -121,12 +136,18 @@ m24-home-alt-rise25-joyous = Penerima penghargaan yang sukacita di { -brand-name
 m24-home-state-of-mozilla = Perkembangan { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } sedang bertransformasi, memperluas jangkauan melalui kerja sama dengan berbagai organisasi, merancang ulang sistem periklanan, dan membangun ekosistem AI berbasis sumber terbuka. Baca selengkapnya dalam Laporan Perkembangan { -brand-name-mozilla } 2024.
 
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } sedang bertransformasi, memperluas jangkauan melalui kerja sama dengan berbagai organisasi, merancang ulang sistem periklanan, dan membangun ekosistem AI berbasis sumber terbuka. Baca selengkapnya dalam Laporan Perkembangan { -brand-name-mozilla } { $year }.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Seni piksel abstrak dengan perpaduan warna hijau, oranye, dan merah muda
 m24-home-read-the-report = Baca laporannya
 
 ## Nothing Personal
 
+m24-home-mozilla-nothing-personal = Bukan Hal Pribadi
+m24-home-our-new-magazine = Majalah baru kami untuk para pemikir independen, teknolog, dan kreator yang berada di garis depan budaya digital.
+m24-home-read-now = Baca Sekarang
 
 ## Issues
 

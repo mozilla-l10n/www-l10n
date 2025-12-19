@@ -64,14 +64,24 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Mit Builders können unabhängigen Entwickler*innen durch maßgeschneiderte Kollaborationen, Programming und mithilfe der Community transformative Open-Source KI-Projekte erstellen.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } hilft unabhängigen Entwickler*innen dabei, transformative Open-Source-KI-Projekte durch Kollaborationen, Programming und Community auf die Beine zu stellen.
+m24-home-own-what-you = Besitze, was du baust
 
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = Brauchen wir einen LAMP Stack für die KI-Ära? Wir brauchen transparente, verantwortliche Technologien, die im Besitz derer sind, die sie nutzen.
 m24-home-watch-now = Jetzt ansehen
+m24-home-choice-first-stack = Ein Stack für Wahlfreiheit
+m24-home-your-tools-your = Deine Tools, deine Wahl. Ein einheitlicher Open-Source-Stack, der das Bauen und Testen moderner KI-Agenten und -Apps vereinfacht.
+m24-home-get-started-now = Jetzt loslegen
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Vortragende*r auf einer Bühne mit verschiedenen Produktlogos.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Du hast ein ganz neues Start-up? Stelle { -brand-name-mozilla-ventures } dein Unternehmen vor und sichere dir eine Förderung, mit der du positiven Wandel für die Zukunft der KI und des Internets vorantreiben kannst.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective baut das KI Daten-Ökosystem mit Fokus auf die Gemeinschaften neu auf.
+m24-home-join-today = Heute mitmachen
+m24-home-a-double-bottom = Eine doppelte Zielsetzung für Technologien
+m24-home-mark-surman-discusses = Mark Surman beschreibt, wie wir ein Tech-Ökosystem mit doppelter Zielsetzung aufbauen können – eines, das sowohl der Mission als auch dem Geld gerecht wird.
+m24-home-agent-platform = Agenten-Plattform
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Jeder Agent
 m24-home-stop-wiring-tools = Hört auf, Tools miteinander zu verknüpfen und anfällige Automatisierungen zu babysitten. Mit der { -brand-name-mozilla-ai-v2 } Agent-Plattform beschreibst du dein Ziel, und wir generieren adaptive KI-Agenten, die mit deinen Tools und Abläufen funktionieren.
@@ -106,6 +116,11 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = Die neue Message von { -brand-name-mozilla }: Wir sind der einzige Browser, der nicht von Milliardären finanziert wird
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = FT
+m24-home-rewiring-mozilla = { -brand-name-mozilla } neu aufgestellt: für die KI tun, was wir fürs Internet getan haben
+m24-home-interview-with-mark = Interview mit Mark Surman: Wie sich { -brand-name-mozilla } auf das KI-Zeitalter einstellt
+m24-home-women-in-product = Gespräch mit Frauen in der Produktentwicklung: GenAI hinzufügen, ohne den Überblick zu verlieren
+m24-home-scaling-open-source = Open-Source-KI skalieren: Mark Surman und Tim Bradshaw
 
 ## Showcase
 
@@ -121,12 +136,17 @@ m24-home-alt-rise25-joyous = Ein*e glückliche*r Preisträger*in bei { -brand-na
 m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } erfindet sich neu, diversifiziert sich um eine Konstellation von Organisationen, gestaltet Werbung neu und erschafft ein Open-Source KI-Ökosystem. Lies darüber im Bericht „State of { -brand-name-mozilla }“ 2024.
 
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } erfindet sich neu, diversifiziert sich um eine Konstellation von Organisationen, gestaltet Werbung neu und erschafft ein Open-Source KI-Ökosystem. Lies darüber im Bericht „State of { -brand-name-mozilla } { $year }“.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstrakte Pixelkunst in grün, orange und rosa
 m24-home-read-the-report = Bericht lesen
 
 ## Nothing Personal
 
+m24-home-mozilla-nothing-personal = Nothing Personal
+m24-home-our-new-magazine = Unser neues Magazin für unabhängige Denker:innen, Technolog:innen und Kreative an der Spitze der digitalen Kultur.
 m24-home-read-now = Jetzt lesen
 
 ## Issues

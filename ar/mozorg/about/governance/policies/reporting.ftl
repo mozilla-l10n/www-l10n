@@ -18,12 +18,14 @@ reporting-how-to-give-a-report = كيفية الإبلاغ
 reporting-if-you-believe-someone = إذا كُنت تعتقد أن هناك شخص ما مُعرض لخطر جسدي، فاتصل برقم الطوارئ المحلي.
 reporting-if-you-have-a-report-by = إذا كان لديك بلاغ <strong>من قِبل <em>و</em> عن</strong> مساهم (على سبيل المثال، تم رفع البلاغ <strong>بواسطة</strong> أحد المساهمين <strong>عن</strong> مساهم آخر)، فحينها ينبغي رفع البلاغ الخاص بك عبر <a href="{ $community_hotline }">الخط الساخن للتعليمات التوجيهية للمشاركة المجتمعية</a>.
 reporting-if-you-have-a-report-by-email = إذا كان لديك بلاغ <strong>من قِبل <em>و</em> عن</strong> مُساهم (على سبيل المثال، يتم عمل التقرير <strong>بواسطة</strong> أحد المساهمين <strong>عن</strong> مساهم آخر)، حينها يجب عليك تقديم البلاغ الخاص بك عبر <a href="{ $mailto_report }">cpg-report@mozilla.com</a>.
+reporting-if-you-have-a-report-involving-v2 = إذا كان لديك بلاغ مقدّم من أحد المساهمين بشأن <strong>أحد الموظفين</strong>، فيُرجى تقديمه عبر <a href="{ $employee_hotline }">الخط الساخن لموظفي { -brand-name-mozilla }</a>. إذا كنت موظفًا وتحتاج إلى تقديم بلاغ، فيُرجى الاطلاع على السياسات والإجراءات الداخلية لدى { -brand-name-mozilla } لِمعرفة خيارات الإبلاغ المتوفرة لك.
 reporting-put-another-way = قدّم طريقة أخرى…
 reporting-by = من قِبل
 reporting-employee = موظف
 reporting-contributor = مساهم
 reporting-about = نبذة عنا
 reporting-employee-hotline = الخط الساخن للمُوظفين
+reporting-internal-policies = يُرجى الاطلاع على السياسات والإجراءات الداخلية لدى { -brand-name-mozilla }
 reporting-contractor = مقاول
 reporting-vendor = بائع
 reporting-if-someone-reports-to = إذا قام شخص ما برفع بلاغ إليك…

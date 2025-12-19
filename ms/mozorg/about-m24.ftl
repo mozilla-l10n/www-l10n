@@ -36,8 +36,12 @@ m24-about-we-fund-and = Kami membiayai dan melabur dalam modal insan dan usaha y
 
 m24-about-read-more = Baca Lagi
 m24-about-read-the-latest = Baca berita & artikel { -brand-name-mozilla } yang terkini
+m24-about-rewiring-mozilla = Mengubah suai { -brand-name-mozilla }: Membina Asas AI Umpama Kita Membina Asas untuk Web. Baca tentang strategi generasi kami yang seterusnya dan cara kami mentransformasikan { -brand-name-mozilla } untuk Era AI.
 m24-about-what-comes-next = Teknologi masa depan adalah pilihan anda. Pilih untuk bersama kami.
+m24-about-watch-here = Tonton di sini
 
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = Bolehkah Kita Mempunyai Matlamat Berganda untuk Teknologi? Mark Surman membincangkan cara kita boleh membangunkan ekosistem teknologi dengan matlamat berganda — matlamat yang mementingkan misi dan kewangan.
 m24-about-watch-now = Tonton sekarang
 
 ## Showcase
