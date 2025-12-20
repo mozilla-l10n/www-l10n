@@ -78,6 +78,8 @@ m24-home-mozilla-data-collective = { -brand-name-mozilla } 데이터 콜렉티�
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } 데이터 콜렉티브는 커뮤니티를 중심으로 AI 데이터 생태계를 재구축하고 있습니다. 투명하고 윤리적인 방법으로 커뮤니티에 의해 그리고 커뮤니티를 위해 구축된 300개 이상의 고품질 글로벌 데이터 세트에 접근하세요.
 m24-home-join-today = 오늘 참여하기
 m24-home-a-double-bottom = 기술의 두개의 하한선
+m24-home-mark-surman-discusses = MarkSurman이 사명과 돈 모두를 가치있게 여기는 두개의 하한선과 함께 기술 생태계를 구축하는 방법에 대해 설명합니다.
+m24-home-agent-platform = 에이전트 플랫폼
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = 에이전트
 m24-home-stop-wiring-tools = 이제 도구를 한데 엮어넣고 부서지기 쉬운 자동화를 힘들게 관리하지 마세요. { -brand-name-mozilla-ai-v2 } 에이전트 플랫폼을 사용하면, 사용자가 목표를 설명하면, 우리가 도구와 프로세스에 맞춰 작동하는 적응 형 AI 에이전트를 생성합니다.
@@ -112,6 +114,11 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = { -brand-name-mozilla }의 새로운 메시지: 우리는 억만장자에 의해 지원되지 않는 세계 유일의 브라우저입니다
 m24-home-fast-company = 패스트 컴퍼니
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = FT
+m24-home-rewiring-mozilla = { -brand-name-mozilla } 바꾸기: 웹에 한 일을 AI에도 하기
+m24-home-interview-with-mark = Mark Surman과의 인터뷰: AI 시대에 적응하고 있는 { -brand-name-mozilla }
+m24-home-women-in-product = Women In Product 대담: 흐름을 잃지 않으면서 GenAI 추가하기
+m24-home-scaling-open-source = 오픈 소스 AI 확장하기: Mark Surman과 Tim Bradshaw
 
 ## Showcase
 
@@ -126,9 +133,18 @@ m24-home-alt-rise25-smiling = { -brand-name-rise25 }에서 자신있게 미소 �
 m24-home-alt-rise25-joyous = { -brand-name-rise25 }의 즐거워하는 수상자
 m24-home-state-of-mozilla = { -brand-name-mozilla } 현황
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla }는 스스로를 재창조하고, 다양한 조직을 중심으로 다양화하고, 광고를 재구성하고, 오픈소스 AI 생태계를 만들고 있습니다. { -brand-name-mozilla } 2024년 현황 보고서에서 자세히 살펴보세요.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla }는 스스로를 재창조하고, 다양한 조직을 중심으로 다양화하고, 광고를 재구성하고, 오픈소스 AI 생태계를 만들고 있습니다. { -brand-name-mozilla } { $year }년 현황 보고서에서 자세히 살펴보세요.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = 녹색, 주황색, 분홍색 음영의 추상 픽셀 아트
 m24-home-read-the-report = 보고서 읽기
+
+## Nothing Personal
+
+m24-home-mozilla-nothing-personal = 개인 정보 없음
+m24-home-our-new-magazine = 디지털 문화의 최전선에서 활동하는 독립적인 사상가, 기술자 및 창의적인 사람들을 위한 새로운 주간지입니다.
+m24-home-read-now = 지금 읽기
 
 ## Issues
 
