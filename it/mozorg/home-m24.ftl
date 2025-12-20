@@ -63,10 +63,12 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders aiuta sviluppatori indipendenti a creare progetti innovativi di IA open source attraverso collaborazioni personalizzate, programmazione e comunità.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } aiuta sviluppatori indipendenti a creare progetti innovativi di IA open source attraverso collaborazioni personalizzate, programmazione e comunità.
+m24-home-own-what-you = Mantieni la proprietà di ciò che crei
 # "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
 m24-home-do-we-need-a = È necessario uno “stack LAMP” per l’era dell’IA? Abbiamo bisogno di una tecnologia trasparente e responsabile gestita dalle persone che la utilizzano.
 m24-home-watch-now = Guarda ora
 m24-home-choice-first-stack = Choice-first Stack
+m24-home-your-tools-your = I tuoi strumenti, la tua scelta. Uno stack open source unificato che semplifica la creazione e il test di app e agenti AI moderni.
 m24-home-get-started-now = Inizia subito
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Relatore sul palco con loghi di vari prodotti.
@@ -75,6 +77,8 @@ m24-home-got-an-earlystage = Hai una startup in fase iniziale? Presenta la tua a
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective sta ridefinendo l’ecosistema dei dati per l’intelligenza artificiale mettendo le comunità al centro. Scopri più di 300 dataset globali di alta qualità, creati dalla comunità e per la comunità in modo trasparente ed etico.
 m24-home-join-today = Iscriviti ora
+m24-home-a-double-bottom = Una doppia linea di risultati per la tecnologia
+m24-home-mark-surman-discusses = Mark Surman spiega come possiamo costruire un ecosistema tecnologico con una doppia linea di risultati, che valorizzi sia la missione che il profitto.
 m24-home-agent-platform = Agent Platform
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Qualsiasi agente
@@ -139,6 +143,7 @@ m24-home-read-the-report = Leggi il rapporto
 ## Nothing Personal
 
 m24-home-mozilla-nothing-personal = Nothing Personal
+m24-home-our-new-magazine = La nostra nuova rivista per pensatori indipendenti, esperti di tecnologie e creativi nell’avanguardia della cultura digitale.
 m24-home-read-now = Leggi ora
 
 ## Issues
