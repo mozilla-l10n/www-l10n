@@ -36,6 +36,9 @@ m24-about-we-fund-and = 우리는 기술, 인터넷, AI를 올바른 방향으�
 
 m24-about-read-more = 더 보기
 m24-about-read-the-latest = 최신 { -brand-name-mozilla } 뉴스와 기사 읽기
+m24-about-rewiring-mozilla = { -brand-name-mozilla } 바꾸기: 웹에서 했던 일을 AI에도 합니다. 우리의 차세대 전략과 AI 시대를 위해 { -brand-name-mozilla }를 어떻게 변화시키고 있는지 읽어보세요.
+m24-about-what-comes-next = 기술의 다음 단계는 선택입니다. 같이 선택해요.
+m24-about-watch-here = 여기서 보기
 
 ## Showcase
 
