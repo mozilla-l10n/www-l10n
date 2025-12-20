@@ -74,6 +74,9 @@ m24-home-got-an-earlystage = Har du ett startup i tidigt skede? Presentera ditt 
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Datakollektiv
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Datakollektiv återuppbygger AI-dataekosystemet med gemenskaper i centrum. Få tillgång till över 300 högkvalitativa globala datamängder, byggda av och för gemenskaper på ett transparent och etiskt sätt.
 m24-home-join-today = Gå med idag
+m24-home-a-double-bottom = En dubbel slutsats för teknik
+m24-home-mark-surman-discusses = Mark Surman diskuterar hur vi kan bygga ett teknikekosystem med dubbel slutresultat — ett som värdesätter både uppdrag och pengar.
+m24-home-agent-platform = Agentplattform
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Alla agenter
 m24-home-stop-wiring-tools = Sluta koppla ihop verktyg och passa spröda automatiseringar. Med agentplattformen { -brand-name-mozilla-ai-v2 } beskriver du ditt mål, vi genererar adaptiva AI-agenter som fungerar med dina verktyg och processer.
@@ -108,6 +111,11 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = { -brand-name-mozilla }:s nya meddelande: Vi är den enda webbläsaren som inte stöds av miljardärer
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = The FT
+m24-home-rewiring-mozilla = Omkoppling av { -brand-name-mozilla }: Gör för AI vad vi gjorde för webben
+m24-home-interview-with-mark = Intervju med Mark Surman: Hur { -brand-name-mozilla } anpassar sig till AI-åldern
+m24-home-women-in-product = Kvinnor i produktsamtalet: Lägga till GenAI utan att tappa fokus
+m24-home-scaling-open-source = Skala AI med öppen källkod: Mark Surman & Tim Bradshaw
 
 ## Showcase
 
@@ -122,6 +130,9 @@ m24-home-alt-rise25-smiling = En självsäker leende talare på { -brand-name-ri
 m24-home-alt-rise25-joyous = En glad pristagare på { -brand-name-rise25 }.
 m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } uppfinner sig själv på nytt, diversifierar sig runt en konstellation av organisationer, ombildar reklam och skapar ett AI-ekosystem med öppen källkod. Läs om det i rapporten State of { -brand-name-mozilla } 2024.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } återuppfinner sig självt, diversifierar sig kring en konstellation av organisationer, omtolkar reklam och skapar ett AI-ekosystem med öppen källkod. Läs om det i rapporten om tillståndet för { -brand-name-mozilla } { $year }.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstrakt pixelkonst i nyanser av grönt, orange och rosa
 m24-home-read-the-report = Läs rapporten
