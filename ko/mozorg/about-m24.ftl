@@ -39,6 +39,9 @@ m24-about-read-the-latest = 최신 { -brand-name-mozilla } 뉴스와 기사 읽�
 m24-about-rewiring-mozilla = { -brand-name-mozilla } 바꾸기: 웹에서 했던 일을 AI에도 합니다. 우리의 차세대 전략과 AI 시대를 위해 { -brand-name-mozilla }를 어떻게 변화시키고 있는지 읽어보세요.
 m24-about-what-comes-next = 기술의 다음 단계는 선택입니다. 같이 선택해요.
 m24-about-watch-here = 여기서 보기
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = 기술에 두개의 하한선을 둘 수 있나요? MarkSurman이 사명과 돈 모두를 가치있게 여기는 두개의 하한선과 함께 기술 생태계를 구축하는 방법에 대해 설명합니다.
+m24-about-watch-now = 지금 보기
 
 ## Showcase
 

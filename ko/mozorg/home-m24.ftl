@@ -63,13 +63,21 @@ m24-home-mozilla-builders = { -brand-name-mozilla } 빌더
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = 빌더는 독립 개발자가 맞춤형 협업과 프로그래밍, 커뮤니티를 통해 혁신적인 오픈 소스 AI 프로젝트를 만들 수 있도록 돕습니다.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders }는 맞춤형 협업과 프로그래밍, 커뮤니티를 통해 독립 개발자가 혁신적인 오픈 소스 AI 프로젝트를 만들 수 있도록 돕습니다.
+m24-home-own-what-you = 자신이 만든 것을 소유하세요
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = AI 시대를 위한 “Lamp Stack”이 필요한가요? 우리는 투명하고 책임 있는 이를 사용하는 사람들의 소유가 되는 기술이 필요합니다.
 m24-home-watch-now = 지금 보기
+m24-home-choice-first-stack = 첫 번째 스택 선택
+m24-home-your-tools-your = 나만의 도구, 나만의 선택. 최신 AI 에이전트와 앱의 빌드와 테스트를 단순화하는 통합된 오픈 소스 스택입니다.
+m24-home-get-started-now = 지금 시작하기
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = 여러 제품 로고가 있는 스테이지 위에 있는 스피커.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = 초기 단계의 스타트업이 있으신가요? AI와 인터넷의 긍정적인 변화를 주도할 { -brand-name-mozilla-ventures }에서 발표하고 투자를 확보하세요.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } 데이터 콜렉티브
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } 데이터 콜렉티브는 커뮤니티를 중심으로 AI 데이터 생태계를 재구축하고 있습니다. 투명하고 윤리적인 방법으로 커뮤니티에 의해 그리고 커뮤니티를 위해 구축된 300개 이상의 고품질 글로벌 데이터 세트에 접근하세요.
+m24-home-join-today = 오늘 참여하기
+m24-home-a-double-bottom = 기술의 두개의 하한선
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = 에이전트
 m24-home-stop-wiring-tools = 이제 도구를 한데 엮어넣고 부서지기 쉬운 자동화를 힘들게 관리하지 마세요. { -brand-name-mozilla-ai-v2 } 에이전트 플랫폼을 사용하면, 사용자가 목표를 설명하면, 우리가 도구와 프로세스에 맞춰 작동하는 적응 형 AI 에이전트를 생성합니다.
