@@ -39,6 +39,8 @@ m24-about-read-the-latest = Läs de senaste artiklarna och nyheterna om { -brand
 m24-about-rewiring-mozilla = Omstrukturering av { -brand-name-mozilla }: Gör för AI vad vi gjorde för webben. Läs om vår nästa generations strategi och hur vi transformerar { -brand-name-mozilla } för AI:s era.
 m24-about-what-comes-next = Det som kommer härnäst inom tekniken är ett val. Välj med oss.
 m24-about-watch-here = Titta här
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = Kan vi ha ett dubbelt slutresultat för teknik? Mark Surman diskuterar hur vi kan bygga ett teknikekosystem med ett dubbelt slutresultat — ett som värdesätter både uppdrag och pengar.
 m24-about-watch-now = Titta nu
 
 ## Showcase
