@@ -36,12 +36,12 @@ m24-about-we-fund-and = Rydym yn ariannu ac yn buddsoddi yn y bobl a'r ymdrechio
 
 m24-about-read-more = Darllen rhagor
 m24-about-read-the-latest = Darllenwch y newyddion ac erthyglau diweddaraf { -brand-name-mozilla }
-m24-about-rewiring-mozilla = Ailweirio { -brand-name-mozilla }: Gwneud ar gyfer AI yr hyn wnaethom ni ar gyfer y we. Darllenwch am ein strategaeth cenhedlaeth nesaf a sut rydym yn trawsnewid { -brand-name-mozilla } ar gyfer Oes AI.
+m24-about-rewiring-mozilla = Ailweirio { -brand-name-mozilla }: Gwneud i AI Beth Wnaethom ni i'r We. Darllenwch am ein strategaeth cenhedlaeth nesaf a sut rydym yn trawsnewid { -brand-name-mozilla } ar gyfer Oes AI.
 m24-about-what-comes-next = Mae'r hyn sy'n dod nesaf mewn technoleg yn ddewis. Dewiswch gyda ni.
 m24-about-watch-here = Gwyliwch yma
 # "Double Bottom Line" refers to accounting for both money and mission values
-m24-about-can-we-have = Allwn Ni Gael Llinell Waelod Dwbl ar gyfer Tech? Mae Mark Surman yn trafod sut y gallwn adeiladu ecosystem dechnolegol gyda gwaelodlin dwbl - un sy'n gwerthfawrogi cenhadaeth ac arian.
-m24-about-watch-now = Gwyliwch nawr
+m24-about-can-we-have = Oes Modd i  Ni Gael Llinell Sail Dwbl ar gyfer Tech? Mae Mark Surman yn trafod sut y gallwn adeiladu ecosystem dechnolegol gyda llinell sail dwbl - un sy'n gwerthfawrogi cenhadaeth ac arian.
+m24-about-watch-now = Gwylio nawr
 
 ## Showcase
 

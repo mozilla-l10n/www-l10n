@@ -63,12 +63,12 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Mae Builders yn helpu datblygwyr annibynnol i greu projectau AI cod agored trawsnewidiol trwy gydweithrediadau, rhaglennu a chymuned pwrpasol.
 m24-home-builders-helps-independent-v2 = Mae { -brand-name-mozilla-builders } yn helpu datblygwyr annibynnol i greu projectau AI cod agored trawsnewidiol trwy gydweithrediadau pwrpasol, rhaglennu, a chymuned.
-m24-home-own-what-you = Yn berchen ar yr hyn rydych chi'n ei adeiladu
+m24-home-own-what-you = Perchnogwch yr Hyn Rydych chi'n ei Adeiladu
 # "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
 m24-home-do-we-need-a = A oes angen “LAMP Stack” arnom ar gyfer yr oes AI? Mae arnom angen technoleg sy'n dryloyw, yn atebol, ac yn eiddo i'r bobl sy'n ei defnyddio.
 m24-home-watch-now = Gwyliwch nawr
-m24-home-choice-first-stack = Dewis Pentwr Cyntaf
-m24-home-your-tools-your = Eich offer, eich dewis. Pentwr ffynhonnell agored unedig sy'n symleiddio adeiladu a phrofi asiantau ac apiau AI modern.
+m24-home-choice-first-stack = Choice First Stack
+m24-home-your-tools-your = Eich offer, eich dewis. Stac cod agored cyfun sy'n symleiddio adeiladu a phrofi asiantau ac apiau AI modern.
 m24-home-get-started-now = Dechreuwch nawr
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Siaradwr ar y llwyfan gyda logos cynnyrch lluosog.
@@ -77,9 +77,9 @@ m24-home-got-an-earlystage = Oes gennych chi gwmni cychwynnol cyfnod cynnar? Cyn
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = Mae Data Collective { -brand-name-mozilla } yn ailadeiladu'r ecosystem ddata AI gyda chymunedau yn ganolog iddo. Cewch fynediad at dros 300 o setiau data byd-eang o ansawdd uchel, wedi'u hadeiladu gan y gymuned ac ar ei chyfer mewn ffordd dryloyw a moesegol.
 m24-home-join-today = Ymunwch heddiw
-m24-home-a-double-bottom = Llinell Gwaelod Dwbl ar gyfer Tech
+m24-home-a-double-bottom = Llinell Sail Dwbl ar gyfer Tech
 m24-home-mark-surman-discusses = Mae Mark Surman yn trafod sut y gallwn adeiladu ecosystem dechnolegol gyda gwaelodlin dwbl - un sy'n gwerthfawrogi cenhadaeth ac arian.
-m24-home-agent-platform = Llwyfan Asiant
+m24-home-agent-platform = Agent Platform
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Unrhyw Asiant
 m24-home-stop-wiring-tools = Peidio rhaffu offer at ei gilydd a gwarchod awtomatiaethau brau. Gyda'r Llwyfan Asiant { -brand-name-mozilla-ai-v2 }, rydych chi'n disgrifio'ch nod, rydyn ni'n cynhyrchu asiantau AI addasol sy'n gweithio gyda'ch offer a'ch prosesau.
@@ -114,9 +114,9 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = Neges newydd { -brand-name-mozilla }: Ni yw'r unig borwr nad yw'n cael ei gefnogi gan biliwnyddion
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-the-ft = Mae'r FT
-m24-home-rewiring-mozilla = Ailweirio { -brand-name-mozilla }: Gwneud ar gyfer AI yr hyn a wnaethom ar gyfer y we
-m24-home-interview-with-mark = Cyfweliad gyda Mark Surman: Sut mae { -brand-name-mozilla } yn addasu i'r oedran AI
+m24-home-the-ft = The FT
+m24-home-rewiring-mozilla = Ailweirio { -brand-name-mozilla }: Gwneud i AI yr hyn a wnaethom i'r we
+m24-home-interview-with-mark = Cyfweliad gyda Mark Surman: Sut mae { -brand-name-mozilla } yn addasu i'r oes AI
 m24-home-women-in-product = Sgwrs Merched Mewn Cynnyrch: Ychwanegu GenAI Heb Golli'r Plot
 m24-home-scaling-open-source = Graddio Ffynhonnell Agored AI: Mark Surman a Tim Bradshaw
 
