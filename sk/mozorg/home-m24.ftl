@@ -117,6 +117,7 @@ m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = Financial Times
 m24-home-rewiring-mozilla = Prepracovanie { -brand-name-mozilla(case: "gen") }: Robíme pre AI to, čo sme urobili pre web
 m24-home-interview-with-mark = Rozhovor s Markom Surmanom: Ako sa { -brand-name-mozilla } prispôsobuje veku umelej inteligencie
+m24-home-women-in-product = Kanál Women In Product: Pridanie GenAI tak, aby ste sa v tom nestratili
 m24-home-scaling-open-source = Škálovanie open source AI: Mark Surman a Tim Bradshaw
 
 ## Showcase
