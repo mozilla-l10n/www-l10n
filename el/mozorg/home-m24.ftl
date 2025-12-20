@@ -92,6 +92,7 @@ m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = The FT
 
 ## Showcase
 
@@ -109,6 +110,10 @@ m24-home-mozilla-is-reinventing-itself = Η { -brand-name-mozilla } επαναπ
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Αφηρημένη τέχνη εικονοστοιχείων στις αποχρώσεις του πράσινου, του πορτοκαλί και του ροζ
 m24-home-read-the-report = Διαβάστε την αναφορά
+
+## Nothing Personal
+
+m24-home-read-now = Ανάγνωση τώρα
 
 ## Issues
 
