@@ -67,6 +67,8 @@ m24-home-own-what-you = Possede lo que tu produce
 # "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
 m24-home-do-we-need-a = Besonia nos un “Pila LAMPA” pro le era del IA? Nos besonia technologia que es transparente, responsabile, e de proprietate del personas qui lo usa.
 m24-home-watch-now = Mira ora
+m24-home-choice-first-stack = Selection del prime pila
+m24-home-your-tools-your = Tu utensiles, tu selection. Un pila open-source unificate que simplifica le production e le essayo de moderne agentes e applicationes IA.
 m24-home-get-started-now = Comenciar ora
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Parlator sur scena con plure logos de productos.
@@ -75,6 +77,7 @@ m24-home-got-an-earlystage = Ha tu un interprisa in phase initial? Presenta tu i
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective re-organisa le ecosystema de datos del IA con le communitates al centro. Accede ultra 300 collectiones mundial de datos de alte-qualitate producite per e pro le communitate in maniera transparente e ethic.
 m24-home-join-today = Uni te hodie
+m24-home-a-double-bottom = Un duple linea de resultatos pro le technologia
 m24-home-agent-platform = Agent Platform
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Qualcunque agente
