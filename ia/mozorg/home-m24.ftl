@@ -118,6 +118,7 @@ m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = Financial Times
 m24-home-rewiring-mozilla = Restructurar { -brand-name-mozilla }:facer pro IA illo que nos faceva pro le web
+m24-home-interview-with-mark = Intervista con Mark Surman: Como { -brand-name-mozilla } se adapta al era del IA
 
 ## Showcase
 
