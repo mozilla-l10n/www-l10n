@@ -119,6 +119,8 @@ m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = Financial Times
 m24-home-rewiring-mozilla = Restructurar { -brand-name-mozilla }:facer pro IA illo que nos faceva pro le web
 m24-home-interview-with-mark = Intervista con Mark Surman: Como { -brand-name-mozilla } se adapta al era del IA
+m24-home-women-in-product = Conversation con Women In Product: Adder IAgen sin perder le route
+m24-home-scaling-open-source = Scalar le IA open-source: Mark Surman e Tim Bradshaw
 
 ## Showcase
 
@@ -133,6 +135,9 @@ m24-home-alt-rise25-smiling = Un orator qui surride confidente a { -brand-name-r
 m24-home-alt-rise25-joyous = Un premiato gaudiose a { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Stato de { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se reinventa, se diversifica circum un constellation de organisationes, reimagina le annuncios publicitari e crea un ecosystema de IA open source. Lege re isto in le reporto de stato 2024 de { -brand-name-mozilla }.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } se reinventa, se diversifica circum un constellation de organisationes, reimagina le annuncios publicitari e crea un ecosystema de IA open-source. Lege re isto in le Reporto { $year } del stato de { -brand-name-mozilla }.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Arte abstracte de pixel in tonalitates de verde, orange e rosate
 m24-home-read-the-report = Leger le reporto
@@ -140,6 +145,7 @@ m24-home-read-the-report = Leger le reporto
 ## Nothing Personal
 
 m24-home-mozilla-nothing-personal = Nihil de personal
+m24-home-our-new-magazine = Nostre nove magazine pro pensatores, technologistas, e creatives independente sur le prime linea del cultura digital.
 m24-home-read-now = Leger ora
 
 ## Issues
