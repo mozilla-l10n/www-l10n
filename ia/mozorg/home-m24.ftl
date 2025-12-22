@@ -63,6 +63,9 @@ m24-home-mozilla-builders = Constructores de { -brand-name-mozilla }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Le constructores adjuta disveloppatores independente a crear projectos transformative de IA open-source per collaborationes, programmation, e communitates a mesura.
 m24-home-builders-helps-independent-v2 = Le { -brand-name-mozilla-builders } adjuta disveloppatores independente a crear projectos transformative de IA open-source per collaborationes, programmation, e communitates a mesura.
+m24-home-own-what-you = Possede lo que tu produce
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = Besonia nos un “Pila LAMPA” pro le era del IA? Nos besonia technologia que es transparente, responsabile, e de proprietate del personas qui lo usa.
 m24-home-watch-now = Mira ora
 m24-home-get-started-now = Comenciar ora
 # Used as an accessible text alternative for an image
