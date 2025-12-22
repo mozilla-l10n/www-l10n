@@ -64,10 +64,12 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders; özel iş ortaklıkları, programlama ve topluluklar aracılığıyla bağımsız geliştiricilerin dönüşüm yaratan açık kaynaklı yapay zekâ projeleri oluşturmasına yardımcı olur.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders }; özel iş ortaklıkları, programlama ve topluluklar aracılığıyla bağımsız geliştiricilerin dönüşüm yaratan açık kaynaklı yapay zekâ projeleri oluşturmasına yardımcı olur.
 m24-home-watch-now = İzleyin
+m24-home-get-started-now = Başlayın
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Sahnedeki bir konuşmacı ve çeşitli ürün logoları.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Başlangıç aşamasında bir startup’ınız mı var? Şirketinizi { -brand-name-mozilla-ventures }’a anlatın, yapay zekâ ve internetin geleceği için olumlu bir değişime öncülük edecek finansman desteğini alın.
+m24-home-join-today = Hemen katılın
 
 ## Media Springboard
 
@@ -91,6 +93,7 @@ m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = The FT
 
 ## Showcase
 
@@ -109,8 +112,13 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } kendini yeniden
 m24-home-state-of-mozilla-alt = Yeşil, turuncu ve pembe tonlarında soyut bir pikselleşmiş resim
 m24-home-read-the-report = Raporu okuyun
 
+## Nothing Personal
+
+m24-home-read-now = Şimdi okuyun
+
 ## Issues
 
+m24-home-explore-issues-shaping = İnternetin geleceğini şekillendiren sorunları keşfedin
 # Used as an accessible text alternative for an image
 m24-home-alt-validation = Büyük bir klavye tuşuna bakan küçük bir insan ve hipnotize edici bir bilgisayar ekranı
 # Used as an accessible text alternative for an image

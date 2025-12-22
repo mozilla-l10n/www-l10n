@@ -9,6 +9,7 @@
 privacy-firefox-basics = Gizliliğin temelleri
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Kontrol sizde
+privacy-firefox-youre-in-control-v2 = Verilerinizin kontrolü sizde
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Gizlilik sadece bir ayar değil, sizin hakkınız. Bu yüzden { -brand-name-firefox } Gizlilik Bildirimi’ni açıklık, kontrol imkânı ve sorumlu varsayılan ayarlar üzerine inşa ettik. Bize göre, verilerinize ne olacağına her zaman siz karar verebilmelisiniz. { -brand-name-firefox }’un varsayılan olarak neler yaptığını net bir şekilde öğrenebilir, istediğiniz şekilde gezinebilmeniz için ayarlarınızı değiştirebilirsiniz.
 privacy-firefox-read-our-privacy = Gizlilik Bildirimimizi okuyun
@@ -20,6 +21,7 @@ privacy-firefox-transparency-first = Önce şeffaflık
 privacy-firefox-were-clear-about = Hangi verileri neden kullandığımızı net bir şekilde açıklıyoruz. Bizde sürprizlere yer yok. Ayrıntıları <a { $attrs }>{ -brand-name-firefox } Gizlilik Bildirimi</a>’mizde okuyabilirsiniz.
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Bu verileri nasıl kullanıyoruz?
+privacy-firefox-how-we-use-v2 = Varsayılan gizlilik
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Bu verileri { -brand-name-firefox }’un sorunsuz çalışmasını sağlamak, mevcut özellikleri geliştirmek ve finansal sürdürülebilirliğimizi korumak için kullanıyoruz. Tüm bunları yaparken gizliliğinize saygı gösteriyoruz. İsteğe bağlı bazı özelliklerin çalışması için ek veri gerekiyorsa tercihlerinizi yönetmeyi kolaylaştırıyoruz.
 privacy-firefox-builtin-control = Yerleşik kontrol

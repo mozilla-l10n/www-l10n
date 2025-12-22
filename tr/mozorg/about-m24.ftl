@@ -36,6 +36,8 @@ m24-about-we-fund-and = Teknolojiyi, interneti ve yapay zekâyı doğru yöne g�
 
 m24-about-read-more = Devamını okuyun
 m24-about-read-the-latest = En son { -brand-name-mozilla } haberlerini ve makalelerini okuyun
+m24-about-watch-here = İzleyin
+m24-about-watch-now = İzleyin
 
 ## Showcase
 
