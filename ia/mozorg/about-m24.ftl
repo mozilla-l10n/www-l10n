@@ -36,8 +36,11 @@ m24-about-we-fund-and = Nos financia e investi in le personas e le effortios pro
 
 m24-about-read-more = Leger plus
 m24-about-read-the-latest = Lege le ultime novas e articulos de { -brand-name-mozilla }
+m24-about-rewiring-mozilla = Restructurar { -brand-name-mozilla }: facer pro IA illo que nos faceva pro le web. Lege re nostre strategia de proxime generation e re nostre modo de transformar { -brand-name-mozilla } pro le Era del IA.
 m24-about-what-comes-next = Le futuro del technologia es un selection. Selige con nos.
 m24-about-watch-here = Specta ci
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = Pote nos haber un duple linea de resultatos pro le technologia? Mark Surman discute nostre modo de poter construer un ecosystema technologic con un duple linea de resultatos, illo que valorisa ambe mission e moneta.
 m24-about-watch-now = Specta ora
 
 ## Showcase
