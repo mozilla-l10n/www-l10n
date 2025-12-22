@@ -72,6 +72,7 @@ m24-home-got-an-earlystage = Ha tu un interprisa in phase initial? Presenta tu i
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective re-organisa le ecosystema de datos del IA con le communitates al centro. Accede ultra 300 collectiones mundial de datos de alte-qualitate producite per e pro le communitate in maniera transparente e ethic.
 m24-home-join-today = Uni te hodie
+m24-home-agent-platform = Agent Platform
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Qualcunque agente
 m24-home-stop-wiring-tools =
