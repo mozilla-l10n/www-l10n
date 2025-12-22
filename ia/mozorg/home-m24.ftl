@@ -79,7 +79,7 @@ m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective re
 m24-home-join-today = Uni te hodie
 m24-home-a-double-bottom = Un duple linea de resultatos pro le technologia
 m24-home-mark-surman-discusses = Mark Surman discute nostre modo de poter construer un ecosystema technologic con un duple linea de resultatos, illo que valorisa ambe mission e moneta.
-m24-home-agent-platform = Agent Platform
+m24-home-agent-platform = Platteforma agente
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Qualcunque agente
 m24-home-stop-wiring-tools =
