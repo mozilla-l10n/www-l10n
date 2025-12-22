@@ -36,6 +36,8 @@ m24-about-we-fund-and = Мо ба одамон ва ташаббусҳое, ки
 
 m24-about-read-more = Бештар хондан
 m24-about-read-the-latest = Хабарҳо ва мақолаҳои охиринро дар бораи «{ -brand-name-mozilla }» хонед
+m24-about-watch-here = Дар ин ҷой тамошо кунед
+m24-about-watch-now = Ҳоло тамошо кунед
 
 ## Showcase
 
