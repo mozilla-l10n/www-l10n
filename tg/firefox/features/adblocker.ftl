@@ -17,6 +17,13 @@ features-adblocker-these-ads-might-be-loud = Ин гуна рекламаҳо м
 features-adblocker-find-the-right-ad-blocker = Манъкунандаи рекламаеро, ки ба ниёзҳои шумо мувофиқ аст, дарёфт кунед
 features-adblocker-there-are-scores-of-content = Воситаҳои зиёде барои маҳдуд кардани муҳтаво мавҷуданд. Аммо, инчунин, чанд варианти беназире ҳастанд, ки махсус аз ҷониби «{ -brand-name-mozilla }» таҳия шудаанд…
 # Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = Барномаи «<a { $attrs }>uBlock Origin</a>», ки аз ҷониби шумораи зиёди корбарон ҳамчун стандарти тиллоӣ дар байни манъкунандагони реклама эътироф карда мешавад, бо кори самарноки баланд ва вазифаи муассири худ маъруф аст. Он хеле танзимшаванда мебошад, вале ҳамзамон ҳатто бе танзим ҳам хеле хуб кор мекунад.
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = Барномаи «<a { $attrs1 }>AdGuard AdBlocker</a>» рекламаро аз саросари Интернет манъ мекунад. Он рекламаҳоро дар сомонаҳо, шабакаҳои иҷтимоӣ ва ҳатто дар равзанаҳои зоҳиршавандаи безоркунанда манъ мекунад (агар шумо хоҳед, ки ҳамаи равзанаҳои зоҳиршавандаро боздоред, аз «<a { $attrs2 }>Popup Blocker</a>» ҳамчун интихоби дуруст истифода баред).
+# Variables:
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
 features-adblocker-ghostery-is-another-great = <a { $attrs }>«Ghostery»</a> боз як интихоби беҳтарин аст, ки на танҳо таблиғу рекламаро манъ мекунад, балки имтиёзҳои иловагиро барои муҳофизат аз ҳар гуна васоити пайгирӣ фароҳам меорад.
 # Variables:
