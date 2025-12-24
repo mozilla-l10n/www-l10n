@@ -8,8 +8,8 @@
 
 # HTML page title
 
-browsers-chromebook-get-firefox-browser = Скачать { -brand-name-firefox-browser } для { -brand-name-chromebook }
-browsers-chromebook-so-youve-got = Итак, у вас есть { -brand-name-chromebook } — теперь пришло время скачать независимый, защищающий вашу приватность «из коробки» { -brand-name-firefox-browser } для защиты ваших личных данных.
+browsers-chromebook-get-firefox-browser = Скачать { -brand-name-firefox-browser(case: "nominative") } для { -brand-name-chromebook }
+browsers-chromebook-so-youve-got = Итак, у вас есть { -brand-name-chromebook } — теперь пришло время скачать независимый, защищающий вашу приватность «из коробки» { -brand-name-firefox-browser(case: "nominative") } для защиты ваших личных данных.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Загрузить { -brand-name-firefox } для { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Загрузить компьютерный { -brand-name-firefox } для { -brand-name-chromebook }
 browsers-chromebook-x86-based-chromebook = { -brand-name-chromebook } на базе *x86 под управлением { -brand-name-chromeos } 80 или более поздней версии

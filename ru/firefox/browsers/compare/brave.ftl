@@ -10,7 +10,7 @@ compare-brave-firefox-vs-brave = Сравнение { -brand-name-firefox } и B
 # HTML page description
 compare-brave-read-our-comparison = Прочитайте наше сравнение браузеров { -brand-name-firefox } и Brave по возможностям, приватности и простоте использования.
 # "Fiddling" means you have to make a lot of changes and adjustments to make it work correctly.
-compare-brave-firefoxs-privacy-settings-are = Настройки приватности { -brand-name-firefox } надежны и просты в использовании. Блокировка рекламы по умолчанию может вызывать проблемы с посещаемыми вами веб-сайтами, поэтому вам придётся продолжать с ней возиться. Мы хотим, чтобы приватность была достаточно удобной, чтобы вы действительно <em>использовали</em> её.
+compare-brave-firefoxs-privacy-settings-are = Настройки приватности { -brand-name-firefox } надёжны и просты в использовании. Блокировка рекламы по умолчанию может вызывать проблемы с посещаемыми вами веб-сайтами, поэтому вам придётся продолжать с ней возиться. Мы хотим, чтобы приватность была достаточно удобной, чтобы вы действительно <em>использовали</em> её.
 compare-brave-firefox-makes-it-easy-for-you = { -brand-name-firefox } облегчает вам выбор поисковой системы, которую вы хотите использовать каждый раз, когда совершаете поиск. Brave использует свою поисковую систему по умолчанию, и вам нужно перейти в настройки браузера, чтобы выбрать что-то другое.
 # Variables:
 # $primary (url) - link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins

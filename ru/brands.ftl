@@ -176,8 +176,26 @@
 -brand-name-mozilla-festival = Фестиваль Mozilla
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
--brand-name-mozilla-account = Аккаунт Mozilla
--brand-name-mozilla-accounts = Аккаунты Mozilla
+-brand-name-mozilla-account =
+    { $case ->
+        [nominative_uppercase] Аккаунт Mozilla
+        [genitive] аккаунта Mozilla
+        [dative] аккаунту Mozilla
+        [accusative] аккаунт Mozilla
+        [instrumental] аккаунтом Mozilla
+        [prepositional] аккаунте Mozilla
+       *[nominative] аккаунт Mozilla
+    }
+-brand-name-mozilla-accounts =
+    { $case ->
+        [nominative_uppercase] Аккаунты Mozilla
+        [genitive] аккаунтов Mozilla
+        [dative] аккаунтам Mozilla
+        [accusative] аккаунты Mozilla
+        [instrumental] аккаунтами Mozilla
+        [prepositional] аккаунтах Mozilla
+       *[nominative] аккаунты Mozilla
+    }
 -brand-name-mozilla-builders = Mozilla Builders
 -brand-name-mozilla-ads = Реклама Mozilla
 -brand-name-builders = Builders

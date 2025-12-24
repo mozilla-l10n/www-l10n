@@ -16,7 +16,7 @@ what-is-firefox = Что такое { -brand-name-firefox }?
 # $url2 (url) - link to https://www.mozilla.org/products/
 
 the-firefox-browser-the-only = { -brand-name-firefox-browser(case: "nominative_uppercase") }, единственный крупный браузер, поддерживаемый некоммерческой организацией, помогает вам защищать вашу личную информацию. Узнайте больше о <a href="{ $url }">{ -brand-name-firefox-browsers(case: "prepositional") }</a> и <a href="{ $url2 }">других продуктах</a>.
-how-do-i = Как мне скачать { -brand-name-firefox-browser }?
+how-do-i = Как мне скачать { -brand-name-firefox-browser(case: "nominative") }?
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/new/
@@ -28,7 +28,7 @@ how-do-i = Как мне скачать { -brand-name-firefox-browser }?
 you-can-easily = Вы легко можете скачать компьютерный { -brand-name-firefox } <a href="{ $url }">здесь</a>. { -brand-name-firefox } работает на <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> и <a href="{ $url4 }">{ -brand-name-linux }</a>, а также доступен для <a href="{ $url5 }">{ -brand-name-android }- и { -brand-name-ios }-устройств</a>. Убедитесь, что вы загружаете наш браузер с одной из страниц { -brand-name-mozilla }/{ -brand-name-firefox }.
 is-firefox-free = { -brand-name-firefox } бесплатен?
 yep-the-firefox-browser-is-free = Да! { -brand-name-firefox-browser(case: "nominative_uppercase") } бесплатен. На самом деле абсолютно бесплатен. Никаких скрытых платежей или чего-то подобного. Вы ничего не платите за его использование.
-related-questions-free = Связанные вопросы: бесплатен ли { -brand-name-firefox-browser }?; стоит ли { -brand-name-firefox } денег?
+related-questions-free = Связанные вопросы: бесплатен ли { -brand-name-firefox-browser(case: "nominative") }?; стоит ли { -brand-name-firefox } денег?
 is-chrome-better = { -brand-name-chrome } лучше, чем { -brand-name-firefox }?
 no-we-dont = Нет, мы не думаем, что { -brand-name-chrome } лучше { -brand-name-firefox }, и вот почему: когда люди спрашивают, какой браузер лучше, на самом деле они спрашивают, какой браузер быстрее и безопаснее. { -brand-name-firefox } обновляется ежемесячно, чтобы вы были уверены, что вы используете самый быстрый браузер, обеспечивающий вашу приватность «из коробки».
 

@@ -13,10 +13,10 @@ gone-page-go-back = Вернуться назад
 gone-page-go-home = Начните изучение сайта с его <a { $home }>домашней страницы</a>.
 # Variables:
 #   $blog (attr) - attributes to be added to the <a> tag - href="https://blog.mozilla.org/"
-gone-page-search-blog = Поиск в <a { $blog }>Блоге { -brand-name-mozilla }</a>.
+gone-page-search-blog = Поиск в <a { $blog }>блоге { -brand-name-mozilla }</a>.
 # Variables:
 #   $products (attr) - attributes to be added to the <a> tag - href="/products/"
 gone-page-browse-products = Просмотрите наши <a { $products }>продукты</a>.
 # Variables:
 #   $support (attr) - attributes to be added to the <a> tag - href="https://support.mozilla.org/"
-gone-page-visit-support = Посетите <a { $support }>Поддержку { -brand-name-mozilla }</a>.
+gone-page-visit-support = Посетите <a { $support }>поддержку { -brand-name-mozilla }</a>.

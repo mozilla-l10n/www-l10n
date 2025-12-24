@@ -8,7 +8,7 @@
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Создайте { -brand-name-mozilla-account } – Храните свои данные в безопасности и синхронизируйте их
 # HTML page description
-mozilla-accounts-securely-sync-your = Надежно синхронизируйте свои пароли, закладки и вкладки со всеми своими устройствами. Создайте { -brand-name-mozilla-account } сейчас – Один логин – Мощь и приватность повсюду.
+mozilla-accounts-securely-sync-your = Надёжно синхронизируйте свои пароли, закладки и вкладки со всеми своими устройствами. Создайте { -brand-name-mozilla-account(case: "accusative") } сейчас – Один логин – Мощь и приватность повсюду.
 firefox-accounts-enter-your-email-address = Введите адрес электронной почты, чтобы начать.
 firefox-accounts-already-have-an-account = Уже есть аккаунт?
 firefox-accounts-sign-in = Войти
