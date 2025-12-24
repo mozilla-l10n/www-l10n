@@ -45,7 +45,7 @@ firefox-new-visit-support-for-more = Посетите сайт поддержк�
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
-firefox-new-download-browser = Скачать { -brand-name-firefox-browser }
+firefox-new-download-browser = Скачать { -brand-name-firefox-browser(case: "nominative") }
 firefox-new-fast = Быстрый, приватный и бесплатный
 firefox-new-from-mozilla = от { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser(case: "nominative_uppercase") } — это бесплатный веб-браузер с быстрой загрузкой страниц, уменьшенным расходом памяти и множеством функций, проект некоммерческой организации { -brand-name-mozilla }.

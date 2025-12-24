@@ -10,7 +10,7 @@ vpn-download-page-description = Скачайте { -brand-name-mozilla-vpn } д�
 # Variables:
 #   $devices (number) - maximum number of connected devices
 vpn-download-sub-heading = С одной подпиской вы можете скачать { -brand-name-mozilla-vpn } на { $devices } устройств.
-vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } предлагает надежную и безопасную защиту для всех основных операционных систем.
+vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } предлагает надёжную и безопасную защиту для всех основных операционных систем.
 vpn-download-not-available-in-country = К сожалению, { -brand-name-mozilla-vpn } недоступен для скачивания в вашей стране.
 vpn-download-for-windows-v2 = VPN для { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (только 64-разрядная версия)

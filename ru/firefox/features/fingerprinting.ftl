@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/features/block-fingerprinting/
 
 # page description
-features-fingerprinting-fingerprinting-is-a-desc = Сбор цифровых отпечатков — это более агрессивный вид онлайн-отслеживания, чем обычное отслеживание с помощью кук, поэтому { -brand-name-firefox-browser } блокирует его.
+features-fingerprinting-fingerprinting-is-a-desc = Сбор цифровых отпечатков — это более агрессивный вид онлайн-отслеживания, чем обычное отслеживание с помощью кук, поэтому { -brand-name-firefox-browser(case: "nominative") } блокирует его.
 features-fingerprinting-fingerprint-blocking = Блокировка цифровых отпечатков
 features-fingerprinting-firefox-blocks-fingerprinting = { -brand-name-firefox } блокирует сборщики цифровых отпечатков
 features-fingerprinting-what-is-fingerprinting-body = Что такое сбор цифровых отпечатков?

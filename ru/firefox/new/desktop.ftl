@@ -9,7 +9,7 @@
 # the em dash is used in English to show a change of thought and
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
-firefox-desktop-download-meta-title = Скачайте { -brand-name-firefox-browser } — Быстрый, приватный и бесплатный — от { -brand-name-mozilla }
+firefox-desktop-download-meta-title = Скачайте { -brand-name-firefox-browser(case: "nominative") } — Быстрый, приватный и бесплатный — от { -brand-name-mozilla }
 firefox-desktop-download-meta-title-v2 = Скачайте { -brand-name-firefox } для компьютера — от { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Получите { -brand-name-firefox } — бесплатный веб-браузер, поддерживаемый { -brand-name-mozilla }, некоммерческой организацией, занимающейся вопросами здоровья и приватности Интернета. Уже доступен на { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } и { -brand-name-ios }.
 firefox-desktop-download-meta-desc-v2 = Получите { -brand-name-firefox } для { -brand-name-windows }, { -brand-name-mac-short } или { -brand-name-linux }. { -brand-name-firefox } — бесплатный веб-браузер, поддерживаемый { -brand-name-mozilla }, некоммерческой организацией, занимающейся вопросами здоровья Интернета и конфиденциальностью.
@@ -20,7 +20,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser(case: "nominati
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Доступна ещё более новая версия { -brand-name-firefox }. <a { $update_url }>Обновить до последней версии</a>
 firefox-desktop-download-get-the-browser = Получите браузер, который защищает всё важное
-firefox-desktop-download-fast-reliable-private = Быстрый, надежный и приватный — для вашего спокойствия в Интернете.
+firefox-desktop-download-fast-reliable-private = Быстрый, надёжный и приватный — для вашего спокойствия в Интернете.
 firefox-desktop-set-as-default = Установите { -brand-name-firefox } в качестве браузера по умолчанию.
 firefox-desktop-download-download-options = Варианты скачиваний и другие языки
 firefox-desktop-download-browser-support = Поддержка { -brand-name-firefox-browser(case: "genitive") }
@@ -99,8 +99,8 @@ firefox-desktop-download-screenshots = Снимки экрана
 firefox-desktop-download-enhanced-tracking-protection = Улучшенная защита от отслеживания (УЗО)
 firefox-desktop-download-from-watching-a = От просмотра обучающего материала до наблюдения за игрой любимой команды — смотрите видео, пока выполняете другие задачи.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser(case: "nominative_uppercase") }
-firefox-desktop-download-get-firefox-android = Получить { -brand-name-firefox-browser } для <strong>{ -brand-name-android }</strong>
-firefox-desktop-download-get-firefox-ios = Получить { -brand-name-firefox-browser } для <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-get-firefox-android = Получить { -brand-name-firefox-browser(case: "nominative") } для <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Получить { -brand-name-firefox-browser(case: "nominative") } для <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Скачайте мобильный браузер { -brand-name-firefox } для автоматической защиты на всех ваших устройствах.
 firefox-desktop-download-learn-about-the = Узнайте больше о браузере { -brand-name-firefox } для компьютера ниже
 # Variables:
