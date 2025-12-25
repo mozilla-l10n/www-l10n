@@ -8,7 +8,7 @@
 # HTML page title
 windows-64-bit-firefox-for-windows = { -brand-name-firefox } pro 64bitové { -brand-name-windows(case: "acc") }
 # HTML page description
-windows-64-bit-users-on-64-bit-windows = Uživatelé 64bitového systému { -brand-name-windows }, kteří si stáhnou { -brand-name-firefox(case: "acc") }, dostanou automaticky naší 64bitovou verzi. To znamená, že dostávají i bezpečnější verzi { -brand-name-firefox(case: "gen") }.
+windows-64-bit-users-on-64-bit-windows = Uživatelé 64bitového systému { -brand-name-windows }, kteří si stáhnou { -brand-name-firefox(case: "acc") }, dostanou automaticky naší 64bitovou verzi. To znamená, že dostávají bezpečnější verzi { -brand-name-firefox(case: "gen") }.
 windows-64-bit-64-bit = 64bitová verze
 # Main title
 windows-64-bit-a-more-secure-firefox = Bezpečnější { -brand-name-firefox }.
@@ -25,8 +25,8 @@ windows-64-bit-how-do-you-get-64 = Jak získám 64bitový { -brand-name-firefox(
 # $version (url) - link to https://support.microsoft.com/help/13443/windows-which-operating-system
 # $check (url) - link to https://support.mozilla.org/kb/update-firefox-latest-version
 windows-64-bit-if-youre-running = Pokud máte 64bitovou verzi { -brand-name-windows(case: "gen") } (<a href="{ $version }">jak to zjistit</a>), možná už 64bitový { -brand-name-firefox(case: "acc") } máte. <a href="{ $check }">Zkontrolujte verzi svého { -brand-name-firefox(case: "gen") }</a> – v okně „O { -brand-name-firefox(case: "loc") }“ hledejte vedle označení verze informaci „(32 bitů)“ nebo „(64 bitů)“:
-windows-64-bit-if-you-see-32-bit-older = Pokud vidíte "(32-bit)" a používáte { -brand-name-firefox(case: "acc") } 56.0 nebo starší, při aktualizaci na nejnovější verzi získáte současně i 64bitovou verzi { -brand-name-firefox(case: "gen") }.
-windows-64-bit-if-you-see-32-bit-newer = Pokud vidíte "(32-bit)" a používáte { -brand-name-firefox(case: "acc") } 56.0.1 nebo novější, váš počítač má pravděpodobně málo paměti (méně než 3 GB). Stále si ale můžete 64bitový { -brand-name-firefox(case: "acc") } nainstalovat ručně.
+windows-64-bit-if-you-see-32-bit-older = Pokud vidíte „(32 bitů)“ a používáte { -brand-name-firefox(case: "acc") } 56.0 nebo starší, při aktualizaci na nejnovější verzi získáte současně i 64bitovou verzi { -brand-name-firefox(case: "gen") }.
+windows-64-bit-if-you-see-32-bit-newer = Pokud vidíte „(32 bitů)“ a používáte { -brand-name-firefox(case: "acc") } 56.0.1 nebo novější, váš počítač má pravděpodobně málo paměti (méně než 3 GB). Stále si ale můžete 64bitový { -brand-name-firefox(case: "acc") } nainstalovat ručně.
 # Variables:
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = Pokud potřebujete 32bitový { -brand-name-firefox(case: "acc") } nebo si chcete ručně nainstalovat 64bitový, stáhněte si a spusťte instalátor { -brand-name-firefox(case: "gen") } v požadované verzi (32 nebo 64bitový) pro { -brand-name-windows(case: "acc") }. Získat ho můžete na <a href="{ $all }">této stránce</a>.
