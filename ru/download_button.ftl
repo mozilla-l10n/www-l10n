@@ -26,7 +26,7 @@ download-button-download = Скачать
 #   $os_version (string) - e.g. Windows 8.1, macOS 10.14
 download-button-unsupported-platform = { $channel_name } <a href="{ $help_url }">больше не поддерживается</a> для { $os_version } и более ранних версий.
 download-button-please-download-esr = Пожалуйста, скачайте { -brand-name-firefox-esr } (выпуск с расширенной поддержкой), чтобы использовать { -brand-name-firefox }.
-download-firefox-esr = Загрузить { -brand-name-firefox-esr }
+download-firefox-esr = Скачать { -brand-name-firefox-esr }
 download-firefox-esr-32 = Скачать { -brand-name-firefox-esr } (32-разрядная версия)
 download-firefox-esr-64 = Скачать { -brand-name-firefox-esr } (64-разрядная версия)
 download-a-different-build = Скачать другую сборку
