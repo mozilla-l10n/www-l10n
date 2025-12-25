@@ -67,6 +67,7 @@ m24-home-watch-now = Ҳоло тамошо кунед
 m24-home-alt-ventures = Суханвар дар саҳна бо чандин тамғаи маҳсулот.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Оё шумо як стартап дар марҳилаи ибтидоӣ доред? Ширкати худро ба «{ -brand-name-mozilla-ventures }» муаррифӣ кунед ва барои пешбурди тағйироти мусбат дар ояндаи зеҳни сунъӣ (AI) ва Интернет маблағгузории боэътимодро ба даст оред.
+m24-home-join-today = Имрӯз ҳамроҳ шавед
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Ҳар гуна омил
 
