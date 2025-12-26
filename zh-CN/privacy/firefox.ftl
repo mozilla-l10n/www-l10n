@@ -27,7 +27,7 @@ privacy-firefox-how-we-use-v2 = 隐私深植设计
 privacy-firefox-we-use-data = 我们使用数据来保持 { -brand-name-firefox } 稳定运行、改进功能、帮助维持我们的业务，而这一切都以尊重您的隐私为前提。部分可选功能可能需要额外数据才能正常运作，我们通过精心设计，让您能够轻松管理自己的首选项。
 # Variables:
 #   $attrs (string) - link to https://firefox-source-docs.mozilla.org/contributing/data-collection.html#browsing-data
-privacy-firefox-we-use-data-v2 = 与许多浏览器例行收集并存储用户敏感数据不同，{ -brand-name-firefox } 遵循的原则是：即使是 { -brand-name-mozilla } 也不应获知您访问的网站以及所做的事情。
+privacy-firefox-we-use-data-v2 = 与许多浏览器例行收集并存储用户敏感数据不同，{ -brand-name-firefox } 遵循的<a { $attrs }>原则</a>是：即使是 { -brand-name-mozilla } 也不应获知您访问的网站以及所做的事情。
 privacy-firefox-builtin-control = 内置控制方式
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } 提供简易而强大的工具，让您随心管理自己的数据。您还可以细化调整设置，只需几下点击，就能分隔工作与私人生活，或是清除不再需要的历史记录。
 privacy-firefox-always-protected = 时刻贴身保护
