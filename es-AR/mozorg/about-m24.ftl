@@ -38,7 +38,7 @@ m24-about-read-more = Leer más
 m24-about-read-the-latest = Leé los últimos artículos y noticias de { -brand-name-mozilla }
 m24-about-rewiring-mozilla = Reconectando { -brand-name-mozilla }: haciendo por la IA lo que hicimos por la web. Leé sobre nuestra estrategia de próxima generación y cómo estamos transformando { -brand-name-mozilla } para la era de la IA.
 m24-about-what-comes-next = Lo que viene después en tecnología es una elección. Elegí con nosotros.
-m24-about-watch-here = Ver aquí
+m24-about-watch-here = Ver acá
 # "Double Bottom Line" refers to accounting for both money and mission values
 m24-about-can-we-have = ¿Podemos tener un doble objetivo para la tecnología? Mark Surman analiza cómo podemos construir un ecosistema tecnológico con un doble resultado final, uno que valore tanto la misión como el dinero.
 m24-about-watch-now = Mirá ahora
