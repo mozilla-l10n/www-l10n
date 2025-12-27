@@ -12,6 +12,7 @@ privacy-firefox-youre-in-control = Kontrollin e keni ju
 privacy-firefox-youre-in-control-v2 = Kontrollin e të dhënave tuaja e keni ju
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Privatësia s’është thjesht një rregullim — është e drejta juaj. Shënimi Mbi Privatësinë i  { -brand-name-firefox }-it ngrihet mbi qartësi, kontroll dhe parazgjedhje të përgjegjshme. Besojmë se duhet të jeni përherë në kontroll të çka ndodh me të dhënat tuaja. Mund të bazoheni te ne, për të shpjeguar qartësisht se ç’bën, si parazgjedhje, { -brand-name-firefox }-i dhe të përimtoni rregullimet tuaja, që të mund të shfletoni sipas mënyrës që dëshironi.
+privacy-firefox-privacy-isnt-just-v2 = Ja kuadri i plotë: { -brand-name-firefox }-i është ndërtuar me privatësi dhe mbrojtje, si parazgjedhje. Nuk dimë shumë gjëra rreth jush. Atë pak që dimë, s’e shesim kurrë. Dhe ndryshe nda të tjerë shfletues, ju japim zgjedhjen të çaktivizoni gjëra që ju bezdisin. Shënimi mbi Privatësinë i { -brand-name-firefox }-it ngrihet mbi qartësi, kontroll dhe parazgjedhje të përgjegjshme. Mund të na besoni ne, për të shpjeguar qartë çfarë bën { -brand-name-firefox }-i si parazgjedhje dhe të përimtoni rregullimet tuaja që të mund të shfletoni sipas mënyrës që dëshironi.
 privacy-firefox-read-our-privacy = Lexoni Shënimin tonë mbi Privatësinë
 privacy-firefox-keeping-you-informed = Ju mbajmë të informuar, në çdo hap të rrugës
 privacy-firefox-we-believe-you = Ne besojmë se duhet të dini se si përdoren të dhënat tuaja dhe pse. { -brand-name-firefox }-i është ndërtuar me privatësinë në mendje dhe tejdukshmëri në çdo hap.
@@ -24,6 +25,9 @@ privacy-firefox-how-we-use = Si i përdorim të dhënat
 privacy-firefox-how-we-use-v2 = Privat, si parazgjedhje
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Të dhënat i përdorim për ta mbajtur { -brand-name-firefox }-in në funksionim të rrjedhshëm, për të përmirësuar veçori të tij dhe për të na ndihmuar të mbajmë në punë biznesin tonë — krejt kjo teksa respektohet privatësia juaj. Disa veçori opsionale mund të duan të dhëna shtesë që të funksionojnë dhe e bëjmë të kollajtë për ju administrimin e parapëlqimeve tuaja.
+# Variables:
+#   $attrs (string) - link to https://firefox-source-docs.mozilla.org/contributing/data-collection.html#browsing-data
+privacy-firefox-we-use-data-v2 = Ndryshe mga mjaft shfletues të tjerë, ku të dhëna rezervat të përdoruesit grumbullohen dhe depozitohen ditën me diell, { -brand-name-firefox }-i është ndërtuar mbi <a { $attrs }>parimin</a> që qoftë edhe { -brand-name-mozilla } s’ka pse të dijë cilët sajte vizitoni dhe ç’bëni atje.
 privacy-firefox-builtin-control = Kontroll i brendshëm
 privacy-firefox-firefox-gives-you = { -brand-name-firefox }-i ju jep mjete të thjeshta, por të fuqishme për të administruar të dhënat tuaja sipas mënyrës që doni. Mund të përimtoni rregullimet tuaja, të ndani më vete punën nga jeta juaj personale, ose të fshihni historik të padëshiruar me vetëm pak klikime.
 privacy-firefox-always-protected = Përherë të mbrojtur
