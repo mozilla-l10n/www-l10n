@@ -25,6 +25,7 @@ privacy-faq-v2-following-questions = Pyetjet dhe përgjigjet vijuese do të duhe
 privacy-faq-v2-i-use-firefox = E përdor { -brand-name-firefox }-in për thuajse gjithçka në Web. Ju aty te { -brand-name-mozilla } duhet të dini një thes me gjëra rreth meje, apo jo?
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } s’di aq sa mund të prisnit, rreth se si e përdorin interneti njerëzit. { -brand-name-firefox }-i, shfletuesi që xhiron në pajisjen apo kompjuterin tuaj, është porta juaj për në internet. Shfletuesi juaj do të administrojë plot informacione rreth sajteve që vizitoni, por këto informacione përgjithësisht mbete në pajisjen tuaj.
 privacy-faq-v2-it-seems-like = Duket se çdo kompani në web shet dhe blen të dhënat e mia. Gjasat janë që as ju të mos jeni ndryshe.
+privacy-faq-v2-we-never-sell-your = S’i shesim kurrë të dhënat tuaja personale. Ndryshe nga shoqëri të tjera <em>big tech</em> që grumbullojnë dhe nxjerrin fitime nga informacion i juaji personal, ne jemi ngritur me privatësinë si parazgjedhja. Nuk njohim moshën tuaj, gjininë, vendndodhjen e saktë, apo tjetër informacion që Big Tech grumbullon dhe e përdor për të nxjerrë fitime.
 # Obsolete string (expires: 2025-12-08)
 # Variables:
 #   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained

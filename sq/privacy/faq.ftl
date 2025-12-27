@@ -23,6 +23,7 @@ privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }-i, shfletu
 privacy-faq-really-you-dont-collect-my-browsing = Vërtet, nuk grumbulloni të dhëna të historikut tim të shfletimeve?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } nuk di aq sa do të prisnit, rreth se si njerëzit shfletojnë në web. Si prodhues shfletuesi, kjo në fakt është një sfidë e madhe për ne. Ndaj kemi krijuar mjete <em>opt-in</em>, që u lejojnë përdoruesve të interesuar të na japin mendimet e tyre lidhur me shfletimin në web nga ata. Nëse e njëkohësoni historikun tuaj të shfletimeve nëpër instalime të { -brand-name-firefox }-it, nuk dimë gjë rreth atij historiku - ngaqë është i fshehtëzuar nga pajisja juaj.
 privacy-faq-it-seems-like-every-company = Duket se çdo kompani në web shet dhe blen të dhënat e mia. Gjasat janë që as ju të mos jeni ndryshe.
+privacy-faq-we-never-sell-your = S’i shesim kurrë të dhënat tuaja personale. Ndryshe nga shoqëri të tjera <em>big tech</em> që grumbullojnë dhe nxjerrin fitime nga informacion i juaji personal, ne jemi ngritur me privatësinë si parazgjedhja. Nuk njohim moshën tuaj, gjininë, vendndodhjen e saktë, apo tjetër informacino që Big Tech grumbullon dhe e përdor për të nxjerrë fitime.
 # Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } nuk shet të dhëna rreth jush dhe as blejmë të dhëna rreth jush.
 privacy-faq-wait-so-how-do-you-make-money = Dale, po paratë nga i nxirrni?

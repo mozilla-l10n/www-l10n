@@ -29,6 +29,8 @@ newsletter-form-available-languages = Gjuhë të Mundshme
 newsletter-form-select-country = Përzgjidhni vendin
 newsletter-form-sign-me-up = Regjistromëni
 newsletter-form-sign-up-now = Regjistrohuni Tani
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Po dërgohet
 newsletter-form-thanks = Faleminderit!
 newsletter-form-leave-this-field-empty = Lëreni të zbrazët këtë fushë.
 newsletter-form-yes = Po

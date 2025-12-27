@@ -92,6 +92,7 @@ m24-home-mozilla-ai-ceo = CEO i { -brand-name-mozilla-ai-v2 } flet për përpar�
 m24-home-introducing-thundermail-and = Prezantim i Thundermail-it dhe Thunderbird Pro-së
 m24-home-introducing-thundermail-and-v2 = Prezantim i { -brand-name-thundermail }-it dhe { -brand-name-thunderbird-pro }-së
 m24-home-mozillas-new-message = Mesazhi i ri i { -brand-name-mozilla }-s: Jemi i vetmi shfletues që s’ka miliarderë nga pas
+m24-home-mozilla = { -brand-name-mozilla }
 m24-home-interview-with-mark = Intervistë me Mark Surman-in: Si po përshtate { -brand-name-mozilla } në epokën e IA-s
 
 ## Showcase
@@ -118,6 +119,7 @@ m24-home-read-now = Lexojeni Tani
 
 ## Issues
 
+m24-home-explore-issues-shaping = Eksploroni çështje që i japin formë të ardhmes së internetit
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, drejtuesja e Podkastit IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
