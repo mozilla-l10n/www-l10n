@@ -6,17 +6,17 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
-mozilla-accounts-get-a-mozilla-account = Создайте { -brand-name-mozilla-account } – Храните свои данные в безопасности и синхронизируйте их
+mozilla-accounts-get-a-mozilla-account = Создайте { -brand-name-mozilla-account(case: "nominative") } – Храните свои данные в безопасности и синхронизируйте их
 # HTML page description
 mozilla-accounts-securely-sync-your = Надёжно синхронизируйте свои пароли, закладки и вкладки со всеми своими устройствами. Создайте { -brand-name-mozilla-account(case: "accusative") } сейчас – Один логин – Мощь и приватность повсюду.
 firefox-accounts-enter-your-email-address = Введите адрес электронной почты, чтобы начать.
 firefox-accounts-already-have-an-account = Уже есть аккаунт?
 firefox-accounts-sign-in = Войти
-mozilla-accounts-already = У вас уже есть { -brand-name-mozilla-account }. Поздравляем!
+mozilla-accounts-already = У вас уже есть { -brand-name-mozilla-account(case: "nominative") }. Поздравляем!
 firefox-accounts-manage = Управление вашим аккаунтом
-mozilla-account-header = { -brand-name-mozilla-account }
+mozilla-account-header = { -brand-name-mozilla-account(case: "nominative_uppercase") }
 # This is followed by a list of things you can do with your Mozilla account
-mozilla-account-sign-in-to = Войдите в свой { -brand-name-mozilla-account }, чтобы:
+mozilla-account-sign-in-to = Войдите в свой { -brand-name-mozilla-account(case: "nominative") }, чтобы:
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Отправлять вкладки</a> на другие устройства

@@ -9,7 +9,7 @@ newsletter-form-we-are-sorry-but-there = Извините, в системе в�
 newsletter-form-please-select-country = Пожалуйста, выберите страну или регион
 newsletter-form-please-select-language = Пожалуйста, выберите язык
 # Only localize "yourname". Do not change "@example.com".
-newsletter-form-yournameexamplecom = имя_пользователя@example.com
+newsletter-form-yournameexamplecom = иван_иванов@домен.ru
 newsletter-form-select-country-or-region = Выберите страну или регион
 newsletter-form-select-language = Выберите язык
 newsletter-form-your-email-here = ВАШ АДРЕС ЭЛЕКТРОННОЙ ПОЧТЫ

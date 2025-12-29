@@ -15,6 +15,6 @@ about-shared-patents = Патенты
 about-shared-our-products = Наши продукты
 about-shared-software-innovations = Приложения и другие новшества, созданные для продвижения нашей миссии.
 about-shared-get-involved = Присоединиться к сообществу
-about-shared-volunteer = Станьте волонтером в интересной для себя сфере.
+about-shared-volunteer = Станьте волонтёром в интересной для себя сфере.
 vision-for-the-web = Видение Интернета от { -brand-name-mozilla }
 read-about-our-vision = Узнайте о нашем видении Интернета и о том, как мы намерены реализовать это видение.

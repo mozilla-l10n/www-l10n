@@ -8,7 +8,7 @@
 
 ## Page heading
 
-contribute-page-title = Возможности для волонтеров в { -brand-name-mozilla }
+contribute-page-title = Возможности для волонтёров в { -brand-name-mozilla }
 contribute-page-heading = Ваши таланты необходимы для улучшения Интернета
 contribute-page-intro = { -brand-name-mozilla } - это некоммерческая организация, работающая над тем, чтобы Интернет был открытым и гостеприимным, и нам нужна ваша помощь. Присоединяясь к нашему сообществу, вы можете помочь внедрению инноваций, повышению ответственности и доверия, а также сделать Интернет лучше.
 contribute-how-heading = Как вы можете помочь…
@@ -27,7 +27,7 @@ contribute-task-mozilla-codebase-heading = Внесите свой вклад в
 contribute-task-mozilla-codebase-desc = Активно улучшайте продукты { -brand-name-mozilla }, внося свой вклад в различные разработки.
 contribute-task-support-desc = Помогите нам облегчить использование продуктов { -brand-name-mozilla }. Отвечайте на вопросы пользователей на форумах сообщества поддержки { -brand-name-mozilla }.
 contribute-task-join-heading = Присоединиться к сообществу
-contribute-task-join-desc = Хотите принять более активное участие в сообществе { -brand-name-mozilla }? Ознакомьтесь со всеми возможностями волонтерства на нашем портале сообщества.
+contribute-task-join-desc = Хотите принять более активное участие в сообществе { -brand-name-mozilla }? Ознакомьтесь со всеми возможностями волонтёрства на нашем портале сообщества.
 
 ## Mission
 
@@ -40,7 +40,7 @@ contribute-meet-volunteers = Познакомьтесь с нашими акти
 contribute-donate = Пожертвуйте
 contribute-help-fund = Помогите финансировать нашу миссию
 contribute-follow-mozilla = Подпишитесь на { -brand-name-mozilla }
-contribute-opportunities = Новости и возможности для волонтеров
+contribute-opportunities = Новости и возможности для волонтёров
 
 ## Made by
 
@@ -63,5 +63,5 @@ contribute-mozilla-support = Поддержка { -brand-name-mozilla }
 ## Web compat
 
 contribute-web-compat-heading = Проблемы с веб-страницей?
-contribute-web-compat-desc = Если веб-сайт ведет себя по-разному в различных браузерах, то возможно, что вы обнаружили проблему веб-совместимости. Мы бы хотели о ней узнать!
+contribute-web-compat-desc = Если веб-сайт ведёт себя по-разному в различных браузерах, то возможно, что вы обнаружили проблему веб-совместимости. Мы бы хотели о ней узнать!
 contribute-report-issue = Сообщить о проблеме

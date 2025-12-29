@@ -45,7 +45,7 @@ vpn-pricing-vpn-not-available = К сожалению, { -brand-name-mozilla-vpn
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = ЧЗВ
 vpn-pricing-refund-policy = Какова политика возврата средств { -brand-name-mozilla-vpn }?
-vpn-pricing-the-first-time-you = При первой подписке на { -brand-name-mozilla-vpn } через веб-сайт { -brand-name-mozilla }, если вы аннулируете свою учетную запись в течение первых 30 дней, вы можете запросить возмещение и { -brand-name-mozilla } возместит ваш первый срок подписки.
+vpn-pricing-the-first-time-you = При первой подписке на { -brand-name-mozilla-vpn } через веб-сайт { -brand-name-mozilla }, если вы аннулируете свой аккаунт в течение первых 30 дней, вы можете запросить возмещение и { -brand-name-mozilla } возместит ваш первый срок подписки.
 vpn-pricing-if-you-purchased = Если вы приобрели подписку посредством покупки в приложении в Apple App Store или Google Play Store, ваш платёж регулируется условиями магазина. Все запросы по выставлению счетов и возмещению средств за такие покупки вы должны направлять в Apple или Google, в зависимости от обстоятельств.
 vpn-pricing-what-information = Какую информацию сохраняет { -brand-name-mozilla-vpn }?
 # Variables

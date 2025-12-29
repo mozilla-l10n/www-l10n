@@ -44,7 +44,7 @@ vpn-download-and-install = <a href="{ $extension }">Скачайте и уста
 ## FAQ Strings
 
 vpn-download-faq-need-help = Нужна помощь, чтобы начать работу?
-vpn-download-faq-here-are-some = Вот некоторые из наиболее распространенных вопросов по настройке { -brand-name-mozilla-vpn }
+vpn-download-faq-here-are-some = Вот некоторые из наиболее распространённых вопросов по настройке { -brand-name-mozilla-vpn }
 vpn-download-faq-why-use = Почему мне стоит использовать { -brand-name-mozilla-vpn }
 # Variables:
 #   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/

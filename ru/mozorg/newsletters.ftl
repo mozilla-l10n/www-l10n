@@ -50,7 +50,7 @@ newsletters-it-may-take = Для отображения информации о 
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
 
-newsletters-many-of-our-communications-v2 = Большинство наших сообщений относятся к зарегистрированному вами аккаунту, например, { -brand-name-mozilla-accounts }, профилю на сайте { -brand-name-mdn-web-docs } или аккаунту разработчика дополнений. Для управления одним из ваших аккаунтов или просмотра списка ваших аккаунтов, посетите нашу <a href="{ $url }">страницу помощи по управлению аккаунтами</a>.
+newsletters-many-of-our-communications-v2 = Большинство наших сообщений относятся к зарегистрированному вами аккаунту, например, { -brand-name-mozilla-accounts(case: "dative") }, профилю на сайте { -brand-name-mdn-web-docs } или аккаунту разработчика дополнений. Для управления одним из ваших аккаунтов или просмотра списка ваших аккаунтов, посетите нашу <a href="{ $url }">страницу помощи по управлению аккаунтами</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = Чтобы получить доступ к целому миру продуктов, знаний и сервисов { -brand-name-firefox } с помощью одного аккаунта, присоединитесь к нам! Узнайте больше о преимуществах <a href="{ $url }">здесь</a>.
@@ -270,7 +270,7 @@ newsletters-webmaker = { -brand-name-webmaker }
 # Description for the newsletter in Newsletter subscription page (Webmaker)
 newsletters-special-announcements-helping-you = Специальные оповещения, которые помогут вам получить максимальную отдачу от { -brand-name-webmaker(case: "genitive") }.
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
-newsletters-mozilla-accounts = { -brand-name-mozilla-accounts }
+newsletters-mozilla-accounts = { -brand-name-mozilla-accounts(case: "nominative_uppercase") }
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-get-tips-from-mozilla = Получите советы от { -brand-name-mozilla } о том, как максимально эффективно использовать свой аккаунт.
 # Name for the newsletter in Newsletter subscription page (Welcome emails)

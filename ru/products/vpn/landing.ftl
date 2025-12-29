@@ -11,7 +11,7 @@ vpn-landing-invite-page-heading = Присоединиться к списку �
 vpn-landing-invite-email-label = Какой ваш адрес электронной почты?
 vpn-landing-invite-required-label = Обязательное поле
 # Only localize "yourname". Do not change "@example.com".
-vpn-landing-invite-email-placeholder = ваш_логин@example.com
+vpn-landing-invite-email-placeholder = иван_иванов@домен.ru
 vpn-landing-invite-country-label = В какой стране вы живёте?
 vpn-landing-invite-language-label = Выберите предпочитаемый язык.
 # Variables:

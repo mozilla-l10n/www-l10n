@@ -13,7 +13,7 @@ opt-out-confirmation-youll-continue = Вы будете продолжать п�
 # Field of a form
 opt-out-confirmation-your-email = Ваш адрес электронной почты:
 # Only localize "yourname". Do not touch @example.com.
-opt-out-confirmation-yournameexamplecom = вашлогин@example.com
+opt-out-confirmation-yournameexamplecom = иван_иванов@домен.ru
 # This is a button
 opt-out-confirmation-manage-preferences = Управление настройками
 opt-out-confirmation-prefer-to-get = Предпочитаете получать информацию другим способом?

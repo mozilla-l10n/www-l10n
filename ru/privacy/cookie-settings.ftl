@@ -23,7 +23,7 @@ cookie-settings-turn-on-javascript = Пожалуйста, включите Java
 cookie-settings-category-necessary-heading = Необходимые
 cookie-settings-category-necessary-what-are-subheading = Что такое необходимые куки?
 cookie-settings-category-necessary-what-are-desc = Эти технологии необходимы для поддержки основных функций веб-сайта, таких как вход в безопасную область веб-сайта или добавление элементов в корзину онлайн-покупок, и не могут быть отключены.
-cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } использует Необходимые куки только для обеспечения работы основных функций веб-сайта, например, для входа с использованием { -brand-name-mozilla-account } или покупки подписки на программное обеспечение при оформлении заказа. Без этих технологий основные функции веб-сайтов могут не работать.
+cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } использует Необходимые куки только для обеспечения работы основных функций веб-сайта, например, для входа с использованием { -brand-name-mozilla-account(case: "genitive") } или покупки подписки на программное обеспечение при оформлении заказа. Без этих технологий основные функции веб-сайтов могут не работать.
 
 ## Preference cookies section
 

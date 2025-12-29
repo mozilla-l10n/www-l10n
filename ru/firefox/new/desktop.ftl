@@ -109,13 +109,13 @@ firefox-desktop-download-learn-about-the = Узнайте больше о бра
 firefox-desktop-download-from-security-to = От безопасности до новостей и игр — <a { $attrs }>расширения найдутся для всех</a>. Добавляйте столько, сколько хотите, пока не станете полностью довольны своим браузером.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
-firefox-desktop-download-firefox-was-created = { -brand-name-firefox } был создан <a { $attrs }>{ -brand-name-mozilla }</a> как более быстрая и приватная альтернатива таким браузерам, как { -brand-name-ie }, и теперь { -brand-name-chrome }. Сегодня наша целеустремленная компания и сообщество волонтеров по-прежнему ставят вашу приватность превыше всего.
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } был создан <a { $attrs }>{ -brand-name-mozilla }</a> как более быстрая и приватная альтернатива таким браузерам, как { -brand-name-ie }, и теперь { -brand-name-chrome }. Сегодня наша целеустремлённая компания и сообщество волонтёров по-прежнему ставят вашу приватность превыше всего.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = По мере того, как Интернет растёт и меняется, { -brand-name-firefox } продолжает концентрироваться на вашем праве на приватность — это всегда было нашей идеей. Узнайте больше о нашей работе с данными в нашем <a { $attrs }>Уведомлении о конфиденциальности</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } доступен на всех ваших устройствах; возьмите с собой вкладки, историю и закладки. Все, что вам нужно, это <a { $attrs }>{ -brand-name-mozilla-account }</a>, и вы получите доступ к синхронизации и другим продуктам { -brand-name-mozilla }.
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } доступен на всех ваших устройствах; возьмите с собой вкладки, историю и закладки. Всё, что вам нужно, это <a { $attrs }>{ -brand-name-mozilla-account(case: "nominative") }</a>, и вы получите доступ к синхронизации и другим продуктам { -brand-name-mozilla }.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Сделайте качественный снимок любого сайта в Интернете с помощью нашего инструмента <a { $attrs }>Снимок экрана</a>, встроенного прямо в браузер.
