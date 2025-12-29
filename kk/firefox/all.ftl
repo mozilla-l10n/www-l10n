@@ -27,7 +27,11 @@ firefox-all-plat-mobile = Android және iOS
 firefox-all-sorry-we-couldnt-find = Кешіріңіз, сіз іздеген жүктеп алуды таба алмадық. Әрекетті қайталаңыз немесе төмендегі тізімнен жүктеп алуды таңдаңыз.
 firefox-all-64-bit-installers = 64-биттік орнатқыштар
 firefox-all-32-bit-installers = 32-биттік орнатқыштар
+firefox-all-microsoft-store-installers = Microsoft Store
 firefox-all-choose-a-microsoft-store-installer = Бұл опция Microsoft Store веб-порталында { -brand-name-firefox } өнімінің бетін ашады. Егер сізде Windows 10 немесе Windows 11 орнатылған болса, осы беттен Microsoft Store қолданбасын ашып, { -brand-name-firefox } браузерін орнату мүмкіндігі болады. Егер сіз оны Microsoft Store дүкенінен орнатсаңыз, { -brand-name-firefox } жаңартуларын да Microsoft Store басқарады. Microsoft Store дүкенінен орнатылған { -brand-name-firefox } нұсқасының жұмысы мен мүмкіндіктерінде шамалы айырмашылықтар бар, бірақ пайдаланушылардың көбі үшін бұл айырмашылықтар байқалмайды.
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = { $esr_version } жүктеп алу
 firefox-all-check-the-system-requirements = Жүйелік талаптарды тексеріңіз
 firefox-all-release-notes = Шығарылым ескертпесі
 firefox-all-source-code = Бастапқы коды
@@ -45,3 +49,5 @@ firefox-all-product-firefox-esr = { -brand-name-firefox-extended-support-release
 firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-android }
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
+firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
