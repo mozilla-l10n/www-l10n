@@ -55,13 +55,19 @@ related-questions-safe = Саволҳои марбут: оё браузери «
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
 why-is-firefox = Чаро браузери «{ -brand-name-firefox }» хеле суст кор мекунад?
+firefox-isnt-slow = Браузери «{ -brand-name-firefox }» дигар суст кор намекунад. Дар соли 2017 мо муҳаррики браузери худро (бо номи «Quantum») комилан аз нав сохтем, то браузери «{ -brand-name-firefox }» тавонад бо дигар браузерҳои пешсаф рақобат кунад. Илова бар ин, манъкунандаи васоити пайгирии мо барои боз ҳам зудтар бор кардани саҳифаҳои сомонаҳо мусоидат мекунад. Дар натиҷа, «{ -brand-name-firefox }» бо суръати барқосо кор мекунад ва ҳамзамон махфияти шуморо пурра ҳифз менамояд.
 is-firefox-chromium = Оё браузери «{ -brand-name-firefox }» дар «{ -brand-name-chromium }» асос меёбад?
+firefox-is-not = Браузери «{ -brand-name-firefox }» ба лоиҳаи «{ -brand-name-chromium }» (лоиҳаи браузер бо рамзи манбаи кушод, ки дар асоси он браузери «{ -brand-name-google } { -brand-name-chrome }» таҳия шудааст) комилан тааллуқ надорад. Дар асл, мо яке аз навтарин браузерҳои бузург ҳастем, ки дар он лоиҳа асос намеёбад. Браузери «{ -brand-name-firefox }» бо истифода аз муҳаррики браузерии «Quantum» кор мекунад, ки махсус барои «{ -brand-name-firefox }» сохта шудааст ва ҳамин тавр мо метавонем кафолат диҳем, ки маълумоти шумо бо эҳтиром коркард гардида, ба таври махфӣ нигоҳ дошта мешавад.
 does-firefox-use = Браузери «{ -brand-name-firefox }» аз «{ -brand-name-google }» истифода мебарад?
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 
+firefoxs-default-search = Низоми ҷустуҷӯии «{ -brand-name-google }» муҳаррики ҷустуҷӯии пешфарз дар браузери «{ -brand-name-firefox }» мебошад ва ин маънои онро дорад, ки шумо метавонед сомонаҳоро дар Интернет мустақиман аз навори нишонӣ ҷустуҷӯ намоед. <a href="{ $url }">Дар бораи хусусиятҳои муҳаррикҳои ҷустуҷӯӣ ва тағйир додани танзимоти пешфарз маълумоти бештар гиред.</a>
 does-firefox-have = Браузери «{ -brand-name-firefox }» барномаи VPN-и дарунсохтро бар бар мегирад?
+# Variables:
+# $url (url) - link to https://www.mozilla.org/products/vpn/
+firefox-does-not-v2 = Браузери «{ -brand-name-firefox }» дорои «VPN» (шабакаи хусусии маҷозӣ)-и дарунсохт намебошад, аммо ташкилоти «{ -brand-name-mozilla }» маҳсулеро бо номи «<a href="{ $url }">{ -brand-name-mozilla-vpn }</a>» таҳия ва дастгирӣ мекунад, ки шумо метавонед онро дар баробари браузери хусусии «{ -brand-name-firefox-browser }» истифода баред, то ин маҳсул тавонад пайвасти шуморо ҳангоми истифодаи «Wi-Fi», аз он ҷумла нишонии «IP»-и шумо, муҳофизат намояд.
 related-questions-ip = Саволҳои марбут: оё браузери «{ -brand-name-firefox }» нишонии IP-и шуморо пинҳон мекунад?
 who-owns-firefox = Соҳиби «{ -brand-name-firefox }» кӣ мебошад?
 
