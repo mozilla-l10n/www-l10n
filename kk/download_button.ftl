@@ -20,6 +20,4 @@ download-button-firefox-ios = { -brand-name-ios } үшін <span>{ -brand-name-f
 download-button-firefox-privacy = { -brand-name-firefox } жекелігі
 download-button-firefox-privacy-notice = { -brand-name-firefox } жекелік ескертуі
 download-button-download = Жүктеп алу
-
-## Linux
-
+download-firefox-esr = { -brand-name-firefox-esr } жүктеп алу

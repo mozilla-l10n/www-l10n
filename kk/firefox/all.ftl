@@ -5,9 +5,25 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+firefox-all-choose-browser = Жалғастыру үшін браузерді таңдаңыз
+firefox-all-choose-platform = Жалғастыру үшін платформаны таңдаңыз
+firefox-all-choose-language = Жалғастыру үшін тілді таңдаңыз
+firefox-all-change-browser = Басқа өнімді таңдау
+firefox-all-change-platform = Басқа платформаны таңдау
+firefox-all-change-language = Басқа тілді таңдау
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Төмендегі тізімнен таңдаңыз
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Көмек алу
+firefox-all-browser-v2 = 1. Браузер:
+firefox-all-platform-v2 = 2. Платформа:
+firefox-all-language-v2 = 3. Тіл:
+firefox-all-download = 4. Жүктеп алу:
+firefox-all-desktop = Жұмыс үстелі
+firefox-all-mobile = Мобильді
+firefox-all-recommended = (Ұсынылады)
 firefox-all-lang-multi = Бірнеше тіл
+firefox-all-plat-mobile = Android және iOS
 firefox-all-sorry-we-couldnt-find = Кешіріңіз, сіз іздеген жүктеп алуды таба алмадық. Әрекетті қайталаңыз немесе төмендегі тізімнен жүктеп алуды таңдаңыз.
 firefox-all-64-bit-installers = 64-биттік орнатқыштар
 firefox-all-32-bit-installers = 32-биттік орнатқыштар
