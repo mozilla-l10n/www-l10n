@@ -108,6 +108,10 @@ m24-home-mozilla-is-reinventing-itself = «{ -brand-name-mozilla }» худши�
 m24-home-state-of-mozilla-alt = Ҳунари пикселии хаёлӣ бо сояҳои сабз, норанҷӣ ва гулобӣ
 m24-home-read-the-report = Хондани гузориш
 
+## Nothing Personal
+
+m24-home-read-now = Ҳозир хонед
+
 ## Issues
 
 m24-home-explore-issues-shaping = Масъалаҳоеро, ки ояндаи Интернетро шакл медиҳанд, омӯзед

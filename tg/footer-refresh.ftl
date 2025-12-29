@@ -10,6 +10,8 @@ footer-refresh-learn-more-about-mozilla-ads = Маълумоти бештар <s
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Маълумоти бештар <span>дар бораи рекламаи «{ -brand-name-mozilla }»</span>
 footer-refresh-firefox-release-notes = Қайдҳои нашри «{ -brand-name-firefox }»
+# Obsolete string (expires 2026-03-13)
+footer-refresh-extend-reach = Фарогириро васеътар кунед. Эътимодро тақвият диҳед.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Пайгирӣ кардани @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
