@@ -38,7 +38,7 @@ history-not-many-people-noticed = Он вақт бисёр одамон пайх
 history-in-2003-the-mozilla-project = Дар соли 2003 лоиҳаи «{ -brand-name-mozilla }» расман «{ -brand-name-mozilla-foundation }»-ро таъсис дод, ки <a href="{ $foundation }">ташкилоти мустақили ғайритиҷоратӣ</a> буда, аз ҷониби донорҳои инфиродӣ ва ширкатҳои гуногун дастгирӣ карда шуд.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = Муассисаи нави «{ -brand-name-mozilla-foundation }» нақши асосии идоракунии амалиёти ҳаррӯзаи лоиҳаро идома дод ва инчунин расман нақши пешбурди принсипҳои <a href="{ $manifesto }">кушодагӣ, навоварӣ ва имкониятҳои навро</a> дар Интернет ба уҳда гирифт.
+history-the-new-mozilla-foundation = Муассисаи нави «{ -brand-name-mozilla-foundation }» нақши асосии идоракунии амалиёти ҳаррӯзаи лоиҳаро идома дод ва инчунин, расман нақши пешбурди принсипҳои <a href="{ $manifesto }">кушодагӣ, навоварӣ ва имкониятҳои навро</a> дар Интернет ба уҳда гирифт.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = Ин ба туфайли барориши доимии нармафзор, ба монанди «{ -brand-name-firefox }» ва «{ -brand-name-thunderbird }», ва фарогирии соҳаҳои нав, чунончӣ, таъмин намудани <a href="{ $grants }">грантҳо</a> барои дастгирии мукаммалсозии қобилияти дастрасӣ дар Интернет, имконпазир гардид.
