@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/privacy/faq
 
 # HTML page title
-privacy-faq-mozillas-data-privacy-faq = Časté otázky k ochraně osobních dat společností { -brand-name-mozilla }
+privacy-faq-mozillas-data-privacy-faq = Časté dotazy k ochraně osobních údajů organizací { -brand-name-mozilla }
 privacy-faq-at-mozilla-we-respect-and-protect-desc = V { -brand-name-mozilla(case: "loc") } vaše osobní údaje respektujeme a chráníme.
 privacy-faq-we-stand-for-people-over-profit = Jde nám o lidi, ne o zisk.
 privacy-faq-it-can-be-tricky-for-people = Lidé často neví, co mají od používaného softwaru a služeb očekávat. Technologie, které denně používáme, jsou složité a na zjišťování podrobností nebývá čas. Tak je to i u { -brand-name-firefox(case: "gen") }, kde, jak jsme zjistili, mají lidé velmi různorodé představy o tom, co se na pozadí děje.
