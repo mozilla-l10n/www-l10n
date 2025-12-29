@@ -8,4 +8,7 @@
 firefox-desktop-download-get-the-browser = Маңызды нәрсенің барлығын қорғайтын браузерді алыңыз
 firefox-desktop-download-download-options = Жүктеп алу опциялары және басқа тілдер
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } қолдауы
+firefox-desktop-download-themes = Темалар
+firefox-desktop-download-dark-mode = Қараңғы тема
+firefox-desktop-download-library-of-extensions = Кеңейтулер кітапханасы
 firefox-desktop-download-screenshots = Скриншоттар
