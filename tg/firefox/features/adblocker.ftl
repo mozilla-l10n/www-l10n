@@ -36,6 +36,7 @@ features-adblocker-create-a-tracker-free = Ба воситаи абзори «М
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = Дар браузери «{ -brand-name-firefox }» шумо метавонед аз танзимоти <a href="{ $privacy }">«Махфият»</a> ё <a href="{ $blocking }">«Манъкунии муҳтаво»</a> истифода баред, то тавонед нисбат ба воситаҳои пайгирии рекламавие, ки ба шумо рекламаро пешниҳод мекунанд, назорати боз ҳам бештарро татбиқ намоед.
 features-adblocker-choose-your-level-of-protection = Сатҳи муҳофизати худро интихоб кунед
+features-adblocker-to-start-click-on-the-v2 = Барои оғози кор, дар ҳар гуна саҳифаи сомона нишонаи сипареро, ки аз тарафи чапи навори нишонӣ қарор дорад, зер кунед ва «Танзимоти муҳофизат»-ро интихоб намоед. Ин амал лавҳаи танзимоти махфият ва амният «{ -brand-name-firefox }»-ро дар варақаи нав мекушояд. Шумо бояд равзанаи зоҳиршавандаи кабудро бо имконоти гуногун бинед.
 features-adblocker-go-easy-with-standard = Тамошобинии тинҷу осуда дар реҷаи «Стандартӣ»
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/

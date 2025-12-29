@@ -47,7 +47,7 @@ navigation-v2-view-all-products = Намоиш додани ҳамаи маҳс�
 
 navigation-v2-who-we-are = Мо кӣ ҳастем
 navigation-v2-close-who-we-are-menu = Пӯшидани менюи «Мо кӣ ҳастем»
-navigation-v2-mozilla-manifesto = Санади асосии «{ -brand-name-mozilla }»
+navigation-v2-mozilla-manifesto = Баённомаи «{ -brand-name-mozilla }»
 navigation-v2-learn-about-the-values = Дар бораи арзишҳо ва принсипҳое, ки рисолати моро роҳнамоӣ мекунанд, маълумот гиред.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-meet-the-not-for-profit-behind = Бо ташкилоти ғайритиҷоратие, ки «{ -brand-name-firefox }»-ро пуштибонӣ мекунад ва Интернети беҳтаринро ташаккул мекунад, шинос шавед.
