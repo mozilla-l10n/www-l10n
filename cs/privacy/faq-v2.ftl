@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/privacy/faq
 
 # HTML page title
-privacy-faq-v2-title = Časté otázky k ochraně osobních dat společností { -brand-name-mozilla }
+privacy-faq-v2-title = Časté dotazy k ochraně osobních údajů organizací { -brand-name-mozilla }
 # HTML page description
 privacy-faq-v2-desc = V { -brand-name-mozilla(case: "loc") } respektujeme a chráníme vaše osobní údaje.
 privacy-faq-v2-heading = Stojíme si za tím, že lidé mají přednost před ziskem.
