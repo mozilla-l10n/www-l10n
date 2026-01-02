@@ -5,9 +5,26 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+# meta title, this shows as the link in search results
+# the em dash is used in English to show a change of thought and
+# the em dash is used in meta titles to separate the title of a page from the title of the whole site
+# this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
+firefox-desktop-download-meta-title = { -brand-name-firefox-browser } браузерін жүктеп алыңыз — Жылдам, жеке әрі тегін — оны { -brand-name-mozilla }ұсынады
+firefox-desktop-download-og-title = Ең жылдам { -brand-name-firefox } жүктеп алыңыз
+firefox-desktop-download-og-desc = Беттерді жылдам жүктеу, жадты аз пайдалану және көптеген мүмкіндіктерге толы жаңа { -brand-name-firefox } қолжетімді.
+firefox-desktop-download-firefox = { -brand-name-firefox-browser }
+# Variables:
+#   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
+firefox-desktop-out-of-date = Одан да жаңа { -brand-name-firefox } қолжетімді. <a { $update_url }>Соңғы нұсқасына жаңарту</a>
 firefox-desktop-download-get-the-browser = Маңызды нәрсенің барлығын қорғайтын браузерді алыңыз
+firefox-desktop-download-fast-reliable-private = Жылдам, сенімді және жеке — онлайн режимінде жан тыныштығы үшін.
 firefox-desktop-download-download-options = Жүктеп алу опциялары және басқа тілдер
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } қолдауы
+firefox-desktop-download-we-block-the-ad = Біз жарнама трекерлерін бұғаттаймыз. Сіз интернетті жылдамырақ шоласыз.
+firefox-desktop-download-see-your-report = Қорғаныс есебіңізді қараңыз
+firefox-desktop-download-for-everyone = { -brand-name-firefox } әркім үшін арналған
+firefox-desktop-download-available-in-over = 90-нан астам тілде қолжетімді және { -brand-name-windows }, { -brand-name-mac-short } және { -brand-name-linux } компьютерлерімен үйлесімді { -brand-name-firefox } сіз не қолданып жатсаңыз да немесе қай жерде болсаңыз да жұмыс істейді. Ең жақсы тәжірибе алу үшін операциялық жүйеңіздің жаңартылғанына көз жеткізіңіз.
+firefox-desktop-download-review-system-req = Жүйелік талаптарды қарап шығу
 firefox-desktop-download-search-smarter = Ақылдырақ, жылдамырақ іздеу
 firefox-desktop-download-search-from-address = Адрес жолағынан іздеу
 firefox-desktop-download-search-engine-options = Іздеу жүйесінің опциялары

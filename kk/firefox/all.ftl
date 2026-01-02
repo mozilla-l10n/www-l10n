@@ -63,6 +63,9 @@ firefox-all-arm64-installers = ARM64/AArch64 орнатушылары
 firefox-all-arm64-installers-optimized-v2 = Windows және Linux ДК үшін оңтайландырылған ARM64/AArch64 орнатқыштары.
 firefox-all-testflight = TestFlight арқылы iOS жүйесіне арналған { -brand-name-firefox } бағдарламасын сынау үшін тіркеліңіз
 firefox-all-product-send-link = Жүктеп алу сілтемесін сіздің телефоныңызға жіберу
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
+firefox-all-choose-a-32-bit-installer = 32-биттік процессоры бар компьютерлер үшін немесе ескі немесе қуаты аз компьютерлер үшін 32-биттік орнатушыны таңдаңыз. Егер сіз 64-биттік немесе 32-биттік орнатушыны таңдау керек пе екеніне <a href="{ $url }">сенімді болмасаңыз</a>, 32-биттік орнатуды ұсынамыз.
 firefox-all-msi-installers = MSI орнатқыштары
 firefox-all-select-your-preferred-language = Өзіңіз қалайтын тілді таңдаңыз
 firefox-all-learn-about-installers = Орнатқыштар туралы білу
@@ -76,3 +79,5 @@ firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
+firefox-all-download-esr-115 = ESR 115 жүктеп алу
+firefox-all-note-unsupported = Ескертпе: Егер сіз Windows 7, Windows 8, Windows 8.1 немесе macOS 10.12, 10.13 немесе 10.14 жүйелерін пайдалансаңыз, { -brand-name-firefox } пайдалану үшін ESR 115 жүктеп алыңыз.
