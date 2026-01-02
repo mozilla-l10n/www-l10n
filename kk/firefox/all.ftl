@@ -44,12 +44,20 @@ firefox-all-download-esr-version = { $esr_version } жүктеп алу
 firefox-all-esr-we-are-in-transition = Біз негізгі ESR нұсқалары { $esr_next_major } және { $esr_current_major } арасындағы өтпелі кезеңдеміз.
 firefox-all-esr-when-there-is = Негізгі нұсқа жаңартуы болған кезде, ескі нұсқаны пайдаланатын адамдарға жаңа нұсқаға көшуге дайындалу үшін бірнеше { -brand-name-firefox-esr } нұсқаларының бір-бірімен қабаттасуы әрқашан болады.
 firefox-all-esr-if-you-choose = Егер сіз ескі ESR нұсқасын жүктеп алуды таңдасаңыз, өтпелі кезең аяқталған кезде сіз автоматты түрде жаңа нұсқасына жаңартыласыз.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = <a { $attrs }>{ -brand-name-firefox-esr } шығарылым циклы</a> туралы көбірек біліңіз.
 firefox-all-check-the-system-requirements = Жүйелік талаптарды тексеріңіз
 firefox-all-release-notes = Шығарылым ескертпесі
 firefox-all-source-code = Бастапқы коды
 firefox-all-need-help = Көмек керек пе?
+firefox-all-choose-which-firefox = Өз тіліңізде қай { -brand-name-firefox-browser } жүктеп алу керектігін таңдаңыз
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } жекелік ескертуі
 firefox-all-learn-about-firefox = { -brand-name-firefox } браузерлері туралы біліңіз
+firefox-all-the-standard-firefox = Стандартты { -brand-name-firefox } браузері — жылдам және жеке. Егер сіз қай { -brand-name-firefox } браузерін таңдау керектігін білмесеңіз, осыны таңдаңыз.
+firefox-all-get-a-sneak-peek-at = { -brand-name-firefox } браузерінің ең соңғы мүмкіндіктерін шығарар алдында алдын ала қарап шығыңыз.
+firefox-all-test-your-sites-against = Әдепкі бойынша іске қосылған қуатты, икемді әзірлеуші құралдары көмегімен сайттарыңызды жақын арада шығарылатын { -brand-name-firefox } браузер мүмкіндіктерімен сынаңыз.
+firefox-all-count-on-stability-and = Кәсіпорынға арналған осы { -brand-name-firefox } браузерімен тұрақтылық пен пайдаланудың қарапайымдылығына сеніңіз.
 firefox-all-arm64-installers = ARM64/AArch64 орнатушылары
 firefox-all-msi-installers = MSI орнатқыштары
 firefox-all-select-your-preferred-language = Өзіңіз қалайтын тілді таңдаңыз
