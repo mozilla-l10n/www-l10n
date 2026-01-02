@@ -6,6 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 firefox-accounts-sign-in = Кіру
+firefox-accounts-manage = Тіркелгіңізді басқару
+mozilla-account-header = { -brand-name-mozilla-account }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 

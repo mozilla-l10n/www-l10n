@@ -17,6 +17,7 @@ firefox-new-need-help = Көмек керек пе?
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Жүктеу автоматты түрде басталуы тиіс. Жұмыс істемеді ме? <a id="{ $id }" href="{ $fallback_url }">Қайта жүктеп көріңіз</a>.
+firefox-new-download-almost-there = Дайын болуға жақын!
 firefox-new-windows = { -brand-name-windows }
 
 # Not-Required

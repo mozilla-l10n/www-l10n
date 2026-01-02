@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = { -brand-name-firefox } өнімін қазақ және басқа 90-нан астам тілде жүктеп алыңыз
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Әркім интернетке қол жеткізуге лайықты — сіздің тіліңіз ешқашан кедергі болмауы тиіс. Сондықтан біз — бүкіл әлем бойынша еріктілердің көмегімен — { -brand-name-firefox } браузерін 90-нан астам тілде ұсынамыз.
 firefox-all-choose-browser = Жалғастыру үшін браузерді таңдаңыз
 firefox-all-choose-platform = Жалғастыру үшін платформаны таңдаңыз
 firefox-all-choose-language = Жалғастыру үшін тілді таңдаңыз
