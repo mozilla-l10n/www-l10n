@@ -42,6 +42,7 @@ firefox-all-source-code = Бастапқы коды
 firefox-all-need-help = Көмек керек пе?
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } жекелік ескертуі
 firefox-all-learn-about-firefox = { -brand-name-firefox } браузерлері туралы біліңіз
+firefox-all-arm64-installers = ARM64/AArch64 орнатушылары
 firefox-all-msi-installers = MSI орнатқыштары
 firefox-all-select-your-preferred-language = Өзіңіз қалайтын тілді таңдаңыз
 firefox-all-learn-about-installers = Орнатқыштар туралы білу

@@ -21,3 +21,4 @@ ui-show-all = Барлығын көрсету
 ui-hide-all = Барлығын жасыру
 ui-learn-more = Көбірек білу
 ui-view = Қарап шығу
+ui-pause-animation = Анимацияны аялдату

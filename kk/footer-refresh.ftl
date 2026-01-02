@@ -3,6 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
+footer-refresh-firefox-release-notes = { -brand-name-firefox } шығарылым ескертпесі
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
@@ -25,3 +26,6 @@ footer-refresh-tools = Құралдар
 footer-refresh-donate = Демеушілік ету
 # Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> коммерциялық емес аналық ұйымын, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> сайтын шолыңыз.
+footer-refresh-about-this-site = Бұл сайт туралы
+footer-refresh-all-languages = Барлық тілдер
+footer-refresh-language = Тіл

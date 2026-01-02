@@ -3,3 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } алу
+
+## Who We Are menu
+
+navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla } және біз үшін маңызды мәселелер туралы біліңіз.
