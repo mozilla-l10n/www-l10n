@@ -29,13 +29,21 @@ firefox-all-recommended = (Ұсынылады)
 firefox-all-lang-multi = Бірнеше тіл
 firefox-all-plat-mobile = Android және iOS
 firefox-all-sorry-we-couldnt-find = Кешіріңіз, сіз іздеген жүктеп алуды таба алмадық. Әрекетті қайталаңыз немесе төмендегі тізімнен жүктеп алуды таңдаңыз.
+firefox-all-the-pre-alpha-version = Бағдарламаның қатесін табуды және жаңа функцияларды олар жазылып жатқан бойда сынап көруді ұнататын кәсіби пайдаланушыларға арналған пре-альфа нұсқасы.
 firefox-all-64-bit-installers = 64-биттік орнатқыштар
+firefox-all-choose-a-64-bit-installer = 64 биттік процессорлары бар компьютерлер үшін 64 биттік орнатушыны таңдаңыз, бұл оларға жеке бағдарламаларға көбірек жедел жад бөлуге мүмкіндік береді - әсіресе ойындар мен басқа да талап етілетін қолданбалар үшін маңызды.
 firefox-all-32-bit-installers = 32-биттік орнатқыштар
 firefox-all-microsoft-store-installers = Microsoft Store
 firefox-all-choose-a-microsoft-store-installer = Бұл опция Microsoft Store веб-порталында { -brand-name-firefox } өнімінің бетін ашады. Егер сізде Windows 10 немесе Windows 11 орнатылған болса, осы беттен Microsoft Store қолданбасын ашып, { -brand-name-firefox } браузерін орнату мүмкіндігі болады. Егер сіз оны Microsoft Store дүкенінен орнатсаңыз, { -brand-name-firefox } жаңартуларын да Microsoft Store басқарады. Microsoft Store дүкенінен орнатылған { -brand-name-firefox } нұсқасының жұмысы мен мүмкіндіктерінде шамалы айырмашылықтар бар, бірақ пайдаланушылардың көбі үшін бұл айырмашылықтар байқалмайды.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = { $esr_version } жүктеп алу
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Біз негізгі ESR нұсқалары { $esr_next_major } және { $esr_current_major } арасындағы өтпелі кезеңдеміз.
+firefox-all-esr-when-there-is = Негізгі нұсқа жаңартуы болған кезде, ескі нұсқаны пайдаланатын адамдарға жаңа нұсқаға көшуге дайындалу үшін бірнеше { -brand-name-firefox-esr } нұсқаларының бір-бірімен қабаттасуы әрқашан болады.
+firefox-all-esr-if-you-choose = Егер сіз ескі ESR нұсқасын жүктеп алуды таңдасаңыз, өтпелі кезең аяқталған кезде сіз автоматты түрде жаңа нұсқасына жаңартыласыз.
 firefox-all-check-the-system-requirements = Жүйелік талаптарды тексеріңіз
 firefox-all-release-notes = Шығарылым ескертпесі
 firefox-all-source-code = Бастапқы коды
