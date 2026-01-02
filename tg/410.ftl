@@ -8,6 +8,9 @@
 page-gone-title = Ин саҳифа тоза карда шудааст
 gone-page-go-back = Бозгашт
 # Variables:
+#   $home (attr) - attributes to be added to the <a> tag - href="https://mozilla.org"
+gone-page-go-home = Омӯзиши сомонаро аз <a { $home }>саҳифаи асосии</a> он оғоз кунед.
+# Variables:
 #   $blog (attr) - attributes to be added to the <a> tag - href="https://blog.mozilla.org/"
 gone-page-search-blog = Ҷустуҷӯ дар <a { $blog }>Блоги «{ -brand-name-mozilla }»</a>.
 # Variables:

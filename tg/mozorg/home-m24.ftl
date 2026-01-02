@@ -63,6 +63,7 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Созандагон ба таҳиягарони мустақил кумак мекунад, ки тавассути ҳамкории инфиродӣ, барномасозӣ ва ҷомеаи мо лоиҳаҳои табдилдиҳандаи манбаи кушодаи зеҳни сунъӣ (AI)-ро эҷод намоянд.
 m24-home-builders-helps-independent-v2 = «{ -brand-name-mozilla-builders }» ба барномасозон ва таҳиягарони мустақил кумак мекунад, ки онҳо тавассути ҳамкорӣ, барномасозӣ ва ҷомеаи мо лоиҳаҳои фармоишии табдилдиҳандаи манбаи кушодаи зеҳни сунъӣ (AI)-ро эҷод намоянд.
 m24-home-watch-now = Ҳоло тамошо кунед
+m24-home-get-started-now = Ҳозир оғоз намоед
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Суханвар дар саҳна бо чандин тамғаи маҳсулот.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
