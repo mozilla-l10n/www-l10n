@@ -5,9 +5,13 @@
 newsletter-form-please-enter-a-valid = Жарамды эл. пошта адресін енгізіңіз.
 newsletter-form-you-must-agree-to = Жекелік ескертуіне келісуіңіз керек
 newsletter-form-your-email-address = Эл. пошта адресіңіз
+newsletter-form-we-are-sorry-but-there = Кешіріңіз, бірақ жүйемізде ақаулық орын алды. Кейінірек қайталап көріңіз!
+newsletter-form-please-select-country = Елді немесе аймақты таңдау
+newsletter-form-please-select-language = Тілді таңдау
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
 newsletter-form-select-country-or-region = Елді немесе аймақты таңдау
+newsletter-form-select-language = Тілді таңдау
 newsletter-form-your-email-here = ЭЛ. ПОШТА АДРЕСІҢІЗ
 newsletter-form-get-firefox-news = { -brand-name-firefox } жаңалықтарын алу
 # Variables:
@@ -22,3 +26,5 @@ newsletter-form-select-country = Елді таңдаңыз
 newsletter-form-sign-me-up = Мені де жазыңыз
 newsletter-form-sign-up-now = Қазір тіркелгіні жасау
 newsletter-form-thanks = Рахмет!
+newsletter-form-yes = Иә
+newsletter-form-no = Жоқ

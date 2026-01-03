@@ -26,6 +26,8 @@ footer-refresh-tools = Құралдар
 footer-refresh-donate = Демеушілік ету
 # Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> коммерциялық емес аналық ұйымын, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> сайтын шолыңыз.
+footer-refresh-websites-legal = Құқықтық ақпарат
+footer-refresh-community-participation-guidelines = Қоғамдастыққа қатысу нұсқаулықтары
 footer-refresh-about-this-site = Бұл сайт туралы
 footer-refresh-all-languages = Барлық тілдер
 footer-refresh-language = Тіл
