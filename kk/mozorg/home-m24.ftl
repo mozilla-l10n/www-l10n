@@ -7,6 +7,9 @@
 
 # HTML Page title
 m24-home-page-title = Интернет пайда үшін емес, адамдар үшін — { -brand-name-mozilla }
+m24-home-page-title-v2 = { -brand-name-mozilla } — Интернет пайда үшін емес, адамдар үшін
+# HTML page description
+m24-home-page-desc = Сіз білдіңіз бе? { -brand-name-mozilla } — { -brand-name-firefox } жасаушысы — Интернетті әркім үшін ашық және қолжетерлік публикалық ресурс болғанын сақтау үшін күреседі.
 
 ## Intro
 
@@ -68,6 +71,7 @@ m24-home-topic-ai = Жасанды интеллект
 m24-home-topic-ps = Жекелік және қауіпсіздік
 m24-home-the-guardian = The Guardian
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-interview-with-mark = Марк Сурманмен сұхбат: { -brand-name-mozilla } жасанды интеллект дәуіріне қалай бейімделуде
 
 ## Showcase
 
