@@ -59,6 +59,13 @@ firefox-desktop-download-curated-content-on = Жаңа беттегі таңда
 firefox-desktop-download-share-links = Сілтемелерді бөлісу
 firefox-desktop-download-protect-your-privacy = Жекелігіңізді қорғаңыз
 firefox-desktop-download-third-party-cookie = Үшінші жақты cookie файлдарын бұғаттау
+firefox-desktop-download-fingerprinter-blocking = Цифрлық баспаны жинаушыларды бұғаттау
+firefox-desktop-download-cryptominer-blocking = Криптомайнерлерді бұғаттау
+firefox-desktop-download-private-browsing-mode = Жекелік шолу режимі
+firefox-desktop-download-individual-protections-report = Қорғаныс туралы жеке есеп
+firefox-desktop-download-secure-your-personal = Жеке ақпаратыңызды қорғаңыз
+firefox-desktop-download-breached-website-alerts = Бұзылған веб-сайттар ескертулері
+firefox-desktop-download-built-in-password = Кіріктірілген парольдер басқарушысы
 firefox-desktop-download-clear-history = Тарихты тазарту
 firefox-desktop-download-form-autofill = Форма автотолтыру
 firefox-desktop-download-automatic-updates = Автожаңартулар
@@ -68,6 +75,20 @@ firefox-desktop-download-dark-mode = Қараңғы тема
 firefox-desktop-download-library-of-extensions = Кеңейтулер кітапханасы
 firefox-desktop-download-adjust-search-bar = Іздеу жолағының параметрлерін реттеу
 firefox-desktop-download-change-new-tab = Жаңа бет жаймасын өзгерту
+firefox-desktop-download-make-firefox-your = <strong>{ -brand-name-firefox }</strong> браузерін өзіңізге ыңғайлаңыз
+firefox-desktop-download-extensions-for-every = Әрбір қызығушылық үшін кеңейтулер
+firefox-desktop-download-change-up-your = Браузердің сыртқы түрін өзгертіңіз
+firefox-desktop-download-go-from-light = Көңіл-күйіңізге немесе қалауыңызға қарай ашық режимнен қараңғы режимге ауысыңыз немесе арнайы тақырыппен (бәлкім, кемпірқосақ түсті бірмүйіз) өміріңізге түс қосыңыз.
+firefox-desktop-download-tweak-your-settings = Баптауларыңызды реттеңіз
+firefox-desktop-download-theres-no-need = Ешқандай шектеуге көнудің қажеті жоқ. Интернетті өзіңіз қалағандай зерттеу үшін жаңа бетті, іздеу жолағын, бетбелгілерді және т.б. өзгертіңіз.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Адамдарды бірінші орынға қоятын <strong>коммерциялық емес</strong> ұйымының қолдауымен
+firefox-desktop-download-challenging-the-status = 1998 жылдан бері қалыптасқан жағдайға қарсы тұру
+firefox-desktop-download-your-privacy-comes = Сіздің жекелігіңіз бірінші орында
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Өзіңіздің сүйікті браузер мүмкіндіктеріңізді сақтап қалыңыз — және жаңаларын <strong>ашыңыз</strong>.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = { -brand-name-google } компаниясының барлық сүйікті құралдарыңыз (Gmail және Docs сияқты) { -brand-name-firefox-browser } браузерінде мүлтіксіз жұмыс істейді.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-screenshots = Скриншоттар
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }

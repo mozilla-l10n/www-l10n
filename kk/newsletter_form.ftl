@@ -28,3 +28,5 @@ newsletter-form-sign-up-now = Қазір тіркелгіні жасау
 newsletter-form-thanks = Рахмет!
 newsletter-form-yes = Иә
 newsletter-form-no = Жоқ
+multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
+multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

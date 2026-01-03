@@ -32,6 +32,7 @@ m24-home-mask-your-email = Электрондық пошта және телеф
 
 m24-home-donate-to-v2 = { -brand-name-mozilla-foundation } атына демеушілік жасау
 m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } ұйымы технологиялар адамдардың күшімен қозғалатын және бастапқыдан ашық болатын болашақты құруда. Сол себепті біз технологияның болашағы бәріне ортақ игілік болуы үшін құқық қорғау, білім беру, қаржыландыру және инновациялар арқылы қоғамдастыққа негізделген технологияларды қолдаймыз. Бірақ бұл тек бірлесе әрекет еткенде ғана мүмкін болады.
+m24-home-were-proudly-nonprofit = Біз коммерциялық емес ұйым екенімізді мақтан тұтамыз. Бүгін { -brand-name-mozilla } қорына демеушілік етесіз бе?
 m24-home-donate = Демеушілік ету
 
 ## AI gallery
@@ -42,6 +43,7 @@ m24-home-tag-program = Бағдарлама
 m24-home-tag-event = Оқиға
 m24-home-read-more = Көбірек білу
 m24-home-get-started = Бастау
+m24-home-join-the-movement = Қозғалысқа қосылыңыз:<br> Адамдарға арналған ЖИ
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-agent-platform = Агент платформасы
 # Obsolete string (expires 2026-04-05)

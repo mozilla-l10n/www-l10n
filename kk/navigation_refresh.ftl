@@ -16,6 +16,13 @@ navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-new-products = { -brand-name-mozilla } жаңа өнімдері
 
+## Firefox
+
+navigation-refresh-firefox-focus = { -brand-name-firefox-focus }
+navigation-refresh-firefox-relay = { -brand-name-firefox-relay }
+navigation-refresh-all-products = Барлық өнімдер
+navigation-refresh-firefox-blog = { -brand-name-firefox } блогы
+
 ## Products
 
 navigation-refresh-products = Өнімдер
