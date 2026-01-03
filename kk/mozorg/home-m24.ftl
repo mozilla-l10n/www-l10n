@@ -57,17 +57,38 @@ m24-home-read-more = Көбірек білу
 m24-home-get-started = Бастау
 m24-home-join-the-movement = Қозғалысқа қосылыңыз:<br> Адамдарға арналған ЖИ
 m24-home-our-mission-is = Біздің миссиямыз — адамдарға ашық бастапқы кодты әрі сенімді ЖИ бірлесе жасау мен оның негізінде өнімдер қалыптастыруды жеңілдету.
+m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
+m24-home-mozilla-builders = { -brand-name-mozilla } Builders
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+m24-home-builders-helps-independent = Builders тәуелсіз әзірлеушілерге арнайы ынтымақтастық, бағдарламалау және қауымдастық қолдауы арқылы трансформациялық ашық бастапқы кодты ЖИ жобаларын жасауға көмектеседі.
+m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } тәуелсіз әзірлеушілерге арнайы ынтымақтастық, бағдарламалау және қауымдастық қолдауы арқылы трансформациялық ашық бастапқы кодты ЖИ жобаларын жасауға көмектеседі.
+m24-home-own-what-you = Құрған нәрсеңізге иелік етіңіз
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = Бізге ЖИ дәуірі үшін «LAMP Stack» қажет пе? Бізге ашық, есеп беретін және оны пайдаланатын адамдардың меншігіндегі технология қажет.
+m24-home-watch-now = Қазір қарау
+m24-home-choice-first-stack = Бірінші стек таңдауы
+m24-home-your-tools-your = Сіздің құралдарыңыз, сіздің таңдауыңыз. Заманауи ЖИ агенттері мен қосымшаларын құруды және тестілеуді жеңілдететін бірыңғай ашық бастапқы кодты стек.
+m24-home-get-started-now = Қазір бастау
+# Used as an accessible text alternative for an image
+m24-home-alt-ventures = Сахнада бірнеше өнім логотипі бар спикер.
+m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-got-an-earlystage = Бастапқы кезеңдегі стартапыңыз бар ма? Өз компанияңызды { -brand-name-mozilla-ventures } қорына таныстырып, ЖИ мен интернеттің болашағына оң өзгерістер енгізу үшін қаржыландыруға ие болыңыз.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-join-today = Бүгін қосылыңыз
+m24-home-a-double-bottom = Технология үшін екі еселенген нәтиже
+m24-home-mark-surman-discusses = Марк Сурман миссияны да, ақшаны да бағалайтын, яғни қосарланған нәтижесі бар технологиялық экожүйені қалай құруға болатынын талқылайды.
 m24-home-agent-platform = Агент платформасы
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Кез келген агент
+m24-home-stop-wiring-tools = Құралдарды бір-біріне теңеп байлауды және сенімсіз автоматтандыру жұмыстарын бақылап отыруды тоқтатыңыз. { -brand-name-mozilla-ai-v2 } агенттік платформасының көмегімен сіз тек мақсатыңызды сипаттайсыз, ал біз сіздің құралдарыңыз бен процестеріңізбен үйлесімді жұмыс істейтін бейімделгіш ЖИ агенттерін жасаймыз.
 
 ## Media Springboard
 
 m24-home-type = Түрі
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Автор
+m24-home-author-v2 = Автор(лар)
 m24-home-topic = Тақырып
 m24-home-intro = Кіріспе
 m24-home-tag-article = Мақала
@@ -76,22 +97,46 @@ m24-home-tag-video = Видео
 m24-home-topic-news = Жаңалықтар
 m24-home-topic-products = Өнімдер
 m24-home-topic-ai = Жасанды интеллект
+m24-home-topic-open-source-ai = Ашық бастапқы кодты ЖИ
 m24-home-topic-ps = Жекелік және қауіпсіздік
+m24-home-headline-you-ai-v2 = Сіз, ЖИ және интернет — шын мәнінде не болып жатыр?
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } Раффи Крикорянды Техникалық директор рөлінде қарсы алады
+m24-home-tech-target = Tech Target
+m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } бас директоры ашық бастапқы кодты ЖИ-дің артықшылықтары туралы айтады
+# Obsolete string (expires 2026-03-01)
+m24-home-introducing-thundermail-and = Thundermail және Thunderbird Pro ұсынамыз
+m24-home-introducing-thundermail-and-v2 = { -brand-name-thundermail } және { -brand-name-thunderbird-pro } ұсынамыз
+m24-home-what-comes-next = Технологиядағы келесі қадам — бұл таңдау. Бізбен бірге таңдаңыз.
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-mozillas-new-message = { -brand-name-mozilla }-ның жаңа жолдауы: Біз — миллиардерлердің қолдауына иек артпаған жалғыз браузерміз.
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = FT
+m24-home-rewiring-mozilla = { -brand-name-mozilla } компаниясын қайта құрастыру: Веб үшін жасағанымызды ЖИ үшін жасау
 m24-home-interview-with-mark = Марк Сурманмен сұхбат: { -brand-name-mozilla } жасанды интеллект дәуіріне қалай бейімделуде
 m24-home-women-in-product = «Өнімдегі әйелдер» әңгімесі: Негізгі бағытты жоғалтпай, GenAI енгізу
 m24-home-scaling-open-source = Ашық бастапқы кодты ЖИ масштабтау: Марк Сурман және Тим Брэдшоу
 
 ## Showcase
 
+m24-home-rise25-awards = { -brand-name-rise25 } марапаттары
+m24-home-get-to-know = Жасанды интеллектіні әзірлеуде жаңа стандарт қалыптастырып, инноваторлардың келесі буынын шабыттандырып жүрген — сенімді, инклюзивті және ашық ЖИ-ді жақтайтын көшбасшылармен танысыңыз.
 m24-home-watch-the-award = Марапаттау шоуын көріңіз
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = { -brand-name-rise25 } марапатының мақтанышты иегері.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-smiling = { -brand-name-rise25 } шарасындағы сенімді күлімсіреген спикер.
+# Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = { -brand-name-rise25 } шарасында мәз-мейрам болып тұрған марапат иегері.
+m24-home-state-of-mozilla = { -brand-name-mozilla } қалып-күйі
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } өзін-өзі қайта жаңғыртуда: ол ұйымдар шоғырына айналып, жарнаманы жаңаша түсініп, ашық бастапқы кодты ЖИ экожүйесін құруда. Бұл туралы { -brand-name-mozilla }-ның 2024 жылғы жағдайы туралы есептен толық оқи аласыз.
 # Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } өзін-өзі қайта жаңғыртуда: ол ұйымдар шоғырына айналып, жарнаманы жаңаша түсініп, ашық бастапқы кодты ЖИ экожүйесін құруда. Бұл туралы { -brand-name-mozilla }-ның { $year } жылғы жағдайы туралы есептен толық оқи аласыз.
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt = Жасыл, қызғылт сары және қызғылт реңктердегі абстрактілі пиксель өнері
+m24-home-read-the-report = Есепті оқу
 
 ## Nothing Personal
 
