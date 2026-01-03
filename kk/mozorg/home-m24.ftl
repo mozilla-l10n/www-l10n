@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/
 
+# HTML Page title
+m24-home-page-title = Интернет пайда үшін емес, адамдар үшін — { -brand-name-mozilla }
 
 ## Intro
 
