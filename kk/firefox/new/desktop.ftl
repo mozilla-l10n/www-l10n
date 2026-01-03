@@ -10,6 +10,9 @@
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
 firefox-desktop-download-meta-title = { -brand-name-firefox-browser } браузерін жүктеп алыңыз — Жылдам, жеке әрі тегін — оны { -brand-name-mozilla }ұсынады
+firefox-desktop-download-meta-title-v2 = { -brand-name-firefox } браузерін компьютерге жүктеп алыңыз — { -brand-name-mozilla } ұсынады
+firefox-desktop-download-meta-desc = Интернеттің денсаулығы мен жекелігін сақтауды мақсат еткен коммерциялық емес { -brand-name-mozilla } ұйымы қолдайтын тегін { -brand-name-firefox } браузерін алыңыз. Қазір { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } және { -brand-name-ios } жүйелерінде қолжетімді.
+firefox-desktop-download-meta-desc-v2 = { -brand-name-firefox } браузерін { -brand-name-windows }, { -brand-name-mac-short } немесе { -brand-name-linux } жүйелері үшін алыңыз. { -brand-name-firefox } — бұл интернеттің денсаулығы мен жекелігіне арналған коммерциялық емес { -brand-name-mozilla } ұйымы қолдайтын тегін веб-браузер.
 firefox-desktop-download-og-title = Ең жылдам { -brand-name-firefox } жүктеп алыңыз
 firefox-desktop-download-og-desc = Беттерді жылдам жүктеу, жадты аз пайдалану және көптеген мүмкіндіктерге толы жаңа { -brand-name-firefox } қолжетімді.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
@@ -18,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = Одан да жаңа { -brand-name-firefox } қолжетімді. <a { $update_url }>Соңғы нұсқасына жаңарту</a>
 firefox-desktop-download-get-the-browser = Маңызды нәрсенің барлығын қорғайтын браузерді алыңыз
 firefox-desktop-download-fast-reliable-private = Жылдам, сенімді және жеке — онлайн режимінде жан тыныштығы үшін.
+firefox-desktop-set-as-default = { -brand-name-firefox } браузерін әдепкі браузер ретінде орнатыңыз
 firefox-desktop-download-download-options = Жүктеп алу опциялары және басқа тілдер
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } қолдауы
 firefox-desktop-download-we-block-the-ad = Біз жарнама трекерлерін бұғаттаймыз. Сіз интернетті жылдамырақ шоласыз.
