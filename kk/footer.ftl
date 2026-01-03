@@ -2,8 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-mozilla-manifesto = { -brand-name-mozilla } манифесті
+footer-privacy-hub = Жекелік орталығы
 footer-privacy = Жекелік
 footer-press = Баспасөз
+footer-mozilla-blog = { -brand-name-mozilla } блогы
 footer-enterprise = { -brand-name-enterprise }
 footer-developers = Әзірлеушілер
 footer-developer-edition = { -brand-name-developer-edition }
@@ -12,6 +15,7 @@ footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-android } үшін { -brand-name-nightly }
 footer-beta-for-android = { -brand-name-android } үшін { -brand-name-beta }
 footer-visit-mozilla-corporations = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> коммерциялық емес аналық ұйымын, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> сайтын шолыңыз.
+footer-portions-of-this-content = Бұл мазмұнның кейбір бөліктері ©1998–{ $current_year } жекелеген mozilla.org үлес қосушыларына тиесілі. Мазмұн <a rel="license" href="{ $url }">{ -brand-name-creative-commons } лицензиясы</a> бойынша қолжетімді.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Компания
 footer-press-center = Баспасөз орталығы
@@ -22,10 +26,14 @@ footer-contact = Байланыс
 footer-product-help = Өнім туралы анықтама
 footer-support = Қолдау
 footer-file-a-bug = Ақаулық жөнінде хабарлау
+footer-localize-mozilla = { -brand-name-mozilla } аудару
+footer-community-participation-guidelines = Қоғамдастыққа қатысу нұсқаулықтары
+footer-websites-privacy-notice = Веб-сайттың құпиялылығы туралы ескерту
 footer-websites-cookies = Cookies
 footer-websites-legal = Құқықтық ақпарат
 footer-language = Тіл
 footer-go = Өту
+footer-donate = Демеушілік ету
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }

@@ -8,7 +8,41 @@ navigation-v2-menu = Мәзір
 ## Firefox menu
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
+navigation-v2-close-firefox-browsers-menu = { -brand-name-firefox-browsers } мәзірін жабу
+navigation-v2-firefox-for-desktop = Жұмыс үстеліне арналған { -brand-name-firefox }
+navigation-v2-firefox-for-android = { -brand-name-android } үшін { -brand-name-firefox }
+navigation-v2-firefox-for-ios = { -brand-name-ios } үшін { -brand-name-firefox }
+navigation-v2-firefox-focus = { -brand-name-firefox-focus }
+navigation-v2-simply-private-mobile = Жай ғана жеке мобильді шолу.
+navigation-v2-firefox-blog = { -brand-name-firefox } блогы
+navigation-v2-release-notes = Шығарылым ескертпесі
+
+## Products menu
+
+navigation-v2-products = Өнімдер
+navigation-v2-close-products-menu = Өнімдер мәзірін жабу
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-firefox-relay = { -brand-name-firefox-relay }
+navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (бета)
+navigation-v2-view-all-products = Барлық өнімдерді қарау
 
 ## Who We Are menu
 
+navigation-v2-who-we-are = Біз кімбіз
+navigation-v2-close-who-we-are-menu = Біз кімбіз мәзірін жабу
+navigation-v2-mozilla-manifesto = { -brand-name-mozilla } манифесті
+navigation-v2-get-involved = Үлес қосу
+navigation-v2-join-the-fight-for-a = Дені сау интернет үшін күреске қосылу.
+navigation-v2-leadership = Басшылық
+navigation-v2-careers = Карьера
+navigation-v2-mozilla-blog = { -brand-name-mozilla } блогы
 navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla } және біз үшін маңызды мәселелер туралы біліңіз.
+navigation-v2-more-about-mozilla = { -brand-name-mozilla } туралы көбірек
+navigation-v2-impact = Әсер
+
+## Innovation menu
+
+navigation-v2-innovation = Инновация
+navigation-v2-close-innovation-menu = Инновация мәзірін жабу

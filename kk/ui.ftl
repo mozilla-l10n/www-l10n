@@ -14,6 +14,8 @@ ui-watch-the-video = Видеоны қараңыз
 ui-replay = Қайта ойнату
 ui-share = Бөлісу
 ui-menu = Мәзір
+# Short for Table of Contents
+ui-contents = Мазмұны
 ui-please-turn-on-javascript = Бұл бетті дұрыс көрсету үшін JavaScript-ті іске қосыңыз.
 ui-show-more = Көбірек көрсету
 ui-show-less = Азырақ көрсету
