@@ -3,6 +3,11 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } алу
+navigation-v2-menu = Мәзір
+
+## Firefox menu
+
+navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 
 ## Who We Are menu
 
