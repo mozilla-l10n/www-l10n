@@ -7,3 +7,5 @@
 
 whatsnew-s2d-download-firefox-for-android = { -brand-name-android } және { -brand-name-ios } үшін { -brand-name-firefox } қолданбасын жүктеп алыңыз
 whatsnew-s2d-download-firefox-for-your = { -brand-name-firefox } қолданбасын өз смартфоныңыз не планшетіңіз үшін жүктеп алыңыз.
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = Осы QR кодын сканерлеңіз

@@ -2,9 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-refresh-discover-mozilla-products = { -brand-name-mozilla } өнімдері мен бастамаларымен танысыңыз. Біз электрондық поштаңыздың жекелігі мен қауіпсіздігін сақтауға уәде береміз: оны ешкіммен бөліспейміз және сатпаймыз, тек маңызды жаңалықтарды жіберіп отырамыз.
+footer-refresh-leadership = Басшылық
 footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-ads = <span>{ footer-refresh-mozilla-ads } туралы</span> көбірек біліңіз
+# Obsolete string (expires 2026-10-03)
+footer-refresh-learn-more-about-mozilla-advertising = <span>{ -brand-name-mozilla } жарнамасы туралы</span> көбірек біліңіз
 footer-refresh-firefox-release-notes = { -brand-name-firefox } шығарылым ескертпесі
+# Obsolete string (expires 2026-03-13)
+footer-refresh-extend-reach = Қамту аясын кеңейту. Сенімді нығайту.
+footer-refresh-add-trust-to = Жарнамалық сатып алуларыңызға сенімділік қосыңыз.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
+footer-refresh-follow-mozilla = @{ -brand-name-mozilla }-ға жазылу
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
