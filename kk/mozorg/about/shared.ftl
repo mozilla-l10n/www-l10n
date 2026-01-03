@@ -16,3 +16,5 @@ about-shared-our-products = Өнімдеріміз
 about-shared-software-innovations = Мақсатымызды ілгері жылжыту үшін жасалған БҚ және басқа инновациялар.
 about-shared-get-involved = Бізге қосылу
 about-shared-volunteer = Бірнеше әр түрлі аймақтарда волонтер үлес қосушы болыңыз.
+vision-for-the-web = { -brand-name-mozilla } компаниясының интернетке арналған көзқарасы
+read-about-our-vision = Интернетке қатысты біздің көзқарасымыз және оны қалай іске асыруға ниетті екеніміз туралы оқыңыз.
