@@ -61,11 +61,13 @@ navigation-v2-mozilla-blog = { -brand-name-mozilla } блогы
 navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla } және біз үшін маңызды мәселелер туралы біліңіз.
 navigation-v2-more-about-mozilla = { -brand-name-mozilla } туралы көбірек
 navigation-v2-impact = Әсер
+navigation-v2-find-out-how = Интернеттің қалайша анағұрлым инклюзивті және тұрақты болып жатқанын біліңіз
 
 ## Innovation menu
 
 navigation-v2-innovation = Инновация
 navigation-v2-close-innovation-menu = Инновация мәзірін жабу
 navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-get-the-firefox-browser-built = Тек әзірлеушілер үшін жасалған { -brand-name-firefox } браузерін алыңыз
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-common-voice = { -brand-name-common-voice }
