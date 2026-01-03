@@ -34,5 +34,7 @@ newsletter-form-yes = Иә
 newsletter-form-no = Жоқ
 # An accessible label used to describe purpose of the form.
 newsletter-form-label = Жаңалықтар бюллетеніне жазылу формасы
+multi-newsletter-form-checkboxes-legend = Маған мыналар туралы ақпарат керек:
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
+multi-newsletter-form-checkboxes-error = Жаңалықтар бюллетені опцияларының кем дегенде біреуін тексеріңіз.

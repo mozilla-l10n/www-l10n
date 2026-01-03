@@ -18,8 +18,27 @@ new-platform-need-help = Көмек керек пе?
 
 # Linux
 
+new-platform-download-mozilla-linux = { -brand-name-linux } үшін { -brand-name-mozilla } { -brand-name-firefox } жүктеп алыңыз
+# /firefox/linux/ HTML page description
+new-platform-download-mozilla-desc-linux = { -brand-name-linux } жүйесіне арналған тегін веб-браузер — { -brand-name-mozilla } { -brand-name-firefox } жүктеп алыңыз. { -brand-name-firefox } браузерін әрбір адамның желідегі әрекеттерін өз бақылауында ұстауына жағдай жасайтын жаһандық коммерциялық емес ұйым әзірлеген. { -brand-name-linux } үшін { -brand-name-firefox } браузерін бүгін алыңыз!
+# /firefox/linux/ social sharing title
+new-platform-download-the-fastest-linux = { -brand-name-linux } жүйесіне арналған ең жылдам { -brand-name-firefox } браузерін жүктеп алыңыз
+# /firefox/linux/ social sharing description
+new-platform-faster-page-loading-linux = Беттерді жылдам жүктеу, жадты аз пайдалану және көптеген мүмкіндіктерге толы { -brand-name-linux } үшін жаңа { -brand-name-firefox } қолжетімді.
+new-platform-privacy-more-than = Жекелік - бұл саясаттан артық нәрсе
+new-platform-your-life-your-business = Сіздің өміріңіз — өз шаруаңыз. { -brand-name-firefox } { -brand-name-linux } жүйесінде үшінші тараптың бақылаушы cookie файлдарына бөгет қояды.
+new-platform-speed-meet-security = Жылдамдық пен қауіпсіздіктің үйлесімі. { -brand-name-firefox } браузері { -brand-name-chrome } браузеріне қарағанда жадты 30%-ға аз пайдаланады және екі есе жылдам жұмыс істейді.
+new-platform-open-source = Ашық бастапқы код
+new-platform-look-under-the-hood = Ішкі құрылымымен танысыңыз. { -brand-name-linux } сияқты, { -brand-name-firefox } функциялары ашық бастапқы код болып табылады.
 
 ## Mac
 
+new-platform-download-mozilla-firefox-mac = { -brand-name-mac-short } үшін { -brand-name-mozilla } { -brand-name-firefox } жүктеп алыңыз
+# /firefox/mac/ HTML page description
+new-platform-download-mozilla-firefox-desc-mac = { -brand-name-mac-short } жүйесіне арналған тегін веб-браузер — { -brand-name-mozilla } { -brand-name-firefox } жүктеп алыңыз. { -brand-name-firefox } браузерін әрбір адамның желідегі әрекеттерін өз бақылауында ұстауына жағдай жасайтын жаһандық коммерциялық емес ұйым әзірлеген. { -brand-name-mac-short } үшін { -brand-name-firefox } браузерін бүгін алыңыз!
+# /firefox/mac/ social sharing title
+new-platform-download-the-fastest-mac = { -brand-name-mac-short } жүйесіне арналған ең жылдам { -brand-name-firefox } браузерін жүктеп алыңыз
+# /firefox/mac/ social sharing description
+new-platform-faster-page-loading-mac = Беттерді жылдам жүктеу, жадты аз пайдалану және көптеген мүмкіндіктерге толы { -brand-name-mac-short } үшін жаңа { -brand-name-firefox } қолжетімді.
 new-platform-privacy-comes-first = Жекелік бірінші орында
 new-platform-firefox-doesnt-spy = { -brand-name-firefox } іздеулерді тыңшылықпен бақыламайды. Біз үшінші тараптың cookie файлдарын бақылауын тоқтатамыз және сізге толық бақылауды береміз.

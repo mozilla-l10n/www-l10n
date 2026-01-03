@@ -119,12 +119,20 @@ firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } ба�
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Браузерге кірістірілген <a { $attrs }>скриншот</a> құралының көмегімен желідегі кез келген нәрсенің жоғары ажыратымдылықтағы суретін түсіріп алыңыз.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } браузері көптеген <a { $attrs }>үшінші тарап трекерлеріне</a> сіздің желідегі әрекеттеріңізді жинауға және сатуға автоматты түрде бөгет қояды.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Сұрақтарыңыз бар ма? <a { $attrs }>{ -brand-name-mozilla } қолдау қызметі</a> сізге көмектесуге дайын.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
 firefox-desktop-download-almost-there = Дайын болуға жақын!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-else = Енді { -brand-name-firefox } <strong>орнатуды</strong> аяқтаңыз.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Енді жаңа ғана жүктелген орнату файлын <strong>іске қосыңыз</strong>.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-mac = Енді жаңа ғана жүктелген файлды <strong>ашыңыз</strong>.
 # the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -134,3 +142,17 @@ firefox-desktop-download-select-linux = Төмендегі <strong>жүктеп 
 firefox-desktop-download-get-help = Мәселелер бар ма? <a { $attrs }>Орнату бойынша көмек алыңыз</a>.
 firefox-desktop-download-in-another-language = Басқа тілде немесе басқа операциялық жүйе үшін жүктеп алыңыз.
 firefox-desktop-download-windows = { -brand-name-windows }
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Егер сіз орнатайын деп жатқан қолданба { -brand-name-microsoft } тарапынан расталмаған деген ескертуді көрсеңіз, «Бәрібір орнату» батырмасын басыңыз немесе <a { $attrs }>қолданбаларды ұсыну баптауларын өзгертіңіз</a>.
+firefox-desktop-download-visit-support-for-more = Толығырақ ақпарат алу үшін қолдау қызметі сайтын шолыңыз
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Жүктеу автоматты түрде басталуы тиіс. Жұмыс істемеді ме? <a id="{ $id }" href="{ $fallback_url }">Қайта жүктеп көріңіз.</a>
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } браузерден де артық нәрсе.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
+firefox-desktop-download-interrupted = Жүктеуіңіз үзілді. Бірақ бәрі жоғалған жоқ.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Сіздің жүйеңіз { -brand-name-firefox } талаптарына сай келмеуі мүмкін, сіз <a href="{ $url }">келесі нұсқаларды</a> қолданып көре аласыз.
