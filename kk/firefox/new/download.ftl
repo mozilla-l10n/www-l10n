@@ -5,7 +5,11 @@
 
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
+firefox-new-download-firefox = { -brand-name-firefox } жүктеп алу
+firefox-new-download-the-fastest-firefox = Ең жылдам { -brand-name-firefox } жүктеп алыңыз
 firefox-new-mozilla = { -brand-name-mozilla }
+firefox-new-faster-page-loading-less-memory = Беттерді жылдам жүктеу, жадты аз пайдалану және көптеген мүмкіндіктерге толы жаңа { -brand-name-firefox } қолжетімді.
+firefox-new-get-the-latest-firefox = Ең соңғы { -brand-name-firefox } браузерін жүктеп алыңыз.
 firefox-new-free-web-browser = Еркін веб браузері
 firefox-new-advanced-install-options = Орнатудың қосымша мүмкіндіктері және басқа платформалар
 firefox-new-download-in-another-language = Басқа тілде жүктеп алу

@@ -67,4 +67,5 @@ firefox-desktop-download-select-linux = Төмендегі <strong>жүктеп 
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Мәселелер бар ма? <a { $attrs }>Орнату бойынша көмек алыңыз</a>.
+firefox-desktop-download-in-another-language = Басқа тілде немесе басқа операциялық жүйе үшін жүктеп алыңыз.
 firefox-desktop-download-windows = { -brand-name-windows }
