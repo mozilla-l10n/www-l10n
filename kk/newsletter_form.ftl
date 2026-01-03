@@ -15,9 +15,12 @@ newsletter-form-select-language = Тілді таңдау
 newsletter-form-your-email-here = ЭЛ. ПОШТА АДРЕСІҢІЗ
 newsletter-form-get-firefox-news = { -brand-name-firefox } жаңалықтарын алу
 newsletter-form-join-the-community = Қауымдастыққа қосылыңыз
+newsletter-form-sign-up-to-receive = { -brand-name-firefox } өнімінен ай сайынғы жаңалықтарды және желідегі өміріңізге әсер ететін интернет трендтері туралы ақпаратты алу үшін тіркеліңіз.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Мен { -brand-name-mozilla } менің жеке ақпаратымды <a href="{ $url }">осы Жекелік ескертуінде</a> жазылғанға сай қолданатынымен келісемін
+newsletter-form-we-will-only-send-v2 = Біз сізге тек { -brand-name-mozilla } жобасына қатысты ақпаратты ғана жібереміз. Жазылымнан кез келген уақытта бас тарта аласыз.
+newsletter-form-we-will-only-send-firefox-v2 = Біз сізге тек { -brand-name-firefox } өніміне қатысты ақпаратты ғана жібереміз. Жазылымнан кез келген уақытта бас тарта аласыз.
 newsletter-form-if-you-havent-previously = { -brand-name-mozilla }-ға байланысты жаңалықтар таспасына жазылуды осыған дейін растамаған болсаңыз, оны жасауыңыз керек болуы мүмкін. Поштаңыздың кіріс және спам бумаларынан бізден хатты іздеңіз.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> және сіз
 newsletter-form-get-firefox-tips = { -brand-name-firefox } жөнінде кеңестер, жаңалықтар және т.б. алу
@@ -38,3 +41,5 @@ multi-newsletter-form-checkboxes-legend = Маған мыналар туралы
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }
 multi-newsletter-form-checkboxes-error = Жаңалықтар бюллетені опцияларының кем дегенде біреуін тексеріңіз.
+multi-newsletter-form-title = Интернетті жақсы көру
+multi-newsletter-form-desc = { -brand-name-mozilla } жаңалықтар бюллетеніне жазылыңыз және вебтің ашық әрі еркін болуына көмектесіңіз.

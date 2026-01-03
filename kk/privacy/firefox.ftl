@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/privacy/firefox
 
+# hidden heading for the sections at the top of the page
+privacy-firefox-basics = Жекелік негіздері
+# Obsolete string (expires: 2026-02-10)
+privacy-firefox-youre-in-control = Басқару сіздің қолыңызда
 privacy-firefox-youre-in-control-v2 = Өз деректеріңізді өзіңіз басқарасыз
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Жекелік — бұл жай ғана баптау емес, бұл сіздің құқығыңыз. { -brand-name-firefox } жекелік туралы ескертуі анықтық, бақылау мүмкіндігі және жауапкершілікпен таңдалған әдепкі параметрлерге негізделген. Деректеріңізбен не болатынын әрқашан өзіңіз шешуіңіз керек деп есептейміз. { -brand-name-firefox } әдепкі бойынша қандай әрекеттер жасайтынын анық түсіндіретінімізге және интернетті өзіңіз қалағандай шарлау үшін баптауларды реттеуге мүмкіндік беретінімізге сенім арта аласыз.
