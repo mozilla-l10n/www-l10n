@@ -8,7 +8,7 @@
 about-shared-about-mozilla = { -brand-name-mozilla } туралы
 about-shared-mission = Мақсатымыз
 about-shared-history = Тарихы
-about-shared-leadership = Озаттық
+about-shared-leadership = Басшылық
 about-shared-governance = Басқару
 about-shared-forums = Форумдар
 about-shared-patents = Патенттер
