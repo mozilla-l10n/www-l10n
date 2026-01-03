@@ -9,6 +9,8 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-free-web-browser = Еркін веб браузері
+new-platform-download-the-fastest = Ең жылдам { -brand-name-firefox } жүктеп алыңыз
+new-platform-faster-page-loading = Беттерді жылдам жүктеу, жадты аз пайдалану және көптеген мүмкіндіктерге толы жаңа { -brand-name-firefox } қолжетімді.
 new-platform-2x-faster = 2 есе жылдам
 new-platform-advanced-install-options = Орнатудың қосымша мүмкіндіктері және басқа платформалар
 new-platform-download-in-another = Басқа тілде жүктеп алу
@@ -19,6 +21,5 @@ new-platform-need-help = Көмек керек пе?
 
 ## Mac
 
-
-## Windows
-
+new-platform-privacy-comes-first = Жекелік бірінші орында
+new-platform-firefox-doesnt-spy = { -brand-name-firefox } іздеулерді тыңшылықпен бақыламайды. Біз үшінші тараптың cookie файлдарын бақылауын тоқтатамыз және сізге толық бақылауды береміз.

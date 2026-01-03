@@ -10,6 +10,10 @@ firefox-new-download-the-fastest-firefox = Ең жылдам { -brand-name-firef
 firefox-new-mozilla = { -brand-name-mozilla }
 firefox-new-faster-page-loading-less-memory = Беттерді жылдам жүктеу, жадты аз пайдалану және көптеген мүмкіндіктерге толы жаңа { -brand-name-firefox } қолжетімді.
 firefox-new-get-the-latest-firefox = Ең соңғы { -brand-name-firefox } браузерін жүктеп алыңыз.
+# span's below are for visual formatting and line break.
+firefox-new-download-firefox-for-windows = { -brand-name-windows } үшін { -brand-name-firefox } <br>жүктеп алыңыз
+firefox-new-download-firefox-for-macos = { -brand-name-mac } үшін { -brand-name-firefox } <br>жүктеп алыңыз
+firefox-new-download-firefox-for-linux = { -brand-name-linux } үшін { -brand-name-firefox } <br>жүктеп алыңыз
 firefox-new-free-web-browser = Еркін веб браузері
 firefox-new-advanced-install-options = Орнатудың қосымша мүмкіндіктері және басқа платформалар
 firefox-new-download-in-another-language = Басқа тілде жүктеп алу
@@ -21,7 +25,14 @@ firefox-new-need-help = Көмек керек пе?
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Жүктеу автоматты түрде басталуы тиіс. Жұмыс істемеді ме? <a id="{ $id }" href="{ $fallback_url }">Қайта жүктеп көріңіз</a>.
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } браузерден де артық нәрсе.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
+firefox-new-download-interrupted = Жүктеуіңіз үзілді. Бірақ бәрі жоғалған жоқ.
 firefox-new-download-almost-there = Дайын болуға жақын!
+firefox-new-download-select-linux = Төмендегі жүктеу опциясын таңдаңыз
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-new-your-system-may-not = Сіздің жүйеңіз { -brand-name-firefox } талаптарына сай келмеуі мүмкін, сіз <a href="{ $url }">келесі нұсқаларды</a> қолданып көре аласыз.
 firefox-new-windows = { -brand-name-windows }
 
 # Not-Required
@@ -33,3 +44,4 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-download-browser = { -brand-name-firefox-browser } жүктеп алу
 firefox-new-fast = Жылдам, жеке және тегін
 firefox-new-from-mozilla = { -brand-name-mozilla } ұсынған
+firefox-new-download-a-different = Басқа платформа үшін немесе басқа тілде жүктеп алыңыз
