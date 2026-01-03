@@ -14,11 +14,12 @@ footer-refresh-firefox-release-notes = { -brand-name-firefox } шығарылы�
 footer-refresh-extend-reach = Қамту аясын кеңейту. Сенімді нығайту.
 footer-refresh-add-trust-to = Жарнамалық сатып алуларыңызға сенімділік қосыңыз.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
-footer-refresh-follow-mozilla = @{ -brand-name-mozilla }-ға жазылу
+footer-refresh-follow-mozilla = @{ -brand-name-mozilla } парақшасына жазылу
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
 footer-refresh-tiktok = TikTok
 footer-refresh-spotify = Spotify
+footer-refresh-follow-firefox = @{ -brand-name-firefox } парақшасына жазылу
 footer-refresh-youtube = YouTube
 footer-refresh-company = Ұйым
 footer-refresh-press-center = Баспасөз орталығы
@@ -36,6 +37,10 @@ footer-refresh-tools = Құралдар
 footer-refresh-donate = Демеушілік ету
 # Obsolete string (expires 19-10-2025)
 footer-refresh-visit-mozilla-corporations = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> коммерциялық емес аналық ұйымын, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> сайтын шолыңыз.
+footer-refresh-visit-mozilla-corporations-v2 = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> компаниясының коммерциялық емес бас ұйымы — <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> қорының веб-сайтын шолыңыз.
+footer-refresh-portions-of-this-content = Бұл мазмұнның кейбір бөліктері ©1998–{ $current_year } жекелеген mozilla.org үлес қосушыларына тиесілі. Мазмұн <a rel="license" { $href }>{ -brand-name-creative-commons } лицензиясы</a> бойынша қолжетімді.
+footer-refresh-websites-privacy-notice = Веб-сайттың жекелігі туралы ескерту
+footer-refresh-websites-cookies = Cookie файлдары
 footer-refresh-websites-legal = Құқықтық ақпарат
 footer-refresh-community-participation-guidelines = Қоғамдастыққа қатысу нұсқаулықтары
 footer-refresh-about-this-site = Бұл сайт туралы

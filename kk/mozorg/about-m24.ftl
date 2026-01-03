@@ -10,6 +10,16 @@ m24-about-page-title = { -brand-name-mozilla } туралы білу
 # HTML page description
 m24-about-page-desc = { -brand-name-mozilla } адамды пайдадан жоғары қоятын браузерлер, қолданбалар, кодтар және құралдар жасайды. Біздің миссиямыз: Интернетті барлығына ашық және қолжетімді ету.
 
+## Intro
+
+m24-about-reclaim-the-internet = Бізбен бірге интернетті қайта бағындырыңыз
+m24-about-mozilla-is-working = { -brand-name-mozilla } интернетті пайдаланушылардың өз бақылауына қайтару бағытында жұмыс істеп жатыр.
+
+## Manifesto
+
+m24-about-together-we-can = Біз бірге интернетті қарапайым, қауіпсіз және еркін ете аламыз — әркім үшін.
+m24-about-read-our-manifesto = Біздің манифестімізді оқыңыз
+
 ## News
 
 m24-about-rewiring-mozilla = { -brand-name-mozilla } қайта құрылуы: Веб үшін жасағанымызды ЖИ үшін жасау. Біздің келесі буын стратегиямыз бен ЖИ дәуірі үшін { -brand-name-mozilla } ұйымын қалай трансформациялап жатқанымыз туралы оқыңыз.
