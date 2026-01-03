@@ -24,17 +24,23 @@ navigation-v2-firefox-blog = { -brand-name-firefox } блогы
 navigation-v2-read-about-new-firefox-features = { -brand-name-firefox } браузерінің жаңа мүмкіндіктері және интернетте қауіпсіздікті сақтау жолдары туралы оқыңыз.
 navigation-v2-release-notes = Шығарылым ескертпесі
 navigation-v2-get-the-details-on-the = { -brand-name-firefox } браузерінің соңғы жаңартулары туралы толық мәлімет алыңыз.
+navigation-v2-view-all-firefox-browsers = Барлық { -brand-name-firefox-browsers } қарау
 
 ## Products menu
 
 navigation-v2-products = Өнімдер
 navigation-v2-close-products-menu = Өнімдер мәзірін жабу
 navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
+navigation-v2-see-if-your-email-has = Электрондық поштаңыздың қандай да бір компанияның деректер базасы бұзылған кезде жария болып кеткен-кетпегенін тексеріңіз.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-help-prevent-facebook-from = { -brand-name-facebook } компаниясының сіз туралы деректерді өз сайтынан тыс жерлерде жинауына жол бермеңіз.
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-get-protection-beyond-your-browser = Браузерден тыс жерде де, барлық құрылғыларыңызда толық қорғанысқа ие болыңыз.
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (бета)
+navigation-v2-sign-up-for-new-accounts = Жаңа тіркелгілерге нақты электрондық пошта адресіңізді бермей-ақ тіркеліңіз.
 navigation-v2-mdn-plus = { -brand-name-mdn-plus }
+navigation-v2-new-features-and-tools = { -brand-name-mdn } платформасын өз қалауыңызға қарай икемдеуге арналған жаңа мүмкіндіктер мен құралдар.
 navigation-v2-view-all-products = Барлық өнімдерді қарау
 
 ## Who We Are menu
@@ -44,10 +50,13 @@ navigation-v2-close-who-we-are-menu = Біз кімбіз мәзірін жаб�
 navigation-v2-mozilla-manifesto = { -brand-name-mozilla } манифесті
 navigation-v2-learn-about-the-values = Біздің миссиямызға бағыт-бағдар беретін құндылықтар мен қағидалар туралы біліңіз.
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
+navigation-v2-meet-the-not-for-profit-behind = { -brand-name-firefox } браузерінің артында тұрған және жақсырақ веб-кеңістік үшін күресетін коммерциялық емес ұйыммен танысыңыз.
 navigation-v2-get-involved = Үлес қосу
 navigation-v2-join-the-fight-for-a = Дені сау интернет үшін күреске қосылу.
 navigation-v2-leadership = Басшылық
+navigation-v2-meet-the-team-thats-building = Жақсырақ интернет үшін технология жасап жатқан командамен танысыңыз.
 navigation-v2-careers = Карьера
+navigation-v2-work-for-a-mission-driven-updated = Адамдардың мүддесін бірінші орынға қоятын өнімдер жасайтын, нақты миссиясы бар ұйымда жұмыс істеңіз.
 navigation-v2-mozilla-blog = { -brand-name-mozilla } блогы
 navigation-v2-learn-about-mozilla-and = { -brand-name-mozilla } және біз үшін маңызды мәселелер туралы біліңіз.
 navigation-v2-more-about-mozilla = { -brand-name-mozilla } туралы көбірек
