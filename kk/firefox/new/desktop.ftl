@@ -24,11 +24,18 @@ firefox-desktop-download-fast-reliable-private = Жылдам, сенімді ж
 firefox-desktop-set-as-default = { -brand-name-firefox } браузерін әдепкі браузер ретінде орнатыңыз
 firefox-desktop-download-download-options = Жүктеп алу опциялары және басқа тілдер
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } қолдауы
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Желідегі әдеттегі істеріңізбен айналыса беріңіз.<br> { -brand-name-firefox-browser } сіздің <strong>қауіпсіздігіңізді қамтамасыз етеді</strong>.
 firefox-desktop-download-we-block-the-ad = Біз жарнама трекерлерін бұғаттаймыз. Сіз интернетті жылдамырақ шоласыз.
+firefox-desktop-download-ads-are-distracting = Жарнамалар назарды аударып, беттердің жүктелуін баяулатады, ал олардың трекерлері желідегі әрбір қадамыңызды аңдиды. { -brand-name-firefox-browser } трекерлердің көбін автоматты түрде бұғаттайды, сондықтан қауіпсіздік баптауларын қазып әуре болудың қажеті жоқ.
 firefox-desktop-download-see-your-report = Қорғаныс есебіңізді қараңыз
 firefox-desktop-download-for-everyone = { -brand-name-firefox } әркім үшін арналған
 firefox-desktop-download-available-in-over = 90-нан астам тілде қолжетімді және { -brand-name-windows }, { -brand-name-mac-short } және { -brand-name-linux } компьютерлерімен үйлесімді { -brand-name-firefox } сіз не қолданып жатсаңыз да немесе қай жерде болсаңыз да жұмыс істейді. Ең жақсы тәжірибе алу үшін операциялық жүйеңіздің жаңартылғанына көз жеткізіңіз.
 firefox-desktop-download-review-system-req = Жүйелік талаптарды қарап шығу
+firefox-desktop-download-all-your-devices = { -brand-name-firefox } барлық құрылғыларыңызға орнатыңыз
+firefox-desktop-download-take-your-privacy = Жекелігіңізді барлық жерде өзіңізбен бірге алып жүріңіз. { -brand-name-ios } және { -brand-name-android } жүйелеріне арналған { -brand-name-firefox-browsers } қай жерде болсаңыз да, бақылаушылардың соңыңыздан еріп отыруын бұғаттау үшін дәл сондай мықты жекелік баптауларына ие.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-it-all = { -brand-name-firefox } браузерімен мұнын <strong>бәрін</strong> жасаңыз
 firefox-desktop-download-search-smarter = Ақылдырақ, жылдамырақ іздеу
 firefox-desktop-download-search-from-address = Адрес жолағынан іздеу
 firefox-desktop-download-search-engine-options = Іздеу жүйесінің опциялары
@@ -43,9 +50,15 @@ firefox-desktop-download-sync-across-devices = Құрылғылар арасын
 firefox-desktop-download-reader-mode = Оқу режимі
 firefox-desktop-download-spell-check = Емлені тексеру
 firefox-desktop-download-pinned-tabs = Бекітілген беттер
+firefox-desktop-download-stream-share-play = Трансляциялаңыз, бөлісіңіз және ойнатыңыз
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Видео мен аудионы автоматты түрде ойнатуды блоктау
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Суреттегі сурет
+firefox-desktop-download-curated-content-on = Жаңа беттегі таңдаулы мазмұн
 firefox-desktop-download-share-links = Сілтемелерді бөлісу
+firefox-desktop-download-protect-your-privacy = Жекелігіңізді қорғаңыз
+firefox-desktop-download-third-party-cookie = Үшінші жақты cookie файлдарын бұғаттау
 firefox-desktop-download-clear-history = Тарихты тазарту
 firefox-desktop-download-form-autofill = Форма автотолтыру
 firefox-desktop-download-automatic-updates = Автожаңартулар
