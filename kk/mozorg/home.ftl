@@ -7,6 +7,9 @@
 
 home-internet-for-people-not-profit = Табыс үшін емес, адамдар үшін интернет
 home-did-you-know-mozilla-the-maker = Сіз білдіңіз бе? { -brand-name-mozilla } — { -brand-name-firefox } жасаушысы — Интернетті әркім үшін ашық және қолжетерлік публикалық ресурс болғанын сақтау үшін күреседі.
+home-firefox-browser = { -brand-name-firefox-browser }
+home-fast-for-good = Игілік үшін жылдам.
+home-with-2x-the-speed-built-in = Екі еселенген жылдамдық, ішіне орнатылған жекелікті қорғау функциясы және { -brand-name-mozilla } қолдауымен жаңа { -brand-name-firefox } — интернетті шарлаудың ең тиімді жолы.
 home-our-impact = Біздің әсеріміз
 home-when-you-use-firefox-you-help = { -brand-name-firefox } браузерін пайдалану арқылы сіз { -brand-name-mozilla } ұйымына желідегі жалған ақпаратпен күресуге, цифрлық дағдыларды үйретуге және пікір қалдыру бөлімін адамгершілікке жақынырақ етуге көмектесесіз. Интернеттің саулығын жақсартуға не көмектесетінін қараңыз.
 home-read-our-internet-health-report = Біздің интернеттің денсаулық есептемесін оқыңыз
