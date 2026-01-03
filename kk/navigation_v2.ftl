@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+navigation-v2-mozilla = { -brand-name-mozilla }
 navigation-v2-get-mozilla-vpn = { -brand-name-mozilla-vpn } алу
 navigation-v2-menu = Мәзір
 
@@ -10,12 +11,19 @@ navigation-v2-menu = Мәзір
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = { -brand-name-firefox-browsers } мәзірін жабу
 navigation-v2-firefox-for-desktop = Жұмыс үстеліне арналған { -brand-name-firefox }
+navigation-v2-get-the-not-for-profit-backed = Коммерциялық емес ұйым қолдайтын браузерді { -brand-name-windows }, { -brand-name-mac-short } немесе { -brand-name-linux } жүйелері үшін жүктеп алыңыз.
 navigation-v2-firefox-for-android = { -brand-name-android } үшін { -brand-name-firefox }
+navigation-v2-get-the-customizable-mobile = { -brand-name-android } смартфондарына арналған теңшелетін мобильді браузерді жүктеп алыңыз.
 navigation-v2-firefox-for-ios = { -brand-name-ios } үшін { -brand-name-firefox }
+navigation-v2-get-the-mobile-browser = { -brand-name-iphone } немесе { -brand-name-ipad } құрылғыңызға арналған мобильді браузерді жүктеп алыңыз.
+navigation-v2-firefox-for-mobile = Мобильді құрылғыларға арналған { -brand-name-firefox-browser }
+navigation-v2-take-speed-privacy-and = Жылдамдықты, жекелікті және тыныштықты өзіңізбен бірге алып жүріңіз. { -brand-name-android } және { -brand-name-ios } жүйелерінде қолжетімді.
 navigation-v2-firefox-focus = { -brand-name-firefox-focus }
 navigation-v2-simply-private-mobile = Жай ғана жеке мобильді шолу.
 navigation-v2-firefox-blog = { -brand-name-firefox } блогы
+navigation-v2-read-about-new-firefox-features = { -brand-name-firefox } браузерінің жаңа мүмкіндіктері және интернетте қауіпсіздікті сақтау жолдары туралы оқыңыз.
 navigation-v2-release-notes = Шығарылым ескертпесі
+navigation-v2-get-the-details-on-the = { -brand-name-firefox } браузерінің соңғы жаңартулары туралы толық мәлімет алыңыз.
 
 ## Products menu
 

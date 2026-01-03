@@ -72,3 +72,8 @@ history-the-mozilla-community-together = { -brand-name-mozilla } қауымда�
 history-if-you-want-to-join-us-in = Егер сіз де біздің миссиямызға қосылғыңыз келсе, <a href="{ $contribute }">бізге қосылыңыз</a>.
 history-for-more-information-about = { -brand-name-mozilla } тарихы туралы қосымша ақпарат алу үшін келесіні қараңыз:
 history-mozilla-bookmarks = { -brand-name-mozilla } бетбелгілері
+history-timeline-of-mozilla-project = { -brand-name-mozilla } жобасының хронологиясы
+history-mozilla-digital-memory-bank = { -brand-name-mozilla } цифрлық жады банкі
+# Variables:
+#   $link (url) link to https://www.foxkeh.com/downloads/
+history-the-history-of-firefox-and = <a href="{ $link }">{ -brand-name-firefox } және { -brand-name-mozilla } тарихы туралы постерлер</a> (ағылшын және жапон тілдерінде қолжетімді)
