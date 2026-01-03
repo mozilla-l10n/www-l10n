@@ -51,9 +51,20 @@ firefox-desktop-download-dark-mode = Қараңғы тема
 firefox-desktop-download-library-of-extensions = Кеңейтулер кітапханасы
 firefox-desktop-download-adjust-search-bar = Іздеу жолағының параметрлерін реттеу
 firefox-desktop-download-change-new-tab = Жаңа бет жаймасын өзгерту
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 firefox-desktop-download-screenshots = Скриншоттар
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Дайын болуға жақын!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Енді { -brand-name-firefox } <strong>орнатуды</strong> аяқтаңыз.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Енді жаңа ғана жүктелген файлды <strong>ашыңыз</strong>.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Төмендегі <strong>жүктеп алу</strong> опциясын таңдаңыз
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Мәселелер бар ма? <a { $attrs }>Орнату бойынша көмек алыңыз</a>.
 firefox-desktop-download-windows = { -brand-name-windows }
