@@ -90,8 +90,35 @@ firefox-desktop-download-keep-all-your = Өзіңіздің сүйікті бр�
 # Gmail and Docs are product names and should not be translated
 firefox-desktop-download-all-your-favourite = { -brand-name-google } компаниясының барлық сүйікті құралдарыңыз (Gmail және Docs сияқты) { -brand-name-firefox-browser } браузерінде мүлтіксіз жұмыс істейді.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = { -brand-name-facebook } (және { -brand-name-instagram }) желілерінің сізді бүкіл веб бойынша бақылауын тоқтату үшін <a { $attrs } >осы браузер кеңейтуін жүктеп алыңыз</a>.
+firefox-desktop-download-sync-your-devices = Құрылғыңызды синхрондаңыз
 firefox-desktop-download-screenshots = Скриншоттар
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Бақылаудан кеңейтілген қорғаныс (БКҚ)
+firefox-desktop-download-from-watching-a = Видеоны қарап отырып бір мезгілде басқа да істерді атқарыңыз: ол веб-нұсқаулық немесе сүйікті командаңыздың ойыны болсын, видео терезесі сізбен бірге болады.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }</strong> үшін { -brand-name-firefox-browser } алу
+firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> үшін { -brand-name-firefox-browser } алу
+firefox-desktop-download-download-the-mobile = Барлық құрылғыларыңызда автоматты қорғаныс алу үшін { -brand-name-firefox } мобильді браузерін жүктеп алыңыз.
+firefox-desktop-download-learn-about-the = Төменде { -brand-name-firefox } жұмыс үстелі браузері туралы біліңіз
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = Қауіпсіздіктен бастап жаңалықтар мен ойындарға дейін, мұнда <a { $attrs }>әркімге арналған кеңейту</a> бар. Браузеріңіз өзіңізге ыңғайлы болғанша, қалағаныңызша кеңейту қосыңыз.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } браузерін <a { $attrs }>{ -brand-name-mozilla }</a> ұйымы { -brand-name-ie }, ал қазіргі таңда { -brand-name-chrome } сияқты браузерлерге жылдамырақ әрі жекелігі жоғары балама ретінде жасап шығарды. Бүгінде біздің миссияға негізделген компаниямыз бен еріктілер қауымдастығы сіздің жекелігіңізді бәрінен жоғары қоюды жалғастыруда.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Интернет дамып, өзгерген сайын { -brand-name-firefox } сіздің жекелік құқығыңызға назар аударуды жалғастырады — бұл әрқашан біздің басты ұстанымымыз болған. Деректермен жұмыс істеу ережелеріміз туралы толығырақ <a { $attrs }>Жекелік ескертуінен</a> біле аласыз.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } барлық құрылғыларыңызда қолжетімді; беттер, тарих пен бетбелгілеріңізді өзіңізбен бірге алып жүріңіз. Сізге тек <a { $attrs }>{ -brand-name-mozilla-account }</a> қажет, сонда сіз синхрондау мүмкіндігіне және басқа да { -brand-name-mozilla } өнімдеріне қол жеткізесіз.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Браузерге кірістірілген <a { $attrs }>скриншот</a> құралының көмегімен желідегі кез келген нәрсенің жоғары ажыратымдылықтағы суретін түсіріп алыңыз.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 

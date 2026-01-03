@@ -14,6 +14,7 @@ newsletter-form-select-country-or-region = Елді немесе аймақты 
 newsletter-form-select-language = Тілді таңдау
 newsletter-form-your-email-here = ЭЛ. ПОШТА АДРЕСІҢІЗ
 newsletter-form-get-firefox-news = { -brand-name-firefox } жаңалықтарын алу
+newsletter-form-join-the-community = Қауымдастыққа қосылыңыз
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
 newsletter-form-im-okay-with-mozilla = Мен { -brand-name-mozilla } менің жеке ақпаратымды <a href="{ $url }">осы Жекелік ескертуінде</a> жазылғанға сай қолданатынымен келісемін
@@ -25,8 +26,13 @@ newsletter-form-available-languages = Қолжетерлік тілдер
 newsletter-form-select-country = Елді таңдаңыз
 newsletter-form-sign-me-up = Мені де жазыңыз
 newsletter-form-sign-up-now = Қазір тіркелгіні жасау
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Жіберуде
 newsletter-form-thanks = Рахмет!
+newsletter-form-leave-this-field-empty = Бұл өрісті бос қалдырыңыз.
 newsletter-form-yes = Иә
 newsletter-form-no = Жоқ
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = Жаңалықтар бюллетеніне жазылу формасы
 multi-newsletter-form-checkboxes-label-mozilla = { -brand-name-mozilla-foundation }
 multi-newsletter-form-checkboxes-label-firefox = { -brand-name-firefox }

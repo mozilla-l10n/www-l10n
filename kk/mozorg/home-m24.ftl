@@ -45,6 +45,7 @@ m24-home-read-more = Көбірек білу
 m24-home-get-started = Бастау
 m24-home-join-the-movement = Қозғалысқа қосылыңыз:<br> Адамдарға арналған ЖИ
 m24-home-alt-builders-v2 = { -brand-name-builders }
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-agent-platform = Агент платформасы
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Кез келген агент
@@ -60,5 +61,20 @@ m24-home-tag-article = Мақала
 m24-home-tag-podcast = Подкаст
 m24-home-tag-video = Видео
 m24-home-topic-news = Жаңалықтар
+m24-home-topic-products = Өнімдер
 m24-home-topic-ai = Жасанды интеллект
 m24-home-topic-ps = Жекелік және қауіпсіздік
+m24-home-the-guardian = The Guardian
+m24-home-mozilla = { -brand-name-mozilla }
+
+## Showcase
+
+m24-home-watch-the-award = Марапаттау шоуын көріңіз
+
+## Nothing Personal
+
+m24-home-read-now = Қазір оқу
+
+## Issues
+
+m24-home-irl-podcast = { -brand-name-irl-podcast }
