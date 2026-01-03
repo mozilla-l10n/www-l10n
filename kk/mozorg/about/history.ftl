@@ -62,3 +62,13 @@ history-more-people-than-ever-before = Бұрын-соңды болмаған к
 #   $range (url) link to https://www.wikipedia.org
 #   $areas (url) link to https://creativecommons.org/
 history-a-sustainable-organization = Қоғамдық игілік миссиясын қолдау үшін нарықтық механизмдерді пайдаланатын тұрақты ұйым құрылды және бұл модельді басқалар да <a href="{ $range }">түрлі</a> <a href="{ $areas }">салаларда</a> ашық, айқын әрі ынтымақтастыққа негізделген ұйымдар құру үшін пайдалана бастады.
+history-the-future-is-full-of-challenges = Болашақ біздің өткеніміз сияқты қиындықтар мен мүмкіндіктерге толы.
+history-theres-no-guarantee-that = Интернеттің алдағы уақытта да ашық, жағымды немесе қауіпсіз болып қала беретініне ешқандай кепілдік жоқ.
+history-mozilla-will-continue-to = { -brand-name-mozilla } адамдарға өз дауысын естіртуге және онлайн өмірін өздігінен қалыптастыруға мүмкіндік беруді жалғастырады.
+history-of-course-were-not-alone = Әрине, бұл істе біз жалғыз емеспіз.
+history-the-mozilla-community-together = { -brand-name-mozilla } қауымдастығы, басқа да ашық бастапқы кодты жобалар және қоғамдық игілікке бағытталған ұйымдар тек біздің ортақ мақсаттарымызды шындыққа айналдыруға атсалысатын адамдардың арқасында ғана өмір сүреді.
+# Variables:
+#   $contribute (url) link to https://www.mozilla.org/contribute/
+history-if-you-want-to-join-us-in = Егер сіз де біздің миссиямызға қосылғыңыз келсе, <a href="{ $contribute }">бізге қосылыңыз</a>.
+history-for-more-information-about = { -brand-name-mozilla } тарихы туралы қосымша ақпарат алу үшін келесіні қараңыз:
+history-mozilla-bookmarks = { -brand-name-mozilla } бетбелгілері

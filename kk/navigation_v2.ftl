@@ -26,6 +26,7 @@ navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
 navigation-v2-firefox-relay = { -brand-name-firefox-relay }
 navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (бета)
+navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-view-all-products = Барлық өнімдерді қарау
 
 ## Who We Are menu
@@ -33,6 +34,8 @@ navigation-v2-view-all-products = Барлық өнімдерді қарау
 navigation-v2-who-we-are = Біз кімбіз
 navigation-v2-close-who-we-are-menu = Біз кімбіз мәзірін жабу
 navigation-v2-mozilla-manifesto = { -brand-name-mozilla } манифесті
+navigation-v2-learn-about-the-values = Біздің миссиямызға бағыт-бағдар беретін құндылықтар мен қағидалар туралы біліңіз.
+navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-get-involved = Үлес қосу
 navigation-v2-join-the-fight-for-a = Дені сау интернет үшін күреске қосылу.
 navigation-v2-leadership = Басшылық
@@ -46,3 +49,6 @@ navigation-v2-impact = Әсер
 
 navigation-v2-innovation = Инновация
 navigation-v2-close-innovation-menu = Инновация мәзірін жабу
+navigation-v2-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
+navigation-v2-common-voice = { -brand-name-common-voice }
