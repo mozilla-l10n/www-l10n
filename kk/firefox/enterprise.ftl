@@ -6,3 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-macos = { -brand-name-mac }
+firefox-enterprise-support = Қолдау
+firefox-enterprise-msi-installers = MSI орнатқыштары
+firefox-enterprise-legacy-browser-support = Ескірген браузерлерді қолдау
+firefox-enterprise-admx-templates = ADMX үлгілері
+firefox-enterprise-release-notes = Шығарылым ескертпесі
