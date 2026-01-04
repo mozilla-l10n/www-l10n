@@ -7,3 +7,7 @@ error-page-firefox = { -brand-name-firefox }
 error-page-error-page-internal-server-error = 500: Сервердің ішкі қатесі
 error-page-something-went-wrong = Бірнәрсе қате кетті
 error-page-its-probably-just-a-server-error = Бұл жай ғана сервер қатесі болуы мүмкін және біз оны түзету үшін жұмыс істеп жатырмыз.
+# Variables:
+#   $firefox (url) - link to https://firefox.com/
+#   $mozilla (url) - link to https://www.mozilla.org/
+error-page-you-can-also-try-refreshing = Сондай-ақ, бұл бетті жаңартып көруіңізге немесе <a href={ $firefox }>firefox.com</a> немесе <a href={ $mozilla }>mozilla.org</a> сайттарына өтуіңізге болады.
