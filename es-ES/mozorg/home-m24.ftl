@@ -63,13 +63,23 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders ayuda a los desarrolladores independientes a crear proyectos transformadores de IA de código abierto a través de colaboraciones, programación y comunidad a medida.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } ayuda a los desarrolladores independientes a crear proyectos de IA de código abierto transformadores a través de colaboraciones personalizadas, programación y comunidad.
+m24-home-own-what-you = Sé dueño de lo que construyes
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = ¿Necesitamos un “LAMP Stack” para la era de la IA? Necesitamos tecnología transparente, responsable y que sea de propiedad de quienes la usan.
 m24-home-watch-now = Ver ahora
+m24-home-choice-first-stack = Escoge First Stack
+m24-home-your-tools-your = Tus herramientas, tu elección. Un stack unificado de código abierto que simplifica la creación y prueba tanto de agentes como de aplicaciones de IA modernas.
+m24-home-get-started-now = Empezar ahora
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Orador en el escenario con múltiples logos de productos.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = ¿Tienes una startup en una etapa inicial? Presenta tu empresa a { -brand-name-mozilla-ventures } y consigue financiación para impulsar un cambio positivo para el futuro de la IA e Internet.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective está reconstruyendo el ecosistema de datos de IA con las comunidades como eje central. Accede a más de 300 conjuntos de datos globales de alta calidad, creados por y para la comunidad de forma transparente y ética.
+m24-home-join-today = Únete hoy
+m24-home-a-double-bottom = Un doble resultado para la tecnología
+m24-home-mark-surman-discusses = Mark Surman analiza cómo podemos construir un ecosistema tecnológico con un doble resultado: uno que valore tanto la misión como el dinero.
+m24-home-agent-platform = Plataforma de agentes
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Cualquier agente
 m24-home-stop-wiring-tools = Deja de conectar herramientas y de controlar automatizaciones frágiles. Con la Plataforma de Agentes { -brand-name-mozilla-ai-v2 }, describe tu objetivo y nosotros generamos agentes de IA adaptativos que funcionan con tus herramientas y procesos.
@@ -104,6 +114,7 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = Nuevo mensaje de { -brand-name-mozilla }: Somos el único navegador no respaldado por multimillonarios
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = The FT
 
 ## Showcase
 
