@@ -115,6 +115,10 @@ m24-home-mozillas-new-message = Nuevo mensaje de { -brand-name-mozilla }: Somos 
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = The FT
+m24-home-rewiring-mozilla = Reconfigurando { -brand-name-mozilla }: Hacer por la IA lo que hicimos por la web
+m24-home-interview-with-mark = Entrevista con Mark Surman: Cómo { -brand-name-mozilla } se está adaptando a la era de la IA
+m24-home-women-in-product = Conversación con Women In Product: Incorporar GenAI sin perder de vista el objetivo
+m24-home-scaling-open-source = Escalando la IA de código abierto: Mark Surman y Tim Bradshaw
 
 ## Showcase
 
@@ -129,9 +133,18 @@ m24-home-alt-rise25-smiling = Un orador seguro y sonriente en { -brand-name-rise
 m24-home-alt-rise25-joyous = Un alegre galardonado en { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Estado de { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se está reinventando a sí misma, diversificándose en torno a una constelación de organizaciones, reimaginando la publicidad y creando un ecosistema de IA de código abierto. Lee acerca de esto en el Informe sobre el estado de { -brand-name-mozilla } de 2024.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } se está reinventando a sí misma, diversificándose en torno a una constelación de organizaciones, reimaginando la publicidad y creando un ecosistema de IA de código abierto. Lee acerca de esto en el Informe sobre el estado de { -brand-name-mozilla } de { $year }.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Pixel art abstracto en tonos de verde, naranja y rosa
 m24-home-read-the-report = Leer el informe
+
+## Nothing Personal
+
+m24-home-mozilla-nothing-personal = Nada personal
+m24-home-our-new-magazine = Nuestra nueva revista para pensadores independientes, tecnólogos y creativos en la primera línea de la cultura digital.
+m24-home-read-now = Leer ahora
 
 ## Issues
 
