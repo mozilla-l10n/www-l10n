@@ -5,3 +5,4 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+compare-shared-compare-firefox = { -brand-name-firefox } салыстыру

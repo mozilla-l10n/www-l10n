@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
+consent-banner-heading = { -brand-name-mozilla } тәжірибеңізді жақсартуға көмектесіңіз
 consent-banner-button-reject = Барлық қосымша cookie файлдарын қабылдамау
 consent-banner-button-accept = Барлық қосымша cookie файлдарын қабылдау
 consent-banner-settings-link = Cookie баптаулары
