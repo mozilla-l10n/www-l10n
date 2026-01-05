@@ -31,3 +31,5 @@ legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = { -brand-name-mdn-plus } қызмет көрсету шарттары
 legal-report-copyright = Авторлық құқықтың немесе сауда белгісінің бұзылуы туралы хабарлау
 legal-mozilla-subscription-services = { -brand-name-mozilla } жазылым қызметтері
+legal-content-moderation = Мазмұнды модерациялау тәжірибесі
+legal-amo-policies = AMO саясаттары

@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/privacy/faq
 
+# HTML page title
+privacy-faq-mozillas-data-privacy-faq = { -brand-name-mozilla } ұйымының деректер жекелігі туралы ЖҚС
 privacy-faq-at-mozilla-we-respect-and-protect-desc = { -brand-name-mozilla } компаниясында біз сіздің жеке ақпаратыңызды құрметтейміз және қорғаймыз.
 privacy-faq-we-stand-for-people-over-profit = Біз табыстан гөрі адам мүддесін жоғары қоямыз.
 privacy-faq-it-can-be-tricky-for-people = Адамдарға бүгінгі таңда қолданатын кез келген бағдарламалық қамтамадан немесе қызметтерден нені күтуге болатынын білу қиын болуы мүмкін. Өмірімізді қамтамасыз ететін технология күрделі, ал адамдардың егжей-тегжейлерді зерттеуге уақыты жоқ. Бұл { -brand-name-firefox } үшін де өзекті, өйткені біз адамдардың браузер ішінде не болып жатқаны туралы көптеген түрлі ойлары бар екенін байқаймыз.

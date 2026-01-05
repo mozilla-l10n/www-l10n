@@ -45,8 +45,10 @@ firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } алу
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
 firefox-products-resources-for-developers = Әзірлеушілерден әзірлеушілерге арналған ресурстар. { -brand-name-mdn } жобасына демеушілік етіңіз және жинақтар, хабарландырулар және "playground"-тар арқылы оны өз қажеттілігіңізге бейімдеңіз.
+firefox-products-support-mdn = { -brand-name-mdn } жобасына демеушілік ету
 
 ## Thunderbird
 
+firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Барлық электрондық поштаңызға, күнтізбелеріңізге және контактілеріңізге бір жылдам қолданба арқылы қол жеткізіңіз. Оларды өзіңізге ұнайтындай сүзгілеңіз және реттеңіз.
 firefox-products-download-thunderbird = { -brand-name-thunderbird } жүктеп алу
