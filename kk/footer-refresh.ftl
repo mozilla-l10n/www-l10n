@@ -6,7 +6,7 @@ footer-refresh-discover-mozilla-products = { -brand-name-mozilla } өнімде�
 footer-refresh-leadership = Басшылық
 footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-ads = <span>{ footer-refresh-mozilla-ads } туралы</span> көбірек біліңіз
+footer-refresh-learn-more-about-mozilla-ads = <span>{ footer-refresh-mozilla-ads } туралы</span> көбірек білу
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = <span>{ -brand-name-mozilla } жарнамасы туралы</span> көбірек біліңіз
 footer-refresh-firefox-release-notes = { -brand-name-firefox } шығарылым ескертпесі

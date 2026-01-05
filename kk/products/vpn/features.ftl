@@ -58,3 +58,21 @@ vpn-features-easily-exclude-apps = Қолданбаларды VPN қорғауы
 vpn-features-trustworthy = Сенімді
 vpn-features-money-back = 30 күндік ақшаны қайтару кепілдігі
 vpn-features-plus-customer-support = Сонымен қатар тәулік бойы (24/7) қолдау көрсету қызметі.
+vpn-features-we-never-log = Біз ешқашан желілік деректеріңізді тіркемейміз, бақыламаймыз немесе бөліспейміз
+# Variables
+#   $privacy (url) - link to https://www.mozilla.org/privacy/subscription-services/
+vpn-features-simply-put-we-dont = Қысқасы, біз сіздің жеке шолу ақпаратыңызды жинамаймыз. Мына жерде біздің <a { $privacy }>оңай оқылатын жекелік саясатымыз</a> берілген.
+vpn-features-built-transparently = Ашық бастапқы кодпен мөлдір түрде жасалған
+# Variables
+#   $github (url) - link to https://github.com/mozilla-mobile/mozilla-vpn-client
+vpn-features-made-with-open-source-code = { -brand-name-mozilla-vpn } ашық бастапқы кодпен жасалған, яғни барлық код көпшілікке қолжетімді. <a { $github }>GitHub репозиторийімізді</a> қараңыз.
+vpn-features-reviewed-by-third = Тәуелсіз қауіпсіздік сарапшылары тексерген
+# Variables
+#   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
+vpn-features-weve-been-audited = Бізді жетекші киберқауіпсіздік аудиторлық фирмасы Cure53 тексерді. <a { $report }>Есепті осы жерден көріңіз</a>.
+vpn-features-people-over-profits = Пайдадан бұрын адамдар
+# Variables
+#   $mofo (url) - link to https://www.mozillafoundation.org/
+# Obsolete string (expires 19-10-2025)
+vpn-features-were-backed-by-mofo = Бізді интернетті барлық адамдар үшін ашық әрі сау сақтау үшін күресетін коммерциялық емес <a { $mofo }>{ -brand-name-mozilla-foundation }</a> ұйымы қолдайды.
+vpn-features-were-backed-by-mofo-v2 = Бізді интернетті барлық адамдар үшін ашық әрі сау сақтау үшін күресетін коммерциялық емес <a { $mofo }>{ -brand-name-mozilla-foundation }</a> ұйымы қолдайды.
