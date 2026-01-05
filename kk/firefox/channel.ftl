@@ -20,20 +20,30 @@ firefox-channel-experience-cutting-edge-android = Ең соңғы мүмкінд
 firefox-channel-try-the-latest-android-features = { -brand-name-android } үшін соңғы мүмкіндіктерді олар басқаларға қолжетерлік болғанға дейін сынап көріңіз.
 firefox-channel-all-languages-and-platforms = Барлық тілдер және платформалар
 firefox-channel-all-languages-and-builds = Барлық тілдер және жинақтар
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } — тұрақсыз тестілеу және әзірлеу платформасы. Әдепкі бойынша, { -brand-name-beta } бізге мәселелерді шешуге және идеяларды сынап көруге көмектесу үшін { -brand-name-mozilla } компаниясына, кейде біздің серіктестерімізге деректер жібереді. <a href="{ $link }">Қандай деректер бөлісілетінін біліңіз</a>.
 firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } автоматты түрде { -brand-name-mozilla }-ға кері байланыс деректерін жібереді.
 # Variables:
 #   $feedback (url) - link to https://input.mozilla.com/feedback
 firefox-channel-give-us-feedback-to-help = Бізге тұрақты нұсқаның өнімділігін және мүмкіндіктерін жақсарту үшін <a rel="external" href="{ $feedback }">кері байланыс хабарламасын</a> жіберіңіз.
 firefox-channel-check-out-new-android-features = Жаңа { -brand-name-android } мүмкіндіктерін ерте кезеңінде сынаңыз. Өз тәуекеліңізге қарай қолданыңыз.
 firefox-channel-nightly-blog = { -brand-name-nightly } блогы
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+firefox-channel-nightly-is-an-unstable-testing = { -brand-name-nightly } — бұл тұрақсыз тестілеу және әзірлеу платформасы. Әдетте, { -brand-name-nightly } мәселелерді шешуге және идеяларды сынап көруге көмектесу үшін { -brand-name-mozilla }-ға және кейде біздің серіктестерімізге деректер жібереді. <a href="{ $link }">Қандай деректер бөлісілетінін біліңіз</a>.
 firefox-channel-firefox-nightly-automatically = { -brand-name-firefox-nightly } автоматты түрде { -brand-name-mozilla }-ға кері байланыс деректерін жібереді.
 firefox-channel-experience-cutting-edge-desktop = Ең соңғы мүмкіндіктерді шығарылымға дейінгі нұсқаларда қолданып көріңіз: { -brand-name-firefox-developer-edition }, { -brand-name-firefox-beta } және { -brand-name-firefox-nightly }. Қазір жүктеп алыңыз!
 firefox-channel-download-and-test-the-latest-desktop = { -brand-name-developer-edition }, { -brand-name-beta } және { -brand-name-nightly } жинақтарымен жұмыс үстелі үшін { -brand-name-firefox } соңғы нұсқаларын жүктеп алып, сынаңыз.
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = Жақында шығарылымға түсетін мүмкіндіктерді ең соңғы тұрақты шығарылымға дейінгі нұсқада сынап көріңіз.
 firefox-channel-release-notes = Шығарылым ескертпесі
+firefox-channel-previous-nightly-builds = Алдыңғы { -brand-name-nightly } жинақтары
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = Өндірушілер үшін жасалған жалғыз браузер көмегімен жасап, сынап, өсіріңіз.
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+firefox-channel-developer-edition-is-an = { -brand-name-developer-edition } — бұл тұрақсыз тестілеу және әзірлеу платформасы. Әдетте, { -brand-name-developer-edition } мәселелерді шешуге және идеяларды сынап көруге көмектесу үшін { -brand-name-mozilla }-ға және кейде біздің серіктестерімізге деректер жібереді. <a href="{ $link }">Қандай деректер бөлісілетінін біліңіз</a>.
 firefox-channel-firefox-developer-edition = { -brand-name-firefox-developer-edition } автоматты түрде { -brand-name-mozilla }-ға кері байланыс деректерін жібереді.
 firefox-channel-nightly = { -brand-name-nightly }
 firefox-channel-get-a-sneak-peek-at-our = Біздің келесі буынды веб-браузерімізді қарап, оны ең жақсы браузер қылуға көмектесіңіз: { -brand-name-firefox-nightly } қолданып көріңіз.
@@ -44,3 +54,4 @@ firefox-channel-test-beta-versions-of-firefox-ios-long = { -brand-name-apple } �
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = { -brand-name-apple } ұсынған { -brand-name-test-flight } бағдарламасы арқылы { -brand-name-ios } үшін { -brand-name-firefox } қолданбасының бета нұсқаларын сынаңыз.
 firefox-channel-sign-up-now = Қазір тіркелгіні жасау
+firefox-channel-nightly-update-one-or-more-times = Ескертпе: { -brand-name-firefox-nightly } күніне шамамен бір немесе екі рет жаңартылып тұрады.

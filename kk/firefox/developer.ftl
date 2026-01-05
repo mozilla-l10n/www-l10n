@@ -9,7 +9,9 @@
 ## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
+firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } — бұл CSS Grid қолдауы және фреймворктерді жөндеу сияқты соңғы мүмкіндіктерді және озық әзірлеуші құралдарын ұсынатын өте жылдам браузер.
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
+firefox-developer-welcome-to-your-new-favorite = Жаңа сүйікті браузеріңізге қош келдіңіз. Ашық веб үшін жасауға қажетті соңғы мүмкіндіктерді, жоғары өнімділікті және әзірлеу құралдарын алыңыз.
 firefox-developer-speak-up = Ойыңызды айтыңыз
 firefox-developer-feedback-makes-us = Кері байланыс бізді жақсырақ етеді. Браузер және әзірлеуші құралдарын қалай жақсартуға болатыны туралы бізге айтыңыз.
 firefox-developer-join-the-convo = Сөйлесуге қосылу
@@ -45,10 +47,19 @@ firefox-developer-unblock-bottlenecks = Тар жерлерді босатып, 
 firefox-developer-learn-more-about-performance = Өнімділік саймандары туралы көбірек білу
 firefox-developer-memory = Жады
 firefox-developer-find-memory-leaks = Жады жоғалуын тауып, қолданбаңызды жылдам қылыңыз.
+firefox-developer-learn-more-about-memory = Жады құралдары туралы көбірек білу
 firefox-developer-style-editor = Стильдер түзеткіші
+firefox-developer-edit-and-manage = Браузеріңіздегі барлық CSS стиль кестелерін түзету және басқару.
+firefox-developer-learn-more-about-style = Стильдер түзеткіші туралы көбірек білу
 firefox-developer-new-tools = Жаңа құралдар
+firefox-developer-inactive-css = Белсенді емес CSS
+firefox-developer-firefox-devtools-now-grays-out = { -brand-name-firefox-devtools } енді бетке әсер етпейтін CSS декларацияларын сұр түске бояйды. Ақпарат белгішесінің үстіне апарғанда, CSS-тің неліктен іске асырылмағаны туралы пайдалы хабарламаны, соның ішінде мәселені қалай шешуге болатыны туралы кеңесті көресіз.
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
+firefox-developer-the-new-firefox-devtools = Жаңа { -brand-name-firefox-devtools } — бұл қуатты, икемді және ең бастысы, өзгертуге болатын құралдар. Бұған көптеген браузерлерде жұмыс істей алатын, React пен Redux негізінде жасалған өз класындағы ең үздік JavaScript жөндеушісі кіреді.
+firefox-developer-master-css-grid = CSS Grid-ті меңгеріңіз
 firefox-developer-master-innovative-features = Инновациялық мүмкіндіктер
+firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } — CSS Grid көмегімен құруға және жобалауға арнайы жасалған құралдары бар жалғыз браузер. Бұл құралдар торды визуализациялауға, байланысты аймақ атауларын көрсетуге, тордағы өзгерістерді алдын ала қарауға және т.б. мүмкіндік береді.
+firefox-developer-faster-innovation = Жылдамырақ ақпарат
 firefox-developer-fonts-panel = Қаріптер панелі
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } автоматты түрде { -brand-name-mozilla }-ға кері байланыс деректерін жібереді.
 firefox-developer-download-the-firefox-browser = Әзірлеушілер үшін жасалған { -brand-name-firefox } браузерін жүктеп алыңыз
