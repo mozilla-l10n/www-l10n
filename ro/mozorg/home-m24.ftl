@@ -78,6 +78,7 @@ m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective reconstruiește ecosistemul de date bazat pe AI, cu focalizare pe comunități. Accesează peste 300 de seturi de date globale de înaltă calitate, construite de și pentru  comunitate într-un mod transparent și etic.
 m24-home-join-today = Alătură-te astăzi
 m24-home-a-double-bottom = O linie dublă de rezultate pentru tehnologie
+m24-home-mark-surman-discusses = Mark Surman discută despre cum putem construi un ecosistem tehnologic cu o linie dublă de rezultate — care pune accent atât pe misiune, cât și pe încasări.
 m24-home-agent-platform = Platformă agenți
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Orice agent
@@ -114,6 +115,7 @@ m24-home-mozillas-new-message = Noul mesaj { -brand-name-mozilla }: Suntem singu
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = The FT
+m24-home-rewiring-mozilla = Reconfigurare { -brand-name-mozilla }: Facem pentru AI ce am făcut pentru web
 m24-home-interview-with-mark = Interviu cu Mark Surman: Cum se adaptează { -brand-name-mozilla } la era AI
 m24-home-women-in-product = Femeile în conversația despre produse: Adăugăm GenAI fără să pierdem obiectivul din vedere
 m24-home-scaling-open-source = Scalarea AI-ului cu sursă deschisă: Mark Surman și Tim Bradshaw
