@@ -7,6 +7,8 @@ send-to-device-your-download-link = Сіздің жүктеп алу сілте�
 send-to-device-please-enter-an-email = Эл. пошта адресін енгізіңіз.
 send-to-device-an-error-occured = Жүйемізде қате орын алған. Кейінірек қайталап көріңіз.
 send-to-device-enter-your-email = Эл. поштаны енгізіңіз
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = yourname@example.com
 send-to-device-send = Жіберу
 send-to-device-intended-recipient-email = Эл. пошта хатын алушысы осымен келісуі тиіс.
 send-to-device-check-your-device-email = Құрылғыңызды эл. пошта хатына тексеріңіз!

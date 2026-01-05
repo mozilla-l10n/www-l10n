@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
+# HTML page title
+firefox-faq = { -brand-name-firefox } бойынша жиі қойылатын сұрақтар (FAQ)
 whether-you-searched-privacy = Сіз жекелігіңізді қорғайтын жылдам браузер іздесеңіз де, бұл жиі қойылатын сұрақтар (FAQ) бөлімі { -brand-name-firefox } браузеріне қатысты ең маңызды сұрақтарға жауап беру үшін осында.
 whether-you-searched-independant = Сіз жылдам браузер іздесеңіз де немесе жекелігіңізді қорғайтын тәуелсіз технологияны іздесеңіз де, бұл жиі қойылатын сұрақтар (FAQ) бөлімі { -brand-name-firefox } браузеріне қатысты ең маңызды сұрақтарға жауап беру үшін осында.
 what-is-firefox = { -brand-name-firefox } дегеніміз не?
