@@ -5,3 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/resource-center
 
+# HTML Page Title
+vpn-resource-center-title = VPN ресурстық орталығы
+vpn-resource-center-whats-the-deal = Виртуалды жеке желілердің (VPN) мәні неде?

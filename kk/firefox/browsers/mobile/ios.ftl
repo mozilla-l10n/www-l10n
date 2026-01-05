@@ -5,6 +5,18 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
 
+# HTML page title
+mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } { -brand-name-ios } ({ -brand-name-iphone } және { -brand-name-ipad })
+mobile-ios-firefox-browser = { -brand-name-firefox-browser }
+mobile-ios-get-firefox-for = { -brand-name-ios } үшін { -brand-name-firefox } алу
+mobile-ios-send-a-download-link-to-your = Жүктеп алу сілтемесін сіздің телефоныңызға жіберу.
+mobile-ios-scan-the-qr-code-to-get-started = Бастау үшін QR кодын сканерлеңіз
+mobile-ios-scan-alt-text = { -brand-name-ios } жүйесіне { -brand-name-firefox } алу үшін QR-кодты сканерлеңіз
+mobile-ios-make-firefox-your = { -brand-name-firefox } әдепкі браузеріңіз ету
+mobile-ios-now-iphone-and = Енді { -brand-name-iphone } және { -brand-name-ipad } пайдаланушылары әдепкі браузерді өздері таңдай алады. Бұл дегеніміз, сіз енді тек { -brand-name-safari } браузеріне байланып қалмайсыз және мобильді браузеріңізді компьютердегі таңдаулы браузеріңізбен синхрондалған күйде сақтай аласыз. Сонымен қатар, { -brand-name-firefox } браузерін әдепкі ретінде орнату арқылы сіз тәуелсіз технологиялық компанияға қолдау көрсетесіз. { -brand-name-firefox } — коммерциялық емес ұйым қолдайтын жалғыз ірі браузер.
+mobile-ios-fast-private-secure = Жылдам. Жеке. Тегін
+mobile-ios-keep-whats-personal = Аса жоғары жылдамдыққа нұқсан келтірмей-ақ, жеке деректеріңіздің құпиялылығын сақтаңыз. Бұған қоса, ақылды шолу функциялары жекелік баптауларын, парольдер мен бетбелгілерді қайда барсаңыз да өзіңізбен бірге қауіпсіз алып жүруге мүмкіндік беріп, желідегі өміріңізді жеңілдетеді.
+mobile-ios-stay-private-online = Интернетте жекелікті сақтаңыз
 mobile-ios-firefox-gives-you = { -brand-name-firefox } интернетті шолу кезінде сізге күшейтілген жекелік қорғанысын ұсынады. Біздегі Бақылаудан кеңейтілген қорғаныс функциясы әдепкі бойынша әлеуметтік желі трекерлері, сайтаралық куки трекерлері, криптомайнерлер және цифрлық із қалдырушылар сияқты трекерлер мен скрипттерді бұғаттайды.
 mobile-ios-your-browsing-history = Сіздің шолу тарихыңыз тарих болып қала береді
 mobile-ios-if-you-want = Қаласаңыз, интернетке оңай шығып, жекелік шолу режимінде іздеу жасай аласыз. Ал жекелік шолу режимін жапқан кезде, шолу тарихыңыз бен барлық кукилер құрылғыңыздан автоматты түрде өшіріледі.
