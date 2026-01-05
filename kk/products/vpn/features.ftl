@@ -54,5 +54,6 @@ vpn-features-with-the-mozilla-vpn-extention = { -brand-name-firefox } арнал
 vpn-features-personalized-server = Сервер орналасуы бойынша жеке ұсыныстар
 vpn-features-well-suggest-which-servers = Біз ең жылдам әрі сенімді интернет байланысын қамтамасыз ететін жақын маңдағы серверлерді ұсынамыз.
 vpn-features-personalize-which-apps = Қай қолданбалар VPN қорғауын алатынын жекешелендіру
+vpn-features-easily-exclude-apps = Қолданбаларды VPN қорғауынан оңай алып тастаңыз — құрылғыны { -brand-name-mozilla-vpn } желісінен ажыратудың қажеті жоқ. Windows, Android және Linux құрылғыларында қолжетімді.
 vpn-features-trustworthy = Сенімді
 vpn-features-money-back = 30 күндік ақшаны қайтару кепілдігі
