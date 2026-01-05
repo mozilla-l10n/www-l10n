@@ -36,6 +36,9 @@ m24-about-we-fund-and = Finanțăm și investim în oamenii și eforturile care 
 
 m24-about-read-more = Citește mai multe
 m24-about-read-the-latest = Citește cele mai recente știri și articole despre { -brand-name-mozilla }
+m24-about-what-comes-next = Viitorul tehnologiei este o alegere. Alege cu noi.
+m24-about-watch-here = Urmărește aici
+m24-about-watch-now = Urmărește acum
 
 ## Showcase
 

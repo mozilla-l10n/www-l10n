@@ -63,13 +63,18 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders ajută dezvoltatorii independenți să creeze proiecte IA transformatoare cu sursă deschisă prin colaborări, programare personalizată și comunitate.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } ajută dezvoltatorii independenți să creeze proiecte IA transformatoare cu sursă deschisă prin colaborări, programare personalizată și comunitate.
+m24-home-own-what-you = Deține ceea ce construiești
 m24-home-watch-now = Urmărește acum
+m24-home-your-tools-your = Instrumentele tale, alegerea ta. O stivă unificată cu sursă deschisă, care simplifică construirea și testarea agenților și aplicațiilor AI moderne.
+m24-home-get-started-now = Începe acum
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Vorbitor pe scenă cu mai multe logo-uri de produse.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Ai un startup la început de drum? Propune-ți compania către { -brand-name-mozilla-ventures } și asigură-ți finanțare pentru a genera schimbări pozitive în viitorul IA și al internetului.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective reconstruiește ecosistemul de date bazat pe IA, cu focalizare pe comunități. Accesează peste 300 de seturi de date globale de înaltă calitate, construite de și pentru  comunitate într-un mod transparent și etic.
+m24-home-join-today = Alătură-te astăzi
+m24-home-agent-platform = Platformă agenți
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Orice agent
 m24-home-stop-wiring-tools = Nu mai conectezi instrumente între ele și nu mai supraveghezi automatizări fragile. Cu { -brand-name-mozilla-ai-v2 } Agent Platform, îți descrii obiectivul, iar noi generăm agenți AI adaptivi care funcționează cu instrumentele și procesele tale.
@@ -104,6 +109,11 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = Noul mesaj { -brand-name-mozilla }: Suntem singurul browser care nu este susținut de miliardari
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = The FT
+m24-home-rewiring-mozilla = Restructurare { -brand-name-mozilla }: Facem pentru AI ce am făcut pentru web
+m24-home-interview-with-mark = Interviu cu Mark Surman: Cum se adaptează { -brand-name-mozilla } la era AI
+m24-home-women-in-product = Femeile în conversația despre produse: Adăugăm GenAI fără să pierdem obiectivul din vedere
+m24-home-scaling-open-source = Scalarea AI-ului cu sursă deschisă: Mark Surman și Tim Bradshaw
 
 ## Showcase
 
