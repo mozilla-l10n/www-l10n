@@ -36,8 +36,11 @@ m24-about-we-fund-and = Finanțăm și investim în oamenii și eforturile care 
 
 m24-about-read-more = Citește mai multe
 m24-about-read-the-latest = Citește cele mai recente știri și articole despre { -brand-name-mozilla }
+m24-about-rewiring-mozilla = Reconfigurare { -brand-name-mozilla }: Facem pentru AI ce am făcut pentru web. Citește despre strategia noastră de generație viitoare și cum transformăm { -brand-name-mozilla } pentru Era AI.
 m24-about-what-comes-next = Viitorul tehnologiei este o alegere. Alege cu noi.
 m24-about-watch-here = Urmărește aici
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = Putem avea o linie dublă de rezultate pentru tehnologie? Mark Surman discută despre cum putem construi un ecosistem tehnologic cu o linie dublă de rezultate — care pune accent atât pe misiune, cât și pe încasări.
 m24-about-watch-now = Urmărește acum
 
 ## Showcase
@@ -49,7 +52,7 @@ m24-about-read-about-our = Citește despre angajamentul nostru
 ## Careers
 
 # Used as an accessible text alternative for an image
-m24-about-alt-trustworthy = IA de încredere, { -brand-name-common-voice }, Învățare federată.
+m24-about-alt-trustworthy = AI de încredere, { -brand-name-common-voice }, Învățare federată.
 # Used as an accessible text alternative for an image
 m24-about-alt-conversation = Angajat { -brand-name-mozilla } în timpul conversației.
 # Used as an accessible text alternative for an image

@@ -21,11 +21,11 @@ home-product-vpn-trust = Un VPN în care poți avea încredere
 home-cta-get-vpn = Instalează { -brand-name-mozilla-vpn }
 home-product-monitor-protect-your = Protejează-ți datele private împotriva brokerilor de date
 home-cta-get-monitor = Instalează { -brand-name-monitor }
-home-mozilla-takes-bets = „{ -brand-name-mozilla } pariază să demonstreze lumii că există o afacere de făcut cu IA de încredere. Include plasarea unor aspecte precum drepturile omului, protecția datelor și transparența în centrul modului în care funcționează aceste sisteme complexe.”
+home-mozilla-takes-bets = „{ -brand-name-mozilla } pariază să demonstreze lumii că există o afacere de făcut cu AI de încredere. Include plasarea unor aspecte precum drepturile omului, protecția datelor și transparența în centrul modului în care funcționează aceste sisteme complexe.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politică
-home-join-us-in-shaping = Participă la modelarea de IA de încredere
-home-work-on-ai = Munca { -brand-name-mozilla } în domeniul IA nu este doar ceva nou — am petrecut ani de zile finanțând, construind și pledând pentru o IA deschisă, echitabilă și dezvoltată responsabil. Ne concentrăm pe crearea unei IA care să servească oamenii, să prioritizeze transparența și să susțină binele public, nu agendele corporatiste.
+home-join-us-in-shaping = Participă la modelarea de AI de încredere
+home-work-on-ai = Munca { -brand-name-mozilla } în domeniul AI nu este doar ceva nou — am petrecut ani de zile finanțând, construind și pledând pentru o AI deschisă, echitabilă și dezvoltată responsabil. Ne concentrăm pe crearea unei AI care să servească oamenii, să prioritizeze transparența și să susțină binele public, nu agendele corporatiste.
 home-read-more = Citește mai multe
 home-so-what-is-mozilla = Deci, ce este { -brand-name-mozilla }?
 # Variables
@@ -39,7 +39,7 @@ home-volunteer-with-mozilla = Voluntariat la { -brand-name-mozilla }
 home-that-one-time = O dată când am dat gratuit codul nostru sursă…
 home-the-mozilla-project = Proiectul { -brand-name-mozilla } a fost fondat în San Francisco în 1998, când browserul { -brand-name-netscape } a luat decizia radicală de a oferi publicului codul său de program pentru a-l dezvolta și îmbunătăți. La acea vreme, o singură companie deținea un monopol virtual asupra modului în care oamenii experimentau internetul.
 home-eventually-the-open = În cele din urmă, proiectul cu sursă deschisă { -brand-name-mozilla } s-a transformat în prima versiune extrem de populară { -brand-name-firefox }.
-home-today-mozilla-continues = Astăzi, { -brand-name-mozilla } își continuă mișcarea către un internet mai bun, cu milioane de membri activi ai comunității din întreaga lume, pledând pentru tehnologie etică, IA de încredere și realizând produse care pun accentul pe confidențialitate și oferă mai multă putere oamenilor.
+home-today-mozilla-continues = Astăzi, { -brand-name-mozilla } își continuă mișcarea către un internet mai bun, cu milioane de membri activi ai comunității din întreaga lume, pledând pentru tehnologie etică, AI de încredere și realizând produse care pun accentul pe confidențialitate și oferă mai multă putere oamenilor.
 home-learn-more-about-mozilla = Află mai multe despre { -brand-name-mozilla }
 # VPN Feature
 home-featured-product = Produs recomandat
