@@ -68,6 +68,17 @@ firefox-developer-welcome-to-firefox-developer-edition = { -brand-name-firefox-d
 firefox-developer-made-for-developers = Әзірлеушілер үшін жасалған браузер
 firefox-developer-all-the-latest-v2 = Бета нұсқасындағы барлық соңғы әзірлеушілер құралдары, сонымен қатар көпжолды консоль редакторы және WebSocket инспекторы сияқты мүмкіндіктер.
 firefox-developer-a-separate-profile = Release немесе { -brand-name-beta } { -brand-name-firefox } нұсқаларымен қатар оңай іске қосу үшін <strong>бөлек профиль мен жол</strong>.
+firefox-developer-preferences-tailored = <strong>Веб-әзірлеушілерге арналған</strong> баптаулар: браузер және қашықтан жөндеу, сондай-ақ қараңғы тема мен әзірлеушінің құралдар панеліндегі батырма әдепкі бойынша қосулы тұрады.
+firefox-developer-congrats-you-now-have-latest-v2 = Сізде енді { -brand-name-firefox-developer-edition } браузерінің соңғы нұсқасы бар.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Не жаңалық бар екенін көру үшін <a { $attrs }>шығарылым ескертпесін</a> (тек ағылшын тілінде) қараңыз.
+firefox-developer-developer-tools-user = Әзірлеуші құралдарының пайдаланушы құжаттамасы
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Әзірлеушілерден әзірлеушілерге арналған ресурстар
+firefox-developer-mdn-playground = Ойын алаңы
+firefox-developer-mdn-write-test-and-share = Кодыңызды жазыңыз, тексеріңіз және бөлісіңіз. Үйренуге және керемет жұмысыңызды әлеммен бөлісуге арналған ойын алаңыңыз.
 firefox-developer-mdn-blog = { -brand-name-mdn } блогы
+firefox-developer-mdn-unlock-the-world = { -brand-name-mdn } блогымен веб-әзірлеу әлемін ашыңыз — сарапшылардың пікірлері, соңғы веб-стандарттары мен кодтау бойынша кеңестерге арналған негізгі орталық.
+firefox-developer-mdn-updates = Жаңартулар
+firefox-developer-mdn-the-web-doesnt-have = Интернетте өзгерістер журналы жоқ, бірақ { -brand-name-mdn } көмектесе алады. Үйлесімділік өзгерістерін браузерлерге немесе сізді қызықтыратын технологиялық санатқа (мейлі ол JavaScript, CSS және т.б. болсын) байланысты жекелеп және сүзе аласыз.

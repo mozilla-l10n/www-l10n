@@ -5,6 +5,10 @@
 
 ### URL: https://www-dev.allizom.org/firefox/set-as-default/
 
+# HTML page title
+set-as-default-landing-make-firefox-your-default = { -brand-name-firefox } әдепкі браузеріңіз ету
+# HTML page description
+set-as-default-landing-choose-the-browser = Жекелігіңізді қорғайтын браузерді таңдаңыз. { -brand-name-firefox } браузерін әдепкі браузер ретінде орнатыңыз.
 set-as-default-landing-thanks-for-using-the = Ең соңғы { -brand-name-firefox } браузерін пайдаланғаныңыз үшін рақмет. { -brand-name-firefox } браузерін таңдау арқылы сіз өзіңіз және басқалар үшін жақсырақ интернетті қолдайсыз. Енді өзіңізді қорғау үшін келесі қадамды жасаңыз.
 set-as-default-landing-make-sure-youre-protected = Интернетке шыққан сайын өзіңіздің қорғалғаныңызға көз жеткізіңіз
 set-as-default-landing-you-should-get = Интернетті қалай шолу керектігін өзіңіз таңдауыңыз тиіс

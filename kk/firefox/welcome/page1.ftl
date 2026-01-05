@@ -14,3 +14,13 @@ welcome-page1-youve-got-the-web-browser = Сізде жекелігіңізді 
 welcome-page1-check-your-breach-report = Бұзушылық туралы есебіңізді тексеріңіз
 welcome-page1-mozilla-monitor = { -brand-name-mozilla-monitor }
 welcome-page1-mozilla-monitor-shows-you = { -brand-name-mozilla-monitor } сіздің ақпаратыңыз белгілі бір деректердің жылыстауы кезінде жарияланғанын көрсетеді және болашақта бұндай жағдай орын алса, сізге ескертеді.
+welcome-page1-stay-ahead-of-hackers = Хакерлерден алда болыңыз
+# Variables:
+#   $security_tips (url) - link to https://blog.mozilla.org/firefox/what-to-do-after-a-data-breach/
+welcome-page1-find-ways-to-protect-your = <a href="{ $security_tips }">{ -brand-name-monitor } қауіпсіздік кеңестері</a> арқылы ақпаратыңызды қорғау жолдарын табыңыз.
+welcome-page1-stay-in-the-know = Хабардар болыңыз
+# "Evite" is a proper name and generally shouldn't be translated.
+# Variables:
+#   $evite_breach (url) - link to https://blog.mozilla.org/firefox/evite-data-breach/
+welcome-page1-were-you-one-of-many = Сіз <a href="{ $evite_breach }">Evite деректер жылыстауының «отырысына»</a> шақырылған 100 985 047 адамның бірісіз бе?
+welcome-page1-why-am-i-seeing-this = Мен мұны неге көріп тұрмын?

@@ -6,24 +6,11 @@
 ### URL: https://www-dev.allizom.org/products/
 
 
-## Firefox
-
-
-## Focus
-
-
-## Monitor
-
-
-## Relay
-
-
 ## VPN
 
 firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } алу
 
-## MDN Plus
-
-
 ## Thunderbird
 
+firefox-products-access-all = Барлық электрондық поштаңызға, күнтізбелеріңізге және контактілеріңізге бір жылдам қолданба арқылы қол жеткізіңіз. Оларды өзіңізге ұнайтындай сүзгілеңіз және реттеңіз.
+firefox-products-download-thunderbird = { -brand-name-thunderbird } жүктеп алу
