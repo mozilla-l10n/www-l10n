@@ -57,3 +57,4 @@ vpn-features-personalize-which-apps = Қай қолданбалар VPN қорғ
 vpn-features-easily-exclude-apps = Қолданбаларды VPN қорғауынан оңай алып тастаңыз — құрылғыны { -brand-name-mozilla-vpn } желісінен ажыратудың қажеті жоқ. Windows, Android және Linux құрылғыларында қолжетімді.
 vpn-features-trustworthy = Сенімді
 vpn-features-money-back = 30 күндік ақшаны қайтару кепілдігі
+vpn-features-plus-customer-support = Сонымен қатар тәулік бойы (24/7) қолдау көрсету қызметі.
