@@ -7,3 +7,5 @@
 
 # HTML page title and main title
 vpn-when-to-use-5-reasons-you-should = VPN қолдану керектігінің 5 себебі
+# HTML page description and intro
+vpn-when-to-use-here-are-five = Мұнда сіз ойламаған, сенімді VPN қажет болатын бес жағдай берілген. { -brand-name-mozilla-vpn } көмегімен желідегі қауіпсіздігіңізді нығайтыңыз.
