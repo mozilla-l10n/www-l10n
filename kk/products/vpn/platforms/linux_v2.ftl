@@ -7,3 +7,4 @@
 
 vpn-linux-mozilla-vpn = Linux үшін { -brand-name-mozilla-vpn }
 vpn-linux-looking-for = Linux компьютеріңізді қорғау үшін VPN іздеп жүрсіз бе? { -brand-name-mozilla-vpn } коммерциялық емес компанияның жалғыз қызметін ұсынады. VPN сізді қалай қорғайтынын және неге жекелігіңіз бен қауіпсіздігіңіз үшін { -brand-name-mozilla } ұйымына сену керектігін біліңіз.
+vpn-linux-mozilla-vpn-on-linux = Жекелік пен қауіпсіздігі жоғары интернет үшін Linux-тағы { -brand-name-mozilla-vpn }
