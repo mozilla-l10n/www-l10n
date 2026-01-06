@@ -5,6 +5,26 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+# HTML page title
+features-index-firefox-browser-features = { -brand-name-firefox } браузерінің мүмкіндіктері
+# HTML page description
+features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } — бұл барлық құрылғыларыңызда жұмыс істейтін жылдам, жеңіл және жекелікке бағытталған браузер.
+features-index-firefox-keeps-getting-faster = { -brand-name-firefox } жылдамдай береді
+features-index-the-latest-browser-speed-benchmarks = Браузер жылдамдығының соңғы бенчмарктары { -brand-name-firefox } браузерінің бұрынғыдан да жылдам екенін дәлелдейді.
+features-index-is-firefox-a-private-browser = { -brand-name-firefox } — жекелікті сақтайтын браузер ме?
+features-index-were-focused-on-your-right-to = Біз сіздің жекелік құқығыңызға баса назар аударамыз. Сіздің деректеріңіз, вебтегі әрекеттеріңіз, онлайн өміріңіз { -brand-name-firefox } арқылы қорғалған.
+features-index-free-password-manager = Тегін парольдер басқарушысы
+features-index-get-help-creating-new-passwords = Жаңа парольдерді жасауға, онлайн формаларды автоматты түрде толтыруға және автоматты түрде жүйеге кіруге көмек алыңыз.
+features-index-customize-your-firefox-browser = { -brand-name-firefox } браузерін баптаңыз
+features-index-choose-how-your-browser-looks = Мыңдаған тегін темалар арқылы браузеріңіздің сыртқы түрін таңдаңыз.
+features-index-firefox-browser-sync = { -brand-name-firefox } браузерінің синхрондауы
+features-index-access-your-firefox-bookmarks = Кез келген құрылғыдан { -brand-name-firefox } бетбелгілеріне, парольдеріне, ашық беттеріне және т.б. қол жеткізіңіз.
+features-index-bookmark-manager = Бетбелгілер басқарушысы
+features-index-organize-your-bookmarks-with = Бетбелгілеріңізді бумалар мен тегтер арқылы реттеңіз.
+features-index-private-browsing-mode = Жекелік шолу режимі
+features-index-automatically-delete-cookies = Браузерді жапқан кезде кукилерді автоматты түрде өшіріп, шолу тарихын тазалаңыз.
+features-index-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } қосымшалары және браузер кеңейтулері
+features-index-add-new-tools-capabilities-and = Браузеріңізге жаңа құралдар, мүмкіндіктер мен қызықты нәрселер қосыңыз.
 features-index-view-and-edit-pdf-files = PDF файлдарын тікелей { -brand-name-firefox } ішінде көріңіз және түзетіңіз.
 features-index-fingerprint-blocking = Цифрлық іздерді жинауды бұғаттау
 features-index-ad-tracker-blocking = Жарнама трекерлерін бұғаттау
