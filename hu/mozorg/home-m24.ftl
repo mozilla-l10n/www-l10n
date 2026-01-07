@@ -65,21 +65,21 @@ m24-home-builders-helps-independent = A Builders egyéni együttműködésekkel,
 m24-home-builders-helps-independent-v2 = A { -brand-name-mozilla-builders } segít a független fejlesztőknek, hogy transzformatív, nyílt forráskódú MI projekteket hozzanak létre, az egyedi együttműködéseken, programozáson és közösségen keresztül.
 m24-home-own-what-you = Legyen a tulajdonában, amit épít
 # "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
-m24-home-do-we-need-a = Kell-e a „LAMP Stack” a MI korszakhoz? Olyan technológiára van szükségünk, amely átlátható, elszámoltatható, és azok tulajdonosai, akik használják.
+m24-home-do-we-need-a = Szükséges-e a „LAMP stack” az MI korszakában? Olyan technológiára van szükségünk, amely átlátható, elszámoltatható, és azok a tulajdonosai, akik használják.
 m24-home-watch-now = Figyelés most
-m24-home-choice-first-stack = Választás első verem
-m24-home-your-tools-your = Az Ön eszközei, az Ön választása. Egy egyesített nyílt forráskódú verem, amely leegyszerűsíti a modern MI ügynökök és alkalmazások készítését és tesztelését.
-m24-home-get-started-now = Kezdje el most
+m24-home-choice-first-stack = Választásra épülő szoftverkészlet
+m24-home-your-tools-your = Az Ön eszközei, az Ön választása. Egy egyesített nyílt forráskódú szoftverkészlet, amely leegyszerűsíti a modern MI ágensek és alkalmazások készítését és tesztelését.
+m24-home-get-started-now = Kezdő lépések
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Beszélő egy színpadon több termék logójával.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Van egy korai fázisú induló vállalkozása? Mutassa be a cégét a { -brand-name-mozilla-ventures }nek, és szerezzen finanszírozást, hogy pozitív változást hozzon az MI és az internet jövőjében.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = A { -brand-name-mozilla } Data Collective újjáépíti a mesterséges intelligenciára épülő adatökoszisztémát, a közösségekkel a középpontban. Érjen el több mint 300 kiváló minőségű globális adatkészletet, amelyeket a közösség állított össze, átlátható és etikus módon.
-m24-home-join-today = Csatlakozzon még ma
+m24-home-join-today = Csatlakozás még ma
 m24-home-a-double-bottom = Kettős lényeg a tech számára
 m24-home-mark-surman-discusses = Mark Surman azt taglalja, hogyan építhetünk technológiai ökoszisztémát, kettős lényeggel – olyat, amely egyaránt értékeli a küldetést és a pénzt.
-m24-home-agent-platform = Agent platform
+m24-home-agent-platform = Ágens platform
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Bármelyik ágens
 m24-home-stop-wiring-tools = Felejtse el az összedrótozott eszközöket és a törékeny automatizálásokat. Írja le a célját a { -brand-name-mozilla-ai-v2 } Agent Platformmal, és mi adaptív MI-ágenst állítunk elő, amely együttműködik az eszközeivel és a folyamataival.
@@ -114,9 +114,9 @@ m24-home-axios = Axios
 m24-home-mozillas-new-message = Az { -brand-name-mozilla } új üzenete: Mi vagyunk az egyetlen böngésző, melyet nem milliárdosok támogatnak
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
-m24-home-the-ft = Az FT
-m24-home-rewiring-mozilla = { -brand-name-mozilla } újrahuzalozása: Azt tegyük az MIért, amit a webért
-m24-home-interview-with-mark = Interjú Mark Surmannel: { -brand-name-mozilla } hogyan alkalmazkodik a mesterséges intelligencia korához
+m24-home-the-ft = Financial Times
+m24-home-rewiring-mozilla = A { -brand-name-mozilla } újrahuzalozása: Azt tesszük az MI-ért, amit a webért
+m24-home-interview-with-mark = Interjú Mark Surmannel: Hogyan alkalmazkodik a { -brand-name-mozilla } az MI korához
 m24-home-women-in-product = Nők a termékben beszélgetés: GenAI hozzáadása a cél elvesztése nélkül
 m24-home-scaling-open-source = Nyílt forráskódú MI skálázása: Mark Surman és Tim Bradshaw
 
