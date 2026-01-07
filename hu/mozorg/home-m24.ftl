@@ -118,7 +118,7 @@ m24-home-the-ft = Financial Times
 m24-home-rewiring-mozilla = A { -brand-name-mozilla } újrahuzalozása: Azt tesszük az MI-ért, amit a webért
 m24-home-interview-with-mark = Interjú Mark Surmannel: Hogyan alkalmazkodik a { -brand-name-mozilla } az MI korához
 m24-home-women-in-product = Nők a termékben beszélgetés: GenAI hozzáadása a cél elvesztése nélkül
-m24-home-scaling-open-source = Nyílt forráskódú MI skálázása: Mark Surman és Tim Bradshaw
+m24-home-scaling-open-source = A nyílt forráskódú MI skálázása: Mark Surman és Tim Bradshaw
 
 ## Showcase
 
@@ -142,9 +142,9 @@ m24-home-read-the-report = Olvassa el a jelentést
 
 ## Nothing Personal
 
-m24-home-mozilla-nothing-personal = Nincs semmi személyes
+m24-home-mozilla-nothing-personal = Semmi személyes
 m24-home-our-new-magazine = Új magazinunk független gondolkodóknak, technológusoknak és kreatívoknak a digitális kultúra frontján.
-m24-home-read-now = Olvasás most elemre
+m24-home-read-now = Olvasás most
 
 ## Issues
 
