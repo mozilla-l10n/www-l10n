@@ -140,7 +140,7 @@ firefox-desktop-download-select-linux = Выберите вариант <strong>
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
 firefox-desktop-download-get-help = Возникли проблемы? <a { $attrs }>Получите помощь по установке</a>.
-firefox-desktop-download-in-another-language = Загрузить на другом языке или для другой операционной системы.
+firefox-desktop-download-in-another-language = Скачать на другом языке или для другой операционной системы.
 firefox-desktop-download-windows = { -brand-name-windows }
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
