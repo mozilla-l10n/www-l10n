@@ -12,6 +12,7 @@ footer-refresh-learn-more-about-mozilla-advertising = Læs mere <span>om { -bran
 footer-refresh-firefox-release-notes = Om de seneste udgivelser af { -brand-name-firefox }
 # Obsolete string (expires 2026-03-13)
 footer-refresh-extend-reach = Udvid rækkevidden og uddyb tilliden.
+footer-refresh-add-trust-to = Tilføj troværdighed til dine annoncekøb.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Følg @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
