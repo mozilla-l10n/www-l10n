@@ -7,3 +7,4 @@
 
 mobile-android-send-a-download-link-to-your = שליחת קישור הורדה לטלפון שלך.
 mobile-android-scan-the-qr-code-to-get-started = יש לסרוק את קוד ה־QR כדי להתחיל
+mobile-android-fast-and-private = מהיר ופרטי
