@@ -54,6 +54,9 @@ m24-home-join-the-movement = Далучайцеся да руху:<br> Штуч�
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-watch-now = Глядзець зараз
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-join-today = Далучайцеся сёння
+m24-home-a-double-bottom = Двайны вынік для тэхналогій
+m24-home-agent-platform = Платформа агента
 
 ## Media Springboard
 
