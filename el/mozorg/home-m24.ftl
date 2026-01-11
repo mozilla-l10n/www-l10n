@@ -64,6 +64,7 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Η δράση «Builders» βοηθά ανεξάρτητους προγραμματιστές να δημιουργήσουν καινοτόμα έργα ΤΝ ανοικτού κώδικα μέσω εξατομικευμένων συνεργασιών, του προγραμματισμού και της κοινότητας.
 m24-home-builders-helps-independent-v2 = Η δράση «{ -brand-name-mozilla-builders }» βοηθά ανεξάρτητους προγραμματιστές να δημιουργήσουν καινοτόμα έργα ΤΝ ανοικτού κώδικα μέσω εξατομικευμένων συνεργασιών, του προγραμματισμού και της κοινότητας.
 m24-home-watch-now = Παρακολούθηση
+m24-home-get-started-now = Έναρξη τώρα
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Ομιλητής επί σκηνής με πολλαπλά λογότυπα προϊόντων.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
