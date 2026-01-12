@@ -63,7 +63,7 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = A Builders egyéni együttműködésekkel, programozással és közösséggel segíti a független fejlesztőket a transzformatív nyílt forráskódú MI projektjeiknek létrehozásában.
 m24-home-builders-helps-independent-v2 = A { -brand-name-mozilla-builders } segít a független fejlesztőknek, hogy transzformatív, nyílt forráskódú MI projekteket hozzanak létre, az egyedi együttműködéseken, programozáson és közösségen keresztül.
-m24-home-own-what-you = Legyen a tulajdonában, amit épít
+m24-home-own-what-you = Legyen az Öné, amit épít
 # "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
 m24-home-do-we-need-a = Szükséges-e a „LAMP stack” az MI korszakában? Olyan technológiára van szükségünk, amely átlátható, elszámoltatható, és azok a tulajdonosai, akik használják.
 m24-home-watch-now = Figyelés most
@@ -77,8 +77,8 @@ m24-home-got-an-earlystage = Van egy korai fázisú induló vállalkozása? Muta
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = A { -brand-name-mozilla } Data Collective újjáépíti a mesterséges intelligenciára épülő adatökoszisztémát, a közösségekkel a középpontban. Érjen el több mint 300 kiváló minőségű globális adatkészletet, amelyeket a közösség állított össze, átlátható és etikus módon.
 m24-home-join-today = Csatlakozás még ma
-m24-home-a-double-bottom = Kettős lényeg a tech számára
-m24-home-mark-surman-discusses = Mark Surman azt taglalja, hogyan építhetünk technológiai ökoszisztémát, kettős lényeggel – olyat, amely egyaránt értékeli a küldetést és a pénzt.
+m24-home-a-double-bottom = Kettős eredmény a technológia számára
+m24-home-mark-surman-discusses = Mark Surman azt taglalja, hogyan építhetünk technológiai ökoszisztémát, kettős eredménnyel – olyat, amely egyaránt értékeli a küldetést és az anyagiakat.
 m24-home-agent-platform = Ágens platform
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Bármelyik ágens
