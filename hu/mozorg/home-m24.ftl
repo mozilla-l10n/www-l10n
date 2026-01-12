@@ -78,7 +78,7 @@ m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = A { -brand-name-mozilla } Data Collective újjáépíti a mesterséges intelligenciára épülő adatökoszisztémát, a közösségekkel a középpontban. Érjen el több mint 300 kiváló minőségű globális adatkészletet, amelyeket a közösség állított össze, átlátható és etikus módon.
 m24-home-join-today = Csatlakozás még ma
 m24-home-a-double-bottom = Kettős eredmény a technológia számára
-m24-home-mark-surman-discusses = Mark Surman azt taglalja, hogyan építhetünk technológiai ökoszisztémát, kettős eredménnyel – olyat, amely egyaránt értékeli a küldetést és az anyagiakat.
+m24-home-mark-surman-discusses = Mark Surman azt taglalja, hogyan építhetünk olyan technológiai ökoszisztémát, amely egyaránt értékeli a küldetést és az anyagiakat.
 m24-home-agent-platform = Ágens platform
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Bármelyik ágens
@@ -108,7 +108,7 @@ m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } vezérigazgató a nyílt
 m24-home-introducing-thundermail-and = Bemutatkozik a Thundermail és a Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Bemutatkozik a { -brand-name-thundermail } és a { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Ami ezután következik a technológiában, az egy választás. Válasszon velünk.
-m24-home-a-good-moment = „Számunkra egy jó pillanat”: { -brand-name-firefox } fej a mesterséges intelligencia böngészőkre és mi következik a webes fejlesztésekben
+m24-home-a-good-moment = „Egy jó pillanat a számunkra”: a { -brand-name-firefox } vezetője az MI böngészőkről és a web jövőjéről
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-mozillas-new-message = Az { -brand-name-mozilla } új üzenete: Mi vagyunk az egyetlen böngésző, melyet nem milliárdosok támogatnak
@@ -135,7 +135,7 @@ m24-home-state-of-mozilla = A { -brand-name-mozilla } állapota
 m24-home-mozilla-is-reinventing-itself = A { -brand-name-mozilla } újraszervezi magát, szervezetek halmaza köré diverzifikálódik, újragondolja a hirdetéseket és egy nyílt forráskódú MI ökoszisztémát hoz létre. Olvasson róla a { -brand-name-mozilla } 2024-es állapotjelentésében.
 # Variables
 #   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = A { -brand-name-mozilla } újra feltalálja magát, szervezetek halmaza köré diverzifikálódik, újragondolja a hirdetéseket és egy nyílt forráskódú MI ökoszisztémát hoz létre. Olvasson a következő állapotról: { -brand-name-mozilla } { $year } jelentés.
+m24-home-mozilla-is-reinventing-itself-v2 = A { -brand-name-mozilla } újraszervezi magát, szervezetek halmaza köré diverzifikálódik, újragondolja a hirdetéseket és egy nyílt forráskódú MI ökoszisztémát hoz létre. Olvasson róla a { -brand-name-mozilla } { $year } évi állapotjelentésében.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Absztrakt pixelgrafika zöld, narancs és rózsaszín árnyalatokban
 m24-home-read-the-report = Olvassa el a jelentést

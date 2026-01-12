@@ -40,7 +40,7 @@ m24-about-rewiring-mozilla = { -brand-name-mozilla } újrahuzalozása: Azt csin�
 m24-about-what-comes-next = Ami ezután következik a technológiában, az egy választás. Válasszon velünk.
 m24-about-watch-here = Megtekintés itt
 # "Double Bottom Line" refers to accounting for both money and mission values
-m24-about-can-we-have = Kettős a lényeg a Technika számára? Mark Surman azt taglalja, hogyan építhetünk technológiai ökoszisztémát, kettős lényeggel – olyat, amely egyaránt értékeli a küldetést és a pénzt.
+m24-about-can-we-have = Lehetséges-e a kettős eredmény elérése a technológiai vállalatok számára? Mark Surman azt taglalja, hogyan építhetünk olyan technológiai ökoszisztémát, amely egyaránt értékeli a küldetést és az anyagiakat.
 m24-about-watch-now = Megtekintés most
 
 ## Showcase
