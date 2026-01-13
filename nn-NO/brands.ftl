@@ -29,7 +29,7 @@
 
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
--brand-name-firefox-browser = Firefox-nettlesar
+-brand-name-firefox-browser = Firefox-nettlesaren
 -brand-name-firefox-browsers = Firefox-nettlesarar
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
