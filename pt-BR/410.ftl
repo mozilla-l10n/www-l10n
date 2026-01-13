@@ -8,3 +8,15 @@
 page-gone-title = Esta página foi removida
 page-gone-body = Desculpe, este conteúdo não está mais disponível. Você pode seguir alguns dos links abaixo para encontrar informações mais atuais.
 gone-page-go-back = Voltar
+# Variables:
+#   $home (attr) - attributes to be added to the <a> tag - href="https://mozilla.org"
+gone-page-go-home = Comece a explorar o site a partir da <a { $home }>página inicial</a>.
+# Variables:
+#   $blog (attr) - attributes to be added to the <a> tag - href="https://blog.mozilla.org/"
+gone-page-search-blog = Pesquisar no <a { $blog }>blog da { -brand-name-mozilla }</a>.
+# Variables:
+#   $products (attr) - attributes to be added to the <a> tag - href="/products/"
+gone-page-browse-products = Conheça nossos <a { $products }>produtos</a>.
+# Variables:
+#   $support (attr) - attributes to be added to the <a> tag - href="https://support.mozilla.org/"
+gone-page-visit-support = Visite o <a { $support }>suporte da { -brand-name-mozilla }</a>.

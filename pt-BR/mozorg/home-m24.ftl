@@ -61,22 +61,27 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent-v2 = O { -brand-name-mozilla-builders } ajuda desenvolvedores independentes a criar projetos transformadores de inteligência artificial de código aberto por meio de colaborações sob medida, programação e comunidade.
 m24-home-watch-now = Assista agora
+m24-home-get-started-now = Começar agora
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Palestrante no palco com vários logotipos de produtos.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Tem uma startup em estágio inicial? Apresente sua empresa para { -brand-name-mozilla-ventures } e garanta financiamento para promover mudanças positivas no futuro da inteligência artificial e da internet.
+# Obsolete string (expires 2026-04-05)
+m24-home-any-agent = Qualquer agente
 
 ## Media Springboard
 
 m24-home-type = Tipo
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Autor
+m24-home-author-v2 = Autor(es)
 m24-home-topic = Tópico
 m24-home-intro = Introdução
 m24-home-tag-article = Artigo
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Vídeo
 m24-home-topic-news = Notícias
+m24-home-topic-products = Produtos
 m24-home-topic-ai = Inteligência artificial
 m24-home-topic-ps = Privacidade e Segurança
 m24-home-headline-you-ai-v2 = Você, inteligência artificial e a internet — o que realmente está acontecendo?
