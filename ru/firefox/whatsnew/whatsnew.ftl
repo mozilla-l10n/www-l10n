@@ -11,7 +11,7 @@ whatsnew-firefox = { -brand-name-firefox }
 whatsnew-update-notification = Ваш { -brand-name-firefox } был успешно обновлён.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
-whatsnew-release-notes-v2 = Прочитайте <a { $url }>Примечания к выпуску</a> и узнайте больше о том, что нового в вашем { -brand-name-firefox }.
+whatsnew-release-notes-v2 = Прочитайте <a { $url }>примечания к выпуску</a> и узнайте больше о том, что нового в вашем { -brand-name-firefox }.
 whatsnew-signoff = <strong>Создано { -brand-name-mozilla }.</strong> Ставим людей выше прибыли с 1998 года.
 whatsnew-donate-to-mofo-v2 = Пожертвовать { -brand-name-mozilla-foundation }
 whatsnew-thanks-for-choosing = Спасибо, что выбрали { -brand-name-firefox }
