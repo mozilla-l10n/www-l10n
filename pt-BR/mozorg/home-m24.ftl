@@ -60,6 +60,7 @@ m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+m24-home-builders-helps-independent = Builders ajuda desenvolvedores independentes a criar projetos transformadores de inteligência artificial de código aberto por meio de colaborações, programação e comunidade sob medida.
 m24-home-builders-helps-independent-v2 = O { -brand-name-mozilla-builders } ajuda desenvolvedores independentes a criar projetos transformadores de inteligência artificial de código aberto por meio de colaborações sob medida, programação e comunidade.
 m24-home-watch-now = Assista agora
 m24-home-get-started-now = Começar agora
@@ -67,6 +68,7 @@ m24-home-get-started-now = Começar agora
 m24-home-alt-ventures = Palestrante no palco com vários logotipos de produtos.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Tem uma startup em estágio inicial? Apresente sua empresa para { -brand-name-mozilla-ventures } e garanta financiamento para promover mudanças positivas no futuro da inteligência artificial e da internet.
+m24-home-join-today = Participe hoje mesmo
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Qualquer agente
 
