@@ -89,8 +89,11 @@ m24-home-topic-open-source-ai = ΤΝ ανοικτού κώδικα
 m24-home-topic-ps = Απόρρητο και ασφάλεια
 m24-home-headline-you-ai-v2 = Εσείς, η τεχνητή νοημοσύνη και το διαδίκτυο· τι πραγματικά συμβαίνει;
 m24-home-tech-target = Tech Target
+# Obsolete string (expires 2026-03-01)
+m24-home-introducing-thundermail-and = Παρουσίαση των Thundermail και Thunderbird Pro
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
+m24-home-mozillas-new-message = Το νέο μήνυμα της { -brand-name-mozilla }: Είμαστε το μόνο πρόγραμμα περιήγησης που δεν υποστηρίζεται από δισεκατομμυριούχους
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = The FT
