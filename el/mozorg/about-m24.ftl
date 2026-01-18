@@ -36,6 +36,7 @@ m24-about-we-fund-and = Χρηματοδοτούμε και επενδύουμε
 
 m24-about-read-more = Διαβάστε περισσότερα
 m24-about-read-the-latest = Διαβάστε τις τελευταίες ειδήσεις και άρθρα από τη { -brand-name-mozilla }
+m24-about-watch-now = Παρακολούθηση
 
 ## Showcase
 
