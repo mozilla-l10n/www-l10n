@@ -114,6 +114,7 @@ m24-home-read-the-report = Διαβάστε την αναφορά
 
 ## Nothing Personal
 
+m24-home-mozilla-nothing-personal = Nothing Personal
 m24-home-read-now = Ανάγνωση τώρα
 
 ## Issues
