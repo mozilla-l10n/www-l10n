@@ -4,7 +4,15 @@
 
 footer-refresh-discover-mozilla-products = Otkrijte { -brand-name-mozilla } proizvode i inicijative. Obećavamo da ćemo vaš e-mail čuvati privatnim i sigurnim – bez dijeljenja, bez prodaje, samo sjajna ažuriranja.
 footer-refresh-leadership = Rukovodstvo
+footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-ads = Saznajte više <span>o { footer-refresh-mozilla-ads }</span>
+# Obsolete string (expires 2026-10-03)
+footer-refresh-learn-more-about-mozilla-advertising = Saznajte više <span>o oglašavanju na { -brand-name-mozilla } platformi</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } napomene o izdanju
+# Obsolete string (expires 2026-03-13)
+footer-refresh-extend-reach = Proširite doseg. Produbite povjerenje.
+footer-refresh-add-trust-to = Dodajte povjerenje kupovini oglasa.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Pratite @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram

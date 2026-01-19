@@ -25,6 +25,7 @@ privacy-faq-v2-following-questions = Sljedeća pitanja i odgovori bi trebali da 
 privacy-faq-v2-i-use-firefox = Koristim { -brand-name-firefox } za gotovo sve na webu. Vi u { -brand-name-mozilla } mora da znate gomilu stvari o meni, jel' da?
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } ne zna onoliko koliko biste očekivali o tome kako ljudi pretražuju web. { -brand-name-firefox }, web pretraživač koji radi na vašem uređaju ili računaru, vaš je pristup internetu. Vaš pretraživač će upravljati mnogim informacijama o web lokacijama koje posjećujete, ali te informacije uglavnom ostaju na vašem uređaju.
 privacy-faq-v2-it-seems-like = Izgleda kao da svaka kompanija na webu kupuje i prodaje moje podatke. Vi vjerovatno niste drugačiji.
+privacy-faq-v2-we-never-sell-your = Nikada ne prodajemo vaše lične podatke. Za razliku od drugih velikih tehnoloških kompanija koje prikupljaju i profitiraju od vaših ličnih podataka, mi smo izgrađeni s privatnošću kao podrazumijevanim principom. Ne znamo vaše godine, spol, tačnu lokaciju ili druge informacije koje velike tehnološke kompanije prikupljaju i od kojih profitiraju.
 # Obsolete string (expires: 2025-12-08)
 # Variables:
 #   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained

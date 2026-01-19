@@ -105,11 +105,14 @@
 -brand-name-mozilla-account = Mozilla račun
 -brand-name-mozilla-accounts = Mozilla računi
 -brand-name-mozilla-builders = Mozilla Builders
+-brand-name-mozilla-ads = Mozilla oglasi
 -brand-name-builders = Konstruktori
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
+-brand-name-thunderbird-pro = Thunderbird Pro
+-brand-name-thundermail = Thundermail
 
 ## Mozilla projects (short names)
 

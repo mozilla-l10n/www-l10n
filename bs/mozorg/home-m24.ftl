@@ -63,26 +63,62 @@ m24-home-mozilla-builders = { -brand-name-mozilla } konstruktori
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Konstruktori pomažu nezavisnim programerima da kreiraju transformativne AI projekte otvorenog koda kroz prilagođenu saradnju, programiranje i zajednicu.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } pomaže nezavisnim programerima da kreiraju transformativne AI projekte otvorenog koda kroz prilagođenu saradnju, programiranje i zajednicu.
+m24-home-own-what-you = Posjedujte ono što izgradite
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = Da li nam je potreban „LAMP Stack“ za eru vještačke inteligencije? Potrebna nam je tehnologija koja je transparentna, odgovorna i u vlasništvu ljudi koji je koriste.
 m24-home-watch-now = Gledajte sada
+m24-home-choice-first-stack = Izbor prvog steka
+m24-home-your-tools-your = Vaši alati, vaš izbor. Ujedinjeni paket otvorenog koda koji pojednostavljuje izgradnju i testiranje modernih AI agenata i aplikacija.
+m24-home-get-started-now = Započnite odmah
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Govornik na bini sa više logotipa proizvoda.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Imate li startup u ranoj fazi? Predstavite svoju kompaniju na { -brand-name-mozilla-ventures } i osigurajte finansijska sredstva za pokretanje pozitivnih promjena za budućnost AI i interneta.
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective obnavlja ekosistem podataka umjetne inteligencije, stavljajući zajednice u središte.
+m24-home-join-today = Pridružite se danas
+m24-home-a-double-bottom = Dvostruki profit za tehnologiju
+m24-home-mark-surman-discusses = Mark Surman raspravlja o tome kako možemo izgraditi tehnološki ekosistem s dvostrukim rezultatom - onim koji cijeni i misiju i novac.
+m24-home-agent-platform = Platforma agenta
+# Obsolete string (expires 2026-04-05)
+m24-home-any-agent = Bilo koji agent
+m24-home-stop-wiring-tools = Prestanite povezivati alate i čuvati krhke automatizacije. Sa { -brand-name-mozilla-ai-v2 } Agent Platformom, vi opisujete svoj cilj, mi generiramo adaptivne AI agente koji rade s vašim alatima i procesima.
 
 ## Media Springboard
 
 m24-home-type = Tip
 # Obsolete string (expires 2026-03-13)
 m24-home-author = Autor
+m24-home-author-v2 = Autor(i)
 m24-home-topic = Tema
 m24-home-intro = Predstavljanje
 m24-home-tag-article = Članak
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Video
 m24-home-topic-news = Vijesti
+m24-home-topic-products = Proizvodi
 m24-home-topic-ai = Umjetna inteligencija
+m24-home-topic-open-source-ai = Otvoreni izvor umjetne inteligencije
 m24-home-topic-ps = Privatnost i sigurnost
 m24-home-headline-you-ai-v2 = Vi, AI i internet – šta se zapravo dešava?
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } pozdravlja Raffija Krikoriana kao glavnog tehnološkog direktora
+m24-home-tech-target = Tehnološki cilj
+m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } Izvršni direktor govori o prednostima umjetne inteligencije otvorenog koda
+# Obsolete string (expires 2026-03-01)
+m24-home-introducing-thundermail-and = Predstavljamo Thundermail i Thunderbird Pro
+m24-home-introducing-thundermail-and-v2 = Predstavljamo { -brand-name-thundermail } i { -brand-name-thunderbird-pro }
+m24-home-what-comes-next = Ono što slijedi u tehnologiji je izbor. Birajte s nama.
+m24-home-a-good-moment = „Dobar trenutak za nas“: { -brand-name-firefox } govori o AI preglednicima i šta je sljedeće za web
+m24-home-the-guardian = The Guardian
+m24-home-axios = Axios
+m24-home-mozillas-new-message = { -brand-name-mozilla }-ova nova poruka: Mi smo jedini preglednik koji ne podržavaju milijarderi
+m24-home-fast-company = Brza kompanija
+m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = The FT
+m24-home-rewiring-mozilla = Rewiring { -brand-name-mozilla }: Radimo za vještačku inteligenciju ono što smo uradili za web
+m24-home-interview-with-mark = Intervju sa Markom Surmanom: Kako se { -brand-name-mozilla } prilagođava dobu umjetne inteligencije
+m24-home-women-in-product = Razgovor o ženama u proizvodu: Dodavanje GenAI-a bez gubitka zapleta
+m24-home-scaling-open-source = Skaliranje otvorenog koda umjetne inteligencije: Mark Surman i Tim Bradshaw
 
 ## Showcase
 
@@ -97,12 +133,26 @@ m24-home-alt-rise25-smiling = Samouvjereni nasmijani govornik na { -brand-name-r
 m24-home-alt-rise25-joyous = Radosna nagrada na { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Izvještaj o stanju { -brand-name-mozilla }e
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se ponovo osmišljava, diverzificirajući se oko konstelacije organizacija, ponovo zamišljajući oglašavanje i stvarajući AI ekosistem otvorenog koda. Pročitajte o tome u Izvještaju o stanju { -brand-name-mozilla }e za 2024.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } se ponovo izmišlja, diverzificira se oko konstelacije organizacija, redefinira oglašavanje i stvara ekosistem umjetne inteligencije otvorenog koda. Pročitajte o tome u Izvještaju o stanju { -brand-name-mozilla } { $year }.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Apstraktna piksel art u nijansama zelene, narandžaste i roze
 m24-home-read-the-report = Pročitajte izvještaj
 
+## Nothing Personal
+
+m24-home-mozilla-nothing-personal = Ništa lično
+m24-home-our-new-magazine = Naš novi časopis za nezavisne mislioce, tehnologe i kreativce na prvim linijama digitalne kulture.
+m24-home-read-now = Čitaj sada
+
 ## Issues
 
+m24-home-explore-issues-shaping = Istražite probleme koji oblikuju budućnost interneta
+m24-home-the-validation-machines = Mašine za validaciju
+m24-home-in-the-atlantic = U časopisu The Atlantic, tehnički direktor { -brand-name-mozilla } Raffi Krikorian pita zašto su chatbotovi i generativna umjetna inteligencija toliko željni da nas zadovolje i šta to znači za čovječanstvo. (slika ljubaznošću The Atlantic)
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = Minijaturna osoba gleda u veliki taster na tastaturi i hipnotišući ekran računara
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, voditeljica IRL Podcasta.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

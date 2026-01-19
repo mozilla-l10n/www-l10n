@@ -36,6 +36,12 @@ m24-about-we-fund-and = Mi finansiramo i ulažemo u ljude i napore koji tehnolog
 
 m24-about-read-more = Pročitajte više
 m24-about-read-the-latest = Pročitajte najnovije { -brand-name-mozilla } vijesti i članke
+m24-about-rewiring-mozilla = Reprogramiranje { -brand-name-mozilla }: Šta radimo za vještačku inteligenciju? Šta smo uradili za web. Pročitajte o našoj strategiji sljedeće generacije i kako transformišemo { -brand-name-mozilla } za eru vještačke inteligencije.
+m24-about-what-comes-next = Ono što slijedi u tehnologiji je izbor. Birajte s nama.
+m24-about-watch-here = Gledajte ovdje
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = Možemo li imati dvostruki profit za tehnologiju? Mark Surman raspravlja o tome kako možemo izgraditi tehnološki ekosistem s dvostrukim profitom - onim koji cijeni i misiju i novac.
+m24-about-watch-now = Gledajte sada
 
 ## Showcase
 

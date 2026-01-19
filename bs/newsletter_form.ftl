@@ -29,6 +29,8 @@ newsletter-form-available-languages = Dostupni jezici
 newsletter-form-select-country = Odaberite državu
 newsletter-form-sign-me-up = Registruj me
 newsletter-form-sign-up-now = Registrujte se sada
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Šaljem
 newsletter-form-thanks = Hvala!
 newsletter-form-leave-this-field-empty = Ostavite ovo polje prazno.
 newsletter-form-yes = Da

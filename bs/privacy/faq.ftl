@@ -23,6 +23,7 @@ privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, web brows
 privacy-faq-really-you-dont-collect-my-browsing = Stvarno, ne prikupljate moju historiju pretraživanja?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } ne zna toliko puno kako vi očekujete o tome kako ljudi pretražuju web. Kao graditelji pretraživača, to je ustvari veliki izazov za nas. Zato mi ugrađujemo opcione alate, koji dozvoljavaju korisnicima da nam daju pristup njihovom web pretraživanju. Ako sinrhonizujete vašu historiju pretraživanja putem { -brand-name-firefox } instalacija, mi ne znamo šta je ta historija - jer je šifrovana od strane vašeg uređaja.
 privacy-faq-it-seems-like-every-company = Izgleda kao da svaka kompanija na webu kupuje i prodaje moje podatke. Vi vjerovatno niste drugačiji.
+privacy-faq-we-never-sell-your = Nikada ne prodajemo vaše lične podatke. Za razliku od drugih velikih tehnoloških kompanija koje prikupljaju i profitiraju od vaših ličnih podataka, mi smo izgrađeni s privatnošću kao podrazumijevanim principom. Ne znamo vaše godine, spol, tačnu lokaciju ili druge informacije koje velike tehnološke kompanije prikupljaju i od kojih profitiraju.
 # Obsolete string (expires: 2025-12-08)
 privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } ne prodaje podatke o vama i ne kupujemo podatke o vama.
 privacy-faq-wait-so-how-do-you-make-money = Čekaj, kako onda vi zarađujete novac?
