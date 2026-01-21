@@ -30,6 +30,7 @@
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
 -brand-name-firefox-browser = Firefox Browser
+-brand-name-firefox-browsers = កម្មវិធីរុករក Firefox
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
 -brand-name-firefox-esr = Firefox ESR
@@ -49,6 +50,8 @@
 ## Firefox browsers (legacy)
 
 -brand-name-firefox-aurora = Firefox Aurora
+-brand-name-aurora = Aurora
+-brand-name-firefox-quantum = Firefox Quantum
 
 ## Firefox products
 
@@ -82,19 +85,44 @@
 
 -brand-name-fakespot = ហ្វេកស្ពត
 
+## Anonym
+
+-brand-name-anonym = អនាមិក
+
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
+-brand-name-gecko = តក់កែ
+-brand-name-glean = Glean
+-brand-name-irl-podcast = IRL ផតខាស់
+-brand-name-solo-ai = Solo AI
+-brand-name-lumigator = Lumigator
+-brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
+-brand-name-mozilla-festival = កម្មវីធីជួបជុំ Mozilla
+-brand-name-mozilla-monitor = ការត្រួតពិនិត្យ Mozilla
 -brand-name-mozilla-vpn = Mozilla VPN
+-brand-name-mozilla-account = គណនី Mozilla
+-brand-name-mozilla-accounts = គណនី Mozilla
+-brand-name-mozilla-builders = អ្នកសាងសង់ Mozilla
 -brand-name-mozilla-ads = ពាណិជ្ជកម្ម Mozilla
+-brand-name-builders = អ្នកសាងសង់
+-brand-name-mozilla-ai-v2 = Mozilla.ai
+-brand-name-mozilla-ventures = បណ្តាក់ទុន Mozilla
+-brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
+-brand-name-thunderbird-pro = Thunderbird Pro
+-brand-name-thundermail = Thundermail
 
 ## Mozilla projects (short names)
 
 -brand-name-common-voice = Common Voice
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
+
+## Mozilla projects (legacy)
+
+-brand-name-webmaker = អ្នកបង្កើតគេហទំព័រ
 
 ## Open Source projects
 
@@ -112,9 +140,11 @@
 ## Platforms
 
 -brand-name-android = Android
+-brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
+-brand-name-mac-short = Mac
 -brand-name-windows = Windows
 
 ## Apple products
@@ -122,13 +152,17 @@
 -brand-name-app-store = App Store
 -brand-name-ipad = iPad
 -brand-name-iphone = iPhone
+-brand-name-test-flight = TestFlight
 
 ## Facebook products
 
+-brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram = Instagram
+-brand-name-workplace = Workplace
 
 ## Google products
 
 -brand-name-chromium = Chromium
 -brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
+-brand-name-chromebook = Chromebook
