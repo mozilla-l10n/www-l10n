@@ -18,7 +18,12 @@
 -brand-name-mozilla = Mozilla
 -brand-name-mozilla-corporation = Mozilla Corporation
 -brand-name-mozilla-foundation = Mozilla Foundation
+-brand-name-netscape = Netscape
 -brand-name-twitter = Twitter
+-brand-name-wireguard = WireGuard
+-brand-name-linkedin = LinkedIn
+-brand-name-tiktok = TikTok
+-brand-name-spotify = Spotify
 
 ## Firefox browsers
 
@@ -49,25 +54,40 @@
 
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-devtools = Firefox DevTools
+-brand-name-firefox-relay = Firefox បញ្ជូនត
+-brand-name-firefox-translations = ការបកប្រែ Firefox
 
 ## Firefox products (short names)
 
 -brand-name-devtools = DevTools
+-brand-name-relay = បញ្ជូនត
 
 ## Firefox products (legacy)
 
 -brand-name-firefox-account = Firefox Account
 -brand-name-firefox-accounts = Firefox Accounts
+-brand-name-firefox-marketplace = ផ្សាររបស់ Firefox
+-brand-name-firefox-os = ប្រព័ន្ធប្រត្តិបត្តិការណ៍ Firefox
+-brand-name-firefox-private-network = បណ្តាញឯកជន Firefox
+
+## Firefox projects
+
+-brand-name-firefox-labs = មន្ទីរពិសោធន៍ Firefox
 
 ## Pocket
 
 -brand-name-pocket = Pocket
+
+## Fakespot
+
+-brand-name-fakespot = ហ្វេកស្ពត
 
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-vpn = Mozilla VPN
+-brand-name-mozilla-ads = ពាណិជ្ជកម្ម Mozilla
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
