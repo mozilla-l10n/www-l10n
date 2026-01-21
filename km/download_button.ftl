@@ -28,3 +28,20 @@ download-button-unsupported-platform = { $channel_name } គឺ <a href="{ $help
 download-button-please-download-esr = សូមទាញយក { -brand-name-firefox-esr } (ការចេញផ្សាយការគាំទ្របន្ថែម) ដើម្បីប្រើប្រាស់ { -brand-name-firefox }.
 download-firefox-esr = ទាញយក { -brand-name-firefox-esr }
 download-firefox-esr-32 = ទាញយក { -brand-name-firefox-esr } 32-ប៊ីត
+download-firefox-esr-64 = ទាញយក { -brand-name-firefox-esr } 64-ប៊ីត
+download-a-different-build = ទាញយកកំណែផ្សេង
+
+## Linux
+
+download-button-linux-32-v2 = ទាញយកសម្រាប់លីនុច 32-ប៊ីត
+download-button-linux-64-v2 = ទាញយកសម្រាប់ 64-ប៊ីត
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = កំពុងប្រើ Debian, Ubuntu ឬការចែកចាយដែលមានមូលដ្ឋានលើ Debian ណាមួយ?<br> អ្នកអាចកំណត់របស់យើង <a { $attrs }>ជំនួស​ឲ្យ​ឃ្លាំង​ទិន្នន័យ APT </a>.
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = ទទួលយកពី Microsoft
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = ចែករំលែកពីរបៀបដែលអ្នកបានរកឃើញ { -brand-name-firefox } ហើយថាអ្នកប្រើវាជាមួយ { -brand-name-mozilla } ដៃគូបច្ចេកវិទ្យាទីផ្សាររបស់។ ទិន្នន័យនេះមិនដែលត្រូវបានលក់ ឬប្រើប្រាស់ដើម្បីបង្ហាញការផ្សាយពាណិជ្ជកម្មដល់អ្នកឡើយ។<a { $attrs }>ស្វែងយល់ពីរបៀបដែលយើងប្រើប្រាស់ទិន្នន័យ</a>.

@@ -8,7 +8,7 @@
 # HTML page title
 mozilla-accounts-get-a-mozilla-account = Získejte { -brand-name-mozilla-account } – Udržujte svá data v soukromí, bezpečí a synchronizovaná
 # HTML page description
-mozilla-accounts-securely-sync-your = Synchronizujte svá hesla, záložky a panely bezpečně ve všech svých zařízeních. Získejte { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } – jedno přihlášení – možnosti a soukromí všude.
+mozilla-accounts-securely-sync-your = Synchronizujte svá hesla, záložky a panely bezpečně napříč všemi svými zařízeními. Získejte { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } – jedno přihlášení – možnosti a soukromí, ať jste kdekoli.
 firefox-accounts-enter-your-email-address = Začněte zadáním své e-mailové adresy.
 firefox-accounts-already-have-an-account = Už máte účet?
 firefox-accounts-sign-in = Přihlásit se

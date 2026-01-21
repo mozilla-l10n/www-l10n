@@ -11,7 +11,7 @@ bookmark-manager-bookmark-manager = Správce záložek
 bookmark-manager-organize-your-bookmarks-with = Uspořádejte si záložky pomocí složek a štítků.
 # Variables:
 #   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
-bookmark-manager-bookmarks-are-links-you-save = Záložky jsou odkazy, které si uložíte do prohlížeče, abyste se mohli snadno a rychle vrátit na oblíbená místa na webu. { -brand-name-firefox } obsahuje praktického správce záložek, takže můžete organizovat, vyhledávat, aktualizovat a <a { $sync }>synchronizovat všechny uložené odkazy ve všech svých zařízeních</a>.
+bookmark-manager-bookmarks-are-links-you-save = Záložky jsou odkazy, které si uložíte do prohlížeče, abyste se mohli snadno a rychle vrátit na oblíbená místa na webu. { -brand-name-firefox } obsahuje praktického správce záložek, takže můžete organizovat, vyhledávat, aktualizovat a <a { $sync }>synchronizovat všechny uložené odkazy napříč všemi svými zařízeními</a>.
 bookmark-manager-organize-your-boomarks-into = Uspořádání záložek do složek s možností vyhledávání
 bookmark-manager-collect-your-bookmarks-in-folders = Záložky můžete shromažďovat ve složkách a označovat je podrobnějšími informacemi. Záložky můžete také třídit, abyste rychle našli ty, které potřebujete.
 bookmark-manager-easily-import-bookmarks = Snadný import záložek
