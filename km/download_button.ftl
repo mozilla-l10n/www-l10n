@@ -18,7 +18,13 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> សម្រាប់ { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> សម្រាប់ { -brand-name-ios }
 download-button-firefox-privacy = ឯនជនភាព { -brand-name-firefox }
+download-button-firefox-privacy-notice = សេចក្តីជូនដំណឹងអំពីភាពឯកជន { -brand-name-firefox }
 download-button-download = ទាញយក
-
-## Linux
-
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } គឺ <a href="{ $help_url }">លែងគាំទ្រទៀតហើយ</a> on { $os_version } និងខាងក្រោម។
+download-button-please-download-esr = សូមទាញយក { -brand-name-firefox-esr } (ការចេញផ្សាយការគាំទ្របន្ថែម) ដើម្បីប្រើប្រាស់ { -brand-name-firefox }.
+download-firefox-esr = ទាញយក { -brand-name-firefox-esr }
+download-firefox-esr-32 = ទាញយក { -brand-name-firefox-esr } 32-ប៊ីត
