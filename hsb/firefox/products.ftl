@@ -56,6 +56,7 @@ firefox-products-download-thunderbird = Sćehńće { -brand-name-thunderbird }
 ## Solo
 
 firefox-products-solo = { -brand-name-solo }
+firefox-products-solo-desc = Wutworće hnydom rjane websydło, zo by waš wobchod rostł. Zwjazajće a hospodujće swójsku domenu zadarmo.
 firefox-products-learn-more-about-solo = Dalše informacije wo { -brand-name-solo }
 
 ## 0DIN
