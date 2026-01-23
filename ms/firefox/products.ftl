@@ -54,3 +54,13 @@ firefox-products-support-mdn = Sokonglah { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Akses e-mel, kalendar, dan butiran hubungan anda dalam satu aplikasi yang pantas. Saring dan susun mengikut kehendak anda.
 firefox-products-download-thunderbird = Muat turun { -brand-name-thunderbird }
+
+## Solo
+
+firefox-products-solo = { -brand-name-solo }
+firefox-products-learn-more-about-solo = Ketahui lebih lanjut tentang { -brand-name-solo }
+
+## 0DIN
+
+firefox-products-0din = { -brand-name-0din }
+firefox-products-learn-more-about-0din = Ketahui lebih lanjut tentang { -brand-name-0din }

@@ -54,3 +54,13 @@ firefox-products-support-mdn = دعم { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = استمتع بالوصول إلى بريدك الإلكتروني بالكامل والتقويمات وجهات الاتصال في تطبيق واحد سريع. افرزها ونظّمها بالطريقة التي تروق لك.
 firefox-products-download-thunderbird = تحميل { -brand-name-thunderbird }
+
+## Solo
+
+firefox-products-solo = { -brand-name-solo }
+firefox-products-learn-more-about-solo = اطَّلِع على المزيد حول { -brand-name-solo }
+
+## 0DIN
+
+firefox-products-0din = { -brand-name-0din }
+firefox-products-learn-more-about-0din = اطَّلِع على المزيد حول { -brand-name-0din }

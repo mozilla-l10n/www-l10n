@@ -36,6 +36,8 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = 個人情報が危険にさらされていることを通知し、ロックして安心。
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = メールアドレスと電話番号を秘匿することで、必要なメッセージだけを受け取ることができます。
+m24-home-solo = { -brand-name-solo }
+m24-home-0din = { -brand-name-0din }
 
 ## Donate
 
