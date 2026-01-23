@@ -52,3 +52,7 @@ firefox-products-support-mdn = Støtt { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Få tilgang til all e-post, kalendere og kontakter i én rask app. Filtrer og organiser dem slik du vil.
 firefox-products-download-thunderbird = Last ned { -brand-name-thunderbird }
+
+## Solo
+
+firefox-products-solo = { -brand-name-solo }
