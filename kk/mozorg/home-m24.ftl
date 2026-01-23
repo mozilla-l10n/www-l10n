@@ -35,6 +35,10 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Жеке ақпаратыңыз қауіпке ұшыраған жағдайда ескерту алыңыз және оны сенімді түрде қорғаңыз.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Электрондық пошта және телефон нөмірін жасырып, тек қалаған хабарламаларды алыңыз.
+m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = Бизнесіңізді дамыту үшін әдемі веб-сайтты лезде жасаңыз.
+m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = Шабуылдаушылардан бұрын GenAI осалдықтарын тауып, түзету арқылы өзіңіздің ЖИ қорғаңыз.
 
 ## Donate
 

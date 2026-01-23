@@ -62,3 +62,5 @@ firefox-products-learn-more-about-solo = { -brand-name-solo } туралы кө�
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = GenAI осалдықтарын ерте анықтап, түзетуге көмектесетін глобалды қауіпсіздік сарапшылары қауымдастығына ЖИ жүйелеріңізді қосыңыз.
+firefox-products-learn-more-about-0din = { -brand-name-0din } туралы көбірек білу
