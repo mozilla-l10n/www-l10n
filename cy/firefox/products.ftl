@@ -52,3 +52,15 @@ firefox-products-support-mdn = Cefnogwch { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Cael eich holl e-byst, calendrau a chysylltiadau mewn un ap cyflym. Hidlwch a threfnwch nhw yn y ffordd rydych chi'n ei hoffi.
 firefox-products-download-thunderbird = Llwytho { -brand-name-thunderbird } i Lawr
+
+## Solo
+
+firefox-products-solo = { -brand-name-solo }
+firefox-products-solo-desc = Creu gwefan hardd ar unwaith fel y gallwch chi dyfu eich busnes. Cysylltwch a chynnal eich parth personol am ddim.
+firefox-products-learn-more-about-solo = Dysgu rhagor am { -brand-name-solo }
+
+## 0DIN
+
+firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = Cysylltwch eich systemau AI â chymuned fyd-eang o arbenigwyr diogelwch sy'n datgelu ac yn helpu i atgyweirio gwendidau GenAI yn gynnar.
+firefox-products-learn-more-about-0din = Dysgu rhagor am { -brand-name-0din }

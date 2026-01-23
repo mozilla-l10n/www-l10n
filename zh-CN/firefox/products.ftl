@@ -52,3 +52,15 @@ firefox-products-support-mdn = 支持 { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = 用这款疾如惊雷的应用，一站式查看您的所有邮件、日历、联系人，并按照您的需要来筛选和整理项目。
 firefox-products-download-thunderbird = 下载 { -brand-name-thunderbird }
+
+## Solo
+
+firefox-products-solo = { -brand-name-solo }
+firefox-products-solo-desc = 即时创建美观网站拓展业务。免费连接和托管您的自定义域名。
+firefox-products-learn-more-about-solo = 详细了解 { -brand-name-solo }
+
+## 0DIN
+
+firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = 将您的 AI 系统与全球安全专家社区相连谁能及早发现并帮助修复 GenAI 漏洞。
+firefox-products-learn-more-about-0din = 详细了解 { -brand-name-0din }

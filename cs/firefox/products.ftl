@@ -52,3 +52,15 @@ firefox-products-support-mdn = Podpořte { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Získejte přístup ke všem e-mailům, kalendářům a kontaktům v jedné rychlé aplikaci. Filtrujte a uspořádejte si je podle svých představ.
 firefox-products-download-thunderbird = Stáhněte si { -brand-name-thunderbird }
+
+## Solo
+
+firefox-products-solo = { -brand-name-solo }
+firefox-products-solo-desc = Okamžitě vytvořte krásné webové stránky, abyste mohli rozvíjet své podnikání. Připojte se a hostujte svou vlastní doménu zdarma.
+firefox-products-learn-more-about-solo = Zjistit více o službě { -brand-name-solo }
+
+## 0DIN
+
+firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = Připojte své systémy umělé inteligence do celosvětové komunity bezpečnostních expertů, kteří pomáhají odhalovat a opravovat zranitelnosti GenAI.
+firefox-products-learn-more-about-0din = Zjistit více o službě { -brand-name-0din }

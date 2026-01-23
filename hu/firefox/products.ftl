@@ -52,3 +52,15 @@ firefox-products-support-mdn = Az { -brand-name-mdn } támogatása
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Érje el az összes e-mailjét, naptárát és névjegyét egy gyors alkalmazásban. Szűrje és rendszerezze őket ahogy szeretné.
 firefox-products-download-thunderbird = A { -brand-name-thunderbird } letöltése
+
+## Solo
+
+firefox-products-solo = { -brand-name-solo }
+firefox-products-solo-desc = Azonnal hozzon létre egy gyönyörű weboldalt, hogy növelje vállalkozását. Kapcsolódjon és tárolja ingyenesen egyéni domainjét.
+firefox-products-learn-more-about-solo = Tudjon meg többet a(z) { -brand-name-solo } kiegészítőről
+
+## 0DIN
+
+firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = Kapcsolja össze az MI rendszereit a biztonsági szakértők globális közösségével, akik feltárják a GenAI sérülékenységeket, és korán javítják őket.
+firefox-products-learn-more-about-0din = Tudjon meg többet a(z) { -brand-name-0din } kiegészítőről

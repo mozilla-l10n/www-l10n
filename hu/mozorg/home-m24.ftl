@@ -35,6 +35,10 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Kapjon figyelmeztetést, ha a személyes adatai veszélybe kerülnek, és biztosítsa őket, mint egy profi.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Rejtse el az e-mail-címét és a telefonszámát, hogy csak a kívánt üzeneteket kapja meg.
+m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = Azonnal hozzon létre egy gyönyörű weboldalt, hogy növelje vállalkozását.
+m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = Biztosítsa mesterséges intelligenciáját a GenAI sérülékenységek megtalálásával és javításával, mielőtt a támadók azt tennék.
 
 ## Donate
 

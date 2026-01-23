@@ -52,3 +52,13 @@ firefox-products-support-mdn = { -brand-name-mdn } жобасына демеуш
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Барлық электрондық поштаңызға, күнтізбелеріңізге және контактілеріңізге бір жылдам қолданба арқылы қол жеткізіңіз. Оларды өзіңізге ұнайтындай сүзгілеңіз және реттеңіз.
 firefox-products-download-thunderbird = { -brand-name-thunderbird } жүктеп алу
+
+## Solo
+
+firefox-products-solo = { -brand-name-solo }
+firefox-products-solo-desc = Бизнесіңізді дамыту үшін әдемі веб-сайтты лезде жасаңыз. Қосылыңыз және өзіңіздің жеке доменіңізді тегін орналастырыңыз.
+firefox-products-learn-more-about-solo = { -brand-name-solo } туралы көбірек білу
+
+## 0DIN
+
+firefox-products-0din = { -brand-name-0din }

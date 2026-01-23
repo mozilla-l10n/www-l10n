@@ -35,6 +35,10 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Saiba se a sua informação pessoal está em risco e bloqueie-a como um profissional.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Mascare o seu e-mail e número de telefone para que receba apenas as mensagens que pretende.
+m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = Crie instantaneamente um website bonito para que possa crescer o seu negócio.
+m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = Proteja a sua IA encontrando e corrigindo vulnerabilidades da GenAl antes que os atacantes o façam.
 
 ## Donate
 

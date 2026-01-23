@@ -35,6 +35,8 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Bjerće so na kedźbu, jeli waše wosobinske informacije su wohrožene a škitajće je kaž profi.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Maskěrujće swoju e-mejlowu adresu a swoje telefonowe čisło, zo byšće jenož te powěsće dóstał, kotrež chceće.
+m24-home-solo = { -brand-name-solo }
+m24-home-0din = { -brand-name-0din }
 
 ## Donate
 

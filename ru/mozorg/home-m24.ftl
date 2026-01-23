@@ -35,6 +35,10 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Получите уведомление, если ваша личная информация под риском, и заблокируйте её, как профессионал.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Замаскируйте свою электронную почту и номер телефона, чтобы получать только те сообщения, которые хотите.
+m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = Мгновенно создавайте красивый веб-сайт, чтобы вы могли развивать свой бизнес.
+m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = Защитите свой ИИ, найдя и исправив уязвимости ГенАи раньше злоумышленников.
 
 ## Donate
 

@@ -95,7 +95,9 @@
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
 -brand-name-irl-podcast = IRL 播客
+-brand-name-solo = Solo
 -brand-name-solo-ai = Solo AI
+-brand-name-0din = 0DIN
 -brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web 文档

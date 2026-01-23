@@ -35,6 +35,10 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = გამოიჩინეთ წინდახედულება, თუ თქვენს პირად ინფორმაციას საფრთხე დაემუქრება და აღკვეთეთ წვდომა, როგორც გამოცდილმა.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = შენიღბეთ თქვენი ელფოსტა და ტელეფონის ნომერი, რომ მხოლოდ სასურველი შეტყობინები მიიღოთ.
+m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = მყისიერად შექმენით მშვენიერი ვებსაიტი, ასე რომ შეგიძლიათ განავითაროთ თქვენი ბიზნესი.
+m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = დაიცავით თქვენი ხელოვნური ინტელექტი GenAI დაუცველობის მოძიებითა და აღმოფხვრით, სანამ ამას გააკეთებს ხოლმე.
 
 ## Donate
 

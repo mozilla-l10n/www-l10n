@@ -35,6 +35,10 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = 當您的個人資訊面臨風險時，接收通知，然後跟專業人士一樣鎖定保護。
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = 隱藏您的電子郵件地址與手機號碼，這樣就只會收到想要的訊息。
+m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = 即刻就能打造出美麗的網站這樣您就可以拓展業務。
+m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = 比攻擊者搶先尋找並修正 EnAI 的漏洞來保護您的 AI。
 
 ## Donate
 

@@ -52,3 +52,15 @@ firefox-products-support-mdn = 支持 { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = 在單一應用程式中，存取所有電子郵件、行事曆與聯絡人，用您喜歡的方式過濾與管理。
 firefox-products-download-thunderbird = 下載 { -brand-name-thunderbird }
+
+## Solo
+
+firefox-products-solo = { -brand-name-solo }
+firefox-products-solo-desc = 即刻就能打造出美麗的網站這樣您就可以拓展業務。免費連結與託管您的自訂網域。
+firefox-products-learn-more-about-solo = 了解 { -brand-name-solo } 的更多資訊
+
+## 0DIN
+
+firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = 將您的 AI 系統連結到由安全專家所組成的全球社群讓他們及早發現並修復 EnAI 的漏洞。
+firefox-products-learn-more-about-0din = 了解 { -brand-name-0din } 的更多資訊

@@ -35,6 +35,10 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Nechte se informovat, když budou vaše osobní údaje v ohrožení, a zajistěte je jako profesionál.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Zamaskujte svůj e-mail a telefonní číslo, abyste dostávali jen ty zprávy, o které stojíte.
+m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = Okamžitě vytvořte krásné webové stránky, abyste mohli rozvíjet své podnikání.
+m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = Zabezpečte svou umělou inteligenci tím, že naleznete a opravíte zranitelnosti genAI dříve než útočníci.
 
 ## Donate
 
