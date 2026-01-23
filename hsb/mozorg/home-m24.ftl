@@ -36,7 +36,9 @@ m24-home-get-a-headsup = Bjerće so na kedźbu, jeli waše wosobinske informacij
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Maskěrujće swoju e-mejlowu adresu a swoje telefonowe čisło, zo byšće jenož te powěsće dóstał, kotrež chceće.
 m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = Wutworće hnydom rjane websydło, zo by waš wobchod rostł.
 m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = Pytajće a porjedźće zranitosće GenAI, prjedy hač nadpadowarjo to činja, zo byšće swoju KI zawěsćił.
 
 ## Donate
 

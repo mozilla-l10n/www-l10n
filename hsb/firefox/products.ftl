@@ -62,4 +62,5 @@ firefox-products-learn-more-about-solo = Dalše informacije wo { -brand-name-sol
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = Zwjazajće swoje systemy KI z globalnym zhromadźenstwom wěstotnych ekspertow, kotřiž zahe zranitosće GenAI wotkrywaja a pomhaja, je porjedźić.
 firefox-products-learn-more-about-0din = Dalše informacije wo { -brand-name-0din }

@@ -52,3 +52,13 @@ firefox-products-support-mdn = Pomoc { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Mějśo pśistup k swójej e-maili, kalendarjam a kontaktam w jadnom malsnem nałoženju. Filtrujśo a zastojśo je na nałog, kótaryž wam spódoba.
 firefox-products-download-thunderbird = Ześěgniśo { -brand-name-thunderbird }
+
+## Solo
+
+firefox-products-solo = { -brand-name-solo }
+firefox-products-solo-desc = Napórajśo ned rědne websedło, aby waš wobchod rosł. Zwěžćo a góspodujśo swójsku domenu zadermo.
+firefox-products-learn-more-about-solo = Dalšne informacije wó { -brand-name-solo }
+
+## 0DIN
+
+firefox-products-0din = { -brand-name-0din }
