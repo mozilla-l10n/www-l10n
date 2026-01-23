@@ -5,24 +5,3 @@
 
 ### URL: https://www-dev.allizom.org/products/
 
-
-## Firefox
-
-
-## Focus
-
-
-## Monitor
-
-
-## Relay
-
-
-## VPN
-
-
-## MDN Plus
-
-
-## Thunderbird
-

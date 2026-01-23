@@ -6,24 +6,6 @@
 ### URL: https://www-dev.allizom.org/products/
 
 
-## Firefox
-
-
-## Focus
-
-
 ## Monitor
 
 firefox-products-check-for-breaches = Comprobar los arrampuñamientos
-
-## Relay
-
-
-## VPN
-
-
-## MDN Plus
-
-
-## Thunderbird
-

@@ -6,25 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/
 
 
-## Firefox
-
-
-## Focus
-
-
 ## Monitor
 
 firefox-products-see-if-your-personal-information = Տեսեք, թե արդյոք ձեր անձնական տեղեկությունները վարկաբեկվել են կորպորատիվ տվյալներում և գրանցվեք ապագա ահազանգերի համար:
 firefox-products-check-for-breaches = Ստուգեք խախտումները
-
-## Relay
-
-
-## VPN
-
-
-## MDN Plus
-
-
-## Thunderbird
-

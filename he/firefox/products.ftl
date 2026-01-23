@@ -6,24 +6,6 @@
 ### URL: https://www-dev.allizom.org/products/
 
 
-## Firefox
-
-
-## Focus
-
-
-## Monitor
-
-
 ## Relay
 
 firefox-products-relay = { -brand-name-firefox-relay }
-
-## VPN
-
-
-## MDN Plus
-
-
-## Thunderbird
-

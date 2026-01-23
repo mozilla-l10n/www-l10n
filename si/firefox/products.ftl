@@ -6,9 +6,6 @@
 ### URL: https://www-dev.allizom.org/products/
 
 
-## Firefox
-
-
 ## Focus
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
@@ -27,9 +24,3 @@ firefox-products-relay = { -brand-name-firefox-relay }
 
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } ගන්න
-
-## MDN Plus
-
-
-## Thunderbird
-

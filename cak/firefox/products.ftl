@@ -6,25 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/
 
 
-## Firefox
-
-
-## Focus
-
-
 ## Monitor
 
 firefox-products-see-if-your-personal-information = Tanik'oj we ri awetamab'al nilitäj pa jun kitz'ilanem ajmoloj taq tzij chuqa' tatz'ib'aj awi' richin ye'ak'ül rutzijol taq k'ayewal ri chwa'q kab'ij.
 firefox-products-check-for-breaches = Ke'akanoj taq tz'ilanem
-
-## Relay
-
-
-## VPN
-
-
-## MDN Plus
-
-
-## Thunderbird
-

@@ -6,15 +6,9 @@
 ### URL: https://www-dev.allizom.org/products/
 
 
-## Firefox
-
-
 ## Focus
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
-
-## Monitor
-
 
 ## Relay
 
@@ -23,9 +17,3 @@ firefox-products-relay = { -brand-name-firefox-relay }
 ## VPN
 
 firefox-products-get-mozilla-vpn = Tapout { -brand-name-mozilla-vpn }
-
-## MDN Plus
-
-
-## Thunderbird
-

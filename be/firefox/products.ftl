@@ -6,9 +6,6 @@
 ### URL: https://www-dev.allizom.org/products/
 
 
-## Firefox
-
-
 ## Focus
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
@@ -29,9 +26,3 @@ firefox-products-protect-your-real = Абараніце свой сапраўд�
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Аглядайце, транслюйце і працуйце, выкарыстоўваючы серверы ў больш чым 30 краінах для бяспечнага інтэрнэт-злучэння з новай перспектывай.
 firefox-products-get-mozilla-vpn = Атрымаць { -brand-name-mozilla-vpn }
-
-## MDN Plus
-
-
-## Thunderbird
-

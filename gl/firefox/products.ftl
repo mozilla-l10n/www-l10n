@@ -6,25 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/
 
 
-## Firefox
-
-
-## Focus
-
-
 ## Monitor
 
 firefox-products-see-if-your-personal-information = Comproba se a túa información persoal se viu comprometida nunha falla de seguridade de datos corporativa e rexístrate para recibir futuras alertas.
 firefox-products-check-for-breaches = Comprobar violacións
-
-## Relay
-
-
-## VPN
-
-
-## MDN Plus
-
-
-## Thunderbird
-

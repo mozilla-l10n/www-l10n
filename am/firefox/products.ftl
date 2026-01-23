@@ -6,9 +6,6 @@
 ### URL: https://www-dev.allizom.org/products/
 
 
-## Firefox
-
-
 ## Focus
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
@@ -29,9 +26,3 @@ firefox-products-protect-your-real = የገቢ መልእክት ሳጥንዎን �
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = ደህንነቱ የተጠበቀ የበይነመረብ ግንኙነት ከአዲስ እይታ ጋር ለማግኘት ከ30 በላይ ሀገራት ባሉ አገልጋዮች ላይ አሰሳ፣ ዥረት መልቀቅ እና ስራዎችን ሰራ።
 firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } ያግኙ
-
-## MDN Plus
-
-
-## Thunderbird
-
