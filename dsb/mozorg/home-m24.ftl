@@ -35,6 +35,10 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Glědajśo se, jolic waše wósobinske informacije su wobgrozone a šćitajśo je ako profi.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Maskěrujśo swóju e-mailowu adresu a swój telefonowy numer, aby jano te powěsćo dostał, kótarež cośo.
+m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = Napórajśo ned rědne websedło, aby waš wobchod rosł.
+m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = Pytajśo a pórěźćo zranjobnosći GenAI, nježli až nadpadowarje to cynje, aby swóju KI zawěsćił.
 
 ## Donate
 
