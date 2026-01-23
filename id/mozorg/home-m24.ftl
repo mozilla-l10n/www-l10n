@@ -36,6 +36,8 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Dapatkan pemberitahuan lebih awal jika info pribadi Anda terancam, dan amankan layaknya seorang profesional.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Lindungi email dan nomor telepon Anda agar hanya menerima pesan yang benar-benar Anda inginkan.
+m24-home-solo = { -brand-name-solo }
+m24-home-0din = { -brand-name-0din }
 
 ## Donate
 
