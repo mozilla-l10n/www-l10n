@@ -147,7 +147,7 @@ m24-home-read-the-report = 閱讀年報
 ## Nothing Personal
 
 m24-home-mozilla-nothing-personal = Nothing Personal
-m24-home-our-new-magazine = 我們為奮戰在數位文化前線的獨立思考者、技術專家與創意者而打造的新雜誌。
+m24-home-our-new-magazine = 我們為在數位文化前線奮戰的獨立思考者、技術專家與創意者們打造的新雜誌。
 m24-home-read-now = 立即閱讀
 
 ## Issues
