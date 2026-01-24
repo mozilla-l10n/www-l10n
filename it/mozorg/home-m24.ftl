@@ -38,6 +38,7 @@ m24-home-mask-your-email = Utilizza gli alias di posta elettronica e per numeri 
 m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = Crea in un istante un bellissimo sito web per far crescere la tua attività.
 m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = Metti al sicuro la tua intelligenza artificiale identificando e risolvendo le vulnerabilità della GenAI prima che vengano sfruttate.
 
 ## Donate
 

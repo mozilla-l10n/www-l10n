@@ -62,5 +62,5 @@ firefox-products-learn-more-about-solo = Ulteriori informazioni su { -brand-name
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
-firefox-products-0din-desc = Collega i tuoi sistemi di intelligenza artificiale a una rete globale di esperti di sicurezza che individuano e contribuiscono a risolvere tempestivamente le vulnerabilità relative a GenAI.
+firefox-products-0din-desc = Collega i tuoi sistemi di intelligenza artificiale a una rete globale di esperti di sicurezza che individuano e contribuiscono a risolvere tempestivamente le vulnerabilità della GenAI.
 firefox-products-learn-more-about-0din = Ulteriori informazioni su { -brand-name-0din }
