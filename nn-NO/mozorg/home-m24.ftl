@@ -65,7 +65,7 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders hjelper uavhengige utviklarar med å lage banebrytande AI-prosjekt med open kjeldekode gjennom samarbeid, programmering og fellesskap
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } hjelper uavhengige utviklarar med å lage banebrytande AI-prosjekt med open kjeldekode gjennom skreddarsydde samarbeid, programmering og fellesskap.
-m24-home-own-what-you = Eig det du bygg
+m24-home-own-what-you = Eig det du byggjer
 # "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
 m24-home-do-we-need-a = Treng vi ein «LAMP Stack» for AI-æraen? Vi treng teknologi som er transparent, ansvarleg og eigd av menneska som brukar han.
 m24-home-watch-now = Sjå no
