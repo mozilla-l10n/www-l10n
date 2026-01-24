@@ -102,12 +102,14 @@ m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } CEO’su açık kaynaklı yapay zekânın avantajlarını anlatıyor
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Karşınızda Thundermail ve Thunderbird Pro
+m24-home-introducing-thundermail-and-v2 = Karşınızda { -brand-name-thundermail } ve { -brand-name-thunderbird-pro }
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-mozillas-new-message = { -brand-name-mozilla }’nın yeni mesajı: Arkasında milyarderler olmayan tek tarayıcı biziz
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = The FT
+m24-home-interview-with-mark = Mark Surman ile söyleşi: { -brand-name-mozilla } yapay zekâ çağına nasıl uyum sağlıyor?
 
 ## Showcase
 
