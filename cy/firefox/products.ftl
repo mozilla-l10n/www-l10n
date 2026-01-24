@@ -56,11 +56,11 @@ firefox-products-download-thunderbird = Llwytho { -brand-name-thunderbird } i La
 ## Solo
 
 firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = Creu gwefan hardd ar unwaith fel y gallwch chi dyfu eich busnes. Cysylltwch a chynnal eich parth personol am ddim.
+firefox-products-solo-desc = Creu gwefan hardd yn sydyn fel gallwch chi dyfu eich busnes. Cysylltu a chynnal eich parth personol am ddim.
 firefox-products-learn-more-about-solo = Dysgu rhagor am { -brand-name-solo }
 
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
-firefox-products-0din-desc = Cysylltwch eich systemau AI â chymuned fyd-eang o arbenigwyr diogelwch sy'n datgelu ac yn helpu i atgyweirio gwendidau GenAI yn gynnar.
+firefox-products-0din-desc = Cysylltwch eich systemau AI â chymuned fyd-eang o arbenigwyr diogelwch sy'n datgelu ac yn helpu i drwsio gwendidau GenAI yn gynnar.
 firefox-products-learn-more-about-0din = Dysgu rhagor am { -brand-name-0din }

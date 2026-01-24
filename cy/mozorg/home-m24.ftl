@@ -36,9 +36,9 @@ m24-home-get-a-headsup = Cael gwybod os yw'ch manylion personol mewn perygl a'u 
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Cuddio eich e-bost a'ch rhif ffôn fel mai dim ond y negeseuon rydych chi eu heisiau y byddwch chi'n eu cael.
 m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = Creu gwefan hardd ar unwaith fel y gallwch chi dyfu eich busnes.
+m24-home-solo-desc = Creu gwefan hardd yn sydyn fel gallwch chi dyfu eich busnes.
 m24-home-0din = { -brand-name-0din }
-m24-home-0din-desc = Sicrhewch eich AI trwy ddod o hyd i wendidau GenAI a'u trwsio cyn i ymosodwyr wneud hynny.
+m24-home-0din-desc = Diogelwch eich AI trwy ddod o hyd i wendidau GenAI a'u trwsio cyn i ymosodwyr wneud hynny.
 
 ## Donate
 
