@@ -72,7 +72,7 @@ m24-home-own-what-you = 打造什麼就擁有什麼
 m24-home-do-we-need-a = AI 時代還需要「LAMP Stack」嗎？我們需要透明、負責、並歸使用者所有的技術。
 m24-home-watch-now = 立即觀看
 m24-home-choice-first-stack = 選擇優先的技術堆疊
-m24-home-your-tools-your = 工具自行決定。簡化現代 AI 程式與應用程式的編譯與測試過程的統一開放原始碼堆疊。
+m24-home-your-tools-your = 要使用什麼工具，由您自行決定。這是一套簡化打造與測試現代 AI 代理與應用程式的統一開放原始碼堆疊。
 m24-home-get-started-now = 立即參與
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = 講者在舞台上，背景畫面有多個產品圖示。
@@ -81,8 +81,8 @@ m24-home-got-an-earlystage = 有處於早期創業階段的公司嗎？向 { -br
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective 正在重建以社群為中心的 AI 資料生態系統。使用超過 300 組由社群、為了社群打造，透明且有道德的高品質全球資料集。
 m24-home-join-today = 立即加入
-m24-home-a-double-bottom = 對科技公司來說有雙倍的底線
-m24-home-mark-surman-discusses = Mark Surman 討論了我們要如何打造一個有雙重底線的科技生態系統 — 既看重使命也看重金錢。
+m24-home-a-double-bottom = 為科技公司設下雙重底線
+m24-home-mark-surman-discusses = Mark Surman 討論了我們要如何打造一個既看重使命也看重金錢的雙重底線產業生態系。
 m24-home-agent-platform = 代理平台
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Any Agent
