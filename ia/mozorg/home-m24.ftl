@@ -36,7 +36,9 @@ m24-home-get-a-headsup = Discoperi si tu informationes personal es a risco e blo
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Usa alias pro tu email e numero de telephono assi tu solo obtene le messages que tu vole.
 m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = Crea instantaneemente un belle sito web assi que tu pote facer crescer tu negotios.
 m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = Assecura tu IA trovante e corrigente le vulnerabilitates de IAgen ante que lo face le attaccantes.
 
 ## Donate
 
