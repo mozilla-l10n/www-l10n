@@ -119,7 +119,7 @@ m24-home-mozillas-new-message = { -brand-name-mozilla } 的新訊息：我們是
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = 金融時報
-m24-home-rewiring-mozilla = Rewiring { -brand-name-mozilla }: for AI如同我們為 Web 所做的那樣
+m24-home-rewiring-mozilla = 為 { -brand-name-mozilla } 重新接線：也對 AI 做如同我們為 Web 所做的事
 m24-home-interview-with-mark = 專訪 Mark Surman：{ -brand-name-mozilla } 如何適應 AI 時代
 m24-home-women-in-product = Women In Product 對話：加入 GenAI 而不失去主旨
 m24-home-scaling-open-source = 拓展開放原始碼 AI：Mark Surman & Tim Bradshaw
@@ -139,14 +139,14 @@ m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } 正在改造自己、建立多元化的組織、重新構想廣告產業，並建立開放原始碼的 AI 生態系統。請閱讀 State of { -brand-name-mozilla } 2024 年報來深入了解。
 # Variables
 #   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } 圍繞一系列組織進行多樣化、重新構想廣告業並打造一個開放原始碼的 AI 生態系統來重新塑造自己。到 { -brand-name-mozilla } { $year } 狀態報告中了解情況。
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } 正在改造自己、建立多元化的組織、重新構想廣告產業，並建立開放原始碼的 AI 生態系統。請閱讀 State of { -brand-name-mozilla } { $year } 年報來深入了解。
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = 綠、橘、粉三種色調的抽象像素風格設計
 m24-home-read-the-report = 閱讀年報
 
 ## Nothing Personal
 
-m24-home-mozilla-nothing-personal = 無關緊要
+m24-home-mozilla-nothing-personal = Nothing Personal
 m24-home-our-new-magazine = 我們為奮戰在數位文化前線的獨立思考者、技術專家與創意者而打造的新雜誌。
 m24-home-read-now = 立即閱讀
 
