@@ -35,6 +35,10 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Kişisel bilgileriniz risk altına girdiğinde haberdar olun ve kolayca önlem alın.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = E-posta adresinizi ve telefon numaranızı maskeleyin, yalnızca almak istediğiniz iletileri alın.
+m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = İşinizi büyütmek için anında şık bir web sitesi oluşturun.
+m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = GenAI güvenlik açıklarını saldırganlardan önce bulup düzelterek yapay zekânızı güvence altına alın.
 
 ## Donate
 
@@ -89,6 +93,8 @@ m24-home-topic-open-source-ai = Open Source AI
 m24-home-topic-ps = Gizlilik ve güvenlik
 m24-home-headline-you-ai-v2 = Siz, yapay zekâ ve internet… Aslında neler oluyor?
 m24-home-tech-target = Tech Target
+# Obsolete string (expires 2026-03-01)
+m24-home-introducing-thundermail-and = Karşınızda Thundermail ve Thunderbird Pro
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-fast-company = Fast Company
@@ -119,6 +125,7 @@ m24-home-read-now = Şimdi okuyun
 ## Issues
 
 m24-home-explore-issues-shaping = İnternetin geleceğini şekillendiren sorunları keşfedin
+m24-home-the-validation-machines = The Validation Machines
 # Used as an accessible text alternative for an image
 m24-home-alt-validation = Büyük bir klavye tuşuna bakan küçük bir insan ve hipnotize edici bir bilgisayar ekranı
 # Used as an accessible text alternative for an image

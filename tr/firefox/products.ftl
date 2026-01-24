@@ -27,7 +27,7 @@ firefox-products-your-dedicated-privacy = Otomatik izlenme koruması ve reklam e
 
 firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
 firefox-products-see-if-your-personal-information = Başka şirketlerdeki kişisel bilgilerinizin çalınıp çalınmadığını öğrenin ve uyarılara kaydolun.
-firefox-products-check-for-breaches = İhlalleri kontrol edin
+firefox-products-check-for-breaches = İhlalleri kontrol et
 
 ## Relay
 
@@ -39,7 +39,7 @@ firefox-products-get-relay = { -brand-name-firefox-relay }’i kullan
 
 firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Güvenli bir internet bağlantısı için 30’dan fazla ülkedeki sunucularla internette gezinin, video izleyin ve işlerinizi halledin.
-firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn }’i edinin
+firefox-products-get-mozilla-vpn = { -brand-name-mozilla-vpn } abonesi ol
 
 ## MDN Plus
 
@@ -52,3 +52,15 @@ firefox-products-support-mdn = { -brand-name-mdn }’i destekle
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Tüm e-postalarınıza, takvimlerinize ve kişilerinize tek bir hızlı uygulamadan erişin. Bunları istediğiniz gibi filtreleyip düzenleyin.
 firefox-products-download-thunderbird = { -brand-name-thunderbird }’ü indir
+
+## Solo
+
+firefox-products-solo = { -brand-name-solo }
+firefox-products-solo-desc = İşletmenizi büyütmek için anında şık bir web sitesi oluşturun. Kendi alan adınızı ücretsiz olarak bağlayıp barındırın.
+firefox-products-learn-more-about-solo = { -brand-name-solo } hakkında bilgi alın
+
+## 0DIN
+
+firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = Yapay zekâ sistemlerinizi, GenAI güvenlik açıklarını erken aşamada ortaya çıkaran ve giderilmesine yardımcı olan küresel bir güvenlik uzmanları topluluğuna bağlayın.
+firefox-products-learn-more-about-0din = { -brand-name-0din } hakkında bilgi alın
