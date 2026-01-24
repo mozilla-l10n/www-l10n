@@ -56,11 +56,10 @@ firefox-products-download-thunderbird = 下載 { -brand-name-thunderbird }
 ## Solo
 
 firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = 即刻就能打造出美麗的網站這樣您就可以拓展業務。免費連結與託管您的自訂網域。
+firefox-products-solo-desc = 即刻打造美麗的網站，讓您拓展業務。可免費鏈結並使用您自己的網域。
 firefox-products-learn-more-about-solo = 了解 { -brand-name-solo } 的更多資訊
 
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
-firefox-products-0din-desc = 將您的 AI 系統連結到由安全專家所組成的全球社群讓他們及早發現並修復 EnAI 的漏洞。
 firefox-products-learn-more-about-0din = 了解 { -brand-name-0din } 的更多資訊
