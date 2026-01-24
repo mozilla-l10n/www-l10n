@@ -73,7 +73,12 @@ m24-home-get-started-now = Başlayın
 m24-home-alt-ventures = Sahnedeki bir konuşmacı ve çeşitli ürün logoları.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Başlangıç aşamasında bir startup’ınız mı var? Şirketinizi { -brand-name-mozilla-ventures }’a anlatın, yapay zekâ ve internetin geleceği için olumlu bir değişime öncülük edecek finansman desteğini alın.
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective, toplulukları merkeze alarak yapay zekâ veri ekosistemini yeniden inşa ediyor.
 m24-home-join-today = Hemen katılın
+m24-home-agent-platform = Agent platformu
+# Obsolete string (expires 2026-04-05)
+m24-home-any-agent = Tüm agent’lar
 
 ## Media Springboard
 
@@ -92,11 +97,14 @@ m24-home-topic-ai = Yapay zekâ
 m24-home-topic-open-source-ai = Open Source AI
 m24-home-topic-ps = Gizlilik ve güvenlik
 m24-home-headline-you-ai-v2 = Siz, yapay zekâ ve internet… Aslında neler oluyor?
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla }’nın Chief Technology Officer’ı Raffi Krikorian oldu
 m24-home-tech-target = Tech Target
+m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } CEO’su açık kaynaklı yapay zekânın avantajlarını anlatıyor
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Karşınızda Thundermail ve Thunderbird Pro
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
+m24-home-mozillas-new-message = { -brand-name-mozilla }’nın yeni mesajı: Arkasında milyarderler olmayan tek tarayıcı biziz
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = The FT
@@ -114,12 +122,17 @@ m24-home-alt-rise25-smiling = Gülümseyen bir { -brand-name-rise25 } konuşmac�
 m24-home-alt-rise25-joyous = Mutlu bir { -brand-name-rise25 } ödülü sahibi.
 m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } kendini yeniden tanımlıyor, çeşitli kuruluşlara yayılıyor, reklamcılığı baştan tasarlıyor ve açık kaynaklı bir yapay zekâ ekosistemi oluşturuyor. Ayrıntıları State of { -brand-name-mozilla } 2024 Raporu’nda okuyun.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } kendini yeniden tanımlıyor, çeşitli kuruluşlara yayılıyor, reklamcılığı baştan tasarlıyor ve açık kaynaklı bir yapay zekâ ekosistemi oluşturuyor. Ayrıntıları State of { -brand-name-mozilla } { $year } Raporu’nda okuyun.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Yeşil, turuncu ve pembe tonlarında soyut bir pikselleşmiş resim
 m24-home-read-the-report = Raporu okuyun
 
 ## Nothing Personal
 
+m24-home-mozilla-nothing-personal = Nothing Personal
+m24-home-our-new-magazine = Dijital kültürün ön saflarında yer alan bağımsız düşünürlere, teknoloji uzmanlarına ve yaratıcılara yönelik yeni dergimiz.
 m24-home-read-now = Şimdi okuyun
 
 ## Issues
