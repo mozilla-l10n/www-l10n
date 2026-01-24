@@ -52,3 +52,15 @@ firefox-products-support-mdn = { -brand-name-mdn } stypje
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Benaderje al jo e-mail, aginda’s en kontakten yn ien snelle app. Filterje en organisearje se sa as jo dat wolle
 firefox-products-download-thunderbird = { -brand-name-thunderbird } downloade
+
+## Solo
+
+firefox-products-solo = { -brand-name-solo }
+firefox-products-solo-desc = Meitsje daliks in moaie website sadat jo jo bedriuw groeie litte kinne. Ferbyn en host fergees jo oanpaste domein.
+firefox-products-learn-more-about-solo = Mear ynfo oer { -brand-name-solo }
+
+## 0DIN
+
+firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = Ferbyn jo AI-systemen mei in wrâldwide mienskip fan befeiligenseksperts dy’t GenAI-kwetsberens betiid ûntdekke en helpe te reparearjen.
+firefox-products-learn-more-about-0din = Mear ynfo oer { -brand-name-0din }

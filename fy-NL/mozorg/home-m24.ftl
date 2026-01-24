@@ -35,6 +35,10 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Krij in berjocht as jo persoanlike gegevens gefaar rinne en beskoattelje se as in pro.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Maskearje jo e-mailadres en telefoannûmer sadat jo allinnich de berjochten krije dy't jo wolle.
+m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = Meitsje daliks in moaie website, sadat jo jo bedriuw groeie litte kinne.
+m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = Beskermje jo AI troch GenAI-kwetsberens te finen en te reparearjen eardat oanfallers dat dogge.
 
 ## Donate
 
