@@ -22,7 +22,7 @@ privacy-firefox-transparency-first = Transparentnost na prvním místě
 privacy-firefox-were-clear-about = Jasně říkáme, jaká data používáme a proč. Žádná překvapení. <a { $attrs }>Oznámení o ochraně osobních údajů { -brand-name-firefox(case: "gen") }</a> vám to podrobně vysvětlí.
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Jak používáme data
-privacy-firefox-how-we-use-v2 = Soukromí ve výchozím nastavení
+privacy-firefox-how-we-use-v2 = Soukromí na prvním místě
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Data používáme k zajištění bezproblémového chodu { -brand-name-firefox(case: "gen") }, vylepšování funkcí a udržení našeho podnikání – to vše při současném respektování vašeho soukromí. Některé volitelné funkce mohou ke svému fungování vyžadovat další údaje a my vám umožníme snadno spravovat vaše preference.
 # Variables:
