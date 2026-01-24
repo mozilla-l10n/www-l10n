@@ -36,9 +36,9 @@ m24-home-get-a-headsup = 當您的個人資訊面臨風險時，接收通知，�
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = 隱藏您的電子郵件地址與手機號碼，這樣就只會收到想要的訊息。
 m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = 即刻就能打造出美麗的網站這樣您就可以拓展業務。
+m24-home-solo-desc = 即刻打造美麗的網站，讓您拓展業務。
 m24-home-0din = { -brand-name-0din }
-m24-home-0din-desc = 比攻擊者搶先尋找並修正 EnAI 的漏洞來保護您的 AI。
+m24-home-0din-desc = 比攻擊者搶先找出 GenAI 的漏洞並修正，以保護您的 AI。
 
 ## Donate
 
@@ -69,9 +69,9 @@ m24-home-builders-helps-independent = Builders 透過量身定做的協作、程
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } 透過量身定做的協作、程式與社群合作，幫助獨立開發者打造革命性的開放原始碼 AI 專案。
 m24-home-own-what-you = 打造什麼就擁有什麼
 # "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
-m24-home-do-we-need-a = AI 時代還需要「Lamp Stack」嗎我們需要透明、負責、並歸使用者所有的技術。
+m24-home-do-we-need-a = AI 時代還需要「LAMP Stack」嗎？我們需要透明、負責、並歸使用者所有的技術。
 m24-home-watch-now = 立即觀看
-m24-home-choice-first-stack = 選擇優先堆疊
+m24-home-choice-first-stack = 選擇優先的技術堆疊
 m24-home-your-tools-your = 工具自行決定。簡化現代 AI 程式與應用程式的編譯與測試過程的統一開放原始碼堆疊。
 m24-home-get-started-now = 立即參與
 # Used as an accessible text alternative for an image

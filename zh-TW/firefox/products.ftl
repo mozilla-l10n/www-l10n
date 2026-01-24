@@ -62,4 +62,5 @@ firefox-products-learn-more-about-solo = 了解 { -brand-name-solo } 的更多�
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = 將您的 AI 系統連結到由資安專家所組成的全球性社群，讓他們及早發現並修正 GenAI 的漏洞。
 firefox-products-learn-more-about-0din = 了解 { -brand-name-0din } 的更多資訊

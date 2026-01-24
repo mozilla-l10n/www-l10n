@@ -40,7 +40,7 @@ m24-about-rewiring-mozilla = Rewiring { -brand-name-mozilla }: Do for AI 正如�
 m24-about-what-comes-next = 科技界的未來需要選擇。與我們一起選擇。
 m24-about-watch-here = 在此觀賞
 # "Double Bottom Line" refers to accounting for both money and mission values
-m24-about-can-we-have = 我們可以給科技加上雙底線嗎Mark Surman 討論了我們要如何打造一個有雙重底線的科技生態系統 — 既看重使命也看重金錢。
+m24-about-can-we-have = 我們可以幫科技業加上雙底線嗎？Mark Surman 討論了我們要如何打造一個有雙重底線的科技產業生態系 — 既看重使命也看重金錢。
 m24-about-watch-now = 立即觀看
 
 ## Showcase
