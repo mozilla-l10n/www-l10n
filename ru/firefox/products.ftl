@@ -56,11 +56,11 @@ firefox-products-download-thunderbird = Скачать { -brand-name-thunderbird
 ## Solo
 
 firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = Мгновенно создавайте красивый веб-сайт, чтобы вы могли развивать свой бизнес. Подключите и разместите свой домен бесплатно.
+firefox-products-solo-desc = Мгновенно создавайте красивый веб-сайт для развития своего бизнеса. Подключите и разместите свой домен бесплатно.
 firefox-products-learn-more-about-solo = Узнайте больше о { -brand-name-solo }
 
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
-firefox-products-0din-desc = Подключите свои системы ИИ к глобальному сообществу экспертов по безопасности, которые на ранних стадиях выявляют и помогают устранять уязвимостиGenИИ.
+firefox-products-0din-desc = Подключите свои ИИ-системы к глобальному сообществу экспертов по безопасности, которые на ранних стадиях выявляют и помогают устранять уязвимости генеративного ИИ.
 firefox-products-learn-more-about-0din = Узнайте больше о { -brand-name-0din }
