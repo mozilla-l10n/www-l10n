@@ -38,6 +38,7 @@ m24-home-mask-your-email = Skjul e-postadressen og telefonnummeret ditt, slik at
 m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = Opprett et vakkert nettsted umiddelbart, slik at du kan utvikle virksomheten din.
 m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = Sikre AI-en din ved å finne og rette GenAI-sårbarheter før angripere gjør det.
 
 ## Donate
 
