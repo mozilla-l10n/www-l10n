@@ -76,6 +76,8 @@ m24-home-got-an-earlystage = Başlangıç aşamasında bir startup’ınız mı 
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective, toplulukları merkeze alarak yapay zekâ veri ekosistemini yeniden inşa ediyor.
 m24-home-join-today = Hemen katılın
+m24-home-a-double-bottom = Teknoloji için çifte kazanç
+m24-home-mark-surman-discusses = Mark Surman, hem misyona hem de paraya değer veren bir teknoloji ekosistemini nasıl inşa edebileceğimizi anlatıyor.
 m24-home-agent-platform = Agent platformu
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Tüm agent’lar
@@ -103,12 +105,14 @@ m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } CEO’su açık kaynakl�
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Karşınızda Thundermail ve Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Karşınızda { -brand-name-thundermail } ve { -brand-name-thunderbird-pro }
+m24-home-what-comes-next = Teknolojinin geleceği bir tercih meselesi. Tercihinizi bizimle birlikte yapın.
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-mozillas-new-message = { -brand-name-mozilla }’nın yeni mesajı: Arkasında milyarderler olmayan tek tarayıcı biziz
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = The FT
+m24-home-rewiring-mozilla = Yeniden { -brand-name-mozilla }: Web için yaptıklarımızı şimdi yapay zekâ için yapıyoruz
 m24-home-interview-with-mark = Mark Surman ile söyleşi: { -brand-name-mozilla } yapay zekâ çağına nasıl uyum sağlıyor?
 
 ## Showcase

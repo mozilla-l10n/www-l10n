@@ -36,7 +36,11 @@ m24-about-we-fund-and = Teknolojiyi, interneti ve yapay zekâyı doğru yöne g�
 
 m24-about-read-more = Devamını okuyun
 m24-about-read-the-latest = En son { -brand-name-mozilla } haberlerini ve makalelerini okuyun
+m24-about-rewiring-mozilla = Yeniden { -brand-name-mozilla }: Web için yaptıklarımızı şimdi yapay zekâ için yapıyoruz. Yeni nesil stratejimizi ve { -brand-name-mozilla }’yı yapay zekâ çağına nasıl hazırladığımızı öğrenin.
+m24-about-what-comes-next = Teknolojinin geleceği bir tercih meselesi. Tercihinizi bizimle birlikte yapın.
 m24-about-watch-here = İzleyin
+# "Double Bottom Line" refers to accounting for both money and mission values
+m24-about-can-we-have = Teknolojiden iki yönlü kazanç elde edilebilir mi? Mark Surman, hem misyona hem de paraya değer veren bir teknoloji ekosistemini nasıl inşa edebileceğimizi anlatıyor.
 m24-about-watch-now = İzleyin
 
 ## Showcase
