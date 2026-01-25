@@ -61,4 +61,5 @@ firefox-products-learn-more-about-solo = Les meir om { -brand-name-solo }
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = Kople AI-systema dine til ein global fellesskap av tryggingsekspertar som avdekkjer og bidreg til å rette GenAI-sårbarheiter tidleg.
 firefox-products-learn-more-about-0din = Les meir om { -brand-name-0din }
