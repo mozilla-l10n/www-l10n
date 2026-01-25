@@ -52,3 +52,15 @@ firefox-products-support-mdn = Apoya { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Accede a todos tus correos, calendarios y contactos en una app rápida. Fíltralos y organízalos como prefieras.
 firefox-products-download-thunderbird = Descarga { -brand-name-thunderbird }
+
+## Solo
+
+firefox-products-solo = { -brand-name-solo }
+firefox-products-solo-desc = Crea instantáneamente un hermoso sitio web para que puedas hacer crecer tu negocio. Conecta y aloja tu dominio personalizado gratis.
+firefox-products-learn-more-about-solo = Saber más sobre { -brand-name-solo }
+
+## 0DIN
+
+firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = Conecta tus sistemas de IA a una comunidad global de expertos en seguridad que descubren y ayudan a solucionar las vulnerabilidades de GenAI de forma temprana.
+firefox-products-learn-more-about-0din = Saber más sobre { -brand-name-0din }
