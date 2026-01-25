@@ -35,6 +35,9 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Få et forvarsel hvis din personlige informasjon er i fare, og lås den inne som en proff.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Skjul e-postadressen og telefonnummeret ditt, slik at du bare mottar meldingene du ønsker.
+m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = Opprett et vakkert nettsted umiddelbart, slik at du kan utvikle virksomheten din.
+m24-home-0din = { -brand-name-0din }
 
 ## Donate
 
