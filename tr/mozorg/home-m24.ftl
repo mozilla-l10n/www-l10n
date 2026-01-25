@@ -68,6 +68,8 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders; özel iş ortaklıkları, programlama ve topluluklar aracılığıyla bağımsız geliştiricilerin dönüşüm yaratan açık kaynaklı yapay zekâ projeleri oluşturmasına yardımcı olur.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders }; özel iş ortaklıkları, programlama ve topluluklar aracılığıyla bağımsız geliştiricilerin dönüşüm yaratan açık kaynaklı yapay zekâ projeleri oluşturmasına yardımcı olur.
 m24-home-watch-now = İzleyin
+m24-home-choice-first-stack = Tercihi size bırakan stack
+m24-home-your-tools-your = Sizin araçlarınız, sizin kararınız. Modern yapay zekâ agent’ları ve uygulamaları oluşturup test etmeyi basitleştiren, tümleşik ve açık kaynaklı bir stack.
 m24-home-get-started-now = Başlayın
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Sahnedeki bir konuşmacı ve çeşitli ürün logoları.
@@ -81,6 +83,7 @@ m24-home-mark-surman-discusses = Mark Surman, hem misyona hem de paraya değer v
 m24-home-agent-platform = Agent platformu
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Tüm agent’lar
+m24-home-stop-wiring-tools = Araçları birbirine bağlamaya, gereksiz otomasyonlara bakıcılık yapmaya son. { -brand-name-mozilla-ai-v2 } Agent Platform’a siz hedefinizi açıklayıyorsunuz; biz araçlarınızla ve süreçlerinizle uyumlu çalışan, adaptif yapay zekâ agent’ları oluşturuyoruz.
 
 ## Media Springboard
 
