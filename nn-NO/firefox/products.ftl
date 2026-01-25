@@ -56,6 +56,7 @@ firefox-products-download-thunderbird = Last ned { -brand-name-thunderbird }
 ## Solo
 
 firefox-products-solo = { -brand-name-solo }
+firefox-products-solo-desc = Opprett ein vakker nettstad med det same, slik at du kan utvikle verksemda di. Kopl til og host det eigendefinerte domenet ditt gratis.
 firefox-products-learn-more-about-solo = Les meir om { -brand-name-solo }
 
 ## 0DIN
