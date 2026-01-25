@@ -38,6 +38,7 @@ m24-home-mask-your-email = Enmascara tu correo electrónico y número de teléfo
 m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = Crea instantáneamente un hermoso sitio web para que puedas hacer crecer tu negocio.
 m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = Protege tu IA encontrando y reparando las vulnerabilidades de GenAI antes de que lo hagan los atacantes.
 
 ## Donate
 
