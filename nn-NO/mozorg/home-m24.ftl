@@ -36,6 +36,7 @@ m24-home-get-a-headsup = Få eit forvarsel om den personlege informasjon din er 
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Skjul e-postadressa og telefonnummeret ditt, slik at du berre får dei meldingane du ønskjer.
 m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = Lag ei vakker nettside med ein gong, slik at du kan få verksemda di til å vekse.
 m24-home-0din = { -brand-name-0din }
 
 ## Donate
