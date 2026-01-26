@@ -36,7 +36,9 @@ m24-home-get-a-headsup = Ontvang een bericht als uw persoonlijke gegevens gevaar
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Maskeer uw e-mailadres en telefoonnummer, zodat u alleen de berichten ontvangt die u wilt.
 m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = Maak direct een prachtige website, zodat u uw bedrijf kunt laten groeien.
 m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = Beveilig uw AI door GenAI-kwetsbaarheden te vinden en op te lossen voordat aanvallers dat doen.
 
 ## Donate
 
