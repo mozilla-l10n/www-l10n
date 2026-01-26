@@ -8,7 +8,7 @@
 # Breadcrumb navigation
 features-adblocker-ad-blocking = Блокировка рекламы
 # Page Title
-features-adblocker-meta-title = О блокировщиках рекламы - { -brand-name-firefox }
+features-adblocker-meta-title = О блокировщиках рекламы — { -brand-name-firefox }
 # HTML page description
 features-adblocker-meta-desc = Узнайте, как работают блокировщики рекламы, что они могут сделать для вас, и как { -brand-name-firefox } защищает вас от трекеров и куков.
 features-adblocker-the-ad-blocker-a-tool = Блокировщик рекламы — инструмент для персонализированного и сфокусированного просмотра сети.
