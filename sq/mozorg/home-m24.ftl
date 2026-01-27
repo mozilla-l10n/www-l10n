@@ -108,6 +108,7 @@ m24-home-alt-rise25-smiling = Një folës buzëqeshur, i sigurt në vetvete, te 
 m24-home-alt-rise25-joyous = Një fitues i kënaqur prej nderimit me çmim në { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Gjendje e { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } po rishpik vetveten, duke i bërë e larmishme përmes një yjësie entesh, duke ripërfytyruar reklamat dhe duke krijuar një ekosistem IA me burim të hapët. Mësoni rreth kësaj përmes Raportit “Gjendje e { -brand-name-mozilla } 2024”.
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Art pikelash, abstrakt, në ngjyrime të të gjelbrës, portokallisë dhe rozës.
 m24-home-read-the-report = Lexoni raportin

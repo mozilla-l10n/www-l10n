@@ -137,11 +137,13 @@ m24-home-alt-rise25-joyous = 一位兴高采烈的 { -brand-name-rise25 } 获奖
 m24-home-state-of-mozilla = { -brand-name-mozilla } 状况
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } 正在重塑自己、围绕一系列组织进行多元化、重新构想广告业，以及创建一个开源的 AI 生态系统。请在 { -brand-name-mozilla } 2024 状况报告中阅读。
 # Variables
+# Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } 重塑自我由众多组织实现多元化、重新构想广告行业并创建一个开源 AI 生态系统。在{ -brand-name-mozilla }州{ $year }州的报告中了解。
 # Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = 我们正处在未来技术的交叉路口而大型 AI 公司正在整合力量。 { $year } 州{ -brand-name-mozilla } 州的报告邀请我们一起选择不一样的未来。
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = 绿色、橙色和粉色相间的抽象像素画
 # Used as an accessible text alternative for an image

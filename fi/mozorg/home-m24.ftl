@@ -90,6 +90,7 @@ m24-home-rise25-awards = { -brand-name-rise25 }-palkinnot
 m24-home-watch-the-award = Katso palkintonäytös
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-smiling = Itsevarma ja hymyilevä puhuja { -brand-name-rise25 }:ssa.
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstraktia pikselitaidetta vihreän, oranssin ja vaaleanpunaisen sävyissä
 m24-home-read-the-report = Lue raportti

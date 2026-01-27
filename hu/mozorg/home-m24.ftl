@@ -138,11 +138,13 @@ m24-home-alt-rise25-joyous = A { -brand-name-rise25 } egy örömteli kitüntetet
 m24-home-state-of-mozilla = A { -brand-name-mozilla } állapota
 m24-home-mozilla-is-reinventing-itself = A { -brand-name-mozilla } újraszervezi magát, szervezetek halmaza köré diverzifikálódik, újragondolja a hirdetéseket és egy nyílt forráskódú MI ökoszisztémát hoz létre. Olvasson róla a { -brand-name-mozilla } 2024-es állapotjelentésében.
 # Variables
+# Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = A { -brand-name-mozilla } újraszervezi magát, szervezetek halmaza köré diverzifikálódik, újragondolja a hirdetéseket és egy nyílt forráskódú MI ökoszisztémát hoz létre. Olvasson róla a { -brand-name-mozilla } { $year } évi állapotjelentésében.
 # Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = A technológia jövője szempontjából válaszúthoz értünk, a nagy MI cégek megszilárdítva a hatalmat. A(z) { $year } { -brand-name-mozilla } állapotjelentés felhívás, hogy válasszanak egy más jövőt együtt.
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Absztrakt pixelgrafika zöld, narancs és rózsaszín árnyalatokban
 # Used as an accessible text alternative for an image

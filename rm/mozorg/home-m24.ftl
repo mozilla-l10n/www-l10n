@@ -92,6 +92,7 @@ m24-home-alt-rise25-smiling = In oratur suveran che surri al { -brand-name-rise2
 m24-home-alt-rise25-joyous = In victur cuntent al { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Stadi da { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } sa reinventa, cun sa diversifitgar en in conturn dad organisaziuns, cun pensar da nov la reclama e crear in ecosistem dad IA open-source. Ve a savair dapli en il rapport 2024 davart il stadi da { -brand-name-mozilla }.
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Pixel art abstract en tuns verds, oranschs e rosa
 m24-home-read-the-report = Leger il rapport

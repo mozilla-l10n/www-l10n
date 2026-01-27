@@ -138,11 +138,13 @@ m24-home-alt-rise25-joyous = Anrhydeddai llawen yn { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Safbwynt { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = Mae { -brand-name-mozilla } yn ailddyfeisio ei hun, gan arallgyfeirio o amgylch clwstwr o sefydliadau, ail-ddychmygu hysbysebu a chreu ecosystem AI cod agored. Darllenwch amdano yn adroddiad State of { -brand-name-mozilla } 2024.
 # Variables
+# Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = Mae { -brand-name-mozilla } yn ailddyfeisio ei hun, gan arallgyfeirio o amgylch casgliad o sefydliadau, yn ail-ddychmygu hysbysebu a chreu ecosystem AI cod agored. Darllenwch amdano yn adroddiad State of { -brand-name-mozilla } { $year } Report
 # Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = Rydym ar groesffordd ar gyfer dyfodol technoleg, gyda chwmnïau AI Mawr yn cydgrynhoi pŵer. Mae'r adroddiad cyflwr { $year } { -brand-name-mozilla } yn wahoddiad i ddewis dyfodol gwahanol gyda'ch gilydd.
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Celf picsel haniaethol mewn arlliwiau gwyrdd, oren a phinc
 # Used as an accessible text alternative for an image

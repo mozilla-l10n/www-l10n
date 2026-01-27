@@ -138,8 +138,10 @@ m24-home-alt-rise25-joyous = Ein gledeleg æresvinnar hos { -brand-name-rise25 }
 m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } finn seg sjølv opp på nytt, spreier seg rundt i ein konstellasjon av organisasjonar, tenkjer nytt om reklame og skapar eit ope kjeldekode-økosystem for kunstig intelligens. Les om dette i rapporten State of { -brand-name-mozilla } 2024.
 # Variables
+# Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } gjenoppfinn seg sjølv, diversifiserer seg rundt ein konstellasjon av organisasjonar, tenkjer nytt om reklame og skaper eit open kjeldekode-økosystem for kunstig intelligens. Les om dette i rapporten om tilstanden til { -brand-name-mozilla } { $year }.
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstrakt pikselskunst i nyansar av grønt, oransje og rosa
 m24-home-read-the-report = Les rapporten

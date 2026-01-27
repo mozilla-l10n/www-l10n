@@ -134,8 +134,10 @@ m24-home-alt-rise25-joyous = { -brand-name-rise25 }의 즐거워하는 수상자
 m24-home-state-of-mozilla = { -brand-name-mozilla } 현황
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla }는 스스로를 재창조하고, 다양한 조직을 중심으로 다양화하고, 광고를 재구성하고, 오픈소스 AI 생태계를 만들고 있습니다. { -brand-name-mozilla } 2024년 현황 보고서에서 자세히 살펴보세요.
 # Variables
+# Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla }는 스스로를 재창조하고, 다양한 조직을 중심으로 다양화하고, 광고를 재구성하고, 오픈소스 AI 생태계를 만들고 있습니다. { -brand-name-mozilla } { $year }년 현황 보고서에서 자세히 살펴보세요.
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = 녹색, 주황색, 분홍색 음영의 추상 픽셀 아트
 m24-home-read-the-report = 보고서 읽기

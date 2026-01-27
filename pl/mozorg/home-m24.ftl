@@ -93,6 +93,7 @@ m24-home-mozilla = { -brand-name-mozilla }
 m24-home-rise25-awards = Nagrody { -brand-name-rise25 }
 m24-home-get-to-know = Poznaj liderów promujących godny zaufania, inkluzywny i przejrzysty rozwój sztucznej inteligencji, którzy wyznaczają nowe standardy i inspirują kolejne pokolenie innowatorów.
 m24-home-watch-the-award = Obejrzyj galę wręczenia nagród
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstrakcyjna grafika pikselowa w odcieniach zieleni, pomarańczy i różu
 m24-home-read-the-report = Przeczytaj raport

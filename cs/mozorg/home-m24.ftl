@@ -138,11 +138,13 @@ m24-home-alt-rise25-joyous = Radostní lidé na { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Stav { -brand-name-mozilla(case: "gen") }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } znovuobjevuje sama sebe, diverzifikuje svou činnost kolem sdružení organizací, přetváří reklamu a vytváří otevřený ekosystém umělé inteligence. Přečtěte si o tom ve Zprávě o stavu { -brand-name-mozilla(case: "gen") } pro rok 2024.
 # Variables
+# Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } se znovuobjevuje, diverzifikuje se kolem skupiny organizací, přetváří reklamu a vytváří otevřený ekosystém umělé inteligence. Přečtěte si o tom v hlášení o stavu { -brand-name-mozilla } { $year }.
 # Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = Jsme na rozcestí ohledně budoucnosti technologií a velkých společností zabývajících se umělou inteligencí. Přehled Stav { $year } z { -brand-name-mozilla } vám nabízí možnost vybrat si jinou společnou budoucnost.
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstraktní pixel art v odstínech zelené, oranžové a růžové
 # Used as an accessible text alternative for an image

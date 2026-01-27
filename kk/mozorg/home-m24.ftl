@@ -138,8 +138,10 @@ m24-home-alt-rise25-joyous = { -brand-name-rise25 } шарасында мәз-м
 m24-home-state-of-mozilla = { -brand-name-mozilla } қалып-күйі
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } өзін-өзі қайта жаңғыртуда: ол ұйымдар шоғырына айналып, жарнаманы жаңаша түсініп, ашық бастапқы кодты ЖИ экожүйесін құруда. Бұл туралы { -brand-name-mozilla }-ның 2024 жылғы жағдайы туралы есептен толық оқи аласыз.
 # Variables
+# Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } өзін-өзі қайта жаңғыртуда: ол ұйымдар шоғырына айналып, жарнаманы жаңаша түсініп, ашық бастапқы кодты ЖИ экожүйесін құруда. Бұл туралы { -brand-name-mozilla }-ның { $year } жылғы жағдайы туралы есептен толық оқи аласыз.
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Жасыл, қызғылт сары және қызғылт реңктердегі абстрактілі пиксель өнері
 m24-home-read-the-report = Есепті оқу

@@ -95,6 +95,7 @@ m24-home-alt-rise25-smiling = En selvsikker smilende taler ved { -brand-name-ris
 m24-home-alt-rise25-joyous = En glad prismodtager ved { -brand-name-rise25 }.
 m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } genopfinder sig selv ved at oprette nye organisationer, tænke annoncering på en ny måde og skabe et AI-økosystem baseret på open source. Læs mere i rapporten State of { -brand-name-mozilla } 2024
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstrakt pixelkunst i nuancer af grøn, orange og pink
 m24-home-read-the-report = Læs rapporten

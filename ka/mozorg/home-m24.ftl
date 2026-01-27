@@ -138,11 +138,13 @@ m24-home-alt-rise25-joyous = გახარებული დაჯილდ�
 m24-home-state-of-mozilla = რა მდგომარეობაშია { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } ცდილობს სრულიად გარდაიქმნას, მოიცვას მრავალი დარგი სხვადასხვა დაწესებულებების მეშვეობით, ახლებური გზებით მიაწვდინოს ხალხს ხმა და შექმნას ღია წყაროს მქონე ხელოვნური გონის ეკოსისტემა. გაეცანით { -brand-name-mozilla }-ს მდგომარეობას 2024 წლის მოხსენებაში.
 # Variables
+# Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } ცდილობს საკუთარი თავის ხელახლა გამოგონებას, მრავალფეროვანი დაწესებულების ირგვლივ გამრავალფეროვნებით, რეკლამის ხელახლა წარმოსახვით და ღია წყაროს მქონე ხელოვნური ინტელექტის ეკოსისტემას. იხილეთ ამის შესახებ { -brand-name-mozilla } { $year } მოხსენებაში.
 # Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = ჩვენ ვდგავართ მომავლის ტექნოლოგიების გზაჯვარედინზე, ხელოვნური ინტელექტის დიდი კომპანიებიც აერთიანებენ ძალაუფლებას. { $year }-ის { -brand-name-mozilla } მდგომარეობის მოხსენება არის მოწვევა, ერთად აარჩიოთ მომავალი.
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = განყენებული პიქსელური მხატვრობა მწვანე, ნარინჯისფერ და ვარდისფერ ფერებში
 # Used as an accessible text alternative for an image

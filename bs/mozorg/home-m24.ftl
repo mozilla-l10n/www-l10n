@@ -134,8 +134,10 @@ m24-home-alt-rise25-joyous = Radosna nagrada na { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Izvještaj o stanju { -brand-name-mozilla }e
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se ponovo osmišljava, diverzificirajući se oko konstelacije organizacija, ponovo zamišljajući oglašavanje i stvarajući AI ekosistem otvorenog koda. Pročitajte o tome u Izvještaju o stanju { -brand-name-mozilla }e za 2024.
 # Variables
+# Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } se ponovo izmišlja, diverzificira se oko konstelacije organizacija, redefinira oglašavanje i stvara ekosistem umjetne inteligencije otvorenog koda. Pročitajte o tome u Izvještaju o stanju { -brand-name-mozilla } { $year }.
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Apstraktna piksel art u nijansama zelene, narandžaste i roze
 m24-home-read-the-report = Pročitajte izvještaj

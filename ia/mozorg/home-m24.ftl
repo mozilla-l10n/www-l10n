@@ -140,8 +140,10 @@ m24-home-alt-rise25-joyous = Un premiato gaudiose a { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Stato de { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se reinventa, se diversifica circum un constellation de organisationes, reimagina le annuncios publicitari e crea un ecosystema de IA open source. Lege re isto in le reporto de stato 2024 de { -brand-name-mozilla }.
 # Variables
+# Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } se reinventa, se diversifica circum un constellation de organisationes, reimagina le annuncios publicitari e crea un ecosystema de IA open-source. Lege re isto in le Reporto { $year } del stato de { -brand-name-mozilla }.
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Arte abstracte de pixel in tonalitates de verde, orange e rosate
 m24-home-read-the-report = Leger le reporto

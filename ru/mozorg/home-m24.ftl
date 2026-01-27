@@ -138,11 +138,13 @@ m24-home-alt-rise25-joyous = Радостный награждённый на { 
 m24-home-state-of-mozilla = Состояние { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } заново изобретает себя, диверсифицируется вокруг множества организаций, переосмысливает рекламу и создаёт экосистему ИИ с открытым исходным кодом. Прочитайте об этом в Отчёте о состоянии { -brand-name-mozilla } в 2024 году.
 # Variables
+# Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } заново изобретает себя, диверсифицируется вокруг множества организаций, переосмысливает рекламу и создаёт экосистему ИИ с открытым исходным кодом. Прочтите об этом в отчёте о состоянии { -brand-name-mozilla } { $year }.
 # Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = Мы находитесь на распутье для будущего технологий, с консолидированной мощью больших ИИ-компаний. Сообщение в { $year } состоянии из { -brand-name-mozilla } - это приглашение вместе выбрать другое будущее.
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Абстрактная пиксельная графика в оттенках зелёного, оранжевого и розового
 # Used as an accessible text alternative for an image

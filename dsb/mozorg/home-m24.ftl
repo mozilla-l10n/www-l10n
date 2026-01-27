@@ -138,10 +138,17 @@ m24-home-alt-rise25-joyous = Wjasoły nosaŕ myta na { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Staw { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se sam znowego wunamakujo, rozeznawa se wokoło konstelacije organizacijow, koncipěrujo wabjenje nowo a napórajo ekosystem KI wótwórjonego žrědła. Cytajśo wó tom w Rozpšawje wó stawje { -brand-name-mozilla } 2024.
 # Variables
+# Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } se sam znowego wunamakujo, rozeznawa se wokoło konstelacije organizacijow, koncipěrujo wabjenje nowo a napórajo ekosystem KI wótwórjonego žrědła. Cytajśo wó tom w Rozpšawje wó stawje { -brand-name-mozilla } { $year }.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v3 = Smy na rozpuśu za pśichod technologije, z wjelikimi pśedewześami KI, kótarež móc kšuśe. Rozpšawa wó stawje { -brand-name-mozilla } { $year } jo pśepšosenje, aby my gromaźe drugi pśichod wubrali.
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstraktne pikselowe wuměłstwo w zelenych, oranžowych a rožojtych wósenjach
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt-v2 = Tekst ‚Wubjeŕśo swój pśichod‘ na žołtej, pikselowatej slězynje
 m24-home-read-the-report = Cytajśo rozpšawu
 
 ## Nothing Personal

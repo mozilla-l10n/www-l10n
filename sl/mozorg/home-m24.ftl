@@ -101,6 +101,7 @@ m24-home-alt-rise25-smiling = Samozavestna nasmejana govorka na { -brand-name-ri
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Vesela nagrajenka na { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Stanje { -brand-name-mozilla(sklon: "rodilnik") }
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstraktna umetnost iz pikslov v zelenih, oranžnih in roza odtenkih
 m24-home-read-the-report = Preberite poročilo

@@ -96,6 +96,7 @@ m24-home-alt-rise25-smiling = ຜູ້ເວົ້າທີ່ຍິ້ມແ�
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = ເປັນກຽດທີ່ໜ້າຍິນດີທີ່ { -brand-name-rise25 }.
 m24-home-state-of-mozilla = ສະຖານະຂອງ { -brand-name-mozilla }
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = ສິລະປະ pixels ລວງທີ່ບໍ່ມີຕົວຕົນໃນຮົ່ມສີຂຽວ, ສີສົ້ມ ແລະ ສີບົວ
 m24-home-read-the-report = ອ່ານບົດລາຍງານ

@@ -132,8 +132,10 @@ m24-home-alt-rise25-joyous = Mutlu bir { -brand-name-rise25 } ödülü sahibi.
 m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } kendini yeniden tanımlıyor, çeşitli kuruluşlara yayılıyor, reklamcılığı baştan tasarlıyor ve açık kaynaklı bir yapay zekâ ekosistemi oluşturuyor. Ayrıntıları State of { -brand-name-mozilla } 2024 Raporu’nda okuyun.
 # Variables
+# Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } kendini yeniden tanımlıyor, çeşitli kuruluşlara yayılıyor, reklamcılığı baştan tasarlıyor ve açık kaynaklı bir yapay zekâ ekosistemi oluşturuyor. Ayrıntıları State of { -brand-name-mozilla } { $year } Raporu’nda okuyun.
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Yeşil, turuncu ve pembe tonlarında soyut bir pikselleşmiş resim
 m24-home-read-the-report = Raporu okuyun

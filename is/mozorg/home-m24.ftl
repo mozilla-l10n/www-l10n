@@ -96,6 +96,7 @@ m24-home-alt-rise25-smiling = Öruggur brosandi ræðumaður á { -brand-name-ri
 m24-home-alt-rise25-joyous = Glaðlegur heiðursfélagi hjá { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Staðan hjá { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } er sífellt að endurýja sig, auka fjölbreytni í neti deilda, endurhugsa auglýsingar og búa til gervigreindar-vistkerfi með opnum kóða. Lestu um þetta allt í skýrslunni um stöðuna hjá { -brand-name-mozilla } 2024.
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Óhlutbundin mynddílalist í grænum, appelsínugulum og bleikum tónum
 m24-home-read-the-report = Lesa skýrsluna
