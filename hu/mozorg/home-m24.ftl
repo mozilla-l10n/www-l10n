@@ -140,8 +140,13 @@ m24-home-mozilla-is-reinventing-itself = A { -brand-name-mozilla } újraszervezi
 # Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = A { -brand-name-mozilla } újraszervezi magát, szervezetek halmaza köré diverzifikálódik, újragondolja a hirdetéseket és egy nyílt forráskódú MI ökoszisztémát hoz létre. Olvasson róla a { -brand-name-mozilla } { $year } évi állapotjelentésében.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v3 = A technológia jövője szempontjából válaszúthoz értünk, a nagy MI cégek megszilárdítva a hatalmat. A(z) { $year } { -brand-name-mozilla } állapotjelentés felhívás, hogy válasszanak egy más jövőt együtt.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Absztrakt pixelgrafika zöld, narancs és rózsaszín árnyalatokban
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt-v2 = A „Válassza a jövőjét” szöveg egy sárga, pixeles alapon
 m24-home-read-the-report = Olvassa el a jelentést
 
 ## Nothing Personal

@@ -139,8 +139,13 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } 正在重塑自
 # Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } 重塑自我由众多组织实现多元化、重新构想广告行业并创建一个开源 AI 生态系统。在{ -brand-name-mozilla }州{ $year }州的报告中了解。
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v3 = 我们正处在未来技术的交叉路口而大型 AI 公司正在整合力量。 { $year } 州{ -brand-name-mozilla } 州的报告邀请我们一起选择不一样的未来。
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = 绿色、橙色和粉色相间的抽象像素画
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt-v2 = 黄色像素化背景上的“选择你的未来”
 m24-home-read-the-report = 阅读报告
 
 ## Nothing Personal

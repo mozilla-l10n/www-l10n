@@ -140,8 +140,13 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } 正在改造自
 # Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } 正在改造自己、建立多元化的組織、重新構想廣告產業，並建立開放原始碼的 AI 生態系統。請閱讀 State of { -brand-name-mozilla } { $year } 年報來深入了解。
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v3 = AI 大公司正在整合未來的技術力量。我們正站在科技的未來發展的交叉口。 { -brand-name-mozilla } 的 { $year } 狀態報告邀請我們一起選擇不同的未來。
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = 綠、橘、粉三種色調的抽象像素風格設計
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt-v2 = 黃色像素化背景上的「選擇您的未來」
 m24-home-read-the-report = 閱讀年報
 
 ## Nothing Personal

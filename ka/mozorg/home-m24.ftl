@@ -140,8 +140,13 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } ცდილო
 # Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } ცდილობს საკუთარი თავის ხელახლა გამოგონებას, მრავალფეროვანი დაწესებულების ირგვლივ გამრავალფეროვნებით, რეკლამის ხელახლა წარმოსახვით და ღია წყაროს მქონე ხელოვნური ინტელექტის ეკოსისტემას. იხილეთ ამის შესახებ { -brand-name-mozilla } { $year } მოხსენებაში.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v3 = ჩვენ ვდგავართ მომავლის ტექნოლოგიების გზაჯვარედინზე, ხელოვნური ინტელექტის დიდი კომპანიებიც აერთიანებენ ძალაუფლებას. { $year }-ის { -brand-name-mozilla } მდგომარეობის მოხსენება არის მოწვევა, ერთად აარჩიოთ მომავალი.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = განყენებული პიქსელური მხატვრობა მწვანე, ნარინჯისფერ და ვარდისფერ ფერებში
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt-v2 = წარწერა „აირჩიეთ მომავალი“ ყვითელ, პიქსელოვან ფონზე
 m24-home-read-the-report = გაეცანით მოხსენებას
 
 ## Nothing Personal
