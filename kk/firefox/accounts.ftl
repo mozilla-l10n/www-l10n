@@ -29,8 +29,6 @@ firefox-accounts-keep-your-passwords = Парольдеріңізді қорға
 firefox-accounts-travel-the-internet = Кез келген құрылғыда интернетті қауіпсіз шолыңыз.
 firefox-accounts-encrypt-your = Желілік әрекетіңізді шифрлеу және IP адресіңізді жасыру
 firefox-accounts-we-never = Біз ешқашан желілік деректеріңізді тіркемейміз, қадағаламаймыз немесе бөліспейміз
-firefox-accounts-save-articles = Веб-беттердегі мақалаларды сақтаңыз
-firefox-accounts-read-in-a = Тыныш, жеке кеңістікте оқыңыз
 firefox-accounts-get-it-all-on-every = Бір ғана операциялық жүйеге тәуелді болмай, бәрін кез келген құрылғыдан алыңыз.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

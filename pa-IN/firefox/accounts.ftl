@@ -29,8 +29,6 @@ firefox-accounts-keep-your-passwords = ਆਪਣੇ ਪਾਸਵਰਡ ਸੁਰ
 firefox-accounts-travel-the-internet = ਹਰ ਡਿਵਾਈਸ ਉੱਤੇ ਸੁਰੱਖਿਅਤ ਰਹਿ ਕੇ ਇੰਟਰਨੈੱਟ ਵਰਤੋਂ।
 firefox-accounts-encrypt-your = ਆਪਣੀਆਂ ਨੈੱਟਵਰਕ ਸਰਗਰਮੀਆਂ ਇੰਕ੍ਰਿਪਟ ਕਰੋ ਅਤੇ ਆਪਣੇ IP ਸਿਰਨਾਵੇਂ ਨੂੰ ਲੁਕਾਓ
 firefox-accounts-we-never = ਅਸੀਂ ਕਦੇ ਵੀ ਤੁਹਾਡੇ ਨੈੱਟਵਰਕ ਡਾਟੇ ਦਾ ਲਾਗ ਨਹੀਂ ਰੱਖਦੇ, ਟੋਹ ਨਹੀਂ ਲੈਂਦੇ ਜਾਂ ਸਾਂਝਾ ਨਹੀਂ ਕਰਦੇ ਹਾਂ
-firefox-accounts-save-articles = ਵੈੱਬ ਭਰ ਤੋਂ ਲੇਖ ਸੰਭਾਲੋ
-firefox-accounts-read-in-a = ਚੁੱਪਚਾਪ, ਇਕੱਲੇ ਬੈਠ ਕੇ ਪੜ੍ਹੋ
 firefox-accounts-get-it-all-on-every = ਇਕੱਲੇ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਵਿਚ ਕੈਦ ਹੋਣ ਦੇ ਅਹਿਸਾਸ ਤੋਂ ਮੁਕਤ ਹੋਕੇ ਇਸ ਨੂੰ ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਲਵੋ।
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

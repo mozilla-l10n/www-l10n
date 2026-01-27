@@ -21,8 +21,6 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Kas un ivinell</a> d’un trev
 firefox-accounts-save-and-sync = <a href="{ $password }">Enrollañ ha goubredañ gerioù-tremen</a>
 firefox-accounts-keep-your-passwords = Dalc’hit ho kerioù-tremen gwarezet ha ganeoc’h bepred.
 firefox-accounts-travel-the-internet = Merdeit gwarezet war internet, war pep trevnad.
-firefox-accounts-save-articles = Enrollañ lec’hiennoù deus ar genrouedad a-bezh
-firefox-accounts-read-in-a = Lennit en ul lec’h sioul ha prevez
 firefox-accounts-get-it-all-on-every = Kavit pep tra war pep trevnad hep bezañ stanket war ur reizhiad korvoiñ nemetken.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

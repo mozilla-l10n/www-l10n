@@ -29,8 +29,6 @@ firefox-accounts-keep-your-passwords = Mbajini fjalëkalimet tuaja të mbrojtur 
 firefox-accounts-travel-the-internet = Udhëtoni në internet i mbrojtur, në çdo pajisje.
 firefox-accounts-encrypt-your = Fshehtëzoni veprimtarinë tuaj në rrjet dhe fshihni adresën tuaj IP
 firefox-accounts-we-never = Kurrë s’regjistrojmë, gjurmojmë apo ndajmë me të tjerët të dhënat tuaja të rrjetit
-firefox-accounts-save-articles = Ruani artikuj nëpër internet
-firefox-accounts-read-in-a = Lexoni në një hapësirë të qetë, private
 firefox-accounts-get-it-all-on-every = Kini gjithçka në secilën pajisje, pa u ndjerë në grackë në një sistem të vetëm operativ.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

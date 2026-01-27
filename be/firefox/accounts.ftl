@@ -21,8 +21,6 @@ firefox-accounts-keep-your-passwords = Трымайце свае паролі а
 firefox-accounts-travel-the-internet = Вандруйце па інтэрнэце з аховай, на кожнай прыладзе.
 firefox-accounts-encrypt-your = Зашыфраваць сваю сеткавую актыўнасць і схаваць свой IP-адрас
 firefox-accounts-we-never = Мы ніколі не запісваем, не сочым і не даём доступ да вашых сеткавых дадзеных
-firefox-accounts-save-articles = Захоўваць артыкулы з усяго сеціва
-firefox-accounts-read-in-a = Чытаць у ціхай прыватнай прасторы
 firefox-accounts-get-it-all-on-every = Атрымайце доступ да іх на кожнай прыладзе, не адчуваючы сябе ў пастцы адной аперацыйнай сістэмы.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

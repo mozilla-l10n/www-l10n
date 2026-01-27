@@ -29,8 +29,6 @@ firefox-accounts-keep-your-passwords = 小巧便携、固若金汤的密码保�
 firefox-accounts-travel-the-internet = 守护你的网上冲浪，随身相伴。
 firefox-accounts-encrypt-your = 加密网络活动，隐藏 IP 地址
 firefox-accounts-we-never = 绝不记录、跟踪、共享您的网络数据
-firefox-accounts-save-articles = 收集全网文章
-firefox-accounts-read-in-a = 在私密的空间中静心阅读
 firefox-accounts-get-it-all-on-every = 什么设备都能用，不再困于单一系统。
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

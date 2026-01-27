@@ -29,8 +29,6 @@ firefox-accounts-keep-your-passwords = Păstrează parolele protejate și portab
 firefox-accounts-travel-the-internet = Călătorește pe internet cu protecție pe fiecare dispozitiv.
 firefox-accounts-encrypt-your = Îți criptezi activitatea în rețea și îți ascunzi adresa IP
 firefox-accounts-we-never = Nu îți înregistrăm, urmărim sau distribuim niciodată datele din rețea
-firefox-accounts-save-articles = Salvezi articole de pe web
-firefox-accounts-read-in-a = Citești într-un spațiu liniștit, privat
 firefox-accounts-get-it-all-on-every = Obține-le pe toate pe fiecare dispozitiv, fără să te simți captiv unui singur sistem de operare.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

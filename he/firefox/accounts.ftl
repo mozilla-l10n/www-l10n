@@ -27,8 +27,6 @@ firefox-accounts-keep-your-passwords = שמירה על הסיסמה שלך מו�
 firefox-accounts-travel-the-internet = לטייל ברחבי הרשת עם הגנה, בכל מכשיר.
 firefox-accounts-encrypt-your = הצפנת פעילות הרשת שלך והסתרת כתובת ה־IP שלך
 firefox-accounts-we-never = אנחנו אף פעם לא מתעדים, עוקבים או משתפים את נתוני התקשורת שלך
-firefox-accounts-save-articles = שמירת מאמרים מכל רחבי הרשת
-firefox-accounts-read-in-a = קריאה במרחב שקט ופרטי
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 

@@ -29,8 +29,6 @@ firefox-accounts-keep-your-passwords = Mantene tu contrasignos protegite e porta
 firefox-accounts-travel-the-internet = Viagia sur Internet con protection, sur omne apparato.
 firefox-accounts-encrypt-your = Crypta tu activitate in rete e cela tu adresse IP
 firefox-accounts-we-never = Nos non registra, tracia o comparti jammais tu datos de rete
-firefox-accounts-save-articles = Salvar articulos de tote le web
-firefox-accounts-read-in-a = Lege in un spatio quiete, private.
 firefox-accounts-get-it-all-on-every = Obtene tote isto sur cata apparato, sin sentir te attrappate in un sol systema de operation.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

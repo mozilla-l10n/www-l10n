@@ -29,8 +29,6 @@ firefox-accounts-keep-your-passwords = Brug sikre og bærbare adgangskoder.
 firefox-accounts-travel-the-internet = Beskyt dig selv på nettet - på alle dine enheder.
 firefox-accounts-encrypt-your = Kryptere din netværksaktivitet og skjule din IP-adresse
 firefox-accounts-we-never = Vi logger, sporer eller deler aldrig dine netværksdata
-firefox-accounts-save-articles = Gemme artikler fra hele nettet
-firefox-accounts-read-in-a = Læse et stille og privat sted
 firefox-accounts-get-it-all-on-every = Få det hele på alle dine enheder - uden at føle dig fastlåst af et enkelt styresystem.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

@@ -29,8 +29,6 @@ firefox-accounts-keep-your-passwords = Giữ mật khẩu của bạn được b
 firefox-accounts-travel-the-internet = Du lịch trên internet với bảo vệ, trên mọi thiết bị.
 firefox-accounts-encrypt-your = Mã hóa hoạt động mạng và ẩn địa chỉ IP của bạn
 firefox-accounts-we-never = Chúng tôi không bao giờ đăng nhập, theo dõi hoặc chia sẻ dữ liệu mạng của bạn
-firefox-accounts-save-articles = Lưu các bài viết từ khắp nơi trên web
-firefox-accounts-read-in-a = Đọc trong không gian yên tĩnh, riêng tư
 firefox-accounts-get-it-all-on-every = Nhận tất cả trên mọi thiết bị mà không cảm thấy bị mắc kẹt trong một hệ điều hành duy nhất.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

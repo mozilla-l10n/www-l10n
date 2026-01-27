@@ -29,8 +29,6 @@ firefox-accounts-keep-your-passwords = Mít svá hesla v bezpečí a stále s se
 firefox-accounts-travel-the-internet = Surfovat po internetu bezpečně na každém svém zařízení
 firefox-accounts-encrypt-your = Šifrovat svou síťovou aktivitu a skrývat svou IP adresu
 firefox-accounts-we-never = Nikdy si nezaznamenáváme, nesledujeme ani nesdílíme vaše síťová data
-firefox-accounts-save-articles = Ukládat si články z celého webu
-firefox-accounts-read-in-a = Číst si v klidu a soukromí
 firefox-accounts-get-it-all-on-every = Toto vše získáte na každém svém zařízení, bez ohledu na operační systém.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

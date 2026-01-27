@@ -29,8 +29,6 @@ firefox-accounts-keep-your-passwords = Šćitajśo swóje gronidła a wzejśo je
 firefox-accounts-travel-the-internet = Gibniśo se ze šćitom na kuždem rěźe pó interneśe.
 firefox-accounts-encrypt-your = Koděrujśo swóju seśowu aktiwitu a schowajśo swóju IP-adresu
 firefox-accounts-we-never = Waše seśowe daty nigda njeprotokolěrujomy, njeslědujomy abo njeźělimy
-firefox-accounts-save-articles = Składujśo nastawki z interneta
-firefox-accounts-read-in-a = Cytajśo na śichem, priwatnym městnje
 firefox-accounts-get-it-all-on-every = Pśinjasćo wykno na kuždy rěd - wšojadno kótary źěłowy system wužywaśo.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

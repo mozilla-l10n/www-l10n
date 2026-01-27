@@ -29,8 +29,6 @@ firefox-accounts-keep-your-passwords = 비밀번호를 보호하고 항상 가�
 firefox-accounts-travel-the-internet = 모든 기기에서 보호 기능과 함께 인터넷을 활용하세요.
 firefox-accounts-encrypt-your = 네트워크 활동을 암호화하고 IP 주소를 숨김
 firefox-accounts-we-never = 네트워크 데이터를 기록하거나 추적, 공유하지 않습니다.
-firefox-accounts-save-articles = 웹에서 기사 저장
-firefox-accounts-read-in-a = 조용하고 사적인 공간에서 읽으세요.
 firefox-accounts-get-it-all-on-every = 한 운영체제에 갇히지 않고 모든 기기에서 사용하세요.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

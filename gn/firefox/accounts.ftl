@@ -29,8 +29,6 @@ firefox-accounts-keep-your-passwords = Eguereko ne ñe’ẽñemi ñemo’ãme h
 firefox-accounts-travel-the-internet = Eikundaha ñandutípe ñemo’ãme opaite mba’e’okápe.
 firefox-accounts-encrypt-your = Embopapapy ne rembiapo ñandutigua ha eñomi nde IP kundaharape
 firefox-accounts-we-never = Noroñongatúi, ndorohapykuehói ha noromoherakuãi ne mba’ekuaarã ñandutípe
-firefox-accounts-save-articles = Eñongatu jehaipyre ñanduti pegua
-firefox-accounts-read-in-a = Emoñe’ẽ pa’ũ py’aguapýpe ha neañomi
 firefox-accounts-get-it-all-on-every = Eguerekopa opaite mba’e’okápe, eñeñapytĩ’ỹre avave apopyvusu oku’évare.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

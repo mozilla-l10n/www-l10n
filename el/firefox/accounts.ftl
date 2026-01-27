@@ -29,8 +29,6 @@ firefox-accounts-keep-your-passwords = Προστασία και φορητότ�
 firefox-accounts-travel-the-internet = Περιήγηση στο διαδίκτυο με ασφάλεια, σε κάθε συσκευή.
 firefox-accounts-encrypt-your = Κρυπτογράφηση της δραστηριότητας και απόκρυψη της διεύθυνσης IP σας
 firefox-accounts-we-never = Δεν καταγράφουμε και δεν κοινοποιούμε ποτέ τα δεδομένα δικτύου σας
-firefox-accounts-save-articles = Αποθήκευση άρθρων από όλο το διαδίκτυο
-firefox-accounts-read-in-a = Ανάγνωση σε έναν ήσυχο, ιδιωτικό χώρο
 firefox-accounts-get-it-all-on-every = Όλα αυτά σε κάθε συσκευή, χωρίς να παγιδευτείτε σε ένα μόνο λειτουργικό σύστημα.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

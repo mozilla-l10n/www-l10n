@@ -29,8 +29,6 @@ firefox-accounts-keep-your-passwords = Pidä salasanat suojattuna ja siirrettäv
 firefox-accounts-travel-the-internet = Matkaa internetissä suojattuna kaikilla laitteillasi.
 firefox-accounts-encrypt-your = Salata verkkotoimintasi ja piilottaa IP-osoitteesi
 firefox-accounts-we-never = Emme koskaan kirjaa, seuraa tai jaa verkossa välitettyä dataa
-firefox-accounts-save-articles = Tallentaa artikkeleita verkosta
-firefox-accounts-read-in-a = Lukea rauhallisessa, yksityisessä tilassa
 firefox-accounts-get-it-all-on-every = Hallitse kaikkea jokaisella laitteella, ilman jähmettymistä tiettyyn ekosysteemiin.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

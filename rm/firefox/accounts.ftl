@@ -29,8 +29,6 @@ firefox-accounts-keep-your-passwords = Guarda che tes pleds-clav sajan segirs ed
 firefox-accounts-travel-the-internet = Navighescha a moda segira en l'internet, cun mintga apparat.
 firefox-accounts-encrypt-your = Criptescha tias activitads en la rait e zuppenta tia adressa IP
 firefox-accounts-we-never = Nus ni registrain ni fastizain ni cundividain tias datas da rait
-firefox-accounts-save-articles = Memorisescha artitgels ord l'entir web.
-firefox-accounts-read-in-a = Legia en in spazi calm e privat
 firefox-accounts-get-it-all-on-every = Tut sin mintga apparat, senza esser piglià en in sistem operativ.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

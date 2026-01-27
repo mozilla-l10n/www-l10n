@@ -29,8 +29,6 @@ firefox-accounts-keep-your-passwords = 保護密碼，又可隨身攜帶。
 firefox-accounts-travel-the-internet = 在每一台裝置都提供隱私保護功能。
 firefox-accounts-encrypt-your = 加密您的上網行為並隱藏 IP 地址
 firefox-accounts-we-never = 我們從不記錄、追蹤或將您的網路資料分享給別人
-firefox-accounts-save-articles = 儲存網路上的文章
-firefox-accounts-read-in-a = 在安靜、私人的地方閱讀
 firefox-accounts-get-it-all-on-every = 在所有裝置皆可下載，不會讓您覺得被困在單一作業系統中。
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

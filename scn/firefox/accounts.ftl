@@ -29,8 +29,6 @@ firefox-accounts-keep-your-passwords = Tèniri i to chiavi ô sicuru e sempri a 
 firefox-accounts-travel-the-internet = Nàvica nnâ riti di manera prutetta, nni tutti i dispusitivi.
 firefox-accounts-encrypt-your = Critta a to attività di riti e ammuccia u to nnirizzu IP
 firefox-accounts-we-never = Nun riggistramu, trazzamu o spartemu mai i to dati di riti
-firefox-accounts-save-articles = Sarba artìculi di tutta a riti
-firefox-accounts-read-in-a = Leggi nta nu spazziu cuetu e privatu
 firefox-accounts-get-it-all-on-every = Tuttu chiḍḍu chi ti serbi ncapu a tutti i to dispusitivi, senza sintìriti ntrappulatu nnôn sistema upirativu sulu.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

@@ -29,8 +29,6 @@ firefox-accounts-keep-your-passwords = Imejte gesla zaščitena in pri roki.
 firefox-accounts-travel-the-internet = Potujte po internetu z zaščito, na vsaki napravi.
 firefox-accounts-encrypt-your = šifrirati omrežno dejavnost in skriti naslov IP
 firefox-accounts-we-never = Vaših omrežnih podatkov nikoli ne beležimo, sledimo ali delimo naprej
-firefox-accounts-save-articles = Shranjujte članke z vsega spleta
-firefox-accounts-read-in-a = Berite v mirnem zasebnem prostoru
 firefox-accounts-get-it-all-on-every = Imejte vse na vseh napravah, ne da bi se počutili ujete v enem operacijskem sistemu.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.

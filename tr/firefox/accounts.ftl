@@ -29,8 +29,6 @@ firefox-accounts-keep-your-passwords = Parolalarınızı güvenle yanınızda ta
 firefox-accounts-travel-the-internet = İnternette gezinirken her cihazda üstün koruma.
 firefox-accounts-encrypt-your = Ağ etkinliğinizi şifreleyin ve IP adresinizi gizleyin
 firefox-accounts-we-never = Ağ trafiğinizi asla kaydetmiyor, izlemiyor ve paylaşmıyoruz
-firefox-accounts-save-articles = Web’deki makaleleri kaydedin
-firefox-accounts-read-in-a = Yalın, size özel bir alanda okuyun
 firefox-accounts-get-it-all-on-every = Tek bir işletim sistemine takılıp kalmayın. Firefox’u tüm cihazlarınızda kullanabilirsiniz.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
