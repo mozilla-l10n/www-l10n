@@ -35,6 +35,10 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Ak sú vaše osobné údaje ohrozené, informujte sa a uzamknite ich ako profesionál.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Zamaskujte svoj e‑mail a telefónne číslo, aby ste dostávali iba správy, ktoré chcete.
+m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = Okamžite si vytvorte krásnu webovú stránku, aby ste mohli rozvíjať svoje podnikanie.
+m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = Zabezpečte svoju umelú inteligenciu nájdením a opravou zraniteľností GenAI skôr, ako to urobia útočníci.
 
 ## Donate
 
@@ -137,9 +141,14 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } sa znovu objavu
 # Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } sa znovu objavuje, diverzifikuje okolo konštelácie organizácií, pretvára reklamu a vytvára ekosystém založený na AI a otvorenom kóde. Prečítajte si o tom v Správe o stave { -brand-name-mozilla(case: "gen") } za rok { $year }.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v3 = Nachádzame sa na križovatke budúcnosti technológií, pričom veľké spoločnosti zaoberajúce sa umelou inteligenciou konsolidujú svoju moc. Správa o stave { -brand-name-mozilla(case: "gen") } za rok { $year } je pozvánkou, aby sme si spoločne zvolili inú budúcnosť.
 # Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstraktný pixel art v odtieňoch zelenej, oranžovej a ružovej
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt-v2 = Text „Vyber si svoju budúcnosť“ na žltom, pixelovanom pozadí
 m24-home-read-the-report = Prečítajte si správu
 
 ## Nothing Personal
