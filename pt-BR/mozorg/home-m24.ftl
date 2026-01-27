@@ -35,11 +35,15 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Receba um alerta caso suas informações pessoais estejam em risco e as proteja como um especialista.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Oculte seu email e número de celular para receber somente as mensagens que quiser.
+m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = Crie instantaneamente um belo site para expandir sua atividade.
+m24-home-0din = { -brand-name-0din }
 
 ## Donate
 
 # Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = Faça uma doação para a organização sem fins lucrativos { -brand-name-mozilla }
+m24-home-donate-to-v2 = Faça uma doação para a { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = A { -brand-name-mozilla } está formando um movimento para recuperar a internet. Juntos, podemos construir um futuro em que nossa privacidade seja protegida, inteligência artificial seja confiável e empresas de tecnologia irresponsáveis sejam responsabilizadas. Mas isso só será possível se fizermos juntos.
 m24-home-mozilla-foundation-is-building-v2 = A { -brand-name-mozilla-foundation } está construindo um futuro onde a tecnologia é impulsionada pelas pessoas e projetada para ser aberta. É por isso que incentivamos tecnologia centrada na comunidade por meio de ativismo, educação, financiamento e inovação, para garantir que o futuro da tecnologia seja bom para todos. Mas isso só é possível se fizermos juntos.
@@ -62,6 +66,7 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders ajuda desenvolvedores independentes a criar projetos transformadores de inteligência artificial de código aberto por meio de colaborações, programação e comunidade sob medida.
 m24-home-builders-helps-independent-v2 = O { -brand-name-mozilla-builders } ajuda desenvolvedores independentes a criar projetos transformadores de inteligência artificial de código aberto por meio de colaborações sob medida, programação e comunidade.
+m24-home-own-what-you = Seja dono do que você criar
 m24-home-watch-now = Assista agora
 m24-home-get-started-now = Começar agora
 # Used as an accessible text alternative for an image

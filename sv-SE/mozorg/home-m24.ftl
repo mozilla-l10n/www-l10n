@@ -144,6 +144,8 @@ m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } återuppfinn
 # Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstrakt pixelkonst i nyanser av grönt, orange och rosa
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt-v2 = Texten "Välj din framtid" på en gul, pixlad bakgrund
 m24-home-read-the-report = Läs rapporten
 
 ## Nothing Personal

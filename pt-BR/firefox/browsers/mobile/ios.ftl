@@ -31,6 +31,8 @@ mobile-ios-get-search-suggestions = Tenha sugestões de pesquisa na barra de pes
 mobile-ios-discover-more-of = Descubra mais do que você adora
 # Obsolete string (expires 26-10-2025)
 mobile-ios-open-a-new = Abra uma nova aba no { -brand-name-firefox } para ver os sites que você mais visita, favoritos recentes e artigos populares do { -brand-name-pocket }. O { -brand-name-firefox } oferece acesso rápido aos sites usados mais recentemente para te ajudar a chegar mais rápido.
+mobile-ios-open-a-new-v2 = Abra uma nova aba no { -brand-name-firefox } para ver os sites que você mais visita e seus favoritos recentes. O { -brand-name-firefox } oferece acesso rápido aos sites usados mais recentemente para te ajudar a chegar mais rápido.
 mobile-ios-about-mozilla = Sobre a { -brand-name-mozilla }
 # Obsolete string (expires 26-10-2025)
 mobile-ios-mozilla-exists-to = A { -brand-name-mozilla } existe para estabelecer a internet como um recurso público acessível a todos, porque acreditamos que aberto e gratuito é melhor que fechado e controlado. Fazemos produtos como o { -brand-name-firefox } e o { -brand-name-pocket } para promover escolha, transparência e controle.
+mobile-ios-mozilla-exists-to-v2 = A { -brand-name-mozilla } existe para construir a internet como um recurso público acessível a todos, porque acreditamos que aberto e gratuito é melhor do que fechado e controlado. Fazemos produtos como o { -brand-name-firefox } para promover escolha, transparência e controle.
