@@ -37,7 +37,9 @@ m24-home-get-a-headsup = احصل على تنبيه إذا كانت معلوما
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = يُرجى إخفاء بريدك الإلكتروني ورقم هاتفك لتتلقّى الرسائل التي تريدها فقط.
 m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = أنشئ موقعًا إلكترونيًا جميلًا فورًا لتتمكّن من تنمية أعمالك.
 m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = أمِّن ذكاءك الاصطناعي من خلال اكتشاف ثغرات GenAI وإصلاحها قبل أن يستغلها المهاجمون.
 
 ## Donate
 
@@ -139,8 +141,10 @@ m24-home-state-of-mozilla = حالة { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = تعمل { -brand-name-mozilla } على إعادة ابتكار ذاتها وتتنوّع وسط مجموعة من المُؤسسات وتعيد تصوّر الإعلان وتوفّر نظامًا بيئيًا مفتوح المصدر للذكاء الاصطناعي. اقرأ عنها في تقرير حالة { -brand-name-mozilla } لِعام 2024.
 
 # Variables
+# Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = تعمل { -brand-name-mozilla } على إعادة ابتكار ذاتها وتتنوّع وسط مجموعة من المُؤسسات وتعيد تصوّر الإعلان وتوفّر نظامًا بيئيًا مفتوح المصدر للذكاء الاصطناعي. تعرّف على المزيد في تقرير حالة { -brand-name-mozilla } { $year }.
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = صورة بكسل تجريدية بألوان الظلال الخضراء والبرتقاليّة والورديّة
 m24-home-read-the-report = اقرأ التقرير
