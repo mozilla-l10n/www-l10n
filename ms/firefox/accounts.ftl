@@ -36,8 +36,6 @@ firefox-accounts-keep-your-passwords = Pastikan kata laluan anda dilindungi dan 
 firefox-accounts-travel-the-internet = Layari internet dengan perlindungan, pada setiap peranti.
 firefox-accounts-encrypt-your = Enkrip aktiviti anda dan sorokkan alamat IP
 firefox-accounts-we-never = Kami tidak merekod, menjejak atau berkongsi data rangkaian anda
-firefox-accounts-save-articles = Simpan artikel dari segenap internet
-firefox-accounts-read-in-a = Membaca di dalam ruang yang senyap dan privasi
 
 firefox-accounts-get-it-all-on-every = Dapatkan kesemuanya pada setiap peranti, tanpa berasa terperangkap dalam sistem operasi tunggal.
 
