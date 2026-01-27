@@ -58,9 +58,11 @@ firefox-products-download-thunderbird = Unduh { -brand-name-thunderbird }
 ## Solo
 
 firefox-products-solo = { -brand-name-solo }
+firefox-products-solo-desc = Buat situs web yang menarik secara instan untuk membantu mengembangkan bisnis Anda. Hubungkan dan hosting domain khusus Anda secara gratis.
 firefox-products-learn-more-about-solo = Pelajari lebih lanjut mengenai { -brand-name-solo }
 
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = Hubungkan sistem AI Anda dengan komunitas global pakar keamanan yang membantu menemukan dan memperbaiki kerentanan GenAI sejak dini.
 firefox-products-learn-more-about-0din = Pelajari lebih lanjut mengenai { -brand-name-0din }
