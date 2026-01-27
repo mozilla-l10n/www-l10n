@@ -58,9 +58,11 @@ firefox-products-download-thunderbird = { -brand-name-thunderbird } डाउन
 ## Solo
 
 firefox-products-solo = { -brand-name-solo }
+firefox-products-solo-desc = झटपट एक शानदार वेबसाइट बनाएं और अपने कारोबार को नई ऊंचाइयों पर ले जाएं। अपने कस्टम डोमेन को मुफ़्त में कनेक्ट करें और होस्ट करें।
 firefox-products-learn-more-about-solo = { -brand-name-solo } के बारे में और अधिक जानें
 
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = GenAI की कमजोरियों को जल्दी पहचानने और सुधारने के लिए, सुरक्षा विशेषज्ञों के वैश्विक समुदाय से अपने AI सिस्टम कनेक्ट करें।
 firefox-products-learn-more-about-0din = { -brand-name-0din } के बारे में और अधिक जानें

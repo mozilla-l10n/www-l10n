@@ -58,9 +58,11 @@ firefox-products-download-thunderbird = Télécharger { -brand-name-thunderbird 
 ## Solo
 
 firefox-products-solo = { -brand-name-solo }
+firefox-products-solo-desc = Créez instantanément un superbe site web pour développer votre entreprise, et associez-y gratuitement votre nom de domaine.
 firefox-products-learn-more-about-solo = En savoir plus sur { -brand-name-solo }
 
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = Appuyez-vous sur une communauté mondiale d’experts en sécurité pour détecter et corriger en amont les failles de l’IA générative au sein de vos systèmes d’IA.
 firefox-products-learn-more-about-0din = En savoir plus sur { -brand-name-0din }

@@ -36,8 +36,6 @@ firefox-accounts-keep-your-passwords = Simpan, lindungi, dan bawa kata sandi And
 firefox-accounts-travel-the-internet = Jelajahi internet dengan perlindungan, di setiap perangkat.
 firefox-accounts-encrypt-your = Enkripsi aktivitas jaringan dan sembunyikan alamat IP Anda
 firefox-accounts-we-never = Kami tidak pernah mencatat, melacak, atau membagikan data jaringan Anda
-firefox-accounts-save-articles = Simpan artikel dari seluruh web
-firefox-accounts-read-in-a = Baca di tempat yang tenang dan pribadi
 
 firefox-accounts-get-it-all-on-every = Dapatkan semuanya di setiap perangkat, tanpa merasa terjebak dalam satu sistem operasi.
 

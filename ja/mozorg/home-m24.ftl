@@ -37,7 +37,9 @@ m24-home-get-a-headsup = 個人情報が危険にさらされていることを�
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = メールアドレスと電話番号を秘匿することで、必要なメッセージだけを受け取ることができます。
 m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = 美しいウェブサイトを瞬時に作成し、ビジネスを成長させます。
 m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = 攻撃者より先に生成 AI の脆弱性を見つけて修正することで、AI を安全に守れます。
 
 ## Donate
 
@@ -139,8 +141,10 @@ m24-home-state-of-mozilla = { -brand-name-mozilla } の現状
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } は改革を行い、組織図を多様化し、広告を再構築し、オープンソースの AI エコシステムを構築しています。詳しくはレポート「State of { -brand-name-mozilla } 2024」をお読みください。
 
 # Variables
+# Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } は改革を行い、組織図を多様化し、広告を再構築し、オープンソースの AI エコシステムを構築しています。詳しくはレポート「State of { -brand-name-mozilla } { $year }」をお読みください。
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = 緑、オレンジ、ピンク色の抽象的なピクセルアート
 m24-home-read-the-report = レポートを読む

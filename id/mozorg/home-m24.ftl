@@ -37,7 +37,9 @@ m24-home-get-a-headsup = Dapatkan pemberitahuan lebih awal jika info pribadi And
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Lindungi email dan nomor telepon Anda agar hanya menerima pesan yang benar-benar Anda inginkan.
 m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = Buat situs web yang menarik secara instan untuk membantu mengembangkan bisnis Anda.
 m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = Lindungi AI Anda dengan menemukan dan memperbaiki kerentanan GenAI sebelum diserang.
 
 ## Donate
 
@@ -139,8 +141,10 @@ m24-home-state-of-mozilla = Perkembangan { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } sedang bertransformasi, memperluas jangkauan melalui kerja sama dengan berbagai organisasi, merancang ulang sistem periklanan, dan membangun ekosistem AI berbasis sumber terbuka. Baca selengkapnya dalam Laporan Perkembangan { -brand-name-mozilla } 2024.
 
 # Variables
+# Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } sedang bertransformasi, memperluas jangkauan melalui kerja sama dengan berbagai organisasi, merancang ulang sistem periklanan, dan membangun ekosistem AI berbasis sumber terbuka. Baca selengkapnya dalam Laporan Perkembangan { -brand-name-mozilla } { $year }.
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Seni piksel abstrak dengan perpaduan warna hijau, oranye, dan merah muda
 m24-home-read-the-report = Baca laporannya

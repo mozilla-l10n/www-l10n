@@ -37,7 +37,9 @@ m24-home-get-a-headsup = Recevez une alerte si vos données personnelles courent
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Masquez votre adresse e-mail et votre numéro de téléphone pour recevoir uniquement les messages que vous désirez.
 m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = Créez instantanément un superbe site web pour développer votre entreprise.
 m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = Sécurisez vos systèmes d’IA en trouvant et en corrigeant les failles de l’IA générative avant les attaquants.
 
 ## Donate
 
@@ -139,8 +141,10 @@ m24-home-state-of-mozilla = { -brand-name-mozilla } aujourd’hui
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se réinvente en diversifiant son activité autour de plusieurs organisations, en repensant la publicité et en créant un écosystème d’IA open source. Découvrez nos projets dans le rapport « { -brand-name-mozilla } aujourd’hui » de 2024.
 
 # Variables
+# Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } se réinvente en diversifiant son activité autour de plusieurs organisations, en repensant la publicité et en créant un écosystème d’IA open source. Découvrez nos projets dans le rapport { -brand-name-mozilla } { $year }.
+# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Pixel art abstrait dans des tons verts, orange et roses
 m24-home-read-the-report = Lire le rapport

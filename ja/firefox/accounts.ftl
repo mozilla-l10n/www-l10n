@@ -36,8 +36,6 @@ firefox-accounts-keep-your-passwords = パスワードを保護しながらポ�
 firefox-accounts-travel-the-internet = あらゆるデバイスで、安全にインターネットを旅しましょう。
 firefox-accounts-encrypt-your = ネットワークアクティビティを暗号化し、IP アドレスを秘匿
 firefox-accounts-we-never = Mozilla がユーザーのネットワークデータを記録、追跡、共有することはありません
-firefox-accounts-save-articles = ウェブ全体から記事を保存
-firefox-accounts-read-in-a = 静かでプライバシーの保たれた空間で閲覧
 
 firefox-accounts-get-it-all-on-every = 一つの OS に囚われず、すべてのデバイスでフル活用。
 
