@@ -36,8 +36,6 @@ firefox-accounts-keep-your-passwords = अपने पासवर्ड सु
 firefox-accounts-travel-the-internet = सुरक्षा के साथ इंटरनेट की सैर करें, हर डिवाइस पर।
 firefox-accounts-encrypt-your = अपनी नेटवर्क गतिविधि को एन्क्रिप्ट करें और अपना IP एड्रेस छुपाएं
 firefox-accounts-we-never = हम आपके नेटवर्क डेटा को कभी भी लॉग, ट्रैक या शेयर नहीं करते
-firefox-accounts-save-articles = इंटरनेट में कहीं से भी आलेख सेव करें
-firefox-accounts-read-in-a = किसी शांत, निजी स्थान में पढ़ें
 
 firefox-accounts-get-it-all-on-every = सभी डिवाइसों के लिए इसे हासिल करें। किसी एक ऑपरेटिंग सिस्टम तक ही सीमित न रहें।
 
