@@ -23,6 +23,7 @@ reporting-employee = Funcionário
 reporting-contributor = Colaborador
 reporting-about = Sobre
 reporting-employee-hotline = Linha direta para funcionários
+reporting-internal-policies = Consulte as diretivas e procedimentos internos da { -brand-name-mozilla }
 reporting-contractor = Contratante
 reporting-vendor = Fornecedor
 reporting-if-someone-reports-to = Se alguém fizer uma denúncia para você…
