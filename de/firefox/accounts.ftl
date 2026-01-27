@@ -36,8 +36,6 @@ firefox-accounts-keep-your-passwords = Schütze deine Passwörter und nimm sie �
 firefox-accounts-travel-the-internet = Beweg dich mit jedem Gerät sicher durchs Internet.
 firefox-accounts-encrypt-your = Verschlüssle deine Netzwerkaktivitäten und verstecke deine IP-Adresse
 firefox-accounts-we-never = Wir loggen, verfolgen oder teilen Ihre Netzwerkdaten nie.
-firefox-accounts-save-articles = Speichere Artikel aus dem ganzen Web
-firefox-accounts-read-in-a = Lies in einem ruhigen privaten Rahmen
 
 firefox-accounts-get-it-all-on-every = Hol dir all das auf jedes deiner Geräte – egal welches Betriebssystem du nutzt.
 
