@@ -141,6 +141,9 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } uppfinner sig s
 # Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } återuppfinner sig självt, diversifierar sig kring en konstellation av organisationer, omtolkar reklam och skapar ett AI-ekosystem med öppen källkod. Läs om det i rapporten om tillståndet för { -brand-name-mozilla } { $year }.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v3 = Vi står vid ett vägskäl för framtidens teknologi, där stora AI-företag befäster makten. Rapporten { $year } State of { -brand-name-mozilla } är en inbjudan att välja en annan framtid tillsammans.
 # Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstrakt pixelkonst i nyanser av grönt, orange och rosa

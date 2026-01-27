@@ -35,6 +35,7 @@ vpn-launch-the-app = 2. Inicie o aplicativo
 vpn-login-or-signup = 3. Entre na conta ou cadastre-se
 vpn-enter-your-email = Digite seu endereço de email para entrar na conta ou cadastre-se
 vpn-turn-on-vpn = 4. Ative a VPN
+vpn-install-firefox-extension = 5. Instale a extensão para { -brand-name-firefox }
 vpn-pick-a-recommended = Escolha um local recomendado para ter uma conexão rápida e estável ou escolha um local manualmente, depois mude o botão para ATIVADO
 
 ## FAQ Strings

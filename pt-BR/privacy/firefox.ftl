@@ -9,6 +9,7 @@
 privacy-firefox-basics = Informações básicas sobre privacidade
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Você está no controle
+privacy-firefox-youre-in-control-v2 = Você está no controle de seus dados
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Privacidade não é apenas uma configuração, é um direito seu. O aviso de privacidade do { -brand-name-firefox } tem como base clareza, controle e responsabilidade. Acreditamos que você sempre deve estar no controle do que acontece com seus dados. Pode contar conosco para te explicar claramente o que o { -brand-name-firefox } faz por padrão e como ajustar suas configurações para poder navegar como preferir.
 privacy-firefox-read-our-privacy = Leia nosso aviso de privacidade
@@ -20,6 +21,7 @@ privacy-firefox-transparency-first = Transparência antes de tudo
 privacy-firefox-were-clear-about = Deixamos claro quais dados usamos e o motivo. Sem surpresas. O <a { $attrs }>aviso de privacidade do { -brand-name-firefox }</a> contém informações detalhadas a este respeito.
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Como usamos os dados
+privacy-firefox-how-we-use-v2 = Privativo por padrão
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Usamos dados para garantir o bom funcionamento do { -brand-name-firefox }, melhorar funcionalidades e ajudar a sustentar nossa atividade, sempre respeitando sua privacidade. Alguns recursos opcionais podem precisar de dados adicionais para funcionar. Facilitamos escolher suas preferências.
 privacy-firefox-builtin-control = Controle integrado

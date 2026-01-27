@@ -94,6 +94,7 @@ m24-home-topic-ai = Inteligência artificial
 m24-home-topic-open-source-ai = Inteligência artificial de código aberto
 m24-home-topic-ps = Privacidade e Segurança
 m24-home-headline-you-ai-v2 = Você, inteligência artificial e a internet — o que realmente está acontecendo?
+m24-home-mozilla-welcomes-raffi = A { -brand-name-mozilla } dá as boas-vindas a Raffi Krikorian como Chief Technology Officer
 m24-home-mozilla-ai-ceo = CEO da { -brand-name-mozilla-ai-v2 } fala sobre as vantagens da inteligência artificial de código aberto
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Apresentação do Thundermail e Thunderbird Pro
