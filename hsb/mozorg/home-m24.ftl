@@ -140,8 +140,13 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } so sam znowa wu
 # Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } so sam znowa wunamakuje, rozeznawa so wokoło konstelacije organizacijow, koncipuje wabjenje nowo a wutworja ekosystem KI wotewrjeneho žórła. Čitajće wo tym w Rozprawje wo stawje { -brand-name-mozilla } { $year }.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v3 = Smy na rozpuću za přichod technologije, z wulkimi předewzaćemi KI, kotrež móc skrućeja. Rozprawa wo stawje { -brand-name-mozilla } { $year } je přeprošenje, zo bychmy hromadźe druhi přichod wubrali.
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstraktne pikselowe wuměłstwo w zelenych, oranžowych a róžojtych wotsćinach
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt-v2 = Tekst ‚Wubjerće swój přichod‘ na žołtym, pikselojtym pozadku
 m24-home-read-the-report = Čitajće rozprawu
 
 ## Nothing Personal
