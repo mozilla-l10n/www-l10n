@@ -148,7 +148,7 @@ m24-home-mozilla-is-reinventing-itself-v3 = A technológia jövője szempontjáb
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Absztrakt pixelgrafika zöld, narancs és rózsaszín árnyalatokban
 # Used as an accessible text alternative for an image
-m24-home-state-of-mozilla-alt-v2 = A „Válassza a jövőjét” szöveg egy sárga, pixeles alapon
+m24-home-state-of-mozilla-alt-v2 = A „Válassza ki a jövőjét” szöveg sárga, pixeles alapon
 m24-home-read-the-report = Olvassa el a jelentést
 
 ## Nothing Personal
