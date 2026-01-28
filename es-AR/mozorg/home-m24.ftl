@@ -148,7 +148,7 @@ m24-home-mozilla-is-reinventing-itself-v3 = Estamos en una encrucijada para el f
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Pixel art abstracto en tonos de verde, naranja y rosa
 # Used as an accessible text alternative for an image
-m24-home-state-of-mozilla-alt-v2 = El texto "Elige tu futuro" sobre un fondo amarillo pixelado
+m24-home-state-of-mozilla-alt-v2 = El texto ‘Elegí tu futuro’ sobre un fondo amarillo pixelado
 m24-home-read-the-report = Leer el informe
 
 ## Nothing Personal
