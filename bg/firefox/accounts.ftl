@@ -15,6 +15,7 @@ firefox-accounts-manage = Управление на профила
 mozilla-account-header = { -brand-name-mozilla-account }
 firefox-accounts-protect-your-identity = Защитете своята идентичност със сигурно маскиране на телефон и имейл
 firefox-accounts-encrypt-your = Шифроване на мрежовата ви активност и скриване на вашия IP адрес
+firefox-accounts-we-never = Никога не регистрираме, проследяваме или споделяме ваши мрежови данни
 firefox-accounts-get-it-all-on-every = Вземете всички тези продукти на всяко ваше устройство, без да се чувствате обвързани само с една операционна система.
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
