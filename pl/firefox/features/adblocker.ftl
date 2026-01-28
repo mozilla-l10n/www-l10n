@@ -15,6 +15,10 @@ features-adblocker-an-ad-blocker-is-a-piece = Bloker reklam to oprogramowanie, k
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = Mogą to być głośne reklamy wideo, reklamy śledzące Cię w Internecie, elementy śledzące, ciasteczka zewnętrznych witryn i wiele więcej. Aby używać blokera reklam, możesz wyszukać dodatki blokujące reklamy dostępne w używanej przeglądarce. <a href="{ $firefox }">{ -brand-name-firefox }</a>, na przykład, ma <a href="{ $addons }">listę zatwierdzonych dodatków blokujących reklamy</a>. Kliknij tę listę (lub blokery reklam zatwierdzone dla Twojej przeglądarki) i sprawdź, który pasuje do Twoich potrzeb.
 features-adblocker-find-the-right-ad-blocker = Znajdź odpowiedni bloker reklam dla siebie
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = Te rozszerzenia działają doskonale zarówno na <a { $attrs1 }>{ -brand-name-firefox(case: "loc") } dla komputerów stacjonarnych</a>, jak i dla <a { $attrs2 }>Androida</a>.
 features-adblocker-create-a-tracker-free = Utwórz strefę wolną od śledzenia dzięki blokowaniu treści
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
