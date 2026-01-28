@@ -141,9 +141,14 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } өзін-өзі
 # Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } өзін-өзі қайта жаңғыртуда: ол ұйымдар шоғырына айналып, жарнаманы жаңаша түсініп, ашық бастапқы кодты ЖИ экожүйесін құруда. Бұл туралы { -brand-name-mozilla }-ның { $year } жылғы жағдайы туралы есептен толық оқи аласыз.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v3 = Біз технологияның болашағына қатысты маңызды таңдау алдында тұрмыз: ірі ЖИ компаниялары билікті өз қолдарына шоғырландыруда. { $year } жылғы { -brand-name-mozilla } жағдайы туралы есеп — бұл басқаша болашақты бірге таңдауға шақыру.
 # Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Жасыл, қызғылт сары және қызғылт реңктердегі абстрактілі пиксель өнері
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt-v2 = Сары, пиксельді фондағы «Болашағыңызды таңдаңыз» мәтіні
 m24-home-read-the-report = Есепті оқу
 
 ## Nothing Personal
