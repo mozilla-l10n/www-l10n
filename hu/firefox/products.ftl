@@ -57,10 +57,10 @@ firefox-products-download-thunderbird = A { -brand-name-thunderbird } letöltés
 
 firefox-products-solo = { -brand-name-solo }
 firefox-products-solo-desc = Azonnal hozzon létre egy gyönyörű weboldalt, hogy növekedjen a vállalkozása. Kapcsolja hozzá, és szolgálja ki ingyenesen a saját domainjét.
-firefox-products-learn-more-about-solo = Tudjon meg többet a { -brand-name-solo } kiegészítőről
+firefox-products-learn-more-about-solo = Tudjon meg többet a { -brand-name-solo } szolgáltatásról
 
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Kapcsolja össze az MI rendszereit a biztonsági szakértők globális közösségével, akik feltárják a GenAI sérülékenységeket, és korán javítják őket.
-firefox-products-learn-more-about-0din = Tudjon meg többet a(z) { -brand-name-0din } kiegészítőről
+firefox-products-learn-more-about-0din = Tudjon meg többet az { -brand-name-0din } szolgáltatásról

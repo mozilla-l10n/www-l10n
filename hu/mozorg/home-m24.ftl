@@ -36,9 +36,9 @@ m24-home-get-a-headsup = Kapjon figyelmeztetést, ha a személyes adatai veszél
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Rejtse el az e-mail-címét és a telefonszámát, hogy csak a kívánt üzeneteket kapja meg.
 m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = Azonnal hozzon létre egy gyönyörű weboldalt, hogy növelje vállalkozását.
+m24-home-solo-desc = Azonnal hozzon létre egy gyönyörű weboldalt, hogy növekedjen a vállalkozása.
 m24-home-0din = { -brand-name-0din }
-m24-home-0din-desc = Biztosítsa mesterséges intelligenciáját a GenAI sérülékenységek megtalálásával és javításával, mielőtt a támadók azt tennék.
+m24-home-0din-desc = Tegye biztonságossá a mesterséges intelligenciáját a GenAI sérülékenységek megtalálásával és javításával, mielőtt a támadók találnák meg azokat.
 
 ## Donate
 
@@ -135,7 +135,7 @@ m24-home-alt-rise25-proud = A { -brand-name-rise25 } büszke kitüntetettje.
 m24-home-alt-rise25-smiling = Egy magabiztos, mosolygós előadó a { -brand-name-rise25 } díjátadón.
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = A { -brand-name-rise25 } egy örömteli kitüntetettje.
-m24-home-state-of-mozilla = A { -brand-name-mozilla } állapota
+m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = A { -brand-name-mozilla } újraszervezi magát, szervezetek halmaza köré diverzifikálódik, újragondolja a hirdetéseket és egy nyílt forráskódú MI ökoszisztémát hoz létre. Olvasson róla a { -brand-name-mozilla } 2024-es állapotjelentésében.
 # Variables
 # Obsolete string (expires: 2026-03-27)
@@ -143,7 +143,7 @@ m24-home-mozilla-is-reinventing-itself = A { -brand-name-mozilla } újraszervezi
 m24-home-mozilla-is-reinventing-itself-v2 = A { -brand-name-mozilla } újraszervezi magát, szervezetek halmaza köré diverzifikálódik, újragondolja a hirdetéseket és egy nyílt forráskódú MI ökoszisztémát hoz létre. Olvasson róla a { -brand-name-mozilla } { $year } évi állapotjelentésében.
 # Variables
 #   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v3 = A technológia jövője szempontjából válaszúthoz értünk, a nagy MI cégek megszilárdítva a hatalmat. A(z) { $year } { -brand-name-mozilla } állapotjelentés felhívás, hogy válasszanak egy más jövőt együtt.
+m24-home-mozilla-is-reinventing-itself-v3 = A technológia jövője szempontjából válaszúthoz értünk, ahol a nagy MI cégek megszilárdítják a hatalmukat. A { $year }-ös State of { -brand-name-mozilla } állapotjelentés egy felhívás arra, hogy együtt más jövőt válasszunk.
 # Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Absztrakt pixelgrafika zöld, narancs és rózsaszín árnyalatokban
