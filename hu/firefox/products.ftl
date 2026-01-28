@@ -56,8 +56,8 @@ firefox-products-download-thunderbird = A { -brand-name-thunderbird } letöltés
 ## Solo
 
 firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = Azonnal hozzon létre egy gyönyörű weboldalt, hogy növelje vállalkozását. Kapcsolódjon és tárolja ingyenesen egyéni domainjét.
-firefox-products-learn-more-about-solo = Tudjon meg többet a(z) { -brand-name-solo } kiegészítőről
+firefox-products-solo-desc = Azonnal hozzon létre egy gyönyörű weboldalt, hogy növekedjen a vállalkozása. Kapcsolja hozzá, és szolgálja ki ingyenesen a saját domainjét.
+firefox-products-learn-more-about-solo = Tudjon meg többet a { -brand-name-solo } kiegészítőről
 
 ## 0DIN
 
