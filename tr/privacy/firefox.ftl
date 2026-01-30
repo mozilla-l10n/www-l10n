@@ -24,6 +24,9 @@ privacy-firefox-how-we-use = Bu verileri nasıl kullanıyoruz?
 privacy-firefox-how-we-use-v2 = Varsayılan gizlilik
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-we-use-data = Bu verileri { -brand-name-firefox }’un sorunsuz çalışmasını sağlamak, mevcut özellikleri geliştirmek ve finansal sürdürülebilirliğimizi korumak için kullanıyoruz. Tüm bunları yaparken gizliliğinize saygı gösteriyoruz. İsteğe bağlı bazı özelliklerin çalışması için ek veri gerekiyorsa tercihlerinizi yönetmeyi kolaylaştırıyoruz.
+# Variables:
+#   $attrs (string) - link to https://firefox-source-docs.mozilla.org/contributing/data-collection.html#browsing-data
+privacy-firefox-we-use-data-v2 = Hassas kullanıcı verilerini düzenli olarak toplayıp depolayan diğer tarayıcıların aksine { -brand-name-firefox }’un temel aldığı bir <a { $attrs }>prensip</a> var: Hangi sitelere girdiğinizi ve oralarda ne yaptığınızı { -brand-name-mozilla } bile bilmemeli.
 privacy-firefox-builtin-control = Yerleşik kontrol
 privacy-firefox-firefox-gives-you = { -brand-name-firefox }, verilerinizi istediğiniz şekilde yönetmeniz için basit ama güçlü araçlar sunuyor. Yalnızca birkaç tıklamayla ayarlarınızı değiştirebilir, kişisel yaşamınızla işinizi birbirinden ayırabilir, geçmişinizdeki istemediğiniz şeyleri silebilirsiniz.
 privacy-firefox-always-protected = Her an koruma altında

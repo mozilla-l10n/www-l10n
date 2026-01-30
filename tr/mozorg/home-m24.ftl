@@ -117,6 +117,8 @@ m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = The FT
 m24-home-rewiring-mozilla = Yeniden { -brand-name-mozilla }: Web için yaptıklarımızı şimdi yapay zekâ için yapıyoruz
 m24-home-interview-with-mark = Mark Surman ile söyleşi: { -brand-name-mozilla } yapay zekâ çağına nasıl uyum sağlıyor?
+m24-home-women-in-product = Women In Product söyleşisi: GenAl’ı konunun dışına çıkmadan eklemek
+m24-home-scaling-open-source = Açık kaynaklı yapay zekâyı ölçeklendirmek: Mark Surman ve Tim Bradow
 
 ## Showcase
 
@@ -138,6 +140,8 @@ m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } kendini yeni
 # Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Yeşil, turuncu ve pembe tonlarında soyut bir pikselleşmiş resim
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt-v2 = Üzerinde ‘Choose Your Future’ yazan sarı, pikselli bir zemin
 m24-home-read-the-report = Raporu okuyun
 
 ## Nothing Personal
