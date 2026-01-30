@@ -109,6 +109,7 @@ m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } CEO’su açık kaynakl�
 m24-home-introducing-thundermail-and = Karşınızda Thundermail ve Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Karşınızda { -brand-name-thundermail } ve { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Teknolojinin geleceği bir tercih meselesi. Tercihinizi bizimle birlikte yapın.
+m24-home-a-good-moment = ‘Bizim için iyi bir an’: { -brand-name-firefox } Müdürü ile yapay zekâ tarayıcıları ve web’in geleceği üzerine
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-mozillas-new-message = { -brand-name-mozilla }’nın yeni mesajı: Arkasında milyarderler olmayan tek tarayıcı biziz
