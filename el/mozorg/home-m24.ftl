@@ -35,6 +35,9 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Λάβετε μια προειδοποίηση αν κινδυνεύουν τα προσωπικά σας δεδομένα και προστατεύστε τα σαν επαγγελματίες.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Αποκρύψτε το email και τον αριθμό τηλεφώνου σας για να λαμβάνετε μόνο τα μηνύματα που θέλετε.
+m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = Δημιουργήστε άμεσα έναν όμορφο ιστότοπο για να αναπτύξετε την επιχείρησή σας.
+m24-home-0din = { -brand-name-0din }
 
 ## Donate
 
