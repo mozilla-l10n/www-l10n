@@ -141,6 +141,9 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } kendini yeniden
 # Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } kendini yeniden tanımlıyor, çeşitli kuruluşlara yayılıyor, reklamcılığı baştan tasarlıyor ve açık kaynaklı bir yapay zekâ ekosistemi oluşturuyor. Ayrıntıları State of { -brand-name-mozilla } { $year } Raporu’nda okuyun.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v3 = Teknolojinin geleceği için bir yol ayrımındayız. Büyük yapay zekâ şirketleri giderek gücü ellerinde topluyor. { $year } State of { -brand-name-mozilla } raporu, sizi bizimle birlikte farklı bir gelecek seçmeye davet ediyor.
 # Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Yeşil, turuncu ve pembe tonlarında soyut bir pikselleşmiş resim
