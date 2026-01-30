@@ -141,9 +141,14 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } đang tự đ�
 # Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } đang tự đổi mới, đa dạng hóa xung quanh một nhóm các tổ chức, định hình lại hoạt động quảng cáo và tạo ra một hệ sinh thái AI nguồn mở. Đọc về nó trong báo cáo Tình trạng của { -brand-name-mozilla } năm { $year }.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v3 = Chúng tôi đang đứng trước ngã rẽ cho tương lai của công nghệ, với các công ty AI lớn đang củng cố quyền lực. Báo cáo Tình trạng của { -brand-name-mozilla } năm { $year } là lời mời gọi cùng nhau lựa chọn một tương lai khác.
 # Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Nghệ thuật pixel trừu tượng với các sắc thái xanh lá cây, cam và hồng
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt-v2 = Dòng chữ ‘Chọn tương lai của bạn’ trên nền vàng, bị vỡ hạt.
 m24-home-read-the-report = Đọc báo cáo
 
 ## Nothing Personal
