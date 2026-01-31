@@ -86,7 +86,7 @@ m24-home-mark-surman-discusses = Mark Surman, hem misyona hem de paraya değer v
 m24-home-agent-platform = Agent platformu
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Tüm agent’lar
-m24-home-stop-wiring-tools = Araçları birbirine bağlamaya, gereksiz otomasyonlara bakıcılık yapmaya son. { -brand-name-mozilla-ai-v2 } Agent Platform’a siz hedefinizi açıklayıyorsunuz; biz araçlarınızla ve süreçlerinizle uyumlu çalışan, adaptif yapay zekâ agent’ları oluşturuyoruz.
+m24-home-stop-wiring-tools = Araçları birbirine bağlamaya, gereksiz otomasyonlara bakıcılık yapmaya son. { -brand-name-mozilla-ai-v2 } Agent Platform’a siz hedefinizi açıklıyorsunuz; biz araçlarınızla ve süreçlerinizle uyumlu çalışan, adaptif yapay zekâ agent’ları oluşturuyoruz.
 
 ## Media Springboard
 
