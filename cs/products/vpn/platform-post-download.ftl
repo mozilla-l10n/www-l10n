@@ -57,7 +57,7 @@ vpn-download-faq-working = Jak poznám, že VPN funguje?
 # Variables:
 #   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
 #   $monitor (url) link to https://monitor.mozilla.org/
-vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } zobrazuje vizuální indikátory aktuálního stavu na panelu nástrojů i na domovské obrazovce aplikace, takže snadno zjistíte, zda je vaše online aktivita chráněna, či nikoli. Tyto indikátory umožňují potvrdit, kdy je vaše komunikace soukromá a bezpečná. Kromě toho můžete během připojení navštívit <a href="{ $monitor }">https://monitor.mozilla.org/</a> a potvrdit, zda je vaše IP adresa maskována. Další podrobnosti naleznete v části <a href="{ $connected }">Jak zjistím, zda je { -brand-name-mozilla-vpn } připojena?</a>.
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } zobrazuje vizuální indikátory aktuálního stavu na nástrojové liště i na domovské obrazovce aplikace, takže snadno zjistíte, zda je vaše online aktivita chráněna, či nikoli. Tyto indikátory umožňují potvrdit, kdy je vaše komunikace soukromá a bezpečná. Kromě toho můžete během připojení navštívit <a href="{ $monitor }">https://monitor.mozilla.org/</a> a potvrdit, zda je vaše IP adresa maskována. Další podrobnosti naleznete v části <a href="{ $connected }">Jak zjistím, zda je { -brand-name-mozilla-vpn } připojena?</a>.
 vpn-download-faq-add-device = Jak přidám další zařízení?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
