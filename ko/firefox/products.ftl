@@ -52,3 +52,15 @@ firefox-products-support-mdn = { -brand-name-mdn } 지원하기
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = 하나의 빠른 앱에서 모든 이메일과 캘린더, 연락처를 이용하세요. 원하는 대로 필터링하고 구성하세요.
 firefox-products-download-thunderbird = { -brand-name-thunderbird } 다운로드
+
+## Solo
+
+firefox-products-solo = { -brand-name-solo }
+firefox-products-solo-desc = 즉시 멋진 웹 사이트를 만들어 비즈니스를 성장시킬 수 있습니다. 무료로 맞춤 도메인을 연결하고 호스팅하세요.
+firefox-products-learn-more-about-solo = { -brand-name-solo }에 대해 더 알아보기
+
+## 0DIN
+
+firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = GenAI 취약점을 조기에 발견하고 수정하는 데 도움을 주는 글로벌 보안 전문가 커뮤니티에 AI 시스템을 연결하세요.
+firefox-products-learn-more-about-0din = { -brand-name-0din }에 대해 더 알아보기
