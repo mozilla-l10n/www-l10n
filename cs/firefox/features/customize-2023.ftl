@@ -8,7 +8,7 @@
 features-customize-customize-your-firefox = Přizpůsobení prohlížeče { -brand-name-firefox }
 # HTML page description
 features-customize-choose-how-your-browser-looks = Vyberte si vzhled svého prohlížeče z tisíců bezplatných motivů.
-features-customize-firefox-themes-let-you-change = Motivy { -brand-name-firefox(case: "gen") } umožňují změnit vzhled prohlížeče. Nastavují barevné schéma nabídek prohlížeče, systémových stránek { -brand-name-firefox(case: "gen") } a mohou dokonce přidat obrázek na pozadí panelu nástrojů { -brand-name-firefox(case: "gen") }.
+features-customize-firefox-themes-let-you-change = Motivy { -brand-name-firefox(case: "gen") } umožňují změnit vzhled prohlížeče. Nastavují barevné schéma nabídek prohlížeče, systémových stránek { -brand-name-firefox(case: "gen") } a mohou dokonce přidat obrázek na pozadí nástrojové lišty { -brand-name-firefox(case: "gen") }.
 features-customize-firefox-comes-with-a-default = { -brand-name-firefox } je dodáván s výchozím systémovým tématem a je předinstalován se světlými, tmavými a barevnými variantami.
 # Used as accessible alternative text for an image
 features-customize-image-of-the-default-themes = Obrázek výchozích motivů, které jsou dodávány s { -brand-name-firefox(case: "ins") }, zobrazující světlé, tmavé a barevné varianty.
