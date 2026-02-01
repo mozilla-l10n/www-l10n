@@ -97,6 +97,7 @@
 -brand-name-irl-podcast = IRL podcast
 -brand-name-solo = Solo
 -brand-name-solo-ai = Solo UI
+-brand-name-0din = 0DIN
 -brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN web dokumenti
