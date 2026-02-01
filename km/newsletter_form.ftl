@@ -11,3 +11,4 @@ newsletter-form-select-country = ជ្រើស​ប្រទេស
 newsletter-form-sign-me-up = ចុះ​ឈ្មោះ​ខ្ញុំ
 newsletter-form-sign-up-now = ចុះឈ្មោះ​ឥឡូវ​នេះ​
 newsletter-form-thanks = អរគុណ!
+newsletter-form-yes = បាទ/ចាស៎

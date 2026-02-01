@@ -19,6 +19,7 @@ firefox-all-change-language = ជ្រើសរើសភាសាផ្សេ�
 firefox-all-down-arrow = ជ្រើសរើសពីបញ្ជីខាងក្រោម
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = ទទួលបានជំនួយ
+firefox-all-release-notes = កំណត់ចំណាំចេញផ្សាយ
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
