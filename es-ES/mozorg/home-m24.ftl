@@ -141,9 +141,14 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se está reinve
 # Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } se está reinventando a sí misma, diversificándose en torno a una constelación de organizaciones, reimaginando la publicidad y creando un ecosistema de IA de código abierto. Lee acerca de esto en el Informe sobre el estado de { -brand-name-mozilla } de { $year }.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v3 = Nos encontramos en una encrucijada para el futuro de la tecnología, con las grandes empresas de IA consolidando su poder. El informe Estado de { -brand-name-mozilla } del año { $year } es una invitación a elegir juntos un futuro diferente.
 # Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Pixel art abstracto en tonos de verde, naranja y rosa
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt-v2 = El texto ‘Elige tu futuro’ sobre un fondo amarillo pixelado.
 m24-home-read-the-report = Leer el informe
 
 ## Nothing Personal
