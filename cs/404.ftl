@@ -7,7 +7,7 @@
 
 not-found-page-not-found-page-page-not-found = 404: Stránka nebyla nalezena
 not-found-page-sorry-we-cant-find-that-page = Jejda, tuto stránku nemůžeme najít
-not-found-page-were-all-about-a-healthy-internet = Jde nám o zdravý internet, ale i tak se občas nějaká URL adresa rozbije.
+not-found-page-were-all-about-a-healthy-internet = Jde nám o zdravý internet, ale i tak se občas nějaká adresa URL rozbije.
 not-found-page-go-back = Zpátky
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/
