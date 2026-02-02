@@ -9,7 +9,7 @@ features-adblocker-how-to-stop-seeing-too = Kako zaustaviti prikazivanje previš
 features-adblocker-the-ad-blocker-a-secret = Bloker oglasa – tajno oružje protiv dosadnih oglasa.
 features-adblocker-so-many-ads-so-little = Puno oglasa, malo strpljenja … Vrijeme je da se zaustavi ludilo.
 features-adblocker-the-average-person-sees = Prosječna osoba dnevno vidi u prosjeku 4000 oglasa. Ako misliš da je to previše, bloker oglasa je tvoj novi najbolji prijatelj.
-features-adblocker-an-ad-blocker-is-a-piece = Bloker oglasa je softver koji služi blokiranju oglasa, a radi na dva načina. Prvi način je blokiranje signala s poslužitelja oglašivača, kako se oglas nikada ne bi prikazao na tvojoj stranici. Drugi način je blokiranje dijelova web stranice koji bi mogli biti oglasi.
+features-adblocker-an-ad-blocker-is-a-piece = Bloker oglasa je softver koji služi blokiranju oglasa, a radi na dva načina. Prvi način je blokiranje signala sa servera oglašivača, kako se oglas nikada ne bi prikazao na tvojoj stranici. Drugi način je blokiranje dijelova web-stranice koji bi mogli biti oglasi.
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
