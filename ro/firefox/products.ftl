@@ -52,3 +52,15 @@ firefox-products-support-mdn = Susține { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Accesează-ți toate adresele de e-mail, calendarele și contactele într-o singură aplicație rapidă. Filtrează-le și organizează-le cum vrei.
 firefox-products-download-thunderbird = Descarcă { -brand-name-thunderbird }
+
+## Solo
+
+firefox-products-solo = { -brand-name-solo }
+firefox-products-solo-desc = Creează instant un site web frumos pentru a-ți dezvolta afacerea. Conectează-te și găzduiește-ți domeniul personalizat gratuit.
+firefox-products-learn-more-about-solo = Află mai multe despre { -brand-name-solo }
+
+## 0DIN
+
+firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = Conectează sistemele AI la o comunitate globală de experți în securitate care descoperă și ajută la remedierea din timp a vulnerabilităților GenAI.
+firefox-products-learn-more-about-0din = Află mai multe despre { -brand-name-0din }
