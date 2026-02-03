@@ -52,3 +52,13 @@ firefox-products-support-mdn = Oipytyvõ { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Eike ne ñanduti veve, arapapaha ha eñe’ẽkuaaha tembiporu’i ipya’évape. Embogua ha emohenda eipotaháicha.
 firefox-products-download-thunderbird = Emboguejy { -brand-name-thunderbird }
+
+## Solo
+
+firefox-products-solo = { -brand-name-solo }
+firefox-products-learn-more-about-solo = Eikuaave { -brand-name-solo } rehegua
+
+## 0DIN
+
+firefox-products-0din = { -brand-name-0din }
+firefox-products-learn-more-about-0din = Eikuaave { -brand-name-0din } rehegua

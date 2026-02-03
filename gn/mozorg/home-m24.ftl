@@ -35,6 +35,9 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Eikuaa ne maranduete imarãkuaaha ha upévare ejoko teko katupyrýpe.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Ehovañomi ne ñanduti veve ha pumbyry papapy og̃uahẽ hag̃ua ñe’ẽmondo eipotávante.
+m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = Emoheñói ñanduti rogue iporãva embotuichave hag̃ua ñe ñemuha.
+m24-home-0din = { -brand-name-0din }
 
 ## Donate
 
@@ -60,7 +63,9 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Apoharakuéra
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders oipytyvõ mboguataharakuéra ijeheguívape omoheñóivo apopyrã IA ayvu ijurujáva omoambuekuaáva ñepytyvõ, mbosako’i ha tekoha oipotáva.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } oipytyvõ mboguatahára ijeheguívape omoheñóivo apopyrã IA ijayvu jurujáva omoambuekuaáva ñepytyvõ, mbosako’i ha tekoha rupive.
+m24-home-own-what-you = Eñemomba’e emoheñóivare
 m24-home-watch-now = Ema’ẽ ko’ág̃a
+m24-home-choice-first-stack = Eiporavo First Stack
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Ñe’ẽkuaahára tarímape apopyre ra’ãnga’i ndive.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
@@ -126,6 +131,7 @@ m24-home-read-the-report = Emoñe’ẽ marandu’i
 ## Nothing Personal
 
 m24-home-mozilla-nothing-personal = Nandereheguái
+m24-home-read-now = Emoñe’ẽ ko’ág̃a
 
 ## Issues
 

@@ -9,12 +9,14 @@
 privacy-firefox-basics = Ñemigua rehegua je’epy
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-youre-in-control = Ereko nde poguýpe
+privacy-firefox-youre-in-control-v2 = Nde ehechameméta ne mba’ekuaarã
 privacy-firefox-read-our-privacy = Emoñe’ẽ ore Marandu’i Ñemigua
 privacy-firefox-keeping-you-informed = Romomarandúta opaite ára
 privacy-firefox-we-believe-you = Rojerovia eikuaaha mba’éicha eiporúta ne mba’ekuaarãita ha mba’ére. { -brand-name-firefox } oñemoha’ãnga ojehechávo nde rekoñemi ha rekosakã eku’évo.
 privacy-firefox-transparency-first = Tekosakã opaite ára
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-how-we-use = Mba’éichapa jaiporu mba’ekuaarã
+privacy-firefox-how-we-use-v2 = Hekoñemi ijypykue rupi
 privacy-firefox-builtin-control = Tekorosã ñangareko
 privacy-firefox-always-protected = Oñemo’ã meméva
 privacy-firefox-privacy-that-works = Tekoñemi ndéve g̃uarã
