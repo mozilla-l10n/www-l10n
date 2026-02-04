@@ -118,10 +118,10 @@ m24-home-axios = Axios
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = The FT
-m24-home-rewiring-mozilla = 重塑 { -brand-name-mozilla }我们为 AI 带来的 Web 成就
-m24-home-interview-with-mark = 专访马克苏曼{ -brand-name-mozilla } 如何适应人工智能时代
-m24-home-women-in-product = 女性参与产品对话在不失去细节的情况下添加 GenAI
-m24-home-scaling-open-source = 扩展开源 AIMark Surman & Tim Brdshaw
+m24-home-rewiring-mozilla = 重构 { -brand-name-mozilla }：为 AI 做我们曾为网络所做之事
+m24-home-interview-with-mark = 专访马克·瑟曼：{ -brand-name-mozilla } 如何适应 AI 时代
+m24-home-women-in-product = Women In Product 对话：如何在引入生成式 AI 的同时，不迷失产品主线
+m24-home-scaling-open-source = 推进开源 AI 发展：马克·瑟曼对话蒂姆·布拉德肖
 
 ## Showcase
 
