@@ -139,7 +139,7 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } 正在重塑自
 # Variables
 # Obsolete string (expires: 2026-03-27)
 #   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } 重塑自我由众多组织实现多元化、重新构想广告行业并创建一个开源 AI 生态系统。在{ -brand-name-mozilla }州{ $year }州的报告中了解。
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } 正重塑自我，围绕一系列组织实现多元化，革新广告模式，并构建开源 AI 生态系统。请在《{ -brand-name-mozilla } { $year } 年度报告》中阅读相关信息。
 # Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = 我们正处在未来技术的交叉路口而大型 AI 公司正在整合力量。 { $year } 州{ -brand-name-mozilla } 州的报告邀请我们一起选择不一样的未来。
@@ -152,7 +152,7 @@ m24-home-read-the-report = 阅读报告
 
 ## Nothing Personal
 
-m24-home-our-new-magazine = 我们的新杂志为数字文化前线的独立思想者、技术人员和创意者提供。
+m24-home-our-new-magazine = 我们的新创杂志，专为身处数字文化前沿的独立思考者、技术人士、创意人士打造。
 m24-home-read-now = 立即阅读
 
 ## Issues
