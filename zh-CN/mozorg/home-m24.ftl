@@ -36,9 +36,9 @@ m24-home-get-a-headsup = 在个人信息面临风险时收到警告，并得心�
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = 掩藏邮箱地址和电话号码，将不请自来的邮件和信息拒之门外。
 m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = 即时创建美观网站拓展业务。
+m24-home-solo-desc = 即刻打造精美网站，助力业务腾飞。
 m24-home-0din = { -brand-name-0din }
-m24-home-0din-desc = 在攻击者之前发现并修复 GenAI 漏洞保护您的 AI。
+m24-home-0din-desc = 抢先发现并修复生成式 AI 漏洞，筑牢 AI 安全防线。
 
 ## Donate
 
