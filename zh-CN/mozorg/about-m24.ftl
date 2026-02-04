@@ -36,7 +36,7 @@ m24-about-we-fund-and = 我们资助和投资促进技术、互联网和 AI 向�
 
 m24-about-read-more = 详细了解
 m24-about-read-the-latest = 阅读最新的 { -brand-name-mozilla } 新闻和文章
-m24-about-rewiring-mozilla = 重塑 { -brand-name-mozilla }我们为 Web 所做的一切为 AI 带来的改变。了解我们的下一代战略以及我们如何让 { -brand-name-mozilla } 重获新生以迎接 AI 时代。
+m24-about-rewiring-mozilla = 重构 { -brand-name-mozilla }：为 AI 做我们曾为网络所做的贡献。阅读我们的下一代战略，以及我们如何改革 { -brand-name-mozilla } 以迎接 AI 时代。
 m24-about-what-comes-next = 科技的未来走向取决于选择，让我们共同抉择。
 m24-about-watch-here = 在此观看
 # "Double Bottom Line" refers to accounting for both money and mission values
