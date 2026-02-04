@@ -62,5 +62,5 @@ firefox-products-learn-more-about-solo = 详细了解 { -brand-name-solo }
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
-firefox-products-0din-desc = 将您的 AI 系统与全球安全专家社区相连谁能及早发现并帮助修复 GenAI 漏洞。
+firefox-products-0din-desc = 将您的 AI 系统与全球安全专家社区相连接，及早发现并协同修复生成式 AI 漏洞。
 firefox-products-learn-more-about-0din = 详细了解 { -brand-name-0din }
