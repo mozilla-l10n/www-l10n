@@ -139,15 +139,15 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } 正在重塑自
 # Variables
 # Obsolete string (expires: 2026-03-27)
 #   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } 正重塑自我，围绕一系列组织实现多元化，革新广告模式，并构建开源 AI 生态系统。请在《{ -brand-name-mozilla } { $year } 年度报告》中阅读相关信息。
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } 正重塑自我，围绕一系列组织实现多元化，革新广告模式，并构建开源 AI 生态系统。请在《{ $year } 年 { -brand-name-mozilla } 状况报告》中阅读相关信息。
 # Variables
 #   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v3 = 我们正处在未来技术的交叉路口而大型 AI 公司正在整合力量。 { $year } 州{ -brand-name-mozilla } 州的报告邀请我们一起选择不一样的未来。
+m24-home-mozilla-is-reinventing-itself-v3 = AI 巨头正不断巩固其权力，我们已走到未来科技发展的十字路口。《{ $year } 年 { -brand-name-mozilla } 状况报告》诚邀您共同选择不一样的未来。
 # Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = 绿色、橙色和粉色相间的抽象像素画
 # Used as an accessible text alternative for an image
-m24-home-state-of-mozilla-alt-v2 = 黄色像素化背景上的“选择你的未来”
+m24-home-state-of-mozilla-alt-v2 = 黄色像素化背景上的“选择你的未来”文字
 m24-home-read-the-report = 阅读报告
 
 ## Nothing Personal
