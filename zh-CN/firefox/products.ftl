@@ -56,7 +56,7 @@ firefox-products-download-thunderbird = 下载 { -brand-name-thunderbird }
 ## Solo
 
 firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = 即时创建美观网站拓展业务。免费连接和托管您的自定义域名。
+firefox-products-solo-desc = 即刻打造精美网站，助力业务腾飞。可免费连接并托管自定义域名。
 firefox-products-learn-more-about-solo = 详细了解 { -brand-name-solo }
 
 ## 0DIN
