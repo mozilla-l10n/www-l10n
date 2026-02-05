@@ -23,6 +23,6 @@ mobile-focus-private-browsing-on-v2 = Le “navigation anonyme” sur le major p
 mobile-focus-tracking-protection = Protection contra le traciamento
 mobile-focus-firefox-focus-blocks = { -brand-name-firefox-focus } bloca per predefinition un grande varietate de traciatores commun, como traciatores social e le traciatores persistente que proveni de cosas como annuncios de { -brand-name-facebook }.
 mobile-focus-see-it-all = Attinge toto plus rapidemente
-mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } remove traciatores assi que le paginas que tu visualisa require minus datos e carga multo plus velocemente. Alsi, appuncta usque quatro vias breve sur tu pagina initial e accede a tu sitos favorite mesmo plus facilemente sin scriber alco.
+mobile-focus-focus-removes-trackers-v3 = { -brand-name-focus } remove traciatores de sorta que le paginas que tu visita require minus datos e se carga multo plus rapidemente. Tu pote etiam fixar usque a quatro accessos directe sur tu pagina initial pro acceder a tu sitos favorite mesmo plus rapidemente sin scriber alco.
 mobile-focus-made-by-mozilla = Facite per { -brand-name-mozilla }
 mobile-focus-we-believe-everyone = Nos crede que cata uno deberea haber le controlo de su vita in linea. Es pro isto que nos lucta desde 1998.
