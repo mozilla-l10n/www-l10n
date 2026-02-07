@@ -12,6 +12,7 @@ privacy-firefox-youre-in-control = Kontrol sizde
 privacy-firefox-youre-in-control-v2 = Verilerinizin kontrolü sizde
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = Gizlilik sadece bir ayar değil, sizin hakkınız. Bu yüzden { -brand-name-firefox } Gizlilik Bildirimi’ni açıklık, kontrol imkânı ve sorumlu varsayılan ayarlar üzerine inşa ettik. Bize göre, verilerinize ne olacağına her zaman siz karar verebilmelisiniz. { -brand-name-firefox }’un varsayılan olarak neler yaptığını net bir şekilde öğrenebilir, istediğiniz şekilde gezinebilmeniz için ayarlarınızı değiştirebilirsiniz.
+privacy-firefox-privacy-isnt-just-v2 = İşin özeti şu: { -brand-name-firefox }’u gizlilik ve koruma odaklı olarak tasarladık. Sizin hakkınızda fazla bir şey bilmiyoruz. Bildiğimiz çok az şeyi de asla satmıyoruz. Diğer tarayıcıların aksine, canınızı sıkan şeyleri kapatma seçeneği sunuyoruz. { -brand-name-firefox } Gizlilik Bildirimi; açıklık, kontrol imkânı ve sorumlu varsayılanlar üzerine inşa edildi. { -brand-name-firefox }’un varsayılan olarak neler yaptığını her zaman net bir şekilde açıklayacağımıza ve istediğiniz gibi gezinebilmeniz için ayarlarınızı değiştirebileceğinize söz veriyoruz.
 privacy-firefox-read-our-privacy = Gizlilik Bildirimimizi okuyun
 privacy-firefox-keeping-you-informed = Her adımda sizi bilgilendiriyoruz
 privacy-firefox-we-believe-you = Verilerinizin nasıl ve neden kullanıldığını bilmeniz gerektiğini düşünüyoruz. { -brand-name-firefox }, gizlilik ve her adımda şeffaflık düşünülerek tasarlandı.
