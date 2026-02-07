@@ -42,7 +42,7 @@
 
 -brand-name-beta = Бета
 -brand-name-developer-edition = Нашри таҳиякунанда
--brand-name-enterprise = Корхонавӣ
+-brand-name-enterprise = Барои корхона
 -brand-name-esr = ESR
 -brand-name-focus = Focus
 -brand-name-nightly = Nightly
