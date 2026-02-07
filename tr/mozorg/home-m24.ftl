@@ -161,6 +161,7 @@ m24-home-read-now = Şimdi okuyun
 
 m24-home-explore-issues-shaping = İnternetin geleceğini şekillendiren sorunları keşfedin
 m24-home-the-validation-machines = The Validation Machines
+m24-home-in-the-atlantic = { -brand-name-mozilla } CTO’su Raffi Krikorian, sohbet botlarının ve üretken yapay zekânın bizi memnun etmeye neden bu kadar hevesli olduğunu ve bunun insanlık için anlamını The Atlantic’te sorguluyor. (Görsel: The Atlantic)
 # Used as an accessible text alternative for an image
 m24-home-alt-validation = Büyük bir klavye tuşuna bakan küçük bir insan ve hipnotize edici bir bilgisayar ekranı
 # Used as an accessible text alternative for an image
