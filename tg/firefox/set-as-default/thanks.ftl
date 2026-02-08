@@ -7,7 +7,7 @@
 
 # HTML page title
 set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = Ташаккур барои интихоб кардани «{ -brand-name-firefox }»
-set-as-default-thanks-success-your-default-browser = Муваффақият! Браузери стандартии шумо ба браузери «{ -brand-name-firefox }» гузошта шудааст.
+set-as-default-thanks-success-your-default-browser = Муваффақият! Браузери пешфарзи шумо ба браузери «{ -brand-name-firefox }» гузошта шудааст.
 set-as-default-thanks-looks-like-youre-using-a = Чунин ба назар мерасад, ки шумо ҳоло аз браузери дигар истифода мебаред. Боварӣ ҳосил кунед, ки шумо браузери «{ -brand-name-firefox }»-ро ба дастгоҳи худ боргирӣ кардаед.
 # When a visitor sees this message a system dialog will also open on screen.
 set-as-default-thanks-youre-almost-done-just-change = Шумо қариб ҳамаи амалҳоро ба анҷом расонидед. Танҳо дар экрани худ тавассути лавҳаи танзимот браузери пешфарзи худро ба «{ -brand-name-firefox }» иваз кунед.
