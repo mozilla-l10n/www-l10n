@@ -52,3 +52,7 @@ firefox-products-support-mdn = ร่วมสนับสนุน { -brand-nam
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = เข้าถึงอีเมล ปฏิทิน และผู้ติดต่อทั้งหมดของคุณในแอปเดียวที่รวดเร็ว รวมทั้งกรองและจัดระเบียบในแบบที่คุณต้องการ
 firefox-products-download-thunderbird = ดาวน์โหลด { -brand-name-thunderbird }
+
+## Solo
+
+firefox-products-learn-more-about-solo = เรียนรู้เพิ่มเติมเกี่ยวกับ { -brand-name-solo }

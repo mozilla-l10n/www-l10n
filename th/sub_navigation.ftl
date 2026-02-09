@@ -14,6 +14,7 @@ sub-navigation-ios = { -brand-name-ios }
 sub-navigation-desktop-beta-and-developer = เดสก์ท็อป { -brand-name-beta } และ { -brand-name-developer-edition }
 sub-navigation-desktop-nightly = เดสก์ท็อป { -brand-name-nightly }
 sub-navigation-features = คุณลักษณะ
+sub-navigation-more = เพิ่มเติม
 sub-navigation-chromebook = { -brand-name-chromebook }
 sub-navigation-windows = { -brand-name-windows }
 sub-navigation-windows-64-bit = { -brand-name-windows } 64 บิต

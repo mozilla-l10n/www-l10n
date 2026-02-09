@@ -78,9 +78,12 @@ m24-home-tag-article = บทความ
 m24-home-tag-podcast = พอดแคสต์
 m24-home-tag-video = วิดีโอ
 m24-home-topic-news = ข่าว
+m24-home-topic-products = ผลิตภัณฑ์
 m24-home-topic-ai = ปัญญาประดิษฐ์
 m24-home-topic-ps = ความเป็นส่วนตัวและความปลอดภัย
 m24-home-headline-you-ai-v2 = มีอะไรเกิดขึ้นบ้างเกี่ยวกับตัวคุณ AI และอินเทอร์เน็ต?
+m24-home-the-guardian = The Guardian
+m24-home-axios = Axios
 
 ## Showcase
 

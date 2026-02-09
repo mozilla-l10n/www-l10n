@@ -29,6 +29,8 @@ newsletter-form-available-languages = ภาษาที่มี
 newsletter-form-select-country = เลือกประเทศ
 newsletter-form-sign-me-up = ลงทะเบียน
 newsletter-form-sign-up-now = ลงทะเบียนตอนนี้
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = กำลังส่ง
 newsletter-form-thanks = ขอบคุณ!
 newsletter-form-leave-this-field-empty = เว้นช่องนี้ว่างไว้
 newsletter-form-yes = ใช่

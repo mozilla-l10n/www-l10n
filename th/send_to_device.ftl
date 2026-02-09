@@ -7,6 +7,8 @@ send-to-device-your-download-link = ส่งลิงก์ดาวน์โ�
 send-to-device-please-enter-an-email = โปรดป้อนที่อยู่อีเมล
 send-to-device-an-error-occured = เกิดข้อผิดพลาดในระบบของเรา โปรดลองอีกครั้ง
 send-to-device-enter-your-email = ป้อนอีเมลของคุณ
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = yourname@example.com
 send-to-device-send = ส่ง
 send-to-device-intended-recipient-email = ต้องได้ยินยอมเป็นผู้รับของอีเมล
 send-to-device-check-your-device-email = ตรวจสอบอุปกรณ์ของคุณสำหรับอีเมล!

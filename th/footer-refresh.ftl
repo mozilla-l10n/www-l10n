@@ -21,6 +21,7 @@ footer-refresh-support = ฝ่ายสนับสนุน
 footer-refresh-product-help = ความช่วยเหลือผลิตภัณฑ์
 footer-refresh-file-a-bug = รายงานบั๊ก
 footer-refresh-localize-mozilla = ร่วมแปล { -brand-name-mozilla } เป็นภาษาท้องถิ่น
+footer-refresh-security = ความปลอดภัย
 footer-refresh-developers = นักพัฒนา
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
