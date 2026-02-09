@@ -7,3 +7,6 @@
 
 page-gone-title = ਇਸ ਸਫ਼ੇ ਨੂੰ ਹਟਾਇਆ ਜਾ ਚੁੱਕਾ ਹੈ
 gone-page-go-back = ਪਿੱਛੇ ਜਾਓ
+# Variables:
+#   $products (attr) - attributes to be added to the <a> tag - href="/products/"
+gone-page-browse-products = ਸਾਡੇ <a { $products }>ਉਤਪਾਦਾਂ</a> ਨੂੰ ਵੇਖੋ।
