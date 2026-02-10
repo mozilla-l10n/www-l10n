@@ -10,7 +10,7 @@ features-private-is-firefox-a-private-browser = Je { -brand-name-firefox } dův�
 features-private-were-focused-on-your-right-to = Zaměřujeme se na vaše právo na soukromí. Vaše data, vaše webové aktivity a váš život online jsou  pomocí { -brand-name-firefox(case: "gen") } chráněny.
 # Variables:
 #   $url (url) = link to https://www.mozilla.org/firefox/features/private-browsing/
-features-private-yes-firefox-protects-your = Ano. { -brand-name-firefox } chrání vaše soukromí pomocí funkcí, jako je <a href="{ $url }">anonymní prohlížení</a>. Umožňuje vám zachovat historii procházení a hesla v soukromí, i když používáte zařízení, které sdílíte s dalšími lidmi, například domácí počítač nebo { -brand-name-ipad }.
+features-private-yes-firefox-protects-your = Ano. { -brand-name-firefox } chrání vaše soukromí pomocí funkcí, jako je <a href="{ $url }">anonymní prohlížení</a>. Umožňuje vám zachovat historii prohlížení a hesla v soukromí, i když používáte zařízení, které sdílíte s dalšími lidmi, například domácí počítač nebo { -brand-name-ipad }.
 # Variables:
 #   $url (url) = link to https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop
 features-private-firefox-also-protects-your = { -brand-name-firefox } také chrání vaše soukromí pomocí <a href="{ $url }">rozšířené ochrany proti sledování</a>, která blokuje sledovací programy, jež vás sledují z webu na web a shromažďují informace o vašich zvyklostech při prohlížení. Zahrnuje také ochranu proti škodlivým skriptům a malwaru.
