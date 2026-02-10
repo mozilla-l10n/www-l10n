@@ -52,7 +52,7 @@ vpn-pricing-we-adhere-strictly = We adhere strictly to { -brand-name-mozilla }�
 vpn-pricing-how-do-i-manage = How do I manage my subscription and change my plan?
 # Variables
 # $manage (url) - link to subscription management page
-vpn-pricing-if-already-subscribed = If you’re already subscribed to { -brand-name-mozilla-vpn }, you can change your plan or <a { $manage }>manage your subscription</a> anytime.
+vpn-pricing-if-already-subscribed = If you’re already subscribed to { -brand-name-mozilla-vpn }, you can change your plan or <a { $manage }>manage your subscription</a> at any time.
 
 ## Mobile only subscription copy
 
