@@ -12,3 +12,5 @@ newsletter-form-sign-me-up = ចុះ​ឈ្មោះ​ខ្ញុំ
 newsletter-form-sign-up-now = ចុះឈ្មោះ​ឥឡូវ​នេះ​
 newsletter-form-thanks = អរគុណ!
 newsletter-form-yes = បាទ/ចាស៎
+# An accessible label used to describe purpose of the form.
+newsletter-form-label = ទម្រង់ចុះឈ្មោះព្រឹត្តិប័ត្រព័ត៌មាន
