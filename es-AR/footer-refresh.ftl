@@ -11,7 +11,7 @@ footer-refresh-learn-more-about-mozilla-ads = Conocer más <span>sobre { footer-
 footer-refresh-learn-more-about-mozilla-advertising = Conocer más <span>sobre la publicidad de { -brand-name-mozilla }</span>
 footer-refresh-firefox-release-notes = Notas de la versión de { -brand-name-firefox }
 # Obsolete string (expires 2026-03-13)
-footer-refresh-extend-reach = Amplíe el alcance y profundice la confianza.
+footer-refresh-extend-reach = Ampliar el alcance. Profundizar la confianza.
 footer-refresh-add-trust-to = Agrega confianza a tu compra de publicidad.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Seguir a @{ -brand-name-mozilla }

@@ -56,7 +56,7 @@ firefox-products-download-thunderbird = Descargá { -brand-name-thunderbird }
 ## Solo
 
 firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = Creá instantáneamente un hermoso sitio web para que puedas hacer crecer tu negocio. Conéctese y aloje su dominio personalizado de forma gratuita.
+firefox-products-solo-desc = Creá instantáneamente un hermoso sitio web para que podás hacer crecer tu negocio. Conectate y alojá tu dominio personalizado de forma gratuita.
 firefox-products-learn-more-about-solo = Conocer más sobre { -brand-name-solo }
 
 ## 0DIN
