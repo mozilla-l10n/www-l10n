@@ -69,7 +69,7 @@ m24-home-builders-helps-independent = Builders ayuda a los desarrolladores indep
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } ayuda a los desarrolladores independientes a crear proyectos transformadores de IA de código abierto a través de colaboraciones, programación y comunidad hechas a medida.
 m24-home-own-what-you = Apropiate de lo que construís
 # "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
-m24-home-do-we-need-a = ¿Necesitamos una "pila LAMP" para la era de la IA? Necesitamos tecnología que sea transparente, responsable y propiedad de las personas que la usan.
+m24-home-do-we-need-a = ¿Necesitamos una “LAMP Stack” para la era de la IA? Necesitamos tecnología que sea transparente, responsable y propiedad de las personas que la usan.
 m24-home-watch-now = Mirá ahora
 m24-home-choice-first-stack = Elección en primer lugar
 m24-home-your-tools-your = Sus herramientas, su elección. Una pila unificada de código abierto que simplifica la creación y prueba de agentes y aplicaciones de IA modernos.
