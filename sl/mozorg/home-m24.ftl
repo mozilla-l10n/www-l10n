@@ -93,7 +93,6 @@ m24-home-headline-you-ai-v2 = Vi, umetna inteligenca in internet – kaj se prav
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Predstavljamo Thundermail in Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Predstavljamo { -brand-name-thundermail } in { -brand-name-thunderbird-pro }
-m24-home-what-comes-next = Kar je v tehnologiji naslednje na vrsti, je izbira. Izberite z nami.
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-mozillas-new-message = { -brand-name-mozilla(sklon: "dajalnik") }no novo sporočilo: Smo edini brskalnik, za katerim ne stojijo milijarderji
