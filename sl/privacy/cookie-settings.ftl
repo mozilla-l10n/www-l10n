@@ -26,6 +26,10 @@ cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } nu
 
 ## Preference cookies section
 
+cookie-settings-category-preference-heading = Nastavitve
+cookie-settings-category-preference-what-are-subheading = Kaj so nastavitveni piškotki?
+cookie-settings-category-preference-what-are-desc = Te tehnologije so namenjene shranjevanju izbir, ki ste jih sprejeli ob prejšnjem obisku spletnega mesta – na primer jezika, v katerem najraje berete, ali barvne teme, ki vam je najljubša.
+cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } z uporabo nastavitvenih piškotkov upošteva vaše nastavitve in izboljša vašo izkušnjo ob obisku naših spletnih strani. Ne uporabljajo se za analitične namene. Nastavitveni piškotki podpirajo funkcije podobno kot nujni piškotki, vendar lahko spletno mesto deluje tudi brez njih. Zato se lahko odločite, da onemogočite njihovo uporabo.
 
 ## Analytics cookies section
 

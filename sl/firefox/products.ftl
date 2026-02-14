@@ -51,3 +51,13 @@ firefox-products-support-mdn = Podprite { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Delo z e-pošto, koledarji in stiki v eni hitri aplikaciji. Filtrirajte in organizirajte jih po svojih željah.
 firefox-products-download-thunderbird = Prenesite { -brand-name-thunderbird }
+
+## Solo
+
+firefox-products-solo = { -brand-name-solo }
+firefox-products-learn-more-about-solo = Več o orodju { -brand-name-solo }
+
+## 0DIN
+
+firefox-products-0din = { -brand-name-0din }
+firefox-products-learn-more-about-0din = Več o omrežju { -brand-name-0din }
