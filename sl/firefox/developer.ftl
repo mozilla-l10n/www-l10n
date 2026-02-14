@@ -79,3 +79,6 @@ firefox-developer-resources-for-developers = Viri za razvijalce, od razvijalcev
 firefox-developer-mdn-playground = Igrišče
 firefox-developer-mdn-write-test-and-share = Pišite, preskušajte in delite svojo kodo. Vaše igrišče, kjer se lahko učite in svoje izdelke pokažete svetu.
 firefox-developer-mdn-blog = Blog { -brand-name-mdn }
+firefox-developer-mdn-unlock-the-world = Odklenite svet spletnega razvoja z blogom { -brand-name-mdn } – vašim priljubljenim središčem strokovnih vpogledov, najnovejših spletnih standardov in nasvetov za programiranje.
+firefox-developer-mdn-updates = Posodobitve
+firefox-developer-mdn-the-web-doesnt-have = Splet nima dnevnika sprememb, vendar { -brand-name-mdn } lahko pomaga. Spremembe združljivosti lahko prilagodite in filtrirate glede na brskalnik ali tehnološko kategorijo, ki vas zanima, naj bo to JavaScript, CSS itd.

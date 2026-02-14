@@ -35,13 +35,19 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = รับการแจ้งเตือนหากข้อมูลส่วนตัวของคุณมีความเสี่ยงและล็อกข้อมูลอย่างมืออาชีพ
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = ปกปิดอีเมลและหมายเลขโทรศัพท์ของคุณเพื่อให้คุณได้รับเฉพาะข้อความที่คุณต้องการ
+m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = สร้างเว็บไซต์ที่สวยงามได้ทันทีเพื่อให้ธุรกิจของคุณเติบโต
+m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = ปกป้อง AI ของคุณด้วยการค้นหาและแก้ไขช่องโหว่ของ GenAI ก่อนที่ผู้โจมตีจะเข้ามา
 
 ## Donate
 
 # Obsolete string (expires 04-12-2025)
 m24-home-donate-to-the = บริจาคให้กับองค์กรไม่แสวงหากำไร { -brand-name-mozilla }
+m24-home-donate-to-v2 = บริจาคให้กับ { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
 m24-home-mozilla-is-building = { -brand-name-mozilla } กำลังสร้างขบวนการที่จะทวงคืนอินเทอร์เน็ตอีกครั้ง เราสามารถร่วมกันสร้างอนาคตที่ความเป็นส่วนตัวของเราจะได้รับการปกป้อง AI จะเป็นสิ่งที่น่าเชื่อถือได้ และเปลี่ยนแปลงบริษัทเทคโนโลยีที่ไม่มีความรับผิดชอบให้มีความรับผิดชอบให้ได้ แต่สิ่งเหล่านั้นจะเป็นไปได้ก็ต่อเมื่อเราทำมันร่วมกัน
+m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } กำลังสร้างอนาคตที่เทคโนโลยีขับเคลื่อนด้วยผู้คน และเปิดกว้างตั้งแต่เริ่มต้น นั่นคือเหตุผลที่เราสนับสนุนเทคโนโลยีที่เน้นชุมชนเป็นศูนย์กลางผ่านการสนับสนุน การให้ความรู้ การให้ทุน และนวัตกรรม เพื่อให้แน่ใจว่าอนาคตของเทคโนโลยีจะเป็นประโยชน์ต่อทุกคน แต่สิ่งนี้จะเกิดขึ้นได้ก็ต่อเมื่อเราร่วมมือกัน
 m24-home-were-proudly-nonprofit = เราภูมิใจที่ไม่แสวงหากำไร คุณจะบริจาคให้ { -brand-name-mozilla } วันนี้ไหม?
 m24-home-donate = บริจาค
 
@@ -61,11 +67,18 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders ช่วยนักพัฒนาอิสระสร้างโครงการ AI โอเพนซอร์สซึ่งเปลี่ยนแปลงโลกได้ผ่านการร่วมมือกัน การเขียนโปรแกรม และชุมชน
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } ช่วยนักพัฒนาอิสระสร้างโครงการ AI โอเพนซอร์สซึ่งเปลี่ยนแปลงโลกได้ผ่านการร่วมมือกัน การเขียนโปรแกรม และชุมชน
+m24-home-own-what-you = เป็นเจ้าของสิ่งที่คุณสร้างขึ้น
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = เราจำเป็นต้องมี “LAMP Stack” สำหรับยุค AI หรือไม่? เราต้องการเทคโนโลยีที่โปร่งใส ตรวจสอบได้ และเป็นกรรมสิทธิ์ของผู้ใช้งาน
 m24-home-watch-now = ชมเลยตอนนี้
+m24-home-choice-first-stack = ชุดซอฟต์แวร์ที่ให้ทางเลือกมาก่อน
+m24-home-your-tools-your = เครื่องมือของคุณ ทางเลือกของคุณ ชุดซอฟต์แวร์โอเพนซอร์สแบบครบวงจรที่ช่วยให้การสร้างและทดสอบเอเจนต์และแอปพลิเคชัน AI สมัยใหม่ทำได้ง่ายขึ้น
+m24-home-get-started-now = เริ่มต้นเลยตอนนี้
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = ผู้พูดยืนอยู่บนเวทีพร้อมด้วยโลโก้ผลิตภัณฑ์หลายอย่าง
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = มีธุรกิจสตาร์ทอัปที่ยังอยู่ในช่วงเริ่มต้นไหม? โฆษณาบริษัทของคุณกับ { -brand-name-mozilla-ventures } และรับเงินทุนเพื่อขับเคลื่อนการเปลี่ยนแปลงในเชิงบวกสำหรับอนาคตของ AI และอินเทอร์เน็ต
+m24-home-join-today = เข้าร่วมวันนี้
 
 ## Media Springboard
 

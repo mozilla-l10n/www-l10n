@@ -21,6 +21,9 @@ browser-history-web-era = Doba spleta
 browser-history-british-computer = Britanski informatik Tim Berners-Lee je prvi spletni strežnik in grafični spletni brskalnik ustvaril leta 1990, ko je bil <a href="{ $cern }">zaposlen na inštitutu CERN</a> v Švici. Svoje novo okno v internet je poimenoval "WorldWideWeb". To je bil program za računalnike NeXT z grafičnim vmesnikom, preprostim za uporabo. Berners-Lee je prvi povezal dokumente z besedilom v celoto preko javnega omrežja – v splet, kakršnega poznamo danes.
 browser-history-a-year-later-berners = Leto pozneje je Berners-Lee študentki matematike na inštitutu CERN Nicoli Pellow zadal nalogo, naj ustvari Line Mode Browser, program za osnovne računalniške terminale.
 # Variables:
+#   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
+browser-history-by-1993-the-web = Do leta 1993 je splet eksplodiral. V odprtem internetu so priložnost videle univerze, vlade in zasebne družbe. Vsi so za dostop potrebovali nove računalniške programe. Tega leta je informatik Marc Andreessen v Nacionalnem centru za superračunalniške aplikacije (NCSA) na univerzi v Illinoisu ustvaril Mosaic. To je bil prvi priljubljen spletni brskalnik in zgodnji prednik <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox(sklon: "rodilnik") }</a>.
+# Variables:
 #   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
 browser-history-ncsa-mosaic-ran = NCSA Mosaic je deloval na računalnikih { -brand-name-windows }, bil je preprost za uporabo in je vsakemu lastniku osebnega računalnika omogočil dostop do zgodnjih spletnih strani, klepetalnic in knjižnic slik. Naslednjega leta (1994) je Andreessen ustanovil <a href="{ $netscape }">{ -brand-name-netscape }</a> in javnosti predstavil { -brand-name-netscape } Navigator. Doživel je izjemen uspeh in postal prvi ljudski brskalnik. Bil je tudi prva poteza v vojni za uporabnike interneta.
 browser-history-the-browser-wars = Vojne brskalnikov

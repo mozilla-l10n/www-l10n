@@ -115,7 +115,13 @@ m24-home-state-of-mozilla = Stanje { -brand-name-mozilla(sklon: "rodilnik") }
 # Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstraktna umetnost iz pikslov v zelenih, oranžnih in roza odtenkih
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt-v2 = Besedilo "Izberite svojo prihodnost" na rumenem pikseliziranem ozadju
 m24-home-read-the-report = Preberite poročilo
+
+## Nothing Personal
+
+m24-home-read-now = Preberite zdaj
 
 ## Issues
 

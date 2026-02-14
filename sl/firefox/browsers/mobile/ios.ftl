@@ -22,6 +22,7 @@ mobile-ios-your-browsing-history = Vaša zgodovina brskanja je zgodovina
 mobile-ios-if-you-want = Kadarkoli želite, se lahko preprosto odločite za iskanje v zasebnem brskanju. Ko zaprete način zasebnega brskanja, se zgodovina brskanja in piškotki samodejno izbrišejo iz naprave.
 mobile-ios-get-more-firefox = Sprejmite več { -brand-name-firefox(sklon: "rodilnik") } v svoje življenje
 mobile-ios-add-firefox-across-v2 = Namestite { -brand-name-firefox(sklon: "tozilnik") } na vse svoje naprave za varno brskanje brez prekinitev. S sinhronizacijo naprav imejte zaznamke, shranjene prijave, gesla in zgodovino brskanja s seboj, kamorkoli greste. Poleg tega si lahko odprte zavihke pošiljate med telefonom in računalnikom, da nadaljujete tam, kjer ste končali.
+mobile-ios-get-to-your-go-to = Hitreje pridite do svojih priljubljenih mest na napravah { -brand-name-iphone } in { -brand-name-ipad }.
 mobile-ios-see-your-open-tabs = Imejte odprte zavihke, pretekla iskanja in priljubljena spletna mesta na enem mestu z { -brand-name-firefox-browser(sklon: "orodnik") } za { -brand-name-ios }.
 mobile-ios-own-your-home = Obvladajte domači zaslon
 mobile-ios-get-to-the-parts = Skrajšajte si pot do spletnih mest, ki so vam pomembna. Izberite prikaz vseh odprtih zavihkov, nedavnih iskanj, zaznamkov in priljubljenih strani na enem mestu.
