@@ -40,3 +40,7 @@ vpn-download-also-available = Na voljo tudi za:
 vpn-download-from-the-maker = { -brand-name-mozilla-vpn }, izdelek organizacije, ki razvija tudi { -brand-name-firefox(sklon: "tozilnik") }, za šifriranje vaše spletne dejavnosti in zakrivanje vaše lokacije uporablja napredni protokol <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®.
 vpn-download-we-never-log = Vaših omrežnih podatkov nikoli ne beležimo, sledimo ali delimo naprej.
 vpn-download-previous-versions = Prenos starejših različic za { -brand-name-windows } in { -brand-name-mac-short }
+vpn-download-install-via-flathub = Namesti prek Flathuba
+vpn-download-install-via-apt = Namesti prek APT
+vpn-download-flathub = Flathub
+vpn-download-apt = APT

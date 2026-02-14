@@ -21,6 +21,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = { -brand-name-firefox } รุ่นใหม่มีให้ใช้แล้ว <a { $update_url }>อัปเดตเป็นรุ่นล่าสุด</a>
 firefox-desktop-download-get-the-browser = รับเบราว์เซอร์ที่ปกป้องสิ่งที่สำคัญ
 firefox-desktop-download-fast-reliable-private = รวดเร็ว เชื่อถือได้ และเป็นส่วนตัว เพื่อความอุ่นใจทางออนไลน์
+firefox-desktop-set-as-default = ตั้ง { -brand-name-firefox } เป็นเบราว์เซอร์เริ่มต้นของคุณ
 firefox-desktop-download-download-options = ตัวเลือกการดาวน์โหลดและภาษาอื่น ๆ
 firefox-desktop-download-browser-support = การสนับสนุน { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

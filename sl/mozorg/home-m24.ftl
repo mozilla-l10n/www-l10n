@@ -35,6 +35,10 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Bodite obveščeni, če se vaši osebni podatki znajdejo v nevarnosti, in jih obvarujte kot profesionalec.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Zakrijte svoj e-poštni naslov in telefonsko številko; naj vas dosežejo samo sporočila, ki jih res želite.
+m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = V trenutku ustvarite čudovito spletno stran za svoje podjetje.
+m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = Zavarujte svojo umetno inteligenco z odkritjem in odpravo ranljivosti GenAI, še preden to uspe napadalcem.
 
 ## Donate
 
@@ -59,10 +63,15 @@ m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+m24-home-own-what-you = Bodite lastniki svojih stvaritev
 m24-home-watch-now = Glejte zdaj
+m24-home-get-started-now = Začnite zdaj
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Govorec na odru z logotipi več izdelkov.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-join-today = Pridružite se danes
+# Obsolete string (expires 2026-04-05)
+m24-home-any-agent = Katerikoli agent
 
 ## Media Springboard
 
@@ -84,11 +93,13 @@ m24-home-headline-you-ai-v2 = Vi, umetna inteligenca in internet – kaj se prav
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Predstavljamo Thundermail in Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Predstavljamo { -brand-name-thundermail } in { -brand-name-thunderbird-pro }
+m24-home-what-comes-next = Kar je v tehnologiji naslednje na vrsti, je izbira. Izberite z nami.
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-mozillas-new-message = { -brand-name-mozilla(sklon: "dajalnik") }no novo sporočilo: Smo edini brskalnik, za katerim ne stojijo milijarderji
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-interview-with-mark = Intervju z Markom Surmanom: Kako se { -brand-name-mozilla } prilagaja dobi umetne inteligence
 
 ## Showcase
 
