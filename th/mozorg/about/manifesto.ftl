@@ -55,11 +55,13 @@ manifesto-details-as-a-result-of = ด้วยผลของความพย
 manifesto-details-the-goals-for = เป้าหมายของแถลงการณ์คือ:
 # Obsolete string (expires 19-10-2025)
 manifesto-details-articulate-a-vision = อธิบายวิสัยทัศน์สำหรับอินเทอร์เน็ตที่ผู้เข้าร่วมกับ { -brand-name-mozilla } ต้องให้ { -brand-name-mozilla-foundation } ปฏิบัติตาม
+manifesto-details-articulate-a-vision-v2 = อธิบายวิสัยทัศน์สำหรับอินเทอร์เน็ตที่ผู้เข้าร่วมกับ { -brand-name-mozilla } ต้องการให้ { -brand-name-mozilla-foundation } ปฏิบัติตาม
 manifesto-details-speak-to-people = พูดคุยกับผู้คนแม้ว่าเขาจะมีความรู้ด้านเทคนิคหรือไม่ก็ตาม
 manifesto-details-make-mozilla-contributors = ทำให้ผู้มีส่วนร่วมกับ { -brand-name-mozilla } ภูมิใจในสิ่งที่เราทำและดลใจให้เราทำต่อไป และ
 manifesto-details-provide-a-framework = ให้กรอบงานสำหรับผู้อื่นเพื่อความก้าวหน้าตามวิสัยทัศน์นี้ของอินเทอร์เน็ต
 # Obsolete string (expires 19-10-2025)
 manifesto-details-these-principles = หลักการเหล่านี้จะไม่มาสู่ชีวิตจริงด้วยตัวมันเอง การใช้ทำอินเทอร์เน็ตเปิดกว้างและมีส่วนร่วมได้ต้องทำโดยคน ทั้งแบบส่วนตัวและทำงานร่วมกันเป็นกลุ่ม และนำทางผู้อื่น { -brand-name-mozilla-foundation } มุ่งมั่นที่จะก้าวหน้าตามหลักการที่ประกาศไว้ในแถลงการณ์ { -brand-name-mozilla } เราเชิญคนอื่น ๆ มาร่วมกับเราและสร้างอินเทอร์เน็ตให้เป็นที่ที่ดีที่สุดสำหรับทุกกว่าที่เคยมีมา
+manifesto-details-these-principles-v2 = หลักการเหล่านี้จะไม่มีวันเกิดขึ้นเองได้ การทำให้โลกอินเทอร์เน็ตเปิดกว้างและมีส่วนร่วมได้จำเป็นต้องมีผู้คนทำหน้าที่ ทั้งในฐานะปัจเจกบุคคลและทำงานร่วมกันเป็นกลุ่ม และนำทางให้กับผู้อื่น { -brand-name-mozilla-foundation } มุ่งมั่นที่จะส่งเสริมหลักการที่ประกาศไว้ในแถลงการณ์ { -brand-name-mozilla } เราเชิญคนอื่น ๆ มาร่วมกับเราและสร้างอินเทอร์เน็ตให้เป็นที่ที่ดีที่สุดสำหรับทุกคนกว่าที่เคยมีมา
 manifesto-details-principles = หลักการ
 manifesto-details-the-internet-is-integral = อินเทอร์เน็ตเป็นส่วนหนึ่งของชีวิตสมัยใหม่ — เป็นส่วนประกอบสำคัญในการศึกษา การสื่อสาร ความร่วมมือ ธุรกิจ ความบันเทิง และสังคมโดยรวม
 manifesto-details-the-internet-is-global = อินเทอร์เน็ตเป็นทรัพยากรสาธารณะระดับโลกซึ่งควรเปิดกว้างและเข้าถึงได้
@@ -76,6 +78,7 @@ manifesto-details-there-are-many = มีหลายวิธีที่จะ
 manifesto-details-mozilla-foundation = ปฏิญาณ { -brand-name-mozilla-foundation }
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = { -brand-name-mozilla-foundation } ปฏิญาณว่าจะสนับสนุนกิจกรรมเนื่องจากแถลงการณ์ { -brand-name-mozilla } โดยเฉพาะเราจะ
+manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation } ปฏิญาณว่าจะสนับสนุนกิจกรรมเนื่องจากแถลงการณ์ { -brand-name-mozilla } โดยเฉพาะเราจะ
 manifesto-details-build-and-enable = สร้างและเบิกทางสำหรับเทคโนโลยีและชุมชนแบบเปิดต้นฉบับที่สนับสนุนหลักการในแถลงการณ์
 manifesto-details-build-and-deliver = สร้างและส่งมอบผลิตภัณฑ์ที่ดีสำหรับผู้บริโภคที่สนับสนุนหลักการของแถลงการณ์
 manifesto-details-use-the-mozilla = ใช้สินทรัพย์ { -brand-name-mozilla } (ทรัพย์สินทางปัญญาเช่นลิขสิทธิ์ เครื่องหมายการค้า โครงสร้างพื้นฐาน เงินทุน และชื่อเสียง) เพื่อให้อินเทอร์เน็ตเป็นแพลตฟอร์มเปิด
@@ -83,6 +86,8 @@ manifesto-details-promote-models = ส่งเสริมโมเดลสำ
 manifesto-details-promote-the-mozilla = ส่งเสริมหลักการในแถลงการณ์ { -brand-name-mozilla } ในวาทกรรมสาธารณะและในอุตสาหกรรมอินเทอร์เน็ต
 # Obsolete string (expires 19-10-2025)
 manifesto-details-some-foundation = กิจกรรมพื้นฐานบางอย่าง — ในปัจจุบัน การสร้าง การนำส่ง และส่งเสริมการใช้ผลิตภัณฑ์ — ดำเนินการผ่าน{ -brand-name-mozilla-foundation } ผ่าน บริษัทย่อยที่{ -brand-name-mozilla-foundation } เป็นเจ้าของทั้งหมด ได้แก่ { -brand-name-mozilla-corporation }
+manifesto-details-some-foundation-v2 = กิจกรรมพื้นฐานบางอย่างในปัจจุบัน การสร้าง การนำส่ง และส่งเสริมการใช้ผลิตภัณฑ์ ดำเนินการผ่าน{ -brand-name-mozilla-foundation } ผ่าน บริษัทย่อยที่{ -brand-name-mozilla-foundation } เป็นเจ้าของทั้งหมด ได้แก่ { -brand-name-mozilla-corporation }
 manifesto-details-invitation = คำเชิญ
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-invites = { -brand-name-mozilla-foundation } เชิญชวนทุกคนที่สนับสนุนหลักการในแถลงการณ์ { -brand-name-mozilla } มาร่วมกับเรา และค้นหาวิธีใหม่ ๆ เพื่อทำให้วิสัยทัศน์นี้ของอินเทอร์เน็ตกลายเป็นจริง
+manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } เชิญชวนทุกคนที่สนับสนุนหลักการในแถลงการณ์ { -brand-name-mozilla } มาร่วมกับเรา และค้นหาวิธีใหม่ ๆ เพื่อทำให้วิสัยทัศน์นี้ของอินเทอร์เน็ตกลายเป็นจริง
