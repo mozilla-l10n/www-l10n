@@ -56,6 +56,7 @@ firefox-products-download-thunderbird = Λήψη του { -brand-name-thunderbir
 ## Solo
 
 firefox-products-solo = { -brand-name-solo }
+firefox-products-solo-desc = Δημιουργήστε άμεσα έναν όμορφο ιστότοπο για να αναπτύξετε την επιχείρησή σας. Συνδεθείτε και φιλοξενήστε δωρεάν τον προσαρμοσμένο τομέα σας.
 firefox-products-learn-more-about-solo = Μάθετε περισσότερα για το { -brand-name-solo }
 
 ## 0DIN

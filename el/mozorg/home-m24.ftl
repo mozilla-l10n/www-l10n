@@ -67,12 +67,15 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Η δράση «Builders» βοηθά ανεξάρτητους προγραμματιστές να δημιουργήσουν καινοτόμα έργα ΤΝ ανοικτού κώδικα μέσω εξατομικευμένων συνεργασιών, του προγραμματισμού και της κοινότητας.
 m24-home-builders-helps-independent-v2 = Η δράση «{ -brand-name-mozilla-builders }» βοηθά ανεξάρτητους προγραμματιστές να δημιουργήσουν καινοτόμα έργα ΤΝ ανοικτού κώδικα μέσω εξατομικευμένων συνεργασιών, του προγραμματισμού και της κοινότητας.
 m24-home-watch-now = Παρακολούθηση
+m24-home-choice-first-stack = Choice-first Stack
+m24-home-your-tools-your = Τα εργαλεία σας, η επιλογή σας. Ένα ενιαίο σύνολο εργαλείων ανοικτού κώδικα που διευκολύνει την ανάπτυξη σύγχρονων agent και εφαρμογών τεχνητής νοημοσύνης.
 m24-home-get-started-now = Έναρξη τώρα
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Ομιλητής επί σκηνής με πολλαπλά λογότυπα προϊόντων.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Έχετε μια νεοφυή επιχείρηση στα πρώιμα στάδιά της; Παρουσιάστε τη στο { -brand-name-mozilla-ventures } και εξασφαλίστε χρηματοδότηση για να φέρετε μια θετική αλλαγή στο μέλλον της τεχνητής νοημοσύνης και του διαδικτύου.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-data-collective-is = Το { -brand-name-mozilla } Data Collective αναδομεί το οικοσύστημα δεδομένων ΤΝ με τις κοινότητες στο επίκεντρο.
 
 ## Media Springboard
 
@@ -91,15 +94,19 @@ m24-home-topic-ai = Τεχνητή νοημοσύνη
 m24-home-topic-open-source-ai = ΤΝ ανοικτού κώδικα
 m24-home-topic-ps = Απόρρητο και ασφάλεια
 m24-home-headline-you-ai-v2 = Εσείς, η τεχνητή νοημοσύνη και το διαδίκτυο· τι πραγματικά συμβαίνει;
+m24-home-mozilla-welcomes-raffi = Η { -brand-name-mozilla } καλωσορίζει τον Raffi Krikorian ως Τεχνικό Διευθυντή (CTO)
 m24-home-tech-target = Tech Target
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Παρουσίαση των Thundermail και Thunderbird Pro
+m24-home-introducing-thundermail-and-v2 = Παρουσίαση των { -brand-name-thundermail } και { -brand-name-thunderbird-pro }
+m24-home-what-comes-next = Αυτό που ακολουθεί στην τεχνολογία είναι μια επιλογή. Επιλέξτε μαζί μας.
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-mozillas-new-message = Το νέο μήνυμα της { -brand-name-mozilla }: Είμαστε το μόνο πρόγραμμα περιήγησης που δεν υποστηρίζεται από δισεκατομμυριούχους
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = The FT
+m24-home-interview-with-mark = Συνέντευξη με τον Mark Surman: Πώς προσαρμόζεται η { -brand-name-mozilla } στην εποχή της τεχνητής νοημοσύνης
 
 ## Showcase
 
