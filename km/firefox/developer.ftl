@@ -13,4 +13,4 @@ firefox-developer-style-editor = កម្មវិធី​កែសម្រ�
 firefox-developer-new-tools = ឧបករណ៍ថ្មី
 firefox-developer-inactive-css = CSS អសកម្ម
 firefox-developer-firefox-devtools = { -brand-name-firefox-devtools }
-firefox-developer-mdn-updates = បច្ចុប្បន្នភាព
+firefox-developer-mdn-updates = បច្ចុប្បន្នភព
