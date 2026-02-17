@@ -38,6 +38,7 @@ m24-home-mask-your-email = Αποκρύψτε το email και τον αριθ�
 m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = Δημιουργήστε άμεσα έναν όμορφο ιστότοπο για να αναπτύξετε την επιχείρησή σας.
 m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = Προστατέψτε την τεχνητή σας νοημοσύνη εντοπίζοντας και διορθώνοντας τις ευπάθειες του GenAI πριν από τυχόν επιθέσεις.
 
 ## Donate
 
@@ -76,6 +77,7 @@ m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Έχετε μια νεοφυή επιχείρηση στα πρώιμα στάδιά της; Παρουσιάστε τη στο { -brand-name-mozilla-ventures } και εξασφαλίστε χρηματοδότηση για να φέρετε μια θετική αλλαγή στο μέλλον της τεχνητής νοημοσύνης και του διαδικτύου.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = Το { -brand-name-mozilla } Data Collective αναδομεί το οικοσύστημα δεδομένων ΤΝ με τις κοινότητες στο επίκεντρο.
+m24-home-join-today = Εγγραφή σήμερα
 
 ## Media Springboard
 
@@ -96,6 +98,7 @@ m24-home-topic-ps = Απόρρητο και ασφάλεια
 m24-home-headline-you-ai-v2 = Εσείς, η τεχνητή νοημοσύνη και το διαδίκτυο· τι πραγματικά συμβαίνει;
 m24-home-mozilla-welcomes-raffi = Η { -brand-name-mozilla } καλωσορίζει τον Raffi Krikorian ως Τεχνικό Διευθυντή (CTO)
 m24-home-tech-target = Tech Target
+m24-home-mozilla-ai-ceo = Ο CEO του { -brand-name-mozilla-ai-v2 } μιλά για τα πλεονεκτήματα της ΤΝ ανοικτού κώδικα
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Παρουσίαση των Thundermail και Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Παρουσίαση των { -brand-name-thundermail } και { -brand-name-thunderbird-pro }
@@ -124,6 +127,8 @@ m24-home-mozilla-is-reinventing-itself = Η { -brand-name-mozilla } επαναπ
 # Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Αφηρημένη τέχνη εικονοστοιχείων στις αποχρώσεις του πράσινου, του πορτοκαλί και του ροζ
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt-v2 = Το κείμενο «Επιλέξτε το μέλλον σας» σε κίτρινο φόντο με εικονοστοιχεία
 m24-home-read-the-report = Διαβάστε την αναφορά
 
 ## Nothing Personal

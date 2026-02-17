@@ -12,6 +12,7 @@ footer-refresh-learn-more-about-mozilla-advertising = Μάθετε περισσ�
 footer-refresh-firefox-release-notes = Σημειώσεις έκδοσης του { -brand-name-firefox }
 # Obsolete string (expires 2026-03-13)
 footer-refresh-extend-reach = Προσεγγίστε περισσότερους ανθρώπους και κερδίστε την εμπιστοσύνη τους.
+footer-refresh-add-trust-to = Προσθέστε εμπιστοσύνη στη διαφημιστική σας επένδυση.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Ακολουθήστε τη @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
