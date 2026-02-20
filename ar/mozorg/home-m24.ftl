@@ -144,9 +144,14 @@ m24-home-mozilla-is-reinventing-itself = تعمل { -brand-name-mozilla } على
 # Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = تعمل { -brand-name-mozilla } على إعادة ابتكار ذاتها وتتنوّع وسط مجموعة من المُؤسسات وتعيد تصوّر الإعلان وتوفّر نظامًا بيئيًا مفتوح المصدر للذكاء الاصطناعي. تعرّف على المزيد في تقرير حالة { -brand-name-mozilla } { $year }.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v3 = نحن عند مفترق طرق يحدّد مستقبل التكنولوجيا، في وقتٍ تُعزّز فيه شركات الذكاء الاصطناعي الكبرى تركّز النفوذ. يأتي تقرير { $year } حالة { -brand-name-mozilla } كدعوة لاختيار مستقبل مختلف معًا.
 # Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = صورة بكسل تجريدية بألوان الظلال الخضراء والبرتقاليّة والورديّة
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt-v2 = النص "اختر مستقبلك" على خلفية صفراء مُحبَّبة (مبكسلة).
 m24-home-read-the-report = اقرأ التقرير
 
 ## Nothing Personal
