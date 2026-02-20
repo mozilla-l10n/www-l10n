@@ -62,4 +62,5 @@ firefox-products-learn-more-about-solo = Μάθετε περισσότερα γ�
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = Συνδέστε τα συστήματα τεχνητής νοημοσύνης σας με μια παγκόσμια κοινότητα ειδικών σε θέματα ασφάλειας, που ανακαλύπτουν και βοηθούν στην έγκαιρη διόρθωση των ευπαθειών του GenAI.
 firefox-products-learn-more-about-0din = Μάθετε περισσότερα για το { -brand-name-0din }
