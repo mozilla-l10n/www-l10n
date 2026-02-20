@@ -86,6 +86,7 @@ m24-home-mark-surman-discusses = Ο Mark Surman συζητά πώς μπορού
 m24-home-agent-platform = Agent Platform
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Οποιοδήποτε agent
+m24-home-stop-wiring-tools = Σταματήστε να διασυνδέετε εργαλεία μεταξύ τους και να επιβλέπετε εύθραυστες αυτοματοποιήσεις. Με το { -brand-name-mozilla-ai-v2 } Agent Platform, εσείς περιγράφετε τον στόχο σας κι εμείς δημιουργούμε προσαρμοστικά agent τεχνητής νοημοσύνης που λειτουργούν με τα εργαλεία και τις διαδικασίες σας.
 
 ## Media Springboard
 
@@ -111,6 +112,7 @@ m24-home-mozilla-ai-ceo = Ο CEO του { -brand-name-mozilla-ai-v2 } μιλά �
 m24-home-introducing-thundermail-and = Παρουσίαση των Thundermail και Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Παρουσίαση των { -brand-name-thundermail } και { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Αυτό που ακολουθεί στην τεχνολογία είναι μια επιλογή. Επιλέξτε μαζί μας.
+m24-home-a-good-moment = «Μια καλή χρονική συγκυρία για εμάς»: ο επικεφαλής του { -brand-name-firefox } για τα προγράμματα περιήγησης με ΤΝ και το μέλλον του ιστού
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-mozillas-new-message = Το νέο μήνυμα της { -brand-name-mozilla }: Είμαστε το μόνο πρόγραμμα περιήγησης που δεν υποστηρίζεται από δισεκατομμυριούχους
@@ -119,6 +121,8 @@ m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = The FT
 m24-home-rewiring-mozilla = Επανακαλωδίωση της { -brand-name-mozilla }: Κάνοντας για την τεχνητή νοημοσύνη ό,τι κάναμε για το διαδίκτυο
 m24-home-interview-with-mark = Συνέντευξη με τον Mark Surman: Πώς προσαρμόζεται η { -brand-name-mozilla } στην εποχή της τεχνητής νοημοσύνης
+m24-home-women-in-product = Συζήτηση στο Women In Product: Προσθέτοντας παραγωγική ΤΝ χωρίς να χαθεί η ουσία
+m24-home-scaling-open-source = Κλιμάκωση της ΤΝ ανοικτού κώδικα: Mark Surman και Tim Bradshaw
 
 ## Showcase
 
