@@ -78,6 +78,8 @@ m24-home-got-an-earlystage = Έχετε μια νεοφυή επιχείρηση
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
 m24-home-mozilla-data-collective-is = Το { -brand-name-mozilla } Data Collective αναδομεί το οικοσύστημα δεδομένων ΤΝ με τις κοινότητες στο επίκεντρο.
 m24-home-join-today = Εγγραφή σήμερα
+m24-home-a-double-bottom = Ένα διπλό αποτέλεσμα για την τεχνολογία
+m24-home-mark-surman-discusses = Ο Mark Surman συζητά πώς μπορούμε να δημιουργήσουμε ένα τεχνολογικό οικοσύστημα με διπλό στόχο, που δίνει αξία τόσο στην αποστολή όσο και στο κέρδος.
 
 ## Media Springboard
 
@@ -124,6 +126,10 @@ m24-home-alt-rise25-smiling = Ένας χαμογελαστός ομιλητής
 m24-home-alt-rise25-joyous = Ένας χαρούμενος τιμώμενος στο { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Κατάσταση της { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = Η { -brand-name-mozilla } επαναπροσδιορίζει τον εαυτό της, διαφοροποιείται γύρω από ένα σύνολο οργανισμών, ανανεώνει τη διαφήμιση και δημιουργεί ένα ανοικτού κώδικα οικοσύστημα τεχνητής νοημοσύνης. Διαβάστε περισσότερα στην αναφορά σχετικά με την κατάσταση της { -brand-name-mozilla } για το 2024.
+# Variables
+# Obsolete string (expires: 2026-03-27)
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v2 = Η { -brand-name-mozilla } επαναπροσδιορίζει τον εαυτό της, διαφοροποιείται γύρω από ένα σύνολο οργανισμών, ανανεώνει τη διαφήμιση και δημιουργεί ένα ανοικτού κώδικα οικοσύστημα τεχνητής νοημοσύνης. Διαβάστε περισσότερα στην αναφορά «Κατάσταση της { -brand-name-mozilla } για το { $year }».
 # Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = Βρισκόμαστε σε ένα σταυροδρόμι για το μέλλον της τεχνολογίας, με τις μεγάλες εταιρείες τεχνητής νοημοσύνης να ενοποιούν την ισχύ τους. Η αναφορά «Κατάσταση της { -brand-name-mozilla } για το { $year }» είναι μια πρόσκληση να επιλέξετε ένα διαφορετικό μέλλον μαζί μας.
