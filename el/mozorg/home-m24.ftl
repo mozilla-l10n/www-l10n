@@ -67,6 +67,9 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Η δράση «Builders» βοηθά ανεξάρτητους προγραμματιστές να δημιουργήσουν καινοτόμα έργα ΤΝ ανοικτού κώδικα μέσω εξατομικευμένων συνεργασιών, του προγραμματισμού και της κοινότητας.
 m24-home-builders-helps-independent-v2 = Η δράση «{ -brand-name-mozilla-builders }» βοηθά ανεξάρτητους προγραμματιστές να δημιουργήσουν καινοτόμα έργα ΤΝ ανοικτού κώδικα μέσω εξατομικευμένων συνεργασιών, του προγραμματισμού και της κοινότητας.
+m24-home-own-what-you = Διατηρήστε την ιδιοκτησία των δημιουργιών σας
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = Χρειαζόμαστε μια «στοίβα LAMP» για την εποχή της ΤΝ; Χρειαζόμαστε τεχνολογία που να είναι διαφανής, υπόλογη και να ανήκει στους ανθρώπους που τη χρησιμοποιούν.
 m24-home-watch-now = Παρακολούθηση
 m24-home-choice-first-stack = Choice-first Stack
 m24-home-your-tools-your = Τα εργαλεία σας, η επιλογή σας. Ένα ενιαίο σύνολο εργαλείων ανοικτού κώδικα που διευκολύνει την ανάπτυξη σύγχρονων agent και εφαρμογών τεχνητής νοημοσύνης.
@@ -80,6 +83,9 @@ m24-home-mozilla-data-collective-is = Το { -brand-name-mozilla } Data Collecti
 m24-home-join-today = Εγγραφή σήμερα
 m24-home-a-double-bottom = Ένα διπλό αποτέλεσμα για την τεχνολογία
 m24-home-mark-surman-discusses = Ο Mark Surman συζητά πώς μπορούμε να δημιουργήσουμε ένα τεχνολογικό οικοσύστημα με διπλό στόχο, που δίνει αξία τόσο στην αποστολή όσο και στο κέρδος.
+m24-home-agent-platform = Agent Platform
+# Obsolete string (expires 2026-04-05)
+m24-home-any-agent = Οποιοδήποτε agent
 
 ## Media Springboard
 
@@ -111,6 +117,7 @@ m24-home-mozillas-new-message = Το νέο μήνυμα της { -brand-name-mo
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = The FT
+m24-home-rewiring-mozilla = Επανακαλωδίωση της { -brand-name-mozilla }: Κάνοντας για την τεχνητή νοημοσύνη ό,τι κάναμε για το διαδίκτυο
 m24-home-interview-with-mark = Συνέντευξη με τον Mark Surman: Πώς προσαρμόζεται η { -brand-name-mozilla } στην εποχή της τεχνητής νοημοσύνης
 
 ## Showcase
