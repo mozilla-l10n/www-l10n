@@ -144,9 +144,14 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } sedang mencipta
 # Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } sedang mencipta semula jenamanya, mempelbagaikan aktiviti di sekitar pelbagai organisasi, mereka semula pengiklanan dan membina ekosistem AI sumber terbuka. Baca mengenainya dalam Laporan Keadaan { -brand-name-mozilla } { $year }.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v3 = Kita kini berada di persimpangan masa depan teknologi, dengan syarikat gergasi AI sedang memusatkan kuasa mereka. Laporan State of { -brand-name-mozilla } { $year } merupakan satu jemputan untuk memilih masa depan yang berbeza bersama-sama.
 # Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Seni piksel abstrak dalam warna hijau, oren dan merah jambu
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt-v2 = Teks 'Choose Your Future' pada latar belakang kuning yang berpiksel
 m24-home-read-the-report = Baca laporannya
 
 ## Nothing Personal
