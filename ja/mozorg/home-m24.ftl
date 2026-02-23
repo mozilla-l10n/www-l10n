@@ -144,9 +144,14 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } は改革を行
 # Obsolete string (expires: 2026-03-27)
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } は改革を行い、組織図を多様化し、広告を再構築し、オープンソースの AI エコシステムを構築しています。詳しくはレポート「State of { -brand-name-mozilla } { $year }」をお読みください。
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v3 = 大手 AI 企業が力を固めつつあり、今がテクノロジーの未来の過渡期にあります。報告書『{ $year } State of { -brand-name-mozilla }』は、共に違う未来を選ぶことを呼びかけます。
 # Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = 緑、オレンジ、ピンク色の抽象的なピクセルアート
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt-v2 = 「Choose Your Future」というメッセージが黄色のモザイクの背景に書かれている
 m24-home-read-the-report = レポートを読む
 
 ## Nothing Personal
