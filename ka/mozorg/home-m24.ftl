@@ -36,9 +36,9 @@ m24-home-get-a-headsup = გამოიჩინეთ წინდახედ
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = შენიღბეთ თქვენი ელფოსტა და ტელეფონის ნომერი, რომ მხოლოდ სასურველი შეტყობინები მიიღოთ.
 m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = მყისიერად შექმენით მშვენიერი ვებსაიტი, ასე რომ შეგიძლიათ განავითაროთ თქვენი ბიზნესი.
+m24-home-solo-desc = შექმენით მყისიერად მოხდენილი ვებსაიტი, რომ მეტად განავითაროთ თქვენი საქმიანობა.
 m24-home-0din = { -brand-name-0din }
-m24-home-0din-desc = დაიცავით თქვენი ხელოვნური ინტელექტი GenAI დაუცველობის მოძიებითა და აღმოფხვრით, სანამ ამას გააკეთებს ხოლმე.
+m24-home-0din-desc = დაიცავით თქვენი ხელგონი GenAI-სისუსტეების მოძიებითა და აღმოფხვრით, სანამ შემტევები რამეს მოიმოქმედებენ.
 
 ## Donate
 
@@ -67,7 +67,7 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders ეხმარება დამოუკიდებელ შემმუშავებლებს ღია წყაროს მქონე AI-საშუალებების შექმნაში ცალკეული თანამშრომლობის, პროგრამებისა და საზოგადოებების ჩამოყალიბებით.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } ეხმარება დამოუკიდებელ შემმუშავებლებს, შექმნან ახლებური სახის ღია წყაროს მქონე AI-პროექტები ცალკეული თანამშრომლობის, დაპროგრამებისა და საზოგადოებების მეშვეობით.
-m24-home-own-what-you = დაეუფლეთ იმას, რასაც აგებთ
+m24-home-own-what-you = თავად განკარგეთ, რასაც ქმნით
 # "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
 m24-home-do-we-need-a = გვჭირდება თუ არა "LAMP სტეკი" ხელოვნური ინტელექტის ეპოქისთვის? ჩვენ გვესაჭიროება ტექნოლოგია, რომელიც გამჭვირვალე, ანგარიშვალდებული და იმ ხალხის საკუთრებაა, ვინც ამით იყენებს.
 m24-home-watch-now = უყურეთ ახლავე
