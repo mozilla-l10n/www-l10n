@@ -57,10 +57,10 @@ firefox-products-download-thunderbird = ჩამოტვირთეთ { -bra
 
 firefox-products-solo = { -brand-name-solo }
 firefox-products-solo-desc = მყისიერად შექმენით მშვენიერი ვებსაიტი, ასე რომ შეგიძლიათ განავითაროთ თქვენი ბიზნესი. დააკავშირეთ და განათავსეთ თქვენი საკუთარი დომენი უფასოდ.
-firefox-products-learn-more-about-solo = გაიგეთ მეტი { -brand-name-solo }-ის შესახებ
+firefox-products-learn-more-about-solo = უკეთ გაიცანით { -brand-name-solo }
 
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = დააკავშირეთ თქვენი ხელოვნური ინტელექტის სისტემები უსაფრთხოების ექსპერტთა გლობალურ ერთობას, რომლებიც აღმოაჩენენ და დაეხმარებიან GenAI-ს დაუცველობის აღმოფხვრას.
-firefox-products-learn-more-about-0din = გაიგეთ მეტი { -brand-name-0din }-ის შესახებ
+firefox-products-learn-more-about-0din = უკეთ გაიცანით { -brand-name-0din }
