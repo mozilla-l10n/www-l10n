@@ -66,6 +66,7 @@ m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } oipyty
 m24-home-own-what-you = Eñemomba’e emoheñóivare
 m24-home-watch-now = Ema’ẽ ko’ág̃a
 m24-home-choice-first-stack = Eiporavo First Stack
+m24-home-get-started-now = Eñepyrũ ko’ág̃a
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Ñe’ẽkuaahára tarímape apopyre ra’ãnga’i ndive.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
