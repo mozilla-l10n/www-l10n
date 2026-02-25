@@ -83,10 +83,10 @@ m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Colective ა
 m24-home-join-today = შემოუერთდით დღესვე
 m24-home-a-double-bottom = ორმაგი წმინდა მოგება ტექნოლოგიისთვის
 m24-home-mark-surman-discusses = მარკ სურმანი განიხილავს, თუ როგორ უნდა შევქმნათ ტექგარემო ორმაგი წმინდა მოგებით — მიზნების შესრულებითაც და შემოსავლის მოტანითაც.
-m24-home-agent-platform = აგენტის პლატფორმა
+m24-home-agent-platform = საქმის შემსრულებლების არე
 # Obsolete string (expires 2026-04-05)
-m24-home-any-agent = ნებისმიერი აგენტი
-m24-home-stop-wiring-tools = შეაჩერეთ სადენების მიბმა და მყიფე ავტომატიზაციის შეწყვეტა. { -brand-name-mozilla-ai-v2 } აგენტის პლატფორმით, თქვენ აღწერთ თქვენს მიზანს, ჩვენ ვქმნით AI-ის ადაპტირებულ აგენტებს, თქვენს ხელსაწყოებსა და პროცესებზე მომუშავე.
+m24-home-any-agent = ნებისმიერი საქმის შემსრულებელი
+m24-home-stop-wiring-tools = შეწყვიტეთ მყიფე თვითმართვადი სისტემების შეკოწიწება და მათზე თანგადაყოლილი ზრუნვა. { -brand-name-mozilla-ai-v2 } გთავაზობთ სივრცეს, სადაც მხოლოდ თქვენი მიზნის აღწერით, შეგიქმნით მოქნილ AI-შემსრულებლებს, რომლებიც იმუშავებს თქვენს ხელსაწყოებთან და მიხედავს დაკისრებულ საქმეს.
 
 ## Media Springboard
 
@@ -102,7 +102,7 @@ m24-home-tag-video = ვიდეო
 m24-home-topic-news = ახალი ამბები
 m24-home-topic-products = პროდუქტები
 m24-home-topic-ai = ხელოვნური გონიერება
-m24-home-topic-open-source-ai = ღია კოდის მქონე AI
+m24-home-topic-open-source-ai = ღია კოდის მქონე ხელგონი
 m24-home-topic-ps = პირადულობა და უსაფრთხოება
 m24-home-headline-you-ai-v2 = თქვენ, ხელოვნური გონი და ინტერნეტი – რა ხდება სინამდვილეში?
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } მიესალმება რაფი კრიკორიანს ტექნოლოგიების ხელმძღვანელად
