@@ -140,20 +140,20 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } ცდილო
 # Variables
 # Obsolete string (expires: 2026-03-27)
 #   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } ცდილობს საკუთარი თავის ხელახლა გამოგონებას, მრავალფეროვანი დაწესებულების ირგვლივ გამრავალფეროვნებით, რეკლამის ხელახლა წარმოსახვით და ღია წყაროს მქონე ხელოვნური ინტელექტის ეკოსისტემას. იხილეთ ამის შესახებ { -brand-name-mozilla } { $year } მოხსენებაში.
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } ცდილობს ახლებურ გარდაქმნას, რესურსების დანაწილებას მრავალ მოწინავე დაწესებულებას შორის, დარეკლამების გზების ახლიდან წარმოდგენასა და ღია წყაროს მქონე ხელგონის გარემოს შექმნას. ამის შესახებ იხილეთ { -brand-name-mozilla } { $year } – მოხსენება.
 # Variables
 #   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v3 = ჩვენ ვდგავართ მომავლის ტექნოლოგიების გზაჯვარედინზე, ხელოვნური ინტელექტის დიდი კომპანიებიც აერთიანებენ ძალაუფლებას. { $year }-ის { -brand-name-mozilla } მდგომარეობის მოხსენება არის მოწვევა, ერთად აარჩიოთ მომავალი.
+m24-home-mozilla-is-reinventing-itself-v3 = ჩვენ ვდგავართ მომავლის ტექნოლოგიების გზაგასაყარზე, ხელგონის დიდი კომპანიების მიერ ძალაუფლების განმტკიცების ხანაში. მოხსენება { -brand-name-mozilla } { $year } ერთგვარი მოსაწვევია, რომ ერთად ავირჩიოთ განსხვავებული მომავალი.
 # Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = განყენებული პიქსელური მხატვრობა მწვანე, ნარინჯისფერ და ვარდისფერ ფერებში
 # Used as an accessible text alternative for an image
-m24-home-state-of-mozilla-alt-v2 = წარწერა „აირჩიეთ მომავალი“ ყვითელ, პიქსელოვან ფონზე
+m24-home-state-of-mozilla-alt-v2 = წარწერა „აირჩიეთ მომავალი“ ყვითელ, წერტილოვან ფონზე
 m24-home-read-the-report = გაეცანით მოხსენებას
 
 ## Nothing Personal
 
-m24-home-mozilla-nothing-personal = არაფერი პირადი
+m24-home-mozilla-nothing-personal = არაფერი პირადული
 m24-home-our-new-magazine = ჩვენი ახალი ჟურნალი დამოუკიდებელი მოაზროვნეებისთვის, ტექნოლოგებისა და შემოქმედებისთვის, ციფრული კულტურის წინა ხაზზე.
 m24-home-read-now = წაიკითხეთ ახლავე
 
