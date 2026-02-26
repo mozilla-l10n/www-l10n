@@ -36,7 +36,7 @@ m24-about-we-fund-and = ჩვენ ვაფინანსებთ და �
 
 m24-about-read-more = ვრცლად
 m24-about-read-the-latest = გაეცანით უახლეს ამბებსა და სტატიებს, რომელთაც { -brand-name-mozilla } მოგაწვდით
-m24-about-rewiring-mozilla = { -brand-name-mozilla }-ის კავშირი: ხელოვნური ინტელექტისთვის ის, რასაც ვაკეთებთ ინტერნეტისთვის. გაეცანით ჩვენი მომავალი თაობის სტრატეგიას და თუ როგორ ვცვლით { -brand-name-mozilla }-ს ხელოვნური ინტელექტის ეპოქისთვის.
+m24-about-rewiring-mozilla = { -brand-name-mozilla }-ს გადაწყობა: ხელგონისთვის კეთდება ის, რასაც ვაკეთებდით ვებსივრცისთვის. გაეცანით ჩვენს ახალი თაობის გეგმას, თუ როგორ გარდაიქმნება { -brand-name-mozilla } ხელგონის ხანის შესაფერისად.
 m24-about-what-comes-next = ტექნოლოგიის მომავალია არჩევანი. აირჩიეთ ჩვენთან ერთად.
 m24-about-watch-here = უყურეთ აქ
 # "Double Bottom Line" refers to accounting for both money and mission values

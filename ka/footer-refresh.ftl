@@ -12,7 +12,7 @@ footer-refresh-learn-more-about-mozilla-advertising = იხილეთ ვრ�
 footer-refresh-firefox-release-notes = { -brand-name-firefox } – გამოშვების შენიშვნები
 # Obsolete string (expires 2026-03-13)
 footer-refresh-extend-reach = ხელმისაწვდომობის გაფართოება და ნდობის გაღრმავება.
-footer-refresh-add-trust-to = დაამატეთ ნდობა თქვენს სარეკლამო შენაძენს.
+footer-refresh-add-trust-to = ნდობით აღჭურვეთ თქვენი რეკლამა.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = გამოიწერეთ @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
