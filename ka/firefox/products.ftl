@@ -62,5 +62,5 @@ firefox-products-learn-more-about-solo = უკეთ გაიცანით {
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
-firefox-products-0din-desc = დააკავშირეთ თქვენი ხელოვნური ინტელექტის სისტემები უსაფრთხოების ექსპერტთა გლობალურ ერთობას, რომლებიც აღმოაჩენენ და დაეხმარებიან GenAI-ს დაუცველობის აღმოფხვრას.
+firefox-products-0din-desc = დააკავშირეთ თქვენი ხელგონის სისტემები უსაფრთხოების ექსპერტთა საერთაშორისო ერთობასთან, რომელიც აღმოაჩენს და დაგეხმარებათ GenAI-სისუსტეების დროზე ადრე აღმოფხვრაში.
 firefox-products-learn-more-about-0din = უკეთ გაიცანით { -brand-name-0din }
