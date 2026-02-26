@@ -56,7 +56,7 @@ firefox-products-download-thunderbird = ჩამოტვირთეთ { -bra
 ## Solo
 
 firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = მყისიერად შექმენით მშვენიერი ვებსაიტი, ასე რომ შეგიძლიათ განავითაროთ თქვენი ბიზნესი. დააკავშირეთ და განათავსეთ თქვენი საკუთარი დომენი უფასოდ.
+firefox-products-solo-desc = მყისიერად შექმენით მოხდენილი ვებსაიტი, რომ მეტად განავითაროთ თქვენი საქმიანობა. დააკავშირეთ და განათავსეთ საკუთარი სამისამართო ჯგუფი უფასოდ.
 firefox-products-learn-more-about-solo = უკეთ გაიცანით { -brand-name-solo }
 
 ## 0DIN
