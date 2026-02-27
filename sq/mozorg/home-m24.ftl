@@ -35,6 +35,8 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Merrni njoftim, nëse hollësitë tuaja personale janë në rrezik dhe kyçini si një profesionist.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Maskoni email-in dhe numrin e telefonit tuaj, që t’ju vinë vetëm mesazhe që doni.
+m24-home-solo = { -brand-name-solo }
+m24-home-0din = { -brand-name-0din }
 
 ## Donate
 
@@ -58,6 +60,7 @@ m24-home-get-started = Fillojani
 m24-home-join-the-movement = Bëhuni pjesë e lëvizjes:<br> IA për popullin
 m24-home-our-mission-is = Misioni ynë është ta bëjmë të lehtë për njerëzit të ndërtojnë me dhe të bashkëpunojnë në IA të besueshme, me burim të hapët.
 m24-home-alt-builders-v2 = { -brand-name-builders }
+m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-watch-now = Shiheni tani
 m24-home-get-started-now = Fillojani tani
