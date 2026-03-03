@@ -66,3 +66,6 @@ firefox-products-learn-more-about-solo = Pelajari lebih lanjut mengenai { -brand
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Hubungkan sistem AI Anda dengan komunitas global pakar keamanan yang membantu menemukan dan memperbaiki kerentanan GenAI sejak dini.
 firefox-products-learn-more-about-0din = Pelajari lebih lanjut mengenai { -brand-name-0din }
+
+## Tabstack
+
