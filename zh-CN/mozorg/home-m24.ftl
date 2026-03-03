@@ -39,6 +39,9 @@ m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = 即刻打造精美网站，助力业务腾飞。
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = 抢先发现并修复生成式 AI 漏洞，筑牢 AI 安全防线。
+m24-home-tabstack = { -brand-name-tabstack }
+# API stands for "Application Programming Interface"
+m24-home-tabstack-desc = 使用一个简单的以开发者为中心的 API 自动执行 Web 任务。
 
 ## Donate
 

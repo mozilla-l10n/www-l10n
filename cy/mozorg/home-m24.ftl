@@ -39,6 +39,9 @@ m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = Creu gwefan hardd yn sydyn fel gallwch chi dyfu eich busnes.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Diogelwch eich AI trwy ddod o hyd i wendidau GenAI a'u trwsio cyn i ymosodwyr wneud hynny.
+m24-home-tabstack = { -brand-name-tabstack }
+# API stands for "Application Programming Interface"
+m24-home-tabstack-desc = Awtomeiddio tasgau gwe yn ddibynadwy gydag API syml sy'n canolbwyntio ar y datblygwr.
 
 ## Donate
 

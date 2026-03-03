@@ -64,3 +64,9 @@ firefox-products-learn-more-about-solo = უკეთ გაიცანით {
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = დააკავშირეთ თქვენი ხელგონის სისტემები უსაფრთხოების ექსპერტთა საერთაშორისო ერთობასთან, რომელიც აღმოაჩენს და დაგეხმარებათ GenAI-სისუსტეების დროზე ადრე აღმოფხვრაში.
 firefox-products-learn-more-about-0din = უკეთ გაიცანით { -brand-name-0din }
+
+## Tabstack
+
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-tabstack-desc = დააკავშირეთ თქვენი პროგრამები ინტერნეტს საიმედო ავტომატიზაციით და აქციეთ პირდაპირი ვებგვერდები სუფთა, გამართულ შედეგებად.
+firefox-products-learn-more-about-tabstack = გაიგეთ მეტი { -brand-name-tabstack }-ის შესახებ

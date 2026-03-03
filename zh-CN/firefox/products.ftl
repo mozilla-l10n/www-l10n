@@ -64,3 +64,9 @@ firefox-products-learn-more-about-solo = 详细了解 { -brand-name-solo }
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = 将您的 AI 系统与全球安全专家社区相连接，及早发现并协同修复生成式 AI 漏洞。
 firefox-products-learn-more-about-0din = 详细了解 { -brand-name-0din }
+
+## Tabstack
+
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-tabstack-desc = 以可靠的自动化方式将您的应用连接到网络将实时网页变成简洁、结构清晰的结果。
+firefox-products-learn-more-about-tabstack = 详细了解 { -brand-name-tabstack }

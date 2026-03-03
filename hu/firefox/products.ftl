@@ -64,3 +64,9 @@ firefox-products-learn-more-about-solo = Tudjon meg többet a { -brand-name-solo
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Kapcsolja össze az MI rendszereit a biztonsági szakértők globális közösségével, akik feltárják a GenAI sérülékenységeket, és korán javítják őket.
 firefox-products-learn-more-about-0din = Tudjon meg többet az { -brand-name-0din } szolgáltatásról
+
+## Tabstack
+
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-tabstack-desc = Kapcsolja össze alkalmazásait a webvel megbízható automatizálással, és alakítsa az élő weboldalakat letisztult, strukturált eredményekké.
+firefox-products-learn-more-about-tabstack = Tudjon meg többet a(z) { -brand-name-tabstack } kiegészítőről

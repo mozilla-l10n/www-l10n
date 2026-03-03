@@ -64,3 +64,9 @@ firefox-products-learn-more-about-solo = Zjistit více o službě { -brand-name-
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Připojte své systémy umělé inteligence do celosvětové komunity bezpečnostních expertů, kteří pomáhají odhalovat a opravovat zranitelnosti GenAI.
 firefox-products-learn-more-about-0din = Zjistit více o službě { -brand-name-0din }
+
+## Tabstack
+
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-tabstack-desc = Připojte své aplikace k webu pomocí spolehlivé automatizace a přeměňte aktuální webové stránky na čisté a strukturované výsledky.
+firefox-products-learn-more-about-tabstack = Zjistit více o službě { -brand-name-tabstack }

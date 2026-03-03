@@ -39,6 +39,9 @@ m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = 即刻打造美麗的網站，讓您拓展業務。
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = 比攻擊者搶先找出 GenAI 的漏洞並修正，以保護您的 AI。
+m24-home-tabstack = { -brand-name-tabstack }
+# API stands for "Application Programming Interface"
+m24-home-tabstack-desc = 透過專注於開發者的 API 可靠地自動執行網頁工作。
 
 ## Donate
 

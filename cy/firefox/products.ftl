@@ -64,3 +64,9 @@ firefox-products-learn-more-about-solo = Dysgu rhagor am { -brand-name-solo }
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Cysylltwch eich systemau AI â chymuned fyd-eang o arbenigwyr diogelwch sy'n datgelu ac yn helpu i drwsio gwendidau GenAI yn gynnar.
 firefox-products-learn-more-about-0din = Dysgu rhagor am { -brand-name-0din }
+
+## Tabstack
+
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-tabstack-desc = Cysylltwch eich apiau â'r we gydag awtomeiddio dibynadwy a throi tudalennau gwe byw yn ganlyniadau glân, strwythuredig.
+firefox-products-learn-more-about-tabstack = Dysgu rhagor am { -brand-name-tabstack }

@@ -64,3 +64,9 @@ firefox-products-learn-more-about-solo = Узнайте больше о { -brand
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Подключите свои ИИ-системы к глобальному сообществу экспертов по безопасности, которые на ранних стадиях выявляют и помогают устранять уязвимости генеративного ИИ.
 firefox-products-learn-more-about-0din = Узнайте больше о { -brand-name-0din }
+
+## Tabstack
+
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-tabstack-desc = Подключайте свои приложения к Интернету с помощью надёжной автоматики и превращайте веб-страницы в четкие, структурированные результаты.
+firefox-products-learn-more-about-tabstack = Узнайте больше о { -brand-name-tabstack }
