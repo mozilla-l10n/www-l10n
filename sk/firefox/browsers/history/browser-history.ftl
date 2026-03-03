@@ -35,7 +35,7 @@ browser-history-by-1995-netscape = V roku 1995 nebol { -brand-name-netscape } Na
 browser-history-netscape-created = { -brand-name-netscape } vytvoril a uvoľnil JavaScript, ktorý poskytol webovým stránkam výkonné výpočtové možnosti, ktoré nikdy predtým nemali (vytvorili tiež neslávne známy <a href="{ $blink }">tag &lt;blink&gt;</a>). { -brand-name-microsoft } kontroval kaskádovými štýlmi (CSS), ktoré sa stali štandardom pre dizajn webovej stránky.
 # Variables:
 #   $dino (url) - https://medium.com/@ddprrt/tales-from-the-browser-wars-mozilla-stomps-internet-explorer-799035887cb1
-browser-history-things-got-a-little = Veci sa trochu vymkli kontrole v roku 1997, keď { -brand-name-microsoft } vydal { -brand-name-ie } 4.0. Jeho tím vyrobil obrovské písmeno „e“ a potajme ho postavil na trávnik centrály { -brand-name-netscape }. Tím { -brand-name-netscape } okamžite obrovské „e“ zvalil a <a href="{ $dino }">nasadil naň vlastného maskota, dinosaura { -brand-name-mozilla }</a >.
+browser-history-things-got-a-little = Veci sa trochu vymkli kontrole v roku 1997, keď { -brand-name-microsoft } vydal { -brand-name-ie } 4.0. Jeho tím vyrobil obrovské písmeno „e“ a potajme ho postavil na trávnik centrály { -brand-name-netscape }. Tím { -brand-name-netscape } okamžite obrovské „e“ zvalil a <a href="{ $dino }">nasadil naň vlastného maskota, dinosaura { -brand-name-mozilla }</a>.
 # Variables:
 #   $mozilla (url) - https://en.wikipedia.org/wiki/Mozilla
 #   $marketshare (url) - https://en.wikipedia.org/wiki/Internet_Explorer#Market_adoption_and_usage_share
