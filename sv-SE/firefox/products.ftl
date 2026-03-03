@@ -64,3 +64,9 @@ firefox-products-learn-more-about-solo = Läs mer om { -brand-name-solo }
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Anslut dina AI-system till en global gemenskap av säkerhetsexperter som avslöjar och hjälper till att åtgärda GenAI-sårbarheter tidigt.
 firefox-products-learn-more-about-0din = Läs mer om { -brand-name-0din }
+
+## Tabstack
+
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-tabstack-desc = Anslut dina appar till webben med pålitlig automatisering och förvandla live-webbsidor till rena, strukturerade resultat.
+firefox-products-learn-more-about-tabstack = Läs mer om { -brand-name-tabstack }
