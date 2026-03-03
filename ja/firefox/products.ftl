@@ -66,3 +66,6 @@ firefox-products-learn-more-about-solo = { -brand-name-solo } について詳し
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = 生成 AI の脆弱性を早期に発見し、修正を支援するセキュリティ専門家が集まるグローバルコミュニティに、貴社の AI システムを接続。
 firefox-products-learn-more-about-0din = { -brand-name-0din } について詳しく知る
+
+## Tabstack
+
