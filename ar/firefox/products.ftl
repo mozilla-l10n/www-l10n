@@ -66,3 +66,6 @@ firefox-products-learn-more-about-solo = اطَّلِع على المزيد حو
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = اربط أنظمة الذكاء الاصطناعي الخاصة بك بمجتمع عالمي من خبراء الأمن الذين يَكتشفون ثغرات GenAI ويساعدون في إصلاحها مبكرًا.
 firefox-products-learn-more-about-0din = اطَّلِع على المزيد حول { -brand-name-0din }
+
+## Tabstack
+
