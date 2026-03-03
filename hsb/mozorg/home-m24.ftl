@@ -40,6 +40,8 @@ m24-home-solo-desc = Wutworće hnydom rjane websydło, zo by waš wobchod rostł
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Pytajće a porjedźće zranitosće GenAI, prjedy hač nadpadowarjo to činja, zo byšće swoju KI zawěsćił.
 m24-home-tabstack = { -brand-name-tabstack }
+# API stands for "Application Programming Interface"
+m24-home-tabstack-desc = Awtomatizujće spušćomnje webnadawki z jednorej API z fokusom na wuwiwarjach.
 
 ## Donate
 

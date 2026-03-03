@@ -64,3 +64,9 @@ firefox-products-learn-more-about-solo = Dalšne informacije wó { -brand-name-s
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Zwěžćo swóje systemy KI z globalnym zgromaźeństwom wěstotnych ekspertow, kótarež jěsno zranjobnosći GenAI namakaju a pomagaju, je pórěźiś.
 firefox-products-learn-more-about-0din = Dalšne informacije wó { -brand-name-0din }
+
+## Tabstack
+
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-tabstack-desc = Zwězajśo swóje nałoženja z webom ze spušćobneju awtomatizaciju a pśetwóŕśo webboki do cystych, strukturěrowanych wuslědkow.
+firefox-products-learn-more-about-tabstack = Dalšne informacije wó { -brand-name-tabstack }
