@@ -144,7 +144,7 @@ firefox-desktop-download-in-another-language = Stiahnutie v inom jazyku alebo pr
 firefox-desktop-download-windows = { -brand-name-windows }
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
-firefox-desktop-download-if-you-see-a-prompt = Ak sa zobrazí výzva s informáciou, že aplikácia, ktorú sa pokúšate nainštalovať, nie je overená spoločnosťou { -brand-name-microsoft }, kliknite na tlačidlo „Aj tak nainštalovať“ alebo <a { $attrs }>zmeňte nastavenia odporúčaní aplikácií</a >.
+firefox-desktop-download-if-you-see-a-prompt = Ak sa zobrazí výzva s informáciou, že aplikácia, ktorú sa pokúšate nainštalovať, nie je overená spoločnosťou { -brand-name-microsoft }, kliknite na tlačidlo „Aj tak nainštalovať“ alebo <a { $attrs }>zmeňte nastavenia odporúčaní aplikácií</a>.
 firefox-desktop-download-visit-support-for-more = Ďalšie podrobnosti nájdete na stránke podpory
 # Variables:
 #   $id (string) - HTML ID for the download link.
