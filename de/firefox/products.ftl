@@ -66,3 +66,6 @@ firefox-products-learn-more-about-solo = Weitere Informationen zu { -brand-name-
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Verbinde deine KI-Systeme mit einer globalen Community von Sicherheitsexpert:innen, die Schwachstellen der GenAI früh finden und bei der Fehlerbehebung helfen.
 firefox-products-learn-more-about-0din = Weitere Informationen zu { -brand-name-0din }
+
+## Tabstack
+
