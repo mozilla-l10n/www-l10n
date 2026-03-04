@@ -39,6 +39,7 @@ m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = Meitsje daliks in moaie website, sadat jo jo bedriuw groeie litte kinne.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Beskermje jo AI troch GenAI-kwetsberens te finen en te reparearjen eardat oanfallers dat dogge.
+m24-home-tabstack = { -brand-name-tabstack }
 
 ## Donate
 

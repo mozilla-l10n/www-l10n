@@ -64,3 +64,8 @@ firefox-products-learn-more-about-solo = Mear ynfo oer { -brand-name-solo }
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Ferbyn jo AI-systemen mei in wrâldwide mienskip fan befeiligenseksperts dy’t GenAI-kwetsberens betiid ûntdekke en helpe te reparearjen.
 firefox-products-learn-more-about-0din = Mear ynfo oer { -brand-name-0din }
+
+## Tabstack
+
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-learn-more-about-tabstack = Mear ynfo oer { -brand-name-tabstack }
