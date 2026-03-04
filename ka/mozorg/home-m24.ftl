@@ -41,7 +41,7 @@ m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = დაიცავით თქვენი ხელგონი GenAI-სისუსტეების მოძიებითა და აღმოფხვრით, სანამ შემტევები რამეს მოიმოქმედებენ.
 m24-home-tabstack = { -brand-name-tabstack }
 # API stands for "Application Programming Interface"
-m24-home-tabstack-desc = მოირგეთ ვებდავალებების საიმედოდ ავტომატიზაცია, შემმუშავებელზე ორიენტირებული მარტივი API-ით.
+m24-home-tabstack-desc = საიმედო თვითმოქმედი ვებდავალებები მარტივი და შემმუშავებელზე მორგებული API-მაკავშირებლით.
 
 ## Donate
 

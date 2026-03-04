@@ -68,5 +68,5 @@ firefox-products-learn-more-about-0din = უკეთ გაიცანით {
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
-firefox-products-tabstack-desc = დააკავშირეთ თქვენი პროგრამები ინტერნეტს საიმედო ავტომატიზაციით და აქციეთ პირდაპირი ვებგვერდები სუფთა, გამართულ შედეგებად.
-firefox-products-learn-more-about-tabstack = გაიგეთ მეტი { -brand-name-tabstack }-ის შესახებ
+firefox-products-tabstack-desc = დაუკავშირეთ თქვენი პროგრამები ვებსივრცეს საიმედო ავტომატიზაციით და გამოქვეყნებული ვებგვერდები აქციეთ სუფთა აგებულების მქონე შედეგებად.
+firefox-products-learn-more-about-tabstack = უკეთ გაიცანით { -brand-name-tabstack }
