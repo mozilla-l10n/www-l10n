@@ -64,3 +64,8 @@ firefox-products-learn-more-about-solo = Pro saper plus re { -brand-name-solo }
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Connecte tu systemas IA a un communitate mundial de expertes de securitate qui discoperi e adjuta a reparar tosto le vulnerabilitates de securitate.
 firefox-products-learn-more-about-0din = Pro saper plus re { -brand-name-0din }
+
+## Tabstack
+
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-learn-more-about-tabstack = Pro saper plus re { -brand-name-tabstack }

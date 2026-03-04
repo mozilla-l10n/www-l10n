@@ -39,6 +39,7 @@ m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = Crea instantaneemente un belle sito web assi que tu pote facer crescer tu negotios.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Assecura tu IA trovante e corrigente le vulnerabilitates de IAgen ante que lo face le attaccantes.
+m24-home-tabstack = { -brand-name-tabstack }
 
 ## Donate
 
