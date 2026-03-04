@@ -64,3 +64,9 @@ firefox-products-learn-more-about-solo = Ulteriori informazioni su { -brand-name
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Collega i tuoi sistemi di intelligenza artificiale a una rete globale di esperti di sicurezza che individuano e contribuiscono a risolvere tempestivamente le vulnerabilità della GenAI.
 firefox-products-learn-more-about-0din = Ulteriori informazioni su { -brand-name-0din }
+
+## Tabstack
+
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-tabstack-desc = Connetti le tue app al Web con un’automazione affidabile e trasforma le pagine web in risultati chiari e strutturati.
+firefox-products-learn-more-about-tabstack = Ulteriori informazioni su { -brand-name-tabstack }
