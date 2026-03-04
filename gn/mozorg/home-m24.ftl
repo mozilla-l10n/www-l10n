@@ -38,6 +38,7 @@ m24-home-mask-your-email = Ehovañomi ne ñanduti veve ha pumbyry papapy og̃uah
 m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = Emoheñói ñanduti rogue iporãva embotuichave hag̃ua ñe ñemuha.
 m24-home-0din = { -brand-name-0din }
+m24-home-tabstack = { -brand-name-tabstack }
 
 ## Donate
 
