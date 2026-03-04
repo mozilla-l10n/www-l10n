@@ -68,4 +68,5 @@ firefox-products-learn-more-about-0din = Mear ynfo oer { -brand-name-0din }
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-tabstack-desc = Ferbyn jo apps mei it ynternet mei betroubere automatisearring en set live websiden om yn skjinne, strukturearre resultaten.
 firefox-products-learn-more-about-tabstack = Mear ynfo oer { -brand-name-tabstack }
