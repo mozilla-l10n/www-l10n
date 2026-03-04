@@ -39,6 +39,9 @@ m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = Бизнесіңізді дамыту үшін әдемі веб-сайтты лезде жасаңыз.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Шабуылдаушылардан бұрын GenAI осалдықтарын тауып, түзету арқылы өзіңіздің ЖИ қорғаңыз.
+m24-home-tabstack = { -brand-name-tabstack }
+# API stands for "Application Programming Interface"
+m24-home-tabstack-desc = Әзірлеушілерге бағытталған қарапайым API арқылы веб-тапсырмаларды сенімді түрде автоматтандырыңыз.
 
 ## Donate
 
