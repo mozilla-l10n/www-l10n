@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/410/
 
 page-gone-title = Ova je stranica uklonjena
+page-gone-body = Žao nam je, ali ovaj sadržaj više nije dostupan. Za više aktualnih informacija slijedi neke od dolje navedenih poveznica.
 gone-page-go-back = Idi natrag
 # Variables:
 #   $home (attr) - attributes to be added to the <a> tag - href="https://mozilla.org"
