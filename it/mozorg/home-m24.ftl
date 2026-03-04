@@ -40,6 +40,8 @@ m24-home-solo-desc = Crea in un istante un bellissimo sito web per far crescere 
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Metti al sicuro la tua intelligenza artificiale identificando e risolvendo le vulnerabilità della GenAI prima che vengano sfruttate.
 m24-home-tabstack = { -brand-name-tabstack }
+# API stands for "Application Programming Interface"
+m24-home-tabstack-desc = Automazione web affidabile con un’API semplice, pensata per gli sviluppatori
 
 ## Donate
 
