@@ -68,5 +68,5 @@ firefox-products-learn-more-about-0din = Tudjon meg többet az { -brand-name-0di
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
-firefox-products-tabstack-desc = Kapcsolja össze alkalmazásait a webvel megbízható automatizálással, és alakítsa az élő weboldalakat letisztult, strukturált eredményekké.
-firefox-products-learn-more-about-tabstack = Tudjon meg többet a(z) { -brand-name-tabstack } kiegészítőről
+firefox-products-tabstack-desc = Kapcsolja össze alkalmazásait a webbel megbízható automatizálással, és alakítsa az élő weboldalakat letisztult, strukturált eredményekké.
+firefox-products-learn-more-about-tabstack = Tudjon meg többet a { -brand-name-tabstack } szolgáltatásról
