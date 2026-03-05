@@ -40,6 +40,9 @@ m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = Créez instantanément un superbe site web pour développer votre entreprise.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Sécurisez vos systèmes d’IA en trouvant et en corrigeant les failles de l’IA générative avant les attaquants.
+m24-home-tabstack = { -brand-name-tabstack }
+# API stands for "Application Programming Interface"
+m24-home-tabstack-desc = Automatisez les tâches web de façon fiable avec une API simple conçue pour les développeurs.
 
 ## Donate
 

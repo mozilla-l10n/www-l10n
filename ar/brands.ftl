@@ -96,6 +96,7 @@
 -brand-name-solo = فردي
 -brand-name-solo-ai = الذكاء الاصطناعي الفردي (Solo AI)
 -brand-name-0din = 0DIN
+-brand-name-tabstack = Tabstack
 -brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs

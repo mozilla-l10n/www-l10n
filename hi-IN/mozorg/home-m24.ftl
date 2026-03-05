@@ -40,6 +40,9 @@ m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = झटपट एक शानदार वेबसाइट बनाएं और अपने कारोबार को नई ऊंचाइयों पर ले जाएं।
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = हमलावरों से एक कदम आगे रहें, अपनी GenAI की कमियों को समय रहते पहचानें और उन्हें ठीक करके अपना AI सुरक्षित बनाएं।
+m24-home-tabstack = { -brand-name-tabstack }
+# API stands for "Application Programming Interface"
+m24-home-tabstack-desc = एक आसान, डेवलपर-केंद्रित API की मदद से वेबसाइट से जुड़े टास्क विश्वसनीय तरीके से स्वचालित करें।
 
 ## Donate
 

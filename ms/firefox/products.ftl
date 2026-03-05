@@ -69,3 +69,6 @@ firefox-products-learn-more-about-0din = Ketahui lebih lanjut tentang { -brand-n
 
 ## Tabstack
 
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-tabstack-desc = Sambungkan aplikasi anda ke internet dengan automasi yang boleh dipercayai dan tukarkan laman web anda ke bentuk berstruktur yang lebih kemas.
+firefox-products-learn-more-about-tabstack = Ketahui lebih lanjut tentang { -brand-name-tabstack }

@@ -69,3 +69,6 @@ firefox-products-learn-more-about-0din = اطَّلِع على المزيد حو
 
 ## Tabstack
 
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-tabstack-desc = اربط تطبيقاتك بالويب من خلال أتمتة موثوقة، وحوِّل صفحات الويب المباشرة إلى بيانات واضحة ومنظَّمة.
+firefox-products-learn-more-about-tabstack = اطَّلِع على المزيد حول { -brand-name-tabstack }
