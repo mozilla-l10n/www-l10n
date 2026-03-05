@@ -39,6 +39,7 @@ m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = Δημιουργήστε άμεσα έναν όμορφο ιστότοπο για να αναπτύξετε την επιχείρησή σας.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Προστατέψτε την τεχνητή σας νοημοσύνη εντοπίζοντας και διορθώνοντας τις ευπάθειες του GenAI πριν από τυχόν επιθέσεις.
+m24-home-tabstack = { -brand-name-tabstack }
 
 ## Donate
 
