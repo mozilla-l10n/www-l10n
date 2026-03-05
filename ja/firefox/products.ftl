@@ -69,3 +69,6 @@ firefox-products-learn-more-about-0din = { -brand-name-0din } について詳し
 
 ## Tabstack
 
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-tabstack-desc = 信頼性の高い自動化でアプリをウェブに接続し、ライブ状態のウェブページを簡潔で構造化された結果に変換します。
+firefox-products-learn-more-about-tabstack = { -brand-name-tabstack } について詳しく知る

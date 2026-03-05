@@ -40,6 +40,9 @@ m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = 美しいウェブサイトを瞬時に作成し、ビジネスを成長させます。
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = 攻撃者より先に生成 AI の脆弱性を見つけて修正することで、AI を安全に守れます。
+m24-home-tabstack = { -brand-name-tabstack }
+# API stands for "Application Programming Interface"
+m24-home-tabstack-desc = シンプルなデベロッパー向け API でウェブタスクを安定的に自動化します。
 
 ## Donate
 
