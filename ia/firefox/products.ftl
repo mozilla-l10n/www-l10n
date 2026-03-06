@@ -68,5 +68,5 @@ firefox-products-learn-more-about-0din = Pro saper plus re { -brand-name-0din }
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
-firefox-products-tabstack-desc = Connecte tu applicationes al web con un automation fidibile e transforma le paginas web in resultatos nette e structurate.
+firefox-products-tabstack-desc = Connecte tu applicationes al web con automatisation fidibile e converte le paginas web immediate in nette, resultatos structurate.
 firefox-products-learn-more-about-tabstack = Pro saper plus re { -brand-name-tabstack }
