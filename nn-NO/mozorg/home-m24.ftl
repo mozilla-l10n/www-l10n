@@ -40,6 +40,8 @@ m24-home-solo-desc = Lag ei vakker nettside med ein gong, slik at du kan få ver
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Sikre AI-en din ved å finne og rette Genai-sårbarheiter før angriparar gjer det.
 m24-home-tabstack = { -brand-name-tabstack }
+# API stands for "Application Programming Interface"
+m24-home-tabstack-desc = Automatiser nettoppgåver på ein påliteleg måte med eit enkelt utviklarfokusert API.
 
 ## Donate
 
