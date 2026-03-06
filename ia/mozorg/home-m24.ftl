@@ -40,6 +40,8 @@ m24-home-solo-desc = Crea instantaneemente un belle sito web assi que tu pote fa
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Assecura tu IA trovante e corrigente le vulnerabilitates de IAgen ante que lo face le attaccantes.
 m24-home-tabstack = { -brand-name-tabstack }
+# API stands for "Application Programming Interface"
+m24-home-tabstack-desc = Fidibilemente automatisa le activitates web con un simple API pensate pro le disveloppatores
 
 ## Donate
 
