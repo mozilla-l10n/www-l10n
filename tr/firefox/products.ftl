@@ -64,3 +64,9 @@ firefox-products-learn-more-about-solo = { -brand-name-solo } hakkında bilgi al
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Yapay zekâ sistemlerinizi, GenAI güvenlik açıklarını erken aşamada ortaya çıkaran ve giderilmesine yardımcı olan küresel bir güvenlik uzmanları topluluğuna bağlayın.
 firefox-products-learn-more-about-0din = { -brand-name-0din } hakkında bilgi alın
+
+## Tabstack
+
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-tabstack-desc = Güvenilir otomasyonla uygulamalarınızı web’e bağlayın, yayındaki web sayfalarını yalın ve yapılandırılmış sonuçlara dönüştürün.
+firefox-products-learn-more-about-tabstack = { -brand-name-tabstack } hakkında bilgi alın

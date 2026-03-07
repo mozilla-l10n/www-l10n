@@ -39,6 +39,7 @@ m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = İşinizi büyütmek için anında şık bir web sitesi oluşturun.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = GenAI güvenlik açıklarını saldırganlardan önce bulup düzelterek yapay zekânızı güvence altına alın.
+m24-home-tabstack = { -brand-name-tabstack }
 
 ## Donate
 
