@@ -6,6 +6,10 @@
 ### URL: https://www-dev.allizom.org/
 
 
+## Intro
+
+m24-home-welcome-to-mozilla = សូមស្វាគមន៍មកកាន់ { -brand-name-mozilla }
+
 ## Media Springboard
 
 m24-home-topic-news = ព័ត៌មាន​
