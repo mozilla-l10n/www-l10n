@@ -36,7 +36,9 @@ m24-home-get-a-headsup = Merrni njoftim, nëse hollësitë tuaja personale janë
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Maskoni email-in dhe numrin e telefonit tuaj, që t’ju vinë vetëm mesazhe që doni.
 m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = Krijoni menjëherë një sajt të hijshëm, që të mund të fuqizoni biznesin tuaj.
 m24-home-0din = { -brand-name-0din }
+m24-home-tabstack = { -brand-name-tabstack }
 
 ## Donate
 
