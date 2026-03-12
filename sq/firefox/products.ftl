@@ -56,9 +56,17 @@ firefox-products-download-thunderbird = Shkarkoni { -brand-name-thunderbird }-in
 ## Solo
 
 firefox-products-solo = { -brand-name-solo }
+firefox-products-solo-desc = Krijoni menjëherë në sajt të hijshëm, që të mund të fuqizoni biznesin tuaj. Lidheni dhe strehojeni përkatësinë tuaj falas.
 firefox-products-learn-more-about-solo = Mësoni më tepër mbi { -brand-name-solo }-n
 
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = Lidhni sistemet tuaja IA me një bashkësi mbarëbotërore ekspertësh sigurie që zbulojnë dhe ndihmojnë të ndreqen herët cenueshmëri GenAI.
 firefox-products-learn-more-about-0din = Mësoni më tepër mbi { -brand-name-0din }-in
+
+## Tabstack
+
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-tabstack-desc = Lidhini aplikacionet tuaja në web me automatizim të qëndrueshëm dhe shndërrojini faqet web në përfundime të qëruara, të strukturuara.
+firefox-products-learn-more-about-tabstack = Mësoni më tepër mbi { -brand-name-tabstack }
