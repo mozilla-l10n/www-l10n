@@ -39,6 +39,9 @@ m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = Okamžite si vytvorte krásnu webovú stránku, aby ste mohli rozvíjať svoje podnikanie.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Zabezpečte svoju umelú inteligenciu nájdením a opravou zraniteľností GenAI skôr, ako to urobia útočníci.
+m24-home-tabstack = { -brand-name-tabstack }
+# API stands for "Application Programming Interface"
+m24-home-tabstack-desc = Spoľahlivo automatizujte webové úlohy pomocou jednoduchého API zameraného na vývojárov.
 
 ## Donate
 

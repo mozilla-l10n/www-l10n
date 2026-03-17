@@ -384,6 +384,7 @@
 -brand-name-solo = Solo
 -brand-name-solo-ai = Solo AI
 -brand-name-0din = 0DIN
+-brand-name-tabstack = Tabstack
 -brand-name-lumigator = Lumigátor
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = Webová dokumentácia MDN
