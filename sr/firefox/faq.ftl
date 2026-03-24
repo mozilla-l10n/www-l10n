@@ -15,6 +15,7 @@ what-is-firefox = Шта је { -brand-name-firefox }?
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/
 # $url2 (url) - link to https://www.mozilla.org/products/
 
+the-firefox-browser-the-only = { -brand-name-firefox-browser }, једини велики прегледач иза којег стоји непрофитна организација, помаже вам да заштитите своје личне податке. Сазнајте више о <a href="{ $url }">{ -brand-name-firefox-browsers }</a> и <a href="{ $url2 }">другим производима.</a>
 how-do-i = Како да преузмем { -brand-name-firefox-browser }?
 
 # Variables:
@@ -26,6 +27,7 @@ how-do-i = Како да преузмем { -brand-name-firefox-browser }?
 
 you-can-easily = { -brand-name-firefox } прегледач за десктоп можете лако да преузмете <a href="{ $url }">овде.</a> { -brand-name-firefox } је доступан за <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short }</a> и <a href="{ $url4 }">{ -brand-name-linux }</a> платформе, а такође и за <a href="{ $url5 }">{ -brand-name-android } и { -brand-name-ios }.</a>. Пре преузимања, уверите се да наш прегледач преузимате са поузданог { -brand-name-mozilla }/{ -brand-name-firefox } сајта.
 is-firefox-free = Је ли { -brand-name-firefox } бесплатан?
+yep-the-firefox-browser-is-free = Да! { -brand-name-firefox-browser } је бесплатан. Заправо, потпуно бесплатан. Нема скривених трошкова нити било чега сличног. Не плаћате ништа да бисте га користили.
 related-questions-free = Повезана питања: је ли { -brand-name-firefox-browser } бесплатан; да ли се { -brand-name-firefox } плаћа
 is-chrome-better = Је ли { -brand-name-chrome } бољи од { -brand-name-firefox }-а?
 no-we-dont = Не, не мислимо да је { -brand-name-chrome } бољи од { -brand-name-firefox }-а. Ево зашто: када људи питају који је прегледач „бољи“, они у ствари питају који је бржи и безбеднији. { -brand-name-firefox } се ажурира сваког месеца како би били сигурни да увек користите најбржи прегледач који подразумевано поштује вашу приватност.
