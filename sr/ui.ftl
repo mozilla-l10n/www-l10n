@@ -14,6 +14,8 @@ ui-watch-the-video = Погледајте видео снимак
 ui-replay = Поново покрени
 ui-share = Подели
 ui-menu = Мени
+# Short for Table of Contents
+ui-contents = Садржај
 ui-please-turn-on-javascript = Молимо укључите JavaScript да би се ова страница правилно приказала.
 ui-show-more = Покажи више
 ui-show-less = Покажи мање
@@ -21,5 +23,7 @@ ui-show-all = Прикажи све
 ui-hide-all = Сакриј све
 ui-learn-more = Сазнајте више
 ui-view = Преглед
+ui-pause-animation = Паузирај анимацију
+ui-play-animation = Покрени анимацију
 # An accessible label used to describe the purpose of a cross-promotional page element.
 ui-promo-label = Промоција

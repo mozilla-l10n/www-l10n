@@ -31,3 +31,4 @@ windows-64-bit-if-you-see-32-bit-newer = Ако угледате “(32-битн
 # $all (url) - link to https://www.mozilla.org/firefox/all/
 windows-64-bit-if-you-need-to-run = Ако морате да покренете 32-битни или ручно инсталирате 64-битни { -brand-name-firefox }, можете једноставно да преузмете и поново покренете (32-битну или 64-битну) { -brand-name-firefox } инсталацију за { -brand-name-windows } са <a href="{ $all }">странице за преузимање { -brand-name-firefox } платформи и језика.</a>
 windows-64-bit-take-control-of-your = Преузмите контролу над вашим прегледачем.
+windows-64-bit-download-firefox = Преузмите { -brand-name-firefox } за 64-битни Windows

@@ -6,16 +6,16 @@
 ### URL: https://www-dev.allizom.org/firefox/facebookcontainer/
 
 facebook-container-facebook-container-for-firefox = { -brand-name-facebook-container } за { -brand-name-firefox } | Спречава { -brand-name-facebook } да види које веб сајтове посећујете.
-facebook-container-millions-of-people-around = Милиони људи широм света верује { -brand-name-firefox } веб прегледачу за { -brand-name-android }, { -brand-name-ios } и десктоп компјутере. Брз. Приватан. Преузмите га одмах!
+facebook-container-millions-of-people-around = Милиони људи широм света верује { -brand-name-firefox } веб прегледачу за { -brand-name-android }, { -brand-name-ios } и стоне рачунаре. Брз. Приватан. Преузмите га одмах!
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. Добро задржан. Чувајте делове свог живота за себе.
 facebook-container-get-the-facebook-container = Преузмите { -brand-name-facebook-container } екстензију
 facebook-container-download-firefox-and-get-the = Преузмите { -brand-name-firefox } а затим и { -brand-name-facebook-container } екстензију
-facebook-container-only-available-for-desktop = { -brand-name-facebook-container } проширење тренутно подржава само { -brand-name-firefox } за десктоп.
+facebook-container-only-available-for-desktop = { -brand-name-facebook-container } проширење тренутно подржава само { -brand-name-firefox } за рачунаре.
 facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-facebook-container-visit-to-get-for-desktop = Посетите <a href="{ $url }">{ $link_copy }</a> да преузмете { -brand-name-firefox } за десктоп.
+facebook-container-visit-to-get-for-desktop = Посетите <a href="{ $url }">{ $link_copy }</a> да преузмете { -brand-name-firefox } за рачунаре.
 facebook-container-get-firefox-android-ios = Преузмите { -brand-name-firefox } за { -brand-name-android } и { -brand-name-ios } сада.
 facebook-container-opt-out-on-your-terms = Одредите своје услове
 # Variables:

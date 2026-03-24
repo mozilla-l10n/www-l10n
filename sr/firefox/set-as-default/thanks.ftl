@@ -23,11 +23,11 @@ set-as-default-thanks-get-firefox-for-mobile = Преузмите { -brand-name-
 set-as-default-thanks-travel-the-internet-with = Сигурно се крећите по интернету на свим вашим уређајима.
 set-as-default-thanks-download-the-app = Преузмите апликацију
 set-as-default-create-an-account = Направите налог
-set-as-default-thanks-sign-up-for-a-free-account-v2 = Отворите бесплатан { -brand-name-mozilla-account } и синхронизујте све ваше лозинке, обележиваче, историју и подешавања на свим вашим уређајима.
+set-as-default-thanks-sign-up-for-a-free-account-v2 = Отворите бесплатан { -brand-name-mozilla-account } и усклађујте све ваше лозинке, обележиваче, историју и подешавања на свим вашим уређајима.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Направите налог
 set-as-default-thanks-having-trouble = Имате проблема?
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
 #   $desktop (url) - link to https://support.mozilla.org/kb/make-firefox-your-default-browser
-set-as-default-thanks-heres-everything-you-need-android-desktop = Ево свега што треба да знате о подешавању подразумеваног прегледача на <a href="{ $android }">Android уређајима</a> или <a href="{ $desktop }">десктоп рачунарима</a>.
+set-as-default-thanks-heres-everything-you-need-android-desktop = Ево свега што треба да знате о подешавању подразумеваног прегледача на <a href="{ $android }">Android уређајима</a> или <a href="{ $desktop }">стоним рачунарима</a>.

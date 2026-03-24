@@ -52,3 +52,21 @@ firefox-products-support-mdn = Подржите { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Приступите свим вашим е-поштама, календарима и контактима у овој брзој апликацији. Филтрирајте и организујте их по жељи.
 firefox-products-download-thunderbird = Преузмите { -brand-name-thunderbird }
+
+## Solo
+
+firefox-products-solo = { -brand-name-solo }
+firefox-products-solo-desc = Одмах направите прелепу веб страницу како бисте унапредили своје пословање. Повежите и хостујте свој прилагођени домен бесплатно.
+firefox-products-learn-more-about-solo = Сазнајте више о услузи { -brand-name-solo }
+
+## 0DIN
+
+firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = Повежите своје ВИ системе са глобалном заједницом безбедносних стручњака који откривају и помажу у решавању рањивости генеративне ВИ у раној фази.
+firefox-products-learn-more-about-0din = Сазнајте више о услузи { -brand-name-0din }
+
+## Tabstack
+
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-tabstack-desc = Повежите своје апликације са вебом уз поуздану аутоматизацију и претворите активне веб странице у јасне, структуриране резултате.
+firefox-products-learn-more-about-tabstack = Сазнајте више о услузи { -brand-name-tabstack }

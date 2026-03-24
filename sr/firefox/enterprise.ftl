@@ -12,12 +12,12 @@ firefox-enterprise-get-firefox-for-your-enterprise = Преузмите { -brand
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Преузмите <a href="{ $url }">{ -brand-name-firefox-extended-support-release } или Rapid Release</a> прегледач за целовиту заштиту података и безбедност.
-firefox-enterprise-unmatched-data-protection = Неупоредива заштита података — кроз кораке преузимања које вам одговарају
+firefox-enterprise-unmatched-data-protection = Неупоредива заштита података - кроз кораке преузимања које вам одговарају
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
-firefox-enterprise-the-firefox-browser-is-open = { -brand-name-firefox } прегледач је отвореног кода и има побољшану заштиту од праћења — све је то део наше сталне посвећености заштити података.
+firefox-enterprise-the-firefox-browser-is-open = { -brand-name-firefox } прегледач је отвореног кода и има побољшану заштиту од праћења - све је то део наше сталне посвећености заштити података.
 firefox-enterprise-your-data-stays-your-business = Ваши подаци, ваша ствар
 firefox-enterprise-deploy-when-and-how-you-want = Распоредите када и како желите
-firefox-enterprise-with-install-packages-and = Са инсталационим пакетима и широким спектром групних смерница и функција, примена је бржа и флексибилнија него икад — и брза у { -brand-name-windows } и { -brand-name-mac } окружењима.
+firefox-enterprise-with-install-packages-and = Са инсталационим пакетима и широким спектром групних смерница и функција, примена је бржа и флексибилнија него икад - и брза у { -brand-name-windows } и { -brand-name-mac } окружењима.
 firefox-enterprise-choose-your-release-cadence = Изаберите ваше кораке преузимања
 firefox-enterprise-get-rapid-releases-to-make = Преузмите брза издања за брже добијање најновијих функција или проширите за сигурно супер стабилно искуство.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } преузимања

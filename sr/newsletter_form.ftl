@@ -3,13 +3,13 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Унесите важећу адресу е-поште
-newsletter-form-you-must-agree-to = Морате се сложити са полисом приватности
+newsletter-form-you-must-agree-to = Морате се сложити са политиком приватности
 newsletter-form-your-email-address = Ваша адреса е-поште
 newsletter-form-we-are-sorry-but-there = Жао нам је, дошло је до проблема са нашим системом. Покушајте поново касније!
 newsletter-form-please-select-country = Изаберите државу или регион
 newsletter-form-please-select-language = Изаберите језик
 # Only localize "yourname". Do not change "@example.com".
-newsletter-form-yournameexamplecom = вашеиме@example.com
+newsletter-form-yournameexamplecom = vase.ime@primer.rs
 newsletter-form-select-country-or-region = Изаберите државу или покрајину
 newsletter-form-select-language = Изаберите језик
 newsletter-form-your-email-here = ВАША АДРЕСА Е-ПОШТЕ ОВДЕ
@@ -29,6 +29,8 @@ newsletter-form-available-languages = Доступни језици
 newsletter-form-select-country = Одаберите државу
 newsletter-form-sign-me-up = Претплати ме
 newsletter-form-sign-up-now = Пријавите се сада
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Слање
 newsletter-form-thanks = Хвала!
 newsletter-form-leave-this-field-empty = Оставите ово поље празним
 newsletter-form-yes = Да

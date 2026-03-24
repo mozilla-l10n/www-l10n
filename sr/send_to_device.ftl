@@ -7,6 +7,8 @@ send-to-device-your-download-link = Веза за преузимање је по
 send-to-device-please-enter-an-email = Молимо унесите адресу е-поште.
 send-to-device-an-error-occured = Појавила се грешка у нашем систему. Молимо покушајте касније.
 send-to-device-enter-your-email = Унесите адресу е-поште
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = vase.ime@primer.rs
 send-to-device-send = Пошаљи
 send-to-device-intended-recipient-email = Морате имати присталицу примаоца ове е-поште.
 send-to-device-check-your-device-email = Проверите ваш уређај да ли је стигла нова е-пошта!

@@ -17,4 +17,6 @@ page7-make-them-unfollow-you = Не дозволите да вас прате
 page7-that-sneaky-little-button = Тај мали лукави тастер
 page7-those-innocent-looking-f-buttons = Вероватно сте их и раније видели: мали { -brand-name-facebook } тастери изгледају безазлено, али прате вашу активност на мрежи чак и ако немате налог. { -brand-name-facebook-container } их блокира.
 page7-stay-ahead-of-hackers = Будите корак испред хакера
+page7-firefox-monitor-lets-you-find-v2 = { -brand-name-mozilla-monitor } вам омогућава да сазнате шта хакери можда већ знају о вама и помаже вам да останете корак испред њих. (А уз то је и бесплатан.)
+page7-get-mozilla-monitor = Преузмите { -brand-name-mozilla-monitor }
 page7-why-am-i-seeing-this = Зашто ми се ово приказује?

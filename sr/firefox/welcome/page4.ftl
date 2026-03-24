@@ -9,7 +9,7 @@
 welcome-page4-download-the-firefox-browser = Преузмите { -brand-name-firefox-browser } на ваш мобилни уређај за { -brand-name-ios } и { -brand-name-android }
 welcome-page4-wallet-keys-phone-firefox = Новчаник. Кључеви. Телефон. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-privacy-every-screen-now = Останите приватни на сваком екрану
-welcome-page4-take-privacy-with-you-on-every = Понесите приватност са собом на свим вашим уређајима — и оставите трагаче у прашини.
+welcome-page4-take-privacy-with-you-on-every = Понесите приватност са собом на свим вашим уређајима - и оставите трагаче у прашини.
 welcome-page4-privacy-on-by-default = { -brand-name-android } верзија { -brand-name-firefox }-а подразумевано штити приватност. Сада можете да подесите { -brand-name-firefox } као подразумевани прегледач на { -brand-name-ios }-у 14.
 welcome-page4-get-the-firefox-mobile = Преузмите { -brand-name-firefox } Mobile
 welcome-page4-get-firefox-on-your-phone = Преузмите { -brand-name-firefox } на ваш телефон

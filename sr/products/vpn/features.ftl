@@ -51,10 +51,12 @@ vpn-features-support-for-custom-dns = Подршка за прилагођени
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
 vpn-features-keep-traffic-protected = Уз { -brand-name-mozilla-vpn }, можете имати заштићен промет и свеједно усмеравати ваше DNS упите где год желите. <a { $dns }>Сазнајте више о подршци за прилагођени DNS</a>.
 vpn-features-flexible = Прилагодљив
+vpn-features-webste-specific-vpn = Поставке VPN-а за одређене веб странице, беспрекорно интегрисане у { -brand-name-firefox }
+vpn-features-with-the-mozilla-vpn-extention = Уз проширење { -brand-name-mozilla-vpn } за { -brand-name-firefox } (само за Windows), можете фино подесити своје VPN искуство за сваку веб страницу појединачно. Искључите појединачне веб странице из VPN заштите или поставите жељене локације сервера за одређене сајтове, што вам пружа флексибилније и персонализованије искуство.
 vpn-features-personalized-server = Персонализоване препоруке за локацију сервера
 vpn-features-well-suggest-which-servers = Препоручићемо сервере близу вас који осигуравају најбржу и најпоузданију интернетску везу.
 vpn-features-personalize-which-apps = Прилагодите које апликације добијају VPN заштиту
-vpn-features-easily-exclude-apps = Лако искључите апликације за VPN заштите — без прекида везе између уређаја и { -brand-name-mozilla-vpn }-а. Доступно за Windows, Android и Linux уређаје.
+vpn-features-easily-exclude-apps = Лако искључите апликације за VPN заштите - без прекида везе између уређаја и { -brand-name-mozilla-vpn }-а. Доступно за Windows, Android и Linux уређаје.
 vpn-features-trustworthy = Поуздан
 vpn-features-money-back = 30-дневна гаранција поврата новца
 vpn-features-plus-customer-support = Плус 24/7 корисничка подршка.
@@ -75,3 +77,4 @@ vpn-features-people-over-profits = Људи изнад профита
 #   $mofo (url) - link to https://www.mozillafoundation.org/
 # Obsolete string (expires 19-10-2025)
 vpn-features-were-backed-by-mofo = Подржава нас <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, непрофитна организација која се бори да интернет остане отворен за све.
+vpn-features-were-backed-by-mofo-v2 = Подржава нас <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, непрофитна организација која се бори да веб остане отворен и здрав за све људе.

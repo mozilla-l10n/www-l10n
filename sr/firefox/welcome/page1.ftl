@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/welcome/1/
 
+# HTML page title
+welcome-page1-more-than-a-browser-mozilla = Више од прегледача - { -brand-name-mozilla-monitor } пази на хакере уместо вас
 # HTML page description
 welcome-page1-take-the-next-step-to-protect = Предузмите следећи корак да заштитите вашу приватност на мрежи помоћу { -brand-name-firefox } породице производа.
 welcome-page1-stay-ahead-of-hackers-check-v2 = Будите корак испред хакера. Пратите цурење података преко { -brand-name-mozilla-monitor }-а

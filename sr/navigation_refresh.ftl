@@ -3,6 +3,8 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-refresh-mozilla = { -brand-name-mozilla }
+# An accessible label used to describe that the role of the element is the primary website navigation.
+navigation-refresh-landmark-label = Примарно
 
 ## About us
 
@@ -17,7 +19,11 @@ navigation-refresh-get-involved-v2 = Прикључите се
 navigation-refresh-blog = Блог
 navigation-refresh-our-mission = Наша мисија
 navigation-refresh-our-work = Наш рад
+navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
+navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
+navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
 navigation-refresh-mozilla-advertising = { -brand-name-mozilla } оглашавање
+navigation-refresh-mozilla-new-products = { -brand-name-mozilla } нови производи
 
 ## Firefox
 
@@ -39,3 +45,6 @@ navigation-refresh-mozilla-monitor-v2 = { -brand-name-mozilla-monitor }
 navigation-refresh-mozilla-vpn-v2 = { -brand-name-mozilla-vpn }
 navigation-refresh-mdn-plus = { -brand-name-mdn-plus }
 navigation-refresh-thunderbird = { -brand-name-thunderbird }
+navigation-refresh-solo = { -brand-name-solo }
+navigation-refresh-0din = { -brand-name-0din }
+navigation-refresh-tabstack = { -brand-name-tabstack }

@@ -35,7 +35,11 @@ vpn-launch-the-app = 2. Покрените апликацију
 vpn-login-or-signup = 3. Пријавите се или се региструјте
 vpn-enter-your-email = Унесите вашу адресу е-поште да се пријавите или региструјете и почнете
 vpn-turn-on-vpn = 4. Укључите VPN
+vpn-install-firefox-extension = 5. Инсталирајте додатак за { -brand-name-firefox }
 vpn-pick-a-recommended = Изаберите препоручену локацију за брзу, стабилну везу или ручно изаберите жељену локацију, а затим укључите прекидач
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = <a href="{ $extension }">Преузмите и инсталирајте додатак</a> да бисте поставили изузећа по сајту и изабрали различите локације за различите веб странице.
 
 ## FAQ Strings
 
@@ -50,7 +54,14 @@ vpn-download-faq-as-more-daily = Како се све већи део нашег
 vpn-download-faq-concealing-ip = Сакривањем ваше праве <a href="{ $ip }">IP адресе</a>: ово помаже у заштити вашег идентитета и прикривању ваше локације од сајтова које посећујете.
 vpn-download-faq-encrypting = Шифровањем вашег интернет саобраћаја: тако да нико не може да шпијунира ваше активности на мрежи.
 vpn-download-faq-working = Како да знам да VPN ради исправно?
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } приказује визуелне индикаторе свог тренутног статуса како на траци са алаткама тако и на почетном екрану апликације, што олакшава сазнање да ли је ваша онлајн активност заштићена или не. Ови индикатори вам омогућавају да потврдите када је ваша навигација приватна и безбедна. Поред тога, док сте повезани, можете посетити <a href="{ $monitor }">https://monitor.mozilla.org/</a> да бисте потврдили да ли је ваша ИП адреса маскирана. За више детаља, погледајте <a href="{ $connected }">Како могу да знам да ли је { -brand-name-mozilla-vpn } повезан?</a>.
 vpn-download-faq-add-device = Како да додам још један уређај?
+# Variables:
+#   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription
+vpn-download-faq-adding-another-v3 = Додавање другог уређаја је једноставно као преузимање и инсталирање софтвера { -brand-name-mozilla-vpn }, а затим пријављивање на ваш постојећи { -brand-name-mozilla-account } на новом уређају. За више детаља, погледајте <a href="{ $subscription }">Како да додате уређаје у своју претплату на { -brand-name-mozilla-vpn }</a>.
 vpn-download-faq-best-practices = Које су најбоље праксе за VPN?
 vpn-download-faq-traffic = Ако вам је циљ да заштитите ваш интернет саобраћај уз одржавање великих брзина, увек је најбоље да изаберете сервер који је што ближе вашој физичкој локацији. Ово повећава поузданост и брзину везе јер ваш интернет саобраћај не мора да прави значајне заобилазнице пре него што стигне на одредиште на интернету.
 vpn-download-faq-experience = Ако је ваш циљ да доживите интернет као да сте негде другде у свету, изаберите ту локацију сервера и сви сајтови које посећујете ће изгледати као да сте стварно тамо.

@@ -10,6 +10,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } је невероватно брз и пружа најновије програмерске алате и могућности као што је CSS Grid и framework debugging
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = Добродошли у ваш нови омиљени прегледач. Прегледач са најновијим могућностима, брзим перформансама и програмерским алатима који су вам потребни за развој отвореног веба.
 firefox-developer-speak-up = Реците своје мишљење
 firefox-developer-feedback-makes-us = Повратне информације нас чине бољим. Кажите нам како можемо да побољшамо прегледач и Developer tools.
@@ -65,6 +66,19 @@ firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-develo
 firefox-developer-download-the-firefox-browser = Преузмите { -brand-name-firefox } направљен за програмере
 firefox-developer-welcome-to-firefox-developer-edition = Добродошли у { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Прегледач направљен за програмере
+firefox-developer-all-the-latest-v2 = Сви најновији развојни алати у бета верзији, поред функција као што су Multi-line Console Editor и WebSocket Inspector.
 firefox-developer-a-separate-profile = <strong>Одвојен профил и путања</strong> за лако покретање уз стандардну или { -brand-name-beta } { -brand-name-firefox } верзију.
 firefox-developer-preferences-tailored = Подешавања <strong>скројена за веб програмере</strong>: Отклањање грешака у прегледачу и удаљено су подразумевано омогућени, као и тамна тема и брз приступ алаткама за програмере.
 firefox-developer-congrats-you-now-have-latest-v2 = Сада имате најновију { -brand-name-firefox-developer-edition } верзију.
+# Variables:
+#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
+firefox-developer-view-the-release = Погледајте <a { $attrs }>белешке о издању</a> (само на енглеском) да бисте видели шта је ново.
+firefox-developer-developer-tools-user = Корисничка документација развојних алата
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = Ресурси за програмере, од програмера
+firefox-developer-mdn-playground = Играоница
+firefox-developer-mdn-write-test-and-share = Пишите, тестирајте и делите свој код. Ваша играоница за учење и дељење вашег невероватног рада са светом.
+firefox-developer-mdn-blog = { -brand-name-mdn } блог
+firefox-developer-mdn-unlock-the-world = Откључајте свет веб развоја уз { -brand-name-mdn } блог — ваше главно чвориште за стручне увиде, најновије веб стандарде и савете за програмирање.
+firefox-developer-mdn-updates = Ажурирања
+firefox-developer-mdn-the-web-doesnt-have = Веб нема дневник промена, али { -brand-name-mdn } може помоћи. Можете персонализовати и филтрирати промене компатибилности на основу прегледача или технолошке категорије која вас занима, било да је то JavaScript, CSS итд.

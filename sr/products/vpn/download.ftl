@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = Жао нам је, { -brand-name-mozill
 vpn-download-for-windows-v2 = VPN за { -brand-name-windows }
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (само 64-битни)
 vpn-download-for-windows-long = Преузмите { -brand-name-mozilla-vpn } за { -brand-name-windows }
+vpn-download-for-firefox-extension = Инсталирајте { -brand-name-firefox } проширење
 vpn-download-for-mac = VPN за { -brand-name-mac-short }
 vpn-download-for-mac-long = Преузмите { -brand-name-mozilla-vpn } за { -brand-name-mac-short }
 # Variables:
@@ -39,3 +40,7 @@ vpn-download-also-available = Такође доступно за:
 vpn-download-from-the-maker = Од произвођача { -brand-name-firefox } прегледача, { -brand-name-mozilla-vpn } користи напредни <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® протокол да шифрује ваше активности на мрежи и сакрије вашу локацију.
 vpn-download-we-never-log = Никада не бележимо, пратимо или делимо ваше мрежне податке.
 vpn-download-previous-versions = Преузмите претходне верзије за { -brand-name-windows } и { -brand-name-mac-short }
+vpn-download-install-via-flathub = Инсталирајте преко Flathub-а
+vpn-download-install-via-apt = Инсталирајте преко APT-а
+vpn-download-flathub = Flathub
+vpn-download-apt = APT

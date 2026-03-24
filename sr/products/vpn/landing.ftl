@@ -11,7 +11,7 @@ vpn-landing-invite-page-heading = Придружите се VPN листи че�
 vpn-landing-invite-email-label = Која је ваша адреса е-поште?
 vpn-landing-invite-required-label = Обавезно
 # Only localize "yourname". Do not change "@example.com".
-vpn-landing-invite-email-placeholder = вашеиме@example.com
+vpn-landing-invite-email-placeholder = vase.ime@primer.rs
 vpn-landing-invite-country-label = У којој земљи живите?
 vpn-landing-invite-language-label = Изаберите жељени језик
 # Variables:

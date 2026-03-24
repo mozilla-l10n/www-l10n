@@ -38,3 +38,5 @@ privacy-index-firefox-focus = { -brand-name-firefox-focus }
 privacy-index-thunderbird = { -brand-name-thunderbird }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-mozilla-subscription-services = { -brand-name-mozilla } услуге претплате
+# This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".
+privacy-index-mozilla-accounts = { -brand-name-mozilla } налози

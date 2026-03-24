@@ -85,11 +85,21 @@
 
 -brand-name-fakespot = Fakespot
 
+## Anonym
+
+-brand-name-anonym = Anonym
+
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
+-brand-name-irl-podcast = IRL подкаст
+-brand-name-solo = Solo
+-brand-name-solo-ai = Solo AI
+-brand-name-0din = 0DIN
+-brand-name-tabstack = Tabstack
+-brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-festival = Mozilla Festival
@@ -97,8 +107,15 @@
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account = Mozilla налог
 -brand-name-mozilla-accounts = Mozilla налози
+-brand-name-mozilla-builders = Mozilla Builders
+-brand-name-mozilla-ads = Mozilla Ads
+-brand-name-builders = Builders
+-brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-mozilla-ventures = Mozilla Ventures
+-brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
+-brand-name-thunderbird-pro = Thunderbird Pro
+-brand-name-thundermail = Thundermail
 
 ## Mozilla projects (short names)
 

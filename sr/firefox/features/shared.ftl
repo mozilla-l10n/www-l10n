@@ -5,3 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+features-shared-firefox-features = { -brand-name-firefox } могућности
+features-shared-footer-cta-title = Урадите више са { -brand-name-firefox } прегледачем
+features-shared-footer-cta-desc = Преузмите брз, лаган прегледач фокусиран на приватност који подржава непрофитна организација и који ради на свим вашим уређајима.

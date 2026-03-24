@@ -18,6 +18,8 @@ legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = Приватност и заштитни знакови
 legal-privacy-notices-and-policy = Политика приватности и полисе
 legal-downloadable-software-notices = Политика софтвера за преузимање
+# heading for the table of contents, a shorter heading is better
+legal-firefox-contents = Садржај
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: О вашим правима
 legal-thunderbird = { -brand-name-thunderbird }
@@ -29,3 +31,5 @@ legal-mdn-plus = { -brand-name-mdn-plus }
 legal-mdn-plus-terms = { -brand-name-mdn-plus } услови коришћења
 legal-report-copyright = Пријавите кршење ауторских права или жига
 legal-mozilla-subscription-services = { -brand-name-mozilla } услуге претплате
+legal-content-moderation = Праксе модерирања садржаја
+legal-amo-policies = АМО смернице

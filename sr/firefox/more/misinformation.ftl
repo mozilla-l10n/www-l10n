@@ -45,6 +45,6 @@ misinformation-why-trust-firefox = Зашто веровати { -brand-name-fir
 misinformation-because-we-put-people-first = Зато што стављамо људе на прво место. Заправо, подржава нас <a href="{ $foundation }">непрофитна организација</a>. Од првог дана, наша мисија је да заштитимо интернет и све на њему.
 misinformation-learn-more-about-our-mission = Сазнајте више о нашој мисији
 misinformation-your-privacy-by-the-product = Приватност у сваком производу
-misinformation-firefox-products-work-differently = { -brand-name-firefox } производи раде другачије — првенствено су намењени заштити ваше приватности.
+misinformation-firefox-products-work-differently = { -brand-name-firefox } производи раде другачије - првенствено су намењени заштити ваше приватности.
 misinformation-learn-about-our-products = Сазнајте више о нашим производима
 misinformation-designed-to-protect = Дизајниран да чува вашу приватност

@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
 consent-banner-heading = Помозите да побољшамо ваше { -brand-name-mozilla } искуство
+consent-banner-body-v2 = Поред колачића неопходних за функционисање овог сајта, желели бисмо вашу дозволу за постављање неких додатних колачића како бисмо боље разумели ваше потребе прегледања и побољшали ваше искуство. Будите уверени - ценимо вашу приватност.
 consent-banner-button-reject = Одбиј све додатне колачиће
 consent-banner-button-accept = Прихвати све додатне колачиће
 consent-banner-settings-link = Подешавања колачића

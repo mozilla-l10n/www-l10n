@@ -8,7 +8,7 @@
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Преузмите { -brand-name-firefox } на српском (sr) и више од 90 других језика
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access-v2 = Свако заслужује приступ интернету — ваш језик никада не би требало да буде препрека. Због тога, уз помоћ посвећених волонтера широм света, чинимо { -brand-name-firefox } доступним на више од 90 језика.
+firefox-all-everyone-deserves-access-v2 = Свако заслужује приступ интернету - ваш језик никада не би требало да буде препрека. Због тога, уз помоћ посвећених волонтера широм света, чинимо { -brand-name-firefox } доступним на више од 90 језика.
 firefox-all-choose-browser = Одаберите прегледач да наставите
 firefox-all-choose-platform = Одаберите платформу да наставите
 firefox-all-choose-language = Одаберите језик да наставите
@@ -31,7 +31,7 @@ firefox-all-plat-mobile = Android и iOS
 firefox-all-sorry-we-couldnt-find = Нажалост, нисмо могли наћи преузимање које тражите. Покушајте поново или изаберите преузимање са листе испод.
 firefox-all-the-pre-alpha-version = Пре-алфа верзија за напредне кориснике који воле ловити грешке и тестирати нове функције током развоја.
 firefox-all-64-bit-installers = 64-битна инсталација
-firefox-all-choose-a-64-bit-installer = Изаберите 64-битни инсталациони програм за рачунаре с 64-битним процесорима, који омогућавају доделу више меморије појединим програмима — посебно важно за игре или друге захтевне апликације.
+firefox-all-choose-a-64-bit-installer = Изаберите 64-битни инсталациони програм за рачунаре с 64-битним процесорима, који омогућавају доделу више меморије појединим програмима - посебно важно за игре или друге захтевне апликације.
 firefox-all-32-bit-installers = 32-битна инсталација
 firefox-all-microsoft-store-installers = Microsoft Store
 firefox-all-choose-a-microsoft-store-installer = Ова опција ће отворити страницу { -brand-name-firefox } производа на Microsoft Store веб порталу. Ако користите Windows 10 или Windows 11, имаћете опцију да отворите Microsoft Store са ове странице и инсталирате { -brand-name-firefox }. Ако инсталирате из Microsoft Store-а, ажурирања за { -brand-name-firefox } ће се такође обављати путем Microsoft Store-а. Постоје мале разлике у раду и могућностима { -brand-name-firefox }-а када се инсталира из Microsoft Store-а, али за већину корисника ове разлике нису приметне.
@@ -54,7 +54,7 @@ firefox-all-need-help = Треба вам помоћ?
 firefox-all-choose-which-firefox = Изаберите { -brand-name-firefox-browser } верзију коју желите да преузмете на свом језику
 firefox-all-firefox-privacy-notice = { -brand-name-firefox } политика приватности
 firefox-all-learn-about-firefox = Сазнајте више о { -brand-name-firefox } прегледачима
-firefox-all-the-standard-firefox = Стандардни { -brand-name-firefox } прегледач — брз и приватан. Ако нисте сигурни који { -brand-name-firefox } да изаберете, онда изаберите овај.
+firefox-all-the-standard-firefox = Стандардни { -brand-name-firefox } прегледач - брз и приватан. Ако нисте сигурни који { -brand-name-firefox } да изаберете, онда изаберите овај.
 firefox-all-get-a-sneak-peek-at = Завирите у најновије функције { -brand-name-firefox } прегледача пре него што буду објављене.
 firefox-all-test-your-sites-against = Тестирајте ваше странице на надолазаће функције { -brand-name-firefox } прегледача његовим моћним и флексибилним програмерским алаткама (DevTools), које су подразумевано активиране.
 firefox-all-count-on-stability-and = Можете да рачунате на стабилност и једноставност коришћења уз { -brand-name-firefox } прегледач намењеног предузећима.
@@ -65,7 +65,7 @@ firefox-all-testflight = Пријавите се да тестирате { -bran
 firefox-all-product-send-link = Пошаљите везу за преузимање на телефон
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
-firefox-all-choose-a-32-bit-installer = Изаберите 32-битни инсталациони програм за рачунаре с 32-битним процесорима — или за старије или слабије рачунаре. <a href="{ $url }">Ако нисте сигурни</a> да ли да изаберете 64-битну и 32-битну, препоручујемо да ипак преузмете 32-битну инсталацију.
+firefox-all-choose-a-32-bit-installer = Изаберите 32-битни инсталациони програм за рачунаре с 32-битним процесорима - или за старије или слабије рачунаре. <a href="{ $url }">Ако нисте сигурни</a> да ли да изаберете 64-битну и 32-битну, препоручујемо да ипак преузмете 32-битну инсталацију.
 firefox-all-msi-installers = MSI инсталација
 firefox-all-select-your-preferred-language = Изаберите жељени језик
 firefox-all-learn-about-installers = Сазнајте више о инсталацијама

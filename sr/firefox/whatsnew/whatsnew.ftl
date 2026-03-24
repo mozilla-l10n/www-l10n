@@ -13,4 +13,5 @@ whatsnew-update-notification = Ваш { -brand-name-firefox } је ажурир�
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes-v2 = Прочитајте <a { $url }>напомене о издању</a> да сазнате више о томе шта је ново у вашем { -brand-name-firefox } прегледачу.
 whatsnew-signoff = <strong>Покреће { -brand-name-mozilla }.</strong> Стављамо људе изнад профита од 1998. године.
+whatsnew-donate-to-mofo-v2 = Донирајте задужбини { -brand-name-mozilla-foundation }
 whatsnew-thanks-for-choosing = Хвала што сте изабрали { -brand-name-firefox }

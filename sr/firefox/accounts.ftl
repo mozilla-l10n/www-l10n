@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
-mozilla-accounts-get-a-mozilla-account = Направите { -brand-name-mozilla-account } – За безбедне и синхронизоване податке
+mozilla-accounts-get-a-mozilla-account = Направите { -brand-name-mozilla-account } – За безбедне и усклађене податке
 # HTML page description
-mozilla-accounts-securely-sync-your = Безбедно синхронизујте лозинке, обележиваче и картице између свих ваших уређаја. Направите { -brand-name-mozilla-account } сада – Једна пријава – Моћ и приватност свугде.
+mozilla-accounts-securely-sync-your = Безбедно усклађујте лозинке, обележиваче и картице између свих ваших уређаја. Направите { -brand-name-mozilla-account } сада – Једна пријава – Моћ и приватност свугде.
 firefox-accounts-enter-your-email-address = Да бисте започели, унесите вашу е-адресу овде.
 firefox-accounts-already-have-an-account = Већ имате налог?
 firefox-accounts-sign-in = Пријавите се
@@ -22,7 +22,7 @@ mozilla-account-sign-in-to = Пријавите се у ваш { -brand-name-moz
 firefox-accounts-send-a-tab = <a href="{ $send }">Пошаљите картицу</a> на други уређај
 # Variables:
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
-firefox-accounts-save-and-sync = <a href="{ $password }">Сачувајте и синхронизујте лозинке</a>
+firefox-accounts-save-and-sync = <a href="{ $password }">Сачувајте и усклађујте лозинке</a>
 firefox-accounts-get-email-alerts = Добијте обавештење е-поштом када се ваши подаци појаве у познатој повреди података
 firefox-accounts-protect-your-identity = Заштитите идентитет безбедним маскирањем телефона и е-поште
 firefox-accounts-keep-your-passwords = Држите ваше лозинке заштићеним и преносивим.
