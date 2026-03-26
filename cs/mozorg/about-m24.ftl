@@ -40,7 +40,7 @@ m24-about-rewiring-mozilla = Přepracování { -brand-name-mozilla(case: "gen") 
 m24-about-what-comes-next = Co dalšího se stane v oblasti technologií je otázka volby. Vybírejte s námi.
 m24-about-watch-here = Sledujte zde
 # "Double Bottom Line" refers to accounting for both money and mission values
-m24-about-can-we-have = Můžeme mít v oblasti technologií dvojité sečtené podtrženo? Mark Surman hovoří o tom, jak můžeme vybudovat technologický ekosystém s dvojitým ziskem – takový, který si váží poslání i peněz.
+m24-about-can-we-have = Je možné, aby technologický sektor sledoval dva cíle? Mark Surman se zamýšlí nad tím, jak vybudovat technologický ekosystém, který bude sledovat dva cíle — ten, který klade důraz jak na poslání, tak na zisk.
 m24-about-watch-now = Sledujte nyní
 
 ## Showcase

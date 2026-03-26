@@ -56,17 +56,17 @@ firefox-products-download-thunderbird = Stáhněte si { -brand-name-thunderbird 
 ## Solo
 
 firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = Okamžitě vytvořte krásné webové stránky, abyste mohli rozvíjet své podnikání. Připojte se a hostujte svou vlastní doménu zdarma.
+firefox-products-solo-desc = Vytvořte si okamžitě krásné webové stránky a rozšiřte tak své podnikání. Připojte a hostujte svou vlastní doménu zcela zdarma.
 firefox-products-learn-more-about-solo = Zjistit více o službě { -brand-name-solo }
 
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
-firefox-products-0din-desc = Připojte své systémy umělé inteligence do celosvětové komunity bezpečnostních expertů, kteří pomáhají odhalovat a opravovat zranitelnosti GenAI.
+firefox-products-0din-desc = Propojte své systémy umělé inteligence s globální komunitou bezpečnostních expertů, kteří odhalují zranitelnosti generativní umělé inteligence a pomáhají je včas odstranit.
 firefox-products-learn-more-about-0din = Zjistit více o službě { -brand-name-0din }
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
-firefox-products-tabstack-desc = Připojte své aplikace k webu pomocí spolehlivé automatizace a přeměňte aktuální webové stránky na čisté a strukturované výsledky.
+firefox-products-tabstack-desc = Propojte své aplikace s webem pomocí spolehlivé automatizace a přeměňte živé webové stránky na přehledné a strukturované výsledky.
 firefox-products-learn-more-about-tabstack = Zjistit více o službě { -brand-name-tabstack }

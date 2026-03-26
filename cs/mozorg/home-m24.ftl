@@ -36,12 +36,12 @@ m24-home-get-a-headsup = Nechte se informovat, když budou vaše osobní údaje 
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Zamaskujte svůj e-mail a telefonní číslo, abyste dostávali jen ty zprávy, o které stojíte.
 m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = Okamžitě vytvořte krásné webové stránky, abyste mohli rozvíjet své podnikání.
+m24-home-solo-desc = Vytvořte si okamžitě krásné webové stránky a rozšiřte tak své podnikání.
 m24-home-0din = { -brand-name-0din }
-m24-home-0din-desc = Zabezpečte svou umělou inteligenci tím, že naleznete a opravíte zranitelnosti genAI dříve než útočníci.
+m24-home-0din-desc = Zabezpečte svou AI tím, že odhalíte a odstraníte zranitelnosti generativní AI dříve, než to udělají útočníci.
 m24-home-tabstack = { -brand-name-tabstack }
 # API stands for "Application Programming Interface"
-m24-home-tabstack-desc = Spolehlivě automatizujte webové úkoly pomocí jednoduchého API zaměřeného na vývojáře.
+m24-home-tabstack-desc = Spolehlivě automatizujte webové úlohy pomocí jednoduchého API určeného pro vývojáře.
 
 ## Donate
 
@@ -122,9 +122,9 @@ m24-home-mozillas-new-message = Nová zpráva od { -brand-name-mozilla(case: "ge
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = Financial Times
-m24-home-rewiring-mozilla = Rewiring { -brand-name-mozilla }: Stejně jako pro web děláme umělou inteligenci
+m24-home-rewiring-mozilla = Nová vize { -brand-name-mozilla(case: "gen") }: Pro umělou inteligenci to, co jsme udělali pro web
 m24-home-interview-with-mark = Rozhovor s Markem Surmanem: Jak se { -brand-name-mozilla } přizpůsobuje době umělé inteligence
-m24-home-women-in-product = Ženy v konverzaci o produktu: Přidání genAI bez ztráty pravopisu
+m24-home-women-in-product = Rozhovor v rámci série „Women In Product“: Jak začlenit generativní AI, aniž by se ztratil smysl
 m24-home-scaling-open-source = Škálování Open Source AI: Mark Surman & Tim Bradshaw
 
 ## Showcase
@@ -143,7 +143,7 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } znovuobjevuje s
 # Variables
 # Obsolete string (expires: 2026-03-27)
 #   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } se znovuobjevuje, diverzifikuje se kolem skupiny organizací, přetváří reklamu a vytváří otevřený ekosystém umělé inteligence. Přečtěte si o tom v hlášení o stavu { -brand-name-mozilla } { $year }.
+m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } prochází proměnou, rozšiřuje své působení prostřednictvím celé řady organizací, přetváří podobu reklamy a buduje ekosystém umělé inteligence založený na otevřeném zdrojovém kódu. Více se o tom dočtete ve zprávě „State of { -brand-name-mozilla } { $year }“.
 # Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = Jsme na rozcestí ohledně budoucnosti technologií a velkých společností zabývajících se umělou inteligencí. Přehled Stav { $year } z { -brand-name-mozilla } vám nabízí možnost vybrat si jinou společnou budoucnost.
@@ -157,7 +157,7 @@ m24-home-read-the-report = Přečtěte si report
 ## Nothing Personal
 
 m24-home-mozilla-nothing-personal = Nic osobního
-m24-home-our-new-magazine = Náš nový časopis pro nezávislé myslitele, technology a kreativce v první linii digitální kultury.
+m24-home-our-new-magazine = Náš nový časopis pro nezávislé myslitele, technologické nadšence a tvůrce, kteří stojí v čele digitální kultury.
 m24-home-read-now = Přečtěte si nyní
 
 ## Issues

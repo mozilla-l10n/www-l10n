@@ -27,7 +27,7 @@ privacy-firefox-how-we-use-v2 = Soukromí na prvním místě
 privacy-firefox-we-use-data = Data používáme k zajištění bezproblémového chodu { -brand-name-firefox(case: "gen") }, vylepšování funkcí a udržení našeho podnikání – to vše při současném respektování vašeho soukromí. Některé volitelné funkce mohou ke svému fungování vyžadovat další údaje a my vám umožníme snadno spravovat vaše preference.
 # Variables:
 #   $attrs (string) - link to https://firefox-source-docs.mozilla.org/contributing/data-collection.html#browsing-data
-privacy-firefox-we-use-data-v2 = Na rozdíl od mnoha jiných prohlížečů, kde se běžně sbírají a ukládají citlivá uživatelská data, je { -brand-name-firefox } postaven na <a { $attrs }>principu</a>, že ani { -brand-name-mozilla } nemá vědět, jaké webové stránky navštěvujete nebo co na nich děláte.
+privacy-firefox-we-use-data-v2 = Na rozdíl od mnoha jiných prohlížečů, které běžně shromažďují a ukládají citlivá uživatelská data, je { -brand-name-firefox } postaven na principu <a { $attrs }></a>, podle kterého by ani { -brand-name-mozilla } neměla vědět, které webové stránky navštěvujete ani co na nich děláte.
 privacy-firefox-builtin-control = Zabudované nástroje
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } poskytuje jednoduché, ale výkonné nástroje pro správu dat podle vašich představ. Několika klepnutími můžete doladit nastavení, oddělit práci od osobního života nebo vymazat nechtěnou historii.
 privacy-firefox-always-protected = Vždy chráněni
