@@ -3,6 +3,9 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/features/translate/
+### URL: https://www-dev.allizom.org/products/vpn/pricing/
 
-features-translate-translate-the-web = Пераклад сеціва
+
+## Mobile only subscription copy
+
+vpn-pricing-download-the-app = Сцягнуць праграму
