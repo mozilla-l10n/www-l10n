@@ -482,6 +482,7 @@
 -brand-name-solo = Solo
 -brand-name-solo-ai = Solo AI
 -brand-name-0din = 0DIN
+-brand-name-tabstack = Tabstack
 -brand-name-lumigator =
     { $case ->
         [gen] Lumigatora
