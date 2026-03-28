@@ -81,3 +81,4 @@ firefox-developer-mdn-write-test-and-share = Twórz, testuj i udostępniaj swój
 firefox-developer-mdn-blog = Blog { -brand-name-mdn }
 firefox-developer-mdn-unlock-the-world = Odkryj świat tworzenia stron internetowych dzięki blogowi { -brand-name-mdn } — Twojemu centrum wiedzy eksperckiej, najnowszych standardów internetowych i wskazówek dotyczących kodowania.
 firefox-developer-mdn-updates = Aktualizacje
+firefox-developer-mdn-the-web-doesnt-have = Technologie sieciowe nie mają rejestru zmian, ale { -brand-name-mdn } może pomóc. Możesz personalizować i filtrować zmiany kompatybilności w oparciu o przeglądarki lub interesującą Cię kategorię technologii, np. JavaScript, CSS itp.
