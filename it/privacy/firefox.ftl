@@ -8,7 +8,7 @@
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Informazioni di base sulla privacy
 # Obsolete string (expires: 2026-02-10)
-privacy-firefox-youre-in-control = Prendi il controllo
+privacy-firefox-youre-in-control = Rimani in controllo
 privacy-firefox-youre-in-control-v2 = Hai il pieno controllo dei tuoi dati
 # Obsolete string (expires: 2026-02-10)
 privacy-firefox-privacy-isnt-just = La privacy non è solo un’impostazione: è un tuo diritto. L’informativa sulla privacy di { -brand-name-firefox } si basa su trasparenza, controllo e impostazioni predefinite responsabili. Riteniamo che tu debba sempre avere il controllo di ciò che accade ai tuoi dati. Puoi contare su di noi per spiegarti chiaramente che cosa fa { -brand-name-firefox } per impostazione predefinita e modificare le tue impostazioni in modo da poter navigare come preferisci.
