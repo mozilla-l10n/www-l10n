@@ -3,13 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/about/
+### URL: https://www-dev.allizom.org/privacy/firefox
 
-
-## Manifesto
-
-m24-about-read-our-manifesto = ساݙا منشور پڑھو
-
-## News
-
-m24-about-read-more = ٻیا پڑھو
+# heading for the table of contents, a shorter heading is better
+privacy-firefox-contents = شامل حصے

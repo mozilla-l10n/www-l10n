@@ -13,12 +13,17 @@ m24-home-welcome-to-mozilla = { -brand-name-mozilla } وچ ست بسم اللہ
 ## Products
 
 m24-home-firefox = { -brand-name-firefox }
+m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-firefox-relay = { -brand-name-firefox-relay }
+m24-home-solo = { -brand-name-solo }
+m24-home-0din = { -brand-name-0din }
+m24-home-tabstack = { -brand-name-tabstack }
 
 ## Donate
 
+m24-home-donate-to-v2 = { -brand-name-mozilla-foundation } کون عطیہ ݙیوو
 m24-home-donate = عطیہ ݙیوو
 
 ## AI gallery
@@ -28,6 +33,8 @@ m24-home-tag-project = منصوبہ
 m24-home-tag-event = ایونٹ
 m24-home-read-more = ٻیا پڑھو
 m24-home-get-started = شروع کرو
+m24-home-alt-builders-v2 = { -brand-name-builders }
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 
 ## Media Springboard
@@ -40,6 +47,7 @@ m24-home-tag-video = ویڈیو
 m24-home-topic-news = خبراں
 m24-home-topic-ai = مصنوعی ذہانت
 m24-home-topic-ps = رازداری تے سلامتی
+m24-home-mozilla = { -brand-name-mozilla }
 
 ## Issues
 

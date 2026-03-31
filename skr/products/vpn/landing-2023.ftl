@@ -51,3 +51,6 @@ vpn-landing-do-you-need-a-vpn-at-home = بَھلا تُہاکوں گھر وِچ 
 vpn-landing-what-is-an-ip-address = آئی پی پتہ کیا ہے؟
 vpn-landing-how-your-location-is-tracked = تُہاݙے مقام کوں کیویں ٹریک کِیتا وین٘دا ہِے اَتے تُساں اِین٘دا اشتراک کیویں محدود کر سڳدے ہِیوے
 vpn-landing-see-more-resources = ٻئے وسائل ݙیکھو
+vpn-landing-vpn = { -brand-name-mozilla-vpn }
+vpn-landing-monitor = { -brand-name-monitor }
+vpn-landing-relay = { -brand-name-relay }

@@ -3,6 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-refresh-leadership = قیادت
+footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
 footer-refresh-firefox-release-notes = { -brand-name-firefox } ریلیز نوٹ
 footer-refresh-follow-mozilla = { -brand-name-mozilla } تے فالو کرو
 footer-refresh-instagram = Instagram
@@ -32,4 +33,5 @@ footer-refresh-websites-cookies = کوکیاں
 footer-refresh-websites-legal = قنونی
 footer-refresh-community-participation-guidelines = برادری وچ شرکت دی رہنمائی
 footer-refresh-about-this-site = ایں سائٹ بارے
+footer-refresh-all-languages = ساریاں زباناں
 footer-refresh-language = زبان

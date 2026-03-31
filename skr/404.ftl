@@ -19,3 +19,4 @@ not-found-page-download-the-firefox-browser = آپݨی موبائل ڈیوائس
 #   $donate (url) - link to https://www.mozillafoundation.org/?form=donate-404
 # Obsolete string (expires 19-10-2025)
 not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>دان کرو</a> { -brand-name-mozilla-foundation } کوں اَتے وݙّی ٹیک نال انٹرنیٹ دا وَلا دعویٰ کرو۔
+not-found-page-donate-to-mozilla-reclaim-from-v2 = <a { $donate }>دان کرو</a> { -brand-name-mozilla-foundation } کوں اَتے وݙّی ٹیک نال انٹرنیٹ دا وَلا دعویٰ کرو۔
