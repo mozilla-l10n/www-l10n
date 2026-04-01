@@ -63,6 +63,8 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders pomaga niezależnym deweloperom tworzyć rewolucyjne projekty z zakresu sztucznej inteligencji oparte na otwartym kodzie źródłowym poprzez indywidualną współpracę, programowanie i społeczność.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } pomaga niezależnym deweloperom tworzyć rewolucyjne projekty z zakresu sztucznej inteligencji oparte na otwartym kodzie źródłowym poprzez indywidualną współpracę, programowanie i społeczność.
 m24-home-watch-now = Obejrzyj teraz
+m24-home-your-tools-your = Twoje narzędzia, Twój wybór. Zunifikowany stos open source, który upraszcza tworzenie i testowanie nowoczesnych agentów i aplikacji AI.
+m24-home-get-started-now = Zacznij teraz
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Masz startup na wczesnym etapie rozwoju? Zaprezentuj swoją firmę { -brand-name-mozilla-ventures } i zapewnij jej finansowanie, aby wprowadzić pozytywne zmiany w przyszłości sztucznej inteligencji i internetu.
 
