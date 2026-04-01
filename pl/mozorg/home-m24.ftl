@@ -98,8 +98,13 @@ m24-home-watch-the-award = Obejrzyj galę wręczenia nagród
 m24-home-state-of-mozilla-alt = Abstrakcyjna grafika pikselowa w odcieniach zieleni, pomarańczy i różu
 m24-home-read-the-report = Przeczytaj raport
 
+## Nothing Personal
+
+m24-home-read-now = Przeczytaj teraz
+
 ## Issues
 
+m24-home-explore-issues-shaping = Poznaj kwestie kształtujące przyszłość Internetu
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, prowadząca podcast IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
