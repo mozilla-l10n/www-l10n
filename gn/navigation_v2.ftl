@@ -52,7 +52,7 @@ navigation-v2-learn-about-the-values = Eikuaa tekoporãrã rehegua ha tekoypy og
 navigation-v2-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-v2-meet-the-not-for-profit-behind = Eikuaa atyguasu viru’ỹgua { -brand-name-firefox } rapykuéri omoakãva ñanduti iporãvéva.
 navigation-v2-get-involved = Emba’apo orendive
-navigation-v2-join-the-fight-for-a = Eipytyvõke ñanduti hekoresãi hag̃ua.
+navigation-v2-join-the-fight-for-a = Eipytyvõke ñanduti hekoresã hag̃ua.
 navigation-v2-leadership = Motenondekuaa
 navigation-v2-meet-the-team-thats-building = Eikuaa aty omba’apóva tembiporupyahu ñanduti iporãve hag̃ua.
 navigation-v2-careers = Mbo’esyryete
@@ -61,7 +61,7 @@ navigation-v2-mozilla-blog = { -brand-name-mozilla } Blog
 navigation-v2-learn-about-mozilla-and = Eikuaa { -brand-name-mozilla } rehegua ha umi apañuái romomba’éva.
 navigation-v2-more-about-mozilla = Hetave { -brand-name-mozilla } rehegua
 navigation-v2-impact = Mbaretekue
-navigation-v2-find-out-how = Ehecha mba’épa rojapo Ñanduti ojeporuve ha hekoresãi hag̃ua
+navigation-v2-find-out-how = Ehecha mba’épa rojapo Ñanduti ojeporuve ha hekoresã hag̃ua
 
 ## Innovation menu
 

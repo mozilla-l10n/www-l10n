@@ -20,7 +20,7 @@ new-platform-need-help = Reikotevẽpa pytyvõ
 
 new-platform-download-mozilla-linux = Emboguejy { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux } peg̃uarã
 # /firefox/linux/ HTML page description
-new-platform-download-mozilla-desc-linux = Emboguejy { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux } peg̃uarã, peteĩ ñanduti kundahára reiguáva omoheñóiva atyguasu arapygua viru’ỹguáva omba’apóva opaite tapicha hekoresãi hag̃ua ñandutípe. ¡Eguerekóke { -brand-name-firefox } { -brand-name-linux } peg̃uarã!
+new-platform-download-mozilla-desc-linux = Emboguejy { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux } peg̃uarã, peteĩ ñanduti kundahára reiguáva omoheñóiva atyguasu arapygua viru’ỹguáva omba’apóva opaite tapicha hekoresã hag̃ua ñandutípe. ¡Eguerekóke { -brand-name-firefox } { -brand-name-linux } peg̃uarã!
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = Emboguejy { -brand-name-firefox } { -brand-name-linux } peg̃uarã, ipya’evéva opavavégui
 # /firefox/linux/ social sharing description
@@ -35,7 +35,7 @@ new-platform-look-under-the-hood = Ehecha porãke. { -brand-name-linux }-icha av
 
 new-platform-download-mozilla-firefox-mac = Emboguejy { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-mac-short } peg̃uarã
 # /firefox/mac/ HTML page description
-new-platform-download-mozilla-firefox-desc-mac = Emboguejy { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-mac-short } peg̃uarã, peteĩ ñanduti kundahára reiguáva omoheñóiva atyguasu arapygua viru’ỹguáva omba’apóva opaite tapicha hekoresãi hag̃ua ñandutípe. ¡Eguerekóke { -brand-name-firefox } { -brand-name-mac-short } peg̃uarã!
+new-platform-download-mozilla-firefox-desc-mac = Emboguejy { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-mac-short } peg̃uarã, peteĩ ñanduti kundahára reiguáva omoheñóiva atyguasu arapygua viru’ỹguáva omba’apóva opaite tapicha hekoresã hag̃ua ñandutípe. ¡Eguerekóke { -brand-name-firefox } { -brand-name-mac-short } peg̃uarã!
 # /firefox/mac/ social sharing title
 new-platform-download-the-fastest-mac = Emboguejy { -brand-name-firefox } { -brand-name-mac-short } peg̃uarã, ipya’evéva opavavégui
 # /firefox/mac/ social sharing description

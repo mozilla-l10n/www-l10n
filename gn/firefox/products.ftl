@@ -56,14 +56,17 @@ firefox-products-download-thunderbird = Emboguejy { -brand-name-thunderbird }
 ## Solo
 
 firefox-products-solo = { -brand-name-solo }
+firefox-products-solo-desc = Emoheñói peteĩ ñanduti rogue iporãva emongakuaa hag̃ua ne ñemuha. Eike ha emohenda ne rendaite mboavapyre reiete.
 firefox-products-learn-more-about-solo = Eikuaave { -brand-name-solo } rehegua
 
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = Embojoaju nde IA apopyvusu tekoha arapygua ikatupyrýva tekorosãrãme ojuhu ha omoĩporãva GenAI imarãkuaahápe ñemyatyrõ pya’erã.
 firefox-products-learn-more-about-0din = Eikuaave { -brand-name-0din } rehegua
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-tabstack-desc = Embojoaju ne rembiporu’ikuéra ñandutíre ojereroviávare ha ejapo ñanduti roguégui mba’epotĩ ha oikoporãvape.
 firefox-products-learn-more-about-tabstack = Eikuaave { -brand-name-tabstack } rehegua

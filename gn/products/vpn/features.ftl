@@ -53,6 +53,7 @@ vpn-features-webste-specific-vpn = VPN ñemboheko ha’etéva peteĩteĩva ñand
 vpn-features-personalized-server = Ñemoñe’ẽ avaitépe mohendahavusu rendaite rehegua
 vpn-features-well-suggest-which-servers = Ro’e ndéve mba’e apopyvusu ag̃uiguáva ne pytyvõta jeikekaturã ñanduti ipya’e ha jeroviahávape.
 vpn-features-personalize-which-apps = Eiporavo mba’e tembiporu’ípa oñemo’ãta VPN ndive
+vpn-features-easily-exclude-apps = Emboyke pya’e VPN rembiporu ñemo’ã — natekotevẽi embogue ne { -brand-name-mozilla-vpn } mba’e’oka. Ojeguereko Windows, Android ha Linux mba’e’okápe.
 vpn-features-trustworthy = Jeroviaha
 vpn-features-money-back = 30 ára haguépe ome’ẽkuaajey viru
 vpn-features-plus-customer-support = Avei oñepytyvõ ñemuhárape 24/7.
@@ -72,4 +73,5 @@ vpn-features-people-over-profits = Yvypóra viru ñegana ári
 # Variables
 #   $mofo (url) - link to https://www.mozillafoundation.org/
 # Obsolete string (expires 19-10-2025)
-vpn-features-were-backed-by-mofo = Oreykeko <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, tendaguasu viru’ỹgua oñorairõva ñanduti ijuruja ha hekoresãi hag̃ua opavavépe g̃uarã.
+vpn-features-were-backed-by-mofo = Oreykeko <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, tendaguasu viru’ỹgua oñorairõva ñanduti ijuruja ha hekoresã hag̃ua opavavépe g̃uarã.
+vpn-features-were-backed-by-mofo-v2 = Oreykeko <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, tendaguasu viru’ỹgua oñorairõva ñanduti ijuruja ha hekoresã hag̃ua opavavépe g̃uarã.
