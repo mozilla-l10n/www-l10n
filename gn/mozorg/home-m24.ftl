@@ -38,6 +38,7 @@ m24-home-mask-your-email = Ehovañomi ne ñanduti veve ha pumbyry papapy og̃uah
 m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = Emoheñói ñanduti rogue iporãva embotuichave hag̃ua ñe ñemuha.
 m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = Emo’ã nde AI ejuhu ha emyatyrõvo GenAI imarãkuaaha mba’evai apoha ojapo mboyve.
 m24-home-tabstack = { -brand-name-tabstack }
 # API stands for "Application Programming Interface"
 m24-home-tabstack-desc = Embojehegui ñanduti rembiapo jeroviaha API ndive oma’ẽva mboguataháre.
@@ -67,14 +68,18 @@ m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders oipytyvõ mboguataharakuéra ijeheguívape omoheñóivo apopyrã IA ayvu ijurujáva omoambuekuaáva ñepytyvõ, mbosako’i ha tekoha oipotáva.
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } oipytyvõ mboguatahára ijeheguívape omoheñóivo apopyrã IA ijayvu jurujáva omoambuekuaáva ñepytyvõ, mbosako’i ha tekoha rupive.
 m24-home-own-what-you = Eñemomba’e emoheñóivare
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = ¿Ñaikotevẽ peteĩ “LAMP Stack” IA jeporurãme g̃uarã? Ñaikotevẽ tembiporupyahu hesakã, hekoporãva ha ijára umi oiporúva mba’e.
 m24-home-watch-now = Ema’ẽ ko’ág̃a
 m24-home-choice-first-stack = Eiporavo First Stack
+m24-home-your-tools-your = Ne rembiporuita, eiporavóva. Peteĩ mbojo’a ojuehegua ijayvu jurujáva ombohapéva ñemoheñói ha oha’ã agente ha IA rembiporu’i ag̃agua.
 m24-home-get-started-now = Eñepyrũ ko’ág̃a
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Ñe’ẽkuaahára tarímape apopyre ra’ãnga’i ndive.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = ¿Ereko peteĩ jeku’erã ñepyrũ? Ehechauka ne mba’apohaguasu { -brand-name-mozilla-ventures }-pe ha ehupyty viru emongu’e hag̃ua ñemoambue porã IA ha ñanduti renonderã.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Mba’ekuaarã aty
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective omopu’ãjey IA mba’ekuaarã jere rehegua tekoha ndive oĩva mbytépe.
 m24-home-join-today = Eike ko árape
 m24-home-a-double-bottom = Apopyrã jo’a tembiporupyahúpe g̃uarã
 m24-home-agent-platform = Agente pyendavusu
@@ -131,6 +136,8 @@ m24-home-state-of-mozilla = { -brand-name-mozilla } rekotee
 # Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Pixel art abstracto sa’ykuéra hovyũ, narã ha pytãngýpe
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt-v2 = Pe jehaipyre ‘Eiporavo ne renonderã’ peteĩ tugua sa’yju je’óva
 m24-home-read-the-report = Emoñe’ẽ marandu’i
 
 ## Nothing Personal
