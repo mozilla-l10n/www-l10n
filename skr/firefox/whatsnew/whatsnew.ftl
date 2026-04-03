@@ -13,4 +13,5 @@ whatsnew-update-notification = تہاݙی { -brand-name-firefox } اپ ڈیٹ ت
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes-v2 = تہاݙے{ -brand-name-firefox }براؤزر وِچ نواں کیا ہے ایندے بارے ودھیک ڄاݨݨ کیتے  <a { $url }>  ریلیز نوٹس </a> پڑھو۔
 whatsnew-signoff = <strong> { -brand-name-mozilla } ولوں تکڑا تھیا۔</strong> 1998 کنوں لوکاں کوں منافع ݙیندا پئے۔
+whatsnew-donate-to-mofo-v2 = { -brand-name-mozilla-foundation } کوں عطیہ ݙیوو
 whatsnew-thanks-for-choosing = { -brand-name-firefox } چݨݨ تے تہاݙا شکریہ

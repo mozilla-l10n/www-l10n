@@ -30,6 +30,7 @@ m24-home-donate = عطیہ ݙیوو
 
 m24-home-tag-product = مصنوع
 m24-home-tag-project = منصوبہ
+m24-home-tag-program = پروگرام
 m24-home-tag-event = ایونٹ
 m24-home-read-more = ٻیا پڑھو
 m24-home-get-started = شروع کرو
@@ -42,9 +43,13 @@ m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-type = قسم
 # Obsolete string (expires 2026-03-13)
 m24-home-author = مصنف
+m24-home-topic = موضوع
+m24-home-intro = تعارف
 m24-home-tag-article = مضمون
+m24-home-tag-podcast = Podcast
 m24-home-tag-video = ویڈیو
 m24-home-topic-news = خبراں
+m24-home-topic-products = مصنوعات
 m24-home-topic-ai = مصنوعی ذہانت
 m24-home-topic-ps = رازداری تے سلامتی
 m24-home-mozilla = { -brand-name-mozilla }

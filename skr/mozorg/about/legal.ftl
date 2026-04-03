@@ -18,6 +18,8 @@ legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = رازداری تے ٹریڈمارک
 legal-privacy-notices-and-policy = رازداری نوٹس تے پالیسی
 legal-downloadable-software-notices = ڈاؤن لوڈ دے قابل سافٹ ویئر نوٹس
+# heading for the table of contents, a shorter heading is better
+legal-firefox-contents = شامل حصے
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: تہاݙے حقاں بارے
 legal-thunderbird = { -brand-name-thunderbird }

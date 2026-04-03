@@ -56,7 +56,9 @@ firefox-products-download-thunderbird = { -brand-name-thunderbird } ڈاؤن ل�
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
+firefox-products-learn-more-about-0din = { -brand-name-0din } بارے ٻیا سکھو
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-learn-more-about-tabstack = { -brand-name-tabstack } بارے ٻیا سکھو

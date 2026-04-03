@@ -29,6 +29,8 @@ newsletter-form-available-languages = دستیاب زباناں
 newsletter-form-select-country = ملک چݨو
 newsletter-form-sign-me-up = میکوں سائن اپ کرو
 newsletter-form-sign-up-now = ہݨ سائن اپ تھیوو
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = بھیڄیندا پیا ہے
 newsletter-form-thanks = شکریہ!
 newsletter-form-leave-this-field-empty = ایہ خانہ خالی چھوڑو۔
 newsletter-form-yes = جیا
