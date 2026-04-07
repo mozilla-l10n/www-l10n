@@ -19,6 +19,6 @@ browsers-mobile-get-enhanced-tracking-protection = Атрымайце ўзмоц
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Шукаеце аптымізаваны, звышхуткі мабільны браўзер з функцыямі прыватнасці наступнага ўзроўню? { -brand-name-firefox-focus } аўтаматычна сцірае ўсю вашу гісторыю аглядання з моманту адкрыцця браўзера да секунды яго закрыцця.
 browsers-mobile-compare = Параўнаць
-browsers-mobile-download = Загрузіць
+browsers-mobile-download = Сцягнуць
 browsers-mobile-android = { -brand-name-android }
 browsers-mobile-ios = { -brand-name-ios }
