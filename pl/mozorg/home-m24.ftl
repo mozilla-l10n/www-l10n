@@ -88,6 +88,8 @@ m24-home-mozilla-ai-ceo = Dyrektor generalny { -brand-name-mozilla-ai-v2 } mówi
 m24-home-introducing-thundermail-and = Przedstawiamy Thundermail i Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Przedstawiamy { -brand-name-thundermail } i { -brand-name-thunderbird-pro }
 m24-home-the-guardian = The Guardian
+m24-home-axios = Axios
+m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 
 ## Showcase
