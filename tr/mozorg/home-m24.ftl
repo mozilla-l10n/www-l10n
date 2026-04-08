@@ -40,6 +40,8 @@ m24-home-solo-desc = İşinizi büyütmek için anında şık bir web sitesi olu
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = GenAI güvenlik açıklarını saldırganlardan önce bulup düzelterek yapay zekânızı güvence altına alın.
 m24-home-tabstack = { -brand-name-tabstack }
+# API stands for "Application Programming Interface"
+m24-home-tabstack-desc = Geliştirici odaklı basit bir API ile web görevlerinizi güvenilir bir şekilde otomatikleştirin.
 
 ## Donate
 
