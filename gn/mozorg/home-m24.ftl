@@ -150,6 +150,8 @@ m24-home-read-now = Emoñe’ẽ ko’ág̃a
 m24-home-explore-issues-shaping = Ehapykueho mba’e ombohekóva Ñanduti renonderã
 m24-home-the-validation-machines = Umi máquina oñemoneĩha
 # Used as an accessible text alternative for an image
+m24-home-alt-validation = Tapicha michĩ’i omañáva tai guasu pe jehaihápe ha mohendaha mba’erechaha nemongéva.
+# Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, ohechaukáva IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-irl-listen-now = Ehendu ko’ág̃a
