@@ -46,3 +46,5 @@ footer-refresh-community-participation-guidelines = Правила поведе�
 footer-refresh-about-this-site = Об этом сайте
 footer-refresh-all-languages = Все языки
 footer-refresh-language = Язык
+footer-refresh-anonym-privacy-policy = Политика приватности { -brand-name-anonym }
+footer-refresh-anonym-terms-and-conditions = Условия использования { -brand-name-anonym }

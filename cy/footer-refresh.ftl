@@ -46,3 +46,5 @@ footer-refresh-community-participation-guidelines = Canllawiau Cyfranogiad Cymun
 footer-refresh-about-this-site = Am y wefan hon
 footer-refresh-all-languages = Pob iaith
 footer-refresh-language = Iaith
+footer-refresh-anonym-privacy-policy = Polisi Preifatrwydd { -brand-name-anonym }
+footer-refresh-anonym-terms-and-conditions = { -brand-name-anonym } Telerau ac Amodau

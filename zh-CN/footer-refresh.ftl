@@ -46,3 +46,5 @@ footer-refresh-community-participation-guidelines = 社区参与准则
 footer-refresh-about-this-site = 关于本站
 footer-refresh-all-languages = 所有语言
 footer-refresh-language = 语言
+footer-refresh-anonym-privacy-policy = { -brand-name-anonym } 隐私政策
+footer-refresh-anonym-terms-and-conditions = { -brand-name-anonym } 条款和条件

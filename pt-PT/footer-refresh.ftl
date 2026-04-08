@@ -44,3 +44,5 @@ footer-refresh-community-participation-guidelines = Linhas orientadoras da comun
 footer-refresh-about-this-site = Sobre este site
 footer-refresh-all-languages = Todos os idiomas
 footer-refresh-language = Idioma
+footer-refresh-anonym-privacy-policy = Política de privacidade de { -brand-name-anonym }
+footer-refresh-anonym-terms-and-conditions = { -brand-name-anonym } Termos e Condições
