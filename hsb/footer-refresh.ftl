@@ -46,3 +46,5 @@ footer-refresh-community-participation-guidelines = Wobdźělenske směrnicy zhr
 footer-refresh-about-this-site = Wo tutym sydle
 footer-refresh-all-languages = Wšě rěče
 footer-refresh-language = Rěč
+footer-refresh-anonym-privacy-policy = Prawidła priwatnosće { -brand-name-anonym }
+footer-refresh-anonym-terms-and-conditions = Wobchodniske wuměnjenja { -brand-name-anonym }
