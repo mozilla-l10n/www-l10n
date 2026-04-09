@@ -46,5 +46,5 @@ footer-refresh-community-participation-guidelines = Közösségi részvételi ir
 footer-refresh-about-this-site = Az oldal névjegye
 footer-refresh-all-languages = Összes nyelv
 footer-refresh-language = Nyelv
-footer-refresh-anonym-privacy-policy = { -brand-name-anonym } Adatvédelmi irányelvek
-footer-refresh-anonym-terms-and-conditions = { -brand-name-anonym } Felhasználói feltételek
+footer-refresh-anonym-privacy-policy = Az { -brand-name-anonym } adatvédelmi irányelvei
+footer-refresh-anonym-terms-and-conditions = Az { -brand-name-anonym } felhasználói feltételei
