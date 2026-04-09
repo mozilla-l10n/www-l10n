@@ -67,6 +67,7 @@ m24-home-your-tools-your = Twoje narzędzia, Twój wybór. Zunifikowany stos ope
 m24-home-get-started-now = Zacznij teraz
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Masz startup na wczesnym etapie rozwoju? Zaprezentuj swoją firmę { -brand-name-mozilla-ventures } i zapewnij jej finansowanie, aby wprowadzić pozytywne zmiany w przyszłości sztucznej inteligencji i internetu.
+m24-home-join-today = Dołącz już dziś
 
 ## Media Springboard
 
@@ -83,6 +84,7 @@ m24-home-topic-products = Produkty
 m24-home-topic-ai = Sztuczna inteligencja
 m24-home-topic-ps = Prywatność i bezpieczeństwo
 m24-home-headline-you-ai-v2 = Ty, AI i internet — co się naprawdę dzieje?
+m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = Dyrektor generalny { -brand-name-mozilla-ai-v2 } mówi o zaletach otwartoźródłowej sztucznej inteligencji.
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Przedstawiamy Thundermail i Thunderbird Pro
@@ -91,6 +93,8 @@ m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = The FT
+m24-home-interview-with-mark = Wywiad z Markiem Surmanem: Jak { -brand-name-mozilla } adaptuje się do ery sztucznej inteligencji
 
 ## Showcase
 

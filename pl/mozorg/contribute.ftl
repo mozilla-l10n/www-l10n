@@ -40,6 +40,12 @@ contribute-made-by-heading = Stworzona przez pasjonatów takich jak Ty
 contribute-made-by-desc = Wspierając { -brand-name-mozilla }, stajesz się częścią międzynarodowej społeczności składającej się z osób z całego świata, które wierzą, że wszyscy mamy swój udział w zapewnieniu, że Internet pozostanie siłą dobra.
 contribute-made-by-desc-cont = Wierzymy, że współpraca społeczności ma kluczowe znaczenie dla tworzenia internetu, który jest zróżnicowany, innowacyjny i odpowiedzialny wobec osób, które najbardziej go potrzebują. Niezależnie od tego, czy masz doświadczenie w dziedzinie technologii, organizacji społeczności, czy po prostu komputer i trochę wolnego czasu, możesz pomóc nam uczynić internet lepszym miejscem.
 
+## Newsletter
+
+contribute-newsletter-heading = Jeszcze się nie zdecydowałeś?
+contribute-newsletter-sub-heading = Otrzymuj wiadomości dotyczące społeczności i możliwości zaangażowania bezpośrednio na swoją skrzynkę e-mailową
+contribute-newsletter-desc = Zapisz się do naszego newslettera, dołącz do społeczności Mozillian na całym świecie i dowiedz się o skutecznych sposobach wspierania misji { -brand-name-mozilla(case: "gen") }.
+
 ## Support
 
 contribute-support-heading = Uzyskaj pomoc
