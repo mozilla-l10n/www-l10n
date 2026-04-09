@@ -38,6 +38,7 @@ m24-home-mask-your-email = Oculte seu email e número de celular para receber so
 m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = Crie instantaneamente um belo site para expandir sua atividade.
 m24-home-0din = { -brand-name-0din }
+m24-home-tabstack = { -brand-name-tabstack }
 
 ## Donate
 
@@ -74,6 +75,7 @@ m24-home-alt-ventures = Palestrante no palco com vários logotipos de produtos.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Tem uma startup em estágio inicial? Apresente sua empresa para { -brand-name-mozilla-ventures } e garanta financiamento para promover mudanças positivas no futuro da inteligência artificial e da internet.
 m24-home-join-today = Participe hoje mesmo
+m24-home-agent-platform = Plataforma de agentes
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Qualquer agente
 
@@ -99,6 +101,10 @@ m24-home-mozilla-ai-ceo = CEO da { -brand-name-mozilla-ai-v2 } fala sobre as van
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Apresentação do Thundermail e Thunderbird Pro
 m24-home-what-comes-next = O futuro da tecnologia é uma escolha. Faça a escolha conosco.
+m24-home-the-guardian = The Guardian
+m24-home-axios = Axios
+m24-home-fast-company = Fast Company
+m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = Financial Times
 
 ## Showcase
@@ -118,6 +124,10 @@ m24-home-mozilla-is-reinventing-itself = A { -brand-name-mozilla } está se rein
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Arte com pontos abstrata em tons de verde, laranja e rosa.
 m24-home-read-the-report = Ler o relatório
+
+## Nothing Personal
+
+m24-home-read-now = Ler agora
 
 ## Issues
 

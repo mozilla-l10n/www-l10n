@@ -76,6 +76,7 @@ manifesto-details-there-are-many = Existem diversas formas de promover os princ�
 manifesto-details-mozilla-foundation = Compromisso da { -brand-name-mozilla-foundation }
 # Obsolete string (expires 19-10-2025)
 manifesto-details-the-mozilla-foundation-pleges = A { -brand-name-mozilla-foundation } tem o compromisso de manter e empregar o Manifesto { -brand-name-mozilla } em suas atividades. Mais especificamente:
+manifesto-details-the-mozilla-foundation-pleges-v2 = A { -brand-name-mozilla-foundation } tem o compromisso de apoiar o Manifesto { -brand-name-mozilla } em suas atividades. Mais especificamente:
 manifesto-details-build-and-enable = Construir e habilitar tecnologias de código aberto e comunidades que apoiam os princípios do Manifesto.
 manifesto-details-build-and-deliver = Construir e disponibilizar ótimos produtos ao consumidor que oferecem suporte aos princípios do Manifesto.
 manifesto-details-use-the-mozilla = Usar os ativos da { -brand-name-mozilla } (propriedade intelectual como direitos autorais e marcas registradas, infraestrutura, recursos financeiros e reputação) para manter a internet uma plataforma aberta.
