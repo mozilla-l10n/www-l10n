@@ -47,4 +47,4 @@ footer-refresh-about-this-site = Acerca de este sitio
 footer-refresh-all-languages = Todos los idiomas
 footer-refresh-language = Idioma
 footer-refresh-anonym-privacy-policy = Política de privacidad de { -brand-name-anonym }
-footer-refresh-anonym-terms-and-conditions = { -brand-name-anonym } términos y condiciones
+footer-refresh-anonym-terms-and-conditions = Términos y condiciones de { -brand-name-anonym }
