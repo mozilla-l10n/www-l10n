@@ -46,3 +46,5 @@ footer-refresh-community-participation-guidelines = Pravidlá pre prispievanie
 footer-refresh-about-this-site = O tejto stránke
 footer-refresh-all-languages = Všetky jazyky
 footer-refresh-language = Jazyk
+footer-refresh-anonym-privacy-policy = Zásady ochrany osobných údajov platformy { -brand-name-anonym }
+footer-refresh-anonym-terms-and-conditions = Podmienky používania služby { -brand-name-anonym }
