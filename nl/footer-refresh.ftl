@@ -47,3 +47,4 @@ footer-refresh-about-this-site = Over deze website
 footer-refresh-all-languages = Alle talen
 footer-refresh-language = Taal
 footer-refresh-anonym-privacy-policy = { -brand-name-anonym }-privacybeleid
+footer-refresh-anonym-terms-and-conditions = Algemene voorwaarden { -brand-name-anonym }
