@@ -38,6 +38,7 @@ m24-home-mask-your-email = Oculte seu email e número de celular para receber so
 m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = Crie instantaneamente um belo site para expandir sua atividade.
 m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = Proteja sua inteligência artificial encontrando e corrigindo vulnerabilidades do GenAI antes que invasores o façam.
 m24-home-tabstack = { -brand-name-tabstack }
 
 ## Donate
@@ -131,6 +132,10 @@ m24-home-read-now = Ler agora
 
 ## Issues
 
+m24-home-explore-issues-shaping = Conheça os assuntos que estão moldando o futuro da internet
+m24-home-the-validation-machines = As máquinas de validação
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = Uma pessoa em miniatura olhando para uma grande tecla do teclado e uma tela de computador hipnotizante
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, apresentadora do IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
