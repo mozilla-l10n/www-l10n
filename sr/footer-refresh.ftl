@@ -46,3 +46,5 @@ footer-refresh-community-participation-guidelines = Смернице за уче
 footer-refresh-about-this-site = О овом сајту
 footer-refresh-all-languages = Сви језици
 footer-refresh-language = Језик
+footer-refresh-anonym-privacy-policy = { -brand-name-anonym } политика приватности
+footer-refresh-anonym-terms-and-conditions = { -brand-name-anonym } услови коришћења
