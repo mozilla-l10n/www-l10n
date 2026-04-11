@@ -35,6 +35,7 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Otrzymuj ostrzeżenia, jeśli Twoje dane osobowe są zagrożone i chroń je jak profesjonalista.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Ukryj swój adres e-mail i numer telefonu, aby otrzymywać tylko interesujące Cię wiadomości.
+m24-home-solo = { -brand-name-solo }
 
 ## Donate
 

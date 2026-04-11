@@ -10,6 +10,7 @@
 
 contribute-page-heading = Twoje talenty są potrzebne dla lepszego Internetu
 contribute-page-intro = { -brand-name-mozilla } to organizacja non-profit, która pracuje nad tym, aby internet był otwarty i przyjazny dla wszystkich. Potrzebujemy Twojej pomocy. Dołączając do naszej społeczności, możesz pomóc w rozwijaniu innowacji, zwiększaniu odpowiedzialności i zaufania oraz sprawić, że internet stanie się lepszym miejscem dla wszystkich.
+contribute-how-heading = Jak możesz nam pomóc…
 
 ## Contribution tasks
 
@@ -19,6 +20,7 @@ contribute-tag-technical-non-technical = Techniczne i nietechniczne
 contribute-tag-support = Wsparcie
 contribute-task-translate-heading = Tłumaczenie treści
 contribute-task-translate-desc = Internet jest globalny tylko wtedy, gdy jest rozumiany wszędzie. Pomóż nam przetłumaczyć produkty i strony internetowe { -brand-name-mozilla(case: "gen") } na Twój lokalny język.
+contribute-task-mozilla-codebase-heading = Wnieś swój wkład do bazy kodu { -brand-name-mozilla(case: "gen") }
 contribute-task-join-heading = Dołącz do społeczności
 
 ## Mission
@@ -31,7 +33,7 @@ contribute-find-event = Znajdź wydarzenie
 contribute-meet-volunteers = Poznaj naszych pełnych pasji wolontariuszy
 contribute-donate = Przekaż datek
 contribute-help-fund = Pomóż sfinansować naszą misję
-contribute-follow-mozilla = Obserwuj { -brand-name-mozilla(case: "gen") }
+contribute-follow-mozilla = Obserwuj konto { -brand-name-mozilla(case: "gen") }
 contribute-opportunities = Aktualności i możliwości wolontariatu
 
 ## Made by

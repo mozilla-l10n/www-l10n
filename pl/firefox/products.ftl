@@ -52,3 +52,7 @@ firefox-products-support-mdn = Wspieraj { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Dostęp do wszystkich wiadomości, kalendarzy i kontaktów w jednej szybkiej aplikacji. Filtruj i organizuj je tak, jak lubisz.
 firefox-products-download-thunderbird = Pobierz { -brand-name-thunderbird(case: "acc") }
+
+## Solo
+
+firefox-products-learn-more-about-solo = Dowiedz się więcej o { -brand-name-solo }
