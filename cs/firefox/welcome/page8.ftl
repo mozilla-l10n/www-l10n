@@ -13,7 +13,7 @@ welcome-page8-firefox-automatically-protects = { -brand-name-firefox } automatic
 welcome-page8-view-your-protection-report = Podívejte se na hlášení o ochraně vašeho soukromí
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 welcome-page8-enhanced-tracking-protection = Rozšířená ochrana proti sledování
-welcome-page8-automatically-block-sites = Automaticky blokuje stránky, které se vás snaží na internetu sledovat.
+welcome-page8-automatically-block-sites = Automaticky blokuje weby, které se vás snaží na internetu sledovat.
 welcome-page8-see-whats-blocked = Podívejte se, co je blokováno
 welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
 welcome-page8-see-what-youve-been = Podívejte se, jestli jste nebyli součástí nějakého známého úniku dat, a vypořádejte se s ním.
