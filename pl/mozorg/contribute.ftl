@@ -22,6 +22,7 @@ contribute-task-translate-heading = Tłumaczenie treści
 contribute-task-translate-desc = Internet jest globalny tylko wtedy, gdy jest rozumiany wszędzie. Pomóż nam przetłumaczyć produkty i strony internetowe { -brand-name-mozilla(case: "gen") } na Twój lokalny język.
 contribute-task-mozilla-codebase-heading = Wnieś swój wkład do bazy kodu { -brand-name-mozilla(case: "gen") }
 contribute-task-join-heading = Dołącz do społeczności
+contribute-task-join-desc = Chcesz bardziej zaangażować się w społeczność { -brand-name-mozilla(case: "gen") }? Sprawdź wszystkie możliwości wolontariatu w naszym Portalu Społecznościowym.
 
 ## Mission
 
