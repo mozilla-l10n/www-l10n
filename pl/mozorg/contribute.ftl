@@ -43,8 +43,8 @@ contribute-made-by-desc-cont = Wierzymy, że współpraca społeczności ma kluc
 ## Newsletter
 
 contribute-newsletter-heading = Jeszcze się nie zdecydowałeś?
-contribute-newsletter-sub-heading = Otrzymuj wiadomości dotyczące społeczności i możliwości zaangażowania bezpośrednio na swoją skrzynkę e-mailową
-contribute-newsletter-desc = Zapisz się do naszego newslettera, dołącz do społeczności Mozillian na całym świecie i dowiedz się o skutecznych sposobach wspierania misji { -brand-name-mozilla(case: "gen") }.
+contribute-newsletter-sub-heading = Otrzymuj wiadomości dotyczące społeczności i możliwości zaangażowania bezpośrednio na swoją skrzynkę e-mailową
+contribute-newsletter-desc = Zapisz się do naszego newslettera, dołącz do społeczności Mozillian na całym świecie i poznaj skuteczne sposoby wspierania misji { -brand-name-mozilla(case: "gen") }.
 
 ## Support
 
