@@ -47,4 +47,4 @@ footer-refresh-about-this-site = O této stránce
 footer-refresh-all-languages = Všechny jazyky
 footer-refresh-language = Jazyk
 footer-refresh-anonym-privacy-policy = Zásady ochrany osobních údajů pro { -brand-name-anonym }
-footer-refresh-anonym-terms-and-conditions = Podmínky aplikace { -brand-name-anonym }
+footer-refresh-anonym-terms-and-conditions = Podmínky používání služby { -brand-name-anonym }
