@@ -11,7 +11,7 @@ compare-opera-firefox-vs-opera = { -brand-name-firefox } vs Opera
 compare-opera-read-our-comparison = Přečtěte si naše srovnání prohlížečů { -brand-name-firefox } a Opera z hlediska funkcí, ochrany osobních údajů a snadného používání.
 # Variables:
 # $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
-compare-opera-firefoxs-default-privacy-settings = Výchozí nastavení ochrany osobních údajů ve { -brand-name-firefox(case: "loc") }  je silnější než v Opeře - a máme více funkcí, které zabraňují sledování webových stránek, například <a { $fingerprint }>blokování otisku prohlížeče</a>.
+compare-opera-firefoxs-default-privacy-settings = Výchozí nastavení ochrany soukromí ve { -brand-name-firefox(case: "loc") } je přísnější než v Opeře – a máme k dispozici více funkcí, které brání webům ve vašem sledování, jako je <a { $fingerprint }>blokování otisku prohlížeče</a>.
 compare-opera-firefox-offers-a-wide-range-of = { -brand-name-firefox } nabízí širokou škálu možností přizpůsobení, včetně možnosti přesouvat nabídky a nástrojové lišty na různá místa v okně prohlížeče. Rozhraní prohlížeče Opera je méně přizpůsobitelné.
 # Variables:
 # $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
