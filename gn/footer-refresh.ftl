@@ -46,3 +46,5 @@ footer-refresh-community-participation-guidelines = Mba’éichapa eikekuaa teko
 footer-refresh-about-this-site = Ko tenda rehegua
 footer-refresh-all-languages = Opaite ñe’ẽ
 footer-refresh-language = Ñe’ẽ
+footer-refresh-anonym-privacy-policy = { -brand-name-anonym } Porureko Ñemigua
+footer-refresh-anonym-terms-and-conditions = { -brand-name-anonym } mba’éicha ha porureko
