@@ -43,3 +43,5 @@ footer-refresh-community-participation-guidelines = Smernice za sodelovanje v sk
 footer-refresh-about-this-site = O tem spletnem mestu
 footer-refresh-all-languages = Vsi jeziki
 footer-refresh-language = Jezik
+footer-refresh-anonym-privacy-policy = Pravilnik o zasebnosti platforme { -brand-name-anonym }
+footer-refresh-anonym-terms-and-conditions = Pogoji uporabe platforme { -brand-name-anonym }

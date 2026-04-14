@@ -36,6 +36,9 @@ privacy-faq-v2-sort-of = Tako nekako. Poleg podatkov, opisanih zgoraj, od prediz
 privacy-faq-v2-we-may-also = V predizdajnih različicah lahko tudi zbiramo dodatne podatke za svoje <a { $attrs }>raziskave</a>. Na primer, nekatere raziskave zahtevajo podatke, ki jih imenujemo "podatki o brskanju", kar lahko vključuje spletne naslove (URL-je) in druge informacije o določenih spletnih mestih. Ti podatki nam pomagajo za vas izboljšati določene dele { -brand-name-firefox(sklon: "rodilnik") }, na primer bolje integrirati priljubljena spletna mesta v določene območne nastavitve.
 privacy-faq-v2-mozilla-pre-release = Predizdajne različice { -brand-name-firefox(sklon: "rodilnik") } so razvojne platforme, ki se pogosto posodabljajo s poskusnimi zmogljivostmi. Pred izdajo { -brand-name-mozilla } zbira več podatkov kot po njej, da ji pomagajo razumeti, kako poskusne zmogljivosti delujejo. Zbiranje teh podatkov lahko izklopite v nastavitvah.
 privacy-faq-v2-but-why-do-you = Toda zakaj sploh zbirate vse te podatke?
+# Variables:
+#   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
+privacy-faq-v2-if-we-dont-know = Če ne vemo, ali naš brskalnik v resničnem svetu deluje dobro in katere funkcije ljudje uporabljajo, ga ne moremo izboljšati in za vas ustvariti popolnega brskalnika, kakršnega si želite. Razvili smo orodja za zbiranje in analizo podatkov, ki nam omogočajo, da lahko sprejemamo odločitve glede naših izdelkov ter hkrati spoštujemo vašo zasebnost. O nekaterih izmed tehnologij za ohranjanje zasebnosti, ki jih uporabljamo, na primer <a { $attrs }>OHTTP</a>, lahko preberete več.
 privacy-faq-v2-data-collection-bugs-me = Zbiranje podatkov me še vedno grize. Ga lahko izključim?
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings

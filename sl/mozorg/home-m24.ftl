@@ -39,6 +39,7 @@ m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = V trenutku ustvarite čudovito spletno stran za svoje podjetje.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Zavarujte svojo umetno inteligenco z odkritjem in odpravo ranljivosti GenAI, še preden to uspe napadalcem.
+m24-home-tabstack = { -brand-name-tabstack }
 
 ## Donate
 

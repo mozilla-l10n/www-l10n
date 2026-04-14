@@ -61,3 +61,8 @@ firefox-products-learn-more-about-solo = Več o orodju { -brand-name-solo }
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-learn-more-about-0din = Več o omrežju { -brand-name-0din }
+
+## Tabstack
+
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-learn-more-about-tabstack = Več o projektu { -brand-name-tabstack }

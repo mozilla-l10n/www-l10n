@@ -36,6 +36,8 @@ m24-about-we-fund-and = Financiramo in vlagamo v ljudi in v prizadevanja, ki vod
 m24-about-read-more = Preberite več
 m24-about-read-the-latest = Preberite zadnje novice in članke o { -brand-name-mozilla(sklon: "mestnik") }
 m24-about-what-comes-next = Kaj bo v tehnologiji naslednje na vrsti, je izbira. Izberite z nami.
+m24-about-watch-here = Glejte tukaj
+m24-about-watch-now = Glejte zdaj
 
 ## Showcase
 
