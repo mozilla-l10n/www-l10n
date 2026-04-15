@@ -46,3 +46,5 @@ footer-refresh-community-participation-guidelines = Nguyên tắc tham gia cộn
 footer-refresh-about-this-site = Về trang web này
 footer-refresh-all-languages = Tất cả ngôn ngữ
 footer-refresh-language = Ngôn ngữ
+footer-refresh-anonym-privacy-policy = Chính sách riêng tư của { -brand-name-anonym }
+footer-refresh-anonym-terms-and-conditions = Điều khoản và điều kiện của { -brand-name-anonym }
