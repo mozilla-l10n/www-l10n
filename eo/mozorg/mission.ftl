@@ -8,9 +8,9 @@
 mission-were-building-a-better-internet = Ni konstruas pli bonan Interreton
 mission-our-mission-is-to-ensure-the-internet = Ni misio estas certigi ke Interreto restu tutmonda rimedo, publika, malfermita kaj alirebla por ĉiuj. Ke ĝi estu interreto kie homoj estas plej gravaj, kie unuopaj personoj povas havi doni formon al siaj spertoj kaj kie ili sentas sin povaj, sekuraj kaj sendependaj.
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
-mission-our-mission-is-to-promote-openness = Nia misio estas antaŭenigi malfermitecon, novigadon kaj oportunon en la Teksaĵo.
+mission-our-mission-is-to-promote-openness = Nia misio estas antaŭenigi malfermitecon, novigadon kaj oportunon en la reto.
 mission-we-believe-this-act-of-human-collaboration = Ni kredas ke kunlabori sur malfermitaj sistemoj estas esenca kaj por individua disvolviĝo kaj por homara estonteco.
-mission-watch-the-video-above-to-learn-more = Vidu la filmeton supre por pli da informo pri kiu ni estas, de kie ni venas kaj kiel ni igas la Teksaĵon pli bona por vi.
+mission-watch-the-video-above-to-learn-more = Vidu la filmeton supre por havi pli da informo pri kiuj ni estas, de kie ni venas kaj kiel ni igas la reton pli bona por vi.
 mission-get-involved = Partopreni
 mission-volunteer-opportunities-in-a-number = Ebloj volontuli en kelkaj malsamaj fakoj
 mission-history = Historio
