@@ -10,7 +10,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } estas la nekredeble rapida retumilo kiu donas al vi la plej ĵusajn ilojn por programistoj kaj la lastajn trajtojn, kiel subtenon por kradoj CSS kaj sencimigo de substrukturoj
-firefox-developer-welcome-to-your-new-favorite = Bonvenon al via nova plej ŝatata retumilo. Ricevu la lastajn trajtojn, pli bonan efikecon kaj la ilojn por programistoj kiujn vi bezonas por konstrui celante la malfermitan teksaĵon.
+firefox-developer-welcome-to-your-new-favorite = Bonvenon al via nova plej ŝatata retumilo. Ricevu la lastajn trajtojn, pli bonan efikecon kaj la ilojn por programistoj kiujn vi bezonas por krei aferojn por la malfermita reto.
 firefox-developer-speak-up = Esprimi vin
 firefox-developer-feedback-makes-us = Viaj opinioj plibonigas nin. Bonvolu diri al ni kiel ni povas perfektigi nian retumilon kaj niajn ilojn por programistoj.
 firefox-developer-join-the-convo = Aliĝi al la konversacio

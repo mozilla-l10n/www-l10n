@@ -8,7 +8,7 @@
 # HTML page title
 manifesto-the-mozilla-manifesto = La manifesto de { -brand-name-mozilla }
 # HTML page description
-manifesto-these-are-the-principles = Tiuj ĉi estas la principioj, kiuj gvidas nian mision: antaŭenigi malfermitecon, novaĵkreemon kaj oportunojn en la Teksaĵo.
+manifesto-these-are-the-principles = Tiuj ĉi estas la principioj, kiuj gvidas nian mision: antaŭenigi malfermitecon, novaĵkreemon kaj oportunojn en la reto.
 manifesto-commercial-involvement = Komerca partopreno en la disvolviĝo de interreto alportas plurajn bonaĵojn; ekvilibro inter komerca profito kaj publika bono estas gravega.
 manifesto-principle-1 = Principo 1
 manifesto-principle-2 = Principo 2
