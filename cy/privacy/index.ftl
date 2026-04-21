@@ -37,6 +37,7 @@ privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-focus = { -brand-name-firefox-focus }
 privacy-index-thunderbird = { -brand-name-thunderbird }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
+privacy-index-smart-window = Ffenestr Smart
 privacy-index-mozilla-subscription-services = Gwasanaethau Tanysgrifio { -brand-name-mozilla }
 # This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".
 privacy-index-mozilla-accounts = Cyfrifon { -brand-name-mozilla }
