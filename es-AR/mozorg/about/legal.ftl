@@ -8,15 +8,15 @@
 legal-legal = Legales
 legal-get-involved = Involucrate
 legal-protect-the-fox = Protegé al panda rojo
-legal-takedown-requests = Solicitudes de retirada
+legal-takedown-requests = Solicitudes de retiro
 legal-back-to-legal = Volver a Legal
 legal-special-thanks-to-all-of-you = Un agradecimiento especial a todos los que informan sobre el uso indebido de las marcas de { -brand-name-mozilla }, participan en los foros de gobernanza, dan su opinión sobre nuestras localizaciones y términos legales y contribuyen con sus habilidades al éxito del proyecto { -brand-name-mozilla }.
 legal-terms = Términos
 legal-our-websites = Nuestros sitios web
-legal-firefox-services = Servicios { -brand-name-firefox }
+legal-firefox-services = Servicios de { -brand-name-firefox }
 legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = Privacidad y marcas
-legal-privacy-notices-and-policy = Avisos y política de privacidad
+legal-privacy-notices-and-policy = Notas y política de privacidad
 legal-downloadable-software-notices = Avisos sobre software descargable
 # heading for the table of contents, a shorter heading is better
 legal-firefox-contents = Contenido
@@ -26,7 +26,7 @@ legal-thunderbird = { -brand-name-thunderbird }
 legal-thunderbird-rights = { -brand-name-thunderbird }: Acerca de tus derechos
 legal-smart-window = Smart Window
 legal-smart-window-rights = Smart Window: Acerca de sus derechos
-legal-websites-and-communications = Condiciones de uso de sitios web y mensajes
+legal-websites-and-communications = Condiciones de uso de sitios web y comunicaciones
 legal-acceptable-use-policy = Política de uso aceptable
 legal-firefox-cloud-services = { -brand-name-firefox } Cloud Services: Condiciones del servicio
 legal-mdn-plus = { -brand-name-mdn-plus }
