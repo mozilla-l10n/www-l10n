@@ -15,7 +15,7 @@ m24-home-page-desc-v2 = Snažíme se dát kontrolu nad internetem zpět do rukou
 ## Intro
 
 m24-home-welcome-to-mozilla = Vítá vás { -brand-name-mozilla }
-m24-home-from-trustworthy-tech = Od důvěryhodných technologií až po zásady, které hájí vaše digitální práva, jste u nás vždy na prvním místě.
+m24-home-from-trustworthy-tech = Od důvěryhodných technologií až po zásady, které hájí vaše digitální práva – u nás jste vždy na prvním místě.
 m24-home-learn-about-us = Více informací o nás
 # Used as accessible text alternative for image
 m24-home-alt-flag = Stylizovaná zelená vlajka na černém pozadí vytvořená z písmene "M" pro { -brand-name-mozilla } a pixelu, který je posunutý a odkazuje na původní logo dinosaura.
