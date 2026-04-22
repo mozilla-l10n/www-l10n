@@ -7,10 +7,10 @@
 
 legal-legal = Legales
 legal-get-involved = Involucrate
-legal-protect-the-fox = Protege al panda rojo
+legal-protect-the-fox = Protegé al panda rojo
 legal-takedown-requests = Solicitudes de retirada
 legal-back-to-legal = Volver a Legal
-legal-special-thanks-to-all-of-you = Damos las gracias de forma muy especial a todos aquellos que informáis sobre el uso indebido de las marcas de { -brand-name-mozilla }, participáis en los foros de gobernanza, ofrecéis vuestra opinión sobre nuestras localizaciones y nuestros términos legales y contribuís con vuestras destrezas al éxito del proyecto { -brand-name-mozilla }.
+legal-special-thanks-to-all-of-you = Un agradecimiento especial a todos los que informan sobre el uso indebido de las marcas de { -brand-name-mozilla }, participan en los foros de gobernanza, dan su opinión sobre nuestras localizaciones y términos legales y contribuyen con sus habilidades al éxito del proyecto { -brand-name-mozilla }.
 legal-terms = Términos
 legal-our-websites = Nuestros sitios web
 legal-firefox-services = Servicios { -brand-name-firefox }
@@ -24,7 +24,7 @@ legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: Acerca de tus derechos
 legal-thunderbird = { -brand-name-thunderbird }
 legal-thunderbird-rights = { -brand-name-thunderbird }: Acerca de tus derechos
-legal-smart-window = Ventana inteligente
+legal-smart-window = Smart Window
 legal-smart-window-rights = Smart Window: Acerca de sus derechos
 legal-websites-and-communications = Condiciones de uso de sitios web y mensajes
 legal-acceptable-use-policy = Política de uso aceptable
