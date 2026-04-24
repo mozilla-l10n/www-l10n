@@ -46,3 +46,5 @@ footer-refresh-community-participation-guidelines = Panduan Partisipasi Komunita
 footer-refresh-about-this-site = Tentang situs ini
 footer-refresh-all-languages = Semua bahasa
 footer-refresh-language = Bahasa
+footer-refresh-anonym-privacy-policy = Kebijakan Privasi { -brand-name-anonym }
+footer-refresh-anonym-terms-and-conditions = Syarat dan Ketentuan { -brand-name-anonym }
