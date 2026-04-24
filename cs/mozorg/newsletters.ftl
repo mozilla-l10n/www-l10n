@@ -27,7 +27,7 @@ newsletters-and-were-not-just-saying = A to neříkáme jen proto, že jste nám
 newsletters-please-be-sure-to-add-mozillaemailmozillaorg = Nezapomeňte si prosím přidat adresu mozilla@email.mozilla.org do svých kontaktů, abyste měli jistotu, že se vždy objevíme ve složce doručené pošty.
 newsletters-mozilla-touches-on-a-variety = { -brand-name-mozilla } se zabývá řadou důležitých témat.
 newsletters-open-your-inbox-and-your = Otevřete svou e-mailovou schránku (a své srdce) ještě více – podívejte se na další témata, kterým se věnujeme.
-newsletters-manage-your-email-preferences = Správa nastavení pro váš e-mail
+newsletters-manage-your-email-preferences = Správa nastavení e-mailových sdělení
 newsletters-this-page-is-in-maintenance = Tato stránka je v režimu údržby a je dočasně nedostupná.
 newsletters-to-update-your-email-preferences = Chcete-li provést změny v nastavení pro váš e-mail, zkuste to prosím znovu za malou chvíli. Děkujeme!
 newsletters-we-love-sharing-updates = Velmi rádi sdílíme novinky o všech úžasných věcech, které se v { -brand-name-mozilla(case: "loc") } dějí.
@@ -77,7 +77,7 @@ newsletters-newsletter-email-recovery = Obnovení e-mailu pro odběr zpravodaje
 # Headline for https://www-dev.allizom.org/newsletter/recovery/
 newsletters-manage-your-newsletter = Spravujte své <span>odběry zpravodajů</span>
 # Subtitle for https://www-dev.allizom.org/newsletter/recovery/
-newsletters-enter-your-email-address = Zadejte svou e-mailovou adresu a my vám zašleme odkaz na centrum nastavení vašeho e-mailu.
+newsletters-enter-your-email-address = Zadejte svou e-mailovou adresu a my vám zašleme odkaz na centrum nastavení e-mailových sdělení.
 newsletters-send-me-a-link = Pošlete mi odkaz
 newsletters-youve-been-unsubscribed = Odběr zpravodaje byl odhlášen.
 newsletters-were-sorry-to-see-you-go = Je nám líto, že odcházíte.
