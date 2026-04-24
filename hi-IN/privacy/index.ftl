@@ -42,6 +42,7 @@ privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-focus = { -brand-name-firefox-focus }
 privacy-index-thunderbird = { -brand-name-thunderbird }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
+privacy-index-smart-window = स्मार्ट विंडो
 privacy-index-mozilla-subscription-services = { -brand-name-mozilla } सब्सक्रिप्शन सेवाएं
 
 # This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".

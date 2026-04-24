@@ -46,3 +46,5 @@ footer-refresh-community-participation-guidelines = सामुदायिक 
 footer-refresh-about-this-site = इस साइट के बारे में
 footer-refresh-all-languages = सभी भाषाएं
 footer-refresh-language = भाषा
+footer-refresh-anonym-privacy-policy = { -brand-name-anonym } निजता नीति
+footer-refresh-anonym-terms-and-conditions = { -brand-name-anonym } नियम और शर्तें
