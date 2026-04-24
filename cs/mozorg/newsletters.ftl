@@ -125,9 +125,9 @@ newsletters-im-keeping-in-touch-v2 = Jsem místo toho s { -brand-name-mozilla(ca
 newsletters-sign-up-read-up-stay-informed = Odebírejte, čtěte,<br> zůstaňte v obraze.
 # Subtitle for https://www.mozilla.org/newsletter/mozilla/
 newsletters-get-smart-on-the-issues = Pozor na problémy, které ovlivňují váš online život.
-newsletters-your-email-preferences = Nastavení pro váš e-mail bylo úspěšně aktualizováno.
+newsletters-your-email-preferences = Vaše nastavení e-mailových sdělení bylo úspěšně aktualizováno.
 newsletters-consider-it-done = Považujte to za vyřízené
-newsletters-back-to-email-preferences = Zpět na nastavení pro e-mail
+newsletters-back-to-email-preferences = Zpět na nastavení e-mailových sdělení
 newsletters-here-are-a-few-things = Zde je několik věcí, které můžete při čekání na další e-mail prozkoumat.
 newsletters-take-your-privacy = Vezměte si s sebou své soukromí
 newsletters-travel-the-internet = Cestujte po internetu s ochranou na všech svých zařízeních.
@@ -272,7 +272,7 @@ newsletters-special-announcements-helping-you = Zvláštní oznámení, která v
 # Name for the newsletter in Newsletter subscription page (Firefox Accounts)
 newsletters-mozilla-accounts = { -brand-name-mozilla-accounts }
 # Description for the newsletter in Newsletter subscription page (Firefox Accounts)
-newsletters-get-tips-from-mozilla = Získejte tipy od { -brand-name-mozilla(case: "gen") }, jak ze svého účtu vytěžit maximum.
+newsletters-get-tips-from-mozilla = Dostávejte tipy od { -brand-name-mozilla(case: "gen") }, jak ze svého účtu vytěžit maximum.
 # Name for the newsletter in Newsletter subscription page (Welcome emails)
 newsletters-welcome-emails = Welcome emails
 # Description for the newsletter in Newsletter subscription page (Welcome emails)
