@@ -66,7 +66,7 @@ history-the-future-is-full-of-challenges = O futuro está cheio de desafios e op
 history-theres-no-guarantee-that = Não existe qualquer garantia que a Internet irá manter-se aberta, agradável ou segura.
 history-mozilla-will-continue-to = A { -brand-name-mozilla } irá continuar a fornecer uma oportunidade para que as pessoas façam ouvir a sua voz e definam as suas próprias vidas online.
 history-of-course-were-not-alone = Claro que não estamos a fazer isto sozinhos.
-history-the-mozilla-community-together = A comunidade { -brand-name-mozilla }, em conjunto com outros projetos e outras organizações de benefício público, existe apenas por causa das pessoas que estão empenhadas em transformar os nossos objetivos comuns em realidade.
+history-the-mozilla-community-together = A comunidade { -brand-name-mozilla }, em conjunto com outros projetos e outras organizações de benefício público, existe apenas devido a pessoas que estão empenhadas em transformar os nossos objetivos comuns em realidade.
 # Variables:
 #   $contribute (url) link to https://www.mozilla.org/contribute/
 history-if-you-want-to-join-us-in = Se quiser juntar-se a nós na nossa missão, por favor <a href="{ $contribute }">envolva-se</a>.
