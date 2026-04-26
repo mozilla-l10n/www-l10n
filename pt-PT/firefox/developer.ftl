@@ -16,7 +16,7 @@ firefox-developer-speak-up = Comunique
 firefox-developer-feedback-makes-us = O feedback ajuda-nos a melhorar. Diga-nos como podemos melhorar as ferramentas de navegação e de programação.
 firefox-developer-join-the-convo = Juntar-se à conversação
 firefox-developer-get-involved = Participe
-firefox-developer-help-build-the-last = Ajude-nos a construir o último navegador independente. Escreva código, corrija erros, construa extras, entre outras coisas.
+firefox-developer-help-build-the-last = Ajude-nos a construir o último navegador independente. Escreva código, corrija erros, construa complementos, entre outras coisas.
 firefox-developer-start-now = Começar agora
 firefox-developer-design-code-test = Desenhe. Programe. Teste. Melhore.
 # Line break for visual formatting
