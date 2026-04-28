@@ -19,6 +19,7 @@ reporting-if-you-have-a-report-by = 如果您的檢舉是<strong>來自<em>並</
 reporting-if-you-have-a-report-by-email = 如果您的檢舉是<strong>來自<em>並</em>關於</strong>一位貢獻者（例如<strong>由</strong>一位貢獻者<strong>對</strong>另一位貢獻者提出檢舉），那麼您應該來信 <a href="{ $mailto_report }">cpg-report@mozilla.com</a> 提出檢舉。
 # Obsolete string (expires: 2026-05-24)
 reporting-if-you-have-a-report-involving-v2 = 若您收到貢獻者對<strong>員工</strong>的檢舉，請透過<a href="{ $employee_hotline }">{ -brand-name-mozilla } 員工專線</a>提出檢舉。若您是 { -brand-name-mozilla } 的員工，需要提出檢舉，則請參考 { -brand-name-mozilla } 的內部政策與程序，以了解可以透過哪些方式進行檢舉。
+reporting-if-you-have-a-report-about-employee = 若您要檢舉<strong>員工</strong>可以撥打<a href="{ $employee_hotline }">{ -brand-name-mozilla }員工專線</a>檢舉。若您是 { -brand-name-mozilla } 的員工需要提出檢舉請參考 { -brand-name-mozilla } 的內部政策與程序以了解您可以透過哪些檢舉方式進行檢舉。
 reporting-put-another-way = 換言之…
 reporting-by = 檢舉者
 reporting-employee = 員工

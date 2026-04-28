@@ -19,6 +19,7 @@ reporting-if-you-have-a-report-by = Если у вас есть заявлени
 reporting-if-you-have-a-report-by-email = Если у вас есть заявление <strong>от участника <em>и</em> об участнике</strong> (например, жалоба составлена <strong>одним</strong> участником <strong>о другом</strong> участнике), то вам необходимо обратиться с вашей жалобой по адресу <a href="{ $mailto_report }">cpg-report@mozilla.com</a>.
 # Obsolete string (expires: 2026-05-24)
 reporting-if-you-have-a-report-involving-v2 = Если у вас есть заявление от участника о <strong>сотруднике</strong>, то вам нужно обратиться на <a href="{ $employee_hotline }">горячую линию { -brand-name-mozilla } для сотрудников</a>. Если вы являетесь сотрудником и вам необходимо отправить заявление, пожалуйста, ознакомьтесь с внутренними политиками и процедурами { -brand-name-mozilla }, чтобы понять, какие возможности доступны для вас.
+reporting-if-you-have-a-report-about-employee = Если у вас есть заявление о <strong>сотруднике</strong>, то вам нужно обратиться на <a href="{ $employee_hotline }">{ -brand-name-mozilla } горячей линии для сотрудников</a>. Если вы являетесь сотрудником и вам необходимо отправить заявление, пожалуйста, ознакомьтесь с внутренними политиками и процедурами { -brand-name-mozilla }, чтобы понять, какие возможности доступны для вас.
 reporting-put-another-way = Другие способы…
 reporting-by = От
 reporting-employee = Сотрудник
