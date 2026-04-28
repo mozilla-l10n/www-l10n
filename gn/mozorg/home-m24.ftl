@@ -143,6 +143,7 @@ m24-home-read-the-report = Emoñe’ẽ marandu’i
 ## Nothing Personal
 
 m24-home-mozilla-nothing-personal = Nandereheguái
+m24-home-our-new-magazine = Ore revista pyahu pensadores independientes peg̃uarã, tembiporupyahugua ha moheñoihára oñepyrũva cultura digital rehegua.
 m24-home-read-now = Emoñe’ẽ ko’ág̃a
 
 ## Issues
