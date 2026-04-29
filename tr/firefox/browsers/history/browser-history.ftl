@@ -14,6 +14,7 @@ browser-history-in-1950-computers = 1950 yılında bilgisayarlar bir odayı kapl
 # Variables:
 #   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
 browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> ilk başarılı ağ projesiydi ve 1969 yılında ilk mesaj Los Angeles’taki Kaliforniya Üniversitesinin (UCLA) bilgisayar bilimleri laboratuvarından yine Kaliforniya’daki Stanford Araştırma Enstitüsüne (SRI) gönderildi.
+browser-history-that-sparked-a-revolution = Bu durum bilgisayar ağlarında bir devrime yol açtı. Yeni ağlar kuruldu, bu ağlar dünyanın dört bir yanındaki üniversiteleri ve araştırma merkezlerini birbirine bağladı. Ancak sonraki 20 yıl boyunca internet halka açık değildi; sadece üniversite ve devlet araştırmacıları, öğrenciler ve özel şirketler tarafından kullanılabiliyordu. Telefon hatları üzerinden bilgi alışverişi yapabilen onlarca program vardı ama hiçbirinin kullanımı kolay değildi. Gerçekten açık internet ve ilk web tarayıcısı ancak 1990 yılında ortaya çıktı.
 browser-history-web-era = Web Çağı
 browser-history-a-year-later-berners = Bir yıl sonra Berners-Lee, CERN’de matematik öğrencisi olan Nicola Pellow’dan basit bilgisayar terminallerine yönelik Line Mode Browser programını yazmasını istedi.
 browser-history-the-browser-wars = Tarayıcı Savaşları
