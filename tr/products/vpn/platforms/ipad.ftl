@@ -12,3 +12,4 @@ vpn-ipad-thats-why-you = İşte bu yüzden çevrimiçi etkinliklerinizi meraklı
 vpn-ipad-mozilla-vpn-is = { -brand-name-mozilla-vpn }, internet trafiğinizi şifreleyip IP adresinizi gizleyen bir sanal özel ağ (VPN) hizmetidir.
 vpn-ipad-with-mozilla-vpn = { -brand-name-mozilla-vpn } ile sahip olacağınız özellikler:
 vpn-ipad-protection-for-up-to = <strong>5 cihaza kadar koruma:</strong> Tek bir abonelikle { -brand-name-mozilla-vpn }’i iPad’inizde ve dört başka cihazda kullanabilirsiniz. Ayrıca Windows, macOS, Linux, iPhone ve Android'de de kullanabilirsiniz.
+vpn-ipad-access-to-servers = <strong>30’dan fazla ülkedeki sunuculara erişim:</strong> İnternete bağlanmak için 30’dan fazla ülkedeki 500’den fazla sunucu arasından seçim yapabilirsiniz. Böylece istediğiniz içeriğe erişmeniz için daha fazla seçeneğiniz ve esnekliğiniz olur.
