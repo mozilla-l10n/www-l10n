@@ -19,5 +19,6 @@ browser-history-web-era = Web Çağı
 browser-history-a-year-later-berners = Bir yıl sonra Berners-Lee, CERN’de matematik öğrencisi olan Nicola Pellow’dan basit bilgisayar terminallerine yönelik Line Mode Browser programını yazmasını istedi.
 browser-history-the-browser-wars = Tarayıcı Savaşları
 browser-history-browsing-the-web = Günümüzde Web’de Gezinme
+browser-history-in-the-future-the-v2 = Gelecekte web muhtemelen hipermetin köklerinden daha da uzaklaşarak etkileşimli deneyimlerden oluşan uçsuz bucaksız bir denize dönüşecek. Sanal gerçeklik onlarca yıldır ufukta görünüyordu (en azından 1992’de “Lawnmower Man” filminin ve 1995’te Nintendo Virtual Boy’un piyasaya sürülmesinden beri) ancak web nihayet bunu geniş kitlelere ulaştırabilir. { -brand-name-firefox } artık WebVR ve A-Frame’i destekliyor. Bu sayede geliştiriciler hızlı ve kolay bir şekilde sanal gerçeklik siteleri oluşturabilirler. Modern mobil cihazların çoğu WebVR’ı destekliyor ve basit karton kutularla kolayca VR başlığı olarak kullanılabiliyor. Bilimkurgu yazarı Neal Stephenson’ın hayal ettiği gibi bir 3D sanal gerçeklik sitesi çok yakında gerçeğe dönüşebilir. Böyle bir durumda web tarayıcısı tamamen görünmezleşip başka bir dünyaya açılan gerçek bir pencere haline gelebilir.
 browser-history-resources = Kaynaklar
 browser-history-take-control-of = Tarayıcınızın kontrolünü elinize alın.
