@@ -46,3 +46,5 @@ footer-refresh-community-participation-guidelines = Ghid de participare în comu
 footer-refresh-about-this-site = Despre acest site
 footer-refresh-all-languages = Toate limbile
 footer-refresh-language = Limbă
+footer-refresh-anonym-privacy-policy = Politică de confidențialitate { -brand-name-anonym }
+footer-refresh-anonym-terms-and-conditions = Termeni și condiții { -brand-name-anonym }
