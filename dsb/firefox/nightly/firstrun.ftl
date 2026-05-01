@@ -7,7 +7,7 @@
 
 nightly-firstrun-firefox-nightly = Bok za prědny start { -brand-name-firefox-nightly }
 nightly-firstrun-thank-you-for-using = Źěkujomy se, až { -brand-name-firefox-nightly } wužywaśo
-nightly-firstrun-choose-an-area = Wubjeŕśo wobcerk, źož cośo sobu źěłaś a pomagajśo { -brand-name-firefox } za wužywarje na cełem swěśe pólěpšował
+nightly-firstrun-choose-an-area = Wubjeŕśo wobceŕk, źož cośo sobu źěłaś a pomagajśo { -brand-name-firefox } za wužywarje na cełem swěśe pólěpšowaś
 nightly-firstrun-test = Testowaś
 nightly-firstrun-find-and-file-bugs = Pytajśo a dajśo zmólki k wěsći a starajśo se powšyknje wó to, až wšykno tak funkcioněrujo, ako by měło.
 nightly-firstrun-start-testing = Testowaś zachopiś
