@@ -51,7 +51,7 @@ vpn-pricing-what-information = Jaké informace si { -brand-name-mozilla-vpn } uc
 # Variables
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-pricing-we-adhere-strictly = Přísně dodržujeme <a { $principles }>zásady ochrany osobních údajů</a> společnosti { -brand-name-mozilla }. Sbíráme pouze data potřebná k udržení funkčnosti sítě { -brand-name-mozilla-vpn } a k jejímu postupnému vylepšování. V naší mobilní aplikaci také sledujeme údaje o kampaních a doporučeních, abychom { -brand-name-mozilla(case: "dat") } pomohli porozumět jejich účinnosti. Přečtěte si více v našich <a { $notice }>zásadách ochrany osobních údajů</a>.
+vpn-pricing-we-adhere-strictly = Přísně dodržujeme <a { $principles }>zásady ochrany osobních údajů</a> organizace { -brand-name-mozilla }. Sbíráme pouze data potřebná k udržení funkčnosti sítě { -brand-name-mozilla-vpn } a k jejímu postupnému vylepšování. V naší mobilní aplikaci také sledujeme údaje o kampaních a doporučeních, abychom { -brand-name-mozilla(case: "dat") } pomohli porozumět jejich účinnosti. Přečtěte si více v našich <a { $notice }>zásadách ochrany osobních údajů</a>.
 vpn-pricing-how-do-i-manage = Jak mohu změnit své předplatné a změnit své předplatné?
 # Variables
 # $manage (url) - link to subscription management page
