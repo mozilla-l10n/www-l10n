@@ -35,6 +35,10 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Vastaanota heräte jos henkilötietosi ovat vaarantuneet, ja lukitse ne ammattilaisen tavoin.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Peitä sähköpostiosoitteesi ja puhelinnumerosi, jotta saat vain haluamasi viestit.
+m24-home-solo = { -brand-name-solo }
+m24-home-solo-desc = Luo hetkessä kaunis verkkosivusto, jotta voit kasvattaa liiketoimintaasi.
+m24-home-0din = { -brand-name-0din }
+m24-home-tabstack = { -brand-name-tabstack }
 
 ## Donate
 
@@ -56,11 +60,17 @@ m24-home-read-more = Lue lisää
 m24-home-get-started = Aloitetaan
 m24-home-join-the-movement = Liity liikkeeseen:<br> Tekoäly ihmisiä varten
 m24-home-our-mission-is = Tehtävämme on mahdollistaa ihmisten rakentaa ja tehdä yhteistyötä luotettavan, avoimeen lähdekoodiin pohjautuvan tekoälyn parissa.
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-watch-now = Katso nyt
+m24-home-get-started-now = Aloita nyt
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Puhuja lavalla ja useita tuotelogoja.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Onko sinulla alkuvaiheen startup-yritys? Esittele yrityksesi { -brand-name-mozilla-ventures }ille ja turvaa rahoitus positiivisen muutoksen aikaansaamiseksi tekoälyn ja Internetin tulevaisuudelle.
+m24-home-join-today = Liity tänään
+m24-home-agent-platform = Agenttialusta
+# Obsolete string (expires 2026-04-05)
+m24-home-any-agent = Mikä tahansa agentti
 
 ## Media Springboard
 
@@ -78,15 +88,21 @@ m24-home-topic-ai = Tekoäly
 m24-home-topic-open-source-ai = Avoimen lähdekoodin tekoäly
 m24-home-topic-ps = Tietosuoja ja turvallisuus
 m24-home-headline-you-ai-v2 = Sinä, tekoäly ja Internet – mitä oikein on meneillään?
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } toivottaa Raffi Krikorianin tervetulleeksi teknologiajohtajaksi
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Esittelyssä Thundermail ja Thunderbird Pro
+m24-home-introducing-thundermail-and-v2 = Esittelyssä { -brand-name-thundermail } ja { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Teknologian seuraava askel on valinta. Valitse meidän kanssamme.
 m24-home-the-guardian = The Guardian
+m24-home-axios = Axios
+m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-interview-with-mark = Haastattelussa Mark Surman: Kuinka { -brand-name-mozilla } sopeutuu tekoälyaikakauteen
 
 ## Showcase
 
 m24-home-rise25-awards = { -brand-name-rise25 }-palkinnot
+m24-home-get-to-know = Tutustu luotettavan, osallistavan ja läpinäkyvän tekoälykehityksen puolestapuhujiin, jotka asettavat uuden standardin ja inspiroivat seuraavan sukupolven innovaattoreita.
 m24-home-watch-the-award = Katso palkintonäytös
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-smiling = Itsevarma ja hymyilevä puhuja { -brand-name-rise25 }:ssa.
@@ -95,8 +111,13 @@ m24-home-alt-rise25-smiling = Itsevarma ja hymyilevä puhuja { -brand-name-rise2
 m24-home-state-of-mozilla-alt = Abstraktia pikselitaidetta vihreän, oranssin ja vaaleanpunaisen sävyissä
 m24-home-read-the-report = Lue raportti
 
+## Nothing Personal
+
+m24-home-read-now = Lue nyt
+
 ## Issues
 
+m24-home-explore-issues-shaping = Tutki Internetin tulevaisuutta määrittäviä ongelmia
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, IRL Podcastin juontaja.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
