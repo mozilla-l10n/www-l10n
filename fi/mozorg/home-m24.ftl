@@ -89,14 +89,17 @@ m24-home-topic-open-source-ai = Avoimen lähdekoodin tekoäly
 m24-home-topic-ps = Tietosuoja ja turvallisuus
 m24-home-headline-you-ai-v2 = Sinä, tekoäly ja Internet – mitä oikein on meneillään?
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } toivottaa Raffi Krikorianin tervetulleeksi teknologiajohtajaksi
+m24-home-tech-target = Tech Target
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Esittelyssä Thundermail ja Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Esittelyssä { -brand-name-thundermail } ja { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Teknologian seuraava askel on valinta. Valitse meidän kanssamme.
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
+m24-home-mozillas-new-message = { -brand-name-mozilla }n uusi viesti: Olemme ainoa selain, jota eivät tue miljardöörit
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = The FT
 m24-home-interview-with-mark = Haastattelussa Mark Surman: Kuinka { -brand-name-mozilla } sopeutuu tekoälyaikakauteen
 
 ## Showcase
