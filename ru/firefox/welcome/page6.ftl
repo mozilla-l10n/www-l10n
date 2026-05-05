@@ -9,7 +9,7 @@
 welcome-page6-make-firefox-your-default = Сделайте { -brand-name-firefox } своим браузером по умолчанию
 welcome-page6-make-sure-youre-protected = Убеждайтесь, что вы защищены, всякий раз, как вы выходите в Интернет
 welcome-page6-when-you-choose-firefox-you = Когда вы выбираете { -brand-name-firefox }, вы поддерживаете лучший Интернет для всех и каждого. Теперь сделайте следующий шаг, чтобы защитить себя.
-welcome-page6-get-the-firefox-app = Загрузить { -brand-name-firefox }
+welcome-page6-get-the-firefox-app = Скачать { -brand-name-firefox }
 welcome-page6-get-firefox-on-your-phone = Скачайте { -brand-name-firefox } на свой телефон
 welcome-page6-scan-the-qr-code-to-get-started = Отсканируйте QR-код, чтобы начать скачивание
 welcome-page6-qr-code-to-scan-for-firefox = Отсканируйте QR-код для скачивания { -brand-name-firefox }

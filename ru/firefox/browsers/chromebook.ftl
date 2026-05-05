@@ -10,10 +10,10 @@
 
 browsers-chromebook-get-firefox-browser = Скачать { -brand-name-firefox-browser(case: "nominative") } для { -brand-name-chromebook }
 browsers-chromebook-so-youve-got = Итак, у вас есть { -brand-name-chromebook } — теперь пришло время скачать независимый, защищающий вашу приватность «из коробки» { -brand-name-firefox-browser(case: "nominative") } для защиты ваших личных данных.
-browsers-chromebook-browsers-chromebook-get-firefox-for = Загрузить { -brand-name-firefox } для { -brand-name-android }
-browsers-chromebook-get-firefox-desktop = Загрузить компьютерный { -brand-name-firefox } для { -brand-name-chromebook }
+browsers-chromebook-browsers-chromebook-get-firefox-for = Скачать { -brand-name-firefox } для { -brand-name-android }
+browsers-chromebook-get-firefox-desktop = Скачать компьютерный { -brand-name-firefox } для { -brand-name-chromebook }
 browsers-chromebook-x86-based-chromebook = { -brand-name-chromebook } на базе *x86 под управлением { -brand-name-chromeos } 80 или более поздней версии
-browsers-chromebook-dropdown-copy = Загрузить { -brand-name-firefox } для { -brand-name-chromebook }
+browsers-chromebook-dropdown-copy = Скачать { -brand-name-firefox } для { -brand-name-chromebook }
 # The span here is to display an underline underneath "Firefox"
 browsers-chromebook-why-get-firefox = Зачем загружать <span>{ -brand-name-firefox }</span> на { -brand-name-chromebook }?
 browsers-chromebook-while-a-chromebook = Хотя на { -brand-name-chromebook } уже установлен { -brand-name-chrome }, если вы скачаете и будете использовать { -brand-name-firefox } в качестве основного браузера, то это даст вам некоторые преимущества:

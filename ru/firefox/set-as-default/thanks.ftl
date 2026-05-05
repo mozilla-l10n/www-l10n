@@ -19,7 +19,7 @@ set-as-default-thanks-heres-everything-you-need-android = Вот всё, что 
 #   $ios (url) - link to https://support.mozilla.org/en-US/kb/unable-set-firefox-default-browser-ios
 set-as-default-thanks-heres-everything-you-need-ios = Вот всё, что вам необходимо знать об установке браузера по умолчанию на <a href="{ $ios }">iOS-устройствах</a>.
 set-as-default-thanks-youre-all-set = Всё готово.
-set-as-default-thanks-get-firefox-for-mobile = Загрузить мобильный { -brand-name-firefox }
+set-as-default-thanks-get-firefox-for-mobile = Скачать мобильный { -brand-name-firefox }
 set-as-default-thanks-travel-the-internet-with = Путешествуйте по Интернету с защитой на всех ваших устройствах.
 set-as-default-thanks-download-the-app = Скачать приложение
 set-as-default-create-an-account = Создать аккаунт

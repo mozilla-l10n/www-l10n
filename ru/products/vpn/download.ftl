@@ -22,7 +22,7 @@ vpn-download-for-mac-long = Скачать { -brand-name-mozilla-vpn } для { 
 #   $version (number) - operating system version
 vpn-download-version-requirements = Версия { $version } и выше
 vpn-download-for-linux = VPN для { -brand-name-linux }
-vpn-download-for-linux-long = Загрузить { -brand-name-mozilla-vpn } для { -brand-name-linux }
+vpn-download-for-linux-long = Скачать { -brand-name-mozilla-vpn } для { -brand-name-linux }
 # Variables:
 #   $version (number) - operating system version
 vpn-download-for-linux-requirements = Ubuntu { $version } и выше

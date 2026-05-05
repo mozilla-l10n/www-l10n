@@ -200,7 +200,7 @@ newsletters-read-about-the-latest-features = Читайте о новых воз
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-android = Скачать { -brand-name-firefox } для { -brand-name-android }
 # Name for the newsletter in Newsletter subscription page
-newsletters-get-firefox-for-android = Загрузить { -brand-name-firefox } для { -brand-name-android }
+newsletters-get-firefox-for-android = Скачать { -brand-name-firefox } для { -brand-name-android }
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-ios = Скачать { -brand-name-firefox } для { -brand-name-ios }
 # Name for the newsletter in Newsletter subscription page

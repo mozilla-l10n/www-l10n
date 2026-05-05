@@ -11,6 +11,6 @@ firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser(case: "nominative_uppercase") }
 firefox-mobile-get-the-mobile-browser-built = Скачайте мобильный браузер, созданный для вас, а не для рекламодателей
 firefox-mobile-check-out-firefox-again-its = Попробуйте { -brand-name-firefox } ещё раз. Он быстрый, приватный и всегда на вашей стороне. Для { -brand-name-ios } и { -brand-name-android }.
-firefox-mobile-get-firefox-mobile = Загрузить мобильный { -brand-name-firefox }
+firefox-mobile-get-firefox-mobile = Скачать мобильный { -brand-name-firefox }
 firefox-mobile-send-a-download-link-to-your = Отправить ссылку на загрузку на свой телефон.
 firefox-mobile-scan-the-qr-code-to-get-started = Отсканируйте QR-код, чтобы начать скачивание
