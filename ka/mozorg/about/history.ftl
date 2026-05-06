@@ -9,7 +9,7 @@ history-history-of-the-mozilla-project = ისტორია პროექ�
 # Variables:
 #   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
-history-the-mozilla-project-was = { -brand-name-mozilla }-პროექტი <a href="{ $coderush }">შეიქმნა 1998 წელს</a> <a href="{ $sourcerelease }">{ -brand-name-netscape }-ბრაუზერის ნაკრების, პირველწყარო კოდის გამოშვებით</a>.
+history-the-mozilla-project-was = { -brand-name-mozilla }-პროექტი <a href="{ $coderush }">შეიქმნა 1998 წელს</a> <a href="{ $sourcerelease }">{ -brand-name-netscape }-ბრაუზერის ნაკრების პირველწყარო კოდის გამოშვებით</a>.
 history-it-was-intended-to-harness = იგი მიზნად ისახავდა ინტერნეტში ათასობით პროგრამისტის შემოქმედებითი ენერგიის მიმართვას, ბრაუზერების ბაზარზე, ჯერ არნახული სიახლეების დანერგვისკენ.
 # Variables:
 #   $firstyear (url) link to https://www-archive.mozilla.org/mozilla-at-one.html
