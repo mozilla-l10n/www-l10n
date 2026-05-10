@@ -19,6 +19,7 @@ reporting-if-you-have-a-report-by = Si se trata de una denuncia realizada <stron
 reporting-if-you-have-a-report-by-email = Si tienes una denuncia <strong>de <em>y</em> acerca de</strong> un colaborador (por ejemplo, la denuncia es <strong>de</strong> un colaborador <strong>acerca de</strong> otro colaborador), entonces deberías hacer tu denuncia en <a href="{ $mailto_report }">cpg-report@mozilla.com</a>.
 # Obsolete string (expires: 2026-05-24)
 reporting-if-you-have-a-report-involving-v2 = Si tienes una denuncia de un colaborador sobre <strong>un empleado</strong>, deberías avisar en la <a href="{ $employee_hotline }">Línea directa para empleados de { -brand-name-mozilla }</a>. Si eres empleado y necesitas enviar una denuncia, revisa las políticas y procedimientos internos de { -brand-name-mozilla } para ver qué opciones tienes.
+reporting-if-you-have-a-report-about-employee = Si tienes una denuncia sobre <strong>un empleado</strong>, deberías avisar en la <a href="{ $employee_hotline }">Línea directa para empleados de { -brand-name-mozilla }</a>. Si eres empleado y necesitas enviar una denuncia, revisa las políticas y procedimientos internos de { -brand-name-mozilla } para ver qué opciones tienes.
 reporting-put-another-way = Dicho de otra manera:
 reporting-by = Por
 reporting-employee = Empleado
