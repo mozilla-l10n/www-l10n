@@ -39,8 +39,6 @@ m24-about-read-the-latest = 阅读最新的 { -brand-name-mozilla } 新闻和文
 m24-about-rewiring-mozilla = 重构 { -brand-name-mozilla }：为 AI 做我们曾为网络所做的贡献。阅读我们的下一代战略，以及我们如何改革 { -brand-name-mozilla } 以迎接 AI 时代。
 m24-about-what-comes-next = 科技的未来走向取决于选择，让我们共同抉择。
 m24-about-watch-here = 在此观看
-# "Double Bottom Line" refers to accounting for both money and mission values
-m24-about-can-we-have = 科技界能不能有双底线马克·苏曼 (Mark Surman) 畅谈如何建立一个兼有使命和金钱的双底线科技生态系统。
 m24-about-watch-now = 立即观看
 
 ## Showcase
