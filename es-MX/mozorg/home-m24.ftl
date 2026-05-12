@@ -9,3 +9,13 @@
 ## Intro
 
 m24-home-welcome-to-mozilla = Bienvenido a { -brand-name-mozilla }
+
+## Media Springboard
+
+m24-home-the-guardian = El Guardián
+m24-home-axios = Axios
+
+## Issues
+
+m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-irl-listen-now = Escucha ahora
