@@ -4,6 +4,7 @@
 
 footer-refresh-leadership = Liderazgo
 footer-refresh-firefox-release-notes = Notas de la versión de { -brand-name-firefox }
+footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Seguir @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
 footer-refresh-linkedin = LinkedIn
