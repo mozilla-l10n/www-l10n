@@ -25,7 +25,7 @@ download-button-download = Stáhnout
 #   $help_url (url) - link to https://support.mozilla.org/
 #   $os_version (string) - e.g. Windows 8.1, macOS 10.14
 download-button-unsupported-platform = { $channel_name } již <a href="{ $help_url }">není podporován</a> na { $os_version } a nižších.
-download-button-please-download-esr = Pokud chcete používat { -brand-name-firefox }, stáhněte si { -brand-name-firefox-esr } (vydání s rozšířenou podporou).
+download-button-please-download-esr = Pokud chcete používat { -brand-name-firefox }, stáhněte si { -brand-name-firefox-esr } (vydání s prodlouženou podporou).
 download-firefox-esr = Stáhnout { -brand-name-firefox-esr }
 download-firefox-esr-32 = Stáhnout { -brand-name-firefox-esr } (32-bitová verze)
 download-firefox-esr-64 = Stáhnout { -brand-name-firefox-esr } (64-bitová verze)
