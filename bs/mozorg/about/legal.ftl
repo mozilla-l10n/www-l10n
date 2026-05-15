@@ -24,6 +24,7 @@ legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: O vašim pravima
 legal-thunderbird = { -brand-name-thunderbird }
 legal-thunderbird-rights = { -brand-name-thunderbird }: O vašim pravima
+legal-smart-window = Pametni prozor
 legal-websites-and-communications = Uslovi korištenja web stranica i komunikacija
 legal-acceptable-use-policy = Politika prihvatljive upotrebe
 legal-firefox-cloud-services = { -brand-name-firefox } Cloud usluge: uslovi korištenja
