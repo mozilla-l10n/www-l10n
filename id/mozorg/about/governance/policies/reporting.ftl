@@ -18,6 +18,7 @@ reporting-if-you-have-a-report-by = Jika Anda memiliki laporan <strong>oleh <em>
 reporting-if-you-have-a-report-by-email = Jika Anda memiliki laporan <strong>oleh <em>dan</em> tentang</strong> seorang kontributor (misalnya, laporannya dibuat <strong>oleh</strong> seorang kontributor <strong>mengenai</strong> kontributor lain), maka Anda harus membuat laporan Anda ke <a href="{ $mailto_report }">cpg-report@mozilla.com</a>.
 # Obsolete string (expires: 2026-05-24)
 reporting-if-you-have-a-report-involving-v2 = Jika Anda menerima laporan dari kontributor terkait <strong>seorang karyawan</strong>, maka Anda harus melaporkan ke <a href="{ $employee_hotline }">hotline Karyawan { -brand-name-mozilla }</a>. Jika Anda adalah karyawan dan perlu menyampaikan laporan, silakan merujuk pada kebijakan dan prosedur internal { -brand-name-mozilla } untuk memahami opsi pelaporan yang tersedia bagi Anda.
+reporting-if-you-have-a-report-about-employee = Jika Anda memiliki laporan terkait <strong>seorang karyawan</strong>, Anda harus melaporkannya melalui <a href="{ $employee_hotline }">hotline Karyawan { -brand-name-mozilla }</a>. Jika Anda adalah karyawan dan perlu menyampaikan laporan, silakan merujuk pada kebijakan dan prosedur internal { -brand-name-mozilla } untuk memahami opsi pelaporan yang tersedia bagi Anda.
 reporting-put-another-way = Ambil jalan lain…
 reporting-by = Oleh
 reporting-employee = Karyawan
