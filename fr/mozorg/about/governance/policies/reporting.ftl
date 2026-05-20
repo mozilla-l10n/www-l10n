@@ -18,6 +18,7 @@ reporting-if-you-have-a-report-by = Si vous disposez d’un signalement <strong>
 reporting-if-you-have-a-report-by-email = Si vous disposez d’un signalement <strong>par <em>et</em> sur</strong> un contributeur (par exemple, le signalement est effectué <strong>par</strong> un contributeur <strong>au sujet d’</strong>un autre contributeur), vous devez effectuer votre signalement via <a href="{ $mailto_report }">cpg-report@mozilla.com</a>.
 # Obsolete string (expires: 2026-05-24)
 reporting-if-you-have-a-report-involving-v2 = Si vous disposez d’un signalement effectué par un contributeur ou une contributrice concernant <strong>un·e employé·e</strong>, vous devez entrer en contact avec <a href="{ $employee_hotline }">la ligne d’assistance téléphonique des employés de { -brand-name-mozilla }</a>. Pour effectuer un signalement en tant qu’employé·e, veuillez consulter les politiques et procédures internes de { -brand-name-mozilla } pour bien comprendre les possibilités de signalement dont vous disposez.
+reporting-if-you-have-a-report-about-employee = Si vous souhaitez effectuer un signalement concernant <strong>un·e employé·e</strong>, vous devez entrer en contact avec <a href="{ $employee_hotline }">la ligne d’assistance téléphonique des employés de { -brand-name-mozilla }</a>. Pour effectuer un signalement en tant qu’employé·e, veuillez consulter les politiques et procédures internes de { -brand-name-mozilla } pour connaître les options disponibles.
 reporting-put-another-way = Autrement dit…
 reporting-by = Par
 reporting-employee = Employé
