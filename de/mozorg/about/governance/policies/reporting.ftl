@@ -18,6 +18,7 @@ reporting-if-you-have-a-report-by = Falls eine Meldung <strong>von <em>und</em> 
 reporting-if-you-have-a-report-by-email = Falls eine Meldung <strong>von <em>und</em> über</strong> einen Mitwirkenden erstattet wird, (z. B. <strong>von</strong> einem Mitwirkenden <strong>über</strong> einen anderen), solltest du per E-Mail an <a href="{ $mailto_report }">cpg-report@mozilla.com</a> Meldung erstatten.
 # Obsolete string (expires: 2026-05-24)
 reporting-if-you-have-a-report-involving-v2 = Falls du eine Meldung von Mitwirkenden über <strong>Mitarbeitende</strong> hast, solltest du sie über die <a href="{ $employee_hotline }">{ -brand-name-mozilla } Mitarbeiter-Hotline</a> melden. Wenn du ein Mitarbeiter oder eine Mitarbeiterin bist und etwas melden möchtest, schaue dir bitte die internen Richtlinien und Abläufe von { -brand-name-mozilla } an, um zu erfahren, welche Möglichkeiten du für eine Meldung hast.
+reporting-if-you-have-a-report-about-employee = Falls du eine Meldung über <strong>Mitarbeitende</strong> hast, solltest du sie über die <a href="{ $employee_hotline }">{ -brand-name-mozilla } Mitarbeiter-Hotline</a> melden. Wenn du ein Mitarbeiter oder eine Mitarbeiterin bist und etwas melden möchtest, schaue dir bitte die internen Richtlinien und Abläufe von { -brand-name-mozilla } an, um zu erfahren, welche Möglichkeiten du für eine Meldung hast.
 reporting-put-another-way = Anders ausgedrückt …
 reporting-by = Von
 reporting-employee = Mitarbeiter
