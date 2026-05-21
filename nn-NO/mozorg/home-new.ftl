@@ -21,11 +21,11 @@ home-product-vpn-trust = Eit VPN du kan stole på
 home-cta-get-vpn = Last ned { -brand-name-mozilla-vpn }
 home-product-monitor-protect-your = Vern den private informasjonen din frå datainnsamlarar
 home-cta-get-monitor = Få { -brand-name-monitor }
-home-mozilla-takes-bets = «{ -brand-name-mozilla } tek veddemål for å vise verda at det er ei verksemd som kan gjerast med påliteleg AI. Det inkluderer å setje ting som menneskerettar, datavern og openheit i kjernen av korleis desse komplekse systema fungerer.»
+home-mozilla-takes-bets = «{ -brand-name-mozilla } tek veddemål for å vise verda at det er ei verksemd som kan gjerast med påliteleg KI. Det inkluderer å setje ting som menneskerettar, datavern og openheit i kjernen av korleis desse komplekse systema fungerer.»
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
-home-join-us-in-shaping = Bli med oss ​​i å forme påliteleg AI
-home-work-on-ai = { -brand-name-mozilla }s arbeid med AI er ikkje berre ein ny ting – vi har brukt år på å finansiere, byggje og gå inn for AI som er open, rettferdig og ansvarleg utvikla. Fokuset vårt er å skape AI som tener folket, prioriterer openheit og støttar allmenta, ikkje dagsordenane til bedrifta.
+home-join-us-in-shaping = Bli med oss ​​i å forme påliteleg KI
+home-work-on-ai = { -brand-name-mozilla }s arbeid med KI er ikkje berre ein ny ting – vi har brukt år på å finansiere, byggje og gå inn for AI som er open, rettferdig og ansvarleg utvikla. Fokuset vårt er å skape AI som tener folket, prioriterer openheit og støttar allmenta, ikkje dagsordenane til bedrifta.
 home-read-more = Les meir
 home-so-what-is-mozilla = So, kva er { -brand-name-mozilla }?
 # Variables
@@ -39,7 +39,7 @@ home-volunteer-with-mozilla = Friviljug med { -brand-name-mozilla }
 home-that-one-time = Den eine gongen vi gav bort kjeldekoden vår…
 home-the-mozilla-project = Projektet { -brand-name-mozilla } vart grunnlagt i San Francisco 1998, då nettlesaren { -brand-name-netscape } tok avgjerda om å gje bort programkoden sin til ålmenta for å byggje vidare på, og forbetre han. På den tida hadde eitt føretak eit virtuelt monopol på korleis folk opplevde internett.
 home-eventually-the-open = Etterkvart vart { -brand-name-mozilla }-projektet, med open kjeldekode, forvandla til den svært populære versjonen av { -brand-name-firefox }.
-home-today-mozilla-continues = I dag held { -brand-name-mozilla } fram rørsla si mot eit betre internett med millionar av aktive community-medlemmar over heile verda, som tek til orde for etisk teknikk, pålitleg AI og produserer personvernbaserte produkt som gjev meir makt til folket.
+home-today-mozilla-continues = I dag held { -brand-name-mozilla } fram rørsla si mot eit betre internett med millionar av aktive community-medlemmar over heile verda, som tek til orde for etisk teknikk, pålitleg KI og produserer personvernbaserte produkt som gjev meir makt til folket.
 home-learn-more-about-mozilla = Les meir om { -brand-name-mozilla }
 # VPN Feature
 home-featured-product = Utvalt produkt
