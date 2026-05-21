@@ -38,7 +38,7 @@ m24-home-mask-your-email = Skjul e-postadressa og telefonnummeret ditt, slik at 
 m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = Lag ei vakker nettside med ein gong, slik at du kan få verksemda di til å vekse.
 m24-home-0din = { -brand-name-0din }
-m24-home-0din-desc = Sikre AI-en din ved å finne og rette Genai-sårbarheiter før angriparar gjer det.
+m24-home-0din-desc = Sikre KI-en din ved å finne og rette Genai-sårbarheiter før angriparar gjer det.
 m24-home-tabstack = { -brand-name-tabstack }
 # API stands for "Application Programming Interface"
 m24-home-tabstack-desc = Automatiser nettoppgåver på ein påliteleg måte med eit enkelt utviklarfokusert API.
@@ -49,7 +49,7 @@ m24-home-tabstack-desc = Automatiser nettoppgåver på ein påliteleg måte med 
 m24-home-donate-to-the = Doner til den ideelle organisasjonen { -brand-name-mozilla }
 m24-home-donate-to-v2 = Doner til { -brand-name-mozilla-foundation }
 # Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } byggjer ei rørsle for å gjenerobre internett. Saman kan vi byggje ei framtid der personvernet vårt er tatt vare på, AI er påliteleg, og uansvarlege teknologiselskap vert haldne ansvarlege. Men det er berre mogleg om vi gjer det saman.
+m24-home-mozilla-is-building = { -brand-name-mozilla } byggjer ei rørsle for å gjenerobre internett. Saman kan vi byggje ei framtid der personvernet vårt er tatt vare på, KI er påliteleg, og uansvarlege teknologiselskap vert haldne ansvarlege. Men det er berre mogleg om vi gjer det saman.
 m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation }  byggjer ei framtid der teknologi blir driven av menneske og er open gjennom design. Derfor driv vi fram samfunnssentrert teknologi gjennom påverknadsarbeid, utdanning, finansiering og innovasjon — for å sørgje for at framtidas teknologi er god for alle. Men det er berre mogleg om vi gjer det saman.
 m24-home-were-proudly-nonprofit = Vi er stolte av å vere ein ideell organisasjon. Vil du donere til { -brand-name-mozilla } i dag?
 m24-home-donate = Doner
@@ -62,34 +62,34 @@ m24-home-tag-program = Program
 m24-home-tag-event = Hending
 m24-home-read-more = Les meir
 m24-home-get-started = Kom i gang
-m24-home-join-the-movement = Bli med i rørsla:<br> AI for folket
-m24-home-our-mission-is = Oppdraget vårt er å gjere det enkelt for folk å byggje med, og samarbeide omkring AI som er open kjeldekode og påliteleg.
+m24-home-join-the-movement = Bli med i rørsla:<br> KI for folket
+m24-home-our-mission-is = Oppdraget vårt er å gjere det enkelt for folk å byggje med, og samarbeide omkring KI som er open kjeldekode og påliteleg.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
-m24-home-builders-helps-independent = Builders hjelper uavhengige utviklarar med å lage banebrytande AI-prosjekt med open kjeldekode gjennom samarbeid, programmering og fellesskap
-m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } hjelper uavhengige utviklarar med å lage banebrytande AI-prosjekt med open kjeldekode gjennom skreddarsydde samarbeid, programmering og fellesskap.
+m24-home-builders-helps-independent = Builders hjelper uavhengige utviklarar med å lage banebrytande KI-prosjekt med open kjeldekode gjennom samarbeid, programmering og fellesskap
+m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } hjelper uavhengige utviklarar med å lage banebrytande KI-prosjekt med open kjeldekode gjennom skreddarsydde samarbeid, programmering og fellesskap.
 m24-home-own-what-you = Eig det du byggjer
 # "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
-m24-home-do-we-need-a = Treng vi ein «LAMP Stack» for AI-æraen? Vi treng teknologi som er transparent, ansvarleg og eigd av menneska som brukar han.
+m24-home-do-we-need-a = Treng vi ein «LAMP Stack» for KI-æraen? Vi treng teknologi som er transparent, ansvarleg og eigd av menneska som brukar han.
 m24-home-watch-now = Sjå no
 m24-home-choice-first-stack = Val av frontstabel
-m24-home-your-tools-your = Verktøya dine, ditt val. Ein einskapleg open kjeldekode-stabel som forenklar bygging og testing av moderne AI-agentar og -appar.
+m24-home-your-tools-your = Verktøya dine, ditt val. Ein einskapleg open kjeldekode-stabel som forenklar bygging og testing av moderne KI-agentar og -appar.
 m24-home-get-started-now = Kom i gang no
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Talar på scena med fleire produktlogoar.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
-m24-home-got-an-earlystage = Har du ei oppstartsbedrift i tidleg fase? Presenter bedrifta di for { -brand-name-mozilla-ventures } og sikre finansiering for å drive positiv endring for framtida til AI og internett.
+m24-home-got-an-earlystage = Har du ei oppstartsbedrift i tidleg fase? Presenter bedrifta di for { -brand-name-mozilla-ventures } og sikre finansiering for å drive positiv endring for framtida til KI og internett.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } Datakollektiv
-m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective byggjer opp AI-dataøkosystemet på nytt med fellesskap i sentrum.
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective byggjer opp KI-dataøkosystemet på nytt med fellesskap i sentrum.
 m24-home-join-today = Ver med i dag
 m24-home-a-double-bottom = Ei dobbel botnlinje for teknologi
 m24-home-mark-surman-discusses = Mark Surman diskuterer korleis vi kan byggje eit teknologisk økosystem med dobbel botnlinje – eit som verdset både oppdrag og pengar.
 m24-home-agent-platform = Agentplattform
 # Obsolete string (expires 2026-04-05)
 m24-home-any-agent = Alla agentar
-m24-home-stop-wiring-tools = Slutt å kople saman verktøy og passe på skjøre automatiseringar. Med { -brand-name-mozilla-ai-v2 } Agent Platform beskriv du målet ditt, og vi genererer adaptive AI-agentar som fungerer med verktøya og prosessane dine.
+m24-home-stop-wiring-tools = Slutt å kople saman verktøy og passe på skjøre automatiseringar. Med { -brand-name-mozilla-ai-v2 } Agent Platform beskriv du målet ditt, og vi genererer adaptive KI-agentar som fungerer med verktøya og prosessane dine.
 
 ## Media Springboard
 
@@ -105,17 +105,17 @@ m24-home-tag-video = Video
 m24-home-topic-news = Nyheiter
 m24-home-topic-products = Produkt
 m24-home-topic-ai = Kunstig intelligens
-m24-home-topic-open-source-ai = AI med open kjeldekode
+m24-home-topic-open-source-ai = KI med open kjeldekode
 m24-home-topic-ps = Personvern og sikkerheit
-m24-home-headline-you-ai-v2 = Du, AI og internett – kva skjer eigentleg?
+m24-home-headline-you-ai-v2 = Du, KI og internett – kva skjer eigentleg?
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } ønskjer Raffi Krikorian velkomen som teknologisjef
 m24-home-tech-target = Tech Target
-m24-home-mozilla-ai-ceo = Administrerande direktør i { -brand-name-mozilla-ai-v2 } snakkar om fordelane med open source AI
+m24-home-mozilla-ai-ceo = Administrerande direktør i { -brand-name-mozilla-ai-v2 } snakkar om fordelane med open source KI
 # Obsolete string (expires 2026-03-01)
 m24-home-introducing-thundermail-and = Introduksjon av Thundermail og Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Vi presenterer { -brand-name-thundermail } og { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Det neste som kjem innan teknologi er eit val. Vel med oss.
-m24-home-a-good-moment = «Ein god augneblink for oss»: { -brand-name-firefox } fokuserer på AI-nettlesarar og kva som skjer vidare for nettet.
+m24-home-a-good-moment = «Ein god augneblink for oss»: { -brand-name-firefox } fokuserer på KI-nettlesarar og kva som skjer vidare for nettet.
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-mozillas-new-message = Den nye meldinga frå { -brand-name-mozilla }: Vi er den einaste nettlesaren som ikkje er støtta av milliardærar
@@ -123,14 +123,14 @@ m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = FT
 m24-home-rewiring-mozilla = Omkopling av { -brand-name-mozilla }: Gjere for KI det vi gjorde for nettet
-m24-home-interview-with-mark = Intervju med Mark Surman: Korleis { -brand-name-mozilla } tilpassar seg AI-alderen
-m24-home-women-in-product = Kvinner i produktsamtalen: Leggje til generativ AI utan å miste oversikta
-m24-home-scaling-open-source = Skalering av open kjeldekode-basert AI: Mark Surman og Tim Bradshaw
+m24-home-interview-with-mark = Intervju med Mark Surman: Korleis { -brand-name-mozilla } tilpassar seg KI-alderen
+m24-home-women-in-product = Kvinner i produktsamtalen: Leggje til generativ KI utan å miste oversikta
+m24-home-scaling-open-source = Skalering av open kjeldekode-basert KI: Mark Surman og Tim Bradshaw
 
 ## Showcase
 
 m24-home-rise25-awards = { -brand-name-rise25 }-prisar
-m24-home-get-to-know = Bli kjent med leiarane som kjempar for påliteleg, inkluderande og transparent AI-utvikling, medan dei set ein ny standard og inspirerer neste generasjon av innovatørar.
+m24-home-get-to-know = Bli kjent med leiarane som kjempar for påliteleg, inkluderande og transparent KI-utvikling, medan dei set ein ny standard og inspirerer neste generasjon av innovatørar.
 m24-home-watch-the-award = Sjå prisutdelinga
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-proud = Ein stolt prisvinnar hos { -brand-name-rise25 }.
@@ -146,7 +146,7 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } finn seg sjølv
 m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } gjenoppfinn seg sjølv, diversifiserer seg rundt ein konstellasjon av organisasjonar, tenkjer nytt om reklame og skaper eit open kjeldekode-økosystem for kunstig intelligens. Les om dette i rapporten om tilstanden til { -brand-name-mozilla } { $year }.
 # Variables
 #   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v3 = Vi står ved eit vegskilje for framtida til teknologien, der store AI-selskap samlar makt. { $year }-utgåva av State of { -brand-name-mozilla }-rapporten er ein invitasjon til å velje ei anna framtid saman.
+m24-home-mozilla-is-reinventing-itself-v3 = Vi står ved eit vegskilje for framtida til teknologien, der store KI-selskap samlar makt. { $year }-utgåva av State of { -brand-name-mozilla }-rapporten er ein invitasjon til å velje ei anna framtid saman.
 # Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstrakt pikselskunst i nyansar av grønt, oransje og rosa
@@ -170,5 +170,5 @@ m24-home-alt-validation = Ein miniatyrperson som ser på ein stor tastaturtast o
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, programleiar for IRL-podkasten.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
-m24-home-our-multiaward-winning = Vår premierte podkast introduserer endringsskaparane som jobbar for å gjere internett tryggare og AI meir påliteleg.
+m24-home-our-multiaward-winning = Vår premierte podkast introduserer endringsskaparane som jobbar for å gjere internett tryggare og KI meir påliteleg.
 m24-home-irl-listen-now = Lytt no

@@ -30,13 +30,13 @@ m24-about-build = Produkt
 m24-about-we-build-products = Vi byggjer produkt som gir deg kontroll — som { -brand-name-firefox }, { -brand-name-fakespot } og fleire andre.
 m24-about-we-build-products-v2 = Vi byggjer produkt som gir deg kontroll – som { -brand-name-firefox } og meir.
 m24-about-fund = Finansiering
-m24-about-we-fund-and = Vi finansierer og investerer i menneska og innsatsen som tek teknologi, internett og kunstig intelligens i rett retning.
+m24-about-we-fund-and = Vi finansierer og investerer i menneska og innsatsen som tek teknologi, internett og KI i rett retning.
 
 ## News
 
 m24-about-read-more = Les meir
 m24-about-read-the-latest = Les dei siste artiklane og nyheitene om { -brand-name-mozilla }
-m24-about-rewiring-mozilla = Nytenking av { -brand-name-mozilla }: Gjer for AI det vi gjorde for nettet. Les om vår neste generasjons strategi og korleis vi transformerer { -brand-name-mozilla } for AI-æraen.
+m24-about-rewiring-mozilla = Nytenking av { -brand-name-mozilla }: Gjer for KI det vi gjorde for nettet. Les om vår neste generasjons strategi og korleis vi transformerer { -brand-name-mozilla } for KI-æraen.
 m24-about-what-comes-next = Det neste som kjem innan teknologi er eit val. Vel med oss.
 m24-about-watch-here = Sjå det her
 # "Double Bottom Line" refers to accounting for both money and mission values
@@ -52,7 +52,7 @@ m24-about-read-about-our = Les om engasjementet vårt
 ## Careers
 
 # Used as an accessible text alternative for an image
-m24-about-alt-trustworthy = Pålitelig AI, { -brand-name-common-voice }, læring i fellesskap.
+m24-about-alt-trustworthy = Pålitelig KI, { -brand-name-common-voice }, læring i fellesskap.
 # Used as an accessible text alternative for an image
 m24-about-alt-conversation = { -brand-name-mozilla }-tilsett midt i ein samtale.
 # Used as an accessible text alternative for an image
