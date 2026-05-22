@@ -18,7 +18,7 @@ set-as-default-thanks-heres-everything-you-need-android = Itt van minden, amit t
 # Variables:
 #   $ios (url) - link to https://support.mozilla.org/en-US/kb/unable-set-firefox-default-browser-ios
 set-as-default-thanks-heres-everything-you-need-ios = Itt van minden, amit tudnia kell az alapértelmezett böngésző beállításáról az <a href="{ $ios }">iOS-es eszközökön</a>.
-set-as-default-thanks-youre-all-set = Minden készen állsz.
+set-as-default-thanks-youre-all-set = Minden készen áll.
 set-as-default-thanks-get-firefox-for-mobile = Töltse le a { -brand-name-firefox(case: "accusative") } mobilra
 set-as-default-thanks-travel-the-internet-with = Utazzon védve az interneten, az összes eszközén.
 set-as-default-thanks-download-the-app = Alkalmazás letöltése
