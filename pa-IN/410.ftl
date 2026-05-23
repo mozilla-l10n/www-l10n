@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/410/
 
 page-gone-title = ਇਸ ਸਫ਼ੇ ਨੂੰ ਹਟਾਇਆ ਜਾ ਚੁੱਕਾ ਹੈ
+page-gone-body = ਸਾਨੂੰ ਅਫ਼ਸੋਸ ਹੈ ਕਿ ਇਹ ਸਮੱਗਰੀ ਹੁਣ ਮੌਜੂਦ ਨਹੀਂ ਰਹੀ ਹੈ। ਤੁਸੀਂ ਹੇਠ ਦਿੱਤੇ ਕੁਝ ਲਿੰਕਾਂ ਨੂੰ ਵੇਖ ਕੇ ਮੌਜੂਦਾ ਜਾਣਕਾਰੀ ਲੱਭ ਸਕਦੇ ਹੋ।
 gone-page-go-back = ਪਿੱਛੇ ਜਾਓ
 # Variables:
 #   $products (attr) - attributes to be added to the <a> tag - href="/products/"

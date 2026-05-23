@@ -10,6 +10,7 @@
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } ਸ਼ਾਨਦਾਰ ਤੇਜ਼ ਬਰਾਊਜ਼ਰ ਹੈ, ਜੋ ਕਿ ਸ਼ਾਨਦਾਰ ਡਿਵੈਲਪਰ ਟੂਲ ਅਤੇ CSS ਗਰਿੱਡ ਸਹਿਯੋਗ ਅਤੇ ਫਰੇਮਵਰਕ ਡਿਬੱਗਿੰਗ ਵਰਗੀਆਂ ਤਾਜ਼ਾ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦੀ ਪੇਸ਼ਕਸ਼ ਕਰਦਾ ਹੈ
+firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
 firefox-developer-welcome-to-your-new-favorite = ਤੁਹਾਡੇ ਨਵੇਂ ਪਸੰਦੀਦਾ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਤਹਾਨੂੰ ਜੀ ਆਇਆਂ ਨੂੰ। ਓਪਨ ਵੈਬ ਲਈ ਨਵੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ, ਤੇਜ਼ ਕਾਰਗੁਜ਼ਾਰੀ ਅਤੇ ਵਿਕਾਸ ਸੰਦਾਂ, ਜਿਨ੍ਹਾਂ ਨੂੰ ਬਣਾਉਣ ਦੀ ਤੁਹਾਨੂੰ ਲੋੜ ਹੈ, ਉਹਨਾਂ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰੋ।
 firefox-developer-speak-up = ਬੋਲੋ
 firefox-developer-feedback-makes-us = ਫੀਡਬੈਕ ਸਾਨੂੰ ਬਿਹਤਰ ਬਣਾਉਂਦਾ ਹੈ। ਸਾਨੂੰ ਦੱਸੋ ਕਿ ਅਸੀਂ ਬ੍ਰਾਉਜ਼ਰ ਅਤੇ ਵਿਕਾਸਕਾਰ ਟੂਲ ਕਿਵੇਂ ਸੁਧਾਰ ਸਕਦੇ ਹਾਂ।
@@ -62,4 +63,12 @@ firefox-developer-fonts-panel = ਫੋਂਟ ਪੈਨਲ
 firefox-developer-the-new-fonts-panel = { -brand-name-firefox-devtools } ਵਿੱਚ ਨਵਾਂ ਫੋਂਟ ਪੈਨਲ ਡਿਵੈਲਪਰ ਨੂੰ ਇੱਕ ਤੱਤ ਵਿੱਚ ਵਰਤੇ ਜਾ ਰਹੇ ਫ਼ੋਂਟਾਂ ਬਾਰੇ ਲੋੜੀਂਦੀ ਸਾਰੀ ਜਾਣਕਾਰੀ ਲਈ ਤੁਰੰਤ ਪਹੁੰਚ ਦਿੰਦਾ ਹੈ। ਇਸ ਵਿਚ ਮਹੱਤਵਪੂਰਨ ਜਾਣਕਾਰੀ ਵੀ ਸ਼ਾਮਲ ਹੈ ਜਿਵੇਂ ਫ਼ੋਂਟ ਸਰੋਤ, ਭਾਰ, ਸਟਾਈਲ ਅਤੇ ਹੋਰ।
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } ਆਪਣੇ-ਆਪ ਫੀਡਬੈਕ { -brand-name-mozilla } ਨੂੰ ਭੇਜਦਾ ਹੈ।
 firefox-developer-download-the-firefox-browser = ਡਿਵੈਲਪਰਾਂ ਲਈ ਬਣਾਏ ਗਏ { -brand-name-firefox } ਬਰਾਉਜ਼ਰ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
+firefox-developer-welcome-to-firefox-developer-edition = { -brand-name-firefox-developer-edition } ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ
 firefox-developer-made-for-developers = ਡਿਵੈਲਪਰਾਂ ਲਈ ਬਣਾਇਆ ਬਰਾਊਜ਼ਰ
+firefox-developer-congrats-you-now-have-latest-v2 = ਤੁਸੀਂ { -brand-name-firefox-developer-edition } ਦਾ ਨਵਾਂ ਵਰਜ਼ਨ ਵਰਤ ਰਹੇ ਹੋ।
+firefox-developer-developer-tools-user = ਡਿਵੈਲਪਰ ਟੂਲ ਵਰਤੋਂਕਾਰ ਦਸਤਾਵੇਜ਼
+firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
+firefox-developer-resources-for-developers = ਡਿਵੈਲਪਰਾਂ ਵਲੋਂ ਡਿਵੈਲਪਰਾਂ ਲਈ ਸਰੋਤ
+firefox-developer-mdn-playground = ਪਲੇਅ-ਗਰਾਊਂਡ
+firefox-developer-mdn-blog = { -brand-name-mdn } ਬਲੌਗ
+firefox-developer-mdn-updates = ਅੱਪਡੇਟ

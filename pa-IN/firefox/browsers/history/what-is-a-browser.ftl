@@ -11,5 +11,6 @@ what-is-a-browser-what-is-a-web = ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਕੀ ਹੈ?
 what-is-a-browser-a-web-browser = ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਤੁਹਾਨੂੰ ਇੰਟਰਨੈੱਟ ਉਤੇ ਕਿਸੇ ਵੀ ਪਹੁੰਚ ਦਿੰਦਾ ਹੈ, ਤੁਹਾਨੂੰ ਸੰਸਾਰ ਭਰ ਵਿੱਚੋਂ ਕਿਤੋਂ ਵੀ ਲਿਖਤ, ਚਿੱਤਰਾਂ ਅਤੇ ਵੀਡੀਓ ਵੇਖਣ ਦਿੰਦਾ ਹੈ।
 what-is-a-browser-how-does-a-web = ਵੈੱਬ ਬਰਾਊਜ਼ਰ ਕਿੱਦਾਂ ਕੰਮ ਕਰਦਾ ਹੈ?
 what-is-a-browser-cookies-not-the = ਕੂਕੀਜ਼ (ਖਾਣ ਵਾਲੇ ਨਹੀਂ)
+what-is-a-browser-when-you-go-to = ਜਦੋਂ ਤੁਸੀਂ ਇੱਕ ਵੈੱਬਸਾਈਟ ਖੋਲ੍ਹਦੋ ਹੋ ਅਤੇ ਸਫ਼ਾ ਤੁਹਾਡੇ ਵਰਤੋਂਕਾਰ ਅਤੇ ਪਾਸਵਰਡ ਨੂੰ ਯਾਦ ਰੱਖਦਾ ਹੈ – ਇਹ ਕੂਕੀ ਨਾਲ ਸੰਭਵ ਹੁੰਦਾ ਹੈ।
 what-is-a-browser-understanding = ਪਰਦੇਦਾਰੀ ਨੂੰ ਸਮਝਣਾ
 what-is-a-browser-making-your-web = ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਆਪਣੇ ਮੁਤਾਬਕ ਢਾਲ ਕੇ ਵਰਤੋਂ
