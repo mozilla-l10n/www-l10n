@@ -7,7 +7,7 @@
 
 # HTML page title
 features-translate-translate-a-webpage-with-firefox = Traducir una página web con { -brand-name-firefox }
-features-translate-translate-the-web = Traduce la web con { -brand-name-firefox }
+features-translate-translate-the-web = Traduce la web
 # HTML page description
 features-translate-firefox-translations-is-a-built-in-v2 = { -brand-name-firefox-translations } es una funcionalidad de traducción incorporada que te permite navegar fácilmente por la web en tu idioma preferido. Aprende más sobre cómo funciona esta característica en { -brand-name-firefox }, y cómo { -brand-name-mozilla } ayuda a mantener privadas tus traducciones.
 features-translate-one-of-the-best-things-about = Una de las mejores cosas de Internet es que podemos acceder a contenidos en todo el mundo. Ya sean artículos de noticias, blogs o incluso una reseña de tu último dispositivo tecnológico. Puedes encontrarlo todo en una web que parece no tener fin. Con la última funcionalidad de traducción de { -brand-name-firefox }, esta herramienta traducirá continuamente una página web en tiempo real.
