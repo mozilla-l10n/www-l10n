@@ -4,7 +4,13 @@
 
 footer-refresh-discover-mozilla-products = { -brand-name-mozilla } ਉਤਪਾਦਾਂ ਅਤੇ ਨਵੇ ਉਦਮਾਂ ਬਾਰੇ ਖੋਜੋ। ਅਸੀਂ ਤੁਹਾਡੇ ਈਮੇਲ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਅਤੇ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਦਾ ਵਾਦਾ ਕਰਦੇ ਹਾਂ — ਨਾ ਕਿਸੇ ਨਾ ਸਾਂਝਾ ਕਰਨਾ, ਨਾ ਵੇਚਣਾ, ਸਿਰਫ਼ ਤੇ ਸਿਰਫ਼ ਅੱਪਡੇਟ ਹੀ।
 footer-refresh-leadership = ਅਗਵਾਈ
+footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
+# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
+footer-refresh-learn-more-about-mozilla-ads = <span>{ footer-refresh-mozilla-ads } ਬਾਰੇ</span> ਹੋਰ ਜਾਣੋ
+# Obsolete string (expires 2026-10-03)
+footer-refresh-learn-more-about-mozilla-advertising = <span>{ -brand-name-mozilla } ਇਸ਼ਤਿਹਾਰਬਾਜ਼ੀ ਬਾਰੇ</span> ਹੋਰ ਜਾਣੋ
 footer-refresh-firefox-release-notes = { -brand-name-firefox } ਰੀਲਿਜ ਨੋਟਿਸ
+footer-refresh-add-trust-to = ਤੁਹਾਡੇ ਇਸ਼ਤਿਹਾਰ ਖਰੀਦਣ ਲਈ ਭਰੋਸਾ ਜੋੜੋ।
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } ਨੂੰ ਫ਼ਾਲੋ ਕਰੋ
 footer-refresh-instagram = Instagram
@@ -38,3 +44,5 @@ footer-refresh-community-participation-guidelines = ਕਮਿਊਨਟੀ ਹਿ
 footer-refresh-about-this-site = ਇਸ ਸਾਈਟ ਬਾਰੇ
 footer-refresh-all-languages = ਸਭ ਭਾਸ਼ਾਵਾਂ
 footer-refresh-language = ਭਾਸ਼ਾ
+footer-refresh-anonym-privacy-policy = { -brand-name-anonym } ਪਰਦੇਦਾਰੀ ਨੀਤੀ
+footer-refresh-anonym-terms-and-conditions = { -brand-name-anonym } ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ

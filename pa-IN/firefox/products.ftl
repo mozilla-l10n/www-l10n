@@ -50,3 +50,18 @@ firefox-products-support-mdn = { -brand-name-mdn } ਨੂੰ ਸਹਿਯੋਗ 
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-download-thunderbird = { -brand-name-thunderbird } ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
+
+## Solo
+
+firefox-products-solo = { -brand-name-solo }
+firefox-products-learn-more-about-solo = { -brand-name-solo } ਬਾਰੇ ਹੋਰ ਜਾਣੋ
+
+## 0DIN
+
+firefox-products-0din = { -brand-name-0din }
+firefox-products-learn-more-about-0din = { -brand-name-0din } ਬਾਰੇ ਹੋਰ ਜਾਣੋ
+
+## Tabstack
+
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-learn-more-about-tabstack = { -brand-name-tabstack } ਬਾਰੇ ਹੋਰ ਜਾਣੋ

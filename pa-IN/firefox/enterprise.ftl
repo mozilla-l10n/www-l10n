@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
+firefox-enterprise-get-firefox-for-your-enterprise-with = { -brand-name-esr } ਅਤੇ ਰੈਪਿਡ ਰੀਲਿਜ਼ ਨਾਲ ਆਪਣੇ ਇੰਟਰਪ੍ਰਾਈਜ਼ ਲਈ { -brand-name-firefox } ਲਵੋ।
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-your-data-stays-your-business = ਤੁਹਾਡਾ ਡਾਟਾ ਤੁਹਾਡੇ ਕਾਰੋਬਾਰ ਨਾਲ ਰਹਿੰਦਾ ਹੈ
 firefox-enterprise-deploy-when-and-how-you-want = ਜਦੋਂ ਤੇ ਜਿਵੇਂ ਤੁਸੀਂ ਚਾਹੋ ਸਥਾਪਤ ਕਰੋ
