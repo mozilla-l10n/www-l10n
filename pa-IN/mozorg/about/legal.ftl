@@ -13,9 +13,12 @@ legal-back-to-legal = ਕਨੂੰਨੀ ਉੱਤੇ ਵਾਪਸ
 legal-terms = ਸ਼ਰਤਾਂ
 legal-our-websites = ਸਾਡੀਆਂ ਵੈੱਬਸਾਈਟਾਂ
 legal-firefox-services = { -brand-name-firefox } ਸੇਵਾਵਾਂ
+legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = ਪਰਦੇਦਾਰੀ ਤੇ ਮਾਰਕੇ
 legal-privacy-notices-and-policy = ਪਰਦੇਦਾਰੀ ਸੂਚਨਾਵਾਂ ਤੇ ਨੀਤੀ
 legal-downloadable-software-notices = ਡਾਊਨਲੋਡ ਕਰਨ ਯੋਗ ਸਾਫਟਵੇਅਰ ਸੂਚਨਾਵਾਂ
+# heading for the table of contents, a shorter heading is better
+legal-firefox-contents = ਸਮੱਗਰੀ
 legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: ਤੁਹਾਡੇ ਹੱਕਾਂ ਬਾਰੇ
 legal-thunderbird = { -brand-name-thunderbird }

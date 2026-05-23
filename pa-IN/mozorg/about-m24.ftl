@@ -23,6 +23,7 @@ m24-about-fund = ਫੰਡ
 
 m24-about-read-more = ਹੋਰ ਪੜ੍ਹੋ
 m24-about-read-the-latest = ਨਵੀਆਂ { -brand-name-mozilla } ਖ਼ਬਰਾਂ ਤੇ ਲੇਖਾਂ ਨੂੰ ਪੜ੍ਹੋ
+m24-about-watch-here = ਇੱਥੇ ਵੇਖੋ
 
 ## Showcase
 
