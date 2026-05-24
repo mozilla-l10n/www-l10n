@@ -70,12 +70,12 @@ m24-home-mozilla-builders = { -brand-name-mozilla } Builders
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
 m24-home-builders-helps-independent = Builders 通过定制的协作方式、方案、社区，帮助独立开发者创建耳目一新的开源 AI 项目。
 m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } 通过定制的协作方式、方案、社区，帮助独立开发者创建耳目一新的开源 AI 项目。
-m24-home-own-what-you = 拥有您所构建的
+m24-home-own-what-you = 自主所创，当自主掌握
 # "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
 m24-home-do-we-need-a = 在 AI 时代，我们是否也需要某种“LAMP 技术栈”？我们都需要透明、负责、可由用户掌握的技术。
 m24-home-watch-now = 立即观看
-m24-home-choice-first-stack = 选择第一个栈
-m24-home-your-tools-your = 您的工具您做主。一个统一的开源堆栈可简化现代 AI 代理与应用的构建与测试。
+m24-home-choice-first-stack = 尊重选择的技术栈
+m24-home-your-tools-your = 您的工具，您做主。这个统一的开源栈，可简化现代 AI 智能体与应用的构建与测试。
 m24-home-get-started-now = 立即使用
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = 演讲者站在舞台上，背景是许多产品的徽标。
