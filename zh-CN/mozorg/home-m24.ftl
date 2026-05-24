@@ -41,7 +41,7 @@ m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = 抢先发现并修复生成式 AI 漏洞，筑牢 AI 安全防线。
 m24-home-tabstack = { -brand-name-tabstack }
 # API stands for "Application Programming Interface"
-m24-home-tabstack-desc = 使用一个简单的以开发者为中心的 API 自动执行 Web 任务。
+m24-home-tabstack-desc = 面向开发者的易用 API，为自动化 Web 任务提供可靠助力。
 
 ## Donate
 
@@ -155,6 +155,7 @@ m24-home-read-the-report = 阅读报告
 
 ## Nothing Personal
 
+m24-home-mozilla-nothing-personal = Nothing Personal
 m24-home-our-new-magazine = 我们的新创杂志，专为身处数字文化前沿的独立思考者、技术人士、创意人士打造。
 m24-home-read-now = 立即阅读
 
