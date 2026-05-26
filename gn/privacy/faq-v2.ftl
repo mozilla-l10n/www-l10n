@@ -32,6 +32,9 @@ privacy-faq-v2-but-why-do-you = Hákatu, ¿ma’erã pembyaty mba’ekuaarã?
 privacy-faq-v2-data-collection-bugs-me = Ko mba’ekuaarã ñembyaty ndaipotái. ¿Ikatúpa ambogue?
 privacy-faq-v2-what-about-my-account = ¿Mba’e oiko umi mba’ekuaarã che mba’ete reheguágui?
 privacy-faq-v2-we-are-big-believers = Roguerovia umi mba’ekuaarã ñemomichĩ rehegua ha avei ndorojeruremo’ãi roikotevẽ’ỹva.
+# Variables:
+#   $attrs (url) - link to https://www.mozilla.org/account/
+privacy-faq-v2-you-dont-need-an-account = Nereikotevẽi mba’ete eiporu hag̃ua { -brand-name-firefox }. Umi <a { $attrs }>Mba’ete</a> eikotevẽ embojuehe hag̃ua mba’ekuaarã mba’e’okaita ndive, hákatu rojeruréta ndéve ne ñanduti veve ha nde ary (roikuaa hag̃ua ndaha’eiha mitã oreko’ỹva 18 ary.
 privacy-faq-v2-you-use-digital = Oiporu ñemurã ñandutiguáva omba’evende hag̃ua. ¿Ojogua umi tapicha mba’ekuaarã omoma’ẽ porãve hag̃ua iñemurã ñandutípe?
 privacy-faq-v2-no-we-do-not-buy = Nahániri, ndorojoguái yvypóra mba’ekuaarã omoakã hag̃ua ñemurã.
 privacy-faq-v2-we-do-not-ask = Rojeruréramo oreirũnguéra ñemurãguávape oiporu hag̃ua mba’ekuaarã ha’etéva umi ñanduti renda ha avei mbohetaha oikuaáva poruhára rehegua mba’e kundahára ha mba’e’okápa oiporu.
