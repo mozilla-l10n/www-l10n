@@ -24,6 +24,7 @@ privacy-faq-v2-following-questions = Umi porandu ha mbohovái upeigua ne pytyvõ
 
 privacy-faq-v2-i-use-firefox = Aiporu { -brand-name-firefox } ajapo hag̃ua opamba’e ñandutípe. { -brand-name-mozilla } oikuaáne heta mba’e cherehegua, ¿ajépa?
 privacy-faq-v2-it-seems-like = Hi’ã chéve opaite mba’apoha ñandutiguáva ojogua ha ovende che marandu. Upéicha avei peẽ napeneambuéi.
+privacy-faq-v2-we-never-sell-your = Ndorovendemo’ãi ne mba’ekuaarã. Ndorojoguái ambue empresa tecnologiagua tuichávape ombyaty ha oganáva ne maranduete ndive, upe tekoñemi ha’e ore roipotáva. Ndoroikuaái nde ary, kuña térã kuimba’e, moõpa reime añetehápe térã ambue tembiporupyahugua ombyaty ha oganáva rehe.
 privacy-faq-v2-wait-so-how = Eha’ãrõmi, ¿upéicharõ mba’éicha peganáta viru?
 privacy-faq-v2-softballs = Iporã, umi ñepyrũgua ndahasýi. ¿Mba’eichagua mba’ekuaarã pembyaty?
 privacy-faq-v2-do-you-collect = ¿Pembyaty mba’ekuaarã { -brand-name-firefox } rembiapo ñepyrũ rehegua?
