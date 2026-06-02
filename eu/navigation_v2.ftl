@@ -8,6 +8,7 @@ navigation-v2-menu = Menua
 
 ## Firefox menu
 
+navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
 navigation-v2-close-firefox-browsers-menu = Itxi { -brand-name-firefox-browsers } menua
 navigation-v2-firefox-for-desktop = Mahaigainerako { -brand-name-firefox }
 navigation-v2-firefox-blog = { -brand-name-firefox } bloga
