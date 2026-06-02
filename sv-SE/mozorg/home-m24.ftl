@@ -45,11 +45,7 @@ m24-home-tabstack-desc = Automatisera webbuppgifter på ett tillförlitligt sät
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Donera till de ideella organisationen { -brand-name-mozilla }
 m24-home-donate-to-v2 = Donera till { -brand-name-mozilla-foundation }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } bygger en rörelse för att återta internet. Tillsammans kan vi bygga en framtid där vår integritet skyddas, AI är pålitlig och oansvariga teknikföretag ställs till svars. Men det är bara möjligt om vi gör det tillsammans.
 m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } bygger en framtid där tekniken drivs av människor och är öppen genom design. Det är därför vi driver samhällscentrerad teknik genom opinionsbildning, utbildning, finansiering och innovation — för att säkerställa att teknikens framtid är bra för alla. Men det är bara möjligt om vi gör det tillsammans.
 m24-home-were-proudly-nonprofit = Vi är stolt ideella. Kommer du att donera till { -brand-name-mozilla } idag?
 m24-home-donate = Donera
@@ -87,15 +83,11 @@ m24-home-join-today = Gå med idag
 m24-home-a-double-bottom = En dubbel slutsats för teknik
 m24-home-mark-surman-discusses = Mark Surman diskuterar hur vi kan bygga ett teknikekosystem med dubbel slutresultat — ett som värdesätter både uppdrag och pengar.
 m24-home-agent-platform = Agentplattform
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Alla agenter
 m24-home-stop-wiring-tools = Sluta koppla ihop verktyg och passa spröda automatiseringar. Med agentplattformen { -brand-name-mozilla-ai-v2 } beskriver du ditt mål, vi genererar adaptiva AI-agenter som fungerar med dina verktyg och processer.
 
 ## Media Springboard
 
 m24-home-type = Typ
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Författare
 m24-home-author-v2 = Författare
 m24-home-topic = Ämne
 m24-home-intro = Introduktion
@@ -111,8 +103,6 @@ m24-home-headline-you-ai-v2 = Du, AI och internet — vad är det som händer eg
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } välkomnar Raffi Krikorian som Chief Technology Officer
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } VD pratar om fördelarna med öppen källkod för AI
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = Introducerar Thundermail och Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Introducerar { -brand-name-thundermail } och { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Det som kommer härnäst inom tekniken är ett val. Välj med oss.
 m24-home-a-good-moment = "Ett bra tillfälle för oss": { -brand-name-firefox } fokuserar på AI-webbläsare och vad som kommer härnäst för webben
@@ -141,13 +131,8 @@ m24-home-alt-rise25-joyous = En glad pristagare på { -brand-name-rise25 }.
 m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } uppfinner sig själv på nytt, diversifierar sig runt en konstellation av organisationer, ombildar reklam och skapar ett AI-ekosystem med öppen källkod. Läs om det i rapporten State of { -brand-name-mozilla } 2024.
 # Variables
-# Obsolete string (expires: 2026-03-27)
-#   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } återuppfinner sig självt, diversifierar sig kring en konstellation av organisationer, omtolkar reklam och skapar ett AI-ekosystem med öppen källkod. Läs om det i rapporten om tillståndet för { -brand-name-mozilla } { $year }.
-# Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = Vi står vid ett vägskäl för framtidens teknologi, där stora AI-företag befäster makten. Rapporten { $year } State of { -brand-name-mozilla } är en inbjudan att välja en annan framtid tillsammans.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstrakt pixelkonst i nyanser av grönt, orange och rosa
 # Used as an accessible text alternative for an image

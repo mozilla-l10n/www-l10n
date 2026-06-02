@@ -17,8 +17,6 @@ about-this-site-this-website = Site-ul www.mozilla.org este online de peste dou�
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
-# Obsolete string (expires 28-11-2025)
-about-this-site-today = Astăzi, este site-ul unde oamenii vin să descarce <a href="{ $firefox }">{ -brand-name-firefox }</a>, să încerce <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> și să afle mai multe <a href="{ $mozilla }">despre { -brand-name-mozilla }</a>. Poți descoperi câteva <a href="{ $book }">ouă de Paște</a> pe parcurs.
 about-this-site-today-v2 = Astăzi, este site-ul unde oamenii află mai multe <a href="{ $mozilla }">despre { -brand-name-mozilla }</a> și încearcă <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>. Poți descoperi și câteva <a href="{ $book }">ouă de Paște</a> pe parcurs.
 about-this-site-like-many = Ca multe dintre produsele noastre, și acest site web este cu sursă deschisă:
 about-this-site-view-source = Vezi codul sursă pe { -brand-name-github }

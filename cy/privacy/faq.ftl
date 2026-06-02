@@ -24,8 +24,6 @@ privacy-faq-really-you-dont-collect-my-browsing = Wir, ddim hyd yn oed casglu fy
 privacy-faq-mozilla-doesnt-know-as-much-v2 = Nid yw { -brand-name-mozilla } yn gwybod cymaint ag y byddech yn ei ddisgwyl am sut mae pobl yn pori'r we. Fel gwneuthurwr porwr, mae hynny yn her fawr i ni mewn gwirionedd. Dyna pam rydyn ni wedi adeiladu offer dewis, sy'n caniatáu i ddefnyddwyr sydd â diddordeb i rannu golwg i ni ar eu pori gwe. Os ydych yn cydweddu eich hanes pori ar draws gosodiadau { -brand-name-firefox }, nid ydym yn gwybod beth yw'r hanes hwnnw — mae wedi'i amgryptio gan eich dyfais.
 privacy-faq-it-seems-like-every-company = Mae'n ymddangos fel bod pob cwmni ar y we yn prynu a gwerthu fy nata. Mae'n siŵr eich bod chi'r un fath.
 privacy-faq-we-never-sell-your = Dydyn ni byth yn gwerthu eich data personol. Yn wahanol i gwmnïau technoleg mawr eraill sy'n casglu ac yn elwa o'ch manylion personol, rydym wedi'n hadeiladu gyda phreifatrwydd fel y rhagosodiad. Dydyn ni ddim yn gwybod eich oedran, rhyw, union leoliad, na manylion eraill y mae'r cwmnïau hyn yn eu casglu ac yn gwneud elw ohonyn nhw.
-# Obsolete string (expires: 2025-12-08)
-privacy-faq-mozilla-doesnt-sell-data-about = Dyw { -brand-name-mozilla } ddim yn gwerthu na phrynu data amdanoch chi.
 privacy-faq-wait-so-how-do-you-make-money = Ond, sut fyddwch chi'n gwneud eich arian?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/

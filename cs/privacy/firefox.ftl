@@ -7,11 +7,7 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Základy ochrany osobních údajů
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-youre-in-control = Vše máte pod kontrolou
 privacy-firefox-youre-in-control-v2 = Nad svými daty máte kontrolu
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-privacy-isnt-just = Soukromí není jen nastavení – je to vaše právo. Zásady ochrany osobních údajů { -brand-name-firefox(case: "gen") } jsou založeny na jasnosti, kontrole a odpovědném výchozím nastavení. Věříme, že byste měli mít vždy zodpovědnost za to, co se děje s vašimi daty. Můžete se spolehnout na to, že vám srozumitelně vysvětlíme, co { -brand-name-firefox } ve výchozím nastavení dělá, a přizpůsobíme vaše nastavení tak, abyste mohli prohlížet tak, jak chcete.
 privacy-firefox-privacy-isnt-just-v2 = Celkový přehled: { -brand-name-firefox } je navržen tak, aby ochrana soukromí a bezpečnost byly jeho standardem. O vás toho moc nevíme. To málo, co víme, nikdy neprodáváme. A na rozdíl od jiných prohlížečů vám dáváme možnost vypnout funkce, které vás obtěžují. Zásady ochrany osobních údajů aplikace { -brand-name-firefox } jsou založeny na srozumitelnosti, kontrole a odpovědných výchozích nastaveních. Můžete se na nás spolehnout, že vám jasně vysvětlíme, co { -brand-name-firefox } dělá ve výchozím nastavení, a upravíme vaše nastavení tak, abyste mohli procházet internet podle svých představ.
 privacy-firefox-read-our-privacy = Přečtěte si naše Zásady ochrany osobních údajů
 privacy-firefox-keeping-you-informed = Informujeme vás na každém kroku.
@@ -20,11 +16,7 @@ privacy-firefox-transparency-first = Transparentnost na prvním místě
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Jasně říkáme, jaká data používáme a proč. Žádná překvapení. <a { $attrs }>Oznámení o ochraně osobních údajů { -brand-name-firefox(case: "gen") }</a> vám to podrobně vysvětlí.
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-how-we-use = Jak používáme data
 privacy-firefox-how-we-use-v2 = Soukromí na prvním místě
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-we-use-data = Data používáme k zajištění bezproblémového chodu { -brand-name-firefox(case: "gen") }, vylepšování funkcí a udržení našeho podnikání – to vše při současném respektování vašeho soukromí. Některé volitelné funkce mohou ke svému fungování vyžadovat další údaje a my vám umožníme snadno spravovat vaše preference.
 # Variables:
 #   $attrs (string) - link to https://firefox-source-docs.mozilla.org/contributing/data-collection.html#browsing-data
 privacy-firefox-we-use-data-v2 = Na rozdíl od mnoha jiných prohlížečů, které běžně shromažďují a ukládají citlivá uživatelská data, je { -brand-name-firefox } postaven na principu <a { $attrs }></a>, podle kterého by ani { -brand-name-mozilla } neměla vědět, které webové stránky navštěvujete ani co na nich děláte.

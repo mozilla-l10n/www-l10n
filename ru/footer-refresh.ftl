@@ -10,8 +10,6 @@ footer-refresh-learn-more-about-mozilla-ads = Узнайте больше <span>
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Узнайте больше <span>о рекламе { -brand-name-mozilla }</span>
 footer-refresh-firefox-release-notes = Примечания к выпуску { -brand-name-firefox }
-# Obsolete string (expires 2026-03-13)
-footer-refresh-extend-reach = Расширьте охват и укрепите доверие.
 footer-refresh-add-trust-to = Добавьте доверия к вашей рекламе.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Подписаться на @{ -brand-name-mozilla }
@@ -35,8 +33,6 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Инструменты
 footer-refresh-donate = Пожертвовать
-# Obsolete string (expires 19-10-2025)
-footer-refresh-visit-mozilla-corporations = Посетите сайт некоммерческой материнской компании <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> — <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-visit-mozilla-corporations-v2 = Посетите сайт некоммерческой материнской компании <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Части этого содержимого созданы участниками проекта mozilla.org ©1998–{ $current_year }. Содержимое доступно на условиях <a rel="license" { $href }>лицензии { -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Уведомление о конфиденциальности веб-сайта

@@ -10,8 +10,6 @@ footer-refresh-learn-more-about-mozilla-ads = Zhońće wjace <span>wo { footer-r
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Zhońće wjace <span>wo wabjenju { -brand-name-mozilla }</span>
 footer-refresh-firefox-release-notes = Wersijowe informacije { -brand-name-firefox }
-# Obsolete string (expires 2026-03-13)
-footer-refresh-extend-reach = Rozšěrće dosah a pohłubšće dowěru.
 footer-refresh-add-trust-to = Přidajće swojemu wabjenskemu kupej dowěru.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } slědować
@@ -35,8 +33,6 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Nastroje
 footer-refresh-donate = Darić
-# Obsolete string (expires 19-10-2025)
-footer-refresh-visit-mozilla-corporations = Wopytajće załožbu <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, powšitkownosći wužitne maćerne towarstwo předewzaća <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
 footer-refresh-visit-mozilla-corporations-v2 = Wopytajće załožbu <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, powšitkownosći wužitne maćerne towarstwo předewzaća <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
 footer-refresh-portions-of-this-content = Dźěle tutoho wobsaha wot jednotliwych sobuskutkowacych mozilla.org wutworjene ©1998–{ $current_year }. Wobsah steji pod licencu <a rel="license" { $href }>{ -brand-name-creative-commons } license</a> k dispoziciji.
 footer-refresh-websites-privacy-notice = Prawidła priwatnosće websydła

@@ -26,10 +26,6 @@ privacy-faq-v2-i-use-firefox = Rwy'n defnyddio { -brand-name-firefox } ar gyfer 
 privacy-faq-v2-mozilla-does-not-know = Nid yw { -brand-name-mozilla } yn gwybod cymaint ag y byddech yn ei ddisgwyl am sut mae pobl yn pori'r we. { -brand-name-firefox }, y porwr gwe sy'n rhedeg ar eich dyfais neu gyfrifiadur, yw eich porth i'r rhyngrwyd. Bydd eich porwr yn rheoli llawer o wybodaeth am y gwefannau y byddwch yn ymweld â nhw, ond mae'r wybodaeth honno'n aros ar eich dyfais yn gyffredinol.
 privacy-faq-v2-it-seems-like = Mae'n ymddangos fel bod pob cwmni ar y we yn prynu a gwerthu fy nata. Mae'n siŵr eich bod chi'r un fath.
 privacy-faq-v2-we-never-sell-your = Dydyn ni byth yn gwerthu eich data personol. Yn wahanol i gwmnïau technoleg mawr eraill sy'n casglu ac yn elwa o'ch manylion personol, rydym wedi'n hadeiladu gyda phreifatrwydd fel y rhagosodiad. Dydyn ni ddim yn gwybod eich oedran, rhyw, union leoliad, na manylion eraill y mae'r cwmnïau hyn yn eu casglu ac yn gwneud elw ohonyn nhw.
-# Obsolete string (expires: 2025-12-08)
-# Variables:
-#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
-privacy-faq-v2-mozilla-does-not-sell = Nid yw { -brand-name-mozilla } yn gwerthu data amdanoch chi (yn y ffordd y mae’r rhan fwyaf o bobl yn meddwl am “werthu data”), ac nid ydym yn prynu data amdanoch chi. Gan ein bod yn ymdrechu i sicrhau tryloywder, a bod y diffiniad CYFREITHIOL o “werthu data” yn eang iawn mewn rhai mannau, rydym wedi gorfod camu yn ôl o wneud y datganiadau diffiniol rydych chi'n eu hadnabod ac yn eu caru. Rydym yn dal i wneud llawer o waith i sicrhau bod y data rydym yn ei rannu gyda'n partneriaid (y mae angen i ni ei wneud i wneud { -brand-name-firefox } yn fasnachol hyfyw) yn cael ei dynnu allan o unrhyw wybodaeth adnabod, neu ei rannu yn y yn gyfanredol, neu'n cael ei roi trwy ein technolegau diogelu preifatrwydd (fel <a { $attrs }>OHTTP</a>).
 privacy-faq-v2-wait-so-how = Ond, sut fyddwch chi'n gwneud eich arian?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org

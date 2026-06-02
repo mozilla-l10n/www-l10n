@@ -24,8 +24,6 @@ privacy-faq-really-you-dont-collect-my-browsing = Njezběraśo napšawdu móju p
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } njewě tak wjele ako wócakujośo wó tom, kak luźe web pśeglědujośo. Ako zgótowaŕ wobglědowaka jo to napšawdu wjelike wupominanje za nas. Togodla smy rědy za dobrowólne wužywanje wuwili, kótarež zajmowanym wužywarjam zmóžnjaju, nam doglěd do jich webpśeglědowanja bitowaś. Jolic swóju pśeglědowańsku historiju pśez instalacije { -brand-name-firefox } synchronizěrujośo, njewěmy, což toś ta historija wopśimujo - dokulaž jo pśez waš rěd skoděrowana.
 privacy-faq-it-seems-like-every-company = Zda se, ako by kužde pśedewześe we webje móje daty kupiło a pśedało. Pla was to nejskerjej hynac njejo.
 privacy-faq-we-never-sell-your = Njepśedajomy nigda waše wósobinske daty. Na rozdźěl wót drugich wjelikich pśedewześow technologije, kótarež waše wósobinske daty gromaźe a z nich profitěruju, twarimy wót wšogo zachopjeńka na priwatnosć. Njewěmy wašu starstwo, rod, dokradne stojnišćo abo druge informacije, kótarež wjelike pśedewześa technologije gromaźe a z kótarychž profitěruju.
-# Obsolete string (expires: 2025-12-08)
-privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } daty wó was njepśedawa a njekupujo.
 privacy-faq-wait-so-how-do-you-make-money = Moment, z cyim ga pjenjeze zaslužyśo?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/

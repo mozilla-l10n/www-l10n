@@ -39,11 +39,7 @@ m24-home-solo = { -brand-name-solo }
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Przekaż datek na rzecz { -brand-name-mozilla(case: "gen") }
 m24-home-donate-to-v2 = Przekaż datek na rzecz { -brand-name-mozilla-foundation }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } buduje ruch mający na celu odzyskanie Internetu. Razem możemy zbudować przyszłość, w której nasza prywatność jest chroniona, AI jest godna zaufania, a nieodpowiedzialne firmy technologiczne są pociągane do odpowiedzialności. Ale to jest możliwe tylko wtedy, gdy zrobimy to razem.
 m24-home-were-proudly-nonprofit = Z dumą działamy na zasadach non-profit. Czy przekażesz dziś darowiznę na rzecz { -brand-name-mozilla(case: "gen") }?
 m24-home-donate = Przekaż datek
 
@@ -73,8 +69,6 @@ m24-home-join-today = Dołącz już dziś
 ## Media Springboard
 
 m24-home-type = Typ
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Autor
 m24-home-topic = Temat
 m24-home-intro = Wprowadzenie
 m24-home-tag-article = Artykuł
@@ -87,8 +81,6 @@ m24-home-topic-ps = Prywatność i bezpieczeństwo
 m24-home-headline-you-ai-v2 = Ty, AI i internet — co się naprawdę dzieje?
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = Dyrektor generalny { -brand-name-mozilla-ai-v2 } mówi o zaletach otwartoźródłowej sztucznej inteligencji.
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = Przedstawiamy Thundermail i Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Przedstawiamy { -brand-name-thundermail } i { -brand-name-thunderbird-pro }
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
@@ -102,7 +94,6 @@ m24-home-interview-with-mark = Wywiad z Markiem Surmanem: Jak { -brand-name-moz
 m24-home-rise25-awards = Nagrody { -brand-name-rise25 }
 m24-home-get-to-know = Poznaj liderów promujących godny zaufania, inkluzywny i przejrzysty rozwój sztucznej inteligencji, którzy wyznaczają nowe standardy i inspirują kolejne pokolenie innowatorów.
 m24-home-watch-the-award = Obejrzyj galę wręczenia nagród
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstrakcyjna grafika pikselowa w odcieniach zieleni, pomarańczy i różu
 m24-home-read-the-report = Przeczytaj raport

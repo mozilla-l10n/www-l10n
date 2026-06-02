@@ -26,10 +26,6 @@ privacy-faq-v2-i-use-firefox = Tôi sử dụng { -brand-name-firefox } cho hầ
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } không biết nhiều như bạn mong đợi về cách mọi người duyệt web. { -brand-name-firefox }, trình duyệt web chạy trên thiết bị hoặc máy tính của bạn, là cổng của bạn vào Internet. Trình duyệt của bạn sẽ quản lý rất nhiều thông tin về các trang web bạn truy cập, nhưng thông tin đó thường vẫn nằm trên thiết bị của bạn.
 privacy-faq-v2-it-seems-like = Tất cả các công ty trên web dường như mua và bán thông tin của tôi. Có lẽ bạn sẽ không khác biệt.
 privacy-faq-v2-we-never-sell-your = Chúng tôi không bao giờ bán dữ liệu cá nhân của bạn. Không giống như các công ty công nghệ lớn khác thu thập và kiếm lợi nhuận từ thông tin cá nhân của bạn, chúng tôi được xây dựng với tiêu chí bảo mật thông tin là mặc định. Chúng tôi không biết tuổi, giới tính, vị trí chính xác của bạn hoặc bất kỳ thông tin nào khác mà các công ty công nghệ lớn thu thập và kiếm lợi nhuận.
-# Obsolete string (expires: 2025-12-08)
-# Variables:
-#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
-privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } không bán dữ liệu về bạn (theo cách mà hầu hết mọi người nghĩ về việc “bán dữ liệu“) và chúng tôi không mua dữ liệu về bạn. Vì chúng tôi cố gắng để minh bạch và định nghĩa pháp lý của “bán dữ liệu“ là vô cùng rộng ở một số nơi, chúng tôi đã phải lùi lại từ việc đưa ra những tuyên bố dứt khoát mà bạn biết và yêu thương về nó. Chúng tôi vẫn đặt rất nhiều công việc để đảm bảo rằng dữ liệu mà chúng tôi chia sẻ với các đối tác của mình (mà chúng tôi cần làm để làm { -brand-name-firefox } khả thi về mặt thương mại) sẽ không có bất kỳ thông tin nhận dạng nào, hoặc chỉ được chia sẻ trong tổng hợp hoặc được đưa vào thông qua các công nghệ bảo vệ quyền riêng tư của chúng tôi (ví dụ như <a { $attrs }>OHTTP</a>).
 privacy-faq-v2-wait-so-how = Chờ đã, vậy làm thế nào để bạn kiếm tiền?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org

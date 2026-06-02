@@ -45,11 +45,7 @@ m24-home-tabstack-desc = Awtomatizěrujśo spušćobnje webnadawki z jadnoreju A
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Pósććo za wšě wužytnej organizaciji { -brand-name-mozilla }
 m24-home-donate-to-v2 = Pósććo { -brand-name-mozilla-foundation }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } gibanje twóri, aby internet slědk dobył. Gromaźe móžomy pśichod napóraś, źož se naša priwatnosć šćita, KI jo dowěry gódna a njezagronite pśedewześa technologije zagronite cynje. Ale to jo jano móžne, jolic to gromaźe cynimy.
 m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } pśichod twóri, źož se technologija wót luźi pódpěra a jo z wótglědom wótwórjona. Togodla technologiju ze zgromaźeństwom w centrumje pśez zasajźenje, kubłanje, pósćiwanje a inowaciju doprědka pógónjujomy, aby my zawěsćili, až pśichod technologije jo dobry za wše. Ale to jo jano móžne, jolic to gromaźe cynimy.
 m24-home-were-proudly-nonprofit = Smy z gjardosću za wše wužytne. Pósćiwaśo źinsa na { -brand-name-mozilla }?
 m24-home-donate = Pósćiś
@@ -87,15 +83,11 @@ m24-home-join-today = Pśizamkniśo se źinsa
 m24-home-a-double-bottom = Dwójny wuslědk za technologiju
 m24-home-mark-surman-discusses = Mark Surman diskutěrujo, kak móžomy techniski ekosystem z dwójnym wuslědkom wuwijaś – jaden, kótaryž misiju a pjenjeze gódnośi.
 m24-home-agent-platform = Agentowa platforma
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Někaki agent
 m24-home-stop-wiring-tools = Pśestańśo rědy skablowaś a kśěke awtomatizacije babysittowaś. Z platformu agentow { -brand-name-mozilla-ai-v2 } wopisujośo swój cel, generěrujomy adaptiwne agenty KI, kótarež z wašymi rědami a procesami funkcioněruju.
 
 ## Media Springboard
 
 m24-home-type = Typ
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Awtor
 m24-home-author-v2 = Awtory
 m24-home-topic = Tema
 m24-home-intro = Zapokazanje
@@ -111,8 +103,6 @@ m24-home-headline-you-ai-v2 = Wy, KI a internet – co se napšawdu stawa?
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } Raffi Krikoriana ako Chief Technology Officer wita
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = CEO { -brand-name-mozilla-ai-v2 } wó lěpšynach KI wótwórjonego žrědła powěda
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = Pśedstajamy Thundermail a Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = { -brand-name-thundermail } a { -brand-name-thunderbird-pro } pśedstajiś
 m24-home-what-comes-next = Což ako pśiduce w technologiji pśiźo jo wuběrk. Wubjeŕśo z nami.
 m24-home-a-good-moment = ‘Dobre wokognuśe w casu za nas: { -brand-name-firefox } na cole pśed wobglědowakami KI a což jo pśiduce za web
@@ -141,13 +131,8 @@ m24-home-alt-rise25-joyous = Wjasoły nosaŕ myta na { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Staw { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se sam znowego wunamakujo, rozeznawa se wokoło konstelacije organizacijow, koncipěrujo wabjenje nowo a napórajo ekosystem KI wótwórjonego žrědła. Cytajśo wó tom w Rozpšawje wó stawje { -brand-name-mozilla } 2024.
 # Variables
-# Obsolete string (expires: 2026-03-27)
-#   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } se sam znowego wunamakujo, rozeznawa se wokoło konstelacije organizacijow, koncipěrujo wabjenje nowo a napórajo ekosystem KI wótwórjonego žrědła. Cytajśo wó tom w Rozpšawje wó stawje { -brand-name-mozilla } { $year }.
-# Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = Smy na rozpuśu za pśichod technologije, z wjelikimi pśedewześami KI, kótarež móc kšuśe. Rozpšawa wó stawje { -brand-name-mozilla } { $year } jo pśepšosenje, aby my gromaźe drugi pśichod wubrali.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstraktne pikselowe wuměłstwo w zelenych, oranžowych a rožojtych wósenjach
 # Used as an accessible text alternative for an image

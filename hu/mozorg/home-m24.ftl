@@ -45,11 +45,7 @@ m24-home-tabstack-desc = Automatizálja a webes feladatokat megbízhatóan egy e
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Adományozzon a { -brand-name-mozilla } nonprofit szervezetnek
 m24-home-donate-to-v2 = Adományozzon a { -brand-name-mozilla-foundation }nak
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = A { -brand-name-mozilla } mozgalmat épít az internet visszaszerzésére. Együtt olyan jövőt építhetünk, ahol védik az adatvédelmét, a mesterséges intelligencia megbízható és a felelőtlen technológiai vállalatokat felelősségre vonják. De ez csak akkor lehetséges, ha együtt teszünk érte.
 m24-home-mozilla-foundation-is-building-v2 = A { -brand-name-mozilla-foundation } olyan jövőt épít, amelyben a technológia az emberek által működtetett és nyílt. Ezért támogatjuk a közösségközpontú technológiát érdekképviselettel, oktatással, finanszírozással és innovációval, hogy a technológia jövője mindenki számára kedvező legyen. De ez csak akkor lehetséges, ha együtt dolgozunk.
 m24-home-were-proudly-nonprofit = Büszkén nonprofit szervezet vagyunk. Adományoz ma a { -brand-name-mozilla(ending: "accented") }nak?
 m24-home-donate = Adományozás
@@ -87,15 +83,11 @@ m24-home-join-today = Csatlakozás még ma
 m24-home-a-double-bottom = Kettős eredmény a technológia számára
 m24-home-mark-surman-discusses = Mark Surman azt taglalja, hogyan építhetünk olyan technológiai ökoszisztémát, amely egyaránt értékeli a küldetést és az anyagiakat.
 m24-home-agent-platform = Ágens platform
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Bármelyik ágens
 m24-home-stop-wiring-tools = Felejtse el az összedrótozott eszközöket és a törékeny automatizálásokat. Írja le a célját a { -brand-name-mozilla-ai-v2 } Agent Platformmal, és mi adaptív MI-ágenst állítunk elő, amely együttműködik az eszközeivel és a folyamataival.
 
 ## Media Springboard
 
 m24-home-type = Típus
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Szerző
 m24-home-author-v2 = Szerzők
 m24-home-topic = Téma
 m24-home-intro = Bevezetés
@@ -111,8 +103,6 @@ m24-home-headline-you-ai-v2 = Ön, az MI és az internet – mi is történik va
 m24-home-mozilla-welcomes-raffi = A { -brand-name-mozilla } műszaki igazgatóként üdvözli Raffi Krikoriant
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } vezérigazgató a nyílt forráskódú MI előnyeiről beszél
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = Bemutatkozik a Thundermail és a Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Bemutatkozik a { -brand-name-thundermail } és a { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Ami ezután következik a technológiában, az egy választás. Válasszon velünk.
 m24-home-a-good-moment = „Egy jó pillanat a számunkra”: a { -brand-name-firefox } vezetője az MI böngészőkről és a web jövőjéről
@@ -141,13 +131,8 @@ m24-home-alt-rise25-joyous = A { -brand-name-rise25 } egy örömteli kitüntetet
 m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = A { -brand-name-mozilla } újraszervezi magát, szervezetek halmaza köré diverzifikálódik, újragondolja a hirdetéseket és egy nyílt forráskódú MI ökoszisztémát hoz létre. Olvasson róla a { -brand-name-mozilla } 2024-es állapotjelentésében.
 # Variables
-# Obsolete string (expires: 2026-03-27)
-#   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = A { -brand-name-mozilla } újraszervezi magát, szervezetek halmaza köré diverzifikálódik, újragondolja a hirdetéseket és egy nyílt forráskódú MI ökoszisztémát hoz létre. Olvasson róla a { -brand-name-mozilla } { $year } évi állapotjelentésében.
-# Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = A technológia jövője szempontjából válaszúthoz értünk, ahol a nagy MI cégek megszilárdítják a hatalmukat. A { $year }-ös State of { -brand-name-mozilla } állapotjelentés egy felhívás arra, hogy együtt más jövőt válasszunk.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Absztrakt pixelgrafika zöld, narancs és rózsaszín árnyalatokban
 # Used as an accessible text alternative for an image

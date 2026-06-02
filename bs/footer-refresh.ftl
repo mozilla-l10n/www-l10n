@@ -10,8 +10,6 @@ footer-refresh-learn-more-about-mozilla-ads = Saznajte više <span>o { footer-re
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Saznajte više <span>o oglašavanju na { -brand-name-mozilla } platformi</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } napomene o izdanju
-# Obsolete string (expires 2026-03-13)
-footer-refresh-extend-reach = Proširite doseg. Produbite povjerenje.
 footer-refresh-add-trust-to = Dodajte povjerenje kupovini oglasa.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Pratite @{ -brand-name-mozilla }
@@ -35,8 +33,6 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Alati
 footer-refresh-donate = Donirajte
-# Obsolete string (expires 19-10-2025)
-footer-refresh-visit-mozilla-corporations = Posjetite neprofitnu matičnu organizaciju <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-visit-mozilla-corporations-v2 = Posjetite neprofitnu matičnu organizaciju <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Dijelovi ovog sadržaja su ©1998–{ $current_year } od strane pojedinačnih saradnika mozilla.org. Sadržaj dostupan pod <a rel="license" { $href }>{ -brand-name-creative-commons } licencom</a>.
 footer-refresh-websites-privacy-notice = Napomena o privatnosti web stranice

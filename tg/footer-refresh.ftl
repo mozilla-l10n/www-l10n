@@ -10,8 +10,6 @@ footer-refresh-learn-more-about-mozilla-ads = Маълумоти бештар <s
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Маълумоти бештар <span>дар бораи рекламаи «{ -brand-name-mozilla }»</span>
 footer-refresh-firefox-release-notes = Қайдҳои нашри «{ -brand-name-firefox }»
-# Obsolete string (expires 2026-03-13)
-footer-refresh-extend-reach = Фарогириро васеътар кунед. Эътимодро тақвият диҳед.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Пайгирӣ кардани @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
@@ -34,8 +32,6 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Абзорҳо
 footer-refresh-donate = Саҳм гузоштан
-# Obsolete string (expires 19-10-2025)
-footer-refresh-visit-mozilla-corporations = Ба ширкати асосии ғайритиҷории <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> ташриф оред, яъне «<a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>».
 footer-refresh-visit-mozilla-corporations-v2 = Ба ширкати асосии ғайритиҷории <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> ташриф оред, яъне «<a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>».
 footer-refresh-portions-of-this-content = Қисмҳои ин муҳтаво аз ҷониби иштирокдорони лоиҳаи «mozilla.org» эҷод карда шудаанд ©1998–{ $current_year }. Муҳтаво дар таҳти <a rel="license" { $href }>Иҷозатномаи «{ -brand-name-creative-commons }»</a> дастрас аст.
 footer-refresh-websites-privacy-notice = Огоҳномаи махфияти сомона

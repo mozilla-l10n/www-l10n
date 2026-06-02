@@ -33,8 +33,6 @@ m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = { -brand-name-mozilla } ਗ਼ੈਰ-ਫਾਇਦੇ ਨੂੰ ਦਾਨ ਦਿਓ
 m24-home-donate-to-v2 = { -brand-name-mozilla-foundation } ਨੂੰ ਦਾਨ ਦਿਓ
 m24-home-were-proudly-nonprofit = ਅਸੀਂ ਮਾਣ ਨਾਲ ਗ਼ੈਰ-ਮੁਨਾਫਾ ਕੰਪਨੀ ਹੈ। ਕੀ ਤੁਸੀਂ ਅੱਜ { -brand-name-mozilla } ਨੂੰ ਦਾਨ ਦਿਓਂਗੇ?
 m24-home-donate = ਦਾਨ ਦਿਓ
@@ -58,8 +56,6 @@ m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 ## Media Springboard
 
 m24-home-type = ਕਿਸਮ
-# Obsolete string (expires 2026-03-13)
-m24-home-author = ਲੇਖਕ
 m24-home-topic = ਵਿਸ਼ਾ
 m24-home-intro = ਜਾਣ-ਪਛਾਣ
 m24-home-tag-article = ਲੇਖ

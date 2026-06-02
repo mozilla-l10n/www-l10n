@@ -10,8 +10,6 @@ footer-refresh-learn-more-about-mozilla-ads = Zjistit více <span>o { footer-ref
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Zjistěte více <span>o reklamě v { -brand-name-mozilla(case: "loc") }</span>
 footer-refresh-firefox-release-notes = Poznámky k vydání { -brand-name-firefox(case: "gen") }
-# Obsolete string (expires 2026-03-13)
-footer-refresh-extend-reach = Rozšiřte dosah a prohlubte důvěru.
 footer-refresh-add-trust-to = Přidejte důvěru k nákupu reklamy.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Sledujte @{ -brand-name-mozilla }
@@ -35,8 +33,6 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Nástroje
 footer-refresh-donate = Přispějte
-# Obsolete string (expires 19-10-2025)
-footer-refresh-visit-mozilla-corporations = Navštivte stránky neziskové organizace <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, mateřské organizace společnosti <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
 footer-refresh-visit-mozilla-corporations-v2 = Navštivte stránky <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, neziskové organizace <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Části tohoto obsahu jsou ©1998–{ $current_year } jednotlivými přispěvateli mozilla.org. Obsah je dostupný pod <a rel="license" { $href }>licencí { -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Zásady ochrany osobních údajů

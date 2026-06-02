@@ -26,10 +26,6 @@ privacy-faq-v2-i-use-firefox = Používam { -brand-name-firefox } takmer neustá
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } nevie o vašom prehliadaní toľko, koľko by ste očakávali. { -brand-name-firefox }, webový prehliadač, ktorý beží na vašom zariadení alebo počítači, je vašou bránou k internetu. Váš prehliadač bude spravovať veľa informácií o webových stránkach, ktoré navštívite, ale tieto informácie vo všeobecnosti zostávajú vo vašom zariadení.
 privacy-faq-v2-it-seems-like = Zdá sa, že každá spoločnosť na webe nakupuje a predáva moje údaje. Pravdepodobne nie ste výnimkou.
 privacy-faq-v2-we-never-sell-your = Vaše osobné údaje nikdy nepredávame. Na rozdiel od iných veľkých technologických spoločností, ktoré zhromažďujú vaše osobné údaje a profitujú z nich, sme vytvorení s ohľadom na súkromie. Nepoznáme váš vek, pohlavie, presnú polohu ani iné informácie, ktoré veľké technologické spoločnosti zhromažďujú a z ktorých profitujú.
-# Obsolete string (expires: 2025-12-08)
-# Variables:
-#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
-privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } nepredáva údaje o vás (tak, ako si väčšina ľudí myslí o „predaji údajov“), a údaje o vás nekupujeme. Keďže sa snažíme o transparentnosť a PRÁVNA definícia „predaja údajov“ je na niektorých miestach extrémne široká, museli sme ustúpiť od definitívnych vyhlásení, ktoré poznáte a máte radi. Stále vynakladáme veľa práce na to, aby sme zabezpečili, že údaje, ktoré zdieľame s našimi partnermi (čo musíme urobiť, aby bol { -brand-name-firefox } komerčne životaschopný), boli zbavené akýchkoľvek identifikačných informácií, sú zdieľané iba súhrnne, alebo prešli cez naše technológie na ochranu súkromia (napríklad <a { $attrs }>OHTTP</a>).
 privacy-faq-v2-wait-so-how = Počkať, ako teda zarábate peniaze?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org

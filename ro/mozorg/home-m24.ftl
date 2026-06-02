@@ -45,11 +45,7 @@ m24-home-tabstack-desc = Automatizează fiabil sarcinile web cu un API simplu, a
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Donează către organizația non-profit { -brand-name-mozilla }
 m24-home-donate-to-v2 = Donează către { -brand-name-mozilla-foundation }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } construiește o mișcare pentru revendicarea internetului. Împreună putem construi un viitor în care confidențialitatea ne este protejată, AI este de încredere, iar companiile de tehnologie iresponsabile sunt trase la răspundere. Dar toate sunt posibile numai dacă le facem împreună.
 m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } construiește un viitor în care tehnologia este susținută de oameni și deschisă prin design. De aceea, susținem tehnologia centrată pe comunitate prin susținere, educație, finanțare și inovare — pentru a ne asigura că viitorul tehnologiei este bun pentru toată lumea. Dar toate acestea sunt posibile doar dacă le facem împreună.
 m24-home-were-proudly-nonprofit = Suntem o organizație non-profit mândră. Donează astăzi către { -brand-name-mozilla }?
 m24-home-donate = Donează
@@ -87,15 +83,11 @@ m24-home-join-today = Alătură-te astăzi
 m24-home-a-double-bottom = O linie dublă de rezultate pentru tehnologie
 m24-home-mark-surman-discusses = Mark Surman discută despre cum putem construi un ecosistem tehnologic cu o linie dublă de rezultate — care pune accent atât pe misiune, cât și pe încasări.
 m24-home-agent-platform = Platformă agenți
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Orice agent
 m24-home-stop-wiring-tools = Nu mai conectezi instrumente între ele și nu mai supraveghezi automatizări fragile. Cu { -brand-name-mozilla-ai-v2 } Agent Platform, îți descrii obiectivul, iar noi generăm agenți AI adaptivi care funcționează cu instrumentele și procesele tale.
 
 ## Media Springboard
 
 m24-home-type = Tip
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Autor
 m24-home-author-v2 = Autor(i)
 m24-home-topic = Subiect
 m24-home-intro = Introducere
@@ -111,8 +103,6 @@ m24-home-headline-you-ai-v2 = Tu, AI și internetul — ce se întâmplă cu ade
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } îi urează bun venit lui Raffi Krikorian în funcția de director tehnic
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = CEO-ul { -brand-name-mozilla-ai-v2 } vorbește despre avantajele AI cu sursă deschisă
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = Prezentare Thundermail și Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Vă prezentăm { -brand-name-thundermail } și { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Viitorul tehnologiei este o alegere. Alege cu noi.
 m24-home-a-good-moment = „Un moment bun pentru noi”: șeful { -brand-name-firefox } despre browsere cu AI și viitorul webului
@@ -141,13 +131,8 @@ m24-home-alt-rise25-joyous = Un laureat bucuros la { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Starea { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se reinventează, diversificându-se în jurul unei constelații de organizații, reinventând publicitatea și creând un ecosistem AI cu sursă deschisă. Citește Raportul privind starea { -brand-name-mozilla } din 2024.
 # Variables
-# Obsolete string (expires: 2026-03-27)
-#   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } se reinventează, diversificând în jurul unei constelații de organizații, regândind publicitatea și creând un ecosistem AI cu sursă deschisă. Citește despre toate în „Raportul despre starea { -brand-name-mozilla }”.
-# Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = Suntem la o răscruce pentru viitorul tehnologiei, în contextul în care marile companii de inteligență artificială își consolidează puterea. Raportul pe anul { $year } privind starea { -brand-name-mozilla } este o invitație de a alege împreună un viitor diferit.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Artă pixelată abstractă în nuanțe de verde, portocaliu și roz
 # Used as an accessible text alternative for an image

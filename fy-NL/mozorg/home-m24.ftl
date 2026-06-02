@@ -45,11 +45,7 @@ m24-home-tabstack-desc = Automatisearje op betroubere wize webtaken mei in ienf�
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Donearje oan de non-profitorganisaasje { -brand-name-mozilla }
 m24-home-donate-to-v2 = Donearje oan { -brand-name-mozilla-foundation }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } bout in beweging om it ynternet werom te winnen. Tegearre kinne wy in takomst bouwe wêr't ús privacy beskerme wurdt, AI betrouber is en ûnferantwurde technologybedriuwen ta ferantwurding roppen wurde. Mar dat kin allinnich as wy it tegearre dogge.
 m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation }  bout in takomst dêr’t technology oandreaun wurdt troch minsken, en iepen troch ûntwerp. Dêrom stimulearje wy mienskipsrjochte technology troch belangebehertiging, ûnderwiis, finansiering en ynnovaasje — om derfoar te soargjen dat de takomst fan technology goed is foar elkenien. Mar dat is allinnich mooglik as wy it tegearre dogge.
 m24-home-were-proudly-nonprofit = Wy binne grutsk non-profit. Wolle jo hjoed donearje oan { -brand-name-mozilla }?
 m24-home-donate = Donearje
@@ -87,15 +83,11 @@ m24-home-join-today = No meidwaan
 m24-home-a-double-bottom = In dûbeld resultaat foar technology
 m24-home-mark-surman-discusses = Mark Surman besprekt hoe’t wy in technysk ekosysteem bouwe kinne mei in dûbeld resultaat – in ekosysteem dat sawol misje as jild wurdearret.
 m24-home-agent-platform = Agentplatfoarm
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Elke agent
 m24-home-stop-wiring-tools = Stopje mei it oaninoar gearfoegjen fan ark en it oppassen op brosse automatisearringen. Mei it { -brand-name-mozilla-ai-v2 }-agentpplatfosrm beskriuwe jo jo doel, wy generearje adaptive AI-agents dy’t wurkje mei jo ark en prosessen.
 
 ## Media Springboard
 
 m24-home-type = Type
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Skriuwer
 m24-home-author-v2 = Auteur(s)
 m24-home-topic = Underwerp
 m24-home-intro = Yntro
@@ -111,8 +103,6 @@ m24-home-headline-you-ai-v2 = Jo, AI en it ynternet – wat bart der echt?
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } hjit Raffi Krikorian wolkom as Chief Technology Officer
 m24-home-tech-target = Tech-doelstelling
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 }-CEO praat oer foardielen fan iepenboarne-AI
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = Nij: Thundermail en Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Nij: { -brand-name-thundermail } en { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Wat hjirnei komt yn technology is in kar. Kies mei ús.
 m24-home-a-good-moment = ‘In goed momint foar ús’: { -brand-name-firefox } oer AI-browsers en wat komt dernei foar it web
@@ -141,13 +131,8 @@ m24-home-alt-rise25-joyous = In blide huldige by { -brand-name-rise25 }.
 m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } fynt harsels opnij út en diversifiearret rûn in konstellaasje fan organisaasjes, fynt reklame opnij út en kreëarret in iepenboarne AI-ekosysteem. Lês mear yn it State of { -brand-name-mozilla } 2024-rapport.
 # Variables
-# Obsolete string (expires: 2026-03-27)
-#   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } fynt harsels opnij út en diversifiearret rûn in konstellaasje fan organisaasjes, fynt reklame opnij út en kreëarret in iepenboarne AI-ekosysteem. Lês mear yn it State of { -brand-name-mozilla } { $year }-rapport.
-# Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = Wy steane op in krúspunt foar de takomst fan technology, mei grutte AI-bedriuwen dy’t har macht konsolidearje. It rapport oer de steat fan { $year } fan { -brand-name-mozilla } is in útnûging om tegearre in oare takomst te kiezen.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstrakte pikselkeunst yn skaden fan grien, oranje en rôze
 # Used as an accessible text alternative for an image

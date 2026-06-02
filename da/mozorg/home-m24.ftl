@@ -38,10 +38,6 @@ m24-home-mask-your-email = Masker din mailadresse og dit telefonnummer, så du k
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Donér til non-profit organisationen { -brand-name-mozilla }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } bygger et fællesskab for at vinde internettet tilbage. Sammen kan vi skabe en fremtid, hvor vores privatliv er beskyttet, AI er pålidelig og uansvarlige teknologivirksomheder bliver stillet til ansvar. Men det er kun muligt, hvis vi gør det sammen.
 m24-home-were-proudly-nonprofit = Vi er en nonprofit-organisation og stolte af det. Vil du donere til { -brand-name-mozilla } i dag?
 m24-home-donate = Donér
 
@@ -70,8 +66,6 @@ m24-home-got-an-earlystage = Er I en start-up i den tidlige fase? Præsenter jer
 ## Media Springboard
 
 m24-home-type = Type
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Forfatter
 m24-home-topic = Emne
 m24-home-intro = Introduktion
 m24-home-tag-article = Artikel
@@ -95,7 +89,6 @@ m24-home-alt-rise25-smiling = En selvsikker smilende taler ved { -brand-name-ris
 m24-home-alt-rise25-joyous = En glad prismodtager ved { -brand-name-rise25 }.
 m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } genopfinder sig selv ved at oprette nye organisationer, tænke annoncering på en ny måde og skabe et AI-økosystem baseret på open source. Læs mere i rapporten State of { -brand-name-mozilla } 2024
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstrakt pixelkunst i nuancer af grøn, orange og pink
 m24-home-read-the-report = Læs rapporten

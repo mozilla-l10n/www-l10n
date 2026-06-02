@@ -26,10 +26,6 @@ privacy-faq-v2-i-use-firefox = Eu utilizo o { -brand-name-firefox } para quase t
 privacy-faq-v2-mozilla-does-not-know = A { -brand-name-mozilla } não sabe tanto quanto você esperava sobre como as pessoas navegam na Internet. O { -brand-name-firefox }, o navegador de Internet que funciona no seu dispositivo ou computador, é a sua porta de entrada para a Internet. O seu navegador irá gerir muita informação sobre os sites que visita, mas essa informação geralmente fica no seu dispositivo.
 privacy-faq-v2-it-seems-like = Parece que todas as empresas na Internet estão a comprar e a vender os meus dados. Provavelmente vocês não são diferentes.
 privacy-faq-v2-we-never-sell-your = Nós nunca vendemos os seus dados pessoais. Ao contrário de outras grandes empresas de tecnologia que recolhem e lucram com a sua informação pessoal, em nós foi construído com a privacidade como predefinição. Não sabemos a sua idade, Género, localização precisa, ou outras informações que as Big Tech recolhem e com as quais lucram.
-# Obsolete string (expires: 2025-12-08)
-# Variables:
-#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
-privacy-faq-v2-mozilla-does-not-sell = A { -brand-name-mozilla } não vende dados sobre si (da forma que a maioria das pessoas pensa sobre “vender dados”) e não compramos informações sobre si. Como nos esforçamos pela transparência e a definição LEGAL de “ venda de dados “ é extremamente ampla em alguns locais, tivemos de nos contentar com as declarações finais que você conhece e adora. Ainda colocamos muito trabalho para garantir que os dados que partilhamos com os nossos parceiros (o que precisamos de fazer para tornar o { -brand-name-firefox } comercialmente disponíveis) não tenham qualquer informação de identificação ou sejam partilhados apenas na agregado, ou é submetido através das nossas tecnologias de proteção da privacidade (como o <a { $attrs }>OHTTP</a>).
 privacy-faq-v2-wait-so-how = Esperem, então como é que fazem dinheiro?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org

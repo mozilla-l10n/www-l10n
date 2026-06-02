@@ -26,10 +26,6 @@ privacy-faq-v2-i-use-firefox = E përdor { -brand-name-firefox }-in për thuajse
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } s’di aq sa mund të prisnit, rreth se si e përdorin interneti njerëzit. { -brand-name-firefox }-i, shfletuesi që xhiron në pajisjen apo kompjuterin tuaj, është porta juaj për në internet. Shfletuesi juaj do të administrojë plot informacione rreth sajteve që vizitoni, por këto informacione përgjithësisht mbete në pajisjen tuaj.
 privacy-faq-v2-it-seems-like = Duket se çdo kompani në web shet dhe blen të dhënat e mia. Gjasat janë që as ju të mos jeni ndryshe.
 privacy-faq-v2-we-never-sell-your = S’i shesim kurrë të dhënat tuaja personale. Ndryshe nga shoqëri të tjera <em>big tech</em> që grumbullojnë dhe nxjerrin fitime nga informacion i juaji personal, ne jemi ngritur me privatësinë si parazgjedhja. Nuk njohim moshën tuaj, gjininë, vendndodhjen e saktë, apo tjetër informacion që Big Tech grumbullon dhe e përdor për të nxjerrë fitime.
-# Obsolete string (expires: 2025-12-08)
-# Variables:
-#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
-privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } nuk shet të dhëna rreth jush (sipas mënyrës për të cilën mendojnë shumica e njerëzve kur dëgjojnë rreth “shitjes së të dhënave“) dhe s’blejmë të dhëna rreth jush. Ngaqë përpiqemi për  tejdukshmëri dhe përkufizimi LIGJOR i “shitjes së të dhënave” është tejet i gjerë në disa vende, na u desh të tërhiqemi nga bërja e pohimeve përfundimtare që njihni dhe doni. Prapë vëmë shumë energji për të garantuar se të dhënat që ndajmë me partnerët tanë (çka na duhet, për ta bërë { -brand-name-firefox } të përshtatshëm nga ana komerciale) janë të zhveshura nga çfarëdo hollësish që lejojnë identifikim, ose ndahen vetëm si një grumbull, ose kalohen përmes teknologjish për ruajtje të privatësisë (<a { $attrs }>OHTTP</a> bie fjala).
 privacy-faq-v2-wait-so-how = Dale, po paratë nga i nxirrni?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org

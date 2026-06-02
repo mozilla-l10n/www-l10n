@@ -26,10 +26,6 @@ privacy-faq-v2-i-use-firefox = Uso { -brand-name-firefox } para casi todo lo que
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } no sabe tanto como esperarías sobre cómo la gente navega la web. { -brand-name-firefox }, el navegador web que se ejecuta en tu dispositivo o computadora, es tu puerta de entrada a Internet. Tu navegador administrará mucha información sobre los sitios web que visitás, pero esa información generalmente permanece en tu dispositivo.
 privacy-faq-v2-it-seems-like = Parece que toda compañía en la web está comprando y vendiendo mi información. Probablemente ustedes no sean diferentes.
 privacy-faq-v2-we-never-sell-your = Nunca vendemos tus datos personales. A diferencia de otras grandes empresas de tecnología que recopilan y se benefician de tu información personal, la privacidad es la opción predeterminada. No sabemos tu edad, sexo, ubicación exacta ni otra información que las grandes tecnológicas recopilan y de la que se benefician.
-# Obsolete string (expires: 2025-12-08)
-# Variables:
-#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
-privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } no vende datos sobre vos (en la forma en que la mayoría de la gente piensa sobre “vender datos“) y no compramos datos. Dado que luchamos por la transparencia, y la definición LEGAL de “venta de datos“ es extremadamente amplia en algunos lugares, hemos tenido que dar un paso atrás y no hacer las declaraciones definitivas que conocés y amás. Todavía trabajamos mucho para asegurarnos de que los datos que compartimos con nuestros socios (lo que necesitamos para que { -brand-name-firefox } sea comercialmente viable) no contengan información de identificación o se compartan solo en la versión agregado, o se somete a nuestras tecnologías de preservación de la privacidad (como <a { $attrs }>OHTTP </a>).
 privacy-faq-v2-wait-so-how = Un momento, ¿entonces cómo es que hacen plata?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org

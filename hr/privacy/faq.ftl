@@ -17,8 +17,6 @@ privacy-faq-we-only-collect-the-data-we = Prikupljamo samo podatke koje trebamo 
 privacy-faq-we-put-people-in-control-of = Ljudima dajemo kontrolu nad njihovim podacima i online iskustvima.
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } ne zna toliko puno o tome kako ljudi pregledavaju web koliko bi se moglo očekivati. Kao proizvođač preglednika to je za nas zapravo veliki izazov. Zato smo izgradili opcionalne alate koji zainteresiranim korisnicima omogućuju da nam daju uvid u njihovo pregledavanje weba. Ako sinkroniziraš svoju povijest pregledavanja u { -brand-name-firefox } instalacijama mi ne poznamo tu povijest jer je šifrirana na tvom uređaju.
 privacy-faq-it-seems-like-every-company = Čini se da sva poduzeća na webu kupuju i prodaju moje podatke. Vi vjerojatno također.
-# Obsolete string (expires: 2025-12-08)
-privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } ne prodaje podatke o tebi te ne kupujemo podatke o tebi.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
 privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } nije prosječna organizacija. Osnovana kao projekt otvorenog koda zajednice 1998., { -brand-name-mozilla } je organizacija vođena misijom koja radi na zdravijem internetu. Većina { -brand-name-mozilla-corporation } prihoda sastoji se od tantijema zarađenih kroz partnerstva za pretraživanje pomoću { -brand-name-firefox } web preglednika i od ugovora o distribuciji diljem svijeta. Više o tome kako zarađujemo novac možeš saznati u našem <a href="{ $link }">godišnjem financijskom izvještaju</a>.

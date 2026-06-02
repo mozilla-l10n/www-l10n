@@ -10,8 +10,6 @@ footer-refresh-learn-more-about-mozilla-ads = További információk: <span>{ fo
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = További információk: <span>{ -brand-name-mozilla } hirdetések</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } kiadási megjegyzések
-# Obsolete string (expires 2026-03-13)
-footer-refresh-extend-reach = Javítsa az elérést, mélyítse a bizalmat.
 footer-refresh-add-trust-to = Bizalom a hirdetésvásárlásban.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Kövesse a következőt: @{ -brand-name-mozilla }
@@ -35,8 +33,6 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Eszközök
 footer-refresh-donate = Adományozás
-# Obsolete string (expires 19-10-2025)
-footer-refresh-visit-mozilla-corporations = Keresse fel a <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> nonprofit anyaszervezetét: <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-visit-mozilla-corporations-v2 = Keresse fel a <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> nonprofit anyaszervezetét, a <a { $mofo_link }>{ -brand-name-mozilla-foundation }t</a>.
 footer-refresh-portions-of-this-content = A tartalom egy részét ©1998–{ $current_year } mozilla.org közreműködők készítették. A tartalom <a rel="license" { $href }>{ -brand-name-creative-commons } licenc</a> alatt érhető el.
 footer-refresh-websites-privacy-notice = Webhely adatvédelmi nyilatkozata

@@ -10,8 +10,6 @@ footer-refresh-learn-more-about-mozilla-ads = Tìm hiểu thêm <span>về { foo
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Tìm hiểu thêm <span>về Quảng cáo { -brand-name-mozilla }</span>
 footer-refresh-firefox-release-notes = Ghi chú phát hành { -brand-name-firefox }
-# Obsolete string (expires 2026-03-13)
-footer-refresh-extend-reach = Mở rộng phạm vi tiếp cận và tăng cường lòng tin.
 footer-refresh-add-trust-to = Tăng thêm sự tin tưởng khi mua quảng cáo.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Theo dõi @{ -brand-name-mozilla }
@@ -35,8 +33,6 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Công cụ
 footer-refresh-donate = Quyên góp
-# Obsolete string (expires 19-10-2025)
-footer-refresh-visit-mozilla-corporations = Truy cập công ty mẹ phi lợi nhuận của <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-visit-mozilla-corporations-v2 = Truy cập công ty mẹ phi lợi nhuận của <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Các phần nội dung trong trang này được giữ bản quyền ©1998–{ $current_year } bởi những người đóng góp cho mozilla.org. Nội dung được phát hành với <a rel="license" { $href }>giấy phép { -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Thông báo bảo mật trang web

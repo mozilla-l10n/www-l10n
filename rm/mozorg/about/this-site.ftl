@@ -11,14 +11,6 @@ about-this-site-desc = Davart la website www.mozilla.org ed ils utensils open-so
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 about-this-site-this-website = La website www.mozilla.org è gia online dapi passa dus decennis. Quai è dapi il <a href="{ $archive }">temp dals dinosaurs</a> sch'ins quinta cun «onns d'internet». Uschia è www.mozilla.org in crap da fundament dal web cun sias ragischs en il moviment open-source che ha vis la <a href="{ $coderush }">creaziun da { -brand-name-mozilla }</a>.
-# Variables:
-#   $firefox (url) link to https://www.mozilla.org/firefox/new/
-#   $vpn (url) link to https://www.mozilla.org/products/vpn/
-#   $mozilla (url) link to https://www.mozilla.org/about/
-#   $book (url) link to https://www.mozilla.org/book/
-#   A suitable substitute phrase for "Easter eggs" could be "Secrets".
-# Obsolete string (expires 28-11-2025)
-about-this-site-today = Oz visitan las persunas questa website per telechargiar <a href="{ $firefox }">{ -brand-name-firefox }</a>, empruvar <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> e vegnir a savair dapli <a href="{ $mozilla }">davart { -brand-name-mozilla }</a>. Ti pos era scuvrir in pèr <a href="{ $book }">Easter eggs («ovs da Pasqua»)</a> en quest conturn.
 about-this-site-like-many = Sco blers da noss products, è era questa website open-source:
 about-this-site-view-source = Vesair il code da funtauna sin { -brand-name-github }
 about-this-site-report-a-bug = Annunziar in sbagl

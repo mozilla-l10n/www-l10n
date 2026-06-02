@@ -38,10 +38,6 @@ m24-home-mask-your-email = Maskiraj svoju e-mail adresu i broj telefona kako bi 
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Doniraj neprofitnoj organizaciji { -brand-name-mozilla }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } gradi pokret za vraćanje interneta. Zajedno možemo izgraditi budućnost u kojoj je naša privatnost zaštićena, umjetna inteligencija pouzdana, a neodgovorne tehnološke tvrtke snose odgovornost. Ali to je moguće samo ako to radimo zajedno.
 m24-home-were-proudly-nonprofit = Mi smo neprofitna organizacija. Želiš li danas donirati za { -brand-name-mozilla }?
 m24-home-donate = Doniraj
 
@@ -70,8 +66,6 @@ m24-home-got-an-earlystage = Imaš startup tvrtku u ranoj fazi? Predstavi svoju 
 ## Media Springboard
 
 m24-home-type = Vrsta
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Autor
 m24-home-topic = Tema
 m24-home-intro = Uvod
 m24-home-tag-article = Članak
@@ -95,7 +89,6 @@ m24-home-alt-rise25-smiling = Samouvjerena nasmijana laudatorica pri { -brand-na
 m24-home-alt-rise25-joyous = Radosna dobitnica { -brand-name-rise25 } nagrade.
 m24-home-state-of-mozilla = { -brand-name-mozilla } stanje
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se reformira, mijenja konstelaciju organizacija, redefinira oglašavanje i stvara ekosustav umjetne inteligencije otvorenog koda. Pročitaj izvještaj o { -brand-name-mozilla } stanju za 2024.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Apstraktna pikselasta slika u nijansama zelene, narančaste i ružičaste
 m24-home-read-the-report = Pročitaj izvještaj

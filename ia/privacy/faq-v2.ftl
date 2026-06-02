@@ -26,10 +26,6 @@ privacy-faq-v2-i-use-firefox = Io usa { -brand-name-firefox } pro quasi toto sur
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } sape minus informationes que tu te attenderea re como le personas naviga per le web. { -brand-name-firefox }, le navigator del web que functiona sur tu apparato o computator, es tu passarella a internet. Tu navigator gerera tante informationes re le sitos web que tu visita, ma ille informationes generalmente remanera sur tu apparato.
 privacy-faq-v2-it-seems-like = Il pare que cata compania sur le web compra e vende mi datos. Vos probabilemente non es differente.
 privacy-faq-v2-we-never-sell-your = Nos jammais vende tu datos personal. Differentemente de altere companias big tech que collige e profita de tu informationes personal, nos es producite con le confidentialitate como base predefinite. Nos non sape tu etate, genere, position precise, o altere informationes que Big Tech collige e de que profita.
-# Obsolete string (expires: 2025-12-08)
-# Variables:
-#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
-privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } non vende datos re te (como le major parte del personas pensa re “vender datos“), e nos non compra datos re te. Pois que nos nos effortia pro le transparentia, e le definition LEGAL de “vendita de datos“ es extrememente ample in alcun locos, nos ha debite facer un passo retro ab facer le declarationes definitive que tu sape e ama. Nos ancora pone multe labor pro garantir que le datos que nos comparti con nostre socios (que nos besonia pro facer pro facer { -brand-name-firefox } commercialmente viabile) es spoliate de tote le informationes de identification, o compartite solo in le aggregato, o es ponite per nostre technologias preservante le confidentialitate (como <a { $attrs }>OHTTP</a>).
 privacy-faq-v2-wait-so-how = Ma alora, como gania vos moneta?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org

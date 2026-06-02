@@ -45,8 +45,6 @@ m24-home-tabstack-desc = Embojehegui ñanduti rembiapo jeroviaha API ndive oma�
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Embojopói mba’apohaguasu viru’ỹgua { -brand-name-mozilla }
 m24-home-donate-to-v2 = Embojopói { -brand-name-mozilla-foundation }-pe.
 m24-home-were-proudly-nonprofit = Rojerovu ha’ere tendaguasu roku’éva viru’ỹre. ¿Eme’ẽsépa jopói { -brand-name-mozilla }-pe ko árape?
 m24-home-donate = Me’ẽ
@@ -83,14 +81,10 @@ m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective om
 m24-home-join-today = Eike ko árape
 m24-home-a-double-bottom = Apopyrã jo’a tembiporupyahúpe g̃uarã
 m24-home-agent-platform = Agente pyendavusu
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Oimeraẽva agénte
 
 ## Media Springboard
 
 m24-home-type = Peteĩchagua
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Apohára
 m24-home-author-v2 = Apoharakuéra
 m24-home-topic = Téma
 m24-home-intro = Ñepyrũgua
@@ -106,8 +100,6 @@ m24-home-headline-you-ai-v2 = Nde, IA ha ñanduti: ¿mba’ete pe ojehuvahína?
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } ombohupa Raffi Krikorian-pe tembiporupyahu myakãhárarõ.
 m24-home-tech-target = Tembiporupyahu rehegua
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } CEO omombe’u iporãha IA ijayvu jurujáva
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = Rohechauka Thundermail ha Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Rohechauka { -brand-name-thundermail } ha { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Oútava tembiporupyahu ndive eiporavokuaa. Eiporavo orendive.
 m24-home-a-good-moment = «Mba’eporã oréve g̃uarã ko’ág̃a»: { -brand-name-firefox } oma’ẽ kundahárare IA ndive ha ñandutirogue renonderã.
@@ -133,7 +125,6 @@ m24-home-alt-rise25-smiling = Peteĩ ñe’ẽkuaahára ijero ha opukavýva { -b
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Ijuruvýva mbojopoipyre { -brand-name-rise25 }-pe.
 m24-home-state-of-mozilla = { -brand-name-mozilla } rekotee
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Pixel art abstracto sa’ykuéra hovyũ, narã ha pytãngýpe
 # Used as an accessible text alternative for an image

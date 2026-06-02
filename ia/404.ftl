@@ -17,6 +17,4 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Apprende</a> r
 not-found-page-download-the-firefox-browser = <a href={ $download }>Discarga</a> le navigator { -brand-name-firefox } pro tu apparato mobile o scriptorio
 # Variables:
 #   $donate (url) - link to https://www.mozillafoundation.org/?form=donate-404
-# Obsolete string (expires 19-10-2025)
-not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Dona</a> al { -brand-name-mozilla-foundation } e recupera internet ab le grande interprisas technologic.
 not-found-page-donate-to-mozilla-reclaim-from-v2 = <a { $donate }>Dona</a> a { -brand-name-mozilla-foundation } e recupera internet ab le grande interprisas technologic.

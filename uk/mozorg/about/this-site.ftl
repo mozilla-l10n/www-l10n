@@ -11,14 +11,6 @@ about-this-site-desc = Про вебсайт www.mozilla.org та інструм
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 about-this-site-this-website = Вебсайт www.mozilla.org існує вже понад два десятиліття. Точніше з <a href="{ $archive }">часів динозаврів</a> у вимірі існування Інтернету. Таким чином, www.mozilla.org — це наріжний камінь Інтернету, коріння якого закладено в русі відкритого коду, який бачив <a href="{ $coderush }">створення { -brand-name-mozilla }</a>.
-# Variables:
-#   $firefox (url) link to https://www.mozilla.org/firefox/new/
-#   $vpn (url) link to https://www.mozilla.org/products/vpn/
-#   $mozilla (url) link to https://www.mozilla.org/about/
-#   $book (url) link to https://www.mozilla.org/book/
-#   A suitable substitute phrase for "Easter eggs" could be "Secrets".
-# Obsolete string (expires 28-11-2025)
-about-this-site-today = Сьогодні це сайт, куди люди приходять, щоб завантажити <a href="{ $firefox }">{ -brand-name-firefox }</a>, спробувати <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> і дізнатися більше <a href="{ $mozilla }">про { -brand-name-mozilla }</a>. Принагідно також можна знайти кілька <a href="{ $book }">Великодніх писанок</a>.
 about-this-site-like-many = Як і багато інших наших продуктів, цей вебсайт також має відкритий код:
 about-this-site-view-source = Перегляньте джерельний код на { -brand-name-github }
 about-this-site-report-a-bug = Повідомте про помилку

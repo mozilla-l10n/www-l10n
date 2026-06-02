@@ -42,11 +42,7 @@ m24-home-tabstack = { -brand-name-tabstack }
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Lahjoita yleishyödylliselle { -brand-name-mozilla }lle
 m24-home-donate-to-v2 = Lahjoita { -brand-name-mozilla-foundation }ille
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } rakentaa liikettä Internetin palauttamiseksi takaisin. Yhdessä voimme rakentaa tulevaisuuden, jossa yksityisyytemme on suojattu, tekoäly on luotettava ja vastuuttomat teknologiayritykset saatetaan vastuuseen. Se on mahdollista vain, jos teemme sen yhdessä.
 m24-home-were-proudly-nonprofit = Olemme ylpeänä voittoa tavoittelemattomia, yleishyödyllisiä. Lahjoitatko tänään { -brand-name-mozilla }lle?
 m24-home-donate = Lahjoita
 
@@ -69,14 +65,10 @@ m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Onko sinulla alkuvaiheen startup-yritys? Esittele yrityksesi { -brand-name-mozilla-ventures }ille ja turvaa rahoitus positiivisen muutoksen aikaansaamiseksi tekoälyn ja Internetin tulevaisuudelle.
 m24-home-join-today = Liity tänään
 m24-home-agent-platform = Agenttialusta
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Mikä tahansa agentti
 
 ## Media Springboard
 
 m24-home-type = Tyyppi
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Tekijä
 m24-home-topic = Aihe
 m24-home-intro = Johdanto
 m24-home-tag-article = Artikkeli
@@ -90,8 +82,6 @@ m24-home-topic-ps = Tietosuoja ja turvallisuus
 m24-home-headline-you-ai-v2 = Sinä, tekoäly ja Internet – mitä oikein on meneillään?
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } toivottaa Raffi Krikorianin tervetulleeksi teknologiajohtajaksi
 m24-home-tech-target = Tech Target
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = Esittelyssä Thundermail ja Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Esittelyssä { -brand-name-thundermail } ja { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Teknologian seuraava askel on valinta. Valitse meidän kanssamme.
 m24-home-the-guardian = The Guardian
@@ -109,7 +99,6 @@ m24-home-get-to-know = Tutustu luotettavan, osallistavan ja läpinäkyvän teko�
 m24-home-watch-the-award = Katso palkintonäytös
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-smiling = Itsevarma ja hymyilevä puhuja { -brand-name-rise25 }:ssa.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstraktia pikselitaidetta vihreän, oranssin ja vaaleanpunaisen sävyissä
 m24-home-read-the-report = Lue raportti

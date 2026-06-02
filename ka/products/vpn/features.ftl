@@ -73,6 +73,4 @@ vpn-features-weve-been-audited = გავლილი გვაქვს შე
 vpn-features-people-over-profits = ხალხი მოგებაზე წინ
 # Variables
 #   $mofo (url) - link to https://www.mozillafoundation.org/
-# Obsolete string (expires 19-10-2025)
-vpn-features-were-backed-by-mofo = ჩვენ ზურგს გვიმაგრებს <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, არამომგებიანი დაწესებულება, რომელიც იბრძვის ინტერნეტის გახსნილობისა და სიჯანსაღის შესანარჩუნებლად.
 vpn-features-were-backed-by-mofo-v2 = ჩვენ ზურგს გვიმაგრებს <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, არამომგებიანი დაწესებულება, რომელიც იბრძვის ინტერნეტის საყოველთაო გახსნილობისა და სიჯანსაღის შესანარჩუნებლად.

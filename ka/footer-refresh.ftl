@@ -10,8 +10,6 @@ footer-refresh-learn-more-about-mozilla-ads = ვრცლად <span>იხი
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = იხილეთ ვრცლად <span>{ -brand-name-mozilla } – დარეკლამება</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } – გამოშვების შენიშვნები
-# Obsolete string (expires 2026-03-13)
-footer-refresh-extend-reach = ხელმისაწვდომობის გაფართოება და ნდობის გაღრმავება.
 footer-refresh-add-trust-to = ნდობით აღჭურვეთ თქვენი რეკლამა.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = გამოიწერეთ @{ -brand-name-mozilla }
@@ -35,8 +33,6 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = ხელსაწყოები
 footer-refresh-donate = შემოწირულობა
-# Obsolete string (expires 19-10-2025)
-footer-refresh-visit-mozilla-corporations = გაიცანით <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, არამომგებიან დაწესებულება, რომლის შვილობილიცაა <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-visit-mozilla-corporations-v2 = იხილეთ <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, არამომგებიანი დაწესებულება, რომლის შვილობილიცაა <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>
 footer-refresh-portions-of-this-content = შიგთავსის ნაწილები შექმნილია mozilla.org პროექტის მონაწილეების მიერ ©1998–{ $current_year }. მასალა ვრცელდება <a rel="license" { $href }>{ -brand-name-creative-commons } ლიცენზიით</a>.
 footer-refresh-websites-privacy-notice = საიტის პირადულობის განაცხადი

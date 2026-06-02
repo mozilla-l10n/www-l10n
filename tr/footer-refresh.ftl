@@ -10,8 +10,6 @@ footer-refresh-learn-more-about-mozilla-ads = <span>{ footer-refresh-mozilla-ads
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = <span>{ -brand-name-mozilla } Advertising hakkında</span> bilgi alın
 footer-refresh-firefox-release-notes = { -brand-name-firefox } Sürüm Notları
-# Obsolete string (expires 2026-03-13)
-footer-refresh-extend-reach = Erişiminizi ve markanıza güveni artırın.
 footer-refresh-add-trust-to = Reklam alımlarınıza güven katın.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla }’yı takip edin
@@ -35,8 +33,6 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Araçlar
 footer-refresh-donate = Bağış yapın
-# Obsolete string (expires 19-10-2025)
-footer-refresh-visit-mozilla-corporations = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>’ın kâr amacı gütmeyen üst kuruluşu <a { $mofo_link }>{ -brand-name-mozilla-foundation }nı</a> ziyaret edin.
 footer-refresh-visit-mozilla-corporations-v2 = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>’ın kâr amacı gütmeyen üst kuruluşu <a { $mofo_link }>{ -brand-name-mozilla-foundation }nı</a> ziyaret edin.
 footer-refresh-portions-of-this-content = ©1998–{ $current_year } Bu içeriğin bazı kısımları bireysel mozilla.org yazarlarına aittir. Bu içerik <a rel="license" { $href }>{ -brand-name-creative-commons } lisansı</a> ile sunulmaktadır.
 footer-refresh-websites-privacy-notice = Web Sitesi Gizlilik Bildirimi

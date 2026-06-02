@@ -38,10 +38,6 @@ m24-home-mask-your-email = Zuppenta tia adressa dad e-mail e tes numer da telefo
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Fa ina donaziun a l’organisaziun senza profit { -brand-name-mozilla }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } furma in moviment per deliberar l’internet. Communablamain pudain nus crear in avegnir en il qual nossa sfera privata è protegida, l’IA è fidabla ed interpresas da tecnologia irresponsablas ston prender responsabladad. Ma quai va mo far cun forzas unidas.
 m24-home-were-proudly-nonprofit = Nus essan loschs dad esser in’organisaziun senza profit. Fas ti oz ina donaziun a { -brand-name-mozilla }?
 m24-home-donate = Fa ina donaziun
 
@@ -67,8 +63,6 @@ m24-home-got-an-earlystage = Has ti in start-up en la fasa iniziala? Preschenta 
 ## Media Springboard
 
 m24-home-type = Tip
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Autur:a
 m24-home-topic = Tema
 m24-home-intro = Intro
 m24-home-tag-article = Artitgel
@@ -92,7 +86,6 @@ m24-home-alt-rise25-smiling = In oratur suveran che surri al { -brand-name-rise2
 m24-home-alt-rise25-joyous = In victur cuntent al { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Stadi da { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } sa reinventa, cun sa diversifitgar en in conturn dad organisaziuns, cun pensar da nov la reclama e crear in ecosistem dad IA open-source. Ve a savair dapli en il rapport 2024 davart il stadi da { -brand-name-mozilla }.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Pixel art abstract en tuns verds, oranschs e rosa
 m24-home-read-the-report = Leger il rapport

@@ -29,10 +29,6 @@ mobile-ios-get-to-the-parts = Accesează mai rapid zonele internetului care te i
 mobile-ios-find-it-all = Găsește totul mai repede
 mobile-ios-get-search-suggestions = Primește sugestii de căutare în bara de căutare și accesează rapid site-urile pe care intri cel mai des. Introdu întrebarea de căutare și primește rezultate sugerate și căutate anterior în motoarele de căutare preferate.
 mobile-ios-discover-more-of = Descoperă mai mult din ceea ce îți place
-# Obsolete string (expires 26-10-2025)
-mobile-ios-open-a-new = Deschide o filă nouă în { -brand-name-firefox } ca să vezi site-urile pe care intri cel mai des, marcajele recente și articolele populare din { -brand-name-pocket }. { -brand-name-firefox } îți oferă acces rapid la site-urile utilizate cel mai recent pentru a te ajuta să ajungi mai repede unde vrei.
 mobile-ios-open-a-new-v2 = Deschide o filă nouă în { -brand-name-firefox } ca să vezi site-urile pe care intri cel mai des și marcajele recente. { -brand-name-firefox } îți oferă acces rapid la site-urile utilizate cel mai recent pentru a te ajuta să ajungi mai repede unde vrei.
 mobile-ios-about-mozilla = Despre { -brand-name-mozilla }
-# Obsolete string (expires 26-10-2025)
-mobile-ios-mozilla-exists-to = { -brand-name-mozilla } există pentru a construi internetul ca o resursă publică accesibilă tuturor, deoarece credem că deschis și gratuit este mai bun decât închis și controlat. Dezvoltăm produse precum { -brand-name-firefox } și { -brand-name-pocket } pentru a promova libertatea de alegere, transparența și controlul.
 mobile-ios-mozilla-exists-to-v2 = { -brand-name-mozilla } există pentru a construi internetul ca o resursă publică accesibilă tuturor, deoarece credem că deschis și gratuit este mai bun decât închis și controlat. Dezvoltăm produse precum { -brand-name-firefox } pentru a promova libertatea de alegere, transparența și controlul.

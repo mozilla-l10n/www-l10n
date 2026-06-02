@@ -28,8 +28,6 @@ m24-home-firefox-relay = { -brand-name-firefox-relay }
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = תרומה למלכ״ר { -brand-name-mozilla }
 m24-home-donate = תרומה
 
 ## AI gallery

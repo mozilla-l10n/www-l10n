@@ -10,8 +10,6 @@ footer-refresh-learn-more-about-mozilla-ads = Mear ynfo <span>oer { footer-refre
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Mear <span>oer { -brand-name-mozilla }-advertinsjes</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox }útjefteopmerkingen
-# Obsolete string (expires 2026-03-13)
-footer-refresh-extend-reach = Fergrutsje it berik en ferdjipje it fertrouwen.
 footer-refresh-add-trust-to = Foegje fertrouwen ta oan jo advertinsjeoankeap.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } folgje
@@ -35,8 +33,6 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Ark
 footer-refresh-donate = Donearje
-# Obsolete string (expires 19-10-2025)
-footer-refresh-visit-mozilla-corporations = Besykje de memmemaatskippij sûnder winsteachmerk fan de <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, de <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-visit-mozilla-corporations-v2 = Besykje de memmemaatskippij sûnder winsteachmerk fan de <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Underdielen fan dizze ynhâld binne ©1998–{ $current_year } troch yndividuele meiwurkers fan mozilla.org. Ynhâld is beskikber ûnder in <a rel="license" { $href }>{ -brand-name-creative-commons }-lisinsje</a>.
 footer-refresh-websites-privacy-notice = Privacyferklearring foar website

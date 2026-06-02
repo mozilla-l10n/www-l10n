@@ -26,8 +26,6 @@ m24-about-we-advocate-for = Zalažemo se za bolje proizvode, držeći vlade i te
 m24-about-research = Istraživanje
 m24-about-we-uncover-insights = Otkrivamo uvide, kampanju za poboljšanje proizvoda i vodimo politike koje predstavljaju vaše interese.
 m24-about-build = Izgradnja
-# Obsolete string (expires 25-10-2025)
-m24-about-we-build-products = Gradimo proizvode koji vam daju kontrolu — kao što su { -brand-name-firefox }, { -brand-name-fakespot } i još mnogo toga.
 m24-about-we-build-products-v2 = Izrađujemo proizvode koji vam daju kontrolu — poput { -brand-name-firefox }a i drugih.
 m24-about-fund = Finansiranje
 m24-about-we-fund-and = Mi finansiramo i ulažemo u ljude i napore koji tehnologiju, internet i AI usmjeravaju u pravom smjeru.

@@ -45,11 +45,7 @@ m24-home-tabstack-desc = Automatiseer op betrouwbare wijze webtaken met een eenv
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Doneer aan de non-profitorganisatie { -brand-name-mozilla }
 m24-home-donate-to-v2 = Doneren aan { -brand-name-mozilla-foundation }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } bouwt een beweging om het internet terug te winnen. Samen kunnen we een toekomst bouwen waarin onze privacy wordt beschermd, AI betrouwbaar is en onverantwoordelijke technologiebedrijven ter verantwoording worden geroepen. Maar dat kan alleen als we het samen doen.
 m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } bouwt aan een toekomst waarin technologie wordt aangedreven door mensen en open is door ontwerp. Daarom voeden we gemeenschapsgerichte technologie via lobbywerk, scholing, financiering en innovatie – om ervoor te zorgen dat de toekomst van technologie goed is voor iedereen. Maar dat kan alleen als we het samen doen.
 m24-home-were-proudly-nonprofit = We zijn trots non-profit. Wilt u vandaag doneren aan { -brand-name-mozilla }?
 m24-home-donate = Doneren
@@ -87,15 +83,11 @@ m24-home-join-today = Nu meedoen
 m24-home-a-double-bottom = Een dubbel resultaat voor technologie
 m24-home-mark-surman-discusses = Mark Surman bespreekt hoe we een technisch ecosysteem kunnen bouwen met een dubbel resultaat – een ecosysteem dat zowel missie als geld waardeert.
 m24-home-agent-platform = Agentplatform
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Elke agent
 m24-home-stop-wiring-tools = Stop met het samenvoegen van hulpmiddelen en het babysitten van broze automatiseringen. Met het { -brand-name-mozilla-ai-v2 }-agentplatform beschrijft u uw doel, wij genereren adaptieve AI-agents die werken met uw hulpmiddelen en processen.
 
 ## Media Springboard
 
 m24-home-type = Type
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Auteur
 m24-home-author-v2 = Auteur(s)
 m24-home-topic = Onderwerp
 m24-home-intro = Intro
@@ -111,8 +103,6 @@ m24-home-headline-you-ai-v2 = U, AI en het internet – wat is er echt aan de ha
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } verwelkomt Raffi Krikorian als Chief Technology Officer
 m24-home-tech-target = Tech-doelstelling
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 }-CEO praat over voordelen van opensource-AI
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = Nieuw: Thundermail en Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Nieuw: { -brand-name-thundermail } en { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Wat hierna komt in technologie is een keuze. Kies met ons.
 m24-home-a-good-moment = ‘Een goed moment voor ons’: { -brand-name-firefox } richt zich op AI-browsers en wat er op stapel staat voor het web
@@ -141,13 +131,8 @@ m24-home-alt-rise25-joyous = Een blije gehuldigde bij { -brand-name-rise25 }.
 m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } vindt zichzelf opnieuw uit en diversifieert rond een constellatie van organisaties, vindt reclame opnieuw uit en creëert een opensource AI-ecosysteem. Lees meer in het State of { -brand-name-mozilla } 2024-rapport.
 # Variables
-# Obsolete string (expires: 2026-03-27)
-#   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } vindt zichzelf opnieuw uit en diversifieert rond een constellatie van organisaties, vindt reclame opnieuw uit en creëert een opensource AI-ecosysteem. Lees meer in het State of { -brand-name-mozilla } { $year }-rapport.
-# Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = We staan op een kruispunt voor de toekomst van technologie, met grote AI-bedrijven die macht consolideren. Het { $year } State of { -brand-name-mozilla }-rapport is een uitnodiging om samen een andere toekomst te kiezen.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstracte pixelkunst in tinten groen, oranje en roze
 # Used as an accessible text alternative for an image

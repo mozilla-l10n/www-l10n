@@ -17,6 +17,4 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Научете
 not-found-page-download-the-firefox-browser = <a href={ $download }>Изтеглете</a> четец { -brand-name-firefox } за вашето мобилно устройство или настолен компютър
 # Variables:
 #   $donate (url) - link to https://www.mozillafoundation.org/?form=donate-404
-# Obsolete string (expires 19-10-2025)
-not-found-page-donate-to-mozilla-reclaim-from = <a { $donate }>Дарете</a>на { -brand-name-mozilla-foundation } и върнете Интернет от големите корпорации.
 not-found-page-donate-to-mozilla-reclaim-from-v2 = <a { $donate }>Дарете</a> за { -brand-name-mozilla-foundation } и си върнете Интернет от големите технологични играчи.

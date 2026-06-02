@@ -38,11 +38,7 @@ m24-home-mask-your-email = Maskirajte svoj e-mail i broj telefona tako da dobija
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Donirajte { -brand-name-mozilla } neprofitnoj organizaciji
 m24-home-donate-to-v2 = Donirajte za { -brand-name-mozilla-foundation }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } gradi pokret za vraćanje interneta. Zajedno možemo izgraditi budućnost u kojoj je naša privatnost zaštićena, AI pouzdana, a neodgovorne tehnološke kompanije odgovorne. Ali to je moguće samo ako to radimo zajedno.
 m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } gradi budućnost u kojoj tehnologiju pokreću ljudi i u kojoj je otvorena po svom dizajnu. Zato podstičemo tehnologiju usmjerenu na zajednicu kroz zagovaranje, edukaciju, finansiranje i inovacije - kako bismo osigurali da budućnost tehnologije bude dobra za sve. Ali to je moguće samo ako to učinimo zajedno.
 m24-home-were-proudly-nonprofit = Ponosno smo neprofitni. Hoćete li danas donirati { -brand-name-mozilla }?
 m24-home-donate = Donirajte
@@ -80,15 +76,11 @@ m24-home-join-today = Pridružite se danas
 m24-home-a-double-bottom = Dvostruki profit za tehnologiju
 m24-home-mark-surman-discusses = Mark Surman raspravlja o tome kako možemo izgraditi tehnološki ekosistem s dvostrukim rezultatom - onim koji cijeni i misiju i novac.
 m24-home-agent-platform = Platforma agenta
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Bilo koji agent
 m24-home-stop-wiring-tools = Prestanite povezivati alate i čuvati krhke automatizacije. Sa { -brand-name-mozilla-ai-v2 } Agent Platformom, vi opisujete svoj cilj, mi generiramo adaptivne AI agente koji rade s vašim alatima i procesima.
 
 ## Media Springboard
 
 m24-home-type = Tip
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Autor
 m24-home-author-v2 = Autor(i)
 m24-home-topic = Tema
 m24-home-intro = Predstavljanje
@@ -104,8 +96,6 @@ m24-home-headline-you-ai-v2 = Vi, AI i internet – šta se zapravo dešava?
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } pozdravlja Raffija Krikoriana kao glavnog tehnološkog direktora
 m24-home-tech-target = Tehnološki cilj
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } Izvršni direktor govori o prednostima umjetne inteligencije otvorenog koda
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = Predstavljamo Thundermail i Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Predstavljamo { -brand-name-thundermail } i { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Ono što slijedi u tehnologiji je izbor. Birajte s nama.
 m24-home-a-good-moment = „Dobar trenutak za nas“: { -brand-name-firefox } govori o AI preglednicima i šta je sljedeće za web
@@ -133,11 +123,6 @@ m24-home-alt-rise25-smiling = Samouvjereni nasmijani govornik na { -brand-name-r
 m24-home-alt-rise25-joyous = Radosna nagrada na { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Izvještaj o stanju { -brand-name-mozilla }e
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se ponovo osmišljava, diverzificirajući se oko konstelacije organizacija, ponovo zamišljajući oglašavanje i stvarajući AI ekosistem otvorenog koda. Pročitajte o tome u Izvještaju o stanju { -brand-name-mozilla }e za 2024.
-# Variables
-# Obsolete string (expires: 2026-03-27)
-#   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } se ponovo izmišlja, diverzificira se oko konstelacije organizacija, redefinira oglašavanje i stvara ekosistem umjetne inteligencije otvorenog koda. Pročitajte o tome u Izvještaju o stanju { -brand-name-mozilla } { $year }.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Apstraktna piksel art u nijansama zelene, narandžaste i roze
 m24-home-read-the-report = Pročitajte izvještaj

@@ -28,8 +28,6 @@ privacy-faq-mozilla-doesnt-know-as-much-v2 =
     }
 privacy-faq-it-seems-like-every-company = Myslím, že každá internetová společnost kupuje nebo prodává má data. Jak se Mozilla liší?
 privacy-faq-we-never-sell-your = Vaše osobní údaje nikdy neprodáváme. Na rozdíl od jiných velkých technologických společností, které shromažďují vaše osobní údaje a vydělávají na nich, jsme vytvořeni s ohledem na ochranu soukromí. Neznáme váš věk, pohlaví, přesnou polohu ani další informace, které velké technologické společnosti sbírají a vydělávají na nich.
-# Obsolete string (expires: 2025-12-08)
-privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } neprodává žádná vaše data, stejně tak je ani nekupujeme.
 privacy-faq-wait-so-how-do-you-make-money = Ale jak potom vyděláváte?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/

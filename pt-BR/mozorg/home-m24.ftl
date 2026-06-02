@@ -43,11 +43,7 @@ m24-home-tabstack = { -brand-name-tabstack }
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Faça uma doação para a organização sem fins lucrativos { -brand-name-mozilla }
 m24-home-donate-to-v2 = Faça uma doação para a { -brand-name-mozilla-foundation }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = A { -brand-name-mozilla } está formando um movimento para recuperar a internet. Juntos, podemos construir um futuro em que nossa privacidade seja protegida, inteligência artificial seja confiável e empresas de tecnologia irresponsáveis sejam responsabilizadas. Mas isso só será possível se fizermos juntos.
 m24-home-mozilla-foundation-is-building-v2 = A { -brand-name-mozilla-foundation } está construindo um futuro onde a tecnologia é impulsionada pelas pessoas e projetada para ser aberta. É por isso que incentivamos tecnologia centrada na comunidade por meio de ativismo, educação, financiamento e inovação, para garantir que o futuro da tecnologia seja bom para todos. Mas isso só é possível se fizermos juntos.
 m24-home-were-proudly-nonprofit = Temos orgulho de ser uma organização sem fins lucrativos. Você poderia fazer uma doação para a { -brand-name-mozilla }?
 m24-home-donate = Faça uma doação
@@ -77,14 +73,10 @@ m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Tem uma startup em estágio inicial? Apresente sua empresa para { -brand-name-mozilla-ventures } e garanta financiamento para promover mudanças positivas no futuro da inteligência artificial e da internet.
 m24-home-join-today = Participe hoje mesmo
 m24-home-agent-platform = Plataforma de agentes
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Qualquer agente
 
 ## Media Springboard
 
 m24-home-type = Tipo
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Autor
 m24-home-author-v2 = Autor(es)
 m24-home-topic = Tópico
 m24-home-intro = Introdução
@@ -99,8 +91,6 @@ m24-home-topic-ps = Privacidade e Segurança
 m24-home-headline-you-ai-v2 = Você, inteligência artificial e a internet — o que realmente está acontecendo?
 m24-home-mozilla-welcomes-raffi = A { -brand-name-mozilla } dá as boas-vindas a Raffi Krikorian como Chief Technology Officer
 m24-home-mozilla-ai-ceo = CEO da { -brand-name-mozilla-ai-v2 } fala sobre as vantagens da inteligência artificial de código aberto
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = Apresentação do Thundermail e Thunderbird Pro
 m24-home-what-comes-next = O futuro da tecnologia é uma escolha. Faça a escolha conosco.
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
@@ -121,7 +111,6 @@ m24-home-alt-rise25-smiling = Um palestrante sorridente e confiante no { -brand-
 m24-home-alt-rise25-joyous = Uma alegre ganhadora no { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Estado da { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = A { -brand-name-mozilla } está se reinventando, diversificando em torno de uma constelação de organizações, reimaginando a publicidade e criando um ecossistema de inteligência artificial de código aberto. Leia sobre isso no Relatório do Estado da { -brand-name-mozilla } de 2024.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Arte com pontos abstrata em tons de verde, laranja e rosa.
 m24-home-read-the-report = Ler o relatório

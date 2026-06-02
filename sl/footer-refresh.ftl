@@ -8,8 +8,6 @@ footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
 footer-refresh-learn-more-about-mozilla-ads = Več <span>o { footer-refresh-mozilla-ads }</span>
 footer-refresh-firefox-release-notes = Opombe ob izdaji { -brand-name-firefox(sklon: "rodilnik") }
-# Obsolete string (expires 2026-03-13)
-footer-refresh-extend-reach = Podaljšajte doseg in poglobite zaupanje.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Sledite @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
@@ -32,8 +30,6 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Orodja
 footer-refresh-donate = Donirajte
-# Obsolete string (expires 19-10-2025)
-footer-refresh-visit-mozilla-corporations = Obiščite neprofitno starševsko organizacijo <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> – <a { $mofo_link }>{ -brand-name-mozilla-foundation(sklon: "tozilnik") }</a>.
 footer-refresh-visit-mozilla-corporations-v2 = Obiščite neprofitno starševsko organizacijo <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> - <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Deli vsebine so avtorsko zaščiteni ©1998–{ $current_year } s strani sodelavcev mozilla.org. Vsebina je na voljo pod pogoji <a rel="license" { $href }>{ -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Obvestilo o zasebnosti te strani

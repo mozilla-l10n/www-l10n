@@ -77,6 +77,4 @@ vpn-features-weve-been-audited = Cure53, wjeduca firma za kontrolu cyberwěstoty
 vpn-features-people-over-profits = Luźe pśed profitom
 # Variables
 #   $mofo (url) - link to https://www.mozillafoundation.org/
-# Obsolete string (expires 19-10-2025)
-vpn-features-were-backed-by-mofo = Dostawamy pódpěru wót <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, za wše słužeca organizacija, kótaraž za to wójujo, web wótwórjony a strowy za wše luźe wobchowaś.
 vpn-features-were-backed-by-mofo-v2 = Dostawamy pódpěru wót <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, za wše słužeca organizacija, kótaraž za to wójujo, web wótwórjony a strowy za wše luźe wobchowaś.

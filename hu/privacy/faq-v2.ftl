@@ -26,10 +26,6 @@ privacy-faq-v2-i-use-firefox = Szinte mindenre a { -brand-name-firefox(case: "ac
 privacy-faq-v2-mozilla-does-not-know = A { -brand-name-mozilla } nem tud annyit arról, hogy az emberek hogyan böngészik a világhálót, mint gondolná. A { -brand-name-firefox }, a böngésző, amely az eszközén vagy számítógépén fut, az Ön átjárója az internethez. A böngészője sok információt kezel a meglátogatott weboldalakkal kapcsolatban, de ezek az információk általában megmaradnak az eszközén.
 privacy-faq-v2-it-seems-like = Úgy tűnik, hogy minden egyes cég a weben adja és veszi az adataimat. Lehet, hogy Önök sem különbek.
 privacy-faq-v2-we-never-sell-your = Sosem adjuk el a személyes adatait. Eltérően a többi nagy technológiai vállalttól, melyek gyűjtik és hasznosítják a személyes adatait, mi alapértelmezés szerint az adatvédelmet tartjuk szem előtt. Nem tudjuk az életkorát, nemét, pontos tartózkodási helyét vagy más olyan adatait, amelyekből a nagy technológiai vállalatok profitálnak.
-# Obsolete string (expires: 2025-12-08)
-# Variables:
-#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
-privacy-faq-v2-mozilla-does-not-sell = A { -brand-name-mozilla } nem adja el az Ön adatait (az „adatok eladása” alatt a kifejezés köznapi jelentését értve), és nem is veszünk adatokat Önről. Mivel az átláthatóságra törekszünk, és az „adatok eladása” JOGI definíciója egyes helyeken rendkívül tág, így vissza kellett lépnünk azoktól a határozott kijelentésektől, melyeket ismer és szeret. Még mindig sok munkát fektetünk abba, hogy a partnereinkkel megosztott adatokból ( melyekre a { -brand-name-firefox } kereskedelmileg életképessé tételéhez van szükségünk) eltávolítsunk minden személyazonosításra alkalmas információt, vagy azokat csak aggregálva illetve adatvédelem-megőrző technológiákon keresztül átfuttatva (például az <a { $attrs }>OHTTP</a>-n) osszuk meg.
 privacy-faq-v2-wait-so-how = Várjunk, akkor hogyan keresnek pénzt?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org

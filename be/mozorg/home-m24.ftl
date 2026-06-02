@@ -35,11 +35,7 @@ m24-home-mask-your-email = Замаскіруйце свой адрас элек
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Зрабіце ахвяраванне для некамерцыйнай арганізацыі { -brand-name-mozilla }
 m24-home-donate-to-v2 = Зрабіць ахвяраванне ў { -brand-name-mozilla-foundation }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } стварае рух за вяртанне інтэрнэту. Разам мы можам пабудаваць будучыню, дзе наша прыватнасць абаронена, штучны інтэлект варты даверу, а безадказныя тэхналагічныя кампаніі нясуць адказнасць. Але гэта магчыма толькі калі мы разам.
 m24-home-donate = Ахвяраваць
 
 ## AI gallery
@@ -67,8 +63,6 @@ m24-home-agent-platform = Платформа агента
 ## Media Springboard
 
 m24-home-type = Тып
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Аўтар
 m24-home-topic = Тэма
 m24-home-intro = Уступ
 m24-home-tag-article = Артыкул

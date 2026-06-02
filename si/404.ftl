@@ -15,7 +15,3 @@ not-found-page-learn-about-mozilla-the-non = { -brand-name-firefox } පිට�
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = ඔබගේ ජංගම උපාංගය හෝ වැඩතලය සඳහා { -brand-name-firefox } අතිරික්සුව <a href={ $download }>බාගන්න</a>
-# Variables:
-#   $donate (url) - link to https://www.mozillafoundation.org/?form=donate-404
-# Obsolete string (expires 19-10-2025)
-not-found-page-donate-to-mozilla-reclaim-from = { -brand-name-mozilla-foundation } වෙත <a { $donate }>පරිත්‍යාග කරන්න</a> දැවැන්ත සමාගම් වලින් අන්තර්ජාලය යළි අත්පත් කරගන්න.

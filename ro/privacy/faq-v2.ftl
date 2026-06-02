@@ -26,10 +26,6 @@ privacy-faq-v2-i-use-firefox = Folosesc { -brand-name-firefox } aproape pentru t
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } nu știe atât de multe pe cât te-ai aștepta despre modul în care oamenii navighează pe web. { -brand-name-firefox }, browserul web care rulează pe dispozitivul sau calculatorul tău, este poarta ta de acces către internet. Browserul va gestiona o mulțime de informații despre site-urile web pe care intri, dar aceste informații rămân, în general, pe dispozitivul tău.
 privacy-faq-v2-it-seems-like = Se pare că toate companiile de pe web cumpără și vând datele mele. Probabil că și voi faceți la fel.
 privacy-faq-v2-we-never-sell-your = Nu îți vindem niciodată datele personale. Spre deosebire de alte companii mari de tehnologie care colectează și profită de pe urma informațiilor personale, noi suntem preocupați din principiu și implicit de confidențialitatea. Nu cunoaștem vârsta, sexul, locația exactă sau alte informații pe care marile companii de tehnologie le colectează și de pe urma cărora profită.
-# Obsolete string (expires: 2025-12-08)
-# Variables:
-#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
-privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } nu vinde date despre tine (așa cum majoritatea oamenilor consideră „vânzarea de date”) și nu cumpărăm date despre tine. Întrucât ne străduim pentru transparență, iar definiția LEGALĂ a „vânzării de date” este extrem de largă în unele locuri, a trebuit să ne retragem de la a face declarațiile definitive pe care le cunoașteți și le apreciați. Încă depunem mult efort pentru a ne asigura că din datele pe care le partajăm cu partenerii noștri (ceea ce trebuie să facem pentru a face { -brand-name-firefox } viabil din punct de vedere comercial) sunt eliminate orice informații de identificare sau sunt partajate doar agregat sau sunt trecute prin tehnologiile noastre de protejare a confidențialității (cum ar fi <a { $attrs }>OHTTP</a>).
 privacy-faq-v2-wait-so-how = Stai puțin, deci cum faceți bani?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org

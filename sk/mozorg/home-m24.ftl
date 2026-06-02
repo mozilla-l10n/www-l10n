@@ -45,11 +45,7 @@ m24-home-tabstack-desc = Spoľahlivo automatizujte webové úlohy pomocou jednod
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Prispejte neziskovej organizácii { -brand-name-mozilla }
 m24-home-donate-to-v2 = Prispejte { -brand-name-mozilla-foundation }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } buduje hnutie za znovuzískanie internetu. Spoločne môžeme vybudovať budúcnosť, v ktorej bude naše súkromie chránené, AI dôveryhodná a nezodpovedné technologické spoločnosti budú brané na zodpovednosť. Ale to je možné len vtedy, ak to urobíme spoločne.
 m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } buduje budúcnosť, v ktorej technológie poháňajú ľudia a sú otvorené už od začiatku. Preto podporujeme technológie zamerané na komunitu prostredníctvom obhajoby, vzdelávania, financovania a inovácií – aby sme zabezpečili, že budúcnosť technológií bude dobrá pre všetkých. To je však možné len vtedy, ak to urobíme spoločne.
 m24-home-were-proudly-nonprofit = Sme hrdí na to, že sme neziskoví. Prispejete dnes { -brand-name-mozilla(case: "dat") }?
 m24-home-donate = Prispieť
@@ -87,15 +83,11 @@ m24-home-join-today = Pridajte sa ešte dnes
 m24-home-a-double-bottom = Dvojitý zisk pre technológie
 m24-home-mark-surman-discusses = Mark Surman diskutuje o tom, ako môžeme vybudovať technologický ekosystém s dvojitým ziskom – taký, ktorý si cení poslanie aj peniaze.
 m24-home-agent-platform = Platforma agenta
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Akýkoľvek agent
 m24-home-stop-wiring-tools = Prestaňte s prepojovaním nástrojov a strážením krehkých automatizácií. S platformou agentov { -brand-name-mozilla-ai-v2 } popíšete svoj cieľ a my vygenerujeme adaptívnych agentov s umelou inteligenciou, ktorí budú spolupracovať s vašimi nástrojmi a procesmi.
 
 ## Media Springboard
 
 m24-home-type = Typ
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Autor
 m24-home-author-v2 = Autori
 m24-home-topic = Téma
 m24-home-intro = Úvod
@@ -111,8 +103,6 @@ m24-home-headline-you-ai-v2 = Vy, AI a internet – čo sa skutočne deje?
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } víta Raffiho Krikoriana ako hlavného technologického riaditeľa
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = Generálny riaditeľ { -brand-name-mozilla-ai-v2 } hovorí o výhodách open source umelej inteligencie
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = Predstavujeme Thundermail a Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Predstavujeme { -brand-name-thundermail } a { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Čo bude ďalej v oblasti technológií, je otázka voľby. Vyberte si s nami.
 m24-home-a-good-moment = „Dobrý moment v čase pre nás“: tvorca { -brand-name-firefox(case: "gen") } o prehliadačoch s umelou inteligenciou a o tom, čo bude ďalej s webom
@@ -141,13 +131,8 @@ m24-home-alt-rise25-joyous = Radostný ocenený pri odovzdávaní cien { -brand-
 m24-home-state-of-mozilla = Stav { -brand-name-mozilla(case: "gen") }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } sa znovu objavuje, diverzifikuje okolo konštelácie organizácií, pretvára reklamu a vytvára ekosystém založený na AI a otvorenom kóde. Prečítajte si o tom v Správe o stave { -brand-name-mozilla(case: "gen") } za rok 2024.
 # Variables
-# Obsolete string (expires: 2026-03-27)
-#   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } sa znovu objavuje, diverzifikuje okolo konštelácie organizácií, pretvára reklamu a vytvára ekosystém založený na AI a otvorenom kóde. Prečítajte si o tom v Správe o stave { -brand-name-mozilla(case: "gen") } za rok { $year }.
-# Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = Nachádzame sa na križovatke budúcnosti technológií, pričom veľké spoločnosti zaoberajúce sa umelou inteligenciou konsolidujú svoju moc. Správa o stave { -brand-name-mozilla(case: "gen") } za rok { $year } je pozvánkou, aby sme si spoločne zvolili inú budúcnosť.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstraktný pixel art v odtieňoch zelenej, oranžovej a ružovej
 # Used as an accessible text alternative for an image

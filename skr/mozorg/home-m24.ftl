@@ -41,8 +41,6 @@ m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 ## Media Springboard
 
 m24-home-type = قسم
-# Obsolete string (expires 2026-03-13)
-m24-home-author = مصنف
 m24-home-topic = موضوع
 m24-home-intro = تعارف
 m24-home-tag-article = مضمون

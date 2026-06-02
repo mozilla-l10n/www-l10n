@@ -38,11 +38,7 @@ m24-home-mask-your-email = Feldu tölvupóstfang þitt og símanúmer svo þú f
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Gefðu til { -brand-name-mozilla } sjálfseignarstofnunarinnar
 m24-home-donate-to-v2 = Gefðu til { -brand-name-mozilla-foundation }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } er að byggja upp fjöldahreyfingu til að endurheimta internetið. Saman getum við byggt upp framtíð þar sem friðhelgi einkalífs okkar er vernduð, gervigreind er áreiðanleg og óvífin tæknifyrirtæki eru dregin til ábyrgðar. En þetta er einungis hægt ef við gerum það saman.
 m24-home-were-proudly-nonprofit = Við erum stolt af því að vinna án þess að hugsa um hagnað. Ætlarðu að styrkja { -brand-name-mozilla } í dag?
 m24-home-donate = Styrkja
 
@@ -71,8 +67,6 @@ m24-home-got-an-earlystage = Ertu með sprotafyrirtæki á byrjunarstigi? Sendu 
 ## Media Springboard
 
 m24-home-type = Tegund
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Höfundur
 m24-home-topic = Umræðuefni
 m24-home-intro = Inngangur
 m24-home-tag-article = Grein
@@ -96,7 +90,6 @@ m24-home-alt-rise25-smiling = Öruggur brosandi ræðumaður á { -brand-name-ri
 m24-home-alt-rise25-joyous = Glaðlegur heiðursfélagi hjá { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Staðan hjá { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } er sífellt að endurýja sig, auka fjölbreytni í neti deilda, endurhugsa auglýsingar og búa til gervigreindar-vistkerfi með opnum kóða. Lestu um þetta allt í skýrslunni um stöðuna hjá { -brand-name-mozilla } 2024.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Óhlutbundin mynddílalist í grænum, appelsínugulum og bleikum tónum
 m24-home-read-the-report = Lesa skýrsluna

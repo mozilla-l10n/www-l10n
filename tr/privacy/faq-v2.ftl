@@ -26,10 +26,6 @@ privacy-faq-v2-i-use-firefox = Web’deki hemen hemen her şey için { -brand-na
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla }, kullanıcıların web’de nasıl gezindiği hakkında sandığınız kadar fazla şey bilmiyor. Cihazınızda veya bilgisayarınızda çalışan { -brand-name-firefox } web tarayıcısı internete açılan kapınızdır. Tarayıcınız, ziyaret ettiğiniz web siteleriyle ilgili birçok bilgiyi yönetiyor ama bu bilgiler genellikle cihazınızdan dışarı çıkmıyor.
 privacy-faq-v2-it-seems-like = Bütün internet şirketleri verilerimi alıp satıyor gibi görünüyor. Sizin de farkınız yoktur herhalde.
 privacy-faq-v2-we-never-sell-your = Kişisel verilerinizi asla satmıyoruz. Kişisel bilgilerinizi toplayan ve bunlardan kâr sağlayan diğer büyük teknoloji şirketlerinin aksine, bizde gizliliğiniz esastır. Yaşınızı, cinsiyetinizi, tam konumunuzu ve büyük teknoloji şirketlerinin toplayıp kullandığı diğer bilgilerinizi biz bilmiyoruz.
-# Obsolete string (expires: 2025-12-08)
-# Variables:
-#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
-privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } sizin hakkınızdaki verileri satmıyor (çoğu kişinin “veri satmak” kavramından anladığı şekliyle) ve sizinle ilgili veri satın almıyor. Şeffaflığı önemsediğimiz için ve bazı yerlerde “veri satışı” kavramının HUKUKİ tanımı son derece geniş olduğu için daha önce kullandığımız, sizin de bildiğiniz ve sevdiğiniz net ifadelerden vazgeçmek zorunda kaldık. Buna rağmen, iş ortaklarımızla paylaştığımız ({ -brand-name-firefox }’un para kazanması için bunu yapmak zorundayız.) verilerde hiçbir kişisel bilgi bulunmadığından veya bu verilerin  kümelenerek özetlenmiş halde paylaşıldığından veya verilerin gizliliğini koruyan teknolojilerimizin (örn. <a { $attrs }>OHTTP</a>) filtresinden geçtiğinden emin olmak için çok çalışıyoruz.
 privacy-faq-v2-wait-so-how = Peki nasıl para kazanıyorsunuz?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org

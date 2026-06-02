@@ -26,10 +26,6 @@ privacy-faq-v2-i-use-firefox = Eg brukar { -brand-name-firefox } til nesten alt 
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } veit ikkje så mykje som du forventar om korleis folk surfar på nettet. { -brand-name-firefox }, nettlesaren som køyrer på eininga eller datamaskina di, er inngangsporten din til internett. Nettlesaren din vil administrere mykje informasjon om nettstadene du besøkjer, men denne informasjonen held vanlegvis fram med å vere på eininga di.
 privacy-faq-v2-it-seems-like = Det verkar som alle selskap på nettet kjøper og sel informasjonen min. De er sannsynlegvis ikkje annleis.
 privacy-faq-v2-we-never-sell-your = Vi sel aldri personopplysningane dine. I motsetning til dei store teknologigigantane som samlar inn og tener pengar på personopplysningane dine, er vi bygde med personvern som standard. Vi kjenner ikkje alderen din, kjønn, nøyaktig lokasjon eller annan informasjon som dei store teknologigigantane samlar inn og tener pengar på.
-# Obsolete string (expires: 2025-12-08)
-# Variables:
-#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
-privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } sel ikkje data om deg (på same måte som folk flest tenkjer om å «selje data»), og vi kjøper ikkje data om deg. Sidan vi strevar etter openheit, og den JURIDISKE definisjonen av «sal av data» er ekstremt breie nokre stadar, har vi måtta trekkje oss tilbake frå å komme med dei definitive utsegnene du kjenner og elskar. Vi legg framleis ned mykje arbeid i å sørgje for at dataa vi deler med partnarane våre (noko vi må gjere for å gjere { -brand-name-firefox } kommersielt levedyktig) er strippa for all identifiserande informasjon, eller berre blir samla delte, eller går gjennom dei personvernbevarande teknologiane våre (som <a { $attrs }>OHTTP</a>).
 privacy-faq-v2-wait-so-how = Vent lit, så korleis tenar de pengar då?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org

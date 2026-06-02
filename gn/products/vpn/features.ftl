@@ -72,6 +72,4 @@ vpn-features-weve-been-audited = Cure53 ohecha ore rapykuere, mba’apoha ikatup
 vpn-features-people-over-profits = Yvypóra viru ñegana ári
 # Variables
 #   $mofo (url) - link to https://www.mozillafoundation.org/
-# Obsolete string (expires 19-10-2025)
-vpn-features-were-backed-by-mofo = Oreykeko <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, tendaguasu viru’ỹgua oñorairõva ñanduti ijuruja ha hekoresã hag̃ua opavavépe g̃uarã.
 vpn-features-were-backed-by-mofo-v2 = Oreykeko <a { $mofo }>{ -brand-name-mozilla-foundation }</a>, tendaguasu viru’ỹgua oñorairõva ñanduti ijuruja ha hekoresã hag̃ua opavavépe g̃uarã.

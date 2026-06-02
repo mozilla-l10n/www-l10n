@@ -73,6 +73,4 @@ vpn-features-weve-been-audited = Бізді жетекші киберқауіп�
 vpn-features-people-over-profits = Пайдадан бұрын адамдар
 # Variables
 #   $mofo (url) - link to https://www.mozillafoundation.org/
-# Obsolete string (expires 19-10-2025)
-vpn-features-were-backed-by-mofo = Бізді интернетті барлық адамдар үшін ашық әрі сау сақтау үшін күресетін коммерциялық емес <a { $mofo }>{ -brand-name-mozilla-foundation }</a> ұйымы қолдайды.
 vpn-features-were-backed-by-mofo-v2 = Бізді интернетті барлық адамдар үшін ашық әрі сау сақтау үшін күресетін коммерциялық емес <a { $mofo }>{ -brand-name-mozilla-foundation }</a> ұйымы қолдайды.

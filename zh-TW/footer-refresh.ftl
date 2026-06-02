@@ -10,8 +10,6 @@ footer-refresh-learn-more-about-mozilla-ads = 了解 <span>{ footer-refresh-mozi
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = 了解 <span>{ -brand-name-mozilla } 廣告的更多資訊</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 發行公告
-# Obsolete string (expires 2026-03-13)
-footer-refresh-extend-reach = 延伸範圍並加強信任。
 footer-refresh-add-trust-to = 在您採購的廣告中加入信任。
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = 關注 @{ -brand-name-mozilla }
@@ -35,8 +33,6 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = 工具
 footer-refresh-donate = 捐款
-# Obsolete string (expires 19-10-2025)
-footer-refresh-visit-mozilla-corporations = 歡迎造訪 <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> 的非營利母公司，<a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>。
 footer-refresh-visit-mozilla-corporations-v2 = 歡迎造訪 <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> 的上層非營利組織，<a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>。
 footer-refresh-portions-of-this-content = 本頁的部分內容著作權為 ©1998–{ $current_year } 由個別 mozilla.org 貢獻者所有，使用<a rel="license" { $href }>{ -brand-name-creative-commons } 授權條款</a>授權大眾使用。
 footer-refresh-websites-privacy-notice = 網站隱私權公告

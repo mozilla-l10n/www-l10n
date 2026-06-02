@@ -11,14 +11,6 @@ about-this-site-desc = Sobre el sitio web www.mozilla.org y las herramientas de 
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 about-this-site-this-website = El sitio web www.mozilla.org ha estado en línea desde hace más de dos décadas. Eso es desde <a href="{ $archive }">la época de los dinosaurios</a> cuando el internet no era lo que es hoy. Como tal, www.mozilla.org es una piedra angular de la web, con raíces incrustadas en el movimiento de código abierto que vio la <a href="{ $coderush }">creación de { -brand-name-mozilla }</a>.
-# Variables:
-#   $firefox (url) link to https://www.mozilla.org/firefox/new/
-#   $vpn (url) link to https://www.mozilla.org/products/vpn/
-#   $mozilla (url) link to https://www.mozilla.org/about/
-#   $book (url) link to https://www.mozilla.org/book/
-#   A suitable substitute phrase for "Easter eggs" could be "Secrets".
-# Obsolete string (expires 28-11-2025)
-about-this-site-today = Hoy, este es el sitio donde gente viene a descargar <a href="{ $firefox }">{ -brand-name-firefox }</a>, prueba <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> y conoce más <a href="{ $mozilla }">sobre { -brand-name-mozilla }</a>. También puedes descubrir algunos <a href="{ $book }">secretos</a> a lo largo del camino.
 about-this-site-like-many = Como muchos de nuestros productos, este sitio web también es de código abierto:
 about-this-site-view-source = Ver el código fuente en { -brand-name-github }
 about-this-site-report-a-bug = Reporta un error

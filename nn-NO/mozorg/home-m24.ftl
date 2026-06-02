@@ -45,11 +45,7 @@ m24-home-tabstack-desc = Automatiser nettoppgåver på ein påliteleg måte med 
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Doner til den ideelle organisasjonen { -brand-name-mozilla }
 m24-home-donate-to-v2 = Doner til { -brand-name-mozilla-foundation }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } byggjer ei rørsle for å gjenerobre internett. Saman kan vi byggje ei framtid der personvernet vårt er tatt vare på, KI er påliteleg, og uansvarlege teknologiselskap vert haldne ansvarlege. Men det er berre mogleg om vi gjer det saman.
 m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation }  byggjer ei framtid der teknologi blir driven av menneske og er open gjennom design. Derfor driv vi fram samfunnssentrert teknologi gjennom påverknadsarbeid, utdanning, finansiering og innovasjon — for å sørgje for at framtidas teknologi er god for alle. Men det er berre mogleg om vi gjer det saman.
 m24-home-were-proudly-nonprofit = Vi er stolte av å vere ein ideell organisasjon. Vil du donere til { -brand-name-mozilla } i dag?
 m24-home-donate = Doner
@@ -87,15 +83,11 @@ m24-home-join-today = Ver med i dag
 m24-home-a-double-bottom = Ei dobbel botnlinje for teknologi
 m24-home-mark-surman-discusses = Mark Surman diskuterer korleis vi kan byggje eit teknologisk økosystem med dobbel botnlinje – eit som verdset både oppdrag og pengar.
 m24-home-agent-platform = Agentplattform
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Alla agentar
 m24-home-stop-wiring-tools = Slutt å kople saman verktøy og passe på skjøre automatiseringar. Med { -brand-name-mozilla-ai-v2 } Agent Platform beskriv du målet ditt, og vi genererer adaptive KI-agentar som fungerer med verktøya og prosessane dine.
 
 ## Media Springboard
 
 m24-home-type = Type
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Utviklar
 m24-home-author-v2 = Forfattar(ar)
 m24-home-topic = Emne
 m24-home-intro = Introduksjon
@@ -111,8 +103,6 @@ m24-home-headline-you-ai-v2 = Du, KI og internett – kva skjer eigentleg?
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } ønskjer Raffi Krikorian velkomen som teknologisjef
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = Administrerande direktør i { -brand-name-mozilla-ai-v2 } snakkar om fordelane med open source KI
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = Introduksjon av Thundermail og Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Vi presenterer { -brand-name-thundermail } og { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Det neste som kjem innan teknologi er eit val. Vel med oss.
 m24-home-a-good-moment = «Ein god augneblink for oss»: { -brand-name-firefox } fokuserer på KI-nettlesarar og kva som skjer vidare for nettet.
@@ -141,13 +131,8 @@ m24-home-alt-rise25-joyous = Ein gledeleg æresvinnar hos { -brand-name-rise25 }
 m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } finn seg sjølv opp på nytt, spreier seg rundt i ein konstellasjon av organisasjonar, tenkjer nytt om reklame og skapar eit ope kjeldekode-økosystem for kunstig intelligens. Les om dette i rapporten State of { -brand-name-mozilla } 2024.
 # Variables
-# Obsolete string (expires: 2026-03-27)
-#   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } gjenoppfinn seg sjølv, diversifiserer seg rundt ein konstellasjon av organisasjonar, tenkjer nytt om reklame og skaper eit open kjeldekode-økosystem for kunstig intelligens. Les om dette i rapporten om tilstanden til { -brand-name-mozilla } { $year }.
-# Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = Vi står ved eit vegskilje for framtida til teknologien, der store KI-selskap samlar makt. { $year }-utgåva av State of { -brand-name-mozilla }-rapporten er ein invitasjon til å velje ei anna framtid saman.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstrakt pikselskunst i nyansar av grønt, oransje og rosa
 # Used as an accessible text alternative for an image

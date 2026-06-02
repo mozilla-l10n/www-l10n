@@ -26,10 +26,6 @@ privacy-faq-v2-i-use-firefox = Wužiwam { -brand-name-firefox } za nimale wšitk
 privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } njewě telko, kelko wy byšće wočakował wo tym, kak ludźo web přehladuja. { -brand-name-firefox }, webwobhladowak, kotryž na wašim graće abo ličaku běži, je waše zachodne wrota k internetej. Waš wobhladowak wjele informacijow wo websydłach rjadować, kotrež wopytujeće, ale te informacije zwjetš na wašim graće wostawaja.
 privacy-faq-v2-it-seems-like = Zda so, kaž by kóžde předewzaće we webje moje daty kupiło a předało. Pola was to najskerje hinak njeje.
 privacy-faq-v2-we-never-sell-your = Njepředamy ženje waše wosobinske daty. Na rozdźěl wot druhich wulkich technologijowych předewzaćow, kotrež waše wosobinske daty hromadźa a z nich profituja, twarimy wot wšeho spočatka na priwatnosć. Njewěmy wašu starobu, splah, dokładne stejnišćo abo druhe informacije, kotrež wulke technologijowe předewzaća hromadźa a z kotrychž profituja.
-# Obsolete string (expires: 2025-12-08)
-# Variables:
-#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
-privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } daty wo was njepředawa (w tym zmysle, kak sej najwjace ludźi „předań datow“  předstaja), a my daty wo was njekupujemy. Dokelž so wo transparencu prócujemy a PRAWNISKA definicija „předanje datow“ je na někotrych městnach tójšto šěroka, dyrbjachmy so definitiwnych zwěsćenjow wzdać, kotrež znajeće a lubujeće. Tykamy hišće wjele dźěła do toho, zo bychmy zawěsćili, zo so daty, kotrež ze swojimi partnerami dźělimy (kotrychž trjebamy, zo bychmy { -brand-name-firefox } komercielnje wužiwajomny činili) wot identifikowacych informacijow wuswobodźuja, abo so jenož w cyłku dźěla abo so z našimi priwatnosć wobchowowace technologijemi (kaž <a { $attrs }>OHTTP</a>) předźěłuja.
 privacy-faq-v2-wait-so-how = Moment, z čim da pjenjezy zaslužiće?
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org

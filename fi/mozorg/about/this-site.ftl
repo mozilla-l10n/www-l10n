@@ -11,14 +11,6 @@ about-this-site-desc = Tietoja verkkosivustosta www.mozilla.org ja sen tekemisee
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 about-this-site-this-website = Sivusto www.mozilla.org on ollut verkossa yli kaksi vuosikymmentä. Se on ikään kuin <a href="{ $archive }">dinosauruksen aikakausi</a> Internetin vuosia ajattelen. Sellaisenaan www.mozilla.org on verkon kulmakivi, jonka juuret ovat upotettuina avoimen lähdekoodin liikkeeseen, jonka pohjalta <a href="{ $coderush }">luotiin { -brand-name-mozilla }</a>.
-# Variables:
-#   $firefox (url) link to https://www.mozilla.org/firefox/new/
-#   $vpn (url) link to https://www.mozilla.org/products/vpn/
-#   $mozilla (url) link to https://www.mozilla.org/about/
-#   $book (url) link to https://www.mozilla.org/book/
-#   A suitable substitute phrase for "Easter eggs" could be "Secrets".
-# Obsolete string (expires 28-11-2025)
-about-this-site-today = Nykyään tämä on sivusto, johon ihmiset saapuvat lataamaan <a href="{ $firefox }">{ -brand-name-firefox }</a>in, kokeilemaan <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>:ää ja hakemaan <a href="{ $mozilla }">tietoa { -brand-name-mozilla }sta</a>. Saatat myös löytää muutaman <a href="{ $book }">pääsiäismunan</a> matkan varrella.
 about-this-site-like-many = Kuten monet tuotteemme, myös tämä verkkosivusto on avointa lähdekoodia:
 about-this-site-view-source = Tutustu lähdekoodiin { -brand-name-github }issa
 about-this-site-report-a-bug = Ilmoita ongelmasta

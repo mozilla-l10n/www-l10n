@@ -10,8 +10,6 @@ footer-refresh-learn-more-about-mozilla-ads = Ulteriori informazioni <span>su { 
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Ulteriori informazioni <span>su { -brand-name-mozilla } Advertising</span>
 footer-refresh-firefox-release-notes = Note di versione di { -brand-name-firefox }
-# Obsolete string (expires 2026-03-13)
-footer-refresh-extend-reach = Raggiungi più persone, conquista la loro fiducia.
 footer-refresh-add-trust-to = Aggiungi fiducia al tuo investimento pubblicitario.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Segui @{ -brand-name-mozilla }
@@ -35,8 +33,6 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Strumenti
 footer-refresh-donate = Fai una donazione
-# Obsolete string (expires 19-10-2025)
-footer-refresh-visit-mozilla-corporations = Visita <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, l’organizzazione senza fini di lucro che controlla <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
 footer-refresh-visit-mozilla-corporations-v2 = Visita <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, l’organizzazione senza fini di lucro che controlla <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
 footer-refresh-portions-of-this-content = Parte di questi contenuti sono ©1998–{ $current_year } di singoli collaboratori di mozilla.org. I contenuti sono disponibili secondo la <a rel="license" { $href }>licenza { -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Informativa sulla privacy del sito

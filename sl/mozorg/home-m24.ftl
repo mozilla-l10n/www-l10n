@@ -43,11 +43,7 @@ m24-home-tabstack = { -brand-name-tabstack }
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Donirajte neprofitni organizaciji { -brand-name-mozilla }
 m24-home-donate-to-v2 = Donirajte { -brand-name-mozilla-foundation(sklon: "dajalnik") }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } vodi gibanje za povrnitev interneta v roke njegovih uporabnikov. Skupaj lahko zgradimo prihodnost, v kateri je naša zasebnost zaščitena, umetna inteligenca vredna zaupanja, tehnološka podjetja pa odgovarjajo za svoja dejanja. A to bo mogoče le, če se povežemo.
 m24-home-were-proudly-nonprofit = Smo ponosno neprofitni. Bi prispevali donacijo za { -brand-name-mozilla(sklon: "tozilnik") } danes?
 m24-home-donate = Donirajte
 
@@ -71,14 +67,10 @@ m24-home-get-started-now = Začnite zdaj
 m24-home-alt-ventures = Govorec na odru z logotipi več izdelkov.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-join-today = Pridružite se danes
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Katerikoli agent
 
 ## Media Springboard
 
 m24-home-type = Vrsta
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Avtor
 m24-home-author-v2 = Avtor(ji)
 m24-home-topic = Tema
 m24-home-intro = Uvod
@@ -91,8 +83,6 @@ m24-home-topic-ai = Umetna inteligenca
 m24-home-topic-open-source-ai = Odprtokodna UI
 m24-home-topic-ps = Zasebnost in varnost
 m24-home-headline-you-ai-v2 = Vi, umetna inteligenca in internet – kaj se pravzaprav dogaja?
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = Predstavljamo Thundermail in Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Predstavljamo { -brand-name-thundermail } in { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Kaj bo v tehnologiji naslednje na vrsti, je izbira. Izberite z nami.
 m24-home-the-guardian = The Guardian
@@ -113,7 +103,6 @@ m24-home-alt-rise25-smiling = Samozavestna nasmejana govorka na { -brand-name-ri
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-joyous = Vesela nagrajenka na { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Stanje { -brand-name-mozilla(sklon: "rodilnik") }
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstraktna umetnost iz pikslov v zelenih, oranžnih in roza odtenkih
 # Used as an accessible text alternative for an image

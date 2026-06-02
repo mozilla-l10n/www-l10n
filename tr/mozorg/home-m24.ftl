@@ -45,11 +45,7 @@ m24-home-tabstack-desc = Geliştirici odaklı basit bir API ile web görevlerini
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Kâr amacı gütmeyen { -brand-name-mozilla }’ya bağış yapın
 m24-home-donate-to-v2 = { -brand-name-mozilla-foundation }na bağış yapın
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } internete sahip çıkacak bir hareket inşa ediyor. Gizliliğimizin korunduğu, yapay zekânın güvenilir olduğu ve sorumsuz teknoloji şirketlerinin hesap verdiği bir gelecek inşa edebiliriz. Ama bu sadece birlikte çalışırsak mümkün.
 m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation }, teknolojinin insanlardan güç aldığı ve açık bir şekilde tasarlandığı bir gelecek inşa ediyor. İşte bu yüzden topluluk merkezli teknolojileri savunuculuk, eğitim, fonlama ve inovasyon yoluyla destekliyor; teknolojinin geleceğinin tüm insanlığa faydalı olması için çalışıyoruz. Ama bu sadece birlikte çalışırsak mümkün.
 m24-home-were-proudly-nonprofit = Kâr amacı gütmüyoruz ve bununla gurur duyuyoruz. { -brand-name-mozilla }’ya bağış yaparak bize destek olur musunuz?
 m24-home-donate = Bağış yapın
@@ -87,15 +83,11 @@ m24-home-join-today = Hemen katılın
 m24-home-a-double-bottom = Teknoloji için çifte kazanç
 m24-home-mark-surman-discusses = Mark Surman, hem misyona hem de paraya değer veren bir teknoloji ekosistemini nasıl inşa edebileceğimizi anlatıyor.
 m24-home-agent-platform = Agent platformu
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Tüm agent’lar
 m24-home-stop-wiring-tools = Araçları birbirine bağlamaya, gereksiz otomasyonlara bakıcılık yapmaya son. { -brand-name-mozilla-ai-v2 } Agent Platform’a siz hedefinizi açıklıyorsunuz; biz araçlarınızla ve süreçlerinizle uyumlu çalışan, adaptif yapay zekâ agent’ları oluşturuyoruz.
 
 ## Media Springboard
 
 m24-home-type = Tür
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Yazar
 m24-home-author-v2 = Yazar(lar)
 m24-home-topic = Konu
 m24-home-intro = Giriş
@@ -111,8 +103,6 @@ m24-home-headline-you-ai-v2 = Siz, yapay zekâ ve internet… Aslında neler olu
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla }’nın Chief Technology Officer’ı Raffi Krikorian oldu
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } CEO’su açık kaynaklı yapay zekânın avantajlarını anlatıyor
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = Karşınızda Thundermail ve Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Karşınızda { -brand-name-thundermail } ve { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Teknolojinin geleceği bir tercih meselesi. Tercihinizi bizimle birlikte yapın.
 m24-home-a-good-moment = ‘Bizim için iyi bir an’: { -brand-name-firefox } Müdürü ile yapay zekâ tarayıcıları ve web’in geleceği üzerine
@@ -141,13 +131,8 @@ m24-home-alt-rise25-joyous = Mutlu bir { -brand-name-rise25 } ödülü sahibi.
 m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } kendini yeniden tanımlıyor, çeşitli kuruluşlara yayılıyor, reklamcılığı baştan tasarlıyor ve açık kaynaklı bir yapay zekâ ekosistemi oluşturuyor. Ayrıntıları State of { -brand-name-mozilla } 2024 Raporu’nda okuyun.
 # Variables
-# Obsolete string (expires: 2026-03-27)
-#   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } kendini yeniden tanımlıyor, çeşitli kuruluşlara yayılıyor, reklamcılığı baştan tasarlıyor ve açık kaynaklı bir yapay zekâ ekosistemi oluşturuyor. Ayrıntıları State of { -brand-name-mozilla } { $year } Raporu’nda okuyun.
-# Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = Teknolojinin geleceği için bir yol ayrımındayız. Büyük yapay zekâ şirketleri giderek gücü ellerinde topluyor. { $year } State of { -brand-name-mozilla } raporu, sizi bizimle birlikte farklı bir gelecek seçmeye davet ediyor.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Yeşil, turuncu ve pembe tonlarında soyut bir pikselleşmiş resim
 # Used as an accessible text alternative for an image

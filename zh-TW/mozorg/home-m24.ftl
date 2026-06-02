@@ -45,11 +45,7 @@ m24-home-tabstack-desc = 透過專注於開發者的 API，將網頁工作可靠
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = 捐款給非營利組織 { -brand-name-mozilla }
 m24-home-donate-to-v2 = 捐款給 { -brand-name-mozilla-foundation }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } 正在打造一場奪回網際網路環境的運動。讓我們一同打造隱私受到保護、AI 可信任、可向不負責任的科技公司課責的未來，但只有我們一起努力才有可能實現。
 m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } 正在打造一個由使用者驅動技術、從設計就保持開放的未來。這也是為什麼我們要透過倡議、教育、資助與創新來為以社群為中心的科技提供動力：確保科技的未來對每個人都好。但也只有我們一同合作才有可能達成。
 m24-home-were-proudly-nonprofit = 我們以非營利為榮。您願意捐款給 { -brand-name-mozilla } 嗎？
 m24-home-donate = 捐款
@@ -87,15 +83,11 @@ m24-home-join-today = 立即加入
 m24-home-a-double-bottom = 為科技公司設下雙重底線
 m24-home-mark-surman-discusses = Mark Surman 討論了我們要如何打造一個既看重使命也看重金錢的雙重底線產業生態系。
 m24-home-agent-platform = 代理平台
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Any Agent
 m24-home-stop-wiring-tools = 不用再把工具綁在一起，也不用再煩惱不穩定的自動化設定了。透過 { -brand-name-mozilla-ai-v2 } 代理平台，只要描述好您的目標，我們就會自動產生能操作您工具與配合流程的適應性 AI 代理。
 
 ## Media Springboard
 
 m24-home-type = 類型
-# Obsolete string (expires 2026-03-13)
-m24-home-author = 作者
 m24-home-author-v2 = 作者
 m24-home-topic = 主題
 m24-home-intro = 介紹
@@ -111,8 +103,6 @@ m24-home-headline-you-ai-v2 = 你、AI 與網際網路 — 到底發生什麼事
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } 歡迎 Raffi Krikorian 出任技術長
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } 執行長分享開放原始碼 AI 的優勢
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = 隆重推出 Thundermail 與 Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = { -brand-name-thundermail } 與 { -brand-name-thunderbird-pro } 隆重推出
 m24-home-what-comes-next = 科技界的未來需要選擇。與我們一起選擇。
 m24-home-a-good-moment = 「我們的好時光」：{ -brand-name-firefox } 主管探討 AI 瀏覽器與 Web 的未來發展
@@ -141,13 +131,8 @@ m24-home-alt-rise25-joyous = { -brand-name-rise25 } 歡樂的得獎者。
 m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } 正在改造自己、建立多元化的組織、重新構想廣告產業，並建立開放原始碼的 AI 生態系統。請閱讀 State of { -brand-name-mozilla } 2024 年報來深入了解。
 # Variables
-# Obsolete string (expires: 2026-03-27)
-#   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } 正在改造自己、建立多元化的組織、重新構想廣告產業，並建立開放原始碼的 AI 生態系統。請閱讀 State of { -brand-name-mozilla } { $year } 年報來深入了解。
-# Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = 大型 AI 企業正在整合技術能量，而我們正站在未來科技發展的交叉路口。{ -brand-name-mozilla } 的 { $year } 年報邀請大家一起選擇不同的未來。
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = 綠、橘、粉三種色調的抽象像素風格設計
 # Used as an accessible text alternative for an image

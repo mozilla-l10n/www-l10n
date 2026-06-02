@@ -42,11 +42,7 @@ m24-home-tabstack = { -brand-name-tabstack }
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Dhuroni për entin jofitiprurës { -brand-name-mozilla }
 m24-home-donate-to-v2 = Dhuroni për { -brand-name-mozilla-foundation }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } po ngre një lëvizje për rimarrje të internetit. Tok mund të ndërtojmë një të ardhme ku privatësia mbrohet, IA-ja është e besueshme dhe shoqërive teknologjike të papërgjegjshme u kërkohet llogari. Por kjo është e mundshme vetëm nëse e bëjmë tok.
 m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation }  po ndërton një të ardhme ku teknologjia fuqizohet nga njerëzit dhe është e hapët sipas konceptimit. Kjo është arsyeja pse ushqejmë fushën teknike të bazuar në bashkësinë, përmes, përkrahjeje, edukim, financim dhe risi — për të garantuar se e ardhmja e teknologjisë është e mirë për këdo. Por kjo është e mundshme vetëm nëse e bëjmë tok.
 m24-home-were-proudly-nonprofit = Jemi me krenari jofitimprurës. Do të dhuroni sot për { -brand-name-mozilla }?
 m24-home-donate = Dhuroni
@@ -71,14 +67,10 @@ m24-home-alt-ventures = Folës në skenë me stema produktesh të ndryshëm.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-join-today = Ejani që sot
 m24-home-agent-platform = Platformë Agjenti
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Cilido Agjent
 
 ## Media Springboard
 
 m24-home-type = Lloj
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Autor
 m24-home-author-v2 = Autor(ë)
 m24-home-topic = Temë
 m24-home-intro = Hyrje
@@ -93,8 +85,6 @@ m24-home-topic-ps = Privatësi & Siguri
 m24-home-headline-you-ai-v2 = Ju, IA dhe interneti — ç’po ndodh në të vërtetë?
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } i jep mirëseardhjen Raffi Krikorian-it si CTO
 m24-home-mozilla-ai-ceo = CEO i { -brand-name-mozilla-ai-v2 } flet për përparësitë e IA-s me burim të hapët
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = Prezantim i Thundermail-it dhe Thunderbird Pro-së
 m24-home-introducing-thundermail-and-v2 = Prezantim i { -brand-name-thundermail }-it dhe { -brand-name-thunderbird-pro }-së
 m24-home-mozillas-new-message = Mesazhi i ri i { -brand-name-mozilla }-s: Jemi i vetmi shfletues që s’ka miliarderë nga pas
 m24-home-mozilla = { -brand-name-mozilla }
@@ -113,7 +103,6 @@ m24-home-alt-rise25-smiling = Një folës buzëqeshur, i sigurt në vetvete, te 
 m24-home-alt-rise25-joyous = Një fitues i kënaqur prej nderimit me çmim në { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Gjendje e { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } po rishpik vetveten, duke i bërë e larmishme përmes një yjësie entesh, duke ripërfytyruar reklamat dhe duke krijuar një ekosistem IA me burim të hapët. Mësoni rreth kësaj përmes Raportit “Gjendje e { -brand-name-mozilla } 2024”.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Art pikelash, abstrakt, në ngjyrime të të gjelbrës, portokallisë dhe rozës.
 m24-home-read-the-report = Lexoni raportin

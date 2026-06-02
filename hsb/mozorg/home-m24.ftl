@@ -45,11 +45,7 @@ m24-home-tabstack-desc = Awtomatizujće spušćomnje webnadawki z jednorej API z
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Darće powšitkownosći wužitnej organizaciji { -brand-name-mozilla }
 m24-home-donate-to-v2 = Darće { -brand-name-mozilla-foundation }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } hibanje twori, zo by internet wróćo dobył. Hromadźe móžemy přichod wutworić, hdźež so naša priwatnosć škita, KI je dowěry hódna a njezamołwite technologijowe předewzaća zamołwite činja. Ale to je jenož móžne, jeli to hromadźe činimy.
 m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } přichod twori, hdźež technologija so wot ludźi podpěruje a je z wotpohladom wotewrjena. Tohodla technologiju ze zhromadźenstwom w centrumje přez zasadźenje, kubłanje, darjenje a inowaciju ćěrimy, zo bychmy zawěsćili, zo přichod technologije je dobry za wšěch. Ale to je jenož móžne, jeli to hromadźe činimy.
 m24-home-were-proudly-nonprofit = Smy z hordosću powšitkownosći wužitni. Dariće dźensa na { -brand-name-mozilla }?
 m24-home-donate = Darić
@@ -87,15 +83,11 @@ m24-home-join-today = Přidružće so dźensa
 m24-home-a-double-bottom = Dwójny wuslědk za technologiju
 m24-home-mark-surman-discusses = Mar Surman diskutuje, kak móžemy techniski ekosystem z dwójnym wuslědkom wuwiwać – jedyn, kotryž misiju a pjenjezy hódnoći.
 m24-home-agent-platform = Agentowa platforma
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Někajki agent
 m24-home-stop-wiring-tools = Přestańće nastroje zakablować a krjechke awtomatizacije babysittować. Z platformu agento { -brand-name-mozilla-ai-v2 } wopisujeće swój cil, generujemy adaptiwnych agentow KI, kotrež z wašimi nastrojemi a procesami funguja.
 
 ## Media Springboard
 
 m24-home-type = Typ
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Awtor
 m24-home-author-v2 = Awtorojo
 m24-home-topic = Tema
 m24-home-intro = Zawjedźenje
@@ -111,8 +103,6 @@ m24-home-headline-you-ai-v2 = Wy, KI a internet – što so woprawdźe stawa?
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } Raffi Krikoriana jako Chief Technology Officer wita
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = CEO { -brand-name-mozilla-ai-v2 } wo lěpšinach KI wotewrjeneho žórła rěči
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = Předstajamy Thundermail a Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = { -brand-name-thundermail } a { -brand-name-thunderbird-pro } předstajić
 m24-home-what-comes-next = Štož jako přichodne w technologiji přińdźe je wuběr. Wubjerće z nami.
 m24-home-a-good-moment = ‘Dobry wokomik w času za nas: { -brand-name-firefox } na čole před wobhladowakami KI a štož je přichodne za web
@@ -141,13 +131,8 @@ m24-home-alt-rise25-joyous = Wjesoły nošer myta na { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Staw { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } so sam znowa wunamakuje, rozeznawa so wokoło konstelacije organizacijow, koncipuje wabjenje nowo a wutworja ekosystem KI wotewrjeneho žórła. Čitajće wo tym w Rozprawje wo stawje { -brand-name-mozilla } 2024.
 # Variables
-# Obsolete string (expires: 2026-03-27)
-#   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } so sam znowa wunamakuje, rozeznawa so wokoło konstelacije organizacijow, koncipuje wabjenje nowo a wutworja ekosystem KI wotewrjeneho žórła. Čitajće wo tym w Rozprawje wo stawje { -brand-name-mozilla } { $year }.
-# Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = Smy na rozpuću za přichod technologije, z wulkimi předewzaćemi KI, kotrež móc skrućeja. Rozprawa wo stawje { -brand-name-mozilla } { $year } je přeprošenje, zo bychmy hromadźe druhi přichod wubrali.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstraktne pikselowe wuměłstwo w zelenych, oranžowych a róžojtych wotsćinach
 # Used as an accessible text alternative for an image

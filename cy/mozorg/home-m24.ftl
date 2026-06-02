@@ -45,11 +45,7 @@ m24-home-tabstack-desc = Awtomeiddio tasgau gwe yn ddibynadwy gydag API syml sy'
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Cyfrannwch at y { -brand-name-mozilla } dim-er-elw
 m24-home-donate-to-v2 = Rhoi i'r { -brand-name-mozilla-foundation }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = Mae { -brand-name-mozilla } yn adeiladu mudiad i adennill y rhyngrwyd. Gyda'n gilydd gallwn adeiladu dyfodol lle mae ein preifatrwydd yn cael ei ddiogelu, AI yn ddibynadwy a chwmnïau technoleg anghyfrifol yn cael eu dal yn atebol. Ond dim ond os ydym yn ei wneud gyda'n gilydd y mae hynny'n bosibl.
 m24-home-mozilla-foundation-is-building-v2 = Mae'r { -brand-name-mozilla-foundation } yn adeiladu dyfodol lle mae technoleg yn cael ei phweru gan bobl, ac wedi'i gynllunio i fod yn agored. Dyna pam rydyn ni'n cefnogi technoleg sy'n canolbwyntio ar y gymuned trwy eiriolaeth, addysg, cyllid ac arloesi - i wneud yn siŵr bod dyfodol technoleg yn dda i bawb. Ond dim ond os ydym yn ei wneud gyda'n gilydd y mae hynny'n bosibl.
 m24-home-were-proudly-nonprofit = Rydym yn falch ein bod yn gorff dim-er-elw. A wnewch chi gyfrannu at { -brand-name-mozilla } heddiw?
 m24-home-donate = Cyfrannu
@@ -87,15 +83,11 @@ m24-home-join-today = Ymunwch heddiw
 m24-home-a-double-bottom = A Double Bottom Line for Tech
 m24-home-mark-surman-discusses = Mae Mark Surman yn trafod sut y gallwn adeiladu ecosystem dechnolegol gyda gwaelodlin dwbl - un sy'n gwerthfawrogi cenhadaeth ac arian.
 m24-home-agent-platform = Agent Platform
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Unrhyw Asiant
 m24-home-stop-wiring-tools = Peidio rhaffu offer at ei gilydd a gwarchod awtomatiaethau brau. Gyda'r Llwyfan Asiant { -brand-name-mozilla-ai-v2 }, rydych chi'n disgrifio'ch nod, rydyn ni'n cynhyrchu asiantau AI addasol sy'n gweithio gyda'ch offer a'ch prosesau.
 
 ## Media Springboard
 
 m24-home-type = Math
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Awdur
 m24-home-author-v2 = Awdur(on)
 m24-home-topic = Pwnc
 m24-home-intro = Cyflwyniad
@@ -111,8 +103,6 @@ m24-home-headline-you-ai-v2 = Chi, AI a'r rhyngrwyd — beth sy'n digwydd mewn g
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } welcomes Raffi Krikorian as Chief Technology Officer
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = Prif Swyddog Gweithredol { -brand-name-mozilla-ai-v2 } yn sôn am fanteision AI cod agored
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = Dyma Thundermail a Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Yn cyflwyno { -brand-name-thundermail } a { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = What comes next in tech is a choice. Choose with us.
 m24-home-a-good-moment = ‘A good moment in time for us’: { -brand-name-firefox } head on AI browsers and what’s next for the web
@@ -141,13 +131,8 @@ m24-home-alt-rise25-joyous = Anrhydeddai llawen yn { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Safbwynt { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = Mae { -brand-name-mozilla } yn ailddyfeisio ei hun, gan arallgyfeirio o amgylch clwstwr o sefydliadau, ail-ddychmygu hysbysebu a chreu ecosystem AI cod agored. Darllenwch amdano yn adroddiad State of { -brand-name-mozilla } 2024.
 # Variables
-# Obsolete string (expires: 2026-03-27)
-#   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = Mae { -brand-name-mozilla } yn ailddyfeisio ei hun, gan arallgyfeirio o amgylch casgliad o sefydliadau, yn ail-ddychmygu hysbysebu a chreu ecosystem AI cod agored. Darllenwch amdano yn adroddiad State of { -brand-name-mozilla } { $year } Report
-# Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = Rydym ar groesffordd ar gyfer dyfodol technoleg, gyda chwmnïau AI Mawr yn cydgrynhoi pŵer. Mae adroddiad  { $year } State of { -brand-name-mozilla } yn wahoddiad i ddewis dyfodol gwahanol gyda'ch gilydd.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Celf picsel haniaethol mewn arlliwiau gwyrdd, oren a phinc
 # Used as an accessible text alternative for an image

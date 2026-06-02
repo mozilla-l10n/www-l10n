@@ -10,8 +10,6 @@ footer-refresh-learn-more-about-mozilla-ads = Eikuaave <span>{ footer-refresh-mo
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Eñemomaranduve <span>{ -brand-name-mozilla } marandu ñemurã</span> rehegua
 footer-refresh-firefox-release-notes = Marandu { -brand-name-firefox } rehegua
-# Obsolete string (expires 2026-03-13)
-footer-refresh-extend-reach = Embotuichave hupytyrã ha ejeroviave.
 footer-refresh-add-trust-to = Embojuaju jerovia ne ñemúme.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Ehapykueho @{ -brand-name-mozilla }
@@ -35,8 +33,6 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Tembiporu
 footer-refresh-donate = Ñeme’ẽ
-# Obsolete string (expires 19-10-2025)
-footer-refresh-visit-mozilla-corporations = Visita a la empresa matriz sin fines de lucro de <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>-pe.
 footer-refresh-visit-mozilla-corporations-v2 = Eike mba’apohaguasu viru’ỹgua <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> rehegua, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Ko tetepy vore oreko apohare derécho ©1998–{ $current_year } mozilla.org pytyvõhára peteĩteĩvagui. Pe tetepy ejuhúta ko’ápe <a rel="license" { $href }>{ -brand-name-creative-commons } moneĩmbýpe</a>.
 footer-refresh-websites-privacy-notice = Ñanduti renda marandu’i ñemigua

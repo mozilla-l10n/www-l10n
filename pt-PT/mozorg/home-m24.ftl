@@ -45,11 +45,7 @@ m24-home-tabstack-desc = Automático, de forma confiável, tarefas web com uma A
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Faça donativos à { -brand-name-mozilla }, uma organização sem fins lucrativos
 m24-home-donate-to-v2 = Doar para { -brand-name-mozilla-foundation }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = A { -brand-name-mozilla } está a criar um movimento para reclamar a Internet. Juntos, nós podemos criar um futuro onde a nossa privacidade esteja protegida, a IA seja confiável e as empresas de tecnologia irresponsáveis sejam  responsabilizadas. Mas isto só é possível se nós o fizermos juntos.
 m24-home-mozilla-foundation-is-building-v2 = A { -brand-name-mozilla-foundation } está a construir um futuro onde a tecnologia é potenciada por pessoas e aberta pelo design. É por isto que potenciamos a tecnologia centrada na comunidade através de advocacia, educação, financiamento e inovação — para garantir que o futuro da tecnologia é bom para todos. Mas isto só é possível se o fizermos juntos.
 m24-home-were-proudly-nonprofit = Temos orgulho de ser uma organização sem fins lucrativos. Vai fazer um donativo para a { -brand-name-mozilla } hoje?
 m24-home-donate = Doar
@@ -87,15 +83,11 @@ m24-home-join-today = Junte-se hoje
 m24-home-a-double-bottom = Um duplo resultado final para a tecnologia
 m24-home-mark-surman-discusses = Mark Surman discutir como podemos construir um ecossistema de tecnologia com uma linha de fundo duplicada — uma que valorize tanto a missão como o dinheiro.
 m24-home-agent-platform = Plataforma do agente
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Qualquer agente
 m24-home-stop-wiring-tools = Pare de ligar ferramentas e de vigiar automações fracas. Com a plataforma de agentes { -brand-name-mozilla-ai-v2 }, você descreve o seu objetivo, nós geramos agentes de IA adaptativos que funcionam com as suas ferramentas e processos.
 
 ## Media Springboard
 
 m24-home-type = Tipo
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Autor
 m24-home-author-v2 = Autor(es)
 m24-home-topic = Tópico
 m24-home-intro = Introdução
@@ -111,8 +103,6 @@ m24-home-headline-you-ai-v2 = Você, a IA e a Internet – o que está realmente
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } dá as boas-vindas a href="https://www.mozilla.org/projects/rt-messaging/chatzilla/”.
 m24-home-tech-target = Alvo técnico
 m24-home-mozilla-ai-ceo = PC de { -brand-name-mozilla-ai-v2 } fala sobre as vantagens da IA de código aberto
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = A apresentar o Thundermail e o Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Apresentando { -brand-name-thundermail } e { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = O que vem a seguir em tecnologia é uma escolha. Escolha connosco.
 m24-home-a-good-moment = ‘Um bom momento para nós’: { -brand-name-firefox } cabeçalho em navegadores de IA e o que vem a seguir para a Internet
@@ -141,13 +131,8 @@ m24-home-alt-rise25-joyous = Um feliz homenageado na { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Estado da { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = A { -brand-name-mozilla } está a auto-reinventar-se, distribuindo em torno de uma consolação de organizações, reimaginando a publicidade e criando um ecossistema de IA de código aberto. Leia mais no relatório sobre o estado da { -brand-name-mozilla } de 2024.
 # Variables
-# Obsolete string (expires: 2026-03-27)
-#   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = A { -brand-name-mozilla } está a auto-reinventar-se, distribuindo em torno de uma consolação de organizações, reimaginando a publicidade e criando um ecossistema de IA de código aberto. Leia mais no relatório Estado de { -brand-name-mozilla } de { $year }.
-# Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = Estamos numa encriptação para o futuro da tecnologia, com as grandes empresas de IA a compactar o poder. O relatório { $year } Estado de { -brand-name-mozilla } é um convite para escolherem em conjunto um futuro diferente.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Arte de píxeis abstrata em tons de verde, laranja e rosa
 # Used as an accessible text alternative for an image

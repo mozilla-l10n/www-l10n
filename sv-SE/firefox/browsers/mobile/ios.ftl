@@ -29,10 +29,6 @@ mobile-ios-get-to-the-parts = Ta dig snabbare till de delar av internet du bryr 
 mobile-ios-find-it-all = Hitta allt snabbare
 mobile-ios-get-search-suggestions = Få sökförslag i sökfältet och få snabbt tillgång till de webbplatser du besöker mest. Skriv in din sökfråga och få föreslagna och tidigare sökresultat för dina favoritsökmotorer.
 mobile-ios-discover-more-of = Upptäck mer av det du gillar
-# Obsolete string (expires 26-10-2025)
-mobile-ios-open-a-new = Öppna en ny flik i { -brand-name-firefox } för att se de webbplatser du besöker mest, dina senaste bokmärken och populära artiklar i { -brand-name-pocket }. { -brand-name-firefox } ger dig snabb åtkomst till dina senast använda webbplatser för att hjälpa dig dit snabbare.
 mobile-ios-open-a-new-v2 = Öppna en ny flik i { -brand-name-firefox } för att se de webbplatser du besöker mest och dina senaste bokmärken. { -brand-name-firefox } ger dig snabb åtkomst till dina senast använda webbplatser för att hjälpa dig att komma dit du vill, snabbare.
 mobile-ios-about-mozilla = Om { -brand-name-mozilla }
-# Obsolete string (expires 26-10-2025)
-mobile-ios-mozilla-exists-to = { -brand-name-mozilla } finns för att bygga internet som en allmän resurs som är tillgänglig för alla eftersom vi tror att öppet och gratis är bättre än stängt och kontrollerat. Vi bygger produkter som { -brand-name-firefox } och { -brand-name-pocket } för att främja val, transparens och kontroll.
 mobile-ios-mozilla-exists-to-v2 = { -brand-name-mozilla } finns för att bygga internet som en offentlig resurs tillgänglig för alla eftersom vi anser att öppet och fritt är bättre än slutet och kontrollerat. Vi bygger produkter som { -brand-name-firefox } för att främja valmöjligheter, transparens och kontroll.

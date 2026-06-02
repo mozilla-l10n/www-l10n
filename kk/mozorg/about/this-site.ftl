@@ -17,8 +17,6 @@ about-this-site-this-website = www.mozilla.org веб-сайты жиырма ж
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
-# Obsolete string (expires 28-11-2025)
-about-this-site-today = Бүгінде бұл сайтқа адамдар <a href="{ $firefox }">{ -brand-name-firefox }</a> браузерін жүктеп алу, <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> қызметін қолданып көру және <a href="{ $mozilla }">{ -brand-name-mozilla } туралы</a> көбірек білу үшін келеді. Сондай-ақ жол-жөнекей бірнеше <a href="{ $book }">"пасхалкаларды"</a> табуға болады.
 about-this-site-today-v2 = Бүгінде бұл сайтқа адамдар <a href="{ $mozilla }">{ -brand-name-mozilla } туралы</a> көбірек білу және <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a> қызметін қолданып көру үшін келеді. Сондай-ақ жол-жөнекей бірнеше <a href="{ $book }">"пасхалкаларды"</a> табуға болады.
 about-this-site-like-many = Көптеген өнімдеріміз сияқты, бұл веб-сайт та ашық бастапқы кодты:
 about-this-site-view-source = { -brand-name-github } сайтындағы бастапқы кодты көру
