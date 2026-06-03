@@ -8,10 +8,10 @@
 participation-community-participation = Wytyczne dotyczące uczestnictwa w społeczności
 participation-mozilla-community = Wytyczne dotyczące uczestnictwa w społeczności { -brand-name-mozilla(case: "gen") }
 participation-version-31-updated = Wersja 3.1 – zaktualizowano 16 stycznia 2020 r.
-participation-the-heart-of-mozilla = Dla { -brand-name-mozilla(case: "gen") } najważniejsi są ludzie. Stawiamy ludzi na pierwszym miejscu i staramy się uznawać, doceniać i szanować różnorodność naszych globalnych współtwórców. Projekt { -brand-name-mozilla } przyjmuje wkład od wszystkich osób, którzy podzielają nasze cele i chcą przyczynić się w zdrowy i konstruktywny sposób do naszej społeczności. W związku z tym przyjęliśmy niniejszy kodeks postępowania i wymagamy od wszystkich uczestniczących osób wyrażenia zgody i przestrzegania niniejszych Wytycznych dotyczących uczestnictwa w społeczności, aby pomóc nam stworzyć bezpieczne i pozytywne doświadczenia w społeczności dla wszystkich.
+participation-the-heart-of-mozilla = Dla { -brand-name-mozilla(case: "gen") } najważniejsi są ludzie.  Stawiamy ludzi na pierwszym miejscu i staramy się uznawać, doceniać i szanować różnorodność naszych globalnych współtwórców.  Projekt { -brand-name-mozilla } przyjmuje wkład od wszystkich osób, którzy podzielają nasze cele i chcą przyczynić się w zdrowy i konstruktywny sposób do rozwoju naszej społeczności. W związku z tym przyjęliśmy niniejszy kodeks postępowania i wymagamy od wszystkich uczestniczących osób wyrażenia zgody i przestrzegania niniejszych Wytycznych dotyczących uczestnictwa w społeczności, abyście pomogli nam tworzyć poczucie bezpiecznej i pozytywnej wspólnoty dla wszystkich.
 participation-these-guidelines-aim = Niniejsze wytyczne mają na celu wspieranie społeczności, w której wszyscy ludzie powinni czuć się bezpiecznie, aby w niej uczestniczyć, przedstawiać nowe pomysły i inspirować innych, niezależnie od następujących cech:
 participation-background = Pochodzenie
-participation-family-status = Status rodzinny
+participation-family-status = Stan rodzinny
 participation-gender = Identyfikacja płciowa
 participation-gender-identity-or = Tożsamość lub wyrażenie płci
 participation-marital-status = Stan cywilny
