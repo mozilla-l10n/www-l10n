@@ -39,7 +39,7 @@ firefox-desktop-download-autosuggest-urls = הצעה אוטומטית של כת�
 firefox-desktop-download-sync-across-devices = סנכרון בין התקנים
 firefox-desktop-download-reader-mode = מצב קריאה
 firefox-desktop-download-spell-check = בדיקת איות
-firefox-desktop-download-pinned-tabs = לשוניות מוצמדות
+firefox-desktop-download-pinned-tabs = לשוניות נעוצות
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = חסימת ניגון אוטומטי של וידאו ושמע
 # Picture-in-Picture is a feature names and so is capitalized in English
