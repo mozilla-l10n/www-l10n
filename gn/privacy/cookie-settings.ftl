@@ -26,6 +26,7 @@ cookie-settings-category-necessary-what-are-desc = Ko’ã tembiporupyahu tuicha
 
 cookie-settings-category-preference-heading = Jerohoryvéva
 cookie-settings-category-preference-what-are-subheading = Mba’épa kookie jerohoryvéva rehegua
+cookie-settings-category-preference-what-are-desc = Ko’ã tembiporupyahu ojepurúkuri oporomomandu’a hag̃ua nde poravopy ejapova’ekue eikeramoguare ñanduti roguépe. Techapyrã, pe ñe’ẽ emoñe’ẽseha térã nde sa’y aty eguerohoryvéva.
 
 ## Analytics cookies section
 
