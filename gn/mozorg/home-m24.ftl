@@ -146,4 +146,5 @@ m24-home-alt-validation = Tapicha michĩ’i omañáva tai guasu pe jehaihápe h
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, ohechaukáva IRL Podcast.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
+m24-home-our-multiaward-winning = Ore podcast, heta jopói oganava’ekue, ohechauka umi moheñoimbyre apohare, omba’apóva ñanduti hekorosãve ha IA jeroviaverã.
 m24-home-irl-listen-now = Ehendu ko’ág̃a
