@@ -6,11 +6,7 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Prinsip dasar privasi
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-youre-in-control = Anda memegang kendali
 privacy-firefox-youre-in-control-v2 = Anda memegang kendali atas data Anda
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-privacy-isnt-just = Privasi bukan hanya sekadar pengaturan — itu hak Anda. Pemberitahuan Privasi { -brand-name-firefox } didasarkan pada kejelasan, kendali, dan pengaturan default yang bertanggung jawab. Kami yakin bahwa Anda harus selalu memiliki kendali atas penggunaan data pribadi Anda. Anda dapat mengandalkan kami untuk memberikan penjelasan tentang apa yang dilakukan { -brand-name-firefox } secara default dan menyesuaikan pengaturan Anda, sehingga Anda dapat menjelajah sesuai keinginan.
 privacy-firefox-privacy-isnt-just-v2 = Berikut gambaran besarnya: { -brand-name-firefox } dirancang dengan mengutamakan privasi dan perlindungan. Kami tidak mengetahui terlalu banyak tentang Anda. Sedikit informasi yang kami ketahui, tidak pernah kami jual. Dan tidak seperti peramban lain, kami memberi Anda kebebasan untuk menonaktifkan fitur-fitur yang mengganggu Anda. Pemberitahuan Privasi { -brand-name-firefox } didasarkan pada kejelasan, kendali, dan pengaturan default yang bertanggung jawab. Anda dapat mengandalkan kami untuk memberikan penjelasan tentang apa yang dilakukan { -brand-name-firefox } secara default dan menyesuaikan pengaturan Anda, sehingga Anda dapat menjelajah sesuai keinginan.
 privacy-firefox-read-our-privacy = Baca Pemberitahuan Privasi kami
 
@@ -21,11 +17,7 @@ privacy-firefox-transparency-first = Mengutamakan transparansi
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Kami transparan tentang data yang kami gunakan dan alasannya. Tidak ada kejutan. <a { $attrs }>Pemberitahuan Privasi { -brand-name-firefox }</a> menjelaskan hal ini untuk Anda.
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-how-we-use = Cara kami menggunakan data
 privacy-firefox-how-we-use-v2 = Pribadi secara bawaan
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-we-use-data = Kami menggunakan data untuk memastikan { -brand-name-firefox } berfungsi dengan baik, meningkatkan fitur, dan mendukung keberlanjutan bisnis — semuanya dengan tetap menghormati privasi Anda. Beberapa fitur opsional memerlukan data tambahan untuk berfungsi, dan kami menyediakan cara mudah bagi Anda untuk mengelola preferensi tersebut.
 # Variables:
 #   $attrs (string) - link to https://firefox-source-docs.mozilla.org/contributing/data-collection.html#browsing-data
 privacy-firefox-we-use-data-v2 = Tidak seperti banyak peramban lain yang secara rutin mengumpulkan dan menyimpan data sensitif pengguna, { -brand-name-firefox } dibangun dengan <a { $attrs }>prinsip</a> bahwa bahkan { -brand-name-mozilla } sekalipun tidak perlu tahu situs apa yang Anda kunjungi atau apa yang Anda lakukan di sana.
