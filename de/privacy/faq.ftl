@@ -28,8 +28,6 @@ privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } weiß nicht
 
 privacy-faq-it-seems-like-every-company = Anscheinend kaufen und verkaufen alle Unternehmen im Internet meine Daten. Bei Ihnen ist das wahrscheinlich nicht anders.
 privacy-faq-we-never-sell-your = Wir verkaufen deine persönlichen Daten nie. Bei uns steht Datenschutz standardmäßig an erster Stelle, anders als bei anderen großen Technologieunternehmen, die deine personenbezogenen Daten sammeln und davon profitieren. Wir wissen nicht, wie alt du bist und kennen weder dein Geschlecht, deinen genauen Standort noch andere Informationen, die Big Tech sammeln und für sich nutzen.
-# Obsolete string (expires: 2025-12-08)
-privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } verkauft und kauft keine Daten über dich.
 privacy-faq-wait-so-how-do-you-make-money = Moment, womit verdient ihr dann Geld?
 
 # Variables:
