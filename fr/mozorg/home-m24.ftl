@@ -46,11 +46,7 @@ m24-home-tabstack-desc = Automatisez les tâches web de façon fiable avec une A
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Faire un don à l’organisation à but non lucratif { -brand-name-mozilla }
 m24-home-donate-to-v2 = Faire un don à la { -brand-name-mozilla-foundation }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } crée un mouvement pour reprendre le contrôle d’Internet. Ensemble, nous pouvons construire un futur dans lequel notre vie privée sera protégée, l’IA sera digne de confiance et les entreprises irresponsables du secteur de la tech seront mises face à leurs responsabilités. Mais tout ceci n’est possible que si nous unissons nos forces.
 m24-home-mozilla-foundation-is-building-v2 = La { -brand-name-mozilla-foundation } construit un futur dans lequel la technologie se focalise sur les individus et est ouverte par défaut. Nous soutenons les technologies centrées sur l’esprit de communauté par le biais d’actions militantes, de formations, de financements et d’innovations, pour nous assurer que l’avenir de la tech soit bénéfique pour tout le monde. Mais tout ceci n’est possible que si nous unissons nos forces.
 m24-home-were-proudly-nonprofit = Nous sommes fiers d’être une organisation à but non lucratif. Pouvez-vous faire un don à { -brand-name-mozilla } aujourd’hui ?
 m24-home-donate = Faire un don
@@ -89,15 +85,11 @@ m24-home-join-today = Nous rejoindre
 m24-home-a-double-bottom = Un double bénéfice pour la tech
 m24-home-mark-surman-discusses = Mark Surman évoque la possibilité de construire un écosystème technologique offrant un double bénéfice : à la fois en termes de mission et d’argent.
 m24-home-agent-platform = Plateforme Agent
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Any Agent
 m24-home-stop-wiring-tools = Fini de bricoler pour relier différents outils et de contrôler en permanence des automatisations fragiles. Avec la plateforme { -brand-name-mozilla-ai-v2 } Agent, vous décrivez vos objectifs et nous générons des agents d’IA adaptative conçus pour fonctionner avec vos outils et vos processus.
 
 ## Media Springboard
 
 m24-home-type = Type
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Auteur
 m24-home-author-v2 = Auteur(s)
 m24-home-topic = Sujet
 m24-home-intro = Intro
@@ -113,8 +105,6 @@ m24-home-headline-you-ai-v2 = L’IA, Internet et vous — que se passe-t-il v
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } a le plaisir d’accueillir Raffi Krikorian au poste de Directeur des technologies
 m24-home-tech-target = Tech Target
 m24-home-mozilla-ai-ceo = Le PDG de { -brand-name-mozilla-ai-v2 } explique les avantages de l’IA open source
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = Découvrez Thundermail et Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Découvrez { -brand-name-thundermail } et { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Le futur de la tech est un choix. Faites ce choix avec nous.
 m24-home-a-good-moment = « C’est une période propice pour nous » : le directeur de { -brand-name-firefox } s’exprime sur les navigateurs IA et le futur du Web
@@ -144,13 +134,8 @@ m24-home-state-of-mozilla = { -brand-name-mozilla } aujourd’hui
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se réinvente en diversifiant son activité autour de plusieurs organisations, en repensant la publicité et en créant un écosystème d’IA open source. Découvrez nos projets dans le rapport « { -brand-name-mozilla } aujourd’hui » de 2024.
 
 # Variables
-# Obsolete string (expires: 2026-03-27)
-#   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } se réinvente en diversifiant son activité autour de plusieurs organisations, en repensant la publicité et en créant un écosystème d’IA open source. Découvrez nos projets dans le rapport { -brand-name-mozilla } { $year }.
-# Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = Nous sommes à un tournant pour l’avenir de la technologie, tandis que les géants de l’IA consolident leur pouvoir. Le rapport annuel State of { -brand-name-mozilla } { $year } est une invitation à choisir une autre voie, pour un autre futur.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Pixel art abstrait dans des tons verts, orange et roses
 # Used as an accessible text alternative for an image
