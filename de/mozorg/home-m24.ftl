@@ -46,11 +46,7 @@ m24-home-tabstack-desc = Automatisiere deine Web-Aufgaben zuverlässig mit einer
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Spende an die Non-Profit { -brand-name-mozilla }
 m24-home-donate-to-v2 = Spende an { -brand-name-mozilla-foundation }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } schafft eine Bewegung, um das Internet wiederzugewinnen. Gemeinsam können wir eine Zukunft aufbauen, in der unsere Daten geschützt sind, in der KI vertrauenswürdig ist und unverantwortliche Tech-Unternehmen zur Verantwortung gezogen werden. Aber das geht nur, wenn wir alle an einem Strang ziehen.
 m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } gestaltet eine Zukunft, in der Technologie von Menschen vorangetrieben wird und die von Grund auf offen ist. Deshalb fördern wir gemeinschaftsorientierte Technologie durch Interessenvertretung, Bildung, Finanzierung und Innovation – damit die Zukunft der Technologie für alle Menschen positiv ist. Aber das geht nur, wenn wir alle an einem Strang ziehen.
 m24-home-were-proudly-nonprofit = Wir sind stolz darauf, Non-Profit zu sein. Kannst du heute an { -brand-name-mozilla } spenden?
 m24-home-donate = Spenden
@@ -89,15 +85,11 @@ m24-home-join-today = Heute mitmachen
 m24-home-a-double-bottom = Eine doppelte Zielsetzung für Technologien
 m24-home-mark-surman-discusses = Mark Surman beschreibt, wie wir ein Tech-Ökosystem mit doppelter Zielsetzung aufbauen können – eines, das sowohl der Mission als auch dem Geld gerecht wird.
 m24-home-agent-platform = Agenten-Plattform
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Jeder Agent
 m24-home-stop-wiring-tools = Hört auf, Tools miteinander zu verknüpfen und anfällige Automatisierungen zu babysitten. Mit der { -brand-name-mozilla-ai-v2 } Agent-Plattform beschreibst du dein Ziel, und wir generieren adaptive KI-Agenten, die mit deinen Tools und Abläufen funktionieren.
 
 ## Media Springboard
 
 m24-home-type = Typ
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Autor*in
 m24-home-author-v2 = Autor(innen)
 m24-home-topic = Thema
 m24-home-intro = Einleitung
@@ -113,8 +105,6 @@ m24-home-headline-you-ai-v2 = Du, KI und das Internet – was geht da wirklich 
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } heißt Raffi Krikorian als Chief Technology Officer willkommen
 m24-home-tech-target = Tech-Ziel
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } CEO spricht über die Vorteile von Open-Source KI
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = Wir stellen vor: Thundermail und Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Neu: { -brand-name-thundermail } und { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Was in der Technologie als Nächstes kommt, ist eine Entscheidung. Entscheide dich mit uns.
 m24-home-a-good-moment = „Ein guter Augenblick für uns“: { -brand-name-firefox } über KI-Browser und die Zukunft des Internets
@@ -144,13 +134,8 @@ m24-home-state-of-mozilla = State of { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } erfindet sich neu, diversifiziert sich um eine Konstellation von Organisationen, gestaltet Werbung neu und erschafft ein Open-Source KI-Ökosystem. Lies darüber im Bericht „State of { -brand-name-mozilla }“ 2024.
 
 # Variables
-# Obsolete string (expires: 2026-03-27)
-#   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } erfindet sich neu, diversifiziert sich um eine Konstellation von Organisationen, gestaltet Werbung neu und erschafft ein Open-Source KI-Ökosystem. Lies darüber im Bericht „State of { -brand-name-mozilla } { $year }“.
-# Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = Die Zukunft der Technologie befindet sich an einem Wendepunkt und große KI-Unternehmen bündeln ihre Macht. Der { $year } State of { -brand-name-mozilla }-Bericht ist eine Einladung, gemeinsam eine andere Zukunft zu wählen.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstrakte Pixelkunst in grün, orange und rosa
 # Used as an accessible text alternative for an image

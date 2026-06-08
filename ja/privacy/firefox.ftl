@@ -6,11 +6,7 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = プライバシーの基本
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-youre-in-control = あなたがコントロール
 privacy-firefox-youre-in-control-v2 = あなたの手でデータをコントロール
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-privacy-isnt-just = プライバシーは単なる設定ではなく、あなたの権利です。{ -brand-name-firefox } のプライバシー通知は、分かりやすく、ユーザーがコントロールできるようにし、責任ある姿勢を基本としています。Mozilla は、ユーザーのデータの取り扱いは、いつもユーザーが管理できるものであるべきと考えています。{ -brand-name-firefox } が初期設定の状態で行うことをしっかりと説明します。また、お好みの形でブラウズできるように設定を調整できます。
 privacy-firefox-privacy-isnt-just-v2 = 基本的に、{ -brand-name-firefox } はプライバシーと保護をデフォルトとして構築されています。あなたの情報を収集しません。わずかな情報を売り飛ばすことはしません。他のブラウザーとは異なり、煩わしく感じるものはオフにできます。{ -brand-name-firefox } のプライバシー通知は、分かりやすく、ユーザーがコントロールできるようにし、責任ある姿勢を基本としています。{ -brand-name-firefox } が初期設定の状態で行うことはしっかりと説明しています。また、お好みの形でブラウズできるように設定を調整できます。
 privacy-firefox-read-our-privacy = プライバシー通知を読む
 
@@ -21,11 +17,7 @@ privacy-firefox-transparency-first = 透明性第一
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Mozilla は、どのようなデータを、なぜ使用するのかを明確にしています。隠し事はしません。<a { $attrs }>{ -brand-name-firefox } のプライバシー通知</a>で詳しく説明しています。
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-how-we-use = データの取り扱い
 privacy-firefox-how-we-use-v2 = 既定でプライベート
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-we-use-data = Mozilla は、{ -brand-name-firefox } を円滑に動作させ、機能を改善し、事業を維持するためにデータを使用しています。いずれの場合にもユーザーのプライバシーを尊重しています。オプション機能の一部では、機能するために追加のデータを必要とする場合がありますが、設定を簡単に管理できるようにしています。
 # Variables:
 #   $attrs (string) - link to https://firefox-source-docs.mozilla.org/contributing/data-collection.html#browsing-data
 privacy-firefox-we-use-data-v2 = 機密のユーザーデータが日常的に収集・保存される他の多くのブラウザーとは異なり、{ -brand-name-firefox } は、ユーザーが訪問するウェブサイトやそこでの操作は、{ -brand-name-mozilla } も知るべきでないという<a { $attrs }>原則</a>をもとに構築されています。

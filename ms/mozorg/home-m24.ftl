@@ -46,11 +46,7 @@ m24-home-tabstack-desc = Automasikan tugasan internet dengan penuh yakin menggun
 
 ## Donate
 
-# Obsolete string (expires 04-12-2025)
-m24-home-donate-to-the = Dermalah kepada organisasi bukan berasaskan keuntungan { -brand-name-mozilla }
 m24-home-donate-to-v2 = Dermalah ke { -brand-name-mozilla-foundation }
-# Obsolete string (expires 04-12-2025)
-m24-home-mozilla-is-building = { -brand-name-mozilla } sedang membangunkan satu pergerakan untuk menuntut semula internet. Bersama, kita mampu membina masa depan di mana privasi kita dilindungi, AI boleh dipercayai dan syarikat teknologi, dipertanggungjawabkan. Namun, ia mampu dicapai jika kita berpadu tenaga.
 m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } sedang membangunkan masa depan di mana teknologi dikuasakan oleh manusia dan diterokai oleh rekacipta. Itulah sebabnya kami memacu teknologi berteraskan komuniti menerusi advokasi, pendidikan, pembiayaan dan inovasi — demi memastikan masa depan teknologi memanfaatkan manusia sejagat. Namun, ia hanya mampu dicapai jika kita berpadu tenaga.
 m24-home-were-proudly-nonprofit = Dengan bangganya kami bukan berasaskan keuntungan. Anda mahu menderma kepada { -brand-name-mozilla } hari ini?
 m24-home-donate = Sumbangan
@@ -89,15 +85,11 @@ m24-home-join-today = Sertai hari ini
 m24-home-a-double-bottom = Matlamat Berganda untuk Teknologi
 m24-home-mark-surman-discusses = Mark Surman membincangkan cara kita boleh membangunkan ekosistem teknologi dengan matlamat berganda — matlamat yang mementingkan misi dan kewangan.
 m24-home-agent-platform = Ejen Platform
-# Obsolete string (expires 2026-04-05)
-m24-home-any-agent = Sebarang Ejen
 m24-home-stop-wiring-tools = Hentilah mengimpal masalah dan kekeliruan automasi. Dengan Agent Platform { -brand-name-mozilla-ai-v2 }, anda hanya perlu jelaskan matlamat dan kami janakan agen AI adaptif dan mampu berinteraksi dengan kelengkapan dan proses anda.
 
 ## Media Springboard
 
 m24-home-type = Jenis
-# Obsolete string (expires 2026-03-13)
-m24-home-author = Penulis
 m24-home-author-v2 = Pengarang
 m24-home-topic = Topik
 m24-home-intro = Pendahuluan
@@ -113,8 +105,6 @@ m24-home-headline-you-ai-v2 = Anda, AI dan internet — apa sebenarnya yang seda
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } mengalu-alukan Raffi Krikorian sebagai Ketua Pegawai Teknologi
 m24-home-tech-target = Sasaran Teknologi
 m24-home-mozilla-ai-ceo = CEO { -brand-name-mozilla-ai-v2 } bercakap tentang kelebihan AI sumber terbuka
-# Obsolete string (expires 2026-03-01)
-m24-home-introducing-thundermail-and = Memperkenalkan Thundermail dan Thunderbird Pro
 m24-home-introducing-thundermail-and-v2 = Memperkenalkan { -brand-name-thundermail } dan { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Teknologi masa depan adalah pilihan anda. Pilih untuk bersama kami.
 m24-home-a-good-moment = 'Masa terbaik untuk kami': { -brand-name-firefox } merungkai pelayar AI dan wawasan untuk internet
@@ -144,13 +134,8 @@ m24-home-state-of-mozilla = Terkini Tentang { -brand-name-mozilla }
 m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } sedang mencipta semula jenamanya dengan mempelbagaikan tawaran berlandaskan beberapa buah organisasi selain membayangkan semula pengiklanan serta membangunkan ekosistem AI sumber terbuka. Baca lebih lanjut mengenainya dalam Laporan Terkini Tentang { -brand-name-mozilla } 2024.
 
 # Variables
-# Obsolete string (expires: 2026-03-27)
-#   $year - year of report
-m24-home-mozilla-is-reinventing-itself-v2 = { -brand-name-mozilla } sedang mencipta semula jenamanya, mempelbagaikan aktiviti di sekitar pelbagai organisasi, mereka semula pengiklanan dan membina ekosistem AI sumber terbuka. Baca mengenainya dalam Laporan Keadaan { -brand-name-mozilla } { $year }.
-# Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = Kita kini berada di persimpangan masa depan teknologi, dengan syarikat gergasi AI sedang memusatkan kuasa mereka. Laporan State of { -brand-name-mozilla } { $year } merupakan satu jemputan untuk memilih masa depan yang berbeza bersama-sama.
-# Obsolete string (expires: 2026-03-27)
 # Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Seni piksel abstrak dalam warna hijau, oren dan merah jambu
 # Used as an accessible text alternative for an image

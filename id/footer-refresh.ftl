@@ -10,8 +10,6 @@ footer-refresh-learn-more-about-mozilla-ads = Pelajari lebih lanjut <span>mengen
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Pelajari lebih lanjut <span>mengenai { -brand-name-mozilla } Advertising</span>
 footer-refresh-firefox-release-notes = Catatan Rilis { -brand-name-firefox }
-# Obsolete string (expires 2026-03-13)
-footer-refresh-extend-reach = Perluas jangkauan. Bangun kepercayaan yang lebih kuat.
 footer-refresh-add-trust-to = Tambahkan kepercayaan ke pembelian iklan Anda.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Ikuti @{ -brand-name-mozilla }
@@ -35,8 +33,6 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Alat
 footer-refresh-donate = Donasi
-# Obsolete string (expires 19-10-2025)
-footer-refresh-visit-mozilla-corporations = Kunjungi organisasi induk nirlaba <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> yaitu, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-visit-mozilla-corporations-v2 = Kunjungi organisasi induk nirlaba <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> yaitu, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Sebagian konten ini merupakan hak cipta ©1998–{ $current_year } oleh kontributor individual mozilla.org. Konten tersedia di bawah lisensi <a rel="license" { $href }>{ -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Pemberitahuan Privasi Situs Web

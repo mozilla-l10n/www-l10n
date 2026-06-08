@@ -6,11 +6,7 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Les bases de la confidentialité
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-youre-in-control = Vous avez le contrôle
 privacy-firefox-youre-in-control-v2 = Vous contrôlez vos données
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-privacy-isnt-just = La confidentialité n’est pas une option. C’est votre droit. La Politique de confidentialité de { -brand-name-firefox } est conçue pour être claire, vous permettre de contrôler votre expérience et intégrer des paramètres par défaut responsables. Nous pensons que vous devriez toujours pouvoir contrôler ce qui arrive à vos données. Vous pouvez compter sur nous pour vous expliquer clairement l’utilité des paramètres par défaut de { -brand-name-firefox } et comment les ajuster pour naviguer comme vous le souhaiter.
 privacy-firefox-privacy-isnt-just-v2 = Voici l’essentiel : { -brand-name-firefox } est conçu pour protéger votre vie privée par défaut. Nous ne savons pas grand-chose sur vous. Et ce que nous savons, nous ne le vendrons jamais. À la différence des autres navigateurs, nous vous offrons le choix de désactiver ce qui ne vous plaît pas. La Politique de confidentialité de { -brand-name-firefox } est conçue pour être claire, vous permettre de contrôler votre expérience et intégrer des paramètres par défaut responsables. Vous pouvez compter sur nous pour vous expliquer clairement l’utilité des paramètres par défaut de { -brand-name-firefox } et comment les ajuster pour naviguer comme vous le souhaitez.
 privacy-firefox-read-our-privacy = Consultez notre Politique de confidentialité
 
@@ -21,11 +17,7 @@ privacy-firefox-transparency-first = Priorité à la transparence
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Nous détaillons clairement quelles données nous utilisons et pourquoi. Vous n’aurez pas de surprises. La <a { $attrs }>Politique de confidentialité de { -brand-name-firefox }</a> vous explique tout.
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-how-we-use = Utilisation de vos données
 privacy-firefox-how-we-use-v2 = Respect de la vie privée par défaut
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-we-use-data = Nous utilisons des données pour garantir le bon fonctionnement de { -brand-name-firefox }, améliorer ses fonctionnalités et soutenir nos activités. Le tout, dans le respect de votre vie privée. Certaines fonctionnalités optionnelles peuvent nécessiter davantage de données pour fonctionner, et nous facilitons la gestion de vos préférences.
 # Variables:
 #   $attrs (string) - link to https://firefox-source-docs.mozilla.org/contributing/data-collection.html#browsing-data
 privacy-firefox-we-use-data-v2 = À l’inverse de beaucoup d’autres navigateurs, qui collectent et stockent les données sensibles des utilisateurs et utilisatrices, { -brand-name-firefox } suit un <a { $attrs }>principe</a> simple : même { -brand-name-mozilla } ne doit pas savoir quels sites vous visitez, ou ce que vous y faites.

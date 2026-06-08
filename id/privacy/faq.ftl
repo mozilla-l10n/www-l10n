@@ -28,8 +28,6 @@ privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } tidak menge
 
 privacy-faq-it-seems-like-every-company = Sepertinya setiap perusahaan di web membeli dan menjual data saya. Anda mungkin juga sama.
 privacy-faq-we-never-sell-your = Kami tidak pernah menjual data pribadi Anda. Tidak seperti perusahaan teknologi besar lain yang mengumpulkan dan memanfaatkan data pribadi Anda demi keuntungan, kami dirancang dengan mengutamakan privasi sejak awal. Kami tidak mengetahui usia, jenis kelamin, lokasi tepat, atau informasi lain yang biasanya dikumpulkan dan dimanfaatkan oleh perusahaan teknologi besar.
-# Obsolete string (expires: 2025-12-08)
-privacy-faq-mozilla-doesnt-sell-data-about = { -brand-name-mozilla } tidak menjual data mengenai Anda dan kami tidak membeli data mengenai Anda.
 privacy-faq-wait-so-how-do-you-make-money = Tunggu, jadi bagaimana Anda menghasilkan uang?
 
 # Variables:

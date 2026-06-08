@@ -30,11 +30,6 @@ privacy-faq-v2-mozilla-does-not-know = { -brand-name-mozilla } tidak tahu sebany
 privacy-faq-v2-it-seems-like = Nampaknya seperti setiap syarikat di internet membeli dan menjual data saya. Tentu Firefox juga tiada bezanya.
 
 privacy-faq-v2-we-never-sell-your = Kami tidak pernah menjual data peribadi anda. Tidak seperti syarikat teknologi lain yang mengumpul dan mendapat untung daripada data peribadi anda, secara lalai kami dibangunkan penuh dengan privasi. Kami tidak mengambil untung daripada data seperti umur, jantina, lokasi tepat dan lain-lain maklumat.
-# Obsolete string (expires: 2025-12-08)
-# Variables:
-#   $attrs (url) - link to https://support.mozilla.org/kb/ohttp-explained
-privacy-faq-v2-mozilla-does-not-sell = { -brand-name-mozilla } tidak menjual data anda (sebagaimana spekulasi banyak pihak tentang &quot;menjual data&quot;, dan kami juga tidak membeli data tentang anda. Kerana ketelusan adalah antara matlamat kami, selain definisi &quot;penjualan data&quot; amatlah luas di sesetengah tempat, kami perlu mengambil satu langkah ke belakang daripada membuat sebarang kenyataan sembarangan. Kami memastikan data yang dikongsi dengan rakan perniagaan kami (yang perlu dilaksanakan agar { -brand-name-firefox } berdaya maju secara komersial) tidak mengandungi sebarang maklumat pengenalan, atau dikongsi secara berkumpulan, atau diuruskan oleh teknologi pemelihara privasi (seperti <a { $attrs }>OHTTP</a>).
-
 privacy-faq-v2-wait-so-how = Jadi, bagaimana Firefox menjana wang?
 
 # Variables:
