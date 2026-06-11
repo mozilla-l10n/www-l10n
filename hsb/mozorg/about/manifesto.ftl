@@ -47,6 +47,8 @@ manifesto-details-build-and-deliver = wulkotne kupcowske produkty wutworjeć a k
 manifesto-details-use-the-mozilla = aktiwa { -brand-name-mozilla } wužiwać (intelektualne swójstwo kaž na př. awtorstwa a wikowanske znamjenja, infrastruktura, financielne srědki a mjeno), zo bychmy internet jako wotewrjenu platformu wobchowali;
 manifesto-details-promote-models = modele za wutworjenje ekonomiskich hódnotow k zjawnemu wužitkej spěchować; a
 manifesto-details-promote-the-mozilla = principy manifesta { -brand-name-mozilla } w zjawnym diskursu a znutřka internetneje branže spěchować.
+manifesto-mozillas-pledge = Slub { -brand-name-mozilla }
+manifesto-we-need-you = Trjebamy was, zo bychmy manifest doprědka přinjesli
 manifesto-an-internet-with-these-v2 = Internet z tutymi kwalitami sam wot so njenastawa. Ludźo a organizacije dyrbja tute cile k internetnej technologiji a k čłowjeskemu dožiwjenju z internetom přinošować. Manifest { -brand-name-mozilla } a přidatk reprezentujetej angažowanosć { -brand-name-mozilla } za rozšěrjowanje tutych cilow. { -brand-name-mozilla } z ludźimi a organizacijemi wšudźe dźěła, kotrež chcedźa internet k hišće lěpšemu městnu za kóždeho činić.
 manifesto-our-commitments = Naše zawjazki
 
