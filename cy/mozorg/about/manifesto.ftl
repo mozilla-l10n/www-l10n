@@ -47,6 +47,22 @@ manifesto-details-build-and-deliver = adeiladu a chyflwyno cynnyrch gwych i ddef
 manifesto-details-use-the-mozilla = ddefnyddio asedau { -brand-name-mozilla } (eiddo deallusol megis hawlfraint a nodau masnach, seilwaith, cronfeydd, ac enw da) i gadw'r Rhyngrwyd yn llwyfan agored;
 manifesto-details-promote-models = hyrwyddo modelau ar gyfer creu gwerth economaidd er budd y cyhoedd, a
 manifesto-details-promote-the-mozilla = hyrwyddo egwyddorion Maniffesto { -brand-name-mozilla } mewn trafodaethau cyhoeddus ac o fewn diwydiant y Rhyngrwyd.
+manifesto-written-in-2007 = Mae Maniffesto { -brand-name-mozilla }, a ysgrifennwyd yn 2007, yn amlinellu ein hegwyddorion craidd. Ysgrifennwyd yr Addewid ar gyfer Rhyngrwyd Iach fel atodiad i'r Maniffesto yn 2017 i adlewyrchu ein hymrwymiad dwfn i sicrhau bod y rhyngrwyd yn gwasanaethu anghenion bodau dynol a'r ddynoliaeth gyfan. Gyda'i gilydd, mae'r ddwy ddogfen hyn yn arwain yr holl waith ar draws { -brand-name-mozilla } — yr hyn yr ydym yn ei adeiladu, yr hyn yr ydym yn ei ariannu a sut yr ydym yn gweithio gyda'n gilydd fel cymuned.
+manifesto-mozillas-pledge = Addewid { -brand-name-mozilla }
+manifesto-across-the-mozilla-project = Ar draws y Prosiect { -brand-name-mozilla } a phob sefydliad yn y teulu { -brand-name-mozilla }, rydym yn addo cefnogi'r Maniffesto { -brand-name-mozilla } yn ei weithgareddau. Yn benodol, byddwn yn:
+manifesto-we-need-you = Mae Angen i Chi Symud y Maniffesto Ymlaen
+manifesto-an-internet-with-these-v2 = Ni fydd rhyngrwyd gyda'r rhinweddau hyn yn dod yn fyw ar ei ben ei hun. Rhaid i bobl a sefydliadau ymgorffori'r dyheadau hyn i mewn i dechnoleg rhyngrwyd ac i'r profiad dynol gyda'r rhyngrwyd. Mae Maniffesto ac Adendwm { -brand-name-mozilla } yn cynrychioli ymrwymiad { -brand-name-mozilla } i hyrwyddo'r dyheadau hyn. Mae { -brand-name-mozilla } yn gweithio gyda phobl a sefydliadau ym mhobman sydd am wneud y rhyngrwyd yn lle gwell fyth i bawb.
+manifesto-our-commitments = Ein Hymrwymiadau
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+#   $mozai_link (url) - link to https://www.mozilla.ai
+#   $mozvc_link (url) - link to https://mozilla.vc
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-if-you-share-this-goal = Os ydych chi'n rhannu'r nod hwn, rhowch wybod i ni sut y gallwn ni helpu. <a { $github_link }>Rydym yn creu meddalwedd cod agored</a> y gallwch adeiladu arno. <a { $mofo_link }>Rydym yn ariannu cymrodyr ac yn deori prosiectau</a> sydd â'r nod o greu dyfodol gwell ar-lein. <a { $mozai_link }>Rydym yn adeiladu offer AI ffynhonnell agored</a> sy'n rhoi dewis i ddatblygwyr — ac yn eu helpu i arbed arian. <a { $mozvc_link }>Rydym yn buddsoddi mewn busnesau newydd cyfrifol</a>. Rydym <a { $mdc_link }>yn rhedeg cymuned fyd-eang</a> ar gyfer cyfnewid data teg. Rydym yn <a { $festival_link }>cynulliad byd-eang blynyddol</a> ar gyfer pobl sy'n adeiladu unrhyw beth a phopeth i hyrwyddo'r Maniffesto. Ac, wrth gwrs, rydyn ni'n gwneud <a { $firefox_link }>{ -brand-name-firefox }</a> ac <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>). Nod hyn oll yw helpu pobl i wneud y rhyngrwyd yn lle iach.
 
 ## Obsolete strings (expire 2026-09-10)
 

@@ -47,6 +47,22 @@ manifesto-details-build-and-deliver = 开发符合宣言准则的优秀消费类
 manifesto-details-use-the-mozilla = 利用 { -brand-name-mozilla } 的资产（诸如版权和商标的知识产权、基础设施、资金和声誉等）使互联网保持为开放的平台；
 manifesto-details-promote-models = 提倡为公共利益创造经济价值的模式；
 manifesto-details-promote-the-mozilla = 并且在公共言论中和互联网业界推广 { -brand-name-mozilla } 宣言。
+manifesto-written-in-2007 = 撰写于 2007 年的 { -brand-name-mozilla } 宣言概述了我们的核心准则。 “健康的互联网承诺”是于 2017 年撰写的宣言修正案反映了我们对确保互联网服务于人类乃至整个人类的需求的坚定承诺。上述两份文件指导 { -brand-name-mozilla } 的所有工作——我们建设什么、我们资助什么以及我们如何作为一个社区合作。
+manifesto-mozillas-pledge = { -brand-name-mozilla } 的承诺
+manifesto-across-the-mozilla-project = 我们承诺通过 { -brand-name-mozilla } 项目与 { -brand-name-mozilla } 大家庭中的每个组织支持 { -brand-name-mozilla } 宣言的实施。具体来说我们将
+manifesto-we-need-you = 我们需要您推行宣言
+manifesto-an-internet-with-these-v2 = 具有这些品质的互联网不会自行产生。人们和组织必须将这些愿景融入互联网技术融入互联网带来的人类体验中。 { -brand-name-mozilla } 宣言及其修正案代表了 { -brand-name-mozilla } 对推进这些愿景的承诺。 { -brand-name-mozilla } 与希望让互联网对每个人都更美好的世界各地的人们和组织合作。
+manifesto-our-commitments = 我们的承诺
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+#   $mozai_link (url) - link to https://www.mozilla.ai
+#   $mozvc_link (url) - link to https://mozilla.vc
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-if-you-share-this-goal = 如果您也有相同的目标请告诉我们能帮上什么忙。 <a { $github_link }>我们打造开源软件</a>您可以在此之上发展。 <a { $mofo_link }>我们资助奖学金获得者和孵化项目</a>旨在创造一个更美好的互联网未来。 <a { $mozai_link }>我们打造开源的 AI 工具</a>给开发者更多选择 — 帮他们省钱。 <a { $mozvc_link }>我们投资负责任的科技初创公司</a>。我们<a { $mdc_link }>运行一个全球社区</a>促进公平的数据交换。我们<a { $festival_link }>举办年度全球聚会</a>人们为推进宣言不择手段。当然我们还会制作 <a { $firefox_link }>{ -brand-name-firefox }</a> 和 <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>。所有这一切旨在帮助人们让互联网成为一个健康的地方。
 
 ## Obsolete strings (expire 2026-09-10)
 

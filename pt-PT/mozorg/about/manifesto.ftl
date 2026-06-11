@@ -47,6 +47,22 @@ manifesto-details-build-and-deliver = construir e disponibilizar excelentes prod
 manifesto-details-use-the-mozilla = utilizar os recursos da { -brand-name-mozilla } (propriedade intelectual tais como direitos de autor e marcas registadas, infraestruturas, fundos e reputação) para manter a Internet como uma plataforma aberta;
 manifesto-details-promote-models = promover modelos para criar valor económico para benefício público; e
 manifesto-details-promote-the-mozilla = promover os princípios do Manifesto da { -brand-name-mozilla } em discurso público e dentro da indústria da Internet.
+manifesto-written-in-2007 = O Manifesto de { -brand-name-mozilla }, escrito em 2007, descreve os nossos princípios base. O Promessa para uma Internet saudável foi escrita como um adendo ao Manifesto em 2017 para refletir o nosso profundo compromisso em garantir que a Internet atenda às necessidades dos seres humanos e da humanidade como um todo. Juntos, estes dois documentos guiam todo o trabalho na { -brand-name-mozilla } — o que construímos, o que financiamos e como trabalhamos juntos como uma comunidade.
+manifesto-mozillas-pledge = Promessa de { -brand-name-mozilla }
+manifesto-across-the-mozilla-project = Em todo o projeto { -brand-name-mozilla } e em todas as organizações da família { -brand-name-mozilla }, comprometemo-nos a apoiar o Manifesto { -brand-name-mozilla } nas suas atividades. Especialmente, iremos:
+manifesto-we-need-you = Precisamos de si para promover o Manifesto
+manifesto-an-internet-with-these-v2 = Uma internet com estas qualidades não ganhará vida por si própria. As pessoas e organizações devem embutir estas aspirações na tecnologia da internet e na experiência humana da internet. O Manifesto de { -brand-name-mozilla } e o Adendo representam o compromisso de { -brand-name-mozilla } para avançar estas aspirações. A { -brand-name-mozilla } trabalha com pessoas e organizações em todo o lado que pretendem fazer a Internet melhor ainda para todos.
+manifesto-our-commitments = Os nossos compromissos
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+#   $mozai_link (url) - link to https://www.mozilla.ai
+#   $mozvc_link (url) - link to https://mozilla.vc
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-if-you-share-this-goal = Se partilha este objetivo, diga-nos como podemos ajudar. <a { $github_link }> Nós criamos software de código aberto </a> que pode construir. <a { $mofo_link }>Financiamos bolseiros e incubamos projetos</a> focados em criar um futuro melhor na Internet. <a { $mozai_link }> Nós construímos ferramentas de IA de código aberto </a> que dão a escolha aos programadores — e os ajudamos a guardar dinheiro. <a { $mozvc_link }> Nós investimos em start-ups tecnológicas responsáveis</a>. Nós <a { $mdc_link }>gerimos uma comunidade global</a> para uma troca de dados limpa. Nós <a { $festival_link }>organizamos um evento global todos os anos</a> para pessoas que constroem tudo para promover o Manifesto. E, claro, fazemos <a { $firefox_link }>{ -brand-name-firefox }</a> e <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Tudo isto tem como objetivo ajudar as pessoas a tornar a Internet num lugar saudável.
 
 ## Obsolete strings (expire 2026-09-10)
 

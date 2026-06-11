@@ -47,6 +47,22 @@ manifesto-details-build-and-deliver = budovat a šířit produkty podporující 
 manifesto-details-use-the-mozilla = užívat aktiva { -brand-name-mozilla(case: "gen") } (duševní vlastnictví jako copyright, obchodní značku, zázemí, fondy a dobré jméno) k udržení internetu pro každého;
 manifesto-details-promote-models = podporovat modely vytváření ekonomické hodnoty ku veřejnému prospěchu; a
 manifesto-details-promote-the-mozilla = podporovat principy Manifestu { -brand-name-mozilla(case: "gen") } ve veřejných rozpravách a napříč internetovým odvětvím.
+manifesto-written-in-2007 = Manifest { -brand-name-mozilla }, napsaný v roce 2007, nastiňuje naše hlavní principy. Závazek pro zdravý internet byl sepsán jako doplněk k Manifestu v roce 2017, aby odrážel naše hluboké odhodlání zajistit, aby internet sloužil potřebám lidí a lidstva jako celku. Společně tyto dva dokumenty provází všechnu práci v oblastech { -brand-name-mozilla } – co vytváříme, co financujeme a jak spolupracujeme jako komunita.
+manifesto-mozillas-pledge = Slib společnosti { -brand-name-mozilla }
+manifesto-across-the-mozilla-project = V rámci projektu { -brand-name-mozilla } a všech organizací z rodiny { -brand-name-mozilla } se zavazujeme podporovat Manifest { -brand-name-mozilla } a jeho aktivity. Konkrétně budeme:
+manifesto-we-need-you = Potřebujeme vás k rozšíření Manifestu
+manifesto-an-internet-with-these-v2 = Internet s těmito kvalitami není k dispozici. Lidé a organizace musí začlenit tyto aspirace do internetových technologií a do lidské zkušenosti s internetem. Manifest a dodatek { -brand-name-mozilla } reprezentují odhodlání { -brand-name-mozilla } pokračovat v naplňování těchto cílů. { -brand-name-mozilla } spolupracuje s lidmi a organizacemi po celém světě, které chtějí z internetu udělat ještě lepší místo pro všechny.
+manifesto-our-commitments = Naše závazky
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+#   $mozai_link (url) - link to https://www.mozilla.ai
+#   $mozvc_link (url) - link to https://mozilla.vc
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-if-you-share-this-goal = Pokud sdílíte tento cíl, dejte nám vědět, jak vám můžeme pomoci. <a { $github_link }>Vytváříme software s otevřeným zdrojovým kódem</a>, na kterém můžete stavět. <a { $mofo_link }>financujeme kolegy a inkubujeme projekty</a> zaměřené na vytváření lepší budoucnosti na internetu. <a { $mozai_link }>Vytváříme otevřené nástroje pro umělou inteligenci</a>, které dávají vývojářům možnost volby – a pomáhají jim šetřit peníze. <a { $mozvc_link }>Investujeme do odpovědných technologických start-upů</a>. <a { $mdc_link }>řídíme globální komunitu</a> za férovou výměnu dat. <a { $festival_link }>Každoročně hostujeme celosvětové setkání</a> lidí, kteří vše vytváří pro pokrok v Manifestu. A samozřejmě vyděláváme <a { $firefox_link }>{ -brand-name-firefox }</a> a <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. To vše je zaměřeno na pomoc lidem dělat internet zdravým místem.
 
 ## Obsolete strings (expire 2026-09-10)
 
