@@ -5,4 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
 
+
+## Obsolete strings (expire 2026-09-10)
+
 manifesto-show-your-support = Mostratz vòstre sosten

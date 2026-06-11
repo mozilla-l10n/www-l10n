@@ -7,7 +7,10 @@
 
 # HTML page description
 manifesto-these-are-the-principles = Magi aye guti ma telo miti wa me yilo rwom me bedo ayaba, diro ki gum i kakube.
-manifesto-show-your-support = Nyut cwak mamegi
 manifesto-details-the-internet-is-becoming = Intanet tye ka mede ki doko gin mapire tek i kwo mamegwa.
 manifesto-details-make-mozilla-contributors = wek lumii kony me { -brand-name-mozilla } obed ki awaka ikom ngo ma watye ka timo ki cuko cwinywa me mede; ki
+
+## Obsolete strings (expire 2026-09-10)
+
 manifesto-details-invitation = Lwongo
+manifesto-show-your-support = Nyut cwak mamegi

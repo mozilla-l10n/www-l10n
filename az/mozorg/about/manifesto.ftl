@@ -5,9 +5,12 @@
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
 
-# HTML page title
+# HTML page title & main page heading
 manifesto-the-mozilla-manifesto = { -brand-name-mozilla } Manifesti
-manifesto-our-10-principles = <strong>Bizim 10</strong> Prinsipimiz
-manifesto-details-the-mozilla-manifesto = { -brand-name-mozilla } Manifesti
 manifesto-details-principles = Prinsiplər
+
+## Obsolete strings (expire 2026-09-10)
+
+manifesto-details-the-mozilla-manifesto = { -brand-name-mozilla } Manifesti
 manifesto-details-invitation = Dəvətnamə
+manifesto-our-10-principles = <strong>Bizim 10</strong> Prinsipimiz

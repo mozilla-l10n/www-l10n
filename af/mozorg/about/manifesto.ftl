@@ -5,11 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
 
-# HTML page title
+# HTML page title & main page heading
 manifesto-the-mozilla-manifesto = Die { -brand-name-mozilla }-manifes
-manifesto-our-10-principles = <strong>Ons 10</strong> beginsels
-manifesto-read-the-entire-manifesto = Lees die volledige manifes
-manifesto-details-the-mozilla-manifesto = Die { -brand-name-mozilla }-manifes
 manifesto-details-introduction = Inleiding
 manifesto-details-the-internet-is-becoming = Die Internet word 'n toenemend belangrike deel van ons lewens.
 manifesto-details-the-mozilla-project-global = Die { -brand-name-mozilla }-projek is 'n wêreldwye gemeenskap van mense wat glo dat openheid, innovering en geleentheid noodsaaklik is vir die volgehoue welstand van die Internet. Sedert 1998 werk ons saam om te verseker dat die Internet ontwikkel word op 'n manier wat almal bevoordeel. Ons is veral bekend vir die webblaaier { -brand-name-mozilla } { -brand-name-firefox }.
@@ -20,6 +17,18 @@ manifesto-details-speak-to-people = spreek tot mense of hulle 'n tegniese agterg
 manifesto-details-make-mozilla-contributors = maak { -brand-name-mozilla }-bydraers trots op wat ons doen, en motiveer ons om voort te gaan; en
 manifesto-details-provide-a-framework = skep 'n raamwerk vir ander mense om tot dié visie van die Internet saam te werk.
 manifesto-details-principles = Beginsels
+manifesto-details-transparent-community = Deursigtige gemeenskapsgebaseerde prosesse bevorder deelname, aanspreeklikheid en vertroue.
+manifesto-details-advancing-the = Bevordering van die { -brand-name-mozilla }-manifes
+manifesto-details-mozilla-foundation = Belofte van die { -brand-name-mozilla-foundation }
+manifesto-details-build-and-enable = oopbrontegnologieë en gemeenskappe wat die Manifes se beginsels ondersteun, te bou en te fasiliteer;
+manifesto-details-build-and-deliver = goeie produkte vir eindgebruikers te bou wat die Manifes se beginsels ondersteun;
+manifesto-details-use-the-mozilla = die { -brand-name-mozilla }-bates (intellektuele eiendom soos kopiereg en handelsmerke, infrastruktuur, fondse, reputasie) te gebruik om die Internet 'n oop platform te hou;
+manifesto-details-promote-models = modelle vir die skep van ekonomiese waarde van die openbare voordeel te bevorder; en
+manifesto-details-promote-the-mozilla = die beginsels van die { -brand-name-mozilla }-manifes te bevorder in openbare diskoers en in die Internetindustrie.
+
+## Obsolete strings (expire 2026-09-10)
+
+manifesto-details-the-mozilla-manifesto = Die { -brand-name-mozilla }-manifes
 manifesto-details-the-internet-is-integral = Die Internet is 'n integrale deel van ons moderne lewe—'n sleutelkomponent in opvoeding, kommunikasie, samewerking, besigheid, vermaak en ons totale gemeenskap.
 manifesto-details-the-internet-is-global = Die Internet is 'n globale, openbare hulpbron wat oop en toeganklik moet bly.
 manifesto-details-the-internet-must = Die Internet moet die lewens van individue verryk.
@@ -27,15 +36,9 @@ manifesto-details-individuals-security = Individue se sekuriteit en privaatheid 
 manifesto-details-individuals-must = Individue moet self die Internet en hul eie ervarings daarvan kan vorm.
 manifesto-details-the-effectiveness = Die effektiwiteit van die Internet as 'n publieke hulpbron maak staat op versoenbaarheid (protokolle, dataformate, inhoud), innovasie en gedesentraliseerde deelname wêreldwyd.
 manifesto-details-free-and-open = Vry en oopbronsagteware bevorder die ontwikkeling van die Internet as 'n openbare hulpbron.
-manifesto-details-transparent-community = Deursigtige gemeenskapsgebaseerde prosesse bevorder deelname, aanspreeklikheid en vertroue.
 manifesto-details-commercial-involvement = Kommersiële betrokkenheid in die ontwikkeling van die Internet bied baie voordele; 'n balans tussen kommersiële wins en openbare voordeel is van kritieke belang.
 manifesto-details-magnifying-the = Die uitlig van die publieke voordele van die Internet is 'n belangrike doel, en verdien tyd, aandag en verbondenheid.
-manifesto-details-advancing-the = Bevordering van die { -brand-name-mozilla }-manifes
 manifesto-details-there-are-many = Daar is verskeie maniere om die beginsels van die { -brand-name-mozilla }-manifes te bevorder. Ons verwelkom 'n wye reeks aktiwiteite en verwag die selfde kreatiwiteit wat { -brand-name-mozilla }-deelnemers in ander gebiede van die projek gewys het. Vir individue wat nie diep in die { -brand-name-mozilla }-projek betrokke is nie is 'n eenvoudige maar effektiewe manier om die Manifes te ondersteun, deur { -brand-name-mozilla } { -brand-name-firefox } en ander produkte te gebruik wat die beginsels van die Manifes vergestalt.
-manifesto-details-mozilla-foundation = Belofte van die { -brand-name-mozilla-foundation }
-manifesto-details-build-and-enable = oopbrontegnologieë en gemeenskappe wat die Manifes se beginsels ondersteun, te bou en te fasiliteer;
-manifesto-details-build-and-deliver = goeie produkte vir eindgebruikers te bou wat die Manifes se beginsels ondersteun;
-manifesto-details-use-the-mozilla = die { -brand-name-mozilla }-bates (intellektuele eiendom soos kopiereg en handelsmerke, infrastruktuur, fondse, reputasie) te gebruik om die Internet 'n oop platform te hou;
-manifesto-details-promote-models = modelle vir die skep van ekonomiese waarde van die openbare voordeel te bevorder; en
-manifesto-details-promote-the-mozilla = die beginsels van die { -brand-name-mozilla }-manifes te bevorder in openbare diskoers en in die Internetindustrie.
 manifesto-details-invitation = Uitnodiging
+manifesto-our-10-principles = <strong>Ons 10</strong> beginsels
+manifesto-read-the-entire-manifesto = Lees die volledige manifes

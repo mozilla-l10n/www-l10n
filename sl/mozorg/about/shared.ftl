@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/about/manifesto/details/
+### URL: https://www-dev.allizom.org/about/manifesto/
 
 about-shared-about-mozilla = O { -brand-name-mozilla(sklon: "mestnik") }
 about-shared-mission = Poslanstvo

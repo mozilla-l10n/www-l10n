@@ -5,9 +5,21 @@
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
 
-# HTML page title
+# HTML page title & main page heading
 manifesto-the-mozilla-manifesto = Manifeste { -brand-name-mozilla } oo
 manifesto-the-internet-must-enrich = Enternet oo ina foti alɗinde nguurndameeje aadeeji kala.
+manifesto-details-introduction = Naatirka
+manifesto-details-the-internet-is-becoming = Geɗal Enternet e nguurndam men nani tan ɓeydoo mawnude.
+manifesto-details-the-goals-for = Paandaaje Manifesto oo ko:
+manifesto-details-speak-to-people = haaldu e yimɓe so ɓe njogii walla so ɓe ngalaa cakkital karallaagal;
+manifesto-details-principles = Piɓle
+
+## Obsolete strings (expire 2026-09-10)
+
+manifesto-details-the-mozilla-manifesto = Manifeste { -brand-name-mozilla } oo
+manifesto-details-the-internet-is-integral = Geese ko feccere timmunde nguurndam kesam—coktirgal e jaŋde, kabrondiral, jotondiral, business, weytaare e renndo e mbaadi kuɓtinndi
+manifesto-details-the-internet-is-global = Geese ko renndo huɓtidinngo kattanɗe potɗe heddaade udditiiɗe e keɓiiɗe
+manifesto-details-the-internet-must = Enternet oo ina foti alɗinde nguurndameeje aadeeji kala.
 manifesto-principle-1 = Fiɓnde1
 manifesto-principle-2 = Fiɓnde 2
 manifesto-principle-3 = Fiɓnde 3
@@ -20,12 +32,3 @@ manifesto-principle-9 = Fiɓnde 9
 manifesto-principle-10 = Fiɓnde 10
 manifesto-our-10-principles = <strong>10 amen</strong>Piɓle
 manifesto-read-the-entire-manifesto = Tar manifeste oo fof
-manifesto-details-the-mozilla-manifesto = Manifeste { -brand-name-mozilla } oo
-manifesto-details-introduction = Naatirka
-manifesto-details-the-internet-is-becoming = Geɗal Enternet e nguurndam men nani tan ɓeydoo mawnude.
-manifesto-details-the-goals-for = Paandaaje Manifesto oo ko:
-manifesto-details-speak-to-people = haaldu e yimɓe so ɓe njogii walla so ɓe ngalaa cakkital karallaagal;
-manifesto-details-principles = Piɓle
-manifesto-details-the-internet-is-integral = Geese ko feccere timmunde nguurndam kesam—coktirgal e jaŋde, kabrondiral, jotondiral, business, weytaare e renndo e mbaadi kuɓtinndi
-manifesto-details-the-internet-is-global = Geese ko renndo huɓtidinngo kattanɗe potɗe heddaade udditiiɗe e keɓiiɗe
-manifesto-details-the-internet-must = Enternet oo ina foti alɗinde nguurndameeje aadeeji kala.

@@ -5,11 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
 
-# HTML page title
+# HTML page title & main page heading
 manifesto-the-mozilla-manifesto = Манифестот на { -brand-name-mozilla }
-manifesto-our-10-principles = <strong>Нашите 10</strong> принципи
-manifesto-read-the-entire-manifesto = Целиот текст на манифестот
-manifesto-details-the-mozilla-manifesto = Манифестот на { -brand-name-mozilla }
 manifesto-details-introduction = Вовед
 manifesto-details-the-internet-is-becoming = Интернет станува сѐ позначаен дел од нашите животи.
 manifesto-details-the-mozilla-project-global = Проектот { -brand-name-mozilla } е глобална заедница од луѓе кои веруваат дека отвореноста, иновациите и можностите се клучни за понатамошното зачувување на здравјето на Интернетот. Работиме заедно од 1998 година за да се осигураме дека Интернетот се развива на начин што ќе им носи корист на сите. Најпознати сме по создавањето на прелистувачот { -brand-name-mozilla } { -brand-name-firefox }.
@@ -20,6 +17,18 @@ manifesto-details-speak-to-people = да разговара со луѓето б
 manifesto-details-make-mozilla-contributors = да ги направи помагачите на { -brand-name-mozilla } горди за тоа што го прават и да нѐ мотивира да продолжиме; и
 manifesto-details-provide-a-framework = да обезбеди рамка за други луѓе да ја можат да ја шираат оваа идеја за Интернет.
 manifesto-details-principles = Принципи
+manifesto-details-transparent-community = Транспарентните процеси во заедницата промовираат учество, одговорност и доверба.
+manifesto-details-advancing-the = Ширење на манифестот на { -brand-name-mozilla }
+manifesto-details-mozilla-foundation = Ветување на { -brand-name-mozilla-foundation }
+manifesto-details-build-and-enable = градиме и овозможуваме технологии базирани на отворен код и заедници што ги поддржуваат принципите на манифестот;
+manifesto-details-build-and-deliver = градиме и испорачуваме одлични потрошувачки производи што ги поддржуваат принципите на манифестот;
+manifesto-details-use-the-mozilla = користиме имотот на { -brand-name-mozilla } (авторските права и трговските марки, инфраструктурата, финансиските средства и репутацијата) за да го зачуваме Интернетот како отворена платформа;
+manifesto-details-promote-models = промовираме модели за создавање на економски вредности како јавно добро; и
+manifesto-details-promote-the-mozilla = промовираме принципите на манифестот на { -brand-name-mozilla } во јавната дебата и во рамките на интернет индустријата.
+
+## Obsolete strings (expire 2026-09-10)
+
+manifesto-details-the-mozilla-manifesto = Манифестот на { -brand-name-mozilla }
 manifesto-details-the-internet-is-integral = Интернетот е составен дел на модерниот живот, клучна компонента во образованието, комуникацијата, соработката, бизнисот, забавата и општеството во целина.
 manifesto-details-the-internet-is-global = Интернетот е глобален јавен ресурс што мора да остане отворен и пристапен.
 manifesto-details-the-internet-must = Интернетот мора да ги збогатува животите на поединците.
@@ -27,15 +36,9 @@ manifesto-details-individuals-security = Личната безбедност и 
 manifesto-details-individuals-must = Поединците мора да имаат можност да го обликуваат Интернет и своето доживување на него.
 manifesto-details-the-effectiveness = Ефективноста на Интернетот како јавен ресурс зависи од интероперабилноста (протоколи, формати на податоци, содржина, иновациите и децентрализираното учество низ целиот свет.
 manifesto-details-free-and-open = Слободниот софтвер и софтверот со отворен код го промовираат развојот на Интернетот како јавен ресурс.
-manifesto-details-transparent-community = Транспарентните процеси во заедницата промовираат учество, одговорност и доверба.
 manifesto-details-commercial-involvement = Вклучувањето на компаниите во развојот на Интернет може да биде корисно, но нужност е да се одржува рамнотежа помеѓу корпоративниот профит и јавниот интерес.
 manifesto-details-magnifying-the = Зголемувањето на аспеките на Интернетот како јавно добро е важна цел, во која вреди да се инвестира време, внимание и посветеност.
-manifesto-details-advancing-the = Ширење на манифестот на { -brand-name-mozilla }
 manifesto-details-there-are-many = Постојат различни начини за ширење на принцпите на манифестот на { -brand-name-mozilla }. Добредојден е широк спектар на актинвости и ја очекуваме истата креативност што учесниците во { -brand-name-mozilla } покажале во другите делови на проектот. За поединците кои не се длабоко вклучени во проектот { -brand-name-mozilla }, еден основен и многу ефективен начин да го поддржат манифестот е да го користат { -brand-name-mozilla } { -brand-name-firefox } и другите производи кои ги отелотворуваат принципите на манифестот.
-manifesto-details-mozilla-foundation = Ветување на { -brand-name-mozilla-foundation }
-manifesto-details-build-and-enable = градиме и овозможуваме технологии базирани на отворен код и заедници што ги поддржуваат принципите на манифестот;
-manifesto-details-build-and-deliver = градиме и испорачуваме одлични потрошувачки производи што ги поддржуваат принципите на манифестот;
-manifesto-details-use-the-mozilla = користиме имотот на { -brand-name-mozilla } (авторските права и трговските марки, инфраструктурата, финансиските средства и репутацијата) за да го зачуваме Интернетот како отворена платформа;
-manifesto-details-promote-models = промовираме модели за создавање на економски вредности како јавно добро; и
-manifesto-details-promote-the-mozilla = промовираме принципите на манифестот на { -brand-name-mozilla } во јавната дебата и во рамките на интернет индустријата.
 manifesto-details-invitation = Покана
+manifesto-our-10-principles = <strong>Нашите 10</strong> принципи
+manifesto-read-the-entire-manifesto = Целиот текст на манифестот

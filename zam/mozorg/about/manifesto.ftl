@@ -5,8 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
 
-# HTML page title
+# HTML page title & main page heading
 manifesto-the-mozilla-manifesto = -làb yêts { -brand-name-mozilla }
+
+## Obsolete strings (expire 2026-09-10)
+
+manifesto-details-the-mozilla-manifesto = -làb yêts { -brand-name-mozilla }
 manifesto-principle-5 = Dì?z gây
 manifesto-read-the-entire-manifesto = -làb ré=tá Yêts ná Mozilla
-manifesto-details-the-mozilla-manifesto = -làb yêts { -brand-name-mozilla }

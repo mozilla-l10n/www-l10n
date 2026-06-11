@@ -5,8 +5,16 @@
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
 
-# HTML page title
+# HTML page title & main page heading
 manifesto-the-mozilla-manifesto = Manifesto { -brand-name-mozilla }
+manifesto-pledge-for-a-healthy-internet = Engouestl evit ur genrouedad yac'h
+manifesto-details-introduction = Digoradur
+manifesto-details-principles = Pennaennoù
+
+## Obsolete strings (expire 2026-09-10)
+
+manifesto-details-the-mozilla-manifesto = Manifesto { -brand-name-mozilla }
+manifesto-details-invitation = Pedadenn
 manifesto-principle-1 = Pennaenn 1
 manifesto-principle-2 = Pennaenn 2
 manifesto-principle-3 = Pennaenn 3
@@ -17,11 +25,5 @@ manifesto-principle-7 = Pennaenn 7
 manifesto-principle-8 = Pennaenn 8
 manifesto-principle-9 = Pennaenn 9
 manifesto-principle-10 = Pennaenn 10
-# Main page sub-heading
-manifesto-pledge-for-a-healthy-internet = Engouestl evit ur genrouedad yac'h
-manifesto-show-your-support = Diskouez ho skoazell
 manifesto-our-10-principles = <strong>Hon 10</strong> pennaenn
-manifesto-details-the-mozilla-manifesto = Manifesto { -brand-name-mozilla }
-manifesto-details-introduction = Digoradur
-manifesto-details-principles = Pennaennoù
-manifesto-details-invitation = Pedadenn
+manifesto-show-your-support = Diskouez ho skoazell
