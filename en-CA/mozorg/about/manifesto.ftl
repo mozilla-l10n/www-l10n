@@ -47,6 +47,22 @@ manifesto-details-build-and-deliver = build and deliver great consumer products 
 manifesto-details-use-the-mozilla = use the { -brand-name-mozilla } assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the internet an open platform;
 manifesto-details-promote-models = promote models for creating economic value for the public benefit; and
 manifesto-details-promote-the-mozilla = promote the { -brand-name-mozilla } Manifesto principles in public discourse and within the internet industry.
+manifesto-written-in-2007 = The { -brand-name-mozilla } Manifesto, written in 2007, outlines our core principles. The Pledge for a Healthy Internet was written as an addendum to the Manifesto in 2017 to reflect our deep commitment to ensuring the internet serves the needs of humans and humanity as a whole. Together, these two documents guide all work across { -brand-name-mozilla } — what we build, what we fund and how we work together as a community.
+manifesto-mozillas-pledge = { -brand-name-mozilla }'s Pledge
+manifesto-across-the-mozilla-project = Across the { -brand-name-mozilla } Project and every organization in the { -brand-name-mozilla } family, we pledge to support the { -brand-name-mozilla } Manifesto in its activities. Specifically, we will:
+manifesto-we-need-you = We Need You To Advance the Manifesto
+manifesto-an-internet-with-these-v2 = An internet with these qualities will not come to life on its own. People and organizations must embed these aspirations into internet technology and into the human experience with the internet. The { -brand-name-mozilla } Manifesto and Addendum represent { -brand-name-mozilla }'s commitment to advancing these aspirations. { -brand-name-mozilla } works with people and organizations everywhere who want to make the internet an even better place for everyone.
+manifesto-our-commitments = Our Commitments
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+#   $mozai_link (url) - link to https://www.mozilla.ai
+#   $mozvc_link (url) - link to https://mozilla.vc
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-if-you-share-this-goal = If you share this goal, let us know how we can help. <a { $github_link }>We create open source software</a> you can build on. <a { $mofo_link }>We fund fellows and incubate projects</a> aimed at creating a better future online. <a { $mozai_link }>We build open source AI tools</a> that give developers choice — and help them save money. <a { $mozvc_link }>We invest in responsible tech startups</a>. We <a { $mdc_link }>run a global community</a> for fair data exchange. We <a { $festival_link }>host a yearly global gathering</a> for people building anything and everything to advance the Manifesto. And, of course, we make <a { $firefox_link }>{ -brand-name-firefox }</a> and <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. All of this is aimed at helping people make the internet a healthy place.
 
 ## Obsolete strings (expire 2026-09-10)
 
