@@ -47,9 +47,11 @@ manifesto-details-build-and-deliver = wjelicne produkty za kupcow napóraś a k 
 manifesto-details-use-the-mozilla = aktiwa { -brand-name-mozilla } wužywaś (intelektualne swójstwo ako na pś. awtorstwa a wikowe marki, infrastruktura, financielne srědki a mě), aby my internet ako wótwórjonu platformu wobchowali;
 manifesto-details-promote-models = modele za napóranje ekonomiskich gódnotow k zjawnemu wužytkoju spěchowaś; a
 manifesto-details-promote-the-mozilla = principy manifesta { -brand-name-mozilla } w zjawnym diskursu a w internetnej branžy spěchowaś.
+manifesto-written-in-2007 = Manifest { -brand-name-mozilla }, napisany w lěśe 2007, naše głowne principy wobcerjujo. Zlubjenje za strowy internet jo se napisało ako dodank k manifestoju w lěśe 2017, aby naš dłymoki zawězk wótbłyšćujo, aby zawěsćił, až internet luźam a cłowjestwoju ako cełk słužy. Gromaźe toś tej dwa dokumenta źěło pśez { -brand-name-mozilla } wóźitej – což wuwijamy, což financěrujomy a kak ako zgromaźeństwo gromaźe źěłamy.
 manifesto-mozillas-pledge = Zlubjenje { -brand-name-mozilla }
 manifesto-across-the-mozilla-project = Pśez projekt { -brand-name-mozilla } a pśez kuždu organizaciju w swójźbje { -brand-name-mozilla } lubimy, manifest { -brand-name-mozilla } w jogo aktiwity pódpěraś. Pśedewšym buźomy:
 manifesto-we-need-you = Trjebamy was, aby manifest doprědka pśinjasli
+manifesto-an-internet-with-these-v2 = Internet z toś tymi kwalitami wót samego njenastawa. Luźe a organizacije muse toś te cele k internetnej technologiji a k cłowjeskemu dožywjenjeju z internetom pśinosowaś. Manifest { -brand-name-mozilla } a pśidank reprezentěrujotej angažěrowanosć { -brand-name-mozilla } za rozšyrjowanje toś tych celow. { -brand-name-mozilla } z luźimi a organizacijami wšuźi funkcioněrujo, kótarež kśě internet k hyšći lěpšemu městnoju za kuždego cyniś.
 manifesto-our-commitments = Naše zawězki
 
 ## Obsolete strings (expire 2026-09-10)
