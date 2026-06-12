@@ -47,6 +47,12 @@ manifesto-details-build-and-deliver = prachtige konsuminteprodukten meitsje en o
 manifesto-details-use-the-mozilla = de middelen fan { -brand-name-mozilla } (yntellektueel eigendom lykas kopyrjochten en hannelsmerken, ynfrastruktuer, fûnsen, en reputaasje) brûke om it ynternet in iepen platfoarm te hâlden);
 manifesto-details-promote-models = modellen befoarderje foar it meitsjen fan ekonomyske wearde foar publyk foardiel; en
 manifesto-details-promote-the-mozilla = de prinsipen fan it { -brand-name-mozilla }-manifest befoarderje yn publike petearen en yn de ynternetyndustry.
+manifesto-written-in-2007 = It { -brand-name-mozilla } Manifesto, skreaun yn 2007, sketst ús kearnprinsipen. De belofte foar in sûn ynternet waard skreaun as in tafoeging oan it Manifesto yn 2017 om ús djippe ynset te reflektearjen om te soargjen dat it ynternet foldocht oan de behoeften fan minsken en de minskheid as gehiel. Tegearre begeliede dizze twa dokuminten al it wurk yn { -brand-name-mozilla } – wat wy bouwe, wat wy finansiere en hoe’t wy as mienskip gearwurkje.
+manifesto-mozillas-pledge = { -brand-name-mozilla }’s belofte
+manifesto-across-the-mozilla-project = Yn it hiele { -brand-name-mozilla }-projekt en elke organisaasje yn de { -brand-name-mozilla }-famylje, sizze wy ta it { -brand-name-mozilla } Manifesto te stypjen yn syn aktiviteiten. Spesifyk sille wy:
+manifesto-we-need-you = Wy hawwe jo nedich om it Manifesto te befoarderjen
+manifesto-an-internet-with-these-v2 = In ynternet mei dizze kwaliteiten ûntstiet net samar. Minsken en organisaasjes moatte dizze aspiraasjes, sawol yn ynternettechnology as ek yn it yndividuele ûnderfinen, yn it ynternet yntegrearje. { -brand-name-mozilla }’s Manifesto en it addendum stiet foar { -brand-name-mozilla }’s ynset foar dizze doelen. Wy wolle gearwurkje mei minsken en organisaasjes fan oer de hiele wrâld dy’t dizze doelen diele, om it ynternet in better plak foar elkenien te meitsjen.
+manifesto-our-commitments = Us beloften
 
 ## Obsolete strings (expire 2026-09-10)
 
