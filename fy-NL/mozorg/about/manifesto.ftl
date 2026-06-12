@@ -53,6 +53,16 @@ manifesto-across-the-mozilla-project = Yn it hiele { -brand-name-mozilla }-proje
 manifesto-we-need-you = Wy hawwe jo nedich om it Manifesto te befoarderjen
 manifesto-an-internet-with-these-v2 = In ynternet mei dizze kwaliteiten ûntstiet net samar. Minsken en organisaasjes moatte dizze aspiraasjes, sawol yn ynternettechnology as ek yn it yndividuele ûnderfinen, yn it ynternet yntegrearje. { -brand-name-mozilla }’s Manifesto en it addendum stiet foar { -brand-name-mozilla }’s ynset foar dizze doelen. Wy wolle gearwurkje mei minsken en organisaasjes fan oer de hiele wrâld dy’t dizze doelen diele, om it ynternet in better plak foar elkenien te meitsjen.
 manifesto-our-commitments = Us beloften
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+#   $mozai_link (url) - link to https://www.mozilla.ai
+#   $mozvc_link (url) - link to https://mozilla.vc
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-if-you-share-this-goal = As jo dit doel diele, lit ús dan witte hoe’t wy helpe kinne. <a { $github_link }>Wy meitsje iepenboarnesoftware</a> dêr’t jo op bouwe kinne. <a { $mofo_link }>Wy finansiere lyktinkenden en stypje projekten</a> dy’t rjochte binne op it meitsjen fan in bettere takomst online. <a { $mozai_link }>Wy bouwe iepen-boarne-AI-ark</a> dy’t ûntwikkelers kar jouwe – en har helpe jild te besparjen. <a { $mozvc_link }>Wy ynvestearje yn ferantwurdlike technyske start-ups</a>. Wy <a { $mdc_link }>rinne in wrâldwide mienskip</a> foar earlike gegevensútwikseling. Wy <a { $festival_link }>organisearje in jierlikse wrâldwide gearkomste</a> foar minsken dy’t fan alles bouwe om it Manifesto te befoarderjen. En, fansels, meitsje wy <a { $firefox_link }>{ -brand-name-firefox }</a> en <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Dit alles is bedoeld om minsken te helpen it ynternet in sûn plak te meitsjen.
 
 ## Obsolete strings (expire 2026-09-10)
 
