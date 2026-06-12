@@ -47,6 +47,7 @@ manifesto-details-build-and-deliver = vom construi și vom oferi produse de cons
 manifesto-details-use-the-mozilla = vom folosi activele { -brand-name-mozilla } (proprietatea intelectuală, cum ar fi drepturile de reproducere și mărcile comerciale, infrastructura, fondurile și reputația) pentru a păstra internetul o platformă deschisă;
 manifesto-details-promote-models = vom promova modele pentru a crea valori economice în beneficiul public; și
 manifesto-details-promote-the-mozilla = vom promova principiile Manifestului { -brand-name-mozilla } în discursul public și în cadrul industriei internetului.
+manifesto-our-commitments = Angajamentele noastre
 
 ## Obsolete strings (expire 2026-09-10)
 
