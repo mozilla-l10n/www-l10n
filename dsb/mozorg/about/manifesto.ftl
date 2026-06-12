@@ -53,6 +53,16 @@ manifesto-across-the-mozilla-project = Pśez projekt { -brand-name-mozilla } a p
 manifesto-we-need-you = Trjebamy was, aby manifest doprědka pśinjasli
 manifesto-an-internet-with-these-v2 = Internet z toś tymi kwalitami wót samego njenastawa. Luźe a organizacije muse toś te cele k internetnej technologiji a k cłowjeskemu dožywjenjeju z internetom pśinosowaś. Manifest { -brand-name-mozilla } a pśidank reprezentěrujotej angažěrowanosć { -brand-name-mozilla } za rozšyrjowanje toś tych celow. { -brand-name-mozilla } z luźimi a organizacijami wšuźi funkcioněrujo, kótarež kśě internet k hyšći lěpšemu městnoju za kuždego cyniś.
 manifesto-our-commitments = Naše zawězki
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+#   $mozai_link (url) - link to https://www.mozilla.ai
+#   $mozvc_link (url) - link to https://mozilla.vc
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-if-you-share-this-goal = Jolic toś ten cel z nami źěliśo, dajśo nam k wěsći, kak móžomy pomagaś. <a { $github_link }>Napórajomy software wótwórjonego žrědła</a>, kótaruž móžośo sobu wuwijaś. <a { $mofo_link }>Financěrujomy partnarje a wumyslujomy projekty</a>, kótarychž zaměr jo, lěpšy pśichod online napóraś. <a { $mozai_link }>Wuwijamy rědy KI wótwórjonego žrědła</a>, kótarež wuwijarjam wólbu dawaju – a jim pomagaju, pjenjeze zažariś. <a { $mozvc_link }>Inwestěrujomy do nowych zagronitych technologiskich pśedewześćow</a>. <a { $mdc_link }>Wuźaržujomy globalne zgromaźeństwo</a> za fairnu wuměnu datow. <a { $festival_link }>Organizěrujomy kuždolětne globalne makanje</a> za luźi, kótarež něco wuwijaju, aby manifest doprědka pśinjasli. A, se wě, wuwijamy <a { $firefox_link }>{ -brand-name-firefox }</a> a <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. To wšykno jo na to wusměrjone, luźam pomagaś, internet k strowemu městnoju cyniś.
 
 ## Obsolete strings (expire 2026-09-10)
 
