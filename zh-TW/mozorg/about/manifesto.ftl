@@ -47,11 +47,11 @@ manifesto-details-build-and-deliver = 開發、提供符合此宣言理念的優
 manifesto-details-use-the-mozilla = 以 { -brand-name-mozilla } 相關智財（如版權及商標）、組織、資金及聲譽方面的資產，讓網際網路平台保持開放；
 manifesto-details-promote-models = 倡導為公眾利益創造經濟價值的模式，並且
 manifesto-details-promote-the-mozilla = 於公開場合及網際網路產業中宣揚 { -brand-name-mozilla } 宣言。
-manifesto-written-in-2007 = { -brand-name-mozilla } 撰寫於 2007 年的宣言概述了我們的核心原則。網際網路健康誓言於 2017 年作為宣言的增補條款寫成以展現我們確保網際網路能滿足人類與全人類的需求的堅定承諾。兩份文件一起指導了 { -brand-name-mozilla } 的所有合作內容 — 我們要打造什麼、資助什麼以及社群成員如何合作。
+manifesto-written-in-2007 = 撰寫於 2007 年的 { -brand-name-mozilla } 宣言概述了我們的核心原則。而網際網路健康宣言則於 2017 年作為增修條款寫成，以展現我們要確保網際網路能滿足全人類需求的堅定承諾。兩份文件一起指導 { -brand-name-mozilla } 的所有工作 — 我們要打造什麼、資助什麼，以及社群要如何合作。
 manifesto-mozillas-pledge = { -brand-name-mozilla } 的誓言
 manifesto-across-the-mozilla-project = 我們承諾在整個 { -brand-name-mozilla } 專案及 { -brand-name-mozilla } 家族中的所有組織推行活動，以支持 { -brand-name-mozilla } 宣言。詳細來說我們將：
 manifesto-we-need-you = 我們需要您來讓宣言更進一步
-manifesto-an-internet-with-these-v2 = 自己無法擁有具備這些品質的網際網路。個人與組織必須將這些渴望放進網際網路技術與上網體驗中。 { -brand-name-mozilla } 宣言與增修條款展現了 { -brand-name-mozilla } 對達成這些抱負的承諾。 { -brand-name-mozilla } 與世界各地想要讓網際網路對每個人都變得更好的人們與組織合作。
+manifesto-an-internet-with-these-v2 = 這樣的網際網路並不會自動出現。每個人與組織都必須將他們的渴望放進網路科技及上網體驗。{ -brand-name-mozilla } 宣言及增修條款展現了 { -brand-name-mozilla } 對這些抱負的承諾，{ -brand-name-mozilla } 致力於與世界各地有相同目標的人們與組織一同合作，讓網際網路成為對每一個人都變得更好的地方。
 manifesto-our-commitments = 我們的承諾
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla
