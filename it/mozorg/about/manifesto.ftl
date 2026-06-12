@@ -47,6 +47,10 @@ manifesto-details-build-and-deliver = sviluppare e distribuire ottimi prodotti �
 manifesto-details-use-the-mozilla = utilizzare le risorse di { -brand-name-mozilla } (la proprietà intellettuale come i diritti d’autore del marchio, le infrastrutture, i fondi e la reputazione) per mantenere il carattere di piattaforma “aperta” di Internet;
 manifesto-details-promote-models = promuovere modelli per creare valore economico da cui tutti possano trarre vantaggio e
 manifesto-details-promote-the-mozilla = promuovere i principi del Manifesto { -brand-name-mozilla } nelle conferenze e all’interno dell’industria legata a Internet.
+manifesto-written-in-2007 = Il Manifesto { -brand-name-mozilla }, scritto nel 2007, definisce i nostri principi fondamentali. L’impegno per un Internet in salute è stato aggiunto al Manifesto nel 2017 per testimoniare il nostro profondo impegno affinché Internet risponda ai bisogni delle persone e dell’umanità nel suo complesso. Insieme, questi due documenti guidano tutte le attività di { -brand-name-mozilla }: ciò che realizziamo, ciò che finanziamo e il modo in cui collaboriamo come comunità.
+manifesto-mozillas-pledge = Impegno di { -brand-name-mozilla }
+manifesto-across-the-mozilla-project = All'interno del Progetto { -brand-name-mozilla } e di tutte le organizzazioni che fanno parte della famiglia { -brand-name-mozilla }, ci impegniamo a sostenere il Manifesto { -brand-name-mozilla } in ogni attività. In particolare, ci impegniamo a:
+manifesto-we-need-you = Abbiamo bisogno del tuo aiuto per far crescere il Manifesto
 
 ## Obsolete strings (expire 2026-09-10)
 
