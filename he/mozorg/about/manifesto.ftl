@@ -18,6 +18,16 @@ manifesto-across-the-mozilla-project = ברחבי מיזם { -brand-name-mozilla
 manifesto-we-need-you = אנחנו צריכים אותך כדי לקדם את המניפסט
 manifesto-an-internet-with-these-v2 = אינטרנט בעל תכונות אלה לא יתעורר לחיים מעצמו. אנשים וארגונים חייבים להטמיע שאיפות אלה בטכנולוגיית האינטרנט ובחוויה האנושית עם האינטרנט. המניפסט והנספח של { -brand-name-mozilla } מייצגים את מחויבותה של { -brand-name-mozilla } לקידום שאיפות אלה. { -brand-name-mozilla } עובדת עם אנשים וארגונים בכל מקום שרוצים להפוך את האינטרנט למקום טוב עוד יותר עבור כולם.
 manifesto-our-commitments = המחויבויות שלנו
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+#   $mozai_link (url) - link to https://www.mozilla.ai
+#   $mozvc_link (url) - link to https://mozilla.vc
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-if-you-share-this-goal = אם אתם חולקים את המטרה הזו, ספרו לנו כיצד נוכל לעזור. <a { $github_link }>אנו יוצרים תוכנות קוד פתוח</a> שתוכלו לבנות עליהן. <a { $mofo_link }>אנו מממנים עמיתים ומפתחים מיזמים</a> שמטרתם ליצור עתיד טוב יותר באינטרנט. <a { $mozai_link }>אנו בונים כלי בינה מלאכותית בקוד פתוח</a> המעניקים למפתחים בחירה - ועוזרים להם לחסוך כסף. <a { $mozvc_link }>אנו משקיעים בחברות הזנק טכנולוגיים אחראיים</a>. אנו <a { $mdc_link }>מנהלים קהילה עולמית</a> לחילופי נתונים הוגנים. אנו <a { $festival_link }>מארחים מפגש עולמי שנתי</a> לאנשים שבונים כל דבר כדי לקדם את המניפסט. וכמובן, אנו יוצרים את <a { $firefox_link }>{ -brand-name-firefox }</a> ואת  <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. כל זה נועד לעזור לאנשים להפוך את האינטרנט למקום בריא.
 
 ## Obsolete strings (expire 2026-09-10)
 
