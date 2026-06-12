@@ -49,7 +49,7 @@ manifesto-details-promote-models = 倡導為公眾利益創造經濟價值的模
 manifesto-details-promote-the-mozilla = 於公開場合及網際網路產業中宣揚 { -brand-name-mozilla } 宣言。
 manifesto-written-in-2007 = { -brand-name-mozilla } 撰寫於 2007 年的宣言概述了我們的核心原則。網際網路健康誓言於 2017 年作為宣言的增補條款寫成以展現我們確保網際網路能滿足人類與全人類的需求的堅定承諾。兩份文件一起指導了 { -brand-name-mozilla } 的所有合作內容 — 我們要打造什麼、資助什麼以及社群成員如何合作。
 manifesto-mozillas-pledge = { -brand-name-mozilla } 的誓言
-manifesto-across-the-mozilla-project = 我們承諾在 { -brand-name-mozilla } 專案及 { -brand-name-mozilla } 大家庭中的所有組織推行活動將支持 { -brand-name-mozilla } 宣言。詳細來說我們將:
+manifesto-across-the-mozilla-project = 我們承諾在整個 { -brand-name-mozilla } 專案及 { -brand-name-mozilla } 家族中的所有組織推行活動，以支持 { -brand-name-mozilla } 宣言。詳細來說我們將：
 manifesto-we-need-you = 我們需要您來讓宣言更進一步
 manifesto-an-internet-with-these-v2 = 自己無法擁有具備這些品質的網際網路。個人與組織必須將這些渴望放進網際網路技術與上網體驗中。 { -brand-name-mozilla } 宣言與增修條款展現了 { -brand-name-mozilla } 對達成這些抱負的承諾。 { -brand-name-mozilla } 與世界各地想要讓網際網路對每個人都變得更好的人們與組織合作。
 manifesto-our-commitments = 我們的承諾
@@ -62,7 +62,7 @@ manifesto-our-commitments = 我們的承諾
 #   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
 #   $firefox_link (url) - link to https://www.firefox.com/
 #   $thunderbird_link (url) - link to https://www.thunderbird.net/
-manifesto-if-you-share-this-goal = 若您有同樣的目標請讓我們知道可以幫忙什麼。 <a { $github_link }>我們打造開放原始碼軟體</a>您可以在此基礎上繼續開發。 <a { $mofo_link }>我們資助夥伴並培養專案</a> 以打造更美好的線上未來。 <a { $mozai_link }>我們打造開放原始碼的 AI 工具</a>讓開發者選擇並幫助他們省錢。 <a { $mozvc_link }>我們投資於有責任感的科技創業公司</a>。我們<a { $mdc_link }>經營著一個全球性的社群</a>來進行公平的資料交換。我們<a { $festival_link }>會舉辦一次年度全球聚會</a>讓那些正在打造任何東西都能推動宣言發展的人們。當然我們也有 <a { $firefox_link }>{ -brand-name-firefox }</a> 與 <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>。所有這一切都旨在幫助人們讓網際網路變成一個健康的地方。
+manifesto-if-you-share-this-goal = 若您有同樣的目標，請讓我們知道可以幫忙什麼。<a { $github_link }>我們打造開放原始碼軟體</a>您可以在此基礎上繼續開發。<a { $mofo_link }>我們資助夥伴並育成專案</a>以打造網際網路環境更美好的未來。<a { $mozai_link }>我們打造開放原始碼的 AI 工具</a>，提供開發者不同選擇並幫助他們省錢。<a { $mozvc_link }>我們投資於有責任感的科技新創</a>。我們<a { $mdc_link }>經營一個全球性的社群</a>來公平地進行資料交換。我們為了那些正在打造推動宣言發展的人們<a { $festival_link }>每年舉辦全球性聚會</a>。當然，我們也有 <a { $firefox_link }>{ -brand-name-firefox }</a> 與 <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>。這一切都是要幫助人們，讓網際網路變成一個健康的地方。
 
 ## Obsolete strings (expire 2026-09-10)
 
