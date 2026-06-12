@@ -47,6 +47,22 @@ manifesto-details-build-and-deliver = producer e delivrar grande productos de co
 manifesto-details-use-the-mozilla = usar le ressources de { -brand-name-mozilla } (proprietate intellectual tal como copyrights e trademarks, infrastructura, fundos, e fama) pro mantener Internet un tribuna aperte;
 manifesto-details-promote-models = promover modellos pro crear valor economic pro public beneficio; e
 manifesto-details-promote-the-mozilla = promover le principios del Manifesto de { -brand-name-mozilla } in public discursos e in le industria de Internet.
+manifesto-written-in-2007 = Le Manifesto de { -brand-name-mozilla }, scripte in le 2007, delinea nostre principios essential. Le "Carta pro un internet san" era scribite como addendum al Manifesto in 2017 pro reflecter nostre profunde dedication a assecurar que internet servi le besonios de humanos e del humanitate integre. Insimul, iste duo documentos guida tote le labor a transverso { -brand-name-mozilla }: lo que nos produce, lo que nos financia e nostre modo de laborar insimul como communitate.
+manifesto-mozillas-pledge = Le carta de { -brand-name-mozilla }
+manifesto-across-the-mozilla-project = A transverso le projecto { -brand-name-mozilla } e cata organisation in le familia { -brand-name-mozilla }, nos promitte de supportar le Manifesto de { -brand-name-mozilla } in su activitates. Specificamente, nos vole:
+manifesto-we-need-you = Nos te besonia pro facer progreder le Manifesto
+manifesto-an-internet-with-these-v2 = Un internet con iste qualitates non prendera vita per se sol. Le Manifesto e le Addendum de { -brand-name-mozilla } representa le dedication de { -brand-name-mozilla } al progresso de iste aspirationes. { -brand-name-mozilla } ubique collabora con personas e organisationes qui vole render internet un posto anque melior pro omnes.
+manifesto-our-commitments = Nostre dedicationes
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+#   $mozai_link (url) - link to https://www.mozilla.ai
+#   $mozvc_link (url) - link to https://mozilla.vc
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-if-you-share-this-goal = Si tu condivide iste objectivo, face nos saper nostre modo de poter adjutar. <a { $github_link }>Nos disveloppa software open-source</a>sur que tu pote producer. <a { $mofo_link }>Nos financia collegas e incuba projectos</a> mirate a crear un futuro melior online. <a { $mozai_link }>Nos produce utensiles del IA open-source</a> que da al disveloppatores optiones, e les adjuta a sparniar moneta. <a { $mozvc_link }>Nos investi in startups technologic responsabile</a>. Nos <a { $mdc_link }>gere un communitate mundial</a> pro excambiar belle datos. Nos <a { $festival_link }>Nos <a { $festival_link }>organisa annualmente un meeting mundial</a> pro personas qui produce qualcosa e omne cosa pro facer progreder le Manifesto. E, obviemente, nos produce <a { $firefox_link }>{ -brand-name-firefox }</a> e <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Tote isto es mirate a adjutar personas pro render internet un posto san.
 
 ## Obsolete strings (expire 2026-09-10)
 
