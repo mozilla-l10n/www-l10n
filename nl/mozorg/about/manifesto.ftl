@@ -47,6 +47,12 @@ manifesto-details-build-and-deliver = prachtige consumentenproducten die de prin
 manifesto-details-use-the-mozilla = de middelen van { -brand-name-mozilla } (intellectueel eigendom zoals copyrights en handelsmerken, infrastructuur, fondsen en reputatie) gebruiken om het internet een open platform te houden;
 manifesto-details-promote-models = modellen voor het maken van economische waarde voor het algemene belang bevorderen; en
 manifesto-details-promote-the-mozilla = de principes van het { -brand-name-mozilla }-manifest in publieke gesprekken en in de internetindustrie bekendmaken.
+manifesto-written-in-2007 = Het { -brand-name-mozilla } Manifesto, geschreven in 2007, schetst onze kernprincipes. De belofte voor een gezond internet (Pledge for a Healthy Internet) is in 2017 als een addendum bij het Manifesto geschreven en weerspiegelt onze diepe toewijding om ervoor te zorgen dat het internet in de behoeften van mensen en de mensheid als geheel voorziet. Samen zijn deze twee documenten richtinggevend voor al het werk in { -brand-name-mozilla } – wat we bouwen, wat we financieren en hoe we samenwerken als een gemeenschap.
+manifesto-mozillas-pledge = { -brand-name-mozilla }’s belofte
+manifesto-across-the-mozilla-project = Binnen het { -brand-name-mozilla }-project en in elke organisatie in de { -brand-name-mozilla }-familie beloven we het { -brand-name-mozilla } Manifesto te steunen in zijn activiteiten. Concreet zullen we:
+manifesto-we-need-you = We hebben u nodig om het Manifesto te bevorderen
+manifesto-an-internet-with-these-v2 = Een internet met deze kwaliteiten komt niet vanzelf tot stand. Mensen en organisaties moeten deze aspiraties in internettechnologie en in de menselijke ervaring met het internet verwerken. Het { -brand-name-mozilla } Manifesto en het addendum vertegenwoordigen { -brand-name-mozilla }’s toewijding aan het bevorderen van deze aspiraties. { -brand-name-mozilla } werkt met mensen en organisaties overal ter wereld die van het internet een nog betere plek willen maken voor iedereen.
+manifesto-our-commitments = Onze beloftes
 
 ## Obsolete strings (expire 2026-09-10)
 
