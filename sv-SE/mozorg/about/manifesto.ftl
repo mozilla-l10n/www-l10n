@@ -47,6 +47,12 @@ manifesto-details-build-and-deliver = bygga och leverera utmärkta konsumentprod
 manifesto-details-use-the-mozilla = använda { -brand-name-mozilla }s tillgångar (immaterialrättsliga tillgångar, som upphovsrätt och varumärken, infrastruktur, kapital och rykte) för att internet ska förbli en öppen plattform;
 manifesto-details-promote-models = främja modeller som skapar ekonomiskt värde till nytta för allmänheten; och
 manifesto-details-promote-the-mozilla = främja { -brand-name-mozilla }-manifestets grundsatser i öppna diskussioner och inom internetindustrin.
+manifesto-written-in-2007 = Manifestet för { -brand-name-mozilla }, skrivet 2007, beskriver våra kärnprinciper. Löftet för ett hälsosamt internet skrevs som ett tillägg till manifestet 2017 för att återspegla vårt djupa engagemang för att säkerställa att internet tillgodoser människors och mänsklighetens behov som helhet. Tillsammans vägleder dessa två dokument allt arbete inom { -brand-name-mozilla } — vad vi skapar, vad vi finansierar och hur vi arbetar tillsammans som en gemenskap.
+manifesto-mozillas-pledge = { -brand-name-mozilla }:s löfte
+manifesto-across-the-mozilla-project = Inom { -brand-name-mozilla }-projektet och i alla organisationer i { -brand-name-mozilla }-familjen lovar vi att stödja { -brand-name-mozilla }-manifestet i dess aktiviteter. Mer specifikt kommer vi att:
+manifesto-we-need-you = Vi behöver dig för att främja manifestet
+manifesto-an-internet-with-these-v2 = Ett internet med dessa egenskaper kommer inte att leva upp av sig självt. Människor och organisationer måste integrera dessa ambitioner i internettekniken och i den mänskliga upplevelsen av internet. Manifestet och tillägget till { -brand-name-mozilla } representerar { -brand-name-mozilla }:s engagemang för att främja dessa ambitioner. { -brand-name-mozilla } arbetar med människor och organisationer överallt som vill göra internet till en ännu bättre plats för alla.
+manifesto-our-commitments = Våra åtaganden
 
 ## Obsolete strings (expire 2026-09-10)
 
