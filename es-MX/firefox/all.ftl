@@ -44,6 +44,9 @@ firefox-all-download-esr-version = Descargar { $esr_version }
 firefox-all-esr-we-are-in-transition = Nos encontramos en el periodo de transición entre las versiones principales de ESR { $esr_next_major } y { $esr_current_major }.
 firefox-all-esr-when-there-is = Cuando hay una actualización de versión principal, siempre existe una superposición de algunas versiones secundarias de { -brand-name-firefox-esr } para permitir que quienes usan la versión anterior se preparen para migrar a la nueva.
 firefox-all-esr-if-you-choose = Si eliges descargar la versión ESR anterior, se actualizará automáticamente a la nueva cuando termine el periodo de transición.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Lee más sobre el <a { $attrs }>ciclo de lanzamientos de { -brand-name-firefox-esr }</a>.
 firefox-all-check-the-system-requirements = Revisar los requisitos del sistema
 firefox-all-release-notes = Informe de novedades
 firefox-all-source-code = Código fuente
@@ -57,6 +60,7 @@ firefox-all-test-your-sites-against = Pon a prueba tus sitios web con las nuevas
 firefox-all-count-on-stability-and = Disfruta de la estabilidad y la facilidad de uso de este navegador { -brand-name-firefox }, creado para la empresa.
 firefox-all-windows-installers-for = Instaladores de Windows para entornos corporativos que simplifican la configuración, la implantación y la gestión del navegador { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Instaladores ARM64/AArch64
+firefox-all-arm64-installers-optimized-v2 = Instaladores ARM64/AArch64 optimizados para computadoras con Windows y Linux.
 firefox-all-testflight = Regístrate para probar { -brand-name-firefox } para iOS con TestFlight
 firefox-all-product-send-link = Enviar un enlace de descarga a tu teléfono
 # Variables:
@@ -75,3 +79,5 @@ firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = iOS TestFlight { -brand-name-firefox }
+firefox-all-download-esr-115 = Descargar ESR 115
+firefox-all-note-unsupported = Nota: Si usas Windows 7, Windows 8, Windows 8.1 o macOS 10.12, 10.13 o 10.14, descarga ESR 115 para poder utilizar { -brand-name-firefox }.
