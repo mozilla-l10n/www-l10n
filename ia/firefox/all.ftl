@@ -8,7 +8,7 @@
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Discarga { -brand-name-firefox } in interlingua IALA (ia) e plus que 90 altere linguas
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access-v2 = Totes merita accesso a Internet: jammais tu lingua deberea esser un barriera. Ecce proque, con le adjuta de voluntarios devote de tote le mundo, nos rende { -brand-name-firefox } disponibile in plus que 90 linguas.
+firefox-all-everyone-deserves-access-v2 = Omnes merita accesso a Internet: jammais tu lingua deberea esser un barriera. Ecce proque, con le adjuta de voluntarios devote de tote le mundo, nos rende { -brand-name-firefox } disponibile in plus que 90 linguas.
 firefox-all-choose-browser = Elige un navigator pro continuar
 firefox-all-choose-platform = Elige un platteforma pro continuar
 firefox-all-choose-language = Elige un lingua pro continuar
