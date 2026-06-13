@@ -7,6 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Descarga { -brand-name-firefox } en Español (MX) y en más de 90 idiomas
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Todas las personas merecen acceso al internet; tu idioma nunca debería ser una barrera. Por eso, con la ayuda de voluntarios dedicados en todo el mundo, ofrecemos { -brand-name-firefox } en más de 90 idiomas.
 firefox-all-choose-browser = Elija un navegador para continuar
 firefox-all-choose-platform = Elige una plataforma para continuar
 firefox-all-choose-language = Seleccione un idioma para continuar
@@ -32,9 +34,16 @@ firefox-all-64-bit-installers = Instaladores de 64 bits
 firefox-all-choose-a-64-bit-installer = Elige un instalador de 64 bits para computadoras con procesadores de 64 bits. Estos permiten asignar más RAM a cada programa, lo que es crucial para juegos y otras aplicaciones exigentes.
 firefox-all-32-bit-installers = Instaladores de 32 bits
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Esta opción abrirá una página de producto de { -brand-name-firefox } en el portal web de Microsoft Store. Si usas Windows 10 o Windows 11, tendrás la opción de abrir Microsoft Store desde esta página e instalar { -brand-name-firefox }. Si realizas la instalación desde Microsoft Store, las actualizaciones de { -brand-name-firefox } también se gestionarán a través de ella. Existen diferencias menores en el comportamiento y las funciones de { -brand-name-firefox } cuando se instala desde Microsoft Store, pero para la mayoría de los usuarios estas diferencias no son notorias.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Descargar { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Nos encontramos en el periodo de transición entre las versiones principales de ESR { $esr_next_major } y { $esr_current_major }.
+firefox-all-esr-when-there-is = Cuando hay una actualización de versión principal, siempre existe una superposición de algunas versiones secundarias de { -brand-name-firefox-esr } para permitir que quienes usan la versión anterior se preparen para migrar a la nueva.
+firefox-all-esr-if-you-choose = Si eliges descargar la versión ESR anterior, se actualizará automáticamente a la nueva cuando termine el periodo de transición.
 firefox-all-check-the-system-requirements = Revisar los requisitos del sistema
 firefox-all-release-notes = Informe de novedades
 firefox-all-source-code = Código fuente
