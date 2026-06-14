@@ -51,6 +51,18 @@ manifesto-written-in-2007 = 2007 жылы жазылған { -brand-name-mozilla
 manifesto-mozillas-pledge = { -brand-name-mozilla } уәдесі
 manifesto-across-the-mozilla-project = { -brand-name-mozilla } жобасы мен { -brand-name-mozilla } отбасындағы әрбір ұйымда біз өз қызметімізде { -brand-name-mozilla } манифесін қолдауға уәде береміз. Атап айтқанда, біз:
 manifesto-we-need-you = Манифесті ілгерілету үшін сіз керексіз
+manifesto-an-internet-with-these-v2 = Мұндай қасиеттері бар интернет өздігінен пайда болмайды. Адамдар мен ұйымдар бұл ұмтылыстарды интернет технологиясына және адамның интернетпен жұмыс істеу тәжірибесіне енгізуі керек. { -brand-name-mozilla } Манифесі мен оған қосымша { -brand-name-mozilla } ұйымының осы ұмтылыстарды ілгерілетуге деген адалдығын көрсетеді. { -brand-name-mozilla } интернетті барлығы үшін бұдан да жақсырақ орынға айналдырғысы келетін барлық жердегі адамдармен және ұйымдармен бірге жұмыс істейді.
+manifesto-our-commitments = Біздің міндеттемелеріміз
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+#   $mozai_link (url) - link to https://www.mozilla.ai
+#   $mozvc_link (url) - link to https://mozilla.vc
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-if-you-share-this-goal = Егер сіз осы мақсатты қолдасаңыз, біздің қалай көмектесе алатынымызды біліңіз. <a { $github_link }>Біз сіз негіз ретінде қолдана алатын бастапқы кодтары ашық бағдарламалық қамтаманы жасаймыз</a>. Біз желіде жақсырақ болашақ жасауға бағытталған <a { $mofo_link }>зерттеушілерді қаржыландырамыз және жобаларды дамытамыз</a>. Біз әзірлеушілерге таңдау беретін және олардың ақшасын үнемдеуге көмектесетін <a { $mozai_link }>бастапқы кодтары ашық ЖИ құралдарын жасаймыз</a>. <a { $mozvc_link }>Біз жауапты технологиялық стартаптарға инвестиция саламыз</a>. Деректерді әділ алмасу үшін <a { $mdc_link }>жаһандық қоғамдастықты басқарамыз</a>. Манифесті ілгерілету үшін кез келген және барлық нәрсені жасайтын адамдар үшін <a { $festival_link }>жыл сайынғы жаһандық жиынды өткіземіз</a>. Және, әрине, біз <a { $firefox_link }>{ -brand-name-firefox } пен <a { $thunderbird_link }>{ -brand-name-thunderbird } жасаймыз</a>. Мұның бәрі адамдарға интернетті салауатты орынға айналдыруға көмектесуге бағытталған.
 
 ## Obsolete strings (expire 2026-09-10)
 
