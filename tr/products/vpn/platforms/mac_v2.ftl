@@ -12,3 +12,4 @@ vpn-mac-a-vpn-is = Mac’inizi kullanırken çevrimiçi gizliliğiniz ve güvenl
 vpn-mac-with-mozilla-vpn = { -brand-name-mozilla-vpn } ile şunları yapabilirsiniz:
 vpn-mac-get-one-click = Basit ve kullanıcı dostu bir arayüzle tek tıkla gizlilik elde edin.
 vpn-mac-connect-up-to = Tek bir abonelikle Mac’in yanı sıra iOS, Windows, Linux ve Android dahil olmak üzere 5 farklı cihaz bağlayabilirsiniz.
+vpn-mac-mozilla-doesnt-log = { -brand-name-mozilla } hangi siteleri ziyaret ettiğinizi kaydetmez ve iletişimlerinizi izlemez. Ayrıca 30 günlük para iade garantimiz de mevcut: zahmetsiz ve risksiz.
