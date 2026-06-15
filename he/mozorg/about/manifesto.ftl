@@ -18,6 +18,25 @@ manifesto-across-the-mozilla-project = ברחבי מיזם { -brand-name-mozilla
 manifesto-we-need-you = אנחנו צריכים אותך כדי לקדם את המניפסט
 manifesto-an-internet-with-these-v2 = אינטרנט בעל תכונות אלה לא יתעורר לחיים מעצמו. אנשים וארגונים חייבים להטמיע שאיפות אלה בטכנולוגיית האינטרנט ובחוויה האנושית עם האינטרנט. המניפסט והנספח של { -brand-name-mozilla } מייצגים את מחויבותה של { -brand-name-mozilla } לקידום שאיפות אלה. { -brand-name-mozilla } עובדת עם אנשים וארגונים בכל מקום שרוצים להפוך את האינטרנט למקום טוב עוד יותר עבור כולם.
 manifesto-our-commitments = המחויבויות שלנו
+manifesto-if-you-share-this-goal-v2 = אם אתם חולקים את המטרה הזו, ספרו לנו כיצד נוכל לעזור.
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+manifesto-we-create-open = אנו יוצרים <a { $github_link }>תוכנה בקוד פתוח</a> שעליה תוכלו לבנות.
+# Variables:
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+manifesto-we-fund-fellows = אנו <a { $mofo_link }>מממנים עמיתים ומפתחים מיזמים</a> שמטרתם ליצור עתיד טוב יותר באינטרנט.
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = אנחנו <a { $mozai_link }>בונים כלי בינה מלאכותית בקוד פתוח</a> שמעניקים למפתחים בחירה - ועוזרים להם לחסוך כסף.
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = אנחנו <a { $mozvc_link }>משקיעים בחברות הזנק טכנולוגיות אחראיות</a>.
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = אנו <a { $mdc_link }>מנהלים קהילה עולמית</a> לחילופי נתונים הוגנים.
+# Variables:
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+manifesto-we-host-a-yearly = אנו <a { $festival_link }>מארחים מפגש עולמי שנתי</a> לאנשים שבונים כל דבר כדי לקדם את המניפסט.
 
 ## Obsolete strings (expire 2026-09-10)
 
