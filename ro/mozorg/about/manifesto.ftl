@@ -49,7 +49,9 @@ manifesto-details-promote-models = vom promova modele pentru a crea valori econo
 manifesto-details-promote-the-mozilla = vom promova principiile Manifestului { -brand-name-mozilla } în discursul public și în cadrul industriei internetului.
 manifesto-written-in-2007 = Manifestul { -brand-name-mozilla }, scris în 2007, prezintă principiile noastre fundamentale. Angajamentul pentru un Internet Sănătos a fost scris ca o completare la Manifest în 2017 pentru a ne reflecta angajamentul profund de a ne asigura că internetul servește nevoile oamenilor și ale umanității în ansamblu. Împreună, aceste două documente ghidează toate activitățile din cadrul { -brand-name-mozilla } — ce construim, ce finanțăm și cum lucrăm împreună ca o comunitate.
 manifesto-mozillas-pledge = Promisiunea { -brand-name-mozilla }
+manifesto-across-the-mozilla-project = În cadrul Proiectului { -brand-name-mozilla } și în fiecare organizație din familia { -brand-name-mozilla }, ne angajăm să susținem Manifestul { -brand-name-mozilla } în activitățile sale. În special:
 manifesto-we-need-you = Avem nevoie de tine pentru a promova Manifestul
+manifesto-an-internet-with-these-v2 = Un internet cu aceste calități nu va apărea de la sine. Oamenii și organizațiile trebuie să înglobeze aceste aspirații în tehnologia internetului și în experiența umană cu internetul. Manifestul { -brand-name-mozilla } și Anexa la el reprezintă angajamentul { -brand-name-mozilla } pentru promovarea acestor aspirații. { -brand-name-mozilla } lucrează cu oameni și organizații de pretutindeni care vor să facă internetul un loc și mai bun pentru toți.
 manifesto-our-commitments = Angajamentele noastre
 
 ## Obsolete strings (expire 2026-09-10)
