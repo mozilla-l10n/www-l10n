@@ -53,16 +53,6 @@ manifesto-across-the-mozilla-project = A transverso le projecto { -brand-name-mo
 manifesto-we-need-you = Nos te besonia pro facer progreder le Manifesto
 manifesto-an-internet-with-these-v2 = Un internet con iste qualitates non prendera vita per se sol. Le Manifesto e le Addendum de { -brand-name-mozilla } representa le dedication de { -brand-name-mozilla } al progresso de iste aspirationes. { -brand-name-mozilla } ubique collabora con personas e organisationes qui vole render internet un posto anque melior pro omnes.
 manifesto-our-commitments = Nostre dedicationes
-# Variables:
-#   $github_link (url) - link to https://github.com/mozilla
-#   $mofo_link (url) - link to https://www.mozillafoundation.org/
-#   $mozai_link (url) - link to https://www.mozilla.ai
-#   $mozvc_link (url) - link to https://mozilla.vc
-#   $mdc_link (url) - link to https://mozilladatacollective.com/
-#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
-#   $firefox_link (url) - link to https://www.firefox.com/
-#   $thunderbird_link (url) - link to https://www.thunderbird.net/
-manifesto-if-you-share-this-goal = Si tu condivide iste objectivo, face nos saper nostre modo de poter adjutar. <a { $github_link }>Nos disveloppa software open-source</a>sur que tu pote producer. <a { $mofo_link }>Nos financia collegas e incuba projectos</a> mirate a crear un futuro melior online. <a { $mozai_link }>Nos produce utensiles del IA open-source</a> que da al disveloppatores optiones, e les adjuta a sparniar moneta. <a { $mozvc_link }>Nos investi in startups technologic responsabile</a>. Nos <a { $mdc_link }>gere un communitate mundial</a> pro excambiar belle datos. Nos <a { $festival_link }>organisa annualmente un meeting mundial</a> pro personas qui produce qualcosa e omne cosa pro facer progreder le Manifesto. E, obviemente, nos produce <a { $firefox_link }>{ -brand-name-firefox }</a> e <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Tote isto es mirate a adjutar personas pro render internet un posto san.
 
 ## Obsolete strings (expire 2026-09-10)
 

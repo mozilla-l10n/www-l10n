@@ -53,16 +53,6 @@ manifesto-across-the-mozilla-project = V rámci projektu { -brand-name-mozilla }
 manifesto-we-need-you = Potřebujeme vás k rozšíření Manifestu
 manifesto-an-internet-with-these-v2 = Internet s těmito kvalitami není k dispozici. Lidé a organizace musí začlenit tyto aspirace do internetových technologií a do lidské zkušenosti s internetem. Manifest a dodatek { -brand-name-mozilla } reprezentují odhodlání { -brand-name-mozilla } pokračovat v naplňování těchto cílů. { -brand-name-mozilla } spolupracuje s lidmi a organizacemi po celém světě, které chtějí z internetu udělat ještě lepší místo pro všechny.
 manifesto-our-commitments = Naše závazky
-# Variables:
-#   $github_link (url) - link to https://github.com/mozilla
-#   $mofo_link (url) - link to https://www.mozillafoundation.org/
-#   $mozai_link (url) - link to https://www.mozilla.ai
-#   $mozvc_link (url) - link to https://mozilla.vc
-#   $mdc_link (url) - link to https://mozilladatacollective.com/
-#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
-#   $firefox_link (url) - link to https://www.firefox.com/
-#   $thunderbird_link (url) - link to https://www.thunderbird.net/
-manifesto-if-you-share-this-goal = Pokud sdílíte tento cíl, dejte nám vědět, jak vám můžeme pomoci. <a { $github_link }>Vytváříme software s otevřeným zdrojovým kódem</a>, na kterém můžete stavět. <a { $mofo_link }>financujeme kolegy a inkubujeme projekty</a> zaměřené na vytváření lepší budoucnosti na internetu. <a { $mozai_link }>Vytváříme otevřené nástroje pro umělou inteligenci</a>, které dávají vývojářům možnost volby – a pomáhají jim šetřit peníze. <a { $mozvc_link }>Investujeme do odpovědných technologických start-upů</a>. <a { $mdc_link }>řídíme globální komunitu</a> za férovou výměnu dat. <a { $festival_link }>Každoročně hostujeme celosvětové setkání</a> lidí, kteří vše vytváří pro pokrok v Manifestu. A samozřejmě vyděláváme <a { $firefox_link }>{ -brand-name-firefox }</a> a <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. To vše je zaměřeno na pomoc lidem dělat internet zdravým místem.
 
 ## Obsolete strings (expire 2026-09-10)
 

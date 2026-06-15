@@ -53,16 +53,6 @@ manifesto-across-the-mozilla-project = V rámci projektu { -brand-name-mozilla }
 manifesto-we-need-you = Potrebujeme vás na presadzovanie manifestu
 manifesto-an-internet-with-these-v2 = Internet s týmito vlastnosťami nevznikne sám od seba. Ľudia a organizácie musia tieto ambície zakotviť v internetových technológiách a v ľudskej skúsenosti s internetom. Manifest { -brand-name-mozilla(case: "gen") } a jeho dodatok predstavujú záväzok { -brand-name-mozilla(case: "gen") } k presadzovaniu týchto ambícií. { -brand-name-mozilla } spolupracuje s ľuďmi a organizáciami na celom svete, ktorí chcú, aby bol internet ešte lepším miestom pre všetkých.
 manifesto-our-commitments = Naše záväzky
-# Variables:
-#   $github_link (url) - link to https://github.com/mozilla
-#   $mofo_link (url) - link to https://www.mozillafoundation.org/
-#   $mozai_link (url) - link to https://www.mozilla.ai
-#   $mozvc_link (url) - link to https://mozilla.vc
-#   $mdc_link (url) - link to https://mozilladatacollective.com/
-#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
-#   $firefox_link (url) - link to https://www.firefox.com/
-#   $thunderbird_link (url) - link to https://www.thunderbird.net/
-manifesto-if-you-share-this-goal = Ak zdieľate tento cieľ, dajte nám vedieť, ako vám môžeme pomôcť. <a { $github_link }>Vytvárame softvér s otvoreným zdrojovým kódom</a>, na ktorom môžete stavať. <a { $mofo_link }>Financujeme štipendistov a inkubujeme projekty</a> zamerané na vytvorenie lepšej budúcnosti online. <a { $mozai_link }>Vytvárame nástroje umelej inteligencie s otvoreným zdrojovým kódom</a>, ktoré dávajú vývojárom na výber – a pomáhajú im šetriť peniaze. <a { $mozvc_link }>Investujeme do zodpovedných technologických startupov</a>. <a { $mdc_link }>Prevádzkujeme globálnu komunitu</a> pre spravodlivú výmenu údajov. <a { $festival_link }>Každoročne organizujeme globálne stretnutie</a> pre ľudí, ktorí vytvárajú čokoľvek a všetko pre presadzovanie Manifestu. A samozrejme, vytvárame <a { $firefox_link }>{ -brand-name-firefox(case: "acc") }</a> a <a { $thunderbird_link }>{ -brand-name-thunderbird(case: "acc") }</a>. Toto všetko má pomôcť ľuďom urobiť z internetu zdravé miesto.
 
 ## Obsolete strings (expire 2026-09-10)
 

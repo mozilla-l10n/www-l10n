@@ -53,16 +53,6 @@ manifesto-across-the-mozilla-project = În cadrul Proiectului { -brand-name-mozi
 manifesto-we-need-you = Avem nevoie de tine pentru a promova Manifestul
 manifesto-an-internet-with-these-v2 = Un internet cu aceste calități nu va apărea de la sine. Oamenii și organizațiile trebuie să înglobeze aceste aspirații în tehnologia internetului și în experiența umană cu internetul. Manifestul { -brand-name-mozilla } și Anexa la el reprezintă angajamentul { -brand-name-mozilla } pentru promovarea acestor aspirații. { -brand-name-mozilla } lucrează cu oameni și organizații de pretutindeni care vor să facă internetul un mediu și mai bun pentru toți.
 manifesto-our-commitments = Angajamentele noastre
-# Variables:
-#   $github_link (url) - link to https://github.com/mozilla
-#   $mofo_link (url) - link to https://www.mozillafoundation.org/
-#   $mozai_link (url) - link to https://www.mozilla.ai
-#   $mozvc_link (url) - link to https://mozilla.vc
-#   $mdc_link (url) - link to https://mozilladatacollective.com/
-#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
-#   $firefox_link (url) - link to https://www.firefox.com/
-#   $thunderbird_link (url) - link to https://www.thunderbird.net/
-manifesto-if-you-share-this-goal = Dacă ai același scop, spune-ne cum putem ajuta. <a { $github_link }>Creăm software cu sursă deschisă</a> pe care poți dezvolta mai departe. <a { $mofo_link }>Oferim burse și incubăm proiecte</a> țintite spre crearea unui viitor online mai bun. <a { $mozai_link }>Facem instrumente AI cu sursă deschisă</a>, care dau dezvoltatorilor o opțiune — și îi ajută să economisească bani. <a { $mozvc_link }>Investim în start-up-uri tehnologice responsabile</a>. <a { $mdc_link }>Avem o comunitate globală</a> pentru schimb echitabil de date. <a { $festival_link }>Găzduim o adunare globală anuală</a> pentru oricine face orice pentru promovarea Manifestului. Și, desigur, facem <a { $firefox_link }>{ -brand-name-firefox }</a> și <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Toate au scopul de a ajuta oamenii să facă din internet un mediu sănătos.
 
 ## Obsolete strings (expire 2026-09-10)
 

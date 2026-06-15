@@ -53,16 +53,6 @@ manifesto-across-the-mozilla-project = Во всех проектах { -brand-n
 manifesto-we-need-you = Вы нужны нам для продвижения Манифеста
 manifesto-an-internet-with-these-v2 = Интернет с этими качествами не появится сам по себе. Люди и организации должны включить эти стремления в интернет-технологии и в опыт работы человека с интернетом. Манифест { -brand-name-mozilla } и дополнение свидетельствуют о готовности { -brand-name-mozilla } способствовать продвижению этих взглядов. { -brand-name-mozilla } работает с людьми и организациями, которые хотят сделать Интернет ещё лучше для всех и каждого.
 manifesto-our-commitments = Наши обязательства
-# Variables:
-#   $github_link (url) - link to https://github.com/mozilla
-#   $mofo_link (url) - link to https://www.mozillafoundation.org/
-#   $mozai_link (url) - link to https://www.mozilla.ai
-#   $mozvc_link (url) - link to https://mozilla.vc
-#   $mdc_link (url) - link to https://mozilladatacollective.com/
-#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
-#   $firefox_link (url) - link to https://www.firefox.com/
-#   $thunderbird_link (url) - link to https://www.thunderbird.net/
-manifesto-if-you-share-this-goal = Если вы разделяете эту цель, дайте нам знать, как мы можем помочь. <a { $github_link }>Мы создаём программное обеспечение с открытым исходным кодом</a>, на котором вы можете основываться. <a { $mofo_link }>Мы финансируем участников и инкубируем проекты</a>, направленные на создание лучшего будущего в интернете. <a { $mozai_link }>Мы создаём инструменты ИИ с открытым исходным кодом</a>, которые дают разработчикам выбор — и помогаем им экономить деньги. <a { $mozvc_link }>Мы инвестируем в ответственные технологические стартапы</a>. Мы <a { $mdc_link }>управляем глобальным сообществом</a> для добросовестного обмена данными. Мы <a { $festival_link }>организуем ежегодное глобальное сбор</a> людей, создающих всё, что угодно для продвижения Манифеста. И, конечно же, создаём <a { $firefox_link }>{ -brand-name-firefox }</a> и <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Всё это направлено на то, чтобы помочь людям сделать Интернет здоровым.
 
 ## Obsolete strings (expire 2026-09-10)
 

@@ -53,16 +53,6 @@ manifesto-across-the-mozilla-project = All’interno del Progetto { -brand-name-
 manifesto-we-need-you = Abbiamo bisogno del tuo aiuto per far crescere il Manifesto
 manifesto-an-internet-with-these-v2 = Un Internet con queste caratteristiche non nascerà spontaneamente. Persone e organizzazioni devono integrare queste aspirazioni nella tecnologia di Internet e nell’esperienza umana online. Il Manifesto { -brand-name-mozilla } e l’Addendum testimoniano l’impegno di { -brand-name-mozilla } nel promuovere questi ideali. { -brand-name-mozilla } lavora insieme a persone e organizzazioni di tutto il mondo che desiderano rendere Internet un luogo migliore per tutti.
 manifesto-our-commitments = I nostri impegni
-# Variables:
-#   $github_link (url) - link to https://github.com/mozilla
-#   $mofo_link (url) - link to https://www.mozillafoundation.org/
-#   $mozai_link (url) - link to https://www.mozilla.ai
-#   $mozvc_link (url) - link to https://mozilla.vc
-#   $mdc_link (url) - link to https://mozilladatacollective.com/
-#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
-#   $firefox_link (url) - link to https://www.firefox.com/
-#   $thunderbird_link (url) - link to https://www.thunderbird.net/
-manifesto-if-you-share-this-goal = Se condividi questo obiettivo, facci sapere come possiamo aiutare. <a { $github_link }>Sviluppiamo software open source</a> che puoi utilizzare per i tuoi progetti. <a { $mofo_link }>Sosteniamo borsisti e incubiamo progetti</a> che mirano a creare un futuro migliore online. <a { $mozai_link }>Realizziamo strumenti di intelligenza artificiale open source</a> che offrono agli sviluppatori più scelta e li aiutano a risparmiare. <a { $mozvc_link }>Investiamo in startup tecnologiche responsabili</a>. <a { $mdc_link }>Gestiamo una comunità globale</a> per uno scambio equo dei dati. <a { $festival_link }>Organizziamo un incontro globale annuale</a> per chiunque lavori per far progredire il Manifesto. E, naturalmente, creiamo <a { $firefox_link }>{ -brand-name-firefox }</a> e <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Tutto questo per aiutare le persone a rendere Internet un ambiente sano.
 
 ## Obsolete strings (expire 2026-09-10)
 

@@ -53,16 +53,6 @@ manifesto-across-the-mozilla-project = { -brand-name-mozilla } 프로젝트와 {
 manifesto-we-need-you = 선언문 진행을 위해 여러분의 도움이 필요합니다
 manifesto-an-internet-with-these-v2 = 우리가 원하는 품질의 인터넷은 자연적으로 만들어 지지 않습니다. 개인과 기업은 인터넷 기술과 인터넷을 통한 인간의 경험에 이러한 포부를 내포해야합니다. { -brand-name-mozilla } 선언문({ -brand-name-mozilla } Manifesto)과 부록(Addendum)은 이러한 포부를 발전시키기위한 { -brand-name-mozilla }의 노력을 나타냅니다. 우리는 인터넷을 모든 사람에게 더 좋은 곳으로 만들기 위해 사명을 함께 공유하는 사람 및 커뮤니티, 기업과 모든 영역에서 함께 일하는 것을 목표로합니다.
 manifesto-our-commitments = 우리의 약속
-# Variables:
-#   $github_link (url) - link to https://github.com/mozilla
-#   $mofo_link (url) - link to https://www.mozillafoundation.org/
-#   $mozai_link (url) - link to https://www.mozilla.ai
-#   $mozvc_link (url) - link to https://mozilla.vc
-#   $mdc_link (url) - link to https://mozilladatacollective.com/
-#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
-#   $firefox_link (url) - link to https://www.firefox.com/
-#   $thunderbird_link (url) - link to https://www.thunderbird.net/
-manifesto-if-you-share-this-goal = 이 목표를 공유한다면, 우리가 도울 수 있는 방법을 알려주세요. <a { $github_link }>우리는 여러분이 개발할 수 있는 오픈 소스 소프트웨어를 만들고 있습니다</a>. 더 나은 온라인 미래를 만들기 위해 <a { $mofo_link }>우리는 펠로우에게 기금을 지원하고 프로젝트를 육성합니다</a>. <a { $mozai_link }>우리는 개발자에게 선택권을 주고</a> 비용을 절약하는 데 도움이 되는 </a>오픈 소스 AI 도구를 만듭니다. <a { $mozVC_link }>우리는 책임 있는 기술 스타트업에 투자합니다</a>. 우리는 공정한 데이터 교환을 위해 <a { $msc_link }>글로벌 커뮤니티를 운영</a>합니다. 이 선언문을 발전시키기 위해 무엇이든 만드는 사람들이 모이는 <a { $Festival_link }>매년 전세계적인 모임을 주최합니다</a>. 그리고 물론 <a { $firefox_link }>{ -brand-name-firefox }</a>와 <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>도 만들고 있습니다. 이 모든 것이 인터넷을 건강한 공간으로 만드는 데 도움을 주기 위한 것입니다.
 
 ## Obsolete strings (expire 2026-09-10)
 

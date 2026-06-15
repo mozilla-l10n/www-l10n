@@ -53,16 +53,6 @@ manifesto-across-the-mozilla-project = Em todo o projeto { -brand-name-mozilla }
 manifesto-we-need-you = Precisamos de si para promover o Manifesto
 manifesto-an-internet-with-these-v2 = Uma internet com estas qualidades não ganhará vida por si própria. As pessoas e organizações devem embutir estas aspirações na tecnologia da internet e na experiência humana da internet. O Manifesto de { -brand-name-mozilla } e o Adendo representam o compromisso de { -brand-name-mozilla } para avançar estas aspirações. A { -brand-name-mozilla } trabalha com pessoas e organizações em todo o lado que pretendem fazer a Internet melhor ainda para todos.
 manifesto-our-commitments = Os nossos compromissos
-# Variables:
-#   $github_link (url) - link to https://github.com/mozilla
-#   $mofo_link (url) - link to https://www.mozillafoundation.org/
-#   $mozai_link (url) - link to https://www.mozilla.ai
-#   $mozvc_link (url) - link to https://mozilla.vc
-#   $mdc_link (url) - link to https://mozilladatacollective.com/
-#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
-#   $firefox_link (url) - link to https://www.firefox.com/
-#   $thunderbird_link (url) - link to https://www.thunderbird.net/
-manifesto-if-you-share-this-goal = Se partilha este objetivo, diga-nos como podemos ajudar. <a { $github_link }> Nós criamos software de código aberto </a> que pode construir. <a { $mofo_link }>Financiamos bolseiros e incubamos projetos</a> focados em criar um futuro melhor na Internet. <a { $mozai_link }> Nós construímos ferramentas de IA de código aberto </a> que dão a escolha aos programadores — e os ajudamos a guardar dinheiro. <a { $mozvc_link }> Nós investimos em start-ups tecnológicas responsáveis</a>. Nós <a { $mdc_link }>gerimos uma comunidade global</a> para uma troca de dados limpa. Nós <a { $festival_link }>organizamos um evento global todos os anos</a> para pessoas que constroem tudo para promover o Manifesto. E, claro, fazemos <a { $firefox_link }>{ -brand-name-firefox }</a> e <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Tudo isto tem como objetivo ajudar as pessoas a tornar a Internet num lugar saudável.
 
 ## Obsolete strings (expire 2026-09-10)
 

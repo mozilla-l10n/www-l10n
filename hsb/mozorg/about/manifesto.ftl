@@ -53,16 +53,6 @@ manifesto-across-the-mozilla-project = Přez projekt { -brand-name-mozilla } a p
 manifesto-we-need-you = Trjebamy was, zo bychmy manifest doprědka přinjesli
 manifesto-an-internet-with-these-v2 = Internet z tutymi kwalitami sam wot so njenastawa. Ludźo a organizacije dyrbja tute cile k internetnej technologiji a k čłowjeskemu dožiwjenju z internetom přinošować. Manifest { -brand-name-mozilla } a přidatk reprezentujetej angažowanosć { -brand-name-mozilla } za rozšěrjowanje tutych cilow. { -brand-name-mozilla } z ludźimi a organizacijemi wšudźe dźěła, kotrež chcedźa internet k hišće lěpšemu městnu za kóždeho činić.
 manifesto-our-commitments = Naše zawjazki
-# Variables:
-#   $github_link (url) - link to https://github.com/mozilla
-#   $mofo_link (url) - link to https://www.mozillafoundation.org/
-#   $mozai_link (url) - link to https://www.mozilla.ai
-#   $mozvc_link (url) - link to https://mozilla.vc
-#   $mdc_link (url) - link to https://mozilladatacollective.com/
-#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
-#   $firefox_link (url) - link to https://www.firefox.com/
-#   $thunderbird_link (url) - link to https://www.thunderbird.net/
-manifesto-if-you-share-this-goal = Jeli tutón cil z nami dźěliće, zdźělće nam, kak móžemy pomhać. <a { $github_link }>Wutworjamy software wotewrjeneho žórła</a>, kotruž móžeće sobu wuwiwać. <a { $mofo_link }>Financujemy partnerow a wumyslujemy projekty</a>, kotrychž zaměr je, lěpši přichod online wutworić. <a { $mozai_link }>Wuwiwamy nastroje KI wotewrjeneho žórła</a>, kotrež wuwiwarjam wólbu dawaja – a jim pomhaja, pjenjezy zalutować. <a { $mozvc_link }>Inwestujemy do nowych zamołwitych technologiskich předewzaćow</a>. <a { $mdc_link }>Wudźeržujemy globalne zhromadźenstwo</a> za fairnu wuměnu datow. <a { $festival_link }>Organizujemy kóždolětnje globalne zetkanje</a> za ludźi, kotřiž něšto wuwiwaja, zo bychu manifest doprědka přinjesli. A, so wě, wuwiwamy <a { $firefox_link }>{ -brand-name-firefox }</a> a <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. To jo wšitko na to wusměrjene, ludźom pomhać, internet k strowemu městnu činić.
 
 ## Obsolete strings (expire 2026-09-10)
 

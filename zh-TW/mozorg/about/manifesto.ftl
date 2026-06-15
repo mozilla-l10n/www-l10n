@@ -53,16 +53,6 @@ manifesto-across-the-mozilla-project = 我們承諾在整個 { -brand-name-mozil
 manifesto-we-need-you = 我們需要您來讓宣言更進一步
 manifesto-an-internet-with-these-v2 = 這樣的網際網路並不會自動出現。每個人與組織都必須將他們的渴望放進網路科技及上網體驗。{ -brand-name-mozilla } 宣言及增修條款展現了 { -brand-name-mozilla } 對這些抱負的承諾，{ -brand-name-mozilla } 致力於與世界各地有相同目標的人們與組織一同合作，讓網際網路成為對每一個人都變得更好的地方。
 manifesto-our-commitments = 我們的承諾
-# Variables:
-#   $github_link (url) - link to https://github.com/mozilla
-#   $mofo_link (url) - link to https://www.mozillafoundation.org/
-#   $mozai_link (url) - link to https://www.mozilla.ai
-#   $mozvc_link (url) - link to https://mozilla.vc
-#   $mdc_link (url) - link to https://mozilladatacollective.com/
-#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
-#   $firefox_link (url) - link to https://www.firefox.com/
-#   $thunderbird_link (url) - link to https://www.thunderbird.net/
-manifesto-if-you-share-this-goal = 若您有同樣的目標，請讓我們知道可以幫忙什麼。<a { $github_link }>我們打造開放原始碼軟體</a>您可以在此基礎上繼續開發。<a { $mofo_link }>我們資助夥伴並育成專案</a>以打造網際網路環境更美好的未來。<a { $mozai_link }>我們打造開放原始碼的 AI 工具</a>，提供開發者不同選擇並幫助他們省錢。<a { $mozvc_link }>我們投資於有責任感的科技新創</a>。我們<a { $mdc_link }>經營一個全球性的社群</a>來公平地進行資料交換。我們為了那些正在打造推動宣言發展的人們<a { $festival_link }>每年舉辦全球性聚會</a>。當然，我們也有 <a { $firefox_link }>{ -brand-name-firefox }</a> 與 <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>。這一切都是要幫助人們，讓網際網路變成一個健康的地方。
 
 ## Obsolete strings (expire 2026-09-10)
 

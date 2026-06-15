@@ -53,16 +53,6 @@ manifesto-across-the-mozilla-project = Mi, a { -brand-name-mozilla } projekt és
 manifesto-we-need-you = Szükségünk van Önre a Kiáltvány előmozdításához
 manifesto-an-internet-with-these-v2 = Az ezekkel a tulajdonságokkal rendelkező internet nem magától fog létrejönni. Az embereknek és szervezeteknek be kell építeniük ezeket a törekvéseket az internetes technológiákba, és az internet emberi élményébe. A { -brand-name-mozilla } Kiáltvány és a Kiegészítés a { -brand-name-mozilla } elkötelezettségét fejezi ki ezen célok iránt. A { -brand-name-mozilla } együtt dolgozik azokkal az emberekkel és szervezetekkel, akik egy mindenki számára jobb hellyé szeretnék tenni az internetet.
 manifesto-our-commitments = Elkötelezettségeink
-# Variables:
-#   $github_link (url) - link to https://github.com/mozilla
-#   $mofo_link (url) - link to https://www.mozillafoundation.org/
-#   $mozai_link (url) - link to https://www.mozilla.ai
-#   $mozvc_link (url) - link to https://mozilla.vc
-#   $mdc_link (url) - link to https://mozilladatacollective.com/
-#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
-#   $firefox_link (url) - link to https://www.firefox.com/
-#   $thunderbird_link (url) - link to https://www.thunderbird.net/
-manifesto-if-you-share-this-goal = Ha osztja ezt a célt, tudassa velünk, hogyan segíthetünk. <a { $github_link }>Nyílt forráskódú szoftvereket készítünk</a>, amelyre építhet. <a { $mofo_link }>Egyéb ösztöndíjasokat finanszírozunk és projekteket inkubálunk</a>, amelynek célja egy jobb online jövő létrehozása. <a { $mozai_link }>Nyílt forráskódú MI-eszközöket készítünk</a>, amelyek választást adnak a fejlesztőknek – és segítenek nekik pénzt megtakarítani. <a { $mozvc_link }>Felelősségteljes technológiai startupokba fektetünk</a>. <a { $mdc_link }>Egy globális közösséget működtetünk</a> a tisztességes adatcseréért. Egy <a { $festival_link }>éves globális összejövetelnek adunk otthont</a> azon emberek számára, akik valamit építenek, és bármit tesznek a Kiáltvány előmozdítása érdekében. És természetesen készítjük a <a { $firefox_link }>{ -brand-name-firefox }</a> böngészőt és a <a { $thunderbird_link }>{ -brand-name-thunderbird }</a> levelezőprogramot. Mindezek célja, hogy segítsük az embereket abban, hogy az internet egészséges hely legyen.
 
 ## Obsolete strings (expire 2026-09-10)
 
