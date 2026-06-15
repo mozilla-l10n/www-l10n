@@ -29,6 +29,8 @@ newsletter-form-available-languages = Valitse kieli
 newsletter-form-select-country = Valitse maa
 newsletter-form-sign-me-up = Tilaa
 newsletter-form-sign-up-now = Tilaa nyt
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = Lähetetään
 newsletter-form-thanks = Kiitos!
 newsletter-form-leave-this-field-empty = Jätä tämä kenttä tyhjäksi.
 newsletter-form-yes = Kyllä
