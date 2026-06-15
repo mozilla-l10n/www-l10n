@@ -37,6 +37,10 @@ manifesto-we-run-a-global = אנו <a { $mdc_link }>מנהלים קהילה עו
 # Variables:
 #   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
 manifesto-we-host-a-yearly = אנו <a { $festival_link }>מארחים מפגש עולמי שנתי</a> לאנשים שבונים כל דבר כדי לקדם את המניפסט.
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = וכמובן, אנחנו יוצרים את <a { $firefox_link }>{ -brand-name-firefox }</a> ואת <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. כל זה נועד לעזור לאנשים להפוך את האינטרנט למקום בריא.
 
 ## Obsolete strings (expire 2026-09-10)
 
