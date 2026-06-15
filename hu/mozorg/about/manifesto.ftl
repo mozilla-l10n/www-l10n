@@ -53,6 +53,29 @@ manifesto-across-the-mozilla-project = Mi, a { -brand-name-mozilla } projekt és
 manifesto-we-need-you = Szükségünk van Önre a Kiáltvány előmozdításához
 manifesto-an-internet-with-these-v2 = Az ezekkel a tulajdonságokkal rendelkező internet nem magától fog létrejönni. Az embereknek és szervezeteknek be kell építeniük ezeket a törekvéseket az internetes technológiákba, és az internet emberi élményébe. A { -brand-name-mozilla } Kiáltvány és a Kiegészítés a { -brand-name-mozilla } elkötelezettségét fejezi ki ezen célok iránt. A { -brand-name-mozilla } együtt dolgozik azokkal az emberekkel és szervezetekkel, akik egy mindenki számára jobb hellyé szeretnék tenni az internetet.
 manifesto-our-commitments = Elkötelezettségeink
+manifesto-if-you-share-this-goal-v2 = Ha osztja ezt a célt, tudassa velünk, hogyan segíthetünk.
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+manifesto-we-create-open = <a { $github_link }>nyílt forráskódú szoftvereket</a> készítünk, amelyre építeni lehet.
+# Variables:
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+manifesto-we-fund-fellows = Egy jobb online jövőt célzó <a { $mofo_link }>ösztöndíjasokat finanszírozunk és projekteket inkubálunk</a>.
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = <a { $mozai_link }>Nyílt forráskódú MI eszközöket készítünk</a>, amelyek választást adnak a fejlesztőknek – és segítenek nekik pénzt megtakarítani.
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = <a { $mozvc_link }>Felelős technológiai startupokba fektetünk</a>.
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = <a { $mdc_link }>Globális közösséget működtetünk</a> a tisztességes adatcseréért.
+# Variables:
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+manifesto-we-host-a-yearly = Mi <a { $festival_link }>éves globális összejövetelnek adunk otthont</a> azok számára, akik bármit építenek a Kiáltvány előmozdítására.
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = És természetesen elkészítjük a következőket: <a { $firefox_link }>{ -brand-name-firefox }</a> és <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Mindezek célja, hogy segítsük az embereket abban, hogy az internet egészséges hely legyen.
 
 ## Obsolete strings (expire 2026-09-10)
 

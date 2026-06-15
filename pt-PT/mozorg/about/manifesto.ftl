@@ -53,6 +53,29 @@ manifesto-across-the-mozilla-project = Em todo o projeto { -brand-name-mozilla }
 manifesto-we-need-you = Precisamos de si para promover o Manifesto
 manifesto-an-internet-with-these-v2 = Uma internet com estas qualidades não ganhará vida por si própria. As pessoas e organizações devem embutir estas aspirações na tecnologia da internet e na experiência humana da internet. O Manifesto de { -brand-name-mozilla } e o Adendo representam o compromisso de { -brand-name-mozilla } para avançar estas aspirações. A { -brand-name-mozilla } trabalha com pessoas e organizações em todo o lado que pretendem fazer a Internet melhor ainda para todos.
 manifesto-our-commitments = Os nossos compromissos
+manifesto-if-you-share-this-goal-v2 = Se partilha este objetivo, diga-nos como podemos ajudar.
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+manifesto-we-create-open = Nós criamos <a { $github_link }>software de código aberto</a> que pode construir.
+# Variables:
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+manifesto-we-fund-fellows = Nós <a { $mofo_link }>financiamos bolseiros e incubamos projetos</a> focados em criar um futuro melhor na Internet.
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = Nós <a { $mozai_link }>construimos ferramentas de IA de código aberto</a> que dão aos programadores uma escolha — e os ajudamos a guardar dinheiro.
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = Nós <a { $mozvc_link }>investimos em start-ups tecnológicas responsáveis</a>.
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = Nós <a { $mdc_link }>gerimos uma comunidade global</a> para uma troca de dados limpa.
+# Variables:
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+manifesto-we-host-a-yearly = Nós <a { $festival_link }>organizamos todos os anos uma reunião global</a> para pessoas que constroem tudo para promover o Manifesto.
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = E, é claro, fazemos <a { $firefox_link }>{ -brand-name-firefox }</a> e <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Tudo isto tem como objetivo ajudar as pessoas a tornar a Internet num lugar saudável.
 
 ## Obsolete strings (expire 2026-09-10)
 

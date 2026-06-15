@@ -53,6 +53,29 @@ manifesto-across-the-mozilla-project = 我們承諾在整個 { -brand-name-mozil
 manifesto-we-need-you = 我們需要您來讓宣言更進一步
 manifesto-an-internet-with-these-v2 = 這樣的網際網路並不會自動出現。每個人與組織都必須將他們的渴望放進網路科技及上網體驗。{ -brand-name-mozilla } 宣言及增修條款展現了 { -brand-name-mozilla } 對這些抱負的承諾，{ -brand-name-mozilla } 致力於與世界各地有相同目標的人們與組織一同合作，讓網際網路成為對每一個人都變得更好的地方。
 manifesto-our-commitments = 我們的承諾
+manifesto-if-you-share-this-goal-v2 = 若您有同樣的目標請讓我們知道可以幫忙什麼。
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+manifesto-we-create-open = 我們打造<a { $github_link }>開放原始碼軟體</a>您可以參考。
+# Variables:
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+manifesto-we-fund-fellows = 我們<a { $mofo_link }>資助進修者並培養專案</a>以期在網路上創造更美好的未來。
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = 我們<a { $mozai_link }>打造開放原始碼的 AI 工具</a>讓開發者選擇並幫助他們省錢。
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = 我們 <a { $mozvc_link }>投資於負責的科技創業公司</a>。
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = 我們<a { $mdc_link }>經營著全球性社群</a>來進行公平的資料交換。
+# Variables:
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+manifesto-we-host-a-yearly = 我們<a { $festival_link }>每年都會舉辦一次全球聚會</a>讓那些能夠打造出任何東西來推動宣言發展的人們。
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = 當然我們也有<a { $firefox_link }>{ -brand-name-firefox }</a>與<a { $thunderbird_link }>{ -brand-name-thunderbird }</a>。所有這一切都旨在幫助人們讓網際網路變成一個健康的地方。
 
 ## Obsolete strings (expire 2026-09-10)
 

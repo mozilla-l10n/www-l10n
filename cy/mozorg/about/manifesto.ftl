@@ -53,6 +53,29 @@ manifesto-across-the-mozilla-project = Ar draws Project { -brand-name-mozilla } 
 manifesto-we-need-you = Rydym Eich Angen Chi Symud y Maniffesto yn ei Flaen
 manifesto-an-internet-with-these-v2 = Ni fydd rhyngrwyd gyda'r rhinweddau hyn yn dod yn fyw ar ei ben ei hun. Rhaid i bobl a sefydliadau ymgorffori'r dyheadau hyn i mewn i dechnoleg rhyngrwyd ac i'r profiad dynol gyda'r rhyngrwyd. Mae Maniffesto ac Adendwm { -brand-name-mozilla } yn cynrychioli ymrwymiad { -brand-name-mozilla } i hyrwyddo'r dyheadau hyn. Mae { -brand-name-mozilla } yn gweithio gyda phobl a sefydliadau ym mhobman sydd am wneud y rhyngrwyd yn lle gwell fyth i bawb.
 manifesto-our-commitments = Ein Hymrwymiadau
+manifesto-if-you-share-this-goal-v2 = Os ydych chi'n rhannu'r nod hwn, rhowch wybod i ni sut y gallwn ni helpu.
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+manifesto-we-create-open = Rydym yn creu <a { $github_link }>meddalwedd ffynhonnell agored</a> y gallwch adeiladu arno.
+# Variables:
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+manifesto-we-fund-fellows = Rydym yn <a { $mofo_link }>ariannu cymrodyr a phrosiectau deor</a> gyda'r nod o greu dyfodol gwell ar-lein.
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = Rydym <a { $mozai_link }>yn adeiladu offer AI ffynhonnell agored</a> sy'n rhoi dewis i ddatblygwyr — ac yn eu helpu i arbed arian.
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = Rydym yn <a { $mozvc_link }>buddsoddi mewn cychwyniadau technoleg cyfrifol</a>.
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = Rydym <a { $mdc_link }>yn rhedeg cymuned fyd-eang</a> ar gyfer cyfnewid data teg.
+# Variables:
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+manifesto-we-host-a-yearly = Rydym yn <a { $festival_link }>cynulliad byd-eang blynyddol</a> ar gyfer pobl sy'n adeiladu unrhyw beth a phopeth i hyrwyddo'r Maniffesto.
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = Ac, wrth gwrs, rydyn ni'n gwneud <a { $firefox_link }>{ -brand-name-firefox }</a> a <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>). Nod hyn oll yw helpu pobl i wneud y rhyngrwyd yn lle iach.
 
 ## Obsolete strings (expire 2026-09-10)
 
