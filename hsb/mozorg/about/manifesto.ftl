@@ -57,6 +57,15 @@ manifesto-if-you-share-this-goal-v2 = Jeli tutón cil z nami dźěliće, zdźěl
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla
 manifesto-we-create-open = Wuwiwamy <a { $github_link }>software wotewrjeneho žórła</a>, na kotruž móžeće so zepěrać.
+# Variables:
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+manifesto-we-fund-fellows = <a { $mofo_link }>Financujemy partnarow a wumyslujemy so projekty</a>, kotrež so na wutworjenje lěpšeho přichoda online měrja.
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = <a { $mozai_link }>Wuwiwamy nastroje KI wotewrjeneho žórła</a>, kotrež wuwiwarjam wólbu dawaja – a pomhaja jich pjenjezy zalutować.
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = <a { $mozvc_link }>Inwestujemy do zamołwitych nowych technologiskich předewzaćow</a>.
 
 ## Obsolete strings (expire 2026-09-10)
 
