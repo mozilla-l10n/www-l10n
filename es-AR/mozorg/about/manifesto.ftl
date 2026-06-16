@@ -65,7 +65,7 @@ manifesto-we-fund-fellows = Nosotros <a { $mofo_link }>financiamos becarios e in
 manifesto-we-build-open-source = Nosotros <a { $mozai_link }>creamos herramientas de IA de código abierto</a> que brindan opciones a los desarrolladores y los ayudamos a ahorrar dinero.
 # Variables:
 #   $mozvc_link (url) - link to https://mozilla.vc
-manifesto-we-invest-in = Nosotros <a { $mozvc_link }>invertimos en nuevas empresas tecnológicas responsables</a>.
+manifesto-we-invest-in = Nosotros <a { $mozvc_link }>invertimos en startups tecnológicas responsables</a>.
 # Variables:
 #   $mdc_link (url) - link to https://mozilladatacollective.com/
 manifesto-we-run-a-global = <a { $mdc_link }>Dirigimos una comunidad global</a> para el intercambio justo de datos.
