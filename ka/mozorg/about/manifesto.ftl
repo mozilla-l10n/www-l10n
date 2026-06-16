@@ -75,7 +75,7 @@ manifesto-we-host-a-yearly = ჩვენ <a { $festival_link }>ვატარ�
 # Variables:
 #   $firefox_link (url) - link to https://www.firefox.com/
 #   $thunderbird_link (url) - link to https://www.thunderbird.net/
-manifesto-we-make-firefox-and-thunderbird = და, რა თქმა უნდა, ვქმნით <a { $firefox_link }>{ -brand-name-firefox }</a> და <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. ეს ყველაფერი კი გამიზნულია, რომ ხალხს დავეხმაროთ, გახდნენ ინტერნეტი ჯანსაღი ადგილად.
+manifesto-we-make-firefox-and-thunderbird = და, რა თქმა უნდა, მუდამ ვცდილობთ დავხვეწოთ <a { $firefox_link }>{ -brand-name-firefox }</a> და <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. ეს ყველაფერი კი გამიზნულია ხალხის დასახმარებლად ინტერნეტის ჯანსაღ გარემოდ ქცევის საქმეში.
 
 ## Obsolete strings (expire 2026-09-10)
 
