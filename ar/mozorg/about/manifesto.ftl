@@ -50,6 +50,19 @@ manifesto-details-use-the-mozilla = واستخدام أصول { -brand-name-mozi
 manifesto-details-promote-models = وتعزيز نماذج لِخلق قيمة اقتصادية للمصلحة العامة؛
 manifesto-details-promote-the-mozilla = وتعزيز مبادئ بيان { -brand-name-mozilla } في الخطاب العام وداخل صِناعة الإنترنت.
 
+manifesto-written-in-2007 = يُحدّد بيان { -brand-name-mozilla }، الذي صدر عام 2007، المبادئ الجوهرية التي تقوم عليها المؤسسة. وقد صدر تعهّد الإنترنت الصحي كمُلحق لهذا البيان في عام 2017، ليعكس التزامنا العميق بضمان أن يخدم الإنترنت احتياجات البشر والإنسانية جمعاء. وتُشكل هاتان الوثيقتان معًا الإطار الموجّه لجميع أعمال { -brand-name-mozilla } — ما نبنيه، وما نموّله، وكيف نعمل معًا كمجتمع واحد.
+manifesto-mozillas-pledge = تعهّد { -brand-name-mozilla }
+manifesto-across-the-mozilla-project = على مستوى مشروع { -brand-name-mozilla } وجميع المؤسسات ضمن عائلة { -brand-name-mozilla }، نتعهّد بدعم بيان { -brand-name-mozilla } في أنشطتنا. على وجه التحديد، سَنقوم بما يلي:
+manifesto-we-need-you = نحتاج إليكم للنهوض بالبيان
+manifesto-an-internet-with-these-v2 = إنترنت بهذه المواصفات لن يتحقّق من تلقاء نفسه. يَجب على الأفراد والمؤسسات ترسيخ هذه التطلّعات في تقنيات الإنترنت وفي التجربة البشرية معه. يُمثل بيان { -brand-name-mozilla } والملحق التزام { -brand-name-mozilla } بالنهوض بهذه التطلعات. وتعمل { -brand-name-mozilla } مع أفراد ومؤسسات في كل مكان يسعون إلى جعل الإنترنت مكانًا أفضل للجميع.
+manifesto-our-commitments = التزاماتنا
+
+
+
+
+
+
+
 
 
 ## Obsolete strings (expire 2026-09-10)
