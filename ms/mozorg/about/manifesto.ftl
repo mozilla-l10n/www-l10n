@@ -50,6 +50,19 @@ manifesto-details-use-the-mozilla = menggunakan aset-aset { -brand-name-mozilla 
 manifesto-details-promote-models = mempromosikan model bagi mencipta nilai ekonomi bagi kepentingan awam; dan
 manifesto-details-promote-the-mozilla = mempromosikan prinsip-prinsip Manifesto { -brand-name-mozilla } dalam wacana awam dan terhad di dalam industri internet.
 
+manifesto-written-in-2007 = Manifesto { -brand-name-mozilla }, ditulis pada tahun 2007, menggariskan prinsip utama kami. Ikrar Demi Internet yang Sihat ditulis pada tahun 2017 sebagai tambahan kepada Manifesto bagi mencerminkan komitmen kami yang mendalam dalam memastikan internet menjadi platform yang mampu berkhidmat kepada manusia sejagat. Bersama, kedua-dua dokumen ini menjadi panduan bagi { -brand-name-mozilla } secara keseluruhannya — perkara yang kami bangunkan, perkara yang kami biayai dan cara kami bekerjasama sebagai satu komuniti.
+manifesto-mozillas-pledge = Ikrar { -brand-name-mozilla }
+manifesto-across-the-mozilla-project = Kami berikrar untuk menyokong Manifesto { -brand-name-mozilla } dalam semua aktiviti-aktivitinya merentasi semua Projek { -brand-name-mozilla } serta setiap organisasi di bawah keluarga { -brand-name-mozilla }. Secara khususnya, kami akan:
+manifesto-we-need-you = Kami Perlukan Anda Untuk Memajukan Manifesto Ini
+manifesto-an-internet-with-these-v2 = Internet yang sedemikian kualitinya tidak akan wujud dengan sendiri. Insan dan organisasi perlu menanam aspirasi sebegini ke dalam teknologi internet serta pengalaman manusia menggunakan internet. Manifesto dan Adendum { -brand-name-mozilla } ini mewakili komitmen { -brand-name-mozilla } untuk membawa aspirasi ini ke hadapan. { -brand-name-mozilla } bekerjasama dengan mana-mana insan dan organisasi yang mahu menjadikan internet lebih baik untuk semua orang.
+manifesto-our-commitments = Komitmen Kami
+
+
+
+
+
+
+
 
 
 ## Obsolete strings (expire 2026-09-10)

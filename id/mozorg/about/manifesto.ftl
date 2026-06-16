@@ -50,6 +50,19 @@ manifesto-details-use-the-mozilla = menggunakan aset { -brand-name-mozilla } (ke
 manifesto-details-promote-models = mempromosikan model guna menciptakan nilai ekonomi untuk kepentingan publik; dan
 manifesto-details-promote-the-mozilla = mempromosikan prinsip Manifesto { -brand-name-mozilla } dalam wacana publik dan dalam industri internet.
 
+manifesto-written-in-2007 = Manifesto { -brand-name-mozilla }, yang ditulis pada tahun 2007, menguraikan prinsip-prinsip utama kami. Ikrar untuk Internet Sehat ditambahkan ke Manifesto pada tahun 2017 sebagai wujud komitmen kami untuk memastikan internet melayani kebutuhan setiap orang dan kemanusiaan secara keseluruhan. Bersama-sama, kedua dokumen ini menjadi pedoman bagi seluruh pekerjaan di { -brand-name-mozilla } — mulai dari apa yang kami bangun, apa yang kami dukung, hingga cara kami bekerja bersama sebagai komunitas.
+manifesto-mozillas-pledge = Ikrar { -brand-name-mozilla }
+manifesto-across-the-mozilla-project = Di seluruh Proyek { -brand-name-mozilla } dan setiap organisasi dalam keluarga { -brand-name-mozilla }, kami berkomitmen untuk mendukung Manifesto { -brand-name-mozilla } dalam setiap kegiatan yang kami lakukan. Secara khusus, kami akan:
+manifesto-we-need-you = Kami Membutuhkan Dukungan Anda untuk Memajukan Manifesto ini
+manifesto-an-internet-with-these-v2 = Internet dengan kualitas ini tidak akan hidup dengan sendirinya. Orang-orang dan organisasi harus menanamkan aspirasi ini ke dalam teknologi internet dan ke dalam pengalaman manusia dengan internet. Manifesto dan Adendum { -brand-name-mozilla } mewakili komitmen { -brand-name-mozilla } untuk memajukan aspirasi ini. { -brand-name-mozilla } bekerja sama dengan orang-orang dan organisasi di mana pun yang ingin menjadikan internet tempat yang lebih baik bagi semua.
+manifesto-our-commitments = Komitmen Kami
+
+
+
+
+
+
+
 
 
 ## Obsolete strings (expire 2026-09-10)
