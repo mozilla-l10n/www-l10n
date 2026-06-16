@@ -53,6 +53,22 @@ manifesto-across-the-mozilla-project = Yn it hiele { -brand-name-mozilla }-proje
 manifesto-we-need-you = Wy hawwe jo nedich om it Manifesto te befoarderjen
 manifesto-an-internet-with-these-v2 = In ynternet mei dizze kwaliteiten ûntstiet net samar. Minsken en organisaasjes moatte dizze aspiraasjes, sawol yn ynternettechnology as ek yn it yndividuele ûnderfinen, yn it ynternet yntegrearje. { -brand-name-mozilla }’s Manifesto en it addendum stiet foar { -brand-name-mozilla }’s ynset foar dizze doelen. Wy wolle gearwurkje mei minsken en organisaasjes fan oer de hiele wrâld dy’t dizze doelen diele, om it ynternet in better plak foar elkenien te meitsjen.
 manifesto-our-commitments = Us beloften
+manifesto-if-you-share-this-goal-v2 = As jo dit doel diele, lit ús dan witte hoe’t wy helpe kinne.
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+manifesto-we-create-open = Wy meitsje <a { $github_link }>iepen-boarnesoftware</a> dêr’t jo op bouwe kinne.
+# Variables:
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+manifesto-we-fund-fellows = Wy <a { $mofo_link }>finansiere lykstimden en stimulearje projekten</a> dy’t rjochte binne op it meitsjen fan in bettere takomst online.
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = Wy <a { $mozai_link }>bouwe iepen-boarne-AI-ark</a> dy’t ûntwikkelers kar biede – en harren helpe jild te besparjen.
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = Wy <a { $mozvc_link }>ynvestearje yn ferantwurdlike technyske start-ups</a>.
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = Wy <a { $mdc_link }>hawwe in wrâldwide mienskip</a> foar earlike gegevensútwikseling.
 
 ## Obsolete strings (expire 2026-09-10)
 
