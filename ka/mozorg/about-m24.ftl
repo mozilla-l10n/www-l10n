@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } ქმნის ბრაუზე
 
 ## Intro
 
+m24-about-guard-the-internet = დაიცავით ღია ინტერნეტი
 # Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = დაიბრუნეთ ინტერნეტი ჩვენთან ერთად
 m24-about-mozilla-is-working = { -brand-name-mozilla } გამალებით მუშაობს, რომ ინტერნეტის მართვის სადავეები ხალხს დაუბრუნოს.

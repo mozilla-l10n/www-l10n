@@ -12,6 +12,7 @@ m24-about-page-desc = A { -brand-name-mozilla } olyan böngészőket, alkalmazá
 
 ## Intro
 
+m24-about-guard-the-internet = Őrizze a nyílt internetet
 # Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Szerezze vissza velünk az internetet
 m24-about-mozilla-is-working = A { -brand-name-mozilla } azon dolgozik, hogy visszaadja az internet irányítását az azt használók kezébe.

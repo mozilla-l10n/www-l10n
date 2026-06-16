@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } produce navigatores, apps, codice 
 
 ## Intro
 
+m24-about-guard-the-internet = Guardar internet aperte
 # Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Revindica internet con nos
 m24-about-mozilla-is-working = { -brand-name-mozilla } labora pro re-poner le controlo de internet in le manos del personas qui lo usa.

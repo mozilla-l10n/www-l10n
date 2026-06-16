@@ -12,6 +12,7 @@ m24-about-page-desc = Mae { -brand-name-mozilla } yn creu porwyr, apiau, cod ac 
 
 ## Intro
 
+m24-about-guard-the-internet = Gwarchod y Rhyngrwyd Agored
 # Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Adfer y rhyngrwyd gyda ni
 m24-about-mozilla-is-working = Mae { -brand-name-mozilla } yn gweithio i roi rheolaeth dros y rhyngrwyd yn ôl yn nwylo'r bobl sy'n ei ddefnyddio.

@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } vytváří prohlížeče, aplikace
 
 ## Intro
 
+m24-about-guard-the-internet = Hlídejte otevřený internet
 # Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Vezměte si s námi internet zpět
 m24-about-mozilla-is-working = { -brand-name-mozilla } se snaží vrátit kontrolu nad internetem zpět do rukou lidí, kteří ho používají.
