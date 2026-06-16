@@ -57,6 +57,21 @@ manifesto-if-you-share-this-goal-v2 = Jolic toś ten cel z nami źěliśo, dajś
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla
 manifesto-we-create-open = Wuwijamy <a { $github_link }>software wótwórjonego žrědła</a>, na kótaruž móžośo se zepěraś.
+# Variables:
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+manifesto-we-fund-fellows = <a { $mofo_link }>Financěrujomy partnarjow a wumyslujomy sej projekty</a>, kótarež se na napóranje lěpšego pśichoda online měrje.
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = <a { $mozai_link }>Wuwijamy rědy KI wótwórjonego žrědła</a>, kótarež wuwijarjam wólbu dawaju – a pomagaju jich pjenjeze zažariś.
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = <a { $mozvc_link }>Inwestěrujomy do zagronitych nowych technologiskich pśedewześow</a>.
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = <a { $mdc_link }>Wuźaržujomy globalnu zgromaźeństwo</a> za fairnu wuměnu datow.
+# Variables:
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+manifesto-we-host-a-yearly = <a { $festival_link }>Organizěrujomy kuždolětne globalne makanje</a> za luźi, kótarež wšykno a kužde wuwijaju, aby manifest doprědka pśinjasli.
 
 ## Obsolete strings (expire 2026-09-10)
 
