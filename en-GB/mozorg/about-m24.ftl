@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } makes browsers, apps, code and too
 
 ## Intro
 
+m24-about-guard-the-internet = Guard the Open Internet
 # Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Reclaim the internet with us
 m24-about-mozilla-is-working = { -brand-name-mozilla } is working to put control of the internet back in the hands of the people using it.
