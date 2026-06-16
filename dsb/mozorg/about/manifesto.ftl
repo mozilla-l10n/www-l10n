@@ -72,6 +72,10 @@ manifesto-we-run-a-global = <a { $mdc_link }>Wuźaržujomy globalnu zgromaźeńs
 # Variables:
 #   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
 manifesto-we-host-a-yearly = <a { $festival_link }>Organizěrujomy kuždolětne globalne makanje</a> za luźi, kótarež wšykno a kužde wuwijaju, aby manifest doprědka pśinjasli.
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = A, se wě, napórajomy <a { $firefox_link }>{ -brand-name-firefox }</a> a <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. To wšykno, aby my luźam pomagali, internet k strowemu městnoju cynili.
 
 ## Obsolete strings (expire 2026-09-10)
 
