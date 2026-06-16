@@ -59,19 +59,19 @@ manifesto-if-you-share-this-goal-v2 = თუ იზიარებთ ამ მ
 manifesto-we-create-open = ჩვენ ვქმნით <a { $github_link }>ღია წყაროს მქონე პროგრამას</a>, რომლის გამოყენებაც შეგიძლიათ.
 # Variables:
 #   $mofo_link (url) - link to https://www.mozillafoundation.org/
-manifesto-we-fund-fellows = ჩვენ <a { $mofo_link }>ვაფინანსებთ სტიპენდიებს და ვაფინანსებთ პროექტებს</a>, რომლებიც მიზნად ისახავს ინტერნეტში უკეთესი მომავლის შექმნას.
+manifesto-we-fund-fellows = <a { $mofo_link }>ვაფინანსებთ ხალხსა და ხელს ვუწყობთ ყოველგვარ წამოწყებას</a>, მიმართულს ინტერნეტის სამომავლო გაუმჯობესებისკენ.
 # Variables:
 #   $mozai_link (url) - link to https://www.mozilla.ai
-manifesto-we-build-open-source = ჩვენ <a { $mozai_link }>ვქმნით ღია წყაროს მქონე ხელოვნური ინტელექტის ხელსაწყოებს</a>, რომელიც შემმუშავებლებს არჩევანის უფლებას აძლევს — დახმარებიან ფულის დაზოგვაში.
+manifesto-we-build-open-source = <a { $mozai_link }>ვქმნით ღია წყაროს ხელგონის ხელსაწყოებს</a>, რომლებიც შემმუშავებლებს არჩევანის უფლებას აძლევს — და ფულის დაზოგვის საშუალებას.
 # Variables:
 #   $mozvc_link (url) - link to https://mozilla.vc
-manifesto-we-invest-in = ჩვენ <a { $mozvc_link }>ინვესტიციებს ვდებთ პასუხისმგებელი ტექნოლოგიურ დამწყებებში</a>.
+manifesto-we-invest-in = <a { $mozvc_link }>ვაბანდებთ პასუხისმგებელ ტექწამოწყებებში</a>.
 # Variables:
 #   $mdc_link (url) - link to https://mozilladatacollective.com/
-manifesto-we-run-a-global = ჩვენ <a { $mdc_link }>ვმართავთ გლობალურ ერთობას</a> მონაცემთა პატიოსანი გაცვლისთვის.
+manifesto-we-run-a-global = <a { $mdc_link }>ვკრებთ საერთაშორისო ერთობას</a> მონაცემთა მართლზომიერი მიმოცვლისთვის.
 # Variables:
 #   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
-manifesto-we-host-a-yearly = ჩვენ <a { $festival_link }>ვატარებთ ყოველწლიურ გლობალურ შეკრებას</a> ხალხისთვის, რომლებიც ყველაფერს და ყველაფერს აკეთებენ, მანიფესტის ხელშესაწყობად.
+manifesto-we-host-a-yearly = <a { $festival_link }>ვმართავთ ყოველწლიურ საერთაშორისო შეკრებას</a> ხალხისთვის, რომლებიც ქმნიან ნებისმიერ რამესა თუ ყველაფერს დებულებების ხელშესაწყობად.
 # Variables:
 #   $firefox_link (url) - link to https://www.firefox.com/
 #   $thunderbird_link (url) - link to https://www.thunderbird.net/
