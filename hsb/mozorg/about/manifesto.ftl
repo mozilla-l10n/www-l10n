@@ -66,6 +66,16 @@ manifesto-we-build-open-source = <a { $mozai_link }>Wuwiwamy nastroje KI wotewrj
 # Variables:
 #   $mozvc_link (url) - link to https://mozilla.vc
 manifesto-we-invest-in = <a { $mozvc_link }>Inwestujemy do zamołwitych nowych technologiskich předewzaćow</a>.
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = <a { $mdc_link }>Wudźeržujemy globalnu zhromadźenstwo</a> za fairnu wuměnu datow.
+# Variables:
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+manifesto-we-host-a-yearly = <a { $festival_link }>Organizujemy kóždolětne globalne zetkanje</a> za ludźi, kotřiž wšitko a kóžde wuwiwaja, zo bychu manifest doprědka přinjesli.
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = A, so wě, wutworjamy <a { $firefox_link }>{ -brand-name-firefox }</a> a <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. To wšitko, zo bychmy ludźom pomhali, internet k strowemu městnu činili.
 
 ## Obsolete strings (expire 2026-09-10)
 
