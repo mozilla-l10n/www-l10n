@@ -50,6 +50,19 @@ manifesto-details-use-the-mozilla = utiliser les avoirs de { -brand-name-mozilla
 manifesto-details-promote-models = faire la promotion de modèles de création de valeur économique pour l’intérêt public ;
 manifesto-details-promote-the-mozilla = faire la promotion des principes du Manifeste { -brand-name-mozilla } dans notre discours public et au sein de l’industrie d’Internet.
 
+manifesto-written-in-2007 = Le Manifeste { -brand-name-mozilla }, rédigé en 2007, définit nos principes fondamentaux. Le complément « Engagement pour un Internet plus sain » a été ajouté à notre Manifeste en 2017 pour matérialiser notre promesse : faire en sorte qu’Internet soit au service des besoins des êtres humains et de l’humanité dans son ensemble. Ensemble, ces deux documents orientent tout le travail effectué par { -brand-name-mozilla }  ce que nous concevons – ce que nous finançons et la façon dont notre communauté travaille collectivement.
+manifesto-mozillas-pledge = L’engagement de { -brand-name-mozilla }
+manifesto-across-the-mozilla-project = L’intégralité du projet { -brand-name-mozilla } et toutes les organisations de la famille { -brand-name-mozilla } s’engagent à soutenir le Manifeste { -brand-name-mozilla } dans ses activités. Plus particulièrement, nous allons :
+manifesto-we-need-you = Nous avons besoin de vous pour promouvoir le Manifeste.
+manifesto-an-internet-with-these-v2 = Un Internet avec ces qualités ne pourra pas voir le jour tout seul. Des individus et des organisations devront intégrer ces aspirations au cœur des technologies d’Internet et dans les relations qu’entretiennent les êtres humains avec Internet. Le Manifeste { -brand-name-mozilla } et son complément témoignent de l’engagement de { -brand-name-mozilla } à promouvoir ces aspirations. { -brand-name-mozilla } collabore avec des individus et des organisations du monde entier qui souhaitent faire d’Internet un endroit encore plus agréable pour tout le monde.
+manifesto-our-commitments = Nos engagements
+
+
+
+
+
+
+
 
 
 ## Obsolete strings (expire 2026-09-10)
