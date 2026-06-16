@@ -7,7 +7,7 @@
 
 not-found-page-not-found-page-page-not-found = 404: გვერდი ვერ  მოიძებნა
 not-found-page-sorry-we-cant-find-that-page = სამწუხაროდ, მოთხოვნილი გვერდი ვერ მოიძებნა
-not-found-page-were-all-about-a-healthy-internet = ჩვენ ვიღწვით ჯანსაღი ინტერნეტისთვის, თუმცა ზოგჯერ გვეპარება დაზიანებული URL-ბმულებიც.
+not-found-page-were-all-about-a-healthy-internet = ვიღწვით ჯანსაღი ინტერნეტისთვის, თუმცა ზოგჯერ გვეპარება დაზიანებული URL-ბმულებიც.
 not-found-page-go-back = უკან დაბრუნება
 # Variables:
 #   $about (url) - link to https://www.mozilla.org/about/

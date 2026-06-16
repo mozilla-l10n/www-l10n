@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/mission/
 
-mission-were-building-a-better-internet = ჩვენ ვქმნით უკეთეს ინტერნეტს
+mission-were-building-a-better-internet = ვქმნით უკეთეს ინტერნეტს
 mission-our-mission-is-to-ensure-the-internet = ჩვენი მიზანია უზრუნველვყოთ ინტერნეტის საერთაშორისო საჯარო რესურსად შენარჩუნება, მისი გახსნილობა და საყოველთაო ხელმისაწვდომობა. ინტერნეტი, რომელიც მართლაც ხალხს აყენებს ყველაფერზე წინ, სადაც პიროვნებებს თავად შეუძლიათ გადაწყვეტილებების მიღება და არიან უფლებამოსილნი, დაცულნი და დამოუკიდებელნი.
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = ჩვენი მისიაა ინტერნეტში გახსნილობის, ინოვაციის და შესაფერისი გარემოებისთვის ხელის შეწყობაა.
