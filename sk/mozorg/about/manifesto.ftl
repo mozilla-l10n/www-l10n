@@ -60,6 +60,22 @@ manifesto-we-create-open = Vytvárame <a { $github_link }>softvér s otvoreným 
 # Variables:
 #   $mofo_link (url) - link to https://www.mozillafoundation.org/
 manifesto-we-fund-fellows = <a { $mofo_link }>Financujeme štipendistov a inkubujeme projekty</a> zamerané na vytvorenie lepšej budúcnosti online.
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = Vytvárame <a { $mozai_link }>nástroje s otvoreným zdrojovým kódom založené na umelej inteligencii</a>, ktoré dávajú vývojárom na výber – a pomáhajú im ušetriť peniaze.
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = <a { $mozvc_link }>Investujeme do zodpovedných technologických startupov</a>.
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = Prevádzkujeme <a { $mdc_link }>globálnu komunitu</a> pre spravodlivú výmenu údajov.
+# Variables:
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+manifesto-we-host-a-yearly = Každoročne <a { $festival_link }>organizujeme globálne stretnutie</a> pre ľudí, ktorí robia všetko pre presadzovanie Manifestu.
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = A samozrejme, vytvárame <a { $firefox_link }>{ -brand-name-firefox(case: "acc") }</a> a <a { $thunderbird_link }>{ -brand-name-thunderbird(case: "acc") }</a>. Toto všetko má za cieľ pomôcť ľuďom urobiť z internetu zdravé miesto.
 
 ## Obsolete strings (expire 2026-09-10)
 
