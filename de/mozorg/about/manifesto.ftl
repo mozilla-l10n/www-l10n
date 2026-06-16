@@ -50,6 +50,19 @@ manifesto-details-use-the-mozilla = das Vermögen und die Ressourcen der { -bran
 manifesto-details-promote-models = Modelle fördern, die einen wirtschaftlichen Beitrag zum Wohl der Gemeinschaft schaffen; und
 manifesto-details-promote-the-mozilla = uns für die Prinzipien des { -brand-name-mozilla }-Manifests in der öffentlichen Diskussion und der Internet-Wirtschaft einsetzen.
 
+manifesto-written-in-2007 = Das { -brand-name-mozilla }-Manifest, verfasst 2007, beschreibt unsere Kernprinzipien. Das Versprechen für ein gesundes Internet wurde 2017 als Ergänzung für das Manifest erstellt, um unser tiefgreifendes Engagement widerzuspiegeln, uns dafür einzusetzen, dass das Internet menschlichen Bedürfnissen und der Menschheit insgesamt dient. Zusammen sind diese zwei Dokumente unser Leitfaden für alle Arbeiten von { -brand-name-mozilla } – was wir entwickeln, was wir fördern und wie wir als Community zusammenarbeiten.
+manifesto-mozillas-pledge = Das Versprechen von { -brand-name-mozilla }
+manifesto-across-the-mozilla-project = Über das { -brand-name-mozilla }-Projekt und jede Organisation aus der { -brand-name-mozilla }-Familie versprechen wir, das { -brand-name-mozilla }-Manifest und seine Aktivitäten zu unterstützen. Im Besonderen werden wir:
+manifesto-we-need-you = Wir brauchen dich, um das Manifest voranzubringen
+manifesto-an-internet-with-these-v2 = Ein Internet mit diesen Eigenschaften entsteht nicht von selbst. Menschen und Organisationen müssen diese Ziele sowohl in Internettechnologie als auch in das individuelle Erleben im Internet integrieren. Das { -brand-name-mozilla }-Manifest und dessen Ergänzung repräsentieren das Engagement von { -brand-name-mozilla } für diese Ziele. { -brand-name-mozilla } arbeitet Menschen und Organisationen auf der ganzen Welt zusammen, die zu einem besseren Internet für alle beitragen wollen.
+manifesto-our-commitments = Unser Engagement
+
+
+
+
+
+
+
 
 
 ## Obsolete strings (expire 2026-09-10)
