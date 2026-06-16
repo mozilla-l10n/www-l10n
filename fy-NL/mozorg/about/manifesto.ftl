@@ -69,6 +69,13 @@ manifesto-we-invest-in = Wy <a { $mozvc_link }>ynvestearje yn ferantwurdlike tec
 # Variables:
 #   $mdc_link (url) - link to https://mozilladatacollective.com/
 manifesto-we-run-a-global = Wy <a { $mdc_link }>hawwe in wrâldwide mienskip</a> foar earlike gegevensútwikseling.
+# Variables:
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+manifesto-we-host-a-yearly = Wy <a { $festival_link }>organisearje in jierliks wrâldwide gearkomste</a> foar minsken dy’t fan alles en noch wat bouwe om it manifest te befoarderjen.
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = En fansels, meitsje wy <a { $firefox_link }>{ -brand-name-firefox }</a> en <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Dit alles is bedoeld om minsken te helpen fan it ynternet in sûn plak te meitsjen.
 
 ## Obsolete strings (expire 2026-09-10)
 
