@@ -50,6 +50,19 @@ manifesto-details-use-the-mozilla = { -brand-name-mozilla } の資産 (著作権
 manifesto-details-promote-models = 公益のための経済的価値のモデルを推進します
 manifesto-details-promote-the-mozilla = 公衆との対話とインターネット業界において、{ -brand-name-mozilla } のマニフェストの原則を促進します
 
+manifesto-written-in-2007 = 2007 年に作成された「{ -brand-name-mozilla } のマニフェスト」は、Mozilla の基本理念を記述しています。「共に健全なインターネットを作りましょう」が 2017 年にこのマニフェストの補遺として作成され、インターネットが人間および人類全体のためになるものにするという Mozilla の公約を反映しています。これら 2 つの文書が { -brand-name-mozilla } でのあらゆる活動、すなわち私たちが作るもの、資金を投資するもの、コミュニティとしての連携方法の指針となっています。
+manifesto-mozillas-pledge = { -brand-name-mozilla } の約束
+manifesto-across-the-mozilla-project = { -brand-name-mozilla } プロジェクトおよび { -brand-name-mozilla } ファミリーに属するすべての組織は、その活動において { -brand-name-mozilla } のマニフェストに従うことを誓います。具体的には、以下を守ります。
+manifesto-we-need-you = マニフェストを推進するためにご協力ください
+manifesto-an-internet-with-these-v2 = こうした性質のインターネットはおのずから実現されるものではありません。多くの人々や組織が、こうした願望をインターネット技術と人間のインターネット上のエクスペリエンスに組み入れる必要があります。{ -brand-name-mozilla } のマニフェストとその補遺は、こうした願望を推進する { -brand-name-mozilla } の約束です。{ -brand-name-mozilla } は、あらゆる人々のためにインターネットをより良い場にすることを目指す世界各地の人々や組織と協働しています。
+manifesto-our-commitments = Mozilla の公約
+
+
+
+
+
+
+
 
 
 ## Obsolete strings (expire 2026-09-10)
