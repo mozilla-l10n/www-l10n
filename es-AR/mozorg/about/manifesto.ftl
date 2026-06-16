@@ -53,7 +53,7 @@ manifesto-across-the-mozilla-project = En todo el Proyecto { -brand-name-mozilla
 manifesto-we-need-you = Te necesitamos para avanzar en el manifiesto
 manifesto-an-internet-with-these-v2 = Una internet con estas cualidades no cobrará vida por sí sola. Las personas y las organizaciones deben integrar estas aspiraciones en la tecnología de Internet y en la experiencia humana con Internet. El Manifiesto de { -brand-name-mozilla } y el Addendum representan el compromiso de { -brand-name-mozilla } para avanzar en estas aspiraciones. { -brand-name-mozilla } trabaja con personas y organizaciones de todo el mundo que quieren hacer de Internet un lugar aún mejor para todos.
 manifesto-our-commitments = Nuestros compromisos
-manifesto-if-you-share-this-goal-v2 = Si compartís este objetivo, cuéntanos cómo podemos ayudarte.
+manifesto-if-you-share-this-goal-v2 = Si compartís este objetivo, contanos cómo podemos ayudarte.
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla
 manifesto-we-create-open = Creamos <a { $github_link }>software de código abierto</a> sobre el que podés construir.
@@ -62,7 +62,7 @@ manifesto-we-create-open = Creamos <a { $github_link }>software de código abier
 manifesto-we-fund-fellows = Nosotros <a { $mofo_link }>financiamos becarios e incubamos proyectos</a> destinados a crear un futuro mejor en línea.
 # Variables:
 #   $mozai_link (url) - link to https://www.mozilla.ai
-manifesto-we-build-open-source = <a { $mozai_link }>Creamos herramientas de IA de código abierto</a> que brindan opciones a los desarrolladores y los ayudamos a ahorrar dinero.
+manifesto-we-build-open-source = Nosotros <a { $mozai_link }>creamos herramientas de IA de código abierto</a> que brindan opciones a los desarrolladores y los ayudamos a ahorrar dinero.
 # Variables:
 #   $mozvc_link (url) - link to https://mozilla.vc
 manifesto-we-invest-in = Nosotros <a { $mozvc_link }>invertimos en nuevas empresas tecnológicas responsables</a>.
