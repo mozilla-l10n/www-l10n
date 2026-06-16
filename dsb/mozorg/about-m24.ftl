@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } wobglědowaki, nałoženja, kod a 
 
 ## Intro
 
+m24-about-guard-the-internet = Wótwórjony internet wobzwarnowaś
 # Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Dobydniśo internet z nami slědk
 m24-about-mozilla-is-working = { -brand-name-mozilla } źěła na tom, kontrolu nad internetom do rukow luźi slědk daś, kótarež jen wužywaju.
