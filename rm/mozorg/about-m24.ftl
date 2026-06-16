@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } creescha navigaturs, apps, code ed
 
 ## Intro
 
+# Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Deliberescha l’internet cun nus
 m24-about-mozilla-is-working = { -brand-name-mozilla } lavura per dar la controlla da l’internet a las persunas ch’al utiliseschan.
 
@@ -21,13 +22,6 @@ m24-about-together-we-can = Communablamain pudain nus garantir che l’internet 
 m24-about-read-our-manifesto = Legia noss manifest
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Ina gruppa da pensaders sesan giun plaun en in rudè e barattan ideas.
-m24-about-advocate = Engaschi
-m24-about-we-advocate-for = Nus ans engaschain per megliers products e per che regenzas e concerns da tecnologia sajan responsabels per quai ch’els creeschan.
-m24-about-research = Retschertga
-m24-about-we-uncover-insights = Nus partin invistas, organisain campagnas per meglierar products e promover ina politica che resguarda tes interess.
-m24-about-build = Sviluppar
-m24-about-fund = Finanziaziun
-m24-about-we-fund-and = Nus investin en las persunas e l’engaschi che mainan la tecnologia, l’internet e l’IA en la dretga direcziun.
 
 ## News
 

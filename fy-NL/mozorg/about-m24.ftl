@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } makket browsers, apps, koade en he
 
 ## Intro
 
+# Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Claim it ynternet mei ús werom
 m24-about-mozilla-is-working = { -brand-name-mozilla } wurket deroan om kontrôle oer it ynternet werom te jaan yn de hannen fan de minsken dy’t it brûke.
 
@@ -21,14 +22,6 @@ m24-about-together-we-can = Tegearre kinne wy it ynternet maklik, feilich en fri
 m24-about-read-our-manifesto = Lês ús Manifest
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = In groep tinkers dy’t yn in sirkel op de flier sit en ideeën dielt.
-m24-about-advocate = Belangebehertiging
-m24-about-we-advocate-for = Wy pleitsje foar bettere produkten, wêrby wy oerheden en technologybedriuwen ferantwurdlik hâlde foar wat se meitsje.
-m24-about-research = Undersyk
-m24-about-we-uncover-insights = Wy ûntdekke ynsjoch, fiere kampanje om produkten te ferbetterjen en belied te stimulearjen dat jo belangen fertsjinwurdiget.
-m24-about-build = Bouwe
-m24-about-we-build-products-v2 = Wy bouwe produkten dy't jo yn kontrôle bringe – lykas { -brand-name-firefox } en mear.
-m24-about-fund = Finansiering
-m24-about-we-fund-and = Wy finansiere en ynvestearje yn de minsken en ynspanningen dy't technology, ynternet en AI yn de goede rjochting stjoere.
 
 ## News
 

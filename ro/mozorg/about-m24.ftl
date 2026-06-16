@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } creează browsere, aplicații, cod
 
 ## Intro
 
+# Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Recâștigă internetul alături de noi
 m24-about-mozilla-is-working = { -brand-name-mozilla } depune eforturi pentru a readuce controlul asupra internetului în mâinile utilizatorilor.
 
@@ -21,14 +22,6 @@ m24-about-together-we-can = Împreună, putem menține internetul ușor, sigur �
 m24-about-read-our-manifesto = Citește manifestul nostru
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Un grup de gânditori așezați în cerc pe podea, împărtășind idei.
-m24-about-advocate = Activism
-m24-about-we-advocate-for = Pledăm pentru produse mai bune, trăgând guvernele și corporațiile tehnologice la răspundere pentru ceea ce creează.
-m24-about-research = Cercetare
-m24-about-we-uncover-insights = Descoperim perspective, derulăm campanii pentru îmbunătățirea produselor și promovăm politici care îți reprezintă interesele.
-m24-about-build = Dezvoltare
-m24-about-we-build-products-v2 = Dezvoltăm produse care îți oferă controlul — cum ar fi { -brand-name-firefox } și multe altele.
-m24-about-fund = Finanțare
-m24-about-we-fund-and = Finanțăm și investim în oamenii și eforturile care duc tehnologia, internetul și inteligența artificială în direcția corectă.
 
 ## News
 

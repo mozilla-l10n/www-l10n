@@ -12,6 +12,7 @@ m24-about-page-desc = A { -brand-name-mozilla } olyan böngészőket, alkalmazá
 
 ## Intro
 
+# Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Szerezze vissza velünk az internetet
 m24-about-mozilla-is-working = A { -brand-name-mozilla } azon dolgozik, hogy visszaadja az internet irányítását az azt használók kezébe.
 
@@ -21,14 +22,6 @@ m24-about-together-we-can = Együtt érhetjük el, hogy az internet egyszerű, b
 m24-about-read-our-manifesto = Olvassa el a kiáltványunkat
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Egy csoport gondolkodó ül egy körben a földön, ötleteket megosztva.
-m24-about-advocate = Érdekképviselet
-m24-about-we-advocate-for = A jobb termékeket támogatjuk, számon kérve a kormányokat és a technológiai vállalatokat azért, amit létrehoznak.
-m24-about-research = Kutatás
-m24-about-we-uncover-insights = Meglátásokat tárunk fel, és olyan termékfejlesztésekért és szabályozásokért kampányolunk, melyek az Ön érdekeit képviselik.
-m24-about-build = Fejlesztés
-m24-about-we-build-products-v2 = Olyan termékeket készítünk, amelyekkel az Öné az irányítás – ilyen a { -brand-name-firefox } és a többi.
-m24-about-fund = Finanszírozás
-m24-about-we-fund-and = Olyan embereket és erőfeszítéseket finanszírozunk, és abba fektetünk be, hogy a technológiát, az internetet és a mesterséges intelligenciát a helyes irányba tereljük.
 
 ## News
 

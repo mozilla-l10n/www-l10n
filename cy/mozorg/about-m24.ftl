@@ -12,6 +12,7 @@ m24-about-page-desc = Mae { -brand-name-mozilla } yn creu porwyr, apiau, cod ac 
 
 ## Intro
 
+# Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Adfer y rhyngrwyd gyda ni
 m24-about-mozilla-is-working = Mae { -brand-name-mozilla } yn gweithio i roi rheolaeth dros y rhyngrwyd yn ôl yn nwylo'r bobl sy'n ei ddefnyddio.
 
@@ -21,14 +22,6 @@ m24-about-together-we-can = Gyda’n gilydd, gallwn gadw’r rhyngrwyd yn hawdd,
 m24-about-read-our-manifesto = Darllenwch ein maniffesto
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Grŵp o feddylwyr yn eistedd mewn cylch ar y llawr yn rhannu syniadau.
-m24-about-advocate = Eiriolwr
-m24-about-we-advocate-for = Rydym yn eiriol dros well cynnyrch, gan ddal llywodraethau a chorfforaethau technoleg yn atebol am yr hyn y maen nhw'n ei greu.
-m24-about-research = Ymchwil
-m24-about-we-uncover-insights = Rydym yn datgelu mewnwelediadau, yn ymgyrchu i wella cynnyrch ac yn gyrru ar bolisïau sy'n cynrychioli eich diddordebau.
-m24-about-build = Adeiladu
-m24-about-we-build-products-v2 = Rydyn ni'n adeiladu cynnyrch sy'n eich rhoi chi mewn rheolaeth — fel { -brand-name-firefox } a rhagor.
-m24-about-fund = Ariannu
-m24-about-we-fund-and = Rydym yn ariannu ac yn buddsoddi yn y bobl a'r ymdrechion i fynd â thechnoleg, y rhyngrwyd a deallusrwydd artiffisial i'r cyfeiriad cywir.
 
 ## News
 

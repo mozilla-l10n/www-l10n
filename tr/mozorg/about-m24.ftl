@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla }, insanlığı paranın üstünde t
 
 ## Intro
 
+# Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = İnternete hep beraber sahip çıkalım
 m24-about-mozilla-is-working = { -brand-name-mozilla } internetin kontrolünü interneti kullanan insanlara geri vermek için çalışıyor.
 
@@ -21,14 +22,6 @@ m24-about-together-we-can = Birlikte internetin herkes için kolay, güvenli ve 
 m24-about-read-our-manifesto = Manifestomuzu okuyun
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Yerde daire şeklinde oturmuş fikir alışverişi yapan bir grup insan.
-m24-about-advocate = Savunma
-m24-about-we-advocate-for = Daha iyi ürünleri savunuyor, hükümetlerin ve teknoloji şirketlerini yarattıklarını sorguluyoruz.
-m24-about-research = Araştırma
-m24-about-we-uncover-insights = İçgörüleri ortaya çıkarıyor, ürünleri iyileştiren kampanyalar yürütüyor ve çıkarlarınızı koruyan politikalar geliştiriyoruz.
-m24-about-build = Geliştirme
-m24-about-we-build-products-v2 = Kontrolü size veren { -brand-name-firefox } gibi birçok ürün geliştiriyoruz.
-m24-about-fund = Fonlama
-m24-about-we-fund-and = Teknolojiyi, interneti ve yapay zekâyı doğru yöne götüren insanlara ve girişimlere fon sağlayıp yatırım yapıyoruz.
 
 ## News
 

@@ -13,9 +13,6 @@ m24-about-page-desc = { -brand-name-mozilla } براؤزرز، ایپس، کوڈ
 ## Manifesto
 
 m24-about-read-our-manifesto = ساݙا منشور پڑھو
-m24-about-advocate = وکالت
-m24-about-research = تحقیق
-m24-about-fund = فنڈ
 
 ## News
 

@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } gör webbläsare, appar, kod och v
 
 ## Intro
 
+# Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Återta internet med oss
 m24-about-mozilla-is-working = { -brand-name-mozilla } arbetar för att ge tillbaka kontrollen över internet i händerna på de personer som använder det.
 
@@ -21,14 +22,6 @@ m24-about-together-we-can = Tillsammans kan vi hålla internet enkelt, säkert o
 m24-about-read-our-manifesto = Läs vårt manifest
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = En grupp tänkare som sitter i en cirkel på golvet och delar idéer.
-m24-about-advocate = Förespråkar
-m24-about-we-advocate-for = Vi förespråkar för bättre produkter, som håller regeringar och teknikföretag ansvariga för vad de skapar.
-m24-about-research = Forskning
-m24-about-we-uncover-insights = Vi avslöjar insikter, kampanjer för att förbättra produkter och driver policyer som representerar dina intressen.
-m24-about-build = Skapar
-m24-about-we-build-products-v2 = Vi skapar produkter som ger dig kontrollen — som { -brand-name-firefox } och fler.
-m24-about-fund = Finansiering
-m24-about-we-fund-and = Vi finansierar och investerar i människorna och de insatser som tar teknik, internet och AI i rätt riktning.
 
 ## News
 

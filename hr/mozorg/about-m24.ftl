@@ -8,6 +8,7 @@
 
 ## Intro
 
+# Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Povrati internet s nama
 m24-about-mozilla-is-working = { -brand-name-mozilla } radi na tome da kontrolu nad internetom vrati u ruke ljudi koji ga koriste.
 
@@ -17,14 +18,6 @@ m24-about-together-we-can = Zajedno možemo internet održati jednostavnim, sigu
 m24-about-read-our-manifesto = Pročitaj naš manifest
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Grupa mislilaca sjedi u krugu na podu i dijele ideje.
-m24-about-advocate = Zaštita
-m24-about-we-advocate-for = Zalažemo se za bolje proizvode te držimo vlade i tehnološke korporacije odgovornima za ono što stvaraju.
-m24-about-research = Istraživanje
-m24-about-we-uncover-insights = Otkrivamo uvide, provodimo kampanje za poboljšanje proizvoda i donosimo politike koje predstavljaju tvoje interese.
-m24-about-build = Izgradnja
-m24-about-we-build-products-v2 = Izgrađujemo proizvode koji ti pružaju kontrolu – kao što su { -brand-name-firefox } i drugi proizvodi.
-m24-about-fund = Financiranje
-m24-about-we-fund-and = Financiramo i ulažemo u ljude i projekte koji tehnologiju, internet i umjetnu inteligenciju usmjeravaju u pravom smjeru.
 
 ## News
 

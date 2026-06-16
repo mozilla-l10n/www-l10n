@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } crìa navicatura, app, còdici e s
 
 ## Intro
 
+# Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Pigghiàmuni a riti, nzèmmula
 m24-about-mozilla-is-working = { -brand-name-mozilla } travagghia pi purtari arrè u cuntrollu dâ riti nnî manu dî genti chi l’ùsanu.
 
@@ -21,13 +22,6 @@ m24-about-together-we-can = Nzèmmula putemu mantèniri a riti fàcili, sicura e
 m24-about-read-our-manifesto = Leggi u nostru manifestu
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Un gruppu di cristiani assittati ’n terra a cìrculu, chi si scàncianu pinzati.
-m24-about-advocate = Attivìsimu
-m24-about-we-advocate-for = Ammuttamu p’aviri prudutti megghiu, facènnuci pigghiari ê guverni e i mprisi a rispunzabbilità di chiḍḍu chi crìanu.
-m24-about-research = Ricerca
-m24-about-we-uncover-insights = Scupremu cosi ncignusi, facemu campagni pi fari megghiu i prudutti e prumuvemu pulìtichi chi riprisèntanu i to ntiressi.
-m24-about-build = Sbiluppu
-m24-about-fund = Finanziamentu
-m24-about-we-fund-and = Finanziamu e mmistemu nnî genti e nnî pruggetti chi pòrtanu a ticnuluggìa, a riti e a NA nnâ dirizzioni giusta.
 
 ## News
 

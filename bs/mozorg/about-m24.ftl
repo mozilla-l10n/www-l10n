@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } kreira browsere, aplikacije, kodov
 
 ## Intro
 
+# Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Povratite internet sa nama
 m24-about-mozilla-is-working = { -brand-name-mozilla } radi na tome da vrati kontrolu nad internetom u ruke ljudi koji ga koriste.
 
@@ -21,14 +22,6 @@ m24-about-together-we-can = Zajedno možemo učiniti internet jednostavnim, sigu
 m24-about-read-our-manifesto = Pročitajte naš manifest
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Grupa mislilaca koji sjede u krugu na podu i dijele ideje.
-m24-about-advocate = Zalaganje
-m24-about-we-advocate-for = Zalažemo se za bolje proizvode, držeći vlade i tehnološke korporacije odgovornima za ono što stvaraju.
-m24-about-research = Istraživanje
-m24-about-we-uncover-insights = Otkrivamo uvide, kampanju za poboljšanje proizvoda i vodimo politike koje predstavljaju vaše interese.
-m24-about-build = Izgradnja
-m24-about-we-build-products-v2 = Izrađujemo proizvode koji vam daju kontrolu — poput { -brand-name-firefox }a i drugih.
-m24-about-fund = Finansiranje
-m24-about-we-fund-and = Mi finansiramo i ulažemo u ljude i napore koji tehnologiju, internet i AI usmjeravaju u pravom smjeru.
 
 ## News
 

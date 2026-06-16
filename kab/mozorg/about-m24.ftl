@@ -13,8 +13,6 @@ m24-about-page-desc = { -brand-name-mozilla } txeddem iminigen, isnasen, tangalt
 ## Manifesto
 
 m24-about-read-our-manifesto = Γeṛ ameskan-nneɣ
-m24-about-research = Anadi
-m24-about-build = Bnu
 
 ## News
 

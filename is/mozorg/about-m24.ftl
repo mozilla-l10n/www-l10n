@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } býr til vafra, forrit, kóða og 
 
 ## Intro
 
+# Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Endurheimtu internetið með okkur
 m24-about-mozilla-is-working = { -brand-name-mozilla } er að vinna að því að setja stjórnina á internetinu aftur í hendur fólksins sem notar það.
 
@@ -21,13 +22,6 @@ m24-about-together-we-can = Saman getum við haft internetið auðvelt, öruggt 
 m24-about-read-our-manifesto = Lestu stefnuskrána okkar
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Hópur hugsuða sem situr í hring á gólfinu og deilir hugmyndum.
-m24-about-advocate = Ráðgjöf
-m24-about-we-advocate-for = Við tölum fyrir betri hugbúnaði og látum stjórnvöld og tæknifyrirtæki bera ábyrgð á sínum verkum.
-m24-about-research = Rannsóknir
-m24-about-we-uncover-insights = Við flettum upp ítarlegum greiningum, berjumst við að bæta vörur og knýjum fram stefnur sem standa með hagsmunum þínum.
-m24-about-build = Smíði
-m24-about-fund = Fjárfesting
-m24-about-we-fund-and = Við fjármögnum og fjárfestum í fólkinu og viðleitni til að taka tækni, internetið og gervigreind í rétta átt.
 
 ## News
 

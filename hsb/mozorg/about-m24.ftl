@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } wobhladowaki, nałoženja, kod a n
 
 ## Intro
 
+# Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Dobudźće internet z nami wróćo
 m24-about-mozilla-is-working = { -brand-name-mozilla } dźěła na tym, kontrolu nad internetom do rukow ludźi wróćo dać, kotřiž jón wužiwaja.
 
@@ -21,14 +22,6 @@ m24-about-together-we-can = Hromadźe móžemy internet lochki, wěsty a darmotn
 m24-about-read-our-manifesto = Čitajće naš manifest
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Skupina myslerjow, kotřiž w kole na špundowanju sedźa a ideje wuměnjeja.
-m24-about-advocate = Rěčnik
-m24-about-we-advocate-for = Zasadźujemy so za lěpše produkty, činimy knježerstwa a technologiske předewzaća zamołwite za to, štož wutworjeja.
-m24-about-research = Slědźenje
-m24-about-we-uncover-insights = Wotkrywamy dopóznaća, přewjedźemy kampanje, zo bychmy produkty polěpšili a wuwiwamy prawidła, kotrež waše zajimy reprezentuja.
-m24-about-build = Wuwiwać
-m24-about-we-build-products-v2 = Wuwiwamy produkty, kotrež wam kontrolu dadźa – kaž { -brand-name-firefox } a dalše.
-m24-about-fund = Financowanje
-m24-about-we-fund-and = Financujemy ludźi a prócowanja, kotrež technologiju, internet a KI k prawemu směrej doprědka ćěri a inwestujemy do toho.
 
 ## News
 
