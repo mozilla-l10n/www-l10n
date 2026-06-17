@@ -13,6 +13,7 @@ vpn-download-sub-heading = Puedes decargar { -brand-name-mozilla-vpn } hasta en 
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } ofrece protección segura para todos los principales sistemas operativos.
 vpn-download-not-available-in-country = Lo sentimos, { -brand-name-mozilla-vpn } no está disponible para descargar en tu país.
 vpn-download-for-windows-v2 = VPN para { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (solo 64-bits)
 vpn-download-for-windows-long = Descarga { -brand-name-mozilla-vpn } para { -brand-name-windows }
 vpn-download-for-mac = VPN para { -brand-name-mac-short }

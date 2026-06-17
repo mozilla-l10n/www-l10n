@@ -13,6 +13,7 @@ vpn-download-sub-heading = Gallwch lwytho i lawr { -brand-name-mozilla-vpn } ar 
 vpn-download-mozilla-vpn-offers = Mae { -brand-name-mozilla-vpn } yn cynnig amddiffyniad diogel a sicr i bob system weithredu fawr.
 vpn-download-not-available-in-country = Ymddiheuriadau, nid yw { -brand-name-mozilla-vpn } ar gael i'w lwytho i lawr yn eich gwlad.
 vpn-download-for-windows-v2 = VPN ar gyfer { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-did yn unig)
 vpn-download-for-windows-long = Llwythwch { -brand-name-mozilla-vpn } i lawr ar gyfer { -brand-name-windows }
 vpn-download-for-firefox-extension = Gosod estyniad { -brand-name-firefox }

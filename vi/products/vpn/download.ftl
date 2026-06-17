@@ -13,6 +13,7 @@ vpn-download-sub-heading = Bạn có thể tải xuống { -brand-name-mozilla-v
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } cung cấp khả năng bảo vệ an toàn và bảo mật cho tất cả các hệ điều hành.
 vpn-download-not-available-in-country = Xin lỗi, { -brand-name-mozilla-vpn } không khả dụng ở quốc gia của bạn.
 vpn-download-for-windows-v2 = VPN dành cho { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (chỉ 64-bit)
 vpn-download-for-windows-long = Tải xuống { -brand-name-mozilla-vpn } cho { -brand-name-windows }
 vpn-download-for-firefox-extension = Cài đặt tiện ích mở rộng cho { -brand-name-firefox }

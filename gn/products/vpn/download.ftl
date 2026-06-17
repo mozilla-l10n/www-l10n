@@ -13,6 +13,7 @@ vpn-download-sub-heading = Emboguejykuaa { -brand-name-mozilla-vpn } pe { $devic
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } ome’ẽse ñemo’ã hekorosãva opavavete apopyvusu omba’apóvape.
 vpn-download-not-available-in-country = Rombyasy, { -brand-name-mozilla-vpn } neremboguejykuaamo’ãi ko’ag̃aite ne retãme.
 vpn-download-for-windows-v2 = VPN { -brand-name-windows } peg̃uarã
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit añoitépe)
 vpn-download-for-windows-long = Emboguejy { -brand-name-mozilla-vpn } { -brand-name-windows } peg̃uarã
 vpn-download-for-firefox-extension = Emohenda jepysokue { -brand-name-firefox } pe- g̃uarã

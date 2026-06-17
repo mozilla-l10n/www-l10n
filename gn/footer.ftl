@@ -14,7 +14,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } { -brand-name-android } peg̃uarã
 footer-beta-for-android = { -brand-name-beta } { -brand-name-android } peg̃uarã
-footer-visit-mozilla-corporations = Eike <a { $moco_link }>{ -brand-name-mozilla-corporation } rendatee</a> viru’ỹre, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Ko tetepy vore ha’e ©1998–{ $current_year } mozilla.org pytyvõhára peteĩteĩva. Pe tetepy ejuhukuaa ko’ápe <a rel="license" href="{ $url }">{ -brand-name-creative-commons } moneĩmby</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Atyguasu
@@ -43,3 +42,5 @@ footer-follow-mozilla = Ehapykueho @{ -brand-name-mozilla }
 footer-follow-firefox = Ehapykueho @{ -brand-name-firefox }
 footer-about-this-site = Ko tenda rehegua
 footer-advertise = Emoherakuã { -brand-name-mozilla } ndive
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Eike <a { $moco_link }>{ -brand-name-mozilla-corporation } rendatee</a> viru’ỹre, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.

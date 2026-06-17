@@ -13,6 +13,7 @@ vpn-download-sub-heading = Ti pos telechargiar { -brand-name-mozilla-vpn } per f
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } porscha ina protecziun segira e segirada per tut ils sistems operativs ils pli derasads.
 vpn-download-not-available-in-country = Perstgisa, { -brand-name-mozilla-vpn } na po betg vegnir telechargià en tes pajais.
 vpn-download-for-windows-v2 = VPN per { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (mo 64 bits)
 vpn-download-for-windows-long = Telechargiar { -brand-name-mozilla-vpn } per { -brand-name-windows }
 vpn-download-for-mac = VPN per { -brand-name-mac-short }

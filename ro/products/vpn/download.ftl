@@ -13,6 +13,7 @@ vpn-download-sub-heading = Poți descărca { -brand-name-mozilla-vpn } pe până
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } oferă protecție sigură și securizată pentru toate sistemele de operare majore.
 vpn-download-not-available-in-country = Ne pare rău, dar { -brand-name-mozilla-vpn } nu este disponibil pentru descărcare în țara ta.
 vpn-download-for-windows-v2 = VPN pentru { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (numai pe 64 de biți)
 vpn-download-for-windows-long = Descarcă { -brand-name-mozilla-vpn } pentru { -brand-name-windows }
 vpn-download-for-firefox-extension = Instalează extensia { -brand-name-firefox }

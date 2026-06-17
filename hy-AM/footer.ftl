@@ -11,7 +11,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly }-ը { -brand-name-android }-ի համար
 footer-beta-for-android = { -brand-name-beta }-ը { -brand-name-android }-ի համար
-footer-visit-mozilla-corporations = Այցելեք ոչ առևտրային <a { $moco_link }>{ -brand-name-mozilla-corporation }-ի կայք</a>, ծնող ընկերություն՝ <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>:
 footer-portions-of-this-content = Այս բովանդակության մի մասը ©1998–{ $current_year } mozilla.org-ի անհատական կամավորների կողմից է։ Բովանդակությունը հասանելի է <a rel="license" href="{ $url }">{ -brand-name-creative-commons } արտոնագրով</a>։
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Ընկերության
@@ -31,3 +30,5 @@ footer-language = Լեզուն
 footer-go = Անցնել
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Այցելեք ոչ առևտրային <a { $moco_link }>{ -brand-name-mozilla-corporation }-ի կայք</a>, ծնող ընկերություն՝ <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>:

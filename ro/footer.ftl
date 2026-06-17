@@ -14,7 +14,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } pentru { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } pentru { -brand-name-android }
-footer-visit-mozilla-corporations = Vizitează organizația-mamă nonprofit a <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Porțiuni din acest conținut sunt ©1998–{ $current_year } de colaboratori individuali mozilla.org. Conținut disponibil sub o <a rel="license" href="{ $url }">licență { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Companie
@@ -43,3 +42,5 @@ footer-follow-mozilla = Urmărește @{ -brand-name-mozilla }
 footer-follow-firefox = Urmărește @{ -brand-name-firefox }
 footer-about-this-site = Despre acest site
 footer-advertise = Fă publicitate cu { -brand-name-mozilla }
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Vizitează organizația-mamă nonprofit a <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.

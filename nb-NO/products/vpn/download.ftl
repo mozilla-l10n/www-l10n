@@ -13,6 +13,7 @@ vpn-download-sub-heading = Du kan laste ned { -brand-name-mozilla-vpn } på oppt
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } tilbyr trygg og sikker beskyttelse for alle større operativsystemer.
 vpn-download-not-available-in-country = Beklager, { -brand-name-mozilla-vpn } er ikke tilgjengelig for nedlasting i ditt land.
 vpn-download-for-windows-v2 = VPN for { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (kun 64-bit)
 vpn-download-for-windows-long = Last ned { -brand-name-mozilla-vpn } for { -brand-name-windows }
 vpn-download-for-firefox-extension = Installer { -brand-name-firefox }-utvidelsen

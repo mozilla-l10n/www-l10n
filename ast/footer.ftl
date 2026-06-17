@@ -13,7 +13,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } p'{ -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } p'{ -brand-name-android }
-footer-visit-mozilla-corporations = Visita la matriz ensin ánimu de llucru de <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Partes d'esta páxina son ©1998–{ $current_year } de los collaboradores de mozilla.org. El conteníu ta disponible baxo una <a rel="license" href="{ $url }">llicencia de { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Compaña
@@ -36,3 +35,5 @@ footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-follow-mozilla = Siguir a @{ -brand-name-mozilla }
 footer-follow-firefox = Siguir a @{ -brand-name-firefox }
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Visita la matriz ensin ánimu de llucru de <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.

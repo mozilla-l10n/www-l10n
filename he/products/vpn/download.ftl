@@ -13,6 +13,7 @@ vpn-download-sub-heading = ניתן להוריד את { -brand-name-mozilla-vpn 
 vpn-download-mozilla-vpn-offers = ‏{ -brand-name-mozilla-vpn } מציע הגנה בטוחה ומאובטחת לכל מערכות ההפעלה העיקריות.
 vpn-download-not-available-in-country = מצטערים, { -brand-name-mozilla-vpn } אינו זמין להורדה במדינה שלך.
 vpn-download-for-windows-v2 = ‏VPN עבור { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64 סיביות בלבד)
 vpn-download-for-windows-long = הורדת { -brand-name-mozilla-vpn } עבור { -brand-name-windows }
 vpn-download-for-firefox-extension = התקנת ההרחבה ב־{ -brand-name-firefox }

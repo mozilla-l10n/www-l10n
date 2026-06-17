@@ -13,6 +13,7 @@ vpn-download-sub-heading = ທ່ານສາມາດດາວໂຫຼດ { -b
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } ສະຫນອງການປົກປ້ອງທີ່ປອດໄພແລະປອດໄພສໍາລັບທຸກລະບົບປະຕິບັດການທີ່ສໍາຄັນ.
 vpn-download-not-available-in-country = ຂໍອະໄພ, { -brand-name-mozilla-vpn } ບໍ່ສາມາດດາວໂຫລດໄດ້ໃນປະເທດຂອງທ່ານ.
 vpn-download-for-windows-v2 = VPN ສໍາລັບ { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit ເທົ່ານັ້ນ)
 vpn-download-for-windows-long = ດາວໂຫລດ { -brand-name-mozilla-vpn } ສໍາລັບ { -brand-name-windows }
 vpn-download-for-mac = VPN ສໍາລັບ { -brand-name-mac-short }

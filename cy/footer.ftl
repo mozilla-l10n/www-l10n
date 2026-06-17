@@ -14,7 +14,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } ar gyfer { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } ar gyfer { -brand-name-android }
-footer-visit-mozilla-corporations = Ewch at <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> rhiant nid-er-elw y <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Mae darnau o'r cynnwys yn ©1998–{ $current_year } gan gyfranwyr unigol mozilla.org. Mae'r cynnwys ar gael o dan <a rel="license" href="{ $url }">drwydded { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Cwmni
@@ -43,3 +42,5 @@ footer-follow-mozilla = Dilyn @{ -brand-name-mozilla }
 footer-follow-firefox = Dilyn @{ -brand-name-firefox }
 footer-about-this-site = Am y wefan hon
 footer-advertise = Hysbysebu gyda { -brand-name-mozilla }
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Ewch at <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> rhiant nid-er-elw y <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.

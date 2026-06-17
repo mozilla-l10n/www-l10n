@@ -13,6 +13,7 @@ vpn-download-sub-heading = { -brand-name-mozilla-vpn }ን በአንድ የደን
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } ለሁሉም ዋና ስርዓተ ክወናዎች ደህንነቱ የተጠበቀ እና አስተማማኝ ጥበቃ ያቀርባል።
 vpn-download-not-available-in-country = ይቅርታ፣ { -brand-name-mozilla-vpn } ባሉበት አገር ለማውረድ አይገኝም።
 vpn-download-for-windows-v2 = ቪፒኤን ለ{ -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-ቢት ብቻ)
 vpn-download-for-windows-long = { -brand-name-mozilla-vpn }ን ለ { -brand-name-windows } አውርድ
 vpn-download-for-mac = ቪፒኤን ለ{ -brand-name-mac-short }

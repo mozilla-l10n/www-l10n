@@ -14,7 +14,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } for { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } for { -brand-name-android }
-footer-visit-mozilla-corporations = Keresse fel a <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> nonprofit anyaszervezetét: <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = A tartalom egy részét ©1998–{ $current_year } mozilla.org közreműködők készítették. A tartalom <a rel="license" href="{ $url }">{ -brand-name-creative-commons } licenc</a> alatt érhető el.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Cég
@@ -43,3 +42,5 @@ footer-follow-mozilla = Kövesse a következőt: @{ -brand-name-mozilla }
 footer-follow-firefox = Kövesse a következőt: @{ -brand-name-firefox }
 footer-about-this-site = Az oldal névjegye
 footer-advertise = Hirdessen a { -brand-name-mozilla(ending: "accented") }val
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Keresse fel a <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> nonprofit anyaszervezetét: <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.

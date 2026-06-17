@@ -11,7 +11,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = „{ -brand-name-nightly }“ „{ -brand-name-android }“ įrenginiams
 footer-beta-for-android = „{ -brand-name-beta }“ „{ -brand-name-android }“ įrenginiams
-footer-visit-mozilla-corporations = Apsilankyti <a { $moco_link }>„{ -brand-name-mozilla-corporation }“</a> įkūrusios ne pelno siekiančios organizacijos <a { $mofo_link }>„{ -brand-name-mozilla-foundation }“</a> svetainėje.
 footer-portions-of-this-content = ©1998–{ $current_year }. Kai kurių šio turinio dalių autoriai yra atskiri mozilla.org bendradarbiai. Turinys pateikiamas <a rel="license" href="{ $url }">„{ -brand-name-creative-commons }“ licencijos</a> sąlygomis.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Įmonė
@@ -30,3 +29,5 @@ footer-websites-legal = Teisinė informacija
 footer-language = Kalba
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Apsilankyti <a { $moco_link }>„{ -brand-name-mozilla-corporation }“</a> įkūrusios ne pelno siekiančios organizacijos <a { $mofo_link }>„{ -brand-name-mozilla-foundation }“</a> svetainėje.

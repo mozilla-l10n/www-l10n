@@ -33,6 +33,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Құралдар
 footer-refresh-donate = Демеушілік ету
+# Obsolete string (expires 2026-08-01)
 footer-refresh-visit-mozilla-corporations-v2 = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> компаниясының коммерциялық емес бас ұйымы — <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> қорының веб-сайтын шолыңыз.
 footer-refresh-portions-of-this-content = Бұл мазмұнның кейбір бөліктері ©1998–{ $current_year } жекелеген mozilla.org үлес қосушыларына тиесілі. Мазмұн <a rel="license" { $href }>{ -brand-name-creative-commons } лицензиясы</a> бойынша қолжетімді.
 footer-refresh-websites-privacy-notice = Веб-сайттың жекелігі туралы ескерту

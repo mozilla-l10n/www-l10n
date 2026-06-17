@@ -14,7 +14,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } per { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } per { -brand-name-android }
-footer-visit-mozilla-corporations = Visita l'organisaziun da tetg senza finamira da profit da la <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, la <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Parts dal cuntegn èn ©1998–{ $current_year } da singuls contribuents a mozilla.org. Il cuntegn stat a disposiziun tenor la <a rel="license" href="{ $url }">licenza da { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Interpresa
@@ -43,3 +42,5 @@ footer-follow-mozilla = Suandar @{ -brand-name-mozilla }
 footer-follow-firefox = Suandar @{ -brand-name-firefox }
 footer-about-this-site = Davart questa website
 footer-advertise = Fa reclama cun { -brand-name-mozilla }
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Visita l'organisaziun da tetg senza finamira da profit da la <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, la <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.

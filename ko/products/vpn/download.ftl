@@ -13,6 +13,7 @@ vpn-download-sub-heading = 한 번의 구독으로 최대 { $devices }개의 기
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn }은 모든 주요 운영 체제에 대해 안전한 보안 기능을 제공합니다.
 vpn-download-not-available-in-country = 죄송합니다. 귀하의 국가에서는 { -brand-name-mozilla-vpn }을 다운로드할 수 없습니다.
 vpn-download-for-windows-v2 = { -brand-name-windows }용 VPN
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64비트 전용)
 vpn-download-for-windows-long = { -brand-name-windows }용 { -brand-name-mozilla-vpn } 다운로드
 vpn-download-for-firefox-extension = { -brand-name-firefox } 확장 기능 설치

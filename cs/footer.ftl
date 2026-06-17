@@ -14,7 +14,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } pro { -brand-name-android(case: "acc") }
 footer-beta-for-android = { -brand-name-beta } pro { -brand-name-android(case: "acc") }
-footer-visit-mozilla-corporations = Navštivte stránky neziskové organizace <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, mateřské organizace společnosti <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
 footer-portions-of-this-content = Části tohoto obsahu jsou ©1998–{ $current_year } jednotlivých přispěvatelů webu mozilla.org. Obsah je dostupný pod <a rel="license" href="{ $url }">licencí { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Organizace
@@ -43,3 +42,5 @@ footer-follow-mozilla = Sledujte @Mozilla
 footer-follow-firefox = Sledujte @Firefox
 footer-about-this-site = O těchto stránkách
 footer-advertise = Inzerujte s { -brand-name-mozilla(case: "ins") }
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Navštivte stránky neziskové organizace <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, mateřské organizace společnosti <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.

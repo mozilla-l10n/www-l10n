@@ -13,6 +13,7 @@ vpn-download-sub-heading = Med et abonnement kan du installere { -brand-name-moz
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } giver sikker og tryg beskyttelse til alle førende styresystemer.
 vpn-download-not-available-in-country = Beklager, det er ikke muligt at hente { -brand-name-mozilla-vpn } i dit land.
 vpn-download-for-windows-v2 = VPN til { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (kun 64-bit)
 vpn-download-for-windows-long = Hent { -brand-name-mozilla-vpn } til { -brand-name-windows }
 vpn-download-for-firefox-extension = Installér { -brand-name-firefox }-udvidelse

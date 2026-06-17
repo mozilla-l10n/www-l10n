@@ -8,6 +8,7 @@
 vpn-download-page-title = Sader { -brand-name-mozilla-vpn }
 vpn-download-page-description = Sader { -brand-name-mozilla-vpn } i { -brand-name-windows }, { -brand-name-mac }, { -brand-name-linux }, { -brand-name-android }, d { -brand-name-ios }.
 vpn-download-for-windows-v2 = VPN i { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit kan)
 vpn-download-for-windows-long = Sader { -brand-name-mozilla-vpn } i { -brand-name-windows }
 vpn-download-for-firefox-extension = Sebded asiɣzef { -brand-name-firefox }

@@ -13,7 +13,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } fur { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } fur { -brand-name-android }
-footer-visit-mozilla-corporations = Veesit <a { $moco_link }>{ -brand-name-mozilla-corporation }’s</a> no-fur-profit parent, the <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Bitties of this content are ©1998–{ $current_year } by individual mozilla.org contreebutors. Content available unner a <a rel="license" href="{ $url }">{ -brand-name-creative-commons } licence</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Firm
@@ -36,3 +35,5 @@ footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-follow-mozilla = Follae @{ -brand-name-mozilla }
 footer-follow-firefox = Follae @{ -brand-name-firefox }
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Veesit <a { $moco_link }>{ -brand-name-mozilla-corporation }’s</a> no-fur-profit parent, the <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.

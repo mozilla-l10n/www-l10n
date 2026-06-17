@@ -13,6 +13,7 @@ vpn-download-sub-heading = Z eno naročnino lahko prenesete { -brand-name-mozill
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } ponuja varno zaščito za vse glavne operacijske sisteme.
 vpn-download-not-available-in-country = Oprostite, { -brand-name-mozilla-vpn } ni na voljo za prenos v vaši državi.
 vpn-download-for-windows-v2 = VPN za { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (samo 64-bitni)
 vpn-download-for-windows-long = Prenesite { -brand-name-mozilla-vpn } za { -brand-name-windows }
 vpn-download-for-firefox-extension = Namestite razširitev za { -brand-name-firefox }

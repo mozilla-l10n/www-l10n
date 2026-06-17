@@ -13,6 +13,7 @@ vpn-download-sub-heading = Me një pajtim, mund të shkarkoni { -brand-name-mozi
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } ofron mbrojtje të parrezik dhe të siguruar për krejt sistemet e rëndësishëm operativë.
 vpn-download-not-available-in-country = Na ndjeni, { -brand-name-mozilla-vpn } s’mund të kihet në vendin tuaj.
 vpn-download-for-windows-v2 = VPN për { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (vetëm për 64-bit)
 vpn-download-for-windows-long = Shkarkoni { -brand-name-mozilla-vpn } për { -brand-name-windows }
 vpn-download-for-firefox-extension = Instaloni zgjerimin { -brand-name-firefox }

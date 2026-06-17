@@ -13,6 +13,7 @@ vpn-download-sub-heading = Po’ scarricari { -brand-name-mozilla-vpn } nzinu a 
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } ti duna na prutizzioni sicura pi tutti i sistemi upirativi majuri.
 vpn-download-not-available-in-country = Ni dispiaci, accamora { -brand-name-mozilla-vpn } nun è dispunìbbili nnô to pajisi.
 vpn-download-for-windows-v2 = VPN pi { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (sulu a 64-bit)
 vpn-download-for-windows-long = Scàrrica { -brand-name-mozilla-vpn } pi { -brand-name-windows }
 vpn-download-for-mac = VPN pi { -brand-name-mac-short }

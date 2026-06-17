@@ -13,7 +13,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } richin { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } richin { -brand-name-android }
-footer-visit-mozilla-corporations = Tatz'eta' <a { $moco_link }>{ -brand-name-mozilla-corporation }’s</a> ri rute' ajk'aymoloj majun ch'akoj rojqan ri <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Jujun kipam etamab'äl chajin ruma kich'ojib'al b'anel ©1998–{ $current_year } kuma to'onela' pa mozilla.org. Ri ch'aqa' chik rupam, ya'on q'ij chi yeq'alajin pe ruma ri <a rel="license" href="{ $url }">{ -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Nimamolojri'ïl
@@ -36,3 +35,5 @@ footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-follow-mozilla = Toqäx @{ -brand-name-mozilla }
 footer-follow-firefox = Toqäx @{ -brand-name-firefox }
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Tatz'eta' <a { $moco_link }>{ -brand-name-mozilla-corporation }’s</a> ri rute' ajk'aymoloj majun ch'akoj rojqan ri <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.

@@ -13,6 +13,7 @@ vpn-download-sub-heading = S jedným predplatným si môžete stiahnuť { -brand
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } ponúka bezpečie a ochranu pre všetky hlavné operačné systémy.
 vpn-download-not-available-in-country = Ľutujeme, { -brand-name-mozilla-vpn } nie je k dispozícii na stiahnutie vo vašej krajine.
 vpn-download-for-windows-v2 = VPN pre { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (len 64‑bitová verzia)
 vpn-download-for-windows-long = Stiahnite si { -brand-name-mozilla-vpn } pre { -brand-name-windows }
 vpn-download-for-firefox-extension = Nainštalovať rozšírenie pre { -brand-name-firefox }

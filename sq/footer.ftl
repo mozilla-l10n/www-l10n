@@ -14,7 +14,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } për { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } për { -brand-name-android }
-footer-visit-mozilla-corporations = Vizitoni entin mëmë jofitimprurës të <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Pjesë të kësaj lënde janë nën të drejta kopjimi ©1998–{ $current_year } nga kontribues individualë te mozilla.org. Lëndë që mund të përdoret sipas një <a rel="license" href="{ $url }">licence { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Shoqëri
@@ -43,3 +42,5 @@ footer-follow-mozilla = Ndiqni @{ -brand-name-mozilla }
 footer-follow-firefox = Ndiqni @{ -brand-name-firefox }
 footer-about-this-site = Rreth këtij sajti
 footer-advertise = Reklamoni me { -brand-name-mozilla }-n
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Vizitoni entin mëmë jofitimprurës të <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.

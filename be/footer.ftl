@@ -13,7 +13,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } для { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } для { -brand-name-android }
-footer-visit-mozilla-corporations = Наведайце сайт <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> — некамерцыйнай бацькоўскай кампаніі для <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
 footer-portions-of-this-content = Часткі змесціва створаны асобнымі ўдзельнікамі mozilla.org ©1998–{ $current_year }. Змесціва даступна ў адпаведнасці з <a rel="license" href="{ $url }">ліцэнзіяй { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Арганізацыя
@@ -41,3 +40,5 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Падпісацца на @{ -brand-name-mozilla }
 footer-follow-firefox = Падпісацца на @{ -brand-name-firefox }
 footer-about-this-site = Аб гэтым сайце
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Наведайце сайт <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> — некамерцыйнай бацькоўскай кампаніі для <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.

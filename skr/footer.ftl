@@ -14,7 +14,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-android } کیتے { -brand-name-nightly }
 footer-beta-for-android = { -brand-name-android } کیتے { -brand-name-beta }
-footer-visit-mozilla-corporations = <a { $moco_link }>{ -brand-name-mozilla-corporation }’s</a> منافع کیتے کائنی بݨیادی  <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>تے ون٘ڄو۔
 footer-portions-of-this-content = ایں مواد دے حصے ©1998–{ $current_year } انفرادی mozilla.org دے تعاون کنندگان دے ذریعہ ہن۔ <a rel="license" href="{ $url }">{ -brand-name-creative-commons } لائسنس</a> دے تحت دستیاب مواد۔
 footer-mozilla = { -brand-name-mozilla }
 footer-company = کمپنی
@@ -43,3 +42,5 @@ footer-follow-mozilla = { -brand-name-mozilla } تے فالو کرو
 footer-follow-firefox = { -brand-name-firefox } تے فالو کرو
 footer-about-this-site = ایں سائٹ بارے
 footer-advertise = { -brand-name-mozilla } نال مشہوری کرو
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = <a { $moco_link }>{ -brand-name-mozilla-corporation }’s</a> منافع کیتے کائنی بݨیادی  <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>تے ون٘ڄو۔

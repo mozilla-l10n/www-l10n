@@ -11,7 +11,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } pe { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } pe { -brand-name-android }
-footer-visit-mozilla-corporations = Vixita l'organizaçion sensa fin de goagno de <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> a <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Parte de sto contegnui son ©1998–{ $current_year } di senci colaboratoî de mozilla.org. I contegnui en disponibili segondo a <a rel="license" href="{ $url }">licensa { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Azienda
@@ -31,3 +30,5 @@ footer-language = Lengoa
 footer-go = Vanni
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Vixita l'organizaçion sensa fin de goagno de <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> a <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.

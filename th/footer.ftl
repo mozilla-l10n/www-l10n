@@ -14,7 +14,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } สำหรับ { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } สำหรับ { -brand-name-android }
-footer-visit-mozilla-corporations = เยี่ยมชม <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> มูลนิธิไม่แสวงหาผลกำไร<a { $moco_link }>ของ { -brand-name-mozilla-corporation }</a>
 footer-portions-of-this-content = บางส่วนของเนื้อหานี้สงวนลิขสิทธิ์ ©1998–{ $current_year } โดยผู้มีส่วนร่วมของ mozilla.org แต่ละคน เนื้อหาใช้งานได้ภายใต้ <a rel="license" href="{ $url }">สัญญาอนุญาต { -brand-name-creative-commons }</a>
 footer-mozilla = { -brand-name-mozilla }
 footer-company = บริษัท
@@ -43,3 +42,5 @@ footer-follow-mozilla = ติดตาม @{ -brand-name-mozilla }
 footer-follow-firefox = ติดตาม @{ -brand-name-firefox }
 footer-about-this-site = เกี่ยวกับไซต์นี้
 footer-advertise = โฆษณากับ { -brand-name-mozilla }
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = เยี่ยมชม <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> มูลนิธิไม่แสวงหาผลกำไร<a { $moco_link }>ของ { -brand-name-mozilla-corporation }</a>

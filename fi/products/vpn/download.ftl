@@ -13,6 +13,7 @@ vpn-download-sub-heading = Voit ladata { -brand-name-mozilla-vpn }:n enintään 
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } tarjoaa turvallisen suojan kaikille tärkeimmille käyttöjärjestelmille.
 vpn-download-not-available-in-country = Valitettavasti { -brand-name-mozilla-vpn } ei ole ladattavissa maassasi.
 vpn-download-for-windows-v2 = VPN { -brand-name-windows }ille
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (vain 64-bit)
 vpn-download-for-windows-long = Lataa { -brand-name-mozilla-vpn } { -brand-name-windows }ille
 vpn-download-for-firefox-extension = Asenna { -brand-name-firefox }-laajennus

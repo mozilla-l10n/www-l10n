@@ -13,7 +13,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-android } සඳහා { -brand-name-nightly }
 footer-beta-for-android = { -brand-name-android } සඳහා { -brand-name-beta }
-footer-visit-mozilla-corporations = ලාභ නොලබන <a { $moco_link }>{ -brand-name-mozilla-corporation } හි</a> අඩවිය, <a { $mofo_link }>{ -brand-name-mozilla-foundation } වෙත ගොඩවදින්න</a>.
 footer-portions-of-this-content = මෙම අන්තර්ගතයෙහි කොටස් ඒකීය mozilla.org දායකයින් ©1998–{ $current_year } ලබා ඇත. අන්තර්ගත <a rel="license" href="{ $url }">{ -brand-name-creative-commons } බලපත්‍රයක්</a> යටතේ පවතී.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = සමාගම
@@ -41,3 +40,5 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = @{ -brand-name-mozilla } අනුගමනය
 footer-follow-firefox = @{ -brand-name-firefox } අනුගමනය
 footer-about-this-site = මෙම අඩවිය ගැන
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = ලාභ නොලබන <a { $moco_link }>{ -brand-name-mozilla-corporation } හි</a> අඩවිය, <a { $mofo_link }>{ -brand-name-mozilla-foundation } වෙත ගොඩවදින්න</a>.

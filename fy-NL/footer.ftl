@@ -14,7 +14,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } foar { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } foar { -brand-name-android }
-footer-visit-mozilla-corporations = Besykje de memmemaatskippij sûnder winsteachmerk fan de <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, de <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Underdielen fan dizze ynhâld binne ©1998–{ $current_year } troch yndividuele meiwurkers fan mozilla.org. Ynhâld is beskikber ûnder in <a rel="license" href="{ $url }">{ -brand-name-creative-commons }-lisinsje</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Bedriuw
@@ -43,3 +42,5 @@ footer-follow-mozilla = @{ -brand-name-mozilla } folgje
 footer-follow-firefox = @{ -brand-name-firefox } folgje
 footer-about-this-site = Oer dizze website
 footer-advertise = Advertearje mei { -brand-name-mozilla }
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Besykje de memmemaatskippij sûnder winsteachmerk fan de <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, de <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.

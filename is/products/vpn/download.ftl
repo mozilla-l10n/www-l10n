@@ -11,6 +11,7 @@ vpn-download-page-description = Sæktu { -brand-name-mozilla-vpn } fyrir { -bran
 #   $devices (number) - maximum number of connected devices
 vpn-download-sub-heading = Þú getur sótt { -brand-name-mozilla-vpn } á allt að { $devices } tæki með einni áskrift.
 vpn-download-for-windows-v2 = VPN fyrir { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (aðeins 64-bita)
 vpn-download-for-windows-long = Sæktu { -brand-name-mozilla-vpn } fyrir { -brand-name-windows }
 vpn-download-for-mac = VPN fyrir { -brand-name-mac-short }

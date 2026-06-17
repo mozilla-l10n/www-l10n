@@ -13,7 +13,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } i { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } i { -brand-name-android }
-footer-visit-mozilla-corporations = Rzu ɣer <a { $moco_link }>{ -brand-name-mozilla-corporation } d</a> takebbanit ur nettnadi adrim, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Kra n yeḥricen n ugbur-a d ©1998–{ $current_year } sɣur imttekkiyen n mozilla.org. Agbur yella ddaw n <a rel="license" href="{ $url }">turagt { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Takebbanit
@@ -41,3 +40,5 @@ footer-spotify = { -brand-name-spotify }
 footer-follow-mozilla = Ḍfer @{ -brand-name-mozilla }
 footer-follow-firefox = Ḍfer @{ -brand-name-firefox }
 footer-about-this-site = Ayen yerzan asmel-a
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Rzu ɣer <a { $moco_link }>{ -brand-name-mozilla-corporation } d</a> takebbanit ur nettnadi adrim, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.

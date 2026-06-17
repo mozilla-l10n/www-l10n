@@ -11,7 +11,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-android }erako { -brand-name-nightly }
 footer-beta-for-android = { -brand-name-android }erako { -brand-name-beta }
-footer-visit-mozilla-corporations = Bisitatu <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> irabazi-asmorik gabeko gurasoa, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Eduki honen zati batzuk mozilla.org-eko kolaboratzaile indibidualenak dira, ©1998–{ $current_year }. Edukia <a rel="license" href="{ $url }">{ -brand-name-creative-commons } lizentziapean</a> banatu da.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Erakundea
@@ -32,3 +31,5 @@ footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-follow-mozilla = Jarraitu @{ -brand-name-mozilla }
 footer-follow-firefox = Jarraitu @{ -brand-name-firefox }
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Bisitatu <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> irabazi-asmorik gabeko gurasoa, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.

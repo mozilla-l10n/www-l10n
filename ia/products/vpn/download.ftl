@@ -13,6 +13,7 @@ vpn-download-sub-heading = Tu pote discargar { -brand-name-mozilla-vpn } sur usq
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } offere protection secur pro tote le major systemas operative.
 vpn-download-not-available-in-country = Desolate, { -brand-name-mozilla-vpn } non es disponibile al discargamento in tu pais.
 vpn-download-for-windows-v2 = VPN pro { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit solo)
 vpn-download-for-windows-long = Discargar { -brand-name-mozilla-vpn } pro { -brand-name-windows }
 vpn-download-for-firefox-extension = Installar le extension pro { -brand-name-firefox }

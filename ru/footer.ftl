@@ -14,7 +14,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } для { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } для { -brand-name-android }
-footer-visit-mozilla-corporations = Посетите сайт некоммерческой материнской компании <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> — <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Части этого содержимого созданы участниками проекта mozilla.org ©1998–{ $current_year }. Содержимое доступно на условиях <a rel="license" href="{ $url }">лицензии { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = О компании
@@ -43,3 +42,5 @@ footer-follow-mozilla = Подписаться на @{ -brand-name-mozilla }
 footer-follow-firefox = Подписаться на @{ -brand-name-firefox }
 footer-about-this-site = Об этом сайте
 footer-advertise = Размещайте рекламу у { -brand-name-mozilla }
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Посетите сайт некоммерческой материнской компании <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> — <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.

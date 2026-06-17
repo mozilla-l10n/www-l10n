@@ -13,6 +13,7 @@ vpn-download-sub-heading = 只要一次訂閱，您可以在最多 { $devices } 
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } 為所有主流作業系統提供安全可靠的保護。
 vpn-download-not-available-in-country = 抱歉，{ -brand-name-mozilla-vpn } 尚未於您所在的國家推出。
 vpn-download-for-windows-v2 = VPN for { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11（僅 64 位元）
 vpn-download-for-windows-long = 下載 { -brand-name-mozilla-vpn } for { -brand-name-windows }
 vpn-download-for-firefox-extension = 安裝 { -brand-name-firefox } 擴充套件

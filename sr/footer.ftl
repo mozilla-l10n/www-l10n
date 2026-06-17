@@ -14,7 +14,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } за { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } за { -brand-name-android }
-footer-visit-mozilla-corporations = Посетите непрофитну матичну компанију <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Права над деловима овог садржаја су ©1998–{ $current_year } појединачни сарадници mozilla.org пројекта. Садржај је доступан под <a rel="license" href="{ $url }">{ -brand-name-creative-commons } лиценцом</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Компанија
@@ -43,3 +42,5 @@ footer-follow-mozilla = Пратите @{ -brand-name-mozilla }
 footer-follow-firefox = Пратите @{ -brand-name-firefox }
 footer-about-this-site = О овом сајту
 footer-advertise = Оглашавајте са { -brand-name-mozilla(case: "ins") }
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Посетите непрофитну матичну компанију <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.

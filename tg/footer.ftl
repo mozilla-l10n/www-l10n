@@ -14,7 +14,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } барои { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } барои { -brand-name-android }
-footer-visit-mozilla-corporations = Ба ширкати асосии ғайритиҷории <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> ташриф оред, яъне «<a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>».
 footer-portions-of-this-content = Қисмҳои ин муҳтаво аз ҷониби иштирокдорони лоиҳаи «mozilla.org» эҷод карда шудаанд ©1998–{ $current_year }. Муҳтаво дар таҳти <a rel="license" href="{ $url }">Иҷозатномаи «{ -brand-name-creative-commons }»</a> дастрас аст.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Ташкилоти мо
@@ -43,3 +42,5 @@ footer-follow-mozilla = Пайгирӣ кардани @{ -brand-name-mozilla }
 footer-follow-firefox = Пайгирӣ кардани @{ -brand-name-firefox }
 footer-about-this-site = Дар бораи ин сомона
 footer-advertise = Таблиғ тавассути «{ -brand-name-mozilla }»
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Ба ширкати асосии ғайритиҷории <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> ташриф оред, яъне «<a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>».

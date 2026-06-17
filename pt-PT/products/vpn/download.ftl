@@ -13,6 +13,7 @@ vpn-download-sub-heading = Pode transferir a { -brand-name-mozilla-vpn } para at
 vpn-download-mozilla-vpn-offers = A { -brand-name-mozilla-vpn } oferece proteção segura e protegida para todos os principais sistemas operativos.
 vpn-download-not-available-in-country = Desculpe, a { -brand-name-mozilla-vpn } não está disponível para transferência no seu país.
 vpn-download-for-windows-v2 = VPN para { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (apenas para 64 bits)
 vpn-download-for-windows-long = Transferir a { -brand-name-mozilla-vpn } para { -brand-name-windows }
 vpn-download-for-firefox-extension = Instalar a extensão { -brand-name-firefox }

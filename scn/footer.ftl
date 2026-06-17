@@ -14,7 +14,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } pi { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } pi { -brand-name-android }
-footer-visit-mozilla-corporations = Vìsita a <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, l’urganizzazzioni senza scopu di lucru chi cuntrolla <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.
 footer-portions-of-this-content = Parti di stu cuntinutu sunnu ©1998–{ $current_year } di cuntribbutura nnividuali di mozilla.org. U cuntinutu è dispunìbbili cu na <a rel="license" href="{ $url }">licenza { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Cumpagnìa
@@ -43,3 +42,5 @@ footer-follow-mozilla = Sicuta @{ -brand-name-mozilla }
 footer-follow-firefox = Sicuta @{ -brand-name-firefox }
 footer-about-this-site = Nfurmazzioni ncapu a stu situ
 footer-advertise = Fai pubblicità cu { -brand-name-mozilla }
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Vìsita a <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, l’urganizzazzioni senza scopu di lucru chi cuntrolla <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>.

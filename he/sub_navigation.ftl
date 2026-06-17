@@ -6,7 +6,6 @@ sub-navigation-all-languages = כל השפות
 sub-navigation-firefox = { -brand-name-firefox }
 sub-navigation-compare-browsers = השוואת דפדפנים
 sub-navigation-firefox-for-desktop = ‏{ -brand-name-firefox } למחשבים שולחניים
-sub-navigation-release-notes = הערות שחרור
 sub-navigation-android = { -brand-name-android }
 sub-navigation-ios = { -brand-name-ios }
 sub-navigation-features = תכונות

@@ -14,7 +14,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } for { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } for { -brand-name-android }
-footer-visit-mozilla-corporations = Besøk <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> sitt ideelle moderselskap, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Delar av dette innhaldet er ©1998–{ $current_year } individuelle mozilla.org-bidragsytarar. Innhaldet er tilgjengeleg under ein <a rel="license" href="{ $url }">{ -brand-name-creative-commons }-lisens</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Firma
@@ -43,3 +42,5 @@ footer-follow-mozilla = Følg @{ -brand-name-mozilla }
 footer-follow-firefox = Følg @{ -brand-name-firefox }
 footer-about-this-site = Om denne nettstaden
 footer-advertise = Annonser med { -brand-name-mozilla }
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Besøk <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> sitt ideelle moderselskap, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.

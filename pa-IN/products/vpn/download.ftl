@@ -13,6 +13,7 @@ vpn-download-sub-heading = ਤੁਸੀਂ { -brand-name-mozilla-vpn } ਨੂੰ
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } ਸਾਰੇ ਆਮ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮਾਂ ਲਈ ਸੁਰੱਖਿਅਤ ਅਤੇ ਮਜ਼ਬੂਤ ਆਸਰਾ ਦਿੰਦਾ ਹੈ।
 vpn-download-not-available-in-country = ਅਫ਼ਸੋਸ, { -brand-name-mozilla-vpn } ਹਾਲੇ ਤੁਹਾਡੇ ਦੇਸ਼ ਵਿੱਚ ਡਾਊਨਲੋਡ ਲਈ ਮੌਜੂਦ ਨਹੀਂ ਹੈ।
 vpn-download-for-windows-v2 = { -brand-name-windows } ਲਈ VPN
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (ਸਿਰਫ਼ 64-ਬਿੱਟ ਹੀ)
 vpn-download-for-windows-long = { -brand-name-windows } ਲਈ { -brand-name-mozilla-vpn } ਡਾਊਨਲੋਡ ਕਰੋ
 vpn-download-for-firefox-extension = { -brand-name-firefox } ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਇੰਸਟਾਲ ਕਰੋ

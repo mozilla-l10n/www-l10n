@@ -33,6 +33,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Tembiporu
 footer-refresh-donate = Ñeme’ẽ
+# Obsolete string (expires 2026-08-01)
 footer-refresh-visit-mozilla-corporations-v2 = Eike mba’apohaguasu viru’ỹgua <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> rehegua, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Ko tetepy vore oreko apohare derécho ©1998–{ $current_year } mozilla.org pytyvõhára peteĩteĩvagui. Pe tetepy ejuhúta ko’ápe <a rel="license" { $href }>{ -brand-name-creative-commons } moneĩmbýpe</a>.
 footer-refresh-websites-privacy-notice = Ñanduti renda marandu’i ñemigua

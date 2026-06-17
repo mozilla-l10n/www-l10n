@@ -13,6 +13,7 @@ vpn-download-sub-heading = You can download { -brand-name-mozilla-vpn } on up to
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } offers safe and secure protection for all major operating systems.
 vpn-download-not-available-in-country = Sorry, { -brand-name-mozilla-vpn } is not available for download in your country.
 vpn-download-for-windows-v2 = VPN for { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit only)
 vpn-download-for-windows-long = Download { -brand-name-mozilla-vpn } for { -brand-name-windows }
 vpn-download-for-firefox-extension = Install { -brand-name-firefox } extension

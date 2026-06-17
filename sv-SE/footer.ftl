@@ -14,7 +14,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } för { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } för { -brand-name-android }
-footer-visit-mozilla-corporations = Besök <a { $moco_link }>{ -brand-name-mozilla-corporation }’s</a> ideella förälder, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Upphovsrätten för delar av detta innehåll tillhör ©1998–{ $current_year } enskilda medarbetare vid mozilla.org. Innehållet är tillgängligt under en <a rel="license" href="{ $url }">{ -brand-name-creative-commons }-licens</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Företag
@@ -43,3 +42,5 @@ footer-follow-mozilla = Följ @{ -brand-name-mozilla }
 footer-follow-firefox = Följ @{ -brand-name-firefox }
 footer-about-this-site = Om denna webbplats
 footer-advertise = Annonsera med { -brand-name-mozilla }
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Besök <a { $moco_link }>{ -brand-name-mozilla-corporation }’s</a> ideella förälder, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.

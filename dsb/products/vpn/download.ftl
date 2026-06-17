@@ -13,6 +13,7 @@ vpn-download-sub-heading = Móžośo { -brand-name-mozilla-vpn } na až do { $de
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } wěsty šćit za wšykne wažne źěłowe systemy bitujo.
 vpn-download-not-available-in-country = Bóžko { -brand-name-mozilla-vpn } njejo za ześěgnjenje we wašom kraju k dispoziciji.
 vpn-download-for-windows-v2 = VPN za { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (jano 64-bitowy)
 vpn-download-for-windows-long = Ześěgniśo { -brand-name-mozilla-vpn } za { -brand-name-windows }
 vpn-download-for-firefox-extension = Rozšyrjenje { -brand-name-firefox } instalěrowaś

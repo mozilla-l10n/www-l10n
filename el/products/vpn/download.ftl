@@ -13,6 +13,7 @@ vpn-download-sub-heading = Μπορείτε να κάνετε λήψη του { 
 vpn-download-mozilla-vpn-offers = Το { -brand-name-mozilla-vpn } παρέχει προστασία για όλα τα μεγάλα λειτουργικά συστήματα.
 vpn-download-not-available-in-country = Δυστυχώς, το { -brand-name-mozilla-vpn } δεν είναι διαθέσιμο για λήψη στη χώρα σας.
 vpn-download-for-windows-v2 = VPN για { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (μόνο 64-bit)
 vpn-download-for-windows-long = Λήψη του { -brand-name-mozilla-vpn } για { -brand-name-windows }
 vpn-download-for-firefox-extension = Εγκατάσταση της επέκτασης για το { -brand-name-firefox }

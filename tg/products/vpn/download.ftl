@@ -13,6 +13,7 @@ vpn-download-sub-heading = Шумо метавонед «{ -brand-name-mozilla-v
 vpn-download-mozilla-vpn-offers = «{ -brand-name-mozilla-vpn }» барои ҳамаи низомҳои амалкунандаи асосӣ муҳофизати боэътимод ва бехатарро пешниҳод мекунад.
 vpn-download-not-available-in-country = Мутаассифона, «{ -brand-name-mozilla-vpn }» барои боргирӣ дар кишвари шумо дастнорас аст.
 vpn-download-for-windows-v2 = «VPN» барои низоми амалкунандаи «{ -brand-name-windows }»
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (танҳо 64-бит)
 vpn-download-for-windows-long = Боргирӣ кардани «{ -brand-name-mozilla-vpn }» барои низоми амалкунандаи «{ -brand-name-windows }»
 vpn-download-for-firefox-extension = Насб кардани васеъшавии «{ -brand-name-firefox }»

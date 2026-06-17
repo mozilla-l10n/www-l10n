@@ -13,6 +13,7 @@ vpn-download-sub-heading = Egy előfizetéssel akár { $devices } eszközre is l
 vpn-download-mozilla-vpn-offers = A { -brand-name-mozilla-vpn } biztonságos védelmet kínál az összes nagyobb operációs rendszer számára.
 vpn-download-not-available-in-country = Sajnáljuk, a { -brand-name-mozilla-vpn } nem érhető el az Ön országában.
 vpn-download-for-windows-v2 = VPN { -brand-name-windows }ra
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (csak 64 bites)
 vpn-download-for-windows-long = A { -brand-name-mozilla-vpn } letöltése { -brand-name-windows }ra
 vpn-download-for-firefox-extension = A { -brand-name-firefox } kiegészítő telepítése

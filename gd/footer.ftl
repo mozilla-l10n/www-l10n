@@ -13,7 +13,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } airson { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } airson { -brand-name-android }
-footer-visit-mozilla-corporations = Tadhail air pàrant neo-phrothaideach <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, seo <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Tha cuid dhen t-susbaint seo fo ©1998–{ $current_year } le com-pàirtichean mozilla.org. Tha an t-susbaint ri fhaighinn fo <a rel="license" href="{ $url }">cheadachas { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Companaidh
@@ -36,3 +35,5 @@ footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-follow-mozilla = Lean air @{ -brand-name-mozilla }
 footer-follow-firefox = Lean air @{ -brand-name-firefox }
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Tadhail air pàrant neo-phrothaideach <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, seo <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.

@@ -13,6 +13,7 @@ vpn-download-sub-heading = Tek bir abonelikle { -brand-name-mozilla-vpn }’i { 
 vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn }, başlıca tüm işletim sistemleri için güvenli koruma sunar.
 vpn-download-not-available-in-country = Maalesef { -brand-name-mozilla-vpn } ülkenizden indirilemiyor.
 vpn-download-for-windows-v2 = { -brand-name-windows } için VPN
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (yalnızca 64 bit)
 vpn-download-for-windows-long = { -brand-name-windows } için { -brand-name-mozilla-vpn }’i indir
 vpn-download-for-firefox-extension = { -brand-name-firefox } uzantısını yükle
