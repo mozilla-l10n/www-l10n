@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = Bóžko { -brand-name-mozilla-vpn } njej
 vpn-download-for-windows-v2 = VPN za { -brand-name-windows }
 # Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (jano 64-bitowy)
+vpn-download-for-windows-requirements-v2 = { -brand-name-windows } 10/11
 vpn-download-for-windows-long = Ześěgniśo { -brand-name-mozilla-vpn } za { -brand-name-windows }
 vpn-download-for-firefox-extension = Rozšyrjenje { -brand-name-firefox } instalěrowaś
 vpn-download-for-mac = VPN za { -brand-name-mac-short }
@@ -45,3 +46,5 @@ vpn-download-install-via-flathub = Pśez Flathub instalěrowaś
 vpn-download-install-via-apt = Pśez APT instalěrowaś
 vpn-download-flathub = Flathub
 vpn-download-apt = APT
+vpn-download-windows = 64-bitowy
+vpn-download-windows-arm = ARM

@@ -23,6 +23,14 @@ m24-about-together-we-can = Gromaźe móžomy internet lažki, wěsty a dermotny
 m24-about-read-our-manifesto = Cytajśo naš manifest
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Kupka myslarjow, kótarež w kólasu na špundowanju sejźe a ideje wuměnjaju.
+m24-about-advocate = Pśirucaŕ
+m24-about-we-advocate-for = Zasajźujomy se za lěpše produkty, cynimy kněžaŕstwa a technologiske pśedewześa zagronite za to, což napóraju.
+m24-about-research = Slěźenje
+m24-about-we-uncover-insights = Wótekšywamy dowiźenja, pśewjedujomy kampanje, aby produkty pólěpšyli a wuwijamy pšawidła, kótarež waše zajmy reprezentěruju.
+m24-about-build = Wersija
+m24-about-we-build-products-v2 = Wuwijamy produkty, kótarež wam kontrolu daju – ako { -brand-name-firefox } a dalšne.
+m24-about-fund = Financěrowanje
+m24-about-we-fund-and = Financěrujomy luźe a procowanja, kótarež technologiju, internet a KI k pšawemu směroju doprědka póra a inwestěrujomy do togo.
 
 ## News
 
