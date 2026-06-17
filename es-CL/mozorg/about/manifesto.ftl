@@ -53,6 +53,25 @@ manifesto-across-the-mozilla-project = En todo el Proyecto { -brand-name-mozilla
 manifesto-we-need-you = Te necesitamos para impulsar el manifiesto
 manifesto-an-internet-with-these-v2 = Un internet con estas cualidades no sucederá por si solo. Las personas y las organizaciones deben incluir estas aspiraciones a la tecnología de internet y a la experiencia humana en internet. El Manifiesto y los principios de { -brand-name-mozilla } representan nuestro compromiso para avanzar en estas aspiraciones. { -brand-name-mozilla } trabaja con personas y organizaciones de todas partes, las que quieren hacer de Internet un mejor lugar para todos.
 manifesto-our-commitments = Nuestros compromisos
+manifesto-if-you-share-this-goal-v2 = Si compartes este objetivo, dinos cómo podemos ayudarte.
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+manifesto-we-create-open = Creamos <a { $github_link }>software de código abierto</a> sobre el que puedes construir.
+# Variables:
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+manifesto-we-fund-fellows = <a { $mofo_link }>Financiamos becarios e impulsamos proyectos</a> destinados a crear un futuro mejor en línea.
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = <a { $mozai_link }>Creamos herramientas de IA de código abierto</a> que ofrecen opciones a los desarrolladores y les ayudan a ahorrar dinero.
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = Nosotros <a { $mozvc_link }>invertimos en startups tecnológicas responsables</a>.
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = <a { $mdc_link }>Gestionamos una comunidad mundial</a> para el intercambio justo de datos.
+# Variables:
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+manifesto-we-host-a-yearly = <a { $festival_link }>Organizamos un encuentro global anual</a> para personas que construyen cualquier cosa para impulsar el Manifiesto.
 
 ## Obsolete strings (expire 2026-09-10)
 
