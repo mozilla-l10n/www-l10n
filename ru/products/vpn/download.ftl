@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = К сожалению, { -brand-name-moz
 vpn-download-for-windows-v2 = VPN для { -brand-name-windows }
 # Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (только 64-разрядная версия)
+vpn-download-for-windows-requirements-v2 = { -brand-name-windows } 10/11
 vpn-download-for-windows-long = Загрузить { -brand-name-mozilla-vpn } для { -brand-name-windows }
 vpn-download-for-firefox-extension = Установить расширение { -brand-name-firefox }
 vpn-download-for-mac = VPN для { -brand-name-mac-short }
@@ -45,3 +46,5 @@ vpn-download-install-via-flathub = Установить через Flathub
 vpn-download-install-via-apt = Установить через APT
 vpn-download-flathub = Flathub
 vpn-download-apt = APT
+vpn-download-windows = 64-разрядная
+vpn-download-windows-arm = ARM

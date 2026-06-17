@@ -14,6 +14,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } pro { -brand-name-android(case: "acc") }
 footer-beta-for-android = { -brand-name-beta } pro { -brand-name-android(case: "acc") }
+footer-donate-not-for-profit = Přispějte neziskové organizaci <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Části tohoto obsahu jsou ©1998–{ $current_year } jednotlivých přispěvatelů webu mozilla.org. Obsah je dostupný pod <a rel="license" href="{ $url }">licencí { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Organizace

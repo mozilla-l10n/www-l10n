@@ -14,6 +14,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } { -brand-name-android }-ისთვის
 footer-beta-for-android = { -brand-name-beta } { -brand-name-android }-ისთვის
+footer-donate-not-for-profit = დაეხმარეთ არამომგებიანი დაწესებულებას <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = ამ შიგთავსის ნაწილი შექმნილია mozilla.org პროექტის მონაწილეების მიერ ©1998–{ $current_year }. მასალა ვრცელდება <a rel="license" href="{ $url }">{ -brand-name-creative-commons }-ლიცენზიით</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = დაწესებულება

@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = Sajnáljuk, a { -brand-name-mozilla-vpn 
 vpn-download-for-windows-v2 = VPN { -brand-name-windows }ra
 # Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (csak 64 bites)
+vpn-download-for-windows-requirements-v2 = { -brand-name-windows } 10/11
 vpn-download-for-windows-long = A { -brand-name-mozilla-vpn } letöltése { -brand-name-windows }ra
 vpn-download-for-firefox-extension = A { -brand-name-firefox } kiegészítő telepítése
 vpn-download-for-mac = VPN { -brand-name-mac-short }re
@@ -45,3 +46,5 @@ vpn-download-install-via-flathub = Telepítés a Flathub segítségével
 vpn-download-install-via-apt = Telepítés APT használatával
 vpn-download-flathub = Flathub
 vpn-download-apt = APT
+vpn-download-windows = 64 bites
+vpn-download-windows-arm = ARM

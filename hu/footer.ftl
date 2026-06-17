@@ -14,6 +14,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } for { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } for { -brand-name-android }
+footer-donate-not-for-profit = Adományozzon a(z) <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> nonprofit szervezetnek.
 footer-portions-of-this-content = A tartalom egy részét ©1998–{ $current_year } mozilla.org közreműködők készítették. A tartalom <a rel="license" href="{ $url }">{ -brand-name-creative-commons } licenc</a> alatt érhető el.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Cég

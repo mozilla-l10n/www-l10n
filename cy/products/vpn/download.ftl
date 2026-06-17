@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = Ymddiheuriadau, nid yw { -brand-name-moz
 vpn-download-for-windows-v2 = VPN ar gyfer { -brand-name-windows }
 # Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-did yn unig)
+vpn-download-for-windows-requirements-v2 = { -brand-name-windows } 10/11
 vpn-download-for-windows-long = Llwythwch { -brand-name-mozilla-vpn } i lawr ar gyfer { -brand-name-windows }
 vpn-download-for-firefox-extension = Gosod estyniad { -brand-name-firefox }
 vpn-download-for-mac = VPN ar gyfer { -brand-name-mac-short }
@@ -45,3 +46,5 @@ vpn-download-install-via-flathub = Gosod trwy Flathub
 vpn-download-install-via-apt = Gosod trwy APT
 vpn-download-flathub = Flathub
 vpn-download-apt = APT
+vpn-download-windows = 64 did
+vpn-download-windows-arm = ARM

@@ -33,6 +33,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = 工具
 footer-refresh-donate = 捐款
+footer-refresh-donate-not-for-profit = 捐款給非營利組織 <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>。
 # Obsolete string (expires 2026-08-01)
 footer-refresh-visit-mozilla-corporations-v2 = 歡迎造訪 <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> 的上層非營利組織，<a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>。
 footer-refresh-portions-of-this-content = 本頁的部分內容著作權為 ©1998–{ $current_year } 由個別 mozilla.org 貢獻者所有，使用<a rel="license" { $href }>{ -brand-name-creative-commons } 授權條款</a>授權大眾使用。

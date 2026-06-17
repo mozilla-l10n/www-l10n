@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = სამწუხაროდ { -brand-
 vpn-download-for-windows-v2 = VPN { -brand-name-windows }-ზე
 # Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-ბიტიანზე მხოლოდ)
+vpn-download-for-windows-requirements-v2 = { -brand-name-windows } 10/11
 vpn-download-for-windows-long = ჩამოტვირთეთ { -brand-name-mozilla-vpn } { -brand-name-windows }-ზე
 vpn-download-for-firefox-extension = დააყენეთ { -brand-name-firefox }-გაფართოება
 vpn-download-for-mac = VPN { -brand-name-mac-short }-ზე
@@ -45,3 +46,5 @@ vpn-download-install-via-flathub = დააყენეთ Flathub-ით
 vpn-download-install-via-apt = დაყენება APT-ით
 vpn-download-flathub = Flathub
 vpn-download-apt = APT
+vpn-download-windows = 64-ბიტი
+vpn-download-windows-arm = ARM

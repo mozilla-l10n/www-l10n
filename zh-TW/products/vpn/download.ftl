@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = 抱歉，{ -brand-name-mozilla-vpn } 尚
 vpn-download-for-windows-v2 = VPN for { -brand-name-windows }
 # Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11（僅 64 位元）
+vpn-download-for-windows-requirements-v2 = { -brand-name-windows } 10/11
 vpn-download-for-windows-long = 下載 { -brand-name-mozilla-vpn } for { -brand-name-windows }
 vpn-download-for-firefox-extension = 安裝 { -brand-name-firefox } 擴充套件
 vpn-download-for-mac = VPN for { -brand-name-mac-short }
@@ -45,3 +46,5 @@ vpn-download-install-via-flathub = 透過 Flathub 安裝
 vpn-download-install-via-apt = 透過 APT 安裝
 vpn-download-flathub = Flathub
 vpn-download-apt = APT
+vpn-download-windows = 64 位元
+vpn-download-windows-arm = ARM
