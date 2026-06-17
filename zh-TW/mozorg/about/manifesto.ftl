@@ -56,26 +56,26 @@ manifesto-our-commitments = 我們的承諾
 manifesto-if-you-share-this-goal-v2 = 若您有同樣的目標請讓我們知道可以幫忙什麼。
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla
-manifesto-we-create-open = 我們打造<a { $github_link }>開放原始碼軟體</a>您可以參考。
+manifesto-we-create-open = 我們打造<a { $github_link }>開放原始碼軟體</a>，讓您能在此基礎上進行開發。
 # Variables:
 #   $mofo_link (url) - link to https://www.mozillafoundation.org/
-manifesto-we-fund-fellows = 我們<a { $mofo_link }>資助進修者並培養專案</a>以期在網路上創造更美好的未來。
+manifesto-we-fund-fellows = 我們<a { $mofo_link }>費助研究員並育成專案</a>，致力於打造更美好的網路未來。
 # Variables:
 #   $mozai_link (url) - link to https://www.mozilla.ai
-manifesto-we-build-open-source = 我們<a { $mozai_link }>打造開放原始碼的 AI 工具</a>讓開發者選擇並幫助他們省錢。
+manifesto-we-build-open-source = 我們<a { $mozai_link }>打造開放原始碼的 AI 工具</a>，讓開發者有更多選擇，同時幫助他們節省成本。
 # Variables:
 #   $mozvc_link (url) - link to https://mozilla.vc
-manifesto-we-invest-in = 我們 <a { $mozvc_link }>投資於負責的科技創業公司</a>。
+manifesto-we-invest-in = 我們 <a { $mozvc_link }>投資負責任的科技新創公司</a>。
 # Variables:
 #   $mdc_link (url) - link to https://mozilladatacollective.com/
-manifesto-we-run-a-global = 我們<a { $mdc_link }>經營著全球性社群</a>來進行公平的資料交換。
+manifesto-we-run-a-global = 我們<a { $mdc_link }>營運一個全球社群</a>，推動公平的資料交換。
 # Variables:
 #   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
-manifesto-we-host-a-yearly = 我們<a { $festival_link }>每年都會舉辦一次全球聚會</a>讓那些能夠打造出任何東西來推動宣言發展的人們。
+manifesto-we-host-a-yearly = 我們<a { $festival_link }>每年舉辦一次全球盛會</a>，邀請所有致力於推動宣言發展的人們齊聚一堂。
 # Variables:
 #   $firefox_link (url) - link to https://www.firefox.com/
 #   $thunderbird_link (url) - link to https://www.thunderbird.net/
-manifesto-we-make-firefox-and-thunderbird = 當然我們也有<a { $firefox_link }>{ -brand-name-firefox }</a>與<a { $thunderbird_link }>{ -brand-name-thunderbird }</a>。所有這一切都旨在幫助人們讓網際網路變成一個健康的地方。
+manifesto-we-make-firefox-and-thunderbird = 當然，我們也開發了 <a { $firefox_link }>{ -brand-name-firefox }</a> 和 <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>。這一切的努力，都是為了協助人們，讓網際網路有個健康的環境。
 
 ## Obsolete strings (expire 2026-09-10)
 
