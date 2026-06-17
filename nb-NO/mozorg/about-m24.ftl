@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } lager nettlesere, apper, kode og v
 
 ## Intro
 
+m24-about-guard-the-internet = Vokt det åpne internettet
 # Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Bli med på å gjenerobre internett
 m24-about-mozilla-is-working = { -brand-name-mozilla } jobber med å gi brukerne tilbake kontrollen over internett.
