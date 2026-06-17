@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = { -brand-name-mozilla-vpn } er diverre i
 vpn-download-for-windows-v2 = VPN for { -brand-name-windows }
 # Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (berre 64-bit)
+vpn-download-for-windows-requirements-v2 = { -brand-name-windows } 10/11
 vpn-download-for-windows-long = Last ned { -brand-name-mozilla-vpn } for { -brand-name-windows }
 vpn-download-for-firefox-extension = Installer { -brand-name-firefox }-utviding
 vpn-download-for-mac = VPN for { -brand-name-mac-short }
@@ -45,3 +46,5 @@ vpn-download-install-via-flathub = Installer via Flathub
 vpn-download-install-via-apt = Installera via APT
 vpn-download-flathub = Flathub
 vpn-download-apt = APT
+vpn-download-windows = 64-bit
+vpn-download-windows-arm = ARM
