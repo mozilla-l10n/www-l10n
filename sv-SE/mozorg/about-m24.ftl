@@ -26,6 +26,9 @@ m24-about-a-group-of = En grupp tänkare som sitter i en cirkel på golvet och d
 m24-about-advocate = Förespråkar
 m24-about-we-advocate-for = Vi förespråkar bättre produkter, som håller regeringar och teknikföretag ansvariga för vad de skapar.
 m24-about-research = Forskning
+m24-about-we-uncover-insights = Vi tar fram insikter, driver kampanjer för att förbättra produkter och driver policyer som representerar dina intressen.
+m24-about-build = Skapar
+m24-about-we-build-products-v2 = Vi skapar produkter som ger dig kontrollen — som { -brand-name-firefox } och fler.
 m24-about-fund = Finansiering
 m24-about-we-fund-and = Vi finansierar och investerar i människorna och de insatser som tar teknik, internet och AI i rätt riktning.
 
