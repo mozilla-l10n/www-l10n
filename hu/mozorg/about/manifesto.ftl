@@ -75,7 +75,7 @@ manifesto-we-host-a-yearly = Mi <a { $festival_link }>éves globális összejöv
 # Variables:
 #   $firefox_link (url) - link to https://www.firefox.com/
 #   $thunderbird_link (url) - link to https://www.thunderbird.net/
-manifesto-we-make-firefox-and-thunderbird = És természetesen elkészítjük a következőket: <a { $firefox_link }>{ -brand-name-firefox }</a> és <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Mindezek célja, hogy segítsük az embereket abban, hogy az internet egészséges hely legyen.
+manifesto-we-make-firefox-and-thunderbird = És természetesen készítjük a <a { $firefox_link }>{ -brand-name-firefox }</a> böngészőt és a <a { $thunderbird_link }>{ -brand-name-thunderbird }</a> levelezőprogramot. Mindezek célja, hogy segítsük az embereket abban, hogy az internet egészséges hely legyen.
 
 ## Obsolete strings (expire 2026-09-10)
 
