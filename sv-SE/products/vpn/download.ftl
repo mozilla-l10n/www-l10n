@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = Tyvärr, { -brand-name-mozilla-vpn } är
 vpn-download-for-windows-v2 = VPN för { -brand-name-windows }
 # Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bitars endast)
+vpn-download-for-windows-requirements-v2 = { -brand-name-windows } 10/11
 vpn-download-for-windows-long = Ladda ner { -brand-name-mozilla-vpn } för { -brand-name-windows }
 vpn-download-for-firefox-extension = Installera tillägget för { -brand-name-firefox }
 vpn-download-for-mac = VPN för { -brand-name-mac-short }
@@ -45,3 +46,5 @@ vpn-download-install-via-flathub = Installera via Flathub
 vpn-download-install-via-apt = Installera via APT
 vpn-download-flathub = Flathub
 vpn-download-apt = APT
+vpn-download-windows = 64-bitars
+vpn-download-windows-arm = ARM

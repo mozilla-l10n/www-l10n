@@ -23,6 +23,11 @@ m24-about-together-we-can = Tillsammans kan vi hålla internet enkelt, säkert o
 m24-about-read-our-manifesto = Läs vårt manifest
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = En grupp tänkare som sitter i en cirkel på golvet och delar idéer.
+m24-about-advocate = Förespråkar
+m24-about-we-advocate-for = Vi förespråkar bättre produkter, som håller regeringar och teknikföretag ansvariga för vad de skapar.
+m24-about-research = Forskning
+m24-about-fund = Finansiering
+m24-about-we-fund-and = Vi finansierar och investerar i människorna och de insatser som tar teknik, internet och AI i rätt riktning.
 
 ## News
 

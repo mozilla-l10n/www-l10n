@@ -33,6 +33,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Verktyg
 footer-refresh-donate = Donera
+footer-refresh-donate-not-for-profit = Donera till den ideella <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 # Obsolete string (expires 2026-08-01)
 footer-refresh-visit-mozilla-corporations-v2 = Besök <a { $moco_link }>{ -brand-name-mozilla-corporation }'s</a> ideella förälder, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> a>.
 footer-refresh-portions-of-this-content = Upphovsrätten för delar av detta innehåll tillhör enskilda medarbetare vid mozilla.org. ©1998–{ $current_year }. Innehåll tillgängligt under en <a rel="license" { $href }>{ -brand-name-creative-commons }-licens</a>.
