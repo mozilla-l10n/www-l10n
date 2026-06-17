@@ -53,7 +53,7 @@ manifesto-across-the-mozilla-project = 我們承諾在整個 { -brand-name-mozil
 manifesto-we-need-you = 我們需要您來讓宣言更進一步
 manifesto-an-internet-with-these-v2 = 這樣的網際網路並不會自動出現。每個人與組織都必須將他們的渴望放進網路科技及上網體驗。{ -brand-name-mozilla } 宣言及增修條款展現了 { -brand-name-mozilla } 對這些抱負的承諾，{ -brand-name-mozilla } 致力於與世界各地有相同目標的人們與組織一同合作，讓網際網路成為對每一個人都變得更好的地方。
 manifesto-our-commitments = 我們的承諾
-manifesto-if-you-share-this-goal-v2 = 若您有同樣的目標請讓我們知道可以幫忙什麼。
+manifesto-if-you-share-this-goal-v2 = 若您也有相同目標，請讓我們知道可以幫忙什麼。
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla
 manifesto-we-create-open = 我們打造<a { $github_link }>開放原始碼軟體</a>，讓您能在此基礎上進行開發。
