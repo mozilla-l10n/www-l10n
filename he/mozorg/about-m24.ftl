@@ -12,6 +12,7 @@ m24-about-page-desc = ‏{ -brand-name-mozilla } מייצרת דפדפנים, י
 
 ## Intro
 
+m24-about-guard-the-internet = שמירה על האינטרנט הפתוח
 m24-about-mozilla-is-working = ‏{ -brand-name-mozilla } פועלת כדי לתת את השליטה באינטרנט חזרה בידי האנשים שמשתמשים בו.
 
 ## Manifesto
