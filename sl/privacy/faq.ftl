@@ -23,6 +23,7 @@ privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, spletni b
 privacy-faq-really-you-dont-collect-my-browsing = Resno, ne zbirate moje zgodovine brskanja?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } o navadah brskanja svojih uporabnikov sploh ne ve toliko, kot bi lahko pričakovali. Za nas kot za razvijalca brskalnikov je to dejansko velik izziv. Zato smo ustvarili orodja za prostovoljno deljenje podatkov, ki uporabnikom omogoča, da nam ponudijo vpogled v svoje brskanje. Tudi če { -brand-name-firefox }ovo zgodovino brskanja sinhronizirate med napravami, je mi ne vidimo, saj jo vaša naprava šifrira.
 privacy-faq-it-seems-like-every-company = Zdi se, da vsako podjetje na spletu kupuje in prodaja moje podatke. Vi verjetno niste izjema.
+privacy-faq-we-never-sell-your = Vaših osebnih podatkov nikoli ne prodajamo. Za razliko od drugih velikih tehnoloških podjetij, ki zbirajo vaše osebne podatke in imajo od njih dobiček, je za nas zasebnost osnovno načelo. Ne poznamo vaše starosti, spola, kraja bivanja ali drugih podatkov, ki jih tehnološki velikani zbirajo in unovčujejo.
 privacy-faq-wait-so-how-do-you-make-money = Čakajte malo, kako torej služite denar?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
