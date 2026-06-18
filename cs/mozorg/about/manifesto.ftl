@@ -63,6 +63,10 @@ manifesto-across-the-mozilla-project = V rámci projektu { -brand-name-mozilla }
 manifesto-we-need-you = Potřebujeme vás k rozšíření Manifestu
 manifesto-an-internet-with-these-v2 = Internet s těmito kvalitami není k dispozici. Lidé a organizace musí začlenit tyto aspirace do internetových technologií a do lidské zkušenosti s internetem. Manifest a dodatek { -brand-name-mozilla } reprezentují odhodlání { -brand-name-mozilla } pokračovat v naplňování těchto cílů. { -brand-name-mozilla } spolupracuje s lidmi a organizacemi po celém světě, které chtějí z internetu udělat ještě lepší místo pro všechny.
 manifesto-our-commitments = Naše závazky
+manifesto-commitment-1 = Závazek 1
+manifesto-commitment-2 = Závazek 2
+manifesto-commitment-3 = Závazek 3
+manifesto-commitment-4 = Závazek 4
 manifesto-if-you-share-this-goal-v2 = Pokud sdílíte tento cíl, dejte nám vědět, jak vám můžeme pomoci.
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla

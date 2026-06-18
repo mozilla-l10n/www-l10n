@@ -63,6 +63,10 @@ manifesto-across-the-mozilla-project = Em todo o projeto { -brand-name-mozilla }
 manifesto-we-need-you = Precisamos de si para promover o Manifesto
 manifesto-an-internet-with-these-v2 = Uma internet com estas qualidades não ganhará vida por si própria. As pessoas e organizações devem embutir estas aspirações na tecnologia da internet e na experiência humana da internet. O Manifesto de { -brand-name-mozilla } e o Adendo representam o compromisso de { -brand-name-mozilla } para avançar estas aspirações. A { -brand-name-mozilla } trabalha com pessoas e organizações em todo o lado que pretendem fazer a Internet melhor ainda para todos.
 manifesto-our-commitments = Os nossos compromissos
+manifesto-commitment-1 = Comprometimento 1
+manifesto-commitment-2 = Comprometimento 2
+manifesto-commitment-3 = Comprometimento 3
+manifesto-commitment-4 = Comprometimento 4
 manifesto-if-you-share-this-goal-v2 = Se partilha este objetivo, diga-nos como podemos ajudar.
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla

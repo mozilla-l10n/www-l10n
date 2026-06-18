@@ -63,6 +63,10 @@ manifesto-across-the-mozilla-project = Ar draws Project { -brand-name-mozilla } 
 manifesto-we-need-you = Rydym Eich Angen Chi Symud y Maniffesto yn ei Flaen
 manifesto-an-internet-with-these-v2 = Bydd rhyngrwyd gyda'r rhinweddau hyn ddim yn dod yn fyw ar ei ben ei hun. Rhaid i bobl a sefydliadau ymgorffori'r dyheadau hyn i mewn i dechnoleg rhyngrwyd ac i'r profiad dynol gyda'r rhyngrwyd. Mae Maniffesto ac Adendwm { -brand-name-mozilla } yn cynrychioli ymrwymiad { -brand-name-mozilla } i hyrwyddo'r dyheadau hyn. Mae { -brand-name-mozilla } yn gweithio gyda phobl a sefydliadau ym mhobman sydd am wneud y rhyngrwyd yn lle gwell fyth i bawb.
 manifesto-our-commitments = Ein Hymrwymiadau
+manifesto-commitment-1 = Ymrwymiad 1
+manifesto-commitment-2 = Ymrwymiad 2
+manifesto-commitment-3 = Ymrwymiad 3
+manifesto-commitment-4 = Ymrwymiad 4
 manifesto-if-you-share-this-goal-v2 = Os ydych chi'n rhannu'r nod hwn, rhowch wybod i ni sut y gallwn ni helpu.
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla

@@ -63,6 +63,10 @@ manifesto-across-the-mozilla-project = 我们承诺通过 { -brand-name-mozilla 
 manifesto-we-need-you = 我们需要您推行宣言
 manifesto-an-internet-with-these-v2 = 具有这些品质的互联网不会自行产生。人们和组织必须将这些愿景融入互联网技术融入互联网带来的人类体验中。 { -brand-name-mozilla } 宣言及其修正案代表了 { -brand-name-mozilla } 对推进这些愿景的承诺。 { -brand-name-mozilla } 与希望让互联网对每个人都更美好的世界各地的人们和组织合作。
 manifesto-our-commitments = 我们的承诺
+manifesto-commitment-1 = 承诺 1
+manifesto-commitment-2 = 承诺 2
+manifesto-commitment-3 = 承诺 3
+manifesto-commitment-4 = 承诺 4
 manifesto-if-you-share-this-goal-v2 = 如果您也有相同的目标请告诉我们能帮上什么忙。
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla

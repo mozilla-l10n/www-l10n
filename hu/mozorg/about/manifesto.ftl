@@ -63,6 +63,10 @@ manifesto-across-the-mozilla-project = Mi, a { -brand-name-mozilla } projekt és
 manifesto-we-need-you = Szükségünk van Önre a Kiáltvány előmozdításához
 manifesto-an-internet-with-these-v2 = Az ezekkel a tulajdonságokkal rendelkező internet nem magától fog létrejönni. Az embereknek és szervezeteknek be kell építeniük ezeket a törekvéseket az internetes technológiákba, és az internet emberi élményébe. A { -brand-name-mozilla } Kiáltvány és a Kiegészítés a { -brand-name-mozilla } elkötelezettségét fejezi ki ezen célok iránt. A { -brand-name-mozilla } együtt dolgozik azokkal az emberekkel és szervezetekkel, akik egy mindenki számára jobb hellyé szeretnék tenni az internetet.
 manifesto-our-commitments = Elkötelezettségeink
+manifesto-commitment-1 = 1. elkötelezettség
+manifesto-commitment-2 = 2. elkötelezettség
+manifesto-commitment-3 = 3. elkötelezettség
+manifesto-commitment-4 = 4. elkötelezettség
 manifesto-if-you-share-this-goal-v2 = Ha osztja ezt a célt, tudassa velünk, hogyan segíthetünk.
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla
