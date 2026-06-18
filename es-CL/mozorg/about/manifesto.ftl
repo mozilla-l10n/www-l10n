@@ -72,6 +72,10 @@ manifesto-we-run-a-global = <a { $mdc_link }>Gestionamos una comunidad mundial</
 # Variables:
 #   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
 manifesto-we-host-a-yearly = <a { $festival_link }>Organizamos un encuentro global anual</a> para personas que construyen cualquier cosa para impulsar el Manifiesto.
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = Y, por supuesto, también creamos <a { $firefox_link }>{ -brand-name-firefox }</a> y <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Todo esto tiene como objetivo ayudar a las personas a hacer de internet un lugar saludable.
 
 ## Obsolete strings (expire 2026-09-10)
 
