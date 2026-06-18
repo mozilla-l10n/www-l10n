@@ -47,6 +47,7 @@ manifesto-details-build-and-deliver = izdelovali in ponujali kvalitetne izdelke,
 manifesto-details-use-the-mozilla = uporabljali sredstva { -brand-name-mozilla(sklon: "rodilnik") } (intelektualno lastnino, kot so avtorske pravice in blagovne znamke, infrastrukturo, sklade in ugled), tako da internet ostane dalje odprta platforma,
 manifesto-details-promote-models = podpirali modele, ki bodo ustvarjali ekonomsko vrednost iz projektov javne koristi in
 manifesto-details-promote-the-mozilla = spodbujali načela Manifesta { -brand-name-mozilla(sklon: "rodilnik") } v javnih razpravah in v okviru industrije, ki se ukvarja z internetom.
+manifesto-our-commitments = Naše zaveze
 
 ## Obsolete strings (expire 2026-09-10)
 

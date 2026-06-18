@@ -37,6 +37,7 @@ privacy-index-firefox-browser = { -brand-name-firefox-browser(zacetnica: "velika
 privacy-index-firefox-focus = { -brand-name-firefox-focus }
 privacy-index-thunderbird = { -brand-name-thunderbird }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
+privacy-index-smart-window = Pametno okno
 privacy-index-mozilla-subscription-services = Naročniške storitve { -brand-name-mozilla(sklon: "rodilnik") }
 # This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".
 privacy-index-mozilla-accounts = Računi { -brand-name-mozilla }

@@ -30,6 +30,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Orodja
 footer-refresh-donate = Donirajte
+footer-refresh-donate-not-for-profit = Donirajte neprofitni <a { $mofo_link }>{ -brand-name-mozilla-foundation(sklon: "dajalnik") }</a>.
 # Obsolete string (expires 2026-08-01)
 footer-refresh-visit-mozilla-corporations-v2 = Obiščite neprofitno starševsko organizacijo <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> - <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Deli vsebine so avtorsko zaščiteni ©1998–{ $current_year } s strani sodelavcev mozilla.org. Vsebina je na voljo pod pogoji <a rel="license" { $href }>{ -brand-name-creative-commons }</a>.
