@@ -14,6 +14,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } foar { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } foar { -brand-name-android }
+footer-donate-not-for-profit = Donearje oan de non-profit <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Underdielen fan dizze ynhâld binne ©1998–{ $current_year } troch yndividuele meiwurkers fan mozilla.org. Ynhâld is beskikber ûnder in <a rel="license" href="{ $url }">{ -brand-name-creative-commons }-lisinsje</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Bedriuw
