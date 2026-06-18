@@ -63,6 +63,10 @@ manifesto-across-the-mozilla-project = Inom { -brand-name-mozilla }-projektet oc
 manifesto-we-need-you = Vi behöver dig för att främja manifestet
 manifesto-an-internet-with-these-v2 = Ett internet med dessa egenskaper kommer inte att leva upp av sig självt. Människor och organisationer måste integrera dessa ambitioner i internettekniken och i den mänskliga upplevelsen av internet. Manifestet och tillägget till { -brand-name-mozilla } representerar { -brand-name-mozilla }:s engagemang för att främja dessa ambitioner. { -brand-name-mozilla } arbetar med människor och organisationer överallt som vill göra internet till en ännu bättre plats för alla.
 manifesto-our-commitments = Våra åtaganden
+manifesto-commitment-1 = Åtagande 1
+manifesto-commitment-2 = Åtagande 2
+manifesto-commitment-3 = Åtagande 3
+manifesto-commitment-4 = Åtagande 4
 manifesto-if-you-share-this-goal-v2 = Om du delar detta mål, låt oss veta hur vi kan hjälpa dig.
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla
