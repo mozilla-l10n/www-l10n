@@ -1,0 +1,13 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/products/vpn/resource-center
+
+vpn-resource-center-mozilla-vpn = { -brand-name-mozilla-vpn }
+vpn-resource-center-obsessed-with = Osredotočeni na vašo zasebnost od leta 1998
+vpn-resource-center-was-this-article = Vam je bil ta članek v pomoč?
+vpn-resource-center-article-helpful = Članek je koristen
+vpn-resource-center-article-not-helpful = Članek ni koristen
+vpn-resource-center-related-posts = Sorodne objave
