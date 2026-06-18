@@ -22,6 +22,8 @@ m24-about-together-we-can = Μαζί, μπορούμε να διατηρήσου
 m24-about-read-our-manifesto = Διαβάστε τη διακήρυξή μας
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Μια ομάδα σκεπτόμενων ανθρώπων που κάθονται σε κύκλο στο πάτωμα και μοιράζονται ιδέες.
+m24-about-research = Έρευνα
+m24-about-fund = Χρηματοδότηση
 
 ## News
 
