@@ -14,6 +14,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } voor { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } voor { -brand-name-android }
+footer-donate-not-for-profit = Doneren aan de non-profit <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Onderdelen van deze inhoud zijn ©1998–{ $current_year } door individuele medewerkers van mozilla.org. Inhoud is beschikbaar onder een <a rel="license" href="{ $url }">{ -brand-name-creative-commons }-licentie</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Bedrijf
