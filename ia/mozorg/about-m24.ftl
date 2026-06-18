@@ -23,6 +23,14 @@ m24-about-together-we-can = Insimul, nos pote mantener internet facile, secur e 
 m24-about-read-our-manifesto = Lege nostre manifesto
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Un gruppo de pensatores sede in circulo sur le pavimento compartiente ideas.
+m24-about-advocate = Propugnator
+m24-about-we-advocate-for = Nos recommenda le productos melior, responsabilisante governamentos e interprisas technologic pro lo que illos crea.
+m24-about-research = Recerca
+m24-about-we-uncover-insights = Nos discoperi intuitiones, campanias pro meliorar productos e promover directivas que representa tu interesses.
+m24-about-build = Producer
+m24-about-we-build-products-v2 = Nos produce lo que te pone al commando, como { -brand-name-firefox } e altero.
+m24-about-fund = Financiar
+m24-about-we-fund-and = Nos financia e investi in le personas e le effortios pro tener le technologia, internet e le intelligentia artificial in le juste direction.
 
 ## News
 
