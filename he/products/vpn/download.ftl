@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = מצטערים, { -brand-name-mozilla-vp
 vpn-download-for-windows-v2 = ‏VPN עבור { -brand-name-windows }
 # Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64 סיביות בלבד)
+vpn-download-for-windows-requirements-v2 = { -brand-name-windows } 10/11
 vpn-download-for-windows-long = הורדת { -brand-name-mozilla-vpn } עבור { -brand-name-windows }
 vpn-download-for-firefox-extension = התקנת ההרחבה ב־{ -brand-name-firefox }
 vpn-download-for-mac = ‏VPN עבור { -brand-name-mac-short }
@@ -41,3 +42,5 @@ vpn-download-also-available = זמין גם עבור:
 vpn-download-from-the-maker = מהיוצרים של { -brand-name-firefox }, ‏{ -brand-name-mozilla-vpn } משתמש בפרוטוקול המתקדם של <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® כדי להצפין את הפעילות המקוונת שלך ולהסתיר את מיקומך.
 vpn-download-we-never-log = אנחנו אף פעם לא מתעדים, עוקבים או משתפים את נתוני הרשת שלך.
 vpn-download-previous-versions = הורדת גרסאות קודמות עבור { -brand-name-windows } ו־{ -brand-name-mac-short }
+vpn-download-windows = 64 סיביות
+vpn-download-windows-arm = ARM
