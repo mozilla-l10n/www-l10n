@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = Ľutujeme, { -brand-name-mozilla-vpn } n
 vpn-download-for-windows-v2 = VPN pre { -brand-name-windows }
 # Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (len 64‑bitová verzia)
+vpn-download-for-windows-requirements-v2 = { -brand-name-windows } 10/11
 vpn-download-for-windows-long = Stiahnite si { -brand-name-mozilla-vpn } pre { -brand-name-windows }
 vpn-download-for-firefox-extension = Nainštalovať rozšírenie pre { -brand-name-firefox }
 vpn-download-for-mac = VPN pre { -brand-name-mac-short }
@@ -45,3 +46,5 @@ vpn-download-install-via-flathub = Inštalácia cez Flathub
 vpn-download-install-via-apt = Inštalácia cez APT
 vpn-download-flathub = Flathub
 vpn-download-apt = APT
+vpn-download-windows = 64‑bitová verzia
+vpn-download-windows-arm = ARM

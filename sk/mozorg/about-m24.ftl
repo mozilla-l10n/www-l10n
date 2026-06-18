@@ -23,6 +23,14 @@ m24-about-together-we-can = Spoločne môžeme udržiavať internet jednoduchý,
 m24-about-read-our-manifesto = Prečítajte si náš manifest
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Skupina mysliteľov sediacich v kruhu na podlahe a zdieľajúcich nápady.
+m24-about-advocate = Zasadzujeme sa
+m24-about-we-advocate-for = Obhajujeme lepšie produkty a pripomíname vládam a technologickým korporáciám ich zodpovednosť za to, čo vytvárajú.
+m24-about-research = Skúmame
+m24-about-we-uncover-insights = Odhaľujeme štatistiky, robíme kampane na zlepšenie produktov a riadime pravidlá, ktoré reprezentujú vaše záujmy.
+m24-about-build = Budujeme
+m24-about-we-build-products-v2 = Vytvárame produkty, ktoré vám dávajú kontrolu do vlastných rúk – napríklad { -brand-name-firefox(case: "acc") }, a iné.
+m24-about-fund = Podporujeme
+m24-about-we-fund-and = Financujeme a investujeme do ľudí a úsilia, ktoré posúvajú technológie, internet a AI správnym smerom.
 
 ## News
 
