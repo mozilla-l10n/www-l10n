@@ -8,10 +8,10 @@
 # HTML page title & main page heading
 manifesto-the-mozilla-manifesto = Ang Manifesto ng { -brand-name-mozilla }
 manifesto-details-principles = Mga Prinsipyo
+manifesto-principle-1 = Unang Prinsipyo
 
 ## Obsolete strings (expire 2026-09-10)
 
 manifesto-details-the-mozilla-manifesto = Ang Manifesto ng { -brand-name-mozilla }
 manifesto-details-invitation = Paanyaya
-manifesto-principle-1 = Unang Prinsipyo
 manifesto-show-your-support = Ipakita ang Iyong Suporta

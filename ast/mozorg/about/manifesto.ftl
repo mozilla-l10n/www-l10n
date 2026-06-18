@@ -12,11 +12,6 @@ manifesto-the-internet-is-a-global = Internet ye un recursu públicu global qu'h
 manifesto-the-internet-must-enrich = Internet ha arriquecer la vida de los seres humanos.
 manifesto-details-introduction = Introducción
 manifesto-details-principles = Principios
-
-## Obsolete strings (expire 2026-09-10)
-
-manifesto-details-the-internet-is-global = Internet ye un recursu públicu global qu'ha siguir siendo abiertu y accesible.
-manifesto-details-invitation = Invitación
 manifesto-principle-1 = Principiu 1
 manifesto-principle-2 = Principiu 2
 manifesto-principle-3 = Principiu 3
@@ -27,3 +22,8 @@ manifesto-principle-7 = Principiu 7
 manifesto-principle-8 = Principiu 8
 manifesto-principle-9 = Principiu 9
 manifesto-principle-10 = Principiu 10
+
+## Obsolete strings (expire 2026-09-10)
+
+manifesto-details-the-internet-is-global = Internet ye un recursu públicu global qu'ha siguir siendo abiertu y accesible.
+manifesto-details-invitation = Invitación
