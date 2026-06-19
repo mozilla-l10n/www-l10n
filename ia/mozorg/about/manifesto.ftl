@@ -63,6 +63,10 @@ manifesto-across-the-mozilla-project = A transverso le projecto { -brand-name-mo
 manifesto-we-need-you = Nos te besonia pro facer progreder le Manifesto
 manifesto-an-internet-with-these-v2 = Un internet con iste qualitates non prendera vita per se sol. Le Manifesto e le Addendum de { -brand-name-mozilla } representa le dedication de { -brand-name-mozilla } al progresso de iste aspirationes. { -brand-name-mozilla } ubique collabora con personas e organisationes qui vole render internet un posto anque melior pro omnes.
 manifesto-our-commitments = Nostre dedicationes
+manifesto-commitment-1 = Dedication 1
+manifesto-commitment-2 = Dedication 2
+manifesto-commitment-3 = Dedication 3
+manifesto-commitment-4 = Dedication 4
 manifesto-if-you-share-this-goal-v2 = Si tu condivide iste objectivo, face nos saper nostre modo de poter adjutar.
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla
