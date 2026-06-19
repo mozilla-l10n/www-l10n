@@ -33,6 +33,8 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = ツール
 footer-refresh-donate = 寄付する
+footer-refresh-donate-not-for-profit = 非営利法人 <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> にご寄付をお願いします。
+# Obsolete string (expires 2026-08-01)
 footer-refresh-visit-mozilla-corporations-v2 = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> の母体の非営利法人である <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> をご覧ください。
 footer-refresh-portions-of-this-content = このコンテンツの一部は ©1998–{ $current_year }、mozilla.org の個人寄稿者。コンテンツは <a rel="license" { $href }>{ -brand-name-creative-commons } のライセンス</a>の下で公開。
 footer-refresh-websites-privacy-notice = ウェブサイトのプライバシーに関する通知
