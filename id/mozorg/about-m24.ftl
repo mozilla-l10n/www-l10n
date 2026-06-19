@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } membuat peramban, aplikasi, kode, 
 
 ## Intro
 
+# Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Rebut kembali kendali internet bersama kami
 m24-about-mozilla-is-working = { -brand-name-mozilla } berkomitmen untuk mengembalikan kendali atas internet kepada para penggunanya.
 
