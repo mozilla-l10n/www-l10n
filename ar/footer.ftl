@@ -15,7 +15,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } لنظام { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } لنظام { -brand-name-android }
-footer-visit-mozilla-corporations = تفضل بزيارة <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>، إحدى شركات مؤسسة <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> غير الهادفة للربح.
+footer-donate-not-for-profit = تبرّع لصالح المؤسسة غير الربحية <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = أجزاء من هذا المحتوى محفوظة بحقوق الطبع والنشر © لعام 1998-{ $current_year } بواسطة مساهمين فرديين في mozilla.org. والمحتوى متاح بموجب ترخيص <a rel="license" href="{ $url }">{ -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = الشركة
@@ -45,3 +45,6 @@ footer-follow-mozilla = تابعنا على { -brand-name-mozilla }
 footer-follow-firefox = تابعنا على { -brand-name-firefox }
 footer-about-this-site = نبذة عن هذا الموقع
 footer-advertise = أعلن مع { -brand-name-mozilla }
+
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = تفضل بزيارة <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>، إحدى شركات مؤسسة <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> غير الهادفة للربح.
