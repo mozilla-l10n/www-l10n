@@ -7,6 +7,7 @@
 
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-get-firefox-for-your-enterprise = קבלת { -brand-name-firefox } לארגון שלך
+firefox-enterprise-your-data-stays-your-business = הנתונים שלכם נשארים בבעלותכם
 firefox-enterprise-enterprise-downloads = הורדות ל־{ -brand-name-enterprise }
 firefox-enterprise-windows-64-bit = { -brand-name-windows } 64-bit
 firefox-enterprise-macos = { -brand-name-mac }
