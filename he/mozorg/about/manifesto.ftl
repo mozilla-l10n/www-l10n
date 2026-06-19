@@ -28,6 +28,10 @@ manifesto-across-the-mozilla-project = ברחבי מיזם { -brand-name-mozilla
 manifesto-we-need-you = אנחנו צריכים אותך כדי לקדם את המניפסט
 manifesto-an-internet-with-these-v2 = אינטרנט בעל תכונות אלה לא יתעורר לחיים מעצמו. אנשים וארגונים חייבים להטמיע שאיפות אלה בטכנולוגיית האינטרנט ובחוויה האנושית עם האינטרנט. המניפסט והנספח של { -brand-name-mozilla } מייצגים את מחויבותה של { -brand-name-mozilla } לקידום שאיפות אלה. { -brand-name-mozilla } עובדת עם אנשים וארגונים בכל מקום שרוצים להפוך את האינטרנט למקום טוב עוד יותר עבור כולם.
 manifesto-our-commitments = המחויבויות שלנו
+manifesto-commitment-1 = התחייבות מספר 1
+manifesto-commitment-2 = התחייבות מספר 2
+manifesto-commitment-3 = התחייבות מספר 3
+manifesto-commitment-4 = התחייבות מספר 4
 manifesto-if-you-share-this-goal-v2 = אם אתם חולקים את המטרה הזו, ספרו לנו כיצד נוכל לעזור.
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla
