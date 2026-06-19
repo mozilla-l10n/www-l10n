@@ -6,3 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/ios/
 
 mobile-ios-firefox-browser = { -brand-name-firefox-browser(case: "a") }
+mobile-ios-get-firefox-for = קבלת { -brand-name-firefox } עבור { -brand-name-ios }
+mobile-ios-send-a-download-link-to-your = שליחת קישור הורדה לטלפון שלך.
+mobile-ios-scan-the-qr-code-to-get-started = יש לסרוק את קוד ה־QR כדי להתחיל
+mobile-ios-make-firefox-your = הגדרת { -brand-name-firefox } כדפדפן ברירת המחדל שלך

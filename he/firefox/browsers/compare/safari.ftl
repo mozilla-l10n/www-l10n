@@ -5,3 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/safari/
 
+# Page title
+compare-safari-firefox-vs-apple-safari = ‏{ -brand-name-firefox } לעומת Apple Safari
