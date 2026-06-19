@@ -12,6 +12,8 @@ m24-about-page-desc = { -brand-name-mozilla } ऐसे ब्राउज़र
 
 ## Intro
 
+m24-about-guard-the-internet = ओपन इंटरनेट की रक्षा करें
+# Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = हमारे साथ मिलकर इंटरनेट का कंट्रोल वापस अपने हाथ में लें
 m24-about-mozilla-is-working = { -brand-name-mozilla } इंटरनेट का कंट्रोल इसका उपयोग करने वाले लोगों के हाथों में वापस देने पर काम कर रहा है।
 

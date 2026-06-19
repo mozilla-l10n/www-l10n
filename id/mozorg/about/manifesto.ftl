@@ -40,6 +40,16 @@ manifesto-details-make-mozilla-contributors = membuat kontributor { -brand-name-
 manifesto-details-provide-a-framework = menyediakan kerangka kerja bagi orang lain untuk memajukan visi internet ini.
 manifesto-details-these-principles-v2 = Prinsip-prinsip ini tidak akan terwujud dengan sendirinya. Dibutuhkan banyak orang untuk membuat internet terbuka dan partisipatif - orang yang bertindak sebagai individu, bekerja bersama dalam kelompok, dan memimpin orang lain. { -brand-name-mozilla-foundation } berkomitmen untuk memajukan prinsip-prinsip yang ditetapkan dalam Manifesto { -brand-name-mozilla }. Kami mengundang yang lain untuk bergabung dengan kami dan menjadikan internet tempat yang lebih baik bagi semua orang.
 manifesto-details-principles = Prinsip
+manifesto-principle-1 = Prinsip 1
+manifesto-principle-2 = Prinsip 2
+manifesto-principle-3 = Prinsip 3
+manifesto-principle-4 = Prinsip 4
+manifesto-principle-5 = Prinsip 5
+manifesto-principle-6 = Prinsip 6
+manifesto-principle-7 = Prinsip 7
+manifesto-principle-8 = Prinsip 8
+manifesto-principle-9 = Prinsip 9
+manifesto-principle-10 = Prinsip 10
 manifesto-details-transparent-community = Proses berbasis komunitas yang transparan mendorong partisipasi, akuntabilitas, dan kepercayaan.
 manifesto-details-advancing-the = Memajukan Manifesto { -brand-name-mozilla }
 manifesto-details-mozilla-foundation = Ikrar { -brand-name-mozilla-foundation }
@@ -57,6 +67,7 @@ manifesto-we-need-you = Kami Membutuhkan Dukungan Anda untuk Memajukan Manifesto
 manifesto-an-internet-with-these-v2 = Internet dengan kualitas ini tidak akan hidup dengan sendirinya. Orang-orang dan organisasi harus menanamkan aspirasi ini ke dalam teknologi internet dan ke dalam pengalaman manusia dengan internet. Manifesto dan Adendum { -brand-name-mozilla } mewakili komitmen { -brand-name-mozilla } untuk memajukan aspirasi ini. { -brand-name-mozilla } bekerja sama dengan orang-orang dan organisasi di mana pun yang ingin menjadikan internet tempat yang lebih baik bagi semua.
 manifesto-our-commitments = Komitmen Kami
 
+manifesto-if-you-share-this-goal-v2 = Jika Anda memiliki tujuan yang sama, beri tahu kami bagaimana kami dapat membantu.
 
 
 
@@ -81,16 +92,6 @@ manifesto-details-there-are-many = Ada banyak cara berbeda untuk memajukan prins
 manifesto-details-some-foundation-v2 = Beberapa aktivitas Yayasan—saat ini pembuatan, pengiriman, dan promosi produk konsumen—dilakukan terutama melalui anak perusahaan yang sepenuhnya dimiliki { -brand-name-mozilla-foundation }, { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Undangan
 manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } mengundang semua orang yang mendukung prinsip-prinsip Manifesto { -brand-name-mozilla } untuk bergabung bersama kami, dan menemukan cara baru untuk mewujudkan visi internet ini menjadi kenyataan.
-manifesto-principle-1 = Prinsip 1
-manifesto-principle-2 = Prinsip 2
-manifesto-principle-3 = Prinsip 3
-manifesto-principle-4 = Prinsip 4
-manifesto-principle-5 = Prinsip 5
-manifesto-principle-6 = Prinsip 6
-manifesto-principle-7 = Prinsip 7
-manifesto-principle-8 = Prinsip 8
-manifesto-principle-9 = Prinsip 9
-manifesto-principle-10 = Prinsip 10
 manifesto-share-on-bluesky = Bagikan di Bluesky
 manifesto-our-10-principles = <strong>10</strong> Prinsip Kami
 manifesto-the-mozilla-manifesto-addendum = Adendum Manifesto { -brand-name-mozilla }

@@ -15,7 +15,9 @@ vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } menawarkan perlind
 vpn-download-not-available-in-country = Maaf, { -brand-name-mozilla-vpn } tidak tersedia untuk dimuat turun di negara anda.
 
 vpn-download-for-windows-v2 = VPN untuk { -brand-name-windows }
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-bit sahaja)
+vpn-download-for-windows-requirements-v2 = { -brand-name-windows } 10/11
 vpn-download-for-windows-long = Muat turun { -brand-name-mozilla-vpn } untuk { -brand-name-windows }
 vpn-download-for-firefox-extension = Pasanglah perisian tambahan bagi { -brand-name-firefox }
 vpn-download-for-mac = VPN untuk { -brand-name-mac-short }
@@ -55,3 +57,4 @@ vpn-download-install-via-flathub = Pasang menerusi Flathub
 vpn-download-install-via-apt = Pasang menerusi APT
 vpn-download-flathub = Flathub
 vpn-download-apt = APT
+vpn-download-windows = 64-bit

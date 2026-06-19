@@ -15,7 +15,9 @@ vpn-download-mozilla-vpn-offers = { -brand-name-mozilla-vpn } は、すべての
 vpn-download-not-available-in-country = 申し訳ありません。{ -brand-name-mozilla-vpn } はお住まいの国ではダウンロードできません。
 
 vpn-download-for-windows-v2 = { -brand-name-windows } 用の VPN
+# Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64 ビットのみ)
+vpn-download-for-windows-requirements-v2 = { -brand-name-windows } 10/11
 vpn-download-for-windows-long = { -brand-name-windows } 用 { -brand-name-mozilla-vpn } をダウンロード
 vpn-download-for-firefox-extension = { -brand-name-firefox } 拡張機能をインストール
 vpn-download-for-mac = { -brand-name-mac-short } 用の VPN
@@ -55,3 +57,5 @@ vpn-download-install-via-flathub = Flathub からインストール
 vpn-download-install-via-apt = APT からインストール
 vpn-download-flathub = Flathub
 vpn-download-apt = APT
+vpn-download-windows = 64 ビット
+vpn-download-windows-arm = ARM

@@ -40,6 +40,16 @@ manifesto-details-make-mozilla-contributors = die Mitwirkenden am { -brand-name-
 manifesto-details-provide-a-framework = einen Rahmen zu schaffen, in dem andere Personen diese Vision des Internets fortführen können.
 manifesto-details-these-principles-v2 = Diese Prinzipien werden nicht von alleine lebendig. Es braucht Menschen, die das Internet offen und zu einem Ort der aktiven Teilnahme machen; sowohl einzelne als auch Menschen, die in Gruppen zusammenarbeiten und andere anleiten. Die { -brand-name-mozilla-foundation } setzt sich dafür ein, die Prinzipien des { -brand-name-mozilla }-Manifestes voranzutreiben. Wir laden jeden dazu ein, das Internet mit uns gemeinsam zu einem noch besseren Ort für alle zu machen.
 manifesto-details-principles = Prinzipien
+manifesto-principle-1 = 1. Prinzip
+manifesto-principle-2 = 2. Prinzip
+manifesto-principle-3 = 3. Prinzip
+manifesto-principle-4 = 4. Prinzip
+manifesto-principle-5 = 5. Prinzip
+manifesto-principle-6 = 6. Prinzip
+manifesto-principle-7 = 7. Prinzip
+manifesto-principle-8 = 8. Prinzip
+manifesto-principle-9 = 9. Prinzip
+manifesto-principle-10 = 10. Prinzip
 manifesto-details-transparent-community = Transparente, auf Gemeinschaft basierende Prozesse fördern Mitwirkung, Verantwortlichkeit und Vertrauen.
 manifesto-details-advancing-the = Vorantreiben des { -brand-name-mozilla }-Manifests
 manifesto-details-mozilla-foundation = Das Versprechen der { -brand-name-mozilla-foundation }
@@ -57,6 +67,7 @@ manifesto-we-need-you = Wir brauchen dich, um das Manifest voranzubringen
 manifesto-an-internet-with-these-v2 = Ein Internet mit diesen Eigenschaften entsteht nicht von selbst. Menschen und Organisationen müssen diese Ziele sowohl in Internettechnologie als auch in das individuelle Erleben im Internet integrieren. Das { -brand-name-mozilla }-Manifest und dessen Ergänzung repräsentieren das Engagement von { -brand-name-mozilla } für diese Ziele. { -brand-name-mozilla } arbeitet Menschen und Organisationen auf der ganzen Welt zusammen, die zu einem besseren Internet für alle beitragen wollen.
 manifesto-our-commitments = Unser Engagement
 
+manifesto-if-you-share-this-goal-v2 = Wenn du dieses Ziel teilst, sag uns, wie wir helfen können.
 
 
 
@@ -81,16 +92,6 @@ manifesto-details-there-are-many = Es gibt viele Möglichkeiten, die im { -brand
 manifesto-details-some-foundation-v2 = Einige Aktivitäten der Foundation – darunter aktuell die Erstellung, Veröffentlichung und Bewerbung von Verbraucher-Produkten – werden hauptsächlich von der hundertprozentigen Tochterfirma der { -brand-name-mozilla-foundation }, der { -brand-name-mozilla-corporation }, durchgeführt.
 manifesto-details-invitation = Einladung
 manifesto-details-the-mozilla-foundation-invites-v2 = Die { -brand-name-mozilla-foundation } lädt alle Unterstützer der Prinzipien des { -brand-name-mozilla }-Manifests zur Zusammenarbeit ein, um so neue Wege zu finden, um diese Vision des Internets Wirklichkeit werden zu lassen.
-manifesto-principle-1 = 1. Prinzip
-manifesto-principle-2 = 2. Prinzip
-manifesto-principle-3 = 3. Prinzip
-manifesto-principle-4 = 4. Prinzip
-manifesto-principle-5 = 5. Prinzip
-manifesto-principle-6 = 6. Prinzip
-manifesto-principle-7 = 7. Prinzip
-manifesto-principle-8 = 8. Prinzip
-manifesto-principle-9 = 9. Prinzip
-manifesto-principle-10 = 10. Prinzip
 manifesto-share-on-bluesky = Auf Bluesky teilen
 manifesto-our-10-principles = <strong>Unsere 10</strong> Prinzipien
 manifesto-the-mozilla-manifesto-addendum = Ergänzung zum { -brand-name-mozilla }-Manifest

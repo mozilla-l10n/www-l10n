@@ -12,6 +12,8 @@ m24-about-page-desc = تبني { -brand-name-mozilla } متصفحات وتطبي
 
 ## Intro
 
+m24-about-guard-the-internet = حماية الإنترنت المفتوح
+# Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = استعد السيطرة على الإنترنت معنا.
 m24-about-mozilla-is-working = تعمل { -brand-name-mozilla } على إعادة السيطرة على الإنترنت إلى أيدي مستخدميه.
 

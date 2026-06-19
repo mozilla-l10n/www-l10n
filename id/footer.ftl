@@ -15,7 +15,6 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } untuk { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } untuk { -brand-name-android }
-footer-visit-mozilla-corporations = Kunjungi organisasi induk nirlaba <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> yaitu, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Sebagian konten ini merupakan hak cipta ©1998–{ $current_year } oleh kontributor individual mozilla.org. Konten tersedia di bawah lisensi <a rel="license" href="{ $url }">{ -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Perusahaan
@@ -45,3 +44,6 @@ footer-follow-mozilla = Ikuti @{ -brand-name-mozilla }
 footer-follow-firefox = Ikuti @{ -brand-name-firefox }
 footer-about-this-site = Tentang situs ini
 footer-advertise = Beriklan dengan { -brand-name-mozilla }
+
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = Kunjungi organisasi induk nirlaba <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> yaitu, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.

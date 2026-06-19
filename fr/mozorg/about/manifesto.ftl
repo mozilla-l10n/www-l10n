@@ -40,6 +40,16 @@ manifesto-details-make-mozilla-contributors = rendre les personnes qui soutienne
 manifesto-details-provide-a-framework = fournir un canevas à d’autres pour faire avancer cette vision d’Internet.
 manifesto-details-these-principles-v2 = Ces principes ne se concrétiseront pas d’eux-mêmes. Des personnes sont nécessaires pour rendre Internet ouvert et participatif — des personnes qui agissent en tant qu’individus, qui travaillent ensemble dans des groupes et qui en mènent d’autres. La { -brand-name-mozilla-foundation } s’engage à intégrer ces principes dans le Manifeste { -brand-name-mozilla }. Nous invitons chacun·e à nous rejoindre et à faire d’Internet un lieu encore meilleur pour tout le monde.
 manifesto-details-principles = Principes
+manifesto-principle-1 = Principe n°1
+manifesto-principle-2 = Principe n°2
+manifesto-principle-3 = Principe n°3
+manifesto-principle-4 = Principe n°4
+manifesto-principle-5 = Principe n°5
+manifesto-principle-6 = Principe n°6
+manifesto-principle-7 = Principe n°7
+manifesto-principle-8 = Principe n°8
+manifesto-principle-9 = Principe n°9
+manifesto-principle-10 = Principe n°10
 manifesto-details-transparent-community = Des processus transparents et communautaires favorisent la participation, la responsabilité et la confiance.
 manifesto-details-advancing-the = Faire progresser le Manifeste { -brand-name-mozilla }
 manifesto-details-mozilla-foundation = L’engagement de la { -brand-name-mozilla-foundation }
@@ -57,13 +67,36 @@ manifesto-we-need-you = Nous avons besoin de vous pour promouvoir le Manifeste.
 manifesto-an-internet-with-these-v2 = Un Internet avec ces qualités ne pourra pas voir le jour tout seul. Des individus et des organisations devront intégrer ces aspirations au cœur des technologies d’Internet et dans les relations qu’entretiennent les êtres humains avec Internet. Le Manifeste { -brand-name-mozilla } et son complément témoignent de l’engagement de { -brand-name-mozilla } à promouvoir ces aspirations. { -brand-name-mozilla } collabore avec des individus et des organisations du monde entier qui souhaitent faire d’Internet un endroit encore plus agréable pour tout le monde.
 manifesto-our-commitments = Nos engagements
 
+manifesto-if-you-share-this-goal-v2 = Si vous partagez cet objectif, dites-nous comment nous pouvons vous aider.
 
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+manifesto-we-create-open = Nous créons <a { $github_link }>des logiciels open source</a> sur lesquels vous pouvez vous baser.
 
+# Variables:
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+manifesto-we-fund-fellows = Nous <a { $mofo_link }>octroyons des bourses et finançons des projets</a> visant à créer un avenir meilleur en ligne.
 
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = Nous <a { $mozai_link }>concevons des outils d’IA open source</a> qui laissent le choix aux développeurs et les aident à faire des économies.
 
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = Nous <a { $mozvc_link }>investissons dans des start-up responsables du secteur de la tech</a>.
 
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = Nous sommes à l’origine d’une <a { $mdc_link }>communauté mondiale</a> pour l’échange de données équitable.
 
+# Variables:
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+manifesto-we-host-a-yearly = Nous <a { $festival_link }>organisons un rassemblement mondial annuel</a> destiné aux individus dont les projets, quels qu’ils soient, promeuvent le Manifeste.
 
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = Et, bien sûr, nous développons <a { $firefox_link }>{ -brand-name-firefox }</a> et <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Toutes ces actions visent à aider les individus à faire d’Internet un endroit plus sain.
 
 ## Obsolete strings (expire 2026-09-10)
 
@@ -81,16 +114,6 @@ manifesto-details-there-are-many = Il existe de nombreuses manières différente
 manifesto-details-some-foundation-v2 = Certaines activités de la Fondation — actuellement la création, la livraison et la promotion de logiciels — sont effectuées via la { -brand-name-mozilla-corporation }, une filiale entièrement détenue par la { -brand-name-mozilla-foundation }.
 manifesto-details-invitation = Invitation
 manifesto-details-the-mozilla-foundation-invites-v2 = La { -brand-name-mozilla-foundation } invite toutes celles et tous ceux qui soutiennent les principes du Manifeste { -brand-name-mozilla } à nous rejoindre et à trouver de nouveaux moyens pour faire de cette vision d’Internet une réalité.
-manifesto-principle-1 = Principe n°1
-manifesto-principle-2 = Principe n°2
-manifesto-principle-3 = Principe n°3
-manifesto-principle-4 = Principe n°4
-manifesto-principle-5 = Principe n°5
-manifesto-principle-6 = Principe n°6
-manifesto-principle-7 = Principe n°7
-manifesto-principle-8 = Principe n°8
-manifesto-principle-9 = Principe n°9
-manifesto-principle-10 = Principe n°10
 manifesto-share-on-bluesky = Partager sur Bluesky
 manifesto-our-10-principles = <strong>Nos 10</strong> principes
 manifesto-the-mozilla-manifesto-addendum = Complément au Manifeste { -brand-name-mozilla }

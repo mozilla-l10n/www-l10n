@@ -15,7 +15,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-android } 用 { -brand-name-nightly }
 footer-beta-for-android = { -brand-name-android } 用 { -brand-name-beta }
-footer-visit-mozilla-corporations = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> の母体の非営利法人である <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> をご覧ください。
+footer-donate-not-for-profit = 非営利法人 <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> にご寄付をお願いします。
 footer-portions-of-this-content = このコンテンツの一部は ©1998–{ $current_year }、mozilla.org の個人寄稿者。コンテンツは <a rel="license" href="{ $url }">{ -brand-name-creative-commons } のライセンス</a>の下で公開。
 footer-mozilla = { -brand-name-mozilla }
 footer-company = 会社
@@ -45,3 +45,6 @@ footer-follow-mozilla = @{ -brand-name-mozilla } をフォロー
 footer-follow-firefox = @{ -brand-name-firefox } をフォロー
 footer-about-this-site = このサイトについて
 footer-advertise = { -brand-name-mozilla } で広告掲載
+
+# Obsolete string (expires 2026-08-01)
+footer-visit-mozilla-corporations = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> の母体の非営利法人である <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> をご覧ください。
