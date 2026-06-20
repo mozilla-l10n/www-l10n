@@ -33,7 +33,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Offer
 footer-refresh-donate = Cyfrannu
-footer-refresh-donate-not-for-profit = Cyfrannwch i'r <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> nid-er-elw.
+footer-refresh-donate-not-for-profit = Cyfrannwch i'r <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> y corff nid-er-elw.
 # Obsolete string (expires 2026-08-01)
 footer-refresh-visit-mozilla-corporations-v2 = Drwy <a { $moco_link }>{ -brand-name-mozilla-corporation }'s</a> rhiant dim-er-elw, y <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Mae rhannau o'r cynnwys hwn yn ©1998–{ $current_year } gan gyfranwyr mozilla.org unigol. Cynnwys ar gael o dan drwydded <a rel="license" { $href }>{ -brand-name-creative-commons }</a>.

@@ -14,7 +14,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } ar gyfer { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } ar gyfer { -brand-name-android }
-footer-donate-not-for-profit = Cyfrannwch i'r <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> nid-er-elw.
+footer-donate-not-for-profit = Cyfrannwch i'r <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> y corff nid-er-elw.
 footer-portions-of-this-content = Mae darnau o'r cynnwys yn ©1998–{ $current_year } gan gyfranwyr unigol mozilla.org. Mae'r cynnwys ar gael o dan <a rel="license" href="{ $url }">drwydded { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Cwmni
