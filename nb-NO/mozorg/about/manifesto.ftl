@@ -57,6 +57,7 @@ manifesto-details-build-and-deliver = bygge og leverer utmerkede konsumentproduk
 manifesto-details-use-the-mozilla = bruke { -brand-name-mozilla }s eiendeler (åndsverk som opphavsrettigheter og varemerker, infrastruktur, kapital og rykter) for at internett skal forbli en åpen plattform;
 manifesto-details-promote-models = fremme modeller som skaper økonomiske verdi til bruk for allmennyttige formål; og
 manifesto-details-promote-the-mozilla = fremme grunnprinsippene i { -brand-name-mozilla }-manifestet, i åpne diskusjoner, og innenfor internettbransjen.
+manifesto-written-in-2007 = { -brand-name-mozilla }-manifestet, skrevet i 2007, beskriver våre grunnleggende prinsipper. Løftet om et sunt internett ble skrevet som et tillegg til manifestet i 2017 for å gjenspeile vårt sterke engasjement for å sikre at internett tjener behovene til mennesker og menneskeheten som helhet. Sammen danner disse to dokumentene grunnlaget for alt arbeidet i { -brand-name-mozilla } — det vi bygger, det vi finansierer, og hvordan vi samarbeider som fellesskap.
 manifesto-mozillas-pledge = { -brand-name-mozilla } sitt løfte
 manifesto-we-need-you = Vi trenger deg for å fremme manifestet
 manifesto-our-commitments = Våre forpliktelser
@@ -64,6 +65,7 @@ manifesto-commitment-1 = Forpliktelse 1
 manifesto-commitment-2 = Forpliktelse 2
 manifesto-commitment-3 = Forpliktelse 3
 manifesto-commitment-4 = Forpliktelse 4
+manifesto-if-you-share-this-goal-v2 = Hvis du deler dette målet, fortell oss hvordan vi kan hjelpe.
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla
 manifesto-we-create-open = Vi lager <a { $github_link }>programvare med åpen kildekode</a> som du kan bygge videre på.
