@@ -33,6 +33,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Công cụ
 footer-refresh-donate = Quyên góp
+footer-refresh-donate-not-for-profit = Quyên góp cho tổ chức phi lợi nhuận <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 # Obsolete string (expires 2026-08-01)
 footer-refresh-visit-mozilla-corporations-v2 = Truy cập công ty mẹ phi lợi nhuận của <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Các phần nội dung trong trang này được giữ bản quyền ©1998–{ $current_year } bởi những người đóng góp cho mozilla.org. Nội dung được phát hành với <a rel="license" { $href }>giấy phép { -brand-name-creative-commons }</a>.

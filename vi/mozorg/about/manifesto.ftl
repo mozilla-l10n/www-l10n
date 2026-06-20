@@ -57,6 +57,12 @@ manifesto-details-build-and-deliver = xây dựng và chuyển giao các sản p
 manifesto-details-use-the-mozilla = sử dụng tài sản của { -brand-name-mozilla } (tài sản trí tuệ như là bản quyền và thương hiệu, cơ sở hạ tầng, quỹ, và danh tiếng) để giữ cho Internet là nền tảng mở;
 manifesto-details-promote-models = quảng bá các kiểu mẫu trong việc tạo giá trị kinh tế cho các lợi ích công cộng; và
 manifesto-details-promote-the-mozilla = quảng bá các nguyên tắc Tuyên Ngôn { -brand-name-mozilla } trong các bài diễn thuyết công cộng và nền công nghiệp Internet.
+manifesto-our-commitments = Cam kết của chúng tôi
+manifesto-commitment-1 = Cam kết 1
+manifesto-commitment-2 = Cam kết 2
+manifesto-commitment-3 = Cam kết 3
+manifesto-commitment-4 = Cam kết 4
+manifesto-if-you-share-this-goal-v2 = Nếu bạn cũng có mục tiêu này, hãy cho chúng tôi biết chúng tôi có thể giúp đỡ bạn như thế nào.
 
 ## Obsolete strings (expire 2026-09-10)
 

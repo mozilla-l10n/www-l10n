@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = Xin lỗi, { -brand-name-mozilla-vpn } k
 vpn-download-for-windows-v2 = VPN dành cho { -brand-name-windows }
 # Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (chỉ 64-bit)
+vpn-download-for-windows-requirements-v2 = { -brand-name-windows } 10/11
 vpn-download-for-windows-long = Tải xuống { -brand-name-mozilla-vpn } cho { -brand-name-windows }
 vpn-download-for-firefox-extension = Cài đặt tiện ích mở rộng cho { -brand-name-firefox }
 vpn-download-for-mac = VPN cho { -brand-name-mac-short }
@@ -45,3 +46,5 @@ vpn-download-install-via-flathub = Cài đặt qua Flathub
 vpn-download-install-via-apt = Cài đặt qua APT
 vpn-download-flathub = Flathub
 vpn-download-apt = APT
+vpn-download-windows = 64-bit
+vpn-download-windows-arm = ARM
