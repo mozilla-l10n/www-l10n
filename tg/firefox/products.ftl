@@ -53,6 +53,16 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Ба ҳамаи паёмҳои почтаи электронӣ, тақвимҳо ва тамосҳои худ дар як барномаи зуд дастрасӣ пайдо кунед. Онҳоро, чӣ тавре ки мехоҳед, поло кунед ва ба тартиб дароред.
 firefox-products-download-thunderbird = Боргирӣ кардани «{ -brand-name-thunderbird }»
 
+## Solo
+
+firefox-products-learn-more-about-solo = Маълумоти бештар дар бораи «{ -brand-name-solo }»
+
 ## 0DIN
 
+firefox-products-0din = { -brand-name-0din }
 firefox-products-learn-more-about-0din = Маълумоти бештар дар бораи «{ -brand-name-0din }»
+
+## Tabstack
+
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-learn-more-about-tabstack = Маълумоти бештар дар бораи «{ -brand-name-tabstack }»

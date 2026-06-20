@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/410/
 
 page-gone-title = Ин саҳифа тоза карда шудааст
+page-gone-body = Мутаассифона, ин муҳтаво дигар дастрас нест. Шумо метавонед барои пайдо кардани маълумоти навтар аз баъзе пайвандҳои зерин истифода баред.
 gone-page-go-back = Бозгашт
 # Variables:
 #   $home (attr) - attributes to be added to the <a> tag - href="https://mozilla.org"

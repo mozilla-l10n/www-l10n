@@ -42,3 +42,4 @@ footer-refresh-community-participation-guidelines = Роҳнамо барои и
 footer-refresh-about-this-site = Дар бораи ин сомона
 footer-refresh-all-languages = Ҳамаи забонҳо
 footer-refresh-language = Забон
+footer-refresh-anonym-privacy-policy = Сиёсати махфияти «{ -brand-name-anonym }»

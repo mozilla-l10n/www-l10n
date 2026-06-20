@@ -95,7 +95,10 @@
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
 -brand-name-irl-podcast = IRL Podcast
+-brand-name-solo = Solo
 -brand-name-solo-ai = Зеҳни сунъии «Solo AI»
+-brand-name-0din = 0DIN
+-brand-name-tabstack = Tabstack
 -brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = Ҳуҷҷатҳои интернетии «MDN»
