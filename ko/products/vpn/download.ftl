@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = 죄송합니다. 귀하의 국가에서�
 vpn-download-for-windows-v2 = { -brand-name-windows }용 VPN
 # Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64비트 전용)
+vpn-download-for-windows-requirements-v2 = { -brand-name-windows } 10/11
 vpn-download-for-windows-long = { -brand-name-windows }용 { -brand-name-mozilla-vpn } 다운로드
 vpn-download-for-firefox-extension = { -brand-name-firefox } 확장 기능 설치
 vpn-download-for-mac = { -brand-name-mac-short }용 VPN
@@ -45,3 +46,5 @@ vpn-download-install-via-flathub = Flathub를 통해 설치
 vpn-download-install-via-apt = APT를 통해 설치
 vpn-download-flathub = Flathub
 vpn-download-apt = APT
+vpn-download-windows = 64비트
+vpn-download-windows-arm = ARM
