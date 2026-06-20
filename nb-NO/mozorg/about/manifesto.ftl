@@ -58,6 +58,8 @@ manifesto-details-use-the-mozilla = bruke { -brand-name-mozilla }s eiendeler (å
 manifesto-details-promote-models = fremme modeller som skaper økonomiske verdi til bruk for allmennyttige formål; og
 manifesto-details-promote-the-mozilla = fremme grunnprinsippene i { -brand-name-mozilla }-manifestet, i åpne diskusjoner, og innenfor internettbransjen.
 manifesto-our-commitments = Våre forpliktelser
+manifesto-commitment-1 = Forpliktelse 1
+manifesto-commitment-2 = Forpliktelse 2
 
 ## Obsolete strings (expire 2026-09-10)
 

@@ -23,6 +23,14 @@ m24-about-together-we-can = Sammen kan vi gjøre internett enkelt, trygt og grat
 m24-about-read-our-manifesto = Les manifestet vårt
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = En gruppe tenkere sitter i en sirkel på gulvet og deler ideer.
+m24-about-advocate = Aktivisme
+m24-about-we-advocate-for = Vi jobber for bedre produkter, og holder myndigheter og teknologiselskaper ansvarlige for det de skaper.
+m24-about-research = Forskning
+m24-about-we-uncover-insights = Vi avdekker innsikt, driver kampanjer for å forbedre produkter og fremmer retningslinjer som representerer dine interesser.
+m24-about-build = Produkt
+m24-about-we-build-products-v2 = Vi skaper produkter som gir deg kontroll — som { -brand-name-firefox } og mer.
+m24-about-fund = Finansiering
+m24-about-we-fund-and = Vi finansierer og investerer i menneskene og innsatsen som tar teknologi, internett og kunstig intelligens i riktig retning.
 
 ## News
 
