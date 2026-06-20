@@ -57,9 +57,12 @@ manifesto-details-build-and-deliver = bygge og leverer utmerkede konsumentproduk
 manifesto-details-use-the-mozilla = bruke { -brand-name-mozilla }s eiendeler (åndsverk som opphavsrettigheter og varemerker, infrastruktur, kapital og rykter) for at internett skal forbli en åpen plattform;
 manifesto-details-promote-models = fremme modeller som skaper økonomiske verdi til bruk for allmennyttige formål; og
 manifesto-details-promote-the-mozilla = fremme grunnprinsippene i { -brand-name-mozilla }-manifestet, i åpne diskusjoner, og innenfor internettbransjen.
+manifesto-mozillas-pledge = { -brand-name-mozilla } sitt løfte
 manifesto-our-commitments = Våre forpliktelser
 manifesto-commitment-1 = Forpliktelse 1
 manifesto-commitment-2 = Forpliktelse 2
+manifesto-commitment-3 = Forpliktelse 3
+manifesto-commitment-4 = Forpliktelse 4
 
 ## Obsolete strings (expire 2026-09-10)
 
