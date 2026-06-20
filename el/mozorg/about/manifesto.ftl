@@ -59,6 +59,10 @@ manifesto-details-promote-models = Θα προωθήσουμε μοντέλα π
 manifesto-details-promote-the-mozilla = Θα προωθήσουμε τις αρχές της Διακήρυξης της { -brand-name-mozilla } σε δημόσιες ομιλίες και στη βιομηχανία του διαδικτύου.
 manifesto-mozillas-pledge = Η δέσμευση της { -brand-name-mozilla }
 manifesto-our-commitments = Οι δεσμεύσεις μας
+manifesto-commitment-1 = Δέσμευση 1
+manifesto-commitment-2 = Δέσμευση 2
+manifesto-commitment-3 = Δέσμευση 3
+manifesto-commitment-4 = Δέσμευση 4
 
 ## Obsolete strings (expire 2026-09-10)
 
