@@ -33,7 +33,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Eszközök
 footer-refresh-donate = Adományozás
-footer-refresh-donate-not-for-profit = Adományozzon a(z) <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> nonprofit szervezetnek.
+footer-refresh-donate-not-for-profit = Adományozzon a nonprofit <a { $mofo_link }>{ -brand-name-mozilla-foundation }nak</a>.
 # Obsolete string (expires 2026-08-01)
 footer-refresh-visit-mozilla-corporations-v2 = Keresse fel a <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> nonprofit anyaszervezetét, a <a { $mofo_link }>{ -brand-name-mozilla-foundation }t</a>.
 footer-refresh-portions-of-this-content = A tartalom egy részét ©1998–{ $current_year } mozilla.org közreműködők készítették. A tartalom <a rel="license" { $href }>{ -brand-name-creative-commons } licenc</a> alatt érhető el.
