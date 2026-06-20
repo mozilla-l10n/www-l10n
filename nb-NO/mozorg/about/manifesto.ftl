@@ -58,11 +58,15 @@ manifesto-details-use-the-mozilla = bruke { -brand-name-mozilla }s eiendeler (å
 manifesto-details-promote-models = fremme modeller som skaper økonomiske verdi til bruk for allmennyttige formål; og
 manifesto-details-promote-the-mozilla = fremme grunnprinsippene i { -brand-name-mozilla }-manifestet, i åpne diskusjoner, og innenfor internettbransjen.
 manifesto-mozillas-pledge = { -brand-name-mozilla } sitt løfte
+manifesto-we-need-you = Vi trenger deg for å fremme manifestet
 manifesto-our-commitments = Våre forpliktelser
 manifesto-commitment-1 = Forpliktelse 1
 manifesto-commitment-2 = Forpliktelse 2
 manifesto-commitment-3 = Forpliktelse 3
 manifesto-commitment-4 = Forpliktelse 4
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+manifesto-we-create-open = Vi lager <a { $github_link }>programvare med åpen kildekode</a> som du kan bygge videre på.
 
 ## Obsolete strings (expire 2026-09-10)
 
