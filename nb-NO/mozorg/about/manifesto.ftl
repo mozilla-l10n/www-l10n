@@ -67,6 +67,25 @@ manifesto-commitment-4 = Forpliktelse 4
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla
 manifesto-we-create-open = Vi lager <a { $github_link }>programvare med åpen kildekode</a> som du kan bygge videre på.
+# Variables:
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+manifesto-we-fund-fellows = Vi <a { $mofo_link }>finansierer stipendiater og utvikler prosjekter</a> som har som mål å skape en bedre digital framtid.
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = Vi <a { $mozai_link }>bygger AI-verktøy med åpen kildekode</a> som gir utviklere valgfrihet — og hjelper dem med å spare penger.
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = Vi <a { $mozvc_link }>investerer i ansvarlige teknologistartups</a>.
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = Vi <a { $mdc_link }>driver et globalt fellesskap</a> for rettferdig datautveksling.
+# Variables:
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+manifesto-we-host-a-yearly = Vi <a { $festival_link }>arrangerer en årlig global samling</a> for mennesker som bygger alt mulig for å fremme manifestet.
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = Og selvfølgelig lager vi <a { $firefox_link }>{ -brand-name-firefox }</a> og <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Alt dette har som mål å hjelpe mennesker med å gjøre internett til et sunt sted.
 
 ## Obsolete strings (expire 2026-09-10)
 
