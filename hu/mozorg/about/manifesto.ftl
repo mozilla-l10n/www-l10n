@@ -70,13 +70,13 @@ manifesto-commitment-4 = 4. elkötelezettség
 manifesto-if-you-share-this-goal-v2 = Ha osztja ezt a célt, tudassa velünk, hogyan segíthetünk.
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla
-manifesto-we-create-open = <a { $github_link }>nyílt forráskódú szoftvereket</a> készítünk, amelyre építeni lehet.
+manifesto-we-create-open = <a { $github_link }>Nyílt forráskódú szoftvereket</a> készítünk, amelyre építeni lehet.
 # Variables:
 #   $mofo_link (url) - link to https://www.mozillafoundation.org/
-manifesto-we-fund-fellows = Egy jobb online jövőt célzó <a { $mofo_link }>ösztöndíjasokat finanszírozunk és projekteket inkubálunk</a>.
+manifesto-we-fund-fellows = A jobb online jövőt célzó <a { $mofo_link }>ösztöndíjasokat finanszírozunk és projekteket inkubálunk</a>.
 # Variables:
 #   $mozai_link (url) - link to https://www.mozilla.ai
-manifesto-we-build-open-source = <a { $mozai_link }>Nyílt forráskódú MI eszközöket készítünk</a>, amelyek választást adnak a fejlesztőknek – és segítenek nekik pénzt megtakarítani.
+manifesto-we-build-open-source = <a { $mozai_link }>Nyílt forráskódú MI-eszközöket készítünk</a>, amelyek választást adnak a fejlesztőknek – és segítenek nekik pénzt megtakarítani.
 # Variables:
 #   $mozvc_link (url) - link to https://mozilla.vc
 manifesto-we-invest-in = <a { $mozvc_link }>Felelős technológiai startupokba fektetünk</a>.
@@ -85,7 +85,7 @@ manifesto-we-invest-in = <a { $mozvc_link }>Felelős technológiai startupokba f
 manifesto-we-run-a-global = <a { $mdc_link }>Globális közösséget működtetünk</a> a tisztességes adatcseréért.
 # Variables:
 #   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
-manifesto-we-host-a-yearly = Mi <a { $festival_link }>éves globális összejövetelnek adunk otthont</a> azok számára, akik bármit építenek a Kiáltvány előmozdítására.
+manifesto-we-host-a-yearly = Egy <a { $festival_link }>éves globális összejövetelnek adunk otthont</a> azok számára, akik bármit olyat építenek vagy bármi olyat tesznek, amely a Kiáltvány céljait támogatja.
 # Variables:
 #   $firefox_link (url) - link to https://www.firefox.com/
 #   $thunderbird_link (url) - link to https://www.thunderbird.net/
