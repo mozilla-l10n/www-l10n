@@ -57,6 +57,10 @@ manifesto-details-build-and-deliver = byggje og leverer utmerkte konsumentproduk
 manifesto-details-use-the-mozilla = bruke { -brand-name-mozilla }s aktivum (immaterialrettslege tilgjenge, som opphavsrett og varemerke, infrastruktur, kapital og rykte) for at internett skal bli verande ei open plattform;
 manifesto-details-promote-models = fremje modellar som skaper økonomisk verdi til nytte for ålmenta; og
 manifesto-details-promote-the-mozilla = fremje grunnprinsippa i { -brand-name-mozilla }-manifestet, i opne diskusjonar, og innanfor internettindustrien.
+manifesto-written-in-2007 = { -brand-name-mozilla }-manifestet, skrive i 2007, beskriv dei grunnleggjande prinsippa våre. Løftet om eit sunt internett vart skrive som eit tillegg til manifestet i 2017 for å spegle det sterke engasjementet vårt for å sikre at internett tener behova til menneske og menneskeslekta samla sett. Saman dannar desse to dokumenta grunnlaget for alt arbeidet i { -brand-name-mozilla } — det vi byggjer, det vi finansierer, og korleis vi samarbeider som fellesskap.
+manifesto-mozillas-pledge = { -brand-name-mozilla } sitt løfte
+manifesto-across-the-mozilla-project = På tvers av { -brand-name-mozilla }-prosjektet og alle organisasjonane i { -brand-name-mozilla }-familien forpliktar vi oss til å støtte { -brand-name-mozilla }-manifestet i arbeidet vårt. Konkret vil vi:
+manifesto-we-need-you = Vi treng deg for å fremje manifestet
 
 ## Obsolete strings (expire 2026-09-10)
 

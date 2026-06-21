@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } lagar nettlesarar, appar, kode og 
 
 ## Intro
 
+m24-about-guard-the-internet = Vern om det opne nettet
 # Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Ta tilbake nettet med oss
 m24-about-mozilla-is-working = { -brand-name-mozilla } jobbar med å gi brukarane tilbake kontrollen over Internett.
