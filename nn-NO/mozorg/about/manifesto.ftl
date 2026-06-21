@@ -61,6 +61,32 @@ manifesto-written-in-2007 = { -brand-name-mozilla }-manifestet, skrive i 2007, b
 manifesto-mozillas-pledge = { -brand-name-mozilla } sitt løfte
 manifesto-across-the-mozilla-project = På tvers av { -brand-name-mozilla }-prosjektet og alle organisasjonane i { -brand-name-mozilla }-familien forpliktar vi oss til å støtte { -brand-name-mozilla }-manifestet i arbeidet vårt. Konkret vil vi:
 manifesto-we-need-you = Vi treng deg for å fremje manifestet
+manifesto-an-internet-with-these-v2 = Eit internett med desse eigenskapane vil ikkje oppstå av seg sjølve. Menneske og organisasjonar må byggje desse ambisjonane inn i internett-teknologien og i korleis menneske opplever internett. { -brand-name-mozilla }-manifestet og tillegget representerer { -brand-name-mozilla } forpliktinga si til å fremje desse ambisjonane. { -brand-name-mozilla } samarbeid med menneske og organisasjonar over heile verda som ønskjer å gjere internett til ein endå betre stad for alle.
+manifesto-our-commitments = Våre forpliktingar
+manifesto-commitment-1 = Forplikting 1
+manifesto-commitment-2 = Forplikting 2
+manifesto-commitment-3 = Forplikting 3
+manifesto-commitment-4 = Forplikting 4
+manifesto-if-you-share-this-goal-v2 = Om du deler dette målet, fortel oss korleis vi kan hjelpe.
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+manifesto-we-create-open = Vi lagar <a { $github_link }>programvare med open kjeldekode</a> som du kan byggje vidare på.
+# Variables:
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+manifesto-we-fund-fellows = Vi <a { $mofo_link }>finansierer stipendiatar og utviklar prosjekt</a> som har som mål å skape ei betre digital framtid.
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = Vi <a { $mozai_link }>byggjer AI-verktøy med open kjeldekode</a> som gir utviklarar valfridom — og hjelper dei med å spare pengar.
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = Vi <a { $mozvc_link }>investerer i ansvarlege teknologistartups</a>.
+# Variables:
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+manifesto-we-host-a-yearly = Vi <a { $festival_link }>arrangerer ei årleg global samling</a> for menneske som byggjer alt mogleg for å fremje manifestet.
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = Og sjølvsagt lagar vi <a { $firefox_link }>{ -brand-name-firefox }</a> og <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Alt dette har som mål å hjelpe menneske med å gjere internett til ein betre stad.
 
 ## Obsolete strings (expire 2026-09-10)
 
