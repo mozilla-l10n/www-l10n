@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } tạo ra các trình duyệt, ứn
 
 ## Intro
 
+m24-about-guard-the-internet = Bảo vệ cho môi trường mở của Internet
 # Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Cùng chúng tôi giành lại internet
 m24-about-mozilla-is-working = { -brand-name-mozilla } đang nỗ lực để trao lại quyền kiểm soát Internet cho những người sử dụng nó.
@@ -22,6 +23,14 @@ m24-about-together-we-can = Cùng nhau, chúng ta có thể giữ cho Internet d
 m24-about-read-our-manifesto = Đọc tuyên ngôn của chúng tôi
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Một nhóm các nhà tư tưởng ngồi thành vòng tròn trên sàn để chia sẻ ý tưởng.
+m24-about-advocate = Ủng hộ
+m24-about-we-advocate-for = Chúng tôi ủng hộ những sản phẩm tốt hơn, yêu cầu các chính phủ và tập đoàn công nghệ phải chịu trách nhiệm về những gì họ tạo ra.
+m24-about-research = Nghiên cứu
+m24-about-we-uncover-insights = Chúng tôi khám phá những hiểu biết sâu sắc, chiến dịch cải thiện sản phẩm và thúc đẩy các chính sách thể hiện sự quan tâm của bạn.
+m24-about-build = Xây dựng
+m24-about-we-build-products-v2 = Chúng tôi tạo ra những sản phẩm giúp bạn nắm quyền kiểm soát — như { -brand-name-firefox } và hơn thế nữa.
+m24-about-fund = Tài trợ
+m24-about-we-fund-and = Chúng tôi tài trợ và đầu tư vào con người cũng như nỗ lực đưa công nghệ, Internet và AI đi đúng hướng.
 
 ## News
 

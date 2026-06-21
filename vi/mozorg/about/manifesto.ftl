@@ -57,12 +57,39 @@ manifesto-details-build-and-deliver = xây dựng và chuyển giao các sản p
 manifesto-details-use-the-mozilla = sử dụng tài sản của { -brand-name-mozilla } (tài sản trí tuệ như là bản quyền và thương hiệu, cơ sở hạ tầng, quỹ, và danh tiếng) để giữ cho Internet là nền tảng mở;
 manifesto-details-promote-models = quảng bá các kiểu mẫu trong việc tạo giá trị kinh tế cho các lợi ích công cộng; và
 manifesto-details-promote-the-mozilla = quảng bá các nguyên tắc Tuyên Ngôn { -brand-name-mozilla } trong các bài diễn thuyết công cộng và nền công nghiệp Internet.
+manifesto-written-in-2007 = Bản tuyên ngôn của { -brand-name-mozilla }, được viết vào 2007, nêu rõ các nguyên tắc cốt lõi của chúng tôi. Bản cam kết vì một Internet lành mạnh được viết thêm vào tuyên ngôn năm 2017 để phản ánh cam kết sâu sắc của chúng tôi trong việc đảm bảo internet phục vụ nhu cầu của mọi người và toàn nhân loại. Cả hai tài liệu này cùng nhau định hướng mọi công việc trên toàn hệ thống { -brand-name-mozilla } — những gì chúng ta xây dựng, những gì chúng ta tài trợ và cách chúng ta hợp tác với nhau như một cộng đồng.
+manifesto-mozillas-pledge = Lời cam kết của { -brand-name-mozilla }
+manifesto-across-the-mozilla-project = Trên toàn bộ dự án { -brand-name-mozilla } và mọi tổ chức thuộc gia đình { -brand-name-mozilla }, chúng tôi cam kết tuân theo tuyên ngôn { -brand-name-mozilla } trong các hoạt động của nó. Cụ thể, chúng tôi sẽ:
+manifesto-we-need-you = Chúng tôi cần bạn để thúc đẩy bản tuyên ngôn này
+manifesto-an-internet-with-these-v2 = Mạng internet với những phẩm chất này sẽ không tự nhiên mà có. Mọi người và các tổ chức phải tích hợp những khát vọng này vào công nghệ internet và vào trải nghiệm của con người với internet. Bản tuyên ngôn và phụ lục của { -brand-name-mozilla } thể hiện cam kết của { -brand-name-mozilla } trong việc thúc đẩy những khát vọng này. { -brand-name-mozilla } hợp tác với mọi người và các tổ chức trên khắp thế giới, những người muốn biến internet trở thành một nơi tốt đẹp hơn nữa cho tất cả mọi người.
 manifesto-our-commitments = Cam kết của chúng tôi
 manifesto-commitment-1 = Cam kết 1
 manifesto-commitment-2 = Cam kết 2
 manifesto-commitment-3 = Cam kết 3
 manifesto-commitment-4 = Cam kết 4
 manifesto-if-you-share-this-goal-v2 = Nếu bạn cũng có mục tiêu này, hãy cho chúng tôi biết chúng tôi có thể giúp đỡ bạn như thế nào.
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+manifesto-we-create-open = Chúng tôi tạo ra <a { $github_link }>phần mềm mã nguồn mở</a> mà bạn có thể sử dụng để phát triển.
+# Variables:
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+manifesto-we-fund-fellows = Chúng tôi <a { $mofo_link }>tài trợ học bổng và ươm tạo các dự án</a> hướng tới việc tạo ra một tương lai tốt đẹp hơn trên mạng.
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = Chúng tôi <a { $mozai_link }>xây dựng các công cụ AI mã nguồn mở</a> điều đó mang lại cho các nhà phát triển sự lựa chọn — và giúp họ tiết kiệm tiền.
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = Chúng tôi <a { $mozvc_link }>đầu tư vào các công ty khởi nghiệp công nghệ có trách nhiệm</a>.
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = Chúng tôi <a { $mdc_link }>điều hành một cộng đồng toàn cầu</a> để trao đổi dữ liệu công bằng.
+# Variables:
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+manifesto-we-host-a-yearly = Chúng tôi <a { $festival_link }>tổ chức một cuộc họp toàn cầu hàng năm</a> dành cho những người đang xây dựng bất cứ thứ gì để thúc đẩy tuyên ngôn.
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = Và tất nhiên, chúng tôi tạo ra <a { $firefox_link }>{ -brand-name-firefox }</a> và <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Tất cả những điều này nhằm mục đích giúp mọi người biến internet thành một nơi lành mạnh.
 
 ## Obsolete strings (expire 2026-09-10)
 
