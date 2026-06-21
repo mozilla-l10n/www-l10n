@@ -81,6 +81,9 @@ manifesto-we-build-open-source = Vi <a { $mozai_link }>byggjer AI-verktøy med o
 #   $mozvc_link (url) - link to https://mozilla.vc
 manifesto-we-invest-in = Vi <a { $mozvc_link }>investerer i ansvarlege teknologistartups</a>.
 # Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = Vi <a { $mdc_link }>driv eit globalt fellesskap</a> for rettferdig datautveksling.
+# Variables:
 #   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
 manifesto-we-host-a-yearly = Vi <a { $festival_link }>arrangerer ei årleg global samling</a> for menneske som byggjer alt mogleg for å fremje manifestet.
 # Variables:
