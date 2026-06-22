@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = Chúng tôi sẽ tập trung vào việc
 manifesto-an-internet-with-these = Một internet với những phẩm chất này sẽ không đi vào cuộc sống của chính nó. Các cá nhân và tổ chức phải nhúng những khát vọng này vào công nghệ internet và vào trải nghiệm của con người với internet. Tuyên ngôn và Phụ lục của { -brand-name-mozilla } thể hiện cam kết của { -brand-name-mozilla }, nhằm thúc đẩy những khát vọng này. Chúng tôi mong muốn hợp tác với mọi người và các tổ chức ở khắp mọi nơi, những người chia sẻ những mục tiêu này để biến internet thành một nơi thậm chí tốt hơn cho mọi người.
 manifesto-details-introduction = Giới thiệu
 manifesto-details-the-internet-is-becoming = Internet đang dần trở thành một phần quan trọng của cuộc sống chúng ta.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Dự án { -brand-name-mozilla } là một cộng đồng toàn cầu bao gồm những người tin tưởng rằng tính mở, tính sáng tạo, và cơ hội là chìa khóa cho sức sống của Internet. Chúng tôi đã làm việc cùng nhau từ 1998 để chắc chắn rằng Internet được phát triển theo cách thức làm lợi cho mọi người. Chúng tôi được biết tới nhờ tạo ra trình duyệt web { -brand-name-mozilla } { -brand-name-firefox }.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = Dự án { -brand-name-mozilla } tiếp cận dựa trên cộng đồng để tạo ra phần mềm nguồn mở tốt nhất cũng như phát triển hình thức mới của các hoạt động cộng tác. Chúng tôi tạo ra những cộng đồng để những người tham gia đưa ra những trải nghiệm Internet tốt hơn cho tất cả chúng ta.
 manifesto-details-as-a-result-of = Kết quả của những nỗ lực này là, chúng tôi đã chắt lọc một nhóm nguyên tắc mà chúng tôi tin là cấp thiết để Internet có thể tiếp tục làm lợi cho cộng đồng cũng như khía cạnh thương mại của cuộc sống. Chúng tôi đưa ra các nguyên tắc ở bên dưới.
 manifesto-details-the-goals-for = Mục đích của Tuyên Ngôn là để:

@@ -9,7 +9,9 @@
 manifesto-the-mozilla-manifesto = Die { -brand-name-mozilla }-manifes
 manifesto-details-introduction = Inleiding
 manifesto-details-the-internet-is-becoming = Die Internet word 'n toenemend belangrike deel van ons lewens.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Die { -brand-name-mozilla }-projek is 'n wêreldwye gemeenskap van mense wat glo dat openheid, innovering en geleentheid noodsaaklik is vir die volgehoue welstand van die Internet. Sedert 1998 werk ons saam om te verseker dat die Internet ontwikkel word op 'n manier wat almal bevoordeel. Ons is veral bekend vir die webblaaier { -brand-name-mozilla } { -brand-name-firefox }.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = Die { -brand-name-mozilla }-projek gebruik 'n gemeenskapgebaseerde benadering om oopbronsagteware van wêreldklas te bou en nuwe tipes samewerkingsaktiwiteite te ontwikkel. Ons skep gemeenskappe van mense wat werk om ons almal se ervaring van die Internet te verbeter.
 manifesto-details-as-a-result-of = As deel van hierdie werk het ons 'n stel beginsels onttrek wat ons glo van kritieke belang is vir die Internet om tot publieke voordeel te werk as ook vir die kommersiële lewensfasette. Dié fasette word hier onder uiteengesit.
 manifesto-details-the-goals-for = Die doelwitte van die Manifes is:

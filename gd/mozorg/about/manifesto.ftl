@@ -9,7 +9,9 @@
 manifesto-the-mozilla-manifesto = Manifesto { -brand-name-mozilla }
 manifesto-details-introduction = Ro-ràdh
 manifesto-details-the-internet-is-becoming = Tha an t-eadar-lìon a’ sìor-fhàs nas cudromaiche ’nar beatha.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Tha pròiseact { -brand-name-mozilla } 'na choimhearsnachd eadar-nàiseanta de dhaoine a tha dhen bheachd gu bheil slàinte an lìn a' crochadh air fosgailteachd, tionnsgnadh is cothroman. Tha sinn air a bhith a' co-obrachadh a-mach o 1998 gus dèanamh cinnteach gu bheil an t-eadar-lìon 'ga leasachadh air dòigh a bhios feumail dhan a h-uile duine. Am measg nan rudan a chruthaich sinn, 's e am brabhsair-lìn { -brand-name-firefox } am fear as ainmeil gu ruige seo.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = Tha pròiseact { -brand-name-mozilla } ag obair leis a' choimhearsnachd gus sàr bhathar-bog le còd fosgailte a chruthachadh agus airson dòighean ùr a lorg gus co-obrachadh a dhèanamh. Cruthaichidh sinn coimhearsnachdan de dhaoine a tha iad uile ag obair airson piseach a chur air an eadar-lìon a chum leas chàich.
 manifesto-details-as-a-result-of = Ri linn ar saothrach, stèidhich sinn grunn phrionnsabalan a tha aig cridhe an eadar-lìn 'nar beachd-ne airson 's gum bi e an dà chuid a chum math nan daoine is math saoghal a' ghnothachais. Chithear na prionnsabalan seo gu h-ìosal.
 manifesto-details-the-goals-for = Seo ar n-amasan a-rèir a' mhanifesto:

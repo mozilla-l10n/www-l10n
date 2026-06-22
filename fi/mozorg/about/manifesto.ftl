@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = Olemme sitoutuneet Internetiin, joka kii
 manifesto-an-internet-with-these = Internet, jolla on nämä ominaisuudet, ei muodostu itsestään. Yksilöiden ja organisaatioiden on sisällytettävä nämä pyrkimykset Internet-teknologiaan ja ihmisten kokemuksiin Internetistä. { -brand-name-mozilla }n manifesti ja sen lisäys edustavat { -brand-name-mozilla }n sitoutumista näiden pyrkimysten edistämiseen. Pyrimme työskentelemään yhdessä ihmisten ja organisaatioiden kanssa kaikkialla, jotka jakavat nämä tavoitteet, jotta internetistä tulisi entistä parempi paikka kaikille.
 manifesto-details-introduction = Johdanto
 manifesto-details-the-internet-is-becoming = Internetin merkitys elämässämme kasvaa jatkuvasti.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = { -brand-name-mozilla }-hanke muodostuu globaalista ihmisyhteisöstä, joka uskoo avoimuuteen, innovointiin ja otolliseen tilaisuuteen avaimena Internetin jatkuvalle hyvinvoinnille. Olemme työskennelleet yhdessä vuodesta 1998 taataksemme, että Internetiä kehitetään kaikkia hyödyttävällä tavalla. Meidät tunnetaan parhaiten { -brand-name-mozilla } { -brand-name-firefox } -verkkoselaimen luomisesta.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla }-hanke käyttää yhteisöpohjaista lähestymistapaa maailmanluokan vapaan lähdeohjelmiston luomiseksi ja uudenlaisten yhteistyömuotojen kehittämiseksi. Me luomme Internet-kokemuksen parantamiselle omistautuvia ihmisyhteisöjä.
 manifesto-details-as-a-result-of = Olemme tiivistäneet näiden ponnistelujen tulokset joukoksi periaatteita, jotka uskomme elintärkeiksi Internetin jatkuvalle yhteisen hyvän ja myös elämän kaupallisten näkökohtien edistämiselle. Esitämme nämä periaatteet alla.
 manifesto-details-the-goals-for = Manifestin tavoitteena on:

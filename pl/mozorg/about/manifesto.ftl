@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = Zobowiązujemy się budować Internet pr
 manifesto-an-internet-with-these = Internet o tych cechach nie powstanie sam z siebie. Poszczególne osoby i całe organizacje muszą sprawić, aby stały się one podstawą technologii internetowych i sposobu, w jaki z niego korzystamy. Manifest { -brand-name-mozilla(case: "gen") } i ten aneks reprezentują zobowiązanie { -brand-name-mozilla(case: "gen") } do ich rozwijania. Naszym celem jest współpraca z jednostkami i organizacjami podzielającymi nasze nadzieje z całego świata, aby Internet był jeszcze lepszym miejscem dla wszystkich.
 manifesto-details-introduction = Wprowadzenie
 manifesto-details-the-internet-is-becoming = Internet staje się coraz ważniejszym elementem naszego życia.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Projekt { -brand-name-mozilla } to międzynarodowa społeczność ludzi, którzy wierzą, że otwartość, innowacyjność i możliwości są kluczowe dla utrzymania zdrowej równowagi w Internecie. Pracujemy razem od roku 1998 i staramy się zapewnić, aby na rozwoju Internetu zyskali wszyscy. Najbardziej znani jesteśmy ze stworzenia przeglądarki internetowej { -brand-name-mozilla } { -brand-name-firefox }.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = Projekt { -brand-name-mozilla } wykorzystuje społecznościowe podejście do tworzenia światowej klasy aplikacji o otwartym kodzie oraz do budowania nowych typów współpracy. Tworzymy społeczności ludzi zaangażowanych w poprawianie jakości i wygody korzystania z Internetu dla nas wszystkich.
 manifesto-details-as-a-result-of = W wyniku tej pracy udało nam się wydestylować zestaw pryncypiów, które, jak wierzymy, są krytyczne do utrzymania pozytywnego wpływu Internetu na społeczeństwo oraz komercyjne aspekty życia. Zebraliśmy te wartości poniżej.
 manifesto-details-the-goals-for = Cele Manifestu:

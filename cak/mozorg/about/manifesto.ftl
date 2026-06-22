@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = Qaq'u'un qi' rik'in jun k'amaya'l ri nun
 manifesto-an-internet-with-these = Jun k'amaya'l ke re' rub'anikil man ruyonil ta xtik'ase' el. Ri winaqi' chuqa' ri taq moloj k'o chi kajowan ri' pa ruwi' ri runa'ob'al K'amaya'l chuqa' pa ruwi' retamab'al winäq rik'in k'amaya'l. Ri Tzijoxïk chuqa' ri Rutz'aqat { -brand-name-mozilla } nuya' retal chi ri { -brand-name-mozilla } ruq'uq'un ri' richin yeruyäk ri taq rayib'äl ri'. Ri qarayib'al chi junam yojsamäj kik'in ri winaqi' chuqa' taq moloj xab'akuchi' akuchi' yekikomonij re taq rayib'äl re' richin nib'an jun k'amaya'l yalan ütz chi qawäch qonojel.
 manifesto-details-introduction = Nab'ey taq tzij
 manifesto-details-the-internet-is-becoming = Ri K'amaya'l jutaqil yalan rejqalem pa qak'aslem.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Ri { -brand-name-mozilla } Nimasamaj jun aj ruwach'ulew kitinamit winaqi', ri nikinimaj chi ri tikirib'äl, tz'ukuj chuqa' ri samaj yalan kejqalem chi re ri raxnaqil K'amaya'l. Pa 1998 ojsamajinäq pe junam richin nijikib'äx chi ri K'amaya'l tinuk' richin rutzil ri winaqilem. Yalan etaman qawäch ruma xqanük' ri { -brand-name-mozilla } { -brand-name-firefox } ajk'amaya'l Okik'amaya'l.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = Ri { -brand-name-mozilla } nimasamaj nisamäj achi'el pa jun tinamït, akuchi' nunük' rukema' jaqäl b'itz'ib' yalan e ütz chuqa' yerunük' k'ak'a' to'onel taq samaj. Yeqanük' tinamït winaqi' akuchi' niqaq'i' qonojel jun utziläj etamab'äl pa K'amaya'l.
 manifesto-details-as-a-result-of = Ri q'i'on rik'in re taq uchuq'a' re', eqanuk'un jujun ruk'u'x taq tzij, ri niqana'ojij chi e k'atzinel richin chi ri K'amaya'l tajin keruto' achi'el ri ajwinäq wachinäq chuqa' ri k'ayin wachinäq pa k'aslemal. Ja re yeqacholajij qa re ruk'u'x taq tzij re'.
 manifesto-details-the-goals-for = Ri taq rurayb'al Tzijoxïk ja re':

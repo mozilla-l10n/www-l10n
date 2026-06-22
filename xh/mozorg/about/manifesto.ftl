@@ -9,7 +9,9 @@
 manifesto-the-mozilla-manifesto = Uxwebhu lwe{ -brand-name-mozilla }
 manifesto-details-introduction = Intshayelelo
 manifesto-details-the-internet-is-becoming = I-intanethi iya isiba yinxalenye ebalulekileyo yobomi bethu.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Iprojekthi yakwa{ -brand-name-mozilla } luluntu olusemhlabeni wonke abakholelwa kwelokuba ukungafihli nto, ukuqulunqa iindlela ezintsha, namathuba angundoqo kwinkqubela phambili yeIntanethi. Besisebenza kunye ukususela ngowe-1998 ekuqinisekiseni ukuba i-Intanethi iphuhliswa ngendlela yokuba kuxhamle wonke umntu. Saziwa ngcono ngokudala ibhrawuza yewebhu i{ -brand-name-mozilla } { -brand-name-firefox }.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = Iprojekthi ye{ -brand-name-mozilla } isebenzisa indlela yoluntu ekudaleni isoftwe ekudidi lwehlabathi evulekileyo nokuphuhlisa iintlobo ezintsha zemisebenzi yokubambisana. Sidala uluntu oluzibandakanya nokwenza amava e-Intanethi abe ngcono kuthi sonke.
 manifesto-details-as-a-result-of = Ngenxa yezi nzame, siye sabethelela imigaqo ethile esikholelwa ukuba ibalulekile ukuze i-Intanethi iqhubeke iyinzuzo eluntwini nakwezorhwebo. Sibeke le migaqo ingezantsi.
 manifesto-details-the-goals-for = Iinjono zoXwebhu:

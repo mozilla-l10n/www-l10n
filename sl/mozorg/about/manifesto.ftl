@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = Predani smo internetu, ki vabi k sodelov
 manifesto-an-internet-with-these = Internet s takšnimi lastnostmi ne bo zaživel sam. Posamezniki in organizacije morajo vključiti ta prizadevanja v tehnologijo interneta in v človekovo izkušnjo z internetom. Manifest { -brand-name-mozilla(sklon: "rodilnik") } in dopolnilo Manifesta predstavljata zavezanost { -brand-name-mozilla(sklon: "rodilnik") } k napredku teh prizadevanj. Naš cilj je sodelovati z ljudmi in organizacijami, ki delijo te cilje, da bi internet postal še boljši prostor za vse.
 manifesto-details-introduction = Uvod
 manifesto-details-the-internet-is-becoming = Internet igra v naših življenjih iz dneva v dan pomembnejšo vlogo.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Projekt { -brand-name-mozilla } je globalna skupnost ljudi, ki verjamejo, da so odprtost, inovativnost in pripravljenost izkoristiti priložnosti, ki se nudijo, ključnega pomena za nadaljnje zdravje interneta. Od ustanovitve leta 1998 dalje je naš namen in cilj zagotoviti, da se internet razvija v smeri, ki koristi vsakomur med nami. Ljudje nas najbolj poznajo po tem, da smo razvili spletni brskalnik { -brand-name-mozilla } { -brand-name-firefox }.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = Projekt { -brand-name-mozilla } s svojim na skupnosti zasnovanim pristopom razvija odprtokodno programsko opremo na svetovnem nivoju in omogoča nove oblike skupinskih dejavnosti. Oblikujemo skupnosti posameznikov, katerih vizija je, da za vse nas internet postane prijetnejši in varnejši.
 manifesto-details-as-a-result-of = Kot rezultat teh prizadevanj smo izoblikovali sklop načel, za katere menimo, da so ključnega pomena, če želimo, da internet še naprej pozitivno vpliva tako na javno korist kot tudi na poslovne vidike življenja. Ta načela navajamo spodaj.
 manifesto-details-the-goals-for = Cilji Manifesta so:

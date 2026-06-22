@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = Jsme zavázáni internetu, který prohlu
 manifesto-an-internet-with-these = Internet s těmito kvalitami není samozřejmostí a nevznikne jen tak. Jednotlivci i organizace musí začlenit svou vizi internetu do technologií a svého prožitku na internetu. Manifest { -brand-name-mozilla(case: "gen") } reprezentuje její odhodlání tak nadále činit. Chceme spolupracovat s lidmi a organizacemi po celém světě, které sdílí náš cíl a představu o internetu jako o místě přátelském pro všechny.
 manifesto-details-introduction = Úvod
 manifesto-details-the-internet-is-becoming = Internet se stává důležitou součástí našich životů.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = { -brand-name-mozilla } je celosvětová komunita lidí, kteří věří, že otevřenost, inovace a příležitosti jsou klíčem k zlepšujícímu se prostředí internetu. Pracujeme společně od roku 1998, abychom zajistili, že se internet vyvíjí cestou, která vyhovuje všem. Jsme známí vytvořením webového prohlížeče { -brand-name-mozilla } { -brand-name-firefox }.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } využívá metody založené na lidech k vytvoření celosvětového software s otevřeným zdrojovým kódem a snaží se vytvořit nové prvky spolupráce. Sdružujeme komunity lidí, kteří se snaží vylepšit internet po každé stránce a pro všechny.
 manifesto-details-as-a-result-of = Jako výsledek těchto snah jsme vytvořili seznam principů, o kterých si myslíme, že se stávají zásadními pro užívání internetu, aby se dále vyvíjel cestou veřejného prospěchu a zlepšoval komerční aspekty života. Tyto principy jsou uvedeny níže.
 manifesto-details-the-goals-for = Cíle Manifestu jsou následující:

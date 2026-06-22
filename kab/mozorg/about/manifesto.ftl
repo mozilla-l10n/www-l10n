@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = Nessiḥbibir ɣef internet yettmuddun a
 manifesto-an-internet-with-these = Internet s tɣara-agi ur yezmir ara ad d-ilal i yiman-is. Imdanen akked tuddsiwin yessefk ad ddun ar isaramen-agi di tlemmast n titiknulujiyin n internet akked wassaɣen yellan gar yimdanen d internet. Ameskan n { -brand-name-mozilla } d wayen i d-yernan, mmalen-d asiḥbiber n { -brand-name-mozilla } i usnerni n yisaramen-agi. Iswi-nneɣ d axeddim akked yimdanen d tuddsiwin yebḍan yid-neɣ iswiyen-agiakken ad nerr internet d amḍiq icebḥen ugar i yal yiwen.
 manifesto-details-introduction = Tazwart
 manifesto-details-the-internet-is-becoming = Internet simer tettawi amḍiq di tudernt nneɣ n yal ass.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Asenfaṛ n { -brand-name-mozilla } d tamezdagnut tamaḍlant n yemdanen i yettxemmimen d akken tulya, asnulfu akked ufares n tegnitt iɣ-d-ittunefken d tasarutt n tudert n Internet. Ad nqeddec lwaḥid seg 1998 imi ad neḍmen akken Internet ad yennerni s wuem s wayes ara sfaydin yemdanen. Nettwassen labaɛda ɣef usnulfu n iminig Web { -brand-name-firefox } { -brand-name-mozilla }.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = Asenfaṛ { -brand-name-mozilla } isseqdac tarrayt yebnan ɣef tmezdagnut akken ad d-yesnulfu aseɣẓan ilelli amaḍlan udiɣ akken ad d-yesnulfu anawen imaynuten n warmud anida ttekkan deqs yemdanen. Nesnulfuy-d timezdagnutin ara yettekkin deg ahil akken ad uɣal useqdec n Internet ifaz i yal yiwen deg-neɣ.
 manifesto-details-as-a-result-of = Ihi seg ahil agi id d-nhegga, nessers kra n yensayen id nɣil d imeqqranen akken Intrnet ad ikemmel deg ubrid n fayda ama i useqdec n yemdanen i Internet neɣ tudert n yal ass. Insayen agi ttwasegzan-d daw-a:
 manifesto-details-the-goals-for = Iswiyen n umeskan d wigi:

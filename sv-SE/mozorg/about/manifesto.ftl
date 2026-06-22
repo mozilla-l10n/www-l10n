@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = Vi står för ett internet som främjar 
 manifesto-an-internet-with-these = Ett internet med dessa egenskaper uppkommer inte av sig själv. Människor och organisationer behöver integrera dessa mål i både internetteknik och personlig erfarenhet på internet. { -brand-name-mozilla }s manifest och tillägg står för { -brand-name-mozilla }s engagemang för dessa mål. Vi vill arbeta med människor och organisationer runt om i världen som delar dessa mål och vill bidra till ett bättre internet för alla.
 manifesto-details-introduction = Introduktion
 manifesto-details-the-internet-is-becoming = Internet blir en allt viktigare del av våra liv.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = { -brand-name-mozilla }-projektet är en global gemenskap av människor som tror att öppenhet, nyskapande och möjligheter är nyckeln till nätets fortsatta hälsa. Vi har arbetat tillsammans sedan 1998 för att se till att internet utvecklas på ett sätt som är till nytta för alla. Vi är bäst kända för att ha skapat webbläsaren { -brand-name-mozilla } { -brand-name-firefox }.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla }-projektet använder ett gemenskapsbaserat tillvägagångssätt för att skapa programvara i världsklass med öppen källkod och för att utveckla nya typer av gemensamma aktiviteter. Vi bygger gemenskaper av människor som är involverade i att göra internetupplevelsen bättre för oss alla.
 manifesto-details-as-a-result-of = Som ett resultat av dessa satsningar har vi destillerat fram en samling grundsatser som vi tror är kritiska för att internet ska fortsätta att gagna allmännyttan såväl som livets kommersiella aspekter. Vi beskriver dessa grundsatser nedan.
 manifesto-details-the-goals-for = Målet med manifestet är att:

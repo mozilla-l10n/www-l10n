@@ -9,7 +9,9 @@
 manifesto-the-mozilla-manifesto = Forógra { -brand-name-mozilla }
 manifesto-details-introduction = Réamhrá
 manifesto-details-the-internet-is-becoming = Is cuid thábhachtach dár saol é an tIdirlíon, níos tábhachtaí chuile lá.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Is éard atá i dtionscadal { -brand-name-mozilla } ná comhphobal domhanda a chreideann gurb iad an oscailteacht, an nuálaíocht, agus deiseanna na rudaí a chinnteoidh sláinte an Idirlín san fhadtréimhse. Táimid ag obair le chéile ó 1998 chun deimhniú go bhforbraítear an tIdirlíon ar leas an phobail. Is fearr aithne orainn as an mbrabhsálaí { -brand-name-mozilla } { -brand-name-firefox }.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = Baineann tionscadal { -brand-name-mozilla } úsáid as cur chuige pobalbhunaithe chun bogearraí den chéad scoth a chruthú agus chun gníomhaíochtaí comhoibríocha a fhorbairt. Cruthaímid comhphobail atá ag iarraidh feabhas a chur ar an Idirlíon ar ár son uilig.
 manifesto-details-as-a-result-of = De thoradh na n-iarrachtaí seo, táimid tar éis liosta prionsabal a leagan amach, prionsabail atá fíorthábhachtach do thodhchaí an Idirlín mar acmhainn a dhéanann leas don phobal agus don saol gnó chomh maith. Leagaimid na prionsabail seo amach thíos.
 manifesto-details-the-goals-for = Seo iad aidhmeanna an Fhorógra:

@@ -9,7 +9,9 @@
 manifesto-the-mozilla-manifesto = O { -brand-name-mozilla } Manifesto
 manifesto-details-introduction = Introdución
 manifesto-details-the-internet-is-becoming = A Internet está tornándose unha parte cada vez máis importante das nosas vidas.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = O proxecto { -brand-name-mozilla } tradúcese nunha comunidade global de persoas que cren que a abertura da rede, innovación e oportunidade son elementos chave para a continuidade dunha Internet saudábel. Nós traballamos conxuntamente desde 1998 para asegurar que a Internet sexa desenvolvida de forma a beneficiar a todos. Somos mellor coñecidos por crear o navegador { -brand-name-mozilla } { -brand-name-firefox }.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = O proxecto { -brand-name-mozilla } baséase nunha perspectiva que ten na comunidade a fonte de creación de software de código aberto e de desenvolvemento de novas formas de actividades colaborativas. Creamos comunidades de persoas envolvidas en facer a experiencia de uso da Internet mellor para todos nós.
 manifesto-details-as-a-result-of = Como resultado destes esforzos, destilamos unha serie de principios que cremos que son críticos para que a Internet continúe a beneficiar tanto o ben público e común, como os aspectos comerciais da vida. Estes principios están listados a seguir.
 manifesto-details-the-goals-for = Os obxectivos do Manifesto son:

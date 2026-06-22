@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = Estem compromesos amb una Internet que c
 manifesto-an-internet-with-these = Una Internet amb aquestes qualitats no es farà sola. Les persones i les organitzacions han d'incorporar aquestes aspiracions en la tecnologia d'Internet i en l'experiència humana a la xarxa. El Manifest de { -brand-name-mozilla } i l'Apèndix representen el compromís de { -brand-name-mozilla } d'avançar en aquestes aspiracions. Volem treballar conjuntament amb les persones i les organitzacions d'arreu del món que comparteixin aquests objectius per fer d'Internet un lloc encara millor per a tothom.
 manifesto-details-introduction = Introducció
 manifesto-details-the-internet-is-becoming = Internet està esdevenint una part de les nostres vides cada vegada més important.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = El projecte { -brand-name-mozilla } és una comunitat global de persones que creuen que l'obertura, la innovació i l'oportunitat són claus per a la salut d'Internet. Hem treballat plegats des de 1998 per a assegurar que Internet es desenvolupa d'una manera que beneficiï tothom. Se'ns coneix sobretot per haver creat el navegador web { -brand-name-mozilla } { -brand-name-firefox }.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = El projecte { -brand-name-mozilla } usa una estratègia comunitària per a crear programari de codi obert de primer nivell i per a desenvolupar nous tipus d'activitats col·laboratives. Creem comunitats de persones dedicades a millorar l'experiència de tots nosaltres a Internet.
 manifesto-details-as-a-result-of = Com a resultat d'aquests esforços, hem extret un conjunt de principis que considerem crítics per tal que Internet continuï beneficiant el bé públic, així com els aspectes comercials de la vida. Us mostrem aquests principis a continuació.
 manifesto-details-the-goals-for = Els objectius del Manifest són:

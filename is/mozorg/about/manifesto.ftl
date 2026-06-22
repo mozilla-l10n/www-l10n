@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = Við erum staðráðin í að viðhalda 
 manifesto-an-internet-with-these = Internet með þessa eiginleika mun ekki lifna við af sjálfu sér. Einstaklingar og stofnanir verða að þætta þessar vonir inn í nettækni og inn í mannlega upplifun af internetinu. Stefnuskrá { -brand-name-mozilla } og viðaukinn við hana standa fyrir skuldbindingu { -brand-name-mozilla } til að efla þessar vonir. Við stefnum að því að vinna saman með því fólki og samtökum alls staðar sem deila þessum markmiðum til að gera internetið að enn betri stað fyrir alla.
 manifesto-details-introduction = Inngangur
 manifesto-details-the-internet-is-becoming = Netið er að verða sífellt mikilvægari hluti af lífi okkar.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = { -brand-name-mozilla } verkefnið er alþjóðlegt samfélag fólks sem trúir því að hreinskilni, nýsköpun og tækifæri séu lykillinn að góðri áframhaldandi heilsu internetsins. Við höfum unnið saman síðan 1998 til að tryggja að internetið sé þróað á þann hátt sem gagnast öllum. Við erum þekktust fyrir að búa til { -brand-name-mozilla } { -brand-name-firefox } vafra.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } verkefnið notar samfélagsmiðaða nálgun til að búa til heimsklassa opinn hugbúnað og til að þróa nýjar gerðir af samvinnuvirkni. Við búum til samfélög fólks sem tekur þátt í að gera netupplifunina betri fyrir okkur öll.
 manifesto-details-as-a-result-of = Sem afleiðing af þessari viðleitni höfum við sett saman meginreglur sem við teljum að séu mikilvægar til að internetið haldi áfram að gagnast almannaheill sem og viðskiptalegum þáttum lífsins. Við setjum þessar meginreglur fram hér að neðan.
 manifesto-details-the-goals-for = Markmið stefnuskrárinnar eru að:

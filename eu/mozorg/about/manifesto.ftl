@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = Guztien onuraren alde lan egiten duten k
 manifesto-an-internet-with-these = Ezaugarri hauek dituen Internet bat ez da jaioko bakarrik. Norbanakoek eta erakundeek asmo hauek barneratu behar dituzte Interneten teknologian eta Internetekiko giza esperientzian. { -brand-name-mozilla } Manifestuak eta Addendumak asmo hauek aurrera eramateko { -brand-name-mozilla }k duen konpromisoa adierazten dute. Helburu hauekin bat egiten duten mundu osoko pertsona eta erakundeekin batera lan egiteko xedea daukagu, Internet guztiontzako are leku hobea bilaka dadin.
 manifesto-details-introduction = Sarrera
 manifesto-details-the-internet-is-becoming = Internet gure bizitzen zati geroz eta garrantzitsuagoa bilakatzen ari da.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = { -brand-name-mozilla } proiektua pertsonen komunitate globala da, irekitasuna, berrikuntza eta aukera-berdintasuna Interneten osasunarentzat gakoak direla sinisten duena. 1998az geroztik elkarrekin egin dugu lan Internet guztion onurarako garatzen dela bermatzeko. Batez ere, { -brand-name-mozilla } { -brand-name-firefox } web nabigatzailea sortzeagatik gara ezagunak.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } proiektuak komunitatean oinarritutako metodoa erabiltzen du mundu mailako iturburu irekiko softwarea sortu eta elkarlan-jarduera mota berriak garatzeko. Internet-esperientzia guztiontzat hobea egiteko konpromisoa duten pertsonez osatutako komunitateak sortzen ditugu.
 manifesto-details-as-a-result-of = Esfortzu horien ondorioz, printzipio batzuk garatu ditugu eta gure ustez, funtsezkoak dira Internet onura publikoaren zein bizitzaren aspektu komertzialen mesederako izaten jarraitzeko. Printzipio horiek beherago zerrendatu ditugu.
 manifesto-details-the-goals-for = Manifestu honen helburuak ondorengoak dira:

@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = Posvećeni smo internetu koji katalizira
 manifesto-an-internet-with-these = Internet sa ovim kvalitetima neće oživjeti samostalno. Pojedinci i organizacije moraju uključiti te aspiracije u internet tehnologiju i u ljudsko iskustvo sa internetom. { -brand-name-mozilla } Manifesto i Addendum predstavljaju Mozilinu posvećenost unapređenju ovih aspiracija. Cilj nam je da radimo zajedno svugdje sa ljudima i organizacijama koji dijele ove ciljeve kako bi internet postao još bolji prostor za sve.
 manifesto-details-introduction = Uvod
 manifesto-details-the-internet-is-becoming = Internet postaje sve važniji dio našeg života.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Mozillin projekt je globalna zajednica ljudi koji vjeruju da otvorenost, inovativnost i mogućnosti su ključ za nastavak zdravog interneta. Radili smo zajedno od 1998-e da osiguramo da se internet razvija na način koji koristi svima. Mi smo najpoznatiji po kreiranju { -brand-name-mozilla } { -brand-name-firefox } web pretraživača.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } projekt koristi pristup zajednici za stvaranje svjetske klase softvera slobodnog izvora i da razvije nove vrste aktivnosti saradnje. Mi stvaramo zajednice ljudi uključenih u stvaranje internet iskustva boljeg za sve nas.
 manifesto-details-as-a-result-of = Kao rezultat ovih napora, mi smo destilirali skup načela koja smatramo da su od ključnog značaja za internet da nastavi da koristi javnom dobru kao i komercijalnim aspektima života. Postavili smo ova načela ispod.
 manifesto-details-the-goals-for = Ciljevi Manifesta su da:

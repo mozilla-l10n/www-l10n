@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = Nos es ingagiate pro un internet que cat
 manifesto-an-internet-with-these = Un internet con iste qualitates non se realisa automaticamente. Individuos e organisationes debe integrar iste aspirationes in le technologia de internet e in le experientia human con internet. Le Manifesto de { -brand-name-mozilla } e le Addendum representa le dedication de { -brand-name-mozilla } pro le progresso de iste aspirationes. Es nostre objectivo collaborar con personas e organisationes ubique qui comparti iste scopos pro facer de internet un loco sempre melior pro omnes.
 manifesto-details-introduction = Introduction
 manifesto-details-the-internet-is-becoming = Le Internet deveni sempre plus un parte importante del nostre vitas.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Le projecto { -brand-name-mozilla } es un communitate global de personas le qual crede que apertura, innovation, e opportunitate es clave al continuation del salubritate de Internet. Nos ha laborate conjunctemente depost le 1998 pro assecurar que Internet es disveloppate pro beneficiar a totes. Nos es plus cognoscite pro crear le navigator web { -brand-name-mozilla } { -brand-name-firefox }.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = Le projecto { -brand-name-mozilla } usa un approche basate sur communitate pro crear software open source de classe mundial e pro disveloppar nove typos de activitates in collaboration. Nos crea communitates de personas implicate in le confection de un experientia Internet melior pro tote nos.
 manifesto-details-as-a-result-of = Como consequentia de iste effortios, nos ha distillate un serie de principios que nos crede critic proque Internet continua a beneficio del ben public tal como pro aspectos commercial del vita. Nos lista iste principios in basso.
 manifesto-details-the-goals-for = Le propositos pro le Manifesto es de:

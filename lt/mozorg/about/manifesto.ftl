@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = Esame pasišventę kurti internetą, pad
 manifesto-an-internet-with-these = Internetas netaps tobulu savaime. Asmenys ir organizacijos turi įpinti šiuos tikslus į interneto technologijas ir žmonių patirtį internete. { -brand-name-mozilla } manifestas ir jo priedas atspindi { -brand-name-mozilla } įsipareigojimą siekti šių tikslų. Juos įgyvendindami, mes bendradarbiaujame su asmenimis ir organizacijomis visame pasaulyje, taip pat kaip ir mes siekiančiais, kad internetas taptų dar geresne ir atviresne visiems erdve.
 manifesto-details-introduction = Įžanga
 manifesto-details-the-internet-is-becoming = Internetas kasdien tampa vis svarbesne mūsų gyvenimo dalimi.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = „Mozillos“ projektas – tai pasaulinė žmonių bendruomenė, tikinti, kad atvirumas, inovacijos ir lygios galimybės yra būtini tolesniam sveikam interneto vystymuisi. Kartu dirbdami nuo 1998-ųjų, mes stengiamės užtikrinti, kad internetas vystytųsi visiems ir kiekvienam naudinga linkme. Geriausiai mes esame žinomi kaip „{ -brand-name-mozilla } { -brand-name-firefox }“ naršyklės kūrėjai.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = Vystydamas pasaulinio garso atvirąją programinę įrangą ir kurdamas naujus bendradarbiavimo būdus, { -brand-name-mozilla } projektas remiasi į bendruomenes. Mes kuriame žmonių, prisidedančių prie interneto kokybės kėlimo ir jo draugiškumo, bendruomenes.
 manifesto-details-as-a-result-of = Šių pastangų dėka mums pavyko išgryninti aibę principų, kurių, mūsų įsitikinimu, yra būtina laikytis, kad internetas ir toliau neštų naudą tiek visuomenei, tiek verslui. Šiuos principus ir pateikiame žemiau.
 manifesto-details-the-goals-for = Šio Manifesto tikslai yra:

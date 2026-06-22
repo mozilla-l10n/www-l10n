@@ -16,7 +16,9 @@ manifesto-magnifying-the-public = ইন্টারনেটের পরিপ
 manifesto-pledge-for-a-healthy-internet = একটি স্বাস্থ্যকর ইন্টারনেটের জন্য অঙ্গীকার করুন
 manifesto-details-introduction = ভূমিকা
 manifesto-details-the-internet-is-becoming = ইন্টারনেট আমাদের জীবনের একটি ক্রমবর্ধমান গুরুত্বপূর্ণ অংশ হয়ে উঠছে।
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = { -brand-name-mozilla } প্রকল্প হল মানুষ এর বিশ্বব্যাপী সম্প্রদায় যারা বিশ্বাস করে যে সরলতা, নতুনত্ব, এবং সুযোগ হল ইন্টারনেট এর ক্রমাগত স্বাস্থ্য এর চাবিকাঠি।আমরা 1998 সাল থেকে একসঙ্গে কাজ করেছি তা নিশ্চিত করার জন্য ইন্টারনেটের একটি উপায় যা সবার সুবিধা উন্নত করছে।আমরা { -brand-name-mozilla } { -brand-name-firefox } web browser নির্মাণে সবচেয়ে পরিচিত।
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } প্রকল্প একটি সম্প্রদায় ভিত্তিক প্রবেশপথ ব্যবহার করে বিশ্বমানের ওপেন সোর্স সফটওয়্যার তৈরি করতে এবং নতুন ধরনের সহযোগিতা কার্যক্রমের বিকাশ করতে।আমরা জনগণের সম্প্রদায় গঠন করছি যারা সবার জন্য ইন্টারনেট অভিজ্ঞতা আরও ভাল করে।
 manifesto-details-as-a-result-of = এই প্রচেষ্টার ফলে, আমরা কিছু নীতিমালা পেয়েছি, আমরা বিশ্বাস করি এগুলো জনসাধারণের এবং জীবনের অর্থনৈতিক কল্যাণে ইন্টারনেটের অগ্রযাত্রায় গুরুত্বপূর্ণ। এই নীতিমালা আমরা নিম্নে দিয়েছি।
 manifesto-details-the-goals-for = মেনিফেস্টোর লক্ষ্য হচ্ছে:

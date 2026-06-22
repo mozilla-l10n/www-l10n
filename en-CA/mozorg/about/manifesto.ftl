@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = We are committed to an internet that cat
 manifesto-an-internet-with-these = An internet with these qualities will not come to life on its own. Individuals and organizations must embed these aspirations into internet technology and into the human experience with the internet. The { -brand-name-mozilla } Manifesto and Addendum represent { -brand-name-mozilla }’s commitment to advancing these aspirations. We aim to work together with people and organizations everywhere who share these goals to make the internet an even better place for everyone.
 manifesto-details-introduction = Introduction
 manifesto-details-the-internet-is-becoming = The internet is becoming an increasingly important part of our lives.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = The { -brand-name-mozilla } project is a global community of people who believe that openness, innovation, and opportunity are key to the continued health of the internet. We have worked together since 1998 to ensure that the internet is developed in a way that benefits everyone. We are best known for creating the { -brand-name-mozilla } { -brand-name-firefox } web browser.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = The { -brand-name-mozilla } project uses a community-based approach to create world-class open source software and to develop new types of collaborative activities. We create communities of people involved in making the internet experience better for all of us.
 manifesto-details-as-a-result-of = As a result of these efforts, we have distilled a set of principles that we believe are critical for the internet to continue to benefit the public good as well as commercial aspects of life. We set out these principles below.
 manifesto-details-the-goals-for = The goals for the Manifesto are to:

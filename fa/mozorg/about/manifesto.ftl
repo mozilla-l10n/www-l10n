@@ -16,7 +16,9 @@ manifesto-free-and-open-source-software = نرم افزارهای آزاد و م
 manifesto-pledge-for-a-healthy-internet = تعهد به اینترنت سالم
 manifesto-details-introduction = دیباچه
 manifesto-details-the-internet-is-becoming = اینترنت به طور فزاینده در حال تبدیل شدن به بخش مهمی از زندگی ما است.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = پروژه { -brand-name-mozilla } اجتماعی جهانی از مردمی است که اعتقاد دارند باز بودن، نوآوری و داشتن فرصت، برای تداوم سلامت اینترنت کلیدی هستند. ما برای اطمینان از اینکه اینترنت در راهی توسعه پیدا کند تا منافع همه را تامین کند، از سال ۱۹۹۸ با هم کار کردیم. ما را بیشتر برای ساختن مرورگر وب { -brand-name-mozilla } { -brand-name-firefox } می‌شناسند.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = پروژه { -brand-name-mozilla } از یک رویکرد جامعه محور برای ساختن نرم‌افزار‌های منبع‌باز در کلاسِ جهانی و توسعهٔ گونه‌های جدیدی از فعالیت‌های مشترک استفاده می‌کند. ما جوامعی مردمی می‌سازیم که در ساخت تجربهٔ بهتر از اینترنت برای همه ما فعال هستند.
 manifesto-details-as-a-result-of = در نتیجه این تلاش‌ها، ما چکیده‌ای از اصولی که باور داریم برای ادامهٔ منفعت عمومی و همچنین جنبه تجاری زندگی حیاتی هستند را تهیه کرده‌ایم. این اصول در پایین آورده شده‌اند.
 manifesto-details-the-goals-for = اهداف مرامنامه برای این هستند که:

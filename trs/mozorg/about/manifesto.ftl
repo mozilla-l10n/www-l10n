@@ -9,7 +9,9 @@
 manifesto-the-mozilla-manifesto = Si nuguàn’ { -brand-name-mozilla }
 manifesto-details-introduction = Nuguan' tàj ñaan
 manifesto-details-the-internet-is-becoming = Da’ achîn gui nī nahuin internet ‘ngō sa ña’an doj riña nê’.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Riña { -brand-name-mozilla } nī ‘iaj sun ‘ngō yi’nïn’ nìko guì anïn ruhuâ sisī da’ui internet gā ni’nïnj man, gā nakà yitïnj man nī gahuin man ‘ngō sa gi’iaj da’ gā ‘ngō sunūnj u. Huè ñûnj gayi’î ‘iaj sun âsij 1998 nī tna’uēj ñûnj da’ gi’iaj sūnūnj internet riña daran’ nê’. Ûta ni’in guìi ñûnj guendâ girirà ñûnj ‘ngō navegador gu’nàj { -brand-name-mozilla } { -brand-name-firefox }.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } nī gi‘iaj sunj ‘ngō sun nuguan’àan da’ ga’ue girij ‘ngō software nikāj ‘ngō código huā ni’nïni ïn nī danj nānj da’ui gīrij a’ngô da’aj nej sun nuguan’àn ga’ue gahuī. Ûta ga’ì yi’nïn’ guìi ‘iaj sun ngà ñûnj yi’ì dan a’ue ûta hue’ê ‘iaj sun internet riña daran’ chre nê’.
 manifesto-details-as-a-result-of = ‘Ngō sa narugui’ gi’iaj nej sun nuguan’àn nan huin sisī gahuin nùkuaj ñûnj guchrūj ñûnj ‘ngo dukuán tna’uej da’ gi’iaj sunūnj internet riña daran’ guìi, danj nanj ‘iaj sunu riña ‘ngō sun rânj du’uêj e. hìaj nī natà’ ñûnj dàj hua nej dukuán nan.
 manifesto-details-the-goals-for = Nej si chrēj dukuán nan huin:

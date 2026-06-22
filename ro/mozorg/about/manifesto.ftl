@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = Suntem dedicați unui internet cu rol de
 manifesto-an-internet-with-these = Un internet cu aceste calități nu va veni de la sine. Oamenii și organizațiile trebuie să încorporeze aceste aspirații în tehnologia internetului și în experiențele oamenilor pe internet. Manifestul nostru și Actul adițional la acesta reprezintă angajamentul { -brand-name-mozilla } de avansare a acestor aspirații. Dorim să lucrăm cu oameni și organizații de pretutindeni care împărtășesc aceste obiective pentru a face internetul mai bun pentru toți.
 manifesto-details-introduction = Introducere
 manifesto-details-the-internet-is-becoming = Internetul devine o parte din ce în ce mai importantă a vieților noastre.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Proiectul { -brand-name-mozilla } reprezintă o comunitate globală de oameni care cred că deschiderea, inovația și oportunitățile sunt esențiale pentru menținerea sănătății internetului. Lucrăm din 1998 pentru a ne asigura că internetul se dezvoltă într-o direcție benefică tuturor. Suntem cunoscuți cel mai bine pentru crearea browserului { -brand-name-firefox }.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = Proiectul { -brand-name-mozilla } folosește o abordare bazată pe comunitate pentru a crea programe de talie mondială cu sursă deschisă și pentru a dezvolta tipuri noi de activități colaborative. Creăm comunități care se implică în îmbunătățirea experienței pe internet pentru toți.
 manifesto-details-as-a-result-of = În urma acestor eforturi, am conceput un set de principii pe care le considerăm ca fiind critice pentru ca internetul să continue să deservească în aceeași măsură binele public și aspectele comerciale ale vieții. Le enunțăm aici mai jos.
 manifesto-details-the-goals-for = Obiectivele Manifestului sunt:

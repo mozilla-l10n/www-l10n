@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = Rydym yn ymroddedig i rhyngrwyd sy'n hyr
 manifesto-an-internet-with-these = Nid yw rhyngrwyd sydd â'r nodweddion hyn yn dod yn fyw ar ben ei hun. Rhaid i unigolion a chyrff blannu'r deisyfiadau hyn i'w technoleg rhyngrwyd ac i'r profiad dynol o'r rhyngrwyd. Mae'r { -brand-name-mozilla } Manifesto a'r Addendum yn cynrychioli ymroddiad { -brand-name-mozilla } i hyrwyddo'r dyfeisiadau hyn. Rydym yn anelu i weithio gyda phobl a chyrff ym mhob man sy'n rhannu'r amcanion hyn i wneud y rhyngrwyd yn le gwell byth ar gyfer pawb.
 manifesto-details-introduction = Cyflwyniad
 manifesto-details-the-internet-is-becoming = Mae'r Rhyngrwyd yn dod yn rhan gynyddol bwysig o'n bywydau.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Mae project { -brand-name-mozilla } yn gymuned fyd-eang o bobl sy'n credu bod bod yn agored, arloesedd, a chyfle yn allweddol i iechyd parhaus y Rhyngrwyd. Rydym wedi gweithio gyda'i gilydd ers 1998 i sicrhau fod y Rhyngrwyd yn cael ei ddatblygu mewn ffordd sydd o fudd i bawb. Rydym yn fwyaf adnabyddus am greu'r porwr gwe { -brand-name-mozilla } { -brand-name-firefox }.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = Mae'r project { -brand-name-mozilla } yn defnyddio dull sy'n seiliedig ar y gymuned i greu meddalwedd cod agored byd-eang ac i ddatblygu mathau newydd o weithgareddau cydweithredol. Rydym yn creu cymunedau o bobl sy'n gysylltiedig â gwneud profiad y Rhyngrwyd yn well i bob un ohonom.
 manifesto-details-as-a-result-of = O ganlyniad i'r ymdrechion hyn, rydym wedi distyllu set o egwyddorion y credwn eu bod yn hanfodol ar gyfer y Rhyngrwyd i barhau i gynnig budd i'r cyhoedd yn ogystal ag agweddau masnachol ar fywyd. Rydym yn gosod allan yr egwyddorion hyn isod.
 manifesto-details-the-goals-for = Y nodau ar gyfer y Maniffesto yw i:

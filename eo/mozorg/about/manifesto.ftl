@@ -13,7 +13,9 @@ manifesto-commercial-involvement = Komerca partopreno en la disvolviĝo de inter
 manifesto-pledge-for-a-healthy-internet = Promeso por sana Interreto
 manifesto-details-introduction = Enkonduko
 manifesto-details-the-internet-is-becoming = Interreto iĝas pli kaj pli grava parto de niaj vivoj.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = La projekto { -brand-name-mozilla } estas tutmonda komunumo de personoj kiuj kredas ke malfermiteco, novkreado kaj oportuno estas fundamentaj por daŭra bonfarto de Interreto. Ni laboris kune ekde 1998 por certigi ke la reto disvolviĝas tiel, ke ĉiu povas profiti de ĝi. Ni estas plej konataj pro tio ke ni kreis la retumilon { -brand-name-mozilla } { -brand-name-firefox }.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = La projekto { -brand-name-mozilla } kalkulas je komunumo por krei altkvalitan malfermitkodan programaron kaj por disvolvi novajn tipojn de kunlaboro. Ni kreas komunumojn de personoj, kiuj partoprenas kun la celo plibonigi la Interretan sperton por ni ĉiuj.
 manifesto-details-as-a-result-of = El tiuj streboj rezultas poluritan aron de principoj, kiujn ni opinias decidigaj por ke Interreto plu estu profitiga kaj publike kaj komerce. Ni listigas tiun principojn malsupre.
 manifesto-details-the-goals-for = La celoj por la Manifesto estas:

@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = Estamos comprometidos com uma internet q
 manifesto-an-internet-with-these = Uma internet com estas qualidades não ganhará vida por si própria. Os indivíduos e organizações devem embutir estas aspirações na tecnologia da internet e na experiência humana da internet. O Manifesto da { -brand-name-mozilla } e o Adendo representam o compromisso da { -brand-name-mozilla } para avançar estas aspirações. Queremos trabalhar junto com as pessoas e organizações em qualquer lugar que partilhem estes objetivos para fazer a internet um ainda melhor lugar para todos.
 manifesto-details-introduction = Introdução
 manifesto-details-the-internet-is-becoming = A Internet está a tornar-se uma parte cada vez mais importante das nossas vidas.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = O projeto { -brand-name-mozilla } é uma comunidade global de pessoas que acredita que a abertura, a inovação e a oportunidade são a chave para a saúde da Internet. Trabalhamos juntos desde 1998 para garantir que a Internet é desenvolvida de forma a beneficiar toda a gente. Somos mais conhecidos por termos criado o { -brand-name-mozilla } { -brand-name-firefox }, um navegador para a Web.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = O projeto { -brand-name-mozilla } utiliza uma abordagem baseada em comunidades para criar um software de código aberto de nível mundial e desenvolver novos tipos de atividades colaborativas. Nós criamos comunidades de pessoas comprometidas em tornar a experiência da Internet melhor para todos.
 manifesto-details-as-a-result-of = Como resultado destes esforços, apurámos um conjunto de princípios que acreditamos serem críticos para que a Internet continue a beneficiar o interesse público bem como os aspetos mais comerciais da vida. Definimos os princípios em baixo.
 manifesto-details-the-goals-for = Os objetivos do Manifesto são para:

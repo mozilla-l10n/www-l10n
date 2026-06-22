@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = Vi står for eit internett som fremmar s
 manifesto-an-internet-with-these = Eit internett med desse eigenskapane kjem ikkje av seg sjølv. Menneske og organisasjonar må integrere desse måla i både internetteknologien og brukaropplevinga på nettet. { -brand-name-mozilla }-manifestet og dess tilføyingar står for { -brand-name-mozilla }s engasjement for desse måla. Vi vil jobbe med mennesker og organisasjonar rundt om i verda som deler desse måla og vil bidra til eit betre internett for alle.
 manifesto-details-introduction = Innleiing
 manifesto-details-the-internet-is-becoming = Internett vert ein stadig viktigare del av liva våre.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = { -brand-name-mozilla }-projektet er eit globalt fellesskap av folk som trur at openheit, nyskaping og mulegheiter er nykelen til framleis god internetthelse. Vi har arbeidd saman sidan 1998 for å passe på at nettet vert utvikla på ein måte som er til nytte for alle. Vi er mest kjende for å ha laga nettlesaren { -brand-name-mozilla } { -brand-name-firefox }.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla }-prosjektet brukar ei fellesskapsbasert tilnærming for å lage programvare i verdsklasse med open kjeldekode og for å utvikle nye typar av fellesskaplege aktivitetar. Vi byggjer fellesskap av folk som er involverte i å gjere internettopplevinga betre for alle.
 manifesto-details-as-a-result-of = Som eit resultat av desse satsingane har vi destillert fram ei samling grunnprinsipp som vi meiner er kritiske for at nettet skal halde fram med å gagne allmennytta samt dei kommersielle aspekta av livet. Vi skildrar desse grunnsprinsippa nedanfor.
 manifesto-details-the-goals-for = Målet med manifestet er å:

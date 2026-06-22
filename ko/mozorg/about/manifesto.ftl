@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = 우리는 공공의 이익을 위해 함
 manifesto-an-internet-with-these = 우리가 원하는 인터넷은 자연적으로 되지 않습니다. 개인과 기업은 인터넷 기술과 인터넷을 통한 인간의 경험에 이러한 포부를 내포해야합니다. { -brand-name-mozilla } 선언문({ -brand-name-mozilla } Manifesto)과 부록(Addendum)은 이러한 포부를 발전시키기위한 { -brand-name-mozilla }의 노력을 나타냅니다. 우리는 인터넷을 모든 사람에게 더 좋은 곳으로 만들기 위해 사명을 함께 공유하는 사람 및 커뮤니티, 기업과 모든 영역에서 함께 일하는 것을 목표로합니다.
 manifesto-details-introduction = 개요
 manifesto-details-the-internet-is-becoming = 인터넷은 우리 삶에서 점점 중요한 부분이 되어 가고 있습니다.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = { -brand-name-mozilla } 프로젝트는 공유와 혁신 그리고 기회가 인터넷을 풍요롭게 만드는데 중요한 열쇠가 된다고 믿는 사람들의 세계적 커뮤니티입니다. 우리는 1998년 이후로 인터넷이 모든 사람에게 이익이 되는 방법으로 발전할 수 있도록 함께 노력해 왔습니다. 우리는 { -brand-name-mozilla } { -brand-name-firefox }라는 유명한 웹 브라우저를 만들고 있습니다.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } 프로젝트는 세계 최고의 공개 소프트웨어를 만들고 새로운 협업 활동을 만들어 내는 과정에서 커뮤니티 기반 접근 방식을 사용합니다. 우리는 모든 사람의 더 나은 인터넷 사용 경험을 누리게 하기 위해 사람들의 커뮤니티를 만듭니다.
 manifesto-details-as-a-result-of = 이러한 노력의 결과로, 우리는 삶에 있어 경제적 측면 뿐만 아니라 공익적 이득을 지속하기위해 인터넷에서 매우 중요한 몇 가지 원칙들을 뽑아 보았습니다. 이 원칙을 이 선언문의 아랫부분에 명시하였습니다.
 manifesto-details-the-goals-for = 이 선언문의 목표는 다음과 같습니다:

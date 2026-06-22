@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = Roñeha’ãta rojapo peteĩ ñanduti om
 manifesto-an-internet-with-these = Peteĩ ñanduti ndoikomo’ãi ha’eño ijehegui. Avakuéra ha avei opavave omoĩva’erã tembiporupyahu ñandutípe ha jekuaapy ñandutípe. { -brand-name-mozilla } he’i ha oikuaauka orekoha jehechauka ikatu hag̃ua omoambue hembiapo tenonderã. Jaheka tembiapo oñondive ava ha tembiapoha oparupigua oĩ guive orendive ha ojapo ñandutígui peteĩ tenda iporãvéva.
 manifesto-details-introduction = Moñepyrũ
 manifesto-details-the-internet-is-becoming = Ñandutígui oiko peteĩ mba’e tuicháva opavave rekovépe g̃uarã.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = { -brand-name-mozilla } apopyrã ha’e ava rekoha arapygua mba’e ogueroviáva pe juruja, ñembopyahu ha pa’ũ iporãha Ñanduti resãirã. Pe 1998 guive ñamba’apo oñondivepa ñanduti ha’e hag̃ua opavavépe g̃uarã. Rojekuaave romoheñói haguére pe ñanduti kundaha { -brand-name-mozilla } { -brand-name-firefox }.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } apopyrã oguereko mba’éichapa omboguatáta hembiapo ha’éva tekohakuéra ndive ikatuhápe omoheñói software ijurujáva, iporã añetéva ha omboguata tembiapo oñondiveguáva. Romoheñói ava rekoha oñeha’ãva ojapo ñanduti opavavépe g̃uarãva.
 manifesto-details-as-a-result-of = Ko’ã ñeha’ã rupive, rojapohína heta mba’e iporãmbajepéva ñanduti ikatu hag̃uáicha oiko opavavéva mba’éramo, péicha avei oma’ẽ ñemurã reheguáre. Ko’ápe rombopapappy ãva.
 manifesto-details-the-goals-for = Umi hupytyrã je’epyre rehegua ha’e:

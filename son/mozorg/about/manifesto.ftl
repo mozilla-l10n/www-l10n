@@ -9,7 +9,9 @@
 manifesto-the-mozilla-manifesto = { -brand-name-mozilla } Bayrandoo
 manifesto-details-introduction = Šintin daara
 manifesto-details-the-internet-is-becoming = Interneti dogoo mma beeri ka tonton waati kul hõ borey hunaroo ra.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = { -brand-name-mozilla } porožewoo ti adduɲɲaa-mee jamaa kaŋ borey ga tammahã kaŋ interneti baanoo ši duumi kala nd'a ga feera, a ga tejandi nd'a ga nafa. Za 1998 ir ga durkutu ka cimandi kaŋ interneti ga cina nda taka kaŋ ga borey kul nafa. Ir maaɲey fatta nda { -brand-name-mozilla } { -brand-name-firefox } ceecikaa.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } porožewoo ti jama-gorante goymee kaŋ ga goyijinay aššil feerante šifante tee nda fondo taagayaŋ feeri kaŋ ra borey ga goy nda cere. Ir jamaayaŋ marga kaŋ kanbuzaama ti interneti goyyan ma boori ka tonton ir kul se.
 manifesto-details-as-a-result-of = Woodin ra, ir na fondayaŋ kayandi kaŋ ir ga tammahã i ga tabatandi kaŋ interneti ma gaabandi ka tee baytal ka borey nafa nda duura faalandi i se. Ir ga fondawey wey filla ne ganda.
 manifesto-details-the-goals-for = Bayrandiyanoo anniyawey ti:

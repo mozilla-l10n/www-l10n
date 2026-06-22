@@ -28,7 +28,9 @@ manifesto-we-are-committed-to-diverse = Zastupujomy internet, kótaryž zgromadn
 manifesto-an-internet-with-these = Internet z toś tymi kwalitami wót samego njenastawa. Wósoby a organizacije muse toś te cele k internetnej technologiji a k cłowjeskemu dožywjenjeju z internetom pśinosowaś. Manifest { -brand-name-mozilla } a pśidank reprezentěrujotej angažěrowanosć { -brand-name-mozilla } za rozšyrjowanje toś tych celow. Prócujomy se wó zgromadne źěło z luźimi a organizacijami wšuźi, kótarež toś te cele źěle, aby my internet k hyšći lěpšemu městnoju za kuždego cynili.
 manifesto-details-introduction = Zapokazanje
 manifesto-details-the-internet-is-becoming = Internet jo stawnje wažnjejšy źěl našogo žywjenja.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Projekt { -brand-name-mozilla } jo gobalne zgromaźeństwo luźi, kótarež wěrje, až wótwórjonosć, inowacija a móžnosći su kluc wobstawnego derjeměśa interneta. Smy wót lěta 1998 gromad źěłali, aby zawěsćili, až internet wuwija se na wašnju, kótaraž jo kuždemu wužytna. Nejwěcej znaty z našych projektow jo webwobglědowak { -brand-name-mozilla } { -brand-name-firefox }.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = Projekt { -brand-name-mozilla } zepěra se na zgromaźeństwo, aby wuběrnu softwaru zjawnego žrědła napórał a nowe wašnje kooperacije wuwijał. Załožujomy zgromaźeństwa luźi, kótarež cynje internet k lěpšemu městnoju za nas wšych.
 manifesto-details-as-a-result-of = Ako wuslědk toś tych prócowanjow smy rěd principow zestajali, kótarež mamy za kritiske za internet, aby dalej zjawnemu derjeměśeju słužyli a teke komercielnym aspektam žywjenja. Toś te principy pódajomy dołojce.
 manifesto-details-the-goals-for = Cele za manifest su:

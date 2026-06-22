@@ -9,7 +9,9 @@
 manifesto-the-mozilla-manifesto = { -brand-name-mozilla } manifesti
 manifesto-details-introduction = Ko‘rsatma
 manifesto-details-the-internet-is-becoming = Internet hayotimizning eng muhim qismiga aylanib bormoqda.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = { -brand-name-mozilla } loyihasi ochiqlik, innovatsiya va imkoniyat internetning davom etadigan yaroqliligiga ishonuvchi odamlarning global jamiyati hisoblanadi. Biz 1998-yildan buyon internetni hammaga foydasi tegadigan yo‘lda rivojlantirishiini ta’minlovchi insonlar bilan birga ishlaymiz. Biz "{ -brand-name-mozilla } { -brand-name-firefox }"ni veb brauzer qilib yaratish bilan mashhurmiz.
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } loyihasi dunyo-sinfi uchun ochiq manbali dasturiy ta’minot yaratish va hamkolik faoliyatining yangi turlarini tuzish uchun jamiyatga asoslangan yondashuvdan foydalanadi. Biz internet bo‘yicha tajribalarini bizning hammamiz uchun yaxshiroq qilish uchun jalb qilingan odamlar jamiyatini yaratamiz.
 manifesto-details-as-a-result-of = Ushbu harakatlar natijasida biz internetni hayotning tijoriy ko‘rinishi sifatida ommaning foydasini yaxshilashni davom etish jiddiy ekanligiga ishonadigan tamoyillar jamlanmasini distilladik. Ushbu tamoyillarimizni quyida o‘rnatganmiz.
 manifesto-details-the-goals-for = Manifest uchun yutuqlar:
