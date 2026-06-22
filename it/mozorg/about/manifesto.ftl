@@ -73,10 +73,10 @@ manifesto-if-you-share-this-goal-v2 = Se condividi questo obiettivo, facci saper
 manifesto-we-create-open = Sviluppiamo <a { $github_link }>software open source</a> che puoi utilizzare per realizzare i tuoi progetti.
 # Variables:
 #   $mofo_link (url) - link to https://www.mozillafoundation.org/
-manifesto-we-fund-fellows = { " " }<a { $mofo_link }>Sosteniamo borsisti e incubiamo progetti</a> che mirano a creare un futuro migliore online.
+manifesto-we-fund-fellows = <a { $mofo_link }>Sosteniamo borsisti e incubiamo progetti</a> che mirano a creare un futuro migliore online.
 # Variables:
 #   $mozai_link (url) - link to https://www.mozilla.ai
-manifesto-we-build-open-source = { " " }<a { $mozai_link }>Realizziamo strumenti di intelligenza artificiale open source</a> che offrono agli sviluppatori più scelta e li aiutano a risparmiare.
+manifesto-we-build-open-source = <a { $mozai_link }>Realizziamo strumenti di intelligenza artificiale open source</a> che offrono agli sviluppatori più scelta e li aiutano a risparmiare.
 # Variables:
 #   $mozvc_link (url) - link to https://mozilla.vc
 manifesto-we-invest-in = <a { $mozvc_link }>Investiamo in startup tecnologiche responsabili</a>.
