@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } makket browsers, apps, koade en he
 
 ## Intro
 
+m24-about-guard-the-internet = Beskermje it Iepen Ynternet
 # Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Claim it ynternet mei ús werom
 m24-about-mozilla-is-working = { -brand-name-mozilla } wurket deroan om kontrôle oer it ynternet werom te jaan yn de hannen fan de minsken dy’t it brûke.
