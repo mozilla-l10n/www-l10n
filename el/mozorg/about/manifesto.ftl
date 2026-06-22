@@ -63,6 +63,15 @@ manifesto-commitment-1 = Δέσμευση 1
 manifesto-commitment-2 = Δέσμευση 2
 manifesto-commitment-3 = Δέσμευση 3
 manifesto-commitment-4 = Δέσμευση 4
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+manifesto-we-create-open = Δημιουργούμε <a { $github_link }>λογισμικό ανοικτού κώδικα</a>που μπορείτε να αξιοποιήσετε ως βάση για τα δικά σας έργα.
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = <a { $mozvc_link }>Επενδύουμε σε υπεύθυνες νεοφυείς επιχειρήσεις τεχνολογίας</a>.
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = <a { $mdc_link }>Διατηρούμε μια παγκόσμια κοινότητα</a> για μια δίκαιη ανταλλαγή δεδομένων.
 
 ## Obsolete strings (expire 2026-09-10)
 
