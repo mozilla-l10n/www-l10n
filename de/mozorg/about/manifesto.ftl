@@ -30,8 +30,14 @@ manifesto-we-are-committed-to-diverse = Wir stehen für ein Internet, das Zusamm
 manifesto-an-internet-with-these = Ein Internet mit diesen Eigenschaften richtet sich nicht von selbst ein. Individuen und Organisationen müssen diese Ziele Internettechnologien und die individuellen Erfahrungen mit dem Internet integrieren. Das { -brand-name-mozilla }-Manifest und dessen Ergänzung repräsentieren { -brand-name-mozilla }s Einsatz für diese Ziele. Wir möchten mit Menschen und Organisationen weltweit zusammenarbeiten, die unsere Ziele mit uns teilen, um das Internet zu einem noch besseren Ort für uns alle zu machen.
 manifesto-details-introduction = Einleitung
 manifesto-details-the-internet-is-becoming = Das Internet wird zu einem immer wichtigeren Teil unseres Lebens.
+
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Das { -brand-name-mozilla }-Projekt ist eine weltweite Gemeinschaft von Leuten, die davon überzeugt sind, dass Offenheit, Innovation und vielfältige Möglichkeiten der Schlüssel zu einer gesunden Entwicklung des Internets sind. Wir setzen uns seit 1998 dafür ein, dass sich das Internet in einer Weise entwickelt, die jedem zugute kommt. Am besten kennt man uns für unseren Webbrowser { -brand-name-mozilla } { -brand-name-firefox }.
+
+
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = Das { -brand-name-mozilla }-Projekt setzt auf gemeinschaftliche Zusammenarbeit, um erstklassige Open-Source-Software zu erstellen und neue kollaborative Formate zu entwickeln. Wir erschaffen Gemeinschaften von Leuten, die das Internet zu einem besseren Ort für uns alle machen.
+
 manifesto-details-as-a-result-of = Das Ergebnis unserer Bemühungen ist eine Reihe von Prinzipien, die wir für entscheidend halten, damit das Internet weiterhin sowohl dem Gemeinwohl als auch kommerziellen Interessen zugutekommen kann.
 manifesto-details-the-goals-for = Die Ziele dieses Manifests sind:
 manifesto-details-articulate-a-vision-v2 = eine Vision für das Internet zu formulieren, die die { -brand-name-mozilla-foundation } nach Meinung der Mitwirkenden des { -brand-name-mozilla }-Projekts vorantreiben soll;
@@ -69,12 +75,34 @@ manifesto-our-commitments = Unser Engagement
 
 manifesto-if-you-share-this-goal-v2 = Wenn du dieses Ziel teilst, sag uns, wie wir helfen können.
 
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+manifesto-we-create-open = <a { $github_link }>Wir erstellen Open-Source-Software</a>, auf der du aufbauen kannst.
 
+# Variables:
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+manifesto-we-fund-fellows = Wir <a { $mofo_link }>fördern Stipendiaten und unterstützen Projekte</a>, die sich für eine bessere Zukunft im Internet einsetzen.
 
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = Wir <a { $mozai_link }>bauen Open-Source-KI-Tools</a>, die Entwickler*innen Wahlmöglichkeiten bieten – und ihnen helfen, Geld zu sparen.
 
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = Wir <a { $mozvc_link }>investieren in verantwortliche Tech-Start-ups</a>.
 
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = Wir <a { $mdc_link }>leiten eine globale Community</a> für einen fairen Datenaustausch.
 
+# Variables:
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+manifesto-we-host-a-yearly = Wir <a { $festival_link }>hosten ein jährliches globales Treffen</a> für Menschen, die etwas entwickeln, um das Manifest voranzubringen.
 
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = Und natürlich machen wir <a { $firefox_link }>{ -brand-name-firefox }</a> und <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. All das soll Menschen dabei helfen, das Internet zu einem gesunden Ort zu machen.
 
 ## Obsolete strings (expire 2026-09-10)
 
@@ -88,7 +116,6 @@ manifesto-details-the-effectiveness = Der Nutzen des Internets als öffentliche 
 manifesto-details-free-and-open = Freie und quelloffene Software fördert die Entwicklung des Internets als öffentliche Ressource.
 manifesto-details-commercial-involvement = Eine wirtschaftliches Beteiligung an der Entwicklung des Internets bringt viele Vorteile mit sich; allerdings ist entscheidend, dass dabei das Gleichgewicht zwischen kommerziellem Profit und öffentlichem Interesse gewahrt bleibt.
 manifesto-details-magnifying-the = Die gemeinnützigen Aspekte des Internets hervorzuheben ist ein wichtiges Ziel und den Einsatz von Zeit, Aufmerksamkeit und Mitarbeit wert.
-manifesto-details-there-are-many = Es gibt viele Möglichkeiten, die im { -brand-name-mozilla }-Manifest angesprochenen Prinzipien voranzutreiben. Wir freuen uns über eine große Bandbreite an Aktivitäten und hoffen auf dasselbe Maß an Kreativität, das Mitwirkende am { -brand-name-mozilla }-Projekt schon in anderen Bereichen des Projektes gezeigt haben. Jeder, der sich nicht aktiv am { -brand-name-mozilla }-Projekt beteiligt, kann das Manifest auch durch die Nutzung von { -brand-name-mozilla } { -brand-name-firefox } und anderen Produkten, die sich diesen Prinzipien verschreiben, auf einfache und sehr effektive Art unterstützen.
 manifesto-details-some-foundation-v2 = Einige Aktivitäten der Foundation – darunter aktuell die Erstellung, Veröffentlichung und Bewerbung von Verbraucher-Produkten – werden hauptsächlich von der hundertprozentigen Tochterfirma der { -brand-name-mozilla-foundation }, der { -brand-name-mozilla-corporation }, durchgeführt.
 manifesto-details-invitation = Einladung
 manifesto-details-the-mozilla-foundation-invites-v2 = Die { -brand-name-mozilla-foundation } lädt alle Unterstützer der Prinzipien des { -brand-name-mozilla }-Manifests zur Zusammenarbeit ein, um so neue Wege zu finden, um diese Vision des Internets Wirklichkeit werden zu lassen.

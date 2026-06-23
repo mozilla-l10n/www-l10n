@@ -58,3 +58,4 @@ vpn-download-install-via-apt = Über APT installieren
 vpn-download-flathub = Flathub
 vpn-download-apt = APT
 vpn-download-windows = 64-Bit
+vpn-download-windows-arm = ARM
