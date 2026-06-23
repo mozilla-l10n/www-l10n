@@ -12,6 +12,7 @@ m24-about-page-desc = Η { -brand-name-mozilla } δημιουργεί προγρ
 
 ## Intro
 
+m24-about-guard-the-internet = Φύλαξη του ανοικτού διαδικτύου
 # Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Διεκδικήστε ξανά το διαδίκτυο με εμάς
 m24-about-mozilla-is-working = Η { -brand-name-mozilla } εργάζεται για να επαναφέρει τον έλεγχο του διαδικτύου στα χέρια των ανθρώπων που το χρησιμοποιούν.
