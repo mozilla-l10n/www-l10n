@@ -30,8 +30,14 @@ manifesto-we-are-committed-to-diverse = Kami komited kepada internet yang menjad
 manifesto-an-internet-with-these = Internet yang sedemikian kualitinya tidak akan wujud dengan sendiri. Individu dan organisasi wajib menanam aspirasi ini kepada teknologi internet serta ke dalam pengalaman manusia dengan internet. Manifesto dan Adendum { -brand-name-mozilla } ini mewakili komitmen { -brand-name-mozilla } untuk membawa aspirasi ini ke hadapan. Matlamat kami adalah bekerjasama dengan individu dan organisasi di mana saja yang berkongsi matlamat ini untuk menjadikan internet sebuah tempat yang baik untuk semua.
 manifesto-details-introduction = Pengenalan
 manifesto-details-the-internet-is-becoming = Internet kini menjadi sebahagian daripada kehidupan kita.
+
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Projek { -brand-name-mozilla } adalah komuniti global yang percaya bahawa keterbukaan, inovasi, dan peluang adalah kunci kepada kesihatan internet yang berterusan. Kami telah bekerjasama sejak 1998 bagi memastikan internet dibangunkan dengan cara yang memberi faedah kepada semua orang. Kami paling dikenali sebagai pereka pelayar web{ -brand-name-mozilla } { -brand-name-firefox }.
+
+
+# Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = Projek { -brand-name-mozilla } menggunakan pendekatan berasaskan komuniti bagi mencipta perisian sumber terbuka bertaraf dunia serta membangunkan aktiviti kerjasama yang baru. Kami mengasaskan komuniti yang terlibat dalam menjadikan pengalaman internet lebih baik untuk kita semua.
+
 manifesto-details-as-a-result-of = Hasil usaha ini, kami telah mengenal pasti prinsip-prinsip yang kami yakini penting bagi internet untuk terus memberi manfaat kepada masyarakat termasuklah aspek komersial dalam kehidupan. Prinsip kami adalah seperti berikut.
 manifesto-details-the-goals-for = Matlamat Manifesto ini ialah:
 manifesto-details-articulate-a-vision-v2 = menjelaskan satu visi internet di mana peserta { -brand-name-mozilla } mahukan { -brand-name-mozilla-foundation } turuti;
@@ -69,12 +75,34 @@ manifesto-our-commitments = Komitmen Kami
 
 manifesto-if-you-share-this-goal-v2 = Jika anda berkongsi matlamat ini, maklumkan cara kami boleh membantu anda.
 
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+manifesto-we-create-open = Kami bangunkan <a { $github_link }>perisian sumber terbuka</a> agar anda mampu membina menggunakannya.
 
+# Variables:
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+manifesto-we-fund-fellows = Kami <a { $mofo_link }>biayai felo dan inkubator projek</a> yang menyasarkan masa depan dalam talian yang lebih baik.
 
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = Kami <a { $mozai_link }>bangunkan perkakas AI sumber terbuka</a> yang memberikan para pembangun pilihan — dan membantu mereka menjimatkan wang.
 
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = Kami <a { $mozvc_link }>melabur dalam pemula niaga teknologi yang bertanggungjawab</a>.
 
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = Kami <a { $mdc_link }>menguruskan komuniti global</a> demi pertukaran data yang bersifat adil.
 
+# Variables:
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+manifesto-we-host-a-yearly = Kami <a { $festival_link }>menganjurkan perhimpunan global tahunan</a> untuk sesiapa yang membangunkan apa saja demi memacu Manifesto kami ke hadapan.
 
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = Maka, sudah pastinya kami yang membangunkan <a { $firefox_link }>{ -brand-name-firefox }</a> dan <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Ini semua disasarkan untuk membantu lebih ramai orang menjadikan internet sebagai tempat yang lebih selamat.
 
 ## Obsolete strings (expire 2026-09-10)
 
@@ -88,7 +116,6 @@ manifesto-details-the-effectiveness = Keberkesanan internet sebagai sumber awam 
 manifesto-details-free-and-open = Perisian percuma dan sumber terbuka menggalakkan perkembangan internet sebagai sumber awam.
 manifesto-details-commercial-involvement = Penglibatan secara komersial dalam pembangunan internet membawa banyak faedah; keseimbangan keuntungan komersial dan manfaat awam amat kritikal.
 manifesto-details-magnifying-the = Memberi fokus terhadap aspek manfaat awam di internet adalah matlamat yang penting dan ia memerlukan masa, perhatian dan komitmen.
-manifesto-details-there-are-many = Ada banyak cara untuk memajukan prinsip-prinsip Manifesto { -brand-name-mozilla }. Kami mengalu-alukan pelbagai jenis aktiviti, dan menjangkakan daya kreativiti yang sama seperti yang ditunjukkan oleh peserta { -brand-name-mozilla } dalam projek-projek sebelumnya. Bagi individu yang tidak terlalu terbabit dengan projek { -brand-name-mozilla }, asas utama yang boleh menunjukkan tanda sokongan adalah menyokong Manifesto menggunakan { -brand-name-mozilla } { -brand-name-firefox } dan produk-produk lain yang merangkumi prinsip Manifesto.
 manifesto-details-some-foundation-v2 = Beberapa aktiviti Yayasan—seperti pembangunan, pelancaran dan promosi bagi produk pengguna—dijalankan terutamanya melalui anak syarikat milik penuh { -brand-name-mozilla-foundation } iaitu { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Jemputan
 manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } menjemput anda semua yang menyokong prinsip-prinsip Manifesto { -brand-name-mozilla } untuk menyertai kami dan mencari jalan untuk menjadikan visi internet ini satu realiti.

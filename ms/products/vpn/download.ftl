@@ -58,3 +58,4 @@ vpn-download-install-via-apt = Pasang menerusi APT
 vpn-download-flathub = Flathub
 vpn-download-apt = APT
 vpn-download-windows = 64-bit
+vpn-download-windows-arm = ARM
