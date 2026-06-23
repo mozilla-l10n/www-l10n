@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = Maalesef { -brand-name-mozilla-vpn } ül
 vpn-download-for-windows-v2 = { -brand-name-windows } için VPN
 # Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (yalnızca 64 bit)
+vpn-download-for-windows-requirements-v2 = { -brand-name-windows } 10/11
 vpn-download-for-windows-long = { -brand-name-windows } için { -brand-name-mozilla-vpn }’i indir
 vpn-download-for-firefox-extension = { -brand-name-firefox } uzantısını yükle
 vpn-download-for-mac = { -brand-name-mac-short } için VPN
@@ -45,3 +46,5 @@ vpn-download-install-via-flathub = Flathub ile yükle
 vpn-download-install-via-apt = APT ile yükle
 vpn-download-flathub = Flathub
 vpn-download-apt = APT
+vpn-download-windows = 64 bit
+vpn-download-windows-arm = ARM

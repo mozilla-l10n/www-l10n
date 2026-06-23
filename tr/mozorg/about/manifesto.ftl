@@ -28,8 +28,10 @@ manifesto-we-are-committed-to-diverse = Biz, farklılıkları olan topluluk ve g
 manifesto-an-internet-with-these = Böyle bir internet kendi kendine hayat bulamaz. Bireyler ve kurumlar, özlem duyduğumuz bu nitelikleri hem internet teknolojilerine hem de internetteki insan deneyimine yerleştirmelidir. { -brand-name-mozilla } Manifestosu ve Manifesto Eki, { -brand-name-mozilla }’nın bu nitelikleri hayata geçirme sözünü temsil ediyor. { -brand-name-mozilla } olarak biz, interneti herkes için daha iyi bir yere dönüştürmek adına, hedeflerimizi paylaşan tüm insanlar ve kurumlarla işbirliği yapmayı amaçlıyoruz.
 manifesto-details-introduction = Önsöz
 manifesto-details-the-internet-is-becoming = İnternet, yaşamımızın giderek daha önemli bir parçası haline geliyor.
+manifesto-details-the-mozilla-project-global-v2 = { -brand-name-mozilla } Projesi; açıklığın, yenileşimin ve fırsatların, internetin gelişimini sürdürebilmesinin temeli olduğuna inanan insanlardan oluşan küresel bir topluluktur. İnternetin herkese yararı dokunacak şekilde geliştirilmesini sağlamak için 1998’den bu yana birlikte çalışıyoruz. En çok { -brand-name-mozilla } { -brand-name-firefox } web tarayıcısının yaratıcıları olarak tanınıyoruz.
 # Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = { -brand-name-mozilla } projesi; açıklığın, yenileşimin ve fırsatların, internetin gelişimini sürdürebilmesinin temeli olduğuna inanan insanlardan oluşan küresel bir topluluktur. İnternetin herkese yararı dokunacak şekilde geliştirilmesini sağlamak için 1998’den bu yana birlikte çalışıyoruz. En çok { -brand-name-mozilla } { -brand-name-firefox } web tarayıcısının yaratıcıları olarak tanınıyoruz.
+manifesto-details-the-mozilla-project-community-v2 = { -brand-name-mozilla } Projesi, dünya standartlarında açık kaynaklı yazılımlar yaratmak ve yeni işbirliği etkinliği türleri geliştirmek için topluluk temelli bir yaklaşım kullanır. İnternet deneyimini hepimiz için daha iyi hale getirmekle uğraşan topluluklar oluşturuyoruz.
 # Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla } projesi, dünya standartlarında açık kaynaklı yazılımlar yaratmak ve yeni işbirliği etkinliği türleri geliştirmek için topluluk temelli bir yaklaşım kullanır. İnternet deneyimini hepimiz için daha iyi hale getirmekle uğraşan topluluklar oluşturuyoruz.
 manifesto-details-as-a-result-of = Bu çabaların bir sonucu olarak, internetin, hayatın ticari yönlerinin yanı sıra kamu yararını da gözetmeye devam etmesi için kritik öneme sahip olduğunu düşündüğümüz bazı ilkeler geliştirdik. Bu ilkeleri aşağıda sıralıyoruz.
@@ -59,6 +61,8 @@ manifesto-details-build-and-deliver = Manifesto’nun ilkelerini destekleyecek b
 manifesto-details-use-the-mozilla = İnternetin açık bir platform olarak kalmasını sağlamak için { -brand-name-mozilla } varlıklarını (telif hakkı ve ticari marka, altyapı, fonlar ve itibar gibi fikri mülkiyet hakları) kullanacağız,
 manifesto-details-promote-models = kamu yararı için ekonomik değer oluşturmaya yönelik modelleri destekleyeceğiz, ve
 manifesto-details-promote-the-mozilla = { -brand-name-mozilla } Manifestosu ilkelerini halka açık konuşmalarda ve internet endüstrisi içinde öne çıkaracağız.
+manifesto-mozillas-pledge = { -brand-name-mozilla } Andı
+manifesto-our-commitments = Taahhütlerimiz
 
 ## Obsolete strings (expire 2026-09-10)
 
