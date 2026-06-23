@@ -63,6 +63,10 @@ manifesto-details-promote-models = kamu yararı için ekonomik değer oluşturma
 manifesto-details-promote-the-mozilla = { -brand-name-mozilla } Manifestosu ilkelerini halka açık konuşmalarda ve internet endüstrisi içinde öne çıkaracağız.
 manifesto-mozillas-pledge = { -brand-name-mozilla } Andı
 manifesto-our-commitments = Taahhütlerimiz
+manifesto-commitment-1 = 1. taahhüt
+manifesto-commitment-2 = 2. taahhüt
+manifesto-commitment-3 = 3. taahhüt
+manifesto-commitment-4 = 4. taahhüt
 
 ## Obsolete strings (expire 2026-09-10)
 
