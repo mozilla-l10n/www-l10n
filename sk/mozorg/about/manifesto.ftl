@@ -28,6 +28,7 @@ manifesto-we-are-committed-to-diverse = Sme oddaní internetu, ktorý prehlbuje 
 manifesto-an-internet-with-these = Internet s týmito prvkami nevznikne sám od seba. Jednotlivci a organizácie musia tieto vízie začleniť do technológií a do používateľského zážitku. Manifest { -brand-name-mozilla(case: "gen") } a jeho doplnená verzia predstavujú jednoznačný záväzok { -brand-name-mozilla(case: "gen") } sa o takýto internet zasadzovať. Chceme spolupracovať s ľuďmi a organizáciami po celom svete, ktoré zdieľajú naše predstavy o internete.
 manifesto-details-introduction = Úvod
 manifesto-details-the-internet-is-becoming = Internet sa stáva dôležitou časťou našich životov.
+manifesto-details-the-mozilla-project-global-v2 = Projekt { -brand-name-mozilla } je celosvetová komunita ľudí, ktorí veria, že otvorenosť, inovácia a príležitosť sú kľúčom k zlepšujúcemu sa prostrediu na internete. Pracujeme spolu od roku 1998, aby sme si boli istí, že internet sa vyvíja cestou, ktorá vyhovuje všetkým. Sme známi vytvorením webového prehliadača { -brand-name-mozilla } { -brand-name-firefox }.
 # Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Projekt { -brand-name-mozilla } je celosvetová komunita ľudí, ktorí veria, že otvorenosť, inovácia a príležitosť sú kľúčom k zlepšujúcemu sa prostrediu na internete. Pracujeme spolu od roku 1998, aby sme si boli istí, že internet sa vyvíja cestou, ktorá vyhovuje všetkým. Sme známi vytvorením webového prehliadača { -brand-name-mozilla } { -brand-name-firefox }.
 # Obsolete string (expires 2026-09-20)
