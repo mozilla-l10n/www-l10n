@@ -33,6 +33,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Alatan
 footer-refresh-donate = Sumbangan
+footer-refresh-donate-not-for-profit = Sumbang kepada <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, organisasi bukan berasaskan keuntungan.
 # Obsolete string (expires 2026-08-01)
 footer-refresh-visit-mozilla-corporations-v2 = Layari <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> syarikat bukan berasaskan keuntungan, yakni syarikat induk <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Sebahagian daripada kandungan ini ©1998–{ $current_year } oleh penyumbang individu mozilla.org. Kandungan tersedia di bawah <a rel="license" { $href }>lesen { -brand-name-creative-commons }</a>.

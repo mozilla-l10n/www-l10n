@@ -15,6 +15,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } untuk { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } untuk { -brand-name-android }
+footer-donate-not-for-profit = Sumbang kepada <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, organisasi bukan berasaskan keuntungan.
 footer-portions-of-this-content = Sebahagian daripada kandungan ini ©1998–{ $current_year } oleh penyumbang individu mozilla.org. Kandungan tersedia di bawah lesen <a rel="license" href="{ $url }">{ -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Syarikat

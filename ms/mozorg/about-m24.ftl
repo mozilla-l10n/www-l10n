@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } membangunkan pelayar, aplikasi, ko
 
 ## Intro
 
+m24-about-guard-the-internet = Lindungi Internet yang Terbuka
 # Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Tuntut semula internet bersama kami
 m24-about-mozilla-is-working = { -brand-name-mozilla } berusaha untuk memulangkan kawalan internet ke tangan para penggunanya.
