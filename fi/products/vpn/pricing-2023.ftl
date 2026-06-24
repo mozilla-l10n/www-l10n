@@ -44,4 +44,5 @@ vpn-pricing-if-already-subscribed = Jos olet jo tilannut { -brand-name-mozilla-v
 
 ## Mobile only subscription copy
 
+vpn-pricing-sign-up-on-your-mobile-device = Rekisteröidy { -brand-name-mozilla-vpn } -tilaukseen mobiililaitteellasi
 vpn-pricing-download-the-app = Lataa sovellus

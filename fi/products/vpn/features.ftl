@@ -9,6 +9,7 @@ vpn-features-mozilla-vpn = { -brand-name-mozilla-vpn }
 vpn-features-convenient = Kätevä
 vpn-features-see-our-list = Katso palvelinlistamme.
 vpn-features-supported-platforms = Saatavilla Windowsille, Androidille, Linuxille, iOS:lle ja macOS:lle.
+vpn-features-no-bandwidth = Ei kaistanleveyden rajoituksia tai kuristusta
 vpn-features-secure = Turvallinen
 vpn-features-block-ads = Estä mainostajia seuraamasta sinua
 vpn-features-encrypt-your-internet = Salaa kaikki Internet-liikenteesi
