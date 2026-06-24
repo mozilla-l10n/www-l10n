@@ -22,6 +22,8 @@ footer-refresh-youtube = YouTube
 footer-refresh-company = Cég
 footer-refresh-press-center = Sajtóközpont
 footer-refresh-careers = Álláslehetőségek
+# Our "merch" store is an online store which sells Mozilla branded stuff. (Merch is short for merchandise).
+footer-refresh-store = Árubolt
 footer-refresh-contact = Kapcsolat
 footer-refresh-support = Támogatás
 footer-refresh-product-help = Termék súgó

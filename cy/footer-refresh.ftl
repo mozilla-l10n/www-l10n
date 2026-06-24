@@ -22,6 +22,8 @@ footer-refresh-youtube = YouTube
 footer-refresh-company = Cwmni
 footer-refresh-press-center = Canolfan y Wasg
 footer-refresh-careers = Gyrfaoedd
+# Our "merch" store is an online store which sells Mozilla branded stuff. (Merch is short for merchandise).
+footer-refresh-store = Siop Merch
 footer-refresh-contact = Cysylltu
 footer-refresh-support = Cefnogaeth
 footer-refresh-product-help = Cymorth Cynnyrch
