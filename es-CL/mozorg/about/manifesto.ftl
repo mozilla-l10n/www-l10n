@@ -28,8 +28,10 @@ manifesto-we-are-committed-to-diverse = Estamos comprometidos con un internet qu
 manifesto-an-internet-with-these = Un internet con estas cualidades no sucederá por si solo. Las personas y las organizaciones deben incluir estas aspiraciones a la tecnología de internet y a la experiencia humana en internet. El manifiesto y los principios de { -brand-name-mozilla } representan nuestro compromiso para avanzar en estas aspiraciones. Buscamos trabajar junto a personas y organizaciones de todas partes, las que comparten nuestras metas y hacen de internet un mejor lugar para todos.
 manifesto-details-introduction = Introducción
 manifesto-details-the-internet-is-becoming = Internet se ha convertido en una parte cada vez más importante de nuestras vidas.
+manifesto-details-the-mozilla-project-global-v2 = El proyecto { -brand-name-mozilla } es una comunidad mundial de personas que cree que la apertura, la innovación y la oportunidad son fundamentales para la salud de internet. Desde 1998 hemos trabajado juntos para asegurar que Internet sea desarrollada en beneficio de la sociedad. Principalmente somos conocidos por haber creado el navegador web { -brand-name-mozilla } { -brand-name-firefox }.
 # Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = El proyecto { -brand-name-mozilla } es una comunidad mundial de personas que cree que la apertura, la innovación y la oportunidad son fundamentales para la salud de internet. Desde 1998 hemos trabajado juntos para asegurar que Internet sea desarrollada en beneficio de la sociedad. Principalmente somos conocidos por haber creado el navegador web { -brand-name-mozilla } { -brand-name-firefox }.
+manifesto-details-the-mozilla-project-community-v2 = El proyecto { -brand-name-mozilla } tiene una forma de trabajo basada en la comunidad con la que crea software de código abierto de primera calidad y desarrolla nuevas clases de actividades colaborativas. Creamos comunidades de personas dedicadas a lograr una mejor experiencia en Internet para todos.
 # Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = El proyecto { -brand-name-mozilla } tiene una forma de trabajo basada en la comunidad con la que crea software de código abierto de primera calidad y desarrolla nuevas clases de actividades colaborativas. Creamos comunidades de personas dedicadas a lograr una mejor experiencia en Internet para todos.
 manifesto-details-as-a-result-of = Como resultado de estos esfuerzos, hemos elaborado algunos principios que consideramos fundamentales para que Internet continúe beneficiando tanto al bien público como a los aspectos comerciales de la vida. A continuación enumeramos estos principios.
@@ -65,6 +67,10 @@ manifesto-across-the-mozilla-project = En todo el Proyecto { -brand-name-mozilla
 manifesto-we-need-you = Te necesitamos para impulsar el manifiesto
 manifesto-an-internet-with-these-v2 = Un internet con estas cualidades no sucederá por si solo. Las personas y las organizaciones deben incluir estas aspiraciones a la tecnología de internet y a la experiencia humana en internet. El Manifiesto y los principios de { -brand-name-mozilla } representan nuestro compromiso para avanzar en estas aspiraciones. { -brand-name-mozilla } trabaja con personas y organizaciones de todas partes, las que quieren hacer de Internet un mejor lugar para todos.
 manifesto-our-commitments = Nuestros compromisos
+manifesto-commitment-1 = Compromiso 1
+manifesto-commitment-2 = Compromiso 2
+manifesto-commitment-3 = Compromiso 3
+manifesto-commitment-4 = Compromiso 4
 manifesto-if-you-share-this-goal-v2 = Si compartes este objetivo, dinos cómo podemos ayudarte.
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla
