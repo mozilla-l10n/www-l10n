@@ -105,6 +105,10 @@
 -brand-name-firefox-os = Firefox OS
 -brand-name-firefox-private-network = Firefox Private Network
 
+## Firefox projects
+
+-brand-name-firefox-labs = Firefox Labs
+
 ## Pocket
 
 -brand-name-pocket = Pocket
