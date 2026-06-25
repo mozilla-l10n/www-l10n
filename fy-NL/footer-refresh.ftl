@@ -22,6 +22,8 @@ footer-refresh-youtube = YouTube
 footer-refresh-company = Bedriuw
 footer-refresh-press-center = Parsesintrum
 footer-refresh-careers = Karriêren
+# Our "merch" store is an online store which sells Mozilla branded stuff. (Merch is short for merchandise).
+footer-refresh-store = Merchandise
 footer-refresh-contact = Kontakt
 footer-refresh-support = Stipe
 footer-refresh-product-help = Produkthelp
