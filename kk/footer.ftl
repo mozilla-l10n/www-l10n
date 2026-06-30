@@ -14,6 +14,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-android } үшін { -brand-name-nightly }
 footer-beta-for-android = { -brand-name-android } үшін { -brand-name-beta }
+footer-donate-not-for-profit = Коммерциялық емес <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> ұйымына демеушілік етіңіз.
 footer-portions-of-this-content = Бұл мазмұнның кейбір бөліктері ©1998–{ $current_year } жекелеген mozilla.org үлес қосушыларына тиесілі. Мазмұн <a rel="license" href="{ $url }">{ -brand-name-creative-commons } лицензиясы</a> бойынша қолжетімді.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Компания

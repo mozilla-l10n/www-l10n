@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = Кешіріңіз, { -brand-name-mozill
 vpn-download-for-windows-v2 = { -brand-name-windows } үшін VPN
 # Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (тек 64-биттік)
+vpn-download-for-windows-requirements-v2 = { -brand-name-windows } 10/11
 vpn-download-for-windows-long = { -brand-name-windows } үшін { -brand-name-mozilla-vpn } жүктеп алу
 vpn-download-for-firefox-extension = { -brand-name-firefox } кеңейтуін орнату
 vpn-download-for-mac = { -brand-name-mac-short } үшін VPN
@@ -45,3 +46,5 @@ vpn-download-install-via-flathub = Flathub арқылы орнату
 vpn-download-install-via-apt = APT арқылы орнату
 vpn-download-flathub = Flathub
 vpn-download-apt = APT
+vpn-download-windows = 64-биттік
+vpn-download-windows-arm = ARM
