@@ -30,10 +30,12 @@ manifesto-we-are-committed-to-diverse = Kami komited kepada internet yang menjad
 manifesto-an-internet-with-these = Internet yang sedemikian kualitinya tidak akan wujud dengan sendiri. Individu dan organisasi wajib menanam aspirasi ini kepada teknologi internet serta ke dalam pengalaman manusia dengan internet. Manifesto dan Adendum { -brand-name-mozilla } ini mewakili komitmen { -brand-name-mozilla } untuk membawa aspirasi ini ke hadapan. Matlamat kami adalah bekerjasama dengan individu dan organisasi di mana saja yang berkongsi matlamat ini untuk menjadikan internet sebuah tempat yang baik untuk semua.
 manifesto-details-introduction = Pengenalan
 manifesto-details-the-internet-is-becoming = Internet kini menjadi sebahagian daripada kehidupan kita.
+manifesto-details-the-mozilla-project-global-v2 = Projek { -brand-name-mozilla } adalah komuniti global yang percaya bahawa keterbukaan, inovasi, dan peluang adalah kunci kepada kesihatan internet yang berterusan. Kami telah bekerjasama sejak 1998 bagi memastikan internet dibangunkan dengan cara yang memberi faedah kepada semua orang. Kami paling dikenali sebagai pereka pelayar web{ -brand-name-mozilla } { -brand-name-firefox }.
 
 # Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Projek { -brand-name-mozilla } adalah komuniti global yang percaya bahawa keterbukaan, inovasi, dan peluang adalah kunci kepada kesihatan internet yang berterusan. Kami telah bekerjasama sejak 1998 bagi memastikan internet dibangunkan dengan cara yang memberi faedah kepada semua orang. Kami paling dikenali sebagai pereka pelayar web{ -brand-name-mozilla } { -brand-name-firefox }.
 
+manifesto-details-the-mozilla-project-community-v2 = Projek { -brand-name-mozilla } menggunakan pendekatan berasaskan komuniti bagi mencipta perisian sumber terbuka bertaraf dunia serta membangunkan aktiviti kerjasama yang baru. Kami mengasaskan komuniti yang terlibat dalam menjadikan pengalaman internet lebih baik untuk kita semua.
 
 # Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = Projek { -brand-name-mozilla } menggunakan pendekatan berasaskan komuniti bagi mencipta perisian sumber terbuka bertaraf dunia serta membangunkan aktiviti kerjasama yang baru. Kami mengasaskan komuniti yang terlibat dalam menjadikan pengalaman internet lebih baik untuk kita semua.
@@ -72,6 +74,10 @@ manifesto-across-the-mozilla-project = Kami berikrar untuk menyokong Manifesto {
 manifesto-we-need-you = Kami Perlukan Anda Untuk Memajukan Manifesto Ini
 manifesto-an-internet-with-these-v2 = Internet yang sedemikian kualitinya tidak akan wujud dengan sendiri. Insan dan organisasi perlu menanam aspirasi sebegini ke dalam teknologi internet serta pengalaman manusia menggunakan internet. Manifesto dan Adendum { -brand-name-mozilla } ini mewakili komitmen { -brand-name-mozilla } untuk membawa aspirasi ini ke hadapan. { -brand-name-mozilla } bekerjasama dengan mana-mana insan dan organisasi yang mahu menjadikan internet lebih baik untuk semua orang.
 manifesto-our-commitments = Komitmen Kami
+manifesto-commitment-1 = Komitmen 1
+manifesto-commitment-2 = Komitmen 2
+manifesto-commitment-3 = Komitmen 3
+manifesto-commitment-4 = Komitmen 4
 
 manifesto-if-you-share-this-goal-v2 = Jika anda berkongsi matlamat ini, maklumkan cara kami boleh membantu anda.
 
@@ -116,6 +122,7 @@ manifesto-details-the-effectiveness = Keberkesanan internet sebagai sumber awam 
 manifesto-details-free-and-open = Perisian percuma dan sumber terbuka menggalakkan perkembangan internet sebagai sumber awam.
 manifesto-details-commercial-involvement = Penglibatan secara komersial dalam pembangunan internet membawa banyak faedah; keseimbangan keuntungan komersial dan manfaat awam amat kritikal.
 manifesto-details-magnifying-the = Memberi fokus terhadap aspek manfaat awam di internet adalah matlamat yang penting dan ia memerlukan masa, perhatian dan komitmen.
+manifesto-details-there-are-many = Ada banyak cara untuk memajukan prinsip-prinsip Manifesto { -brand-name-mozilla }. Kami mengalu-alukan pelbagai jenis aktiviti, dan menjangkakan daya kreativiti yang sama seperti yang ditunjukkan oleh peserta { -brand-name-mozilla } dalam projek-projek sebelumnya. Bagi individu yang tidak terlalu terbabit dengan Projek { -brand-name-mozilla }, asas utama yang boleh menunjukkan tanda sokongan adalah menyokong Manifesto menggunakan { -brand-name-mozilla } { -brand-name-firefox } dan produk-produk lain yang merangkumi prinsip Manifesto.
 manifesto-details-some-foundation-v2 = Beberapa aktiviti Yayasan—seperti pembangunan, pelancaran dan promosi bagi produk pengguna—dijalankan terutamanya melalui anak syarikat milik penuh { -brand-name-mozilla-foundation } iaitu { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Jemputan
 manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } menjemput anda semua yang menyokong prinsip-prinsip Manifesto { -brand-name-mozilla } untuk menyertai kami dan mencari jalan untuk menjadikan visi internet ini satu realiti.
