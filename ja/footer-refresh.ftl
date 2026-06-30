@@ -22,6 +22,8 @@ footer-refresh-youtube = YouTube
 footer-refresh-company = 会社
 footer-refresh-press-center = プレスセンター
 footer-refresh-careers = 採用情報
+# Our "merch" store is an online store which sells Mozilla branded stuff. (Merch is short for merchandise).
+footer-refresh-store = グッズストア
 footer-refresh-contact = お問い合わせ
 footer-refresh-support = サポート
 footer-refresh-product-help = 製品ヘルプ

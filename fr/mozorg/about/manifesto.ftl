@@ -30,10 +30,12 @@ manifesto-we-are-committed-to-diverse = Nous nous engageons en faveur d’un Int
 manifesto-an-internet-with-these = Un Internet avec ces qualités ne pourra pas voir le jour tout seul. Des individus et des organisations devront intégrer ces aspirations au cœur des technologies d’Internet et dans les relations qu’entretiennent les êtres humains avec Internet. Le Manifeste de { -brand-name-mozilla } et son complément témoignent de l'engagement de { -brand-name-mozilla } à promouvoir ces aspirations. Notre objectif est de travailler avec les personnes et les organisations qui partagent ces objectifs pour faire d’Internet un endroit encore plus agréable pour tout le monde.
 manifesto-details-introduction = Introduction
 manifesto-details-the-internet-is-becoming = Internet tient une place de plus en plus importante dans nos vies.
+manifesto-details-the-mozilla-project-global-v2 = Le projet { -brand-name-mozilla } est une communauté mondiale de personnes qui pensent que l’ouverture, l’innovation et la saisie des chances qui nous sont offertes sont les clés de la vitalité d’Internet. Nous travaillons ensemble depuis 1998 pour nous assurer qu’Internet se développe d’une manière qui bénéficie à tout le monde. On nous connaît surtout pour la création du navigateur web { -brand-name-mozilla } { -brand-name-firefox }.
 
 # Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Le projet { -brand-name-mozilla } est une communauté mondiale de personnes qui pensent que l’ouverture, l’innovation et la saisie des chances qui nous sont offertes sont les clés de la vitalité d’Internet. Nous travaillons ensemble depuis 1998 pour nous assurer qu’Internet se développe d’une manière qui bénéficie à tout le monde. On nous connaît surtout pour la création du navigateur web { -brand-name-mozilla } { -brand-name-firefox }.
 
+manifesto-details-the-mozilla-project-community-v2 = Le Projet { -brand-name-mozilla } utilise une approche communautaire pour créer un logiciel open source d’envergure mondiale et pour développer de nouveaux types d’activités collaboratives. Nous créons des communautés qui s’impliquent pour rendre l’utilisation d’Internet meilleure pour chacun de nous.
 
 # Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = Le Projet { -brand-name-mozilla } utilise une approche communautaire pour créer un logiciel libre d’envergure mondiale et pour développer de nouveaux types d’activités collaboratives. Nous créons des communautés qui s’impliquent pour rendre l’utilisation d’Internet meilleure pour chacun de nous.
@@ -72,6 +74,10 @@ manifesto-across-the-mozilla-project = L’intégralité du projet { -brand-name
 manifesto-we-need-you = Nous avons besoin de vous pour promouvoir le Manifeste.
 manifesto-an-internet-with-these-v2 = Un Internet avec ces qualités ne pourra pas voir le jour tout seul. Des individus et des organisations devront intégrer ces aspirations au cœur des technologies d’Internet et dans les relations qu’entretiennent les êtres humains avec Internet. Le Manifeste { -brand-name-mozilla } et son complément témoignent de l’engagement de { -brand-name-mozilla } à promouvoir ces aspirations. { -brand-name-mozilla } collabore avec des individus et des organisations du monde entier qui souhaitent faire d’Internet un endroit encore plus agréable pour tout le monde.
 manifesto-our-commitments = Nos engagements
+manifesto-commitment-1 = Engagement nᵒ 1
+manifesto-commitment-2 = Engagement nᵒ 2
+manifesto-commitment-3 = Engagement nᵒ 3
+manifesto-commitment-4 = Engagement nᵒ 4
 
 manifesto-if-you-share-this-goal-v2 = Si vous partagez cet objectif, dites-nous comment nous pouvons vous aider.
 
@@ -116,6 +122,7 @@ manifesto-details-the-effectiveness = La réalité d’Internet en tant que ress
 manifesto-details-free-and-open = Les logiciels libres et open source favorisent le développement d’Internet comme ressource publique.
 manifesto-details-commercial-involvement = L’investissement commercial dans le développement d’Internet apporte de nombreux bénéfices ; un équilibre entre les bénéfices commerciaux et l’intérêt public est crucial.
 manifesto-details-magnifying-the = Étendre et diffuser les bénéfices d’Internet pour tous, voilà un objectif important qui mérite qu’on s’y implique en y consacrant du temps et de l’énergie.
+manifesto-details-there-are-many = Il existe de nombreuses manières différentes de promouvoir les principes du Manifeste { -brand-name-mozilla }. Nous accueillons avec plaisir un large éventail d’initiatives ainsi que la même créativité que celle dont ont fait preuve toutes les personnes ayant pris part aux différents autres aspects du projet { -brand-name-mozilla }. Pour les personnes qui ne sont pas fortement impliquées dans le projet { -brand-name-mozilla }, une manière simple et très efficace de soutenir le Manifeste est d’utiliser { -brand-name-mozilla } { -brand-name-firefox } ou d’autres logiciels qui répondent aux principes du Manifeste.
 manifesto-details-some-foundation-v2 = Certaines activités de la Fondation — actuellement la création, la livraison et la promotion de logiciels — sont effectuées via la { -brand-name-mozilla-corporation }, une filiale entièrement détenue par la { -brand-name-mozilla-foundation }.
 manifesto-details-invitation = Invitation
 manifesto-details-the-mozilla-foundation-invites-v2 = La { -brand-name-mozilla-foundation } invite toutes celles et tous ceux qui soutiennent les principes du Manifeste { -brand-name-mozilla } à nous rejoindre et à trouver de nouveaux moyens pour faire de cette vision d’Internet une réalité.

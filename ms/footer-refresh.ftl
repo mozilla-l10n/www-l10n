@@ -22,6 +22,8 @@ footer-refresh-youtube = YouTube
 footer-refresh-company = Syarikat
 footer-refresh-press-center = Pusat Berita
 footer-refresh-careers = Kerjaya
+# Our "merch" store is an online store which sells Mozilla branded stuff. (Merch is short for merchandise).
+footer-refresh-store = Kedai Barangan
 footer-refresh-contact = Hubungan
 footer-refresh-support = Bantuan
 footer-refresh-product-help = Bantuan Produk
