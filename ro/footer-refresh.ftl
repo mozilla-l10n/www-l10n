@@ -22,6 +22,8 @@ footer-refresh-youtube = YouTube
 footer-refresh-company = Companie
 footer-refresh-press-center = Centrul de presă
 footer-refresh-careers = Cariere
+# Our "merch" store is an online store which sells Mozilla branded stuff. (Merch is short for merchandise).
+footer-refresh-store = Magazin de produse
 footer-refresh-contact = Contact
 footer-refresh-support = Asistență
 footer-refresh-product-help = Asistență pentru produse
@@ -33,6 +35,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Instrumente
 footer-refresh-donate = Donează
+footer-refresh-donate-not-for-profit = Donează către organizația non-profit <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 # Obsolete string (expires 2026-08-01)
 footer-refresh-visit-mozilla-corporations-v2 = Vezi compania-mamă a <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, tot o organizație non-profit - <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Porțiuni din acest conținut sunt ©1998–{ $current_year } de colaboratori individuali mozilla.org. Conținut disponibil sub o licență <a rel="license" { $href }>{ -brand-name-creative-commons }</a>.

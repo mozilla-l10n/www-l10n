@@ -14,6 +14,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } pentru { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } pentru { -brand-name-android }
+footer-donate-not-for-profit = Donează către organizația non-profit <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Porțiuni din acest conținut sunt ©1998–{ $current_year } de colaboratori individuali mozilla.org. Conținut disponibil sub o <a rel="license" href="{ $url }">licență { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Companie
