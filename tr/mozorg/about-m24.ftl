@@ -24,7 +24,7 @@ m24-about-read-our-manifesto = Manifestomuzu okuyun
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Yerde daire şeklinde oturmuş fikir alışverişi yapan bir grup insan.
 m24-about-advocate = Savunma
-m24-about-we-advocate-for = Daha iyi ürünleri savunuyor, hükümetlerin ve teknoloji şirketlerini yarattıklarını sorguluyoruz.
+m24-about-we-advocate-for = Daha iyi ürünleri savunuyor, hükümetlerin ve teknoloji şirketlerinin yarattıklarını sorguluyoruz.
 m24-about-research = Araştırma
 m24-about-we-uncover-insights = İçgörüleri ortaya çıkarıyor, ürünleri iyileştiren kampanyalar yürütüyor ve çıkarlarınızı koruyan politikalar geliştiriyoruz.
 m24-about-build = Geliştirme
