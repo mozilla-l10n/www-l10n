@@ -28,8 +28,10 @@ manifesto-we-are-committed-to-diverse = Suntem dedicați unui internet cu rol de
 manifesto-an-internet-with-these = Un internet cu aceste calități nu va veni de la sine. Oamenii și organizațiile trebuie să încorporeze aceste aspirații în tehnologia internetului și în experiențele oamenilor pe internet. Manifestul nostru și Actul adițional la acesta reprezintă angajamentul { -brand-name-mozilla } de avansare a acestor aspirații. Dorim să lucrăm cu oameni și organizații de pretutindeni care împărtășesc aceste obiective pentru a face internetul mai bun pentru toți.
 manifesto-details-introduction = Introducere
 manifesto-details-the-internet-is-becoming = Internetul devine o parte din ce în ce mai importantă a vieților noastre.
+manifesto-details-the-mozilla-project-global-v2 = Proiectul { -brand-name-mozilla } reprezintă o comunitate globală de oameni care cred că deschiderea, inovația și oportunitățile sunt esențiale pentru menținerea sănătății internetului. Lucrăm din 1998 pentru a ne asigura că internetul se dezvoltă într-o direcție benefică tuturor. Suntem cunoscuți cel mai bine pentru crearea browserului { -brand-name-mozilla } { -brand-name-firefox }.
 # Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Proiectul { -brand-name-mozilla } reprezintă o comunitate globală de oameni care cred că deschiderea, inovația și oportunitățile sunt esențiale pentru menținerea sănătății internetului. Lucrăm din 1998 pentru a ne asigura că internetul se dezvoltă într-o direcție benefică tuturor. Suntem cunoscuți cel mai bine pentru crearea browserului { -brand-name-firefox }.
+manifesto-details-the-mozilla-project-community-v2 = Proiectul { -brand-name-mozilla } folosește o abordare bazată pe comunitate pentru crearea de programe de talie mondială cu sursă deschisă și pentru dezvoltarea unor tipuri noi de activități colaborative. Creăm comunități care se implică în îmbunătățirea experienței pe internet pentru toți.
 # Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = Proiectul { -brand-name-mozilla } folosește o abordare bazată pe comunitate pentru a crea programe de talie mondială cu sursă deschisă și pentru a dezvolta tipuri noi de activități colaborative. Creăm comunități care se implică în îmbunătățirea experienței pe internet pentru toți.
 manifesto-details-as-a-result-of = În urma acestor eforturi, am conceput un set de principii pe care le considerăm ca fiind critice pentru ca internetul să continue să deservească în aceeași măsură binele public și aspectele comerciale ale vieții. Le enunțăm aici mai jos.
@@ -65,8 +67,33 @@ manifesto-across-the-mozilla-project = În cadrul Proiectului { -brand-name-mozi
 manifesto-we-need-you = Avem nevoie de tine pentru a promova Manifestul
 manifesto-an-internet-with-these-v2 = Un internet cu aceste calități nu va apărea de la sine. Oamenii și organizațiile trebuie să înglobeze aceste aspirații în tehnologia internetului și în experiența umană cu internetul. Manifestul { -brand-name-mozilla } și Anexa la el reprezintă angajamentul { -brand-name-mozilla } pentru promovarea acestor aspirații. { -brand-name-mozilla } lucrează cu oameni și organizații de pretutindeni care vor să facă internetul un mediu și mai bun pentru toți.
 manifesto-our-commitments = Angajamentele noastre
+manifesto-commitment-1 = Angajament 1
+manifesto-commitment-2 = Angajament 2
 manifesto-commitment-3 = Angajament 3
 manifesto-commitment-4 = Angajament 4
+manifesto-if-you-share-this-goal-v2 = Dacă împărtășești acest obiectiv, spune-ne cum te putem ajuta.
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+manifesto-we-create-open = Creăm <a { $github_link }>software cu sursă deschisă</a> pe care poți construi.
+# Variables:
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+manifesto-we-fund-fellows = <a { $mofo_link }>Finanțăm colegi și incubăm proiecte</a> care vizează crearea unui viitor online mai bun.
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = <a { $mozai_link }>Construim instrumente AI cu sursă deschisă</a> care oferă dezvoltatorilor opțiuni și îi ajută să economisească bani.
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = <a { $mozvc_link }>Investim în startup-uri tehnologice responsabile</a>.
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = <a { $mdc_link }>Conducem o comunitate globală</a> pentru schimb echitabil de date.
+# Variables:
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+manifesto-we-host-a-yearly = <a { $festival_link }>Organizăm anual o întâlnire globală</a> pentru cei care construiesc orice și orice altceva pentru a promova Manifestul.
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = Și, bineînțeles, creăm <a { $firefox_link }>{ -brand-name-firefox }</a> și <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Toate au scopul de a ajuta oamenii să facă din internet un loc mai sănătos.
 
 ## Obsolete strings (expire 2026-09-10)
 

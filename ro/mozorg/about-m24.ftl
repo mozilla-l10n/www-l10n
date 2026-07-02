@@ -28,6 +28,9 @@ m24-about-we-advocate-for = Pledăm pentru produse mai bune, trăgând guvernele
 m24-about-research = Cercetare
 m24-about-we-uncover-insights = Descoperim perspective interne, derulăm campanii pentru îmbunătățirea produselor și promovăm politici care îți reprezintă interesele.
 m24-about-build = Dezvoltare
+m24-about-we-build-products-v2 = Dezvoltăm produse care îți oferă controlul — cum ar fi { -brand-name-firefox } și multe altele.
+m24-about-fund = Finanțare
+m24-about-we-fund-and = Finanțăm și investim în oamenii și eforturile care duc tehnologia, internetul și inteligența artificială în direcția corectă.
 
 ## News
 
