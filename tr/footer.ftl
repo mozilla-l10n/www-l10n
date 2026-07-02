@@ -14,7 +14,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-android } için { -brand-name-nightly }
 footer-beta-for-android = { -brand-name-android } için { -brand-name-beta }
-footer-donate-not-for-profit = Kâr amacı gütmeyen <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>’a bağış yapın.
+footer-donate-not-for-profit = Kâr amacı gütmeyen <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>na bağış yapın.
 footer-portions-of-this-content = Bu içeriğin bazı kısımları ©1998–{ $current_year } bireysel mozilla.org yazarları. İçerik <a rel="license" href="{ $url }">{ -brand-name-creative-commons } lisansı</a> ile sunulmaktadır.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Şirket

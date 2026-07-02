@@ -33,7 +33,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Araçlar
 footer-refresh-donate = Bağış yapın
-footer-refresh-donate-not-for-profit = Kâr amacı gütmeyen <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>’a bağış yapın.
+footer-refresh-donate-not-for-profit = Kâr amacı gütmeyen <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>na bağış yapın.
 # Obsolete string (expires 2026-08-01)
 footer-refresh-visit-mozilla-corporations-v2 = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>’ın kâr amacı gütmeyen üst kuruluşu <a { $mofo_link }>{ -brand-name-mozilla-foundation }nı</a> ziyaret edin.
 footer-refresh-portions-of-this-content = ©1998–{ $current_year } Bu içeriğin bazı kısımları bireysel mozilla.org yazarlarına aittir. Bu içerik <a rel="license" { $href }>{ -brand-name-creative-commons } lisansı</a> ile sunulmaktadır.
