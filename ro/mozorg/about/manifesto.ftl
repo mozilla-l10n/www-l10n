@@ -65,6 +65,8 @@ manifesto-across-the-mozilla-project = În cadrul Proiectului { -brand-name-mozi
 manifesto-we-need-you = Avem nevoie de tine pentru a promova Manifestul
 manifesto-an-internet-with-these-v2 = Un internet cu aceste calități nu va apărea de la sine. Oamenii și organizațiile trebuie să înglobeze aceste aspirații în tehnologia internetului și în experiența umană cu internetul. Manifestul { -brand-name-mozilla } și Anexa la el reprezintă angajamentul { -brand-name-mozilla } pentru promovarea acestor aspirații. { -brand-name-mozilla } lucrează cu oameni și organizații de pretutindeni care vor să facă internetul un mediu și mai bun pentru toți.
 manifesto-our-commitments = Angajamentele noastre
+manifesto-commitment-3 = Angajament 3
+manifesto-commitment-4 = Angajament 4
 
 ## Obsolete strings (expire 2026-09-10)
 

@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = Ne pare rău, dar { -brand-name-mozilla-
 vpn-download-for-windows-v2 = VPN pentru { -brand-name-windows }
 # Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (numai pe 64 de biți)
+vpn-download-for-windows-requirements-v2 = { -brand-name-windows } 10/11
 vpn-download-for-windows-long = Descarcă { -brand-name-mozilla-vpn } pentru { -brand-name-windows }
 vpn-download-for-firefox-extension = Instalează extensia { -brand-name-firefox }
 vpn-download-for-mac = VPN pentru { -brand-name-mac-short }
@@ -45,3 +46,5 @@ vpn-download-install-via-flathub = Instalare prin Flathub
 vpn-download-install-via-apt = Instalare prin APT
 vpn-download-flathub = Flathub
 vpn-download-apt = APT
+vpn-download-windows = 64 de biți
+vpn-download-windows-arm = ARM
