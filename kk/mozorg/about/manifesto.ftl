@@ -67,6 +67,10 @@ manifesto-across-the-mozilla-project = { -brand-name-mozilla } жобасы ме
 manifesto-we-need-you = Манифесті ілгерілету үшін сіз керексіз
 manifesto-an-internet-with-these-v2 = Мұндай қасиеттері бар интернет өздігінен пайда болмайды. Адамдар мен ұйымдар бұл ұмтылыстарды интернет технологиясына және адамның интернетпен жұмыс істеу тәжірибесіне енгізуі керек. { -brand-name-mozilla } Манифесі мен оған қосымша { -brand-name-mozilla } ұйымының осы ұмтылыстарды ілгерілетуге деген адалдығын көрсетеді. { -brand-name-mozilla } интернетті барлығы үшін бұдан да жақсырақ орынға айналдырғысы келетін барлық жердегі адамдармен және ұйымдармен бірге жұмыс істейді.
 manifesto-our-commitments = Біздің міндеттемелеріміз
+manifesto-commitment-1 = 1-міндеттеме
+manifesto-commitment-2 = 2-міндеттеме
+manifesto-commitment-3 = 3-міндеттеме
+manifesto-commitment-4 = 4-міндеттеме
 manifesto-if-you-share-this-goal-v2 = Егер сіз осы мақсатты бөліссеңіз, біз қалай көмектесе алатынымызды айтыңыз.
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla
@@ -86,6 +90,10 @@ manifesto-we-run-a-global = Біз әділ түрде деректер алма
 # Variables:
 #   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
 manifesto-we-host-a-yearly = Біз Манифестті ілгерілету үшін кез келген нәрсені жасайтын адамдар үшін <a { $festival_link }>жыл сайынғы глобалды жиын өткіземіз</a>.
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = Және, әрине, біз <a { $firefox_link }>{ -brand-name-firefox } пен <a { $thunderbird_link }>{ -brand-name-thunderbird } жасаймыз. Мұның бәрі адамдарға интернетті салауатты орынға айналдыруға көмектесуге бағытталған.
 
 ## Obsolete strings (expire 2026-09-10)
 
