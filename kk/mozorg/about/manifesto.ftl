@@ -71,6 +71,21 @@ manifesto-if-you-share-this-goal-v2 = Егер сіз осы мақсатты б
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla
 manifesto-we-create-open = Сіз негіз ретінде алып, құрастыра алатын <a { $github_link }>бастапқы кодтары ашық бағдарламалық қамтаманы</a> жасаймыз.
+# Variables:
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+manifesto-we-fund-fellows = Біз желіде жақсырақ болашақ құруға бағытталған <a { $mofo_link }> зерттеушілерді қаржыландырамыз және жобаларды инкубациялаймыз</a>.
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = Әзірлеушілерге таңдау беретін және олардың ақшасын үнемдеуге көмектесетін <a { $mozai_link }>бастапқы коды ашық ЖИ құралдарын жасаймыз</a>.
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = Біз <a { $mozvc_link }>жауапты технологиялық стартаптарға инвестиция саламыз</a>.
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = Біз әділ түрде деректер алмасу үшін <a { $mdc_link }>глобалды қауымдастықты</a> басқарамыз.
+# Variables:
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+manifesto-we-host-a-yearly = Біз Манифестті ілгерілету үшін кез келген нәрсені жасайтын адамдар үшін <a { $festival_link }>жыл сайынғы глобалды жиын өткіземіз</a>.
 
 ## Obsolete strings (expire 2026-09-10)
 
