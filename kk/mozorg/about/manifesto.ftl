@@ -93,7 +93,7 @@ manifesto-we-host-a-yearly = Біз Манифестті ілгерілету ү
 # Variables:
 #   $firefox_link (url) - link to https://www.firefox.com/
 #   $thunderbird_link (url) - link to https://www.thunderbird.net/
-manifesto-we-make-firefox-and-thunderbird = Және, әрине, біз <a { $firefox_link }>{ -brand-name-firefox } пен <a { $thunderbird_link }>{ -brand-name-thunderbird } жасаймыз. Мұның бәрі адамдарға интернетті салауатты орынға айналдыруға көмектесуге бағытталған.
+manifesto-we-make-firefox-and-thunderbird = Және, әрине, біз <a { $firefox_link }>{ -brand-name-firefox }</a> пен <a { $thunderbird_link }>{ -brand-name-thunderbird }</a> жасаймыз. Мұның бәрі адамдарға интернетті салауатты орынға айналдыруға көмектесуге бағытталған.
 
 ## Obsolete strings (expire 2026-09-10)
 
