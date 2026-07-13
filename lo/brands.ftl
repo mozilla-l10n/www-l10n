@@ -95,6 +95,7 @@
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
 -brand-name-irl-podcast = IRL Podcast
+-brand-name-solo = Solo
 -brand-name-solo-ai = AI ດ່ຽວ
 -brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
@@ -111,6 +112,7 @@
 -brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
+-brand-name-thundermail = ທັນເດີເມລ
 
 ## Mozilla projects (short names)
 
