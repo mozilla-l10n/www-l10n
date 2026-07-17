@@ -12,7 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } vytváří prohlížeče, aplikace
 
 ## Intro
 
-m24-about-guard-the-internet = Hlídejte otevřený internet
+m24-about-guard-the-internet = Hlídáme otevřený internet
 # Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Vezměte si s námi internet zpět
 m24-about-mozilla-is-working = { -brand-name-mozilla } se snaží vrátit kontrolu nad internetem zpět do rukou lidí, kteří ho používají.
@@ -26,7 +26,7 @@ m24-about-a-group-of = Skupina myslitelů sedících v kruhu na podlaze a sdíle
 m24-about-advocate = Zasazujeme se
 m24-about-we-advocate-for = Zasazujeme se o lepší produkty a požadujeme, aby vlády a technologické společnosti nesly odpovědnost za to, co vytvářejí.
 m24-about-research = Zkoumáme
-m24-about-we-uncover-insights = Zjišťujeme poznatky, vedeme kampaně na zlepšení produktů a prosazujeme zásady, které zastupují vaše zájmy.
+m24-about-we-uncover-insights = Získáváme nové poznatky, organizujeme kampaně za zlepšení produktů a prosazujeme opatření, která hájí vaše zájmy.
 m24-about-build = Budujeme
 m24-about-we-build-products-v2 = Vytváříme produkty, které kladou kontrolu do vašich rukou – jako je { -brand-name-firefox } aj.
 m24-about-fund = Podporujeme
