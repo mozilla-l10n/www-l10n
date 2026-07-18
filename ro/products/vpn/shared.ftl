@@ -64,7 +64,7 @@ vpn-press-as-seen-in = Cum se vede în
 # Variables
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
 vpn-press-mozillas-vpn-can-also-integrate-into = „VPN-ul { -brand-name-mozilla } poate și <a { $attrs }>integra unele funcționalități elegante de protecție a confidențialității</a> din browserul { -brand-name-firefox }.”
-vpn-press-unique-features-like-its-multi-account = „…funcționalități unice, precum containerele multicont, pot face funcția accesibilă utilizatorilor cu îngrijorări mai grave privind confidențialitatea.”
+vpn-press-unique-features-like-its-multi-account = „…funcționalități unice, precum Multi-Account Containers (containerele multicont), pot face funcționalitatea accesibilă utilizatorilor cu îngrijorări mai ridicate privind confidențialitatea.”
 vpn-press-mozilla-vpns-feature-list-has-grown = „Lista de funcționalități din { -brand-name-mozilla-vpn } a crescut considerabil de la lansare și acum serviciul bate multe VPN-uri specializate în anumite zone.”
 
 ## Unsupported language notification
