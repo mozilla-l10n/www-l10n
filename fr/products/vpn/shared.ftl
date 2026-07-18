@@ -71,7 +71,7 @@ vpn-subnav-features = Fonctionnalités
 ## Press quotations
 
 # Section title for press quotations about Mozilla VPN
-vpn-press-as-seen-in = Vu dans 
+vpn-press-as-seen-in = Vu dans
 
 # Variables
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
