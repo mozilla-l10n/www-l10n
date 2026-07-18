@@ -83,13 +83,13 @@ manifesto-we-fund-fellows = 더 나은 온라인 미래를 만들기 위해 <a {
 manifesto-we-build-open-source = 개발자에게 선택권을 주고 비용을 절약할 수 있는 <a { $mozai_link }>오픈 소스 AI 도구</a>를 만듭니다.
 # Variables:
 #   $mozvc_link (url) - link to https://mozilla.vc
-manifesto-we-invest-in = 우리는 <a { $mozVC_link }> 책임 있는 기술 스타트업에 투자</a>합니다.
+manifesto-we-invest-in = 우리는 <a { $mozvc_link }> 책임 있는 기술 스타트업에 투자</a>합니다.
 # Variables:
 #   $mdc_link (url) - link to https://mozilladatacollective.com/
-manifesto-we-run-a-global = 우리는 공정한 데이터 교환을 위해 <a { $msc_link }>글로벌 커뮤니티를 운영</a>합니다.
+manifesto-we-run-a-global = 우리는 공정한 데이터 교환을 위해 <a { $mdc_link }>글로벌 커뮤니티를 운영</a>합니다.
 # Variables:
 #   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
-manifesto-we-host-a-yearly = 이 선언문을 발전시키기 위해 무엇이든 만드는 사람들이 모이는 <a { $Festival_link }>매년 전세계적인 모임을 주최합니다</a>.
+manifesto-we-host-a-yearly = 이 선언문을 발전시키기 위해 무엇이든 만드는 사람들이 모이는 <a { $festival_link }>매년 전세계적인 모임을 주최합니다</a>.
 # Variables:
 #   $firefox_link (url) - link to https://www.firefox.com/
 #   $thunderbird_link (url) - link to https://www.thunderbird.net/

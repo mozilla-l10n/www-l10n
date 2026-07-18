@@ -6,24 +6,24 @@
 ### URL: https://www-dev.allizom.org/firefox/features/
 
 # HTML page title
-features-index-firefox-browser-features = Могућности Firefox прегледача
+features-index-firefox-browser-features = Могућности { -brand-name-firefox } прегледача
 # HTML page description
-features-index-firefox-is-the-fast-lightweight = Firefox је брз, лаган прегледач усредсређен на приватност који ради на свим вашим уређајима.
+features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } је брз, лаган прегледач усредсређен на приватност који ради на свим вашим уређајима.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } је све бржи и бржи
-features-index-the-latest-browser-speed-benchmarks = Најновији тестови брзине прегледача доказују да је Firefox бржи него икад.
+features-index-the-latest-browser-speed-benchmarks = Најновији тестови брзине прегледача доказују да је { -brand-name-firefox } бржи него икад.
 features-index-is-firefox-a-private-browser = Је ли { -brand-name-firefox } приватан прегледач?
-features-index-were-focused-on-your-right-to = Усредсређени смо на ваше право на приватност. Ваши подаци, ваша веб активност и ваш живот на мрежи су заштићени уз Firefox.
+features-index-were-focused-on-your-right-to = Усредсређени смо на ваше право на приватност. Ваши подаци, ваша веб активност и ваш живот на мрежи су заштићени уз { -brand-name-firefox }.
 features-index-free-password-manager = Бесплатан управник лозинки
 features-index-get-help-creating-new-passwords = Потражите помоћ при прављењу нових лозинки, аутоматском попуњавању образаца на мрежи и аутоматској пријави.
 features-index-customize-your-firefox-browser = Прилагодите ваш { -brand-name-firefox } прегледач
 features-index-choose-how-your-browser-looks = Изаберите како ваш прегледач изгледа уз хиљаде бесплатних тема.
-features-index-firefox-browser-sync = Усклађивање Firefox прегледача
-features-index-access-your-firefox-bookmarks = Приступите својим Firefox обележивачима, лозинкама, отвореним језичцима и још много тога са било ког уређаја.
+features-index-firefox-browser-sync = Усклађивање { -brand-name-firefox } прегледача
+features-index-access-your-firefox-bookmarks = Приступите својим { -brand-name-firefox } обележивачима, лозинкама, отвореним језичцима и још много тога са било ког уређаја.
 features-index-bookmark-manager = Управник обележивача
 features-index-organize-your-bookmarks-with = Организујте своје обележиваче помоћу фасцикли и ознака.
 features-index-private-browsing-mode = Режим приватног прегледања
 features-index-automatically-delete-cookies = Аутоматски обришите колачиће и историјат прегледања када га затворите.
-features-index-firefox-add-ons-and-browser-extensions = Firefox додаци и проширења прегледача
+features-index-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } додаци и проширења прегледача
 features-index-add-new-tools-capabilities-and = Додајте нове алате, могућности и забавне ствари у свој прегледач.
 features-index-pinned-browser-tabs = Закачени језичци прегледача
 features-index-keep-your-favorite-pages-open = Држите своје омиљене странице отвореним и на само један клик. Користите закачене језичке да бисте пратили своју е-пошту или апликације за размену порука.
