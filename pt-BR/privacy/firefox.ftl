@@ -8,7 +8,7 @@
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Informações básicas sobre privacidade
 privacy-firefox-youre-in-control-v2 = Você está no controle de seus dados
-privacy-firefox-privacy-isnt-just-v2 = Visão geral: o { -brand-name-firefox } é construído para oferecer privacidade e proteção por padrão. Temos muito poucas informações sobre você. O pouco que sabemos, nunca vendemos. Além disso, diferente de outros navegadores, lhe damos a opção de desativar o que te incomoda. O aviso de privacidade do { -brand-name-firefox } tem como base transparência, controle e responsabilidade. Você pode contar conosco para explicar com clareza o que o { -brand-name-firefox } faz por padrão e ajustar suas configurações para que possa navegar como preferir.
+privacy-firefox-privacy-isnt-just-v2 = Visão geral: o { -brand-name-firefox } é construído para oferecer privacidade e proteção por padrão. Temos muito poucas informações sobre você. O pouco que sabemos, nunca vendemos. Além disso, diferente de outros navegadores, lhe damos a opção de desativar o que te incomodar. O aviso de privacidade do { -brand-name-firefox } tem como base transparência, controle e responsabilidade. Você pode contar conosco para explicar com clareza o que o { -brand-name-firefox } faz por padrão e ajustar suas configurações para que possa navegar como preferir.
 privacy-firefox-read-our-privacy = Leia nosso aviso de privacidade
 privacy-firefox-keeping-you-informed = Mantemos você informado a cada etapa do caminho
 privacy-firefox-we-believe-you = Acreditamos que você deve saber como seus dados são usados e o motivo. O { -brand-name-firefox } é desenvolvido levando em consideração privacidade e transparência em cada etapa.
