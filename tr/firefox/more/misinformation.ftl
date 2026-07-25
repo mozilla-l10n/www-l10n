@@ -13,6 +13,7 @@ misinformation-what-is-heading = Yanlış bilgi nedir? Dezenformasyon nedir?
 misinformation-false-info-heading = Yanlış bilgiler nerede ortaya çıkıyor?
 misinformation-spot-online-heading = İnternetteki yanlış bilgileri tespit etme ve yayılmasını durdurma
 misinformation-look-at-url = URL’ye ve/veya kaynağa bakın.
+misinformation-known-to-br-credible = Güvenilir olduğu bilinen bir kaynak mı? Emin değilseniz, kaynak ve kaynağın internetteki itibarı hakkında daha fazla bilgi edinmeye çalışın.
 misinformation-overly-sensational = Haber başlığı aşırı sansasyonel mi?
 misinformation-content-up-to-date = İçerik güncel mi?
 misinformation-outdated-information = Eskimiş bilgiler kasıtlı olarak dezenformasyon amacı taşımasa da artık gerçeklerle örtüşmeyebilirler.

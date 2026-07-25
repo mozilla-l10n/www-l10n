@@ -62,11 +62,13 @@ manifesto-details-use-the-mozilla = İnternetin açık bir platform olarak kalma
 manifesto-details-promote-models = kamu yararı için ekonomik değer oluşturmaya yönelik modelleri destekleyeceğiz, ve
 manifesto-details-promote-the-mozilla = { -brand-name-mozilla } Manifestosu ilkelerini halka açık konuşmalarda ve internet endüstrisi içinde öne çıkaracağız.
 manifesto-mozillas-pledge = { -brand-name-mozilla } Andı
+manifesto-we-need-you = Manifestoyu ilerletmek için size ihtiyacımız var
 manifesto-our-commitments = Taahhütlerimiz
 manifesto-commitment-1 = 1. taahhüt
 manifesto-commitment-2 = 2. taahhüt
 manifesto-commitment-3 = 3. taahhüt
 manifesto-commitment-4 = 4. taahhüt
+manifesto-if-you-share-this-goal-v2 = Siz de bizimle aynı amacı paylaşıyorsanız size yardımcı olabiliriz.
 
 ## Obsolete strings (expire 2026-09-10)
 
