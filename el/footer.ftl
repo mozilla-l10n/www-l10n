@@ -15,7 +15,7 @@ footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } για { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } για { -brand-name-android }
 footer-donate-not-for-profit = Κάντε δωρεά στο μη κερδοσκοπικό <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
-footer-portions-of-this-content = Τμήματα αυτού του περιεχομένου αποτελούν πνευματική ιδιοκτησία μεμονωμένων εθελοντών του mozilla.org (©1998–{ $current_year }). Το περιεχόμενο διατίθεται στα πλαίσια της <a rel="license" href="{ $url }">άδειας { -brand-name-creative-commons }</a>.
+footer-portions-of-this-content = Τμήματα αυτού του περιεχομένου αποτελούν πνευματική ιδιοκτησία μεμονωμένων εθελοντών του mozilla.org (©1998–{ $current_year }). Το περιεχόμενο διατίθεται στο πλαίσιο της <a rel="license" href="{ $url }">άδειας { -brand-name-creative-commons }</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Εταιρεία
 footer-press-center = Κέντρο τύπου
