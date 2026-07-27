@@ -14,6 +14,10 @@ vpn-linux-simple-and = <strong>Basit ve sezgisel arayüz:</strong> Tek tıklamay
 vpn-linux-gui-client = <strong>GUI istemcisi:</strong> { -brand-name-mozilla-vpn } bir GUI istemcisine (grafik kullanıcı arayüzü) sahiptir, oysa bazı VPN sağlayıcıları yalnızca CLI sürümü (komut satırı) sunar.
 vpn-linux-how-to-install = { -brand-name-mozilla-vpn } Linux’a nasıl kurulur?
 # Variables:
+#   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
+# 'mozillavpn' should not be translated as it is the proper name of the package
+vpn-linux-if-you-use-v2 = Ubuntu’nun desteklenen sürümlerinden birini kullanıyorsanız <a { $attrs }>Launchpad</a>’de barındırılan resmi mozillavpn paketlerini iki şekilde yükleyebilirsiniz:
+# Variables:
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
 vpn-linux-ubuntu-command = <strong>Ubuntu komut satırı modu:</strong> Komut satırı araçlarını kullanarak { -brand-name-mozilla-vpn }'i yükleme yönergeleri için <a { $attrs }>{ -brand-name-mozilla-vpn } Linux bilgisayara nasıl kurulur</a> sayfasına göz atın.
 # Variables:
