@@ -14,7 +14,11 @@ what-is-a-browser-in-a-short-period-long = Eskiden dünyanın öbür ucundaki bi
 what-is-a-browser-in-a-short-period = Eskiden dünyanın öbür ucundaki birine e-posta gönderebilmek bile insanları şaşırtıyordu ama bilgiye erişimle ilgili düşüncelerimiz kısa sürede değişti.
 what-is-a-browser-how-does-a-web = Web tarayıcısı nasıl çalışır?
 what-is-a-browser-cookies-not-the = Çerezler
+# Variables:
+#   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
+what-is-a-browser-websites-save = Web siteleri, sizinle ilgili bilgileri <a href="{ $cookies }">çerez</a> denilen dosyalarda saklar. Bu dosyalar, o siteyi bir sonraki ziyaretinizde kullanılmak üzere bilgisayarınıza kaydedilir. Siteye geri döndüğünüzde sitenin kodları bu dosyayı okuyarak sizi tespit eder. Örneğin, bir siteye girdiğinizde kullanıcı adınızın ve parolanızın hatırlanması çerezler sayesinde mümkün olur.
 what-is-a-browser-when-you-go-to = Bir web sitesini ziyaret ettiğinizde sayfanın kullanıcı adınızı ve parolanızı hatırlaması çerezler sayesinde mümkün olur.
 what-is-a-browser-understanding = Gizliliği anlayın
 what-is-a-browser-firefox-helps = { -brand-name-firefox }, takip kodlarının sizi web’de takip etmesini engelleyerek çevrimiçi ortamda daha gizli olmanızı sağlar.
 what-is-a-browser-making-your-web = Web tarayıcınız sizin için çalışsın
+what-is-a-browser-most-major-web = Başlıca web tarayıcılarını çoğunda kullanıcılar, uzantılar veya eklentiler aracılığıyla gezinti deneyimlerini kişiselleştirebilir. Uzantılar tarayıcınızı özelleştirmek veya yeni işlevler eklemek için tarayıcınıza yükleyebileceğiniz küçük yazılımlardır. Uzantılar sayesinde yeni özellikler, sözlükler, görsel görünüm ve temalar gibi hem eğlenceli hem de pratik pek işlevi tarayıcınıza kazandırabilirsiniz.
