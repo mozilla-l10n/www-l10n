@@ -15,6 +15,7 @@ misinformation-spot-online-heading = İnternetteki yanlış bilgileri tespit etm
 misinformation-look-at-url = URL’ye ve/veya kaynağa bakın.
 misinformation-known-to-br-credible = Güvenilir olduğu bilinen bir kaynak mı? Emin değilseniz, kaynak ve kaynağın internetteki itibarı hakkında daha fazla bilgi edinmeye çalışın.
 misinformation-overly-sensational = Haber başlığı aşırı sansasyonel mi?
+misinformation-check-out-websites = Güvendiğiniz sitelere ve haber kaynaklarına göz atarak, aynı konunun bu kaynaklarda da yer alıp almadığını ve yer alıyorsa nasıl ele alındığını kontrol edin. Kaliteli haberlerde yer almayan, kanıta dayanmayan uç söylemler ve abartılı ifadeler manipülasyon amaçlı içeriklerde sıklıkla kullanılır.
 misinformation-content-up-to-date = İçerik güncel mi?
 misinformation-outdated-information = Eskimiş bilgiler kasıtlı olarak dezenformasyon amacı taşımasa da artık gerçeklerle örtüşmeyebilirler.
 misinformation-credible-publication = Yazarın tercihen güvenilir yayınlarda başka makaleleri veya yazıları yayımlanmış mı?
