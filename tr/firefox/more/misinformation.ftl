@@ -21,6 +21,7 @@ misinformation-outdated-information = Eskimiş bilgiler kasıtlı olarak dezenfo
 misinformation-credible-publication = Yazarın tercihen güvenilir yayınlarda başka makaleleri veya yazıları yayımlanmış mı?
 misinformation-authors-name = Yazarın adı sadece şüpheli sitelerde geçiyorsa açıklamalarına çok fazla önem vermemelisiniz.
 misinformation-images-captions = Resimlerle açıklamaları eşleşiyor mu?
+misinformation-images-are-powerful = Hedefli dezenformasyon için görseller çok güçlü bir araçtır. Görselin altına yazılan açıklama, algıyı tamamen zıt bir yöne çekebilir. Emin değilseniz görselin diğer kaynaklarda nasıl açıklandığını öğrenmek için tersine görsel arama yapın.
 misinformation-how-firefox-helps-heading = { -brand-name-firefox } yanlış bilgilerden kaçınmanıza nasıl yardımcı olur?
 misinformation-firefox-keeps-trackers-heading = { -brand-name-firefox }, takip kodlarını dizginler:
 misinformation-social-media-clean-heading = { -brand-name-firefox }, sosyal medya akışlarınızı temiz tutmanıza yardımcı olur:
