@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/what-is-a-browser/
 
+# HTML page title
+what-is-a-browser-what-is-a-web = Web tarayıcısı nedir?
 # HTML page description
 what-is-a-browser-a-web-browser = Web tarayıcıları, internetin her yerine ulaşarak dünyanın dört bir yanından gelen metinleri, resimleri ve videoları görmenizi sağlar.
 what-is-a-browser-the-web-is-a-vast = Web çok büyük ve güçlü bir araç. 20-30 yıl içinde internet; çalışma, oyun oynama ve iletişim kurma şeklimizi değiştirdi. Nasıl kullanıldığına bağlı olarak ülkeleri birbirine bağlıyor, ticareti canlandırıyor, ilişkileri güçlendiriyor, geleceğin inovasyonlarına yön veriyor ve sayamayacağımız kadar çok internet şakasına ev sahipliği yapıyor.
