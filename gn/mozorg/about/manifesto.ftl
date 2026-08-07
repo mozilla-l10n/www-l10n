@@ -59,6 +59,12 @@ manifesto-details-build-and-deliver = emoheñói ha emoasãi tembiapokue iporãv
 manifesto-details-use-the-mozilla = { -brand-name-mozilla } mba’e jeporu (imba’ete apopyre, copyright ha imárka teéva, imba’eguereko, iviru ha iñemohu’ãngue) ñanduti ijuruja hag̃ua rekávo;
 manifesto-details-promote-models = emongu’e tembiapo emoheñói hag̃ua virueta mba’e porãrã opavavépe g̃uarã; ha
 manifesto-details-promote-the-mozilla = emongu’e { -brand-name-mozilla } je’epy rehegua ñe’ẽjovái guasúpe ha ñanduti ryepýpe avei.
+manifesto-we-need-you = Roikotevẽ nderehe romombarete hag̃ua je’epyre
+manifesto-our-commitments = Ore ñe’ẽme’ẽita
+manifesto-commitment-1 = Ñe’ẽme’ẽ 1
+manifesto-commitment-2 = Ñe’ẽme’ẽ 2
+manifesto-commitment-3 = Ñe’ẽme’ẽ 3
+manifesto-commitment-4 = Ñe’ẽme’ẽ 4
 
 ## Obsolete strings (expire 2026-09-10)
 
