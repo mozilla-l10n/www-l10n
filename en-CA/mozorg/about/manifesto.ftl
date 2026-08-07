@@ -65,6 +65,14 @@ manifesto-across-the-mozilla-project = Across the { -brand-name-mozilla } Projec
 manifesto-we-need-you = We Need You To Advance the Manifesto
 manifesto-an-internet-with-these-v2 = An internet with these qualities will not come to life on its own. People and organizations must embed these aspirations into internet technology and into the human experience with the internet. The { -brand-name-mozilla } Manifesto and Addendum represent { -brand-name-mozilla }'s commitment to advancing these aspirations. { -brand-name-mozilla } works with people and organizations everywhere who want to make the internet an even better place for everyone.
 manifesto-our-commitments = Our Commitments
+manifesto-commitment-1 = Commitment 1
+manifesto-commitment-2 = Commitment 2
+manifesto-commitment-3 = Commitment 3
+manifesto-commitment-4 = Commitment 4
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = And, of course, we make <a { $firefox_link }>{ -brand-name-firefox }</a> and <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. All of this is aimed at helping people make the internet a healthy place.
 
 ## Obsolete strings (expire 2026-09-10)
 
