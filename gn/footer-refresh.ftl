@@ -22,6 +22,8 @@ footer-refresh-youtube = YouTube
 footer-refresh-company = Atyguasu
 footer-refresh-press-center = Kuatiahaiha rendaite
 footer-refresh-careers = Mba’aporã
+# Our "merch" store is an online store which sells Mozilla branded stuff. (Merch is short for merchandise).
+footer-refresh-store = Apopyre ñemuha
 footer-refresh-contact = Ñe’ẽha
 footer-refresh-support = Ñepytyvõ
 footer-refresh-product-help = Apopyre ñepytyvõ

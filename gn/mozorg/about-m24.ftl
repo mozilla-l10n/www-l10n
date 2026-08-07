@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } omoheñói kundaha, tembiporu’i,
 
 ## Intro
 
+m24-about-guard-the-internet = Ñanduti juruja ñemo’ã
 # Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Ejerure ñanduti orendive
 m24-about-mozilla-is-working = { -brand-name-mozilla } omba’apo opytakuaa hag̃ua yvypóra oiporúva ñanduti pópe.
@@ -22,6 +23,10 @@ m24-about-together-we-can = Oñondive jajapokuaa ñanduti hasy’ỹ, hekorosã 
 m24-about-read-our-manifesto = Emoñe’ẽ Mozilla he’ipyre
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Peteĩ oñepy’amongetáva aty oguapýva jerépe oguenohẽva hemiandu.
+m24-about-advocate = Pysyrõhára
+m24-about-research = Jeporeka
+m24-about-build = Jejapo
+m24-about-fund = Hepyme’ẽ
 
 ## News
 
