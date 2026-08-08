@@ -77,23 +77,23 @@ manifesto-if-you-share-this-goal-v2 = Pokud sdílíte tento cíl, dejte nám vě
 manifesto-we-create-open = Vytváříme <a { $github_link }>open source software</a>, na kterém můžete stavět.
 # Variables:
 #   $mofo_link (url) - link to https://www.mozillafoundation.org/
-manifesto-we-fund-fellows = <a { $mofo_link }>financujeme kolegy a inkubujeme projekty</a> zaměřené na vytváření lepší budoucnosti na internetu.
+manifesto-we-fund-fellows = Financujeme <a { $mofo_link }>stipendisty a podporujeme projekty</a>, jejichž cílem je vytvořit lepší budoucnost na internetu.
 # Variables:
 #   $mozai_link (url) - link to https://www.mozilla.ai
-manifesto-we-build-open-source = <a { $mozai_link }>Vytváříme open source nástroje umělé inteligence</a>, které dávají vývojářům možnost volby – a pomáhají jim šetřit peníze.
+manifesto-we-build-open-source = <a { $mozai_link }>Vytváříme open-source nástroje pro umělou inteligenci</a>, které vývojářům nabízejí možnost volby — a pomáhají jim ušetřit peníze.
 # Variables:
 #   $mozvc_link (url) - link to https://mozilla.vc
 manifesto-we-invest-in = <a { $mozvc_link }>Investujeme do odpovědných technologických start-upů</a>.
 # Variables:
 #   $mdc_link (url) - link to https://mozilladatacollective.com/
-manifesto-we-run-a-global = <a { $mdc_link }>řídíme globální komunitu</a> za férovou výměnu dat.
+manifesto-we-run-a-global = Provozujeme <a { $mdc_link }>globální komunitu</a> zaměřenou na spravedlivou výměnu dat.
 # Variables:
 #   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
-manifesto-we-host-a-yearly = <a { $festival_link }>Každoročně hostujeme celosvětové setkání</a> lidí, kteří vše dělají pro pokrok v Manifestu.
+manifesto-we-host-a-yearly = Každoročně <a { $festival_link }>pořádáme celosvětové setkání</a> pro všechny, kdo vytvářejí cokoli, co přispívá k prosazování Manifestu.
 # Variables:
 #   $firefox_link (url) - link to https://www.firefox.com/
 #   $thunderbird_link (url) - link to https://www.thunderbird.net/
-manifesto-we-make-firefox-and-thunderbird = A samozřejmě vytváříme <a { $firefox_link }>{ -brand-name-firefox }</a> a <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. To vše je zaměřeno na pomoc lidem dělat internet zdravým místem.
+manifesto-we-make-firefox-and-thunderbird = A samozřejmě vytváříme <a { $firefox_link }>{ -brand-name-firefox }</a> a <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. To vše má za cíl pomoci lidem učinit z internetu zdravé místo.
 
 ## Obsolete strings (expire 2026-09-10)
 
