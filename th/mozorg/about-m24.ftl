@@ -12,6 +12,7 @@ m24-about-page-desc = { -brand-name-mozilla } สร้างทั้งเบ�
 
 ## Intro
 
+m24-about-guard-the-internet = รักษาไว้ซึ่งอินเทอร์เน็ตที่เปิดกว้าง
 # Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = ทวงคืนอินเทอร์เน็ตไปกับเรา
 m24-about-mozilla-is-working = { -brand-name-mozilla } กำลังทำงานเพื่อนำอำนาจการควบคุมอินเทอร์เน็ตกลับสู่เอื้อมมือของผู้ใช้อีกครั้ง
@@ -22,6 +23,14 @@ m24-about-together-we-can = เราสามารถร่วมกันท�
 m24-about-read-our-manifesto = อ่านแถลงการณ์ของเรา
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = นักคิดกลุ่มหนึ่งนั่งล้อมวงแลกเปลี่ยนแนวคิดกันบนพื้น
+m24-about-advocate = สนับสนุน
+m24-about-we-advocate-for = เราสนับสนุนเพื่อผลิตภัณฑ์ที่ดีขึ้น และให้รัฐบาลรวมถึงบริษัทเทคโนโลยีรับผิดชอบต่อสิ่งที่พวกเขาสร้างขึ้น
+m24-about-research = งานวิจัย
+m24-about-we-uncover-insights = เราเปิดเผยข้อมูลเชิงลึก แคมเปญสำหรับปรับปรุงผลิตภัณฑ์ และขับเคลื่อนนโยบายที่เป็นตัวแทนผลประโยชน์ของคุณ
+m24-about-build = สร้าง
+m24-about-we-build-products-v2 = เราสร้างผลิตภัณฑ์ที่ให้คุณมีอำนาจควบคุมได้ เช่น { -brand-name-firefox } และอื่น ๆ อีกมากมาย
+m24-about-fund = ระดมทุน
+m24-about-we-fund-and = เราจัดหาเงินทุนและลงทุนในบุคลากรและความพยายามในการนำพาเทคโนโลยี อินเทอร์เน็ต และ AI ไปในทิศทางที่ถูกต้อง
 
 ## News
 

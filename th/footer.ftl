@@ -14,6 +14,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } สำหรับ { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } สำหรับ { -brand-name-android }
+footer-donate-not-for-profit = บริจาคแก่องค์กรไม่แสวงผลกำไร <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>
 footer-portions-of-this-content = บางส่วนของเนื้อหานี้สงวนลิขสิทธิ์ ©1998–{ $current_year } โดยผู้มีส่วนร่วมของ mozilla.org แต่ละคน เนื้อหาใช้งานได้ภายใต้ <a rel="license" href="{ $url }">สัญญาอนุญาต { -brand-name-creative-commons }</a>
 footer-mozilla = { -brand-name-mozilla }
 footer-company = บริษัท

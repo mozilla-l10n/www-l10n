@@ -22,6 +22,8 @@ footer-refresh-youtube = YouTube
 footer-refresh-company = บริษัท
 footer-refresh-press-center = ศูนย์ข่าว
 footer-refresh-careers = ตำแหน่งงาน
+# Our "merch" store is an online store which sells Mozilla branded stuff. (Merch is short for merchandise).
+footer-refresh-store = ร้านขายของที่ระลึก
 footer-refresh-contact = ติดต่อ
 footer-refresh-support = ฝ่ายสนับสนุน
 footer-refresh-product-help = ความช่วยเหลือผลิตภัณฑ์
@@ -33,6 +35,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = เครื่องมือ
 footer-refresh-donate = บริจาค
+footer-refresh-donate-not-for-profit = บริจาคแก่องค์กรไม่แสวงผลกำไร <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>
 # Obsolete string (expires 2026-08-01)
 footer-refresh-visit-mozilla-corporations-v2 = เยี่ยมชม <a { $moco_link }>{ -brand-name-mozilla-foundation }</a> มูลนิธิไม่แสวงหาผลกำไร<a { $mofo_link }>ของ { -brand-name-mozilla-corporation }</a>
 footer-refresh-portions-of-this-content = บางส่วนของเนื้อหานี้สงวนลิขสิทธิ์ ©1998–{ $current_year } โดยผู้มีส่วนร่วมของ mozilla.org แต่ละคน เนื้อหาใช้งานได้ภายใต้ <a rel="license" { $href }>สัญญาอนุญาต { -brand-name-creative-commons }</a>
