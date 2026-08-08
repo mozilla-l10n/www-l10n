@@ -28,9 +28,9 @@ m24-about-we-advocate-for = Zasazujeme se o lepší produkty a požadujeme, aby 
 m24-about-research = Zkoumáme
 m24-about-we-uncover-insights = Získáváme nové poznatky, organizujeme kampaně za zlepšení produktů a prosazujeme opatření, která hájí vaše zájmy.
 m24-about-build = Budujeme
-m24-about-we-build-products-v2 = Vytváříme produkty, které kladou kontrolu do vašich rukou – jako je { -brand-name-firefox } aj.
+m24-about-we-build-products-v2 = Vytváříme produkty, které kladou kontrolu do vašich rukou — jako je { -brand-name-firefox } aj.
 m24-about-fund = Podporujeme
-m24-about-we-fund-and = Financujeme a investujeme do lidí a úsilí, které posouvá technologie, internet a umělou inteligenci správným směrem.
+m24-about-we-fund-and = Financujeme a investujeme do lidí a projektů, které směřují technologie, internet a umělou inteligenci správným směrem.
 
 ## News
 
