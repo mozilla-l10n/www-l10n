@@ -7,6 +7,7 @@
 
 # HTML page title
 firefox-faq = Pogosta vprašanja o { -brand-name-firefox }u
+whether-you-searched-privacy = Če ste iskali hiter brskalnik, ki ščiti vašo zasebnost, tukaj odgovarjamo na najpogosteje zastavljena vprašanja, povezana s { -brand-name-firefox(sklon: "orodnik") }.
 what-is-firefox = Kaj je { -brand-name-firefox }?
 
 # Variables:
