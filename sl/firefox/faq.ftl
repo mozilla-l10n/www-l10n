@@ -8,6 +8,7 @@
 # HTML page title
 firefox-faq = Pogosta vprašanja o { -brand-name-firefox }u
 whether-you-searched-privacy = Če ste iskali hiter brskalnik, ki ščiti vašo zasebnost, tukaj odgovarjamo na najpogosteje zastavljena vprašanja, povezana s { -brand-name-firefox(sklon: "orodnik") }.
+whether-you-searched-independant = Najsi ste iskali hiter brskalnik ali neodvisno tehnološko podjetje, ki ščiti vašo zasebnost, tukaj odgovarjamo na najpogosteje zastavljena vprašanja, povezana s { -brand-name-firefox(sklon: "orodnik") }.
 what-is-firefox = Kaj je { -brand-name-firefox }?
 
 # Variables:
@@ -29,6 +30,7 @@ is-firefox-free = Je { -brand-name-firefox } brezplačen?
 yep-the-firefox-browser-is-free = Je! { -brand-name-firefox-browser(zacetnica: "velika") } je brezplačen. Pravzaprav več kot brezplačen. Nobenih skritih računov. Za njegovo uporabo ne plačate nič.
 related-questions-free = Povezana vprašanja: ali je { -brand-name-firefox-browser } brezplačen, ali { -brand-name-firefox } stane
 is-chrome-better = Je { -brand-name-chrome } boljši od { -brand-name-firefox }a?
+no-we-dont = Ne, menimo, da { -brand-name-chrome } ni boljši od { -brand-name-firefox(sklon: "rodilnik") }, in sicer zato: ko se ljudje sprašujejo, kateri brskalnik je boljši, jih pravzaprav zanima, kateri je hitrejši in varnejši. { -brand-name-firefox } se mesečno posodablja, kar vam zagotavlja najhitrejši brskalnik, ki samodejno spoštuje vašo zasebnost.
 
 # Variables:
 # $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
@@ -53,6 +55,7 @@ related-questions-safe = Povezana vprašanja: ali je { -brand-name-firefox } dob
 # $url (url) - link to https://www.mozilla.org/firefox/privacy/
 
 why-is-firefox = Zakaj je { -brand-name-firefox } tako počasen?
+firefox-isnt-slow = { -brand-name-firefox } ni počasen. Leta 2017 smo pogon brskalnika razvili popolnoma na novo (imenovan Quantum), ki je { -brand-name-firefox } naredil konkurenčen drugim večjim brskalnikom. Povrhu tega naša orodja za blokiranje sledilcev omogočajo, da se strani naložijo še hitreje. { -brand-name-firefox } je torej bliskovito hiter, ne da bi pri tem žrtvoval vašo zasebnost.
 is-firefox-chromium = Ali { -brand-name-firefox } temelji na { -brand-name-chromium }u?
 firefox-is-not = { -brand-name-firefox } ne temelji na { -brand-name-chromium(sklon: "mestnik") } (odprtokodnem projektu, ki je jedro { -brand-name-google } { -brand-name-chrome(sklon: "rodilnik") }). Pravzaprav smo eden od zadnjih velikih brskalnikov, ki ne temelji na njem. { -brand-name-firefox }ov pogon je Quantum, ustvarjen posebej za { -brand-name-firefox }, zato lahko zagotovimo, da se z vašimi podatki ravna spoštljivo in varno.
 does-firefox-use = Ali { -brand-name-firefox } uporablja { -brand-name-google }?
