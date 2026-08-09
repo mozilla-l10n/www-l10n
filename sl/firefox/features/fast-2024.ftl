@@ -13,3 +13,6 @@ features-fast-firefox-is-powered-by-the-world = { -brand-name-firefox(sklon: "to
 #   $link (url) - link to https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/
 features-fast-all-browsers-had-to-make = Da bi se dobro odrezali na novem testu Speedometer 3, so se vsi brskalniki morali izboljšati. Zlasti { -brand-name-firefox } je naredil velikanske korake, s katerimi <a { $link }>je za naše uporabnike postal opazno hitrejši</a>. { -brand-name-firefox } je hitrejši kot kdajkoli prej in to hitrost lahko sami začutite, vključno s hitrejšim nalaganjem strani in bolj gladko interakcijo.
 features-fast-towards-a-faster-web = Hitrejšemu spletu naproti
+# Variables
+#   $link (url) - link to /about/webvision/full/#performance
+features-fast-theres-been-an-encouraging = { -brand-name-mozilla } je <a { $link }>predana</a> nenehnemu izboljševanju lastnega brskalnika kot tudi celotnega spleta. Zato smo vložili v sodelovanje pri razvoju Speedometra 3, ki je izboljšal delovanje vseh brskalnikov. Ne glede na to, kateri brskalnik izberete, { -brand-name-mozilla } želi, da je hiter.
