@@ -3,9 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-# Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = { -brand-name-firefox } ڈائونلوڈ کریں
@@ -33,7 +30,4 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤز�
 firefox-new-download-interrupted = آپ کے ڈاؤن لوڈ میں خلل پڑا۔ لیکن سب ختم نہیں ہوا ہے۔
 
 # Not-Required
-
-
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 

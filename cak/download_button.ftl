@@ -20,6 +20,3 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> richin { -bra
 download-button-firefox-privacy = { -brand-name-firefox } Ichinanem
 download-button-firefox-privacy-notice = { -brand-name-firefox } Ichinan Rutzijol
 download-button-download = Tiqasäx
-
-## Linux
-

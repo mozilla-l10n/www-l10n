@@ -19,6 +19,3 @@ download-button-firefox-android = <span>{ -brand-name-firefox }</span> { -brand-
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name-ios } ಗಾಗಿ
 download-button-firefox-privacy = { -brand-name-firefox } ಗೌಪ್ಯತೆ
 download-button-download = ಡೌನ್‌ಲೋಡ್
-
-## Linux
-

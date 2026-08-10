@@ -3,9 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-# Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Descargar { -brand-name-firefox }
@@ -35,7 +32,4 @@ firefox-new-download-interrupted = La descarga s'ha interrompiu. Pero no tot ye 
 firefox-new-your-system-may-not = Lo suyo sistema no cumple con os requisitos d'o { -brand-name-firefox }, pero puetz prebar una d'<a href="{ $url }">estas versions</a>.
 
 # Not-Required
-
-
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 

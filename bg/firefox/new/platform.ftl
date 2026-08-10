@@ -23,6 +23,3 @@ new-platform-open-source = Отворен код
 ## Mac
 
 new-platform-privacy-comes-first = Поверителността преди всичко друго
-
-## Windows
-

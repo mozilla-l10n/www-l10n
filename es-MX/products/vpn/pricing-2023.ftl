@@ -46,6 +46,3 @@ vpn-pricing-how-do-i-manage = ¿Cómo administro mi suscripción y cambio mi pla
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = Si ya estás suscrito a { -brand-name-mozilla-vpn }, puedes cambiar tu plan o <a { $manage }>administrar tu suscripción</a> en cualquier momento.
-
-## Mobile only subscription copy
-

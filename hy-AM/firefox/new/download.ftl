@@ -3,9 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-# Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Ներբեռնել { -brand-name-firefox }-ը
@@ -30,7 +27,4 @@ firefox-new-your-firefox-new-should-begin = Ներբեռնումը շուտով 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }-ը ավելին է, քան զննարկիչը:
 
 # Not-Required
-
-
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 

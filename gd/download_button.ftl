@@ -20,6 +20,3 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> airson { -bra
 download-button-firefox-privacy = Prìobhaideachd { -brand-name-firefox }
 download-button-firefox-privacy-notice = Aithris prìobhaideachd { -brand-name-firefox }
 download-button-download = Luchdaich a-nuas
-
-## Linux
-

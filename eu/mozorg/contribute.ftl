@@ -6,24 +6,6 @@
 ### URL: https://www-dev.allizom.org/contribute/
 
 
-## Page heading
-
-
-## Contribution tasks
-
-
 ## Mission
 
 contribute-follow-mozilla = Jarraitu { -brand-name-mozilla }
-
-## Made by
-
-
-## Newsletter
-
-
-## Support
-
-
-## Web compat
-

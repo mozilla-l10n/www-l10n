@@ -22,6 +22,3 @@ new-platform-open-source = ఓపెన్ సోర్సు
 ## Mac
 
 new-platform-block-trackers = ట్రాకర్లను నిరోధించండి
-
-## Windows
-

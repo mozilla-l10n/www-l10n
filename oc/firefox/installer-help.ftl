@@ -11,6 +11,3 @@
 installer-help-page-title = Vòstre telecargament es estat arrestat
 installer-help-action-channel = Aqueste telecargament deuriá foncionari melhor per vos.
 installer-help-action-choose = Causissètz un telecargament çai-jos.
-
-##
-

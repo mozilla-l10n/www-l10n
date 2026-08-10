@@ -60,6 +60,3 @@ vpn-subnav-features = Eiginleikar
 
 # Section title for press quotations about Mozilla VPN
 vpn-press-as-seen-in = Eins og birtist í
-
-## Unsupported language notification
-

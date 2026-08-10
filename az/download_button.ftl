@@ -20,6 +20,3 @@ download-button-firefox-ios = { -brand-name-ios } üçün <span>{ -brand-name-fi
 download-button-firefox-privacy = { -brand-name-firefox } Məxfilik
 download-button-firefox-privacy-notice = { -brand-name-firefox } Məxfilik Bildirişi
 download-button-download = Endir
-
-## Linux
-

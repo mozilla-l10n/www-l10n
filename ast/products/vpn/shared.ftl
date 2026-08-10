@@ -18,9 +18,3 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
-
-## Press quotations
-
-
-## Unsupported language notification
-

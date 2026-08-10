@@ -13,9 +13,3 @@ new-platform-need-help = Besonh d'ajuda&nbsp;?
 
 # Linux
 
-
-## Mac
-
-
-## Windows
-

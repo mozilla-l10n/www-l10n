@@ -3,9 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-# Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Изтегляне на { -brand-name-firefox }
@@ -20,7 +17,4 @@ firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } е пове
 firefox-new-download-interrupted = Изтеглянето е прекъснато. Но не всичко е загубено.
 
 # Not-Required
-
-
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 

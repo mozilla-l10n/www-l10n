@@ -17,9 +17,3 @@ new-platform-need-help = ಸಹಾಯ ಬೇಕಿದೆಯೆ?
 
 # Linux
 
-
-## Mac
-
-
-## Windows
-

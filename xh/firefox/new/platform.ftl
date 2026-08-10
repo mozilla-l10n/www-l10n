@@ -13,9 +13,3 @@ new-platform-need-help = Ufuna uncedo?
 
 # Linux
 
-
-## Mac
-
-
-## Windows
-

@@ -13,9 +13,3 @@ new-platform-need-help = ¿Xa moneki timitsonpaleuiskej?
 
 # Linux
 
-
-## Mac
-
-
-## Windows
-

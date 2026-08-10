@@ -16,9 +16,3 @@ new-platform-need-help = ¿Precises ayuda?
 # Linux
 
 new-platform-privacy-more-than = Privacidá, más qu'una política
-
-## Mac
-
-
-## Windows
-

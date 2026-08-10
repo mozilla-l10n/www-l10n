@@ -11,6 +11,3 @@ download-button-systems-languages = Sistemler &amp; Tiller
 download-button-download-firefox = { -brand-name-firefox }'nı Endir
 download-button-firefox-privacy = { -brand-name-firefox } Husisiyat
 download-button-download = Endir
-
-## Linux
-

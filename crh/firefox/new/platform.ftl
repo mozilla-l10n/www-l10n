@@ -12,9 +12,3 @@ new-platform-need-help = Yardım kerek?
 
 # Linux
 
-
-## Mac
-
-
-## Windows
-

@@ -60,6 +60,3 @@ vpn-subnav-features = Carattarìstichi
 
 # Section title for press quotations about Mozilla VPN
 vpn-press-as-seen-in = Comu vistu nne
-
-## Unsupported language notification
-

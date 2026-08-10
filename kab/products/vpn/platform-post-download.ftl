@@ -7,15 +7,6 @@
 ### URL: https://www-dev.allizom.org/products/vpn/download/windows/thanks
 
 
-## Windows download page
-
-
-## Mac download page
-
-
-## Shared strings
-
-
 ## FAQ Strings
 
 vpn-download-faq-add-device = Amek ara rnuɣ ibeenk niḍen?

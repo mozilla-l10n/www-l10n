@@ -15,9 +15,3 @@ new-platform-need-help = This lí chél thíb yá
 
 # Linux
 
-
-## Mac
-
-
-## Windows
-

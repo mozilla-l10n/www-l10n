@@ -20,6 +20,3 @@ download-button-firefox-ios = { -brand-name-ios } இயங்கு தளத�
 download-button-firefox-privacy = பயர்பாக்சு({ -brand-name-firefox }) தனியுரிமை
 download-button-firefox-privacy-notice = பயர்பாக்சு ({ -brand-name-firefox }) தனியுரிமை அறிவிப்பு
 download-button-download = பதிவிறக்குங்கள்
-
-## Linux
-

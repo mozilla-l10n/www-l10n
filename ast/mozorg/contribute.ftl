@@ -10,21 +10,3 @@
 
 contribute-page-heading = Precisamos xente talentoso pa un internet meyor
 contribute-how-heading = Cómo puedo collaborar…
-
-## Contribution tasks
-
-
-## Mission
-
-
-## Made by
-
-
-## Newsletter
-
-
-## Support
-
-
-## Web compat
-

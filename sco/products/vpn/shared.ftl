@@ -15,9 +15,3 @@ vpn-shared-subscribe-link = Get { -brand-name-mozilla-vpn }
 
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
-
-## Press quotations
-
-
-## Unsupported language notification
-

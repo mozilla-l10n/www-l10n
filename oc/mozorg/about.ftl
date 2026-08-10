@@ -6,6 +6,3 @@
 ### URL: https://www-dev.allizom.org/about/
 
 about-corporation-foundation-not = Entrepresa. Fondacion. Sens tòca lucrativa.
-
-## Newsletter
-

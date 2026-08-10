@@ -61,6 +61,3 @@ vpn-subnav-features = ਫ਼ੀਚਰ
 
 # Section title for press quotations about Mozilla VPN
 vpn-press-as-seen-in = ਜਿਵੇਂ ਵੇਖਿਆ
-
-## Unsupported language notification
-

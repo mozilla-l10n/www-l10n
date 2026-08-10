@@ -38,9 +38,3 @@ vpn-shared-platfrom-why-choose = Perak { -brand-name-mozilla-vpn }?
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Gouzout muioc’h diwar-benn ar VPNoù
 vpn-subnav-download-mozilla-vpn = Pellgargañ { -brand-name-mozilla-vpn }
-
-## Press quotations
-
-
-## Unsupported language notification
-

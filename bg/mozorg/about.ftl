@@ -8,6 +8,3 @@
 # Main heading
 about-mozilla-makes-browsers-apps = { -brand-name-mozilla } прави браузъри, приложения, код и инструменти, които поставят хората преди печалбата.
 about-corporation-foundation-not = Корпорация. Фондация. Всичко това с идеална цел.
-
-## Newsletter
-

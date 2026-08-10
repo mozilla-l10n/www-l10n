@@ -20,6 +20,3 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> برای { -b
 download-button-firefox-privacy = حریم خصوصی { -brand-name-firefox }
 download-button-firefox-privacy-notice = نکات حریم‌خصوصی { -brand-name-firefox }
 download-button-download = دریافت
-
-## Linux
-

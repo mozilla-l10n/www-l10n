@@ -32,12 +32,6 @@ contribute-meet-volunteers = הכירו את המתנדבים הנלהבים ש�
 contribute-donate = תרומה
 contribute-help-fund = עזרו לנו במימון המשימה שלנו
 
-## Made by
-
-
-## Newsletter
-
-
 ## Support
 
 contribute-support-heading = קבלת עזרה

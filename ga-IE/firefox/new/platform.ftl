@@ -13,9 +13,3 @@ new-platform-need-help = Cabhair uait?
 
 # Linux
 
-
-## Mac
-
-
-## Windows
-

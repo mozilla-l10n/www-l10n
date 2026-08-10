@@ -12,9 +12,3 @@ new-platform-need-help = Danga soxla ndimbal?
 
 # Linux
 
-
-## Mac
-
-
-## Windows
-

@@ -13,9 +13,3 @@ new-platform-need-help = सहयोग चाहियो?
 
 # Linux
 
-
-## Mac
-
-
-## Windows
-

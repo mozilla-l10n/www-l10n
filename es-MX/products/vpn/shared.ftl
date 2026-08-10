@@ -52,9 +52,3 @@ vpn-shared-platfrom-why-choose = ¿Por qué { -brand-name-mozilla-vpn }?
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = Más información sobre las VPNs
 vpn-subnav-download-mozilla-vpn = Descargar { -brand-name-mozilla-vpn }
-
-## Press quotations
-
-
-## Unsupported language notification
-

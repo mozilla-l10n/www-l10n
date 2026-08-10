@@ -29,9 +29,6 @@ contribute-find-event = Kavout un darvoud
 contribute-donate = Ober un donezon
 contribute-follow-mozilla = Heuliañ { -brand-name-mozilla }
 
-## Made by
-
-
 ## Newsletter
 
 contribute-newsletter-heading = N’hoc’h ket sur c’hoazh?

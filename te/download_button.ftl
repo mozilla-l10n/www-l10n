@@ -20,6 +20,3 @@ download-button-firefox-ios = { -brand-name-ios } కోసం <span>{ -brand-na
 download-button-firefox-privacy = { -brand-name-firefox } గోప్యత
 download-button-firefox-privacy-notice = { -brand-name-firefox } గోప్యతా నోటీసు
 download-button-download = దించుకోండి
-
-## Linux
-

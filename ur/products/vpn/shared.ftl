@@ -21,9 +21,3 @@ vpn-shared-pricing-monthly = { $amount }<span>/month</span>
 vpn-shared-platform-cta-button = قیمتیں اور دستیابی دیکھیں
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }
-
-## Press quotations
-
-
-## Unsupported language notification
-

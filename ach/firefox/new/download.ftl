@@ -3,9 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-# Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = Gam { -brand-name-firefox }
@@ -28,7 +25,4 @@ firefox-new-your-firefox-new-should-begin = Gam mamegi myero ocake pire kene. Pe
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } pe obedo layeny keken.
 
 # Not-Required
-
-
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 

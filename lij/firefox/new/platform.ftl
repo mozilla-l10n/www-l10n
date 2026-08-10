@@ -18,9 +18,3 @@ new-platform-need-help = Bezeugno d'agiutto?
 
 # Linux
 
-
-## Mac
-
-
-## Windows
-

@@ -3,9 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-# Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-firefox = { -brand-name-firefox } ডাউনলোড করুন
@@ -26,7 +23,4 @@ firefox-new-need-help = সাহায্য প্রয়োজন?
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ব্রাউজারের চেয়ে বেশি।
 
 # Not-Required
-
-
-## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 

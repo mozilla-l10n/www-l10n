@@ -48,9 +48,3 @@ vpn-shared-platfrom-why-choose = Ayɣer { -brand-name-mozilla-vpn }?
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-download-mozilla-vpn = Sader { -brand-name-mozilla-vpn }
 vpn-subnav-features = Timahilin
-
-## Press quotations
-
-
-## Unsupported language notification
-

@@ -6,15 +6,6 @@
 ### URL: https://www-dev.allizom.org/privacy/websites/cookie-settings/
 
 
-## Necessary cookies section
-
-
-## Preference cookies section
-
-
-## Analytics cookies section
-
-
 ## Privacy section
 
 cookie-settings-privacy-heading = අපගේ පෞද්ගලිකත්‍ව දැන්වීම

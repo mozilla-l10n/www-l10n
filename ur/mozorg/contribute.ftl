@@ -6,9 +6,6 @@
 ### URL: https://www-dev.allizom.org/contribute/
 
 
-## Page heading
-
-
 ## Contribution tasks
 
 contribute-tag-non-technical = غیر تکنیکی
@@ -42,6 +39,3 @@ contribute-newsletter-heading = ابھی تک یقین نہیں ہے؟
 
 contribute-support-heading = مدد حاصل کریں
 contribute-mozilla-support = { -brand-name-mozilla } معاونت
-
-## Web compat
-

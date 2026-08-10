@@ -18,9 +18,3 @@ new-platform-need-help = به راهنمایی نیاز دارید؟
 
 # Linux
 
-
-## Mac
-
-
-## Windows
-

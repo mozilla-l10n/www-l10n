@@ -20,6 +20,3 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> para sa { -br
 download-button-firefox-privacy = { -brand-name-firefox } Privacy
 download-button-firefox-privacy-notice = { -brand-name-firefox } Paalalang Pangpribasiya
 download-button-download = Download
-
-## Linux
-

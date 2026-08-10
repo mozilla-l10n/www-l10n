@@ -11,6 +11,3 @@ about-berlin = Berlín
 about-toronto = Torontu
 about-work-at-mozilla = Trabaya en { -brand-name-mozilla }
 about-how-you-can-help = Cómo pues ayuda
-
-## Newsletter
-

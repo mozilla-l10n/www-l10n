@@ -6,9 +6,6 @@
 ### URL: https://www-dev.allizom.org/contribute/
 
 
-## Page heading
-
-
 ## Contribution tasks
 
 contribute-tag-support = Assisténcia
@@ -17,15 +14,6 @@ contribute-tag-support = Assisténcia
 
 contribute-donate = Far un don
 
-## Made by
-
-
-## Newsletter
-
-
 ## Support
 
 contribute-support-heading = Obténer d’ajuda
-
-## Web compat
-

@@ -18,9 +18,3 @@ vpn-shared-pricing-total = මුළු { $amount }
 
 # Platform subpage shared strings
 
-
-## Press quotations
-
-
-## Unsupported language notification
-

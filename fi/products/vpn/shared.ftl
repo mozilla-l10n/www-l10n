@@ -61,6 +61,3 @@ vpn-subnav-features = Ominaisuudet
 
 # Section title for press quotations about Mozilla VPN
 vpn-press-as-seen-in = Valokeilassa
-
-## Unsupported language notification
-

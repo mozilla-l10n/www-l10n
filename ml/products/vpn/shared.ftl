@@ -47,6 +47,3 @@ vpn-subnav-features = സവിശേഷതകള്‍
 
 # Section title for press quotations about Mozilla VPN
 vpn-press-as-seen-in = ഇതിൽ കണ്ടപോലെ
-
-## Unsupported language notification
-

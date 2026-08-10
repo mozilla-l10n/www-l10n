@@ -13,9 +13,3 @@ new-platform-need-help = Benodig hulp?
 
 # Linux
 
-
-## Mac
-
-
-## Windows
-

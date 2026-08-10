@@ -25,12 +25,6 @@ contribute-learn = { -brand-name-mozilla } ගැන දැන ගන්න
 contribute-read-manifesto = ප්‍රතිපත්ති ප්‍රකාශනය කියවන්න
 contribute-donate = පරිත්‍යාග
 
-## Made by
-
-
-## Newsletter
-
-
 ## Support
 
 contribute-support-heading = උදව් ගන්න

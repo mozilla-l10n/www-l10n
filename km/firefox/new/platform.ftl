@@ -13,9 +13,3 @@ new-platform-need-help = ត្រូវការ​ជំនួយ?
 
 # Linux
 
-
-## Mac
-
-
-## Windows
-

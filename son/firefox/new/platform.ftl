@@ -13,9 +13,3 @@ new-platform-need-help = Ga baa faaba?
 
 # Linux
 
-
-## Mac
-
-
-## Windows
-

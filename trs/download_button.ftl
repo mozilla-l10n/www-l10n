@@ -20,6 +20,3 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> guenda { -bra
 download-button-firefox-privacy = Nuguan huìi riña { -brand-name-firefox }
 download-button-firefox-privacy-notice = { -brand-name-firefox } Nuguan' huìi
 download-button-download = Naduni'
-
-## Linux
-

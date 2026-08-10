@@ -6,24 +6,6 @@
 ### URL: https://www-dev.allizom.org/contribute/
 
 
-## Page heading
-
-
-## Contribution tasks
-
-
 ## Mission
 
 contribute-mission-heading = ചുമതല
-
-## Made by
-
-
-## Newsletter
-
-
-## Support
-
-
-## Web compat
-

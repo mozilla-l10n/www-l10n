@@ -13,9 +13,3 @@ new-platform-need-help = Vajag paleidzeibu?
 
 # Linux
 
-
-## Mac
-
-
-## Windows
-

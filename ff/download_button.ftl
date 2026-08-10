@@ -19,6 +19,3 @@ download-button-firefox-android = <span>{ -brand-name-firefox }</span> mo { -bra
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> mo { -brand-name-ios }
 download-button-firefox-privacy = Suturo { -brand-name-firefox }
 download-button-download = Aawto
-
-## Linux
-

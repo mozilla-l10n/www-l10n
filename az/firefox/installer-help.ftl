@@ -5,10 +5,4 @@
 
 ### URL: https://www-dev.allizom.org/firefox/installer-help/
 
-
-## Required
-
-
-##
-
 installer-help-firefox-release-title = { -brand-name-firefox-browser }

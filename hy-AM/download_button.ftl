@@ -20,6 +20,3 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }-ը</span> { -brand-n
 download-button-firefox-privacy = { -brand-name-firefox }-ի գաղտնիությունը
 download-button-firefox-privacy-notice = { -brand-name-firefox }-ի գաղտնիության ծանուցում
 download-button-download = Ներբեռնել
-
-## Linux
-

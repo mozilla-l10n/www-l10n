@@ -52,9 +52,3 @@ vpn-shared-platfrom-why-choose = { -brand-name-mozilla-vpn } ለምን?
 vpn-subnav-title = { -brand-name-mozilla-vpn }
 vpn-subnav-learn-about-vpns = ስለ VPNs ይወቁ
 vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn }ን አውርድ
-
-## Press quotations
-
-
-## Unsupported language notification
-

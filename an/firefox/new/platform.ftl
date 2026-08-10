@@ -18,9 +18,3 @@ new-platform-need-help = Te cal aduya?
 
 # Linux
 
-
-## Mac
-
-
-## Windows
-

@@ -13,9 +13,3 @@ new-platform-need-help = Cobhair a dhìth?
 
 # Linux
 
-
-## Mac
-
-
-## Windows
-

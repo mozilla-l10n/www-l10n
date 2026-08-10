@@ -19,6 +19,3 @@ download-button-firefox-android = <span>{ -brand-name-firefox }</span> „{ -bra
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> „{ -brand-name-ios }“ įrenginiams
 download-button-firefox-privacy = „{ -brand-name-firefox }“ privatumas
 download-button-download = Parsisiųsti
-
-## Linux
-

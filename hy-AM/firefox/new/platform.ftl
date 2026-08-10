@@ -18,9 +18,3 @@ new-platform-need-help = Օգնության կարիք ունե՞ք
 
 # Linux
 
-
-## Mac
-
-
-## Windows
-
