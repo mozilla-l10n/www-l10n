@@ -16,6 +16,4 @@ new-platform-need-help = Nepieciešama palīdzība?
 
 ## Mac
 
-
-## Windows
-
+new-platform-block-trackers = Liegt izsekotājus

@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = Liegt video un skaņas automātisku atskaņošanu
 firefox-desktop-download-adjust-search-bar = Pielāgot meklēšanas joslas iestatījumus
