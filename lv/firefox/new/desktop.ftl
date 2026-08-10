@@ -11,3 +11,7 @@ firefox-desktop-download-adjust-search-bar = Pielāgot meklēšanas joslas iesta
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automātiski <a { $attrs }>liedz daudzus trešo pušu izsekotājus</a>, lai tie nevarētu ievākt un pārdot Tavas darbības tīmeklī.
+
+## URL: https://www-dev.allizom.org/firefox/download/thanks/
+
+firefox-desktop-download-visit-support-for-more = Vairāk informācijas ir pieejama atbalsta vietnē
