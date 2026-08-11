@@ -14,6 +14,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } { -brand-name-android } peg̃uarã
 footer-beta-for-android = { -brand-name-beta } { -brand-name-android } peg̃uarã
+footer-donate-not-for-profit = Eme’ẽ atyguasu viru’ỹguápe  <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-portions-of-this-content = Ko tetepy vore ha’e ©1998–{ $current_year } mozilla.org pytyvõhára peteĩteĩva. Pe tetepy ejuhukuaa ko’ápe <a rel="license" href="{ $url }">{ -brand-name-creative-commons } moneĩmby</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Atyguasu
