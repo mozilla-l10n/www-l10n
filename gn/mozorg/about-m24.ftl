@@ -24,9 +24,13 @@ m24-about-read-our-manifesto = Emoñe’ẽ Mozilla he’ipyre
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Peteĩ oñepy’amongetáva aty oguapýva jerépe oguenohẽva hemiandu.
 m24-about-advocate = Pysyrõhára
+m24-about-we-advocate-for = Roipota opaite apopyre iporãvéva, upéva rehe roheja tetãrekuái ha tembiporupyahu moheñoihára pópe umi mba’e.
 m24-about-research = Jeporeka
+m24-about-we-uncover-insights = Rojuhuhína mba’ekuaa, rojapo mba’e ikatúva apopy omoporãve ha romoakãrapu’ã umi ouporãtava ndéve.
 m24-about-build = Jejapo
+m24-about-we-build-products-v2 = Romoheñói apopy ne pytyvõtava eikoporãvévo, ha’e { -brand-name-firefox }, ha hetave.
 m24-about-fund = Hepyme’ẽ
+m24-about-we-fund-and = Rohepyme’ẽ ha roinverti tapichaita rehe ha ñeha’ã omomýiva tembiporupyahu, Ñanduti ha IA tenonderã gotyo.
 
 ## News
 
