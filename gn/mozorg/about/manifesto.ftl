@@ -66,6 +66,7 @@ manifesto-commitment-1 = Ñe’ẽme’ẽ 1
 manifesto-commitment-2 = Ñe’ẽme’ẽ 2
 manifesto-commitment-3 = Ñe’ẽme’ẽ 3
 manifesto-commitment-4 = Ñe’ẽme’ẽ 4
+manifesto-if-you-share-this-goal-v2 = Emoherakuãrõ ko hupytyrã, emombe’u mba’éicha roipytyvõta.
 
 ## Obsolete strings (expire 2026-09-10)
 
