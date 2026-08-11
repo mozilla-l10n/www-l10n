@@ -8,6 +8,7 @@
 
 # HTML page title
 
+browsers-chromebook-install-firefox-from = Uzstādīt { -brand-name-firefox } no { -brand-name-google-play } veikala: jaunākās { -brand-name-chromeos } (uz x86 balstīts { -brand-name-chromebook }, kas darbina { -brand-name-chromeos } 80 vai jaunāku) versijās ir iespējams uzstādīt { -brand-name-firefox } { -brand-name-android } lietotni. Šī lietotne ir izstrādāta mobilajām ierīcēm.
 
 # Variables:
 # $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
