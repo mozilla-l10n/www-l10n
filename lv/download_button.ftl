@@ -18,3 +18,19 @@ download-button-firefox-android = <span>{ -brand-name-firefox }</span> { -brand-
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name-ios } ierīcēm
 download-button-firefox-privacy = { -brand-name-firefox } Privātums
 download-button-download = Lejupielādēt
+download-button-please-download-esr = Lūgums lejupielādēt { -brand-name-firefox-esr } (paplašinātā atbalsta laidienu), lai izmantotu { -brand-name-firefox }.
+download-firefox-esr = Lejupielādēt { -brand-name-firefox-esr }
+download-firefox-esr-32 = Lejupielādēt 32 bitu { -brand-name-firefox-esr }
+download-firefox-esr-64 = Lejupielādēt 64 bitu { -brand-name-firefox-esr }
+download-a-different-build = Lejupielādēt citu būvējumu
+
+## Linux
+
+download-button-linux-32-v2 = Lajupielādēt 32 bitu GNU/Linux operētājsistēmai
+download-button-linux-64-v2 = Lejupielādēt 64 bitu GNU/Linux operētājsistēmai
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = Izmanto Debian, Ubuntu vai jebkuru uz Debian balstītu operētājsistēmu?<br>Tu vari iestatīt mūsu <a { $attrs }>APT glabātavu</a>.
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Iegūt no Microsoft
