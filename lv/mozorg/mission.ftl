@@ -9,7 +9,7 @@ mission-were-building-a-better-internet = Mēs veidojam labāku Internetu
 mission-our-mission-is-to-ensure-the-internet = Mūsu misija ir nodrošināt lai internets paliek globāls resursus, visiem un visur pieejams. Internets kas patur cilvēkus pirmā vietā, kur cilvēki var izveidot savu pašu pieredzi, pilnvaroti, droši un neatkarīgi.
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = Mūsu misija ir atvērtības, inovācijas un iespēju veicināšana tīmeklī.
-mission-we-believe-this-act-of-human-collaboration = Mēs ticam, ka šī cilvēku sadarbība caur atvērtu platformu ir fundamentāli svarīga mūsu individuālai attīstībai un kopīgai nākotnei.
+mission-we-believe-this-act-of-human-collaboration = Mēs ticam, ka šī cilvēku sadarbība caur atvērtu platformu ir būtiska mūsu individuālai attīstībai un kopīgai nākotnei.
 mission-watch-the-video-above-to-learn-more = Apskatiet video, lai uzzinātu, kas mēs esam, no kurienes nākam un ko darām, lai padarītu internetu labāku priekš jums.
 mission-get-involved = Iesaistieties
 mission-volunteer-opportunities-in-a-number = Iesaistīšanas iespējas vairākas atšķirīgās jomās
