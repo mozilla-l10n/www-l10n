@@ -77,6 +77,10 @@ manifesto-we-invest-in = <a { $mozvc_link }>Vlagamo v odgovorna tehnološka zago
 # Variables:
 #   $mdc_link (url) - link to https://mozilladatacollective.com/
 manifesto-we-run-a-global = <a { $mdc_link }>Vodimo globalno skupnost</a> za pravično izmenjavo podatkov.
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = In seveda razvijamo <a { $firefox_link }>{ -brand-name-firefox }</a> ter <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Z vsem tem želimo ljudem pomagati, da internet postane zdravo okolje.
 
 ## Obsolete strings (expire 2026-09-10)
 
