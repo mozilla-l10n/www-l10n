@@ -28,8 +28,10 @@ manifesto-we-are-committed-to-diverse = Predani smo internetu, ki vabi k sodelov
 manifesto-an-internet-with-these = Internet s takšnimi lastnostmi ne bo zaživel sam. Posamezniki in organizacije morajo vključiti ta prizadevanja v tehnologijo interneta in v človekovo izkušnjo z internetom. Manifest { -brand-name-mozilla(sklon: "rodilnik") } in dopolnilo Manifesta predstavljata zavezanost { -brand-name-mozilla(sklon: "rodilnik") } k napredku teh prizadevanj. Naš cilj je sodelovati z ljudmi in organizacijami, ki delijo te cilje, da bi internet postal še boljši prostor za vse.
 manifesto-details-introduction = Uvod
 manifesto-details-the-internet-is-becoming = Internet igra v naših življenjih iz dneva v dan pomembnejšo vlogo.
+manifesto-details-the-mozilla-project-global-v2 = Projekt { -brand-name-mozilla } je globalna skupnost ljudi, ki verjamejo, da so odprtost, inovativnost in pripravljenost izkoristiti priložnosti, ki se nudijo, ključnega pomena za nadaljnje zdravje interneta. Od ustanovitve leta 1998 dalje je naš namen in cilj zagotoviti, da se internet razvija v smeri, ki koristi vsakomur med nami. Ljudje nas najbolj poznajo po tem, da smo razvili spletni brskalnik { -brand-name-mozilla } { -brand-name-firefox }.
 # Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = Projekt { -brand-name-mozilla } je globalna skupnost ljudi, ki verjamejo, da so odprtost, inovativnost in pripravljenost izkoristiti priložnosti, ki se nudijo, ključnega pomena za nadaljnje zdravje interneta. Od ustanovitve leta 1998 dalje je naš namen in cilj zagotoviti, da se internet razvija v smeri, ki koristi vsakomur med nami. Ljudje nas najbolj poznajo po tem, da smo razvili spletni brskalnik { -brand-name-mozilla } { -brand-name-firefox }.
+manifesto-details-the-mozilla-project-community-v2 = Projekt { -brand-name-mozilla } s svojim na skupnosti zasnovanim pristopom razvija odprtokodno programsko opremo na svetovnem nivoju in omogoča nove oblike skupinskih dejavnosti. Oblikujemo skupnosti posameznikov, katerih vizija je, da za vse nas internet postane prijetnejši in varnejši.
 # Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = Projekt { -brand-name-mozilla } s svojim na skupnosti zasnovanim pristopom razvija odprtokodno programsko opremo na svetovnem nivoju in omogoča nove oblike skupinskih dejavnosti. Oblikujemo skupnosti posameznikov, katerih vizija je, da za vse nas internet postane prijetnejši in varnejši.
 manifesto-details-as-a-result-of = Kot rezultat teh prizadevanj smo izoblikovali sklop načel, za katere menimo, da so ključnega pomena, če želimo, da internet še naprej pozitivno vpliva tako na javno korist kot tudi na poslovne vidike življenja. Ta načela navajamo spodaj.
@@ -59,7 +61,22 @@ manifesto-details-build-and-deliver = izdelovali in ponujali kvalitetne izdelke,
 manifesto-details-use-the-mozilla = uporabljali sredstva { -brand-name-mozilla(sklon: "rodilnik") } (intelektualno lastnino, kot so avtorske pravice in blagovne znamke, infrastrukturo, sklade in ugled), tako da internet ostane dalje odprta platforma,
 manifesto-details-promote-models = podpirali modele, ki bodo ustvarjali ekonomsko vrednost iz projektov javne koristi in
 manifesto-details-promote-the-mozilla = spodbujali načela Manifesta { -brand-name-mozilla(sklon: "rodilnik") } v javnih razpravah in v okviru industrije, ki se ukvarja z internetom.
+manifesto-we-need-you = Za uresničitev manifesta potrebujemo tudi vas
+manifesto-an-internet-with-these-v2 = Internet s takšnimi lastnostmi ne bo zaživel sam. Posamezniki in organizacije morajo ta prizadevanja vključiti v tehnologijo interneta in v človekovo izkušnjo z internetom. Manifest { -brand-name-mozilla(sklon: "rodilnik") } in dopolnilo Manifesta predstavljata zavezanost { -brand-name-mozilla(sklon: "rodilnik") } k napredku teh prizadevanj. { -brand-name-mozilla } sodeluje z ljudmi in organizacijami, ki želijo iz internet napraviti boljši prostor za vsakogar.
 manifesto-our-commitments = Naše zaveze
+manifesto-commitment-1 = Zaveza št. 1
+manifesto-commitment-2 = Zaveza št. 2
+manifesto-commitment-3 = Zaveza št. 3
+manifesto-commitment-4 = Zaveza št. 4
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+manifesto-we-create-open = Ustvarjamo <a { $github_link }>odprtokodno programsko opremo</a>, ki jo lahko sami nadgrajujete.
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = <a { $mozvc_link }>Vlagamo v odgovorna tehnološka zagonska podjetja</a>.
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = <a { $mdc_link }>Vodimo globalno skupnost</a> za pravično izmenjavo podatkov.
 
 ## Obsolete strings (expire 2026-09-10)
 
