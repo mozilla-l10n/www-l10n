@@ -70,6 +70,12 @@ manifesto-if-you-share-this-goal-v2 = Emoherakuãrõ ko hupytyrã, emombe’u mb
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla
 manifesto-we-create-open = Romoheñói <a { $github_link }>software ijayvu jurujáva</a> ikatuha ejapove hi’ári.
+# Variables:
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+manifesto-we-fund-fellows = Ore <a { $mofo_link }>rohepyme’ẽ beca ha romoheñói apopyrãita</a> ombohapekuaáva ñanduti renonderã.
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = Ore <a { $mozai_link }>romoheñói tembiporu IA ijayvu jurujáva</a> ome’ẽva mboguataharaitápe pa’ũ ha roykeko viru jeporu’iverã.
 
 ## Obsolete strings (expire 2026-09-10)
 
