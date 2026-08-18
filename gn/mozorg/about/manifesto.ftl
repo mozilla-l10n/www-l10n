@@ -67,6 +67,9 @@ manifesto-commitment-2 = Ñe’ẽme’ẽ 2
 manifesto-commitment-3 = Ñe’ẽme’ẽ 3
 manifesto-commitment-4 = Ñe’ẽme’ẽ 4
 manifesto-if-you-share-this-goal-v2 = Emoherakuãrõ ko hupytyrã, emombe’u mba’éicha roipytyvõta.
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+manifesto-we-create-open = Romoheñói <a { $github_link }>software ijayvu jurujáva</a> ikatuha ejapove hi’ári.
 
 ## Obsolete strings (expire 2026-09-10)
 
