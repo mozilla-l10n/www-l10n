@@ -76,6 +76,12 @@ manifesto-we-fund-fellows = Ore <a { $mofo_link }>rohepyme’ẽ beca ha romohe�
 # Variables:
 #   $mozai_link (url) - link to https://www.mozilla.ai
 manifesto-we-build-open-source = Ore <a { $mozai_link }>romoheñói tembiporu IA ijayvu jurujáva</a> ome’ẽva mboguataharaitápe pa’ũ ha roykeko viru jeporu’iverã.
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = Ore <a { $mozvc_link }>roinverti tembiporupyahu oikóva rehe</a>.
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = <a { $mdc_link }>Romyakã peteĩ tokoha guasu</a> mba’ekuaarã ñembohasarã.
 
 ## Obsolete strings (expire 2026-09-10)
 
