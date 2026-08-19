@@ -66,7 +66,7 @@ vpn-download-faq-best-practices = Wat zijn enkele beste praktijken voor VPN?
 vpn-download-faq-traffic = Als het uw doel is om uw internetverkeer te beschermen en tegelijkertijd een hoge snelheid te behouden, dan is het altijd het beste om een serverlocatie te kiezen die zo dicht mogelijk bij uw fysieke locatie ligt. Dit verhoogt de betrouwbaarheid en snelheid van uw verbinding, aangezien uw internetverkeer geen grote omweg hoeft te maken voordat het op de beoogde bestemming op internet aankomt.
 vpn-download-faq-experience = Als het uw doel is om internet te ervaren alsof u zich in een ander deel van de wereld bevindt, kunt u daar een serverlocatie kiezen, en alle websites die u bezoekt worden getoond alsof u daar bent.
 vpn-download-faq-protect = Als u zichzelf nog meer wilt beschermen, kunt u bescherming tegen advertenties, advertentietrackers en malware activeren door naar Instellingen > Privacyfuncties te gaan. Houd er rekening mee dat dit ertoe kan leiden dat sommige websites niet goed werken of niet worden geladen, dus mogelijk moet u deze beveiligingen tijdelijk uitschakelen als u dit probleem tegenkomt.
-vpn-download-faq-lastly = Ten slotte kunt u op ondersteunde apparaten de VPN nog slimmer maken door bepaalde apps (b.v. Netflix) uit te sluiten van de VPN.
+vpn-download-faq-lastly = Ten slotte kunt u op ondersteunde apparaten de VPN nog slimmer maken door bepaalde apps (bijv. Netflix) uit te sluiten van de VPN.
 vpn-download-faq-need-more = Nog wat meer hulp nodig?
 # Variables
 #   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
