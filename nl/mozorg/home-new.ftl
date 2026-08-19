@@ -26,7 +26,7 @@ home-mozilla-takes-bets = ‘{ -brand-name-mozilla } neemt de gok om de wereld t
 home-politico-cite = Politico
 home-join-us-in-shaping = Help mee betrouwbare AI vorm te geven
 home-work-on-ai = Het werk van { -brand-name-mozilla } met AI is niet zomaar iets nieuws – we hebben jaren gespendeerd aan het financieren, bouwen en bepleiten van AI die open en eerlijk is en op een verantwoorde manier wordt ontwikkeld. Onze focus ligt op het creëren van AI die de mensen dient, transparantie vooropstelt en het algemeen belang ondersteunt, niet de zakelijke agenda’s.
-home-read-more = Meer info
+home-read-more = Meer lezen
 home-so-what-is-mozilla = Dus, wat is { -brand-name-mozilla }?
 # Variables
 #   $ventures - link to https://mozilla.vc/

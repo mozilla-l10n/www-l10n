@@ -34,7 +34,7 @@ m24-about-we-fund-and = We financieren en investeren in de mensen en inspanninge
 
 ## News
 
-m24-about-read-more = Meer info
+m24-about-read-more = Meer lezen
 m24-about-read-the-latest = Lees het laatste nieuws en artikelen van { -brand-name-mozilla }
 m24-about-rewiring-mozilla = { -brand-name-mozilla } opnieuw uitvinden: doen voor AI wat we voor het web deden. Lees over onze strategie van de volgende generatie en hoe we { -brand-name-mozilla } transformeren voor het tijdperk van AI.
 m24-about-what-comes-next = Wat hierna komt in technologie is een keuze. Kies met ons.
