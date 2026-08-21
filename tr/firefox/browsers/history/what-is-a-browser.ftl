@@ -17,6 +17,9 @@ what-is-a-browser-in-a-short-period-long = Eskiden dünyanın öbür ucundaki bi
 what-is-a-browser-in-a-short-period = Eskiden dünyanın öbür ucundaki birine e-posta gönderebilmek bile insanları şaşırtıyordu ama bilgiye erişimle ilgili düşüncelerimiz kısa sürede değişti.
 what-is-a-browser-how-does-a-web = Web tarayıcısı nasıl çalışır?
 what-is-a-browser-a-web-browser-long = Web tarayıcıları internette istediğiniz yere ulaşmanızı sağlar. Web’in farklı yerlerindeki bilgileri alıp bilgisayarınızda veya mobil cihazınızda görüntüler. Bilgiler; metinlerin, resimlerin ve videoların web üzerinden nasıl iletileceğini belirleyen Hipermetin Aktarım Protokolü (HTTP) kullanılarak aktarılır. Dünyanın neresinde olursa olsun, herhangi bir tarayıcı kullanan herkesin bu bilgileri görebilmesi için bilgilerin tutarlı bir biçimde paylaşılıp görüntülenebilmesi gerekir.
+# Variables:
+#   $standards (url) - link to https://developer.mozilla.org/docs/Archive/Web_Standards
+what-is-a-browser-sadly-not-all = Ne yazık ki tarayıcı geliştiricilerinin hepsi bu biçimi aynı şekilde yorumlamayı tercih etmiyor. Bu nedenle bazı web siteleri kullanıcıların kullandığı tarayıcıya göre farklı görünebiliyor ve farklı çalışabiliyor. Kullandıkları tarayıcı fark etmeksizin tüm kullanıcıların internetten yararlanabilmesi için tarayıcılar arasında tutarlılık sağlanmasına <a href="{ $standards }">web standartları</a> deniyor.
 what-is-a-browser-cookies-not-the = Çerezler
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
