@@ -55,4 +55,5 @@ firefox-products-download-thunderbird = Pobierz { -brand-name-thunderbird(case: 
 
 ## Solo
 
+firefox-products-solo = { -brand-name-solo }
 firefox-products-learn-more-about-solo = Dowiedz się więcej o { -brand-name-solo }
