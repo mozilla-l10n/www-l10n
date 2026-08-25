@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/new/
 
+firefox-desktop-set-as-default = Iestatīt { -brand-name-firefox } kā noklusējuma pārlūku.
 firefox-desktop-download-search-from-address = Meklēt adrešu joslā
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Liegt video un skaņas automātisku atskaņošanu
