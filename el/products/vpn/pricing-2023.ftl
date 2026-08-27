@@ -48,7 +48,7 @@ vpn-pricing-what-information = Ποιες πληροφορίες διατηρε�
 # Variables
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-pricing-we-adhere-strictly = Τηρούμε αυστηρά τις <a { $principles }>Αρχές απορρήτου δεδομένων</a> της { -brand-name-mozilla }. Συλλέγουμε μόνο τα δεδομένα που απαιτούνται για να παραμείνει λειτουργικό και να βελτιώνεται συνεχώς το { -brand-name-mozilla-vpn }. Καταγράφονται επίσης τα δεδομένα εκστρατειών και παραπομπών στην εφαρμογή μας για κινητές συσκευές, ώστε να κατανοήσει καλύτερα η { -brand-name-mozilla } την αποτελεσματικότητα των διαφημιστικών εκστρατειών μας. Διαβάστε περισσότερα στη <a { $notice }>Σημείωση απορρήτου</a> μας.
+vpn-pricing-we-adhere-strictly = Τηρούμε αυστηρά τις <a { $principles }>Αρχές απορρήτου δεδομένων</a> της { -brand-name-mozilla }. Συλλέγουμε μόνο τα δεδομένα που απαιτούνται για να παραμείνει λειτουργικό και να βελτιώνεται συνεχώς το { -brand-name-mozilla-vpn }. Καταγράφονται επίσης τα δεδομένα εκστρατειών και παραπομπών στην εφαρμογή μας για κινητές συσκευές, ώστε να κατανοήσει καλύτερα η { -brand-name-mozilla } την αποτελεσματικότητα των διαφημιστικών εκστρατειών μας. Διαβάστε περισσότερα στη <a { $notice }>Δήλωση απορρήτου</a> μας.
 vpn-pricing-how-do-i-manage = Πώς μπορώ να διαχειριστώ τη συνδρομή μου και να αλλάξω το πρόγραμμά μου;
 # Variables
 # $manage (url) - link to subscription management page

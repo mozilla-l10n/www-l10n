@@ -6,6 +6,6 @@ fxa-form-enter-your-email-v2 = <strong>Εισαγάγετε το email σας</s
 # Variables:
 #   $url1 (url) - link to https://accounts.firefox.com/legal/terms
 #   $url2 (url) - link to https://accounts.firefox.com/legal/privacy
-fxa-form-by-proceeding = Συνεχίζοντας, αποδέχεστε τους <a href="{ $url1 }">Όρους υπηρεσίας</a> και τη <a href="{ $url2 }">Σημείωση απορρήτου</a>.
+fxa-form-by-proceeding = Συνεχίζοντας, αποδέχεστε τους <a href="{ $url1 }">Όρους παροχής υπηρεσιών</a> και τη <a href="{ $url2 }">Δήλωση απορρήτου</a>.
 fxa-form-email-address = Διεύθυνση email
 fxa-form-continue = Συνέχεια

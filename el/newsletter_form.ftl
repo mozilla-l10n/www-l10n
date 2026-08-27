@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 newsletter-form-please-enter-a-valid = Εισαγάγετε μια έγκυρη διεύθυνση email
-newsletter-form-you-must-agree-to = Πρέπει να συμφωνήσετε με τη σημείωση απορρήτου
+newsletter-form-you-must-agree-to = Πρέπει να αποδεχτείτε τη δήλωση απορρήτου
 newsletter-form-your-email-address = Η διεύθυνση email σας
 newsletter-form-we-are-sorry-but-there = Δυστυχώς, προέκυψε κάποιο πρόβλημα στο σύστημά μας. Δοκιμάστε ξανά αργότερα.
 newsletter-form-please-select-country = Επιλέξτε μια χώρα ή περιοχή
@@ -18,7 +18,7 @@ newsletter-form-join-the-community = Συμμετοχή στην κοινότη�
 newsletter-form-sign-up-to-receive = Εγγραφείτε για να λαμβάνετε μηνιαίες ενημερώσεις από το { -brand-name-firefox } και τις τάσεις του διαδικτύου που διαμορφώνουν τη ζωή σας στο διαδίκτυο.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
-newsletter-form-im-okay-with-mozilla = Δέχομαι την επεξεργασία των πληροφοριών μου από τη { -brand-name-mozilla }, όπως εξηγεί η <a href='{ $url }'>Σημείωση απορρήτου</a>.
+newsletter-form-im-okay-with-mozilla = Δέχομαι την επεξεργασία των πληροφοριών μου από τη { -brand-name-mozilla }, όπως εξηγεί η <a href='{ $url }'>Δήλωση απορρήτου</a>.
 newsletter-form-we-will-only-send-v2 = Θα σας στέλνουμε μόνο πληροφορίες σχετικές με τη { -brand-name-mozilla }. Μπορείτε να καταργήσετε την εγγραφή σας ανά πάσα στιγμή.
 newsletter-form-we-will-only-send-firefox-v2 = Θα σας στέλνουμε μόνο πληροφορίες σχετικές με το { -brand-name-firefox }. Μπορείτε να καταργήσετε την εγγραφή σας ανά πάσα στιγμή.
 newsletter-form-if-you-havent-previously = Αν δεν έχετε επιβεβαιώσει ήδη τη συνδρομή σας σε κάποιο ενημερωτικό δελτίο της { -brand-name-mozilla }, ίσως χρειαστεί να το κάνετε. Ελέγξτε τα εισερχόμενα ή τον φάκελο ανεπιθύμητων μηνυμάτων σας για ένα email από εμάς.

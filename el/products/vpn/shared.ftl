@@ -12,7 +12,7 @@ vpn-shared-waitlist-link = Εγγραφή στη λίστα αναμονής
 vpn-shared-money-back-guarantee = Εγγύηση επιστροφής χρημάτων 30 ημερών
 # This string is displayed as an item in a list of features.
 vpn-shared-features-guarantee = Εγγύηση επιστροφής χρημάτων 30 ημερών
-vpn-shared-privacy-notice = Σημείωση απορρήτου
+vpn-shared-privacy-notice = Δήλωση απορρήτου
 vpn-shared-terms-conditions = Όροι και συνθήκες
 vpn-shared-wireguard-copyright = Το { -brand-name-wireguard } αποτελεί κατοχυρωμένο εμπορικό σήμα του Jason A. Donenfeld
 
@@ -45,9 +45,6 @@ vpn-shared-pricing-total = { $amount } συνολικά
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total-plus-tax = { $amount } συνολικά + φόρος
 vpn-shared-mozilla-vpn-is-not-yet-available = Το { -brand-name-mozilla-vpn } δεν είναι ακόμα διαθέσιμο στη χώρα σας
-
-# Platform subpage shared strings
-
 vpn-shared-platform-cta-button = Προβολή τιμών και διαθεσιμότητας
 vpn-shared-platform-what-is = Τι είναι το { -brand-name-mozilla-vpn };
 vpn-shared-platfrom-why-choose = Γιατί να επιλέξω το { -brand-name-mozilla-vpn };

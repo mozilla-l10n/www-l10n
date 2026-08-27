@@ -23,7 +23,7 @@ cookie-settings-turn-on-javascript = Ενεργοποιήστε τη JavaScript 
 cookie-settings-category-necessary-heading = Απαραίτητα
 cookie-settings-category-necessary-what-are-subheading = Τι είναι τα απαραίτητα cookie;
 cookie-settings-category-necessary-what-are-desc = Αυτές οι τεχνολογίες απαιτούνται για την υποστήριξη των βασικών λειτουργιών των ιστοτόπων, όπως η σύνδεση σε μια ασφαλή περιοχή μιας ιστοσελίδας ή η προσθήκη προϊόντων σε ένα καλάθι αγορών, επομένως δεν είναι δυνατή η απενεργοποίησή τους.
-cookie-settings-category-necessary-how-does-desc-v2 = Η { -brand-name-mozilla } χρησιμοποιεί τα απαραίτητα cookie αποκλειστικά για την παροχή των βασικών λειτουργιών του ιστοτόπου, όπως σύνδεση μέσω τον { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } σας ή αγορά μιας συνδρομής λογισμικού . Χωρίς αυτές τις τεχνολογίες, οι βασικές λειτουργίες του ιστοτόπου ενδέχεται να μην λειτουργούν.
+cookie-settings-category-necessary-how-does-desc-v2 = Η { -brand-name-mozilla } χρησιμοποιεί τα απαραίτητα cookie αποκλειστικά για την παροχή των βασικών λειτουργιών του ιστοτόπου, όπως σύνδεση μέσω τον { -brand-name-mozilla-account(capitalization: "lower", case: "acc") } σας ή αγορά μιας συνδρομής λογισμικού . Χωρίς αυτές τις τεχνολογίες, οι βασικές λειτουργίες του ιστοτόπου ενδέχεται να μην λειτουργούν.
 
 ## Preference cookies section
 
@@ -41,6 +41,6 @@ cookie-settings-category-analytics-how-does-desc = Η { -brand-name-mozilla } χ
 
 ## Privacy section
 
-cookie-settings-privacy-heading = Η σημείωση απορρήτου μας
-cookie-settings-privacy-desc = Για πιο λεπτομερείς πληροφορίες σχετικά με τους διαφορετικούς τύπους πληροφοριών που συλλέγει η { -brand-name-mozilla } όταν επισκέπτεστε τους ιστοτόπους μας, μπορείτε να βρείτε έναν σύνδεσμο για τη σημείωση απορρήτου μας παρακάτω.
-cookie-settings-privacy-policy-link = Σημείωση απορρήτου
+cookie-settings-privacy-heading = Η δήλωση απορρήτου μας
+cookie-settings-privacy-desc = Για πιο λεπτομερείς πληροφορίες σχετικά με τους διαφορετικούς τύπους πληροφοριών που συλλέγει η { -brand-name-mozilla } όταν επισκέπτεστε τους ιστοτόπους μας, μπορείτε να βρείτε έναν σύνδεσμο για τη δήλωση απορρήτου μας παρακάτω.
+cookie-settings-privacy-policy-link = Δήλωση απορρήτου

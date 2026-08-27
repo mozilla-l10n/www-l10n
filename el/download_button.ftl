@@ -18,7 +18,7 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> για { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> για { -brand-name-ios }
 download-button-firefox-privacy = Απόρρητο { -brand-name-firefox }
-download-button-firefox-privacy-notice = Σημείωση απορρήτου { -brand-name-firefox }
+download-button-firefox-privacy-notice = Δήλωση απορρήτου του { -brand-name-firefox }
 download-button-download = Λήψη
 # Variables:
 #   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly

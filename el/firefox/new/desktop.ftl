@@ -112,10 +112,10 @@ firefox-desktop-download-from-security-to = Υπάρχει πάντα μια <a 
 firefox-desktop-download-firefox-was-created = Το { -brand-name-firefox } δημιουργήθηκε από τη <a { $attrs }>{ -brand-name-mozilla }</a> ως μια ταχύτερη, πιο ιδιωτική εναλλακτική λύση για το { -brand-name-ie }, και πλέον για το { -brand-name-chrome }. Σήμερα, η εταιρεία μας και η κοινότητα των εθελοντών μας συνεχίζουν να θέτουν το απόρρητό σας πάνω απ' όλα.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
-firefox-desktop-download-as-the-internet-v2 = Καθώς το διαδίκτυο αναπτύσσεται και αλλάζει, το { -brand-name-firefox } συνεχίζει να εστιάζει στο δικαίωμά σας για ιδιωτικότητα. Γιατί αυτό ήταν πάντοτε το μέλημά μας. Μάθετε περισσότερα σχετικά με τις πρακτικές μας όσον αφορά τα δεδομένα στη <a { $attrs }>Σημείωση απορρήτου</a> μας.
+firefox-desktop-download-as-the-internet-v2 = Καθώς το διαδίκτυο αναπτύσσεται και αλλάζει, το { -brand-name-firefox } συνεχίζει να εστιάζει στο δικαίωμά σας για ιδιωτικότητα. Γιατί αυτό ήταν πάντοτε το μέλημά μας. Μάθετε περισσότερα σχετικά με τις πρακτικές μας όσον αφορά τα δεδομένα στη <a { $attrs }>Δήλωση απορρήτου</a> μας.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
-firefox-desktop-download-firefox-is-available-v2 = Το { -brand-name-firefox } διατίθεται για όλες τις συσκευές σας. Πάρτε μαζί σας τις καρτέλες, το ιστορικό και τους σελιδοδείκτες σας. Το μόνο που χρειάζεστε είναι ένας <a { $attrs }>{ -brand-name-mozilla-account(case: "nom", capitalization: "lower") }</a> και θα έχετε πρόσβαση στον συγχρονισμό και σε περισσότερα προϊόντα της { -brand-name-mozilla }.
+firefox-desktop-download-firefox-is-available-v2 = Το { -brand-name-firefox } διατίθεται για όλες τις συσκευές σας. Πάρτε μαζί σας τις καρτέλες, το ιστορικό και τους σελιδοδείκτες σας. Το μόνο που χρειάζεστε είναι ένας <a { $attrs }>{ -brand-name-mozilla-account(capitalization: "lower", case: "nom") }</a> και θα έχετε πρόσβαση στον συγχρονισμό και σε περισσότερα προϊόντα της { -brand-name-mozilla }.
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Καταγράψτε οτιδήποτε στο διαδίκτυο με υψηλή ανάλυση με το ενσωματωμένο εργαλείο <a { $attrs }>στιγμιότυπων οθόνης</a>.

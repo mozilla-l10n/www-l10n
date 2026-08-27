@@ -16,7 +16,7 @@ legal-our-websites = Οι ιστότοποί μας
 legal-firefox-services = Υπηρεσίες { -brand-name-firefox }
 legal-pocket = { -brand-name-pocket }
 legal-privacy-trademarks = Απόρρητο και εμπορικά σήματα
-legal-privacy-notices-and-policy = Πολιτική απορρήτου
+legal-privacy-notices-and-policy = Δηλώσεις και πολιτική απορρήτου
 legal-downloadable-software-notices = Όροι λήψης λογισμικού
 # heading for the table of contents, a shorter heading is better
 legal-firefox-contents = Περιεχόμενα
