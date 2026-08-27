@@ -32,7 +32,7 @@
 -brand-name-firefox-browser = Firefox-browser
 -brand-name-firefox-browsers = Firefox-browsers
 -brand-name-firefox-developer-edition = Firefox Developer Edition
--brand-name-firefox-enterprise = Firefox Enterprise
+-brand-name-firefox-enterprise = Firefox voor Ondernemingen
 -brand-name-firefox-esr = Firefox ESR
 -brand-name-firefox-extended-support-release = Firefox Extended Support Release
 -brand-name-firefox-focus = Firefox Focus
@@ -42,7 +42,7 @@
 
 -brand-name-beta = Beta
 -brand-name-developer-edition = Developer Edition
--brand-name-enterprise = Enterprise
+-brand-name-enterprise = Ondernemingen
 -brand-name-esr = ESR
 -brand-name-focus = Focus
 -brand-name-nightly = Nightly
