@@ -5,3 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/
 
+
+## VPN
+
+firefox-products-surf-stream-and-get-work-done = Pārlūko, straumē un paveic darāmo serveros vairāk nekā 30 valstīs ar jaunu skatījumu drošā savienojumā ar internetu.
