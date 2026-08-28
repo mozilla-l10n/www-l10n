@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
+firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } lejupielādes
 firefox-enterprise-macos = { -brand-name-mac }
