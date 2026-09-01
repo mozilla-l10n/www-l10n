@@ -7,6 +7,8 @@ footer-refresh-leadership = Liderança
 footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
 # The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
 footer-refresh-learn-more-about-mozilla-ads = Saber mais <span>sobre { footer-refresh-mozilla-ads }</span>
+# Obsolete string (expires 2026-10-03)
+footer-refresh-learn-more-about-mozilla-advertising = Saiba mais <span>sobre a Publicidade da { -brand-name-mozilla }</span>
 footer-refresh-firefox-release-notes = Notas de lançamento do { -brand-name-firefox }
 footer-refresh-add-trust-to = Adicione confiança ao seu anúncio de compra.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
