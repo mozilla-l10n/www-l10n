@@ -26,7 +26,7 @@ what-is-a-browser-when-the-web-browser = Web tarayıcısı, internete bağlı bi
 # Variables:
 #   $hyperlink (url) - link to https://developer.mozilla.org/docs/Glossary/Hyperlink
 #   $url(url) - link to https://wikipedia.org/wiki/URL
-what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Hiperbağlantılar</a>, kullanıcıların web üzerindeki diğer sayfalara veya sitelere giden bir yolu takip etmelerini sağlar. Her web sayfası, resim ve videonun kendine özgü bir <a href="{ $url }">Tekdüzen Kaynak Konum Belirleyicisi</a> (URL) vardır; bu, web adresi olarak da bilinir. Bir tarayıcı veri almak için bir sunucuya bağlandığında, web adresi tarayıcıya HTML'de tanımlanan her bir öğeyi nerede arayacağını söyler; bu da tarayıcıya web sayfasında nereye gideceğini bildirir.
+what-is-a-browser-hyperlinks-allow = <a href="{ $hyperlink }">Hiperbağlantılar</a>, kullanıcıların web üzerindeki diğer sayfalara veya sitelere giden bir yolu takip etmelerini sağlar. Her web sayfasının, resmin ve videonun kendine özgü bir <a href="{ $url }">Tekdüzen Kaynak Konum Belirleyicisi</a> (URL) vardır; bu, web adresi olarak da bilinir. Bir tarayıcı veri almak için bir sunucuya bağlandığında, web adresi tarayıcıya HTML içerisinde tanımlanan her bir elemanı nerede arayacağını söyler; bu da tarayıcıya web sayfasında nereye gideceğini bildirir.
 what-is-a-browser-cookies-not-the = Çerezler
 # Variables:
 #   $cookies (url) - link to https://wikipedia.org/wiki/HTTP_cookie
