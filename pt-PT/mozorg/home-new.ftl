@@ -47,5 +47,5 @@ home-featured-product = Produto em destaque
 home-feature-blur-your-location = Desfoque a sua localização e atividade utilizando a <span>{ -brand-name-mozilla-vpn }</span>
 # Mozilla Foundation donation promo
 home-mofo-build-our-movement = Construir o nosso movimento
-home-mofo-donate-to-mofo-today = Faça um donativo hoje para a { -brand-name-mozilla-foundation } para garantir que a Internet se mantém aberta e acessível a todos.
+home-mofo-donate-to-mofo-today = Faça uma doação hoje para a { -brand-name-mozilla-foundation } para garantir que a internet se mantém aberta e acessível para todos.
 home-mofo-donate = Doar

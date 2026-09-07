@@ -16,7 +16,7 @@ gone-page-go-home = Comece a explorar o site a partir da sua <a { $home }>págin
 gone-page-search-blog = Pesquisar no <a { $blog }>Blogue { -brand-name-mozilla }</a>.
 # Variables:
 #   $products (attr) - attributes to be added to the <a> tag - href="/products/"
-gone-page-browse-products = Navegue nos nossos <a { $products }>productos</a>.
+gone-page-browse-products = Explore os nossos <a { $products }>produtos</a>.
 # Variables:
 #   $support (attr) - attributes to be added to the <a> tag - href="https://support.mozilla.org/"
-gone-page-visit-support = Visite o <a { $support }>{ -brand-name-mozilla } Apoio</a>.
+gone-page-visit-support = Visite o <a { $support }>Suporte da { -brand-name-mozilla }</a>.

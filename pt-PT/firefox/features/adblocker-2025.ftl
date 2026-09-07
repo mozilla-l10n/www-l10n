@@ -27,13 +27,13 @@ features-adblocker-tip-4 = <strong>Compatibilidade com o dispositivo:</strong> C
 features-adblocker-tip-5 = <strong>Bloqueio de programas maliciosos:</strong> Alguns bloqueadores de anúncios protegem-no contra os anúncios maliciosos (por exemplo: AdGuard).
 features-adblocker-tip-6 = <strong>Controles parentais:</strong> úteis se quiser bloquear conteúdo inapropriado.
 features-adblocker-its-important-to-note = É importante ter em consideração que alguns sites confiam nos anúncios para carregar conteúdo ou fornecer funcionalidades. Bloquear anúncios pode fazer com que algumas funcionalidades apresentem problemas, tais como vídeos que não são reproduzidos ou opções de início de sessão que falham. Escolha um bloqueador de anúncios que seja atualizado regularmente e se encontrar um bloqueador de anúncios que causa problemas significativos, tente outro para encontrar um melhor equilíbrio entre desempenho e compatibilidade.
-features-adblocker-enhanced-privacy = Privacidade e desempenho melhorados com o { -brand-name-firefox }
+features-adblocker-enhanced-privacy = Privacidade e Desempenho Melhorados com o { -brand-name-firefox }
 features-adblocker-beyond-ad-blockers = Para além dos bloqueadores de anúncios, o { -brand-name-firefox } inclui funcionalidades integradas para lhe fornecer ainda um maior controlo sobre a sua navegação. Estas ferramentas ajudam a proteger a sua privacidade enquanto permitem que personalize a sua experiência:
 features-adblocker-tool-1 = <strong>Modo padrão:</strong> Uma opção balanceada que bloqueia rastreadores comuns enquanto mantém a funcionalidade suave do site.
 features-adblocker-tool-2 = <strong>Modo estrito:</strong> ideal para utilizadores que pretendem uma proteção da privacidade mais forte, bloqueando mais rastreadores e cookies. Note que alguns sites podem necessitar de ajustes neste modo.
 features-adblocker-tool-3 = <strong>Modo Personalizado:</strong> Para aqueles que pretendem controlo total, o modo Personalizado permite-lhe selecionar o que bloquear, desde cookies a rastreadores e muito mais.
 features-adblocker-to-adjust = Para ajustar estas definições, clique no ícone de escudo à esquerda da barra de endereço em qualquer página web e selecione “Definições de proteção.” Isto irá abrir um menu onde pode escolher o nível de proteção necessário para si.
-features-adblocker-why-use = Porquê utilizar um bloqueador de anúncios?
+features-adblocker-why-use = Porquê Usar um Bloqueador de Anúncios?
 features-adblocker-ad-blockers-do-more = Os bloqueadores de anúncios fazem mais do que gerir anúncios – eles podem melhorar a sua velocidade de navegação e segurança, reduzindo conteúdo desnecessário. Estes permitem-lhe criar uma experiência web sob medida e sem distrações, permitindo que se concentre no que mais importa.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/

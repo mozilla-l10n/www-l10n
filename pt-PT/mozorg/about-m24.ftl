@@ -12,7 +12,7 @@ m24-about-page-desc = A { -brand-name-mozilla } faz navegadores, aplicações, c
 
 ## Intro
 
-m24-about-guard-the-internet = Proteja a Internet Aberta
+m24-about-guard-the-internet = Defenda a Internet Aberta
 # Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Recupere a Internet connosco
 m24-about-mozilla-is-working = A { -brand-name-mozilla } está a trabalhar para colocar o controlo da Internet de volta nas mãos das pessoas que a utilizam.
