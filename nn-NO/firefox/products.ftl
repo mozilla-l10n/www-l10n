@@ -70,3 +70,8 @@ firefox-products-learn-more-about-0din = Les meir om { -brand-name-0din }
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Kople appane dine til nettet med påliteleg automatisering og gjer levande nettsider om til reine, strukturerte resultat.
 firefox-products-learn-more-about-tabstack = Les meir om { -brand-name-tabstack }
+
+## Otari
+
+firefox-products-otari = { -brand-name-otari }
+firefox-products-learn-more-about-otari = Les meir om { -brand-name-otari }
