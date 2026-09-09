@@ -74,4 +74,5 @@ firefox-products-learn-more-about-tabstack = Les meir om { -brand-name-tabstack 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
+firefox-products-otari-desc = { -brand-name-otari } gjer det enklare å administrere fleire KI-leverandørar ved å samle ruting, sikkerheit, budsjettering, redundans og revisjon bak eitt enkelt API-endepunkt.
 firefox-products-learn-more-about-otari = Les meir om { -brand-name-otari }
