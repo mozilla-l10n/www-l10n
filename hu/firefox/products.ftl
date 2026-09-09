@@ -74,5 +74,5 @@ firefox-products-learn-more-about-tabstack = Tudjon meg többet a { -brand-name-
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
-firefox-products-otari-desc = A(z) { -brand-name-otari } kiküszöböli a több MI szolgáltató kezelését azáltal, hogy az útválasztást, a biztonságot, a költségvetést, a feladatoveringet és a auditálást egyetlen API-végpont mögött egyesíti.
-firefox-products-learn-more-about-otari = Tudjon meg többet a(z) { -brand-name-otari } kiegészítőről
+firefox-products-otari-desc = Az { -brand-name-otari } leegyszerűsíti a több MI-szolgáltató kezelését: az útválasztást, a biztonságot, a költségkeretek kezelését, a feladatátvételt és a naplózást egyetlen API-végpont mögött egyesíti.
+firefox-products-learn-more-about-otari = Tudjon meg többet az { -brand-name-otari }ról
