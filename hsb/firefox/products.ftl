@@ -70,3 +70,8 @@ firefox-products-learn-more-about-0din = Dalše informacije wo { -brand-name-0di
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Zwjazajće swoje nałoženja z webom ze spušćomnej awtomatizaciju a přetworće webstrony do čistych, strukturowanych wuslědkow.
 firefox-products-learn-more-about-tabstack = Wočińće wjace wo { -brand-name-tabstack }
+
+## Otari
+
+firefox-products-otari = { -brand-name-otari }
+firefox-products-learn-more-about-otari = Zhońće wjace wo { -brand-name-otari }
