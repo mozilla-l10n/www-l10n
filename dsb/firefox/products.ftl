@@ -70,3 +70,9 @@ firefox-products-learn-more-about-0din = Dalšne informacije wó { -brand-name-0
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Zwězajśo swóje nałoženja z webom ze spušćobneju awtomatizaciju a pśetwóŕśo webboki do cystych, strukturěrowanych wuslědkow.
 firefox-products-learn-more-about-tabstack = Dalšne informacije wó { -brand-name-tabstack }
+
+## Otari
+
+firefox-products-otari = { -brand-name-otari }
+firefox-products-otari-desc = { -brand-name-otari } kompleksnosć zastojanja někotarych póbitowarjow KI eliminěrujo. Zjadnośujo routing, wěstotu, budgetowe planowanje, failover a pśespytowanje zliceńkow za jadnotliwym kóńcnym dypkom API.
+firefox-products-learn-more-about-otari = Zgóńśo wěcej wó { -brand-name-otari }
