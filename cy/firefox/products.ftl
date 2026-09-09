@@ -70,3 +70,9 @@ firefox-products-learn-more-about-0din = Dysgu rhagor am { -brand-name-0din }
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Cysylltwch eich apiau â'r we gydag awtomeiddio dibynadwy a throi tudalennau gwe byw yn ganlyniadau glân, strwythuredig.
 firefox-products-learn-more-about-tabstack = Dysgu rhagor am { -brand-name-tabstack }
+
+## Otari
+
+firefox-products-otari = { -brand-name-otari }
+firefox-products-otari-desc = Mae { -brand-name-otari } yn dileu cymhlethdod rheoli darparwyr AI lluosog trwy uno llwybro, diogelwch, cyllidebu, methu, ac archwilio y tu ôl i un pwynt terfyn API.
+firefox-products-learn-more-about-otari = Dysgu rhagor am { -brand-name-otari }

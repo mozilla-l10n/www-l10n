@@ -70,3 +70,9 @@ firefox-products-learn-more-about-0din = Zjistit více o službě { -brand-name-
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Propojte své aplikace s webem pomocí spolehlivé automatizace a přeměňte živé webové stránky na přehledné a strukturované výsledky.
 firefox-products-learn-more-about-tabstack = Zjistit více o službě { -brand-name-tabstack }
+
+## Otari
+
+firefox-products-otari = { -brand-name-otari }
+firefox-products-otari-desc = { -brand-name-otari } odstraňuje složitost správy více poskytovatelů AI tím, že sjednocuje směrování, zabezpečení, rozpočet, převzetí služeb při selhání a auditování pod jeden koncový bod API.
+firefox-products-learn-more-about-otari = Zjistit více o službě { -brand-name-otari }

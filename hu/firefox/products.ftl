@@ -70,3 +70,9 @@ firefox-products-learn-more-about-0din = Tudjon meg többet az { -brand-name-0di
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Kapcsolja össze alkalmazásait a webbel megbízható automatizálással, és alakítsa az élő weboldalakat letisztult, strukturált eredményekké.
 firefox-products-learn-more-about-tabstack = Tudjon meg többet a { -brand-name-tabstack } szolgáltatásról
+
+## Otari
+
+firefox-products-otari = { -brand-name-otari }
+firefox-products-otari-desc = A(z) { -brand-name-otari } kiküszöböli a több MI szolgáltató kezelését azáltal, hogy az útválasztást, a biztonságot, a költségvetést, a feladatoveringet és a auditálást egyetlen API-végpont mögött egyesíti.
+firefox-products-learn-more-about-otari = Tudjon meg többet a(z) { -brand-name-otari } kiegészítőről

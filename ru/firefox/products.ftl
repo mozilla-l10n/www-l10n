@@ -70,3 +70,9 @@ firefox-products-learn-more-about-0din = Узнайте больше о { -brand
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Подключайте свои приложения к Интернету с помощью надёжной автоматики и превращайте веб-страницы в четкие, структурированные результаты.
 firefox-products-learn-more-about-tabstack = Узнайте больше о { -brand-name-tabstack }
+
+## Otari
+
+firefox-products-otari = { -brand-name-otari }
+firefox-products-otari-desc = { -brand-name-otari } устраняет сложность управления несколькими провайдерами ИИ, объединяя маршрутизацию, безопасность, бюджетирование, аварийное переключение и аудит в одной конечной точке API.
+firefox-products-learn-more-about-otari = Узнайте больше о { -brand-name-otari }

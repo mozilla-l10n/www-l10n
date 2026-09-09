@@ -70,3 +70,9 @@ firefox-products-learn-more-about-0din = უკეთ გაიცანით {
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = დაუკავშირეთ თქვენი პროგრამები ვებსივრცეს საიმედო ავტომატიზაციით და გამოქვეყნებული ვებგვერდები აქციეთ სუფთა აგებულების მქონე შედეგებად.
 firefox-products-learn-more-about-tabstack = უკეთ გაიცანით { -brand-name-tabstack }
+
+## Otari
+
+firefox-products-otari = { -brand-name-otari }
+firefox-products-otari-desc = { -brand-name-otari } აგარიდებთ AI-ს რამდენიმე მომწოდებლის მართვის სიძნელეს, მარშრუტიზაციის, უსაფრთხოების, ბიუჯეტის შედგენის, failover-ისა და შემოწმების შედეგად, ერთიან API-ის საბოლოო წერტილის გაერთიანებით.
+firefox-products-learn-more-about-otari = გაიგეთ მეტი { -brand-name-otari }-ის შესახებ

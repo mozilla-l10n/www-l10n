@@ -70,3 +70,9 @@ firefox-products-learn-more-about-0din = 了解 { -brand-name-0din } 的更多�
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = 透過可靠的自動化機制，將您的應用程式與網路連結，並將線上網頁轉換成簡潔、結構化結果。
 firefox-products-learn-more-about-tabstack = 了解 { -brand-name-tabstack } 的更多資訊
+
+## Otari
+
+firefox-products-otari = { -brand-name-otari }
+firefox-products-otari-desc = { -brand-name-otari } 將路由、安全性、預算、故障轉移與審核功能統一在同一個 API 端點後降低了管理多個 AI 提供者的複雜性。
+firefox-products-learn-more-about-otari = 了解 { -brand-name-otari } 的更多資訊
