@@ -12,6 +12,7 @@ firefox-all-need-help = Nepieciešama palīdzība?
 firefox-all-arm64-installers = ARM64/AArch64 uzstādītāji
 firefox-all-product-send-link = Nosūtīi lejupielādes saiti uz savu tālruni
 firefox-all-msi-installers = MSI uzstādītāji
+firefox-all-select-your-preferred-language = Atlasi savu vēlamo valodu
 firefox-all-learn-about-installers = Uzzināt vairāk par uzstādītājiem
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
