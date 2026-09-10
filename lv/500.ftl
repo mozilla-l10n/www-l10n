@@ -7,3 +7,7 @@ error-page-firefox = { -brand-name-firefox }
 error-page-error-page-internal-server-error = 500: Iekšēja servera kļūda
 error-page-something-went-wrong = Kaut kas nogāja greizi
 error-page-its-probably-just-a-server-error = Tā, iespējams, ir tikai servera kļūda, un mēs strādājam, lai to novērstu.
+# Variables:
+#   $firefox (url) - link to https://firefox.com/
+#   $mozilla (url) - link to https://www.mozilla.org/
+error-page-you-can-also-try-refreshing = Var arī mēģināt atsvaidzināt šo lapu vai doties uz <a href={ $firefox }>firefox.com</a> vai <a href={ $mozilla }>mozilla.org</a>

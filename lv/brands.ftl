@@ -29,7 +29,7 @@
 
 -brand-name-firefox = Firefox
 -brand-name-firefox-beta = Firefox Beta
--brand-name-firefox-browser = Firefox Browser
+-brand-name-firefox-browser = Firefox pārlūks
 -brand-name-firefox-browsers = Firefox pārlūki
 -brand-name-firefox-developer-edition = Firefox Developer Edition
 -brand-name-firefox-enterprise = Firefox Enterprise
@@ -78,9 +78,14 @@
 -brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
+-brand-name-solo-ai = Solo AI
 -brand-name-otari = Otari
+-brand-name-lumigator = Lumigator
+-brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-vpn = Mozilla VPN
+-brand-name-mozilla-ai-v2 = Mozilla.ai
+-brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
@@ -105,9 +110,11 @@
 ## Platforms
 
 -brand-name-android = Android
+-brand-name-chromeos = Chrome OS
 -brand-name-ios = iOS
 -brand-name-linux = Linux
 -brand-name-mac = macOS
+-brand-name-mac-short = Mac
 -brand-name-windows = Windows
 
 ## Apple products
@@ -115,6 +122,7 @@
 -brand-name-app-store = App Store
 -brand-name-ipad = iPad
 -brand-name-iphone = iPhone
+-brand-name-test-flight = TestFlight
 
 ## Facebook products
 
@@ -125,3 +133,4 @@
 -brand-name-chromium = Chromium
 -brand-name-google-play = Google Play
 -brand-name-youtube = YouTube
+-brand-name-chromebook = Chromebook

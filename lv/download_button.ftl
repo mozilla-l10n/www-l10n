@@ -14,6 +14,7 @@ download-button-download-firefox = Lejupielādēt { -brand-name-firefox }
 download-button-your-system-may = Jūsu sistēma varētu neatbilst { -brand-name-firefox } pieprasījumiem, bet jūs varat izmēģināt vienu no šīm versijām:
 download-button-firefox-beta-android = <span>{ -brand-name-firefox-beta }</span> { -brand-name-android } ierīcēm
 download-button-firefox-aurora-android = <span>{ -brand-name-firefox-aurora }</span> { -brand-name-android } ierīcēm
+download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }</span> { -brand-name-android }
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> { -brand-name-android } ierīcēm
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name-ios } ierīcēm
 download-button-firefox-privacy = { -brand-name-firefox } Privātums
