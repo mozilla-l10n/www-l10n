@@ -29,6 +29,10 @@ firefox-desktop-download-themes = Izskati
 firefox-desktop-download-adjust-search-bar = Pielāgot meklēšanas joslas iestatījumus
 firefox-desktop-download-your-privacy-comes = Tavs privātums ir pirmajā vietā
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-learn-about-the = Uzzini vairāk par { -brand-name-firefox } darbvirsmu pārlūku zemāk
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Internetam augot un mainoties, { -brand-name-firefox } turpina pievērsties tiesībām uz privātumu — tas vienmēr ir bijis mūsu uzdevums. Vairāk par mūsu darbu ar datiem var uzzināt mūsu <a { $attrs }>Privātuma paziņojumā</a>.
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } ir pieejams visās Tavās ierīcēs; paņem līdzi cilnes, vēsturi un grāmatzīmes. Viss, kas nepieciešams, ir <a { $attrs }>{ -brand-name-mozilla-account }</a>, un Tu iegūsi piekļuvi vienādošanai un citiem { -brand-name-mozilla } produktiem.
