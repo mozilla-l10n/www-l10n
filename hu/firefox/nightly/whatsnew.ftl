@@ -10,7 +10,7 @@
 nightly-whatsnew-youve-just-been = Most frissített erre: { -brand-name-firefox-nightly } { $version }!
 nightly-whatsnew-your-firefox-nightly = A { -brand-name-firefox-nightly }ja frissült.
 nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
-nightly-whatsnew-every-4-to-5-weeks = 4-5 hetente megjelenik a { -brand-name-firefox } új főverziója, amelynek eredményeként a { -brand-name-nightly } verziója is növekszik.
+nightly-whatsnew-every-4-to-5-weeks = 4-5 hetente megjelenik a { -brand-name-firefox } új főverziója, amelynek eredményeként a { -brand-name-nightly } verziószáma is növekszik.
 nightly-whatsnew-this-is-a-good = Ez egy remek alkalom arra, hogy megköszönjük, hogy segít jobbá tenni a { -brand-name-firefox(case: "accusative") }és javasoljunk néhány dokumentációt, kommunikációs csatornát és híroldalt, melyek kapcsolódnak a { -brand-name-nightly }hoz, és érdekelhetik Önt.
 # Variables:
 #   $blog (url) - link to https://blog.nightly.mozilla.org/
