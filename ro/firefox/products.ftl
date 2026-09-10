@@ -70,3 +70,8 @@ firefox-products-learn-more-about-0din = Află mai multe despre { -brand-name-0d
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Conectează-ți aplicațiile la web cu o automatizare fiabilă și transformă paginile web live în rezultate curate și structurate.
 firefox-products-learn-more-about-tabstack = Află mai multe despre { -brand-name-tabstack }
+
+## Otari
+
+firefox-products-otari = { -brand-name-otari }
+firefox-products-learn-more-about-otari = Află mai multe despre { -brand-name-otari }
