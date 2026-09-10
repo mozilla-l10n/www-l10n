@@ -18,7 +18,13 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> { -brand-name-android } ierīcēm
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name-ios } ierīcēm
 download-button-firefox-privacy = { -brand-name-firefox } Privātums
+download-button-firefox-privacy-notice = { -brand-name-firefox } privātuma paziņojums
 download-button-download = Lejupielādēt
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } vairs <a href="{ $help_url }">netiek atbalstīts</a> { $os_version } un vecākās.
 download-button-please-download-esr = Lūgums lejupielādēt { -brand-name-firefox-esr } (paplašinātā atbalsta laidienu), lai izmantotu { -brand-name-firefox }.
 download-firefox-esr = Lejupielādēt { -brand-name-firefox-esr }
 download-firefox-esr-32 = Lejupielādēt 32 bitu { -brand-name-firefox-esr }

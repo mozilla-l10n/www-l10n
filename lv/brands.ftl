@@ -66,7 +66,7 @@
 ## Firefox products (legacy)
 
 -brand-name-firefox-account = Firefox Account
--brand-name-firefox-accounts = Firefox Accounts
+-brand-name-firefox-accounts = Firefox konti
 -brand-name-firefox-os = Firefox OS
 
 ## Pocket
