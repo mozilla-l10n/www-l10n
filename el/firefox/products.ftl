@@ -74,4 +74,5 @@ firefox-products-learn-more-about-tabstack = Μάθετε περισσότερα
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
+firefox-products-otari-desc = Το { -brand-name-otari } απλοποιεί τη διαχείριση πολλών παρόχων τεχνητής νοημοσύνης, συγκεντρώνοντας τη δρομολόγηση, την ασφάλεια, τη διαχείριση προϋπολογισμού, την εφεδρική μετάβαση και τον έλεγχο σε ένα ενιαίο τελικό σημείο API.
 firefox-products-learn-more-about-otari = Μάθετε περισσότερα για το { -brand-name-otari }
