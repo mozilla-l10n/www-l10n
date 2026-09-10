@@ -6,6 +6,12 @@
 ### URL: https://www-dev.allizom.org/firefox/all/
 
 firefox-all-sorry-we-couldnt-find = Atvainojamies, mēs nevarējām atrast meklēto lejupielādi. Lūgums mēģināt vēlreiz vai atlasīt lejupielādi no zemāk esošā saraksta.
+firefox-all-release-notes = Laidiena piezīmes
+firefox-all-source-code = Pirmkods
+firefox-all-need-help = Nepieciešama palīdzība?
+firefox-all-arm64-installers = ARM64/AArch64 uzstādītāji
+firefox-all-product-send-link = Nosūtīi lejupielādes saiti uz savu tālruni
+firefox-all-msi-installers = MSI uzstādītāji
 firefox-all-product-firefox = { -brand-name-firefox }
 firefox-all-product-firefox-beta = { -brand-name-firefox-beta }
 firefox-all-product-firefox-developer = { -brand-name-firefox-developer-edition }
