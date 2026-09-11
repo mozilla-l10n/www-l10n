@@ -74,5 +74,5 @@ firefox-products-learn-more-about-tabstack = Conocer más sobre { -brand-name-ta
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
-firefox-products-otari-desc = { -brand-name-otari } elimina la complejidad de administrar múltiples proveedores de IA al unificar enrutamiento, seguridad, presupuesto, conmutación por error y auditoría detrás de un único punto final de API.
+firefox-products-otari-desc = { -brand-name-otari } elimina la complejidad de administrar múltiples proveedores de IA al unificar enrutamiento, seguridad, presupuesto, conmutación por error y auditoría detrás de un único endpoint de API.
 firefox-products-learn-more-about-otari = Conocer más sobre { -brand-name-otari }
