@@ -58,20 +58,32 @@
 -brand-name-facebook-container = Facebook Container
 -brand-name-firefox-devtools = Firefox DevTools
 -brand-name-firefox-relay = Firefox Relay
+-brand-name-firefox-translations = Firefox Translations
 
 ## Firefox products (short names)
 
 -brand-name-devtools = DevTools
+-brand-name-relay = Relay
 
 ## Firefox products (legacy)
 
 -brand-name-firefox-account = Firefox Account
 -brand-name-firefox-accounts = Firefox konti
+-brand-name-firefox-marketplace = Firefox Marketplace
 -brand-name-firefox-os = Firefox OS
+-brand-name-firefox-private-network = Firefox Private Network
+
+## Firefox projects
+
+-brand-name-firefox-labs = Firefox Labs
 
 ## Pocket
 
 -brand-name-pocket = Pocket
+
+## Anonym
+
+-brand-name-anonym = Anonym
 
 ## Mozilla projects
 
@@ -83,6 +95,8 @@
 -brand-name-lumigator = Lumigator
 -brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
+-brand-name-mozilla-festival = Mozilla Festival
+-brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-ai-v2 = Mozilla.ai
 -brand-name-rise25 = Rise25
