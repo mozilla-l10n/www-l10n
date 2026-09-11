@@ -98,7 +98,11 @@
 -brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
+-brand-name-mozilla-account = Mozilla Account
+-brand-name-mozilla-builders = Mozilla Builders
+-brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
+-brand-name-mozilla-ventures = Mozilla Ventures
 -brand-name-rise25 = Rise25
 -brand-name-thunderbird = Thunderbird
 
@@ -107,6 +111,10 @@
 -brand-name-common-voice = Common Voice
 -brand-name-mdn = MDN
 -brand-name-monitor = Monitor
+
+## Mozilla projects (legacy)
+
+-brand-name-webmaker = Webmaker
 
 ## Open Source projects
 
@@ -140,7 +148,9 @@
 
 ## Facebook products
 
+-brand-name-facebook-messenger = Facebook Messenger
 -brand-name-instagram = Instagram
+-brand-name-workplace = Workplace
 
 ## Google products
 

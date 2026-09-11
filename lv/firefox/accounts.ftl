@@ -23,7 +23,16 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Nosūtīt cilni</a> uz citu ie
 # Variables:
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Saglabāt un vienādot paroles</a>
+firefox-accounts-get-email-alerts = Iegūt brīdinājumus e-pastā, kad Tava informācija parādās zināmā datu noplūdē
+firefox-accounts-protect-your-identity = Aizsargā savu identitāti ar drošu tālruņa un e-pasta maskēšanu
+firefox-accounts-keep-your-passwords = Turi savas paroles aizsargātas un pārvietojamas!
+firefox-accounts-travel-the-internet = Ceļo internetā ar aizsardzību jebkurā ierīcē!
+firefox-accounts-encrypt-your = Šifrē savas tīkla darbības un paslēp savu IP adresi
+firefox-accounts-we-never = Mēs nekad nežurnalējam, neizsekojam vai nekopīgojam Tavus tīkla datus
+firefox-accounts-get-it-all-on-every = Iegūsti to visu katrā ierīcē, nejūtoties piesaistīts vienai operētājsīstēmai!
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
 firefox-accounts-firefox-browser = { -brand-name-firefox-browser }
+firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
+firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }

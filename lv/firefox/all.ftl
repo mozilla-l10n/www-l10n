@@ -5,7 +5,14 @@
 
 ### URL: https://www-dev.allizom.org/firefox/all/
 
+# HTML page title. Replace "English (US)" with your local language.
+firefox-all-download-the-firefox-v2 = Lejupielādē { -brand-name-firefox } angļu (amerikāņu) un vairāk nekā 90 citās valodās
+# Used as an accessible label for a help button. The text is replaced with a "?" icon.
+firefox-all-get-help = Saņemt palīdzību
 firefox-all-sorry-we-couldnt-find = Atvainojamies, mēs nevarējām atrast meklēto lejupielādi. Lūgums mēģināt vēlreiz vai atlasīt lejupielādi no zemāk esošā saraksta.
+firefox-all-64-bit-installers = 64 bitu uzstādītājs
+firefox-all-32-bit-installers = 32 bitu uzstādītājs
+firefox-all-check-the-system-requirements = Pārbaudīt sistēmas prasības
 firefox-all-release-notes = Laidiena piezīmes
 firefox-all-source-code = Pirmkods
 firefox-all-need-help = Nepieciešama palīdzība?
