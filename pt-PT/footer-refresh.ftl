@@ -10,7 +10,7 @@ footer-refresh-learn-more-about-mozilla-ads = Saber mais <span>sobre { footer-re
 # Obsolete string (expires 2026-10-03)
 footer-refresh-learn-more-about-mozilla-advertising = Saiba mais <span>sobre a Publicidade da { -brand-name-mozilla }</span>
 footer-refresh-firefox-release-notes = Notas de lançamento do { -brand-name-firefox }
-footer-refresh-add-trust-to = Adicione confiança ao seu anúncio de compra.
+footer-refresh-add-trust-to = Adicione confiança à sua compra de publicidade.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Seguir @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
@@ -23,7 +23,7 @@ footer-refresh-company = Empresa
 footer-refresh-press-center = Centro de imprensa
 footer-refresh-careers = Carreiras
 # Our "merch" store is an online store which sells Mozilla branded stuff. (Merch is short for merchandise).
-footer-refresh-store = Marketplace
+footer-refresh-store = Loja de Merchandising
 footer-refresh-contact = Contacto
 footer-refresh-support = Apoio
 footer-refresh-product-help = Ajuda do produto
