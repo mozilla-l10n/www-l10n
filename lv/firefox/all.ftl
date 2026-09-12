@@ -19,6 +19,9 @@ firefox-all-source-code = Pirmkods
 firefox-all-need-help = Nepieciešama palīdzība?
 firefox-all-arm64-installers = ARM64/AArch64 uzstādītāji
 firefox-all-product-send-link = Nosūtīi lejupielādes saiti uz savu tālruni
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
+firefox-all-choose-a-32-bit-installer = 32 bitu uzstādītājs jāizvēlas datoriem, kuriem ir 32 bitu procesors, vai vecākiem vai mazāk jaudīgiem datoriem. <a href="{ $url }">Ja nav pārliecības</a> par to, vai izvēlēties 64 vai 32 bitu uzstādītāju, mēs iesakām izvēlēties 32 bitu uzstādītāju.
 firefox-all-msi-installers = MSI uzstādītāji
 firefox-all-select-your-preferred-language = Atlasi savu vēlamo valodu
 firefox-all-learn-about-installers = Uzzināt vairāk par uzstādītājiem

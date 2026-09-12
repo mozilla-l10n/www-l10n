@@ -40,12 +40,12 @@ m24-about-rewiring-mozilla = Religação { -brand-name-mozilla }: Fazer pela IA 
 m24-about-what-comes-next = O que vem a seguir em tecnologia é uma escolha. Escolha connosco.
 m24-about-watch-here = Acompanhar aqui
 # "Double Bottom Line" refers to accounting for both money and mission values
-m24-about-can-we-have = Podemos ter um resultado final duplicado para a tecnologia? Mark Surman discutir como podemos construir um ecossistema de tecnologia com uma linha de fundo duplicada — uma que valorize tanto a missão como o dinheiro.
+m24-about-can-we-have = Podemos Ter um Duplo Objetivo para a Tecnologia? Mark Surman analisa como podemos construir um ecossistema tecnológico com um duplo objetivo — um que valoriza tanto a missão como o lucro.
 m24-about-watch-now = Ver agora
 
 ## Showcase
 
-m24-about-lets-build-a = Vamos construir um futuro mais válido
+m24-about-lets-build-a = Vamos construir um futuro mais justo
 m24-about-see-how-were = Descubra como estamos a promover um ambiente online diversificado, inclusivo e acessível para todas as pessoas.
 m24-about-read-about-our = Leia acerca do nosso compromisso
 

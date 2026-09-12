@@ -29,6 +29,7 @@ firefox-desktop-download-themes = Izskati
 firefox-desktop-download-adjust-search-bar = Pielāgot meklēšanas joslas iestatījumus
 firefox-desktop-download-your-privacy-comes = Tavs privātums ir pirmajā vietā
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-learn-about-the = Uzzini vairāk par { -brand-name-firefox } darbvirsmu pārlūku zemāk
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
@@ -42,4 +43,8 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automā
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-visit-support-for-more = Vairāk informācijas ir pieejama atbalsta vietnē
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ir kas vairāk par pārlūku.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
+firefox-desktop-download-interrupted = Lejupielāde tika pārtraukta. Bet viss vēl nav zaudēts.
