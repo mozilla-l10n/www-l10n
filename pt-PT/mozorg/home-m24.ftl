@@ -22,7 +22,7 @@ m24-home-alt-flag = Uma bandeira verde estilizada sobre um fundo preto, constru�
 
 ## Products
 
-m24-home-love-the-internet = Volte a gostar da internet
+m24-home-love-the-internet = Volte a adorar a internet
 m24-home-break-free-from = Liberte-se das grandes tecnológicas — os nossos produtos colocam-o em controlo para uma experiência mais segura, e privada na internet.
 m24-home-explore-our-products = Explorar os nossos produtos
 m24-home-firefox = { -brand-name-firefox }
@@ -68,7 +68,7 @@ m24-home-builders-helps-independent = O Builders ajuda programadores independent
 m24-home-builders-helps-independent-v2 = O { -brand-name-mozilla-builders } ajuda programadores independentes a criar projetos transformadores de IA de código aberto através de colaborações personalizadas, programação, e da comunidade.
 m24-home-own-what-you = Seja Dono do que Constrói
 # "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
-m24-home-do-we-need-a = Precisamos de uma “LMP Stack” para a era da IA? Precisamos de tecnologia que seja transparente, responsável e propriedade das pessoas que a utilizam.
+m24-home-do-we-need-a = Precisamos de uma “LMP Stack” para a era da IA? Precisamos de tecnologia que seja transparente, responsabilizável, e propriedade das pessoas que a usam.
 m24-home-watch-now = Ver agora
 m24-home-choice-first-stack = Escolha a primeira stack
 m24-home-your-tools-your = As suas ferramentas, a sua escolha. Uma stack unificada de código aberto que simplifica a construção e teste de agentes e aplicações modernas de IA.

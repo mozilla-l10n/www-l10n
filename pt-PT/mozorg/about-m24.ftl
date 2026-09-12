@@ -61,11 +61,11 @@ m24-about-alt-drinking-coffee = Colaborador da { -brand-name-mozilla } a tomar c
 m24-about-alt-collaborating = Empregados da { -brand-name-mozilla } a colaborar.
 m24-about-join-us-and = Junte-se a nós e faça a diferença
 m24-about-join-our-team = Junte-se à nossa equipa e vá aos limites do que é possível — sem comprometer o que importa.
-m24-about-see-open-positions = Ver as posições disponíveis
+m24-about-see-open-positions = Ver posições disponíveis
 
 ## Community
 
-m24-about-community-love-v2 = O amor pela comunidade, a nossa força motriz
+m24-about-community-love-v2 = Amor pela comunidade, a nossa força motriz
 m24-about-mozilla-is-a = A { -brand-name-mozilla } é uma comunidade global de voluntários, bolseiros e colaboradores apaixonados que têm construído, protegido e moldado a Internet connosco desde 1998.
 m24-about-from-writing-code = Desde escrever código e detetar bugs, até defender a privacidade e manter a Internet aberta para todos — os membros da nossa comunidade são a base de tudo o que fazemos. A sua paixão e dedicação inspiram-nos todos os dias.
 # Used as an accessible text alternative for an image
