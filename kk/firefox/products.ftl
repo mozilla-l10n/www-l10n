@@ -70,3 +70,9 @@ firefox-products-learn-more-about-0din = { -brand-name-0din } туралы кө�
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Қолданбаларыңызды сенімді автоматтандыру арқылы Интернетке қосыңыз және веб-беттерді таза, құрылымдалған нәтижелерге айналдырыңыз.
 firefox-products-learn-more-about-tabstack = { -brand-name-tabstack } туралы көбірек білу
+
+## Otari
+
+firefox-products-otari = { -brand-name-otari }
+firefox-products-otari-desc = { -brand-name-otari } бірнеше жасанды интеллект провайдерлерін басқару күрделілігін бір API соңғы нүктесі артында маршруттауды, қауіпсіздікті, бюджеттеуді, ауыстырып қосуды және аудитті біріктіру арқылы жояды.
+firefox-products-learn-more-about-otari = { -brand-name-otari } туралы көбірек білу
