@@ -46,7 +46,7 @@ m24-home-tabstack-desc = Automatize tarefas na web de forma fiável com uma API 
 ## Donate
 
 m24-home-donate-to-v2 = Fazer uma doação para a { -brand-name-mozilla-foundation }
-m24-home-mozilla-foundation-is-building-v2 = A { -brand-name-mozilla-foundation } está a construir um futuro onde a tecnologia é potenciada por pessoas e aberta pelo design. É por isto que potenciamos a tecnologia centrada na comunidade através de advocacia, educação, financiamento e inovação — para garantir que o futuro da tecnologia é bom para todos. Mas isto só é possível se o fizermos juntos.
+m24-home-mozilla-foundation-is-building-v2 = A { -brand-name-mozilla-foundation } está a construir um futuro em que a tecnologia é impulsionada pelas pessoas, e aberta por natureza. É por isso que advogamos a tecnologia centrada na comunidade através da defesa de causas, educação, financiamento, e inovação — para garantir que o futuro da tecnologia seja benéfico para todos. Mas isso só é possível se o fizermos juntos.
 m24-home-were-proudly-nonprofit = Temos orgulho de ser uma organização sem fins lucrativos. Vai fazer um donativo para a { -brand-name-mozilla } hoje?
 m24-home-donate = Doar
 
@@ -64,9 +64,9 @@ m24-home-alt-builders = Criadores
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = Criadores da { -brand-name-mozilla }
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
-m24-home-builders-helps-independent = A Construtores ajuda programadores independentes a criar projetos de IA de código aberto e transformadores através de colaborações, programação e comunidade sob medida.
-m24-home-builders-helps-independent-v2 = A { -brand-name-mozilla-builders } ajuda programadores independentes a criar projetos de IA de código aberto e transformadores através de colaborações, programação e comunidade sob medida.
-m24-home-own-what-you = Controle o que você constrói
+m24-home-builders-helps-independent = O Builders ajuda programadores independentes a criar projetos transformadores de IA de código aberto através de colaborações personalizadas, programação, e da comunidade.
+m24-home-builders-helps-independent-v2 = O { -brand-name-mozilla-builders } ajuda programadores independentes a criar projetos transformadores de IA de código aberto através de colaborações personalizadas, programação, e da comunidade.
+m24-home-own-what-you = Seja Dono do que Constrói
 # "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
 m24-home-do-we-need-a = Precisamos de uma “LMP Stack” para a era da IA? Precisamos de tecnologia que seja transparente, responsável e propriedade das pessoas que a utilizam.
 m24-home-watch-now = Ver agora
