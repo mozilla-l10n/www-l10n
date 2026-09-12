@@ -66,7 +66,7 @@ m24-about-see-open-positions = Ver posições disponíveis
 ## Community
 
 m24-about-community-love-v2 = Amor pela comunidade, a nossa força motriz
-m24-about-mozilla-is-a = A { -brand-name-mozilla } é uma comunidade global de voluntários, bolseiros e colaboradores apaixonados que têm construído, protegido e moldado a Internet connosco desde 1998.
-m24-about-from-writing-code = Desde escrever código e detetar bugs, até defender a privacidade e manter a Internet aberta para todos — os membros da nossa comunidade são a base de tudo o que fazemos. A sua paixão e dedicação inspiram-nos todos os dias.
+m24-about-mozilla-is-a = A { -brand-name-mozilla } é uma comunidade global de voluntários apaixonados, bolseiros e colaboradores que têm construído, protegido e moldado a internet connosco desde 1998.
+m24-about-from-writing-code = Desde escrever código e detetar bugs, até defender a privacidade e manter a internet aberta para todos — os membros da nossa comunidade são a espinha-dorsal de tudo o que fazemos. A sua paixão e dedicação inspiram-nos todos os dias.
 # Used as an accessible text alternative for an image
-m24-about-alt-community = Pessoa com um pasta para portátil e um talaborde da { -brand-name-mozilla }.
+m24-about-alt-community = Pessoa com uma mala para portátil e um cordão da { -brand-name-mozilla } .

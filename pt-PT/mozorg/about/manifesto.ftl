@@ -66,15 +66,15 @@ manifesto-mozillas-pledge = Promessa de { -brand-name-mozilla }
 manifesto-across-the-mozilla-project = Em todo o projeto { -brand-name-mozilla } e em todas as organizações da família { -brand-name-mozilla }, comprometemo-nos a apoiar o Manifesto { -brand-name-mozilla } nas suas atividades. Especialmente, iremos:
 manifesto-we-need-you = Precisamos de si para promover o Manifesto
 manifesto-an-internet-with-these-v2 = Uma internet com estas qualidades não ganhará vida por si própria. As pessoas e organizações devem embutir estas aspirações na tecnologia da internet e na experiência humana da internet. O Manifesto de { -brand-name-mozilla } e o Adendo representam o compromisso de { -brand-name-mozilla } para avançar estas aspirações. A { -brand-name-mozilla } trabalha com pessoas e organizações em todo o lado que pretendem fazer a Internet melhor ainda para todos.
-manifesto-our-commitments = Os nossos compromissos
-manifesto-commitment-1 = Comprometimento 1
-manifesto-commitment-2 = Comprometimento 2
-manifesto-commitment-3 = Comprometimento 3
-manifesto-commitment-4 = Comprometimento 4
-manifesto-if-you-share-this-goal-v2 = Se partilha este objetivo, diga-nos como podemos ajudar.
+manifesto-our-commitments = Os Nossos Compromissos
+manifesto-commitment-1 = Compromisso 1
+manifesto-commitment-2 = Compromisso 2
+manifesto-commitment-3 = Compromisso 3
+manifesto-commitment-4 = Compromisso 4
+manifesto-if-you-share-this-goal-v2 = Se partilha deste objetivo, diga-nos como podemos ajudar.
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla
-manifesto-we-create-open = Nós criamos <a { $github_link }>software de código aberto</a> que pode construir.
+manifesto-we-create-open = Criamos <a { $github_link }>software de código aberto</a> que pode usar para construir.
 # Variables:
 #   $mofo_link (url) - link to https://www.mozillafoundation.org/
 manifesto-we-fund-fellows = Nós <a { $mofo_link }>financiamos bolseiros e incubamos projetos</a> focados em criar um futuro melhor na Internet.
