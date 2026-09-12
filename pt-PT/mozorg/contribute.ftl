@@ -52,7 +52,7 @@ contribute-made-by-desc-cont = Acreditamos que a colaboração da comunidade é 
 
 contribute-newsletter-heading = Ainda não tem a certeza?
 contribute-newsletter-sub-heading = Obtenha notícias da comunidade e contribuições na sua caixa de entrada
-contribute-newsletter-desc = Subscrever a nossa newsletter, juntar-se aos Mozillians de todo o mundo e saber mais sobre as oportunidades significativas para apoiar a missão da { -brand-name-mozilla }.
+contribute-newsletter-desc = Subscreva a nossa newsletter, junte-se aos Mozillianos em todo o mundo, e descubra oportunidades significativas para apoiar a missão da { -brand-name-mozilla }.
 
 ## Support
 

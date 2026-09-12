@@ -9,8 +9,8 @@
 m24-home-page-title = Internet para pessoas, não para lucro — { -brand-name-mozilla }
 m24-home-page-title-v2 = { -brand-name-mozilla } — Internet para pessoas, não para lucro
 # HTML page description
-m24-home-page-desc = Você sabia? { -brand-name-mozilla } — criadora do { -brand-name-firefox } — luta para manter a Internet um recurso público global, aberto e acessível a todos.
-m24-home-page-desc-v2 = Estamos a trabalhar para colocar o controlo da Internet de volta nas mãos das pessoas que a utilizam.
+m24-home-page-desc = Sabia? A { -brand-name-mozilla } — criadora do { -brand-name-firefox } — luta para manter a internet um recurso público global, aberto e acessível a todos.
+m24-home-page-desc-v2 = Estamos a trabalhar para colocar o controlo da Internet de volta nas mãos das pessoas que a usam.
 
 ## Intro
 
