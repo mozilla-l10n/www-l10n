@@ -26,17 +26,17 @@ m24-about-a-group-of = Um grupo de pensadores sentados em círculo no chão a pa
 m24-about-advocate = Ativismo
 m24-about-we-advocate-for = Defendemos a criação de melhores produtos, responsabilizando os governos e as empresas tecnológicas pelo que criam.
 m24-about-research = Investigação
-m24-about-we-uncover-insights = Recolhemos conhecimentos, fazemos campanhas para melhorar produtos e impulsionamos políticas que representam os seus interesses.
-m24-about-build = Construa
-m24-about-we-build-products-v2 = Nós construímos produtos que lhe colocam em controlo — como o { -brand-name-firefox } e muito mais.
-m24-about-fund = Fundo
-m24-about-we-fund-and = Nós financiamos e investimos nas pessoas e esforços para levar a tecnologia, a Internet e a IA na direção certa.
+m24-about-we-uncover-insights = Mostramos pontos de vista, fazemos campanhas para melhorar produtos e impulsionamos políticas que representam os seus interesses.
+m24-about-build = Construção
+m24-about-we-build-products-v2 = Construímos produtos que o colocam em controlo — como o { -brand-name-firefox } e mais.
+m24-about-fund = Financiamento
+m24-about-we-fund-and = Nós financiamos e investimos nas pessoas e esforços para levar a tecnologia, a internet e a IA na direção certa.
 
 ## News
 
 m24-about-read-more = Ler mais
-m24-about-read-the-latest = Ler as últimas notícias e artigos da { -brand-name-mozilla }
-m24-about-rewiring-mozilla = Religação { -brand-name-mozilla }: Fazer pela IA o que fizemos pela Web. Leia acerca da nossa estratégia de próxima geração e como estamos a transformar { -brand-name-mozilla } para a era da IA.
+m24-about-read-the-latest = Ler as últimas notícias & artigos da { -brand-name-mozilla }
+m24-about-rewiring-mozilla = Religação { -brand-name-mozilla }: Fazer pela IA o que Fizemos pela Web. Leia acerca da nossa estratégia de próxima geração e como estamos a transformar a { -brand-name-mozilla } para a era da IA.
 m24-about-what-comes-next = O que vem a seguir em tecnologia é uma escolha. Escolha connosco.
 m24-about-watch-here = Acompanhar aqui
 # "Double Bottom Line" refers to accounting for both money and mission values

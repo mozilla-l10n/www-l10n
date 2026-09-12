@@ -10,3 +10,4 @@ consent-banner-body-v2 = Papildus sīkdatnēm, kas ir nepieciešamas šīs vietn
 consent-banner-button-reject = Noraidīt visas papildu sīkdatnes
 consent-banner-button-accept = Pieņemt visas papildu sīkdatnes
 consent-banner-settings-link = Sīkdatņu iestatījumi
+consent-banner-aria-label = Sīkdatņu paziņojums

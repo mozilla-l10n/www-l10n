@@ -99,6 +99,7 @@
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account = Mozilla konts
+-brand-name-mozilla-accounts = Mozilla konti
 -brand-name-mozilla-builders = Mozilla Builders
 -brand-name-builders = Builders
 -brand-name-mozilla-ai-v2 = Mozilla.ai
