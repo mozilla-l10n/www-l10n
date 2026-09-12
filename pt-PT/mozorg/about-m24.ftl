@@ -15,17 +15,17 @@ m24-about-page-desc = A { -brand-name-mozilla } faz navegadores, aplicações, c
 m24-about-guard-the-internet = Defenda a Internet Aberta
 # Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = Recupere a Internet connosco
-m24-about-mozilla-is-working = A { -brand-name-mozilla } está a trabalhar para colocar o controlo da Internet de volta nas mãos das pessoas que a utilizam.
+m24-about-mozilla-is-working = A { -brand-name-mozilla } está a trabalhar para colocar o controlo da internet de volta nas mãos das pessoas que a usam.
 
 ## Manifesto
 
-m24-about-together-we-can = Juntos, podemos manter a Internet fácil, segura e gratuita — para todos.
+m24-about-together-we-can = Juntos, podemos manter a internet fácil, segura e gratuita — para todos.
 m24-about-read-our-manifesto = Leia o nosso manifesto
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Um grupo de pensadores sentados em círculo no chão a partilhar ideias.
 m24-about-advocate = Ativismo
 m24-about-we-advocate-for = Defendemos a criação de melhores produtos, responsabilizando os governos e as empresas tecnológicas pelo que criam.
-m24-about-research = Pesquisa
+m24-about-research = Investigação
 m24-about-we-uncover-insights = Recolhemos conhecimentos, fazemos campanhas para melhorar produtos e impulsionamos políticas que representam os seus interesses.
 m24-about-build = Construa
 m24-about-we-build-products-v2 = Nós construímos produtos que lhe colocam em controlo — como o { -brand-name-firefox } e muito mais.

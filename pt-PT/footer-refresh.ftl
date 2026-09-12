@@ -37,7 +37,7 @@ footer-refresh-tools = Ferramentas
 footer-refresh-donate = Doar
 footer-refresh-donate-not-for-profit = Fazer uma doção para a organização sem fins lucrativos <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 # Obsolete string (expires 2026-08-01)
-footer-refresh-visit-mozilla-corporations-v2 = Visite a entidade sem fins lucrativos de <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
+footer-refresh-visit-mozilla-corporations-v2 = Visite a <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> a empresa-mãe, e sem fins lucrativos da <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Partes deste conteúdo são ©1998–{ $current_year } por contribuidores individuais da mozilla.org. Conteúdo disponível sobre uma <a rel="license" { $href }>licença { -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Informação de privacidade do site
 footer-refresh-websites-cookies = Cookies
@@ -46,5 +46,5 @@ footer-refresh-community-participation-guidelines = Linhas orientadoras da comun
 footer-refresh-about-this-site = Sobre este site
 footer-refresh-all-languages = Todos os idiomas
 footer-refresh-language = Idioma
-footer-refresh-anonym-privacy-policy = Política de privacidade de { -brand-name-anonym }
-footer-refresh-anonym-terms-and-conditions = { -brand-name-anonym } Termos e Condições
+footer-refresh-anonym-privacy-policy = Política de Privacidade { -brand-name-anonym }
+footer-refresh-anonym-terms-and-conditions = Termos e Condições { -brand-name-anonym }
