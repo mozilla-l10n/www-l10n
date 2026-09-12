@@ -18,19 +18,19 @@ m24-home-welcome-to-mozilla = Bem-vindo(a) à { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = Desde tecnologia fiável até políticas que defendem os seus direitos digitais, colocamo-lo sempre em primeiro lugar — sempre.
 m24-home-learn-about-us = Saiba mais sobre nós
 # Used as accessible text alternative for image
-m24-home-alt-flag = Uma bandeira verde estilizada sobre um fundo preto, construída a partir do ‘M’ da { -brand-name-mozilla } e um pixel que é deslocado para referenciar o seu logótipo original de dinos.
+m24-home-alt-flag = Uma bandeira verde estilizada sobre um fundo preto, construída a partir do ‘M’ da { -brand-name-mozilla } e um pixel que é deslocado para referenciar o seu logótipo original do dinossauro.
 
 ## Products
 
-m24-home-love-the-internet = Volte a gostar da Internet
-m24-home-break-free-from = Liberte-se das grandes tecnologias - os nossos produtos colocam-lhe em controlo, com uma experiência de Internet mais segura e privada.
+m24-home-love-the-internet = Volte a gostar da internet
+m24-home-break-free-from = Liberte-se das grandes tecnológicas — os nossos produtos colocam-o em controlo para uma experiência mais segura, e privada na internet.
 m24-home-explore-our-products = Explorar os nossos produtos
 m24-home-firefox = { -brand-name-firefox }
-m24-home-get-the-gold = Obtenha o padrão ouro para navegar com velocidade, privacidade e controlo.
+m24-home-get-the-gold = Obtenha o padrão de excelência em navegação com velocidade, privacidade e controlo.
 m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-go-chaosfree-with = Simplifique a sua vida com uma aplicação para todos os seus e-mails, calendários e contactos.
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
-m24-home-keep-your-location = Mantenha a sua localização e as suas aventuras online privadas — faça streaming como um local, em qualquer lugar.
+m24-home-keep-your-location = Mantenha a sua localização e as suas aventuras online em privado — veja conteúdos como se estivesse no local, onde quer que esteja.
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Saiba se a sua informação pessoal está em risco e bloqueie-a como um profissional.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
@@ -38,10 +38,10 @@ m24-home-mask-your-email = Mascare o seu e-mail e número de telefone para que r
 m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = Crie instantaneamente um website bonito para que possa crescer o seu negócio.
 m24-home-0din = { -brand-name-0din }
-m24-home-0din-desc = Proteja a sua IA encontrando e corrigindo vulnerabilidades da GenAl antes que os atacantes o façam.
+m24-home-0din-desc = Proteja a sua IA ao encontrar e corrigir vulnerabilidades da GenAl antes que os atacantes o façam.
 m24-home-tabstack = { -brand-name-tabstack }
 # API stands for "Application Programming Interface"
-m24-home-tabstack-desc = Automático, de forma confiável, tarefas web com uma API simples, focada no programador.
+m24-home-tabstack-desc = Automatize tarefas na web de forma fiável com uma API simples e orientada para programadores.
 
 ## Donate
 
