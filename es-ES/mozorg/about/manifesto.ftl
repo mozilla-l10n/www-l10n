@@ -72,6 +72,28 @@ manifesto-commitment-2 = Compromiso 2
 manifesto-commitment-3 = Compromiso 3
 manifesto-commitment-4 = Compromiso 4
 manifesto-if-you-share-this-goal-v2 = Si compartes este objetivo, dinos cómo podemos ayudarte.
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+manifesto-we-create-open = Creamos <a { $github_link }>software de código abierto</a> sobre el que puedes construir.
+# Variables:
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+manifesto-we-fund-fellows = <a { $mofo_link }>Financiamos becas e impulsamos proyectos</a> destinados a crear un futuro mejor en línea.
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = <a { $mozai_link }>Creamos herramientas de IA de código abierto</a> que ofrecen opciones a los desarrolladores y les ayudan a ahorrar dinero.
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = <a { $mozvc_link }>Invertimos en startups tecnológicas responsables</a>.
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = <a { $mdc_link }>Gestionamos una comunidad mundial</a> para el intercambio justo de datos.
+# Variables:
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+manifesto-we-host-a-yearly = <a { $festival_link }>Organizamos un encuentro global anual</a> para personas que construyen cualquier cosa para impulsar el Manifiesto.
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = Y, por supuesto, también creamos <a { $firefox_link }>{ -brand-name-firefox }</a> y <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Todo esto tiene como objetivo ayudar a las personas a hacer de internet un lugar saludable.
 
 ## Obsolete strings (expire 2026-09-10)
 
