@@ -56,4 +56,4 @@ features-adblocker-speed-up-thanks-to-ad = 使用广告拦截器加速上网
 features-adblocker-in-some-cases-an-ad-blocker = 某些情况下，广告拦截器可加快您的浏览速度，因为加载广告可能会拖慢网站，同时也可能使您需要花更多时间才能找到所需的内容。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/new/
-features-adblocker-if-you-want-to-learn-more-v2 = 如需详细了解广告拦截器，目前有数百款适用于 { -brand-name-firefox } 和其他浏览器的广告拦截扩展可用。若您想在 { -brand-name-firefox } 中试用广告拦截器，请<a href="{ $url }">点击此处下载</a>这款隐私为先的浏览器。
+features-adblocker-if-you-want-to-learn-more-v2 = 若您对广告拦截有需要，目前有数百款适用于 { -brand-name-firefox } 和其他浏览器的广告拦截扩展可用。若您想在 { -brand-name-firefox } 中试用广告拦截器，请<a href="{ $url }">点击此处下载</a>这款隐私为先的浏览器。
