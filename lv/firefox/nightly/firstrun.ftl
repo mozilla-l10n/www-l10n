@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/nightly/firstrun/
 
 nightly-firstrun-firefox-nightly = { -brand-name-firefox-nightly } pirmās palaišanas lapa
-nightly-firstrun-thank-you-for-using = Paldies ka izmantojiet { -brand-name-firefox-nightly }
+nightly-firstrun-thank-you-for-using = Paldies { -brand-name-firefox-nightly } izmantošanu
 nightly-firstrun-choose-an-area = Izvēlieties zemāk lauku kurā iesaistīties un palīdziet padarīt { -brand-name-firefox } labāku lietotājiem visur pasaulē
 nightly-firstrun-test = Izmēģināt
 nightly-firstrun-find-and-file-bugs = Atrodi un iesniedz kļūdu ziņojumus, un kopumā pārliecinies, ka viss darbojas, kā vajadzētu!
