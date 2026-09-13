@@ -28,8 +28,10 @@ manifesto-we-are-committed-to-diverse = Estamos comprometidos con un Internet qu
 manifesto-an-internet-with-these = Estas cualidades no cobrarán vida por sí solas en Internet. Los individuos y las organizaciones deben integrar estas aspiraciones en la tecnología de Internet y en la experiencia humana con Internet. El Manifiesto y el Addendum de { -brand-name-mozilla } representan el compromiso de { -brand-name-mozilla } para avanzar en estas aspiraciones. Nuestro objetivo es trabajar junto a personas y organizaciones de todo el mundo que compartan estos objetivos para hacer de Internet un lugar aún mejor para todos.
 manifesto-details-introduction = Introducción
 manifesto-details-the-internet-is-becoming = Internet se ha convertido en una parte cada vez más importante de nuestras vidas.
+manifesto-details-the-mozilla-project-global-v2 = El proyecto { -brand-name-mozilla } es una comunidad mundial de personas que cree que la apertura, la innovación y la oportunidad son fundamentales para la integridad de Internet. Desde 1998 trabajamos juntos para garantizar que Internet se desarrolle en beneficio de la sociedad. Principalmente somos conocidos por haber creado el navegador { -brand-name-mozilla } { -brand-name-firefox }.
 # Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = El proyecto { -brand-name-mozilla } es una comunidad mundial de personas que cree que la apertura, la innovación y la oportunidad son fundamentales para la integridad de Internet. Desde 1998 trabajamos juntos para garantizar que Internet se desarrolle en beneficio de la sociedad. Principalmente somos conocidos por haber creado el navegador { -brand-name-mozilla } { -brand-name-firefox }.
+manifesto-details-the-mozilla-project-community-v2 = El proyecto { -brand-name-mozilla } tiene una forma de trabajo basada en la comunidad que le permite crear software de código abierto de primera calidad y desarrollar nuevas clases de actividades colaborativas. Creamos comunidades de personas dedicadas a lograr una mejor experiencia en Internet para todos.
 # Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = El proyecto { -brand-name-mozilla } tiene una forma de trabajo basada en la comunidad que le permite crear software de código abierto de primera calidad y desarrollar nuevas clases de actividades colaborativas. Creamos comunidades de personas dedicadas a lograr una mejor experiencia en Internet para todos.
 manifesto-details-as-a-result-of = Como resultado de estos esfuerzos, hemos elaborado algunos principios que consideramos fundamentales para que Internet continúe beneficiando tanto al bien público como a los aspectos comerciales de la vida. A continuación enumeramos estos principios.
@@ -59,6 +61,17 @@ manifesto-details-build-and-deliver = crear y distribuir productos de calidad qu
 manifesto-details-use-the-mozilla = usar los bienes de { -brand-name-mozilla } (su propiedad intelectual, el copyright y las marcas registradas, su infraestructura, sus fondos y su reputación) para mantener Internet como una plataforma abierta;
 manifesto-details-promote-models = promover modelos a fin de crear recursos económicos para el beneficio público; y
 manifesto-details-promote-the-mozilla = promover los principios del manifiesto de { -brand-name-mozilla } en el debate público y dentro de la industria de Internet.
+manifesto-written-in-2007 = El Manifiesto de { -brand-name-mozilla }, escrito en 2007, describe nuestros principios fundamentales. El Compromiso por un Internet Saludable se redactó como un anexo al Manifiesto en 2017 para reflejar nuestro profundo compromiso de garantizar que internet satisfaga las necesidades de las personas y de la humanidad en su conjunto. Juntos, estos dos documentos guían todo el trabajo de Mozilla: lo que desarrollamos, lo que financiamos y cómo colaboramos como comunidad.
+manifesto-mozillas-pledge = El compromiso de { -brand-name-mozilla }
+manifesto-across-the-mozilla-project = En todo el Proyecto { -brand-name-mozilla } y en todas las organizaciones de la familia { -brand-name-mozilla }, nos comprometemos a apoyar el Manifiesto { -brand-name-mozilla } en sus actividades. Específicamente, haremos lo siguiente:
+manifesto-we-need-you = Te necesitamos para impulsar el manifiesto
+manifesto-an-internet-with-these-v2 = Un internet con estas cualidades no nacerá espontáneamente. Las personas y las organizaciones deben incluir estas aspiraciones a la tecnología de internet y a la experiencia humana en internet. El Manifiesto y los principios de { -brand-name-mozilla } representan nuestro compromiso para avanzar en estas aspiraciones. { -brand-name-mozilla } trabaja con personas y organizaciones de todas partes, las que quieren hacer de Internet un mejor lugar para todos.
+manifesto-our-commitments = Nuestros compromisos
+manifesto-commitment-1 = Compromiso 1
+manifesto-commitment-2 = Compromiso 2
+manifesto-commitment-3 = Compromiso 3
+manifesto-commitment-4 = Compromiso 4
+manifesto-if-you-share-this-goal-v2 = Si compartes este objetivo, dinos cómo podemos ayudarte.
 
 ## Obsolete strings (expire 2026-09-10)
 
