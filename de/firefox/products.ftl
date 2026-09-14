@@ -72,3 +72,6 @@ firefox-products-learn-more-about-0din = Weitere Informationen zu { -brand-name-
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Verbinde deine Apps durch verlässliche Automatisierung mit dem Internet und verwandle Live-Websites in cleane, strukturierte Ergebnisse.
 firefox-products-learn-more-about-tabstack = Weitere Informationen zu { -brand-name-tabstack }
+
+## Otari
+
