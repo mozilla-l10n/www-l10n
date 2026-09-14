@@ -40,9 +40,22 @@ firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } ir pi
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automātiski <a { $attrs }>liedz daudzus trešo pušu izsekotājus</a>, lai tie nevarētu ievākt un pārdot Tavas darbības tīmeklī.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = Jautājumi? <a { $attrs }>{ -brand-name-mozilla } atbalsts</a> ir gatavībā palīdzēt.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = Tagad <strong>jāpalaiž</strong> tikko lejupielādētais uzstādītājs.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = Tagad <strong>jāatver</strong> tikko lejupielādētā datne.
+# the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-select-linux = Zemāk jāatlasa <strong>lejupielādes</strong> iespēja
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = Ir sarežģījumi? <a { $attrs }>Saņemt palīdzību par uzstādīšanu</a>.
+firefox-desktop-download-in-another-language = Lejupielādēt citā valodā vai citai operētājsistēmai.
 firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-visit-support-for-more = Vairāk informācijas ir pieejama atbalsta vietnē
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ir kas vairāk par pārlūku.

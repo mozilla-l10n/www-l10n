@@ -18,7 +18,12 @@ set-as-default-thanks-heres-everything-you-need-android = Viss, kas jāzina par 
 set-as-default-thanks-heres-everything-you-need-ios = Viss, kas jāzina par noklusējuma pārlūka iestatīšanu <a href="{ $ios }">iOS ierīcē</a>.
 set-as-default-thanks-youre-all-set = Viss ir iestatīts.
 set-as-default-thanks-get-firefox-for-mobile = Iegūt { -brand-name-firefox } tālrunim
+set-as-default-thanks-travel-the-internet-with = Ceļo internetā ar aizsardzību visās savās ierīcēs!
 set-as-default-thanks-download-the-app = Lejupielādēt lietotni
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Iegūt kontu
 set-as-default-thanks-having-trouble = Ir sarežģījumi?
+# Variables:
+#   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
+#   $desktop (url) - link to https://support.mozilla.org/kb/make-firefox-your-default-browser
+set-as-default-thanks-heres-everything-you-need-android-desktop = Viss, kas jāzina par noklusējuma pārlūka iestatīšanu <a href="{ $android }">Android ierīcē</a> vai <a href="{ $desktop }">darbvirsmas datorā</a>.

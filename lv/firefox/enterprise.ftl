@@ -6,6 +6,10 @@
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
 firefox-enterprise-enterprise = { -brand-name-enterprise }
+# Variables:
+#   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
+firefox-enterprise-get-the-firefox-extended-support = Iegūsti <a href="{ $url }">{ -brand-name-firefox-extended-support-release } vai ātrā laidiena</a> pārlūku visaptverošai datu drošībai un aizsardzībai.
+firefox-enterprise-unmatched-data-protection = Nepārspējama datu aizsardzība — Tev piemērotā laidienu ritmā
 firefox-enterprise-your-data-stays-your-business = Tavi dati ir Tava darīšana
 firefox-enterprise-deploy-when-and-how-you-want = Izvieto, kad un kā vēlies
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } lejupielādes

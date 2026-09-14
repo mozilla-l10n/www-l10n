@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/about/manifesto/
 
+manifesto-the-internet-is-an-integral = Internets ir būtiska mūsdienu dzīves daļa — būtiska sastāvdaļa izglītībā, saziņā, sadarbībā, uzņēmējdarbībā, izklaidē un sabiedrībā kopumā.
 
 ## Obsolete strings (expire 2026-09-10)
 
