@@ -7,6 +7,7 @@
 
 vpn-linux-mozilla-vpn = Linux’ta { -brand-name-mozilla-vpn }
 vpn-linux-mozilla-vpn-on-linux = Daha gizli ve güvenli bir internet için Linux’ta { -brand-name-mozilla-vpn }
+vpn-linux-linux-is-free = Linux özgür, açık kaynaklı ve özelleştirilebilir olsa da çevrimiçi güvenlik ve gizlilik sorunlarına karşı bağışık değildir. Diğer işletim sistemlerini kullananlar gibi Linux kullanıcıları da sansür, gözetim ve hacking ile karşı karşıya kalır.
 vpn-linux-why-choose = Linux için neden { -brand-name-mozilla-vpn }’i seçmeliyim?
 vpn-linux-fast-and-v2 = <strong>Hızlı ve güvenilir:</strong> { -brand-name-mozilla-vpn } diğer VPN protokollerinden daha iyi performans ve kararlılık sunan { -brand-name-wireguard }® protokolünü kullanır.
 vpn-linux-device-level = <strong>Cihaz düzeyinde şifreleme:</strong> Yalnızca tarayıcı trafiğinizi şifreleyen VPN’lerin aksine { -brand-name-mozilla-vpn } tüm uygulamalarınız ve oyunlarınız dahil olmak üzere cihazınızın tüm trafiğini şifreler.
