@@ -70,3 +70,9 @@ firefox-products-learn-more-about-0din = { -brand-name-0din }에 대해 더 알�
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = 안정적인 자동화를 통해 앱을 웹에 연결하고 라이브 웹 페이지를 명확하고 구조적인 결과로 바꿔줍니다.
 firefox-products-learn-more-about-tabstack = { -brand-name-tabstack }에 대해 더 알아보기
+
+## Otari
+
+firefox-products-otari = { -brand-name-otari }
+firefox-products-otari-desc = { -brand-name-otari }는 단일 API 엔드포인트에서 라우팅, 보안, 예산, 장애 조치, 감사를 통합하여 여러 AI 공급자를 관리하는 복잡성을 제거합니다.
+firefox-products-learn-more-about-otari = { -brand-name-otari }에 대해 더 알아보기

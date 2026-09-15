@@ -46,6 +46,9 @@ firefox-desktop-download-questions = Jautājumi? <a { $attrs }>{ -brand-name-moz
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = Gandrīz esam beiguši!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = Tagad jāpabeidz { -brand-name-firefox } <strong>uzstādīšana</strong>.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-now-windows = Tagad <strong>jāpalaiž</strong> tikko lejupielādētais uzstādītājs.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
