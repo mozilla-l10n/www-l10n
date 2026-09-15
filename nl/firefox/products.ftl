@@ -70,3 +70,9 @@ firefox-products-learn-more-about-0din = Meer info over { -brand-name-0din }
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Verbind uw apps met internet met betrouwbare automatisering en zet live webpagina’s om in duidelijke, gestructureerde resultaten.
 firefox-products-learn-more-about-tabstack = Meer info over { -brand-name-tabstack }
+
+## Otari
+
+firefox-products-otari = { -brand-name-otari }
+firefox-products-otari-desc = { -brand-name-otari } elimineert de complexiteit van het beheren van meerdere AI-providers door routering, beveiliging, budgettering, failover en auditing te verenigen achter één API-eindpunt.
+firefox-products-learn-more-about-otari = Meer info over { -brand-name-otari }
