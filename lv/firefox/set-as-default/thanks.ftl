@@ -9,6 +9,8 @@
 set-as-default-thanks-set-as-default-thanks-for-choosing-firefox = Paldies, ka izvēlies { -brand-name-firefox }
 set-as-default-thanks-success-your-default-browser = Sekmīgi! { -brand-name-firefox } ir iestatīts kā noklusējuma pārlūks.
 set-as-default-thanks-looks-like-youre-using-a = Šķiet, ka pašlaik izmanto citu pārlūku. Jāpārliecinās, ka ierīcē ir lejupielādēts { -brand-name-firefox }.
+# When a visitor sees this message a system dialog will also open on screen.
+set-as-default-thanks-youre-almost-done-just-change = Tu esi gandrīz galā. Iestatījumu panelī vienkārši jānomaina savs noklusējuma pārlūks uz { -brand-name-firefox }.
 set-as-default-thanks-having-trouble-setting-your = Ir sarežģījumi ar noklusējuma pārlūka iestatīšanu?
 # Variables:
 #   $android (url) - link to https://support.mozilla.org/kb/make-firefox-default-browser-android
