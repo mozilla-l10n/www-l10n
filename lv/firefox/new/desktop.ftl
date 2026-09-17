@@ -64,3 +64,6 @@ firefox-desktop-download-visit-support-for-more = Vairāk informācijas ir pieej
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ir kas vairāk par pārlūku.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Lejupielāde tika pārtraukta. Bet viss vēl nav zaudēts.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = Sistēma var neatbilst { -brand-name-firefox } prasībām, bet ir iespēja izmēģināt kādu no <a href="{ $url }">šīm versijām</a>.
