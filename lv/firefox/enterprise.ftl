@@ -10,8 +10,11 @@ firefox-enterprise-enterprise = { -brand-name-enterprise }
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-update-channel
 firefox-enterprise-get-the-firefox-extended-support = Iegūsti <a href="{ $url }">{ -brand-name-firefox-extended-support-release } vai ātrā laidiena</a> pārlūku visaptverošai datu drošībai un aizsardzībai.
 firefox-enterprise-unmatched-data-protection = Nepārspējama datu aizsardzība — Tev piemērotā laidienu ritmā
+# "Enhanced Tracking Protection" is a feature name; it should be capitalized
+firefox-enterprise-the-firefox-browser-is-open = { -brand-name-firefox } pārlūks ir atvērta pirmkoda un nodrošina uzlaboto izsekošanas aizsardzību — tas viss ir daļa no mūsu ilggadējās apņemšanās nodrošināt datu aizsardzību.
 firefox-enterprise-your-data-stays-your-business = Tavi dati ir Tava darīšana
 firefox-enterprise-deploy-when-and-how-you-want = Izvieto, kad un kā vēlies
+firefox-enterprise-with-install-packages-and = Ar uzstādīšanas pakotnēm un plašu kopu pamatnostādņu un iespēju paplašināšanu izvietošana ir ātrāka un pielāgojamāka kā jebkad — un vienkārša gan { -brand-name-windows }, gan { -brand-name-mac } vidē.
 firefox-enterprise-enterprise-downloads = { -brand-name-enterprise } lejupielādes
 firefox-enterprise-windows-64-bit = 64 bitu { -brand-name-windows }
 firefox-enterprise-macos = { -brand-name-mac }
