@@ -29,6 +29,7 @@ firefox-desktop-download-themes = Izskati
 firefox-desktop-download-adjust-search-bar = Pielāgot meklēšanas joslas iestatījumus
 firefox-desktop-download-your-privacy-comes = Tavs privātums ir pirmajā vietā
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+firefox-desktop-download-from-watching-a = No tīmekļa pamācības skatīšanās līdz sekošanai iecienītākajai komandai video seko Tev, kamēr vienlaicīgi veic dažādus uzdevumus.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-learn-about-the = Uzzini vairāk par { -brand-name-firefox } darbvirsmu pārlūku zemāk
 # Variables:
