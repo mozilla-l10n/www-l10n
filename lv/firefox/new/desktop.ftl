@@ -64,6 +64,9 @@ firefox-desktop-download-select-linux = Zemāk jāatlasa <strong>lejupielādes</
 firefox-desktop-download-get-help = Ir sarežģījumi? <a { $attrs }>Saņemt palīdzību par uzstādīšanu</a>.
 firefox-desktop-download-in-another-language = Lejupielādēt citā valodā vai citai operētājsistēmai.
 firefox-desktop-download-windows = { -brand-name-windows }
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = Ja redzi uzvedni, kurā norādīts, ka lietotne, kuru mēģini uzstādīt, nav { -brand-name-microsoft } apliecināta lietotne, jāklikšķina “Vienalga uzstādīt” vai <a { $attrs }>jāmaina lietotņu ieteikšanas iestatījumi</a>.
 firefox-desktop-download-visit-support-for-more = Vairāk informācijas ir pieejama atbalsta vietnē
 # Variables:
 #   $id (string) - HTML ID for the download link.
