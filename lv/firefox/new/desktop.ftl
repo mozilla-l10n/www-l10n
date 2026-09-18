@@ -39,6 +39,9 @@ firefox-desktop-download-as-the-internet-v2 = Internetam augot un mainoties, { -
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } ir pieejams visās Tavās ierīcēs; paņem līdzi cilnes, vēsturi un grāmatzīmes. Viss, kas nepieciešams, ir <a { $attrs }>{ -brand-name-mozilla-account }</a>, un Tu iegūsi piekļuvi vienādošanai un citiem { -brand-name-mozilla } produktiem.
 # Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = Uzņem augstas izšķirtspējas attēlu ar jebko tiešsaistē ar mūsu tieši pārlūkā iebūvēto <a { $attrs }>ekrānuzņēmumu</a> rīku!
+# Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automātiski <a { $attrs }>liedz daudzus trešo pušu izsekotājus</a>, lai tie nevarētu ievākt un pārdot Tavas darbības tīmeklī.
 # Variables:
@@ -62,6 +65,10 @@ firefox-desktop-download-get-help = Ir sarežģījumi? <a { $attrs }>Saņemt pal
 firefox-desktop-download-in-another-language = Lejupielādēt citā valodā vai citai operētājsistēmai.
 firefox-desktop-download-windows = { -brand-name-windows }
 firefox-desktop-download-visit-support-for-more = Vairāk informācijas ir pieejama atbalsta vietnē
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = Lejupielādei vajadzētu sākties automātiski. Tā nenotika? <a id="{ $id }" href="{ $fallback_url }">Jāmēģina lejupielādēt vēlreiz.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ir kas vairāk par pārlūku.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = Lejupielāde tika pārtraukta. Bet viss vēl nav zaudēts.
