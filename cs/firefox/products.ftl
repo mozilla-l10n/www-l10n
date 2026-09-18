@@ -74,5 +74,5 @@ firefox-products-learn-more-about-tabstack = Zjistit více o službě { -brand-n
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
-firefox-products-otari-desc = { -brand-name-otari } odstraňuje složitost správy více poskytovatelů AI tím, že sjednocuje směrování, zabezpečení, rozpočet, převzetí služeb při selhání a auditování pod jeden koncový bod API.
-firefox-products-learn-more-about-otari = Zjistit více o službě { -brand-name-otari }
+firefox-products-otari-desc = { -brand-name-otari } zjednodušuje správu více poskytovatelů umělé inteligence tím, že sjednocuje směrování, zabezpečení, rozpočtování, převzetí služeb při selhání a auditování do jediného koncového bodu API.
+firefox-products-learn-more-about-otari = Zjistit více o projektu { -brand-name-otari }
