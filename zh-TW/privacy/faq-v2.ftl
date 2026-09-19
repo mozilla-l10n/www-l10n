@@ -39,7 +39,7 @@ privacy-faq-v2-do-you-collect = 你們會在預先發行版的 { -brand-name-fir
 privacy-faq-v2-sort-of = 有多了一點。除了上述資料外，我們預設還會在 { -brand-name-firefox } 的預先發行版本收集當機與錯誤報告。
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/shield
-privacy-faq-v2-we-may-also = 我們可能也會在預先發行版本中，進行<a { $attrs }>研究</a>，以收集其他資料。舉例來說，某些研究需要我們所謂的「網頁活動資料」，當中可能包含某些網站的網址與其他資訊。如此可幫助我們回答一些問題（例：如何在某些語系版本當中更好地整合某些網站）以改善 { -brand-name-firefox }。
+privacy-faq-v2-we-may-also = 我們可能也會在預先發行版本中，進行<a { $attrs }>研究</a>，以收集其他資料。舉例來說，某些研究需要我們所謂的「瀏覽資料」，當中可能包含某些網站的網址與其他資訊。如此可幫助我們回答一些問題（例：如何在某些語系版本當中更好地整合某些網站）以改善 { -brand-name-firefox }。
 privacy-faq-v2-mozilla-pre-release = { -brand-name-mozilla } 的 { -brand-name-firefox } 預先發行版本是開發用的平台，會常常更新，並且包含實驗性功能。我們會在預先發行版本中收集比正式版當中更多的資料，以了解這些實驗性功能表現如何。您可以在偏好設定中，關閉此類資料的收集。
 privacy-faq-v2-but-why-do-you = 那你們為什麼還要收集資料？
 # Variables:
