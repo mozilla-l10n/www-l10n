@@ -11,7 +11,7 @@ bookmark-manager-bookmark-manager = 書籤管理員
 bookmark-manager-organize-your-bookmarks-with = 使用資料夾與標籤管理您的書籤。
 # Variables:
 #   $sync (url) - link to https://www.mozilla.org/firefox/features/sync/
-bookmark-manager-bookmarks-are-links-you-save = 書籤是儲存在您瀏覽器當中的鏈結，讓您可以快速而簡單地回到網路上的最愛頁面。{ -brand-name-firefox } 內建方便的書籤管理員，讓您可以管理、搜尋、更新以及 <a { $sync }>在您的所有裝置間同步已存的鏈結</a>。
+bookmark-manager-bookmarks-are-links-you-save = 書籤是儲存在您瀏覽器當中的鏈結，讓您可以快速而簡單地回到網路上的最愛頁面。{ -brand-name-firefox } 內建方便的書籤管理員，讓您可以管理、搜尋、更新以及 <a { $sync }>在您的所有裝置間同步已儲存的鏈結</a>。
 bookmark-manager-organize-your-boomarks-into = 用可搜尋的資料夾整理您的書籤
 bookmark-manager-collect-your-bookmarks-in-folders = 將您的書籤放進資料夾，並可加入標籤資訊。您也可以排序書籤，快速找到所需。
 bookmark-manager-easily-import-bookmarks = 輕鬆匯入書籤

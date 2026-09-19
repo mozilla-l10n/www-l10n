@@ -8,7 +8,7 @@
 # HTML page title
 password-manager-free-password-manager = 免費密碼管理員
 # HTML page description
-password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } 的密碼管理員可將您的所有密碼儲存起來，這樣就可以自動登入各個網站，或找回已存的密碼。
+password-manager-firefox-password-manager-saves-all = { -brand-name-firefox } 的密碼管理員可將您的所有密碼儲存起來，這樣就可以自動登入各個網站，或找回已儲存的密碼。
 password-manager-firefox-securely-stores-your = { -brand-name-firefox } 會安全地儲存您用來開啟網站的帳號與密碼，當您下次造訪網站時，即可自動填寫這些資訊。您也可以透過內建的密碼管理功能來管理登入資訊。
 # Variables:
 #   $fxa (url) = link to https://www.mozilla.org/firefox/accounts/
