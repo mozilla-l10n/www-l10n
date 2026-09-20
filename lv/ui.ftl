@@ -6,7 +6,7 @@
 ## Common user interface (ui) strings used in global templates and shared widgets.
 
 ui-back-to-home-page = Atgriezties sākumlapā
-ui-return-to-top = Atpakaļ uz augšu
+ui-return-to-top = Atgriezties lapas augšā
 ui-close = Aizvērt
 ui-previous = Iepriekšējais
 ui-next = Tālāk

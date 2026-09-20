@@ -16,6 +16,7 @@ firefox-desktop-set-as-default = Iestatīt { -brand-name-firefox } kā noklusēj
 firefox-desktop-download-download-options = Lejupielāžu iespējas un citas valodas
 firefox-desktop-download-search-from-address = Meklēt adrešu joslā
 firefox-desktop-download-bookmarks-manager = Grāmatzīmju pārvaldnieks
+firefox-desktop-download-reader-mode = Lasīšanas režīms
 firefox-desktop-download-spell-check = Pareizrakstības pārbaude
 # Autoplay is a feature names and so is capitalized in English
 firefox-desktop-download-block-autoplay-of = Liegt video un skaņas automātisku atskaņošanu
