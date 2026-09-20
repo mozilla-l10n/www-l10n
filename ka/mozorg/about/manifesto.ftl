@@ -63,14 +63,14 @@ manifesto-details-promote-models = ვცდილობთ ეკონომ�
 manifesto-details-promote-the-mozilla = { -brand-name-mozilla }-ს მოცემული დებულებების მხარდაჭერას საზოგადოებრივ ცხოვრებასა და ინტერნეტსივრცეში.
 manifesto-written-in-2007 = { -brand-name-mozilla }-ს დებულებები, დაწერილი 2007 წელს, სრულად ასახავს ჩვენს ძირითად მიდგომებს. „ჯანსაღი ინტერნეტის პირობა“ დაიწერა დებულებების დანართად 2017 წელს, ჩვენი ღრმა ერთგულების გამოხატვისთვის იმ მიზნის მიმართ, რომ ინტერნეტი სრულად უნდა აკმაყოფილებდეს ადამიანისა და მთლიანად კაცობრიობის საჭიროებებს. ერთობლივად ამ ორი დოკუმენტით ხელმძღვანელობს საქმიანობისას { -brand-name-mozilla } — თუ რას ვქმნით, რაში ვაბანდებთ და როგორ ვთანამშრომლობთ ერთობა.
 manifesto-mozillas-pledge = { -brand-name-mozilla }-ს პირობა
-manifesto-across-the-mozilla-project = { -brand-name-mozilla } თავად და ყველა დაწესებულება, რომელსაც მოიცავს { -brand-name-mozilla }, ვიღებთ პირობას, მხარს დავუჭერთ { -brand-name-mozilla }-ს დებულებებს საქმიანობისას. სახელდობრ, ჩვენ:
+manifesto-across-the-mozilla-project = თავად { -brand-name-mozilla } და ყველა დაწესებულება, რომელსაც მოიცავს { -brand-name-mozilla }, ვდებთ პირობას, ვიხელმძღვანელოთ { -brand-name-mozilla }-ს დებულებებით საქმიანობისას. სახელდობრ, ჩვენ:
 manifesto-we-need-you = ჩვენ გვჭირდებით თქვენ ამ დებულებების ხორცშესხმისთვის
 manifesto-an-internet-with-these-v2 = ამ მახასიათებლების მქონე ინტერნეტი თავისთავად ვერ ჩამოყალიბდება. საჭიროა ცალკეული ადამიანებისა და დაწესებულებების მხრიდან ამ მისწრაფებების გატარება ინტერნეტტექნოლოგიებსა თუ ინტერნეტცხოვრებაში. { -brand-name-mozilla }-ს დებულებები და დანართი გამოხატავს { -brand-name-mozilla }-ს ერთგულებას ამ მიზნებისადმი. { -brand-name-mozilla } მზადაა ითანამშრომლოს ყველა იმ ხალხსა თუ დაწესებულებასთან, რომელთაც სურთ ინტერნეტგარემოს საყოველთაო გაუმჯობესება კიდევ უფრო მეტად.
-manifesto-our-commitments = ჩვენი თავდადება
-manifesto-commitment-1 = ვალდებულება 1
-manifesto-commitment-2 = ვალდებულება 2
-manifesto-commitment-3 = ვალდებულება 3
-manifesto-commitment-4 = ვალდებულება 4
+manifesto-our-commitments = ჩვენი მოვალეობები
+manifesto-commitment-1 = მოვალეობა 1
+manifesto-commitment-2 = მოვალეობა 2
+manifesto-commitment-3 = მოვალეობა 3
+manifesto-commitment-4 = მოვალეობა 4
 manifesto-if-you-share-this-goal-v2 = თუ იზიარებთ ამ მიზანს, გვაცნობეთ, რით შეგვიძლია დაგეხმაროთ.
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla
@@ -89,7 +89,7 @@ manifesto-we-invest-in = <a { $mozvc_link }>ვაბანდებთ პა�
 manifesto-we-run-a-global = <a { $mdc_link }>ვკრებთ საერთაშორისო ერთობას</a> მონაცემთა მართლზომიერი მიმოცვლისთვის.
 # Variables:
 #   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
-manifesto-we-host-a-yearly = <a { $festival_link }>ვმართავთ ყოველწლიურ საერთაშორისო შეკრებას</a> ხალხისთვის, რომლებიც ქმნიან ნებისმიერ რამესა თუ ყველაფერს მოცემული დებულებების ხელშესაწყობად.
+manifesto-we-host-a-yearly = <a { $festival_link }>ვმართავთ ყოველწლიურ საერთაშორისო შეკრებას</a> ხალხისთვის, რომლებიც ქმნიან ნებისმიერ რამესა თუ ყველანაირს მოცემული დებულებების ხელშესაწყობად.
 # Variables:
 #   $firefox_link (url) - link to https://www.firefox.com/
 #   $thunderbird_link (url) - link to https://www.thunderbird.net/
