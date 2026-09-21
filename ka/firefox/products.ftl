@@ -74,5 +74,5 @@ firefox-products-learn-more-about-tabstack = უკეთ გაიცანი�
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
-firefox-products-otari-desc = { -brand-name-otari } აგარიდებთ AI-ს რამდენიმე მომწოდებლის მართვის სიძნელეს, მარშრუტიზაციის, უსაფრთხოების, ბიუჯეტის შედგენის, failover-ისა და შემოწმების შედეგად, ერთიან API-ის საბოლოო წერტილის გაერთიანებით.
-firefox-products-learn-more-about-otari = გაიგეთ მეტი { -brand-name-otari }-ის შესახებ
+firefox-products-otari-desc = { -brand-name-otari } აგარიდებთ რამდენიმე მომწოდებლის ხელგონით სარგებლობის სირთულეებს, აერთიანებს რა დამისამართებას, უსაფრთხოებას, ფინანსური გეგმის შედგენას, სათადარიგო სისტემაზე გადასვლებსა და შემოწმება/გადასინჯვებს ერთიანი API-მაკავშირებლის გამოყენებით.
+firefox-products-learn-more-about-otari = გაიცანით უკეთ  { -brand-name-otari }
