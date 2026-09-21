@@ -23,7 +23,7 @@ m24-about-together-we-can = ერთად ჩვენ შეგვიძლ�
 m24-about-read-our-manifesto = წაიკითხეთ ჩვენი დებულებები
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = მოაზროვნეთა ჯგუფი, იატაკზე წრიულად მსხდომი, იზიარებს მოსაზრებებს.
-m24-about-advocate = დაცვა
+m24-about-advocate = მიმხრობა
 m24-about-we-advocate-for = მხარს ვუჭერთ უკეთესი პროდუქტების შექმნას, მთავრობებისა და ტექკომპანიების ანგარიშვალდებულების მოთხოვნას მათი ნამუშევრებისთვის.
 m24-about-research = კვლევა
 m24-about-we-uncover-insights = ვავლენთ მოსაზრებებს, ვმართავთ კამპანიებს პროდუქტების გასაუმჯობესებლად და ხალხის სასიკეთო დებულებების ხელშეწყობისთვის.
