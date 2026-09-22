@@ -36,6 +36,8 @@ m24-home-mask-your-email = Замаскіруйце свой адрас элек
 ## Donate
 
 m24-home-donate-to-v2 = Зрабіце ахвяраванне ў { -brand-name-mozilla-foundation }
+m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } стварае будучыню, дзе тэхналогіі падтрымліваюцца людзьмі і адкрытыя па сваёй сутнасці. Вось чаму мы падтрымліваем тэхналогіі, арыентаваныя на супольнасць, праз адстойванне інтарэсаў, адукацыю, фінансаванне і інавацыі — каб пераканацца, што будучыня тэхналогій будзе добрай для ўсіх. Але гэта магчыма толькі разам.
+m24-home-were-proudly-nonprofit = Мы — некамерцыйная арганізацыя. Ці зробіце ахвяраванне ў { -brand-name-mozilla } сёння?
 m24-home-donate = Ахвяраваць
 
 ## AI gallery
@@ -47,6 +49,7 @@ m24-home-tag-event = Падзея
 m24-home-read-more = Падрабязней
 m24-home-get-started = Пачаць
 m24-home-join-the-movement = Далучайцеся да руху:<br> Штучны інтэлект для людзей
+m24-home-our-mission-is = Наша місія — зрабіць так, каб людзям было лёгка ствараць і сумесна працаваць над вартым даверу штучным інтэлектам з адкрытым зыходным кодам.
 m24-home-alt-builders = Builders
 m24-home-alt-builders-v2 = { -brand-name-builders }
 m24-home-mozilla-builders = { -brand-name-mozilla } Builders
