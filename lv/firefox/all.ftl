@@ -7,6 +7,9 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Lejupielādē { -brand-name-firefox } angļu (amerikāņu) un vairāk nekā 90 citās valodās
+firefox-all-choose-browser = Jāizvēlas pārlūks, lai turpinātu
+firefox-all-choose-platform = Jāizvēlas platforma, lai turpinātu
+firefox-all-choose-language = Jāizvēlas valoda, lai turpinātu
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Saņemt palīdzību
 firefox-all-sorry-we-couldnt-find = Atvainojamies, mēs nevarējām atrast meklēto lejupielādi. Lūgums mēģināt vēlreiz vai atlasīt lejupielādi no zemāk esošā saraksta.
