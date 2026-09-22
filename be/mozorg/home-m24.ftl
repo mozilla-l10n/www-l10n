@@ -35,7 +35,7 @@ m24-home-mask-your-email = Замаскіруйце свой адрас элек
 
 ## Donate
 
-m24-home-donate-to-v2 = Зрабіць ахвяраванне ў { -brand-name-mozilla-foundation }
+m24-home-donate-to-v2 = Зрабіце ахвяраванне ў { -brand-name-mozilla-foundation }
 m24-home-donate = Ахвяраваць
 
 ## AI gallery
