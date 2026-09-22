@@ -70,3 +70,8 @@ firefox-products-learn-more-about-0din = { -brand-name-0din } hakkında bilgi al
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Güvenilir otomasyonla uygulamalarınızı web’e bağlayın, yayındaki web sayfalarını yalın ve yapılandırılmış sonuçlara dönüştürün.
 firefox-products-learn-more-about-tabstack = { -brand-name-tabstack } hakkında bilgi alın
+
+## Otari
+
+firefox-products-otari = { -brand-name-otari }
+firefox-products-learn-more-about-otari = { -brand-name-otari } hakkında bilgi alın
