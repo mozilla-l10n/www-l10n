@@ -47,7 +47,7 @@ m24-home-tabstack-desc = Automatize tarefas na web de forma fiável com uma API 
 
 m24-home-donate-to-v2 = Fazer uma doação para a { -brand-name-mozilla-foundation }
 m24-home-mozilla-foundation-is-building-v2 = A { -brand-name-mozilla-foundation } está a construir um futuro em que a tecnologia é impulsionada pelas pessoas, e aberta por natureza. É por isso que advogamos a tecnologia centrada na comunidade através da defesa de causas, educação, financiamento, e inovação — para garantir que o futuro da tecnologia seja benéfico para todos. Mas isso só é possível se o fizermos juntos.
-m24-home-were-proudly-nonprofit = Temos orgulho de ser uma organização sem fins lucrativos. Vai fazer um donativo para a { -brand-name-mozilla } hoje?
+m24-home-were-proudly-nonprofit = Temos orgulho em ser uma organização sem fins lucrativos. Irá doar à { -brand-name-mozilla } hoje?
 m24-home-donate = Doar
 
 ## AI gallery

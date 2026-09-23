@@ -9,7 +9,7 @@
 ## Page heading
 
 contribute-page-title = Oportunidades de voluntariado na { -brand-name-mozilla }
-contribute-page-heading = Os seus donativos são necessários para uma Internet melhor
+contribute-page-heading = Os seus talentos são necessários para uma Internet melhor
 contribute-page-intro = A { -brand-name-mozilla } é uma organização sem fins lucrativos que trabalha para garantir que a Internet é aberta e acolhedora para todos. E nós precisamos da sua ajuda. Ao juntar-se à nossa comunidade, está a ajudar a gerar inovação, a melhorar a responsabilização e a confiança, e a tornar a Internet melhor para todos.
 contribute-how-heading = Como pode contribuir…
 

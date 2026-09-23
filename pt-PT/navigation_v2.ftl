@@ -72,6 +72,6 @@ navigation-v2-get-the-firefox-browser-built = Obtenha o { -brand-name-firefox },
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = Visite a casa dos recursos para programadores da Internet.
 navigation-v2-common-voice = { -brand-name-common-voice }
-navigation-v2-donate-your-voice-so-the-future = Faça um donativo da sua voz para que o futuro da Internet possa ouvir todos.
+navigation-v2-donate-your-voice-so-the-future = Faça uma doação da sua voz para que o futuro da Internet possa ouvir todos.
 navigation-v2-mozilla-innovation-projects = Projetos de inovação da { -brand-name-mozilla }
 navigation-v2-discover-ways-to-bring = Descubra formas de dar vida a ideias inteligentes.
