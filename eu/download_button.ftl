@@ -18,9 +18,16 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> { -brand-name-android }erako
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> { -brand-name-ios }erako
 download-button-firefox-privacy = { -brand-name-firefox }en pribatutasuna
+download-button-firefox-privacy-notice = { -brand-name-firefox }en pribatutasun-oharra
 download-button-download = Deskargatu
+download-firefox-esr = Deskargatu { -brand-name-firefox-esr }
+download-firefox-esr-32 = Deskargatu 32-biterako { -brand-name-firefox-esr }
+download-firefox-esr-64 = Deskargatu 64-biterako { -brand-name-firefox-esr }
+download-a-different-build = Deskargatu bestelako eraikitze bat
 
 ## Linux
 
+download-button-linux-32-v2 = Deskargatu 32-biteko Linuxerako
+download-button-linux-64-v2 = Deskargatu 64-biteko Linuxerako
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Lortu Microsoft-etik

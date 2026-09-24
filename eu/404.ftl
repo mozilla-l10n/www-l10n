@@ -15,3 +15,6 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Ikasi</a> { -b
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Deskargatu</a> { -brand-name-firefox } nabigatzailea gailu mugikorrerako edo mahaigainerako
+# Variables:
+#   $donate (url) - link to https://www.mozillafoundation.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from-v2 = <a { $donate }>Egin dohaintza</a> { -brand-name-mozilla-foundation }(r)i eta berreskuratu Internet teknologia enpresa handietatik.

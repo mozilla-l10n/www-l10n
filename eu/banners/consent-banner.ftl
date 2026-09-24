@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/?geo=de
 
-consent-banner-settings-link = Cookie ezarpenak
+consent-banner-heading = Lagun gaitzazu zure { -brand-name-mozilla } esperientzia hobetzen
+consent-banner-settings-link = Cookien ezarpenak
+consent-banner-aria-label = Cookien iragarki-banda
