@@ -38,7 +38,7 @@ m24-home-mask-your-email = Skjul e-postadressa og telefonnummeret ditt, slik at 
 m24-home-solo = { -brand-name-solo }
 m24-home-solo-desc = Lag ei vakker nettside med ein gong, slik at du kan få verksemda di til å vekse.
 m24-home-0din = { -brand-name-0din }
-m24-home-0din-desc = Sikre KI-en din ved å finne og rette Genai-sårbarheiter før angriparar gjer det.
+m24-home-0din-desc = Sikre KI-en din ved å finne og rette Genai-sårbarheiter før angriparane gjer det.
 m24-home-tabstack = { -brand-name-tabstack }
 # API stands for "Application Programming Interface"
 m24-home-tabstack-desc = Automatiser nettoppgåver på ein påliteleg måte med eit enkelt utviklarfokusert API.
