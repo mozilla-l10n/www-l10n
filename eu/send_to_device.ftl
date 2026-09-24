@@ -7,6 +7,8 @@ send-to-device-your-download-link = Deskargatzeko lotura bidali zaizu.
 send-to-device-please-enter-an-email = Sartu helbide elektroniko bat.
 send-to-device-an-error-occured = Errore bat gertatu da gure sisteman. Saiatu berriz geroago.
 send-to-device-enter-your-email = Sartu zure emaila
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = izena@adibidea.eus
 send-to-device-send = Bidali
 send-to-device-intended-recipient-email = Mezu elektronikoaren hartzaileak bere onespena eman behar du.
 send-to-device-check-your-device-email = Begiratu ea zure gailura mezurik iritsi den!

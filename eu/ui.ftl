@@ -14,6 +14,8 @@ ui-watch-the-video = Ikusi bideoa
 ui-replay = Berriro erreproduzitu
 ui-share = Partekatu
 ui-menu = Menua
+# Short for Table of Contents
+ui-contents = Edukiak
 ui-please-turn-on-javascript = Gaitu JavaScript orria behar bezala bistaratzeko.
 ui-show-more = Ikusi gehiago
 ui-show-less = Ikusi gutxiago
@@ -21,3 +23,7 @@ ui-show-all = Erakutsi dena
 ui-hide-all = Ezkutatu dena
 ui-learn-more = Argibide gehiago
 ui-view = Ikusi
+ui-pause-animation = Pausatu animazioa
+ui-play-animation = Erreproduzitu animazioa
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = Sustapena
