@@ -34,9 +34,19 @@ firefox-all-64-bit-installers = 64 biteko instalatzaileak
 firefox-all-choose-a-64-bit-installer = Aukeratu 64 biteko instalatzaile bat 64 biteko prozesagailudun ordenagailuetarako, programei RAM gehiago erabiltzea baimentzen baitie — hau bereziki garrantzitsua da jokoetarako eta memoria asko behar duten bestelako aplikazioetarako.
 firefox-all-32-bit-installers = 32 biteko instalatzaileak
 firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Aukera honek { -brand-name-firefox } produktuaren orria irekiko du Microsoft Store web atarian. Windows 10 edo Windows 11 badarabilzu, orri honetatik Microsoft Store ireki eta { -brand-name-firefox } instalatzeko aukera izango duzu. Microsoft Store-tik instalatzen baduzu, { -brand-name-firefox } eguneraketak Microsoft Store bidez kudeatuko dira baita ere. Microsoft Store-tik instalatzean, desberdintasun ñimiñoak daude { -brand-name-firefox }en portaera eta gaitasunetan, baina erabiltzaileen gehiengoarentzat desberdintasun hauek ez dira nabarmenak.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Deskargatu { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = ESR { $esr_next_major } eta { $esr_current_major } bertsio nagusien arteko trantsizio-aroan gaude.
+firefox-all-esr-when-there-is = Bertsio nagusi berri baterako eguneraketa prest dagoenean, hainbat { -brand-name-firefox-esr } puntu-bertsioen arteko gainjartzea dago beti, horrela bertsio zaharra darabilen jendeak bertsio berrira aldatzeko prestatzeko aukera du.
+firefox-all-esr-if-you-choose = ESR bertsio zaharrago bat deskargatzea aukeratzen baduzu, trantsizio-aroa amaitzen denean automatikoki eguneratuko zara ESR bertsio berrira.
+# Variables:
+#   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
+firefox-all-esr-read-more = Irakurri gehiago <a { $attrs }>{ -brand-name-firefox-esr } kaleratze-ziklo</a>en inguruan.
 firefox-all-check-the-system-requirements = Egiaztatu sistemaren eskakizunak
 firefox-all-release-notes = Bertsio-oharrak
 firefox-all-source-code = Iturburu-kodea
