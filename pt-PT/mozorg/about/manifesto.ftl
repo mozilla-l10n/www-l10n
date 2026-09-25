@@ -65,7 +65,7 @@ manifesto-written-in-2007 = O Manifesto da { -brand-name-mozilla }, redigido em 
 manifesto-mozillas-pledge = Promessa da { -brand-name-mozilla }
 manifesto-across-the-mozilla-project = Em todo o Projeto { -brand-name-mozilla } e em cada organização da família { -brand-name-mozilla }, comprometemo-nos a promover os princípios do Manifesto { -brand-name-mozilla } nas suas atividades. Em concreto, iremos:
 manifesto-we-need-you = Precisamos de Si para Promover o Manifesto
-manifesto-an-internet-with-these-v2 = Uma internet com estas qualidades não ganhará vida por si própria. As pessoas e organizações devem embutir estas aspirações na tecnologia da internet e na experiência humana da internet. O Manifesto de { -brand-name-mozilla } e o Adendo representam o compromisso de { -brand-name-mozilla } para avançar estas aspirações. A { -brand-name-mozilla } trabalha com pessoas e organizações em todo o lado que pretendem fazer a Internet melhor ainda para todos.
+manifesto-an-internet-with-these-v2 = Uma internet com estas qualidades não ganhará vida por si própria. As pessoas e organizações devem embutir estas aspirações na tecnologia da internet e na experiência humana da internet. O Manifesto da { -brand-name-mozilla } e a Adenda representam o compromisso da { -brand-name-mozilla } para avançar estas aspirações. A { -brand-name-mozilla } trabalha com pessoas e organizações em todo o lado que pretendem fazer da Internet um sítio ainda melhor para todos.
 manifesto-our-commitments = Os Nossos Compromissos
 manifesto-commitment-1 = Compromisso 1
 manifesto-commitment-2 = Compromisso 2
@@ -77,23 +77,23 @@ manifesto-if-you-share-this-goal-v2 = Se partilha deste objetivo, diga-nos como 
 manifesto-we-create-open = Criamos <a { $github_link }>software de código aberto</a> que pode usar para construir.
 # Variables:
 #   $mofo_link (url) - link to https://www.mozillafoundation.org/
-manifesto-we-fund-fellows = Nós <a { $mofo_link }>financiamos bolseiros e incubamos projetos</a> focados em criar um futuro melhor na Internet.
+manifesto-we-fund-fellows = Nós <a { $mofo_link }>financiamos bolseiros e incubamos projetos</a> focados em criar um futuro melhor online.
 # Variables:
 #   $mozai_link (url) - link to https://www.mozilla.ai
-manifesto-we-build-open-source = Nós <a { $mozai_link }>construimos ferramentas de IA de código aberto</a> que dão aos programadores uma escolha — e os ajudamos a guardar dinheiro.
+manifesto-we-build-open-source = Nós <a { $mozai_link }>construimos ferramentas de IA de código aberto</a> que dão aos programadores uma escolha — e ajudam-os a poupar dinheiro.
 # Variables:
 #   $mozvc_link (url) - link to https://mozilla.vc
 manifesto-we-invest-in = Nós <a { $mozvc_link }>investimos em start-ups tecnológicas responsáveis</a>.
 # Variables:
 #   $mdc_link (url) - link to https://mozilladatacollective.com/
-manifesto-we-run-a-global = Nós <a { $mdc_link }>gerimos uma comunidade global</a> para uma troca de dados limpa.
+manifesto-we-run-a-global = Nós <a { $mdc_link }>gerimos uma comunidade global</a> para uma troca de dados justa.
 # Variables:
 #   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
-manifesto-we-host-a-yearly = Nós <a { $festival_link }>organizamos todos os anos uma reunião global</a> para pessoas que constroem tudo para promover o Manifesto.
+manifesto-we-host-a-yearly = Nós <a { $festival_link }>organizamos anualmente uma reunião global</a> para pessoas que constroem tudo e alguma coisa para promover o Manifesto.
 # Variables:
 #   $firefox_link (url) - link to https://www.firefox.com/
 #   $thunderbird_link (url) - link to https://www.thunderbird.net/
-manifesto-we-make-firefox-and-thunderbird = E, é claro, fazemos <a { $firefox_link }>{ -brand-name-firefox }</a> e <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Tudo isto tem como objetivo ajudar as pessoas a tornar a Internet num lugar saudável.
+manifesto-we-make-firefox-and-thunderbird = E, é claro, fazemos o <a { $firefox_link }>{ -brand-name-firefox }</a> e o <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Tudo isto tem como alvo ajudar as pessoas a fazer da Internet um lugar saudável.
 
 ## Obsolete strings (expire 2026-09-10)
 
@@ -108,12 +108,12 @@ manifesto-details-free-and-open = O software livre e de código aberto promove o
 manifesto-details-commercial-involvement = O envolvimento comercial no desenvolvimento da Internet trás muitos benefícios; um balanceamento entre lucro comercial e benefício público é fundamental.
 manifesto-details-magnifying-the = Destacar os aspetos benéficos públicos da Internet é um objetivo importante, que merece tempo, atenção e empenho.
 manifesto-details-there-are-many = Existem muitas formas diferentes de promover os princípios do Manifesto da { -brand-name-mozilla }. Nós acolhemos uma grande variedade de atividades e antecipamos a mesma criatividade que os participantes da { -brand-name-mozilla } mostraram em outras áreas do projeto. Para indivíduos que não estejam profundamente envolvidos no projeto da { -brand-name-mozilla }, uma forma básica e muito eficiente de suportar o Manifesto é utilizar o { -brand-name-mozilla } { -brand-name-firefox } e outros produtos que incorporam os princípios do Manifesto.
-manifesto-details-some-foundation-v2 = Algumas atividades da Fundação — atualmente a criação, entrega e promoção de produtos de consumo — são efetuadas, acima de tudo, através da subsidiária integralmente detida pela { -brand-name-mozilla-foundation }, a { -brand-name-mozilla-corporation }.
+manifesto-details-some-foundation-v2 = Algumas atividades da Fundação — atualmente a criação, entrega e promoção de produtos de consumo — são efetuadas sobretudo através da subsidiária integralmente detida pela { -brand-name-mozilla-foundation }, a { -brand-name-mozilla-corporation }.
 manifesto-details-invitation = Convite
-manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } convida todos os que suportam os princípios do Manifesto de { -brand-name-mozilla }, a se juntarem a nós e a encontrar novas formas de tornar esta visão da Internet, uma realidade.
+manifesto-details-the-mozilla-foundation-invites-v2 = A { -brand-name-mozilla-foundation } convida todos os que apoiam os princípios do Manifesto da { -brand-name-mozilla } a juntarem-se a nós, e a encontrar novas formas de tornar esta visão da Internet, uma realidade.
 manifesto-share-on-bluesky = Partilhar no Bluesky
 manifesto-our-10-principles = Os <strong>nossos 10</strong> princípios
 manifesto-the-mozilla-manifesto-addendum = O Adendo do Manifesto da { -brand-name-mozilla }
 manifesto-show-your-support = Mostre o seu apoio
-manifesto-i-support-the-vision-of-v2 = Eu apoio a visão da { -brand-name-mozilla } para uma internet melhor e mais saudável. Você vai juntar-se a mim?
+manifesto-i-support-the-vision-of-v2 = Eu apoio a visão da { -brand-name-mozilla } para uma internet melhor e mais saudável, vai juntar-se a mim?
 manifesto-read-the-entire-manifesto = Ler o manifesto completo
