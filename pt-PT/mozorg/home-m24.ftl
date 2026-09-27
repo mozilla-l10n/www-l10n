@@ -72,11 +72,11 @@ m24-home-do-we-need-a = Precisamos de uma “LMP Stack” para a era da IA? Prec
 m24-home-watch-now = Ver agora
 m24-home-choice-first-stack = Escolha First Stack
 m24-home-your-tools-your = As suas ferramentas, a sua escolha. Uma stack unificada de código aberto que simplifica a construção e teste de agentes e aplicações modernas de IA.
-m24-home-get-started-now = Começar agora
+m24-home-get-started-now = Comece agora
 # Used as an accessible text alternative for an image
-m24-home-alt-ventures = Altifalante no estágio com múltiplos logótipos de produtos.
+m24-home-alt-ventures = Altifalante no palco com múltiplos logótipos de produtos.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
-m24-home-got-an-earlystage = Tem uma inicialização em estágio inicial? Apresente a sua empresa à { -brand-name-mozilla-ventures } e obtenha financiamento para gerar mudanças positivas para o futuro da IA e da Internet.
+m24-home-got-an-earlystage = Tem uma startup em estado inicial? Apresente a sua empresa à { -brand-name-mozilla-ventures } e obtenha financiamento seguro para gerar mudanças positivas para o futuro da IA e da Internet.
 m24-home-mozilla-data-collective = { -brand-name-mozilla } dados recolhidos
 m24-home-mozilla-data-collective-is = O { -brand-name-mozilla } Data Coletivo está a construir o ecossistema de dados de IA com as comunidades no centro. Aceda a mais de 300 conjuntos de dados globais de alta qualidade, criados por e para a comunidade de uma forma transparente e Ética.
 m24-home-join-today = Junte-se hoje
