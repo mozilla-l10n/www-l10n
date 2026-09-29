@@ -28,7 +28,7 @@ m24-about-we-advocate-for = Defendemos a criação de melhores produtos, respons
 m24-about-research = Investigação
 m24-about-we-uncover-insights = Mostramos pontos de vista, fazemos campanhas para melhorar produtos e impulsionamos políticas que representam os seus interesses.
 m24-about-build = Construção
-m24-about-we-build-products-v2 = Construímos produtos que o colocam em controlo — como o { -brand-name-firefox } e mais.
+m24-about-we-build-products-v2 = Construímos produtos que o colocam em controlo — como o { -brand-name-firefox } e muito mais.
 m24-about-fund = Financiamento
 m24-about-we-fund-and = Nós financiamos e investimos nas pessoas e esforços para levar a tecnologia, a internet e a IA na direção certa.
 
