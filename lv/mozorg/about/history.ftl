@@ -45,7 +45,7 @@ history-it-did-this-by-continuing = Lai šos mērķus sasniegtu, fonds turpināj
 # Variables:
 #   $firefox1 (url) link to https://blog.mozilla.org/press/2004/11/mozilla-foundation-releases-the-highly-anticipated-mozilla-firefox-1-0-web-browser/
 #   $millions (url) link to https://blog.mozilla.org/press/2005/10/firefox-surpasses-100-million-downloads/
-history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> tika palaists 2004. gadā un bija īpaši veiksmīgs; mazāk nekā gada laikā, tas tika lejupielādēts <a href="{ $millions }">vairāk nekā 100 miljonu reizes</a>.
+history-firefox-10-was-released = <a href="{ $firefox1 }">{ -brand-name-firefox } 1.0</a> tika izlaists 2004. gadā un kļuva par lielu panākumu — mazāk nekā gada laikā tas tika lejupielādēts <a href="{ $millions }">vairāk nekā 100 miljonu reižu</a>.
 history-new-versions-of-firefox = Kopš tā laika { -brand-name-firefox } ir regulāri iznācis un turpinājis uzstādīt jaunus rekordus. { -brand-name-firefox } popularitāti palīdzēja atdot izvēli lietotājiem.
 # Variables:
 #   $innovation (url) link to https://blog.mozilla.org/press/2006/12/the-world-economic-forum-announces-technology-pioneers-2007-mozilla-selected/
