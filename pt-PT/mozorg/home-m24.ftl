@@ -83,7 +83,7 @@ m24-home-join-today = Adira hoje
 m24-home-a-double-bottom = Uma Linha de Fundo Dupla para a Tecnologia
 m24-home-mark-surman-discusses = Mark Surman discute como podemos construir um ecossistema de tecnologia com uma linha de fundo dupla — uma que valorize tanto a missão como o dinheiro.
 m24-home-agent-platform = Plataforma do Agente
-m24-home-stop-wiring-tools = Pare de ligar ferramentas e de vigiar automações fracas. Com a plataforma de agentes { -brand-name-mozilla-ai-v2 }, você descreve o seu objetivo, nós geramos agentes de IA adaptativos que funcionam com as suas ferramentas e processos.
+m24-home-stop-wiring-tools = Pare de interligar ferramentas e de tomar conta de automatizações frágeis. Com a Plataforma de Agentes da { -brand-name-mozilla-ai-v2 }, descreve o seu objetivo, e nós criamos agentes de IA adaptáveis que trabalham com as suas ferramentas e processos.
 
 ## Media Springboard
 
@@ -100,10 +100,10 @@ m24-home-topic-ai = Inteligência Artificial
 m24-home-topic-open-source-ai = IA de Código Aberto
 m24-home-topic-ps = Privacidade & Segurança
 m24-home-headline-you-ai-v2 = Você, a IA e a Internet – o que está realmente a acontecer?
-m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } dá as boas-vindas a href="https://www.mozilla.org/projects/rt-messaging/chatzilla/”.
-m24-home-tech-target = Alvo técnico
-m24-home-mozilla-ai-ceo = PC de { -brand-name-mozilla-ai-v2 } fala sobre as vantagens da IA de código aberto
-m24-home-introducing-thundermail-and-v2 = Apresentando { -brand-name-thundermail } e { -brand-name-thunderbird-pro }
+m24-home-mozilla-welcomes-raffi = A { -brand-name-mozilla } dá as boas-vindas a Raffi Krikorian como Chief Technology Officer
+m24-home-tech-target = Alvo Técnico
+m24-home-mozilla-ai-ceo = CEO da { -brand-name-mozilla-ai-v2 } fala sobre as vantagens da IA de código aberto
+m24-home-introducing-thundermail-and-v2 = Apresentamos o { -brand-name-thundermail } e o { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = O que vem a seguir em tecnologia é uma escolha. Escolha connosco.
 m24-home-a-good-moment = ‘Um bom momento para nós’: { -brand-name-firefox } cabeçalho em navegadores de IA e o que vem a seguir para a Internet
 m24-home-the-guardian = The Guardian
