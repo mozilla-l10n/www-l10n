@@ -18,7 +18,7 @@ vpn-windows-a-progress-bar = Uma barra de progresso será apresentada e o proces
 
 vpn-mac-download-page-title = Transferir a { -brand-name-mozilla-vpn } para { -brand-name-mac-short }
 vpn-mac-downloading-mozilla-vpn = A transferir a { -brand-name-mozilla-vpn } para { -brand-name-mac-short }…
-vpn-mac-go-to-your-downloads = Aceda à sua pasta de transferências e clique duas vezes no ficheiro .pKg
+vpn-mac-go-to-your-downloads = Aceda à sua pasta de transferências e clique duas vezes no ficheiro .pkg
 vpn-mac-follow-the-steps = Siga os passos descritos no instalador da { -brand-name-mozilla-vpn } para iniciar a aplicação
 
 ## Shared strings
@@ -29,14 +29,14 @@ vpn-download-not-in-country = Desculpe, a { -brand-name-mozilla-vpn } não está
 # Variables:
 #   $url (url) - link for either Windows or Mac download, depending on user platform
 #   $id (string) - unique ID for the anchor tag
-vpn-your-download-should-start = A sua transferência da { -brand-name-mozilla-vpn } deve iniciar automaticamente. Se não conseguir, <br> <a href="{ $url }" id="{ $id }">reinicie a transferência</a> ou volte ao modo de transferência para outro dispositivo.
+vpn-your-download-should-start = A sua transferência da { -brand-name-mozilla-vpn } deve iniciar-se automaticamente. Caso contrário, <br> <a href="{ $url }" id="{ $id }">reinicie a transferência</a>, ou volte para a transferência para outro dispositivo.
 vpn-open-the-file = 1. Abra o ficheiro
-vpn-launch-the-app = 2. Inicie a aplicação
+vpn-launch-the-app = 2. Abra a aplicação
 vpn-login-or-signup = 3. Inicie sessão ou registe-se
-vpn-enter-your-email = Introduza o seu endereço de email para iniciar sessão ou registe-se e começar
+vpn-enter-your-email = Introduza o seu endereço de e-mail para iniciar sessão ou registe-se para começar
 vpn-turn-on-vpn = 4. Ative a VPN
-vpn-install-firefox-extension = 5. Instale a extensão { -brand-name-firefox }
-vpn-pick-a-recommended = Escolha uma localização recomendada para uma ligação rápida e estável ou escolha manualmente a localização desejada e depois ative o seletor
+vpn-install-firefox-extension = 5. Instale a Extensão { -brand-name-firefox }
+vpn-pick-a-recommended = Escolha uma localização recomendada para uma ligação rápida e estável, ou escolha manualmente uma localização desejada, depois ative o seletor ATIVAR
 # Variables:
 #   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
 vpn-download-and-install = <a href="{ $extension }">Transfira e instale a extensão</a> para definir exclusões por site e escolher localizações diferentes para sites diferentes.
