@@ -123,13 +123,13 @@ m24-home-rise25-awards = Prémios { -brand-name-rise25 }
 m24-home-get-to-know = Conheça os líderes que defendem o desenvolvimento de uma IA confiável, inclusiva e transparente, à medida que definem um novo padrão e inspiram a próxima geração de inovadores.
 m24-home-watch-the-award = Veja a cerimónia de entrega de prémios
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-proud = Um homenageado orgulhoso na { -brand-name-rise25 }.
+m24-home-alt-rise25-proud = Um homenageado orgulhoso no { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-smiling = Uma orador(a) seguro(a) no { -brand-name-rise25 }.
+m24-home-alt-rise25-smiling = Um orador confiante e sorridente no { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
-m24-home-alt-rise25-joyous = Um feliz homenageado na { -brand-name-rise25 }.
+m24-home-alt-rise25-joyous = Um feliz homenageado no { -brand-name-rise25 }.
 m24-home-state-of-mozilla = Estado da { -brand-name-mozilla }
-m24-home-mozilla-is-reinventing-itself = A { -brand-name-mozilla } está a auto-reinventar-se, distribuindo em torno de uma consolação de organizações, reimaginando a publicidade e criando um ecossistema de IA de código aberto. Leia mais no relatório sobre o estado da { -brand-name-mozilla } de 2024.
+m24-home-mozilla-is-reinventing-itself = A { -brand-name-mozilla } está a reinventar-se, diversificando-se através de uma constelação de organizações, repensando a publicidade e criando um ecossistema de IA de código aberto. Saiba mais no Relatório sobre o Estado da { -brand-name-mozilla } de 2024.
 # Variables
 #   $year - year of report
 m24-home-mozilla-is-reinventing-itself-v3 = Estamos numa encriptação para o futuro da tecnologia, com as grandes empresas de IA a compactar o poder. O relatório { $year } Estado de { -brand-name-mozilla } é um convite para escolherem em conjunto um futuro diferente.
