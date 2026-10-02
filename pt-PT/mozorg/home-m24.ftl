@@ -142,14 +142,14 @@ m24-home-read-the-report = Ler o relatório
 ## Nothing Personal
 
 m24-home-mozilla-nothing-personal = Nada Pessoal
-m24-home-our-new-magazine = A nossa nova revista para pensadores, técnicos e criativos independentes na linha da frente da cultura digital.
-m24-home-read-now = Ler agora
+m24-home-our-new-magazine = A nossa nova revista para pensadores independentes, técnicos, e criativos na linha da frente da cultura digital.
+m24-home-read-now = Ler Agora
 
 ## Issues
 
-m24-home-explore-issues-shaping = Explorar questões que estão a moldar o futuro da Internet
-m24-home-the-validation-machines = As máquinas de validação
-m24-home-in-the-atlantic = No The Atlântico, o { -brand-name-mozilla } CTO href="https://www.mozilla.org/projects/rt-messaging/chatzilla/> { -brand-name-mozilla }" (imagem cortesia de The Atlântico)
+m24-home-explore-issues-shaping = Explorar questões que estão a moldar o futuro da internet
+m24-home-the-validation-machines = As Máquinas de Validação
+m24-home-in-the-atlantic = No The Atlantic, Raffi Krikorian, CTO da { -brand-name-mozilla } questiona por que razão os chatbots e a IA generativa estão tão empenhados em agradar-nos, e o que isso significa para a humanidade. (imagem cedida pelo The Atlantic)
 # Used as an accessible text alternative for an image
 m24-home-alt-validation = Uma pessoa em miniatura a olhar para uma tecla grande e um ecrã de computador hipnotizador
 # Used as an accessible text alternative for an image
