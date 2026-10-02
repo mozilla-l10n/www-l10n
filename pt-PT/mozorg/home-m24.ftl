@@ -105,17 +105,17 @@ m24-home-tech-target = Alvo Técnico
 m24-home-mozilla-ai-ceo = CEO da { -brand-name-mozilla-ai-v2 } fala sobre as vantagens da IA de código aberto
 m24-home-introducing-thundermail-and-v2 = Apresentamos o { -brand-name-thundermail } e o { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = O que vem a seguir em tecnologia é uma escolha. Escolha connosco.
-m24-home-a-good-moment = ‘Um bom momento para nós’: { -brand-name-firefox } cabeçalho em navegadores de IA e o que vem a seguir para a Internet
+m24-home-a-good-moment = ‘Estamos num bom momento’: o responsável pelo { -brand-name-firefox } fala sobre os navegadores com IA e o futuro da Web
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
-m24-home-mozillas-new-message = Nova mensagem do { -brand-name-mozilla }: Nós somos o único navegador não apoiado por multimédia
+m24-home-mozillas-new-message = A nova mensagem da { -brand-name-mozilla }: Nós somos o único navegador não apoiado por bilionários
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = The FT
-m24-home-rewiring-mozilla = Religação { -brand-name-mozilla }: A fazer pela IA o que fizemos para a Internet
-m24-home-interview-with-mark = Conversa com Mark Surman: Como o { -brand-name-mozilla } está a adaptar-se à era da IA
-m24-home-women-in-product = Mulheres na conversa de produto: Adicionar GenIA sem perder o argumento
-m24-home-scaling-open-source = Escalar a IA de código aberto: Mark Surman eTimBradshaw
+m24-home-rewiring-mozilla = Reestruturar a { -brand-name-mozilla }: Fazer pela IA o que fizemos pela Web
+m24-home-interview-with-mark = Entrevista a Mark Surman: Como a { -brand-name-mozilla } se está a adaptar à era da IA
+m24-home-women-in-product = Conversa Women In Product: Integrar a IA Generativa Sem Perder o Rumo
+m24-home-scaling-open-source = Escalar a IA de Código Aberto: Mark Surman & Tim Bradshaw
 
 ## Showcase
 
