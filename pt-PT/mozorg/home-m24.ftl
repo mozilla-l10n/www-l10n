@@ -153,7 +153,7 @@ m24-home-in-the-atlantic = No The Atlantic, Raffi Krikorian, CTO da { -brand-nam
 # Used as an accessible text alternative for an image
 m24-home-alt-validation = Uma pessoa em miniatura a olhar para uma tecla grande e um ecrã de computador hipnotizador
 # Used as an accessible text alternative for an image
-m24-home-alt-irl-host = Name
+m24-home-alt-irl-host = Bridget Todd, apresentadora do Podcast IRL.
 m24-home-irl-podcast = { -brand-name-irl-podcast }
 m24-home-our-multiaward-winning = O nosso podcast multi-premiado apresenta os inovadores que trabalham para tornar a Internet mais segura e a IA mais confiável.
 m24-home-irl-listen-now = Ouvir agora
