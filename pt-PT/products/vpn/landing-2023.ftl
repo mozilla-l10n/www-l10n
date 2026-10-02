@@ -28,8 +28,8 @@ vpn-landing-features = Funcionalidades
 #   $devices (number) - number of devices users can connect to VPN
 vpn-landing-connect-up-to-devices =
     { $devices ->
-        [one] Conecte até { $devices } dispositivos
-       *[other] Conecte até { $devices } dispositivos
+        [one] Ligue até { $devices } dispositivo
+       *[other] Ligue até { $devices } dispositivos
     }
 # Variables:
 #   $servers (number) - number of VPN servers

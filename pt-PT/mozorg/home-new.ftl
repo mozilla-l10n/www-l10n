@@ -7,23 +7,23 @@
 
 home-internet-for-people-not-profit = Internet para pessoas, não para lucro
 home-did-you-know-mozilla-the-maker = Sabia? A { -brand-name-mozilla } — criadora do { -brand-name-firefox } — luta para manter a Internet como um recurso público global, aberto e acessível a todos.
-home-mission-driven = Impulsionado pela missão. Suportado por pessoas.
+home-mission-driven = Guiados pela missão. Movidos pelas pessoas.
 home-were-not-normal = Nós não somos uma empresa de tecnologia normal. As coisas que nós criamos priorizam as pessoas e a sua privacidade em detrimento dos lucros. Nós existimos para tornar a Internet num lugar mais saudável e feliz para todos.
 # Quotes around string to represent it being a quote by Mitchell Baker
 home-the-health-of = “A saúde da Internet e da vida online é a razão de existirmos.”
-home-mitchell-baker-v2 = Mozilla Baker, ex-executivo do conselho de administração da { -brand-name-mozilla-foundation }
-home-mozilla-makes-privacy = A { -brand-name-mozilla } faz produtos que respeitam a privacidade
-home-product-firefox-browsing = Navegação privada e segura
+home-mitchell-baker-v2 = Mitchell Baker, Presidente Executiva do Conselho de Administração da { -brand-name-mozilla-foundation }
+home-mozilla-makes-privacy = A { -brand-name-mozilla } cria produtos que respeitam a privacidade
+home-product-firefox-browsing = Navegação privada & segura
 home-cta-get-firefox = Obter o { -brand-name-firefox }
-home-product-relay-hide-your = Oculte o seu número de telefone e o seu e-mail de spammers
+home-product-relay-hide-your = Esconda o seu número de telefone e o seu e-mail dos spammers
 home-cta-get-relay = Obter o { -brand-name-relay }
 home-product-vpn-trust = Uma VPN em que pode confiar
 home-cta-get-vpn = Obter a { -brand-name-mozilla-vpn }
 home-product-monitor-protect-your = Proteja as suas informações privadas de agentes de dados
 home-cta-get-monitor = Obter o { -brand-name-monitor }
-home-mozilla-takes-bets = “A { -brand-name-mozilla } está a aceitar escolhas para mostrar ao mundo que pode fazer negócios com uma IA confiável. Isto inclui colocar coisas como direitos humanos, proteção de dados e transparência no centro de como funcionam estes sistemas complexos.”
+home-mozilla-takes-bets = “A { -brand-name-mozilla } está a apostar em mostrar ao mundo que é possível criar um negócio com uma IA de confiança. Isso implica colocar coisas como os direitos humanos, a proteção de dados e a transparência no centro do funcionamento destes sistemas complexos.”
 # Politico is a brand name for a news organization
-home-politico-cite = Política
+home-politico-cite = Politico
 home-join-us-in-shaping = Junte-se a nós para moldar uma IA confiável
 home-work-on-ai = O trabalho da { -brand-name-mozilla } com IA não é apenas uma coisa nova — passou anos a financiar, construir e defender uma IA que é aberta, correta e desenvolvida com responsabilidade. O nosso foco está na criação de uma IA que ajude as pessoas, que dê prioridade à transparência e que apoie o bem público, e não em agendas corporativas.
 home-read-more = Ler mais
@@ -44,7 +44,7 @@ home-learn-more-about-mozilla = Saber mais sobre a { -brand-name-mozilla }
 # VPN Feature
 home-featured-product = Produto em destaque
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
-home-feature-blur-your-location = Desfoque a sua localização e atividade utilizando a <span>{ -brand-name-mozilla-vpn }</span>
+home-feature-blur-your-location = Dissimule a sua localização & atividade utilizando a <span>{ -brand-name-mozilla-vpn }</span>
 # Mozilla Foundation donation promo
 home-mofo-build-our-movement = Construir o nosso movimento
 home-mofo-donate-to-mofo-today = Faça uma doação hoje para a { -brand-name-mozilla-foundation } para garantir que a internet se mantém aberta e acessível para todos.
