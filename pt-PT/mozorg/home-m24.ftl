@@ -120,8 +120,8 @@ m24-home-scaling-open-source = Escalar a IA de Código Aberto: Mark Surman & Tim
 ## Showcase
 
 m24-home-rise25-awards = Prémios { -brand-name-rise25 }
-m24-home-get-to-know = Conheça os líderes que defendem o desenvolvimento de uma IA confiável, inclusão e transparente, à medida que definem um novo padrão e inspiram a próxima geração de inovadores.
-m24-home-watch-the-award = Veja a apresentação da distinção
+m24-home-get-to-know = Conheça os líderes que defendem o desenvolvimento de uma IA confiável, inclusiva e transparente, à medida que definem um novo padrão e inspiram a próxima geração de inovadores.
+m24-home-watch-the-award = Veja a cerimónia de entrega de prémios
 # Used as an accessible text alternative for an image
 m24-home-alt-rise25-proud = Um homenageado orgulhoso na { -brand-name-rise25 }.
 # Used as an accessible text alternative for an image
