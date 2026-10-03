@@ -81,6 +81,10 @@
 
 -brand-name-pocket = Pocket
 
+## Fakespot
+
+-brand-name-fakespot = Fakespot
+
 ## Anonym
 
 -brand-name-anonym = Anonym
