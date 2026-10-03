@@ -15,3 +15,6 @@ not-found-page-learn-about-mozilla-the-non = <a href="{ $about }">Uzzini</a> par
 # Variables:
 #   $download (url) - link to https://www.mozilla.org/firefox/new/
 not-found-page-download-the-firefox-browser = <a href={ $download }>Lejupielādē</a> { -brand-name-firefox } pārlūku savai viedierīcei vai datoram
+# Variables:
+#   $donate (url) - link to https://www.mozillafoundation.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from-v2 = <a { $donate }>Ziedo</a> { -brand-name-mozilla-foundation } un atgūsti internetu no lielajiem tehnoloģiju uzņēmumiem!
