@@ -77,6 +77,9 @@ manifesto-we-invest-in = Nós <a { $mozvc_link }>investimos em startups de tecno
 # Variables:
 #   $mdc_link (url) - link to https://mozilladatacollective.com/
 manifesto-we-run-a-global = <a { $mdc_link }>Gerenciamos uma comunidade global</a> de intercâmbio justo de dados.
+# Variables:
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+manifesto-we-host-a-yearly = <a { $festival_link }>Sediamos um encontro global anual</a> para pessoas que constroem qualquer coisa que promova o Manifesto.
 
 ## Obsolete strings (expire 2026-09-10)
 
