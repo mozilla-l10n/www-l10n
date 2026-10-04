@@ -12,6 +12,10 @@ firefox-all-choose-platform = Jāizvēlas platforma, lai turpinātu
 firefox-all-choose-language = Jāizvēlas valoda, lai turpinātu
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Saņemt palīdzību
+firefox-all-browser-v2 = 1. Pārlūks:
+firefox-all-platform-v2 = 2. Platforma:
+firefox-all-language-v2 = 3. Valoda:
+firefox-all-download = 4. Lejupielāde:
 firefox-all-lang-multi = Vairākas valodas
 firefox-all-sorry-we-couldnt-find = Atvainojamies, mēs nevarējām atrast meklēto lejupielādi. Lūgums mēģināt vēlreiz vai atlasīt lejupielādi no zemāk esošā saraksta.
 firefox-all-64-bit-installers = 64 bitu uzstādītājs
