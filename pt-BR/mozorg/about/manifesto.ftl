@@ -68,6 +68,15 @@ manifesto-if-you-share-this-goal-v2 = Se você compartilha este objetivo, diga-n
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla
 manifesto-we-create-open = Criamos <a { $github_link }>software de código aberto</a> que você pode usar para realizar seus projetos.
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = Nós <a { $mozai_link }>desenvolvemos ferramentas de inteligência artificial de código aberto</a> que oferecem mais opções aos desenvolvedores e os ajudam a economizar.
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = Nós <a { $mozvc_link }>investimos em startups de tecnologia responsáveis</a>.
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = <a { $mdc_link }>Gerenciamos uma comunidade global</a> de intercâmbio justo de dados.
 
 ## Obsolete strings (expire 2026-09-10)
 
