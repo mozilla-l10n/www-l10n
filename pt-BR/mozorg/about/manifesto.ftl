@@ -64,6 +64,10 @@ manifesto-commitment-1 = Compromisso 1
 manifesto-commitment-2 = Compromisso 2
 manifesto-commitment-3 = Compromisso 3
 manifesto-commitment-4 = Compromisso 4
+manifesto-if-you-share-this-goal-v2 = Se você compartilha este objetivo, diga-nos como podemos ajudar.
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+manifesto-we-create-open = Criamos <a { $github_link }>software de código aberto</a> que você pode usar para realizar seus projetos.
 
 ## Obsolete strings (expire 2026-09-10)
 
