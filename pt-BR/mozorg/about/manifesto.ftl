@@ -57,6 +57,13 @@ manifesto-details-build-and-deliver = Construir e disponibilizar ótimos produto
 manifesto-details-use-the-mozilla = Usar os ativos da { -brand-name-mozilla } (propriedade intelectual como direitos autorais e marcas registradas, infraestrutura, recursos financeiros e reputação) para manter a internet uma plataforma aberta.
 manifesto-details-promote-models = Promover modelos para criação de valor econômico para o benefício público.
 manifesto-details-promote-the-mozilla = Promover os princípios do Manifesto { -brand-name-mozilla } em discurso público e dentro da indústria da internet.
+manifesto-mozillas-pledge = Compromisso da { -brand-name-mozilla }
+manifesto-we-need-you = Precisamos de você para promover o Manifesto
+manifesto-our-commitments = Nossos compromissos
+manifesto-commitment-1 = Compromisso 1
+manifesto-commitment-2 = Compromisso 2
+manifesto-commitment-3 = Compromisso 3
+manifesto-commitment-4 = Compromisso 4
 
 ## Obsolete strings (expire 2026-09-10)
 

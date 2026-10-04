@@ -25,6 +25,12 @@ m24-about-read-our-manifesto = Leia nosso manifesto
 m24-about-a-group-of = Um grupo de pensadores sentados em círculo no chão trocando ideias.
 m24-about-advocate = Ativismo
 m24-about-we-advocate-for = Pleiteamos produtos melhores, responsabilizando governos e corporações de tecnologia pelo que criam.
+m24-about-research = Pesquisa
+m24-about-we-uncover-insights = Revelamos ideias, promovemos campanhas para aprimorar produtos e impulsionamos políticas que representem seus interesses.
+m24-about-build = Produção
+m24-about-we-build-products-v2 = Criamos produtos que colocam você no controle, como o { -brand-name-firefox } e muito mais.
+m24-about-fund = Financiamento
+m24-about-we-fund-and = Financiamos e investimos em pessoas e iniciativas que conduzem tecnologia, internet e inteligência artificial na direção certa.
 
 ## News
 
