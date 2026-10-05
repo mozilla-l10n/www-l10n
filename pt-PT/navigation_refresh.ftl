@@ -18,12 +18,12 @@ navigation-refresh-get-involved = Participar
 navigation-refresh-get-involved-v2 = Envolva-se
 navigation-refresh-blog = Blogue
 navigation-refresh-our-mission = A Nossa Missão
-navigation-refresh-our-work = O nosso trabalho
+navigation-refresh-our-work = O Nosso Trabalho
 navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
-navigation-refresh-mozilla-advertising = Publicidade da { -brand-name-mozilla }
-navigation-refresh-mozilla-new-products = Novos produtos da { -brand-name-mozilla }
+navigation-refresh-mozilla-advertising = Soluções Publicitárias da { -brand-name-mozilla }
+navigation-refresh-mozilla-new-products = Novos Produtos da { -brand-name-mozilla }
 
 ## Firefox
 
