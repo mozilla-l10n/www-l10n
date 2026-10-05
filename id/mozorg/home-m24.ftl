@@ -144,7 +144,7 @@ m24-home-read-the-report = Baca laporannya
 
 ## Nothing Personal
 
-m24-home-mozilla-nothing-personal = Bukan Hal Pribadi
+m24-home-mozilla-nothing-personal = Nothing Personal
 m24-home-our-new-magazine = Majalah baru kami untuk para pemikir independen, teknolog, dan kreator yang berada di garis depan budaya digital.
 m24-home-read-now = Baca Sekarang
 
