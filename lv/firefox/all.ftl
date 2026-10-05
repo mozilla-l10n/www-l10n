@@ -16,11 +16,18 @@ firefox-all-browser-v2 = 1. Pārlūks:
 firefox-all-platform-v2 = 2. Platforma:
 firefox-all-language-v2 = 3. Valoda:
 firefox-all-download = 4. Lejupielāde:
+firefox-all-desktop = Darbvirsma
+firefox-all-mobile = Tālrunis
+firefox-all-recommended = (ieteicams)
 firefox-all-lang-multi = Vairākas valodas
+firefox-all-plat-mobile = Android un iOS
 firefox-all-sorry-we-couldnt-find = Atvainojamies, mēs nevarējām atrast meklēto lejupielādi. Lūgums mēģināt vēlreiz vai atlasīt lejupielādi no zemāk esošā saraksta.
 firefox-all-64-bit-installers = 64 bitu uzstādītājs
 firefox-all-choose-a-64-bit-installer = 64 bitu uzstādītājs jāizvēlas datoriem, kuriem ir 64 bitu procesors, kas ļauj iedalīt vairāk atmiņas atsevišķām programmām — jo īpaši būtiski spēlēm un citām prasīgām lietotnēm.
 firefox-all-32-bit-installers = 32 bitu uzstādītājs
+# Variables:
+#   $esr_version (string) e.g. 115.13.0esr
+firefox-all-download-esr-version = Lejupielādēt { $esr_version }
 firefox-all-check-the-system-requirements = Pārbaudīt sistēmas prasības
 firefox-all-release-notes = Laidiena piezīmes
 firefox-all-source-code = Pirmkods
