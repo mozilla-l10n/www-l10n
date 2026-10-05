@@ -144,7 +144,7 @@ m24-home-read-the-report = Lire le rapport
 
 ## Nothing Personal
 
-m24-home-mozilla-nothing-personal = Rien de personnel
+m24-home-mozilla-nothing-personal = Nothing Personal
 m24-home-our-new-magazine = Notre nouveau magazine destiné aux penseurs, aux technologues et aux créateurs indépendants qui sont à l’avant-poste de la culture numérique.
 m24-home-read-now = Lire
 
