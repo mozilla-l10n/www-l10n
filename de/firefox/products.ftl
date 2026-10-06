@@ -15,6 +15,10 @@ firefox-products-firefox-beginning-v2 = { -brand-name-firefox } ist nur der Anfa
 
 firefox-products-mozillas-family-of-products-sentence = Mit Produkten aus der { -brand-name-mozilla }-Familie bist du sicherer und smarter im Web unterwegs.
 
+## Section headings
+
+
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -55,12 +59,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Greife über eine schnelle App auf alle deine E-Mails, Kalender und Kontakte zu. Filtere und organisiere sie, wie du willst.
 firefox-products-download-thunderbird = { -brand-name-thunderbird } herunterladen
 
-## Solo
-
-firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = Erstelle im Handumdrehen eine schöne Website, damit dein Unternehmen wachsen kann. Verbinde und hoste deine benutzerdefinierte Domain kostenlos.
-firefox-products-learn-more-about-solo = Weitere Informationen zu { -brand-name-solo }
-
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
@@ -74,4 +72,10 @@ firefox-products-tabstack-desc = Verbinde deine Apps durch verlässliche Automat
 firefox-products-learn-more-about-tabstack = Weitere Informationen zu { -brand-name-tabstack }
 
 ## Otari
+
+
+## Mozilla Ads
+
+
+## Firefox for Enterprise
 
