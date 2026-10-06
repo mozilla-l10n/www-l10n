@@ -46,3 +46,6 @@ firefox-products-learn-more-about-mozilla-ads = מידע נוסף על { -brand-
 ## Firefox for Enterprise
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = לפרוס, לנהל ולאבטח את { -brand-name-firefox } ברחבי הארגון שלך בעזרת בקרות מדיניות מתקדמות.
+firefox-products-manage-your-fleet = הטעמת { -brand-name-firefox }
+firefox-products-learn-more-about-firefox-enterprise = מידע נוסף על { -brand-name-firefox-enterprise }
