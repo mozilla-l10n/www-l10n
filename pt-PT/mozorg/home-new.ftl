@@ -25,7 +25,7 @@ home-mozilla-takes-bets = “A { -brand-name-mozilla } está a apostar em mostra
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = Junte-se a nós para moldar uma IA confiável
-home-work-on-ai = O trabalho da { -brand-name-mozilla } com IA não é apenas uma coisa nova — passou anos a financiar, construir e defender uma IA que é aberta, correta e desenvolvida com responsabilidade. O nosso foco está na criação de uma IA que ajude as pessoas, que dê prioridade à transparência e que apoie o bem público, e não em agendas corporativas.
+home-work-on-ai = O trabalho da { -brand-name-mozilla } no domínio da IA não é algo novo — há anos que financiamos, desenvolvemos e defendemos uma IA aberta, justa e desenvolvida de forma responsável. O nosso foco é criar uma IA que sirva as pessoas, dê prioridade à transparência e promova o bem público, e não os interesses das empresas.
 home-read-more = Ler mais
 home-so-what-is-mozilla = Então, o que é a { -brand-name-mozilla }?
 # Variables
