@@ -9,7 +9,7 @@ mission-were-building-a-better-internet = ما در حال ساختن یک ای�
 mission-our-mission-is-to-ensure-the-internet = ماموریت ما این است که مطمئن شویم اینترنت یک منبع عمومیِ جهانی، باز و در دسترس برای همه است. یک اینترنت که به درستی، مردم را در ارجحیت قرار می‌دهد، جایی که افراد می‌توانند تجربه خود را شکل دهند و قدرتمند، امن و مستقل بمانند.
 # Only shown if mission-our-mission-is-to-ensure-the-internet is not translated
 mission-our-mission-is-to-promote-openness = ماموریت ما ترویج آزادی، نوآوری و فرصت‌ها در وب است
-mission-at-mozilla-were-a-global-community-v2 = ما در { -brand-name-mozilla } جامعه‌ای جهانی از فناوران، اندیشمندان و سازندگانیم که با هم تلاش می‌کنیم اینترنت زنده و در دسترس بماند تا مردم در سراسر جهان بتوانند مشارکت‌کنندگان و آفرینندگانی آگاه در وب باشند.
+mission-at-mozilla-were-a-global-community-v2 = ما در { -brand-name-mozilla } اجتماع‌ای جهانی از فناوران، اندیشمندان و سازندگانیم که با هم تلاش می‌کنیم اینترنت زنده و در دسترس بماند تا مردم در سراسر جهان بتوانند مشارکت‌کنندگان و آفرینندگانی آگاه در وب باشند.
 mission-we-believe-this-act-of-human-collaboration = ما معتقدیم این مشارکت انسانی در یک چهارچوب باز، برای پیشرفت شخصی و آینده‌ی جمعی ما حیاتی است.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
@@ -22,4 +22,4 @@ mission-where-we-come-from-and-how-we-got = از کجا آمده‌ایم چگو
 mission-forums = انجمن‌ها
 mission-topics-include-support-products = مباحثی مثل پشتیبانی، محصولات و تکنولوژی‌ها
 mission-governance = اداره امور
-mission-our-structure-organization-and-the-v2 = ساختار، سازمان و جامعهٔ گسترده‌تر { -brand-name-mozilla }
+mission-our-structure-organization-and-the-v2 = ساختار، سازمان و اجتماع گسترده‌تر { -brand-name-mozilla }

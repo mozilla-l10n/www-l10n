@@ -31,9 +31,9 @@ manifesto-details-the-internet-is-becoming = اینترنت به طور فزای
 manifesto-details-the-mozilla-project-global-v2 = پروژهٔ { -brand-name-mozilla } اجتماع‌ای جهانی از افرادی است که باور دارند گشودگی، نوآوری و فرصت، کلید سلامت پایدار اینترنت‌اند. از سال ۱۹۹۸ با هم کار کرده‌ایم تا مطمئن شویم اینترنت به‌گونه‌ای توسعه می‌یابد که به سود همه باشد. بیشتر از همه به خاطر ساختن مرورگر وب { -brand-name-mozilla } { -brand-name-firefox } شناخته می‌شویم.
 # Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = پروژه { -brand-name-mozilla } اجتماعی جهانی از مردمی است که اعتقاد دارند باز بودن، نوآوری و داشتن فرصت، برای تداوم سلامت اینترنت کلیدی هستند. ما برای اطمینان از اینکه اینترنت در راهی توسعه پیدا کند تا منافع همه را تامین کند، از سال ۱۹۹۸ با هم کار کردیم. ما را بیشتر برای ساختن مرورگر وب { -brand-name-mozilla } { -brand-name-firefox } می‌شناسند.
-manifesto-details-the-mozilla-project-community-v2 = پروژهٔ { -brand-name-mozilla } با رویکردی جامعه‌محور، نرم‌افزارهای متن‌باز در سطح جهانی می‌سازد و انواع تازه‌ای از فعالیت‌های مشارکتی را توسعه می‌دهد. ما جوامعی از افراد می‌سازیم که برای بهتر کردن تجربهٔ اینترنت برای همهٔ ما تلاش می‌کنند.
+manifesto-details-the-mozilla-project-community-v2 = پروژهٔ { -brand-name-mozilla } با رویکردی اجتماع‌محور، نرم‌افزارهای متن‌باز در سطح جهانی می‌سازد و انواع تازه‌ای از فعالیت‌های مشارکتی را توسعه می‌دهد. ما جوامعی از افراد می‌سازیم که برای بهتر کردن تجربهٔ اینترنت برای همهٔ ما تلاش می‌کنند.
 # Obsolete string (expires 2026-09-20)
-manifesto-details-the-mozilla-project-community = پروژه { -brand-name-mozilla } از یک رویکرد جامعه محور برای ساختن نرم‌افزار‌های منبع‌باز در کلاسِ جهانی و توسعهٔ گونه‌های جدیدی از فعالیت‌های مشترک استفاده می‌کند. ما جوامعی مردمی می‌سازیم که در ساخت تجربهٔ بهتر از اینترنت برای همه ما فعال هستند.
+manifesto-details-the-mozilla-project-community = پروژه { -brand-name-mozilla } از یک رویکرد اجتماع‌محور برای ساختن نرم‌افزار‌های منبع‌باز در کلاسِ جهانی و توسعهٔ گونه‌های جدیدی از فعالیت‌های مشترک استفاده می‌کند. ما جوامعی مردمی می‌سازیم که در ساخت تجربهٔ بهتر از اینترنت برای همه ما فعال هستند.
 manifesto-details-as-a-result-of = در نتیجه این تلاش‌ها، ما چکیده‌ای از اصولی که باور داریم برای ادامهٔ منفعت عمومی و همچنین جنبه تجاری زندگی حیاتی هستند را تهیه کرده‌ایم. این اصول در پایین آورده شده‌اند.
 manifesto-details-the-goals-for = اهداف مرامنامه برای این هستند که:
 manifesto-details-articulate-a-vision-v2 = چشم‌اندازی برای اینترنت ترسیم کنیم که مشارکت‌کنندگان { -brand-name-mozilla } می‌خواهند { -brand-name-mozilla-foundation } دنبال کند؛
@@ -52,7 +52,7 @@ manifesto-principle-7 = اصل ۷
 manifesto-principle-8 = اصل ۸
 manifesto-principle-9 = اصل ۹
 manifesto-principle-10 = اصل ۱۰
-manifesto-details-transparent-community = فرآیندهای شفاف و مبتنی بر جامعه، مشارکت، پاسخگویی و اعتماد را ترویج می‌کنند.
+manifesto-details-transparent-community = فرآیندهای شفاف و مبتنی بر اجتماع، مشارکت، پاسخگویی و اعتماد را ترویج می‌کنند.
 manifesto-details-advancing-the = پیش‌برد مرامنامه { -brand-name-mozilla }
 manifesto-details-mozilla-foundation = تعهد { -brand-name-mozilla-foundation }
 manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation } متعهد می‌شود در فعالیت‌هایش از مانیفست { -brand-name-mozilla } پشتیبانی کند. به‌طور مشخص، ما:
@@ -61,7 +61,7 @@ manifesto-details-build-and-deliver = ایجاد و عرضه محصولات مص
 manifesto-details-use-the-mozilla = استفاده از دارایی‌های { -brand-name-mozilla } (دارایی‌های معنوی مانند کپی‌رایت‌ها و علایم تجاری، زیرساخت‌ها، منابع مالی و شهرت) برای نگاه داشتن اینترنت به عنوان یک پلتفرم باز؛
 manifesto-details-promote-models = ترویج مدل‌هایی برای ساختن ارزش‌های اقتصادی در جهت منفعت عمومی؛ و
 manifesto-details-promote-the-mozilla = مروج اصول مرامنامه‌ی { -brand-name-mozilla } در گفتمان عمومی و درون صنعت اینترنت باشید.
-manifesto-written-in-2007 = مانیفست { -brand-name-mozilla } که در سال ۲۰۰۷ نوشته شد، اصول بنیادین ما را بیان می‌کند. «تعهد برای اینترنتی سالم» در سال ۲۰۱۷ به‌عنوان پیوست مانیفست نوشته شد تا تعهد عمیق ما را به اینکه اینترنت در خدمت نیازهای انسان‌ها و کل بشریت باشد بازتاب دهد. این دو سند با هم راهنمای همهٔ کارهای { -brand-name-mozilla } هستند؛ آنچه می‌سازیم، آنچه از آن حمایت مالی می‌کنیم و اینکه چطور به‌عنوان یک جامعه با هم کار می‌کنیم.
+manifesto-written-in-2007 = مرام‌نامه { -brand-name-mozilla } که در سال ۲۰۰۷ نوشته شد، اصول بنیادین ما را بیان می‌کند. «تعهد برای اینترنتی سالم» در سال ۲۰۱۷ به‌عنوان پیوست مرام‌نامه نوشته شد تا تعهد عمیق ما را به اینکه اینترنت در خدمت نیازهای انسان‌ها و کل بشریت باشد بازتاب دهد. این دو سند با هم راهنمای همهٔ کارهای { -brand-name-mozilla } هستند؛ آنچه می‌سازیم، آنچه از آن حمایت مالی می‌کنیم و اینکه چطور به‌عنوان یک اجتماع با هم کار می‌کنیم.
 manifesto-mozillas-pledge = تعهد { -brand-name-mozilla }
 manifesto-across-the-mozilla-project = ما در سراسر پروژهٔ { -brand-name-mozilla } و همهٔ سازمان‌های خانوادهٔ { -brand-name-mozilla } متعهد می‌شویم در فعالیت‌هایمان از مانیفست { -brand-name-mozilla } پشتیبانی کنیم. به‌طور مشخص، ما:
 manifesto-we-need-you = برای پیش بردن مانیفست به شما نیاز داریم
@@ -86,7 +86,7 @@ manifesto-we-build-open-source = <a { $mozai_link }>ابزارهای هوش مص
 manifesto-we-invest-in = <a { $mozvc_link }>در استارتاپ‌های فناوری مسئولیت‌پذیر سرمایه‌گذاری می‌کنیم</a>.
 # Variables:
 #   $mdc_link (url) - link to https://mozilladatacollective.com/
-manifesto-we-run-a-global = <a { $mdc_link }>جامعه‌ای جهانی را اداره می‌کنیم</a> برای تبادل منصفانهٔ داده.
+manifesto-we-run-a-global = <a { $mdc_link }>اجتماع‌ای جهانی را اداره می‌کنیم</a> برای تبادل منصفانهٔ داده.
 # Variables:
 #   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
 manifesto-we-host-a-yearly = <a { $festival_link }>هر سال گردهمایی جهانی‌ای برگزار می‌کنیم</a> برای کسانی که هر چیزی می‌سازند تا مانیفست را پیش ببرند.
