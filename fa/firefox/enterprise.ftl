@@ -24,13 +24,17 @@ firefox-enterprise-enterprise-downloads = بارگیری‌های { -brand-name-
 firefox-enterprise-windows-64-bit = { -brand-name-windows } ۶۴ بیتی
 firefox-enterprise-macos = { -brand-name-mac }
 firefox-enterprise-select-your-download = بارگیری موردنظر خود را انتخاب کنید
+firefox-enterprise-firefox-browser = { -brand-name-firefox-browser }
 firefox-enterprise-firefox-browser-msi-installer = { -brand-name-firefox-browser } - نصب‌کنندهٔ MSI
 firefox-enterprise-firefox-extended-support-release = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr })
 firefox-enterprise-firefox-extended-support-release-msi = { -brand-name-firefox-extended-support-release } ({ -brand-name-esr }) - نصب‌کنندهٔ MSI
+firefox-enterprise-support = پشتیبانی
+firefox-enterprise-msi-installers = نصاب‌های MSI
 firefox-enterprise-legacy-browser-support = پشتیبانی از مرورگرهای قدیمی
 firefox-enterprise-admx-templates = الگوهای ADMX
 firefox-enterprise-deployment-guide = راهنمای استقرار
 firefox-enterprise-policy-documentation = مستندات سیاست‌ها
+firefox-enterprise-release-notes = یادداشت‌های انتشار
 firefox-enterprise-documentation-and-community = مستندات و پشتیبانی جامعه
 # Variables:
 #   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
