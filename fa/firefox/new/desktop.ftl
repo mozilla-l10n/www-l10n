@@ -35,7 +35,7 @@ firefox-desktop-download-review-system-req = بررسی نیازمندی‌ها�
 firefox-desktop-download-all-your-devices = { -brand-name-firefox } را در همه دستگاه‌های خود قرار دهید
 firefox-desktop-download-take-your-privacy = حریم خصوصی خود را همه جا با خود ببرید. { -brand-name-firefox-browsers } برای { -brand-name-ios } و { -brand-name-android } دارای همان تنظیمات حریم خصوصی قوی هستند تا ردیاب‌ها را از دنبال کردن شما در سراسر وب، هر کجا که هستید، مسدود کنند.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-it-all = همه کارها را با { -brand-name-firefox } انجام دهید.
+firefox-desktop-download-do-it-all = <strong>همه</strong> کارها را با { -brand-name-firefox } انجام دهید.
 firefox-desktop-download-search-smarter = هوشمندتر و سریعتر جست‌و‌جو کنید
 firefox-desktop-download-search-from-address = جست‌و‌جو از نوار نشانی
 firefox-desktop-download-search-engine-options = گزینه‌های موتور جست‌و‌جو
