@@ -15,6 +15,10 @@ firefox-products-firefox-beginning-v2 = { -brand-name-firefox } hanyalah permula
 
 firefox-products-mozillas-family-of-products-sentence = Rangkaian produk { -brand-name-mozilla } sepenuhnya dirancang untuk membuat Anda lebih aman dan cerdas saat daring.
 
+## Section headings
+
+
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -55,12 +59,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Akses semua email, kalender, dan kontak Anda dalam satu aplikasi yang cepat. Filter dan atur sesuai keinginan Anda.
 firefox-products-download-thunderbird = Unduh { -brand-name-thunderbird }
 
-## Solo
-
-firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = Buat situs web yang menarik secara instan untuk membantu mengembangkan bisnis Anda. Hubungkan dan hosting domain khusus Anda secara gratis.
-firefox-products-learn-more-about-solo = Pelajari lebih lanjut mengenai { -brand-name-solo }
-
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
@@ -74,4 +72,10 @@ firefox-products-tabstack-desc = Hubungkan aplikasi Anda ke web dengan fitur oto
 firefox-products-learn-more-about-tabstack = Pelajari lebih lanjut mengenai { -brand-name-tabstack }
 
 ## Otari
+
+
+## Mozilla Ads
+
+
+## Firefox for Enterprise
 
