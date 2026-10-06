@@ -32,7 +32,7 @@ footer-refresh-donate = کمک مالی
 footer-refresh-donate-not-for-profit = به سازمان غیرانتفاعی <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> کمک مالی کنید.
 footer-refresh-portions-of-this-content = بخش‌هایی از این محتوا ©1998–{ $current_year } متعلق به مشارکت‌کنندگان mozilla.org است. محتوا تحت <a rel="license" { $href }>مجوز { -brand-name-creative-commons }</a> در دسترس است.
 footer-refresh-websites-privacy-notice = اطلاعیهٔ حریم خصوصی وب‌سایت
-footer-refresh-websites-cookies = کوکی‌ها
+footer-refresh-websites-cookies = کلوچک‌ها
 footer-refresh-websites-legal = حقوقی
 footer-refresh-community-participation-guidelines = رهنمودهای مشارکت در جامعه
 footer-refresh-about-this-site = دربارهٔ این سایت
