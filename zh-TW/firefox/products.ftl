@@ -15,8 +15,8 @@ firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } 
 
 ## Section headings
 
-firefox-products-tabs-everyone = 所有人
-firefox-products-tabs-business = 商業用途
+firefox-products-tabs-everyone = 針對所有人
+firefox-products-tabs-business = 針對商業用途
 # Accessible name for the tab list grouping the sections above, read by screen readers.
 firefox-products-tabs-aria-label = 產品類別
 
@@ -65,7 +65,7 @@ firefox-products-download-thunderbird = 下載 { -brand-name-thunderbird }
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = 將您的 AI 系統連結到由資安專家所組成的全球性社群，讓他們及早發現並修正 GenAI 的漏洞。
-firefox-products-0din-desc-v2 = 在全球安全性研究人員社群與最大規模的可追溯性利用資訊來源全力相挺後在實際環境中發現並修復 AI 漏洞。
+firefox-products-0din-desc-v2 = 在 AI 漏洞進入正式環境前搶先找出並且修正，並由全球資安研究人員社群與規模最大的具名漏洞利用情報來源提供支援。
 firefox-products-test-your-ai = 測試您的 AI 代理人
 firefox-products-learn-more-about-0din = 了解 { -brand-name-0din } 的更多資訊
 
@@ -86,13 +86,13 @@ firefox-products-learn-more-about-otari = 了解 { -brand-name-otari } 的更多
 ## Mozilla Ads
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
-firefox-products-mozilla-ads-desc = 讓您對廣告的購買更有信任。您將連線到超過 2 億 1 千萬有選擇性、有眼光的品牌粉絲。
+firefox-products-mozilla-ads-desc = 讓您的廣告採購更可信任。可觸及超過 2 億 1 千萬會選擇、眼光獨到，品牌的忠誠粉絲。
 firefox-products-extend-your-reach = 拓展觸及範圍
 firefox-products-learn-more-about-mozilla-ads = 了解 { -brand-name-mozilla-ads } 的更多資訊
 
 ## Firefox for Enterprise
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
-firefox-products-firefox-enterprise-desc = 透過企業級的政策控制功能在您的組織當中部署、管理並保護 { -brand-name-firefox }。
+firefox-products-firefox-enterprise-desc = 運用企業級原則控制，在整個組織中部署、管理並讓 { -brand-name-firefox } 變得更安全。
 firefox-products-manage-your-fleet = 部署 { -brand-name-firefox }
 firefox-products-learn-more-about-firefox-enterprise = 了解 { -brand-name-firefox-enterprise } 的更多資訊

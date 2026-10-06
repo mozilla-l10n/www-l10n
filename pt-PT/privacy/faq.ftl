@@ -23,7 +23,7 @@ privacy-faq-firefox-the-web-browser-that-v2 = O { -brand-name-firefox }, o naveg
 privacy-faq-really-you-dont-collect-my-browsing = A sério, vocês não recolhem o meu histórico de navegação?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = A { -brand-name-mozilla } não sabe tanto quanto seria de esperar sobre a forma como as pessoas navegam na Internet. Como fabricante de navegadores, isso representa na realidade um grande desafio para nós. É por isso que criámos ferramentas opcionais, que permitem aos utilizadores interessados partilhar connosco informações sobre a sua navegação na Web. Se sincronizar o seu histórico de navegação entre as instalações do { -brand-name-firefox }, não sabemos qual é esse histórico — porque está encriptado pelo seu dispositivo.
 privacy-faq-it-seems-like-every-company = Parece que todas as empresas na Internet estão a comprar e a vender os meus dados. Provavelmente vocês não são diferentes.
-privacy-faq-we-never-sell-your = Nós nunca vendemos os seus dados pessoais. Ao contrário de outras grandes empresas de tecnologia que recolhem e lucram com a sua informação pessoal, em nós foi construído com a privacidade como predefinição. Não sabemos a sua idade, Género, localização precisa, ou outras informações que as Big Tech recolhem e com as quais lucram.
+privacy-faq-we-never-sell-your = Nunca vendemos os seus dados pessoais. Ao contrário de outras grandes empresas tecnológicas que recolhem as suas informações pessoais e lucram com elas, a nossa plataforma foi concebida tendo a privacidade como princípio fundamental. Não sabemos a sua idade, género, localização exata, nem outras informações que as Big Tech recolhem e com as quais lucram.
 privacy-faq-wait-so-how-do-you-make-money = Esperem, então como é que fazem dinheiro?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
@@ -33,7 +33,7 @@ privacy-faq-okay-those-first-few-were-softballs = Ok, estas primeiras foram para
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited-v2 = Por predefinição, a { -brand-name-mozilla } recolhe um conjunto limitado de dados do { -brand-name-firefox } que nos ajudam a perceber como as pessoas utilizam o navegador. Pode ler mais sobre isto na nossa <a href="{ $privacy }">informação de privacidade</a> e pode ler a <a href="{ $data }">documentação completa para essa recolha de dados</a >.
+privacy-faq-mozilla-does-collect-a-limited-v2 = Por predefinição a { -brand-name-mozilla } recolhe um conjunto limitado de dados do { -brand-name-firefox } que nos ajuda a compreender como as pessoas utilizam o navegador. Pode ler mais na nossa <a href="{ $privacy }">declaração de privacidade</a> e pode ler a <a href="{ $data }">documentação completa relativa a essa recolha de dados</a>.
 privacy-faq-we-make-our-documentation-public = Nós tornamos a nossa documentação pública para que qualquer pessoa possa confirmar que o que dizemos é verdade, para nos dizerem se precisamos de melhorar e para terem a certeza que não estamos a esconder nada.
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = Não consigo compreender essa documentação. Podem explicar por outras palavras?
