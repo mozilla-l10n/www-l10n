@@ -80,3 +80,8 @@ firefox-products-learn-more-about-otari = Les mer om { -brand-name-otari }
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-learn-more-about-mozilla-ads = Les mer om { -brand-name-mozilla-ads }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-learn-more-about-firefox-enterprise = Les mer om { -brand-name-firefox-enterprise }

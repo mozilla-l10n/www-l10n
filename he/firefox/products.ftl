@@ -6,6 +6,17 @@
 ### URL: https://www-dev.allizom.org/products/
 
 
+## Section headings
+
+firefox-products-tabs-everyone = עבור כולם
+firefox-products-tabs-business = עבור עסקים
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = קטגוריות מוצרים
+
+## Focus
+
+firefox-products-get-focus = קבלת { -brand-name-firefox-focus }
+
 ## Relay
 
 firefox-products-relay = { -brand-name-firefox-relay }
