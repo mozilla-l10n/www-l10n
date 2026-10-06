@@ -13,6 +13,13 @@ firefox-products-products = Productos
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } es solo le initio.
 firefox-products-mozillas-family-of-products-sentence = Le familia de productos de { -brand-name-mozilla } es tote designate pro mantener te plus secur e plus intelligente online.
 
+## Section headings
+
+firefox-products-tabs-everyone = Pro omnes
+firefox-products-tabs-business = Pro negotios
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = Categorias de productos
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
