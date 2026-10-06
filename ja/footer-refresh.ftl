@@ -4,13 +4,7 @@
 
 footer-refresh-discover-mozilla-products = { -brand-name-mozilla } の製品と取り組みをご覧ください。Mozilla は、ユーザーのメールアドレスのプライバシーとセキュリティをお守りすることを約束します。共有や売却することはなく、ただ快適なアップデートのみをお届けします。
 footer-refresh-leadership = リーダーシップ
-footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
-# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-ads = <span>{ footer-refresh-mozilla-ads } について</span>詳しく知る
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = <span>{ -brand-name-mozilla } 広告</span>の詳細
 footer-refresh-firefox-release-notes = { -brand-name-firefox } リリースノート
-footer-refresh-add-trust-to = 広告の購入に信頼を。
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } をフォロー
 footer-refresh-instagram = Instagram
@@ -36,8 +30,6 @@ footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = ツール
 footer-refresh-donate = 寄付する
 footer-refresh-donate-not-for-profit = 非営利法人 <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> にご寄付をお願いします。
-# Obsolete string (expires 2026-08-01)
-footer-refresh-visit-mozilla-corporations-v2 = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> の母体の非営利法人である <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> をご覧ください。
 footer-refresh-portions-of-this-content = このコンテンツの一部は ©1998–{ $current_year }、mozilla.org の個人寄稿者。コンテンツは <a rel="license" { $href }>{ -brand-name-creative-commons } のライセンス</a>の下で公開。
 footer-refresh-websites-privacy-notice = ウェブサイトのプライバシーに関する通知
 footer-refresh-websites-cookies = Cookie
